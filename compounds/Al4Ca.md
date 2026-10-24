@@ -14,28 +14,28 @@ Table: Enthalpy of formation of Al4Ca reported in the literature (22)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -219.5 kJ/mol (basis unstated) ± 20 | Al₄Ca | 298.15 | experimental | dissolution | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [1] Anglezio 1994; _cites ref. 59Koc_ | Table II, p. 8, row 2 |  |
-| -209 kJ/mol (basis unstated) ± 30 | Al₄Ca | 298.15 | experimental | combustion | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [1] Anglezio 1994; _cites ref. 59Koc_ | Table II, p. 8, row 1 |  |
-| -100.9 kJ/mol (basis unstated) ± 1.9 | Al₄Ca | 298.15 | experimental | H₂ titration | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [1] Anglezio 1994; _cites ref. 81Vel_ | Table II, p. 8, row 9 |  |
-| -97 kJ/mol (basis unstated) ± 16.5 | Al₄Ca | 800 | experimental | e.m.f | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [1] Anglezio 1994; _cites ref. 82Not2_ | Table II, p. 8, row 6 |  |
-| -93.5 kJ/mol (basis unstated) ± 1.25 | Al₄Ca | 953 | experimental | calorimetry | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [1] Anglezio 1994; _cites ref. 82Not1_ | Table II, p. 8, row 5 |  |
-| -20.2 kJ/mol-atom ± 0.4 | Al4Ca | 298.15 | experimental | Experiment | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [2] Ozturk 2005; _cites Veleckis 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990098-9) | Table IV, p. 5, row 9 |  |
-| -20.18 kJ/mol-atom ± 0.38 | Al4Ca | 788 | experimental | Hydrogen Titration | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [3] ISLAM 2005; _cites ref. 34_ | Table V, p. 9, row 7 |  |
-| -19.4 kJ/mol-atom ± 3.3 | Al4Ca | 298.15 | experimental | Experiment | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [2] Ozturk 2005; _cites Notin 1982_ [doi](https://doi.org/10.1016/0364-5916%2882%2990015-3) | Table IV, p. 5, row 10 |  |
-| -19.4 kJ/mol-atom ± 3.3 | Al4Ca | 800 | experimental | Emf | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [3] ISLAM 2005; _cites ref. 35_ | Table V, p. 9, row 9 |  |
-| -18.7 kJ/mol-atom ± 0.3 | Al4Ca | 1038 | experimental | Precipitation Calorimetry | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [3] ISLAM 2005; _cites ref. 31_ | Table V, p. 9, row 8 |  |
-| -18.7 kJ/mol-atom ± 0.3 | Al4Ca | 298.15 | experimental | Experiment | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [2] Ozturk 2005; _cites Notin 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906001-0) | Table IV, p. 5, row 8 |  |
-| -100.509 kJ/mol (basis unstated) | Al₄Ca | 800 | model | optimization | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [1] Anglezio 1994 | Table II, p. 8, row 8 |  |
-| -93.5 kJ/mol (basis unstated) | Al₄Ca |  | model | optimization | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [1] Anglezio 1994; _cites ref. 88Itk_ | Table II, p. 8, row 10 |  |
-| -28.968 kJ/mol-atom | Al4Ca |  | model | thermodynamic evaluation | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [2] Ozturk 2005; _cites Itkin 1988_ [doi](https://doi.org/10.1007/bf02883160) | Table IV, p. 5, row 4 |  |
-| -21 kJ/mol-atom | Al4Ca | 800 | model | Assessed | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [3] ISLAM 2005; _cites ref. 26_ | Table V, p. 9, row 10 |  |
-| -21 kJ/mol-atom | Al4Ca |  | model | thermodynamic evaluation | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [2] Ozturk 2005; _cites Kevorkov 2001_ | Table IV, p. 5, row 6 |  |
-| -19.248 kJ/mol-atom | Al4Ca |  | model | thermodynamic evaluation | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [2] Ozturk 2005; _cites Ozturk 2002_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901713-3) | Table IV, p. 5, row 5 |  |
-| -17.27 kJ/mol-atom | Al4Ca | 298.15 | model | Calculated in this work | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [3] ISLAM 2005 | Table V, p. 9, row 11 |  |
-| -21.615 kJ/mol-atom | Al4Ca | 0 | DFT | VASP | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [2] Ozturk 2005 | Table IV, p. 5, row 3 |  |
-| -20.034 kJ/mol-atom | Al4Ca | 0 | DFT | thermodynamic evaluation | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [2] Ozturk 2005 | Table IV, p. 5, row 7 |  |
-| -19.56 kJ/mol-atom | Al4Ca | 0 | DFT | WIEN2k | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [2] Ozturk 2005 | Table IV, p. 5, row 1 |  |
-| -19.208 kJ/mol-atom | Al4Ca | 0 | DFT | VASP | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [2] Ozturk 2005 | Table IV, p. 5, row 2 |  |
+| -219.5 kJ/mol (basis unstated) ± 20 | Al₄Ca | 298.15 | experimental | dissolution | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [1] Anglezio 1994; _cites ref. 59Koc_ | Table II, p. 8, row 2; `ORC-LXRU5OQKZV.15fe71` |  |
+| -209 kJ/mol (basis unstated) ± 30 | Al₄Ca | 298.15 | experimental | combustion | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [1] Anglezio 1994; _cites ref. 59Koc_ | Table II, p. 8, row 1; `ORC-EJFC52C5XG.dc96fc` |  |
+| -100.9 kJ/mol (basis unstated) ± 1.9 | Al₄Ca | 298.15 | experimental | H₂ titration | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [1] Anglezio 1994; _cites ref. 81Vel_ | Table II, p. 8, row 9; `ORC-5XLNAMXD2F.b40b90` |  |
+| -97 kJ/mol (basis unstated) ± 16.5 | Al₄Ca | 800 | experimental | e.m.f | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [1] Anglezio 1994; _cites ref. 82Not2_ | Table II, p. 8, row 6; `ORC-JJXT5PKAWV.05737a` |  |
+| -93.5 kJ/mol (basis unstated) ± 1.25 | Al₄Ca | 953 | experimental | calorimetry | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [1] Anglezio 1994; _cites ref. 82Not1_ | Table II, p. 8, row 5; `ORC-TSGCRXNQPF.382a6d` |  |
+| -20.2 kJ/mol-atom ± 0.4 | Al4Ca | 298.15 | experimental | Experiment | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [2] Ozturk 2005; _cites Veleckis 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990098-9) | Table IV, p. 5, row 9; `ORC-IGHKVCH3WK.e8a495` |  |
+| -20.18 kJ/mol-atom ± 0.38 | Al4Ca | 788 | experimental | Hydrogen Titration | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [3] ISLAM 2005; _cites ref. 34_ | Table V, p. 9, row 7; `ORC-V6C7CC5AWB.96c99b` |  |
+| -19.4 kJ/mol-atom ± 3.3 | Al4Ca | 298.15 | experimental | Experiment | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [2] Ozturk 2005; _cites Notin 1982_ [doi](https://doi.org/10.1016/0364-5916%2882%2990015-3) | Table IV, p. 5, row 10; `ORC-NEIOD6VMFX.382bad` |  |
+| -19.4 kJ/mol-atom ± 3.3 | Al4Ca | 800 | experimental | Emf | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [3] ISLAM 2005; _cites ref. 35_ | Table V, p. 9, row 9; `ORC-XCFMJUUOJ7.2df71d` |  |
+| -18.7 kJ/mol-atom ± 0.3 | Al4Ca | 1038 | experimental | Precipitation Calorimetry | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [3] ISLAM 2005; _cites ref. 31_ | Table V, p. 9, row 8; `ORC-6QKP4VARKE` |  |
+| -18.7 kJ/mol-atom ± 0.3 | Al4Ca | 298.15 | experimental | Experiment | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [2] Ozturk 2005; _cites Notin 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906001-0) | Table IV, p. 5, row 8; `ORC-PNDWNRMG4M.781315` |  |
+| -100.509 kJ/mol (basis unstated) | Al₄Ca | 800 | model | optimization | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [1] Anglezio 1994 | Table II, p. 8, row 8; `ORC-VFOS3PDKWJ.035384` |  |
+| -93.5 kJ/mol (basis unstated) | Al₄Ca |  | model | optimization | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [1] Anglezio 1994; _cites ref. 88Itk_ | Table II, p. 8, row 10; `ORC-QATZUPXM73.904686` |  |
+| -28.968 kJ/mol-atom | Al4Ca |  | model | thermodynamic evaluation | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [2] Ozturk 2005; _cites Itkin 1988_ [doi](https://doi.org/10.1007/bf02883160) | Table IV, p. 5, row 4; `ORC-5BNEP3SMRJ.9e2ab6` |  |
+| -21 kJ/mol-atom | Al4Ca | 800 | model | Assessed | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [3] ISLAM 2005; _cites ref. 26_ | Table V, p. 9, row 10; `ORC-PM3XOMMOPJ.ef7fa2` |  |
+| -21 kJ/mol-atom | Al4Ca |  | model | thermodynamic evaluation | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [2] Ozturk 2005; _cites Kevorkov 2001_ | Table IV, p. 5, row 6; `ORC-Y4OP5S2EAC.694bd0` |  |
+| -19.248 kJ/mol-atom | Al4Ca |  | model | thermodynamic evaluation | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [2] Ozturk 2005; _cites Ozturk 2002_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901713-3) | Table IV, p. 5, row 5; `ORC-YFAK27MANA.76e24e` |  |
+| -17.27 kJ/mol-atom | Al4Ca | 298.15 | model | Calculated in this work | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [3] ISLAM 2005 | Table V, p. 9, row 11; `ORC-NEVTWCUSSA.579ca6` |  |
+| -21.615 kJ/mol-atom | Al4Ca | 0 | DFT | VASP | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [2] Ozturk 2005 | Table IV, p. 5, row 3; `ORC-J5T6TBKDML.ce13f5` |  |
+| -20.034 kJ/mol-atom | Al4Ca | 0 | DFT | thermodynamic evaluation | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [2] Ozturk 2005 | Table IV, p. 5, row 7; `ORC-ARDICSAW5Q.302cb1` |  |
+| -19.56 kJ/mol-atom | Al4Ca | 0 | DFT | WIEN2k | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [2] Ozturk 2005 | Table IV, p. 5, row 1; `ORC-72BYE267EP.c00d79` |  |
+| -19.208 kJ/mol-atom | Al4Ca | 0 | DFT | VASP | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [2] Ozturk 2005 | Table IV, p. 5, row 2; `ORC-2KOSDBV2KV.80c689` |  |
 
 ### Uncertainty budget
 
@@ -134,4 +134,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

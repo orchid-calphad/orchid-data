@@ -14,12 +14,12 @@ Table: Enthalpy of formation of LaC2 reported in the literature (6)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -50.3 kJ/mol-atom ± 5.3 | LaC2 | 298.15 | experimental | Langmuir evaporation | [C–La](https://data.orchid-project.org/systems/C-LA.html) | [1] Peng 2011; _cites Jackson 1963_ | Table 2, p. 2, row 7 |  |
-| -29.7 kJ/mol-atom ± 8 | LaC2 | 298.15 | experimental | Knudsen effusion | [C–La](https://data.orchid-project.org/systems/C-LA.html) | [1] Peng 2011; _cites Stearns 1971_ [doi](https://doi.org/10.1063/1.1674812) | Table 2, p. 2, row 6 |  |
-| -29.1 kJ/mol-atom ± 3.5 | LaC2 | 298.15 | experimental | emf | [C–La](https://data.orchid-project.org/systems/C-LA.html) | [1] Peng 2011; _cites Anderson 2011_ | Table 2, p. 2, row 5 |  |
-| -27.2 kJ/mol-atom ± 1.4 | LaC2 | 298.15 | experimental | Calorimetry | [C–La](https://data.orchid-project.org/systems/C-LA.html) | [1] Peng 2011; _cites Meschel 1994_ [doi](https://doi.org/10.1016/0925-8388%2894%2990783-8) | Table 2, p. 2, row 4 |  |
-| -26.5 kJ/mol-atom | LaC2 | 298.15 | experimental | Knudsen effusion | [C–La](https://data.orchid-project.org/systems/C-LA.html) | [1] Peng 2011; _cites Faircloth 1968_ [doi](https://doi.org/10.1016/0022-1902%2868%2980476-2) | Table 2, p. 2, row 3 |  |
-| -19.5 kJ/mol-atom ± 3.4 | LaC2 | 298.15 | experimental | CO pressure | [C–La](https://data.orchid-project.org/systems/C-LA.html) | [1] Peng 2011; _cites Vidhya 2001_ [doi](https://doi.org/10.1016/s0022-3115%2801%2900536-0) | Table 2, p. 2, row 2 |  |
+| -50.3 kJ/mol-atom ± 5.3 | LaC2 | 298.15 | experimental | Langmuir evaporation | [C–La](https://data.orchid-project.org/systems/C-LA.html) | [1] Peng 2011; _cites Jackson 1963_ | Table 2, p. 2, row 7; `ORC-O47AGS3ZPY.a046ac` |  |
+| -29.7 kJ/mol-atom ± 8 | LaC2 | 298.15 | experimental | Knudsen effusion | [C–La](https://data.orchid-project.org/systems/C-LA.html) | [1] Peng 2011; _cites Stearns 1971_ [doi](https://doi.org/10.1063/1.1674812) | Table 2, p. 2, row 6; `ORC-WXDYUNUKVR.54714a` |  |
+| -29.1 kJ/mol-atom ± 3.5 | LaC2 | 298.15 | experimental | emf | [C–La](https://data.orchid-project.org/systems/C-LA.html) | [1] Peng 2011; _cites Anderson 2011_ | Table 2, p. 2, row 5; `ORC-W4XUUAX3WJ.32c0d3` |  |
+| -27.2 kJ/mol-atom ± 1.4 | LaC2 | 298.15 | experimental | Calorimetry | [C–La](https://data.orchid-project.org/systems/C-LA.html) | [1] Peng 2011; _cites Meschel 1994_ [doi](https://doi.org/10.1016/0925-8388%2894%2990783-8) | Table 2, p. 2, row 4; `ORC-ZCHDPBOWWR.c67de5` |  |
+| -26.5 kJ/mol-atom | LaC2 | 298.15 | experimental | Knudsen effusion | [C–La](https://data.orchid-project.org/systems/C-LA.html) | [1] Peng 2011; _cites Faircloth 1968_ [doi](https://doi.org/10.1016/0022-1902%2868%2980476-2) | Table 2, p. 2, row 3; `ORC-6SLPF675OA` |  |
+| -19.5 kJ/mol-atom ± 3.4 | LaC2 | 298.15 | experimental | CO pressure | [C–La](https://data.orchid-project.org/systems/C-LA.html) | [1] Peng 2011; _cites Vidhya 2001_ [doi](https://doi.org/10.1016/s0022-3115%2801%2900536-0) | Table 2, p. 2, row 2; `ORC-KHHBFCTQM4.05e5f4` |  |
 
 ### Uncertainty budget
 
@@ -100,4 +100,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

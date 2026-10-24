@@ -14,16 +14,16 @@ Table: Enthalpy of formation of Ni3Sn4 reported in the literature (10)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -33.704 kJ/mol (basis unstated) | Ni3Sn4 | 1023 | experimental |  | [Ni–Sn](https://data.orchid-project.org/systems/NI-SN.html) | [1] Ghosh 1999; _cites Dannohl 1974_ | Table III, p. 12, row 13 |  |
-| -33.704 kJ/mol (basis unstated) | Ni3Sn4 | 1023 | experimental |  | [Ni–Sn](https://data.orchid-project.org/systems/NI-SN.html) | [2] Liu 2004; _cites Dannohl 1974_ | Table 3, p. 5, row 13 |  |
-| -25.33 kJ/mol (basis unstated) | Ni3Sn4(π) | 298.15 | experimental |  | [Ni–Sn](https://data.orchid-project.org/systems/NI-SN.html) | [3] Miettinen 2003; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 5, p. 5, row 10 |  |
-| -25.33 kJ/mol (basis unstated) | Ni3Sn4 | 298.15 | experimental |  | [Ni–Sn](https://data.orchid-project.org/systems/NI-SN.html) | [1] Ghosh 1999; _cites Predel 1979_ | Table III, p. 12, row 11 |  |
-| -30.823 kJ/mol (basis unstated) | Ni3Sn4 | 1023 | model |  | [Ni–Sn](https://data.orchid-project.org/systems/NI-SN.html) | [2] Liu 2004 | Table 3, p. 5, row 15 |  |
-| -29.359 kJ/mol (basis unstated) | Ni3Sn4 | 1023 | model |  | [Ni–Sn](https://data.orchid-project.org/systems/NI-SN.html) | [2] Liu 2004; _cites Ghosh 1999_ [doi](https://doi.org/10.1007/s11661-999-0085-x) | Table 3, p. 5, row 14 |  |
-| -25.68 kJ/mol (basis unstated) | Ni3Sn4(π) | 298.15 | model |  | [Ni–Sn](https://data.orchid-project.org/systems/NI-SN.html) | [3] Miettinen 2003 | Table 5, p. 5, row 12 |  |
-| -25.41 kJ/mol (basis unstated) | Ni3Sn4(π) | 298.15 | model |  | [Ni–Sn](https://data.orchid-project.org/systems/NI-SN.html) | [3] Miettinen 2003; _cites Ghosh 1999_ [doi](https://doi.org/10.1007/s11661-999-0085-x) | Table 5, p. 5, row 11 |  |
-| -29.359 kJ/mol (basis unstated) | Ni3Sn4 | 1023 | unspecified |  | [Ni–Sn](https://data.orchid-project.org/systems/NI-SN.html) | [1] Ghosh 1999 | Table III, p. 12, row 14 |  |
-| -25.409 kJ/mol (basis unstated) | Ni3Sn4 | 298.15 | unspecified |  | [Ni–Sn](https://data.orchid-project.org/systems/NI-SN.html) | [1] Ghosh 1999 | Table III, p. 12, row 12 |  |
+| -33.704 kJ/mol (basis unstated) | Ni3Sn4 | 1023 | experimental |  | [Ni–Sn](https://data.orchid-project.org/systems/NI-SN.html) | [1] Ghosh 1999; _cites Dannohl 1974_ | Table III, p. 12, row 13; `ORC-LSA7QRYLEE` |  |
+| -33.704 kJ/mol (basis unstated) | Ni3Sn4 | 1023 | experimental |  | [Ni–Sn](https://data.orchid-project.org/systems/NI-SN.html) | [2] Liu 2004; _cites Dannohl 1974_ | Table 3, p. 5, row 13; `ORC-SZR46YCIGY` |  |
+| -25.33 kJ/mol (basis unstated) | Ni3Sn4(π) | 298.15 | experimental |  | [Ni–Sn](https://data.orchid-project.org/systems/NI-SN.html) | [3] Miettinen 2003; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 5, p. 5, row 10; `ORC-LPWK63T4HM` |  |
+| -25.33 kJ/mol (basis unstated) | Ni3Sn4 | 298.15 | experimental |  | [Ni–Sn](https://data.orchid-project.org/systems/NI-SN.html) | [1] Ghosh 1999; _cites Predel 1979_ | Table III, p. 12, row 11; `ORC-TK3AO7PTAZ` |  |
+| -30.823 kJ/mol (basis unstated) | Ni3Sn4 | 1023 | model |  | [Ni–Sn](https://data.orchid-project.org/systems/NI-SN.html) | [2] Liu 2004 | Table 3, p. 5, row 15; `ORC-7GNPDZFA7D` |  |
+| -29.359 kJ/mol (basis unstated) | Ni3Sn4 | 1023 | model |  | [Ni–Sn](https://data.orchid-project.org/systems/NI-SN.html) | [2] Liu 2004; _cites Ghosh 1999_ [doi](https://doi.org/10.1007/s11661-999-0085-x) | Table 3, p. 5, row 14; `ORC-KD4LBBV73D` |  |
+| -25.68 kJ/mol (basis unstated) | Ni3Sn4(π) | 298.15 | model |  | [Ni–Sn](https://data.orchid-project.org/systems/NI-SN.html) | [3] Miettinen 2003 | Table 5, p. 5, row 12; `ORC-DECTGNHSUV` |  |
+| -25.41 kJ/mol (basis unstated) | Ni3Sn4(π) | 298.15 | model |  | [Ni–Sn](https://data.orchid-project.org/systems/NI-SN.html) | [3] Miettinen 2003; _cites Ghosh 1999_ [doi](https://doi.org/10.1007/s11661-999-0085-x) | Table 5, p. 5, row 11; `ORC-BQXNQJAPGW` |  |
+| -29.359 kJ/mol (basis unstated) | Ni3Sn4 | 1023 | unspecified |  | [Ni–Sn](https://data.orchid-project.org/systems/NI-SN.html) | [1] Ghosh 1999 | Table III, p. 12, row 14; `ORC-46XZZ52ZWY` |  |
+| -25.409 kJ/mol (basis unstated) | Ni3Sn4 | 298.15 | unspecified |  | [Ni–Sn](https://data.orchid-project.org/systems/NI-SN.html) | [1] Ghosh 1999 | Table III, p. 12, row 12; `ORC-IWL5UCJD4G` |  |
 
 ### Uncertainty budget
 
@@ -97,4 +97,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

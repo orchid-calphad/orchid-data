@@ -14,10 +14,10 @@ Table: Enthalpy of formation of FeHf2 reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -24 kJ/mol-atom ± 3.5 | FeHf2 | 1493 | experimental | Calorimetry | [Fe–Hf](https://data.orchid-project.org/systems/FE-HF.html) | [1] Idbenali 2008; _cites Gachon 1992_ [doi](https://doi.org/10.1007/bf02665763) | Table 2, p. 3, row 9 |  |
-| -23.9 kJ/mol-atom | FeHf2 | 1493 | model | Optimization | [Fe–Hf](https://data.orchid-project.org/systems/FE-HF.html) | [1] Idbenali 2008 | Table 2, p. 3, row 12 |  |
-| -23 kJ/mol-atom | FeHf2 | 298.15 | model | Prediction | [Fe–Hf](https://data.orchid-project.org/systems/FE-HF.html) | [1] Idbenali 2008; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 2, p. 3, row 11 |  |
-| -22 kJ/mol-atom | FeHf2 |  | model | Calculation | [Fe–Hf](https://data.orchid-project.org/systems/FE-HF.html) | [1] Idbenali 2008; _cites Yu 1973_ | Table 2, p. 3, row 10 |  |
+| -24 kJ/mol-atom ± 3.5 | FeHf2 | 1493 | experimental | Calorimetry | [Fe–Hf](https://data.orchid-project.org/systems/FE-HF.html) | [1] Idbenali 2008; _cites Gachon 1992_ [doi](https://doi.org/10.1007/bf02665763) | Table 2, p. 3, row 9; `ORC-SZSL3Q5JC4` |  |
+| -23.9 kJ/mol-atom | FeHf2 | 1493 | model | Optimization | [Fe–Hf](https://data.orchid-project.org/systems/FE-HF.html) | [1] Idbenali 2008 | Table 2, p. 3, row 12; `ORC-C6YLJ6N5BU` |  |
+| -23 kJ/mol-atom | FeHf2 | 298.15 | model | Prediction | [Fe–Hf](https://data.orchid-project.org/systems/FE-HF.html) | [1] Idbenali 2008; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 2, p. 3, row 11; `ORC-DCOLHL4X65` |  |
+| -22 kJ/mol-atom | FeHf2 |  | model | Calculation | [Fe–Hf](https://data.orchid-project.org/systems/FE-HF.html) | [1] Idbenali 2008; _cites Yu 1973_ | Table 2, p. 3, row 10; `ORC-P2Z2XXT6AU` |  |
 
 ### Uncertainty budget
 
@@ -96,4 +96,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

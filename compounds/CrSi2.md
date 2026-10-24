@@ -14,14 +14,14 @@ Table: Enthalpy of formation of CrSi2 reported in the literature (8)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -40.2 kJ/mol-atom | CrSi2 | 298.15 | experimental |  | [Cr–Si](https://data.orchid-project.org/systems/CR-SI.html) | [1] Coughanowr 1994; _cites ref. 61Gol2_ | Table 6, p. 14, row 13 |  |
-| -25.8 kJ/mol-atom | CrSi2 | 298.15 | experimental |  | [Cr–Si](https://data.orchid-project.org/systems/CR-SI.html) | [1] Coughanowr 1994; _cites ref. 87Top_ | Table 6, p. 14, row 14 |  |
-| -25.8 per mol-atom ± 4400 | CrSi2 | 298.15 | experimental |  | [Cr–Si](https://data.orchid-project.org/systems/CR-SI.html) | [2] Du 2000; _cites ref. 1987Top_ | Table 4, p. 4, row 10 |  |
-| -27.296 per mol-atom | CrSi2 | 298.15 | model |  | [Cr–Si](https://data.orchid-project.org/systems/CR-SI.html) | [2] Du 2000 | Table 4, p. 4, row 11 |  |
-| -26.1 kJ/mol-atom | CrSi2 |  | model |  | [Cr–Si](https://data.orchid-project.org/systems/CR-SI.html) | [1] Coughanowr 1994 | Table 6, p. 14, row 16 |  |
-| -26.09 kJ/mol-atom | CrSi2 |  | model |  | [Cr–Si](https://data.orchid-project.org/systems/CR-SI.html) | [1] Coughanowr 1994 | Table 6, p. 14, row 17 |  |
-| -26.08 kJ/mol-atom | CrSi2 |  | model |  | [Cr–Si](https://data.orchid-project.org/systems/CR-SI.html) | [1] Coughanowr 1994 | Table 6, p. 14, row 15 |  |
-| -26.08 per mol-atom | CrSi2 | 298.15 | model |  | [Cr–Si](https://data.orchid-project.org/systems/CR-SI.html) | [2] Du 2000; _cites Coughanowr 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990023-x) | Table 4, p. 4, row 12 |  |
+| -40.2 kJ/mol-atom | CrSi2 | 298.15 | experimental |  | [Cr–Si](https://data.orchid-project.org/systems/CR-SI.html) | [1] Coughanowr 1994; _cites ref. 61Gol2_ | Table 6, p. 14, row 13; `ORC-SFXQ74N26N.a559ce` |  |
+| -25.8 kJ/mol-atom | CrSi2 | 298.15 | experimental |  | [Cr–Si](https://data.orchid-project.org/systems/CR-SI.html) | [1] Coughanowr 1994; _cites ref. 87Top_ | Table 6, p. 14, row 14; `ORC-UAYIRY3KNJ.a55890` |  |
+| -25.8 per mol-atom ± 4400 | CrSi2 | 298.15 | experimental |  | [Cr–Si](https://data.orchid-project.org/systems/CR-SI.html) | [2] Du 2000; _cites ref. 1987Top_ | Table 4, p. 4, row 10; `ORC-XNP6VSN2VU.b70f2b` |  |
+| -27.296 per mol-atom | CrSi2 | 298.15 | model |  | [Cr–Si](https://data.orchid-project.org/systems/CR-SI.html) | [2] Du 2000 | Table 4, p. 4, row 11; `ORC-4I52HOG5PC.e4084e` |  |
+| -26.1 kJ/mol-atom | CrSi2 |  | model |  | [Cr–Si](https://data.orchid-project.org/systems/CR-SI.html) | [1] Coughanowr 1994 | Table 6, p. 14, row 16; `ORC-AJEDRVSVRA.a1949e` |  |
+| -26.09 kJ/mol-atom | CrSi2 |  | model |  | [Cr–Si](https://data.orchid-project.org/systems/CR-SI.html) | [1] Coughanowr 1994 | Table 6, p. 14, row 17; `ORC-EXZPL6NJGR.0afd82` |  |
+| -26.08 kJ/mol-atom | CrSi2 |  | model |  | [Cr–Si](https://data.orchid-project.org/systems/CR-SI.html) | [1] Coughanowr 1994 | Table 6, p. 14, row 15; `ORC-6PSZBSK6B4.3489ac` |  |
+| -26.08 per mol-atom | CrSi2 | 298.15 | model |  | [Cr–Si](https://data.orchid-project.org/systems/CR-SI.html) | [2] Du 2000; _cites Coughanowr 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990023-x) | Table 4, p. 4, row 12; `ORC-WT5MIQADSB.06cb7a` |  |
 
 ### Uncertainty budget
 
@@ -105,4 +105,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

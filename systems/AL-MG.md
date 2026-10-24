@@ -170,37 +170,37 @@ Table: Invariant reactions reported in the literature for the Al–Mg system (31
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 736.3 | congruent melting: Al12Mg17 -> Liquid | Al12Mg17: Mg 0.523; Liquid: Mg 0.523 | unspecified | [1] Hämäläinen 1998 | Table I, p. 69, row 7 |  |
-| 733.3 | congruent melting: Al12Mg17 -> Liquid | Al12Mg17: Mg 0.556; Liquid: Mg 0.556 | unspecified | [1] Hämäläinen 1998 | Table I, p. 63, row 9 |  |
-| 725.15 | L+γ= ζ | L: Mg 0.442; γ: Mg 0.514; ζ: Mg 0.475 | model | [2] Zuo 1993 | Table 2, p. 10, row 7 |  |
-| 725.15 | L+γ= ζ | L: Mg 0.445; γ: Mg 0.506; ζ: Mg 0.481 | experimental | [2] Zuo 1993; _cites ref. 8_ | Table 2, p. 10, row 8 |  |
-| 725.1 | eutectic: Liquid = fcc-A1 + β | L: Mg 0.366; fcc-A1: Mg 0.166; β: Mg 0.389 | model | [3] Zhong 2005 | Table 5, p. 6, row 1 |  |
-| 725 | eutectic: Liquid = β + γ | L: Mg 0.413; β: Mg 0.389; γ: Mg 0.473 | model | [3] Zhong 2005 | Table 5, p. 6, row 2 |  |
-| 725 | peritectic: Liquid + Al12Mg17 -> AlMg-ζ | Liquid: Mg 0.468; Al12Mg17: Mg 0.522; AlMg-ζ: Mg 0.475 | unspecified | [1] Hämäläinen 1998 | Table I, p. 63, row 4 |  |
-| 724.7 | congruent melting: AlMg-β -> Liquid | AlMg-β: Mg 0.385; Liquid: Mg 0.385 | unspecified | [1] Hämäläinen 1998 | Table I, p. 69, row 6 |  |
-| 724.1 | congruent melting: AlMg-β -> Liquid | AlMg-β: Mg 0.385; Liquid: Mg 0.385 | unspecified | [1] Hämäläinen 1998 | Table I, p. 63, row 8 |  |
-| 723.6 | eutectic: Liquid -> fcc-A1 + AlMg-β | Liquid: Mg 0.363; fcc-A1: Mg 0.166; AlMg-β: Mg 0.389 | unspecified | [1] Hämäläinen 1998 | Table I, p. 69, row 1 |  |
-| 723.55 | L+ζ = ε | L: Mg 0.43; ζ: Mg 0.475; ε: Mg 0.44 | model | [2] Zuo 1993 | Table 2, p. 10, row 5 |  |
-| 723.3 | eutectic: Liquid -> fcc-A1 + AlMg-β | Liquid: Mg 0.363; fcc-A1: Mg 0.166; AlMg-β: Mg 0.385 | unspecified | [1] Hämäläinen 1998 | Table I, p. 63, row 1 |  |
-| 723.15 | L+ζ = ε | L: Mg 0.425; ζ: Mg 0.464; ε: Mg 0.447 | experimental | [2] Zuo 1993; _cites ref. 8_ | Table 2, p. 10, row 6 |  |
-| 723.15 | L= (Al) + β | L: Mg 0.369; (Al): Mg 0.165; β: Mg 0.385 | experimental | [2] Zuo 1993; _cites ref. 8_ | Table 2, p. 10, row 2 |  |
-| 722.85 | L= (Al) + β | L: Mg 0.368; (Al): Mg 0.165; β: Mg 0.385 | model | [2] Zuo 1993 | Table 2, p. 10, row 1 |  |
-| 722.7 | eutectic: Liquid -> AlMg-β + AlMg-γ | Liquid: Mg 0.424; AlMg-β: Mg 0.389; AlMg-γ: Mg 0.48 | unspecified | [1] Hämäläinen 1998 | Table I, p. 69, row 2 |  |
-| 722.35 | L= β + ε | L: Mg 0.411; β: Mg 0.385; ε: Mg 0.44 | model | [2] Zuo 1993 | Table 2, p. 10, row 3 |  |
-| 722 | peritectic: Liquid + AlMg-ζ -> + AlMg-ε | Liquid: Mg 0.436; AlMg-ζ: Mg 0.475; AlMg-ε: Mg 0.44 | unspecified | [1] Hämäläinen 1998 | Table I, p. 63, row 3 |  |
-| 721.5 | eutectic: Liquid -> AlMg-β + AlMg-ε | Liquid: Mg 0.423; AlMg-β: Mg 0.385; AlMg-ε: Mg 0.44 | unspecified | [1] Hämäläinen 1998 | Table I, p. 63, row 2 |  |
-| 721.15 | L= β + ε | L: Mg 0.408; β: Mg 0.385; ε: Mg 0.425 | experimental | [2] Zuo 1993; _cites ref. 8_ | Table 2, p. 10, row 4 |  |
-| 712.1 | eutectic: Liquid = γ + hcp-A3 | L: Mg 0.693; γ: Mg 0.593; hcp-A3: Mg 0.889 | model | [3] Zhong 2005 | Table 5, p. 6, row 5 |  |
-| 711.15 | L=γ + (Mg) | L: Mg 0.698; γ: Mg 0.594; (Mg): Mg 0.886 | experimental | [2] Zuo 1993; _cites ref. 8_ | Table 2, p. 10, row 10 |  |
-| 710.95 | L=γ + (Mg) | L: Mg 0.692; γ: Mg 0.595; (Mg): Mg 0.885 | model | [2] Zuo 1993 | Table 2, p. 10, row 9 |  |
-| 710 | eutectic: Liquid -> Al12Mg17 + hcp-A3 | Liquid: Mg 0.69; Al12Mg17: Mg 0.604; hcp-A3: Mg 0.884 | unspecified | [1] Hämäläinen 1998 | Table I, p. 63, row 7 |  |
-| 709.4 | eutectic: Liquid -> AlMg-γ + hcp-A3 | Liquid: Mg 0.69; AlMg-γ: Mg 0.601; hcp-A3: Mg 0.884 | unspecified | [1] Hämäläinen 1998 | Table I, p. 69, row 5 |  |
-| 700 | eutectoid: AlMg-ε -> AlMg-β + AlMg-ζ | AlMg-ε: Mg 0.44; AlMg-β: Mg 0.385; AlMg-ζ: Mg 0.475 | unspecified | [1] Hämäläinen 1998 | Table I, p. 63, row 5 |  |
-| 700 | peritectoid: β + γ = ε | β: Mg 0.389; γ: Mg 0.484; ε: Mg 0.434 | model | [3] Zhong 2005 | Table 5, p. 6, row 3 |  |
-| 682.9 | peritectoid: AlMg-β+ AlMg-γ -> AlMg-ε | AlMg-β: Mg 0.389; AlMg-γ: Mg 0.494; AlMg-ε: Mg 0.434 | unspecified | [1] Hämäläinen 1998 | Table I, p. 69, row 3 |  |
-| 673 | eutectoid: AlMg-ζ -> AlMg-β + Al12Mg17 | AlMg-ζ: Mg 0.475; AlMg-β: Mg 0.385; Al12Mg17: Mg 0.513 | unspecified | [1] Hämäläinen 1998 | Table I, p. 63, row 6 |  |
-| 523.2 | eutectoid: ε = β + γ | ε: Mg 0.434; β: Mg 0.389; γ: Mg 0.536 | model | [3] Zhong 2005 | Table 5, p. 6, row 4 |  |
-| 523.2 | eutectoid: AlMg-ε -> AlMg-β + AlMg-γ | AlMg-ε: Mg 0.434; AlMg-β: Mg 0.389; AlMg-γ: Mg 0.536 | unspecified | [1] Hämäläinen 1998 | Table I, p. 69, row 4 |  |
+| 736.3 | congruent melting: Al12Mg17 -> Liquid | Al12Mg17: Mg 0.523; Liquid: Mg 0.523 | unspecified | [1] Hämäläinen 1998 | Table I, p. 69, row 7; `ORC-TGI3MWKZTF` |  |
+| 733.3 | congruent melting: Al12Mg17 -> Liquid | Al12Mg17: Mg 0.556; Liquid: Mg 0.556 | unspecified | [1] Hämäläinen 1998 | Table I, p. 63, row 9; `ORC-JOCP6MY2FE` |  |
+| 725.15 | L+γ= ζ | L: Mg 0.442; γ: Mg 0.514; ζ: Mg 0.475 | model | [2] Zuo 1993 | Table 2, p. 10, row 7; `ORC-KGFIRKVB2H` |  |
+| 725.15 | L+γ= ζ | L: Mg 0.445; γ: Mg 0.506; ζ: Mg 0.481 | experimental | [2] Zuo 1993; _cites ref. 8_ | Table 2, p. 10, row 8; `ORC-SUUEF56DWR` |  |
+| 725.1 | eutectic: Liquid = fcc-A1 + β | L: Mg 0.366; fcc-A1: Mg 0.166; β: Mg 0.389 | model | [3] Zhong 2005 | Table 5, p. 6, row 1; `ORC-O7TXLKQO4R` |  |
+| 725 | eutectic: Liquid = β + γ | L: Mg 0.413; β: Mg 0.389; γ: Mg 0.473 | model | [3] Zhong 2005 | Table 5, p. 6, row 2; `ORC-2RQ4JLQVRE` |  |
+| 725 | peritectic: Liquid + Al12Mg17 -> AlMg-ζ | Liquid: Mg 0.468; Al12Mg17: Mg 0.522; AlMg-ζ: Mg 0.475 | unspecified | [1] Hämäläinen 1998 | Table I, p. 63, row 4; `ORC-BJHG3BGBVW` |  |
+| 724.7 | congruent melting: AlMg-β -> Liquid | AlMg-β: Mg 0.385; Liquid: Mg 0.385 | unspecified | [1] Hämäläinen 1998 | Table I, p. 69, row 6; `ORC-B22WM62W76` |  |
+| 724.1 | congruent melting: AlMg-β -> Liquid | AlMg-β: Mg 0.385; Liquid: Mg 0.385 | unspecified | [1] Hämäläinen 1998 | Table I, p. 63, row 8; `ORC-KYM7XEI7GW` |  |
+| 723.6 | eutectic: Liquid -> fcc-A1 + AlMg-β | Liquid: Mg 0.363; fcc-A1: Mg 0.166; AlMg-β: Mg 0.389 | unspecified | [1] Hämäläinen 1998 | Table I, p. 69, row 1; `ORC-2MZ6GZGFUP` |  |
+| 723.55 | L+ζ = ε | L: Mg 0.43; ζ: Mg 0.475; ε: Mg 0.44 | model | [2] Zuo 1993 | Table 2, p. 10, row 5; `ORC-4BKXNBOY4Z` |  |
+| 723.3 | eutectic: Liquid -> fcc-A1 + AlMg-β | Liquid: Mg 0.363; fcc-A1: Mg 0.166; AlMg-β: Mg 0.385 | unspecified | [1] Hämäläinen 1998 | Table I, p. 63, row 1; `ORC-NPM2CPX345` |  |
+| 723.15 | L+ζ = ε | L: Mg 0.425; ζ: Mg 0.464; ε: Mg 0.447 | experimental | [2] Zuo 1993; _cites ref. 8_ | Table 2, p. 10, row 6; `ORC-KU52HGDGED` |  |
+| 723.15 | L= (Al) + β | L: Mg 0.369; (Al): Mg 0.165; β: Mg 0.385 | experimental | [2] Zuo 1993; _cites ref. 8_ | Table 2, p. 10, row 2; `ORC-TH6YXROASY` |  |
+| 722.85 | L= (Al) + β | L: Mg 0.368; (Al): Mg 0.165; β: Mg 0.385 | model | [2] Zuo 1993 | Table 2, p. 10, row 1; `ORC-3G7INGHP3Z` |  |
+| 722.7 | eutectic: Liquid -> AlMg-β + AlMg-γ | Liquid: Mg 0.424; AlMg-β: Mg 0.389; AlMg-γ: Mg 0.48 | unspecified | [1] Hämäläinen 1998 | Table I, p. 69, row 2; `ORC-I3RFK6UB47` |  |
+| 722.35 | L= β + ε | L: Mg 0.411; β: Mg 0.385; ε: Mg 0.44 | model | [2] Zuo 1993 | Table 2, p. 10, row 3; `ORC-BJGI2VXQPU` |  |
+| 722 | peritectic: Liquid + AlMg-ζ -> + AlMg-ε | Liquid: Mg 0.436; AlMg-ζ: Mg 0.475; AlMg-ε: Mg 0.44 | unspecified | [1] Hämäläinen 1998 | Table I, p. 63, row 3; `ORC-YSWT6U77I7` |  |
+| 721.5 | eutectic: Liquid -> AlMg-β + AlMg-ε | Liquid: Mg 0.423; AlMg-β: Mg 0.385; AlMg-ε: Mg 0.44 | unspecified | [1] Hämäläinen 1998 | Table I, p. 63, row 2; `ORC-MGOWKE5SMO` |  |
+| 721.15 | L= β + ε | L: Mg 0.408; β: Mg 0.385; ε: Mg 0.425 | experimental | [2] Zuo 1993; _cites ref. 8_ | Table 2, p. 10, row 4; `ORC-HGDN54MVOU` |  |
+| 712.1 | eutectic: Liquid = γ + hcp-A3 | L: Mg 0.693; γ: Mg 0.593; hcp-A3: Mg 0.889 | model | [3] Zhong 2005 | Table 5, p. 6, row 5; `ORC-VSD3J3UTJJ` |  |
+| 711.15 | L=γ + (Mg) | L: Mg 0.698; γ: Mg 0.594; (Mg): Mg 0.886 | experimental | [2] Zuo 1993; _cites ref. 8_ | Table 2, p. 10, row 10; `ORC-X3IZSKGHCU` |  |
+| 710.95 | L=γ + (Mg) | L: Mg 0.692; γ: Mg 0.595; (Mg): Mg 0.885 | model | [2] Zuo 1993 | Table 2, p. 10, row 9; `ORC-HZ6BUQOY4T` |  |
+| 710 | eutectic: Liquid -> Al12Mg17 + hcp-A3 | Liquid: Mg 0.69; Al12Mg17: Mg 0.604; hcp-A3: Mg 0.884 | unspecified | [1] Hämäläinen 1998 | Table I, p. 63, row 7; `ORC-IDEXG6N5QQ` |  |
+| 709.4 | eutectic: Liquid -> AlMg-γ + hcp-A3 | Liquid: Mg 0.69; AlMg-γ: Mg 0.601; hcp-A3: Mg 0.884 | unspecified | [1] Hämäläinen 1998 | Table I, p. 69, row 5; `ORC-2PJN4OWSOZ` |  |
+| 700 | eutectoid: AlMg-ε -> AlMg-β + AlMg-ζ | AlMg-ε: Mg 0.44; AlMg-β: Mg 0.385; AlMg-ζ: Mg 0.475 | unspecified | [1] Hämäläinen 1998 | Table I, p. 63, row 5; `ORC-KSKFWMVTZU` |  |
+| 700 | peritectoid: β + γ = ε | β: Mg 0.389; γ: Mg 0.484; ε: Mg 0.434 | model | [3] Zhong 2005 | Table 5, p. 6, row 3; `ORC-RJEFNFG3IU` |  |
+| 682.9 | peritectoid: AlMg-β+ AlMg-γ -> AlMg-ε | AlMg-β: Mg 0.389; AlMg-γ: Mg 0.494; AlMg-ε: Mg 0.434 | unspecified | [1] Hämäläinen 1998 | Table I, p. 69, row 3; `ORC-GPFZLJXPV4` |  |
+| 673 | eutectoid: AlMg-ζ -> AlMg-β + Al12Mg17 | AlMg-ζ: Mg 0.475; AlMg-β: Mg 0.385; Al12Mg17: Mg 0.513 | unspecified | [1] Hämäläinen 1998 | Table I, p. 63, row 6; `ORC-GDXG55CJ42` |  |
+| 523.2 | eutectoid: ε = β + γ | ε: Mg 0.434; β: Mg 0.389; γ: Mg 0.536 | model | [3] Zhong 2005 | Table 5, p. 6, row 4; `ORC-6DT67DOVIZ` |  |
+| 523.2 | eutectoid: AlMg-ε -> AlMg-β + AlMg-γ | AlMg-ε: Mg 0.434; AlMg-β: Mg 0.389; AlMg-γ: Mg 0.536 | unspecified | [1] Hämäläinen 1998 | Table I, p. 69, row 4; `ORC-XZQFPXHCCM` |  |
 
 ## Formation enthalpies
 
@@ -210,17 +210,17 @@ Table: Enthalpies of formation, Al–Mg system (11)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Al2Mg-C14 |  | -2.713 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2005 | Table 3, p. 4, row 3 |  |
-| Al2Mg-C15 |  | -2.301 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2005 | Table 3, p. 4, row 2 |  |
-| Al2Mg-C36 |  | -2.802 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2005 | Table 3, p. 4, row 4 |  |
-| γ-Al5Al12Al12 |  | 5.721 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2005 | Table 3, p. 4, row 12 |  |
-| γ-Al5Al12Mg12 |  | 11.684 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2005 | Table 3, p. 4, row 14 |  |
-| γ-Al5Mg12Al12 |  | 1.383 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2005 | Table 3, p. 4, row 11 |  |
-| γ-Al5Mg12Mg12 |  | 9.891 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2005 | Table 3, p. 4, row 13 |  |
-| γ-Mg5Al12Al12 |  | 0.288 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2005 | Table 3, p. 4, row 8 |  |
-| γ-Mg5Al12Mg12 |  | 6.226 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2005 | Table 3, p. 4, row 10 |  |
-| γ-Mg5Mg12Al12 |  | -3.599 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2005 | Table 3, p. 4, row 7 |  |
-| ε-Al30Mg23 |  | -3.423 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2005 | Table 3, p. 4, row 6 |  |
+| Al2Mg-C14 |  | -2.713 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2005 | Table 3, p. 4, row 3; `ORC-YZTJPJLSUX.2fae14` |  |
+| Al2Mg-C15 |  | -2.301 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2005 | Table 3, p. 4, row 2; `ORC-5N5TJPYRTK.a04419` |  |
+| Al2Mg-C36 |  | -2.802 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2005 | Table 3, p. 4, row 4; `ORC-RNUDMKJN4F.a61040` |  |
+| γ-Al5Al12Al12 |  | 5.721 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2005 | Table 3, p. 4, row 12; `ORC-UX7FJ7AJTY.3a840d` |  |
+| γ-Al5Al12Mg12 |  | 11.684 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2005 | Table 3, p. 4, row 14; `ORC-V66VHTLYCQ.124e99` |  |
+| γ-Al5Mg12Al12 |  | 1.383 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2005 | Table 3, p. 4, row 11; `ORC-325SZJBAO5.b9a071` |  |
+| γ-Al5Mg12Mg12 |  | 9.891 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2005 | Table 3, p. 4, row 13; `ORC-FU2KJBEZG4.1deee7` |  |
+| γ-Mg5Al12Al12 |  | 0.288 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2005 | Table 3, p. 4, row 8; `ORC-6QVK2PWBON.ba1b55` |  |
+| γ-Mg5Al12Mg12 |  | 6.226 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2005 | Table 3, p. 4, row 10; `ORC-WZK7OHVGB2.4190df` |  |
+| γ-Mg5Mg12Al12 |  | -3.599 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2005 | Table 3, p. 4, row 7; `ORC-5JHDJP47EQ.130cf6` |  |
+| ε-Al30Mg23 |  | -3.423 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2005 | Table 3, p. 4, row 6; `ORC-AZGHIDCIC2.ae4029` |  |
 
 ## Other properties
 
@@ -230,15 +230,15 @@ Table: Phase transition, Al–Mg system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 663 K | 663 | other | experimental | [3] Zhong 2005; _cites Liang 1998_ | p. 2 | “For ε-Al30 Mg23 , the recent experiments by Czeppe et al. \[14\] and Benzio \[15\] show a good agreement with the lower temperature limit of the stability of the ε-Al30 Mg23 phase proposed by Su et al. \[16\] and Liang et al. \[2\] while its upper temperature limit was determined between 663 and 683 K by several previous investigations \[2,10,16,17\] and 700 K by Czeppe et al. \[14\].” |
-| Phase transition | 700 K | 700 | other | experimental | [3] Zhong 2005; _cites Czeppe 2003_ [doi](https://doi.org/10.1361/105497103770330550) | p. 2 | “For ε-Al30 Mg23 , the recent experiments by Czeppe et al. \[14\] and Benzio \[15\] show a good agreement with the lower temperature limit of the stability of the ε-Al30 Mg23 phase proposed by Su et al. \[16\] and Liang et al. \[2\] while its upper temperature limit was determined between 663 and 683 K by several previous investigations \[2,10,16,17\] and 700 K by Czeppe et al. \[14\].” |
-| Phase transition | 710 K | 710 | other | experimental | [4] ISLAM 2005 | p. 2 | “The g-phase is incoherent with the a-Mg matrix and exists at a wide composition range of 48 to 52 wt% Al and has a low melting point of 710 K.” |
-| Phase transition | 723.35 K | 723.35 | L= β; _L: Mg 0.385; β: Mg 0.385_ | model | [2] Zuo 1993 | Table 2, p. 10, row 11 |  |
-| Phase transition | 724.15 K | 724.15 | L= β; _L: Mg 0.385; β: Mg 0.385_ | experimental | [2] Zuo 1993; _cites ref. 38_ | Table 2, p. 10, row 12 |  |
-| Phase transition | 725.7 K | 725.7 | congruent melting: Liquid = β; _L: Mg 0.387; β: Mg 0.387_ | model | [3] Zhong 2005 | Table 5, p. 6, row 6 |  |
-| Phase transition | 735 K | 735 | congruent melting: Liquid = γ; _L: Mg 0.528; γ: Mg 0.528_ | model | [3] Zhong 2005 | Table 5, p. 6, row 7 |  |
-| Phase transition | 735.15 K | 735.15 | L= γ; _L: Mg 0.54; γ: Mg 0.54_ | experimental | [2] Zuo 1993; _cites ref. 8_ | Table 2, p. 10, row 14 |  |
-| Phase transition | 736.05 K | 736.05 | L= γ; _L: Mg 0.543; γ: Mg 0.543_ | model | [2] Zuo 1993 | Table 2, p. 10, row 13 |  |
+| Phase transition | 663 K | 663 | other | experimental | [3] Zhong 2005; _cites Liang 1998_ | p. 2; `ORC-GOBJQOMG5U.8418d4` | “For ε-Al30 Mg23 , the recent experiments by Czeppe et al. \[14\] and Benzio \[15\] show a good agreement with the lower temperature limit of the stability of the ε-Al30 Mg23 phase proposed by Su et al. \[16\] and Liang et al. \[2\] while its upper temperature limit was determined between 663 and 683 K by several previous investigations \[2,10,16,17\] and 700 K by Czeppe et al. \[14\].” |
+| Phase transition | 700 K | 700 | other | experimental | [3] Zhong 2005; _cites Czeppe 2003_ [doi](https://doi.org/10.1361/105497103770330550) | p. 2; `ORC-GOBJQOMG5U.dfdee2` | “For ε-Al30 Mg23 , the recent experiments by Czeppe et al. \[14\] and Benzio \[15\] show a good agreement with the lower temperature limit of the stability of the ε-Al30 Mg23 phase proposed by Su et al. \[16\] and Liang et al. \[2\] while its upper temperature limit was determined between 663 and 683 K by several previous investigations \[2,10,16,17\] and 700 K by Czeppe et al. \[14\].” |
+| Phase transition | 710 K | 710 | other | experimental | [4] ISLAM 2005 | p. 2; `ORC-TJ3BN7R25C` | “The g-phase is incoherent with the a-Mg matrix and exists at a wide composition range of 48 to 52 wt% Al and has a low melting point of 710 K.” |
+| Phase transition | 723.35 K | 723.35 | L= β; _L: Mg 0.385; β: Mg 0.385_ | model | [2] Zuo 1993 | Table 2, p. 10, row 11; `ORC-JEVK6YSHRM` |  |
+| Phase transition | 724.15 K | 724.15 | L= β; _L: Mg 0.385; β: Mg 0.385_ | experimental | [2] Zuo 1993; _cites ref. 38_ | Table 2, p. 10, row 12; `ORC-OLVZQ2YLQO` |  |
+| Phase transition | 725.7 K | 725.7 | congruent melting: Liquid = β; _L: Mg 0.387; β: Mg 0.387_ | model | [3] Zhong 2005 | Table 5, p. 6, row 6; `ORC-PMERB5W4XY` |  |
+| Phase transition | 735 K | 735 | congruent melting: Liquid = γ; _L: Mg 0.528; γ: Mg 0.528_ | model | [3] Zhong 2005 | Table 5, p. 6, row 7; `ORC-TTQQBQW6NZ` |  |
+| Phase transition | 735.15 K | 735.15 | L= γ; _L: Mg 0.54; γ: Mg 0.54_ | experimental | [2] Zuo 1993; _cites ref. 8_ | Table 2, p. 10, row 14; `ORC-2SGGJWKKHL` |  |
+| Phase transition | 736.05 K | 736.05 | L= γ; _L: Mg 0.543; γ: Mg 0.543_ | model | [2] Zuo 1993 | Table 2, p. 10, row 13; `ORC-2AR32RMITD` |  |
 
 ### Mixing / partial (28)
 
@@ -246,34 +246,34 @@ Table: Mixing / partial, Al–Mg system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 2.093 kJ/mol-atom | 0 | fcc; _alloy: Al 0.5, Mg 0.5_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 4 |  |
-| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 1.186 kJ/mol-atom | 0 | fcc; _alloy: Al 0.25, Mg 0.75_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 6 |  |
-| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 0.394 kJ/mol-atom | 0 | fcc; _alloy: Al 0.5, Mg 0.5_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 5 |  |
-| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 1.14 kJ/mol-atom | 0 | fcc; _alloy: Al 0.75, Mg 0.25_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 2 |  |
-| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 0 kJ/mol-atom | 0 | fcc; _alloy: Mg 0_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 1 |  |
-| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 0 kJ/mol-atom | 0 | fcc; _alloy: Mg 1_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 8 |  |
-| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 0.146 kJ/mol-atom | 0 | fcc; _alloy: Al 0.25, Mg 0.75_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 7 |  |
-| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 0.372 kJ/mol-atom | 0 | fcc; _alloy: Al 0.75, Mg 0.25_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 3 |  |
-| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 1.399 kJ/mol-atom | 0 | hcp; _alloy: Al 0.75, Mg 0.25_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 10 |  |
-| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 0 kJ/mol-atom | 0 | hcp; _alloy: Mg 0_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 9 |  |
-| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 1.174 kJ/mol-atom | 0 | hcp; _alloy: Al 0.5, Mg 0.5_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 13 |  |
-| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 0.525 kJ/mol-atom | 0 | hcp; _alloy: Al 0.75, Mg 0.25_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 11 |  |
-| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 2.489 kJ/mol-atom | 0 | hcp; _alloy: Al 0.5, Mg 0.5_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 12 |  |
-| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 0.852 kJ/mol-atom | 0 | hcp; _alloy: Al 0.25, Mg 0.75_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 15 |  |
-| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 0 kJ/mol-atom | 0 | hcp; _alloy: Mg 1_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 16 |  |
-| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 1.959 kJ/mol-atom | 0 | hcp; _alloy: Al 0.25, Mg 0.75_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 14 |  |
-| Entropy of mixing; _printed: ΔSm_ | 10.6 unknown | 723.35 | Al8Mg5; _alloy: Mg 0.384615_ | model | [2] Zuo 1993 | Table 4, p. 12, row 2 |  |
-| Entropy of mixing; _printed: ΔSm_ | 16.2 unknown | 723.35 | Al8Mg5; _alloy: Mg 0.384615_ | model | [2] Zuo 1993 | Table 4, p. 12, row 3 |  |
-| Entropy of mixing; _printed: ΔSm_ | 12 unknown | 723.35 | Al8Mg5; _alloy: Mg 0.384615_ | model | [2] Zuo 1993 | Table 4, p. 12, row 1 |  |
-| Entropy of mixing; _printed: ΔSm_ | 10.7 unknown | 723.75 | Al0.56Mg0.44; _alloy: Mg 0.44_ | model | [2] Zuo 1993 | Table 4, p. 12, row 4 |  |
-| Entropy of mixing; _printed: ΔSm_ | 16.2 unknown | 723.75 | Al0.56Mg0.44; _alloy: Mg 0.44_ | model | [2] Zuo 1993 | Table 4, p. 12, row 6 |  |
-| Entropy of mixing; _printed: ΔSm_ | 10.5 unknown | 723.75 | Al0.56Mg0.44; _alloy: Mg 0.44_ | model | [2] Zuo 1993 | Table 4, p. 12, row 5 |  |
-| Entropy of mixing; _printed: ΔSm_ | 16.2 unknown | 726.75 | Al0.525Mg0.475; _alloy: Mg 0.475_ | model | [2] Zuo 1993 | Table 4, p. 12, row 9 |  |
-| Entropy of mixing; _printed: ΔSm_ | 10.4 unknown | 726.75 | Al0.525Mg0.475; _alloy: Mg 0.475_ | model | [2] Zuo 1993 | Table 4, p. 12, row 8 |  |
-| Entropy of mixing; _printed: ΔSm_ | 10.6 unknown | 726.75 | Al0.525Mg0.475; _alloy: Mg 0.475_ | model | [2] Zuo 1993 | Table 4, p. 12, row 7 |  |
-| Entropy of mixing; _printed: ΔSm_ | 10.4 unknown | 736.05 | Al12Mg17; _alloy: Mg 0.586207_ | model | [2] Zuo 1993 | Table 4, p. 12, row 10 |  |
-| Entropy of mixing; _printed: ΔSm_ | 10.1 unknown | 736.05 | Al12Mg17; _alloy: Mg 0.586207_ | model | [2] Zuo 1993 | Table 4, p. 12, row 11 |  |
-| Entropy of mixing; _printed: ΔSm_ | 16 unknown | 736.05 | Al12Mg17; _alloy: Mg 0.586207_ | model | [2] Zuo 1993 | Table 4, p. 12, row 12 |  |
+| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 2.093 kJ/mol-atom | 0 | fcc; _alloy: Al 0.5, Mg 0.5_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 4; `ORC-7VF2CT632M.75731f` |  |
+| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 1.186 kJ/mol-atom | 0 | fcc; _alloy: Al 0.25, Mg 0.75_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 6; `ORC-AR57A6WMGC.8aa1ce` |  |
+| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 0.394 kJ/mol-atom | 0 | fcc; _alloy: Al 0.5, Mg 0.5_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 5; `ORC-BVR5PMWDCG.2540f2` |  |
+| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 1.14 kJ/mol-atom | 0 | fcc; _alloy: Al 0.75, Mg 0.25_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 2; `ORC-CUJISJC54G.09cc41` |  |
+| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 0 kJ/mol-atom | 0 | fcc; _alloy: Mg 0_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 1; `ORC-KKRW6R53AK.ea937e` |  |
+| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 0 kJ/mol-atom | 0 | fcc; _alloy: Mg 1_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 8; `ORC-MKALDERBXF.7e4f1e` |  |
+| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 0.146 kJ/mol-atom | 0 | fcc; _alloy: Al 0.25, Mg 0.75_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 7; `ORC-WRREWJWEZO.0ec89a` |  |
+| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 0.372 kJ/mol-atom | 0 | fcc; _alloy: Al 0.75, Mg 0.25_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 3; `ORC-X5EZP64D7F.9b82e0` |  |
+| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 1.399 kJ/mol-atom | 0 | hcp; _alloy: Al 0.75, Mg 0.25_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 10; `ORC-4F6STIFPU6.8177d2` |  |
+| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 0 kJ/mol-atom | 0 | hcp; _alloy: Mg 0_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 9; `ORC-KMOOFILEJE.859c21` |  |
+| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 1.174 kJ/mol-atom | 0 | hcp; _alloy: Al 0.5, Mg 0.5_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 13; `ORC-KMSY3FJMID.9c63d4` |  |
+| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 0.525 kJ/mol-atom | 0 | hcp; _alloy: Al 0.75, Mg 0.25_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 11; `ORC-LKZXHWNTG4.396b6d` |  |
+| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 2.489 kJ/mol-atom | 0 | hcp; _alloy: Al 0.5, Mg 0.5_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 12; `ORC-NTTYHHRLNN.cb0c99` |  |
+| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 0.852 kJ/mol-atom | 0 | hcp; _alloy: Al 0.25, Mg 0.75_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 15; `ORC-XGNOU7GYQW.9e3939` |  |
+| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 0 kJ/mol-atom | 0 | hcp; _alloy: Mg 1_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 16; `ORC-ZMQUVOP4CS.945737` |  |
+| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 1.959 kJ/mol-atom | 0 | hcp; _alloy: Al 0.25, Mg 0.75_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 14; `ORC-ZNUHXRNJOP.039645` |  |
+| Entropy of mixing; _printed: ΔSm_ | 10.6 unknown | 723.35 | Al8Mg5; _alloy: Mg 0.384615_ | model | [2] Zuo 1993 | Table 4, p. 12, row 2; `ORC-2QRTXQ3EZI` |  |
+| Entropy of mixing; _printed: ΔSm_ | 16.2 unknown | 723.35 | Al8Mg5; _alloy: Mg 0.384615_ | model | [2] Zuo 1993 | Table 4, p. 12, row 3; `ORC-EDMFZBQ3OL` |  |
+| Entropy of mixing; _printed: ΔSm_ | 12 unknown | 723.35 | Al8Mg5; _alloy: Mg 0.384615_ | model | [2] Zuo 1993 | Table 4, p. 12, row 1; `ORC-VZH7VRUDNF` |  |
+| Entropy of mixing; _printed: ΔSm_ | 10.7 unknown | 723.75 | Al0.56Mg0.44; _alloy: Mg 0.44_ | model | [2] Zuo 1993 | Table 4, p. 12, row 4; `ORC-3KXRPS5LPH` |  |
+| Entropy of mixing; _printed: ΔSm_ | 16.2 unknown | 723.75 | Al0.56Mg0.44; _alloy: Mg 0.44_ | model | [2] Zuo 1993 | Table 4, p. 12, row 6; `ORC-AYW76S27G6` |  |
+| Entropy of mixing; _printed: ΔSm_ | 10.5 unknown | 723.75 | Al0.56Mg0.44; _alloy: Mg 0.44_ | model | [2] Zuo 1993 | Table 4, p. 12, row 5; `ORC-JT25AVW4BC` |  |
+| Entropy of mixing; _printed: ΔSm_ | 16.2 unknown | 726.75 | Al0.525Mg0.475; _alloy: Mg 0.475_ | model | [2] Zuo 1993 | Table 4, p. 12, row 9; `ORC-2LYZW4SENG` |  |
+| Entropy of mixing; _printed: ΔSm_ | 10.4 unknown | 726.75 | Al0.525Mg0.475; _alloy: Mg 0.475_ | model | [2] Zuo 1993 | Table 4, p. 12, row 8; `ORC-M4MSOPDFVG` |  |
+| Entropy of mixing; _printed: ΔSm_ | 10.6 unknown | 726.75 | Al0.525Mg0.475; _alloy: Mg 0.475_ | model | [2] Zuo 1993 | Table 4, p. 12, row 7; `ORC-N5SV3HNL25` |  |
+| Entropy of mixing; _printed: ΔSm_ | 10.4 unknown | 736.05 | Al12Mg17; _alloy: Mg 0.586207_ | model | [2] Zuo 1993 | Table 4, p. 12, row 10; `ORC-6C36RNM7XL` |  |
+| Entropy of mixing; _printed: ΔSm_ | 10.1 unknown | 736.05 | Al12Mg17; _alloy: Mg 0.586207_ | model | [2] Zuo 1993 | Table 4, p. 12, row 11; `ORC-HKWS26X5HT` |  |
+| Entropy of mixing; _printed: ΔSm_ | 16 unknown | 736.05 | Al12Mg17; _alloy: Mg 0.586207_ | model | [2] Zuo 1993 | Table 4, p. 12, row 12; `ORC-HUKTI3JDGG` |  |
 
 ### Crystal structure (69)
 
@@ -281,75 +281,75 @@ Table: Crystal structure, Al–Mg system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a; _printed: a_ | 5.448 Å | 0 | Al2Mg-C14; _alloy: Mg 0.333333_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 3 |  |
-| Lattice a; _printed: a_ | 7.667 Å | 0 | Al2Mg-C15; _alloy: Mg 0.333333_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 2 |  |
-| Lattice a; _printed: a_ | 5.45 Å | 0 | Al2Mg-C36; _alloy: Mg 0.333333_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 4 |  |
-| Lattice a; _printed: a_ | 4.376 Å | 0 | fcc; _alloy: Al 0.25, Mg 0.75_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 7 |  |
-| Lattice a; _printed: a_ | 4.382 Å | 0 | fcc; _alloy: Al 0.25, Mg 0.75_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 6 |  |
-| Lattice a; _printed: a_ | 4.264 Å | 0 | fcc; _alloy: Al 0.5, Mg 0.5_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 4 |  |
-| Lattice a; _printed: a_ | 4.27 Å | 0 | fcc; _alloy: Al 0.5, Mg 0.5_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 5 |  |
-| Lattice a; _printed: a_ | 4.041 Å | 0 | fcc; _alloy: Mg 0_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 1 |  |
-| Lattice a; _printed: a_ | 4.154 Å | 0 | fcc; _alloy: Al 0.75, Mg 0.25_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 2 |  |
-| Lattice a; _printed: a_ | 4.136 Å | 0 | fcc; _alloy: Al 0.75, Mg 0.25_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 3 |  |
-| Lattice a; _printed: a_ | 3.07 Å | 0 | hcp; _alloy: Al 0.25, Mg 0.75_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 15 |  |
-| Lattice a; _printed: a_ | 3.018 Å | 0 | hcp; _alloy: Al 0.5, Mg 0.5_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 12 |  |
-| Lattice a; _printed: a_ | 3.103 Å | 0 | hcp; _alloy: Al 0.25, Mg 0.75_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 14 |  |
-| Lattice a; _printed: a_ | 2.844 Å | 0 | hcp; _alloy: Mg 0_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 9 |  |
-| Lattice a; _printed: a_ | 2.926 Å | 0 | hcp; _alloy: Al 0.75, Mg 0.25_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 11 |  |
-| Lattice a; _printed: a_ | 2.993 Å | 0 | hcp; _alloy: Al 0.5, Mg 0.5_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 13 |  |
-| Lattice a; _printed: a_ | 2.938 Å | 0 | hcp; _alloy: Al 0.75, Mg 0.25_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 10 |  |
-| Lattice a; _printed: a_ | 9.953 Å | 0 | γ-Al5Al12Al12; _alloy: Mg 0_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 12 |  |
-| Lattice a; _printed: a_ | 10.424 Å | 0 | γ-Al5Al12Mg12; _alloy: Mg 0.413793_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 14 |  |
-| Lattice a; _printed: a_ | 10.419 Å | 0 | γ-Al5Mg12Al12; _alloy: Mg 0.413793_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 11 |  |
-| Lattice a; _printed: a_ | 10.903 Å | 0 | γ-Al5Mg12Mg12; _alloy: Mg 0.827586_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 13 |  |
-| Lattice a; _printed: a_ | 10.102 Å | 0 | γ-Mg5Al12Al12; _alloy: Mg 0.172414_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 8 |  |
-| Lattice a; _printed: a_ | 10.584 Å | 0 | γ-Mg5Al12Mg12; _alloy: Mg 0.586207_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 10 |  |
-| Lattice a; _printed: a_ | 10.514 Å | 0 | γ-Mg5Mg12Al12; _alloy: Mg 0.586207_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 7 |  |
-| Lattice a; _printed: a_ | 12.718 Å | 0 | ε-Al30Mg23; _alloy: Mg 0.433962_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 6 |  |
-| Lattice a | 12.8254 Å | 330 | ε, Mg30Al23; _alloy: Mg 0.566038_ | model | [5] Wang 2011; _cites SGTE 2002_ | Table 1, p. 3, row 9 |  |
-| Lattice a | 28.16 Å | 725.15 (\<) | β, Al3Mg2; _alloy: Mg 0.4_ | model | [5] Wang 2011; _cites SGTE 2002_ | Table 1, p. 3, row 7 |  |
-| Lattice a | 10.5438 Å | 731.15 (\<) | γ, Mg17Al12; _alloy: Mg 0.586207_ | model | [5] Wang 2011; _cites SGTE 2002_ | Table 1, p. 3, row 8 |  |
-| Lattice b; _printed: b_ | 5.448 Å | 0 | Al2Mg-C14; _alloy: Mg 0.333333_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 3 |  |
-| Lattice b; _printed: b_ | 7.667 Å | 0 | Al2Mg-C15; _alloy: Mg 0.333333_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 2 |  |
-| Lattice b; _printed: b_ | 5.45 Å | 0 | Al2Mg-C36; _alloy: Mg 0.333333_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 4 |  |
-| Lattice b; _printed: b_ | 9.953 Å | 0 | γ-Al5Al12Al12; _alloy: Mg 0_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 12 |  |
-| Lattice b; _printed: b_ | 10.424 Å | 0 | γ-Al5Al12Mg12; _alloy: Mg 0.413793_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 14 |  |
-| Lattice b; _printed: b_ | 10.419 Å | 0 | γ-Al5Mg12Al12; _alloy: Mg 0.413793_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 11 |  |
-| Lattice b; _printed: b_ | 10.903 Å | 0 | γ-Al5Mg12Mg12; _alloy: Mg 0.827586_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 13 |  |
-| Lattice b; _printed: b_ | 10.102 Å | 0 | γ-Mg5Al12Al12; _alloy: Mg 0.172414_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 8 |  |
-| Lattice b; _printed: b_ | 10.584 Å | 0 | γ-Mg5Al12Mg12; _alloy: Mg 0.586207_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 10 |  |
-| Lattice b; _printed: b_ | 10.514 Å | 0 | γ-Mg5Mg12Al12; _alloy: Mg 0.586207_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 7 |  |
-| Lattice b; _printed: b_ | 12.718 Å | 0 | ε-Al30Mg23; _alloy: Mg 0.433962_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 6 |  |
-| Lattice c; _printed: c_ | 8.742 Å | 0 | Al2Mg-C14; _alloy: Mg 0.333333_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 3 |  |
-| Lattice c; _printed: c_ | 7.667 Å | 0 | Al2Mg-C15; _alloy: Mg 0.333333_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 2 |  |
-| Lattice c; _printed: c_ | 17.514 Å | 0 | Al2Mg-C36; _alloy: Mg 0.333333_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 4 |  |
-| Lattice c; _printed: c_ | 5.081 Å | 0 | hcp; _alloy: Al 0.25, Mg 0.75_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 15 |  |
-| Lattice c; _printed: c_ | 4.92 Å | 0 | hcp; _alloy: Al 0.5, Mg 0.5_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 12 |  |
-| Lattice c; _printed: c_ | 5.043 Å | 0 | hcp; _alloy: Al 0.25, Mg 0.75_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 14 |  |
-| Lattice c; _printed: c_ | 4.732 Å | 0 | hcp; _alloy: Mg 0_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 9 |  |
-| Lattice c; _printed: c_ | 4.831 Å | 0 | hcp; _alloy: Al 0.75, Mg 0.25_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 11 |  |
-| Lattice c; _printed: c_ | 4.952 Å | 0 | hcp; _alloy: Al 0.5, Mg 0.5_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 13 |  |
-| Lattice c; _printed: c_ | 4.803 Å | 0 | hcp; _alloy: Al 0.75, Mg 0.25_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 10 |  |
-| Lattice c; _printed: c_ | 9.953 Å | 0 | γ-Al5Al12Al12; _alloy: Mg 0_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 12 |  |
-| Lattice c; _printed: c_ | 10.424 Å | 0 | γ-Al5Al12Mg12; _alloy: Mg 0.413793_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 14 |  |
-| Lattice c; _printed: c_ | 10.419 Å | 0 | γ-Al5Mg12Al12; _alloy: Mg 0.413793_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 11 |  |
-| Lattice c; _printed: c_ | 10.903 Å | 0 | γ-Al5Mg12Mg12; _alloy: Mg 0.827586_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 13 |  |
-| Lattice c; _printed: c_ | 10.102 Å | 0 | γ-Mg5Al12Al12; _alloy: Mg 0.172414_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 8 |  |
-| Lattice c; _printed: c_ | 10.584 Å | 0 | γ-Mg5Al12Mg12; _alloy: Mg 0.586207_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 10 |  |
-| Lattice c; _printed: c_ | 10.514 Å | 0 | γ-Mg5Mg12Al12; _alloy: Mg 0.586207_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 7 |  |
-| Lattice c; _printed: c_ | 21.848 Å | 0 | ε-Al30Mg23; _alloy: Mg 0.433962_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 6 |  |
-| Lattice c | 21.7478 Å | 330 | ε, Mg30Al23; _alloy: Mg 0.566038_ | model | [5] Wang 2011; _cites SGTE 2002_ | Table 1, p. 3, row 9 |  |
-| lattice unspecified axis; _printed: a = b_ | 5.448 Å | 0 | Al2Mg-C14; _alloy: Mg 0.333333_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 3 |  |
-| lattice unspecified axis; _printed: a = b = c_ | 7.667 Å | 0 | Al2Mg-C15; _alloy: Mg 0.333333_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 2 |  |
-| lattice unspecified axis; _printed: a = b_ | 5.45 Å | 0 | Al2Mg-C36; _alloy: Mg 0.333333_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 4 |  |
-| lattice unspecified axis; _printed: a = b = c_ | 9.953 Å | 0 | γ-Al5Al12Al12; _alloy: Mg 0_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 12 |  |
-| lattice unspecified axis; _printed: a = b = c_ | 10.424 Å | 0 | γ-Al5Al12Mg12; _alloy: Mg 0.413793_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 14 |  |
-| lattice unspecified axis; _printed: a = b = c_ | 10.419 Å | 0 | γ-Al5Mg12Al12; _alloy: Mg 0.413793_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 11 |  |
-| lattice unspecified axis; _printed: a = b = c_ | 10.903 Å | 0 | γ-Al5Mg12Mg12; _alloy: Mg 0.827586_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 13 |  |
-| lattice unspecified axis; _printed: a = b = c_ | 10.102 Å | 0 | γ-Mg5Al12Al12; _alloy: Mg 0.172414_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 8 |  |
-| lattice unspecified axis; _printed: a = b = c_ | 10.584 Å | 0 | γ-Mg5Al12Mg12; _alloy: Mg 0.586207_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 10 |  |
-| lattice unspecified axis; _printed: a = b = c_ | 10.514 Å | 0 | γ-Mg5Mg12Al12; _alloy: Mg 0.586207_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 7 |  |
-| lattice unspecified axis; _printed: a = b_ | 12.718 Å | 0 | ε-Al30Mg23; _alloy: Mg 0.433962_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 6 |  |
+| Lattice a; _printed: a_ | 5.448 Å | 0 | Al2Mg-C14; _alloy: Mg 0.333333_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 3; `ORC-DLQ5DW5XH6.067631` |  |
+| Lattice a; _printed: a_ | 7.667 Å | 0 | Al2Mg-C15; _alloy: Mg 0.333333_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 2; `ORC-2CNSECKY5K.57186b` |  |
+| Lattice a; _printed: a_ | 5.45 Å | 0 | Al2Mg-C36; _alloy: Mg 0.333333_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 4; `ORC-MUMQS4AXJI.8219fe` |  |
+| Lattice a; _printed: a_ | 4.376 Å | 0 | fcc; _alloy: Al 0.25, Mg 0.75_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 7; `ORC-AQRLI7X5RV` |  |
+| Lattice a; _printed: a_ | 4.382 Å | 0 | fcc; _alloy: Al 0.25, Mg 0.75_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 6; `ORC-BWY4YFEJR2` |  |
+| Lattice a; _printed: a_ | 4.264 Å | 0 | fcc; _alloy: Al 0.5, Mg 0.5_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 4; `ORC-DZL3WNCRPI` |  |
+| Lattice a; _printed: a_ | 4.27 Å | 0 | fcc; _alloy: Al 0.5, Mg 0.5_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 5; `ORC-HVIL2PKZVT` |  |
+| Lattice a; _printed: a_ | 4.041 Å | 0 | fcc; _alloy: Mg 0_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 1; `ORC-J7DH3CNZD3` |  |
+| Lattice a; _printed: a_ | 4.154 Å | 0 | fcc; _alloy: Al 0.75, Mg 0.25_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 2; `ORC-P4VQXNXPSO` |  |
+| Lattice a; _printed: a_ | 4.136 Å | 0 | fcc; _alloy: Al 0.75, Mg 0.25_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 3; `ORC-TDIOXNNPM4` |  |
+| Lattice a; _printed: a_ | 3.07 Å | 0 | hcp; _alloy: Al 0.25, Mg 0.75_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 15; `ORC-AFDLCTD3KH.0b912d` |  |
+| Lattice a; _printed: a_ | 3.018 Å | 0 | hcp; _alloy: Al 0.5, Mg 0.5_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 12; `ORC-G37MRBWKD7.46e704` |  |
+| Lattice a; _printed: a_ | 3.103 Å | 0 | hcp; _alloy: Al 0.25, Mg 0.75_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 14; `ORC-HL2CDQX5WV.d659f0` |  |
+| Lattice a; _printed: a_ | 2.844 Å | 0 | hcp; _alloy: Mg 0_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 9; `ORC-KVENEBIB35.0b3c6b` |  |
+| Lattice a; _printed: a_ | 2.926 Å | 0 | hcp; _alloy: Al 0.75, Mg 0.25_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 11; `ORC-M7UIN6V342.8e0d57` |  |
+| Lattice a; _printed: a_ | 2.993 Å | 0 | hcp; _alloy: Al 0.5, Mg 0.5_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 13; `ORC-PRKSE4IRE2.a0c187` |  |
+| Lattice a; _printed: a_ | 2.938 Å | 0 | hcp; _alloy: Al 0.75, Mg 0.25_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 10; `ORC-R5TIAYWQ3U.509962` |  |
+| Lattice a; _printed: a_ | 9.953 Å | 0 | γ-Al5Al12Al12; _alloy: Mg 0_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 12; `ORC-WWZTVLDDK6.c293fb` |  |
+| Lattice a; _printed: a_ | 10.424 Å | 0 | γ-Al5Al12Mg12; _alloy: Mg 0.413793_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 14; `ORC-E25URREPGQ.d2a381` |  |
+| Lattice a; _printed: a_ | 10.419 Å | 0 | γ-Al5Mg12Al12; _alloy: Mg 0.413793_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 11; `ORC-WBSHIM25DO.bb9354` |  |
+| Lattice a; _printed: a_ | 10.903 Å | 0 | γ-Al5Mg12Mg12; _alloy: Mg 0.827586_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 13; `ORC-2IEA5G5YZT.d5cf0b` |  |
+| Lattice a; _printed: a_ | 10.102 Å | 0 | γ-Mg5Al12Al12; _alloy: Mg 0.172414_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 8; `ORC-I5PXAEF6DJ.483993` |  |
+| Lattice a; _printed: a_ | 10.584 Å | 0 | γ-Mg5Al12Mg12; _alloy: Mg 0.586207_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 10; `ORC-OQKEGXCFOQ.5c7314` |  |
+| Lattice a; _printed: a_ | 10.514 Å | 0 | γ-Mg5Mg12Al12; _alloy: Mg 0.586207_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 7; `ORC-VFK7UM4UIX.766d3b` |  |
+| Lattice a; _printed: a_ | 12.718 Å | 0 | ε-Al30Mg23; _alloy: Mg 0.433962_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 6; `ORC-HF55GV46B6.6ab2ed` |  |
+| Lattice a | 12.8254 Å | 330 | ε, Mg30Al23; _alloy: Mg 0.566038_ | model | [5] Wang 2011; _cites SGTE 2002_ | Table 1, p. 3, row 9; `ORC-LJXJPPFLSL.7077e1` |  |
+| Lattice a | 28.16 Å | 725.15 (\<) | β, Al3Mg2; _alloy: Mg 0.4_ | model | [5] Wang 2011; _cites SGTE 2002_ | Table 1, p. 3, row 7; `ORC-3KZKRQGBJG` |  |
+| Lattice a | 10.5438 Å | 731.15 (\<) | γ, Mg17Al12; _alloy: Mg 0.586207_ | model | [5] Wang 2011; _cites SGTE 2002_ | Table 1, p. 3, row 8; `ORC-ZH6RT56GFM` |  |
+| Lattice b; _printed: b_ | 5.448 Å | 0 | Al2Mg-C14; _alloy: Mg 0.333333_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 3; `ORC-DLQ5DW5XH6.9b3e5f` |  |
+| Lattice b; _printed: b_ | 7.667 Å | 0 | Al2Mg-C15; _alloy: Mg 0.333333_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 2; `ORC-2CNSECKY5K.e99dc4` |  |
+| Lattice b; _printed: b_ | 5.45 Å | 0 | Al2Mg-C36; _alloy: Mg 0.333333_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 4; `ORC-MUMQS4AXJI.88e0f7` |  |
+| Lattice b; _printed: b_ | 9.953 Å | 0 | γ-Al5Al12Al12; _alloy: Mg 0_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 12; `ORC-WWZTVLDDK6.8a14a6` |  |
+| Lattice b; _printed: b_ | 10.424 Å | 0 | γ-Al5Al12Mg12; _alloy: Mg 0.413793_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 14; `ORC-E25URREPGQ.77ea12` |  |
+| Lattice b; _printed: b_ | 10.419 Å | 0 | γ-Al5Mg12Al12; _alloy: Mg 0.413793_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 11; `ORC-WBSHIM25DO.93938d` |  |
+| Lattice b; _printed: b_ | 10.903 Å | 0 | γ-Al5Mg12Mg12; _alloy: Mg 0.827586_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 13; `ORC-2IEA5G5YZT.3a4817` |  |
+| Lattice b; _printed: b_ | 10.102 Å | 0 | γ-Mg5Al12Al12; _alloy: Mg 0.172414_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 8; `ORC-I5PXAEF6DJ.6e9ff8` |  |
+| Lattice b; _printed: b_ | 10.584 Å | 0 | γ-Mg5Al12Mg12; _alloy: Mg 0.586207_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 10; `ORC-OQKEGXCFOQ.1a05fd` |  |
+| Lattice b; _printed: b_ | 10.514 Å | 0 | γ-Mg5Mg12Al12; _alloy: Mg 0.586207_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 7; `ORC-VFK7UM4UIX.b272d5` |  |
+| Lattice b; _printed: b_ | 12.718 Å | 0 | ε-Al30Mg23; _alloy: Mg 0.433962_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 6; `ORC-HF55GV46B6.579a15` |  |
+| Lattice c; _printed: c_ | 8.742 Å | 0 | Al2Mg-C14; _alloy: Mg 0.333333_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 3; `ORC-DLQ5DW5XH6.532170` |  |
+| Lattice c; _printed: c_ | 7.667 Å | 0 | Al2Mg-C15; _alloy: Mg 0.333333_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 2; `ORC-2CNSECKY5K.8ce587` |  |
+| Lattice c; _printed: c_ | 17.514 Å | 0 | Al2Mg-C36; _alloy: Mg 0.333333_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 4; `ORC-MUMQS4AXJI.1a5e48` |  |
+| Lattice c; _printed: c_ | 5.081 Å | 0 | hcp; _alloy: Al 0.25, Mg 0.75_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 15; `ORC-AFDLCTD3KH.7aec51` |  |
+| Lattice c; _printed: c_ | 4.92 Å | 0 | hcp; _alloy: Al 0.5, Mg 0.5_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 12; `ORC-G37MRBWKD7.546391` |  |
+| Lattice c; _printed: c_ | 5.043 Å | 0 | hcp; _alloy: Al 0.25, Mg 0.75_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 14; `ORC-HL2CDQX5WV.0ca8b3` |  |
+| Lattice c; _printed: c_ | 4.732 Å | 0 | hcp; _alloy: Mg 0_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 9; `ORC-KVENEBIB35.4aecba` |  |
+| Lattice c; _printed: c_ | 4.831 Å | 0 | hcp; _alloy: Al 0.75, Mg 0.25_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 11; `ORC-M7UIN6V342.b24ef0` |  |
+| Lattice c; _printed: c_ | 4.952 Å | 0 | hcp; _alloy: Al 0.5, Mg 0.5_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 13; `ORC-PRKSE4IRE2.15eb1e` |  |
+| Lattice c; _printed: c_ | 4.803 Å | 0 | hcp; _alloy: Al 0.75, Mg 0.25_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 10; `ORC-R5TIAYWQ3U.95c1bd` |  |
+| Lattice c; _printed: c_ | 9.953 Å | 0 | γ-Al5Al12Al12; _alloy: Mg 0_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 12; `ORC-WWZTVLDDK6.18553a` |  |
+| Lattice c; _printed: c_ | 10.424 Å | 0 | γ-Al5Al12Mg12; _alloy: Mg 0.413793_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 14; `ORC-E25URREPGQ.b808c4` |  |
+| Lattice c; _printed: c_ | 10.419 Å | 0 | γ-Al5Mg12Al12; _alloy: Mg 0.413793_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 11; `ORC-WBSHIM25DO.6edb47` |  |
+| Lattice c; _printed: c_ | 10.903 Å | 0 | γ-Al5Mg12Mg12; _alloy: Mg 0.827586_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 13; `ORC-2IEA5G5YZT.d8b97a` |  |
+| Lattice c; _printed: c_ | 10.102 Å | 0 | γ-Mg5Al12Al12; _alloy: Mg 0.172414_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 8; `ORC-I5PXAEF6DJ.258c09` |  |
+| Lattice c; _printed: c_ | 10.584 Å | 0 | γ-Mg5Al12Mg12; _alloy: Mg 0.586207_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 10; `ORC-OQKEGXCFOQ.ca7c8e` |  |
+| Lattice c; _printed: c_ | 10.514 Å | 0 | γ-Mg5Mg12Al12; _alloy: Mg 0.586207_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 7; `ORC-VFK7UM4UIX.06883d` |  |
+| Lattice c; _printed: c_ | 21.848 Å | 0 | ε-Al30Mg23; _alloy: Mg 0.433962_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 6; `ORC-HF55GV46B6.4eb33a` |  |
+| Lattice c | 21.7478 Å | 330 | ε, Mg30Al23; _alloy: Mg 0.566038_ | model | [5] Wang 2011; _cites SGTE 2002_ | Table 1, p. 3, row 9; `ORC-LJXJPPFLSL.3b6126` |  |
+| lattice unspecified axis; _printed: a = b_ | 5.448 Å | 0 | Al2Mg-C14; _alloy: Mg 0.333333_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 3; `ORC-DLQ5DW5XH6.0521a3` |  |
+| lattice unspecified axis; _printed: a = b = c_ | 7.667 Å | 0 | Al2Mg-C15; _alloy: Mg 0.333333_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 2; `ORC-2CNSECKY5K.43ebff` |  |
+| lattice unspecified axis; _printed: a = b_ | 5.45 Å | 0 | Al2Mg-C36; _alloy: Mg 0.333333_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 4; `ORC-MUMQS4AXJI.c0ec5e` |  |
+| lattice unspecified axis; _printed: a = b = c_ | 9.953 Å | 0 | γ-Al5Al12Al12; _alloy: Mg 0_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 12; `ORC-WWZTVLDDK6.1a42e2` |  |
+| lattice unspecified axis; _printed: a = b = c_ | 10.424 Å | 0 | γ-Al5Al12Mg12; _alloy: Mg 0.413793_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 14; `ORC-E25URREPGQ.920bd6` |  |
+| lattice unspecified axis; _printed: a = b = c_ | 10.419 Å | 0 | γ-Al5Mg12Al12; _alloy: Mg 0.413793_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 11; `ORC-WBSHIM25DO.3ab887` |  |
+| lattice unspecified axis; _printed: a = b = c_ | 10.903 Å | 0 | γ-Al5Mg12Mg12; _alloy: Mg 0.827586_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 13; `ORC-2IEA5G5YZT.533650` |  |
+| lattice unspecified axis; _printed: a = b = c_ | 10.102 Å | 0 | γ-Mg5Al12Al12; _alloy: Mg 0.172414_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 8; `ORC-I5PXAEF6DJ.8b52d5` |  |
+| lattice unspecified axis; _printed: a = b = c_ | 10.584 Å | 0 | γ-Mg5Al12Mg12; _alloy: Mg 0.586207_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 10; `ORC-OQKEGXCFOQ.fcc589` |  |
+| lattice unspecified axis; _printed: a = b = c_ | 10.514 Å | 0 | γ-Mg5Mg12Al12; _alloy: Mg 0.586207_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 7; `ORC-VFK7UM4UIX.76e960` |  |
+| lattice unspecified axis; _printed: a = b_ | 12.718 Å | 0 | ε-Al30Mg23; _alloy: Mg 0.433962_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 6; `ORC-HF55GV46B6.df7a9e` |  |
 
 ## Sources
 
@@ -418,4 +418,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

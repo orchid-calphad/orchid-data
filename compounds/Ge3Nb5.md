@@ -14,10 +14,10 @@ Table: Enthalpy of formation of Ge3Nb5 reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -42.892 kJ/mol (basis unstated) | Nb5Ge3 | 298.15 | model | Calphad | [Ge–Nb](https://data.orchid-project.org/systems/GE-NB.html) | [1] Utton 2017 | Table 2, p. 6, row 6 |  |
-| -42 kJ/mol (basis unstated) | Nb5Ge3 | 298.15 | model | Calphad | [Ge–Nb](https://data.orchid-project.org/systems/GE-NB.html) | [1] Utton 2017 | Table 2, p. 6, row 2 |  |
-| -46.63 kJ/mol (basis unstated) | Nb5Ge3 | 0 | DFT | ab initio | [Ge–Nb](https://data.orchid-project.org/systems/GE-NB.html) | [1] Utton 2017; _cites Papadimitriou 2015_ [doi](https://doi.org/10.1007/s11661-015-3149-0) | Table 2, p. 6, row 5 |  |
-| -46.53 kJ/mol (basis unstated) | Nb5Ge3 | 0 | DFT | ab initio | [Ge–Nb](https://data.orchid-project.org/systems/GE-NB.html) | [1] Utton 2017; _cites Papadimitriou 2015_ [doi](https://doi.org/10.1007/s11661-015-3149-0) | Table 2, p. 6, row 1 |  |
+| -42.892 kJ/mol (basis unstated) | Nb5Ge3 | 298.15 | model | Calphad | [Ge–Nb](https://data.orchid-project.org/systems/GE-NB.html) | [1] Utton 2017 | Table 2, p. 6, row 6; `ORC-WVLZUEQFJO` |  |
+| -42 kJ/mol (basis unstated) | Nb5Ge3 | 298.15 | model | Calphad | [Ge–Nb](https://data.orchid-project.org/systems/GE-NB.html) | [1] Utton 2017 | Table 2, p. 6, row 2; `ORC-HC64QSVJEY` |  |
+| -46.63 kJ/mol (basis unstated) | Nb5Ge3 | 0 | DFT | ab initio | [Ge–Nb](https://data.orchid-project.org/systems/GE-NB.html) | [1] Utton 2017; _cites Papadimitriou 2015_ [doi](https://doi.org/10.1007/s11661-015-3149-0) | Table 2, p. 6, row 5; `ORC-F5XXKDLBS5` |  |
+| -46.53 kJ/mol (basis unstated) | Nb5Ge3 | 0 | DFT | ab initio | [Ge–Nb](https://data.orchid-project.org/systems/GE-NB.html) | [1] Utton 2017; _cites Papadimitriou 2015_ [doi](https://doi.org/10.1007/s11661-015-3149-0) | Table 2, p. 6, row 1; `ORC-B2ED5JJWQY` |  |
 
 ### Uncertainty budget
 
@@ -83,4 +83,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -28,27 +28,27 @@ Table: Invariant reactions reported in the literature for the O–Y–Zr system 
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2756 | c + L -> α-Y2O3 |  | experimental | [1] CHEN 2004; _cites Skaggs 1972_ | Table 5, p. 13, row 19 |  |
-| 2725 | c + L -> α-Y2O3 |  | model | [1] CHEN 2004 | Table 5, p. 13, row 22 |  |
-| 2692 | L -> α-Y2O3 + β-Y2O3 |  | model | [1] CHEN 2004 | Table 5, p. 13, row 18 |  |
-| 2682 | c + L -> α-Y2O3 |  | unspecified | [1] CHEN 2004; _cites Du 1991_ | Table 5, p. 13, row 21 |  |
-| 2679 | L -> α-Y2O3 + β-Y2O3 |  | unspecified | [1] CHEN 2004; _cites Du 1991_ | Table 5, p. 13, row 17 |  |
-| 2653 | L -> α-Y2O3 + β-Y2O3 |  | experimental | [1] CHEN 2004; _cites Rouanet 1968_ | Table 5, p. 13, row 14 |  |
-| 2633 | L -> α-Y2O3 + β-Y2O3 |  | experimental | [1] CHEN 2004; _cites Stubican 1978_ | Table 5, p. 13, row 16 |  |
-| 2603 | L -> α-Y2O3 + β-Y2O3 |  | experimental | [1] CHEN 2004; _cites Noguchi 1970_ | Table 5, p. 13, row 15 |  |
-| 1650 | c -> Zr3Y4O12 + α-Y2O3 |  | unspecified | [1] CHEN 2004; _cites Stubican 1984_ | Table 5, p. 13, row 11 |  |
-| 1627 | c -> Zr3Y4O12 + α-Y2O3 |  | model | [1] CHEN 2004 | Table 5, p. 13, row 13 |  |
-| 1623 | c -> Zr3Y4O12 + α-Y2O3 |  | unspecified | [1] CHEN 2004; _cites Du 1991_ | Table 5, p. 13, row 12 |  |
-| 1573 | c -> Zr3Y4O12 + α-Y2O3 |  | experimental | [1] CHEN 2004; _cites Scott 1977_ | Table 5, p. 13, row 10 |  |
-| 1279 | t -> m + c |  | unspecified | [1] CHEN 2004; _cites Du 1991_ | Table 5, p. 13, row 5 |  |
-| 1194 | t -> m + c |  | model | [1] CHEN 2004 | Table 5, p. 13, row 6 |  |
-| 872 | t -> m + c |  | experimental | [1] CHEN 2004; _cites Suzuki 1995_ | Table 5, p. 13, row 4 |  |
-| 843 | t -> m + c |  | experimental | [1] CHEN 2004; _cites Srikanth 1994_ | Table 5, p. 13, row 3 |  |
-| 838 | t -> m + c |  | experimental | [1] CHEN 2004; _cites Srivastava 1974_ | Table 5, p. 13, row 1 |  |
-| 763 | t -> m + c |  | unspecified | [1] CHEN 2004; _cites Pascual 1983_ | Table 5, p. 13, row 2 |  |
-| 692 | c -> m + Zr3Y4O12 |  | experimental | [1] CHEN 2004; _cites Suzuki 1995_ | Table 5, p. 13, row 8 |  |
-| 673 | c -> m + Zr3Y4O12 |  | experimental | [1] CHEN 2004; _cites Stubican 1978_ | Table 5, p. 13, row 7 |  |
-| 666 | c -> m + Zr3Y4O12 |  | unspecified | [1] CHEN 2004; _cites Du 1991_ | Table 5, p. 13, row 9 |  |
+| 2756 | c + L -> α-Y2O3 |  | experimental | [1] CHEN 2004; _cites Skaggs 1972_ | Table 5, p. 13, row 19; `ORC-XQV5VV6VPE` |  |
+| 2725 | c + L -> α-Y2O3 |  | model | [1] CHEN 2004 | Table 5, p. 13, row 22; `ORC-VTK3YCWOYP` |  |
+| 2692 | L -> α-Y2O3 + β-Y2O3 |  | model | [1] CHEN 2004 | Table 5, p. 13, row 18; `ORC-LOHTBIPWFC` |  |
+| 2682 | c + L -> α-Y2O3 |  | unspecified | [1] CHEN 2004; _cites Du 1991_ | Table 5, p. 13, row 21; `ORC-DP4VIHEP7F` |  |
+| 2679 | L -> α-Y2O3 + β-Y2O3 |  | unspecified | [1] CHEN 2004; _cites Du 1991_ | Table 5, p. 13, row 17; `ORC-6FUKVI32SD` |  |
+| 2653 | L -> α-Y2O3 + β-Y2O3 |  | experimental | [1] CHEN 2004; _cites Rouanet 1968_ | Table 5, p. 13, row 14; `ORC-4ZQCCJP7HF` |  |
+| 2633 | L -> α-Y2O3 + β-Y2O3 |  | experimental | [1] CHEN 2004; _cites Stubican 1978_ | Table 5, p. 13, row 16; `ORC-KF3UTROYGN` |  |
+| 2603 | L -> α-Y2O3 + β-Y2O3 |  | experimental | [1] CHEN 2004; _cites Noguchi 1970_ | Table 5, p. 13, row 15; `ORC-G45WUTLJQH` |  |
+| 1650 | c -> Zr3Y4O12 + α-Y2O3 |  | unspecified | [1] CHEN 2004; _cites Stubican 1984_ | Table 5, p. 13, row 11; `ORC-ABRJNPGYVR` |  |
+| 1627 | c -> Zr3Y4O12 + α-Y2O3 |  | model | [1] CHEN 2004 | Table 5, p. 13, row 13; `ORC-JOIEGA2TPC` |  |
+| 1623 | c -> Zr3Y4O12 + α-Y2O3 |  | unspecified | [1] CHEN 2004; _cites Du 1991_ | Table 5, p. 13, row 12; `ORC-NXHQHJN3IN` |  |
+| 1573 | c -> Zr3Y4O12 + α-Y2O3 |  | experimental | [1] CHEN 2004; _cites Scott 1977_ | Table 5, p. 13, row 10; `ORC-YJZ7IW6CWI` |  |
+| 1279 | t -> m + c |  | unspecified | [1] CHEN 2004; _cites Du 1991_ | Table 5, p. 13, row 5; `ORC-3Z3ZP55TF6` |  |
+| 1194 | t -> m + c |  | model | [1] CHEN 2004 | Table 5, p. 13, row 6; `ORC-LA3MZUTFNW` |  |
+| 872 | t -> m + c |  | experimental | [1] CHEN 2004; _cites Suzuki 1995_ | Table 5, p. 13, row 4; `ORC-CVCMEYK53A` |  |
+| 843 | t -> m + c |  | experimental | [1] CHEN 2004; _cites Srikanth 1994_ | Table 5, p. 13, row 3; `ORC-F7FNBRQGXY` |  |
+| 838 | t -> m + c |  | experimental | [1] CHEN 2004; _cites Srivastava 1974_ | Table 5, p. 13, row 1; `ORC-MN2KVUPNX5` |  |
+| 763 | t -> m + c |  | unspecified | [1] CHEN 2004; _cites Pascual 1983_ | Table 5, p. 13, row 2; `ORC-MC3SIEJQYA` |  |
+| 692 | c -> m + Zr3Y4O12 |  | experimental | [1] CHEN 2004; _cites Suzuki 1995_ | Table 5, p. 13, row 8; `ORC-NZ7GEISHTJ` |  |
+| 673 | c -> m + Zr3Y4O12 |  | experimental | [1] CHEN 2004; _cites Stubican 1978_ | Table 5, p. 13, row 7; `ORC-LHXNHS4Z7Q` |  |
+| 666 | c -> m + Zr3Y4O12 |  | unspecified | [1] CHEN 2004; _cites Du 1991_ | Table 5, p. 13, row 9; `ORC-J66Q3JJBBV` |  |
 
 ## Sources
 
@@ -91,4 +91,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

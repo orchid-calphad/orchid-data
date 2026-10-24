@@ -14,13 +14,13 @@ Table: Enthalpy of formation of UC1.9 reported in the literature (7)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -33.89 kJ/mol-atom | UC1.90 | 298.15 | experimental |  | [C–U](https://data.orchid-project.org/systems/C-U.html) | [1] Chevalier 2001; _cites Norman 1964_ [doi](https://doi.org/10.1021/j100794a045) | Table 21, p. 17, row 17 |  |
-| -33.325 kJ/mol-atom ± 1.908 | UC1.90 | 298.15 | experimental |  | [C–U](https://data.orchid-project.org/systems/C-U.html) | [1] Chevalier 2001; _cites Tetenbaum 1971_ [doi](https://doi.org/10.1016/0022-3115%2871%2990121-8) | Table 21, p. 17, row 23 |  |
-| -31.798 kJ/mol-atom | UC1.90 | 298.15 | experimental |  | [C–U](https://data.orchid-project.org/systems/C-U.html) | [1] Chevalier 2001; _cites Eich 1962_ | Table 21, p. 17, row 14 |  |
-| -30.962 kJ/mol-atom | UC1.90 | 298.15 | experimental |  | [C–U](https://data.orchid-project.org/systems/C-U.html) | [1] Chevalier 2001; _cites Piazza 1962_ [doi](https://doi.org/10.1021/je60015a002) | Table 21, p. 17, row 12 |  |
-| -30.298 kJ/mol-atom ± 0.289 | UC1.90 | 298.15 | experimental |  | [C–U](https://data.orchid-project.org/systems/C-U.html) | [1] Chevalier 2001; _cites MacLeod 1969_ | Table 21, p. 17, row 24 |  |
-| -30.125 kJ/mol-atom | UC1.90 | 298.15 | experimental |  | [C–U](https://data.orchid-project.org/systems/C-U.html) | [1] Chevalier 2001; _cites Behl 1966_ [doi](https://doi.org/10.1149/1.2423966) | Table 21, p. 17, row 19 |  |
-| -30.533 kJ/mol-atom | UC1.90 | 298.15 | model |  | [C–U](https://data.orchid-project.org/systems/C-U.html) | [1] Chevalier 2001 | Table 21, p. 17, row 26 |  |
+| -33.89 kJ/mol-atom | UC1.90 | 298.15 | experimental |  | [C–U](https://data.orchid-project.org/systems/C-U.html) | [1] Chevalier 2001; _cites Norman 1964_ [doi](https://doi.org/10.1021/j100794a045) | Table 21, p. 17, row 17; `ORC-V5HTCHAXS3.970e9d` |  |
+| -33.325 kJ/mol-atom ± 1.908 | UC1.90 | 298.15 | experimental |  | [C–U](https://data.orchid-project.org/systems/C-U.html) | [1] Chevalier 2001; _cites Tetenbaum 1971_ [doi](https://doi.org/10.1016/0022-3115%2871%2990121-8) | Table 21, p. 17, row 23; `ORC-MTKWY57AVO.10c9ca` |  |
+| -31.798 kJ/mol-atom | UC1.90 | 298.15 | experimental |  | [C–U](https://data.orchid-project.org/systems/C-U.html) | [1] Chevalier 2001; _cites Eich 1962_ | Table 21, p. 17, row 14; `ORC-K64YEXIHRW.95596f` |  |
+| -30.962 kJ/mol-atom | UC1.90 | 298.15 | experimental |  | [C–U](https://data.orchid-project.org/systems/C-U.html) | [1] Chevalier 2001; _cites Piazza 1962_ [doi](https://doi.org/10.1021/je60015a002) | Table 21, p. 17, row 12; `ORC-ZZ6XETLP3U.623533` |  |
+| -30.298 kJ/mol-atom ± 0.289 | UC1.90 | 298.15 | experimental |  | [C–U](https://data.orchid-project.org/systems/C-U.html) | [1] Chevalier 2001; _cites MacLeod 1969_ | Table 21, p. 17, row 24; `ORC-YR6GSXQZOM.7dfeaf` |  |
+| -30.125 kJ/mol-atom | UC1.90 | 298.15 | experimental |  | [C–U](https://data.orchid-project.org/systems/C-U.html) | [1] Chevalier 2001; _cites Behl 1966_ [doi](https://doi.org/10.1149/1.2423966) | Table 21, p. 17, row 19; `ORC-FCF7WKQFEH.470641` |  |
+| -30.533 kJ/mol-atom | UC1.90 | 298.15 | model |  | [C–U](https://data.orchid-project.org/systems/C-U.html) | [1] Chevalier 2001 | Table 21, p. 17, row 26; `ORC-GLXEK5FJVI.0725cd` |  |
 
 ### Uncertainty budget
 
@@ -89,4 +89,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

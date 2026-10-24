@@ -14,13 +14,13 @@ Table: Enthalpy of formation of GaSe reported in the literature (7)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -79.496 kJ/mol-atom | GaSe | 298.15 | experimental | Galvanic Cell | [Ga–Se](https://data.orchid-project.org/systems/GA-SE.html) | [1] Zheng 2008; _cites Mamedov 1969_ | Table 3, p. 6, row 3 |  |
-| -78.85 kJ/mol-atom | GaSe | 298.15 | experimental | Calorimetry | [Ga–Se](https://data.orchid-project.org/systems/GA-SE.html) | [1] Zheng 2008; _cites Zavrazhnov 2003_ | Table 3, p. 6, row 6 |  |
-| -73.22 kJ/mol-atom | GaSe | 298.15 | experimental | Calorimetry | [Ga–Se](https://data.orchid-project.org/systems/GA-SE.html) | [1] Zheng 2008; _cites Hahn 1956_ [doi](https://doi.org/10.1002/ange.19560681616) | Table 3, p. 6, row 1 |  |
-| -71.75 kJ/mol-atom | GaSe | 298.15 | experimental | Unknown | [Ga–Se](https://data.orchid-project.org/systems/GA-SE.html) | [1] Zheng 2008; _cites Kh 1968_ | Table 3, p. 6, row 2 |  |
-| -79.496 kJ/mol-atom | GaSe | 298.15 | model | Evaluation | [Ga–Se](https://data.orchid-project.org/systems/GA-SE.html) | [1] Zheng 2008; _cites Mills 1974_ | Table 3, p. 6, row 4 |  |
-| -79.496 kJ/mol-atom | GaSe | 298.15 | model | Evaluation | [Ga–Se](https://data.orchid-project.org/systems/GA-SE.html) | [1] Zheng 2008; _cites Barin 1995_ [doi](https://doi.org/10.1002/9783527619825) | Table 3, p. 6, row 5 |  |
-| -78.9705 kJ/mol-atom | GaSe | 298.15 | model | Evaluation | [Ga–Se](https://data.orchid-project.org/systems/GA-SE.html) | [1] Zheng 2008 | Table 3, p. 6, row 7 |  |
+| -79.496 kJ/mol-atom | GaSe | 298.15 | experimental | Galvanic Cell | [Ga–Se](https://data.orchid-project.org/systems/GA-SE.html) | [1] Zheng 2008; _cites Mamedov 1969_ | Table 3, p. 6, row 3; `ORC-QILHDNQTVK` |  |
+| -78.85 kJ/mol-atom | GaSe | 298.15 | experimental | Calorimetry | [Ga–Se](https://data.orchid-project.org/systems/GA-SE.html) | [1] Zheng 2008; _cites Zavrazhnov 2003_ | Table 3, p. 6, row 6; `ORC-AT2UQJNLVR` |  |
+| -73.22 kJ/mol-atom | GaSe | 298.15 | experimental | Calorimetry | [Ga–Se](https://data.orchid-project.org/systems/GA-SE.html) | [1] Zheng 2008; _cites Hahn 1956_ [doi](https://doi.org/10.1002/ange.19560681616) | Table 3, p. 6, row 1; `ORC-ZIWLKHKB3S` |  |
+| -71.75 kJ/mol-atom | GaSe | 298.15 | experimental | Unknown | [Ga–Se](https://data.orchid-project.org/systems/GA-SE.html) | [1] Zheng 2008; _cites Kh 1968_ | Table 3, p. 6, row 2; `ORC-KVKMZPGWLJ` |  |
+| -79.496 kJ/mol-atom | GaSe | 298.15 | model | Evaluation | [Ga–Se](https://data.orchid-project.org/systems/GA-SE.html) | [1] Zheng 2008; _cites Mills 1974_ | Table 3, p. 6, row 4; `ORC-KYW3ZXWNNQ` |  |
+| -79.496 kJ/mol-atom | GaSe | 298.15 | model | Evaluation | [Ga–Se](https://data.orchid-project.org/systems/GA-SE.html) | [1] Zheng 2008; _cites Barin 1995_ [doi](https://doi.org/10.1002/9783527619825) | Table 3, p. 6, row 5; `ORC-T25XSYXQBV` |  |
+| -78.9705 kJ/mol-atom | GaSe | 298.15 | model | Evaluation | [Ga–Se](https://data.orchid-project.org/systems/GA-SE.html) | [1] Zheng 2008 | Table 3, p. 6, row 7; `ORC-SSWQUZC4AD` |  |
 
 ### Uncertainty budget
 
@@ -102,4 +102,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -30,12 +30,12 @@ Table: Enthalpies of formation, Al–Ni–Pt system (6)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Al2NiPt |  | -77 kJ/mol-atom | 0 | DFT |  |  | [1] Lu 2009 | Table 3, p. 6, row 2 |  |
-| AlNi2Pt |  | -56.5 kJ/mol-atom | 0 | DFT |  |  | [1] Lu 2009 | Table 3, p. 6, row 3 |  |
-| AlNiPt2 |  | -65.7 kJ/mol-atom | 0 | DFT |  |  | [1] Lu 2009 | Table 3, p. 6, row 1 |  |
-| L10 |  | -77 kJ/mol-atom | 0 | DFT |  |  | [1] Lu 2009 | Table 3, p. 6, row 2 |  |
-| L10 |  | -65.7 kJ/mol-atom | 0 | DFT |  |  | [1] Lu 2009 | Table 3, p. 6, row 1 |  |
-| L10 |  | -56.5 kJ/mol-atom | 0 | DFT |  |  | [1] Lu 2009 | Table 3, p. 6, row 3 |  |
+| Al2NiPt |  | -77 kJ/mol-atom | 0 | DFT |  |  | [1] Lu 2009 | Table 3, p. 6, row 2; `ORC-PB5REKFWHW.af55c4` |  |
+| AlNi2Pt |  | -56.5 kJ/mol-atom | 0 | DFT |  |  | [1] Lu 2009 | Table 3, p. 6, row 3; `ORC-C2W3AMCQSL.61219a` |  |
+| AlNiPt2 |  | -65.7 kJ/mol-atom | 0 | DFT |  |  | [1] Lu 2009 | Table 3, p. 6, row 1; `ORC-73AFUKLQWD.4b5813` |  |
+| L10 |  | -77 kJ/mol-atom | 0 | DFT |  |  | [1] Lu 2009 | Table 3, p. 6, row 2; `ORC-PB5REKFWHW.351d43` |  |
+| L10 |  | -65.7 kJ/mol-atom | 0 | DFT |  |  | [1] Lu 2009 | Table 3, p. 6, row 1; `ORC-73AFUKLQWD.19ba40` |  |
+| L10 |  | -56.5 kJ/mol-atom | 0 | DFT |  |  | [1] Lu 2009 | Table 3, p. 6, row 3; `ORC-C2W3AMCQSL.64b0a5` |  |
 
 ## Other properties
 
@@ -45,24 +45,24 @@ Table: Crystal structure, Al–Ni–Pt system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 3.672 not_printed |  | AlNi2Pt; _alloy: Ni 0.5, Pt 0.25_ | DFT | [1] Lu 2009; _cites Jiang 2005_ [doi](https://doi.org/10.1103/physrevb.72.184203) | Table 4, p. 6, row 6 |  |
-| Lattice a | 3.677 not_printed | 0 | AlNi2Pt; _alloy: Ni 0.5, Pt 0.25_ | DFT | [1] Lu 2009 | Table 4, p. 6, row 5 |  |
-| Lattice a | 3.91 not_printed | 0 | AlNiPt2; _alloy: Ni 0.25, Pt 0.5_ | DFT | [1] Lu 2009 | Table 4, p. 6, row 1 |  |
-| Lattice a | 3.928 not_printed |  | AlNiPt2; _alloy: Ni 0.25, Pt 0.5_ | DFT | [1] Lu 2009; _cites Jiang 2005_ [doi](https://doi.org/10.1103/physrevb.72.184203) | Table 4, p. 6, row 2 |  |
-| Lattice a | 3.9261 not_printed | 1273 | AlNiPt2; _alloy: Ni 0.25, Pt 0.5_ | experimental | [1] Lu 2009; _cites Meininger 2003_ [doi](https://doi.org/10.1016/s0925-8388%2802%2901212-4) | Table 4, p. 6, row 4 |  |
-| Lattice a | 3.91 not_printed | 1373 | AlNiPt2; _alloy: Ni 0.25, Pt 0.5_ | experimental | [1] Lu 2009; _cites Kamm 1994_ [doi](https://doi.org/10.1016/0956-716x%2894%2990056-6) | Table 4, p. 6, row 3 |  |
-| Lattice c | 3.755 not_printed |  | AlNi2Pt; _alloy: Ni 0.5, Pt 0.25_ | DFT | [1] Lu 2009; _cites Jiang 2005_ [doi](https://doi.org/10.1103/physrevb.72.184203) | Table 4, p. 6, row 6 |  |
-| Lattice c | 3.747 not_printed | 0 | AlNi2Pt; _alloy: Ni 0.5, Pt 0.25_ | DFT | [1] Lu 2009 | Table 4, p. 6, row 5 |  |
-| Lattice c | 3.59 not_printed | 0 | AlNiPt2; _alloy: Ni 0.25, Pt 0.5_ | DFT | [1] Lu 2009 | Table 4, p. 6, row 1 |  |
-| Lattice c | 3.615 not_printed |  | AlNiPt2; _alloy: Ni 0.25, Pt 0.5_ | DFT | [1] Lu 2009; _cites Jiang 2005_ [doi](https://doi.org/10.1103/physrevb.72.184203) | Table 4, p. 6, row 2 |  |
-| Lattice c | 3.518 not_printed | 1273 | AlNiPt2; _alloy: Ni 0.25, Pt 0.5_ | experimental | [1] Lu 2009; _cites Meininger 2003_ [doi](https://doi.org/10.1016/s0925-8388%2802%2901212-4) | Table 4, p. 6, row 4 |  |
-| Lattice c | 3.55 not_printed | 1373 | AlNiPt2; _alloy: Ni 0.25, Pt 0.5_ | experimental | [1] Lu 2009; _cites Kamm 1994_ [doi](https://doi.org/10.1016/0956-716x%2894%2990056-6) | Table 4, p. 6, row 3 |  |
-| lattice c a | 1.02 not_printed |  | AlNi2Pt; _alloy: Ni 0.5, Pt 0.25_ | DFT | [1] Lu 2009; _cites Jiang 2005_ [doi](https://doi.org/10.1103/physrevb.72.184203) | Table 4, p. 6, row 6 |  |
-| lattice c a | 1.019 not_printed | 0 | AlNi2Pt; _alloy: Ni 0.5, Pt 0.25_ | DFT | [1] Lu 2009 | Table 4, p. 6, row 5 |  |
-| lattice c a | 0.918 not_printed | 0 | AlNiPt2; _alloy: Ni 0.25, Pt 0.5_ | DFT | [1] Lu 2009 | Table 4, p. 6, row 1 |  |
-| lattice c a | 0.92 not_printed |  | AlNiPt2; _alloy: Ni 0.25, Pt 0.5_ | DFT | [1] Lu 2009; _cites Jiang 2005_ [doi](https://doi.org/10.1103/physrevb.72.184203) | Table 4, p. 6, row 2 |  |
-| lattice c a | 0.896 not_printed | 1273 | AlNiPt2; _alloy: Ni 0.25, Pt 0.5_ | experimental | [1] Lu 2009; _cites Meininger 2003_ [doi](https://doi.org/10.1016/s0925-8388%2802%2901212-4) | Table 4, p. 6, row 4 |  |
-| lattice c a | 0.908 not_printed | 1373 | AlNiPt2; _alloy: Ni 0.25, Pt 0.5_ | experimental | [1] Lu 2009; _cites Kamm 1994_ [doi](https://doi.org/10.1016/0956-716x%2894%2990056-6) | Table 4, p. 6, row 3 |  |
+| Lattice a | 3.672 not_printed |  | AlNi2Pt; _alloy: Ni 0.5, Pt 0.25_ | DFT | [1] Lu 2009; _cites Jiang 2005_ [doi](https://doi.org/10.1103/physrevb.72.184203) | Table 4, p. 6, row 6; `ORC-KDDAVVOTFY.9a6919` |  |
+| Lattice a | 3.677 not_printed | 0 | AlNi2Pt; _alloy: Ni 0.5, Pt 0.25_ | DFT | [1] Lu 2009 | Table 4, p. 6, row 5; `ORC-KVFSTJFGII.e3d196` |  |
+| Lattice a | 3.91 not_printed | 0 | AlNiPt2; _alloy: Ni 0.25, Pt 0.5_ | DFT | [1] Lu 2009 | Table 4, p. 6, row 1; `ORC-GI5HSTBOTY.6759b2` |  |
+| Lattice a | 3.928 not_printed |  | AlNiPt2; _alloy: Ni 0.25, Pt 0.5_ | DFT | [1] Lu 2009; _cites Jiang 2005_ [doi](https://doi.org/10.1103/physrevb.72.184203) | Table 4, p. 6, row 2; `ORC-XGHF5UBJP7.b79ca5` |  |
+| Lattice a | 3.9261 not_printed | 1273 | AlNiPt2; _alloy: Ni 0.25, Pt 0.5_ | experimental | [1] Lu 2009; _cites Meininger 2003_ [doi](https://doi.org/10.1016/s0925-8388%2802%2901212-4) | Table 4, p. 6, row 4; `ORC-XVTQYDRU2F.4797cb` |  |
+| Lattice a | 3.91 not_printed | 1373 | AlNiPt2; _alloy: Ni 0.25, Pt 0.5_ | experimental | [1] Lu 2009; _cites Kamm 1994_ [doi](https://doi.org/10.1016/0956-716x%2894%2990056-6) | Table 4, p. 6, row 3; `ORC-ES5C2UPM42.1e7c01` |  |
+| Lattice c | 3.755 not_printed |  | AlNi2Pt; _alloy: Ni 0.5, Pt 0.25_ | DFT | [1] Lu 2009; _cites Jiang 2005_ [doi](https://doi.org/10.1103/physrevb.72.184203) | Table 4, p. 6, row 6; `ORC-KDDAVVOTFY.fa4724` |  |
+| Lattice c | 3.747 not_printed | 0 | AlNi2Pt; _alloy: Ni 0.5, Pt 0.25_ | DFT | [1] Lu 2009 | Table 4, p. 6, row 5; `ORC-KVFSTJFGII.9382e2` |  |
+| Lattice c | 3.59 not_printed | 0 | AlNiPt2; _alloy: Ni 0.25, Pt 0.5_ | DFT | [1] Lu 2009 | Table 4, p. 6, row 1; `ORC-GI5HSTBOTY.6ec44e` |  |
+| Lattice c | 3.615 not_printed |  | AlNiPt2; _alloy: Ni 0.25, Pt 0.5_ | DFT | [1] Lu 2009; _cites Jiang 2005_ [doi](https://doi.org/10.1103/physrevb.72.184203) | Table 4, p. 6, row 2; `ORC-XGHF5UBJP7.8b28ca` |  |
+| Lattice c | 3.518 not_printed | 1273 | AlNiPt2; _alloy: Ni 0.25, Pt 0.5_ | experimental | [1] Lu 2009; _cites Meininger 2003_ [doi](https://doi.org/10.1016/s0925-8388%2802%2901212-4) | Table 4, p. 6, row 4; `ORC-XVTQYDRU2F.39f5aa` |  |
+| Lattice c | 3.55 not_printed | 1373 | AlNiPt2; _alloy: Ni 0.25, Pt 0.5_ | experimental | [1] Lu 2009; _cites Kamm 1994_ [doi](https://doi.org/10.1016/0956-716x%2894%2990056-6) | Table 4, p. 6, row 3; `ORC-ES5C2UPM42.d4d17d` |  |
+| lattice c a | 1.02 not_printed |  | AlNi2Pt; _alloy: Ni 0.5, Pt 0.25_ | DFT | [1] Lu 2009; _cites Jiang 2005_ [doi](https://doi.org/10.1103/physrevb.72.184203) | Table 4, p. 6, row 6; `ORC-KDDAVVOTFY.a850ba` |  |
+| lattice c a | 1.019 not_printed | 0 | AlNi2Pt; _alloy: Ni 0.5, Pt 0.25_ | DFT | [1] Lu 2009 | Table 4, p. 6, row 5; `ORC-KVFSTJFGII.f1c632` |  |
+| lattice c a | 0.918 not_printed | 0 | AlNiPt2; _alloy: Ni 0.25, Pt 0.5_ | DFT | [1] Lu 2009 | Table 4, p. 6, row 1; `ORC-GI5HSTBOTY.5089eb` |  |
+| lattice c a | 0.92 not_printed |  | AlNiPt2; _alloy: Ni 0.25, Pt 0.5_ | DFT | [1] Lu 2009; _cites Jiang 2005_ [doi](https://doi.org/10.1103/physrevb.72.184203) | Table 4, p. 6, row 2; `ORC-XGHF5UBJP7.23e7a0` |  |
+| lattice c a | 0.896 not_printed | 1273 | AlNiPt2; _alloy: Ni 0.25, Pt 0.5_ | experimental | [1] Lu 2009; _cites Meininger 2003_ [doi](https://doi.org/10.1016/s0925-8388%2802%2901212-4) | Table 4, p. 6, row 4; `ORC-XVTQYDRU2F.4a5b53` |  |
+| lattice c a | 0.908 not_printed | 1373 | AlNiPt2; _alloy: Ni 0.25, Pt 0.5_ | experimental | [1] Lu 2009; _cites Kamm 1994_ [doi](https://doi.org/10.1016/0956-716x%2894%2990056-6) | Table 4, p. 6, row 3; `ORC-ES5C2UPM42.8be2bc` |  |
 
 ## Sources
 
@@ -105,4 +105,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

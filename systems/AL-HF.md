@@ -68,35 +68,35 @@ Table: Invariant reactions reported in the literature for the Al–Hf system (29
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2073 | L ↔ HfAl | HfAl: Al 0.5 | experimental | [1] Wang 2002; _cites Tsyganova 1970_ | Table 1, p. 2, row 13 |  |
-| 2034 | L ↔ HfAl | HfAl: Al 0.5 | model | [1] Wang 2002 | Table 1, p. 2, row 14 |  |
-| 1929 | L ↔ Hf2Al3 | Hf2Al3: Al 0.6 | model | [1] Wang 2002 | Table 1, p. 2, row 17 |  |
-| 1923 | L ↔ HFAl2 | HFAl2: Al 0.667 | experimental | [1] Wang 2002; _cites Tsyganova 1970_ | Table 1, p. 2, row 20 |  |
-| 1913 | L + HfAl ↔ Hf2Al3 | HfAl: Al 0.5; Hf2Al3: Al 0.6 | experimental | [1] Wang 2002; _cites Tsyganova 1970_ | Table 1, p. 2, row 15 |  |
-| 1911 | L ↔ HfAl + Hf2Al3 | L: Al 0.573; HfAl: Al 0.5; Hf2Al3: Al 0.6 | model | [1] Wang 2002 | Table 1, p. 2, row 16 |  |
-| 1886 | L ↔ HFAl2 | HFAl2: Al 0.667 | model | [1] Wang 2002 | Table 1, p. 2, row 21 |  |
-| 1879 | L ↔ Hf2Al3 + HfAl2 | L: Al 0.647; Hf2Al3: Al 0.6; HfAl2: Al 0.667 | model | [1] Wang 2002 | Table 1, p. 2, row 19 |  |
-| 1863 | L ↔ HfAl3(β) | HfAl3(β): Al 0.75 | experimental | [1] Wang 2002; _cites Tsyganova 1970_ | Table 1, p. 2, row 24 |  |
-| 1863 | L ↔ Hf3Al2 | Hf3Al2: Al 0.4 | experimental | [1] Wang 2002; _cites Tsyganova 1970_ | Table 1, p. 2, row 7 |  |
-| 1856 | L ↔ HfAl3(β) | HfAl3(β): Al 0.75 | model | [1] Wang 2002 | Table 1, p. 2, row 25 |  |
-| 1842 | L ↔ HfAl2 + HfAl3(β) | L: Al 0.717; HfAl2: Al 0.667; HfAl3(β): Al 0.75 | model | [1] Wang 2002 | Table 1, p. 2, row 23 |  |
-| 1840 | L ↔ Hf3Al2 | Hf3Al2: Al 0.4 | model | [1] Wang 2002 | Table 1, p. 2, row 8 |  |
-| 1839 | L ↔ Hf3Al2 + HfAl | L: Al 0.41; Hf3Al2: Al 0.4; HfAl: Al 0.5 | model | [1] Wang 2002 | Table 1, p. 2, row 10 |  |
-| 1823 | L ↔ Hf3Al2 + HfAl | L: Al 0.45; Hf3Al2: Al 0.4; HfAl: Al 0.5 | experimental | [1] Wang 2002; _cites Tsyganova 1970_ | Table 1, p. 2, row 9 |  |
-| 1813 | L ↔ HfAl2 + HfAl3(β) | HfAl2: Al 0.667; HfAl3(β): Al 0.75 | experimental | [1] Wang 2002; _cites Tsyganova 1970_ | Table 1, p. 2, row 22 |  |
-| 1803 | L ↔ bcc + Hf3Al2 | L: Al 0.36; bcc: Al 0.33; Hf3Al2: Al 0.4 | experimental | [1] Wang 2002; _cites Tsyganova 1970_ | Table 1, p. 2, row 5 |  |
-| 1801 | L ↔ bcc + Hf3Al2 | L: Al 0.347; bcc: Al 0.31; Hf3Al2: Al 0.4 | model | [1] Wang 2002 | Table 1, p. 2, row 6 |  |
-| 1768 | L ↔ Hf2Al3 + HfAl2 | Hf2Al3: Al 0.6; HfAl2: Al 0.667 | experimental | [1] Wang 2002; _cites Tsyganova 1970_ | Table 1, p. 2, row 18 |  |
-| 1727 | bcc ↔ cph + Hf3Al2 | bcc: Al 0.281; cph: Al 0.272; Hf3Al2: Al 0.4 | model | [1] Wang 2002 | Table 1, p. 2, row 2 |  |
-| 1723 | bcc ↔ cph + Hf3Al2 | bcc: Al 0.3; cph: Al 0.27; Hf3Al2: Al 0.4 | experimental | [1] Wang 2002; _cites Tsyganova 1970_ | Table 1, p. 2, row 1 |  |
-| 1673 | Hf3Al2 + HfAl ↔ Hf4Al3 | Hf3Al2: Al 0.4; HfAl: Al 0.5; Hf4Al3: Al 0.429 | model | [1] Wang 2002 | Table 1, p. 2, row 12 |  |
-| 1473 | cph + Hf3Al2 ↔ Hf2Al | cph: Al 0.198; Hf3Al2: Al 0.4; Hf2Al: Al 0.333 | model | [1] Wang 2002 | Table 1, p. 2, row 4 |  |
-| 1273 | cph + Hf3Al2 ↔ Hf2Al | Hf3Al2: Al 0.4, Hf 0.6; Hf2Al: Al 0.333333, Hf 0.666667 | experimental | [1] Wang 2002; _cites Tsyganova 1970_ | Table 1, p. 2, row 3 |  |
-| 1223 | Hf3Al2 + HfAl ↔ Hf4Al3 | Hf3Al2: Al 0.4; HfAl: Al 0.5; Hf4Al3: Al 0.429 | experimental | [1] Wang 2002; _cites Potzschke 1962_ | Table 1, p. 2, row 11 |  |
-| 935.3 | HfAl3(β) + L ↔ fcc | HfAl3(β): Al 0.75; L: Al 0.9993; fcc: Al 0.9981 | experimental | [1] Wang 2002; _cites Rath 1960_ | Table 1, p. 2, row 26 |  |
-| 934.8 | HfAl3(β) + L ↔ fcc | HfAl3(β): Al 0.75; L: Al 0.9994; fcc: Al 0.9976 | model | [1] Wang 2002 | Table 1, p. 2, row 27 |  |
-| 923 | HfAl3(β) ↔ HfAl3(α) | HfAl3(β): Al 0.75 | experimental | [1] Wang 2002; _cites Potzschke 1962_ | Table 1, p. 2, row 28 |  |
-| 923 | HfAl3(β) ↔ HfAl3(α) | HfAl3(β): Al 0.75 | model | [1] Wang 2002 | Table 1, p. 2, row 29 |  |
+| 2073 | L ↔ HfAl | HfAl: Al 0.5 | experimental | [1] Wang 2002; _cites Tsyganova 1970_ | Table 1, p. 2, row 13; `ORC-47RNLAS5G4` |  |
+| 2034 | L ↔ HfAl | HfAl: Al 0.5 | model | [1] Wang 2002 | Table 1, p. 2, row 14; `ORC-BTH4OI6UT6` |  |
+| 1929 | L ↔ Hf2Al3 | Hf2Al3: Al 0.6 | model | [1] Wang 2002 | Table 1, p. 2, row 17; `ORC-HWTYPWVXR5` |  |
+| 1923 | L ↔ HFAl2 | HFAl2: Al 0.667 | experimental | [1] Wang 2002; _cites Tsyganova 1970_ | Table 1, p. 2, row 20; `ORC-KENSBUKCD5` |  |
+| 1913 | L + HfAl ↔ Hf2Al3 | HfAl: Al 0.5; Hf2Al3: Al 0.6 | experimental | [1] Wang 2002; _cites Tsyganova 1970_ | Table 1, p. 2, row 15; `ORC-A6URKQSQ4W` |  |
+| 1911 | L ↔ HfAl + Hf2Al3 | L: Al 0.573; HfAl: Al 0.5; Hf2Al3: Al 0.6 | model | [1] Wang 2002 | Table 1, p. 2, row 16; `ORC-AMLFD5IARL` |  |
+| 1886 | L ↔ HFAl2 | HFAl2: Al 0.667 | model | [1] Wang 2002 | Table 1, p. 2, row 21; `ORC-EK7GYBD5J7` |  |
+| 1879 | L ↔ Hf2Al3 + HfAl2 | L: Al 0.647; Hf2Al3: Al 0.6; HfAl2: Al 0.667 | model | [1] Wang 2002 | Table 1, p. 2, row 19; `ORC-3PD74KBM6X` |  |
+| 1863 | L ↔ HfAl3(β) | HfAl3(β): Al 0.75 | experimental | [1] Wang 2002; _cites Tsyganova 1970_ | Table 1, p. 2, row 24; `ORC-SF45U7TBUG` |  |
+| 1863 | L ↔ Hf3Al2 | Hf3Al2: Al 0.4 | experimental | [1] Wang 2002; _cites Tsyganova 1970_ | Table 1, p. 2, row 7; `ORC-T55YIL4B35` |  |
+| 1856 | L ↔ HfAl3(β) | HfAl3(β): Al 0.75 | model | [1] Wang 2002 | Table 1, p. 2, row 25; `ORC-U2RZEWB3KO` |  |
+| 1842 | L ↔ HfAl2 + HfAl3(β) | L: Al 0.717; HfAl2: Al 0.667; HfAl3(β): Al 0.75 | model | [1] Wang 2002 | Table 1, p. 2, row 23; `ORC-TG6R6ZXIPP` |  |
+| 1840 | L ↔ Hf3Al2 | Hf3Al2: Al 0.4 | model | [1] Wang 2002 | Table 1, p. 2, row 8; `ORC-P3ZQFCBBQU` |  |
+| 1839 | L ↔ Hf3Al2 + HfAl | L: Al 0.41; Hf3Al2: Al 0.4; HfAl: Al 0.5 | model | [1] Wang 2002 | Table 1, p. 2, row 10; `ORC-D7MGVDHTPO` |  |
+| 1823 | L ↔ Hf3Al2 + HfAl | L: Al 0.45; Hf3Al2: Al 0.4; HfAl: Al 0.5 | experimental | [1] Wang 2002; _cites Tsyganova 1970_ | Table 1, p. 2, row 9; `ORC-AOFSJARR7K` |  |
+| 1813 | L ↔ HfAl2 + HfAl3(β) | HfAl2: Al 0.667; HfAl3(β): Al 0.75 | experimental | [1] Wang 2002; _cites Tsyganova 1970_ | Table 1, p. 2, row 22; `ORC-BPSTWTSNOM` |  |
+| 1803 | L ↔ bcc + Hf3Al2 | L: Al 0.36; bcc: Al 0.33; Hf3Al2: Al 0.4 | experimental | [1] Wang 2002; _cites Tsyganova 1970_ | Table 1, p. 2, row 5; `ORC-R46FMEZ6Q3` |  |
+| 1801 | L ↔ bcc + Hf3Al2 | L: Al 0.347; bcc: Al 0.31; Hf3Al2: Al 0.4 | model | [1] Wang 2002 | Table 1, p. 2, row 6; `ORC-DE66T45K6P` |  |
+| 1768 | L ↔ Hf2Al3 + HfAl2 | Hf2Al3: Al 0.6; HfAl2: Al 0.667 | experimental | [1] Wang 2002; _cites Tsyganova 1970_ | Table 1, p. 2, row 18; `ORC-JA4BVLOAHA` |  |
+| 1727 | bcc ↔ cph + Hf3Al2 | bcc: Al 0.281; cph: Al 0.272; Hf3Al2: Al 0.4 | model | [1] Wang 2002 | Table 1, p. 2, row 2; `ORC-3KZWV3SQGL` |  |
+| 1723 | bcc ↔ cph + Hf3Al2 | bcc: Al 0.3; cph: Al 0.27; Hf3Al2: Al 0.4 | experimental | [1] Wang 2002; _cites Tsyganova 1970_ | Table 1, p. 2, row 1; `ORC-3BG5BGJM7V` |  |
+| 1673 | Hf3Al2 + HfAl ↔ Hf4Al3 | Hf3Al2: Al 0.4; HfAl: Al 0.5; Hf4Al3: Al 0.429 | model | [1] Wang 2002 | Table 1, p. 2, row 12; `ORC-NXXZ6BXUMU` |  |
+| 1473 | cph + Hf3Al2 ↔ Hf2Al | cph: Al 0.198; Hf3Al2: Al 0.4; Hf2Al: Al 0.333 | model | [1] Wang 2002 | Table 1, p. 2, row 4; `ORC-XCTRQPU77R` |  |
+| 1273 | cph + Hf3Al2 ↔ Hf2Al | Hf3Al2: Al 0.4, Hf 0.6; Hf2Al: Al 0.333333, Hf 0.666667 | experimental | [1] Wang 2002; _cites Tsyganova 1970_ | Table 1, p. 2, row 3; `ORC-RU5XPTOJZ7` |  |
+| 1223 | Hf3Al2 + HfAl ↔ Hf4Al3 | Hf3Al2: Al 0.4; HfAl: Al 0.5; Hf4Al3: Al 0.429 | experimental | [1] Wang 2002; _cites Potzschke 1962_ | Table 1, p. 2, row 11; `ORC-LPJLJLT7HH` |  |
+| 935.3 | HfAl3(β) + L ↔ fcc | HfAl3(β): Al 0.75; L: Al 0.9993; fcc: Al 0.9981 | experimental | [1] Wang 2002; _cites Rath 1960_ | Table 1, p. 2, row 26; `ORC-3AZUPB32YE` |  |
+| 934.8 | HfAl3(β) + L ↔ fcc | HfAl3(β): Al 0.75; L: Al 0.9994; fcc: Al 0.9976 | model | [1] Wang 2002 | Table 1, p. 2, row 27; `ORC-3D2F3MYNMD` |  |
+| 923 | HfAl3(β) ↔ HfAl3(α) | HfAl3(β): Al 0.75 | experimental | [1] Wang 2002; _cites Potzschke 1962_ | Table 1, p. 2, row 28; `ORC-DUHBMTCHIV` |  |
+| 923 | HfAl3(β) ↔ HfAl3(α) | HfAl3(β): Al 0.75 | model | [1] Wang 2002 | Table 1, p. 2, row 29; `ORC-JG5MPF5F6F` |  |
 
 ## Formation enthalpies
 
@@ -106,32 +106,32 @@ Table: Enthalpies of formation, Al–Hf system (26)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Hf2Al | [AlHf2](https://data.orchid-project.org/compounds/AlHf2.html) | -41.2 kJ/mol-atom |  | model | -25.526 (mp-aaaaasxg) | -25.508 (oqmd-19400) | [1] Wang 2002 | Table 2, p. 3, row 3 |  |
-| Hf2Al | [AlHf2](https://data.orchid-project.org/compounds/AlHf2.html) | -41 kJ/mol-atom |  | model | -25.526 (mp-aaaaasxg) | -25.508 (oqmd-19400) | [1] Wang 2002; _cites ref. 1975Kao_ | Table 2, p. 3, row 1 |  |
-| Hf2Al | [AlHf2](https://data.orchid-project.org/compounds/AlHf2.html) | -38.9 kJ/mol-atom |  | model | -25.526 (mp-aaaaasxg) | -25.508 (oqmd-19400) | [1] Wang 2002 | Table 2, p. 3, row 2 |  |
-| Hf2Al3 | [Al3Hf2](https://data.orchid-project.org/compounds/Al3Hf2.html) | -49.2 kJ/mol-atom |  | model | -41.152 (mp-aaaaabgo) | -41.101 (oqmd-19010) | [1] Wang 2002 | Table 2, p. 3, row 16 |  |
-| Hf2Al3 | [Al3Hf2](https://data.orchid-project.org/compounds/Al3Hf2.html) | -47.5 kJ/mol-atom |  | model | -41.152 (mp-aaaaabgo) | -41.101 (oqmd-19010) | [1] Wang 2002; _cites ref. 1975Kao_ | Table 2, p. 3, row 15 |  |
-| Hf2Al3 | [Al3Hf2](https://data.orchid-project.org/compounds/Al3Hf2.html) | -42.9 kJ/mol-atom |  | model | -41.152 (mp-aaaaabgo) | -41.101 (oqmd-19010) | [1] Wang 2002 | Table 2, p. 3, row 17 |  |
-| Hf2Al3 | [Al3Hf2](https://data.orchid-project.org/compounds/Al3Hf2.html) | -40.8 kJ/mol-atom | 298.15 | experimental | -41.152 (mp-aaaaabgo) | -41.101 (oqmd-19010) | [1] Wang 2002; _cites Balducci 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906039-8) | Table 2, p. 3, row 14 |  |
-| Hf3Al2 | [Al2Hf3](https://data.orchid-project.org/compounds/Al2Hf3.html) | -48.9 kJ/mol-atom |  | model | -31.894 (mp-aaaaamnm) | -31.931 (oqmd-11338) | [1] Wang 2002 | Table 2, p. 3, row 6 |  |
-| Hf3Al2 | [Al2Hf3](https://data.orchid-project.org/compounds/Al2Hf3.html) | -45 kJ/mol-atom |  | model | -31.894 (mp-aaaaamnm) | -31.931 (oqmd-11338) | [1] Wang 2002 | Table 2, p. 3, row 5 |  |
-| Hf3Al2 | [Al2Hf3](https://data.orchid-project.org/compounds/Al2Hf3.html) | -43.5 kJ/mol-atom |  | model | -31.894 (mp-aaaaamnm) | -31.931 (oqmd-11338) | [1] Wang 2002; _cites ref. 1975Kao_ | Table 2, p. 3, row 4 |  |
-| Hf4Al3 | [Al3Hf4](https://data.orchid-project.org/compounds/Al3Hf4.html) | -47.9 kJ/mol-atom |  | model | -38 (mp-aaacgipr) | -37.785 (oqmd-27836) | [1] Wang 2002 | Table 2, p. 3, row 9 |  |
-| Hf4Al3 | [Al3Hf4](https://data.orchid-project.org/compounds/Al3Hf4.html) | -47.1 kJ/mol-atom |  | model | -38 (mp-aaacgipr) | -37.785 (oqmd-27836) | [1] Wang 2002 | Table 2, p. 3, row 8 |  |
-| Hf4Al3 | [Al3Hf4](https://data.orchid-project.org/compounds/Al3Hf4.html) | -44.4 kJ/mol-atom |  | model | -38 (mp-aaacgipr) | -37.785 (oqmd-27836) | [1] Wang 2002; _cites ref. 1975Kao_ | Table 2, p. 3, row 7 |  |
-| HfAl | [AlHf](https://data.orchid-project.org/compounds/AlHf.html) | -50.3 kJ/mol-atom |  | model | -38.759 (mp-aaaaaajp) | -38.774 (oqmd-18706) | [1] Wang 2002 | Table 2, p. 3, row 12 |  |
-| HfAl | [AlHf](https://data.orchid-project.org/compounds/AlHf.html) | -46.3 kJ/mol-atom |  | model | -38.759 (mp-aaaaaajp) | -38.774 (oqmd-18706) | [1] Wang 2002; _cites ref. 1975Kao_ | Table 2, p. 3, row 11 |  |
-| HfAl | [AlHf](https://data.orchid-project.org/compounds/AlHf.html) | -45.2 kJ/mol-atom |  | model | -38.759 (mp-aaaaaajp) | -38.774 (oqmd-18706) | [1] Wang 2002 | Table 2, p. 3, row 13 |  |
-| HfAl | [AlHf](https://data.orchid-project.org/compounds/AlHf.html) | -39.9 kJ/mol-atom | 298.15 | experimental | -38.759 (mp-aaaaaajp) | -38.774 (oqmd-18706) | [1] Wang 2002; _cites Meschel 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990621-s) | Table 2, p. 3, row 10 |  |
-| HfAl2 | [Al2Hf](https://data.orchid-project.org/compounds/Al2Hf.html) | -48.3 kJ/mol-atom |  | model | -42.633 (mp-aaaaassv) | -42.842 (oqmd-19094) | [1] Wang 2002; _cites ref. 1975Kao_ | Table 2, p. 3, row 19 |  |
-| HfAl2 | [Al2Hf](https://data.orchid-project.org/compounds/Al2Hf.html) | -44.7 kJ/mol-atom |  | model | -42.633 (mp-aaaaassv) | -42.842 (oqmd-19094) | [1] Wang 2002 | Table 2, p. 3, row 20 |  |
-| HfAl2 | [Al2Hf](https://data.orchid-project.org/compounds/Al2Hf.html) | -43.8 kJ/mol-atom | 298.15 | experimental | -42.633 (mp-aaaaassv) | -42.842 (oqmd-19094) | [1] Wang 2002; _cites Meschel 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990621-s) | Table 2, p. 3, row 18 |  |
-| HfAl2 | [Al2Hf](https://data.orchid-project.org/compounds/Al2Hf.html) | -41.7 kJ/mol-atom |  | model | -42.633 (mp-aaaaassv) | -42.842 (oqmd-19094) | [1] Wang 2002 | Table 2, p. 3, row 21 |  |
-| HfAl3 | [Al3Hf](https://data.orchid-project.org/compounds/Al3Hf.html) | -44.7 kJ/mol-atom | 298.15 | experimental | -38.14 (mp-aaabgjhu) | -38.236 (oqmd-19074) | [1] Wang 2002; _cites Balducci 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906039-8) | Table 2, p. 3, row 23 |  |
-| HfAl3 | [Al3Hf](https://data.orchid-project.org/compounds/Al3Hf.html) | -41.8 kJ/mol-atom |  | model | -38.14 (mp-aaabgjhu) | -38.236 (oqmd-19074) | [1] Wang 2002; _cites ref. 1975Kao_ | Table 2, p. 3, row 24 |  |
-| HfAl3 | [Al3Hf](https://data.orchid-project.org/compounds/Al3Hf.html) | -41.1 kJ/mol-atom |  | model | -38.14 (mp-aaabgjhu) | -38.236 (oqmd-19074) | [1] Wang 2002 | Table 2, p. 3, row 26 |  |
-| HfAl3 | [Al3Hf](https://data.orchid-project.org/compounds/Al3Hf.html) | -40.6 kJ/mol-atom | 298.15 | experimental | -38.14 (mp-aaabgjhu) | -38.236 (oqmd-19074) | [1] Wang 2002; _cites Meschel 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990621-s) | Table 2, p. 3, row 22 |  |
-| HfAl3 | [Al3Hf](https://data.orchid-project.org/compounds/Al3Hf.html) | -35.6 kJ/mol-atom |  | model | -38.14 (mp-aaabgjhu) | -38.236 (oqmd-19074) | [1] Wang 2002 | Table 2, p. 3, row 25 |  |
+| Hf2Al | [AlHf2](https://data.orchid-project.org/compounds/AlHf2.html) | -41.2 kJ/mol-atom |  | model | -25.526 (mp-aaaaasxg) | -25.508 (oqmd-19400) | [1] Wang 2002 | Table 2, p. 3, row 3; `ORC-272IXOMJZP` |  |
+| Hf2Al | [AlHf2](https://data.orchid-project.org/compounds/AlHf2.html) | -41 kJ/mol-atom |  | model | -25.526 (mp-aaaaasxg) | -25.508 (oqmd-19400) | [1] Wang 2002; _cites ref. 1975Kao_ | Table 2, p. 3, row 1; `ORC-H7ATN5M4J6` |  |
+| Hf2Al | [AlHf2](https://data.orchid-project.org/compounds/AlHf2.html) | -38.9 kJ/mol-atom |  | model | -25.526 (mp-aaaaasxg) | -25.508 (oqmd-19400) | [1] Wang 2002 | Table 2, p. 3, row 2; `ORC-2MDQVL4PQG` |  |
+| Hf2Al3 | [Al3Hf2](https://data.orchid-project.org/compounds/Al3Hf2.html) | -49.2 kJ/mol-atom |  | model | -41.152 (mp-aaaaabgo) | -41.101 (oqmd-19010) | [1] Wang 2002 | Table 2, p. 3, row 16; `ORC-GU3IQQP2JB` |  |
+| Hf2Al3 | [Al3Hf2](https://data.orchid-project.org/compounds/Al3Hf2.html) | -47.5 kJ/mol-atom |  | model | -41.152 (mp-aaaaabgo) | -41.101 (oqmd-19010) | [1] Wang 2002; _cites ref. 1975Kao_ | Table 2, p. 3, row 15; `ORC-A6GWJYJZ62` |  |
+| Hf2Al3 | [Al3Hf2](https://data.orchid-project.org/compounds/Al3Hf2.html) | -42.9 kJ/mol-atom |  | model | -41.152 (mp-aaaaabgo) | -41.101 (oqmd-19010) | [1] Wang 2002 | Table 2, p. 3, row 17; `ORC-XYIUW3AAEV` |  |
+| Hf2Al3 | [Al3Hf2](https://data.orchid-project.org/compounds/Al3Hf2.html) | -40.8 kJ/mol-atom | 298.15 | experimental | -41.152 (mp-aaaaabgo) | -41.101 (oqmd-19010) | [1] Wang 2002; _cites Balducci 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906039-8) | Table 2, p. 3, row 14; `ORC-KBQOXUGQIW` |  |
+| Hf3Al2 | [Al2Hf3](https://data.orchid-project.org/compounds/Al2Hf3.html) | -48.9 kJ/mol-atom |  | model | -31.894 (mp-aaaaamnm) | -31.931 (oqmd-11338) | [1] Wang 2002 | Table 2, p. 3, row 6; `ORC-IYHU6Z5SN3` |  |
+| Hf3Al2 | [Al2Hf3](https://data.orchid-project.org/compounds/Al2Hf3.html) | -45 kJ/mol-atom |  | model | -31.894 (mp-aaaaamnm) | -31.931 (oqmd-11338) | [1] Wang 2002 | Table 2, p. 3, row 5; `ORC-OCUDZAIO53` |  |
+| Hf3Al2 | [Al2Hf3](https://data.orchid-project.org/compounds/Al2Hf3.html) | -43.5 kJ/mol-atom |  | model | -31.894 (mp-aaaaamnm) | -31.931 (oqmd-11338) | [1] Wang 2002; _cites ref. 1975Kao_ | Table 2, p. 3, row 4; `ORC-TXWBMFUIM2` |  |
+| Hf4Al3 | [Al3Hf4](https://data.orchid-project.org/compounds/Al3Hf4.html) | -47.9 kJ/mol-atom |  | model | -38 (mp-aaacgipr) | -37.785 (oqmd-27836) | [1] Wang 2002 | Table 2, p. 3, row 9; `ORC-VDEYROWCAP` |  |
+| Hf4Al3 | [Al3Hf4](https://data.orchid-project.org/compounds/Al3Hf4.html) | -47.1 kJ/mol-atom |  | model | -38 (mp-aaacgipr) | -37.785 (oqmd-27836) | [1] Wang 2002 | Table 2, p. 3, row 8; `ORC-ORBJUA7PMB` |  |
+| Hf4Al3 | [Al3Hf4](https://data.orchid-project.org/compounds/Al3Hf4.html) | -44.4 kJ/mol-atom |  | model | -38 (mp-aaacgipr) | -37.785 (oqmd-27836) | [1] Wang 2002; _cites ref. 1975Kao_ | Table 2, p. 3, row 7; `ORC-QJBSIFLPT2` |  |
+| HfAl | [AlHf](https://data.orchid-project.org/compounds/AlHf.html) | -50.3 kJ/mol-atom |  | model | -38.759 (mp-aaaaaajp) | -38.774 (oqmd-18706) | [1] Wang 2002 | Table 2, p. 3, row 12; `ORC-3XM7NEEBUB` |  |
+| HfAl | [AlHf](https://data.orchid-project.org/compounds/AlHf.html) | -46.3 kJ/mol-atom |  | model | -38.759 (mp-aaaaaajp) | -38.774 (oqmd-18706) | [1] Wang 2002; _cites ref. 1975Kao_ | Table 2, p. 3, row 11; `ORC-LKFGJNOSKA` |  |
+| HfAl | [AlHf](https://data.orchid-project.org/compounds/AlHf.html) | -45.2 kJ/mol-atom |  | model | -38.759 (mp-aaaaaajp) | -38.774 (oqmd-18706) | [1] Wang 2002 | Table 2, p. 3, row 13; `ORC-CO3ZHQ5MU5` |  |
+| HfAl | [AlHf](https://data.orchid-project.org/compounds/AlHf.html) | -39.9 kJ/mol-atom | 298.15 | experimental | -38.759 (mp-aaaaaajp) | -38.774 (oqmd-18706) | [1] Wang 2002; _cites Meschel 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990621-s) | Table 2, p. 3, row 10; `ORC-O3DEJUQXKL` |  |
+| HfAl2 | [Al2Hf](https://data.orchid-project.org/compounds/Al2Hf.html) | -48.3 kJ/mol-atom |  | model | -42.633 (mp-aaaaassv) | -42.842 (oqmd-19094) | [1] Wang 2002; _cites ref. 1975Kao_ | Table 2, p. 3, row 19; `ORC-WSAYULNCVA` |  |
+| HfAl2 | [Al2Hf](https://data.orchid-project.org/compounds/Al2Hf.html) | -44.7 kJ/mol-atom |  | model | -42.633 (mp-aaaaassv) | -42.842 (oqmd-19094) | [1] Wang 2002 | Table 2, p. 3, row 20; `ORC-77G3WVIKLZ` |  |
+| HfAl2 | [Al2Hf](https://data.orchid-project.org/compounds/Al2Hf.html) | -43.8 kJ/mol-atom | 298.15 | experimental | -42.633 (mp-aaaaassv) | -42.842 (oqmd-19094) | [1] Wang 2002; _cites Meschel 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990621-s) | Table 2, p. 3, row 18; `ORC-DWELRRJ7TF` |  |
+| HfAl2 | [Al2Hf](https://data.orchid-project.org/compounds/Al2Hf.html) | -41.7 kJ/mol-atom |  | model | -42.633 (mp-aaaaassv) | -42.842 (oqmd-19094) | [1] Wang 2002 | Table 2, p. 3, row 21; `ORC-ISQR3YV3ZG` |  |
+| HfAl3 | [Al3Hf](https://data.orchid-project.org/compounds/Al3Hf.html) | -44.7 kJ/mol-atom | 298.15 | experimental | -38.14 (mp-aaabgjhu) | -38.236 (oqmd-19074) | [1] Wang 2002; _cites Balducci 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906039-8) | Table 2, p. 3, row 23; `ORC-H3GLAFRIM7` |  |
+| HfAl3 | [Al3Hf](https://data.orchid-project.org/compounds/Al3Hf.html) | -41.8 kJ/mol-atom |  | model | -38.14 (mp-aaabgjhu) | -38.236 (oqmd-19074) | [1] Wang 2002; _cites ref. 1975Kao_ | Table 2, p. 3, row 24; `ORC-DDFGOZ3PKZ` |  |
+| HfAl3 | [Al3Hf](https://data.orchid-project.org/compounds/Al3Hf.html) | -41.1 kJ/mol-atom |  | model | -38.14 (mp-aaabgjhu) | -38.236 (oqmd-19074) | [1] Wang 2002 | Table 2, p. 3, row 26; `ORC-AL35XEQFMA` |  |
+| HfAl3 | [Al3Hf](https://data.orchid-project.org/compounds/Al3Hf.html) | -40.6 kJ/mol-atom | 298.15 | experimental | -38.14 (mp-aaabgjhu) | -38.236 (oqmd-19074) | [1] Wang 2002; _cites Meschel 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990621-s) | Table 2, p. 3, row 22; `ORC-UVWYIQWC3J` |  |
+| HfAl3 | [Al3Hf](https://data.orchid-project.org/compounds/Al3Hf.html) | -35.6 kJ/mol-atom |  | model | -38.14 (mp-aaabgjhu) | -38.236 (oqmd-19074) | [1] Wang 2002 | Table 2, p. 3, row 25; `ORC-6JLUSDS27Q` |  |
 
 ## Sources
 
@@ -196,4 +196,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

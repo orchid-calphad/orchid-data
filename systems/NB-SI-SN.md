@@ -26,11 +26,11 @@ Table: Invariant reactions reported in the literature for the Nb–Si–Sn syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2247.15 | L1 + β-Nb5Si3 -> L2 + α-Nb5Si3 |  | model | [1] Sun 2012 | Table 3, p. 6, row 1 |  |
-| 2147.15 | L -> (Nb) + A15 + α-Nb5Si3 |  | model | [1] Sun 2012 | Table 3, p. 6, row 2 |  |
-| 2004.15 | L1 -> L2 + α-Nb5Si3 + A15 |  | model | [1] Sun 2012 | Table 3, p. 6, row 3 |  |
-| 1937.15 | L1 -> L2 + NbSi2 + β-Nb5Si3 |  | model | [1] Sun 2012 | Table 3, p. 6, row 4 |  |
-| 1571.15 | L1 -> (Si) + L2 + NbSi2 |  | model | [1] Sun 2012 | Table 3, p. 6, row 5 |  |
+| 2247.15 | L1 + β-Nb5Si3 -> L2 + α-Nb5Si3 |  | model | [1] Sun 2012 | Table 3, p. 6, row 1; `ORC-VJLUDOQQ32` |  |
+| 2147.15 | L -> (Nb) + A15 + α-Nb5Si3 |  | model | [1] Sun 2012 | Table 3, p. 6, row 2; `ORC-4TN6BQH3D4` |  |
+| 2004.15 | L1 -> L2 + α-Nb5Si3 + A15 |  | model | [1] Sun 2012 | Table 3, p. 6, row 3; `ORC-JCSBQHHLKN` |  |
+| 1937.15 | L1 -> L2 + NbSi2 + β-Nb5Si3 |  | model | [1] Sun 2012 | Table 3, p. 6, row 4; `ORC-BZEHDS4USL` |  |
+| 1571.15 | L1 -> (Si) + L2 + NbSi2 |  | model | [1] Sun 2012 | Table 3, p. 6, row 5; `ORC-BJHJSEL7TH` |  |
 
 ## Sources
 
@@ -73,4 +73,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -14,22 +14,22 @@ Table: Enthalpy of formation of Co3V reported in the literature (16)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -16.3103 kJ/mol-atom | Co3V | 0 | DFT | DFT | [Co–V](https://data.orchid-project.org/systems/CO-V.html) | [1] Wang 2020 | Table 2, p. 20, row 8 |  |
-| -7.2976 kJ/mol-atom | Co3V | 0 | DFT | DFT | [Co–V](https://data.orchid-project.org/systems/CO-V.html) | [1] Wang 2020 | Table 2, p. 20, row 11 |  |
-| -7.1374 kJ/mol-atom | Co3V | 0 | DFT | DFT | [Co–V](https://data.orchid-project.org/systems/CO-V.html) | [1] Wang 2020 | Table 2, p. 20, row 7 |  |
-| -7.0055 kJ/mol-atom | Co3V | 0 | DFT | DFT | [Co–V](https://data.orchid-project.org/systems/CO-V.html) | [1] Wang 2020 | Table 2, p. 20, row 10 |  |
-| -1.3604 kJ/mol-atom | Co3V | 0 | DFT | DFT | [Co–V](https://data.orchid-project.org/systems/CO-V.html) | [1] Wang 2020 | Table 2, p. 20, row 4 |  |
-| -6.000e-4 kJ/mol-atom | Co3V | 0 | DFT | DFT | [Co–V](https://data.orchid-project.org/systems/CO-V.html) | [1] Wang 2020 | Table 2, p. 20, row 3 |  |
-| 1.1026 kJ/mol-atom | Co3V | 0 | DFT | DFT | [Co–V](https://data.orchid-project.org/systems/CO-V.html) | [1] Wang 2020 | Table 2, p. 20, row 1 |  |
-| 1.7914 kJ/mol-atom | Co3V | 0 | DFT | DFT | [Co–V](https://data.orchid-project.org/systems/CO-V.html) | [1] Wang 2020 | Table 2, p. 20, row 6 |  |
-| 4.4217 kJ/mol-atom | Co3V | 0 | DFT | DFT | [Co–V](https://data.orchid-project.org/systems/CO-V.html) | [1] Wang 2020 | Table 2, p. 20, row 12 |  |
-| 4.5149 kJ/mol-atom | Co3V | 0 | DFT | DFT | [Co–V](https://data.orchid-project.org/systems/CO-V.html) | [1] Wang 2020 | Table 2, p. 20, row 5 |  |
-| 7.0017 kJ/mol-atom | Co3V | 0 | DFT | DFT | [Co–V](https://data.orchid-project.org/systems/CO-V.html) | [1] Wang 2020 | Table 2, p. 20, row 9 |  |
-| 8.4967 kJ/mol-atom | Co3V | 0 | DFT | DFT | [Co–V](https://data.orchid-project.org/systems/CO-V.html) | [1] Wang 2020 | Table 2, p. 20, row 16 |  |
-| 9.8872 kJ/mol-atom | Co3V | 0 | DFT | DFT | [Co–V](https://data.orchid-project.org/systems/CO-V.html) | [1] Wang 2020 | Table 2, p. 20, row 14 |  |
-| 13.9387 kJ/mol-atom | Co3V | 0 | DFT | DFT | [Co–V](https://data.orchid-project.org/systems/CO-V.html) | [1] Wang 2020 | Table 2, p. 20, row 13 |  |
-| 17.3899 kJ/mol-atom | Co3V | 0 | DFT | DFT | [Co–V](https://data.orchid-project.org/systems/CO-V.html) | [1] Wang 2020 | Table 2, p. 20, row 15 |  |
-| 23.2844 kJ/mol-atom | Co3V | 0 | DFT | DFT | [Co–V](https://data.orchid-project.org/systems/CO-V.html) | [1] Wang 2020 | Table 2, p. 20, row 2 |  |
+| -16.3103 kJ/mol-atom | Co3V | 0 | DFT | DFT | [Co–V](https://data.orchid-project.org/systems/CO-V.html) | [1] Wang 2020 | Table 2, p. 20, row 8; `ORC-DD374OL74D` |  |
+| -7.2976 kJ/mol-atom | Co3V | 0 | DFT | DFT | [Co–V](https://data.orchid-project.org/systems/CO-V.html) | [1] Wang 2020 | Table 2, p. 20, row 11; `ORC-QAIII4KUMU` |  |
+| -7.1374 kJ/mol-atom | Co3V | 0 | DFT | DFT | [Co–V](https://data.orchid-project.org/systems/CO-V.html) | [1] Wang 2020 | Table 2, p. 20, row 7; `ORC-PHRU4NQ5CT` |  |
+| -7.0055 kJ/mol-atom | Co3V | 0 | DFT | DFT | [Co–V](https://data.orchid-project.org/systems/CO-V.html) | [1] Wang 2020 | Table 2, p. 20, row 10; `ORC-BO42QNAHFH` |  |
+| -1.3604 kJ/mol-atom | Co3V | 0 | DFT | DFT | [Co–V](https://data.orchid-project.org/systems/CO-V.html) | [1] Wang 2020 | Table 2, p. 20, row 4; `ORC-BNGDYTKBIZ` |  |
+| -6.000e-4 kJ/mol-atom | Co3V | 0 | DFT | DFT | [Co–V](https://data.orchid-project.org/systems/CO-V.html) | [1] Wang 2020 | Table 2, p. 20, row 3; `ORC-DDIXQSLYF6` |  |
+| 1.1026 kJ/mol-atom | Co3V | 0 | DFT | DFT | [Co–V](https://data.orchid-project.org/systems/CO-V.html) | [1] Wang 2020 | Table 2, p. 20, row 1; `ORC-NUGYEFNDZM` |  |
+| 1.7914 kJ/mol-atom | Co3V | 0 | DFT | DFT | [Co–V](https://data.orchid-project.org/systems/CO-V.html) | [1] Wang 2020 | Table 2, p. 20, row 6; `ORC-YZJXUT3IKL` |  |
+| 4.4217 kJ/mol-atom | Co3V | 0 | DFT | DFT | [Co–V](https://data.orchid-project.org/systems/CO-V.html) | [1] Wang 2020 | Table 2, p. 20, row 12; `ORC-UL2KXUEW66` |  |
+| 4.5149 kJ/mol-atom | Co3V | 0 | DFT | DFT | [Co–V](https://data.orchid-project.org/systems/CO-V.html) | [1] Wang 2020 | Table 2, p. 20, row 5; `ORC-7C2YMW7A77` |  |
+| 7.0017 kJ/mol-atom | Co3V | 0 | DFT | DFT | [Co–V](https://data.orchid-project.org/systems/CO-V.html) | [1] Wang 2020 | Table 2, p. 20, row 9; `ORC-VLFCSVZM2Q` |  |
+| 8.4967 kJ/mol-atom | Co3V | 0 | DFT | DFT | [Co–V](https://data.orchid-project.org/systems/CO-V.html) | [1] Wang 2020 | Table 2, p. 20, row 16; `ORC-6ZZU27SDIK` |  |
+| 9.8872 kJ/mol-atom | Co3V | 0 | DFT | DFT | [Co–V](https://data.orchid-project.org/systems/CO-V.html) | [1] Wang 2020 | Table 2, p. 20, row 14; `ORC-JHN7POPRKN` |  |
+| 13.9387 kJ/mol-atom | Co3V | 0 | DFT | DFT | [Co–V](https://data.orchid-project.org/systems/CO-V.html) | [1] Wang 2020 | Table 2, p. 20, row 13; `ORC-2OVRJO3IAD` |  |
+| 17.3899 kJ/mol-atom | Co3V | 0 | DFT | DFT | [Co–V](https://data.orchid-project.org/systems/CO-V.html) | [1] Wang 2020 | Table 2, p. 20, row 15; `ORC-SZ65PHMG2Q` |  |
+| 23.2844 kJ/mol-atom | Co3V | 0 | DFT | DFT | [Co–V](https://data.orchid-project.org/systems/CO-V.html) | [1] Wang 2020 | Table 2, p. 20, row 2; `ORC-6SODOQ4MGY` |  |
 
 ### Uncertainty budget
 
@@ -107,4 +107,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

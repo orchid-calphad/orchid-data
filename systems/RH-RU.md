@@ -46,7 +46,7 @@ Table: Invariant reactions reported in the literature for the Rh–Ru system (1)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2360 | peritectic |  | model | [1] Gossé 2016 | p. 6 | “The invariant compositions are respectively: 40.1 at.% Ru, 48.2 at.% Ru, 37.8 at.% Ru at the peritectic reaction calculated at 2360 K (Fig. 7).” |
+| 2360 | peritectic |  | model | [1] Gossé 2016 | p. 6; `ORC-2DE3THW7NO` | “The invariant compositions are respectively: 40.1 at.% Ru, 48.2 at.% Ru, 37.8 at.% Ru at the peritectic reaction calculated at 2360 K (Fig. 7).” |
 
 ## Other properties
 
@@ -56,16 +56,16 @@ Table: Mixing / partial, Rh–Ru system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | -1.2926 kJ/mol (basis unstated) | 0 | FCC; _alloy: Rh 0.25, Ru 0.75_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 12 |  |
-| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | -0.9132 kJ/mol (basis unstated) | 0 | FCC; _alloy: Rh 0.94, Ru 0.06_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 15 |  |
-| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | 0.0707 kJ/mol (basis unstated) | 0 | FCC; _alloy: Rh 0.06, Ru 0.94_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 11 |  |
-| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | -1.3808 kJ/mol (basis unstated) | 0 | FCC; _alloy: Rh 0.75, Ru 0.25_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 14 |  |
-| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | -1.2842 kJ/mol (basis unstated) | 0 | FCC; _alloy: Rh 0.5, Ru 0.5_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 13 |  |
-| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | -0.4479 kJ/mol (basis unstated) | 0 | HCP; _alloy: Rh 0.25, Ru 0.75_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 12 |  |
-| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | -0.3147 kJ/mol (basis unstated) | 0 | HCP; _alloy: Rh 0.94, Ru 0.06_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 15 |  |
-| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | 0.2358 kJ/mol (basis unstated) | 0 | HCP; _alloy: Rh 0.06, Ru 0.94_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 11 |  |
-| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | -0.2123 kJ/mol (basis unstated) | 0 | HCP; _alloy: Rh 0.75, Ru 0.25_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 14 |  |
-| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | -0.8385 kJ/mol (basis unstated) | 0 | HCP; _alloy: Rh 0.5, Ru 0.5_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 13 |  |
+| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | -1.2926 kJ/mol (basis unstated) | 0 | FCC; _alloy: Rh 0.25, Ru 0.75_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 12; `ORC-6M2B5PL7AS.8ea5c5` |  |
+| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | -0.9132 kJ/mol (basis unstated) | 0 | FCC; _alloy: Rh 0.94, Ru 0.06_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 15; `ORC-B63XKXWKXH.a4ec3f` |  |
+| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | 0.0707 kJ/mol (basis unstated) | 0 | FCC; _alloy: Rh 0.06, Ru 0.94_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 11; `ORC-EVKDX3KH5Y.250728` |  |
+| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | -1.3808 kJ/mol (basis unstated) | 0 | FCC; _alloy: Rh 0.75, Ru 0.25_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 14; `ORC-NXMD7NBPUQ.2e7376` |  |
+| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | -1.2842 kJ/mol (basis unstated) | 0 | FCC; _alloy: Rh 0.5, Ru 0.5_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 13; `ORC-Y6QRFWYB6L.8ccc78` |  |
+| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | -0.4479 kJ/mol (basis unstated) | 0 | HCP; _alloy: Rh 0.25, Ru 0.75_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 12; `ORC-6M2B5PL7AS.12f334` |  |
+| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | -0.3147 kJ/mol (basis unstated) | 0 | HCP; _alloy: Rh 0.94, Ru 0.06_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 15; `ORC-B63XKXWKXH.f1798e` |  |
+| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | 0.2358 kJ/mol (basis unstated) | 0 | HCP; _alloy: Rh 0.06, Ru 0.94_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 11; `ORC-EVKDX3KH5Y.024b91` |  |
+| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | -0.2123 kJ/mol (basis unstated) | 0 | HCP; _alloy: Rh 0.75, Ru 0.25_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 14; `ORC-NXMD7NBPUQ.820ebc` |  |
+| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | -0.8385 kJ/mol (basis unstated) | 0 | HCP; _alloy: Rh 0.5, Ru 0.5_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 13; `ORC-Y6QRFWYB6L.dfd496` |  |
 
 ## Sources
 
@@ -130,4 +130,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

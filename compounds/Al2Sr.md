@@ -14,20 +14,20 @@ Table: Enthalpy of formation of Al2Sr reported in the literature (14)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -30.3 kJ/mol-atom | Al2Sr C15 | 0 | DFT | First-principles | [Al–Sr](https://data.orchid-project.org/systems/AL-SR.html) | [1] Zhong 2004 | Table 3, p. 6, row 36 |  |
-| -29.8 kJ/mol-atom | Al2Sr C36 | 0 | DFT | first-principles | [Al–Sr](https://data.orchid-project.org/systems/AL-SR.html) | [1] Zhong 2004 | Table 3, p. 6, row 8 |  |
-| -29.7 kJ/mol-atom | Al2Sr CeCu2-type | 0 | DFT | First-principles | [Al–Sr](https://data.orchid-project.org/systems/AL-SR.html) | [1] Zhong 2004 | Table 3, p. 6, row 31 |  |
-| -29 kJ/mol-atom | Al2Sr CeCu2-type | 0 | DFT | First-principles | [Al–Sr](https://data.orchid-project.org/systems/AL-SR.html) | [1] Zhong 2004 | Table 3, p. 6, row 34 |  |
-| -28.8 kJ/mol-atom | Al2Sr CeCu2-type | 0 | DFT | First-principles | [Al–Sr](https://data.orchid-project.org/systems/AL-SR.html) | [1] Zhong 2004 | Table 3, p. 6, row 35 |  |
-| -28.2 kJ/mol-atom | Al2Sr C14 | 0 | DFT | first-principles | [Al–Sr](https://data.orchid-project.org/systems/AL-SR.html) | [1] Zhong 2004 | Table 3, p. 6, row 7 |  |
-| -27.9 kJ/mol-atom | Al2Sr CeCu2-type | 0 | DFT | First-principles | [Al–Sr](https://data.orchid-project.org/systems/AL-SR.html) | [1] Zhong 2004 | Table 3, p. 6, row 33 |  |
-| -27.4 kJ/mol-atom | Al2Sr CeCu2-type | 0 | DFT | First-principles | [Al–Sr](https://data.orchid-project.org/systems/AL-SR.html) | [1] Zhong 2004 | Table 3, p. 6, row 32 |  |
-| -27.2 kJ/mol-atom | Al2Sr C15 | 0 | DFT | first-principles | [Al–Sr](https://data.orchid-project.org/systems/AL-SR.html) | [1] Zhong 2004 | Table 3, p. 6, row 17 |  |
-| -26 kJ/mol-atom | Al2Sr CaIn2-type | 0 | DFT | first-principles | [Al–Sr](https://data.orchid-project.org/systems/AL-SR.html) | [1] Zhong 2004 | Table 3, p. 6, row 10 |  |
-| -23 kJ/mol-atom | Al2Sr C32 | 0 | DFT | first-principles | [Al–Sr](https://data.orchid-project.org/systems/AL-SR.html) | [1] Zhong 2004 | Table 3, p. 6, row 9 |  |
-| -8.2 kJ/mol-atom | Al2Sr MoPt2-type | 0 | DFT | first-principles | [Al–Sr](https://data.orchid-project.org/systems/AL-SR.html) | [1] Zhong 2004 | Table 3, p. 6, row 13 |  |
-| 0.5 kJ/mol-atom | Al2Sr C16 | 0 | DFT | first-principles | [Al–Sr](https://data.orchid-project.org/systems/AL-SR.html) | [1] Zhong 2004 | Table 3, p. 6, row 11 |  |
-| 55.4 kJ/mol-atom | Al2Sr CaF2-type | 0 | DFT | first-principles | [Al–Sr](https://data.orchid-project.org/systems/AL-SR.html) | [1] Zhong 2004 | Table 3, p. 6, row 14 |  |
+| -30.3 kJ/mol-atom | Al2Sr C15 | 0 | DFT | First-principles | [Al–Sr](https://data.orchid-project.org/systems/AL-SR.html) | [1] Zhong 2004 | Table 3, p. 6, row 36; `ORC-6DZ4YRCL2I.d02e4f` |  |
+| -29.8 kJ/mol-atom | Al2Sr C36 | 0 | DFT | first-principles | [Al–Sr](https://data.orchid-project.org/systems/AL-SR.html) | [1] Zhong 2004 | Table 3, p. 6, row 8; `ORC-4S35WXHLET.5a7b4d` |  |
+| -29.7 kJ/mol-atom | Al2Sr CeCu2-type | 0 | DFT | First-principles | [Al–Sr](https://data.orchid-project.org/systems/AL-SR.html) | [1] Zhong 2004 | Table 3, p. 6, row 31; `ORC-HUIVJDU35E.28bb13` |  |
+| -29 kJ/mol-atom | Al2Sr CeCu2-type | 0 | DFT | First-principles | [Al–Sr](https://data.orchid-project.org/systems/AL-SR.html) | [1] Zhong 2004 | Table 3, p. 6, row 34; `ORC-R7VVSCK6M5.da105b` |  |
+| -28.8 kJ/mol-atom | Al2Sr CeCu2-type | 0 | DFT | First-principles | [Al–Sr](https://data.orchid-project.org/systems/AL-SR.html) | [1] Zhong 2004 | Table 3, p. 6, row 35; `ORC-FKLHNK44UV.0c8390` |  |
+| -28.2 kJ/mol-atom | Al2Sr C14 | 0 | DFT | first-principles | [Al–Sr](https://data.orchid-project.org/systems/AL-SR.html) | [1] Zhong 2004 | Table 3, p. 6, row 7; `ORC-X7UDDPRXTK.90a116` |  |
+| -27.9 kJ/mol-atom | Al2Sr CeCu2-type | 0 | DFT | First-principles | [Al–Sr](https://data.orchid-project.org/systems/AL-SR.html) | [1] Zhong 2004 | Table 3, p. 6, row 33; `ORC-UGMDR7N475.30e293` |  |
+| -27.4 kJ/mol-atom | Al2Sr CeCu2-type | 0 | DFT | First-principles | [Al–Sr](https://data.orchid-project.org/systems/AL-SR.html) | [1] Zhong 2004 | Table 3, p. 6, row 32; `ORC-5LR2J676UV.a8cc62` |  |
+| -27.2 kJ/mol-atom | Al2Sr C15 | 0 | DFT | first-principles | [Al–Sr](https://data.orchid-project.org/systems/AL-SR.html) | [1] Zhong 2004 | Table 3, p. 6, row 17; `ORC-O2IODHVZER.bb8855` |  |
+| -26 kJ/mol-atom | Al2Sr CaIn2-type | 0 | DFT | first-principles | [Al–Sr](https://data.orchid-project.org/systems/AL-SR.html) | [1] Zhong 2004 | Table 3, p. 6, row 10; `ORC-O6GGHPQNEI.5f7123` |  |
+| -23 kJ/mol-atom | Al2Sr C32 | 0 | DFT | first-principles | [Al–Sr](https://data.orchid-project.org/systems/AL-SR.html) | [1] Zhong 2004 | Table 3, p. 6, row 9; `ORC-CECNGUBOXZ.0a7dfb` |  |
+| -8.2 kJ/mol-atom | Al2Sr MoPt2-type | 0 | DFT | first-principles | [Al–Sr](https://data.orchid-project.org/systems/AL-SR.html) | [1] Zhong 2004 | Table 3, p. 6, row 13; `ORC-JFLCHIBCLM.f5a3db` |  |
+| 0.5 kJ/mol-atom | Al2Sr C16 | 0 | DFT | first-principles | [Al–Sr](https://data.orchid-project.org/systems/AL-SR.html) | [1] Zhong 2004 | Table 3, p. 6, row 11; `ORC-IHQ3ILNKFZ.1a04f2` |  |
+| 55.4 kJ/mol-atom | Al2Sr CaF2-type | 0 | DFT | first-principles | [Al–Sr](https://data.orchid-project.org/systems/AL-SR.html) | [1] Zhong 2004 | Table 3, p. 6, row 14; `ORC-SUJPEYUGWH.641812` |  |
 
 ### Uncertainty budget
 
@@ -103,4 +103,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

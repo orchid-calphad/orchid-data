@@ -71,11 +71,11 @@ Table: Invariant reactions reported in the literature for the Bi–La system (5)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1023.15 | Bcc(La) = La2Bi +Fcc(La) | La2Bi: Bi 0.3333 | experimental | [1] Tang 2013; _cites Nomura 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990007-8) | Table 4, p. 6, row 16 |  |
-| 1022.55 | Bcc(La) = La2Bi +Fcc(La) | Bcc(La): Bi 0.0218; La2Bi: Bi 0.3333; Fcc(La): Bi 0 | model | [1] Tang 2013 | Table 4, p. 6, row 17 |  |
-| 1022.45 | Bcc(La) = La2Bi +Fcc(La) | Bcc(La): Bi 0.0218; La2Bi: Bi 0.3333; Fcc(La): Bi 0 | model | [1] Tang 2013 | Table 4, p. 6, row 18 |  |
-| 544.55 | Liquid = LaBi2 + (Bi) | Liquid: Bi 0.9997; LaBi2: Bi 0.6667; (Bi): Bi 1 | model | [1] Tang 2013 | Table 4, p. 6, row 38 |  |
-| 544.25 | Liquid = LaBi2 + (Bi) | Liquid: Bi 0.9998; LaBi2: Bi 0.6667; (Bi): Bi 1 | model | [1] Tang 2013 | Table 4, p. 6, row 39 |  |
+| 1023.15 | Bcc(La) = La2Bi +Fcc(La) | La2Bi: Bi 0.3333 | experimental | [1] Tang 2013; _cites Nomura 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990007-8) | Table 4, p. 6, row 16; `ORC-WS4QLD5Q72` |  |
+| 1022.55 | Bcc(La) = La2Bi +Fcc(La) | Bcc(La): Bi 0.0218; La2Bi: Bi 0.3333; Fcc(La): Bi 0 | model | [1] Tang 2013 | Table 4, p. 6, row 17; `ORC-V5OSKQ45KF` |  |
+| 1022.45 | Bcc(La) = La2Bi +Fcc(La) | Bcc(La): Bi 0.0218; La2Bi: Bi 0.3333; Fcc(La): Bi 0 | model | [1] Tang 2013 | Table 4, p. 6, row 18; `ORC-3QE4RRRHCO` |  |
+| 544.55 | Liquid = LaBi2 + (Bi) | Liquid: Bi 0.9997; LaBi2: Bi 0.6667; (Bi): Bi 1 | model | [1] Tang 2013 | Table 4, p. 6, row 38; `ORC-R4KGOHEROS` |  |
+| 544.25 | Liquid = LaBi2 + (Bi) | Liquid: Bi 0.9998; LaBi2: Bi 0.6667; (Bi): Bi 1 | model | [1] Tang 2013 | Table 4, p. 6, row 39; `ORC-HPCL5CZPIX` |  |
 
 ## Other properties
 
@@ -85,7 +85,7 @@ Table: Phase transition, Bi–La system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1943.15 K | 1943.15 | congruent transformation | experimental | [1] Tang 2013; _cites Nomura 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990007-8) | p. 2 | “Except for the La4Bi3 phase, which melts congruently at 1670 C, the other four compounds are formed via peritectic reactions.” |
+| Phase transition | 1943.15 K | 1943.15 | congruent transformation | experimental | [1] Tang 2013; _cites Nomura 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990007-8) | p. 2; `ORC-H44V4RRGFI` | “Except for the La4Bi3 phase, which melts congruently at 1670 C, the other four compounds are formed via peritectic reactions.” |
 
 ### Crystal structure (15)
 
@@ -93,21 +93,21 @@ Table: Crystal structure, Bi–La system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 4.712 Å | 0 | La2Bi; _alloy: Bi 0.333333, La 0.666667_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 18 |  |
-| Lattice a | 4.737 Å |  | La2Bi; _alloy: Bi 0.333333, La 0.666667_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 17 |  |
-| Lattice a | 9.886 Å | 0 | La4Bi3; _alloy: Bi 0.428571, La 0.571429_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 22 |  |
-| Lattice a | 9.79 Å |  | La4Bi3; _alloy: Bi 0.428571, La 0.571429_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 21 |  |
-| Lattice a | 9.659 Å |  | La5Bi3; _alloy: Bi 0.375, La 0.625_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 19 |  |
-| Lattice a | 9.767 Å | 0 | La5Bi3; _alloy: Bi 0.375, La 0.625_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 20 |  |
-| Lattice a | 6.659 Å | 0 | LaBi; _alloy: Bi 0.5, La 0.5_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 24 |  |
-| Lattice a | 6.658 Å |  | LaBi; _alloy: Bi 0.5, La 0.5_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 23 |  |
-| Lattice a | 4.737 Å |  | LaBi2; _alloy: Bi 0.666667, La 0.333333_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 25 |  |
-| Lattice b | 17.51 Å |  | LaBi2; _alloy: Bi 0.666667, La 0.333333_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 25 |  |
-| Lattice c | 18.583 Å | 0 | La2Bi; _alloy: Bi 0.333333, La 0.666667_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 18 |  |
-| Lattice c | 18.34 Å |  | La2Bi; _alloy: Bi 0.333333, La 0.666667_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 17 |  |
-| Lattice c | 6.697 Å |  | La5Bi3; _alloy: Bi 0.375, La 0.625_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 19 |  |
-| Lattice c | 6.727 Å | 0 | La5Bi3; _alloy: Bi 0.375, La 0.625_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 20 |  |
-| Lattice c | 4.564 Å |  | LaBi2; _alloy: Bi 0.666667, La 0.333333_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 25 |  |
+| Lattice a | 4.712 Å | 0 | La2Bi; _alloy: Bi 0.333333, La 0.666667_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 18; `ORC-2YNPXJXIX4.f28e98` |  |
+| Lattice a | 4.737 Å |  | La2Bi; _alloy: Bi 0.333333, La 0.666667_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 17; `ORC-GRXZ2YJ3LH.e2595d` |  |
+| Lattice a | 9.886 Å | 0 | La4Bi3; _alloy: Bi 0.428571, La 0.571429_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 22; `ORC-O2ZSR3Q2EY` |  |
+| Lattice a | 9.79 Å |  | La4Bi3; _alloy: Bi 0.428571, La 0.571429_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 21; `ORC-VKO2WJWPAJ` |  |
+| Lattice a | 9.659 Å |  | La5Bi3; _alloy: Bi 0.375, La 0.625_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 19; `ORC-INCQJ4T7NF.fc78f7` |  |
+| Lattice a | 9.767 Å | 0 | La5Bi3; _alloy: Bi 0.375, La 0.625_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 20; `ORC-VMPYERVCFZ.370d00` |  |
+| Lattice a | 6.659 Å | 0 | LaBi; _alloy: Bi 0.5, La 0.5_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 24; `ORC-CTXFFOPPOA` |  |
+| Lattice a | 6.658 Å |  | LaBi; _alloy: Bi 0.5, La 0.5_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 23; `ORC-T2LTIHZDI7` |  |
+| Lattice a | 4.737 Å |  | LaBi2; _alloy: Bi 0.666667, La 0.333333_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 25; `ORC-XQD5CJ5SMZ.72217a` |  |
+| Lattice b | 17.51 Å |  | LaBi2; _alloy: Bi 0.666667, La 0.333333_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 25; `ORC-XQD5CJ5SMZ.ad1906` |  |
+| Lattice c | 18.583 Å | 0 | La2Bi; _alloy: Bi 0.333333, La 0.666667_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 18; `ORC-2YNPXJXIX4.faa5d6` |  |
+| Lattice c | 18.34 Å |  | La2Bi; _alloy: Bi 0.333333, La 0.666667_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 17; `ORC-GRXZ2YJ3LH.df9eb8` |  |
+| Lattice c | 6.697 Å |  | La5Bi3; _alloy: Bi 0.375, La 0.625_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 19; `ORC-INCQJ4T7NF.6017fe` |  |
+| Lattice c | 6.727 Å | 0 | La5Bi3; _alloy: Bi 0.375, La 0.625_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 20; `ORC-VMPYERVCFZ.29f854` |  |
+| Lattice c | 4.564 Å |  | LaBi2; _alloy: Bi 0.666667, La 0.333333_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 25; `ORC-XQD5CJ5SMZ.caeace` |  |
 
 ## Sources
 
@@ -172,4 +172,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

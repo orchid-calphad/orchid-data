@@ -14,24 +14,24 @@ Table: Enthalpy of formation of Mn2O3 reported in the literature (18)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -194.854 kJ/mol-atom | Mn2O3 | 298.15 | experimental | combustion | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003; _cites Siemonsen 1939_ | Table 11, p. 16, row 70 |  |
-| -194.854 kJ/mol-atom | Bixbyite (Mn2O3) | 298.15 | experimental | combustion | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003; _cites Siemonsen 1939_ | Table 11, p. 16, row 25 |  |
-| -194.77 kJ/mol-atom | Bixbyite (Mn2O3) | 298.15 | experimental | combustion | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003; _cites Ulich 1940_ [doi](https://doi.org/10.1002/srin.194001311) | Table 11, p. 16, row 26 |  |
-| -194.77 kJ/mol-atom | Mn2O3 | 298.15 | experimental | combustion | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003; _cites Ulich 1940_ [doi](https://doi.org/10.1002/srin.194001311) | Table 11, p. 16, row 71 |  |
-| -192.518 kJ/mol-atom | Bixbyite (Mn2O3) | 298.15 | model | assessed | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003 | Table 11, p. 16, row 33 |  |
-| -192.518 kJ/mol-atom | Mn2O3 | 298.15 | model | assessed | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003 | Table 11, p. 16, row 78 |  |
-| -191.922 kJ/mol-atom | Mn2O3 | 298.15 | model | assessed | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003; _cites Pankratz 1982_ | Table 11, p. 16, row 75 |  |
-| -191.922 kJ/mol-atom | Bixbyite (Mn2O3) | 298.15 | model | assessed | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003; _cites Pankratz 1982_ | Table 11, p. 16, row 30 |  |
-| -191.922 kJ/mol-atom | Mn2O3 | 298.15 | model | assessed | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003; _cites Brewer 1953_ [doi](https://doi.org/10.1021/cr60161a001) | Table 11, p. 16, row 72 |  |
-| -191.922 kJ/mol-atom | Bixbyite (Mn2O3) | 298.15 | model | assessed | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003; _cites Brewer 1953_ [doi](https://doi.org/10.1021/cr60161a001) | Table 11, p. 16, row 27 |  |
-| -191.8 kJ/mol-atom | Bixbyite (Mn2O3) | 298.15 | model | assessed | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003; _cites Knacke 1991_ | Table 11, p. 16, row 31 |  |
-| -191.8 kJ/mol-atom | Mn2O3 | 298.15 | model | assessed | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003; _cites Knacke 1991_ | Table 11, p. 16, row 76 |  |
-| -191.62 kJ/mol-atom | Bixbyite (Mn2O3) | 298.15 | model | assessed | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003; _cites Kubaschewski 1993_ | Table 11, p. 16, row 32 |  |
-| -191.62 kJ/mol-atom | Mn2O3 | 298.15 | model | assessed | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003; _cites Kubaschewski 1993_ | Table 11, p. 16, row 77 |  |
-| -191.504 kJ/mol-atom | Mn2O3 | 298.15 | model | assessed | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003; _cites Zordan 1968_ [doi](https://doi.org/10.1021/cr60256a003) | Table 11, p. 16, row 74 |  |
-| -191.504 kJ/mol-atom | Bixbyite (Mn2O3) | 298.15 | model | assessed | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003; _cites Zordan 1968_ [doi](https://doi.org/10.1021/cr60256a003) | Table 11, p. 16, row 29 |  |
-| -191.254 kJ/mol-atom | Mn2O3 | 298.15 | model | assessed | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003; _cites Mah 1960_ | Table 11, p. 16, row 73 |  |
-| -191.254 kJ/mol-atom | Bixbyite (Mn2O3) | 298.15 | model | assessed | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003; _cites Mah 1960_ | Table 11, p. 16, row 28 |  |
+| -194.854 kJ/mol-atom | Mn2O3 | 298.15 | experimental | combustion | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003; _cites Siemonsen 1939_ | Table 11, p. 16, row 70; `ORC-QU32DJ43IU` |  |
+| -194.854 kJ/mol-atom | Bixbyite (Mn2O3) | 298.15 | experimental | combustion | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003; _cites Siemonsen 1939_ | Table 11, p. 16, row 25; `ORC-X7TRQ4WAKF` |  |
+| -194.77 kJ/mol-atom | Bixbyite (Mn2O3) | 298.15 | experimental | combustion | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003; _cites Ulich 1940_ [doi](https://doi.org/10.1002/srin.194001311) | Table 11, p. 16, row 26; `ORC-FR3Y2JBCSB` |  |
+| -194.77 kJ/mol-atom | Mn2O3 | 298.15 | experimental | combustion | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003; _cites Ulich 1940_ [doi](https://doi.org/10.1002/srin.194001311) | Table 11, p. 16, row 71; `ORC-TRAHZTSFDI` |  |
+| -192.518 kJ/mol-atom | Bixbyite (Mn2O3) | 298.15 | model | assessed | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003 | Table 11, p. 16, row 33; `ORC-DQIKEJQME3` |  |
+| -192.518 kJ/mol-atom | Mn2O3 | 298.15 | model | assessed | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003 | Table 11, p. 16, row 78; `ORC-FSQZRGEMZ2` |  |
+| -191.922 kJ/mol-atom | Mn2O3 | 298.15 | model | assessed | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003; _cites Pankratz 1982_ | Table 11, p. 16, row 75; `ORC-AZI5RBTUF2` |  |
+| -191.922 kJ/mol-atom | Bixbyite (Mn2O3) | 298.15 | model | assessed | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003; _cites Pankratz 1982_ | Table 11, p. 16, row 30; `ORC-F4EHAU27AH` |  |
+| -191.922 kJ/mol-atom | Mn2O3 | 298.15 | model | assessed | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003; _cites Brewer 1953_ [doi](https://doi.org/10.1021/cr60161a001) | Table 11, p. 16, row 72; `ORC-K2UML42INX` |  |
+| -191.922 kJ/mol-atom | Bixbyite (Mn2O3) | 298.15 | model | assessed | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003; _cites Brewer 1953_ [doi](https://doi.org/10.1021/cr60161a001) | Table 11, p. 16, row 27; `ORC-S6ZFMTAZN7` |  |
+| -191.8 kJ/mol-atom | Bixbyite (Mn2O3) | 298.15 | model | assessed | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003; _cites Knacke 1991_ | Table 11, p. 16, row 31; `ORC-3CJIFHYOXB` |  |
+| -191.8 kJ/mol-atom | Mn2O3 | 298.15 | model | assessed | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003; _cites Knacke 1991_ | Table 11, p. 16, row 76; `ORC-LWCVT3URBT` |  |
+| -191.62 kJ/mol-atom | Bixbyite (Mn2O3) | 298.15 | model | assessed | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003; _cites Kubaschewski 1993_ | Table 11, p. 16, row 32; `ORC-FGUU4LFVAP` |  |
+| -191.62 kJ/mol-atom | Mn2O3 | 298.15 | model | assessed | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003; _cites Kubaschewski 1993_ | Table 11, p. 16, row 77; `ORC-VJEZAA45MU` |  |
+| -191.504 kJ/mol-atom | Mn2O3 | 298.15 | model | assessed | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003; _cites Zordan 1968_ [doi](https://doi.org/10.1021/cr60256a003) | Table 11, p. 16, row 74; `ORC-DVCLIEWPM4` |  |
+| -191.504 kJ/mol-atom | Bixbyite (Mn2O3) | 298.15 | model | assessed | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003; _cites Zordan 1968_ [doi](https://doi.org/10.1021/cr60256a003) | Table 11, p. 16, row 29; `ORC-GWWB7P3GW5` |  |
+| -191.254 kJ/mol-atom | Mn2O3 | 298.15 | model | assessed | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003; _cites Mah 1960_ | Table 11, p. 16, row 73; `ORC-GRJAEOBYLQ` |  |
+| -191.254 kJ/mol-atom | Bixbyite (Mn2O3) | 298.15 | model | assessed | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003; _cites Mah 1960_ | Table 11, p. 16, row 28; `ORC-L423E62UHS` |  |
 
 ### Uncertainty budget
 
@@ -124,4 +124,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

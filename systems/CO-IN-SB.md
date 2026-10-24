@@ -29,58 +29,58 @@ Table: Phase equilibrium, Co–In–Sb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase assemblage |  | 1123.15 | Liquid; _alloy: Co 0.025, In 0.45, Sb 0.525_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 9 |  |
-| Phase composition |  | 723.15 | CoSb3 + InSb; _CoSb3: Co 0.006, In 0.012, Sb 0.752; InSb: Co 0.002, In 0.474, Sb 0.524_ | unspecified | [1] Gierlotka 2019 | Table I, p. 5, row 11 |  |
-| Phase composition |  | 723.15 | CoSb3 + InSb; _CoSb3: Co 0.256, In 0, Sb 0.744; InSb: Co 0, In 0.501, Sb 0.498_ | unspecified | [1] Gierlotka 2019 | Table I, p. 5, row 9 |  |
-| Phase composition |  | 723.15 | CoSb3 + InSb; _CoSb3: Co 0.245, In 0, Sb 0.755; InSb: Co 0, In 0.506, Sb 0.495_ | unspecified | [1] Gierlotka 2019 | Table I, p. 5, row 8 |  |
-| Phase composition |  | 723.15 | CoSb3 + InSb; _CoSb3: Co 0.236, In 0.012, Sb 0.752; InSb: Co 0.001, In 0.496, Sb 0.503_ | unspecified | [1] Gierlotka 2019 | Table I, p. 5, row 12 |  |
-| Phase composition |  | 723.15 | CoSb3 + InSb; _CoSb3: Co 0.244, In 0.015, Sb 0.741; InSb: Co 0.001, In 0.494, Sb 0.505_ | unspecified | [1] Gierlotka 2019 | Table I, p. 5, row 10 |  |
-| Phase composition |  | 723.15 | CoSb3 + InSb + UNKNOWN; _UNKNOWN: Co 0.002, In 0.474, Sb 0.524; CoSb3: Co 0.236, In 0.012, Sb 0.752; InSb: Co 0.002, In 0.474, Sb 0.524_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 39 |  |
-| Phase composition |  | 723.15 | CoSb3 + InSb + UNKNOWN; _UNKNOWN: Co 0.001, In 0.496, Sb 0.503; CoSb3: Co 0.236, In 0.012, Sb 0.752; InSb: Co 0.001, In 0.496, Sb 0.503_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 40 |  |
-| Phase composition |  | 723.15 | CoSb3 + InSb + UNKNOWN; _UNKNOWN: Co 0.001, In 0.494, Sb 0.505; CoSb3: Co 0.244, In 0.015, Sb 0.741; InSb: Co 0.001, In 0.494, Sb 0.505_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 38 |  |
-| Phase composition |  | 723.15 | CoSb3 + InSb + UNKNOWN; _UNKNOWN: Co 0, In 0.501, Sb 0.744; CoSb3: Co 0.256, In 0, Sb 0.744; InSb: Co 0, In 0.501, Sb 0.499_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 37 |  |
-| Phase composition |  | 723.15 | CoSb3 + InSb + UNKNOWN; _UNKNOWN: Co 0, In 0.506, Sb 0.755; CoSb3: Co 0.245, In 0, Sb 0.755; InSb: Co 0, In 0.506, Sb 0.494_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 36 |  |
-| Phase composition |  | 923.15 | CoSb3 + liquid; _CoSb3: Co 0.254, In 0.005, Sb 0.741_ | unspecified | [1] Gierlotka 2019 | Table I, p. 5, row 2 |  |
-| Phase composition |  | 923.15 | CoSb3 + liquid; _CoSb3: Co 0.254, In 0.004, Sb 0.742_ | unspecified | [1] Gierlotka 2019 | Table I, p. 5, row 1 |  |
-| Phase composition |  | 923.15 | CoSb3 + liquid; _CoSb3: Co 0.245, In 0.015, Sb 0.75_ | unspecified | [1] Gierlotka 2019 | Table I, p. 5, row 4 |  |
-| Phase composition |  | 923.15 | CoSb3 + liquid; _CoSb3: Co 0.244, In 0.014, Sb 0.742_ | unspecified | [1] Gierlotka 2019 | Table I, p. 5, row 7 |  |
-| Phase composition |  | 923.15 | CoSb3 + liquid; _CoSb3: Co 0.246, In 0.014, Sb 0.74_ | unspecified | [1] Gierlotka 2019 | Table I, p. 5, row 3 |  |
-| Phase composition |  | 923.15 | CoSb3 + liquid; _CoSb3: Co 0.249, In 0.015, Sb 0.736_ | unspecified | [1] Gierlotka 2019 | Table I, p. 5, row 5 |  |
-| Phase composition |  | 923.15 | CoSb3 + liquid; _CoSb3: Co 0.26, In 0.015, Sb 0.725_ | unspecified | [1] Gierlotka 2019 | Table I, p. 5, row 6 |  |
-| Phase composition |  | 923.15 | CoSb3 + liquid + UNKNOWN; _UNKNOWN: Co 0.246, In 0.014, Sb 0.74; CoSb3: Co 0.246, In 0.014, Sb 0.74_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 31 |  |
-| Phase composition |  | 923.15 | CoSb3 + liquid + UNKNOWN; _UNKNOWN: Co 0.245, In 0.015, Sb 0.74; CoSb3: Co 0.245, In 0.015, Sb 0.74_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 32 |  |
-| Phase composition |  | 923.15 | CoSb3 + liquid + UNKNOWN; _UNKNOWN: Co 0.254, In 0.004, Sb 0.742; CoSb3: Co 0.254, In 0.004, Sb 0.742_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 29 |  |
-| Phase composition |  | 923.15 | CoSb3 + liquid + UNKNOWN; _UNKNOWN: Co 0.26, In 0.015, Sb 0.725; CoSb3: Co 0.26, In 0.015, Sb 0.725_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 34 |  |
-| Phase composition |  | 923.15 | CoSb3 + liquid + UNKNOWN; _UNKNOWN: Co 0.244, In 0.014, Sb 0.742; CoSb3: Co 0.244, In 0.014, Sb 0.742_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 35 |  |
-| Phase composition |  | 923.15 | CoSb3 + liquid + UNKNOWN; _UNKNOWN: Co 0.254, In 0.005, Sb 0.741; CoSb3: Co 0.254, In 0.005, Sb 0.741_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 30 |  |
-| Phase composition |  | 923.15 | CoSb3 + liquid + UNKNOWN; _UNKNOWN: Co 0.255, In 0.004, Sb 0.741; CoSb3: Co 0.255, In 0.004, Sb 0.741_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 28 |  |
-| Phase composition |  | 923.15 | CoSb3 + liquid + UNKNOWN; _UNKNOWN: Co 0.249, In 0.015, Sb 0.736; CoSb3: Co 0.249, In 0.015, Sb 0.736_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 33 |  |
-| Phase composition |  | 973.15 | CoSb3 + liquid + UNKNOWN; _UNKNOWN: Co 0.248, In 0.013, Sb 0.739; CoSb3: Co 0.248, In 0.013, Sb 0.739_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 27 |  |
-| Phase composition |  | 973.15 | CoSb3 + liquid + UNKNOWN; _UNKNOWN: Co 0.259, In 0.011, Sb 0.73; CoSb3: Co 0.259, In 0.011, Sb 0.73_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 26 |  |
-| Phase composition |  | 1023.15 | CoSb2 + CoSb3 + liquid + UNKNOWN; _UNKNOWN: Co 0.251, In 0.015, Sb 0.734; CoSb2: Co 0.337, In 0, Sb 0.663; CoSb3: Co 0.251, In 0.015, Sb 0.734_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 20 |  |
-| Phase composition |  | 1023.15 | CoSb2 + liquid + UNKNOWN; _UNKNOWN: Co 0.338, In 0, Sb 0.662; CoSb2: Co 0.338, In 0, Sb 0.662_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 25 |  |
-| Phase composition |  | 1023.15 | CoSb2 + liquid + UNKNOWN; _UNKNOWN: Co 0.338, In 0, Sb 0.662; CoSb2: Co 0.338, In 0, Sb 0.662_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 22 |  |
-| Phase composition |  | 1023.15 | CoSb2 + liquid + UNKNOWN; _UNKNOWN: Co 0.338, In 0, Sb 0.662; CoSb2: Co 0.338, In 0, Sb 0.662_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 23 |  |
-| Phase composition |  | 1023.15 | CoSb2 + liquid + UNKNOWN; _UNKNOWN: Co 0.337, In 0, Sb 0.663; CoSb2: Co 0.337, In 0, Sb 0.663_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 24 |  |
-| Phase composition |  | 1023.15 | CoSb2 + liquid + UNKNOWN; _UNKNOWN: Co 0.338, In 0, Sb 0.662; CoSb2: Co 0.338, In 0, Sb 0.662_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 21 |  |
-| Phase composition |  | 1023.15 | CoSb3 + liquid + UNKNOWN; _UNKNOWN: Co 0.254, In 0.01, Sb 0.736; CoSb3: Co 0.254, In 0.01, Sb 0.736_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 19 |  |
-| Phase composition |  | 1073.15 | CoSb + CoSb2 + liquid + UNKNOWN; _UNKNOWN: Co 0.338, In 0, Sb 0.662; CoSb: Co 0.493, In 0, Sb 0.507; CoSb2: Co 0.338, In 0, Sb 0.662_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 17 |  |
-| Phase composition |  | 1073.15 | CoSb + liquid + UNKNOWN; _UNKNOWN: Co 0.489, In 0, Sb 0.511; CoSb: Co 0.489, In 0, Sb 0.511_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 18 |  |
-| Phase composition |  | 1073.15 | CoSb2 + CoSb3 + liquid + UNKNOWN; _UNKNOWN: Co 0.247, In 0.006, Sb 0.747; CoSb2: Co 0.332, In 0, Sb 0.668; CoSb3: Co 0.247, In 0.006, Sb 0.747_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 14 |  |
-| Phase composition |  | 1073.15 | CoSb2 + liquid + UNKNOWN; _UNKNOWN: Co 0.33, In 0, Sb 0.67; CoSb2: Co 0.33, In 0, Sb 0.67_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 15 |  |
-| Phase composition |  | 1073.15 | CoSb2 + liquid + UNKNOWN; _UNKNOWN: Co 0.337, In 0, Sb 0.663; CoSb2: Co 0.337, In 0, Sb 0.663_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 16 |  |
-| Phase composition |  | 1073.15 | Cosb2 + Cosb3 + liquid + CoSb2 + CoSb3 + UNKNOWN; _UNKNOWN: Co 0.247, In 0.006, Sb 0.747; CoSb2: Co 0.331, In 0, Sb 0.669; CoSb3: Co 0.247, In 0.006, Sb 0.747_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 13 |  |
-| Phase composition |  | 1098.15 | CoSb + Liquid + UNKNOWN; _UNKNOWN: Co 0.488, In 0, Sb 0.512; CoSb: Co 0.488, In 0, Sb 0.512_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 10 |  |
-| Phase composition |  | 1098.15 | CoSb + liquid + UNKNOWN; _UNKNOWN: Co 0.492, In 0, Sb 0.508; CoSb: Co 0.492, In 0, Sb 0.508_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 11 |  |
-| Phase composition |  | 1098.15 | CoSb + liquid + UNKNOWN; _UNKNOWN: Co 0.497, In 0, Sb 0.503; CoSb: Co 0.497, In 0, Sb 0.503_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 12 |  |
-| Phase composition |  | 1123.15 | CoSb + CoSb2 + liquid + UNKNOWN; _UNKNOWN: Co 0.334, In 0, Sb 0.666; CoSb: Co 0.487, In 0, Sb 0.513; CoSb2: Co 0.334, In 0, Sb 0.666_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 5 |  |
-| Phase composition |  | 1123.15 | CoSb + liquid + UNKNOWN; _UNKNOWN: Co 0.486, In 0.001, Sb 0.515; CoSb: Co 0.486, In 0.001, Sb 0.515_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 6 |  |
-| Phase composition |  | 1123.15 | CoSb + liquid + UNKNOWN; _UNKNOWN: Co 0.476, In 0, Sb 0.524; CoSb: Co 0.476, In 0, Sb 0.524_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 8 |  |
-| Phase composition |  | 1123.15 | CoSb + liquid + UNKNOWN; _UNKNOWN: Co 0.475, In 0, Sb 0.525; CoSb: Co 0.475, In 0, Sb 0.525_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 7 |  |
-| Phase composition |  | 1123.15 | CoSb2 + liquid + UNKNOWN; _UNKNOWN: Co 0.341, In 0, Sb 0.659; CoSb2: Co 0.341, In 0, Sb 0.659_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 2 |  |
-| Phase composition |  | 1123.15 | CoSb2 + liquid + UNKNOWN; _UNKNOWN: Co 0.34, In 0, Sb 0.66; CoSb2: Co 0.34, In 0, Sb 0.66_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 3 |  |
-| Phase composition |  | 1123.15 | CoSb2 + liquid + UNKNOWN; _UNKNOWN: Co 0.665, In 0.001, Sb 0.334; CoSb2: In 0.001_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 4 |  |
-| Phase composition |  | 1123.15 | CoSb2CoSb3 + liquid + CoSb2 + CoSb3 + UNKNOWN; _UNKNOWN: Co 0.247, In 0.006, Sb 0.747; CoSb2: Co 0.338, In 0, Sb 0.662; CoSb3: Co 0.247, In 0.006, Sb 0.747_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 1 |  |
+| Phase assemblage |  | 1123.15 | Liquid; _alloy: Co 0.025, In 0.45, Sb 0.525_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 9; `ORC-77YLTYXREQ` |  |
+| Phase composition |  | 723.15 | CoSb3 + InSb; _CoSb3: Co 0.006, In 0.012, Sb 0.752; InSb: Co 0.002, In 0.474, Sb 0.524_ | unspecified | [1] Gierlotka 2019 | Table I, p. 5, row 11; `ORC-5LUNE4TVD6` |  |
+| Phase composition |  | 723.15 | CoSb3 + InSb; _CoSb3: Co 0.256, In 0, Sb 0.744; InSb: Co 0, In 0.501, Sb 0.498_ | unspecified | [1] Gierlotka 2019 | Table I, p. 5, row 9; `ORC-JZDMT3XYCC` |  |
+| Phase composition |  | 723.15 | CoSb3 + InSb; _CoSb3: Co 0.245, In 0, Sb 0.755; InSb: Co 0, In 0.506, Sb 0.495_ | unspecified | [1] Gierlotka 2019 | Table I, p. 5, row 8; `ORC-N3UYU3T3FP` |  |
+| Phase composition |  | 723.15 | CoSb3 + InSb; _CoSb3: Co 0.236, In 0.012, Sb 0.752; InSb: Co 0.001, In 0.496, Sb 0.503_ | unspecified | [1] Gierlotka 2019 | Table I, p. 5, row 12; `ORC-ROE6355X7L` |  |
+| Phase composition |  | 723.15 | CoSb3 + InSb; _CoSb3: Co 0.244, In 0.015, Sb 0.741; InSb: Co 0.001, In 0.494, Sb 0.505_ | unspecified | [1] Gierlotka 2019 | Table I, p. 5, row 10; `ORC-VVYKSBYAFF` |  |
+| Phase composition |  | 723.15 | CoSb3 + InSb + UNKNOWN; _UNKNOWN: Co 0.002, In 0.474, Sb 0.524; CoSb3: Co 0.236, In 0.012, Sb 0.752; InSb: Co 0.002, In 0.474, Sb 0.524_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 39; `ORC-I3CEKKBMAC` |  |
+| Phase composition |  | 723.15 | CoSb3 + InSb + UNKNOWN; _UNKNOWN: Co 0.001, In 0.496, Sb 0.503; CoSb3: Co 0.236, In 0.012, Sb 0.752; InSb: Co 0.001, In 0.496, Sb 0.503_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 40; `ORC-JHXSWKQBHO` |  |
+| Phase composition |  | 723.15 | CoSb3 + InSb + UNKNOWN; _UNKNOWN: Co 0.001, In 0.494, Sb 0.505; CoSb3: Co 0.244, In 0.015, Sb 0.741; InSb: Co 0.001, In 0.494, Sb 0.505_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 38; `ORC-VS43AV54UT` |  |
+| Phase composition |  | 723.15 | CoSb3 + InSb + UNKNOWN; _UNKNOWN: Co 0, In 0.501, Sb 0.744; CoSb3: Co 0.256, In 0, Sb 0.744; InSb: Co 0, In 0.501, Sb 0.499_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 37; `ORC-XXDIOAYEFN` |  |
+| Phase composition |  | 723.15 | CoSb3 + InSb + UNKNOWN; _UNKNOWN: Co 0, In 0.506, Sb 0.755; CoSb3: Co 0.245, In 0, Sb 0.755; InSb: Co 0, In 0.506, Sb 0.494_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 36; `ORC-ZOYOVIDBIC` |  |
+| Phase composition |  | 923.15 | CoSb3 + liquid; _CoSb3: Co 0.254, In 0.005, Sb 0.741_ | unspecified | [1] Gierlotka 2019 | Table I, p. 5, row 2; `ORC-2NRKDWRI2X` |  |
+| Phase composition |  | 923.15 | CoSb3 + liquid; _CoSb3: Co 0.254, In 0.004, Sb 0.742_ | unspecified | [1] Gierlotka 2019 | Table I, p. 5, row 1; `ORC-BJBWUIC6K5` |  |
+| Phase composition |  | 923.15 | CoSb3 + liquid; _CoSb3: Co 0.245, In 0.015, Sb 0.75_ | unspecified | [1] Gierlotka 2019 | Table I, p. 5, row 4; `ORC-EDWSJ6I5RF` |  |
+| Phase composition |  | 923.15 | CoSb3 + liquid; _CoSb3: Co 0.244, In 0.014, Sb 0.742_ | unspecified | [1] Gierlotka 2019 | Table I, p. 5, row 7; `ORC-HYJOOA4BIM` |  |
+| Phase composition |  | 923.15 | CoSb3 + liquid; _CoSb3: Co 0.246, In 0.014, Sb 0.74_ | unspecified | [1] Gierlotka 2019 | Table I, p. 5, row 3; `ORC-W3WJO3PAZC` |  |
+| Phase composition |  | 923.15 | CoSb3 + liquid; _CoSb3: Co 0.249, In 0.015, Sb 0.736_ | unspecified | [1] Gierlotka 2019 | Table I, p. 5, row 5; `ORC-XTQONJTEN5` |  |
+| Phase composition |  | 923.15 | CoSb3 + liquid; _CoSb3: Co 0.26, In 0.015, Sb 0.725_ | unspecified | [1] Gierlotka 2019 | Table I, p. 5, row 6; `ORC-YEMRCI2EAN` |  |
+| Phase composition |  | 923.15 | CoSb3 + liquid + UNKNOWN; _UNKNOWN: Co 0.246, In 0.014, Sb 0.74; CoSb3: Co 0.246, In 0.014, Sb 0.74_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 31; `ORC-2BB3WG76AI` |  |
+| Phase composition |  | 923.15 | CoSb3 + liquid + UNKNOWN; _UNKNOWN: Co 0.245, In 0.015, Sb 0.74; CoSb3: Co 0.245, In 0.015, Sb 0.74_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 32; `ORC-7AG6AEACWB` |  |
+| Phase composition |  | 923.15 | CoSb3 + liquid + UNKNOWN; _UNKNOWN: Co 0.254, In 0.004, Sb 0.742; CoSb3: Co 0.254, In 0.004, Sb 0.742_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 29; `ORC-BJ2DU37EJL` |  |
+| Phase composition |  | 923.15 | CoSb3 + liquid + UNKNOWN; _UNKNOWN: Co 0.26, In 0.015, Sb 0.725; CoSb3: Co 0.26, In 0.015, Sb 0.725_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 34; `ORC-FDMY7Q7OLO` |  |
+| Phase composition |  | 923.15 | CoSb3 + liquid + UNKNOWN; _UNKNOWN: Co 0.244, In 0.014, Sb 0.742; CoSb3: Co 0.244, In 0.014, Sb 0.742_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 35; `ORC-GFFVCBKMVX` |  |
+| Phase composition |  | 923.15 | CoSb3 + liquid + UNKNOWN; _UNKNOWN: Co 0.254, In 0.005, Sb 0.741; CoSb3: Co 0.254, In 0.005, Sb 0.741_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 30; `ORC-HO4JJH7RJM` |  |
+| Phase composition |  | 923.15 | CoSb3 + liquid + UNKNOWN; _UNKNOWN: Co 0.255, In 0.004, Sb 0.741; CoSb3: Co 0.255, In 0.004, Sb 0.741_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 28; `ORC-NH34N5QFA7` |  |
+| Phase composition |  | 923.15 | CoSb3 + liquid + UNKNOWN; _UNKNOWN: Co 0.249, In 0.015, Sb 0.736; CoSb3: Co 0.249, In 0.015, Sb 0.736_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 33; `ORC-X6N5QWCX77` |  |
+| Phase composition |  | 973.15 | CoSb3 + liquid + UNKNOWN; _UNKNOWN: Co 0.248, In 0.013, Sb 0.739; CoSb3: Co 0.248, In 0.013, Sb 0.739_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 27; `ORC-CNTSRRQJNS` |  |
+| Phase composition |  | 973.15 | CoSb3 + liquid + UNKNOWN; _UNKNOWN: Co 0.259, In 0.011, Sb 0.73; CoSb3: Co 0.259, In 0.011, Sb 0.73_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 26; `ORC-DOODNR4YLM` |  |
+| Phase composition |  | 1023.15 | CoSb2 + CoSb3 + liquid + UNKNOWN; _UNKNOWN: Co 0.251, In 0.015, Sb 0.734; CoSb2: Co 0.337, In 0, Sb 0.663; CoSb3: Co 0.251, In 0.015, Sb 0.734_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 20; `ORC-53NKIL4CQI` |  |
+| Phase composition |  | 1023.15 | CoSb2 + liquid + UNKNOWN; _UNKNOWN: Co 0.338, In 0, Sb 0.662; CoSb2: Co 0.338, In 0, Sb 0.662_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 25; `ORC-6E2Z55VOWS` |  |
+| Phase composition |  | 1023.15 | CoSb2 + liquid + UNKNOWN; _UNKNOWN: Co 0.338, In 0, Sb 0.662; CoSb2: Co 0.338, In 0, Sb 0.662_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 22; `ORC-7TPM2YMCNA` |  |
+| Phase composition |  | 1023.15 | CoSb2 + liquid + UNKNOWN; _UNKNOWN: Co 0.338, In 0, Sb 0.662; CoSb2: Co 0.338, In 0, Sb 0.662_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 23; `ORC-BAKHKLVD4P` |  |
+| Phase composition |  | 1023.15 | CoSb2 + liquid + UNKNOWN; _UNKNOWN: Co 0.337, In 0, Sb 0.663; CoSb2: Co 0.337, In 0, Sb 0.663_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 24; `ORC-FKV6IWS5R6` |  |
+| Phase composition |  | 1023.15 | CoSb2 + liquid + UNKNOWN; _UNKNOWN: Co 0.338, In 0, Sb 0.662; CoSb2: Co 0.338, In 0, Sb 0.662_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 21; `ORC-SVN3RM24SU` |  |
+| Phase composition |  | 1023.15 | CoSb3 + liquid + UNKNOWN; _UNKNOWN: Co 0.254, In 0.01, Sb 0.736; CoSb3: Co 0.254, In 0.01, Sb 0.736_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 19; `ORC-YOHXYUSR2R` |  |
+| Phase composition |  | 1073.15 | CoSb + CoSb2 + liquid + UNKNOWN; _UNKNOWN: Co 0.338, In 0, Sb 0.662; CoSb: Co 0.493, In 0, Sb 0.507; CoSb2: Co 0.338, In 0, Sb 0.662_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 17; `ORC-VBR7IYXXZO` |  |
+| Phase composition |  | 1073.15 | CoSb + liquid + UNKNOWN; _UNKNOWN: Co 0.489, In 0, Sb 0.511; CoSb: Co 0.489, In 0, Sb 0.511_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 18; `ORC-ACBRMPDI2F` |  |
+| Phase composition |  | 1073.15 | CoSb2 + CoSb3 + liquid + UNKNOWN; _UNKNOWN: Co 0.247, In 0.006, Sb 0.747; CoSb2: Co 0.332, In 0, Sb 0.668; CoSb3: Co 0.247, In 0.006, Sb 0.747_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 14; `ORC-TJ4WVLXNKH` |  |
+| Phase composition |  | 1073.15 | CoSb2 + liquid + UNKNOWN; _UNKNOWN: Co 0.33, In 0, Sb 0.67; CoSb2: Co 0.33, In 0, Sb 0.67_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 15; `ORC-2BHTOVRKT3` |  |
+| Phase composition |  | 1073.15 | CoSb2 + liquid + UNKNOWN; _UNKNOWN: Co 0.337, In 0, Sb 0.663; CoSb2: Co 0.337, In 0, Sb 0.663_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 16; `ORC-PDIRIM5DKR` |  |
+| Phase composition |  | 1073.15 | Cosb2 + Cosb3 + liquid + CoSb2 + CoSb3 + UNKNOWN; _UNKNOWN: Co 0.247, In 0.006, Sb 0.747; CoSb2: Co 0.331, In 0, Sb 0.669; CoSb3: Co 0.247, In 0.006, Sb 0.747_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 13; `ORC-VYAEM2EQUM` |  |
+| Phase composition |  | 1098.15 | CoSb + Liquid + UNKNOWN; _UNKNOWN: Co 0.488, In 0, Sb 0.512; CoSb: Co 0.488, In 0, Sb 0.512_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 10; `ORC-LE7SYB4AKM` |  |
+| Phase composition |  | 1098.15 | CoSb + liquid + UNKNOWN; _UNKNOWN: Co 0.492, In 0, Sb 0.508; CoSb: Co 0.492, In 0, Sb 0.508_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 11; `ORC-TYT5H5RDP5` |  |
+| Phase composition |  | 1098.15 | CoSb + liquid + UNKNOWN; _UNKNOWN: Co 0.497, In 0, Sb 0.503; CoSb: Co 0.497, In 0, Sb 0.503_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 12; `ORC-UWBJQOX6MG` |  |
+| Phase composition |  | 1123.15 | CoSb + CoSb2 + liquid + UNKNOWN; _UNKNOWN: Co 0.334, In 0, Sb 0.666; CoSb: Co 0.487, In 0, Sb 0.513; CoSb2: Co 0.334, In 0, Sb 0.666_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 5; `ORC-CUI7OA3KVE` |  |
+| Phase composition |  | 1123.15 | CoSb + liquid + UNKNOWN; _UNKNOWN: Co 0.486, In 0.001, Sb 0.515; CoSb: Co 0.486, In 0.001, Sb 0.515_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 6; `ORC-6MSM7TCNVZ` |  |
+| Phase composition |  | 1123.15 | CoSb + liquid + UNKNOWN; _UNKNOWN: Co 0.476, In 0, Sb 0.524; CoSb: Co 0.476, In 0, Sb 0.524_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 8; `ORC-BISFRGUODK` |  |
+| Phase composition |  | 1123.15 | CoSb + liquid + UNKNOWN; _UNKNOWN: Co 0.475, In 0, Sb 0.525; CoSb: Co 0.475, In 0, Sb 0.525_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 7; `ORC-RROU2ENQ6W` |  |
+| Phase composition |  | 1123.15 | CoSb2 + liquid + UNKNOWN; _UNKNOWN: Co 0.341, In 0, Sb 0.659; CoSb2: Co 0.341, In 0, Sb 0.659_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 2; `ORC-DJOJ3QWWTV` |  |
+| Phase composition |  | 1123.15 | CoSb2 + liquid + UNKNOWN; _UNKNOWN: Co 0.34, In 0, Sb 0.66; CoSb2: Co 0.34, In 0, Sb 0.66_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 3; `ORC-PMP7ZVLX2E` |  |
+| Phase composition |  | 1123.15 | CoSb2 + liquid + UNKNOWN; _UNKNOWN: Co 0.665, In 0.001, Sb 0.334; CoSb2: In 0.001_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 4; `ORC-UMKRTKYLXM` |  |
+| Phase composition |  | 1123.15 | CoSb2CoSb3 + liquid + CoSb2 + CoSb3 + UNKNOWN; _UNKNOWN: Co 0.247, In 0.006, Sb 0.747; CoSb2: Co 0.338, In 0, Sb 0.662; CoSb3: Co 0.247, In 0.006, Sb 0.747_ | experimental | [1] Gierlotka 2019 | Table I, p. 4, row 1; `ORC-GFPG3CVGQO` |  |
 
 ## Sources
 
@@ -123,4 +123,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

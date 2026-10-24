@@ -28,38 +28,38 @@ Table: Invariant reactions reported in the literature for the Bi–Pb–Sn syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 461 | L + FCC_A1 = HCP_A3 |  | experimental | [1] Gierlotka 2017; _cites Takase 1937_ | Table 1, p. 2, row 1 |  |
-| 460 | L + FCC_A1 = HCP_A3 |  | unspecified | [1] Gierlotka 2017; _cites Gocken 1992_ [doi](https://doi.org/10.1007/bf02645372) | Table 1, p. 2, row 5 |  |
-| 459.6 | L + FCC_A1 = HCP_A3 |  | model | [1] Gierlotka 2017 | Table 1, p. 2, row 7 |  |
-| 458.1 | L + FCC_A1 = HCP_A3 |  | experimental | [1] Gierlotka 2017; _cites Takase 1937_ | Table 1, p. 2, row 6 |  |
-| 458 | L + FCC_A1 = HCP_A3 |  | experimental | [1] Gierlotka 2017; _cites Nosek 1967_ | Table 1, p. 2, row 3 |  |
-| 457.6 | L + FCC_A1 = HCP_A3 |  | experimental | [1] Gierlotka 2017; _cites Hofe 1940_ | Table 1, p. 2, row 2 |  |
-| 457 | L + FCC_A1 = HCP_A3 |  | experimental | [1] Gierlotka 2017; _cites Predel 1967_ | Table 1, p. 2, row 4 |  |
-| 456.1 | L = FCC_A1 + BCT_A5 |  | experimental | [1] Gierlotka 2017; _cites Takase 1937_ | Table 1, p. 2, row 17 |  |
-| 455.9 | L = FCC_A1 + BCT_A5 |  | model | [1] Gierlotka 2017 | Table 1, p. 2, row 18 |  |
-| 411.15 | peritectic: L + fcc -> ε + β-Sn | L: Bi 0.28, Pb 0.32, Sn 0.4 | experimental | [2] Yoon 1998; _cites Gershman 1957_ | Table 3, p. 6, row 2 |  |
-| 411 | L + FCC_A1 = HCP_A3 + BCT_A5 |  | experimental | [1] Gierlotka 2017; _cites Gershman 1958_ | Table 1, p. 2, row 20 |  |
-| 410.85 | peritectic: L + fcc -> ε + β-Sn | L: Bi 0.27, Pb 0.399, Sn 0.332 | model | [2] Yoon 1998 | Table 3, p. 6, row 3 |  |
-| 410.7 | L + FCC_A1 = HCP_A3 + BCT_A5 |  | experimental | [1] Gierlotka 2017; _cites Takase 1937_ | Table 1, p. 2, row 21 |  |
-| 410.15 | peritectic: L + fcc -> ε + β-Sn | L: Bi 0.27, Pb 0.341, Sn 0.389 | experimental | [2] Yoon 1998; _cites Ho 1953_ | Table 3, p. 6, row 1 |  |
-| 410 | L + FCC_A1 = HCP_A3 + BCT_A5 |  | experimental | [1] Gierlotka 2017; _cites Ho 1953_ | Table 1, p. 2, row 19 |  |
-| 408 | L + FCC_A1 = HCP_A3 + BCT_A5 |  | model | [1] Gierlotka 2017 | Table 1, p. 2, row 22 |  |
-| 398.6 | L = Rhombohedral_A7 + HCP_A3 |  | experimental | [1] Gierlotka 2017; _cites Takase 1937_ | Table 1, p. 2, row 12 |  |
-| 398.5 | L = Rhombohedral_A7 + HCP_A3 |  | experimental | [1] Gierlotka 2017; _cites Hofe 1940_ | Table 1, p. 2, row 10 |  |
-| 398.5 | L = Rhombohedral_A7 + HCP_A3 |  | experimental | [1] Gierlotka 2017; _cites Takase 1937_ | Table 1, p. 2, row 9 |  |
-| 398 | L = Rhombohedral_A7 + HCP_A3 |  | experimental | [1] Gierlotka 2017; _cites Nosek 1967_ | Table 1, p. 2, row 11 |  |
-| 398 | L = Rhombohedral_A7 + HCP_A3 |  | unspecified | [1] Gierlotka 2017; _cites Strickler 1936_ [doi](https://doi.org/10.1021/ja01302a003) | Table 1, p. 2, row 8 |  |
-| 398 | L = Rhombohedral_A7 + HCP_A3 |  | model | [1] Gierlotka 2017 | Table 1, p. 2, row 13 |  |
-| 373.15 | eutectic: L -> Bi + ε + β-Sn | L: Bi 0.414, Pb 0.286, Sn 0.3 | experimental | [2] Yoon 1998; _cites Gershman 1957_ | Table 3, p. 6, row 5 |  |
-| 373 | L = Rhombohedral_A7 + HCP_A3 + BCT_A5 |  | experimental | [1] Gierlotka 2017; _cites Gershman 1958_ | Table 1, p. 2, row 24 |  |
-| 372.9 | L = Rhombohedral_A7 + HCP_A3 + BCT_A5 |  | experimental | [1] Gierlotka 2017; _cites Takase 1937_ | Table 1, p. 2, row 25 |  |
-| 372.75 | eutectic: L -> Bi + ε + β-Sn | L: Bi 0.465, Pb 0.287, Sn 0.248 | model | [2] Yoon 1998 | Table 3, p. 6, row 6 |  |
-| 372.65 | eutectic: L -> Bi + ε + β-Sn | L: Bi 0.462, Pb 0.287, Sn 0.251 | experimental | [2] Yoon 1998; _cites Ho 1953_ | Table 3, p. 6, row 4 |  |
-| 372.5 | L = Rhombohedral_A7 + HCP_A3 + BCT_A5 |  | experimental | [1] Gierlotka 2017; _cites Ho 1953_ | Table 1, p. 2, row 23 |  |
-| 372 | L = Rhombohedral_A7 + HCP_A3 + BCT_A5 |  | model | [1] Gierlotka 2017 | Table 1, p. 2, row 26 |  |
-| 227 | HCP_A3 = Rhombohedral_A7 + FCC_A1 |  | experimental | [1] Gierlotka 2017; _cites Predel 1967_ | Table 1, p. 2, row 14 |  |
-| 227 | HCP_A3 = Rhombohedral_A7 + FCC_A1 |  | model | [1] Gierlotka 2017 | Table 1, p. 2, row 16 |  |
-| 226.5 | HCP_A3 = Rhombohedral_A7 + FCC_A1 |  | experimental | [1] Gierlotka 2017; _cites Takase 1937_ | Table 1, p. 2, row 15 |  |
+| 461 | L + FCC_A1 = HCP_A3 |  | experimental | [1] Gierlotka 2017; _cites Takase 1937_ | Table 1, p. 2, row 1; `ORC-HIRM72QWFP` |  |
+| 460 | L + FCC_A1 = HCP_A3 |  | unspecified | [1] Gierlotka 2017; _cites Gocken 1992_ [doi](https://doi.org/10.1007/bf02645372) | Table 1, p. 2, row 5; `ORC-RAMGBGRZNK` |  |
+| 459.6 | L + FCC_A1 = HCP_A3 |  | model | [1] Gierlotka 2017 | Table 1, p. 2, row 7; `ORC-DUIKGJQEKS` |  |
+| 458.1 | L + FCC_A1 = HCP_A3 |  | experimental | [1] Gierlotka 2017; _cites Takase 1937_ | Table 1, p. 2, row 6; `ORC-JQNKVTFYMI` |  |
+| 458 | L + FCC_A1 = HCP_A3 |  | experimental | [1] Gierlotka 2017; _cites Nosek 1967_ | Table 1, p. 2, row 3; `ORC-RVWAEN3MRI` |  |
+| 457.6 | L + FCC_A1 = HCP_A3 |  | experimental | [1] Gierlotka 2017; _cites Hofe 1940_ | Table 1, p. 2, row 2; `ORC-PJRJUS3YOT` |  |
+| 457 | L + FCC_A1 = HCP_A3 |  | experimental | [1] Gierlotka 2017; _cites Predel 1967_ | Table 1, p. 2, row 4; `ORC-ZNCEPXLDTZ` |  |
+| 456.1 | L = FCC_A1 + BCT_A5 |  | experimental | [1] Gierlotka 2017; _cites Takase 1937_ | Table 1, p. 2, row 17; `ORC-PJAFV2JAXH` |  |
+| 455.9 | L = FCC_A1 + BCT_A5 |  | model | [1] Gierlotka 2017 | Table 1, p. 2, row 18; `ORC-IATUFKLRUC` |  |
+| 411.15 | peritectic: L + fcc -> ε + β-Sn | L: Bi 0.28, Pb 0.32, Sn 0.4 | experimental | [2] Yoon 1998; _cites Gershman 1957_ | Table 3, p. 6, row 2; `ORC-44ITANZSG4` |  |
+| 411 | L + FCC_A1 = HCP_A3 + BCT_A5 |  | experimental | [1] Gierlotka 2017; _cites Gershman 1958_ | Table 1, p. 2, row 20; `ORC-2FT3PD4EDA` |  |
+| 410.85 | peritectic: L + fcc -> ε + β-Sn | L: Bi 0.27, Pb 0.399, Sn 0.332 | model | [2] Yoon 1998 | Table 3, p. 6, row 3; `ORC-S2XPOOBGOL` |  |
+| 410.7 | L + FCC_A1 = HCP_A3 + BCT_A5 |  | experimental | [1] Gierlotka 2017; _cites Takase 1937_ | Table 1, p. 2, row 21; `ORC-IAO5VLRIJL` |  |
+| 410.15 | peritectic: L + fcc -> ε + β-Sn | L: Bi 0.27, Pb 0.341, Sn 0.389 | experimental | [2] Yoon 1998; _cites Ho 1953_ | Table 3, p. 6, row 1; `ORC-FNLH7TLABW` |  |
+| 410 | L + FCC_A1 = HCP_A3 + BCT_A5 |  | experimental | [1] Gierlotka 2017; _cites Ho 1953_ | Table 1, p. 2, row 19; `ORC-5OS6ESKFUF` |  |
+| 408 | L + FCC_A1 = HCP_A3 + BCT_A5 |  | model | [1] Gierlotka 2017 | Table 1, p. 2, row 22; `ORC-3WVHU2FOKV` |  |
+| 398.6 | L = Rhombohedral_A7 + HCP_A3 |  | experimental | [1] Gierlotka 2017; _cites Takase 1937_ | Table 1, p. 2, row 12; `ORC-2TRCSFFSKJ` |  |
+| 398.5 | L = Rhombohedral_A7 + HCP_A3 |  | experimental | [1] Gierlotka 2017; _cites Hofe 1940_ | Table 1, p. 2, row 10; `ORC-XMP7GGLUWM` |  |
+| 398.5 | L = Rhombohedral_A7 + HCP_A3 |  | experimental | [1] Gierlotka 2017; _cites Takase 1937_ | Table 1, p. 2, row 9; `ORC-ZXNZBSFSZG` |  |
+| 398 | L = Rhombohedral_A7 + HCP_A3 |  | experimental | [1] Gierlotka 2017; _cites Nosek 1967_ | Table 1, p. 2, row 11; `ORC-CSOLQ36EGR` |  |
+| 398 | L = Rhombohedral_A7 + HCP_A3 |  | unspecified | [1] Gierlotka 2017; _cites Strickler 1936_ [doi](https://doi.org/10.1021/ja01302a003) | Table 1, p. 2, row 8; `ORC-MBYOYZFPXJ` |  |
+| 398 | L = Rhombohedral_A7 + HCP_A3 |  | model | [1] Gierlotka 2017 | Table 1, p. 2, row 13; `ORC-QCBJZHKHSB` |  |
+| 373.15 | eutectic: L -> Bi + ε + β-Sn | L: Bi 0.414, Pb 0.286, Sn 0.3 | experimental | [2] Yoon 1998; _cites Gershman 1957_ | Table 3, p. 6, row 5; `ORC-R7XUGGTMMS` |  |
+| 373 | L = Rhombohedral_A7 + HCP_A3 + BCT_A5 |  | experimental | [1] Gierlotka 2017; _cites Gershman 1958_ | Table 1, p. 2, row 24; `ORC-GETFZ7LVR3` |  |
+| 372.9 | L = Rhombohedral_A7 + HCP_A3 + BCT_A5 |  | experimental | [1] Gierlotka 2017; _cites Takase 1937_ | Table 1, p. 2, row 25; `ORC-7VTZWFINCL` |  |
+| 372.75 | eutectic: L -> Bi + ε + β-Sn | L: Bi 0.465, Pb 0.287, Sn 0.248 | model | [2] Yoon 1998 | Table 3, p. 6, row 6; `ORC-ZP2NI32USN` |  |
+| 372.65 | eutectic: L -> Bi + ε + β-Sn | L: Bi 0.462, Pb 0.287, Sn 0.251 | experimental | [2] Yoon 1998; _cites Ho 1953_ | Table 3, p. 6, row 4; `ORC-ITO2GAOP2L` |  |
+| 372.5 | L = Rhombohedral_A7 + HCP_A3 + BCT_A5 |  | experimental | [1] Gierlotka 2017; _cites Ho 1953_ | Table 1, p. 2, row 23; `ORC-WT7HKCWB4C` |  |
+| 372 | L = Rhombohedral_A7 + HCP_A3 + BCT_A5 |  | model | [1] Gierlotka 2017 | Table 1, p. 2, row 26; `ORC-F6ROK6VZWK` |  |
+| 227 | HCP_A3 = Rhombohedral_A7 + FCC_A1 |  | experimental | [1] Gierlotka 2017; _cites Predel 1967_ | Table 1, p. 2, row 14; `ORC-5A2EN5ICCP` |  |
+| 227 | HCP_A3 = Rhombohedral_A7 + FCC_A1 |  | model | [1] Gierlotka 2017 | Table 1, p. 2, row 16; `ORC-Z4U64TVF4H` |  |
+| 226.5 | HCP_A3 = Rhombohedral_A7 + FCC_A1 |  | experimental | [1] Gierlotka 2017; _cites Takase 1937_ | Table 1, p. 2, row 15; `ORC-IM76SYI44S` |  |
 
 ## Sources
 
@@ -103,4 +103,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

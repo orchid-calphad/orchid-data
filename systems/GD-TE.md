@@ -66,8 +66,8 @@ Table: Phase transition, Gd–Te system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1323 K | 1323 | Gd2Te -> GdTe + Gd | experimental | [1] Cui 2023; _cites Herle 2001_ | p. 2 | “Herle and Corbett26 report that the Gd2Te exists stably below 1323 K and decomposes into GdTe and Gd above this temperature.” |
-| Phase transition | 2098 K | 2098 | congruent transformation | experimental | [1] Cui 2023; _cites Abrikosov 1967_ | p. 2 | “GdTe has the highest melting point and congruently melts at 2098 K.” |
+| Phase transition | 1323 K | 1323 | Gd2Te -> GdTe + Gd | experimental | [1] Cui 2023; _cites Herle 2001_ | p. 2; `ORC-LKL4QUTP67` | “Herle and Corbett26 report that the Gd2Te exists stably below 1323 K and decomposes into GdTe and Gd above this temperature.” |
+| Phase transition | 2098 K | 2098 | congruent transformation | experimental | [1] Cui 2023; _cites Abrikosov 1967_ | p. 2; `ORC-66MC7MTVEW` | “GdTe has the highest melting point and congruently melts at 2098 K.” |
 
 ### Crystal structure (14)
 
@@ -75,20 +75,20 @@ Table: Crystal structure, Gd–Te system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 12.01 Å | 298.15 | Gd2Te3; _alloy: Gd 0.4, Te 0.6_ | unspecified | [1] Cui 2023; _cites Swinnea 1987_ [doi](https://doi.org/10.1107/s0021889887087065) | Table 1, p. 2, row 8 |  |
-| Lattice a | 4.34 Å | 298.15 | Gd2Te5; _alloy: Gd 0.285714, Te 0.714286_ | experimental | [1] Cui 2023; _cites Pardo 1967_ | Table 1, p. 2, row 11 |  |
-| Lattice a | 6.12 Å | 298.15 | Gd4Te7; _alloy: Gd 0.363636, Te 0.636364_ | unspecified | [1] Cui 2023; _cites Gd-Te 2012_ | Table 1, p. 2, row 9 |  |
-| Lattice a | 4.32 Å | 298.15 | GdTe; _alloy: Gd 0.5, Te 0.5_ | DFT | [1] Cui 2023; _cites Beckenbaugh 2023_ | Table 1, p. 2, row 7 |  |
-| Lattice a | 4.32 Å | 298.15 | GdTe2; _alloy: Gd 0.333333, Te 0.666667_ | experimental | [1] Cui 2023; _cites Niihara 1972_ [doi](https://doi.org/10.1246/bcsj.45.1239) | Table 1, p. 2, row 10 |  |
-| Lattice a | 4.32 Å | 298.15 | GdTe3; _alloy: Gd 0.25, Te 0.75_ | experimental | [1] Cui 2023; _cites Pardo 1967_ | Table 1, p. 2, row 12 |  |
-| Lattice b | 4.301 Å | 298.15 | Gd2Te3; _alloy: Gd 0.4, Te 0.6_ | unspecified | [1] Cui 2023; _cites Swinnea 1987_ [doi](https://doi.org/10.1107/s0021889887087065) | Table 1, p. 2, row 8 |  |
-| Lattice b | 43.6 Å | 298.15 | Gd2Te5; _alloy: Gd 0.285714, Te 0.714286_ | experimental | [1] Cui 2023; _cites Pardo 1967_ | Table 1, p. 2, row 11 |  |
-| Lattice b | 25.28 Å | 298.15 | GdTe3; _alloy: Gd 0.25, Te 0.75_ | experimental | [1] Cui 2023; _cites Pardo 1967_ | Table 1, p. 2, row 12 |  |
-| Lattice c | 11.82 Å | 298.15 | Gd2Te3; _alloy: Gd 0.4, Te 0.6_ | unspecified | [1] Cui 2023; _cites Swinnea 1987_ [doi](https://doi.org/10.1107/s0021889887087065) | Table 1, p. 2, row 8 |  |
-| Lattice c | 4.34 Å | 298.15 | Gd2Te5; _alloy: Gd 0.285714, Te 0.714286_ | experimental | [1] Cui 2023; _cites Pardo 1967_ | Table 1, p. 2, row 11 |  |
-| Lattice c | 8.9 Å | 298.15 | GdTe; _alloy: Gd 0.5, Te 0.5_ | DFT | [1] Cui 2023; _cites Beckenbaugh 2023_ | Table 1, p. 2, row 7 |  |
-| Lattice c | 8.95 Å | 298.15 | GdTe2; _alloy: Gd 0.333333, Te 0.666667_ | experimental | [1] Cui 2023; _cites Niihara 1972_ [doi](https://doi.org/10.1246/bcsj.45.1239) | Table 1, p. 2, row 10 |  |
-| Lattice c | 4.33 Å | 298.15 | GdTe3; _alloy: Gd 0.25, Te 0.75_ | experimental | [1] Cui 2023; _cites Pardo 1967_ | Table 1, p. 2, row 12 |  |
+| Lattice a | 12.01 Å | 298.15 | Gd2Te3; _alloy: Gd 0.4, Te 0.6_ | unspecified | [1] Cui 2023; _cites Swinnea 1987_ [doi](https://doi.org/10.1107/s0021889887087065) | Table 1, p. 2, row 8; `ORC-HKT33J4P6Q.77d8d5` |  |
+| Lattice a | 4.34 Å | 298.15 | Gd2Te5; _alloy: Gd 0.285714, Te 0.714286_ | experimental | [1] Cui 2023; _cites Pardo 1967_ | Table 1, p. 2, row 11; `ORC-XWTCUVVZV6.17c762` |  |
+| Lattice a | 6.12 Å | 298.15 | Gd4Te7; _alloy: Gd 0.363636, Te 0.636364_ | unspecified | [1] Cui 2023; _cites Gd-Te 2012_ | Table 1, p. 2, row 9; `ORC-GMRZBEFTO7` |  |
+| Lattice a | 4.32 Å | 298.15 | GdTe; _alloy: Gd 0.5, Te 0.5_ | DFT | [1] Cui 2023; _cites Beckenbaugh 2023_ | Table 1, p. 2, row 7; `ORC-GNI3P7ZFVC.e18479` |  |
+| Lattice a | 4.32 Å | 298.15 | GdTe2; _alloy: Gd 0.333333, Te 0.666667_ | experimental | [1] Cui 2023; _cites Niihara 1972_ [doi](https://doi.org/10.1246/bcsj.45.1239) | Table 1, p. 2, row 10; `ORC-CT4HWEYTZH.16ac86` |  |
+| Lattice a | 4.32 Å | 298.15 | GdTe3; _alloy: Gd 0.25, Te 0.75_ | experimental | [1] Cui 2023; _cites Pardo 1967_ | Table 1, p. 2, row 12; `ORC-RLAGCUF6YT.8ff34a` |  |
+| Lattice b | 4.301 Å | 298.15 | Gd2Te3; _alloy: Gd 0.4, Te 0.6_ | unspecified | [1] Cui 2023; _cites Swinnea 1987_ [doi](https://doi.org/10.1107/s0021889887087065) | Table 1, p. 2, row 8; `ORC-HKT33J4P6Q.68655c` |  |
+| Lattice b | 43.6 Å | 298.15 | Gd2Te5; _alloy: Gd 0.285714, Te 0.714286_ | experimental | [1] Cui 2023; _cites Pardo 1967_ | Table 1, p. 2, row 11; `ORC-XWTCUVVZV6.5e91f7` |  |
+| Lattice b | 25.28 Å | 298.15 | GdTe3; _alloy: Gd 0.25, Te 0.75_ | experimental | [1] Cui 2023; _cites Pardo 1967_ | Table 1, p. 2, row 12; `ORC-RLAGCUF6YT.6a6b8f` |  |
+| Lattice c | 11.82 Å | 298.15 | Gd2Te3; _alloy: Gd 0.4, Te 0.6_ | unspecified | [1] Cui 2023; _cites Swinnea 1987_ [doi](https://doi.org/10.1107/s0021889887087065) | Table 1, p. 2, row 8; `ORC-HKT33J4P6Q.6a54f5` |  |
+| Lattice c | 4.34 Å | 298.15 | Gd2Te5; _alloy: Gd 0.285714, Te 0.714286_ | experimental | [1] Cui 2023; _cites Pardo 1967_ | Table 1, p. 2, row 11; `ORC-XWTCUVVZV6.f7b903` |  |
+| Lattice c | 8.9 Å | 298.15 | GdTe; _alloy: Gd 0.5, Te 0.5_ | DFT | [1] Cui 2023; _cites Beckenbaugh 2023_ | Table 1, p. 2, row 7; `ORC-GNI3P7ZFVC.e747d5` |  |
+| Lattice c | 8.95 Å | 298.15 | GdTe2; _alloy: Gd 0.333333, Te 0.666667_ | experimental | [1] Cui 2023; _cites Niihara 1972_ [doi](https://doi.org/10.1246/bcsj.45.1239) | Table 1, p. 2, row 10; `ORC-CT4HWEYTZH.a54381` |  |
+| Lattice c | 4.33 Å | 298.15 | GdTe3; _alloy: Gd 0.25, Te 0.75_ | experimental | [1] Cui 2023; _cites Pardo 1967_ | Table 1, p. 2, row 12; `ORC-RLAGCUF6YT.e8d757` |  |
 
 ## Sources
 
@@ -153,4 +153,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

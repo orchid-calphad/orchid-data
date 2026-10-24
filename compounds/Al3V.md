@@ -14,9 +14,9 @@ Table: Enthalpy of formation of Al3V reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -27.8 kJ/mol-atom | Al3V | 298.15 | experimental | Exp | [Al–V](https://data.orchid-project.org/systems/AL-V.html) | [1] Luo 2018; _cites Meschel 1994_ | Table 3, p. 5, row 13 |  |
-| 1.194 kJ/mol-atom | Al3V |  | model |  | [Al–V](https://data.orchid-project.org/systems/AL-V.html) | [1] Luo 2018 | Table 3, p. 5, row 14 |  |
-| -26.91 kJ/mol-atom | Al3V |  | DFT | DFT | [Al–V](https://data.orchid-project.org/systems/AL-V.html) | [1] Luo 2018; _cites ref. 21_ | Table 3, p. 5, row 12 |  |
+| -27.8 kJ/mol-atom | Al3V | 298.15 | experimental | Exp | [Al–V](https://data.orchid-project.org/systems/AL-V.html) | [1] Luo 2018; _cites Meschel 1994_ | Table 3, p. 5, row 13; `ORC-SRULXM6ONT` |  |
+| 1.194 kJ/mol-atom | Al3V |  | model |  | [Al–V](https://data.orchid-project.org/systems/AL-V.html) | [1] Luo 2018 | Table 3, p. 5, row 14; `ORC-IBVD2A4HP4` |  |
+| -26.91 kJ/mol-atom | Al3V |  | DFT | DFT | [Al–V](https://data.orchid-project.org/systems/AL-V.html) | [1] Luo 2018; _cites ref. 21_ | Table 3, p. 5, row 12; `ORC-XMO2TGI4S3` |  |
 
 ### Uncertainty budget
 
@@ -94,4 +94,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

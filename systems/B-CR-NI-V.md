@@ -29,39 +29,39 @@ Table: Phase equilibrium, B–Cr–Ni–V system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase assemblage |  |  | fcc; _alloy: B 0, Cr 0.21043, Ni 0.667225, V 0.122344_ | unspecified | [1] Tonyali 2024 | Table 5, p. 11, row 4 |  |
-| Phase assemblage |  |  | fcc + M3B2; _alloy: B 0.0612989, Cr 0.178939, Ni 0.505672, V 0.25409_ | unspecified | [1] Tonyali 2024 | Table 5, p. 11, row 8 |  |
-| Phase assemblage |  |  | fcc + M3B2 + MB; _alloy: B 0.0218457, Cr 0.191087, Ni 0.600865, V 0.186202_ | unspecified | [1] Tonyali 2024 | Table 5, p. 11, row 6 |  |
-| Phase assemblage |  |  | fcc + MB; _alloy: B 0.0708692, Cr 0.26339, Ni 0.623859, V 0.0418826_ | unspecified | [1] Tonyali 2024 | Table 5, p. 11, row 2 |  |
-| Phase assemblage |  |  | fcc + matrix; _alloy: B 0.0751644, Cr 0.158272, Ni 0.47293, V 0.293633_ | experimental | [1] Tonyali 2024 | Table 6, p. 12, row 5 |  |
-| Phase assemblage |  |  | fcc + matrix; _alloy: B 0, Cr 0.21043, Ni 0.667225, V 0.122344_ | experimental | [1] Tonyali 2024 | Table 6, p. 12, row 2 |  |
-| Phase assemblage |  |  | fcc + matrix; _alloy: B 0.0612989, Cr 0.178939, Ni 0.505672, V 0.25409_ | experimental | [1] Tonyali 2024 | Table 6, p. 12, row 4 |  |
-| Phase assemblage |  |  | fcc + matrix; _alloy: B 0.0218457, Cr 0.191087, Ni 0.600865, V 0.186202_ | experimental | [1] Tonyali 2024 | Table 6, p. 12, row 3 |  |
-| Phase assemblage |  |  | fcc + matrix; _alloy: B 0.0708692, Cr 0.26339, Ni 0.623859, V 0.0418826_ | experimental | [1] Tonyali 2024 | Table 6, p. 12, row 1 |  |
-| Phase assemblage |  |  | fcc + sigma + M3B2; _alloy: B 0.0919777, Cr 0.137553, Ni 0.343777, V 0.426692_ | unspecified | [1] Tonyali 2024 | Table 5, p. 11, row 14 |  |
-| Phase assemblage |  |  | fcc + sigma + M3B2; _alloy: B 0.0751644, Cr 0.158272, Ni 0.47293, V 0.293633_ | unspecified | [1] Tonyali 2024 | Table 5, p. 11, row 10 |  |
-| Phase assemblage |  |  | fcc + sigma + M3B2; _alloy: B 0.123172, Cr 0.142871, Ni 0.338984, V 0.394973_ | unspecified | [1] Tonyali 2024 | Table 5, p. 11, row 12 |  |
-| Phase assemblage |  |  | fcc + sigma + M3B2; _alloy: B 0.0676334, Cr 0.120267, Ni 0.358311, V 0.453789_ | unspecified | [1] Tonyali 2024 | Table 5, p. 11, row 16 |  |
-| Phase assemblage |  |  | fcc + sigma + M3B2 + MB; _alloy: B 0.0919777, Cr 0.137553, Ni 0.343777, V 0.426692_ | experimental | [1] Tonyali 2024 | Table 5, p. 11, row 13 |  |
-| Phase assemblage |  |  | fcc + sigma + matrix; _alloy: B 0.123172, Cr 0.142871, Ni 0.338984, V 0.394973_ | experimental | [1] Tonyali 2024 | Table 6, p. 12, row 6 |  |
-| Phase assemblage |  |  | fcc + sigma + matrix; _alloy: B 0.0676334, Cr 0.120267, Ni 0.358311, V 0.453789_ | experimental | [1] Tonyali 2024 | Table 6, p. 12, row 8 |  |
-| Phase assemblage |  |  | fcc + sigma + matrix; _alloy: B 0.0919777, Cr 0.137553, Ni 0.343777, V 0.426692_ | experimental | [1] Tonyali 2024 | Table 6, p. 12, row 7 |  |
-| Phase assemblage |  |  | sigma + M3B2; _alloy: B 0.0594234, Cr 0.100019, Ni 0.299784, V 0.540774_ | unspecified | [1] Tonyali 2024 | Table 5, p. 11, row 18 |  |
-| Phase assemblage |  |  | sigma + bcc + M3B2; _alloy: B 0.0603528, Cr 0.0839486, Ni 0.254304, V 0.601394_ | unspecified | [1] Tonyali 2024 | Table 5, p. 11, row 22 |  |
-| Phase assemblage |  |  | sigma + bcc + M3B2; _alloy: B 0.104548, Cr 0.0965075, Ni 0.240715, V 0.558229_ | unspecified | [1] Tonyali 2024 | Table 5, p. 11, row 20 |  |
-| Phase assemblage |  |  | sigma + bcc + matrix; _alloy: B 0.0603528, Cr 0.0839486, Ni 0.254304, V 0.601394_ | experimental | [1] Tonyali 2024 | Table 6, p. 12, row 11 |  |
-| Phase assemblage |  |  | sigma + matrix; _alloy: B 0.0594234, Cr 0.100019, Ni 0.299784, V 0.540774_ | experimental | [1] Tonyali 2024 | Table 6, p. 12, row 9 |  |
-| Phase assemblage |  |  | sigma + matrix; _alloy: B 0.104548, Cr 0.0965075, Ni 0.240715, V 0.558229_ | experimental | [1] Tonyali 2024 | Table 6, p. 12, row 10 |  |
-| Phase assemblage |  |  | zero + fcc + M3B2 + MB; _alloy: B 0.0612989, Cr 0.178939, Ni 0.505672, V 0.25409_ | experimental | [1] Tonyali 2024 | Table 5, p. 11, row 7 |  |
-| Phase assemblage |  |  | zero + fcc + M3B2 + MB; _alloy: B 0.0751644, Cr 0.158272, Ni 0.47293, V 0.293633_ | experimental | [1] Tonyali 2024 | Table 5, p. 11, row 9 |  |
-| Phase assemblage |  |  | zero + fcc + M3B2 + MB; _alloy: B 0.0218457, Cr 0.191087, Ni 0.600865, V 0.186202_ | experimental | [1] Tonyali 2024 | Table 5, p. 11, row 5 |  |
-| Phase assemblage |  |  | zero + fcc + M3B2 + MB; _alloy: B 0, Cr 0.21043, Ni 0.667225, V 0.122344_ | experimental | [1] Tonyali 2024 | Table 5, p. 11, row 3 |  |
-| Phase assemblage |  |  | zero + fcc + MB; _alloy: B 0.0708692, Cr 0.26339, Ni 0.623859, V 0.0418826_ | experimental | [1] Tonyali 2024 | Table 5, p. 11, row 1 |  |
-| Phase assemblage |  |  | zero + fcc + sigma + M3B2; _alloy: B 0.0594234, Cr 0.100019, Ni 0.299784, V 0.540774_ | experimental | [1] Tonyali 2024 | Table 5, p. 11, row 17 |  |
-| Phase assemblage |  |  | zero + fcc + sigma + M3B2; _alloy: B 0.104548, Cr 0.0965075, Ni 0.240715, V 0.558229_ | experimental | [1] Tonyali 2024 | Table 5, p. 11, row 19 |  |
-| Phase assemblage |  |  | zero + fcc + sigma + M3B2; _alloy: B 0.0676334, Cr 0.120267, Ni 0.358311, V 0.453789_ | experimental | [1] Tonyali 2024 | Table 5, p. 11, row 15 |  |
-| Phase assemblage |  |  | zero + fcc + sigma + M3B2 + MB; _alloy: B 0.123172, Cr 0.142871, Ni 0.338984, V 0.394973_ | experimental | [1] Tonyali 2024 | Table 5, p. 11, row 11 |  |
-| Phase assemblage |  |  | zero + fcc + sigma + bcc + M3B2 + MB; _alloy: B 0.0603528, Cr 0.0839486, Ni 0.254304, V 0.601394_ | experimental | [1] Tonyali 2024 | Table 5, p. 11, row 21 |  |
+| Phase assemblage |  |  | fcc; _alloy: B 0, Cr 0.21043, Ni 0.667225, V 0.122344_ | unspecified | [1] Tonyali 2024 | Table 5, p. 11, row 4; `ORC-I4UYGSYGVL` |  |
+| Phase assemblage |  |  | fcc + M3B2; _alloy: B 0.0612989, Cr 0.178939, Ni 0.505672, V 0.25409_ | unspecified | [1] Tonyali 2024 | Table 5, p. 11, row 8; `ORC-22HCFIRBII` |  |
+| Phase assemblage |  |  | fcc + M3B2 + MB; _alloy: B 0.0218457, Cr 0.191087, Ni 0.600865, V 0.186202_ | unspecified | [1] Tonyali 2024 | Table 5, p. 11, row 6; `ORC-2PRCH2M5EF` |  |
+| Phase assemblage |  |  | fcc + MB; _alloy: B 0.0708692, Cr 0.26339, Ni 0.623859, V 0.0418826_ | unspecified | [1] Tonyali 2024 | Table 5, p. 11, row 2; `ORC-RFLKGWFAYB` |  |
+| Phase assemblage |  |  | fcc + matrix; _alloy: B 0.0751644, Cr 0.158272, Ni 0.47293, V 0.293633_ | experimental | [1] Tonyali 2024 | Table 6, p. 12, row 5; `ORC-5A4JMWM3ZG` |  |
+| Phase assemblage |  |  | fcc + matrix; _alloy: B 0, Cr 0.21043, Ni 0.667225, V 0.122344_ | experimental | [1] Tonyali 2024 | Table 6, p. 12, row 2; `ORC-5D45F6N4HI` |  |
+| Phase assemblage |  |  | fcc + matrix; _alloy: B 0.0612989, Cr 0.178939, Ni 0.505672, V 0.25409_ | experimental | [1] Tonyali 2024 | Table 6, p. 12, row 4; `ORC-EXVNGKFFRM` |  |
+| Phase assemblage |  |  | fcc + matrix; _alloy: B 0.0218457, Cr 0.191087, Ni 0.600865, V 0.186202_ | experimental | [1] Tonyali 2024 | Table 6, p. 12, row 3; `ORC-Q7LDVY4GXZ` |  |
+| Phase assemblage |  |  | fcc + matrix; _alloy: B 0.0708692, Cr 0.26339, Ni 0.623859, V 0.0418826_ | experimental | [1] Tonyali 2024 | Table 6, p. 12, row 1; `ORC-X75MXQCWCA` |  |
+| Phase assemblage |  |  | fcc + sigma + M3B2; _alloy: B 0.0919777, Cr 0.137553, Ni 0.343777, V 0.426692_ | unspecified | [1] Tonyali 2024 | Table 5, p. 11, row 14; `ORC-42BLCLPYJY` |  |
+| Phase assemblage |  |  | fcc + sigma + M3B2; _alloy: B 0.0751644, Cr 0.158272, Ni 0.47293, V 0.293633_ | unspecified | [1] Tonyali 2024 | Table 5, p. 11, row 10; `ORC-GO4M2X2YTH` |  |
+| Phase assemblage |  |  | fcc + sigma + M3B2; _alloy: B 0.123172, Cr 0.142871, Ni 0.338984, V 0.394973_ | unspecified | [1] Tonyali 2024 | Table 5, p. 11, row 12; `ORC-PVFGT7J3MM` |  |
+| Phase assemblage |  |  | fcc + sigma + M3B2; _alloy: B 0.0676334, Cr 0.120267, Ni 0.358311, V 0.453789_ | unspecified | [1] Tonyali 2024 | Table 5, p. 11, row 16; `ORC-TBHVD3JSHR` |  |
+| Phase assemblage |  |  | fcc + sigma + M3B2 + MB; _alloy: B 0.0919777, Cr 0.137553, Ni 0.343777, V 0.426692_ | experimental | [1] Tonyali 2024 | Table 5, p. 11, row 13; `ORC-BDVASLK3FE` |  |
+| Phase assemblage |  |  | fcc + sigma + matrix; _alloy: B 0.123172, Cr 0.142871, Ni 0.338984, V 0.394973_ | experimental | [1] Tonyali 2024 | Table 6, p. 12, row 6; `ORC-AYPGG6JALY` |  |
+| Phase assemblage |  |  | fcc + sigma + matrix; _alloy: B 0.0676334, Cr 0.120267, Ni 0.358311, V 0.453789_ | experimental | [1] Tonyali 2024 | Table 6, p. 12, row 8; `ORC-G2IV6GLMIE` |  |
+| Phase assemblage |  |  | fcc + sigma + matrix; _alloy: B 0.0919777, Cr 0.137553, Ni 0.343777, V 0.426692_ | experimental | [1] Tonyali 2024 | Table 6, p. 12, row 7; `ORC-VFL25X32UU` |  |
+| Phase assemblage |  |  | sigma + M3B2; _alloy: B 0.0594234, Cr 0.100019, Ni 0.299784, V 0.540774_ | unspecified | [1] Tonyali 2024 | Table 5, p. 11, row 18; `ORC-MVGOGST4XH` |  |
+| Phase assemblage |  |  | sigma + bcc + M3B2; _alloy: B 0.0603528, Cr 0.0839486, Ni 0.254304, V 0.601394_ | unspecified | [1] Tonyali 2024 | Table 5, p. 11, row 22; `ORC-BON7LHUSQE` |  |
+| Phase assemblage |  |  | sigma + bcc + M3B2; _alloy: B 0.104548, Cr 0.0965075, Ni 0.240715, V 0.558229_ | unspecified | [1] Tonyali 2024 | Table 5, p. 11, row 20; `ORC-GPJICC3LCW` |  |
+| Phase assemblage |  |  | sigma + bcc + matrix; _alloy: B 0.0603528, Cr 0.0839486, Ni 0.254304, V 0.601394_ | experimental | [1] Tonyali 2024 | Table 6, p. 12, row 11; `ORC-3XXKP2UENF` |  |
+| Phase assemblage |  |  | sigma + matrix; _alloy: B 0.0594234, Cr 0.100019, Ni 0.299784, V 0.540774_ | experimental | [1] Tonyali 2024 | Table 6, p. 12, row 9; `ORC-72DJOL5LFI` |  |
+| Phase assemblage |  |  | sigma + matrix; _alloy: B 0.104548, Cr 0.0965075, Ni 0.240715, V 0.558229_ | experimental | [1] Tonyali 2024 | Table 6, p. 12, row 10; `ORC-HYMIVHXWT7` |  |
+| Phase assemblage |  |  | zero + fcc + M3B2 + MB; _alloy: B 0.0612989, Cr 0.178939, Ni 0.505672, V 0.25409_ | experimental | [1] Tonyali 2024 | Table 5, p. 11, row 7; `ORC-A2JMHJWJNL` |  |
+| Phase assemblage |  |  | zero + fcc + M3B2 + MB; _alloy: B 0.0751644, Cr 0.158272, Ni 0.47293, V 0.293633_ | experimental | [1] Tonyali 2024 | Table 5, p. 11, row 9; `ORC-CBVADD6YT6` |  |
+| Phase assemblage |  |  | zero + fcc + M3B2 + MB; _alloy: B 0.0218457, Cr 0.191087, Ni 0.600865, V 0.186202_ | experimental | [1] Tonyali 2024 | Table 5, p. 11, row 5; `ORC-GU2JA4TMRS` |  |
+| Phase assemblage |  |  | zero + fcc + M3B2 + MB; _alloy: B 0, Cr 0.21043, Ni 0.667225, V 0.122344_ | experimental | [1] Tonyali 2024 | Table 5, p. 11, row 3; `ORC-LAMLPSGGJM` |  |
+| Phase assemblage |  |  | zero + fcc + MB; _alloy: B 0.0708692, Cr 0.26339, Ni 0.623859, V 0.0418826_ | experimental | [1] Tonyali 2024 | Table 5, p. 11, row 1; `ORC-WVUUKQQAFD` |  |
+| Phase assemblage |  |  | zero + fcc + sigma + M3B2; _alloy: B 0.0594234, Cr 0.100019, Ni 0.299784, V 0.540774_ | experimental | [1] Tonyali 2024 | Table 5, p. 11, row 17; `ORC-4C5QH7ZSWE` |  |
+| Phase assemblage |  |  | zero + fcc + sigma + M3B2; _alloy: B 0.104548, Cr 0.0965075, Ni 0.240715, V 0.558229_ | experimental | [1] Tonyali 2024 | Table 5, p. 11, row 19; `ORC-GEXHEFCYOW` |  |
+| Phase assemblage |  |  | zero + fcc + sigma + M3B2; _alloy: B 0.0676334, Cr 0.120267, Ni 0.358311, V 0.453789_ | experimental | [1] Tonyali 2024 | Table 5, p. 11, row 15; `ORC-Q6UNPHYXUL` |  |
+| Phase assemblage |  |  | zero + fcc + sigma + M3B2 + MB; _alloy: B 0.123172, Cr 0.142871, Ni 0.338984, V 0.394973_ | experimental | [1] Tonyali 2024 | Table 5, p. 11, row 11; `ORC-X7S7HZJ7BV` |  |
+| Phase assemblage |  |  | zero + fcc + sigma + bcc + M3B2 + MB; _alloy: B 0.0603528, Cr 0.0839486, Ni 0.254304, V 0.601394_ | experimental | [1] Tonyali 2024 | Table 5, p. 11, row 21; `ORC-FKUURFB5WJ` |  |
 
 ## Sources
 
@@ -104,4 +104,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

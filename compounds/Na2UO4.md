@@ -14,11 +14,11 @@ Table: Enthalpy of formation of Na2UO4 reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -271.1 kJ/mol-atom ± 0.5 | α-Na2UO4 | 298.15 | experimental | experimental (calorimetry) | [Na–O–U](https://data.orchid-project.org/systems/NA-O-U.html) | [1] Smith 2017; _cites Guillaumont 2003_ | Table 8, p. 12, row 1 |  |
-| -269.229 kJ/mol-atom ± 0.514286 | β-Na2UO4 | 298.15 | experimental | experimental (calorimetry) | [Na–O–U](https://data.orchid-project.org/systems/NA-O-U.html) | [1] Smith 2017; _cites Guillaumont 2003_ | Table 8, p. 12, row 4 |  |
-| -271.6 kJ/mol-atom | α-Na2UO4 | 298.15 | model | CALPHAD | [Na–O–U](https://data.orchid-project.org/systems/NA-O-U.html) | [1] Smith 2017 | Table 8, p. 12, row 3 |  |
-| -265.443 kJ/mol-atom | α-Na2UO4 | 298.15 | DFT | DFT | [Na–O–U](https://data.orchid-project.org/systems/NA-O-U.html) | [1] Smith 2017 | Table 8, p. 12, row 2 |  |
-| -264.6 kJ/mol-atom | β-Na2UO4 | 298.15 | DFT | DFT | [Na–O–U](https://data.orchid-project.org/systems/NA-O-U.html) | [1] Smith 2017 | Table 8, p. 12, row 5 |  |
+| -271.1 kJ/mol-atom ± 0.5 | α-Na2UO4 | 298.15 | experimental | experimental (calorimetry) | [Na–O–U](https://data.orchid-project.org/systems/NA-O-U.html) | [1] Smith 2017; _cites Guillaumont 2003_ | Table 8, p. 12, row 1; `ORC-NBACGHOUKT.34730b` |  |
+| -269.229 kJ/mol-atom ± 0.514286 | β-Na2UO4 | 298.15 | experimental | experimental (calorimetry) | [Na–O–U](https://data.orchid-project.org/systems/NA-O-U.html) | [1] Smith 2017; _cites Guillaumont 2003_ | Table 8, p. 12, row 4; `ORC-L5WKOUAPR7` |  |
+| -271.6 kJ/mol-atom | α-Na2UO4 | 298.15 | model | CALPHAD | [Na–O–U](https://data.orchid-project.org/systems/NA-O-U.html) | [1] Smith 2017 | Table 8, p. 12, row 3; `ORC-KT2I7KQ4ZC.afa2cf` |  |
+| -265.443 kJ/mol-atom | α-Na2UO4 | 298.15 | DFT | DFT | [Na–O–U](https://data.orchid-project.org/systems/NA-O-U.html) | [1] Smith 2017 | Table 8, p. 12, row 2; `ORC-Z5TNUF2QYD.8dc057` |  |
+| -264.6 kJ/mol-atom | β-Na2UO4 | 298.15 | DFT | DFT | [Na–O–U](https://data.orchid-project.org/systems/NA-O-U.html) | [1] Smith 2017 | Table 8, p. 12, row 5; `ORC-36VRI4S3TK.9edd93` |  |
 
 ### Uncertainty budget
 
@@ -85,4 +85,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

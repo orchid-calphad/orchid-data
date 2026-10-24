@@ -55,31 +55,31 @@ Table: Invariant reactions reported in the literature for the Ag–Y system (25)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1795.15 | congruent melting: L ↔ βY | βY: Y 1 | model | [1] Wang 2009 | Table 3, p. 3, row 3 |  |
-| 1795.15 | congruent melting: L ↔ βY | βY: Y 1 | experimental | [1] Wang 2009; _cites Gschneidner 1983_ [doi](https://doi.org/10.1007/bf02868085) | Table 3, p. 3, row 1 |  |
-| 1782.15 | congruent melting: L ↔ βY | βY: Y 1 | experimental | [1] Wang 2009; _cites Gebhardt 1964_ | Table 3, p. 3, row 2 |  |
-| 1436.85 | congruent melting: L ↔ AgY | L: Y 0.5; AgY: Y 0.5 | model | [1] Wang 2009 | Table 3, p. 3, row 9 |  |
-| 1433.15 | congruent melting: L ↔ AgY | L: Y 0.5; AgY: Y 0.5 | experimental | [1] Wang 2009; _cites Gebhardt 1964_ | Table 3, p. 3, row 8 |  |
-| 1236.05 | congruent melting: L ↔ Ag2Y | L: Y 0.333; Ag2Y: Y 0.333 | model | [1] Wang 2009 | Table 3, p. 3, row 13 |  |
-| 1235.05 | congruent melting: L ↔ (Ag) | (Ag): Y 0 | experimental | [1] Wang 2009; _cites Gschneidner 1983_ [doi](https://doi.org/10.1007/bf02868085) | Table 3, p. 3, row 23 |  |
-| 1235.05 | congruent melting: L ↔ (Ag) | (Ag): Y 0 | model | [1] Wang 2009 | Table 3, p. 3, row 24 |  |
-| 1233.15 | congruent melting: L ↔ Ag2Y | L: Y 0.333; Ag2Y: Y 0.333 | experimental | [1] Wang 2009; _cites Gebhardt 1964_ | Table 3, p. 3, row 12 |  |
-| 1233.15 | congruent melting: L ↔ (Ag) | (Ag): Y 0 | experimental | [1] Wang 2009; _cites Gebhardt 1964_ | Table 3, p. 3, row 22 |  |
-| 1218.15 | eutectic: L ↔ Ag2 Y + AgY |  | experimental | [1] Wang 2009; _cites Gebhardt 1964_ | p. 1 | “less than 1 at.% at 775 ◦ C and four eutectic reactions: L ↔ (Ag) + Ag51 Y14 at 11.5 at.% Y and 775 ◦ C, L ↔ Ag51 Y14 + Ag2 Y at 29 at.% Y and 900 ◦ C, L ↔ Ag2 Y + AgY at 35 at.% Y and 945 ◦ C, and L ↔ AgY + ␣Y at 72.5 at.% Y and 885 ◦ C.” |
-| 1218.15 | eutectic: L ↔ AgY + Ag2Y | L: Y 0.35; AgY: Y 0.5; Ag2Y: Y 0.333 | experimental | [1] Wang 2009; _cites Gebhardt 1964_ | Table 3, p. 3, row 10 |  |
-| 1216.05 | eutectic: L ↔ AgY + Ag2Y | L: Y 0.372; AgY: Y 0.5; Ag2Y: Y 0.333 | model | [1] Wang 2009 | Table 3, p. 3, row 11 |  |
-| 1213.75 | congruent melting: L ↔ Ag51Y14 | L: Y 0.215; Ag51Y14: Y 0.215 | model | [1] Wang 2009 | Table 3, p. 3, row 18 |  |
-| 1213.15 | congruent melting: L ↔ Ag51Y14 | L: Y 0.226; Ag51Y14: Y 0.226 | experimental | [1] Wang 2009; _cites Gebhardt 1964_ | Table 3, p. 3, row 16 |  |
-| 1175.05 | eutectic: L ↔ Ag2Y + Ag51Y14 | L: Y 0.27; Ag2Y: Y 0.333; Ag51Y14: Y 0.215 | model | [1] Wang 2009 | Table 3, p. 3, row 15 |  |
-| 1173.15 | eutectic: L ↔ Ag51 Y14 + Ag2 Y |  | experimental | [1] Wang 2009; _cites Gebhardt 1964_ | p. 1 | “less than 1 at.% at 775 ◦ C and four eutectic reactions: L ↔ (Ag) + Ag51 Y14 at 11.5 at.% Y and 775 ◦ C, L ↔ Ag51 Y14 + Ag2 Y at 29 at.% Y and 900 ◦ C, L ↔ Ag2 Y + AgY at 35 at.% Y and 945 ◦ C, and L ↔ AgY + ␣Y at 72.5 at.% Y and 885 ◦ C.” |
-| 1173.15 | eutectic: L ↔ Ag2Y + Ag51Y14 | L: Y 0.29; Ag2Y: Y 0.333; Ag51Y14: Y 0.215 | experimental | [1] Wang 2009; _cites Gebhardt 1964_ | Table 3, p. 3, row 14 |  |
-| 1160.25 | eutectic: L ↔ αY + AgY | L: Y 0.729; αY: Y 1; AgY: Y 0.5 | model | [1] Wang 2009 | Table 3, p. 3, row 7 |  |
-| 1158.15 | eutectic: L ↔ αY + AgY | L: Y 0.725; αY: Y 1; AgY: Y 0.5 | experimental | [1] Wang 2009; _cites Gebhardt 1964_ | Table 3, p. 3, row 6 |  |
-| 1158.15 | eutectic: L ↔ AgY + ␣Y |  | experimental | [1] Wang 2009; _cites Gebhardt 1964_ | p. 1 | “less than 1 at.% at 775 ◦ C and four eutectic reactions: L ↔ (Ag) + Ag51 Y14 at 11.5 at.% Y and 775 ◦ C, L ↔ Ag51 Y14 + Ag2 Y at 29 at.% Y and 900 ◦ C, L ↔ Ag2 Y + AgY at 35 at.% Y and 945 ◦ C, and L ↔ AgY + ␣Y at 72.5 at.% Y and 885 ◦ C.” |
-| 1072.15 | eutectic: L ↔ Ag51Y14 + (Ag) | L: Y 0.115; Ag51Y14: Y 0.215; (Ag): Y 0.0131 | experimental | [1] Wang 2009; _cites Gschneidner 1970_ | Table 3, p. 3, row 20 |  |
-| 1070.25 | eutectic: L ↔ Ag51Y14 + (Ag) | L: Y 0.105; Ag51Y14: Y 0.2; (Ag): Y 0.016 | model | [1] Wang 2009 | Table 3, p. 3, row 21 |  |
-| 1048.15 | eutectic: L ↔ (Ag) + Ag51 Y14 |  | experimental | [1] Wang 2009; _cites Gebhardt 1964_ | p. 1 | “less than 1 at.% at 775 ◦ C and four eutectic reactions: L ↔ (Ag) + Ag51 Y14 at 11.5 at.% Y and 775 ◦ C, L ↔ Ag51 Y14 + Ag2 Y at 29 at.% Y and 900 ◦ C, L ↔ Ag2 Y + AgY at 35 at.% Y and 945 ◦ C, and L ↔ AgY + ␣Y at 72.5 at.% Y and 885 ◦ C.” |
-| 1048.15 | eutectic: L ↔ Ag51Y14 + (Ag) | L: Y 0.115; Ag51Y14: Y 0.226 | experimental | [1] Wang 2009; _cites Gebhardt 1964_ | Table 3, p. 3, row 19 |  |
+| 1795.15 | congruent melting: L ↔ βY | βY: Y 1 | model | [1] Wang 2009 | Table 3, p. 3, row 3; `ORC-6SVKL5ZZIP` |  |
+| 1795.15 | congruent melting: L ↔ βY | βY: Y 1 | experimental | [1] Wang 2009; _cites Gschneidner 1983_ [doi](https://doi.org/10.1007/bf02868085) | Table 3, p. 3, row 1; `ORC-JIAQEGRTU4` |  |
+| 1782.15 | congruent melting: L ↔ βY | βY: Y 1 | experimental | [1] Wang 2009; _cites Gebhardt 1964_ | Table 3, p. 3, row 2; `ORC-BXZG6RP7FN` |  |
+| 1436.85 | congruent melting: L ↔ AgY | L: Y 0.5; AgY: Y 0.5 | model | [1] Wang 2009 | Table 3, p. 3, row 9; `ORC-UZWQSYQPM3` |  |
+| 1433.15 | congruent melting: L ↔ AgY | L: Y 0.5; AgY: Y 0.5 | experimental | [1] Wang 2009; _cites Gebhardt 1964_ | Table 3, p. 3, row 8; `ORC-MWQJXSIZCE` |  |
+| 1236.05 | congruent melting: L ↔ Ag2Y | L: Y 0.333; Ag2Y: Y 0.333 | model | [1] Wang 2009 | Table 3, p. 3, row 13; `ORC-RFWSJZJKMG` |  |
+| 1235.05 | congruent melting: L ↔ (Ag) | (Ag): Y 0 | experimental | [1] Wang 2009; _cites Gschneidner 1983_ [doi](https://doi.org/10.1007/bf02868085) | Table 3, p. 3, row 23; `ORC-IMSY5PCDRX` |  |
+| 1235.05 | congruent melting: L ↔ (Ag) | (Ag): Y 0 | model | [1] Wang 2009 | Table 3, p. 3, row 24; `ORC-QZACQT7RR6` |  |
+| 1233.15 | congruent melting: L ↔ Ag2Y | L: Y 0.333; Ag2Y: Y 0.333 | experimental | [1] Wang 2009; _cites Gebhardt 1964_ | Table 3, p. 3, row 12; `ORC-46ATFZHSEW` |  |
+| 1233.15 | congruent melting: L ↔ (Ag) | (Ag): Y 0 | experimental | [1] Wang 2009; _cites Gebhardt 1964_ | Table 3, p. 3, row 22; `ORC-VRU36VRGTN` |  |
+| 1218.15 | eutectic: L ↔ Ag2 Y + AgY |  | experimental | [1] Wang 2009; _cites Gebhardt 1964_ | p. 1; `ORC-LLRR4ERLTM.5f95d0` | “less than 1 at.% at 775 ◦ C and four eutectic reactions: L ↔ (Ag) + Ag51 Y14 at 11.5 at.% Y and 775 ◦ C, L ↔ Ag51 Y14 + Ag2 Y at 29 at.% Y and 900 ◦ C, L ↔ Ag2 Y + AgY at 35 at.% Y and 945 ◦ C, and L ↔ AgY + ␣Y at 72.5 at.% Y and 885 ◦ C.” |
+| 1218.15 | eutectic: L ↔ AgY + Ag2Y | L: Y 0.35; AgY: Y 0.5; Ag2Y: Y 0.333 | experimental | [1] Wang 2009; _cites Gebhardt 1964_ | Table 3, p. 3, row 10; `ORC-PIMNUDV3FZ` |  |
+| 1216.05 | eutectic: L ↔ AgY + Ag2Y | L: Y 0.372; AgY: Y 0.5; Ag2Y: Y 0.333 | model | [1] Wang 2009 | Table 3, p. 3, row 11; `ORC-AFJKHWJD2D` |  |
+| 1213.75 | congruent melting: L ↔ Ag51Y14 | L: Y 0.215; Ag51Y14: Y 0.215 | model | [1] Wang 2009 | Table 3, p. 3, row 18; `ORC-A37D7IWBP2` |  |
+| 1213.15 | congruent melting: L ↔ Ag51Y14 | L: Y 0.226; Ag51Y14: Y 0.226 | experimental | [1] Wang 2009; _cites Gebhardt 1964_ | Table 3, p. 3, row 16; `ORC-WAGUASXLBD` |  |
+| 1175.05 | eutectic: L ↔ Ag2Y + Ag51Y14 | L: Y 0.27; Ag2Y: Y 0.333; Ag51Y14: Y 0.215 | model | [1] Wang 2009 | Table 3, p. 3, row 15; `ORC-2OO5HX244B` |  |
+| 1173.15 | eutectic: L ↔ Ag51 Y14 + Ag2 Y |  | experimental | [1] Wang 2009; _cites Gebhardt 1964_ | p. 1; `ORC-LLRR4ERLTM.38216b` | “less than 1 at.% at 775 ◦ C and four eutectic reactions: L ↔ (Ag) + Ag51 Y14 at 11.5 at.% Y and 775 ◦ C, L ↔ Ag51 Y14 + Ag2 Y at 29 at.% Y and 900 ◦ C, L ↔ Ag2 Y + AgY at 35 at.% Y and 945 ◦ C, and L ↔ AgY + ␣Y at 72.5 at.% Y and 885 ◦ C.” |
+| 1173.15 | eutectic: L ↔ Ag2Y + Ag51Y14 | L: Y 0.29; Ag2Y: Y 0.333; Ag51Y14: Y 0.215 | experimental | [1] Wang 2009; _cites Gebhardt 1964_ | Table 3, p. 3, row 14; `ORC-WFMKFKCXVW` |  |
+| 1160.25 | eutectic: L ↔ αY + AgY | L: Y 0.729; αY: Y 1; AgY: Y 0.5 | model | [1] Wang 2009 | Table 3, p. 3, row 7; `ORC-RUAN2OJZVC` |  |
+| 1158.15 | eutectic: L ↔ αY + AgY | L: Y 0.725; αY: Y 1; AgY: Y 0.5 | experimental | [1] Wang 2009; _cites Gebhardt 1964_ | Table 3, p. 3, row 6; `ORC-KT6MMETBUJ` |  |
+| 1158.15 | eutectic: L ↔ AgY + ␣Y |  | experimental | [1] Wang 2009; _cites Gebhardt 1964_ | p. 1; `ORC-LLRR4ERLTM.2483e7` | “less than 1 at.% at 775 ◦ C and four eutectic reactions: L ↔ (Ag) + Ag51 Y14 at 11.5 at.% Y and 775 ◦ C, L ↔ Ag51 Y14 + Ag2 Y at 29 at.% Y and 900 ◦ C, L ↔ Ag2 Y + AgY at 35 at.% Y and 945 ◦ C, and L ↔ AgY + ␣Y at 72.5 at.% Y and 885 ◦ C.” |
+| 1072.15 | eutectic: L ↔ Ag51Y14 + (Ag) | L: Y 0.115; Ag51Y14: Y 0.215; (Ag): Y 0.0131 | experimental | [1] Wang 2009; _cites Gschneidner 1970_ | Table 3, p. 3, row 20; `ORC-6YC5GGH7N3` |  |
+| 1070.25 | eutectic: L ↔ Ag51Y14 + (Ag) | L: Y 0.105; Ag51Y14: Y 0.2; (Ag): Y 0.016 | model | [1] Wang 2009 | Table 3, p. 3, row 21; `ORC-FUXCIR3XNO` |  |
+| 1048.15 | eutectic: L ↔ (Ag) + Ag51 Y14 |  | experimental | [1] Wang 2009; _cites Gebhardt 1964_ | p. 1; `ORC-LLRR4ERLTM.08ffc4` | “less than 1 at.% at 775 ◦ C and four eutectic reactions: L ↔ (Ag) + Ag51 Y14 at 11.5 at.% Y and 775 ◦ C, L ↔ Ag51 Y14 + Ag2 Y at 29 at.% Y and 900 ◦ C, L ↔ Ag2 Y + AgY at 35 at.% Y and 945 ◦ C, and L ↔ AgY + ␣Y at 72.5 at.% Y and 885 ◦ C.” |
+| 1048.15 | eutectic: L ↔ Ag51Y14 + (Ag) | L: Y 0.115; Ag51Y14: Y 0.226 | experimental | [1] Wang 2009; _cites Gebhardt 1964_ | Table 3, p. 3, row 19; `ORC-TWSFEKCZKX` |  |
 
 ## Sources
 
@@ -144,4 +144,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

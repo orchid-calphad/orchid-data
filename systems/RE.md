@@ -33,15 +33,15 @@ Table: Enthalpies of formation, Re system (9)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| (χ) |  | 4.423 kJ/mol-atom | 298.15 | model |  |  | [1] Liu 2013 | Table 3, p. 5, row 3 |  |
-| \\sigma |  | 0 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 32 |  |
-| \\sigma |  | 9.33 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 32 |  |
-| sigma ReReReReRe |  | 9.6 kJ/mol-atom | 0 | DFT |  |  | [3] Palumbo 2010 | Table 1, p. 4, row 32 |  |
-| σ |  | 9.88 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Yang 2010 | Table 4, p. 4, row 4 |  |
-| σ: Re10(Mo,Re)4(Mo,Re)16 |  | 9.88 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Yang 2010 | Table 4, p. 4, row 4 |  |
-| χ |  | 4.9 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Mathieu 2013; _cites Crivello 2013_ | Table 5, p. 5, row 16 |  |
-| χ |  | 5.48 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Yang 2010 | Table 4, p. 4, row 8 |  |
-| χ: (Mo,Re)10(Mo,Re)24Re24 |  | 5.48 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Yang 2010 | Table 4, p. 4, row 8 |  |
+| (χ) |  | 4.423 kJ/mol-atom | 298.15 | model |  |  | [1] Liu 2013 | Table 3, p. 5, row 3; `ORC-DME4MEHYIB.58192d` |  |
+| \\sigma |  | 0 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 32; `ORC-ZPWVG4LPRK.afa9c4` |  |
+| \\sigma |  | 9.33 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 32; `ORC-ZPWVG4LPRK.64783e` |  |
+| sigma ReReReReRe |  | 9.6 kJ/mol-atom | 0 | DFT |  |  | [3] Palumbo 2010 | Table 1, p. 4, row 32; `ORC-3SL7ENTGNY.4a82b7` |  |
+| σ |  | 9.88 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Yang 2010 | Table 4, p. 4, row 4; `ORC-ZHH6V7NXR7.39f085` |  |
+| σ: Re10(Mo,Re)4(Mo,Re)16 |  | 9.88 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Yang 2010 | Table 4, p. 4, row 4; `ORC-ZHH6V7NXR7.f5011d` |  |
+| χ |  | 4.9 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Mathieu 2013; _cites Crivello 2013_ | Table 5, p. 5, row 16; `ORC-MDTRSVPK3J` |  |
+| χ |  | 5.48 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Yang 2010 | Table 4, p. 4, row 8; `ORC-ESZRSW7JMZ.62fc31` |  |
+| χ: (Mo,Re)10(Mo,Re)24Re24 |  | 5.48 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Yang 2010 | Table 4, p. 4, row 8; `ORC-ESZRSW7JMZ.16cf6f` |  |
 
 ## Other properties
 
@@ -51,7 +51,7 @@ Table: Formation, Re system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy of formation; _printed: ΔfS_ | 0.439 J/mol-atom/K | 298.15 | (χ); _alloy: Re 1_ | model | [1] Liu 2013 | Table 3, p. 5, row 3 |  |
+| Entropy of formation; _printed: ΔfS_ | 0.439 J/mol-atom/K | 298.15 | (χ); _alloy: Re 1_ | model | [1] Liu 2013 | Table 3, p. 5, row 3; `ORC-DME4MEHYIB.72a7be` |  |
 
 ### Heat capacity / entropy / enthalpy (1)
 
@@ -59,7 +59,7 @@ Table: Heat capacity / entropy / enthalpy, Re system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: ΔfS_ | 25.456 J/mol-atom/K | 298.15 | (χ); _alloy: Re 1_ | model | [1] Liu 2013 | Table 3, p. 5, row 3 |  |
+| Entropy; _printed: ΔfS_ | 25.456 J/mol-atom/K | 298.15 | (χ); _alloy: Re 1_ | model | [1] Liu 2013 | Table 3, p. 5, row 3; `ORC-DME4MEHYIB.96f08d` |  |
 
 ### Activity / EMF / Gibbs energy (8)
 
@@ -67,14 +67,14 @@ Table: Activity / EMF / Gibbs energy, Re system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | BCC_A2; _alloy: Re 1_ | model | [5] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 67 |  |
-| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | BCC_A2; _alloy: Re 1_ | model | [5] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 67 |  |
-| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | FCC_A1; _alloy: Re 1_ | model | [5] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 61 |  |
-| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | FCC_A1; _alloy: Re 1_ | model | [5] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 61 |  |
-| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | HCP_A3; _alloy: Re 1_ | model | [5] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 73 |  |
-| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | HCP_A3; _alloy: Re 1_ | model | [5] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 73 |  |
-| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | σ; _alloy: Re 1_ | model | [5] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 78 |  |
-| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | σ; _alloy: Re 1_ | model | [5] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 78 |  |
+| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | BCC_A2; _alloy: Re 1_ | model | [5] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 67; `ORC-UL4OKJU2TF.1f96d9` |  |
+| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | BCC_A2; _alloy: Re 1_ | model | [5] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 67; `ORC-UL4OKJU2TF.f069f1` |  |
+| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | FCC_A1; _alloy: Re 1_ | model | [5] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 61; `ORC-4KUTAWURSF.82e830` |  |
+| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | FCC_A1; _alloy: Re 1_ | model | [5] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 61; `ORC-4KUTAWURSF.b0c3c0` |  |
+| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | HCP_A3; _alloy: Re 1_ | model | [5] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 73; `ORC-P5Z2DIPDXA.89697b` |  |
+| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | HCP_A3; _alloy: Re 1_ | model | [5] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 73; `ORC-P5Z2DIPDXA.b2c657` |  |
+| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | σ; _alloy: Re 1_ | model | [5] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 78; `ORC-FIH56J6SQW.1cdb94` |  |
+| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | σ; _alloy: Re 1_ | model | [5] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 78; `ORC-FIH56J6SQW.96a7c8` |  |
 
 ### Crystal structure (22)
 
@@ -82,28 +82,28 @@ Table: Crystal structure, Re system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 2.769 Å |  | Re | DFT | [6] Zacherl 2010 | Table 1, p. 3, row 3 |  |
-| Lattice a | 2.773 Å |  | Re | DFT | [7] Zacherl 2012 | Table 1, p. 4, row 1 |  |
-| Lattice a | 2.785 Å |  | Re | DFT | [7] Zacherl 2012; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.actamat.2004.02.014) | Table 1, p. 4, row 3 |  |
-| Lattice a | 2.785 Å |  | Re | model | [6] Zacherl 2010; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.actamat.2004.02.014) | Table 1, p. 3, row 2 |  |
-| Lattice a | 2.771 Å | 0 | Re (hcp); _alloy: Re 1_ | DFT | [1] Liu 2013 | Table 1, p. 4, row 1 |  |
-| Lattice a | 2.785 Å | 0 | Re (hcp); _alloy: Re 1_ | DFT | [1] Liu 2013; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.actamat.2004.02.014) | Table 1, p. 4, row 2 |  |
-| Lattice a | 2.76 Å |  | Re (hcp); _alloy: Re 1_ | experimental | [1] Liu 2013; _cites Kittel 1995_ | Table 1, p. 4, row 3 |  |
-| Lattice a; _printed: a_ | 9.552 Å | 0 | sigma ReReReReRe; _alloy: Re 1_ | DFT | [3] Palumbo 2010 | Table 1, p. 4, row 32 |  |
-| Lattice a | 2.76 Å | 298.15 | Re | experimental | [6] Zacherl 2010; _cites Kittel 2005_ | Table 1, p. 3, row 1 |  |
-| Lattice a | 2.76 Å | 298.15 | Re | experimental | [7] Zacherl 2012; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 1, p. 4, row 2 |  |
-| Lattice c | 4.472 Å |  | Re | DFT | [6] Zacherl 2010 | Table 1, p. 3, row 3 |  |
-| Lattice c | 4.48 Å |  | Re | DFT | [7] Zacherl 2012 | Table 1, p. 4, row 1 |  |
-| Lattice c | 4.498 Å |  | Re | DFT | [7] Zacherl 2012; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.actamat.2004.02.014) | Table 1, p. 4, row 3 |  |
-| Lattice c | 4.498 Å |  | Re | model | [6] Zacherl 2010; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.actamat.2004.02.014) | Table 1, p. 3, row 2 |  |
-| Lattice c; _printed: c_ | 5.006 Å | 0 | sigma ReReReReRe; _alloy: Re 1_ | DFT | [3] Palumbo 2010 | Table 1, p. 4, row 32 |  |
-| Lattice c | 4.46 Å | 298.15 | Re | experimental | [6] Zacherl 2010; _cites Kittel 2005_ | Table 1, p. 3, row 1 |  |
-| Lattice c | 4.46 Å | 298.15 | Re | experimental | [7] Zacherl 2012; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 1, p. 4, row 2 |  |
-| Molar volume; _printed: V0_ | 7.35 Å3/atom | 0 | hcp-Re | DFT | [7] Zacherl 2012; _cites Steinle-Neumann 1999_ [doi](https://doi.org/10.1103/physrevb.60.791) | Table 2, p. 4, row 2 |  |
-| Molar volume; _printed: V0_ | 7.47 Å3/atom | 0 | hcp-Re | DFT | [7] Zacherl 2012 | Table 2, p. 4, row 1 |  |
-| lattice c a | 1.613 not_printed | 0 | Re (hcp); _alloy: Re 1_ | DFT | [1] Liu 2013 | Table 1, p. 4, row 1 |  |
-| lattice c a | 1.615 not_printed | 0 | Re (hcp); _alloy: Re 1_ | DFT | [1] Liu 2013; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.actamat.2004.02.014) | Table 1, p. 4, row 2 |  |
-| lattice c a | 1.62 not_printed |  | Re (hcp); _alloy: Re 1_ | experimental | [1] Liu 2013; _cites Kittel 1995_ | Table 1, p. 4, row 3 |  |
+| Lattice a | 2.769 Å |  | Re | DFT | [6] Zacherl 2010 | Table 1, p. 3, row 3; `ORC-63AKCY4RAJ.f3c052` |  |
+| Lattice a | 2.773 Å |  | Re | DFT | [7] Zacherl 2012 | Table 1, p. 4, row 1; `ORC-FML7LUIPV5.018625` |  |
+| Lattice a | 2.785 Å |  | Re | DFT | [7] Zacherl 2012; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.actamat.2004.02.014) | Table 1, p. 4, row 3; `ORC-IQURKT4XFD.65ab0d` |  |
+| Lattice a | 2.785 Å |  | Re | model | [6] Zacherl 2010; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.actamat.2004.02.014) | Table 1, p. 3, row 2; `ORC-LAXMCER4J5.db6b7f` |  |
+| Lattice a | 2.771 Å | 0 | Re (hcp); _alloy: Re 1_ | DFT | [1] Liu 2013 | Table 1, p. 4, row 1; `ORC-2POQD7MJH2.3e67c8` |  |
+| Lattice a | 2.785 Å | 0 | Re (hcp); _alloy: Re 1_ | DFT | [1] Liu 2013; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.actamat.2004.02.014) | Table 1, p. 4, row 2; `ORC-6X4UVYOPO4.83c62b` |  |
+| Lattice a | 2.76 Å |  | Re (hcp); _alloy: Re 1_ | experimental | [1] Liu 2013; _cites Kittel 1995_ | Table 1, p. 4, row 3; `ORC-YW3CCOAGLR.ef6f0d` |  |
+| Lattice a; _printed: a_ | 9.552 Å | 0 | sigma ReReReReRe; _alloy: Re 1_ | DFT | [3] Palumbo 2010 | Table 1, p. 4, row 32; `ORC-F4M4O6VSFY.22cf4e` |  |
+| Lattice a | 2.76 Å | 298.15 | Re | experimental | [6] Zacherl 2010; _cites Kittel 2005_ | Table 1, p. 3, row 1; `ORC-GR5M4R6Y7V.083179` |  |
+| Lattice a | 2.76 Å | 298.15 | Re | experimental | [7] Zacherl 2012; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 1, p. 4, row 2; `ORC-V5HFCBCAL5.0059c9` |  |
+| Lattice c | 4.472 Å |  | Re | DFT | [6] Zacherl 2010 | Table 1, p. 3, row 3; `ORC-63AKCY4RAJ.b24c34` |  |
+| Lattice c | 4.48 Å |  | Re | DFT | [7] Zacherl 2012 | Table 1, p. 4, row 1; `ORC-FML7LUIPV5.033b94` |  |
+| Lattice c | 4.498 Å |  | Re | DFT | [7] Zacherl 2012; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.actamat.2004.02.014) | Table 1, p. 4, row 3; `ORC-IQURKT4XFD.5121aa` |  |
+| Lattice c | 4.498 Å |  | Re | model | [6] Zacherl 2010; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.actamat.2004.02.014) | Table 1, p. 3, row 2; `ORC-LAXMCER4J5.9d374a` |  |
+| Lattice c; _printed: c_ | 5.006 Å | 0 | sigma ReReReReRe; _alloy: Re 1_ | DFT | [3] Palumbo 2010 | Table 1, p. 4, row 32; `ORC-F4M4O6VSFY.954210` |  |
+| Lattice c | 4.46 Å | 298.15 | Re | experimental | [6] Zacherl 2010; _cites Kittel 2005_ | Table 1, p. 3, row 1; `ORC-GR5M4R6Y7V.5d1200` |  |
+| Lattice c | 4.46 Å | 298.15 | Re | experimental | [7] Zacherl 2012; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 1, p. 4, row 2; `ORC-V5HFCBCAL5.295d74` |  |
+| Molar volume; _printed: V0_ | 7.35 Å3/atom | 0 | hcp-Re | DFT | [7] Zacherl 2012; _cites Steinle-Neumann 1999_ [doi](https://doi.org/10.1103/physrevb.60.791) | Table 2, p. 4, row 2; `ORC-4G5H5IEPZ4` |  |
+| Molar volume; _printed: V0_ | 7.47 Å3/atom | 0 | hcp-Re | DFT | [7] Zacherl 2012 | Table 2, p. 4, row 1; `ORC-FD7OHJ5KFH` |  |
+| lattice c a | 1.613 not_printed | 0 | Re (hcp); _alloy: Re 1_ | DFT | [1] Liu 2013 | Table 1, p. 4, row 1; `ORC-2POQD7MJH2.f8423e` |  |
+| lattice c a | 1.615 not_printed | 0 | Re (hcp); _alloy: Re 1_ | DFT | [1] Liu 2013; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.actamat.2004.02.014) | Table 1, p. 4, row 2; `ORC-6X4UVYOPO4.b0afae` |  |
+| lattice c a | 1.62 not_printed |  | Re (hcp); _alloy: Re 1_ | experimental | [1] Liu 2013; _cites Kittel 1995_ | Table 1, p. 4, row 3; `ORC-YW3CCOAGLR.0f35d1` |  |
 
 ## Sources
 
@@ -152,4 +152,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

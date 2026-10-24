@@ -26,11 +26,11 @@ Table: Invariant reactions reported in the literature for the Al–Fe–Mn syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1016.19 | liquid + Al13Fe4 + ζ \<-> Al6Mn | L: Al 0.965317, Fe 0.014271, Mn 0.020411 | experimental | [1] Zheng 2018 | Table 3, p. 9, row 8 |  |
-| 1003.15 | liquid + Al13Fe4 + ζ \<-> Al6Mn | L: Al 0.97084, Fe 0.011951, Mn 0.01721 | experimental | [1] Zheng 2018; _cites Phillips 1943_ | Table 3, p. 9, row 7 |  |
-| 927.25 | liquid \<-> Al6Mn + Al13Fe4 + fcc - Al | L: Al 0.987707, Fe 0.00881, Mn 0.003483 | experimental | [1] Zheng 2018; _cites Degischer 1939_ | Table 3, p. 9, row 1 |  |
-| 927.15 | liquid \<-> Al6Mn + Al13Fe4 + fcc - Al | L: Al 0.987703, Fe 0.008565, Mn 0.003731 | experimental | [1] Zheng 2018; _cites Phillips 1943_ | Table 3, p. 9, row 2 |  |
-| 925.83 | liquid \<-> Al6Mn + Al13Fe4 + fcc - Al | L: Al 0.988108, Fe 0.00866, Mn 0.003233 | experimental | [1] Zheng 2018 | Table 3, p. 9, row 5 |  |
+| 1016.19 | liquid + Al13Fe4 + ζ \<-> Al6Mn | L: Al 0.965317, Fe 0.014271, Mn 0.020411 | experimental | [1] Zheng 2018 | Table 3, p. 9, row 8; `ORC-74ROWOZ2DL` |  |
+| 1003.15 | liquid + Al13Fe4 + ζ \<-> Al6Mn | L: Al 0.97084, Fe 0.011951, Mn 0.01721 | experimental | [1] Zheng 2018; _cites Phillips 1943_ | Table 3, p. 9, row 7; `ORC-LD7WDKL6PT` |  |
+| 927.25 | liquid \<-> Al6Mn + Al13Fe4 + fcc - Al | L: Al 0.987707, Fe 0.00881, Mn 0.003483 | experimental | [1] Zheng 2018; _cites Degischer 1939_ | Table 3, p. 9, row 1; `ORC-ELVYEL74V3` |  |
+| 927.15 | liquid \<-> Al6Mn + Al13Fe4 + fcc - Al | L: Al 0.987703, Fe 0.008565, Mn 0.003731 | experimental | [1] Zheng 2018; _cites Phillips 1943_ | Table 3, p. 9, row 2; `ORC-RJB2HZC6Y2` |  |
+| 925.83 | liquid \<-> Al6Mn + Al13Fe4 + fcc - Al | L: Al 0.988108, Fe 0.00866, Mn 0.003233 | experimental | [1] Zheng 2018 | Table 3, p. 9, row 5; `ORC-KEO3ZN3OYN` |  |
 
 ## Sources
 
@@ -73,4 +73,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

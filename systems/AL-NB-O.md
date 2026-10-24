@@ -27,12 +27,12 @@ Table: Invariant reactions reported in the literature for the Al–Nb–O system
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1833.15 | Liquid + Al2O3 -> AlNbO4 |  | model | [1] Gebauer 2022 | Table 4, p. 7, row 1 |  |
-| 1833.15 | Liquid + Al2O3 -> AlNbO4 |  | experimental | [1] Gebauer 2022; _cites Fedorov 1971_ | Table 4, p. 7, row 2 |  |
-| 1716.15 | Liquid -> AlNb11O29 + AlNb49O124 |  | model | [1] Gebauer 2022 | Table 4, p. 7, row 5 |  |
-| 1708.15 | Liquid -> AlNb11O29 + AlNb49O124 |  | experimental | [1] Gebauer 2022; _cites Fedorov 1971_ | Table 4, p. 7, row 6 |  |
-| 1698.15 | Liquid -> AlNbO4 + AlNb11O29 |  | experimental | [1] Gebauer 2022; _cites Fedorov 1971_ | Table 4, p. 7, row 4 |  |
-| 1691.15 | Liquid -> AlNbO4 + AlNb11O29 |  | model | [1] Gebauer 2022 | Table 4, p. 7, row 3 |  |
+| 1833.15 | Liquid + Al2O3 -> AlNbO4 |  | model | [1] Gebauer 2022 | Table 4, p. 7, row 1; `ORC-KQ7DUA7256` |  |
+| 1833.15 | Liquid + Al2O3 -> AlNbO4 |  | experimental | [1] Gebauer 2022; _cites Fedorov 1971_ | Table 4, p. 7, row 2; `ORC-Y23GICHO2H` |  |
+| 1716.15 | Liquid -> AlNb11O29 + AlNb49O124 |  | model | [1] Gebauer 2022 | Table 4, p. 7, row 5; `ORC-LZEG4W3UT5` |  |
+| 1708.15 | Liquid -> AlNb11O29 + AlNb49O124 |  | experimental | [1] Gebauer 2022; _cites Fedorov 1971_ | Table 4, p. 7, row 6; `ORC-ZFYFAMCXBM` |  |
+| 1698.15 | Liquid -> AlNbO4 + AlNb11O29 |  | experimental | [1] Gebauer 2022; _cites Fedorov 1971_ | Table 4, p. 7, row 4; `ORC-OMZCNVGGDV` |  |
+| 1691.15 | Liquid -> AlNbO4 + AlNb11O29 |  | model | [1] Gebauer 2022 | Table 4, p. 7, row 3; `ORC-L3SHJOJ4Y2` |  |
 
 ## Sources
 
@@ -75,4 +75,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -27,61 +27,61 @@ Table: Invariant reactions reported in the literature for the La–Pr–Si syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1908.15 | peritectic: L + La3Si5 -> LaSi2 |  | unspecified | [1] Xu 2020; _cites ref. 23_ | Table 4, p. 10, row 37 |  |
-| 1894.35 | eutectic: L -> LaSi + La3Si5 |  | model | [1] Xu 2020 | Table 4, p. 10, row 25 |  |
-| 1886.85 | eutectic: L -> PrSi + β-Pr5Si9 |  | unspecified | [1] Xu 2020; _cites ref. 28_ | Table 4, p. 10, row 64 |  |
-| 1874.05 | eutectic: L -> LaSi + La3Si5 |  | unspecified | [1] Xu 2020; _cites ref. 28_ | Table 4, p. 10, row 26 |  |
-| 1873.15 | peritectic: L + La3Si5 -> LaSi2 |  | unspecified | [1] Xu 2020; _cites ref. 41_ | Table 4, p. 10, row 35 |  |
-| 1873.15 | peritectic: L + La3Si5 -> LaSi2 |  | unspecified | [1] Xu 2020; _cites ref. 18_ | Table 4, p. 10, row 36 |  |
-| 1856.75 | eutectic: L -> PrSi + β-Pr5Si9 |  | model | [1] Xu 2020 | Table 4, p. 10, row 63 |  |
-| 1855.25 | peritectic: L + La3Si5 -> LaSi2 |  | model | [1] Xu 2020 | Table 4, p. 10, row 33 |  |
-| 1853.15 | peritectic: L + La3Si5 -> LaSi2 |  | unspecified | [1] Xu 2020; _cites ref. 27_ | Table 4, p. 10, row 40 |  |
-| 1848.55 | peritectic: L + La3Si5 -> LaSi2 |  | unspecified | [1] Xu 2020; _cites ref. 28_ | Table 4, p. 10, row 34 |  |
-| 1843.15 | peritectic: L + LaSi -> La5Si4 |  | unspecified | [1] Xu 2020; _cites ref. 18_ | Table 4, p. 10, row 19 |  |
-| 1834.15 | peritectic: L + LaSi -> La5Si4 |  | unspecified | [1] Xu 2020; _cites ref. 41_ | Table 4, p. 10, row 18 |  |
-| 1820.15 | eutectic: L -> LaSi + La3Si5 |  | unspecified | [1] Xu 2020; _cites ref. 41_ | Table 4, p. 10, row 27 |  |
-| 1815.15 | eutectic: L -> PrSi + β-Pr5Si9 |  | unspecified | [1] Xu 2020; _cites ref. 19_ | Table 4, p. 10, row 65 |  |
-| 1805.15 | peritectic: L + PrSi -> Pr5Si4 |  | unspecified | [1] Xu 2020; _cites ref. 19_ | Table 4, p. 10, row 57 |  |
-| 1801.15 | eutectic: L -> LaSi + La3Si5 |  | unspecified | [1] Xu 2020; _cites ref. 18_ | Table 4, p. 10, row 28 |  |
-| 1795.15 | peritectic: L + PrSi -> Pr5Si4 |  | model | [1] Xu 2020 | Table 4, p. 10, row 55 |  |
-| 1794.65 | peritectic: L + PrSi -> Pr5Si4 |  | unspecified | [1] Xu 2020; _cites ref. 28_ | Table 4, p. 10, row 56 |  |
-| 1793.15 | peritectic: L + La3Si5 -> LaSi2 |  | unspecified | [1] Xu 2020; _cites ref. 26_ | Table 4, p. 10, row 39 |  |
-| 1784.15 | peritectic: L + PrSi -> Pr5Si4 |  | unspecified | [1] Xu 2020; _cites ref. 47_ | Table 4, p. 10, row 58 |  |
-| 1773.15 | peritectic: L + La3Si5 -> LaSi2 |  | unspecified | [1] Xu 2020; _cites ref. 25_ | Table 4, p. 10, row 38 |  |
-| 1755.15 | peritectic: L + LaSi -> La5Si4 |  | unspecified | [1] Xu 2020; _cites ref. 28_ | Table 4, p. 10, row 17 |  |
-| 1754.85 | peritectic: L + LaSi -> La5Si4 |  | model | [1] Xu 2020 | Table 4, p. 10, row 16 |  |
-| 1743.15 | peritectic: L + La5Si4 -> La3Si2 |  | unspecified | [1] Xu 2020; _cites ref. 18_ | Table 4, p. 10, row 14 |  |
-| 1716.15 | peritectic: L + LaSi -> La5Si4 |  | unspecified | [1] Xu 2020; _cites ref. 23_ | Table 4, p. 10, row 20 |  |
-| 1690.15 | peritectic: L + Pr5Si4 -> Pr5Si3 |  | unspecified | [1] Xu 2020; _cites ref. 19_ | Table 4, p. 10, row 52 |  |
-| 1689.85 | peritectic: L + Pr5Si4 -> Pr5Si3 |  | unspecified | [1] Xu 2020; _cites ref. 28_ | Table 4, p. 10, row 51 |  |
-| 1685.15 | peritectic: L + Pr5Si4 -> Pr5Si3 |  | unspecified | [1] Xu 2020; _cites ref. 47_ | Table 4, p. 10, row 53 |  |
-| 1670.75 | peritectic: L + Pr5Si4 -> Pr5Si3 |  | model | [1] Xu 2020 | Table 4, p. 10, row 50 |  |
-| 1601.55 | peritectic: L + La5Si4 -> La3Si2 |  | unspecified | [1] Xu 2020; _cites ref. 28_ | Table 4, p. 10, row 13 |  |
-| 1596.45 | peritectic: L + La5Si4 -> La3Si2 |  | model | [1] Xu 2020 | Table 4, p. 10, row 12 |  |
-| 1589.15 | peritectic: L + La3Si2 -> La5Si3 |  | unspecified | [1] Xu 2020; _cites ref. 23_ | Table 4, p. 10, row 11 |  |
-| 1580.15 | peritectic: L + La5Si4 -> La3Si2 |  | unspecified | [1] Xu 2020; _cites ref. 23_ | Table 4, p. 10, row 15 |  |
-| 1544.75 | peritectic: L + La3Si2 -> La5Si3 |  | unspecified | [1] Xu 2020; _cites ref. 28_ | Table 4, p. 10, row 9 |  |
-| 1540.35 | peritectic: L + La3Si2 -> La5Si3 |  | model | [1] Xu 2020 | Table 4, p. 10, row 8 |  |
-| 1533.15 | peritectic: L + La3Si2 -> La5Si3 |  | unspecified | [1] Xu 2020; _cites ref. 18_ | Table 4, p. 10, row 10 |  |
-| 1492.15 | eutectic: L -> LaSi2 + (Si) |  | model | [1] Xu 2020 | Table 4, p. 10, row 41 |  |
-| 1486.35 | eutectic: L -> LaSi2 + (Si) |  | unspecified | [1] Xu 2020; _cites ref. 28_ | Table 4, p. 10, row 42 |  |
-| 1485.15 | eutectic: L -> (Si) + β-Pr5Si9 |  | unspecified | [1] Xu 2020; _cites ref. 19_ | Table 4, p. 10, row 79 |  |
-| 1480.25 | eutectic: L -> (Si) + β-Pr5Si9 |  | unspecified | [1] Xu 2020; _cites ref. 28_ | Table 4, p. 10, row 78 |  |
-| 1478.15 | eutectic: L -> LaSi2 + (Si) |  | unspecified | [1] Xu 2020; _cites ref. 18_ | Table 4, p. 10, row 44 |  |
-| 1477.15 | eutectic: L -> LaSi2 + (Si) |  | unspecified | [1] Xu 2020; _cites ref. 41_ | Table 4, p. 10, row 43 |  |
-| 1465.05 | eutectic: L -> (Si) + β-Pr5Si9 |  | model | [1] Xu 2020 | Table 4, p. 10, row 77 |  |
-| 1108.05 | metatectic/catatectic: (γLa) -> L + (βLa) |  | model | [1] Xu 2020 | Table 4, p. 10, row 1 |  |
-| 1091.15 | metatectic/catatectic: (γLa) -> L + (βLa) |  | unspecified | [1] Xu 2020; _cites ref. 28_ | Table 4, p. 10, row 2 |  |
-| 1088.15 | metatectic/catatectic: (γLa) -> L + (βLa) |  | unspecified | [1] Xu 2020; _cites ref. 18_ | Table 4, p. 10, row 3 |  |
-| 1063.85 | metatectic/catatectic: (αPr) -> L + (βPr) |  | model | [1] Xu 2020 | Table 4, p. 10, row 45 |  |
-| 1047.95 | metatectic/catatectic: (αPr) -> L + (βPr) |  | unspecified | [1] Xu 2020; _cites ref. 28_ | Table 4, p. 10, row 46 |  |
-| 1005.15 | eutectic: L -> (αPr) + Pr5Si3 |  | unspecified | [1] Xu 2020; _cites ref. 19_ | Table 4, p. 10, row 49 |  |
-| 1003.95 | eutectic: L -> (αPr) + Pr5Si3 |  | model | [1] Xu 2020 | Table 4, p. 10, row 47 |  |
-| 1000.55 | eutectic: L -> (αPr) + Pr5Si3 |  | unspecified | [1] Xu 2020; _cites ref. 28_ | Table 4, p. 10, row 48 |  |
-| 997.95 | eutectic: L -> (βLa) + La5Si3 |  | model | [1] Xu 2020 | Table 4, p. 10, row 4 |  |
-| 995.15 | eutectic: L -> (βLa) + La5Si3 |  | unspecified | [1] Xu 2020; _cites ref. 41_ | Table 4, p. 10, row 6 |  |
-| 995.15 | eutectic: L -> (βLa) + La5Si3 |  | unspecified | [1] Xu 2020; _cites ref. 18_ | Table 4, p. 10, row 7 |  |
-| 984.35 | eutectic: L -> (βLa) + La5Si3 |  | unspecified | [1] Xu 2020; _cites ref. 28_ | Table 4, p. 10, row 5 |  |
+| 1908.15 | peritectic: L + La3Si5 -> LaSi2 |  | unspecified | [1] Xu 2020; _cites ref. 23_ | Table 4, p. 10, row 37; `ORC-2KKNH5W53K` |  |
+| 1894.35 | eutectic: L -> LaSi + La3Si5 |  | model | [1] Xu 2020 | Table 4, p. 10, row 25; `ORC-N34XURCRCW` |  |
+| 1886.85 | eutectic: L -> PrSi + β-Pr5Si9 |  | unspecified | [1] Xu 2020; _cites ref. 28_ | Table 4, p. 10, row 64; `ORC-K5AG2GJ6VU` |  |
+| 1874.05 | eutectic: L -> LaSi + La3Si5 |  | unspecified | [1] Xu 2020; _cites ref. 28_ | Table 4, p. 10, row 26; `ORC-DBXXX7F5EW` |  |
+| 1873.15 | peritectic: L + La3Si5 -> LaSi2 |  | unspecified | [1] Xu 2020; _cites ref. 41_ | Table 4, p. 10, row 35; `ORC-R72WNCIPFH` |  |
+| 1873.15 | peritectic: L + La3Si5 -> LaSi2 |  | unspecified | [1] Xu 2020; _cites ref. 18_ | Table 4, p. 10, row 36; `ORC-VYQXUSVRHU` |  |
+| 1856.75 | eutectic: L -> PrSi + β-Pr5Si9 |  | model | [1] Xu 2020 | Table 4, p. 10, row 63; `ORC-7767ELY3GA` |  |
+| 1855.25 | peritectic: L + La3Si5 -> LaSi2 |  | model | [1] Xu 2020 | Table 4, p. 10, row 33; `ORC-SU7Y2CNRBR` |  |
+| 1853.15 | peritectic: L + La3Si5 -> LaSi2 |  | unspecified | [1] Xu 2020; _cites ref. 27_ | Table 4, p. 10, row 40; `ORC-27L5SDLCXP` |  |
+| 1848.55 | peritectic: L + La3Si5 -> LaSi2 |  | unspecified | [1] Xu 2020; _cites ref. 28_ | Table 4, p. 10, row 34; `ORC-WXNZ6367OH` |  |
+| 1843.15 | peritectic: L + LaSi -> La5Si4 |  | unspecified | [1] Xu 2020; _cites ref. 18_ | Table 4, p. 10, row 19; `ORC-G6P4IAWSZS` |  |
+| 1834.15 | peritectic: L + LaSi -> La5Si4 |  | unspecified | [1] Xu 2020; _cites ref. 41_ | Table 4, p. 10, row 18; `ORC-V63S5WXPDX` |  |
+| 1820.15 | eutectic: L -> LaSi + La3Si5 |  | unspecified | [1] Xu 2020; _cites ref. 41_ | Table 4, p. 10, row 27; `ORC-PIX33DJD4P` |  |
+| 1815.15 | eutectic: L -> PrSi + β-Pr5Si9 |  | unspecified | [1] Xu 2020; _cites ref. 19_ | Table 4, p. 10, row 65; `ORC-BS5NOAQANZ` |  |
+| 1805.15 | peritectic: L + PrSi -> Pr5Si4 |  | unspecified | [1] Xu 2020; _cites ref. 19_ | Table 4, p. 10, row 57; `ORC-UJQXYTRXQU` |  |
+| 1801.15 | eutectic: L -> LaSi + La3Si5 |  | unspecified | [1] Xu 2020; _cites ref. 18_ | Table 4, p. 10, row 28; `ORC-HVM4KTVKC6` |  |
+| 1795.15 | peritectic: L + PrSi -> Pr5Si4 |  | model | [1] Xu 2020 | Table 4, p. 10, row 55; `ORC-S7W6YGVO6K` |  |
+| 1794.65 | peritectic: L + PrSi -> Pr5Si4 |  | unspecified | [1] Xu 2020; _cites ref. 28_ | Table 4, p. 10, row 56; `ORC-YKXG4B3IRH` |  |
+| 1793.15 | peritectic: L + La3Si5 -> LaSi2 |  | unspecified | [1] Xu 2020; _cites ref. 26_ | Table 4, p. 10, row 39; `ORC-4UKJJU54CT` |  |
+| 1784.15 | peritectic: L + PrSi -> Pr5Si4 |  | unspecified | [1] Xu 2020; _cites ref. 47_ | Table 4, p. 10, row 58; `ORC-5GM3PCNB4D` |  |
+| 1773.15 | peritectic: L + La3Si5 -> LaSi2 |  | unspecified | [1] Xu 2020; _cites ref. 25_ | Table 4, p. 10, row 38; `ORC-QXWTKLEL5Z` |  |
+| 1755.15 | peritectic: L + LaSi -> La5Si4 |  | unspecified | [1] Xu 2020; _cites ref. 28_ | Table 4, p. 10, row 17; `ORC-W3VP5ZY45G` |  |
+| 1754.85 | peritectic: L + LaSi -> La5Si4 |  | model | [1] Xu 2020 | Table 4, p. 10, row 16; `ORC-TPFUQ6VPUH` |  |
+| 1743.15 | peritectic: L + La5Si4 -> La3Si2 |  | unspecified | [1] Xu 2020; _cites ref. 18_ | Table 4, p. 10, row 14; `ORC-ME4RHIKKO5` |  |
+| 1716.15 | peritectic: L + LaSi -> La5Si4 |  | unspecified | [1] Xu 2020; _cites ref. 23_ | Table 4, p. 10, row 20; `ORC-TMUFFIPYWB` |  |
+| 1690.15 | peritectic: L + Pr5Si4 -> Pr5Si3 |  | unspecified | [1] Xu 2020; _cites ref. 19_ | Table 4, p. 10, row 52; `ORC-QN62OXVD6V` |  |
+| 1689.85 | peritectic: L + Pr5Si4 -> Pr5Si3 |  | unspecified | [1] Xu 2020; _cites ref. 28_ | Table 4, p. 10, row 51; `ORC-KGJPZC76SD` |  |
+| 1685.15 | peritectic: L + Pr5Si4 -> Pr5Si3 |  | unspecified | [1] Xu 2020; _cites ref. 47_ | Table 4, p. 10, row 53; `ORC-5QDQIYFNGF` |  |
+| 1670.75 | peritectic: L + Pr5Si4 -> Pr5Si3 |  | model | [1] Xu 2020 | Table 4, p. 10, row 50; `ORC-FGIFFUEGKT` |  |
+| 1601.55 | peritectic: L + La5Si4 -> La3Si2 |  | unspecified | [1] Xu 2020; _cites ref. 28_ | Table 4, p. 10, row 13; `ORC-SLPCTY6EPK` |  |
+| 1596.45 | peritectic: L + La5Si4 -> La3Si2 |  | model | [1] Xu 2020 | Table 4, p. 10, row 12; `ORC-7CFCIHZZ3U` |  |
+| 1589.15 | peritectic: L + La3Si2 -> La5Si3 |  | unspecified | [1] Xu 2020; _cites ref. 23_ | Table 4, p. 10, row 11; `ORC-7ASE5LJTIX` |  |
+| 1580.15 | peritectic: L + La5Si4 -> La3Si2 |  | unspecified | [1] Xu 2020; _cites ref. 23_ | Table 4, p. 10, row 15; `ORC-75VJI7P4Y2` |  |
+| 1544.75 | peritectic: L + La3Si2 -> La5Si3 |  | unspecified | [1] Xu 2020; _cites ref. 28_ | Table 4, p. 10, row 9; `ORC-OMDNRPVAUJ` |  |
+| 1540.35 | peritectic: L + La3Si2 -> La5Si3 |  | model | [1] Xu 2020 | Table 4, p. 10, row 8; `ORC-5RYIW4QF3P` |  |
+| 1533.15 | peritectic: L + La3Si2 -> La5Si3 |  | unspecified | [1] Xu 2020; _cites ref. 18_ | Table 4, p. 10, row 10; `ORC-G6MTNG246N` |  |
+| 1492.15 | eutectic: L -> LaSi2 + (Si) |  | model | [1] Xu 2020 | Table 4, p. 10, row 41; `ORC-KBTJC7KWVN` |  |
+| 1486.35 | eutectic: L -> LaSi2 + (Si) |  | unspecified | [1] Xu 2020; _cites ref. 28_ | Table 4, p. 10, row 42; `ORC-AJPA6YAZFX` |  |
+| 1485.15 | eutectic: L -> (Si) + β-Pr5Si9 |  | unspecified | [1] Xu 2020; _cites ref. 19_ | Table 4, p. 10, row 79; `ORC-DINHUNCR7Z` |  |
+| 1480.25 | eutectic: L -> (Si) + β-Pr5Si9 |  | unspecified | [1] Xu 2020; _cites ref. 28_ | Table 4, p. 10, row 78; `ORC-CL64GEO52K` |  |
+| 1478.15 | eutectic: L -> LaSi2 + (Si) |  | unspecified | [1] Xu 2020; _cites ref. 18_ | Table 4, p. 10, row 44; `ORC-RI33ZQSVHN` |  |
+| 1477.15 | eutectic: L -> LaSi2 + (Si) |  | unspecified | [1] Xu 2020; _cites ref. 41_ | Table 4, p. 10, row 43; `ORC-4GAW3LKXU4` |  |
+| 1465.05 | eutectic: L -> (Si) + β-Pr5Si9 |  | model | [1] Xu 2020 | Table 4, p. 10, row 77; `ORC-D7V2CVK7FZ` |  |
+| 1108.05 | metatectic/catatectic: (γLa) -> L + (βLa) |  | model | [1] Xu 2020 | Table 4, p. 10, row 1; `ORC-HDLMVMK7SN` |  |
+| 1091.15 | metatectic/catatectic: (γLa) -> L + (βLa) |  | unspecified | [1] Xu 2020; _cites ref. 28_ | Table 4, p. 10, row 2; `ORC-QXW33K2P72` |  |
+| 1088.15 | metatectic/catatectic: (γLa) -> L + (βLa) |  | unspecified | [1] Xu 2020; _cites ref. 18_ | Table 4, p. 10, row 3; `ORC-ZYIEZ7XIQJ` |  |
+| 1063.85 | metatectic/catatectic: (αPr) -> L + (βPr) |  | model | [1] Xu 2020 | Table 4, p. 10, row 45; `ORC-7ZUSEIB7MV` |  |
+| 1047.95 | metatectic/catatectic: (αPr) -> L + (βPr) |  | unspecified | [1] Xu 2020; _cites ref. 28_ | Table 4, p. 10, row 46; `ORC-O5C2PP5Z2W` |  |
+| 1005.15 | eutectic: L -> (αPr) + Pr5Si3 |  | unspecified | [1] Xu 2020; _cites ref. 19_ | Table 4, p. 10, row 49; `ORC-R4B6MLT6RX` |  |
+| 1003.95 | eutectic: L -> (αPr) + Pr5Si3 |  | model | [1] Xu 2020 | Table 4, p. 10, row 47; `ORC-L4IT3UVFWK` |  |
+| 1000.55 | eutectic: L -> (αPr) + Pr5Si3 |  | unspecified | [1] Xu 2020; _cites ref. 28_ | Table 4, p. 10, row 48; `ORC-IRF7CG2XWV` |  |
+| 997.95 | eutectic: L -> (βLa) + La5Si3 |  | model | [1] Xu 2020 | Table 4, p. 10, row 4; `ORC-NRTZSR7V7Z` |  |
+| 995.15 | eutectic: L -> (βLa) + La5Si3 |  | unspecified | [1] Xu 2020; _cites ref. 41_ | Table 4, p. 10, row 6; `ORC-ALEVM3CBX2` |  |
+| 995.15 | eutectic: L -> (βLa) + La5Si3 |  | unspecified | [1] Xu 2020; _cites ref. 18_ | Table 4, p. 10, row 7; `ORC-B7TQYUGSFB` |  |
+| 984.35 | eutectic: L -> (βLa) + La5Si3 |  | unspecified | [1] Xu 2020; _cites ref. 28_ | Table 4, p. 10, row 5; `ORC-AGQ5KHGSC6` |  |
 
 ## Sources
 
@@ -124,4 +124,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -95,25 +95,25 @@ Table: Invariant reactions reported in the literature for the Fe–Sc system (19
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1838.15 | congruent melting: L -> βFe2Sc | L: Sc 0.333; βFe2Sc: Sc 0.333 | model | [1] Liu 2008 | Table 4, p. 5, row 14 |  |
-| 1838.15 | congruent melting: L -> βFe2Sc | L: Sc 0.333; βFe2Sc: Sc 0.333 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 4, p. 5, row 13 |  |
-| 1811.15 | congruent melting: L -> δFe | L: Sc 0; δFe: Sc 0 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 4, p. 5, row 1 |  |
-| 1811.15 | congruent melting: L -> δFe | L: Sc 0; δFe: Sc 0 | model | [1] Liu 2008 | Table 4, p. 5, row 2 |  |
-| 1798.15 | peritectic: L + βFe2Sc -> λFe2Sc | βFe2Sc: Sc 0.333; λFe2Sc: Sc 0.357 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 4, p. 5, row 17 |  |
-| 1798.15 | peritectic: L + βFe2Sc -> λFe2Sc | L: Sc 0.442; βFe2Sc: Sc 0.333; λFe2Sc: Sc 0.357 | model | [1] Liu 2008 | Table 4, p. 5, row 18 |  |
-| 1653.15 | peritectic: δFe -> γFe + L | δFe: Sc 0.012; γFe: Sc 0.013; L: Sc 0.065 | model | [1] Liu 2008 | Table 4, p. 5, row 6 |  |
-| 1653.15 | peritectic: δFe -> γFe + L |  | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 4, p. 5, row 5 |  |
-| 1553.15 | eutectic: L -> (γFe) + βFe2Sc | L: Sc 0.102; (γFe): Sc 0.03; βFe2Sc: Sc 0.333 | model | [1] Liu 2008 | Table 4, p. 5, row 12 |  |
-| 1553.15 | eutectic: L -> (γFe) + βFe2Sc | L: Sc 0.115; βFe2Sc: Sc 0.333 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 4, p. 5, row 11 |  |
-| 1544.15 | peritectic: βSc -> L + αSc | βSc: Sc 0.985; L: Sc 0.859; αSc: Sc 0.997 | model | [1] Liu 2008 | Table 4, p. 5, row 28 |  |
-| 1473.15 | polymorphic: βFe2Sc -> αFe2Sc | βFe2Sc: Sc 0.333; αFe2Sc: Sc 0.333 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 4, p. 5, row 15 |  |
-| 1473.15 | polymorphic: βFe2Sc -> αFe2Sc | βFe2Sc: Sc 0.333; αFe2Sc: Sc 0.333 | model | [1] Liu 2008 | Table 4, p. 5, row 16 |  |
-| 1248.15 | eutectic: L -> αFe2Sc + αSc | L: Sc 0.751; αFe2Sc: Sc 0.333; αSc: Sc 0.995 | model | [1] Liu 2008 | Table 4, p. 5, row 20 |  |
-| 1248.15 | eutectic: L -> αFe2Sc + αSc | L: Sc 0.74; αFe2Sc: Sc 0.333 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 4, p. 5, row 19 |  |
-| 1208.15 | peritectoid: γFe + αFe2Sc -> αFe | γFe: Sc 0.005; αFe2Sc: Sc 0.333; αFe: Sc 0.007 | model | [1] Liu 2008 | Table 4, p. 5, row 10 |  |
-| 1208.15 | peritectoid: γFe + αFe2Sc -> αFe | αFe2Sc: Sc 0.333 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 4, p. 5, row 9 |  |
-| 1138.15 | peritectoid: αFe2Sc + αSc -> Fe6Sc29 | αFe2Sc: Sc 0.333; Fe6Sc29: Sc 0.875 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 4, p. 5, row 21 |  |
-| 1138.15 | peritectoid: αFe2Sc + αSc -> Fe6Sc29 | αFe2Sc: Sc 0.333; αSc: Sc 0.997; Fe6Sc29: Sc 0.829 | model | [1] Liu 2008 | Table 4, p. 5, row 22 |  |
+| 1838.15 | congruent melting: L -> βFe2Sc | L: Sc 0.333; βFe2Sc: Sc 0.333 | model | [1] Liu 2008 | Table 4, p. 5, row 14; `ORC-EIUCTDURFD` |  |
+| 1838.15 | congruent melting: L -> βFe2Sc | L: Sc 0.333; βFe2Sc: Sc 0.333 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 4, p. 5, row 13; `ORC-NXHYHKNVNT` |  |
+| 1811.15 | congruent melting: L -> δFe | L: Sc 0; δFe: Sc 0 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 4, p. 5, row 1; `ORC-HT6SZQTX3R` |  |
+| 1811.15 | congruent melting: L -> δFe | L: Sc 0; δFe: Sc 0 | model | [1] Liu 2008 | Table 4, p. 5, row 2; `ORC-V4C3KH3AZD` |  |
+| 1798.15 | peritectic: L + βFe2Sc -> λFe2Sc | βFe2Sc: Sc 0.333; λFe2Sc: Sc 0.357 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 4, p. 5, row 17; `ORC-DQLBLI2BZD` |  |
+| 1798.15 | peritectic: L + βFe2Sc -> λFe2Sc | L: Sc 0.442; βFe2Sc: Sc 0.333; λFe2Sc: Sc 0.357 | model | [1] Liu 2008 | Table 4, p. 5, row 18; `ORC-L7CILDR4A4` |  |
+| 1653.15 | peritectic: δFe -> γFe + L | δFe: Sc 0.012; γFe: Sc 0.013; L: Sc 0.065 | model | [1] Liu 2008 | Table 4, p. 5, row 6; `ORC-4GBS4RFZEA` |  |
+| 1653.15 | peritectic: δFe -> γFe + L |  | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 4, p. 5, row 5; `ORC-BYOI3GFH2K` |  |
+| 1553.15 | eutectic: L -> (γFe) + βFe2Sc | L: Sc 0.102; (γFe): Sc 0.03; βFe2Sc: Sc 0.333 | model | [1] Liu 2008 | Table 4, p. 5, row 12; `ORC-AMAHJO2BFB` |  |
+| 1553.15 | eutectic: L -> (γFe) + βFe2Sc | L: Sc 0.115; βFe2Sc: Sc 0.333 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 4, p. 5, row 11; `ORC-I577LCSKMC` |  |
+| 1544.15 | peritectic: βSc -> L + αSc | βSc: Sc 0.985; L: Sc 0.859; αSc: Sc 0.997 | model | [1] Liu 2008 | Table 4, p. 5, row 28; `ORC-HYI45WE365` |  |
+| 1473.15 | polymorphic: βFe2Sc -> αFe2Sc | βFe2Sc: Sc 0.333; αFe2Sc: Sc 0.333 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 4, p. 5, row 15; `ORC-PN2YHCTPKQ` |  |
+| 1473.15 | polymorphic: βFe2Sc -> αFe2Sc | βFe2Sc: Sc 0.333; αFe2Sc: Sc 0.333 | model | [1] Liu 2008 | Table 4, p. 5, row 16; `ORC-R3PUJKHXCK` |  |
+| 1248.15 | eutectic: L -> αFe2Sc + αSc | L: Sc 0.751; αFe2Sc: Sc 0.333; αSc: Sc 0.995 | model | [1] Liu 2008 | Table 4, p. 5, row 20; `ORC-ENPFZCGFB2` |  |
+| 1248.15 | eutectic: L -> αFe2Sc + αSc | L: Sc 0.74; αFe2Sc: Sc 0.333 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 4, p. 5, row 19; `ORC-QVVGRX5O4B` |  |
+| 1208.15 | peritectoid: γFe + αFe2Sc -> αFe | γFe: Sc 0.005; αFe2Sc: Sc 0.333; αFe: Sc 0.007 | model | [1] Liu 2008 | Table 4, p. 5, row 10; `ORC-HTJCAG6WE2` |  |
+| 1208.15 | peritectoid: γFe + αFe2Sc -> αFe | αFe2Sc: Sc 0.333 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 4, p. 5, row 9; `ORC-NEUC4SNM64` |  |
+| 1138.15 | peritectoid: αFe2Sc + αSc -> Fe6Sc29 | αFe2Sc: Sc 0.333; Fe6Sc29: Sc 0.875 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 4, p. 5, row 21; `ORC-CT4Y7HCTCP` |  |
+| 1138.15 | peritectoid: αFe2Sc + αSc -> Fe6Sc29 | αFe2Sc: Sc 0.333; αSc: Sc 0.997; Fe6Sc29: Sc 0.829 | model | [1] Liu 2008 | Table 4, p. 5, row 22; `ORC-N2XNH64EV7` |  |
 
 ## Other properties
 
@@ -123,7 +123,7 @@ Table: Phase transition, Fe–Sc system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 542.15 K | 542.15 | magnetic | model | [1] Liu 2008; _cites Ikeda 1974_ [doi](https://doi.org/10.1143/jpsj.36.611) | p. 2 | “Moreover, the Curie temperature of the ␣Fe2 Sc phase was reported to be 269 ◦ C \[16\].” |
+| Phase transition | 542.15 K | 542.15 | magnetic | model | [1] Liu 2008; _cites Ikeda 1974_ [doi](https://doi.org/10.1143/jpsj.36.611) | p. 2; `ORC-XX43XQTLLH` | “Moreover, the Curie temperature of the ␣Fe2 Sc phase was reported to be 269 ◦ C \[16\].” |
 
 ## Sources
 
@@ -188,4 +188,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

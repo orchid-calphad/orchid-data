@@ -27,16 +27,16 @@ Table: Invariant reactions reported in the literature for the Bi–In–Sb syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 382.35 | peritectic: L + (Bi, Sb) -> BiIn + InSb | L: Bi 0.214407, In 0.78558, Sb 1.200e-5 | model | [1] Cui 2002 | Table 2, p. 8, row 10 |  |
-| 382.15 | eutectic: L + (Bi, Sb) -> BiIn + InSb |  | experimental | [1] Cui 2002; _cites Peretti 1961_ | Table 2, p. 8, row 9 |  |
-| 364.85 | peritectic: L + (In) -> ε + InSb | L: Bi 0.167576, In 0.832388, Sb 3.600e-5 | model | [1] Cui 2002 | Table 2, p. 8, row 4 |  |
-| 364.45 | peritectic: L + (In) -> ε + InSb |  | experimental | [1] Cui 2002; _cites Peretti 1961_ | Table 2, p. 8, row 3 |  |
-| 362.15 | peritectic: L + BiIn -> InSb + Bi3In5 |  | experimental | [1] Cui 2002; _cites Peretti 1961_ | Table 2, p. 8, row 7 |  |
-| 361.95 | peritectic: L + BiIn -> InSb + Bi3In5 | L: Bi 0.35249, In 0.647497, Sb 1.200e-5 | model | [1] Cui 2002 | Table 2, p. 8, row 8 |  |
-| 361.25 | peritectic: L + Bi3In5 -> InSb + BiIn2 | L: Bi 0.34105, In 0.658938, Sb 1.200e-5 | model | [1] Cui 2002 | Table 2, p. 8, row 6 |  |
-| 361.05 | peritectic: L + Bi3In5 -> InSb + BiIn2 |  | experimental | [1] Cui 2002; _cites Peretti 1961_ | Table 2, p. 8, row 5 |  |
-| 344.95 | eutectic: L -> ε + InSb + BiIn2 |  | experimental | [1] Cui 2002; _cites Peretti 1961_ | Table 2, p. 8, row 1 |  |
-| 343.75 | eutectic: L -> ε + InSb + BiIn2 | L: Bi 0.215451, In 0.784537, Sb 1.200e-5 | model | [1] Cui 2002 | Table 2, p. 8, row 2 |  |
+| 382.35 | peritectic: L + (Bi, Sb) -> BiIn + InSb | L: Bi 0.214407, In 0.78558, Sb 1.200e-5 | model | [1] Cui 2002 | Table 2, p. 8, row 10; `ORC-UIUSPU5A36` |  |
+| 382.15 | eutectic: L + (Bi, Sb) -> BiIn + InSb |  | experimental | [1] Cui 2002; _cites Peretti 1961_ | Table 2, p. 8, row 9; `ORC-S6V2MAL7RR` |  |
+| 364.85 | peritectic: L + (In) -> ε + InSb | L: Bi 0.167576, In 0.832388, Sb 3.600e-5 | model | [1] Cui 2002 | Table 2, p. 8, row 4; `ORC-PP4PC27C33` |  |
+| 364.45 | peritectic: L + (In) -> ε + InSb |  | experimental | [1] Cui 2002; _cites Peretti 1961_ | Table 2, p. 8, row 3; `ORC-BR63KW3W3X` |  |
+| 362.15 | peritectic: L + BiIn -> InSb + Bi3In5 |  | experimental | [1] Cui 2002; _cites Peretti 1961_ | Table 2, p. 8, row 7; `ORC-QALA3U5QUI` |  |
+| 361.95 | peritectic: L + BiIn -> InSb + Bi3In5 | L: Bi 0.35249, In 0.647497, Sb 1.200e-5 | model | [1] Cui 2002 | Table 2, p. 8, row 8; `ORC-W6I63O65AL` |  |
+| 361.25 | peritectic: L + Bi3In5 -> InSb + BiIn2 | L: Bi 0.34105, In 0.658938, Sb 1.200e-5 | model | [1] Cui 2002 | Table 2, p. 8, row 6; `ORC-BVSMMHJPQK` |  |
+| 361.05 | peritectic: L + Bi3In5 -> InSb + BiIn2 |  | experimental | [1] Cui 2002; _cites Peretti 1961_ | Table 2, p. 8, row 5; `ORC-SPC22NFPUX` |  |
+| 344.95 | eutectic: L -> ε + InSb + BiIn2 |  | experimental | [1] Cui 2002; _cites Peretti 1961_ | Table 2, p. 8, row 1; `ORC-36TGBU2YVK` |  |
+| 343.75 | eutectic: L -> ε + InSb + BiIn2 | L: Bi 0.215451, In 0.784537, Sb 1.200e-5 | model | [1] Cui 2002 | Table 2, p. 8, row 2; `ORC-VCRMZN5YW5` |  |
 
 ## Sources
 
@@ -79,4 +79,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

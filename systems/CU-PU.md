@@ -65,22 +65,22 @@ Table: Invariant reactions reported in the literature for the Cu–Pu system (16
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1202.15 | peritectic: L + Cu17Pu4 -> Cu6Pu | L: Pu 0.14; Cu17Pu4: Pu 0.191; Cu6Pu: Pu 0.143 | model | [1] Wang 2009 | Table 5, p. 5, row 12 |  |
-| 1199.15 | peritectic: L + Cu17Pu4 -> Cu6Pu | L: Pu 0.14; Cu17Pu4: Pu 0.191; Cu6Pu: Pu 0.143 | experimental | [1] Wang 2009; _cites This_ | Table 5, p. 5, row 11 |  |
-| 1179.15 | peritectic: Cu17Pu4 + L -> Cu4Pu | Cu17Pu4: Pu 0.191; L: Pu 0.25; Cu4Pu: Pu 0.2 | experimental | [1] Wang 2009; _cites This_ | Table 5, p. 5, row 13 |  |
-| 1174.15 | peritectic: Cu17Pu4 + L -> Cu4Pu | Cu17Pu4: Pu 0.191; L: Pu 0.265; Cu4Pu: Pu 0.2 | model | [1] Wang 2009 | Table 5, p. 5, row 14 |  |
-| 1154.15 | eutectic: L -> (Cu) + Cu6Pu | L: Pu 0.09; (Cu): Pu 0; Cu6Pu: Pu 0.143 | experimental | [1] Wang 2009; _cites This_ | Table 5, p. 5, row 9 |  |
-| 1149.15 | eutectic: L -> (Cu) + Cu6Pu | L: Pu 0.079; (Cu): Pu 0; Cu6Pu: Pu 0.143 | model | [1] Wang 2009 | Table 5, p. 5, row 10 |  |
-| 1130.15 | eutectic: L -> Cu4Pu + Cu2Pu |  | model | [1] Wang 2009; _cites Kutaitsev 1967_ | p. 4 | “The calculated temperature of this eutectic reaction is 857 °C, however, Rhinehammer et al. \[26\] reported this eutectic temperature to be 849 °C, and Kutaitsev et al. \[27\] gave an estimated value (857 °C).” |
-| 1130.15 | eutectic: L -> Cu4Pu + Cu2Pu | L: Pu 0.306; Cu4Pu: Pu 0.2; Cu2Pu: Pu 0.333 | model | [1] Wang 2009 | Table 5, p. 5, row 8 |  |
-| 1122.15 | eutectic: L -> Cu4Pu + Cu2Pu |  | experimental | [1] Wang 2009; _cites This_ | p. 4 | “The calculated temperature of this eutectic reaction is 857 °C, however, Rhinehammer et al. \[26\] reported this eutectic temperature to be 849 °C, and Kutaitsev et al. \[27\] gave an estimated value (857 °C).” |
-| 1122.15 | eutectic: L -> Cu4Pu + Cu2Pu | L: Pu 0.295; Cu4Pu: Pu 0.2; Cu2Pu: Pu 0.333 | experimental | [1] Wang 2009; _cites This_ | Table 5, p. 5, row 7 |  |
-| 899.15 | eutectic: L -> Cu2Pu + εPu | L: Pu 0.94; Cu2Pu: Pu 0.333; εPu: Pu 0.97 | experimental | [1] Wang 2009; _cites This_ | Table 5, p. 5, row 5 |  |
-| 899.15 | eutectic: L -> Cu2Pu + εPu | L: Pu 0.94; Cu2Pu: Pu 0.333; εPu: Pu 0.955 | model | [1] Wang 2009 | Table 5, p. 5, row 6 |  |
-| 723.15 | eutectoid: εPu -> Cu2Pu + δ'Pu | εPu: Pu 0.97; Cu2Pu: Pu 0.333; δ'Pu: Pu 1 | experimental | [1] Wang 2009; _cites This_ | Table 5, p. 5, row 3 |  |
-| 720.15 | eutectoid: εPu -> Cu2Pu + δ'Pu | εPu: Pu 0.98; Cu2Pu: Pu 0.333; δ'Pu: Pu 1 | model | [1] Wang 2009 | Table 5, p. 5, row 4 |  |
-| 704.15 | eutectoid: δ'Pu -> Cu2Pu + δPu | δ'Pu: Pu 0.995; Cu2Pu: Pu 0.333; δPu: Pu 1; δ′Pu: Pu 0.995 | model | [1] Wang 2009 | Table 5, p. 5, row 2 |  |
-| 698.15 | eutectoid: δ'Pu -> Cu2Pu + δPu | δ'Pu: Pu 1; Cu2Pu: Pu 0.333 | experimental | [1] Wang 2009; _cites This_ | Table 5, p. 5, row 1 |  |
+| 1202.15 | peritectic: L + Cu17Pu4 -> Cu6Pu | L: Pu 0.14; Cu17Pu4: Pu 0.191; Cu6Pu: Pu 0.143 | model | [1] Wang 2009 | Table 5, p. 5, row 12; `ORC-464QVOHQKO` |  |
+| 1199.15 | peritectic: L + Cu17Pu4 -> Cu6Pu | L: Pu 0.14; Cu17Pu4: Pu 0.191; Cu6Pu: Pu 0.143 | experimental | [1] Wang 2009; _cites This_ | Table 5, p. 5, row 11; `ORC-SZFGQTVIBR` |  |
+| 1179.15 | peritectic: Cu17Pu4 + L -> Cu4Pu | Cu17Pu4: Pu 0.191; L: Pu 0.25; Cu4Pu: Pu 0.2 | experimental | [1] Wang 2009; _cites This_ | Table 5, p. 5, row 13; `ORC-IFCM7SCSIW` |  |
+| 1174.15 | peritectic: Cu17Pu4 + L -> Cu4Pu | Cu17Pu4: Pu 0.191; L: Pu 0.265; Cu4Pu: Pu 0.2 | model | [1] Wang 2009 | Table 5, p. 5, row 14; `ORC-V2ITLETVTU` |  |
+| 1154.15 | eutectic: L -> (Cu) + Cu6Pu | L: Pu 0.09; (Cu): Pu 0; Cu6Pu: Pu 0.143 | experimental | [1] Wang 2009; _cites This_ | Table 5, p. 5, row 9; `ORC-U6DJG4X77I` |  |
+| 1149.15 | eutectic: L -> (Cu) + Cu6Pu | L: Pu 0.079; (Cu): Pu 0; Cu6Pu: Pu 0.143 | model | [1] Wang 2009 | Table 5, p. 5, row 10; `ORC-GISJCTZP2A` |  |
+| 1130.15 | eutectic: L -> Cu4Pu + Cu2Pu |  | model | [1] Wang 2009; _cites Kutaitsev 1967_ | p. 4; `ORC-AMWFUDXEXK.4c6ba9` | “The calculated temperature of this eutectic reaction is 857 °C, however, Rhinehammer et al. \[26\] reported this eutectic temperature to be 849 °C, and Kutaitsev et al. \[27\] gave an estimated value (857 °C).” |
+| 1130.15 | eutectic: L -> Cu4Pu + Cu2Pu | L: Pu 0.306; Cu4Pu: Pu 0.2; Cu2Pu: Pu 0.333 | model | [1] Wang 2009 | Table 5, p. 5, row 8; `ORC-YTL24IKTDN` |  |
+| 1122.15 | eutectic: L -> Cu4Pu + Cu2Pu |  | experimental | [1] Wang 2009; _cites This_ | p. 4; `ORC-AMWFUDXEXK.42d557` | “The calculated temperature of this eutectic reaction is 857 °C, however, Rhinehammer et al. \[26\] reported this eutectic temperature to be 849 °C, and Kutaitsev et al. \[27\] gave an estimated value (857 °C).” |
+| 1122.15 | eutectic: L -> Cu4Pu + Cu2Pu | L: Pu 0.295; Cu4Pu: Pu 0.2; Cu2Pu: Pu 0.333 | experimental | [1] Wang 2009; _cites This_ | Table 5, p. 5, row 7; `ORC-XTHMGHXWJO` |  |
+| 899.15 | eutectic: L -> Cu2Pu + εPu | L: Pu 0.94; Cu2Pu: Pu 0.333; εPu: Pu 0.97 | experimental | [1] Wang 2009; _cites This_ | Table 5, p. 5, row 5; `ORC-MIT6FWOCKH` |  |
+| 899.15 | eutectic: L -> Cu2Pu + εPu | L: Pu 0.94; Cu2Pu: Pu 0.333; εPu: Pu 0.955 | model | [1] Wang 2009 | Table 5, p. 5, row 6; `ORC-ZCKWDRDJGT` |  |
+| 723.15 | eutectoid: εPu -> Cu2Pu + δ'Pu | εPu: Pu 0.97; Cu2Pu: Pu 0.333; δ'Pu: Pu 1 | experimental | [1] Wang 2009; _cites This_ | Table 5, p. 5, row 3; `ORC-AKTSQCY3C3` |  |
+| 720.15 | eutectoid: εPu -> Cu2Pu + δ'Pu | εPu: Pu 0.98; Cu2Pu: Pu 0.333; δ'Pu: Pu 1 | model | [1] Wang 2009 | Table 5, p. 5, row 4; `ORC-55WDCAEZEH` |  |
+| 704.15 | eutectoid: δ'Pu -> Cu2Pu + δPu | δ'Pu: Pu 0.995; Cu2Pu: Pu 0.333; δPu: Pu 1; δ′Pu: Pu 0.995 | model | [1] Wang 2009 | Table 5, p. 5, row 2; `ORC-FVPO4RSO7Y` |  |
+| 698.15 | eutectoid: δ'Pu -> Cu2Pu + δPu | δ'Pu: Pu 1; Cu2Pu: Pu 0.333 | experimental | [1] Wang 2009; _cites This_ | Table 5, p. 5, row 1; `ORC-MWHLRVA3XL` |  |
 
 ## Sources
 
@@ -145,4 +145,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

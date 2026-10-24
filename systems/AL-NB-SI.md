@@ -28,11 +28,11 @@ Table: Crystal structure, Al–Nb–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 8.403 Å | 298.15 | Al2Nb3Si5; _alloy: Nb 0.3, Si 0.5_ | model | [1] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 11 |  |
-| Lattice a | 10.16 Å | 298.15 | Al3Nb10Si3; _alloy: Nb 0.625, Si 0.1875_ | model | [1] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 12 |  |
-| Lattice b | 4.901 Å | 298.15 | Al2Nb3Si5; _alloy: Nb 0.3, Si 0.5_ | model | [1] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 11 |  |
-| Lattice c | 8.794 Å | 298.15 | Al2Nb3Si5; _alloy: Nb 0.3, Si 0.5_ | model | [1] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 11 |  |
-| Lattice c | 5.08 Å | 298.15 | Al3Nb10Si3; _alloy: Nb 0.625, Si 0.1875_ | model | [1] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 12 |  |
+| Lattice a | 8.403 Å | 298.15 | Al2Nb3Si5; _alloy: Nb 0.3, Si 0.5_ | model | [1] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 11; `ORC-GFANGXXJ6H.cbc6c9` |  |
+| Lattice a | 10.16 Å | 298.15 | Al3Nb10Si3; _alloy: Nb 0.625, Si 0.1875_ | model | [1] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 12; `ORC-CQDG3W2G5R.a24acb` |  |
+| Lattice b | 4.901 Å | 298.15 | Al2Nb3Si5; _alloy: Nb 0.3, Si 0.5_ | model | [1] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 11; `ORC-GFANGXXJ6H.0e3726` |  |
+| Lattice c | 8.794 Å | 298.15 | Al2Nb3Si5; _alloy: Nb 0.3, Si 0.5_ | model | [1] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 11; `ORC-GFANGXXJ6H.71b8e2` |  |
+| Lattice c | 5.08 Å | 298.15 | Al3Nb10Si3; _alloy: Nb 0.625, Si 0.1875_ | model | [1] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 12; `ORC-CQDG3W2G5R.4eaffb` |  |
 
 ## Sources
 
@@ -75,4 +75,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -14,22 +14,22 @@ Table: Enthalpy of formation of ZrO2 reported in the literature (16)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -1100.92 kJ/mol (basis unstated) | monoclinic ZrO2 | 298.15 | experimental |  | [O–Zr](https://data.orchid-project.org/systems/O-ZR.html) | [1] Wang 2004; _cites Huber 1964_ [doi](https://doi.org/10.1021/j100792a052) | Table 3, p. 6, row 3 |  |
-| -1100.8 kJ/mol (basis unstated) | ZrO2 | 298.15 | experimental | Combustion calorimetry | [O–Zr](https://data.orchid-project.org/systems/O-ZR.html) | [2] CHEN 2004; _cites Huber 1964_ | Table 2, p. 3, row 2 |  |
-| -1100.6 kJ/mol (basis unstated) | ZrO2 | 298.15 | experimental | Combustion calorimetry | [O–Zr](https://data.orchid-project.org/systems/O-ZR.html) | [2] CHEN 2004; _cites Kornilov 1967_ | Table 2, p. 3, row 3 |  |
-| -1100.56 kJ/mol (basis unstated) | monoclinic ZrO2 | 298.15 | experimental |  | [O–Zr](https://data.orchid-project.org/systems/O-ZR.html) | [1] Wang 2004; _cites Kornilov 1967_ | Table 3, p. 6, row 4 |  |
-| -1094.1 kJ/mol (basis unstated) | ZrO2 | 298.15 | experimental | Combustion calorimetry | [O–Zr](https://data.orchid-project.org/systems/O-ZR.html) | [2] CHEN 2004; _cites Humphrey 1954_ | Table 2, p. 3, row 1 |  |
-| -366 kJ/mol-atom | ZrO2 | 298.15 | experimental |  | [O–Zr](https://data.orchid-project.org/systems/O-ZR.html) | [3] Arroyave 2002 | Table 2, p. 17, row 2 |  |
-| -1101 kJ/mol (basis unstated) | ZrO2 | 298.15 | model | Assessed | [O–Zr](https://data.orchid-project.org/systems/O-ZR.html) | [2] CHEN 2004; _cites Liang 2001_ | Table 2, p. 3, row 6 |  |
-| -1100.97 kJ/mol (basis unstated) | monoclinic ZrO2 | 298.15 | model |  | [O–Zr](https://data.orchid-project.org/systems/O-ZR.html) | [1] Wang 2004; _cites Liang 2001_ | Table 3, p. 6, row 8 |  |
-| -1100.7 kJ/mol (basis unstated) | ZrO2 | 298.15 | model | Assessed | [O–Zr](https://data.orchid-project.org/systems/O-ZR.html) | [2] CHEN 2004 | Table 2, p. 3, row 7 |  |
-| -1100.69 kJ/mol (basis unstated) | monoclinic ZrO2 | 298.15 | model |  | [O–Zr](https://data.orchid-project.org/systems/O-ZR.html) | [1] Wang 2004; _cites Chen 2004_ | Table 3, p. 6, row 10 |  |
-| -1100.6 kJ/mol (basis unstated) | ZrO2 | 298.15 | model | Assessed | [O–Zr](https://data.orchid-project.org/systems/O-ZR.html) | [2] CHEN 2004; _cites Ackermann 1975_ | Table 2, p. 3, row 4 |  |
-| -1100.57 kJ/mol (basis unstated) | monoclinic ZrO2 | 298.15 | model |  | [O–Zr](https://data.orchid-project.org/systems/O-ZR.html) | [1] Wang 2004; _cites Du 1992_ [doi](https://doi.org/10.1111/j.1151-2916.1992.tb04384.x) | Table 3, p. 6, row 7 |  |
-| -1100.31 kJ/mol (basis unstated) | monoclinic ZrO2 | 298.15 | model |  | [O–Zr](https://data.orchid-project.org/systems/O-ZR.html) | [1] Wang 2004; _cites Arroyave 2002_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900027-5) | Table 3, p. 6, row 9 |  |
-| -1097.46 kJ/mol (basis unstated) | ZrO2 | 298.15 | model | Assessed | [O–Zr](https://data.orchid-project.org/systems/O-ZR.html) | [2] CHEN 2004; _cites Chase 1985_ | Table 2, p. 3, row 5 |  |
-| -573 kJ/mol-atom | ZrO2 |  | model | Electronegativities | [O–Zr](https://data.orchid-project.org/systems/O-ZR.html) | [3] Arroyave 2002 | Table 2, p. 17, row 1 |  |
-| -1100.57 kJ/mol (basis unstated) | monoclinic ZrO2 | 298.15 | unspecified |  | [O–Zr](https://data.orchid-project.org/systems/O-ZR.html) | [1] Wang 2004; _cites Dinsdale 2003_ | Table 3, p. 6, row 11 |  |
+| -1100.92 kJ/mol (basis unstated) | monoclinic ZrO2 | 298.15 | experimental |  | [O–Zr](https://data.orchid-project.org/systems/O-ZR.html) | [1] Wang 2004; _cites Huber 1964_ [doi](https://doi.org/10.1021/j100792a052) | Table 3, p. 6, row 3; `ORC-O2N4Y6PU3L` |  |
+| -1100.8 kJ/mol (basis unstated) | ZrO2 | 298.15 | experimental | Combustion calorimetry | [O–Zr](https://data.orchid-project.org/systems/O-ZR.html) | [2] CHEN 2004; _cites Huber 1964_ | Table 2, p. 3, row 2; `ORC-HYAEJ3WDYQ` |  |
+| -1100.6 kJ/mol (basis unstated) | ZrO2 | 298.15 | experimental | Combustion calorimetry | [O–Zr](https://data.orchid-project.org/systems/O-ZR.html) | [2] CHEN 2004; _cites Kornilov 1967_ | Table 2, p. 3, row 3; `ORC-SNG6VNMBGO` |  |
+| -1100.56 kJ/mol (basis unstated) | monoclinic ZrO2 | 298.15 | experimental |  | [O–Zr](https://data.orchid-project.org/systems/O-ZR.html) | [1] Wang 2004; _cites Kornilov 1967_ | Table 3, p. 6, row 4; `ORC-BCTQCRDUEV` |  |
+| -1094.1 kJ/mol (basis unstated) | ZrO2 | 298.15 | experimental | Combustion calorimetry | [O–Zr](https://data.orchid-project.org/systems/O-ZR.html) | [2] CHEN 2004; _cites Humphrey 1954_ | Table 2, p. 3, row 1; `ORC-4I4UZK2EY5` |  |
+| -366 kJ/mol-atom | ZrO2 | 298.15 | experimental |  | [O–Zr](https://data.orchid-project.org/systems/O-ZR.html) | [3] Arroyave 2002 | Table 2, p. 17, row 2; `ORC-T64EA4SVSN` |  |
+| -1101 kJ/mol (basis unstated) | ZrO2 | 298.15 | model | Assessed | [O–Zr](https://data.orchid-project.org/systems/O-ZR.html) | [2] CHEN 2004; _cites Liang 2001_ | Table 2, p. 3, row 6; `ORC-VKOW7JMG67` |  |
+| -1100.97 kJ/mol (basis unstated) | monoclinic ZrO2 | 298.15 | model |  | [O–Zr](https://data.orchid-project.org/systems/O-ZR.html) | [1] Wang 2004; _cites Liang 2001_ | Table 3, p. 6, row 8; `ORC-F6NCSYDKXL.fbb5b1` |  |
+| -1100.7 kJ/mol (basis unstated) | ZrO2 | 298.15 | model | Assessed | [O–Zr](https://data.orchid-project.org/systems/O-ZR.html) | [2] CHEN 2004 | Table 2, p. 3, row 7; `ORC-TVSCV5S6Q3` |  |
+| -1100.69 kJ/mol (basis unstated) | monoclinic ZrO2 | 298.15 | model |  | [O–Zr](https://data.orchid-project.org/systems/O-ZR.html) | [1] Wang 2004; _cites Chen 2004_ | Table 3, p. 6, row 10; `ORC-E5CPA7HYOF.222153` |  |
+| -1100.6 kJ/mol (basis unstated) | ZrO2 | 298.15 | model | Assessed | [O–Zr](https://data.orchid-project.org/systems/O-ZR.html) | [2] CHEN 2004; _cites Ackermann 1975_ | Table 2, p. 3, row 4; `ORC-UIQ7XPTRO2` |  |
+| -1100.57 kJ/mol (basis unstated) | monoclinic ZrO2 | 298.15 | model |  | [O–Zr](https://data.orchid-project.org/systems/O-ZR.html) | [1] Wang 2004; _cites Du 1992_ [doi](https://doi.org/10.1111/j.1151-2916.1992.tb04384.x) | Table 3, p. 6, row 7; `ORC-WVWMHM2MNK.d74e97` |  |
+| -1100.31 kJ/mol (basis unstated) | monoclinic ZrO2 | 298.15 | model |  | [O–Zr](https://data.orchid-project.org/systems/O-ZR.html) | [1] Wang 2004; _cites Arroyave 2002_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900027-5) | Table 3, p. 6, row 9; `ORC-GJPSMMKMUH.3afd39` |  |
+| -1097.46 kJ/mol (basis unstated) | ZrO2 | 298.15 | model | Assessed | [O–Zr](https://data.orchid-project.org/systems/O-ZR.html) | [2] CHEN 2004; _cites Chase 1985_ | Table 2, p. 3, row 5; `ORC-KUB2D3A4PC` |  |
+| -573 kJ/mol-atom | ZrO2 |  | model | Electronegativities | [O–Zr](https://data.orchid-project.org/systems/O-ZR.html) | [3] Arroyave 2002 | Table 2, p. 17, row 1; `ORC-UT4GG4A3ZU` |  |
+| -1100.57 kJ/mol (basis unstated) | monoclinic ZrO2 | 298.15 | unspecified |  | [O–Zr](https://data.orchid-project.org/systems/O-ZR.html) | [1] Wang 2004; _cites Dinsdale 2003_ | Table 3, p. 6, row 11; `ORC-XPXHLUS742.b1fdcc` |  |
 
 ### Uncertainty budget
 
@@ -122,4 +122,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -90,42 +90,42 @@ Table: Invariant reactions reported in the literature for the Fe–Mo system (36
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1885 | peritectic: liquid + (Mo) \<-> σ | liquid: Mo 0.4175; (Mo): Mo 0.7434; σ: Mo 0.5548 | model | [1] Zinkevich 2002; _cites Andersson 1988_ [doi](https://doi.org/10.1016/0364-5916%2888%2990025-9) | Table 3, p. 4, row 7 |  |
-| 1885 | L + (Mo) ⇌ σ | L: Mo 0.406; (Mo): Mo 0.734; σ: Mo 0.54 | unspecified | [2] Rajkumar 2014 | Table 2, p. 3, row 5 |  |
-| 1883 | peritectic: liquid + (Mo) \<-> σ | liquid: Mo 0.4; (Mo): Mo 0.74; σ: Mo 0.536 | experimental | [1] Zinkevich 2002; _cites Fernandez-Guillermet 1982_ | Table 3, p. 4, row 6 |  |
-| 1883 | L + (Mo) ⇌ σ | L: Mo 0.394; (Mo): Mo 0.752; σ: Mo 0.542 | experimental | [2] Rajkumar 2014; _cites Ueshima 1979_ | Table 2, p. 3, row 4 |  |
-| 1815 | L + (Mo) ⇌ σ |  | experimental | [2] Rajkumar 2014; _cites Sykes 1926_ | Table 2, p. 3, row 1 |  |
-| 1815 | L + (Mo) ⇌ σ |  | experimental | [2] Rajkumar 2014; _cites Sykes 1929_ | Table 2, p. 3, row 2 |  |
-| 1815 | L + (Mo) ⇌ σ |  | experimental | [2] Rajkumar 2014; _cites Takei 1929_ | Table 2, p. 3, row 3 |  |
-| 1813 | peritectic: liquid + (Mo) \<-> σ | liquid: Mo 0.38; (Mo): Mo 0.78; σ: Mo 0.49 | experimental | [1] Zinkevich 2002; _cites Brewer 1980_ | Table 3, p. 4, row 5 |  |
-| 1771 | peritectic: liquid + σ \<-> R | liquid: Mo 0.2985; σ: Mo 0.429; R: Mo 0.3889 | model | [1] Zinkevich 2002; _cites Andersson 1988_ [doi](https://doi.org/10.1016/0364-5916%2888%2990025-9) | Table 3, p. 4, row 4 |  |
-| 1761 | L + σ ⇌ R | L: Mo 0.28 | experimental | [2] Rajkumar 2014; _cites Gibson 1961_ | Table 2, p. 3, row 6 |  |
-| 1761 | peritectic: liquid + σ \<-> R | liquid: Mo 0.275; σ: Mo 0.42; R: Mo 0.374 | experimental | [1] Zinkevich 2002; _cites Fernandez-Guillermet 1982_ | Table 3, p. 4, row 3 |  |
-| 1760 | L + σ ⇌ R | L: Mo 0.293; σ: Mo 0.479; R: Mo 0.361 | unspecified | [2] Rajkumar 2014 | Table 2, p. 3, row 7 |  |
-| 1726 | peritectic: liquid + R \<-> bccFe | liquid: Mo 0.2468; R: Mo 0.3696; bccFe: Mo 0.2502 | model | [1] Zinkevich 2002; _cites Andersson 1988_ [doi](https://doi.org/10.1016/0364-5916%2888%2990025-9) | Table 3, p. 4, row 2 |  |
-| 1722 | L + R ⇌ (αFe) |  | experimental | [2] Rajkumar 2014; _cites Gibson 1961_ | Table 2, p. 3, row 8 |  |
-| 1722 | peritectic: liquid + R \<-> bccFe | liquid: Mo 0.21; bccFe: Mo 0.22 | experimental | [1] Zinkevich 2002; _cites Gibson 1961_ | Table 3, p. 4, row 1 |  |
-| 1721 | L + R ⇌ (αFe) | L: Mo 0.237; R: Mo 0.358; (αFe): Mo 0.232 | unspecified | [2] Rajkumar 2014 | Table 2, p. 3, row 9 |  |
-| 1645 | R + σ ⇌ μ | R: Mo 0.365; σ: Mo 0.499; μ: Mo 0.411 | unspecified | [2] Rajkumar 2014 | Table 2, p. 3, row 11 |  |
-| 1643 | R + σ ⇌ μ |  | experimental | [2] Rajkumar 2014; _cites Sinha 1967_ | Table 2, p. 3, row 10 |  |
-| 1643 | peritectoid: R + σ \<-> μ | R: Mo 0.37; σ: Mo 0.48; μ: Mo 0.42 | experimental | [1] Zinkevich 2002; _cites Fernandez-Guillermet 1982_ | Table 3, p. 4, row 8 |  |
-| 1641 | peritectoid: R + σ \<-> μ | R: Mo 0.385; σ: Mo 0.4507; μ: Mo 0.414 | model | [1] Zinkevich 2002; _cites Andersson 1988_ [doi](https://doi.org/10.1016/0364-5916%2888%2990025-9) | Table 3, p. 4, row 9 |  |
-| 1514 | σ ⇌ μ + (Mo) | σ: Mo 0.555; μ: Mo 0.443; (Mo): Mo 0.942 | unspecified | [2] Rajkumar 2014 | Table 2, p. 3, row 15 |  |
-| 1513 | σ ⇌ μ + (Mo) |  | experimental | [2] Rajkumar 2014 | Table 2, p. 3, row 14 |  |
-| 1513 | eutectoid: σ \<-> (Mo) + μ | σ: Mo 0.5654; (Mo): Mo 0.9333; μ: Mo 0.4338 | model | [1] Zinkevich 2002; _cites Andersson 1988_ [doi](https://doi.org/10.1016/0364-5916%2888%2990025-9) | Table 3, p. 4, row 13 |  |
-| 1508 | eutectoid: σ \<-> (Mo) + μ | σ: Mo 0.56; (Mo): Mo 0.94; μ: Mo 0.43 | experimental | [1] Zinkevich 2002; _cites Brewer 1980_ | Table 3, p. 4, row 12 |  |
-| 1508 | σ ⇌ μ + (Mo) |  | model | [2] Rajkumar 2014; _cites Brewer 1980_ | Table 2, p. 3, row 13 |  |
-| 1507 | σ ⇌ μ + (Mo) |  | experimental | [2] Rajkumar 2014; _cites Heijwegen 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990012-5) | Table 2, p. 3, row 12 |  |
-| 1473 | R ⇌ μ + (αFe) |  | experimental | [2] Rajkumar 2014; _cites Heijwegen 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990012-5) | Table 2, p. 3, row 16 |  |
-| 1473 | eutectoid: R \<-> bccFe + μ | R: Mo 0.35; bccFe: Mo 0.13; μ: Mo 0.385 | experimental | [1] Zinkevich 2002; _cites Brewer 1980_ | Table 3, p. 4, row 10 |  |
-| 1473 | R ⇌ μ + (αFe) | R: Mo 0.361; μ: Mo 0.392; (αFe): Mo 0.132 | unspecified | [2] Rajkumar 2014 | Table 2, p. 3, row 18 |  |
-| 1473 | R ⇌ μ + (αFe) |  | experimental | [2] Rajkumar 2014; _cites Takayamaa 1981_ | Table 2, p. 3, row 17 |  |
-| 1472 | eutectoid: R \<-> bccFe + μ | R: Mo 0.3307; bccFe: Mo 0.1391; μ: Mo 0.3872 | model | [1] Zinkevich 2002; _cites Andersson 1988_ [doi](https://doi.org/10.1016/0364-5916%2888%2990025-9) | Table 3, p. 4, row 11 |  |
-| 1223 | peritectoid: bccFe + μ \<-> λ | bccFe: Mo 0.06; μ: Mo 0.385 | experimental | [1] Zinkevich 2002; _cites Brewer 1980_ | Table 3, p. 4, row 14 |  |
-| 1223 | (αFe) + μ ⇌ λ |  | experimental | [2] Rajkumar 2014; _cites Sinha 1967_ | Table 2, p. 3, row 20 |  |
-| 1200 | (αFe) + μ ⇌ λ | (αFe): Mo 0.057; μ: Mo 0.417; λ: Mo 0.337 | unspecified | [2] Rajkumar 2014 | Table 2, p. 3, row 21 |  |
-| 1173 | peritectoid: bccFe + μ \<-> λ | bccFe: Mo 0.052; μ: Mo 0.3947 | model | [1] Zinkevich 2002; _cites Andersson 1988_ [doi](https://doi.org/10.1016/0364-5916%2888%2990025-9) | Table 3, p. 4, row 15 |  |
-| 1123 | (αFe) + μ ⇌ λ |  | experimental | [2] Rajkumar 2014; _cites Takayamaa 1981_ | Table 2, p. 3, row 19 |  |
+| 1885 | peritectic: liquid + (Mo) \<-> σ | liquid: Mo 0.4175; (Mo): Mo 0.7434; σ: Mo 0.5548 | model | [1] Zinkevich 2002; _cites Andersson 1988_ [doi](https://doi.org/10.1016/0364-5916%2888%2990025-9) | Table 3, p. 4, row 7; `ORC-EBAIRCFY3F` |  |
+| 1885 | L + (Mo) ⇌ σ | L: Mo 0.406; (Mo): Mo 0.734; σ: Mo 0.54 | unspecified | [2] Rajkumar 2014 | Table 2, p. 3, row 5; `ORC-L7QH57E5OF` |  |
+| 1883 | peritectic: liquid + (Mo) \<-> σ | liquid: Mo 0.4; (Mo): Mo 0.74; σ: Mo 0.536 | experimental | [1] Zinkevich 2002; _cites Fernandez-Guillermet 1982_ | Table 3, p. 4, row 6; `ORC-CHBSXY4RSJ` |  |
+| 1883 | L + (Mo) ⇌ σ | L: Mo 0.394; (Mo): Mo 0.752; σ: Mo 0.542 | experimental | [2] Rajkumar 2014; _cites Ueshima 1979_ | Table 2, p. 3, row 4; `ORC-X354C5P6EJ` |  |
+| 1815 | L + (Mo) ⇌ σ |  | experimental | [2] Rajkumar 2014; _cites Sykes 1926_ | Table 2, p. 3, row 1; `ORC-5F6HGTAEEY` |  |
+| 1815 | L + (Mo) ⇌ σ |  | experimental | [2] Rajkumar 2014; _cites Sykes 1929_ | Table 2, p. 3, row 2; `ORC-G76RYR5HJ3` |  |
+| 1815 | L + (Mo) ⇌ σ |  | experimental | [2] Rajkumar 2014; _cites Takei 1929_ | Table 2, p. 3, row 3; `ORC-KYWN3NVJT7` |  |
+| 1813 | peritectic: liquid + (Mo) \<-> σ | liquid: Mo 0.38; (Mo): Mo 0.78; σ: Mo 0.49 | experimental | [1] Zinkevich 2002; _cites Brewer 1980_ | Table 3, p. 4, row 5; `ORC-OEBW3P5O4P` |  |
+| 1771 | peritectic: liquid + σ \<-> R | liquid: Mo 0.2985; σ: Mo 0.429; R: Mo 0.3889 | model | [1] Zinkevich 2002; _cites Andersson 1988_ [doi](https://doi.org/10.1016/0364-5916%2888%2990025-9) | Table 3, p. 4, row 4; `ORC-OYLLN5LHAU` |  |
+| 1761 | L + σ ⇌ R | L: Mo 0.28 | experimental | [2] Rajkumar 2014; _cites Gibson 1961_ | Table 2, p. 3, row 6; `ORC-F3MJ6LGFPV` |  |
+| 1761 | peritectic: liquid + σ \<-> R | liquid: Mo 0.275; σ: Mo 0.42; R: Mo 0.374 | experimental | [1] Zinkevich 2002; _cites Fernandez-Guillermet 1982_ | Table 3, p. 4, row 3; `ORC-LVXOU4WHAV` |  |
+| 1760 | L + σ ⇌ R | L: Mo 0.293; σ: Mo 0.479; R: Mo 0.361 | unspecified | [2] Rajkumar 2014 | Table 2, p. 3, row 7; `ORC-VHUUNDC4X6` |  |
+| 1726 | peritectic: liquid + R \<-> bccFe | liquid: Mo 0.2468; R: Mo 0.3696; bccFe: Mo 0.2502 | model | [1] Zinkevich 2002; _cites Andersson 1988_ [doi](https://doi.org/10.1016/0364-5916%2888%2990025-9) | Table 3, p. 4, row 2; `ORC-JADJBQK6CI` |  |
+| 1722 | L + R ⇌ (αFe) |  | experimental | [2] Rajkumar 2014; _cites Gibson 1961_ | Table 2, p. 3, row 8; `ORC-BQGZWTQ34K` |  |
+| 1722 | peritectic: liquid + R \<-> bccFe | liquid: Mo 0.21; bccFe: Mo 0.22 | experimental | [1] Zinkevich 2002; _cites Gibson 1961_ | Table 3, p. 4, row 1; `ORC-MHCWOCN3NR` |  |
+| 1721 | L + R ⇌ (αFe) | L: Mo 0.237; R: Mo 0.358; (αFe): Mo 0.232 | unspecified | [2] Rajkumar 2014 | Table 2, p. 3, row 9; `ORC-IVSK6LYT3Y` |  |
+| 1645 | R + σ ⇌ μ | R: Mo 0.365; σ: Mo 0.499; μ: Mo 0.411 | unspecified | [2] Rajkumar 2014 | Table 2, p. 3, row 11; `ORC-6CDKMDNT5S` |  |
+| 1643 | R + σ ⇌ μ |  | experimental | [2] Rajkumar 2014; _cites Sinha 1967_ | Table 2, p. 3, row 10; `ORC-T2R4JDA6PO` |  |
+| 1643 | peritectoid: R + σ \<-> μ | R: Mo 0.37; σ: Mo 0.48; μ: Mo 0.42 | experimental | [1] Zinkevich 2002; _cites Fernandez-Guillermet 1982_ | Table 3, p. 4, row 8; `ORC-ZAGPBOQFS4` |  |
+| 1641 | peritectoid: R + σ \<-> μ | R: Mo 0.385; σ: Mo 0.4507; μ: Mo 0.414 | model | [1] Zinkevich 2002; _cites Andersson 1988_ [doi](https://doi.org/10.1016/0364-5916%2888%2990025-9) | Table 3, p. 4, row 9; `ORC-5AJWIUOQH6` |  |
+| 1514 | σ ⇌ μ + (Mo) | σ: Mo 0.555; μ: Mo 0.443; (Mo): Mo 0.942 | unspecified | [2] Rajkumar 2014 | Table 2, p. 3, row 15; `ORC-L2RAHFRPHR` |  |
+| 1513 | σ ⇌ μ + (Mo) |  | experimental | [2] Rajkumar 2014 | Table 2, p. 3, row 14; `ORC-UBZFMUQYY5` |  |
+| 1513 | eutectoid: σ \<-> (Mo) + μ | σ: Mo 0.5654; (Mo): Mo 0.9333; μ: Mo 0.4338 | model | [1] Zinkevich 2002; _cites Andersson 1988_ [doi](https://doi.org/10.1016/0364-5916%2888%2990025-9) | Table 3, p. 4, row 13; `ORC-UYIGQHAZSY` |  |
+| 1508 | eutectoid: σ \<-> (Mo) + μ | σ: Mo 0.56; (Mo): Mo 0.94; μ: Mo 0.43 | experimental | [1] Zinkevich 2002; _cites Brewer 1980_ | Table 3, p. 4, row 12; `ORC-4HAHND4XPC` |  |
+| 1508 | σ ⇌ μ + (Mo) |  | model | [2] Rajkumar 2014; _cites Brewer 1980_ | Table 2, p. 3, row 13; `ORC-TXJDO7TCPV` |  |
+| 1507 | σ ⇌ μ + (Mo) |  | experimental | [2] Rajkumar 2014; _cites Heijwegen 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990012-5) | Table 2, p. 3, row 12; `ORC-D3CMR6E7DF` |  |
+| 1473 | R ⇌ μ + (αFe) |  | experimental | [2] Rajkumar 2014; _cites Heijwegen 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990012-5) | Table 2, p. 3, row 16; `ORC-33V4QKFWNJ` |  |
+| 1473 | eutectoid: R \<-> bccFe + μ | R: Mo 0.35; bccFe: Mo 0.13; μ: Mo 0.385 | experimental | [1] Zinkevich 2002; _cites Brewer 1980_ | Table 3, p. 4, row 10; `ORC-3AURKE6LT2` |  |
+| 1473 | R ⇌ μ + (αFe) | R: Mo 0.361; μ: Mo 0.392; (αFe): Mo 0.132 | unspecified | [2] Rajkumar 2014 | Table 2, p. 3, row 18; `ORC-4RJBHCMWZX` |  |
+| 1473 | R ⇌ μ + (αFe) |  | experimental | [2] Rajkumar 2014; _cites Takayamaa 1981_ | Table 2, p. 3, row 17; `ORC-BU3T2XMOTY` |  |
+| 1472 | eutectoid: R \<-> bccFe + μ | R: Mo 0.3307; bccFe: Mo 0.1391; μ: Mo 0.3872 | model | [1] Zinkevich 2002; _cites Andersson 1988_ [doi](https://doi.org/10.1016/0364-5916%2888%2990025-9) | Table 3, p. 4, row 11; `ORC-MKH43YUP66` |  |
+| 1223 | peritectoid: bccFe + μ \<-> λ | bccFe: Mo 0.06; μ: Mo 0.385 | experimental | [1] Zinkevich 2002; _cites Brewer 1980_ | Table 3, p. 4, row 14; `ORC-F4W3BKWPTH` |  |
+| 1223 | (αFe) + μ ⇌ λ |  | experimental | [2] Rajkumar 2014; _cites Sinha 1967_ | Table 2, p. 3, row 20; `ORC-FHZPSSGNA6` |  |
+| 1200 | (αFe) + μ ⇌ λ | (αFe): Mo 0.057; μ: Mo 0.417; λ: Mo 0.337 | unspecified | [2] Rajkumar 2014 | Table 2, p. 3, row 21; `ORC-VUWYEFXWP4` |  |
+| 1173 | peritectoid: bccFe + μ \<-> λ | bccFe: Mo 0.052; μ: Mo 0.3947 | model | [1] Zinkevich 2002; _cites Andersson 1988_ [doi](https://doi.org/10.1016/0364-5916%2888%2990025-9) | Table 3, p. 4, row 15; `ORC-RDNUVQDGEC` |  |
+| 1123 | (αFe) + μ ⇌ λ |  | experimental | [2] Rajkumar 2014; _cites Takayamaa 1981_ | Table 2, p. 3, row 19; `ORC-KUP2HKOD3N` |  |
 
 ## Formation enthalpies
 
@@ -135,18 +135,18 @@ Table: Enthalpies of formation, Fe–Mo system (12)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Fe2Mo (λ) |  | -1.534 kJ/mol-atom | 298.15 | DFT |  |  | [2] Rajkumar 2014; _cites Mihlakovic_ | Table 8, p. 6, row 1 |  |
-| Fe2Mo (λ) | [Fe2Mo](https://data.orchid-project.org/compounds/Fe2Mo.html) | -0.715 kJ/mol-atom | 298.15 | model | -0.183 (mp-aaackivq) | -0.609 (oqmd-27164) | [2] Rajkumar 2014 | Table 8, p. 6, row 3 |  |
-| Fe2Mo (λ) |  | -0.714 kJ/mol-atom | 298.15 | DFT |  |  | [2] Rajkumar 2014 | Table 8, p. 6, row 2 |  |
-| Fe3Mo2 (R) |  | 2.297 kJ/mol-atom | 298.15 | DFT |  |  | [2] Rajkumar 2014; _cites Mihlakovic_ | Table 8, p. 6, row 6 |  |
-| Fe3Mo2 (R) |  | 3.773 kJ/mol-atom | 298.15 | DFT |  |  | [2] Rajkumar 2014 | Table 8, p. 6, row 7 |  |
-| Fe3Mo2 (R) |  | 4.037 kJ/mol-atom | 298.15 | model |  |  | [2] Rajkumar 2014 | Table 8, p. 6, row 8 |  |
-| Fe7Mo6 (μ) |  | -1.418 kJ/mol-atom | 298.15 | DFT |  |  | [2] Rajkumar 2014; _cites Mihlakovic_ | Table 8, p. 6, row 11 |  |
-| Fe7Mo6 (μ) | [Fe7Mo6](https://data.orchid-project.org/compounds/Fe7Mo6.html) | -0.352 kJ/mol-atom | 298.15 | model | 0.281 (mp-aaabgkpm) | -0.13 (oqmd-30226) | [2] Rajkumar 2014 | Table 8, p. 6, row 13 |  |
-| Fe7Mo6 (μ) |  | -0.344 kJ/mol-atom | 298.15 | DFT |  |  | [2] Rajkumar 2014 | Table 8, p. 6, row 12 |  |
-| FeMo (σ) | [FeMo](https://data.orchid-project.org/compounds/FeMo.html) | 4.218 kJ/mol-atom | 298.15 | model |  | 8.387 (oqmd-2084776) | [2] Rajkumar 2014 | Table 8, p. 6, row 18 |  |
-| FeMo (σ) |  | 4.34 kJ/mol-atom | 298.15 | DFT |  |  | [2] Rajkumar 2014 | Table 8, p. 6, row 17 |  |
-| FeMo (σ) |  | 4.998 kJ/mol-atom | 298.15 | DFT |  |  | [2] Rajkumar 2014; _cites Mihlakovic_ | Table 8, p. 6, row 16 |  |
+| Fe2Mo (λ) |  | -1.534 kJ/mol-atom | 298.15 | DFT |  |  | [2] Rajkumar 2014; _cites Mihlakovic_ | Table 8, p. 6, row 1; `ORC-WN2HCDL4R2` |  |
+| Fe2Mo (λ) | [Fe2Mo](https://data.orchid-project.org/compounds/Fe2Mo.html) | -0.715 kJ/mol-atom | 298.15 | model | -0.183 (mp-aaackivq) | -0.609 (oqmd-27164) | [2] Rajkumar 2014 | Table 8, p. 6, row 3; `ORC-R2C7AVYDRU` |  |
+| Fe2Mo (λ) |  | -0.714 kJ/mol-atom | 298.15 | DFT |  |  | [2] Rajkumar 2014 | Table 8, p. 6, row 2; `ORC-UVWV2QWU4Z` |  |
+| Fe3Mo2 (R) |  | 2.297 kJ/mol-atom | 298.15 | DFT |  |  | [2] Rajkumar 2014; _cites Mihlakovic_ | Table 8, p. 6, row 6; `ORC-GELBUTTY55` |  |
+| Fe3Mo2 (R) |  | 3.773 kJ/mol-atom | 298.15 | DFT |  |  | [2] Rajkumar 2014 | Table 8, p. 6, row 7; `ORC-NAVPSVWKM5` |  |
+| Fe3Mo2 (R) |  | 4.037 kJ/mol-atom | 298.15 | model |  |  | [2] Rajkumar 2014 | Table 8, p. 6, row 8; `ORC-2KTR6E7IPM` |  |
+| Fe7Mo6 (μ) |  | -1.418 kJ/mol-atom | 298.15 | DFT |  |  | [2] Rajkumar 2014; _cites Mihlakovic_ | Table 8, p. 6, row 11; `ORC-PP6MZW2RGY` |  |
+| Fe7Mo6 (μ) | [Fe7Mo6](https://data.orchid-project.org/compounds/Fe7Mo6.html) | -0.352 kJ/mol-atom | 298.15 | model | 0.281 (mp-aaabgkpm) | -0.13 (oqmd-30226) | [2] Rajkumar 2014 | Table 8, p. 6, row 13; `ORC-NXQXMGYGSD` |  |
+| Fe7Mo6 (μ) |  | -0.344 kJ/mol-atom | 298.15 | DFT |  |  | [2] Rajkumar 2014 | Table 8, p. 6, row 12; `ORC-NAKZSUVGBI` |  |
+| FeMo (σ) | [FeMo](https://data.orchid-project.org/compounds/FeMo.html) | 4.218 kJ/mol-atom | 298.15 | model |  | 8.387 (oqmd-2084776) | [2] Rajkumar 2014 | Table 8, p. 6, row 18; `ORC-BQSXP6OGSA` |  |
+| FeMo (σ) |  | 4.34 kJ/mol-atom | 298.15 | DFT |  |  | [2] Rajkumar 2014 | Table 8, p. 6, row 17; `ORC-WIKUZCLLIL` |  |
+| FeMo (σ) |  | 4.998 kJ/mol-atom | 298.15 | DFT |  |  | [2] Rajkumar 2014; _cites Mihlakovic_ | Table 8, p. 6, row 16; `ORC-3ATQS4CSR5` |  |
 
 ## Other properties
 
@@ -156,14 +156,14 @@ Table: Phase transition, Fe–Mo system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 585 K | 585 | k -> (aFe) + l | model | [2] Rajkumar 2014; _cites Guillermet 1982_ [doi](https://doi.org/10.1007/bf02869315) | p. 1 | “It should be noted that computed phase diagram using their Gibbs energy functions shows an invariant reaction k ðaFeÞ þ l at 585 K, for which no experimental evidence exists.” |
-| Phase transition | 1718 K | 1718 | other: liquid \<-> bccFe; _liquid: Mo 0.202; bccFe: Mo 0.202_ | experimental | [1] Zinkevich 2002; _cites Gibson 1961_ | Table 3, p. 4, row 16 |  |
-| Phase transition | 1721 K | 1721 | other | experimental | [3] Guillermet 1982 | p. 5 | “The temperature minimum on the bee liquidus falls at about 1721 K according to the data obtained in Gibson's DTA study (23).” |
-| Phase transition | 1726 K | 1726 | other: liquid \<-> bccFe; _liquid: Mo 0.2396; bccFe: Mo 0.2396_ | model | [1] Zinkevich 2002; _cites Andersson 1988_ [doi](https://doi.org/10.1016/0364-5916%2888%2990025-9) | Table 3, p. 4, row 17 |  |
-| Phase transition | 2823 K | 2823 |  | experimental | [2] Rajkumar 2014 | p. 4 | “As shown in the Fig. 2(a), three such cycles of melting were performed on the same sample and the spike temperatures were 2826 K, 2823 K and 2864 K, respectively.” |
-| Phase transition | 2826 K | 2826 |  | experimental | [2] Rajkumar 2014 | p. 4 | “As shown in the Fig. 2(a), three such cycles of melting were performed on the same sample and the spike temperatures were 2826 K, 2823 K and 2864 K, respectively.” |
-| Phase transition | 2864 K | 2864 |  | experimental | [2] Rajkumar 2014 | p. 4 | “As shown in the Fig. 2(a), three such cycles of melting were performed on the same sample and the spike temperatures were 2826 K, 2823 K and 2864 K, respectively.” |
-| Phase transition | 2896 K | 2896 |  | experimental | [2] Rajkumar 2014 | p. 4 | “This is 32 K lower than the accepted melting point of Mo (2896 K).” |
+| Phase transition | 585 K | 585 | k -> (aFe) + l | model | [2] Rajkumar 2014; _cites Guillermet 1982_ [doi](https://doi.org/10.1007/bf02869315) | p. 1; `ORC-XLZF5KRGWL` | “It should be noted that computed phase diagram using their Gibbs energy functions shows an invariant reaction k ðaFeÞ þ l at 585 K, for which no experimental evidence exists.” |
+| Phase transition | 1718 K | 1718 | other: liquid \<-> bccFe; _liquid: Mo 0.202; bccFe: Mo 0.202_ | experimental | [1] Zinkevich 2002; _cites Gibson 1961_ | Table 3, p. 4, row 16; `ORC-IVMASPJDJP` |  |
+| Phase transition | 1721 K | 1721 | other | experimental | [3] Guillermet 1982 | p. 5; `ORC-QF7WVVEEDA` | “The temperature minimum on the bee liquidus falls at about 1721 K according to the data obtained in Gibson's DTA study (23).” |
+| Phase transition | 1726 K | 1726 | other: liquid \<-> bccFe; _liquid: Mo 0.2396; bccFe: Mo 0.2396_ | model | [1] Zinkevich 2002; _cites Andersson 1988_ [doi](https://doi.org/10.1016/0364-5916%2888%2990025-9) | Table 3, p. 4, row 17; `ORC-YW6G4OKVRG` |  |
+| Phase transition | 2823 K | 2823 |  | experimental | [2] Rajkumar 2014 | p. 4; `ORC-T7FQPZGVVV.1e95fc` | “As shown in the Fig. 2(a), three such cycles of melting were performed on the same sample and the spike temperatures were 2826 K, 2823 K and 2864 K, respectively.” |
+| Phase transition | 2826 K | 2826 |  | experimental | [2] Rajkumar 2014 | p. 4; `ORC-T7FQPZGVVV.8db2bb` | “As shown in the Fig. 2(a), three such cycles of melting were performed on the same sample and the spike temperatures were 2826 K, 2823 K and 2864 K, respectively.” |
+| Phase transition | 2864 K | 2864 |  | experimental | [2] Rajkumar 2014 | p. 4; `ORC-T7FQPZGVVV.4614e4` | “As shown in the Fig. 2(a), three such cycles of melting were performed on the same sample and the spike temperatures were 2826 K, 2823 K and 2864 K, respectively.” |
+| Phase transition | 2896 K | 2896 |  | experimental | [2] Rajkumar 2014 | p. 4; `ORC-QD2KAG5KEX` | “This is 32 K lower than the accepted melting point of Mo (2896 K).” |
 
 ### Heat capacity / entropy / enthalpy (28)
 
@@ -171,34 +171,34 @@ Table: Heat capacity / entropy / enthalpy, Fe–Mo system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Heat capacity; _printed: Cp_Mo^bcc (2)_ | 27.443 J/mol-atom/K | 800 | bcc | experimental | [3] Guillermet 1982; _cites ref. 13_ | Table IV, p. 12, row 2 |  |
-| Heat capacity; _printed: Cp_Fe^fcc (1)_ | 30.671 J/mol-atom/K | 800 | fcc | experimental | [3] Guillermet 1982 | Table IV, p. 12, row 1 |  |
-| Heat capacity; _printed: Measured Cp^μ (4)_ | 28.692 J/mol-atom/K | 800 | μ; _alloy: Fe 0.605, Mo 0.395_ | experimental | [3] Guillermet 1982 | Table IV, p. 12, row 4 |  |
-| Heat capacity; _printed: Calculated Cp^μ (3)_ | 29.396 J/mol-atom/K | 800 | μ; _alloy: Fe 0.605, Mo 0.395_ | model | [3] Guillermet 1982 | Table IV, p. 12, row 3 |  |
-| Heat capacity; _printed: Cp_Mo^bcc (2)_ | 27.891 J/mol-atom/K | 900 | bcc | experimental | [3] Guillermet 1982; _cites ref. 13_ | Table IV, p. 12, row 6 |  |
-| Heat capacity; _printed: Cp_Fe^fcc (1)_ | 31.506 J/mol-atom/K | 900 | fcc | experimental | [3] Guillermet 1982 | Table IV, p. 12, row 5 |  |
-| Heat capacity; _printed: Calculated Cp^μ (3)_ | 30.078 J/mol-atom/K | 900 | μ; _alloy: Fe 0.605, Mo 0.395_ | model | [3] Guillermet 1982 | Table IV, p. 12, row 7 |  |
-| Heat capacity; _printed: Measured Cp^μ (4)_ | 29.76 J/mol-atom/K | 900 | μ; _alloy: Fe 0.605, Mo 0.395_ | experimental | [3] Guillermet 1982 | Table IV, p. 12, row 8 |  |
-| Heat capacity; _printed: Cp_Fe^fcc (1)_ | 32.341 J/mol-atom/K | 1000 | fcc | experimental | [3] Guillermet 1982 | Table IV, p. 12, row 9 |  |
-| Heat capacity; _printed: Measured Cp^μ (4)_ | 30.828 J/mol-atom/K | 1000 | μ; _alloy: Fe 0.605, Mo 0.395_ | experimental | [3] Guillermet 1982 | Table IV, p. 12, row 12 |  |
-| Heat capacity; _printed: Calculated Cp^μ (3)_ | 30.8 J/mol-atom/K | 1000 | μ; _alloy: Fe 0.605, Mo 0.395_ | model | [3] Guillermet 1982 | Table IV, p. 12, row 11 |  |
-| Heat capacity; _printed: Cp_Mo^bcc (2)_ | 28.987 J/mol-atom/K | 1100 | bcc | experimental | [3] Guillermet 1982; _cites ref. 13_ | Table IV, p. 12, row 14 |  |
-| Heat capacity; _printed: Cp_Fe^fcc (1)_ | 33.176 J/mol-atom/K | 1100 | fcc | experimental | [3] Guillermet 1982 | Table IV, p. 12, row 13 |  |
-| Heat capacity; _printed: Measured Cp^μ (4)_ | 31.896 J/mol-atom/K | 1100 | μ; _alloy: Fe 0.605, Mo 0.395_ | experimental | [3] Guillermet 1982 | Table IV, p. 12, row 16 |  |
-| Heat capacity; _printed: Calculated Cp^μ (3)_ | 31.521 J/mol-atom/K | 1100 | μ; _alloy: Fe 0.605, Mo 0.395_ | model | [3] Guillermet 1982 | Table IV, p. 12, row 15 |  |
-| Heat capacity; _printed: Cp_Mo^bcc (2)_ | 29.577 J/mol-atom/K | 1200 | bcc | experimental | [3] Guillermet 1982; _cites ref. 13_ | Table IV, p. 12, row 18 |  |
-| Heat capacity; _printed: Cp_Fe^fcc (1)_ | 34.011 J/mol-atom/K | 1200 | fcc | experimental | [3] Guillermet 1982 | Table IV, p. 12, row 17 |  |
-| Heat capacity; _printed: Calculated Cp^μ (3)_ | 32.259 J/mol-atom/K | 1200 | μ; _alloy: Fe 0.605, Mo 0.395_ | model | [3] Guillermet 1982 | Table IV, p. 12, row 19 |  |
-| Heat capacity; _printed: Measured Cp^μ (4)_ | 32.964 J/mol-atom/K | 1200 | μ; _alloy: Fe 0.605, Mo 0.395_ | experimental | [3] Guillermet 1982 | Table IV, p. 12, row 20 |  |
-| Heat capacity; _printed: Cp_Mo^bcc (2)_ | 30.221 J/mol-atom/K | 1300 | bcc | experimental | [3] Guillermet 1982; _cites ref. 13_ | Table IV, p. 12, row 22 |  |
-| Heat capacity; _printed: Cp_Fe^fcc (1)_ | 34.846 J/mol-atom/K | 1300 | fcc | experimental | [3] Guillermet 1982 | Table IV, p. 12, row 21 |  |
-| Heat capacity; _printed: Measured Cp^μ (4)_ | 34.033 J/mol-atom/K | 1300 | μ; _alloy: Fe 0.605, Mo 0.395_ | experimental | [3] Guillermet 1982 | Table IV, p. 12, row 24 |  |
-| Heat capacity; _printed: Cp_Mo^bcc (2)_ | 30.92 J/mol-atom/K | 1400 | bcc | experimental | [3] Guillermet 1982; _cites ref. 13_ | Table IV, p. 12, row 26 |  |
-| Heat capacity; _printed: Cp_Fe^fcc (1)_ | 35.681 J/mol-atom/K | 1400 | fcc | experimental | [3] Guillermet 1982 | Table IV, p. 12, row 25 |  |
-| Heat capacity; _printed: Calculated Cp^μ (3)_ | 33.8 J/mol-atom/K | 1400 | μ; _alloy: Fe 0.605, Mo 0.395_ | model | [3] Guillermet 1982 | Table IV, p. 12, row 27 |  |
-| Heat capacity; _printed: Cp_Mo^bcc (2)_ | 31.656 J/mol-atom/K | 1500 | bcc | experimental | [3] Guillermet 1982; _cites ref. 13_ | Table IV, p. 12, row 30 |  |
-| Heat capacity; _printed: Cp_Fe^fcc (1)_ | 36.516 J/mol-atom/K | 1500 | fcc | experimental | [3] Guillermet 1982 | Table IV, p. 12, row 29 |  |
-| Heat capacity; _printed: Calculated Cp^μ (3)_ | 34.596 J/mol-atom/K | 1500 | μ; _alloy: Fe 0.605, Mo 0.395_ | model | [3] Guillermet 1982 | Table IV, p. 12, row 31 |  |
+| Heat capacity; _printed: Cp_Mo^bcc (2)_ | 27.443 J/mol-atom/K | 800 | bcc | experimental | [3] Guillermet 1982; _cites ref. 13_ | Table IV, p. 12, row 2; `ORC-XMVEMLQBNF` |  |
+| Heat capacity; _printed: Cp_Fe^fcc (1)_ | 30.671 J/mol-atom/K | 800 | fcc | experimental | [3] Guillermet 1982 | Table IV, p. 12, row 1; `ORC-UURLEM5LK5` |  |
+| Heat capacity; _printed: Measured Cp^μ (4)_ | 28.692 J/mol-atom/K | 800 | μ; _alloy: Fe 0.605, Mo 0.395_ | experimental | [3] Guillermet 1982 | Table IV, p. 12, row 4; `ORC-A4LBLOWYZW` |  |
+| Heat capacity; _printed: Calculated Cp^μ (3)_ | 29.396 J/mol-atom/K | 800 | μ; _alloy: Fe 0.605, Mo 0.395_ | model | [3] Guillermet 1982 | Table IV, p. 12, row 3; `ORC-ZC6ACNTVM4` |  |
+| Heat capacity; _printed: Cp_Mo^bcc (2)_ | 27.891 J/mol-atom/K | 900 | bcc | experimental | [3] Guillermet 1982; _cites ref. 13_ | Table IV, p. 12, row 6; `ORC-FB6P2D6PIM` |  |
+| Heat capacity; _printed: Cp_Fe^fcc (1)_ | 31.506 J/mol-atom/K | 900 | fcc | experimental | [3] Guillermet 1982 | Table IV, p. 12, row 5; `ORC-B5VFEICNPX` |  |
+| Heat capacity; _printed: Calculated Cp^μ (3)_ | 30.078 J/mol-atom/K | 900 | μ; _alloy: Fe 0.605, Mo 0.395_ | model | [3] Guillermet 1982 | Table IV, p. 12, row 7; `ORC-5UZDNTWQQ4` |  |
+| Heat capacity; _printed: Measured Cp^μ (4)_ | 29.76 J/mol-atom/K | 900 | μ; _alloy: Fe 0.605, Mo 0.395_ | experimental | [3] Guillermet 1982 | Table IV, p. 12, row 8; `ORC-EBN6Y6M7Y5` |  |
+| Heat capacity; _printed: Cp_Fe^fcc (1)_ | 32.341 J/mol-atom/K | 1000 | fcc | experimental | [3] Guillermet 1982 | Table IV, p. 12, row 9; `ORC-RT3EIN4F35` |  |
+| Heat capacity; _printed: Measured Cp^μ (4)_ | 30.828 J/mol-atom/K | 1000 | μ; _alloy: Fe 0.605, Mo 0.395_ | experimental | [3] Guillermet 1982 | Table IV, p. 12, row 12; `ORC-6IKR5YU54W` |  |
+| Heat capacity; _printed: Calculated Cp^μ (3)_ | 30.8 J/mol-atom/K | 1000 | μ; _alloy: Fe 0.605, Mo 0.395_ | model | [3] Guillermet 1982 | Table IV, p. 12, row 11; `ORC-USDNKB7YCZ` |  |
+| Heat capacity; _printed: Cp_Mo^bcc (2)_ | 28.987 J/mol-atom/K | 1100 | bcc | experimental | [3] Guillermet 1982; _cites ref. 13_ | Table IV, p. 12, row 14; `ORC-YGJDZL65RS` |  |
+| Heat capacity; _printed: Cp_Fe^fcc (1)_ | 33.176 J/mol-atom/K | 1100 | fcc | experimental | [3] Guillermet 1982 | Table IV, p. 12, row 13; `ORC-4OJT26TWIF` |  |
+| Heat capacity; _printed: Measured Cp^μ (4)_ | 31.896 J/mol-atom/K | 1100 | μ; _alloy: Fe 0.605, Mo 0.395_ | experimental | [3] Guillermet 1982 | Table IV, p. 12, row 16; `ORC-G4JA4HEZ4T` |  |
+| Heat capacity; _printed: Calculated Cp^μ (3)_ | 31.521 J/mol-atom/K | 1100 | μ; _alloy: Fe 0.605, Mo 0.395_ | model | [3] Guillermet 1982 | Table IV, p. 12, row 15; `ORC-QPLIZFQFQJ` |  |
+| Heat capacity; _printed: Cp_Mo^bcc (2)_ | 29.577 J/mol-atom/K | 1200 | bcc | experimental | [3] Guillermet 1982; _cites ref. 13_ | Table IV, p. 12, row 18; `ORC-RHG7P5KSE3` |  |
+| Heat capacity; _printed: Cp_Fe^fcc (1)_ | 34.011 J/mol-atom/K | 1200 | fcc | experimental | [3] Guillermet 1982 | Table IV, p. 12, row 17; `ORC-YMPHX5RK7M` |  |
+| Heat capacity; _printed: Calculated Cp^μ (3)_ | 32.259 J/mol-atom/K | 1200 | μ; _alloy: Fe 0.605, Mo 0.395_ | model | [3] Guillermet 1982 | Table IV, p. 12, row 19; `ORC-IINBPEDLDC` |  |
+| Heat capacity; _printed: Measured Cp^μ (4)_ | 32.964 J/mol-atom/K | 1200 | μ; _alloy: Fe 0.605, Mo 0.395_ | experimental | [3] Guillermet 1982 | Table IV, p. 12, row 20; `ORC-ZYBG4T3PSO` |  |
+| Heat capacity; _printed: Cp_Mo^bcc (2)_ | 30.221 J/mol-atom/K | 1300 | bcc | experimental | [3] Guillermet 1982; _cites ref. 13_ | Table IV, p. 12, row 22; `ORC-OJKFRBBMM5` |  |
+| Heat capacity; _printed: Cp_Fe^fcc (1)_ | 34.846 J/mol-atom/K | 1300 | fcc | experimental | [3] Guillermet 1982 | Table IV, p. 12, row 21; `ORC-WC35J75EQR` |  |
+| Heat capacity; _printed: Measured Cp^μ (4)_ | 34.033 J/mol-atom/K | 1300 | μ; _alloy: Fe 0.605, Mo 0.395_ | experimental | [3] Guillermet 1982 | Table IV, p. 12, row 24; `ORC-XPGGSZISDA` |  |
+| Heat capacity; _printed: Cp_Mo^bcc (2)_ | 30.92 J/mol-atom/K | 1400 | bcc | experimental | [3] Guillermet 1982; _cites ref. 13_ | Table IV, p. 12, row 26; `ORC-QSFHHMHHJ5` |  |
+| Heat capacity; _printed: Cp_Fe^fcc (1)_ | 35.681 J/mol-atom/K | 1400 | fcc | experimental | [3] Guillermet 1982 | Table IV, p. 12, row 25; `ORC-AFBAJ4KIL2` |  |
+| Heat capacity; _printed: Calculated Cp^μ (3)_ | 33.8 J/mol-atom/K | 1400 | μ; _alloy: Fe 0.605, Mo 0.395_ | model | [3] Guillermet 1982 | Table IV, p. 12, row 27; `ORC-ELWJJGNEBS` |  |
+| Heat capacity; _printed: Cp_Mo^bcc (2)_ | 31.656 J/mol-atom/K | 1500 | bcc | experimental | [3] Guillermet 1982; _cites ref. 13_ | Table IV, p. 12, row 30; `ORC-7CRVS2TXEH` |  |
+| Heat capacity; _printed: Cp_Fe^fcc (1)_ | 36.516 J/mol-atom/K | 1500 | fcc | experimental | [3] Guillermet 1982 | Table IV, p. 12, row 29; `ORC-J64TYLKHNI` |  |
+| Heat capacity; _printed: Calculated Cp^μ (3)_ | 34.596 J/mol-atom/K | 1500 | μ; _alloy: Fe 0.605, Mo 0.395_ | model | [3] Guillermet 1982 | Table IV, p. 12, row 31; `ORC-OSFDM4IE4G` |  |
 
 ### Crystal structure (35)
 
@@ -206,41 +206,41 @@ Table: Crystal structure, Fe–Mo system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a; _printed: a_ | 4.669 Å | 298.15 | Fe2Mo (λ); _alloy: Mo 0.333333_ | DFT | [2] Rajkumar 2014 | Table 8, p. 6, row 5 |  |
-| Lattice a; _printed: a_ | 4.744 Å | 298.15 | Fe2Mo (λ); _alloy: Mo 0.333333_ | unspecified | [2] Rajkumar 2014 | Table 8, p. 6, row 4 |  |
-| Lattice a; _printed: a_ | 10.961 Å | 298.15 | Fe3Mo2 (R); _alloy: Mo 0.4_ | DFT | [2] Rajkumar 2014 | Table 8, p. 6, row 10 |  |
-| Lattice a; _printed: a_ | 10.956 Å | 298.15 | Fe3Mo2 (R); _alloy: Mo 0.4_ | unspecified | [2] Rajkumar 2014 | Table 8, p. 6, row 9 |  |
-| Lattice a; _printed: a_ | 4.766 Å | 298.15 | Fe7Mo6 (μ); _alloy: Mo 0.461538_ | DFT | [2] Rajkumar 2014 | Table 8, p. 6, row 15 |  |
-| Lattice a; _printed: a_ | 4.751 Å | 298.15 | Fe7Mo6 (μ); _alloy: Mo 0.461538_ | unspecified | [2] Rajkumar 2014 | Table 8, p. 6, row 14 |  |
-| Lattice a; _printed: a_ | 9.325 Å | 298.15 | FeMo (σ); _alloy: Mo 0.5_ | DFT | [2] Rajkumar 2014 | Table 8, p. 6, row 20 |  |
-| Lattice a; _printed: a_ | 9.218 Å | 298.15 | FeMo (σ); _alloy: Mo 0.5_ | unspecified | [2] Rajkumar 2014 | Table 8, p. 6, row 19 |  |
-| Lattice b; _printed: b_ | 4.669 Å | 298.15 | Fe2Mo (λ); _alloy: Mo 0.333333_ | DFT | [2] Rajkumar 2014 | Table 8, p. 6, row 5 |  |
-| Lattice b; _printed: b_ | 4.744 Å | 298.15 | Fe2Mo (λ); _alloy: Mo 0.333333_ | unspecified | [2] Rajkumar 2014 | Table 8, p. 6, row 4 |  |
-| Lattice b; _printed: b_ | 10.961 Å | 298.15 | Fe3Mo2 (R); _alloy: Mo 0.4_ | DFT | [2] Rajkumar 2014 | Table 8, p. 6, row 10 |  |
-| Lattice b; _printed: b_ | 10.956 Å | 298.15 | Fe3Mo2 (R); _alloy: Mo 0.4_ | unspecified | [2] Rajkumar 2014 | Table 8, p. 6, row 9 |  |
-| Lattice b; _printed: b_ | 4.766 Å | 298.15 | Fe7Mo6 (μ); _alloy: Mo 0.461538_ | DFT | [2] Rajkumar 2014 | Table 8, p. 6, row 15 |  |
-| Lattice b; _printed: b_ | 4.751 Å | 298.15 | Fe7Mo6 (μ); _alloy: Mo 0.461538_ | unspecified | [2] Rajkumar 2014 | Table 8, p. 6, row 14 |  |
-| Lattice b; _printed: b_ | 9.325 Å | 298.15 | FeMo (σ); _alloy: Mo 0.5_ | DFT | [2] Rajkumar 2014 | Table 8, p. 6, row 20 |  |
-| Lattice b; _printed: b_ | 9.218 Å | 298.15 | FeMo (σ); _alloy: Mo 0.5_ | unspecified | [2] Rajkumar 2014 | Table 8, p. 6, row 19 |  |
-| Lattice c; _printed: c_ | 7.793 Å | 298.15 | Fe2Mo (λ); _alloy: Mo 0.333333_ | DFT | [2] Rajkumar 2014 | Table 8, p. 6, row 5 |  |
-| Lattice c; _printed: c_ | 7.725 Å | 298.15 | Fe2Mo (λ); _alloy: Mo 0.333333_ | unspecified | [2] Rajkumar 2014 | Table 8, p. 6, row 4 |  |
-| Lattice c; _printed: c_ | 19.004 Å | 298.15 | Fe3Mo2 (R); _alloy: Mo 0.4_ | DFT | [2] Rajkumar 2014 | Table 8, p. 6, row 10 |  |
-| Lattice c; _printed: c_ | 19.353 Å | 298.15 | Fe3Mo2 (R); _alloy: Mo 0.4_ | unspecified | [2] Rajkumar 2014 | Table 8, p. 6, row 9 |  |
-| Lattice c; _printed: c_ | 25.807 Å | 298.15 | Fe7Mo6 (μ); _alloy: Mo 0.461538_ | DFT | [2] Rajkumar 2014 | Table 8, p. 6, row 15 |  |
-| Lattice c; _printed: c_ | 25.68 Å | 298.15 | Fe7Mo6 (μ); _alloy: Mo 0.461538_ | unspecified | [2] Rajkumar 2014 | Table 8, p. 6, row 14 |  |
-| Lattice c; _printed: c_ | 4.905 Å | 298.15 | FeMo (σ); _alloy: Mo 0.5_ | DFT | [2] Rajkumar 2014 | Table 8, p. 6, row 20 |  |
-| Lattice c; _printed: c_ | 4.813 Å | 298.15 | FeMo (σ); _alloy: Mo 0.5_ | unspecified | [2] Rajkumar 2014 | Table 8, p. 6, row 19 |  |
-| site fractional coordinates |  |  | UNKNOWN | unspecified | [2] Rajkumar 2014 | Table 7, p. 5, row 14 |  |
-| site fractional coordinates |  |  | UNKNOWN | unspecified | [2] Rajkumar 2014 | Table 7, p. 5, row 12 |  |
-| site fractional coordinates |  |  | UNKNOWN | unspecified | [2] Rajkumar 2014 | Table 7, p. 5, row 20 |  |
-| site fractional coordinates |  |  | UNKNOWN | unspecified | [2] Rajkumar 2014 | Table 7, p. 5, row 17 |  |
-| site fractional coordinates |  |  | UNKNOWN | unspecified | [2] Rajkumar 2014 | Table 7, p. 5, row 21 |  |
-| site fractional coordinates |  |  | UNKNOWN | unspecified | [2] Rajkumar 2014 | Table 7, p. 5, row 15 |  |
-| site fractional coordinates |  |  | UNKNOWN | unspecified | [2] Rajkumar 2014 | Table 7, p. 5, row 18 |  |
-| site fractional coordinates |  |  | UNKNOWN | unspecified | [2] Rajkumar 2014 | Table 7, p. 5, row 22 |  |
-| site fractional coordinates |  |  | UNKNOWN | unspecified | [2] Rajkumar 2014 | Table 7, p. 5, row 16 |  |
-| site fractional coordinates |  |  | UNKNOWN | unspecified | [2] Rajkumar 2014 | Table 7, p. 5, row 13 |  |
-| site fractional coordinates |  |  | UNKNOWN | unspecified | [2] Rajkumar 2014 | Table 7, p. 5, row 19 |  |
+| Lattice a; _printed: a_ | 4.669 Å | 298.15 | Fe2Mo (λ); _alloy: Mo 0.333333_ | DFT | [2] Rajkumar 2014 | Table 8, p. 6, row 5; `ORC-5EKNC66ZUO.f9cfa0` |  |
+| Lattice a; _printed: a_ | 4.744 Å | 298.15 | Fe2Mo (λ); _alloy: Mo 0.333333_ | unspecified | [2] Rajkumar 2014 | Table 8, p. 6, row 4; `ORC-NFKK23S4O3.3e8729` |  |
+| Lattice a; _printed: a_ | 10.961 Å | 298.15 | Fe3Mo2 (R); _alloy: Mo 0.4_ | DFT | [2] Rajkumar 2014 | Table 8, p. 6, row 10; `ORC-JFNLDN5LIA.6b8fb4` |  |
+| Lattice a; _printed: a_ | 10.956 Å | 298.15 | Fe3Mo2 (R); _alloy: Mo 0.4_ | unspecified | [2] Rajkumar 2014 | Table 8, p. 6, row 9; `ORC-KIMJSUJ7JN.43d545` |  |
+| Lattice a; _printed: a_ | 4.766 Å | 298.15 | Fe7Mo6 (μ); _alloy: Mo 0.461538_ | DFT | [2] Rajkumar 2014 | Table 8, p. 6, row 15; `ORC-AQJIQW5CLL.ae46cd` |  |
+| Lattice a; _printed: a_ | 4.751 Å | 298.15 | Fe7Mo6 (μ); _alloy: Mo 0.461538_ | unspecified | [2] Rajkumar 2014 | Table 8, p. 6, row 14; `ORC-QDG32JGG3P.1dfea3` |  |
+| Lattice a; _printed: a_ | 9.325 Å | 298.15 | FeMo (σ); _alloy: Mo 0.5_ | DFT | [2] Rajkumar 2014 | Table 8, p. 6, row 20; `ORC-I36VPO2LUR.d3fe04` |  |
+| Lattice a; _printed: a_ | 9.218 Å | 298.15 | FeMo (σ); _alloy: Mo 0.5_ | unspecified | [2] Rajkumar 2014 | Table 8, p. 6, row 19; `ORC-YIWIDSQCPD.91d6ca` |  |
+| Lattice b; _printed: b_ | 4.669 Å | 298.15 | Fe2Mo (λ); _alloy: Mo 0.333333_ | DFT | [2] Rajkumar 2014 | Table 8, p. 6, row 5; `ORC-5EKNC66ZUO.3f810b` |  |
+| Lattice b; _printed: b_ | 4.744 Å | 298.15 | Fe2Mo (λ); _alloy: Mo 0.333333_ | unspecified | [2] Rajkumar 2014 | Table 8, p. 6, row 4; `ORC-NFKK23S4O3.c0f3da` |  |
+| Lattice b; _printed: b_ | 10.961 Å | 298.15 | Fe3Mo2 (R); _alloy: Mo 0.4_ | DFT | [2] Rajkumar 2014 | Table 8, p. 6, row 10; `ORC-JFNLDN5LIA.3125bf` |  |
+| Lattice b; _printed: b_ | 10.956 Å | 298.15 | Fe3Mo2 (R); _alloy: Mo 0.4_ | unspecified | [2] Rajkumar 2014 | Table 8, p. 6, row 9; `ORC-KIMJSUJ7JN.0df363` |  |
+| Lattice b; _printed: b_ | 4.766 Å | 298.15 | Fe7Mo6 (μ); _alloy: Mo 0.461538_ | DFT | [2] Rajkumar 2014 | Table 8, p. 6, row 15; `ORC-AQJIQW5CLL.50b540` |  |
+| Lattice b; _printed: b_ | 4.751 Å | 298.15 | Fe7Mo6 (μ); _alloy: Mo 0.461538_ | unspecified | [2] Rajkumar 2014 | Table 8, p. 6, row 14; `ORC-QDG32JGG3P.86e6f1` |  |
+| Lattice b; _printed: b_ | 9.325 Å | 298.15 | FeMo (σ); _alloy: Mo 0.5_ | DFT | [2] Rajkumar 2014 | Table 8, p. 6, row 20; `ORC-I36VPO2LUR.3a1835` |  |
+| Lattice b; _printed: b_ | 9.218 Å | 298.15 | FeMo (σ); _alloy: Mo 0.5_ | unspecified | [2] Rajkumar 2014 | Table 8, p. 6, row 19; `ORC-YIWIDSQCPD.f8c3a3` |  |
+| Lattice c; _printed: c_ | 7.793 Å | 298.15 | Fe2Mo (λ); _alloy: Mo 0.333333_ | DFT | [2] Rajkumar 2014 | Table 8, p. 6, row 5; `ORC-5EKNC66ZUO.4c0ee6` |  |
+| Lattice c; _printed: c_ | 7.725 Å | 298.15 | Fe2Mo (λ); _alloy: Mo 0.333333_ | unspecified | [2] Rajkumar 2014 | Table 8, p. 6, row 4; `ORC-NFKK23S4O3.d4c4ed` |  |
+| Lattice c; _printed: c_ | 19.004 Å | 298.15 | Fe3Mo2 (R); _alloy: Mo 0.4_ | DFT | [2] Rajkumar 2014 | Table 8, p. 6, row 10; `ORC-JFNLDN5LIA.8960f6` |  |
+| Lattice c; _printed: c_ | 19.353 Å | 298.15 | Fe3Mo2 (R); _alloy: Mo 0.4_ | unspecified | [2] Rajkumar 2014 | Table 8, p. 6, row 9; `ORC-KIMJSUJ7JN.bc7529` |  |
+| Lattice c; _printed: c_ | 25.807 Å | 298.15 | Fe7Mo6 (μ); _alloy: Mo 0.461538_ | DFT | [2] Rajkumar 2014 | Table 8, p. 6, row 15; `ORC-AQJIQW5CLL.9f3940` |  |
+| Lattice c; _printed: c_ | 25.68 Å | 298.15 | Fe7Mo6 (μ); _alloy: Mo 0.461538_ | unspecified | [2] Rajkumar 2014 | Table 8, p. 6, row 14; `ORC-QDG32JGG3P.12dd02` |  |
+| Lattice c; _printed: c_ | 4.905 Å | 298.15 | FeMo (σ); _alloy: Mo 0.5_ | DFT | [2] Rajkumar 2014 | Table 8, p. 6, row 20; `ORC-I36VPO2LUR.db96d3` |  |
+| Lattice c; _printed: c_ | 4.813 Å | 298.15 | FeMo (σ); _alloy: Mo 0.5_ | unspecified | [2] Rajkumar 2014 | Table 8, p. 6, row 19; `ORC-YIWIDSQCPD.240d5b` |  |
+| site fractional coordinates |  |  | UNKNOWN | unspecified | [2] Rajkumar 2014 | Table 7, p. 5, row 14; `ORC-4UIZSWGGOH` |  |
+| site fractional coordinates |  |  | UNKNOWN | unspecified | [2] Rajkumar 2014 | Table 7, p. 5, row 12; `ORC-5GQROTFCFN` |  |
+| site fractional coordinates |  |  | UNKNOWN | unspecified | [2] Rajkumar 2014 | Table 7, p. 5, row 20; `ORC-DJQGH43TD5` |  |
+| site fractional coordinates |  |  | UNKNOWN | unspecified | [2] Rajkumar 2014 | Table 7, p. 5, row 17; `ORC-EHEEFQAVME` |  |
+| site fractional coordinates |  |  | UNKNOWN | unspecified | [2] Rajkumar 2014 | Table 7, p. 5, row 21; `ORC-FI3MPFEWVD` |  |
+| site fractional coordinates |  |  | UNKNOWN | unspecified | [2] Rajkumar 2014 | Table 7, p. 5, row 15; `ORC-FXGLCMLZBZ` |  |
+| site fractional coordinates |  |  | UNKNOWN | unspecified | [2] Rajkumar 2014 | Table 7, p. 5, row 18; `ORC-LSZFDNIUXX` |  |
+| site fractional coordinates |  |  | UNKNOWN | unspecified | [2] Rajkumar 2014 | Table 7, p. 5, row 22; `ORC-NRT4B3UKW6` |  |
+| site fractional coordinates |  |  | UNKNOWN | unspecified | [2] Rajkumar 2014 | Table 7, p. 5, row 16; `ORC-O7OEBT2VLU` |  |
+| site fractional coordinates |  |  | UNKNOWN | unspecified | [2] Rajkumar 2014 | Table 7, p. 5, row 13; `ORC-OM37CM2ACA` |  |
+| site fractional coordinates |  |  | UNKNOWN | unspecified | [2] Rajkumar 2014 | Table 7, p. 5, row 19; `ORC-Q6Q47UABK2` |  |
 
 ## Sources
 
@@ -307,4 +307,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

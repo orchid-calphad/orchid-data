@@ -29,27 +29,27 @@ Table: Invariant reactions reported in the literature for the C–Ce–La–Pr s
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2544.15 | L \<-> βLaC2 + (C) | βLaC2: C 0.67 | experimental | [1] Peng 2011; _cites Spedding 1959_ | Table 4, p. 6, row 14 |  |
-| 2543.15 | L \<-> βCeC2 + (C) | βCeC2: C 0.6667; (C): C 1 | experimental | [1] Peng 2011; _cites Winchell 1967_ [doi](https://doi.org/10.1021/j100872a050) | Table 4, p. 6, row 26 |  |
-| 2542.25 | L \<-> βCeC2 + (C) | L: C 0.689; βCeC2: C 0.6667; (C): C 1 | model | [1] Peng 2011 | Table 4, p. 6, row 25 |  |
-| 2541.75 | L \<-> βLaC2 + (C) | L: C 0.701; βLaC2: C 0.663; (C): C 1 | model | [1] Peng 2011 | Table 4, p. 6, row 13 |  |
-| 2527.15 | L \<-> βPrC2 + (C) | (C): C 1 | experimental | [1] Peng 2011; _cites Conclusions_ | Table 4, p. 6, row 40 |  |
-| 2521.65 | L \<-> βPrC2 + (C) | L: C 0.704; βPrC2: C 0.665; (C): C 1 | model | [1] Peng 2011 | Table 4, p. 6, row 39 |  |
-| 1818.75 | L + βPrC2 \<-> Pr2C3 | L: C 0.5; βPrC2: C 0.657; Pr2C3: C 0.581 | model | [1] Peng 2011 | Table 4, p. 6, row 37 |  |
-| 1818.15 | L + βPrC2 \<-> Pr2C3 | L: C 0.5 | experimental | [1] Peng 2011; _cites Conclusions_ | Table 4, p. 6, row 38 |  |
-| 1803.15 | L + βCeC2 \<-> Ce2C3 | βCeC2: C 0.6667; Ce2C3: C 0.6 | experimental | [1] Peng 2011; _cites Yupko 1970_ | Table 4, p. 6, row 24 |  |
-| 1803.05 | L + βCeC2 \<-> Ce2C3 | L: C 0.505; βCeC2: C 0.6667; Ce2C3: C 0.6 | model | [1] Peng 2011 | Table 4, p. 6, row 23 |  |
-| 1688.95 | L + βLaC2 \<-> La2C3 | L: C 0.5; βLaC2: C 0.645; La2C3: C 0.593 | model | [1] Peng 2011 | Table 4, p. 6, row 11 |  |
-| 1688.15 | L + βLaC2 \<-> La2C3 | L: C 0.506; βLaC2: C 0.631; La2C3: C 0.6 | experimental | [1] Peng 2011; _cites Spedding 1959_ | Table 4, p. 6, row 12 |  |
-| 1354.95 | βLaC2 \<-> La2C3 + αLaC2 | βLaC2: C 0.662; La2C3: C 0.599; αLaC2: C 0.667; LaC2C3: C 0.599 | model | [1] Peng 2011 | Table 4, p. 6, row 7 |  |
-| 1148.15 | L + (γLa) \<-> (βLa) | L: C 0.057; (γLa): C 0.028; (βLa): C 0.038 | experimental | [1] Peng 2011; _cites Spedding 1959_ | Table 4, p. 6, row 6 |  |
-| 1146.55 | L + (γLa) \<-> (βLa) | L: C 0.063; (γLa): C 0.025; (βLa): C 0.028 | model | [1] Peng 2011 | Table 4, p. 6, row 5 |  |
-| 1080.05 | L \<-> (βLa) + La2C3 | L: C 0.209; (βLa): C 0.045; La2C3: C 0.578 | model | [1] Peng 2011 | Table 4, p. 6, row 3 |  |
-| 1079.15 | L \<-> (βLa) + La2C3 | L: C 0.206; (βLa): C 0.044; La2C3: C 0.548 | experimental | [1] Peng 2011; _cites Spedding 1959_ | Table 4, p. 6, row 4 |  |
-| 1073.15 | L \<-> (βPr) + Pr2C3 | L: C 0.15 | experimental | [1] Peng 2011; _cites Conclusions_ | Table 4, p. 6, row 32 |  |
-| 1071.05 | L \<-> (βPr) + Pr2C3 | L: C 0.155; (βPr): C 0.077; Pr2C3: C 0.544 | model | [1] Peng 2011 | Table 4, p. 6, row 31 |  |
-| 1017.15 | L + (δCe) \<-> (γCe) | L: C 0.062; (δCe): C 0.013; (γCe): C 0.019 | model | [1] Peng 2011 | Table 4, p. 6, row 18 |  |
-| 911.45 | L \<-> (γCe) + Ce2C3 | L: C 0.192; (γCe): C 0.044; Ce2C3: C 0.6 | model | [1] Peng 2011 | Table 4, p. 6, row 17 |  |
+| 2544.15 | L \<-> βLaC2 + (C) | βLaC2: C 0.67 | experimental | [1] Peng 2011; _cites Spedding 1959_ | Table 4, p. 6, row 14; `ORC-L33MR7LJ54` |  |
+| 2543.15 | L \<-> βCeC2 + (C) | βCeC2: C 0.6667; (C): C 1 | experimental | [1] Peng 2011; _cites Winchell 1967_ [doi](https://doi.org/10.1021/j100872a050) | Table 4, p. 6, row 26; `ORC-XV3VZY3GFS` |  |
+| 2542.25 | L \<-> βCeC2 + (C) | L: C 0.689; βCeC2: C 0.6667; (C): C 1 | model | [1] Peng 2011 | Table 4, p. 6, row 25; `ORC-2PGYIAUHAC` |  |
+| 2541.75 | L \<-> βLaC2 + (C) | L: C 0.701; βLaC2: C 0.663; (C): C 1 | model | [1] Peng 2011 | Table 4, p. 6, row 13; `ORC-WQ4Q6GPFSZ` |  |
+| 2527.15 | L \<-> βPrC2 + (C) | (C): C 1 | experimental | [1] Peng 2011; _cites Conclusions_ | Table 4, p. 6, row 40; `ORC-B72HUAUWJP` |  |
+| 2521.65 | L \<-> βPrC2 + (C) | L: C 0.704; βPrC2: C 0.665; (C): C 1 | model | [1] Peng 2011 | Table 4, p. 6, row 39; `ORC-UTJAKAPXVQ` |  |
+| 1818.75 | L + βPrC2 \<-> Pr2C3 | L: C 0.5; βPrC2: C 0.657; Pr2C3: C 0.581 | model | [1] Peng 2011 | Table 4, p. 6, row 37; `ORC-7APZCV257W` |  |
+| 1818.15 | L + βPrC2 \<-> Pr2C3 | L: C 0.5 | experimental | [1] Peng 2011; _cites Conclusions_ | Table 4, p. 6, row 38; `ORC-IHLK4BCWPV` |  |
+| 1803.15 | L + βCeC2 \<-> Ce2C3 | βCeC2: C 0.6667; Ce2C3: C 0.6 | experimental | [1] Peng 2011; _cites Yupko 1970_ | Table 4, p. 6, row 24; `ORC-IBS2EBRRVL` |  |
+| 1803.05 | L + βCeC2 \<-> Ce2C3 | L: C 0.505; βCeC2: C 0.6667; Ce2C3: C 0.6 | model | [1] Peng 2011 | Table 4, p. 6, row 23; `ORC-2SFYNGNQY2` |  |
+| 1688.95 | L + βLaC2 \<-> La2C3 | L: C 0.5; βLaC2: C 0.645; La2C3: C 0.593 | model | [1] Peng 2011 | Table 4, p. 6, row 11; `ORC-JVDCK2J5EY` |  |
+| 1688.15 | L + βLaC2 \<-> La2C3 | L: C 0.506; βLaC2: C 0.631; La2C3: C 0.6 | experimental | [1] Peng 2011; _cites Spedding 1959_ | Table 4, p. 6, row 12; `ORC-CRMACOYYQM` |  |
+| 1354.95 | βLaC2 \<-> La2C3 + αLaC2 | βLaC2: C 0.662; La2C3: C 0.599; αLaC2: C 0.667; LaC2C3: C 0.599 | model | [1] Peng 2011 | Table 4, p. 6, row 7; `ORC-X3VJKKIHL7` |  |
+| 1148.15 | L + (γLa) \<-> (βLa) | L: C 0.057; (γLa): C 0.028; (βLa): C 0.038 | experimental | [1] Peng 2011; _cites Spedding 1959_ | Table 4, p. 6, row 6; `ORC-OWYQSP7WMX` |  |
+| 1146.55 | L + (γLa) \<-> (βLa) | L: C 0.063; (γLa): C 0.025; (βLa): C 0.028 | model | [1] Peng 2011 | Table 4, p. 6, row 5; `ORC-JUFO7IEOLK` |  |
+| 1080.05 | L \<-> (βLa) + La2C3 | L: C 0.209; (βLa): C 0.045; La2C3: C 0.578 | model | [1] Peng 2011 | Table 4, p. 6, row 3; `ORC-LB7QP5FEEC` |  |
+| 1079.15 | L \<-> (βLa) + La2C3 | L: C 0.206; (βLa): C 0.044; La2C3: C 0.548 | experimental | [1] Peng 2011; _cites Spedding 1959_ | Table 4, p. 6, row 4; `ORC-B7Y5VVGQB5` |  |
+| 1073.15 | L \<-> (βPr) + Pr2C3 | L: C 0.15 | experimental | [1] Peng 2011; _cites Conclusions_ | Table 4, p. 6, row 32; `ORC-MILAU4PCY4` |  |
+| 1071.05 | L \<-> (βPr) + Pr2C3 | L: C 0.155; (βPr): C 0.077; Pr2C3: C 0.544 | model | [1] Peng 2011 | Table 4, p. 6, row 31; `ORC-AF3HAJ2QHJ` |  |
+| 1017.15 | L + (δCe) \<-> (γCe) | L: C 0.062; (δCe): C 0.013; (γCe): C 0.019 | model | [1] Peng 2011 | Table 4, p. 6, row 18; `ORC-L5AZOAE6MI` |  |
+| 911.45 | L \<-> (γCe) + Ce2C3 | L: C 0.192; (γCe): C 0.044; Ce2C3: C 0.6 | model | [1] Peng 2011 | Table 4, p. 6, row 17; `ORC-KORMYTBBSS` |  |
 
 ## Other properties
 
@@ -59,8 +59,8 @@ Table: Crystal structure, C–Ce–La–Pr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 2.52 Å | 298.15 | (C); _alloy: Ce 0, La 0, Pr 0_ | unspecified | [1] Peng 2011; _cites Fayos 1999_ [doi](https://doi.org/10.1006/jssc.1999.8448) | Table 1, p. 2, row 17 |  |
-| Lattice c | 4.12 Å | 298.15 | (C); _alloy: Ce 0, La 0, Pr 0_ | unspecified | [1] Peng 2011; _cites Fayos 1999_ [doi](https://doi.org/10.1006/jssc.1999.8448) | Table 1, p. 2, row 17 |  |
+| Lattice a | 2.52 Å | 298.15 | (C); _alloy: Ce 0, La 0, Pr 0_ | unspecified | [1] Peng 2011; _cites Fayos 1999_ [doi](https://doi.org/10.1006/jssc.1999.8448) | Table 1, p. 2, row 17; `ORC-O2L6DKKC6H.11f412` |  |
+| Lattice c | 4.12 Å | 298.15 | (C); _alloy: Ce 0, La 0, Pr 0_ | unspecified | [1] Peng 2011; _cites Fayos 1999_ [doi](https://doi.org/10.1006/jssc.1999.8448) | Table 1, p. 2, row 17; `ORC-O2L6DKKC6H.773298` |  |
 
 ## Sources
 
@@ -103,4 +103,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

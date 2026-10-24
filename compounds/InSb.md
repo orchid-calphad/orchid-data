@@ -14,10 +14,10 @@ Table: Enthalpy of formation of InSb reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -18.003 kJ/mol (basis unstated) | InSb | 723 | experimental |  | [In–Sb](https://data.orchid-project.org/systems/IN-SB.html) | [1] Cao 2013; _cites Kleppa 1955_ [doi](https://doi.org/10.1021/ja01609a025) | Table V, p. 9, row 3 |  |
-| -14.53 kJ/mol (basis unstated) | InSb | 273 | experimental |  | [In–Sb](https://data.orchid-project.org/systems/IN-SB.html) | [1] Cao 2013; _cites Schottky 1958_ [doi](https://doi.org/10.1016/0001-6160%2858%2990069-5) | Table V, p. 9, row 1 |  |
-| -20.615 kJ/mol (basis unstated) | InSb | 723 | model |  | [In–Sb](https://data.orchid-project.org/systems/IN-SB.html) | [1] Cao 2013 | Table V, p. 9, row 4 |  |
-| -18.367 kJ/mol (basis unstated) | InSb | 273 | model |  | [In–Sb](https://data.orchid-project.org/systems/IN-SB.html) | [1] Cao 2013 | Table V, p. 9, row 2 |  |
+| -18.003 kJ/mol (basis unstated) | InSb | 723 | experimental |  | [In–Sb](https://data.orchid-project.org/systems/IN-SB.html) | [1] Cao 2013; _cites Kleppa 1955_ [doi](https://doi.org/10.1021/ja01609a025) | Table V, p. 9, row 3; `ORC-P2IP3IATME` |  |
+| -14.53 kJ/mol (basis unstated) | InSb | 273 | experimental |  | [In–Sb](https://data.orchid-project.org/systems/IN-SB.html) | [1] Cao 2013; _cites Schottky 1958_ [doi](https://doi.org/10.1016/0001-6160%2858%2990069-5) | Table V, p. 9, row 1; `ORC-VKAVYWJVBM` |  |
+| -20.615 kJ/mol (basis unstated) | InSb | 723 | model |  | [In–Sb](https://data.orchid-project.org/systems/IN-SB.html) | [1] Cao 2013 | Table V, p. 9, row 4; `ORC-J23XL3YR7P` |  |
+| -18.367 kJ/mol (basis unstated) | InSb | 273 | model |  | [In–Sb](https://data.orchid-project.org/systems/IN-SB.html) | [1] Cao 2013 | Table V, p. 9, row 2; `ORC-5U6I7MN4LT` |  |
 
 ### Uncertainty budget
 
@@ -83,4 +83,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

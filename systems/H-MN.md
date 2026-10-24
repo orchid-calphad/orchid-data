@@ -31,14 +31,14 @@ Table: Invariant reactions reported in the literature for the H–Mn system (8)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1489.15 | L -> (δMn) + Gas | L: H 0.062; (δMn): H 0.042 | experimental | [1] Liang 2018; _cites Serdyuk 1982_ | Table 1, p. 3, row 1 |  |
-| 1487.15 | L -> (δMn) + Gas | L: H 0.062; (δMn): H 0.0416 | model | [1] Liang 2018 | Table 1, p. 3, row 2 |  |
-| 1418.15 | (δMn) + Gas -> (γMn) | (δMn): H 0.0376; (γMn): H 0.0393 | model | [1] Liang 2018 | Table 1, p. 3, row 4 |  |
-| 1416.15 | (δMn) + Gas -> (γMn) | (δMn): H 0.033; (γMn): H 0.046 | experimental | [1] Liang 2018; _cites Serdyuk 1982_ | Table 1, p. 3, row 3 |  |
-| 1330.15 | (γMn) -> (βMn) + Gas | (γMn): H 0.041; (βMn): H 0.034 | experimental | [1] Liang 2018; _cites Serdyuk 1982_ | Table 1, p. 3, row 5 |  |
-| 1328.15 | (γMn) -> (βMn) + Gas | (γMn): H 0.0381; (βMn): H 0.0328 | model | [1] Liang 2018 | Table 1, p. 3, row 6 |  |
-| 937.15 | (βMn) -> (αMn) + ε | (βMn): H 0.0194; (αMn): H 0.0096 | model | [1] Liang 2018 | Table 1, p. 3, row 8 |  |
-| 935.15 | (βMn) -> (αMn) + ε | (βMn): H 0.028; (αMn): H 0.018 | experimental | [1] Liang 2018; _cites Serdyuk 1982_ | Table 1, p. 3, row 7 |  |
+| 1489.15 | L -> (δMn) + Gas | L: H 0.062; (δMn): H 0.042 | experimental | [1] Liang 2018; _cites Serdyuk 1982_ | Table 1, p. 3, row 1; `ORC-3XBXHJA3ZZ` |  |
+| 1487.15 | L -> (δMn) + Gas | L: H 0.062; (δMn): H 0.0416 | model | [1] Liang 2018 | Table 1, p. 3, row 2; `ORC-VQ4MD7MVLK` |  |
+| 1418.15 | (δMn) + Gas -> (γMn) | (δMn): H 0.0376; (γMn): H 0.0393 | model | [1] Liang 2018 | Table 1, p. 3, row 4; `ORC-M2UUNOENH6` |  |
+| 1416.15 | (δMn) + Gas -> (γMn) | (δMn): H 0.033; (γMn): H 0.046 | experimental | [1] Liang 2018; _cites Serdyuk 1982_ | Table 1, p. 3, row 3; `ORC-BXQGGNX5W7` |  |
+| 1330.15 | (γMn) -> (βMn) + Gas | (γMn): H 0.041; (βMn): H 0.034 | experimental | [1] Liang 2018; _cites Serdyuk 1982_ | Table 1, p. 3, row 5; `ORC-ANZ7FXN4YG` |  |
+| 1328.15 | (γMn) -> (βMn) + Gas | (γMn): H 0.0381; (βMn): H 0.0328 | model | [1] Liang 2018 | Table 1, p. 3, row 6; `ORC-OKQYTIGJ25` |  |
+| 937.15 | (βMn) -> (αMn) + ε | (βMn): H 0.0194; (αMn): H 0.0096 | model | [1] Liang 2018 | Table 1, p. 3, row 8; `ORC-5OTFCBDFV4` |  |
+| 935.15 | (βMn) -> (αMn) + ε | (βMn): H 0.028; (αMn): H 0.018 | experimental | [1] Liang 2018; _cites Serdyuk 1982_ | Table 1, p. 3, row 7; `ORC-HZ7ILJYSMD` |  |
 
 ## Formation enthalpies
 
@@ -48,20 +48,20 @@ Table: Enthalpies of formation, H–Mn system (14)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Mn3H |  | 4.88 kJ/mol-atom |  | DFT |  |  | [1] Liang 2018; _cites http://oqmd 2018_ | Table 2, p. 3, row 6 |  |
-| Mn3H |  | 5.5 kJ/mol-atom |  | DFT |  |  | [1] Liang 2018; _cites http://oqmd 2018_ | Table 2, p. 3, row 7 |  |
-| Mn3H |  | 48.9181 kJ/mol-atom |  | DFT |  |  | [1] Liang 2018; _cites http://oqmd 2018_ | Table 2, p. 3, row 6 |  |
-| Mn3H |  | 55.0931 kJ/mol-atom |  | DFT |  |  | [1] Liang 2018; _cites http://oqmd 2018_ | Table 2, p. 3, row 7 |  |
-| MnH |  | 1.6 kJ/mol-atom |  | DFT |  |  | [1] Liang 2018; _cites https://www 2018_ | Table 2, p. 3, row 3 |  |
-| MnH |  | 2.33 kJ/mol-atom |  | DFT |  |  | [1] Liang 2018; _cites http://oqmd 2018_ | Table 2, p. 3, row 1 |  |
-| MnH |  | 5.58 kJ/mol-atom |  | DFT |  |  | [1] Liang 2018; _cites http://oqmd 2018_ | Table 2, p. 3, row 2 |  |
-| MnH |  | 16.1131 kJ/mol-atom |  | DFT |  |  | [1] Liang 2018; _cites https://www 2018_ | Table 2, p. 3, row 3 |  |
-| MnH |  | 23.3495 kJ/mol-atom |  | DFT |  |  | [1] Liang 2018; _cites http://oqmd 2018_ | Table 2, p. 3, row 1 |  |
-| MnH |  | 55.865 kJ/mol-atom |  | DFT |  |  | [1] Liang 2018; _cites http://oqmd 2018_ | Table 2, p. 3, row 2 |  |
-| MnH3 |  | 3.48 kJ/mol-atom |  | DFT |  |  | [1] Liang 2018; _cites http://oqmd 2018_ | Table 2, p. 3, row 4 |  |
-| MnH3 |  | 3.62 kJ/mol-atom |  | DFT |  |  | [1] Liang 2018; _cites http://oqmd 2018_ | Table 2, p. 3, row 5 |  |
-| MnH3 |  | 34.8312 kJ/mol-atom |  | DFT |  |  | [1] Liang 2018; _cites http://oqmd 2018_ | Table 2, p. 3, row 4 |  |
-| MnH3 |  | 36.2785 kJ/mol-atom |  | DFT |  |  | [1] Liang 2018; _cites http://oqmd 2018_ | Table 2, p. 3, row 5 |  |
+| Mn3H |  | 4.88 kJ/mol-atom |  | DFT |  |  | [1] Liang 2018; _cites http://oqmd 2018_ | Table 2, p. 3, row 6; `ORC-QY7V64EOKA.cfe956` |  |
+| Mn3H |  | 5.5 kJ/mol-atom |  | DFT |  |  | [1] Liang 2018; _cites http://oqmd 2018_ | Table 2, p. 3, row 7; `ORC-LFZL3MLUX7.c17406` |  |
+| Mn3H |  | 48.9181 kJ/mol-atom |  | DFT |  |  | [1] Liang 2018; _cites http://oqmd 2018_ | Table 2, p. 3, row 6; `ORC-QY7V64EOKA.f25454` |  |
+| Mn3H |  | 55.0931 kJ/mol-atom |  | DFT |  |  | [1] Liang 2018; _cites http://oqmd 2018_ | Table 2, p. 3, row 7; `ORC-LFZL3MLUX7.f83f1e` |  |
+| MnH |  | 1.6 kJ/mol-atom |  | DFT |  |  | [1] Liang 2018; _cites https://www 2018_ | Table 2, p. 3, row 3; `ORC-RQ5XFUJIIE.f5b655` |  |
+| MnH |  | 2.33 kJ/mol-atom |  | DFT |  |  | [1] Liang 2018; _cites http://oqmd 2018_ | Table 2, p. 3, row 1; `ORC-H54PLG365N.251b66` |  |
+| MnH |  | 5.58 kJ/mol-atom |  | DFT |  |  | [1] Liang 2018; _cites http://oqmd 2018_ | Table 2, p. 3, row 2; `ORC-DHVE6SQ3GC.38c9dc` |  |
+| MnH |  | 16.1131 kJ/mol-atom |  | DFT |  |  | [1] Liang 2018; _cites https://www 2018_ | Table 2, p. 3, row 3; `ORC-RQ5XFUJIIE.70ff32` |  |
+| MnH |  | 23.3495 kJ/mol-atom |  | DFT |  |  | [1] Liang 2018; _cites http://oqmd 2018_ | Table 2, p. 3, row 1; `ORC-H54PLG365N.daf370` |  |
+| MnH |  | 55.865 kJ/mol-atom |  | DFT |  |  | [1] Liang 2018; _cites http://oqmd 2018_ | Table 2, p. 3, row 2; `ORC-DHVE6SQ3GC.9426db` |  |
+| MnH3 |  | 3.48 kJ/mol-atom |  | DFT |  |  | [1] Liang 2018; _cites http://oqmd 2018_ | Table 2, p. 3, row 4; `ORC-6BWCK2PCFQ.6a3724` |  |
+| MnH3 |  | 3.62 kJ/mol-atom |  | DFT |  |  | [1] Liang 2018; _cites http://oqmd 2018_ | Table 2, p. 3, row 5; `ORC-NJ2X3MWOZX.636e2e` |  |
+| MnH3 |  | 34.8312 kJ/mol-atom |  | DFT |  |  | [1] Liang 2018; _cites http://oqmd 2018_ | Table 2, p. 3, row 4; `ORC-6BWCK2PCFQ.87650d` |  |
+| MnH3 |  | 36.2785 kJ/mol-atom |  | DFT |  |  | [1] Liang 2018; _cites http://oqmd 2018_ | Table 2, p. 3, row 5; `ORC-NJ2X3MWOZX.8728d7` |  |
 
 ## Sources
 
@@ -115,4 +115,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

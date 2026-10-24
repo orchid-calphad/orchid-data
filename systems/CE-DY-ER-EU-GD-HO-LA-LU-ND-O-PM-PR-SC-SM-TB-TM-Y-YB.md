@@ -28,9 +28,9 @@ Table: Crystal structure, Ce–Dy–Er–Eu–Gd–Ho–La–Lu–Nd–O–Pm–
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| lattice molar volume | 47.842 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Dy 0, Er 0, Eu 0, Gd 0, Ho 0, La 0, Lu 0, Nd 0, O 0.6, Pm 0, Pr 0, Sc 0, Sm 0, Tb 0, Tm 0, Y 0, Yb 0_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 4 |  |
-| lattice molar volume | 48.985 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Dy 0, Er 0, Eu 0, Gd 0, Ho 0, La 0, Lu 0, Nd 0, O 0.6, Pm 0, Pr 0, Sc 0, Sm 0, Tb 0, Tm 0, Y 0, Yb 0_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 4 |  |
-| lattice molar volume | 53.637 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Dy 0, Er 0, Eu 0, Gd 0, Ho 0, La 0, Lu 0, Nd 0, O 0.6, Pm 0, Pr 0, Sc 0, Sm 0, Tb 0, Tm 0, Y 0, Yb 0_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 4 |  |
+| lattice molar volume | 47.842 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Dy 0, Er 0, Eu 0, Gd 0, Ho 0, La 0, Lu 0, Nd 0, O 0.6, Pm 0, Pr 0, Sc 0, Sm 0, Tb 0, Tm 0, Y 0, Yb 0_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 4; `ORC-IXCB5BHGGE.21f0f2` |  |
+| lattice molar volume | 48.985 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Dy 0, Er 0, Eu 0, Gd 0, Ho 0, La 0, Lu 0, Nd 0, O 0.6, Pm 0, Pr 0, Sc 0, Sm 0, Tb 0, Tm 0, Y 0, Yb 0_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 4; `ORC-IXCB5BHGGE.88ef67` |  |
+| lattice molar volume | 53.637 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Dy 0, Er 0, Eu 0, Gd 0, Ho 0, La 0, Lu 0, Nd 0, O 0.6, Pm 0, Pr 0, Sc 0, Sm 0, Tb 0, Tm 0, Y 0, Yb 0_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 4; `ORC-IXCB5BHGGE.a3373e` |  |
 
 ## Sources
 
@@ -73,4 +73,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

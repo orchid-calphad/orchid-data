@@ -31,13 +31,13 @@ Table: Invariant reactions reported in the literature for the Yb system (7)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1053 | other: Yb(bcc) = Yb(fcc) |  | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 5, p. 6, row 2 |  |
-| 1033 | polymorphic: BCC(Yb) -> FCC(Yb) |  | unspecified | [2] Zhang 2007; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 4, p. 5, row 2 |  |
-| 1033 | polymorphic: BCC(Yb) -> FCC(Yb) |  | model | [2] Zhang 2007 | Table 4, p. 5, row 1 |  |
-| 1033 | polymorphic: β(Yb) -> γ(Yb) | β(Yb):  | experimental | [3] Dai-man 2018; _cites Okamoto 2005_ | Table 1, p. 3, row 26 |  |
-| 1033 | other: Yb(bcc) = Yb(fcc) |  | model | [1] Brutti 2005 | Table 5, p. 6, row 1 |  |
-| 1033 | polymorphic: β(Yb) -> γ(Yb) | β(Yb):  | model | [3] Dai-man 2018 | Table 1, p. 3, row 27 |  |
-| 1023 | polymorphic: β(Yb) -> γ(Yb) | β(Yb):  | experimental | [3] Dai-man 2018; _cites Pani 2003_ | Table 1, p. 3, row 25 |  |
+| 1053 | other: Yb(bcc) = Yb(fcc) |  | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 5, p. 6, row 2; `ORC-BXJNLM5LSR` |  |
+| 1033 | polymorphic: BCC(Yb) -> FCC(Yb) |  | unspecified | [2] Zhang 2007; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 4, p. 5, row 2; `ORC-4JVSPQEJHA` |  |
+| 1033 | polymorphic: BCC(Yb) -> FCC(Yb) |  | model | [2] Zhang 2007 | Table 4, p. 5, row 1; `ORC-5WRRVJVTVW` |  |
+| 1033 | polymorphic: β(Yb) -> γ(Yb) | β(Yb):  | experimental | [3] Dai-man 2018; _cites Okamoto 2005_ | Table 1, p. 3, row 26; `ORC-CM2EPP6Q5F` |  |
+| 1033 | other: Yb(bcc) = Yb(fcc) |  | model | [1] Brutti 2005 | Table 5, p. 6, row 1; `ORC-FEE3RIHE4L` |  |
+| 1033 | polymorphic: β(Yb) -> γ(Yb) | β(Yb):  | model | [3] Dai-man 2018 | Table 1, p. 3, row 27; `ORC-U7NXMWNFL7` |  |
+| 1023 | polymorphic: β(Yb) -> γ(Yb) | β(Yb):  | experimental | [3] Dai-man 2018; _cites Pani 2003_ | Table 1, p. 3, row 25; `ORC-TESND2UB4V` |  |
 
 ## Other properties
 
@@ -47,17 +47,17 @@ Table: Phase transition, Yb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1013.15 K | 1013.15 | Yb | experimental | [4] Meng 2008; _cites Palenzona 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990116-6) | p. 2 | “The accepted ␤ ↔ ␥ transformation temperature by Gschneidner et al. \[10\] was 795 ◦ C, while the given value by Palenzona et al. \[9\] was 740 ◦ C.” |
-| Phase transition | 1033 K | 1033 | polymorphic: (βYb) -> (γYb); _(βYb): _ | model | [5] Ghamri 2015 | Table 5, p. 6, row 10 |  |
-| Phase transition | 1053 K | 1053 | polymorphic: Yb(bcc) = Yb(fcc); _alloy: Yb 1_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 2, p. 3, row 40 |  |
-| Phase transition | 1053.15 K | 1053.15 | polymorphic: γYb -> βYb | model | [6] Achgar 2018 | Table 5, p. 8, row 6 |  |
-| Phase transition | 1053.15 K | 1053.15 | polymorphic: γYb -> βYb | model | [6] Achgar 2018 | Table 5, p. 8, row 5 |  |
-| Phase transition | 1053.15 K | 1053.15 | polymorphic: γYb -> βYb | experimental | [6] Achgar 2018; _cites Pani 2003_ | Table 5, p. 8, row 4 |  |
-| Phase transition | 1061 K | 1061 | polymorphic: (βYb) -> (γYb); _(βYb): _ | experimental | [5] Ghamri 2015; _cites Kh 1970_ | Table 5, p. 6, row 7 |  |
-| Phase transition | 1065 K | 1065 | polymorphic | experimental | [7] Hu 2017; _cites Gschneidner 1986_ [doi](https://doi.org/10.1016/s0168-1273%2886%2908004-2) | p. 20 | “In fact, the experimentally measured temperature is even lower than the commonly acceptable polymorphic transformation temperature between fcc-Yb and bcc-Yb, which is 1065K \[41\].” |
-| Phase transition | 1068 K | 1068 | polymorphic: (βYb) -> (γYb); _(βYb): _ | experimental | [5] Ghamri 2015; _cites Okamoto 1990_ | Table 5, p. 6, row 9 |  |
-| Phase transition | 1068.15 K | 1068.15 | Yb | model | [4] Meng 2008; _cites Gschneidner 1989_ [doi](https://doi.org/10.1007/bf02882175) | p. 2 | “The accepted ␤ ↔ ␥ transformation temperature by Gschneidner et al. \[10\] was 795 ◦ C, while the given value by Palenzona et al. \[9\] was 740 ◦ C.” |
-| Phase transition | 1071 K | 1071 | polymorphic: (βYb) -> (γYb); _(βYb): _ | experimental | [5] Ghamri 2015; _cites Spedding 1961_ [doi](https://doi.org/10.1016/0022-5088%2861%2990003-0) | Table 5, p. 6, row 8 |  |
+| Phase transition | 1013.15 K | 1013.15 | Yb | experimental | [4] Meng 2008; _cites Palenzona 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990116-6) | p. 2; `ORC-5XAV2TKGTC.ef79bb` | “The accepted ␤ ↔ ␥ transformation temperature by Gschneidner et al. \[10\] was 795 ◦ C, while the given value by Palenzona et al. \[9\] was 740 ◦ C.” |
+| Phase transition | 1033 K | 1033 | polymorphic: (βYb) -> (γYb); _(βYb): _ | model | [5] Ghamri 2015 | Table 5, p. 6, row 10; `ORC-HMEYSOXMEB` |  |
+| Phase transition | 1053 K | 1053 | polymorphic: Yb(bcc) = Yb(fcc); _alloy: Yb 1_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 2, p. 3, row 40; `ORC-5XIXPAZ2UM` |  |
+| Phase transition | 1053.15 K | 1053.15 | polymorphic: γYb -> βYb | model | [6] Achgar 2018 | Table 5, p. 8, row 6; `ORC-266SZGZRF5` |  |
+| Phase transition | 1053.15 K | 1053.15 | polymorphic: γYb -> βYb | model | [6] Achgar 2018 | Table 5, p. 8, row 5; `ORC-BRQF2JTYBN` |  |
+| Phase transition | 1053.15 K | 1053.15 | polymorphic: γYb -> βYb | experimental | [6] Achgar 2018; _cites Pani 2003_ | Table 5, p. 8, row 4; `ORC-JBOD4CRKRL` |  |
+| Phase transition | 1061 K | 1061 | polymorphic: (βYb) -> (γYb); _(βYb): _ | experimental | [5] Ghamri 2015; _cites Kh 1970_ | Table 5, p. 6, row 7; `ORC-TJXIXJRJL4` |  |
+| Phase transition | 1065 K | 1065 | polymorphic | experimental | [7] Hu 2017; _cites Gschneidner 1986_ [doi](https://doi.org/10.1016/s0168-1273%2886%2908004-2) | p. 20; `ORC-L4DWP2R3EJ` | “In fact, the experimentally measured temperature is even lower than the commonly acceptable polymorphic transformation temperature between fcc-Yb and bcc-Yb, which is 1065K \[41\].” |
+| Phase transition | 1068 K | 1068 | polymorphic: (βYb) -> (γYb); _(βYb): _ | experimental | [5] Ghamri 2015; _cites Okamoto 1990_ | Table 5, p. 6, row 9; `ORC-ARRGKVZ6UB` |  |
+| Phase transition | 1068.15 K | 1068.15 | Yb | model | [4] Meng 2008; _cites Gschneidner 1989_ [doi](https://doi.org/10.1007/bf02882175) | p. 2; `ORC-5XAV2TKGTC.e4374e` | “The accepted ␤ ↔ ␥ transformation temperature by Gschneidner et al. \[10\] was 795 ◦ C, while the given value by Palenzona et al. \[9\] was 740 ◦ C.” |
+| Phase transition | 1071 K | 1071 | polymorphic: (βYb) -> (γYb); _(βYb): _ | experimental | [5] Ghamri 2015; _cites Spedding 1961_ [doi](https://doi.org/10.1016/0022-5088%2861%2990003-0) | Table 5, p. 6, row 8; `ORC-4SKPK5PYNG` |  |
 
 ### Crystal structure (10)
 
@@ -65,16 +65,16 @@ Table: Crystal structure, Yb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 3.81 Å | 0 | (Yb-γ); _alloy: Yb 1_ | DFT | [8] Kali-Ali 2017 | Table 1, p. 3, row 4 |  |
-| Lattice a; _printed: a_ | 5.451 Å | 0 | fcc-Yb; _alloy: Yb 1_ | DFT | [7] Hu 2017 | Table 3, p. 26, row 7 |  |
-| Lattice a; _printed: a_ | 5.491 Å | 0 | fcc-Yb; _alloy: Yb 1_ | DFT | [7] Hu 2017 | Table 3, p. 26, row 8 |  |
-| Lattice a | 3.87 Å | 298.15 | (Yb-γ); _alloy: Yb 1_ | experimental | [8] Kali-Ali 2017; _cites Kayser 1971_ [doi](https://doi.org/10.1002/pssa.2210080124) | Table 1, p. 3, row 3 |  |
-| Lattice a; _printed: a_ | 5.484 Å | 298.15 | fcc-Yb; _alloy: Yb 1_ | experimental | [7] Hu 2017; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 3, p. 26, row 6 |  |
-| Lattice a; _printed: Lattice parameter a_ | 5.486 Å | 298.15 | fcc-Yb; _alloy: Yb 1_ | experimental | [7] Hu 2017; _cites Buschow 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990082-3) | Table 3, p. 26, row 5 |  |
-| Lattice b | 3.81 Å | 0 | (Yb-γ); _alloy: Yb 1_ | DFT | [8] Kali-Ali 2017 | Table 1, p. 3, row 4 |  |
-| Lattice b | 3.87 Å | 298.15 | (Yb-γ); _alloy: Yb 1_ | experimental | [8] Kali-Ali 2017; _cites Kayser 1971_ [doi](https://doi.org/10.1002/pssa.2210080124) | Table 1, p. 3, row 3 |  |
-| Lattice c | 6.33 Å | 0 | (Yb-γ); _alloy: Yb 1_ | DFT | [8] Kali-Ali 2017 | Table 1, p. 3, row 4 |  |
-| Lattice c | 6.38 Å | 298.15 | (Yb-γ); _alloy: Yb 1_ | experimental | [8] Kali-Ali 2017; _cites Kayser 1971_ [doi](https://doi.org/10.1002/pssa.2210080124) | Table 1, p. 3, row 3 |  |
+| Lattice a | 3.81 Å | 0 | (Yb-γ); _alloy: Yb 1_ | DFT | [8] Kali-Ali 2017 | Table 1, p. 3, row 4; `ORC-WNLCISU6NH.d54570` |  |
+| Lattice a; _printed: a_ | 5.451 Å | 0 | fcc-Yb; _alloy: Yb 1_ | DFT | [7] Hu 2017 | Table 3, p. 26, row 7; `ORC-B5UENWL26C.23fcfc` |  |
+| Lattice a; _printed: a_ | 5.491 Å | 0 | fcc-Yb; _alloy: Yb 1_ | DFT | [7] Hu 2017 | Table 3, p. 26, row 8; `ORC-YMWPRKAPFK.70be5b` |  |
+| Lattice a | 3.87 Å | 298.15 | (Yb-γ); _alloy: Yb 1_ | experimental | [8] Kali-Ali 2017; _cites Kayser 1971_ [doi](https://doi.org/10.1002/pssa.2210080124) | Table 1, p. 3, row 3; `ORC-HEKV56YR6V.b2dec9` |  |
+| Lattice a; _printed: a_ | 5.484 Å | 298.15 | fcc-Yb; _alloy: Yb 1_ | experimental | [7] Hu 2017; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 3, p. 26, row 6; `ORC-3S2CQZTGO4.535bd5` |  |
+| Lattice a; _printed: Lattice parameter a_ | 5.486 Å | 298.15 | fcc-Yb; _alloy: Yb 1_ | experimental | [7] Hu 2017; _cites Buschow 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990082-3) | Table 3, p. 26, row 5; `ORC-KFTF2MIXHI.2f0789` |  |
+| Lattice b | 3.81 Å | 0 | (Yb-γ); _alloy: Yb 1_ | DFT | [8] Kali-Ali 2017 | Table 1, p. 3, row 4; `ORC-WNLCISU6NH.9966ca` |  |
+| Lattice b | 3.87 Å | 298.15 | (Yb-γ); _alloy: Yb 1_ | experimental | [8] Kali-Ali 2017; _cites Kayser 1971_ [doi](https://doi.org/10.1002/pssa.2210080124) | Table 1, p. 3, row 3; `ORC-HEKV56YR6V.9d8625` |  |
+| Lattice c | 6.33 Å | 0 | (Yb-γ); _alloy: Yb 1_ | DFT | [8] Kali-Ali 2017 | Table 1, p. 3, row 4; `ORC-WNLCISU6NH.8b5981` |  |
+| Lattice c | 6.38 Å | 298.15 | (Yb-γ); _alloy: Yb 1_ | experimental | [8] Kali-Ali 2017; _cites Kayser 1971_ [doi](https://doi.org/10.1002/pssa.2210080124) | Table 1, p. 3, row 3; `ORC-HEKV56YR6V.cc6991` |  |
 
 ## Sources
 
@@ -124,4 +124,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

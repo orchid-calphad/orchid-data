@@ -40,11 +40,11 @@ Table: Invariant reactions reported in the literature for the Hg–Tl system (5)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 273.9 | eutectic: L -> (β-Tl) + gamma | L: Tl 0.405; Hg5Tl2: Tl 0.285714 | experimental | [1] Gierlotka 2006; _cites Richter 1973_ [doi](https://doi.org/10.1016/0001-6160%2873%2990195-8) | Table 3, p. 3, row 3 |  |
-| 273.9 | eutectic |  | experimental | [1] Gierlotka 2006; _cites Richter 1973_ [doi](https://doi.org/10.1016/0001-6160%2873%2990195-8) | p. 3 | “The results of \[2\] suggest a concentration of thallium in the eutectic point of 40.5 at. % at 273.4 K, while Richter and Pistorius \[13\] reported a slightly higher temperature, 273.9 K.” |
-| 273.4 | eutectic |  | experimental | [1] Gierlotka 2006; _cites Claire 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990270-2) | p. 3 | “The results of \[2\] suggest a concentration of thallium in the eutectic point of 40.5 at. % at 273.4 K, while Richter and Pistorius \[13\] reported a slightly higher temperature, 273.9 K.” |
-| 213 | eutectic |  | experimental | [1] Gierlotka 2006; _cites Claire 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990270-2) | p. 3 | “The eutectic point near pure Hg was determined by Claire and Rey \[2\], who reported a temperature of 213 K and 8.7 at. % Tl.” |
-| 213 | eutectic: L -> (α-Hg) + gamma | L: Tl 0.086; (αHg): Tl 0; Hg5Tl2: Tl 0.285714 | experimental | [1] Gierlotka 2006; _cites Claire 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990270-2) | Table 3, p. 3, row 2 |  |
+| 273.9 | eutectic: L -> (β-Tl) + gamma | L: Tl 0.405; Hg5Tl2: Tl 0.285714 | experimental | [1] Gierlotka 2006; _cites Richter 1973_ [doi](https://doi.org/10.1016/0001-6160%2873%2990195-8) | Table 3, p. 3, row 3; `ORC-4VFOSJNDII` |  |
+| 273.9 | eutectic |  | experimental | [1] Gierlotka 2006; _cites Richter 1973_ [doi](https://doi.org/10.1016/0001-6160%2873%2990195-8) | p. 3; `ORC-N6UNGKPTPT.5be2a0` | “The results of \[2\] suggest a concentration of thallium in the eutectic point of 40.5 at. % at 273.4 K, while Richter and Pistorius \[13\] reported a slightly higher temperature, 273.9 K.” |
+| 273.4 | eutectic |  | experimental | [1] Gierlotka 2006; _cites Claire 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990270-2) | p. 3; `ORC-N6UNGKPTPT.552600` | “The results of \[2\] suggest a concentration of thallium in the eutectic point of 40.5 at. % at 273.4 K, while Richter and Pistorius \[13\] reported a slightly higher temperature, 273.9 K.” |
+| 213 | eutectic |  | experimental | [1] Gierlotka 2006; _cites Claire 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990270-2) | p. 3; `ORC-NHOCYV4CEZ` | “The eutectic point near pure Hg was determined by Claire and Rey \[2\], who reported a temperature of 213 K and 8.7 at. % Tl.” |
+| 213 | eutectic: L -> (α-Hg) + gamma | L: Tl 0.086; (αHg): Tl 0; Hg5Tl2: Tl 0.285714 | experimental | [1] Gierlotka 2006; _cites Claire 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990270-2) | Table 3, p. 3, row 2; `ORC-VRM23KFNH3` |  |
 
 ## Other properties
 
@@ -54,8 +54,8 @@ Table: Phase transition, Hg–Tl system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 287.3 K | 287.3 | congruent transformation | experimental | [1] Gierlotka 2006; _cites Claire 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990270-2) | p. 3 | “They described also the congruent melting point of the Gamma phase as 28.6 at. % of Tl at 287.3 K.” |
-| Phase transition | 291 K | 291 | congruent melting: L -> gamma; _L: Tl 0.286; γ: Tl 0.286_ | experimental | [1] Gierlotka 2006; _cites Hansen 1958_ | Table 3, p. 3, row 1 |  |
+| Phase transition | 287.3 K | 287.3 | congruent transformation | experimental | [1] Gierlotka 2006; _cites Claire 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990270-2) | p. 3; `ORC-C2A3ZPTOJR` | “They described also the congruent melting point of the Gamma phase as 28.6 at. % of Tl at 287.3 K.” |
+| Phase transition | 291 K | 291 | congruent melting: L -> gamma; _L: Tl 0.286; γ: Tl 0.286_ | experimental | [1] Gierlotka 2006; _cites Hansen 1958_ | Table 3, p. 3, row 1; `ORC-LOJB53BEAO` |  |
 
 ### Crystal structure (6)
 
@@ -63,12 +63,12 @@ Table: Crystal structure, Hg–Tl system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 399.5 not_printed | 78 (\<) | (βHg); _alloy: Tl 0_ | experimental | [1] Gierlotka 2006; _cites Amand 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990197-2) | Table 1, p. 2, row 1 |  |
-| Lattice a | 460.2 not_printed | 156.5 | (αHg); _alloy: Tl 0_ | experimental | [1] Gierlotka 2006; _cites Amand 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990197-2) | Table 1, p. 2, row 2 |  |
-| Lattice a | 300.5 not_printed | 156.5 | (αHg); _alloy: Tl 0_ | experimental | [1] Gierlotka 2006; _cites Amand 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990197-2) | Table 1, p. 2, row 2 |  |
-| Lattice a | 468 not_printed | 291 (\<) | γ | experimental | [1] Gierlotka 2006; _cites Amand 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990197-2) | Table 1, p. 2, row 5 |  |
-| Lattice a | 462.8 not_printed | 291 (\<) | γ | experimental | [1] Gierlotka 2006; _cites Amand 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990197-2) | Table 1, p. 2, row 5 |  |
-| Lattice c | 282.5 not_printed | 78 (\<) | (βHg); _alloy: Tl 0_ | experimental | [1] Gierlotka 2006; _cites Amand 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990197-2) | Table 1, p. 2, row 1 |  |
+| Lattice a | 399.5 not_printed | 78 (\<) | (βHg); _alloy: Tl 0_ | experimental | [1] Gierlotka 2006; _cites Amand 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990197-2) | Table 1, p. 2, row 1; `ORC-STOEJGWPBB.aa301d` |  |
+| Lattice a | 460.2 not_printed | 156.5 | (αHg); _alloy: Tl 0_ | experimental | [1] Gierlotka 2006; _cites Amand 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990197-2) | Table 1, p. 2, row 2; `ORC-EW5UTW2RZ7.80704f` |  |
+| Lattice a | 300.5 not_printed | 156.5 | (αHg); _alloy: Tl 0_ | experimental | [1] Gierlotka 2006; _cites Amand 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990197-2) | Table 1, p. 2, row 2; `ORC-EW5UTW2RZ7.eeda68` |  |
+| Lattice a | 468 not_printed | 291 (\<) | γ | experimental | [1] Gierlotka 2006; _cites Amand 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990197-2) | Table 1, p. 2, row 5; `ORC-UOTEOXO42P.5d475d` |  |
+| Lattice a | 462.8 not_printed | 291 (\<) | γ | experimental | [1] Gierlotka 2006; _cites Amand 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990197-2) | Table 1, p. 2, row 5; `ORC-UOTEOXO42P.ae1e24` |  |
+| Lattice c | 282.5 not_printed | 78 (\<) | (βHg); _alloy: Tl 0_ | experimental | [1] Gierlotka 2006; _cites Amand 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990197-2) | Table 1, p. 2, row 1; `ORC-STOEJGWPBB.8c3234` |  |
 
 ## Sources
 
@@ -133,4 +133,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

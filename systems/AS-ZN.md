@@ -29,9 +29,9 @@ Table: Invariant reactions reported in the literature for the As–Zn system (3)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1023 | eutectic |  | experimental | [1] Ghasemi 2015; _cites Heike 1921_ [doi](https://doi.org/10.1002/zaac.19211180123) | p. 2 | “There are three eutectic reactions in this system at compositions of 21.0, 41.0 and 99.8 at.% Zn and at 996, 1023 and 692 K, respectively.” |
-| 996 | eutectic |  | experimental | [1] Ghasemi 2015; _cites Heike 1921_ [doi](https://doi.org/10.1002/zaac.19211180123) | p. 2 | “There are three eutectic reactions in this system at compositions of 21.0, 41.0 and 99.8 at.% Zn and at 996, 1023 and 692 K, respectively.” |
-| 692 | eutectic |  | experimental | [1] Ghasemi 2015; _cites Heike 1921_ [doi](https://doi.org/10.1002/zaac.19211180123) | p. 2 | “There are three eutectic reactions in this system at compositions of 21.0, 41.0 and 99.8 at.% Zn and at 996, 1023 and 692 K, respectively.” |
+| 1023 | eutectic |  | experimental | [1] Ghasemi 2015; _cites Heike 1921_ [doi](https://doi.org/10.1002/zaac.19211180123) | p. 2; `ORC-JO7VAWDP5U.88c6dc` | “There are three eutectic reactions in this system at compositions of 21.0, 41.0 and 99.8 at.% Zn and at 996, 1023 and 692 K, respectively.” |
+| 996 | eutectic |  | experimental | [1] Ghasemi 2015; _cites Heike 1921_ [doi](https://doi.org/10.1002/zaac.19211180123) | p. 2; `ORC-JO7VAWDP5U.3b6529` | “There are three eutectic reactions in this system at compositions of 21.0, 41.0 and 99.8 at.% Zn and at 996, 1023 and 692 K, respectively.” |
+| 692 | eutectic |  | experimental | [1] Ghasemi 2015; _cites Heike 1921_ [doi](https://doi.org/10.1002/zaac.19211180123) | p. 2; `ORC-JO7VAWDP5U.36c8be` | “There are three eutectic reactions in this system at compositions of 21.0, 41.0 and 99.8 at.% Zn and at 996, 1023 and 692 K, respectively.” |
 
 ## Other properties
 
@@ -41,10 +41,10 @@ Table: Phase transition, As–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 463 K | 463 | polymorphic | experimental | [1] Ghasemi 2015; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02667479) | p. 2 | “The As2Zn3 phase undergoes two polymorphic transformations; bAs2Zn3 M a0 -As2Zn3 at 924 K and a0 -As2Zn3 M a-As2Zn3 at 463 K (according to Okamoto \[12\] and based on Ref. \[14\]).” |
-| Phase transition | 924 K | 924 | polymorphic | experimental | [1] Ghasemi 2015; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02667479) | p. 2 | “The As2Zn3 phase undergoes two polymorphic transformations; bAs2Zn3 M a0 -As2Zn3 at 924 K and a0 -As2Zn3 M a-As2Zn3 at 463 K (according to Okamoto \[12\] and based on Ref. \[14\]).” |
-| Phase transition | 1043 K | 1043 | congruent transformation | experimental | [1] Ghasemi 2015 | p. 2 | “Both these stoichiometric phases, As2Zn and As2Zn3, melt congruently; at 1043 and 1288 K, respectively.” |
-| Phase transition | 1288 K | 1288 | congruent transformation | experimental | [1] Ghasemi 2015 | p. 2 | “Both these stoichiometric phases, As2Zn and As2Zn3, melt congruently; at 1043 and 1288 K, respectively.” |
+| Phase transition | 463 K | 463 | polymorphic | experimental | [1] Ghasemi 2015; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02667479) | p. 2; `ORC-UB4VYXDPSQ.e3f2a3` | “The As2Zn3 phase undergoes two polymorphic transformations; bAs2Zn3 M a0 -As2Zn3 at 924 K and a0 -As2Zn3 M a-As2Zn3 at 463 K (according to Okamoto \[12\] and based on Ref. \[14\]).” |
+| Phase transition | 924 K | 924 | polymorphic | experimental | [1] Ghasemi 2015; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02667479) | p. 2; `ORC-UB4VYXDPSQ.068065` | “The As2Zn3 phase undergoes two polymorphic transformations; bAs2Zn3 M a0 -As2Zn3 at 924 K and a0 -As2Zn3 M a-As2Zn3 at 463 K (according to Okamoto \[12\] and based on Ref. \[14\]).” |
+| Phase transition | 1043 K | 1043 | congruent transformation | experimental | [1] Ghasemi 2015 | p. 2; `ORC-XUPZOZGWOZ.fc7f7f` | “Both these stoichiometric phases, As2Zn and As2Zn3, melt congruently; at 1043 and 1288 K, respectively.” |
+| Phase transition | 1288 K | 1288 | congruent transformation | experimental | [1] Ghasemi 2015 | p. 2; `ORC-XUPZOZGWOZ.263a22` | “Both these stoichiometric phases, As2Zn and As2Zn3, melt congruently; at 1043 and 1288 K, respectively.” |
 
 ## Sources
 
@@ -98,4 +98,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

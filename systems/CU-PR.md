@@ -58,16 +58,16 @@ Table: Invariant reactions reported in the literature for the Cu–Pr system (10
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1218 | congruent melting: liq -> Cu6Pr | L: Pr 0.143; Cu6Pr: Cu 0.857143, Pr 0.142857 | model | [1] Zhuang 1996 | Table 5, p. 7, row 2 |  |
-| 1169 | eutectic: liq -> Cu(fcc) + Cu6Pr | L: Pr 0.086; Cu6Pr: Cu 0.857143, Pr 0.142857 | model | [1] Zhuang 1996 | Table 5, p. 7, row 1 |  |
-| 1104 | peritectic: liq + Cu6Pr -> Cu5Pr | L: Pr 0.243; Cu6Pr: Cu 0.857143, Pr 0.142857; Cu5Pr: Cu 0.833333, Pr 0.166667 | model | [1] Zhuang 1996 | Table 5, p. 7, row 3 |  |
-| 1104 | congruent melting: liq -> Cu2Pr | L: Pr 0.333; Cu2Pr: Cu 0.666667, Pr 0.333333 | model | [1] Zhuang 1996 | Table 5, p. 7, row 6 |  |
-| 1100 | peritectic: liquid + Cu6Pr -> Cu5Pr |  | model | [1] Zhuang 1996 | p. 4 | “According to the formation rule of the other CusR phases, CusPr is likely to form from Cu6Pr and liquid through a peritectic reaction at about 1100 K, which is determined by interpolation of the melting data of other CusR phases.” |
-| 1093 | peritectic: liq + Cu5Pr -> Cu4Pr | L: Pr 0.249; Cu5Pr: Cu 0.833333, Pr 0.166667; Cu4Pr: Cu 0.8, Pr 0.2 | model | [1] Zhuang 1996 | Table 5, p. 7, row 4 |  |
-| 1069 | eutectic: liq -> Cu4Pr + Cu2Pr | L: Pr 0.27; Cu4Pr: Cu 0.8, Pr 0.2; Cu2Pr: Cu 0.666667, Pr 0.333333 | model | [1] Zhuang 1996 | Table 5, p. 7, row 5 |  |
-| 1068 | metatectic/catatectic: Pr(bcc) -> liq + Pr(dcph) | L: Pr 0.912 | model | [1] Zhuang 1996 | Table 5, p. 7, row 9 |  |
-| 855 | peritectic: liq + Cu2Pr -> CuPr | L: Pr 0.53; Cu2Pr: Cu 0.666667, Pr 0.333333; CuPr: Cu 0.5, Pr 0.5 | model | [1] Zhuang 1996 | Table 5, p. 7, row 7 |  |
-| 715 | eutectic: liq -> CuPr + Pr(dcph) | L: Pr 0.698; CuPr: Cu 0.5, Pr 0.5 | model | [1] Zhuang 1996 | Table 5, p. 7, row 8 |  |
+| 1218 | congruent melting: liq -> Cu6Pr | L: Pr 0.143; Cu6Pr: Cu 0.857143, Pr 0.142857 | model | [1] Zhuang 1996 | Table 5, p. 7, row 2; `ORC-57NLJBTHRY` |  |
+| 1169 | eutectic: liq -> Cu(fcc) + Cu6Pr | L: Pr 0.086; Cu6Pr: Cu 0.857143, Pr 0.142857 | model | [1] Zhuang 1996 | Table 5, p. 7, row 1; `ORC-JNCW6235HP` |  |
+| 1104 | peritectic: liq + Cu6Pr -> Cu5Pr | L: Pr 0.243; Cu6Pr: Cu 0.857143, Pr 0.142857; Cu5Pr: Cu 0.833333, Pr 0.166667 | model | [1] Zhuang 1996 | Table 5, p. 7, row 3; `ORC-6EEWY34CLT` |  |
+| 1104 | congruent melting: liq -> Cu2Pr | L: Pr 0.333; Cu2Pr: Cu 0.666667, Pr 0.333333 | model | [1] Zhuang 1996 | Table 5, p. 7, row 6; `ORC-JD43BPRMYE` |  |
+| 1100 | peritectic: liquid + Cu6Pr -> Cu5Pr |  | model | [1] Zhuang 1996 | p. 4; `ORC-6A3NQ4Y4Y2` | “According to the formation rule of the other CusR phases, CusPr is likely to form from Cu6Pr and liquid through a peritectic reaction at about 1100 K, which is determined by interpolation of the melting data of other CusR phases.” |
+| 1093 | peritectic: liq + Cu5Pr -> Cu4Pr | L: Pr 0.249; Cu5Pr: Cu 0.833333, Pr 0.166667; Cu4Pr: Cu 0.8, Pr 0.2 | model | [1] Zhuang 1996 | Table 5, p. 7, row 4; `ORC-PQIL3S2RGF` |  |
+| 1069 | eutectic: liq -> Cu4Pr + Cu2Pr | L: Pr 0.27; Cu4Pr: Cu 0.8, Pr 0.2; Cu2Pr: Cu 0.666667, Pr 0.333333 | model | [1] Zhuang 1996 | Table 5, p. 7, row 5; `ORC-YGL6WZS3VW` |  |
+| 1068 | metatectic/catatectic: Pr(bcc) -> liq + Pr(dcph) | L: Pr 0.912 | model | [1] Zhuang 1996 | Table 5, p. 7, row 9; `ORC-DZPMZXRVMC` |  |
+| 855 | peritectic: liq + Cu2Pr -> CuPr | L: Pr 0.53; Cu2Pr: Cu 0.666667, Pr 0.333333; CuPr: Cu 0.5, Pr 0.5 | model | [1] Zhuang 1996 | Table 5, p. 7, row 7; `ORC-3CSGEQX6YG` |  |
+| 715 | eutectic: liq -> CuPr + Pr(dcph) | L: Pr 0.698; CuPr: Cu 0.5, Pr 0.5 | model | [1] Zhuang 1996 | Table 5, p. 7, row 8; `ORC-FJRCDVA7FB` |  |
 
 ## Sources
 
@@ -132,4 +132,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

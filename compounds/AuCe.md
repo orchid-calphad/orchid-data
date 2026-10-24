@@ -14,20 +14,20 @@ Table: Enthalpy of formation of AuCe reported in the literature (14)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -76.2 kJ/mol-atom ± 1.9 | αCeAu | 298.15 | experimental | Calorimetry | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [1] Moustaine 2016; _cites Janghorban 1994_ | Table 2, p. 3, row 8 |  |
-| -75.2 kJ/mol-atom ± 1.4 | αCeAu | 1123 | experimental | Calorimetry | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [1] Moustaine 2016; _cites Janghorban 1994_ | Table 2, p. 3, row 7 |  |
-| -74 kJ/mol-atom ± 1 | αCeAu | 1123 | experimental | Calorimetry | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [1] Moustaine 2016; _cites LomelloeTafin 2006_ | Table 2, p. 3, row 5 |  |
-| -62.8 kJ/mol-atom ± 4.2 | αCeAu | 298.15 | experimental | Calorimetry | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [1] Moustaine 2016; _cites Fitzner 1993_ [doi](https://doi.org/10.1007/bf02657857) | Table 2, p. 3, row 9 |  |
-| -62.8 kJ/mol-atom ± 4.2 | αAuCe | 298.15 | experimental | calorimetry | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [2] Dong 2013; _cites Fitzner 1993_ | Table 4, p. 4, row 6 |  |
-| -79 kJ/mol-atom | βCeAu | 298.15 | model | Optimization | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [1] Moustaine 2016 | Table 2, p. 3, row 14 |  |
-| -78.6 kJ/mol-atom | αCeAu | 298.15 | model | Optimization | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [1] Moustaine 2016 | Table 2, p. 3, row 11 |  |
-| -76.02 kJ/mol-atom | αAuCe | 289 | model |  | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [2] Dong 2013 | Table 4, p. 4, row 7 |  |
-| -76.02 kJ/mol-atom | αCeAu | 298.15 | model | Optimization | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [1] Moustaine 2016; _cites Dong 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.013) | Table 2, p. 3, row 10 |  |
-| -75.7 kJ/mol-atom | βCeAu | 298.15 | model | Optimization | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [1] Moustaine 2016; _cites Dong 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.013) | Table 2, p. 3, row 13 |  |
-| -75.36 kJ/mol-atom | αAuCe | 0 | DFT |  | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [2] Dong 2013 | Table 4, p. 4, row 5 |  |
-| -75.36 kJ/mol-atom | αCeAu | 298.15 | DFT | ab initio | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [1] Moustaine 2016; _cites Blo_ | Table 2, p. 3, row 6 |  |
-| -74.71 kJ/mol-atom | βAuCe | 0 | DFT |  | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [2] Dong 2013 | Table 4, p. 4, row 4 |  |
-| -74.71 kJ/mol-atom | βCeAu | 298.15 | DFT | ab initio | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [1] Moustaine 2016; _cites Blo_ | Table 2, p. 3, row 12 |  |
+| -76.2 kJ/mol-atom ± 1.9 | αCeAu | 298.15 | experimental | Calorimetry | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [1] Moustaine 2016; _cites Janghorban 1994_ | Table 2, p. 3, row 8; `ORC-FAAZ6UT4FO` |  |
+| -75.2 kJ/mol-atom ± 1.4 | αCeAu | 1123 | experimental | Calorimetry | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [1] Moustaine 2016; _cites Janghorban 1994_ | Table 2, p. 3, row 7; `ORC-EYZKHB5PF6` |  |
+| -74 kJ/mol-atom ± 1 | αCeAu | 1123 | experimental | Calorimetry | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [1] Moustaine 2016; _cites LomelloeTafin 2006_ | Table 2, p. 3, row 5; `ORC-S6R7TXL4GL` |  |
+| -62.8 kJ/mol-atom ± 4.2 | αCeAu | 298.15 | experimental | Calorimetry | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [1] Moustaine 2016; _cites Fitzner 1993_ [doi](https://doi.org/10.1007/bf02657857) | Table 2, p. 3, row 9; `ORC-C37C5PYFBB` |  |
+| -62.8 kJ/mol-atom ± 4.2 | αAuCe | 298.15 | experimental | calorimetry | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [2] Dong 2013; _cites Fitzner 1993_ | Table 4, p. 4, row 6; `ORC-NI6RI3T7HM.c26ff9` |  |
+| -79 kJ/mol-atom | βCeAu | 298.15 | model | Optimization | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [1] Moustaine 2016 | Table 2, p. 3, row 14; `ORC-BGNX57I5U5.4fc311` |  |
+| -78.6 kJ/mol-atom | αCeAu | 298.15 | model | Optimization | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [1] Moustaine 2016 | Table 2, p. 3, row 11; `ORC-XXBF3XDCEJ.b4c708` |  |
+| -76.02 kJ/mol-atom | αAuCe | 289 | model |  | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [2] Dong 2013 | Table 4, p. 4, row 7; `ORC-JIP2AIABXI.caab2e` |  |
+| -76.02 kJ/mol-atom | αCeAu | 298.15 | model | Optimization | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [1] Moustaine 2016; _cites Dong 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.013) | Table 2, p. 3, row 10; `ORC-WDARYK2CEP.109899` |  |
+| -75.7 kJ/mol-atom | βCeAu | 298.15 | model | Optimization | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [1] Moustaine 2016; _cites Dong 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.013) | Table 2, p. 3, row 13; `ORC-Q2DAWAVRHE.05cf25` |  |
+| -75.36 kJ/mol-atom | αAuCe | 0 | DFT |  | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [2] Dong 2013 | Table 4, p. 4, row 5; `ORC-JTTISQ65F3.427862` |  |
+| -75.36 kJ/mol-atom | αCeAu | 298.15 | DFT | ab initio | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [1] Moustaine 2016; _cites Blo_ | Table 2, p. 3, row 6; `ORC-KI6DB4ZQSO` |  |
+| -74.71 kJ/mol-atom | βAuCe | 0 | DFT |  | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [2] Dong 2013 | Table 4, p. 4, row 4; `ORC-LRZ7JGSTYI.f7e67c` |  |
+| -74.71 kJ/mol-atom | βCeAu | 298.15 | DFT | ab initio | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [1] Moustaine 2016; _cites Blo_ | Table 2, p. 3, row 12; `ORC-VDSEVXOHKO` |  |
 
 ### Uncertainty budget
 
@@ -118,4 +118,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -14,10 +14,10 @@ Table: Enthalpy of formation of Na2U2O7 reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -291.255 kJ/mol-atom ± 0.363636 | α-Na2U2O7 | 298.15 | experimental | experimental (calorimetry) | [Na–O–U](https://data.orchid-project.org/systems/NA-O-U.html) | [1] Smith 2017; _cites Guillaumont 2003_ | Table 8, p. 12, row 9 |  |
-| -291.255 kJ/mol-atom | α-Na2U2O7 | 298.15 | model | CALPHAD | [Na–O–U](https://data.orchid-project.org/systems/NA-O-U.html) | [1] Smith 2017 | Table 8, p. 12, row 11 |  |
-| -284.618 kJ/mol-atom | β-Na2U2O7 | 298.15 | DFT | DFT | [Na–O–U](https://data.orchid-project.org/systems/NA-O-U.html) | [1] Smith 2017 | Table 8, p. 12, row 12 |  |
-| -284.591 kJ/mol-atom | α-Na2U2O7 | 298.15 | DFT | DFT | [Na–O–U](https://data.orchid-project.org/systems/NA-O-U.html) | [1] Smith 2017 | Table 8, p. 12, row 10 |  |
+| -291.255 kJ/mol-atom ± 0.363636 | α-Na2U2O7 | 298.15 | experimental | experimental (calorimetry) | [Na–O–U](https://data.orchid-project.org/systems/NA-O-U.html) | [1] Smith 2017; _cites Guillaumont 2003_ | Table 8, p. 12, row 9; `ORC-QRFJ7MF5HX.c32090` |  |
+| -291.255 kJ/mol-atom | α-Na2U2O7 | 298.15 | model | CALPHAD | [Na–O–U](https://data.orchid-project.org/systems/NA-O-U.html) | [1] Smith 2017 | Table 8, p. 12, row 11; `ORC-IPSIRQQY3F.7fd3e1` |  |
+| -284.618 kJ/mol-atom | β-Na2U2O7 | 298.15 | DFT | DFT | [Na–O–U](https://data.orchid-project.org/systems/NA-O-U.html) | [1] Smith 2017 | Table 8, p. 12, row 12; `ORC-B2U7BMSEFS.313e41` |  |
+| -284.591 kJ/mol-atom | α-Na2U2O7 | 298.15 | DFT | DFT | [Na–O–U](https://data.orchid-project.org/systems/NA-O-U.html) | [1] Smith 2017 | Table 8, p. 12, row 10; `ORC-WIXFGZYLZ5.1d88ea` |  |
 
 ### Uncertainty budget
 
@@ -83,4 +83,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

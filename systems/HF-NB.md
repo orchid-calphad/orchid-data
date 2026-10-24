@@ -46,14 +46,14 @@ Table: Enthalpies of formation, Hf–Nb system (8)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Hf3Nb |  | 4.04 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Ghosh 2002 | Table 6, p. 11, row 2 |  |
-| Hf3Nb |  | 11.499 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Ghosh 2002 | Table 6, p. 11, row 2 |  |
-| HfNb (B19) |  | -6.162 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Ghosh 2002 | Table 6, p. 11, row 4 |  |
-| HfNb (B19) |  | 8.757 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Ghosh 2002 | Table 6, p. 11, row 4 |  |
-| HfNb (B8₁) |  | 5.746 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Ghosh 2002 | Table 6, p. 11, row 3 |  |
-| HfNb (B8₁) |  | 20.666 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Ghosh 2002 | Table 6, p. 11, row 3 |  |
-| HfNb3 |  | 2.979 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Ghosh 2002 | Table 6, p. 11, row 5 |  |
-| HfNb3 |  | 25.358 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Ghosh 2002 | Table 6, p. 11, row 5 |  |
+| Hf3Nb |  | 4.04 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Ghosh 2002 | Table 6, p. 11, row 2; `ORC-K3GYGK3DCH.94155e` |  |
+| Hf3Nb |  | 11.499 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Ghosh 2002 | Table 6, p. 11, row 2; `ORC-K3GYGK3DCH.d27187` |  |
+| HfNb (B19) |  | -6.162 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Ghosh 2002 | Table 6, p. 11, row 4; `ORC-F2FGAJE5NJ.d96082` |  |
+| HfNb (B19) |  | 8.757 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Ghosh 2002 | Table 6, p. 11, row 4; `ORC-F2FGAJE5NJ.bad407` |  |
+| HfNb (B8₁) |  | 5.746 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Ghosh 2002 | Table 6, p. 11, row 3; `ORC-H4RFX3GK3N.74e327` |  |
+| HfNb (B8₁) |  | 20.666 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Ghosh 2002 | Table 6, p. 11, row 3; `ORC-H4RFX3GK3N.5ce680` |  |
+| HfNb3 |  | 2.979 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Ghosh 2002 | Table 6, p. 11, row 5; `ORC-IFOE633UIP.b946bf` |  |
+| HfNb3 |  | 25.358 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Ghosh 2002 | Table 6, p. 11, row 5; `ORC-IFOE633UIP.310e67` |  |
 
 ## Other properties
 
@@ -63,10 +63,10 @@ Table: Phase transition, Hf–Nb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 2016 K | 2016 |  | model | [1] Ghosh 2002 | p. 11 | “Above 2016 K, Hf and Nb form continuous bee solid solution, while the solubility of Nb in hcp-Hf is rather limited.” |
-| Phase transition | 2338 K | 2338 | other | model | [2] Guillermet 1996 | p. 3 | “The present calculation places the minimum at 36.5 at.% Nb and 2338 K.” |
-| Phase transition | 2338 K | 2338 | other | experimental | [2] Guillermet 1996; _cites Kubaschewski-von 1981_ | p. 3 | “The most recent reviews of the phase diagram \[18,19\] propose similar values, viz, 42 at% Nb and 2338 K.” |
-| Phase transition | 2373 K | 2373 | other | experimental | [1] Ghosh 2002 | p. 11 | “For example, the solidus and liquidus boundaries determined by \[1964Sie\], The minimum melting point was reported to be: (i) \[ 1964Tay\], \[ 1964Tyl\], and \[1969Rud\] differ significantly. at 25 at. % and 2373 K \[1964Sie\], (ii) between 32.5 at'.% and 55 at.% and 2353\*25 K \[1964Tyl\], and (iii) at 42 at.% and 2353+10 K \[1969Rud\].” |
+| Phase transition | 2016 K | 2016 |  | model | [1] Ghosh 2002 | p. 11; `ORC-QYKC55Z3I6` | “Above 2016 K, Hf and Nb form continuous bee solid solution, while the solubility of Nb in hcp-Hf is rather limited.” |
+| Phase transition | 2338 K | 2338 | other | model | [2] Guillermet 1996 | p. 3; `ORC-4X6TWGNTWW` | “The present calculation places the minimum at 36.5 at.% Nb and 2338 K.” |
+| Phase transition | 2338 K | 2338 | other | experimental | [2] Guillermet 1996; _cites Kubaschewski-von 1981_ | p. 3; `ORC-5D6W7TZL47` | “The most recent reviews of the phase diagram \[18,19\] propose similar values, viz, 42 at% Nb and 2338 K.” |
+| Phase transition | 2373 K | 2373 | other | experimental | [1] Ghosh 2002 | p. 11; `ORC-Q2K2Z2OHBZ` | “For example, the solidus and liquidus boundaries determined by \[1964Sie\], The minimum melting point was reported to be: (i) \[ 1964Tay\], \[ 1964Tyl\], and \[1969Rud\] differ significantly. at 25 at. % and 2373 K \[1964Sie\], (ii) between 32.5 at'.% and 55 at.% and 2353\*25 K \[1964Tyl\], and (iii) at 42 at.% and 2353+10 K \[1969Rud\].” |
 
 ### Crystal structure (15)
 
@@ -74,21 +74,21 @@ Table: Crystal structure, Hf–Nb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 4.3243 Å | 0 | Hf3Nb; _alloy: Nb 0.25_ | DFT | [1] Ghosh 2002 | Table 7, p. 12, row 2 |  |
-| Lattice a | 4.3761 Å | 0 | Hf3Nb; _alloy: Nb 0.25_ | DFT | [1] Ghosh 2002 | Table 7, p. 12, row 1 |  |
-| Lattice a | 4.8073 Å | 0 | HfNb; _alloy: Nb 0.5_ | DFT | [1] Ghosh 2002 | Table 7, p. 12, row 3 |  |
-| Lattice a | 3.9047 Å | 0 | HfNb3; _alloy: Nb 0.75_ | DFT | [1] Ghosh 2002 | Table 7, p. 12, row 4 |  |
-| Lattice a | 4.2543 Å | 0 | HfNb3; _alloy: Nb 0.75_ | DFT | [1] Ghosh 2002 | Table 7, p. 12, row 5 |  |
-| Lattice a | 3.4342 Å |  | UNKNOWN; _alloy: Nb 0_ | experimental | [1] Ghosh 2002; _cites ref. 1963Ros_ | Table 1, p. 6, row 3 |  |
-| Lattice a | 3.193 Å |  | UNKNOWN; _alloy: Nb 0_ | experimental | [1] Ghosh 2002; _cites ref. 1963Ros_ | Table 1, p. 6, row 6 |  |
-| Lattice a | 3.1866 Å | 0 | UNKNOWN; _alloy: Nb 0_ | DFT | [1] Ghosh 2002 | Table 1, p. 6, row 5 |  |
-| Lattice a | 3.5121 Å | 0 | UNKNOWN; _alloy: Nb 0_ | DFT | [1] Ghosh 2002 | Table 1, p. 6, row 1 |  |
-| Lattice a | 4.4454 Å | 0 | UNKNOWN; _alloy: Nb 0_ | DFT | [1] Ghosh 2002 | Table 1, p. 6, row 4 |  |
-| Lattice c | 8.9507 Å | 0 | Hf3Nb; _alloy: Nb 0.25_ | DFT | [1] Ghosh 2002 | Table 7, p. 12, row 2 |  |
-| Lattice c | 3.3818 Å | 0 | HfNb; _alloy: Nb 0.5_ | DFT | [1] Ghosh 2002 | Table 7, p. 12, row 3 |  |
-| Lattice c | 9.8884 Å | 0 | HfNb3; _alloy: Nb 0.75_ | DFT | [1] Ghosh 2002 | Table 7, p. 12, row 4 |  |
-| Lattice c | 5.0395 Å |  | UNKNOWN; _alloy: Nb 0_ | experimental | [1] Ghosh 2002; _cites ref. 1963Ros_ | Table 1, p. 6, row 6 |  |
-| Lattice c | 5.0296 Å | 0 | UNKNOWN; _alloy: Nb 0_ | DFT | [1] Ghosh 2002 | Table 1, p. 6, row 5 |  |
+| Lattice a | 4.3243 Å | 0 | Hf3Nb; _alloy: Nb 0.25_ | DFT | [1] Ghosh 2002 | Table 7, p. 12, row 2; `ORC-INLOZMMG5O.161925` |  |
+| Lattice a | 4.3761 Å | 0 | Hf3Nb; _alloy: Nb 0.25_ | DFT | [1] Ghosh 2002 | Table 7, p. 12, row 1; `ORC-JZE7DOL3U6.44778f` |  |
+| Lattice a | 4.8073 Å | 0 | HfNb; _alloy: Nb 0.5_ | DFT | [1] Ghosh 2002 | Table 7, p. 12, row 3; `ORC-EFMTTLXD5W.274eef` |  |
+| Lattice a | 3.9047 Å | 0 | HfNb3; _alloy: Nb 0.75_ | DFT | [1] Ghosh 2002 | Table 7, p. 12, row 4; `ORC-2BYWB2EIGC.808426` |  |
+| Lattice a | 4.2543 Å | 0 | HfNb3; _alloy: Nb 0.75_ | DFT | [1] Ghosh 2002 | Table 7, p. 12, row 5; `ORC-QK24NQOZI6.970b14` |  |
+| Lattice a | 3.4342 Å |  | UNKNOWN; _alloy: Nb 0_ | experimental | [1] Ghosh 2002; _cites ref. 1963Ros_ | Table 1, p. 6, row 3; `ORC-6ZL6HQPMPE` |  |
+| Lattice a | 3.193 Å |  | UNKNOWN; _alloy: Nb 0_ | experimental | [1] Ghosh 2002; _cites ref. 1963Ros_ | Table 1, p. 6, row 6; `ORC-JOGUOUELVJ.5286f0` |  |
+| Lattice a | 3.1866 Å | 0 | UNKNOWN; _alloy: Nb 0_ | DFT | [1] Ghosh 2002 | Table 1, p. 6, row 5; `ORC-OBAXBUPIIY.710a05` |  |
+| Lattice a | 3.5121 Å | 0 | UNKNOWN; _alloy: Nb 0_ | DFT | [1] Ghosh 2002 | Table 1, p. 6, row 1; `ORC-RTK6L5IAV3` |  |
+| Lattice a | 4.4454 Å | 0 | UNKNOWN; _alloy: Nb 0_ | DFT | [1] Ghosh 2002 | Table 1, p. 6, row 4; `ORC-XWB32OY6YY` |  |
+| Lattice c | 8.9507 Å | 0 | Hf3Nb; _alloy: Nb 0.25_ | DFT | [1] Ghosh 2002 | Table 7, p. 12, row 2; `ORC-INLOZMMG5O.827aa3` |  |
+| Lattice c | 3.3818 Å | 0 | HfNb; _alloy: Nb 0.5_ | DFT | [1] Ghosh 2002 | Table 7, p. 12, row 3; `ORC-EFMTTLXD5W.887dbe` |  |
+| Lattice c | 9.8884 Å | 0 | HfNb3; _alloy: Nb 0.75_ | DFT | [1] Ghosh 2002 | Table 7, p. 12, row 4; `ORC-2BYWB2EIGC.b23f7a` |  |
+| Lattice c | 5.0395 Å |  | UNKNOWN; _alloy: Nb 0_ | experimental | [1] Ghosh 2002; _cites ref. 1963Ros_ | Table 1, p. 6, row 6; `ORC-JOGUOUELVJ.61bafa` |  |
+| Lattice c | 5.0296 Å | 0 | UNKNOWN; _alloy: Nb 0_ | DFT | [1] Ghosh 2002 | Table 1, p. 6, row 5; `ORC-OBAXBUPIIY.1921c5` |  |
 
 ### Model expression (4)
 
@@ -96,10 +96,10 @@ Table: Model expression, Hf–Nb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| hm form expression term; _printed: ΔHf (b)_ | 13.243 kJ/mol (basis unstated) |  | Hf3Nb (DO3); _alloy: Nb 0.25_ | DFT | [1] Ghosh 2002 | Table 5, p. 10, row 1 |  |
-| hm form expression term; _printed: ΔHf (a)_ | 2.72 kJ/mol (basis unstated) |  | HfNb (B2); _alloy: Nb 0.5_ | DFT | [1] Ghosh 2002 | Table 5, p. 10, row 2 |  |
-| hm form expression term; _printed: ΔHf (a)_ | 2.393 kJ/mol (basis unstated) |  | HfNb (B32); _alloy: Nb 0.5_ | DFT | [1] Ghosh 2002 | Table 5, p. 10, row 3 |  |
-| hm form expression term; _printed: ΔHf (b)_ | 6.267 kJ/mol (basis unstated) |  | HfNb3 (DO3); _alloy: Nb 0.75_ | DFT | [1] Ghosh 2002 | Table 5, p. 10, row 4 |  |
+| hm form expression term; _printed: ΔHf (b)_ | 13.243 kJ/mol (basis unstated) |  | Hf3Nb (DO3); _alloy: Nb 0.25_ | DFT | [1] Ghosh 2002 | Table 5, p. 10, row 1; `ORC-76JL4LCSCW` |  |
+| hm form expression term; _printed: ΔHf (a)_ | 2.72 kJ/mol (basis unstated) |  | HfNb (B2); _alloy: Nb 0.5_ | DFT | [1] Ghosh 2002 | Table 5, p. 10, row 2; `ORC-6ONZMCTOJ4` |  |
+| hm form expression term; _printed: ΔHf (a)_ | 2.393 kJ/mol (basis unstated) |  | HfNb (B32); _alloy: Nb 0.5_ | DFT | [1] Ghosh 2002 | Table 5, p. 10, row 3; `ORC-TILLL32FKV` |  |
+| hm form expression term; _printed: ΔHf (b)_ | 6.267 kJ/mol (basis unstated) |  | HfNb3 (DO3); _alloy: Nb 0.75_ | DFT | [1] Ghosh 2002 | Table 5, p. 10, row 4; `ORC-FRXPDI3DKT` |  |
 
 ## Sources
 
@@ -165,4 +165,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

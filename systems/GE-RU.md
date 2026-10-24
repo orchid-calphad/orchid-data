@@ -55,19 +55,19 @@ Table: Invariant reactions reported in the literature for the Ge–Ru system (13
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1824 | congruent melting: L -> βRu2Ge3 | L: Ge 0.6, Ru 0.4; βRu2Ge3: Ge 0.6, Ru 0.4 | experimental | [1] Long 2009; _cites Perring 1996_ [doi](https://doi.org/10.1007/bf02665783) | Table 5, p. 5, row 10 |  |
-| 1822 | congruent melting: L -> βRu2Ge3 | L: Ge 0.6, Ru 0.4; βRu2Ge3: Ge 0.6, Ru 0.4 | model | [1] Long 2009 | Table 5, p. 5, row 11 |  |
-| 1780 | eutectic: L -> βRu2Ge3 + RuGe | L: Ge 0.51; βRu2Ge3: Ge 0.6, Ru 0.4; RuGe: Ge 0.5, Ru 0.5 | experimental | [1] Long 2009; _cites Charles 1998_ [doi](https://doi.org/10.1361/105497198770341932) | Table 5, p. 5, row 5 |  |
-| 1768 | peritectic: L + βRu2Ge3 -> RuGe | L: Ge 0.47; βRu2Ge3: Ge 0.6, Ru 0.4; RuGe: Ge 0.5, Ru 0.5 | model | [1] Long 2009 | Table 5, p. 5, row 7 |  |
-| 1761 | eutectic: L -> βRu2Ge3 + RuGe | L: Ge 0.53; βRu2Ge3: Ge 0.6, Ru 0.4; RuGe: Ge 0.5, Ru 0.5 | experimental | [1] Long 2009; _cites Perring 1996_ [doi](https://doi.org/10.1007/bf02665783) | Table 5, p. 5, row 4 |  |
-| 1733 | peritectic: L + RuGe -> βRu2Ge3 | RuGe: Ge 0.5, Ru 0.5; βRu2Ge3: Ge 0.6, Ru 0.4 | experimental | [1] Long 2009; _cites Raub 1962_ | Table 5, p. 5, row 6 |  |
-| 1682 | eutectic: L -> Hcp (Ru) + RuGe | L: Ge 0.33; RuGe: Ge 0.5, Ru 0.5 | model | [1] Long 2009 | Table 5, p. 5, row 3 |  |
-| 1682 | eutectic: L -> Hcp (Ru) + RuGe | L: Ge 0.35; RuGe: Ge 0.5, Ru 0.5 | experimental | [1] Long 2009; _cites Charles 1998_ [doi](https://doi.org/10.1361/105497198770341932) | Table 5, p. 5, row 2 |  |
-| 1679 | eutectic: L -> Hcp (Ru) + RuGe | L: Ge 0.37; RuGe: Ge 0.5, Ru 0.5 | experimental | [1] Long 2009; _cites Perring 1996_ [doi](https://doi.org/10.1007/bf02665783) | Table 5, p. 5, row 1 |  |
-| 1202 | eutectic: L -> βRu2Ge3 + Diamond (Ge) | L: Ge 0.98; βRu2Ge3: Ge 0.6, Ru 0.4 | model | [1] Long 2009 | Table 5, p. 5, row 9 |  |
-| 1199 | eutectic: L -> βRu2Ge3 + Diamond (Ge) | L: Ge 0.99; βRu2Ge3: Ge 0.6, Ru 0.4 | experimental | [1] Long 2009; _cites Perring 1996_ [doi](https://doi.org/10.1007/bf02665783) | Table 5, p. 5, row 8 |  |
-| 860 | polymorphic: βRu2Ge3 -> αRu2Ge3 | βRu2Ge3: Ge 0.6, Ru 0.4; αRu2Ge3: Ge 0.6, Ru 0.4 | model | [1] Long 2009 | Table 5, p. 5, row 13 |  |
-| 860 | polymorphic: βRu2Ge3 -> αRu2Ge3 | βRu2Ge3: Ge 0.6, Ru 0.4; αRu2Ge3: Ge 0.6, Ru 0.4 | experimental | [1] Long 2009; _cites Kuntz 1997_ [doi](https://doi.org/10.1006/jssc.1997.7508) | Table 5, p. 5, row 12 |  |
+| 1824 | congruent melting: L -> βRu2Ge3 | L: Ge 0.6, Ru 0.4; βRu2Ge3: Ge 0.6, Ru 0.4 | experimental | [1] Long 2009; _cites Perring 1996_ [doi](https://doi.org/10.1007/bf02665783) | Table 5, p. 5, row 10; `ORC-BU634LGMOQ` |  |
+| 1822 | congruent melting: L -> βRu2Ge3 | L: Ge 0.6, Ru 0.4; βRu2Ge3: Ge 0.6, Ru 0.4 | model | [1] Long 2009 | Table 5, p. 5, row 11; `ORC-YYXYFATDTG` |  |
+| 1780 | eutectic: L -> βRu2Ge3 + RuGe | L: Ge 0.51; βRu2Ge3: Ge 0.6, Ru 0.4; RuGe: Ge 0.5, Ru 0.5 | experimental | [1] Long 2009; _cites Charles 1998_ [doi](https://doi.org/10.1361/105497198770341932) | Table 5, p. 5, row 5; `ORC-E77JSYHFI6` |  |
+| 1768 | peritectic: L + βRu2Ge3 -> RuGe | L: Ge 0.47; βRu2Ge3: Ge 0.6, Ru 0.4; RuGe: Ge 0.5, Ru 0.5 | model | [1] Long 2009 | Table 5, p. 5, row 7; `ORC-A7USOCZ35U` |  |
+| 1761 | eutectic: L -> βRu2Ge3 + RuGe | L: Ge 0.53; βRu2Ge3: Ge 0.6, Ru 0.4; RuGe: Ge 0.5, Ru 0.5 | experimental | [1] Long 2009; _cites Perring 1996_ [doi](https://doi.org/10.1007/bf02665783) | Table 5, p. 5, row 4; `ORC-DZUCH75OGD` |  |
+| 1733 | peritectic: L + RuGe -> βRu2Ge3 | RuGe: Ge 0.5, Ru 0.5; βRu2Ge3: Ge 0.6, Ru 0.4 | experimental | [1] Long 2009; _cites Raub 1962_ | Table 5, p. 5, row 6; `ORC-ZIRHR3AD5A` |  |
+| 1682 | eutectic: L -> Hcp (Ru) + RuGe | L: Ge 0.33; RuGe: Ge 0.5, Ru 0.5 | model | [1] Long 2009 | Table 5, p. 5, row 3; `ORC-FWMW5V3YXO` |  |
+| 1682 | eutectic: L -> Hcp (Ru) + RuGe | L: Ge 0.35; RuGe: Ge 0.5, Ru 0.5 | experimental | [1] Long 2009; _cites Charles 1998_ [doi](https://doi.org/10.1361/105497198770341932) | Table 5, p. 5, row 2; `ORC-QUGE6Z7NTN` |  |
+| 1679 | eutectic: L -> Hcp (Ru) + RuGe | L: Ge 0.37; RuGe: Ge 0.5, Ru 0.5 | experimental | [1] Long 2009; _cites Perring 1996_ [doi](https://doi.org/10.1007/bf02665783) | Table 5, p. 5, row 1; `ORC-AHPVKFHQX2` |  |
+| 1202 | eutectic: L -> βRu2Ge3 + Diamond (Ge) | L: Ge 0.98; βRu2Ge3: Ge 0.6, Ru 0.4 | model | [1] Long 2009 | Table 5, p. 5, row 9; `ORC-QTP7YT72U5` |  |
+| 1199 | eutectic: L -> βRu2Ge3 + Diamond (Ge) | L: Ge 0.99; βRu2Ge3: Ge 0.6, Ru 0.4 | experimental | [1] Long 2009; _cites Perring 1996_ [doi](https://doi.org/10.1007/bf02665783) | Table 5, p. 5, row 8; `ORC-FIZRY3IOTD` |  |
+| 860 | polymorphic: βRu2Ge3 -> αRu2Ge3 | βRu2Ge3: Ge 0.6, Ru 0.4; αRu2Ge3: Ge 0.6, Ru 0.4 | model | [1] Long 2009 | Table 5, p. 5, row 13; `ORC-GDSDWBFUEH` |  |
+| 860 | polymorphic: βRu2Ge3 -> αRu2Ge3 | βRu2Ge3: Ge 0.6, Ru 0.4; αRu2Ge3: Ge 0.6, Ru 0.4 | experimental | [1] Long 2009; _cites Kuntz 1997_ [doi](https://doi.org/10.1006/jssc.1997.7508) | Table 5, p. 5, row 12; `ORC-LDQFPPZZYD` |  |
 
 ## Formation enthalpies
 
@@ -77,13 +77,13 @@ Table: Enthalpies of formation, Ge–Ru system (7)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Ru2Ge3 | [Ge3Ru2](https://data.orchid-project.org/compounds/Ge3Ru2.html) | -35.645 kJ/mol-atom | 298.15 | model | -34.036 (mp-aaaabgmb) | -33.635 (oqmd-33106) | [1] Long 2009 | Table 4, p. 3, row 7 |  |
-| Ru2Ge3 | [Ge3Ru2](https://data.orchid-project.org/compounds/Ge3Ru2.html) | -35.5 kJ/mol-atom ± 4 | 298.15 | experimental | -34.036 (mp-aaaabgmb) | -33.635 (oqmd-33106) | [1] Long 2009; _cites Jung 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990238-y) | Table 4, p. 3, row 5 |  |
-| Ru2Ge3 | [Ge3Ru2](https://data.orchid-project.org/compounds/Ge3Ru2.html) | -34.8 kJ/mol-atom ± 1 | 1173 | experimental | -34.036 (mp-aaaabgmb) | -33.635 (oqmd-33106) | [1] Long 2009; _cites Ciccioli 1998_ [doi](https://doi.org/10.1002/bbpc.19981020936) | Table 4, p. 3, row 6 |  |
-| RuGe | [GeRu](https://data.orchid-project.org/compounds/GeRu.html) | -31.241 kJ/mol-atom | 298.15 | model | -27.283 (mp-aaacgiwj) | -26.89 (oqmd-683580) | [1] Long 2009 | Table 4, p. 3, row 4 |  |
-| RuGe | [GeRu](https://data.orchid-project.org/compounds/GeRu.html) | -31.2 kJ/mol-atom ± 3.3 | 298.15 | experimental | -27.283 (mp-aaacgiwj) | -26.89 (oqmd-683580) | [1] Long 2009; _cites Jung 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990238-y) | Table 4, p. 3, row 1 |  |
-| RuGe | [GeRu](https://data.orchid-project.org/compounds/GeRu.html) | -28.7 kJ/mol-atom ± 1.3 | 1173 | experimental | -27.283 (mp-aaacgiwj) | -26.89 (oqmd-683580) | [1] Long 2009; _cites Ciccioli 1998_ [doi](https://doi.org/10.1002/bbpc.19981020936) | Table 4, p. 3, row 3 |  |
-| RuGe | [GeRu](https://data.orchid-project.org/compounds/GeRu.html) | -28.4 kJ/mol-atom | 1473 | experimental | -27.283 (mp-aaacgiwj) | -26.89 (oqmd-683580) | [1] Long 2009; _cites Kuntz 1997_ [doi](https://doi.org/10.1006/jssc.1997.7508) | Table 4, p. 3, row 2 |  |
+| Ru2Ge3 | [Ge3Ru2](https://data.orchid-project.org/compounds/Ge3Ru2.html) | -35.645 kJ/mol-atom | 298.15 | model | -34.036 (mp-aaaabgmb) | -33.635 (oqmd-33106) | [1] Long 2009 | Table 4, p. 3, row 7; `ORC-QNAGYRMSK4` |  |
+| Ru2Ge3 | [Ge3Ru2](https://data.orchid-project.org/compounds/Ge3Ru2.html) | -35.5 kJ/mol-atom ± 4 | 298.15 | experimental | -34.036 (mp-aaaabgmb) | -33.635 (oqmd-33106) | [1] Long 2009; _cites Jung 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990238-y) | Table 4, p. 3, row 5; `ORC-STEFK5VKOZ` |  |
+| Ru2Ge3 | [Ge3Ru2](https://data.orchid-project.org/compounds/Ge3Ru2.html) | -34.8 kJ/mol-atom ± 1 | 1173 | experimental | -34.036 (mp-aaaabgmb) | -33.635 (oqmd-33106) | [1] Long 2009; _cites Ciccioli 1998_ [doi](https://doi.org/10.1002/bbpc.19981020936) | Table 4, p. 3, row 6; `ORC-J54C6AXT5M` |  |
+| RuGe | [GeRu](https://data.orchid-project.org/compounds/GeRu.html) | -31.241 kJ/mol-atom | 298.15 | model | -27.283 (mp-aaacgiwj) | -26.89 (oqmd-683580) | [1] Long 2009 | Table 4, p. 3, row 4; `ORC-HPMJ57MGDU` |  |
+| RuGe | [GeRu](https://data.orchid-project.org/compounds/GeRu.html) | -31.2 kJ/mol-atom ± 3.3 | 298.15 | experimental | -27.283 (mp-aaacgiwj) | -26.89 (oqmd-683580) | [1] Long 2009; _cites Jung 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990238-y) | Table 4, p. 3, row 1; `ORC-MI7CWGNH5B` |  |
+| RuGe | [GeRu](https://data.orchid-project.org/compounds/GeRu.html) | -28.7 kJ/mol-atom ± 1.3 | 1173 | experimental | -27.283 (mp-aaacgiwj) | -26.89 (oqmd-683580) | [1] Long 2009; _cites Ciccioli 1998_ [doi](https://doi.org/10.1002/bbpc.19981020936) | Table 4, p. 3, row 3; `ORC-SGVABQ3OXJ` |  |
+| RuGe | [GeRu](https://data.orchid-project.org/compounds/GeRu.html) | -28.4 kJ/mol-atom | 1473 | experimental | -27.283 (mp-aaacgiwj) | -26.89 (oqmd-683580) | [1] Long 2009; _cites Kuntz 1997_ [doi](https://doi.org/10.1006/jssc.1997.7508) | Table 4, p. 3, row 2; `ORC-BYM4C224GT` |  |
 
 ## Other properties
 
@@ -93,9 +93,9 @@ Table: Phase transition, Ge–Ru system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 860 K | 860 | polymorphic | experimental | [1] Long 2009; _cites Kuntz 1997_ [doi](https://doi.org/10.1006/jssc.1997.7508) | p. 1 | “An abrupt change of heat capacities for Ru2 Ge3 was detected at about 860 K \[8\], indicating an allotropic transformation.” |
-| Phase transition | 1783 K | 1783 | congruent transformation | experimental | [1] Long 2009; _cites Perring 1996_ [doi](https://doi.org/10.1007/bf02665783) | p. 1 | “In light of Ref. \[7\], RuGe and Ru2 Ge3 melted congruently at 1783 K and 1824 K, respectively with a eutectic reaction taking place at 53 ± 1 at.% Ge and 1761 ± 3 K.” |
-| Phase transition | 1824 K | 1824 | congruent transformation | experimental | [1] Long 2009; _cites Perring 1996_ [doi](https://doi.org/10.1007/bf02665783) | p. 1 | “In light of Ref. \[7\], RuGe and Ru2 Ge3 melted congruently at 1783 K and 1824 K, respectively with a eutectic reaction taking place at 53 ± 1 at.% Ge and 1761 ± 3 K.” |
+| Phase transition | 860 K | 860 | polymorphic | experimental | [1] Long 2009; _cites Kuntz 1997_ [doi](https://doi.org/10.1006/jssc.1997.7508) | p. 1; `ORC-GSYNJJYIOU` | “An abrupt change of heat capacities for Ru2 Ge3 was detected at about 860 K \[8\], indicating an allotropic transformation.” |
+| Phase transition | 1783 K | 1783 | congruent transformation | experimental | [1] Long 2009; _cites Perring 1996_ [doi](https://doi.org/10.1007/bf02665783) | p. 1; `ORC-GVELDYIGYL.b425e1` | “In light of Ref. \[7\], RuGe and Ru2 Ge3 melted congruently at 1783 K and 1824 K, respectively with a eutectic reaction taking place at 53 ± 1 at.% Ge and 1761 ± 3 K.” |
+| Phase transition | 1824 K | 1824 | congruent transformation | experimental | [1] Long 2009; _cites Perring 1996_ [doi](https://doi.org/10.1007/bf02665783) | p. 1; `ORC-GVELDYIGYL.8d214b` | “In light of Ref. \[7\], RuGe and Ru2 Ge3 melted congruently at 1783 K and 1824 K, respectively with a eutectic reaction taking place at 53 ± 1 at.% Ge and 1761 ± 3 K.” |
 
 ### Mixing / partial (9)
 
@@ -103,15 +103,15 @@ Table: Mixing / partial, Ge–Ru system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: ΔHmix_ | -4.126 kJ/mol-atom |  | liquid; _alloy: Ge 0.2, Ru 0.8_ | model | [1] Long 2009 | Table 2, p. 2, row 2 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -2.143 kJ/mol-atom |  | liquid; _alloy: Ge 0.1, Ru 0.9_ | model | [1] Long 2009 | Table 2, p. 2, row 1 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -2.029 kJ/mol-atom |  | liquid; _alloy: Ge 0.9, Ru 0.1_ | model | [1] Long 2009 | Table 2, p. 2, row 9 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -6.958 kJ/mol-atom |  | liquid; _alloy: Ge 0.4, Ru 0.6_ | model | [1] Long 2009 | Table 2, p. 2, row 4 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -5.824 kJ/mol-atom |  | liquid; _alloy: Ge 0.3, Ru 0.7_ | model | [1] Long 2009 | Table 2, p. 2, row 3 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -3.915 kJ/mol-atom |  | liquid; _alloy: Ge 0.8, Ru 0.2_ | model | [1] Long 2009 | Table 2, p. 2, row 8 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -5.591 kJ/mol-atom |  | liquid; _alloy: Ge 0.7, Ru 0.3_ | model | [1] Long 2009 | Table 2, p. 2, row 7 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -6.806 kJ/mol-atom |  | liquid; _alloy: Ge 0.6, Ru 0.4_ | model | [1] Long 2009 | Table 2, p. 2, row 6 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -7.305 kJ/mol-atom |  | liquid; _alloy: Ge 0.5, Ru 0.5_ | model | [1] Long 2009 | Table 2, p. 2, row 5 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -4.126 kJ/mol-atom |  | liquid; _alloy: Ge 0.2, Ru 0.8_ | model | [1] Long 2009 | Table 2, p. 2, row 2; `ORC-3TMHJS3RJL` |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -2.143 kJ/mol-atom |  | liquid; _alloy: Ge 0.1, Ru 0.9_ | model | [1] Long 2009 | Table 2, p. 2, row 1; `ORC-4KQZFURK52` |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -2.029 kJ/mol-atom |  | liquid; _alloy: Ge 0.9, Ru 0.1_ | model | [1] Long 2009 | Table 2, p. 2, row 9; `ORC-DEGWDANK5S` |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -6.958 kJ/mol-atom |  | liquid; _alloy: Ge 0.4, Ru 0.6_ | model | [1] Long 2009 | Table 2, p. 2, row 4; `ORC-DVEHOTVSMN` |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -5.824 kJ/mol-atom |  | liquid; _alloy: Ge 0.3, Ru 0.7_ | model | [1] Long 2009 | Table 2, p. 2, row 3; `ORC-LOYZGSDE7K` |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -3.915 kJ/mol-atom |  | liquid; _alloy: Ge 0.8, Ru 0.2_ | model | [1] Long 2009 | Table 2, p. 2, row 8; `ORC-ND5WYPZ7YG` |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -5.591 kJ/mol-atom |  | liquid; _alloy: Ge 0.7, Ru 0.3_ | model | [1] Long 2009 | Table 2, p. 2, row 7; `ORC-QBQJZ2S6Y6` |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -6.806 kJ/mol-atom |  | liquid; _alloy: Ge 0.6, Ru 0.4_ | model | [1] Long 2009 | Table 2, p. 2, row 6; `ORC-YACMDIV263` |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -7.305 kJ/mol-atom |  | liquid; _alloy: Ge 0.5, Ru 0.5_ | model | [1] Long 2009 | Table 2, p. 2, row 5; `ORC-YCWP7JB6JG` |  |
 
 ## Sources
 
@@ -176,4 +176,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

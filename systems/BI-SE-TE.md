@@ -28,38 +28,38 @@ Table: Invariant reactions reported in the literature for the Bi–Se–Te syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 895 | Liquid#1 -> Liquid#2 + Bi2Se3 |  | experimental | [1] Zhou 2024; _cites Poretskaya 1991_ | Table 2, p. 3, row 23 |  |
-| 891 | Liquid#1 -> Liquid#2 + Bi2Se3 |  | experimental | [1] Zhou 2024; _cites Parravano 1913_ | Table 2, p. 3, row 3 |  |
-| 891 | Liquid#1 + Bi2Se3 -> ? |  | experimental | [1] Zhou 2024; _cites Poretskaya 1991_ | Table 2, p. 3, row 25 |  |
-| 882 | Liquid#1 + Bi2Se3 -> BiSe |  | experimental | [1] Zhou 2024; _cites Gather 1975_ | Table 2, p. 3, row 16 |  |
-| 880 | Liquid#1 + Bi2Se3 -> BiSe |  | experimental | [1] Zhou 2024; _cites Abrikosov 1960_ | Table 2, p. 3, row 14 |  |
-| 879 | Liquid#1 + Bi2Se3 -> BiSe |  | experimental | [1] Zhou 2024; _cites Sher 1986_ | Table 2, p. 3, row 21 |  |
-| 878 | Liquid#1 + Bi2Se3 -> BiSe |  | experimental | [1] Zhou 2024; _cites Parravano 1913_ | Table 2, p. 3, row 2 |  |
-| 878 | Liquid#1 -> Liquid#2 + Bi2Se3 |  | experimental | [1] Zhou 2024; _cites Tomoshige 1919_ | Table 2, p. 3, row 8 |  |
-| 878 | Liquid#1 + Bi2Se3 -> BiSe |  | experimental | [1] Zhou 2024; _cites Tomoshige 1919_ | Table 2, p. 3, row 7 |  |
-| 813 | Liquid + Bi2Te3 -> BiTe |  | experimental | [1] Zhou 2024; _cites Abrikosov 1958_ | Table 2, p. 3, row 32 |  |
-| 743 | Liquid#1 + BiSe -> Bi3Se2 |  | experimental | [1] Zhou 2024; _cites Gather 1975_ | Table 2, p. 3, row 17 |  |
-| 743 | Liquid#1 + BiSe -> Bi3Se2 |  | experimental | [1] Zhou 2024; _cites Sher 1986_ | Table 2, p. 3, row 20 |  |
-| 741 | Liquid#1 + BiSe -> Bi3Se2 |  | experimental | [1] Zhou 2024; _cites Abrikosov 1960_ | Table 2, p. 3, row 13 |  |
-| 693 | Liquid + BiTe -> Bi2Te |  | experimental | [1] Zhou 2024; _cites Abrikosov 1958_ | Table 2, p. 3, row 31 |  |
-| 686 | Liquid -> Bi2Te3 + (Te) |  | experimental | [1] Zhou 2024; _cites Abrikosov 1958_ | Table 2, p. 3, row 33 |  |
-| 686 | Liquid -> Bi2Te3 + (Te) |  | experimental | [1] Zhou 2024; _cites Glatz 1965_ [doi](https://doi.org/10.1149/1.2423400) | Table 2, p. 3, row 35 |  |
-| 686 | Liquid -> BiTe + (Te) |  | experimental | [1] Zhou 2024; _cites Hansen 1958_ | Table 2, p. 3, row 28 |  |
-| 616 | Liquid + BiTe -> Bi2Te |  | experimental | [1] Zhou 2024; _cites Mao 2018_ [doi](https://doi.org/10.1016/j.calphad.2017.11.007) | Table 2, p. 3, row 39 |  |
-| 585 | Bi2Te -> Liquid + BiTe |  | experimental | [1] Zhou 2024; _cites Mao 2018_ [doi](https://doi.org/10.1016/j.calphad.2017.11.007) | Table 2, p. 3, row 38 |  |
-| 585 | Liquid + Bi2Te -> Bi7Te3 |  | experimental | [1] Zhou 2024; _cites Abrikosov 1958_ | Table 2, p. 3, row 30 |  |
-| 543 | Liquid#1 -> (Bi) + BiSe2 |  | experimental | [1] Zhou 2024; _cites Abrikosov 1960_ | Table 2, p. 3, row 12 |  |
-| 543 | Liquid#1 -> (Bi) + Bi3Se2 |  | experimental | [1] Zhou 2024; _cites Sher 1986_ | Table 2, p. 3, row 19 |  |
-| 542 | Liquid#1 -> (Bi) + Bi3Se2 |  | experimental | [1] Zhou 2024; _cites Gather 1975_ | Table 2, p. 3, row 18 |  |
-| 542 | Liquid#1 -> (Bi) + BiSe |  | experimental | [1] Zhou 2024; _cites Parravano 1913_ | Table 2, p. 3, row 1 |  |
-| 542 | Liquid#1 -> (Bi) + BiSe |  | experimental | [1] Zhou 2024; _cites Tomoshige 1919_ | Table 2, p. 3, row 6 |  |
-| 539 | Liquid + Bi2Te3 -> BiTe |  | experimental | [1] Zhou 2024; _cites Glatz 1965_ [doi](https://doi.org/10.1149/1.2423400) | Table 2, p. 3, row 34 |  |
-| 539 | Liquid -> (Bi) + Bi7Te3 |  | experimental | [1] Zhou 2024; _cites Abrikosov 1958_ | Table 2, p. 3, row 29 |  |
-| 539 | Liquid + Bi2Te3 -> BiTe |  | experimental | [1] Zhou 2024; _cites Hansen 1958_ | Table 2, p. 3, row 27 |  |
-| 537 | Liquid -> Bi + Bi7Te3 |  | experimental | [1] Zhou 2024; _cites Glatz 1965_ [doi](https://doi.org/10.1149/1.2423400) | Table 2, p. 3, row 36 |  |
-| 497 | Liquid#2 -> (Bi) + Bi2Se3 |  | experimental | [1] Zhou 2024; _cites Poretskaya 1991_ | Table 2, p. 3, row 24 |  |
-| 490 | Liquid#2 -> (Se) + Bi2Se3 |  | experimental | [1] Zhou 2024; _cites Parravano 1913_ | Table 2, p. 3, row 4 |  |
-| 423 | Liquid#2 -> (Se) + Bi2Se3 |  | experimental | [1] Zhou 2024; _cites Tomoshige 1919_ | Table 2, p. 3, row 9 |  |
+| 895 | Liquid#1 -> Liquid#2 + Bi2Se3 |  | experimental | [1] Zhou 2024; _cites Poretskaya 1991_ | Table 2, p. 3, row 23; `ORC-AWFP2IPGWJ` |  |
+| 891 | Liquid#1 -> Liquid#2 + Bi2Se3 |  | experimental | [1] Zhou 2024; _cites Parravano 1913_ | Table 2, p. 3, row 3; `ORC-CE7EJI4WSB` |  |
+| 891 | Liquid#1 + Bi2Se3 -> ? |  | experimental | [1] Zhou 2024; _cites Poretskaya 1991_ | Table 2, p. 3, row 25; `ORC-E4UJJSHWKZ` |  |
+| 882 | Liquid#1 + Bi2Se3 -> BiSe |  | experimental | [1] Zhou 2024; _cites Gather 1975_ | Table 2, p. 3, row 16; `ORC-QTTN3CWTLM` |  |
+| 880 | Liquid#1 + Bi2Se3 -> BiSe |  | experimental | [1] Zhou 2024; _cites Abrikosov 1960_ | Table 2, p. 3, row 14; `ORC-S23Y6ZSWNX` |  |
+| 879 | Liquid#1 + Bi2Se3 -> BiSe |  | experimental | [1] Zhou 2024; _cites Sher 1986_ | Table 2, p. 3, row 21; `ORC-YMHA6M3BC5` |  |
+| 878 | Liquid#1 + Bi2Se3 -> BiSe |  | experimental | [1] Zhou 2024; _cites Parravano 1913_ | Table 2, p. 3, row 2; `ORC-J5LUT2GVJ4` |  |
+| 878 | Liquid#1 -> Liquid#2 + Bi2Se3 |  | experimental | [1] Zhou 2024; _cites Tomoshige 1919_ | Table 2, p. 3, row 8; `ORC-KSDHA7H6IJ` |  |
+| 878 | Liquid#1 + Bi2Se3 -> BiSe |  | experimental | [1] Zhou 2024; _cites Tomoshige 1919_ | Table 2, p. 3, row 7; `ORC-M2FW5AVWDH` |  |
+| 813 | Liquid + Bi2Te3 -> BiTe |  | experimental | [1] Zhou 2024; _cites Abrikosov 1958_ | Table 2, p. 3, row 32; `ORC-TFJMKKELM6` |  |
+| 743 | Liquid#1 + BiSe -> Bi3Se2 |  | experimental | [1] Zhou 2024; _cites Gather 1975_ | Table 2, p. 3, row 17; `ORC-4BLKADARJM` |  |
+| 743 | Liquid#1 + BiSe -> Bi3Se2 |  | experimental | [1] Zhou 2024; _cites Sher 1986_ | Table 2, p. 3, row 20; `ORC-JBR2CYPJ7W` |  |
+| 741 | Liquid#1 + BiSe -> Bi3Se2 |  | experimental | [1] Zhou 2024; _cites Abrikosov 1960_ | Table 2, p. 3, row 13; `ORC-R2Q4ROHE6G` |  |
+| 693 | Liquid + BiTe -> Bi2Te |  | experimental | [1] Zhou 2024; _cites Abrikosov 1958_ | Table 2, p. 3, row 31; `ORC-P5LXHLJNK5` |  |
+| 686 | Liquid -> Bi2Te3 + (Te) |  | experimental | [1] Zhou 2024; _cites Abrikosov 1958_ | Table 2, p. 3, row 33; `ORC-FU464H4BPV` |  |
+| 686 | Liquid -> Bi2Te3 + (Te) |  | experimental | [1] Zhou 2024; _cites Glatz 1965_ [doi](https://doi.org/10.1149/1.2423400) | Table 2, p. 3, row 35; `ORC-VR6QD7FBE6` |  |
+| 686 | Liquid -> BiTe + (Te) |  | experimental | [1] Zhou 2024; _cites Hansen 1958_ | Table 2, p. 3, row 28; `ORC-VTVUOOMIEK` |  |
+| 616 | Liquid + BiTe -> Bi2Te |  | experimental | [1] Zhou 2024; _cites Mao 2018_ [doi](https://doi.org/10.1016/j.calphad.2017.11.007) | Table 2, p. 3, row 39; `ORC-G3DIBQCAK2` |  |
+| 585 | Bi2Te -> Liquid + BiTe |  | experimental | [1] Zhou 2024; _cites Mao 2018_ [doi](https://doi.org/10.1016/j.calphad.2017.11.007) | Table 2, p. 3, row 38; `ORC-2UBTLGCEUP` |  |
+| 585 | Liquid + Bi2Te -> Bi7Te3 |  | experimental | [1] Zhou 2024; _cites Abrikosov 1958_ | Table 2, p. 3, row 30; `ORC-IFXKGR4ECH` |  |
+| 543 | Liquid#1 -> (Bi) + BiSe2 |  | experimental | [1] Zhou 2024; _cites Abrikosov 1960_ | Table 2, p. 3, row 12; `ORC-7L233VAIBX` |  |
+| 543 | Liquid#1 -> (Bi) + Bi3Se2 |  | experimental | [1] Zhou 2024; _cites Sher 1986_ | Table 2, p. 3, row 19; `ORC-DYSI2N6XX2` |  |
+| 542 | Liquid#1 -> (Bi) + Bi3Se2 |  | experimental | [1] Zhou 2024; _cites Gather 1975_ | Table 2, p. 3, row 18; `ORC-5D3TRYCES6` |  |
+| 542 | Liquid#1 -> (Bi) + BiSe |  | experimental | [1] Zhou 2024; _cites Parravano 1913_ | Table 2, p. 3, row 1; `ORC-EOBL6XVQBT` |  |
+| 542 | Liquid#1 -> (Bi) + BiSe |  | experimental | [1] Zhou 2024; _cites Tomoshige 1919_ | Table 2, p. 3, row 6; `ORC-T3T5ARI7ST` |  |
+| 539 | Liquid + Bi2Te3 -> BiTe |  | experimental | [1] Zhou 2024; _cites Glatz 1965_ [doi](https://doi.org/10.1149/1.2423400) | Table 2, p. 3, row 34; `ORC-676BWCSV2G` |  |
+| 539 | Liquid -> (Bi) + Bi7Te3 |  | experimental | [1] Zhou 2024; _cites Abrikosov 1958_ | Table 2, p. 3, row 29; `ORC-LMB6PZLBCI` |  |
+| 539 | Liquid + Bi2Te3 -> BiTe |  | experimental | [1] Zhou 2024; _cites Hansen 1958_ | Table 2, p. 3, row 27; `ORC-OTQCZYCEFE` |  |
+| 537 | Liquid -> Bi + Bi7Te3 |  | experimental | [1] Zhou 2024; _cites Glatz 1965_ [doi](https://doi.org/10.1149/1.2423400) | Table 2, p. 3, row 36; `ORC-52FLLOUMIV` |  |
+| 497 | Liquid#2 -> (Bi) + Bi2Se3 |  | experimental | [1] Zhou 2024; _cites Poretskaya 1991_ | Table 2, p. 3, row 24; `ORC-PDSGLFPBR6` |  |
+| 490 | Liquid#2 -> (Se) + Bi2Se3 |  | experimental | [1] Zhou 2024; _cites Parravano 1913_ | Table 2, p. 3, row 4; `ORC-KTI6CYLFWZ` |  |
+| 423 | Liquid#2 -> (Se) + Bi2Se3 |  | experimental | [1] Zhou 2024; _cites Tomoshige 1919_ | Table 2, p. 3, row 9; `ORC-YPVJ53CSOH` |  |
 
 ## Other properties
 
@@ -69,7 +69,7 @@ Table: Crystal structure, Bi–Se–Te system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.4746 Å | 298.15 | (Bi); _alloy: Se 0, Te 0_ | unspecified | [1] Zhou 2024; _cites King 1981_ | Table 1, p. 2, row 1 |  |
+| Lattice a | 0.4746 Å | 298.15 | (Bi); _alloy: Se 0, Te 0_ | unspecified | [1] Zhou 2024; _cites King 1981_ | Table 1, p. 2, row 1; `ORC-ANRDCRHYQK` |  |
 
 ## Sources
 
@@ -112,4 +112,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

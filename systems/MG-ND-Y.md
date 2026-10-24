@@ -28,16 +28,16 @@ Table: Phase equilibrium, Mg–Nd–Y system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 753 | (Mg) + Mg41Nd5; _(Mg): Mg 0.976, Nd 0.006, Y 0.018; Mg41Nd5: Mg 0.894, Nd 0.091, Y 0.014_ | experimental | [1] Meng 2007 | Table 1, p. 2, row 2 |  |
-| Phase composition |  | 753 | (Mg) + β; _(Mg): Mg 0.97, Nd 0.004, Y 0.026; β: Mg 0.843, Nd 0.068, Y 0.088_ | experimental | [1] Meng 2007 | Table 1, p. 2, row 1 |  |
-| Phase composition |  | 753 | (Mg) + β + Mg24Y5; _(Mg): Mg 0.965, Nd 0.006, Y 0.028; β: Mg 0.864, Nd 0.039, Y 0.097; Mg24Y5: Mg 0.88, Nd 0.012, Y 0.116_ | experimental | [1] Meng 2007 | Table 1, p. 2, row 5 |  |
-| Phase composition |  | 753 | (Mg) + β + Mg24Y5; _(Mg): Mg 0.963, Nd 0.004, Y 0.032; β: Mg 0.854, Nd 0.05, Y 0.097; Mg24Y5: Mg 0.871, Nd 0.016, Y 0.113_ | experimental | [1] Meng 2007 | Table 1, p. 2, row 6 |  |
-| Phase composition |  | 753 | (Mg) + β + Mg41Nd5; _(Mg): Mg 0.971, Nd 0.01, Y 0.019; β: Mg 0.856, Nd 0.076, Y 0.068; Mg41Nd5: Mg 0.898, Nd 0.087, Y 0.015_ | experimental | [1] Meng 2007 | Table 1, p. 2, row 4 |  |
-| Phase composition |  | 753 | (Mg) + β + Mg41Nd5; _(Mg): Mg 0.974, Nd 0.005, Y 0.02; β: Mg 0.846, Nd 0.085, Y 0.067; Mg41Nd5: Mg 0.892, Nd 0.092, Y 0.016_ | experimental | [1] Meng 2007 | Table 1, p. 2, row 3 |  |
-| Phase composition |  | 753 | Mg3Nd + β + Mg2Y; _Mg3Nd: Mg 0.816, Nd 0.063, Y 0.121; β: Mg 0.782, Nd 0.093, Y 0.125; Mg2Y: Mg 0.742, Nd 0.027, Y 0.231_ | experimental | [1] Meng 2007 | Table 1, p. 2, row 8 |  |
-| Phase composition |  | 753 | β + Mg24Y5; _β: Mg 0.834, Nd 0.031, Y 0.135; Mg24Y5: Mg 0.839, Nd 0.011, Y 0.149_ | experimental | [1] Meng 2007 | Table 1, p. 2, row 7 |  |
-| Phase composition |  | 753 | β + Mg3Nd; _β: Mg 0.83, Nd 0.097, Y 0.073; Mg3Nd: Mg 0.792, Nd 0.145, Y 0.063_ | experimental | [1] Meng 2007 | Table 1, p. 2, row 10 |  |
-| Phase composition |  | 753 | β + Mg41Nd5; _β: Mg 0.846, Nd 0.095, Y 0.059; Mg41Nd5: Mg 0.895, Nd 0.093, Y 0.012_ | experimental | [1] Meng 2007 | Table 1, p. 2, row 9 |  |
+| Phase composition |  | 753 | (Mg) + Mg41Nd5; _(Mg): Mg 0.976, Nd 0.006, Y 0.018; Mg41Nd5: Mg 0.894, Nd 0.091, Y 0.014_ | experimental | [1] Meng 2007 | Table 1, p. 2, row 2; `ORC-OQG3NRFDLP` |  |
+| Phase composition |  | 753 | (Mg) + β; _(Mg): Mg 0.97, Nd 0.004, Y 0.026; β: Mg 0.843, Nd 0.068, Y 0.088_ | experimental | [1] Meng 2007 | Table 1, p. 2, row 1; `ORC-EJURJFXNVN` |  |
+| Phase composition |  | 753 | (Mg) + β + Mg24Y5; _(Mg): Mg 0.965, Nd 0.006, Y 0.028; β: Mg 0.864, Nd 0.039, Y 0.097; Mg24Y5: Mg 0.88, Nd 0.012, Y 0.116_ | experimental | [1] Meng 2007 | Table 1, p. 2, row 5; `ORC-LE7CDE5CAX` |  |
+| Phase composition |  | 753 | (Mg) + β + Mg24Y5; _(Mg): Mg 0.963, Nd 0.004, Y 0.032; β: Mg 0.854, Nd 0.05, Y 0.097; Mg24Y5: Mg 0.871, Nd 0.016, Y 0.113_ | experimental | [1] Meng 2007 | Table 1, p. 2, row 6; `ORC-PM3UF6PEUF` |  |
+| Phase composition |  | 753 | (Mg) + β + Mg41Nd5; _(Mg): Mg 0.971, Nd 0.01, Y 0.019; β: Mg 0.856, Nd 0.076, Y 0.068; Mg41Nd5: Mg 0.898, Nd 0.087, Y 0.015_ | experimental | [1] Meng 2007 | Table 1, p. 2, row 4; `ORC-4GI43AQSAQ` |  |
+| Phase composition |  | 753 | (Mg) + β + Mg41Nd5; _(Mg): Mg 0.974, Nd 0.005, Y 0.02; β: Mg 0.846, Nd 0.085, Y 0.067; Mg41Nd5: Mg 0.892, Nd 0.092, Y 0.016_ | experimental | [1] Meng 2007 | Table 1, p. 2, row 3; `ORC-W4IXJQAQ5Q` |  |
+| Phase composition |  | 753 | Mg3Nd + β + Mg2Y; _Mg3Nd: Mg 0.816, Nd 0.063, Y 0.121; β: Mg 0.782, Nd 0.093, Y 0.125; Mg2Y: Mg 0.742, Nd 0.027, Y 0.231_ | experimental | [1] Meng 2007 | Table 1, p. 2, row 8; `ORC-QQYA6EK354` |  |
+| Phase composition |  | 753 | β + Mg24Y5; _β: Mg 0.834, Nd 0.031, Y 0.135; Mg24Y5: Mg 0.839, Nd 0.011, Y 0.149_ | experimental | [1] Meng 2007 | Table 1, p. 2, row 7; `ORC-UODJUJVIG3` |  |
+| Phase composition |  | 753 | β + Mg3Nd; _β: Mg 0.83, Nd 0.097, Y 0.073; Mg3Nd: Mg 0.792, Nd 0.145, Y 0.063_ | experimental | [1] Meng 2007 | Table 1, p. 2, row 10; `ORC-4NXRHPKYZE` |  |
+| Phase composition |  | 753 | β + Mg41Nd5; _β: Mg 0.846, Nd 0.095, Y 0.059; Mg41Nd5: Mg 0.895, Nd 0.093, Y 0.012_ | experimental | [1] Meng 2007 | Table 1, p. 2, row 9; `ORC-BL3G4CGPTM` |  |
 
 ## Sources
 
@@ -80,4 +80,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

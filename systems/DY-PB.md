@@ -64,10 +64,10 @@ Table: Invariant reactions reported in the literature for the Dy–Pb system (4)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1828.15 | peritectic |  | experimental | [1] Iddaoudi 2014 | p. 2 | “For the Dy5Pb3 compound a congruent melting was determined at 1697 °C, while for the Dy5Pb4, DyPb, DyPb2 and DyPb3 compounds, a peritectic formation was reported, respectively, at 1555 °C, 1440 °C, 955 °C and 880 °C.” |
-| 1713.15 | peritectic |  | experimental | [1] Iddaoudi 2014 | p. 2 | “For the Dy5Pb3 compound a congruent melting was determined at 1697 °C, while for the Dy5Pb4, DyPb, DyPb2 and DyPb3 compounds, a peritectic formation was reported, respectively, at 1555 °C, 1440 °C, 955 °C and 880 °C.” |
-| 1228.15 | peritectic |  | experimental | [1] Iddaoudi 2014 | p. 2 | “For the Dy5Pb3 compound a congruent melting was determined at 1697 °C, while for the Dy5Pb4, DyPb, DyPb2 and DyPb3 compounds, a peritectic formation was reported, respectively, at 1555 °C, 1440 °C, 955 °C and 880 °C.” |
-| 1153.15 | peritectic |  | experimental | [1] Iddaoudi 2014 | p. 2 | “For the Dy5Pb3 compound a congruent melting was determined at 1697 °C, while for the Dy5Pb4, DyPb, DyPb2 and DyPb3 compounds, a peritectic formation was reported, respectively, at 1555 °C, 1440 °C, 955 °C and 880 °C.” |
+| 1828.15 | peritectic |  | experimental | [1] Iddaoudi 2014 | p. 2; `ORC-IDLCMORBG4.65e11e` | “For the Dy5Pb3 compound a congruent melting was determined at 1697 °C, while for the Dy5Pb4, DyPb, DyPb2 and DyPb3 compounds, a peritectic formation was reported, respectively, at 1555 °C, 1440 °C, 955 °C and 880 °C.” |
+| 1713.15 | peritectic |  | experimental | [1] Iddaoudi 2014 | p. 2; `ORC-IDLCMORBG4.83cd1a` | “For the Dy5Pb3 compound a congruent melting was determined at 1697 °C, while for the Dy5Pb4, DyPb, DyPb2 and DyPb3 compounds, a peritectic formation was reported, respectively, at 1555 °C, 1440 °C, 955 °C and 880 °C.” |
+| 1228.15 | peritectic |  | experimental | [1] Iddaoudi 2014 | p. 2; `ORC-IDLCMORBG4.d2a334` | “For the Dy5Pb3 compound a congruent melting was determined at 1697 °C, while for the Dy5Pb4, DyPb, DyPb2 and DyPb3 compounds, a peritectic formation was reported, respectively, at 1555 °C, 1440 °C, 955 °C and 880 °C.” |
+| 1153.15 | peritectic |  | experimental | [1] Iddaoudi 2014 | p. 2; `ORC-IDLCMORBG4.10ee26` | “For the Dy5Pb3 compound a congruent melting was determined at 1697 °C, while for the Dy5Pb4, DyPb, DyPb2 and DyPb3 compounds, a peritectic formation was reported, respectively, at 1555 °C, 1440 °C, 955 °C and 880 °C.” |
 
 ## Other properties
 
@@ -77,7 +77,7 @@ Table: Phase transition, Dy–Pb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1970.15 K | 1970.15 | congruent transformation | experimental | [1] Iddaoudi 2014 | p. 2 | “For the Dy5Pb3 compound a congruent melting was determined at 1697 °C, while for the Dy5Pb4, DyPb, DyPb2 and DyPb3 compounds, a peritectic formation was reported, respectively, at 1555 °C, 1440 °C, 955 °C and 880 °C.” |
+| Phase transition | 1970.15 K | 1970.15 | congruent transformation | experimental | [1] Iddaoudi 2014 | p. 2; `ORC-IDLCMORBG4.16c25e` | “For the Dy5Pb3 compound a congruent melting was determined at 1697 °C, while for the Dy5Pb4, DyPb, DyPb2 and DyPb3 compounds, a peritectic formation was reported, respectively, at 1555 °C, 1440 °C, 955 °C and 880 °C.” |
 
 ## Sources
 
@@ -142,4 +142,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

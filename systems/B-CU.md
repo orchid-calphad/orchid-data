@@ -30,20 +30,20 @@ Table: Invariant reactions reported in the literature for the B–Cu system (14)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1333.15 | eutectic |  | experimental | [1] Zhang 2009 | p. 1 | “The eutectic point is at 10.7 at.% (2.0 wt.%) B and at 1060 ± 2 C.” |
-| 1333.15 | eutectic: L -> (Cu) + (B) | L: B 0.107 | experimental | [2] Wang 2009; _cites Lihl 1954_ | Table 3, p. 4, row 1 |  |
-| 1301.15 | eutectic: L -> (B) + (Cu) |  | experimental | [1] Zhang 2009 | p. 1 | “The temperature associated with the eutectic reaction, L , (B) + (Cu); was measured to be 1028 ± 2 °C.” |
-| 1301.15 | eutectic: L -> (B) + (Cu) |  | experimental | [1] Zhang 2009 | p. 4 | “The presently measured eutectic temperature of the L , (B) þ (Cu); is at 1028 ± 2 C, which is close to that in Ref 5 but is higher by 15 C than that reported in Ref 7.” |
-| 1300.15 | eutectic |  | model | [1] Zhang 2009 | p. 5 | “The calculated eutectic point is at 1027 C and 13.3% B.” |
-| 1294.15 | eutectic |  | experimental | [1] Zhang 2009; _cites Smiryagin 1965_ | p. 1 | “The eutectic point is reported to be at 1021 C and 10.7 at.% (2 wt.%) B.” |
-| 1294.15 | eutectic: L -> (Cu) + (B) | L: B 0.107; (Cu): B 0.0029 | experimental | [2] Wang 2009; _cites Smiryagin 1965_ | Table 3, p. 4, row 2 |  |
-| 1286.15 | eutectic: L ↔ (Cu) + (B) |  | experimental | [2] Wang 2009; _cites Rexer 1970_ | p. 2 | “Rexer and Petzow \[18\] reported the composition (13.3 at.% B) and the temperature (1013 ◦ C) of the eutectic reaction L ↔ (Cu) + (B).” |
-| 1286.15 | eutectic |  | experimental | [1] Zhang 2009; _cites Rexer 1970_ | p. 2 | “Using optical microscopy, XRD, chemical analysis and TA, they\[7\] determined the eutectic point to be at 13.3 at.% B and 1013 C.” |
-| 1286.15 | eutectic: L -> (Cu) + (B) | L: B 0.133 | experimental | [2] Wang 2009; _cites Rexer 1970_ | Table 3, p. 4, row 4 |  |
-| 1286.15 | eutectic: L -> (Cu) + (B) | L: B 0.133; (Cu): B 0.0029; (B): B 0.97 | model | [2] Wang 2009 | Table 3, p. 4, row 6 |  |
-| 1283.15 | eutectic: L -> (Cu) + (B) |  | experimental | [2] Wang 2009; _cites Piton 1974_ | Table 3, p. 4, row 5 |  |
-| 1281.15 | eutectic: L -> (Cu) + (B) | (B): B 0.97 | experimental | [2] Wang 2009; _cites Wald 1965_ [doi](https://doi.org/10.1016/0022-5088%2865%2990126-8) | Table 3, p. 4, row 3 |  |
-| 1281.15 | eutectic |  | experimental | [1] Zhang 2009; _cites Wald 2009_ | p. 2 | “The eutectic temperature was found to be 1008 C with the eutectic composition being higher than 10 at.% B.” |
+| 1333.15 | eutectic |  | experimental | [1] Zhang 2009 | p. 1; `ORC-JB4YLAOBZH` | “The eutectic point is at 10.7 at.% (2.0 wt.%) B and at 1060 ± 2 C.” |
+| 1333.15 | eutectic: L -> (Cu) + (B) | L: B 0.107 | experimental | [2] Wang 2009; _cites Lihl 1954_ | Table 3, p. 4, row 1; `ORC-QJPFZMQKBZ` |  |
+| 1301.15 | eutectic: L -> (B) + (Cu) |  | experimental | [1] Zhang 2009 | p. 1; `ORC-RAOKMPK4SH` | “The temperature associated with the eutectic reaction, L , (B) + (Cu); was measured to be 1028 ± 2 °C.” |
+| 1301.15 | eutectic: L -> (B) + (Cu) |  | experimental | [1] Zhang 2009 | p. 4; `ORC-YXLKSKQK2L` | “The presently measured eutectic temperature of the L , (B) þ (Cu); is at 1028 ± 2 C, which is close to that in Ref 5 but is higher by 15 C than that reported in Ref 7.” |
+| 1300.15 | eutectic |  | model | [1] Zhang 2009 | p. 5; `ORC-K65O62YDH7` | “The calculated eutectic point is at 1027 C and 13.3% B.” |
+| 1294.15 | eutectic |  | experimental | [1] Zhang 2009; _cites Smiryagin 1965_ | p. 1; `ORC-GQAKNZNBPV` | “The eutectic point is reported to be at 1021 C and 10.7 at.% (2 wt.%) B.” |
+| 1294.15 | eutectic: L -> (Cu) + (B) | L: B 0.107; (Cu): B 0.0029 | experimental | [2] Wang 2009; _cites Smiryagin 1965_ | Table 3, p. 4, row 2; `ORC-YTIGY5HRZD` |  |
+| 1286.15 | eutectic: L ↔ (Cu) + (B) |  | experimental | [2] Wang 2009; _cites Rexer 1970_ | p. 2; `ORC-B7LNQZSYY2` | “Rexer and Petzow \[18\] reported the composition (13.3 at.% B) and the temperature (1013 ◦ C) of the eutectic reaction L ↔ (Cu) + (B).” |
+| 1286.15 | eutectic |  | experimental | [1] Zhang 2009; _cites Rexer 1970_ | p. 2; `ORC-DZD7RVM2GC` | “Using optical microscopy, XRD, chemical analysis and TA, they\[7\] determined the eutectic point to be at 13.3 at.% B and 1013 C.” |
+| 1286.15 | eutectic: L -> (Cu) + (B) | L: B 0.133 | experimental | [2] Wang 2009; _cites Rexer 1970_ | Table 3, p. 4, row 4; `ORC-FEPXWDW2UG` |  |
+| 1286.15 | eutectic: L -> (Cu) + (B) | L: B 0.133; (Cu): B 0.0029; (B): B 0.97 | model | [2] Wang 2009 | Table 3, p. 4, row 6; `ORC-ILS5RFJWM5` |  |
+| 1283.15 | eutectic: L -> (Cu) + (B) |  | experimental | [2] Wang 2009; _cites Piton 1974_ | Table 3, p. 4, row 5; `ORC-4BXDQV6QVT` |  |
+| 1281.15 | eutectic: L -> (Cu) + (B) | (B): B 0.97 | experimental | [2] Wang 2009; _cites Wald 1965_ [doi](https://doi.org/10.1016/0022-5088%2865%2990126-8) | Table 3, p. 4, row 3; `ORC-JTSK44OGT3` |  |
+| 1281.15 | eutectic |  | experimental | [1] Zhang 2009; _cites Wald 2009_ | p. 2; `ORC-X424MWUHAR` | “The eutectic temperature was found to be 1008 C with the eutectic composition being higher than 10 at.% B.” |
 
 ## Other properties
 
@@ -53,13 +53,13 @@ Table: Phase equilibrium, B–Cu system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase assemblage |  | 1123.15 | (Cu) + (B); _alloy: B 0.344, Cu 0.656_ | experimental | [1] Zhang 2009 | Table 2, p. 3, row 20 |  |
-| Phase assemblage |  | 1123.15 | (Cu) + (B); _alloy: B 0.1757, Cu 0.8243_ | experimental | [1] Zhang 2009 | Table 2, p. 3, row 15 |  |
-| Phase assemblage |  | 1123.15 | (Cu) + (B); _alloy: B 0.3893, Cu 0.6107_ | experimental | [1] Zhang 2009 | Table 2, p. 3, row 23 |  |
-| Phase assemblage |  | 1123.15 | (Cu) + (B); _alloy: B 0.0983, Cu 0.9017_ | experimental | [1] Zhang 2009 | Table 2, p. 3, row 10 |  |
-| Phase assemblage |  | 1123.15 | (Cu) + (B); _alloy: B 0.0518, Cu 0.9482_ | experimental | [1] Zhang 2009 | Table 2, p. 3, row 1 |  |
-| Phase assemblage |  | 1123.15 | (Cu) + (B); _alloy: B 0.0796, Cu 0.9204_ | experimental | [1] Zhang 2009 | Table 2, p. 3, row 5 |  |
-| Phase assemblage |  | 1273.15 | (Cu) + (B); _alloy: B 0.35, Cu 0.65_ | experimental | [1] Zhang 2009 | Table 2, p. 3, row 19 |  |
+| Phase assemblage |  | 1123.15 | (Cu) + (B); _alloy: B 0.344, Cu 0.656_ | experimental | [1] Zhang 2009 | Table 2, p. 3, row 20; `ORC-5UFL7EQCR3` |  |
+| Phase assemblage |  | 1123.15 | (Cu) + (B); _alloy: B 0.1757, Cu 0.8243_ | experimental | [1] Zhang 2009 | Table 2, p. 3, row 15; `ORC-K55DNTVD25` |  |
+| Phase assemblage |  | 1123.15 | (Cu) + (B); _alloy: B 0.3893, Cu 0.6107_ | experimental | [1] Zhang 2009 | Table 2, p. 3, row 23; `ORC-LIZZ2YXRFP` |  |
+| Phase assemblage |  | 1123.15 | (Cu) + (B); _alloy: B 0.0983, Cu 0.9017_ | experimental | [1] Zhang 2009 | Table 2, p. 3, row 10; `ORC-M3JPWYV4CB` |  |
+| Phase assemblage |  | 1123.15 | (Cu) + (B); _alloy: B 0.0518, Cu 0.9482_ | experimental | [1] Zhang 2009 | Table 2, p. 3, row 1; `ORC-MS6P3ELFQ7` |  |
+| Phase assemblage |  | 1123.15 | (Cu) + (B); _alloy: B 0.0796, Cu 0.9204_ | experimental | [1] Zhang 2009 | Table 2, p. 3, row 5; `ORC-YHNJVXN7VD` |  |
+| Phase assemblage |  | 1273.15 | (Cu) + (B); _alloy: B 0.35, Cu 0.65_ | experimental | [1] Zhang 2009 | Table 2, p. 3, row 19; `ORC-FZUZZ55DKD` |  |
 
 ## Sources
 
@@ -114,4 +114,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -44,8 +44,8 @@ Table: Enthalpies of formation, Ca–Sr system (2)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Ca2Sr-C14 | [Ca2Sr](https://data.orchid-project.org/compounds/Ca2Sr.html) | 2.5445 kJ/mol-atom | 0 | unspecified |  | 1.213 (oqmd-1450029) | [1] Zhong 2006 | Table 2, p. 4, row 18 |  |
-| Sr2Ca-C14 | [CaSr2](https://data.orchid-project.org/compounds/CaSr2.html) | 15.7965 kJ/mol-atom | 0 | unspecified |  | 2.047 (oqmd-1449632) | [1] Zhong 2006 | Table 2, p. 4, row 20 |  |
+| Ca2Sr-C14 | [Ca2Sr](https://data.orchid-project.org/compounds/Ca2Sr.html) | 2.5445 kJ/mol-atom | 0 | unspecified |  | 1.213 (oqmd-1450029) | [1] Zhong 2006 | Table 2, p. 4, row 18; `ORC-DHDGDPBCKL.af8d26` |  |
+| Sr2Ca-C14 | [CaSr2](https://data.orchid-project.org/compounds/CaSr2.html) | 15.7965 kJ/mol-atom | 0 | unspecified |  | 2.047 (oqmd-1449632) | [1] Zhong 2006 | Table 2, p. 4, row 20; `ORC-4LCMYKHLRR.261257` |  |
 
 ## Other properties
 
@@ -55,7 +55,7 @@ Table: Phase transition, Ca–Sr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1011.15 K | 1011.15 | other | experimental | [2] Zhong 2003; _cites Schottmiller 1958_ [doi](https://doi.org/10.1021/j150569a024) | p. 1 | “Schottmiller et al. \[1958Sch\] determined the liquidus and solidus by thermal analysis with an uncertainty about ±2 °C. They prepared alloys from 99.8 wt.% Ca and doubly distilled 99.7 wt.% Sr in Fe crucibles in an argon atmosphere. The liquidus has a minimum at about 738 °C and 62 at.% Sr.” |
+| Phase transition | 1011.15 K | 1011.15 | other | experimental | [2] Zhong 2003; _cites Schottmiller 1958_ [doi](https://doi.org/10.1021/j150569a024) | p. 1; `ORC-SRG6UJHWZH` | “Schottmiller et al. \[1958Sch\] determined the liquidus and solidus by thermal analysis with an uncertainty about ±2 °C. They prepared alloys from 99.8 wt.% Ca and doubly distilled 99.7 wt.% Sr in Fe crucibles in an argon atmosphere. The liquidus has a minimum at about 738 °C and 62 at.% Sr.” |
 
 ### Crystal structure (4)
 
@@ -63,10 +63,10 @@ Table: Crystal structure, Ca–Sr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a; _printed: a_ | 7.347 Å | 0 | Ca2Sr-C14; _alloy: Sr 0.333333_ | unspecified | [1] Zhong 2006 | Table 2, p. 4, row 18 |  |
-| Lattice a; _printed: a_ | 7.649 Å | 0 | Sr2Ca-C14; _alloy: Sr 0.666667_ | unspecified | [1] Zhong 2006 | Table 2, p. 4, row 20 |  |
-| Lattice c; _printed: c_ | 12.124 Å | 0 | Ca2Sr-C14; _alloy: Sr 0.333333_ | unspecified | [1] Zhong 2006 | Table 2, p. 4, row 18 |  |
-| Lattice c; _printed: c_ | 12.378 Å | 0 | Sr2Ca-C14; _alloy: Sr 0.666667_ | unspecified | [1] Zhong 2006 | Table 2, p. 4, row 20 |  |
+| Lattice a; _printed: a_ | 7.347 Å | 0 | Ca2Sr-C14; _alloy: Sr 0.333333_ | unspecified | [1] Zhong 2006 | Table 2, p. 4, row 18; `ORC-Y2GFQTB34A.a5bc74` |  |
+| Lattice a; _printed: a_ | 7.649 Å | 0 | Sr2Ca-C14; _alloy: Sr 0.666667_ | unspecified | [1] Zhong 2006 | Table 2, p. 4, row 20; `ORC-LMJWUPFODV.3d78f2` |  |
+| Lattice c; _printed: c_ | 12.124 Å | 0 | Ca2Sr-C14; _alloy: Sr 0.333333_ | unspecified | [1] Zhong 2006 | Table 2, p. 4, row 18; `ORC-Y2GFQTB34A.0f560b` |  |
+| Lattice c; _printed: c_ | 12.378 Å | 0 | Sr2Ca-C14; _alloy: Sr 0.666667_ | unspecified | [1] Zhong 2006 | Table 2, p. 4, row 20; `ORC-LMJWUPFODV.1547e9` |  |
 
 ## Sources
 
@@ -132,4 +132,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

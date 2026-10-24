@@ -14,12 +14,12 @@ Table: Enthalpy of formation of Bi2Te3 reported in the literature (6)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -39.8 kJ/mol-atom | Bi2Te3 | 298.15 | experimental | EMF | [Bi–Te](https://data.orchid-project.org/systems/BI-TE.html) | [1] Zhou 2024; _cites Sidorko 2008_ [doi](https://doi.org/10.1007/s11106-008-9009-3) | Table 3, p. 5, row 110 |  |
-| -16.903 kJ/mol-atom | Bi2Te3 | 298.15 | experimental | EMF | [Bi–Te](https://data.orchid-project.org/systems/BI-TE.html) | [1] Zhou 2024; _cites Semenkovich 1972_ [doi](https://doi.org/10.1007/978-1-4684-1686-2_27) | Table 3, p. 5, row 108 |  |
-| -16.82 kJ/mol-atom ± 0.67 | Bi2Te3 | 298.15 | experimental | Calorimetry | [Bi–Te](https://data.orchid-project.org/systems/BI-TE.html) | [1] Zhou 2024; _cites Vecher 1968_ | Table 3, p. 5, row 109 |  |
-| -16.1 kJ/mol-atom ± 1 | Bi2Te3 | 298.15 | experimental | Vapour pressure measurements | [Bi–Te](https://data.orchid-project.org/systems/BI-TE.html) | [1] Zhou 2024; _cites Boncheva-Mladenova 1972_ [doi](https://doi.org/10.1007/978-1-4684-1686-2_26) | Table 3, p. 5, row 107 |  |
-| -15.84 kJ/mol-atom | Bi2Te3 | 298.15 | experimental | EMF | [Bi–Te](https://data.orchid-project.org/systems/BI-TE.html) | [1] Zhou 2024; _cites Hasanova 2021_ [doi](https://doi.org/10.1007/s11837-021-04621-1) | Table 3, p. 5, row 112 |  |
-| -15.7 kJ/mol-atom | Bi2Te3 | 298.15 | experimental | Calorimetry | [Bi–Te](https://data.orchid-project.org/systems/BI-TE.html) | [1] Zhou 2024; _cites Howlett 1964_ | Table 3, p. 5, row 106 |  |
+| -39.8 kJ/mol-atom | Bi2Te3 | 298.15 | experimental | EMF | [Bi–Te](https://data.orchid-project.org/systems/BI-TE.html) | [1] Zhou 2024; _cites Sidorko 2008_ [doi](https://doi.org/10.1007/s11106-008-9009-3) | Table 3, p. 5, row 110; `ORC-YHSAQCMMJG` |  |
+| -16.903 kJ/mol-atom | Bi2Te3 | 298.15 | experimental | EMF | [Bi–Te](https://data.orchid-project.org/systems/BI-TE.html) | [1] Zhou 2024; _cites Semenkovich 1972_ [doi](https://doi.org/10.1007/978-1-4684-1686-2_27) | Table 3, p. 5, row 108; `ORC-UXJFB6ZCBM` |  |
+| -16.82 kJ/mol-atom ± 0.67 | Bi2Te3 | 298.15 | experimental | Calorimetry | [Bi–Te](https://data.orchid-project.org/systems/BI-TE.html) | [1] Zhou 2024; _cites Vecher 1968_ | Table 3, p. 5, row 109; `ORC-6JWJFOCD7U` |  |
+| -16.1 kJ/mol-atom ± 1 | Bi2Te3 | 298.15 | experimental | Vapour pressure measurements | [Bi–Te](https://data.orchid-project.org/systems/BI-TE.html) | [1] Zhou 2024; _cites Boncheva-Mladenova 1972_ [doi](https://doi.org/10.1007/978-1-4684-1686-2_26) | Table 3, p. 5, row 107; `ORC-WXJ6TLFSHD` |  |
+| -15.84 kJ/mol-atom | Bi2Te3 | 298.15 | experimental | EMF | [Bi–Te](https://data.orchid-project.org/systems/BI-TE.html) | [1] Zhou 2024; _cites Hasanova 2021_ [doi](https://doi.org/10.1007/s11837-021-04621-1) | Table 3, p. 5, row 112; `ORC-2RRZ5KKKRM` |  |
+| -15.7 kJ/mol-atom | Bi2Te3 | 298.15 | experimental | Calorimetry | [Bi–Te](https://data.orchid-project.org/systems/BI-TE.html) | [1] Zhou 2024; _cites Howlett 1964_ | Table 3, p. 5, row 106; `ORC-WIILY7GV7G` |  |
 
 ### Uncertainty budget
 
@@ -100,4 +100,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -14,12 +14,12 @@ Table: Enthalpy of formation of Sn3Zr5 reported in the literature (6)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -71.2 kJ/mol (basis unstated) | Zr5Sn3 | 1473 | experimental | DRC | [Sn–Zr](https://data.orchid-project.org/systems/SN-ZR.html) | [1] Pérez 2008; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900467-x) | Table 4, p. 8, row 10 |  |
-| -81.551 kJ/mol (basis unstated) | Zr5Sn3 | 1473 | model | Thermo_Calc | [Sn–Zr](https://data.orchid-project.org/systems/SN-ZR.html) | [1] Pérez 2008; _cites Dupin 1999_ [doi](https://doi.org/10.1016/s0022-3115%2899%2900125-7) | Table 4, p. 8, row 9 |  |
-| -80.96 kJ/mol (basis unstated) | Zr5Sn3 | 1473 | model | Miedema | [Sn–Zr](https://data.orchid-project.org/systems/SN-ZR.html) | [1] Pérez 2008; _cites De 1988_ | Table 4, p. 8, row 11 |  |
-| -74.345 kJ/mol (basis unstated) | Zr5Sn3 | 1473 | model | Thermo_Calc | [Sn–Zr](https://data.orchid-project.org/systems/SN-ZR.html) | [1] Pérez 2008 | Table 4, p. 8, row 8 |  |
-| -71.2 kJ/mol (basis unstated) | Zr5Sn3 | 1473 | model | FP | [Sn–Zr](https://data.orchid-project.org/systems/SN-ZR.html) | [1] Pérez 2008; _cites Baykov 2006_ [doi](https://doi.org/10.1016/j.scriptamat.2006.04.047) | Table 4, p. 8, row 7 |  |
-| -55.67 kJ/mol (basis unstated) | Zr5Sn3 | 1473 | model | FP | [Sn–Zr](https://data.orchid-project.org/systems/SN-ZR.html) | [1] Pérez 2008; _cites Baykov 2006_ [doi](https://doi.org/10.1016/j.scriptamat.2006.04.047) | Table 4, p. 8, row 6 |  |
+| -71.2 kJ/mol (basis unstated) | Zr5Sn3 | 1473 | experimental | DRC | [Sn–Zr](https://data.orchid-project.org/systems/SN-ZR.html) | [1] Pérez 2008; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900467-x) | Table 4, p. 8, row 10; `ORC-XIHUVFQ73L` |  |
+| -81.551 kJ/mol (basis unstated) | Zr5Sn3 | 1473 | model | Thermo_Calc | [Sn–Zr](https://data.orchid-project.org/systems/SN-ZR.html) | [1] Pérez 2008; _cites Dupin 1999_ [doi](https://doi.org/10.1016/s0022-3115%2899%2900125-7) | Table 4, p. 8, row 9; `ORC-646VZ5S726` |  |
+| -80.96 kJ/mol (basis unstated) | Zr5Sn3 | 1473 | model | Miedema | [Sn–Zr](https://data.orchid-project.org/systems/SN-ZR.html) | [1] Pérez 2008; _cites De 1988_ | Table 4, p. 8, row 11; `ORC-CCZMEPW74H` |  |
+| -74.345 kJ/mol (basis unstated) | Zr5Sn3 | 1473 | model | Thermo_Calc | [Sn–Zr](https://data.orchid-project.org/systems/SN-ZR.html) | [1] Pérez 2008 | Table 4, p. 8, row 8; `ORC-GY23XUYBU6` |  |
+| -71.2 kJ/mol (basis unstated) | Zr5Sn3 | 1473 | model | FP | [Sn–Zr](https://data.orchid-project.org/systems/SN-ZR.html) | [1] Pérez 2008; _cites Baykov 2006_ [doi](https://doi.org/10.1016/j.scriptamat.2006.04.047) | Table 4, p. 8, row 7; `ORC-XX76GCTWTB` |  |
+| -55.67 kJ/mol (basis unstated) | Zr5Sn3 | 1473 | model | FP | [Sn–Zr](https://data.orchid-project.org/systems/SN-ZR.html) | [1] Pérez 2008; _cites Baykov 2006_ [doi](https://doi.org/10.1016/j.scriptamat.2006.04.047) | Table 4, p. 8, row 6; `ORC-2VWXQTCZE4` |  |
 
 ### Uncertainty budget
 
@@ -87,4 +87,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

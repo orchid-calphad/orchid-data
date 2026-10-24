@@ -70,36 +70,36 @@ Table: Invariant reactions reported in the literature for the Al–Th system (30
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1793.15 | congruent melting: L -> ThAl2 | L: Al 0.667; ThAl2: Al 0.667 | model | [1] Li 2010 | Table 4, p. 4, row 28 |  |
-| 1793.15 | congruent melting: L -> ThAl2 | L: Al 0.667; ThAl2: Al 0.667 | unspecified | [1] Li 2010; _cites Kassner 1989_ [doi](https://doi.org/10.1007/bf02882381) | Table 4, p. 4, row 27 |  |
-| 1667.95 | peritectic: L + ThAl2 -> Th2Al3 | L: Al 0.538; ThAl2: Al 0.667; Th2Al3: Al 0.6 | model | [1] Li 2010 | Table 4, p. 4, row 2 |  |
-| 1667.15 | peritectic: L + ThAl2 -> Th2Al3 | L: Al 0.56; ThAl2: Al 0.667; Th2Al3: Al 0.6 | unspecified | [1] Li 2010; _cites Kassner 1989_ [doi](https://doi.org/10.1007/bf02882381) | Table 4, p. 4, row 1 |  |
-| 1664.95 | peritectic: L + βTh -> αTh | L: Al 0.134; βTh: Al 0.0191; αTh: Al 0.0193 | model | [1] Li 2010 | Table 4, p. 4, row 4 |  |
-| 1655.15 | peritectic: L + βTh -> αTh | L: Al 0.15; βTh: Al 0.01; αTh: Al 0.01 | unspecified | [1] Li 2010; _cites Kassner 1989_ [doi](https://doi.org/10.1007/bf02882381) | Table 4, p. 4, row 3 |  |
-| 1591.15 | peritectic: Th2Al3 + L -> ThAl | Th2Al3: Al 0.6; L: Al 0.48; ThAl: Al 0.5 | unspecified | [1] Li 2010; _cites Kassner 1989_ [doi](https://doi.org/10.1007/bf02882381) | Table 4, p. 4, row 5 |  |
-| 1590.45 | peritectic: Th2Al3 + L -> ThAl | Th2Al3: Al 0.6; L: Al 0.476; ThAl: Al 0.5 | model | [1] Li 2010 | Table 4, p. 4, row 6 |  |
-| 1583.15 | congruent melting: L -> Th2Al | L: Al 0.333; Th2Al: Al 0.333 | model | [1] Li 2010 | Table 4, p. 4, row 24 |  |
-| 1580.15 | congruent melting: L -> Th2Al | L: Al 0.333; Th2Al: Al 0.333 | unspecified | [1] Li 2010; _cites Kassner 1989_ [doi](https://doi.org/10.1007/bf02882381) | Table 4, p. 4, row 23 |  |
-| 1574.15 | congruent melting: L -> Th3Al2 | L: Al 0.4; Th3Al2: Al 0.4 | unspecified | [1] Li 2010; _cites Kassner 1989_ [doi](https://doi.org/10.1007/bf02882381) | Table 4, p. 4, row 25 |  |
-| 1573.15 | congruent melting: L -> Th3Al2 | L: Al 0.4; Th3Al2: Al 0.4 | model | [1] Li 2010 | Table 4, p. 4, row 26 |  |
-| 1572.35 | eutectic: L -> Th3Al2 + Th2Al | L: Al 0.388; Th3Al2: Al 0.4; Th2Al: Al 0.333 | model | [1] Li 2010 | Table 4, p. 4, row 8 |  |
-| 1569.15 | eutectic: L -> Th3Al2 + Th2Al | L: Al 0.35; Th3Al2: Al 0.4; Th2Al: Al 0.333 | unspecified | [1] Li 2010; _cites Kassner 1989_ [doi](https://doi.org/10.1007/bf02882381) | Table 4, p. 4, row 7 |  |
-| 1568.95 | eutectic: L -> ThAl + Th3Al2 | L: Al 0.43; ThAl: Al 0.5; Th3Al2: Al 0.4 | model | [1] Li 2010 | Table 4, p. 4, row 10 |  |
-| 1563.15 | eutectic: L -> ThAl + Th3Al2 | L: Al 0.43; ThAl: Al 0.5; Th3Al2: Al 0.4 | unspecified | [1] Li 2010; _cites Kassner 1989_ [doi](https://doi.org/10.1007/bf02882381) | Table 4, p. 4, row 9 |  |
-| 1516.15 | eutectic: L -> Th2Al + αTh | L: Al 0.2; Th2Al: Al 0.333; αTh: Al 0.0085 | unspecified | [1] Li 2010; _cites Kassner 1989_ [doi](https://doi.org/10.1007/bf02882381) | Table 4, p. 4, row 11 |  |
-| 1509.65 | eutectic: L -> Th2Al + αTh | L: Al 0.183; Th2Al: Al 0.333; αTh: Al 0.024 | model | [1] Li 2010 | Table 4, p. 4, row 12 |  |
-| 1395.75 | peritectic: L + ThAl2 -> ThAl3 | L: Al 0.856; ThAl2: Al 0.667; ThAl3: Al 0.75 | model | [1] Li 2010 | Table 4, p. 4, row 14 |  |
-| 1393.15 | peritectic: L + ThAl2 -> ThAl3 | L: Al 0.84; ThAl2: Al 0.667; ThAl3: Al 0.75 | unspecified | [1] Li 2010; _cites Kassner 1989_ [doi](https://doi.org/10.1007/bf02882381) | Table 4, p. 4, row 13 |  |
-| 1377.25 | eutectoid: Th2Al3 -> ThAl2 + ThAl | Th2Al3: Al 0.6; ThAl2: Al 0.667; ThAl: Al 0.5 | model | [1] Li 2010 | Table 4, p. 4, row 16 |  |
-| 1373.15 | eutectoid |  | experimental | [1] Li 2010; _cites Murray 1958_ | p. 2 | “Murray \[17\] reported that the Th3Al2 and Th2Al3 compounds eutectoidally decompose at 1075 °C and 1100 °C, respectively, and the solid solubilities of Al in the aTh and bTh phases are 0.4 at.% at 1000 °C and 0.85 at.% at 1300 °C.” |
-| 1373.15 | eutectoid: Th2Al3 -> ThAl2 + ThAl | Th2Al3: Al 0.6; ThAl2: Al 0.667; ThAl: Al 0.5 | unspecified | [1] Li 2010; _cites Kassner 1989_ [doi](https://doi.org/10.1007/bf02882381) | Table 4, p. 4, row 15 |  |
-| 1348.15 | eutectoid |  | experimental | [1] Li 2010; _cites Murray 1958_ | p. 2 | “Murray \[17\] reported that the Th3Al2 and Th2Al3 compounds eutectoidally decompose at 1075 °C and 1100 °C, respectively, and the solid solubilities of Al in the aTh and bTh phases are 0.4 at.% at 1000 °C and 0.85 at.% at 1300 °C.” |
-| 1348.15 | eutectoid: Th3Al2 -> ThAl + Th2Al | Th3Al2: Al 0.4; ThAl: Al 0.5; Th2Al: Al 0.333 | unspecified | [1] Li 2010; _cites Kassner 1989_ [doi](https://doi.org/10.1007/bf02882381) | Table 4, p. 4, row 17 |  |
-| 1344.05 | eutectoid: Th3Al2 -> ThAl + Th2Al | Th3Al2: Al 0.4; ThAl: Al 0.5; Th2Al: Al 0.333 | model | [1] Li 2010 | Table 4, p. 4, row 18 |  |
-| 1152.35 | peritectic: L + ThAl3 -> Th2Al7 | L: Al 0.924; ThAl3: Al 0.75; Th2Al7: Al 0.778 | model | [1] Li 2010 | Table 4, p. 4, row 20 |  |
-| 1149.15 | peritectic: L + ThAl3 -> Th2Al7 | L: Al 0.929; ThAl3: Al 0.75; Th2Al7: Al 0.778 | unspecified | [1] Li 2010; _cites Kassner 1989_ [doi](https://doi.org/10.1007/bf02882381) | Table 4, p. 4, row 19 |  |
-| 903.15 | eutectic: L -> (Al) + Th2Al7 | L: Al 0.971; (Al): Al 1; Th2Al7: Al 0.778 | unspecified | [1] Li 2010; _cites Kassner 1989_ [doi](https://doi.org/10.1007/bf02882381) | Table 4, p. 4, row 21 |  |
-| 901.55 | eutectic: L -> (Al) + Th2Al7 | L: Al 0.973; (Al): Al 1; Th2Al7: Al 0.778 | model | [1] Li 2010 | Table 4, p. 4, row 22 |  |
+| 1793.15 | congruent melting: L -> ThAl2 | L: Al 0.667; ThAl2: Al 0.667 | model | [1] Li 2010 | Table 4, p. 4, row 28; `ORC-627AVIMTJU` |  |
+| 1793.15 | congruent melting: L -> ThAl2 | L: Al 0.667; ThAl2: Al 0.667 | unspecified | [1] Li 2010; _cites Kassner 1989_ [doi](https://doi.org/10.1007/bf02882381) | Table 4, p. 4, row 27; `ORC-X4U5ZZTA43` |  |
+| 1667.95 | peritectic: L + ThAl2 -> Th2Al3 | L: Al 0.538; ThAl2: Al 0.667; Th2Al3: Al 0.6 | model | [1] Li 2010 | Table 4, p. 4, row 2; `ORC-JNWDH5P7VN` |  |
+| 1667.15 | peritectic: L + ThAl2 -> Th2Al3 | L: Al 0.56; ThAl2: Al 0.667; Th2Al3: Al 0.6 | unspecified | [1] Li 2010; _cites Kassner 1989_ [doi](https://doi.org/10.1007/bf02882381) | Table 4, p. 4, row 1; `ORC-OHY4PR67WP` |  |
+| 1664.95 | peritectic: L + βTh -> αTh | L: Al 0.134; βTh: Al 0.0191; αTh: Al 0.0193 | model | [1] Li 2010 | Table 4, p. 4, row 4; `ORC-GPKCADCL3V` |  |
+| 1655.15 | peritectic: L + βTh -> αTh | L: Al 0.15; βTh: Al 0.01; αTh: Al 0.01 | unspecified | [1] Li 2010; _cites Kassner 1989_ [doi](https://doi.org/10.1007/bf02882381) | Table 4, p. 4, row 3; `ORC-J6GR44VXPR` |  |
+| 1591.15 | peritectic: Th2Al3 + L -> ThAl | Th2Al3: Al 0.6; L: Al 0.48; ThAl: Al 0.5 | unspecified | [1] Li 2010; _cites Kassner 1989_ [doi](https://doi.org/10.1007/bf02882381) | Table 4, p. 4, row 5; `ORC-76DMG6T43L` |  |
+| 1590.45 | peritectic: Th2Al3 + L -> ThAl | Th2Al3: Al 0.6; L: Al 0.476; ThAl: Al 0.5 | model | [1] Li 2010 | Table 4, p. 4, row 6; `ORC-EOXTSDOJGP` |  |
+| 1583.15 | congruent melting: L -> Th2Al | L: Al 0.333; Th2Al: Al 0.333 | model | [1] Li 2010 | Table 4, p. 4, row 24; `ORC-D267N4XSYW` |  |
+| 1580.15 | congruent melting: L -> Th2Al | L: Al 0.333; Th2Al: Al 0.333 | unspecified | [1] Li 2010; _cites Kassner 1989_ [doi](https://doi.org/10.1007/bf02882381) | Table 4, p. 4, row 23; `ORC-55DILNJIMS` |  |
+| 1574.15 | congruent melting: L -> Th3Al2 | L: Al 0.4; Th3Al2: Al 0.4 | unspecified | [1] Li 2010; _cites Kassner 1989_ [doi](https://doi.org/10.1007/bf02882381) | Table 4, p. 4, row 25; `ORC-HSHHPPDSSN` |  |
+| 1573.15 | congruent melting: L -> Th3Al2 | L: Al 0.4; Th3Al2: Al 0.4 | model | [1] Li 2010 | Table 4, p. 4, row 26; `ORC-W75LKR4EU6` |  |
+| 1572.35 | eutectic: L -> Th3Al2 + Th2Al | L: Al 0.388; Th3Al2: Al 0.4; Th2Al: Al 0.333 | model | [1] Li 2010 | Table 4, p. 4, row 8; `ORC-UCH2UVVAMS` |  |
+| 1569.15 | eutectic: L -> Th3Al2 + Th2Al | L: Al 0.35; Th3Al2: Al 0.4; Th2Al: Al 0.333 | unspecified | [1] Li 2010; _cites Kassner 1989_ [doi](https://doi.org/10.1007/bf02882381) | Table 4, p. 4, row 7; `ORC-JRZABXFDDM` |  |
+| 1568.95 | eutectic: L -> ThAl + Th3Al2 | L: Al 0.43; ThAl: Al 0.5; Th3Al2: Al 0.4 | model | [1] Li 2010 | Table 4, p. 4, row 10; `ORC-H3J7FWJIYM` |  |
+| 1563.15 | eutectic: L -> ThAl + Th3Al2 | L: Al 0.43; ThAl: Al 0.5; Th3Al2: Al 0.4 | unspecified | [1] Li 2010; _cites Kassner 1989_ [doi](https://doi.org/10.1007/bf02882381) | Table 4, p. 4, row 9; `ORC-7WDPUND3IU` |  |
+| 1516.15 | eutectic: L -> Th2Al + αTh | L: Al 0.2; Th2Al: Al 0.333; αTh: Al 0.0085 | unspecified | [1] Li 2010; _cites Kassner 1989_ [doi](https://doi.org/10.1007/bf02882381) | Table 4, p. 4, row 11; `ORC-PULOU6QDBE` |  |
+| 1509.65 | eutectic: L -> Th2Al + αTh | L: Al 0.183; Th2Al: Al 0.333; αTh: Al 0.024 | model | [1] Li 2010 | Table 4, p. 4, row 12; `ORC-LNN5AN4EWK` |  |
+| 1395.75 | peritectic: L + ThAl2 -> ThAl3 | L: Al 0.856; ThAl2: Al 0.667; ThAl3: Al 0.75 | model | [1] Li 2010 | Table 4, p. 4, row 14; `ORC-AHVSPQBJT7` |  |
+| 1393.15 | peritectic: L + ThAl2 -> ThAl3 | L: Al 0.84; ThAl2: Al 0.667; ThAl3: Al 0.75 | unspecified | [1] Li 2010; _cites Kassner 1989_ [doi](https://doi.org/10.1007/bf02882381) | Table 4, p. 4, row 13; `ORC-V6KMBG4ZOR` |  |
+| 1377.25 | eutectoid: Th2Al3 -> ThAl2 + ThAl | Th2Al3: Al 0.6; ThAl2: Al 0.667; ThAl: Al 0.5 | model | [1] Li 2010 | Table 4, p. 4, row 16; `ORC-HYN4U5RC7K` |  |
+| 1373.15 | eutectoid |  | experimental | [1] Li 2010; _cites Murray 1958_ | p. 2; `ORC-KRXNW7Y4XY.4e5e9c` | “Murray \[17\] reported that the Th3Al2 and Th2Al3 compounds eutectoidally decompose at 1075 °C and 1100 °C, respectively, and the solid solubilities of Al in the aTh and bTh phases are 0.4 at.% at 1000 °C and 0.85 at.% at 1300 °C.” |
+| 1373.15 | eutectoid: Th2Al3 -> ThAl2 + ThAl | Th2Al3: Al 0.6; ThAl2: Al 0.667; ThAl: Al 0.5 | unspecified | [1] Li 2010; _cites Kassner 1989_ [doi](https://doi.org/10.1007/bf02882381) | Table 4, p. 4, row 15; `ORC-RDPLMHYVSH` |  |
+| 1348.15 | eutectoid |  | experimental | [1] Li 2010; _cites Murray 1958_ | p. 2; `ORC-KRXNW7Y4XY.7a8eb7` | “Murray \[17\] reported that the Th3Al2 and Th2Al3 compounds eutectoidally decompose at 1075 °C and 1100 °C, respectively, and the solid solubilities of Al in the aTh and bTh phases are 0.4 at.% at 1000 °C and 0.85 at.% at 1300 °C.” |
+| 1348.15 | eutectoid: Th3Al2 -> ThAl + Th2Al | Th3Al2: Al 0.4; ThAl: Al 0.5; Th2Al: Al 0.333 | unspecified | [1] Li 2010; _cites Kassner 1989_ [doi](https://doi.org/10.1007/bf02882381) | Table 4, p. 4, row 17; `ORC-PVVMGLVF3A` |  |
+| 1344.05 | eutectoid: Th3Al2 -> ThAl + Th2Al | Th3Al2: Al 0.4; ThAl: Al 0.5; Th2Al: Al 0.333 | model | [1] Li 2010 | Table 4, p. 4, row 18; `ORC-KZXSN7H73K` |  |
+| 1152.35 | peritectic: L + ThAl3 -> Th2Al7 | L: Al 0.924; ThAl3: Al 0.75; Th2Al7: Al 0.778 | model | [1] Li 2010 | Table 4, p. 4, row 20; `ORC-FTOKS5MQDZ` |  |
+| 1149.15 | peritectic: L + ThAl3 -> Th2Al7 | L: Al 0.929; ThAl3: Al 0.75; Th2Al7: Al 0.778 | unspecified | [1] Li 2010; _cites Kassner 1989_ [doi](https://doi.org/10.1007/bf02882381) | Table 4, p. 4, row 19; `ORC-DHGHZ6M62B` |  |
+| 903.15 | eutectic: L -> (Al) + Th2Al7 | L: Al 0.971; (Al): Al 1; Th2Al7: Al 0.778 | unspecified | [1] Li 2010; _cites Kassner 1989_ [doi](https://doi.org/10.1007/bf02882381) | Table 4, p. 4, row 21; `ORC-ROTDL2GR5F` |  |
+| 901.55 | eutectic: L -> (Al) + Th2Al7 | L: Al 0.973; (Al): Al 1; Th2Al7: Al 0.778 | model | [1] Li 2010 | Table 4, p. 4, row 22; `ORC-E6OXP7OKOM` |  |
 
 ## Sources
 
@@ -164,4 +164,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

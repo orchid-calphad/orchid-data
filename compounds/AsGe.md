@@ -14,11 +14,11 @@ Table: Enthalpy of formation of AsGe reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -5.5 kJ/mol-atom ± 2.6 | GeAs | 298.15 | experimental | Drop calorimetry | [As–Ge](https://data.orchid-project.org/systems/AS-GE.html) | [1] Chen 2022; _cites Fitzner 1996_ [doi](https://doi.org/10.1016/0925-8388%2895%2902186-8) | Table II, p. 3, row 1 |  |
-| -4.481 kJ/mol-atom | GeAs | 298.15 | model | CALPHAD | [As–Ge](https://data.orchid-project.org/systems/AS-GE.html) | [1] Chen 2022 | Table II, p. 3, row 5 |  |
-| -4.14 kJ/mol-atom | GeAs | 0 | model | First–principles | [As–Ge](https://data.orchid-project.org/systems/AS-GE.html) | [1] Chen 2022; _cites Saal 2013_ | Table II, p. 3, row 2 |  |
-| -2.98 kJ/mol-atom | GeAs | 0 | model | First–principles | [As–Ge](https://data.orchid-project.org/systems/AS-GE.html) | [1] Chen 2022; _cites ref. 36_ | Table II, p. 3, row 3 |  |
-| -4.43 kJ/mol-atom | GeAs | 0 | unspecified | First–principles | [As–Ge](https://data.orchid-project.org/systems/AS-GE.html) | [1] Chen 2022 | Table II, p. 3, row 4 |  |
+| -5.5 kJ/mol-atom ± 2.6 | GeAs | 298.15 | experimental | Drop calorimetry | [As–Ge](https://data.orchid-project.org/systems/AS-GE.html) | [1] Chen 2022; _cites Fitzner 1996_ [doi](https://doi.org/10.1016/0925-8388%2895%2902186-8) | Table II, p. 3, row 1; `ORC-KCRVA6CSIS.5dcf56` |  |
+| -4.481 kJ/mol-atom | GeAs | 298.15 | model | CALPHAD | [As–Ge](https://data.orchid-project.org/systems/AS-GE.html) | [1] Chen 2022 | Table II, p. 3, row 5; `ORC-MF6UWYETOS.be11d3` |  |
+| -4.14 kJ/mol-atom | GeAs | 0 | model | First–principles | [As–Ge](https://data.orchid-project.org/systems/AS-GE.html) | [1] Chen 2022; _cites Saal 2013_ | Table II, p. 3, row 2; `ORC-ABH3TKCJG4.0179ed` |  |
+| -2.98 kJ/mol-atom | GeAs | 0 | model | First–principles | [As–Ge](https://data.orchid-project.org/systems/AS-GE.html) | [1] Chen 2022; _cites ref. 36_ | Table II, p. 3, row 3; `ORC-CL2GG7VZYU.ceadaa` |  |
+| -4.43 kJ/mol-atom | GeAs | 0 | unspecified | First–principles | [As–Ge](https://data.orchid-project.org/systems/AS-GE.html) | [1] Chen 2022 | Table II, p. 3, row 4; `ORC-MTDHJ6IIYD.792ab1` |  |
 
 ### Uncertainty budget
 
@@ -98,4 +98,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

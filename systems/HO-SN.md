@@ -68,26 +68,26 @@ Table: Invariant reactions reported in the literature for the Ho–Sn system (20
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1993 | Liq + Ho5Sn4 -> Ho5Sn3 | Liq: Sn 0.46; Ho5Sn4: Sn 0.444444; Ho5Sn3: Sn 0.375 | experimental | [1] Iddaoudi 2014; _cites Bulanova 1998_ [doi](https://doi.org/10.1361/105497198770342599) | Table 3, p. 3, row 13 |  |
-| 1991 | Liq + Ho5Sn4 -> Ho5Sn3 | Liq: Sn 0.474; Ho5Sn4: Sn 0.444444; Ho5Sn3: Sn 0.375 | model | [1] Iddaoudi 2014 | Table 3, p. 3, row 14 |  |
-| 1868 | Liq + Sn10Ho11 -> Ho5Sn4 | Liq: Sn 0.535; Sn10Ho11: Sn 0.47619; Ho5Sn4: Sn 0.444444 | model | [1] Iddaoudi 2014 | Table 3, p. 3, row 12 |  |
-| 1865 | Liq + Sn10Ho11 -> Ho5Sn4 | Liq: Sn 0.49; Sn10Ho11: Sn 0.47619; Ho5Sn4: Sn 0.444444 | experimental | [1] Iddaoudi 2014; _cites Bulanova 1998_ [doi](https://doi.org/10.1361/105497198770342599) | Table 3, p. 3, row 11 |  |
-| 1525 | Liq -> Ho +Ho5Sn3 | Liq: Sn 0.135; Ho5Sn3: Sn 0.375 | model | [1] Iddaoudi 2014 | Table 3, p. 3, row 18 |  |
-| 1525 | Liq -> Ho +Ho5Sn3 | Liq: Sn 0.13; Ho5Sn3: Sn 0.375 | experimental | [1] Iddaoudi 2014; _cites Bulanova 1998_ [doi](https://doi.org/10.1361/105497198770342599) | Table 3, p. 3, row 17 |  |
-| 1423 | Liq + Ho4Sn5 -> Sn10Ho11 | Liq: Sn 0.666; Ho4Sn5: Sn 0.555556; Sn10Ho11: Sn 0.47619 | model | [1] Iddaoudi 2014 | Table 3, p. 3, row 10 |  |
-| 1417 | Liq + Ho4Sn5 -> Sn10Ho11 | Liq: Sn 0.66; Ho4Sn5: Sn 0.555556; Sn10Ho11: Sn 0.47619 | experimental | [1] Iddaoudi 2014; _cites Bulanova 1998_ [doi](https://doi.org/10.1361/105497198770342599) | Table 3, p. 3, row 9 |  |
-| 1387 | Liq + HoSn2 -> Ho4Sn5 | Liq: Sn 0.7; HoSn2: Sn 0.666667; Ho4Sn5: Sn 0.555556 | experimental | [1] Iddaoudi 2014; _cites Bulanova 1998_ [doi](https://doi.org/10.1361/105497198770342599) | Table 3, p. 3, row 7 |  |
-| 1380 | Liq + HoSn2 -> Ho4Sn5 | Liq: Sn 0.683; HoSn2: Sn 0.666667; Ho4Sn5: Sn 0.555556 | model | [1] Iddaoudi 2014 | Table 3, p. 3, row 8 |  |
-| 793 | peritectic |  | experimental | [1] Iddaoudi 2014; _cites Palenzona 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990859-l) | p. 1 | “For the HoSn2, Ho2Sn5, and HoSn3 compounds, a peritectic formation were reported, respectively, at 1,403, 793, and 693 K.” |
-| 782 | Liq + Ho2Sn5 -> HoSn2 | Liq: Sn 0.992; Ho2Sn5: Sn 0.714286; HoSn2: Sn 0.666667 | model | [1] Iddaoudi 2014 | Table 3, p. 3, row 6 |  |
-| 782 | peritectic |  | model | [1] Iddaoudi 2014; _cites Bulanova 1998_ [doi](https://doi.org/10.1361/105497198770342599) | p. 1 | “For the Ho5Sn3 compound, a congruent melting was estimated at 2,188 K, while for the Ho5Sn4, Ho11Sn10, Ho4Sn5, HoSn2, Ho2Sn5, and HoSn3 compounds, a peritectic formation was reported, respectively, at 1,993, 1,865, 1,417, 1,387, 782, and 693 K (see Fig. 1).” |
-| 782 | Liq + Ho2Sn5 -> HoSn2 | Liq: Sn 0.992; Ho2Sn5: Sn 0.714286; HoSn2: Sn 0.666667 | experimental | [1] Iddaoudi 2014; _cites Bulanova 1998_ [doi](https://doi.org/10.1361/105497198770342599) | Table 3, p. 3, row 5 |  |
-| 693 | Liq + HoSn3 -> Ho2Sn5 | Liq: Sn 0.995; HoSn3: Sn 0.75; Ho2Sn5: Sn 0.714286 | experimental | [1] Iddaoudi 2014; _cites Bulanova 1998_ [doi](https://doi.org/10.1361/105497198770342599) | Table 3, p. 3, row 3 |  |
-| 693 | peritectic |  | experimental | [1] Iddaoudi 2014; _cites Palenzona 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990859-l) | p. 1 | “For the HoSn2, Ho2Sn5, and HoSn3 compounds, a peritectic formation were reported, respectively, at 1,403, 793, and 693 K.” |
-| 693 | peritectic |  | model | [1] Iddaoudi 2014; _cites Bulanova 1998_ [doi](https://doi.org/10.1361/105497198770342599) | p. 1 | “For the Ho5Sn3 compound, a congruent melting was estimated at 2,188 K, while for the Ho5Sn4, Ho11Sn10, Ho4Sn5, HoSn2, Ho2Sn5, and HoSn3 compounds, a peritectic formation was reported, respectively, at 1,993, 1,865, 1,417, 1,387, 782, and 693 K (see Fig. 1).” |
-| 693 | Liq + HoSn3 -> Ho2Sn5 | Liq: Sn 0.998; HoSn3: Sn 0.75; Ho2Sn5: Sn 0.714286 | model | [1] Iddaoudi 2014 | Table 3, p. 3, row 4 |  |
-| 505 | Liq -> βSn + HoSn3 | Liq: Sn 1; βSn: Sn 1; HoSn3: Sn 0.75 | model | [1] Iddaoudi 2014 | Table 3, p. 3, row 2 |  |
-| 502 | Liq -> βSn + HoSn3 | Liq: Sn 0.999; βSn: Sn 1; HoSn3: Sn 0.75 | experimental | [1] Iddaoudi 2014; _cites Bulanova 1998_ [doi](https://doi.org/10.1361/105497198770342599) | Table 3, p. 3, row 1 |  |
+| 1993 | Liq + Ho5Sn4 -> Ho5Sn3 | Liq: Sn 0.46; Ho5Sn4: Sn 0.444444; Ho5Sn3: Sn 0.375 | experimental | [1] Iddaoudi 2014; _cites Bulanova 1998_ [doi](https://doi.org/10.1361/105497198770342599) | Table 3, p. 3, row 13; `ORC-I4I44YRHFN` |  |
+| 1991 | Liq + Ho5Sn4 -> Ho5Sn3 | Liq: Sn 0.474; Ho5Sn4: Sn 0.444444; Ho5Sn3: Sn 0.375 | model | [1] Iddaoudi 2014 | Table 3, p. 3, row 14; `ORC-RPZ2WNKXHL` |  |
+| 1868 | Liq + Sn10Ho11 -> Ho5Sn4 | Liq: Sn 0.535; Sn10Ho11: Sn 0.47619; Ho5Sn4: Sn 0.444444 | model | [1] Iddaoudi 2014 | Table 3, p. 3, row 12; `ORC-TQV5OGBNNQ` |  |
+| 1865 | Liq + Sn10Ho11 -> Ho5Sn4 | Liq: Sn 0.49; Sn10Ho11: Sn 0.47619; Ho5Sn4: Sn 0.444444 | experimental | [1] Iddaoudi 2014; _cites Bulanova 1998_ [doi](https://doi.org/10.1361/105497198770342599) | Table 3, p. 3, row 11; `ORC-YUDYWQZJJ7` |  |
+| 1525 | Liq -> Ho +Ho5Sn3 | Liq: Sn 0.135; Ho5Sn3: Sn 0.375 | model | [1] Iddaoudi 2014 | Table 3, p. 3, row 18; `ORC-2TLY74S423` |  |
+| 1525 | Liq -> Ho +Ho5Sn3 | Liq: Sn 0.13; Ho5Sn3: Sn 0.375 | experimental | [1] Iddaoudi 2014; _cites Bulanova 1998_ [doi](https://doi.org/10.1361/105497198770342599) | Table 3, p. 3, row 17; `ORC-SUE3Y7LRDB` |  |
+| 1423 | Liq + Ho4Sn5 -> Sn10Ho11 | Liq: Sn 0.666; Ho4Sn5: Sn 0.555556; Sn10Ho11: Sn 0.47619 | model | [1] Iddaoudi 2014 | Table 3, p. 3, row 10; `ORC-6MFCDE47QS` |  |
+| 1417 | Liq + Ho4Sn5 -> Sn10Ho11 | Liq: Sn 0.66; Ho4Sn5: Sn 0.555556; Sn10Ho11: Sn 0.47619 | experimental | [1] Iddaoudi 2014; _cites Bulanova 1998_ [doi](https://doi.org/10.1361/105497198770342599) | Table 3, p. 3, row 9; `ORC-FZC5C6WJCE` |  |
+| 1387 | Liq + HoSn2 -> Ho4Sn5 | Liq: Sn 0.7; HoSn2: Sn 0.666667; Ho4Sn5: Sn 0.555556 | experimental | [1] Iddaoudi 2014; _cites Bulanova 1998_ [doi](https://doi.org/10.1361/105497198770342599) | Table 3, p. 3, row 7; `ORC-OEAIA7EUFD` |  |
+| 1380 | Liq + HoSn2 -> Ho4Sn5 | Liq: Sn 0.683; HoSn2: Sn 0.666667; Ho4Sn5: Sn 0.555556 | model | [1] Iddaoudi 2014 | Table 3, p. 3, row 8; `ORC-OD2JTC2XVS` |  |
+| 793 | peritectic |  | experimental | [1] Iddaoudi 2014; _cites Palenzona 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990859-l) | p. 1; `ORC-IJWTJPF62F.dcc46b` | “For the HoSn2, Ho2Sn5, and HoSn3 compounds, a peritectic formation were reported, respectively, at 1,403, 793, and 693 K.” |
+| 782 | Liq + Ho2Sn5 -> HoSn2 | Liq: Sn 0.992; Ho2Sn5: Sn 0.714286; HoSn2: Sn 0.666667 | model | [1] Iddaoudi 2014 | Table 3, p. 3, row 6; `ORC-G5F2B54OCC` |  |
+| 782 | peritectic |  | model | [1] Iddaoudi 2014; _cites Bulanova 1998_ [doi](https://doi.org/10.1361/105497198770342599) | p. 1; `ORC-JX5IDG3XWS.65f997` | “For the Ho5Sn3 compound, a congruent melting was estimated at 2,188 K, while for the Ho5Sn4, Ho11Sn10, Ho4Sn5, HoSn2, Ho2Sn5, and HoSn3 compounds, a peritectic formation was reported, respectively, at 1,993, 1,865, 1,417, 1,387, 782, and 693 K (see Fig. 1).” |
+| 782 | Liq + Ho2Sn5 -> HoSn2 | Liq: Sn 0.992; Ho2Sn5: Sn 0.714286; HoSn2: Sn 0.666667 | experimental | [1] Iddaoudi 2014; _cites Bulanova 1998_ [doi](https://doi.org/10.1361/105497198770342599) | Table 3, p. 3, row 5; `ORC-OS5NL7JDSR` |  |
+| 693 | Liq + HoSn3 -> Ho2Sn5 | Liq: Sn 0.995; HoSn3: Sn 0.75; Ho2Sn5: Sn 0.714286 | experimental | [1] Iddaoudi 2014; _cites Bulanova 1998_ [doi](https://doi.org/10.1361/105497198770342599) | Table 3, p. 3, row 3; `ORC-63AT5MZYUV` |  |
+| 693 | peritectic |  | experimental | [1] Iddaoudi 2014; _cites Palenzona 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990859-l) | p. 1; `ORC-IJWTJPF62F.0399ce` | “For the HoSn2, Ho2Sn5, and HoSn3 compounds, a peritectic formation were reported, respectively, at 1,403, 793, and 693 K.” |
+| 693 | peritectic |  | model | [1] Iddaoudi 2014; _cites Bulanova 1998_ [doi](https://doi.org/10.1361/105497198770342599) | p. 1; `ORC-JX5IDG3XWS.aaa069` | “For the Ho5Sn3 compound, a congruent melting was estimated at 2,188 K, while for the Ho5Sn4, Ho11Sn10, Ho4Sn5, HoSn2, Ho2Sn5, and HoSn3 compounds, a peritectic formation was reported, respectively, at 1,993, 1,865, 1,417, 1,387, 782, and 693 K (see Fig. 1).” |
+| 693 | Liq + HoSn3 -> Ho2Sn5 | Liq: Sn 0.998; HoSn3: Sn 0.75; Ho2Sn5: Sn 0.714286 | model | [1] Iddaoudi 2014 | Table 3, p. 3, row 4; `ORC-LPSLJWYDYC` |  |
+| 505 | Liq -> βSn + HoSn3 | Liq: Sn 1; βSn: Sn 1; HoSn3: Sn 0.75 | model | [1] Iddaoudi 2014 | Table 3, p. 3, row 2; `ORC-OREQBMNMJU` |  |
+| 502 | Liq -> βSn + HoSn3 | Liq: Sn 0.999; βSn: Sn 1; HoSn3: Sn 0.75 | experimental | [1] Iddaoudi 2014; _cites Bulanova 1998_ [doi](https://doi.org/10.1361/105497198770342599) | Table 3, p. 3, row 1; `ORC-DPTF3KLKH3` |  |
 
 ## Other properties
 
@@ -97,9 +97,9 @@ Table: Phase transition, Ho–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 2181 K | 2181 | Liq -> Ho5Sn3; _Liq: Sn 0.375; Ho5Sn3: Sn 0.375_ | model | [1] Iddaoudi 2014 | Table 3, p. 3, row 16 |  |
-| Phase transition | 2188 K | 2188 | Liq -> Ho5Sn3; _Liq: Sn 0.375; Ho5Sn3: Sn 0.375_ | experimental | [1] Iddaoudi 2014; _cites Bulanova 1998_ [doi](https://doi.org/10.1361/105497198770342599) | Table 3, p. 3, row 15 |  |
-| Phase transition | 2188 K | 2188 | congruent transformation | model | [1] Iddaoudi 2014; _cites Bulanova 1998_ [doi](https://doi.org/10.1361/105497198770342599) | p. 1 | “For the Ho5Sn3 compound, a congruent melting was estimated at 2,188 K, while for the Ho5Sn4, Ho11Sn10, Ho4Sn5, HoSn2, Ho2Sn5, and HoSn3 compounds, a peritectic formation was reported, respectively, at 1,993, 1,865, 1,417, 1,387, 782, and 693 K (see Fig. 1).” |
+| Phase transition | 2181 K | 2181 | Liq -> Ho5Sn3; _Liq: Sn 0.375; Ho5Sn3: Sn 0.375_ | model | [1] Iddaoudi 2014 | Table 3, p. 3, row 16; `ORC-JN67PTK6IX` |  |
+| Phase transition | 2188 K | 2188 | Liq -> Ho5Sn3; _Liq: Sn 0.375; Ho5Sn3: Sn 0.375_ | experimental | [1] Iddaoudi 2014; _cites Bulanova 1998_ [doi](https://doi.org/10.1361/105497198770342599) | Table 3, p. 3, row 15; `ORC-YICWUY3JIO` |  |
+| Phase transition | 2188 K | 2188 | congruent transformation | model | [1] Iddaoudi 2014; _cites Bulanova 1998_ [doi](https://doi.org/10.1361/105497198770342599) | p. 1; `ORC-JX5IDG3XWS.287a86` | “For the Ho5Sn3 compound, a congruent melting was estimated at 2,188 K, while for the Ho5Sn4, Ho11Sn10, Ho4Sn5, HoSn2, Ho2Sn5, and HoSn3 compounds, a peritectic formation was reported, respectively, at 1,993, 1,865, 1,417, 1,387, 782, and 693 K (see Fig. 1).” |
 
 ## Sources
 
@@ -164,4 +164,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -34,14 +34,14 @@ Table: Invariant reactions reported in the literature for the N–Si system (8)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2151 | Liquid + gas \<-> Si3N4 | Si3N4: N 0.571429 | experimental | [1] Ma 2003; _cites Chase 1998_ | Table 4, p. 5, row 5 |  |
-| 2150 | Liquid + gas \<-> Si3N4 | Si3N4: N 0.571429 | experimental | [1] Ma 2003; _cites Dorner 1981_ [doi](https://doi.org/10.1007/bf00542737) | Table 4, p. 5, row 6 |  |
-| 2150 | Liquid + gas \<-> Si3N4 | L: N 0.00145; Si3N4: N 0.571429 | model | [1] Ma 2003 | Table 4, p. 5, row 7 |  |
-| 2129 | Liquid + gas \<-> Si3N4 | Si3N4: N 0.571429 | experimental | [1] Ma 2003; _cites Kaiser 1959_ [doi](https://doi.org/10.1063/1.1735180) | Table 4, p. 5, row 4 |  |
-| 1687 | Liquid \<-> diamond_Si + Si3N4 | L: N 2.000e-4; diamond_Si: N 0; Si3N4: N 0.571429 | experimental | [1] Ma 2003; _cites Kaiser 1959_ [doi](https://doi.org/10.1063/1.1735180) | Table 4, p. 5, row 1 |  |
-| 1687 | eutectic: liquid ↔ diamond Si + Si3 N4 |  | experimental | [1] Ma 2003; _cites Yatsurugi 1973_ [doi](https://doi.org/10.1149/1.2403610) | p. 1 | “Yatsurugi et al. \[11\] presented the eutectic reaction, liquid ↔ diamond Si + Si3 N4 , at about 1687 K with 0.012 at.% N in liquid Si and 9 × 10-9 at.% N in solid Si.” |
-| 1687 | Liquid \<-> diamond_Si + Si3N4 | L: N 1.200e-4; diamond_Si: N 0; Si3N4: N 0.571429 | experimental | [1] Ma 2003; _cites Yatsurugi 1973_ [doi](https://doi.org/10.1149/1.2403610) | Table 4, p. 5, row 2 |  |
-| 1686.94 | Liquid \<-> diamond_Si + Si3N4 | L: N 0.0012; diamond_Si: N 0; Si3N4: N 0.571429 | model | [1] Ma 2003 | Table 4, p. 5, row 3 |  |
+| 2151 | Liquid + gas \<-> Si3N4 | Si3N4: N 0.571429 | experimental | [1] Ma 2003; _cites Chase 1998_ | Table 4, p. 5, row 5; `ORC-4GAIUV5LSA` |  |
+| 2150 | Liquid + gas \<-> Si3N4 | Si3N4: N 0.571429 | experimental | [1] Ma 2003; _cites Dorner 1981_ [doi](https://doi.org/10.1007/bf00542737) | Table 4, p. 5, row 6; `ORC-26V5FOWT2X` |  |
+| 2150 | Liquid + gas \<-> Si3N4 | L: N 0.00145; Si3N4: N 0.571429 | model | [1] Ma 2003 | Table 4, p. 5, row 7; `ORC-UQVVWG2P6T` |  |
+| 2129 | Liquid + gas \<-> Si3N4 | Si3N4: N 0.571429 | experimental | [1] Ma 2003; _cites Kaiser 1959_ [doi](https://doi.org/10.1063/1.1735180) | Table 4, p. 5, row 4; `ORC-RK2V67VXLD` |  |
+| 1687 | Liquid \<-> diamond_Si + Si3N4 | L: N 2.000e-4; diamond_Si: N 0; Si3N4: N 0.571429 | experimental | [1] Ma 2003; _cites Kaiser 1959_ [doi](https://doi.org/10.1063/1.1735180) | Table 4, p. 5, row 1; `ORC-3H4KZFP6TI` |  |
+| 1687 | eutectic: liquid ↔ diamond Si + Si3 N4 |  | experimental | [1] Ma 2003; _cites Yatsurugi 1973_ [doi](https://doi.org/10.1149/1.2403610) | p. 1; `ORC-AA3GZHP7H4` | “Yatsurugi et al. \[11\] presented the eutectic reaction, liquid ↔ diamond Si + Si3 N4 , at about 1687 K with 0.012 at.% N in liquid Si and 9 × 10-9 at.% N in solid Si.” |
+| 1687 | Liquid \<-> diamond_Si + Si3N4 | L: N 1.200e-4; diamond_Si: N 0; Si3N4: N 0.571429 | experimental | [1] Ma 2003; _cites Yatsurugi 1973_ [doi](https://doi.org/10.1149/1.2403610) | Table 4, p. 5, row 2; `ORC-MWNU5ADCIS` |  |
+| 1686.94 | Liquid \<-> diamond_Si + Si3N4 | L: N 0.0012; diamond_Si: N 0; Si3N4: N 0.571429 | model | [1] Ma 2003 | Table 4, p. 5, row 3; `ORC-X7BIQO7EAB` |  |
 
 ## Formation enthalpies
 
@@ -51,10 +51,10 @@ Table: Enthalpies of formation, N–Si system (4)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| α |  | -744.752 unknown ± 29.3 | 298.15 | unspecified |  |  | [1] Ma 2003; _cites Chase 1998_ | Table 2, p. 2, row 5 |  |
-| α |  | -735.68 unknown ± 25.08 | 298.15 | experimental |  |  | [1] Ma 2003; _cites Pehlke 1959_ | Table 2, p. 2, row 4 |  |
-| α-Si3N4 | [Si3N4](https://data.orchid-project.org/compounds/Si3N4.html) | -106.393 kJ/mol-atom ± 4.18571 | 298.15 | unspecified | -125.391 (mp-aaaaabma) | -117.182 (oqmd-3591) | [1] Ma 2003; _cites Chase 1998_ | Table 2, p. 2, row 5 |  |
-| α-Si3N4 | [Si3N4](https://data.orchid-project.org/compounds/Si3N4.html) | -105.097 kJ/mol-atom ± 3.58286 | 298.15 | experimental | -125.391 (mp-aaaaabma) | -117.182 (oqmd-3591) | [1] Ma 2003; _cites Pehlke 1959_ | Table 2, p. 2, row 4 |  |
+| α |  | -744.752 unknown ± 29.3 | 298.15 | unspecified |  |  | [1] Ma 2003; _cites Chase 1998_ | Table 2, p. 2, row 5; `ORC-JX64R4RFLZ.7cb919` |  |
+| α |  | -735.68 unknown ± 25.08 | 298.15 | experimental |  |  | [1] Ma 2003; _cites Pehlke 1959_ | Table 2, p. 2, row 4; `ORC-7EFEZK2TDU.f067de` |  |
+| α-Si3N4 | [Si3N4](https://data.orchid-project.org/compounds/Si3N4.html) | -106.393 kJ/mol-atom ± 4.18571 | 298.15 | unspecified | -125.391 (mp-aaaaabma) | -117.182 (oqmd-3591) | [1] Ma 2003; _cites Chase 1998_ | Table 2, p. 2, row 5; `ORC-JX64R4RFLZ.afb0e6` |  |
+| α-Si3N4 | [Si3N4](https://data.orchid-project.org/compounds/Si3N4.html) | -105.097 kJ/mol-atom ± 3.58286 | 298.15 | experimental | -125.391 (mp-aaaaabma) | -117.182 (oqmd-3591) | [1] Ma 2003; _cites Pehlke 1959_ | Table 2, p. 2, row 4; `ORC-7EFEZK2TDU.32710c` |  |
 
 ## Other properties
 
@@ -64,9 +64,9 @@ Table: Phase transition, N–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1687 K | 1687 | liquid | experimental | [1] Ma 2003; _cites Kaiser 1959_ [doi](https://doi.org/10.1063/1.1735180) | p. 1 | “Using zone-melting experiments, Kaiser and Thurmond \[10\] and Yatsurugi et al. \[11\] measured the distribution of N between solid and liquid semiconductor-grade Si near its melting point (1687 K).” |
-| Phase transition | 2150 K | 2150 | other | model | [1] Ma 2003 | p. 4 | “The calculated results show the incongruent decomposition of Si3 N4 phase is 2150 or 2151 K at 101 325 Pa when the gas is treated as real gas or ideal gas, respectively.” |
-| Phase transition | 2151 K | 2151 | other | model | [1] Ma 2003 | p. 4 | “The calculated results show the incongruent decomposition of Si3 N4 phase is 2150 or 2151 K at 101 325 Pa when the gas is treated as real gas or ideal gas, respectively.” |
+| Phase transition | 1687 K | 1687 | liquid | experimental | [1] Ma 2003; _cites Kaiser 1959_ [doi](https://doi.org/10.1063/1.1735180) | p. 1; `ORC-V54MI6EVWW` | “Using zone-melting experiments, Kaiser and Thurmond \[10\] and Yatsurugi et al. \[11\] measured the distribution of N between solid and liquid semiconductor-grade Si near its melting point (1687 K).” |
+| Phase transition | 2150 K | 2150 | other | model | [1] Ma 2003 | p. 4; `ORC-G6ELBHT37Q.51ec98` | “The calculated results show the incongruent decomposition of Si3 N4 phase is 2150 or 2151 K at 101 325 Pa when the gas is treated as real gas or ideal gas, respectively.” |
+| Phase transition | 2151 K | 2151 | other | model | [1] Ma 2003 | p. 4; `ORC-G6ELBHT37Q.771fea` | “The calculated results show the incongruent decomposition of Si3 N4 phase is 2150 or 2151 K at 101 325 Pa when the gas is treated as real gas or ideal gas, respectively.” |
 
 ### Heat capacity / entropy / enthalpy (6)
 
@@ -74,12 +74,12 @@ Table: Heat capacity / entropy / enthalpy, N–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: S298 K_ | 9.17143 J/mol-atom/K | 298.15 | Si3N4; _alloy: Si 0.428571_ | model | [1] Ma 2003; _cites Koshchenko 1985_ | Table 2, p. 2, row 3 |  |
-| Entropy; _printed: S298 K_ | 64.2 J/mol (basis unstated)/K | 298.15 | UNKNOWN | model | [1] Ma 2003; _cites Koshchenko 1985_ | Table 2, p. 2, row 3 |  |
-| Entropy; _printed: S298 K_ | 112.967 unknown ± 16.7 | 298.15 | α | unspecified | [1] Ma 2003; _cites Chase 1998_ | Table 2, p. 2, row 2 |  |
-| Entropy; _printed: S298 K_ | 107.008 J/mol (basis unstated)/K | 298.15 | α | experimental | [1] Ma 2003; _cites Pehlke 1959_ | Table 2, p. 2, row 1 |  |
-| Entropy; _printed: S298 K_ | 16.1381 J/mol-atom/K ± 2.38571 | 298.15 | α-Si3N4; _alloy: Si 0.428571_ | unspecified | [1] Ma 2003; _cites Chase 1998_ | Table 2, p. 2, row 2 |  |
-| Entropy; _printed: S298 K_ | 15.2869 J/mol-atom/K | 298.15 | α-Si3N4; _alloy: Si 0.428571_ | experimental | [1] Ma 2003; _cites Pehlke 1959_ | Table 2, p. 2, row 1 |  |
+| Entropy; _printed: S298 K_ | 9.17143 J/mol-atom/K | 298.15 | Si3N4; _alloy: Si 0.428571_ | model | [1] Ma 2003; _cites Koshchenko 1985_ | Table 2, p. 2, row 3; `ORC-YVLSQCAPVO.17f18f` |  |
+| Entropy; _printed: S298 K_ | 64.2 J/mol (basis unstated)/K | 298.15 | UNKNOWN | model | [1] Ma 2003; _cites Koshchenko 1985_ | Table 2, p. 2, row 3; `ORC-YVLSQCAPVO.61ec32` |  |
+| Entropy; _printed: S298 K_ | 112.967 unknown ± 16.7 | 298.15 | α | unspecified | [1] Ma 2003; _cites Chase 1998_ | Table 2, p. 2, row 2; `ORC-5EQMMJRUQZ.31bd50` |  |
+| Entropy; _printed: S298 K_ | 107.008 J/mol (basis unstated)/K | 298.15 | α | experimental | [1] Ma 2003; _cites Pehlke 1959_ | Table 2, p. 2, row 1; `ORC-7Y3UKOYUWX.5e224c` |  |
+| Entropy; _printed: S298 K_ | 16.1381 J/mol-atom/K ± 2.38571 | 298.15 | α-Si3N4; _alloy: Si 0.428571_ | unspecified | [1] Ma 2003; _cites Chase 1998_ | Table 2, p. 2, row 2; `ORC-5EQMMJRUQZ.39fae7` |  |
+| Entropy; _printed: S298 K_ | 15.2869 J/mol-atom/K | 298.15 | α-Si3N4; _alloy: Si 0.428571_ | experimental | [1] Ma 2003; _cites Pehlke 1959_ | Table 2, p. 2, row 1; `ORC-7Y3UKOYUWX.ff192f` |  |
 
 ### Crystal structure (16)
 
@@ -87,22 +87,22 @@ Table: Crystal structure, N–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 7.595 Å |  | UNKNOWN; _alloy: Si 0.428571_ | experimental | [1] Ma 2003; _cites Grun 1979_ [doi](https://doi.org/10.1107/s0567740879004933) | Table 1, p. 2, row 8 |  |
-| Lattice a | 7.606 Å ± 0.003 |  | UNKNOWN; _alloy: Si 0.428571_ | experimental | [1] Ma 2003; _cites Ruddlesden 1958_ [doi](https://doi.org/10.1107/s0365110x58001304) | Table 1, p. 2, row 7 |  |
-| Lattice a | 7.608 Å |  | UNKNOWN; _alloy: Si 0.428571_ | experimental | [1] Ma 2003; _cites Arrowsmith 1963_ | Table 1, p. 2, row 6 |  |
-| Lattice a | 7.748 Å | 298.15 | UNKNOWN; _alloy: Si 0.428571_ | experimental | [1] Ma 2003; _cites Arrowsmith 1963_ | Table 1, p. 2, row 1 |  |
-| Lattice a | 7.766 Å | 298.15 | UNKNOWN; _alloy: Si 0.428571_ | experimental | [1] Ma 2003; _cites Kohatsu 1974_ [doi](https://doi.org/10.1016/0025-5408%2874%2990170-6) | Table 1, p. 2, row 4 |  |
-| Lattice a | 7.753 Å ± 0.004 | 298.15 | UNKNOWN; _alloy: Si 0.428571_ | experimental | [1] Ma 2003; _cites Ruddlesden 1958_ [doi](https://doi.org/10.1107/s0365110x58001304) | Table 1, p. 2, row 2 |  |
-| Lattice a | 7.818 Å ± 0.003 | 298.15 | UNKNOWN; _alloy: Si 0.428571_ | experimental | [1] Ma 2003; _cites Kato 1975_ | Table 1, p. 2, row 5 |  |
-| Lattice a | 7.765 Å | 298.15 | UNKNOWN; _alloy: Si 0.428571_ | experimental | [1] Ma 2003; _cites Marchand 1969_ [doi](https://doi.org/10.1107/s0567740869005292) | Table 1, p. 2, row 3 |  |
-| Lattice c | 2.9023 Å |  | UNKNOWN; _alloy: Si 0.428571_ | experimental | [1] Ma 2003; _cites Grun 1979_ [doi](https://doi.org/10.1107/s0567740879004933) | Table 1, p. 2, row 8 |  |
-| Lattice c | 2.909 Å ± 0.002 |  | UNKNOWN; _alloy: Si 0.428571_ | experimental | [1] Ma 2003; _cites Ruddlesden 1958_ [doi](https://doi.org/10.1107/s0365110x58001304) | Table 1, p. 2, row 7 |  |
-| Lattice c | 2.9107 Å |  | UNKNOWN; _alloy: Si 0.428571_ | experimental | [1] Ma 2003; _cites Arrowsmith 1963_ | Table 1, p. 2, row 6 |  |
-| Lattice c | 5.617 Å | 298.15 | UNKNOWN; _alloy: Si 0.428571_ | experimental | [1] Ma 2003; _cites Arrowsmith 1963_ | Table 1, p. 2, row 1 |  |
-| Lattice c | 5.615 Å | 298.15 | UNKNOWN; _alloy: Si 0.428571_ | experimental | [1] Ma 2003; _cites Kohatsu 1974_ [doi](https://doi.org/10.1016/0025-5408%2874%2990170-6) | Table 1, p. 2, row 4 |  |
-| Lattice c | 5.618 Å ± 0.004 | 298.15 | UNKNOWN; _alloy: Si 0.428571_ | experimental | [1] Ma 2003; _cites Ruddlesden 1958_ [doi](https://doi.org/10.1107/s0365110x58001304) | Table 1, p. 2, row 2 |  |
-| Lattice c | 5.591 Å ± 0.004 | 298.15 | UNKNOWN; _alloy: Si 0.428571_ | experimental | [1] Ma 2003; _cites Kato 1975_ | Table 1, p. 2, row 5 |  |
-| Lattice c | 5.622 Å | 298.15 | UNKNOWN; _alloy: Si 0.428571_ | experimental | [1] Ma 2003; _cites Marchand 1969_ [doi](https://doi.org/10.1107/s0567740869005292) | Table 1, p. 2, row 3 |  |
+| Lattice a | 7.595 Å |  | UNKNOWN; _alloy: Si 0.428571_ | experimental | [1] Ma 2003; _cites Grun 1979_ [doi](https://doi.org/10.1107/s0567740879004933) | Table 1, p. 2, row 8; `ORC-5OGNIP7D3E.613393` |  |
+| Lattice a | 7.606 Å ± 0.003 |  | UNKNOWN; _alloy: Si 0.428571_ | experimental | [1] Ma 2003; _cites Ruddlesden 1958_ [doi](https://doi.org/10.1107/s0365110x58001304) | Table 1, p. 2, row 7; `ORC-LDDPN2N66Z.eed9ea` |  |
+| Lattice a | 7.608 Å |  | UNKNOWN; _alloy: Si 0.428571_ | experimental | [1] Ma 2003; _cites Arrowsmith 1963_ | Table 1, p. 2, row 6; `ORC-OSSJA4KMCA.74cc7a` |  |
+| Lattice a | 7.748 Å | 298.15 | UNKNOWN; _alloy: Si 0.428571_ | experimental | [1] Ma 2003; _cites Arrowsmith 1963_ | Table 1, p. 2, row 1; `ORC-7RYBEMLQJA.8704ff` |  |
+| Lattice a | 7.766 Å | 298.15 | UNKNOWN; _alloy: Si 0.428571_ | experimental | [1] Ma 2003; _cites Kohatsu 1974_ [doi](https://doi.org/10.1016/0025-5408%2874%2990170-6) | Table 1, p. 2, row 4; `ORC-BBO3WESS6D.743c46` |  |
+| Lattice a | 7.753 Å ± 0.004 | 298.15 | UNKNOWN; _alloy: Si 0.428571_ | experimental | [1] Ma 2003; _cites Ruddlesden 1958_ [doi](https://doi.org/10.1107/s0365110x58001304) | Table 1, p. 2, row 2; `ORC-VN6ETUYGQ4.a01c0e` |  |
+| Lattice a | 7.818 Å ± 0.003 | 298.15 | UNKNOWN; _alloy: Si 0.428571_ | experimental | [1] Ma 2003; _cites Kato 1975_ | Table 1, p. 2, row 5; `ORC-YCL7YH4PF2.d2f55c` |  |
+| Lattice a | 7.765 Å | 298.15 | UNKNOWN; _alloy: Si 0.428571_ | experimental | [1] Ma 2003; _cites Marchand 1969_ [doi](https://doi.org/10.1107/s0567740869005292) | Table 1, p. 2, row 3; `ORC-Z6OT6ZIKG4.8f6a22` |  |
+| Lattice c | 2.9023 Å |  | UNKNOWN; _alloy: Si 0.428571_ | experimental | [1] Ma 2003; _cites Grun 1979_ [doi](https://doi.org/10.1107/s0567740879004933) | Table 1, p. 2, row 8; `ORC-5OGNIP7D3E.95b62d` |  |
+| Lattice c | 2.909 Å ± 0.002 |  | UNKNOWN; _alloy: Si 0.428571_ | experimental | [1] Ma 2003; _cites Ruddlesden 1958_ [doi](https://doi.org/10.1107/s0365110x58001304) | Table 1, p. 2, row 7; `ORC-LDDPN2N66Z.90be32` |  |
+| Lattice c | 2.9107 Å |  | UNKNOWN; _alloy: Si 0.428571_ | experimental | [1] Ma 2003; _cites Arrowsmith 1963_ | Table 1, p. 2, row 6; `ORC-OSSJA4KMCA.e48eda` |  |
+| Lattice c | 5.617 Å | 298.15 | UNKNOWN; _alloy: Si 0.428571_ | experimental | [1] Ma 2003; _cites Arrowsmith 1963_ | Table 1, p. 2, row 1; `ORC-7RYBEMLQJA.de056c` |  |
+| Lattice c | 5.615 Å | 298.15 | UNKNOWN; _alloy: Si 0.428571_ | experimental | [1] Ma 2003; _cites Kohatsu 1974_ [doi](https://doi.org/10.1016/0025-5408%2874%2990170-6) | Table 1, p. 2, row 4; `ORC-BBO3WESS6D.780149` |  |
+| Lattice c | 5.618 Å ± 0.004 | 298.15 | UNKNOWN; _alloy: Si 0.428571_ | experimental | [1] Ma 2003; _cites Ruddlesden 1958_ [doi](https://doi.org/10.1107/s0365110x58001304) | Table 1, p. 2, row 2; `ORC-VN6ETUYGQ4.82133b` |  |
+| Lattice c | 5.591 Å ± 0.004 | 298.15 | UNKNOWN; _alloy: Si 0.428571_ | experimental | [1] Ma 2003; _cites Kato 1975_ | Table 1, p. 2, row 5; `ORC-YCL7YH4PF2.d2e796` |  |
+| Lattice c | 5.622 Å | 298.15 | UNKNOWN; _alloy: Si 0.428571_ | experimental | [1] Ma 2003; _cites Marchand 1969_ [doi](https://doi.org/10.1107/s0567740869005292) | Table 1, p. 2, row 3; `ORC-Z6OT6ZIKG4.770119` |  |
 
 ## Sources
 
@@ -156,4 +156,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

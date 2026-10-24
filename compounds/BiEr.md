@@ -14,28 +14,28 @@ Table: Enthalpy of formation of BiEr reported in the literature (22)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -109 kJ/mol-atom | BiEr | 298.15 | experimental |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Wang 2013; _cites Petrashkevich 1976_ | Table 4, p. 4, row 6 |  |
-| -109 kJ/mol-atom | ErBi | 298.15 | experimental |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [2] Wang 2017; _cites Petrashkevich 1976_ | Table 9, p. 7, row 2 |  |
-| -109 kJ/mol-atom | α-ErBi | 298.15 | experimental | EMF | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [3] Bennoui 2022; _cites Petrashkevich 1976_ | Table 2, p. 5, row 12 |  |
-| -103 kJ/mol-atom | ErBi | 298.15 | experimental |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [2] Wang 2017; _cites Yamshchikov 1979_ | Table 9, p. 7, row 4 |  |
-| -103 kJ/mol-atom | BiEr | 298.15 | experimental |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Wang 2013; _cites Yamshchikov 1979_ | Table 4, p. 4, row 7 |  |
-| -103 kJ/mol-atom | α-ErBi | 298.15 | experimental | EMF | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [3] Bennoui 2022; _cites Yamshchikov 1979_ | Table 2, p. 5, row 11 |  |
-| -101.3 kJ/mol-atom | α-ErBi | 298.15 | experimental | EMF | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [3] Bennoui 2022; _cites Sidorko 2011_ [doi](https://doi.org/10.1007/s11106-011-9339-4) | Table 2, p. 5, row 14 |  |
-| -90 kJ/mol-atom | α-ErBi | 298.15 | experimental | Calorimetry | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [3] Bennoui 2022; _cites Borzone 1993_ [doi](https://doi.org/10.1007/bf02671968) | Table 2, p. 5, row 13 |  |
-| -90 kJ/mol-atom | BiEr | 298.15 | experimental |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Wang 2013; _cites Borzone 1993_ [doi](https://doi.org/10.1007/bf02671968) | Table 4, p. 4, row 5 |  |
-| -90 kJ/mol-atom | ErBi | 298.15 | experimental |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [2] Wang 2017; _cites Borzone 1993_ [doi](https://doi.org/10.1007/bf02671968) | Table 9, p. 7, row 3 |  |
-| -83.62 kJ/mol-atom | α-ErBi |  | model | CALPHAD | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [3] Bennoui 2022; _cites Wang 2013_ [doi](https://doi.org/10.1007/s11669-013-0231-4) | Table 2, p. 5, row 9 |  |
-| -80.35 kJ/mol-atom | α-ErBi |  | model | CALPHAD | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [3] Bennoui 2022; _cites Wang 2017_ [doi](https://doi.org/10.1016/j.jnucmat.2017.08.016) | Table 2, p. 5, row 10 |  |
-| -80.35 kJ/mol-atom | ErBi |  | model |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [2] Wang 2017 | Table 9, p. 7, row 5 |  |
-| -79.131 kJ/mol-atom | α-ErBi |  | model | CALPHAD | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [3] Bennoui 2022 | Table 2, p. 5, row 5 |  |
-| -75 kJ/mol-atom | BiEr | 0 | model | Miedima model | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 4, p. 4, row 9 |  |
-| -75 kJ/mol-atom | ErBi |  | model |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [2] Wang 2017; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 9, p. 7, row 1 |  |
-| -75 kJ/mol-atom | α-ErBi |  | model | Miedema model | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [3] Bennoui 2022; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 2, p. 5, row 15 |  |
-| -82.069 kJ/mol-atom | α-ErBi | 0 | DFT | DFT | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [3] Bennoui 2022; _cites Wang 2013_ [doi](https://doi.org/10.1007/s11669-013-0231-4) | Table 2, p. 5, row 8 |  |
-| -82.069 kJ/mol-atom | BiEr | 0 | DFT | first-principles | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Wang 2013 | Table 4, p. 4, row 8 |  |
-| -80.274 kJ/mol-atom | α-ErBi |  | DFT | DFT | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [3] Bennoui 2022; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table 2, p. 5, row 6 |  |
-| -80.005 kJ/mol-atom | α-ErBi | 0 | DFT | DFT | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [3] Bennoui 2022 | Table 2, p. 5, row 4 |  |
-| -77.576 kJ/mol-atom | α-ErBi |  | DFT | DFT | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [3] Bennoui 2022; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table 2, p. 5, row 7 |  |
+| -109 kJ/mol-atom | BiEr | 298.15 | experimental |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Wang 2013; _cites Petrashkevich 1976_ | Table 4, p. 4, row 6; `ORC-5PXJYOITEU` |  |
+| -109 kJ/mol-atom | ErBi | 298.15 | experimental |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [2] Wang 2017; _cites Petrashkevich 1976_ | Table 9, p. 7, row 2; `ORC-5QDJXROM6K` |  |
+| -109 kJ/mol-atom | α-ErBi | 298.15 | experimental | EMF | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [3] Bennoui 2022; _cites Petrashkevich 1976_ | Table 2, p. 5, row 12; `ORC-R3XMVG3435` |  |
+| -103 kJ/mol-atom | ErBi | 298.15 | experimental |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [2] Wang 2017; _cites Yamshchikov 1979_ | Table 9, p. 7, row 4; `ORC-JMEDK7TWUJ` |  |
+| -103 kJ/mol-atom | BiEr | 298.15 | experimental |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Wang 2013; _cites Yamshchikov 1979_ | Table 4, p. 4, row 7; `ORC-N65XYEEHES` |  |
+| -103 kJ/mol-atom | α-ErBi | 298.15 | experimental | EMF | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [3] Bennoui 2022; _cites Yamshchikov 1979_ | Table 2, p. 5, row 11; `ORC-TNA42H5AGZ` |  |
+| -101.3 kJ/mol-atom | α-ErBi | 298.15 | experimental | EMF | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [3] Bennoui 2022; _cites Sidorko 2011_ [doi](https://doi.org/10.1007/s11106-011-9339-4) | Table 2, p. 5, row 14; `ORC-3SDDAYGON5` |  |
+| -90 kJ/mol-atom | α-ErBi | 298.15 | experimental | Calorimetry | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [3] Bennoui 2022; _cites Borzone 1993_ [doi](https://doi.org/10.1007/bf02671968) | Table 2, p. 5, row 13; `ORC-IGNPH6MP2Y` |  |
+| -90 kJ/mol-atom | BiEr | 298.15 | experimental |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Wang 2013; _cites Borzone 1993_ [doi](https://doi.org/10.1007/bf02671968) | Table 4, p. 4, row 5; `ORC-OR35V2GB75` |  |
+| -90 kJ/mol-atom | ErBi | 298.15 | experimental |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [2] Wang 2017; _cites Borzone 1993_ [doi](https://doi.org/10.1007/bf02671968) | Table 9, p. 7, row 3; `ORC-WKRHFIUBRH` |  |
+| -83.62 kJ/mol-atom | α-ErBi |  | model | CALPHAD | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [3] Bennoui 2022; _cites Wang 2013_ [doi](https://doi.org/10.1007/s11669-013-0231-4) | Table 2, p. 5, row 9; `ORC-2TNNH45GCL` |  |
+| -80.35 kJ/mol-atom | α-ErBi |  | model | CALPHAD | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [3] Bennoui 2022; _cites Wang 2017_ [doi](https://doi.org/10.1016/j.jnucmat.2017.08.016) | Table 2, p. 5, row 10; `ORC-DANVKKXKVT` |  |
+| -80.35 kJ/mol-atom | ErBi |  | model |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [2] Wang 2017 | Table 9, p. 7, row 5; `ORC-YRUKERP3MD` |  |
+| -79.131 kJ/mol-atom | α-ErBi |  | model | CALPHAD | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [3] Bennoui 2022 | Table 2, p. 5, row 5; `ORC-F6ESKCLDLJ` |  |
+| -75 kJ/mol-atom | BiEr | 0 | model | Miedima model | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 4, p. 4, row 9; `ORC-33LM5FGD4E` |  |
+| -75 kJ/mol-atom | ErBi |  | model |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [2] Wang 2017; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 9, p. 7, row 1; `ORC-5ZVDHF66MC` |  |
+| -75 kJ/mol-atom | α-ErBi |  | model | Miedema model | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [3] Bennoui 2022; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 2, p. 5, row 15; `ORC-A4NVSZTRLB` |  |
+| -82.069 kJ/mol-atom | α-ErBi | 0 | DFT | DFT | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [3] Bennoui 2022; _cites Wang 2013_ [doi](https://doi.org/10.1007/s11669-013-0231-4) | Table 2, p. 5, row 8; `ORC-6Y27WU6GQL` |  |
+| -82.069 kJ/mol-atom | BiEr | 0 | DFT | first-principles | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Wang 2013 | Table 4, p. 4, row 8; `ORC-CWNSNQEM3C` |  |
+| -80.274 kJ/mol-atom | α-ErBi |  | DFT | DFT | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [3] Bennoui 2022; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table 2, p. 5, row 6; `ORC-VLAU4J4473` |  |
+| -80.005 kJ/mol-atom | α-ErBi | 0 | DFT | DFT | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [3] Bennoui 2022 | Table 2, p. 5, row 4; `ORC-KM5XSP6HBL` |  |
+| -77.576 kJ/mol-atom | α-ErBi |  | DFT | DFT | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [3] Bennoui 2022; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table 2, p. 5, row 7; `ORC-SZ4KGQXW6V` |  |
 
 ### Uncertainty budget
 
@@ -134,4 +134,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

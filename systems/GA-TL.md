@@ -52,9 +52,9 @@ Table: Phase transition, Ga–Tl system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 810 K | 810 | other: Ga30Tl70; _alloy: Ga 0.3, Tl 0.7_ | unspecified | [1] Kim 2017 | Table I, p. 2, row 4 |  |
-| Phase transition | 843 K | 843 | other: Ga50Tl50; _alloy: Ga 0.5, Tl 0.5_ | unspecified | [1] Kim 2017 | Table I, p. 2, row 3 |  |
-| Phase transition | 849 K | 849 | other: Ga70Tl30; _alloy: Ga 0.7, Tl 0.3_ | unspecified | [1] Kim 2017 | Table I, p. 2, row 2 |  |
+| Phase transition | 810 K | 810 | other: Ga30Tl70; _alloy: Ga 0.3, Tl 0.7_ | unspecified | [1] Kim 2017 | Table I, p. 2, row 4; `ORC-F7K5VLMSQU` |  |
+| Phase transition | 843 K | 843 | other: Ga50Tl50; _alloy: Ga 0.5, Tl 0.5_ | unspecified | [1] Kim 2017 | Table I, p. 2, row 3; `ORC-W6KBN5Y5IX` |  |
+| Phase transition | 849 K | 849 | other: Ga70Tl30; _alloy: Ga 0.7, Tl 0.3_ | unspecified | [1] Kim 2017 | Table I, p. 2, row 2; `ORC-D7QYGATGCY` |  |
 
 ## Sources
 
@@ -119,4 +119,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

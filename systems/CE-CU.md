@@ -79,36 +79,36 @@ Table: Invariant reactions reported in the literature for the Ce–Cu system (30
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1211 | congruent melting: liq -> Cu6Ce | L: Ce 0.143; Cu6Ce: Ce 0.142857, Cu 0.857143 | model | [1] Zhuang 1996 | Table 3, p. 5, row 2 |  |
-| 1165 | eutectic: liq -> Cu(fcc) + Cu6Ce | L: Ce 0.088; Cu6Ce: Ce 0.142857, Cu 0.857143 | model | [1] Zhuang 1996 | Table 3, p. 5, row 1 |  |
-| 1165 | eutectic: Liquid ↔ Fcc_Cu + Cu6Ce | L: Cu 0.912; Cu6Ce: Cu 0.857143 | model | [2] Bo 2009; _cites Zhuang 1996_ [doi](https://doi.org/10.1007/bf02665998) | Table 2, p. 4, row 2 |  |
-| 1150 | eutectic: Liquid ↔ Fcc_Cu + Cu6Ce | L: Cu 0.913; Cu6Ce: Cu 0.857143 | model | [2] Bo 2009 | Table 2, p. 4, row 3 |  |
-| 1149 | eutectic: Liquid ↔ Fcc_Cu + Cu6Ce | L: Cu 0.91; Cu6Ce: Cu 0.857143 | experimental | [2] Bo 2009; _cites Rhinehammer 1964_ | Table 2, p. 4, row 1 |  |
-| 1090 | congruent melting: liq -> Cu2Ce | L: Ce 0.333; Cu2Ce: Ce 0.333333, Cu 0.666667 | model | [1] Zhuang 1996 | Table 3, p. 5, row 6 |  |
-| 1072 | peritectic: Liquid + Cu6Ce ↔ Cu5Ce | L: Cu 0.743; Cu6Ce: Cu 0.857143; Cu5Ce: Cu 0.833333 | model | [2] Bo 2009; _cites Zhuang 1996_ [doi](https://doi.org/10.1007/bf02665998) | Table 2, p. 4, row 8 |  |
-| 1072 | peritectic: liq + Cu6Ce -> Cu5Ce | L: Ce 0.257; Cu6Ce: Ce 0.142857, Cu 0.857143; Cu5Ce: Ce 0.166667, Cu 0.833333 | model | [1] Zhuang 1996 | Table 3, p. 5, row 3 |  |
-| 1071 | peritectic: Liquid + Cu6Ce ↔ Cu5Ce | L: Cu 0.766; Cu6Ce: Cu 0.857143; Cu5Ce: Cu 0.833333 | experimental | [2] Bo 2009; _cites Rhinehammer 1964_ | Table 2, p. 4, row 7 |  |
-| 1071 | peritectic: Liquid + Cu6Ce ↔ Cu5Ce | L: Cu 0.756; Cu6Ce: Cu 0.857143; Cu5Ce: Cu 0.833333 | model | [2] Bo 2009 | Table 2, p. 4, row 9 |  |
-| 1069 | peritectic: Liquid + Cu5Ce ↔ Cu4Ce | L: Cu 0.765; Cu5Ce: Cu 0.833333; Cu4Ce: Cu 0.8 | experimental | [2] Bo 2009; _cites Rhinehammer 1964_ | Table 2, p. 4, row 10 |  |
-| 1069 | peritectic: Liquid + Cu5Ce ↔ Cu4Ce | L: Cu 0.754; Cu5Ce: Cu 0.833333; Cu4Ce: Cu 0.8 | model | [2] Bo 2009 | Table 2, p. 4, row 12 |  |
-| 1063 | peritectic: Liquid + Cu5Ce ↔ Cu4Ce | L: Cu 0.737; Cu5Ce: Cu 0.833333; Cu4Ce: Cu 0.8 | model | [2] Bo 2009; _cites Zhuang 1996_ [doi](https://doi.org/10.1007/bf02665998) | Table 2, p. 4, row 11 |  |
-| 1063 | peritectic: liq + Cu5Ce -> Cu4Ce | L: Ce 0.263; Cu5Ce: Ce 0.166667, Cu 0.833333; Cu4Ce: Ce 0.2, Cu 0.8 | model | [1] Zhuang 1996 | Table 3, p. 5, row 4 |  |
-| 1057 | eutectic: Liquid ↔ Cu4Ce + Cu2Ce | L: Cu 0.732; Cu4Ce: Cu 0.8; Cu2Ce: Cu 0.666667 | model | [2] Bo 2009; _cites Zhuang 1996_ [doi](https://doi.org/10.1007/bf02665998) | Table 2, p. 4, row 14 |  |
-| 1057 | eutectic: liq -> Cu4Ce + Cu2Ce | L: Ce 0.268; Cu4Ce: Ce 0.2, Cu 0.8; Cu2Ce: Ce 0.333333, Cu 0.666667 | model | [1] Zhuang 1996 | Table 3, p. 5, row 5 |  |
-| 1043 | eutectic: Liquid ↔ Cu4Ce + Cu2Ce | L: Cu 0.731; Cu4Ce: Cu 0.8; Cu2Ce: Cu 0.666667 | model | [2] Bo 2009 | Table 2, p. 4, row 15 |  |
-| 1029 | eutectic: Liquid ↔ Cu4Ce + Cu2Ce | L: Cu 0.74; Cu4Ce: Cu 0.8; Cu2Ce: Cu 0.666667 | experimental | [2] Bo 2009; _cites Rhinehammer 1964_ | Table 2, p. 4, row 13 |  |
-| 999 | metatectic/catatectic: Ce(bcc) -> liq + Ce(fcc) | L: Ce 0.958 | model | [1] Zhuang 1996 | Table 3, p. 5, row 9 |  |
-| 999 | metatectic/catatectic: δCe ↔ liquid + γCe | L: Cu 0.042 | model | [2] Bo 2009; _cites Zhuang 1996_ [doi](https://doi.org/10.1007/bf02665998) | Table 2, p. 4, row 26 |  |
-| 981 | metatectic/catatectic: δCe ↔ liquid + γCe | L: Cu 0.06 | experimental | [2] Bo 2009; _cites Rhinehammer 1964_ | Table 2, p. 4, row 25 |  |
-| 981 | metatectic/catatectic: δCe ↔ liquid + γCe | L: Cu 0.058 | model | [2] Bo 2009 | Table 2, p. 4, row 27 |  |
-| 789 | peritectic: Liquid + Cu2Ce ↔ CuCe | L: Cu 0.4; Cu2Ce: Cu 0.666667; CuCe: Cu 0.5 | experimental | [2] Bo 2009; _cites Rhinehammer 1964_ | Table 2, p. 4, row 19 |  |
-| 788 | peritectic: Liquid + Cu2Ce ↔ CuCe | L: Cu 0.394; Cu2Ce: Cu 0.666667; CuCe: Cu 0.5 | model | [2] Bo 2009; _cites Zhuang 1996_ [doi](https://doi.org/10.1007/bf02665998) | Table 2, p. 4, row 20 |  |
-| 788 | peritectic: liq + Cu2Ce -> CuCe | L: Ce 0.606; Cu2Ce: Ce 0.333333, Cu 0.666667; CuCe: Ce 0.5, Cu 0.5 | model | [1] Zhuang 1996 | Table 3, p. 5, row 7 |  |
-| 787 | peritectic: Liquid + Cu2Ce ↔ CuCe | L: Cu 0.426; Cu2Ce: Cu 0.666667; CuCe: Cu 0.5 | model | [2] Bo 2009 | Table 2, p. 4, row 21 |  |
-| 700 | eutectic: liq -> CuCe + Ce(fcc) | L: Ce 0.73; CuCe: Ce 0.5, Cu 0.5 | model | [1] Zhuang 1996 | Table 3, p. 5, row 8 |  |
-| 700 | eutectic: Liquid ↔ CuCe + γCe | L: Cu 0.289; CuCe: Cu 0.5 | model | [2] Bo 2009 | Table 2, p. 4, row 24 |  |
-| 700 | eutectic: Liquid ↔ CuCe + γCe | L: Cu 0.27; CuCe: Cu 0.5 | model | [2] Bo 2009; _cites Zhuang 1996_ [doi](https://doi.org/10.1007/bf02665998) | Table 2, p. 4, row 23 |  |
-| 697 | eutectic: Liquid ↔ CuCe + γCe | L: Cu 0.28; CuCe: Cu 0.5 | experimental | [2] Bo 2009; _cites Rhinehammer 1964_ | Table 2, p. 4, row 22 |  |
+| 1211 | congruent melting: liq -> Cu6Ce | L: Ce 0.143; Cu6Ce: Ce 0.142857, Cu 0.857143 | model | [1] Zhuang 1996 | Table 3, p. 5, row 2; `ORC-4JFBU6QWYB` |  |
+| 1165 | eutectic: liq -> Cu(fcc) + Cu6Ce | L: Ce 0.088; Cu6Ce: Ce 0.142857, Cu 0.857143 | model | [1] Zhuang 1996 | Table 3, p. 5, row 1; `ORC-3S6VKYROYJ` |  |
+| 1165 | eutectic: Liquid ↔ Fcc_Cu + Cu6Ce | L: Cu 0.912; Cu6Ce: Cu 0.857143 | model | [2] Bo 2009; _cites Zhuang 1996_ [doi](https://doi.org/10.1007/bf02665998) | Table 2, p. 4, row 2; `ORC-SZXFBQ2CQE` |  |
+| 1150 | eutectic: Liquid ↔ Fcc_Cu + Cu6Ce | L: Cu 0.913; Cu6Ce: Cu 0.857143 | model | [2] Bo 2009 | Table 2, p. 4, row 3; `ORC-AW5WQGNFSO` |  |
+| 1149 | eutectic: Liquid ↔ Fcc_Cu + Cu6Ce | L: Cu 0.91; Cu6Ce: Cu 0.857143 | experimental | [2] Bo 2009; _cites Rhinehammer 1964_ | Table 2, p. 4, row 1; `ORC-XA2CCOYH5C` |  |
+| 1090 | congruent melting: liq -> Cu2Ce | L: Ce 0.333; Cu2Ce: Ce 0.333333, Cu 0.666667 | model | [1] Zhuang 1996 | Table 3, p. 5, row 6; `ORC-33CAIJ3KFR` |  |
+| 1072 | peritectic: Liquid + Cu6Ce ↔ Cu5Ce | L: Cu 0.743; Cu6Ce: Cu 0.857143; Cu5Ce: Cu 0.833333 | model | [2] Bo 2009; _cites Zhuang 1996_ [doi](https://doi.org/10.1007/bf02665998) | Table 2, p. 4, row 8; `ORC-7TLJZFE262` |  |
+| 1072 | peritectic: liq + Cu6Ce -> Cu5Ce | L: Ce 0.257; Cu6Ce: Ce 0.142857, Cu 0.857143; Cu5Ce: Ce 0.166667, Cu 0.833333 | model | [1] Zhuang 1996 | Table 3, p. 5, row 3; `ORC-FNGY2JERFB` |  |
+| 1071 | peritectic: Liquid + Cu6Ce ↔ Cu5Ce | L: Cu 0.766; Cu6Ce: Cu 0.857143; Cu5Ce: Cu 0.833333 | experimental | [2] Bo 2009; _cites Rhinehammer 1964_ | Table 2, p. 4, row 7; `ORC-RD2FI2KLAF` |  |
+| 1071 | peritectic: Liquid + Cu6Ce ↔ Cu5Ce | L: Cu 0.756; Cu6Ce: Cu 0.857143; Cu5Ce: Cu 0.833333 | model | [2] Bo 2009 | Table 2, p. 4, row 9; `ORC-SHTQGW6RLI` |  |
+| 1069 | peritectic: Liquid + Cu5Ce ↔ Cu4Ce | L: Cu 0.765; Cu5Ce: Cu 0.833333; Cu4Ce: Cu 0.8 | experimental | [2] Bo 2009; _cites Rhinehammer 1964_ | Table 2, p. 4, row 10; `ORC-3BR2SMGQUV` |  |
+| 1069 | peritectic: Liquid + Cu5Ce ↔ Cu4Ce | L: Cu 0.754; Cu5Ce: Cu 0.833333; Cu4Ce: Cu 0.8 | model | [2] Bo 2009 | Table 2, p. 4, row 12; `ORC-NRN6PXUMQO` |  |
+| 1063 | peritectic: Liquid + Cu5Ce ↔ Cu4Ce | L: Cu 0.737; Cu5Ce: Cu 0.833333; Cu4Ce: Cu 0.8 | model | [2] Bo 2009; _cites Zhuang 1996_ [doi](https://doi.org/10.1007/bf02665998) | Table 2, p. 4, row 11; `ORC-7CHSCCAGIN` |  |
+| 1063 | peritectic: liq + Cu5Ce -> Cu4Ce | L: Ce 0.263; Cu5Ce: Ce 0.166667, Cu 0.833333; Cu4Ce: Ce 0.2, Cu 0.8 | model | [1] Zhuang 1996 | Table 3, p. 5, row 4; `ORC-EB4WZC3GUY` |  |
+| 1057 | eutectic: Liquid ↔ Cu4Ce + Cu2Ce | L: Cu 0.732; Cu4Ce: Cu 0.8; Cu2Ce: Cu 0.666667 | model | [2] Bo 2009; _cites Zhuang 1996_ [doi](https://doi.org/10.1007/bf02665998) | Table 2, p. 4, row 14; `ORC-K4TIFYAU2F` |  |
+| 1057 | eutectic: liq -> Cu4Ce + Cu2Ce | L: Ce 0.268; Cu4Ce: Ce 0.2, Cu 0.8; Cu2Ce: Ce 0.333333, Cu 0.666667 | model | [1] Zhuang 1996 | Table 3, p. 5, row 5; `ORC-O2GGX5RFS5` |  |
+| 1043 | eutectic: Liquid ↔ Cu4Ce + Cu2Ce | L: Cu 0.731; Cu4Ce: Cu 0.8; Cu2Ce: Cu 0.666667 | model | [2] Bo 2009 | Table 2, p. 4, row 15; `ORC-2PMHMMJX2Q` |  |
+| 1029 | eutectic: Liquid ↔ Cu4Ce + Cu2Ce | L: Cu 0.74; Cu4Ce: Cu 0.8; Cu2Ce: Cu 0.666667 | experimental | [2] Bo 2009; _cites Rhinehammer 1964_ | Table 2, p. 4, row 13; `ORC-LFTJBBYIG7` |  |
+| 999 | metatectic/catatectic: Ce(bcc) -> liq + Ce(fcc) | L: Ce 0.958 | model | [1] Zhuang 1996 | Table 3, p. 5, row 9; `ORC-A4J4OG4VAM` |  |
+| 999 | metatectic/catatectic: δCe ↔ liquid + γCe | L: Cu 0.042 | model | [2] Bo 2009; _cites Zhuang 1996_ [doi](https://doi.org/10.1007/bf02665998) | Table 2, p. 4, row 26; `ORC-MPIVFGDOHU` |  |
+| 981 | metatectic/catatectic: δCe ↔ liquid + γCe | L: Cu 0.06 | experimental | [2] Bo 2009; _cites Rhinehammer 1964_ | Table 2, p. 4, row 25; `ORC-GQHDGPQ25S` |  |
+| 981 | metatectic/catatectic: δCe ↔ liquid + γCe | L: Cu 0.058 | model | [2] Bo 2009 | Table 2, p. 4, row 27; `ORC-HPCPSKB47J` |  |
+| 789 | peritectic: Liquid + Cu2Ce ↔ CuCe | L: Cu 0.4; Cu2Ce: Cu 0.666667; CuCe: Cu 0.5 | experimental | [2] Bo 2009; _cites Rhinehammer 1964_ | Table 2, p. 4, row 19; `ORC-2UFMPLFEHO` |  |
+| 788 | peritectic: Liquid + Cu2Ce ↔ CuCe | L: Cu 0.394; Cu2Ce: Cu 0.666667; CuCe: Cu 0.5 | model | [2] Bo 2009; _cites Zhuang 1996_ [doi](https://doi.org/10.1007/bf02665998) | Table 2, p. 4, row 20; `ORC-7SDLOAOQDD` |  |
+| 788 | peritectic: liq + Cu2Ce -> CuCe | L: Ce 0.606; Cu2Ce: Ce 0.333333, Cu 0.666667; CuCe: Ce 0.5, Cu 0.5 | model | [1] Zhuang 1996 | Table 3, p. 5, row 7; `ORC-PVANYHJRTG` |  |
+| 787 | peritectic: Liquid + Cu2Ce ↔ CuCe | L: Cu 0.426; Cu2Ce: Cu 0.666667; CuCe: Cu 0.5 | model | [2] Bo 2009 | Table 2, p. 4, row 21; `ORC-AOGCVAQASL` |  |
+| 700 | eutectic: liq -> CuCe + Ce(fcc) | L: Ce 0.73; CuCe: Ce 0.5, Cu 0.5 | model | [1] Zhuang 1996 | Table 3, p. 5, row 8; `ORC-CBG36ERPXB` |  |
+| 700 | eutectic: Liquid ↔ CuCe + γCe | L: Cu 0.289; CuCe: Cu 0.5 | model | [2] Bo 2009 | Table 2, p. 4, row 24; `ORC-HNXS7R6SOW` |  |
+| 700 | eutectic: Liquid ↔ CuCe + γCe | L: Cu 0.27; CuCe: Cu 0.5 | model | [2] Bo 2009; _cites Zhuang 1996_ [doi](https://doi.org/10.1007/bf02665998) | Table 2, p. 4, row 23; `ORC-MITNEMIJWM` |  |
+| 697 | eutectic: Liquid ↔ CuCe + γCe | L: Cu 0.28; CuCe: Cu 0.5 | experimental | [2] Bo 2009; _cites Rhinehammer 1964_ | Table 2, p. 4, row 22; `ORC-4DXDTU56SK` |  |
 
 ## Other properties
 
@@ -118,13 +118,13 @@ Table: Phase transition, Ce–Cu system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 890.15 K | 890.15 | liquid + Cu4 Ce → ␶5 + ␶4 | model | [2] Bo 2009 | p. 9 | “␶5 -AlCe2 Cu2 phase is one of the products of the reaction liquid + Cu4 Ce → ␶5 + ␶4 at 617 ◦ C.” |
-| Phase transition | 1089 K | 1089 | congruent melting: Liquid ↔ Cu2Ce; _L: Cu 0.667; Cu2Ce: Cu 0.666667_ | model | [2] Bo 2009 | Table 2, p. 4, row 18 |  |
-| Phase transition | 1090 K | 1090 | congruent melting: Liquid ↔ Cu2Ce; _L: Cu 0.667; Cu2Ce: Cu 0.666667_ | model | [2] Bo 2009; _cites Zhuang 1996_ [doi](https://doi.org/10.1007/bf02665998) | Table 2, p. 4, row 17 |  |
-| Phase transition | 1090 K | 1090 | congruent melting: Liquid ↔ Cu2Ce; _L: Cu 0.667; Cu2Ce: Cu 0.666667_ | experimental | [2] Bo 2009; _cites Rhinehammer 1964_ | Table 2, p. 4, row 16 |  |
-| Phase transition | 1210 K | 1210 | congruent melting: Liquid ↔ Cu6Ce; _L: Cu 0.857; Cu6Ce: Cu 0.857143_ | model | [2] Bo 2009 | Table 2, p. 4, row 6 |  |
-| Phase transition | 1211 K | 1211 | congruent melting: Liquid ↔ Cu6Ce; _L: Cu 0.857; Cu6Ce: Cu 0.857143_ | model | [2] Bo 2009; _cites Zhuang 1996_ [doi](https://doi.org/10.1007/bf02665998) | Table 2, p. 4, row 5 |  |
-| Phase transition | 1211 K | 1211 | congruent melting: Liquid ↔ Cu6Ce; _L: Cu 0.857; Cu6Ce: Cu 0.857143_ | experimental | [2] Bo 2009; _cites Rhinehammer 1964_ | Table 2, p. 4, row 4 |  |
+| Phase transition | 890.15 K | 890.15 | liquid + Cu4 Ce → ␶5 + ␶4 | model | [2] Bo 2009 | p. 9; `ORC-2QDG2OQQ5V.8b51b2` | “␶5 -AlCe2 Cu2 phase is one of the products of the reaction liquid + Cu4 Ce → ␶5 + ␶4 at 617 ◦ C.” |
+| Phase transition | 1089 K | 1089 | congruent melting: Liquid ↔ Cu2Ce; _L: Cu 0.667; Cu2Ce: Cu 0.666667_ | model | [2] Bo 2009 | Table 2, p. 4, row 18; `ORC-L7T6DEEFTA` |  |
+| Phase transition | 1090 K | 1090 | congruent melting: Liquid ↔ Cu2Ce; _L: Cu 0.667; Cu2Ce: Cu 0.666667_ | model | [2] Bo 2009; _cites Zhuang 1996_ [doi](https://doi.org/10.1007/bf02665998) | Table 2, p. 4, row 17; `ORC-BR3ZELC65D` |  |
+| Phase transition | 1090 K | 1090 | congruent melting: Liquid ↔ Cu2Ce; _L: Cu 0.667; Cu2Ce: Cu 0.666667_ | experimental | [2] Bo 2009; _cites Rhinehammer 1964_ | Table 2, p. 4, row 16; `ORC-MJOE4T4X6J` |  |
+| Phase transition | 1210 K | 1210 | congruent melting: Liquid ↔ Cu6Ce; _L: Cu 0.857; Cu6Ce: Cu 0.857143_ | model | [2] Bo 2009 | Table 2, p. 4, row 6; `ORC-K2RKW3BZR5` |  |
+| Phase transition | 1211 K | 1211 | congruent melting: Liquid ↔ Cu6Ce; _L: Cu 0.857; Cu6Ce: Cu 0.857143_ | model | [2] Bo 2009; _cites Zhuang 1996_ [doi](https://doi.org/10.1007/bf02665998) | Table 2, p. 4, row 5; `ORC-MPS6QXW23J` |  |
+| Phase transition | 1211 K | 1211 | congruent melting: Liquid ↔ Cu6Ce; _L: Cu 0.857; Cu6Ce: Cu 0.857143_ | experimental | [2] Bo 2009; _cites Rhinehammer 1964_ | Table 2, p. 4, row 4; `ORC-VIRE7URQS5` |  |
 
 ### Crystal structure (15)
 
@@ -132,21 +132,21 @@ Table: Crystal structure, Ce–Cu system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 4.43 not_printed | 298.15 | Cu2Ce; _alloy: Ce 0.333333, Cu 0.666667_ | experimental | [3] Premović 2017; _cites Larson 1961_ [doi](https://doi.org/10.1107/s0365110x61001728) | Table 1, p. 2, row 8 |  |
-| Lattice a | 4.54 not_printed | 298.15 | Cu4Ce; _alloy: Ce 0.2, Cu 0.8_ | experimental | [3] Premović 2017; _cites Rhinehammer 1964_ | Table 1, p. 2, row 9 |  |
-| Lattice a | 5.147 not_printed | 298.15 | Cu5Ce; _alloy: Ce 0.166667, Cu 0.833333_ | model | [3] Premović 2017; _cites Kim 1991_ [doi](https://doi.org/10.1007/bf01313537) | Table 1, p. 2, row 10 |  |
-| Lattice a | 8.1088 not_printed | 298.15 | Cu6Ce; _alloy: Ce 0.142857, Cu 0.857143_ | unspecified | [3] Premović 2017; _cites Vrtis 2017_ | Table 1, p. 2, row 11 |  |
-| Lattice a | 7.3 not_printed | 298.15 | CuCe; _alloy: Ce 0.5, Cu 0.5_ | experimental | [3] Premović 2017; _cites Larson 1961_ [doi](https://doi.org/10.1107/s0365110x61001728) | Table 1, p. 2, row 7 |  |
-| Lattice b | 7.05 not_printed | 298.15 | Cu2Ce; _alloy: Ce 0.333333, Cu 0.666667_ | experimental | [3] Premović 2017; _cites Larson 1961_ [doi](https://doi.org/10.1107/s0365110x61001728) | Table 1, p. 2, row 8 |  |
-| Lattice b | 8.1 not_printed | 298.15 | Cu4Ce; _alloy: Ce 0.2, Cu 0.8_ | experimental | [3] Premović 2017; _cites Rhinehammer 1964_ | Table 1, p. 2, row 9 |  |
-| Lattice b | 5.147 not_printed | 298.15 | Cu5Ce; _alloy: Ce 0.166667, Cu 0.833333_ | model | [3] Premović 2017; _cites Kim 1991_ [doi](https://doi.org/10.1007/bf01313537) | Table 1, p. 2, row 10 |  |
-| Lattice b | 5.1004 not_printed | 298.15 | Cu6Ce; _alloy: Ce 0.142857, Cu 0.857143_ | unspecified | [3] Premović 2017; _cites Vrtis 2017_ | Table 1, p. 2, row 11 |  |
-| Lattice b | 4.3 not_printed | 298.15 | CuCe; _alloy: Ce 0.5, Cu 0.5_ | experimental | [3] Premović 2017; _cites Larson 1961_ [doi](https://doi.org/10.1107/s0365110x61001728) | Table 1, p. 2, row 7 |  |
-| Lattice c | 7.45 not_printed | 298.15 | Cu2Ce; _alloy: Ce 0.333333, Cu 0.666667_ | experimental | [3] Premović 2017; _cites Larson 1961_ [doi](https://doi.org/10.1107/s0365110x61001728) | Table 1, p. 2, row 8 |  |
-| Lattice c | 9.19 not_printed | 298.15 | Cu4Ce; _alloy: Ce 0.2, Cu 0.8_ | experimental | [3] Premović 2017; _cites Rhinehammer 1964_ | Table 1, p. 2, row 9 |  |
-| Lattice c | 4.1072 not_printed | 298.15 | Cu5Ce; _alloy: Ce 0.166667, Cu 0.833333_ | model | [3] Premović 2017; _cites Kim 1991_ [doi](https://doi.org/10.1007/bf01313537) | Table 1, p. 2, row 10 |  |
-| Lattice c | 10.1621 not_printed | 298.15 | Cu6Ce; _alloy: Ce 0.142857, Cu 0.857143_ | unspecified | [3] Premović 2017; _cites Vrtis 2017_ | Table 1, p. 2, row 11 |  |
-| Lattice c | 6.36 not_printed | 298.15 | CuCe; _alloy: Ce 0.5, Cu 0.5_ | experimental | [3] Premović 2017; _cites Larson 1961_ [doi](https://doi.org/10.1107/s0365110x61001728) | Table 1, p. 2, row 7 |  |
+| Lattice a | 4.43 not_printed | 298.15 | Cu2Ce; _alloy: Ce 0.333333, Cu 0.666667_ | experimental | [3] Premović 2017; _cites Larson 1961_ [doi](https://doi.org/10.1107/s0365110x61001728) | Table 1, p. 2, row 8; `ORC-23FZL7IQ6Z.e212c3` |  |
+| Lattice a | 4.54 not_printed | 298.15 | Cu4Ce; _alloy: Ce 0.2, Cu 0.8_ | experimental | [3] Premović 2017; _cites Rhinehammer 1964_ | Table 1, p. 2, row 9; `ORC-DWPQG7KS2M.8f7583` |  |
+| Lattice a | 5.147 not_printed | 298.15 | Cu5Ce; _alloy: Ce 0.166667, Cu 0.833333_ | model | [3] Premović 2017; _cites Kim 1991_ [doi](https://doi.org/10.1007/bf01313537) | Table 1, p. 2, row 10; `ORC-LCHPYBXOGB.bd3117` |  |
+| Lattice a | 8.1088 not_printed | 298.15 | Cu6Ce; _alloy: Ce 0.142857, Cu 0.857143_ | unspecified | [3] Premović 2017; _cites Vrtis 2017_ | Table 1, p. 2, row 11; `ORC-JAVYD72ACL.d065c8` |  |
+| Lattice a | 7.3 not_printed | 298.15 | CuCe; _alloy: Ce 0.5, Cu 0.5_ | experimental | [3] Premović 2017; _cites Larson 1961_ [doi](https://doi.org/10.1107/s0365110x61001728) | Table 1, p. 2, row 7; `ORC-GBETQZROB4.d18e8b` |  |
+| Lattice b | 7.05 not_printed | 298.15 | Cu2Ce; _alloy: Ce 0.333333, Cu 0.666667_ | experimental | [3] Premović 2017; _cites Larson 1961_ [doi](https://doi.org/10.1107/s0365110x61001728) | Table 1, p. 2, row 8; `ORC-23FZL7IQ6Z.ce8f48` |  |
+| Lattice b | 8.1 not_printed | 298.15 | Cu4Ce; _alloy: Ce 0.2, Cu 0.8_ | experimental | [3] Premović 2017; _cites Rhinehammer 1964_ | Table 1, p. 2, row 9; `ORC-DWPQG7KS2M.b62d7e` |  |
+| Lattice b | 5.147 not_printed | 298.15 | Cu5Ce; _alloy: Ce 0.166667, Cu 0.833333_ | model | [3] Premović 2017; _cites Kim 1991_ [doi](https://doi.org/10.1007/bf01313537) | Table 1, p. 2, row 10; `ORC-LCHPYBXOGB.7c5776` |  |
+| Lattice b | 5.1004 not_printed | 298.15 | Cu6Ce; _alloy: Ce 0.142857, Cu 0.857143_ | unspecified | [3] Premović 2017; _cites Vrtis 2017_ | Table 1, p. 2, row 11; `ORC-JAVYD72ACL.3be7a1` |  |
+| Lattice b | 4.3 not_printed | 298.15 | CuCe; _alloy: Ce 0.5, Cu 0.5_ | experimental | [3] Premović 2017; _cites Larson 1961_ [doi](https://doi.org/10.1107/s0365110x61001728) | Table 1, p. 2, row 7; `ORC-GBETQZROB4.bf0fcd` |  |
+| Lattice c | 7.45 not_printed | 298.15 | Cu2Ce; _alloy: Ce 0.333333, Cu 0.666667_ | experimental | [3] Premović 2017; _cites Larson 1961_ [doi](https://doi.org/10.1107/s0365110x61001728) | Table 1, p. 2, row 8; `ORC-23FZL7IQ6Z.34e865` |  |
+| Lattice c | 9.19 not_printed | 298.15 | Cu4Ce; _alloy: Ce 0.2, Cu 0.8_ | experimental | [3] Premović 2017; _cites Rhinehammer 1964_ | Table 1, p. 2, row 9; `ORC-DWPQG7KS2M.728774` |  |
+| Lattice c | 4.1072 not_printed | 298.15 | Cu5Ce; _alloy: Ce 0.166667, Cu 0.833333_ | model | [3] Premović 2017; _cites Kim 1991_ [doi](https://doi.org/10.1007/bf01313537) | Table 1, p. 2, row 10; `ORC-LCHPYBXOGB.654fd0` |  |
+| Lattice c | 10.1621 not_printed | 298.15 | Cu6Ce; _alloy: Ce 0.142857, Cu 0.857143_ | unspecified | [3] Premović 2017; _cites Vrtis 2017_ | Table 1, p. 2, row 11; `ORC-JAVYD72ACL.2528a3` |  |
+| Lattice c | 6.36 not_printed | 298.15 | CuCe; _alloy: Ce 0.5, Cu 0.5_ | experimental | [3] Premović 2017; _cites Larson 1961_ [doi](https://doi.org/10.1107/s0365110x61001728) | Table 1, p. 2, row 7; `ORC-GBETQZROB4.1b563b` |  |
 
 ## Sources
 
@@ -213,4 +213,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -98,14 +98,14 @@ Table: Invariant reactions reported in the literature for the Ag–Sn system (8)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 997.15 | fcc + L -> hcp | fcc: Sn 0.115; L: Sn 0.195; hcp: Sn 0.13 | experimental | [1] Chevalier 1988; _cites Karakaya 1987_ | Table 2, p. 7, row 10 |  |
-| 975 | fcc + L -> hcp | fcc: Sn 0.116; L: Sn 0.234; hcp: Sn 0.129 | model | [1] Chevalier 1988 | Table 2, p. 7, row 9 |  |
-| 758 | hcp + L -> Ag3Sn | hcp: Sn 0.234; L: Sn 0.491; Ag3Sn: Sn 0.25 | model | [1] Chevalier 1988 | Table 2, p. 7, row 7 |  |
-| 753.15 | hcp + L -> Ag3Sn | hcp: Sn 0.228; L: Sn 0.496; Ag3Sn: Sn 0.25 | experimental | [1] Chevalier 1988; _cites Karakaya 1987_ | Table 2, p. 7, row 8 |  |
-| 494.6 | L -> Ag3Sn + bct | L: Sn 0.961; Ag3Sn: Sn 0.25; bct: Sn 0.9992 | model | [1] Chevalier 1988 | Table 2, p. 7, row 5 |  |
-| 494.15 | eutectic |  | model | [1] Chevalier 1988 | p. 3 | “The eutectic point has been located at T = 494.15 K, \[8,11,12,14\].” |
-| 494.15 | eutectic |  | experimental | [2] Korhonen 1998 | p. 2 | “Two of its binaries have already been successfully used in electronic soldering for some time, the eutectic Ag-Sn at higher temperatures (Tm = 221°C), and the eutectic In-Sn at low temperatures (Tm = 120°C).” |
-| 494.15 | L -> Ag3Sn + bct | L: Sn 0.962; Ag3Sn: Sn 0.25; bct: Sn 0.9992 | experimental | [1] Chevalier 1988; _cites Karakaya 1987_ | Table 2, p. 7, row 6 |  |
+| 997.15 | fcc + L -> hcp | fcc: Sn 0.115; L: Sn 0.195; hcp: Sn 0.13 | experimental | [1] Chevalier 1988; _cites Karakaya 1987_ | Table 2, p. 7, row 10; `ORC-VOFXJHV7LK` |  |
+| 975 | fcc + L -> hcp | fcc: Sn 0.116; L: Sn 0.234; hcp: Sn 0.129 | model | [1] Chevalier 1988 | Table 2, p. 7, row 9; `ORC-5S2NFEAELL` |  |
+| 758 | hcp + L -> Ag3Sn | hcp: Sn 0.234; L: Sn 0.491; Ag3Sn: Sn 0.25 | model | [1] Chevalier 1988 | Table 2, p. 7, row 7; `ORC-UMMLA3APGI` |  |
+| 753.15 | hcp + L -> Ag3Sn | hcp: Sn 0.228; L: Sn 0.496; Ag3Sn: Sn 0.25 | experimental | [1] Chevalier 1988; _cites Karakaya 1987_ | Table 2, p. 7, row 8; `ORC-N6QNIM6D2V` |  |
+| 494.6 | L -> Ag3Sn + bct | L: Sn 0.961; Ag3Sn: Sn 0.25; bct: Sn 0.9992 | model | [1] Chevalier 1988 | Table 2, p. 7, row 5; `ORC-MQEU3BBPJ4` |  |
+| 494.15 | eutectic |  | model | [1] Chevalier 1988 | p. 3; `ORC-AQHMT4R54T` | “The eutectic point has been located at T = 494.15 K, \[8,11,12,14\].” |
+| 494.15 | eutectic |  | experimental | [2] Korhonen 1998 | p. 2; `ORC-QYU7AI3224.a32e3d` | “Two of its binaries have already been successfully used in electronic soldering for some time, the eutectic Ag-Sn at higher temperatures (Tm = 221°C), and the eutectic In-Sn at low temperatures (Tm = 120°C).” |
+| 494.15 | L -> Ag3Sn + bct | L: Sn 0.962; Ag3Sn: Sn 0.25; bct: Sn 0.9992 | experimental | [1] Chevalier 1988; _cites Karakaya 1987_ | Table 2, p. 7, row 6; `ORC-TJ5FEGS4XI` |  |
 
 ## Formation enthalpies
 
@@ -115,10 +115,10 @@ Table: Enthalpies of formation, Ag–Sn system (4)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | -6.19 kJ/mol-atom ± 0.23 | 723 | experimental |  |  | [1] Chevalier 1988 | p. 4 | “The heat of formation of two alloy samples of very nearly the same composition was measured by calorimetry at T = 723 K by Kleppa \[38\] as - 6.06 f 0.23 and - 6.19 f 0.23 KJ per gram atom respectively.” |
-| — |  | -6.06 kJ/mol-atom ± 0.23 | 723 | experimental |  |  | [1] Chevalier 1988 | p. 4 | “The heat of formation of two alloy samples of very nearly the same composition was measured by calorimetry at T = 723 K by Kleppa \[38\] as - 6.06 f 0.23 and - 6.19 f 0.23 KJ per gram atom respectively.” |
-| — |  | -4.447 kJ/mol-atom | 723 | model |  |  | [1] Chevalier 1988 | p. 4 | “Taking into account the value of the Gibbs energy of the transformation Sn(bct) ;=t Sn(liq)( + 6973 J) the heat of formation referred to the pure solid elements was calculated as - 4317 and - 4447 J per gram atom at T = 723 K.” |
-| — |  | -4.317 kJ/mol-atom | 723 | model |  |  | [1] Chevalier 1988 | p. 4 | “Taking into account the value of the Gibbs energy of the transformation Sn(bct) ;=t Sn(liq)( + 6973 J) the heat of formation referred to the pure solid elements was calculated as - 4317 and - 4447 J per gram atom at T = 723 K.” |
+| — |  | -6.19 kJ/mol-atom ± 0.23 | 723 | experimental |  |  | [1] Chevalier 1988 | p. 4; `ORC-EMOQNQ2IS3.6c0502` | “The heat of formation of two alloy samples of very nearly the same composition was measured by calorimetry at T = 723 K by Kleppa \[38\] as - 6.06 f 0.23 and - 6.19 f 0.23 KJ per gram atom respectively.” |
+| — |  | -6.06 kJ/mol-atom ± 0.23 | 723 | experimental |  |  | [1] Chevalier 1988 | p. 4; `ORC-EMOQNQ2IS3.26d9e5` | “The heat of formation of two alloy samples of very nearly the same composition was measured by calorimetry at T = 723 K by Kleppa \[38\] as - 6.06 f 0.23 and - 6.19 f 0.23 KJ per gram atom respectively.” |
+| — |  | -4.447 kJ/mol-atom | 723 | model |  |  | [1] Chevalier 1988 | p. 4; `ORC-FF37P36VB3.4aed2e` | “Taking into account the value of the Gibbs energy of the transformation Sn(bct) ;=t Sn(liq)( + 6973 J) the heat of formation referred to the pure solid elements was calculated as - 4317 and - 4447 J per gram atom at T = 723 K.” |
+| — |  | -4.317 kJ/mol-atom | 723 | model |  |  | [1] Chevalier 1988 | p. 4; `ORC-FF37P36VB3.9c1088` | “Taking into account the value of the Gibbs energy of the transformation Sn(bct) ;=t Sn(liq)( + 6973 J) the heat of formation referred to the pure solid elements was calculated as - 4317 and - 4447 J per gram atom at T = 723 K.” |
 
 ## Other properties
 
@@ -128,13 +128,13 @@ Table: Phase transition, Ag–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 495.15 K | 495.15 | other | experimental | [3] Kattner 1994 | p. 7 | “The observed liquidus temperature is actually higher than the 222~ liquidus temperature of a binary alloy with 3.32 at.% Ag.” |
-| Phase transition | 504.6 K | 504.6 | other | model | [4] Oh 1996 | p. 10 | “The calculated liquidus temperatures for the possible Snbased solder alloys, Sn-4wt.%Ag-7wt.%Sb and Snlwt.%Ag-lwt.%Sn, are 502.8 and 504.6 K respectively, which are in close agreement with the measured temperatures by Loomans et al. \[57\], 503 and 505 K.” |
-| Phase transition | 505 K | 505 | other | experimental | [4] Oh 1996; _cites Loomans 1994_ [doi](https://doi.org/10.1007/bf02651368) | p. 10 | “The calculated liquidus temperatures for the possible Snbased solder alloys, Sn-4wt.%Ag-7wt.%Sb and Snlwt.%Ag-lwt.%Sn, are 502.8 and 504.6 K respectively, which are in close agreement with the measured temperatures by Loomans et al. \[57\], 503 and 505 K.” |
-| Phase transition | 505.12 K | 505.12 | Sn(bct) -> Sn(liq); _Sn(bct): Sn 1_ | experimental | [1] Chevalier 1988; _cites Karakaya 1987_ | Table 2, p. 7, row 4 |  |
-| Phase transition | 505.12 K | 505.12 | Sn(bct) -> Sn(liq); _Sn(bct): Sn 1_ | model | [1] Chevalier 1988 | Table 2, p. 7, row 3 |  |
-| Phase transition | 1235.08 K | 1235.08 | Ag(fcc) -> Ag(liq); _Ag(fcc): Sn 0_ | model | [1] Chevalier 1988 | Table 2, p. 7, row 1 |  |
-| Phase transition | 1235.08 K | 1235.08 | Ag(fcc) -> Ag(liq); _Ag(fcc): Sn 0_ | experimental | [1] Chevalier 1988; _cites Karakaya 1987_ | Table 2, p. 7, row 2 |  |
+| Phase transition | 495.15 K | 495.15 | other | experimental | [3] Kattner 1994 | p. 7; `ORC-P27VOZAAOX` | “The observed liquidus temperature is actually higher than the 222~ liquidus temperature of a binary alloy with 3.32 at.% Ag.” |
+| Phase transition | 504.6 K | 504.6 | other | model | [4] Oh 1996 | p. 10; `ORC-HVOX5GY62D.cbf24f` | “The calculated liquidus temperatures for the possible Snbased solder alloys, Sn-4wt.%Ag-7wt.%Sb and Snlwt.%Ag-lwt.%Sn, are 502.8 and 504.6 K respectively, which are in close agreement with the measured temperatures by Loomans et al. \[57\], 503 and 505 K.” |
+| Phase transition | 505 K | 505 | other | experimental | [4] Oh 1996; _cites Loomans 1994_ [doi](https://doi.org/10.1007/bf02651368) | p. 10; `ORC-HVOX5GY62D.29cbb1` | “The calculated liquidus temperatures for the possible Snbased solder alloys, Sn-4wt.%Ag-7wt.%Sb and Snlwt.%Ag-lwt.%Sn, are 502.8 and 504.6 K respectively, which are in close agreement with the measured temperatures by Loomans et al. \[57\], 503 and 505 K.” |
+| Phase transition | 505.12 K | 505.12 | Sn(bct) -> Sn(liq); _Sn(bct): Sn 1_ | experimental | [1] Chevalier 1988; _cites Karakaya 1987_ | Table 2, p. 7, row 4; `ORC-ANWEQLIEK4` |  |
+| Phase transition | 505.12 K | 505.12 | Sn(bct) -> Sn(liq); _Sn(bct): Sn 1_ | model | [1] Chevalier 1988 | Table 2, p. 7, row 3; `ORC-JPOWUERA23` |  |
+| Phase transition | 1235.08 K | 1235.08 | Ag(fcc) -> Ag(liq); _Ag(fcc): Sn 0_ | model | [1] Chevalier 1988 | Table 2, p. 7, row 1; `ORC-TDZ3E2U65L` |  |
+| Phase transition | 1235.08 K | 1235.08 | Ag(fcc) -> Ag(liq); _Ag(fcc): Sn 0_ | experimental | [1] Chevalier 1988; _cites Karakaya 1987_ | Table 2, p. 7, row 2; `ORC-ZFMGAKOMVI` |  |
 
 ## Sources
 
@@ -202,4 +202,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

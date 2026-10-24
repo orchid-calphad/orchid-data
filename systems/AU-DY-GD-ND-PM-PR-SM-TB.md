@@ -26,19 +26,19 @@ Table: Invariant reactions reported in the literature for the Au–Dy–Gd–Nd�
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1180 | L + Au51Pm14 -> Au6Pm |  | experimental | [1] Dong 2011; _cites Massalski 1990_ | Table 4, p. 5, row 3 |  |
-| 1173 | L + Au51Pr14 -> Au6Pr |  | experimental | [1] Dong 2011; _cites Massalski 1990_ | Table 4, p. 5, row 1 |  |
-| 1130 | L + Au51Tb14 -> Au6Tb |  | experimental | [1] Dong 2011; _cites Massalski 1990_ | Table 4, p. 5, row 13 |  |
-| 1118 | L + Au51Dy14 -> Au6Dy |  | experimental | [1] Dong 2011; _cites Massalski 1990_ | Table 4, p. 5, row 9 |  |
-| 1116 | L + Au51Nd14 -> Au6Nd |  | experimental | [1] Dong 2011; _cites Massalski 1990_ | Table 4, p. 5, row 5 |  |
-| 1104 | L -> Au6Pm + Au(fcc) |  | experimental | [1] Dong 2011; _cites Massalski 1990_ | Table 4, p. 5, row 4 |  |
-| 1082 | L -> Au6Gd + Au(fcc) |  | experimental | [1] Dong 2011; _cites Massalski 1990_ | Table 4, p. 5, row 12 |  |
-| 1081 | L -> Au6Dy + Au(fcc) |  | experimental | [1] Dong 2011; _cites Massalski 1990_ | Table 4, p. 5, row 10 |  |
-| 1073 | L + Au51Sm14 -> Au6Sm |  | experimental | [1] Dong 2011; _cites Massalski 1990_ | Table 4, p. 5, row 7 |  |
-| 1071 | L -> Au6Tb + Au(fcc) |  | experimental | [1] Dong 2011; _cites Massalski 1990_ | Table 4, p. 5, row 14 |  |
-| 1069 | L -> Au6Nd + Au(fcc) |  | experimental | [1] Dong 2011; _cites Massalski 1990_ | Table 4, p. 5, row 6 |  |
-| 1063 | L -> Au6Pr + Au(fcc) |  | experimental | [1] Dong 2011; _cites Massalski 1990_ | Table 4, p. 5, row 2 |  |
-| 1043 | L -> Au6Sm + Au(fcc) |  | experimental | [1] Dong 2011; _cites Massalski 1990_ | Table 4, p. 5, row 8 |  |
+| 1180 | L + Au51Pm14 -> Au6Pm |  | experimental | [1] Dong 2011; _cites Massalski 1990_ | Table 4, p. 5, row 3; `ORC-4JLJYHD7OF` |  |
+| 1173 | L + Au51Pr14 -> Au6Pr |  | experimental | [1] Dong 2011; _cites Massalski 1990_ | Table 4, p. 5, row 1; `ORC-DIQ4XRJG2Z` |  |
+| 1130 | L + Au51Tb14 -> Au6Tb |  | experimental | [1] Dong 2011; _cites Massalski 1990_ | Table 4, p. 5, row 13; `ORC-P6D5CZWYML` |  |
+| 1118 | L + Au51Dy14 -> Au6Dy |  | experimental | [1] Dong 2011; _cites Massalski 1990_ | Table 4, p. 5, row 9; `ORC-WHS2S5F3PZ` |  |
+| 1116 | L + Au51Nd14 -> Au6Nd |  | experimental | [1] Dong 2011; _cites Massalski 1990_ | Table 4, p. 5, row 5; `ORC-7O7PNU6AV7` |  |
+| 1104 | L -> Au6Pm + Au(fcc) |  | experimental | [1] Dong 2011; _cites Massalski 1990_ | Table 4, p. 5, row 4; `ORC-P7TO5GHIIF` |  |
+| 1082 | L -> Au6Gd + Au(fcc) |  | experimental | [1] Dong 2011; _cites Massalski 1990_ | Table 4, p. 5, row 12; `ORC-ZGD6ANLEHM` |  |
+| 1081 | L -> Au6Dy + Au(fcc) |  | experimental | [1] Dong 2011; _cites Massalski 1990_ | Table 4, p. 5, row 10; `ORC-27CMSAGTL7` |  |
+| 1073 | L + Au51Sm14 -> Au6Sm |  | experimental | [1] Dong 2011; _cites Massalski 1990_ | Table 4, p. 5, row 7; `ORC-O2ZRVKNW2K` |  |
+| 1071 | L -> Au6Tb + Au(fcc) |  | experimental | [1] Dong 2011; _cites Massalski 1990_ | Table 4, p. 5, row 14; `ORC-7X2QDLLCDE` |  |
+| 1069 | L -> Au6Nd + Au(fcc) |  | experimental | [1] Dong 2011; _cites Massalski 1990_ | Table 4, p. 5, row 6; `ORC-74JYHFDLFD` |  |
+| 1063 | L -> Au6Pr + Au(fcc) |  | experimental | [1] Dong 2011; _cites Massalski 1990_ | Table 4, p. 5, row 2; `ORC-XDE32BTPQ7` |  |
+| 1043 | L -> Au6Sm + Au(fcc) |  | experimental | [1] Dong 2011; _cites Massalski 1990_ | Table 4, p. 5, row 8; `ORC-GJGDBBWBBR` |  |
 
 ## Sources
 
@@ -81,4 +81,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

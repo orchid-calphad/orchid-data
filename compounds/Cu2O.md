@@ -14,14 +14,14 @@ Table: Enthalpy of formation of Cu2O reported in the literature (8)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -59.97 kJ/mol-atom | Cu2O | 298.15 | experimental | Cal. | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites Wrhler 1934_ | Table 8, p. 13, row 4 |  |
-| -57.7267 kJ/mol-atom | Cu2O | 298.15 | experimental | React. Cal. | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites Nufiez 1969_ | Table 8, p. 13, row 10 |  |
-| -56.9433 kJ/mol-atom | Cu2O | 298.15 | experimental | React. Cal. | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites Mah 1967_ | Table 8, p. 13, row 8 |  |
-| -56.7633 kJ/mol-atom | Cu2O | 298.15 | experimental | Aq. Cal. | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites Thomsen 1883_ | Table 8, p. 13, row 1 |  |
-| -54.95 kJ/mol-atom | Cu2O | 293 | experimental | Sol. Cal. | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites ref. 34Bil_ | Table 8, p. 13, row 6 |  |
-| -57.4933 kJ/mol-atom | Cu2O | 298.15 | model | Assessed | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites Boud 1991_ | Table 8, p. 13, row 15 |  |
-| -56.9033 kJ/mol-atom | Cu2O | 298.15 | model | Assessed | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites Chase 1985_ | Table 8, p. 13, row 13 |  |
-| -56.7533 kJ/mol-atom | Cu2O | 298.15 | model | Assessed | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994 | Table 8, p. 13, row 17 |  |
+| -59.97 kJ/mol-atom | Cu2O | 298.15 | experimental | Cal. | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites Wrhler 1934_ | Table 8, p. 13, row 4; `ORC-UEENQAKLM2.5a9513` |  |
+| -57.7267 kJ/mol-atom | Cu2O | 298.15 | experimental | React. Cal. | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites Nufiez 1969_ | Table 8, p. 13, row 10; `ORC-ALFTX6OZRM.279a7f` |  |
+| -56.9433 kJ/mol-atom | Cu2O | 298.15 | experimental | React. Cal. | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites Mah 1967_ | Table 8, p. 13, row 8; `ORC-AJGT674S4D.b11196` |  |
+| -56.7633 kJ/mol-atom | Cu2O | 298.15 | experimental | Aq. Cal. | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites Thomsen 1883_ | Table 8, p. 13, row 1; `ORC-T4WZFE2TJJ.eef88f` |  |
+| -54.95 kJ/mol-atom | Cu2O | 293 | experimental | Sol. Cal. | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites ref. 34Bil_ | Table 8, p. 13, row 6; `ORC-LGOKEWXJHR.56dd6b` |  |
+| -57.4933 kJ/mol-atom | Cu2O | 298.15 | model | Assessed | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites Boud 1991_ | Table 8, p. 13, row 15; `ORC-UDWXTWFN6Y.223526` |  |
+| -56.9033 kJ/mol-atom | Cu2O | 298.15 | model | Assessed | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites Chase 1985_ | Table 8, p. 13, row 13; `ORC-XCCWO6H7LI.d9fe69` |  |
+| -56.7533 kJ/mol-atom | Cu2O | 298.15 | model | Assessed | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994 | Table 8, p. 13, row 17; `ORC-SNTTKLS5GR.c8b64e` |  |
 
 ### Uncertainty budget
 
@@ -104,4 +104,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

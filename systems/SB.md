@@ -31,7 +31,7 @@ Table: Phase transition, Sb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 903 K | 903 | congruent melting: L \<-> (Sb); _L: Sb 1; (Sb): Sb 1_ | unspecified | [1] Liu 2009; _cites Zabdyr 1993_ [doi](https://doi.org/10.1016/0364-5916%2893%2990005-v) | Table 5, p. 5, row 1 |  |
+| Phase transition | 903 K | 903 | congruent melting: L \<-> (Sb); _L: Sb 1; (Sb): Sb 1_ | unspecified | [1] Liu 2009; _cites Zabdyr 1993_ [doi](https://doi.org/10.1016/0364-5916%2893%2990005-v) | Table 5, p. 5, row 1; `ORC-YVBHB3LWOG` |  |
 
 ### Crystal structure (13)
 
@@ -39,19 +39,19 @@ Table: Crystal structure, Sb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 43.78 Å |  | (Sb); _alloy: Sb 1_ | model | [2] Qin 2015 | Table 1, p. 2, row 13 |  |
-| Lattice a | 4.3084 Å | 298.15 | (Sb); _(Sb): Sb 1_ | unspecified | [3] Olesinski 1985; _cites ref. 2_ | Table 3, p. 3, row 4 |  |
-| Lattice a | 43.06 Å | 298.15 | (Sb); _alloy: Sb 1_ | experimental | [2] Qin 2015; _cites Kim 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902709-0) | Table 1, p. 2, row 12 |  |
-| Lattice a | 4.3084 Å | 298.15 | Rho(Sb); _alloy: Sb 1_ | experimental | [4] Liu 2023; _cites Barrett 1963_ [doi](https://doi.org/10.1107/s0365110x63001262) | Table 1, p. 3, row 2 |  |
-| Lattice a | 4.3084 Å | 903.9 (\<) | (Sb); _alloy: Sb 1_ | model | [1] Liu 2009 | Table 1, p. 2, row 1 |  |
-| Lattice c | 11.45 Å |  | (Sb); _alloy: Sb 1_ | model | [2] Qin 2015 | Table 1, p. 2, row 13 |  |
-| Lattice c | 11.247 Å | 298.15 | (Sb); _(Sb): Sb 1_ | unspecified | [3] Olesinski 1985; _cites ref. 2_ | Table 3, p. 3, row 4 |  |
-| Lattice c | 11.25 Å | 298.15 | (Sb); _alloy: Sb 1_ | experimental | [2] Qin 2015; _cites Kim 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902709-0) | Table 1, p. 2, row 12 |  |
-| Lattice c | 11.274 Å | 298.15 | Rho(Sb); _alloy: Sb 1_ | experimental | [4] Liu 2023; _cites Barrett 1963_ [doi](https://doi.org/10.1107/s0365110x63001262) | Table 1, p. 3, row 2 |  |
-| Lattice c | 11.274 Å | 903.9 (\<) | (Sb); _alloy: Sb 1_ | model | [1] Liu 2009 | Table 1, p. 2, row 1 |  |
-| Molar volume | 18.7 cm3/mol |  | L; _alloy: Sb 1_ | unspecified | [5] Ohtani 1995; _cites Kaufman 1963_ | Table 3, p. 2, row 10 |  |
-| Molar volume | 18.775 cm3/mol |  | α; _alloy: Sb 1_ | experimental | [5] Ohtani 1995; _cites Clark 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990020-x) | Table 3, p. 2, row 11 |  |
-| Molar volume | 18.7 cm3/mol |  | δ; _alloy: Sb 1_ | unspecified | [5] Ohtani 1995 | Table 3, p. 2, row 12 |  |
+| Lattice a | 43.78 Å |  | (Sb); _alloy: Sb 1_ | model | [2] Qin 2015 | Table 1, p. 2, row 13; `ORC-RB6EYOBIXE.424090` |  |
+| Lattice a | 4.3084 Å | 298.15 | (Sb); _(Sb): Sb 1_ | unspecified | [3] Olesinski 1985; _cites ref. 2_ | Table 3, p. 3, row 4; `ORC-EVIXX2KIMU.ff7a9b` |  |
+| Lattice a | 43.06 Å | 298.15 | (Sb); _alloy: Sb 1_ | experimental | [2] Qin 2015; _cites Kim 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902709-0) | Table 1, p. 2, row 12; `ORC-ZNNHYXBZ2W.a140c6` |  |
+| Lattice a | 4.3084 Å | 298.15 | Rho(Sb); _alloy: Sb 1_ | experimental | [4] Liu 2023; _cites Barrett 1963_ [doi](https://doi.org/10.1107/s0365110x63001262) | Table 1, p. 3, row 2; `ORC-TUPLM257QG.f25a1d` |  |
+| Lattice a | 4.3084 Å | 903.9 (\<) | (Sb); _alloy: Sb 1_ | model | [1] Liu 2009 | Table 1, p. 2, row 1; `ORC-BSXLTYSSBF.5f826b` |  |
+| Lattice c | 11.45 Å |  | (Sb); _alloy: Sb 1_ | model | [2] Qin 2015 | Table 1, p. 2, row 13; `ORC-RB6EYOBIXE.48d731` |  |
+| Lattice c | 11.247 Å | 298.15 | (Sb); _(Sb): Sb 1_ | unspecified | [3] Olesinski 1985; _cites ref. 2_ | Table 3, p. 3, row 4; `ORC-EVIXX2KIMU.de8b7a` |  |
+| Lattice c | 11.25 Å | 298.15 | (Sb); _alloy: Sb 1_ | experimental | [2] Qin 2015; _cites Kim 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902709-0) | Table 1, p. 2, row 12; `ORC-ZNNHYXBZ2W.6f21a7` |  |
+| Lattice c | 11.274 Å | 298.15 | Rho(Sb); _alloy: Sb 1_ | experimental | [4] Liu 2023; _cites Barrett 1963_ [doi](https://doi.org/10.1107/s0365110x63001262) | Table 1, p. 3, row 2; `ORC-TUPLM257QG.f92c65` |  |
+| Lattice c | 11.274 Å | 903.9 (\<) | (Sb); _alloy: Sb 1_ | model | [1] Liu 2009 | Table 1, p. 2, row 1; `ORC-BSXLTYSSBF.df1200` |  |
+| Molar volume | 18.7 cm3/mol |  | L; _alloy: Sb 1_ | unspecified | [5] Ohtani 1995; _cites Kaufman 1963_ | Table 3, p. 2, row 10; `ORC-DELJNV5JSX` |  |
+| Molar volume | 18.775 cm3/mol |  | α; _alloy: Sb 1_ | experimental | [5] Ohtani 1995; _cites Clark 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990020-x) | Table 3, p. 2, row 11; `ORC-2RBF6O4IL3` |  |
+| Molar volume | 18.7 cm3/mol |  | δ; _alloy: Sb 1_ | unspecified | [5] Ohtani 1995 | Table 3, p. 2, row 12; `ORC-TL7MYWIF3T` |  |
 
 ## Sources
 
@@ -98,4 +98,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

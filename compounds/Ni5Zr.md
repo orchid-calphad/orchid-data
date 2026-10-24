@@ -14,16 +14,16 @@ Table: Enthalpy of formation of Ni5Zr reported in the literature (10)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -34.98 kJ/mol-atom ± 6.7 | Ni5Zr | 298.15 | experimental | experimental | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html) | [1] Jana 2020; _cites Henaff 1984_ [doi](https://doi.org/10.1063/1.333963) | Table 6, p. 7, row 2 |  |
-| -31.8 kJ/mol-atom ± 3 | Ni5Zr | 298.15 | experimental | experimental | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html) | [1] Jana 2020; _cites Gachon 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990497-6) | Table 6, p. 7, row 1 |  |
-| -31.4 kJ/mol-atom ± 3 | Ni5Zr | 298.15 | experimental | experimental | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html) | [1] Jana 2020; _cites Zaitsev 2002_ [doi](https://doi.org/10.1039/b201036b) | Table 6, p. 7, row 3 |  |
-| -39 kJ/mol-atom | Ni5Zr |  | model | empirical | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html) | [1] Jana 2020; _cites Colinet 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990032-x) | Table 6, p. 7, row 4 |  |
-| -36.112 kJ/mol-atom | Ni5Zr |  | model |  | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html) | [1] Jana 2020 | Table 6, p. 7, row 9 |  |
-| -32.009 kJ/mol-atom | Ni5Zr |  | model |  | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html) | [1] Jana 2020 | Table 6, p. 7, row 10 |  |
-| -27.294 kJ/mol-atom | Ni5Zr |  | model | empirical | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html) | [1] Jana 2020; _cites Zhang 2007_ [doi](https://doi.org/10.1016/j.cplett.2007.06.031) | Table 6, p. 7, row 5 |  |
-| -39.109 kJ/mol-atom | Ni5Zr |  | DFT | DFT | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html) | [1] Jana 2020; _cites Du 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.05.021) | Table 6, p. 7, row 8 |  |
-| -31.358 kJ/mol-atom | Ni5Zr |  | DFT | DFT | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html) | [1] Jana 2020; _cites Kirklin_ | Table 6, p. 7, row 6 |  |
-| -30.876 kJ/mol-atom | Ni5Zr |  | DFT | DFT | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html) | [1] Jana 2020; _cites Hennig 2005_ [doi](https://doi.org/10.1103/physrevb.71.144103) | Table 6, p. 7, row 7 |  |
+| -34.98 kJ/mol-atom ± 6.7 | Ni5Zr | 298.15 | experimental | experimental | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html) | [1] Jana 2020; _cites Henaff 1984_ [doi](https://doi.org/10.1063/1.333963) | Table 6, p. 7, row 2; `ORC-NBII3YNUOQ` |  |
+| -31.8 kJ/mol-atom ± 3 | Ni5Zr | 298.15 | experimental | experimental | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html) | [1] Jana 2020; _cites Gachon 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990497-6) | Table 6, p. 7, row 1; `ORC-JHGFPEFR4Q` |  |
+| -31.4 kJ/mol-atom ± 3 | Ni5Zr | 298.15 | experimental | experimental | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html) | [1] Jana 2020; _cites Zaitsev 2002_ [doi](https://doi.org/10.1039/b201036b) | Table 6, p. 7, row 3; `ORC-DW34TPDF4Z` |  |
+| -39 kJ/mol-atom | Ni5Zr |  | model | empirical | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html) | [1] Jana 2020; _cites Colinet 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990032-x) | Table 6, p. 7, row 4; `ORC-Y5XIVNG6DK` |  |
+| -36.112 kJ/mol-atom | Ni5Zr |  | model |  | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html) | [1] Jana 2020 | Table 6, p. 7, row 9; `ORC-FAPCA6PXNQ` |  |
+| -32.009 kJ/mol-atom | Ni5Zr |  | model |  | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html) | [1] Jana 2020 | Table 6, p. 7, row 10; `ORC-OJMHUMMPVX` |  |
+| -27.294 kJ/mol-atom | Ni5Zr |  | model | empirical | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html) | [1] Jana 2020; _cites Zhang 2007_ [doi](https://doi.org/10.1016/j.cplett.2007.06.031) | Table 6, p. 7, row 5; `ORC-JAK7P56BTV` |  |
+| -39.109 kJ/mol-atom | Ni5Zr |  | DFT | DFT | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html) | [1] Jana 2020; _cites Du 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.05.021) | Table 6, p. 7, row 8; `ORC-YBD3FC5VSL` |  |
+| -31.358 kJ/mol-atom | Ni5Zr |  | DFT | DFT | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html) | [1] Jana 2020; _cites Kirklin_ | Table 6, p. 7, row 6; `ORC-RS6VJRJSVB` |  |
+| -30.876 kJ/mol-atom | Ni5Zr |  | DFT | DFT | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html) | [1] Jana 2020; _cites Hennig 2005_ [doi](https://doi.org/10.1103/physrevb.71.144103) | Table 6, p. 7, row 7; `ORC-32XE34GMC6` |  |
 
 ### Uncertainty budget
 
@@ -108,4 +108,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

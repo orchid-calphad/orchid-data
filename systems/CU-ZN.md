@@ -101,72 +101,72 @@ Table: Invariant reactions reported in the literature for the Cu–Zn system (66
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1176 | L + α = β | L: Zn 0.368; α: Zn 0.319; β: Zn 0.361 | experimental | [1] Wang 2011; _cites Massalski 1986_ | Table 2, p. 3, row 1 |  |
-| 1176 | (Cu) + L ↔ β | β: Zn 0.353 | model | [2] Gierlotka 2008; _cites Kowalski 1993_ [doi](https://doi.org/10.1007/bf02671961) | Table II, p. 2, row 2 |  |
-| 1176 | peritectic: (Cu) + L -> β | (Cu): Zn 0.319; β: Zn 0.361; L: Zn 0.368 | experimental | [3] Kowalski 1993; _cites Massalski 1986_ | Table 1, p. 1, row 1 |  |
-| 1176 | peritectic: (Cu) + L -> β | (Cu): Zn 0.319; β: Zn 0.353; L: Zn 0.373 | model | [3] Kowalski 1993 | Table 1, p. 1, row 2 |  |
-| 1176 | L + α = β | L: Zn 0.384; α: Zn 0.327; β: Zn 0.361 | model | [1] Wang 2011 | Table 2, p. 3, row 2 |  |
-| 1175.3 | peritectic: Liquid + fcc-A1 -> bcc-A2 | Liquid: Zn 0.373; fcc-A1: Zn 0.319; bcc-A2: Zn 0.353 | unspecified | [4] Hämäläinen 1998 | Table I, p. 206, row 1 |  |
-| 1175 | peritectic: α + L ↔ β | α: Zn 0.319; L: Zn 0.372; β: Zn 0.351 | model | [5] David 2003 | Table 1, p. 2, row 2 |  |
-| 1175 | (Cu) + L ↔ β | (Cu): Zn 0.361 | model | [2] Gierlotka 2008; _cites Massalski 1986_ | Table II, p. 2, row 1 |  |
-| 1175 | peritectic: α + L ↔ β | α: Zn 0.319; L: Zn 0.368; β: Zn 0.361 | model | [5] David 2003; _cites Miodownik 1994_ | Table 1, p. 2, row 1 |  |
-| 1174 | (Cu) + L ↔ β | β: Zn 0.354 | model | [2] Gierlotka 2008 | Table II, p. 2, row 3 |  |
-| 1173 | (Cu) + L ↔ β | β: Zn 0.358 | model | [2] Gierlotka 2008 | Table II, p. 2, row 4 |  |
-| 1110 | peritectic: β + L ↔ γ | β: Zn 0.572; L: Zn 0.606; γ: Zn 0.599 | model | [5] David 2003 | Table 1, p. 2, row 4 |  |
-| 1108.3 | peritectic: Liquid + bcc-A2 -> CuZn-γ | Liquid: Zn 0.592; bcc-A2: Zn 0.558; CuZn-γ: Zn 0.586 | unspecified | [4] Hämäläinen 1998 | Table I, p. 206, row 2 |  |
-| 1108 | peritectic: β + L -> γ | β: Zn 0.558; γ: Zn 0.591; L: Zn 0.591 | experimental | [3] Kowalski 1993; _cites Massalski 1986_ | Table 1, p. 1, row 3 |  |
-| 1108 | β + L ↔ γ | γ: Zn 0.586 | model | [2] Gierlotka 2008; _cites Kowalski 1993_ [doi](https://doi.org/10.1007/bf02671961) | Table II, p. 2, row 6 |  |
-| 1108 | L + β = γ | L: Zn 0.592; β: Zn 0.554; γ: Zn 0.591 | model | [1] Wang 2011 | Table 2, p. 3, row 4 |  |
-| 1108 | peritectic: β + L -> γ | β: Zn 0.558; γ: Zn 0.586; L: Zn 0.592 | model | [3] Kowalski 1993 | Table 1, p. 1, row 4 |  |
-| 1108 | L + β = γ | L: Zn 0.591; β: Zn 0.558; γ: Zn 0.586 | experimental | [1] Wang 2011; _cites Massalski 1986_ | Table 2, p. 3, row 3 |  |
-| 1107 | peritectic: β + L ↔ γ | β: Zn 0.558; L: Zn 0.591; γ: Zn 0.591 | model | [5] David 2003; _cites Miodownik 1994_ | Table 1, p. 2, row 3 |  |
-| 1107 | β + L ↔ γ | γ: Zn 0.587 | model | [2] Gierlotka 2008 | Table II, p. 2, row 8 |  |
-| 1107 | β + L ↔ γ | γ: Zn 0.585 | model | [2] Gierlotka 2008 | Table II, p. 2, row 7 |  |
-| 1107 | β + L ↔ γ | β: Zn 0.591; γ: Zn 0.615385 | model | [2] Gierlotka 2008; _cites Massalski 1986_ | Table II, p. 2, row 5 |  |
-| 976 | γ + L ↔ δ | γ: Zn 0.615385; δ: Zn 0.72 | model | [2] Gierlotka 2008 | Table II, p. 2, row 12 |  |
-| 973 | peritectic: γ + L ↔ δ | γ: Zn 0.689; L: Zn 0.82; δ: Zn 0.725 | model | [5] David 2003 | Table 1, p. 2, row 6 |  |
-| 973 | γ + L ↔ δ | γ: Zn 0.724 | model | [2] Gierlotka 2008 | Table II, p. 2, row 11 |  |
-| 973 | γ + L ↔ δ | γ: Zn 0.724 | model | [2] Gierlotka 2008; _cites Massalski 1986_ | Table II, p. 2, row 9 |  |
-| 973 | L + γ = δ | L: Zn 0.8; γ: Zn 0.692; δ: Zn 0.724 | experimental | [1] Wang 2011; _cites Massalski 1986_ | Table 2, p. 3, row 5 |  |
-| 973 | peritectic: γ + L ↔ δ | γ: Zn 0.692; L: Zn 0.798; δ: Zn 0.7245 | model | [5] David 2003; _cites Miodownik 1994_ | Table 1, p. 2, row 5 |  |
-| 973 | peritectic: γ + L -> δ | γ: Zn 0.692; δ: Zn 0.724; L: Zn 0.8 | experimental | [3] Kowalski 1993; _cites Massalski 1986_ | Table 1, p. 1, row 5 |  |
-| 973 | peritectic: γ + L -> δ | γ: Zn 0.678; δ: Zn 0.719; L: Zn 0.802 | model | [3] Kowalski 1993 | Table 1, p. 1, row 6 |  |
-| 973 | γ + L ↔ δ | γ: Zn 0.615385; δ: Zn 0.719 | model | [2] Gierlotka 2008; _cites Kowalski 1993_ [doi](https://doi.org/10.1007/bf02671961) | Table II, p. 2, row 10 |  |
-| 972.5 | peritectic: Liquid + CuZn-γ -> bcc-A2 | Liquid: Zn 0.802; CuZn-γ: Zn 0.678; bcc-A2: Zn 0.719 | unspecified | [4] Hämäläinen 1998 | Table I, p. 206, row 3 |  |
-| 972 | L + γ = δ | L: Zn 0.801; γ: Zn 0.669; δ: Zn 0.72 | model | [1] Wang 2011 | Table 2, p. 3, row 6 |  |
-| 873.4 | peritectic: Liquid + bcc-A2 -> hcp-A3 | Liquid: Zn 0.882; bcc-A2: Zn 0.773; hcp-A3: Zn 0.792 | unspecified | [4] Hämäläinen 1998 | Table I, p. 206, row 4 |  |
-| 873 | L + δ = ϵ | L: Zn 0.88; δ: Zn 0.77; ϵ: Zn 0.781 | experimental | [1] Wang 2011; _cites Massalski 1986_ | Table 2, p. 3, row 7 |  |
-| 873 | δ + L ↔ ϵ | ϵ: Zn 0.792 | model | [2] Gierlotka 2008; _cites Kowalski 1993_ [doi](https://doi.org/10.1007/bf02671961) | Table II, p. 2, row 14 |  |
-| 873 | peritectic: δ + L -> ε | δ: Zn 0.773; ε: Zn 0.792; L: Zn 0.882 | model | [3] Kowalski 1993 | Table 1, p. 1, row 8 |  |
-| 873 | δ + L ↔ ϵ | ϵ: Zn 0.792 | model | [2] Gierlotka 2008 | Table II, p. 2, row 16 |  |
-| 872 | δ + L ↔ ϵ | ϵ: Zn 0.792 | model | [2] Gierlotka 2008 | Table II, p. 2, row 15 |  |
-| 872 | peritectic: δ + L ↔ ε | δ: Zn 0.773; L: Zn 0.892; ε: Zn 0.795 | model | [5] David 2003 | Table 1, p. 2, row 8 |  |
-| 872 | L + δ = ϵ | L: Zn 0.881; δ: Zn 0.775; ϵ: Zn 0.793 | model | [1] Wang 2011 | Table 2, p. 3, row 8 |  |
-| 871 | peritectic: δ + L ↔ ε | δ: Zn 0.76; L: Zn 0.879; ε: Zn 0.78 | model | [5] David 2003; _cites Miodownik 1994_ | Table 1, p. 2, row 7 |  |
-| 871 | peritectic: δ + L -> ε | δ: Zn 0.76; ε: Zn 0.781; L: Zn 0.88 | experimental | [3] Kowalski 1993; _cites Massalski 1986_ | Table 1, p. 1, row 7 |  |
-| 871 | δ + L ↔ ϵ | δ: Zn 0.781 | model | [2] Gierlotka 2008; _cites Massalski 1986_ | Table II, p. 2, row 13 |  |
-| 834 | δ = γ + ϵ | δ: Zn 0.751; γ: Zn 0.687; ϵ: Zn 0.778 | model | [1] Wang 2011 | Table 2, p. 3, row 10 |  |
-| 833 | δ + γ ↔ ϵ | δ: Zn 0.74; γ: Zn 0.615385 | model | [2] Gierlotka 2008; _cites Massalski 1986_ | Table II, p. 2, row 21 |  |
-| 833 | other: δ ↔ γ + ε | δ: Zn 0.743; γ: Zn 0.69; ε: Zn 0.776 | model | [5] David 2003 | Table 1, p. 2, row 10 |  |
-| 833 | other: δ ↔ γ + ε | δ: Zn 0.735; γ: Zn 0.7; ε: Zn 0.78 | model | [5] David 2003; _cites Miodownik 1994_ | Table 1, p. 2, row 9 |  |
-| 832 | δ + γ ↔ ϵ | δ: Zn 0.749; γ: Zn 0.615385 | model | [2] Gierlotka 2008; _cites Kowalski 1993_ [doi](https://doi.org/10.1007/bf02671961) | Table II, p. 2, row 22 |  |
-| 832 | δ + γ ↔ ϵ | δ: Zn 0.748; γ: Zn 0.615385 | model | [2] Gierlotka 2008 | Table II, p. 2, row 23 |  |
-| 832 | δ + γ ↔ ϵ | δ: Zn 0.749; γ: Zn 0.615385 | model | [2] Gierlotka 2008 | Table II, p. 2, row 24 |  |
-| 832 | eutectoid: δ -> γ + ε | γ: Zn 0.693; δ: Zn 0.749; ε: Zn 0.777 | model | [3] Kowalski 1993 | Table 1, p. 1, row 12 |  |
-| 832 | δ = γ + ϵ | δ: Zn 0.748; γ: Zn 0.7; ϵ: Zn 0.78 | experimental | [1] Wang 2011; _cites Massalski 1986_ | Table 2, p. 3, row 9 |  |
-| 831.9 | eutectoid: bcc-A2 -> CuZn-γ + hcp-A3 | bcc-A2: Zn 0.748; CuZn-γ: Zn 0.693; hcp-A3: Zn 0.777 | unspecified | [4] Hämäläinen 1998 | Table I, p. 206, row 5 |  |
-| 831 | eutectoid: δ -> γ + ε | γ: Zn 0.7; δ: Zn 0.74; ε: Zn 0.78 | experimental | [3] Kowalski 1993; _cites Massalski 1986_ | Table 1, p. 1, row 11 |  |
-| 698 | peritectic: ε + L ↔ η | ε: Zn 0.88; L: Zn 0.9825; η: Zn 0.9717 | model | [5] David 2003; _cites Miodownik 1994_ | Table 1, p. 2, row 11 |  |
-| 698 | ϵ + L ↔ (Zn) | ϵ: Zn 0.972 | model | [2] Gierlotka 2008; _cites Massalski 1986_ | Table II, p. 2, row 17 |  |
-| 698 | peritectic: ε + L ↔ η | ε: Zn 0.874; L: Zn 0.9835; η: Zn 0.976 | model | [5] David 2003 | Table 1, p. 2, row 12 |  |
-| 697 | peritectic: ε + L -> (Zn) | ε: Zn 0.872; (Zn): Zn 0.972; L: Zn 0.983 | experimental | [3] Kowalski 1993; _cites Massalski 1986_ | Table 1, p. 1, row 9 |  |
-| 695 | peritectic: ε + L -> (Zn) | ε: Zn 0.875; (Zn): Zn 0.981; L: Zn 0.983 | model | [3] Kowalski 1993 | Table 1, p. 1, row 10 |  |
-| 695 | ϵ + L ↔ (Zn) | (Zn): Zn 0.981 | model | [2] Gierlotka 2008; _cites Kowalski 1993_ [doi](https://doi.org/10.1007/bf02671961) | Table II, p. 2, row 18 |  |
-| 695 | L + ϵ = (Zn) | L: Zn 0.983; ϵ: Zn 0.872; (Zn): Zn 0.972 | experimental | [1] Wang 2011; _cites Massalski 1986_ | Table 2, p. 3, row 11 |  |
-| 694.4 | peritectic: Liquid + hcp-A3 -> hcp-Zn | Liquid: Zn 0.983; hcp-A3: Zn 0.874; hcp-Zn: Zn 0.981 | unspecified | [4] Hämäläinen 1998 | Table I, p. 206, row 6 |  |
-| 694 | L + ϵ = (Zn) | L: Zn 0.982; ϵ: Zn 0.874; (Zn): Zn 0.981 | model | [1] Wang 2011 | Table 2, p. 3, row 12 |  |
-| 692 | ϵ + L ↔ (Zn) | (Zn): Zn 0.983 | model | [2] Gierlotka 2008 | Table II, p. 2, row 20 |  |
-| 692 | ϵ + L ↔ (Zn) | (Zn): Zn 0.981 | model | [2] Gierlotka 2008 | Table II, p. 2, row 19 |  |
+| 1176 | L + α = β | L: Zn 0.368; α: Zn 0.319; β: Zn 0.361 | experimental | [1] Wang 2011; _cites Massalski 1986_ | Table 2, p. 3, row 1; `ORC-3FM2R4KIXA` |  |
+| 1176 | (Cu) + L ↔ β | β: Zn 0.353 | model | [2] Gierlotka 2008; _cites Kowalski 1993_ [doi](https://doi.org/10.1007/bf02671961) | Table II, p. 2, row 2; `ORC-A2CJALOMMD` |  |
+| 1176 | peritectic: (Cu) + L -> β | (Cu): Zn 0.319; β: Zn 0.361; L: Zn 0.368 | experimental | [3] Kowalski 1993; _cites Massalski 1986_ | Table 1, p. 1, row 1; `ORC-R25F7MOM2D` |  |
+| 1176 | peritectic: (Cu) + L -> β | (Cu): Zn 0.319; β: Zn 0.353; L: Zn 0.373 | model | [3] Kowalski 1993 | Table 1, p. 1, row 2; `ORC-WXLIYJNK5F` |  |
+| 1176 | L + α = β | L: Zn 0.384; α: Zn 0.327; β: Zn 0.361 | model | [1] Wang 2011 | Table 2, p. 3, row 2; `ORC-ZH4UCJG25Z` |  |
+| 1175.3 | peritectic: Liquid + fcc-A1 -> bcc-A2 | Liquid: Zn 0.373; fcc-A1: Zn 0.319; bcc-A2: Zn 0.353 | unspecified | [4] Hämäläinen 1998 | Table I, p. 206, row 1; `ORC-BZJO3MY5DE` |  |
+| 1175 | peritectic: α + L ↔ β | α: Zn 0.319; L: Zn 0.372; β: Zn 0.351 | model | [5] David 2003 | Table 1, p. 2, row 2; `ORC-CR2YVUZN2D` |  |
+| 1175 | (Cu) + L ↔ β | (Cu): Zn 0.361 | model | [2] Gierlotka 2008; _cites Massalski 1986_ | Table II, p. 2, row 1; `ORC-PP3UYSB2WV` |  |
+| 1175 | peritectic: α + L ↔ β | α: Zn 0.319; L: Zn 0.368; β: Zn 0.361 | model | [5] David 2003; _cites Miodownik 1994_ | Table 1, p. 2, row 1; `ORC-UYVKURBRRL` |  |
+| 1174 | (Cu) + L ↔ β | β: Zn 0.354 | model | [2] Gierlotka 2008 | Table II, p. 2, row 3; `ORC-6ZB6J6JUVY` |  |
+| 1173 | (Cu) + L ↔ β | β: Zn 0.358 | model | [2] Gierlotka 2008 | Table II, p. 2, row 4; `ORC-T33WOT3WKF` |  |
+| 1110 | peritectic: β + L ↔ γ | β: Zn 0.572; L: Zn 0.606; γ: Zn 0.599 | model | [5] David 2003 | Table 1, p. 2, row 4; `ORC-MMVWC3PTR5` |  |
+| 1108.3 | peritectic: Liquid + bcc-A2 -> CuZn-γ | Liquid: Zn 0.592; bcc-A2: Zn 0.558; CuZn-γ: Zn 0.586 | unspecified | [4] Hämäläinen 1998 | Table I, p. 206, row 2; `ORC-6WYGLB4MDP` |  |
+| 1108 | peritectic: β + L -> γ | β: Zn 0.558; γ: Zn 0.591; L: Zn 0.591 | experimental | [3] Kowalski 1993; _cites Massalski 1986_ | Table 1, p. 1, row 3; `ORC-7MYX3GW4YJ` |  |
+| 1108 | β + L ↔ γ | γ: Zn 0.586 | model | [2] Gierlotka 2008; _cites Kowalski 1993_ [doi](https://doi.org/10.1007/bf02671961) | Table II, p. 2, row 6; `ORC-CXFIMYL4NV` |  |
+| 1108 | L + β = γ | L: Zn 0.592; β: Zn 0.554; γ: Zn 0.591 | model | [1] Wang 2011 | Table 2, p. 3, row 4; `ORC-LKH5RKCQ46` |  |
+| 1108 | peritectic: β + L -> γ | β: Zn 0.558; γ: Zn 0.586; L: Zn 0.592 | model | [3] Kowalski 1993 | Table 1, p. 1, row 4; `ORC-M6QHYOYIGJ` |  |
+| 1108 | L + β = γ | L: Zn 0.591; β: Zn 0.558; γ: Zn 0.586 | experimental | [1] Wang 2011; _cites Massalski 1986_ | Table 2, p. 3, row 3; `ORC-Z3YCQHTEAM` |  |
+| 1107 | peritectic: β + L ↔ γ | β: Zn 0.558; L: Zn 0.591; γ: Zn 0.591 | model | [5] David 2003; _cites Miodownik 1994_ | Table 1, p. 2, row 3; `ORC-5GHZW4D45U` |  |
+| 1107 | β + L ↔ γ | γ: Zn 0.587 | model | [2] Gierlotka 2008 | Table II, p. 2, row 8; `ORC-JWJ32NY6LU.3bf546` |  |
+| 1107 | β + L ↔ γ | γ: Zn 0.585 | model | [2] Gierlotka 2008 | Table II, p. 2, row 7; `ORC-JWJ32NY6LU.e9222d` |  |
+| 1107 | β + L ↔ γ | β: Zn 0.591; γ: Zn 0.615385 | model | [2] Gierlotka 2008; _cites Massalski 1986_ | Table II, p. 2, row 5; `ORC-UVA5DUYGOG` |  |
+| 976 | γ + L ↔ δ | γ: Zn 0.615385; δ: Zn 0.72 | model | [2] Gierlotka 2008 | Table II, p. 2, row 12; `ORC-RQIBIQIUEM` |  |
+| 973 | peritectic: γ + L ↔ δ | γ: Zn 0.689; L: Zn 0.82; δ: Zn 0.725 | model | [5] David 2003 | Table 1, p. 2, row 6; `ORC-3SRKYKLTSU` |  |
+| 973 | γ + L ↔ δ | γ: Zn 0.724 | model | [2] Gierlotka 2008 | Table II, p. 2, row 11; `ORC-6ILJ7HC237` |  |
+| 973 | γ + L ↔ δ | γ: Zn 0.724 | model | [2] Gierlotka 2008; _cites Massalski 1986_ | Table II, p. 2, row 9; `ORC-ABMRTEH4VB` |  |
+| 973 | L + γ = δ | L: Zn 0.8; γ: Zn 0.692; δ: Zn 0.724 | experimental | [1] Wang 2011; _cites Massalski 1986_ | Table 2, p. 3, row 5; `ORC-JKMXFCT3VQ` |  |
+| 973 | peritectic: γ + L ↔ δ | γ: Zn 0.692; L: Zn 0.798; δ: Zn 0.7245 | model | [5] David 2003; _cites Miodownik 1994_ | Table 1, p. 2, row 5; `ORC-OPEX6U7YZY` |  |
+| 973 | peritectic: γ + L -> δ | γ: Zn 0.692; δ: Zn 0.724; L: Zn 0.8 | experimental | [3] Kowalski 1993; _cites Massalski 1986_ | Table 1, p. 1, row 5; `ORC-PPXFTEWOYA` |  |
+| 973 | peritectic: γ + L -> δ | γ: Zn 0.678; δ: Zn 0.719; L: Zn 0.802 | model | [3] Kowalski 1993 | Table 1, p. 1, row 6; `ORC-TKXHJKVVRV` |  |
+| 973 | γ + L ↔ δ | γ: Zn 0.615385; δ: Zn 0.719 | model | [2] Gierlotka 2008; _cites Kowalski 1993_ [doi](https://doi.org/10.1007/bf02671961) | Table II, p. 2, row 10; `ORC-TUEF6C3LVX` |  |
+| 972.5 | peritectic: Liquid + CuZn-γ -> bcc-A2 | Liquid: Zn 0.802; CuZn-γ: Zn 0.678; bcc-A2: Zn 0.719 | unspecified | [4] Hämäläinen 1998 | Table I, p. 206, row 3; `ORC-NZ4PLNXIU6` |  |
+| 972 | L + γ = δ | L: Zn 0.801; γ: Zn 0.669; δ: Zn 0.72 | model | [1] Wang 2011 | Table 2, p. 3, row 6; `ORC-P5PZLDWVFN` |  |
+| 873.4 | peritectic: Liquid + bcc-A2 -> hcp-A3 | Liquid: Zn 0.882; bcc-A2: Zn 0.773; hcp-A3: Zn 0.792 | unspecified | [4] Hämäläinen 1998 | Table I, p. 206, row 4; `ORC-AKQK76C7PM` |  |
+| 873 | L + δ = ϵ | L: Zn 0.88; δ: Zn 0.77; ϵ: Zn 0.781 | experimental | [1] Wang 2011; _cites Massalski 1986_ | Table 2, p. 3, row 7; `ORC-3BQ7W7TANQ` |  |
+| 873 | δ + L ↔ ϵ | ϵ: Zn 0.792 | model | [2] Gierlotka 2008; _cites Kowalski 1993_ [doi](https://doi.org/10.1007/bf02671961) | Table II, p. 2, row 14; `ORC-6UR7IVAYHG` |  |
+| 873 | peritectic: δ + L -> ε | δ: Zn 0.773; ε: Zn 0.792; L: Zn 0.882 | model | [3] Kowalski 1993 | Table 1, p. 1, row 8; `ORC-INNJTZKG6T` |  |
+| 873 | δ + L ↔ ϵ | ϵ: Zn 0.792 | model | [2] Gierlotka 2008 | Table II, p. 2, row 16; `ORC-Q5FGSGQ5YV` |  |
+| 872 | δ + L ↔ ϵ | ϵ: Zn 0.792 | model | [2] Gierlotka 2008 | Table II, p. 2, row 15; `ORC-2IAERNKEGJ` |  |
+| 872 | peritectic: δ + L ↔ ε | δ: Zn 0.773; L: Zn 0.892; ε: Zn 0.795 | model | [5] David 2003 | Table 1, p. 2, row 8; `ORC-AL4OPNOO4J` |  |
+| 872 | L + δ = ϵ | L: Zn 0.881; δ: Zn 0.775; ϵ: Zn 0.793 | model | [1] Wang 2011 | Table 2, p. 3, row 8; `ORC-WG3KBK6VWF` |  |
+| 871 | peritectic: δ + L ↔ ε | δ: Zn 0.76; L: Zn 0.879; ε: Zn 0.78 | model | [5] David 2003; _cites Miodownik 1994_ | Table 1, p. 2, row 7; `ORC-DEEDM6Q6HQ` |  |
+| 871 | peritectic: δ + L -> ε | δ: Zn 0.76; ε: Zn 0.781; L: Zn 0.88 | experimental | [3] Kowalski 1993; _cites Massalski 1986_ | Table 1, p. 1, row 7; `ORC-TPKZ2UPPEM` |  |
+| 871 | δ + L ↔ ϵ | δ: Zn 0.781 | model | [2] Gierlotka 2008; _cites Massalski 1986_ | Table II, p. 2, row 13; `ORC-XWN6EM3RWT` |  |
+| 834 | δ = γ + ϵ | δ: Zn 0.751; γ: Zn 0.687; ϵ: Zn 0.778 | model | [1] Wang 2011 | Table 2, p. 3, row 10; `ORC-NSRXDFSMR4` |  |
+| 833 | δ + γ ↔ ϵ | δ: Zn 0.74; γ: Zn 0.615385 | model | [2] Gierlotka 2008; _cites Massalski 1986_ | Table II, p. 2, row 21; `ORC-7ARL5VEBYI` |  |
+| 833 | other: δ ↔ γ + ε | δ: Zn 0.743; γ: Zn 0.69; ε: Zn 0.776 | model | [5] David 2003 | Table 1, p. 2, row 10; `ORC-JLVSYWN3V6` |  |
+| 833 | other: δ ↔ γ + ε | δ: Zn 0.735; γ: Zn 0.7; ε: Zn 0.78 | model | [5] David 2003; _cites Miodownik 1994_ | Table 1, p. 2, row 9; `ORC-NYVP7ZS4TE` |  |
+| 832 | δ + γ ↔ ϵ | δ: Zn 0.749; γ: Zn 0.615385 | model | [2] Gierlotka 2008; _cites Kowalski 1993_ [doi](https://doi.org/10.1007/bf02671961) | Table II, p. 2, row 22; `ORC-ELCUHRPO33` |  |
+| 832 | δ + γ ↔ ϵ | δ: Zn 0.748; γ: Zn 0.615385 | model | [2] Gierlotka 2008 | Table II, p. 2, row 23; `ORC-G4AU3M3FMR.020442` |  |
+| 832 | δ + γ ↔ ϵ | δ: Zn 0.749; γ: Zn 0.615385 | model | [2] Gierlotka 2008 | Table II, p. 2, row 24; `ORC-G4AU3M3FMR.925454` |  |
+| 832 | eutectoid: δ -> γ + ε | γ: Zn 0.693; δ: Zn 0.749; ε: Zn 0.777 | model | [3] Kowalski 1993 | Table 1, p. 1, row 12; `ORC-MAOHMCXBEB` |  |
+| 832 | δ = γ + ϵ | δ: Zn 0.748; γ: Zn 0.7; ϵ: Zn 0.78 | experimental | [1] Wang 2011; _cites Massalski 1986_ | Table 2, p. 3, row 9; `ORC-WYCBKTYI4P` |  |
+| 831.9 | eutectoid: bcc-A2 -> CuZn-γ + hcp-A3 | bcc-A2: Zn 0.748; CuZn-γ: Zn 0.693; hcp-A3: Zn 0.777 | unspecified | [4] Hämäläinen 1998 | Table I, p. 206, row 5; `ORC-I6CNE4I7GW` |  |
+| 831 | eutectoid: δ -> γ + ε | γ: Zn 0.7; δ: Zn 0.74; ε: Zn 0.78 | experimental | [3] Kowalski 1993; _cites Massalski 1986_ | Table 1, p. 1, row 11; `ORC-ZEHQ2UW4Y5` |  |
+| 698 | peritectic: ε + L ↔ η | ε: Zn 0.88; L: Zn 0.9825; η: Zn 0.9717 | model | [5] David 2003; _cites Miodownik 1994_ | Table 1, p. 2, row 11; `ORC-DAH4JDI3J4` |  |
+| 698 | ϵ + L ↔ (Zn) | ϵ: Zn 0.972 | model | [2] Gierlotka 2008; _cites Massalski 1986_ | Table II, p. 2, row 17; `ORC-O77H4HV3U2` |  |
+| 698 | peritectic: ε + L ↔ η | ε: Zn 0.874; L: Zn 0.9835; η: Zn 0.976 | model | [5] David 2003 | Table 1, p. 2, row 12; `ORC-Q5KLICOGKX` |  |
+| 697 | peritectic: ε + L -> (Zn) | ε: Zn 0.872; (Zn): Zn 0.972; L: Zn 0.983 | experimental | [3] Kowalski 1993; _cites Massalski 1986_ | Table 1, p. 1, row 9; `ORC-MIPI6HYFV4` |  |
+| 695 | peritectic: ε + L -> (Zn) | ε: Zn 0.875; (Zn): Zn 0.981; L: Zn 0.983 | model | [3] Kowalski 1993 | Table 1, p. 1, row 10; `ORC-EQNIH4PLYZ` |  |
+| 695 | ϵ + L ↔ (Zn) | (Zn): Zn 0.981 | model | [2] Gierlotka 2008; _cites Kowalski 1993_ [doi](https://doi.org/10.1007/bf02671961) | Table II, p. 2, row 18; `ORC-PQTAAQKYV5` |  |
+| 695 | L + ϵ = (Zn) | L: Zn 0.983; ϵ: Zn 0.872; (Zn): Zn 0.972 | experimental | [1] Wang 2011; _cites Massalski 1986_ | Table 2, p. 3, row 11; `ORC-YLLF5AYDTP` |  |
+| 694.4 | peritectic: Liquid + hcp-A3 -> hcp-Zn | Liquid: Zn 0.983; hcp-A3: Zn 0.874; hcp-Zn: Zn 0.981 | unspecified | [4] Hämäläinen 1998 | Table I, p. 206, row 6; `ORC-GBMFRJF3H5` |  |
+| 694 | L + ϵ = (Zn) | L: Zn 0.982; ϵ: Zn 0.874; (Zn): Zn 0.981 | model | [1] Wang 2011 | Table 2, p. 3, row 12; `ORC-MPHLT6T34B` |  |
+| 692 | ϵ + L ↔ (Zn) | (Zn): Zn 0.983 | model | [2] Gierlotka 2008 | Table II, p. 2, row 20; `ORC-3VS2PICAOR.0763f2` |  |
+| 692 | ϵ + L ↔ (Zn) | (Zn): Zn 0.981 | model | [2] Gierlotka 2008 | Table II, p. 2, row 19; `ORC-3VS2PICAOR.85ad27` |  |
 
 ## Other properties
 
@@ -176,8 +176,8 @@ Table: Phase transition, Cu–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 729 K | 729 |  | model | [2] Gierlotka 2008 | p. 1 | “Order-disorder transformation of the ␤⬘-␤ phase has been investigated,14,15 and the reactions are at 729 K and 741 K of compositions xZn ⳱ 0.448 and xZn ⳱ 0.482, respectively.” |
-| Phase transition | 741 K | 741 |  | model | [2] Gierlotka 2008 | p. 1 | “Order-disorder transformation of the ␤⬘-␤ phase has been investigated,14,15 and the reactions are at 729 K and 741 K of compositions xZn ⳱ 0.448 and xZn ⳱ 0.482, respectively.” |
+| Phase transition | 729 K | 729 |  | model | [2] Gierlotka 2008 | p. 1; `ORC-YB7XCURD6O.09628f` | “Order-disorder transformation of the ␤⬘-␤ phase has been investigated,14,15 and the reactions are at 729 K and 741 K of compositions xZn ⳱ 0.448 and xZn ⳱ 0.482, respectively.” |
+| Phase transition | 741 K | 741 |  | model | [2] Gierlotka 2008 | p. 1; `ORC-YB7XCURD6O.b7218b` | “Order-disorder transformation of the ␤⬘-␤ phase has been investigated,14,15 and the reactions are at 729 K and 741 K of compositions xZn ⳱ 0.448 and xZn ⳱ 0.482, respectively.” |
 
 ### Activity / EMF / Gibbs energy (1)
 
@@ -185,7 +185,7 @@ Table: Activity / EMF / Gibbs energy, Cu–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| EMF; _printed: electromotive force_ | 0.6 unspecified ± 0.1 | 696 |  | experimental | [5] David 2003 | p. 6 | “The measured invariant point is situated at 0.6 (± 0.10) mV and 696 K.” |
+| EMF; _printed: electromotive force_ | 0.6 unspecified ± 0.1 | 696 |  | experimental | [5] David 2003 | p. 6; `ORC-2RQYGC27FN` | “The measured invariant point is situated at 0.6 (± 0.10) mV and 696 K.” |
 
 ## Sources
 
@@ -254,4 +254,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

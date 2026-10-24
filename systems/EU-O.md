@@ -46,8 +46,8 @@ Table: Enthalpies of formation, Eu–O system (2)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| B-Eu2O3 | [Eu2O3](https://data.orchid-project.org/compounds/Eu2O3.html) | -330.08 kJ/mol-atom | 298.15 | model | -307.248 (mp-aaacphfp) | -276.415 (oqmd-1820519) | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 4 |  |
-| C-Eu2O3 | [Eu2O3](https://data.orchid-project.org/compounds/Eu2O3.html) | -331.316 kJ/mol-atom | 298.15 | model | -307.248 (mp-aaacphfp) | -276.415 (oqmd-1820519) | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 3 |  |
+| B-Eu2O3 | [Eu2O3](https://data.orchid-project.org/compounds/Eu2O3.html) | -330.08 kJ/mol-atom | 298.15 | model | -307.248 (mp-aaacphfp) | -276.415 (oqmd-1820519) | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 4; `ORC-3JIUNWIIPB.3e5e30` |  |
+| C-Eu2O3 | [Eu2O3](https://data.orchid-project.org/compounds/Eu2O3.html) | -331.316 kJ/mol-atom | 298.15 | model | -307.248 (mp-aaacphfp) | -276.415 (oqmd-1820519) | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 3; `ORC-7NJDDFMGN7.04db11` |  |
 
 ## Other properties
 
@@ -57,18 +57,18 @@ Table: Phase transition, Eu–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 298.15 K | 298.15 | polymorphic: B ⇒ A; _alloy: Eu 0.4, O 0.6_ | unspecified | [1] ZINKEVICH 2007; _cites Chen 1994_ | Table 2.3, p. 10, row 11 |  |
-| Phase transition | 298.15 K | 298.15 | polymorphic: C ⇒ B; _alloy: Eu 0.4, O 0.6_ | unspecified | [1] ZINKEVICH 2007; _cites Chen 1992_ | Table 2.3, p. 10, row 10 |  |
-| Phase transition | 894 K | 894 | polymorphic: C \<=> B; _alloy: Eu 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 2.2, p. 8, row 2 |  |
-| Phase transition | 2323 K | 2323 | polymorphic: B \<=> A; _alloy: Eu 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 2.2, p. 8, row 8 |  |
-| Phase transition | 2323 K | 2323 | polymorphic: B ⟺ A; _alloy: Eu 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Foex 1966_ | Table 2.1, p. 6, row 56 |  |
-| Phase transition | 2323 K | 2323 | polymorphic: B ⟺ A; _alloy: Eu 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Andrievskaya 1997_ | Table 2.1, p. 6, row 59 |  |
-| Phase transition | 2413 K | 2413 | polymorphic: A \<=> H; _alloy: Eu 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 2.2, p. 8, row 15 |  |
-| Phase transition | 2413 K | 2413 | polymorphic: A ⟺ H; _alloy: Eu 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Andrievskaya 1997_ | Table 2.1, p. 6, row 60 |  |
-| Phase transition | 2413 K | 2413 | polymorphic: A ⟺ H; _alloy: Eu 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Foex 1966_ | Table 2.1, p. 6, row 57 |  |
-| Phase transition | 2543 K | 2543 | polymorphic: H \<=> X; _alloy: Eu 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 2.2, p. 8, row 29 |  |
-| Phase transition | 2543 K | 2543 | polymorphic: H ⟺ X; _alloy: Eu 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Andrievskaya 1997_ | Table 2.1, p. 6, row 61 |  |
-| Phase transition | 2543 K | 2543 | polymorphic: H ⟺ X; _alloy: Eu 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Foex 1966_ | Table 2.1, p. 6, row 58 |  |
+| Phase transition | 298.15 K | 298.15 | polymorphic: B ⇒ A; _alloy: Eu 0.4, O 0.6_ | unspecified | [1] ZINKEVICH 2007; _cites Chen 1994_ | Table 2.3, p. 10, row 11; `ORC-7PYRQTP6I5` |  |
+| Phase transition | 298.15 K | 298.15 | polymorphic: C ⇒ B; _alloy: Eu 0.4, O 0.6_ | unspecified | [1] ZINKEVICH 2007; _cites Chen 1992_ | Table 2.3, p. 10, row 10; `ORC-3FQVVJKBMP` |  |
+| Phase transition | 894 K | 894 | polymorphic: C \<=> B; _alloy: Eu 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 2.2, p. 8, row 2; `ORC-K5Z3HC5VLC` |  |
+| Phase transition | 2323 K | 2323 | polymorphic: B \<=> A; _alloy: Eu 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 2.2, p. 8, row 8; `ORC-F5BY7TOI75` |  |
+| Phase transition | 2323 K | 2323 | polymorphic: B ⟺ A; _alloy: Eu 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Foex 1966_ | Table 2.1, p. 6, row 56; `ORC-L6FI6H2VCX` |  |
+| Phase transition | 2323 K | 2323 | polymorphic: B ⟺ A; _alloy: Eu 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Andrievskaya 1997_ | Table 2.1, p. 6, row 59; `ORC-XBFDBZYABG` |  |
+| Phase transition | 2413 K | 2413 | polymorphic: A \<=> H; _alloy: Eu 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 2.2, p. 8, row 15; `ORC-3F222JU7NB` |  |
+| Phase transition | 2413 K | 2413 | polymorphic: A ⟺ H; _alloy: Eu 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Andrievskaya 1997_ | Table 2.1, p. 6, row 60; `ORC-AQWEXX6TBF` |  |
+| Phase transition | 2413 K | 2413 | polymorphic: A ⟺ H; _alloy: Eu 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Foex 1966_ | Table 2.1, p. 6, row 57; `ORC-GGWQMQPL6K` |  |
+| Phase transition | 2543 K | 2543 | polymorphic: H \<=> X; _alloy: Eu 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 2.2, p. 8, row 29; `ORC-M5SMM6BACI` |  |
+| Phase transition | 2543 K | 2543 | polymorphic: H ⟺ X; _alloy: Eu 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Andrievskaya 1997_ | Table 2.1, p. 6, row 61; `ORC-KBZUWDCZJD` |  |
+| Phase transition | 2543 K | 2543 | polymorphic: H ⟺ X; _alloy: Eu 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Foex 1966_ | Table 2.1, p. 6, row 58; `ORC-ONANBS2MJZ` |  |
 
 ### Heat capacity / entropy / enthalpy (9)
 
@@ -76,15 +76,15 @@ Table: Heat capacity / entropy / enthalpy, Eu–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: ΔS_ | 1.504 J mol−1 K−1 |  | Eu2O3; _alloy: Eu 0.4, O 0.6_ | unspecified | [1] ZINKEVICH 2007; _cites Chen 1994_ | Table 5.1, p. 18, row 11 |  |
-| Entropy; _printed: ΔS_ | 1.504 J mol^-1 K^-1 |  | UNKNOWN; _alloy: Eu 0.4, O 0.6_ | unspecified | [1] ZINKEVICH 2007; _cites Chen 1994_ | Table 5.1, p. 18, row 11 |  |
-| Entropy; _printed: °S_ | 142.74 unknown | 298.15 | B-Eu₂O₃; _alloy: Eu 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 4 |  |
-| Entropy; _printed: °S_ | 134.61 unknown | 298.15 | C-Eu2O3; _alloy: Eu 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 3 |  |
-| Entropy; _printed: Δtrs°S_ | 4.914 unknown | 894.5 | B-Eu₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 5 |  |
-| Entropy; _printed: Δtrs°S_ | 1.504 unknown | 2323 | B-Eu₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 6 |  |
-| Entropy; _printed: Δtrs°S_ | 13.986 unknown | 2413 | B-Eu₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 7 |  |
-| Entropy; _printed: Δtrs°S_ | 4.569 unknown | 2543 | B-Eu₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 8 |  |
-| Entropy; _printed: Δtrs°S_ | 41.663 unknown | 2623 | B-Eu₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 9 |  |
+| Entropy; _printed: ΔS_ | 1.504 J mol−1 K−1 |  | Eu2O3; _alloy: Eu 0.4, O 0.6_ | unspecified | [1] ZINKEVICH 2007; _cites Chen 1994_ | Table 5.1, p. 18, row 11; `ORC-N4H5USPOXX.4f3f5d` |  |
+| Entropy; _printed: ΔS_ | 1.504 J mol^-1 K^-1 |  | UNKNOWN; _alloy: Eu 0.4, O 0.6_ | unspecified | [1] ZINKEVICH 2007; _cites Chen 1994_ | Table 5.1, p. 18, row 11; `ORC-N4H5USPOXX.b6104c` |  |
+| Entropy; _printed: °S_ | 142.74 unknown | 298.15 | B-Eu₂O₃; _alloy: Eu 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 4; `ORC-3JIUNWIIPB.081472` |  |
+| Entropy; _printed: °S_ | 134.61 unknown | 298.15 | C-Eu2O3; _alloy: Eu 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 3; `ORC-7NJDDFMGN7.550a50` |  |
+| Entropy; _printed: Δtrs°S_ | 4.914 unknown | 894.5 | B-Eu₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 5; `ORC-UDGT56WBUL.89a392` |  |
+| Entropy; _printed: Δtrs°S_ | 1.504 unknown | 2323 | B-Eu₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 6; `ORC-DPFFHRNESO.0ff869` |  |
+| Entropy; _printed: Δtrs°S_ | 13.986 unknown | 2413 | B-Eu₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 7; `ORC-BJZ6JJ6UOO.789658` |  |
+| Entropy; _printed: Δtrs°S_ | 4.569 unknown | 2543 | B-Eu₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 8; `ORC-RCR7Q2WBNQ.badc26` |  |
+| Entropy; _printed: Δtrs°S_ | 41.663 unknown | 2623 | B-Eu₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 9; `ORC-I4UHZRA2SK.179532` |  |
 
 ### Crystal structure (3)
 
@@ -92,9 +92,9 @@ Table: Crystal structure, Eu–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| lattice molar volume | 44.246 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Eu 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 9 |  |
-| lattice molar volume | 43.538 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Eu 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 9 |  |
-| lattice molar volume | 48.328 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Eu 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 9 |  |
+| lattice molar volume | 44.246 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Eu 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 9; `ORC-MTQ4AYYXWR.2ab402` |  |
+| lattice molar volume | 43.538 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Eu 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 9; `ORC-MTQ4AYYXWR.966210` |  |
+| lattice molar volume | 48.328 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Eu 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 9; `ORC-MTQ4AYYXWR.f38ebe` |  |
 
 ### Other property (5)
 
@@ -102,11 +102,11 @@ Table: Other property, Eu–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Transition enthalpy; _printed: Δtrs°H_ | 4395 unknown | 894.5 | B-Eu₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 5 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 3494 unknown | 2323 | B-Eu₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 6 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 33748 unknown | 2413 | B-Eu₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 7 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 11619 unknown | 2543 | B-Eu₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 8 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 109282 unknown | 2623 | B-Eu₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 9 |  |
+| Transition enthalpy; _printed: Δtrs°H_ | 4395 unknown | 894.5 | B-Eu₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 5; `ORC-UDGT56WBUL.4a9c9f` |  |
+| Transition enthalpy; _printed: Δtrs°H_ | 3494 unknown | 2323 | B-Eu₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 6; `ORC-DPFFHRNESO.fd3c19` |  |
+| Transition enthalpy; _printed: Δtrs°H_ | 33748 unknown | 2413 | B-Eu₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 7; `ORC-BJZ6JJ6UOO.204624` |  |
+| Transition enthalpy; _printed: Δtrs°H_ | 11619 unknown | 2543 | B-Eu₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 8; `ORC-RCR7Q2WBNQ.cffa4a` |  |
+| Transition enthalpy; _printed: Δtrs°H_ | 109282 unknown | 2623 | B-Eu₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 9; `ORC-I4UHZRA2SK.115d89` |  |
 
 ## Sources
 
@@ -171,4 +171,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

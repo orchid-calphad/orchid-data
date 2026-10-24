@@ -29,9 +29,9 @@ Table: Invariant reactions reported in the literature for the B–Ca system (3)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1388 | CaB6 + β(B) = α(B) | CaB6: Ca 0.143; β(B): Ca 0; α(B): Ca 0 | model | [1] Shang 2007 | Table 4, p. 5, row 5 |  |
-| 1115 | liq1 = CaB6 + bcc(Ca) | liq1: Ca 1; CaB6: Ca 0.143; bcc(Ca): Ca 1 | model | [1] Shang 2007 | Table 4, p. 5, row 6 |  |
-| 716 | CaB6 + bcc(Ca) = fcc(Ca) | CaB6: Ca 0.143; bcc(Ca): Ca 1; fcc(Ca): Ca 1 | model | [1] Shang 2007 | Table 4, p. 5, row 7 |  |
+| 1388 | CaB6 + β(B) = α(B) | CaB6: Ca 0.143; β(B): Ca 0; α(B): Ca 0 | model | [1] Shang 2007 | Table 4, p. 5, row 5; `ORC-5AROFYWVIF` |  |
+| 1115 | liq1 = CaB6 + bcc(Ca) | liq1: Ca 1; CaB6: Ca 0.143; bcc(Ca): Ca 1 | model | [1] Shang 2007 | Table 4, p. 5, row 6; `ORC-EL4SRXI7FT` |  |
+| 716 | CaB6 + bcc(Ca) = fcc(Ca) | CaB6: Ca 0.143; bcc(Ca): Ca 1; fcc(Ca): Ca 1 | model | [1] Shang 2007 | Table 4, p. 5, row 7; `ORC-YFEUJXC6BR` |  |
 
 ## Formation enthalpies
 
@@ -41,9 +41,9 @@ Table: Enthalpies of formation, B–Ca system (3)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| CaB6 | [CaB6](https://data.orchid-project.org/compounds/CaB6.html) | -41.2015 kJ/mol-atom | 298.15 | model | -39.347 (mp-aaaaabhh) | -39.822 (oqmd-5116) | [1] Shang 2007 | Table 3, p. 3, row 1 |  |
-| CaB6 | [CaB6](https://data.orchid-project.org/compounds/CaB6.html) | -41.1829 kJ/mol-atom | 298.15 | model | -39.347 (mp-aaaaabhh) | -39.822 (oqmd-5116) | [1] Shang 2007 | Table 3, p. 3, row 3 |  |
-| CaB6 | [CaB6](https://data.orchid-project.org/compounds/CaB6.html) | -40.193 kJ/mol-atom | 298.15 | model | -39.347 (mp-aaaaabhh) | -39.822 (oqmd-5116) | [1] Shang 2007 | Table 3, p. 3, row 4 |  |
+| CaB6 | [CaB6](https://data.orchid-project.org/compounds/CaB6.html) | -41.2015 kJ/mol-atom | 298.15 | model | -39.347 (mp-aaaaabhh) | -39.822 (oqmd-5116) | [1] Shang 2007 | Table 3, p. 3, row 1; `ORC-YQYRMYDNK6.1ff180` |  |
+| CaB6 | [CaB6](https://data.orchid-project.org/compounds/CaB6.html) | -41.1829 kJ/mol-atom | 298.15 | model | -39.347 (mp-aaaaabhh) | -39.822 (oqmd-5116) | [1] Shang 2007 | Table 3, p. 3, row 3; `ORC-SNQ6FLFJ4Z.6b8958` |  |
+| CaB6 | [CaB6](https://data.orchid-project.org/compounds/CaB6.html) | -40.193 kJ/mol-atom | 298.15 | model | -39.347 (mp-aaaaabhh) | -39.822 (oqmd-5116) | [1] Shang 2007 | Table 3, p. 3, row 4; `ORC-2QV6UM5WWM.21d819` |  |
 
 ## Other properties
 
@@ -53,9 +53,9 @@ Table: Formation, B–Ca system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy of formation; _printed: ΔfS298_ | 2.67361 J/mol-atom/K | 298.15 | CaB6; _alloy: Ca 0.142857_ | model | [1] Shang 2007 | Table 3, p. 3, row 4 |  |
-| Entropy of formation; _printed: ΔfS298_ | 0.141774 J/mol-atom/K | 298.15 | CaB6; _alloy: Ca 0.142857_ | model | [1] Shang 2007 | Table 3, p. 3, row 3 |  |
-| Entropy of formation; _printed: ΔfS298_ | 0.191183 J/mol-atom/K | 298.15 | CaB6; _alloy: Ca 0.142857_ | model | [1] Shang 2007 | Table 3, p. 3, row 1 |  |
+| Entropy of formation; _printed: ΔfS298_ | 2.67361 J/mol-atom/K | 298.15 | CaB6; _alloy: Ca 0.142857_ | model | [1] Shang 2007 | Table 3, p. 3, row 4; `ORC-2QV6UM5WWM.dd776a` |  |
+| Entropy of formation; _printed: ΔfS298_ | 0.141774 J/mol-atom/K | 298.15 | CaB6; _alloy: Ca 0.142857_ | model | [1] Shang 2007 | Table 3, p. 3, row 3; `ORC-SNQ6FLFJ4Z.563a78` |  |
+| Entropy of formation; _printed: ΔfS298_ | 0.191183 J/mol-atom/K | 298.15 | CaB6; _alloy: Ca 0.142857_ | model | [1] Shang 2007 | Table 3, p. 3, row 1; `ORC-YQYRMYDNK6.6f4c05` |  |
 
 ## Sources
 
@@ -109,4 +109,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

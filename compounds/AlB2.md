@@ -14,11 +14,11 @@ Table: Enthalpy of formation of AlB2 reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -22.3 kJ/mol-atom ± 4.2 | AlB2 | 298.15 | experimental |  | [Al–B](https://data.orchid-project.org/systems/AL-B.html) | [1] Campbell 1999; _cites Domalski 1967_ [doi](https://doi.org/10.6028/jres.071a.037) | Table 7, p. 7, row 1 |  |
-| -50.332 kJ/mol-atom | AlB2 | 298.15 | model |  | [Al–B](https://data.orchid-project.org/systems/AL-B.html) | [1] Campbell 1999; _cites Barin 1989_ | Table 7, p. 7, row 3 |  |
-| -28.603 kJ/mol-atom | AlB2 | 298.15 | model |  | [Al–B](https://data.orchid-project.org/systems/AL-B.html) | [1] Campbell 1999; _cites Fries_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900478-4) | Table 7, p. 7, row 2 |  |
-| -21.8 kJ/mol-atom | AlB2 | 298.15 | model |  | [Al–B](https://data.orchid-project.org/systems/AL-B.html) | [1] Campbell 1999; _cites Batzner 1994_ | Table 7, p. 7, row 4 |  |
-| -19.1 kJ/mol-atom | AlB2 | 298.15 | model |  | [Al–B](https://data.orchid-project.org/systems/AL-B.html) | [1] Campbell 1999 | Table 7, p. 7, row 5 |  |
+| -22.3 kJ/mol-atom ± 4.2 | AlB2 | 298.15 | experimental |  | [Al–B](https://data.orchid-project.org/systems/AL-B.html) | [1] Campbell 1999; _cites Domalski 1967_ [doi](https://doi.org/10.6028/jres.071a.037) | Table 7, p. 7, row 1; `ORC-7SENU32VE5.f12e21` |  |
+| -50.332 kJ/mol-atom | AlB2 | 298.15 | model |  | [Al–B](https://data.orchid-project.org/systems/AL-B.html) | [1] Campbell 1999; _cites Barin 1989_ | Table 7, p. 7, row 3; `ORC-VX6XF7LNLH.cdab39` |  |
+| -28.603 kJ/mol-atom | AlB2 | 298.15 | model |  | [Al–B](https://data.orchid-project.org/systems/AL-B.html) | [1] Campbell 1999; _cites Fries_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900478-4) | Table 7, p. 7, row 2; `ORC-BZBVIVDFD3.caed02` |  |
+| -21.8 kJ/mol-atom | AlB2 | 298.15 | model |  | [Al–B](https://data.orchid-project.org/systems/AL-B.html) | [1] Campbell 1999; _cites Batzner 1994_ | Table 7, p. 7, row 4; `ORC-7BHMNQTERA.f88d2d` |  |
+| -19.1 kJ/mol-atom | AlB2 | 298.15 | model |  | [Al–B](https://data.orchid-project.org/systems/AL-B.html) | [1] Campbell 1999 | Table 7, p. 7, row 5; `ORC-OFWRUQIJOX.6e4d8b` |  |
 
 ### Uncertainty budget
 
@@ -98,4 +98,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

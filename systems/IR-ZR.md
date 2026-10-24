@@ -68,30 +68,30 @@ Table: Invariant reactions reported in the literature for the Ir–Zr system (24
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2553 | liquid -> Ir3Zr | liquid: Zr 0.2497; Ir3Zr: Zr 0.2497 | model | [1] Ran 2006 | Table 2, p. 5, row 3 |  |
-| 2553 | liquid -> Ir3Zr | liquid: Zr 0.25; Ir3Zr: Zr 0.25 | experimental | [1] Ran 2006; _cites Eremenko 1980_ | Table 2, p. 5, row 4 |  |
-| 2393 | liquid -> fcc(Ir) + Ir3Zr | liquid: Zr 0.1431; fcc(Ir): Zr 0.088; Ir3Zr: Zr 0.185 | model | [1] Ran 2006 | Table 2, p. 5, row 1 |  |
-| 2393 | liquid -> fcc(Ir) + Ir3Zr | liquid: Zr 0.13; fcc(Ir): Zr 0.07; Ir3Zr: Zr 0.19 | experimental | [1] Ran 2006; _cites Eremenko 1980_ | Table 2, p. 5, row 2 |  |
-| 2358 | liquid + Ir3Zr -> Ir2Zr | liquid: Zr 0.35; Ir3Zr: Zr 0.3; Ir2Zr: Ir 0.666667, Zr 0.333333 | experimental | [1] Ran 2006; _cites Eremenko 1980_ | Table 2, p. 5, row 6 |  |
-| 2358 | liquid + Ir3Zr -> Ir2Zr | liquid: Zr 0.36; Ir3Zr: Zr 0.3018; Ir2Zr: Ir 0.666667, Zr 0.333333 | model | [1] Ran 2006 | Table 2, p. 5, row 5 |  |
-| 2323 | liquid -> βIrZr | liquid: Zr 0.5; βIrZr: Zr 0.5 | experimental | [1] Ran 2006; _cites Eremenko 1980_ | Table 2, p. 5, row 10 |  |
-| 2323 | liquid -> βIrZr | liquid: Zr 0.5113; βIrZr: Zr 0.5113 | model | [1] Ran 2006 | Table 2, p. 5, row 9 |  |
-| 2143 | liquid -> Ir2Zr + βIrZr | liquid: Zr 0.42; Ir2Zr: Ir 0.666667, Zr 0.333333; βIrZr: Zr 0.47 | experimental | [1] Ran 2006; _cites Eremenko 1980_ | Table 2, p. 5, row 8 |  |
-| 2143 | liquid -> Ir2Zr + βIrZr | liquid: Zr 0.4208; Ir2Zr: Ir 0.666667, Zr 0.333333; βIrZr: Zr 0.4883 | model | [1] Ran 2006 | Table 2, p. 5, row 7 |  |
-| 2003 | liquid + βIrZr -> Ir3Zr5 | liquid: Zr 0.67; βIrZr: Zr 0.52; Ir3Zr5: Ir 0.375, Zr 0.625 | experimental | [1] Ran 2006; _cites Eremenko 1980_ | Table 2, p. 5, row 16 |  |
-| 2003 | liquid + βIrZr -> Ir3Zr5 | liquid: Zr 0.626; βIrZr: Zr 0.5451; Ir3Zr5: Ir 0.375, Zr 0.625 | model | [1] Ran 2006 | Table 2, p. 5, row 15 |  |
-| 1613 | liquid + Ir3Zr5 -> IrZr2 | liquid: Zr 0.7877; Ir3Zr5: Ir 0.375, Zr 0.625; IrZr2: Ir 0.333333, Zr 0.666667 | model | [1] Ran 2006 | Table 2, p. 5, row 17 |  |
-| 1613 | liquid + Ir3Zr5 -> IrZr2 | liquid: Zr 0.73; Ir3Zr5: Ir 0.375, Zr 0.625; IrZr2: Ir 0.333333, Zr 0.666667 | experimental | [1] Ran 2006; _cites Eremenko 1980_ | Table 2, p. 5, row 18 |  |
-| 1578 | liquid + IrZr2 -> IrZr3 | liquid: Zr 0.77; IrZr2: Ir 0.333333, Zr 0.666667; IrZr3: Ir 0.25, Zr 0.75 | experimental | [1] Ran 2006; _cites Eremenko 1980_ | Table 2, p. 5, row 20 |  |
-| 1578 | liquid + IrZr2 -> IrZr3 | liquid: Zr 0.7995; IrZr2: Ir 0.333333, Zr 0.666667; IrZr3: Ir 0.25, Zr 0.75 | model | [1] Ran 2006 | Table 2, p. 5, row 19 |  |
-| 1513 | liquid -> IrZr3 + bcc(Zr) | liquid: Zr 0.82; IrZr3: Ir 0.25, Zr 0.75; bcc(Zr): Zr 0.95 | experimental | [1] Ran 2006; _cites Eremenko 1980_ | Table 2, p. 5, row 22 |  |
-| 1513 | liquid -> IrZr3 + bcc(Zr) | liquid: Zr 0.8391; IrZr3: Ir 0.25, Zr 0.75; bcc(Zr): Zr 0.9319 | model | [1] Ran 2006 | Table 2, p. 5, row 21 |  |
-| 1223 | βIrZr + Ir3Zr5 -> αIrZr | βIrZr: Zr 0.5; Ir3Zr5: Ir 0.375, Zr 0.625; αIrZr: Zr 0.5029 | model | [1] Ran 2006 | Table 2, p. 5, row 13 |  |
-| 1223 | βIrZr + Ir3Zr5 -> αIrZr | βIrZr: Zr 0.5; Ir3Zr5: Ir 0.375, Zr 0.625; αIrZr: Zr 0.51 | experimental | [1] Ran 2006; _cites Eremenko 1980_ | Table 2, p. 5, row 14 |  |
-| 1173 | βIrZr -> Ir2Zr + αIrZr | βIrZr: Zr 0.495; Ir2Zr: Ir 0.666667, Zr 0.333333; αIrZr: Zr 0.5 | model | [1] Ran 2006 | Table 2, p. 5, row 11 |  |
-| 1173 | βIrZr -> Ir2Zr + αIrZr | βIrZr: Zr 0.49; Ir2Zr: Ir 0.666667, Zr 0.333333; αIrZr: Zr 0.5 | experimental | [1] Ran 2006; _cites Eremenko 1980_ | Table 2, p. 5, row 12 |  |
-| 1048 | bcc(Zr) -> IrZr3 + hcp(Zr) | bcc(Zr): Zr 0.97; IrZr3: Ir 0.25, Zr 0.75; hcp(Zr): Zr 0.99 | experimental | [1] Ran 2006; _cites Eremenko 1980_ | Table 2, p. 5, row 24 |  |
-| 1048 | bcc(Zr) -> IrZr3 + hcp(Zr) | bcc(Zr): Zr 0.9797; IrZr3: Ir 0.25, Zr 0.75; hcp(Zr): Zr 0.992 | model | [1] Ran 2006 | Table 2, p. 5, row 23 |  |
+| 2553 | liquid -> Ir3Zr | liquid: Zr 0.2497; Ir3Zr: Zr 0.2497 | model | [1] Ran 2006 | Table 2, p. 5, row 3; `ORC-CWEMILLXV7` |  |
+| 2553 | liquid -> Ir3Zr | liquid: Zr 0.25; Ir3Zr: Zr 0.25 | experimental | [1] Ran 2006; _cites Eremenko 1980_ | Table 2, p. 5, row 4; `ORC-P7Z4CE2DGX` |  |
+| 2393 | liquid -> fcc(Ir) + Ir3Zr | liquid: Zr 0.1431; fcc(Ir): Zr 0.088; Ir3Zr: Zr 0.185 | model | [1] Ran 2006 | Table 2, p. 5, row 1; `ORC-7CGBO5VAAS` |  |
+| 2393 | liquid -> fcc(Ir) + Ir3Zr | liquid: Zr 0.13; fcc(Ir): Zr 0.07; Ir3Zr: Zr 0.19 | experimental | [1] Ran 2006; _cites Eremenko 1980_ | Table 2, p. 5, row 2; `ORC-PAUIJ3LSJJ` |  |
+| 2358 | liquid + Ir3Zr -> Ir2Zr | liquid: Zr 0.35; Ir3Zr: Zr 0.3; Ir2Zr: Ir 0.666667, Zr 0.333333 | experimental | [1] Ran 2006; _cites Eremenko 1980_ | Table 2, p. 5, row 6; `ORC-TD4JKXP3ME` |  |
+| 2358 | liquid + Ir3Zr -> Ir2Zr | liquid: Zr 0.36; Ir3Zr: Zr 0.3018; Ir2Zr: Ir 0.666667, Zr 0.333333 | model | [1] Ran 2006 | Table 2, p. 5, row 5; `ORC-XRVBUVLMCI` |  |
+| 2323 | liquid -> βIrZr | liquid: Zr 0.5; βIrZr: Zr 0.5 | experimental | [1] Ran 2006; _cites Eremenko 1980_ | Table 2, p. 5, row 10; `ORC-6WBLYHIYDD` |  |
+| 2323 | liquid -> βIrZr | liquid: Zr 0.5113; βIrZr: Zr 0.5113 | model | [1] Ran 2006 | Table 2, p. 5, row 9; `ORC-GGQDE7JKAY` |  |
+| 2143 | liquid -> Ir2Zr + βIrZr | liquid: Zr 0.42; Ir2Zr: Ir 0.666667, Zr 0.333333; βIrZr: Zr 0.47 | experimental | [1] Ran 2006; _cites Eremenko 1980_ | Table 2, p. 5, row 8; `ORC-7LOAOBPIWU` |  |
+| 2143 | liquid -> Ir2Zr + βIrZr | liquid: Zr 0.4208; Ir2Zr: Ir 0.666667, Zr 0.333333; βIrZr: Zr 0.4883 | model | [1] Ran 2006 | Table 2, p. 5, row 7; `ORC-O26WULX32Q` |  |
+| 2003 | liquid + βIrZr -> Ir3Zr5 | liquid: Zr 0.67; βIrZr: Zr 0.52; Ir3Zr5: Ir 0.375, Zr 0.625 | experimental | [1] Ran 2006; _cites Eremenko 1980_ | Table 2, p. 5, row 16; `ORC-NVITCRORMU` |  |
+| 2003 | liquid + βIrZr -> Ir3Zr5 | liquid: Zr 0.626; βIrZr: Zr 0.5451; Ir3Zr5: Ir 0.375, Zr 0.625 | model | [1] Ran 2006 | Table 2, p. 5, row 15; `ORC-T6PRHSF2KP` |  |
+| 1613 | liquid + Ir3Zr5 -> IrZr2 | liquid: Zr 0.7877; Ir3Zr5: Ir 0.375, Zr 0.625; IrZr2: Ir 0.333333, Zr 0.666667 | model | [1] Ran 2006 | Table 2, p. 5, row 17; `ORC-PIIDCO7FX6` |  |
+| 1613 | liquid + Ir3Zr5 -> IrZr2 | liquid: Zr 0.73; Ir3Zr5: Ir 0.375, Zr 0.625; IrZr2: Ir 0.333333, Zr 0.666667 | experimental | [1] Ran 2006; _cites Eremenko 1980_ | Table 2, p. 5, row 18; `ORC-VAW3FCJXJF` |  |
+| 1578 | liquid + IrZr2 -> IrZr3 | liquid: Zr 0.77; IrZr2: Ir 0.333333, Zr 0.666667; IrZr3: Ir 0.25, Zr 0.75 | experimental | [1] Ran 2006; _cites Eremenko 1980_ | Table 2, p. 5, row 20; `ORC-QH4HESTXCG` |  |
+| 1578 | liquid + IrZr2 -> IrZr3 | liquid: Zr 0.7995; IrZr2: Ir 0.333333, Zr 0.666667; IrZr3: Ir 0.25, Zr 0.75 | model | [1] Ran 2006 | Table 2, p. 5, row 19; `ORC-YEKTIALSXL` |  |
+| 1513 | liquid -> IrZr3 + bcc(Zr) | liquid: Zr 0.82; IrZr3: Ir 0.25, Zr 0.75; bcc(Zr): Zr 0.95 | experimental | [1] Ran 2006; _cites Eremenko 1980_ | Table 2, p. 5, row 22; `ORC-D5USMYTDEO` |  |
+| 1513 | liquid -> IrZr3 + bcc(Zr) | liquid: Zr 0.8391; IrZr3: Ir 0.25, Zr 0.75; bcc(Zr): Zr 0.9319 | model | [1] Ran 2006 | Table 2, p. 5, row 21; `ORC-Q6SDOQ7PG5` |  |
+| 1223 | βIrZr + Ir3Zr5 -> αIrZr | βIrZr: Zr 0.5; Ir3Zr5: Ir 0.375, Zr 0.625; αIrZr: Zr 0.5029 | model | [1] Ran 2006 | Table 2, p. 5, row 13; `ORC-HUNRBQASQ2` |  |
+| 1223 | βIrZr + Ir3Zr5 -> αIrZr | βIrZr: Zr 0.5; Ir3Zr5: Ir 0.375, Zr 0.625; αIrZr: Zr 0.51 | experimental | [1] Ran 2006; _cites Eremenko 1980_ | Table 2, p. 5, row 14; `ORC-Y5EQEATBAA` |  |
+| 1173 | βIrZr -> Ir2Zr + αIrZr | βIrZr: Zr 0.495; Ir2Zr: Ir 0.666667, Zr 0.333333; αIrZr: Zr 0.5 | model | [1] Ran 2006 | Table 2, p. 5, row 11; `ORC-GMTYOZXMAV` |  |
+| 1173 | βIrZr -> Ir2Zr + αIrZr | βIrZr: Zr 0.49; Ir2Zr: Ir 0.666667, Zr 0.333333; αIrZr: Zr 0.5 | experimental | [1] Ran 2006; _cites Eremenko 1980_ | Table 2, p. 5, row 12; `ORC-XUGAJ2QNVJ` |  |
+| 1048 | bcc(Zr) -> IrZr3 + hcp(Zr) | bcc(Zr): Zr 0.97; IrZr3: Ir 0.25, Zr 0.75; hcp(Zr): Zr 0.99 | experimental | [1] Ran 2006; _cites Eremenko 1980_ | Table 2, p. 5, row 24; `ORC-47HPPQEDLB` |  |
+| 1048 | bcc(Zr) -> IrZr3 + hcp(Zr) | bcc(Zr): Zr 0.9797; IrZr3: Ir 0.25, Zr 0.75; hcp(Zr): Zr 0.992 | model | [1] Ran 2006 | Table 2, p. 5, row 23; `ORC-VURNO7THQF` |  |
 
 ## Sources
 
@@ -156,4 +156,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

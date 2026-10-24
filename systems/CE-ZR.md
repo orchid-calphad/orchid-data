@@ -50,13 +50,13 @@ Table: Invariant reactions reported in the literature for the Ce–Zr system (7)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1763.15 | eutectic |  | experimental | [1] Dixon 1998; _cites ref. 1964_ | p. 5 | “2Subsequent to this work: R. Harris and G. V. Raynor, Journal of Less Common Metals,( 1964), 6 p70 indicated a eutectic xt 1490°C at which temperature the solubility of cerium in p zirconium was ci 4 at%; in addition the solubility in a zirconium was given as 6% at 850°C.” |
-| 1113 | bcc-Zr -> L + hcp-Zr |  | experimental | [2] Mattern 2014 | Table 3, p. 6, row 2 |  |
-| 1109 | bcc-Zr -> L + hcp-Zr | bcc-Zr: Zr 0.9564; L: Zr 0.0257; hcp-Zr: Zr 0.9692 | model | [2] Mattern 2014 | Table 3, p. 6, row 1 |  |
-| 1065 | L -> bcc-Ce + hcp-Zr | L: Zr 0.0203; bcc-Ce: Zr 0.0156; hcp-Zr: Zr 0.9729 | model | [2] Mattern 2014 | Table 3, p. 6, row 3 |  |
-| 1053 | L -> bcc-Ce + hcp-Zr |  | experimental | [2] Mattern 2014 | Table 3, p. 6, row 4 |  |
-| 988 | bcc-Ce -> fcc-Ce + hcp-Zr | bcc-Ce: Zr 0.0112; fcc-Ce: Zr 0.0064; hcp-Zr: Zr 0.9799 | model | [2] Mattern 2014 | Table 3, p. 6, row 5 |  |
-| 988 | bcc-Ce -> fcc-Ce + hcp-Zr |  | experimental | [2] Mattern 2014 | Table 3, p. 6, row 6 |  |
+| 1763.15 | eutectic |  | experimental | [1] Dixon 1998; _cites ref. 1964_ | p. 5; `ORC-SCRHEY23AV` | “2Subsequent to this work: R. Harris and G. V. Raynor, Journal of Less Common Metals,( 1964), 6 p70 indicated a eutectic xt 1490°C at which temperature the solubility of cerium in p zirconium was ci 4 at%; in addition the solubility in a zirconium was given as 6% at 850°C.” |
+| 1113 | bcc-Zr -> L + hcp-Zr |  | experimental | [2] Mattern 2014 | Table 3, p. 6, row 2; `ORC-GLYAM2MWNP` |  |
+| 1109 | bcc-Zr -> L + hcp-Zr | bcc-Zr: Zr 0.9564; L: Zr 0.0257; hcp-Zr: Zr 0.9692 | model | [2] Mattern 2014 | Table 3, p. 6, row 1; `ORC-W3FHGH3FG6` |  |
+| 1065 | L -> bcc-Ce + hcp-Zr | L: Zr 0.0203; bcc-Ce: Zr 0.0156; hcp-Zr: Zr 0.9729 | model | [2] Mattern 2014 | Table 3, p. 6, row 3; `ORC-CAD5ZMR226` |  |
+| 1053 | L -> bcc-Ce + hcp-Zr |  | experimental | [2] Mattern 2014 | Table 3, p. 6, row 4; `ORC-D4TA2GDDYZ` |  |
+| 988 | bcc-Ce -> fcc-Ce + hcp-Zr | bcc-Ce: Zr 0.0112; fcc-Ce: Zr 0.0064; hcp-Zr: Zr 0.9799 | model | [2] Mattern 2014 | Table 3, p. 6, row 5; `ORC-Y74OSEZL2M.3cb8dd` |  |
+| 988 | bcc-Ce -> fcc-Ce + hcp-Zr |  | experimental | [2] Mattern 2014 | Table 3, p. 6, row 6; `ORC-Y74OSEZL2M.d0e628` |  |
 
 ## Other properties
 
@@ -66,10 +66,10 @@ Table: Phase transition, Ce–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1109 K | 1109 | other: bcc-Zr -> L + hcp-Zr | experimental | [2] Mattern 2014 | p. 6 | “The calculated temperature (1113 K) and Ce solubility in bcc-Zr (4.4 at%) for the catatectic reaction bccZr2L þhcp-Zr agrees well with the present experimental results of 1109 K and 5 at%, respectively.” |
-| Phase transition | 1113 K | 1113 | Lþ hcp-Zr(Ce)2bcc-Zr(Ce) | experimental | [2] Mattern 2014 | p. 4 | “The DSC event (3) at T1⁄4 1113 K corresponds to the phase reaction Lþ hcp-Zr(Ce)2bcc-Zr(Ce).” |
-| Phase transition | 1113 K | 1113 | other: bcc-Zr -> L + hcp-Zr | model | [2] Mattern 2014 | p. 6 | “The calculated temperature (1113 K) and Ce solubility in bcc-Zr (4.4 at%) for the catatectic reaction bccZr2L þhcp-Zr agrees well with the present experimental results of 1109 K and 5 at%, respectively.” |
-| Phase transition | 1773.15 K | 1773.15 | other | experimental | [1] Dixon 1998 | p. 5 | “d) Heat treatments in the region of the solidus showed it to fall to 1500°C at about 3.5 at% cerium and then return towards the zirconium side of the diagram.” |
+| Phase transition | 1109 K | 1109 | other: bcc-Zr -> L + hcp-Zr | experimental | [2] Mattern 2014 | p. 6; `ORC-5WRVOXHMCP.e98527` | “The calculated temperature (1113 K) and Ce solubility in bcc-Zr (4.4 at%) for the catatectic reaction bccZr2L þhcp-Zr agrees well with the present experimental results of 1109 K and 5 at%, respectively.” |
+| Phase transition | 1113 K | 1113 | Lþ hcp-Zr(Ce)2bcc-Zr(Ce) | experimental | [2] Mattern 2014 | p. 4; `ORC-XXOKXNXVGM` | “The DSC event (3) at T1⁄4 1113 K corresponds to the phase reaction Lþ hcp-Zr(Ce)2bcc-Zr(Ce).” |
+| Phase transition | 1113 K | 1113 | other: bcc-Zr -> L + hcp-Zr | model | [2] Mattern 2014 | p. 6; `ORC-5WRVOXHMCP.cdb463` | “The calculated temperature (1113 K) and Ce solubility in bcc-Zr (4.4 at%) for the catatectic reaction bccZr2L þhcp-Zr agrees well with the present experimental results of 1109 K and 5 at%, respectively.” |
+| Phase transition | 1773.15 K | 1773.15 | other | experimental | [1] Dixon 1998 | p. 5; `ORC-TXVBT2AYNU` | “d) Heat treatments in the region of the solidus showed it to fall to 1500°C at about 3.5 at% cerium and then return towards the zirconium side of the diagram.” |
 
 ### Phase equilibrium (1)
 
@@ -77,7 +77,7 @@ Table: Phase equilibrium, Ce–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 283 | polymorphic: dhcp↔fcc; _dhcp-Ce: Zr 0; β(Ce): Zr 0_ | unspecified | [2] Mattern 2014; _cites Gschneidner 1999_ [doi](https://doi.org/10.1361/105497199770340590) | Table 1, p. 3, row 3 |  |
+| Phase composition |  | 283 | polymorphic: dhcp↔fcc; _dhcp-Ce: Zr 0; β(Ce): Zr 0_ | unspecified | [2] Mattern 2014; _cites Gschneidner 1999_ [doi](https://doi.org/10.1361/105497199770340590) | Table 1, p. 3, row 3; `ORC-GZOHBIA6OO` |  |
 
 ## Sources
 
@@ -143,4 +143,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

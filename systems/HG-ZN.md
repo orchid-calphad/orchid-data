@@ -47,11 +47,11 @@ Table: Phase equilibrium, Hg–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  |  | (Zn); _(Zn): Hg 0.02, Zn 0.98_ | experimental | [1] Hansen 1998; _cites ref. 30_ | Table II, p. 5, row 4 |  |
-| Phase composition |  | 285.25 | (Zn); _(Zn): Hg 0.013, Zn 0.987_ | experimental | [1] Hansen 1998; _cites ref. 18_ | Table II, p. 5, row 1 |  |
-| Phase composition |  | 293.15 | (Zn); _(Zn): Hg 0.008, Zn 0.992_ | experimental | [1] Hansen 1998; _cites ref. 31_ | Table II, p. 5, row 5 |  |
-| Phase composition |  | 293.15 | (Zn); _(Zn): Hg 0.017, Zn 0.983_ | experimental | [1] Hansen 1998; _cites ref. 29_ | Table II, p. 5, row 3 |  |
-| Phase composition |  | 308.15 | (Zn); _(Zn): Hg 0.02, Zn 0.98_ | experimental | [1] Hansen 1998; _cites ref. 18_ | Table II, p. 5, row 2 |  |
+| Phase composition |  |  | (Zn); _(Zn): Hg 0.02, Zn 0.98_ | experimental | [1] Hansen 1998; _cites ref. 30_ | Table II, p. 5, row 4; `ORC-KNJ5ZEPQT2` |  |
+| Phase composition |  | 285.25 | (Zn); _(Zn): Hg 0.013, Zn 0.987_ | experimental | [1] Hansen 1998; _cites ref. 18_ | Table II, p. 5, row 1; `ORC-S6GZUAQQ46` |  |
+| Phase composition |  | 293.15 | (Zn); _(Zn): Hg 0.008, Zn 0.992_ | experimental | [1] Hansen 1998; _cites ref. 31_ | Table II, p. 5, row 5; `ORC-247VUQV5UZ` |  |
+| Phase composition |  | 293.15 | (Zn); _(Zn): Hg 0.017, Zn 0.983_ | experimental | [1] Hansen 1998; _cites ref. 29_ | Table II, p. 5, row 3; `ORC-XZPOBR2ZJD` |  |
+| Phase composition |  | 308.15 | (Zn); _(Zn): Hg 0.02, Zn 0.98_ | experimental | [1] Hansen 1998; _cites ref. 18_ | Table II, p. 5, row 2; `ORC-DRU2K3KUOF` |  |
 
 ## Sources
 
@@ -116,4 +116,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

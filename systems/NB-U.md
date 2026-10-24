@@ -46,12 +46,12 @@ Table: Invariant reactions reported in the literature for the Nb–U system (6)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1231.15 | critical point: (γU, Nb) → γU + (Nb) | (γU, Nb): Nb 0.507 | model | [1] Liu 2008 | Table 6, p. 6, row 6 |  |
-| 1203.15 | critical point: (γU, Nb) → γU + (Nb) | (γU, Nb): Nb 0.523 | experimental | [1] Liu 2008; _cites Koike 1995_ | Table 6, p. 6, row 5 |  |
-| 937.15 | eutectoid: βU → αU + γU | βU: Nb 0.013 | experimental | [1] Liu 2008; _cites Koike 1995_ | Table 6, p. 6, row 1 |  |
-| 937.15 | eutectoid: βU → αU + γU | βU: Nb 0.013; αU: Nb 0.0109; γU: Nb 0.101 | model | [1] Liu 2008 | Table 6, p. 6, row 2 |  |
-| 920.15 | monotectoid: γU → αU + (Nb) | γU: Nb 0.139; αU: Nb 0.013; (Nb): Nb 0.7 | model | [1] Liu 2008 | Table 6, p. 6, row 4 |  |
-| 920.15 | monotectoid: γU → αU + (Nb) | γU: Nb 0.133; αU: Nb 0.005 | experimental | [1] Liu 2008; _cites Koike 1995_ | Table 6, p. 6, row 3 |  |
+| 1231.15 | critical point: (γU, Nb) → γU + (Nb) | (γU, Nb): Nb 0.507 | model | [1] Liu 2008 | Table 6, p. 6, row 6; `ORC-2ZGRTVAZKE` |  |
+| 1203.15 | critical point: (γU, Nb) → γU + (Nb) | (γU, Nb): Nb 0.523 | experimental | [1] Liu 2008; _cites Koike 1995_ | Table 6, p. 6, row 5; `ORC-5OM2JIKXGY` |  |
+| 937.15 | eutectoid: βU → αU + γU | βU: Nb 0.013 | experimental | [1] Liu 2008; _cites Koike 1995_ | Table 6, p. 6, row 1; `ORC-JWOECY4HW5` |  |
+| 937.15 | eutectoid: βU → αU + γU | βU: Nb 0.013; αU: Nb 0.0109; γU: Nb 0.101 | model | [1] Liu 2008 | Table 6, p. 6, row 2; `ORC-XDLZD4TXQG` |  |
+| 920.15 | monotectoid: γU → αU + (Nb) | γU: Nb 0.139; αU: Nb 0.013; (Nb): Nb 0.7 | model | [1] Liu 2008 | Table 6, p. 6, row 4; `ORC-4KEDHQBO6S` |  |
+| 920.15 | monotectoid: γU → αU + (Nb) | γU: Nb 0.133; αU: Nb 0.005 | experimental | [1] Liu 2008; _cites Koike 1995_ | Table 6, p. 6, row 3; `ORC-PLHR22GH62` |  |
 
 ## Sources
 
@@ -116,4 +116,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

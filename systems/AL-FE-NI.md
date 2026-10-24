@@ -28,20 +28,20 @@ Table: Phase transition, Al–Fe–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 900.15 K | 900.15 | 1; _alloy: Al 0.818, Fe 0.091, Ni 0.091_ | experimental | [1] Zhang 2007 | Table 2, p. 5, row 1 |  |
-| Phase transition | 900.15 K | 900.15 | 2; _alloy: Al 0.714, Fe 0.215, Ni 0.071_ | experimental | [1] Zhang 2007 | Table 2, p. 5, row 2 |  |
-| Phase transition | 900.15 K | 900.15 | 3; _alloy: Al 0.71, Fe 0.05, Ni 0.24_ | experimental | [1] Zhang 2007 | Table 2, p. 5, row 3 |  |
-| Phase transition | 900.15 K | 900.15 | 5; _alloy: Al 0.8, Fe 0.183, Ni 0.017_ | experimental | [1] Zhang 2007 | Table 2, p. 5, row 4 |  |
-| Phase transition | 900.15 K | 900.15 | 6; _alloy: Al 0.8, Fe 0.015, Ni 0.185_ | experimental | [1] Zhang 2007 | Table 2, p. 5, row 5 |  |
-| Phase transition | 900.15 K | 900.15 | 7; _alloy: Al 0.78, Fe 0.096, Ni 0.124_ | experimental | [1] Zhang 2007 | Table 2, p. 5, row 6 |  |
-| Phase transition | 1123.15 K | 1123.15 | 11; _alloy: Al 0.653, Fe 0.147, Ni 0.2_ | experimental | [1] Zhang 2007 | Table 2, p. 5, row 8 |  |
-| Phase transition | 1123.15 K | 1123.15 | 13; _alloy: Al 0.65, Fe 0.31, Ni 0.04_ | experimental | [1] Zhang 2007 | Table 2, p. 5, row 9 |  |
-| Phase transition | 1123.15 K | 1123.15 | 14; _alloy: Al 0.65, Fe 0.265, Ni 0.085_ | experimental | [1] Zhang 2007 | Table 2, p. 5, row 10 |  |
-| Phase transition | 1123.15 K | 1123.15 | 15; _alloy: Al 0.65, Fe 0.26, Ni 0.09_ | experimental | [1] Zhang 2007 | Table 2, p. 5, row 11 |  |
-| Phase transition | 1123.15 K | 1123.15 | 16; _alloy: Al 0.725, Fe 0.253, Ni 0.022_ | experimental | [1] Zhang 2007 | Table 2, p. 5, row 12 |  |
-| Phase transition | 1123.15 K | 1123.15 | 9; _alloy: Al 0.694, Fe 0.106, Ni 0.2_ | experimental | [1] Zhang 2007 | Table 2, p. 5, row 7 |  |
-| Phase transition | 1234.15 K | 1234.15 | 3; _alloy: Al 0.71, Fe 0.05, Ni 0.24_ | experimental | [1] Zhang 2007 | Table 2, p. 5, row 18 |  |
-| Phase transition | 1264.15 K | 1264.15 | 3; _alloy: Al 0.71, Fe 0.05, Ni 0.24_ | experimental | [1] Zhang 2007 | Table 2, p. 5, row 19 |  |
+| Phase transition | 900.15 K | 900.15 | 1; _alloy: Al 0.818, Fe 0.091, Ni 0.091_ | experimental | [1] Zhang 2007 | Table 2, p. 5, row 1; `ORC-5EMY7QQ3YQ` |  |
+| Phase transition | 900.15 K | 900.15 | 2; _alloy: Al 0.714, Fe 0.215, Ni 0.071_ | experimental | [1] Zhang 2007 | Table 2, p. 5, row 2; `ORC-6VMKAA63ZH` |  |
+| Phase transition | 900.15 K | 900.15 | 3; _alloy: Al 0.71, Fe 0.05, Ni 0.24_ | experimental | [1] Zhang 2007 | Table 2, p. 5, row 3; `ORC-U6Z4HWQM55` |  |
+| Phase transition | 900.15 K | 900.15 | 5; _alloy: Al 0.8, Fe 0.183, Ni 0.017_ | experimental | [1] Zhang 2007 | Table 2, p. 5, row 4; `ORC-FD2NKBXUCD` |  |
+| Phase transition | 900.15 K | 900.15 | 6; _alloy: Al 0.8, Fe 0.015, Ni 0.185_ | experimental | [1] Zhang 2007 | Table 2, p. 5, row 5; `ORC-5HCUJVFP2O` |  |
+| Phase transition | 900.15 K | 900.15 | 7; _alloy: Al 0.78, Fe 0.096, Ni 0.124_ | experimental | [1] Zhang 2007 | Table 2, p. 5, row 6; `ORC-WFC3SDIKMW` |  |
+| Phase transition | 1123.15 K | 1123.15 | 11; _alloy: Al 0.653, Fe 0.147, Ni 0.2_ | experimental | [1] Zhang 2007 | Table 2, p. 5, row 8; `ORC-FVLV7FLS7D` |  |
+| Phase transition | 1123.15 K | 1123.15 | 13; _alloy: Al 0.65, Fe 0.31, Ni 0.04_ | experimental | [1] Zhang 2007 | Table 2, p. 5, row 9; `ORC-LMEYAWRGXS` |  |
+| Phase transition | 1123.15 K | 1123.15 | 14; _alloy: Al 0.65, Fe 0.265, Ni 0.085_ | experimental | [1] Zhang 2007 | Table 2, p. 5, row 10; `ORC-GNM4W56MJW` |  |
+| Phase transition | 1123.15 K | 1123.15 | 15; _alloy: Al 0.65, Fe 0.26, Ni 0.09_ | experimental | [1] Zhang 2007 | Table 2, p. 5, row 11; `ORC-Q7UIV6N4CE` |  |
+| Phase transition | 1123.15 K | 1123.15 | 16; _alloy: Al 0.725, Fe 0.253, Ni 0.022_ | experimental | [1] Zhang 2007 | Table 2, p. 5, row 12; `ORC-JVFYXCCSHI` |  |
+| Phase transition | 1123.15 K | 1123.15 | 9; _alloy: Al 0.694, Fe 0.106, Ni 0.2_ | experimental | [1] Zhang 2007 | Table 2, p. 5, row 7; `ORC-H5I5QPVD2C` |  |
+| Phase transition | 1234.15 K | 1234.15 | 3; _alloy: Al 0.71, Fe 0.05, Ni 0.24_ | experimental | [1] Zhang 2007 | Table 2, p. 5, row 18; `ORC-CPOQD5GCCC` |  |
+| Phase transition | 1264.15 K | 1264.15 | 3; _alloy: Al 0.71, Fe 0.05, Ni 0.24_ | experimental | [1] Zhang 2007 | Table 2, p. 5, row 19; `ORC-FHJ7NPL2FN` |  |
 
 ## Sources
 
@@ -84,4 +84,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

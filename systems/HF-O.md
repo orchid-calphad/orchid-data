@@ -56,8 +56,8 @@ Table: Invariant reactions reported in the literature for the Hf–O system (2)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2523 | peritectic: peritectic reaction |  | experimental | [1] Shin 2006; _cites Domagala 1965_ | p. 2 | “For the hafnium rich-side, Rudy and Stecher \[8\] proposed a eutectic reaction at 2273 K, while Domagala and Ruh \[9\] suggested a peritectic reaction around 2523 K.” |
-| 2273 | eutectic: eutectic reaction |  | experimental | [1] Shin 2006; _cites Rudy 1963_ [doi](https://doi.org/10.1016/0022-5088%2863%2990045-6) | p. 2 | “For the hafnium rich-side, Rudy and Stecher \[8\] proposed a eutectic reaction at 2273 K, while Domagala and Ruh \[9\] suggested a peritectic reaction around 2523 K.” |
+| 2523 | peritectic: peritectic reaction |  | experimental | [1] Shin 2006; _cites Domagala 1965_ | p. 2; `ORC-FY2JG6I2AI.789307` | “For the hafnium rich-side, Rudy and Stecher \[8\] proposed a eutectic reaction at 2273 K, while Domagala and Ruh \[9\] suggested a peritectic reaction around 2523 K.” |
+| 2273 | eutectic: eutectic reaction |  | experimental | [1] Shin 2006; _cites Rudy 1963_ [doi](https://doi.org/10.1016/0022-5088%2863%2990045-6) | p. 2; `ORC-FY2JG6I2AI.b9c9a5` | “For the hafnium rich-side, Rudy and Stecher \[8\] proposed a eutectic reaction at 2273 K, while Domagala and Ruh \[9\] suggested a peritectic reaction around 2523 K.” |
 
 ## Other properties
 
@@ -67,9 +67,9 @@ Table: Phase transition, Hf–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 2100 K | 2100 | monoclinic → tetragonal | experimental | [1] Shin 2006 | p. 8 | “transformation temperatures for monoclinic → tetragonal → cubic → liquid are 2100 K, 2793 K, and 3073 K, respectively.” |
-| Phase transition | 2793 K | 2793 | tetragonal → cubic | experimental | [1] Shin 2006 | p. 8 | “transformation temperatures for monoclinic → tetragonal → cubic → liquid are 2100 K, 2793 K, and 3073 K, respectively.” |
-| Phase transition | 3073 K | 3073 | cubic → liquid | experimental | [1] Shin 2006 | p. 8 | “transformation temperatures for monoclinic → tetragonal → cubic → liquid are 2100 K, 2793 K, and 3073 K, respectively.” |
+| Phase transition | 2100 K | 2100 | monoclinic → tetragonal | experimental | [1] Shin 2006 | p. 8; `ORC-WXBHKPLGSF.685ca0` | “transformation temperatures for monoclinic → tetragonal → cubic → liquid are 2100 K, 2793 K, and 3073 K, respectively.” |
+| Phase transition | 2793 K | 2793 | tetragonal → cubic | experimental | [1] Shin 2006 | p. 8; `ORC-WXBHKPLGSF.9317e2` | “transformation temperatures for monoclinic → tetragonal → cubic → liquid are 2100 K, 2793 K, and 3073 K, respectively.” |
+| Phase transition | 3073 K | 3073 | cubic → liquid | experimental | [1] Shin 2006 | p. 8; `ORC-WXBHKPLGSF.1df2d4` | “transformation temperatures for monoclinic → tetragonal → cubic → liquid are 2100 K, 2793 K, and 3073 K, respectively.” |
 
 ### Crystal structure (10)
 
@@ -77,16 +77,16 @@ Table: Crystal structure, Hf–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 5.135 Å | 0 | Monoclinic (HfO2); _alloy: O 0.666667_ | DFT | [1] Shin 2006 | Table 1, p. 3, row 6 |  |
-| Lattice a | 3.225 Å | 0 | α-Hf (HfO0.5) | DFT | [1] Shin 2006 | Table 1, p. 3, row 4 |  |
-| Lattice a | 4.364 Å | 0 | β-Hf (HfO3) | DFT | [1] Shin 2006 | Table 1, p. 3, row 5 |  |
-| Lattice b | 5.194 Å | 0 | Monoclinic (HfO2); _alloy: O 0.666667_ | DFT | [1] Shin 2006 | Table 1, p. 3, row 6 |  |
-| Lattice b | 3.225 Å | 0 | α-Hf (HfO0.5) | DFT | [1] Shin 2006 | Table 1, p. 3, row 4 |  |
-| Lattice b | 4.364 Å | 0 | β-Hf (HfO3) | DFT | [1] Shin 2006 | Table 1, p. 3, row 5 |  |
-| Lattice c | 5.314 Å | 0 | Monoclinic (HfO2); _alloy: O 0.666667_ | DFT | [1] Shin 2006 | Table 1, p. 3, row 6 |  |
-| Lattice c | 5.15 Å | 0 | α-Hf (HfO0.5) | DFT | [1] Shin 2006 | Table 1, p. 3, row 4 |  |
-| Lattice c | 4.364 Å | 0 | β-Hf (HfO3) | DFT | [1] Shin 2006 | Table 1, p. 3, row 5 |  |
-| lattice beta | 99.56 ° | 0 | Monoclinic (HfO2); _alloy: O 0.666667_ | DFT | [1] Shin 2006 | Table 1, p. 3, row 6 |  |
+| Lattice a | 5.135 Å | 0 | Monoclinic (HfO2); _alloy: O 0.666667_ | DFT | [1] Shin 2006 | Table 1, p. 3, row 6; `ORC-KDNDA433ZA.87721b` |  |
+| Lattice a | 3.225 Å | 0 | α-Hf (HfO0.5) | DFT | [1] Shin 2006 | Table 1, p. 3, row 4; `ORC-RR6AZULODB.b92936` |  |
+| Lattice a | 4.364 Å | 0 | β-Hf (HfO3) | DFT | [1] Shin 2006 | Table 1, p. 3, row 5; `ORC-GJ4FDJBBFP.4628e1` |  |
+| Lattice b | 5.194 Å | 0 | Monoclinic (HfO2); _alloy: O 0.666667_ | DFT | [1] Shin 2006 | Table 1, p. 3, row 6; `ORC-KDNDA433ZA.c82ccc` |  |
+| Lattice b | 3.225 Å | 0 | α-Hf (HfO0.5) | DFT | [1] Shin 2006 | Table 1, p. 3, row 4; `ORC-RR6AZULODB.df1490` |  |
+| Lattice b | 4.364 Å | 0 | β-Hf (HfO3) | DFT | [1] Shin 2006 | Table 1, p. 3, row 5; `ORC-GJ4FDJBBFP.1fb5ab` |  |
+| Lattice c | 5.314 Å | 0 | Monoclinic (HfO2); _alloy: O 0.666667_ | DFT | [1] Shin 2006 | Table 1, p. 3, row 6; `ORC-KDNDA433ZA.7d39b5` |  |
+| Lattice c | 5.15 Å | 0 | α-Hf (HfO0.5) | DFT | [1] Shin 2006 | Table 1, p. 3, row 4; `ORC-RR6AZULODB.42f038` |  |
+| Lattice c | 4.364 Å | 0 | β-Hf (HfO3) | DFT | [1] Shin 2006 | Table 1, p. 3, row 5; `ORC-GJ4FDJBBFP.10176d` |  |
+| lattice beta | 99.56 ° | 0 | Monoclinic (HfO2); _alloy: O 0.666667_ | DFT | [1] Shin 2006 | Table 1, p. 3, row 6; `ORC-KDNDA433ZA.661112` |  |
 
 ## Sources
 
@@ -151,4 +151,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -52,8 +52,8 @@ Table: Invariant reactions reported in the literature for the Sc–W system (2)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1783.25 | eutectic: L M bSc + (W) |  | model | [1] Wang 2015 | p. 5 | “According to the calculation, the temperature and composition of the eutectic reaction (L M bSc + (W)) are 1510.1 °C and 98.35 at.% Sc, which are the same as the experimental data\[17\] basically.” |
-| 1783.15 | eutectic: L -> (W) + bSc |  | experimental | [1] Wang 2015; _cites Dennison 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990089-0) | p. 2 | “By means of equilibration and quenching method, Dennison et al.\[17\] reported some solubility data of W in liquid Sc and indicated a eutectic reaction: L (98.67 at.% Sc) M (W) + bSc at 1510 °C.” |
+| 1783.25 | eutectic: L M bSc + (W) |  | model | [1] Wang 2015 | p. 5; `ORC-EKOZVJPXXD` | “According to the calculation, the temperature and composition of the eutectic reaction (L M bSc + (W)) are 1510.1 °C and 98.35 at.% Sc, which are the same as the experimental data\[17\] basically.” |
+| 1783.15 | eutectic: L -> (W) + bSc |  | experimental | [1] Wang 2015; _cites Dennison 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990089-0) | p. 2; `ORC-UQSHOLRBMO` | “By means of equilibration and quenching method, Dennison et al.\[17\] reported some solubility data of W in liquid Sc and indicated a eutectic reaction: L (98.67 at.% Sc) M (W) + bSc at 1510 °C.” |
 
 ## Other properties
 
@@ -63,8 +63,8 @@ Table: Mixing / partial, Sc–W system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: enthalpy of mixing_ | 8.75 kJ/mol (basis unstated) | 3773.15 | liquid; _alloy: Sc 0.5, W 0.5_ | model | [1] Wang 2015 | Table 3, p. 3, row 8 |  |
-| Enthalpy of mixing; _printed: enthalpy of mixing_ | 9 kJ/mol (basis unstated) | 3773.15 | liquid; _alloy: Sc 0.5, W 0.5_ | model | [1] Wang 2015; _cites F 1988_ | Table 3, p. 3, row 7 |  |
+| Enthalpy of mixing; _printed: enthalpy of mixing_ | 8.75 kJ/mol (basis unstated) | 3773.15 | liquid; _alloy: Sc 0.5, W 0.5_ | model | [1] Wang 2015 | Table 3, p. 3, row 8; `ORC-2NKS3HIJYT` |  |
+| Enthalpy of mixing; _printed: enthalpy of mixing_ | 9 kJ/mol (basis unstated) | 3773.15 | liquid; _alloy: Sc 0.5, W 0.5_ | model | [1] Wang 2015; _cites F 1988_ | Table 3, p. 3, row 7; `ORC-PH6OBPTHYD` |  |
 
 ## Sources
 
@@ -129,4 +129,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

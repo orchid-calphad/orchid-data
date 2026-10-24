@@ -49,14 +49,14 @@ Table: Invariant reactions reported in the literature for the Al–Na system (8)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1157 | Gas -> liquid1 + liquid2 | Gas: Na 1; liquid1: Na 0.00238; liquid2: Na 1 | model | [1] Zhang 2006 | Table 2, p. 4, row 1 |  |
-| 932 | Liquid1 -> fcc(Al) + liquid2 | Liquid1: Na 0.0014; fcc(Al): Na 2.000e-5 | experimental | [1] Zhang 2006; _cites Ransley 1950_ | Table 2, p. 4, row 6 |  |
-| 932 | Liquid1 -> fcc(Al) + liquid2 | Liquid1: Na 0.0014; fcc(Al): Na 2.000e-5; liquid2: Na 1 | model | [1] Zhang 2006 | Table 2, p. 4, row 2 |  |
-| 932 | Liquid1 -> fcc(Al) + liquid2 | Liquid1: Na 0.0018; fcc(Al): Na 2.300e-5 | model | [1] Zhang 2006; _cites Murray 1983_ [doi](https://doi.org/10.1007/bf02868094) | Table 2, p. 4, row 3 |  |
-| 932 | Liquid1 -> fcc(Al) + liquid2 | Liquid1: Na 0.0018 | experimental | [1] Zhang 2006; _cites Fink 1948_ | Table 2, p. 4, row 5 |  |
-| 930 | Liquid1 -> fcc(Al) + liquid2 |  | experimental | [1] Zhang 2006; _cites Mathewson 1906_ | Table 2, p. 4, row 4 |  |
-| 371 | Liquid2 -> fcc(Al) + bcc(Na) | Liquid2: Na 0.9999; fcc(Al): Na 0; bcc(Na): Na 1 | model | [1] Zhang 2006 | Table 2, p. 4, row 7 |  |
-| 371 | Liquid2 -> fcc(Al) + bcc(Na) |  | experimental | [1] Zhang 2006; _cites Mathewson 1906_ | Table 2, p. 4, row 8 |  |
+| 1157 | Gas -> liquid1 + liquid2 | Gas: Na 1; liquid1: Na 0.00238; liquid2: Na 1 | model | [1] Zhang 2006 | Table 2, p. 4, row 1; `ORC-NSAX544YVU` |  |
+| 932 | Liquid1 -> fcc(Al) + liquid2 | Liquid1: Na 0.0014; fcc(Al): Na 2.000e-5 | experimental | [1] Zhang 2006; _cites Ransley 1950_ | Table 2, p. 4, row 6; `ORC-4WVY22J5YD` |  |
+| 932 | Liquid1 -> fcc(Al) + liquid2 | Liquid1: Na 0.0014; fcc(Al): Na 2.000e-5; liquid2: Na 1 | model | [1] Zhang 2006 | Table 2, p. 4, row 2; `ORC-BML4XDUVRQ` |  |
+| 932 | Liquid1 -> fcc(Al) + liquid2 | Liquid1: Na 0.0018; fcc(Al): Na 2.300e-5 | model | [1] Zhang 2006; _cites Murray 1983_ [doi](https://doi.org/10.1007/bf02868094) | Table 2, p. 4, row 3; `ORC-NKXDP3JTPF` |  |
+| 932 | Liquid1 -> fcc(Al) + liquid2 | Liquid1: Na 0.0018 | experimental | [1] Zhang 2006; _cites Fink 1948_ | Table 2, p. 4, row 5; `ORC-QNFY7HJ4MA` |  |
+| 930 | Liquid1 -> fcc(Al) + liquid2 |  | experimental | [1] Zhang 2006; _cites Mathewson 1906_ | Table 2, p. 4, row 4; `ORC-K727IVHNLK` |  |
+| 371 | Liquid2 -> fcc(Al) + bcc(Na) | Liquid2: Na 0.9999; fcc(Al): Na 0; bcc(Na): Na 1 | model | [1] Zhang 2006 | Table 2, p. 4, row 7; `ORC-IJHBBH4PEM` |  |
+| 371 | Liquid2 -> fcc(Al) + bcc(Na) |  | experimental | [1] Zhang 2006; _cites Mathewson 1906_ | Table 2, p. 4, row 8; `ORC-XCZRVQ2GR4` |  |
 
 ## Sources
 
@@ -121,4 +121,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

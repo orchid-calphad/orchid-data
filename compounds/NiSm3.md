@@ -14,9 +14,9 @@ Table: Enthalpy of formation of NiSm3 reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -21.5 kJ/mol-atom ± 2 | Sm3Ni | 300 | experimental | Direct calorimetry | [Ni–Sm](https://data.orchid-project.org/systems/NI-SM.html) | [1] Rahou 2016; _cites Borzone 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901382-7) | Table 5, p. 6, row 2 |  |
-| -22.6 kJ/mol-atom | Sm3Ni | 300 | model | Optimization | [Ni–Sm](https://data.orchid-project.org/systems/NI-SM.html) | [1] Rahou 2016 | Table 5, p. 6, row 1 |  |
-| -18.7 kJ/mol-atom | Sm3Ni |  | model | Optimization | [Ni–Sm](https://data.orchid-project.org/systems/NI-SM.html) | [1] Rahou 2016; _cites Su 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900560-x) | Table 5, p. 6, row 3 |  |
+| -21.5 kJ/mol-atom ± 2 | Sm3Ni | 300 | experimental | Direct calorimetry | [Ni–Sm](https://data.orchid-project.org/systems/NI-SM.html) | [1] Rahou 2016; _cites Borzone 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901382-7) | Table 5, p. 6, row 2; `ORC-35KKCWXTVK.ce70bf` |  |
+| -22.6 kJ/mol-atom | Sm3Ni | 300 | model | Optimization | [Ni–Sm](https://data.orchid-project.org/systems/NI-SM.html) | [1] Rahou 2016 | Table 5, p. 6, row 1; `ORC-SWZVSHVRMM.76b452` |  |
+| -18.7 kJ/mol-atom | Sm3Ni |  | model | Optimization | [Ni–Sm](https://data.orchid-project.org/systems/NI-SM.html) | [1] Rahou 2016; _cites Su 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900560-x) | Table 5, p. 6, row 3; `ORC-LXOS52FRLJ.677f49` |  |
 
 ### Uncertainty budget
 
@@ -94,4 +94,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

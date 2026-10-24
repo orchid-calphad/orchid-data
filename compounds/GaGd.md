@@ -14,10 +14,10 @@ Table: Enthalpy of formation of GaGd reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -72.65 kJ/mol-atom | GaGd | 298.15 | model | Miedema | [Ga–Gd](https://data.orchid-project.org/systems/GA-GD.html) | [1] Tamim 2023; _cites De 1988_ | Table 2, p. 8, row 23 |  |
-| -72.65 kJ/mol-atom | GaGd |  | model | Prediction optimization | [Ga–Gd](https://data.orchid-project.org/systems/GA-GD.html) | [2] Boukideur 2020; _cites De 2014_ | Table 4, p. 4, row 7 |  |
-| -70 kJ/mol-atom | GaGd |  | model |  | [Ga–Gd](https://data.orchid-project.org/systems/GA-GD.html) | [2] Boukideur 2020 | Table 4, p. 4, row 8 |  |
-| -61.701 kJ/mol-atom | GaGd | 298.15 | model |  | [Ga–Gd](https://data.orchid-project.org/systems/GA-GD.html) | [1] Tamim 2023 | Table 2, p. 8, row 24 |  |
+| -72.65 kJ/mol-atom | GaGd | 298.15 | model | Miedema | [Ga–Gd](https://data.orchid-project.org/systems/GA-GD.html) | [1] Tamim 2023; _cites De 1988_ | Table 2, p. 8, row 23; `ORC-4MXBBMO2LI` |  |
+| -72.65 kJ/mol-atom | GaGd |  | model | Prediction optimization | [Ga–Gd](https://data.orchid-project.org/systems/GA-GD.html) | [2] Boukideur 2020; _cites De 2014_ | Table 4, p. 4, row 7; `ORC-LZRUNWBCOC.643358` |  |
+| -70 kJ/mol-atom | GaGd |  | model |  | [Ga–Gd](https://data.orchid-project.org/systems/GA-GD.html) | [2] Boukideur 2020 | Table 4, p. 4, row 8; `ORC-BUSFP435S3.5d09a1` |  |
+| -61.701 kJ/mol-atom | GaGd | 298.15 | model |  | [Ga–Gd](https://data.orchid-project.org/systems/GA-GD.html) | [1] Tamim 2023 | Table 2, p. 8, row 24; `ORC-IU6YRZCXGB` |  |
 
 ### Uncertainty budget
 
@@ -97,4 +97,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

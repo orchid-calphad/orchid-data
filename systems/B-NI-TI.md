@@ -26,20 +26,20 @@ Table: Invariant reactions reported in the literature for the B–Ni–Ti system
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1365.75 | eutectic: Liquid -> TiB2 + Ti2Ni21B6 + Ni3B |  | unspecified | [1] Cacciamani 2011 | Table 11, p. 11, row 1 |  |
-| 1357.85 | eutectic: Liquid -> TiB2 + Ni2B + Ni3B |  | unspecified | [1] Cacciamani 2011 | Table 11, p. 11, row 2 |  |
-| 1324.15 | eutectic: Liquid -> Ti2Ni21B6 + Ni + Ni3B |  | unspecified | [1] Cacciamani 2011 | Table 11, p. 11, row 3 |  |
-| 1306.05 | quasi-peritectic: Liquid + B -> TiB2 + NiB |  | unspecified | [1] Cacciamani 2011 | Table 11, p. 11, row 4 |  |
-| 1299.25 | eutectic: Liquid -> TiB2 + Ni2B + o-Ni4B3 |  | unspecified | [1] Cacciamani 2011 | Table 11, p. 11, row 5 |  |
-| 1296.55 | eutectic: Liquid -> TiB2 + m-Ni4B3 + o-Ni4B3 |  | unspecified | [1] Cacciamani 2011 | Table 11, p. 11, row 6 |  |
-| 1290.95 | eutectic: Liquid -> TiB2 + NiB + m-Ni4B3 |  | unspecified | [1] Cacciamani 2011 | Table 11, p. 11, row 7 |  |
-| 1274.45 | eutectic: Liquid -> Ti2Ni21B6 + Ni + TiNi3 |  | unspecified | [1] Cacciamani 2011 | Table 11, p. 11, row 8 |  |
-| 1256.55 | eutectic: Liquid -> TiB2 + Ti2Ni21B6 + TiNi3 |  | unspecified | [1] Cacciamani 2011 | Table 11, p. 11, row 9 |  |
-| 1240.75 | quasi-peritectic: Liquid + TiB2 -> TiNi + Ti3B4 |  | unspecified | [1] Cacciamani 2011 | Table 11, p. 11, row 10 |  |
-| 1212.55 | quasi-peritectic: Liquid + Ti3B4 -> TiNi + TiB |  | unspecified | [1] Cacciamani 2011 | Table 11, p. 11, row 11 |  |
-| 1138.75 | eutectic: Liquid -> BCC_A2 + TiB + Ti2Ni |  | unspecified | [1] Cacciamani 2011 | Table 11, p. 11, row 12 |  |
-| 1135.05 | eutectic: Liquid -> TiNi + TiB + Ti2Ni |  | unspecified | [1] Cacciamani 2011 | Table 11, p. 11, row 13 |  |
-| 1130.45 | eutectic: Liquid -> TiB2 + TiNi + TiNi3 |  | unspecified | [1] Cacciamani 2011 | Table 11, p. 11, row 14 |  |
+| 1365.75 | eutectic: Liquid -> TiB2 + Ti2Ni21B6 + Ni3B |  | unspecified | [1] Cacciamani 2011 | Table 11, p. 11, row 1; `ORC-EHNDOMFL6O` |  |
+| 1357.85 | eutectic: Liquid -> TiB2 + Ni2B + Ni3B |  | unspecified | [1] Cacciamani 2011 | Table 11, p. 11, row 2; `ORC-6QPBO67Q4K` |  |
+| 1324.15 | eutectic: Liquid -> Ti2Ni21B6 + Ni + Ni3B |  | unspecified | [1] Cacciamani 2011 | Table 11, p. 11, row 3; `ORC-Y6V3YJ6HW7` |  |
+| 1306.05 | quasi-peritectic: Liquid + B -> TiB2 + NiB |  | unspecified | [1] Cacciamani 2011 | Table 11, p. 11, row 4; `ORC-5C2UJHZWKX` |  |
+| 1299.25 | eutectic: Liquid -> TiB2 + Ni2B + o-Ni4B3 |  | unspecified | [1] Cacciamani 2011 | Table 11, p. 11, row 5; `ORC-PA3WA6KSQ3` |  |
+| 1296.55 | eutectic: Liquid -> TiB2 + m-Ni4B3 + o-Ni4B3 |  | unspecified | [1] Cacciamani 2011 | Table 11, p. 11, row 6; `ORC-XVRM7MPIMG` |  |
+| 1290.95 | eutectic: Liquid -> TiB2 + NiB + m-Ni4B3 |  | unspecified | [1] Cacciamani 2011 | Table 11, p. 11, row 7; `ORC-I23GR3BAID` |  |
+| 1274.45 | eutectic: Liquid -> Ti2Ni21B6 + Ni + TiNi3 |  | unspecified | [1] Cacciamani 2011 | Table 11, p. 11, row 8; `ORC-Y4XZ4XEI6K` |  |
+| 1256.55 | eutectic: Liquid -> TiB2 + Ti2Ni21B6 + TiNi3 |  | unspecified | [1] Cacciamani 2011 | Table 11, p. 11, row 9; `ORC-WMURKVPSA4` |  |
+| 1240.75 | quasi-peritectic: Liquid + TiB2 -> TiNi + Ti3B4 |  | unspecified | [1] Cacciamani 2011 | Table 11, p. 11, row 10; `ORC-43JUNFN2TX` |  |
+| 1212.55 | quasi-peritectic: Liquid + Ti3B4 -> TiNi + TiB |  | unspecified | [1] Cacciamani 2011 | Table 11, p. 11, row 11; `ORC-5FYO7OCDQQ` |  |
+| 1138.75 | eutectic: Liquid -> BCC_A2 + TiB + Ti2Ni |  | unspecified | [1] Cacciamani 2011 | Table 11, p. 11, row 12; `ORC-MMZHOY32Y6` |  |
+| 1135.05 | eutectic: Liquid -> TiNi + TiB + Ti2Ni |  | unspecified | [1] Cacciamani 2011 | Table 11, p. 11, row 13; `ORC-5HBDU3Y5Y2` |  |
+| 1130.45 | eutectic: Liquid -> TiB2 + TiNi + TiNi3 |  | unspecified | [1] Cacciamani 2011 | Table 11, p. 11, row 14; `ORC-3BU5WEPT4S` |  |
 
 ## Sources
 
@@ -82,4 +82,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

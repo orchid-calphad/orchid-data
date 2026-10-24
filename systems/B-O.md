@@ -51,7 +51,7 @@ Table: Invariant reactions reported in the literature for the B–O system (1)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2115 | eutectic |  | model | [1] Pham 2023 | p. 7 | “The eutectic composition is found at an oxygen mole fraction of 0.586 and 2115 K, shown in the figure insert.” |
+| 2115 | eutectic |  | model | [1] Pham 2023 | p. 7; `ORC-NJMFCVZENA` | “The eutectic composition is found at an oxygen mole fraction of 0.586 and 2115 K, shown in the figure insert.” |
 
 ## Other properties
 
@@ -61,11 +61,11 @@ Table: Phase transition, B–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 724 K | 724 | congruent transformation | model | [1] Pham 2023 | p. 7 | “B2 O3 melts congruently at 724 K and becomes a gas at 2134 K.” |
-| Phase transition | 1063 K | 1063 | B6O -> α-B + liquid | model | [1] Pham 2023 | p. 7 | “The model predicts the decomposition of B6 O at ambient pressure at 1063 K.” |
-| Phase transition | 1067 K | 1067 |  | model | [1] Pham 2023 | p. 5 | “The standard enthalpy of formation is obtained from Makarov and Ugai,43 and the entropy of formation is estimated using zero-order interaction parameters with B6 O existing as a line compound and a decomposition temperature of 1067 K.” |
-| Phase transition | 2348 K | 2348 |  | model | [1] Pham 2023; _cites Duschanek 1998_ | p. 9 | “At 2433 K (Figure 8B), there is a small phase discrepancy with respect to the β-B and liquid equilibria as Duschanek et al.18 has a modeled melting point for β-B of 2348 K, and Saengdeejing et al.31 is slightly higher at 2358 K.” |
-| Phase transition | 2358 K | 2358 |  | model | [1] Pham 2023; _cites Saengdeejing 2012_ | p. 9 | “At 2433 K (Figure 8B), there is a small phase discrepancy with respect to the β-B and liquid equilibria as Duschanek et al.18 has a modeled melting point for β-B of 2348 K, and Saengdeejing et al.31 is slightly higher at 2358 K.” |
+| Phase transition | 724 K | 724 | congruent transformation | model | [1] Pham 2023 | p. 7; `ORC-F3FHXPT45D` | “B2 O3 melts congruently at 724 K and becomes a gas at 2134 K.” |
+| Phase transition | 1063 K | 1063 | B6O -> α-B + liquid | model | [1] Pham 2023 | p. 7; `ORC-VIAWG4DHQO` | “The model predicts the decomposition of B6 O at ambient pressure at 1063 K.” |
+| Phase transition | 1067 K | 1067 |  | model | [1] Pham 2023 | p. 5; `ORC-KNWB22NO3P` | “The standard enthalpy of formation is obtained from Makarov and Ugai,43 and the entropy of formation is estimated using zero-order interaction parameters with B6 O existing as a line compound and a decomposition temperature of 1067 K.” |
+| Phase transition | 2348 K | 2348 |  | model | [1] Pham 2023; _cites Duschanek 1998_ | p. 9; `ORC-7WXZSRSJ2E.c96adc` | “At 2433 K (Figure 8B), there is a small phase discrepancy with respect to the β-B and liquid equilibria as Duschanek et al.18 has a modeled melting point for β-B of 2348 K, and Saengdeejing et al.31 is slightly higher at 2358 K.” |
+| Phase transition | 2358 K | 2358 |  | model | [1] Pham 2023; _cites Saengdeejing 2012_ | p. 9; `ORC-7WXZSRSJ2E.0ae6f9` | “At 2433 K (Figure 8B), there is a small phase discrepancy with respect to the β-B and liquid equilibria as Duschanek et al.18 has a modeled melting point for β-B of 2348 K, and Saengdeejing et al.31 is slightly higher at 2358 K.” |
 
 ## Sources
 
@@ -130,4 +130,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -102,21 +102,21 @@ Table: Invariant reactions reported in the literature for the Ce–Sb system (15
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1784 | Liq. + CeSb -> Ce4Sb3 | L: Sb 0.299; CeSb: Sb 0.5; Ce4Sb3: Sb 0.4286 | model | [1] Su 2006 | Table 2, p. 3, row 7 |  |
-| 1783 | peritectic |  | experimental | [1] Su 2006 | p. 2 | “The compounds CeSb2 , Ce4 Sb3 , and CeSb2 are formed by peritectic reactions at 1603, 1783 and 1403 K, respectively.” |
-| 1783 | Liq. + CeSb -> Ce4Sb3 | CeSb: Sb 0.5; Ce4Sb3: Sb 0.4286 | unspecified | [1] Su 2006; _cites Abulkhaev 1997_ | Table 2, p. 3, row 8 |  |
-| 1603 | peritectic |  | experimental | [1] Su 2006 | p. 2 | “The compounds CeSb2 , Ce4 Sb3 , and CeSb2 are formed by peritectic reactions at 1603, 1783 and 1403 K, respectively.” |
-| 1603 | Liq. + Ce4Sb3 -> Ce2Sb | Ce4Sb3: Sb 0.4286; Ce2Sb: Sb 0.3334 | unspecified | [1] Su 2006; _cites Abulkhaev 1997_ | Table 2, p. 3, row 6 |  |
-| 1603 | Liq. + Ce4Sb3 -> Ce2Sb | L: Sb 0.2224; Ce4Sb3: Sb 0.4286; Ce2Sb: Sb 0.3334 | model | [1] Su 2006 | Table 2, p. 3, row 5 |  |
-| 1403 | Liq. + CeSb -> CeSb2 | L: Sb 0.8105; CeSb: Sb 0.5; CeSb2: Sb 0.6667 | model | [1] Su 2006 | Table 2, p. 3, row 11 |  |
-| 1403 | peritectic |  | experimental | [1] Su 2006 | p. 2 | “The compounds CeSb2 , Ce4 Sb3 , and CeSb2 are formed by peritectic reactions at 1603, 1783 and 1403 K, respectively.” |
-| 1403 | Liq. + CeSb -> CeSb2 | CeSb: Sb 0.5; CeSb2: Sb 0.6667 | unspecified | [1] Su 2006; _cites Abulkhaev 1997_ | Table 2, p. 3, row 12 |  |
-| 1044 | Liq. -> (δCe) + Ce2Sb | L: Sb 0.0236; (δCe): Sb 0.0163; Ce2Sb: Sb 0.3334 | model | [1] Su 2006 | Table 2, p. 3, row 3 |  |
-| 1043 | Liq. -> (δCe) + Ce2Sb | Ce2Sb: Sb 0.3334 | unspecified | [1] Su 2006; _cites Abulkhaev 1997_ | Table 2, p. 3, row 4 |  |
-| 975 | (δCe) -> (γCe) + Ce2Sb | (δCe): Sb 0.0076; (γCe): Sb 0; Ce2Sb: Sb 0.3334 | model | [1] Su 2006 | Table 2, p. 3, row 1 |  |
-| 973 | (δCe) -> (γCe) + Ce2Sb | Ce2Sb: Sb 0.3334 | unspecified | [1] Su 2006; _cites Abulkhaev 1997_ | Table 2, p. 3, row 2 |  |
-| 898 | Liq. -> (Sb) + CeSb2 | (Sb): Sb 1; CeSb2: Sb 0.6667 | unspecified | [1] Su 2006; _cites Abulkhaev 1997_ | Table 2, p. 3, row 14 |  |
-| 897 | Liq. -> (Sb) + CeSb2 | L: Sb 0.9858; (Sb): Sb 1; CeSb2: Sb 0.6667 | model | [1] Su 2006 | Table 2, p. 3, row 13 |  |
+| 1784 | Liq. + CeSb -> Ce4Sb3 | L: Sb 0.299; CeSb: Sb 0.5; Ce4Sb3: Sb 0.4286 | model | [1] Su 2006 | Table 2, p. 3, row 7; `ORC-AGLO2WWEFI` |  |
+| 1783 | peritectic |  | experimental | [1] Su 2006 | p. 2; `ORC-6UXUIKOXSR.92ba99` | “The compounds CeSb2 , Ce4 Sb3 , and CeSb2 are formed by peritectic reactions at 1603, 1783 and 1403 K, respectively.” |
+| 1783 | Liq. + CeSb -> Ce4Sb3 | CeSb: Sb 0.5; Ce4Sb3: Sb 0.4286 | unspecified | [1] Su 2006; _cites Abulkhaev 1997_ | Table 2, p. 3, row 8; `ORC-JDMCINURVM` |  |
+| 1603 | peritectic |  | experimental | [1] Su 2006 | p. 2; `ORC-6UXUIKOXSR.a3f076` | “The compounds CeSb2 , Ce4 Sb3 , and CeSb2 are formed by peritectic reactions at 1603, 1783 and 1403 K, respectively.” |
+| 1603 | Liq. + Ce4Sb3 -> Ce2Sb | Ce4Sb3: Sb 0.4286; Ce2Sb: Sb 0.3334 | unspecified | [1] Su 2006; _cites Abulkhaev 1997_ | Table 2, p. 3, row 6; `ORC-GO7YGIX7QA` |  |
+| 1603 | Liq. + Ce4Sb3 -> Ce2Sb | L: Sb 0.2224; Ce4Sb3: Sb 0.4286; Ce2Sb: Sb 0.3334 | model | [1] Su 2006 | Table 2, p. 3, row 5; `ORC-NBGYM2KKIC` |  |
+| 1403 | Liq. + CeSb -> CeSb2 | L: Sb 0.8105; CeSb: Sb 0.5; CeSb2: Sb 0.6667 | model | [1] Su 2006 | Table 2, p. 3, row 11; `ORC-2B4ADM4SNY` |  |
+| 1403 | peritectic |  | experimental | [1] Su 2006 | p. 2; `ORC-6UXUIKOXSR.bfbc37` | “The compounds CeSb2 , Ce4 Sb3 , and CeSb2 are formed by peritectic reactions at 1603, 1783 and 1403 K, respectively.” |
+| 1403 | Liq. + CeSb -> CeSb2 | CeSb: Sb 0.5; CeSb2: Sb 0.6667 | unspecified | [1] Su 2006; _cites Abulkhaev 1997_ | Table 2, p. 3, row 12; `ORC-OTKJDZTKUG` |  |
+| 1044 | Liq. -> (δCe) + Ce2Sb | L: Sb 0.0236; (δCe): Sb 0.0163; Ce2Sb: Sb 0.3334 | model | [1] Su 2006 | Table 2, p. 3, row 3; `ORC-RY7MHJ2YGR` |  |
+| 1043 | Liq. -> (δCe) + Ce2Sb | Ce2Sb: Sb 0.3334 | unspecified | [1] Su 2006; _cites Abulkhaev 1997_ | Table 2, p. 3, row 4; `ORC-4VZ3JUDSLD` |  |
+| 975 | (δCe) -> (γCe) + Ce2Sb | (δCe): Sb 0.0076; (γCe): Sb 0; Ce2Sb: Sb 0.3334 | model | [1] Su 2006 | Table 2, p. 3, row 1; `ORC-O6PSDJMPNX` |  |
+| 973 | (δCe) -> (γCe) + Ce2Sb | Ce2Sb: Sb 0.3334 | unspecified | [1] Su 2006; _cites Abulkhaev 1997_ | Table 2, p. 3, row 2; `ORC-AIOQ2TBFSE` |  |
+| 898 | Liq. -> (Sb) + CeSb2 | (Sb): Sb 1; CeSb2: Sb 0.6667 | unspecified | [1] Su 2006; _cites Abulkhaev 1997_ | Table 2, p. 3, row 14; `ORC-ZW7MLXYTNA` |  |
+| 897 | Liq. -> (Sb) + CeSb2 | L: Sb 0.9858; (Sb): Sb 1; CeSb2: Sb 0.6667 | model | [1] Su 2006 | Table 2, p. 3, row 13; `ORC-VJHIGWT7GJ` |  |
 
 ## Other properties
 
@@ -126,9 +126,9 @@ Table: Phase transition, Ce–Sb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1173 K | 1173 | polymorphic | experimental | [1] Su 2006 | p. 2 | “There is a polymorphic change for CeSb2 at 1173 K.” |
-| Phase transition | 2092 K | 2092 | Liq. -> CeSb; _L: Sb 0.5; CeSb: Sb 0.5_ | model | [1] Su 2006 | Table 2, p. 3, row 9 |  |
-| Phase transition | 2093 K | 2093 | Liq. -> CeSb; _L: Sb 0.5; CeSb: Sb 0.5_ | unspecified | [1] Su 2006; _cites Abulkhaev 1997_ | Table 2, p. 3, row 10 |  |
+| Phase transition | 1173 K | 1173 | polymorphic | experimental | [1] Su 2006 | p. 2; `ORC-OVSEWLETS3` | “There is a polymorphic change for CeSb2 at 1173 K.” |
+| Phase transition | 2092 K | 2092 | Liq. -> CeSb; _L: Sb 0.5; CeSb: Sb 0.5_ | model | [1] Su 2006 | Table 2, p. 3, row 9; `ORC-UVIVVZ4TCB` |  |
+| Phase transition | 2093 K | 2093 | Liq. -> CeSb; _L: Sb 0.5; CeSb: Sb 0.5_ | unspecified | [1] Su 2006; _cites Abulkhaev 1997_ | Table 2, p. 3, row 10; `ORC-LDMY25MNSZ` |  |
 
 ## Sources
 
@@ -193,4 +193,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

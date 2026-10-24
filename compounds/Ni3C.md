@@ -14,11 +14,11 @@ Table: Enthalpy of formation of Ni3C reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| 38.5 kJ/mol (basis unstated) | Ni3C | 298.15 | experimental |  | [C–Ni](https://data.orchid-project.org/systems/C-NI.html) | [1] Oikawa 2022; _cites Roth 1929_ [doi](https://doi.org/10.1002/ange.19290424102) | Table 4, p. 9, row 1 |  |
-| 39.5 kJ/mol (basis unstated) | Ni3C | 0 | model |  | [C–Ni](https://data.orchid-project.org/systems/C-NI.html) | [1] Oikawa 2022; _cites Gibson 2010_ [doi](https://doi.org/10.1088/0953-8984/22/44/445503) | Table 4, p. 9, row 2 |  |
-| 26.3 kJ/mol (basis unstated) | Ni3C | 0 | unspecified |  | [C–Ni](https://data.orchid-project.org/systems/C-NI.html) | [1] Oikawa 2022; _cites Nishitani 1985_ [doi](https://doi.org/10.1007/bf00720526) | Table 4, p. 9, row 3 |  |
-| 33.2 kJ/mol (basis unstated) | Ni3C | 298.15 | unspecified |  | [C–Ni](https://data.orchid-project.org/systems/C-NI.html) | [1] Oikawa 2022 | Table 4, p. 9, row 5 |  |
-| 40.2 kJ/mol (basis unstated) | Ni3C | 298.15 | unspecified |  | [C–Ni](https://data.orchid-project.org/systems/C-NI.html) | [1] Oikawa 2022; _cites Gabriel 1988_ | Table 4, p. 9, row 4 |  |
+| 38.5 kJ/mol (basis unstated) | Ni3C | 298.15 | experimental |  | [C–Ni](https://data.orchid-project.org/systems/C-NI.html) | [1] Oikawa 2022; _cites Roth 1929_ [doi](https://doi.org/10.1002/ange.19290424102) | Table 4, p. 9, row 1; `ORC-U2U5OS77XA` |  |
+| 39.5 kJ/mol (basis unstated) | Ni3C | 0 | model |  | [C–Ni](https://data.orchid-project.org/systems/C-NI.html) | [1] Oikawa 2022; _cites Gibson 2010_ [doi](https://doi.org/10.1088/0953-8984/22/44/445503) | Table 4, p. 9, row 2; `ORC-QY66R5VMDZ` |  |
+| 26.3 kJ/mol (basis unstated) | Ni3C | 0 | unspecified |  | [C–Ni](https://data.orchid-project.org/systems/C-NI.html) | [1] Oikawa 2022; _cites Nishitani 1985_ [doi](https://doi.org/10.1007/bf00720526) | Table 4, p. 9, row 3; `ORC-SYRLMVBFEC` |  |
+| 33.2 kJ/mol (basis unstated) | Ni3C | 298.15 | unspecified |  | [C–Ni](https://data.orchid-project.org/systems/C-NI.html) | [1] Oikawa 2022 | Table 4, p. 9, row 5; `ORC-QSATOEEC7V` |  |
+| 40.2 kJ/mol (basis unstated) | Ni3C | 298.15 | unspecified |  | [C–Ni](https://data.orchid-project.org/systems/C-NI.html) | [1] Oikawa 2022; _cites Gabriel 1988_ | Table 4, p. 9, row 4; `ORC-3P3RXICTZK` |  |
 
 ### Uncertainty budget
 
@@ -85,4 +85,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

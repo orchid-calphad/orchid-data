@@ -14,10 +14,10 @@ Table: Enthalpy of formation of SiZnP2 reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -171.658 kJ/mol (basis unstated) | ZnSiP2 | 298.15 | experimental |  | [P–Si–Zn](https://data.orchid-project.org/systems/P-SI-ZN.html) | [1] Liu 2016; _cites Buehler 1971_ [doi](https://doi.org/10.1016/0022-0248%2871%2990260-0) | Table 4, p. 6, row 12 |  |
-| -75.165 kJ/mol (basis unstated) | ZnSiP2 | 298.15 | experimental |  | [P–Si–Zn](https://data.orchid-project.org/systems/P-SI-ZN.html) | [1] Liu 2016; _cites Korb 1976_ [doi](https://doi.org/10.1002/zaac.19764250313) | Table 4, p. 6, row 11 |  |
-| -153.168 kJ/mol (basis unstated) | ZnSiP2 | 298.15 | model |  | [P–Si–Zn](https://data.orchid-project.org/systems/P-SI-ZN.html) | [1] Liu 2016 | Table 4, p. 6, row 10 |  |
-| -108.618 kJ/mol (basis unstated) | ZnSiP2 | 298.15 | DFT |  | [P–Si–Zn](https://data.orchid-project.org/systems/P-SI-ZN.html) | [1] Liu 2016; _cites Arab 2012_ [doi](https://doi.org/10.1016/j.commatsci.2012.08.012) | Table 4, p. 6, row 13 |  |
+| -171.658 kJ/mol (basis unstated) | ZnSiP2 | 298.15 | experimental |  | [P–Si–Zn](https://data.orchid-project.org/systems/P-SI-ZN.html) | [1] Liu 2016; _cites Buehler 1971_ [doi](https://doi.org/10.1016/0022-0248%2871%2990260-0) | Table 4, p. 6, row 12; `ORC-INE6V6ZXBO.87bbb0` |  |
+| -75.165 kJ/mol (basis unstated) | ZnSiP2 | 298.15 | experimental |  | [P–Si–Zn](https://data.orchid-project.org/systems/P-SI-ZN.html) | [1] Liu 2016; _cites Korb 1976_ [doi](https://doi.org/10.1002/zaac.19764250313) | Table 4, p. 6, row 11; `ORC-JPGXMPMPY2` |  |
+| -153.168 kJ/mol (basis unstated) | ZnSiP2 | 298.15 | model |  | [P–Si–Zn](https://data.orchid-project.org/systems/P-SI-ZN.html) | [1] Liu 2016 | Table 4, p. 6, row 10; `ORC-RDFZDMBUCK.c3af76` |  |
+| -108.618 kJ/mol (basis unstated) | ZnSiP2 | 298.15 | DFT |  | [P–Si–Zn](https://data.orchid-project.org/systems/P-SI-ZN.html) | [1] Liu 2016; _cites Arab 2012_ [doi](https://doi.org/10.1016/j.commatsci.2012.08.012) | Table 4, p. 6, row 13; `ORC-YXKDAN7MUV` |  |
 
 ### Uncertainty budget
 
@@ -83,4 +83,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

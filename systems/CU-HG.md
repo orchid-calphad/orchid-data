@@ -48,11 +48,11 @@ Table: Invariant reactions reported in the literature for the Cu–Hg system (5)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 933 | liq -> fcc + liq |  | experimental | [1] Liu 2012; _cites Lugscheider 1971_ | Table 4, p. 5, row 2 |  |
-| 930.1 | liq -> fcc + liq | liq: Hg 0.883; fcc: Hg 0.0487; liq (1st): Hg 0.249; liq (2nd): Hg 0.883 | model | [1] Liu 2012 | Table 4, p. 5, row 1 |  |
-| 401.5 | liq + fcc -> Cu7Hg6 | liq: Hg 0.9999; fcc: Hg 1.600e-5; Cu7Hg6: Cu 0.538462, Hg 0.461538 | model | [1] Liu 2012 | Table 4, p. 5, row 3 |  |
-| 401 | liq + fcc -> Cu7Hg6 | Cu7Hg6: Cu 0.538462, Hg 0.461538 | experimental | [1] Liu 2012; _cites Lugscheider 1971_ | Table 4, p. 5, row 4 |  |
-| 234.3 | liq -> Cu7Hg6 + (Hg) | Cu7Hg6: Cu 0.538462, Hg 0.461538 | model | [1] Liu 2012 | Table 4, p. 5, row 5 |  |
+| 933 | liq -> fcc + liq |  | experimental | [1] Liu 2012; _cites Lugscheider 1971_ | Table 4, p. 5, row 2; `ORC-C7XRTVTFMZ` |  |
+| 930.1 | liq -> fcc + liq | liq: Hg 0.883; fcc: Hg 0.0487; liq (1st): Hg 0.249; liq (2nd): Hg 0.883 | model | [1] Liu 2012 | Table 4, p. 5, row 1; `ORC-Z5IUUBDD6Z` |  |
+| 401.5 | liq + fcc -> Cu7Hg6 | liq: Hg 0.9999; fcc: Hg 1.600e-5; Cu7Hg6: Cu 0.538462, Hg 0.461538 | model | [1] Liu 2012 | Table 4, p. 5, row 3; `ORC-QQUZVXZIW7` |  |
+| 401 | liq + fcc -> Cu7Hg6 | Cu7Hg6: Cu 0.538462, Hg 0.461538 | experimental | [1] Liu 2012; _cites Lugscheider 1971_ | Table 4, p. 5, row 4; `ORC-O52EGETR2M` |  |
+| 234.3 | liq -> Cu7Hg6 + (Hg) | Cu7Hg6: Cu 0.538462, Hg 0.461538 | model | [1] Liu 2012 | Table 4, p. 5, row 5; `ORC-RQO367R6AO` |  |
 
 ## Sources
 
@@ -117,4 +117,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

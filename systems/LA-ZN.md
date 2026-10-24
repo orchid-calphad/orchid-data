@@ -100,55 +100,55 @@ Table: Invariant reactions reported in the literature for the La–Zn system (49
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1248 | other: Liquid = La2Zn17 | Liquid: Zn 0.895; La2Zn17: Zn 0.895 | experimental | [1] Berche 2012; _cites Berche 2011_ [doi](https://doi.org/10.1016/j.tca.2011.05.001) | Table 1, p. 2, row 22 |  |
-| 1248 | other: Liquid = La2Zn17 | Liquid: Zn 0.895; La2Zn17: Zn 0.895 | model | [1] Berche 2012 | Table 1, p. 2, row 23 |  |
-| 1241 | peritectic: Liquid + La2Zn17 = La3Zn22 | Liquid: Zn 0.877; La2Zn17: Zn 0.895; La3Zn22: Zn 0.88 | model | [1] Berche 2012 | Table 1, p. 2, row 21 |  |
-| 1238 | peritectic: Liquid + La2Zn17 = La3Zn22 | La2Zn17: Zn 0.895; La3Zn22: Zn 0.88 | experimental | [1] Berche 2012; _cites Berche 2011_ [doi](https://doi.org/10.1016/j.tca.2011.05.001) | Table 1, p. 2, row 20 |  |
-| 1229 | peritectic: L + La2Zn17 -> La3Zn22 | La2Zn17: Zn 0.894737; La3Zn22: Zn 0.88 | model | [2] Qi 2010 | Table 1, p. 3, row 14 |  |
-| 1225 | peritectic: Liquid + La3Zn22 = LaZn7 | Liquid: Zn 0.853; La3Zn22: Zn 0.88; LaZn7: Zn 0.875 | model | [1] Berche 2012 | Table 1, p. 2, row 19 |  |
-| 1178 | peritectic: L + La3Zn22 -> LaZn5 | La3Zn22: Zn 0.88; LaZn5: Zn 0.833333 | model | [2] Qi 2010 | Table 1, p. 3, row 13 |  |
-| 1146 | peritectic: Liquid + La3Zn22 = LaZn5 | La3Zn22: Zn 0.88; LaZn5: Zn 0.833 | experimental | [1] Berche 2012; _cites Berche 2011_ [doi](https://doi.org/10.1016/j.tca.2011.05.001) | Table 1, p. 2, row 17 |  |
-| 1145 | peritectic: L + LaZn5 -> LaZn4 | LaZn5: Zn 0.833333; LaZn4: Zn 0.8 | experimental | [2] Qi 2010; _cites Rolla 1941_ | Table 1, p. 3, row 12 |  |
-| 1145 | peritectic |  | model | [2] Qi 2010; _cites Gschneidner 1990_ | p. 1 | “LaZn4 and LaZn13 form through peritectic reactions at 1145 K and 1113 K, respectively.” |
-| 1144 | peritectic: Liquid + LaZn7 = LaZn5 | Liquid: Zn 0.807; LaZn7: Zn 0.875; LaZn5: Zn 0.833 | model | [1] Berche 2012 | Table 1, p. 2, row 18 |  |
-| 1139 | peritectic: L + LaZn5 -> LaZn4 | LaZn5: Zn 0.833333; LaZn4: Zn 0.8 | model | [2] Qi 2010 | Table 1, p. 3, row 11 |  |
-| 1136 | peritectic: Liquid + La2Zn17 = LaZn11 | La2Zn17: Zn 0.895; LaZn11: Zn 0.917 | experimental | [1] Berche 2012; _cites Berche 2011_ [doi](https://doi.org/10.1016/j.tca.2011.05.001) | Table 1, p. 2, row 24 |  |
-| 1135 | peritectic: Liquid + LaZn5 = LaZn4 | LaZn5: Zn 0.833; LaZn4: Zn 0.8 | experimental | [1] Berche 2012; _cites Berche 2011_ [doi](https://doi.org/10.1016/j.tca.2011.05.001) | Table 1, p. 2, row 15 |  |
-| 1134 | peritectic: Liquid + La2Zn17 = LaZn11 | Liquid: Zn 0.956; La2Zn17: Zn 0.895; LaZn11: Zn 0.917 | model | [1] Berche 2012 | Table 1, p. 2, row 25 |  |
-| 1128 | peritectic: Liquid + LaZn5 = LaZn4 | Liquid: Zn 0.793; LaZn5: Zn 0.833; LaZn4: Zn 0.8 | model | [1] Berche 2012 | Table 1, p. 2, row 16 |  |
-| 1125 | other: Liquid = LaZn2 | Liquid: Zn 0.667; LaZn2: Zn 0.667 | experimental | [1] Berche 2012; _cites Berche 2011_ [doi](https://doi.org/10.1016/j.tca.2011.05.001) | Table 1, p. 2, row 11 |  |
-| 1123 | other: Liquid = LaZn2 | Liquid: Zn 0.667; LaZn2: Zn 0.667 | model | [1] Berche 2012 | Table 1, p. 2, row 12 |  |
-| 1117 | peritectic: L + La2Zn17 -> LaZn11 | La2Zn17: Zn 0.894737; LaZn11: Zn 0.916667 | model | [2] Qi 2010 | Table 1, p. 3, row 17 |  |
-| 1117 | peritectic |  | experimental | [2] Qi 2010; _cites Iandelli 1967_ [doi](https://doi.org/10.1016/0022-5088%2867%2990001-x) | p. 1 | “They found that LaZn13 does not stable all the way up with increasing temperature and observed LaZn13 and LaZn11 decomposes peritectically at 983 K and 1117 K, respectively.” |
-| 1117 | peritectic: L + La2Zn17 -> LaZn11 | La2Zn17: Zn 0.894737; LaZn11: Zn 0.916667 | experimental | [2] Qi 2010; _cites Iandelli 1967_ [doi](https://doi.org/10.1016/0022-5088%2867%2990001-x) | Table 1, p. 3, row 18 |  |
-| 1113 | peritectic |  | model | [2] Qi 2010; _cites Gschneidner 1990_ | p. 1 | “LaZn4 and LaZn13 form through peritectic reactions at 1145 K and 1113 K, respectively.” |
-| 1085 | other: Liquid = LaZn | Liquid: Zn 0.5; LaZn: Zn 0.5 | model | [1] Berche 2012 | Table 1, p. 2, row 8 |  |
-| 1085 | other: Liquid = LaZn | Liquid: Zn 0.5; LaZn: Zn 0.5 | experimental | [1] Berche 2012; _cites Berche 2011_ [doi](https://doi.org/10.1016/j.tca.2011.05.001) | Table 1, p. 2, row 7 |  |
-| 1074 | bcc-La = fcc-La + liquid |  | experimental | [1] Berche 2012; _cites Berche 2011_ [doi](https://doi.org/10.1016/j.tca.2011.05.001) | Table 1, p. 2, row 5 |  |
-| 1074 | bcc-La = fcc-La + liquid | bcc-La: Zn 0.021; fcc-La: Zn 0.006; liquid: Zn 0.074 | model | [1] Berche 2012 | Table 1, p. 2, row 6 |  |
-| 1065 | eutectic: L -> LaZn2 + LaZn4 | LaZn2: Zn 0.666667; LaZn4: Zn 0.8 | model | [2] Qi 2010 | Table 1, p. 3, row 9 |  |
-| 1055 | eutectic: Liquid = LaZn2 + LaZn4 | Liquid: Zn 0.731; LaZn2: Zn 0.667; LaZn4: Zn 0.8 | model | [1] Berche 2012 | Table 1, p. 2, row 14 |  |
-| 1055 | eutectic: L -> LaZn2 + LaZn4 | LaZn2: Zn 0.666667; LaZn4: Zn 0.8 | experimental | [2] Qi 2010; _cites Rolla 1941_ | Table 1, p. 3, row 10 |  |
-| 1055 | eutectic |  | experimental | [2] Qi 2010; _cites Rolla 1941_ | p. 1 | “Three eutectic reactions occur at 803 K, 1036 K and 1055 K.” |
-| 1047 | eutectic: Liquid = LaZn2 + LaZn4 | Liquid: Zn 0.734; LaZn2: Zn 0.667; LaZn4: Zn 0.8 | experimental | [1] Berche 2012; _cites Berche 2011_ [doi](https://doi.org/10.1016/j.tca.2011.05.001) | Table 1, p. 2, row 13 |  |
-| 1041 | eutectic: L -> LaZn(B2) + LaZn2 | LaZn2: Zn 0.666667 | model | [2] Qi 2010 | Table 1, p. 3, row 5 |  |
-| 1036 | eutectic |  | experimental | [2] Qi 2010; _cites Rolla 1941_ | p. 1 | “Three eutectic reactions occur at 803 K, 1036 K and 1055 K.” |
-| 1033 | eutectic: L -> LaZn(B2) + LaZn2 | LaZn2: Zn 0.666667 | experimental | [2] Qi 2010; _cites Rolla 1941_ | Table 1, p. 3, row 6 |  |
-| 1031 | eutectic: Liquid = LaZn + LaZn2 | Liquid: Zn 0.565; LaZn: Zn 0.5; LaZn2: Zn 0.667 | model | [1] Berche 2012 | Table 1, p. 2, row 10 |  |
-| 1026 | eutectic: Liquid = LaZn + LaZn2 | Liquid: Zn 0.565; LaZn: Zn 0.5; LaZn2: Zn 0.667 | experimental | [1] Berche 2012; _cites Berche 2011_ [doi](https://doi.org/10.1016/j.tca.2011.05.001) | Table 1, p. 2, row 9 |  |
-| 993 | peritectic: Liquid + LaZn11 = LaZn13 | LaZn11: Zn 0.917; LaZn13: Zn 0.929 | experimental | [1] Berche 2012; _cites Berche 2011_ [doi](https://doi.org/10.1016/j.tca.2011.05.001) | Table 1, p. 2, row 26 |  |
-| 991 | peritectic: Liquid + LaZn11 = LaZn13 | Liquid: Zn 0.986; LaZn11: Zn 0.917; LaZn13: Zn 0.929 | model | [1] Berche 2012 | Table 1, p. 2, row 27 |  |
-| 983 | peritectic |  | experimental | [2] Qi 2010; _cites Iandelli 1967_ [doi](https://doi.org/10.1016/0022-5088%2867%2990001-x) | p. 1 | “They found that LaZn13 does not stable all the way up with increasing temperature and observed LaZn13 and LaZn11 decomposes peritectically at 983 K and 1117 K, respectively.” |
-| 983 | peritectic: L + LaZn11 -> LaZn13 | LaZn11: Zn 0.916667; LaZn13: Zn 0.928571 | model | [2] Qi 2010 | Table 1, p. 3, row 19 |  |
-| 983 | peritectic: L + LaZn11 -> LaZn13 | LaZn11: Zn 0.916667; LaZn13: Zn 0.928571 | experimental | [2] Qi 2010; _cites Iandelli 1967_ [doi](https://doi.org/10.1016/0022-5088%2867%2990001-x) | Table 1, p. 3, row 20 |  |
-| 811 | eutectic: Liquid = fcc-La + LaZn | Liquid: Zn 0.231; fcc-La: Zn 0.027; LaZn: Zn 0.5 | model | [1] Berche 2012 | Table 1, p. 2, row 4 |  |
-| 810 | eutectic: Liquid = fcc-La + LaZn | Liquid: Zn 0.22; LaZn: Zn 0.5 | experimental | [1] Berche 2012; _cites Berche 2011_ [doi](https://doi.org/10.1016/j.tca.2011.05.001) | Table 1, p. 2, row 3 |  |
-| 803 | eutectic: L -> Fcc + LaZn(B2) |  | experimental | [2] Qi 2010; _cites Rolla 1941_ | Table 1, p. 3, row 2 |  |
-| 803 | eutectic |  | experimental | [2] Qi 2010; _cites Rolla 1941_ | p. 1 | “Three eutectic reactions occur at 803 K, 1036 K and 1055 K.” |
-| 796 | eutectic: L -> Fcc + LaZn(B2) |  | model | [2] Qi 2010 | Table 1, p. 3, row 1 |  |
-| 694 | eutectic: Liquid = hcp-Zn + LaZn13 | Liquid: Zn 1; hcp-Zn: Zn 1; LaZn13: Zn 0.929 | experimental | [1] Berche 2012; _cites Berche 2011_ [doi](https://doi.org/10.1016/j.tca.2011.05.001) | Table 1, p. 2, row 28 |  |
-| 692 | eutectic: Liquid = hcp-Zn + LaZn13 | Liquid: Zn 1; hcp-Zn: Zn 1; LaZn13: Zn 0.929 | model | [1] Berche 2012 | Table 1, p. 2, row 29 |  |
-| 519 | fcc-La = LaZn + dhcp-La | fcc-La: Zn 0.004; LaZn: Zn 0.5 | model | [1] Berche 2012 | Table 1, p. 2, row 1 |  |
+| 1248 | other: Liquid = La2Zn17 | Liquid: Zn 0.895; La2Zn17: Zn 0.895 | experimental | [1] Berche 2012; _cites Berche 2011_ [doi](https://doi.org/10.1016/j.tca.2011.05.001) | Table 1, p. 2, row 22; `ORC-KZ5CC5WDUQ` |  |
+| 1248 | other: Liquid = La2Zn17 | Liquid: Zn 0.895; La2Zn17: Zn 0.895 | model | [1] Berche 2012 | Table 1, p. 2, row 23; `ORC-OUVECHVQZ6` |  |
+| 1241 | peritectic: Liquid + La2Zn17 = La3Zn22 | Liquid: Zn 0.877; La2Zn17: Zn 0.895; La3Zn22: Zn 0.88 | model | [1] Berche 2012 | Table 1, p. 2, row 21; `ORC-OQHWYD3EJE` |  |
+| 1238 | peritectic: Liquid + La2Zn17 = La3Zn22 | La2Zn17: Zn 0.895; La3Zn22: Zn 0.88 | experimental | [1] Berche 2012; _cites Berche 2011_ [doi](https://doi.org/10.1016/j.tca.2011.05.001) | Table 1, p. 2, row 20; `ORC-DCD4JQNWPB` |  |
+| 1229 | peritectic: L + La2Zn17 -> La3Zn22 | La2Zn17: Zn 0.894737; La3Zn22: Zn 0.88 | model | [2] Qi 2010 | Table 1, p. 3, row 14; `ORC-C2NXBQ4KE7` |  |
+| 1225 | peritectic: Liquid + La3Zn22 = LaZn7 | Liquid: Zn 0.853; La3Zn22: Zn 0.88; LaZn7: Zn 0.875 | model | [1] Berche 2012 | Table 1, p. 2, row 19; `ORC-SEYOE2LKPY` |  |
+| 1178 | peritectic: L + La3Zn22 -> LaZn5 | La3Zn22: Zn 0.88; LaZn5: Zn 0.833333 | model | [2] Qi 2010 | Table 1, p. 3, row 13; `ORC-VRM257XJBL` |  |
+| 1146 | peritectic: Liquid + La3Zn22 = LaZn5 | La3Zn22: Zn 0.88; LaZn5: Zn 0.833 | experimental | [1] Berche 2012; _cites Berche 2011_ [doi](https://doi.org/10.1016/j.tca.2011.05.001) | Table 1, p. 2, row 17; `ORC-6ZTOHPQIUR` |  |
+| 1145 | peritectic: L + LaZn5 -> LaZn4 | LaZn5: Zn 0.833333; LaZn4: Zn 0.8 | experimental | [2] Qi 2010; _cites Rolla 1941_ | Table 1, p. 3, row 12; `ORC-CMFND3Q5KC` |  |
+| 1145 | peritectic |  | model | [2] Qi 2010; _cites Gschneidner 1990_ | p. 1; `ORC-YYPLCHUBJ5.440f8d` | “LaZn4 and LaZn13 form through peritectic reactions at 1145 K and 1113 K, respectively.” |
+| 1144 | peritectic: Liquid + LaZn7 = LaZn5 | Liquid: Zn 0.807; LaZn7: Zn 0.875; LaZn5: Zn 0.833 | model | [1] Berche 2012 | Table 1, p. 2, row 18; `ORC-SIS3RX3O6I` |  |
+| 1139 | peritectic: L + LaZn5 -> LaZn4 | LaZn5: Zn 0.833333; LaZn4: Zn 0.8 | model | [2] Qi 2010 | Table 1, p. 3, row 11; `ORC-ESUISYMAZ2` |  |
+| 1136 | peritectic: Liquid + La2Zn17 = LaZn11 | La2Zn17: Zn 0.895; LaZn11: Zn 0.917 | experimental | [1] Berche 2012; _cites Berche 2011_ [doi](https://doi.org/10.1016/j.tca.2011.05.001) | Table 1, p. 2, row 24; `ORC-PETNZ7RJRJ` |  |
+| 1135 | peritectic: Liquid + LaZn5 = LaZn4 | LaZn5: Zn 0.833; LaZn4: Zn 0.8 | experimental | [1] Berche 2012; _cites Berche 2011_ [doi](https://doi.org/10.1016/j.tca.2011.05.001) | Table 1, p. 2, row 15; `ORC-DXNPGHP7TT` |  |
+| 1134 | peritectic: Liquid + La2Zn17 = LaZn11 | Liquid: Zn 0.956; La2Zn17: Zn 0.895; LaZn11: Zn 0.917 | model | [1] Berche 2012 | Table 1, p. 2, row 25; `ORC-SYDWHONTYX` |  |
+| 1128 | peritectic: Liquid + LaZn5 = LaZn4 | Liquid: Zn 0.793; LaZn5: Zn 0.833; LaZn4: Zn 0.8 | model | [1] Berche 2012 | Table 1, p. 2, row 16; `ORC-XY6KUFY56S` |  |
+| 1125 | other: Liquid = LaZn2 | Liquid: Zn 0.667; LaZn2: Zn 0.667 | experimental | [1] Berche 2012; _cites Berche 2011_ [doi](https://doi.org/10.1016/j.tca.2011.05.001) | Table 1, p. 2, row 11; `ORC-Z3I4UONGLX` |  |
+| 1123 | other: Liquid = LaZn2 | Liquid: Zn 0.667; LaZn2: Zn 0.667 | model | [1] Berche 2012 | Table 1, p. 2, row 12; `ORC-CP36CFYOPC` |  |
+| 1117 | peritectic: L + La2Zn17 -> LaZn11 | La2Zn17: Zn 0.894737; LaZn11: Zn 0.916667 | model | [2] Qi 2010 | Table 1, p. 3, row 17; `ORC-4K63XCHSLQ` |  |
+| 1117 | peritectic |  | experimental | [2] Qi 2010; _cites Iandelli 1967_ [doi](https://doi.org/10.1016/0022-5088%2867%2990001-x) | p. 1; `ORC-7TWS2JXPAS.cf1436` | “They found that LaZn13 does not stable all the way up with increasing temperature and observed LaZn13 and LaZn11 decomposes peritectically at 983 K and 1117 K, respectively.” |
+| 1117 | peritectic: L + La2Zn17 -> LaZn11 | La2Zn17: Zn 0.894737; LaZn11: Zn 0.916667 | experimental | [2] Qi 2010; _cites Iandelli 1967_ [doi](https://doi.org/10.1016/0022-5088%2867%2990001-x) | Table 1, p. 3, row 18; `ORC-BS2FFUBWL7` |  |
+| 1113 | peritectic |  | model | [2] Qi 2010; _cites Gschneidner 1990_ | p. 1; `ORC-YYPLCHUBJ5.63cf1a` | “LaZn4 and LaZn13 form through peritectic reactions at 1145 K and 1113 K, respectively.” |
+| 1085 | other: Liquid = LaZn | Liquid: Zn 0.5; LaZn: Zn 0.5 | model | [1] Berche 2012 | Table 1, p. 2, row 8; `ORC-24SP2FJLJE` |  |
+| 1085 | other: Liquid = LaZn | Liquid: Zn 0.5; LaZn: Zn 0.5 | experimental | [1] Berche 2012; _cites Berche 2011_ [doi](https://doi.org/10.1016/j.tca.2011.05.001) | Table 1, p. 2, row 7; `ORC-CARIX3H6P3` |  |
+| 1074 | bcc-La = fcc-La + liquid |  | experimental | [1] Berche 2012; _cites Berche 2011_ [doi](https://doi.org/10.1016/j.tca.2011.05.001) | Table 1, p. 2, row 5; `ORC-KC6RGV6TJC` |  |
+| 1074 | bcc-La = fcc-La + liquid | bcc-La: Zn 0.021; fcc-La: Zn 0.006; liquid: Zn 0.074 | model | [1] Berche 2012 | Table 1, p. 2, row 6; `ORC-MNQIER54CK` |  |
+| 1065 | eutectic: L -> LaZn2 + LaZn4 | LaZn2: Zn 0.666667; LaZn4: Zn 0.8 | model | [2] Qi 2010 | Table 1, p. 3, row 9; `ORC-TCL5NYWREH` |  |
+| 1055 | eutectic: Liquid = LaZn2 + LaZn4 | Liquid: Zn 0.731; LaZn2: Zn 0.667; LaZn4: Zn 0.8 | model | [1] Berche 2012 | Table 1, p. 2, row 14; `ORC-JA2MWLU6P2` |  |
+| 1055 | eutectic: L -> LaZn2 + LaZn4 | LaZn2: Zn 0.666667; LaZn4: Zn 0.8 | experimental | [2] Qi 2010; _cites Rolla 1941_ | Table 1, p. 3, row 10; `ORC-SICHBQDKZI` |  |
+| 1055 | eutectic |  | experimental | [2] Qi 2010; _cites Rolla 1941_ | p. 1; `ORC-UMCRL72KMT.73afc2` | “Three eutectic reactions occur at 803 K, 1036 K and 1055 K.” |
+| 1047 | eutectic: Liquid = LaZn2 + LaZn4 | Liquid: Zn 0.734; LaZn2: Zn 0.667; LaZn4: Zn 0.8 | experimental | [1] Berche 2012; _cites Berche 2011_ [doi](https://doi.org/10.1016/j.tca.2011.05.001) | Table 1, p. 2, row 13; `ORC-BQZX2HIQUP` |  |
+| 1041 | eutectic: L -> LaZn(B2) + LaZn2 | LaZn2: Zn 0.666667 | model | [2] Qi 2010 | Table 1, p. 3, row 5; `ORC-GMQNZNK7OW` |  |
+| 1036 | eutectic |  | experimental | [2] Qi 2010; _cites Rolla 1941_ | p. 1; `ORC-UMCRL72KMT.9aa3bd` | “Three eutectic reactions occur at 803 K, 1036 K and 1055 K.” |
+| 1033 | eutectic: L -> LaZn(B2) + LaZn2 | LaZn2: Zn 0.666667 | experimental | [2] Qi 2010; _cites Rolla 1941_ | Table 1, p. 3, row 6; `ORC-O3SHZBHBEZ` |  |
+| 1031 | eutectic: Liquid = LaZn + LaZn2 | Liquid: Zn 0.565; LaZn: Zn 0.5; LaZn2: Zn 0.667 | model | [1] Berche 2012 | Table 1, p. 2, row 10; `ORC-ZFBNOJJFKN` |  |
+| 1026 | eutectic: Liquid = LaZn + LaZn2 | Liquid: Zn 0.565; LaZn: Zn 0.5; LaZn2: Zn 0.667 | experimental | [1] Berche 2012; _cites Berche 2011_ [doi](https://doi.org/10.1016/j.tca.2011.05.001) | Table 1, p. 2, row 9; `ORC-4YYLJMPQQF` |  |
+| 993 | peritectic: Liquid + LaZn11 = LaZn13 | LaZn11: Zn 0.917; LaZn13: Zn 0.929 | experimental | [1] Berche 2012; _cites Berche 2011_ [doi](https://doi.org/10.1016/j.tca.2011.05.001) | Table 1, p. 2, row 26; `ORC-ZKZGZFVEOR` |  |
+| 991 | peritectic: Liquid + LaZn11 = LaZn13 | Liquid: Zn 0.986; LaZn11: Zn 0.917; LaZn13: Zn 0.929 | model | [1] Berche 2012 | Table 1, p. 2, row 27; `ORC-FENCPZBXPL` |  |
+| 983 | peritectic |  | experimental | [2] Qi 2010; _cites Iandelli 1967_ [doi](https://doi.org/10.1016/0022-5088%2867%2990001-x) | p. 1; `ORC-7TWS2JXPAS.2ef99a` | “They found that LaZn13 does not stable all the way up with increasing temperature and observed LaZn13 and LaZn11 decomposes peritectically at 983 K and 1117 K, respectively.” |
+| 983 | peritectic: L + LaZn11 -> LaZn13 | LaZn11: Zn 0.916667; LaZn13: Zn 0.928571 | model | [2] Qi 2010 | Table 1, p. 3, row 19; `ORC-ARALWAIIZM` |  |
+| 983 | peritectic: L + LaZn11 -> LaZn13 | LaZn11: Zn 0.916667; LaZn13: Zn 0.928571 | experimental | [2] Qi 2010; _cites Iandelli 1967_ [doi](https://doi.org/10.1016/0022-5088%2867%2990001-x) | Table 1, p. 3, row 20; `ORC-F5LCWJX7SA` |  |
+| 811 | eutectic: Liquid = fcc-La + LaZn | Liquid: Zn 0.231; fcc-La: Zn 0.027; LaZn: Zn 0.5 | model | [1] Berche 2012 | Table 1, p. 2, row 4; `ORC-NG7TCC5ALR` |  |
+| 810 | eutectic: Liquid = fcc-La + LaZn | Liquid: Zn 0.22; LaZn: Zn 0.5 | experimental | [1] Berche 2012; _cites Berche 2011_ [doi](https://doi.org/10.1016/j.tca.2011.05.001) | Table 1, p. 2, row 3; `ORC-W6443TFIC4` |  |
+| 803 | eutectic: L -> Fcc + LaZn(B2) |  | experimental | [2] Qi 2010; _cites Rolla 1941_ | Table 1, p. 3, row 2; `ORC-73WTWRVLV2` |  |
+| 803 | eutectic |  | experimental | [2] Qi 2010; _cites Rolla 1941_ | p. 1; `ORC-UMCRL72KMT.ea4492` | “Three eutectic reactions occur at 803 K, 1036 K and 1055 K.” |
+| 796 | eutectic: L -> Fcc + LaZn(B2) |  | model | [2] Qi 2010 | Table 1, p. 3, row 1; `ORC-7GL5R2YJ6W` |  |
+| 694 | eutectic: Liquid = hcp-Zn + LaZn13 | Liquid: Zn 1; hcp-Zn: Zn 1; LaZn13: Zn 0.929 | experimental | [1] Berche 2012; _cites Berche 2011_ [doi](https://doi.org/10.1016/j.tca.2011.05.001) | Table 1, p. 2, row 28; `ORC-CAWFH4KLTT` |  |
+| 692 | eutectic: Liquid = hcp-Zn + LaZn13 | Liquid: Zn 1; hcp-Zn: Zn 1; LaZn13: Zn 0.929 | model | [1] Berche 2012 | Table 1, p. 2, row 29; `ORC-B6EXSJA6UF` |  |
+| 519 | fcc-La = LaZn + dhcp-La | fcc-La: Zn 0.004; LaZn: Zn 0.5 | model | [1] Berche 2012 | Table 1, p. 2, row 1; `ORC-MRKTH6HFFC` |  |
 
 ## Other properties
 
@@ -158,16 +158,16 @@ Table: Phase transition, La–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 993 K | 993 | other | experimental | [1] Berche 2012; _cites Kovalevskii 1972_ | p. 2 | “These values are referred to saturated liquid zinc i.e. \[liquid + LaZn13 \] for temperatures lower than 993 K, and \[liquid + LaZn11 \] for temperatures higher than 993 K.” |
-| Phase transition | 1087 K | 1087 | congruent melting: L -> LaZn(B2) | model | [2] Qi 2010 | Table 1, p. 3, row 3 |  |
-| Phase transition | 1088 K | 1088 | congruent melting: L -> LaZn(B2) | experimental | [2] Qi 2010; _cites Rolla 1941_ | Table 1, p. 3, row 4 |  |
-| Phase transition | 1088 K | 1088 | congruent transformation | experimental | [2] Qi 2010; _cites Rolla 1941_ | p. 1 | “LaZn, LaZn2 and LaZn8 melt congruently at 1088 K, 1128 K and 1249 K, respectively.” |
-| Phase transition | 1120 K | 1120 | congruent melting: L -> LaZn2; _L: Zn 0.666667; LaZn2: Zn 0.666667_ | model | [2] Qi 2010 | Table 1, p. 3, row 7 |  |
-| Phase transition | 1128 K | 1128 | congruent melting: L -> LaZn2; _L: Zn 0.666667; LaZn2: Zn 0.666667_ | experimental | [2] Qi 2010; _cites Rolla 1941_ | Table 1, p. 3, row 8 |  |
-| Phase transition | 1128 K | 1128 | congruent transformation | experimental | [2] Qi 2010; _cites Rolla 1941_ | p. 1 | “LaZn, LaZn2 and LaZn8 melt congruently at 1088 K, 1128 K and 1249 K, respectively.” |
-| Phase transition | 1247 K | 1247 | congruent melting: L -> La2Zn17; _L: Zn 0.894737; La2Zn17: Zn 0.894737_ | experimental | [2] Qi 2010; _cites Rolla 1941_ | Table 1, p. 3, row 16 |  |
-| Phase transition | 1247 K | 1247 | congruent melting: L -> La2Zn17; _L: Zn 0.894737; La2Zn17: Zn 0.894737_ | model | [2] Qi 2010 | Table 1, p. 3, row 15 |  |
-| Phase transition | 1249 K | 1249 | congruent transformation | experimental | [2] Qi 2010; _cites Rolla 1941_ | p. 1 | “LaZn, LaZn2 and LaZn8 melt congruently at 1088 K, 1128 K and 1249 K, respectively.” |
+| Phase transition | 993 K | 993 | other | experimental | [1] Berche 2012; _cites Kovalevskii 1972_ | p. 2; `ORC-J64VIGEFYH` | “These values are referred to saturated liquid zinc i.e. \[liquid + LaZn13 \] for temperatures lower than 993 K, and \[liquid + LaZn11 \] for temperatures higher than 993 K.” |
+| Phase transition | 1087 K | 1087 | congruent melting: L -> LaZn(B2) | model | [2] Qi 2010 | Table 1, p. 3, row 3; `ORC-KKGEGUPKLJ` |  |
+| Phase transition | 1088 K | 1088 | congruent melting: L -> LaZn(B2) | experimental | [2] Qi 2010; _cites Rolla 1941_ | Table 1, p. 3, row 4; `ORC-ERKQUL6N7X` |  |
+| Phase transition | 1088 K | 1088 | congruent transformation | experimental | [2] Qi 2010; _cites Rolla 1941_ | p. 1; `ORC-YWSWXREGFZ.8f760b` | “LaZn, LaZn2 and LaZn8 melt congruently at 1088 K, 1128 K and 1249 K, respectively.” |
+| Phase transition | 1120 K | 1120 | congruent melting: L -> LaZn2; _L: Zn 0.666667; LaZn2: Zn 0.666667_ | model | [2] Qi 2010 | Table 1, p. 3, row 7; `ORC-SLQIGER23H` |  |
+| Phase transition | 1128 K | 1128 | congruent melting: L -> LaZn2; _L: Zn 0.666667; LaZn2: Zn 0.666667_ | experimental | [2] Qi 2010; _cites Rolla 1941_ | Table 1, p. 3, row 8; `ORC-6ZPBSNSEFX` |  |
+| Phase transition | 1128 K | 1128 | congruent transformation | experimental | [2] Qi 2010; _cites Rolla 1941_ | p. 1; `ORC-YWSWXREGFZ.866000` | “LaZn, LaZn2 and LaZn8 melt congruently at 1088 K, 1128 K and 1249 K, respectively.” |
+| Phase transition | 1247 K | 1247 | congruent melting: L -> La2Zn17; _L: Zn 0.894737; La2Zn17: Zn 0.894737_ | experimental | [2] Qi 2010; _cites Rolla 1941_ | Table 1, p. 3, row 16; `ORC-SPCNIHPKID` |  |
+| Phase transition | 1247 K | 1247 | congruent melting: L -> La2Zn17; _L: Zn 0.894737; La2Zn17: Zn 0.894737_ | model | [2] Qi 2010 | Table 1, p. 3, row 15; `ORC-ZPNLARESPP` |  |
+| Phase transition | 1249 K | 1249 | congruent transformation | experimental | [2] Qi 2010; _cites Rolla 1941_ | p. 1; `ORC-YWSWXREGFZ.29fb1d` | “LaZn, LaZn2 and LaZn8 melt congruently at 1088 K, 1128 K and 1249 K, respectively.” |
 
 ### Formation (2)
 
@@ -175,8 +175,8 @@ Table: Formation, La–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy of formation; _printed: entropy of formation_ | -2.834 J K-1 mol atom-1 | 298.15 |  | model | [1] Berche 2012 | p. 5 | “The entropy of formation of a two-phases alloy for xZn = 0.889 is calculated at -2.834 J K-1 mol atom-1 at 298 K which is also very similar to the -2.78 J K-1 mol atom-1 measured by Morishita \[17\].” |
-| Entropy of formation; _printed: entropy of formation_ | -1.66 J K-1 mol atom-1 | 298.15 |  | model | [1] Berche 2012 | p. 5 | “The entropy of formation of LaZn13 is calculated at -1.66 J K-1 mol atom-1 at 298 K in agreement with the value of Morishita \[16\] depending to experimental uncertainties.” |
+| Entropy of formation; _printed: entropy of formation_ | -2.834 J K-1 mol atom-1 | 298.15 |  | model | [1] Berche 2012 | p. 5; `ORC-72TT6QTPRW.d8c810` | “The entropy of formation of a two-phases alloy for xZn = 0.889 is calculated at -2.834 J K-1 mol atom-1 at 298 K which is also very similar to the -2.78 J K-1 mol atom-1 measured by Morishita \[17\].” |
+| Entropy of formation; _printed: entropy of formation_ | -1.66 J K-1 mol atom-1 | 298.15 |  | model | [1] Berche 2012 | p. 5; `ORC-ZLISVFFOAV` | “The entropy of formation of LaZn13 is calculated at -1.66 J K-1 mol atom-1 at 298 K in agreement with the value of Morishita \[16\] depending to experimental uncertainties.” |
 
 ## Sources
 
@@ -242,4 +242,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

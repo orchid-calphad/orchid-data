@@ -79,19 +79,19 @@ Table: Invariant reactions reported in the literature for the Dy–Mn system (13
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1393.15 | metatectic/catatectic: δMn -> L + γMn | δMn: Mn 0.991; L: Mn 0.865; γMn: Mn 0.993 | model | [1] Wang 2009 | Table 3, p. 4, row 12 |  |
-| 1393.15 | metatectic/catatectic: δMn -> L + γMn | δMn: Mn 0.989; L: Mn 0.882; γMn: Mn 0.989 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 3, p. 4, row 11 |  |
-| 1348.15 | peritectic: L + γMn -> DyMn12 | L: Mn 0.74; γMn: Mn 0.99; DyMn12: Mn 0.923 | experimental | [1] Wang 2009; _cites Kirchmayr 1967_ [doi](https://doi.org/10.1515/ijmr-1967-580307) | Table 3, p. 4, row 9 |  |
-| 1348.15 | peritectic: L + γMn -> DyMn12 | L: Mn 0.741; γMn: Mn 0.995; DyMn12: Mn 0.923 | model | [1] Wang 2009 | Table 3, p. 4, row 10 |  |
-| 1348.15 | eutectoid: γMn -> DyMn12 + βMn | γMn: Mn 0.993; DyMn12: Mn 0.923; βMn: Mn 0.994 | model | [1] Wang 2009 | Table 3, p. 4, row 14 |  |
-| 1348.15 | eutectoid: γMn -> DyMn12 + βMn | γMn: Mn 0.99; DyMn12: Mn 0.923; βMn: Mn 0.99 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 3, p. 4, row 13 |  |
-| 1308.15 | peritectic: L + DyMn12 -> Dy6Mn23 | L: Mn 0.557; DyMn12: Mn 0.923; Dy6Mn23: Mn 0.793 | experimental | [1] Wang 2009; _cites Kirchmayr 1967_ [doi](https://doi.org/10.1515/ijmr-1967-580307) | Table 3, p. 4, row 7 |  |
-| 1308.15 | peritectic: L + DyMn12 -> Dy6Mn23 | L: Mn 0.554; DyMn12: Mn 0.923; Dy6Mn23: Mn 0.793 | model | [1] Wang 2009 | Table 3, p. 4, row 8 |  |
-| 1203.15 | peritectic: L + Dy6Mn23 -> DyMn2 | L: Mn 0.371; Dy6Mn23: Mn 0.793; DyMn2: Mn 0.667 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 3, p. 4, row 5 |  |
-| 1203.15 | peritectic: L + Dy6Mn23 -> DyMn2 | L: Mn 0.371; Dy6Mn23: Mn 0.793; DyMn2: Mn 0.667 | model | [1] Wang 2009 | Table 3, p. 4, row 6 |  |
-| 1128.15 | eutectic: L -> αDy + DyMn2 | L: Mn 0.29; αDy: Mn 0; DyMn2: Mn 0.667 | model | [1] Wang 2009 | Table 3, p. 4, row 4 |  |
-| 1128.15 | eutectic: L -> αDy + DyMn2 | L: Mn 0.287; αDy: Mn 0; DyMn2: Mn 0.667 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 3, p. 4, row 3 |  |
-| 978.15 | eutectoid: βMn -> DyMn12 + αMn | βMn: Mn 0.998; DyMn12: Mn 0.923; αMn: Mn 1 | model | [1] Wang 2009 | Table 3, p. 4, row 15 |  |
+| 1393.15 | metatectic/catatectic: δMn -> L + γMn | δMn: Mn 0.991; L: Mn 0.865; γMn: Mn 0.993 | model | [1] Wang 2009 | Table 3, p. 4, row 12; `ORC-7QXF4K4VO6` |  |
+| 1393.15 | metatectic/catatectic: δMn -> L + γMn | δMn: Mn 0.989; L: Mn 0.882; γMn: Mn 0.989 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 3, p. 4, row 11; `ORC-DCDHYZMMCA` |  |
+| 1348.15 | peritectic: L + γMn -> DyMn12 | L: Mn 0.74; γMn: Mn 0.99; DyMn12: Mn 0.923 | experimental | [1] Wang 2009; _cites Kirchmayr 1967_ [doi](https://doi.org/10.1515/ijmr-1967-580307) | Table 3, p. 4, row 9; `ORC-7X3CRPWDLA` |  |
+| 1348.15 | peritectic: L + γMn -> DyMn12 | L: Mn 0.741; γMn: Mn 0.995; DyMn12: Mn 0.923 | model | [1] Wang 2009 | Table 3, p. 4, row 10; `ORC-HUG2UWKDTA.2e0334` |  |
+| 1348.15 | eutectoid: γMn -> DyMn12 + βMn | γMn: Mn 0.993; DyMn12: Mn 0.923; βMn: Mn 0.994 | model | [1] Wang 2009 | Table 3, p. 4, row 14; `ORC-HUG2UWKDTA.fe70df` |  |
+| 1348.15 | eutectoid: γMn -> DyMn12 + βMn | γMn: Mn 0.99; DyMn12: Mn 0.923; βMn: Mn 0.99 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 3, p. 4, row 13; `ORC-L4DSHQPEIP` |  |
+| 1308.15 | peritectic: L + DyMn12 -> Dy6Mn23 | L: Mn 0.557; DyMn12: Mn 0.923; Dy6Mn23: Mn 0.793 | experimental | [1] Wang 2009; _cites Kirchmayr 1967_ [doi](https://doi.org/10.1515/ijmr-1967-580307) | Table 3, p. 4, row 7; `ORC-EHMXD2YTOS` |  |
+| 1308.15 | peritectic: L + DyMn12 -> Dy6Mn23 | L: Mn 0.554; DyMn12: Mn 0.923; Dy6Mn23: Mn 0.793 | model | [1] Wang 2009 | Table 3, p. 4, row 8; `ORC-RTP2M3FC2K` |  |
+| 1203.15 | peritectic: L + Dy6Mn23 -> DyMn2 | L: Mn 0.371; Dy6Mn23: Mn 0.793; DyMn2: Mn 0.667 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 3, p. 4, row 5; `ORC-5DIMECRD6F` |  |
+| 1203.15 | peritectic: L + Dy6Mn23 -> DyMn2 | L: Mn 0.371; Dy6Mn23: Mn 0.793; DyMn2: Mn 0.667 | model | [1] Wang 2009 | Table 3, p. 4, row 6; `ORC-PGECCSPCN7` |  |
+| 1128.15 | eutectic: L -> αDy + DyMn2 | L: Mn 0.29; αDy: Mn 0; DyMn2: Mn 0.667 | model | [1] Wang 2009 | Table 3, p. 4, row 4; `ORC-6F27BG4RJZ` |  |
+| 1128.15 | eutectic: L -> αDy + DyMn2 | L: Mn 0.287; αDy: Mn 0; DyMn2: Mn 0.667 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 3, p. 4, row 3; `ORC-XW7B32QAOY` |  |
+| 978.15 | eutectoid: βMn -> DyMn12 + αMn | βMn: Mn 0.998; DyMn12: Mn 0.923; αMn: Mn 1 | model | [1] Wang 2009 | Table 3, p. 4, row 15; `ORC-KOJP3TUKQ7` |  |
 
 ## Sources
 
@@ -156,4 +156,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

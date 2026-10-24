@@ -57,22 +57,22 @@ Table: Invariant reactions reported in the literature for the Ag–Pr system (16
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1306.15 | L->Ag51Pr14 | L: Ag 0.784615, Pr 0.215385; Ag51Pr14: Ag 0.784615, Pr 0.215385 | experimental | [1] Yin 2000; _cites Delfino 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990142-8) | Table 1, p. 2, row 12 |  |
-| 1301.15 | L->Ag51Pr14 | L: Ag 0.784615, Pr 0.215385; Ag51Pr14: Ag 0.784615, Pr 0.215385 | model | [1] Yin 2000 | Table 1, p. 2, row 11 |  |
-| 1211.15 | L->AgPr | L: Ag 0.5, Pr 0.5; AgPr: Ag 0.5, Pr 0.5 | experimental | [1] Yin 2000; _cites Delfino 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990142-8) | Table 1, p. 2, row 6 |  |
-| 1205.15 | L->AgPr | L: Ag 0.5, Pr 0.5; AgPr: Ag 0.5, Pr 0.5 | model | [1] Yin 2000 | Table 1, p. 2, row 5 |  |
-| 1112.15 | L+Ag51Pr14->Ag2Pr | L: Pr 0.338; Ag51Pr14: Ag 0.784615, Pr 0.215385; Ag2Pr: Ag 0.666667, Pr 0.333333 | experimental | [1] Yin 2000; _cites Delfino 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990142-8) | Table 1, p. 2, row 10 |  |
-| 1110.15 | L+Ag51Pr14->Ag2Pr | L: Pr 0.357; Ag51Pr14: Ag 0.784615, Pr 0.215385; Ag2Pr: Ag 0.666667, Pr 0.333333 | model | [1] Yin 2000 | Table 1, p. 2, row 9 |  |
-| 1104.15 | L+Ag51Pr14->Ag5Pr | L: Pr 0.094; Ag51Pr14: Ag 0.784615, Pr 0.215385; Ag5Pr: Ag 0.833333, Pr 0.166667 | model | [1] Yin 2000 | Table 1, p. 2, row 13 |  |
-| 1103.15 | L+Ag51Pr14->Ag5Pr | L: Pr 0.128; Ag51Pr14: Ag 0.784615, Pr 0.215385; Ag5Pr: Ag 0.833333, Pr 0.166667 | experimental | [1] Yin 2000; _cites Delfino 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990142-8) | Table 1, p. 2, row 14 |  |
-| 1092.15 | L->Ag2Pr+AgPr | L: Pr 0.383; Ag2Pr: Ag 0.666667, Pr 0.333333; AgPr: Ag 0.5, Pr 0.5 | model | [1] Yin 2000 | Table 1, p. 2, row 7 |  |
-| 1078.15 | L->Ag2Pr+AgPr | L: Pr 0.395; Ag2Pr: Ag 0.666667, Pr 0.333333; AgPr: Ag 0.5, Pr 0.5 | experimental | [1] Yin 2000; _cites Delfino 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990142-8) | Table 1, p. 2, row 8 |  |
-| 1077.15 | L->Ag+Ag5Pr | L: Pr 0.092; Ag5Pr: Ag 0.833333, Pr 0.166667 | experimental | [1] Yin 2000; _cites Delfino 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990142-8) | Table 1, p. 2, row 16 |  |
-| 1071.15 | L->Ag+Ag5Pr | L: Pr 0.077; Ag5Pr: Ag 0.833333, Pr 0.166667 | model | [1] Yin 2000 | Table 1, p. 2, row 15 |  |
-| 919.15 | β-Pr->L+α-Pr | L: Pr 0.79 | model | [1] Yin 2000 | Table 1, p. 2, row 3 |  |
-| 919.15 | β-Pr->L+α-Pr | L: Pr 0.843 | experimental | [1] Yin 2000; _cites Delfino 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990142-8) | Table 1, p. 2, row 4 |  |
-| 851.15 | L->AgPr+α-Pr | L: Pr 0.779; AgPr: Ag 0.5, Pr 0.5 | experimental | [1] Yin 2000; _cites Delfino 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990142-8) | Table 1, p. 2, row 2 |  |
-| 851.15 | L->AgPr+α-Pr | L: Pr 0.765; AgPr: Ag 0.5, Pr 0.5 | model | [1] Yin 2000 | Table 1, p. 2, row 1 |  |
+| 1306.15 | L->Ag51Pr14 | L: Ag 0.784615, Pr 0.215385; Ag51Pr14: Ag 0.784615, Pr 0.215385 | experimental | [1] Yin 2000; _cites Delfino 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990142-8) | Table 1, p. 2, row 12; `ORC-TU6Y3VS7PU` |  |
+| 1301.15 | L->Ag51Pr14 | L: Ag 0.784615, Pr 0.215385; Ag51Pr14: Ag 0.784615, Pr 0.215385 | model | [1] Yin 2000 | Table 1, p. 2, row 11; `ORC-MZ7KBNZDHT` |  |
+| 1211.15 | L->AgPr | L: Ag 0.5, Pr 0.5; AgPr: Ag 0.5, Pr 0.5 | experimental | [1] Yin 2000; _cites Delfino 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990142-8) | Table 1, p. 2, row 6; `ORC-O26EE7BQF4` |  |
+| 1205.15 | L->AgPr | L: Ag 0.5, Pr 0.5; AgPr: Ag 0.5, Pr 0.5 | model | [1] Yin 2000 | Table 1, p. 2, row 5; `ORC-PGHTBU5A35` |  |
+| 1112.15 | L+Ag51Pr14->Ag2Pr | L: Pr 0.338; Ag51Pr14: Ag 0.784615, Pr 0.215385; Ag2Pr: Ag 0.666667, Pr 0.333333 | experimental | [1] Yin 2000; _cites Delfino 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990142-8) | Table 1, p. 2, row 10; `ORC-QWU5OUWHNQ` |  |
+| 1110.15 | L+Ag51Pr14->Ag2Pr | L: Pr 0.357; Ag51Pr14: Ag 0.784615, Pr 0.215385; Ag2Pr: Ag 0.666667, Pr 0.333333 | model | [1] Yin 2000 | Table 1, p. 2, row 9; `ORC-WEEDENDZPI` |  |
+| 1104.15 | L+Ag51Pr14->Ag5Pr | L: Pr 0.094; Ag51Pr14: Ag 0.784615, Pr 0.215385; Ag5Pr: Ag 0.833333, Pr 0.166667 | model | [1] Yin 2000 | Table 1, p. 2, row 13; `ORC-JYV5OAPXLO` |  |
+| 1103.15 | L+Ag51Pr14->Ag5Pr | L: Pr 0.128; Ag51Pr14: Ag 0.784615, Pr 0.215385; Ag5Pr: Ag 0.833333, Pr 0.166667 | experimental | [1] Yin 2000; _cites Delfino 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990142-8) | Table 1, p. 2, row 14; `ORC-KGLNVIPMME` |  |
+| 1092.15 | L->Ag2Pr+AgPr | L: Pr 0.383; Ag2Pr: Ag 0.666667, Pr 0.333333; AgPr: Ag 0.5, Pr 0.5 | model | [1] Yin 2000 | Table 1, p. 2, row 7; `ORC-DZGOQPOYZX` |  |
+| 1078.15 | L->Ag2Pr+AgPr | L: Pr 0.395; Ag2Pr: Ag 0.666667, Pr 0.333333; AgPr: Ag 0.5, Pr 0.5 | experimental | [1] Yin 2000; _cites Delfino 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990142-8) | Table 1, p. 2, row 8; `ORC-YSUQ7XGVTX` |  |
+| 1077.15 | L->Ag+Ag5Pr | L: Pr 0.092; Ag5Pr: Ag 0.833333, Pr 0.166667 | experimental | [1] Yin 2000; _cites Delfino 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990142-8) | Table 1, p. 2, row 16; `ORC-IGWBW4L4K5` |  |
+| 1071.15 | L->Ag+Ag5Pr | L: Pr 0.077; Ag5Pr: Ag 0.833333, Pr 0.166667 | model | [1] Yin 2000 | Table 1, p. 2, row 15; `ORC-N2SKAZJDV4` |  |
+| 919.15 | β-Pr->L+α-Pr | L: Pr 0.79 | model | [1] Yin 2000 | Table 1, p. 2, row 3; `ORC-JBJJ7GWBLJ` |  |
+| 919.15 | β-Pr->L+α-Pr | L: Pr 0.843 | experimental | [1] Yin 2000; _cites Delfino 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990142-8) | Table 1, p. 2, row 4; `ORC-N6DP7MPDOE` |  |
+| 851.15 | L->AgPr+α-Pr | L: Pr 0.779; AgPr: Ag 0.5, Pr 0.5 | experimental | [1] Yin 2000; _cites Delfino 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990142-8) | Table 1, p. 2, row 2; `ORC-4KVM4JB6RT` |  |
+| 851.15 | L->AgPr+α-Pr | L: Pr 0.765; AgPr: Ag 0.5, Pr 0.5 | model | [1] Yin 2000 | Table 1, p. 2, row 1; `ORC-F2IOJRJEND` |  |
 
 ## Sources
 
@@ -137,4 +137,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

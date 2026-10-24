@@ -14,16 +14,16 @@ Table: Enthalpy of formation of NiZr2 reported in the literature (10)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -37.24 kJ/mol-atom ± 6.11 | NiZr2 | 298.15 | experimental | experimental | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html) | [1] Jana 2020; _cites Henaff 1984_ [doi](https://doi.org/10.1063/1.333963) | Table 6, p. 7, row 65 |  |
-| -31.2 kJ/mol-atom ± 0.9 | NiZr2 | 298.15 | experimental | experimental | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html) | [1] Jana 2020; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900246-1) | Table 6, p. 7, row 66 |  |
-| -30.7 kJ/mol-atom ± 2 | NiZr2 | 298.15 | experimental | experimental | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html) | [1] Jana 2020; _cites Zaitsev 2002_ [doi](https://doi.org/10.1039/b201036b) | Table 6, p. 7, row 64 |  |
-| -37.288 kJ/mol-atom | NiZr2 |  | model | empirical | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html) | [1] Jana 2020; _cites Zhang 2007_ [doi](https://doi.org/10.1016/j.cplett.2007.06.031) | Table 6, p. 7, row 68 |  |
-| -35 kJ/mol-atom | NiZr2 |  | model | empirical | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html) | [1] Jana 2020; _cites Colinet 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990032-x) | Table 6, p. 7, row 67 |  |
-| -34.034 kJ/mol-atom | NiZr2 |  | model |  | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html) | [1] Jana 2020 | Table 6, p. 7, row 72 |  |
-| -31.852 kJ/mol-atom | NiZr2 |  | model |  | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html) | [1] Jana 2020 | Table 6, p. 7, row 73 |  |
-| -33.917 kJ/mol-atom | NiZr2 |  | DFT | DFT | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html) | [1] Jana 2020; _cites Du 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.05.021) | Table 6, p. 7, row 71 |  |
-| -31.84 kJ/mol-atom | NiZr2 |  | DFT | DFT | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html) | [1] Jana 2020; _cites Hennig 2005_ [doi](https://doi.org/10.1103/physrevb.71.144103) | Table 6, p. 7, row 70 |  |
-| -31.358 kJ/mol-atom | NiZr2 |  | DFT | DFT | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html) | [1] Jana 2020; _cites Kirklin_ | Table 6, p. 7, row 69 |  |
+| -37.24 kJ/mol-atom ± 6.11 | NiZr2 | 298.15 | experimental | experimental | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html) | [1] Jana 2020; _cites Henaff 1984_ [doi](https://doi.org/10.1063/1.333963) | Table 6, p. 7, row 65; `ORC-T5HGFKTXNE` |  |
+| -31.2 kJ/mol-atom ± 0.9 | NiZr2 | 298.15 | experimental | experimental | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html) | [1] Jana 2020; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900246-1) | Table 6, p. 7, row 66; `ORC-PG6CDZMBRO` |  |
+| -30.7 kJ/mol-atom ± 2 | NiZr2 | 298.15 | experimental | experimental | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html) | [1] Jana 2020; _cites Zaitsev 2002_ [doi](https://doi.org/10.1039/b201036b) | Table 6, p. 7, row 64; `ORC-2E4AGFCJE5` |  |
+| -37.288 kJ/mol-atom | NiZr2 |  | model | empirical | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html) | [1] Jana 2020; _cites Zhang 2007_ [doi](https://doi.org/10.1016/j.cplett.2007.06.031) | Table 6, p. 7, row 68; `ORC-6SAV7FNKSG` |  |
+| -35 kJ/mol-atom | NiZr2 |  | model | empirical | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html) | [1] Jana 2020; _cites Colinet 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990032-x) | Table 6, p. 7, row 67; `ORC-NJ4YWFRO75` |  |
+| -34.034 kJ/mol-atom | NiZr2 |  | model |  | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html) | [1] Jana 2020 | Table 6, p. 7, row 72; `ORC-T3CZFXMRMM` |  |
+| -31.852 kJ/mol-atom | NiZr2 |  | model |  | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html) | [1] Jana 2020 | Table 6, p. 7, row 73; `ORC-JZ7L3HAQVX` |  |
+| -33.917 kJ/mol-atom | NiZr2 |  | DFT | DFT | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html) | [1] Jana 2020; _cites Du 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.05.021) | Table 6, p. 7, row 71; `ORC-NC755NLLRE` |  |
+| -31.84 kJ/mol-atom | NiZr2 |  | DFT | DFT | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html) | [1] Jana 2020; _cites Hennig 2005_ [doi](https://doi.org/10.1103/physrevb.71.144103) | Table 6, p. 7, row 70; `ORC-NWCFMGE54O` |  |
+| -31.358 kJ/mol-atom | NiZr2 |  | DFT | DFT | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html) | [1] Jana 2020; _cites Kirklin_ | Table 6, p. 7, row 69; `ORC-B4KWZSDQXV` |  |
 
 ### Uncertainty budget
 
@@ -108,4 +108,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

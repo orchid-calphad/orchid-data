@@ -57,23 +57,23 @@ Table: Invariant reactions reported in the literature for the Os–Si system (17
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2113 | liquid = Os2Si3 | liquid: Os 0.4, Si 0.6; Os2Si3: Os 0.4, Si 0.6 | experimental | [1] Liu 2001; _cites Schellenberg 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990148-8) | Table 4, p. 8, row 1 |  |
-| 2102 | liquid = Os2Si3 | liquid: Os 0.4, Si 0.6; Os2Si3: Os 0.4, Si 0.6 | model | [1] Liu 2001 | Table 4, p. 8, row 2 |  |
-| 2011 | liquid + Os2Si3 = OsSi | liquid: Si 0.46; Os2Si3: Si 0.6; OsSi: Si 0.5 | model | [1] Liu 2001 | Table 4, p. 8, row 10 |  |
-| 2003 | peritectic: liquid + Os2Si3 -> OsSi |  | experimental | [1] Liu 2001; _cites Schellenberg 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990148-8) | p. 3 | “Two eutectic and two peritectic transformations were identified: E1: liquid5(Si)1OsSi 2 at 1633 K, consistent with the results of \[8,23\]. E2: liquid5(Os)1OsSi at 1993 K. P1: liquid1Os 2 Si 3 5OsSi at 2003 K. P2: liquid1Os 2 Si 3 5OsSi 2 at 1913 K.” |
-| 2003 | liquid + Os2Si3 = OsSi | Os2Si3: Si 0.6; OsSi: Si 0.5 | experimental | [1] Liu 2001; _cites Schellenberg 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990148-8) | Table 4, p. 8, row 9 |  |
-| 1993 | liquid = OsSi + (Os) | liquid: Si 0.45; OsSi: Si 0.5; (Os): Si 0 | experimental | [1] Liu 2001; _cites Schellenberg 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990148-8) | Table 4, p. 8, row 11 |  |
-| 1993 | eutectic: liquid -> (Os) + OsSi |  | experimental | [1] Liu 2001; _cites Schellenberg 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990148-8) | p. 3 | “Two eutectic and two peritectic transformations were identified: E1: liquid5(Si)1OsSi 2 at 1633 K, consistent with the results of \[8,23\]. E2: liquid5(Os)1OsSi at 1993 K. P1: liquid1Os 2 Si 3 5OsSi at 2003 K. P2: liquid1Os 2 Si 3 5OsSi 2 at 1913 K.” |
-| 1988 | liquid = OsSi + (Os) | liquid: Si 0.42; OsSi: Si 0.5; (Os): Si 0 | model | [1] Liu 2001 | Table 4, p. 8, row 12 |  |
-| 1921 | liquid + Os2Si3 = OsSi2 | liquid: Si 0.78; Os2Si3: Si 0.6; OsSi2: Si 0.667 | model | [1] Liu 2001 | Table 4, p. 8, row 4 |  |
-| 1913 | liquid + Os2Si3 = OsSi2 | liquid: Si 0.72; Os2Si3: Si 0.6; OsSi2: Si 0.667 | experimental | [1] Liu 2001; _cites Schellenberg 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990148-8) | Table 4, p. 8, row 3 |  |
-| 1913 | peritectic: liquid + Os2Si3 -> OsSi2 |  | experimental | [1] Liu 2001; _cites Schellenberg 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990148-8) | p. 3 | “Two eutectic and two peritectic transformations were identified: E1: liquid5(Si)1OsSi 2 at 1633 K, consistent with the results of \[8,23\]. E2: liquid5(Os)1OsSi at 1993 K. P1: liquid1Os 2 Si 3 5OsSi at 2003 K. P2: liquid1Os 2 Si 3 5OsSi 2 at 1913 K.” |
-| 1633 | liquid = OsSi2 + Diamond | OsSi2: Os 0.333333, Si 0.666667 | experimental | [1] Liu 2001; _cites Finnie 1962_ [doi](https://doi.org/10.1016/0022-5088%2862%2990055-3) | Table 4, p. 8, row 7 |  |
-| 1633 | liquid = OsSi2 + Diamond | liquid: Si 0.88; OsSi2: Si 0.667; Diamond: Si 1 | experimental | [1] Liu 2001; _cites Schellenberg 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990148-8) | Table 4, p. 8, row 5 |  |
-| 1633 | eutectic: liquid -> (Si) + OsSi2 |  | experimental | [1] Liu 2001; _cites Schellenberg 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990148-8) | p. 3 | “Two eutectic and two peritectic transformations were identified: E1: liquid5(Si)1OsSi 2 at 1633 K, consistent with the results of \[8,23\]. E2: liquid5(Os)1OsSi at 1993 K. P1: liquid1Os 2 Si 3 5OsSi at 2003 K. P2: liquid1Os 2 Si 3 5OsSi 2 at 1913 K.” |
-| 1630 | liquid = OsSi2 + Diamond | liquid: Si 0.9; OsSi2: Os 0.333333, Si 0.666667 | experimental | [1] Liu 2001; _cites Mason 1983_ [doi](https://doi.org/10.1016/0022-0248%2883%2990424-4) | Table 4, p. 8, row 6 |  |
-| 1630 | eutectic |  | experimental | [1] Liu 2001; _cites Mason 1983_ [doi](https://doi.org/10.1016/0022-0248%2883%2990424-4) | p. 3 | “On slow cooling, OsSi 2 crystallized until the eutectic temperature was reached at 1630 K.” |
-| 1615 | liquid = OsSi2 + Diamond | liquid: Si 0.9; OsSi2: Si 0.667; Diamond: Si 1 | model | [1] Liu 2001 | Table 4, p. 8, row 8 |  |
+| 2113 | liquid = Os2Si3 | liquid: Os 0.4, Si 0.6; Os2Si3: Os 0.4, Si 0.6 | experimental | [1] Liu 2001; _cites Schellenberg 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990148-8) | Table 4, p. 8, row 1; `ORC-MVG7E3UUNR` |  |
+| 2102 | liquid = Os2Si3 | liquid: Os 0.4, Si 0.6; Os2Si3: Os 0.4, Si 0.6 | model | [1] Liu 2001 | Table 4, p. 8, row 2; `ORC-ZRNRLMCK2I` |  |
+| 2011 | liquid + Os2Si3 = OsSi | liquid: Si 0.46; Os2Si3: Si 0.6; OsSi: Si 0.5 | model | [1] Liu 2001 | Table 4, p. 8, row 10; `ORC-GQRTUDA6JZ` |  |
+| 2003 | peritectic: liquid + Os2Si3 -> OsSi |  | experimental | [1] Liu 2001; _cites Schellenberg 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990148-8) | p. 3; `ORC-WFOHTHAHNT.6e5950` | “Two eutectic and two peritectic transformations were identified: E1: liquid5(Si)1OsSi 2 at 1633 K, consistent with the results of \[8,23\]. E2: liquid5(Os)1OsSi at 1993 K. P1: liquid1Os 2 Si 3 5OsSi at 2003 K. P2: liquid1Os 2 Si 3 5OsSi 2 at 1913 K.” |
+| 2003 | liquid + Os2Si3 = OsSi | Os2Si3: Si 0.6; OsSi: Si 0.5 | experimental | [1] Liu 2001; _cites Schellenberg 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990148-8) | Table 4, p. 8, row 9; `ORC-XU4UXXJR66` |  |
+| 1993 | liquid = OsSi + (Os) | liquid: Si 0.45; OsSi: Si 0.5; (Os): Si 0 | experimental | [1] Liu 2001; _cites Schellenberg 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990148-8) | Table 4, p. 8, row 11; `ORC-7TTIL6NALG` |  |
+| 1993 | eutectic: liquid -> (Os) + OsSi |  | experimental | [1] Liu 2001; _cites Schellenberg 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990148-8) | p. 3; `ORC-WFOHTHAHNT.093aca` | “Two eutectic and two peritectic transformations were identified: E1: liquid5(Si)1OsSi 2 at 1633 K, consistent with the results of \[8,23\]. E2: liquid5(Os)1OsSi at 1993 K. P1: liquid1Os 2 Si 3 5OsSi at 2003 K. P2: liquid1Os 2 Si 3 5OsSi 2 at 1913 K.” |
+| 1988 | liquid = OsSi + (Os) | liquid: Si 0.42; OsSi: Si 0.5; (Os): Si 0 | model | [1] Liu 2001 | Table 4, p. 8, row 12; `ORC-ZQESTJNF5P` |  |
+| 1921 | liquid + Os2Si3 = OsSi2 | liquid: Si 0.78; Os2Si3: Si 0.6; OsSi2: Si 0.667 | model | [1] Liu 2001 | Table 4, p. 8, row 4; `ORC-BJXOFLWO3Z` |  |
+| 1913 | liquid + Os2Si3 = OsSi2 | liquid: Si 0.72; Os2Si3: Si 0.6; OsSi2: Si 0.667 | experimental | [1] Liu 2001; _cites Schellenberg 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990148-8) | Table 4, p. 8, row 3; `ORC-R4KMKVOKBP` |  |
+| 1913 | peritectic: liquid + Os2Si3 -> OsSi2 |  | experimental | [1] Liu 2001; _cites Schellenberg 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990148-8) | p. 3; `ORC-WFOHTHAHNT.4cad16` | “Two eutectic and two peritectic transformations were identified: E1: liquid5(Si)1OsSi 2 at 1633 K, consistent with the results of \[8,23\]. E2: liquid5(Os)1OsSi at 1993 K. P1: liquid1Os 2 Si 3 5OsSi at 2003 K. P2: liquid1Os 2 Si 3 5OsSi 2 at 1913 K.” |
+| 1633 | liquid = OsSi2 + Diamond | OsSi2: Os 0.333333, Si 0.666667 | experimental | [1] Liu 2001; _cites Finnie 1962_ [doi](https://doi.org/10.1016/0022-5088%2862%2990055-3) | Table 4, p. 8, row 7; `ORC-4MZZYX3CG3` |  |
+| 1633 | liquid = OsSi2 + Diamond | liquid: Si 0.88; OsSi2: Si 0.667; Diamond: Si 1 | experimental | [1] Liu 2001; _cites Schellenberg 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990148-8) | Table 4, p. 8, row 5; `ORC-MZYWJVD4DQ` |  |
+| 1633 | eutectic: liquid -> (Si) + OsSi2 |  | experimental | [1] Liu 2001; _cites Schellenberg 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990148-8) | p. 3; `ORC-WFOHTHAHNT.504cde` | “Two eutectic and two peritectic transformations were identified: E1: liquid5(Si)1OsSi 2 at 1633 K, consistent with the results of \[8,23\]. E2: liquid5(Os)1OsSi at 1993 K. P1: liquid1Os 2 Si 3 5OsSi at 2003 K. P2: liquid1Os 2 Si 3 5OsSi 2 at 1913 K.” |
+| 1630 | liquid = OsSi2 + Diamond | liquid: Si 0.9; OsSi2: Os 0.333333, Si 0.666667 | experimental | [1] Liu 2001; _cites Mason 1983_ [doi](https://doi.org/10.1016/0022-0248%2883%2990424-4) | Table 4, p. 8, row 6; `ORC-IZS7SVSTOR` |  |
+| 1630 | eutectic |  | experimental | [1] Liu 2001; _cites Mason 1983_ [doi](https://doi.org/10.1016/0022-0248%2883%2990424-4) | p. 3; `ORC-UE3X4OM5AN` | “On slow cooling, OsSi 2 crystallized until the eutectic temperature was reached at 1630 K.” |
+| 1615 | liquid = OsSi2 + Diamond | liquid: Si 0.9; OsSi2: Si 0.667; Diamond: Si 1 | model | [1] Liu 2001 | Table 4, p. 8, row 8; `ORC-U4KR7A3ZUJ` |  |
 
 ## Other properties
 
@@ -83,7 +83,7 @@ Table: Phase equilibrium, Os–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase assemblage |  | 1730 | liquid; _alloy: Os 0.15, Si 0.85_ | experimental | [1] Liu 2001; _cites Mason 1983_ [doi](https://doi.org/10.1016/0022-0248%2883%2990424-4) | p. 3 | “It was found that the mixture of 15 at.% Os and 85 at.% Si was completely liquid at 1730 K.” |
+| Phase assemblage |  | 1730 | liquid; _alloy: Os 0.15, Si 0.85_ | experimental | [1] Liu 2001; _cites Mason 1983_ [doi](https://doi.org/10.1016/0022-0248%2883%2990424-4) | p. 3; `ORC-VH3LZCUGMT` | “It was found that the mixture of 15 at.% Os and 85 at.% Si was completely liquid at 1730 K.” |
 
 ## Sources
 
@@ -148,4 +148,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

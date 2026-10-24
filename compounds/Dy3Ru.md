@@ -14,13 +14,13 @@ Table: Enthalpy of formation of Dy3Ru reported in the literature (7)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -28.644 kJ/mol-atom | Dy3Ru |  | model | Miedema's model | [Dy–Ru](https://data.orchid-project.org/systems/DY-RU.html) | [1] Kardellass 2023; _cites Debski 2014_ [doi](https://doi.org/10.2478/amm-2014-0228) | Table 2, p. 7, row 19 |  |
-| -25.204 kJ/mol-atom | Dy3Ru |  | model | Modified Miedema's model | [Dy–Ru](https://data.orchid-project.org/systems/DY-RU.html) | [1] Kardellass 2023; _cites Zhang 2007_ [doi](https://doi.org/10.1016/j.cplett.2007.06.031) | Table 2, p. 7, row 20 |  |
-| -16.545 kJ/mol-atom | Dy3Ru |  | model | OptimizationQM | [Dy–Ru](https://data.orchid-project.org/systems/DY-RU.html) | [1] Kardellass 2023 | Table 2, p. 7, row 16 |  |
-| -15.978 kJ/mol-atom | Dy3Ru |  | model | OptimizationCM | [Dy–Ru](https://data.orchid-project.org/systems/DY-RU.html) | [1] Kardellass 2023 | Table 2, p. 7, row 18 |  |
-| -15.693 kJ/mol-atom | Dy3Ru |  | model | OptimizationEM | [Dy–Ru](https://data.orchid-project.org/systems/DY-RU.html) | [1] Kardellass 2023 | Table 2, p. 7, row 17 |  |
-| -31.223 kJ/mol-atom | Dy3Ru | 0 | DFT | Ab-initio | [Dy–Ru](https://data.orchid-project.org/systems/DY-RU.html) | [1] Kardellass 2023; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table 2, p. 7, row 21 |  |
-| -30.934 kJ/mol-atom | Dy3Ru | 0 | DFT | Ab-initio | [Dy–Ru](https://data.orchid-project.org/systems/DY-RU.html) | [1] Kardellass 2023; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table 2, p. 7, row 22 |  |
+| -28.644 kJ/mol-atom | Dy3Ru |  | model | Miedema's model | [Dy–Ru](https://data.orchid-project.org/systems/DY-RU.html) | [1] Kardellass 2023; _cites Debski 2014_ [doi](https://doi.org/10.2478/amm-2014-0228) | Table 2, p. 7, row 19; `ORC-AU6RGFUPDQ.847515` |  |
+| -25.204 kJ/mol-atom | Dy3Ru |  | model | Modified Miedema's model | [Dy–Ru](https://data.orchid-project.org/systems/DY-RU.html) | [1] Kardellass 2023; _cites Zhang 2007_ [doi](https://doi.org/10.1016/j.cplett.2007.06.031) | Table 2, p. 7, row 20; `ORC-GAZIPIGM2F.299bd2` |  |
+| -16.545 kJ/mol-atom | Dy3Ru |  | model | OptimizationQM | [Dy–Ru](https://data.orchid-project.org/systems/DY-RU.html) | [1] Kardellass 2023 | Table 2, p. 7, row 16; `ORC-CLTIDVUAVO.4b5c98` |  |
+| -15.978 kJ/mol-atom | Dy3Ru |  | model | OptimizationCM | [Dy–Ru](https://data.orchid-project.org/systems/DY-RU.html) | [1] Kardellass 2023 | Table 2, p. 7, row 18; `ORC-5QS5V7VJQ7.2be2e5` |  |
+| -15.693 kJ/mol-atom | Dy3Ru |  | model | OptimizationEM | [Dy–Ru](https://data.orchid-project.org/systems/DY-RU.html) | [1] Kardellass 2023 | Table 2, p. 7, row 17; `ORC-7PT3JJPEU4.092f21` |  |
+| -31.223 kJ/mol-atom | Dy3Ru | 0 | DFT | Ab-initio | [Dy–Ru](https://data.orchid-project.org/systems/DY-RU.html) | [1] Kardellass 2023; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table 2, p. 7, row 21; `ORC-O5DYYRMDTC.45de04` |  |
+| -30.934 kJ/mol-atom | Dy3Ru | 0 | DFT | Ab-initio | [Dy–Ru](https://data.orchid-project.org/systems/DY-RU.html) | [1] Kardellass 2023; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table 2, p. 7, row 22; `ORC-GCTRSE5LJP.8a76a6` |  |
 
 ### Uncertainty budget
 
@@ -102,4 +102,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

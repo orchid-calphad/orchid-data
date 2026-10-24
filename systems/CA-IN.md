@@ -71,18 +71,18 @@ Table: Invariant reactions reported in the literature for the Ca–In system (12
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1168 | liq -> CaIn | L: In 0.5; CaIn: In 0.5 | experimental | [1] Wang 2013; _cites Bruzzone 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990081-5) | Table 4, p. 5, row 6 |  |
-| 1167.7 | liq -> CaIn | L: In 0.5; CaIn: In 0.5 | model | [1] Wang 2013 | Table 4, p. 5, row 5 |  |
-| 1111.1 | liq -> CaIn2 | L: In 0.667; CaIn2: In 0.667 | model | [1] Wang 2013 | Table 4, p. 5, row 9 |  |
-| 1108 | liq -> CaIn2 | L: In 0.667; CaIn2: In 0.667 | experimental | [1] Wang 2013; _cites Bruzzone 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990081-5) | Table 4, p. 5, row 10 |  |
-| 1056 | liq -> CaIn + CaIn2 | L: In 0.5; CaIn: In 0.5; CaIn2: Ca 0.333333, In 0.666667 | experimental | [1] Wang 2013; _cites Bruzzone 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990081-5) | Table 4, p. 5, row 8 |  |
-| 1052.8 | liq -> CaIn + CaIn2 | L: In 0.5; CaIn: In 0.5; CaIn2: Ca 0.333333, In 0.666667 | model | [1] Wang 2013 | Table 4, p. 5, row 7 |  |
-| 1038.6 | liq -> (βCa) + Ca3In | L: In 0.25; Ca3In: In 0.25 | model | [1] Wang 2013 | Table 4, p. 5, row 1 |  |
-| 1038 | liq -> Ca3In | L: In 0.25; Ca3In: In 0.25 | experimental | [1] Wang 2013; _cites Bruzzone 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990081-5) | Table 4, p. 5, row 2 |  |
-| 938.4 | liq -> Ca3In + CaIn | L: In 0.25; Ca3In: In 0.25; CaIn: Ca 0.5, In 0.5 | model | [1] Wang 2013 | Table 4, p. 5, row 3 |  |
-| 933 | liq -> Ca3In + CaIn | L: In 0.25; Ca3In: In 0.25; CaIn: Ca 0.5, In 0.5 | experimental | [1] Wang 2013; _cites Bruzzone 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990081-5) | Table 4, p. 5, row 4 |  |
-| 429 | liq -> CaIn2 + (In) | L: In 0.667; CaIn2: In 0.667 | experimental | [1] Wang 2013; _cites Bruzzone 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990081-5) | Table 4, p. 5, row 12 |  |
-| 428.3 | liq -> CaIn2 + (In) | L: In 0.667; CaIn2: In 0.667 | model | [1] Wang 2013 | Table 4, p. 5, row 11 |  |
+| 1168 | liq -> CaIn | L: In 0.5; CaIn: In 0.5 | experimental | [1] Wang 2013; _cites Bruzzone 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990081-5) | Table 4, p. 5, row 6; `ORC-CAM276ROTX` |  |
+| 1167.7 | liq -> CaIn | L: In 0.5; CaIn: In 0.5 | model | [1] Wang 2013 | Table 4, p. 5, row 5; `ORC-T6VFGC2WG7` |  |
+| 1111.1 | liq -> CaIn2 | L: In 0.667; CaIn2: In 0.667 | model | [1] Wang 2013 | Table 4, p. 5, row 9; `ORC-XO7VEIDQVD` |  |
+| 1108 | liq -> CaIn2 | L: In 0.667; CaIn2: In 0.667 | experimental | [1] Wang 2013; _cites Bruzzone 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990081-5) | Table 4, p. 5, row 10; `ORC-XYX2ZYYY7Y` |  |
+| 1056 | liq -> CaIn + CaIn2 | L: In 0.5; CaIn: In 0.5; CaIn2: Ca 0.333333, In 0.666667 | experimental | [1] Wang 2013; _cites Bruzzone 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990081-5) | Table 4, p. 5, row 8; `ORC-42H5YRY7B5` |  |
+| 1052.8 | liq -> CaIn + CaIn2 | L: In 0.5; CaIn: In 0.5; CaIn2: Ca 0.333333, In 0.666667 | model | [1] Wang 2013 | Table 4, p. 5, row 7; `ORC-ACDSDWUNZQ` |  |
+| 1038.6 | liq -> (βCa) + Ca3In | L: In 0.25; Ca3In: In 0.25 | model | [1] Wang 2013 | Table 4, p. 5, row 1; `ORC-AQ5TXGQ2RY` |  |
+| 1038 | liq -> Ca3In | L: In 0.25; Ca3In: In 0.25 | experimental | [1] Wang 2013; _cites Bruzzone 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990081-5) | Table 4, p. 5, row 2; `ORC-6HTPTJGW3V` |  |
+| 938.4 | liq -> Ca3In + CaIn | L: In 0.25; Ca3In: In 0.25; CaIn: Ca 0.5, In 0.5 | model | [1] Wang 2013 | Table 4, p. 5, row 3; `ORC-GFCLA7DP3P` |  |
+| 933 | liq -> Ca3In + CaIn | L: In 0.25; Ca3In: In 0.25; CaIn: Ca 0.5, In 0.5 | experimental | [1] Wang 2013; _cites Bruzzone 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990081-5) | Table 4, p. 5, row 4; `ORC-K5YM6PDU3W` |  |
+| 429 | liq -> CaIn2 + (In) | L: In 0.667; CaIn2: In 0.667 | experimental | [1] Wang 2013; _cites Bruzzone 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990081-5) | Table 4, p. 5, row 12; `ORC-66WW6MLF7S` |  |
+| 428.3 | liq -> CaIn2 + (In) | L: In 0.667; CaIn2: In 0.667 | model | [1] Wang 2013 | Table 4, p. 5, row 11; `ORC-ZND2L3I5OV` |  |
 
 ## Formation enthalpies
 
@@ -92,12 +92,12 @@ Table: Enthalpies of formation, Ca–In system (6)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Ca8In3 |  | -32.87 kJ/mol-atom | 0 | DFT |  |  | [2] Qin 2015 | Table 3, p. 3, row 1 |  |
-| Ca8In3 | [Ca8In3](https://data.orchid-project.org/compounds/Ca8In3.html) | -32.28 kJ/mol-atom | 298.15 | model | -31.681 (mp-aaacpuqk) | -33.711 (oqmd-10994) | [2] Qin 2015 | Table 3, p. 3, row 2 |  |
-| CaIn | [CaIn](https://data.orchid-project.org/compounds/CaIn.html) | -47.42 kJ/mol-atom | 298.15 | model | -45.305 (mp-aaaabdzj) | -47.119 (oqmd-2168902) | [2] Qin 2015 | Table 3, p. 3, row 4 |  |
-| CaIn |  | -46.76 kJ/mol-atom | 0 | DFT |  |  | [2] Qin 2015 | Table 3, p. 3, row 3 |  |
-| CaIn2 | [CaIn2](https://data.orchid-project.org/compounds/CaIn2.html) | -43.41 kJ/mol-atom | 298.15 | model | -40.983 (mp-aaaabfei) | -43.57 (oqmd-10870) | [2] Qin 2015 | Table 3, p. 3, row 6 |  |
-| CaIn2 |  | -43.4 kJ/mol-atom | 0 | DFT |  |  | [2] Qin 2015 | Table 3, p. 3, row 5 |  |
+| Ca8In3 |  | -32.87 kJ/mol-atom | 0 | DFT |  |  | [2] Qin 2015 | Table 3, p. 3, row 1; `ORC-CKCPG2DIAU` |  |
+| Ca8In3 | [Ca8In3](https://data.orchid-project.org/compounds/Ca8In3.html) | -32.28 kJ/mol-atom | 298.15 | model | -31.681 (mp-aaacpuqk) | -33.711 (oqmd-10994) | [2] Qin 2015 | Table 3, p. 3, row 2; `ORC-XXFHIIPJ77` |  |
+| CaIn | [CaIn](https://data.orchid-project.org/compounds/CaIn.html) | -47.42 kJ/mol-atom | 298.15 | model | -45.305 (mp-aaaabdzj) | -47.119 (oqmd-2168902) | [2] Qin 2015 | Table 3, p. 3, row 4; `ORC-VWKP6ZI7DB` |  |
+| CaIn |  | -46.76 kJ/mol-atom | 0 | DFT |  |  | [2] Qin 2015 | Table 3, p. 3, row 3; `ORC-4AV4PBJMUV` |  |
+| CaIn2 | [CaIn2](https://data.orchid-project.org/compounds/CaIn2.html) | -43.41 kJ/mol-atom | 298.15 | model | -40.983 (mp-aaaabfei) | -43.57 (oqmd-10870) | [2] Qin 2015 | Table 3, p. 3, row 6; `ORC-OMDRZAG2YE` |  |
+| CaIn2 |  | -43.4 kJ/mol-atom | 0 | DFT |  |  | [2] Qin 2015 | Table 3, p. 3, row 5; `ORC-4GS3OXMYV3` |  |
 
 ## Other properties
 
@@ -107,9 +107,9 @@ Table: Phase transition, Ca–In system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1038.15 K | 1038.15 | congruent transformation | experimental | [2] Qin 2015; _cites Bruzzone 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990081-5) | p. 1 | “The congruent melting temperatures for Ca3In, CaIn and CaIn2 were reported to be 765, 895, and 835 °C, respectively.” |
-| Phase transition | 1108.15 K | 1108.15 | congruent transformation | experimental | [2] Qin 2015; _cites Bruzzone 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990081-5) | p. 1 | “The congruent melting temperatures for Ca3In, CaIn and CaIn2 were reported to be 765, 895, and 835 °C, respectively.” |
-| Phase transition | 1168.15 K | 1168.15 | congruent transformation | experimental | [2] Qin 2015; _cites Bruzzone 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990081-5) | p. 1 | “The congruent melting temperatures for Ca3In, CaIn and CaIn2 were reported to be 765, 895, and 835 °C, respectively.” |
+| Phase transition | 1038.15 K | 1038.15 | congruent transformation | experimental | [2] Qin 2015; _cites Bruzzone 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990081-5) | p. 1; `ORC-5AZZULXHDR.cbea1f` | “The congruent melting temperatures for Ca3In, CaIn and CaIn2 were reported to be 765, 895, and 835 °C, respectively.” |
+| Phase transition | 1108.15 K | 1108.15 | congruent transformation | experimental | [2] Qin 2015; _cites Bruzzone 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990081-5) | p. 1; `ORC-5AZZULXHDR.f725ed` | “The congruent melting temperatures for Ca3In, CaIn and CaIn2 were reported to be 765, 895, and 835 °C, respectively.” |
+| Phase transition | 1168.15 K | 1168.15 | congruent transformation | experimental | [2] Qin 2015; _cites Bruzzone 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990081-5) | p. 1; `ORC-5AZZULXHDR.7a1e28` | “The congruent melting temperatures for Ca3In, CaIn and CaIn2 were reported to be 765, 895, and 835 °C, respectively.” |
 
 ### Crystal structure (18)
 
@@ -117,24 +117,24 @@ Table: Crystal structure, Ca–In system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 95.72 Å |  | Ca8In3; _alloy: In 0.272727_ | model | [2] Qin 2015 | Table 1, p. 2, row 7 |  |
-| Lattice a | 38.66 Å |  | CaIn; _alloy: In 0.5_ | model | [2] Qin 2015 | Table 1, p. 2, row 9 |  |
-| Lattice a | 54.96 Å |  | CaIn2; _alloy: In 0.666667_ | model | [2] Qin 2015 | Table 1, p. 2, row 11 |  |
-| Lattice a | 96.06 Å | 298.15 | Ca8In3; _alloy: In 0.272727_ | unspecified | [2] Qin 2015; _cites Marsh 1988_ [doi](https://doi.org/10.1107/s0108270187010904) | Table 1, p. 2, row 6 |  |
-| Lattice a | 38.56 Å | 298.15 | CaIn; _alloy: In 0.5_ | experimental | [2] Qin 2015; _cites Bruzzone 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990081-5) | Table 1, p. 2, row 8 |  |
-| Lattice a | 48.95 Å | 298.15 | CaIn2; _alloy: In 0.666667_ | experimental | [2] Qin 2015; _cites Iandelli 1964_ [doi](https://doi.org/10.1002/zaac.19643300315) | Table 1, p. 2, row 10 |  |
-| Lattice b | 97.08 Å |  | Ca8In3; _alloy: In 0.272727_ | model | [2] Qin 2015 | Table 1, p. 2, row 7 |  |
-| Lattice b | 97.17 Å | 298.15 | Ca8In3; _alloy: In 0.272727_ | unspecified | [2] Qin 2015; _cites Marsh 1988_ [doi](https://doi.org/10.1107/s0108270187010904) | Table 1, p. 2, row 6 |  |
-| Lattice c | 97.83 Å |  | Ca8In3; _alloy: In 0.272727_ | model | [2] Qin 2015 | Table 1, p. 2, row 7 |  |
-| Lattice c | 77.2 Å |  | CaIn2; _alloy: In 0.666667_ | model | [2] Qin 2015 | Table 1, p. 2, row 11 |  |
-| Lattice c | 97.82 Å | 298.15 | Ca8In3; _alloy: In 0.272727_ | unspecified | [2] Qin 2015; _cites Marsh 1988_ [doi](https://doi.org/10.1107/s0108270187010904) | Table 1, p. 2, row 6 |  |
-| Lattice c | 77.5 Å | 298.15 | CaIn2; _alloy: In 0.666667_ | experimental | [2] Qin 2015; _cites Iandelli 1964_ [doi](https://doi.org/10.1002/zaac.19643300315) | Table 1, p. 2, row 10 |  |
-| lattice alpha | 69.72 deg |  | Ca8In3; _alloy: In 0.272727_ | model | [2] Qin 2015 | Table 1, p. 2, row 7 |  |
-| lattice alpha | 69.65 deg | 298.15 | Ca8In3; _alloy: In 0.272727_ | unspecified | [2] Qin 2015; _cites Marsh 1988_ [doi](https://doi.org/10.1107/s0108270187010904) | Table 1, p. 2, row 6 |  |
-| lattice beta | 78.93 deg |  | Ca8In3; _alloy: In 0.272727_ | model | [2] Qin 2015 | Table 1, p. 2, row 7 |  |
-| lattice beta | 78.85 deg | 298.15 | Ca8In3; _alloy: In 0.272727_ | unspecified | [2] Qin 2015; _cites Marsh 1988_ [doi](https://doi.org/10.1107/s0108270187010904) | Table 1, p. 2, row 6 |  |
-| lattice gamma | 60.27 deg |  | Ca8In3; _alloy: In 0.272727_ | model | [2] Qin 2015 | Table 1, p. 2, row 7 |  |
-| lattice gamma | 60.34 deg | 298.15 | Ca8In3; _alloy: In 0.272727_ | unspecified | [2] Qin 2015; _cites Marsh 1988_ [doi](https://doi.org/10.1107/s0108270187010904) | Table 1, p. 2, row 6 |  |
+| Lattice a | 95.72 Å |  | Ca8In3; _alloy: In 0.272727_ | model | [2] Qin 2015 | Table 1, p. 2, row 7; `ORC-TIFS4AUMV6.3045cb` |  |
+| Lattice a | 38.66 Å |  | CaIn; _alloy: In 0.5_ | model | [2] Qin 2015 | Table 1, p. 2, row 9; `ORC-7IT2CQE6V2` |  |
+| Lattice a | 54.96 Å |  | CaIn2; _alloy: In 0.666667_ | model | [2] Qin 2015 | Table 1, p. 2, row 11; `ORC-L4KEALIHS3.ab6510` |  |
+| Lattice a | 96.06 Å | 298.15 | Ca8In3; _alloy: In 0.272727_ | unspecified | [2] Qin 2015; _cites Marsh 1988_ [doi](https://doi.org/10.1107/s0108270187010904) | Table 1, p. 2, row 6; `ORC-63OZF67774.cdb678` |  |
+| Lattice a | 38.56 Å | 298.15 | CaIn; _alloy: In 0.5_ | experimental | [2] Qin 2015; _cites Bruzzone 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990081-5) | Table 1, p. 2, row 8; `ORC-KTHXGXU5LX` |  |
+| Lattice a | 48.95 Å | 298.15 | CaIn2; _alloy: In 0.666667_ | experimental | [2] Qin 2015; _cites Iandelli 1964_ [doi](https://doi.org/10.1002/zaac.19643300315) | Table 1, p. 2, row 10; `ORC-PQWBCACHRO.12cc91` |  |
+| Lattice b | 97.08 Å |  | Ca8In3; _alloy: In 0.272727_ | model | [2] Qin 2015 | Table 1, p. 2, row 7; `ORC-TIFS4AUMV6.34f115` |  |
+| Lattice b | 97.17 Å | 298.15 | Ca8In3; _alloy: In 0.272727_ | unspecified | [2] Qin 2015; _cites Marsh 1988_ [doi](https://doi.org/10.1107/s0108270187010904) | Table 1, p. 2, row 6; `ORC-63OZF67774.d97f5e` |  |
+| Lattice c | 97.83 Å |  | Ca8In3; _alloy: In 0.272727_ | model | [2] Qin 2015 | Table 1, p. 2, row 7; `ORC-TIFS4AUMV6.f1c481` |  |
+| Lattice c | 77.2 Å |  | CaIn2; _alloy: In 0.666667_ | model | [2] Qin 2015 | Table 1, p. 2, row 11; `ORC-L4KEALIHS3.94c864` |  |
+| Lattice c | 97.82 Å | 298.15 | Ca8In3; _alloy: In 0.272727_ | unspecified | [2] Qin 2015; _cites Marsh 1988_ [doi](https://doi.org/10.1107/s0108270187010904) | Table 1, p. 2, row 6; `ORC-63OZF67774.798d23` |  |
+| Lattice c | 77.5 Å | 298.15 | CaIn2; _alloy: In 0.666667_ | experimental | [2] Qin 2015; _cites Iandelli 1964_ [doi](https://doi.org/10.1002/zaac.19643300315) | Table 1, p. 2, row 10; `ORC-PQWBCACHRO.4721b2` |  |
+| lattice alpha | 69.72 deg |  | Ca8In3; _alloy: In 0.272727_ | model | [2] Qin 2015 | Table 1, p. 2, row 7; `ORC-TIFS4AUMV6.918b1f` |  |
+| lattice alpha | 69.65 deg | 298.15 | Ca8In3; _alloy: In 0.272727_ | unspecified | [2] Qin 2015; _cites Marsh 1988_ [doi](https://doi.org/10.1107/s0108270187010904) | Table 1, p. 2, row 6; `ORC-63OZF67774.ef80ee` |  |
+| lattice beta | 78.93 deg |  | Ca8In3; _alloy: In 0.272727_ | model | [2] Qin 2015 | Table 1, p. 2, row 7; `ORC-TIFS4AUMV6.f1c893` |  |
+| lattice beta | 78.85 deg | 298.15 | Ca8In3; _alloy: In 0.272727_ | unspecified | [2] Qin 2015; _cites Marsh 1988_ [doi](https://doi.org/10.1107/s0108270187010904) | Table 1, p. 2, row 6; `ORC-63OZF67774.2c13fe` |  |
+| lattice gamma | 60.27 deg |  | Ca8In3; _alloy: In 0.272727_ | model | [2] Qin 2015 | Table 1, p. 2, row 7; `ORC-TIFS4AUMV6.06cb1c` |  |
+| lattice gamma | 60.34 deg | 298.15 | Ca8In3; _alloy: In 0.272727_ | unspecified | [2] Qin 2015; _cites Marsh 1988_ [doi](https://doi.org/10.1107/s0108270187010904) | Table 1, p. 2, row 6; `ORC-63OZF67774.d9d798` |  |
 
 ## Sources
 
@@ -200,4 +200,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

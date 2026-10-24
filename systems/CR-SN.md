@@ -55,10 +55,10 @@ Table: Invariant reactions reported in the literature for the Cr–Sn system (4)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1758.15 | critical point: L -> L1 + L2 | L: Sn 0.395 | unspecified | [1] Pérez 2001; _cites ref. 69Pre_ | Table 1, p. 2, row 1 |  |
-| 1647.15 | monotectic: L2 -> L1 + CrBCC | L2: Sn 0.227; L1: Sn 0.555; CrBCC: Sn 0.02 | unspecified | [1] Pérez 2001; _cites ref. 69Pre_ | Table 1, p. 2, row 2 |  |
-| 505.15 | eutectic: L1 -> SnBCT + CrBCC | L1: Sn 1; SnBCT: Sn 1; CrBCC: Sn 0.015 | unspecified | [1] Pérez 2001; _cites ref. 88Ven_ | Table 1, p. 2, row 4 |  |
-| 505.15 | eutectic: L1 -> SnBCT + CrBCC | L1: Sn 1; SnBCT: Sn 1; CrBCC: Sn 0.015 | unspecified | [1] Pérez 2001; _cites ref. 08Hin_ | Table 1, p. 2, row 3 |  |
+| 1758.15 | critical point: L -> L1 + L2 | L: Sn 0.395 | unspecified | [1] Pérez 2001; _cites ref. 69Pre_ | Table 1, p. 2, row 1; `ORC-XPGLXHTHUW` |  |
+| 1647.15 | monotectic: L2 -> L1 + CrBCC | L2: Sn 0.227; L1: Sn 0.555; CrBCC: Sn 0.02 | unspecified | [1] Pérez 2001; _cites ref. 69Pre_ | Table 1, p. 2, row 2; `ORC-JEHUUOBRGC` |  |
+| 505.15 | eutectic: L1 -> SnBCT + CrBCC | L1: Sn 1; SnBCT: Sn 1; CrBCC: Sn 0.015 | unspecified | [1] Pérez 2001; _cites ref. 88Ven_ | Table 1, p. 2, row 4; `ORC-5TTXDC3KTU` |  |
+| 505.15 | eutectic: L1 -> SnBCT + CrBCC | L1: Sn 1; SnBCT: Sn 1; CrBCC: Sn 0.015 | unspecified | [1] Pérez 2001; _cites ref. 08Hin_ | Table 1, p. 2, row 3; `ORC-EA5ODB3KPK` |  |
 
 ## Other properties
 
@@ -68,8 +68,8 @@ Table: Phase transition, Cr–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1625 K | 1625 | other | model | [1] Pérez 2001 | p. 5 | “The calculated monotectic temperature is 1625 K, and the composition at the Cr-rich side of the miscibility gap is 64 at.% .” |
-| Phase transition | 1647 K | 1647 | other | experimental | [1] Pérez 2001; _cites ref. 69Pre_ | p. 5 | “The corresponding experimental values are 1647 K, and 77 at.% Cr \[69Pre\].” |
+| Phase transition | 1625 K | 1625 | other | model | [1] Pérez 2001 | p. 5; `ORC-GWKOVIMCQK` | “The calculated monotectic temperature is 1625 K, and the composition at the Cr-rich side of the miscibility gap is 64 at.% .” |
+| Phase transition | 1647 K | 1647 | other | experimental | [1] Pérez 2001; _cites ref. 69Pre_ | p. 5; `ORC-LEQTF7ZFAS` | “The corresponding experimental values are 1647 K, and 77 at.% Cr \[69Pre\].” |
 
 ## Sources
 
@@ -134,4 +134,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

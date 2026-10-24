@@ -28,13 +28,13 @@ Table: Mixing / partial, Al–Nb–Ni–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Partial enthalpy; _printed: ΔdissH̄i°_ | -55.9 kJ/mol (basis unstated) ± 1.8 | 1773 | UNKNOWN; _alloy: Nb 0.19, Ni 0, Ti 0.253_ | experimental | [1] Witusiewicz 2009 | Table 4, p. 10, row 4 |  |
-| Partial enthalpy; _printed: ΔdissH̄i°_ | -98.3 kJ/mol (basis unstated) ± 1.9 | 1773 | UNKNOWN; _alloy: Nb 0, Ni 0, Ti 0_ | experimental | [1] Witusiewicz 2009 | Table 4, p. 10, row 3 |  |
-| Partial enthalpy; _printed: ΔdissH̄i°_ | -88.8 kJ/mol (basis unstated) ± 1.9 | 1773 | UNKNOWN; _alloy: Nb 0, Ni 0, Ti 1_ | experimental | [1] Witusiewicz 2009 | Table 4, p. 10, row 2 |  |
-| Partial enthalpy; _printed: ΔdissH̄i°_ | -81.3 kJ/mol (basis unstated) ± 1.7 | 1773 | UNKNOWN; _alloy: Nb 1, Ni 0, Ti 0_ | experimental | [1] Witusiewicz 2009 | Table 4, p. 10, row 1 |  |
-| Partial enthalpy; _printed: ΔdissH°i (infinite dilution in Ni)_ | -98.3 kJ/mol (basis unstated) ± 1.9 | 1773 | liquid Ni; _alloy: Nb 0, Ni 0, Ti 0_ | experimental | [1] Witusiewicz 2009 | Table 4, p. 10, row 3 |  |
-| Partial enthalpy; _printed: ΔdissH°i (infinite dilution in Ni)_ | -88.8 kJ/mol (basis unstated) ± 1.9 | 1773 | liquid Ni; _alloy: Nb 0, Ni 0, Ti 1_ | experimental | [1] Witusiewicz 2009 | Table 4, p. 10, row 2 |  |
-| Partial enthalpy; _printed: ΔdissH°i (infinite dilution in Ni)_ | -81.3 kJ/mol (basis unstated) ± 1.7 | 1773 | liquid Ni; _alloy: Nb 1, Ni 0, Ti 0_ | experimental | [1] Witusiewicz 2009 | Table 4, p. 10, row 1 |  |
+| Partial enthalpy; _printed: ΔdissH̄i°_ | -55.9 kJ/mol (basis unstated) ± 1.8 | 1773 | UNKNOWN; _alloy: Nb 0.19, Ni 0, Ti 0.253_ | experimental | [1] Witusiewicz 2009 | Table 4, p. 10, row 4; `ORC-CQPSZSTOHT` |  |
+| Partial enthalpy; _printed: ΔdissH̄i°_ | -98.3 kJ/mol (basis unstated) ± 1.9 | 1773 | UNKNOWN; _alloy: Nb 0, Ni 0, Ti 0_ | experimental | [1] Witusiewicz 2009 | Table 4, p. 10, row 3; `ORC-GGYWGKOJNO.414c88` |  |
+| Partial enthalpy; _printed: ΔdissH̄i°_ | -88.8 kJ/mol (basis unstated) ± 1.9 | 1773 | UNKNOWN; _alloy: Nb 0, Ni 0, Ti 1_ | experimental | [1] Witusiewicz 2009 | Table 4, p. 10, row 2; `ORC-LNFBAUXRHZ.c0166e` |  |
+| Partial enthalpy; _printed: ΔdissH̄i°_ | -81.3 kJ/mol (basis unstated) ± 1.7 | 1773 | UNKNOWN; _alloy: Nb 1, Ni 0, Ti 0_ | experimental | [1] Witusiewicz 2009 | Table 4, p. 10, row 1; `ORC-ORTDT2CYNV.86be06` |  |
+| Partial enthalpy; _printed: ΔdissH°i (infinite dilution in Ni)_ | -98.3 kJ/mol (basis unstated) ± 1.9 | 1773 | liquid Ni; _alloy: Nb 0, Ni 0, Ti 0_ | experimental | [1] Witusiewicz 2009 | Table 4, p. 10, row 3; `ORC-GGYWGKOJNO.a3fecf` |  |
+| Partial enthalpy; _printed: ΔdissH°i (infinite dilution in Ni)_ | -88.8 kJ/mol (basis unstated) ± 1.9 | 1773 | liquid Ni; _alloy: Nb 0, Ni 0, Ti 1_ | experimental | [1] Witusiewicz 2009 | Table 4, p. 10, row 2; `ORC-LNFBAUXRHZ.4f9607` |  |
+| Partial enthalpy; _printed: ΔdissH°i (infinite dilution in Ni)_ | -81.3 kJ/mol (basis unstated) ± 1.7 | 1773 | liquid Ni; _alloy: Nb 1, Ni 0, Ti 0_ | experimental | [1] Witusiewicz 2009 | Table 4, p. 10, row 1; `ORC-ORTDT2CYNV.f62ea2` |  |
 
 ## Sources
 
@@ -77,4 +77,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

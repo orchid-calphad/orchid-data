@@ -14,19 +14,19 @@ Table: Enthalpy of formation of FeZr3 reported in the literature (13)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -20 kJ/mol-atom | FeZr3 |  | model | Calculation | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [1] Servant 1995; _cites F 1988_ | Table 2, p. 3, row 20 |  |
-| -17 kJ/mol-atom | FeZr3 |  | model | Calculation | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [1] Servant 1995; _cites Colinet 1982_ [doi](https://doi.org/10.1016/0364-5916%2885%2990032-x) | Table 2, p. 3, row 19 |  |
-| -16.5 kJ/mol-atom | FeZr3 |  | model | Calculation | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [2] Jiang 2001; _cites Colinet 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990032-x) | Table 2, p. 5, row 37 |  |
-| -16.121 kJ/mol-atom | FeZr3 | 298.15 | model | Calculation | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [2] Jiang 2001 | Table 2, p. 5, row 31 |  |
-| -13.1575 kJ/mol-atom | FeZr3 | 298.15 | model | Optimization | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [1] Servant 1995 | Table 2, p. 3, row 21 |  |
-| -13.157 kJ/mol-atom | FeZr3 | 298.15 | model | Calculation | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [2] Jiang 2001; _cites Servant 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906036-3) | Table 2, p. 5, row 30 |  |
-| 13158 not printed | FeZr3 | 298.15 | model | Calphad | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [3] Yang 2013; _cites Servant 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906036-3) | Table 3, p. 4, row 8 |  |
-| 13158 not printed | FeZr3 | 298.15 | model |  | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [3] Yang 2013; _cites Servant 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906036-3) | Table 3, p. 4, row 24 |  |
-| -14.23 kJ/mol (basis unstated) | FeZr3 | 0 | DFT | VASP | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [4] Lu 2017 | Table 2, p. 3, row 46 |  |
-| -11.77 kJ/mol (basis unstated) | FeZr3 | 0 | DFT |  | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [4] Lu 2017; _cites Kawsar 2016_ | Table 2, p. 3, row 47 |  |
-| 1.26 kJ/mol (basis unstated) | FeZr3 | 0 | DFT | VASP | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [4] Lu 2017 | Table 2, p. 3, row 45 |  |
-| 8.14 kJ/mol (basis unstated) | FeZr3 | 0 | DFT | VASP | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [4] Lu 2017 | Table 2, p. 3, row 44 |  |
-| 11.61 kJ/mol (basis unstated) | FeZr3 | 0 | DFT | VASP | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [4] Lu 2017 | Table 2, p. 3, row 48 |  |
+| -20 kJ/mol-atom | FeZr3 |  | model | Calculation | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [1] Servant 1995; _cites F 1988_ | Table 2, p. 3, row 20; `ORC-6G22PBBN7N.30844d` |  |
+| -17 kJ/mol-atom | FeZr3 |  | model | Calculation | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [1] Servant 1995; _cites Colinet 1982_ [doi](https://doi.org/10.1016/0364-5916%2885%2990032-x) | Table 2, p. 3, row 19; `ORC-VFXLATQOYE.92adcc` |  |
+| -16.5 kJ/mol-atom | FeZr3 |  | model | Calculation | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [2] Jiang 2001; _cites Colinet 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990032-x) | Table 2, p. 5, row 37; `ORC-X6ZLPOQC3O.99592b` |  |
+| -16.121 kJ/mol-atom | FeZr3 | 298.15 | model | Calculation | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [2] Jiang 2001 | Table 2, p. 5, row 31; `ORC-UWT3TX7S54.416cfd` |  |
+| -13.1575 kJ/mol-atom | FeZr3 | 298.15 | model | Optimization | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [1] Servant 1995 | Table 2, p. 3, row 21; `ORC-CWI5SHCAHH` |  |
+| -13.157 kJ/mol-atom | FeZr3 | 298.15 | model | Calculation | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [2] Jiang 2001; _cites Servant 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906036-3) | Table 2, p. 5, row 30; `ORC-CIKN6GBTXS.945c7e` |  |
+| 13158 not printed | FeZr3 | 298.15 | model | Calphad | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [3] Yang 2013; _cites Servant 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906036-3) | Table 3, p. 4, row 8; `ORC-4MUCIW75MD` |  |
+| 13158 not printed | FeZr3 | 298.15 | model |  | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [3] Yang 2013; _cites Servant 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906036-3) | Table 3, p. 4, row 24; `ORC-SUYJ6IDQMR` |  |
+| -14.23 kJ/mol (basis unstated) | FeZr3 | 0 | DFT | VASP | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [4] Lu 2017 | Table 2, p. 3, row 46; `ORC-2Y5XHZT4HH` |  |
+| -11.77 kJ/mol (basis unstated) | FeZr3 | 0 | DFT |  | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [4] Lu 2017; _cites Kawsar 2016_ | Table 2, p. 3, row 47; `ORC-QF7MY66R7N` |  |
+| 1.26 kJ/mol (basis unstated) | FeZr3 | 0 | DFT | VASP | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [4] Lu 2017 | Table 2, p. 3, row 45; `ORC-JM3RKMKYMO` |  |
+| 8.14 kJ/mol (basis unstated) | FeZr3 | 0 | DFT | VASP | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [4] Lu 2017 | Table 2, p. 3, row 44; `ORC-2IQNXWDS74` |  |
+| 11.61 kJ/mol (basis unstated) | FeZr3 | 0 | DFT | VASP | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [4] Lu 2017 | Table 2, p. 3, row 48; `ORC-NBPYPJKFJE` |  |
 
 ### Uncertainty budget
 
@@ -117,4 +117,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

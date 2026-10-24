@@ -54,8 +54,8 @@ Table: Enthalpies of formation, Fe–V system (2)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| bee |  | -5.3 kJ/mol (basis unstated) | 1623 | experimental |  |  | [1] Huang 1991; _cites ref. 2_ | p. 4 | “For a SO-50 alloy and with the same structure of pure elements as reference give the following enthalpy of formation of the Fe-Mn states, the experiments alloy (1): -1 kJ/mol for liquid at 1873 K, -2 kJ/mol for fee at 1443 K; of the Fe-V alloy (2): -8.6 kJ/mol for liquid at 1873 K, -5.3 kJ/mol for bee at 1623 K.” |
-| liquid |  | -8.6 kJ/mol (basis unstated) | 1873 | experimental |  |  | [1] Huang 1991; _cites ref. 2_ | p. 4 | “For a SO-50 alloy and with the same structure of pure elements as reference give the following enthalpy of formation of the Fe-Mn states, the experiments alloy (1): -1 kJ/mol for liquid at 1873 K, -2 kJ/mol for fee at 1443 K; of the Fe-V alloy (2): -8.6 kJ/mol for liquid at 1873 K, -5.3 kJ/mol for bee at 1623 K.” |
+| bee |  | -5.3 kJ/mol (basis unstated) | 1623 | experimental |  |  | [1] Huang 1991; _cites ref. 2_ | p. 4; `ORC-R3OI6XYIOO.21c8bb` | “For a SO-50 alloy and with the same structure of pure elements as reference give the following enthalpy of formation of the Fe-Mn states, the experiments alloy (1): -1 kJ/mol for liquid at 1873 K, -2 kJ/mol for fee at 1443 K; of the Fe-V alloy (2): -8.6 kJ/mol for liquid at 1873 K, -5.3 kJ/mol for bee at 1623 K.” |
+| liquid |  | -8.6 kJ/mol (basis unstated) | 1873 | experimental |  |  | [1] Huang 1991; _cites ref. 2_ | p. 4; `ORC-R3OI6XYIOO.98e5dd` | “For a SO-50 alloy and with the same structure of pure elements as reference give the following enthalpy of formation of the Fe-Mn states, the experiments alloy (1): -1 kJ/mol for liquid at 1873 K, -2 kJ/mol for fee at 1443 K; of the Fe-V alloy (2): -8.6 kJ/mol for liquid at 1873 K, -5.3 kJ/mol for bee at 1623 K.” |
 
 ## Other properties
 
@@ -65,10 +65,10 @@ Table: Phase transition, Fe–V system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1431 K | 1431 |  | experimental | [2] Andersson 1983; _cites ref. 1_ | p. 4 | “Spencer and Putland (1) found the temperature 1431 K The information presented by Hack et al (4) indicates a maximum temperature between 1473 K and 1523 K and the vanadium content a little less than 0.5.” |
-| Phase transition | 1473 K | 1473 |  | experimental | [2] Andersson 1983; _cites Hansen_ | p. 4 | “The information presented by Hack et al (4) indicates a maximum temperature between 1473 K and 1523 K and the vanadium content a little less than 0.5.” |
-| Phase transition | 1525 K | 1525 | congruent transformation | model | [3] Kumar 1991 | p. 7 | “The calculated a\* u congruent transformation point is at 1525 K f1252°Cf corresponding to XV = 0.509.” |
-| Phase transition | 1743.5 K | 1743.5 |  | model | [3] Kumar 1991 | p. 7 | “The azeotropic melting minimum 1743.5 K f1470_4°C1 and at XV = 0.311.” |
+| Phase transition | 1431 K | 1431 |  | experimental | [2] Andersson 1983; _cites ref. 1_ | p. 4; `ORC-MTLOBXZZEG.c971a5` | “Spencer and Putland (1) found the temperature 1431 K The information presented by Hack et al (4) indicates a maximum temperature between 1473 K and 1523 K and the vanadium content a little less than 0.5.” |
+| Phase transition | 1473 K | 1473 |  | experimental | [2] Andersson 1983; _cites Hansen_ | p. 4; `ORC-MTLOBXZZEG.f93896` | “The information presented by Hack et al (4) indicates a maximum temperature between 1473 K and 1523 K and the vanadium content a little less than 0.5.” |
+| Phase transition | 1525 K | 1525 | congruent transformation | model | [3] Kumar 1991 | p. 7; `ORC-SJ564NJ7N5` | “The calculated a\* u congruent transformation point is at 1525 K f1252°Cf corresponding to XV = 0.509.” |
+| Phase transition | 1743.5 K | 1743.5 |  | model | [3] Kumar 1991 | p. 7; `ORC-BPDHT5YJCN` | “The azeotropic melting minimum 1743.5 K f1470_4°C1 and at XV = 0.311.” |
 
 ## Sources
 
@@ -135,4 +135,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

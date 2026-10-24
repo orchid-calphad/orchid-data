@@ -14,15 +14,15 @@ Table: Enthalpy of formation of Si2Y reported in the literature (9)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -66 kJ/mol-atom ± 3.4 | YSi2 | 298.15 | experimental |  | [Si–Y](https://data.orchid-project.org/systems/SI-Y.html) | [1] Xu 2019; _cites Polotskaya 1997_ [doi](https://doi.org/10.1007/bf02676225) | Table 2, p. 3, row 1 |  |
-| -61.8 kJ/mol-atom ± 1.4 | YSi2 | 298.15 | experimental |  | [Si–Y](https://data.orchid-project.org/systems/SI-Y.html) | [1] Xu 2019; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900504-0) | Table 2, p. 3, row 2 |  |
-| -68 kJ/mol-atom | YSi2 |  | model |  | [Si–Y](https://data.orchid-project.org/systems/SI-Y.html) | [1] Xu 2019; _cites Niessen 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990200-9) | Table 2, p. 3, row 5 |  |
-| -60.266 kJ/mol-atom | YSi2 |  | model |  | [Si–Y](https://data.orchid-project.org/systems/SI-Y.html) | [1] Xu 2019; _cites Shukla 2009_ [doi](https://doi.org/10.3139/146.110003) | Table 2, p. 3, row 3 |  |
-| -54.67 kJ/mol-atom | YSi2 (R) |  | model | CALPHAD | [Si–Y](https://data.orchid-project.org/systems/SI-Y.html) | [1] Xu 2019 | Table 3, p. 3, row 14 |  |
-| -54.4 kJ/mol-atom | YSi2 (H) |  | model | CALPHAD | [Si–Y](https://data.orchid-project.org/systems/SI-Y.html) | [1] Xu 2019 | Table 3, p. 3, row 12 |  |
-| -38.9214 kJ/mol-atom | YSi2 |  | model |  | [Si–Y](https://data.orchid-project.org/systems/SI-Y.html) | [1] Xu 2019; _cites Ran 1989_ | Table 2, p. 3, row 4 |  |
-| -50.91 kJ/mol-atom | YSi2 (R) | 0 | DFT | First principles | [Si–Y](https://data.orchid-project.org/systems/SI-Y.html) | [1] Xu 2019 | Table 3, p. 3, row 13 |  |
-| -49.25 kJ/mol-atom | YSi2 (H) | 0 | DFT | First principles | [Si–Y](https://data.orchid-project.org/systems/SI-Y.html) | [1] Xu 2019 | Table 3, p. 3, row 11 |  |
+| -66 kJ/mol-atom ± 3.4 | YSi2 | 298.15 | experimental |  | [Si–Y](https://data.orchid-project.org/systems/SI-Y.html) | [1] Xu 2019; _cites Polotskaya 1997_ [doi](https://doi.org/10.1007/bf02676225) | Table 2, p. 3, row 1; `ORC-URIPMRCZ3I.8cc05d` |  |
+| -61.8 kJ/mol-atom ± 1.4 | YSi2 | 298.15 | experimental |  | [Si–Y](https://data.orchid-project.org/systems/SI-Y.html) | [1] Xu 2019; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900504-0) | Table 2, p. 3, row 2; `ORC-4GRDKBOGIM.4fa341` |  |
+| -68 kJ/mol-atom | YSi2 |  | model |  | [Si–Y](https://data.orchid-project.org/systems/SI-Y.html) | [1] Xu 2019; _cites Niessen 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990200-9) | Table 2, p. 3, row 5; `ORC-HEAPMVD35C.a085fe` |  |
+| -60.266 kJ/mol-atom | YSi2 |  | model |  | [Si–Y](https://data.orchid-project.org/systems/SI-Y.html) | [1] Xu 2019; _cites Shukla 2009_ [doi](https://doi.org/10.3139/146.110003) | Table 2, p. 3, row 3; `ORC-5TNMRC7JAK.eb508b` |  |
+| -54.67 kJ/mol-atom | YSi2 (R) |  | model | CALPHAD | [Si–Y](https://data.orchid-project.org/systems/SI-Y.html) | [1] Xu 2019 | Table 3, p. 3, row 14; `ORC-WOUJPUI6TH` |  |
+| -54.4 kJ/mol-atom | YSi2 (H) |  | model | CALPHAD | [Si–Y](https://data.orchid-project.org/systems/SI-Y.html) | [1] Xu 2019 | Table 3, p. 3, row 12; `ORC-3NVN2XDUWX` |  |
+| -38.9214 kJ/mol-atom | YSi2 |  | model |  | [Si–Y](https://data.orchid-project.org/systems/SI-Y.html) | [1] Xu 2019; _cites Ran 1989_ | Table 2, p. 3, row 4; `ORC-ZFKVRMRWWG.78afef` |  |
+| -50.91 kJ/mol-atom | YSi2 (R) | 0 | DFT | First principles | [Si–Y](https://data.orchid-project.org/systems/SI-Y.html) | [1] Xu 2019 | Table 3, p. 3, row 13; `ORC-PXWJTJAKXJ` |  |
+| -49.25 kJ/mol-atom | YSi2 (H) | 0 | DFT | First principles | [Si–Y](https://data.orchid-project.org/systems/SI-Y.html) | [1] Xu 2019 | Table 3, p. 3, row 11; `ORC-K47LECRQ4P` |  |
 
 ### Uncertainty budget
 
@@ -106,4 +106,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

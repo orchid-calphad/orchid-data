@@ -80,26 +80,26 @@ Table: Invariant reactions reported in the literature for the Al–U system (20)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1893.15 | congruent melting: L -> Al2U | Al2U: Al 0.667 | model | [1] Wang 2008 | Table 2, p. 5, row 20 |  |
-| 1893.15 | congruent melting: L -> Al2U | Al2U: Al 0.667 | model | [1] Wang 2008; _cites Kassner 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990438-8) | Table 2, p. 5, row 19 |  |
-| 1863.15 | congruent melting: L -> Al2U | Al2U: Al 0.667 | experimental | [1] Wang 2008; _cites Cabane 1955_ | Table 2, p. 5, row 18 |  |
-| 1624.15 | peritectic: L + Al2U -> Al3U | L: Al 0.845; Al2U: Al 0.667; Al3U: Al 0.75 | model | [1] Wang 2008 | Table 2, p. 5, row 15 |  |
-| 1623.15 | peritectic: L + Al2U -> Al3U | L: Al 0.832; Al2U: Al 0.667; Al3U: Al 0.75 | experimental | [1] Wang 2008; _cites Cabane 1955_ | Table 2, p. 5, row 13 |  |
-| 1623.15 | peritectic: L + Al2U -> Al3U | L: Al 0.87; Al2U: Al 0.667; Al3U: Al 0.75 | model | [1] Wang 2008; _cites Kassner 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990438-8) | Table 2, p. 5, row 14 |  |
-| 1378.15 | eutectic: L -> γ (U) + Al2U | L: Al 0.0713; γ (U): Al 0.0488; Al2U: Al 0.667 | model | [1] Wang 2008 | Table 2, p. 5, row 5 |  |
-| 1378.15 | eutectic: L -> γ (U) + Al2U | γ (U): Al 0.047; Al2U: Al 0.667 | experimental | [1] Wang 2008; _cites Straatman 1964_ | Table 2, p. 5, row 3 |  |
-| 1378.15 | eutectic: L -> γ (U) + Al2U | L: Al 0.06; γ (U): Al 0.047; Al2U: Al 0.667 | model | [1] Wang 2008; _cites Kassner 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990438-8) | Table 2, p. 5, row 4 |  |
-| 1033.15 | eutectoid: γ (U) -> β (U) + Al2U | γ (U): Al 0.014; β (U): Al 0.0054; Al2U: Al 0.667 | experimental | [1] Wang 2008; _cites Straatman 1964_ | Table 2, p. 5, row 7 |  |
-| 1031.15 | eutectoid: γ (U) -> β (U) + Al2U | Al2U: Al 0.667 | model | [1] Wang 2008; _cites Kassner 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990438-8) | Table 2, p. 5, row 8 |  |
-| 1029.15 | eutectoid: γ (U) -> β (U) + Al2U | γ (U): Al 0.0141; β (U): Al 0.004; Al2U: Al 0.667 | model | [1] Wang 2008 | Table 2, p. 5, row 9 |  |
-| 1023.15 | eutectoid: γ (U) -> β (U) + Al2U | γ (U): Al 0.014; β (U): Al 0.0054; Al2U: Al 0.667 | experimental | [1] Wang 2008; _cites Straatman 1964_ | Table 2, p. 5, row 6 |  |
-| 1005.15 | peritectic: L + Al3U -> Al4U (β) | Al3U: Al 0.75, U 0.25; Al4U (β): Al 0.8, U 0.2 | experimental | [1] Wang 2008; _cites Cabane 1955_ | Table 2, p. 5, row 10 |  |
-| 1004.15 | peritectic: L + Al3U -> Al4U (β) | L: Al 0.972; Al3U: Al 0.75; Al4U (β): Al 0.814 | model | [1] Wang 2008 | Table 2, p. 5, row 12 |  |
-| 1004.15 | peritectic: L + Al3U -> Al4U (β) | L: Al 0.977; Al3U: Al 0.75; Al4U (β): Al 0.818 | model | [1] Wang 2008; _cites Kassner 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990438-8) | Table 2, p. 5, row 11 |  |
-| 919.15 | polymorphic: Al4U (α) -> Al4U (β) | Al4U (α): Al 0.8; Al4U (β): Al 0.828 | model | [1] Wang 2008; _cites Kassner 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990438-8) | Table 2, p. 5, row 16 |  |
-| 919.15 | polymorphic: Al4U (α) -> Al4U (β) | Al4U (α): Al 0.809; Al4U (β): Al 0.824 | model | [1] Wang 2008 | Table 2, p. 5, row 17 |  |
-| 914.15 | eutectic: L -> fcc (Al) + Al4U (α) | L: Al 0.982; fcc (Al): Al 1; Al4U (α): Al 0.824 | model | [1] Wang 2008 | Table 2, p. 5, row 2 |  |
-| 914.15 | eutectic: L -> fcc (Al) + Al4U (α) | L: Al 0.983; fcc (Al): Al 0.99993; Al4U (α): Al 0.828 | model | [1] Wang 2008; _cites Kassner 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990438-8) | Table 2, p. 5, row 1 |  |
+| 1893.15 | congruent melting: L -> Al2U | Al2U: Al 0.667 | model | [1] Wang 2008 | Table 2, p. 5, row 20; `ORC-GNAOCYSWCG` |  |
+| 1893.15 | congruent melting: L -> Al2U | Al2U: Al 0.667 | model | [1] Wang 2008; _cites Kassner 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990438-8) | Table 2, p. 5, row 19; `ORC-Y42CPML4L7` |  |
+| 1863.15 | congruent melting: L -> Al2U | Al2U: Al 0.667 | experimental | [1] Wang 2008; _cites Cabane 1955_ | Table 2, p. 5, row 18; `ORC-HEV3GLGGDI` |  |
+| 1624.15 | peritectic: L + Al2U -> Al3U | L: Al 0.845; Al2U: Al 0.667; Al3U: Al 0.75 | model | [1] Wang 2008 | Table 2, p. 5, row 15; `ORC-HL5CBLXQLS` |  |
+| 1623.15 | peritectic: L + Al2U -> Al3U | L: Al 0.832; Al2U: Al 0.667; Al3U: Al 0.75 | experimental | [1] Wang 2008; _cites Cabane 1955_ | Table 2, p. 5, row 13; `ORC-43XSMSGLQO` |  |
+| 1623.15 | peritectic: L + Al2U -> Al3U | L: Al 0.87; Al2U: Al 0.667; Al3U: Al 0.75 | model | [1] Wang 2008; _cites Kassner 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990438-8) | Table 2, p. 5, row 14; `ORC-JFUPSIP3XI` |  |
+| 1378.15 | eutectic: L -> γ (U) + Al2U | L: Al 0.0713; γ (U): Al 0.0488; Al2U: Al 0.667 | model | [1] Wang 2008 | Table 2, p. 5, row 5; `ORC-6NF6PA2AQH` |  |
+| 1378.15 | eutectic: L -> γ (U) + Al2U | γ (U): Al 0.047; Al2U: Al 0.667 | experimental | [1] Wang 2008; _cites Straatman 1964_ | Table 2, p. 5, row 3; `ORC-GMAH72XEVS` |  |
+| 1378.15 | eutectic: L -> γ (U) + Al2U | L: Al 0.06; γ (U): Al 0.047; Al2U: Al 0.667 | model | [1] Wang 2008; _cites Kassner 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990438-8) | Table 2, p. 5, row 4; `ORC-TMWBHVENTM` |  |
+| 1033.15 | eutectoid: γ (U) -> β (U) + Al2U | γ (U): Al 0.014; β (U): Al 0.0054; Al2U: Al 0.667 | experimental | [1] Wang 2008; _cites Straatman 1964_ | Table 2, p. 5, row 7; `ORC-CL63UXZXNM` |  |
+| 1031.15 | eutectoid: γ (U) -> β (U) + Al2U | Al2U: Al 0.667 | model | [1] Wang 2008; _cites Kassner 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990438-8) | Table 2, p. 5, row 8; `ORC-EEE7LPW5PF` |  |
+| 1029.15 | eutectoid: γ (U) -> β (U) + Al2U | γ (U): Al 0.0141; β (U): Al 0.004; Al2U: Al 0.667 | model | [1] Wang 2008 | Table 2, p. 5, row 9; `ORC-XR63QPS7WD` |  |
+| 1023.15 | eutectoid: γ (U) -> β (U) + Al2U | γ (U): Al 0.014; β (U): Al 0.0054; Al2U: Al 0.667 | experimental | [1] Wang 2008; _cites Straatman 1964_ | Table 2, p. 5, row 6; `ORC-JYOQCS5TY7` |  |
+| 1005.15 | peritectic: L + Al3U -> Al4U (β) | Al3U: Al 0.75, U 0.25; Al4U (β): Al 0.8, U 0.2 | experimental | [1] Wang 2008; _cites Cabane 1955_ | Table 2, p. 5, row 10; `ORC-KHE6DQ3MZS` |  |
+| 1004.15 | peritectic: L + Al3U -> Al4U (β) | L: Al 0.972; Al3U: Al 0.75; Al4U (β): Al 0.814 | model | [1] Wang 2008 | Table 2, p. 5, row 12; `ORC-JTMSTH433H` |  |
+| 1004.15 | peritectic: L + Al3U -> Al4U (β) | L: Al 0.977; Al3U: Al 0.75; Al4U (β): Al 0.818 | model | [1] Wang 2008; _cites Kassner 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990438-8) | Table 2, p. 5, row 11; `ORC-ORNBUBZIAO` |  |
+| 919.15 | polymorphic: Al4U (α) -> Al4U (β) | Al4U (α): Al 0.8; Al4U (β): Al 0.828 | model | [1] Wang 2008; _cites Kassner 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990438-8) | Table 2, p. 5, row 16; `ORC-5CH4FFEDJH` |  |
+| 919.15 | polymorphic: Al4U (α) -> Al4U (β) | Al4U (α): Al 0.809; Al4U (β): Al 0.824 | model | [1] Wang 2008 | Table 2, p. 5, row 17; `ORC-BYSIYYIPIE` |  |
+| 914.15 | eutectic: L -> fcc (Al) + Al4U (α) | L: Al 0.982; fcc (Al): Al 1; Al4U (α): Al 0.824 | model | [1] Wang 2008 | Table 2, p. 5, row 2; `ORC-HA3L5ME46F` |  |
+| 914.15 | eutectic: L -> fcc (Al) + Al4U (α) | L: Al 0.983; fcc (Al): Al 0.99993; Al4U (α): Al 0.828 | model | [1] Wang 2008; _cites Kassner 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990438-8) | Table 2, p. 5, row 1; `ORC-V6BILLWUX3` |  |
 
 ## Formation enthalpies
 
@@ -109,9 +109,9 @@ Table: Enthalpies of formation, Al–U system (3)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| UAl2 |  | -86.1 kJ/mol (basis unstated) |  | model |  |  | [2] Sedmidubský 2010 | Table 2, p. 3, row 1 |  |
-| UAl3 |  | -87 kJ/mol (basis unstated) |  | model |  |  | [2] Sedmidubský 2010 | Table 2, p. 3, row 4 |  |
-| UAl4 |  | -91.4 kJ/mol (basis unstated) |  | model |  |  | [2] Sedmidubský 2010 | Table 2, p. 3, row 9 |  |
+| UAl2 |  | -86.1 kJ/mol (basis unstated) |  | model |  |  | [2] Sedmidubský 2010 | Table 2, p. 3, row 1; `ORC-MZ2XRS7TQV.bc1b6b` |  |
+| UAl3 |  | -87 kJ/mol (basis unstated) |  | model |  |  | [2] Sedmidubský 2010 | Table 2, p. 3, row 4; `ORC-OZIZ5AB43L.9be73b` |  |
+| UAl4 |  | -91.4 kJ/mol (basis unstated) |  | model |  |  | [2] Sedmidubský 2010 | Table 2, p. 3, row 9; `ORC-Q4GJG6AOOD.244cc8` |  |
 
 ## Other properties
 
@@ -121,8 +121,8 @@ Table: Formation, Al–U system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy of formation; _printed: ΔfS°298_ | -1.1 J/mol (basis unstated)/K | 298.15 | UAl2; _alloy: U 0.333333_ | model | [2] Sedmidubský 2010 | Table 2, p. 3, row 1 |  |
-| Entropy of formation; _printed: ΔfS°298_ | -13.1 J/mol (basis unstated)/K | 298.15 | UAl3; _alloy: U 0.25_ | model | [2] Sedmidubský 2010 | Table 2, p. 3, row 4 |  |
+| Entropy of formation; _printed: ΔfS°298_ | -1.1 J/mol (basis unstated)/K | 298.15 | UAl2; _alloy: U 0.333333_ | model | [2] Sedmidubský 2010 | Table 2, p. 3, row 1; `ORC-MZ2XRS7TQV.2f4240` |  |
+| Entropy of formation; _printed: ΔfS°298_ | -13.1 J/mol (basis unstated)/K | 298.15 | UAl3; _alloy: U 0.25_ | model | [2] Sedmidubský 2010 | Table 2, p. 3, row 4; `ORC-OZIZ5AB43L.95d6c3` |  |
 
 ### Heat capacity / entropy / enthalpy (11)
 
@@ -130,17 +130,17 @@ Table: Heat capacity / entropy / enthalpy, Al–U system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: S°298 (ph.)_ | 101.2 J/mol (basis unstated)/K | 298.15 | UAl2; _alloy: U 0.333333_ | model | [2] Sedmidubský 2010 | Table 2, p. 3, row 1 |  |
-| Entropy; _printed: S°298 (el.)_ | 4.5 J/mol (basis unstated)/K | 298.15 | UAl2; _alloy: U 0.333333_ | model | [2] Sedmidubský 2010 | Table 2, p. 3, row 1 |  |
-| Entropy; _printed: S°298 (ph.)_ | 117.5 J/mol (basis unstated)/K | 298.15 | UAl3; _alloy: U 0.25_ | model | [2] Sedmidubský 2010 | Table 2, p. 3, row 4 |  |
-| Entropy; _printed: S°298 (el.)_ | 4.4 J/mol (basis unstated)/K | 298.15 | UAl3; _alloy: U 0.25_ | model | [2] Sedmidubský 2010 | Table 2, p. 3, row 4 |  |
-| Entropy; _printed: S°298 (el.)_ | 5.7 J/mol (basis unstated)/K | 298.15 | UAl4; _alloy: U 0.2_ | model | [2] Sedmidubský 2010 | Table 2, p. 3, row 9 |  |
-| Heat content; _printed: H°298 - H°0 (el.)_ | 0.67 kJ mol^-1 | 298.15 | UAl2; _alloy: U 0.333333_ | model | [2] Sedmidubský 2010 | Table 2, p. 3, row 1 |  |
-| Heat content; _printed: H°298 - H°0 (ph.)_ | 24.2 kJ mol^-1 | 298.15 | UAl2; _alloy: U 0.333333_ | model | [2] Sedmidubský 2010 | Table 2, p. 3, row 1 |  |
-| Heat content; _printed: H°298 - H°0 (el.)_ | 0.65 kJ mol^-1 | 298.15 | UAl3; _alloy: U 0.25_ | model | [2] Sedmidubský 2010 | Table 2, p. 3, row 4 |  |
-| Heat content; _printed: H°298 - H°0 (ph.)_ | 32.3 kJ mol^-1 | 298.15 | UAl3; _alloy: U 0.25_ | model | [2] Sedmidubský 2010 | Table 2, p. 3, row 4 |  |
-| Heat content; _printed: H°298 − H°0 (el.)_ | 1 kJ mol−1 | 298.15 | UAl4; _alloy: U 0.2_ | model | [2] Sedmidubský 2010 | Table 2, p. 3, row 9 |  |
-| Heat content; _printed: H°298 - H°0 (el.)_ | 1 kJ mol^-1 | 298.15 | UAl4; _alloy: U 0.2_ | model | [2] Sedmidubský 2010 | Table 2, p. 3, row 9 |  |
+| Entropy; _printed: S°298 (ph.)_ | 101.2 J/mol (basis unstated)/K | 298.15 | UAl2; _alloy: U 0.333333_ | model | [2] Sedmidubský 2010 | Table 2, p. 3, row 1; `ORC-MZ2XRS7TQV.d5528a` |  |
+| Entropy; _printed: S°298 (el.)_ | 4.5 J/mol (basis unstated)/K | 298.15 | UAl2; _alloy: U 0.333333_ | model | [2] Sedmidubský 2010 | Table 2, p. 3, row 1; `ORC-MZ2XRS7TQV.e33b02` |  |
+| Entropy; _printed: S°298 (ph.)_ | 117.5 J/mol (basis unstated)/K | 298.15 | UAl3; _alloy: U 0.25_ | model | [2] Sedmidubský 2010 | Table 2, p. 3, row 4; `ORC-OZIZ5AB43L.613532` |  |
+| Entropy; _printed: S°298 (el.)_ | 4.4 J/mol (basis unstated)/K | 298.15 | UAl3; _alloy: U 0.25_ | model | [2] Sedmidubský 2010 | Table 2, p. 3, row 4; `ORC-OZIZ5AB43L.aa8542` |  |
+| Entropy; _printed: S°298 (el.)_ | 5.7 J/mol (basis unstated)/K | 298.15 | UAl4; _alloy: U 0.2_ | model | [2] Sedmidubský 2010 | Table 2, p. 3, row 9; `ORC-Q4GJG6AOOD.22d1ca` |  |
+| Heat content; _printed: H°298 - H°0 (el.)_ | 0.67 kJ mol^-1 | 298.15 | UAl2; _alloy: U 0.333333_ | model | [2] Sedmidubský 2010 | Table 2, p. 3, row 1; `ORC-MZ2XRS7TQV.1460d1` |  |
+| Heat content; _printed: H°298 - H°0 (ph.)_ | 24.2 kJ mol^-1 | 298.15 | UAl2; _alloy: U 0.333333_ | model | [2] Sedmidubský 2010 | Table 2, p. 3, row 1; `ORC-MZ2XRS7TQV.99d0f9` |  |
+| Heat content; _printed: H°298 - H°0 (el.)_ | 0.65 kJ mol^-1 | 298.15 | UAl3; _alloy: U 0.25_ | model | [2] Sedmidubský 2010 | Table 2, p. 3, row 4; `ORC-OZIZ5AB43L.ea4941` |  |
+| Heat content; _printed: H°298 - H°0 (ph.)_ | 32.3 kJ mol^-1 | 298.15 | UAl3; _alloy: U 0.25_ | model | [2] Sedmidubský 2010 | Table 2, p. 3, row 4; `ORC-OZIZ5AB43L.f45e55` |  |
+| Heat content; _printed: H°298 − H°0 (el.)_ | 1 kJ mol−1 | 298.15 | UAl4; _alloy: U 0.2_ | model | [2] Sedmidubský 2010 | Table 2, p. 3, row 9; `ORC-Q4GJG6AOOD.2fefc5` |  |
+| Heat content; _printed: H°298 - H°0 (el.)_ | 1 kJ mol^-1 | 298.15 | UAl4; _alloy: U 0.2_ | model | [2] Sedmidubský 2010 | Table 2, p. 3, row 9; `ORC-Q4GJG6AOOD.bab04f` |  |
 
 ### Crystal structure (12)
 
@@ -148,18 +148,18 @@ Table: Crystal structure, Al–U system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 2.854 Å | 941 (\<) | αU; _αU: Al 0.001_ | model | [3] Moussa 2018; _cites Kassner 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990438-8) | Table 1, p. 3, row 1 |  |
-| Lattice a | 4.401 Å | 1004 (\<) | UAl4; _alloy: U 0.2_ | experimental | [3] Moussa 2018; _cites Tougait 2004_ [doi](https://doi.org/10.1016/j.intermet.2003.09.012) | Table 1, p. 3, row 8 |  |
-| Lattice a | 4.266 Å | 1623 (\<) | UAl3; _alloy: U 0.25_ | experimental | [3] Moussa 2018; _cites Rundle 1949_ [doi](https://doi.org/10.1107/s0365110x49000400) | Table 1, p. 3, row 7 |  |
-| Lattice a | 7.776 Å | 1893 (\<) | UAl2; _alloy: U 0.333333_ | experimental | [3] Moussa 2018; _cites Steeb 1961_ [doi](https://doi.org/10.1007/bf00622102) | Table 1, p. 3, row 6 |  |
-| Lattice b | 5.867 Å | 941 (\<) | αU; _αU: Al 0.001_ | model | [3] Moussa 2018; _cites Kassner 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990438-8) | Table 1, p. 3, row 1 |  |
-| Lattice b | 6.255 Å | 1004 (\<) | UAl4; _alloy: U 0.2_ | experimental | [3] Moussa 2018; _cites Tougait 2004_ [doi](https://doi.org/10.1016/j.intermet.2003.09.012) | Table 1, p. 3, row 8 |  |
-| Lattice b | 4.266 Å | 1623 (\<) | UAl3; _alloy: U 0.25_ | experimental | [3] Moussa 2018; _cites Rundle 1949_ [doi](https://doi.org/10.1107/s0365110x49000400) | Table 1, p. 3, row 7 |  |
-| Lattice b | 7.776 Å | 1893 (\<) | UAl2; _alloy: U 0.333333_ | experimental | [3] Moussa 2018; _cites Steeb 1961_ [doi](https://doi.org/10.1007/bf00622102) | Table 1, p. 3, row 6 |  |
-| Lattice c | 4.954 Å | 941 (\<) | αU; _αU: Al 0.001_ | model | [3] Moussa 2018; _cites Kassner 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990438-8) | Table 1, p. 3, row 1 |  |
-| Lattice c | 13.727 Å | 1004 (\<) | UAl4; _alloy: U 0.2_ | experimental | [3] Moussa 2018; _cites Tougait 2004_ [doi](https://doi.org/10.1016/j.intermet.2003.09.012) | Table 1, p. 3, row 8 |  |
-| Lattice c | 4.266 Å | 1623 (\<) | UAl3; _alloy: U 0.25_ | experimental | [3] Moussa 2018; _cites Rundle 1949_ [doi](https://doi.org/10.1107/s0365110x49000400) | Table 1, p. 3, row 7 |  |
-| Lattice c | 7.776 Å | 1893 (\<) | UAl2; _alloy: U 0.333333_ | experimental | [3] Moussa 2018; _cites Steeb 1961_ [doi](https://doi.org/10.1007/bf00622102) | Table 1, p. 3, row 6 |  |
+| Lattice a | 2.854 Å | 941 (\<) | αU; _αU: Al 0.001_ | model | [3] Moussa 2018; _cites Kassner 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990438-8) | Table 1, p. 3, row 1; `ORC-JFQL3FBXEF.f2cd2b` |  |
+| Lattice a | 4.401 Å | 1004 (\<) | UAl4; _alloy: U 0.2_ | experimental | [3] Moussa 2018; _cites Tougait 2004_ [doi](https://doi.org/10.1016/j.intermet.2003.09.012) | Table 1, p. 3, row 8; `ORC-VIIVCLH6Y4.2ad603` |  |
+| Lattice a | 4.266 Å | 1623 (\<) | UAl3; _alloy: U 0.25_ | experimental | [3] Moussa 2018; _cites Rundle 1949_ [doi](https://doi.org/10.1107/s0365110x49000400) | Table 1, p. 3, row 7; `ORC-6G2LISOKMO.ff4814` |  |
+| Lattice a | 7.776 Å | 1893 (\<) | UAl2; _alloy: U 0.333333_ | experimental | [3] Moussa 2018; _cites Steeb 1961_ [doi](https://doi.org/10.1007/bf00622102) | Table 1, p. 3, row 6; `ORC-7DYQUXIIPT.86f1ea` |  |
+| Lattice b | 5.867 Å | 941 (\<) | αU; _αU: Al 0.001_ | model | [3] Moussa 2018; _cites Kassner 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990438-8) | Table 1, p. 3, row 1; `ORC-JFQL3FBXEF.3fa83f` |  |
+| Lattice b | 6.255 Å | 1004 (\<) | UAl4; _alloy: U 0.2_ | experimental | [3] Moussa 2018; _cites Tougait 2004_ [doi](https://doi.org/10.1016/j.intermet.2003.09.012) | Table 1, p. 3, row 8; `ORC-VIIVCLH6Y4.aa2feb` |  |
+| Lattice b | 4.266 Å | 1623 (\<) | UAl3; _alloy: U 0.25_ | experimental | [3] Moussa 2018; _cites Rundle 1949_ [doi](https://doi.org/10.1107/s0365110x49000400) | Table 1, p. 3, row 7; `ORC-6G2LISOKMO.9313a5` |  |
+| Lattice b | 7.776 Å | 1893 (\<) | UAl2; _alloy: U 0.333333_ | experimental | [3] Moussa 2018; _cites Steeb 1961_ [doi](https://doi.org/10.1007/bf00622102) | Table 1, p. 3, row 6; `ORC-7DYQUXIIPT.1927f6` |  |
+| Lattice c | 4.954 Å | 941 (\<) | αU; _αU: Al 0.001_ | model | [3] Moussa 2018; _cites Kassner 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990438-8) | Table 1, p. 3, row 1; `ORC-JFQL3FBXEF.8ee429` |  |
+| Lattice c | 13.727 Å | 1004 (\<) | UAl4; _alloy: U 0.2_ | experimental | [3] Moussa 2018; _cites Tougait 2004_ [doi](https://doi.org/10.1016/j.intermet.2003.09.012) | Table 1, p. 3, row 8; `ORC-VIIVCLH6Y4.a626a5` |  |
+| Lattice c | 4.266 Å | 1623 (\<) | UAl3; _alloy: U 0.25_ | experimental | [3] Moussa 2018; _cites Rundle 1949_ [doi](https://doi.org/10.1107/s0365110x49000400) | Table 1, p. 3, row 7; `ORC-6G2LISOKMO.64ddd4` |  |
+| Lattice c | 7.776 Å | 1893 (\<) | UAl2; _alloy: U 0.333333_ | experimental | [3] Moussa 2018; _cites Steeb 1961_ [doi](https://doi.org/10.1007/bf00622102) | Table 1, p. 3, row 6; `ORC-7DYQUXIIPT.6f6b74` |  |
 
 ## Sources
 
@@ -226,4 +226,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

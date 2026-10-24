@@ -14,9 +14,9 @@ Table: Enthalpy of formation of AgDy reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -37.3 kJ/mol-atom ± 1.8 | AgDy | 298.15 | experimental |  | [Ag–Dy](https://data.orchid-project.org/systems/AG-DY.html) | [1] Long 2010; _cites Morin 1974_ [doi](https://doi.org/10.1002/pssa.2210210117) | Table 1, p. 3, row 14 |  |
-| -44 kJ/mol-atom | AgDy |  | model |  | [Ag–Dy](https://data.orchid-project.org/systems/AG-DY.html) | [1] Long 2010; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 1, p. 3, row 15 |  |
-| -32.812 kJ/mol-atom | AgDy | 298.15 | DFT | first-principles calculations | [Ag–Dy](https://data.orchid-project.org/systems/AG-DY.html) | [1] Long 2010 | Table 1, p. 3, row 13 |  |
+| -37.3 kJ/mol-atom ± 1.8 | AgDy | 298.15 | experimental |  | [Ag–Dy](https://data.orchid-project.org/systems/AG-DY.html) | [1] Long 2010; _cites Morin 1974_ [doi](https://doi.org/10.1002/pssa.2210210117) | Table 1, p. 3, row 14; `ORC-FQFXKWEDG5.c8ebc1` |  |
+| -44 kJ/mol-atom | AgDy |  | model |  | [Ag–Dy](https://data.orchid-project.org/systems/AG-DY.html) | [1] Long 2010; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 1, p. 3, row 15; `ORC-EEN7LRHZ5D.050793` |  |
+| -32.812 kJ/mol-atom | AgDy | 298.15 | DFT | first-principles calculations | [Ag–Dy](https://data.orchid-project.org/systems/AG-DY.html) | [1] Long 2010 | Table 1, p. 3, row 13; `ORC-2KSZHJOZZQ.51022a` |  |
 
 ### Uncertainty budget
 
@@ -94,4 +94,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

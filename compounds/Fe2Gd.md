@@ -14,14 +14,14 @@ Table: Enthalpy of formation of Fe2Gd reported in the literature (8)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -11.6 kJ/mol-atom ± 2 | Fe2Gd | 298.15 | experimental |  | [Fe–Gd](https://data.orchid-project.org/systems/FE-GD.html) | [1] Zinkevich 2002; _cites Colinet 1987_ | Table 12, p. 13, row 9 |  |
-| -11.6 kJ/mol-atom ± 2 | Fe2Gd | 298.15 | experimental |  | [Fe–Gd](https://data.orchid-project.org/systems/FE-GD.html) | [2] Zinkevich 2000; _cites Colinet 1987_ [doi](https://doi.org/10.1007/bf02646931) | Table 2, p. 3, row 2 |  |
-| -3.5 kJ/mol-atom ± 1.5 | Fe2Gd | 1078 | experimental |  | [Fe–Gd](https://data.orchid-project.org/systems/FE-GD.html) | [1] Zinkevich 2002; _cites Deodhar 1975_ | Table 12, p. 13, row 12 |  |
-| -3.5 kJ/mol-atom ± 1.5 | Fe2Gd | 1078 | experimental |  | [Fe–Gd](https://data.orchid-project.org/systems/FE-GD.html) | [2] Zinkevich 2000; _cites Deodhar 1975_ | Table 2, p. 3, row 1 |  |
-| -6.81 kJ/mol-atom | Fe2Gd | 1078 | model |  | [Fe–Gd](https://data.orchid-project.org/systems/FE-GD.html) | [1] Zinkevich 2002 | Table 12, p. 13, row 14 |  |
-| -5.94 kJ/mol-atom | Fe2Gd | 298.15 | model |  | [Fe–Gd](https://data.orchid-project.org/systems/FE-GD.html) | [1] Zinkevich 2002 | Table 12, p. 13, row 11 |  |
-| -4.59 kJ/mol-atom | Fe2Gd | 298.15 | model |  | [Fe–Gd](https://data.orchid-project.org/systems/FE-GD.html) | [1] Zinkevich 2002; _cites Zinkevich 2000_ | Table 12, p. 13, row 10 |  |
-| -4.38 kJ/mol-atom | Fe2Gd | 1078 | model |  | [Fe–Gd](https://data.orchid-project.org/systems/FE-GD.html) | [1] Zinkevich 2002; _cites Zinkevich 2000_ | Table 12, p. 13, row 13 |  |
+| -11.6 kJ/mol-atom ± 2 | Fe2Gd | 298.15 | experimental |  | [Fe–Gd](https://data.orchid-project.org/systems/FE-GD.html) | [1] Zinkevich 2002; _cites Colinet 1987_ | Table 12, p. 13, row 9; `ORC-FGKIBVFKMX.551bc0` |  |
+| -11.6 kJ/mol-atom ± 2 | Fe2Gd | 298.15 | experimental |  | [Fe–Gd](https://data.orchid-project.org/systems/FE-GD.html) | [2] Zinkevich 2000; _cites Colinet 1987_ [doi](https://doi.org/10.1007/bf02646931) | Table 2, p. 3, row 2; `ORC-XVCLD777MT` |  |
+| -3.5 kJ/mol-atom ± 1.5 | Fe2Gd | 1078 | experimental |  | [Fe–Gd](https://data.orchid-project.org/systems/FE-GD.html) | [1] Zinkevich 2002; _cites Deodhar 1975_ | Table 12, p. 13, row 12; `ORC-HMWXYNWIGB.6907f1` |  |
+| -3.5 kJ/mol-atom ± 1.5 | Fe2Gd | 1078 | experimental |  | [Fe–Gd](https://data.orchid-project.org/systems/FE-GD.html) | [2] Zinkevich 2000; _cites Deodhar 1975_ | Table 2, p. 3, row 1; `ORC-RPGFJXHR3N` |  |
+| -6.81 kJ/mol-atom | Fe2Gd | 1078 | model |  | [Fe–Gd](https://data.orchid-project.org/systems/FE-GD.html) | [1] Zinkevich 2002 | Table 12, p. 13, row 14; `ORC-HXPBIXMIXD.3ba26f` |  |
+| -5.94 kJ/mol-atom | Fe2Gd | 298.15 | model |  | [Fe–Gd](https://data.orchid-project.org/systems/FE-GD.html) | [1] Zinkevich 2002 | Table 12, p. 13, row 11; `ORC-GXB5PU32U5.b8ac0f` |  |
+| -4.59 kJ/mol-atom | Fe2Gd | 298.15 | model |  | [Fe–Gd](https://data.orchid-project.org/systems/FE-GD.html) | [1] Zinkevich 2002; _cites Zinkevich 2000_ | Table 12, p. 13, row 10; `ORC-DWSOOBGST7.2379bf` |  |
+| -4.38 kJ/mol-atom | Fe2Gd | 1078 | model |  | [Fe–Gd](https://data.orchid-project.org/systems/FE-GD.html) | [1] Zinkevich 2002; _cites Zinkevich 2000_ | Table 12, p. 13, row 13; `ORC-HN34UL6CGG.36704a` |  |
 
 ### Uncertainty budget
 
@@ -105,4 +105,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

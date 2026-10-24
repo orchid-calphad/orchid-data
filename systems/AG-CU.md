@@ -56,15 +56,15 @@ Table: Invariant reactions reported in the literature for the Ag–Cu system (9)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1054 | eutectic: Liquid \<-> (Ag) + (Cu) | L: Cu 0.398; (Ag): Cu 0.146; (Cu): Cu 0.951 | model | [1] Witusiewicz 2004; _cites Murray 1984_ | Table 8, p. 8, row 4 |  |
-| 1053 | eutectic: Liquid \<-> (Ag) + (Cu) | L: Cu 0.399; (Ag): Cu 0.141; (Cu): Cu 0.951 | experimental | [1] Witusiewicz 2004; _cites Hansen 1958_ | Table 8, p. 8, row 1 |  |
-| 1053 | eutectic: Liquid \<-> (Ag) + (Cu) | L: Cu 0.403; (Ag): Cu 0.131; (Cu): Cu 0.955 | model | [1] Witusiewicz 2004; _cites Kusoffsky 2002_ | Table 8, p. 8, row 6 |  |
-| 1053 | eutectic: Liquid \<-> (Ag) + (Cu) | L: Cu 0.398; (Ag): Cu 0.121; (Cu): Cu 0.953 | model | [1] Witusiewicz 2004 | Table 8, p. 8, row 7 |  |
-| 1050 | eutectic: Liquid \<-> (Ag) + (Cu) | L: Cu 0.361; (Ag): Cu 0.129; (Cu): Cu 0.948 | model | [1] Witusiewicz 2004; _cites S-S 1997_ | Table 8, p. 8, row 5 |  |
-| 490.35 | eutectic |  | experimental | [2] Moon 2000 | p. 12 | “The present results indicate the eutectic composition to be 3.5 wt.% Ag ± 0.3 wt.% Ag and 0.9 wt.% Cu ± 0.2 wt.% at 217.2 °C ± 0.2 °C.” |
-| 490.35 | eutectic |  | experimental | [2] Moon 2000 | p. 1 | “The ternary eutectic is confirmed to be at a composition of 3.5 wt.% Ag, 0.9 wt.% Cu at a temperature of 217.2 ± 0.2°C (2σ).” |
-| 490.15 | eutectic |  | experimental | [2] Moon 2000; _cites Miller 1994_ [doi](https://doi.org/10.1007/bf02653344) | p. 1 | “In 1994, Miller et al.,5 using DTA, found a ternary eutectic at 217°C and placed its composition at 4.7 wt.% Ag, 1.7 wt.% Cu.” |
-| 490.05 | eutectic |  | model | [2] Moon 2000 | p. 9 | “The extrapolation from these assessments gave a ternary eutectic at 216.9°C and Sn-3.42 wt.% Ag-0.67 wt.% Cu.” |
+| 1054 | eutectic: Liquid \<-> (Ag) + (Cu) | L: Cu 0.398; (Ag): Cu 0.146; (Cu): Cu 0.951 | model | [1] Witusiewicz 2004; _cites Murray 1984_ | Table 8, p. 8, row 4; `ORC-YQY67QSVDL` |  |
+| 1053 | eutectic: Liquid \<-> (Ag) + (Cu) | L: Cu 0.399; (Ag): Cu 0.141; (Cu): Cu 0.951 | experimental | [1] Witusiewicz 2004; _cites Hansen 1958_ | Table 8, p. 8, row 1; `ORC-G7UETM37MC` |  |
+| 1053 | eutectic: Liquid \<-> (Ag) + (Cu) | L: Cu 0.403; (Ag): Cu 0.131; (Cu): Cu 0.955 | model | [1] Witusiewicz 2004; _cites Kusoffsky 2002_ | Table 8, p. 8, row 6; `ORC-GU6PIWJYIV` |  |
+| 1053 | eutectic: Liquid \<-> (Ag) + (Cu) | L: Cu 0.398; (Ag): Cu 0.121; (Cu): Cu 0.953 | model | [1] Witusiewicz 2004 | Table 8, p. 8, row 7; `ORC-YB73KO2RVJ` |  |
+| 1050 | eutectic: Liquid \<-> (Ag) + (Cu) | L: Cu 0.361; (Ag): Cu 0.129; (Cu): Cu 0.948 | model | [1] Witusiewicz 2004; _cites S-S 1997_ | Table 8, p. 8, row 5; `ORC-OXHBOWIZPS` |  |
+| 490.35 | eutectic |  | experimental | [2] Moon 2000 | p. 12; `ORC-CRLWXBC7LC` | “The present results indicate the eutectic composition to be 3.5 wt.% Ag ± 0.3 wt.% Ag and 0.9 wt.% Cu ± 0.2 wt.% at 217.2 °C ± 0.2 °C.” |
+| 490.35 | eutectic |  | experimental | [2] Moon 2000 | p. 1; `ORC-EEO7BLCLTM` | “The ternary eutectic is confirmed to be at a composition of 3.5 wt.% Ag, 0.9 wt.% Cu at a temperature of 217.2 ± 0.2°C (2σ).” |
+| 490.15 | eutectic |  | experimental | [2] Moon 2000; _cites Miller 1994_ [doi](https://doi.org/10.1007/bf02653344) | p. 1; `ORC-6YTJA3SRPA` | “In 1994, Miller et al.,5 using DTA, found a ternary eutectic at 217°C and placed its composition at 4.7 wt.% Ag, 1.7 wt.% Cu.” |
+| 490.05 | eutectic |  | model | [2] Moon 2000 | p. 9; `ORC-Z6ER4BOPQ3` | “The extrapolation from these assessments gave a ternary eutectic at 216.9°C and Sn-3.42 wt.% Ag-0.67 wt.% Cu.” |
 
 ## Other properties
 
@@ -74,8 +74,8 @@ Table: Phase transition, Ag–Cu system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 489.45 K | 489.45 |  | model | [2] Moon 2000 | p. 1 | “The best fit to the experimental data is 3.66 wt.% Ag and 0.91 wt.% Cu at a temperature of 216.3°C.” |
-| Phase transition | 835 K | 835 | other | model | [3] Jönsson 1988 | p. 10 | “Following line A from high temperatures downwards its intersection with the calculated nucleation temperature line (broken-dotted line) occurs at xcu = 0.12 and T = 835 K.” |
+| Phase transition | 489.45 K | 489.45 |  | model | [2] Moon 2000 | p. 1; `ORC-PCXG4VOOPR` | “The best fit to the experimental data is 3.66 wt.% Ag and 0.91 wt.% Cu at a temperature of 216.3°C.” |
+| Phase transition | 835 K | 835 | other | model | [3] Jönsson 1988 | p. 10; `ORC-3QF5VNEFM7` | “Following line A from high temperatures downwards its intersection with the calculated nucleation temperature line (broken-dotted line) occurs at xcu = 0.12 and T = 835 K.” |
 
 ## Sources
 
@@ -142,4 +142,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

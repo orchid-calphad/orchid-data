@@ -55,18 +55,18 @@ Table: Invariant reactions reported in the literature for the Bi–Dy system (12
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2048 | congruent melting: L -> BiDy | L: Bi 0.5; BiDy: Bi 0.5, Dy 0.5 | experimental | [1] Wang 2013; _cites Abulkhaev 1992_ | Table 2, p. 2, row 5 |  |
-| 2048 | congruent melting: L -> BiDy | L: Bi 0.5; BiDy: Bi 0.5, Dy 0.5 | model | [1] Wang 2013 | Table 2, p. 2, row 6 |  |
-| 1719 | peritectic: L + BiDy -> Bi3Dy5 | L: Bi 0.335; BiDy: Bi 0.5, Dy 0.5; Bi3Dy5: Bi 0.375, Dy 0.625 | experimental | [1] Wang 2013; _cites Abulkhaev 1992_ | Table 2, p. 2, row 3 |  |
-| 1719 | peritectic: L + BiDy -> Bi3Dy5 | L: Bi 0.33; BiDy: Bi 0.5, Dy 0.5; Bi3Dy5: Bi 0.375, Dy 0.625 | model | [1] Wang 2013 | Table 2, p. 2, row 4 |  |
-| 1719 | peritectic |  | model | [1] Wang 2013 | p. 5 | “The peritectic temperature for the formation of the intermetallic compound Bi3 Dy5 is 1719 K, and the congruent melting temperature of BiDy is 2023 K, the eutectic temperatures of the reactions, L ↔ Hcp A3 (Dy) + Bi3 Dy5 and L ↔ Rhomb (Bi) + BiDy, are 1420 and 543.5 K, respectively.” |
-| 1693 | peritectic: L + BiDy ↔ Bi3 Dy5 |  | experimental | [1] Wang 2013; _cites Abulkhaev 1992_ | p. 2 | “According to measured data, the compound Bi3 Dy5 is formed by the peritectic reactions, L + BiDy ↔ Bi3 Dy5 at 1693 K, and the compound BiDy melts congruently at about 2048 K.” |
-| 1428 | eutectic: L ↔ Hcp A3 (Dy) + Bi3 Dy5 |  | experimental | [1] Wang 2013; _cites Abulkhaev 1992_ | p. 2 | “There are two eutectic reactions, L ↔ Hcp A3 (Dy) + Bi3 Dy5 at 1428 K and L ↔ Rhomb (Bi) + BiDy at 544 K.” |
-| 1420 | eutectic: L -> Bi3Dy5 + Hcp_A3 (Dy) | L: Bi 0.185; Bi3Dy5: Bi 0.375, Dy 0.625 | experimental | [1] Wang 2013; _cites Abulkhaev 1992_ | Table 2, p. 2, row 1 |  |
-| 1420 | eutectic: L -> Bi3Dy5 + Hcp_A3 (Dy) | L: Bi 0.175; Bi3Dy5: Bi 0.375, Dy 0.625 | model | [1] Wang 2013 | Table 2, p. 2, row 2 |  |
-| 544 | eutectic: L ↔ Rhomb (Bi) + BiDy |  | experimental | [1] Wang 2013; _cites Abulkhaev 1992_ | p. 2 | “There are two eutectic reactions, L ↔ Hcp A3 (Dy) + Bi3 Dy5 at 1428 K and L ↔ Rhomb (Bi) + BiDy at 544 K.” |
-| 543.5 | eutectic: L -> BiDy + Rhomb_A7 (Bi) | L: Bi 0.995; BiDy: Bi 0.5, Dy 0.5 | model | [1] Wang 2013 | Table 2, p. 2, row 8 |  |
-| 542 | eutectic: L -> BiDy + Rhomb_A7 (Bi) | L: Bi 0.99; BiDy: Bi 0.5, Dy 0.5 | experimental | [1] Wang 2013; _cites Abulkhaev 1992_ | Table 2, p. 2, row 7 |  |
+| 2048 | congruent melting: L -> BiDy | L: Bi 0.5; BiDy: Bi 0.5, Dy 0.5 | experimental | [1] Wang 2013; _cites Abulkhaev 1992_ | Table 2, p. 2, row 5; `ORC-EK4Z5T7V3D` |  |
+| 2048 | congruent melting: L -> BiDy | L: Bi 0.5; BiDy: Bi 0.5, Dy 0.5 | model | [1] Wang 2013 | Table 2, p. 2, row 6; `ORC-SSDDFNNE4T` |  |
+| 1719 | peritectic: L + BiDy -> Bi3Dy5 | L: Bi 0.335; BiDy: Bi 0.5, Dy 0.5; Bi3Dy5: Bi 0.375, Dy 0.625 | experimental | [1] Wang 2013; _cites Abulkhaev 1992_ | Table 2, p. 2, row 3; `ORC-6VK3JGW32R` |  |
+| 1719 | peritectic: L + BiDy -> Bi3Dy5 | L: Bi 0.33; BiDy: Bi 0.5, Dy 0.5; Bi3Dy5: Bi 0.375, Dy 0.625 | model | [1] Wang 2013 | Table 2, p. 2, row 4; `ORC-6YFQ4PG44U` |  |
+| 1719 | peritectic |  | model | [1] Wang 2013 | p. 5; `ORC-I74IO75VT7.46b861` | “The peritectic temperature for the formation of the intermetallic compound Bi3 Dy5 is 1719 K, and the congruent melting temperature of BiDy is 2023 K, the eutectic temperatures of the reactions, L ↔ Hcp A3 (Dy) + Bi3 Dy5 and L ↔ Rhomb (Bi) + BiDy, are 1420 and 543.5 K, respectively.” |
+| 1693 | peritectic: L + BiDy ↔ Bi3 Dy5 |  | experimental | [1] Wang 2013; _cites Abulkhaev 1992_ | p. 2; `ORC-3EOSO5CCSA.e960f7` | “According to measured data, the compound Bi3 Dy5 is formed by the peritectic reactions, L + BiDy ↔ Bi3 Dy5 at 1693 K, and the compound BiDy melts congruently at about 2048 K.” |
+| 1428 | eutectic: L ↔ Hcp A3 (Dy) + Bi3 Dy5 |  | experimental | [1] Wang 2013; _cites Abulkhaev 1992_ | p. 2; `ORC-C4ILK2FWOL.68ee71` | “There are two eutectic reactions, L ↔ Hcp A3 (Dy) + Bi3 Dy5 at 1428 K and L ↔ Rhomb (Bi) + BiDy at 544 K.” |
+| 1420 | eutectic: L -> Bi3Dy5 + Hcp_A3 (Dy) | L: Bi 0.185; Bi3Dy5: Bi 0.375, Dy 0.625 | experimental | [1] Wang 2013; _cites Abulkhaev 1992_ | Table 2, p. 2, row 1; `ORC-VKQ6QP6CQP` |  |
+| 1420 | eutectic: L -> Bi3Dy5 + Hcp_A3 (Dy) | L: Bi 0.175; Bi3Dy5: Bi 0.375, Dy 0.625 | model | [1] Wang 2013 | Table 2, p. 2, row 2; `ORC-W7CYJO5WLC` |  |
+| 544 | eutectic: L ↔ Rhomb (Bi) + BiDy |  | experimental | [1] Wang 2013; _cites Abulkhaev 1992_ | p. 2; `ORC-C4ILK2FWOL.a7429c` | “There are two eutectic reactions, L ↔ Hcp A3 (Dy) + Bi3 Dy5 at 1428 K and L ↔ Rhomb (Bi) + BiDy at 544 K.” |
+| 543.5 | eutectic: L -> BiDy + Rhomb_A7 (Bi) | L: Bi 0.995; BiDy: Bi 0.5, Dy 0.5 | model | [1] Wang 2013 | Table 2, p. 2, row 8; `ORC-SAOSTKYVNE` |  |
+| 542 | eutectic: L -> BiDy + Rhomb_A7 (Bi) | L: Bi 0.99; BiDy: Bi 0.5, Dy 0.5 | experimental | [1] Wang 2013; _cites Abulkhaev 1992_ | Table 2, p. 2, row 7; `ORC-I5JXKHSJQM` |  |
 
 ## Other properties
 
@@ -76,8 +76,8 @@ Table: Phase transition, Bi–Dy system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 2023 K | 2023 | congruent transformation | model | [1] Wang 2013 | p. 5 | “The peritectic temperature for the formation of the intermetallic compound Bi3 Dy5 is 1719 K, and the congruent melting temperature of BiDy is 2023 K, the eutectic temperatures of the reactions, L ↔ Hcp A3 (Dy) + Bi3 Dy5 and L ↔ Rhomb (Bi) + BiDy, are 1420 and 543.5 K, respectively.” |
-| Phase transition | 2048 K | 2048 | congruent transformation | experimental | [1] Wang 2013; _cites Abulkhaev 1992_ | p. 2 | “According to measured data, the compound Bi3 Dy5 is formed by the peritectic reactions, L + BiDy ↔ Bi3 Dy5 at 1693 K, and the compound BiDy melts congruently at about 2048 K.” |
+| Phase transition | 2023 K | 2023 | congruent transformation | model | [1] Wang 2013 | p. 5; `ORC-I74IO75VT7.88cefd` | “The peritectic temperature for the formation of the intermetallic compound Bi3 Dy5 is 1719 K, and the congruent melting temperature of BiDy is 2023 K, the eutectic temperatures of the reactions, L ↔ Hcp A3 (Dy) + Bi3 Dy5 and L ↔ Rhomb (Bi) + BiDy, are 1420 and 543.5 K, respectively.” |
+| Phase transition | 2048 K | 2048 | congruent transformation | experimental | [1] Wang 2013; _cites Abulkhaev 1992_ | p. 2; `ORC-3EOSO5CCSA.cd5d6a` | “According to measured data, the compound Bi3 Dy5 is formed by the peritectic reactions, L + BiDy ↔ Bi3 Dy5 at 1693 K, and the compound BiDy melts congruently at about 2048 K.” |
 
 ### Crystal structure (8)
 
@@ -85,14 +85,14 @@ Table: Crystal structure, Bi–Dy system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 8.235 Å | 0 | Bi3Dy5; _alloy: Dy 0.625_ | DFT | [1] Wang 2013 | Table 3, p. 3, row 11 |  |
-| Lattice a | 6.3071 Å | 0 | BiDy; _alloy: Dy 0.5_ | DFT | [1] Wang 2013 | Table 3, p. 3, row 13 |  |
-| Lattice a | 8.155 Å | 298.15 | Bi3Dy5; _alloy: Dy 0.625_ | experimental | [1] Wang 2013; _cites Drzyzga 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901009-x) | Table 3, p. 3, row 12 |  |
-| Lattice a | 6.2491 Å | 298.15 | BiDy; _alloy: Dy 0.5_ | experimental | [1] Wang 2013; _cites Yoshihara 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990038-7) | Table 3, p. 3, row 14 |  |
-| Lattice b | 9.516 Å | 0 | Bi3Dy5; _alloy: Dy 0.625_ | DFT | [1] Wang 2013 | Table 3, p. 3, row 11 |  |
-| Lattice b | 9.432 Å | 298.15 | Bi3Dy5; _alloy: Dy 0.625_ | experimental | [1] Wang 2013; _cites Drzyzga 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901009-x) | Table 3, p. 3, row 12 |  |
-| Lattice c | 12.011 Å | 0 | Bi3Dy5; _alloy: Dy 0.625_ | DFT | [1] Wang 2013 | Table 3, p. 3, row 11 |  |
-| Lattice c | 11.934 Å | 298.15 | Bi3Dy5; _alloy: Dy 0.625_ | experimental | [1] Wang 2013; _cites Drzyzga 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901009-x) | Table 3, p. 3, row 12 |  |
+| Lattice a | 8.235 Å | 0 | Bi3Dy5; _alloy: Dy 0.625_ | DFT | [1] Wang 2013 | Table 3, p. 3, row 11; `ORC-SDM2OESBMO.c8a49f` |  |
+| Lattice a | 6.3071 Å | 0 | BiDy; _alloy: Dy 0.5_ | DFT | [1] Wang 2013 | Table 3, p. 3, row 13; `ORC-GMOTZ2UH67` |  |
+| Lattice a | 8.155 Å | 298.15 | Bi3Dy5; _alloy: Dy 0.625_ | experimental | [1] Wang 2013; _cites Drzyzga 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901009-x) | Table 3, p. 3, row 12; `ORC-OCZB6AS66Y.ab818e` |  |
+| Lattice a | 6.2491 Å | 298.15 | BiDy; _alloy: Dy 0.5_ | experimental | [1] Wang 2013; _cites Yoshihara 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990038-7) | Table 3, p. 3, row 14; `ORC-FRVYKMG5KP` |  |
+| Lattice b | 9.516 Å | 0 | Bi3Dy5; _alloy: Dy 0.625_ | DFT | [1] Wang 2013 | Table 3, p. 3, row 11; `ORC-SDM2OESBMO.fc8144` |  |
+| Lattice b | 9.432 Å | 298.15 | Bi3Dy5; _alloy: Dy 0.625_ | experimental | [1] Wang 2013; _cites Drzyzga 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901009-x) | Table 3, p. 3, row 12; `ORC-OCZB6AS66Y.5e5209` |  |
+| Lattice c | 12.011 Å | 0 | Bi3Dy5; _alloy: Dy 0.625_ | DFT | [1] Wang 2013 | Table 3, p. 3, row 11; `ORC-SDM2OESBMO.6421fd` |  |
+| Lattice c | 11.934 Å | 298.15 | Bi3Dy5; _alloy: Dy 0.625_ | experimental | [1] Wang 2013; _cites Drzyzga 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901009-x) | Table 3, p. 3, row 12; `ORC-OCZB6AS66Y.925661` |  |
 
 ## Sources
 
@@ -157,4 +157,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -52,19 +52,19 @@ Table: Invariant reactions reported in the literature for the Bi–Lu system (13
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2093.15 | congruent melting: L -> BiLu | L: Lu 0.5; BiLu: Lu 0.5 | experimental | [1] Wang 2011; _cites Abulkhaev 1995_ | Table 2, p. 3, row 5 |  |
-| 2092.95 | congruent melting: L -> BiLu | L: Lu 0.5; BiLu: Lu 0.5 | model | [1] Wang 2011 | Table 2, p. 3, row 6 |  |
-| 1723.15 | peritectic: L + BiLu -> Bi3Lu5 | BiLu: Lu 0.5; Bi3Lu5: Lu 0.625 | experimental | [1] Wang 2011; _cites Abulkhaev 1995_ | Table 2, p. 3, row 7 |  |
-| 1723.15 | peritectic: L + BiLu -> Bi3Lu5 | L: Lu 0.695; BiLu: Lu 0.5; Bi3Lu5: Lu 0.625 | model | [1] Wang 2011 | Table 2, p. 3, row 8 |  |
-| 1723.15 | peritectic |  | experimental | [1] Wang 2011; _cites Abulkhaev 1995_ | p. 1 | “Based on differential thermal analysis, X-ray diffractometry, and metallography, Abulkhaev and Ganiev \[6\] investigated the phase diagram in the Bi-Lu system, and reported three stoichiometric compounds: Bi2 Lu, Bi3 Lu5 (peritectic formation at 1450 ± 10 °C), and BiLu (melting point, 1820 ± 15 °C).” |
-| 1438.25 | eutectic: L -> Bi3Lu5 + (Lu) | L: Lu 0.824; Bi3Lu5: Lu 0.625; (Lu): Lu 0.99 | model | [1] Wang 2011 | Table 2, p. 3, row 10 |  |
-| 1438.15 | eutectic: L (∼80 at.% Lu) ↔ Bi3 Lu5 + (Lu) |  | experimental | [1] Wang 2011; _cites Abulkhaev 1995_ | p. 1 | “Abulkhaev and Ganiev \[6\] also found two eutectic reactions: L (∼80 at.% Lu) ↔ Bi3 Lu5 + (Lu) at 1165 ± 10 °C, and L (∼0.3 at.% Lu) ↔ (Bi) + BiLu at 269 ± 2 °C.” |
-| 1438.15 | eutectic: L -> Bi3Lu5 + (Lu) | L: Lu 0.8; Bi3Lu5: Lu 0.625 | experimental | [1] Wang 2011; _cites Abulkhaev 1995_ | Table 2, p. 3, row 9 |  |
-| 542.75 | eutectic: L -> (Bi) + BiLu | L: Lu 0.008; (Bi): Lu 0; BiLu: Lu 0.5 | model | [1] Wang 2011 | Table 2, p. 3, row 2 |  |
-| 542.15 | eutectic: L (∼0.3 at.% Lu) ↔ (Bi) + BiLu |  | experimental | [1] Wang 2011; _cites Abulkhaev 1995_ | p. 1 | “Abulkhaev and Ganiev \[6\] also found two eutectic reactions: L (∼80 at.% Lu) ↔ Bi3 Lu5 + (Lu) at 1165 ± 10 °C, and L (∼0.3 at.% Lu) ↔ (Bi) + BiLu at 269 ± 2 °C.” |
-| 542.15 | eutectic: L -> (Bi) + BiLu | L: Lu 0.003; (Bi): Lu 0; BiLu: Lu 0.5 | experimental | [1] Wang 2011; _cites Abulkhaev 1995_ | Table 2, p. 3, row 1 |  |
-| 483.15 | peritectoid: (Bi) + BiLu -> Bi2Lu | (Bi): Lu 0; BiLu: Lu 0.5; Bi2Lu: Lu 0.333 | model | [1] Wang 2011 | Table 2, p. 3, row 4 |  |
-| 483.15 | peritectoid: (Bi) + BiLu -> Bi2Lu | (Bi): Lu 0; BiLu: Lu 0.5; Bi2Lu: Lu 0.333 | experimental | [1] Wang 2011; _cites Okamoto 1996_ [doi](https://doi.org/10.1007/bf02648498) | Table 2, p. 3, row 3 |  |
+| 2093.15 | congruent melting: L -> BiLu | L: Lu 0.5; BiLu: Lu 0.5 | experimental | [1] Wang 2011; _cites Abulkhaev 1995_ | Table 2, p. 3, row 5; `ORC-BQN5CMJILN` |  |
+| 2092.95 | congruent melting: L -> BiLu | L: Lu 0.5; BiLu: Lu 0.5 | model | [1] Wang 2011 | Table 2, p. 3, row 6; `ORC-MH2FJGJOKB` |  |
+| 1723.15 | peritectic: L + BiLu -> Bi3Lu5 | BiLu: Lu 0.5; Bi3Lu5: Lu 0.625 | experimental | [1] Wang 2011; _cites Abulkhaev 1995_ | Table 2, p. 3, row 7; `ORC-FHPDOTBRJL` |  |
+| 1723.15 | peritectic: L + BiLu -> Bi3Lu5 | L: Lu 0.695; BiLu: Lu 0.5; Bi3Lu5: Lu 0.625 | model | [1] Wang 2011 | Table 2, p. 3, row 8; `ORC-QILKVT2QWR` |  |
+| 1723.15 | peritectic |  | experimental | [1] Wang 2011; _cites Abulkhaev 1995_ | p. 1; `ORC-UOOTDSRLWE.efa3d3` | “Based on differential thermal analysis, X-ray diffractometry, and metallography, Abulkhaev and Ganiev \[6\] investigated the phase diagram in the Bi-Lu system, and reported three stoichiometric compounds: Bi2 Lu, Bi3 Lu5 (peritectic formation at 1450 ± 10 °C), and BiLu (melting point, 1820 ± 15 °C).” |
+| 1438.25 | eutectic: L -> Bi3Lu5 + (Lu) | L: Lu 0.824; Bi3Lu5: Lu 0.625; (Lu): Lu 0.99 | model | [1] Wang 2011 | Table 2, p. 3, row 10; `ORC-TNH2QTPEZJ` |  |
+| 1438.15 | eutectic: L (∼80 at.% Lu) ↔ Bi3 Lu5 + (Lu) |  | experimental | [1] Wang 2011; _cites Abulkhaev 1995_ | p. 1; `ORC-5UNKD7KM6C.13be3a` | “Abulkhaev and Ganiev \[6\] also found two eutectic reactions: L (∼80 at.% Lu) ↔ Bi3 Lu5 + (Lu) at 1165 ± 10 °C, and L (∼0.3 at.% Lu) ↔ (Bi) + BiLu at 269 ± 2 °C.” |
+| 1438.15 | eutectic: L -> Bi3Lu5 + (Lu) | L: Lu 0.8; Bi3Lu5: Lu 0.625 | experimental | [1] Wang 2011; _cites Abulkhaev 1995_ | Table 2, p. 3, row 9; `ORC-UJBXQADEUN` |  |
+| 542.75 | eutectic: L -> (Bi) + BiLu | L: Lu 0.008; (Bi): Lu 0; BiLu: Lu 0.5 | model | [1] Wang 2011 | Table 2, p. 3, row 2; `ORC-SDIBGQNKEA` |  |
+| 542.15 | eutectic: L (∼0.3 at.% Lu) ↔ (Bi) + BiLu |  | experimental | [1] Wang 2011; _cites Abulkhaev 1995_ | p. 1; `ORC-5UNKD7KM6C.d42272` | “Abulkhaev and Ganiev \[6\] also found two eutectic reactions: L (∼80 at.% Lu) ↔ Bi3 Lu5 + (Lu) at 1165 ± 10 °C, and L (∼0.3 at.% Lu) ↔ (Bi) + BiLu at 269 ± 2 °C.” |
+| 542.15 | eutectic: L -> (Bi) + BiLu | L: Lu 0.003; (Bi): Lu 0; BiLu: Lu 0.5 | experimental | [1] Wang 2011; _cites Abulkhaev 1995_ | Table 2, p. 3, row 1; `ORC-PHVZFD4VIA` |  |
+| 483.15 | peritectoid: (Bi) + BiLu -> Bi2Lu | (Bi): Lu 0; BiLu: Lu 0.5; Bi2Lu: Lu 0.333 | model | [1] Wang 2011 | Table 2, p. 3, row 4; `ORC-43Y3OHQ4TY` |  |
+| 483.15 | peritectoid: (Bi) + BiLu -> Bi2Lu | (Bi): Lu 0; BiLu: Lu 0.5; Bi2Lu: Lu 0.333 | experimental | [1] Wang 2011; _cites Okamoto 1996_ [doi](https://doi.org/10.1007/bf02648498) | Table 2, p. 3, row 3; `ORC-RSKUXW55HM` |  |
 
 ## Formation enthalpies
 
@@ -74,12 +74,12 @@ Table: Enthalpies of formation, Bi–Lu system (6)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Bi2Lu | [Bi2Lu](https://data.orchid-project.org/compounds/Bi2Lu.html) | -56 kJ/mol-atom |  | model |  | -38.291 (oqmd-1800948) | [1] Wang 2011; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 4, p. 3, row 1 |  |
-| Bi2Lu | [Bi2Lu](https://data.orchid-project.org/compounds/Bi2Lu.html) | -56 kJ/mol-atom |  | model |  | -38.291 (oqmd-1800948) | [1] Wang 2011 | Table 4, p. 3, row 2 |  |
-| Bi3Lu5 | [Bi3Lu5](https://data.orchid-project.org/compounds/Bi3Lu5.html) | -67 kJ/mol-atom |  | model | -55.266 (mp-aaacqwvv) |  | [1] Wang 2011; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 4, p. 3, row 5 |  |
-| Bi3Lu5 | [Bi3Lu5](https://data.orchid-project.org/compounds/Bi3Lu5.html) | -63.731 kJ/mol-atom |  | model | -55.266 (mp-aaacqwvv) |  | [1] Wang 2011 | Table 4, p. 3, row 6 |  |
-| BiLu | [BiLu](https://data.orchid-project.org/compounds/BiLu.html) | -72.696 kJ/mol-atom |  | model | -69.638 (mp-aaabgiil) | -72.378 (oqmd-10940) | [1] Wang 2011 | Table 4, p. 3, row 4 |  |
-| BiLu | [BiLu](https://data.orchid-project.org/compounds/BiLu.html) | -72 kJ/mol-atom |  | model | -69.638 (mp-aaabgiil) | -72.378 (oqmd-10940) | [1] Wang 2011; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 4, p. 3, row 3 |  |
+| Bi2Lu | [Bi2Lu](https://data.orchid-project.org/compounds/Bi2Lu.html) | -56 kJ/mol-atom |  | model |  | -38.291 (oqmd-1800948) | [1] Wang 2011; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 4, p. 3, row 1; `ORC-4S2FJPTJPR` |  |
+| Bi2Lu | [Bi2Lu](https://data.orchid-project.org/compounds/Bi2Lu.html) | -56 kJ/mol-atom |  | model |  | -38.291 (oqmd-1800948) | [1] Wang 2011 | Table 4, p. 3, row 2; `ORC-HO3PD2ZMPW` |  |
+| Bi3Lu5 | [Bi3Lu5](https://data.orchid-project.org/compounds/Bi3Lu5.html) | -67 kJ/mol-atom |  | model | -55.266 (mp-aaacqwvv) |  | [1] Wang 2011; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 4, p. 3, row 5; `ORC-ART3MVDLK4` |  |
+| Bi3Lu5 | [Bi3Lu5](https://data.orchid-project.org/compounds/Bi3Lu5.html) | -63.731 kJ/mol-atom |  | model | -55.266 (mp-aaacqwvv) |  | [1] Wang 2011 | Table 4, p. 3, row 6; `ORC-K4EFK7N5JQ` |  |
+| BiLu | [BiLu](https://data.orchid-project.org/compounds/BiLu.html) | -72.696 kJ/mol-atom |  | model | -69.638 (mp-aaabgiil) | -72.378 (oqmd-10940) | [1] Wang 2011 | Table 4, p. 3, row 4; `ORC-AFEZIAKQUG` |  |
+| BiLu | [BiLu](https://data.orchid-project.org/compounds/BiLu.html) | -72 kJ/mol-atom |  | model | -69.638 (mp-aaabgiil) | -72.378 (oqmd-10940) | [1] Wang 2011; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 4, p. 3, row 3; `ORC-TYTRKHC6PI` |  |
 
 ## Other properties
 
@@ -89,7 +89,7 @@ Table: Phase transition, Bi–Lu system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 2093.15 K | 2093.15 |  | experimental | [1] Wang 2011; _cites Abulkhaev 1995_ | p. 1 | “Based on differential thermal analysis, X-ray diffractometry, and metallography, Abulkhaev and Ganiev \[6\] investigated the phase diagram in the Bi-Lu system, and reported three stoichiometric compounds: Bi2 Lu, Bi3 Lu5 (peritectic formation at 1450 ± 10 °C), and BiLu (melting point, 1820 ± 15 °C).” |
+| Phase transition | 2093.15 K | 2093.15 |  | experimental | [1] Wang 2011; _cites Abulkhaev 1995_ | p. 1; `ORC-UOOTDSRLWE.8dc65f` | “Based on differential thermal analysis, X-ray diffractometry, and metallography, Abulkhaev and Ganiev \[6\] investigated the phase diagram in the Bi-Lu system, and reported three stoichiometric compounds: Bi2 Lu, Bi3 Lu5 (peritectic formation at 1450 ± 10 °C), and BiLu (melting point, 1820 ± 15 °C).” |
 
 ## Sources
 
@@ -154,4 +154,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

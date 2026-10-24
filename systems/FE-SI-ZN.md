@@ -27,41 +27,41 @@ Table: Invariant reactions reported in the literature for the Fe–Si–Zn syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1449 | L1 \<-> L2+Fe2Si+BCC_B2 | L1: Fe 0.644, Si 0.321, Zn 0.036; L: Fe 0.644, Si 0.321, Zn 0.036 | model | [1] Yuan 2014 | Table 4, p. 6, row 2 |  |
-| 1446 | L1 \<-> L2+FeSi+Fe2Si | L1: Fe 0.629, Si 0.336, Zn 0.035; L: Fe 0.629, Si 0.336, Zn 0.035 | model | [1] Yuan 2014 | Table 4, p. 6, row 4 |  |
-| 1442 | L1 \<-> L2+Fe2Si+BCC_B2 | L1: Fe 0.049, Si 0.005, Zn 0.946; L: Fe 0.049, Si 0.005, Zn 0.946 | model | [1] Yuan 2014; _cites Sha 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.07.006) | Table 4, p. 6, row 1 |  |
-| 1437 | L1 \<-> L2+FeSi+Fe2Si | L1: Fe 0.038, Si 0.007, Zn 0.955; L: Fe 0.038, Si 0.007, Zn 0.955 | model | [1] Yuan 2014; _cites Sha 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.07.006) | Table 4, p. 6, row 3 |  |
-| 1403 | FeSi+L1 \<-> L2+FeSi2_H | L1: Fe 0.025, Si 0.357, Zn 0.618; L: Fe 0.025, Si 0.357, Zn 0.618 | model | [1] Yuan 2014; _cites Sha 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.07.006) | Table 4, p. 6, row 5 |  |
-| 1385 | L2+Fe2Si \<-> BCC_B2+FeSi | L2: Fe 0.038, Si 0.004, Zn 0.958; L: Fe 0.038, Si 0.004, Zn 0.958 | model | [1] Yuan 2014 | Table 4, p. 6, row 7 |  |
-| 1366 | L2+Fe2Si \<-> BCC_B2+FeSi | L2: Fe 0.035, Si 0.004, Zn 0.961; L: Fe 0.035, Si 0.004, Zn 0.961 | model | [1] Yuan 2014; _cites Sha 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.07.006) | Table 4, p. 6, row 6 |  |
-| 1276 | L+FeSi2_H+FeSi \<-> FeSi2_L | L: Fe 0.002, Si 0.144, Zn 0.854 | model | [1] Yuan 2014; _cites Sha 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.07.006) | Table 4, p. 6, row 8 |  |
-| 1256 | L+FeSi2_H+FeSi \<-> FeSi2_L | L: Fe 0.001, Si 0.134, Zn 0.865 | model | [1] Yuan 2014 | Table 4, p. 6, row 9 |  |
-| 1233 | L+FeSi2_H \<-> (Si)+FeSi2_L | L: Fe 0.001, Si 0.137, Zn 0.862 | model | [1] Yuan 2014; _cites Sha 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.07.006) | Table 4, p. 6, row 10 |  |
-| 1217 | L+FeSi2_H \<-> (Si)+FeSi2_L | L: Fe 0.001, Si 0.124, Zn 0.876 | model | [1] Yuan 2014 | Table 4, p. 6, row 11 |  |
-| 1055 | L+BCC_A2 \<-> BCC_B2+Γ | L: Fe 0.088, Si 0, Zn 0.912 | model | [1] Yuan 2014 | Table 4, p. 6, row 13 |  |
-| 1055 | L+BCC_A2 \<-> BCC_B2+Γ | L: Fe 0.088, Si 0, Zn 0.912 | model | [1] Yuan 2014; _cites Sha 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.07.006) | Table 4, p. 6, row 12 |  |
-| 946 | L+BCC_B2+Γ \<-> δ | L: Fe 0.038, Si 0, Zn 0.962 | model | [1] Yuan 2014; _cites Sha 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.07.006) | Table 4, p. 6, row 14 |  |
-| 946 | L+BCC_B2+Γ \<-> δ | L: Fe 0.038, Si 0, Zn 0.962 | model | [1] Yuan 2014 | Table 4, p. 6, row 15 |  |
-| 933 | L+BCC_B2+Γ \<-> δ |  | experimental | [1] Yuan 2014; _cites Koster 1968_ | Table 4, p. 6, row 16 |  |
-| 873 | L+BCC_B2 \<-> FeSi+δ | L: Fe 0.01, Si 0, Zn 0.99 | model | [1] Yuan 2014; _cites Sha 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.07.006) | Table 4, p. 6, row 17 |  |
-| 869 | L+BCC_B2 \<-> FeSi+δ | L: Fe 0.009, Si 0, Zn 0.991 | model | [1] Yuan 2014 | Table 4, p. 6, row 18 |  |
-| 868 | L+BCC_B2 \<-> FeSi+δ |  | experimental | [1] Yuan 2014; _cites Koster 1968_ | Table 4, p. 6, row 19 |  |
-| 827.6 | Γ + δ -> α + Γ1 |  | model | [2] Su 2005 | Table 2, p. 7, row 7 |  |
-| 793 | Liq + δ -> FeSi + ζ |  | experimental | [2] Su 2005; _cites Koster 1969_ | Table 2, p. 7, row 6 |  |
-| 793 | L+δ \<-> FeSi+ζ |  | experimental | [1] Yuan 2014; _cites Koster 1968_ | Table 4, p. 6, row 22 |  |
-| 780 | L+δ \<-> FeSi+ζ | L: Fe 0.002, Si 0, Zn 0.998 | model | [1] Yuan 2014; _cites Sha 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.07.006) | Table 4, p. 6, row 20 |  |
-| 777 | L+δ \<-> FeSi+ζ | L: Fe 0.002, Si 0, Zn 0.998 | model | [1] Yuan 2014 | Table 4, p. 6, row 21 |  |
-| 773.1 | Liq + δ -> FeSi + ζ |  | model | [2] Su 2005 | Table 2, p. 7, row 5 |  |
-| 693 | L \<-> FeSi+(Zn)+ζ | L: Fe 0, Si 0, Zn 1 | model | [1] Yuan 2014; _cites Sha 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.07.006) | Table 4, p. 6, row 23 |  |
-| 692.5 | Liq -> FeSi + ζ + Zn |  | model | [2] Su 2005 | Table 2, p. 7, row 3 |  |
-| 692.2 | Liq -> FeSi + FeSi2 + Zn |  | model | [2] Su 2005 | Table 2, p. 7, row 1 |  |
-| 692 | L \<-> FeSi2_L+(Zn)+(Si) | L: Fe 0, Si 0.001, Zn 0.999 | model | [1] Yuan 2014 | Table 4, p. 6, row 28 |  |
-| 692 | L+FeSi \<-> FeSi2_L+(Zn) |  | experimental | [1] Yuan 2014; _cites Koster 1968_ | Table 4, p. 6, row 26 |  |
-| 692 | L+FeSi \<-> FeSi2_L+(Zn) | L: Fe 0, Si 0, Zn 1 | model | [1] Yuan 2014; _cites Sha 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.07.006) | Table 4, p. 6, row 24 |  |
-| 692 | L \<-> FeSi2_L+(Zn)+(Si) | L: Fe 0, Si 0.001, Zn 0.999 | model | [1] Yuan 2014; _cites Sha 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.07.006) | Table 4, p. 6, row 27 |  |
-| 692 | L+FeSi \<-> FeSi2_L+(Zn) | L: Fe 0, Si 0, Zn 1 | model | [1] Yuan 2014 | Table 4, p. 6, row 25 |  |
-| 690 | Liq -> FeSi + ζ + Zn |  | experimental | [2] Su 2005; _cites Koster 1969_ | Table 2, p. 7, row 4 |  |
-| 690 | Liq -> FeSi + FeSi2 + Zn |  | experimental | [2] Su 2005; _cites Koster 1969_ | Table 2, p. 7, row 2 |  |
+| 1449 | L1 \<-> L2+Fe2Si+BCC_B2 | L1: Fe 0.644, Si 0.321, Zn 0.036; L: Fe 0.644, Si 0.321, Zn 0.036 | model | [1] Yuan 2014 | Table 4, p. 6, row 2; `ORC-SAJEM7KTBY` |  |
+| 1446 | L1 \<-> L2+FeSi+Fe2Si | L1: Fe 0.629, Si 0.336, Zn 0.035; L: Fe 0.629, Si 0.336, Zn 0.035 | model | [1] Yuan 2014 | Table 4, p. 6, row 4; `ORC-L6CL7C5ULS` |  |
+| 1442 | L1 \<-> L2+Fe2Si+BCC_B2 | L1: Fe 0.049, Si 0.005, Zn 0.946; L: Fe 0.049, Si 0.005, Zn 0.946 | model | [1] Yuan 2014; _cites Sha 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.07.006) | Table 4, p. 6, row 1; `ORC-MOJXSZVEXY` |  |
+| 1437 | L1 \<-> L2+FeSi+Fe2Si | L1: Fe 0.038, Si 0.007, Zn 0.955; L: Fe 0.038, Si 0.007, Zn 0.955 | model | [1] Yuan 2014; _cites Sha 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.07.006) | Table 4, p. 6, row 3; `ORC-AWWNDEBZVD` |  |
+| 1403 | FeSi+L1 \<-> L2+FeSi2_H | L1: Fe 0.025, Si 0.357, Zn 0.618; L: Fe 0.025, Si 0.357, Zn 0.618 | model | [1] Yuan 2014; _cites Sha 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.07.006) | Table 4, p. 6, row 5; `ORC-H7V36ZMIFF` |  |
+| 1385 | L2+Fe2Si \<-> BCC_B2+FeSi | L2: Fe 0.038, Si 0.004, Zn 0.958; L: Fe 0.038, Si 0.004, Zn 0.958 | model | [1] Yuan 2014 | Table 4, p. 6, row 7; `ORC-W425P2OXEM` |  |
+| 1366 | L2+Fe2Si \<-> BCC_B2+FeSi | L2: Fe 0.035, Si 0.004, Zn 0.961; L: Fe 0.035, Si 0.004, Zn 0.961 | model | [1] Yuan 2014; _cites Sha 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.07.006) | Table 4, p. 6, row 6; `ORC-7HNQXNDJ6J` |  |
+| 1276 | L+FeSi2_H+FeSi \<-> FeSi2_L | L: Fe 0.002, Si 0.144, Zn 0.854 | model | [1] Yuan 2014; _cites Sha 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.07.006) | Table 4, p. 6, row 8; `ORC-D3K5NK5SKU` |  |
+| 1256 | L+FeSi2_H+FeSi \<-> FeSi2_L | L: Fe 0.001, Si 0.134, Zn 0.865 | model | [1] Yuan 2014 | Table 4, p. 6, row 9; `ORC-GLSOIGTJZ6` |  |
+| 1233 | L+FeSi2_H \<-> (Si)+FeSi2_L | L: Fe 0.001, Si 0.137, Zn 0.862 | model | [1] Yuan 2014; _cites Sha 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.07.006) | Table 4, p. 6, row 10; `ORC-A2NNPQDHLM` |  |
+| 1217 | L+FeSi2_H \<-> (Si)+FeSi2_L | L: Fe 0.001, Si 0.124, Zn 0.876 | model | [1] Yuan 2014 | Table 4, p. 6, row 11; `ORC-OR7RVOVHOF` |  |
+| 1055 | L+BCC_A2 \<-> BCC_B2+Γ | L: Fe 0.088, Si 0, Zn 0.912 | model | [1] Yuan 2014 | Table 4, p. 6, row 13; `ORC-AMUCPXZVU4` |  |
+| 1055 | L+BCC_A2 \<-> BCC_B2+Γ | L: Fe 0.088, Si 0, Zn 0.912 | model | [1] Yuan 2014; _cites Sha 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.07.006) | Table 4, p. 6, row 12; `ORC-UNOPSW6RRT` |  |
+| 946 | L+BCC_B2+Γ \<-> δ | L: Fe 0.038, Si 0, Zn 0.962 | model | [1] Yuan 2014; _cites Sha 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.07.006) | Table 4, p. 6, row 14; `ORC-C4D6AR4KB7` |  |
+| 946 | L+BCC_B2+Γ \<-> δ | L: Fe 0.038, Si 0, Zn 0.962 | model | [1] Yuan 2014 | Table 4, p. 6, row 15; `ORC-WXUKJCIRR5` |  |
+| 933 | L+BCC_B2+Γ \<-> δ |  | experimental | [1] Yuan 2014; _cites Koster 1968_ | Table 4, p. 6, row 16; `ORC-FQRNG6PPEJ` |  |
+| 873 | L+BCC_B2 \<-> FeSi+δ | L: Fe 0.01, Si 0, Zn 0.99 | model | [1] Yuan 2014; _cites Sha 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.07.006) | Table 4, p. 6, row 17; `ORC-FE5JZWA7CY` |  |
+| 869 | L+BCC_B2 \<-> FeSi+δ | L: Fe 0.009, Si 0, Zn 0.991 | model | [1] Yuan 2014 | Table 4, p. 6, row 18; `ORC-JXHPHHFCYK` |  |
+| 868 | L+BCC_B2 \<-> FeSi+δ |  | experimental | [1] Yuan 2014; _cites Koster 1968_ | Table 4, p. 6, row 19; `ORC-MZ5D6M6SGJ` |  |
+| 827.6 | Γ + δ -> α + Γ1 |  | model | [2] Su 2005 | Table 2, p. 7, row 7; `ORC-UNFI5FQGRO` |  |
+| 793 | Liq + δ -> FeSi + ζ |  | experimental | [2] Su 2005; _cites Koster 1969_ | Table 2, p. 7, row 6; `ORC-2IQKQDO2EY` |  |
+| 793 | L+δ \<-> FeSi+ζ |  | experimental | [1] Yuan 2014; _cites Koster 1968_ | Table 4, p. 6, row 22; `ORC-QZGKLPEAH4` |  |
+| 780 | L+δ \<-> FeSi+ζ | L: Fe 0.002, Si 0, Zn 0.998 | model | [1] Yuan 2014; _cites Sha 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.07.006) | Table 4, p. 6, row 20; `ORC-ARVJSSSQ6U` |  |
+| 777 | L+δ \<-> FeSi+ζ | L: Fe 0.002, Si 0, Zn 0.998 | model | [1] Yuan 2014 | Table 4, p. 6, row 21; `ORC-LYU474EKXY` |  |
+| 773.1 | Liq + δ -> FeSi + ζ |  | model | [2] Su 2005 | Table 2, p. 7, row 5; `ORC-6E23DJL5MY` |  |
+| 693 | L \<-> FeSi+(Zn)+ζ | L: Fe 0, Si 0, Zn 1 | model | [1] Yuan 2014; _cites Sha 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.07.006) | Table 4, p. 6, row 23; `ORC-3BTNJCZ2KW` |  |
+| 692.5 | Liq -> FeSi + ζ + Zn |  | model | [2] Su 2005 | Table 2, p. 7, row 3; `ORC-VCAZ6UU63B` |  |
+| 692.2 | Liq -> FeSi + FeSi2 + Zn |  | model | [2] Su 2005 | Table 2, p. 7, row 1; `ORC-S5YM3BOMZM` |  |
+| 692 | L \<-> FeSi2_L+(Zn)+(Si) | L: Fe 0, Si 0.001, Zn 0.999 | model | [1] Yuan 2014 | Table 4, p. 6, row 28; `ORC-B5JIWJYTR7` |  |
+| 692 | L+FeSi \<-> FeSi2_L+(Zn) |  | experimental | [1] Yuan 2014; _cites Koster 1968_ | Table 4, p. 6, row 26; `ORC-FQPYWGTXR3` |  |
+| 692 | L+FeSi \<-> FeSi2_L+(Zn) | L: Fe 0, Si 0, Zn 1 | model | [1] Yuan 2014; _cites Sha 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.07.006) | Table 4, p. 6, row 24; `ORC-G5LXF4YAEF` |  |
+| 692 | L \<-> FeSi2_L+(Zn)+(Si) | L: Fe 0, Si 0.001, Zn 0.999 | model | [1] Yuan 2014; _cites Sha 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.07.006) | Table 4, p. 6, row 27; `ORC-OZRH5AQ4MJ` |  |
+| 692 | L+FeSi \<-> FeSi2_L+(Zn) | L: Fe 0, Si 0, Zn 1 | model | [1] Yuan 2014 | Table 4, p. 6, row 25; `ORC-QYPBOT3BYJ` |  |
+| 690 | Liq -> FeSi + ζ + Zn |  | experimental | [2] Su 2005; _cites Koster 1969_ | Table 2, p. 7, row 4; `ORC-HUDHYCPHR2` |  |
+| 690 | Liq -> FeSi + FeSi2 + Zn |  | experimental | [2] Su 2005; _cites Koster 1969_ | Table 2, p. 7, row 2; `ORC-NKCRB7A5ZW` |  |
 
 ## Sources
 
@@ -105,4 +105,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

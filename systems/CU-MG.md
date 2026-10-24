@@ -77,28 +77,28 @@ Table: Invariant reactions reported in the literature for the Cu–Mg system (22
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 998.8 | Liq -> fcc + Cu2Mg-C15 | L: Mg 0.213; fcc: Mg 0.074; Cu2Mg-C15: Mg 0.314 | model | [1] Zhou 2007 | Table 5, p. 6, row 13 |  |
-| 998.6 | eutectic: Liquid -> fcc-A1 + Laves-C15 | Liquid: Mg 0.209; fcc-A1: Mg 0.069; Laves-C15: Mg 0.313 | unspecified | [2] Hämäläinen 1998 | Table I, p. 190, row 1 |  |
-| 998.3 | Liq -> fcc + Cu2Mg-C15 | L: Mg 0.214; fcc: Mg 0.075; Cu2Mg-C15: Mg 0.316 | model | [1] Zhou 2007; _cites Zou 1993_ | Table 5, p. 6, row 15 |  |
-| 998 | Liq -> fcc + Cu2Mg-C15 | L: Mg 0.209; fcc: Mg 0.069; Cu2Mg-C15: Mg 0.313 | model | [1] Zhou 2007; _cites Coughanowr 1991_ [doi](https://doi.org/10.1515/ijmr-1991-820711) | Table 5, p. 6, row 14 |  |
-| 998 | Liq -> fcc + Cu2Mg-C15 | L: Mg 0.23 | experimental | [1] Zhou 2007; _cites Urazova 1907_ | Table 5, p. 6, row 17 |  |
-| 998 | Liq -> fcc + Cu2Mg-C15 | fcc: Mg 0.069; Cu2Mg-C15: Mg 0.31 | experimental | [1] Zhou 2007; _cites Bagnoud 1978_ [doi](https://doi.org/10.1515/ijmr-1978-690209) | Table 5, p. 6, row 18 |  |
-| 995 | Liq -> fcc + Cu2Mg-C15 |  | experimental | [1] Zhou 2007; _cites Jones 1931_ | Table 5, p. 6, row 16 |  |
-| 828 | Liq -> CuMg2-Cb + Cu2Mg-C15 | L: Mg 0.585; CuMg2-Cb: Mg 0.667; Cu2Mg-C15: Mg 0.353 | experimental | [1] Zhou 2007; _cites Urazova 1907_ | Table 5, p. 6, row 22 |  |
-| 828 | Liq -> CuMg2-Cb + Cu2Mg-C15 | CuMg2-Cb: Mg 0.666667 | experimental | [1] Zhou 2007; _cites Sahmen 1908_ [doi](https://doi.org/10.1002/zaac.19080570102) | Table 5, p. 6, row 23 |  |
-| 826.5 | Liq -> CuMg2-Cb + Cu2Mg-C15 | L: Mg 0.594; CuMg2-Cb: Mg 0.667; Cu2Mg-C15: Mg 0.361 | model | [1] Zhou 2007 | Table 5, p. 6, row 19 |  |
-| 825.5 | Liq -> CuMg2-Cb + Cu2Mg-C15 | L: Mg 0.595; CuMg2-Cb: Mg 0.667; Cu2Mg-C15: Mg 0.356 | model | [1] Zhou 2007; _cites Coughanowr 1991_ [doi](https://doi.org/10.1515/ijmr-1991-820711) | Table 5, p. 6, row 20 |  |
-| 825.5 | eutectic: Liquid -> Laves-C15 + CuMg2 | Liquid: Mg 0.595; Laves-C15: Mg 0.356; CuMg2: Mg 0.667 | unspecified | [2] Hämäläinen 1998 | Table I, p. 190, row 2 |  |
-| 825.2 | Liq -> CuMg2-Cb + Cu2Mg-C15 | L: Mg 0.588; CuMg2-Cb: Mg 0.667; Cu2Mg-C15: Mg 0.359 | model | [1] Zhou 2007; _cites Zou 1993_ | Table 5, p. 6, row 21 |  |
-| 825 | Liq -> CuMg2-Cb + Cu2Mg-C15 | CuMg2-Cb: Mg 0.666667 | experimental | [1] Zhou 2007; _cites Jones 1931_ | Table 5, p. 6, row 24 |  |
-| 825 | Liq -> CuMg2-Cb + Cu2Mg-C15 | CuMg2-Cb: Mg 0.666667 | experimental | [1] Zhou 2007; _cites Bagnoud 1978_ [doi](https://doi.org/10.1515/ijmr-1978-690209) | Table 5, p. 6, row 25 |  |
-| 759.7 | eutectic: Liquid -> CuMg2 + hcp-A3 | Liquid: Mg 0.839; CuMg2: Mg 0.667; hcp-A3: Mg 1 | unspecified | [2] Hämäläinen 1998 | Table I, p. 190, row 3 |  |
-| 759 | Liq -> hcp + CuMg2-Cb | L: Mg 0.839; hcp: Mg 1; CuMg2-Cb: Mg 0.667 | model | [1] Zhou 2007; _cites Coughanowr 1991_ [doi](https://doi.org/10.1515/ijmr-1991-820711) | Table 5, p. 6, row 27 |  |
-| 758 | Liq -> hcp + CuMg2-Cb | L: Mg 0.841; hcp: Mg 1; CuMg2-Cb: Mg 0.667 | model | [1] Zhou 2007; _cites Zou 1993_ | Table 5, p. 6, row 28 |  |
-| 758 | Liq -> hcp + CuMg2-Cb | L: Mg 0.855; CuMg2-Cb: Mg 0.666667 | experimental | [1] Zhou 2007; _cites Sahmen 1908_ [doi](https://doi.org/10.1002/zaac.19080570102) | Table 5, p. 6, row 30 |  |
-| 758 | Liq -> hcp + CuMg2-Cb | L: Mg 0.855; hcp: Mg 1; CuMg2-Cb: Mg 0.667 | experimental | [1] Zhou 2007; _cites Jones 1931_ | Table 5, p. 6, row 31 |  |
-| 757.3 | Liq -> hcp + CuMg2-Cb | L: Mg 0.838; hcp: Mg 1; CuMg2-Cb: Mg 0.667 | model | [1] Zhou 2007 | Table 5, p. 6, row 26 |  |
-| 753 | Liq -> hcp + CuMg2-Cb | CuMg2-Cb: Mg 0.666667 | experimental | [1] Zhou 2007; _cites Urazova 1907_ | Table 5, p. 6, row 29 |  |
+| 998.8 | Liq -> fcc + Cu2Mg-C15 | L: Mg 0.213; fcc: Mg 0.074; Cu2Mg-C15: Mg 0.314 | model | [1] Zhou 2007 | Table 5, p. 6, row 13; `ORC-5MQYRURK7X` |  |
+| 998.6 | eutectic: Liquid -> fcc-A1 + Laves-C15 | Liquid: Mg 0.209; fcc-A1: Mg 0.069; Laves-C15: Mg 0.313 | unspecified | [2] Hämäläinen 1998 | Table I, p. 190, row 1; `ORC-AZIS5C3Q2P` |  |
+| 998.3 | Liq -> fcc + Cu2Mg-C15 | L: Mg 0.214; fcc: Mg 0.075; Cu2Mg-C15: Mg 0.316 | model | [1] Zhou 2007; _cites Zou 1993_ | Table 5, p. 6, row 15; `ORC-BMDBNM4UE4` |  |
+| 998 | Liq -> fcc + Cu2Mg-C15 | L: Mg 0.209; fcc: Mg 0.069; Cu2Mg-C15: Mg 0.313 | model | [1] Zhou 2007; _cites Coughanowr 1991_ [doi](https://doi.org/10.1515/ijmr-1991-820711) | Table 5, p. 6, row 14; `ORC-GMLF4WGYZY` |  |
+| 998 | Liq -> fcc + Cu2Mg-C15 | L: Mg 0.23 | experimental | [1] Zhou 2007; _cites Urazova 1907_ | Table 5, p. 6, row 17; `ORC-HTTAKBAQQG` |  |
+| 998 | Liq -> fcc + Cu2Mg-C15 | fcc: Mg 0.069; Cu2Mg-C15: Mg 0.31 | experimental | [1] Zhou 2007; _cites Bagnoud 1978_ [doi](https://doi.org/10.1515/ijmr-1978-690209) | Table 5, p. 6, row 18; `ORC-LWFBEFMJGE` |  |
+| 995 | Liq -> fcc + Cu2Mg-C15 |  | experimental | [1] Zhou 2007; _cites Jones 1931_ | Table 5, p. 6, row 16; `ORC-M4FOCKGVYJ` |  |
+| 828 | Liq -> CuMg2-Cb + Cu2Mg-C15 | L: Mg 0.585; CuMg2-Cb: Mg 0.667; Cu2Mg-C15: Mg 0.353 | experimental | [1] Zhou 2007; _cites Urazova 1907_ | Table 5, p. 6, row 22; `ORC-MLMXXW4DWH` |  |
+| 828 | Liq -> CuMg2-Cb + Cu2Mg-C15 | CuMg2-Cb: Mg 0.666667 | experimental | [1] Zhou 2007; _cites Sahmen 1908_ [doi](https://doi.org/10.1002/zaac.19080570102) | Table 5, p. 6, row 23; `ORC-UKHT75EYEZ` |  |
+| 826.5 | Liq -> CuMg2-Cb + Cu2Mg-C15 | L: Mg 0.594; CuMg2-Cb: Mg 0.667; Cu2Mg-C15: Mg 0.361 | model | [1] Zhou 2007 | Table 5, p. 6, row 19; `ORC-UVEXPZKOFQ` |  |
+| 825.5 | Liq -> CuMg2-Cb + Cu2Mg-C15 | L: Mg 0.595; CuMg2-Cb: Mg 0.667; Cu2Mg-C15: Mg 0.356 | model | [1] Zhou 2007; _cites Coughanowr 1991_ [doi](https://doi.org/10.1515/ijmr-1991-820711) | Table 5, p. 6, row 20; `ORC-AZMZC5IIDB` |  |
+| 825.5 | eutectic: Liquid -> Laves-C15 + CuMg2 | Liquid: Mg 0.595; Laves-C15: Mg 0.356; CuMg2: Mg 0.667 | unspecified | [2] Hämäläinen 1998 | Table I, p. 190, row 2; `ORC-LPBTGHYLLN` |  |
+| 825.2 | Liq -> CuMg2-Cb + Cu2Mg-C15 | L: Mg 0.588; CuMg2-Cb: Mg 0.667; Cu2Mg-C15: Mg 0.359 | model | [1] Zhou 2007; _cites Zou 1993_ | Table 5, p. 6, row 21; `ORC-UJB7COMCPO` |  |
+| 825 | Liq -> CuMg2-Cb + Cu2Mg-C15 | CuMg2-Cb: Mg 0.666667 | experimental | [1] Zhou 2007; _cites Jones 1931_ | Table 5, p. 6, row 24; `ORC-6VHE5RFFET` |  |
+| 825 | Liq -> CuMg2-Cb + Cu2Mg-C15 | CuMg2-Cb: Mg 0.666667 | experimental | [1] Zhou 2007; _cites Bagnoud 1978_ [doi](https://doi.org/10.1515/ijmr-1978-690209) | Table 5, p. 6, row 25; `ORC-OXD2IU6YEJ` |  |
+| 759.7 | eutectic: Liquid -> CuMg2 + hcp-A3 | Liquid: Mg 0.839; CuMg2: Mg 0.667; hcp-A3: Mg 1 | unspecified | [2] Hämäläinen 1998 | Table I, p. 190, row 3; `ORC-EDNV4VZ5WK` |  |
+| 759 | Liq -> hcp + CuMg2-Cb | L: Mg 0.839; hcp: Mg 1; CuMg2-Cb: Mg 0.667 | model | [1] Zhou 2007; _cites Coughanowr 1991_ [doi](https://doi.org/10.1515/ijmr-1991-820711) | Table 5, p. 6, row 27; `ORC-YE4LPTVGPJ` |  |
+| 758 | Liq -> hcp + CuMg2-Cb | L: Mg 0.841; hcp: Mg 1; CuMg2-Cb: Mg 0.667 | model | [1] Zhou 2007; _cites Zou 1993_ | Table 5, p. 6, row 28; `ORC-7Q4VA2H57A` |  |
+| 758 | Liq -> hcp + CuMg2-Cb | L: Mg 0.855; CuMg2-Cb: Mg 0.666667 | experimental | [1] Zhou 2007; _cites Sahmen 1908_ [doi](https://doi.org/10.1002/zaac.19080570102) | Table 5, p. 6, row 30; `ORC-FSMJL5F6P6` |  |
+| 758 | Liq -> hcp + CuMg2-Cb | L: Mg 0.855; hcp: Mg 1; CuMg2-Cb: Mg 0.667 | experimental | [1] Zhou 2007; _cites Jones 1931_ | Table 5, p. 6, row 31; `ORC-KGKAT37NZP` |  |
+| 757.3 | Liq -> hcp + CuMg2-Cb | L: Mg 0.838; hcp: Mg 1; CuMg2-Cb: Mg 0.667 | model | [1] Zhou 2007 | Table 5, p. 6, row 26; `ORC-Q6KEDSIR2R` |  |
+| 753 | Liq -> hcp + CuMg2-Cb | CuMg2-Cb: Mg 0.666667 | experimental | [1] Zhou 2007; _cites Urazova 1907_ | Table 5, p. 6, row 29; `ORC-T6F3PLP4EC` |  |
 
 ## Other properties
 
@@ -108,20 +108,20 @@ Table: Phase transition, Cu–Mg system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 840.5 K | 840.5 | Liq -> CuMg2-Cb; _L: Mg 0.667; CuMg2-Cb: Mg 0.667_ | model | [1] Zhou 2007 | Table 5, p. 6, row 8 |  |
-| Phase transition | 841 K | 841 | Liq -> CuMg2-Cb; _L: Mg 0.667; CuMg2-Cb: Mg 0.667_ | experimental | [1] Zhou 2007; _cites Bagnoud 1978_ [doi](https://doi.org/10.1515/ijmr-1978-690209) | Table 5, p. 6, row 12 |  |
-| Phase transition | 841 K | 841 | Liq -> CuMg2-Cb; _L: Mg 0.666667; CuMg2-Cb: Mg 0.666667_ | experimental | [1] Zhou 2007; _cites Jones 1931_ | Table 5, p. 6, row 11 |  |
-| Phase transition | 841 K | 841 | Liq -> CuMg2-Cb; _L: Mg 0.667; CuMg2-Cb: Mg 0.667_ | model | [1] Zhou 2007; _cites Zou 1993_ | Table 5, p. 6, row 10 |  |
-| Phase transition | 841 K | 841 | Liq -> CuMg2-Cb; _L: Mg 0.667; CuMg2-Cb: Mg 0.667_ | model | [1] Zhou 2007; _cites Coughanowr 1991_ [doi](https://doi.org/10.1515/ijmr-1991-820711) | Table 5, p. 6, row 9 |  |
-| Phase transition | 841 K | 841 | congruent melting: CuMg2 -> Liquid; _CuMg2: Mg 0.666; Liquid: Mg 0.666_ | unspecified | [2] Hämäläinen 1998 | Table I, p. 190, row 4 |  |
-| Phase transition | 1063 K | 1063 | Liq -> Cu2Mg-C15 | experimental | [1] Zhou 2007; _cites Urazova 1907_ | Table 5, p. 6, row 4 |  |
-| Phase transition | 1066 K | 1066 | Liq -> Cu2Mg-C15; _L: Mg 0.333; Cu2Mg-C15: Mg 0.333_ | experimental | [1] Zhou 2007; _cites Bagnoud 1978_ [doi](https://doi.org/10.1515/ijmr-1978-690209) | Table 5, p. 6, row 7 |  |
-| Phase transition | 1066.2 K | 1066.2 | Liq -> Cu2Mg-C15; _L: Mg 0.333; Cu2Mg-C15: Mg 0.333_ | model | [1] Zhou 2007; _cites Zou 1993_ | Table 5, p. 6, row 3 |  |
-| Phase transition | 1066.3 K | 1066.3 | Liq -> Cu2Mg-C15; _L: Mg 0.333; Cu2Mg-C15: Mg 0.333_ | model | [1] Zhou 2007 | Table 5, p. 6, row 1 |  |
-| Phase transition | 1070 K | 1070 | Liq -> Cu2Mg-C15 | experimental | [1] Zhou 2007; _cites Sahmen 1908_ [doi](https://doi.org/10.1002/zaac.19080570102) | Table 5, p. 6, row 5 |  |
-| Phase transition | 1073 K | 1073 | Liq -> Cu2Mg-C15; _L: Mg 0.333; Cu2Mg-C15: Mg 0.333_ | model | [1] Zhou 2007; _cites Coughanowr 1991_ [doi](https://doi.org/10.1515/ijmr-1991-820711) | Table 5, p. 6, row 2 |  |
-| Phase transition | 1073.5 K | 1073.5 | congruent melting: Laves-C15 -> Liquid; _Laves-C15: Mg 0.333; Liquid: Mg 0.333_ | unspecified | [2] Hämäläinen 1998 | Table I, p. 190, row 5 |  |
-| Phase transition | 1092 K | 1092 | Liq -> Cu2Mg-C15 | experimental | [1] Zhou 2007; _cites Jones 1931_ | Table 5, p. 6, row 6 |  |
+| Phase transition | 840.5 K | 840.5 | Liq -> CuMg2-Cb; _L: Mg 0.667; CuMg2-Cb: Mg 0.667_ | model | [1] Zhou 2007 | Table 5, p. 6, row 8; `ORC-VYTHNQWTU4` |  |
+| Phase transition | 841 K | 841 | Liq -> CuMg2-Cb; _L: Mg 0.667; CuMg2-Cb: Mg 0.667_ | experimental | [1] Zhou 2007; _cites Bagnoud 1978_ [doi](https://doi.org/10.1515/ijmr-1978-690209) | Table 5, p. 6, row 12; `ORC-CBDTORY6WT` |  |
+| Phase transition | 841 K | 841 | Liq -> CuMg2-Cb; _L: Mg 0.666667; CuMg2-Cb: Mg 0.666667_ | experimental | [1] Zhou 2007; _cites Jones 1931_ | Table 5, p. 6, row 11; `ORC-E3SFBB2MVC` |  |
+| Phase transition | 841 K | 841 | Liq -> CuMg2-Cb; _L: Mg 0.667; CuMg2-Cb: Mg 0.667_ | model | [1] Zhou 2007; _cites Zou 1993_ | Table 5, p. 6, row 10; `ORC-JJN2PGRKKM` |  |
+| Phase transition | 841 K | 841 | Liq -> CuMg2-Cb; _L: Mg 0.667; CuMg2-Cb: Mg 0.667_ | model | [1] Zhou 2007; _cites Coughanowr 1991_ [doi](https://doi.org/10.1515/ijmr-1991-820711) | Table 5, p. 6, row 9; `ORC-PXSJEJM4BF` |  |
+| Phase transition | 841 K | 841 | congruent melting: CuMg2 -> Liquid; _CuMg2: Mg 0.666; Liquid: Mg 0.666_ | unspecified | [2] Hämäläinen 1998 | Table I, p. 190, row 4; `ORC-L7WT3QEDN6` |  |
+| Phase transition | 1063 K | 1063 | Liq -> Cu2Mg-C15 | experimental | [1] Zhou 2007; _cites Urazova 1907_ | Table 5, p. 6, row 4; `ORC-ZEPWZCCES3` |  |
+| Phase transition | 1066 K | 1066 | Liq -> Cu2Mg-C15; _L: Mg 0.333; Cu2Mg-C15: Mg 0.333_ | experimental | [1] Zhou 2007; _cites Bagnoud 1978_ [doi](https://doi.org/10.1515/ijmr-1978-690209) | Table 5, p. 6, row 7; `ORC-AI5RDV3CO4` |  |
+| Phase transition | 1066.2 K | 1066.2 | Liq -> Cu2Mg-C15; _L: Mg 0.333; Cu2Mg-C15: Mg 0.333_ | model | [1] Zhou 2007; _cites Zou 1993_ | Table 5, p. 6, row 3; `ORC-KA65MDTX6H` |  |
+| Phase transition | 1066.3 K | 1066.3 | Liq -> Cu2Mg-C15; _L: Mg 0.333; Cu2Mg-C15: Mg 0.333_ | model | [1] Zhou 2007 | Table 5, p. 6, row 1; `ORC-22RFUJHGNJ` |  |
+| Phase transition | 1070 K | 1070 | Liq -> Cu2Mg-C15 | experimental | [1] Zhou 2007; _cites Sahmen 1908_ [doi](https://doi.org/10.1002/zaac.19080570102) | Table 5, p. 6, row 5; `ORC-T7F3BPNPM6` |  |
+| Phase transition | 1073 K | 1073 | Liq -> Cu2Mg-C15; _L: Mg 0.333; Cu2Mg-C15: Mg 0.333_ | model | [1] Zhou 2007; _cites Coughanowr 1991_ [doi](https://doi.org/10.1515/ijmr-1991-820711) | Table 5, p. 6, row 2; `ORC-AVJCEHN5BV` |  |
+| Phase transition | 1073.5 K | 1073.5 | congruent melting: Laves-C15 -> Liquid; _Laves-C15: Mg 0.333; Liquid: Mg 0.333_ | unspecified | [2] Hämäläinen 1998 | Table I, p. 190, row 5; `ORC-QEAFNRGZSG` |  |
+| Phase transition | 1092 K | 1092 | Liq -> Cu2Mg-C15 | experimental | [1] Zhou 2007; _cites Jones 1931_ | Table 5, p. 6, row 6; `ORC-PGCYJ3GEGK` |  |
 
 ## Sources
 
@@ -187,4 +187,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

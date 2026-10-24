@@ -56,17 +56,17 @@ Table: Invariant reactions reported in the literature for the Bi–Ho system (11
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2048 | congruent melting: L -> HoBi | L: Bi 0.5; HoBi: Bi 0.5, Ho 0.5 | unspecified | [1] Wang 2013; _cites Abulkhaev 1993_ | Table 2, p. 2, row 5 |  |
-| 2048 | congruent melting: L -> HoBi | L: Bi 0.5; HoBi: Bi 0.5, Ho 0.5 | model | [1] Wang 2013 | Table 2, p. 2, row 6 |  |
-| 1693 | peritectic: L + HoBi -> Ho5Bi3 | L: Bi 0.315; HoBi: Bi 0.5, Ho 0.5; Ho5Bi3: Bi 0.375, Ho 0.625 | model | [1] Wang 2013 | Table 2, p. 2, row 4 |  |
-| 1693 | peritectic: L + HoBi -> Ho5Bi3 | L: Bi 0.31; HoBi: Bi 0.5, Ho 0.5; Ho5Bi3: Bi 0.375, Ho 0.625 | unspecified | [1] Wang 2013; _cites Abulkhaev 1993_ | Table 2, p. 2, row 3 |  |
-| 1693 | peritectic: L + HoBi -> Ho5Bi3 |  | experimental | [1] Wang 2013 | p. 2 | “was formed by the peritectic reactions, LþHoBi2Ho5Bi3 at 1693 K.” |
-| 1428 | eutectic: L -> Ho5Bi3 + Hcp_A3 (Ho) | L: Bi 0.18; Ho5Bi3: Bi 0.375, Ho 0.625 | unspecified | [1] Wang 2013; _cites Abulkhaev 1993_ | Table 2, p. 2, row 1 |  |
-| 1428 | eutectic: L -> Hcp_A3 (Ho) + Ho5Bi3 |  | experimental | [1] Wang 2013 | p. 2 | “There were two eutectic reactions, L2Hcp_A3 (Ho)þ Ho5Bi3 at 1428 K and L2Rhomb (Bi)þHoBi at 544 K.” |
-| 1428 | eutectic: L -> Ho5Bi3 + Hcp_A3 (Ho) | L: Bi 0.179; Ho5Bi3: Bi 0.375, Ho 0.625 | model | [1] Wang 2013 | Table 2, p. 2, row 2 |  |
-| 544 | eutectic: L -> HoBi + Rhomb_A7 (Bi) | L: Bi 0.99; HoBi: Bi 0.5, Ho 0.5 | unspecified | [1] Wang 2013; _cites Abulkhaev 1993_ | Table 2, p. 2, row 7 |  |
-| 544 | eutectic: L -> Rhomb (Bi) + HoBi |  | experimental | [1] Wang 2013 | p. 2 | “There were two eutectic reactions, L2Hcp_A3 (Ho)þ Ho5Bi3 at 1428 K and L2Rhomb (Bi)þHoBi at 544 K.” |
-| 543.9 | eutectic: L -> HoBi + Rhomb_A7 (Bi) | L: Bi 0.995; HoBi: Bi 0.5, Ho 0.5 | model | [1] Wang 2013 | Table 2, p. 2, row 8 |  |
+| 2048 | congruent melting: L -> HoBi | L: Bi 0.5; HoBi: Bi 0.5, Ho 0.5 | unspecified | [1] Wang 2013; _cites Abulkhaev 1993_ | Table 2, p. 2, row 5; `ORC-JYHCQU45QR` |  |
+| 2048 | congruent melting: L -> HoBi | L: Bi 0.5; HoBi: Bi 0.5, Ho 0.5 | model | [1] Wang 2013 | Table 2, p. 2, row 6; `ORC-YVQE7PAKHP` |  |
+| 1693 | peritectic: L + HoBi -> Ho5Bi3 | L: Bi 0.315; HoBi: Bi 0.5, Ho 0.5; Ho5Bi3: Bi 0.375, Ho 0.625 | model | [1] Wang 2013 | Table 2, p. 2, row 4; `ORC-7KI3ANKH3X` |  |
+| 1693 | peritectic: L + HoBi -> Ho5Bi3 | L: Bi 0.31; HoBi: Bi 0.5, Ho 0.5; Ho5Bi3: Bi 0.375, Ho 0.625 | unspecified | [1] Wang 2013; _cites Abulkhaev 1993_ | Table 2, p. 2, row 3; `ORC-QA2GLZX4FZ` |  |
+| 1693 | peritectic: L + HoBi -> Ho5Bi3 |  | experimental | [1] Wang 2013 | p. 2; `ORC-WUZDQDNNEC` | “was formed by the peritectic reactions, LþHoBi2Ho5Bi3 at 1693 K.” |
+| 1428 | eutectic: L -> Ho5Bi3 + Hcp_A3 (Ho) | L: Bi 0.18; Ho5Bi3: Bi 0.375, Ho 0.625 | unspecified | [1] Wang 2013; _cites Abulkhaev 1993_ | Table 2, p. 2, row 1; `ORC-46PYOT4AAG` |  |
+| 1428 | eutectic: L -> Hcp_A3 (Ho) + Ho5Bi3 |  | experimental | [1] Wang 2013 | p. 2; `ORC-7WHHPKZBFZ.b56ac4` | “There were two eutectic reactions, L2Hcp_A3 (Ho)þ Ho5Bi3 at 1428 K and L2Rhomb (Bi)þHoBi at 544 K.” |
+| 1428 | eutectic: L -> Ho5Bi3 + Hcp_A3 (Ho) | L: Bi 0.179; Ho5Bi3: Bi 0.375, Ho 0.625 | model | [1] Wang 2013 | Table 2, p. 2, row 2; `ORC-AXBNFTO3MH` |  |
+| 544 | eutectic: L -> HoBi + Rhomb_A7 (Bi) | L: Bi 0.99; HoBi: Bi 0.5, Ho 0.5 | unspecified | [1] Wang 2013; _cites Abulkhaev 1993_ | Table 2, p. 2, row 7; `ORC-5M7A2JR524` |  |
+| 544 | eutectic: L -> Rhomb (Bi) + HoBi |  | experimental | [1] Wang 2013 | p. 2; `ORC-7WHHPKZBFZ.2810fd` | “There were two eutectic reactions, L2Hcp_A3 (Ho)þ Ho5Bi3 at 1428 K and L2Rhomb (Bi)þHoBi at 544 K.” |
+| 543.9 | eutectic: L -> HoBi + Rhomb_A7 (Bi) | L: Bi 0.995; HoBi: Bi 0.5, Ho 0.5 | model | [1] Wang 2013 | Table 2, p. 2, row 8; `ORC-W77IQ7JQ4K` |  |
 
 ## Formation enthalpies
 
@@ -76,10 +76,10 @@ Table: Enthalpies of formation, Bi–Ho system (4)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Ho5Bi3 | [Bi3Ho5](https://data.orchid-project.org/compounds/Bi3Ho5.html) | -71 kJ/mol-atom | 0 | model | -64.046 (mp-aaaabuof) | -66.027 (oqmd-18566) | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 5, p. 3, row 21 |  |
-| Ho5Bi3 |  | -67.807 kJ/mol-atom | 0 | DFT |  |  | [1] Wang 2013 | Table 5, p. 3, row 20 |  |
-| HoBi |  | -84.4462 kJ/mol-atom | 0 | DFT |  |  | [1] Wang 2013 | Table 5, p. 3, row 22 |  |
-| HoBi | [BiHo](https://data.orchid-project.org/compounds/BiHo.html) | -77 kJ/mol-atom | 0 | model | -79.808 (mp-aaaabhvm) | -82.775 (oqmd-1926646) | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 5, p. 3, row 23 |  |
+| Ho5Bi3 | [Bi3Ho5](https://data.orchid-project.org/compounds/Bi3Ho5.html) | -71 kJ/mol-atom | 0 | model | -64.046 (mp-aaaabuof) | -66.027 (oqmd-18566) | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 5, p. 3, row 21; `ORC-DJSIXZ5INL` |  |
+| Ho5Bi3 |  | -67.807 kJ/mol-atom | 0 | DFT |  |  | [1] Wang 2013 | Table 5, p. 3, row 20; `ORC-RDZAUPRAIA` |  |
+| HoBi |  | -84.4462 kJ/mol-atom | 0 | DFT |  |  | [1] Wang 2013 | Table 5, p. 3, row 22; `ORC-ZAPFPWWNRG` |  |
+| HoBi | [BiHo](https://data.orchid-project.org/compounds/BiHo.html) | -77 kJ/mol-atom | 0 | model | -79.808 (mp-aaaabhvm) | -82.775 (oqmd-1926646) | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 5, p. 3, row 23; `ORC-L3VG4CJL26` |  |
 
 ## Other properties
 
@@ -89,7 +89,7 @@ Table: Phase transition, Bi–Ho system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 2048 K | 2048 | congruent melting | experimental | [1] Wang 2013 | p. 2 | “The compound HoBi melted congruently at about 2048 K.” |
+| Phase transition | 2048 K | 2048 | congruent melting | experimental | [1] Wang 2013 | p. 2; `ORC-65ERH3QNJU` | “The compound HoBi melted congruently at about 2048 K.” |
 
 ### Crystal structure (10)
 
@@ -97,16 +97,16 @@ Table: Crystal structure, Bi–Ho system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 8.194 Å | 0 | Ho5Bi3; _alloy: Ho 0.625_ | DFT | [1] Wang 2013 | Table 3, p. 3, row 7 |  |
-| Lattice a | 6.2853 Å | 0 | HoBi; _alloy: Ho 0.5_ | DFT | [1] Wang 2013 | Table 3, p. 3, row 9 |  |
-| Lattice a | 8.128 Å | 298.15 | Ho5Bi3; _alloy: Ho 0.625_ | experimental | [1] Wang 2013; _cites Drzyzga 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901009-x) | Table 3, p. 3, row 8 |  |
-| Lattice a | 6.2291 Å | 298.15 | HoBi; _alloy: Ho 0.5_ | experimental | [1] Wang 2013; _cites Yoshihara 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990038-7) | Table 3, p. 3, row 10 |  |
-| Lattice b | 9.469 Å | 0 | Ho5Bi3; _alloy: Ho 0.625_ | DFT | [1] Wang 2013 | Table 3, p. 3, row 7 |  |
-| Lattice b | 9.385 Å | 298.15 | Ho5Bi3; _alloy: Ho 0.625_ | experimental | [1] Wang 2013; _cites Drzyzga 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901009-x) | Table 3, p. 3, row 8 |  |
-| Lattice c | 11.942 Å | 0 | Ho5Bi3; _alloy: Ho 0.625_ | DFT | [1] Wang 2013 | Table 3, p. 3, row 7 |  |
-| Lattice c | 11.874 Å | 298.15 | Ho5Bi3; _alloy: Ho 0.625_ | experimental | [1] Wang 2013; _cites Drzyzga 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901009-x) | Table 3, p. 3, row 8 |  |
-| Molar volume; _printed: V0_ | 926.568 Å3 | 0 | Ho5Bi3; _alloy: Ho 0.625_ | DFT | [1] Wang 2013 | Table 4, p. 3, row 4 |  |
-| Molar volume; _printed: V0_ | 62.075 Å3 | 0 | HoBi; _alloy: Ho 0.5_ | DFT | [1] Wang 2013 | Table 4, p. 3, row 5 |  |
+| Lattice a | 8.194 Å | 0 | Ho5Bi3; _alloy: Ho 0.625_ | DFT | [1] Wang 2013 | Table 3, p. 3, row 7; `ORC-NUPUHB5PKS.124bd4` |  |
+| Lattice a | 6.2853 Å | 0 | HoBi; _alloy: Ho 0.5_ | DFT | [1] Wang 2013 | Table 3, p. 3, row 9; `ORC-BWM6ZUPNH6.2b38c6` |  |
+| Lattice a | 8.128 Å | 298.15 | Ho5Bi3; _alloy: Ho 0.625_ | experimental | [1] Wang 2013; _cites Drzyzga 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901009-x) | Table 3, p. 3, row 8; `ORC-MGU7MYNNKS.b8c542` |  |
+| Lattice a | 6.2291 Å | 298.15 | HoBi; _alloy: Ho 0.5_ | experimental | [1] Wang 2013; _cites Yoshihara 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990038-7) | Table 3, p. 3, row 10; `ORC-IND2FKXTVH.4c50ec` |  |
+| Lattice b | 9.469 Å | 0 | Ho5Bi3; _alloy: Ho 0.625_ | DFT | [1] Wang 2013 | Table 3, p. 3, row 7; `ORC-NUPUHB5PKS.36d290` |  |
+| Lattice b | 9.385 Å | 298.15 | Ho5Bi3; _alloy: Ho 0.625_ | experimental | [1] Wang 2013; _cites Drzyzga 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901009-x) | Table 3, p. 3, row 8; `ORC-MGU7MYNNKS.0b84b7` |  |
+| Lattice c | 11.942 Å | 0 | Ho5Bi3; _alloy: Ho 0.625_ | DFT | [1] Wang 2013 | Table 3, p. 3, row 7; `ORC-NUPUHB5PKS.03ec26` |  |
+| Lattice c | 11.874 Å | 298.15 | Ho5Bi3; _alloy: Ho 0.625_ | experimental | [1] Wang 2013; _cites Drzyzga 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901009-x) | Table 3, p. 3, row 8; `ORC-MGU7MYNNKS.98cd8d` |  |
+| Molar volume; _printed: V0_ | 926.568 Å3 | 0 | Ho5Bi3; _alloy: Ho 0.625_ | DFT | [1] Wang 2013 | Table 4, p. 3, row 4; `ORC-DDBLEF5LQT` |  |
+| Molar volume; _printed: V0_ | 62.075 Å3 | 0 | HoBi; _alloy: Ho 0.5_ | DFT | [1] Wang 2013 | Table 4, p. 3, row 5; `ORC-75QYRLQUBY` |  |
 
 ## Sources
 
@@ -171,4 +171,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

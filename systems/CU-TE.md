@@ -111,85 +111,85 @@ Table: Invariant reactions reported in the literature for the Cu–Te system (79
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1423.05 | L1 ↔ L2 + ζ-Cu2Te | L1: Te 0.316; L2: Te 0.058; ζ-Cu2Te: Te 0.333 | unspecified | [1] Huang 2021 | Table 4, p. 11, row 2 |  |
-| 1388 | L1 -> ζCu2Te | L1: Te 0.333; ζCu2Te: Te 0.333 | experimental | [2] Yu 2022; _cites Huang 2020_ [doi](https://doi.org/10.1016/j.jallcom.2020.157373) | Table 4, p. 9, row 3 |  |
-| 1387.2 | L1 -> ζCu2Te | L1: Te 0.333; ζCu2Te: Te 0.333 | model | [2] Yu 2022 | Table 4, p. 9, row 1 |  |
-| 1384.5 | L1 -> ζCu2Te | L1: Te 0.333; ζCu2Te: Te 0.333 | model | [2] Yu 2022; _cites Huang 2020_ [doi](https://doi.org/10.1016/j.jallcom.2020.157373) | Table 4, p. 9, row 2 |  |
-| 1379.3 | L1 -> ζCu2Te + L2 | L1: Te 0.316; ζCu2Te: Te 0.333; L2: Te 0.058 | model | [2] Yu 2022; _cites Huang 2020_ [doi](https://doi.org/10.1016/j.jallcom.2020.157373) | Table 4, p. 9, row 5 |  |
-| 1365.15 | L1 ↔ L2 + ζ-Cu2Te | L1: Te 0.29; L2: Te 0.05; ζ-Cu2Te: Te 0.333 | model | [1] Huang 2021; _cites Pashinkin 2003_ [doi](https://doi.org/10.1023/a:1024003932461) | Table 4, p. 11, row 4 |  |
-| 1365 | L1 -> ζCu2Te + L2 | L1: Te 0.29; ζCu2Te: Te 0.33; L2: Te 0.05 | experimental | [2] Yu 2022; _cites Pashinkin 2003_ [doi](https://doi.org/10.1023/a:1024003932461) | Table 4, p. 9, row 7 |  |
-| 1359.3 | L1 -> ζCu2Te + L2 | L1: Te 0.303; ζCu2Te: Te 0.333; L2: Te 0.052 | model | [2] Yu 2022 | Table 4, p. 9, row 4 |  |
-| 1325.15 | L2 ↔ (Cu) + ζ-Cu2Te | L2: Te 0.046; (Cu): Te 7.000e-4; ζ-Cu2Te: Te 0.333 | model | [1] Huang 2021; _cites Pashinkin 2003_ [doi](https://doi.org/10.1023/a:1024003932461) | Table 4, p. 11, row 8 |  |
-| 1325 | L2 -> FCC + ζCu2Te | L2: Te 0.046; FCC: Te 0; ζCu2Te: Te 0.333 | experimental | [2] Yu 2022; _cites Pashinkin 2003_ [doi](https://doi.org/10.1023/a:1024003932461) | Table 4, p. 9, row 11 |  |
-| 1324.35 | L1 ↔ L2 + ζ-Cu2Te | ζ-Cu2Te: Cu 0.666667, Te 0.333333 | experimental | [1] Huang 2021 | Table 4, p. 11, row 1 |  |
-| 1324.2 | L1 -> ζCu2Te + L2 | ζCu2Te: Cu 0.666667, Te 0.333333 | experimental | [2] Yu 2022; _cites Huang 2020_ [doi](https://doi.org/10.1016/j.jallcom.2020.157373) | Table 4, p. 9, row 6 |  |
-| 1320.45 | L2 ↔ (Cu) + ζ-Cu2Te | L2: Te 0.035; (Cu): Te 0; ζ-Cu2Te: Te 0.333 | unspecified | [1] Huang 2021 | Table 4, p. 11, row 6 |  |
-| 1320.3 | L2 -> FCC + ζCu2Te | L2: Te 0.037; FCC: Te 0; ζCu2Te: Te 0.333 | model | [2] Yu 2022 | Table 4, p. 9, row 8 |  |
-| 1320.3 | L2 -> FCC + ζCu2Te | L2: Te 0.035; FCC: Te 0; ζCu2Te: Te 0.333 | model | [2] Yu 2022; _cites Huang 2020_ [doi](https://doi.org/10.1016/j.jallcom.2020.157373) | Table 4, p. 9, row 9 |  |
-| 1307.15 | L1 ↔ L2 + ζ-Cu2Te | ζ-Cu2Te: Cu 0.666667, Te 0.333333 | experimental | [1] Huang 2021; _cites Chikashige 1907_ [doi](https://doi.org/10.1002/zaac.19070540106) | Table 4, p. 11, row 3 |  |
-| 1306.15 | L2 ↔ (Cu) + ζ-Cu2Te | ζ-Cu2Te: Cu 0.666667, Te 0.333333 | experimental | [1] Huang 2021; _cites Chikashige 1907_ [doi](https://doi.org/10.1002/zaac.19070540106) | Table 4, p. 11, row 7 |  |
-| 1291.95 | L2 ↔ (Cu) + ζ-Cu2Te | ζ-Cu2Te: Cu 0.666667, Te 0.333333 | experimental | [1] Huang 2021 | Table 4, p. 11, row 5 |  |
-| 1291.8 | L2 -> FCC + ζCu2Te | ζCu2Te: Cu 0.666667, Te 0.333333 | experimental | [2] Yu 2022; _cites Huang 2020_ [doi](https://doi.org/10.1016/j.jallcom.2020.157373) | Table 4, p. 9, row 10 |  |
-| 1076.7 | εCu2Te + L1 -> Cu0.63Te0.37 | εCu2Te: Te 0.333; L1: Te 0.424; Cu0.63Te0.37: Te 0.37 | model | [2] Yu 2022 | Table 4, p. 9, row 45 |  |
-| 1076 | εCu2Te + L1 -> Cu0.63Te0.37 | εCu2Te: Te 0.333; L1: Te 0.43; Cu0.63Te0.37: Te 0.37 | experimental | [2] Yu 2022; _cites Pashinkin 2003_ [doi](https://doi.org/10.1023/a:1024003932461) | Table 4, p. 9, row 46 |  |
-| 922.95 | L + ε-Cu2Te ↔ H-Cu4Te3 | L: Te 0.491; ε-Cu2Te: Te 0.333; H-Cu4Te3: Te 0.429 | unspecified | [1] Huang 2021 | Table 4, p. 11, row 10 |  |
-| 922.8 | L1 + εCu2Te -> βCu4Te3 | L1: Te 0.491; εCu2Te: Te 0.333; βCu4Te3: Te 0.429 | model | [2] Yu 2022; _cites Huang 2020_ [doi](https://doi.org/10.1016/j.jallcom.2020.157373) | Table 4, p. 9, row 13 |  |
-| 920.25 | L + ε-Cu2Te ↔ H-Cu4Te3 | ε-Cu2Te: Cu 0.666667, Te 0.333333; H-Cu4Te3: Cu 0.571429, Te 0.428571 | experimental | [1] Huang 2021 | Table 4, p. 11, row 9 |  |
-| 920.15 | L + ε-Cu2Te ↔ H-Cu4Te3 | L: Te 0.47; ε-Cu2Te: Te 0.41; H-Cu4Te3: Te 0.41 | model | [1] Huang 2021; _cites Pashinkin 2003_ [doi](https://doi.org/10.1023/a:1024003932461) | Table 4, p. 11, row 13 |  |
-| 920.1 | L1 + εCu2Te -> βCu4Te3 | εCu2Te: Cu 0.666667, Te 0.333333; βCu4Te3: Cu 0.571429, Te 0.428571 | experimental | [2] Yu 2022; _cites Huang 2020_ [doi](https://doi.org/10.1016/j.jallcom.2020.157373) | Table 4, p. 9, row 14 |  |
-| 920 | Cu0.63Te0.37 + L1 -> βCu4Te3 | Cu0.63Te0.37: Te 0.37; L1: Te 0.47; βCu4Te3: Te 0.429 | experimental | [2] Yu 2022; _cites Pashinkin 2003_ [doi](https://doi.org/10.1023/a:1024003932461) | Table 4, p. 9, row 48 |  |
-| 920 | L1 + εCu2Te -> βCu4Te3 | L1: Te 0.47; εCu2Te: Te 0.41; βCu4Te3: Te 0.41 | experimental | [2] Yu 2022; _cites Pashinkin 2003_ [doi](https://doi.org/10.1023/a:1024003932461) | Table 4, p. 9, row 15 |  |
-| 919.5 | L1 + εCu2Te -> βCu4Te3 | L1: Te 0.461; εCu2Te: Te 0.337; βCu4Te3: Te 0.429 | model | [2] Yu 2022 | Table 4, p. 9, row 12 |  |
-| 917.7 | Cu0.63Te0.37 + L1 -> βCu4Te3 | Cu0.63Te0.37: Te 0.37; L1: Te 0.461; βCu4Te3: Te 0.429 | model | [2] Yu 2022 | Table 4, p. 9, row 47 |  |
-| 903.15 | L + ε-Cu2Te ↔ H-Cu4Te3 | ε-Cu2Te: Cu 0.666667, Te 0.333333; H-Cu4Te3: Cu 0.571429, Te 0.428571 | experimental | [1] Huang 2021; _cites Koneshova 2001_ | Table 4, p. 11, row 12 |  |
-| 896.15 | L + ε-Cu2Te ↔ H-Cu4Te3 | ε-Cu2Te: Cu 0.666667, Te 0.333333; H-Cu4Te3: Cu 0.571429, Te 0.428571 | experimental | [1] Huang 2021; _cites Chikashige 1907_ [doi](https://doi.org/10.1002/zaac.19070540106) | Table 4, p. 11, row 11 |  |
-| 698.15 | L + H-Cu4Te3 ↔ H-CuTe | L: Te 0.67; H-Cu4Te3: Te 0.42; H-CuTe: Te 0.5 | model | [1] Huang 2021; _cites Pashinkin 2003_ [doi](https://doi.org/10.1023/a:1024003932461) | Table 4, p. 11, row 22 |  |
-| 698 | L1 + βCu4Te3 -> βCuTe | L1: Te 0.67; βCu4Te3: Te 0.42; βCuTe: Te 0.5 | experimental | [2] Yu 2022; _cites Pashinkin 2003_ [doi](https://doi.org/10.1023/a:1024003932461) | Table 4, p. 9, row 22 |  |
-| 693.95 | L + H-Cu4Te3 ↔ H-CuTe | H-Cu4Te3: Cu 0.571429, Te 0.428571; H-CuTe: Cu 0.5, Te 0.5 | experimental | [1] Huang 2021 | Table 4, p. 11, row 19 |  |
-| 693.9 | L1 + βCu4Te3 -> βCuTe | βCu4Te3: Cu 0.571429, Te 0.428571; βCuTe: Cu 0.5, Te 0.5 | experimental | [2] Yu 2022; _cites Huang 2020_ [doi](https://doi.org/10.1016/j.jallcom.2020.157373) | Table 4, p. 9, row 21 |  |
-| 693.7 | L1 + βCu4Te3 -> βCuTe | L1: Te 0.632; βCu4Te3: Te 0.429; βCuTe: Te 0.5 | model | [2] Yu 2022 | Table 4, p. 9, row 19 |  |
-| 690.65 | L + H-Cu4Te3 ↔ H-CuTe | L: Te 0.642; H-Cu4Te3: Te 0.429; H-CuTe: Te 0.5 | unspecified | [1] Huang 2021 | Table 4, p. 11, row 20 |  |
-| 690.5 | L1 + βCu4Te3 -> βCuTe | L1: Te 0.642; βCu4Te3: Te 0.429; βCuTe: Te 0.5 | model | [2] Yu 2022; _cites Huang 2020_ [doi](https://doi.org/10.1016/j.jallcom.2020.157373) | Table 4, p. 9, row 20 |  |
-| 688.15 | L + H-Cu4Te3 ↔ H-CuTe | H-Cu4Te3: Cu 0.571429, Te 0.428571; H-CuTe: Cu 0.5, Te 0.5 | experimental | [1] Huang 2021; _cites Koneshova 2001_ | Table 4, p. 11, row 21 |  |
-| 652.65 | H-Cu4Te3 ↔ L-Cu4Te3 | H-Cu4Te3: Cu 0.571429, Te 0.428571; L-Cu4Te3: Cu 0.571429, Te 0.428571 | experimental | [1] Huang 2021 | Table 4, p. 11, row 14 |  |
-| 652.5 | αCu4Te3 -> βCu4Te3 | αCu4Te3: Cu 0.571429, Te 0.428571; βCu4Te3: Cu 0.571429, Te 0.428571 | experimental | [2] Yu 2022; _cites Huang 2020_ [doi](https://doi.org/10.1016/j.jallcom.2020.157373) | Table 4, p. 9, row 18 |  |
-| 650.05 | H-Cu4Te3 ↔ L-Cu4Te3 | H-Cu4Te3: Te 0.429; L-Cu4Te3: Te 0.429 | unspecified | [1] Huang 2021 | Table 4, p. 11, row 15 |  |
-| 650 | αCu4Te3 -> βCu4Te3 | αCu4Te3: Te 0.429; βCu4Te3: Te 0.429 | model | [2] Yu 2022 | Table 4, p. 9, row 16 |  |
-| 649.9 | αCu4Te3 -> βCu4Te3 | αCu4Te3: Te 0.429; βCu4Te3: Te 0.429 | model | [2] Yu 2022; _cites Huang 2020_ [doi](https://doi.org/10.1016/j.jallcom.2020.157373) | Table 4, p. 9, row 17 |  |
-| 648.15 | H-Cu4Te3 ↔ L-Cu4Te3 | H-Cu4Te3: Cu 0.571429, Te 0.428571; L-Cu4Te3: Cu 0.571429, Te 0.428571 | experimental | [1] Huang 2021; _cites Koneshova 2001_ | Table 4, p. 11, row 17 |  |
-| 638.15 | H-Cu4Te3 ↔ L-Cu4Te3 | H-Cu4Te3: Te 0.415; L-Cu4Te3: Te 0.415 | model | [1] Huang 2021; _cites Pashinkin 2003_ [doi](https://doi.org/10.1023/a:1024003932461) | Table 4, p. 11, row 18 |  |
-| 638.15 | H-Cu4Te3 ↔ L-Cu4Te3 | H-Cu4Te3: Cu 0.571429, Te 0.428571; L-Cu4Te3: Cu 0.571429, Te 0.428571 | experimental | [1] Huang 2021; _cites Chikashige 1907_ [doi](https://doi.org/10.1002/zaac.19070540106) | Table 4, p. 11, row 16 |  |
-| 623.85 | eutectic: L 4 HeCuTe þ (Te) |  | experimental | [1] Huang 2021 | p. 6 | “The first and second exothermic peaks at 347.3 and 350.7  C in the 1  C∙min1 curve are probably corresponding to the highe and lowetemperature modifications of CuTe and the eutectic reaction of L 4 HeCuTe þ (Te) respectively.” |
-| 623.15 | L ↔ H-CuTe + (Te) | H-CuTe: Cu 0.5, Te 0.5 | experimental | [1] Huang 2021; _cites Koneshova 2001_ | Table 4, p. 11, row 26 |  |
-| 622.85 | L ↔ H-CuTe + (Te) | L: Te 0.71; H-CuTe: Cu 0.5, Te 0.5 | experimental | [1] Huang 2021 | Table 4, p. 11, row 23 |  |
-| 622.7 | L1 -> HEX + βCuTe | βCuTe: Cu 0.5, Te 0.5 | experimental | [2] Yu 2022; _cites Huang 2020_ [doi](https://doi.org/10.1016/j.jallcom.2020.157373) | Table 4, p. 9, row 25 |  |
-| 622.25 | L ↔ H-CuTe + (Te) | L: Te 0.711; H-CuTe: Te 0.5; (Te): Te 1 | unspecified | [1] Huang 2021 | Table 4, p. 11, row 24 |  |
-| 622.1 | L1 -> HEX + βCuTe | L1: Te 0.711; HEX: Te 1; βCuTe: Te 0.5 | model | [2] Yu 2022; _cites Huang 2020_ [doi](https://doi.org/10.1016/j.jallcom.2020.157373) | Table 4, p. 9, row 24 |  |
-| 621.8 | L1 -> HEX + βCuTe | L1: Te 0.718; HEX: Te 1; βCuTe: Te 0.5 | model | [2] Yu 2022 | Table 4, p. 9, row 23 |  |
-| 619.85 | H-CuTe ↔ L-CuTe | H-CuTe: Te 0.5; L-CuTe: Te 0.5 | unspecified | [1] Huang 2021 | Table 4, p. 11, row 29 |  |
-| 619.7 | αCuTe -> βCuTe | αCuTe: Te 0.711; βCuTe: Te 1 | model | [2] Yu 2022; _cites Huang 2020_ [doi](https://doi.org/10.1016/j.jallcom.2020.157373) | Table 4, p. 9, row 28 |  |
-| 619.05 | H-CuTe ↔ L-CuTe | H-CuTe: Cu 0.5, Te 0.5; L-CuTe: Cu 0.5, Te 0.5 | experimental | [1] Huang 2021 | Table 4, p. 11, row 28 |  |
-| 619 | αCuTe -> βCuTe | αCuTe: Te 0.5; βCuTe: Te 0.5 | model | [2] Yu 2022 | Table 4, p. 9, row 27 |  |
-| 618.9 | αCuTe -> βCuTe | αCuTe: Cu 0.5, Te 0.5; βCuTe: Cu 0.5, Te 0.5 | experimental | [2] Yu 2022; _cites Huang 2020_ [doi](https://doi.org/10.1016/j.jallcom.2020.157373) | Table 4, p. 9, row 29 |  |
-| 618 | ιCu2Te -> γCu2Te + αCu4Te3 | ιCu2Te: Te 0.357; γCu2Te: Te 0.333; αCu4Te3: Te 0.429 | model | [2] Yu 2022 | Table 4, p. 9, row 43 |  |
-| 618 | ιCu2Te -> γCu2Te + αCu4Te3 | ιCu2Te: Te 0.357; γCu2Te: Te 0.333; αCu4Te3: Te 0.429 | experimental | [2] Yu 2022; _cites Pashinkin 2003_ [doi](https://doi.org/10.1023/a:1024003932461) | Table 4, p. 9, row 44 |  |
-| 617.15 | L ↔ H-CuTe + (Te) | L: Cu 0.291421, Te 0.708579; H-CuTe: Cu 0.5, Te 0.5 | experimental | [1] Huang 2021; _cites Chikashige 1907_ [doi](https://doi.org/10.1002/zaac.19070540106) | Table 4, p. 11, row 25 |  |
-| 613.15 | H-CuTe ↔ L-CuTe | H-CuTe: Cu 0.5, Te 0.5; L-CuTe: Cu 0.5, Te 0.5 | experimental | [1] Huang 2021; _cites Koneshova 2001_ | Table 4, p. 11, row 30 |  |
-| 613.15 | L ↔ H-CuTe + (Te) | L: Te 0.71; H-CuTe: Te 0.5; (Te): Te 1 | model | [1] Huang 2021; _cites Pashinkin 2003_ [doi](https://doi.org/10.1023/a:1024003932461) | Table 4, p. 11, row 27 |  |
-| 613 | L1 -> HEX + βCuTe | L1: Te 0.71; HEX: Te 1; βCuTe: Te 0.5 | experimental | [2] Yu 2022; _cites Pashinkin 2003_ [doi](https://doi.org/10.1023/a:1024003932461) | Table 4, p. 9, row 26 |  |
-| 613 | αCuTe -> βCuTe | αCuTe: Cu 0.5, Te 0.5; βCuTe: Cu 0.5, Te 0.5 | experimental | [2] Yu 2022; _cites Koneshova 2001_ | Table 4, p. 9, row 30 |  |
-| 593 | ηCu2Te -> γCu2Te +ιCu2Te | ηCu2Te: Te 0.345; γCu2Te: Te 0.333; ιCu2Te: Te 0.357 | model | [2] Yu 2022 | Table 4, p. 9, row 41 |  |
-| 593 | ηCu2Te -> γCu2Te +ιCu2Te | ηCu2Te: Te 0.345; γCu2Te: Te 0.333; ιCu2Te: Te 0.357 | experimental | [2] Yu 2022; _cites Pashinkin 2003_ [doi](https://doi.org/10.1023/a:1024003932461) | Table 4, p. 9, row 42 |  |
-| 543 | μCu2Te -> ιCu2Te + αCu4Te3 | μCu2Te: Te 0.36; ιCu2Te: Te 0.357; αCu4Te3: Te 0.429 | experimental | [2] Yu 2022; _cites Pashinkin 2003_ [doi](https://doi.org/10.1023/a:1024003932461) | Table 4, p. 9, row 36 |  |
-| 543 | μCu2Te -> ιCu2Te + αCu4Te3 | μCu2Te: Te 0.36; ιCu2Te: Te 0.357; αCu4Te3: Te 0.429 | model | [2] Yu 2022 | Table 4, p. 9, row 35 |  |
-| 520 | κCu2Te -> ιCu2Te | κCu2Te: Te 0.357; ιCu2Te: Te 0.357 | experimental | [2] Yu 2022; _cites Pashinkin 2003_ [doi](https://doi.org/10.1023/a:1024003932461) | Table 4, p. 9, row 40 |  |
-| 520 | κCu2Te -> ιCu2Te | κCu2Te: Te 0.357; ιCu2Te: Te 0.357 | model | [2] Yu 2022 | Table 4, p. 9, row 39 |  |
-| 518 | λCu2Te -> ηCu2Te + κCu2Te | λCu2Te: Te 0.354; ηCu2Te: Te 0.345; κCu2Te: Te 0.357 | model | [2] Yu 2022 | Table 4, p. 9, row 33 |  |
-| 518 | λCu2Te -> ηCu2Te + κCu2Te | λCu2Te: Te 0.354; ηCu2Te: Te 0.345; κCu2Te: Te 0.357 | experimental | [2] Yu 2022; _cites Pashinkin 2003_ [doi](https://doi.org/10.1023/a:1024003932461) | Table 4, p. 9, row 34 |  |
-| 493 | κCu2Te -> λCu2Te + μCu2Te | κCu2Te: Te 0.357; λCu2Te: Te 0.354; μCu2Te: Te 0.36 | experimental | [2] Yu 2022; _cites Pashinkin 2003_ [doi](https://doi.org/10.1023/a:1024003932461) | Table 4, p. 9, row 38 |  |
-| 492.8 | κCu2Te -> λCu2Te + μCu2Te | κCu2Te: Te 0.357; λCu2Te: Te 0.354; μCu2Te: Te 0.36 | model | [2] Yu 2022 | Table 4, p. 9, row 37 |  |
-| 450 | ηCu2Te -> θCu2Te | ηCu2Te: Te 0.345; θCu2Te: Te 0.345 | model | [2] Yu 2022 | Table 4, p. 9, row 31 |  |
-| 450 | ηCu2Te -> θCu2Te | ηCu2Te: Te 0.345; θCu2Te: Te 0.345 | experimental | [2] Yu 2022; _cites Pashinkin 2003_ [doi](https://doi.org/10.1023/a:1024003932461) | Table 4, p. 9, row 32 |  |
+| 1423.05 | L1 ↔ L2 + ζ-Cu2Te | L1: Te 0.316; L2: Te 0.058; ζ-Cu2Te: Te 0.333 | unspecified | [1] Huang 2021 | Table 4, p. 11, row 2; `ORC-UTEYKSO3RH` |  |
+| 1388 | L1 -> ζCu2Te | L1: Te 0.333; ζCu2Te: Te 0.333 | experimental | [2] Yu 2022; _cites Huang 2020_ [doi](https://doi.org/10.1016/j.jallcom.2020.157373) | Table 4, p. 9, row 3; `ORC-N6OTP7FFGO` |  |
+| 1387.2 | L1 -> ζCu2Te | L1: Te 0.333; ζCu2Te: Te 0.333 | model | [2] Yu 2022 | Table 4, p. 9, row 1; `ORC-QR672LZGWR` |  |
+| 1384.5 | L1 -> ζCu2Te | L1: Te 0.333; ζCu2Te: Te 0.333 | model | [2] Yu 2022; _cites Huang 2020_ [doi](https://doi.org/10.1016/j.jallcom.2020.157373) | Table 4, p. 9, row 2; `ORC-K5HT2XCVSS` |  |
+| 1379.3 | L1 -> ζCu2Te + L2 | L1: Te 0.316; ζCu2Te: Te 0.333; L2: Te 0.058 | model | [2] Yu 2022; _cites Huang 2020_ [doi](https://doi.org/10.1016/j.jallcom.2020.157373) | Table 4, p. 9, row 5; `ORC-N53RAFJ66C` |  |
+| 1365.15 | L1 ↔ L2 + ζ-Cu2Te | L1: Te 0.29; L2: Te 0.05; ζ-Cu2Te: Te 0.333 | model | [1] Huang 2021; _cites Pashinkin 2003_ [doi](https://doi.org/10.1023/a:1024003932461) | Table 4, p. 11, row 4; `ORC-RH5A7END64` |  |
+| 1365 | L1 -> ζCu2Te + L2 | L1: Te 0.29; ζCu2Te: Te 0.33; L2: Te 0.05 | experimental | [2] Yu 2022; _cites Pashinkin 2003_ [doi](https://doi.org/10.1023/a:1024003932461) | Table 4, p. 9, row 7; `ORC-5UWAJWR5C4` |  |
+| 1359.3 | L1 -> ζCu2Te + L2 | L1: Te 0.303; ζCu2Te: Te 0.333; L2: Te 0.052 | model | [2] Yu 2022 | Table 4, p. 9, row 4; `ORC-HQWE2KGECU` |  |
+| 1325.15 | L2 ↔ (Cu) + ζ-Cu2Te | L2: Te 0.046; (Cu): Te 7.000e-4; ζ-Cu2Te: Te 0.333 | model | [1] Huang 2021; _cites Pashinkin 2003_ [doi](https://doi.org/10.1023/a:1024003932461) | Table 4, p. 11, row 8; `ORC-27ZO7U2HWB` |  |
+| 1325 | L2 -> FCC + ζCu2Te | L2: Te 0.046; FCC: Te 0; ζCu2Te: Te 0.333 | experimental | [2] Yu 2022; _cites Pashinkin 2003_ [doi](https://doi.org/10.1023/a:1024003932461) | Table 4, p. 9, row 11; `ORC-ULMRQVMPB2` |  |
+| 1324.35 | L1 ↔ L2 + ζ-Cu2Te | ζ-Cu2Te: Cu 0.666667, Te 0.333333 | experimental | [1] Huang 2021 | Table 4, p. 11, row 1; `ORC-EZ3UPJ6VN5` |  |
+| 1324.2 | L1 -> ζCu2Te + L2 | ζCu2Te: Cu 0.666667, Te 0.333333 | experimental | [2] Yu 2022; _cites Huang 2020_ [doi](https://doi.org/10.1016/j.jallcom.2020.157373) | Table 4, p. 9, row 6; `ORC-5DFVCDZ5EX` |  |
+| 1320.45 | L2 ↔ (Cu) + ζ-Cu2Te | L2: Te 0.035; (Cu): Te 0; ζ-Cu2Te: Te 0.333 | unspecified | [1] Huang 2021 | Table 4, p. 11, row 6; `ORC-HN5ZGYFA3P` |  |
+| 1320.3 | L2 -> FCC + ζCu2Te | L2: Te 0.037; FCC: Te 0; ζCu2Te: Te 0.333 | model | [2] Yu 2022 | Table 4, p. 9, row 8; `ORC-42Z65UPLSF` |  |
+| 1320.3 | L2 -> FCC + ζCu2Te | L2: Te 0.035; FCC: Te 0; ζCu2Te: Te 0.333 | model | [2] Yu 2022; _cites Huang 2020_ [doi](https://doi.org/10.1016/j.jallcom.2020.157373) | Table 4, p. 9, row 9; `ORC-SGTCODUKH2` |  |
+| 1307.15 | L1 ↔ L2 + ζ-Cu2Te | ζ-Cu2Te: Cu 0.666667, Te 0.333333 | experimental | [1] Huang 2021; _cites Chikashige 1907_ [doi](https://doi.org/10.1002/zaac.19070540106) | Table 4, p. 11, row 3; `ORC-OCQYV7ZRDV` |  |
+| 1306.15 | L2 ↔ (Cu) + ζ-Cu2Te | ζ-Cu2Te: Cu 0.666667, Te 0.333333 | experimental | [1] Huang 2021; _cites Chikashige 1907_ [doi](https://doi.org/10.1002/zaac.19070540106) | Table 4, p. 11, row 7; `ORC-YZUSFS3LPS` |  |
+| 1291.95 | L2 ↔ (Cu) + ζ-Cu2Te | ζ-Cu2Te: Cu 0.666667, Te 0.333333 | experimental | [1] Huang 2021 | Table 4, p. 11, row 5; `ORC-AVI3LT5Q4H` |  |
+| 1291.8 | L2 -> FCC + ζCu2Te | ζCu2Te: Cu 0.666667, Te 0.333333 | experimental | [2] Yu 2022; _cites Huang 2020_ [doi](https://doi.org/10.1016/j.jallcom.2020.157373) | Table 4, p. 9, row 10; `ORC-WFMEI43H7G` |  |
+| 1076.7 | εCu2Te + L1 -> Cu0.63Te0.37 | εCu2Te: Te 0.333; L1: Te 0.424; Cu0.63Te0.37: Te 0.37 | model | [2] Yu 2022 | Table 4, p. 9, row 45; `ORC-2652PBMWJW` |  |
+| 1076 | εCu2Te + L1 -> Cu0.63Te0.37 | εCu2Te: Te 0.333; L1: Te 0.43; Cu0.63Te0.37: Te 0.37 | experimental | [2] Yu 2022; _cites Pashinkin 2003_ [doi](https://doi.org/10.1023/a:1024003932461) | Table 4, p. 9, row 46; `ORC-BNYN4QVATS` |  |
+| 922.95 | L + ε-Cu2Te ↔ H-Cu4Te3 | L: Te 0.491; ε-Cu2Te: Te 0.333; H-Cu4Te3: Te 0.429 | unspecified | [1] Huang 2021 | Table 4, p. 11, row 10; `ORC-MMLOETMERC` |  |
+| 922.8 | L1 + εCu2Te -> βCu4Te3 | L1: Te 0.491; εCu2Te: Te 0.333; βCu4Te3: Te 0.429 | model | [2] Yu 2022; _cites Huang 2020_ [doi](https://doi.org/10.1016/j.jallcom.2020.157373) | Table 4, p. 9, row 13; `ORC-LDW4667OEH` |  |
+| 920.25 | L + ε-Cu2Te ↔ H-Cu4Te3 | ε-Cu2Te: Cu 0.666667, Te 0.333333; H-Cu4Te3: Cu 0.571429, Te 0.428571 | experimental | [1] Huang 2021 | Table 4, p. 11, row 9; `ORC-JJHLSQGNU5` |  |
+| 920.15 | L + ε-Cu2Te ↔ H-Cu4Te3 | L: Te 0.47; ε-Cu2Te: Te 0.41; H-Cu4Te3: Te 0.41 | model | [1] Huang 2021; _cites Pashinkin 2003_ [doi](https://doi.org/10.1023/a:1024003932461) | Table 4, p. 11, row 13; `ORC-HIL7Q3IWCT` |  |
+| 920.1 | L1 + εCu2Te -> βCu4Te3 | εCu2Te: Cu 0.666667, Te 0.333333; βCu4Te3: Cu 0.571429, Te 0.428571 | experimental | [2] Yu 2022; _cites Huang 2020_ [doi](https://doi.org/10.1016/j.jallcom.2020.157373) | Table 4, p. 9, row 14; `ORC-V4BLTC2OBF` |  |
+| 920 | Cu0.63Te0.37 + L1 -> βCu4Te3 | Cu0.63Te0.37: Te 0.37; L1: Te 0.47; βCu4Te3: Te 0.429 | experimental | [2] Yu 2022; _cites Pashinkin 2003_ [doi](https://doi.org/10.1023/a:1024003932461) | Table 4, p. 9, row 48; `ORC-6KAJCVFIRL` |  |
+| 920 | L1 + εCu2Te -> βCu4Te3 | L1: Te 0.47; εCu2Te: Te 0.41; βCu4Te3: Te 0.41 | experimental | [2] Yu 2022; _cites Pashinkin 2003_ [doi](https://doi.org/10.1023/a:1024003932461) | Table 4, p. 9, row 15; `ORC-IVG2W3Y6DA` |  |
+| 919.5 | L1 + εCu2Te -> βCu4Te3 | L1: Te 0.461; εCu2Te: Te 0.337; βCu4Te3: Te 0.429 | model | [2] Yu 2022 | Table 4, p. 9, row 12; `ORC-AJSV2RHVGV` |  |
+| 917.7 | Cu0.63Te0.37 + L1 -> βCu4Te3 | Cu0.63Te0.37: Te 0.37; L1: Te 0.461; βCu4Te3: Te 0.429 | model | [2] Yu 2022 | Table 4, p. 9, row 47; `ORC-JAGJ5F3Z3D` |  |
+| 903.15 | L + ε-Cu2Te ↔ H-Cu4Te3 | ε-Cu2Te: Cu 0.666667, Te 0.333333; H-Cu4Te3: Cu 0.571429, Te 0.428571 | experimental | [1] Huang 2021; _cites Koneshova 2001_ | Table 4, p. 11, row 12; `ORC-RCEYJGIW7B` |  |
+| 896.15 | L + ε-Cu2Te ↔ H-Cu4Te3 | ε-Cu2Te: Cu 0.666667, Te 0.333333; H-Cu4Te3: Cu 0.571429, Te 0.428571 | experimental | [1] Huang 2021; _cites Chikashige 1907_ [doi](https://doi.org/10.1002/zaac.19070540106) | Table 4, p. 11, row 11; `ORC-RY6D3QU2VP` |  |
+| 698.15 | L + H-Cu4Te3 ↔ H-CuTe | L: Te 0.67; H-Cu4Te3: Te 0.42; H-CuTe: Te 0.5 | model | [1] Huang 2021; _cites Pashinkin 2003_ [doi](https://doi.org/10.1023/a:1024003932461) | Table 4, p. 11, row 22; `ORC-2UAJZ3NPW5` |  |
+| 698 | L1 + βCu4Te3 -> βCuTe | L1: Te 0.67; βCu4Te3: Te 0.42; βCuTe: Te 0.5 | experimental | [2] Yu 2022; _cites Pashinkin 2003_ [doi](https://doi.org/10.1023/a:1024003932461) | Table 4, p. 9, row 22; `ORC-BRSPTJ6PVE` |  |
+| 693.95 | L + H-Cu4Te3 ↔ H-CuTe | H-Cu4Te3: Cu 0.571429, Te 0.428571; H-CuTe: Cu 0.5, Te 0.5 | experimental | [1] Huang 2021 | Table 4, p. 11, row 19; `ORC-KDZLFFSARW` |  |
+| 693.9 | L1 + βCu4Te3 -> βCuTe | βCu4Te3: Cu 0.571429, Te 0.428571; βCuTe: Cu 0.5, Te 0.5 | experimental | [2] Yu 2022; _cites Huang 2020_ [doi](https://doi.org/10.1016/j.jallcom.2020.157373) | Table 4, p. 9, row 21; `ORC-CCHTTBCJDT` |  |
+| 693.7 | L1 + βCu4Te3 -> βCuTe | L1: Te 0.632; βCu4Te3: Te 0.429; βCuTe: Te 0.5 | model | [2] Yu 2022 | Table 4, p. 9, row 19; `ORC-Z3SO36IUES` |  |
+| 690.65 | L + H-Cu4Te3 ↔ H-CuTe | L: Te 0.642; H-Cu4Te3: Te 0.429; H-CuTe: Te 0.5 | unspecified | [1] Huang 2021 | Table 4, p. 11, row 20; `ORC-GBSKRDXMKQ` |  |
+| 690.5 | L1 + βCu4Te3 -> βCuTe | L1: Te 0.642; βCu4Te3: Te 0.429; βCuTe: Te 0.5 | model | [2] Yu 2022; _cites Huang 2020_ [doi](https://doi.org/10.1016/j.jallcom.2020.157373) | Table 4, p. 9, row 20; `ORC-I4UJNPTSSS` |  |
+| 688.15 | L + H-Cu4Te3 ↔ H-CuTe | H-Cu4Te3: Cu 0.571429, Te 0.428571; H-CuTe: Cu 0.5, Te 0.5 | experimental | [1] Huang 2021; _cites Koneshova 2001_ | Table 4, p. 11, row 21; `ORC-25QBW6GQEB` |  |
+| 652.65 | H-Cu4Te3 ↔ L-Cu4Te3 | H-Cu4Te3: Cu 0.571429, Te 0.428571; L-Cu4Te3: Cu 0.571429, Te 0.428571 | experimental | [1] Huang 2021 | Table 4, p. 11, row 14; `ORC-6KVSD6S5RG` |  |
+| 652.5 | αCu4Te3 -> βCu4Te3 | αCu4Te3: Cu 0.571429, Te 0.428571; βCu4Te3: Cu 0.571429, Te 0.428571 | experimental | [2] Yu 2022; _cites Huang 2020_ [doi](https://doi.org/10.1016/j.jallcom.2020.157373) | Table 4, p. 9, row 18; `ORC-47FPJ76GZ7` |  |
+| 650.05 | H-Cu4Te3 ↔ L-Cu4Te3 | H-Cu4Te3: Te 0.429; L-Cu4Te3: Te 0.429 | unspecified | [1] Huang 2021 | Table 4, p. 11, row 15; `ORC-DKP63GDDYU` |  |
+| 650 | αCu4Te3 -> βCu4Te3 | αCu4Te3: Te 0.429; βCu4Te3: Te 0.429 | model | [2] Yu 2022 | Table 4, p. 9, row 16; `ORC-V22QVHPTVU` |  |
+| 649.9 | αCu4Te3 -> βCu4Te3 | αCu4Te3: Te 0.429; βCu4Te3: Te 0.429 | model | [2] Yu 2022; _cites Huang 2020_ [doi](https://doi.org/10.1016/j.jallcom.2020.157373) | Table 4, p. 9, row 17; `ORC-QFXAGGX3DZ` |  |
+| 648.15 | H-Cu4Te3 ↔ L-Cu4Te3 | H-Cu4Te3: Cu 0.571429, Te 0.428571; L-Cu4Te3: Cu 0.571429, Te 0.428571 | experimental | [1] Huang 2021; _cites Koneshova 2001_ | Table 4, p. 11, row 17; `ORC-AI53BXU3B2` |  |
+| 638.15 | H-Cu4Te3 ↔ L-Cu4Te3 | H-Cu4Te3: Te 0.415; L-Cu4Te3: Te 0.415 | model | [1] Huang 2021; _cites Pashinkin 2003_ [doi](https://doi.org/10.1023/a:1024003932461) | Table 4, p. 11, row 18; `ORC-C5KBJVCHPM` |  |
+| 638.15 | H-Cu4Te3 ↔ L-Cu4Te3 | H-Cu4Te3: Cu 0.571429, Te 0.428571; L-Cu4Te3: Cu 0.571429, Te 0.428571 | experimental | [1] Huang 2021; _cites Chikashige 1907_ [doi](https://doi.org/10.1002/zaac.19070540106) | Table 4, p. 11, row 16; `ORC-INGKBNULQ2` |  |
+| 623.85 | eutectic: L 4 HeCuTe þ (Te) |  | experimental | [1] Huang 2021 | p. 6; `ORC-2MYVVPUFMF.1ab22f` | “The first and second exothermic peaks at 347.3 and 350.7  C in the 1  C∙min1 curve are probably corresponding to the highe and lowetemperature modifications of CuTe and the eutectic reaction of L 4 HeCuTe þ (Te) respectively.” |
+| 623.15 | L ↔ H-CuTe + (Te) | H-CuTe: Cu 0.5, Te 0.5 | experimental | [1] Huang 2021; _cites Koneshova 2001_ | Table 4, p. 11, row 26; `ORC-IFKFEAIAGA` |  |
+| 622.85 | L ↔ H-CuTe + (Te) | L: Te 0.71; H-CuTe: Cu 0.5, Te 0.5 | experimental | [1] Huang 2021 | Table 4, p. 11, row 23; `ORC-LK3I3DYKIP` |  |
+| 622.7 | L1 -> HEX + βCuTe | βCuTe: Cu 0.5, Te 0.5 | experimental | [2] Yu 2022; _cites Huang 2020_ [doi](https://doi.org/10.1016/j.jallcom.2020.157373) | Table 4, p. 9, row 25; `ORC-GKYGAE6FW5` |  |
+| 622.25 | L ↔ H-CuTe + (Te) | L: Te 0.711; H-CuTe: Te 0.5; (Te): Te 1 | unspecified | [1] Huang 2021 | Table 4, p. 11, row 24; `ORC-TS7L3EUH3Q` |  |
+| 622.1 | L1 -> HEX + βCuTe | L1: Te 0.711; HEX: Te 1; βCuTe: Te 0.5 | model | [2] Yu 2022; _cites Huang 2020_ [doi](https://doi.org/10.1016/j.jallcom.2020.157373) | Table 4, p. 9, row 24; `ORC-AG6NQT72AQ` |  |
+| 621.8 | L1 -> HEX + βCuTe | L1: Te 0.718; HEX: Te 1; βCuTe: Te 0.5 | model | [2] Yu 2022 | Table 4, p. 9, row 23; `ORC-FYCFCXWBDL` |  |
+| 619.85 | H-CuTe ↔ L-CuTe | H-CuTe: Te 0.5; L-CuTe: Te 0.5 | unspecified | [1] Huang 2021 | Table 4, p. 11, row 29; `ORC-P2FT6ZR24T` |  |
+| 619.7 | αCuTe -> βCuTe | αCuTe: Te 0.711; βCuTe: Te 1 | model | [2] Yu 2022; _cites Huang 2020_ [doi](https://doi.org/10.1016/j.jallcom.2020.157373) | Table 4, p. 9, row 28; `ORC-XQG4AGBFXD` |  |
+| 619.05 | H-CuTe ↔ L-CuTe | H-CuTe: Cu 0.5, Te 0.5; L-CuTe: Cu 0.5, Te 0.5 | experimental | [1] Huang 2021 | Table 4, p. 11, row 28; `ORC-GGUPFCFGJY` |  |
+| 619 | αCuTe -> βCuTe | αCuTe: Te 0.5; βCuTe: Te 0.5 | model | [2] Yu 2022 | Table 4, p. 9, row 27; `ORC-POCNVGPQOB` |  |
+| 618.9 | αCuTe -> βCuTe | αCuTe: Cu 0.5, Te 0.5; βCuTe: Cu 0.5, Te 0.5 | experimental | [2] Yu 2022; _cites Huang 2020_ [doi](https://doi.org/10.1016/j.jallcom.2020.157373) | Table 4, p. 9, row 29; `ORC-BWI5LKTWZZ` |  |
+| 618 | ιCu2Te -> γCu2Te + αCu4Te3 | ιCu2Te: Te 0.357; γCu2Te: Te 0.333; αCu4Te3: Te 0.429 | model | [2] Yu 2022 | Table 4, p. 9, row 43; `ORC-5RK2PEGCGX` |  |
+| 618 | ιCu2Te -> γCu2Te + αCu4Te3 | ιCu2Te: Te 0.357; γCu2Te: Te 0.333; αCu4Te3: Te 0.429 | experimental | [2] Yu 2022; _cites Pashinkin 2003_ [doi](https://doi.org/10.1023/a:1024003932461) | Table 4, p. 9, row 44; `ORC-NSGUC3FLRD` |  |
+| 617.15 | L ↔ H-CuTe + (Te) | L: Cu 0.291421, Te 0.708579; H-CuTe: Cu 0.5, Te 0.5 | experimental | [1] Huang 2021; _cites Chikashige 1907_ [doi](https://doi.org/10.1002/zaac.19070540106) | Table 4, p. 11, row 25; `ORC-4YVEV3PPR4` |  |
+| 613.15 | H-CuTe ↔ L-CuTe | H-CuTe: Cu 0.5, Te 0.5; L-CuTe: Cu 0.5, Te 0.5 | experimental | [1] Huang 2021; _cites Koneshova 2001_ | Table 4, p. 11, row 30; `ORC-BAR6DN4RDZ` |  |
+| 613.15 | L ↔ H-CuTe + (Te) | L: Te 0.71; H-CuTe: Te 0.5; (Te): Te 1 | model | [1] Huang 2021; _cites Pashinkin 2003_ [doi](https://doi.org/10.1023/a:1024003932461) | Table 4, p. 11, row 27; `ORC-OAJSGTQA4N` |  |
+| 613 | L1 -> HEX + βCuTe | L1: Te 0.71; HEX: Te 1; βCuTe: Te 0.5 | experimental | [2] Yu 2022; _cites Pashinkin 2003_ [doi](https://doi.org/10.1023/a:1024003932461) | Table 4, p. 9, row 26; `ORC-2RJDUWH7DC` |  |
+| 613 | αCuTe -> βCuTe | αCuTe: Cu 0.5, Te 0.5; βCuTe: Cu 0.5, Te 0.5 | experimental | [2] Yu 2022; _cites Koneshova 2001_ | Table 4, p. 9, row 30; `ORC-5FBW4XWG6P` |  |
+| 593 | ηCu2Te -> γCu2Te +ιCu2Te | ηCu2Te: Te 0.345; γCu2Te: Te 0.333; ιCu2Te: Te 0.357 | model | [2] Yu 2022 | Table 4, p. 9, row 41; `ORC-DEITSZCCRC` |  |
+| 593 | ηCu2Te -> γCu2Te +ιCu2Te | ηCu2Te: Te 0.345; γCu2Te: Te 0.333; ιCu2Te: Te 0.357 | experimental | [2] Yu 2022; _cites Pashinkin 2003_ [doi](https://doi.org/10.1023/a:1024003932461) | Table 4, p. 9, row 42; `ORC-KXP4BGORKC` |  |
+| 543 | μCu2Te -> ιCu2Te + αCu4Te3 | μCu2Te: Te 0.36; ιCu2Te: Te 0.357; αCu4Te3: Te 0.429 | experimental | [2] Yu 2022; _cites Pashinkin 2003_ [doi](https://doi.org/10.1023/a:1024003932461) | Table 4, p. 9, row 36; `ORC-7PMLSYPTQU` |  |
+| 543 | μCu2Te -> ιCu2Te + αCu4Te3 | μCu2Te: Te 0.36; ιCu2Te: Te 0.357; αCu4Te3: Te 0.429 | model | [2] Yu 2022 | Table 4, p. 9, row 35; `ORC-K5ZLMU4H4A` |  |
+| 520 | κCu2Te -> ιCu2Te | κCu2Te: Te 0.357; ιCu2Te: Te 0.357 | experimental | [2] Yu 2022; _cites Pashinkin 2003_ [doi](https://doi.org/10.1023/a:1024003932461) | Table 4, p. 9, row 40; `ORC-2KPTPWJ4AS` |  |
+| 520 | κCu2Te -> ιCu2Te | κCu2Te: Te 0.357; ιCu2Te: Te 0.357 | model | [2] Yu 2022 | Table 4, p. 9, row 39; `ORC-6B6PFGXSXZ` |  |
+| 518 | λCu2Te -> ηCu2Te + κCu2Te | λCu2Te: Te 0.354; ηCu2Te: Te 0.345; κCu2Te: Te 0.357 | model | [2] Yu 2022 | Table 4, p. 9, row 33; `ORC-NNP7S2ZRTQ` |  |
+| 518 | λCu2Te -> ηCu2Te + κCu2Te | λCu2Te: Te 0.354; ηCu2Te: Te 0.345; κCu2Te: Te 0.357 | experimental | [2] Yu 2022; _cites Pashinkin 2003_ [doi](https://doi.org/10.1023/a:1024003932461) | Table 4, p. 9, row 34; `ORC-PA6F7DGBLF` |  |
+| 493 | κCu2Te -> λCu2Te + μCu2Te | κCu2Te: Te 0.357; λCu2Te: Te 0.354; μCu2Te: Te 0.36 | experimental | [2] Yu 2022; _cites Pashinkin 2003_ [doi](https://doi.org/10.1023/a:1024003932461) | Table 4, p. 9, row 38; `ORC-UFTDTWRJG7` |  |
+| 492.8 | κCu2Te -> λCu2Te + μCu2Te | κCu2Te: Te 0.357; λCu2Te: Te 0.354; μCu2Te: Te 0.36 | model | [2] Yu 2022 | Table 4, p. 9, row 37; `ORC-R7YBA754TO` |  |
+| 450 | ηCu2Te -> θCu2Te | ηCu2Te: Te 0.345; θCu2Te: Te 0.345 | model | [2] Yu 2022 | Table 4, p. 9, row 31; `ORC-HDCMA2WS55` |  |
+| 450 | ηCu2Te -> θCu2Te | ηCu2Te: Te 0.345; θCu2Te: Te 0.345 | experimental | [2] Yu 2022; _cites Pashinkin 2003_ [doi](https://doi.org/10.1023/a:1024003932461) | Table 4, p. 9, row 32; `ORC-OYSNB6BUPY` |  |
 
 ## Other properties
 
@@ -199,92 +199,92 @@ Table: Phase transition, Cu–Te system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 148.15 K | 148.15 | 3; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Bougnot 1970_ [doi](https://doi.org/10.1016/0025-5408%2870%2990025-5) | Table 1, p. 2, row 9 |  |
-| Phase transition | 186.7 K | 186.7 | 15; _alloy: Te 0.333333_ | experimental | [1] Huang 2021 | Table 1, p. 2, row 67 |  |
-| Phase transition | 248.15 K | 248.15 | 3; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Bougnot 1970_ [doi](https://doi.org/10.1016/0025-5408%2870%2990025-5) | Table 1, p. 2, row 10 |  |
-| Phase transition | 308.5 K | 308.5 | 15; _alloy: Te 0.333333_ | experimental | [1] Huang 2021 | Table 1, p. 2, row 68 |  |
-| Phase transition | 312.5 K | 312.5 | 4; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Guastavino 1973_ [doi](https://doi.org/10.1016/0025-5408%2873%2990078-0) | Table 1, p. 2, row 17 |  |
-| Phase transition | 352.8 K | 352.8 | 15; _alloy: Te 0.333333_ | experimental | [1] Huang 2021 | Table 1, p. 2, row 69 |  |
-| Phase transition | 433.15 K | 433.15 | 14; _alloy: Te 0.333333_ | model | [1] Huang 2021; _cites Ssub6 2017_ | Table 1, p. 2, row 62 |  |
-| Phase transition | 433.15 K | 433.15 | 5; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Kubaschewski 1973_ [doi](https://doi.org/10.1002/bbpc.19730770203) | Table 1, p. 2, row 20 |  |
-| Phase transition | 440.15 K | 440.15 | 6; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Mills 1973_ [doi](https://doi.org/10.1016/0040-6031%2873%2985074-9) | Table 1, p. 2, row 25 |  |
-| Phase transition | 445.15 K | 445.15 | 3; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Bougnot 1970_ [doi](https://doi.org/10.1016/0025-5408%2870%2990025-5) | Table 1, p. 2, row 11 |  |
-| Phase transition | 445.15 K | 445.15 | 4; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Guastavino 1973_ [doi](https://doi.org/10.1016/0025-5408%2873%2990078-0) | Table 1, p. 2, row 16 |  |
-| Phase transition | 448.15 K | 448.15 | 9; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Vouroutzis 1989_ [doi](https://doi.org/10.1002/pssa.2211110213) | Table 1, p. 2, row 38 |  |
-| Phase transition | 452.15 K | 452.15 | 10; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Ghoumari-Bouanani 1993_ [doi](https://doi.org/10.1016/0025-5408%2893%2990036-d) | Table 1, p. 2, row 43 |  |
-| Phase transition | 453.15 K | 453.15 | 11; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Koneshova 2001_ | Table 1, p. 2, row 48 |  |
-| Phase transition | 454.15 K | 454.15 | 12; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Qiu 2017_ [doi](https://doi.org/10.1039/c7ra02145c) | Table 1, p. 2, row 53 |  |
-| Phase transition | 454.65 K | 454.65 |  | experimental | [1] Huang 2021 | p. 8 | “The curve of T30 exhibits four endothermic transformations labeled as I, II, III and IV at 181.5, 298.4, 353.6 and 600.8 C below 700 C, which relate to a sequence of aeb, beg, ged,” |
-| Phase transition | 457.15 K | 457.15 | 13; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Mukherjee 2019_ [doi](https://doi.org/10.1039/c8dt04351e) | Table 1, p. 2, row 57 |  |
-| Phase transition | 459.85 K | 459.85 |  | model | [3] Hutabalian 2023; _cites Huang 2020_ [doi](https://doi.org/10.1016/j.jallcom.2020.157373) | p. 17 | “Cu2Te has five solid-state phase transitions at 186.7, 308.5, 352.8, 601.4, and 877.7 C and were denoted as a-b, b-c, c-d, d-e and e-f transformations, respectively.\[24\]” |
-| Phase transition | 463.15 K | 463.15 | 7; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Tsypin 1974_ | Table 1, p. 2, row 30 |  |
-| Phase transition | 468.15 K | 468.15 | 2; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Stevels 1969_ | Table 1, p. 2, row 5 |  |
-| Phase transition | 475 K | 475 | 13; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Mukherjee 2019_ [doi](https://doi.org/10.1039/c8dt04351e) | Table 1, p. 2, row 61 |  |
-| Phase transition | 477.5 K | 477.5 | 3; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Bougnot 1970_ [doi](https://doi.org/10.1016/0025-5408%2870%2990025-5) | Table 1, p. 2, row 15 |  |
-| Phase transition | 492.5 K | 492.5 | 4; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Guastavino 1973_ [doi](https://doi.org/10.1016/0025-5408%2873%2990078-0) | Table 1, p. 2, row 19 |  |
-| Phase transition | 497.15 K | 497.15 | 10; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Ghoumari-Bouanani 1993_ [doi](https://doi.org/10.1016/0025-5408%2893%2990036-d) | Table 1, p. 2, row 44 |  |
-| Phase transition | 517.15 K | 517.15 | 13; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Mukherjee 2019_ [doi](https://doi.org/10.1039/c8dt04351e) | Table 1, p. 2, row 58 |  |
-| Phase transition | 526.15 K | 526.15 | 6; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Mills 1973_ [doi](https://doi.org/10.1016/0040-6031%2873%2985074-9) | Table 1, p. 2, row 26 |  |
-| Phase transition | 531.15 K | 531.15 | 14; _alloy: Te 0.333333_ | model | [1] Huang 2021; _cites Ssub6 2017_ | Table 1, p. 2, row 63 |  |
-| Phase transition | 531.15 K | 531.15 | 5; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Kubaschewski 1973_ [doi](https://doi.org/10.1002/bbpc.19730770203) | Table 1, p. 2, row 21 |  |
-| Phase transition | 533.15 K | 533.15 | 1; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Gravemann 1956_ | Table 1, p. 2, row 1 |  |
-| Phase transition | 537.15 K | 537.15 | 3; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Bougnot 1970_ [doi](https://doi.org/10.1016/0025-5408%2870%2990025-5) | Table 1, p. 2, row 12 |  |
-| Phase transition | 538.15 K | 538.15 | 2; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Stevels 1969_ | Table 1, p. 2, row 6 |  |
-| Phase transition | 543.15 K | 543.15 | 11; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Koneshova 2001_ | Table 1, p. 2, row 49 |  |
-| Phase transition | 548.15 K | 548.15 | 8; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Blachnik 1983_ [doi](https://doi.org/10.1016/0022-4596%2883%2990102-0) | Table 1, p. 2, row 34 |  |
-| Phase transition | 548.15 K | 548.15 | 9; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Vouroutzis 1989_ [doi](https://doi.org/10.1002/pssa.2211110213) | Table 1, p. 2, row 39 |  |
-| Phase transition | 571.55 K | 571.55 |  | experimental | [1] Huang 2021 | p. 8 | “The curve of T30 exhibits four endothermic transformations labeled as I, II, III and IV at 181.5, 298.4, 353.6 and 600.8 C below 700 C, which relate to a sequence of aeb, beg, ged,” |
-| Phase transition | 578.15 K | 578.15 | 3; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Bougnot 1970_ [doi](https://doi.org/10.1016/0025-5408%2870%2990025-5) | Table 1, p. 2, row 13 |  |
-| Phase transition | 581.65 K | 581.65 |  | model | [3] Hutabalian 2023; _cites Huang 2020_ [doi](https://doi.org/10.1016/j.jallcom.2020.157373) | p. 17 | “Cu2Te has five solid-state phase transitions at 186.7, 308.5, 352.8, 601.4, and 877.7 C and were denoted as a-b, b-c, c-d, d-e and e-f transformations, respectively.\[24\]” |
-| Phase transition | 583.15 K | 583.15 | 11; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Koneshova 2001_ | Table 1, p. 2, row 50 |  |
-| Phase transition | 583.15 K | 583.15 | 7; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Tsypin 1974_ | Table 1, p. 2, row 31 |  |
-| Phase transition | 586.15 K | 586.15 | 8; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Blachnik 1983_ [doi](https://doi.org/10.1016/0022-4596%2883%2990102-0) | Table 1, p. 2, row 35 |  |
-| Phase transition | 589.15 K | 589.15 | 1; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Gravemann 1956_ | Table 1, p. 2, row 2 |  |
-| Phase transition | 590.15 K | 590.15 | 14; _alloy: Te 0.333333_ | model | [1] Huang 2021; _cites Ssub6 2017_ | Table 1, p. 2, row 64 |  |
-| Phase transition | 590.15 K | 590.15 | 5; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Kubaschewski 1973_ [doi](https://doi.org/10.1002/bbpc.19730770203) | Table 1, p. 2, row 22 |  |
-| Phase transition | 591.15 K | 591.15 | 10; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Ghoumari-Bouanani 1993_ [doi](https://doi.org/10.1016/0025-5408%2893%2990036-d) | Table 1, p. 2, row 45 |  |
-| Phase transition | 593.15 K | 593.15 | 2; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Stevels 1969_ | Table 1, p. 2, row 7 |  |
-| Phase transition | 593.15 K | 593.15 | 9; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Vouroutzis 1989_ [doi](https://doi.org/10.1002/pssa.2211110213) | Table 1, p. 2, row 40 |  |
-| Phase transition | 596.15 K | 596.15 | 13; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Mukherjee 2019_ [doi](https://doi.org/10.1039/c8dt04351e) | Table 1, p. 2, row 59 |  |
-| Phase transition | 597.15 K | 597.15 | 12; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Qiu 2017_ [doi](https://doi.org/10.1039/c7ra02145c) | Table 1, p. 2, row 54 |  |
-| Phase transition | 600.15 K | 600.15 | 6; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Mills 1973_ [doi](https://doi.org/10.1016/0040-6031%2873%2985074-9) | Table 1, p. 2, row 27 |  |
-| Phase transition | 601.4 K | 601.4 | 15; _alloy: Te 0.333333_ | experimental | [1] Huang 2021 | Table 1, p. 2, row 70 |  |
-| Phase transition | 613 K | 613 |  | experimental | [2] Yu 2022; _cites Huang 2020_ [doi](https://doi.org/10.1016/j.jallcom.2020.157373) | p. 2 | “Some works reported that a crystallographic transformation of CuTe exists at 613 K.\[20,31,39\]” |
-| Phase transition | 613.15 K | 613.15 | other | experimental | [1] Huang 2021; _cites Koneshova 2001_ | p. 2 | “CuTe exhibits an orthorhombic structure from room temperature up to the decomposition temperature in Ref. \[14\], whilst ref. \[15\] Shows that it undergoes a crystallographic transformation at 340 C.” |
-| Phase transition | 620.45 K | 620.45 | CuTe | experimental | [1] Huang 2021 | p. 6 | “The first and second exothermic peaks at 347.3 and 350.7  C in the 1  C∙min1 curve are probably corresponding to the highe and lowetemperature modifications of CuTe and the eutectic reaction of L 4 HeCuTe þ (Te) respectively.” |
-| Phase transition | 625.15 K | 625.15 | 6; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Mills 1973_ [doi](https://doi.org/10.1016/0040-6031%2873%2985074-9) | Table 1, p. 2, row 28 |  |
-| Phase transition | 625.95 K | 625.95 |  | model | [3] Hutabalian 2023; _cites Huang 2020_ [doi](https://doi.org/10.1016/j.jallcom.2020.157373) | p. 17 | “Cu2Te has five solid-state phase transitions at 186.7, 308.5, 352.8, 601.4, and 877.7 C and were denoted as a-b, b-c, c-d, d-e and e-f transformations, respectively.\[24\]” |
-| Phase transition | 626.75 K | 626.75 |  | experimental | [1] Huang 2021 | p. 8 | “The curve of T30 exhibits four endothermic transformations labeled as I, II, III and IV at 181.5, 298.4, 353.6 and 600.8 C below 700 C, which relate to a sequence of aeb, beg, ged,” |
-| Phase transition | 627.15 K | 627.15 | 12; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Qiu 2017_ [doi](https://doi.org/10.1039/c7ra02145c) | Table 1, p. 2, row 55 |  |
-| Phase transition | 628.15 K | 628.15 | 10; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Ghoumari-Bouanani 1993_ [doi](https://doi.org/10.1016/0025-5408%2893%2990036-d) | Table 1, p. 2, row 46 |  |
-| Phase transition | 629.15 K | 629.15 | 13; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Mukherjee 2019_ [doi](https://doi.org/10.1039/c8dt04351e) | Table 1, p. 2, row 60 |  |
-| Phase transition | 633.15 K | 633.15 | 11; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Koneshova 2001_ | Table 1, p. 2, row 51 |  |
-| Phase transition | 633.15 K | 633.15 | 14; _alloy: Te 0.333333_ | model | [1] Huang 2021; _cites Ssub6 2017_ | Table 1, p. 2, row 65 |  |
-| Phase transition | 633.15 K | 633.15 | 3; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Bougnot 1970_ [doi](https://doi.org/10.1016/0025-5408%2870%2990025-5) | Table 1, p. 2, row 14 |  |
-| Phase transition | 633.15 K | 633.15 | 4; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Guastavino 1973_ [doi](https://doi.org/10.1016/0025-5408%2873%2990078-0) | Table 1, p. 2, row 18 |  |
-| Phase transition | 633.15 K | 633.15 | 5; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Kubaschewski 1973_ [doi](https://doi.org/10.1002/bbpc.19730770203) | Table 1, p. 2, row 23 |  |
-| Phase transition | 633.15 K | 633.15 | 7; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Tsypin 1974_ | Table 1, p. 2, row 32 |  |
-| Phase transition | 633.15 K | 633.15 | 8; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Blachnik 1983_ [doi](https://doi.org/10.1016/0022-4596%2883%2990102-0) | Table 1, p. 2, row 36 |  |
-| Phase transition | 635.15 K | 635.15 | 1; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Gravemann 1956_ | Table 1, p. 2, row 3 |  |
-| Phase transition | 638.15 K | 638.15 | 9; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Vouroutzis 1989_ [doi](https://doi.org/10.1002/pssa.2211110213) | Table 1, p. 2, row 41 |  |
-| Phase transition | 652.5 K | 652.5 | polymorphic | model | [2] Yu 2022; _cites Huang 2020_ [doi](https://doi.org/10.1016/j.jallcom.2020.157373) | p. 2 | “The polymorphic transition temperature of Cu4Te3 was measured as 652.5 K.\[20\]” |
-| Phase transition | 700.25 K | 700.25 | L þ HeCu4Te3 4 HeCuTe | experimental | [1] Huang 2021; _cites Blachnik 1983_ [doi](https://doi.org/10.1016/0022-4596%2883%2990102-0) | p. 6 | “The exothermic peak with an onset at 427.1 C can be ascribed to the invariant reaction L þ HeCu4Te3 4 HeCuTe \[14,15\].” |
-| Phase transition | 713.15 K | 713.15 | 2; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Stevels 1969_ | Table 1, p. 2, row 8 |  |
-| Phase transition | 725.15 K | 725.15 | 10; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Ghoumari-Bouanani 1993_ [doi](https://doi.org/10.1016/0025-5408%2893%2990036-d) | Table 1, p. 2, row 47 |  |
-| Phase transition | 750.15 K | 750.15 | 6; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Mills 1973_ [doi](https://doi.org/10.1016/0040-6031%2873%2985074-9) | Table 1, p. 2, row 29 |  |
-| Phase transition | 756.15 K | 756.15 | 12; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Qiu 2017_ [doi](https://doi.org/10.1039/c7ra02145c) | Table 1, p. 2, row 56 |  |
-| Phase transition | 813.15 K | 813.15 | 11; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Koneshova 2001_ | Table 1, p. 2, row 52 |  |
-| Phase transition | 823.15 K | 823.15 | 7; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Tsypin 1974_ | Table 1, p. 2, row 33 |  |
-| Phase transition | 833.15 K | 833.15 | 1; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Gravemann 1956_ | Table 1, p. 2, row 4 |  |
-| Phase transition | 835.15 K | 835.15 | 5; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Kubaschewski 1973_ [doi](https://doi.org/10.1002/bbpc.19730770203) | Table 1, p. 2, row 24 |  |
-| Phase transition | 841.15 K | 841.15 | 14; _alloy: Te 0.333333_ | model | [1] Huang 2021; _cites Ssub6 2017_ | Table 1, p. 2, row 66 |  |
-| Phase transition | 848.15 K | 848.15 | 9; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Vouroutzis 1989_ [doi](https://doi.org/10.1002/pssa.2211110213) | Table 1, p. 2, row 42 |  |
-| Phase transition | 864.15 K | 864.15 | 8; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Blachnik 1983_ [doi](https://doi.org/10.1016/0022-4596%2883%2990102-0) | Table 1, p. 2, row 37 |  |
-| Phase transition | 873.95 K | 873.95 |  | experimental | [1] Huang 2021 | p. 8 | “The curve of T30 exhibits four endothermic transformations labeled as I, II, III and IV at 181.5, 298.4, 353.6 and 600.8 C below 700 C, which relate to a sequence of aeb, beg, ged,” |
-| Phase transition | 874.55 K | 874.55 |  | model | [3] Hutabalian 2023; _cites Huang 2020_ [doi](https://doi.org/10.1016/j.jallcom.2020.157373) | p. 17 | “Cu2Te has five solid-state phase transitions at 186.7, 308.5, 352.8, 601.4, and 877.7 C and were denoted as a-b, b-c, c-d, d-e and e-f transformations, respectively.\[24\]” |
-| Phase transition | 877.7 K | 877.7 | 15; _alloy: Te 0.333333_ | experimental | [1] Huang 2021 | Table 1, p. 2, row 71 |  |
-| Phase transition | 1150.85 K | 1150.85 |  | model | [3] Hutabalian 2023; _cites Huang 2020_ [doi](https://doi.org/10.1016/j.jallcom.2020.157373) | p. 17 | “Cu2Te has five solid-state phase transitions at 186.7, 308.5, 352.8, 601.4, and 877.7 C and were denoted as a-b, b-c, c-d, d-e and e-f transformations, respectively.\[24\]” |
-| Phase transition | 1479.15 K | 1479.15 | other | experimental | [1] Huang 2021; _cites Koneshova 2001_ | p. 2 | “the critical point of the immiscibility dome was found to lie at 17.5 at. % Te and 1206 C \[15\], but tend to appear at higher temperatures in the work of Azakami and Yazawa \[36\] and Burylev and Fedorova et al. \[37\].” |
+| Phase transition | 148.15 K | 148.15 | 3; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Bougnot 1970_ [doi](https://doi.org/10.1016/0025-5408%2870%2990025-5) | Table 1, p. 2, row 9; `ORC-C6PZLOBSJG` |  |
+| Phase transition | 186.7 K | 186.7 | 15; _alloy: Te 0.333333_ | experimental | [1] Huang 2021 | Table 1, p. 2, row 67; `ORC-UBM4TKFRAQ` |  |
+| Phase transition | 248.15 K | 248.15 | 3; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Bougnot 1970_ [doi](https://doi.org/10.1016/0025-5408%2870%2990025-5) | Table 1, p. 2, row 10; `ORC-ZSWVEIQMAK` |  |
+| Phase transition | 308.5 K | 308.5 | 15; _alloy: Te 0.333333_ | experimental | [1] Huang 2021 | Table 1, p. 2, row 68; `ORC-CBS47HMSJF` |  |
+| Phase transition | 312.5 K | 312.5 | 4; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Guastavino 1973_ [doi](https://doi.org/10.1016/0025-5408%2873%2990078-0) | Table 1, p. 2, row 17; `ORC-TYVH6H7LYX` |  |
+| Phase transition | 352.8 K | 352.8 | 15; _alloy: Te 0.333333_ | experimental | [1] Huang 2021 | Table 1, p. 2, row 69; `ORC-XZH5YW7QRF` |  |
+| Phase transition | 433.15 K | 433.15 | 14; _alloy: Te 0.333333_ | model | [1] Huang 2021; _cites Ssub6 2017_ | Table 1, p. 2, row 62; `ORC-EQALPSJPGU` |  |
+| Phase transition | 433.15 K | 433.15 | 5; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Kubaschewski 1973_ [doi](https://doi.org/10.1002/bbpc.19730770203) | Table 1, p. 2, row 20; `ORC-YFXMGODT44` |  |
+| Phase transition | 440.15 K | 440.15 | 6; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Mills 1973_ [doi](https://doi.org/10.1016/0040-6031%2873%2985074-9) | Table 1, p. 2, row 25; `ORC-X2KCJJU3CH` |  |
+| Phase transition | 445.15 K | 445.15 | 3; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Bougnot 1970_ [doi](https://doi.org/10.1016/0025-5408%2870%2990025-5) | Table 1, p. 2, row 11; `ORC-TKTN6FEPRI` |  |
+| Phase transition | 445.15 K | 445.15 | 4; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Guastavino 1973_ [doi](https://doi.org/10.1016/0025-5408%2873%2990078-0) | Table 1, p. 2, row 16; `ORC-VOLR2FCLHB` |  |
+| Phase transition | 448.15 K | 448.15 | 9; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Vouroutzis 1989_ [doi](https://doi.org/10.1002/pssa.2211110213) | Table 1, p. 2, row 38; `ORC-EDZKMKPZMH` |  |
+| Phase transition | 452.15 K | 452.15 | 10; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Ghoumari-Bouanani 1993_ [doi](https://doi.org/10.1016/0025-5408%2893%2990036-d) | Table 1, p. 2, row 43; `ORC-ELCQQ2BHVU` |  |
+| Phase transition | 453.15 K | 453.15 | 11; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Koneshova 2001_ | Table 1, p. 2, row 48; `ORC-MNFKO2SL7P` |  |
+| Phase transition | 454.15 K | 454.15 | 12; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Qiu 2017_ [doi](https://doi.org/10.1039/c7ra02145c) | Table 1, p. 2, row 53; `ORC-6CDSLI63OJ` |  |
+| Phase transition | 454.65 K | 454.65 |  | experimental | [1] Huang 2021 | p. 8; `ORC-625RYY2NB5.76758a` | “The curve of T30 exhibits four endothermic transformations labeled as I, II, III and IV at 181.5, 298.4, 353.6 and 600.8 C below 700 C, which relate to a sequence of aeb, beg, ged,” |
+| Phase transition | 457.15 K | 457.15 | 13; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Mukherjee 2019_ [doi](https://doi.org/10.1039/c8dt04351e) | Table 1, p. 2, row 57; `ORC-PWZNLC7PO2` |  |
+| Phase transition | 459.85 K | 459.85 |  | model | [3] Hutabalian 2023; _cites Huang 2020_ [doi](https://doi.org/10.1016/j.jallcom.2020.157373) | p. 17; `ORC-IRUOCE6IPB.93847f` | “Cu2Te has five solid-state phase transitions at 186.7, 308.5, 352.8, 601.4, and 877.7 C and were denoted as a-b, b-c, c-d, d-e and e-f transformations, respectively.\[24\]” |
+| Phase transition | 463.15 K | 463.15 | 7; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Tsypin 1974_ | Table 1, p. 2, row 30; `ORC-2XFHH4VRH5` |  |
+| Phase transition | 468.15 K | 468.15 | 2; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Stevels 1969_ | Table 1, p. 2, row 5; `ORC-MB4X2A3WVO` |  |
+| Phase transition | 475 K | 475 | 13; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Mukherjee 2019_ [doi](https://doi.org/10.1039/c8dt04351e) | Table 1, p. 2, row 61; `ORC-3W4MKHGPKW` |  |
+| Phase transition | 477.5 K | 477.5 | 3; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Bougnot 1970_ [doi](https://doi.org/10.1016/0025-5408%2870%2990025-5) | Table 1, p. 2, row 15; `ORC-ZWJGRXZK2X` |  |
+| Phase transition | 492.5 K | 492.5 | 4; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Guastavino 1973_ [doi](https://doi.org/10.1016/0025-5408%2873%2990078-0) | Table 1, p. 2, row 19; `ORC-CJSGF6BGNH` |  |
+| Phase transition | 497.15 K | 497.15 | 10; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Ghoumari-Bouanani 1993_ [doi](https://doi.org/10.1016/0025-5408%2893%2990036-d) | Table 1, p. 2, row 44; `ORC-NWMXYWKH6T` |  |
+| Phase transition | 517.15 K | 517.15 | 13; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Mukherjee 2019_ [doi](https://doi.org/10.1039/c8dt04351e) | Table 1, p. 2, row 58; `ORC-BKOZRMSCZJ` |  |
+| Phase transition | 526.15 K | 526.15 | 6; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Mills 1973_ [doi](https://doi.org/10.1016/0040-6031%2873%2985074-9) | Table 1, p. 2, row 26; `ORC-VCOA7QBBOY` |  |
+| Phase transition | 531.15 K | 531.15 | 14; _alloy: Te 0.333333_ | model | [1] Huang 2021; _cites Ssub6 2017_ | Table 1, p. 2, row 63; `ORC-3KSDNN55HJ` |  |
+| Phase transition | 531.15 K | 531.15 | 5; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Kubaschewski 1973_ [doi](https://doi.org/10.1002/bbpc.19730770203) | Table 1, p. 2, row 21; `ORC-XT7HGHGZPY` |  |
+| Phase transition | 533.15 K | 533.15 | 1; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Gravemann 1956_ | Table 1, p. 2, row 1; `ORC-ZHXK6MXRU4` |  |
+| Phase transition | 537.15 K | 537.15 | 3; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Bougnot 1970_ [doi](https://doi.org/10.1016/0025-5408%2870%2990025-5) | Table 1, p. 2, row 12; `ORC-LL6YCCSBAS` |  |
+| Phase transition | 538.15 K | 538.15 | 2; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Stevels 1969_ | Table 1, p. 2, row 6; `ORC-N42VI6X3BK` |  |
+| Phase transition | 543.15 K | 543.15 | 11; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Koneshova 2001_ | Table 1, p. 2, row 49; `ORC-YU5NKOUOAN` |  |
+| Phase transition | 548.15 K | 548.15 | 8; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Blachnik 1983_ [doi](https://doi.org/10.1016/0022-4596%2883%2990102-0) | Table 1, p. 2, row 34; `ORC-2K45C5QJE7` |  |
+| Phase transition | 548.15 K | 548.15 | 9; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Vouroutzis 1989_ [doi](https://doi.org/10.1002/pssa.2211110213) | Table 1, p. 2, row 39; `ORC-3GXUATP5UA` |  |
+| Phase transition | 571.55 K | 571.55 |  | experimental | [1] Huang 2021 | p. 8; `ORC-625RYY2NB5.052821` | “The curve of T30 exhibits four endothermic transformations labeled as I, II, III and IV at 181.5, 298.4, 353.6 and 600.8 C below 700 C, which relate to a sequence of aeb, beg, ged,” |
+| Phase transition | 578.15 K | 578.15 | 3; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Bougnot 1970_ [doi](https://doi.org/10.1016/0025-5408%2870%2990025-5) | Table 1, p. 2, row 13; `ORC-67P3GAHW7A` |  |
+| Phase transition | 581.65 K | 581.65 |  | model | [3] Hutabalian 2023; _cites Huang 2020_ [doi](https://doi.org/10.1016/j.jallcom.2020.157373) | p. 17; `ORC-IRUOCE6IPB.f5f537` | “Cu2Te has five solid-state phase transitions at 186.7, 308.5, 352.8, 601.4, and 877.7 C and were denoted as a-b, b-c, c-d, d-e and e-f transformations, respectively.\[24\]” |
+| Phase transition | 583.15 K | 583.15 | 11; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Koneshova 2001_ | Table 1, p. 2, row 50; `ORC-FTQBVMU2TL` |  |
+| Phase transition | 583.15 K | 583.15 | 7; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Tsypin 1974_ | Table 1, p. 2, row 31; `ORC-5G2ERTFVW6` |  |
+| Phase transition | 586.15 K | 586.15 | 8; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Blachnik 1983_ [doi](https://doi.org/10.1016/0022-4596%2883%2990102-0) | Table 1, p. 2, row 35; `ORC-L2GKMSBAML` |  |
+| Phase transition | 589.15 K | 589.15 | 1; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Gravemann 1956_ | Table 1, p. 2, row 2; `ORC-Z2AOPERHCR` |  |
+| Phase transition | 590.15 K | 590.15 | 14; _alloy: Te 0.333333_ | model | [1] Huang 2021; _cites Ssub6 2017_ | Table 1, p. 2, row 64; `ORC-42TQYQERKX` |  |
+| Phase transition | 590.15 K | 590.15 | 5; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Kubaschewski 1973_ [doi](https://doi.org/10.1002/bbpc.19730770203) | Table 1, p. 2, row 22; `ORC-3APZV7Y5AK` |  |
+| Phase transition | 591.15 K | 591.15 | 10; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Ghoumari-Bouanani 1993_ [doi](https://doi.org/10.1016/0025-5408%2893%2990036-d) | Table 1, p. 2, row 45; `ORC-M6RE25J2ZT` |  |
+| Phase transition | 593.15 K | 593.15 | 2; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Stevels 1969_ | Table 1, p. 2, row 7; `ORC-P56GLK4KUT` |  |
+| Phase transition | 593.15 K | 593.15 | 9; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Vouroutzis 1989_ [doi](https://doi.org/10.1002/pssa.2211110213) | Table 1, p. 2, row 40; `ORC-QRHU7JQAF7` |  |
+| Phase transition | 596.15 K | 596.15 | 13; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Mukherjee 2019_ [doi](https://doi.org/10.1039/c8dt04351e) | Table 1, p. 2, row 59; `ORC-DMF2HGBA5Q` |  |
+| Phase transition | 597.15 K | 597.15 | 12; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Qiu 2017_ [doi](https://doi.org/10.1039/c7ra02145c) | Table 1, p. 2, row 54; `ORC-PP4P2V2N7J` |  |
+| Phase transition | 600.15 K | 600.15 | 6; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Mills 1973_ [doi](https://doi.org/10.1016/0040-6031%2873%2985074-9) | Table 1, p. 2, row 27; `ORC-SHVHROIKRV` |  |
+| Phase transition | 601.4 K | 601.4 | 15; _alloy: Te 0.333333_ | experimental | [1] Huang 2021 | Table 1, p. 2, row 70; `ORC-HBBSTEW4AP` |  |
+| Phase transition | 613 K | 613 |  | experimental | [2] Yu 2022; _cites Huang 2020_ [doi](https://doi.org/10.1016/j.jallcom.2020.157373) | p. 2; `ORC-A77LNIJHMH` | “Some works reported that a crystallographic transformation of CuTe exists at 613 K.\[20,31,39\]” |
+| Phase transition | 613.15 K | 613.15 | other | experimental | [1] Huang 2021; _cites Koneshova 2001_ | p. 2; `ORC-MPCMA3VPDF` | “CuTe exhibits an orthorhombic structure from room temperature up to the decomposition temperature in Ref. \[14\], whilst ref. \[15\] Shows that it undergoes a crystallographic transformation at 340 C.” |
+| Phase transition | 620.45 K | 620.45 | CuTe | experimental | [1] Huang 2021 | p. 6; `ORC-2MYVVPUFMF.d9b49d` | “The first and second exothermic peaks at 347.3 and 350.7  C in the 1  C∙min1 curve are probably corresponding to the highe and lowetemperature modifications of CuTe and the eutectic reaction of L 4 HeCuTe þ (Te) respectively.” |
+| Phase transition | 625.15 K | 625.15 | 6; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Mills 1973_ [doi](https://doi.org/10.1016/0040-6031%2873%2985074-9) | Table 1, p. 2, row 28; `ORC-KSAKHGYSWF` |  |
+| Phase transition | 625.95 K | 625.95 |  | model | [3] Hutabalian 2023; _cites Huang 2020_ [doi](https://doi.org/10.1016/j.jallcom.2020.157373) | p. 17; `ORC-IRUOCE6IPB.375178` | “Cu2Te has five solid-state phase transitions at 186.7, 308.5, 352.8, 601.4, and 877.7 C and were denoted as a-b, b-c, c-d, d-e and e-f transformations, respectively.\[24\]” |
+| Phase transition | 626.75 K | 626.75 |  | experimental | [1] Huang 2021 | p. 8; `ORC-625RYY2NB5.999d78` | “The curve of T30 exhibits four endothermic transformations labeled as I, II, III and IV at 181.5, 298.4, 353.6 and 600.8 C below 700 C, which relate to a sequence of aeb, beg, ged,” |
+| Phase transition | 627.15 K | 627.15 | 12; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Qiu 2017_ [doi](https://doi.org/10.1039/c7ra02145c) | Table 1, p. 2, row 55; `ORC-6ZZP75LEGL` |  |
+| Phase transition | 628.15 K | 628.15 | 10; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Ghoumari-Bouanani 1993_ [doi](https://doi.org/10.1016/0025-5408%2893%2990036-d) | Table 1, p. 2, row 46; `ORC-BV5TOM2MRH` |  |
+| Phase transition | 629.15 K | 629.15 | 13; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Mukherjee 2019_ [doi](https://doi.org/10.1039/c8dt04351e) | Table 1, p. 2, row 60; `ORC-5SI54EU2CU` |  |
+| Phase transition | 633.15 K | 633.15 | 11; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Koneshova 2001_ | Table 1, p. 2, row 51; `ORC-FFMGYA2HWD` |  |
+| Phase transition | 633.15 K | 633.15 | 14; _alloy: Te 0.333333_ | model | [1] Huang 2021; _cites Ssub6 2017_ | Table 1, p. 2, row 65; `ORC-FESZFKV2AP` |  |
+| Phase transition | 633.15 K | 633.15 | 3; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Bougnot 1970_ [doi](https://doi.org/10.1016/0025-5408%2870%2990025-5) | Table 1, p. 2, row 14; `ORC-YWWIQHA4UT` |  |
+| Phase transition | 633.15 K | 633.15 | 4; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Guastavino 1973_ [doi](https://doi.org/10.1016/0025-5408%2873%2990078-0) | Table 1, p. 2, row 18; `ORC-QNUU55APHP` |  |
+| Phase transition | 633.15 K | 633.15 | 5; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Kubaschewski 1973_ [doi](https://doi.org/10.1002/bbpc.19730770203) | Table 1, p. 2, row 23; `ORC-5GCCB3SDJ6` |  |
+| Phase transition | 633.15 K | 633.15 | 7; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Tsypin 1974_ | Table 1, p. 2, row 32; `ORC-FIRPAEXYK2` |  |
+| Phase transition | 633.15 K | 633.15 | 8; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Blachnik 1983_ [doi](https://doi.org/10.1016/0022-4596%2883%2990102-0) | Table 1, p. 2, row 36; `ORC-VOABELQN37` |  |
+| Phase transition | 635.15 K | 635.15 | 1; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Gravemann 1956_ | Table 1, p. 2, row 3; `ORC-DAIL2YIB25` |  |
+| Phase transition | 638.15 K | 638.15 | 9; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Vouroutzis 1989_ [doi](https://doi.org/10.1002/pssa.2211110213) | Table 1, p. 2, row 41; `ORC-43IMPMRWLB` |  |
+| Phase transition | 652.5 K | 652.5 | polymorphic | model | [2] Yu 2022; _cites Huang 2020_ [doi](https://doi.org/10.1016/j.jallcom.2020.157373) | p. 2; `ORC-E7ITL3Q7P6` | “The polymorphic transition temperature of Cu4Te3 was measured as 652.5 K.\[20\]” |
+| Phase transition | 700.25 K | 700.25 | L þ HeCu4Te3 4 HeCuTe | experimental | [1] Huang 2021; _cites Blachnik 1983_ [doi](https://doi.org/10.1016/0022-4596%2883%2990102-0) | p. 6; `ORC-FFEE2F5DOM` | “The exothermic peak with an onset at 427.1 C can be ascribed to the invariant reaction L þ HeCu4Te3 4 HeCuTe \[14,15\].” |
+| Phase transition | 713.15 K | 713.15 | 2; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Stevels 1969_ | Table 1, p. 2, row 8; `ORC-VNV5CTOGQX` |  |
+| Phase transition | 725.15 K | 725.15 | 10; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Ghoumari-Bouanani 1993_ [doi](https://doi.org/10.1016/0025-5408%2893%2990036-d) | Table 1, p. 2, row 47; `ORC-SAD2KQVTMZ` |  |
+| Phase transition | 750.15 K | 750.15 | 6; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Mills 1973_ [doi](https://doi.org/10.1016/0040-6031%2873%2985074-9) | Table 1, p. 2, row 29; `ORC-V3QDA4EYLE` |  |
+| Phase transition | 756.15 K | 756.15 | 12; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Qiu 2017_ [doi](https://doi.org/10.1039/c7ra02145c) | Table 1, p. 2, row 56; `ORC-QL2GXBZHPR` |  |
+| Phase transition | 813.15 K | 813.15 | 11; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Koneshova 2001_ | Table 1, p. 2, row 52; `ORC-AW7U5KGB4Q` |  |
+| Phase transition | 823.15 K | 823.15 | 7; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Tsypin 1974_ | Table 1, p. 2, row 33; `ORC-FXK2VOOVVD` |  |
+| Phase transition | 833.15 K | 833.15 | 1; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Gravemann 1956_ | Table 1, p. 2, row 4; `ORC-S7SRPIAEY3` |  |
+| Phase transition | 835.15 K | 835.15 | 5; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Kubaschewski 1973_ [doi](https://doi.org/10.1002/bbpc.19730770203) | Table 1, p. 2, row 24; `ORC-OZHHTCNUDZ` |  |
+| Phase transition | 841.15 K | 841.15 | 14; _alloy: Te 0.333333_ | model | [1] Huang 2021; _cites Ssub6 2017_ | Table 1, p. 2, row 66; `ORC-Y3HWRARRHW` |  |
+| Phase transition | 848.15 K | 848.15 | 9; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Vouroutzis 1989_ [doi](https://doi.org/10.1002/pssa.2211110213) | Table 1, p. 2, row 42; `ORC-K3VV3ZBJLG` |  |
+| Phase transition | 864.15 K | 864.15 | 8; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Blachnik 1983_ [doi](https://doi.org/10.1016/0022-4596%2883%2990102-0) | Table 1, p. 2, row 37; `ORC-QBTPZ2AUNY` |  |
+| Phase transition | 873.95 K | 873.95 |  | experimental | [1] Huang 2021 | p. 8; `ORC-625RYY2NB5.18a6f0` | “The curve of T30 exhibits four endothermic transformations labeled as I, II, III and IV at 181.5, 298.4, 353.6 and 600.8 C below 700 C, which relate to a sequence of aeb, beg, ged,” |
+| Phase transition | 874.55 K | 874.55 |  | model | [3] Hutabalian 2023; _cites Huang 2020_ [doi](https://doi.org/10.1016/j.jallcom.2020.157373) | p. 17; `ORC-IRUOCE6IPB.97c2d5` | “Cu2Te has five solid-state phase transitions at 186.7, 308.5, 352.8, 601.4, and 877.7 C and were denoted as a-b, b-c, c-d, d-e and e-f transformations, respectively.\[24\]” |
+| Phase transition | 877.7 K | 877.7 | 15; _alloy: Te 0.333333_ | experimental | [1] Huang 2021 | Table 1, p. 2, row 71; `ORC-OJO2JDC4LD` |  |
+| Phase transition | 1150.85 K | 1150.85 |  | model | [3] Hutabalian 2023; _cites Huang 2020_ [doi](https://doi.org/10.1016/j.jallcom.2020.157373) | p. 17; `ORC-IRUOCE6IPB.ffd901` | “Cu2Te has five solid-state phase transitions at 186.7, 308.5, 352.8, 601.4, and 877.7 C and were denoted as a-b, b-c, c-d, d-e and e-f transformations, respectively.\[24\]” |
+| Phase transition | 1479.15 K | 1479.15 | other | experimental | [1] Huang 2021; _cites Koneshova 2001_ | p. 2; `ORC-NEPLNBDBI6` | “the critical point of the immiscibility dome was found to lie at 17.5 at. % Te and 1206 C \[15\], but tend to appear at higher temperatures in the work of Azakami and Yazawa \[36\] and Burylev and Fedorova et al. \[37\].” |
 
 ### Phase equilibrium (25)
 
@@ -292,31 +292,31 @@ Table: Phase equilibrium, Cu–Te system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase assemblage |  | 593.15 | (Cu) + Cu2Te; _alloy: Te 0_ | experimental | [1] Huang 2021 | Table 2, p. 3, row 22 |  |
-| Phase assemblage |  | 593.15 | Cu2Te + Cu4Te3; _alloy: Te 0.333333_ | experimental | [1] Huang 2021 | Table 2, p. 3, row 32 |  |
-| Phase composition |  |  | (Cu) + Cu2Te; _(Cu): Cu 0.998, Te 0.002; Cu2Te: Cu 0.659, Te 0.341_ | experimental | [1] Huang 2021 | Table 2, p. 3, row 19 |  |
-| Phase composition |  |  | (Cu) + Cu2Te; _(Cu): Cu 0.999, Te 0.001; Cu2Te: Cu 0.665, Te 0.335_ | experimental | [1] Huang 2021 | Table 2, p. 3, row 23 |  |
-| Phase composition |  |  | Cu2Te; _Cu2Te: Cu 0.631, Te 0.369_ | experimental | [1] Huang 2021 | Table 2, p. 3, row 29 |  |
-| Phase composition |  |  | Cu2Te; _Cu2Te: Cu 0.634, Te 0.366_ | experimental | [1] Huang 2021 | Table 2, p. 3, row 27 |  |
-| Phase composition |  |  | CuTe + (Te) + (Te) + CuTe; _CuTe: Cu 0.459, Te 0.541; (Te): Cu 0.059, Te 0.941; (Te) + CuTe: Cu 0.295, Te 0.705_ | experimental | [1] Huang 2021 | Table 2, p. 3, row 9 |  |
-| Phase composition |  |  | CuTe + (Te) + (Te) + CuTe; _CuTe: Cu 0.499, Te 0.501; (Te): Cu 0.025, Te 0.975; (Te) + CuTe: Cu 0.273, Te 0.727_ | experimental | [1] Huang 2021 | Table 2, p. 3, row 7 |  |
-| Phase composition |  |  | CuTe + (Te) + (Te) + CuTe; _CuTe: Cu 0.463, Te 0.537; (Te): Cu 0.007, Te 0.993; (Te) + CuTe: Cu 0.284, Te 0.716_ | experimental | [1] Huang 2021 | Table 2, p. 3, row 11 |  |
-| Phase composition |  |  | CuTe + (Te) + (Te) + CuTe; _CuTe: Cu 0.469, Te 0.531; (Te): Cu 0.007, Te 0.993; (Te) + CuTe: Cu 0.299, Te 0.701_ | experimental | [1] Huang 2021 | Table 2, p. 3, row 13 |  |
-| Phase composition |  |  | CuTe + (Te) + Cu4Te3 + (Te) + CuTe; _CuTe: Cu 0.481, Te 0.519; (Te): Cu 0.032, Te 0.968; Cu4Te3: Cu 0.565, Te 0.435; (Te) + CuTe: Cu 0.282, Te 0.718_ | experimental | [1] Huang 2021 | Table 2, p. 3, row 5 |  |
-| Phase composition |  |  | CuTe + Cu4Te3 + (Te) + CuTe; _CuTe: Cu 0.485, Te 0.515; Cu4Te3: Cu 0.567, Te 0.433; (Te) + CuTe: Cu 0.286, Te 0.714_ | experimental | [1] Huang 2021 | Table 2, p. 3, row 1 |  |
-| Phase composition |  |  | CuTe + Cu4Te3 + (Te) + CuTe; _CuTe: Cu 0.481, Te 0.519; Cu4Te3: Cu 0.566, Te 0.434; (Te) + CuTe: Cu 0.282, Te 0.718_ | experimental | [1] Huang 2021 | Table 2, p. 3, row 3 |  |
-| Phase composition |  | 593.15 | (Cu) + Cu2Te; _(Cu): Cu 0.001, Te 0.999; Cu2Te: Cu 0.666, Te 0.334_ | experimental | [1] Huang 2021 | Table 2, p. 3, row 20 |  |
-| Phase composition |  | 593.15 | (Cu) + Cu2Te; _(Cu): Cu 0.001, Te 0.999; Cu2Te: Cu 0.664, Te 0.336_ | experimental | [1] Huang 2021 | Table 2, p. 3, row 24 |  |
-| Phase composition |  | 593.15 | Cu2Te + Cu4Te3; _Cu2Te: Cu 0.627, Te 0.373; Cu4Te3: Cu 0.588, Te 0.412_ | experimental | [1] Huang 2021 | Table 2, p. 3, row 30 |  |
-| Phase composition |  | 593.15 | Cu4Te3 + CuTe; _Cu4Te3: Cu 0.579, Te 0.421; CuTe: Cu 0.527, Te 0.473_ | experimental | [1] Huang 2021 | Table 2, p. 3, row 16 |  |
-| Phase composition |  | 593.15 | Cu4Te3 + CuTe; _Cu4Te3: Cu 0.578, Te 0.422; CuTe: Cu 0.524, Te 0.476_ | experimental | [1] Huang 2021 | Table 2, p. 3, row 18 |  |
-| Phase composition |  | 593.15 | CuTe + (Te); _CuTe: Cu 0.479, Te 0.521; (Te): Cu 0.009, Te 0.991_ | experimental | [1] Huang 2021 | Table 2, p. 3, row 14 |  |
-| Phase composition |  | 593.15 | CuTe + (Te); _CuTe: Cu 0.496, Te 0.504; (Te): Cu 0.008, Te 0.992_ | experimental | [1] Huang 2021 | Table 2, p. 3, row 2 |  |
-| Phase composition |  | 593.15 | CuTe + (Te); _CuTe: Cu 0.481, Te 0.519; (Te): Cu 0.018, Te 0.982_ | experimental | [1] Huang 2021 | Table 2, p. 3, row 12 |  |
-| Phase composition |  | 593.15 | CuTe + (Te); _CuTe: Cu 0.494, Te 0.506; (Te): Cu 0.033, Te 0.967_ | experimental | [1] Huang 2021 | Table 2, p. 3, row 4 |  |
-| Phase composition |  | 593.15 | CuTe + (Te); _CuTe: Cu 0.481, Te 0.519; (Te): Cu 0.008, Te 0.992_ | experimental | [1] Huang 2021 | Table 2, p. 3, row 10 |  |
-| Phase composition |  | 593.15 | CuTe + (Te); _CuTe: Cu 0.481, Te 0.519; (Te): Cu 0.012, Te 0.988_ | experimental | [1] Huang 2021 | Table 2, p. 3, row 6 |  |
-| Phase composition |  | 593.15 | CuTe + (Te); _CuTe: Cu 0.488, Te 0.512; (Te): Cu 0.024, Te 0.976_ | experimental | [1] Huang 2021 | Table 2, p. 3, row 8 |  |
+| Phase assemblage |  | 593.15 | (Cu) + Cu2Te; _alloy: Te 0_ | experimental | [1] Huang 2021 | Table 2, p. 3, row 22; `ORC-NJBI3WW74C` |  |
+| Phase assemblage |  | 593.15 | Cu2Te + Cu4Te3; _alloy: Te 0.333333_ | experimental | [1] Huang 2021 | Table 2, p. 3, row 32; `ORC-7FTXBAQHIN` |  |
+| Phase composition |  |  | (Cu) + Cu2Te; _(Cu): Cu 0.998, Te 0.002; Cu2Te: Cu 0.659, Te 0.341_ | experimental | [1] Huang 2021 | Table 2, p. 3, row 19; `ORC-V2DWBEE5W3` |  |
+| Phase composition |  |  | (Cu) + Cu2Te; _(Cu): Cu 0.999, Te 0.001; Cu2Te: Cu 0.665, Te 0.335_ | experimental | [1] Huang 2021 | Table 2, p. 3, row 23; `ORC-WIWJMWDMRA` |  |
+| Phase composition |  |  | Cu2Te; _Cu2Te: Cu 0.631, Te 0.369_ | experimental | [1] Huang 2021 | Table 2, p. 3, row 29; `ORC-7YPQCOJ5A6` |  |
+| Phase composition |  |  | Cu2Te; _Cu2Te: Cu 0.634, Te 0.366_ | experimental | [1] Huang 2021 | Table 2, p. 3, row 27; `ORC-S3FCJSAU56` |  |
+| Phase composition |  |  | CuTe + (Te) + (Te) + CuTe; _CuTe: Cu 0.459, Te 0.541; (Te): Cu 0.059, Te 0.941; (Te) + CuTe: Cu 0.295, Te 0.705_ | experimental | [1] Huang 2021 | Table 2, p. 3, row 9; `ORC-2ML7EGMFQA` |  |
+| Phase composition |  |  | CuTe + (Te) + (Te) + CuTe; _CuTe: Cu 0.499, Te 0.501; (Te): Cu 0.025, Te 0.975; (Te) + CuTe: Cu 0.273, Te 0.727_ | experimental | [1] Huang 2021 | Table 2, p. 3, row 7; `ORC-IIORZGNSZJ` |  |
+| Phase composition |  |  | CuTe + (Te) + (Te) + CuTe; _CuTe: Cu 0.463, Te 0.537; (Te): Cu 0.007, Te 0.993; (Te) + CuTe: Cu 0.284, Te 0.716_ | experimental | [1] Huang 2021 | Table 2, p. 3, row 11; `ORC-ROVHZWEUOT` |  |
+| Phase composition |  |  | CuTe + (Te) + (Te) + CuTe; _CuTe: Cu 0.469, Te 0.531; (Te): Cu 0.007, Te 0.993; (Te) + CuTe: Cu 0.299, Te 0.701_ | experimental | [1] Huang 2021 | Table 2, p. 3, row 13; `ORC-RROWVUBROG` |  |
+| Phase composition |  |  | CuTe + (Te) + Cu4Te3 + (Te) + CuTe; _CuTe: Cu 0.481, Te 0.519; (Te): Cu 0.032, Te 0.968; Cu4Te3: Cu 0.565, Te 0.435; (Te) + CuTe: Cu 0.282, Te 0.718_ | experimental | [1] Huang 2021 | Table 2, p. 3, row 5; `ORC-SSKKILY4N4` |  |
+| Phase composition |  |  | CuTe + Cu4Te3 + (Te) + CuTe; _CuTe: Cu 0.485, Te 0.515; Cu4Te3: Cu 0.567, Te 0.433; (Te) + CuTe: Cu 0.286, Te 0.714_ | experimental | [1] Huang 2021 | Table 2, p. 3, row 1; `ORC-HGDJ3FCGA5` |  |
+| Phase composition |  |  | CuTe + Cu4Te3 + (Te) + CuTe; _CuTe: Cu 0.481, Te 0.519; Cu4Te3: Cu 0.566, Te 0.434; (Te) + CuTe: Cu 0.282, Te 0.718_ | experimental | [1] Huang 2021 | Table 2, p. 3, row 3; `ORC-O2YF4TKSLM` |  |
+| Phase composition |  | 593.15 | (Cu) + Cu2Te; _(Cu): Cu 0.001, Te 0.999; Cu2Te: Cu 0.666, Te 0.334_ | experimental | [1] Huang 2021 | Table 2, p. 3, row 20; `ORC-7D6JZ4LBLO` |  |
+| Phase composition |  | 593.15 | (Cu) + Cu2Te; _(Cu): Cu 0.001, Te 0.999; Cu2Te: Cu 0.664, Te 0.336_ | experimental | [1] Huang 2021 | Table 2, p. 3, row 24; `ORC-J7WJJ7G4VO` |  |
+| Phase composition |  | 593.15 | Cu2Te + Cu4Te3; _Cu2Te: Cu 0.627, Te 0.373; Cu4Te3: Cu 0.588, Te 0.412_ | experimental | [1] Huang 2021 | Table 2, p. 3, row 30; `ORC-7IIKPNKXTG` |  |
+| Phase composition |  | 593.15 | Cu4Te3 + CuTe; _Cu4Te3: Cu 0.579, Te 0.421; CuTe: Cu 0.527, Te 0.473_ | experimental | [1] Huang 2021 | Table 2, p. 3, row 16; `ORC-QTVUXU6SUK` |  |
+| Phase composition |  | 593.15 | Cu4Te3 + CuTe; _Cu4Te3: Cu 0.578, Te 0.422; CuTe: Cu 0.524, Te 0.476_ | experimental | [1] Huang 2021 | Table 2, p. 3, row 18; `ORC-S3ILWQJOKO` |  |
+| Phase composition |  | 593.15 | CuTe + (Te); _CuTe: Cu 0.479, Te 0.521; (Te): Cu 0.009, Te 0.991_ | experimental | [1] Huang 2021 | Table 2, p. 3, row 14; `ORC-AIXCP3DWQJ` |  |
+| Phase composition |  | 593.15 | CuTe + (Te); _CuTe: Cu 0.496, Te 0.504; (Te): Cu 0.008, Te 0.992_ | experimental | [1] Huang 2021 | Table 2, p. 3, row 2; `ORC-BREPSZAPLC` |  |
+| Phase composition |  | 593.15 | CuTe + (Te); _CuTe: Cu 0.481, Te 0.519; (Te): Cu 0.018, Te 0.982_ | experimental | [1] Huang 2021 | Table 2, p. 3, row 12; `ORC-D3DICCRNGL` |  |
+| Phase composition |  | 593.15 | CuTe + (Te); _CuTe: Cu 0.494, Te 0.506; (Te): Cu 0.033, Te 0.967_ | experimental | [1] Huang 2021 | Table 2, p. 3, row 4; `ORC-MKF2IYOX5J` |  |
+| Phase composition |  | 593.15 | CuTe + (Te); _CuTe: Cu 0.481, Te 0.519; (Te): Cu 0.008, Te 0.992_ | experimental | [1] Huang 2021 | Table 2, p. 3, row 10; `ORC-MNIBR3DSJ3` |  |
+| Phase composition |  | 593.15 | CuTe + (Te); _CuTe: Cu 0.481, Te 0.519; (Te): Cu 0.012, Te 0.988_ | experimental | [1] Huang 2021 | Table 2, p. 3, row 6; `ORC-QIS4FONO5G` |  |
+| Phase composition |  | 593.15 | CuTe + (Te); _CuTe: Cu 0.488, Te 0.512; (Te): Cu 0.024, Te 0.976_ | experimental | [1] Huang 2021 | Table 2, p. 3, row 8; `ORC-U2NVMOPEAC` |  |
 
 ### Activity / EMF / Gibbs energy (4)
 
@@ -324,10 +324,10 @@ Table: Activity / EMF / Gibbs energy, Cu–Te system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Activity; _printed: a(Te)_ | 0.0226 unspecified | 1473.15 |  | model | [1] Huang 2021 | p. 11 | “It should be noticed that a relatively small activity, around 0.0012, at 1200 C and in the composition variation of the miscibility gap of liquid was reported in the work of Azakami and Yazawa \[36\], whereas a result of 0.0226 is finally obtained in this work.” |
-| Activity; _printed: a(Te)_ | 0.0012 unspecified | 1473.15 |  | experimental | [1] Huang 2021; _cites Azakami 1976_ [doi](https://doi.org/10.1179/cmq.1976.15.2.111) | p. 11 | “It should be noticed that a relatively small activity, around 0.0012, at 1200 C and in the composition variation of the miscibility gap of liquid was reported in the work of Azakami and Yazawa \[36\], whereas a result of 0.0226 is finally obtained in this work.” |
-| EMF | 268.76 mV | 673.15 |  | model | [1] Huang 2021 | p. 11 | “For example, the computed EMF at 400 C and at the composition Cu4Te3 is 189.41 mV using the present parameters while that by fitting Azakami and Yazawas's dataset \[36\] rises to 268.76 mV, which is much higher than the experimental results of 166e214 mV at 360e435 C.” |
-| EMF | 189.41 mV | 673.15 |  | model | [1] Huang 2021 | p. 11 | “For example, the computed EMF at 400 C and at the composition Cu4Te3 is 189.41 mV using the present parameters while that by fitting Azakami and Yazawas's dataset \[36\] rises to 268.76 mV, which is much higher than the experimental results of 166e214 mV at 360e435 C.” |
+| Activity; _printed: a(Te)_ | 0.0226 unspecified | 1473.15 |  | model | [1] Huang 2021 | p. 11; `ORC-LOFSPI7OWB.0ed4c9` | “It should be noticed that a relatively small activity, around 0.0012, at 1200 C and in the composition variation of the miscibility gap of liquid was reported in the work of Azakami and Yazawa \[36\], whereas a result of 0.0226 is finally obtained in this work.” |
+| Activity; _printed: a(Te)_ | 0.0012 unspecified | 1473.15 |  | experimental | [1] Huang 2021; _cites Azakami 1976_ [doi](https://doi.org/10.1179/cmq.1976.15.2.111) | p. 11; `ORC-LOFSPI7OWB.6013c4` | “It should be noticed that a relatively small activity, around 0.0012, at 1200 C and in the composition variation of the miscibility gap of liquid was reported in the work of Azakami and Yazawa \[36\], whereas a result of 0.0226 is finally obtained in this work.” |
+| EMF | 268.76 mV | 673.15 |  | model | [1] Huang 2021 | p. 11; `ORC-6GC5OFVKHO.892334` | “For example, the computed EMF at 400 C and at the composition Cu4Te3 is 189.41 mV using the present parameters while that by fitting Azakami and Yazawas's dataset \[36\] rises to 268.76 mV, which is much higher than the experimental results of 166e214 mV at 360e435 C.” |
+| EMF | 189.41 mV | 673.15 |  | model | [1] Huang 2021 | p. 11; `ORC-6GC5OFVKHO.89df3c` | “For example, the computed EMF at 400 C and at the composition Cu4Te3 is 189.41 mV using the present parameters while that by fitting Azakami and Yazawas's dataset \[36\] rises to 268.76 mV, which is much higher than the experimental results of 166e214 mV at 360e435 C.” |
 
 ### Crystal structure (35)
 
@@ -335,41 +335,41 @@ Table: Crystal structure, Cu–Te system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 4.003 Å | 298.15 | Cu0.63Te0.37; _alloy: Te 0.37_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 17 |  |
-| Lattice a | 7.319 Å | 298.15 | αCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 5 |  |
-| Lattice a | 3.98 Å | 298.15 | αCu4Te3; _alloy: Te 0.428571_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 18 |  |
-| Lattice a | 3.16 Å | 298.15 | αCuTe; _alloy: Te 0.5_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 20 |  |
-| Lattice a | 4.227 Å | 298.15 | βCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 6 |  |
-| Lattice a | 6.032 Å | 298.15 | βCu4Te3; _alloy: Te 0.428571_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 19 |  |
-| Lattice a | 8.37 Å | 298.15 | γCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 7 |  |
-| Lattice a | 4.246 Å | 298.15 | δCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 8 |  |
-| Lattice a | 6.03 Å | 298.15 | εCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 9 |  |
-| Lattice a | 7.189 Å | 298.15 | ηCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 11 |  |
-| Lattice a | 10.136 Å | 298.15 | θCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 12 |  |
-| Lattice a | 8.453 Å | 298.15 | ιCu2Te | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 13 |  |
-| Lattice a | 8.73 Å | 298.15 | κCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 14 |  |
-| Lattice a | 8.373 Å | 298.15 | λCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 15 |  |
-| Lattice a | 8.328 Å | 298.15 | μCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 16 |  |
-| Lattice b | 3.979 Å | 298.15 | Cu0.63Te0.37; _alloy: Te 0.37_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 17 |  |
-| Lattice b | 22.236 Å | 298.15 | αCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 5 |  |
-| Lattice b | 4.08 Å | 298.15 | αCuTe; _alloy: Te 0.5_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 20 |  |
-| Lattice b | 7.403 Å | 298.15 | βCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 6 |  |
-| Lattice b | 4.187 Å | 298.15 | ηCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 11 |  |
-| Lattice b | 10.306 Å | 298.15 | θCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 12 |  |
-| Lattice b | 14.6 Å | 298.15 | κCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 14 |  |
-| Lattice c | 6.11 Å | 298.15 | Cu0.63Te0.37; _alloy: Te 0.37_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 17 |  |
-| Lattice c | 36.458 Å | 298.15 | αCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 5 |  |
-| Lattice c | 6.12 Å | 298.15 | αCu4Te3; _alloy: Te 0.428571_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 18 |  |
-| Lattice c | 6.93 Å | 298.15 | αCuTe; _alloy: Te 0.5_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 20 |  |
-| Lattice c | 7.29 Å | 298.15 | βCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 6 |  |
-| Lattice c | 21.6 Å | 298.15 | γCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 7 |  |
-| Lattice c | 7.289 Å | 298.15 | δCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 8 |  |
-| Lattice c | 7.207 Å | 298.15 | ηCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 11 |  |
-| Lattice c | 4.234 Å | 298.15 | θCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 12 |  |
-| Lattice c | 21.793 Å | 298.15 | ιCu2Te | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 13 |  |
-| Lattice c | 7.199 Å | 298.15 | κCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 14 |  |
-| Lattice c | 10.877 Å | 298.15 | λCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 15 |  |
-| Lattice c | 7.219 Å | 298.15 | μCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 16 |  |
+| Lattice a | 4.003 Å | 298.15 | Cu0.63Te0.37; _alloy: Te 0.37_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 17; `ORC-7RZCTBYAYL.43e3e4` |  |
+| Lattice a | 7.319 Å | 298.15 | αCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 5; `ORC-53AOULQFB3.e41e4e` |  |
+| Lattice a | 3.98 Å | 298.15 | αCu4Te3; _alloy: Te 0.428571_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 18; `ORC-CXU5SHNIDB.ba5368` |  |
+| Lattice a | 3.16 Å | 298.15 | αCuTe; _alloy: Te 0.5_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 20; `ORC-GQ3RXNKOAK.d1df97` |  |
+| Lattice a | 4.227 Å | 298.15 | βCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 6; `ORC-WXC37EYCWD.386464` |  |
+| Lattice a | 6.032 Å | 298.15 | βCu4Te3; _alloy: Te 0.428571_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 19; `ORC-XBR6R3MRL7` |  |
+| Lattice a | 8.37 Å | 298.15 | γCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 7; `ORC-LTOAVXRUJS.d9d514` |  |
+| Lattice a | 4.246 Å | 298.15 | δCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 8; `ORC-RJNQGQTBLQ.97bb5e` |  |
+| Lattice a | 6.03 Å | 298.15 | εCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 9; `ORC-AW5ZHP6WGN` |  |
+| Lattice a | 7.189 Å | 298.15 | ηCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 11; `ORC-M3I57CJCWF.c6741f` |  |
+| Lattice a | 10.136 Å | 298.15 | θCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 12; `ORC-TPC25SXBOQ.156b29` |  |
+| Lattice a | 8.453 Å | 298.15 | ιCu2Te | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 13; `ORC-4JOBQNGNQL.2f6595` |  |
+| Lattice a | 8.73 Å | 298.15 | κCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 14; `ORC-6HF6BBVJ25.9e7710` |  |
+| Lattice a | 8.373 Å | 298.15 | λCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 15; `ORC-TTQVERVTLU.256c39` |  |
+| Lattice a | 8.328 Å | 298.15 | μCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 16; `ORC-OL7QM4AHBV.cd383d` |  |
+| Lattice b | 3.979 Å | 298.15 | Cu0.63Te0.37; _alloy: Te 0.37_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 17; `ORC-7RZCTBYAYL.ffc0ab` |  |
+| Lattice b | 22.236 Å | 298.15 | αCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 5; `ORC-53AOULQFB3.986c83` |  |
+| Lattice b | 4.08 Å | 298.15 | αCuTe; _alloy: Te 0.5_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 20; `ORC-GQ3RXNKOAK.3eb6df` |  |
+| Lattice b | 7.403 Å | 298.15 | βCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 6; `ORC-WXC37EYCWD.ec6c16` |  |
+| Lattice b | 4.187 Å | 298.15 | ηCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 11; `ORC-M3I57CJCWF.469c4a` |  |
+| Lattice b | 10.306 Å | 298.15 | θCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 12; `ORC-TPC25SXBOQ.7895c3` |  |
+| Lattice b | 14.6 Å | 298.15 | κCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 14; `ORC-6HF6BBVJ25.f9f987` |  |
+| Lattice c | 6.11 Å | 298.15 | Cu0.63Te0.37; _alloy: Te 0.37_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 17; `ORC-7RZCTBYAYL.ccf872` |  |
+| Lattice c | 36.458 Å | 298.15 | αCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 5; `ORC-53AOULQFB3.2781ef` |  |
+| Lattice c | 6.12 Å | 298.15 | αCu4Te3; _alloy: Te 0.428571_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 18; `ORC-CXU5SHNIDB.f7f61b` |  |
+| Lattice c | 6.93 Å | 298.15 | αCuTe; _alloy: Te 0.5_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 20; `ORC-GQ3RXNKOAK.b16b8a` |  |
+| Lattice c | 7.29 Å | 298.15 | βCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 6; `ORC-WXC37EYCWD.86fe98` |  |
+| Lattice c | 21.6 Å | 298.15 | γCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 7; `ORC-LTOAVXRUJS.94a6e5` |  |
+| Lattice c | 7.289 Å | 298.15 | δCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 8; `ORC-RJNQGQTBLQ.4697a5` |  |
+| Lattice c | 7.207 Å | 298.15 | ηCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 11; `ORC-M3I57CJCWF.973cb5` |  |
+| Lattice c | 4.234 Å | 298.15 | θCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 12; `ORC-TPC25SXBOQ.0b7f43` |  |
+| Lattice c | 21.793 Å | 298.15 | ιCu2Te | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 13; `ORC-4JOBQNGNQL.57407f` |  |
+| Lattice c | 7.199 Å | 298.15 | κCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 14; `ORC-6HF6BBVJ25.610b9e` |  |
+| Lattice c | 10.877 Å | 298.15 | λCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 15; `ORC-TTQVERVTLU.22ea28` |  |
+| Lattice c | 7.219 Å | 298.15 | μCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 16; `ORC-OL7QM4AHBV.8484d6` |  |
 
 ## Sources
 
@@ -436,4 +436,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

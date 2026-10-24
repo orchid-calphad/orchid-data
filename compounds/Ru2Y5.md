@@ -14,9 +14,9 @@ Table: Enthalpy of formation of Ru2Y5 reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -27.3 kJ/mol-atom ± 3.1 | Ru2Y5 | 298.15 | experimental | High temperature drop calorimetry | [Ru–Y](https://data.orchid-project.org/systems/RU-Y.html) | [1] Amar 2011; _cites Selhaoui 1993_ [doi](https://doi.org/10.1051/jcp/1993900435) | Table 4, p. 4, row 8 |  |
-| -27.288 kJ/mol-atom | Ru2Y5 | 300 | model | Optimization | [Ru–Y](https://data.orchid-project.org/systems/RU-Y.html) | [1] Amar 2011; _cites Selhaoui 1998_ [doi](https://doi.org/10.1006/jssc.1998.7795) | Table 4, p. 4, row 9 |  |
-| -26.844 kJ/mol-atom | Ru2Y5 | 300 | model | Optimization | [Ru–Y](https://data.orchid-project.org/systems/RU-Y.html) | [1] Amar 2011 | Table 4, p. 4, row 10 |  |
+| -27.3 kJ/mol-atom ± 3.1 | Ru2Y5 | 298.15 | experimental | High temperature drop calorimetry | [Ru–Y](https://data.orchid-project.org/systems/RU-Y.html) | [1] Amar 2011; _cites Selhaoui 1993_ [doi](https://doi.org/10.1051/jcp/1993900435) | Table 4, p. 4, row 8; `ORC-PRRL67TCIV` |  |
+| -27.288 kJ/mol-atom | Ru2Y5 | 300 | model | Optimization | [Ru–Y](https://data.orchid-project.org/systems/RU-Y.html) | [1] Amar 2011; _cites Selhaoui 1998_ [doi](https://doi.org/10.1006/jssc.1998.7795) | Table 4, p. 4, row 9; `ORC-GYJNMLB4PC` |  |
+| -26.844 kJ/mol-atom | Ru2Y5 | 300 | model | Optimization | [Ru–Y](https://data.orchid-project.org/systems/RU-Y.html) | [1] Amar 2011 | Table 4, p. 4, row 10; `ORC-SGLHVBJY6S` |  |
 
 ### Uncertainty budget
 
@@ -94,4 +94,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

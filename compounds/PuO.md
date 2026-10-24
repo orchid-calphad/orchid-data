@@ -14,12 +14,12 @@ Table: Enthalpy of formation of PuO reported in the literature (6)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -447.5 kJ/mol-atom ± 3 | PuO1,61 | 298.15 | model |  | [O–Pu](https://data.orchid-project.org/systems/O-PU.html) | [1] Guéneau 2008; _cites Markin 1966_ | Table 5, p. 12, row 11 |  |
-| -442.25 kJ/mol-atom ± 8.35 | PuO1,61 | 298.15 | model |  | [O–Pu](https://data.orchid-project.org/systems/O-PU.html) | [1] Guéneau 2008; _cites Chereau 1977_ [doi](https://doi.org/10.1016/0021-9614%2877%2990040-4) | Table 5, p. 12, row 12 |  |
-| -437.75 kJ/mol-atom ± 5 | PuO1,61 | 298.15 | model |  | [O–Pu](https://data.orchid-project.org/systems/O-PU.html) | [1] Guéneau 2008; _cites Lemire 2001_ | Table 5, p. 12, row 13 |  |
-| -433.6 kJ/mol-atom | PuO1,61 | 298.15 | model |  | [O–Pu](https://data.orchid-project.org/systems/O-PU.html) | [1] Guéneau 2008 | Table 5, p. 12, row 10 |  |
-| -422.5 kJ/mol-atom ± 5 | PuO1,52 | 298.15 | model |  | [O–Pu](https://data.orchid-project.org/systems/O-PU.html) | [1] Guéneau 2008; _cites Lemire 2001_ | Table 5, p. 12, row 9 |  |
-| -419 kJ/mol-atom | PuO1,52 | 298.15 | model |  | [O–Pu](https://data.orchid-project.org/systems/O-PU.html) | [1] Guéneau 2008 | Table 5, p. 12, row 8 |  |
+| -447.5 kJ/mol-atom ± 3 | PuO1,61 | 298.15 | model |  | [O–Pu](https://data.orchid-project.org/systems/O-PU.html) | [1] Guéneau 2008; _cites Markin 1966_ | Table 5, p. 12, row 11; `ORC-IW4K2IGBVB.07daca` |  |
+| -442.25 kJ/mol-atom ± 8.35 | PuO1,61 | 298.15 | model |  | [O–Pu](https://data.orchid-project.org/systems/O-PU.html) | [1] Guéneau 2008; _cites Chereau 1977_ [doi](https://doi.org/10.1016/0021-9614%2877%2990040-4) | Table 5, p. 12, row 12; `ORC-O2MKQDICEJ.012a44` |  |
+| -437.75 kJ/mol-atom ± 5 | PuO1,61 | 298.15 | model |  | [O–Pu](https://data.orchid-project.org/systems/O-PU.html) | [1] Guéneau 2008; _cites Lemire 2001_ | Table 5, p. 12, row 13; `ORC-QX5Z74ABJL.0e15ad` |  |
+| -433.6 kJ/mol-atom | PuO1,61 | 298.15 | model |  | [O–Pu](https://data.orchid-project.org/systems/O-PU.html) | [1] Guéneau 2008 | Table 5, p. 12, row 10; `ORC-3UQSOYYDZ5.ba5118` |  |
+| -422.5 kJ/mol-atom ± 5 | PuO1,52 | 298.15 | model |  | [O–Pu](https://data.orchid-project.org/systems/O-PU.html) | [1] Guéneau 2008; _cites Lemire 2001_ | Table 5, p. 12, row 9; `ORC-BQ7EBIS6BA.4474ae` |  |
+| -419 kJ/mol-atom | PuO1,52 | 298.15 | model |  | [O–Pu](https://data.orchid-project.org/systems/O-PU.html) | [1] Guéneau 2008 | Table 5, p. 12, row 8; `ORC-EBMTXVKTB3.dc77b1` |  |
 
 ### Uncertainty budget
 
@@ -100,4 +100,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

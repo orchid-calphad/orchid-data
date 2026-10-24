@@ -32,12 +32,12 @@ Table: Enthalpies of formation, Au system (6)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| (Au) |  | -22.594 kJ/mol-atom | 298.15 | experimental |  |  | [1] Murray 1987; _cites Ferro 1966_ | Table 4, p. 8, row 7 |  |
-| (Au) |  | -9.623 kJ/mol-atom | 298.15 | experimental |  |  | [1] Murray 1987; _cites Predel 1970_ [doi](https://doi.org/10.1016/0025-5416%2870%2990083-2) | Table 4, p. 8, row 10 |  |
-| (Au) |  | -8.033 kJ/mol-atom | 298.15 | experimental |  |  | [1] Murray 1987; _cites Predel 1970_ [doi](https://doi.org/10.1016/0025-5416%2870%2990083-2) | Table 4, p. 8, row 9 |  |
-| (Au) |  | -4.393 kJ/mol-atom | 298.15 | experimental |  |  | [1] Murray 1987; _cites Predel 1970_ [doi](https://doi.org/10.1016/0025-5416%2870%2990083-2) | Table 4, p. 8, row 8 |  |
-| fcc(Au) |  | -15.268 kJ/mol (basis unstated) |  | model |  |  | [2] Liu 2003 | Table 3, p. 5, row 2 |  |
-| fcc(Au) |  | -14.411 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Liu 2003; _cites Carpenter 1967_ | Table 3, p. 5, row 1 |  |
+| (Au) |  | -22.594 kJ/mol-atom | 298.15 | experimental |  |  | [1] Murray 1987; _cites Ferro 1966_ | Table 4, p. 8, row 7; `ORC-DV5UH6CUFX` |  |
+| (Au) |  | -9.623 kJ/mol-atom | 298.15 | experimental |  |  | [1] Murray 1987; _cites Predel 1970_ [doi](https://doi.org/10.1016/0025-5416%2870%2990083-2) | Table 4, p. 8, row 10; `ORC-EQ2LL63WV6` |  |
+| (Au) |  | -8.033 kJ/mol-atom | 298.15 | experimental |  |  | [1] Murray 1987; _cites Predel 1970_ [doi](https://doi.org/10.1016/0025-5416%2870%2990083-2) | Table 4, p. 8, row 9; `ORC-JJB3GCBTIV` |  |
+| (Au) |  | -4.393 kJ/mol-atom | 298.15 | experimental |  |  | [1] Murray 1987; _cites Predel 1970_ [doi](https://doi.org/10.1016/0025-5416%2870%2990083-2) | Table 4, p. 8, row 8; `ORC-N5SHVAKEBX` |  |
+| fcc(Au) |  | -15.268 kJ/mol (basis unstated) |  | model |  |  | [2] Liu 2003 | Table 3, p. 5, row 2; `ORC-XHTY356IIB` |  |
+| fcc(Au) |  | -14.411 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Liu 2003; _cites Carpenter 1967_ | Table 3, p. 5, row 1; `ORC-Q66EPRGZRO` |  |
 
 ## Other properties
 
@@ -47,8 +47,8 @@ Table: Phase transition, Au system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1335.35 K | 1335.35 | Au | experimental | [1] Murray 1987; _cites ref. 00Hey_ | p. 1 | “Minor modifications in these temperatures m a y be necessary in the future because the melting points of A1 and Au assumed by \[00Hey\] to be 655 and 1062.2 ~ respectively, are now accepted as 660.452 and 1064.43 ~ \[Melt\]9” |
-| Phase transition | 1337.58 K | 1337.58 | Au | experimental | [1] Murray 1987 | p. 1 | “Minor modifications in these temperatures m a y be necessary in the future because the melting points of A1 and Au assumed by \[00Hey\] to be 655 and 1062.2 ~ respectively, are now accepted as 660.452 and 1064.43 ~ \[Melt\]9” |
+| Phase transition | 1335.35 K | 1335.35 | Au | experimental | [1] Murray 1987; _cites ref. 00Hey_ | p. 1; `ORC-TKBGD4NZ5O.fd8533` | “Minor modifications in these temperatures m a y be necessary in the future because the melting points of A1 and Au assumed by \[00Hey\] to be 655 and 1062.2 ~ respectively, are now accepted as 660.452 and 1064.43 ~ \[Melt\]9” |
+| Phase transition | 1337.58 K | 1337.58 | Au | experimental | [1] Murray 1987 | p. 1; `ORC-TKBGD4NZ5O.3f5c83` | “Minor modifications in these temperatures m a y be necessary in the future because the melting points of A1 and Au assumed by \[00Hey\] to be 655 and 1062.2 ~ respectively, are now accepted as 660.452 and 1064.43 ~ \[Melt\]9” |
 
 ### Crystal structure (14)
 
@@ -56,20 +56,20 @@ Table: Crystal structure, Au system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 4.157 Å |  | Au; _Au: Au 1_ | model | [3] Shen 2021 | Table 3, p. 6, row 2 |  |
-| Lattice a | 4.0781 Å | 298.15 | (Au); _(Au): Au 1_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 40 |  |
-| Lattice a | 4.0784 Å | 298.15 | (Au); _(Au): Au 1_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 41 |  |
-| Lattice a | 4.0784 Å | 298.15 | Au; _Au: Au 1_ | model | [4] Moustaine 2016; _cites Gschneidner 1986_ | Table 1, p. 3, row 1 |  |
-| Lattice a | 4.0784 Å | 298.15 | Au; _Au: Au 1_ | unspecified | [3] Shen 2021 | Table 3, p. 6, row 1 |  |
-| Lattice a | 4.09 Å | 298.15 | Au | experimental | [5] Feutelais 1994 | Table 3, p. 2, row 5 |  |
-| Lattice a | 4.093 Å | 298.15 | Au | experimental | [5] Feutelais 1994 | Table 3, p. 2, row 1 |  |
-| Lattice a | 4.0784 Å | 298.15 | Au | model | [6] Dong 2013; _cites Gschneidner 1987_ | Table 1, p. 2, row 1 |  |
-| Lattice a | 4.086 Å | 298.15 | Au | experimental | [5] Feutelais 1994 | Table 3, p. 2, row 9 |  |
-| Lattice a | 4.089 Å | 298.15 | Au | experimental | [5] Feutelais 1994 | Table 3, p. 2, row 11 |  |
-| Lattice a | 4.087 Å | 298.15 | Au | experimental | [5] Feutelais 1994 | Table 3, p. 2, row 3 |  |
-| Lattice a | 4.09 Å | 298.15 | Au | experimental | [5] Feutelais 1994 | Table 3, p. 2, row 7 |  |
-| Lattice a | 4.072 Å | 298.15 | Au-fcc | model | [7] Ghasemi 2014; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 1, p. 2, row 1 |  |
-| Lattice a | 4.072 Å | 298.15 | Au-fcc | model | [7] Ghasemi 2014; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 1, p. 2, row 20 |  |
+| Lattice a | 4.157 Å |  | Au; _Au: Au 1_ | model | [3] Shen 2021 | Table 3, p. 6, row 2; `ORC-CWU6N4T7H7.bf9f9f` |  |
+| Lattice a | 4.0781 Å | 298.15 | (Au); _(Au): Au 1_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 40; `ORC-CL6WEMCJ4U.56b808` |  |
+| Lattice a | 4.0784 Å | 298.15 | (Au); _(Au): Au 1_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 41; `ORC-UBVR3BSHEE.b15d29` |  |
+| Lattice a | 4.0784 Å | 298.15 | Au; _Au: Au 1_ | model | [4] Moustaine 2016; _cites Gschneidner 1986_ | Table 1, p. 3, row 1; `ORC-47TZEDBEKT` |  |
+| Lattice a | 4.0784 Å | 298.15 | Au; _Au: Au 1_ | unspecified | [3] Shen 2021 | Table 3, p. 6, row 1; `ORC-4Q7UINTFUT.493cb6` |  |
+| Lattice a | 4.09 Å | 298.15 | Au | experimental | [5] Feutelais 1994 | Table 3, p. 2, row 5; `ORC-DIGZCXSTVL` |  |
+| Lattice a | 4.093 Å | 298.15 | Au | experimental | [5] Feutelais 1994 | Table 3, p. 2, row 1; `ORC-DQ5VDQELIW` |  |
+| Lattice a | 4.0784 Å | 298.15 | Au | model | [6] Dong 2013; _cites Gschneidner 1987_ | Table 1, p. 2, row 1; `ORC-FHAWR2SLYH` |  |
+| Lattice a | 4.086 Å | 298.15 | Au | experimental | [5] Feutelais 1994 | Table 3, p. 2, row 9; `ORC-I5LNPQWJ6Y` |  |
+| Lattice a | 4.089 Å | 298.15 | Au | experimental | [5] Feutelais 1994 | Table 3, p. 2, row 11; `ORC-IIVFLRKUEZ` |  |
+| Lattice a | 4.087 Å | 298.15 | Au | experimental | [5] Feutelais 1994 | Table 3, p. 2, row 3; `ORC-QT5Q2UOQWF` |  |
+| Lattice a | 4.09 Å | 298.15 | Au | experimental | [5] Feutelais 1994 | Table 3, p. 2, row 7; `ORC-ZIQ6VVHKQB` |  |
+| Lattice a | 4.072 Å | 298.15 | Au-fcc | model | [7] Ghasemi 2014; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 1, p. 2, row 1; `ORC-2PCQQCMZNH` |  |
+| Lattice a | 4.072 Å | 298.15 | Au-fcc | model | [7] Ghasemi 2014; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 1, p. 2, row 20; `ORC-VW4ZLDISGT` |  |
 
 ## Sources
 
@@ -118,4 +118,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

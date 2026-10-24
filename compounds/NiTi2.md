@@ -14,19 +14,19 @@ Table: Enthalpy of formation of NiTi2 reported in the literature (13)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -29.3 per mol-atom ± 500 | NiTi2 | 1202.15 | experimental |  | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015; _cites Gachon 1981_ [doi](https://doi.org/10.1016/0040-6031%2881%2987031-1) | Table 9, p. 6, row 31 |  |
-| -26.896 per mol-atom ± 2000 | NiTi2 | 298.15 | experimental |  | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015; _cites Kubaschewski 1956_ [doi](https://doi.org/10.1039/tf9565200214) | Table 9, p. 6, row 29 |  |
-| -26.8 kJ/mol-atom | Ti2Ni | 298.15 | experimental | Direct synthesis calorimetry | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [2] Povoden-Karadeniz 2013; _cites Kubaschewski 1958_ [doi](https://doi.org/10.1039/tf9585400814) | Table 6, p. 8, row 16 |  |
-| -35.3 per mol-atom | NiTi2 | 298.15 | model | Miedema | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015 | Table 9, p. 6, row 36 |  |
-| -33.7 per mol-atom | NiTi2 |  | model | FP | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 9, p. 6, row 33 |  |
-| -30.393 per mol-atom | NiTi2 | 1202.15 | model |  | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015 | Table 9, p. 6, row 32 |  |
-| -28.96 per mol-atom | NiTi2 |  | model | FP | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015 | Table 9, p. 6, row 35 |  |
-| -28.2 per mol-atom | NiTi2 |  | model | FP | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 9, p. 6, row 34 |  |
-| -26.977 kJ/mol-atom | Ti2Ni | 298.15 | model | Calphad assessment | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [2] Povoden-Karadeniz 2013 | Table 6, p. 8, row 14 |  |
-| -26.901 kJ/mol-atom | Ti2Ni | 298.15 | model | Calphad assessment | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [2] Povoden-Karadeniz 2013; _cites Bellen 1996_ | Table 6, p. 8, row 15 |  |
-| -25.849 per mol-atom | NiTi2 | 298.15 | model |  | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015 | Table 9, p. 6, row 30 |  |
-| -33.7 kJ/mol-atom | Ti2Ni | 0 | DFT | 1st-princ. (LMTO-ASA) | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [2] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 6, p. 8, row 19 |  |
-| -28.2 kJ/mol-atom | Ti2Ni | 0 | DFT | 1st-princ. (FP-LMTO) | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [2] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 6, p. 8, row 20 |  |
+| -29.3 per mol-atom ± 500 | NiTi2 | 1202.15 | experimental |  | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015; _cites Gachon 1981_ [doi](https://doi.org/10.1016/0040-6031%2881%2987031-1) | Table 9, p. 6, row 31; `ORC-DKBHZHHMO5` |  |
+| -26.896 per mol-atom ± 2000 | NiTi2 | 298.15 | experimental |  | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015; _cites Kubaschewski 1956_ [doi](https://doi.org/10.1039/tf9565200214) | Table 9, p. 6, row 29; `ORC-M5NJPL46CN` |  |
+| -26.8 kJ/mol-atom | Ti2Ni | 298.15 | experimental | Direct synthesis calorimetry | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [2] Povoden-Karadeniz 2013; _cites Kubaschewski 1958_ [doi](https://doi.org/10.1039/tf9585400814) | Table 6, p. 8, row 16; `ORC-PEPGNW2DTY.86597c` |  |
+| -35.3 per mol-atom | NiTi2 | 298.15 | model | Miedema | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015 | Table 9, p. 6, row 36; `ORC-Z3DPWMWWJG` |  |
+| -33.7 per mol-atom | NiTi2 |  | model | FP | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 9, p. 6, row 33; `ORC-PEWMDBISIK` |  |
+| -30.393 per mol-atom | NiTi2 | 1202.15 | model |  | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015 | Table 9, p. 6, row 32; `ORC-XH5ZFBUOA5` |  |
+| -28.96 per mol-atom | NiTi2 |  | model | FP | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015 | Table 9, p. 6, row 35; `ORC-PGGDLMCOL3` |  |
+| -28.2 per mol-atom | NiTi2 |  | model | FP | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 9, p. 6, row 34; `ORC-SJLLP6NH2U` |  |
+| -26.977 kJ/mol-atom | Ti2Ni | 298.15 | model | Calphad assessment | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [2] Povoden-Karadeniz 2013 | Table 6, p. 8, row 14; `ORC-VZ42TLKJHT.7cd9c0` |  |
+| -26.901 kJ/mol-atom | Ti2Ni | 298.15 | model | Calphad assessment | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [2] Povoden-Karadeniz 2013; _cites Bellen 1996_ | Table 6, p. 8, row 15; `ORC-RUO2L3D6YH.958025` |  |
+| -25.849 per mol-atom | NiTi2 | 298.15 | model |  | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015 | Table 9, p. 6, row 30; `ORC-SI5WWVJHY2` |  |
+| -33.7 kJ/mol-atom | Ti2Ni | 0 | DFT | 1st-princ. (LMTO-ASA) | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [2] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 6, p. 8, row 19; `ORC-QVWDFAJQI3.3a6e31` |  |
+| -28.2 kJ/mol-atom | Ti2Ni | 0 | DFT | 1st-princ. (FP-LMTO) | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [2] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 6, p. 8, row 20; `ORC-N5KHCICVLX.50919e` |  |
 
 ### Uncertainty budget
 
@@ -115,4 +115,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

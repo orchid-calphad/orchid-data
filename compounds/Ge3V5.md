@@ -14,13 +14,13 @@ Table: Enthalpy of formation of Ge3V5 reported in the literature (7)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -47.7 kJ/mol-atom | V5Ge3 | 1073.15 | experimental | emf | [Ge–V](https://data.orchid-project.org/systems/GE-V.html) | [1] Yuan 2011; _cites Eremenko 1976_ | Table 3, p. 2, row 8 |  |
-| -45.9 kJ/mol-atom | V5Ge3 | 298.15 | experimental | KEMS | [Ge–V](https://data.orchid-project.org/systems/GE-V.html) | [1] Yuan 2011; _cites Zarembo 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900801-4) | Table 3, p. 2, row 2 |  |
-| -44.3 kJ/mol-atom | V5Ge3 | 298.15 | experimental | Calorimetry | [Ge–V](https://data.orchid-project.org/systems/GE-V.html) | [1] Yuan 2011; _cites Kleppa 1990_ | Table 3, p. 2, row 6 |  |
-| -45.1 kJ/mol-atom | V5Ge3 | 298.15 | model | Calculated | [Ge–V](https://data.orchid-project.org/systems/GE-V.html) | [1] Yuan 2011; _cites Wang 2008_ [doi](https://doi.org/10.1016/j.intermet.2008.01.002) | Table 3, p. 2, row 16 |  |
-| -43.8 kJ/mol-atom | V5Ge3 | 298.15 | model | Calculated | [Ge–V](https://data.orchid-project.org/systems/GE-V.html) | [1] Yuan 2011 | Table 3, p. 2, row 20 |  |
-| -41.5 kJ/mol-atom | V5Ge3 | 298.15 | model | Calculated | [Ge–V](https://data.orchid-project.org/systems/GE-V.html) | [1] Yuan 2011; _cites Smith 1981_ [doi](https://doi.org/10.1007/bf02881480) | Table 3, p. 2, row 12 |  |
-| -45.9 kJ/mol-atom | V5Ge3 |  | unspecified |  | [Ge–V](https://data.orchid-project.org/systems/GE-V.html) | [1] Yuan 2011 | Table 3, p. 2, row 23 |  |
+| -47.7 kJ/mol-atom | V5Ge3 | 1073.15 | experimental | emf | [Ge–V](https://data.orchid-project.org/systems/GE-V.html) | [1] Yuan 2011; _cites Eremenko 1976_ | Table 3, p. 2, row 8; `ORC-NHWEEZS5RW` |  |
+| -45.9 kJ/mol-atom | V5Ge3 | 298.15 | experimental | KEMS | [Ge–V](https://data.orchid-project.org/systems/GE-V.html) | [1] Yuan 2011; _cites Zarembo 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900801-4) | Table 3, p. 2, row 2; `ORC-3M3YJAII6H` |  |
+| -44.3 kJ/mol-atom | V5Ge3 | 298.15 | experimental | Calorimetry | [Ge–V](https://data.orchid-project.org/systems/GE-V.html) | [1] Yuan 2011; _cites Kleppa 1990_ | Table 3, p. 2, row 6; `ORC-ESSEDAAWLK` |  |
+| -45.1 kJ/mol-atom | V5Ge3 | 298.15 | model | Calculated | [Ge–V](https://data.orchid-project.org/systems/GE-V.html) | [1] Yuan 2011; _cites Wang 2008_ [doi](https://doi.org/10.1016/j.intermet.2008.01.002) | Table 3, p. 2, row 16; `ORC-AOUNHGRM5F` |  |
+| -43.8 kJ/mol-atom | V5Ge3 | 298.15 | model | Calculated | [Ge–V](https://data.orchid-project.org/systems/GE-V.html) | [1] Yuan 2011 | Table 3, p. 2, row 20; `ORC-DGZNSNFR2G` |  |
+| -41.5 kJ/mol-atom | V5Ge3 | 298.15 | model | Calculated | [Ge–V](https://data.orchid-project.org/systems/GE-V.html) | [1] Yuan 2011; _cites Smith 1981_ [doi](https://doi.org/10.1007/bf02881480) | Table 3, p. 2, row 12; `ORC-J57CJS4TQ5` |  |
+| -45.9 kJ/mol-atom | V5Ge3 |  | unspecified |  | [Ge–V](https://data.orchid-project.org/systems/GE-V.html) | [1] Yuan 2011 | Table 3, p. 2, row 23; `ORC-JEUSHIJ5R3.46a1dd` |  |
 
 ### Uncertainty budget
 
@@ -102,4 +102,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

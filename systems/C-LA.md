@@ -32,11 +32,11 @@ Table: Invariant reactions reported in the literature for the C–La system (5)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1354.95 | βLaC2 + (C) \<-> αLaC2 | βLaC2: C 0.662; (C): C 1; αLaC2: C 0.667 | model | [1] Peng 2011 | Table 4, p. 6, row 9 |  |
-| 1354.15 | βLaC2 + (C) \<-> αLaC2 |  | experimental | [1] Peng 2011; _cites Adachi 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990051-4) | Table 4, p. 6, row 10 |  |
-| 1354.15 | βLaC2 \<-> La2C3 + αLaC2 |  | experimental | [1] Peng 2011; _cites Adachi 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990051-4) | Table 4, p. 6, row 8 |  |
-| 583.15 | (βLa) + La2C3 \<-> (αLa) | (βLa): C 0; La2C3: C 0.558; (αLa): C 0 | experimental | [1] Peng 2011; _cites Spedding 1959_ | Table 4, p. 6, row 2 |  |
-| 539.15 | (βLa) + La2C3 \<-> (αLa) | (βLa): C 0; La2C3: C 0.581; (αLa): C 0 | model | [1] Peng 2011 | Table 4, p. 6, row 1 |  |
+| 1354.95 | βLaC2 + (C) \<-> αLaC2 | βLaC2: C 0.662; (C): C 1; αLaC2: C 0.667 | model | [1] Peng 2011 | Table 4, p. 6, row 9; `ORC-BVIWE3JT4Q` |  |
+| 1354.15 | βLaC2 + (C) \<-> αLaC2 |  | experimental | [1] Peng 2011; _cites Adachi 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990051-4) | Table 4, p. 6, row 10; `ORC-FQNSTXL3JH` |  |
+| 1354.15 | βLaC2 \<-> La2C3 + αLaC2 |  | experimental | [1] Peng 2011; _cites Adachi 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990051-4) | Table 4, p. 6, row 8; `ORC-K47YLN5FVJ` |  |
+| 583.15 | (βLa) + La2C3 \<-> (αLa) | (βLa): C 0; La2C3: C 0.558; (αLa): C 0 | experimental | [1] Peng 2011; _cites Spedding 1959_ | Table 4, p. 6, row 2; `ORC-RLAGX25HS4` |  |
+| 539.15 | (βLa) + La2C3 \<-> (αLa) | (βLa): C 0; La2C3: C 0.581; (αLa): C 0 | model | [1] Peng 2011 | Table 4, p. 6, row 1; `ORC-MV5QONST4Z` |  |
 
 ## Formation enthalpies
 
@@ -46,13 +46,13 @@ Table: Enthalpies of formation, C–La system (7)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| La2C3 | [La2C3](https://data.orchid-project.org/compounds/La2C3.html) | -38.6 kJ/mol-atom | 298.15 | experimental | -15.983 (mp-aaaaabto) | -16.43 (oqmd-5052) | [1] Peng 2011; _cites Anderson 1970_ | Table 2, p. 2, row 1 |  |
-| LaC2 | [LaC2](https://data.orchid-project.org/compounds/LaC2.html) | -50.3 kJ/mol-atom ± 5.3 | 298.15 | experimental | -15.461 (mp-aaaaadnb) | -16.27 (oqmd-1979286) | [1] Peng 2011; _cites Jackson 1963_ | Table 2, p. 2, row 7 |  |
-| LaC2 | [LaC2](https://data.orchid-project.org/compounds/LaC2.html) | -29.7 kJ/mol-atom ± 8 | 298.15 | experimental | -15.461 (mp-aaaaadnb) | -16.27 (oqmd-1979286) | [1] Peng 2011; _cites Stearns 1971_ [doi](https://doi.org/10.1063/1.1674812) | Table 2, p. 2, row 6 |  |
-| LaC2 | [LaC2](https://data.orchid-project.org/compounds/LaC2.html) | -29.1 kJ/mol-atom ± 3.5 | 298.15 | experimental | -15.461 (mp-aaaaadnb) | -16.27 (oqmd-1979286) | [1] Peng 2011; _cites Anderson 2011_ | Table 2, p. 2, row 5 |  |
-| LaC2 | [LaC2](https://data.orchid-project.org/compounds/LaC2.html) | -27.2 kJ/mol-atom ± 1.4 | 298.15 | experimental | -15.461 (mp-aaaaadnb) | -16.27 (oqmd-1979286) | [1] Peng 2011; _cites Meschel 1994_ [doi](https://doi.org/10.1016/0925-8388%2894%2990783-8) | Table 2, p. 2, row 4 |  |
-| LaC2 | [LaC2](https://data.orchid-project.org/compounds/LaC2.html) | -26.5 kJ/mol-atom | 298.15 | experimental | -15.461 (mp-aaaaadnb) | -16.27 (oqmd-1979286) | [1] Peng 2011; _cites Faircloth 1968_ [doi](https://doi.org/10.1016/0022-1902%2868%2980476-2) | Table 2, p. 2, row 3 |  |
-| LaC2 | [LaC2](https://data.orchid-project.org/compounds/LaC2.html) | -19.5 kJ/mol-atom ± 3.4 | 298.15 | experimental | -15.461 (mp-aaaaadnb) | -16.27 (oqmd-1979286) | [1] Peng 2011; _cites Vidhya 2001_ [doi](https://doi.org/10.1016/s0022-3115%2801%2900536-0) | Table 2, p. 2, row 2 |  |
+| La2C3 | [La2C3](https://data.orchid-project.org/compounds/La2C3.html) | -38.6 kJ/mol-atom | 298.15 | experimental | -15.983 (mp-aaaaabto) | -16.43 (oqmd-5052) | [1] Peng 2011; _cites Anderson 1970_ | Table 2, p. 2, row 1; `ORC-RYQY2N5FQS` |  |
+| LaC2 | [LaC2](https://data.orchid-project.org/compounds/LaC2.html) | -50.3 kJ/mol-atom ± 5.3 | 298.15 | experimental | -15.461 (mp-aaaaadnb) | -16.27 (oqmd-1979286) | [1] Peng 2011; _cites Jackson 1963_ | Table 2, p. 2, row 7; `ORC-O47AGS3ZPY.a046ac` |  |
+| LaC2 | [LaC2](https://data.orchid-project.org/compounds/LaC2.html) | -29.7 kJ/mol-atom ± 8 | 298.15 | experimental | -15.461 (mp-aaaaadnb) | -16.27 (oqmd-1979286) | [1] Peng 2011; _cites Stearns 1971_ [doi](https://doi.org/10.1063/1.1674812) | Table 2, p. 2, row 6; `ORC-WXDYUNUKVR.54714a` |  |
+| LaC2 | [LaC2](https://data.orchid-project.org/compounds/LaC2.html) | -29.1 kJ/mol-atom ± 3.5 | 298.15 | experimental | -15.461 (mp-aaaaadnb) | -16.27 (oqmd-1979286) | [1] Peng 2011; _cites Anderson 2011_ | Table 2, p. 2, row 5; `ORC-W4XUUAX3WJ.32c0d3` |  |
+| LaC2 | [LaC2](https://data.orchid-project.org/compounds/LaC2.html) | -27.2 kJ/mol-atom ± 1.4 | 298.15 | experimental | -15.461 (mp-aaaaadnb) | -16.27 (oqmd-1979286) | [1] Peng 2011; _cites Meschel 1994_ [doi](https://doi.org/10.1016/0925-8388%2894%2990783-8) | Table 2, p. 2, row 4; `ORC-ZCHDPBOWWR.c67de5` |  |
+| LaC2 | [LaC2](https://data.orchid-project.org/compounds/LaC2.html) | -26.5 kJ/mol-atom | 298.15 | experimental | -15.461 (mp-aaaaadnb) | -16.27 (oqmd-1979286) | [1] Peng 2011; _cites Faircloth 1968_ [doi](https://doi.org/10.1016/0022-1902%2868%2980476-2) | Table 2, p. 2, row 3; `ORC-6SLPF675OA` |  |
+| LaC2 | [LaC2](https://data.orchid-project.org/compounds/LaC2.html) | -19.5 kJ/mol-atom ± 3.4 | 298.15 | experimental | -15.461 (mp-aaaaadnb) | -16.27 (oqmd-1979286) | [1] Peng 2011; _cites Vidhya 2001_ [doi](https://doi.org/10.1016/s0022-3115%2801%2900536-0) | Table 2, p. 2, row 2; `ORC-KHHBFCTQM4.05e5f4` |  |
 
 ## Other properties
 
@@ -62,11 +62,11 @@ Table: Crystal structure, C–La system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 6.01 Å |  | β LaC2; _alloy: La 0.333333_ | experimental | [1] Peng 2011; _cites Bowman 1968_ [doi](https://doi.org/10.1107/s0567740868002566) | Table 1, p. 2, row 6 |  |
-| Lattice a | 8.81 Å | 298.15 | La2C3; _alloy: La 0.4_ | unspecified | [1] Peng 2011; _cites Wang 2005_ | Table 1, p. 2, row 4 |  |
-| Lattice a | 3.93 Å | 298.15 | α LaC2; _alloy: La 0.333333_ | experimental | [1] Peng 2011; _cites Jones 1991_ [doi](https://doi.org/10.1016/0022-4596%2891%2990338-i) | Table 1, p. 2, row 5 |  |
-| Lattice c | 4.98 Å |  | β LaC2; _alloy: La 0.333333_ | experimental | [1] Peng 2011; _cites Bowman 1968_ [doi](https://doi.org/10.1107/s0567740868002566) | Table 1, p. 2, row 6 |  |
-| Lattice c | 6.58 Å | 298.15 | α LaC2; _alloy: La 0.333333_ | experimental | [1] Peng 2011; _cites Jones 1991_ [doi](https://doi.org/10.1016/0022-4596%2891%2990338-i) | Table 1, p. 2, row 5 |  |
+| Lattice a | 6.01 Å |  | β LaC2; _alloy: La 0.333333_ | experimental | [1] Peng 2011; _cites Bowman 1968_ [doi](https://doi.org/10.1107/s0567740868002566) | Table 1, p. 2, row 6; `ORC-XR3FBNISGJ.2b145f` |  |
+| Lattice a | 8.81 Å | 298.15 | La2C3; _alloy: La 0.4_ | unspecified | [1] Peng 2011; _cites Wang 2005_ | Table 1, p. 2, row 4; `ORC-KDSHUMHJ67` |  |
+| Lattice a | 3.93 Å | 298.15 | α LaC2; _alloy: La 0.333333_ | experimental | [1] Peng 2011; _cites Jones 1991_ [doi](https://doi.org/10.1016/0022-4596%2891%2990338-i) | Table 1, p. 2, row 5; `ORC-KFFV5DC5EF.bf89ce` |  |
+| Lattice c | 4.98 Å |  | β LaC2; _alloy: La 0.333333_ | experimental | [1] Peng 2011; _cites Bowman 1968_ [doi](https://doi.org/10.1107/s0567740868002566) | Table 1, p. 2, row 6; `ORC-XR3FBNISGJ.0407cd` |  |
+| Lattice c | 6.58 Å | 298.15 | α LaC2; _alloy: La 0.333333_ | experimental | [1] Peng 2011; _cites Jones 1991_ [doi](https://doi.org/10.1016/0022-4596%2891%2990338-i) | Table 1, p. 2, row 5; `ORC-KFFV5DC5EF.2d3f95` |  |
 
 ## Sources
 
@@ -120,4 +120,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

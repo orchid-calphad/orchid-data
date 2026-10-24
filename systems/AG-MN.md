@@ -50,12 +50,12 @@ Table: Invariant reactions reported in the literature for the Ag–Mn system (6)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1480.15 | monotectic: L2 -> L1 + (δMn) | L2: Mn 0.948; L1: Mn 0.524; (δMn): Mn 0.988 | model | [1] Karakaya 1990 | Table I, p. 3, row 6 |  |
-| 1401.15 | metatectic/catatectic: (δMn) -> L1 + (γMn) | (δMn): Mn 0.991; L1: Mn 0.463; (γMn): Mn 0.993 | model | [1] Karakaya 1990 | Table I, p. 3, row 5 |  |
-| 1342.15 | metatectic/catatectic: (γMn) -> L1 + (βMn) | (γMn): Mn 0.994; L1: Mn 0.426; (βMn): Mn 0.996 | model | [1] Karakaya 1990 | Table I, p. 3, row 4 |  |
-| 1262.15 | peritectic: L1 -> (Ag) + (βMn) | L1: Mn 0.38; (Ag): Mn 0.436; (βMn): Mn 0.996 | model | [1] Karakaya 1990 | Table I, p. 3, row 3 |  |
-| 1235.08 | congruent melting: L -> Ag | L: Mn 0; Ag: Mn 0 | model | [1] Karakaya 1990 | Table I, p. 3, row 1 |  |
-| 997.15 | eutectoid: (βMn) -> (Ag) + (αMn) | (βMn): Mn 0.999; (Ag): Mn 0.317; (αMn): Mn 1 | model | [1] Karakaya 1990 | Table I, p. 3, row 2 |  |
+| 1480.15 | monotectic: L2 -> L1 + (δMn) | L2: Mn 0.948; L1: Mn 0.524; (δMn): Mn 0.988 | model | [1] Karakaya 1990 | Table I, p. 3, row 6; `ORC-OXFQVXMHFJ` |  |
+| 1401.15 | metatectic/catatectic: (δMn) -> L1 + (γMn) | (δMn): Mn 0.991; L1: Mn 0.463; (γMn): Mn 0.993 | model | [1] Karakaya 1990 | Table I, p. 3, row 5; `ORC-XIB3RSBWO6` |  |
+| 1342.15 | metatectic/catatectic: (γMn) -> L1 + (βMn) | (γMn): Mn 0.994; L1: Mn 0.426; (βMn): Mn 0.996 | model | [1] Karakaya 1990 | Table I, p. 3, row 4; `ORC-GR4XMKVENV` |  |
+| 1262.15 | peritectic: L1 -> (Ag) + (βMn) | L1: Mn 0.38; (Ag): Mn 0.436; (βMn): Mn 0.996 | model | [1] Karakaya 1990 | Table I, p. 3, row 3; `ORC-I6VQ2LDJS2` |  |
+| 1235.08 | congruent melting: L -> Ag | L: Mn 0; Ag: Mn 0 | model | [1] Karakaya 1990 | Table I, p. 3, row 1; `ORC-XCAMRXOPF6` |  |
+| 997.15 | eutectoid: (βMn) -> (Ag) + (αMn) | (βMn): Mn 0.999; (Ag): Mn 0.317; (αMn): Mn 1 | model | [1] Karakaya 1990 | Table I, p. 3, row 2; `ORC-LCZH7TXOAF` |  |
 
 ## Other properties
 
@@ -65,18 +65,18 @@ Table: Crystal structure, Ag–Mn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 4.08606 Å | 848.15 | (Ag); _(Ag): Ag 0.9792, Mn 0.0208_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 4 |  |
-| Lattice a | 4.08602 Å | 848.15 | (Ag); _(Ag): Ag 0.9541, Mn 0.0459_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 5 |  |
-| Lattice a | 4.08606 Å | 848.15 | (Ag); _(Ag): Ag 0.9511, Mn 0.0489_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 6 |  |
-| Lattice a | 4.078 Å | 1173.15 | (Ag); _(Ag): Ag 0.925, Mn 0.075_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 7 |  |
-| Lattice a | 4.08605 Å | 1173.15 | (Ag); _(Ag): Ag 0.9819, Mn 0.0181_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 3 |  |
-| Lattice a | 4.073 Å | 1173.15 | (Ag); _(Ag): Ag 0.85, Mn 0.15_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 8 |  |
-| lattice unspecified axis | 4.08606 Å | 848.15 | (Ag); _(Ag): Ag 0.9792, Mn 0.0208_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 4 |  |
-| lattice unspecified axis | 4.08602 Å | 848.15 | (Ag); _(Ag): Ag 0.9541, Mn 0.0459_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 5 |  |
-| lattice unspecified axis | 4.08606 Å | 848.15 | (Ag); _(Ag): Ag 0.9511, Mn 0.0489_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 6 |  |
-| lattice unspecified axis | 4.078 Å | 1173.15 | (Ag); _(Ag): Ag 0.925, Mn 0.075_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 7 |  |
-| lattice unspecified axis | 4.08605 Å | 1173.15 | (Ag); _(Ag): Ag 0.9819, Mn 0.0181_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 3 |  |
-| lattice unspecified axis | 4.073 Å | 1173.15 | (Ag); _(Ag): Ag 0.85, Mn 0.15_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 8 |  |
+| Lattice a | 4.08606 Å | 848.15 | (Ag); _(Ag): Ag 0.9792, Mn 0.0208_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 4; `ORC-EDKIMJE3BJ.87a45c` |  |
+| Lattice a | 4.08602 Å | 848.15 | (Ag); _(Ag): Ag 0.9541, Mn 0.0459_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 5; `ORC-M3FWOPTKJL.104894` |  |
+| Lattice a | 4.08606 Å | 848.15 | (Ag); _(Ag): Ag 0.9511, Mn 0.0489_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 6; `ORC-UMQCX4AYSU.d97ff3` |  |
+| Lattice a | 4.078 Å | 1173.15 | (Ag); _(Ag): Ag 0.925, Mn 0.075_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 7; `ORC-KANLZLMGBF.301610` |  |
+| Lattice a | 4.08605 Å | 1173.15 | (Ag); _(Ag): Ag 0.9819, Mn 0.0181_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 3; `ORC-LIXYLGEXQC.57717c` |  |
+| Lattice a | 4.073 Å | 1173.15 | (Ag); _(Ag): Ag 0.85, Mn 0.15_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 8; `ORC-Y4LFZRT4I7.82f0c6` |  |
+| lattice unspecified axis | 4.08606 Å | 848.15 | (Ag); _(Ag): Ag 0.9792, Mn 0.0208_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 4; `ORC-EDKIMJE3BJ.b71619` |  |
+| lattice unspecified axis | 4.08602 Å | 848.15 | (Ag); _(Ag): Ag 0.9541, Mn 0.0459_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 5; `ORC-M3FWOPTKJL.b3eb0e` |  |
+| lattice unspecified axis | 4.08606 Å | 848.15 | (Ag); _(Ag): Ag 0.9511, Mn 0.0489_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 6; `ORC-UMQCX4AYSU.717d86` |  |
+| lattice unspecified axis | 4.078 Å | 1173.15 | (Ag); _(Ag): Ag 0.925, Mn 0.075_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 7; `ORC-KANLZLMGBF.c82917` |  |
+| lattice unspecified axis | 4.08605 Å | 1173.15 | (Ag); _(Ag): Ag 0.9819, Mn 0.0181_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 3; `ORC-LIXYLGEXQC.296d45` |  |
+| lattice unspecified axis | 4.073 Å | 1173.15 | (Ag); _(Ag): Ag 0.85, Mn 0.15_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 8; `ORC-Y4LFZRT4I7.879ccb` |  |
 
 ## Sources
 
@@ -141,4 +141,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

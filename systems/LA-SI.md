@@ -90,32 +90,32 @@ Table: Invariant reactions reported in the literature for the La–Si system (26
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2003 | congruent melting: L -> LaSi2-α1 | L: Si 0.633; LaSi2-α1: Si 0.633 | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 3, p. 5, row 16 |  |
-| 2000 | congruent melting: L -> LaSi2-α1 | L: Si 0.64; LaSi2-α1: Si 0.64 | model | [1] Zhou 2010 | Table 3, p. 5, row 17 |  |
-| 1899 | congruent melting: L -> LaSi | L: Si 0.5; LaSi: La 0.5, Si 0.5 | model | [1] Zhou 2010 | Table 3, p. 5, row 13 |  |
-| 1893 | congruent melting: L -> LaSi | L: Si 0.5; LaSi: La 0.5, Si 0.5 | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 3, p. 5, row 12 |  |
-| 1873 | peritectic: L + LaSi2-α1 -> LaSi2-α2 |  | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 3, p. 5, row 18 |  |
-| 1873 | peritectic |  | experimental | [1] Zhou 2010 | p. 2 | “While La5 Si3 , La3 Si2 , La5 Si4 and LaSi2-a2 are formed by peritectic reactions at 1533, 1743, 1843 and ∼1873 K, respectively.” |
-| 1873 | peritectic: L + LaSi2-α1 -> LaSi2-α2 | L: Si 0.7096 | model | [1] Zhou 2010 | Table 3, p. 5, row 19 |  |
-| 1843.15 | peritectic |  | experimental | [2] Xu 2020 | p. 2 | “The La5Si3, La3Si2, and La5Si4 phases formed by peritectic reactions at 1260°C, 1470°C, and 1570°C, respectively, while the LaSi phase melted congruently at 1625 oC.” |
-| 1843 | peritectic: L + LaSi -> La5Si4 | LaSi: La 0.5, Si 0.5; La5Si4: La 0.555556, Si 0.444444 | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 3, p. 5, row 10 |  |
-| 1834 | peritectic: L + LaSi -> La5Si4 | L: Si 0.4443; LaSi: La 0.5, Si 0.5; La5Si4: La 0.555556, Si 0.444444 | model | [1] Zhou 2010 | Table 3, p. 5, row 11 |  |
-| 1820 | eutectic: L -> LaSi + LaSi2-α1 | L: Si 0.5599; LaSi: La 0.5, Si 0.5 | model | [1] Zhou 2010 | Table 3, p. 5, row 15 |  |
-| 1801 | eutectic: L -> LaSi + LaSi2-α1 | L: Si 0.555; LaSi: La 0.5, Si 0.5 | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 3, p. 5, row 14 |  |
-| 1743.15 | peritectic |  | experimental | [2] Xu 2020 | p. 2 | “The La5Si3, La3Si2, and La5Si4 phases formed by peritectic reactions at 1260°C, 1470°C, and 1570°C, respectively, while the LaSi phase melted congruently at 1625 oC.” |
-| 1743 | peritectic: L + La5Si4 -> La3Si2 | L: Si 0.3773; La5Si4: La 0.555556, Si 0.444444; La3Si2: La 0.6, Si 0.4 | model | [1] Zhou 2010 | Table 3, p. 5, row 9 |  |
-| 1743 | peritectic: L + La5Si4 -> La3Si2 | La5Si4: La 0.555556, Si 0.444444; La3Si2: La 0.6, Si 0.4 | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 3, p. 5, row 8 |  |
-| 1533.15 | peritectic |  | experimental | [2] Xu 2020 | p. 2 | “The La5Si3, La3Si2, and La5Si4 phases formed by peritectic reactions at 1260°C, 1470°C, and 1570°C, respectively, while the LaSi phase melted congruently at 1625 oC.” |
-| 1533 | peritectic: L + La3Si2 -> La5Si3 | La3Si2: La 0.6, Si 0.4; La5Si3: La 0.625, Si 0.375 | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 3, p. 5, row 6 |  |
-| 1533 | peritectic: L + La3Si2 -> La5Si3 | L: Si 0.2879; La3Si2: La 0.6, Si 0.4; La5Si3: La 0.625, Si 0.375 | model | [1] Zhou 2010 | Table 3, p. 5, row 7 |  |
-| 1478 | eutectic: L -> LaSi2-α2 + Diamond(Si) | L: Si 0.82 | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 3, p. 5, row 20 |  |
-| 1477 | eutectic: L -> LaSi2-α2 + Diamond(Si) | L: Si 0.8166 | model | [1] Zhou 2010 | Table 3, p. 5, row 21 |  |
-| 1088 | metatectic/catatectic: BCC -> FCC + L |  | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 3, p. 5, row 1 |  |
-| 1088 | metatectic/catatectic: BCC -> FCC + L | L: Si 0.07461 | model | [1] Zhou 2010 | Table 3, p. 5, row 2 |  |
-| 1083.15 | eutectic: L⇌ (C) + SiC + La3Si2C2 |  | model | [2] Xu 2020 | p. 9 | “During sintering processes, RE3Si2C2 will react with SiC and transform into liquid via different ternary eutectic reactions: L⇌ (C) + SiC + La3Si2C2 at 810°C, L⇌(C) + SiC + Ce3Si2C2 at 747°C, and L⇌(C) + SiC + Pr3Si2C2 at 1148°C respectively.” |
-| 995 | eutectic: L -> FCC + La5Si3 | L: Si 0.11; La5Si3: La 0.625, Si 0.375 | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 3, p. 5, row 3 |  |
-| 995 | eutectic: L -> FCC + La5Si3 | L: Si 0.121; La5Si3: La 0.625, Si 0.375 | model | [1] Zhou 2010 | Table 3, p. 5, row 4 |  |
-| 540 | eutectoid: FCC -> La5Si3 + DHCP | La5Si3: La 0.625, Si 0.375 | model | [1] Zhou 2010 | Table 3, p. 5, row 5 |  |
+| 2003 | congruent melting: L -> LaSi2-α1 | L: Si 0.633; LaSi2-α1: Si 0.633 | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 3, p. 5, row 16; `ORC-A2FJWED3S3` |  |
+| 2000 | congruent melting: L -> LaSi2-α1 | L: Si 0.64; LaSi2-α1: Si 0.64 | model | [1] Zhou 2010 | Table 3, p. 5, row 17; `ORC-4HU373IK4Q` |  |
+| 1899 | congruent melting: L -> LaSi | L: Si 0.5; LaSi: La 0.5, Si 0.5 | model | [1] Zhou 2010 | Table 3, p. 5, row 13; `ORC-OSDZJTCJHH` |  |
+| 1893 | congruent melting: L -> LaSi | L: Si 0.5; LaSi: La 0.5, Si 0.5 | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 3, p. 5, row 12; `ORC-6JYMRTPAHS` |  |
+| 1873 | peritectic: L + LaSi2-α1 -> LaSi2-α2 |  | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 3, p. 5, row 18; `ORC-EQJBHNMGYT` |  |
+| 1873 | peritectic |  | experimental | [1] Zhou 2010 | p. 2; `ORC-F3CY76YIVS` | “While La5 Si3 , La3 Si2 , La5 Si4 and LaSi2-a2 are formed by peritectic reactions at 1533, 1743, 1843 and ∼1873 K, respectively.” |
+| 1873 | peritectic: L + LaSi2-α1 -> LaSi2-α2 | L: Si 0.7096 | model | [1] Zhou 2010 | Table 3, p. 5, row 19; `ORC-U3K356MOFC` |  |
+| 1843.15 | peritectic |  | experimental | [2] Xu 2020 | p. 2; `ORC-46LOCBAEBC.5e9a0d` | “The La5Si3, La3Si2, and La5Si4 phases formed by peritectic reactions at 1260°C, 1470°C, and 1570°C, respectively, while the LaSi phase melted congruently at 1625 oC.” |
+| 1843 | peritectic: L + LaSi -> La5Si4 | LaSi: La 0.5, Si 0.5; La5Si4: La 0.555556, Si 0.444444 | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 3, p. 5, row 10; `ORC-562QMRPTMO` |  |
+| 1834 | peritectic: L + LaSi -> La5Si4 | L: Si 0.4443; LaSi: La 0.5, Si 0.5; La5Si4: La 0.555556, Si 0.444444 | model | [1] Zhou 2010 | Table 3, p. 5, row 11; `ORC-MCJPH5ALSG` |  |
+| 1820 | eutectic: L -> LaSi + LaSi2-α1 | L: Si 0.5599; LaSi: La 0.5, Si 0.5 | model | [1] Zhou 2010 | Table 3, p. 5, row 15; `ORC-Y6TLN4MCLU` |  |
+| 1801 | eutectic: L -> LaSi + LaSi2-α1 | L: Si 0.555; LaSi: La 0.5, Si 0.5 | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 3, p. 5, row 14; `ORC-KBADJ47MLZ` |  |
+| 1743.15 | peritectic |  | experimental | [2] Xu 2020 | p. 2; `ORC-46LOCBAEBC.6d415b` | “The La5Si3, La3Si2, and La5Si4 phases formed by peritectic reactions at 1260°C, 1470°C, and 1570°C, respectively, while the LaSi phase melted congruently at 1625 oC.” |
+| 1743 | peritectic: L + La5Si4 -> La3Si2 | L: Si 0.3773; La5Si4: La 0.555556, Si 0.444444; La3Si2: La 0.6, Si 0.4 | model | [1] Zhou 2010 | Table 3, p. 5, row 9; `ORC-5FRECVQDWN` |  |
+| 1743 | peritectic: L + La5Si4 -> La3Si2 | La5Si4: La 0.555556, Si 0.444444; La3Si2: La 0.6, Si 0.4 | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 3, p. 5, row 8; `ORC-VHDZKLQKDC` |  |
+| 1533.15 | peritectic |  | experimental | [2] Xu 2020 | p. 2; `ORC-46LOCBAEBC.bbee4b` | “The La5Si3, La3Si2, and La5Si4 phases formed by peritectic reactions at 1260°C, 1470°C, and 1570°C, respectively, while the LaSi phase melted congruently at 1625 oC.” |
+| 1533 | peritectic: L + La3Si2 -> La5Si3 | La3Si2: La 0.6, Si 0.4; La5Si3: La 0.625, Si 0.375 | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 3, p. 5, row 6; `ORC-CQVQU7HEN5` |  |
+| 1533 | peritectic: L + La3Si2 -> La5Si3 | L: Si 0.2879; La3Si2: La 0.6, Si 0.4; La5Si3: La 0.625, Si 0.375 | model | [1] Zhou 2010 | Table 3, p. 5, row 7; `ORC-ZNUW4ZGV5F` |  |
+| 1478 | eutectic: L -> LaSi2-α2 + Diamond(Si) | L: Si 0.82 | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 3, p. 5, row 20; `ORC-MWV4NKDUMF` |  |
+| 1477 | eutectic: L -> LaSi2-α2 + Diamond(Si) | L: Si 0.8166 | model | [1] Zhou 2010 | Table 3, p. 5, row 21; `ORC-XB5HMVJ43S` |  |
+| 1088 | metatectic/catatectic: BCC -> FCC + L |  | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 3, p. 5, row 1; `ORC-2BV3A7CKLM` |  |
+| 1088 | metatectic/catatectic: BCC -> FCC + L | L: Si 0.07461 | model | [1] Zhou 2010 | Table 3, p. 5, row 2; `ORC-6OPTK6STD6` |  |
+| 1083.15 | eutectic: L⇌ (C) + SiC + La3Si2C2 |  | model | [2] Xu 2020 | p. 9; `ORC-E46AGCGTYG.d6c9f2` | “During sintering processes, RE3Si2C2 will react with SiC and transform into liquid via different ternary eutectic reactions: L⇌ (C) + SiC + La3Si2C2 at 810°C, L⇌(C) + SiC + Ce3Si2C2 at 747°C, and L⇌(C) + SiC + Pr3Si2C2 at 1148°C respectively.” |
+| 995 | eutectic: L -> FCC + La5Si3 | L: Si 0.11; La5Si3: La 0.625, Si 0.375 | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 3, p. 5, row 3; `ORC-3OB4T3EYRR` |  |
+| 995 | eutectic: L -> FCC + La5Si3 | L: Si 0.121; La5Si3: La 0.625, Si 0.375 | model | [1] Zhou 2010 | Table 3, p. 5, row 4; `ORC-QXGVABD5HN` |  |
+| 540 | eutectoid: FCC -> La5Si3 + DHCP | La5Si3: La 0.625, Si 0.375 | model | [1] Zhou 2010 | Table 3, p. 5, row 5; `ORC-2HJR3YGUPD` |  |
 
 ## Other properties
 
@@ -125,12 +125,12 @@ Table: Phase transition, La–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1773.15 K | 1773.15 | other | experimental | [2] Xu 2020; _cites ref. 25_ | p. 2 | “The melting temperature of the LaSi2 phase was reported to be 1500°C,25 1520°C,26 and 1580°C27 respectively.” |
-| Phase transition | 1793.15 K | 1793.15 | other | experimental | [2] Xu 2020; _cites ref. 26_ | p. 2 | “The melting temperature of the LaSi2 phase was reported to be 1500°C,25 1520°C,26 and 1580°C27 respectively.” |
-| Phase transition | 1853.15 K | 1853.15 | other | experimental | [2] Xu 2020; _cites ref. 27_ | p. 2 | “The melting temperature of the LaSi2 phase was reported to be 1500°C,25 1520°C,26 and 1580°C27 respectively.” |
-| Phase transition | 1893 K | 1893 | congruent transformation | experimental | [1] Zhou 2010 | p. 2 | “Among them, LaSi and LaSi2-a1 melt congruently at 1893 and 2003 K.” |
-| Phase transition | 1898.15 K | 1898.15 | congruent transformation | experimental | [2] Xu 2020 | p. 2 | “The La5Si3, La3Si2, and La5Si4 phases formed by peritectic reactions at 1260°C, 1470°C, and 1570°C, respectively, while the LaSi phase melted congruently at 1625 oC.” |
-| Phase transition | 2003 K | 2003 | congruent transformation | experimental | [1] Zhou 2010 | p. 2 | “Among them, LaSi and LaSi2-a1 melt congruently at 1893 and 2003 K.” |
+| Phase transition | 1773.15 K | 1773.15 | other | experimental | [2] Xu 2020; _cites ref. 25_ | p. 2; `ORC-LPQP7IEJ4I.cd3a8b` | “The melting temperature of the LaSi2 phase was reported to be 1500°C,25 1520°C,26 and 1580°C27 respectively.” |
+| Phase transition | 1793.15 K | 1793.15 | other | experimental | [2] Xu 2020; _cites ref. 26_ | p. 2; `ORC-LPQP7IEJ4I.26840e` | “The melting temperature of the LaSi2 phase was reported to be 1500°C,25 1520°C,26 and 1580°C27 respectively.” |
+| Phase transition | 1853.15 K | 1853.15 | other | experimental | [2] Xu 2020; _cites ref. 27_ | p. 2; `ORC-LPQP7IEJ4I.bd8a28` | “The melting temperature of the LaSi2 phase was reported to be 1500°C,25 1520°C,26 and 1580°C27 respectively.” |
+| Phase transition | 1893 K | 1893 | congruent transformation | experimental | [1] Zhou 2010 | p. 2; `ORC-JTAKLJMTW3.e64251` | “Among them, LaSi and LaSi2-a1 melt congruently at 1893 and 2003 K.” |
+| Phase transition | 1898.15 K | 1898.15 | congruent transformation | experimental | [2] Xu 2020 | p. 2; `ORC-46LOCBAEBC.e44e66` | “The La5Si3, La3Si2, and La5Si4 phases formed by peritectic reactions at 1260°C, 1470°C, and 1570°C, respectively, while the LaSi phase melted congruently at 1625 oC.” |
+| Phase transition | 2003 K | 2003 | congruent transformation | experimental | [1] Zhou 2010 | p. 2; `ORC-JTAKLJMTW3.c6b26f` | “Among them, LaSi and LaSi2-a1 melt congruently at 1893 and 2003 K.” |
 
 ### Crystal structure (37)
 
@@ -138,43 +138,43 @@ Table: Crystal structure, La–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.7889 not_printed ± 2.000e-4 | 298.15 | La3Si2; _alloy: Si 0.4_ | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 1, p. 3, row 2 |  |
-| Lattice a | 0.7889 not_printed ± 2.000e-4 | 298.15 | La3Si2; _alloy: La 0.6, Si 0.4_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 3 |  |
-| Lattice a | 7.889 Å ± 0.002 | 298.15 | La3Si2; _alloy: La 0.6, Si 0.4_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 3 |  |
-| Lattice a | 7.98 Å ± 0.006 | 298.15 | La5Si3; _alloy: La 0.625, Si 0.375_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 1 |  |
-| Lattice a | 0.798 not_printed ± 6.000e-4 | 298.15 | La5Si3; _alloy: La 0.625, Si 0.375_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 1 |  |
-| Lattice a | 0.798 not_printed ± 6.000e-4 | 298.15 | La5Si3; _alloy: Si 0.375_ | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 1, p. 3, row 1 |  |
-| Lattice a | 0.8034 not_printed ± 2.000e-4 | 298.15 | La5Si4; _alloy: Si 0.444444_ | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 1, p. 3, row 3 |  |
-| Lattice a | 8.034 Å ± 0.002 | 298.15 | La5Si4; _alloy: La 0.555556, Si 0.444444_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 5 |  |
-| Lattice a | 0.8034 not_printed ± 2.000e-4 | 298.15 | La5Si4; _alloy: La 0.555556, Si 0.444444_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 5 |  |
-| Lattice a | 0.842 not_printed ± 2.000e-4 | 298.15 | LaSi; _alloy: Si 0.5_ | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 1, p. 3, row 4 |  |
-| Lattice a | 0.842 not_printed ± 6.000e-4 | 298.15 | LaSi; _alloy: La 0.5, Si 0.5_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 7 |  |
-| Lattice a | 8.42 Å ± 0.006 | 298.15 | LaSi; _alloy: La 0.5, Si 0.5_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 7 |  |
-| Lattice a | 4.251 Å ± 0.001 | 298.15 | LaSi2-a1; _alloy: La 0.333333, Si 0.666667_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 9 |  |
-| Lattice a | 0.4251 not_printed ± 1.000e-4 | 298.15 | LaSi2-a1; _alloy: La 0.333333, Si 0.666667_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 9 |  |
-| Lattice a | 4.265 Å ± 0.002 | 298.15 | LaSi2-a2; _alloy: La 0.333333, Si 0.666667_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 11 |  |
-| Lattice a | 0.4265 not_printed ± 2.000e-4 | 298.15 | LaSi2-a2; _alloy: La 0.333333, Si 0.666667_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 11 |  |
-| Lattice b | 0.4005 not_printed ± 1.000e-4 | 298.15 | LaSi; _alloy: Si 0.5_ | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 1, p. 3, row 4 |  |
-| Lattice b | 4.005 Å ± 0.001 | 298.15 | LaSi; _alloy: La 0.5, Si 0.5_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 7 |  |
-| Lattice b | 0.4005 not_printed ± 1.000e-4 | 298.15 | LaSi; _alloy: La 0.5, Si 0.5_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 7 |  |
-| Lattice b | 0.4155 not_printed ± 1.000e-4 | 298.15 | LaSi2-a1; _alloy: La 0.333333, Si 0.666667_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 9 |  |
-| Lattice b | 4.155 Å ± 0.001 | 298.15 | LaSi2-a1; _alloy: La 0.333333, Si 0.666667_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 9 |  |
-| Lattice c | 0.4424 not_printed ± 2.000e-4 | 298.15 | La3Si2; _alloy: Si 0.4_ | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 1, p. 3, row 2 |  |
-| Lattice c | 0.4424 not_printed ± 2.000e-4 | 298.15 | La3Si2; _alloy: La 0.6, Si 0.4_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 3 |  |
-| Lattice c | 4.424 Å ± 0.002 | 298.15 | La3Si2; _alloy: La 0.6, Si 0.4_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 3 |  |
-| Lattice c | 14.13 Å ± 0.01 | 298.15 | La5Si3; _alloy: La 0.625, Si 0.375_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 1 |  |
-| Lattice c | 1.413 not_printed ± 0.001 | 298.15 | La5Si3; _alloy: La 0.625, Si 0.375_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 1 |  |
-| Lattice c | 1.413 not_printed ± 0.001 | 298.15 | La5Si3; _alloy: Si 0.375_ | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 1, p. 3, row 1 |  |
-| Lattice c | 1.5407 not_printed ± 9.000e-4 | 298.15 | La5Si4; _alloy: Si 0.444444_ | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 1, p. 3, row 3 |  |
-| Lattice c | 15.407 Å ± 0.009 | 298.15 | La5Si4; _alloy: La 0.555556, Si 0.444444_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 5 |  |
-| Lattice c | 1.5407 not_printed ± 9.000e-4 | 298.15 | La5Si4; _alloy: La 0.555556, Si 0.444444_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 5 |  |
-| Lattice c | 0.6044 not_printed ± 1.000e-4 | 298.15 | LaSi; _alloy: Si 0.5_ | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 1, p. 3, row 4 |  |
-| Lattice c | 0.6044 not_printed ± 1.000e-4 | 298.15 | LaSi; _alloy: La 0.5, Si 0.5_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 7 |  |
-| Lattice c | 6.044 Å ± 0.001 | 298.15 | LaSi; _alloy: La 0.5, Si 0.5_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 7 |  |
-| Lattice c | 1.4076 not_printed ± 5.000e-4 | 298.15 | LaSi2-a1; _alloy: La 0.333333, Si 0.666667_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 9 |  |
-| Lattice c | 14.076 Å ± 0.005 | 298.15 | LaSi2-a1; _alloy: La 0.333333, Si 0.666667_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 9 |  |
-| Lattice c | 1.3922 not_printed ± 6.000e-4 | 298.15 | LaSi2-a2; _alloy: La 0.333333, Si 0.666667_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 11 |  |
-| Lattice c | 13.922 Å ± 0.006 | 298.15 | LaSi2-a2; _alloy: La 0.333333, Si 0.666667_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 11 |  |
+| Lattice a | 0.7889 not_printed ± 2.000e-4 | 298.15 | La3Si2; _alloy: Si 0.4_ | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 1, p. 3, row 2; `ORC-7425LJ6HKO.e23b67` |  |
+| Lattice a | 0.7889 not_printed ± 2.000e-4 | 298.15 | La3Si2; _alloy: La 0.6, Si 0.4_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 3; `ORC-WABP3WQQ7Y.703506` |  |
+| Lattice a | 7.889 Å ± 0.002 | 298.15 | La3Si2; _alloy: La 0.6, Si 0.4_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 3; `ORC-WABP3WQQ7Y.bb756d` |  |
+| Lattice a | 7.98 Å ± 0.006 | 298.15 | La5Si3; _alloy: La 0.625, Si 0.375_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 1; `ORC-J2MWOCBCLC.42fd66` |  |
+| Lattice a | 0.798 not_printed ± 6.000e-4 | 298.15 | La5Si3; _alloy: La 0.625, Si 0.375_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 1; `ORC-J2MWOCBCLC.7795ea` |  |
+| Lattice a | 0.798 not_printed ± 6.000e-4 | 298.15 | La5Si3; _alloy: Si 0.375_ | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 1, p. 3, row 1; `ORC-TL5FJFOUBK.21bc72` |  |
+| Lattice a | 0.8034 not_printed ± 2.000e-4 | 298.15 | La5Si4; _alloy: Si 0.444444_ | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 1, p. 3, row 3; `ORC-EDMUVRPXU6.ea2e2b` |  |
+| Lattice a | 8.034 Å ± 0.002 | 298.15 | La5Si4; _alloy: La 0.555556, Si 0.444444_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 5; `ORC-MI7YEG3ZJ2.4a723f` |  |
+| Lattice a | 0.8034 not_printed ± 2.000e-4 | 298.15 | La5Si4; _alloy: La 0.555556, Si 0.444444_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 5; `ORC-MI7YEG3ZJ2.f7cc5a` |  |
+| Lattice a | 0.842 not_printed ± 2.000e-4 | 298.15 | LaSi; _alloy: Si 0.5_ | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 1, p. 3, row 4; `ORC-6XN7GEADMC.f8f898` |  |
+| Lattice a | 0.842 not_printed ± 6.000e-4 | 298.15 | LaSi; _alloy: La 0.5, Si 0.5_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 7; `ORC-PACSVFZNSY.83a9e9` |  |
+| Lattice a | 8.42 Å ± 0.006 | 298.15 | LaSi; _alloy: La 0.5, Si 0.5_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 7; `ORC-PACSVFZNSY.98851b` |  |
+| Lattice a | 4.251 Å ± 0.001 | 298.15 | LaSi2-a1; _alloy: La 0.333333, Si 0.666667_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 9; `ORC-2K2RMADS47.362633` |  |
+| Lattice a | 0.4251 not_printed ± 1.000e-4 | 298.15 | LaSi2-a1; _alloy: La 0.333333, Si 0.666667_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 9; `ORC-2K2RMADS47.4ccd6a` |  |
+| Lattice a | 4.265 Å ± 0.002 | 298.15 | LaSi2-a2; _alloy: La 0.333333, Si 0.666667_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 11; `ORC-CZ2YOHJHS4.8add32` |  |
+| Lattice a | 0.4265 not_printed ± 2.000e-4 | 298.15 | LaSi2-a2; _alloy: La 0.333333, Si 0.666667_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 11; `ORC-CZ2YOHJHS4.b64605` |  |
+| Lattice b | 0.4005 not_printed ± 1.000e-4 | 298.15 | LaSi; _alloy: Si 0.5_ | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 1, p. 3, row 4; `ORC-6XN7GEADMC.b3cde5` |  |
+| Lattice b | 4.005 Å ± 0.001 | 298.15 | LaSi; _alloy: La 0.5, Si 0.5_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 7; `ORC-PACSVFZNSY.593917` |  |
+| Lattice b | 0.4005 not_printed ± 1.000e-4 | 298.15 | LaSi; _alloy: La 0.5, Si 0.5_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 7; `ORC-PACSVFZNSY.98e3b8` |  |
+| Lattice b | 0.4155 not_printed ± 1.000e-4 | 298.15 | LaSi2-a1; _alloy: La 0.333333, Si 0.666667_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 9; `ORC-2K2RMADS47.5d0c9f` |  |
+| Lattice b | 4.155 Å ± 0.001 | 298.15 | LaSi2-a1; _alloy: La 0.333333, Si 0.666667_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 9; `ORC-2K2RMADS47.74ac29` |  |
+| Lattice c | 0.4424 not_printed ± 2.000e-4 | 298.15 | La3Si2; _alloy: Si 0.4_ | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 1, p. 3, row 2; `ORC-7425LJ6HKO.ea3f14` |  |
+| Lattice c | 0.4424 not_printed ± 2.000e-4 | 298.15 | La3Si2; _alloy: La 0.6, Si 0.4_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 3; `ORC-WABP3WQQ7Y.47c09a` |  |
+| Lattice c | 4.424 Å ± 0.002 | 298.15 | La3Si2; _alloy: La 0.6, Si 0.4_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 3; `ORC-WABP3WQQ7Y.6d4cfe` |  |
+| Lattice c | 14.13 Å ± 0.01 | 298.15 | La5Si3; _alloy: La 0.625, Si 0.375_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 1; `ORC-J2MWOCBCLC.316692` |  |
+| Lattice c | 1.413 not_printed ± 0.001 | 298.15 | La5Si3; _alloy: La 0.625, Si 0.375_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 1; `ORC-J2MWOCBCLC.c210cf` |  |
+| Lattice c | 1.413 not_printed ± 0.001 | 298.15 | La5Si3; _alloy: Si 0.375_ | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 1, p. 3, row 1; `ORC-TL5FJFOUBK.47f66f` |  |
+| Lattice c | 1.5407 not_printed ± 9.000e-4 | 298.15 | La5Si4; _alloy: Si 0.444444_ | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 1, p. 3, row 3; `ORC-EDMUVRPXU6.377ebd` |  |
+| Lattice c | 15.407 Å ± 0.009 | 298.15 | La5Si4; _alloy: La 0.555556, Si 0.444444_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 5; `ORC-MI7YEG3ZJ2.024e9b` |  |
+| Lattice c | 1.5407 not_printed ± 9.000e-4 | 298.15 | La5Si4; _alloy: La 0.555556, Si 0.444444_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 5; `ORC-MI7YEG3ZJ2.897d48` |  |
+| Lattice c | 0.6044 not_printed ± 1.000e-4 | 298.15 | LaSi; _alloy: Si 0.5_ | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 1, p. 3, row 4; `ORC-6XN7GEADMC.388f1a` |  |
+| Lattice c | 0.6044 not_printed ± 1.000e-4 | 298.15 | LaSi; _alloy: La 0.5, Si 0.5_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 7; `ORC-PACSVFZNSY.622cc4` |  |
+| Lattice c | 6.044 Å ± 0.001 | 298.15 | LaSi; _alloy: La 0.5, Si 0.5_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 7; `ORC-PACSVFZNSY.968e9a` |  |
+| Lattice c | 1.4076 not_printed ± 5.000e-4 | 298.15 | LaSi2-a1; _alloy: La 0.333333, Si 0.666667_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 9; `ORC-2K2RMADS47.8ebcd3` |  |
+| Lattice c | 14.076 Å ± 0.005 | 298.15 | LaSi2-a1; _alloy: La 0.333333, Si 0.666667_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 9; `ORC-2K2RMADS47.fadfb2` |  |
+| Lattice c | 1.3922 not_printed ± 6.000e-4 | 298.15 | LaSi2-a2; _alloy: La 0.333333, Si 0.666667_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 11; `ORC-CZ2YOHJHS4.714972` |  |
+| Lattice c | 13.922 Å ± 0.006 | 298.15 | LaSi2-a2; _alloy: La 0.333333, Si 0.666667_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 11; `ORC-CZ2YOHJHS4.a8bd60` |  |
 
 ## Sources
 
@@ -240,4 +240,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

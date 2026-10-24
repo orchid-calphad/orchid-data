@@ -29,9 +29,9 @@ Table: Mixing / partial, Nb–O–Ta–V system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Partial enthalpy; _printed: ΔH° \[½O2(g) → MOx\]_ | -439 kJ/mol (basis unstated) | 1500 | UNKNOWN | unspecified | [1] Meisner 2022 | Table 3, p. 30, row 3 |  |
-| Partial enthalpy; _printed: ΔH° \[½O2(g) → MOx\]_ | -714 kJ/mol (basis unstated) | 1500 | UNKNOWN | unspecified | [1] Meisner 2022; _cites ref. 62_ | Table 3, p. 30, row 1 |  |
-| Partial enthalpy; _printed: ΔH° \[½O2(g) → MOx\]_ | -316 kJ/mol (basis unstated) | 1500 | UNKNOWN | unspecified | [1] Meisner 2022; _cites ref. 63_ | Table 3, p. 30, row 2 |  |
+| Partial enthalpy; _printed: ΔH° \[½O2(g) → MOx\]_ | -439 kJ/mol (basis unstated) | 1500 | UNKNOWN | unspecified | [1] Meisner 2022 | Table 3, p. 30, row 3; `ORC-KYUL565HQF.bebbd2` |  |
+| Partial enthalpy; _printed: ΔH° \[½O2(g) → MOx\]_ | -714 kJ/mol (basis unstated) | 1500 | UNKNOWN | unspecified | [1] Meisner 2022; _cites ref. 62_ | Table 3, p. 30, row 1; `ORC-L2SQJEPOMV.ce17f0` |  |
+| Partial enthalpy; _printed: ΔH° \[½O2(g) → MOx\]_ | -316 kJ/mol (basis unstated) | 1500 | UNKNOWN | unspecified | [1] Meisner 2022; _cites ref. 63_ | Table 3, p. 30, row 2; `ORC-OJ7QXVJ7HJ.01b4c0` |  |
 
 ### Heat capacity / entropy / enthalpy (3)
 
@@ -39,9 +39,9 @@ Table: Heat capacity / entropy / enthalpy, Nb–O–Ta–V system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: ΔS° \[½O2(g) → MOx\]_ | -73.5 J/mol | 1500 | UNKNOWN | unspecified | [1] Meisner 2022 | Table 3, p. 30, row 3 |  |
-| Entropy; _printed: ΔS° \[½O2(g) → MOx\]_ | -75.2 J/mol | 1500 | UNKNOWN | unspecified | [1] Meisner 2022; _cites ref. 62_ | Table 3, p. 30, row 1 |  |
-| Entropy; _printed: ΔS° \[½O2(g) → MOx\]_ | -76.4 J/mol | 1500 | UNKNOWN | unspecified | [1] Meisner 2022; _cites ref. 63_ | Table 3, p. 30, row 2 |  |
+| Entropy; _printed: ΔS° \[½O2(g) → MOx\]_ | -73.5 J/mol | 1500 | UNKNOWN | unspecified | [1] Meisner 2022 | Table 3, p. 30, row 3; `ORC-KYUL565HQF.6f1d22` |  |
+| Entropy; _printed: ΔS° \[½O2(g) → MOx\]_ | -75.2 J/mol | 1500 | UNKNOWN | unspecified | [1] Meisner 2022; _cites ref. 62_ | Table 3, p. 30, row 1; `ORC-L2SQJEPOMV.e4a43a` |  |
+| Entropy; _printed: ΔS° \[½O2(g) → MOx\]_ | -76.4 J/mol | 1500 | UNKNOWN | unspecified | [1] Meisner 2022; _cites ref. 63_ | Table 3, p. 30, row 2; `ORC-OJ7QXVJ7HJ.aab692` |  |
 
 ## Sources
 
@@ -84,4 +84,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

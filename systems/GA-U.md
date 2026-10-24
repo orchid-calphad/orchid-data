@@ -68,34 +68,34 @@ Table: Invariant reactions reported in the literature for the Ga–U system (28)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1628.15 | congruent melting: L -> Ga2U | L: Ga 0.667; Ga2U: Ga 0.666667, U 0.333333 | unspecified | [1] Wang 2008 | Table 3, p. 5, row 6 |  |
-| 1628.15 | congruent melting: L -> Ga2U | L: Ga 0.667; Ga2U: Ga 0.666667, U 0.333333 | experimental | [1] Wang 2008; _cites Buschow 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990140-9) | Table 3, p. 5, row 5 |  |
-| 1628 | liquidus |  | experimental | [2] Moussa 2018 | Table 3, p. 4, row 4 |  |
-| 1623 | liquidus |  | experimental | [2] Moussa 2018 | Table 3, p. 4, row 11 |  |
-| 1621 | liquidus |  | experimental | [2] Moussa 2018 | Table 3, p. 4, row 6 |  |
-| 1608 | liquidus |  | experimental | [2] Moussa 2018 | Table 3, p. 4, row 2 |  |
-| 1560 | UGa3 -> UGa2 + L | UGa3: Ga 0.75, U 0.25 (basis unresolved); UGa2: Ga 0.666667, U 0.333333 (basis unresolved) | experimental | [2] Moussa 2018 | Table 3, p. 4, row 1 |  |
-| 1548 | U3Ga5 -> UGa2 + L | U3Ga5: Ga 0.625, U 0.375 (basis unresolved); UGa2: Ga 0.666667, U 0.333333 (basis unresolved) | experimental | [2] Moussa 2018 | Table 3, p. 4, row 5 |  |
-| 1545 | U3Ga5 -> UGa2 + L | U3Ga5: Ga 0.625, U 0.375 (basis unresolved); UGa2: Ga 0.666667, U 0.333333 (basis unresolved) | experimental | [2] Moussa 2018 | Table 3, p. 4, row 3 |  |
-| 1533.15 | peritectic: L + Ga2U -> Ga3U2 | L: Ga 0.483; Ga2U: Ga 0.667; Ga3U2: Ga 0.6 | unspecified | [1] Wang 2008 | Table 3, p. 5, row 4 |  |
-| 1533.15 | peritectic: L + Ga2U -> Ga3U2 | L: Ga 0.445; Ga2U: Ga 0.667; Ga3U2: Ga 0.6 | experimental | [1] Wang 2008; _cites Buschow 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990140-9) | Table 3, p. 5, row 3 |  |
-| 1533 | peritectic: U-richest phase -> UGa2 + liquid |  | experimental | [2] Moussa 2018; _cites Buschow 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990140-9) | p. 2 | “According to \[15\] this U-richest phase has a peritectic decomposition at 1533 K yielding UGa2 and liquid.” |
-| 1523.15 | peritectic: L + Ga2U -> Ga3U | L: Ga 0.815; Ga2U: Ga 0.667; Ga3U: Ga 0.75 | experimental | [1] Wang 2008; _cites Buschow 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990140-9) | Table 3, p. 5, row 7 |  |
-| 1523.15 | peritectic: L + Ga2U -> Ga3U | L: Ga 0.815; Ga2U: Ga 0.667; Ga3U: Ga 0.75 | unspecified | [1] Wang 2008 | Table 3, p. 5, row 8 |  |
-| 1523 | peritectic: UGa3 -> UGa2 + L |  | experimental | [2] Moussa 2018; _cites Buschow 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990140-9) | p. 2 | “According to \[15\] it decomposes by peritectic reaction at 1523 K as UGa3 / UGa2 þ L.” |
-| 1509 | U3Ga5 -> UGa2 + L | U3Ga5: Ga 0.625, U 0.375 (basis unresolved); UGa2: Ga 0.666667, U 0.333333 (basis unresolved) | experimental | [2] Moussa 2018 | Table 3, p. 4, row 10 |  |
-| 1411 | liquidus |  | experimental | [2] Moussa 2018 | Table 3, p. 4, row 15 |  |
-| 1303.15 | eutectic: L -> γ (U) + Ga3U2 | L: Ga 0.214; γ (U): Ga 0.099; Ga3U2: Ga 0.6 | unspecified | [1] Wang 2008 | Table 3, p. 5, row 2 |  |
-| 1303.15 | eutectic: L -> γ (U) + Ga3U2 | L: Ga 0.22; γ (U): Ga 0.092; Ga3U2: Ga 0.6 | experimental | [1] Wang 2008; _cites Buschow 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990140-9) | Table 3, p. 5, row 1 |  |
-| 1303 | eutectic |  | experimental | [2] Moussa 2018; _cites Buschow 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990140-9) | p. 2 | “The liquidus was drawn by joining the experimental points measured by DTA \[15\] revealing an eutectic composition at about 22 at.% Ga with a melting point about 1303 K.” |
-| 1293 | U3Ga5 + γU -> L | U3Ga5: Ga 0.625, U 0.375 (basis unresolved) | experimental | [2] Moussa 2018 | Table 3, p. 4, row 14 |  |
-| 1009 | βU -> γU |  | experimental | [2] Moussa 2018 | Table 3, p. 4, row 8 |  |
-| 1008.15 | eutectoid: γ (U) -> Ga3U2 + β (U) | γ (U): Ga 0.01; Ga3U2: Ga 0.6; β (U): Ga 0.001 | experimental | [1] Wang 2008; _cites Buschow 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990140-9) | Table 3, p. 5, row 9 |  |
-| 1008 | βU -> γU |  | experimental | [2] Moussa 2018 | Table 3, p. 4, row 13 |  |
-| 1007.15 | eutectoid: γ (U) -> Ga3U2 + β (U) | γ (U): Ga 0.03; Ga3U2: Ga 0.6; β (U): Ga 0.001 | unspecified | [1] Wang 2008 | Table 3, p. 5, row 10 |  |
-| 933.15 | eutectoid: β (U) -> Ga3U2 + α (U) | β (U): Ga 5.000e-4; Ga3U2: Ga 0.6 | unspecified | [1] Wang 2008 | Table 3, p. 5, row 12 |  |
-| 933.15 | eutectoid: β (U) -> Ga3U2 + α (U) | Ga3U2: Ga 0.6 | experimental | [1] Wang 2008; _cites Buschow 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990140-9) | Table 3, p. 5, row 11 |  |
-| 932 | αU -> βU |  | experimental | [2] Moussa 2018 | Table 3, p. 4, row 7 |  |
+| 1628.15 | congruent melting: L -> Ga2U | L: Ga 0.667; Ga2U: Ga 0.666667, U 0.333333 | unspecified | [1] Wang 2008 | Table 3, p. 5, row 6; `ORC-4AZCCKAZML` |  |
+| 1628.15 | congruent melting: L -> Ga2U | L: Ga 0.667; Ga2U: Ga 0.666667, U 0.333333 | experimental | [1] Wang 2008; _cites Buschow 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990140-9) | Table 3, p. 5, row 5; `ORC-W3Z6CVFA6X` |  |
+| 1628 | liquidus |  | experimental | [2] Moussa 2018 | Table 3, p. 4, row 4; `ORC-UQWUF5ZDVW` |  |
+| 1623 | liquidus |  | experimental | [2] Moussa 2018 | Table 3, p. 4, row 11; `ORC-V5JARYXJ2I` |  |
+| 1621 | liquidus |  | experimental | [2] Moussa 2018 | Table 3, p. 4, row 6; `ORC-O2FADNNPNH` |  |
+| 1608 | liquidus |  | experimental | [2] Moussa 2018 | Table 3, p. 4, row 2; `ORC-WZRNLUENB4` |  |
+| 1560 | UGa3 -> UGa2 + L | UGa3: Ga 0.75, U 0.25 (basis unresolved); UGa2: Ga 0.666667, U 0.333333 (basis unresolved) | experimental | [2] Moussa 2018 | Table 3, p. 4, row 1; `ORC-PTURJRE7BQ` |  |
+| 1548 | U3Ga5 -> UGa2 + L | U3Ga5: Ga 0.625, U 0.375 (basis unresolved); UGa2: Ga 0.666667, U 0.333333 (basis unresolved) | experimental | [2] Moussa 2018 | Table 3, p. 4, row 5; `ORC-MIXHGPOU67` |  |
+| 1545 | U3Ga5 -> UGa2 + L | U3Ga5: Ga 0.625, U 0.375 (basis unresolved); UGa2: Ga 0.666667, U 0.333333 (basis unresolved) | experimental | [2] Moussa 2018 | Table 3, p. 4, row 3; `ORC-3IWASTEG5N` |  |
+| 1533.15 | peritectic: L + Ga2U -> Ga3U2 | L: Ga 0.483; Ga2U: Ga 0.667; Ga3U2: Ga 0.6 | unspecified | [1] Wang 2008 | Table 3, p. 5, row 4; `ORC-GQKV4LF5FD` |  |
+| 1533.15 | peritectic: L + Ga2U -> Ga3U2 | L: Ga 0.445; Ga2U: Ga 0.667; Ga3U2: Ga 0.6 | experimental | [1] Wang 2008; _cites Buschow 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990140-9) | Table 3, p. 5, row 3; `ORC-MBYS7ZCOAR` |  |
+| 1533 | peritectic: U-richest phase -> UGa2 + liquid |  | experimental | [2] Moussa 2018; _cites Buschow 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990140-9) | p. 2; `ORC-5VNQT377YG` | “According to \[15\] this U-richest phase has a peritectic decomposition at 1533 K yielding UGa2 and liquid.” |
+| 1523.15 | peritectic: L + Ga2U -> Ga3U | L: Ga 0.815; Ga2U: Ga 0.667; Ga3U: Ga 0.75 | experimental | [1] Wang 2008; _cites Buschow 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990140-9) | Table 3, p. 5, row 7; `ORC-6PRRACJLIZ` |  |
+| 1523.15 | peritectic: L + Ga2U -> Ga3U | L: Ga 0.815; Ga2U: Ga 0.667; Ga3U: Ga 0.75 | unspecified | [1] Wang 2008 | Table 3, p. 5, row 8; `ORC-W2SA2F5V6P` |  |
+| 1523 | peritectic: UGa3 -> UGa2 + L |  | experimental | [2] Moussa 2018; _cites Buschow 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990140-9) | p. 2; `ORC-E6X57PN4KQ` | “According to \[15\] it decomposes by peritectic reaction at 1523 K as UGa3 / UGa2 þ L.” |
+| 1509 | U3Ga5 -> UGa2 + L | U3Ga5: Ga 0.625, U 0.375 (basis unresolved); UGa2: Ga 0.666667, U 0.333333 (basis unresolved) | experimental | [2] Moussa 2018 | Table 3, p. 4, row 10; `ORC-BHMZECDBXK` |  |
+| 1411 | liquidus |  | experimental | [2] Moussa 2018 | Table 3, p. 4, row 15; `ORC-7GDGIU37FQ` |  |
+| 1303.15 | eutectic: L -> γ (U) + Ga3U2 | L: Ga 0.214; γ (U): Ga 0.099; Ga3U2: Ga 0.6 | unspecified | [1] Wang 2008 | Table 3, p. 5, row 2; `ORC-2W6XIAO72G` |  |
+| 1303.15 | eutectic: L -> γ (U) + Ga3U2 | L: Ga 0.22; γ (U): Ga 0.092; Ga3U2: Ga 0.6 | experimental | [1] Wang 2008; _cites Buschow 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990140-9) | Table 3, p. 5, row 1; `ORC-WQIIBZR5CQ` |  |
+| 1303 | eutectic |  | experimental | [2] Moussa 2018; _cites Buschow 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990140-9) | p. 2; `ORC-QURSODLIGC` | “The liquidus was drawn by joining the experimental points measured by DTA \[15\] revealing an eutectic composition at about 22 at.% Ga with a melting point about 1303 K.” |
+| 1293 | U3Ga5 + γU -> L | U3Ga5: Ga 0.625, U 0.375 (basis unresolved) | experimental | [2] Moussa 2018 | Table 3, p. 4, row 14; `ORC-PJTKP7ETM3` |  |
+| 1009 | βU -> γU |  | experimental | [2] Moussa 2018 | Table 3, p. 4, row 8; `ORC-WS3FY3PK7R` |  |
+| 1008.15 | eutectoid: γ (U) -> Ga3U2 + β (U) | γ (U): Ga 0.01; Ga3U2: Ga 0.6; β (U): Ga 0.001 | experimental | [1] Wang 2008; _cites Buschow 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990140-9) | Table 3, p. 5, row 9; `ORC-3FQMPSEWFS` |  |
+| 1008 | βU -> γU |  | experimental | [2] Moussa 2018 | Table 3, p. 4, row 13; `ORC-L2BKUDZ5BU` |  |
+| 1007.15 | eutectoid: γ (U) -> Ga3U2 + β (U) | γ (U): Ga 0.03; Ga3U2: Ga 0.6; β (U): Ga 0.001 | unspecified | [1] Wang 2008 | Table 3, p. 5, row 10; `ORC-HZBZJNGTRU` |  |
+| 933.15 | eutectoid: β (U) -> Ga3U2 + α (U) | β (U): Ga 5.000e-4; Ga3U2: Ga 0.6 | unspecified | [1] Wang 2008 | Table 3, p. 5, row 12; `ORC-5GW2ZYNJVZ` |  |
+| 933.15 | eutectoid: β (U) -> Ga3U2 + α (U) | Ga3U2: Ga 0.6 | experimental | [1] Wang 2008; _cites Buschow 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990140-9) | Table 3, p. 5, row 11; `ORC-IJJQA6O2O2` |  |
+| 932 | αU -> βU |  | experimental | [2] Moussa 2018 | Table 3, p. 4, row 7; `ORC-2R6CA7RA6I` |  |
 
 ## Other properties
 
@@ -105,8 +105,8 @@ Table: Phase transition, Ga–U system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 80 K | 80 | UGa2 | experimental | [2] Moussa 2018; _cites Andreev 1978_ | p. 2 | “It crystallizes with the hexagonal AlB2 type of structure as suggested by Buschow \[15\], latter confirmed by Ref. \[17\] at least down to 80 K, a temperature at which a hexagonal to orthorhombic transition associated to magnetic ordering is supposed to occur \[20\].” |
-| Phase transition | 1628 K | 1628 | congruent transformation | experimental | [2] Moussa 2018; _cites Buschow 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990140-9) | p. 2 | “This assumption is in disagreement with the DTA measurements \[15\], which does not show any transition below the congruent melting of UGa2 estimated at 1628 K and the crystallographic analysis of a single crystal directly grown from the melt which shows the AlB2 type of structure \[22\].” |
+| Phase transition | 80 K | 80 | UGa2 | experimental | [2] Moussa 2018; _cites Andreev 1978_ | p. 2; `ORC-D6ZK4QFQII` | “It crystallizes with the hexagonal AlB2 type of structure as suggested by Buschow \[15\], latter confirmed by Ref. \[17\] at least down to 80 K, a temperature at which a hexagonal to orthorhombic transition associated to magnetic ordering is supposed to occur \[20\].” |
+| Phase transition | 1628 K | 1628 | congruent transformation | experimental | [2] Moussa 2018; _cites Buschow 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990140-9) | p. 2; `ORC-FOCVCT7ROO` | “This assumption is in disagreement with the DTA measurements \[15\], which does not show any transition below the congruent melting of UGa2 estimated at 1628 K and the crystallographic analysis of a single crystal directly grown from the melt which shows the AlB2 type of structure \[22\].” |
 
 ### Phase equilibrium (17)
 
@@ -114,23 +114,23 @@ Table: Phase equilibrium, Ga–U system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase assemblage |  |  | U3Ga5; _alloy: Ga 0.43, U 0.57_ | experimental | [2] Moussa 2018 | Table 2, p. 4, row 2 |  |
-| Phase assemblage |  |  | U3Ga5; _alloy: Ga 0.46, U 0.54_ | experimental | [2] Moussa 2018 | Table 2, p. 4, row 4 |  |
-| Phase assemblage |  |  | U3Ga5; _alloy: Ga 0.6, U 0.4_ | experimental | [2] Moussa 2018 | Table 2, p. 4, row 6 |  |
-| Phase assemblage |  |  | U3Ga5; _alloy: Ga 0.61, U 0.39_ | experimental | [2] Moussa 2018 | Table 2, p. 4, row 8 |  |
-| Phase assemblage |  |  | UGa2; _alloy: Ga 0.61, U 0.39_ | experimental | [2] Moussa 2018 | Table 2, p. 4, row 9 |  |
-| Phase assemblage |  |  | αU; _alloy: Ga 0.46, U 0.54_ | experimental | [2] Moussa 2018 | Table 2, p. 4, row 3 |  |
-| Phase assemblage |  |  | αU; _alloy: Ga 0.43, U 0.57_ | experimental | [2] Moussa 2018 | Table 2, p. 4, row 1 |  |
-| Phase assemblage |  |  | αU; _alloy: Ga 0.61, U 0.39_ | experimental | [2] Moussa 2018 | Table 2, p. 4, row 7 |  |
-| Phase assemblage |  |  | αU; _alloy: Ga 0.6, U 0.4_ | experimental | [2] Moussa 2018 | Table 2, p. 4, row 5 |  |
-| Phase assemblage |  | 1150 | U3Ga5; _alloy: Ga 0.61, U 0.39_ | experimental | [2] Moussa 2018 | Table 2, p. 4, row 11 |  |
-| Phase assemblage |  | 1150 | UGa2; _alloy: Ga 0.61, U 0.39_ | experimental | [2] Moussa 2018 | Table 2, p. 4, row 12 |  |
-| Phase assemblage |  | 1150 | UGa3; _alloy: Ga 0.75, U 0.25_ | experimental | [2] Moussa 2018 | Table 2, p. 4, row 17 |  |
-| Phase assemblage |  | 1150 | αU; _alloy: Ga 0.61, U 0.39_ | experimental | [2] Moussa 2018 | Table 2, p. 4, row 10 |  |
-| Phase assemblage |  | 1500 | U3Ga5; _alloy: Ga 0.64, U 0.36_ | experimental | [2] Moussa 2018 | Table 2, p. 4, row 14 |  |
-| Phase assemblage |  | 1500 | UGa2; _alloy: Ga 0.7, U 0.3_ | experimental | [2] Moussa 2018 | Table 2, p. 4, row 16 |  |
-| Phase assemblage |  | 1500 | UGa2; _alloy: Ga 0.64, U 0.36_ | experimental | [2] Moussa 2018 | Table 2, p. 4, row 13 |  |
-| Phase assemblage |  | 1500 | UGa3; _alloy: Ga 0.7, U 0.3_ | experimental | [2] Moussa 2018 | Table 2, p. 4, row 15 |  |
+| Phase assemblage |  |  | U3Ga5; _alloy: Ga 0.43, U 0.57_ | experimental | [2] Moussa 2018 | Table 2, p. 4, row 2; `ORC-7FFLQIZNZZ` |  |
+| Phase assemblage |  |  | U3Ga5; _alloy: Ga 0.46, U 0.54_ | experimental | [2] Moussa 2018 | Table 2, p. 4, row 4; `ORC-HPLJA2BWWX` |  |
+| Phase assemblage |  |  | U3Ga5; _alloy: Ga 0.6, U 0.4_ | experimental | [2] Moussa 2018 | Table 2, p. 4, row 6; `ORC-TGPJNR3MPZ` |  |
+| Phase assemblage |  |  | U3Ga5; _alloy: Ga 0.61, U 0.39_ | experimental | [2] Moussa 2018 | Table 2, p. 4, row 8; `ORC-YHPUQ6YTBB` |  |
+| Phase assemblage |  |  | UGa2; _alloy: Ga 0.61, U 0.39_ | experimental | [2] Moussa 2018 | Table 2, p. 4, row 9; `ORC-4EFYZLOJXC` |  |
+| Phase assemblage |  |  | αU; _alloy: Ga 0.46, U 0.54_ | experimental | [2] Moussa 2018 | Table 2, p. 4, row 3; `ORC-2ZUZ4WE57Q` |  |
+| Phase assemblage |  |  | αU; _alloy: Ga 0.43, U 0.57_ | experimental | [2] Moussa 2018 | Table 2, p. 4, row 1; `ORC-43UCM4JUT6` |  |
+| Phase assemblage |  |  | αU; _alloy: Ga 0.61, U 0.39_ | experimental | [2] Moussa 2018 | Table 2, p. 4, row 7; `ORC-DDP2HRKEZT` |  |
+| Phase assemblage |  |  | αU; _alloy: Ga 0.6, U 0.4_ | experimental | [2] Moussa 2018 | Table 2, p. 4, row 5; `ORC-KYKNK3SHIQ` |  |
+| Phase assemblage |  | 1150 | U3Ga5; _alloy: Ga 0.61, U 0.39_ | experimental | [2] Moussa 2018 | Table 2, p. 4, row 11; `ORC-QXF2UV6J7J` |  |
+| Phase assemblage |  | 1150 | UGa2; _alloy: Ga 0.61, U 0.39_ | experimental | [2] Moussa 2018 | Table 2, p. 4, row 12; `ORC-OQJ3ALTJZ3` |  |
+| Phase assemblage |  | 1150 | UGa3; _alloy: Ga 0.75, U 0.25_ | experimental | [2] Moussa 2018 | Table 2, p. 4, row 17; `ORC-L7VMX7COK2` |  |
+| Phase assemblage |  | 1150 | αU; _alloy: Ga 0.61, U 0.39_ | experimental | [2] Moussa 2018 | Table 2, p. 4, row 10; `ORC-IZQGQ6RM7G` |  |
+| Phase assemblage |  | 1500 | U3Ga5; _alloy: Ga 0.64, U 0.36_ | experimental | [2] Moussa 2018 | Table 2, p. 4, row 14; `ORC-W2JQH25D6N` |  |
+| Phase assemblage |  | 1500 | UGa2; _alloy: Ga 0.7, U 0.3_ | experimental | [2] Moussa 2018 | Table 2, p. 4, row 16; `ORC-AFBZ2GP5OQ` |  |
+| Phase assemblage |  | 1500 | UGa2; _alloy: Ga 0.64, U 0.36_ | experimental | [2] Moussa 2018 | Table 2, p. 4, row 13; `ORC-R7R6H6VCOV` |  |
+| Phase assemblage |  | 1500 | UGa3; _alloy: Ga 0.7, U 0.3_ | experimental | [2] Moussa 2018 | Table 2, p. 4, row 15; `ORC-IFIETOGM6X` |  |
 
 ### Crystal structure (12)
 
@@ -138,18 +138,18 @@ Table: Crystal structure, Ga–U system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 9.442 not_printed ± 6.000e-4 | 1373 | U3Ga5; _alloy: U 0.375_ | experimental | [2] Moussa 2018 | Table 4, p. 5, row 1 |  |
-| Lattice a | 4.257 Å | 1523 (\<) | UGa3; _alloy: Ga 0.75, U 0.25_ | experimental | [2] Moussa 2018; _cites Frost 1953_ | Table 1, p. 3, row 11 |  |
-| Lattice a | 9.396 Å | 1533 (\<) | U3Ga5; _alloy: Ga 0.625, U 0.375_ | experimental | [2] Moussa 2018; _cites Dayan 1985_ [doi](https://doi.org/10.1016/0022-3115%2885%2990435-0) | Table 1, p. 3, row 9 |  |
-| Lattice a | 4.212 Å | 1629 (\<) | UGa2; _alloy: Ga 0.666667, U 0.333333_ | experimental | [2] Moussa 2018; _cites Buschow 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990140-9) | Table 1, p. 3, row 10 |  |
-| Lattice b | 7.6291 not_printed ± 5.000e-4 | 1373 | U3Ga5; _alloy: U 0.375_ | experimental | [2] Moussa 2018 | Table 4, p. 5, row 1 |  |
-| Lattice b | 4.257 Å | 1523 (\<) | UGa3; _alloy: Ga 0.75, U 0.25_ | experimental | [2] Moussa 2018; _cites Frost 1953_ | Table 1, p. 3, row 11 |  |
-| Lattice b | 7.575 Å | 1533 (\<) | U3Ga5; _alloy: Ga 0.625, U 0.375_ | experimental | [2] Moussa 2018; _cites Dayan 1985_ [doi](https://doi.org/10.1016/0022-3115%2885%2990435-0) | Table 1, p. 3, row 9 |  |
-| Lattice b | 4.212 Å | 1629 (\<) | UGa2; _alloy: Ga 0.666667, U 0.333333_ | experimental | [2] Moussa 2018; _cites Buschow 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990140-9) | Table 1, p. 3, row 10 |  |
-| Lattice c | 9.4486 not_printed ± 7.000e-4 | 1373 | U3Ga5; _alloy: U 0.375_ | experimental | [2] Moussa 2018 | Table 4, p. 5, row 1 |  |
-| Lattice c | 4.257 Å | 1523 (\<) | UGa3; _alloy: Ga 0.75, U 0.25_ | experimental | [2] Moussa 2018; _cites Frost 1953_ | Table 1, p. 3, row 11 |  |
-| Lattice c | 9.387 Å | 1533 (\<) | U3Ga5; _alloy: Ga 0.625, U 0.375_ | experimental | [2] Moussa 2018; _cites Dayan 1985_ [doi](https://doi.org/10.1016/0022-3115%2885%2990435-0) | Table 1, p. 3, row 9 |  |
-| Lattice c | 4.024 Å | 1629 (\<) | UGa2; _alloy: Ga 0.666667, U 0.333333_ | experimental | [2] Moussa 2018; _cites Buschow 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990140-9) | Table 1, p. 3, row 10 |  |
+| Lattice a | 9.442 not_printed ± 6.000e-4 | 1373 | U3Ga5; _alloy: U 0.375_ | experimental | [2] Moussa 2018 | Table 4, p. 5, row 1; `ORC-SUSP3LLV52.ddebbb` |  |
+| Lattice a | 4.257 Å | 1523 (\<) | UGa3; _alloy: Ga 0.75, U 0.25_ | experimental | [2] Moussa 2018; _cites Frost 1953_ | Table 1, p. 3, row 11; `ORC-YBILG6FDOB.fe3c2f` |  |
+| Lattice a | 9.396 Å | 1533 (\<) | U3Ga5; _alloy: Ga 0.625, U 0.375_ | experimental | [2] Moussa 2018; _cites Dayan 1985_ [doi](https://doi.org/10.1016/0022-3115%2885%2990435-0) | Table 1, p. 3, row 9; `ORC-BTAKQICBVC.287cfc` |  |
+| Lattice a | 4.212 Å | 1629 (\<) | UGa2; _alloy: Ga 0.666667, U 0.333333_ | experimental | [2] Moussa 2018; _cites Buschow 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990140-9) | Table 1, p. 3, row 10; `ORC-V5YGXNPD34.35484a` |  |
+| Lattice b | 7.6291 not_printed ± 5.000e-4 | 1373 | U3Ga5; _alloy: U 0.375_ | experimental | [2] Moussa 2018 | Table 4, p. 5, row 1; `ORC-SUSP3LLV52.e6de6d` |  |
+| Lattice b | 4.257 Å | 1523 (\<) | UGa3; _alloy: Ga 0.75, U 0.25_ | experimental | [2] Moussa 2018; _cites Frost 1953_ | Table 1, p. 3, row 11; `ORC-YBILG6FDOB.2af928` |  |
+| Lattice b | 7.575 Å | 1533 (\<) | U3Ga5; _alloy: Ga 0.625, U 0.375_ | experimental | [2] Moussa 2018; _cites Dayan 1985_ [doi](https://doi.org/10.1016/0022-3115%2885%2990435-0) | Table 1, p. 3, row 9; `ORC-BTAKQICBVC.612382` |  |
+| Lattice b | 4.212 Å | 1629 (\<) | UGa2; _alloy: Ga 0.666667, U 0.333333_ | experimental | [2] Moussa 2018; _cites Buschow 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990140-9) | Table 1, p. 3, row 10; `ORC-V5YGXNPD34.958c2e` |  |
+| Lattice c | 9.4486 not_printed ± 7.000e-4 | 1373 | U3Ga5; _alloy: U 0.375_ | experimental | [2] Moussa 2018 | Table 4, p. 5, row 1; `ORC-SUSP3LLV52.fc1f6c` |  |
+| Lattice c | 4.257 Å | 1523 (\<) | UGa3; _alloy: Ga 0.75, U 0.25_ | experimental | [2] Moussa 2018; _cites Frost 1953_ | Table 1, p. 3, row 11; `ORC-YBILG6FDOB.7e8471` |  |
+| Lattice c | 9.387 Å | 1533 (\<) | U3Ga5; _alloy: Ga 0.625, U 0.375_ | experimental | [2] Moussa 2018; _cites Dayan 1985_ [doi](https://doi.org/10.1016/0022-3115%2885%2990435-0) | Table 1, p. 3, row 9; `ORC-BTAKQICBVC.7f0850` |  |
+| Lattice c | 4.024 Å | 1629 (\<) | UGa2; _alloy: Ga 0.666667, U 0.333333_ | experimental | [2] Moussa 2018; _cites Buschow 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990140-9) | Table 1, p. 3, row 10; `ORC-V5YGXNPD34.0a58c5` |  |
 
 ## Sources
 
@@ -215,4 +215,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

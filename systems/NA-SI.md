@@ -54,9 +54,9 @@ Table: Phase transition, Na–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 885.15 K | 885.15 |  | experimental | [1] Hao 2012; _cites Morito 2009_ | p. 2 | “The LT-NaSi transforms to HT-NaSi (high temperature form of NaSi) at 612 °C \[12\].” |
-| Phase transition | 885.15 K | 885.15 | LT-NaSi + HT-NaSi | model | [1] Hao 2012 | p. 5 | “The Gibbs energy of the HT-NaSi phase is equal to that of the LT-NaSi phase at the transition temperature of 612 °C.” |
-| Phase transition | 1071.15 K | 1071.15 |  | experimental | [1] Hao 2012; _cites Morito 2009_ | p. 2 | “The melting point of NaSi was determined to be 798 °C \[12\].” |
+| Phase transition | 885.15 K | 885.15 |  | experimental | [1] Hao 2012; _cites Morito 2009_ | p. 2; `ORC-UIWT5PY7W2` | “The LT-NaSi transforms to HT-NaSi (high temperature form of NaSi) at 612 °C \[12\].” |
+| Phase transition | 885.15 K | 885.15 | LT-NaSi + HT-NaSi | model | [1] Hao 2012 | p. 5; `ORC-3LFZFS6N6S` | “The Gibbs energy of the HT-NaSi phase is equal to that of the LT-NaSi phase at the transition temperature of 612 °C.” |
+| Phase transition | 1071.15 K | 1071.15 |  | experimental | [1] Hao 2012; _cites Morito 2009_ | p. 2; `ORC-NMVRFVEUP6` | “The melting point of NaSi was determined to be 798 °C \[12\].” |
 
 ### Crystal structure (6)
 
@@ -64,12 +64,12 @@ Table: Crystal structure, Na–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 12.083 Å |  | UNKNOWN; _alloy: Na 0.5, Si 0.5_ | DFT | [1] Hao 2012 | Table 1, p. 5, row 6 |  |
-| Lattice a | 12.19 Å | 298.15 | UNKNOWN; _alloy: Na 0.5, Si 0.5_ | experimental | [1] Hao 2012; _cites Hohmann 1948_ | Table 1, p. 5, row 5 |  |
-| Lattice b | 6.553 Å |  | UNKNOWN; _alloy: Na 0.5, Si 0.5_ | DFT | [1] Hao 2012 | Table 1, p. 5, row 6 |  |
-| Lattice b | 6.55 Å | 298.15 | UNKNOWN; _alloy: Na 0.5, Si 0.5_ | experimental | [1] Hao 2012; _cites Hohmann 1948_ | Table 1, p. 5, row 5 |  |
-| Lattice c | 11.03 Å |  | UNKNOWN; _alloy: Na 0.5, Si 0.5_ | DFT | [1] Hao 2012 | Table 1, p. 5, row 6 |  |
-| Lattice c | 11.18 Å | 298.15 | UNKNOWN; _alloy: Na 0.5, Si 0.5_ | experimental | [1] Hao 2012; _cites Hohmann 1948_ | Table 1, p. 5, row 5 |  |
+| Lattice a | 12.083 Å |  | UNKNOWN; _alloy: Na 0.5, Si 0.5_ | DFT | [1] Hao 2012 | Table 1, p. 5, row 6; `ORC-X4KAZAK4O4.f873ba` |  |
+| Lattice a | 12.19 Å | 298.15 | UNKNOWN; _alloy: Na 0.5, Si 0.5_ | experimental | [1] Hao 2012; _cites Hohmann 1948_ | Table 1, p. 5, row 5; `ORC-I7K54ROIMN.18206b` |  |
+| Lattice b | 6.553 Å |  | UNKNOWN; _alloy: Na 0.5, Si 0.5_ | DFT | [1] Hao 2012 | Table 1, p. 5, row 6; `ORC-X4KAZAK4O4.1c9277` |  |
+| Lattice b | 6.55 Å | 298.15 | UNKNOWN; _alloy: Na 0.5, Si 0.5_ | experimental | [1] Hao 2012; _cites Hohmann 1948_ | Table 1, p. 5, row 5; `ORC-I7K54ROIMN.5a987a` |  |
+| Lattice c | 11.03 Å |  | UNKNOWN; _alloy: Na 0.5, Si 0.5_ | DFT | [1] Hao 2012 | Table 1, p. 5, row 6; `ORC-X4KAZAK4O4.ee2c4b` |  |
+| Lattice c | 11.18 Å | 298.15 | UNKNOWN; _alloy: Na 0.5, Si 0.5_ | experimental | [1] Hao 2012; _cites Hohmann 1948_ | Table 1, p. 5, row 5; `ORC-I7K54ROIMN.380749` |  |
 
 ## Sources
 
@@ -134,4 +134,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

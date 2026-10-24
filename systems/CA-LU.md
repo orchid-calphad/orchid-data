@@ -30,7 +30,7 @@ Table: Phase transition, Ca–Lu system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 433 K | 433 | CaO(s) + O2 (1 bar) = CaO2(s) | model | [1] Liang 2018; _cites Lindberg 2009_ [doi](https://doi.org/10.1016/j.jct.2009.04.018) | p. 7 | “That is close to the value of 311 K calculated from the FactPS database \[31\] and below the value of 433 K obtained by \[15\], who selected their thermodynamic data from \[62\], where the standard enthalpy of formation is more exothermic by 6.3 kJ·mol-1 compared to \[31\].” |
+| Phase transition | 433 K | 433 | CaO(s) + O2 (1 bar) = CaO2(s) | model | [1] Liang 2018; _cites Lindberg 2009_ [doi](https://doi.org/10.1016/j.jct.2009.04.018) | p. 7; `ORC-C7BZK7Z4FI` | “That is close to the value of 311 K calculated from the FactPS database \[31\] and below the value of 433 K obtained by \[15\], who selected their thermodynamic data from \[62\], where the standard enthalpy of formation is more exothermic by 6.3 kJ·mol-1 compared to \[31\].” |
 
 ## Sources
 
@@ -84,4 +84,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

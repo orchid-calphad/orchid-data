@@ -61,29 +61,29 @@ Table: Invariant reactions reported in the literature for the Ga–Li system (23
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 788 | Liquid + GaLi -> GaLi2 | Liquid: Li 0.715; GaLi: Li 0.58; GaLi2: Li 0.667 | experimental | [1] Yuan 2003; _cites Yatsenko 1973_ | Table 3, p. 6, row 12 |  |
-| 788 | Liquid + GaLi -> GaLi2 | Liquid: Li 0.78; GaLi: Li 0.58; GaLi2: Li 0.667 | model | [1] Yuan 2003 | Table 3, p. 6, row 11 |  |
-| 750 | GaLi + GaLi2 -> Ga2Li3 | GaLi: Li 0.56; GaLi2: Li 0.667; Ga2Li3: Li 0.6 | experimental | [1] Yuan 2003; _cites Yatsenko 1973_ | Table 3, p. 6, row 14 |  |
-| 750 | GaLi + GaLi2 -> Ga2Li3 | GaLi: Li 0.57; GaLi2: Li 0.667; Ga2Li3: Li 0.6 | model | [1] Yuan 2003 | Table 3, p. 6, row 13 |  |
-| 654.15 | peritectic |  | experimental | [1] Yuan 2003; _cites Tillard-Charbonnel 1998_ | p. 2 | “However, TillardCharbonnel and Belin \[17\] found new compounds: Ga6 Li instead of Ga14 Li3 , Ga8 Li3 and Ga9 Li5 , in the gallium-rich range by use of DTA and XRD, with the peritectic invariants at 74, 341, 381 °C respectively.” |
-| 654 | Liquid + GaLi -> Ga9Li5 | Liquid: Li 0.11; GaLi: Li 0.5; Ga9Li5: Li 0.357 | unspecified | [1] Yuan 2003; _cites Tillard-Charbonnel 1998_ | Table 3, p. 6, row 10 |  |
-| 654 | Liquid + GaLi -> Ga9Li5 | Liquid: Li 0.12; GaLi: Li 0.44; Ga9Li5: Li 0.357 | model | [1] Yuan 2003 | Table 3, p. 6, row 9 |  |
-| 614.15 | peritectic |  | experimental | [1] Yuan 2003; _cites Tillard-Charbonnel 1998_ | p. 2 | “However, TillardCharbonnel and Belin \[17\] found new compounds: Ga6 Li instead of Ga14 Li3 , Ga8 Li3 and Ga9 Li5 , in the gallium-rich range by use of DTA and XRD, with the peritectic invariants at 74, 341, 381 °C respectively.” |
-| 575 | Liquid + Ga9Li5 -> Ga7Li2 | Liquid: Li 0.08; Ga9Li5: Li 0.357; Ga7Li2: Li 0.222 | model | [1] Yuan 2003 | Table 3, p. 6, row 7 |  |
-| 575 | Liquid + Ga9Li5 -> Ga7Li2 | Liquid: Li 0.06; Ga9Li5: Li 0.357; Ga7Li2: Li 0.222 | unspecified | [1] Yuan 2003; _cites Tillard-Charbonnel 1998_ | Table 3, p. 6, row 8 |  |
-| 475 | GaLi + Ga2Li3 -> Ga4Li5 | GaLi: Li 0.5; Ga2Li3: Li 0.6; Ga4Li5: Li 0.556 | model | [1] Yuan 2003 | Table 3, p. 6, row 15 |  |
-| 441.15 | eutectic |  | experimental | [1] Yuan 2003; _cites Th 1970_ | p. 2 | “Another eutectic between (Li) and GaLi2 was obtained as 168 °C, 0.97 mol fraction of Li \[13\]; 167 °C, 0.93 mol fraction of Li \[14\].” |
-| 440.15 | eutectic |  | experimental | [1] Yuan 2003; _cites Yatsenko 1973_ | p. 2 | “Another eutectic between (Li) and GaLi2 was obtained as 168 °C, 0.97 mol fraction of Li \[13\]; 167 °C, 0.93 mol fraction of Li \[14\].” |
-| 440 | Liquid -> GaLi2 + (Li) | Liquid: Li 0.975; GaLi2: Li 0.667; (Li): Li 1 | experimental | [1] Yuan 2003; _cites Th 1970_ | Table 3, p. 6, row 4 |  |
-| 439 | Liquid -> GaLi2 + (Li) | Liquid: Li 0.979; GaLi2: Li 0.667; (Li): Li 1 | model | [1] Yuan 2003 | Table 3, p. 6, row 3 |  |
-| 347.15 | peritectic |  | experimental | [1] Yuan 2003; _cites Tillard-Charbonnel 1998_ | p. 2 | “However, TillardCharbonnel and Belin \[17\] found new compounds: Ga6 Li instead of Ga14 Li3 , Ga8 Li3 and Ga9 Li5 , in the gallium-rich range by use of DTA and XRD, with the peritectic invariants at 74, 341, 381 °C respectively.” |
-| 347 | Liquid + Ga7Li2 -> Ga14Li3 | Liquid: Li 0.005; Ga7Li2: Li 0.222; Ga14Li3: Li 0.176 | unspecified | [1] Yuan 2003; _cites Tillard-Charbonnel 1998_ | Table 3, p. 6, row 6 |  |
-| 347 | Liquid + Ga7Li2 -> Ga14Li3 | Liquid: Li 0.001; Ga7Li2: Li 0.222; Ga14Li3: Li 0.176 | model | [1] Yuan 2003 | Table 3, p. 6, row 5 |  |
-| 302.15 | eutectic |  | experimental | [1] Yuan 2003; _cites Tillard-Charbonnel 1998_ | p. 2 | “The eutectic reaction between (Ga) and Ga14 Li3 was reported at 26.5 °C \[13\], 27 °C \[14\], 29 °C \[17\].” |
-| 302 | Liquid -> (Ga) + Ga14Li3 | Liquid: Li 8.000e-5; (Ga): Li 0; Ga14Li3: Li 0.176 | model | [1] Yuan 2003 | Table 3, p. 6, row 1 |  |
-| 300.5 | Liquid -> (Ga) + Ga14Li3 | Liquid: Li 0.017; (Ga): Li 0; Ga14Li3: Li 0.176 | experimental | [1] Yuan 2003; _cites Yatsenko 1973_ | Table 3, p. 6, row 2 |  |
-| 300.15 | eutectic |  | experimental | [1] Yuan 2003; _cites Yatsenko 1973_ | p. 2 | “The eutectic reaction between (Ga) and Ga14 Li3 was reported at 26.5 °C \[13\], 27 °C \[14\], 29 °C \[17\].” |
-| 299.65 | eutectic |  | experimental | [1] Yuan 2003; _cites Th 1970_ | p. 2 | “The eutectic reaction between (Ga) and Ga14 Li3 was reported at 26.5 °C \[13\], 27 °C \[14\], 29 °C \[17\].” |
+| 788 | Liquid + GaLi -> GaLi2 | Liquid: Li 0.715; GaLi: Li 0.58; GaLi2: Li 0.667 | experimental | [1] Yuan 2003; _cites Yatsenko 1973_ | Table 3, p. 6, row 12; `ORC-KECVRUOJ47` |  |
+| 788 | Liquid + GaLi -> GaLi2 | Liquid: Li 0.78; GaLi: Li 0.58; GaLi2: Li 0.667 | model | [1] Yuan 2003 | Table 3, p. 6, row 11; `ORC-QBA4HVZIVL` |  |
+| 750 | GaLi + GaLi2 -> Ga2Li3 | GaLi: Li 0.56; GaLi2: Li 0.667; Ga2Li3: Li 0.6 | experimental | [1] Yuan 2003; _cites Yatsenko 1973_ | Table 3, p. 6, row 14; `ORC-B6FTFDW34W` |  |
+| 750 | GaLi + GaLi2 -> Ga2Li3 | GaLi: Li 0.57; GaLi2: Li 0.667; Ga2Li3: Li 0.6 | model | [1] Yuan 2003 | Table 3, p. 6, row 13; `ORC-D4H5777J5P` |  |
+| 654.15 | peritectic |  | experimental | [1] Yuan 2003; _cites Tillard-Charbonnel 1998_ | p. 2; `ORC-UKIIFUTWCX.0227a1` | “However, TillardCharbonnel and Belin \[17\] found new compounds: Ga6 Li instead of Ga14 Li3 , Ga8 Li3 and Ga9 Li5 , in the gallium-rich range by use of DTA and XRD, with the peritectic invariants at 74, 341, 381 °C respectively.” |
+| 654 | Liquid + GaLi -> Ga9Li5 | Liquid: Li 0.11; GaLi: Li 0.5; Ga9Li5: Li 0.357 | unspecified | [1] Yuan 2003; _cites Tillard-Charbonnel 1998_ | Table 3, p. 6, row 10; `ORC-EZCBTWVSXS` |  |
+| 654 | Liquid + GaLi -> Ga9Li5 | Liquid: Li 0.12; GaLi: Li 0.44; Ga9Li5: Li 0.357 | model | [1] Yuan 2003 | Table 3, p. 6, row 9; `ORC-SJKGEA2XT4` |  |
+| 614.15 | peritectic |  | experimental | [1] Yuan 2003; _cites Tillard-Charbonnel 1998_ | p. 2; `ORC-UKIIFUTWCX.7c8129` | “However, TillardCharbonnel and Belin \[17\] found new compounds: Ga6 Li instead of Ga14 Li3 , Ga8 Li3 and Ga9 Li5 , in the gallium-rich range by use of DTA and XRD, with the peritectic invariants at 74, 341, 381 °C respectively.” |
+| 575 | Liquid + Ga9Li5 -> Ga7Li2 | Liquid: Li 0.08; Ga9Li5: Li 0.357; Ga7Li2: Li 0.222 | model | [1] Yuan 2003 | Table 3, p. 6, row 7; `ORC-5NMYNKRHPI` |  |
+| 575 | Liquid + Ga9Li5 -> Ga7Li2 | Liquid: Li 0.06; Ga9Li5: Li 0.357; Ga7Li2: Li 0.222 | unspecified | [1] Yuan 2003; _cites Tillard-Charbonnel 1998_ | Table 3, p. 6, row 8; `ORC-E4BQCHZL5J` |  |
+| 475 | GaLi + Ga2Li3 -> Ga4Li5 | GaLi: Li 0.5; Ga2Li3: Li 0.6; Ga4Li5: Li 0.556 | model | [1] Yuan 2003 | Table 3, p. 6, row 15; `ORC-QDL7YRTASH` |  |
+| 441.15 | eutectic |  | experimental | [1] Yuan 2003; _cites Th 1970_ | p. 2; `ORC-DTJJ64QBTU.c131f1` | “Another eutectic between (Li) and GaLi2 was obtained as 168 °C, 0.97 mol fraction of Li \[13\]; 167 °C, 0.93 mol fraction of Li \[14\].” |
+| 440.15 | eutectic |  | experimental | [1] Yuan 2003; _cites Yatsenko 1973_ | p. 2; `ORC-DTJJ64QBTU.84bef1` | “Another eutectic between (Li) and GaLi2 was obtained as 168 °C, 0.97 mol fraction of Li \[13\]; 167 °C, 0.93 mol fraction of Li \[14\].” |
+| 440 | Liquid -> GaLi2 + (Li) | Liquid: Li 0.975; GaLi2: Li 0.667; (Li): Li 1 | experimental | [1] Yuan 2003; _cites Th 1970_ | Table 3, p. 6, row 4; `ORC-OPACHICKJ4` |  |
+| 439 | Liquid -> GaLi2 + (Li) | Liquid: Li 0.979; GaLi2: Li 0.667; (Li): Li 1 | model | [1] Yuan 2003 | Table 3, p. 6, row 3; `ORC-PHQUGUR2W4` |  |
+| 347.15 | peritectic |  | experimental | [1] Yuan 2003; _cites Tillard-Charbonnel 1998_ | p. 2; `ORC-UKIIFUTWCX.fd1b50` | “However, TillardCharbonnel and Belin \[17\] found new compounds: Ga6 Li instead of Ga14 Li3 , Ga8 Li3 and Ga9 Li5 , in the gallium-rich range by use of DTA and XRD, with the peritectic invariants at 74, 341, 381 °C respectively.” |
+| 347 | Liquid + Ga7Li2 -> Ga14Li3 | Liquid: Li 0.005; Ga7Li2: Li 0.222; Ga14Li3: Li 0.176 | unspecified | [1] Yuan 2003; _cites Tillard-Charbonnel 1998_ | Table 3, p. 6, row 6; `ORC-HHU4RJ4KAC` |  |
+| 347 | Liquid + Ga7Li2 -> Ga14Li3 | Liquid: Li 0.001; Ga7Li2: Li 0.222; Ga14Li3: Li 0.176 | model | [1] Yuan 2003 | Table 3, p. 6, row 5; `ORC-XZ2Z2W4VYH` |  |
+| 302.15 | eutectic |  | experimental | [1] Yuan 2003; _cites Tillard-Charbonnel 1998_ | p. 2; `ORC-VF5B24GUMB.b8865c` | “The eutectic reaction between (Ga) and Ga14 Li3 was reported at 26.5 °C \[13\], 27 °C \[14\], 29 °C \[17\].” |
+| 302 | Liquid -> (Ga) + Ga14Li3 | Liquid: Li 8.000e-5; (Ga): Li 0; Ga14Li3: Li 0.176 | model | [1] Yuan 2003 | Table 3, p. 6, row 1; `ORC-UHOVJS5NBE` |  |
+| 300.5 | Liquid -> (Ga) + Ga14Li3 | Liquid: Li 0.017; (Ga): Li 0; Ga14Li3: Li 0.176 | experimental | [1] Yuan 2003; _cites Yatsenko 1973_ | Table 3, p. 6, row 2; `ORC-G7FVZ2O4DW` |  |
+| 300.15 | eutectic |  | experimental | [1] Yuan 2003; _cites Yatsenko 1973_ | p. 2; `ORC-VF5B24GUMB.dea897` | “The eutectic reaction between (Ga) and Ga14 Li3 was reported at 26.5 °C \[13\], 27 °C \[14\], 29 °C \[17\].” |
+| 299.65 | eutectic |  | experimental | [1] Yuan 2003; _cites Th 1970_ | p. 2; `ORC-VF5B24GUMB.8a8fde` | “The eutectic reaction between (Ga) and Ga14 Li3 was reported at 26.5 °C \[13\], 27 °C \[14\], 29 °C \[17\].” |
 
 ## Other properties
 
@@ -93,9 +93,9 @@ Table: Phase transition, Ga–Li system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 500 K | 500 | other | model | [1] Yuan 2003 | p. 4 | “The peritectoid temperature of Ga4 Li5 is not determined by any experimental work, therefore it is assumed at around 500 K in the present calculation.” |
-| Phase transition | 1003.15 K | 1003.15 | congruent transformation | model | [1] Yuan 2003 | p. 4 | “The calculated congruent-melting point of GaLi phase is 730 °C at 0.50 mol fraction of Li, which is in good agreement with the work of \[13,14\].” |
-| Phase transition | 1013.15 K | 1013.15 |  | experimental | [1] Yuan 2003; _cites Yatsenko 1973_ | p. 2 | “The highest temperature on the liquidus, corresponding to the GaLi stoichiometric composition, was reported as 730 10 °C \[13\], 740 °C \[14\] respectively.” |
+| Phase transition | 500 K | 500 | other | model | [1] Yuan 2003 | p. 4; `ORC-RVOIRUXXNB` | “The peritectoid temperature of Ga4 Li5 is not determined by any experimental work, therefore it is assumed at around 500 K in the present calculation.” |
+| Phase transition | 1003.15 K | 1003.15 | congruent transformation | model | [1] Yuan 2003 | p. 4; `ORC-A7W44LTTFR` | “The calculated congruent-melting point of GaLi phase is 730 °C at 0.50 mol fraction of Li, which is in good agreement with the work of \[13,14\].” |
+| Phase transition | 1013.15 K | 1013.15 |  | experimental | [1] Yuan 2003; _cites Yatsenko 1973_ | p. 2; `ORC-KLPFAWOP35` | “The highest temperature on the liquidus, corresponding to the GaLi stoichiometric composition, was reported as 730 10 °C \[13\], 740 °C \[14\] respectively.” |
 
 ## Sources
 
@@ -160,4 +160,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

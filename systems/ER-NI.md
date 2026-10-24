@@ -74,30 +74,30 @@ Table: Invariant reactions reported in the literature for the Er–Ni system (24
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1651 | liq. + ErNi5->Er5Ni22 | L: Ni 0.8125; ErNi5: Ni 0.833333; Er5Ni22: Ni 0.814815 | model | [1] Du 1999 | Table 7, p. 6, row 21 |  |
-| 1648 | liq. + ErNi5->Er5Ni22 | L: Ni 0.81; ErNi5: Ni 0.833333; Er5Ni22: Ni 0.814815 | experimental | [1] Du 1999; _cites Buschow 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990155-0) | Table 7, p. 6, row 22 |  |
-| 1644 | liq. + Er5Ni22->Er4Ni17 | L: Ni 0.793; Er5Ni22: Ni 0.814815; Er4Ni17: Ni 0.809524 | model | [1] Du 1999 | Table 7, p. 6, row 19 |  |
-| 1643 | liq. + Er5Ni22->Er4Ni17 | L: Ni 0.795; Er5Ni22: Ni 0.814815; Er4Ni17: Ni 0.809524 | experimental | [1] Du 1999; _cites Buschow 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990155-0) | Table 7, p. 6, row 20 |  |
-| 1634 | liq. + Er4Ni17->ErNi4 | L: Ni 0.7768; Er4Ni17: Ni 0.809524; ErNi4: Ni 0.8 | model | [1] Du 1999 | Table 7, p. 6, row 17 |  |
-| 1633 | liq. + Er4Ni17->ErNi4 | L: Ni 0.77; Er4Ni17: Ni 0.809524; ErNi4: Ni 0.8 | experimental | [1] Du 1999; _cites Buschow 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990155-0) | Table 7, p. 6, row 18 |  |
-| 1595 | liq. + ErNi4->ErNi3 | L: Ni 0.7395; ErNi4: Ni 0.8; ErNi3: Ni 0.75 | model | [1] Du 1999 | Table 7, p. 6, row 13 |  |
-| 1593 | liq. + ErNi4->ErNi3 | L: Ni 0.72; ErNi4: Ni 0.8; ErNi3: Ni 0.75 | experimental | [1] Du 1999; _cites Buschow 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990155-0) | Table 7, p. 6, row 14 |  |
-| 1588 | liq. + ErNi5->Er2Ni17 | L: Ni 0.905; ErNi5: Ni 0.833333; Er2Ni17: Ni 0.894737 | experimental | [1] Du 1999; _cites Buschow 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990155-0) | Table 7, p. 6, row 26 |  |
-| 1587 | liq. + ErNi5->Er2Ni17 | L: Ni 0.8972; ErNi5: Ni 0.833333; Er2Ni17: Ni 0.894737 | model | [1] Du 1999 | Table 7, p. 6, row 25 |  |
-| 1570 | liq.->Er2Ni17 + fcc(Ni) | L: Ni 0.924; Er2Ni17: Ni 0.894737 | model | [1] Du 1999 | Table 7, p. 6, row 27 |  |
-| 1553 | liq.->Er2Ni17 + fcc(Ni) | L: Ni 0.92; Er2Ni17: Ni 0.894737 | experimental | [1] Du 1999; _cites Buschow 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990155-0) | Table 7, p. 6, row 28 |  |
-| 1548 | ErNi3 + ErNi4->Er2Ni7 | ErNi3: Ni 0.75; ErNi4: Ni 0.8; Er2Ni7: Ni 0.777778 | model | [1] Du 1999 | Table 7, p. 6, row 15 |  |
-| 1548 | ErNi3 + ErNi4->Er2Ni7 | ErNi3: Ni 0.75; ErNi4: Ni 0.8; Er2Ni7: Ni 0.777778 | experimental | [1] Du 1999; _cites Buschow 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990155-0) | Table 7, p. 6, row 16 |  |
-| 1528 | liq. + ErNi3->ErNi2 | L: Ni 0.66; ErNi3: Ni 0.75; ErNi2: Ni 0.666667 | experimental | [1] Du 1999; _cites Buschow 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990155-0) | Table 7, p. 6, row 12 |  |
-| 1527 | liq. + ErNi3->ErNi2 | L: Ni 0.67; ErNi3: Ni 0.75; ErNi2: Ni 0.666667 | model | [1] Du 1999 | Table 7, p. 6, row 11 |  |
-| 1306 | liq.->ErNi + ErNi2 | L: Ni 0.5517; ErNi: Ni 0.5; ErNi2: Ni 0.666667 | model | [1] Du 1999 | Table 7, p. 6, row 9 |  |
-| 1298 | liq.->ErNi + ErNi2 | L: Ni 0.55; ErNi: Ni 0.5; ErNi2: Ni 0.666667 | experimental | [1] Du 1999; _cites Buschow 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990155-0) | Table 7, p. 6, row 10 |  |
-| 1118 | liq. + hcp(Er)->Er3Ni | L: Ni 0.26; Er3Ni: Ni 0.25 | experimental | [1] Du 1999; _cites Buschow 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990155-0) | Table 7, p. 6, row 2 |  |
-| 1110 | liq. + hcp(Er)->Er3Ni | L: Ni 0.277; Er3Ni: Ni 0.25 | model | [1] Du 1999 | Table 7, p. 6, row 1 |  |
-| 1076 | liq. + ErNi->Er3Ni2 | L: Ni 0.381; ErNi: Ni 0.5; Er3Ni2: Ni 0.4 | model | [1] Du 1999 | Table 7, p. 6, row 5 |  |
-| 1073 | liq. + ErNi->Er3Ni2 | L: Ni 0.32; ErNi: Ni 0.5; Er3Ni2: Ni 0.4 | experimental | [1] Du 1999; _cites Buschow 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990155-0) | Table 7, p. 6, row 6 |  |
-| 1040 | liq.->Er3Ni + Er3Ni2 | L: Ni 0.342; Er3Ni: Ni 0.25; Er3Ni2: Ni 0.4 | model | [1] Du 1999 | Table 7, p. 6, row 3 |  |
-| 1038 | liq.->Er3Ni + Er3Ni2 | L: Ni 0.31; Er3Ni: Ni 0.25; Er3Ni2: Ni 0.4 | experimental | [1] Du 1999; _cites Buschow 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990155-0) | Table 7, p. 6, row 4 |  |
+| 1651 | liq. + ErNi5->Er5Ni22 | L: Ni 0.8125; ErNi5: Ni 0.833333; Er5Ni22: Ni 0.814815 | model | [1] Du 1999 | Table 7, p. 6, row 21; `ORC-E6DI6F2SC2` |  |
+| 1648 | liq. + ErNi5->Er5Ni22 | L: Ni 0.81; ErNi5: Ni 0.833333; Er5Ni22: Ni 0.814815 | experimental | [1] Du 1999; _cites Buschow 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990155-0) | Table 7, p. 6, row 22; `ORC-E7GHL5LNSW` |  |
+| 1644 | liq. + Er5Ni22->Er4Ni17 | L: Ni 0.793; Er5Ni22: Ni 0.814815; Er4Ni17: Ni 0.809524 | model | [1] Du 1999 | Table 7, p. 6, row 19; `ORC-QJAW6KD3YT` |  |
+| 1643 | liq. + Er5Ni22->Er4Ni17 | L: Ni 0.795; Er5Ni22: Ni 0.814815; Er4Ni17: Ni 0.809524 | experimental | [1] Du 1999; _cites Buschow 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990155-0) | Table 7, p. 6, row 20; `ORC-MYFTANRPKB` |  |
+| 1634 | liq. + Er4Ni17->ErNi4 | L: Ni 0.7768; Er4Ni17: Ni 0.809524; ErNi4: Ni 0.8 | model | [1] Du 1999 | Table 7, p. 6, row 17; `ORC-GIXFMJGUVQ` |  |
+| 1633 | liq. + Er4Ni17->ErNi4 | L: Ni 0.77; Er4Ni17: Ni 0.809524; ErNi4: Ni 0.8 | experimental | [1] Du 1999; _cites Buschow 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990155-0) | Table 7, p. 6, row 18; `ORC-7YBXIJ4Z4B` |  |
+| 1595 | liq. + ErNi4->ErNi3 | L: Ni 0.7395; ErNi4: Ni 0.8; ErNi3: Ni 0.75 | model | [1] Du 1999 | Table 7, p. 6, row 13; `ORC-SOLL3LOMZF` |  |
+| 1593 | liq. + ErNi4->ErNi3 | L: Ni 0.72; ErNi4: Ni 0.8; ErNi3: Ni 0.75 | experimental | [1] Du 1999; _cites Buschow 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990155-0) | Table 7, p. 6, row 14; `ORC-YBMMU4YSAF` |  |
+| 1588 | liq. + ErNi5->Er2Ni17 | L: Ni 0.905; ErNi5: Ni 0.833333; Er2Ni17: Ni 0.894737 | experimental | [1] Du 1999; _cites Buschow 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990155-0) | Table 7, p. 6, row 26; `ORC-OM6O72GFHW` |  |
+| 1587 | liq. + ErNi5->Er2Ni17 | L: Ni 0.8972; ErNi5: Ni 0.833333; Er2Ni17: Ni 0.894737 | model | [1] Du 1999 | Table 7, p. 6, row 25; `ORC-KR5N4NFYXA` |  |
+| 1570 | liq.->Er2Ni17 + fcc(Ni) | L: Ni 0.924; Er2Ni17: Ni 0.894737 | model | [1] Du 1999 | Table 7, p. 6, row 27; `ORC-P2HGQ322IG` |  |
+| 1553 | liq.->Er2Ni17 + fcc(Ni) | L: Ni 0.92; Er2Ni17: Ni 0.894737 | experimental | [1] Du 1999; _cites Buschow 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990155-0) | Table 7, p. 6, row 28; `ORC-HGCMPA6BKW` |  |
+| 1548 | ErNi3 + ErNi4->Er2Ni7 | ErNi3: Ni 0.75; ErNi4: Ni 0.8; Er2Ni7: Ni 0.777778 | model | [1] Du 1999 | Table 7, p. 6, row 15; `ORC-AJSDG64AIB` |  |
+| 1548 | ErNi3 + ErNi4->Er2Ni7 | ErNi3: Ni 0.75; ErNi4: Ni 0.8; Er2Ni7: Ni 0.777778 | experimental | [1] Du 1999; _cites Buschow 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990155-0) | Table 7, p. 6, row 16; `ORC-ZYYN42R7GD` |  |
+| 1528 | liq. + ErNi3->ErNi2 | L: Ni 0.66; ErNi3: Ni 0.75; ErNi2: Ni 0.666667 | experimental | [1] Du 1999; _cites Buschow 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990155-0) | Table 7, p. 6, row 12; `ORC-IJXWCXSTAX` |  |
+| 1527 | liq. + ErNi3->ErNi2 | L: Ni 0.67; ErNi3: Ni 0.75; ErNi2: Ni 0.666667 | model | [1] Du 1999 | Table 7, p. 6, row 11; `ORC-CAA2K56IXG` |  |
+| 1306 | liq.->ErNi + ErNi2 | L: Ni 0.5517; ErNi: Ni 0.5; ErNi2: Ni 0.666667 | model | [1] Du 1999 | Table 7, p. 6, row 9; `ORC-RWVMMKKX6U` |  |
+| 1298 | liq.->ErNi + ErNi2 | L: Ni 0.55; ErNi: Ni 0.5; ErNi2: Ni 0.666667 | experimental | [1] Du 1999; _cites Buschow 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990155-0) | Table 7, p. 6, row 10; `ORC-HBNCNYLQJ3` |  |
+| 1118 | liq. + hcp(Er)->Er3Ni | L: Ni 0.26; Er3Ni: Ni 0.25 | experimental | [1] Du 1999; _cites Buschow 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990155-0) | Table 7, p. 6, row 2; `ORC-GURQPSVAWI` |  |
+| 1110 | liq. + hcp(Er)->Er3Ni | L: Ni 0.277; Er3Ni: Ni 0.25 | model | [1] Du 1999 | Table 7, p. 6, row 1; `ORC-O2JJOBOOGG` |  |
+| 1076 | liq. + ErNi->Er3Ni2 | L: Ni 0.381; ErNi: Ni 0.5; Er3Ni2: Ni 0.4 | model | [1] Du 1999 | Table 7, p. 6, row 5; `ORC-2CT3X7AZIT` |  |
+| 1073 | liq. + ErNi->Er3Ni2 | L: Ni 0.32; ErNi: Ni 0.5; Er3Ni2: Ni 0.4 | experimental | [1] Du 1999; _cites Buschow 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990155-0) | Table 7, p. 6, row 6; `ORC-2QSH6DBHM2` |  |
+| 1040 | liq.->Er3Ni + Er3Ni2 | L: Ni 0.342; Er3Ni: Ni 0.25; Er3Ni2: Ni 0.4 | model | [1] Du 1999 | Table 7, p. 6, row 3; `ORC-E4MANMSTDF` |  |
+| 1038 | liq.->Er3Ni + Er3Ni2 | L: Ni 0.31; Er3Ni: Ni 0.25; Er3Ni2: Ni 0.4 | experimental | [1] Du 1999; _cites Buschow 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990155-0) | Table 7, p. 6, row 4; `ORC-KOAACJROCK` |  |
 
 ## Other properties
 
@@ -107,10 +107,10 @@ Table: Phase transition, Er–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1363 K | 1363 | liq.->ErNi; _L: Ni 0.5; ErNi: Ni 0.5_ | model | [1] Du 1999 | Table 7, p. 6, row 7 |  |
-| Phase transition | 1373 K | 1373 | liq.->ErNi; _L: Ni 0.5; ErNi: Ni 0.5_ | experimental | [1] Du 1999; _cites Buschow 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990155-0) | Table 7, p. 6, row 8 |  |
-| Phase transition | 1653 K | 1653 | liq.->ErNi5; _L: Ni 0.83; ErNi5: Ni 0.833333_ | experimental | [1] Du 1999; _cites Buschow 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990155-0) | Table 7, p. 6, row 24 |  |
-| Phase transition | 1657 K | 1657 | liq.->ErNi5; _L: Ni 0.8333; ErNi5: Ni 0.833333_ | model | [1] Du 1999 | Table 7, p. 6, row 23 |  |
+| Phase transition | 1363 K | 1363 | liq.->ErNi; _L: Ni 0.5; ErNi: Ni 0.5_ | model | [1] Du 1999 | Table 7, p. 6, row 7; `ORC-XXPCISSTOP` |  |
+| Phase transition | 1373 K | 1373 | liq.->ErNi; _L: Ni 0.5; ErNi: Ni 0.5_ | experimental | [1] Du 1999; _cites Buschow 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990155-0) | Table 7, p. 6, row 8; `ORC-Z2KQYOOBK5` |  |
+| Phase transition | 1653 K | 1653 | liq.->ErNi5; _L: Ni 0.83; ErNi5: Ni 0.833333_ | experimental | [1] Du 1999; _cites Buschow 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990155-0) | Table 7, p. 6, row 24; `ORC-TPCYM3DISV` |  |
+| Phase transition | 1657 K | 1657 | liq.->ErNi5; _L: Ni 0.8333; ErNi5: Ni 0.833333_ | model | [1] Du 1999 | Table 7, p. 6, row 23; `ORC-EUM7M4JP66` |  |
 
 ## Sources
 
@@ -175,4 +175,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

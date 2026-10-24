@@ -14,16 +14,16 @@ Table: Enthalpy of formation of Sb3Zn4 reported in the literature (10)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -20.551 kJ/mol-atom | δ′-Sb3Zn4 | 826 | experimental | emf | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007; _cites DeWitt 1939_ [doi](https://doi.org/10.1021/ja01266a055) | Table 4, p. 4, row 16 |  |
-| -12.379 kJ/mol-atom | δ-Sb3Zn4 | 806 | experimental | emf | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007; _cites DeWitt 1939_ [doi](https://doi.org/10.1021/ja01266a055) | Table 4, p. 4, row 18 |  |
-| -10.7 kJ/mol-atom | ε-Sb3Zn4 | 420 | experimental | emf | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007; _cites Goryacheva 1997_ | Table 4, p. 4, row 22 |  |
-| -5.28 kJ/mol-atom | ε-Sb3Zn4 | 600 | experimental | emf | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007; _cites Zabdyr 1981_ | Table 4, p. 4, row 24 |  |
-| -4.35 kJ/mol-atom | δ-Sb3Zn4 | 800 | experimental | emf | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007; _cites Zabdyr 1981_ | Table 4, p. 4, row 20 |  |
-| -17.878 kJ/mol-atom | δ-Sb3Zn4 | 806 | model |  | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007 | Table 4, p. 4, row 17 |  |
-| -16.028 kJ/mol-atom | δ′-Sb3Zn4 | 826 | model |  | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007 | Table 4, p. 4, row 15 |  |
-| -10.707 kJ/mol-atom | δ-Sb3Zn4 | 800 | model |  | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007 | Table 4, p. 4, row 19 |  |
-| -9.378 kJ/mol-atom | ε-Sb3Zn4 | 600 | model |  | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007 | Table 4, p. 4, row 23 |  |
-| -9.378 kJ/mol-atom | ε-Sb3Zn4 | 420 | model |  | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007 | Table 4, p. 4, row 21 |  |
+| -20.551 kJ/mol-atom | δ′-Sb3Zn4 | 826 | experimental | emf | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007; _cites DeWitt 1939_ [doi](https://doi.org/10.1021/ja01266a055) | Table 4, p. 4, row 16; `ORC-LJ7NTT3MZM.0521f9` |  |
+| -12.379 kJ/mol-atom | δ-Sb3Zn4 | 806 | experimental | emf | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007; _cites DeWitt 1939_ [doi](https://doi.org/10.1021/ja01266a055) | Table 4, p. 4, row 18; `ORC-7VPUF5XRGG.2a862c` |  |
+| -10.7 kJ/mol-atom | ε-Sb3Zn4 | 420 | experimental | emf | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007; _cites Goryacheva 1997_ | Table 4, p. 4, row 22; `ORC-GEOHQLQG2H.60a4e1` |  |
+| -5.28 kJ/mol-atom | ε-Sb3Zn4 | 600 | experimental | emf | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007; _cites Zabdyr 1981_ | Table 4, p. 4, row 24; `ORC-6OOPELOSIS.274e9e` |  |
+| -4.35 kJ/mol-atom | δ-Sb3Zn4 | 800 | experimental | emf | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007; _cites Zabdyr 1981_ | Table 4, p. 4, row 20; `ORC-NZUTUZNKYH.3f1124` |  |
+| -17.878 kJ/mol-atom | δ-Sb3Zn4 | 806 | model |  | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007 | Table 4, p. 4, row 17; `ORC-R4WK4SK6PB.425011` |  |
+| -16.028 kJ/mol-atom | δ′-Sb3Zn4 | 826 | model |  | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007 | Table 4, p. 4, row 15; `ORC-I5P7YJ6ZTR.05380b` |  |
+| -10.707 kJ/mol-atom | δ-Sb3Zn4 | 800 | model |  | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007 | Table 4, p. 4, row 19; `ORC-THQ7S4MRBN.008989` |  |
+| -9.378 kJ/mol-atom | ε-Sb3Zn4 | 600 | model |  | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007 | Table 4, p. 4, row 23; `ORC-7A2QTKMYRH.003111` |  |
+| -9.378 kJ/mol-atom | ε-Sb3Zn4 | 420 | model |  | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007 | Table 4, p. 4, row 21; `ORC-E76ESIXAL7.7546d1` |  |
 
 ### Uncertainty budget
 
@@ -107,4 +107,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -14,10 +14,10 @@ Table: Enthalpy of formation of NiPt3 reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -8.3 kJ/mol-atom | NiPt3–L12 | 0 | model | Assessment (this work) | [Ni–Pt](https://data.orchid-project.org/systems/NI-PT.html) | [1] Lu 2009 | Table 1, p. 3, row 14 |  |
-| -11.98 kJ/mol-atom | NiPt3–L12 | 0 | DFT | LMTO + CPA \[19\] | [Ni–Pt](https://data.orchid-project.org/systems/NI-PT.html) | [1] Lu 2009; _cites Ruban 1995_ [doi](https://doi.org/10.1103/physrevb.51.12958) | Table 1, p. 3, row 7 |  |
-| -8.4 kJ/mol-atom | NiPt3–L12 | 0 | DFT | FLMTO + CWM \[17\] | [Ni–Pt](https://data.orchid-project.org/systems/NI-PT.html) | [1] Lu 2009; _cites Amador 1993_ [doi](https://doi.org/10.1103/physrevb.47.15276) | Table 1, p. 3, row 3 |  |
-| -6.31 kJ/mol-atom | NiPt3–L12 | 0 | DFT | VASP (no relaxation) | [Ni–Pt](https://data.orchid-project.org/systems/NI-PT.html) | [1] Lu 2009 | Table 1, p. 3, row 10 |  |
+| -8.3 kJ/mol-atom | NiPt3–L12 | 0 | model | Assessment (this work) | [Ni–Pt](https://data.orchid-project.org/systems/NI-PT.html) | [1] Lu 2009 | Table 1, p. 3, row 14; `ORC-TTC6P3CHHO` |  |
+| -11.98 kJ/mol-atom | NiPt3–L12 | 0 | DFT | LMTO + CPA \[19\] | [Ni–Pt](https://data.orchid-project.org/systems/NI-PT.html) | [1] Lu 2009; _cites Ruban 1995_ [doi](https://doi.org/10.1103/physrevb.51.12958) | Table 1, p. 3, row 7; `ORC-GATTDLS2KR` |  |
+| -8.4 kJ/mol-atom | NiPt3–L12 | 0 | DFT | FLMTO + CWM \[17\] | [Ni–Pt](https://data.orchid-project.org/systems/NI-PT.html) | [1] Lu 2009; _cites Amador 1993_ [doi](https://doi.org/10.1103/physrevb.47.15276) | Table 1, p. 3, row 3; `ORC-JGV54NYGX5` |  |
+| -6.31 kJ/mol-atom | NiPt3–L12 | 0 | DFT | VASP (no relaxation) | [Ni–Pt](https://data.orchid-project.org/systems/NI-PT.html) | [1] Lu 2009 | Table 1, p. 3, row 10; `ORC-YPLN6GXWBG` |  |
 
 ### Uncertainty budget
 
@@ -96,4 +96,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

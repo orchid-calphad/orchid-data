@@ -76,15 +76,15 @@ Table: Invariant reactions reported in the literature for the In–Sr system (9)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1081 | peritectic: Liquid + SrIn2 -> Sr2In3 |  | experimental | [1] Wang 2014; _cites Bruzzone 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990011-7) | p. 1 | “Three eutectic reactions, i.e. Liquid2(In) þSrIn5, Liquid2Sr5In3 þSr3In and Liquid2Sr3Inþ(αSr), and six peritectic reactions, i.e. Liquid þSrIn32SrIn5, Liquid þSr2In52SrIn3, Liquid þSrIn22 Sr2In5, Liquid þSrIn22Sr2In3, Liquid þSr2In32SrIn, Liquid þSrIn 2Sr3In2, were determined to be at 429, 818, 790, 693, 813, 893, 1081, 990 and 845 K, respectively.” |
-| 990 | peritectic: Liquid + Sr2In3 -> SrIn |  | experimental | [1] Wang 2014; _cites Bruzzone 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990011-7) | p. 1 | “Three eutectic reactions, i.e. Liquid2(In) þSrIn5, Liquid2Sr5In3 þSr3In and Liquid2Sr3Inþ(αSr), and six peritectic reactions, i.e. Liquid þSrIn32SrIn5, Liquid þSr2In52SrIn3, Liquid þSrIn22 Sr2In5, Liquid þSrIn22Sr2In3, Liquid þSr2In32SrIn, Liquid þSrIn 2Sr3In2, were determined to be at 429, 818, 790, 693, 813, 893, 1081, 990 and 845 K, respectively.” |
-| 893 | peritectic: Liquid + SrIn2 -> Sr2In5 |  | experimental | [1] Wang 2014; _cites Bruzzone 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990011-7) | p. 1 | “Three eutectic reactions, i.e. Liquid2(In) þSrIn5, Liquid2Sr5In3 þSr3In and Liquid2Sr3Inþ(αSr), and six peritectic reactions, i.e. Liquid þSrIn32SrIn5, Liquid þSr2In52SrIn3, Liquid þSrIn22 Sr2In5, Liquid þSrIn22Sr2In3, Liquid þSr2In32SrIn, Liquid þSrIn 2Sr3In2, were determined to be at 429, 818, 790, 693, 813, 893, 1081, 990 and 845 K, respectively.” |
-| 845 | peritectic: Liquid + SrIn -> Sr3In2 |  | experimental | [1] Wang 2014; _cites Bruzzone 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990011-7) | p. 1 | “Three eutectic reactions, i.e. Liquid2(In) þSrIn5, Liquid2Sr5In3 þSr3In and Liquid2Sr3Inþ(αSr), and six peritectic reactions, i.e. Liquid þSrIn32SrIn5, Liquid þSr2In52SrIn3, Liquid þSrIn22 Sr2In5, Liquid þSrIn22Sr2In3, Liquid þSr2In32SrIn, Liquid þSrIn 2Sr3In2, were determined to be at 429, 818, 790, 693, 813, 893, 1081, 990 and 845 K, respectively.” |
-| 818 | eutectic: Liquid -> Sr5In3 + Sr3In |  | experimental | [1] Wang 2014; _cites Bruzzone 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990011-7) | p. 1 | “Three eutectic reactions, i.e. Liquid2(In) þSrIn5, Liquid2Sr5In3 þSr3In and Liquid2Sr3Inþ(αSr), and six peritectic reactions, i.e. Liquid þSrIn32SrIn5, Liquid þSr2In52SrIn3, Liquid þSrIn22 Sr2In5, Liquid þSrIn22Sr2In3, Liquid þSr2In32SrIn, Liquid þSrIn 2Sr3In2, were determined to be at 429, 818, 790, 693, 813, 893, 1081, 990 and 845 K, respectively.” |
-| 813 | peritectic: Liquid + Sr2In5 -> SrIn3 |  | experimental | [1] Wang 2014; _cites Bruzzone 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990011-7) | p. 1 | “Three eutectic reactions, i.e. Liquid2(In) þSrIn5, Liquid2Sr5In3 þSr3In and Liquid2Sr3Inþ(αSr), and six peritectic reactions, i.e. Liquid þSrIn32SrIn5, Liquid þSr2In52SrIn3, Liquid þSrIn22 Sr2In5, Liquid þSrIn22Sr2In3, Liquid þSr2In32SrIn, Liquid þSrIn 2Sr3In2, were determined to be at 429, 818, 790, 693, 813, 893, 1081, 990 and 845 K, respectively.” |
-| 790 | eutectic: Liquid -> Sr3In + (αSr) |  | experimental | [1] Wang 2014; _cites Bruzzone 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990011-7) | p. 1 | “Three eutectic reactions, i.e. Liquid2(In) þSrIn5, Liquid2Sr5In3 þSr3In and Liquid2Sr3Inþ(αSr), and six peritectic reactions, i.e. Liquid þSrIn32SrIn5, Liquid þSr2In52SrIn3, Liquid þSrIn22 Sr2In5, Liquid þSrIn22Sr2In3, Liquid þSr2In32SrIn, Liquid þSrIn 2Sr3In2, were determined to be at 429, 818, 790, 693, 813, 893, 1081, 990 and 845 K, respectively.” |
-| 693 | peritectic: Liquid + SrIn3 -> SrIn5 |  | experimental | [1] Wang 2014; _cites Bruzzone 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990011-7) | p. 1 | “Three eutectic reactions, i.e. Liquid2(In) þSrIn5, Liquid2Sr5In3 þSr3In and Liquid2Sr3Inþ(αSr), and six peritectic reactions, i.e. Liquid þSrIn32SrIn5, Liquid þSr2In52SrIn3, Liquid þSrIn22 Sr2In5, Liquid þSrIn22Sr2In3, Liquid þSr2In32SrIn, Liquid þSrIn 2Sr3In2, were determined to be at 429, 818, 790, 693, 813, 893, 1081, 990 and 845 K, respectively.” |
-| 429 | eutectic: Liquid -> (In) + SrIn5 |  | experimental | [1] Wang 2014; _cites Bruzzone 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990011-7) | p. 1 | “Three eutectic reactions, i.e. Liquid2(In) þSrIn5, Liquid2Sr5In3 þSr3In and Liquid2Sr3Inþ(αSr), and six peritectic reactions, i.e. Liquid þSrIn32SrIn5, Liquid þSr2In52SrIn3, Liquid þSrIn22 Sr2In5, Liquid þSrIn22Sr2In3, Liquid þSr2In32SrIn, Liquid þSrIn 2Sr3In2, were determined to be at 429, 818, 790, 693, 813, 893, 1081, 990 and 845 K, respectively.” |
+| 1081 | peritectic: Liquid + SrIn2 -> Sr2In3 |  | experimental | [1] Wang 2014; _cites Bruzzone 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990011-7) | p. 1; `ORC-GVHTNHECDI.474201` | “Three eutectic reactions, i.e. Liquid2(In) þSrIn5, Liquid2Sr5In3 þSr3In and Liquid2Sr3Inþ(αSr), and six peritectic reactions, i.e. Liquid þSrIn32SrIn5, Liquid þSr2In52SrIn3, Liquid þSrIn22 Sr2In5, Liquid þSrIn22Sr2In3, Liquid þSr2In32SrIn, Liquid þSrIn 2Sr3In2, were determined to be at 429, 818, 790, 693, 813, 893, 1081, 990 and 845 K, respectively.” |
+| 990 | peritectic: Liquid + Sr2In3 -> SrIn |  | experimental | [1] Wang 2014; _cites Bruzzone 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990011-7) | p. 1; `ORC-GVHTNHECDI.8d3997` | “Three eutectic reactions, i.e. Liquid2(In) þSrIn5, Liquid2Sr5In3 þSr3In and Liquid2Sr3Inþ(αSr), and six peritectic reactions, i.e. Liquid þSrIn32SrIn5, Liquid þSr2In52SrIn3, Liquid þSrIn22 Sr2In5, Liquid þSrIn22Sr2In3, Liquid þSr2In32SrIn, Liquid þSrIn 2Sr3In2, were determined to be at 429, 818, 790, 693, 813, 893, 1081, 990 and 845 K, respectively.” |
+| 893 | peritectic: Liquid + SrIn2 -> Sr2In5 |  | experimental | [1] Wang 2014; _cites Bruzzone 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990011-7) | p. 1; `ORC-GVHTNHECDI.f18c79` | “Three eutectic reactions, i.e. Liquid2(In) þSrIn5, Liquid2Sr5In3 þSr3In and Liquid2Sr3Inþ(αSr), and six peritectic reactions, i.e. Liquid þSrIn32SrIn5, Liquid þSr2In52SrIn3, Liquid þSrIn22 Sr2In5, Liquid þSrIn22Sr2In3, Liquid þSr2In32SrIn, Liquid þSrIn 2Sr3In2, were determined to be at 429, 818, 790, 693, 813, 893, 1081, 990 and 845 K, respectively.” |
+| 845 | peritectic: Liquid + SrIn -> Sr3In2 |  | experimental | [1] Wang 2014; _cites Bruzzone 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990011-7) | p. 1; `ORC-GVHTNHECDI.43c326` | “Three eutectic reactions, i.e. Liquid2(In) þSrIn5, Liquid2Sr5In3 þSr3In and Liquid2Sr3Inþ(αSr), and six peritectic reactions, i.e. Liquid þSrIn32SrIn5, Liquid þSr2In52SrIn3, Liquid þSrIn22 Sr2In5, Liquid þSrIn22Sr2In3, Liquid þSr2In32SrIn, Liquid þSrIn 2Sr3In2, were determined to be at 429, 818, 790, 693, 813, 893, 1081, 990 and 845 K, respectively.” |
+| 818 | eutectic: Liquid -> Sr5In3 + Sr3In |  | experimental | [1] Wang 2014; _cites Bruzzone 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990011-7) | p. 1; `ORC-GVHTNHECDI.fd2d69` | “Three eutectic reactions, i.e. Liquid2(In) þSrIn5, Liquid2Sr5In3 þSr3In and Liquid2Sr3Inþ(αSr), and six peritectic reactions, i.e. Liquid þSrIn32SrIn5, Liquid þSr2In52SrIn3, Liquid þSrIn22 Sr2In5, Liquid þSrIn22Sr2In3, Liquid þSr2In32SrIn, Liquid þSrIn 2Sr3In2, were determined to be at 429, 818, 790, 693, 813, 893, 1081, 990 and 845 K, respectively.” |
+| 813 | peritectic: Liquid + Sr2In5 -> SrIn3 |  | experimental | [1] Wang 2014; _cites Bruzzone 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990011-7) | p. 1; `ORC-GVHTNHECDI.8190e6` | “Three eutectic reactions, i.e. Liquid2(In) þSrIn5, Liquid2Sr5In3 þSr3In and Liquid2Sr3Inþ(αSr), and six peritectic reactions, i.e. Liquid þSrIn32SrIn5, Liquid þSr2In52SrIn3, Liquid þSrIn22 Sr2In5, Liquid þSrIn22Sr2In3, Liquid þSr2In32SrIn, Liquid þSrIn 2Sr3In2, were determined to be at 429, 818, 790, 693, 813, 893, 1081, 990 and 845 K, respectively.” |
+| 790 | eutectic: Liquid -> Sr3In + (αSr) |  | experimental | [1] Wang 2014; _cites Bruzzone 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990011-7) | p. 1; `ORC-GVHTNHECDI.a20cd1` | “Three eutectic reactions, i.e. Liquid2(In) þSrIn5, Liquid2Sr5In3 þSr3In and Liquid2Sr3Inþ(αSr), and six peritectic reactions, i.e. Liquid þSrIn32SrIn5, Liquid þSr2In52SrIn3, Liquid þSrIn22 Sr2In5, Liquid þSrIn22Sr2In3, Liquid þSr2In32SrIn, Liquid þSrIn 2Sr3In2, were determined to be at 429, 818, 790, 693, 813, 893, 1081, 990 and 845 K, respectively.” |
+| 693 | peritectic: Liquid + SrIn3 -> SrIn5 |  | experimental | [1] Wang 2014; _cites Bruzzone 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990011-7) | p. 1; `ORC-GVHTNHECDI.8e0026` | “Three eutectic reactions, i.e. Liquid2(In) þSrIn5, Liquid2Sr5In3 þSr3In and Liquid2Sr3Inþ(αSr), and six peritectic reactions, i.e. Liquid þSrIn32SrIn5, Liquid þSr2In52SrIn3, Liquid þSrIn22 Sr2In5, Liquid þSrIn22Sr2In3, Liquid þSr2In32SrIn, Liquid þSrIn 2Sr3In2, were determined to be at 429, 818, 790, 693, 813, 893, 1081, 990 and 845 K, respectively.” |
+| 429 | eutectic: Liquid -> (In) + SrIn5 |  | experimental | [1] Wang 2014; _cites Bruzzone 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990011-7) | p. 1; `ORC-GVHTNHECDI.31dab3` | “Three eutectic reactions, i.e. Liquid2(In) þSrIn5, Liquid2Sr5In3 þSr3In and Liquid2Sr3Inþ(αSr), and six peritectic reactions, i.e. Liquid þSrIn32SrIn5, Liquid þSr2In52SrIn3, Liquid þSrIn22 Sr2In5, Liquid þSrIn22Sr2In3, Liquid þSr2In32SrIn, Liquid þSrIn 2Sr3In2, were determined to be at 429, 818, 790, 693, 813, 893, 1081, 990 and 845 K, respectively.” |
 
 ## Formation enthalpies
 
@@ -94,18 +94,18 @@ Table: Enthalpies of formation, In–Sr system (12)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Sr3In | [InSr3](https://data.orchid-project.org/compounds/InSr3.html) | -22 kJ/mol-atom | 298.15 | model | -11.866 (mp-aaaabujt) | -17.549 (oqmd-324757) | [1] Wang 2014 | Table 2, p. 3, row 2 |  |
-| Sr3In |  | -13.54 kJ/mol-atom | 298.15 | DFT |  |  | [1] Wang 2014 | Table 2, p. 3, row 1 |  |
-| Sr5In3 | [In3Sr5](https://data.orchid-project.org/compounds/In3Sr5.html) | -34 kJ/mol-atom | 298.15 | model | -32.729 (mp-aaabglta) | -33.93 (oqmd-25865) | [1] Wang 2014 | Table 2, p. 3, row 4 |  |
-| Sr5In3 |  | -33.86 kJ/mol-atom | 298.15 | DFT |  |  | [1] Wang 2014 | Table 2, p. 3, row 3 |  |
-| SrIn | [InSr](https://data.orchid-project.org/compounds/InSr.html) | -42.84 kJ/mol-atom | 298.15 | model | -41.033 (mp-aaabipnk) | -42.821 (oqmd-651142) | [1] Wang 2014 | Table 2, p. 3, row 6 |  |
-| SrIn |  | -42.62 kJ/mol-atom | 298.15 | DFT |  |  | [1] Wang 2014 | Table 2, p. 3, row 5 |  |
-| SrIn2 |  | -45.45 kJ/mol-atom | 298.15 | DFT |  |  | [1] Wang 2014 | Table 2, p. 3, row 7 |  |
-| SrIn2 | [In2Sr](https://data.orchid-project.org/compounds/In2Sr.html) | -45 kJ/mol-atom | 298.15 | model | -43.13 (mp-aaaabdsc) | -45.494 (oqmd-10871) | [1] Wang 2014 | Table 2, p. 3, row 8 |  |
-| SrIn3 | [In3Sr](https://data.orchid-project.org/compounds/In3Sr.html) | -37.7 kJ/mol-atom | 298.15 | model | -29.533 (mp-aaacjmnw) | -31.42 (oqmd-1794538) | [1] Wang 2014 | Table 2, p. 3, row 10 |  |
-| SrIn3 |  | -32.58 kJ/mol-atom | 298.15 | DFT |  |  | [1] Wang 2014 | Table 2, p. 3, row 9 |  |
-| SrIn5 | [In5Sr](https://data.orchid-project.org/compounds/In5Sr.html) | -26 kJ/mol-atom | 298.15 | model | -13.592 (mp-aaacqqti) | -14.676 (oqmd-1519683) | [1] Wang 2014 | Table 2, p. 3, row 12 |  |
-| SrIn5 |  | -14.97 kJ/mol-atom | 298.15 | DFT |  |  | [1] Wang 2014 | Table 2, p. 3, row 11 |  |
+| Sr3In | [InSr3](https://data.orchid-project.org/compounds/InSr3.html) | -22 kJ/mol-atom | 298.15 | model | -11.866 (mp-aaaabujt) | -17.549 (oqmd-324757) | [1] Wang 2014 | Table 2, p. 3, row 2; `ORC-Q3S3CWU4EP` |  |
+| Sr3In |  | -13.54 kJ/mol-atom | 298.15 | DFT |  |  | [1] Wang 2014 | Table 2, p. 3, row 1; `ORC-XHNFTE56K4` |  |
+| Sr5In3 | [In3Sr5](https://data.orchid-project.org/compounds/In3Sr5.html) | -34 kJ/mol-atom | 298.15 | model | -32.729 (mp-aaabglta) | -33.93 (oqmd-25865) | [1] Wang 2014 | Table 2, p. 3, row 4; `ORC-3NWCVDZQCL` |  |
+| Sr5In3 |  | -33.86 kJ/mol-atom | 298.15 | DFT |  |  | [1] Wang 2014 | Table 2, p. 3, row 3; `ORC-XGZKDFC26O` |  |
+| SrIn | [InSr](https://data.orchid-project.org/compounds/InSr.html) | -42.84 kJ/mol-atom | 298.15 | model | -41.033 (mp-aaabipnk) | -42.821 (oqmd-651142) | [1] Wang 2014 | Table 2, p. 3, row 6; `ORC-XOTK3QWOIV` |  |
+| SrIn |  | -42.62 kJ/mol-atom | 298.15 | DFT |  |  | [1] Wang 2014 | Table 2, p. 3, row 5; `ORC-4MLDBZFIYF` |  |
+| SrIn2 |  | -45.45 kJ/mol-atom | 298.15 | DFT |  |  | [1] Wang 2014 | Table 2, p. 3, row 7; `ORC-FULM3A564W` |  |
+| SrIn2 | [In2Sr](https://data.orchid-project.org/compounds/In2Sr.html) | -45 kJ/mol-atom | 298.15 | model | -43.13 (mp-aaaabdsc) | -45.494 (oqmd-10871) | [1] Wang 2014 | Table 2, p. 3, row 8; `ORC-4OG45LTVZZ` |  |
+| SrIn3 | [In3Sr](https://data.orchid-project.org/compounds/In3Sr.html) | -37.7 kJ/mol-atom | 298.15 | model | -29.533 (mp-aaacjmnw) | -31.42 (oqmd-1794538) | [1] Wang 2014 | Table 2, p. 3, row 10; `ORC-2TXOYQBUMD` |  |
+| SrIn3 |  | -32.58 kJ/mol-atom | 298.15 | DFT |  |  | [1] Wang 2014 | Table 2, p. 3, row 9; `ORC-TKIE2GGZ5Z` |  |
+| SrIn5 | [In5Sr](https://data.orchid-project.org/compounds/In5Sr.html) | -26 kJ/mol-atom | 298.15 | model | -13.592 (mp-aaacqqti) | -14.676 (oqmd-1519683) | [1] Wang 2014 | Table 2, p. 3, row 12; `ORC-LWIKSQKDN2` |  |
+| SrIn5 |  | -14.97 kJ/mol-atom | 298.15 | DFT |  |  | [1] Wang 2014 | Table 2, p. 3, row 11; `ORC-DVCWTY3WYN` |  |
 
 ## Other properties
 
@@ -115,8 +115,8 @@ Table: Phase transition, In–Sr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 831 K | 831 | congruent transformation | experimental | [1] Wang 2014 | p. 1 | “The SrIn2 and Sr3In phases melt congruently at 1203 and 831 K, respectively.” |
-| Phase transition | 1203 K | 1203 | congruent transformation | experimental | [1] Wang 2014 | p. 1 | “The SrIn2 and Sr3In phases melt congruently at 1203 and 831 K, respectively.” |
+| Phase transition | 831 K | 831 | congruent transformation | experimental | [1] Wang 2014 | p. 1; `ORC-JSOPQHAY6I.b8c861` | “The SrIn2 and Sr3In phases melt congruently at 1203 and 831 K, respectively.” |
+| Phase transition | 1203 K | 1203 | congruent transformation | experimental | [1] Wang 2014 | p. 1; `ORC-JSOPQHAY6I.03f051` | “The SrIn2 and Sr3In phases melt congruently at 1203 and 831 K, respectively.” |
 
 ### Crystal structure (23)
 
@@ -124,29 +124,29 @@ Table: Crystal structure, In–Sr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 8.36 Å | 298.15 | Sr3In; _alloy: In 0.25, Sr 0.75_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 16 |  |
-| Lattice a | 8.639 Å | 298.15 | Sr3In; _alloy: In 0.25, Sr 0.75_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 17 |  |
-| Lattice a | 8.744 Å | 298.15 | Sr5In3; _alloy: In 0.375, Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 14 |  |
-| Lattice a | 8.788 Å | 298.15 | Sr5In3; _alloy: In 0.375, Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 15 |  |
-| Lattice a | 10.222 Å | 298.15 | SrIn; _alloy: In 0.5, Sr 0.5_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 13 |  |
-| Lattice a | 10.23 Å | 298.15 | SrIn; _alloy: In 0.5, Sr 0.5_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 12 |  |
-| Lattice a | 5.08 Å | 298.15 | SrIn2; _alloy: In 0.666667, Sr 0.333333_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 11 |  |
-| Lattice a | 7.141 Å | 298.15 | SrIn3; _alloy: In 0.75, Sr 0.25_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 9 |  |
-| Lattice a | 6.769 Å | 298.15 | SrIn3; _alloy: In 0.75, Sr 0.25_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 8 |  |
-| Lattice a | 5.937 Å | 298.15 | SrIn5; _alloy: In 0.833333, Sr 0.166667_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 6 |  |
-| Lattice a | 6.301 Å | 298.15 | SrIn5; _alloy: In 0.833333, Sr 0.166667_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 7 |  |
-| Lattice b | 26.04 Å | 298.15 | SrIn; _alloy: In 0.5, Sr 0.5_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 13 |  |
-| Lattice b | 26.14 Å | 298.15 | SrIn; _alloy: In 0.5, Sr 0.5_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 12 |  |
-| Lattice c | 16.429 Å | 298.15 | Sr5In3; _alloy: In 0.375, Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 14 |  |
-| Lattice c | 16.496 Å | 298.15 | Sr5In3; _alloy: In 0.375, Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 15 |  |
-| Lattice c | 8.365 Å | 298.15 | SrIn; _alloy: In 0.5, Sr 0.5_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 13 |  |
-| Lattice c | 8.4 Å | 298.15 | SrIn; _alloy: In 0.5, Sr 0.5_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 12 |  |
-| Lattice c | 8.116 Å | 298.15 | SrIn2; _alloy: In 0.666667, Sr 0.333333_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 11 |  |
-| Lattice c | 8.021 Å | 298.15 | SrIn2; _alloy: In 0.666667, Sr 0.333333_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 10 |  |
-| Lattice c | 5.249 Å | 298.15 | SrIn3; _alloy: In 0.75, Sr 0.25_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 9 |  |
-| Lattice c | 5.481 Å | 298.15 | SrIn3; _alloy: In 0.75, Sr 0.25_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 8 |  |
-| Lattice c | 4.827 Å | 298.15 | SrIn5; _alloy: In 0.833333, Sr 0.166667_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 6 |  |
-| Lattice c | 5.27 Å | 298.15 | SrIn5; _alloy: In 0.833333, Sr 0.166667_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 7 |  |
+| Lattice a | 8.36 Å | 298.15 | Sr3In; _alloy: In 0.25, Sr 0.75_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 16; `ORC-HVPCY4B4FM` |  |
+| Lattice a | 8.639 Å | 298.15 | Sr3In; _alloy: In 0.25, Sr 0.75_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 17; `ORC-KQGCKRPWXQ` |  |
+| Lattice a | 8.744 Å | 298.15 | Sr5In3; _alloy: In 0.375, Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 14; `ORC-KTPZ66DKJA.1cfa35` |  |
+| Lattice a | 8.788 Å | 298.15 | Sr5In3; _alloy: In 0.375, Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 15; `ORC-ZG5WYVIUJ3.bc57b8` |  |
+| Lattice a | 10.222 Å | 298.15 | SrIn; _alloy: In 0.5, Sr 0.5_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 13; `ORC-OBQJGARL6Q.b7c63b` |  |
+| Lattice a | 10.23 Å | 298.15 | SrIn; _alloy: In 0.5, Sr 0.5_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 12; `ORC-OHE7HW5UMG.020049` |  |
+| Lattice a | 5.08 Å | 298.15 | SrIn2; _alloy: In 0.666667, Sr 0.333333_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 11; `ORC-L6A3R2TOUH.62c231` |  |
+| Lattice a | 7.141 Å | 298.15 | SrIn3; _alloy: In 0.75, Sr 0.25_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 9; `ORC-7F673ESMUY.40cda7` |  |
+| Lattice a | 6.769 Å | 298.15 | SrIn3; _alloy: In 0.75, Sr 0.25_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 8; `ORC-VFETWWY77Q.27624a` |  |
+| Lattice a | 5.937 Å | 298.15 | SrIn5; _alloy: In 0.833333, Sr 0.166667_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 6; `ORC-4ORSZDZKOS.841d45` |  |
+| Lattice a | 6.301 Å | 298.15 | SrIn5; _alloy: In 0.833333, Sr 0.166667_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 7; `ORC-AAO3PALCOC.381939` |  |
+| Lattice b | 26.04 Å | 298.15 | SrIn; _alloy: In 0.5, Sr 0.5_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 13; `ORC-OBQJGARL6Q.333e34` |  |
+| Lattice b | 26.14 Å | 298.15 | SrIn; _alloy: In 0.5, Sr 0.5_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 12; `ORC-OHE7HW5UMG.8a3be1` |  |
+| Lattice c | 16.429 Å | 298.15 | Sr5In3; _alloy: In 0.375, Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 14; `ORC-KTPZ66DKJA.c956f1` |  |
+| Lattice c | 16.496 Å | 298.15 | Sr5In3; _alloy: In 0.375, Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 15; `ORC-ZG5WYVIUJ3.c843bd` |  |
+| Lattice c | 8.365 Å | 298.15 | SrIn; _alloy: In 0.5, Sr 0.5_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 13; `ORC-OBQJGARL6Q.32d7f3` |  |
+| Lattice c | 8.4 Å | 298.15 | SrIn; _alloy: In 0.5, Sr 0.5_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 12; `ORC-OHE7HW5UMG.c5c01b` |  |
+| Lattice c | 8.116 Å | 298.15 | SrIn2; _alloy: In 0.666667, Sr 0.333333_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 11; `ORC-L6A3R2TOUH.d703b3` |  |
+| Lattice c | 8.021 Å | 298.15 | SrIn2; _alloy: In 0.666667, Sr 0.333333_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 10; `ORC-Q4DAN6LW7J` |  |
+| Lattice c | 5.249 Å | 298.15 | SrIn3; _alloy: In 0.75, Sr 0.25_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 9; `ORC-7F673ESMUY.91f187` |  |
+| Lattice c | 5.481 Å | 298.15 | SrIn3; _alloy: In 0.75, Sr 0.25_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 8; `ORC-VFETWWY77Q.77edf6` |  |
+| Lattice c | 4.827 Å | 298.15 | SrIn5; _alloy: In 0.833333, Sr 0.166667_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 6; `ORC-4ORSZDZKOS.7950e6` |  |
+| Lattice c | 5.27 Å | 298.15 | SrIn5; _alloy: In 0.833333, Sr 0.166667_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 7; `ORC-AAO3PALCOC.7246a6` |  |
 
 ## Sources
 
@@ -211,4 +211,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

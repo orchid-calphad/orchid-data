@@ -34,40 +34,40 @@ Table: Invariant reactions reported in the literature for the B–Nb system (34)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 3313 | congruent melting: L \<-> NbB2 | L: B 0.66; NbB2: B 0.66 | experimental | [1] Witusiewicz 2008; _cites Rudy 1969_ | Table 5, p. 5, row 26 |  |
-| 3308 | congruent melting: L \<-> NbB2 | L: B 0.667; NbB2: B 0.667 | model | [1] Witusiewicz 2008; _cites Kaufman 1984_ [doi](https://doi.org/10.1016/0364-5916%2884%2990026-9) | Table 5, p. 5, row 27 |  |
-| 3303 | congruent melting: L \<-> NbB2 | L: B 0.659; NbB2: B 0.659 | model | [1] Witusiewicz 2008 | Table 5, p. 5, row 28 |  |
-| 3273 | congruent melting: L \<-> NbB2 | L: B 0.666; NbB2: B 0.666 | experimental | [1] Witusiewicz 2008; _cites Nowotny 1959_ | Table 5, p. 5, row 25 |  |
-| 3212 | peritectic: L + NbB2 \<-> Nb3B4 | L: B 0.573; NbB2: B 0.61; Nb3B4: B 0.58 | experimental | [1] Witusiewicz 2008; _cites Rudy 1969_ | Table 5, p. 5, row 20 |  |
-| 3194 | congruent melting: L \<-> NbB | L: B 0.5; NbB: B 0.5 | experimental | [1] Witusiewicz 2008; _cites Rudy 1969_ | Table 5, p. 5, row 12 |  |
-| 3186 | peritectic: L + NbB2 \<-> Nb3B4 | L: B 0.527; NbB2: B 0.61; Nb3B4: B 0.571 | model | [1] Witusiewicz 2008 | Table 5, p. 5, row 22 |  |
-| 3176 | congruent melting: L \<-> NbB | L: B 0.499; NbB: B 0.499 | model | [1] Witusiewicz 2008 | Table 5, p. 5, row 13 |  |
-| 3174.2 | peritectic: L + Nb3B4 \<-> Nb5B6 | L: B 0.514; Nb3B4: B 0.571; Nb5B6: B 0.545 | model | [1] Witusiewicz 2008 | Table 5, p. 5, row 18 |  |
-| 3174.1 | eutectic: L \<-> NbB + Nb5B6 | L: B 0.514; NbB: B 0.499; Nb5B6: B 0.545 | model | [1] Witusiewicz 2008 | Table 5, p. 5, row 17 |  |
-| 3170 | peritectic: L + Nb3B4 -> Nb5B6 |  | model | [2] Peçanha 2007 | p. 6 | “The temperature for the peritectic formation of Nb5B6 (L þ Nb3B4 4 Nb5B6) was assumed to be 3170 K, which is a mean value between the temperatures given by Rudy and Windisch for the immediate neighbor invariant transformations.” |
-| 3169 | peritectic: L + NbB2 \<-> Nb3B4 | L: B 0.582; NbB2: B 0.7; Nb3B4: B 0.571 | model | [1] Witusiewicz 2008; _cites Kaufman 1984_ [doi](https://doi.org/10.1016/0364-5916%2884%2990026-9) | Table 5, p. 5, row 21 |  |
-| 3137 | eutectic: L \<-> NbB + Nb3B4 | L: B 0.54; NbB: B 0.51; Nb3B4: B 0.575 | experimental | [1] Witusiewicz 2008; _cites Rudy 1969_ | Table 5, p. 5, row 15 |  |
-| 3133 | eutectic: L -> NbB + Nb5B6 |  | experimental | [2] Peçanha 2007; _cites Rudy 1966_ | p. 6 | “However, to make the stability of Nb5B6 compatible with the measurements of Rudy and Windisch, the 3133 K reported for the eutectic L 4 NbB þ Nb3B4 was assumed to be valid for the eutectic L 4 NbB þ Nb5B6, with the composition of the liquid at 52 at% B \[10\].” |
-| 3044 | eutectic: L \<-> NbB + Nb3B4 | L: B 0.582; NbB: B 0.5; Nb3B4: B 0.571 | model | [1] Witusiewicz 2008; _cites Kaufman 1984_ [doi](https://doi.org/10.1016/0364-5916%2884%2990026-9) | Table 5, p. 5, row 16 |  |
-| 3023 | eutectic: L \<-> NbB + Nb3B4 | L: B 0.53; NbB: B 0.5; Nb3B4: B 0.57 | experimental | [1] Witusiewicz 2008; _cites Nowotny 1959_ | Table 5, p. 5, row 14 |  |
-| 2993 | peritectic: L + NbB2 \<-> Nb3B4 | L: B 0.555; NbB2: B 0.64; Nb3B4: B 0.57 | experimental | [1] Witusiewicz 2008; _cites Nowotny 1959_ | Table 5, p. 5, row 19 |  |
-| 2650 | peritectoid: Nb3B4 + NbB2 \<-> Nb2B3 | Nb3B4: B 0.571; NbB2: B 0.659; Nb2B3: B 0.6 | model | [1] Witusiewicz 2008 | Table 5, p. 5, row 24 |  |
-| 2563 | congruent melting: L \<-> NbB | L: B 0.5; NbB: B 0.5 | experimental | [1] Witusiewicz 2008; _cites Nowotny 1959_ | Table 5, p. 5, row 11 |  |
-| 2463 | eutectic: L \<-> bcc + NbB | L: B 0.15; NbB: B 0.5, Nb 0.5 | experimental | [1] Witusiewicz 2008 | Table 5, p. 5, row 4 |  |
-| 2453 | eutectic: L \<-> bcc + NbB | L: B 0.151; bcc: B 0.02; NbB: B 0.488 | model | [1] Witusiewicz 2008 | Table 5, p. 5, row 6 |  |
-| 2443 | eutectic: L \<-> bcc + NbB | L: B 0.12; NbB: B 0.5, Nb 0.5 | experimental | [1] Witusiewicz 2008; _cites Pshokin 1971_ | Table 5, p. 5, row 3 |  |
-| 2441 | eutectic: L \<-> bcc + NbB | L: B 0.19; bcc: B 0.02; NbB: B 0.49 | experimental | [1] Witusiewicz 2008; _cites Rudy 1969_ | Table 5, p. 5, row 2 |  |
-| 2439 | eutectic: L \<-> bcc + NbB | L: B 0.151; bcc: B 0.005; NbB: B 0.5 | model | [1] Witusiewicz 2008; _cites Kaufman 1984_ [doi](https://doi.org/10.1016/0364-5916%2884%2990026-9) | Table 5, p. 5, row 5 |  |
-| 2353 | peritectoid: bcc + NbB \<-> Nb3B2 | bcc: B 0.009; NbB: B 0.5; Nb3B2: B 0.4 | experimental | [1] Witusiewicz 2008; _cites Rudy 1969_ | Table 5, p. 5, row 8 |  |
-| 2350 | peritectoid: bcc + NbB \<-> Nb3B2 | bcc: B 0.019; NbB: B 0.49; Nb3B2: B 0.4 | model | [1] Witusiewicz 2008 | Table 5, p. 5, row 10 |  |
-| 2310 | eutectic: L \<-> NbB2 + (βB) | L: B 0.98; NbB2: B 0.7; (βB): B 0.995 | experimental | [1] Witusiewicz 2008; _cites Rudy 1969_ | Table 5, p. 5, row 30 |  |
-| 2285 | eutectic: L \<-> NbB2 + (βB) | L: B 0.954; NbB2: B 0.703; (βB): B 0.995 | model | [1] Witusiewicz 2008 | Table 5, p. 5, row 32 |  |
-| 2234 | eutectic: L \<-> NbB2 + (βB) | L: B 0.958; NbB2: B 0.7; (βB): B 1 | model | [1] Witusiewicz 2008; _cites Kaufman 1984_ [doi](https://doi.org/10.1016/0364-5916%2884%2990026-9) | Table 5, p. 5, row 31 |  |
-| 2213 | eutectic: L \<-> NbB2 + (βB) | L: B 0.91; NbB2: B 0.74; (βB): B 0.975 | experimental | [1] Witusiewicz 2008; _cites Nowotny 1959_ | Table 5, p. 5, row 29 |  |
-| 2209 | peritectoid: bcc + NbB \<-> Nb3B2 | bcc: B 0.003; NbB: B 0.5; Nb3B2: B 0.4 | model | [1] Witusiewicz 2008; _cites Kaufman 1984_ [doi](https://doi.org/10.1016/0364-5916%2884%2990026-9) | Table 5, p. 5, row 9 |  |
-| 2113 | peritectic: L + NbB \<-> Nb3B2 | L: B 0.385; NbB: B 0.5; Nb3B2: B 0.4 | experimental | [1] Witusiewicz 2008; _cites Nowotny 1959_ | Table 5, p. 5, row 7 |  |
-| 1973 | other: ? \<-> Nb2B3 | ?: B 0.6, Nb 0.4; Nb2B3: B 0.6, Nb 0.4 | experimental | [1] Witusiewicz 2008; _cites Okada 1991_ | Table 5, p. 5, row 23 |  |
-| 1873 | eutectic: L \<-> bcc + Nb3B2 | L: B 0.2; bcc: B 0.03; Nb3B2: B 0.4 | experimental | [1] Witusiewicz 2008; _cites Nowotny 1959_ | Table 5, p. 5, row 1 |  |
+| 3313 | congruent melting: L \<-> NbB2 | L: B 0.66; NbB2: B 0.66 | experimental | [1] Witusiewicz 2008; _cites Rudy 1969_ | Table 5, p. 5, row 26; `ORC-OK3SL43HH4` |  |
+| 3308 | congruent melting: L \<-> NbB2 | L: B 0.667; NbB2: B 0.667 | model | [1] Witusiewicz 2008; _cites Kaufman 1984_ [doi](https://doi.org/10.1016/0364-5916%2884%2990026-9) | Table 5, p. 5, row 27; `ORC-44IUUMHSNX` |  |
+| 3303 | congruent melting: L \<-> NbB2 | L: B 0.659; NbB2: B 0.659 | model | [1] Witusiewicz 2008 | Table 5, p. 5, row 28; `ORC-LQ5MBP62XP` |  |
+| 3273 | congruent melting: L \<-> NbB2 | L: B 0.666; NbB2: B 0.666 | experimental | [1] Witusiewicz 2008; _cites Nowotny 1959_ | Table 5, p. 5, row 25; `ORC-5DGVYTNCDO` |  |
+| 3212 | peritectic: L + NbB2 \<-> Nb3B4 | L: B 0.573; NbB2: B 0.61; Nb3B4: B 0.58 | experimental | [1] Witusiewicz 2008; _cites Rudy 1969_ | Table 5, p. 5, row 20; `ORC-ZT6JVCU2IA` |  |
+| 3194 | congruent melting: L \<-> NbB | L: B 0.5; NbB: B 0.5 | experimental | [1] Witusiewicz 2008; _cites Rudy 1969_ | Table 5, p. 5, row 12; `ORC-X6KTREMNFW` |  |
+| 3186 | peritectic: L + NbB2 \<-> Nb3B4 | L: B 0.527; NbB2: B 0.61; Nb3B4: B 0.571 | model | [1] Witusiewicz 2008 | Table 5, p. 5, row 22; `ORC-FTKBZ3BLME` |  |
+| 3176 | congruent melting: L \<-> NbB | L: B 0.499; NbB: B 0.499 | model | [1] Witusiewicz 2008 | Table 5, p. 5, row 13; `ORC-ZBQWH5FRG4` |  |
+| 3174.2 | peritectic: L + Nb3B4 \<-> Nb5B6 | L: B 0.514; Nb3B4: B 0.571; Nb5B6: B 0.545 | model | [1] Witusiewicz 2008 | Table 5, p. 5, row 18; `ORC-FDY4WHVIPK` |  |
+| 3174.1 | eutectic: L \<-> NbB + Nb5B6 | L: B 0.514; NbB: B 0.499; Nb5B6: B 0.545 | model | [1] Witusiewicz 2008 | Table 5, p. 5, row 17; `ORC-YF6O2BOOQA` |  |
+| 3170 | peritectic: L + Nb3B4 -> Nb5B6 |  | model | [2] Peçanha 2007 | p. 6; `ORC-Y2C3BRQWRM` | “The temperature for the peritectic formation of Nb5B6 (L þ Nb3B4 4 Nb5B6) was assumed to be 3170 K, which is a mean value between the temperatures given by Rudy and Windisch for the immediate neighbor invariant transformations.” |
+| 3169 | peritectic: L + NbB2 \<-> Nb3B4 | L: B 0.582; NbB2: B 0.7; Nb3B4: B 0.571 | model | [1] Witusiewicz 2008; _cites Kaufman 1984_ [doi](https://doi.org/10.1016/0364-5916%2884%2990026-9) | Table 5, p. 5, row 21; `ORC-ZNWYZDJ2DY` |  |
+| 3137 | eutectic: L \<-> NbB + Nb3B4 | L: B 0.54; NbB: B 0.51; Nb3B4: B 0.575 | experimental | [1] Witusiewicz 2008; _cites Rudy 1969_ | Table 5, p. 5, row 15; `ORC-I4ZROGNJSX` |  |
+| 3133 | eutectic: L -> NbB + Nb5B6 |  | experimental | [2] Peçanha 2007; _cites Rudy 1966_ | p. 6; `ORC-V444AZOQBU` | “However, to make the stability of Nb5B6 compatible with the measurements of Rudy and Windisch, the 3133 K reported for the eutectic L 4 NbB þ Nb3B4 was assumed to be valid for the eutectic L 4 NbB þ Nb5B6, with the composition of the liquid at 52 at% B \[10\].” |
+| 3044 | eutectic: L \<-> NbB + Nb3B4 | L: B 0.582; NbB: B 0.5; Nb3B4: B 0.571 | model | [1] Witusiewicz 2008; _cites Kaufman 1984_ [doi](https://doi.org/10.1016/0364-5916%2884%2990026-9) | Table 5, p. 5, row 16; `ORC-7W43OQTTM2` |  |
+| 3023 | eutectic: L \<-> NbB + Nb3B4 | L: B 0.53; NbB: B 0.5; Nb3B4: B 0.57 | experimental | [1] Witusiewicz 2008; _cites Nowotny 1959_ | Table 5, p. 5, row 14; `ORC-A3GUSPR7CJ` |  |
+| 2993 | peritectic: L + NbB2 \<-> Nb3B4 | L: B 0.555; NbB2: B 0.64; Nb3B4: B 0.57 | experimental | [1] Witusiewicz 2008; _cites Nowotny 1959_ | Table 5, p. 5, row 19; `ORC-JLVXPI35HO` |  |
+| 2650 | peritectoid: Nb3B4 + NbB2 \<-> Nb2B3 | Nb3B4: B 0.571; NbB2: B 0.659; Nb2B3: B 0.6 | model | [1] Witusiewicz 2008 | Table 5, p. 5, row 24; `ORC-5OVXVGYA5C` |  |
+| 2563 | congruent melting: L \<-> NbB | L: B 0.5; NbB: B 0.5 | experimental | [1] Witusiewicz 2008; _cites Nowotny 1959_ | Table 5, p. 5, row 11; `ORC-S2XWB5XEJD` |  |
+| 2463 | eutectic: L \<-> bcc + NbB | L: B 0.15; NbB: B 0.5, Nb 0.5 | experimental | [1] Witusiewicz 2008 | Table 5, p. 5, row 4; `ORC-4AQCE7VTRA` |  |
+| 2453 | eutectic: L \<-> bcc + NbB | L: B 0.151; bcc: B 0.02; NbB: B 0.488 | model | [1] Witusiewicz 2008 | Table 5, p. 5, row 6; `ORC-NLKYLB2UKV` |  |
+| 2443 | eutectic: L \<-> bcc + NbB | L: B 0.12; NbB: B 0.5, Nb 0.5 | experimental | [1] Witusiewicz 2008; _cites Pshokin 1971_ | Table 5, p. 5, row 3; `ORC-RSLQECDCOH` |  |
+| 2441 | eutectic: L \<-> bcc + NbB | L: B 0.19; bcc: B 0.02; NbB: B 0.49 | experimental | [1] Witusiewicz 2008; _cites Rudy 1969_ | Table 5, p. 5, row 2; `ORC-2RT6QBRX6G` |  |
+| 2439 | eutectic: L \<-> bcc + NbB | L: B 0.151; bcc: B 0.005; NbB: B 0.5 | model | [1] Witusiewicz 2008; _cites Kaufman 1984_ [doi](https://doi.org/10.1016/0364-5916%2884%2990026-9) | Table 5, p. 5, row 5; `ORC-QXM76MQ2LK` |  |
+| 2353 | peritectoid: bcc + NbB \<-> Nb3B2 | bcc: B 0.009; NbB: B 0.5; Nb3B2: B 0.4 | experimental | [1] Witusiewicz 2008; _cites Rudy 1969_ | Table 5, p. 5, row 8; `ORC-VTSR6ESDAS` |  |
+| 2350 | peritectoid: bcc + NbB \<-> Nb3B2 | bcc: B 0.019; NbB: B 0.49; Nb3B2: B 0.4 | model | [1] Witusiewicz 2008 | Table 5, p. 5, row 10; `ORC-37NWD7EBKS` |  |
+| 2310 | eutectic: L \<-> NbB2 + (βB) | L: B 0.98; NbB2: B 0.7; (βB): B 0.995 | experimental | [1] Witusiewicz 2008; _cites Rudy 1969_ | Table 5, p. 5, row 30; `ORC-DX7U4F2QAQ` |  |
+| 2285 | eutectic: L \<-> NbB2 + (βB) | L: B 0.954; NbB2: B 0.703; (βB): B 0.995 | model | [1] Witusiewicz 2008 | Table 5, p. 5, row 32; `ORC-47EJPNFKY5` |  |
+| 2234 | eutectic: L \<-> NbB2 + (βB) | L: B 0.958; NbB2: B 0.7; (βB): B 1 | model | [1] Witusiewicz 2008; _cites Kaufman 1984_ [doi](https://doi.org/10.1016/0364-5916%2884%2990026-9) | Table 5, p. 5, row 31; `ORC-FGTOW63ZPR` |  |
+| 2213 | eutectic: L \<-> NbB2 + (βB) | L: B 0.91; NbB2: B 0.74; (βB): B 0.975 | experimental | [1] Witusiewicz 2008; _cites Nowotny 1959_ | Table 5, p. 5, row 29; `ORC-A4DJ2PHAMS` |  |
+| 2209 | peritectoid: bcc + NbB \<-> Nb3B2 | bcc: B 0.003; NbB: B 0.5; Nb3B2: B 0.4 | model | [1] Witusiewicz 2008; _cites Kaufman 1984_ [doi](https://doi.org/10.1016/0364-5916%2884%2990026-9) | Table 5, p. 5, row 9; `ORC-PWPRQQJNWO` |  |
+| 2113 | peritectic: L + NbB \<-> Nb3B2 | L: B 0.385; NbB: B 0.5; Nb3B2: B 0.4 | experimental | [1] Witusiewicz 2008; _cites Nowotny 1959_ | Table 5, p. 5, row 7; `ORC-WGKQ62JYXH` |  |
+| 1973 | other: ? \<-> Nb2B3 | ?: B 0.6, Nb 0.4; Nb2B3: B 0.6, Nb 0.4 | experimental | [1] Witusiewicz 2008; _cites Okada 1991_ | Table 5, p. 5, row 23; `ORC-TZ5T6OWYPK` |  |
+| 1873 | eutectic: L \<-> bcc + Nb3B2 | L: B 0.2; bcc: B 0.03; Nb3B2: B 0.4 | experimental | [1] Witusiewicz 2008; _cites Nowotny 1959_ | Table 5, p. 5, row 1; `ORC-3KFHEGW6NH` |  |
 
 ## Formation enthalpies
 
@@ -77,14 +77,14 @@ Table: Enthalpies of formation, B–Nb system (8)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| NbB |  | -82.6 kJ/mol-atom | 0 | DFT |  |  | [3] Nakama 2009 | Table 4, p. 7, row 18 |  |
-| NbB |  | -82.4 kJ/mol-atom | 0 | DFT |  |  | [3] Nakama 2009 | Table 4, p. 7, row 17 |  |
-| NbB |  | -82.2 kJ/mol-atom | 0 | DFT |  |  | [3] Nakama 2009 | Table 4, p. 7, row 16 |  |
-| NbB |  | -79.4 kJ/mol-atom | 0 | DFT |  |  | [3] Nakama 2009 | Table 4, p. 7, row 15 |  |
-| NbB |  | -79.2 kJ/mol-atom | 0 | DFT |  |  | [3] Nakama 2009 | Table 4, p. 7, row 14 |  |
-| NbB |  | -78.7 kJ/mol-atom | 0 | DFT |  |  | [3] Nakama 2009 | Table 4, p. 7, row 12 |  |
-| NbB | [NbB](https://data.orchid-project.org/compounds/NbB.html) | -78.7 kJ/mol-atom |  | model | -74.259 (mp-aaaaadvg) | -74.633 (oqmd-7942) | [3] Nakama 2009; _cites Witusiewicz 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.02.030) | Table 4, p. 7, row 13 |  |
-| NbB | [NbB](https://data.orchid-project.org/compounds/NbB.html) | -67.9 kJ/mol-atom |  | model | -74.259 (mp-aaaaadvg) | -74.633 (oqmd-7942) | [3] Nakama 2009; _cites Witusiewicz 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.02.030) | Table 4, p. 7, row 20 |  |
+| NbB |  | -82.6 kJ/mol-atom | 0 | DFT |  |  | [3] Nakama 2009 | Table 4, p. 7, row 18; `ORC-2BUI7LDO7M.50b4cb` |  |
+| NbB |  | -82.4 kJ/mol-atom | 0 | DFT |  |  | [3] Nakama 2009 | Table 4, p. 7, row 17; `ORC-IXSRASZFSQ.e7988d` |  |
+| NbB |  | -82.2 kJ/mol-atom | 0 | DFT |  |  | [3] Nakama 2009 | Table 4, p. 7, row 16; `ORC-AMHAZHC3JG.b896d5` |  |
+| NbB |  | -79.4 kJ/mol-atom | 0 | DFT |  |  | [3] Nakama 2009 | Table 4, p. 7, row 15; `ORC-DYDCD5U2H3.351c3e` |  |
+| NbB |  | -79.2 kJ/mol-atom | 0 | DFT |  |  | [3] Nakama 2009 | Table 4, p. 7, row 14; `ORC-RQL5WHG5UA.11ab6c` |  |
+| NbB |  | -78.7 kJ/mol-atom | 0 | DFT |  |  | [3] Nakama 2009 | Table 4, p. 7, row 12; `ORC-5CJQHQAMZU.7c1178` |  |
+| NbB | [NbB](https://data.orchid-project.org/compounds/NbB.html) | -78.7 kJ/mol-atom |  | model | -74.259 (mp-aaaaadvg) | -74.633 (oqmd-7942) | [3] Nakama 2009; _cites Witusiewicz 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.02.030) | Table 4, p. 7, row 13; `ORC-BVDOQJWF5X.dd9159` |  |
+| NbB | [NbB](https://data.orchid-project.org/compounds/NbB.html) | -67.9 kJ/mol-atom |  | model | -74.259 (mp-aaaaadvg) | -74.633 (oqmd-7942) | [3] Nakama 2009; _cites Witusiewicz 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.02.030) | Table 4, p. 7, row 20; `ORC-BET4M7LXLW.adac01` |  |
 
 ## Other properties
 
@@ -94,15 +94,15 @@ Table: Heat capacity / entropy / enthalpy, B–Nb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: Entropy at 298.15 K_ | 20.4 J/mol-atom/K | 298.15 | Nb3B2; _alloy: Nb 0.6_ | experimental | [2] Peçanha 2007; _cites Blinder 1991_ [doi](https://doi.org/10.1007/bf00794439) | Table 4, p. 6, row 4 |  |
-| Entropy; _printed: Entropy at 298.15 K_ | 19.88 J/mol-atom/K | 298.15 | Nb3B2; _alloy: Nb 0.6_ | model | [2] Peçanha 2007 | Table 4, p. 6, row 3 |  |
-| Entropy; _printed: Entropy at 298.15 K_ | 17.3857 J/mol-atom/K | 298.15 | Nb3B4; _alloy: Nb 0.428571_ | model | [2] Peçanha 2007 | Table 4, p. 6, row 8 |  |
-| Entropy; _printed: Entropy at 298.15 K_ | 17.3 J/mol-atom/K | 298.15 | Nb3B4; _alloy: Nb 0.428571_ | experimental | [2] Peçanha 2007; _cites Blinder 1991_ [doi](https://doi.org/10.1007/bf00794439) | Table 4, p. 6, row 9 |  |
-| Entropy; _printed: Entropy at 298.15 K_ | 17.8636 J/mol-atom/K | 298.15 | Nb5B6; _alloy: Nb 0.454545_ | model | [2] Peçanha 2007 | Table 4, p. 6, row 7 |  |
-| Entropy; _printed: Entropy at 298.15 K_ | 19.05 J/mol-atom/K | 298.15 | NbB; _alloy: Nb 0.5_ | model | [2] Peçanha 2007 | Table 4, p. 6, row 5 |  |
-| Entropy; _printed: Entropy at 298.15 K_ | 19 J/mol-atom/K | 298.15 | NbB; _alloy: Nb 0.5_ | experimental | [2] Peçanha 2007; _cites Blinder 1991_ [doi](https://doi.org/10.1007/bf00794439) | Table 4, p. 6, row 6 |  |
-| Entropy; _printed: Entropy at 298.15 K_ | 12.7 J/mol-atom/K | 298.15 | NbB2; _alloy: Nb 0.333333_ | experimental | [2] Peçanha 2007; _cites Westrum 1963_ [doi](https://doi.org/10.1021/j100805a030) | Table 4, p. 6, row 2 |  |
-| Entropy; _printed: Entropy at 298.15 K_ | 12.9 J/mol-atom/K | 298.15 | NbB2; _alloy: Nb 0.333333_ | model | [2] Peçanha 2007 | Table 4, p. 6, row 1 |  |
+| Entropy; _printed: Entropy at 298.15 K_ | 20.4 J/mol-atom/K | 298.15 | Nb3B2; _alloy: Nb 0.6_ | experimental | [2] Peçanha 2007; _cites Blinder 1991_ [doi](https://doi.org/10.1007/bf00794439) | Table 4, p. 6, row 4; `ORC-PC4VPHHPN2` |  |
+| Entropy; _printed: Entropy at 298.15 K_ | 19.88 J/mol-atom/K | 298.15 | Nb3B2; _alloy: Nb 0.6_ | model | [2] Peçanha 2007 | Table 4, p. 6, row 3; `ORC-VPJLWQ2ZPF` |  |
+| Entropy; _printed: Entropy at 298.15 K_ | 17.3857 J/mol-atom/K | 298.15 | Nb3B4; _alloy: Nb 0.428571_ | model | [2] Peçanha 2007 | Table 4, p. 6, row 8; `ORC-52SY72CS4F` |  |
+| Entropy; _printed: Entropy at 298.15 K_ | 17.3 J/mol-atom/K | 298.15 | Nb3B4; _alloy: Nb 0.428571_ | experimental | [2] Peçanha 2007; _cites Blinder 1991_ [doi](https://doi.org/10.1007/bf00794439) | Table 4, p. 6, row 9; `ORC-IHDYFUIRSU` |  |
+| Entropy; _printed: Entropy at 298.15 K_ | 17.8636 J/mol-atom/K | 298.15 | Nb5B6; _alloy: Nb 0.454545_ | model | [2] Peçanha 2007 | Table 4, p. 6, row 7; `ORC-O6MTEXJQYS` |  |
+| Entropy; _printed: Entropy at 298.15 K_ | 19.05 J/mol-atom/K | 298.15 | NbB; _alloy: Nb 0.5_ | model | [2] Peçanha 2007 | Table 4, p. 6, row 5; `ORC-BP3JNGLXPB` |  |
+| Entropy; _printed: Entropy at 298.15 K_ | 19 J/mol-atom/K | 298.15 | NbB; _alloy: Nb 0.5_ | experimental | [2] Peçanha 2007; _cites Blinder 1991_ [doi](https://doi.org/10.1007/bf00794439) | Table 4, p. 6, row 6; `ORC-TJSE6F4VMD` |  |
+| Entropy; _printed: Entropy at 298.15 K_ | 12.7 J/mol-atom/K | 298.15 | NbB2; _alloy: Nb 0.333333_ | experimental | [2] Peçanha 2007; _cites Westrum 1963_ [doi](https://doi.org/10.1021/j100805a030) | Table 4, p. 6, row 2; `ORC-BAVSMZ74DE` |  |
+| Entropy; _printed: Entropy at 298.15 K_ | 12.9 J/mol-atom/K | 298.15 | NbB2; _alloy: Nb 0.333333_ | model | [2] Peçanha 2007 | Table 4, p. 6, row 1; `ORC-X45MUSKLH6` |  |
 
 ### Crystal structure (19)
 
@@ -110,25 +110,25 @@ Table: Crystal structure, B–Nb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| site fractional coordinates |  | 298.15 | BCC | unspecified | [2] Peçanha 2007; _cites Villars 1991_ | Table 1, p. 3, row 1 |  |
-| site fractional coordinates |  | 298.15 | BCC | unspecified | [2] Peçanha 2007; _cites Villars 1991_ | Table 1, p. 3, row 1 |  |
-| site fractional coordinates |  | 298.15 | Nb3B2; _alloy: Nb 0.6_ | unspecified | [2] Peçanha 2007; _cites Villars 1991_ | Table 1, p. 3, row 2 |  |
-| site fractional coordinates |  | 298.15 | Nb3B2; _alloy: Nb 0.6_ | unspecified | [2] Peçanha 2007; _cites Villars 1991_ | Table 1, p. 3, row 2 |  |
-| site fractional coordinates |  | 298.15 | Nb3B2; _alloy: Nb 0.6_ | unspecified | [2] Peçanha 2007; _cites Villars 1991_ | Table 1, p. 3, row 2 |  |
-| site fractional coordinates |  | 298.15 | Nb3B4; _alloy: Nb 0.428571_ | unspecified | [2] Peçanha 2007; _cites Villars 1991_ | Table 1, p. 3, row 5 |  |
-| site fractional coordinates |  | 298.15 | Nb3B4; _alloy: Nb 0.428571_ | unspecified | [2] Peçanha 2007; _cites Villars 1991_ | Table 1, p. 3, row 5 |  |
-| site fractional coordinates |  | 298.15 | Nb3B4; _alloy: Nb 0.428571_ | unspecified | [2] Peçanha 2007; _cites Villars 1991_ | Table 1, p. 3, row 5 |  |
-| site fractional coordinates |  | 298.15 | Nb3B4; _alloy: Nb 0.428571_ | unspecified | [2] Peçanha 2007; _cites Villars 1991_ | Table 1, p. 3, row 5 |  |
-| site fractional coordinates |  | 298.15 | Nb5B6; _alloy: Nb 0.454545_ | unspecified | [2] Peçanha 2007; _cites Bolmgren 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990170-o) | Table 1, p. 3, row 4 |  |
-| site fractional coordinates |  | 298.15 | Nb5B6; _alloy: Nb 0.454545_ | unspecified | [2] Peçanha 2007; _cites Bolmgren 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990170-o) | Table 1, p. 3, row 4 |  |
-| site fractional coordinates |  | 298.15 | Nb5B6; _alloy: Nb 0.454545_ | unspecified | [2] Peçanha 2007; _cites Bolmgren 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990170-o) | Table 1, p. 3, row 4 |  |
-| site fractional coordinates |  | 298.15 | Nb5B6; _alloy: Nb 0.454545_ | unspecified | [2] Peçanha 2007; _cites Bolmgren 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990170-o) | Table 1, p. 3, row 4 |  |
-| site fractional coordinates |  | 298.15 | Nb5B6; _alloy: Nb 0.454545_ | unspecified | [2] Peçanha 2007; _cites Bolmgren 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990170-o) | Table 1, p. 3, row 4 |  |
-| site fractional coordinates |  | 298.15 | Nb5B6; _alloy: Nb 0.454545_ | unspecified | [2] Peçanha 2007; _cites Bolmgren 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990170-o) | Table 1, p. 3, row 4 |  |
-| site fractional coordinates |  | 298.15 | NbB; _alloy: Nb 0.5_ | unspecified | [2] Peçanha 2007; _cites Villars 1991_ | Table 1, p. 3, row 3 |  |
-| site fractional coordinates |  | 298.15 | NbB; _alloy: Nb 0.5_ | unspecified | [2] Peçanha 2007; _cites Villars 1991_ | Table 1, p. 3, row 3 |  |
-| site fractional coordinates |  | 298.15 | NbB2; _alloy: Nb 0.333333_ | unspecified | [2] Peçanha 2007; _cites Villars 1991_ | Table 1, p. 3, row 6 |  |
-| site fractional coordinates |  | 298.15 | NbB2; _alloy: Nb 0.333333_ | unspecified | [2] Peçanha 2007; _cites Villars 1991_ | Table 1, p. 3, row 6 |  |
+| site fractional coordinates |  | 298.15 | BCC | unspecified | [2] Peçanha 2007; _cites Villars 1991_ | Table 1, p. 3, row 1; `ORC-UQOZGRLVTN.8dd0b5` |  |
+| site fractional coordinates |  | 298.15 | BCC | unspecified | [2] Peçanha 2007; _cites Villars 1991_ | Table 1, p. 3, row 1; `ORC-UQOZGRLVTN.c4c2ed` |  |
+| site fractional coordinates |  | 298.15 | Nb3B2; _alloy: Nb 0.6_ | unspecified | [2] Peçanha 2007; _cites Villars 1991_ | Table 1, p. 3, row 2; `ORC-RSJYGYAM4P.0a7411` |  |
+| site fractional coordinates |  | 298.15 | Nb3B2; _alloy: Nb 0.6_ | unspecified | [2] Peçanha 2007; _cites Villars 1991_ | Table 1, p. 3, row 2; `ORC-RSJYGYAM4P.0f00c9` |  |
+| site fractional coordinates |  | 298.15 | Nb3B2; _alloy: Nb 0.6_ | unspecified | [2] Peçanha 2007; _cites Villars 1991_ | Table 1, p. 3, row 2; `ORC-RSJYGYAM4P.4794b3` |  |
+| site fractional coordinates |  | 298.15 | Nb3B4; _alloy: Nb 0.428571_ | unspecified | [2] Peçanha 2007; _cites Villars 1991_ | Table 1, p. 3, row 5; `ORC-TCCK5LYEFO.20452b` |  |
+| site fractional coordinates |  | 298.15 | Nb3B4; _alloy: Nb 0.428571_ | unspecified | [2] Peçanha 2007; _cites Villars 1991_ | Table 1, p. 3, row 5; `ORC-TCCK5LYEFO.5a6677` |  |
+| site fractional coordinates |  | 298.15 | Nb3B4; _alloy: Nb 0.428571_ | unspecified | [2] Peçanha 2007; _cites Villars 1991_ | Table 1, p. 3, row 5; `ORC-TCCK5LYEFO.b26b2f` |  |
+| site fractional coordinates |  | 298.15 | Nb3B4; _alloy: Nb 0.428571_ | unspecified | [2] Peçanha 2007; _cites Villars 1991_ | Table 1, p. 3, row 5; `ORC-TCCK5LYEFO.dc0fac` |  |
+| site fractional coordinates |  | 298.15 | Nb5B6; _alloy: Nb 0.454545_ | unspecified | [2] Peçanha 2007; _cites Bolmgren 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990170-o) | Table 1, p. 3, row 4; `ORC-MMNXMZOVD7.36cc18` |  |
+| site fractional coordinates |  | 298.15 | Nb5B6; _alloy: Nb 0.454545_ | unspecified | [2] Peçanha 2007; _cites Bolmgren 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990170-o) | Table 1, p. 3, row 4; `ORC-MMNXMZOVD7.51c181` |  |
+| site fractional coordinates |  | 298.15 | Nb5B6; _alloy: Nb 0.454545_ | unspecified | [2] Peçanha 2007; _cites Bolmgren 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990170-o) | Table 1, p. 3, row 4; `ORC-MMNXMZOVD7.844a1d` |  |
+| site fractional coordinates |  | 298.15 | Nb5B6; _alloy: Nb 0.454545_ | unspecified | [2] Peçanha 2007; _cites Bolmgren 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990170-o) | Table 1, p. 3, row 4; `ORC-MMNXMZOVD7.cfb636` |  |
+| site fractional coordinates |  | 298.15 | Nb5B6; _alloy: Nb 0.454545_ | unspecified | [2] Peçanha 2007; _cites Bolmgren 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990170-o) | Table 1, p. 3, row 4; `ORC-MMNXMZOVD7.d7639c` |  |
+| site fractional coordinates |  | 298.15 | Nb5B6; _alloy: Nb 0.454545_ | unspecified | [2] Peçanha 2007; _cites Bolmgren 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990170-o) | Table 1, p. 3, row 4; `ORC-MMNXMZOVD7.e20c81` |  |
+| site fractional coordinates |  | 298.15 | NbB; _alloy: Nb 0.5_ | unspecified | [2] Peçanha 2007; _cites Villars 1991_ | Table 1, p. 3, row 3; `ORC-RU2RV5UUND.1d2cc9` |  |
+| site fractional coordinates |  | 298.15 | NbB; _alloy: Nb 0.5_ | unspecified | [2] Peçanha 2007; _cites Villars 1991_ | Table 1, p. 3, row 3; `ORC-RU2RV5UUND.f6ca90` |  |
+| site fractional coordinates |  | 298.15 | NbB2; _alloy: Nb 0.333333_ | unspecified | [2] Peçanha 2007; _cites Villars 1991_ | Table 1, p. 3, row 6; `ORC-BNP6HLBSMB.7af380` |  |
+| site fractional coordinates |  | 298.15 | NbB2; _alloy: Nb 0.333333_ | unspecified | [2] Peçanha 2007; _cites Villars 1991_ | Table 1, p. 3, row 6; `ORC-BNP6HLBSMB.e5eae4` |  |
 
 ## Sources
 
@@ -184,4 +184,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

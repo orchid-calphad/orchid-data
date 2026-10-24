@@ -14,30 +14,30 @@ Table: Enthalpy of formation of Ag2Se reported in the literature (24)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -14.3633 kJ/mol-atom | α-Ag2Se | 298.15 | experimental |  | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018; _cites Voronin 2011_ [doi](https://doi.org/10.1134/s1023193511040203) | Table 1, p. 3, row 4 |  |
-| -14.2433 kJ/mol-atom | α-Ag2Se | 298.15 | experimental |  | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018; _cites Osadchii 2007_ [doi](https://doi.org/10.2138/am.2007.2209) | Table 1, p. 3, row 1 |  |
-| -14.2433 kJ/mol-atom | α-Ag2Se | 298.15 | experimental |  | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018 | Table 1, p. 3, row 9 |  |
-| -14.2333 kJ/mol-atom | β-Ag2Se | 298.15 | experimental |  | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018; _cites Nasar 1997_ [doi](https://doi.org/10.1007/s11663-997-0120-5) | Table 1, p. 3, row 15 |  |
-| -14.2333 kJ/mol-atom | α-Ag2Se | 298.15 | experimental |  | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018; _cites Nasar 1997_ [doi](https://doi.org/10.1007/s11663-997-0120-5) | Table 1, p. 3, row 2 |  |
-| -14.1367 kJ/mol-atom | α-Ag2Se | 298.15 | experimental |  | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018; _cites Voronin 2011_ [doi](https://doi.org/10.1134/s1023193511040203) | Table 1, p. 3, row 3 |  |
-| -14.12 kJ/mol-atom | α-Ag2Se | 298.15 | experimental |  | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018; _cites Grnvold 2003_ [doi](https://doi.org/10.1016/s0040-6031%2802%2900470-7) | Table 1, p. 3, row 7 |  |
-| -13.7067 kJ/mol-atom | α-Ag2Se | 298.15 | experimental |  | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018; _cites Feng 2013_ [doi](https://doi.org/10.1016/j.ssi.2012.10.013) | Table 1, p. 3, row 8 |  |
-| -13.54 kJ/mol-atom | α-Ag2Se | 298.15 | experimental |  | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018; _cites Oehsen 1981_ [doi](https://doi.org/10.1002/bbpc.19810850104) | Table 1, p. 3, row 5 |  |
-| -13.3667 kJ/mol-atom | α-Ag2Se | 298.15 | experimental |  | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018; _cites Olin 2005_ | Table 1, p. 3, row 6 |  |
-| -11.6867 kJ/mol-atom | β-Ag2Se | 298.15 | experimental |  | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018; _cites Feng 2013_ [doi](https://doi.org/10.1016/j.ssi.2012.10.013) | Table 1, p. 3, row 13 |  |
-| -11.6833 kJ/mol-atom | β-Ag2Se | 298.15 | experimental |  | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018; _cites Grnvold 2003_ [doi](https://doi.org/10.1016/s0040-6031%2802%2900470-7) | Table 1, p. 3, row 12 |  |
-| -11.68 kJ/mol-atom | β-Ag2Se | 298.15 | experimental |  | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018; _cites Voronin 2011_ [doi](https://doi.org/10.1134/s1023193511040203) | Table 1, p. 3, row 11 |  |
-| -11.6733 kJ/mol-atom | β-Ag2Se | 298.15 | experimental |  | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018; _cites Osadchii 2007_ [doi](https://doi.org/10.2138/am.2007.2209) | Table 1, p. 3, row 10 |  |
-| -11.67 kJ/mol-atom | β-Ag2Se | 298.15 | experimental |  | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018 | Table 1, p. 3, row 16 |  |
-| -11.6667 kJ/mol-atom | β-Ag2Se | 298.15 | experimental |  | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018; _cites Oehsen 1981_ [doi](https://doi.org/10.1002/bbpc.19810850104) | Table 1, p. 3, row 14 |  |
-| -9.936 kJ/mol-atom | α-Ag2Se |  | DFT | DFT | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018 | Table 4, p. 6, row 1 |  |
-| -9.936 kJ/mol-atom | α-Ag₂Se | 0 | DFT | DFT | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018 | Table 4, p. 6, row 1 |  |
-| -5.869 kJ/mol-atom | α-Ag2Se |  | DFT | DFT | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018 | Table 4, p. 6, row 2 |  |
-| -5.869 kJ/mol-atom | α-Ag₂Se | 0 | DFT | DFT | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018 | Table 4, p. 6, row 2 |  |
-| -4.127 kJ/mol-atom | β-Ag2Se |  | DFT | DFT | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018 | Table 4, p. 6, row 7 |  |
-| -4.127 kJ/mol-atom | β-Ag₂Se | 0 | DFT | DFT | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018 | Table 4, p. 6, row 7 |  |
-| -3.196 kJ/mol-atom | β-Ag2Se |  | DFT | DFT | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018 | Table 4, p. 6, row 8 |  |
-| -3.196 kJ/mol-atom | β-Ag₂Se | 0 | DFT | DFT | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018 | Table 4, p. 6, row 8 |  |
+| -14.3633 kJ/mol-atom | α-Ag2Se | 298.15 | experimental |  | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018; _cites Voronin 2011_ [doi](https://doi.org/10.1134/s1023193511040203) | Table 1, p. 3, row 4; `ORC-IAHORPYKKP.ee26d1` |  |
+| -14.2433 kJ/mol-atom | α-Ag2Se | 298.15 | experimental |  | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018; _cites Osadchii 2007_ [doi](https://doi.org/10.2138/am.2007.2209) | Table 1, p. 3, row 1; `ORC-DENBWB3K3C.f053d3` |  |
+| -14.2433 kJ/mol-atom | α-Ag2Se | 298.15 | experimental |  | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018 | Table 1, p. 3, row 9; `ORC-EG4CZFRGL7.4223e1` |  |
+| -14.2333 kJ/mol-atom | β-Ag2Se | 298.15 | experimental |  | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018; _cites Nasar 1997_ [doi](https://doi.org/10.1007/s11663-997-0120-5) | Table 1, p. 3, row 15; `ORC-FORFJG353E.50f713` |  |
+| -14.2333 kJ/mol-atom | α-Ag2Se | 298.15 | experimental |  | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018; _cites Nasar 1997_ [doi](https://doi.org/10.1007/s11663-997-0120-5) | Table 1, p. 3, row 2; `ORC-NOQDCUENTV.b287ad` |  |
+| -14.1367 kJ/mol-atom | α-Ag2Se | 298.15 | experimental |  | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018; _cites Voronin 2011_ [doi](https://doi.org/10.1134/s1023193511040203) | Table 1, p. 3, row 3; `ORC-IYYBFJIDJR.5ed8ac` |  |
+| -14.12 kJ/mol-atom | α-Ag2Se | 298.15 | experimental |  | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018; _cites Grnvold 2003_ [doi](https://doi.org/10.1016/s0040-6031%2802%2900470-7) | Table 1, p. 3, row 7; `ORC-S7IJ2WTKZG.8ae02e` |  |
+| -13.7067 kJ/mol-atom | α-Ag2Se | 298.15 | experimental |  | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018; _cites Feng 2013_ [doi](https://doi.org/10.1016/j.ssi.2012.10.013) | Table 1, p. 3, row 8; `ORC-3HNT2KROYM.68a880` |  |
+| -13.54 kJ/mol-atom | α-Ag2Se | 298.15 | experimental |  | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018; _cites Oehsen 1981_ [doi](https://doi.org/10.1002/bbpc.19810850104) | Table 1, p. 3, row 5; `ORC-N7ZOMZ7UNS.c3fba0` |  |
+| -13.3667 kJ/mol-atom | α-Ag2Se | 298.15 | experimental |  | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018; _cites Olin 2005_ | Table 1, p. 3, row 6; `ORC-RMJA7ZD7GC.11b1bd` |  |
+| -11.6867 kJ/mol-atom | β-Ag2Se | 298.15 | experimental |  | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018; _cites Feng 2013_ [doi](https://doi.org/10.1016/j.ssi.2012.10.013) | Table 1, p. 3, row 13; `ORC-JFXIVMRCAO.aecbc9` |  |
+| -11.6833 kJ/mol-atom | β-Ag2Se | 298.15 | experimental |  | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018; _cites Grnvold 2003_ [doi](https://doi.org/10.1016/s0040-6031%2802%2900470-7) | Table 1, p. 3, row 12; `ORC-IR25DWRF5G.7f35b1` |  |
+| -11.68 kJ/mol-atom | β-Ag2Se | 298.15 | experimental |  | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018; _cites Voronin 2011_ [doi](https://doi.org/10.1134/s1023193511040203) | Table 1, p. 3, row 11; `ORC-FCNMFTUR4E.f22bb3` |  |
+| -11.6733 kJ/mol-atom | β-Ag2Se | 298.15 | experimental |  | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018; _cites Osadchii 2007_ [doi](https://doi.org/10.2138/am.2007.2209) | Table 1, p. 3, row 10; `ORC-DYLEZCG4HM.87c197` |  |
+| -11.67 kJ/mol-atom | β-Ag2Se | 298.15 | experimental |  | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018 | Table 1, p. 3, row 16; `ORC-G2E5AOIVAY.1d15e8` |  |
+| -11.6667 kJ/mol-atom | β-Ag2Se | 298.15 | experimental |  | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018; _cites Oehsen 1981_ [doi](https://doi.org/10.1002/bbpc.19810850104) | Table 1, p. 3, row 14; `ORC-PJHC2KGG2M.da54bd` |  |
+| -9.936 kJ/mol-atom | α-Ag2Se |  | DFT | DFT | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018 | Table 4, p. 6, row 1; `ORC-BC2LZ73AND.5a2061` |  |
+| -9.936 kJ/mol-atom | α-Ag₂Se | 0 | DFT | DFT | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018 | Table 4, p. 6, row 1; `ORC-BC2LZ73AND.e8e3fd` |  |
+| -5.869 kJ/mol-atom | α-Ag2Se |  | DFT | DFT | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018 | Table 4, p. 6, row 2; `ORC-UZUVCSCTEU.6ee1ba` |  |
+| -5.869 kJ/mol-atom | α-Ag₂Se | 0 | DFT | DFT | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018 | Table 4, p. 6, row 2; `ORC-UZUVCSCTEU.c30a3c` |  |
+| -4.127 kJ/mol-atom | β-Ag2Se |  | DFT | DFT | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018 | Table 4, p. 6, row 7; `ORC-QDB2TFAHB5.03d7af` |  |
+| -4.127 kJ/mol-atom | β-Ag₂Se | 0 | DFT | DFT | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018 | Table 4, p. 6, row 7; `ORC-QDB2TFAHB5.10dd99` |  |
+| -3.196 kJ/mol-atom | β-Ag2Se |  | DFT | DFT | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018 | Table 4, p. 6, row 8; `ORC-5Y5PRUZMB2.3ca8e9` |  |
+| -3.196 kJ/mol-atom | β-Ag₂Se | 0 | DFT | DFT | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018 | Table 4, p. 6, row 8; `ORC-5Y5PRUZMB2.c05b32` |  |
 
 ### Uncertainty budget
 
@@ -136,4 +136,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

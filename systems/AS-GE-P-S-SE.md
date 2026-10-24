@@ -28,37 +28,37 @@ Table: Invariant reactions reported in the literature for the As–Ge–P–S–
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1029.4 | eutectic: L→(Ge)+GeAs | L: As 0.4; (Ge): As 0; GeAs: As 0.5 | model | [1] Chen 2022 | Table III, p. 4, row 2 |  |
-| 1029.2 | eutectic: L→(As)+GeAs2 | L: As 0.73; (As): As 0.83; GeAs2: As 0.667 | model | [1] Chen 2022 | Table III, p. 4, row 6 |  |
-| 1028.8 | eutectic: L→GeAs+ GeAs2 | L: As 0.6; GeAs: As 0.5; GeAs2: As 0.667 | model | [1] Chen 2022 | Table III, p. 4, row 4 |  |
-| 1027 | eutectic: L→(Ge)+GeAs | L: As 0.402; (Ge): As 0; GeAs: As 0.5 | experimental | [1] Chen 2022; _cites Ugai 1978_ | Table III, p. 4, row 1 |  |
-| 1023 | eutectic: L→GeAs+ GeAs2 | L: As 0.6; GeAs: As 0; GeAs2: As 0.5 | experimental | [1] Chen 2022; _cites Ugai 1978_ | Table III, p. 4, row 3 |  |
-| 1022 | eutectic: L→(As)+GeAs2 | L: As 0.721; (As): As 0.793; GeAs2: As 0.667 | experimental | [1] Chen 2022; _cites Ugai 1978_ | Table III, p. 4, row 5 |  |
-| 996.8 | peritectic: L+(Ge)→GeP | L: P 0.617; (Ge): P 0; GeP: P 0.5 | model | [1] Chen 2022 | Table III, p. 4, row 31 |  |
-| 948 | peritectic: L+(Ge)→βGeSe | L: Se 0.505; (Ge): Se 0; βGeSe: Se 0.5 | experimental | [1] Chen 2022; _cites ref. 41_ | Table III, p. 4, row 7 |  |
-| 948 | peritectic: L+(Ge)→βGeSe | L: Se 0.506; (Ge): Se 0; βGeSe: Se 0.5 | experimental | [1] Chen 2022; _cites ref. 44_ | Table III, p. 4, row 10 |  |
-| 948 | peritectic: L+(Ge)→βGeSe |  | experimental | [1] Chen 2022; _cites ref. 43_ | Table III, p. 4, row 11 |  |
-| 947.5 | peritectic: L+(Ge)→βGeSe | L: Se 0.503; (Ge): Se 0; βGeSe: Se 0.5 | model | [1] Chen 2022 | Table III, p. 4, row 12 |  |
-| 943 | peritectic: L+(Ge)→βGeSe | L: Se 0.5; (Ge): Se 0; βGeSe: Se 0.5 | experimental | [1] Chen 2022; _cites ref. 42_ | Table III, p. 4, row 8 |  |
-| 939 | peritectic: L+(Ge)→βGeSe | L: Se 0.505; (Ge): Se 0; βGeSe: Se 0.5 | experimental | [1] Chen 2022; _cites ref. 38_ | Table III, p. 4, row 9 |  |
-| 931 | eutectic: L→(Ge)+ βGeS | L: S 0.471; (Ge): S 0; βGeS: S 0.5 | model | [1] Chen 2022 | Table III, p. 4, row 26 |  |
-| 923 | eutectic: L→(Ge)+ βGeS | L: S 0.48; (Ge): S 0; βGeS: S 0.5 | experimental | [1] Chen 2022; _cites ref. 58_ | Table III, p. 4, row 25 |  |
-| 882.7 | eutectic: L→βGeS+GeS2 | L: S 0.592; βGeS: S 0.5; GeS2: S 0.6667 | model | [1] Chen 2022 | Table III, p. 4, row 28 |  |
-| 882 | eutectic: L→βGeS+GeS2 | L: S 0.59; βGeS: S 0.5; GeS2: S 0.6667 | experimental | [1] Chen 2022; _cites ref. 58_ | Table III, p. 4, row 27 |  |
-| 863 | eutectic: L→αGeSe+GeSe2 |  | experimental | [1] Chen 2022; _cites ref. 43_ | Table III, p. 4, row 17 |  |
-| 860 | eutectic: L→αGeSe+GeSe2 | L: Se 0.565; αGeSe: Se 0.5; GeSe2: Se 0.6667 | experimental | [1] Chen 2022; _cites ref. 41_ | Table III, p. 4, row 13 |  |
-| 856.2 | eutectic: L→αGeSe+GeSe2 | L: Se 0.576; αGeSe: Se 0.5; GeSe2: Se 0.667 | model | [1] Chen 2022 | Table III, p. 4, row 18 |  |
-| 856 | eutectic: L→αGeSe+GeSe2 | L: Se 0.56; αGeSe: Se 0.5; GeSe2: Se 0.6667 | experimental | [1] Chen 2022; _cites ref. 44_ | Table III, p. 4, row 16 |  |
-| 853 | eutectic: L→αGeSe+GeSe2 | L: Se 0.62; αGeSe: Se 0.5; GeSe2: Se 0.6667 | experimental | [1] Chen 2022; _cites ref. 42_ | Table III, p. 4, row 14 |  |
-| 851 | eutectic: L→αGeSe+GeSe2 | L: Se 0.57; αGeSe: Se 0.5; GeSe2: Se 0.6667 | experimental | [1] Chen 2022; _cites ref. 38_ | Table III, p. 4, row 15 |  |
-| 843.4 | eutectic: L → GeP+(P) | L: P 0.972; GeP: P 0.5; (P): P 1 | model | [1] Chen 2022 | Table III, p. 4, row 32 |  |
-| 658 | L+GeSe2→Ge3Se7 | L: Se 0.85; GeSe2: Se 0.667; Ge3Se7: Se 0.7 | experimental | [1] Chen 2022; _cites ref. 44_ | Table III, p. 4, row 19 |  |
-| 657 | L+GeSe2→Ge3Se7 | L: Se 0.859; GeSe2: Se 0.667; Ge3Se7: Se 0.7 | model | [1] Chen 2022 | Table III, p. 4, row 20 |  |
-| 494 | eutectic: L→GeSe2+(Se) | L: Se 0.92; GeSe2: Se 0.667; (Se): Se 1 | experimental | [1] Chen 2022; _cites ref. 42_ | Table III, p. 4, row 21 |  |
-| 486 | eutectic: L→GeSe2+(Se) |  | experimental | [1] Chen 2022; _cites ref. 43_ | Table III, p. 4, row 23 |  |
-| 485 | eutectic: L→GeSe2+(Se) | L: Se 0.945; GeSe2: Se 0.667; (Se): Se 1 | experimental | [1] Chen 2022; _cites ref. 44_ | Table III, p. 4, row 22 |  |
-| 470.8 | eutectic: L→GeSe2+(Se) | L: Se 0.943; GeSe2: Se 0.667; (Se): Se 1 | model | [1] Chen 2022 | Table III, p. 4, row 24 |  |
-| 393 | eutectic: L→GeS2+(S) | GeS2: S 0.667; (S): S 1 | experimental | [1] Chen 2022; _cites ref. 58_ | Table III, p. 4, row 29 |  |
+| 1029.4 | eutectic: L→(Ge)+GeAs | L: As 0.4; (Ge): As 0; GeAs: As 0.5 | model | [1] Chen 2022 | Table III, p. 4, row 2; `ORC-Q27KD6TBDY` |  |
+| 1029.2 | eutectic: L→(As)+GeAs2 | L: As 0.73; (As): As 0.83; GeAs2: As 0.667 | model | [1] Chen 2022 | Table III, p. 4, row 6; `ORC-TT7U3C6MQE` |  |
+| 1028.8 | eutectic: L→GeAs+ GeAs2 | L: As 0.6; GeAs: As 0.5; GeAs2: As 0.667 | model | [1] Chen 2022 | Table III, p. 4, row 4; `ORC-UG3HY6MWH3` |  |
+| 1027 | eutectic: L→(Ge)+GeAs | L: As 0.402; (Ge): As 0; GeAs: As 0.5 | experimental | [1] Chen 2022; _cites Ugai 1978_ | Table III, p. 4, row 1; `ORC-MXQYHM7DDP` |  |
+| 1023 | eutectic: L→GeAs+ GeAs2 | L: As 0.6; GeAs: As 0; GeAs2: As 0.5 | experimental | [1] Chen 2022; _cites Ugai 1978_ | Table III, p. 4, row 3; `ORC-SCRBXUXMLD` |  |
+| 1022 | eutectic: L→(As)+GeAs2 | L: As 0.721; (As): As 0.793; GeAs2: As 0.667 | experimental | [1] Chen 2022; _cites Ugai 1978_ | Table III, p. 4, row 5; `ORC-D2YJ5BIHQC` |  |
+| 996.8 | peritectic: L+(Ge)→GeP | L: P 0.617; (Ge): P 0; GeP: P 0.5 | model | [1] Chen 2022 | Table III, p. 4, row 31; `ORC-QWJCOHDK4Q` |  |
+| 948 | peritectic: L+(Ge)→βGeSe | L: Se 0.505; (Ge): Se 0; βGeSe: Se 0.5 | experimental | [1] Chen 2022; _cites ref. 41_ | Table III, p. 4, row 7; `ORC-2E57HB4YVC` |  |
+| 948 | peritectic: L+(Ge)→βGeSe | L: Se 0.506; (Ge): Se 0; βGeSe: Se 0.5 | experimental | [1] Chen 2022; _cites ref. 44_ | Table III, p. 4, row 10; `ORC-NZDU6WYG66` |  |
+| 948 | peritectic: L+(Ge)→βGeSe |  | experimental | [1] Chen 2022; _cites ref. 43_ | Table III, p. 4, row 11; `ORC-PH3H7XB3ZM` |  |
+| 947.5 | peritectic: L+(Ge)→βGeSe | L: Se 0.503; (Ge): Se 0; βGeSe: Se 0.5 | model | [1] Chen 2022 | Table III, p. 4, row 12; `ORC-OIYJTC6WFN` |  |
+| 943 | peritectic: L+(Ge)→βGeSe | L: Se 0.5; (Ge): Se 0; βGeSe: Se 0.5 | experimental | [1] Chen 2022; _cites ref. 42_ | Table III, p. 4, row 8; `ORC-IFPWZNCRBJ` |  |
+| 939 | peritectic: L+(Ge)→βGeSe | L: Se 0.505; (Ge): Se 0; βGeSe: Se 0.5 | experimental | [1] Chen 2022; _cites ref. 38_ | Table III, p. 4, row 9; `ORC-L7YHW5JUCX` |  |
+| 931 | eutectic: L→(Ge)+ βGeS | L: S 0.471; (Ge): S 0; βGeS: S 0.5 | model | [1] Chen 2022 | Table III, p. 4, row 26; `ORC-WK3AVJH2TT` |  |
+| 923 | eutectic: L→(Ge)+ βGeS | L: S 0.48; (Ge): S 0; βGeS: S 0.5 | experimental | [1] Chen 2022; _cites ref. 58_ | Table III, p. 4, row 25; `ORC-373QJCTI43` |  |
+| 882.7 | eutectic: L→βGeS+GeS2 | L: S 0.592; βGeS: S 0.5; GeS2: S 0.6667 | model | [1] Chen 2022 | Table III, p. 4, row 28; `ORC-YBX3TT5GG3` |  |
+| 882 | eutectic: L→βGeS+GeS2 | L: S 0.59; βGeS: S 0.5; GeS2: S 0.6667 | experimental | [1] Chen 2022; _cites ref. 58_ | Table III, p. 4, row 27; `ORC-AAAPPJQRNA` |  |
+| 863 | eutectic: L→αGeSe+GeSe2 |  | experimental | [1] Chen 2022; _cites ref. 43_ | Table III, p. 4, row 17; `ORC-RBNUCTNHUZ` |  |
+| 860 | eutectic: L→αGeSe+GeSe2 | L: Se 0.565; αGeSe: Se 0.5; GeSe2: Se 0.6667 | experimental | [1] Chen 2022; _cites ref. 41_ | Table III, p. 4, row 13; `ORC-PIPWE77GSH` |  |
+| 856.2 | eutectic: L→αGeSe+GeSe2 | L: Se 0.576; αGeSe: Se 0.5; GeSe2: Se 0.667 | model | [1] Chen 2022 | Table III, p. 4, row 18; `ORC-HMB3QTYSAI` |  |
+| 856 | eutectic: L→αGeSe+GeSe2 | L: Se 0.56; αGeSe: Se 0.5; GeSe2: Se 0.6667 | experimental | [1] Chen 2022; _cites ref. 44_ | Table III, p. 4, row 16; `ORC-4UY5YHUEQW` |  |
+| 853 | eutectic: L→αGeSe+GeSe2 | L: Se 0.62; αGeSe: Se 0.5; GeSe2: Se 0.6667 | experimental | [1] Chen 2022; _cites ref. 42_ | Table III, p. 4, row 14; `ORC-UD4OBZCWQH` |  |
+| 851 | eutectic: L→αGeSe+GeSe2 | L: Se 0.57; αGeSe: Se 0.5; GeSe2: Se 0.6667 | experimental | [1] Chen 2022; _cites ref. 38_ | Table III, p. 4, row 15; `ORC-YJK4UXCQKG` |  |
+| 843.4 | eutectic: L → GeP+(P) | L: P 0.972; GeP: P 0.5; (P): P 1 | model | [1] Chen 2022 | Table III, p. 4, row 32; `ORC-XH3AGNFJ3A` |  |
+| 658 | L+GeSe2→Ge3Se7 | L: Se 0.85; GeSe2: Se 0.667; Ge3Se7: Se 0.7 | experimental | [1] Chen 2022; _cites ref. 44_ | Table III, p. 4, row 19; `ORC-7OPQ6G4S5T` |  |
+| 657 | L+GeSe2→Ge3Se7 | L: Se 0.859; GeSe2: Se 0.667; Ge3Se7: Se 0.7 | model | [1] Chen 2022 | Table III, p. 4, row 20; `ORC-OA5GXZQEO5` |  |
+| 494 | eutectic: L→GeSe2+(Se) | L: Se 0.92; GeSe2: Se 0.667; (Se): Se 1 | experimental | [1] Chen 2022; _cites ref. 42_ | Table III, p. 4, row 21; `ORC-MYSWBHGBHJ` |  |
+| 486 | eutectic: L→GeSe2+(Se) |  | experimental | [1] Chen 2022; _cites ref. 43_ | Table III, p. 4, row 23; `ORC-3KAXIE26IN` |  |
+| 485 | eutectic: L→GeSe2+(Se) | L: Se 0.945; GeSe2: Se 0.667; (Se): Se 1 | experimental | [1] Chen 2022; _cites ref. 44_ | Table III, p. 4, row 22; `ORC-YIQDSSF4AM` |  |
+| 470.8 | eutectic: L→GeSe2+(Se) | L: Se 0.943; GeSe2: Se 0.667; (Se): Se 1 | model | [1] Chen 2022 | Table III, p. 4, row 24; `ORC-U2H6QXQ3JI` |  |
+| 393 | eutectic: L→GeS2+(S) | GeS2: S 0.667; (S): S 1 | experimental | [1] Chen 2022; _cites ref. 58_ | Table III, p. 4, row 29; `ORC-BR5GTPXCX7` |  |
 
 ## Other properties
 
@@ -68,7 +68,7 @@ Table: Crystal structure, As–Ge–P–S–Se system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 4.132 Å | 298.15 | (As); _alloy: Ge 0, P 0, S 0, Se 0_ | experimental | [1] Chen 2022; _cites King 1981_ | Table I, p. 2, row 1 |  |
+| Lattice a | 4.132 Å | 298.15 | (As); _alloy: Ge 0, P 0, S 0, Se 0_ | experimental | [1] Chen 2022; _cites King 1981_ | Table I, p. 2, row 1; `ORC-RM6ZTKLMTX` |  |
 
 ## Sources
 
@@ -111,4 +111,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

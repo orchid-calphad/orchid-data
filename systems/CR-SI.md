@@ -106,59 +106,59 @@ Table: Invariant reactions reported in the literature for the Cr–Si system (53
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2049.5 | congruent melting: Cr3Si-A15 -> Liquid | Cr3Si-A15: Si 0.025; L: Si 0.025 | unspecified | [1] Hämäläinen 1998 | Table I, p. 167, row 6 |  |
-| 1982.15 | L ↔ (Cr) + Cr3Si | Cr3Si: Si 0.25 | experimental | [2] Du 2000; _cites Chang 1968_ | Table 1, p. 2, row 1 |  |
-| 1982.15 | L -> Cr3Si + (Cr) | Cr3Si: Si 0.25 | unspecified | [2] Du 2000 | Table 2, p. 2, row 16 |  |
-| 1978.15 | L -> Cr3Si + (Cr) | Cr3Si: Si 0.25 | experimental | [2] Du 2000; _cites Chang 1968_ | Table 2, p. 2, row 17 |  |
-| 1974.15 | L ↔ (Cr) + Cr3Si | Cr3Si: Si 0.25 | unspecified | [2] Du 2000 | Table 1, p. 2, row 3 |  |
-| 1973.15 | L ↔ (Cr) + Cr3Si | Cr3Si: Si 0.25 | experimental | [2] Du 2000; _cites Svechnikov 1964_ | Table 1, p. 2, row 2 |  |
-| 1971.67 | Liquid = (Cr) + Cr3Si | L: Si 0.1702; (Cr): Si 0.1325; Cr3Si: Si 0.2449 | model | [3] Chen 2009 | Table 2, p. 3, row 1 |  |
-| 1957.4 | eutectic: Liquid -> bcc-A2 + Cr3Si-A15 | L: Si 0.154; bcc-A2: Si 0.115; Cr3Si-A15: Si 0.233 | unspecified | [1] Hämäläinen 1998 | Table I, p. 167, row 1 |  |
-| 1957.15 | L ↔ (Cr) + Cr3Si | Cr3Si: Si 0.25 | model | [2] Du 2000; _cites Coughanowr 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990023-x) | Table 1, p. 2, row 4 |  |
-| 1953.15 | L ↔ Cr3Si + βCr5Si3 | Cr3Si: Si 0.25; βCr5Si3: Si 0.375 | experimental | [2] Du 2000; _cites Svechnikov 1964_ | Table 1, p. 2, row 10 |  |
-| 1951 | congruent melting: Cr5Si3 -> Liquid | Cr5Si3: Si 0.375; L: Si 0.375 | unspecified | [1] Hämäläinen 1998 | Table I, p. 167, row 7 |  |
-| 1950.15 | L ↔ Cr3Si + βCr5Si3 | Cr3Si: Si 0.25; βCr5Si3: Si 0.375 | model | [2] Du 2000; _cites Coughanowr 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990023-x) | Table 1, p. 2, row 12 |  |
-| 1950 | eutectic: Liquid -> Cr3Si-A15 + Cr5Si3 | L: Si 0.364; Cr3Si-A15: Si 0.272; Cr5Si3: Si 0.375 | unspecified | [1] Hämäläinen 1998 | Table I, p. 167, row 2 |  |
-| 1938.15 | eutectic: Liquid = Cr3Si + Cr5Si3 |  | experimental | [4] Ioroi 2024; _cites Ioroi 2022_ [doi](https://doi.org/10.1007/s11669-022-00954-9) | p. 11 | “In the present evaluation, however, the invariant reaction is revised to be a eutectic one "Liquid = Cr3Si + Cr5Si3" mainly because the congruent melting temperature of the Cr5Si3 phase (1690 °C \[21\]) is clearly higher than the invariant temperature (1665 °C \[21\]) as shown in Fig. 4(b).” |
-| 1937.15 | L ↔ Cr3Si + βCr5Si3 | Cr3Si: Si 0.25; βCr5Si3: Si 0.375 | experimental | [2] Du 2000; _cites Chang 1968_ | Table 1, p. 2, row 9 |  |
-| 1937.15 | L ↔ Cr3Si + βCr5Si3 | Cr3Si: Si 0.25; βCr5Si3: Si 0.375 | unspecified | [2] Du 2000 | Table 1, p. 2, row 11 |  |
-| 1937.15 | L -> βCr5Si3 + Cr3Si | βCr5Si3: Si 0.375; Cr3Si: Si 0.25 | unspecified | [2] Du 2000 | Table 2, p. 2, row 12 |  |
-| 1933.15 | L -> βCr5Si3 + Cr3Si | βCr5Si3: Si 0.375; Cr3Si: Si 0.25 | experimental | [2] Du 2000; _cites Chang 1968_ | Table 2, p. 2, row 13 |  |
-| 1932.22 | Liquid + Cr3Si = βCr5Si3 | L: Si 0.3826; Cr3Si: Si 0.2893; βCr5Si3: Si 0.3709 | model | [3] Chen 2009 | Table 2, p. 3, row 2 |  |
-| 1792.15 | L + βCr5Si3 ↔ αCr5Si3 | βCr5Si3: Si 0.375; αCr5Si3: Si 0.375 | unspecified | [2] Du 2000 | Table 1, p. 2, row 18 |  |
-| 1781.97 | Liquid + βCr5Si3 = αCr5Si3 | L: Si 0.5038; βCr5Si3: Si 0.3747; αCr5Si3: Si 0.375 | model | [3] Chen 2009 | Table 2, p. 3, row 4 |  |
-| 1778.15 | βCr5Si3 ↔ αCr5Si3 + Cr3Si | βCr5Si3: Si 0.375; αCr5Si3: Si 0.375; Cr3Si: Si 0.25 | experimental | [2] Du 2000; _cites Chang 1968_ | Table 1, p. 2, row 19 |  |
-| 1778.15 | L + βCr5Si3 ↔ αCr5Si3 | βCr5Si3: Si 0.375; αCr5Si3: Si 0.375 | experimental | [2] Du 2000; _cites Chang 1968_ | Table 1, p. 2, row 17 |  |
-| 1774.21 | βCr5Si3 = αCr5Si3 + Cr3Si | βCr5Si3: Si 0.3728; αCr5Si3: Si 0.375; Cr3Si: Si 0.2857 | model | [3] Chen 2009 | Table 2, p. 3, row 3 |  |
-| 1761.15 | βCr5Si3 ↔ αCr5Si3 + Cr3Si | βCr5Si3: Si 0.375; αCr5Si3: Si 0.375; Cr3Si: Si 0.25 | unspecified | [2] Du 2000 | Table 1, p. 2, row 20 |  |
-| 1741 | congruent melting: Cr2Si -> Liquid | Cr2Si: Si 0.666; L: Si 0.666 | unspecified | [1] Hämäläinen 1998 | Table I, p. 167, row 8 |  |
-| 1718.5 | peritectic: Liquid + Cr5Si3 -> CrSi | L: Si 0.56; Cr5Si3: Si 0.375; CrSi: Si 0.5 | unspecified | [1] Hämäläinen 1998 | Table I, p. 167, row 3 |  |
-| 1718.15 | L + αCr5Si3 ↔ CrSi | αCr5Si3: Si 0.375; CrSi: Si 0.5 | model | [2] Du 2000; _cites Coughanowr 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990023-x) | Table 1, p. 2, row 25 |  |
-| 1709.15 | L ↔ CrSi + CrSi2 | CrSi: Si 0.5; CrSi2: Si 0.666667 | model | [2] Du 2000; _cites Coughanowr 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990023-x) | Table 1, p. 2, row 30 |  |
-| 1708.8 | eutectic: Liquid -> CrSi + CrSi2 | L: Si 0.574; CrSi: Si 0.5; CrSi2: Si 0.656 | unspecified | [1] Hämäläinen 1998 | Table I, p. 167, row 4 |  |
-| 1705.15 | L + αCr5Si3 ↔ CrSi | αCr5Si3: Si 0.375; CrSi: Si 0.5 | experimental | [2] Du 2000; _cites Chang 1968_ | Table 1, p. 2, row 21 |  |
-| 1705.15 | L + αCr5Si3 -> CrSi | αCr5Si3: Si 0.375; CrSi: Si 0.5 | unspecified | [2] Du 2000 | Table 2, p. 2, row 8 |  |
-| 1702.15 | L + αCr5Si3 ↔ CrSi | αCr5Si3: Si 0.375; CrSi: Si 0.5 | experimental | [2] Du 2000; _cites Svechnikov 1964_ | Table 1, p. 2, row 22 |  |
-| 1698.15 | L + αCr5Si3 ↔ CrSi | αCr5Si3: Si 0.375; CrSi: Si 0.5 | experimental | [2] Du 2000 | Table 1, p. 2, row 23 |  |
-| 1697.92 | Liquid + αCr5Si3 = CrSi | L: Si 0.5466; αCr5Si3: Si 0.375; CrSi: Si 0.5 | model | [3] Chen 2009 | Table 2, p. 3, row 7 |  |
-| 1697.15 | L + αCr5Si3 ↔ CrSi | αCr5Si3: Si 0.375; CrSi: Si 0.5 | unspecified | [2] Du 2000 | Table 1, p. 2, row 24 |  |
-| 1686.15 | L + αCr5Si3 -> CrSi | αCr5Si3: Si 0.375; CrSi: Si 0.5 | experimental | [2] Du 2000; _cites Chang 1968_ | Table 2, p. 2, row 9 |  |
-| 1682.15 | L ↔ CrSi + CrSi2 | CrSi: Si 0.5; CrSi2: Si 0.666667 | experimental | [2] Du 2000; _cites Svechnikov 1964_ | Table 1, p. 2, row 27 |  |
-| 1681.15 | L ↔ CrSi + CrSi2 | CrSi: Si 0.5; CrSi2: Si 0.666667 | unspecified | [2] Du 2000 | Table 1, p. 2, row 29 |  |
-| 1680.07 | Liquid = CrSi + CrSi2 | L: Si 0.5754; CrSi: Si 0.5; CrSi2: Si 0.6623 | model | [3] Chen 2009 | Table 2, p. 3, row 6 |  |
-| 1677.15 | L ↔ CrSi + CrSi2 | CrSi: Si 0.5; CrSi2: Si 0.666667 | experimental | [2] Du 2000 | Table 1, p. 2, row 28 |  |
-| 1675.15 | L ↔ CrSi + CrSi2 | CrSi: Si 0.5; CrSi2: Si 0.666667 | experimental | [2] Du 2000; _cites Chang 1968_ | Table 1, p. 2, row 26 |  |
-| 1675.15 | L -> CrSi2 + CrSi | CrSi2: Si 0.666667; CrSi: Si 0.5 | unspecified | [2] Du 2000 | Table 2, p. 2, row 6 |  |
-| 1663.15 | L -> CrSi2 + CrSi | CrSi2: Si 0.666667; CrSi: Si 0.5 | experimental | [2] Du 2000; _cites Chang 1968_ | Table 2, p. 2, row 7 |  |
-| 1607.15 | L ↔ (Si) + CrSi2 | (Si): Si 1; CrSi2: Si 0.666667 | model | [2] Du 2000; _cites Coughanowr 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990023-x) | Table 1, p. 2, row 40 |  |
-| 1606.7 | eutectic: Liquid -> CrSi2 + diamond | L: Si 0.864; CrSi2: Si 0.673; diamond: Si 1 | unspecified | [1] Hämäläinen 1998 | Table I, p. 167, row 5 |  |
-| 1601.15 | L ↔ (Si) + CrSi2 | (Si): Si 1; CrSi2: Si 0.666667 | unspecified | [2] Du 2000 | Table 1, p. 2, row 39 |  |
-| 1601.15 | L ↔ (Si) + CrSi2 | (Si): Si 1; CrSi2: Si 0.666667 | experimental | [2] Du 2000 | Table 1, p. 2, row 38 |  |
-| 1596.05 | Liquid = CrSi2 + (Si) | L: Si 0.8536; CrSi2: Si 0.6787; (Si): Si 1 | model | [3] Chen 2009 | Table 2, p. 3, row 5 |  |
-| 1582.15 | L ↔ (Si) + CrSi2 | (Si): Si 1; CrSi2: Si 0.666667 | experimental | [2] Du 2000; _cites Svechnikov 1964_ | Table 1, p. 2, row 37 |  |
-| 1581.15 | L ↔ (Si) + CrSi2 | (Si): Si 1; CrSi2: Si 0.666667 | experimental | [2] Du 2000; _cites Chang 1968_ | Table 1, p. 2, row 36 |  |
-| 1581.15 | L -> (Si) + CrSi2 | (Si): Si 1; CrSi2: Si 0.666667 | unspecified | [2] Du 2000 | Table 2, p. 2, row 1 |  |
-| 1578.15 | L -> (Si) + CrSi2 | (Si): Si 1; CrSi2: Si 0.666667 | experimental | [2] Du 2000; _cites Chang 1968_ | Table 2, p. 2, row 2 |  |
+| 2049.5 | congruent melting: Cr3Si-A15 -> Liquid | Cr3Si-A15: Si 0.025; L: Si 0.025 | unspecified | [1] Hämäläinen 1998 | Table I, p. 167, row 6; `ORC-JPOCJJHAFS` |  |
+| 1982.15 | L ↔ (Cr) + Cr3Si | Cr3Si: Si 0.25 | experimental | [2] Du 2000; _cites Chang 1968_ | Table 1, p. 2, row 1; `ORC-2Y6V6HSWBZ` |  |
+| 1982.15 | L -> Cr3Si + (Cr) | Cr3Si: Si 0.25 | unspecified | [2] Du 2000 | Table 2, p. 2, row 16; `ORC-AZB6KVFGEL` |  |
+| 1978.15 | L -> Cr3Si + (Cr) | Cr3Si: Si 0.25 | experimental | [2] Du 2000; _cites Chang 1968_ | Table 2, p. 2, row 17; `ORC-DGRDIVVXBV` |  |
+| 1974.15 | L ↔ (Cr) + Cr3Si | Cr3Si: Si 0.25 | unspecified | [2] Du 2000 | Table 1, p. 2, row 3; `ORC-ZPS2FJ7MGN` |  |
+| 1973.15 | L ↔ (Cr) + Cr3Si | Cr3Si: Si 0.25 | experimental | [2] Du 2000; _cites Svechnikov 1964_ | Table 1, p. 2, row 2; `ORC-LHKWMDIY6M` |  |
+| 1971.67 | Liquid = (Cr) + Cr3Si | L: Si 0.1702; (Cr): Si 0.1325; Cr3Si: Si 0.2449 | model | [3] Chen 2009 | Table 2, p. 3, row 1; `ORC-RL7NQ3Q4OS` |  |
+| 1957.4 | eutectic: Liquid -> bcc-A2 + Cr3Si-A15 | L: Si 0.154; bcc-A2: Si 0.115; Cr3Si-A15: Si 0.233 | unspecified | [1] Hämäläinen 1998 | Table I, p. 167, row 1; `ORC-OED3ZXJJOZ` |  |
+| 1957.15 | L ↔ (Cr) + Cr3Si | Cr3Si: Si 0.25 | model | [2] Du 2000; _cites Coughanowr 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990023-x) | Table 1, p. 2, row 4; `ORC-243SGRSWMD` |  |
+| 1953.15 | L ↔ Cr3Si + βCr5Si3 | Cr3Si: Si 0.25; βCr5Si3: Si 0.375 | experimental | [2] Du 2000; _cites Svechnikov 1964_ | Table 1, p. 2, row 10; `ORC-XNHJBMVJPX` |  |
+| 1951 | congruent melting: Cr5Si3 -> Liquid | Cr5Si3: Si 0.375; L: Si 0.375 | unspecified | [1] Hämäläinen 1998 | Table I, p. 167, row 7; `ORC-AEMLBKG62Z` |  |
+| 1950.15 | L ↔ Cr3Si + βCr5Si3 | Cr3Si: Si 0.25; βCr5Si3: Si 0.375 | model | [2] Du 2000; _cites Coughanowr 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990023-x) | Table 1, p. 2, row 12; `ORC-ONTQCID6ZB` |  |
+| 1950 | eutectic: Liquid -> Cr3Si-A15 + Cr5Si3 | L: Si 0.364; Cr3Si-A15: Si 0.272; Cr5Si3: Si 0.375 | unspecified | [1] Hämäläinen 1998 | Table I, p. 167, row 2; `ORC-5YWNPINRGU` |  |
+| 1938.15 | eutectic: Liquid = Cr3Si + Cr5Si3 |  | experimental | [4] Ioroi 2024; _cites Ioroi 2022_ [doi](https://doi.org/10.1007/s11669-022-00954-9) | p. 11; `ORC-FCY32GV55Z.7fa12a` | “In the present evaluation, however, the invariant reaction is revised to be a eutectic one "Liquid = Cr3Si + Cr5Si3" mainly because the congruent melting temperature of the Cr5Si3 phase (1690 °C \[21\]) is clearly higher than the invariant temperature (1665 °C \[21\]) as shown in Fig. 4(b).” |
+| 1937.15 | L ↔ Cr3Si + βCr5Si3 | Cr3Si: Si 0.25; βCr5Si3: Si 0.375 | experimental | [2] Du 2000; _cites Chang 1968_ | Table 1, p. 2, row 9; `ORC-JNTKNGBLY6` |  |
+| 1937.15 | L ↔ Cr3Si + βCr5Si3 | Cr3Si: Si 0.25; βCr5Si3: Si 0.375 | unspecified | [2] Du 2000 | Table 1, p. 2, row 11; `ORC-OJO5XSNBX6` |  |
+| 1937.15 | L -> βCr5Si3 + Cr3Si | βCr5Si3: Si 0.375; Cr3Si: Si 0.25 | unspecified | [2] Du 2000 | Table 2, p. 2, row 12; `ORC-QG6TLLDVHX` |  |
+| 1933.15 | L -> βCr5Si3 + Cr3Si | βCr5Si3: Si 0.375; Cr3Si: Si 0.25 | experimental | [2] Du 2000; _cites Chang 1968_ | Table 2, p. 2, row 13; `ORC-LQIGM6HYAW` |  |
+| 1932.22 | Liquid + Cr3Si = βCr5Si3 | L: Si 0.3826; Cr3Si: Si 0.2893; βCr5Si3: Si 0.3709 | model | [3] Chen 2009 | Table 2, p. 3, row 2; `ORC-LRK4I5LR5B` |  |
+| 1792.15 | L + βCr5Si3 ↔ αCr5Si3 | βCr5Si3: Si 0.375; αCr5Si3: Si 0.375 | unspecified | [2] Du 2000 | Table 1, p. 2, row 18; `ORC-6QFUXOA4FE` |  |
+| 1781.97 | Liquid + βCr5Si3 = αCr5Si3 | L: Si 0.5038; βCr5Si3: Si 0.3747; αCr5Si3: Si 0.375 | model | [3] Chen 2009 | Table 2, p. 3, row 4; `ORC-HPCK3FMNVI` |  |
+| 1778.15 | βCr5Si3 ↔ αCr5Si3 + Cr3Si | βCr5Si3: Si 0.375; αCr5Si3: Si 0.375; Cr3Si: Si 0.25 | experimental | [2] Du 2000; _cites Chang 1968_ | Table 1, p. 2, row 19; `ORC-5SSTT2DRVK` |  |
+| 1778.15 | L + βCr5Si3 ↔ αCr5Si3 | βCr5Si3: Si 0.375; αCr5Si3: Si 0.375 | experimental | [2] Du 2000; _cites Chang 1968_ | Table 1, p. 2, row 17; `ORC-HMMGJSBKEV` |  |
+| 1774.21 | βCr5Si3 = αCr5Si3 + Cr3Si | βCr5Si3: Si 0.3728; αCr5Si3: Si 0.375; Cr3Si: Si 0.2857 | model | [3] Chen 2009 | Table 2, p. 3, row 3; `ORC-RBU4JQJF4F` |  |
+| 1761.15 | βCr5Si3 ↔ αCr5Si3 + Cr3Si | βCr5Si3: Si 0.375; αCr5Si3: Si 0.375; Cr3Si: Si 0.25 | unspecified | [2] Du 2000 | Table 1, p. 2, row 20; `ORC-64HUCYAKCD` |  |
+| 1741 | congruent melting: Cr2Si -> Liquid | Cr2Si: Si 0.666; L: Si 0.666 | unspecified | [1] Hämäläinen 1998 | Table I, p. 167, row 8; `ORC-5T464PB6LZ` |  |
+| 1718.5 | peritectic: Liquid + Cr5Si3 -> CrSi | L: Si 0.56; Cr5Si3: Si 0.375; CrSi: Si 0.5 | unspecified | [1] Hämäläinen 1998 | Table I, p. 167, row 3; `ORC-KEKKIVUOMV` |  |
+| 1718.15 | L + αCr5Si3 ↔ CrSi | αCr5Si3: Si 0.375; CrSi: Si 0.5 | model | [2] Du 2000; _cites Coughanowr 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990023-x) | Table 1, p. 2, row 25; `ORC-74IBPHKKTC` |  |
+| 1709.15 | L ↔ CrSi + CrSi2 | CrSi: Si 0.5; CrSi2: Si 0.666667 | model | [2] Du 2000; _cites Coughanowr 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990023-x) | Table 1, p. 2, row 30; `ORC-KMWVWZLKXN` |  |
+| 1708.8 | eutectic: Liquid -> CrSi + CrSi2 | L: Si 0.574; CrSi: Si 0.5; CrSi2: Si 0.656 | unspecified | [1] Hämäläinen 1998 | Table I, p. 167, row 4; `ORC-HSSJWBU623` |  |
+| 1705.15 | L + αCr5Si3 ↔ CrSi | αCr5Si3: Si 0.375; CrSi: Si 0.5 | experimental | [2] Du 2000; _cites Chang 1968_ | Table 1, p. 2, row 21; `ORC-RWHYKYEVWP` |  |
+| 1705.15 | L + αCr5Si3 -> CrSi | αCr5Si3: Si 0.375; CrSi: Si 0.5 | unspecified | [2] Du 2000 | Table 2, p. 2, row 8; `ORC-WZLNK5EOGJ` |  |
+| 1702.15 | L + αCr5Si3 ↔ CrSi | αCr5Si3: Si 0.375; CrSi: Si 0.5 | experimental | [2] Du 2000; _cites Svechnikov 1964_ | Table 1, p. 2, row 22; `ORC-SRWR3EV5E3` |  |
+| 1698.15 | L + αCr5Si3 ↔ CrSi | αCr5Si3: Si 0.375; CrSi: Si 0.5 | experimental | [2] Du 2000 | Table 1, p. 2, row 23; `ORC-F34442SR7U` |  |
+| 1697.92 | Liquid + αCr5Si3 = CrSi | L: Si 0.5466; αCr5Si3: Si 0.375; CrSi: Si 0.5 | model | [3] Chen 2009 | Table 2, p. 3, row 7; `ORC-DUX6ZEJVOB` |  |
+| 1697.15 | L + αCr5Si3 ↔ CrSi | αCr5Si3: Si 0.375; CrSi: Si 0.5 | unspecified | [2] Du 2000 | Table 1, p. 2, row 24; `ORC-CWUKYF63ZX` |  |
+| 1686.15 | L + αCr5Si3 -> CrSi | αCr5Si3: Si 0.375; CrSi: Si 0.5 | experimental | [2] Du 2000; _cites Chang 1968_ | Table 2, p. 2, row 9; `ORC-6TPFIBSFJP` |  |
+| 1682.15 | L ↔ CrSi + CrSi2 | CrSi: Si 0.5; CrSi2: Si 0.666667 | experimental | [2] Du 2000; _cites Svechnikov 1964_ | Table 1, p. 2, row 27; `ORC-WB5SC5BXMN` |  |
+| 1681.15 | L ↔ CrSi + CrSi2 | CrSi: Si 0.5; CrSi2: Si 0.666667 | unspecified | [2] Du 2000 | Table 1, p. 2, row 29; `ORC-UI4DVRFRNN` |  |
+| 1680.07 | Liquid = CrSi + CrSi2 | L: Si 0.5754; CrSi: Si 0.5; CrSi2: Si 0.6623 | model | [3] Chen 2009 | Table 2, p. 3, row 6; `ORC-JZH5DKR46G` |  |
+| 1677.15 | L ↔ CrSi + CrSi2 | CrSi: Si 0.5; CrSi2: Si 0.666667 | experimental | [2] Du 2000 | Table 1, p. 2, row 28; `ORC-2XTPSOZQST` |  |
+| 1675.15 | L ↔ CrSi + CrSi2 | CrSi: Si 0.5; CrSi2: Si 0.666667 | experimental | [2] Du 2000; _cites Chang 1968_ | Table 1, p. 2, row 26; `ORC-LXH5H6EG77` |  |
+| 1675.15 | L -> CrSi2 + CrSi | CrSi2: Si 0.666667; CrSi: Si 0.5 | unspecified | [2] Du 2000 | Table 2, p. 2, row 6; `ORC-SYHB45X7TP` |  |
+| 1663.15 | L -> CrSi2 + CrSi | CrSi2: Si 0.666667; CrSi: Si 0.5 | experimental | [2] Du 2000; _cites Chang 1968_ | Table 2, p. 2, row 7; `ORC-KQO7HHNVAQ` |  |
+| 1607.15 | L ↔ (Si) + CrSi2 | (Si): Si 1; CrSi2: Si 0.666667 | model | [2] Du 2000; _cites Coughanowr 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990023-x) | Table 1, p. 2, row 40; `ORC-R25LQPA4EZ` |  |
+| 1606.7 | eutectic: Liquid -> CrSi2 + diamond | L: Si 0.864; CrSi2: Si 0.673; diamond: Si 1 | unspecified | [1] Hämäläinen 1998 | Table I, p. 167, row 5; `ORC-SOJBCNJ2UT` |  |
+| 1601.15 | L ↔ (Si) + CrSi2 | (Si): Si 1; CrSi2: Si 0.666667 | unspecified | [2] Du 2000 | Table 1, p. 2, row 39; `ORC-OM3EEMJR34.7a1cb6` |  |
+| 1601.15 | L ↔ (Si) + CrSi2 | (Si): Si 1; CrSi2: Si 0.666667 | experimental | [2] Du 2000 | Table 1, p. 2, row 38; `ORC-OM3EEMJR34.ebffb2` |  |
+| 1596.05 | Liquid = CrSi2 + (Si) | L: Si 0.8536; CrSi2: Si 0.6787; (Si): Si 1 | model | [3] Chen 2009 | Table 2, p. 3, row 5; `ORC-ABINRUXYXE` |  |
+| 1582.15 | L ↔ (Si) + CrSi2 | (Si): Si 1; CrSi2: Si 0.666667 | experimental | [2] Du 2000; _cites Svechnikov 1964_ | Table 1, p. 2, row 37; `ORC-OWSOAHR6KH` |  |
+| 1581.15 | L ↔ (Si) + CrSi2 | (Si): Si 1; CrSi2: Si 0.666667 | experimental | [2] Du 2000; _cites Chang 1968_ | Table 1, p. 2, row 36; `ORC-HA5QHHC27N` |  |
+| 1581.15 | L -> (Si) + CrSi2 | (Si): Si 1; CrSi2: Si 0.666667 | unspecified | [2] Du 2000 | Table 2, p. 2, row 1; `ORC-QWWB5N2GT3` |  |
+| 1578.15 | L -> (Si) + CrSi2 | (Si): Si 1; CrSi2: Si 0.666667 | experimental | [2] Du 2000; _cites Chang 1968_ | Table 2, p. 2, row 2; `ORC-3Z4ZRYUGUH` |  |
 
 ## Formation enthalpies
 
@@ -168,35 +168,35 @@ Table: Enthalpies of formation, Cr–Si system (29)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Cr3Si | [Cr3Si](https://data.orchid-project.org/compounds/Cr3Si.html) | -34.7 kJ/mol-atom | 298.15 | experimental | -31.155 (mp-aaaaabcb) | -34.888 (oqmd-3600) | [5] Coughanowr 1994; _cites ref. 61Gol2_ | Table 6, p. 14, row 1 |  |
-| Cr3Si | [Cr3Si](https://data.orchid-project.org/compounds/Cr3Si.html) | -31.92 kJ/mol-atom |  | model | -31.155 (mp-aaaaabcb) | -34.888 (oqmd-3600) | [5] Coughanowr 1994 | Table 6, p. 14, row 4 |  |
-| Cr3Si | [Cr3Si](https://data.orchid-project.org/compounds/Cr3Si.html) | -31.59 kJ/mol-atom |  | model | -31.155 (mp-aaaaabcb) | -34.888 (oqmd-3600) | [5] Coughanowr 1994 | Table 6, p. 14, row 2 |  |
-| Cr3Si |  | -31.59 per mol-atom | 298.15 | model |  |  | [2] Du 2000; _cites Coughanowr 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990023-x) | Table 4, p. 4, row 3 |  |
-| Cr3Si | [Cr3Si](https://data.orchid-project.org/compounds/Cr3Si.html) | -31.41 kJ/mol-atom |  | model | -31.155 (mp-aaaaabcb) | -34.888 (oqmd-3600) | [5] Coughanowr 1994 | Table 6, p. 14, row 3 |  |
-| Cr3Si |  | -28.749 per mol-atom | 298.15 | model |  |  | [2] Du 2000 | Table 4, p. 4, row 2 |  |
-| Cr3Si |  | -27.2 per mol-atom ± 1100 | 298.15 | experimental |  |  | [2] Du 2000; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900528-8) | Table 4, p. 4, row 1 |  |
-| Cr5Si3 | [Cr5Si3](https://data.orchid-project.org/compounds/Cr5Si3.html) | -41 kJ/mol-atom | 298.15 | experimental | -27.079 (mp-aaaaalcs) | -29.969 (oqmd-3178) | [5] Coughanowr 1994; _cites ref. 61Gol2_ | Table 6, p. 14, row 5 |  |
-| Cr5Si3 | [Cr5Si3](https://data.orchid-project.org/compounds/Cr5Si3.html) | -32.9 kJ/mol-atom |  | model | -27.079 (mp-aaaaalcs) | -29.969 (oqmd-3178) | [5] Coughanowr 1994 | Table 6, p. 14, row 8 |  |
-| Cr5Si3 | [Cr5Si3](https://data.orchid-project.org/compounds/Cr5Si3.html) | -32.57 kJ/mol-atom |  | model | -27.079 (mp-aaaaalcs) | -29.969 (oqmd-3178) | [5] Coughanowr 1994 | Table 6, p. 14, row 6 |  |
-| Cr5Si3 | [Cr5Si3](https://data.orchid-project.org/compounds/Cr5Si3.html) | -32.52 kJ/mol-atom |  | model | -27.079 (mp-aaaaalcs) | -29.969 (oqmd-3178) | [5] Coughanowr 1994 | Table 6, p. 14, row 7 |  |
-| CrSi | [CrSi](https://data.orchid-project.org/compounds/CrSi.html) | -39.7 kJ/mol-atom | 298.15 | experimental | -24.637 (mp-aaaaalfk) | -27.832 (oqmd-3602) | [5] Coughanowr 1994; _cites ref. 61Gol2_ | Table 6, p. 14, row 9 |  |
-| CrSi |  | -34.2 per mol-atom ± 1600 | 298.15 | experimental |  |  | [2] Du 2000; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900528-8) | Table 4, p. 4, row 7 |  |
-| CrSi | [CrSi](https://data.orchid-project.org/compounds/CrSi.html) | -30.44 kJ/mol-atom |  | model | -24.637 (mp-aaaaalfk) | -27.832 (oqmd-3602) | [5] Coughanowr 1994 | Table 6, p. 14, row 12 |  |
-| CrSi |  | -30.429 per mol-atom | 298.15 | model |  |  | [2] Du 2000 | Table 4, p. 4, row 8 |  |
-| CrSi | [CrSi](https://data.orchid-project.org/compounds/CrSi.html) | -30.18 kJ/mol-atom |  | model | -24.637 (mp-aaaaalfk) | -27.832 (oqmd-3602) | [5] Coughanowr 1994 | Table 6, p. 14, row 11 |  |
-| CrSi |  | -30.16 per mol-atom | 298.15 | model |  |  | [2] Du 2000; _cites Coughanowr 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990023-x) | Table 4, p. 4, row 9 |  |
-| CrSi | [CrSi](https://data.orchid-project.org/compounds/CrSi.html) | -30.16 kJ/mol-atom |  | model | -24.637 (mp-aaaaalfk) | -27.832 (oqmd-3602) | [5] Coughanowr 1994 | Table 6, p. 14, row 10 |  |
-| CrSi2 | [CrSi2](https://data.orchid-project.org/compounds/CrSi2.html) | -40.2 kJ/mol-atom | 298.15 | experimental | -31.349 (mp-aaaaanft) | -35.843 (oqmd-12787) | [5] Coughanowr 1994; _cites ref. 61Gol2_ | Table 6, p. 14, row 13 |  |
-| CrSi2 |  | -27.296 per mol-atom | 298.15 | model |  |  | [2] Du 2000 | Table 4, p. 4, row 11 |  |
-| CrSi2 | [CrSi2](https://data.orchid-project.org/compounds/CrSi2.html) | -26.1 kJ/mol-atom |  | model | -31.349 (mp-aaaaanft) | -35.843 (oqmd-12787) | [5] Coughanowr 1994 | Table 6, p. 14, row 16 |  |
-| CrSi2 | [CrSi2](https://data.orchid-project.org/compounds/CrSi2.html) | -26.09 kJ/mol-atom |  | model | -31.349 (mp-aaaaanft) | -35.843 (oqmd-12787) | [5] Coughanowr 1994 | Table 6, p. 14, row 17 |  |
-| CrSi2 | [CrSi2](https://data.orchid-project.org/compounds/CrSi2.html) | -26.08 kJ/mol-atom |  | model | -31.349 (mp-aaaaanft) | -35.843 (oqmd-12787) | [5] Coughanowr 1994 | Table 6, p. 14, row 15 |  |
-| CrSi2 |  | -26.08 per mol-atom | 298.15 | model |  |  | [2] Du 2000; _cites Coughanowr 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990023-x) | Table 4, p. 4, row 12 |  |
-| CrSi2 | [CrSi2](https://data.orchid-project.org/compounds/CrSi2.html) | -25.8 kJ/mol-atom | 298.15 | experimental | -31.349 (mp-aaaaanft) | -35.843 (oqmd-12787) | [5] Coughanowr 1994; _cites ref. 87Top_ | Table 6, p. 14, row 14 |  |
-| CrSi2 |  | -25.8 per mol-atom ± 4400 | 298.15 | experimental |  |  | [2] Du 2000; _cites ref. 1987Top_ | Table 4, p. 4, row 10 |  |
-| αCr5Si3 |  | -33.6 per mol-atom ± 1000 | 298.15 | experimental |  |  | [2] Du 2000; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900528-8) | Table 4, p. 4, row 4 |  |
-| αCr5Si3 |  | -32.57 per mol-atom | 298.15 | model |  |  | [2] Du 2000; _cites Coughanowr 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990023-x) | Table 4, p. 4, row 6 |  |
-| αCr5Si3 |  | -32.525 per mol-atom | 298.15 | model |  |  | [2] Du 2000 | Table 4, p. 4, row 5 |  |
+| Cr3Si | [Cr3Si](https://data.orchid-project.org/compounds/Cr3Si.html) | -34.7 kJ/mol-atom | 298.15 | experimental | -31.155 (mp-aaaaabcb) | -34.888 (oqmd-3600) | [5] Coughanowr 1994; _cites ref. 61Gol2_ | Table 6, p. 14, row 1; `ORC-4VGP6KA6FZ.bea6ee` |  |
+| Cr3Si | [Cr3Si](https://data.orchid-project.org/compounds/Cr3Si.html) | -31.92 kJ/mol-atom |  | model | -31.155 (mp-aaaaabcb) | -34.888 (oqmd-3600) | [5] Coughanowr 1994 | Table 6, p. 14, row 4; `ORC-OJMYUI3CGM.20f9de` |  |
+| Cr3Si | [Cr3Si](https://data.orchid-project.org/compounds/Cr3Si.html) | -31.59 kJ/mol-atom |  | model | -31.155 (mp-aaaaabcb) | -34.888 (oqmd-3600) | [5] Coughanowr 1994 | Table 6, p. 14, row 2; `ORC-2TJSNZSCYI.7adcdc` |  |
+| Cr3Si |  | -31.59 per mol-atom | 298.15 | model |  |  | [2] Du 2000; _cites Coughanowr 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990023-x) | Table 4, p. 4, row 3; `ORC-ICVZMG47GU.67e3a3` |  |
+| Cr3Si | [Cr3Si](https://data.orchid-project.org/compounds/Cr3Si.html) | -31.41 kJ/mol-atom |  | model | -31.155 (mp-aaaaabcb) | -34.888 (oqmd-3600) | [5] Coughanowr 1994 | Table 6, p. 14, row 3; `ORC-5JQ4AA5JYJ.573dcf` |  |
+| Cr3Si |  | -28.749 per mol-atom | 298.15 | model |  |  | [2] Du 2000 | Table 4, p. 4, row 2; `ORC-RPMR2KMO55.f4eb8f` |  |
+| Cr3Si |  | -27.2 per mol-atom ± 1100 | 298.15 | experimental |  |  | [2] Du 2000; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900528-8) | Table 4, p. 4, row 1; `ORC-5PUOEX2QZD.cd2c56` |  |
+| Cr5Si3 | [Cr5Si3](https://data.orchid-project.org/compounds/Cr5Si3.html) | -41 kJ/mol-atom | 298.15 | experimental | -27.079 (mp-aaaaalcs) | -29.969 (oqmd-3178) | [5] Coughanowr 1994; _cites ref. 61Gol2_ | Table 6, p. 14, row 5; `ORC-GMA4XV7L4M.3cc978` |  |
+| Cr5Si3 | [Cr5Si3](https://data.orchid-project.org/compounds/Cr5Si3.html) | -32.9 kJ/mol-atom |  | model | -27.079 (mp-aaaaalcs) | -29.969 (oqmd-3178) | [5] Coughanowr 1994 | Table 6, p. 14, row 8; `ORC-6DVBEI2V2B.8033a6` |  |
+| Cr5Si3 | [Cr5Si3](https://data.orchid-project.org/compounds/Cr5Si3.html) | -32.57 kJ/mol-atom |  | model | -27.079 (mp-aaaaalcs) | -29.969 (oqmd-3178) | [5] Coughanowr 1994 | Table 6, p. 14, row 6; `ORC-I6VUO3QXGV.a545db` |  |
+| Cr5Si3 | [Cr5Si3](https://data.orchid-project.org/compounds/Cr5Si3.html) | -32.52 kJ/mol-atom |  | model | -27.079 (mp-aaaaalcs) | -29.969 (oqmd-3178) | [5] Coughanowr 1994 | Table 6, p. 14, row 7; `ORC-M34I2LXSTR.dada96` |  |
+| CrSi | [CrSi](https://data.orchid-project.org/compounds/CrSi.html) | -39.7 kJ/mol-atom | 298.15 | experimental | -24.637 (mp-aaaaalfk) | -27.832 (oqmd-3602) | [5] Coughanowr 1994; _cites ref. 61Gol2_ | Table 6, p. 14, row 9; `ORC-CW7FE3TCK7.9b0e0e` |  |
+| CrSi |  | -34.2 per mol-atom ± 1600 | 298.15 | experimental |  |  | [2] Du 2000; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900528-8) | Table 4, p. 4, row 7; `ORC-RPGFZ7MWTU.5e2ba8` |  |
+| CrSi | [CrSi](https://data.orchid-project.org/compounds/CrSi.html) | -30.44 kJ/mol-atom |  | model | -24.637 (mp-aaaaalfk) | -27.832 (oqmd-3602) | [5] Coughanowr 1994 | Table 6, p. 14, row 12; `ORC-SS2DIOXSC7.ec4661` |  |
+| CrSi |  | -30.429 per mol-atom | 298.15 | model |  |  | [2] Du 2000 | Table 4, p. 4, row 8; `ORC-HYSJOTOIOU.c45b0b` |  |
+| CrSi | [CrSi](https://data.orchid-project.org/compounds/CrSi.html) | -30.18 kJ/mol-atom |  | model | -24.637 (mp-aaaaalfk) | -27.832 (oqmd-3602) | [5] Coughanowr 1994 | Table 6, p. 14, row 11; `ORC-YFHPJPYFR2.4f9eed` |  |
+| CrSi |  | -30.16 per mol-atom | 298.15 | model |  |  | [2] Du 2000; _cites Coughanowr 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990023-x) | Table 4, p. 4, row 9; `ORC-TC4BQJELU5.3402a9` |  |
+| CrSi | [CrSi](https://data.orchid-project.org/compounds/CrSi.html) | -30.16 kJ/mol-atom |  | model | -24.637 (mp-aaaaalfk) | -27.832 (oqmd-3602) | [5] Coughanowr 1994 | Table 6, p. 14, row 10; `ORC-VI4QDH2XML.779674` |  |
+| CrSi2 | [CrSi2](https://data.orchid-project.org/compounds/CrSi2.html) | -40.2 kJ/mol-atom | 298.15 | experimental | -31.349 (mp-aaaaanft) | -35.843 (oqmd-12787) | [5] Coughanowr 1994; _cites ref. 61Gol2_ | Table 6, p. 14, row 13; `ORC-SFXQ74N26N.a559ce` |  |
+| CrSi2 |  | -27.296 per mol-atom | 298.15 | model |  |  | [2] Du 2000 | Table 4, p. 4, row 11; `ORC-4I52HOG5PC.e4084e` |  |
+| CrSi2 | [CrSi2](https://data.orchid-project.org/compounds/CrSi2.html) | -26.1 kJ/mol-atom |  | model | -31.349 (mp-aaaaanft) | -35.843 (oqmd-12787) | [5] Coughanowr 1994 | Table 6, p. 14, row 16; `ORC-AJEDRVSVRA.a1949e` |  |
+| CrSi2 | [CrSi2](https://data.orchid-project.org/compounds/CrSi2.html) | -26.09 kJ/mol-atom |  | model | -31.349 (mp-aaaaanft) | -35.843 (oqmd-12787) | [5] Coughanowr 1994 | Table 6, p. 14, row 17; `ORC-EXZPL6NJGR.0afd82` |  |
+| CrSi2 | [CrSi2](https://data.orchid-project.org/compounds/CrSi2.html) | -26.08 kJ/mol-atom |  | model | -31.349 (mp-aaaaanft) | -35.843 (oqmd-12787) | [5] Coughanowr 1994 | Table 6, p. 14, row 15; `ORC-6PSZBSK6B4.3489ac` |  |
+| CrSi2 |  | -26.08 per mol-atom | 298.15 | model |  |  | [2] Du 2000; _cites Coughanowr 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990023-x) | Table 4, p. 4, row 12; `ORC-WT5MIQADSB.06cb7a` |  |
+| CrSi2 | [CrSi2](https://data.orchid-project.org/compounds/CrSi2.html) | -25.8 kJ/mol-atom | 298.15 | experimental | -31.349 (mp-aaaaanft) | -35.843 (oqmd-12787) | [5] Coughanowr 1994; _cites ref. 87Top_ | Table 6, p. 14, row 14; `ORC-UAYIRY3KNJ.a55890` |  |
+| CrSi2 |  | -25.8 per mol-atom ± 4400 | 298.15 | experimental |  |  | [2] Du 2000; _cites ref. 1987Top_ | Table 4, p. 4, row 10; `ORC-XNP6VSN2VU.b70f2b` |  |
+| αCr5Si3 |  | -33.6 per mol-atom ± 1000 | 298.15 | experimental |  |  | [2] Du 2000; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900528-8) | Table 4, p. 4, row 4; `ORC-PXHGAHXP25.50c7e9` |  |
+| αCr5Si3 |  | -32.57 per mol-atom | 298.15 | model |  |  | [2] Du 2000; _cites Coughanowr 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990023-x) | Table 4, p. 4, row 6; `ORC-JUQKCTZRZ6.f8318d` |  |
+| αCr5Si3 |  | -32.525 per mol-atom | 298.15 | model |  |  | [2] Du 2000 | Table 4, p. 4, row 5; `ORC-DNJLNZGVNR.134cf5` |  |
 
 ## Other properties
 
@@ -206,34 +206,34 @@ Table: Phase transition, Cr–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1702.15 K | 1702.15 | L ↔ CrSi2; _L: Si 0.666667; CrSi2: Si 0.666667_ | experimental | [2] Du 2000; _cites Svechnikov 1964_ | Table 1, p. 2, row 32 |  |
-| Phase transition | 1710.15 K | 1710.15 | L -> CrSi2; _L: Si 0.666667; CrSi2: Si 0.666667_ | unspecified | [2] Du 2000 | Table 2, p. 2, row 5 |  |
-| Phase transition | 1710.15 K | 1710.15 | L ↔ CrSi2; _L: Si 0.666667; CrSi2: Si 0.666667_ | experimental | [2] Du 2000; _cites Chang 1968_ | Table 1, p. 2, row 31 |  |
-| Phase transition | 1711.15 K | 1711.15 | L -> CrSi2; _L: Si 0.666667; CrSi2: Si 0.666667_ | unspecified | [2] Du 2000 | Table 2, p. 2, row 3 |  |
-| Phase transition | 1711.15 K | 1711.15 | L ↔ CrSi2; _L: Si 0.666667; CrSi2: Si 0.666667_ | experimental | [2] Du 2000 | Table 1, p. 2, row 33 |  |
-| Phase transition | 1712.15 K | 1712.15 | L ↔ CrSi2; _L: Si 0.666667; CrSi2: Si 0.666667_ | unspecified | [2] Du 2000 | Table 1, p. 2, row 34 |  |
-| Phase transition | 1713.75 K | 1713.75 | Liquid = CrSi2; _L: Si 0.6664; CrSi2: Si 0.6664_ | model | [3] Chen 2009 | Table 2, p. 3, row 8 |  |
-| Phase transition | 1741.15 K | 1741.15 | L ↔ CrSi2; _L: Si 0.666667; CrSi2: Si 0.666667_ | model | [2] Du 2000; _cites Coughanowr 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990023-x) | Table 1, p. 2, row 35 |  |
-| Phase transition | 1763.15 K | 1763.15 | L -> CrSi2; _L: Si 0.666667; CrSi2: Si 0.666667_ | experimental | [2] Du 2000; _cites Chang 1968_ | Table 2, p. 2, row 4 |  |
-| Phase transition | 1778.15 K | 1778.15 |  | experimental | [5] Coughanowr 1994; _cites ref. 68Cha_ | p. 2 | “Chang also reported a phase transformation for CrsSis at 1505°C (1778 K), but since he was not able to retain, by quenching, the high-temperature form to determine its structure, this feature was not included in the present description.” |
-| Phase transition | 1939.15 K | 1939.15 | L ↔ βCr5Si3; _L: Si 0.375; βCr5Si3: Si 0.375_ | unspecified | [2] Du 2000 | Table 1, p. 2, row 15 |  |
-| Phase transition | 1941.15 K | 1941.15 | L -> βCr5Si3; _L: Si 0.375; βCr5Si3: Si 0.375_ | unspecified | [2] Du 2000 | Table 2, p. 2, row 10 |  |
-| Phase transition | 1941.15 K | 1941.15 (>) | L ↔ βCr5Si3; _L: Si 0.375; βCr5Si3: Si 0.375_ | experimental | [2] Du 2000; _cites Chang 1968_ | Table 1, p. 2, row 13 |  |
-| Phase transition | 1951.15 K | 1951.15 | L ↔ βCr5Si3; _L: Si 0.375; βCr5Si3: Si 0.375_ | model | [2] Du 2000; _cites Coughanowr 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990023-x) | Table 1, p. 2, row 16 |  |
-| Phase transition | 1953.15 K | 1953.15 | L -> βCr5Si3; _L: Si 0.375; βCr5Si3: Si 0.375_ | experimental | [2] Du 2000; _cites Chang 1968_ | Table 2, p. 2, row 11 |  |
-| Phase transition | 1963.15 K | 1963.15 | congruent transformation | experimental | [4] Ioroi 2024; _cites Ioroi 2022_ [doi](https://doi.org/10.1007/s11669-022-00954-9) | p. 11 | “In the present evaluation, however, the invariant reaction is revised to be a eutectic one "Liquid = Cr3Si + Cr5Si3" mainly because the congruent melting temperature of the Cr5Si3 phase (1690 °C \[21\]) is clearly higher than the invariant temperature (1665 °C \[21\]) as shown in Fig. 4(b).” |
-| Phase transition | 1993.15 K | 1993.15 | L ↔ βCr5Si3; _L: Si 0.375; βCr5Si3: Si 0.375_ | experimental | [2] Du 2000; _cites Svechnikov 1964_ | Table 1, p. 2, row 14 |  |
-| Phase transition | 2039.15 K | 2039.15 | L -> Cr3Si; _L: Si 0.25; Cr3Si: Si 0.25_ | unspecified | [2] Du 2000 | Table 2, p. 2, row 14 |  |
-| Phase transition | 2039.15 K | 2039.15 (>) | L ↔ Cr3Si; _L: Si 0.25; Cr3Si: Si 0.25_ | experimental | [2] Du 2000; _cites Chang 1968_ | Table 1, p. 2, row 5 |  |
-| Phase transition | 2043.15 K | 2043.15 | L -> Cr3Si; _L: Si 0.25; Cr3Si: Si 0.25_ | experimental | [2] Du 2000; _cites Chang 1968_ | Table 2, p. 2, row 15 |  |
-| Phase transition | 2043.15 K | 2043.15 | L ↔ Cr3Si; _L: Si 0.25; Cr3Si: Si 0.25_ | experimental | [2] Du 2000; _cites Svechnikov 1964_ | Table 1, p. 2, row 6 |  |
-| Phase transition | 2047.54 K | 2047.54 | Liquid = Cr3Si; _L: Si 0.2603; Cr3Si: Si 0.2603_ | model | [3] Chen 2009 | Table 2, p. 3, row 9 |  |
-| Phase transition | 2050.15 K | 2050.15 | L ↔ Cr3Si; _L: Si 0.25; Cr3Si: Si 0.25_ | model | [2] Du 2000; _cites Coughanowr 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990023-x) | Table 1, p. 2, row 8 |  |
-| Phase transition | 2053.15 K | 2053.15 | L ↔ Cr3Si; _L: Si 0.25; Cr3Si: Si 0.25_ | unspecified | [2] Du 2000 | Table 1, p. 2, row 7 |  |
-| Phase transition | 2133.15 K | 2133.15 | Cr + liquid | experimental | [5] Coughanowr 1994; _cites ref. 67Rud_ | p. 2 | “At the time when Svechnikov et al. and Chang reported their results for the Cr-Si system, a melting temperature of 188W'C (2153 K) had been established for Cr \[58Han, 65Ell\]; Chang used an even lower value, 1860°C (2133 K), determined by Rudy \[67Rud\].” |
-| Phase transition | 2134.15 K | 2134.15 |  | experimental | [4] Ioroi 2024 | p. 1 | “The thermodynamic parameters for the Gibbs energy of pure Cr were modified based on the new experimental value of 1861 °C for the melting point of pure Cr, which was previously reported as 1907 °C in the SGTE” |
-| Phase transition | 2180.15 K | 2180.15 |  | experimental | [4] Ioroi 2024 | p. 1 | “The thermodynamic parameters for the Gibbs energy of pure Cr were modified based on the new experimental value of 1861 °C for the melting point of pure Cr, which was previously reported as 1907 °C in the SGTE” |
-| Phase transition | 2180.15 K | 2180.15 | Cr + liquid | model | [5] Coughanowr 1994; _cites ref. 91Din_ | p. 2 | “However, the T, of 1907°C (2180 K) adopted by SGTE ' \[91Din\] and used in the present work is higher by 27-47°C.” |
+| Phase transition | 1702.15 K | 1702.15 | L ↔ CrSi2; _L: Si 0.666667; CrSi2: Si 0.666667_ | experimental | [2] Du 2000; _cites Svechnikov 1964_ | Table 1, p. 2, row 32; `ORC-XIPD3YHKNT` |  |
+| Phase transition | 1710.15 K | 1710.15 | L -> CrSi2; _L: Si 0.666667; CrSi2: Si 0.666667_ | unspecified | [2] Du 2000 | Table 2, p. 2, row 5; `ORC-FROGHBW7LF` |  |
+| Phase transition | 1710.15 K | 1710.15 | L ↔ CrSi2; _L: Si 0.666667; CrSi2: Si 0.666667_ | experimental | [2] Du 2000; _cites Chang 1968_ | Table 1, p. 2, row 31; `ORC-TXVPK7OBCO` |  |
+| Phase transition | 1711.15 K | 1711.15 | L -> CrSi2; _L: Si 0.666667; CrSi2: Si 0.666667_ | unspecified | [2] Du 2000 | Table 2, p. 2, row 3; `ORC-OODM676OL6` |  |
+| Phase transition | 1711.15 K | 1711.15 | L ↔ CrSi2; _L: Si 0.666667; CrSi2: Si 0.666667_ | experimental | [2] Du 2000 | Table 1, p. 2, row 33; `ORC-XMGHR67PKL` |  |
+| Phase transition | 1712.15 K | 1712.15 | L ↔ CrSi2; _L: Si 0.666667; CrSi2: Si 0.666667_ | unspecified | [2] Du 2000 | Table 1, p. 2, row 34; `ORC-TDQBP7ZO4E` |  |
+| Phase transition | 1713.75 K | 1713.75 | Liquid = CrSi2; _L: Si 0.6664; CrSi2: Si 0.6664_ | model | [3] Chen 2009 | Table 2, p. 3, row 8; `ORC-3NK4QFYV45` |  |
+| Phase transition | 1741.15 K | 1741.15 | L ↔ CrSi2; _L: Si 0.666667; CrSi2: Si 0.666667_ | model | [2] Du 2000; _cites Coughanowr 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990023-x) | Table 1, p. 2, row 35; `ORC-QKH6UNNZLB` |  |
+| Phase transition | 1763.15 K | 1763.15 | L -> CrSi2; _L: Si 0.666667; CrSi2: Si 0.666667_ | experimental | [2] Du 2000; _cites Chang 1968_ | Table 2, p. 2, row 4; `ORC-3T5AL6WJ4D` |  |
+| Phase transition | 1778.15 K | 1778.15 |  | experimental | [5] Coughanowr 1994; _cites ref. 68Cha_ | p. 2; `ORC-XU62UEF2KO` | “Chang also reported a phase transformation for CrsSis at 1505°C (1778 K), but since he was not able to retain, by quenching, the high-temperature form to determine its structure, this feature was not included in the present description.” |
+| Phase transition | 1939.15 K | 1939.15 | L ↔ βCr5Si3; _L: Si 0.375; βCr5Si3: Si 0.375_ | unspecified | [2] Du 2000 | Table 1, p. 2, row 15; `ORC-35JTCESLCL` |  |
+| Phase transition | 1941.15 K | 1941.15 | L -> βCr5Si3; _L: Si 0.375; βCr5Si3: Si 0.375_ | unspecified | [2] Du 2000 | Table 2, p. 2, row 10; `ORC-FG5SGJAHIK` |  |
+| Phase transition | 1941.15 K | 1941.15 (>) | L ↔ βCr5Si3; _L: Si 0.375; βCr5Si3: Si 0.375_ | experimental | [2] Du 2000; _cites Chang 1968_ | Table 1, p. 2, row 13; `ORC-NRY7YL2R4P` |  |
+| Phase transition | 1951.15 K | 1951.15 | L ↔ βCr5Si3; _L: Si 0.375; βCr5Si3: Si 0.375_ | model | [2] Du 2000; _cites Coughanowr 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990023-x) | Table 1, p. 2, row 16; `ORC-OM2JMM5NB6` |  |
+| Phase transition | 1953.15 K | 1953.15 | L -> βCr5Si3; _L: Si 0.375; βCr5Si3: Si 0.375_ | experimental | [2] Du 2000; _cites Chang 1968_ | Table 2, p. 2, row 11; `ORC-JDF4UKYOEJ` |  |
+| Phase transition | 1963.15 K | 1963.15 | congruent transformation | experimental | [4] Ioroi 2024; _cites Ioroi 2022_ [doi](https://doi.org/10.1007/s11669-022-00954-9) | p. 11; `ORC-FCY32GV55Z.03148f` | “In the present evaluation, however, the invariant reaction is revised to be a eutectic one "Liquid = Cr3Si + Cr5Si3" mainly because the congruent melting temperature of the Cr5Si3 phase (1690 °C \[21\]) is clearly higher than the invariant temperature (1665 °C \[21\]) as shown in Fig. 4(b).” |
+| Phase transition | 1993.15 K | 1993.15 | L ↔ βCr5Si3; _L: Si 0.375; βCr5Si3: Si 0.375_ | experimental | [2] Du 2000; _cites Svechnikov 1964_ | Table 1, p. 2, row 14; `ORC-NHTOYA6TOY` |  |
+| Phase transition | 2039.15 K | 2039.15 | L -> Cr3Si; _L: Si 0.25; Cr3Si: Si 0.25_ | unspecified | [2] Du 2000 | Table 2, p. 2, row 14; `ORC-5IVZ4L6CRC` |  |
+| Phase transition | 2039.15 K | 2039.15 (>) | L ↔ Cr3Si; _L: Si 0.25; Cr3Si: Si 0.25_ | experimental | [2] Du 2000; _cites Chang 1968_ | Table 1, p. 2, row 5; `ORC-DYBD4TEDKL` |  |
+| Phase transition | 2043.15 K | 2043.15 | L -> Cr3Si; _L: Si 0.25; Cr3Si: Si 0.25_ | experimental | [2] Du 2000; _cites Chang 1968_ | Table 2, p. 2, row 15; `ORC-QJKAYGXRDB` |  |
+| Phase transition | 2043.15 K | 2043.15 | L ↔ Cr3Si; _L: Si 0.25; Cr3Si: Si 0.25_ | experimental | [2] Du 2000; _cites Svechnikov 1964_ | Table 1, p. 2, row 6; `ORC-5RLRNO4QLT` |  |
+| Phase transition | 2047.54 K | 2047.54 | Liquid = Cr3Si; _L: Si 0.2603; Cr3Si: Si 0.2603_ | model | [3] Chen 2009 | Table 2, p. 3, row 9; `ORC-NIDHZ7OKAT` |  |
+| Phase transition | 2050.15 K | 2050.15 | L ↔ Cr3Si; _L: Si 0.25; Cr3Si: Si 0.25_ | model | [2] Du 2000; _cites Coughanowr 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990023-x) | Table 1, p. 2, row 8; `ORC-MFOUR22QYM` |  |
+| Phase transition | 2053.15 K | 2053.15 | L ↔ Cr3Si; _L: Si 0.25; Cr3Si: Si 0.25_ | unspecified | [2] Du 2000 | Table 1, p. 2, row 7; `ORC-TL6BLERJY6` |  |
+| Phase transition | 2133.15 K | 2133.15 | Cr + liquid | experimental | [5] Coughanowr 1994; _cites ref. 67Rud_ | p. 2; `ORC-XFTZAU7UKF` | “At the time when Svechnikov et al. and Chang reported their results for the Cr-Si system, a melting temperature of 188W'C (2153 K) had been established for Cr \[58Han, 65Ell\]; Chang used an even lower value, 1860°C (2133 K), determined by Rudy \[67Rud\].” |
+| Phase transition | 2134.15 K | 2134.15 |  | experimental | [4] Ioroi 2024 | p. 1; `ORC-WVZ62DE53D.b5686a` | “The thermodynamic parameters for the Gibbs energy of pure Cr were modified based on the new experimental value of 1861 °C for the melting point of pure Cr, which was previously reported as 1907 °C in the SGTE” |
+| Phase transition | 2180.15 K | 2180.15 |  | experimental | [4] Ioroi 2024 | p. 1; `ORC-WVZ62DE53D.006231` | “The thermodynamic parameters for the Gibbs energy of pure Cr were modified based on the new experimental value of 1861 °C for the melting point of pure Cr, which was previously reported as 1907 °C in the SGTE” |
+| Phase transition | 2180.15 K | 2180.15 | Cr + liquid | model | [5] Coughanowr 1994; _cites ref. 91Din_ | p. 2; `ORC-COTK2TWYFG` | “However, the T, of 1907°C (2180 K) adopted by SGTE ' \[91Din\] and used in the present work is higher by 27-47°C.” |
 
 ### Crystal structure (6)
 
@@ -241,12 +241,12 @@ Table: Crystal structure, Cr–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 4.558 Å | 298.15 | Cr3Si; _alloy: Cr 0.75, Si 0.25_ | model | [6] Hu 2013; _cites Gokhale 1987_ [doi](https://doi.org/10.1007/bf02893156) | Table 3, p. 4, row 7 |  |
-| Lattice a | 4.62 Å | 298.15 | CrSi; _alloy: Cr 0.5, Si 0.5_ | model | [6] Hu 2013; _cites Gokhale 1987_ [doi](https://doi.org/10.1007/bf02893156) | Table 3, p. 4, row 5 |  |
-| Lattice a | 4.428 Å | 298.15 | CrSi2; _alloy: Cr 0.333333, Si 0.666667_ | model | [6] Hu 2013; _cites Gokhale 1987_ [doi](https://doi.org/10.1007/bf02893156) | Table 3, p. 4, row 4 |  |
-| Lattice a | 9.17 Å | 298.15 | αCr5Si3; _alloy: Cr 0.625, Si 0.375_ | model | [6] Hu 2013; _cites Gokhale 1987_ [doi](https://doi.org/10.1007/bf02893156) | Table 3, p. 4, row 6 |  |
-| Lattice c | 6.368 Å | 298.15 | CrSi2; _alloy: Cr 0.333333, Si 0.666667_ | model | [6] Hu 2013; _cites Gokhale 1987_ [doi](https://doi.org/10.1007/bf02893156) | Table 3, p. 4, row 4 |  |
-| Lattice c | 4.636 Å | 298.15 | αCr5Si3; _alloy: Cr 0.625, Si 0.375_ | model | [6] Hu 2013; _cites Gokhale 1987_ [doi](https://doi.org/10.1007/bf02893156) | Table 3, p. 4, row 6 |  |
+| Lattice a | 4.558 Å | 298.15 | Cr3Si; _alloy: Cr 0.75, Si 0.25_ | model | [6] Hu 2013; _cites Gokhale 1987_ [doi](https://doi.org/10.1007/bf02893156) | Table 3, p. 4, row 7; `ORC-W75AN77DHD.487012` |  |
+| Lattice a | 4.62 Å | 298.15 | CrSi; _alloy: Cr 0.5, Si 0.5_ | model | [6] Hu 2013; _cites Gokhale 1987_ [doi](https://doi.org/10.1007/bf02893156) | Table 3, p. 4, row 5; `ORC-ROD3SPJBWC.843821` |  |
+| Lattice a | 4.428 Å | 298.15 | CrSi2; _alloy: Cr 0.333333, Si 0.666667_ | model | [6] Hu 2013; _cites Gokhale 1987_ [doi](https://doi.org/10.1007/bf02893156) | Table 3, p. 4, row 4; `ORC-HB6BE3YYMM.b19ba0` |  |
+| Lattice a | 9.17 Å | 298.15 | αCr5Si3; _alloy: Cr 0.625, Si 0.375_ | model | [6] Hu 2013; _cites Gokhale 1987_ [doi](https://doi.org/10.1007/bf02893156) | Table 3, p. 4, row 6; `ORC-NURPBJFLLY.2f7b06` |  |
+| Lattice c | 6.368 Å | 298.15 | CrSi2; _alloy: Cr 0.333333, Si 0.666667_ | model | [6] Hu 2013; _cites Gokhale 1987_ [doi](https://doi.org/10.1007/bf02893156) | Table 3, p. 4, row 4; `ORC-HB6BE3YYMM.567d40` |  |
+| Lattice c | 4.636 Å | 298.15 | αCr5Si3; _alloy: Cr 0.625, Si 0.375_ | model | [6] Hu 2013; _cites Gokhale 1987_ [doi](https://doi.org/10.1007/bf02893156) | Table 3, p. 4, row 6; `ORC-NURPBJFLLY.7787a9` |  |
 
 ## Sources
 
@@ -316,4 +316,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

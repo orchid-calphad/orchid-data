@@ -58,14 +58,14 @@ Table: Invariant reactions reported in the literature for the Ag–Sr system (8)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1021 | Liq -> fccAg + Ag5Sr | L: Sr 0.113; Ag5Sr: Sr 0.166667 | model | [1] Liu 2006 | Table 2, p. 3, row 1 |  |
-| 1020 | Liq -> fccAg + Ag5Sr | L: Sr 0.108; Ag5Sr: Sr 0.166667 | experimental | [1] Liu 2006; _cites Olson 2001_ [doi](https://doi.org/10.1016/s0364-5916%2801%2900041-4) | Table 2, p. 3, row 2 |  |
-| 986 | Liq + Ag5Sr -> Ag4Sr | L: Sr 0.236; Ag5Sr: Sr 0.166667; Ag4Sr: Sr 0.2 | experimental | [1] Liu 2006; _cites Olson 2001_ [doi](https://doi.org/10.1016/s0364-5916%2801%2900041-4) | Table 2, p. 3, row 6 |  |
-| 986 | Liq + Ag5Sr -> Ag4Sr | L: Sr 0.253; Ag5Sr: Sr 0.166667; Ag4Sr: Sr 0.2 | model | [1] Liu 2006 | Table 2, p. 3, row 5 |  |
-| 975 | Liq -> Ag4Sr + Ag2Sr | L: Sr 0.262; Ag4Sr: Sr 0.2; Ag2Sr: Sr 0.333333 | model | [1] Liu 2006 | Table 2, p. 3, row 7 |  |
-| 959 | Liq -> Ag4Sr + Ag2Sr | L: Sr 0.27; Ag4Sr: Sr 0.2; Ag2Sr: Sr 0.333333 | experimental | [1] Liu 2006; _cites Olson 2001_ [doi](https://doi.org/10.1016/s0364-5916%2801%2900041-4) | Table 2, p. 3, row 8 |  |
-| 911 | Liq -> Ag2Sr + AgSr | L: Sr 0.45; Ag2Sr: Sr 0.333333; AgSr: Sr 0.5 | experimental | [1] Liu 2006; _cites Olson 2001_ [doi](https://doi.org/10.1016/s0364-5916%2801%2900041-4) | Table 2, p. 3, row 12 |  |
-| 911 | Liq -> Ag2Sr + AgSr | L: Sr 0.449; Ag2Sr: Sr 0.333333; AgSr: Sr 0.5 | model | [1] Liu 2006 | Table 2, p. 3, row 11 |  |
+| 1021 | Liq -> fccAg + Ag5Sr | L: Sr 0.113; Ag5Sr: Sr 0.166667 | model | [1] Liu 2006 | Table 2, p. 3, row 1; `ORC-PTSZTIH3H6` |  |
+| 1020 | Liq -> fccAg + Ag5Sr | L: Sr 0.108; Ag5Sr: Sr 0.166667 | experimental | [1] Liu 2006; _cites Olson 2001_ [doi](https://doi.org/10.1016/s0364-5916%2801%2900041-4) | Table 2, p. 3, row 2; `ORC-5TRTBUV2TW` |  |
+| 986 | Liq + Ag5Sr -> Ag4Sr | L: Sr 0.236; Ag5Sr: Sr 0.166667; Ag4Sr: Sr 0.2 | experimental | [1] Liu 2006; _cites Olson 2001_ [doi](https://doi.org/10.1016/s0364-5916%2801%2900041-4) | Table 2, p. 3, row 6; `ORC-62A2JBCTVV` |  |
+| 986 | Liq + Ag5Sr -> Ag4Sr | L: Sr 0.253; Ag5Sr: Sr 0.166667; Ag4Sr: Sr 0.2 | model | [1] Liu 2006 | Table 2, p. 3, row 5; `ORC-AKJ2I5URVB` |  |
+| 975 | Liq -> Ag4Sr + Ag2Sr | L: Sr 0.262; Ag4Sr: Sr 0.2; Ag2Sr: Sr 0.333333 | model | [1] Liu 2006 | Table 2, p. 3, row 7; `ORC-GUFYEJQOWP` |  |
+| 959 | Liq -> Ag4Sr + Ag2Sr | L: Sr 0.27; Ag4Sr: Sr 0.2; Ag2Sr: Sr 0.333333 | experimental | [1] Liu 2006; _cites Olson 2001_ [doi](https://doi.org/10.1016/s0364-5916%2801%2900041-4) | Table 2, p. 3, row 8; `ORC-2NY3MQ5HYH` |  |
+| 911 | Liq -> Ag2Sr + AgSr | L: Sr 0.45; Ag2Sr: Sr 0.333333; AgSr: Sr 0.5 | experimental | [1] Liu 2006; _cites Olson 2001_ [doi](https://doi.org/10.1016/s0364-5916%2801%2900041-4) | Table 2, p. 3, row 12; `ORC-AYJVYI6RXI` |  |
+| 911 | Liq -> Ag2Sr + AgSr | L: Sr 0.449; Ag2Sr: Sr 0.333333; AgSr: Sr 0.5 | model | [1] Liu 2006 | Table 2, p. 3, row 11; `ORC-F2QOZJHQ4C` |  |
 
 ## Other properties
 
@@ -75,10 +75,10 @@ Table: Phase transition, Ag–Sr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1033 K | 1033 | Liq -> Ag2Sr; _L: Sr 0.333333; Ag2Sr: Sr 0.333333_ | experimental | [1] Liu 2006; _cites Olson 2001_ [doi](https://doi.org/10.1016/s0364-5916%2801%2900041-4) | Table 2, p. 3, row 10 |  |
-| Phase transition | 1033 K | 1033 | Liq -> Ag2Sr; _L: Sr 0.333333; Ag2Sr: Sr 0.333333_ | model | [1] Liu 2006 | Table 2, p. 3, row 9 |  |
-| Phase transition | 1056 K | 1056 | Liq -> Ag5Sr; _L: Sr 0.166667; Ag5Sr: Sr 0.166667_ | experimental | [1] Liu 2006; _cites Olson 2001_ [doi](https://doi.org/10.1016/s0364-5916%2801%2900041-4) | Table 2, p. 3, row 4 |  |
-| Phase transition | 1057 K | 1057 | Liq -> Ag5Sr; _L: Sr 0.166667; Ag5Sr: Sr 0.166667_ | model | [1] Liu 2006 | Table 2, p. 3, row 3 |  |
+| Phase transition | 1033 K | 1033 | Liq -> Ag2Sr; _L: Sr 0.333333; Ag2Sr: Sr 0.333333_ | experimental | [1] Liu 2006; _cites Olson 2001_ [doi](https://doi.org/10.1016/s0364-5916%2801%2900041-4) | Table 2, p. 3, row 10; `ORC-N3AY36P5XG` |  |
+| Phase transition | 1033 K | 1033 | Liq -> Ag2Sr; _L: Sr 0.333333; Ag2Sr: Sr 0.333333_ | model | [1] Liu 2006 | Table 2, p. 3, row 9; `ORC-USBZ6TIAVV` |  |
+| Phase transition | 1056 K | 1056 | Liq -> Ag5Sr; _L: Sr 0.166667; Ag5Sr: Sr 0.166667_ | experimental | [1] Liu 2006; _cites Olson 2001_ [doi](https://doi.org/10.1016/s0364-5916%2801%2900041-4) | Table 2, p. 3, row 4; `ORC-6HPKNH7XSV` |  |
+| Phase transition | 1057 K | 1057 | Liq -> Ag5Sr; _L: Sr 0.166667; Ag5Sr: Sr 0.166667_ | model | [1] Liu 2006 | Table 2, p. 3, row 3; `ORC-O76J5DSOOU` |  |
 
 ## Sources
 
@@ -143,4 +143,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

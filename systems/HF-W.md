@@ -54,9 +54,9 @@ Table: Invariant reactions reported in the literature for the Hf–W system (3)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2785 | peritectic |  | experimental | [1] Lieser 2012; _cites Rudy 1969_ | p. 1 | “The Laves phase forms peritectically at 2785 K \[6\].” |
-| 2222 | eutectic |  | model | [1] Lieser 2012 | p. 6 | “A subregular solution model is necessary to reproduce the eutectic reaction at 2222 K and 20.42 at% W.” |
-| 2222 | eutectic |  | experimental | [1] Lieser 2012; _cites Ackerman 1972_ | p. 2 | “The eutectic reaction happens at 2222 K and 18 at% W \[8\], and the eutectoid occurs at 7-8 at% W with a disagreement of 90 K about the reaction temperature \[6-7\].” |
+| 2785 | peritectic |  | experimental | [1] Lieser 2012; _cites Rudy 1969_ | p. 1; `ORC-SUNWZDSVEH` | “The Laves phase forms peritectically at 2785 K \[6\].” |
+| 2222 | eutectic |  | model | [1] Lieser 2012 | p. 6; `ORC-6XIS4ASMDZ` | “A subregular solution model is necessary to reproduce the eutectic reaction at 2222 K and 20.42 at% W.” |
+| 2222 | eutectic |  | experimental | [1] Lieser 2012; _cites Ackerman 1972_ | p. 2; `ORC-CDXA5ERGBG` | “The eutectic reaction happens at 2222 K and 18 at% W \[8\], and the eutectoid occurs at 7-8 at% W with a disagreement of 90 K about the reaction temperature \[6-7\].” |
 
 ## Formation enthalpies
 
@@ -66,9 +66,9 @@ Table: Enthalpies of formation, Hf–W system (3)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| HfW2–15 | [HfW2](https://data.orchid-project.org/compounds/HfW2.html) | -14.1 kJ/mol-atom |  | model | -16.679 (mp-aaaaacbw) | -16.555 (oqmd-17394) | [2] Shao 2002 | Table 1, p. 5, row 3 |  |
-| HfW2–15 | [HfW2](https://data.orchid-project.org/compounds/HfW2.html) | -8 kJ/mol-atom |  | model | -16.679 (mp-aaaaacbw) | -16.555 (oqmd-17394) | [2] Shao 2002; _cites de Boer FR 1989_ | Table 1, p. 5, row 2 |  |
-| HfW2–15 | [HfW2](https://data.orchid-project.org/compounds/HfW2.html) | -3 kJ/mol-atom |  | model | -16.679 (mp-aaaaacbw) | -16.555 (oqmd-17394) | [2] Shao 2002; _cites Lee 1986_ [doi](https://doi.org/10.1016/0364-5916%2886%2990010-6) | Table 1, p. 5, row 1 |  |
+| HfW2–15 | [HfW2](https://data.orchid-project.org/compounds/HfW2.html) | -14.1 kJ/mol-atom |  | model | -16.679 (mp-aaaaacbw) | -16.555 (oqmd-17394) | [2] Shao 2002 | Table 1, p. 5, row 3; `ORC-ERH43UKWJO` |  |
+| HfW2–15 | [HfW2](https://data.orchid-project.org/compounds/HfW2.html) | -8 kJ/mol-atom |  | model | -16.679 (mp-aaaaacbw) | -16.555 (oqmd-17394) | [2] Shao 2002; _cites de Boer FR 1989_ | Table 1, p. 5, row 2; `ORC-G4IYWBQVPV` |  |
+| HfW2–15 | [HfW2](https://data.orchid-project.org/compounds/HfW2.html) | -3 kJ/mol-atom |  | model | -16.679 (mp-aaaaacbw) | -16.555 (oqmd-17394) | [2] Shao 2002; _cites Lee 1986_ [doi](https://doi.org/10.1016/0364-5916%2886%2990010-6) | Table 1, p. 5, row 1; `ORC-R3ASY5BJKP` |  |
 
 ## Other properties
 
@@ -78,8 +78,8 @@ Table: Crystal structure, Hf–W system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 7.617 Å |  | HfW2; _alloy: W 0.666667_ | DFT | [1] Lieser 2012 | Table 1, p. 4, row 10 |  |
-| Lattice a | 7.593 Å | 298.15 | HfW2; _alloy: W 0.666667_ | experimental | [1] Lieser 2012; _cites Braun 1960_ | Table 1, p. 4, row 11 |  |
+| Lattice a | 7.617 Å |  | HfW2; _alloy: W 0.666667_ | DFT | [1] Lieser 2012 | Table 1, p. 4, row 10; `ORC-EHQ7B7BI7N` |  |
+| Lattice a | 7.593 Å | 298.15 | HfW2; _alloy: W 0.666667_ | experimental | [1] Lieser 2012; _cites Braun 1960_ | Table 1, p. 4, row 11; `ORC-G4UU5D4VX4` |  |
 
 ## Sources
 
@@ -145,4 +145,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

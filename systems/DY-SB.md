@@ -59,24 +59,24 @@ Table: Invariant reactions reported in the literature for the Dy–Sb system (18
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2163 | peritectic: L + β.DySb -> α.DySb | L: Sb 0.38; β.DySb: Sb 0.5; α.DySb: Sb 0.5 | experimental | [1] Long 2010; _cites Mironov 1980_ | Table 2, p. 3, row 12 |  |
-| 2163 | peritectic: L + β.DySb -> α.DySb | L: Sb 0.63; β.DySb: Sb 0.5; α.DySb: Sb 0.5 | experimental | [1] Long 2010; _cites Mironov 1980_ | Table 2, p. 3, row 14 |  |
-| 2163 | peritectic: L + β.DySb -> α.DySb | L: Sb 0.632; β.DySb: Sb 0.5; α.DySb: Sb 0.5 | model | [1] Long 2010 | Table 2, p. 3, row 13 |  |
-| 2163 | peritectic: L + β.DySb -> α.DySb | L: Sb 0.369; β.DySb: Sb 0.5; α.DySb: Sb 0.5 | model | [1] Long 2010 | Table 2, p. 3, row 11 |  |
-| 2053 | peritectic |  | experimental | [1] Long 2010; _cites Mironov 1980_ | p. 1 | “Among these compounds, Dy5 Sb3 and Dy4 Sb3 form through peritectic reactions at 1953 K and 2053 K, respectively, whereas DySb melts congruently at 2443 K.” |
-| 2053 | peritectic: L + α.DySb -> β.Dy4Sb3 | L: Sb 0.35; α.DySb: Sb 0.5; β.Dy4Sb3: Sb 0.428571 | experimental | [1] Long 2010; _cites Mironov 1980_ | Table 2, p. 3, row 10 |  |
-| 2053 | peritectic: L + α.DySb -> β.Dy4Sb3 | L: Sb 0.342; α.DySb: Sb 0.5; β.Dy4Sb3: Sb 0.428571 | model | [1] Long 2010 | Table 2, p. 3, row 9 |  |
-| 1953 | peritectic: L + β.Dy4Sb3 -> Dy5Sb3 | L: Sb 0.325; β.Dy4Sb3: Sb 0.428571; Dy5Sb3: Sb 0.375 | experimental | [1] Long 2010; _cites Mironov 1980_ | Table 2, p. 3, row 8 |  |
-| 1953 | peritectic: L + β.Dy4Sb3 -> Dy5Sb3 | L: Sb 0.309; β.Dy4Sb3: Sb 0.428571; Dy5Sb3: Sb 0.375 | model | [1] Long 2010 | Table 2, p. 3, row 7 |  |
-| 1953 | peritectic |  | experimental | [1] Long 2010; _cites Mironov 1980_ | p. 1 | “Among these compounds, Dy5 Sb3 and Dy4 Sb3 form through peritectic reactions at 1953 K and 2053 K, respectively, whereas DySb melts congruently at 2443 K.” |
-| 1654 | peritectic: L + Bcc(Dy) -> Hcp(Dy) | L: Sb 0.018 | model | [1] Long 2010 | Table 2, p. 3, row 5 |  |
-| 1653 | peritectic: L + Bcc(Dy) -> Hcp(Dy) | L: Sb 0.075 | experimental | [1] Long 2010; _cites Mironov 1980_ | Table 2, p. 3, row 6 |  |
-| 1441 | eutectic: L -> Hcp(Dy) + Dy5Sb3 | L: Sb 0.126; Dy5Sb3: Sb 0.375 | model | [1] Long 2010 | Table 2, p. 3, row 1 |  |
-| 1433 | eutectic: L -> Hcp(Dy) + Dy5Sb3 | L: Sb 0.145; Dy5Sb3: Sb 0.375 | experimental | [1] Long 2010; _cites Mironov 1980_ | Table 2, p. 3, row 2 |  |
-| 1103 | eutectoid: α.Dy4Sb3 -> Dy5Sb3 + α.DySb | α.Dy4Sb3: Sb 0.428571; Dy5Sb3: Sb 0.375; α.DySb: Sb 0.5 | model | [1] Long 2010 | Table 2, p. 3, row 21 |  |
-| 1100 (>) | eutectoid: α.Dy4Sb3 -> Dy5Sb3 + α.DySb | α.Dy4Sb3: Sb 0.428571; Dy5Sb3: Sb 0.375; α.DySb: Sb 0.5 | experimental | [1] Long 2010; _cites Morozkin 2003_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900080-x) | Table 2, p. 3, row 22 |  |
-| 898 | eutectic: L -> α.DySb + Rho | L: Sb 0.975; α.DySb: Sb 0.5; Rho: Sb 1 | model | [1] Long 2010 | Table 2, p. 3, row 3 |  |
-| 895 | eutectic: L -> α.DySb + Rho | L: Sb 0.99; α.DySb: Sb 0.5; Rho: Sb 1 | experimental | [1] Long 2010; _cites Mironov 1980_ | Table 2, p. 3, row 4 |  |
+| 2163 | peritectic: L + β.DySb -> α.DySb | L: Sb 0.38; β.DySb: Sb 0.5; α.DySb: Sb 0.5 | experimental | [1] Long 2010; _cites Mironov 1980_ | Table 2, p. 3, row 12; `ORC-JFIS6AWFAF` |  |
+| 2163 | peritectic: L + β.DySb -> α.DySb | L: Sb 0.63; β.DySb: Sb 0.5; α.DySb: Sb 0.5 | experimental | [1] Long 2010; _cites Mironov 1980_ | Table 2, p. 3, row 14; `ORC-RU2WGDVCA6` |  |
+| 2163 | peritectic: L + β.DySb -> α.DySb | L: Sb 0.632; β.DySb: Sb 0.5; α.DySb: Sb 0.5 | model | [1] Long 2010 | Table 2, p. 3, row 13; `ORC-T3GNJVOWIK` |  |
+| 2163 | peritectic: L + β.DySb -> α.DySb | L: Sb 0.369; β.DySb: Sb 0.5; α.DySb: Sb 0.5 | model | [1] Long 2010 | Table 2, p. 3, row 11; `ORC-WSLNLY2PBM` |  |
+| 2053 | peritectic |  | experimental | [1] Long 2010; _cites Mironov 1980_ | p. 1; `ORC-NOWJOGCQE4.8776a9` | “Among these compounds, Dy5 Sb3 and Dy4 Sb3 form through peritectic reactions at 1953 K and 2053 K, respectively, whereas DySb melts congruently at 2443 K.” |
+| 2053 | peritectic: L + α.DySb -> β.Dy4Sb3 | L: Sb 0.35; α.DySb: Sb 0.5; β.Dy4Sb3: Sb 0.428571 | experimental | [1] Long 2010; _cites Mironov 1980_ | Table 2, p. 3, row 10; `ORC-PQN7UGMPYP` |  |
+| 2053 | peritectic: L + α.DySb -> β.Dy4Sb3 | L: Sb 0.342; α.DySb: Sb 0.5; β.Dy4Sb3: Sb 0.428571 | model | [1] Long 2010 | Table 2, p. 3, row 9; `ORC-TA5WOGZ7WX` |  |
+| 1953 | peritectic: L + β.Dy4Sb3 -> Dy5Sb3 | L: Sb 0.325; β.Dy4Sb3: Sb 0.428571; Dy5Sb3: Sb 0.375 | experimental | [1] Long 2010; _cites Mironov 1980_ | Table 2, p. 3, row 8; `ORC-6HGQYTGDLE` |  |
+| 1953 | peritectic: L + β.Dy4Sb3 -> Dy5Sb3 | L: Sb 0.309; β.Dy4Sb3: Sb 0.428571; Dy5Sb3: Sb 0.375 | model | [1] Long 2010 | Table 2, p. 3, row 7; `ORC-NBHWKEQCXJ` |  |
+| 1953 | peritectic |  | experimental | [1] Long 2010; _cites Mironov 1980_ | p. 1; `ORC-NOWJOGCQE4.9a9de5` | “Among these compounds, Dy5 Sb3 and Dy4 Sb3 form through peritectic reactions at 1953 K and 2053 K, respectively, whereas DySb melts congruently at 2443 K.” |
+| 1654 | peritectic: L + Bcc(Dy) -> Hcp(Dy) | L: Sb 0.018 | model | [1] Long 2010 | Table 2, p. 3, row 5; `ORC-S5JV7EZZ3T` |  |
+| 1653 | peritectic: L + Bcc(Dy) -> Hcp(Dy) | L: Sb 0.075 | experimental | [1] Long 2010; _cites Mironov 1980_ | Table 2, p. 3, row 6; `ORC-HWE76XG2L4` |  |
+| 1441 | eutectic: L -> Hcp(Dy) + Dy5Sb3 | L: Sb 0.126; Dy5Sb3: Sb 0.375 | model | [1] Long 2010 | Table 2, p. 3, row 1; `ORC-3EVQ3SMJLM` |  |
+| 1433 | eutectic: L -> Hcp(Dy) + Dy5Sb3 | L: Sb 0.145; Dy5Sb3: Sb 0.375 | experimental | [1] Long 2010; _cites Mironov 1980_ | Table 2, p. 3, row 2; `ORC-ULDVGL5FGE` |  |
+| 1103 | eutectoid: α.Dy4Sb3 -> Dy5Sb3 + α.DySb | α.Dy4Sb3: Sb 0.428571; Dy5Sb3: Sb 0.375; α.DySb: Sb 0.5 | model | [1] Long 2010 | Table 2, p. 3, row 21; `ORC-WCUEZGBZJ6` |  |
+| 1100 (>) | eutectoid: α.Dy4Sb3 -> Dy5Sb3 + α.DySb | α.Dy4Sb3: Sb 0.428571; Dy5Sb3: Sb 0.375; α.DySb: Sb 0.5 | experimental | [1] Long 2010; _cites Morozkin 2003_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900080-x) | Table 2, p. 3, row 22; `ORC-UZYRCJVH5I` |  |
+| 898 | eutectic: L -> α.DySb + Rho | L: Sb 0.975; α.DySb: Sb 0.5; Rho: Sb 1 | model | [1] Long 2010 | Table 2, p. 3, row 3; `ORC-YAABPAXHEJ` |  |
+| 895 | eutectic: L -> α.DySb + Rho | L: Sb 0.99; α.DySb: Sb 0.5; Rho: Sb 1 | experimental | [1] Long 2010; _cites Mironov 1980_ | Table 2, p. 3, row 4; `ORC-TTDK2Q7IOB` |  |
 
 ## Other properties
 
@@ -86,13 +86,13 @@ Table: Phase transition, Dy–Sb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1900 K | 1900 | polymorphic: β.Dy4Sb3 -> α.Dy4Sb3; _β.Dy4Sb3: Sb 0.428571; α.Dy4Sb3: Sb 0.428571_ | model | [1] Long 2010 | Table 2, p. 3, row 17 |  |
-| Phase transition | 1903 K | 1903 | polymorphic: β.Dy4Sb3 -> α.Dy4Sb3; _β.Dy4Sb3: Sb 0.428571; α.Dy4Sb3: Sb 0.428571_ | experimental | [1] Long 2010; _cites Mironov 1980_ | Table 2, p. 3, row 18 |  |
-| Phase transition | 2163 K | 2163 | polymorphic: β.DySb -> α.DySb; _β.DySb: Sb 0.5; α.DySb: Sb 0.5_ | experimental | [1] Long 2010; _cites Mironov 1980_ | Table 2, p. 3, row 20 |  |
-| Phase transition | 2163 K | 2163 | polymorphic: β.DySb -> α.DySb; _β.DySb: Sb 0.5; α.DySb: Sb 0.5_ | model | [1] Long 2010 | Table 2, p. 3, row 19 |  |
-| Phase transition | 2443 K | 2443 | congruent melting: L -> β.DySb; _L: Sb 0.5; β.DySb: Sb 0.5_ | experimental | [1] Long 2010; _cites Mironov 1980_ | Table 2, p. 3, row 16 |  |
-| Phase transition | 2443 K | 2443 | congruent transformation | experimental | [1] Long 2010; _cites Mironov 1980_ | p. 1 | “Among these compounds, Dy5 Sb3 and Dy4 Sb3 form through peritectic reactions at 1953 K and 2053 K, respectively, whereas DySb melts congruently at 2443 K.” |
-| Phase transition | 2445 K | 2445 | congruent melting: L -> β.DySb; _L: Sb 0.5; β.DySb: Sb 0.5_ | model | [1] Long 2010 | Table 2, p. 3, row 15 |  |
+| Phase transition | 1900 K | 1900 | polymorphic: β.Dy4Sb3 -> α.Dy4Sb3; _β.Dy4Sb3: Sb 0.428571; α.Dy4Sb3: Sb 0.428571_ | model | [1] Long 2010 | Table 2, p. 3, row 17; `ORC-WULMQP5REV` |  |
+| Phase transition | 1903 K | 1903 | polymorphic: β.Dy4Sb3 -> α.Dy4Sb3; _β.Dy4Sb3: Sb 0.428571; α.Dy4Sb3: Sb 0.428571_ | experimental | [1] Long 2010; _cites Mironov 1980_ | Table 2, p. 3, row 18; `ORC-ZKVIUS2VLX` |  |
+| Phase transition | 2163 K | 2163 | polymorphic: β.DySb -> α.DySb; _β.DySb: Sb 0.5; α.DySb: Sb 0.5_ | experimental | [1] Long 2010; _cites Mironov 1980_ | Table 2, p. 3, row 20; `ORC-433EXLYUGG` |  |
+| Phase transition | 2163 K | 2163 | polymorphic: β.DySb -> α.DySb; _β.DySb: Sb 0.5; α.DySb: Sb 0.5_ | model | [1] Long 2010 | Table 2, p. 3, row 19; `ORC-HF4LRSMOMD` |  |
+| Phase transition | 2443 K | 2443 | congruent melting: L -> β.DySb; _L: Sb 0.5; β.DySb: Sb 0.5_ | experimental | [1] Long 2010; _cites Mironov 1980_ | Table 2, p. 3, row 16; `ORC-KX5XOGQNPD` |  |
+| Phase transition | 2443 K | 2443 | congruent transformation | experimental | [1] Long 2010; _cites Mironov 1980_ | p. 1; `ORC-NOWJOGCQE4.5798e2` | “Among these compounds, Dy5 Sb3 and Dy4 Sb3 form through peritectic reactions at 1953 K and 2053 K, respectively, whereas DySb melts congruently at 2443 K.” |
+| Phase transition | 2445 K | 2445 | congruent melting: L -> β.DySb; _L: Sb 0.5; β.DySb: Sb 0.5_ | model | [1] Long 2010 | Table 2, p. 3, row 15; `ORC-7DX2CO3UVG` |  |
 
 ## Sources
 
@@ -157,4 +157,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

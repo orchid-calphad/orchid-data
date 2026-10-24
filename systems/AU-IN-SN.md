@@ -29,9 +29,9 @@ Table: Phase transition, Au–In–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 701 K | 701 | congruent transformation | model | [1] Liu 2003 | p. 5 | “Humpston measured the ternary compound Au4In3Sn3 to melt congruently at 704 K,8 while it is calculated to melt congruently at 701 K.” |
-| Phase transition | 704 K | 704 | congruent transformation | experimental | [1] Liu 2003; _cites Prince 1985_ | p. 2 | “What is known about this ternary compound is that it is a high-temperature phase with limited composition that melts congruently at 704 K.8” |
-| Phase transition | 704 K | 704 | congruent transformation | experimental | [1] Liu 2003; _cites Prince 1985_ | p. 5 | “Humpston measured the ternary compound Au4In3Sn3 to melt congruently at 704 K,8 while it is calculated to melt congruently at 701 K.” |
+| Phase transition | 701 K | 701 | congruent transformation | model | [1] Liu 2003 | p. 5; `ORC-PLFOEH35EH.b47a80` | “Humpston measured the ternary compound Au4In3Sn3 to melt congruently at 704 K,8 while it is calculated to melt congruently at 701 K.” |
+| Phase transition | 704 K | 704 | congruent transformation | experimental | [1] Liu 2003; _cites Prince 1985_ | p. 2; `ORC-FCG2BUSEBT` | “What is known about this ternary compound is that it is a high-temperature phase with limited composition that melts congruently at 704 K.8” |
+| Phase transition | 704 K | 704 | congruent transformation | experimental | [1] Liu 2003; _cites Prince 1985_ | p. 5; `ORC-PLFOEH35EH.be29ff` | “Humpston measured the ternary compound Au4In3Sn3 to melt congruently at 704 K,8 while it is calculated to melt congruently at 701 K.” |
 
 ## Sources
 
@@ -74,4 +74,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

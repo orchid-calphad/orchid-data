@@ -28,8 +28,8 @@ Table: Crystal structure, B–Ba–Ca–Ga–Sr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 10.925 Å | 298.15 | UNKNOWN; _alloy: Ba 0, Ca 0, Ga 0, Sr 0_ | experimental | [1] Li 2013; _cites Callmer 1977_ | Table 1, p. 2, row 3 |  |
-| Lattice c | 23.814 Å | 298.15 | UNKNOWN; _alloy: Ba 0, Ca 0, Ga 0, Sr 0_ | experimental | [1] Li 2013; _cites Callmer 1977_ | Table 1, p. 2, row 3 |  |
+| Lattice a | 10.925 Å | 298.15 | UNKNOWN; _alloy: Ba 0, Ca 0, Ga 0, Sr 0_ | experimental | [1] Li 2013; _cites Callmer 1977_ | Table 1, p. 2, row 3; `ORC-XRC73I4IHE.517c13` |  |
+| Lattice c | 23.814 Å | 298.15 | UNKNOWN; _alloy: Ba 0, Ca 0, Ga 0, Sr 0_ | experimental | [1] Li 2013; _cites Callmer 1977_ | Table 1, p. 2, row 3; `ORC-XRC73I4IHE.47bdf9` |  |
 
 ## Sources
 
@@ -72,4 +72,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

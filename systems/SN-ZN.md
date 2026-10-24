@@ -52,15 +52,15 @@ Table: Invariant reactions reported in the literature for the Sn–Zn system (9)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 472 | eutectic: L \<-> (Zn) + (Sn) | L: Zn 0.139 | experimental | [1] Srivastava 1993; _cites ref. 7_ | Table 4, p. 7, row 3 |  |
-| 472 | eutectic: L \<-> (Zn) + (Sn) | L: Zn 0.135 | experimental | [1] Srivastava 1993; _cites ref. 5_ | Table 4, p. 7, row 2 |  |
-| 472 | eutectic: L \<-> (Zn) + (Sn) | L: Zn 0.146 | experimental | [1] Srivastava 1993; _cites ref. 15_ | Table 4, p. 7, row 5 |  |
-| 471.7 | eutectic: Liquid -> bct-A5 + hcp-Zn | L: Zn 0.135; bct-A5: Zn 0.006; hcp-Zn: Zn 1 | model | [2] Hämäläinen 1998 | Table I, p. 305, row 1 |  |
-| 471.46 | eutectic: L \<-> (Zn) + (Sn) | L: Zn 0.149 | model | [1] Srivastava 1993 | Table 4, p. 7, row 7 |  |
-| 471 | eutectic: L \<-> (Zn) + (Sn) | L: Zn 0.146 | experimental | [1] Srivastava 1993; _cites ref. 9_ | Table 4, p. 7, row 6 |  |
-| 471 | eutectic: L \<-> (Zn) + (Sn) | L: Zn 0.158 | experimental | [1] Srivastava 1993; _cites ref. 3_ | Table 4, p. 7, row 1 |  |
-| 471 | eutectic: L \<-> (Zn) + (Sn) | L: Zn 0.152 | experimental | [1] Srivastava 1993; _cites ref. 8_ | Table 4, p. 7, row 4 |  |
-| 465.56 | eutectic |  | model | [3] Doi 2006 | p. 1 | “The ternary eutectic point falls at 0.0009 mass% Ti and 8.69 mass% Zn, at T = 192.40 °C, which is slightly lower than the calculated eutectic point of Sn-Zn binary alloy (T= 192.41 °C).” |
+| 472 | eutectic: L \<-> (Zn) + (Sn) | L: Zn 0.139 | experimental | [1] Srivastava 1993; _cites ref. 7_ | Table 4, p. 7, row 3; `ORC-IEU5DYQYC2` |  |
+| 472 | eutectic: L \<-> (Zn) + (Sn) | L: Zn 0.135 | experimental | [1] Srivastava 1993; _cites ref. 5_ | Table 4, p. 7, row 2; `ORC-K7TKWQ5LMP` |  |
+| 472 | eutectic: L \<-> (Zn) + (Sn) | L: Zn 0.146 | experimental | [1] Srivastava 1993; _cites ref. 15_ | Table 4, p. 7, row 5; `ORC-V2BPDKBRYZ` |  |
+| 471.7 | eutectic: Liquid -> bct-A5 + hcp-Zn | L: Zn 0.135; bct-A5: Zn 0.006; hcp-Zn: Zn 1 | model | [2] Hämäläinen 1998 | Table I, p. 305, row 1; `ORC-NBDEYU5ALD` |  |
+| 471.46 | eutectic: L \<-> (Zn) + (Sn) | L: Zn 0.149 | model | [1] Srivastava 1993 | Table 4, p. 7, row 7; `ORC-TMZSUYUWTT` |  |
+| 471 | eutectic: L \<-> (Zn) + (Sn) | L: Zn 0.146 | experimental | [1] Srivastava 1993; _cites ref. 9_ | Table 4, p. 7, row 6; `ORC-B3I5R3CI52` |  |
+| 471 | eutectic: L \<-> (Zn) + (Sn) | L: Zn 0.158 | experimental | [1] Srivastava 1993; _cites ref. 3_ | Table 4, p. 7, row 1; `ORC-EGEGZ2SYTV` |  |
+| 471 | eutectic: L \<-> (Zn) + (Sn) | L: Zn 0.152 | experimental | [1] Srivastava 1993; _cites ref. 8_ | Table 4, p. 7, row 4; `ORC-Q2PAQ5NBTT` |  |
+| 465.56 | eutectic |  | model | [3] Doi 2006 | p. 1; `ORC-3RUIEZHDEY.3484f5` | “The ternary eutectic point falls at 0.0009 mass% Ti and 8.69 mass% Zn, at T = 192.40 °C, which is slightly lower than the calculated eutectic point of Sn-Zn binary alloy (T= 192.41 °C).” |
 
 ## Sources
 
@@ -127,4 +127,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

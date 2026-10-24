@@ -14,16 +14,16 @@ Table: Enthalpy of formation of Ce16Ru9 reported in the literature (10)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -33.8647 kJ/mol-atom | Ce16Ru9 |  | model | Miedema’s model | [Ce–Ru](https://data.orchid-project.org/systems/CE-RU.html) | [1] Kardellass 2023; _cites De 2014_ | Table 3, p. 9, row 37 |  |
-| -31.341 kJ/mol-atom | Ce16Ru9 |  | model | Calculation II | [Ce–Ru](https://data.orchid-project.org/systems/CE-RU.html) | [1] Kardellass 2023; _cites Selhaoui 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900125-x) | Table 3, p. 9, row 36 |  |
-| -27.8668 kJ/mol-atom | Ce16Ru9 |  | model | Optimization LM | [Ce–Ru](https://data.orchid-project.org/systems/CE-RU.html) | [1] Kardellass 2023 | Table 3, p. 9, row 32 |  |
-| -26.861 kJ/mol-atom | Ce16Ru9 |  | model | Modified Miedema’s model | [Ce–Ru](https://data.orchid-project.org/systems/CE-RU.html) | [1] Kardellass 2023; _cites Zhang 2007_ [doi](https://doi.org/10.1016/j.cplett.2007.06.031) | Table 3, p. 9, row 41 |  |
-| -25.897 kJ/mol-atom | Ce16Ru9 |  | model | Calculation I | [Ce–Ru](https://data.orchid-project.org/systems/CE-RU.html) | [1] Kardellass 2023; _cites Selhaoui 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900125-x) | Table 3, p. 9, row 35 |  |
-| -25.7403 kJ/mol-atom | Ce16Ru9 |  | model | Optimization CM | [Ce–Ru](https://data.orchid-project.org/systems/CE-RU.html) | [1] Kardellass 2023 | Table 3, p. 9, row 34 |  |
-| -21.4321 kJ/mol-atom | Ce16Ru9 |  | model | Optimization EM | [Ce–Ru](https://data.orchid-project.org/systems/CE-RU.html) | [1] Kardellass 2023 | Table 3, p. 9, row 33 |  |
-| -31.908 kJ/mol-atom | Ce16Ru9 |  | DFT | Ab-initio | [Ce–Ru](https://data.orchid-project.org/systems/CE-RU.html) | [1] Kardellass 2023; _cites Ceder 2010_ | Table 3, p. 9, row 39 |  |
-| -29.329 kJ/mol-atom | Ce16Ru9 | 0 | DFT | Ab-initio | [Ce–Ru](https://data.orchid-project.org/systems/CE-RU.html) | [1] Kardellass 2023 | Table 3, p. 9, row 38 |  |
-| -7.9048 kJ/mol-atom | Ce16Ru9 | 0 | DFT | Ab-initio | [Ce–Ru](https://data.orchid-project.org/systems/CE-RU.html) | [1] Kardellass 2023; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table 3, p. 9, row 40 |  |
+| -33.8647 kJ/mol-atom | Ce16Ru9 |  | model | Miedema’s model | [Ce–Ru](https://data.orchid-project.org/systems/CE-RU.html) | [1] Kardellass 2023; _cites De 2014_ | Table 3, p. 9, row 37; `ORC-A46KNCEYPQ.68f326` |  |
+| -31.341 kJ/mol-atom | Ce16Ru9 |  | model | Calculation II | [Ce–Ru](https://data.orchid-project.org/systems/CE-RU.html) | [1] Kardellass 2023; _cites Selhaoui 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900125-x) | Table 3, p. 9, row 36; `ORC-YBPRCYZB2H.0475df` |  |
+| -27.8668 kJ/mol-atom | Ce16Ru9 |  | model | Optimization LM | [Ce–Ru](https://data.orchid-project.org/systems/CE-RU.html) | [1] Kardellass 2023 | Table 3, p. 9, row 32; `ORC-GZEEKA2PE2.32fd34` |  |
+| -26.861 kJ/mol-atom | Ce16Ru9 |  | model | Modified Miedema’s model | [Ce–Ru](https://data.orchid-project.org/systems/CE-RU.html) | [1] Kardellass 2023; _cites Zhang 2007_ [doi](https://doi.org/10.1016/j.cplett.2007.06.031) | Table 3, p. 9, row 41; `ORC-T3WQ3M4KFJ.287b77` |  |
+| -25.897 kJ/mol-atom | Ce16Ru9 |  | model | Calculation I | [Ce–Ru](https://data.orchid-project.org/systems/CE-RU.html) | [1] Kardellass 2023; _cites Selhaoui 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900125-x) | Table 3, p. 9, row 35; `ORC-D5EPHVCXGY.94c038` |  |
+| -25.7403 kJ/mol-atom | Ce16Ru9 |  | model | Optimization CM | [Ce–Ru](https://data.orchid-project.org/systems/CE-RU.html) | [1] Kardellass 2023 | Table 3, p. 9, row 34; `ORC-WCTLSAZAIK.1a5485` |  |
+| -21.4321 kJ/mol-atom | Ce16Ru9 |  | model | Optimization EM | [Ce–Ru](https://data.orchid-project.org/systems/CE-RU.html) | [1] Kardellass 2023 | Table 3, p. 9, row 33; `ORC-NIWJB4B24L.ae8aac` |  |
+| -31.908 kJ/mol-atom | Ce16Ru9 |  | DFT | Ab-initio | [Ce–Ru](https://data.orchid-project.org/systems/CE-RU.html) | [1] Kardellass 2023; _cites Ceder 2010_ | Table 3, p. 9, row 39; `ORC-LBUPARNRUS.272b00` |  |
+| -29.329 kJ/mol-atom | Ce16Ru9 | 0 | DFT | Ab-initio | [Ce–Ru](https://data.orchid-project.org/systems/CE-RU.html) | [1] Kardellass 2023 | Table 3, p. 9, row 38; `ORC-ZMXNEYGZL5.09fd2e` |  |
+| -7.9048 kJ/mol-atom | Ce16Ru9 | 0 | DFT | Ab-initio | [Ce–Ru](https://data.orchid-project.org/systems/CE-RU.html) | [1] Kardellass 2023; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table 3, p. 9, row 40; `ORC-NRNAL6T5LS.487fb1` |  |
 
 ### Uncertainty budget
 
@@ -108,4 +108,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

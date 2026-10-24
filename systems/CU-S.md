@@ -80,25 +80,25 @@ Table: Invariant reactions reported in the literature for the Cu–S system (19)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1409.15 | L2 = L1 + Dg | L2: S 0.3314; L1: S 0.022; Dg: S 0.333 | model | [1] Lee 2007 | Table 2, p. 4, row 2 |  |
-| 1378.15 | L2 = L1 + Dg |  | experimental | [1] Lee 2007; _cites Chakrabarti 1994_ | Table 2, p. 4, row 24 |  |
-| 1342.15 | L1 = (Cu) + Dg | L1: S 0.0141; (Cu): S 2.000e-4; Dg: S 0.3331 | model | [1] Lee 2007 | Table 2, p. 4, row 4 |  |
-| 1340.15 | L1 = (Cu) + Dg |  | experimental | [1] Lee 2007; _cites Chakrabarti 1994_ | Table 2, p. 4, row 25 |  |
-| 1087.15 | L2 = Dg + L3 | L2: S 0.4012; Dg: S 0.3642; L3: S 0.9986 | model | [1] Lee 2007 | Table 2, p. 4, row 17 |  |
-| 1086.15 | L2 = Dg + L3 |  | experimental | [1] Lee 2007; _cites Chakrabarti 1994_ | Table 2, p. 4, row 32 |  |
-| 781.15 | Dg + L3 = Cv | Dg: S 0.3689; L3: S 0.9999 | model | [1] Lee 2007 | Table 2, p. 4, row 19 |  |
-| 780.15 | Dg + L3 = Cv |  | experimental | [1] Lee 2007; _cites Chakrabarti 1994_ | Table 2, p. 4, row 33 |  |
-| 388.15 | L + Cv = (S) |  | experimental | [1] Lee 2007; _cites Chakrabarti 1994_ | Table 2, p. 4, row 34 |  |
-| 388.15 | L + Cv = (S) |  | model | [1] Lee 2007 | Table 2, p. 4, row 20 |  |
-| 379.15 | (Cu) + βCh = αCh |  | model | [1] Lee 2007 | Table 2, p. 4, row 8 |  |
-| 377.15 | (Cu) + βCh = αCh |  | experimental | [1] Lee 2007; _cites Chakrabarti 1994_ | Table 2, p. 4, row 27 |  |
-| 367.15 | βCh – Dg Dj | αCh: S 0.3333; Dg: S 0.3529; Dj: S 0.3413 | model | [1] Lee 2007 | Table 2, p. 4, row 10 |  |
-| 366.15 | βCh + Dg = Dj |  | experimental | [1] Lee 2007; _cites Chakrabarti 1994_ | Table 2, p. 4, row 28 |  |
-| 363.15 | βCh = αCh + Dj |  | experimental | [1] Lee 2007; _cites Chakrabarti 1994_ | Table 2, p. 4, row 29 |  |
-| 350.15 | Dg + Cv = An | Dg: S 0.3591 | model | [1] Lee 2007 | Table 2, p. 4, row 23 |  |
-| 348.15 | Dg + Cv = An |  | experimental | [1] Lee 2007; _cites Chakrabarti 1994_ | Table 2, p. 4, row 35 |  |
-| 345.15 | Dg + Dj = An |  | experimental | [1] Lee 2007; _cites Chakrabarti 1994_ | Table 2, p. 4, row 30 |  |
-| 343.15 | Dg + Dj = An | Dg: S 0.3561; Dj: S 0.3413 | model | [1] Lee 2007 | Table 2, p. 4, row 13 |  |
+| 1409.15 | L2 = L1 + Dg | L2: S 0.3314; L1: S 0.022; Dg: S 0.333 | model | [1] Lee 2007 | Table 2, p. 4, row 2; `ORC-HHRTLBTKJT` |  |
+| 1378.15 | L2 = L1 + Dg |  | experimental | [1] Lee 2007; _cites Chakrabarti 1994_ | Table 2, p. 4, row 24; `ORC-C67KLK2474` |  |
+| 1342.15 | L1 = (Cu) + Dg | L1: S 0.0141; (Cu): S 2.000e-4; Dg: S 0.3331 | model | [1] Lee 2007 | Table 2, p. 4, row 4; `ORC-UXM22W6UCI` |  |
+| 1340.15 | L1 = (Cu) + Dg |  | experimental | [1] Lee 2007; _cites Chakrabarti 1994_ | Table 2, p. 4, row 25; `ORC-LTHDBEMR4P` |  |
+| 1087.15 | L2 = Dg + L3 | L2: S 0.4012; Dg: S 0.3642; L3: S 0.9986 | model | [1] Lee 2007 | Table 2, p. 4, row 17; `ORC-TBMITMWNG4` |  |
+| 1086.15 | L2 = Dg + L3 |  | experimental | [1] Lee 2007; _cites Chakrabarti 1994_ | Table 2, p. 4, row 32; `ORC-JZNHRCNIWM` |  |
+| 781.15 | Dg + L3 = Cv | Dg: S 0.3689; L3: S 0.9999 | model | [1] Lee 2007 | Table 2, p. 4, row 19; `ORC-L3CDFNG3RE` |  |
+| 780.15 | Dg + L3 = Cv |  | experimental | [1] Lee 2007; _cites Chakrabarti 1994_ | Table 2, p. 4, row 33; `ORC-SA2LLP662L` |  |
+| 388.15 | L + Cv = (S) |  | experimental | [1] Lee 2007; _cites Chakrabarti 1994_ | Table 2, p. 4, row 34; `ORC-2JY36N7T6U` |  |
+| 388.15 | L + Cv = (S) |  | model | [1] Lee 2007 | Table 2, p. 4, row 20; `ORC-VVY3MCVHGH` |  |
+| 379.15 | (Cu) + βCh = αCh |  | model | [1] Lee 2007 | Table 2, p. 4, row 8; `ORC-2LE5LDIH3R` |  |
+| 377.15 | (Cu) + βCh = αCh |  | experimental | [1] Lee 2007; _cites Chakrabarti 1994_ | Table 2, p. 4, row 27; `ORC-3RJMFXQQDC` |  |
+| 367.15 | βCh – Dg Dj | αCh: S 0.3333; Dg: S 0.3529; Dj: S 0.3413 | model | [1] Lee 2007 | Table 2, p. 4, row 10; `ORC-FES57T4DZ5` |  |
+| 366.15 | βCh + Dg = Dj |  | experimental | [1] Lee 2007; _cites Chakrabarti 1994_ | Table 2, p. 4, row 28; `ORC-MA6L4K2P45` |  |
+| 363.15 | βCh = αCh + Dj |  | experimental | [1] Lee 2007; _cites Chakrabarti 1994_ | Table 2, p. 4, row 29; `ORC-CWNPLURKAH` |  |
+| 350.15 | Dg + Cv = An | Dg: S 0.3591 | model | [1] Lee 2007 | Table 2, p. 4, row 23; `ORC-VHD74AWCEW` |  |
+| 348.15 | Dg + Cv = An |  | experimental | [1] Lee 2007; _cites Chakrabarti 1994_ | Table 2, p. 4, row 35; `ORC-TU6ZBM7OXW` |  |
+| 345.15 | Dg + Dj = An |  | experimental | [1] Lee 2007; _cites Chakrabarti 1994_ | Table 2, p. 4, row 30; `ORC-UE2QIJ6NZZ` |  |
+| 343.15 | Dg + Dj = An | Dg: S 0.3561; Dj: S 0.3413 | model | [1] Lee 2007 | Table 2, p. 4, row 13; `ORC-MR4537T6FY` |  |
 
 ## Other properties
 
@@ -108,10 +108,10 @@ Table: Phase transition, Cu–S system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 708.15 K | 708.15 | (Cu) + Dg = βCh | experimental | [1] Lee 2007; _cites Chakrabarti 1994_ | Table 2, p. 4, row 26 |  |
-| Phase transition | 708.15 K | 708.15 | (Cu) + Dg = βCh; _Dg: S 0.3334_ | model | [1] Lee 2007 | Table 2, p. 4, row 5 |  |
-| Phase transition | 1403.15 K | 1403.15 | L = Dg | experimental | [1] Lee 2007; _cites Chakrabarti 1994_ | Table 2, p. 4, row 31 |  |
-| Phase transition | 1413.15 K | 1413.15 | L = Dg; _L: S 0.3355_ | model | [1] Lee 2007 | Table 2, p. 4, row 15 |  |
+| Phase transition | 708.15 K | 708.15 | (Cu) + Dg = βCh | experimental | [1] Lee 2007; _cites Chakrabarti 1994_ | Table 2, p. 4, row 26; `ORC-7JWHZ322OK` |  |
+| Phase transition | 708.15 K | 708.15 | (Cu) + Dg = βCh; _Dg: S 0.3334_ | model | [1] Lee 2007 | Table 2, p. 4, row 5; `ORC-ANFBPR2V5I` |  |
+| Phase transition | 1403.15 K | 1403.15 | L = Dg | experimental | [1] Lee 2007; _cites Chakrabarti 1994_ | Table 2, p. 4, row 31; `ORC-IJ5G5R4AVO` |  |
+| Phase transition | 1413.15 K | 1413.15 | L = Dg; _L: S 0.3355_ | model | [1] Lee 2007 | Table 2, p. 4, row 15; `ORC-VFHGQMTEFF` |  |
 
 ## Sources
 
@@ -176,4 +176,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

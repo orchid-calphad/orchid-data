@@ -28,13 +28,13 @@ Table: Phase equilibrium, Fe–Mo–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 1273.15 | FeTi + bcc(Ti); _FeTi: Fe 0.4587, Mo 0.0138, Ti 0.5275; bcc(Ti): Fe 0.1828, Mo 0.0739, Ti 0.7433_ | experimental | [1] Jin 1993 | Table I, p. 4, row 7 |  |
-| Phase composition |  | 1273.15 | bcc(Mo); _bcc(Mo): Fe 0.0171, Mo 0.9494, Ti 0.0335_ | experimental | [1] Jin 1993 | Table I, p. 4, row 5 |  |
-| Phase composition |  | 1273.15 | λ; _λ: Fe 0.6519, Mo 0.0042, Ti 0.3439_ | experimental | [1] Jin 1993 | Table I, p. 4, row 2 |  |
-| Phase composition |  | 1273.15 | λ; _λ: Fe 0.6507, Mo 0.1174, Ti 0.2319_ | experimental | [1] Jin 1993 | Table I, p. 4, row 3 |  |
-| Phase composition |  | 1273.15 | λ + bcc(Fe); _λ: Fe 0.6638, Mo 0.2009, Ti 0.1353; bcc(Fe): Fe 0.9296, Mo 0.0379, Ti 0.0325_ | experimental | [1] Jin 1993 | Table I, p. 4, row 1 |  |
-| Phase composition |  | 1273.15 | λ + μ; _λ: Fe 0.6544, Mo 0.2503, Ti 0.0953; μ: Fe 0.5968, Mo 0.3603, Ti 0.0429_ | experimental | [1] Jin 1993 | Table I, p. 4, row 4 |  |
-| Phase composition |  | 1273.15 | μ + bcc(Mo); _μ: Fe 0.5593, Mo 0.436, Ti 0.0047; bcc(Mo): Fe 0.0238, Mo 0.9762, Ti 0_ | experimental | [1] Jin 1993 | Table I, p. 4, row 6 |  |
+| Phase composition |  | 1273.15 | FeTi + bcc(Ti); _FeTi: Fe 0.4587, Mo 0.0138, Ti 0.5275; bcc(Ti): Fe 0.1828, Mo 0.0739, Ti 0.7433_ | experimental | [1] Jin 1993 | Table I, p. 4, row 7; `ORC-Q77FST6EDH` |  |
+| Phase composition |  | 1273.15 | bcc(Mo); _bcc(Mo): Fe 0.0171, Mo 0.9494, Ti 0.0335_ | experimental | [1] Jin 1993 | Table I, p. 4, row 5; `ORC-Y7ZVNRYTGQ` |  |
+| Phase composition |  | 1273.15 | λ; _λ: Fe 0.6519, Mo 0.0042, Ti 0.3439_ | experimental | [1] Jin 1993 | Table I, p. 4, row 2; `ORC-J4REKBD3SY` |  |
+| Phase composition |  | 1273.15 | λ; _λ: Fe 0.6507, Mo 0.1174, Ti 0.2319_ | experimental | [1] Jin 1993 | Table I, p. 4, row 3; `ORC-YHF7NXGZXH` |  |
+| Phase composition |  | 1273.15 | λ + bcc(Fe); _λ: Fe 0.6638, Mo 0.2009, Ti 0.1353; bcc(Fe): Fe 0.9296, Mo 0.0379, Ti 0.0325_ | experimental | [1] Jin 1993 | Table I, p. 4, row 1; `ORC-HSJH5LGS7F` |  |
+| Phase composition |  | 1273.15 | λ + μ; _λ: Fe 0.6544, Mo 0.2503, Ti 0.0953; μ: Fe 0.5968, Mo 0.3603, Ti 0.0429_ | experimental | [1] Jin 1993 | Table I, p. 4, row 4; `ORC-ZBLJ35JPDP` |  |
+| Phase composition |  | 1273.15 | μ + bcc(Mo); _μ: Fe 0.5593, Mo 0.436, Ti 0.0047; bcc(Mo): Fe 0.0238, Mo 0.9762, Ti 0_ | experimental | [1] Jin 1993 | Table I, p. 4, row 6; `ORC-6URA2PIY6R` |  |
 
 ## Sources
 
@@ -77,4 +77,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

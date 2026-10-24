@@ -89,21 +89,21 @@ Table: Invariant reactions reported in the literature for the Al–Pt system (15
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1780 | L -> AlPt3 + (Pt) | L: Pt 0.795; AlPt3: Pt 0.764; (Pt): Pt 0.857 | experimental | [1] Wu 2000; _cites Huch 1964_ [doi](https://doi.org/10.1002/zaac.19643290116) | Table 3, p. 3, row 1 |  |
-| 1775 | L—AlPt3 + (Pt) | L: Pt 0.801; AlPt3: Pt 0.766; (Pt): Pt 0.821 | model | [1] Wu 2000 | Table 3, p. 3, row 2 |  |
-| 1766 | L—Al3Pt2 + AlPt | L: Pt 0.441; Al3Pt2: Pt 0.399; AlPt: Pt 0.5 | model | [1] Wu 2000 | Table 3, p. 3, row 4 |  |
-| 1741 | L -> Al3Pt2 + AlPt | L: Pt 0.447; Al3Pt2: Pt 0.4; AlPt: Pt 0.5 | experimental | [1] Wu 2000; _cites Huch 1964_ [doi](https://doi.org/10.1002/zaac.19643290116) | Table 3, p. 3, row 3 |  |
-| 1738 | L + AlPt3 -> Al3Pt5 | L: Pt 0.623; AlPt3: Pt 0.673; Al3Pt5: Pt 0.625 | experimental | [1] Wu 2000; _cites Huch 1964_ [doi](https://doi.org/10.1002/zaac.19643290116) | Table 3, p. 3, row 5 |  |
-| 1736 | L + AlPt3—Al3Pt5 | L: Pt 0.624; AlPt3: Pt 0.642; Al3Pt5: Pt 0.625 | model | [1] Wu 2000 | Table 3, p. 3, row 6 |  |
-| 1695 | L—AlPt + Al3Pt5 | L: Pt 0.582; AlPt: Pt 0.5; Al3Pt5: Pt 0.625 | model | [1] Wu 2000 | Table 3, p. 3, row 7 |  |
-| 1679 | L + Al3Pt2 -> Al2Pt | L: Pt 0.318; Al3Pt2: Pt 0.4; Al2Pt: Pt 0.333 | experimental | [1] Wu 2000; _cites Huch 1964_ [doi](https://doi.org/10.1002/zaac.19643290116) | Table 3, p. 3, row 8 |  |
-| 1677 | L + Al3Pt2—Al2Pt | L: Pt 0.312; Al3Pt2: Pt 0.399; Al2Pt: Pt 0.333 | model | [1] Wu 2000 | Table 3, p. 3, row 9 |  |
-| 1400 | L + Al2Pt—Al21Pt8 | L: Pt 0.175; Al2Pt: Pt 0.333; Al21Pt8: Pt 0.276 | model | [1] Wu 2000 | Table 3, p. 3, row 11 |  |
-| 1400 | L + Al2Pt -> Al21Pt8 | L: Pt 0.188; Al2Pt: Pt 0.326; Al21Pt8: Pt 0.275 | experimental | [1] Wu 2000; _cites Huch 1964_ [doi](https://doi.org/10.1002/zaac.19643290116) | Table 3, p. 3, row 10 |  |
-| 1082 | L + Al21Pt8—Al21Pt5 | L: Pt 0.05; Al21Pt8: Pt 0.276; Al21Pt5: Pt 0.192 | model | [1] Wu 2000 | Table 3, p. 3, row 13 |  |
-| 1079 | L + Al21Pt8 -> Al21Pt5 | L: Pt 0.031; Al21Pt8: Pt 0.275; Al21Pt5: Pt 0.192 | experimental | [1] Wu 2000; _cites Huch 1964_ [doi](https://doi.org/10.1002/zaac.19643290116) | Table 3, p. 3, row 12 |  |
-| 930 | L -> (Al) + Al21Pt5 | L: Pt 0.004; (Al): Pt 0; Al21Pt5: Pt 0.192 | experimental | [1] Wu 2000; _cites Huch 1964_ [doi](https://doi.org/10.1002/zaac.19643290116) | Table 3, p. 3, row 14 |  |
-| 928 | L—(Al) + Al21Pt5 | L: Pt 0.007; (Al): Pt 0; Al21Pt5: Pt 0.192 | model | [1] Wu 2000 | Table 3, p. 3, row 15 |  |
+| 1780 | L -> AlPt3 + (Pt) | L: Pt 0.795; AlPt3: Pt 0.764; (Pt): Pt 0.857 | experimental | [1] Wu 2000; _cites Huch 1964_ [doi](https://doi.org/10.1002/zaac.19643290116) | Table 3, p. 3, row 1; `ORC-LF627RDYHH` |  |
+| 1775 | L—AlPt3 + (Pt) | L: Pt 0.801; AlPt3: Pt 0.766; (Pt): Pt 0.821 | model | [1] Wu 2000 | Table 3, p. 3, row 2; `ORC-TQRWLUCRAW` |  |
+| 1766 | L—Al3Pt2 + AlPt | L: Pt 0.441; Al3Pt2: Pt 0.399; AlPt: Pt 0.5 | model | [1] Wu 2000 | Table 3, p. 3, row 4; `ORC-J6MNF52XQJ` |  |
+| 1741 | L -> Al3Pt2 + AlPt | L: Pt 0.447; Al3Pt2: Pt 0.4; AlPt: Pt 0.5 | experimental | [1] Wu 2000; _cites Huch 1964_ [doi](https://doi.org/10.1002/zaac.19643290116) | Table 3, p. 3, row 3; `ORC-XFERZN6DSL` |  |
+| 1738 | L + AlPt3 -> Al3Pt5 | L: Pt 0.623; AlPt3: Pt 0.673; Al3Pt5: Pt 0.625 | experimental | [1] Wu 2000; _cites Huch 1964_ [doi](https://doi.org/10.1002/zaac.19643290116) | Table 3, p. 3, row 5; `ORC-PB3WMA32LN` |  |
+| 1736 | L + AlPt3—Al3Pt5 | L: Pt 0.624; AlPt3: Pt 0.642; Al3Pt5: Pt 0.625 | model | [1] Wu 2000 | Table 3, p. 3, row 6; `ORC-HKNNJDEY22` |  |
+| 1695 | L—AlPt + Al3Pt5 | L: Pt 0.582; AlPt: Pt 0.5; Al3Pt5: Pt 0.625 | model | [1] Wu 2000 | Table 3, p. 3, row 7; `ORC-N6XVHCUH3Q` |  |
+| 1679 | L + Al3Pt2 -> Al2Pt | L: Pt 0.318; Al3Pt2: Pt 0.4; Al2Pt: Pt 0.333 | experimental | [1] Wu 2000; _cites Huch 1964_ [doi](https://doi.org/10.1002/zaac.19643290116) | Table 3, p. 3, row 8; `ORC-42YT45H36E` |  |
+| 1677 | L + Al3Pt2—Al2Pt | L: Pt 0.312; Al3Pt2: Pt 0.399; Al2Pt: Pt 0.333 | model | [1] Wu 2000 | Table 3, p. 3, row 9; `ORC-OQ2FHZMP6D` |  |
+| 1400 | L + Al2Pt—Al21Pt8 | L: Pt 0.175; Al2Pt: Pt 0.333; Al21Pt8: Pt 0.276 | model | [1] Wu 2000 | Table 3, p. 3, row 11; `ORC-E5KUVAIGU6` |  |
+| 1400 | L + Al2Pt -> Al21Pt8 | L: Pt 0.188; Al2Pt: Pt 0.326; Al21Pt8: Pt 0.275 | experimental | [1] Wu 2000; _cites Huch 1964_ [doi](https://doi.org/10.1002/zaac.19643290116) | Table 3, p. 3, row 10; `ORC-GH3PRGBOPR` |  |
+| 1082 | L + Al21Pt8—Al21Pt5 | L: Pt 0.05; Al21Pt8: Pt 0.276; Al21Pt5: Pt 0.192 | model | [1] Wu 2000 | Table 3, p. 3, row 13; `ORC-6SC4DQCQUE` |  |
+| 1079 | L + Al21Pt8 -> Al21Pt5 | L: Pt 0.031; Al21Pt8: Pt 0.275; Al21Pt5: Pt 0.192 | experimental | [1] Wu 2000; _cites Huch 1964_ [doi](https://doi.org/10.1002/zaac.19643290116) | Table 3, p. 3, row 12; `ORC-YCZURTD2XD` |  |
+| 930 | L -> (Al) + Al21Pt5 | L: Pt 0.004; (Al): Pt 0; Al21Pt5: Pt 0.192 | experimental | [1] Wu 2000; _cites Huch 1964_ [doi](https://doi.org/10.1002/zaac.19643290116) | Table 3, p. 3, row 14; `ORC-ZJJZ7SNQQL` |  |
+| 928 | L—(Al) + Al21Pt5 | L: Pt 0.007; (Al): Pt 0; Al21Pt5: Pt 0.192 | model | [1] Wu 2000 | Table 3, p. 3, row 15; `ORC-7I47DELRK4` |  |
 
 ## Formation enthalpies
 
@@ -113,37 +113,37 @@ Table: Enthalpies of formation, Al–Pt system (31)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| UNKNOWN |  | -101.7 kJ/mol (basis unstated) ± 2 | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 17 |  |
-| UNKNOWN |  | -100.416 kJ/mol (basis unstated) ± 4.2 | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 7 |  |
-| UNKNOWN |  | -100.4 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 19 |  |
-| UNKNOWN |  | -95 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 11 |  |
-| UNKNOWN |  | -94.886 kJ/mol (basis unstated) ± 1.25 | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 9 |  |
-| UNKNOWN |  | -92.931 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 18 |  |
-| UNKNOWN |  | -92.9 kJ/mol (basis unstated) ± 2 | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 21 |  |
-| UNKNOWN |  | -92.827 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 20 |  |
-| UNKNOWN |  | -92 kJ/mol (basis unstated) ± 2 | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 15 |  |
-| UNKNOWN |  | -91.835 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 16 |  |
-| UNKNOWN |  | -90.072 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 22 |  |
-| UNKNOWN |  | -88.3 kJ/mol (basis unstated) ± 3 | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 25 |  |
-| UNKNOWN |  | -88 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 13 |  |
-| UNKNOWN |  | -87.8 kJ/mol (basis unstated) ± 2 | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 23 |  |
-| UNKNOWN |  | -87.395 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 24 |  |
-| UNKNOWN |  | -85.835 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 14 |  |
-| UNKNOWN |  | -84.94 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 10 |  |
-| UNKNOWN |  | -83.395 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 26 |  |
-| UNKNOWN |  | -81.791 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 8 |  |
-| UNKNOWN |  | -77.197 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 28 |  |
-| UNKNOWN |  | -76.618 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 30 |  |
-| UNKNOWN |  | -71.368 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 6 |  |
-| UNKNOWN |  | -71.128 kJ/mol (basis unstated) ± 4.2 | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 5 |  |
-| UNKNOWN |  | -71.1 kJ/mol (basis unstated) ± 2.5 | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 27 |  |
-| UNKNOWN |  | -69.9 kJ/mol (basis unstated) ± 2 | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 29 |  |
-| UNKNOWN |  | -57.3 kJ/mol (basis unstated) ± 1.7 | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 3 |  |
-| UNKNOWN |  | -55.854 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 4 |  |
-| UNKNOWN |  | -50.2 kJ/mol (basis unstated) ± 1.25 | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 1 |  |
-| UNKNOWN |  | -50.195 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 2 |  |
-| UNKNOWN |  | -19.3 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 32 |  |
-| UNKNOWN |  | -18.4 kJ/mol (basis unstated) ± 2 | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 31 |  |
+| UNKNOWN |  | -101.7 kJ/mol (basis unstated) ± 2 | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 17; `ORC-MONEO4BVMM` |  |
+| UNKNOWN |  | -100.416 kJ/mol (basis unstated) ± 4.2 | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 7; `ORC-OZ2GS6SWMP` |  |
+| UNKNOWN |  | -100.4 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 19; `ORC-DI5ZOXHEQX` |  |
+| UNKNOWN |  | -95 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 11; `ORC-4J4YHO77MJ` |  |
+| UNKNOWN |  | -94.886 kJ/mol (basis unstated) ± 1.25 | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 9; `ORC-DWJ66XILTG` |  |
+| UNKNOWN |  | -92.931 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 18; `ORC-HT5ZXSNX6A` |  |
+| UNKNOWN |  | -92.9 kJ/mol (basis unstated) ± 2 | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 21; `ORC-5RNM2R3IRY` |  |
+| UNKNOWN |  | -92.827 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 20; `ORC-2DXBUPEMEH` |  |
+| UNKNOWN |  | -92 kJ/mol (basis unstated) ± 2 | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 15; `ORC-F4AFUKARE6` |  |
+| UNKNOWN |  | -91.835 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 16; `ORC-SH2SKTENYM` |  |
+| UNKNOWN |  | -90.072 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 22; `ORC-AITGC6DVD2` |  |
+| UNKNOWN |  | -88.3 kJ/mol (basis unstated) ± 3 | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 25; `ORC-RXOQ2WBFHD` |  |
+| UNKNOWN |  | -88 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 13; `ORC-KPSFX3XWHP` |  |
+| UNKNOWN |  | -87.8 kJ/mol (basis unstated) ± 2 | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 23; `ORC-A5CA45X5QW` |  |
+| UNKNOWN |  | -87.395 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 24; `ORC-KSRQYHMQB7` |  |
+| UNKNOWN |  | -85.835 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 14; `ORC-KZ5OG3TRV4` |  |
+| UNKNOWN |  | -84.94 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 10; `ORC-XAJEW66QQJ` |  |
+| UNKNOWN |  | -83.395 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 26; `ORC-K7YSNVOFQY` |  |
+| UNKNOWN |  | -81.791 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 8; `ORC-OE54AAVD3G` |  |
+| UNKNOWN |  | -77.197 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 28; `ORC-4BVNMWG4JV` |  |
+| UNKNOWN |  | -76.618 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 30; `ORC-BYKZOTQYKK` |  |
+| UNKNOWN |  | -71.368 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 6; `ORC-4NGXP73A7O` |  |
+| UNKNOWN |  | -71.128 kJ/mol (basis unstated) ± 4.2 | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 5; `ORC-DARKKAXY6E` |  |
+| UNKNOWN |  | -71.1 kJ/mol (basis unstated) ± 2.5 | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 27; `ORC-C5VKHDV5SM` |  |
+| UNKNOWN |  | -69.9 kJ/mol (basis unstated) ± 2 | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 29; `ORC-IMHHMUGVGI` |  |
+| UNKNOWN |  | -57.3 kJ/mol (basis unstated) ± 1.7 | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 3; `ORC-6VI7IZ2ZUB` |  |
+| UNKNOWN |  | -55.854 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 4; `ORC-VHGIK3JKN2` |  |
+| UNKNOWN |  | -50.2 kJ/mol (basis unstated) ± 1.25 | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 1; `ORC-YMD3SRLFK5` |  |
+| UNKNOWN |  | -50.195 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 2; `ORC-52JKWNELHD` |  |
+| UNKNOWN |  | -19.3 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 32; `ORC-5K77WGUOCZ` |  |
+| UNKNOWN |  | -18.4 kJ/mol (basis unstated) ± 2 | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 31; `ORC-7PABMTBUIQ` |  |
 
 ## Other properties
 
@@ -153,12 +153,12 @@ Table: Phase transition, Al–Pt system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1795 K | 1795 | L—Al3Pt2; _Al3Pt2: Pt 0.4_ | model | [1] Wu 2000 | Table 3, p. 3, row 21 |  |
-| Phase transition | 1800 K | 1800 | L -> Al3Pt2; _Al3Pt2: Pt 0.4_ | experimental | [1] Wu 2000; _cites Huch 1964_ [doi](https://doi.org/10.1002/zaac.19643290116) | Table 3, p. 3, row 20 |  |
-| Phase transition | 1826 K | 1826 | L—AlPt; _AlPt: Pt 0.5_ | model | [1] Wu 2000 | Table 3, p. 3, row 19 |  |
-| Phase transition | 1827 K | 1827 | L -> AlPt; _AlPt: Pt 0.5_ | experimental | [1] Wu 2000; _cites Huch 1964_ [doi](https://doi.org/10.1002/zaac.19643290116) | Table 3, p. 3, row 18 |  |
-| Phase transition | 1829 K | 1829 | L -> AlPt3; _L: Pt 0.732; AlPt3: Pt 0.75_ | experimental | [1] Wu 2000; _cites Huch 1964_ [doi](https://doi.org/10.1002/zaac.19643290116) | Table 3, p. 3, row 16 |  |
-| Phase transition | 1835 K | 1835 | L—AlPt3; _L: Pt 0.742; AlPt3: Pt 0.75_ | model | [1] Wu 2000 | Table 3, p. 3, row 17 |  |
+| Phase transition | 1795 K | 1795 | L—Al3Pt2; _Al3Pt2: Pt 0.4_ | model | [1] Wu 2000 | Table 3, p. 3, row 21; `ORC-IKC2B2C7A5` |  |
+| Phase transition | 1800 K | 1800 | L -> Al3Pt2; _Al3Pt2: Pt 0.4_ | experimental | [1] Wu 2000; _cites Huch 1964_ [doi](https://doi.org/10.1002/zaac.19643290116) | Table 3, p. 3, row 20; `ORC-BFLFLMJHZC` |  |
+| Phase transition | 1826 K | 1826 | L—AlPt; _AlPt: Pt 0.5_ | model | [1] Wu 2000 | Table 3, p. 3, row 19; `ORC-AIKVCLKWAQ` |  |
+| Phase transition | 1827 K | 1827 | L -> AlPt; _AlPt: Pt 0.5_ | experimental | [1] Wu 2000; _cites Huch 1964_ [doi](https://doi.org/10.1002/zaac.19643290116) | Table 3, p. 3, row 18; `ORC-2FKXMSBFCM` |  |
+| Phase transition | 1829 K | 1829 | L -> AlPt3; _L: Pt 0.732; AlPt3: Pt 0.75_ | experimental | [1] Wu 2000; _cites Huch 1964_ [doi](https://doi.org/10.1002/zaac.19643290116) | Table 3, p. 3, row 16; `ORC-LZAFFINNDU` |  |
+| Phase transition | 1835 K | 1835 | L—AlPt3; _L: Pt 0.742; AlPt3: Pt 0.75_ | model | [1] Wu 2000 | Table 3, p. 3, row 17; `ORC-KPCOGJLJZD` |  |
 
 ### Crystal structure (23)
 
@@ -166,29 +166,29 @@ Table: Crystal structure, Al–Pt system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 3.87 Å |  | AlPt3(HT); _alloy: Pt 0.75_ | model | [1] Wu 2000 | Table 1, p. 2, row 20 |  |
-| Lattice a | 3.876 Å |  | AlPt3(HT); _alloy: Pt 0.75_ | model | [1] Wu 2000 | Table 1, p. 2, row 21 |  |
-| Lattice a | 19.32 Å | 298.15 | Al21Pt5; _Al21Pt5: Al 0.808, Pt 0.192_ | model | [1] Wu 2000 | Table 1, p. 2, row 2 |  |
-| Lattice a | 19.23 Å | 298.15 | Al21Pt5; _Al21Pt5: Al 0.808, Pt 0.192_ | model | [1] Wu 2000 | Table 1, p. 2, row 1 |  |
-| Lattice a | 12.964 Å | 298.15 | Al21Pt8; _Al21Pt8: Al 0.73, Pt 0.27_ | model | [1] Wu 2000 | Table 1, p. 2, row 4 |  |
-| Lattice a | 12.97 Å | 298.15 | Al21Pt8; _Al21Pt8: Al 0.73, Pt 0.27_ | model | [1] Wu 2000 | Table 1, p. 2, row 3 |  |
-| Lattice a | 5.92 Å | 298.15 | Al2Pt; _Al2Pt: Al 0.68, Pt 0.32_ | model | [1] Wu 2000 | Table 1, p. 2, row 8 |  |
-| Lattice a | 5.992 Å | 298.15 | Al2Pt; _alloy: Pt 0.333333_ | model | [1] Wu 2000 | Table 1, p. 2, row 5 |  |
-| Lattice a | 5.91 Å | 298.15 | Al2Pt; _Al2Pt: Al 0.67, Pt 0.33_ | model | [1] Wu 2000 | Table 1, p. 2, row 7 |  |
-| Lattice a | 5.91 Å | 298.15 | Al2Pt; _alloy: Pt 0.333333_ | model | [1] Wu 2000 | Table 1, p. 2, row 6 |  |
-| Lattice a | 4.208 Å | 298.15 | Al3Pt2; _Al3Pt2: Al 0.6, Pt 0.4_ | model | [1] Wu 2000 | Table 1, p. 2, row 9 |  |
-| Lattice a | 4.2 Å | 298.15 | Al3Pt2; _Al3Pt2: Al 0.6, Pt 0.4_ | model | [1] Wu 2000 | Table 1, p. 2, row 12 |  |
-| Lattice a | 4.22 Å | 298.15 | Al3Pt2; _Al3Pt2: Al 0.6, Pt 0.4_ | model | [1] Wu 2000 | Table 1, p. 2, row 10 |  |
-| Lattice a | 5.41 Å | 298.15 | Al3Pt5; _alloy: Pt 0.625_ | model | [1] Wu 2000 | Table 1, p. 2, row 18 |  |
-| Lattice a | 3.871 Å | 298.15 | Al3Pt5; _Al3Pt5: Al 0.272, Pt 0.728_ | model | [1] Wu 2000 | Table 1, p. 2, row 17 |  |
-| Lattice a | 4.864 Å | 298.15 | AlPt; _AlPt: Al 0.5, Pt 0.5_ | model | [1] Wu 2000 | Table 1, p. 2, row 14 |  |
-| Lattice a | 4.86 Å | 298.15 | AlPt; _AlPt: Al 0.5, Pt 0.5_ | model | [1] Wu 2000 | Table 1, p. 2, row 13 |  |
-| Lattice b | 10.7 Å | 298.15 | Al3Pt5; _alloy: Pt 0.625_ | model | [1] Wu 2000 | Table 1, p. 2, row 18 |  |
-| Lattice c | 10.684 Å | 298.15 | Al21Pt8; _Al21Pt8: Al 0.73, Pt 0.27_ | model | [1] Wu 2000 | Table 1, p. 2, row 4 |  |
-| Lattice c | 10.66 Å | 298.15 | Al21Pt8; _Al21Pt8: Al 0.73, Pt 0.27_ | model | [1] Wu 2000 | Table 1, p. 2, row 3 |  |
-| Lattice c | 5.172 Å | 298.15 | Al3Pt2; _Al3Pt2: Al 0.6, Pt 0.4_ | model | [1] Wu 2000 | Table 1, p. 2, row 9 |  |
-| Lattice c | 5.17 Å | 298.15 | Al3Pt2; _Al3Pt2: Al 0.6, Pt 0.4_ | model | [1] Wu 2000 | Table 1, p. 2, row 12 |  |
-| Lattice c | 3.95 Å | 298.15 | Al3Pt5; _alloy: Pt 0.625_ | model | [1] Wu 2000 | Table 1, p. 2, row 18 |  |
+| Lattice a | 3.87 Å |  | AlPt3(HT); _alloy: Pt 0.75_ | model | [1] Wu 2000 | Table 1, p. 2, row 20; `ORC-7OODOGX7UM` |  |
+| Lattice a | 3.876 Å |  | AlPt3(HT); _alloy: Pt 0.75_ | model | [1] Wu 2000 | Table 1, p. 2, row 21; `ORC-BCLMNBYC7M` |  |
+| Lattice a | 19.32 Å | 298.15 | Al21Pt5; _Al21Pt5: Al 0.808, Pt 0.192_ | model | [1] Wu 2000 | Table 1, p. 2, row 2; `ORC-HV5MLHXSLY` |  |
+| Lattice a | 19.23 Å | 298.15 | Al21Pt5; _Al21Pt5: Al 0.808, Pt 0.192_ | model | [1] Wu 2000 | Table 1, p. 2, row 1; `ORC-OGVQ45P2WH` |  |
+| Lattice a | 12.964 Å | 298.15 | Al21Pt8; _Al21Pt8: Al 0.73, Pt 0.27_ | model | [1] Wu 2000 | Table 1, p. 2, row 4; `ORC-FO2JNNFVTN.178fe0` |  |
+| Lattice a | 12.97 Å | 298.15 | Al21Pt8; _Al21Pt8: Al 0.73, Pt 0.27_ | model | [1] Wu 2000 | Table 1, p. 2, row 3; `ORC-GU5A4HC2UI.6792cc` |  |
+| Lattice a | 5.92 Å | 298.15 | Al2Pt; _Al2Pt: Al 0.68, Pt 0.32_ | model | [1] Wu 2000 | Table 1, p. 2, row 8; `ORC-7QYB4JQCIX` |  |
+| Lattice a | 5.992 Å | 298.15 | Al2Pt; _alloy: Pt 0.333333_ | model | [1] Wu 2000 | Table 1, p. 2, row 5; `ORC-HA2K7SACIZ` |  |
+| Lattice a | 5.91 Å | 298.15 | Al2Pt; _Al2Pt: Al 0.67, Pt 0.33_ | model | [1] Wu 2000 | Table 1, p. 2, row 7; `ORC-NRPWH6MB6G` |  |
+| Lattice a | 5.91 Å | 298.15 | Al2Pt; _alloy: Pt 0.333333_ | model | [1] Wu 2000 | Table 1, p. 2, row 6; `ORC-WRVKBSEXYQ` |  |
+| Lattice a | 4.208 Å | 298.15 | Al3Pt2; _Al3Pt2: Al 0.6, Pt 0.4_ | model | [1] Wu 2000 | Table 1, p. 2, row 9; `ORC-AIHUQ2YPOV.848400` |  |
+| Lattice a | 4.2 Å | 298.15 | Al3Pt2; _Al3Pt2: Al 0.6, Pt 0.4_ | model | [1] Wu 2000 | Table 1, p. 2, row 12; `ORC-RJEZGFKWAY.c6bbc4` |  |
+| Lattice a | 4.22 Å | 298.15 | Al3Pt2; _Al3Pt2: Al 0.6, Pt 0.4_ | model | [1] Wu 2000 | Table 1, p. 2, row 10; `ORC-U3YYH36DLM.e86d71` |  |
+| Lattice a | 5.41 Å | 298.15 | Al3Pt5; _alloy: Pt 0.625_ | model | [1] Wu 2000 | Table 1, p. 2, row 18; `ORC-OTPOVH57ND.18430a` |  |
+| Lattice a | 3.871 Å | 298.15 | Al3Pt5; _Al3Pt5: Al 0.272, Pt 0.728_ | model | [1] Wu 2000 | Table 1, p. 2, row 17; `ORC-YIJYA3AKUB` |  |
+| Lattice a | 4.864 Å | 298.15 | AlPt; _AlPt: Al 0.5, Pt 0.5_ | model | [1] Wu 2000 | Table 1, p. 2, row 14; `ORC-6RSUTYXDH2` |  |
+| Lattice a | 4.86 Å | 298.15 | AlPt; _AlPt: Al 0.5, Pt 0.5_ | model | [1] Wu 2000 | Table 1, p. 2, row 13; `ORC-SR3EI4Z72S` |  |
+| Lattice b | 10.7 Å | 298.15 | Al3Pt5; _alloy: Pt 0.625_ | model | [1] Wu 2000 | Table 1, p. 2, row 18; `ORC-OTPOVH57ND.7fca57` |  |
+| Lattice c | 10.684 Å | 298.15 | Al21Pt8; _Al21Pt8: Al 0.73, Pt 0.27_ | model | [1] Wu 2000 | Table 1, p. 2, row 4; `ORC-FO2JNNFVTN.4c50ac` |  |
+| Lattice c | 10.66 Å | 298.15 | Al21Pt8; _Al21Pt8: Al 0.73, Pt 0.27_ | model | [1] Wu 2000 | Table 1, p. 2, row 3; `ORC-GU5A4HC2UI.619d24` |  |
+| Lattice c | 5.172 Å | 298.15 | Al3Pt2; _Al3Pt2: Al 0.6, Pt 0.4_ | model | [1] Wu 2000 | Table 1, p. 2, row 9; `ORC-AIHUQ2YPOV.40bb33` |  |
+| Lattice c | 5.17 Å | 298.15 | Al3Pt2; _Al3Pt2: Al 0.6, Pt 0.4_ | model | [1] Wu 2000 | Table 1, p. 2, row 12; `ORC-RJEZGFKWAY.a7e1be` |  |
+| Lattice c | 3.95 Å | 298.15 | Al3Pt5; _alloy: Pt 0.625_ | model | [1] Wu 2000 | Table 1, p. 2, row 18; `ORC-OTPOVH57ND.1076f7` |  |
 
 ## Sources
 
@@ -253,4 +253,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

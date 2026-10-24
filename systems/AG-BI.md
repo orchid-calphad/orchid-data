@@ -54,8 +54,8 @@ Table: Invariant reactions reported in the literature for the Ag–Bi system (2)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 535.65 | eutectic |  | experimental | [1] Karakaya 1993; _cites ref. 62Nat_ | p. 1 | “The eutectic was reported to be at 262 ~ and 94.95 at.% Bi by \[48Haj\] and at 262.5 ~ and 95.05 at.% Bi by \[62Nat\].” |
-| 535.15 | eutectic |  | experimental | [1] Karakaya 1993; _cites Hajicek 1948_ | p. 1 | “The eutectic was reported to be at 262 ~ and 94.95 at.% Bi by \[48Haj\] and at 262.5 ~ and 95.05 at.% Bi by \[62Nat\].” |
+| 535.65 | eutectic |  | experimental | [1] Karakaya 1993; _cites ref. 62Nat_ | p. 1; `ORC-P6KXHQF2B7.f2c0c3` | “The eutectic was reported to be at 262 ~ and 94.95 at.% Bi by \[48Haj\] and at 262.5 ~ and 95.05 at.% Bi by \[62Nat\].” |
+| 535.15 | eutectic |  | experimental | [1] Karakaya 1993; _cites Hajicek 1948_ | p. 1; `ORC-P6KXHQF2B7.8f9603` | “The eutectic was reported to be at 262 ~ and 94.95 at.% Bi by \[48Haj\] and at 262.5 ~ and 95.05 at.% Bi by \[62Nat\].” |
 
 ## Other properties
 
@@ -65,8 +65,8 @@ Table: Phase transition, Ag–Bi system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 541.02 K | 541.02 | other | experimental | [1] Karakaya 1993; _cites ref. 1894Hey_ | p. 1 | “The measured Bi-liquidus \[1894Hey\] is lower than the assessed diagram by -4 ~ for pure Bi, \[1894Hey\] reported a melting point of 267.87 ~ compared with the accepted value of 271.442 ~ \[Melt\].” |
-| Phase transition | 544.592 K | 544.592 | other | unspecified | [1] Karakaya 1993 | p. 1 | “The measured Bi-liquidus \[1894Hey\] is lower than the assessed diagram by -4 ~ for pure Bi, \[1894Hey\] reported a melting point of 267.87 ~ compared with the accepted value of 271.442 ~ \[Melt\].” |
+| Phase transition | 541.02 K | 541.02 | other | experimental | [1] Karakaya 1993; _cites ref. 1894Hey_ | p. 1; `ORC-JPC6KBXLUI.a1c961` | “The measured Bi-liquidus \[1894Hey\] is lower than the assessed diagram by -4 ~ for pure Bi, \[1894Hey\] reported a melting point of 267.87 ~ compared with the accepted value of 271.442 ~ \[Melt\].” |
+| Phase transition | 544.592 K | 544.592 | other | unspecified | [1] Karakaya 1993 | p. 1; `ORC-JPC6KBXLUI.64668d` | “The measured Bi-liquidus \[1894Hey\] is lower than the assessed diagram by -4 ~ for pure Bi, \[1894Hey\] reported a melting point of 267.87 ~ compared with the accepted value of 271.442 ~ \[Melt\].” |
 
 ### Crystal structure (20)
 
@@ -74,26 +74,26 @@ Table: Crystal structure, Ag–Bi system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 4.094 Å | 298.15 | Ag; _Ag: Ag 0.992, Bi 0.008_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 12 |  |
-| Lattice a | 4.0833 Å | 298.15 | Ag; _Ag: Ag 0.99479, Bi 0.00521_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 7 |  |
-| Lattice a | 4.0832 Å | 298.15 | Ag; _Ag: Ag 0.99479, Bi 0.00521_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 6 |  |
-| Lattice a | 4.09 Å | 298.15 | Ag; _Ag: Ag 0.996, Bi 0.004_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 9 |  |
-| Lattice a | 4.093 Å | 298.15 | Ag; _Ag: Ag 0.993, Bi 0.007_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 11 |  |
-| Lattice a | 4.0809 Å | 298.15 | Ag; _Ag: Ag 0.99688, Bi 0.00312_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 5 |  |
-| Lattice a | 4.099 Å | 298.15 | Ag; _Ag: Ag 0.987, Bi 0.013_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 15 |  |
-| Lattice a | 4.103 Å | 298.15 | Ag; _Ag: Ag 0.983, Bi 0.017_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 18 |  |
-| Lattice a | 4.109 Å | 298.15 | Ag; _Ag: Ag 0.978, Bi 0.022_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 21 |  |
-| Lattice a | 4.095 Å | 298.15 | Ag; _Ag: Ag 0.991, Bi 0.009_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 13 |  |
-| Lattice a | 4.101 Å | 298.15 | Ag; _Ag: Ag 0.985, Bi 0.015_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 16 |  |
-| Lattice a | 4.104 Å | 298.15 | Ag; _Ag: Ag 0.982, Bi 0.018_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 19 |  |
-| Lattice a | 4.105 Å | 298.15 | Ag; _Ag: Ag 0.981, Bi 0.019_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 20 |  |
-| Lattice a | 4.0805 Å | 298.15 | Ag; _Ag: Ag 0.9974, Bi 0.0026_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 4 |  |
-| Lattice a | 4.091 Å | 298.15 | Ag; _Ag: Ag 0.995, Bi 0.005_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 10 |  |
-| Lattice a | 4.097 Å | 298.15 | Ag; _Ag: Ag 0.989, Bi 0.011_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 14 |  |
-| Lattice a | 4.089 Å | 298.15 | Ag; _Ag: Ag 0.997, Bi 0.003_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 8 |  |
-| Lattice a | 4.102 Å | 298.15 | Ag; _Ag: Ag 0.984, Bi 0.016_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 17 |  |
-| Lattice a | 2.998 Å | 298.15 | ξ-phase | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 24 |  |
-| Lattice c | 4.849 Å | 298.15 | ξ-phase | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 24 |  |
+| Lattice a | 4.094 Å | 298.15 | Ag; _Ag: Ag 0.992, Bi 0.008_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 12; `ORC-2HTUQB6UA7` |  |
+| Lattice a | 4.0833 Å | 298.15 | Ag; _Ag: Ag 0.99479, Bi 0.00521_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 7; `ORC-2I3WWVVZJF` |  |
+| Lattice a | 4.0832 Å | 298.15 | Ag; _Ag: Ag 0.99479, Bi 0.00521_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 6; `ORC-2T5HXQX75Y` |  |
+| Lattice a | 4.09 Å | 298.15 | Ag; _Ag: Ag 0.996, Bi 0.004_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 9; `ORC-7CP3XXR7WS` |  |
+| Lattice a | 4.093 Å | 298.15 | Ag; _Ag: Ag 0.993, Bi 0.007_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 11; `ORC-CAAGPAG3YV` |  |
+| Lattice a | 4.0809 Å | 298.15 | Ag; _Ag: Ag 0.99688, Bi 0.00312_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 5; `ORC-EDTF7CL5UZ` |  |
+| Lattice a | 4.099 Å | 298.15 | Ag; _Ag: Ag 0.987, Bi 0.013_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 15; `ORC-EITFHXHIBA` |  |
+| Lattice a | 4.103 Å | 298.15 | Ag; _Ag: Ag 0.983, Bi 0.017_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 18; `ORC-FETOYS5MKS` |  |
+| Lattice a | 4.109 Å | 298.15 | Ag; _Ag: Ag 0.978, Bi 0.022_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 21; `ORC-FFE6BMEMVU` |  |
+| Lattice a | 4.095 Å | 298.15 | Ag; _Ag: Ag 0.991, Bi 0.009_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 13; `ORC-JFAVXN3JWW` |  |
+| Lattice a | 4.101 Å | 298.15 | Ag; _Ag: Ag 0.985, Bi 0.015_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 16; `ORC-JS7MYJILA7` |  |
+| Lattice a | 4.104 Å | 298.15 | Ag; _Ag: Ag 0.982, Bi 0.018_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 19; `ORC-L6PBVQWOZS` |  |
+| Lattice a | 4.105 Å | 298.15 | Ag; _Ag: Ag 0.981, Bi 0.019_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 20; `ORC-LC3TWBOSAY` |  |
+| Lattice a | 4.0805 Å | 298.15 | Ag; _Ag: Ag 0.9974, Bi 0.0026_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 4; `ORC-SD424RKQOS` |  |
+| Lattice a | 4.091 Å | 298.15 | Ag; _Ag: Ag 0.995, Bi 0.005_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 10; `ORC-UMBIFZ3ST5` |  |
+| Lattice a | 4.097 Å | 298.15 | Ag; _Ag: Ag 0.989, Bi 0.011_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 14; `ORC-UV53MLZ7BP` |  |
+| Lattice a | 4.089 Å | 298.15 | Ag; _Ag: Ag 0.997, Bi 0.003_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 8; `ORC-UX4Q6522GI` |  |
+| Lattice a | 4.102 Å | 298.15 | Ag; _Ag: Ag 0.984, Bi 0.016_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 17; `ORC-WZ5XIQJ3FE` |  |
+| Lattice a | 2.998 Å | 298.15 | ξ-phase | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 24; `ORC-IUKX45CJDL.fb3fca` |  |
+| Lattice c | 4.849 Å | 298.15 | ξ-phase | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 24; `ORC-IUKX45CJDL.5fb0e4` |  |
 
 ## Sources
 
@@ -158,4 +158,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

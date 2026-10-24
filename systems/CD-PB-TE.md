@@ -27,16 +27,16 @@ Table: Invariant reactions reported in the literature for the Cd–Pb–Te syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1157 | eutectic |  | experimental | [1] Liu 2009 | p. 3 | “The eutectic temperature and composition in the pseudo-binary CdTe-PbTe section were determined to be at 1157 K around 18.34 at.% Cd.” |
-| 1143 | eutectic |  | experimental | [1] Liu 2009 | p. 3 | “The eutectic point was shown to be at 1143 K and about 17.5 at.% Cd.” |
-| 1139 | eutectic |  | experimental | [1] Liu 2009 | p. 3 | “The eutectic temperature was found at 1139 K.” |
-| 1113 | eutectic |  | experimental | [1] Liu 2009; _cites Hirai 1968_ [doi](https://doi.org/10.2320/matertrans1960.9.301) | p. 3 | “Hirai and Kurata81 investigated the CdTe-PbTe pseudo-binary phase diagram by cooling curves, where the eutectic temperature and composition were determined to be at 1113 K and about 20 at.% Cd, respectively.” |
-| 686 | liq -> CdTe + PbTe + hex |  | experimental | [1] Liu 2009; _cites Morgant 1980_ | Table VIII, p. 12, row 2 |  |
-| 684.39 | liq -> CdTe + PbTe + hex |  | model | [1] Liu 2009 | Table VIII, p. 12, row 1 |  |
-| 600 | liq -> CdTe + PbTe + fcc |  | experimental | [1] Liu 2009; _cites Morgant 1980_ | Table VIII, p. 12, row 4 |  |
-| 599.34 | liq -> CdTe + PbTe + fcc |  | model | [1] Liu 2009 | Table VIII, p. 12, row 3 |  |
-| 521 | liq -> CdTe + fcc + hcp |  | experimental | [1] Liu 2009; _cites Morgant 1980_ | Table VIII, p. 12, row 6 |  |
-| 519.35 | liq -> CdTe + fcc + hcp |  | model | [1] Liu 2009 | Table VIII, p. 12, row 5 |  |
+| 1157 | eutectic |  | experimental | [1] Liu 2009 | p. 3; `ORC-7UIOKIJSR5` | “The eutectic temperature and composition in the pseudo-binary CdTe-PbTe section were determined to be at 1157 K around 18.34 at.% Cd.” |
+| 1143 | eutectic |  | experimental | [1] Liu 2009 | p. 3; `ORC-OIWWTVGSDW` | “The eutectic point was shown to be at 1143 K and about 17.5 at.% Cd.” |
+| 1139 | eutectic |  | experimental | [1] Liu 2009 | p. 3; `ORC-NYIHT3KZ7U` | “The eutectic temperature was found at 1139 K.” |
+| 1113 | eutectic |  | experimental | [1] Liu 2009; _cites Hirai 1968_ [doi](https://doi.org/10.2320/matertrans1960.9.301) | p. 3; `ORC-I3SQTJTEP5` | “Hirai and Kurata81 investigated the CdTe-PbTe pseudo-binary phase diagram by cooling curves, where the eutectic temperature and composition were determined to be at 1113 K and about 20 at.% Cd, respectively.” |
+| 686 | liq -> CdTe + PbTe + hex |  | experimental | [1] Liu 2009; _cites Morgant 1980_ | Table VIII, p. 12, row 2; `ORC-C624IDOMJO` |  |
+| 684.39 | liq -> CdTe + PbTe + hex |  | model | [1] Liu 2009 | Table VIII, p. 12, row 1; `ORC-PZYANPC4UI` |  |
+| 600 | liq -> CdTe + PbTe + fcc |  | experimental | [1] Liu 2009; _cites Morgant 1980_ | Table VIII, p. 12, row 4; `ORC-LP3BRQUFMW` |  |
+| 599.34 | liq -> CdTe + PbTe + fcc |  | model | [1] Liu 2009 | Table VIII, p. 12, row 3; `ORC-LIMR5RGEHE` |  |
+| 521 | liq -> CdTe + fcc + hcp |  | experimental | [1] Liu 2009; _cites Morgant 1980_ | Table VIII, p. 12, row 6; `ORC-KLZK3VNL5K` |  |
+| 519.35 | liq -> CdTe + fcc + hcp |  | model | [1] Liu 2009 | Table VIII, p. 12, row 5; `ORC-OWWI2R7UJY` |  |
 
 ## Sources
 
@@ -79,4 +79,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

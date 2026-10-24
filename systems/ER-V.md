@@ -46,10 +46,10 @@ Table: Invariant reactions reported in the literature for the Er–V system (4)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2144.15 | monotectic: L1 -> L2 + (V) | L1: V 0.115; L2: V 0.975; (V): V 0.999 | model | [1] Wang 2009 | Table 5, p. 5, row 2 |  |
-| 2143.15 | monotectic: L1 -> L2 + (V) | L1: V 0.114; L2: V 0.975; (V): V 0.999 | experimental | [1] Wang 2009; _cites ref. 29 1871_ | Table 5, p. 5, row 1 |  |
-| 1753.15 | eutectic: L -> (Er) + (V) | L: V 0.043; (Er): V 0.004; (V): V 0.9999 | experimental | [1] Wang 2009; _cites ref. 29 1871_ | Table 5, p. 5, row 3 |  |
-| 1753.15 | eutectic: L -> (Er) + (V) | L: V 0.045; (Er): V 0.006; (V): V 1 | model | [1] Wang 2009 | Table 5, p. 5, row 4 |  |
+| 2144.15 | monotectic: L1 -> L2 + (V) | L1: V 0.115; L2: V 0.975; (V): V 0.999 | model | [1] Wang 2009 | Table 5, p. 5, row 2; `ORC-ZTJ4VBJC6Y` |  |
+| 2143.15 | monotectic: L1 -> L2 + (V) | L1: V 0.114; L2: V 0.975; (V): V 0.999 | experimental | [1] Wang 2009; _cites ref. 29 1871_ | Table 5, p. 5, row 1; `ORC-CQGGVZCOEM` |  |
+| 1753.15 | eutectic: L -> (Er) + (V) | L: V 0.043; (Er): V 0.004; (V): V 0.9999 | experimental | [1] Wang 2009; _cites ref. 29 1871_ | Table 5, p. 5, row 3; `ORC-P5Y2OI5RYQ` |  |
+| 1753.15 | eutectic: L -> (Er) + (V) | L: V 0.045; (Er): V 0.006; (V): V 1 | model | [1] Wang 2009 | Table 5, p. 5, row 4; `ORC-UOAKPK7F7F` |  |
 
 ## Sources
 
@@ -114,4 +114,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -48,7 +48,7 @@ Table: Other property, Co–H system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Other; _printed: heat of melting_ | 16200 J/mol | 1768 |  | model | [1] Kim 2012; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | p. 6 | “Considering that Co and Ni are close to each other in the periodic table and assuming that fundamental thermodynamic properties may be similar to each other (the melting point of Ni and Co, and heat of melting of the two elements are 1728 K, 1768 K and 17,480 J/mol, 16,200 J/mol, respectively \[50\]), the value for the heat of formation of CoH6 was taken from the value for NiH6.” |
+| Other; _printed: heat of melting_ | 16200 J/mol | 1768 |  | model | [1] Kim 2012; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | p. 6; `ORC-UFHBM3TSFD` | “Considering that Co and Ni are close to each other in the periodic table and assuming that fundamental thermodynamic properties may be similar to each other (the melting point of Ni and Co, and heat of melting of the two elements are 1728 K, 1768 K and 17,480 J/mol, 16,200 J/mol, respectively \[50\]), the value for the heat of formation of CoH6 was taken from the value for NiH6.” |
 
 ## Sources
 
@@ -113,4 +113,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

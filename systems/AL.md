@@ -35,9 +35,9 @@ Table: Enthalpies of formation, Al system (3)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| A2-Al |  | 60.2 kJ/mol-atom | 0 | model |  |  | [1] Abe 2008 | Table 2, p. 3, row 23 |  |
-| Al |  | 0 kJ/mol-atom | 0 | DFT |  |  | [2] Zhou 2006 | Table 3, p. 6, row 27 |  |
-| fcc-Al |  | 0 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2005 | Table 3, p. 4, row 1 |  |
+| A2-Al |  | 60.2 kJ/mol-atom | 0 | model |  |  | [1] Abe 2008 | Table 2, p. 3, row 23; `ORC-KMC3ISMFEM` |  |
+| Al |  | 0 kJ/mol-atom | 0 | DFT |  |  | [2] Zhou 2006 | Table 3, p. 6, row 27; `ORC-X2WBMXYDLJ` |  |
+| fcc-Al |  | 0 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2005 | Table 3, p. 4, row 1; `ORC-UR7LCFHVIW.276c54` |  |
 
 ## Other properties
 
@@ -47,12 +47,12 @@ Table: Phase transition, Al system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 131 K | 131 | other | model | [4] He 2024 | p. 8 | “The metastable melting temperature of bcc will then be 661 K which is considerable higher than the SGTE value of 131 K.” |
-| Phase transition | 661 K | 661 | other | model | [4] He 2024 | p. 8 | “The metastable melting temperature of bcc will then be 661 K which is considerable higher than the SGTE value of 131 K.” |
-| Phase transition | 933.15 K | 933.15 | α-Al | model | [5] Perron 2016; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 1, p. 3, row 1 |  |
-| Phase transition | 933.47 K | 933.47 | Al(l) = Al(fcc); _Al(l): _ | unspecified | [6] Taylor 1992 | Table 2, p. 7, row 3 |  |
-| Phase transition | 1200 K | 1200 | other | model | [4] He 2024; _cites Bigdeli 2024_ | p. 7 | “They showed that fcc Al cannot exist above approximately 1200 K - the instability temperature.” |
-| Phase transition | 1962 K | 1962 |  | model | [4] He 2024 | p. 8 | “The entropy difference required to get that temperature yielded an Einstein temperature which with a rounded off value gave a transition temperature of 1962 K.” |
+| Phase transition | 131 K | 131 | other | model | [4] He 2024 | p. 8; `ORC-ZRMCNNGW6U.298fb4` | “The metastable melting temperature of bcc will then be 661 K which is considerable higher than the SGTE value of 131 K.” |
+| Phase transition | 661 K | 661 | other | model | [4] He 2024 | p. 8; `ORC-ZRMCNNGW6U.dd3a90` | “The metastable melting temperature of bcc will then be 661 K which is considerable higher than the SGTE value of 131 K.” |
+| Phase transition | 933.15 K | 933.15 | α-Al | model | [5] Perron 2016; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 1, p. 3, row 1; `ORC-KGCO74AKCQ` |  |
+| Phase transition | 933.47 K | 933.47 | Al(l) = Al(fcc); _Al(l): _ | unspecified | [6] Taylor 1992 | Table 2, p. 7, row 3; `ORC-CYIC7PVBWL` |  |
+| Phase transition | 1200 K | 1200 | other | model | [4] He 2024; _cites Bigdeli 2024_ | p. 7; `ORC-N2MZ7DQG4C` | “They showed that fcc Al cannot exist above approximately 1200 K - the instability temperature.” |
+| Phase transition | 1962 K | 1962 |  | model | [4] He 2024 | p. 8; `ORC-5OLG3WQZ2V` | “The entropy difference required to get that temperature yielded an Einstein temperature which with a rounded off value gave a transition temperature of 1962 K.” |
 
 ### Mixing / partial (2)
 
@@ -60,8 +60,8 @@ Table: Mixing / partial, Al system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: ΔH_ | 0 kJ/mol (basis unstated) | 1257 | liquid; _alloy: Al 1_ | experimental | [7] Witusiewicz 2004 | Table 2, p. 4, row 32 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 0 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Al 1_ | experimental | [7] Witusiewicz 2004 | Table 2, p. 4, row 12 |  |
+| Enthalpy of mixing; _printed: ΔH_ | 0 kJ/mol (basis unstated) | 1257 | liquid; _alloy: Al 1_ | experimental | [7] Witusiewicz 2004 | Table 2, p. 4, row 32; `ORC-B4KB6D5M4Q.d212bf` |  |
+| Enthalpy of mixing; _printed: ΔH_ | 0 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Al 1_ | experimental | [7] Witusiewicz 2004 | Table 2, p. 4, row 12; `ORC-A457RLOQUZ.937344` |  |
 
 ### Heat capacity / entropy / enthalpy (14)
 
@@ -69,20 +69,20 @@ Table: Heat capacity / entropy / enthalpy, Al system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: S_Al^liq(Tm) − S_Al^FCC(Tm)_ | 11.334 J/mol (basis unstated)/K |  | liquid | unspecified | [8] He 2021 | Table 1, p. 3, row 10 |  |
-| Entropy; _printed: S_Al^liq(Tm) − S_Al^FCC(Tm)_ | 11.332 J/mol (basis unstated)/K |  | liquid | experimental | [8] He 2021; _cites Desai 1987_ [doi](https://doi.org/10.1007/bf00503647) | Table 1, p. 3, row 9 |  |
-| Entropy; _printed: S_Al^liq(T_m) - S_Al^FCC(T_m)_ | 11.334 J/mol (basis unstated)/K |  | liquid + FCC | unspecified | [8] He 2021 | Table 1, p. 3, row 10 |  |
-| Entropy; _printed: S_Al^liq(T_m) - S_Al^FCC(T_m)_ | 11.332 J/mol (basis unstated)/K |  | liquid + FCC | experimental | [8] He 2021; _cites Desai 1987_ [doi](https://doi.org/10.1007/bf00503647) | Table 1, p. 3, row 9 |  |
-| Entropy; _printed: S_Al^FCC(298) − S_Al^FCC(0)_ | 28.25 J/mol (basis unstated)/K | 298.15 | FCC | unspecified | [8] He 2021 | Table 1, p. 3, row 4 |  |
-| Entropy; _printed: S_Al^FCC(298) - S_Al^FCC(0)_ | 28.25 J/mol (basis unstated)/K | 298.15 | FCC | unspecified | [8] He 2021 | Table 1, p. 3, row 4 |  |
-| Entropy; _printed: S_Al^FCC(298) − S_Al^FCC(0)_ | 28.25 J/mol (basis unstated)/K | 298.15 | FCC | experimental | [8] He 2021; _cites Desai 1987_ [doi](https://doi.org/10.1007/bf00503647) | Table 1, p. 3, row 3 |  |
-| Entropy; _printed: S_Al^FCC(298) - S_Al^FCC(0)_ | 28.25 J/mol (basis unstated)/K | 298.15 | FCC | experimental | [8] He 2021; _cites Desai 1987_ [doi](https://doi.org/10.1007/bf00503647) | Table 1, p. 3, row 3 |  |
-| Heat capacity; _printed: C_P^liq(Tm)_ | 31.757 J/mol (basis unstated)/K |  | liquid | experimental | [8] He 2021; _cites Desai 1987_ [doi](https://doi.org/10.1007/bf00503647) | Table 1, p. 3, row 11 |  |
-| Heat capacity; _printed: C_P^liq(T_m)_ | 31.757 J/mol (basis unstated)/K |  | liquid | experimental | [8] He 2021; _cites Desai 1987_ [doi](https://doi.org/10.1007/bf00503647) | Table 1, p. 3, row 11 |  |
-| Heat capacity; _printed: C_P^liq(T_m)_ | 31.507 J/mol (basis unstated)/K |  | liquid | unspecified | [8] He 2021 | Table 1, p. 3, row 12 |  |
-| Heat capacity; _printed: C_P^liq(Tm)_ | 31.507 J/mol (basis unstated)/K |  | liquid | unspecified | [8] He 2021 | Table 1, p. 3, row 12 |  |
-| hm lattice stability; _printed: H_Al^liq(T_m) - H_Al^FCC(T_m)_ | 10.58 kJ/mol (basis unstated) |  | liquid + FCC | unspecified | [8] He 2021 | Table 1, p. 3, row 8 |  |
-| hm lattice stability; _printed: H_Al^liq(T_m) - H_Al^FCC(T_m)_ | 10.58 kJ/mol (basis unstated) | 933.61 | liquid + FCC | experimental | [8] He 2021; _cites Desai 1987_ [doi](https://doi.org/10.1007/bf00503647) | Table 1, p. 3, row 7 |  |
+| Entropy; _printed: S_Al^liq(Tm) − S_Al^FCC(Tm)_ | 11.334 J/mol (basis unstated)/K |  | liquid | unspecified | [8] He 2021 | Table 1, p. 3, row 10; `ORC-7SRX4WPQIV.be8720` |  |
+| Entropy; _printed: S_Al^liq(Tm) − S_Al^FCC(Tm)_ | 11.332 J/mol (basis unstated)/K |  | liquid | experimental | [8] He 2021; _cites Desai 1987_ [doi](https://doi.org/10.1007/bf00503647) | Table 1, p. 3, row 9; `ORC-QDJQTPYND3.644282` |  |
+| Entropy; _printed: S_Al^liq(T_m) - S_Al^FCC(T_m)_ | 11.334 J/mol (basis unstated)/K |  | liquid + FCC | unspecified | [8] He 2021 | Table 1, p. 3, row 10; `ORC-7SRX4WPQIV.d2cb02` |  |
+| Entropy; _printed: S_Al^liq(T_m) - S_Al^FCC(T_m)_ | 11.332 J/mol (basis unstated)/K |  | liquid + FCC | experimental | [8] He 2021; _cites Desai 1987_ [doi](https://doi.org/10.1007/bf00503647) | Table 1, p. 3, row 9; `ORC-QDJQTPYND3.f15799` |  |
+| Entropy; _printed: S_Al^FCC(298) − S_Al^FCC(0)_ | 28.25 J/mol (basis unstated)/K | 298.15 | FCC | unspecified | [8] He 2021 | Table 1, p. 3, row 4; `ORC-275NXIDZEC.65afa3` |  |
+| Entropy; _printed: S_Al^FCC(298) - S_Al^FCC(0)_ | 28.25 J/mol (basis unstated)/K | 298.15 | FCC | unspecified | [8] He 2021 | Table 1, p. 3, row 4; `ORC-275NXIDZEC.96108b` |  |
+| Entropy; _printed: S_Al^FCC(298) − S_Al^FCC(0)_ | 28.25 J/mol (basis unstated)/K | 298.15 | FCC | experimental | [8] He 2021; _cites Desai 1987_ [doi](https://doi.org/10.1007/bf00503647) | Table 1, p. 3, row 3; `ORC-GR6A3LBK5X.34d12f` |  |
+| Entropy; _printed: S_Al^FCC(298) - S_Al^FCC(0)_ | 28.25 J/mol (basis unstated)/K | 298.15 | FCC | experimental | [8] He 2021; _cites Desai 1987_ [doi](https://doi.org/10.1007/bf00503647) | Table 1, p. 3, row 3; `ORC-GR6A3LBK5X.6de0da` |  |
+| Heat capacity; _printed: C_P^liq(Tm)_ | 31.757 J/mol (basis unstated)/K |  | liquid | experimental | [8] He 2021; _cites Desai 1987_ [doi](https://doi.org/10.1007/bf00503647) | Table 1, p. 3, row 11; `ORC-L5BLUQ5SRZ.09cc4b` |  |
+| Heat capacity; _printed: C_P^liq(T_m)_ | 31.757 J/mol (basis unstated)/K |  | liquid | experimental | [8] He 2021; _cites Desai 1987_ [doi](https://doi.org/10.1007/bf00503647) | Table 1, p. 3, row 11; `ORC-L5BLUQ5SRZ.99c1f7` |  |
+| Heat capacity; _printed: C_P^liq(T_m)_ | 31.507 J/mol (basis unstated)/K |  | liquid | unspecified | [8] He 2021 | Table 1, p. 3, row 12; `ORC-OKYWDRN6KZ.7d9cb7` |  |
+| Heat capacity; _printed: C_P^liq(Tm)_ | 31.507 J/mol (basis unstated)/K |  | liquid | unspecified | [8] He 2021 | Table 1, p. 3, row 12; `ORC-OKYWDRN6KZ.c90269` |  |
+| hm lattice stability; _printed: H_Al^liq(T_m) - H_Al^FCC(T_m)_ | 10.58 kJ/mol (basis unstated) |  | liquid + FCC | unspecified | [8] He 2021 | Table 1, p. 3, row 8; `ORC-KGPZNS677U` |  |
+| hm lattice stability; _printed: H_Al^liq(T_m) - H_Al^FCC(T_m)_ | 10.58 kJ/mol (basis unstated) | 933.61 | liquid + FCC | experimental | [8] He 2021; _cites Desai 1987_ [doi](https://doi.org/10.1007/bf00503647) | Table 1, p. 3, row 7; `ORC-XXBZRK4NEQ` |  |
 
 ### Crystal structure (22)
 
@@ -90,28 +90,28 @@ Table: Crystal structure, Al system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 4.049 Å | 0 | (Al); _(Al): Al 1_ | DFT | [9] Benhafid 2019 | Table 1, p. 2, row 2 |  |
-| Lattice a; _printed: a_ | 4.041 Å |  | A1-Al | experimental | [1] Abe 2008; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 2, p. 3, row 2 |  |
-| Lattice a; _printed: a_ | 4.056 Å | 0 | A1-Al | model | [1] Abe 2008 | Table 2, p. 3, row 1 |  |
-| Lattice a; _printed: a_ | 3.242 Å | 0 | A2-Al | model | [1] Abe 2008 | Table 2, p. 3, row 23 |  |
-| Lattice a; _printed: a_ | 4.041 Å | 0 | fcc-Al | DFT | [3] Zhong 2005 | Table 3, p. 4, row 1 |  |
-| Lattice a | 4.0414 Å | 298.15 | (Al); _(Al): Al 1_ | unspecified | [10] McAlister 1989 | Table 3, p. 2, row 1 |  |
-| Lattice a | 4.2906 Å | 298.15 | (Al); _(Al): Al 1_ | experimental | [11] Murray 1987; _cites ref. 1_ | Table 3, p. 6, row 42 |  |
-| Lattice a | 4.049 Å | 298.15 | (Al); _(Al): Al 1_ | experimental | [9] Benhafid 2019; _cites Otte 1963_ [doi](https://doi.org/10.1063/1.1729148) | Table 1, p. 2, row 1 |  |
-| Lattice a | 4.0497 Å | 298.15 | Al | model | [12] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 1 |  |
-| Lattice a | 4.0496 Å | 298.15 | Al; _Al: Al 1_ | unspecified | [13] Murray 1998 | Table 3, p. 1, row 1 |  |
-| Lattice a | 4.0496 Å | 298.15 | Al; _Al: Al 1_ | unspecified | [14] Murray 1998; _cites ref. 2_ | Table 3, p. 5, row 1 |  |
-| Lattice a | 4.0496 Å | 298.15 | Al; _Al: Al 1_ | unspecified | [15] Ltd. 1997 | Table 5, p. 5, row 1 |  |
-| Lattice a | 4.0495 Å | 298.15 | Al | unspecified | [16] Saccone 1998 | Table 1, p. 8, row 15 |  |
-| Lattice a | 4.05 Å | 298.15 | Al | model | [17] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 1 |  |
-| Lattice a | 4.0496 Å | 298.15 | fcc(Al) | unspecified | [18] Long 2020 | Table 1, p. 2, row 1 |  |
-| Lattice b | 4.049 Å | 0 | (Al); _(Al): Al 1_ | DFT | [9] Benhafid 2019 | Table 1, p. 2, row 2 |  |
-| Lattice b; _printed: b_ | 4.041 Å | 0 | fcc-Al | DFT | [3] Zhong 2005 | Table 3, p. 4, row 1 |  |
-| Lattice b | 4.049 Å | 298.15 | (Al); _(Al): Al 1_ | experimental | [9] Benhafid 2019; _cites Otte 1963_ [doi](https://doi.org/10.1063/1.1729148) | Table 1, p. 2, row 1 |  |
-| Lattice b | 4.05 Å | 298.15 | Al | model | [17] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 1 |  |
-| Lattice c; _printed: c_ | 4.041 Å | 0 | fcc-Al | DFT | [3] Zhong 2005 | Table 3, p. 4, row 1 |  |
-| Lattice c | 4.05 Å | 298.15 | Al | model | [17] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 1 |  |
-| lattice unspecified axis; _printed: a = b = c_ | 4.041 Å | 0 | fcc-Al | DFT | [3] Zhong 2005 | Table 3, p. 4, row 1 |  |
+| Lattice a | 4.049 Å | 0 | (Al); _(Al): Al 1_ | DFT | [9] Benhafid 2019 | Table 1, p. 2, row 2; `ORC-GRPKO3U3M4.f27d03` |  |
+| Lattice a; _printed: a_ | 4.041 Å |  | A1-Al | experimental | [1] Abe 2008; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 2, p. 3, row 2; `ORC-E4QPNGMG2H.70e321` |  |
+| Lattice a; _printed: a_ | 4.056 Å | 0 | A1-Al | model | [1] Abe 2008 | Table 2, p. 3, row 1; `ORC-YMZGKTNVIU.32c0e2` |  |
+| Lattice a; _printed: a_ | 3.242 Å | 0 | A2-Al | model | [1] Abe 2008 | Table 2, p. 3, row 23; `ORC-PUHBWVJERU.cc8146` |  |
+| Lattice a; _printed: a_ | 4.041 Å | 0 | fcc-Al | DFT | [3] Zhong 2005 | Table 3, p. 4, row 1; `ORC-FQHD3UBOWV.0dd352` |  |
+| Lattice a | 4.0414 Å | 298.15 | (Al); _(Al): Al 1_ | unspecified | [10] McAlister 1989 | Table 3, p. 2, row 1; `ORC-2AHICSJKON` |  |
+| Lattice a | 4.2906 Å | 298.15 | (Al); _(Al): Al 1_ | experimental | [11] Murray 1987; _cites ref. 1_ | Table 3, p. 6, row 42; `ORC-SQKLNA5IP3.95f123` |  |
+| Lattice a | 4.049 Å | 298.15 | (Al); _(Al): Al 1_ | experimental | [9] Benhafid 2019; _cites Otte 1963_ [doi](https://doi.org/10.1063/1.1729148) | Table 1, p. 2, row 1; `ORC-WJOJ2SL2Q2.2e4d6f` |  |
+| Lattice a | 4.0497 Å | 298.15 | Al | model | [12] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 1; `ORC-KSJXIFYV7S` |  |
+| Lattice a | 4.0496 Å | 298.15 | Al; _Al: Al 1_ | unspecified | [13] Murray 1998 | Table 3, p. 1, row 1; `ORC-OYKXDZO6DR` |  |
+| Lattice a | 4.0496 Å | 298.15 | Al; _Al: Al 1_ | unspecified | [14] Murray 1998; _cites ref. 2_ | Table 3, p. 5, row 1; `ORC-PUC2XPM7OU` |  |
+| Lattice a | 4.0496 Å | 298.15 | Al; _Al: Al 1_ | unspecified | [15] Ltd. 1997 | Table 5, p. 5, row 1; `ORC-UHBZI5I2SH` |  |
+| Lattice a | 4.0495 Å | 298.15 | Al | unspecified | [16] Saccone 1998 | Table 1, p. 8, row 15; `ORC-UQLHTIR7CP` |  |
+| Lattice a | 4.05 Å | 298.15 | Al | model | [17] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 1; `ORC-VFHA3ARVTS.e22eec` |  |
+| Lattice a | 4.0496 Å | 298.15 | fcc(Al) | unspecified | [18] Long 2020 | Table 1, p. 2, row 1; `ORC-ZR6WGI326A` |  |
+| Lattice b | 4.049 Å | 0 | (Al); _(Al): Al 1_ | DFT | [9] Benhafid 2019 | Table 1, p. 2, row 2; `ORC-GRPKO3U3M4.d056dc` |  |
+| Lattice b; _printed: b_ | 4.041 Å | 0 | fcc-Al | DFT | [3] Zhong 2005 | Table 3, p. 4, row 1; `ORC-FQHD3UBOWV.1cc83c` |  |
+| Lattice b | 4.049 Å | 298.15 | (Al); _(Al): Al 1_ | experimental | [9] Benhafid 2019; _cites Otte 1963_ [doi](https://doi.org/10.1063/1.1729148) | Table 1, p. 2, row 1; `ORC-WJOJ2SL2Q2.af6be2` |  |
+| Lattice b | 4.05 Å | 298.15 | Al | model | [17] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 1; `ORC-VFHA3ARVTS.4311cd` |  |
+| Lattice c; _printed: c_ | 4.041 Å | 0 | fcc-Al | DFT | [3] Zhong 2005 | Table 3, p. 4, row 1; `ORC-FQHD3UBOWV.405635` |  |
+| Lattice c | 4.05 Å | 298.15 | Al | model | [17] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 1; `ORC-VFHA3ARVTS.ea2408` |  |
+| lattice unspecified axis; _printed: a = b = c_ | 4.041 Å | 0 | fcc-Al | DFT | [3] Zhong 2005 | Table 3, p. 4, row 1; `ORC-FQHD3UBOWV.45b57c` |  |
 
 ## Sources
 
@@ -171,4 +171,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

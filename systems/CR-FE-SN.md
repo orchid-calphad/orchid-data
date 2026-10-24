@@ -28,9 +28,9 @@ Table: Phase equilibrium, Cr–Fe–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 1073 | A5\* + bcc; _A5\*: Cr 0.031, Fe 0.036, Sn 0.933; bcc: Cr 0.54, Fe 0.453, Sn 0.007_ | experimental | [1] Lafaye 2021 | Table 5, p. 7, row 1 |  |
-| Phase composition |  | 1073 | A5\* + bcc; _A5\*: Cr 0.036, Fe 0.029, Sn 0.935; bcc: Cr 0.777, Fe 0.218, Sn 0.005_ | experimental | [1] Lafaye 2021 | Table 5, p. 7, row 2 |  |
-| Phase composition |  | 1073 | A5\* + bcc; _A5\*: Cr 0.031, Fe 0.056, Sn 0.913; bcc: Cr 0.337, Fe 0.651, Sn 0.012_ | experimental | [1] Lafaye 2021 | Table 5, p. 7, row 3 |  |
+| Phase composition |  | 1073 | A5\* + bcc; _A5\*: Cr 0.031, Fe 0.036, Sn 0.933; bcc: Cr 0.54, Fe 0.453, Sn 0.007_ | experimental | [1] Lafaye 2021 | Table 5, p. 7, row 1; `ORC-GAHVEAZ2IJ` |  |
+| Phase composition |  | 1073 | A5\* + bcc; _A5\*: Cr 0.036, Fe 0.029, Sn 0.935; bcc: Cr 0.777, Fe 0.218, Sn 0.005_ | experimental | [1] Lafaye 2021 | Table 5, p. 7, row 2; `ORC-V5LQSUXTA7` |  |
+| Phase composition |  | 1073 | A5\* + bcc; _A5\*: Cr 0.031, Fe 0.056, Sn 0.913; bcc: Cr 0.337, Fe 0.651, Sn 0.012_ | experimental | [1] Lafaye 2021 | Table 5, p. 7, row 3; `ORC-ZUEQ4VLCFU` |  |
 
 ## Sources
 
@@ -73,4 +73,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

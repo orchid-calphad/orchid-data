@@ -14,15 +14,15 @@ Table: Enthalpy of formation of Ag2O reported in the literature (9)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -30.54 kJ/mol (basis unstated) | Ag2O | 298.15 | experimental | Solution calorimetry | [Ag–O](https://data.orchid-project.org/systems/AG-O.html) | [1] Assal 1997; _cites Pitzer 1937_ | Table V, p. 6, row 3 |  |
-| -26.53 kJ/mol (basis unstated) | Ag2O | 298.15 | experimental | Reviewed† | [Ag–O](https://data.orchid-project.org/systems/AG-O.html) | [1] Assal 1997; _cites Lewis 1906_ | Table V, p. 6, row 1 |  |
-| -22.6 kJ/mol (basis unstated) | Ag2O | 298.15 | experimental | Reaction calorimetry | [Ag–O](https://data.orchid-project.org/systems/AG-O.html) | [1] Assal 1997; _cites Mixter 1911_ | Table V, p. 6, row 2 |  |
-| -31.1 kJ/mol (basis unstated) | Ag2O | 298.15 | model | Assessed | [Ag–O](https://data.orchid-project.org/systems/AG-O.html) | [1] Assal 1997; _cites Kubaschewski 1993_ | Table V, p. 6, row 4 |  |
-| -30.68 kJ/mol (basis unstated) | Ag2O | 298.15 | model | Calculated | [Ag–O](https://data.orchid-project.org/systems/AG-O.html) | [1] Assal 1997 | Table V, p. 6, row 6 |  |
-| -29.99 kJ/mol (basis unstated) | Ag2O | 773 | model | Calculated | [Ag–O](https://data.orchid-project.org/systems/AG-O.html) | [1] Assal 1997 | Table V, p. 6, row 7 |  |
-| -29.44 kJ/mol (basis unstated) | Ag2O | 609.5 | model | Calculated from Refs. 7, 14, and 33 | [Ag–O](https://data.orchid-project.org/systems/AG-O.html) | [1] Assal 1997; _cites Pitzer 1937_ | Table V, p. 6, row 5 |  |
-| -25.81 kJ/mol (basis unstated) | Ag2O | 773 | model | Calculated | [Ag–O](https://data.orchid-project.org/systems/AG-O.html) | [1] Assal 1997 | Table V, p. 6, row 7 |  |
-| -25.81 kJ/mol (basis unstated) | Ag2O | 773 | model | Calculated | [Ag–O](https://data.orchid-project.org/systems/AG-O.html) | [1] Assal 1997 | Table V, p. 6, row 8 |  |
+| -30.54 kJ/mol (basis unstated) | Ag2O | 298.15 | experimental | Solution calorimetry | [Ag–O](https://data.orchid-project.org/systems/AG-O.html) | [1] Assal 1997; _cites Pitzer 1937_ | Table V, p. 6, row 3; `ORC-GTVWBTH2DK` |  |
+| -26.53 kJ/mol (basis unstated) | Ag2O | 298.15 | experimental | Reviewed† | [Ag–O](https://data.orchid-project.org/systems/AG-O.html) | [1] Assal 1997; _cites Lewis 1906_ | Table V, p. 6, row 1; `ORC-QPT5LPZO7I` |  |
+| -22.6 kJ/mol (basis unstated) | Ag2O | 298.15 | experimental | Reaction calorimetry | [Ag–O](https://data.orchid-project.org/systems/AG-O.html) | [1] Assal 1997; _cites Mixter 1911_ | Table V, p. 6, row 2; `ORC-IVQPHJSZYY` |  |
+| -31.1 kJ/mol (basis unstated) | Ag2O | 298.15 | model | Assessed | [Ag–O](https://data.orchid-project.org/systems/AG-O.html) | [1] Assal 1997; _cites Kubaschewski 1993_ | Table V, p. 6, row 4; `ORC-YKHQTP4PHB` |  |
+| -30.68 kJ/mol (basis unstated) | Ag2O | 298.15 | model | Calculated | [Ag–O](https://data.orchid-project.org/systems/AG-O.html) | [1] Assal 1997 | Table V, p. 6, row 6; `ORC-B54EZ7YTTE` |  |
+| -29.99 kJ/mol (basis unstated) | Ag2O | 773 | model | Calculated | [Ag–O](https://data.orchid-project.org/systems/AG-O.html) | [1] Assal 1997 | Table V, p. 6, row 7; `ORC-CQ2UMNQX5Z.83cf17` |  |
+| -29.44 kJ/mol (basis unstated) | Ag2O | 609.5 | model | Calculated from Refs. 7, 14, and 33 | [Ag–O](https://data.orchid-project.org/systems/AG-O.html) | [1] Assal 1997; _cites Pitzer 1937_ | Table V, p. 6, row 5; `ORC-YQ7XUB3RNX` |  |
+| -25.81 kJ/mol (basis unstated) | Ag2O | 773 | model | Calculated | [Ag–O](https://data.orchid-project.org/systems/AG-O.html) | [1] Assal 1997 | Table V, p. 6, row 7; `ORC-CQ2UMNQX5Z.b6af84` |  |
+| -25.81 kJ/mol (basis unstated) | Ag2O | 773 | model | Calculated | [Ag–O](https://data.orchid-project.org/systems/AG-O.html) | [1] Assal 1997 | Table V, p. 6, row 8; `ORC-YIERJAQR5V` |  |
 
 ### Uncertainty budget
 
@@ -93,4 +93,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

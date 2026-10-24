@@ -59,24 +59,24 @@ Table: Invariant reactions reported in the literature for the Bi–Tb system (18
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2033.15 | congruent melting: L -> BiTb | L: Tb 0.5; BiTb: Tb 0.5 | model | [1] Wang 2011 | Table 2, p. 3, row 4 |  |
-| 2033.15 | congruent melting: L -> BiTb | L: Tb 0.5; BiTb: Tb 0.5 | experimental | [1] Wang 2011; _cites Abulkhaev 1997_ | Table 2, p. 3, row 3 |  |
-| 1873.15 | peritectic |  | experimental | [1] Wang 2011; _cites Abulkhaev 1997_ | p. 1 | “Based on differential thermal analysis, x-ray diffraction and microstructural analysis, Abulkhaev\[14\] investigated the phase diagram of the Bi-Tb system, and reported three stoichiometric compounds: BiTb (melting point, 1760 ± 15 C), Bi3Tb4 (peritectic formation at 1600 ± 15 C) and Bi3Tb5 (peritectic formation at 1490 ± 15 C).” |
-| 1873.15 | peritectic: L + BiTb -> Bi3Tb4 | BiTb: Tb 0.5; Bi3Tb4: Tb 0.571 | experimental | [1] Wang 2011; _cites Abulkhaev 1997_ | Table 2, p. 3, row 5 |  |
-| 1873.15 | peritectic: L + BiTb -> Bi3Tb4 | L: Tb 0.623; BiTb: Tb 0.5; Bi3Tb4: Tb 0.571 | model | [1] Wang 2011 | Table 2, p. 3, row 6 |  |
-| 1763.15 | peritectic |  | experimental | [1] Wang 2011; _cites Abulkhaev 1997_ | p. 1 | “Based on differential thermal analysis, x-ray diffraction and microstructural analysis, Abulkhaev\[14\] investigated the phase diagram of the Bi-Tb system, and reported three stoichiometric compounds: BiTb (melting point, 1760 ± 15 C), Bi3Tb4 (peritectic formation at 1600 ± 15 C) and Bi3Tb5 (peritectic formation at 1490 ± 15 C).” |
-| 1763.15 | peritectic: L + Bi3Tb4 -> βBi3Tb5 | Bi3Tb4: Tb 0.5; βBi3Tb5: Tb 0.571 | experimental | [1] Wang 2011; _cites Abulkhaev 1997_ | Table 2, p. 3, row 7 |  |
-| 1763.05 | peritectic: L + Bi3Tb4 -> βBi3Tb5 | L: Tb 0.687; Bi3Tb4: Tb 0.5; βBi3Tb5: Tb 0.571 | model | [1] Wang 2011 | Table 2, p. 3, row 8 |  |
-| 1683.15 | polymorphic: αBi3Tb5 -> βBi3Tb5 | αBi3Tb5: Tb 0.625; βBi3Tb5: Bi 0.375, Tb 0.625 | experimental | [1] Wang 2011; _cites Abulkhaev 1997_ | Table 2, p. 3, row 9 |  |
-| 1683.05 | polymorphic: αBi3Tb5 -> βBi3Tb5 | αBi3Tb5: Tb 0.625; βBi3Tb5: Bi 0.375, Tb 0.625 | model | [1] Wang 2011 | Table 2, p. 3, row 10 |  |
-| 1539.55 | metatectic/catatectic: βTb -> L + αTb | βTb: Tb 0.991; L: Tb 0.924; αTb: Tb 0.995 | model | [1] Wang 2011 | Table 2, p. 3, row 14 |  |
-| 1538.15 | metatectic/catatectic: βTb -> L + αTb |  | experimental | [1] Wang 2011; _cites Abulkhaev 1997_ | Table 2, p. 3, row 13 |  |
-| 1378.15 | eutectic |  | experimental | [1] Wang 2011; _cites Abulkhaev 1997_ | p. 1 | “Abulkhaev\[14\] also determined a metatectic reaction (bTb (99 at.% Tb) M L + aTb (>99 at.% Tb) at 1538 ± 10 C) and two eutectic reactions: L (0.2 at.% Tb) M (Bi) + BiTb at 269 ± 2 C and L (83 ± 1 at.% Tb) M aTb (>99 at.% Tb) + aBi3Tb5 at 1105 ± 10 C.” |
-| 1378.15 | eutectic: L -> αBi3Tb5 + αTb | L: Tb 0.83; αBi3Tb5: Tb 0.625 | experimental | [1] Wang 2011; _cites Abulkhaev 1997_ | Table 2, p. 3, row 11 |  |
-| 1377.75 | eutectic: L -> αBi3Tb5 + αTb | L: Tb 0.848; αBi3Tb5: Tb 0.625; αTb: Tb 0.992 | model | [1] Wang 2011 | Table 2, p. 3, row 12 |  |
-| 543.45 | eutectic: L -> (Bi) + BiTb | L: Tb 0.005; (Bi): Tb 0; BiTb: Tb 0.5 | model | [1] Wang 2011 | Table 2, p. 3, row 2 |  |
-| 542.15 | eutectic |  | experimental | [1] Wang 2011; _cites Abulkhaev 1997_ | p. 1 | “Abulkhaev\[14\] also determined a metatectic reaction (bTb (99 at.% Tb) M L + aTb (>99 at.% Tb) at 1538 ± 10 C) and two eutectic reactions: L (0.2 at.% Tb) M (Bi) + BiTb at 269 ± 2 C and L (83 ± 1 at.% Tb) M aTb (>99 at.% Tb) + aBi3Tb5 at 1105 ± 10 C.” |
-| 542.15 | eutectic: L -> (Bi) + BiTb | L: Tb 0.002; (Bi): Tb 0; BiTb: Tb 0.5 | experimental | [1] Wang 2011; _cites Abulkhaev 1997_ | Table 2, p. 3, row 1 |  |
+| 2033.15 | congruent melting: L -> BiTb | L: Tb 0.5; BiTb: Tb 0.5 | model | [1] Wang 2011 | Table 2, p. 3, row 4; `ORC-T4R27JUAAU` |  |
+| 2033.15 | congruent melting: L -> BiTb | L: Tb 0.5; BiTb: Tb 0.5 | experimental | [1] Wang 2011; _cites Abulkhaev 1997_ | Table 2, p. 3, row 3; `ORC-ZWVWWMTCTC` |  |
+| 1873.15 | peritectic |  | experimental | [1] Wang 2011; _cites Abulkhaev 1997_ | p. 1; `ORC-CJRWUBNKJD.7259ce` | “Based on differential thermal analysis, x-ray diffraction and microstructural analysis, Abulkhaev\[14\] investigated the phase diagram of the Bi-Tb system, and reported three stoichiometric compounds: BiTb (melting point, 1760 ± 15 C), Bi3Tb4 (peritectic formation at 1600 ± 15 C) and Bi3Tb5 (peritectic formation at 1490 ± 15 C).” |
+| 1873.15 | peritectic: L + BiTb -> Bi3Tb4 | BiTb: Tb 0.5; Bi3Tb4: Tb 0.571 | experimental | [1] Wang 2011; _cites Abulkhaev 1997_ | Table 2, p. 3, row 5; `ORC-JKPEHGBLSO` |  |
+| 1873.15 | peritectic: L + BiTb -> Bi3Tb4 | L: Tb 0.623; BiTb: Tb 0.5; Bi3Tb4: Tb 0.571 | model | [1] Wang 2011 | Table 2, p. 3, row 6; `ORC-TV5OLMBEHN` |  |
+| 1763.15 | peritectic |  | experimental | [1] Wang 2011; _cites Abulkhaev 1997_ | p. 1; `ORC-CJRWUBNKJD.d1e4c7` | “Based on differential thermal analysis, x-ray diffraction and microstructural analysis, Abulkhaev\[14\] investigated the phase diagram of the Bi-Tb system, and reported three stoichiometric compounds: BiTb (melting point, 1760 ± 15 C), Bi3Tb4 (peritectic formation at 1600 ± 15 C) and Bi3Tb5 (peritectic formation at 1490 ± 15 C).” |
+| 1763.15 | peritectic: L + Bi3Tb4 -> βBi3Tb5 | Bi3Tb4: Tb 0.5; βBi3Tb5: Tb 0.571 | experimental | [1] Wang 2011; _cites Abulkhaev 1997_ | Table 2, p. 3, row 7; `ORC-JSNJZPPAHA` |  |
+| 1763.05 | peritectic: L + Bi3Tb4 -> βBi3Tb5 | L: Tb 0.687; Bi3Tb4: Tb 0.5; βBi3Tb5: Tb 0.571 | model | [1] Wang 2011 | Table 2, p. 3, row 8; `ORC-ZGAQUOD2TE` |  |
+| 1683.15 | polymorphic: αBi3Tb5 -> βBi3Tb5 | αBi3Tb5: Tb 0.625; βBi3Tb5: Bi 0.375, Tb 0.625 | experimental | [1] Wang 2011; _cites Abulkhaev 1997_ | Table 2, p. 3, row 9; `ORC-IXEIHCNIJM` |  |
+| 1683.05 | polymorphic: αBi3Tb5 -> βBi3Tb5 | αBi3Tb5: Tb 0.625; βBi3Tb5: Bi 0.375, Tb 0.625 | model | [1] Wang 2011 | Table 2, p. 3, row 10; `ORC-RX7MKCFYOH` |  |
+| 1539.55 | metatectic/catatectic: βTb -> L + αTb | βTb: Tb 0.991; L: Tb 0.924; αTb: Tb 0.995 | model | [1] Wang 2011 | Table 2, p. 3, row 14; `ORC-HF7YKRKAOM` |  |
+| 1538.15 | metatectic/catatectic: βTb -> L + αTb |  | experimental | [1] Wang 2011; _cites Abulkhaev 1997_ | Table 2, p. 3, row 13; `ORC-QWX7Z6D7K3` |  |
+| 1378.15 | eutectic |  | experimental | [1] Wang 2011; _cites Abulkhaev 1997_ | p. 1; `ORC-D474SDFZUO.15bd6c` | “Abulkhaev\[14\] also determined a metatectic reaction (bTb (99 at.% Tb) M L + aTb (>99 at.% Tb) at 1538 ± 10 C) and two eutectic reactions: L (0.2 at.% Tb) M (Bi) + BiTb at 269 ± 2 C and L (83 ± 1 at.% Tb) M aTb (>99 at.% Tb) + aBi3Tb5 at 1105 ± 10 C.” |
+| 1378.15 | eutectic: L -> αBi3Tb5 + αTb | L: Tb 0.83; αBi3Tb5: Tb 0.625 | experimental | [1] Wang 2011; _cites Abulkhaev 1997_ | Table 2, p. 3, row 11; `ORC-LQEJCV6O54` |  |
+| 1377.75 | eutectic: L -> αBi3Tb5 + αTb | L: Tb 0.848; αBi3Tb5: Tb 0.625; αTb: Tb 0.992 | model | [1] Wang 2011 | Table 2, p. 3, row 12; `ORC-Q4JHOCZX4Z` |  |
+| 543.45 | eutectic: L -> (Bi) + BiTb | L: Tb 0.005; (Bi): Tb 0; BiTb: Tb 0.5 | model | [1] Wang 2011 | Table 2, p. 3, row 2; `ORC-YIAICMT4LD` |  |
+| 542.15 | eutectic |  | experimental | [1] Wang 2011; _cites Abulkhaev 1997_ | p. 1; `ORC-D474SDFZUO.d5e303` | “Abulkhaev\[14\] also determined a metatectic reaction (bTb (99 at.% Tb) M L + aTb (>99 at.% Tb) at 1538 ± 10 C) and two eutectic reactions: L (0.2 at.% Tb) M (Bi) + BiTb at 269 ± 2 C and L (83 ± 1 at.% Tb) M aTb (>99 at.% Tb) + aBi3Tb5 at 1105 ± 10 C.” |
+| 542.15 | eutectic: L -> (Bi) + BiTb | L: Tb 0.002; (Bi): Tb 0; BiTb: Tb 0.5 | experimental | [1] Wang 2011; _cites Abulkhaev 1997_ | Table 2, p. 3, row 1; `ORC-HUEMK4WP75` |  |
 
 ## Other properties
 
@@ -86,8 +86,8 @@ Table: Phase transition, Bi–Tb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1683.15 K | 1683.15 | polymorphic: aBi3Tb5 M bBi3Tb5 | experimental | [1] Wang 2011; _cites Abulkhaev 1997_ | p. 1 | “A reversible polymorphic transition (aBi3Tb5 M bBi3Tb5 at 1410 ± 10 C) was observed by Abulkhaev.\[14\]” |
-| Phase transition | 2033.15 K | 2033.15 |  | experimental | [1] Wang 2011; _cites Abulkhaev 1997_ | p. 1 | “Based on differential thermal analysis, x-ray diffraction and microstructural analysis, Abulkhaev\[14\] investigated the phase diagram of the Bi-Tb system, and reported three stoichiometric compounds: BiTb (melting point, 1760 ± 15 C), Bi3Tb4 (peritectic formation at 1600 ± 15 C) and Bi3Tb5 (peritectic formation at 1490 ± 15 C).” |
+| Phase transition | 1683.15 K | 1683.15 | polymorphic: aBi3Tb5 M bBi3Tb5 | experimental | [1] Wang 2011; _cites Abulkhaev 1997_ | p. 1; `ORC-GG7DYATQBW` | “A reversible polymorphic transition (aBi3Tb5 M bBi3Tb5 at 1410 ± 10 C) was observed by Abulkhaev.\[14\]” |
+| Phase transition | 2033.15 K | 2033.15 |  | experimental | [1] Wang 2011; _cites Abulkhaev 1997_ | p. 1; `ORC-CJRWUBNKJD.422eea` | “Based on differential thermal analysis, x-ray diffraction and microstructural analysis, Abulkhaev\[14\] investigated the phase diagram of the Bi-Tb system, and reported three stoichiometric compounds: BiTb (melting point, 1760 ± 15 C), Bi3Tb4 (peritectic formation at 1600 ± 15 C) and Bi3Tb5 (peritectic formation at 1490 ± 15 C).” |
 
 ## Sources
 
@@ -152,4 +152,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

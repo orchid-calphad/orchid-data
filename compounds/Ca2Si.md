@@ -14,19 +14,19 @@ Table: Enthalpy of formation of Ca2Si reported in the literature (13)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -483 kJ/mol (basis unstated) | Ca2Si | 298.15 | experimental | calorimetry | [Ca–Si](https://data.orchid-project.org/systems/CA-SI.html) | [1] Anglezio 1994; _cites ref. 62Shc_ | Table III, p. 12, row 1 |  |
-| -254.352 kJ/mol (basis unstated) | Ca2Si | 298.15 | experimental | effusion method | [Ca–Si](https://data.orchid-project.org/systems/CA-SI.html) | [1] Anglezio 1994; _cites ref. 67Mur_ | Table III, p. 12, row 3 |  |
-| -254.35 kJ/mol-atom | Ca2Si | 298.15 | experimental | Effusion | [Ca–Si](https://data.orchid-project.org/systems/CA-SI.html) | [2] Gröbner 2003; _cites Zviadadze 2003_ | Table 1, p. 2, row 4 |  |
-| -209 kJ/mol-atom | Ca2Si | 298.15 | experimental |  | [Ca–Si](https://data.orchid-project.org/systems/CA-SI.html) | [2] Gröbner 2003; _cites Muradov 1967_ | Table 1, p. 2, row 6 |  |
-| -71.4 kJ/mol-atom | Ca2Si | 298.15 | experimental | Calorimetry at 940K | [Ca–Si](https://data.orchid-project.org/systems/CA-SI.html) | [2] Gröbner 2003; _cites Wynnyckyj 1972_ | Table 1, p. 2, row 1 |  |
-| -56.1 kJ/mol-atom | Ca2Si | 298.15 | experimental | Knudsen cell | [Ca–Si](https://data.orchid-project.org/systems/CA-SI.html) | [2] Gröbner 2003; _cites Sudatsova 1988_ | Table 1, p. 2, row 10 |  |
-| -48.3 kJ/mol-atom | Ca2Si | 298.15 | experimental | Calorimetry | [Ca–Si](https://data.orchid-project.org/systems/CA-SI.html) | [2] Gröbner 2003; _cites Kubaschewski 1949_ | Table 1, p. 2, row 2 |  |
-| -209 kJ/mol-atom | Ca2Si | 298.15 | model | Calphad | [Ca–Si](https://data.orchid-project.org/systems/CA-SI.html) | [2] Gröbner 2003; _cites Anglezio 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990034-5) | Table 1, p. 2, row 9 |  |
-| -209 kJ/mol (basis unstated) | Ca2Si |  | model |  | [Ca–Si](https://data.orchid-project.org/systems/CA-SI.html) | [1] Anglezio 1994 | Table III, p. 12, row 8 |  |
-| -56.1 kJ/mol-atom | Ca2Si | 298.15 | model | Calphad | [Ca–Si](https://data.orchid-project.org/systems/CA-SI.html) | [2] Gröbner 2003 | Table 1, p. 2, row 11 |  |
-| -23.864 kJ/mol (basis unstated) | Ca2Si |  | model | phase diagram analysis | [Ca–Si](https://data.orchid-project.org/systems/CA-SI.html) | [1] Anglezio 1994; _cites ref. 86Lee_ | Table III, p. 12, row 7 |  |
-| -23.86 kJ/mol-atom | Ca2Si | 298.15 | model | Calphad | [Ca–Si](https://data.orchid-project.org/systems/CA-SI.html) | [2] Gröbner 2003; _cites Lee 1986_ | Table 1, p. 2, row 8 |  |
-| -209 kJ/mol (basis unstated) | Ca2Si |  | unspecified |  | [Ca–Si](https://data.orchid-project.org/systems/CA-SI.html) | [1] Anglezio 1994; _cites ref. 82Wag_ | Table III, p. 12, row 5 |  |
+| -483 kJ/mol (basis unstated) | Ca2Si | 298.15 | experimental | calorimetry | [Ca–Si](https://data.orchid-project.org/systems/CA-SI.html) | [1] Anglezio 1994; _cites ref. 62Shc_ | Table III, p. 12, row 1; `ORC-4PJ5LDNA3U` |  |
+| -254.352 kJ/mol (basis unstated) | Ca2Si | 298.15 | experimental | effusion method | [Ca–Si](https://data.orchid-project.org/systems/CA-SI.html) | [1] Anglezio 1994; _cites ref. 67Mur_ | Table III, p. 12, row 3; `ORC-JZPRQCK6LV.6f5dfd` |  |
+| -254.35 kJ/mol-atom | Ca2Si | 298.15 | experimental | Effusion | [Ca–Si](https://data.orchid-project.org/systems/CA-SI.html) | [2] Gröbner 2003; _cites Zviadadze 2003_ | Table 1, p. 2, row 4; `ORC-5UBITMWKOB.6652b8` |  |
+| -209 kJ/mol-atom | Ca2Si | 298.15 | experimental |  | [Ca–Si](https://data.orchid-project.org/systems/CA-SI.html) | [2] Gröbner 2003; _cites Muradov 1967_ | Table 1, p. 2, row 6; `ORC-4M4CL2ZEFR.f6076c` |  |
+| -71.4 kJ/mol-atom | Ca2Si | 298.15 | experimental | Calorimetry at 940K | [Ca–Si](https://data.orchid-project.org/systems/CA-SI.html) | [2] Gröbner 2003; _cites Wynnyckyj 1972_ | Table 1, p. 2, row 1; `ORC-F6T2FC7SLV.bfb311` |  |
+| -56.1 kJ/mol-atom | Ca2Si | 298.15 | experimental | Knudsen cell | [Ca–Si](https://data.orchid-project.org/systems/CA-SI.html) | [2] Gröbner 2003; _cites Sudatsova 1988_ | Table 1, p. 2, row 10; `ORC-6N2AN7HUCW.666538` |  |
+| -48.3 kJ/mol-atom | Ca2Si | 298.15 | experimental | Calorimetry | [Ca–Si](https://data.orchid-project.org/systems/CA-SI.html) | [2] Gröbner 2003; _cites Kubaschewski 1949_ | Table 1, p. 2, row 2; `ORC-VOQICLLMUA` |  |
+| -209 kJ/mol-atom | Ca2Si | 298.15 | model | Calphad | [Ca–Si](https://data.orchid-project.org/systems/CA-SI.html) | [2] Gröbner 2003; _cites Anglezio 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990034-5) | Table 1, p. 2, row 9; `ORC-DSIDS2MAX2.9b2cda` |  |
+| -209 kJ/mol (basis unstated) | Ca2Si |  | model |  | [Ca–Si](https://data.orchid-project.org/systems/CA-SI.html) | [1] Anglezio 1994 | Table III, p. 12, row 8; `ORC-SGG43HL74Z.f8ca49` |  |
+| -56.1 kJ/mol-atom | Ca2Si | 298.15 | model | Calphad | [Ca–Si](https://data.orchid-project.org/systems/CA-SI.html) | [2] Gröbner 2003 | Table 1, p. 2, row 11; `ORC-O66YRHEN77.ed824e` |  |
+| -23.864 kJ/mol (basis unstated) | Ca2Si |  | model | phase diagram analysis | [Ca–Si](https://data.orchid-project.org/systems/CA-SI.html) | [1] Anglezio 1994; _cites ref. 86Lee_ | Table III, p. 12, row 7; `ORC-G3QGQT2UTI.90da11` |  |
+| -23.86 kJ/mol-atom | Ca2Si | 298.15 | model | Calphad | [Ca–Si](https://data.orchid-project.org/systems/CA-SI.html) | [2] Gröbner 2003; _cites Lee 1986_ | Table 1, p. 2, row 8; `ORC-3HYDEZEJHJ.c9f16c` |  |
+| -209 kJ/mol (basis unstated) | Ca2Si |  | unspecified |  | [Ca–Si](https://data.orchid-project.org/systems/CA-SI.html) | [1] Anglezio 1994; _cites ref. 82Wag_ | Table III, p. 12, row 5; `ORC-NHL3WKUEZI.ecff0a` |  |
 
 ### Uncertainty budget
 
@@ -115,4 +115,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

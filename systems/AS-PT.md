@@ -30,11 +30,11 @@ Table: Invariant reactions reported in the literature for the As–Pt system (5)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1073 | L -> As2Pt + Rhom(As) | As2Pt: As 0.666667; Rhom(As): As 1 | model | [1] Li 2007 | Table 1, p. 2, row 6 |  |
-| 873 | L -> fcc(Pt) + As2Pt | As2Pt: As 0.666667 | experimental | [1] Li 2007; _cites Richter 1993_ | Table 1, p. 2, row 2 |  |
-| 873 | L -> fcc(Pt) + As2Pt | As2Pt: As 0.666667 | model | [1] Li 2007 | Table 1, p. 2, row 3 |  |
-| 873 | eutectic: L → As2 Pt + Pt |  | experimental | [1] Li 2007; _cites Fridrich 1908_ | p. 2 | “But Richter and Ipser \[14\] reinvestigated the phase diagram by differential thermal analysis (DTA) and confirmed that there is no existence of the phase As3 Pt2 . The L → As2 Pt + Pt eutectic temperature was found at 873 K, which was consistent with the experiment result from Fridrich and Leroux \[13\].” |
-| 870 | L -> fcc(Pt) + As2Pt | As2Pt: As 0.666667 | experimental | [1] Li 2007; _cites Fridrich 1908_ | Table 1, p. 2, row 1 |  |
+| 1073 | L -> As2Pt + Rhom(As) | As2Pt: As 0.666667; Rhom(As): As 1 | model | [1] Li 2007 | Table 1, p. 2, row 6; `ORC-ZXQYSUTW2P` |  |
+| 873 | L -> fcc(Pt) + As2Pt | As2Pt: As 0.666667 | experimental | [1] Li 2007; _cites Richter 1993_ | Table 1, p. 2, row 2; `ORC-3HDTU24CNU` |  |
+| 873 | L -> fcc(Pt) + As2Pt | As2Pt: As 0.666667 | model | [1] Li 2007 | Table 1, p. 2, row 3; `ORC-77SJDG3ERP` |  |
+| 873 | eutectic: L → As2 Pt + Pt |  | experimental | [1] Li 2007; _cites Fridrich 1908_ | p. 2; `ORC-R4MHBLZEP5` | “But Richter and Ipser \[14\] reinvestigated the phase diagram by differential thermal analysis (DTA) and confirmed that there is no existence of the phase As3 Pt2 . The L → As2 Pt + Pt eutectic temperature was found at 873 K, which was consistent with the experiment result from Fridrich and Leroux \[13\].” |
+| 870 | L -> fcc(Pt) + As2Pt | As2Pt: As 0.666667 | experimental | [1] Li 2007; _cites Fridrich 1908_ | Table 1, p. 2, row 1; `ORC-IRC6443QCD` |  |
 
 ## Other properties
 
@@ -44,8 +44,8 @@ Table: Phase transition, As–Pt system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1748 K | 1748 | L -> As2Pt; _L: As 0.666667; As2Pt: As 0.666667_ | model | [1] Li 2007 | Table 1, p. 2, row 5 |  |
-| Phase transition | 1748 K | 1748 | L -> As2Pt; _L: As 0.666667; As2Pt: As 0.666667_ | experimental | [1] Li 2007; _cites Okamoto 1990_ [doi](https://doi.org/10.1007/bf02898270) | Table 1, p. 2, row 4 |  |
+| Phase transition | 1748 K | 1748 | L -> As2Pt; _L: As 0.666667; As2Pt: As 0.666667_ | model | [1] Li 2007 | Table 1, p. 2, row 5; `ORC-KB2TKTDX7Y` |  |
+| Phase transition | 1748 K | 1748 | L -> As2Pt; _L: As 0.666667; As2Pt: As 0.666667_ | experimental | [1] Li 2007; _cites Okamoto 1990_ [doi](https://doi.org/10.1007/bf02898270) | Table 1, p. 2, row 4; `ORC-MK4RPXEGUE` |  |
 
 ## Sources
 
@@ -99,4 +99,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

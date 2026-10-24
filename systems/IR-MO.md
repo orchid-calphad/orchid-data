@@ -59,24 +59,24 @@ Table: Crystal structure, Ir–Mo system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 5.487 Å |  | Ir3Mo; _alloy: Mo 0.25_ | model | [1] Huang 2020 | Table 1, p. 3, row 8 |  |
-| Lattice a | 2.752 Å |  | IrMo; _alloy: Mo 0.5_ | model | [1] Huang 2020 | Table 1, p. 3, row 6 |  |
-| Lattice a | 4.972 Å |  | IrMo3; _alloy: Mo 0.75_ | model | [1] Huang 2020 | Table 1, p. 3, row 2 |  |
-| Lattice a | 5.487 Å | 298.15 | Ir3Mo; _alloy: Mo 0.25_ | experimental | [1] Huang 2020; _cites Giessen 1965_ | Table 1, p. 3, row 7 |  |
-| Lattice a | 2.752 Å | 298.15 | IrMo; _alloy: Mo 0.5_ | experimental | [1] Huang 2020; _cites Giessen 1965_ | Table 1, p. 3, row 5 |  |
-| Lattice a | 4.959 Å | 298.15 | IrMo3; _alloy: Mo 0.75_ | experimental | [1] Huang 2020; _cites Michalik 1963_ | Table 1, p. 3, row 1 |  |
-| Lattice b | 5.487 Å |  | Ir3Mo; _alloy: Mo 0.25_ | model | [1] Huang 2020 | Table 1, p. 3, row 8 |  |
-| Lattice b | 4.804 Å |  | IrMo; _alloy: Mo 0.5_ | model | [1] Huang 2020 | Table 1, p. 3, row 6 |  |
-| Lattice b | 4.972 Å |  | IrMo3; _alloy: Mo 0.75_ | model | [1] Huang 2020 | Table 1, p. 3, row 2 |  |
-| Lattice b | 5.487 Å | 298.15 | Ir3Mo; _alloy: Mo 0.25_ | experimental | [1] Huang 2020; _cites Giessen 1965_ | Table 1, p. 3, row 7 |  |
-| Lattice b | 4.804 Å | 298.15 | IrMo; _alloy: Mo 0.5_ | experimental | [1] Huang 2020; _cites Giessen 1965_ | Table 1, p. 3, row 5 |  |
-| Lattice b | 4.959 Å | 298.15 | IrMo3; _alloy: Mo 0.75_ | experimental | [1] Huang 2020; _cites Michalik 1963_ | Table 1, p. 3, row 1 |  |
-| Lattice c | 4.385 Å |  | Ir3Mo; _alloy: Mo 0.25_ | model | [1] Huang 2020 | Table 1, p. 3, row 8 |  |
-| Lattice c | 4.429 Å |  | IrMo; _alloy: Mo 0.5_ | model | [1] Huang 2020 | Table 1, p. 3, row 6 |  |
-| Lattice c | 4.972 Å |  | IrMo3; _alloy: Mo 0.75_ | model | [1] Huang 2020 | Table 1, p. 3, row 2 |  |
-| Lattice c | 4.385 Å | 298.15 | Ir3Mo; _alloy: Mo 0.25_ | experimental | [1] Huang 2020; _cites Giessen 1965_ | Table 1, p. 3, row 7 |  |
-| Lattice c | 4.429 Å | 298.15 | IrMo; _alloy: Mo 0.5_ | experimental | [1] Huang 2020; _cites Giessen 1965_ | Table 1, p. 3, row 5 |  |
-| Lattice c | 4.959 Å | 298.15 | IrMo3; _alloy: Mo 0.75_ | experimental | [1] Huang 2020; _cites Michalik 1963_ | Table 1, p. 3, row 1 |  |
+| Lattice a | 5.487 Å |  | Ir3Mo; _alloy: Mo 0.25_ | model | [1] Huang 2020 | Table 1, p. 3, row 8; `ORC-XSY356GO3A.585a2a` |  |
+| Lattice a | 2.752 Å |  | IrMo; _alloy: Mo 0.5_ | model | [1] Huang 2020 | Table 1, p. 3, row 6; `ORC-NMRA4PUEAY.e0e05f` |  |
+| Lattice a | 4.972 Å |  | IrMo3; _alloy: Mo 0.75_ | model | [1] Huang 2020 | Table 1, p. 3, row 2; `ORC-5KFGYOUKQW.914bb8` |  |
+| Lattice a | 5.487 Å | 298.15 | Ir3Mo; _alloy: Mo 0.25_ | experimental | [1] Huang 2020; _cites Giessen 1965_ | Table 1, p. 3, row 7; `ORC-AEWRTAIKQ7.c36d88` |  |
+| Lattice a | 2.752 Å | 298.15 | IrMo; _alloy: Mo 0.5_ | experimental | [1] Huang 2020; _cites Giessen 1965_ | Table 1, p. 3, row 5; `ORC-TL2IM7P2EW.060cd6` |  |
+| Lattice a | 4.959 Å | 298.15 | IrMo3; _alloy: Mo 0.75_ | experimental | [1] Huang 2020; _cites Michalik 1963_ | Table 1, p. 3, row 1; `ORC-T5R3R52JMR.314a18` |  |
+| Lattice b | 5.487 Å |  | Ir3Mo; _alloy: Mo 0.25_ | model | [1] Huang 2020 | Table 1, p. 3, row 8; `ORC-XSY356GO3A.eb8706` |  |
+| Lattice b | 4.804 Å |  | IrMo; _alloy: Mo 0.5_ | model | [1] Huang 2020 | Table 1, p. 3, row 6; `ORC-NMRA4PUEAY.dcc516` |  |
+| Lattice b | 4.972 Å |  | IrMo3; _alloy: Mo 0.75_ | model | [1] Huang 2020 | Table 1, p. 3, row 2; `ORC-5KFGYOUKQW.bf298c` |  |
+| Lattice b | 5.487 Å | 298.15 | Ir3Mo; _alloy: Mo 0.25_ | experimental | [1] Huang 2020; _cites Giessen 1965_ | Table 1, p. 3, row 7; `ORC-AEWRTAIKQ7.f1badc` |  |
+| Lattice b | 4.804 Å | 298.15 | IrMo; _alloy: Mo 0.5_ | experimental | [1] Huang 2020; _cites Giessen 1965_ | Table 1, p. 3, row 5; `ORC-TL2IM7P2EW.6e6fea` |  |
+| Lattice b | 4.959 Å | 298.15 | IrMo3; _alloy: Mo 0.75_ | experimental | [1] Huang 2020; _cites Michalik 1963_ | Table 1, p. 3, row 1; `ORC-T5R3R52JMR.b23328` |  |
+| Lattice c | 4.385 Å |  | Ir3Mo; _alloy: Mo 0.25_ | model | [1] Huang 2020 | Table 1, p. 3, row 8; `ORC-XSY356GO3A.f3d167` |  |
+| Lattice c | 4.429 Å |  | IrMo; _alloy: Mo 0.5_ | model | [1] Huang 2020 | Table 1, p. 3, row 6; `ORC-NMRA4PUEAY.4dd792` |  |
+| Lattice c | 4.972 Å |  | IrMo3; _alloy: Mo 0.75_ | model | [1] Huang 2020 | Table 1, p. 3, row 2; `ORC-5KFGYOUKQW.97a5aa` |  |
+| Lattice c | 4.385 Å | 298.15 | Ir3Mo; _alloy: Mo 0.25_ | experimental | [1] Huang 2020; _cites Giessen 1965_ | Table 1, p. 3, row 7; `ORC-AEWRTAIKQ7.1c85f4` |  |
+| Lattice c | 4.429 Å | 298.15 | IrMo; _alloy: Mo 0.5_ | experimental | [1] Huang 2020; _cites Giessen 1965_ | Table 1, p. 3, row 5; `ORC-TL2IM7P2EW.075853` |  |
+| Lattice c | 4.959 Å | 298.15 | IrMo3; _alloy: Mo 0.75_ | experimental | [1] Huang 2020; _cites Michalik 1963_ | Table 1, p. 3, row 1; `ORC-T5R3R52JMR.419cd9` |  |
 
 ## Sources
 
@@ -141,4 +141,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

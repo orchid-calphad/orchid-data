@@ -68,45 +68,45 @@ Table: Invariant reactions reported in the literature for the Cd–Yb system (39
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1069 | congruent melting: Liquid \<-> YbCd | L: Cd 0.5; YbCd: Cd 0.5 | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 4, p. 6, row 2 |  |
-| 1068.93 | congruent melting: Liquid \<-> YbCd | L: Cd 0.5; YbCd: Cd 0.5 | model | [1] Kali-Ali 2017 | Table 4, p. 6, row 1 |  |
-| 1028 | metatectic/catatectic: (γYb) \<-> (βYb) + liquide |  | experimental | [1] Kali-Ali 2017; _cites Gschneidner 1988_ [doi](https://doi.org/10.1007/bf02890551) | Table 4, p. 6, row 26 |  |
-| 976.79 | congruent melting: Liquid \<-> YbCd2 | L: Cd 0.667; YbCd2: Cd 0.667 | model | [1] Kali-Ali 2017 | Table 4, p. 6, row 3 |  |
-| 976 | congruent melting: Liquid \<-> YbCd2 | L: Cd 0.667; YbCd2: Cd 0.667 | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 4, p. 6, row 4 |  |
-| 969 | metatectic/catatectic: (γYb) \<-> (βYb) + liquide | (γYb): Cd 0.0318; (βYb): Cd 0.019; L: Cd 0.094 | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 4, p. 6, row 25 |  |
-| 968.9 | metatectic/catatectic: (γYb) \<-> (βYb) + liquide | (γYb): Cd 0.021; (βYb): Cd 0.01; L: Cd 0.111 | model | [1] Kali-Ali 2017 | Table 4, p. 6, row 24 |  |
-| 968 | polymorphic: βYbCd2 \<-> αYbCd2 | βYbCd2: Cd 0.667; αYbCd2: Cd 0.667 | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 4, p. 6, row 28 |  |
-| 967.03 | polymorphic: βYbCd2 \<-> αYbCd2 | βYbCd2: Cd 0.667; αYbCd2: Cd 0.667 | model | [1] Kali-Ali 2017 | Table 4, p. 6, row 27 |  |
-| 956.26 | eutectic: Liquid \<-> YbCd + αYbCd2 | L: Cd 0.623; YbCd: Cd 0.5; αYbCd2: Cd 0.667 | model | [1] Kali-Ali 2017 | Table 4, p. 6, row 9 |  |
-| 953 | eutectic: Liquid \<-> YbCd + αYbCd2 | L: Cd 0.612; YbCd: Cd 0.5; αYbCd2: Cd 0.667 | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 4, p. 6, row 10 |  |
-| 953 | eutectic |  | experimental | [1] Kali-Ali 2017 | p. 2 | “Five eutectic reactions were obtained at 22.3 at.% of Cd and 740 K, at 61.2 at.% of Cd and 953 K, at 75 at.% of Cd and 921 K, at 82.5 at.% of Cd and 900 K and finally, at about 99.0 at.% of Cd and 590 K.” |
-| 930.3 | congruent melting: Liquid \<-> Yb14Cd51 | L: Cd 0.785; Yb14Cd51: Cd 0.785 | model | [1] Kali-Ali 2017 | Table 4, p. 6, row 5 |  |
-| 928 | congruent melting: Liquid \<-> Yb14Cd51 | L: Cd 0.785; Yb14Cd51: Cd 0.785 | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 4, p. 6, row 6 |  |
-| 927 | peritectic: Liquid + βYbCd2 \<-> Yb3Cd8 | L: Cd 0.738; βYbCd2: Cd 0.667; Yb3Cd8: Cd 0.727 | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 4, p. 6, row 21 |  |
-| 927 | peritectic |  | experimental | [1] Kali-Ali 2017 | p. 2 | “Four of them, YbCd, YbCd2,Yb14Cd51 and YbCd5.7 melt congruently at 1069, 976, 928 and 909 K respectively while the other two, Yb3Cd8 and YbCd6, form through peritectic reactions at 927 and 887 K respectively.” |
-| 925.92 | peritectic: Liquid + βYbCd2 \<-> Yb3Cd8 | L: Cd 0.732; βYbCd2: Cd 0.667; Yb3Cd8: Cd 0.727 | model | [1] Kali-Ali 2017 | Table 4, p. 6, row 20 |  |
-| 921 | eutectic |  | experimental | [1] Kali-Ali 2017 | p. 2 | “Five eutectic reactions were obtained at 22.3 at.% of Cd and 740 K, at 61.2 at.% of Cd and 953 K, at 75 at.% of Cd and 921 K, at 82.5 at.% of Cd and 900 K and finally, at about 99.0 at.% of Cd and 590 K.” |
-| 921 | eutectic: Liquid \<-> Yb3Cd8 + Yb14Cd51 | L: Cd 0.75; Yb3Cd8: Cd 0.727; Yb14Cd51: Cd 0.785 | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 4, p. 6, row 12 |  |
-| 916.16 | eutectic: Liquid \<-> Yb3Cd8 + Yb14Cd51 | L: Cd 0.755; Yb3Cd8: Cd 0.727; Yb14Cd51: Cd 0.785 | model | [1] Kali-Ali 2017 | Table 4, p. 6, row 11 |  |
-| 916.16 | eutectic: Liquid ? Yb3Cd8 ? Yb14Cd51 |  | model | [1] Kali-Ali 2017 | p. 8 | “The calculated eutectic reaction: Liquid ? Yb3Cd8 ? Yb14Cd51 is found 1 K out the experimental uncertainties (at 916.16 K) when the experimental one occurs at 921 ± 4 K.” |
-| 911.13 | congruent melting: Liquid \<-> YbCd5,7 | L: Cd 0.851; YbCd5,7: Cd 0.851 | model | [1] Kali-Ali 2017 | Table 4, p. 6, row 7 |  |
-| 909 | congruent melting: Liquid \<-> YbCd5,7 | L: Cd 0.851; YbCd5,7: Cd 0.851 | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 4, p. 6, row 8 |  |
-| 900 | eutectic |  | experimental | [1] Kali-Ali 2017 | p. 2 | “Five eutectic reactions were obtained at 22.3 at.% of Cd and 740 K, at 61.2 at.% of Cd and 953 K, at 75 at.% of Cd and 921 K, at 82.5 at.% of Cd and 900 K and finally, at about 99.0 at.% of Cd and 590 K.” |
-| 900 | eutectic: Liquid \<-> Yb14Cd51 + YbCd5,7 | L: Cd 0.825; Yb14Cd51: Cd 0.785; YbCd5,7: Cd 0.851 | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 4, p. 6, row 14 |  |
-| 899.93 | eutectic: Liquid \<-> Yb14Cd51 + YbCd5,7 | L: Cd 0.827; Yb14Cd51: Cd 0.785; YbCd5,7: Cd 0.851 | model | [1] Kali-Ali 2017 | Table 4, p. 6, row 13 |  |
-| 887.6 | peritectic: Liquid + YbCd5,7 \<-> YbCd6 | L: Cd 0.885; YbCd5,7: Cd 0.851; YbCd6: Cd 0.857 | model | [1] Kali-Ali 2017 | Table 4, p. 6, row 22 |  |
-| 887 | peritectic |  | experimental | [1] Kali-Ali 2017 | p. 2 | “Four of them, YbCd, YbCd2,Yb14Cd51 and YbCd5.7 melt congruently at 1069, 976, 928 and 909 K respectively while the other two, Yb3Cd8 and YbCd6, form through peritectic reactions at 927 and 887 K respectively.” |
-| 887 | peritectic: Liquid + YbCd5,7 \<-> YbCd6 | L: Cd 0.885; YbCd5,7: Cd 0.851; YbCd6: Cd 0.857 | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 4, p. 6, row 23 |  |
-| 740 | eutectic: Liquid \<-> (βYb) + YbCd | L: Cd 0.223; (βYb): Cd 0; YbCd: Cd 0.5 | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 4, p. 6, row 16 |  |
-| 740 | eutectic |  | experimental | [1] Kali-Ali 2017 | p. 2 | “Five eutectic reactions were obtained at 22.3 at.% of Cd and 740 K, at 61.2 at.% of Cd and 953 K, at 75 at.% of Cd and 921 K, at 82.5 at.% of Cd and 900 K and finally, at about 99.0 at.% of Cd and 590 K.” |
-| 735 | eutectic: Liquid \<-> (βYb) + YbCd | L: Cd 0.223; YbCd: Cd 0.5 | experimental | [1] Kali-Ali 2017; _cites Gschneidner 1988_ [doi](https://doi.org/10.1007/bf02890551) | Table 4, p. 6, row 17 |  |
-| 735 | eutectic |  | model | [1] Kali-Ali 2017; _cites Gschneidner 1988_ [doi](https://doi.org/10.1007/bf02890551) | p. 7 | “Also, the eutectic temperature of the invariant reaction: Liquid ? (bYb) ? YbCd determined in this work at 734.6 K, matches well with the value reported by Gschneidner et al.\[19\] (735 K) than of Palenzona\[17\]” |
-| 735 | eutectic |  | model | [1] Kali-Ali 2017; _cites Gschneidner 1988_ [doi](https://doi.org/10.1007/bf02890551) | p. 2 | “Based on the work of Palenzona,\[17\] Gschneidner et al.\[19\] compiled the binary Yb-Cd phase diagram and reported some modifications in the Yb rich side, the eutectic temperature was obtained at 735 K instead of 740 K whereas a significant modification has been made in the catatectic temperature which was 59 K higher than Palenzona's temperature\[17\]; furthermore, according to Gschneidner et al.,\[19…” |
-| 734.6 | eutectic: Liquid \<-> (βYb) + YbCd | L: Cd 0.223; (βYb): Cd 0.023; YbCd: Cd 0.5 | model | [1] Kali-Ali 2017 | Table 4, p. 6, row 15 |  |
-| 734.6 | eutectic |  | model | [1] Kali-Ali 2017 | p. 7 | “Also, the eutectic temperature of the invariant reaction: Liquid ? (bYb) ? YbCd determined in this work at 734.6 K, matches well with the value reported by Gschneidner et al.\[19\] (735 K) than of Palenzona\[17\]” |
-| 590 | eutectic |  | experimental | [1] Kali-Ali 2017 | p. 2 | “Five eutectic reactions were obtained at 22.3 at.% of Cd and 740 K, at 61.2 at.% of Cd and 953 K, at 75 at.% of Cd and 921 K, at 82.5 at.% of Cd and 900 K and finally, at about 99.0 at.% of Cd and 590 K.” |
-| 590 | eutectic: Liquid \<-> YbCd6 + (Cd) | L: Cd 0.99; YbCd6: Cd 0.857; (Cd): Cd 1 | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 4, p. 6, row 19 |  |
-| 569.07 | eutectic: Liquid \<-> YbCd6 + (Cd) | L: Cd 0.975; YbCd6: Cd 0.857; (Cd): Cd 1 | model | [1] Kali-Ali 2017 | Table 4, p. 6, row 18 |  |
+| 1069 | congruent melting: Liquid \<-> YbCd | L: Cd 0.5; YbCd: Cd 0.5 | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 4, p. 6, row 2; `ORC-N6FI3KXTK4` |  |
+| 1068.93 | congruent melting: Liquid \<-> YbCd | L: Cd 0.5; YbCd: Cd 0.5 | model | [1] Kali-Ali 2017 | Table 4, p. 6, row 1; `ORC-WIZHWHKZHI` |  |
+| 1028 | metatectic/catatectic: (γYb) \<-> (βYb) + liquide |  | experimental | [1] Kali-Ali 2017; _cites Gschneidner 1988_ [doi](https://doi.org/10.1007/bf02890551) | Table 4, p. 6, row 26; `ORC-BBGFEZQGML` |  |
+| 976.79 | congruent melting: Liquid \<-> YbCd2 | L: Cd 0.667; YbCd2: Cd 0.667 | model | [1] Kali-Ali 2017 | Table 4, p. 6, row 3; `ORC-DWSPH5TSWC` |  |
+| 976 | congruent melting: Liquid \<-> YbCd2 | L: Cd 0.667; YbCd2: Cd 0.667 | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 4, p. 6, row 4; `ORC-7IFIUBD7XP` |  |
+| 969 | metatectic/catatectic: (γYb) \<-> (βYb) + liquide | (γYb): Cd 0.0318; (βYb): Cd 0.019; L: Cd 0.094 | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 4, p. 6, row 25; `ORC-LWZIPPPZLA` |  |
+| 968.9 | metatectic/catatectic: (γYb) \<-> (βYb) + liquide | (γYb): Cd 0.021; (βYb): Cd 0.01; L: Cd 0.111 | model | [1] Kali-Ali 2017 | Table 4, p. 6, row 24; `ORC-27GONFNOCS` |  |
+| 968 | polymorphic: βYbCd2 \<-> αYbCd2 | βYbCd2: Cd 0.667; αYbCd2: Cd 0.667 | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 4, p. 6, row 28; `ORC-UOE3AG65HX` |  |
+| 967.03 | polymorphic: βYbCd2 \<-> αYbCd2 | βYbCd2: Cd 0.667; αYbCd2: Cd 0.667 | model | [1] Kali-Ali 2017 | Table 4, p. 6, row 27; `ORC-TWJ66UAAAS` |  |
+| 956.26 | eutectic: Liquid \<-> YbCd + αYbCd2 | L: Cd 0.623; YbCd: Cd 0.5; αYbCd2: Cd 0.667 | model | [1] Kali-Ali 2017 | Table 4, p. 6, row 9; `ORC-XUDBIPLQL5` |  |
+| 953 | eutectic: Liquid \<-> YbCd + αYbCd2 | L: Cd 0.612; YbCd: Cd 0.5; αYbCd2: Cd 0.667 | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 4, p. 6, row 10; `ORC-JEXM63RFIU` |  |
+| 953 | eutectic |  | experimental | [1] Kali-Ali 2017 | p. 2; `ORC-MTSYPAJL2V.1732f6` | “Five eutectic reactions were obtained at 22.3 at.% of Cd and 740 K, at 61.2 at.% of Cd and 953 K, at 75 at.% of Cd and 921 K, at 82.5 at.% of Cd and 900 K and finally, at about 99.0 at.% of Cd and 590 K.” |
+| 930.3 | congruent melting: Liquid \<-> Yb14Cd51 | L: Cd 0.785; Yb14Cd51: Cd 0.785 | model | [1] Kali-Ali 2017 | Table 4, p. 6, row 5; `ORC-DRP76ZCUVD` |  |
+| 928 | congruent melting: Liquid \<-> Yb14Cd51 | L: Cd 0.785; Yb14Cd51: Cd 0.785 | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 4, p. 6, row 6; `ORC-7YWLUT5CJM` |  |
+| 927 | peritectic: Liquid + βYbCd2 \<-> Yb3Cd8 | L: Cd 0.738; βYbCd2: Cd 0.667; Yb3Cd8: Cd 0.727 | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 4, p. 6, row 21; `ORC-5F2ABYJVGT` |  |
+| 927 | peritectic |  | experimental | [1] Kali-Ali 2017 | p. 2; `ORC-LRRTU73WAX.4a04fa` | “Four of them, YbCd, YbCd2,Yb14Cd51 and YbCd5.7 melt congruently at 1069, 976, 928 and 909 K respectively while the other two, Yb3Cd8 and YbCd6, form through peritectic reactions at 927 and 887 K respectively.” |
+| 925.92 | peritectic: Liquid + βYbCd2 \<-> Yb3Cd8 | L: Cd 0.732; βYbCd2: Cd 0.667; Yb3Cd8: Cd 0.727 | model | [1] Kali-Ali 2017 | Table 4, p. 6, row 20; `ORC-4T6E6EVDEO` |  |
+| 921 | eutectic |  | experimental | [1] Kali-Ali 2017 | p. 2; `ORC-MTSYPAJL2V.d557a4` | “Five eutectic reactions were obtained at 22.3 at.% of Cd and 740 K, at 61.2 at.% of Cd and 953 K, at 75 at.% of Cd and 921 K, at 82.5 at.% of Cd and 900 K and finally, at about 99.0 at.% of Cd and 590 K.” |
+| 921 | eutectic: Liquid \<-> Yb3Cd8 + Yb14Cd51 | L: Cd 0.75; Yb3Cd8: Cd 0.727; Yb14Cd51: Cd 0.785 | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 4, p. 6, row 12; `ORC-RQXNKGARV3` |  |
+| 916.16 | eutectic: Liquid \<-> Yb3Cd8 + Yb14Cd51 | L: Cd 0.755; Yb3Cd8: Cd 0.727; Yb14Cd51: Cd 0.785 | model | [1] Kali-Ali 2017 | Table 4, p. 6, row 11; `ORC-I4MKEO3MN3` |  |
+| 916.16 | eutectic: Liquid ? Yb3Cd8 ? Yb14Cd51 |  | model | [1] Kali-Ali 2017 | p. 8; `ORC-LISI3EZB2N` | “The calculated eutectic reaction: Liquid ? Yb3Cd8 ? Yb14Cd51 is found 1 K out the experimental uncertainties (at 916.16 K) when the experimental one occurs at 921 ± 4 K.” |
+| 911.13 | congruent melting: Liquid \<-> YbCd5,7 | L: Cd 0.851; YbCd5,7: Cd 0.851 | model | [1] Kali-Ali 2017 | Table 4, p. 6, row 7; `ORC-IIQUPHXL6W` |  |
+| 909 | congruent melting: Liquid \<-> YbCd5,7 | L: Cd 0.851; YbCd5,7: Cd 0.851 | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 4, p. 6, row 8; `ORC-J7GRQ2O62C` |  |
+| 900 | eutectic |  | experimental | [1] Kali-Ali 2017 | p. 2; `ORC-MTSYPAJL2V.938ca3` | “Five eutectic reactions were obtained at 22.3 at.% of Cd and 740 K, at 61.2 at.% of Cd and 953 K, at 75 at.% of Cd and 921 K, at 82.5 at.% of Cd and 900 K and finally, at about 99.0 at.% of Cd and 590 K.” |
+| 900 | eutectic: Liquid \<-> Yb14Cd51 + YbCd5,7 | L: Cd 0.825; Yb14Cd51: Cd 0.785; YbCd5,7: Cd 0.851 | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 4, p. 6, row 14; `ORC-UPBZV4DRAP` |  |
+| 899.93 | eutectic: Liquid \<-> Yb14Cd51 + YbCd5,7 | L: Cd 0.827; Yb14Cd51: Cd 0.785; YbCd5,7: Cd 0.851 | model | [1] Kali-Ali 2017 | Table 4, p. 6, row 13; `ORC-YJ6OIAF4LJ` |  |
+| 887.6 | peritectic: Liquid + YbCd5,7 \<-> YbCd6 | L: Cd 0.885; YbCd5,7: Cd 0.851; YbCd6: Cd 0.857 | model | [1] Kali-Ali 2017 | Table 4, p. 6, row 22; `ORC-2KCCECQZ2I` |  |
+| 887 | peritectic |  | experimental | [1] Kali-Ali 2017 | p. 2; `ORC-LRRTU73WAX.0e6709` | “Four of them, YbCd, YbCd2,Yb14Cd51 and YbCd5.7 melt congruently at 1069, 976, 928 and 909 K respectively while the other two, Yb3Cd8 and YbCd6, form through peritectic reactions at 927 and 887 K respectively.” |
+| 887 | peritectic: Liquid + YbCd5,7 \<-> YbCd6 | L: Cd 0.885; YbCd5,7: Cd 0.851; YbCd6: Cd 0.857 | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 4, p. 6, row 23; `ORC-OCBFVVKDCT` |  |
+| 740 | eutectic: Liquid \<-> (βYb) + YbCd | L: Cd 0.223; (βYb): Cd 0; YbCd: Cd 0.5 | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 4, p. 6, row 16; `ORC-ACCIIF2IHN` |  |
+| 740 | eutectic |  | experimental | [1] Kali-Ali 2017 | p. 2; `ORC-MTSYPAJL2V.4abdde` | “Five eutectic reactions were obtained at 22.3 at.% of Cd and 740 K, at 61.2 at.% of Cd and 953 K, at 75 at.% of Cd and 921 K, at 82.5 at.% of Cd and 900 K and finally, at about 99.0 at.% of Cd and 590 K.” |
+| 735 | eutectic: Liquid \<-> (βYb) + YbCd | L: Cd 0.223; YbCd: Cd 0.5 | experimental | [1] Kali-Ali 2017; _cites Gschneidner 1988_ [doi](https://doi.org/10.1007/bf02890551) | Table 4, p. 6, row 17; `ORC-2YGH7ABSS2` |  |
+| 735 | eutectic |  | model | [1] Kali-Ali 2017; _cites Gschneidner 1988_ [doi](https://doi.org/10.1007/bf02890551) | p. 7; `ORC-DAGR4NUKR6.91bbab` | “Also, the eutectic temperature of the invariant reaction: Liquid ? (bYb) ? YbCd determined in this work at 734.6 K, matches well with the value reported by Gschneidner et al.\[19\] (735 K) than of Palenzona\[17\]” |
+| 735 | eutectic |  | model | [1] Kali-Ali 2017; _cites Gschneidner 1988_ [doi](https://doi.org/10.1007/bf02890551) | p. 2; `ORC-QAAG7A3FDC` | “Based on the work of Palenzona,\[17\] Gschneidner et al.\[19\] compiled the binary Yb-Cd phase diagram and reported some modifications in the Yb rich side, the eutectic temperature was obtained at 735 K instead of 740 K whereas a significant modification has been made in the catatectic temperature which was 59 K higher than Palenzona's temperature\[17\]; furthermore, according to Gschneidner et al.,\[19…” |
+| 734.6 | eutectic: Liquid \<-> (βYb) + YbCd | L: Cd 0.223; (βYb): Cd 0.023; YbCd: Cd 0.5 | model | [1] Kali-Ali 2017 | Table 4, p. 6, row 15; `ORC-27SX5QMCFU` |  |
+| 734.6 | eutectic |  | model | [1] Kali-Ali 2017 | p. 7; `ORC-DAGR4NUKR6.a07d1b` | “Also, the eutectic temperature of the invariant reaction: Liquid ? (bYb) ? YbCd determined in this work at 734.6 K, matches well with the value reported by Gschneidner et al.\[19\] (735 K) than of Palenzona\[17\]” |
+| 590 | eutectic |  | experimental | [1] Kali-Ali 2017 | p. 2; `ORC-MTSYPAJL2V.a2fb87` | “Five eutectic reactions were obtained at 22.3 at.% of Cd and 740 K, at 61.2 at.% of Cd and 953 K, at 75 at.% of Cd and 921 K, at 82.5 at.% of Cd and 900 K and finally, at about 99.0 at.% of Cd and 590 K.” |
+| 590 | eutectic: Liquid \<-> YbCd6 + (Cd) | L: Cd 0.99; YbCd6: Cd 0.857; (Cd): Cd 1 | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 4, p. 6, row 19; `ORC-UFUQSLATNW` |  |
+| 569.07 | eutectic: Liquid \<-> YbCd6 + (Cd) | L: Cd 0.975; YbCd6: Cd 0.857; (Cd): Cd 1 | model | [1] Kali-Ali 2017 | Table 4, p. 6, row 18; `ORC-QATJ4V6KGV` |  |
 
 ## Formation enthalpies
 
@@ -116,15 +116,15 @@ Table: Enthalpies of formation, Cd–Yb system (9)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Yb14Cd51 | [Cd51Yb14](https://data.orchid-project.org/compounds/Cd51Yb14.html) | -27.85 kJ/mol-atom |  | model |  | -30.302 (oqmd-2141572) | [1] Kali-Ali 2017 | Table 2, p. 4, row 7 |  |
-| Yb3Cd8 |  | -33.2 kJ/mol-atom |  | model |  |  | [1] Kali-Ali 2017 | Table 2, p. 4, row 6 |  |
-| YbCd |  | -42.451 kJ/mol-atom | 0 | DFT |  |  | [1] Kali-Ali 2017 | Table 2, p. 4, row 1 |  |
-| YbCd | [CdYb](https://data.orchid-project.org/compounds/CdYb.html) | -42.021 kJ/mol-atom |  | model |  | -40.454 (oqmd-29044) | [1] Kali-Ali 2017 | Table 2, p. 4, row 2 |  |
-| YbCd5.7 |  | -21.603 kJ/mol-atom |  | model |  |  | [1] Kali-Ali 2017 | Table 2, p. 4, row 8 |  |
-| YbCd6 |  | -20.973 kJ/mol-atom |  | model |  |  | [1] Kali-Ali 2017 | Table 2, p. 4, row 9 |  |
-| αYbCd2 |  | -36.684 kJ/mol-atom | 0 | DFT |  |  | [1] Kali-Ali 2017 | Table 2, p. 4, row 3 |  |
-| αYbCd2 | [Cd2Yb](https://data.orchid-project.org/compounds/Cd2Yb.html) | -36.196 kJ/mol-atom |  | model |  | -36.261 (oqmd-1377351) | [1] Kali-Ali 2017 | Table 2, p. 4, row 4 |  |
-| βYbCd2 | [Cd2Yb](https://data.orchid-project.org/compounds/Cd2Yb.html) | -35.58 kJ/mol-atom |  | model |  | -36.261 (oqmd-1377351) | [1] Kali-Ali 2017 | Table 2, p. 4, row 5 |  |
+| Yb14Cd51 | [Cd51Yb14](https://data.orchid-project.org/compounds/Cd51Yb14.html) | -27.85 kJ/mol-atom |  | model |  | -30.302 (oqmd-2141572) | [1] Kali-Ali 2017 | Table 2, p. 4, row 7; `ORC-V6RFIIQBNR.2ff489` |  |
+| Yb3Cd8 |  | -33.2 kJ/mol-atom |  | model |  |  | [1] Kali-Ali 2017 | Table 2, p. 4, row 6; `ORC-WUFKSTPGSV.ad02d2` |  |
+| YbCd |  | -42.451 kJ/mol-atom | 0 | DFT |  |  | [1] Kali-Ali 2017 | Table 2, p. 4, row 1; `ORC-APC6KVUCHK.f0b25c` |  |
+| YbCd | [CdYb](https://data.orchid-project.org/compounds/CdYb.html) | -42.021 kJ/mol-atom |  | model |  | -40.454 (oqmd-29044) | [1] Kali-Ali 2017 | Table 2, p. 4, row 2; `ORC-DRJGU3O7JT.037846` |  |
+| YbCd5.7 |  | -21.603 kJ/mol-atom |  | model |  |  | [1] Kali-Ali 2017 | Table 2, p. 4, row 8; `ORC-XBNWM3H5XQ.078508` |  |
+| YbCd6 |  | -20.973 kJ/mol-atom |  | model |  |  | [1] Kali-Ali 2017 | Table 2, p. 4, row 9; `ORC-BB72LVOOOB.9b2838` |  |
+| αYbCd2 |  | -36.684 kJ/mol-atom | 0 | DFT |  |  | [1] Kali-Ali 2017 | Table 2, p. 4, row 3; `ORC-C5LM6YOXDJ.799c87` |  |
+| αYbCd2 | [Cd2Yb](https://data.orchid-project.org/compounds/Cd2Yb.html) | -36.196 kJ/mol-atom |  | model |  | -36.261 (oqmd-1377351) | [1] Kali-Ali 2017 | Table 2, p. 4, row 4; `ORC-CS7B33Z2LD.2079de` |  |
+| βYbCd2 | [Cd2Yb](https://data.orchid-project.org/compounds/Cd2Yb.html) | -35.58 kJ/mol-atom |  | model |  | -36.261 (oqmd-1377351) | [1] Kali-Ali 2017 | Table 2, p. 4, row 5; `ORC-XPD224GQJM.acccc4` |  |
 
 ## Other properties
 
@@ -134,11 +134,11 @@ Table: Phase transition, Cd–Yb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 909 K | 909 | congruent transformation | experimental | [1] Kali-Ali 2017 | p. 2 | “Four of them, YbCd, YbCd2,Yb14Cd51 and YbCd5.7 melt congruently at 1069, 976, 928 and 909 K respectively while the other two, Yb3Cd8 and YbCd6, form through peritectic reactions at 927 and 887 K respectively.” |
-| Phase transition | 928 K | 928 | congruent transformation | experimental | [1] Kali-Ali 2017 | p. 2 | “Four of them, YbCd, YbCd2,Yb14Cd51 and YbCd5.7 melt congruently at 1069, 976, 928 and 909 K respectively while the other two, Yb3Cd8 and YbCd6, form through peritectic reactions at 927 and 887 K respectively.” |
-| Phase transition | 968 K | 968 | polymorphic | experimental | [1] Kali-Ali 2017 | p. 2 | “A polymorphic transition of YbCd2 was detected at 968 K.” |
-| Phase transition | 976 K | 976 | congruent transformation | experimental | [1] Kali-Ali 2017 | p. 2 | “Four of them, YbCd, YbCd2,Yb14Cd51 and YbCd5.7 melt congruently at 1069, 976, 928 and 909 K respectively while the other two, Yb3Cd8 and YbCd6, form through peritectic reactions at 927 and 887 K respectively.” |
-| Phase transition | 1069 K | 1069 | congruent transformation | experimental | [1] Kali-Ali 2017 | p. 2 | “Four of them, YbCd, YbCd2,Yb14Cd51 and YbCd5.7 melt congruently at 1069, 976, 928 and 909 K respectively while the other two, Yb3Cd8 and YbCd6, form through peritectic reactions at 927 and 887 K respectively.” |
+| Phase transition | 909 K | 909 | congruent transformation | experimental | [1] Kali-Ali 2017 | p. 2; `ORC-LRRTU73WAX.7f1e40` | “Four of them, YbCd, YbCd2,Yb14Cd51 and YbCd5.7 melt congruently at 1069, 976, 928 and 909 K respectively while the other two, Yb3Cd8 and YbCd6, form through peritectic reactions at 927 and 887 K respectively.” |
+| Phase transition | 928 K | 928 | congruent transformation | experimental | [1] Kali-Ali 2017 | p. 2; `ORC-LRRTU73WAX.1103cf` | “Four of them, YbCd, YbCd2,Yb14Cd51 and YbCd5.7 melt congruently at 1069, 976, 928 and 909 K respectively while the other two, Yb3Cd8 and YbCd6, form through peritectic reactions at 927 and 887 K respectively.” |
+| Phase transition | 968 K | 968 | polymorphic | experimental | [1] Kali-Ali 2017 | p. 2; `ORC-7YIQW5EAGW` | “A polymorphic transition of YbCd2 was detected at 968 K.” |
+| Phase transition | 976 K | 976 | congruent transformation | experimental | [1] Kali-Ali 2017 | p. 2; `ORC-LRRTU73WAX.51f206` | “Four of them, YbCd, YbCd2,Yb14Cd51 and YbCd5.7 melt congruently at 1069, 976, 928 and 909 K respectively while the other two, Yb3Cd8 and YbCd6, form through peritectic reactions at 927 and 887 K respectively.” |
+| Phase transition | 1069 K | 1069 | congruent transformation | experimental | [1] Kali-Ali 2017 | p. 2; `ORC-LRRTU73WAX.297477` | “Four of them, YbCd, YbCd2,Yb14Cd51 and YbCd5.7 melt congruently at 1069, 976, 928 and 909 K respectively while the other two, Yb3Cd8 and YbCd6, form through peritectic reactions at 927 and 887 K respectively.” |
 
 ### Crystal structure (18)
 
@@ -146,24 +146,24 @@ Table: Crystal structure, Cd–Yb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 3.78 Å | 0 | YbCd; _YbCd: Cd 0.5_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 6 |  |
-| Lattice a | 6.03 Å | 0 | YbCd2; _YbCd2: Cd 0.667_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 8 |  |
-| Lattice a | 13.44 Å | 298.15 | Yb14Cd51; _Yb14Cd51: Cd 0.785_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 1, p. 3, row 10 |  |
-| Lattice a | 3.8 Å | 298.15 | YbCd; _YbCd: Cd 0.5_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 1, p. 3, row 5 |  |
-| Lattice a | 5.98 Å | 298.15 | YbCd2; _YbCd2: Cd 0.667_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 1, p. 3, row 7 |  |
-| Lattice a | 15.63 Å | 298.15 | YbCd6; _YbCd6: Cd 0.857_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 1, p. 3, row 12 |  |
-| Lattice b | 3.78 Å | 0 | YbCd; _YbCd: Cd 0.5_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 6 |  |
-| Lattice b | 6.03 Å | 0 | YbCd2; _YbCd2: Cd 0.667_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 8 |  |
-| Lattice b | 13.44 Å | 298.15 | Yb14Cd51; _Yb14Cd51: Cd 0.785_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 1, p. 3, row 10 |  |
-| Lattice b | 3.8 Å | 298.15 | YbCd; _YbCd: Cd 0.5_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 1, p. 3, row 5 |  |
-| Lattice b | 5.98 Å | 298.15 | YbCd2; _YbCd2: Cd 0.667_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 1, p. 3, row 7 |  |
-| Lattice b | 15.63 Å | 298.15 | YbCd6; _YbCd6: Cd 0.857_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 1, p. 3, row 12 |  |
-| Lattice c | 3.78 Å | 0 | YbCd; _YbCd: Cd 0.5_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 6 |  |
-| Lattice c | 9.59 Å | 0 | YbCd2; _YbCd2: Cd 0.667_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 8 |  |
-| Lattice c | 9.65 Å | 298.15 | Yb14Cd51; _Yb14Cd51: Cd 0.785_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 1, p. 3, row 10 |  |
-| Lattice c | 3.8 Å | 298.15 | YbCd; _YbCd: Cd 0.5_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 1, p. 3, row 5 |  |
-| Lattice c | 9.59 Å | 298.15 | YbCd2; _YbCd2: Cd 0.667_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 1, p. 3, row 7 |  |
-| Lattice c | 15.63 Å | 298.15 | YbCd6; _YbCd6: Cd 0.857_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 1, p. 3, row 12 |  |
+| Lattice a | 3.78 Å | 0 | YbCd; _YbCd: Cd 0.5_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 6; `ORC-HBWTOJ76FH.09e3ce` |  |
+| Lattice a | 6.03 Å | 0 | YbCd2; _YbCd2: Cd 0.667_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 8; `ORC-CYE7K5ELUK.afadc6` |  |
+| Lattice a | 13.44 Å | 298.15 | Yb14Cd51; _Yb14Cd51: Cd 0.785_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 1, p. 3, row 10; `ORC-3IMQTQT5GC.38d8c5` |  |
+| Lattice a | 3.8 Å | 298.15 | YbCd; _YbCd: Cd 0.5_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 1, p. 3, row 5; `ORC-YCDZYCVMDJ.63486c` |  |
+| Lattice a | 5.98 Å | 298.15 | YbCd2; _YbCd2: Cd 0.667_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 1, p. 3, row 7; `ORC-YV3FHHJMUK.174bd4` |  |
+| Lattice a | 15.63 Å | 298.15 | YbCd6; _YbCd6: Cd 0.857_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 1, p. 3, row 12; `ORC-6LP3YPXROJ.d1714b` |  |
+| Lattice b | 3.78 Å | 0 | YbCd; _YbCd: Cd 0.5_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 6; `ORC-HBWTOJ76FH.20d127` |  |
+| Lattice b | 6.03 Å | 0 | YbCd2; _YbCd2: Cd 0.667_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 8; `ORC-CYE7K5ELUK.be0248` |  |
+| Lattice b | 13.44 Å | 298.15 | Yb14Cd51; _Yb14Cd51: Cd 0.785_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 1, p. 3, row 10; `ORC-3IMQTQT5GC.c1815d` |  |
+| Lattice b | 3.8 Å | 298.15 | YbCd; _YbCd: Cd 0.5_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 1, p. 3, row 5; `ORC-YCDZYCVMDJ.98d87f` |  |
+| Lattice b | 5.98 Å | 298.15 | YbCd2; _YbCd2: Cd 0.667_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 1, p. 3, row 7; `ORC-YV3FHHJMUK.d740aa` |  |
+| Lattice b | 15.63 Å | 298.15 | YbCd6; _YbCd6: Cd 0.857_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 1, p. 3, row 12; `ORC-6LP3YPXROJ.5b0314` |  |
+| Lattice c | 3.78 Å | 0 | YbCd; _YbCd: Cd 0.5_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 6; `ORC-HBWTOJ76FH.7dbb67` |  |
+| Lattice c | 9.59 Å | 0 | YbCd2; _YbCd2: Cd 0.667_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 8; `ORC-CYE7K5ELUK.9be0b2` |  |
+| Lattice c | 9.65 Å | 298.15 | Yb14Cd51; _Yb14Cd51: Cd 0.785_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 1, p. 3, row 10; `ORC-3IMQTQT5GC.ce9bfe` |  |
+| Lattice c | 3.8 Å | 298.15 | YbCd; _YbCd: Cd 0.5_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 1, p. 3, row 5; `ORC-YCDZYCVMDJ.4f0e50` |  |
+| Lattice c | 9.59 Å | 298.15 | YbCd2; _YbCd2: Cd 0.667_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 1, p. 3, row 7; `ORC-YV3FHHJMUK.0b5694` |  |
+| Lattice c | 15.63 Å | 298.15 | YbCd6; _YbCd6: Cd 0.857_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 1, p. 3, row 12; `ORC-6LP3YPXROJ.c07f1c` |  |
 
 ## Sources
 
@@ -228,4 +228,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

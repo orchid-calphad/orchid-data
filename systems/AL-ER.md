@@ -70,14 +70,14 @@ Table: Crystal structure, Al–Er system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 7.7967 Å | 298.15 | Al2Er; _alloy: Er 0.333333_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 9 |  |
-| Lattice a | 8.123 Å | 298.15 | Al2Er3; _alloy: Er 0.6_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 11 |  |
-| Lattice a | 5.57 Å | 298.15 | AlEr; _alloy: Er 0.5_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 10 |  |
-| Lattice a | 6.516 Å | 298.15 | AlEr2; _alloy: Er 0.666667_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 12 |  |
-| Lattice b | 5.801 Å | 298.15 | AlEr; _alloy: Er 0.5_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 10 |  |
-| Lattice b | 5.015 Å | 298.15 | AlEr2; _alloy: Er 0.666667_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 12 |  |
-| Lattice c | 11.272 Å | 298.15 | AlEr; _alloy: Er 0.5_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 10 |  |
-| Lattice c | 9.279 Å | 298.15 | AlEr2; _alloy: Er 0.666667_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 12 |  |
+| Lattice a | 7.7967 Å | 298.15 | Al2Er; _alloy: Er 0.333333_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 9; `ORC-XW6ISKUCCZ` |  |
+| Lattice a | 8.123 Å | 298.15 | Al2Er3; _alloy: Er 0.6_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 11; `ORC-LWBBID7OEW` |  |
+| Lattice a | 5.57 Å | 298.15 | AlEr; _alloy: Er 0.5_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 10; `ORC-DDZUM64VHU.b14706` |  |
+| Lattice a | 6.516 Å | 298.15 | AlEr2; _alloy: Er 0.666667_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 12; `ORC-EVESGJPFEH.38ff20` |  |
+| Lattice b | 5.801 Å | 298.15 | AlEr; _alloy: Er 0.5_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 10; `ORC-DDZUM64VHU.a57651` |  |
+| Lattice b | 5.015 Å | 298.15 | AlEr2; _alloy: Er 0.666667_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 12; `ORC-EVESGJPFEH.0275d0` |  |
+| Lattice c | 11.272 Å | 298.15 | AlEr; _alloy: Er 0.5_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 10; `ORC-DDZUM64VHU.447f1d` |  |
+| Lattice c | 9.279 Å | 298.15 | AlEr2; _alloy: Er 0.666667_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 12; `ORC-EVESGJPFEH.ef43dd` |  |
 
 ## Sources
 
@@ -142,4 +142,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

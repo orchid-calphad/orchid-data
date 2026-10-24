@@ -53,10 +53,10 @@ Table: Crystal structure, Li–Sr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 15.05 Å | 425.15 (\<) | UNKNOWN; _alloy: Li 0.793103, Sr 0.206897_ | experimental | [1] Chen 2012; _cites Kripyakevich 1963_ | Table 2, p. 2, row 10 |  |
-| Lattice a | 14.88 Å | 425.15 (\<) | UNKNOWN; _alloy: Li 0.793103, Sr 0.206897_ | experimental | [1] Chen 2012; _cites Wang 1962_ [doi](https://doi.org/10.1021/j100817a015) | Table 2, p. 2, row 9 |  |
-| Lattice a | 9.628 Å | 471.15 (\<) | UNKNOWN; _alloy: Li 0.4, Sr 0.6_ | experimental | [1] Chen 2012; _cites Wang 1962_ [doi](https://doi.org/10.1021/j100817a015) | Table 2, p. 2, row 11 |  |
-| Lattice c | 8.55 Å | 471.15 (\<) | UNKNOWN; _alloy: Li 0.4, Sr 0.6_ | experimental | [1] Chen 2012; _cites Wang 1962_ [doi](https://doi.org/10.1021/j100817a015) | Table 2, p. 2, row 11 |  |
+| Lattice a | 15.05 Å | 425.15 (\<) | UNKNOWN; _alloy: Li 0.793103, Sr 0.206897_ | experimental | [1] Chen 2012; _cites Kripyakevich 1963_ | Table 2, p. 2, row 10; `ORC-7SYDCANYB5` |  |
+| Lattice a | 14.88 Å | 425.15 (\<) | UNKNOWN; _alloy: Li 0.793103, Sr 0.206897_ | experimental | [1] Chen 2012; _cites Wang 1962_ [doi](https://doi.org/10.1021/j100817a015) | Table 2, p. 2, row 9; `ORC-QTZSB7XS6D` |  |
+| Lattice a | 9.628 Å | 471.15 (\<) | UNKNOWN; _alloy: Li 0.4, Sr 0.6_ | experimental | [1] Chen 2012; _cites Wang 1962_ [doi](https://doi.org/10.1021/j100817a015) | Table 2, p. 2, row 11; `ORC-5MDK6TQCK4.4f8db4` |  |
+| Lattice c | 8.55 Å | 471.15 (\<) | UNKNOWN; _alloy: Li 0.4, Sr 0.6_ | experimental | [1] Chen 2012; _cites Wang 1962_ [doi](https://doi.org/10.1021/j100817a015) | Table 2, p. 2, row 11; `ORC-5MDK6TQCK4.77a7ae` |  |
 
 ## Sources
 
@@ -121,4 +121,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

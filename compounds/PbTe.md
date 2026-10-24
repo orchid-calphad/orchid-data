@@ -14,24 +14,24 @@ Table: Enthalpy of formation of PbTe reported in the literature (18)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -47.2 kJ/mol (basis unstated) | PbTe | 737 | experimental |  | [Pb–Te](https://data.orchid-project.org/systems/PB-TE.html) | [1] Gierlotka 2009; _cites Castanet 1972_ | Table 4, p. 5, row 5 |  |
-| -36.05 kJ/mol-atom | PbTe | 298.15 | experimental | Tin solution calorimetry | [Pb–Te](https://data.orchid-project.org/systems/PB-TE.html) | [2] Liu 2009; _cites Castanet 1972_ | Table IV, p. 9, row 3 |  |
-| -35.15 kJ/mol-atom | PbTe | 298.15 | experimental | EMF | [Pb–Te](https://data.orchid-project.org/systems/PB-TE.html) | [2] Liu 2009; _cites McAteer 1936_ [doi](https://doi.org/10.1021/ja01302a002) | Table IV, p. 9, row 1 |  |
-| -35.146 kJ/mol (basis unstated) | PbTe | 298.15 | experimental |  | [Pb–Te](https://data.orchid-project.org/systems/PB-TE.html) | [1] Gierlotka 2009; _cites Hirayama 1964_ [doi](https://doi.org/10.1021/je60020a019) | Table 4, p. 5, row 2 |  |
-| -34.3 kJ/mol-atom | PbTe | 298.15 | experimental | Bismuth solution calorimetry | [Pb–Te](https://data.orchid-project.org/systems/PB-TE.html) | [2] Liu 2009; _cites Robinson 1966_ | Table IV, p. 9, row 2 |  |
-| -34.267 kJ/mol (basis unstated) | PbTe | 273 | experimental |  | [Pb–Te](https://data.orchid-project.org/systems/PB-TE.html) | [1] Gierlotka 2009; _cites Robinson 1966_ | Table 4, p. 5, row 4 |  |
-| -23.809 kJ/mol (basis unstated) | PbTe | 295 | experimental |  | [Pb–Te](https://data.orchid-project.org/systems/PB-TE.html) | [1] Gierlotka 2009; _cites Fabre 1887_ | Table 4, p. 5, row 3 |  |
-| -34.4 kJ/mol-atom | PbTe | 298.15 | model | CALPHAD | [Pb–Te](https://data.orchid-project.org/systems/PB-TE.html) | [2] Liu 2009 | Table IV, p. 9, row 4 |  |
-| -32.532 kJ/mol (basis unstated) | PbTe | 298.15 | model |  | [Pb–Te](https://data.orchid-project.org/systems/PB-TE.html) | [1] Gierlotka 2009 | Table 4, p. 5, row 1 |  |
-| -32.532 kJ/mol (basis unstated) | PbTe | 298.15 | model |  | [Pb–Te](https://data.orchid-project.org/systems/PB-TE.html) | [1] Gierlotka 2009 | p. 5 | “Calculated enthalpy of formation of PbTe intermetallic compound at 298 K is equal -32532 J/mol which shows very good agreement with the values reported in the literature.” |
-| 0.35 eV/defect | PbTe | 300 | DFT | DFT | [Pb–Te](https://data.orchid-project.org/systems/PB-TE.html) | [3] Bajaj 2015 | Table 1, p. 6, row 7 |  |
-| 0.72 eV/defect | PbTe | 300 | DFT | DFT | [Pb–Te](https://data.orchid-project.org/systems/PB-TE.html) | [3] Bajaj 2015 | Table 1, p. 6, row 1 |  |
-| 0.95 eV/defect | PbTe | 300 | DFT | DFT | [Pb–Te](https://data.orchid-project.org/systems/PB-TE.html) | [3] Bajaj 2015 | Table 1, p. 6, row 2 |  |
-| 1.32 eV/defect | PbTe | 300 | DFT | DFT | [Pb–Te](https://data.orchid-project.org/systems/PB-TE.html) | [3] Bajaj 2015 | Table 1, p. 6, row 9 |  |
-| 1.44 eV/defect | PbTe | 300 | DFT | DFT | [Pb–Te](https://data.orchid-project.org/systems/PB-TE.html) | [3] Bajaj 2015 | Table 1, p. 6, row 3 |  |
-| 1.49 eV/defect | PbTe | 300 | DFT | DFT | [Pb–Te](https://data.orchid-project.org/systems/PB-TE.html) | [3] Bajaj 2015 | Table 1, p. 6, row 4 |  |
-| 2.04 eV/defect | PbTe | 300 | DFT | DFT | [Pb–Te](https://data.orchid-project.org/systems/PB-TE.html) | [3] Bajaj 2015 | Table 1, p. 6, row 10 |  |
-| 3.29 eV/defect | PbTe | 300 | DFT | DFT | [Pb–Te](https://data.orchid-project.org/systems/PB-TE.html) | [3] Bajaj 2015 | Table 1, p. 6, row 12 |  |
+| -47.2 kJ/mol (basis unstated) | PbTe | 737 | experimental |  | [Pb–Te](https://data.orchid-project.org/systems/PB-TE.html) | [1] Gierlotka 2009; _cites Castanet 1972_ | Table 4, p. 5, row 5; `ORC-EH56QZYTLP` |  |
+| -36.05 kJ/mol-atom | PbTe | 298.15 | experimental | Tin solution calorimetry | [Pb–Te](https://data.orchid-project.org/systems/PB-TE.html) | [2] Liu 2009; _cites Castanet 1972_ | Table IV, p. 9, row 3; `ORC-MWOCPT64QD` |  |
+| -35.15 kJ/mol-atom | PbTe | 298.15 | experimental | EMF | [Pb–Te](https://data.orchid-project.org/systems/PB-TE.html) | [2] Liu 2009; _cites McAteer 1936_ [doi](https://doi.org/10.1021/ja01302a002) | Table IV, p. 9, row 1; `ORC-O72NGXRE2T` |  |
+| -35.146 kJ/mol (basis unstated) | PbTe | 298.15 | experimental |  | [Pb–Te](https://data.orchid-project.org/systems/PB-TE.html) | [1] Gierlotka 2009; _cites Hirayama 1964_ [doi](https://doi.org/10.1021/je60020a019) | Table 4, p. 5, row 2; `ORC-SKBLF2RDFS` |  |
+| -34.3 kJ/mol-atom | PbTe | 298.15 | experimental | Bismuth solution calorimetry | [Pb–Te](https://data.orchid-project.org/systems/PB-TE.html) | [2] Liu 2009; _cites Robinson 1966_ | Table IV, p. 9, row 2; `ORC-AIHG5W6NQB` |  |
+| -34.267 kJ/mol (basis unstated) | PbTe | 273 | experimental |  | [Pb–Te](https://data.orchid-project.org/systems/PB-TE.html) | [1] Gierlotka 2009; _cites Robinson 1966_ | Table 4, p. 5, row 4; `ORC-LE4BQX6TZO` |  |
+| -23.809 kJ/mol (basis unstated) | PbTe | 295 | experimental |  | [Pb–Te](https://data.orchid-project.org/systems/PB-TE.html) | [1] Gierlotka 2009; _cites Fabre 1887_ | Table 4, p. 5, row 3; `ORC-QXUBI36URW` |  |
+| -34.4 kJ/mol-atom | PbTe | 298.15 | model | CALPHAD | [Pb–Te](https://data.orchid-project.org/systems/PB-TE.html) | [2] Liu 2009 | Table IV, p. 9, row 4; `ORC-KVLT4TSY4A` |  |
+| -32.532 kJ/mol (basis unstated) | PbTe | 298.15 | model |  | [Pb–Te](https://data.orchid-project.org/systems/PB-TE.html) | [1] Gierlotka 2009 | Table 4, p. 5, row 1; `ORC-GX24ALHEMN` |  |
+| -32.532 kJ/mol (basis unstated) | PbTe | 298.15 | model |  | [Pb–Te](https://data.orchid-project.org/systems/PB-TE.html) | [1] Gierlotka 2009 | p. 5; `ORC-UNEVKCBZOW` | “Calculated enthalpy of formation of PbTe intermetallic compound at 298 K is equal -32532 J/mol which shows very good agreement with the values reported in the literature.” |
+| 0.35 eV/defect | PbTe | 300 | DFT | DFT | [Pb–Te](https://data.orchid-project.org/systems/PB-TE.html) | [3] Bajaj 2015 | Table 1, p. 6, row 7; `ORC-AZJHBJHAL2` |  |
+| 0.72 eV/defect | PbTe | 300 | DFT | DFT | [Pb–Te](https://data.orchid-project.org/systems/PB-TE.html) | [3] Bajaj 2015 | Table 1, p. 6, row 1; `ORC-C2FFFPOLG4` |  |
+| 0.95 eV/defect | PbTe | 300 | DFT | DFT | [Pb–Te](https://data.orchid-project.org/systems/PB-TE.html) | [3] Bajaj 2015 | Table 1, p. 6, row 2; `ORC-OUCFKEDWEO` |  |
+| 1.32 eV/defect | PbTe | 300 | DFT | DFT | [Pb–Te](https://data.orchid-project.org/systems/PB-TE.html) | [3] Bajaj 2015 | Table 1, p. 6, row 9; `ORC-I4BMLHPMCG` |  |
+| 1.44 eV/defect | PbTe | 300 | DFT | DFT | [Pb–Te](https://data.orchid-project.org/systems/PB-TE.html) | [3] Bajaj 2015 | Table 1, p. 6, row 3; `ORC-ZICNHNBTB4` |  |
+| 1.49 eV/defect | PbTe | 300 | DFT | DFT | [Pb–Te](https://data.orchid-project.org/systems/PB-TE.html) | [3] Bajaj 2015 | Table 1, p. 6, row 4; `ORC-IZBWKP26AO` |  |
+| 2.04 eV/defect | PbTe | 300 | DFT | DFT | [Pb–Te](https://data.orchid-project.org/systems/PB-TE.html) | [3] Bajaj 2015 | Table 1, p. 6, row 10; `ORC-KAGKYZDHM6` |  |
+| 3.29 eV/defect | PbTe | 300 | DFT | DFT | [Pb–Te](https://data.orchid-project.org/systems/PB-TE.html) | [3] Bajaj 2015 | Table 1, p. 6, row 12; `ORC-MW4B7TLBWP` |  |
 
 ### Uncertainty budget
 
@@ -126,4 +126,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

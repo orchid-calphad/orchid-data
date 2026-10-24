@@ -14,10 +14,10 @@ Table: Enthalpy of formation of HfNi reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -50.06 kJ/mol-atom | NiHf(B33) | 298.15 | model |  | [Hf–Ni](https://data.orchid-project.org/systems/HF-NI.html) | [1] Ross 2018; _cites Berche 2016_ [doi](https://doi.org/10.1016/j.commatsci.2016.08.042) | Table 1, p. 4, row 9 |  |
-| -50 kJ/mol-atom | NiHf(B33) | 298.15 | model |  | [Hf–Ni](https://data.orchid-project.org/systems/HF-NI.html) | [1] Ross 2018 | Table 1, p. 4, row 8 |  |
-| -41.77 kJ/mol-atom | NiHf(B2) | 298.15 | model |  | [Hf–Ni](https://data.orchid-project.org/systems/HF-NI.html) | [1] Ross 2018 | Table 1, p. 4, row 10 |  |
-| -50.06 kJ/mol (basis unstated) | B33-HfNi | 0 | DFT | DFT | [Hf–Ni](https://data.orchid-project.org/systems/HF-NI.html) | [2] Berche 2016 | Table 2, p. 4, row 5 |  |
+| -50.06 kJ/mol-atom | NiHf(B33) | 298.15 | model |  | [Hf–Ni](https://data.orchid-project.org/systems/HF-NI.html) | [1] Ross 2018; _cites Berche 2016_ [doi](https://doi.org/10.1016/j.commatsci.2016.08.042) | Table 1, p. 4, row 9; `ORC-OFNCAV2ZOM.953f73` |  |
+| -50 kJ/mol-atom | NiHf(B33) | 298.15 | model |  | [Hf–Ni](https://data.orchid-project.org/systems/HF-NI.html) | [1] Ross 2018 | Table 1, p. 4, row 8; `ORC-2V6MMT6W3Q.b18886` |  |
+| -41.77 kJ/mol-atom | NiHf(B2) | 298.15 | model |  | [Hf–Ni](https://data.orchid-project.org/systems/HF-NI.html) | [1] Ross 2018 | Table 1, p. 4, row 10; `ORC-SMDYQTNVJ5.a51ff8` |  |
+| -50.06 kJ/mol (basis unstated) | B33-HfNi | 0 | DFT | DFT | [Hf–Ni](https://data.orchid-project.org/systems/HF-NI.html) | [2] Berche 2016 | Table 2, p. 4, row 5; `ORC-SWSJNQ2BTR.6e34ee` |  |
 
 ### Uncertainty budget
 
@@ -98,4 +98,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -14,16 +14,16 @@ Table: Enthalpy of formation of Fe2Tm reported in the literature (10)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -5.98 kJ/mol-atom | Fe2Tm | 300 | experimental | Adiabatic Calo | [Fe–Tm](https://data.orchid-project.org/systems/FE-TM.html) | [1] Kardellass 2014; _cites Germano 1981_ [doi](https://doi.org/10.1103/physrevb.24.3912) | Table 3, p. 4, row 22 |  |
-| -5.7 kJ/mol-atom | Fe2Tm | 290 | experimental | Adiabatic Calo. | [Fe–Tm](https://data.orchid-project.org/systems/FE-TM.html) | [1] Kardellass 2014; _cites Germano 1981_ [doi](https://doi.org/10.1103/physrevb.24.3912) | Table 3, p. 4, row 21 |  |
-| -2.2 kJ/mol-atom ± 2.8 | Fe2Tm | 298.15 | experimental | DSC 1373 ± 2 K | [Fe–Tm](https://data.orchid-project.org/systems/FE-TM.html) | [1] Kardellass 2014; _cites Meschel 2013_ [doi](https://doi.org/10.1016/j.jallcom.2012.11.035) | Table 3, p. 4, row 20 |  |
-| -11.53 kJ/mol-atom | Fe2Tm | 298.15 | model | Optimization | [Fe–Tm](https://data.orchid-project.org/systems/FE-TM.html) | [1] Kardellass 2014; _cites Konar 2012_ | Table 3, p. 4, row 23 |  |
-| -6.7 kJ/mol-atom | Fe2Tm | 298.15 | model | Prediction | [Fe–Tm](https://data.orchid-project.org/systems/FE-TM.html) | [1] Kardellass 2014; _cites Dariel 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990175-1) | Table 3, p. 4, row 18 |  |
-| -6.5 kJ/mol-atom | Fe2Tm | 298.15 | model | Prediction | [Fe–Tm](https://data.orchid-project.org/systems/FE-TM.html) | [1] Kardellass 2014; _cites Germano 1981_ [doi](https://doi.org/10.1103/physrevb.24.3912) | Table 3, p. 4, row 17 |  |
-| -6.19 kJ/mol-atom | Fe2Tm | 298.15 | model | Prediction | [Fe–Tm](https://data.orchid-project.org/systems/FE-TM.html) | [1] Kardellass 2014; _cites Kardellass 2013_ | Table 3, p. 4, row 16 |  |
-| -5.042 kJ/mol-atom | Fe2Tm | 298.15 | model | Optimisation | [Fe–Tm](https://data.orchid-project.org/systems/FE-TM.html) | [1] Kardellass 2014 | Table 3, p. 4, row 24 |  |
-| -2.46 kJ/mol-atom | Fe2Tm | 298.15 | model | Optimization | [Fe–Tm](https://data.orchid-project.org/systems/FE-TM.html) | [1] Kardellass 2014 | Table 3, p. 4, row 25 |  |
-| -13.4 kJ/mol-atom | Fe2Tm | 298.15 | DFT | Ab initio | [Fe–Tm](https://data.orchid-project.org/systems/FE-TM.html) | [1] Kardellass 2014; _cites Meschel 2013_ [doi](https://doi.org/10.1016/j.jallcom.2012.11.035) | Table 3, p. 4, row 19 |  |
+| -5.98 kJ/mol-atom | Fe2Tm | 300 | experimental | Adiabatic Calo | [Fe–Tm](https://data.orchid-project.org/systems/FE-TM.html) | [1] Kardellass 2014; _cites Germano 1981_ [doi](https://doi.org/10.1103/physrevb.24.3912) | Table 3, p. 4, row 22; `ORC-NUHO6HHWO3.48b29d` |  |
+| -5.7 kJ/mol-atom | Fe2Tm | 290 | experimental | Adiabatic Calo. | [Fe–Tm](https://data.orchid-project.org/systems/FE-TM.html) | [1] Kardellass 2014; _cites Germano 1981_ [doi](https://doi.org/10.1103/physrevb.24.3912) | Table 3, p. 4, row 21; `ORC-3DFCHE5IR2.552874` |  |
+| -2.2 kJ/mol-atom ± 2.8 | Fe2Tm | 298.15 | experimental | DSC 1373 ± 2 K | [Fe–Tm](https://data.orchid-project.org/systems/FE-TM.html) | [1] Kardellass 2014; _cites Meschel 2013_ [doi](https://doi.org/10.1016/j.jallcom.2012.11.035) | Table 3, p. 4, row 20; `ORC-F35LRX32BU` |  |
+| -11.53 kJ/mol-atom | Fe2Tm | 298.15 | model | Optimization | [Fe–Tm](https://data.orchid-project.org/systems/FE-TM.html) | [1] Kardellass 2014; _cites Konar 2012_ | Table 3, p. 4, row 23; `ORC-7V2FGD2V5U.2b67d4` |  |
+| -6.7 kJ/mol-atom | Fe2Tm | 298.15 | model | Prediction | [Fe–Tm](https://data.orchid-project.org/systems/FE-TM.html) | [1] Kardellass 2014; _cites Dariel 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990175-1) | Table 3, p. 4, row 18; `ORC-NN5ZZH6VCS.8920a3` |  |
+| -6.5 kJ/mol-atom | Fe2Tm | 298.15 | model | Prediction | [Fe–Tm](https://data.orchid-project.org/systems/FE-TM.html) | [1] Kardellass 2014; _cites Germano 1981_ [doi](https://doi.org/10.1103/physrevb.24.3912) | Table 3, p. 4, row 17; `ORC-5Q6F5EA3XX.75ddb1` |  |
+| -6.19 kJ/mol-atom | Fe2Tm | 298.15 | model | Prediction | [Fe–Tm](https://data.orchid-project.org/systems/FE-TM.html) | [1] Kardellass 2014; _cites Kardellass 2013_ | Table 3, p. 4, row 16; `ORC-D7MS5DAV4X.687fb2` |  |
+| -5.042 kJ/mol-atom | Fe2Tm | 298.15 | model | Optimisation | [Fe–Tm](https://data.orchid-project.org/systems/FE-TM.html) | [1] Kardellass 2014 | Table 3, p. 4, row 24; `ORC-R3WXFRC5LR.8068cd` |  |
+| -2.46 kJ/mol-atom | Fe2Tm | 298.15 | model | Optimization | [Fe–Tm](https://data.orchid-project.org/systems/FE-TM.html) | [1] Kardellass 2014 | Table 3, p. 4, row 25; `ORC-WPCS2KBO5J.ff88ae` |  |
+| -13.4 kJ/mol-atom | Fe2Tm | 298.15 | DFT | Ab initio | [Fe–Tm](https://data.orchid-project.org/systems/FE-TM.html) | [1] Kardellass 2014; _cites Meschel 2013_ [doi](https://doi.org/10.1016/j.jallcom.2012.11.035) | Table 3, p. 4, row 19; `ORC-ZP36O53ECO.a79bab` |  |
 
 ### Uncertainty budget
 
@@ -108,4 +108,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

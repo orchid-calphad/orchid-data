@@ -14,17 +14,17 @@ Table: Enthalpy of formation of Nb3Si reported in the literature (11)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -35.85 kJ/mol-atom | Nb3Si | 298.15 | model | CALPHAD | [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html) | [1] Shao 2004; _cites Fernandes 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900125-5) | Table 3, p. 6, row 4 |  |
-| -33.75 per mol-atom | Nb3Si | 298.15 | model | CALPHAD | [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html) | [1] Shao 2004; _cites Fernandes 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900125-5) | Table 3, p. 6, row 22 |  |
-| -33.357 kJ/mol (basis unstated) | Nb3Si | 298.15 | model | Calphad | [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html) | [2] Utton 2017 | Table 2, p. 6, row 12 |  |
-| -33.163 kJ/mol-atom | Nb3Si | 298.15 | model | CALPHAD | [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html) | [1] Shao 2004; _cites Yang 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900021-9) | Table 3, p. 6, row 1 |  |
-| -32 kJ/mol (basis unstated) | Nb3Si | 298.15 | model | Calphad | [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html) | [2] Utton 2017 | Table 2, p. 6, row 16 |  |
-| -30.301 kJ/mol-atom | Nb3Si | 298.15 | model | CALPHAD | [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html) | [1] Shao 2004; _cites Liang 1999_ [doi](https://doi.org/10.1016/s0966-9795%2898%2900073-9) | Table 3, p. 6, row 2 |  |
-| -29.6425 kJ/mol-atom | Nb3Si | 298.15 | model | CALPHAD | [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html) | [1] Shao 2004 | Table 3, p. 6, row 5 |  |
-| -28.175 kJ/mol-atom | Nb3Si | 298.15 | model |  | [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html) | [3] Liang 1999; _cites Kaufman 1979_ [doi](https://doi.org/10.1016/0364-5916%2879%2990020-8) | Table 2, p. 4, row 9 |  |
-| -28.175 kJ/mol-atom | Nb3Si | 298.15 | model | CALPHAD | [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html) | [1] Shao 2004; _cites Kaufman 1979_ [doi](https://doi.org/10.1016/0364-5916%2879%2990020-8) | Table 3, p. 6, row 3 |  |
-| -37.3 kJ/mol (basis unstated) | Nb3Si | 0 | DFT | ab initio | [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html) | [2] Utton 2017; _cites Papadimitriou 2015_ [doi](https://doi.org/10.1007/s11661-015-3149-0) | Table 2, p. 6, row 11 |  |
-| -34.73 kJ/mol (basis unstated) | Nb3Si | 0 | DFT | ab initio | [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html) | [2] Utton 2017; _cites Papadimitriou 2015_ [doi](https://doi.org/10.1007/s11661-015-3149-0) | Table 2, p. 6, row 15 |  |
+| -35.85 kJ/mol-atom | Nb3Si | 298.15 | model | CALPHAD | [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html) | [1] Shao 2004; _cites Fernandes 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900125-5) | Table 3, p. 6, row 4; `ORC-6ICZLOG2AB` |  |
+| -33.75 per mol-atom | Nb3Si | 298.15 | model | CALPHAD | [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html) | [1] Shao 2004; _cites Fernandes 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900125-5) | Table 3, p. 6, row 22; `ORC-KWVLTCABHF` |  |
+| -33.357 kJ/mol (basis unstated) | Nb3Si | 298.15 | model | Calphad | [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html) | [2] Utton 2017 | Table 2, p. 6, row 12; `ORC-JWSBVNHBNK` |  |
+| -33.163 kJ/mol-atom | Nb3Si | 298.15 | model | CALPHAD | [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html) | [1] Shao 2004; _cites Yang 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900021-9) | Table 3, p. 6, row 1; `ORC-T2Z475FDRC` |  |
+| -32 kJ/mol (basis unstated) | Nb3Si | 298.15 | model | Calphad | [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html) | [2] Utton 2017 | Table 2, p. 6, row 16; `ORC-HWQNBEHH2K` |  |
+| -30.301 kJ/mol-atom | Nb3Si | 298.15 | model | CALPHAD | [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html) | [1] Shao 2004; _cites Liang 1999_ [doi](https://doi.org/10.1016/s0966-9795%2898%2900073-9) | Table 3, p. 6, row 2; `ORC-HIXXLBV3DH` |  |
+| -29.6425 kJ/mol-atom | Nb3Si | 298.15 | model | CALPHAD | [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html) | [1] Shao 2004 | Table 3, p. 6, row 5; `ORC-LNB6D3ORYX` |  |
+| -28.175 kJ/mol-atom | Nb3Si | 298.15 | model |  | [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html) | [3] Liang 1999; _cites Kaufman 1979_ [doi](https://doi.org/10.1016/0364-5916%2879%2990020-8) | Table 2, p. 4, row 9; `ORC-527UGG2XQ5` |  |
+| -28.175 kJ/mol-atom | Nb3Si | 298.15 | model | CALPHAD | [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html) | [1] Shao 2004; _cites Kaufman 1979_ [doi](https://doi.org/10.1016/0364-5916%2879%2990020-8) | Table 3, p. 6, row 3; `ORC-K7KBPE7NTQ` |  |
+| -37.3 kJ/mol (basis unstated) | Nb3Si | 0 | DFT | ab initio | [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html) | [2] Utton 2017; _cites Papadimitriou 2015_ [doi](https://doi.org/10.1007/s11661-015-3149-0) | Table 2, p. 6, row 11; `ORC-H4A2C3P26Y` |  |
+| -34.73 kJ/mol (basis unstated) | Nb3Si | 0 | DFT | ab initio | [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html) | [2] Utton 2017; _cites Papadimitriou 2015_ [doi](https://doi.org/10.1007/s11661-015-3149-0) | Table 2, p. 6, row 15; `ORC-KOBBW4DSPM` |  |
 
 ### Uncertainty budget
 
@@ -112,4 +112,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

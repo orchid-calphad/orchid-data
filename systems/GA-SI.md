@@ -49,7 +49,7 @@ Table: Invariant reactions reported in the literature for the Ga–Si system (1)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 293.15 | eutectic |  | experimental | [1] Olesinski 1985; _cites ref. 58Sav_ | p. 1 | “The temperature-composition coordinates of the liquidus listed in Table 1 have been taken from \[48Kle\], \[53Kec\], and \[77Girl; the data of \[58Sav\] seem to be questionable (the authors claimed the eutectic point to be at 20 ~ and 1.2 at.% Si).” |
+| 293.15 | eutectic |  | experimental | [1] Olesinski 1985; _cites ref. 58Sav_ | p. 1; `ORC-ZFRMRGW3AC` | “The temperature-composition coordinates of the liquidus listed in Table 1 have been taken from \[48Kle\], \[53Kec\], and \[77Girl; the data of \[58Sav\] seem to be questionable (the authors claimed the eutectic point to be at 20 ~ and 1.2 at.% Si).” |
 
 ## Other properties
 
@@ -59,17 +59,17 @@ Table: Phase equilibrium, Ga–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 578.15 | Liquid + L; _Liquid: Ga 0.9999, Si 1.000e-4; L: Ga 0.9999, Si 1.000e-4_ | experimental | [1] Olesinski 1985; _cites Keck 1953_ | Table 1, p. 1, row 11 |  |
-| Phase composition |  | 753.15 | Liquid + L; _Liquid: Ga 0.998, Si 0.002; L: Ga 0.998, Si 0.002_ | experimental | [1] Olesinski 1985; _cites Girault 1977_ | Table 1, p. 1, row 10 |  |
-| Phase composition |  | 773.15 | Liquid + L; _Liquid: Ga 0.9974, Si 0.0026; L: Ga 0.9974, Si 0.0026_ | experimental | [1] Olesinski 1985; _cites Keck 1953_ | Table 1, p. 1, row 9 |  |
-| Phase composition |  | 883.15 | Liquid + L; _Liquid: Ga 0.993, Si 0.007; L: Ga 0.993, Si 0.007_ | experimental | [1] Olesinski 1985; _cites Girault 1977_ | Table 1, p. 1, row 8 |  |
-| Phase composition |  | 973.15 | Liquid + L; _Liquid: Ga 0.98, Si 0.02; L: Ga 0.98, Si 0.02_ | experimental | [1] Olesinski 1985; _cites Girault 1977_ | Table 1, p. 1, row 7 |  |
-| Phase composition |  | 1023.15 | Liquid + L; _Liquid: Ga 0.95, Si 0.05; L: Ga 0.95, Si 0.05_ | experimental | [1] Olesinski 1985; _cites ref. 48Kle_ | Table 1, p. 1, row 6 |  |
-| Phase composition |  | 1028.15 | Liquid + L; _Liquid: Ga 0.965, Si 0.035; L: Ga 0.965, Si 0.035_ | experimental | [1] Olesinski 1985; _cites Keck 1953_ | Table 1, p. 1, row 5 |  |
-| Phase composition |  | 1073.15 | Liquid + L; _Liquid: Ga 0.95, Si 0.05; L: Ga 0.95, Si 0.05_ | experimental | [1] Olesinski 1985; _cites Girault 1977_ | Table 1, p. 1, row 4 |  |
-| Phase composition |  | 1173.15 | Liquid + L; _Liquid: Ga 0.9, Si 0.1; L: Ga 0.9, Si 0.1_ | experimental | [1] Olesinski 1985; _cites ref. 48Kle_ | Table 1, p. 1, row 3 |  |
-| Phase composition |  | 1273.15 | Liquid + L; _Liquid: Ga 0.8, Si 0.2; L: Ga 0.8, Si 0.2_ | experimental | [1] Olesinski 1985; _cites ref. 48Kle_ | Table 1, p. 1, row 2 |  |
-| Phase composition |  | 1423.15 | Liquid + L; _Liquid: Ga 0.6, Si 0.4; L: Ga 0.6, Si 0.4_ | experimental | [1] Olesinski 1985; _cites ref. 48Kle_ | Table 1, p. 1, row 1 |  |
+| Phase composition |  | 578.15 | Liquid + L; _Liquid: Ga 0.9999, Si 1.000e-4; L: Ga 0.9999, Si 1.000e-4_ | experimental | [1] Olesinski 1985; _cites Keck 1953_ | Table 1, p. 1, row 11; `ORC-F6YK7MY5RJ` |  |
+| Phase composition |  | 753.15 | Liquid + L; _Liquid: Ga 0.998, Si 0.002; L: Ga 0.998, Si 0.002_ | experimental | [1] Olesinski 1985; _cites Girault 1977_ | Table 1, p. 1, row 10; `ORC-VQZHGXXRPZ` |  |
+| Phase composition |  | 773.15 | Liquid + L; _Liquid: Ga 0.9974, Si 0.0026; L: Ga 0.9974, Si 0.0026_ | experimental | [1] Olesinski 1985; _cites Keck 1953_ | Table 1, p. 1, row 9; `ORC-Q2UIYCP65H` |  |
+| Phase composition |  | 883.15 | Liquid + L; _Liquid: Ga 0.993, Si 0.007; L: Ga 0.993, Si 0.007_ | experimental | [1] Olesinski 1985; _cites Girault 1977_ | Table 1, p. 1, row 8; `ORC-YYRWCYEGKM` |  |
+| Phase composition |  | 973.15 | Liquid + L; _Liquid: Ga 0.98, Si 0.02; L: Ga 0.98, Si 0.02_ | experimental | [1] Olesinski 1985; _cites Girault 1977_ | Table 1, p. 1, row 7; `ORC-7WABEL57QA` |  |
+| Phase composition |  | 1023.15 | Liquid + L; _Liquid: Ga 0.95, Si 0.05; L: Ga 0.95, Si 0.05_ | experimental | [1] Olesinski 1985; _cites ref. 48Kle_ | Table 1, p. 1, row 6; `ORC-EJNJGENN5N` |  |
+| Phase composition |  | 1028.15 | Liquid + L; _Liquid: Ga 0.965, Si 0.035; L: Ga 0.965, Si 0.035_ | experimental | [1] Olesinski 1985; _cites Keck 1953_ | Table 1, p. 1, row 5; `ORC-TG3R2XMOUG` |  |
+| Phase composition |  | 1073.15 | Liquid + L; _Liquid: Ga 0.95, Si 0.05; L: Ga 0.95, Si 0.05_ | experimental | [1] Olesinski 1985; _cites Girault 1977_ | Table 1, p. 1, row 4; `ORC-K62V7S6FN7` |  |
+| Phase composition |  | 1173.15 | Liquid + L; _Liquid: Ga 0.9, Si 0.1; L: Ga 0.9, Si 0.1_ | experimental | [1] Olesinski 1985; _cites ref. 48Kle_ | Table 1, p. 1, row 3; `ORC-HEVLDDDIU4` |  |
+| Phase composition |  | 1273.15 | Liquid + L; _Liquid: Ga 0.8, Si 0.2; L: Ga 0.8, Si 0.2_ | experimental | [1] Olesinski 1985; _cites ref. 48Kle_ | Table 1, p. 1, row 2; `ORC-ESZJQ7KVLK` |  |
+| Phase composition |  | 1423.15 | Liquid + L; _Liquid: Ga 0.6, Si 0.4; L: Ga 0.6, Si 0.4_ | experimental | [1] Olesinski 1985; _cites ref. 48Kle_ | Table 1, p. 1, row 1; `ORC-TJHAPQLNP2` |  |
 
 ### Crystal structure (1)
 
@@ -77,7 +77,7 @@ Table: Crystal structure, Ga–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 5.4306 Å | 298.15 | (Si); _(Si): Ga 0.001, Si 0.999_ | unspecified | [1] Olesinski 1985; _cites ref. 1_ | Table 4, p. 2, row 1 |  |
+| Lattice a | 5.4306 Å | 298.15 | (Si); _(Si): Ga 0.001, Si 0.999_ | unspecified | [1] Olesinski 1985; _cites ref. 1_ | Table 4, p. 2, row 1; `ORC-POXWZDK5MW` |  |
 
 ## Sources
 
@@ -142,4 +142,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

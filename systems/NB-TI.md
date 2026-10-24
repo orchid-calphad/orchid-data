@@ -44,8 +44,8 @@ Table: Phase transition, Nb–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 758.15 K | 758.15 | polymorphic: 13-~to | model | [1] Zhang 2001 | p. 6 | “The allotropic temperature 13-~to is calculated to be 485°C, considering the uncertainty of the measured data, this may be acceptable in light of the evaluation of Moffat and Kattner\[35\].” |
-| Phase transition | 786.15 K | 786.15 |  | model | [1] Zhang 2001 | p. 6 | “The calculated consohte point of the miscibility gap is at x~=0.5 and Tc=513°C.” |
+| Phase transition | 758.15 K | 758.15 | polymorphic: 13-~to | model | [1] Zhang 2001 | p. 6; `ORC-SVRXMV5GLL` | “The allotropic temperature 13-~to is calculated to be 485°C, considering the uncertainty of the measured data, this may be acceptable in light of the evaluation of Moffat and Kattner\[35\].” |
+| Phase transition | 786.15 K | 786.15 |  | model | [1] Zhang 2001 | p. 6; `ORC-IC6HSKY7PG` | “The calculated consohte point of the miscibility gap is at x~=0.5 and Tc=513°C.” |
 
 ## Sources
 
@@ -110,4 +110,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

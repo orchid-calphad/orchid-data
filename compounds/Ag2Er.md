@@ -14,11 +14,11 @@ Table: Enthalpy of formation of Ag2Er reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -24 kJ/mol-atom ± 2.3 | Ag2Er | 298.15 | experimental |  | [Ag–Er](https://data.orchid-project.org/systems/AG-ER.html) | [1] Long 2010; _cites Steeb 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990047-7) | Table 1, p. 3, row 17 |  |
-| -39 kJ/mol-atom | Ag2Er |  | model |  | [Ag–Er](https://data.orchid-project.org/systems/AG-ER.html) | [1] Long 2010; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 1, p. 3, row 18 |  |
-| -24 kJ/mol-atom ± 2.3 | Ag2Er |  | model |  | [Ag–Er](https://data.orchid-project.org/systems/AG-ER.html) | [1] Long 2010; _cites Steeb 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990047-7) | Table 1, p. 3, row 34 |  |
-| -34.119 kJ/mol-atom | Ag2Er | 298.15 | DFT | first-principles calculations | [Ag–Er](https://data.orchid-project.org/systems/AG-ER.html) | [1] Long 2010 | Table 1, p. 3, row 16 |  |
-| -34.119 kJ/mol-atom | Ag2Er | 298.15 | DFT | first-principles (VASP PAW-GGA) | [Ag–Er](https://data.orchid-project.org/systems/AG-ER.html) | [1] Long 2010 | Table 1, p. 3, row 33 |  |
+| -24 kJ/mol-atom ± 2.3 | Ag2Er | 298.15 | experimental |  | [Ag–Er](https://data.orchid-project.org/systems/AG-ER.html) | [1] Long 2010; _cites Steeb 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990047-7) | Table 1, p. 3, row 17; `ORC-GS6XVX4ZWR` |  |
+| -39 kJ/mol-atom | Ag2Er |  | model |  | [Ag–Er](https://data.orchid-project.org/systems/AG-ER.html) | [1] Long 2010; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 1, p. 3, row 18; `ORC-K3OLYTDR42.37b8ce` |  |
+| -24 kJ/mol-atom ± 2.3 | Ag2Er |  | model |  | [Ag–Er](https://data.orchid-project.org/systems/AG-ER.html) | [1] Long 2010; _cites Steeb 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990047-7) | Table 1, p. 3, row 34; `ORC-BV4XQBS63W` |  |
+| -34.119 kJ/mol-atom | Ag2Er | 298.15 | DFT | first-principles calculations | [Ag–Er](https://data.orchid-project.org/systems/AG-ER.html) | [1] Long 2010 | Table 1, p. 3, row 16; `ORC-KVFIPFQS3B` |  |
+| -34.119 kJ/mol-atom | Ag2Er | 298.15 | DFT | first-principles (VASP PAW-GGA) | [Ag–Er](https://data.orchid-project.org/systems/AG-ER.html) | [1] Long 2010 | Table 1, p. 3, row 33; `ORC-P7PKLGDQ54` |  |
 
 ### Uncertainty budget
 
@@ -98,4 +98,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

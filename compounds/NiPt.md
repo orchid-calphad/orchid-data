@@ -14,15 +14,15 @@ Table: Enthalpy of formation of NiPt reported in the literature (9)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -9.27 kJ/mol-atom | NiPt–L10 | 298.15 | experimental | Experiment \[20\] | [Ni–Pt](https://data.orchid-project.org/systems/NI-PT.html) | [1] Lu 2009; _cites Hultgren 1973_ | Table 1, p. 3, row 15 |  |
-| -9.27 kJ/mol-atom | NiPt | 298.15 | experimental |  | [Ni–Pt](https://data.orchid-project.org/systems/NI-PT.html) | [2] Kim 2011; _cites Walker 1970_ [doi](https://doi.org/10.1016/0001-6160%2870%2990156-2) | Table 4, p. 4, row 13 |  |
-| -13.5 kJ/mol-atom | NiPt–L10 | 0 | model | Assessment (this work) | [Ni–Pt](https://data.orchid-project.org/systems/NI-PT.html) | [1] Lu 2009 | Table 1, p. 3, row 13 |  |
-| -11.76 kJ/mol-atom | NiPt–L10 | 0 | DFT | LMTO + CPA \[19\] | [Ni–Pt](https://data.orchid-project.org/systems/NI-PT.html) | [1] Lu 2009; _cites Ruban 1995_ [doi](https://doi.org/10.1103/physrevb.51.12958) | Table 1, p. 3, row 6 |  |
-| -11.42 kJ/mol-atom | NiPt–L10 | 0 | DFT | FLMTO + CWM \[17\] | [Ni–Pt](https://data.orchid-project.org/systems/NI-PT.html) | [1] Lu 2009; _cites Amador 1993_ [doi](https://doi.org/10.1103/physrevb.47.15276) | Table 1, p. 3, row 2 |  |
-| -9.23 kJ/mol-atom | NiPt–L10 | 0 | DFT | LAPW \[18\] | [Ni–Pt](https://data.orchid-project.org/systems/NI-PT.html) | [1] Lu 2009; _cites Lu 1993_ [doi](https://doi.org/10.1209/0295-5075/21/2/017) | Table 1, p. 3, row 4 |  |
-| -8.98 kJ/mol-atom | NiPt–L10 | 0 | DFT | VASP (relaxed value) | [Ni–Pt](https://data.orchid-project.org/systems/NI-PT.html) | [1] Lu 2009 | Table 1, p. 3, row 11 |  |
-| -8.98 kJ/mol-atom | NiPt | 0 | DFT | VASP (relaxation) | [Ni–Pt](https://data.orchid-project.org/systems/NI-PT.html) | [2] Kim 2011; _cites Lu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.06.002) | Table 4, p. 4, row 12 |  |
-| -7.64 kJ/mol-atom | NiPt–L10 | 0 | DFT | VASP (no relaxation) | [Ni–Pt](https://data.orchid-project.org/systems/NI-PT.html) | [1] Lu 2009 | Table 1, p. 3, row 9 |  |
+| -9.27 kJ/mol-atom | NiPt–L10 | 298.15 | experimental | Experiment \[20\] | [Ni–Pt](https://data.orchid-project.org/systems/NI-PT.html) | [1] Lu 2009; _cites Hultgren 1973_ | Table 1, p. 3, row 15; `ORC-EZRR4E25UL` |  |
+| -9.27 kJ/mol-atom | NiPt | 298.15 | experimental |  | [Ni–Pt](https://data.orchid-project.org/systems/NI-PT.html) | [2] Kim 2011; _cites Walker 1970_ [doi](https://doi.org/10.1016/0001-6160%2870%2990156-2) | Table 4, p. 4, row 13; `ORC-QHCJDNTPZ4` |  |
+| -13.5 kJ/mol-atom | NiPt–L10 | 0 | model | Assessment (this work) | [Ni–Pt](https://data.orchid-project.org/systems/NI-PT.html) | [1] Lu 2009 | Table 1, p. 3, row 13; `ORC-PHHTK7642F` |  |
+| -11.76 kJ/mol-atom | NiPt–L10 | 0 | DFT | LMTO + CPA \[19\] | [Ni–Pt](https://data.orchid-project.org/systems/NI-PT.html) | [1] Lu 2009; _cites Ruban 1995_ [doi](https://doi.org/10.1103/physrevb.51.12958) | Table 1, p. 3, row 6; `ORC-GHAU4UCNYB` |  |
+| -11.42 kJ/mol-atom | NiPt–L10 | 0 | DFT | FLMTO + CWM \[17\] | [Ni–Pt](https://data.orchid-project.org/systems/NI-PT.html) | [1] Lu 2009; _cites Amador 1993_ [doi](https://doi.org/10.1103/physrevb.47.15276) | Table 1, p. 3, row 2; `ORC-5HFJNYGJHS` |  |
+| -9.23 kJ/mol-atom | NiPt–L10 | 0 | DFT | LAPW \[18\] | [Ni–Pt](https://data.orchid-project.org/systems/NI-PT.html) | [1] Lu 2009; _cites Lu 1993_ [doi](https://doi.org/10.1209/0295-5075/21/2/017) | Table 1, p. 3, row 4; `ORC-EN3DMN46TV` |  |
+| -8.98 kJ/mol-atom | NiPt–L10 | 0 | DFT | VASP (relaxed value) | [Ni–Pt](https://data.orchid-project.org/systems/NI-PT.html) | [1] Lu 2009 | Table 1, p. 3, row 11; `ORC-EH5UTTYPNO` |  |
+| -8.98 kJ/mol-atom | NiPt | 0 | DFT | VASP (relaxation) | [Ni–Pt](https://data.orchid-project.org/systems/NI-PT.html) | [2] Kim 2011; _cites Lu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.06.002) | Table 4, p. 4, row 12; `ORC-TJTQXRTTEQ` |  |
+| -7.64 kJ/mol-atom | NiPt–L10 | 0 | DFT | VASP (no relaxation) | [Ni–Pt](https://data.orchid-project.org/systems/NI-PT.html) | [1] Lu 2009 | Table 1, p. 3, row 9; `ORC-EY6RZ5VUHV` |  |
 
 ### Uncertainty budget
 
@@ -107,4 +107,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

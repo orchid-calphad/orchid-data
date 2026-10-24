@@ -51,13 +51,13 @@ Table: Invariant reactions reported in the literature for the Cr–Sc system (7)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1363.15 | eutectic: L (65.2 at.% Sc) M (Cr) + bSc (92.3 at.% Sc) |  | model | [1] Wang 2015 | p. 2 | “The calculated eutectoid reaction (bSc(93.4 at.% Sc) M (Cr) + aSc(98.62 at.% Sc)) occurs at 990.1 °C, and the calculated eutectic reaction (L (65.2 at.% Sc) M (Cr) + bSc (92.3 at.% Sc)) is located at 1090 °C.” |
-| 1363.15 | eutectic: Liquid (bCr) + (bSc) |  | experimental | [2] Bu 2012; _cites Svechnikov 1972_ | p. 2 | “The eutectoid reaction temperature for (bSc) (bCr) + (aSc) and the eutectic reaction temperature for Liquid (bCr) + (bSc) were determined by Svechnikov et al.\[18\] to be 990 °C at 60-65 at.% Sc and to be 1090 °C, respectively.” |
-| 1363.15 | eutectic: L -> (Cr) + bSc |  | experimental | [1] Wang 2015; _cites Svechnikov 1972_ | p. 1 | “Based on differential thermal analysis (DTA), microhardness measurements, x-ray diffraction (XRD) and metallographic methods, the Sc-Cr system was investigated by Svechnikov et al.,\[8\] who determined a eutectic reaction (L (65 at.% Sc) M (Cr) + bSc at 1090 °C) and a eutectoid reaction (bSc M (Cr) + aSc at 990 °C).” |
-| 1263.25 | eutectoid: bSc(93.4 at.% Sc) M (Cr) + aSc(98.62 at.% Sc) |  | model | [1] Wang 2015 | p. 2 | “The calculated eutectoid reaction (bSc(93.4 at.% Sc) M (Cr) + aSc(98.62 at.% Sc)) occurs at 990.1 °C, and the calculated eutectic reaction (L (65.2 at.% Sc) M (Cr) + bSc (92.3 at.% Sc)) is located at 1090 °C.” |
-| 1263.25 | βSc -> (Cr) + αSc | βSc: Sc 0.934; (Cr): Sc 0; αSc: Sc 0.9862 | model | [1] Wang 2015 | Table 1, p. 3, row 6 |  |
-| 1263.15 | βSc -> (Cr) + αSc |  | experimental | [1] Wang 2015; _cites Svechnikov 1972_ | Table 1, p. 3, row 5 |  |
-| 1263.15 | eutectoid: bSc -> (Cr) + aSc |  | experimental | [1] Wang 2015; _cites Svechnikov 1972_ | p. 1 | “Based on differential thermal analysis (DTA), microhardness measurements, x-ray diffraction (XRD) and metallographic methods, the Sc-Cr system was investigated by Svechnikov et al.,\[8\] who determined a eutectic reaction (L (65 at.% Sc) M (Cr) + bSc at 1090 °C) and a eutectoid reaction (bSc M (Cr) + aSc at 990 °C).” |
+| 1363.15 | eutectic: L (65.2 at.% Sc) M (Cr) + bSc (92.3 at.% Sc) |  | model | [1] Wang 2015 | p. 2; `ORC-EPXCWIEUTF.76b21b` | “The calculated eutectoid reaction (bSc(93.4 at.% Sc) M (Cr) + aSc(98.62 at.% Sc)) occurs at 990.1 °C, and the calculated eutectic reaction (L (65.2 at.% Sc) M (Cr) + bSc (92.3 at.% Sc)) is located at 1090 °C.” |
+| 1363.15 | eutectic: Liquid (bCr) + (bSc) |  | experimental | [2] Bu 2012; _cites Svechnikov 1972_ | p. 2; `ORC-IHT2AX4VEY.332391` | “The eutectoid reaction temperature for (bSc) (bCr) + (aSc) and the eutectic reaction temperature for Liquid (bCr) + (bSc) were determined by Svechnikov et al.\[18\] to be 990 °C at 60-65 at.% Sc and to be 1090 °C, respectively.” |
+| 1363.15 | eutectic: L -> (Cr) + bSc |  | experimental | [1] Wang 2015; _cites Svechnikov 1972_ | p. 1; `ORC-OTYI4GIZNQ.20eb45` | “Based on differential thermal analysis (DTA), microhardness measurements, x-ray diffraction (XRD) and metallographic methods, the Sc-Cr system was investigated by Svechnikov et al.,\[8\] who determined a eutectic reaction (L (65 at.% Sc) M (Cr) + bSc at 1090 °C) and a eutectoid reaction (bSc M (Cr) + aSc at 990 °C).” |
+| 1263.25 | eutectoid: bSc(93.4 at.% Sc) M (Cr) + aSc(98.62 at.% Sc) |  | model | [1] Wang 2015 | p. 2; `ORC-EPXCWIEUTF.80e71c` | “The calculated eutectoid reaction (bSc(93.4 at.% Sc) M (Cr) + aSc(98.62 at.% Sc)) occurs at 990.1 °C, and the calculated eutectic reaction (L (65.2 at.% Sc) M (Cr) + bSc (92.3 at.% Sc)) is located at 1090 °C.” |
+| 1263.25 | βSc -> (Cr) + αSc | βSc: Sc 0.934; (Cr): Sc 0; αSc: Sc 0.9862 | model | [1] Wang 2015 | Table 1, p. 3, row 6; `ORC-LV3AS346S5` |  |
+| 1263.15 | βSc -> (Cr) + αSc |  | experimental | [1] Wang 2015; _cites Svechnikov 1972_ | Table 1, p. 3, row 5; `ORC-NEICK5WMN5` |  |
+| 1263.15 | eutectoid: bSc -> (Cr) + aSc |  | experimental | [1] Wang 2015; _cites Svechnikov 1972_ | p. 1; `ORC-OTYI4GIZNQ.4af1ed` | “Based on differential thermal analysis (DTA), microhardness measurements, x-ray diffraction (XRD) and metallographic methods, the Sc-Cr system was investigated by Svechnikov et al.,\[8\] who determined a eutectic reaction (L (65 at.% Sc) M (Cr) + bSc at 1090 °C) and a eutectoid reaction (bSc M (Cr) + aSc at 990 °C).” |
 
 ## Other properties
 
@@ -67,7 +67,7 @@ Table: Phase transition, Cr–Sc system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1263.15 K | 1263.15 | (bSc) (bCr) + (aSc) | experimental | [2] Bu 2012; _cites Svechnikov 1972_ | p. 2 | “The eutectoid reaction temperature for (bSc) (bCr) + (aSc) and the eutectic reaction temperature for Liquid (bCr) + (bSc) were determined by Svechnikov et al.\[18\] to be 990 °C at 60-65 at.% Sc and to be 1090 °C, respectively.” |
+| Phase transition | 1263.15 K | 1263.15 | (bSc) (bCr) + (aSc) | experimental | [2] Bu 2012; _cites Svechnikov 1972_ | p. 2; `ORC-IHT2AX4VEY.223208` | “The eutectoid reaction temperature for (bSc) (bCr) + (aSc) and the eutectic reaction temperature for Liquid (bCr) + (bSc) were determined by Svechnikov et al.\[18\] to be 990 °C at 60-65 at.% Sc and to be 1090 °C, respectively.” |
 
 ### Mixing / partial (2)
 
@@ -75,8 +75,8 @@ Table: Mixing / partial, Cr–Sc system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: enthalpy of mixing_ | 1 kJ/mol (basis unstated) | 2273.15 | liquid; _alloy: Cr 0.5, Sc 0.5_ | model | [1] Wang 2015; _cites F 1988_ | Table 3, p. 3, row 1 |  |
-| Enthalpy of mixing; _printed: enthalpy of mixing_ | 0.975 kJ/mol (basis unstated) | 2273.15 | liquid; _alloy: Cr 0.5, Sc 0.5_ | model | [1] Wang 2015 | Table 3, p. 3, row 2 |  |
+| Enthalpy of mixing; _printed: enthalpy of mixing_ | 1 kJ/mol (basis unstated) | 2273.15 | liquid; _alloy: Cr 0.5, Sc 0.5_ | model | [1] Wang 2015; _cites F 1988_ | Table 3, p. 3, row 1; `ORC-KNYKAU2W5D` |  |
+| Enthalpy of mixing; _printed: enthalpy of mixing_ | 0.975 kJ/mol (basis unstated) | 2273.15 | liquid; _alloy: Cr 0.5, Sc 0.5_ | model | [1] Wang 2015 | Table 3, p. 3, row 2; `ORC-RBIU7EBWFI` |  |
 
 ## Sources
 
@@ -142,4 +142,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

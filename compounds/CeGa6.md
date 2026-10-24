@@ -14,11 +14,11 @@ Table: Enthalpy of formation of CeGa6 reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -52.8 kJ/mol-atom ± 3 | CeGa6_HT | 298.15 | experimental | Precipitation Cal. 876 K | [Ce–Ga](https://data.orchid-project.org/systems/CE-GA.html) | [1] Idbenali 2013; _cites F 1998_ | Table 4, p. 6, row 2 |  |
-| -48.2 kJ/mol-atom ± 3.7 | CeGa6_HT | 298.15 | experimental | Ga. Soln. Calori.; 874 K | [Ce–Ga](https://data.orchid-project.org/systems/CE-GA.html) | [1] Idbenali 2013; _cites F 1998_ | Table 4, p. 6, row 1 |  |
-| -51.56 kJ/mol-atom | CeGa6_LT | 298.15 | model | Optimisation | [Ce–Ga](https://data.orchid-project.org/systems/CE-GA.html) | [1] Idbenali 2013 | Table 4, p. 6, row 4 |  |
-| -51.364 kJ/mol-atom | CeGa6_HT | 298.15 | model | Optimisation | [Ce–Ga](https://data.orchid-project.org/systems/CE-GA.html) | [1] Idbenali 2013 | Table 4, p. 6, row 3 |  |
-| -30.9 kJ/mol-atom | CeGa6_LT | 298.15 | model | Miedema’s Model | [Ce–Ga](https://data.orchid-project.org/systems/CE-GA.html) | [1] Idbenali 2013; _cites Chkhikvadze 1977_ | Table 4, p. 6, row 5 |  |
+| -52.8 kJ/mol-atom ± 3 | CeGa6_HT | 298.15 | experimental | Precipitation Cal. 876 K | [Ce–Ga](https://data.orchid-project.org/systems/CE-GA.html) | [1] Idbenali 2013; _cites F 1998_ | Table 4, p. 6, row 2; `ORC-3DZQD5VPJE.4e94d2` |  |
+| -48.2 kJ/mol-atom ± 3.7 | CeGa6_HT | 298.15 | experimental | Ga. Soln. Calori.; 874 K | [Ce–Ga](https://data.orchid-project.org/systems/CE-GA.html) | [1] Idbenali 2013; _cites F 1998_ | Table 4, p. 6, row 1; `ORC-LUZGT5ZL7C.458ada` |  |
+| -51.56 kJ/mol-atom | CeGa6_LT | 298.15 | model | Optimisation | [Ce–Ga](https://data.orchid-project.org/systems/CE-GA.html) | [1] Idbenali 2013 | Table 4, p. 6, row 4; `ORC-UBPCCC4VRK.44e827` |  |
+| -51.364 kJ/mol-atom | CeGa6_HT | 298.15 | model | Optimisation | [Ce–Ga](https://data.orchid-project.org/systems/CE-GA.html) | [1] Idbenali 2013 | Table 4, p. 6, row 3; `ORC-I2EZZJHMZT.434fb9` |  |
+| -30.9 kJ/mol-atom | CeGa6_LT | 298.15 | model | Miedema’s Model | [Ce–Ga](https://data.orchid-project.org/systems/CE-GA.html) | [1] Idbenali 2013; _cites Chkhikvadze 1977_ | Table 4, p. 6, row 5; `ORC-IFQYSR23SP.0ad264` |  |
 
 ### Uncertainty budget
 
@@ -98,4 +98,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

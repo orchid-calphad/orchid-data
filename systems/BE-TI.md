@@ -69,7 +69,7 @@ Table: Invariant reactions reported in the literature for the Be–Ti system (1)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1253 | eutectic: L \<-> (betaTi) + TiBe2 |  | experimental | [1] Tokunaga 2006 | p. 5 | “From on microscopy data, Obinata et al. found the eutectic composition at 28.6 mol% Be for L ↔ (␤Ti) + TiBe2 and the eutectoid composition at about 3 mol% Be for (␤Ti) ↔ (␣Ti) + TiBe2, at eutectic and eutectoid temperatures of 1253 and 1088 K, respectively.” |
+| 1253 | eutectic: L \<-> (betaTi) + TiBe2 |  | experimental | [1] Tokunaga 2006 | p. 5; `ORC-UARJXHFEK3.8221f9` | “From on microscopy data, Obinata et al. found the eutectic composition at 28.6 mol% Be for L ↔ (␤Ti) + TiBe2 and the eutectoid composition at about 3 mol% Be for (␤Ti) ↔ (␣Ti) + TiBe2, at eutectic and eutectoid temperatures of 1253 and 1088 K, respectively.” |
 
 ## Formation enthalpies
 
@@ -79,39 +79,39 @@ Table: Enthalpies of formation, Be–Ti system (33)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Ti3Be(D03) | [BeTi3](https://data.orchid-project.org/compounds/BeTi3.html) | 3.6 kJ/mol-atom |  | model | -0.057 (mp-aaacpoqd) | 7.452 (oqmd-314708) | [1] Tokunaga 2006 | Table 2, p. 2, row 1 |  |
-| Ti3Be(D03) | [BeTi3](https://data.orchid-project.org/compounds/BeTi3.html) | 3.6 kJ/mol-atom | 0 | model | -0.057 (mp-aaacpoqd) | 7.452 (oqmd-314708) | [1] Tokunaga 2006 | Table 2, p. 2, row 1 |  |
-| TiBe(B2) | [BeTi](https://data.orchid-project.org/compounds/BeTi.html) | -27 kJ/mol-atom |  | model | -13.537 (mp-aaaaaqrv) | -15.798 (oqmd-10906) | [1] Tokunaga 2006 | Table 2, p. 2, row 2 |  |
-| TiBe(B2) | [BeTi](https://data.orchid-project.org/compounds/BeTi.html) | -23.6 kJ/mol-atom |  | model | -13.537 (mp-aaaaaqrv) | -15.798 (oqmd-10906) | [1] Tokunaga 2006 | Table 2, p. 2, row 2 |  |
-| TiBe(B2) | [BeTi](https://data.orchid-project.org/compounds/BeTi.html) | -23.6 kJ/mol-atom | 0 | model | -13.537 (mp-aaaaaqrv) | -15.798 (oqmd-10906) | [1] Tokunaga 2006 | Table 2, p. 2, row 2 |  |
-| TiBe(B2) | [BeTi](https://data.orchid-project.org/compounds/BeTi.html) | -19.1 kJ/mol-atom |  | model | -13.537 (mp-aaaaaqrv) | -15.798 (oqmd-10906) | [1] Tokunaga 2006; _cites Kaufman 1979_ [doi](https://doi.org/10.1016/0364-5916%2879%2990010-5) | Table 2, p. 2, row 3 |  |
-| TiBe(B32) | [BeTi](https://data.orchid-project.org/compounds/BeTi.html) | 28.3 kJ/mol-atom | 0 | model | -13.537 (mp-aaaaaqrv) | -15.798 (oqmd-10906) | [1] Tokunaga 2006 | Table 2, p. 2, row 4 |  |
-| TiBe(B32) | [BeTi](https://data.orchid-project.org/compounds/BeTi.html) | 28.3 kJ/mol-atom |  | model | -13.537 (mp-aaaaaqrv) | -15.798 (oqmd-10906) | [1] Tokunaga 2006 | Table 2, p. 2, row 4 |  |
-| TiBe12 | [Be12Ti](https://data.orchid-project.org/compounds/Be12Ti.html) | -28.5 kJ/mol-atom |  | model | -14.252 (mp-aaackvgd) | -14.123 (oqmd-28706) | [1] Tokunaga 2006; _cites Kaufman 1973_ | Table 2, p. 2, row 17 |  |
-| TiBe12 | [Be12Ti](https://data.orchid-project.org/compounds/Be12Ti.html) | -23.8 kJ/mol-atom |  | model | -14.252 (mp-aaackvgd) | -14.123 (oqmd-28706) | [1] Tokunaga 2006; _cites Kaufman 1979_ [doi](https://doi.org/10.1016/0364-5916%2879%2990010-5) | Table 2, p. 2, row 18 |  |
-| TiBe12 | [Be12Ti](https://data.orchid-project.org/compounds/Be12Ti.html) | -22.8 kJ/mol-atom |  | model | -14.252 (mp-aaackvgd) | -14.123 (oqmd-28706) | [1] Tokunaga 2006 | Table 2, p. 2, row 16 |  |
-| TiBe12 | [Be12Ti](https://data.orchid-project.org/compounds/Be12Ti.html) | -22.2 kJ/mol-atom | 0 | model | -14.252 (mp-aaackvgd) | -14.123 (oqmd-28706) | [1] Tokunaga 2006 | Table 2, p. 2, row 16 |  |
-| TiBe12 | [Be12Ti](https://data.orchid-project.org/compounds/Be12Ti.html) | -22.2 kJ/mol-atom |  | model | -14.252 (mp-aaackvgd) | -14.123 (oqmd-28706) | [1] Tokunaga 2006 | Table 2, p. 2, row 16 |  |
-| TiBe2 | [Be2Ti](https://data.orchid-project.org/compounds/Be2Ti.html) | -29.7 kJ/mol-atom |  | model | -18.697 (mp-aaaaaebt) | -20.324 (oqmd-10907) | [1] Tokunaga 2006; _cites Kaufman 1973_ | Table 2, p. 2, row 10 |  |
-| TiBe2 | [Be2Ti](https://data.orchid-project.org/compounds/Be2Ti.html) | -29.7 kJ/mol-atom |  | model | -18.697 (mp-aaaaaebt) | -20.324 (oqmd-10907) | [1] Tokunaga 2006 | Table 2, p. 2, row 6 |  |
-| TiBe2 | [Be2Ti](https://data.orchid-project.org/compounds/Be2Ti.html) | -26.5 kJ/mol-atom |  | model | -18.697 (mp-aaaaaebt) | -20.324 (oqmd-10907) | [1] Tokunaga 2006; _cites Kaufman 1973_ | Table 2, p. 2, row 7 |  |
-| TiBe2 | [Be2Ti](https://data.orchid-project.org/compounds/Be2Ti.html) | -25.7 kJ/mol-atom | 0 | model | -18.697 (mp-aaaaaebt) | -20.324 (oqmd-10907) | [1] Tokunaga 2006 | Table 2, p. 2, row 6 |  |
-| TiBe2 | [Be2Ti](https://data.orchid-project.org/compounds/Be2Ti.html) | -25.7 kJ/mol-atom |  | model | -18.697 (mp-aaaaaebt) | -20.324 (oqmd-10907) | [1] Tokunaga 2006 | Table 2, p. 2, row 6 |  |
-| TiBe2 | [Be2Ti](https://data.orchid-project.org/compounds/Be2Ti.html) | -24.9 kJ/mol-atom |  | model | -18.697 (mp-aaaaaebt) | -20.324 (oqmd-10907) | [1] Tokunaga 2006; _cites Kaufman 1979_ [doi](https://doi.org/10.1016/0364-5916%2879%2990010-5) | Table 2, p. 2, row 8 |  |
-| TiBe3 | [Be3Ti](https://data.orchid-project.org/compounds/Be3Ti.html) | -29.7 kJ/mol-atom |  | model | -19.76 (mp-aaackuiz) | -20.401 (oqmd-28705) | [1] Tokunaga 2006; _cites Kaufman 1973_ | Table 2, p. 2, row 10 |  |
-| TiBe3 | [Be3Ti](https://data.orchid-project.org/compounds/Be3Ti.html) | -28 kJ/mol-atom |  | model | -19.76 (mp-aaackuiz) | -20.401 (oqmd-28705) | [1] Tokunaga 2006 | Table 2, p. 2, row 9 |  |
-| TiBe3 | [Be3Ti](https://data.orchid-project.org/compounds/Be3Ti.html) | -27.9 kJ/mol-atom |  | model | -19.76 (mp-aaackuiz) | -20.401 (oqmd-28705) | [1] Tokunaga 2006 | Table 2, p. 2, row 9 |  |
-| TiBe3 | [Be3Ti](https://data.orchid-project.org/compounds/Be3Ti.html) | -27.9 kJ/mol-atom | 0 | model | -19.76 (mp-aaackuiz) | -20.401 (oqmd-28705) | [1] Tokunaga 2006 | Table 2, p. 2, row 9 |  |
-| TiBe3 | [Be3Ti](https://data.orchid-project.org/compounds/Be3Ti.html) | -26 kJ/mol-atom |  | model | -19.76 (mp-aaackuiz) | -20.401 (oqmd-28705) | [1] Tokunaga 2006; _cites Kaufman 1979_ [doi](https://doi.org/10.1016/0364-5916%2879%2990010-5) | Table 2, p. 2, row 11 |  |
-| TiBe3(D03) | [Be3Ti](https://data.orchid-project.org/compounds/Be3Ti.html) | -12.8 kJ/mol-atom |  | model | -19.76 (mp-aaackuiz) | -4.528 (oqmd-309789) | [1] Tokunaga 2006 | Table 2, p. 2, row 5 |  |
-| TiBe3(D03) | [Be3Ti](https://data.orchid-project.org/compounds/Be3Ti.html) | -12.8 kJ/mol-atom | 0 | model | -19.76 (mp-aaackuiz) | -4.528 (oqmd-309789) | [1] Tokunaga 2006 | Table 2, p. 2, row 5 |  |
-| αTi2Be17 | [Be17Ti2](https://data.orchid-project.org/compounds/Be17Ti2.html) | -31.3 kJ/mol-atom |  | model | -19.177 (mp-aaacqjph) | -19.201 (oqmd-19076) | [1] Tokunaga 2006; _cites Kaufman 1973_ | Table 2, p. 2, row 13 |  |
-| αTi2Be17 | [Be17Ti2](https://data.orchid-project.org/compounds/Be17Ti2.html) | -26.4 kJ/mol-atom |  | model | -19.177 (mp-aaacqjph) | -19.201 (oqmd-19076) | [1] Tokunaga 2006; _cites Kaufman 1979_ [doi](https://doi.org/10.1016/0364-5916%2879%2990010-5) | Table 2, p. 2, row 14 |  |
-| αTi2Be17 | [Be17Ti2](https://data.orchid-project.org/compounds/Be17Ti2.html) | -24.3 kJ/mol-atom |  | model | -19.177 (mp-aaacqjph) | -19.201 (oqmd-19076) | [1] Tokunaga 2006 | Table 2, p. 2, row 12 |  |
-| αTi2Be17 | [Be17Ti2](https://data.orchid-project.org/compounds/Be17Ti2.html) | -21.4 kJ/mol-atom | 0 | model | -19.177 (mp-aaacqjph) | -19.201 (oqmd-19076) | [1] Tokunaga 2006 | Table 2, p. 2, row 12 |  |
-| αTi2Be17 | [Be17Ti2](https://data.orchid-project.org/compounds/Be17Ti2.html) | -21.4 kJ/mol-atom |  | model | -19.177 (mp-aaacqjph) | -19.201 (oqmd-19076) | [1] Tokunaga 2006 | Table 2, p. 2, row 12 |  |
-| βTi2Be17 | [Be17Ti2](https://data.orchid-project.org/compounds/Be17Ti2.html) | -22 kJ/mol-atom |  | model | -19.177 (mp-aaacqjph) | -19.201 (oqmd-19076) | [1] Tokunaga 2006 | Table 2, p. 2, row 15 |  |
-| βTi2Be17 | [Be17Ti2](https://data.orchid-project.org/compounds/Be17Ti2.html) | -22 kJ/mol-atom | 0 | model | -19.177 (mp-aaacqjph) | -19.201 (oqmd-19076) | [1] Tokunaga 2006 | Table 2, p. 2, row 15 |  |
+| Ti3Be(D03) | [BeTi3](https://data.orchid-project.org/compounds/BeTi3.html) | 3.6 kJ/mol-atom |  | model | -0.057 (mp-aaacpoqd) | 7.452 (oqmd-314708) | [1] Tokunaga 2006 | Table 2, p. 2, row 1; `ORC-S3AYA55WXC.5775a5` |  |
+| Ti3Be(D03) | [BeTi3](https://data.orchid-project.org/compounds/BeTi3.html) | 3.6 kJ/mol-atom | 0 | model | -0.057 (mp-aaacpoqd) | 7.452 (oqmd-314708) | [1] Tokunaga 2006 | Table 2, p. 2, row 1; `ORC-S3AYA55WXC.841996` |  |
+| TiBe(B2) | [BeTi](https://data.orchid-project.org/compounds/BeTi.html) | -27 kJ/mol-atom |  | model | -13.537 (mp-aaaaaqrv) | -15.798 (oqmd-10906) | [1] Tokunaga 2006 | Table 2, p. 2, row 2; `ORC-KY43MB2D5X.0cae0d` |  |
+| TiBe(B2) | [BeTi](https://data.orchid-project.org/compounds/BeTi.html) | -23.6 kJ/mol-atom |  | model | -13.537 (mp-aaaaaqrv) | -15.798 (oqmd-10906) | [1] Tokunaga 2006 | Table 2, p. 2, row 2; `ORC-KY43MB2D5X.26b447` |  |
+| TiBe(B2) | [BeTi](https://data.orchid-project.org/compounds/BeTi.html) | -23.6 kJ/mol-atom | 0 | model | -13.537 (mp-aaaaaqrv) | -15.798 (oqmd-10906) | [1] Tokunaga 2006 | Table 2, p. 2, row 2; `ORC-KY43MB2D5X.c2328a` |  |
+| TiBe(B2) | [BeTi](https://data.orchid-project.org/compounds/BeTi.html) | -19.1 kJ/mol-atom |  | model | -13.537 (mp-aaaaaqrv) | -15.798 (oqmd-10906) | [1] Tokunaga 2006; _cites Kaufman 1979_ [doi](https://doi.org/10.1016/0364-5916%2879%2990010-5) | Table 2, p. 2, row 3; `ORC-YL5Q7YS4PB.417afe` |  |
+| TiBe(B32) | [BeTi](https://data.orchid-project.org/compounds/BeTi.html) | 28.3 kJ/mol-atom | 0 | model | -13.537 (mp-aaaaaqrv) | -15.798 (oqmd-10906) | [1] Tokunaga 2006 | Table 2, p. 2, row 4; `ORC-IYGKUG52RR.7ea5a7` |  |
+| TiBe(B32) | [BeTi](https://data.orchid-project.org/compounds/BeTi.html) | 28.3 kJ/mol-atom |  | model | -13.537 (mp-aaaaaqrv) | -15.798 (oqmd-10906) | [1] Tokunaga 2006 | Table 2, p. 2, row 4; `ORC-IYGKUG52RR.b27a73` |  |
+| TiBe12 | [Be12Ti](https://data.orchid-project.org/compounds/Be12Ti.html) | -28.5 kJ/mol-atom |  | model | -14.252 (mp-aaackvgd) | -14.123 (oqmd-28706) | [1] Tokunaga 2006; _cites Kaufman 1973_ | Table 2, p. 2, row 17; `ORC-3T6RRJ7N5B.470be6` |  |
+| TiBe12 | [Be12Ti](https://data.orchid-project.org/compounds/Be12Ti.html) | -23.8 kJ/mol-atom |  | model | -14.252 (mp-aaackvgd) | -14.123 (oqmd-28706) | [1] Tokunaga 2006; _cites Kaufman 1979_ [doi](https://doi.org/10.1016/0364-5916%2879%2990010-5) | Table 2, p. 2, row 18; `ORC-KYTDIIRHP7.28fe8c` |  |
+| TiBe12 | [Be12Ti](https://data.orchid-project.org/compounds/Be12Ti.html) | -22.8 kJ/mol-atom |  | model | -14.252 (mp-aaackvgd) | -14.123 (oqmd-28706) | [1] Tokunaga 2006 | Table 2, p. 2, row 16; `ORC-UD4PZZEC6C.4ad970` |  |
+| TiBe12 | [Be12Ti](https://data.orchid-project.org/compounds/Be12Ti.html) | -22.2 kJ/mol-atom | 0 | model | -14.252 (mp-aaackvgd) | -14.123 (oqmd-28706) | [1] Tokunaga 2006 | Table 2, p. 2, row 16; `ORC-UD4PZZEC6C.2262f9` |  |
+| TiBe12 | [Be12Ti](https://data.orchid-project.org/compounds/Be12Ti.html) | -22.2 kJ/mol-atom |  | model | -14.252 (mp-aaackvgd) | -14.123 (oqmd-28706) | [1] Tokunaga 2006 | Table 2, p. 2, row 16; `ORC-UD4PZZEC6C.b7f38b` |  |
+| TiBe2 | [Be2Ti](https://data.orchid-project.org/compounds/Be2Ti.html) | -29.7 kJ/mol-atom |  | model | -18.697 (mp-aaaaaebt) | -20.324 (oqmd-10907) | [1] Tokunaga 2006; _cites Kaufman 1973_ | Table 2, p. 2, row 10; `ORC-UMUT4EYFY5.912fc3` |  |
+| TiBe2 | [Be2Ti](https://data.orchid-project.org/compounds/Be2Ti.html) | -29.7 kJ/mol-atom |  | model | -18.697 (mp-aaaaaebt) | -20.324 (oqmd-10907) | [1] Tokunaga 2006 | Table 2, p. 2, row 6; `ORC-ZDMV63AXRI.5c4dd8` |  |
+| TiBe2 | [Be2Ti](https://data.orchid-project.org/compounds/Be2Ti.html) | -26.5 kJ/mol-atom |  | model | -18.697 (mp-aaaaaebt) | -20.324 (oqmd-10907) | [1] Tokunaga 2006; _cites Kaufman 1973_ | Table 2, p. 2, row 7; `ORC-XB4DWYMKAX.090f2f` |  |
+| TiBe2 | [Be2Ti](https://data.orchid-project.org/compounds/Be2Ti.html) | -25.7 kJ/mol-atom | 0 | model | -18.697 (mp-aaaaaebt) | -20.324 (oqmd-10907) | [1] Tokunaga 2006 | Table 2, p. 2, row 6; `ORC-ZDMV63AXRI.1666a6` |  |
+| TiBe2 | [Be2Ti](https://data.orchid-project.org/compounds/Be2Ti.html) | -25.7 kJ/mol-atom |  | model | -18.697 (mp-aaaaaebt) | -20.324 (oqmd-10907) | [1] Tokunaga 2006 | Table 2, p. 2, row 6; `ORC-ZDMV63AXRI.d1b3d8` |  |
+| TiBe2 | [Be2Ti](https://data.orchid-project.org/compounds/Be2Ti.html) | -24.9 kJ/mol-atom |  | model | -18.697 (mp-aaaaaebt) | -20.324 (oqmd-10907) | [1] Tokunaga 2006; _cites Kaufman 1979_ [doi](https://doi.org/10.1016/0364-5916%2879%2990010-5) | Table 2, p. 2, row 8; `ORC-OIJIIYQFYF.cf593b` |  |
+| TiBe3 | [Be3Ti](https://data.orchid-project.org/compounds/Be3Ti.html) | -29.7 kJ/mol-atom |  | model | -19.76 (mp-aaackuiz) | -20.401 (oqmd-28705) | [1] Tokunaga 2006; _cites Kaufman 1973_ | Table 2, p. 2, row 10; `ORC-UMUT4EYFY5.43a00e` |  |
+| TiBe3 | [Be3Ti](https://data.orchid-project.org/compounds/Be3Ti.html) | -28 kJ/mol-atom |  | model | -19.76 (mp-aaackuiz) | -20.401 (oqmd-28705) | [1] Tokunaga 2006 | Table 2, p. 2, row 9; `ORC-XWTF427LW7.8a872d` |  |
+| TiBe3 | [Be3Ti](https://data.orchid-project.org/compounds/Be3Ti.html) | -27.9 kJ/mol-atom |  | model | -19.76 (mp-aaackuiz) | -20.401 (oqmd-28705) | [1] Tokunaga 2006 | Table 2, p. 2, row 9; `ORC-XWTF427LW7.54859a` |  |
+| TiBe3 | [Be3Ti](https://data.orchid-project.org/compounds/Be3Ti.html) | -27.9 kJ/mol-atom | 0 | model | -19.76 (mp-aaackuiz) | -20.401 (oqmd-28705) | [1] Tokunaga 2006 | Table 2, p. 2, row 9; `ORC-XWTF427LW7.62e239` |  |
+| TiBe3 | [Be3Ti](https://data.orchid-project.org/compounds/Be3Ti.html) | -26 kJ/mol-atom |  | model | -19.76 (mp-aaackuiz) | -20.401 (oqmd-28705) | [1] Tokunaga 2006; _cites Kaufman 1979_ [doi](https://doi.org/10.1016/0364-5916%2879%2990010-5) | Table 2, p. 2, row 11; `ORC-PGDWINWFAG.ae3662` |  |
+| TiBe3(D03) | [Be3Ti](https://data.orchid-project.org/compounds/Be3Ti.html) | -12.8 kJ/mol-atom |  | model | -19.76 (mp-aaackuiz) | -4.528 (oqmd-309789) | [1] Tokunaga 2006 | Table 2, p. 2, row 5; `ORC-MRO5QWSMU4.d830da` |  |
+| TiBe3(D03) | [Be3Ti](https://data.orchid-project.org/compounds/Be3Ti.html) | -12.8 kJ/mol-atom | 0 | model | -19.76 (mp-aaackuiz) | -4.528 (oqmd-309789) | [1] Tokunaga 2006 | Table 2, p. 2, row 5; `ORC-MRO5QWSMU4.ef1a01` |  |
+| αTi2Be17 | [Be17Ti2](https://data.orchid-project.org/compounds/Be17Ti2.html) | -31.3 kJ/mol-atom |  | model | -19.177 (mp-aaacqjph) | -19.201 (oqmd-19076) | [1] Tokunaga 2006; _cites Kaufman 1973_ | Table 2, p. 2, row 13; `ORC-UY3FPAGP3J.fca1e3` |  |
+| αTi2Be17 | [Be17Ti2](https://data.orchid-project.org/compounds/Be17Ti2.html) | -26.4 kJ/mol-atom |  | model | -19.177 (mp-aaacqjph) | -19.201 (oqmd-19076) | [1] Tokunaga 2006; _cites Kaufman 1979_ [doi](https://doi.org/10.1016/0364-5916%2879%2990010-5) | Table 2, p. 2, row 14; `ORC-76734UBVQV.8921ab` |  |
+| αTi2Be17 | [Be17Ti2](https://data.orchid-project.org/compounds/Be17Ti2.html) | -24.3 kJ/mol-atom |  | model | -19.177 (mp-aaacqjph) | -19.201 (oqmd-19076) | [1] Tokunaga 2006 | Table 2, p. 2, row 12; `ORC-2J6N3CRD3V.1ac2be` |  |
+| αTi2Be17 | [Be17Ti2](https://data.orchid-project.org/compounds/Be17Ti2.html) | -21.4 kJ/mol-atom | 0 | model | -19.177 (mp-aaacqjph) | -19.201 (oqmd-19076) | [1] Tokunaga 2006 | Table 2, p. 2, row 12; `ORC-2J6N3CRD3V.3bbd2c` |  |
+| αTi2Be17 | [Be17Ti2](https://data.orchid-project.org/compounds/Be17Ti2.html) | -21.4 kJ/mol-atom |  | model | -19.177 (mp-aaacqjph) | -19.201 (oqmd-19076) | [1] Tokunaga 2006 | Table 2, p. 2, row 12; `ORC-2J6N3CRD3V.c87c73` |  |
+| βTi2Be17 | [Be17Ti2](https://data.orchid-project.org/compounds/Be17Ti2.html) | -22 kJ/mol-atom |  | model | -19.177 (mp-aaacqjph) | -19.201 (oqmd-19076) | [1] Tokunaga 2006 | Table 2, p. 2, row 15; `ORC-3ZSN7KM54C.084f65` |  |
+| βTi2Be17 | [Be17Ti2](https://data.orchid-project.org/compounds/Be17Ti2.html) | -22 kJ/mol-atom | 0 | model | -19.177 (mp-aaacqjph) | -19.201 (oqmd-19076) | [1] Tokunaga 2006 | Table 2, p. 2, row 15; `ORC-3ZSN7KM54C.1a64a9` |  |
 
 ## Other properties
 
@@ -121,8 +121,8 @@ Table: Phase transition, Be–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 673 K | 673 | other | experimental | [1] Tokunaga 2006; _cites Tanner 1979_ [doi](https://doi.org/10.1016/0364-5916%2879%2990010-5) | p. 4 | “However, glass transition has not been detected in Ti-Be amorphous alloys using differential scanning calorimetry (DSC) \[1979Tan\], where the DSC traces on heating a Ti-37mol%Be amorphous alloy showed crystallization at T ∼ 673 K, although a glass transition was observed at T ∼ 673 K in the ternary Ti58Be40Zr2 alloy \[1980Tan\].” |
-| Phase transition | 1088 K | 1088 | other: (betaTi) \<-> (alphaTi) + TiBe2 | experimental | [1] Tokunaga 2006 | p. 5 | “From on microscopy data, Obinata et al. found the eutectic composition at 28.6 mol% Be for L ↔ (␤Ti) + TiBe2 and the eutectoid composition at about 3 mol% Be for (␤Ti) ↔ (␣Ti) + TiBe2, at eutectic and eutectoid temperatures of 1253 and 1088 K, respectively.” |
+| Phase transition | 673 K | 673 | other | experimental | [1] Tokunaga 2006; _cites Tanner 1979_ [doi](https://doi.org/10.1016/0364-5916%2879%2990010-5) | p. 4; `ORC-K62H6PJMNQ` | “However, glass transition has not been detected in Ti-Be amorphous alloys using differential scanning calorimetry (DSC) \[1979Tan\], where the DSC traces on heating a Ti-37mol%Be amorphous alloy showed crystallization at T ∼ 673 K, although a glass transition was observed at T ∼ 673 K in the ternary Ti58Be40Zr2 alloy \[1980Tan\].” |
+| Phase transition | 1088 K | 1088 | other: (betaTi) \<-> (alphaTi) + TiBe2 | experimental | [1] Tokunaga 2006 | p. 5; `ORC-UARJXHFEK3.6de38a` | “From on microscopy data, Obinata et al. found the eutectic composition at 28.6 mol% Be for L ↔ (␤Ti) + TiBe2 and the eutectoid composition at about 3 mol% Be for (␤Ti) ↔ (␣Ti) + TiBe2, at eutectic and eutectoid temperatures of 1253 and 1088 K, respectively.” |
 
 ### Crystal structure (10)
 
@@ -130,16 +130,16 @@ Table: Crystal structure, Be–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 2.94 Å |  | TiBe; _alloy: Ti 0.5_ | model | [1] Tokunaga 2006; _cites Villars 1997_ | Table 1, p. 2, row 2 |  |
-| Lattice a | 7.35 Å |  | TiBe12; _alloy: Ti 0.076923_ | model | [1] Tokunaga 2006; _cites Villars 1997_ | Table 1, p. 2, row 9 |  |
-| Lattice a | 6.427 Å |  | TiBe2; _alloy: Ti 0.333333_ | model | [1] Tokunaga 2006; _cites Villars 1997_ | Table 1, p. 2, row 5 |  |
-| Lattice a | 4.49 Å |  | TiBe3; _alloy: Ti 0.25_ | model | [1] Tokunaga 2006; _cites Villars 1997_ | Table 1, p. 2, row 6 |  |
-| Lattice a | 7.34 Å |  | αTi2Be17; _alloy: Ti 0.105263_ | model | [1] Tokunaga 2006; _cites Villars 1997_ | Table 1, p. 2, row 7 |  |
-| Lattice a | 7.35 Å |  | βTi2Be17; _alloy: Ti 0.105263_ | model | [1] Tokunaga 2006; _cites Villars 1997_ | Table 1, p. 2, row 8 |  |
-| Lattice c | 4.19 Å |  | TiBe12; _alloy: Ti 0.076923_ | model | [1] Tokunaga 2006; _cites Villars 1997_ | Table 1, p. 2, row 9 |  |
-| Lattice c | 21.32 Å |  | TiBe3; _alloy: Ti 0.25_ | model | [1] Tokunaga 2006; _cites Villars 1997_ | Table 1, p. 2, row 6 |  |
-| Lattice c | 10.73 Å |  | αTi2Be17; _alloy: Ti 0.105263_ | model | [1] Tokunaga 2006; _cites Villars 1997_ | Table 1, p. 2, row 7 |  |
-| Lattice c | 7.26 Å |  | βTi2Be17; _alloy: Ti 0.105263_ | model | [1] Tokunaga 2006; _cites Villars 1997_ | Table 1, p. 2, row 8 |  |
+| Lattice a | 2.94 Å |  | TiBe; _alloy: Ti 0.5_ | model | [1] Tokunaga 2006; _cites Villars 1997_ | Table 1, p. 2, row 2; `ORC-GWFRYPL66U` |  |
+| Lattice a | 7.35 Å |  | TiBe12; _alloy: Ti 0.076923_ | model | [1] Tokunaga 2006; _cites Villars 1997_ | Table 1, p. 2, row 9; `ORC-4ZIDBDFRN2.cb2894` |  |
+| Lattice a | 6.427 Å |  | TiBe2; _alloy: Ti 0.333333_ | model | [1] Tokunaga 2006; _cites Villars 1997_ | Table 1, p. 2, row 5; `ORC-6XC2EBKKZT` |  |
+| Lattice a | 4.49 Å |  | TiBe3; _alloy: Ti 0.25_ | model | [1] Tokunaga 2006; _cites Villars 1997_ | Table 1, p. 2, row 6; `ORC-VXDN3IFQ4Z.35f4ae` |  |
+| Lattice a | 7.34 Å |  | αTi2Be17; _alloy: Ti 0.105263_ | model | [1] Tokunaga 2006; _cites Villars 1997_ | Table 1, p. 2, row 7; `ORC-MGCEAOVNKW.0cafeb` |  |
+| Lattice a | 7.35 Å |  | βTi2Be17; _alloy: Ti 0.105263_ | model | [1] Tokunaga 2006; _cites Villars 1997_ | Table 1, p. 2, row 8; `ORC-K6JRYY4ORD.0186ca` |  |
+| Lattice c | 4.19 Å |  | TiBe12; _alloy: Ti 0.076923_ | model | [1] Tokunaga 2006; _cites Villars 1997_ | Table 1, p. 2, row 9; `ORC-4ZIDBDFRN2.4e2714` |  |
+| Lattice c | 21.32 Å |  | TiBe3; _alloy: Ti 0.25_ | model | [1] Tokunaga 2006; _cites Villars 1997_ | Table 1, p. 2, row 6; `ORC-VXDN3IFQ4Z.62beda` |  |
+| Lattice c | 10.73 Å |  | αTi2Be17; _alloy: Ti 0.105263_ | model | [1] Tokunaga 2006; _cites Villars 1997_ | Table 1, p. 2, row 7; `ORC-MGCEAOVNKW.f6799a` |  |
+| Lattice c | 7.26 Å |  | βTi2Be17; _alloy: Ti 0.105263_ | model | [1] Tokunaga 2006; _cites Villars 1997_ | Table 1, p. 2, row 8; `ORC-K6JRYY4ORD.88c337` |  |
 
 ## Sources
 
@@ -204,4 +204,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

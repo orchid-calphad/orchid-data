@@ -197,13 +197,13 @@ Table: Invariant reactions reported in the literature for the Hf–Ni system (7)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1590 | eutectic |  | model | [1] Kaufman 1975 | p. 12 | “In contrast to the findings obtained for the AI-Ni-Hf system discussed earlier in Section 4, the isothermal sections shown in Figures 12 and 13 indicate tha t the quasi-binary section Hf2Ni7-59.5 a/o Ni-40.5 a/o Cr may provide opportunities for synthesis of an in-situ composite with high temperature stability since the calculated eutectic between Hf2Ni7 and the fcc nickel base solid solution with…” |
-| 1470.15 | eutectic: L -> Hf7Ni10 + Hf3Ni7 | L: Ni 0.649; Hf7Ni10: Ni 0.589; Hf3Ni7: Ni 0.7 | model | [2] Cacciamani 2011 | Table 5, p. 7, row 7 |  |
-| 1462.15 | eutectic: L -> HfNi5 + Ni | L: Ni 0.904; HfNi5: Ni 0.833; Ni: Ni 0.987 | model | [2] Cacciamani 2011 | Table 5, p. 7, row 8 |  |
-| 1443.15 | eutectic: L -> Hf2Ni + β-HfNi | L: Ni 0.386; Hf2Ni: Ni 0.332; β-HfNi: Ni 0.5 | model | [2] Cacciamani 2011 | Table 5, p. 7, row 6 |  |
-| 1430.15 | metatectic/catatectic: bcc-Hf -> hcp-Hf + L | bcc-Hf: Ni 0.029; hcp-Hf: Ni 0.004; L: Ni 0.101 | model | [2] Cacciamani 2011 | Table 5, p. 7, row 4 |  |
-| 1412.15 | eutectic: L -> hcp-Hf + Hf2Ni | L: Ni 0.257; hcp-Hf: Ni 0.013; Hf2Ni: Ni 0.333 | model | [2] Cacciamani 2011 | Table 5, p. 7, row 5 |  |
-| 1138.15 | eutectic |  | model | [2] Cacciamani 2011 | p. 9 | “Characteristic features of the projection are as follows: (a) the large primary solidification area of HfB2 and the steepness of its liquidus surface, (b) the deep valley close to the Hf-Ni binary subsystem which includes the lowest ternary eutectic of the system: Liquid HfB2 + α -HfNi3 + Hf7 Ni10 at 865 °C.” |
+| 1590 | eutectic |  | model | [1] Kaufman 1975 | p. 12; `ORC-64TRZ5LYWG` | “In contrast to the findings obtained for the AI-Ni-Hf system discussed earlier in Section 4, the isothermal sections shown in Figures 12 and 13 indicate tha t the quasi-binary section Hf2Ni7-59.5 a/o Ni-40.5 a/o Cr may provide opportunities for synthesis of an in-situ composite with high temperature stability since the calculated eutectic between Hf2Ni7 and the fcc nickel base solid solution with…” |
+| 1470.15 | eutectic: L -> Hf7Ni10 + Hf3Ni7 | L: Ni 0.649; Hf7Ni10: Ni 0.589; Hf3Ni7: Ni 0.7 | model | [2] Cacciamani 2011 | Table 5, p. 7, row 7; `ORC-WLVZMAKDOL` |  |
+| 1462.15 | eutectic: L -> HfNi5 + Ni | L: Ni 0.904; HfNi5: Ni 0.833; Ni: Ni 0.987 | model | [2] Cacciamani 2011 | Table 5, p. 7, row 8; `ORC-WGETN6HZC5` |  |
+| 1443.15 | eutectic: L -> Hf2Ni + β-HfNi | L: Ni 0.386; Hf2Ni: Ni 0.332; β-HfNi: Ni 0.5 | model | [2] Cacciamani 2011 | Table 5, p. 7, row 6; `ORC-3LIKRCZLUG` |  |
+| 1430.15 | metatectic/catatectic: bcc-Hf -> hcp-Hf + L | bcc-Hf: Ni 0.029; hcp-Hf: Ni 0.004; L: Ni 0.101 | model | [2] Cacciamani 2011 | Table 5, p. 7, row 4; `ORC-PIJ4FUIP4P` |  |
+| 1412.15 | eutectic: L -> hcp-Hf + Hf2Ni | L: Ni 0.257; hcp-Hf: Ni 0.013; Hf2Ni: Ni 0.333 | model | [2] Cacciamani 2011 | Table 5, p. 7, row 5; `ORC-K3WE6GMWU5` |  |
+| 1138.15 | eutectic |  | model | [2] Cacciamani 2011 | p. 9; `ORC-OA55DOJR57` | “Characteristic features of the projection are as follows: (a) the large primary solidification area of HfB2 and the steepness of its liquidus surface, (b) the deep valley close to the Hf-Ni binary subsystem which includes the lowest ternary eutectic of the system: Liquid HfB2 + α -HfNi3 + Hf7 Ni10 at 865 °C.” |
 
 ## Formation enthalpies
 
@@ -213,32 +213,32 @@ Table: Enthalpies of formation, Hf–Ni system (26)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| B33-HfNi |  | -50.06 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Berche 2016 | Table 2, p. 4, row 5 |  |
-| C15-HfNi2 |  | -46.01 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Berche 2016 | Table 2, p. 4, row 8 |  |
-| C15b-HfNi5 |  | -33.65 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Berche 2016 | Table 2, p. 4, row 12 |  |
-| C16-Hf2Ni |  | -32.85 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Berche 2016 | Table 2, p. 4, row 4 |  |
-| Hf(fcc-A1) |  | 6.92 kJ/mol-atom | 298.15 | model |  |  | [4] Ross 2018 | Table 1, p. 4, row 13 |  |
-| Hf(hcp-A3) |  | 0 kJ/mol-atom | 298.15 | model |  |  | [4] Ross 2018 | Table 1, p. 4, row 14 |  |
-| Hf(hcp-A3) |  | 0 kJ/mol-atom | 298.15 | model |  |  | [4] Ross 2018; _cites Berche 2016_ [doi](https://doi.org/10.1016/j.commatsci.2016.08.042) | Table 1, p. 4, row 15 |  |
-| Hf2Ni7 |  | -45.1 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Berche 2016 | Table 2, p. 4, row 11 |  |
-| Hf3Ni7 |  | -48.71 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Berche 2016 | Table 2, p. 4, row 9 |  |
-| Hf7Ni10 |  | -49.99 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Berche 2016 | Table 2, p. 4, row 6 |  |
-| Hf8Ni21 |  | -48.09 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Berche 2016 | Table 2, p. 4, row 13 |  |
-| Hf9Ni11 |  | -47.61 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Berche 2016 | Table 2, p. 4, row 7 |  |
-| Ni3Hf(L12) | [HfNi3](https://data.orchid-project.org/compounds/HfNi3.html) | -51.41 kJ/mol-atom | 298.15 | model | -51.918 (mp-aaaaasag) | -49.866 (oqmd-344729) | [4] Ross 2018 | Table 1, p. 4, row 16 |  |
-| Ni5Hf(C15b) | [HfNi5](https://data.orchid-project.org/compounds/HfNi5.html) | -33.67 kJ/mol-atom | 298.15 | model | -33.322 (mp-aaabgkmm) | -33.745 (oqmd-19424) | [4] Ross 2018 | Table 1, p. 4, row 2 |  |
-| Ni5Hf(C15b) | [HfNi5](https://data.orchid-project.org/compounds/HfNi5.html) | -33.65 kJ/mol-atom | 298.15 | model | -33.322 (mp-aaabgkmm) | -33.745 (oqmd-19424) | [4] Ross 2018; _cites Berche 2016_ [doi](https://doi.org/10.1016/j.commatsci.2016.08.042) | Table 1, p. 4, row 3 |  |
-| Ni7Hf2 | [Hf2Ni7](https://data.orchid-project.org/compounds/Hf2Ni7.html) | -45.18 kJ/mol-atom | 298.15 | model | -44.758 (mp-aaacqpve) | -45.225 (oqmd-1437798) | [4] Ross 2018 | Table 1, p. 4, row 4 |  |
-| Ni7Hf2 | [Hf2Ni7](https://data.orchid-project.org/compounds/Hf2Ni7.html) | -45.1 kJ/mol-atom | 298.15 | model | -44.758 (mp-aaacqpve) | -45.225 (oqmd-1437798) | [4] Ross 2018; _cites Berche 2016_ [doi](https://doi.org/10.1016/j.commatsci.2016.08.042) | Table 1, p. 4, row 5 |  |
-| Ni7Hf3 | [Hf3Ni7](https://data.orchid-project.org/compounds/Hf3Ni7.html) | -48.88 kJ/mol-atom | 298.15 | model | -48.429 (mp-aaaaboew) | -48.931 (oqmd-2175) | [4] Ross 2018 | Table 1, p. 4, row 6 |  |
-| Ni7Hf3 | [Hf3Ni7](https://data.orchid-project.org/compounds/Hf3Ni7.html) | -48.71 kJ/mol-atom | 298.15 | model | -48.429 (mp-aaaaboew) | -48.931 (oqmd-2175) | [4] Ross 2018; _cites Berche 2016_ [doi](https://doi.org/10.1016/j.commatsci.2016.08.042) | Table 1, p. 4, row 7 |  |
-| NiHf(B2) | [HfNi](https://data.orchid-project.org/compounds/HfNi.html) | -41.77 kJ/mol-atom | 298.15 | model | -50.09 (mp-aaacfyaa) | -41.908 (oqmd-305271) | [4] Ross 2018 | Table 1, p. 4, row 10 |  |
-| NiHf(B33) | [HfNi](https://data.orchid-project.org/compounds/HfNi.html) | -50.06 kJ/mol-atom | 298.15 | model | -50.09 (mp-aaacfyaa) | -50.079 (oqmd-30515) | [4] Ross 2018; _cites Berche 2016_ [doi](https://doi.org/10.1016/j.commatsci.2016.08.042) | Table 1, p. 4, row 9 |  |
-| NiHf(B33) | [HfNi](https://data.orchid-project.org/compounds/HfNi.html) | -50 kJ/mol-atom | 298.15 | model | -50.09 (mp-aaacfyaa) | -50.079 (oqmd-30515) | [4] Ross 2018 | Table 1, p. 4, row 8 |  |
-| NiHf2 | [Hf2Ni](https://data.orchid-project.org/compounds/Hf2Ni.html) | -32.88 kJ/mol-atom | 298.15 | model | -32.839 (mp-aaaaabhd) | -32.982 (oqmd-88683) | [4] Ross 2018 | Table 1, p. 4, row 11 |  |
-| NiHf2 | [Hf2Ni](https://data.orchid-project.org/compounds/Hf2Ni.html) | -32.85 kJ/mol-atom | 298.15 | model | -32.839 (mp-aaaaabhd) | -32.982 (oqmd-88683) | [4] Ross 2018; _cites Berche 2016_ [doi](https://doi.org/10.1016/j.commatsci.2016.08.042) | Table 1, p. 4, row 12 |  |
-| NiHf3(L12) | [Hf3Ni](https://data.orchid-project.org/compounds/Hf3Ni.html) | -1.6 kJ/mol-atom | 298.15 | model | 3.481 (mp-aaacpkik) | 3.469 (oqmd-345248) | [4] Ross 2018 | Table 1, p. 4, row 17 |  |
-| α-HfNi3 |  | -52.23 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Berche 2016 | Table 2, p. 4, row 10 |  |
+| B33-HfNi |  | -50.06 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Berche 2016 | Table 2, p. 4, row 5; `ORC-SWSJNQ2BTR.6e34ee` |  |
+| C15-HfNi2 |  | -46.01 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Berche 2016 | Table 2, p. 4, row 8; `ORC-DKVV5WBFEL.a46e41` |  |
+| C15b-HfNi5 |  | -33.65 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Berche 2016 | Table 2, p. 4, row 12; `ORC-5BCHB6S3VB.49d737` |  |
+| C16-Hf2Ni |  | -32.85 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Berche 2016 | Table 2, p. 4, row 4; `ORC-UQJS5SDZRO.1d8d06` |  |
+| Hf(fcc-A1) |  | 6.92 kJ/mol-atom | 298.15 | model |  |  | [4] Ross 2018 | Table 1, p. 4, row 13; `ORC-4MYJ3AWCDR.abc2ef` |  |
+| Hf(hcp-A3) |  | 0 kJ/mol-atom | 298.15 | model |  |  | [4] Ross 2018 | Table 1, p. 4, row 14; `ORC-D5L34MTVI5.5fe4b8` |  |
+| Hf(hcp-A3) |  | 0 kJ/mol-atom | 298.15 | model |  |  | [4] Ross 2018; _cites Berche 2016_ [doi](https://doi.org/10.1016/j.commatsci.2016.08.042) | Table 1, p. 4, row 15; `ORC-ZI2OLEGY4O.42e5bb` |  |
+| Hf2Ni7 |  | -45.1 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Berche 2016 | Table 2, p. 4, row 11; `ORC-WODAGSDF5C.21e172` |  |
+| Hf3Ni7 |  | -48.71 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Berche 2016 | Table 2, p. 4, row 9; `ORC-WV52QW42TL.a2f04d` |  |
+| Hf7Ni10 |  | -49.99 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Berche 2016 | Table 2, p. 4, row 6; `ORC-6WJKO2ZURF.258bb2` |  |
+| Hf8Ni21 |  | -48.09 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Berche 2016 | Table 2, p. 4, row 13; `ORC-2WMVBESIWF.91fad7` |  |
+| Hf9Ni11 |  | -47.61 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Berche 2016 | Table 2, p. 4, row 7; `ORC-QMBHCWHOGL.8d3e2b` |  |
+| Ni3Hf(L12) | [HfNi3](https://data.orchid-project.org/compounds/HfNi3.html) | -51.41 kJ/mol-atom | 298.15 | model | -51.918 (mp-aaaaasag) | -49.866 (oqmd-344729) | [4] Ross 2018 | Table 1, p. 4, row 16; `ORC-RNJJ4OPH5G.b230ab` |  |
+| Ni5Hf(C15b) | [HfNi5](https://data.orchid-project.org/compounds/HfNi5.html) | -33.67 kJ/mol-atom | 298.15 | model | -33.322 (mp-aaabgkmm) | -33.745 (oqmd-19424) | [4] Ross 2018 | Table 1, p. 4, row 2; `ORC-KGXCD4BLYH.d91922` |  |
+| Ni5Hf(C15b) | [HfNi5](https://data.orchid-project.org/compounds/HfNi5.html) | -33.65 kJ/mol-atom | 298.15 | model | -33.322 (mp-aaabgkmm) | -33.745 (oqmd-19424) | [4] Ross 2018; _cites Berche 2016_ [doi](https://doi.org/10.1016/j.commatsci.2016.08.042) | Table 1, p. 4, row 3; `ORC-EQYZ4EKJTF.12d489` |  |
+| Ni7Hf2 | [Hf2Ni7](https://data.orchid-project.org/compounds/Hf2Ni7.html) | -45.18 kJ/mol-atom | 298.15 | model | -44.758 (mp-aaacqpve) | -45.225 (oqmd-1437798) | [4] Ross 2018 | Table 1, p. 4, row 4; `ORC-MCM6OSD5NL.0b1437` |  |
+| Ni7Hf2 | [Hf2Ni7](https://data.orchid-project.org/compounds/Hf2Ni7.html) | -45.1 kJ/mol-atom | 298.15 | model | -44.758 (mp-aaacqpve) | -45.225 (oqmd-1437798) | [4] Ross 2018; _cites Berche 2016_ [doi](https://doi.org/10.1016/j.commatsci.2016.08.042) | Table 1, p. 4, row 5; `ORC-SUIJ6WR7DL.c202dd` |  |
+| Ni7Hf3 | [Hf3Ni7](https://data.orchid-project.org/compounds/Hf3Ni7.html) | -48.88 kJ/mol-atom | 298.15 | model | -48.429 (mp-aaaaboew) | -48.931 (oqmd-2175) | [4] Ross 2018 | Table 1, p. 4, row 6; `ORC-QTR653AO47.3bab61` |  |
+| Ni7Hf3 | [Hf3Ni7](https://data.orchid-project.org/compounds/Hf3Ni7.html) | -48.71 kJ/mol-atom | 298.15 | model | -48.429 (mp-aaaaboew) | -48.931 (oqmd-2175) | [4] Ross 2018; _cites Berche 2016_ [doi](https://doi.org/10.1016/j.commatsci.2016.08.042) | Table 1, p. 4, row 7; `ORC-5LTSSEU5BD.76be18` |  |
+| NiHf(B2) | [HfNi](https://data.orchid-project.org/compounds/HfNi.html) | -41.77 kJ/mol-atom | 298.15 | model | -50.09 (mp-aaacfyaa) | -41.908 (oqmd-305271) | [4] Ross 2018 | Table 1, p. 4, row 10; `ORC-SMDYQTNVJ5.a51ff8` |  |
+| NiHf(B33) | [HfNi](https://data.orchid-project.org/compounds/HfNi.html) | -50.06 kJ/mol-atom | 298.15 | model | -50.09 (mp-aaacfyaa) | -50.079 (oqmd-30515) | [4] Ross 2018; _cites Berche 2016_ [doi](https://doi.org/10.1016/j.commatsci.2016.08.042) | Table 1, p. 4, row 9; `ORC-OFNCAV2ZOM.953f73` |  |
+| NiHf(B33) | [HfNi](https://data.orchid-project.org/compounds/HfNi.html) | -50 kJ/mol-atom | 298.15 | model | -50.09 (mp-aaacfyaa) | -50.079 (oqmd-30515) | [4] Ross 2018 | Table 1, p. 4, row 8; `ORC-2V6MMT6W3Q.b18886` |  |
+| NiHf2 | [Hf2Ni](https://data.orchid-project.org/compounds/Hf2Ni.html) | -32.88 kJ/mol-atom | 298.15 | model | -32.839 (mp-aaaaabhd) | -32.982 (oqmd-88683) | [4] Ross 2018 | Table 1, p. 4, row 11; `ORC-HI2NIG257C.1c1787` |  |
+| NiHf2 | [Hf2Ni](https://data.orchid-project.org/compounds/Hf2Ni.html) | -32.85 kJ/mol-atom | 298.15 | model | -32.839 (mp-aaaaabhd) | -32.982 (oqmd-88683) | [4] Ross 2018; _cites Berche 2016_ [doi](https://doi.org/10.1016/j.commatsci.2016.08.042) | Table 1, p. 4, row 12; `ORC-XV264PQMCQ.32a4ff` |  |
+| NiHf3(L12) | [Hf3Ni](https://data.orchid-project.org/compounds/Hf3Ni.html) | -1.6 kJ/mol-atom | 298.15 | model | 3.481 (mp-aaacpkik) | 3.469 (oqmd-345248) | [4] Ross 2018 | Table 1, p. 4, row 17; `ORC-L7AKTTTK6T.f4661a` |  |
+| α-HfNi3 |  | -52.23 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Berche 2016 | Table 2, p. 4, row 10; `ORC-5D3KENYQR6.bd35fa` |  |
 
 ## Other properties
 
@@ -248,18 +248,18 @@ Table: Phase transition, Hf–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1420 K | 1420 | B33 -> B2 | model | [4] Ross 2018 | p. 9 | “The calculated value for the transition from B33 to B2 was 1420 K which falls close to the measured value of 1433 K by DSC and synchrotron data in this work.” |
-| Phase transition | 1428 K | 1428 | other | experimental | [4] Ross 2018; _cites Yeremenko 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990281-q) | p. 8 | “The catatectic on the Hf-rich portion was subsequently affected with a calculated value of 1802 K which is much higher than 1428 K suggested by Yeremenko et al. \[3\].” |
-| Phase transition | 1433 K | 1433 |  | experimental | [4] Ross 2018 | p. 5 | “Therefore, the phase transformation is indicated by the appearance of new peaks at approximately 1433 K, as indicated in Fig. 2b.” |
-| Phase transition | 1433 K | 1433 |  | experimental | [4] Ross 2018 | p. 5 | “There is a good agreement on the transformation temperatures (∼1433 K) between the DSC measurements and the temperature-dependent diffraction data.” |
-| Phase transition | 1433 K | 1433 | B33 -> B2 | experimental | [4] Ross 2018 | p. 9 | “The calculated value for the transition from B33 to B2 was 1420 K which falls close to the measured value of 1433 K by DSC and synchrotron data in this work.” |
-| Phase transition | 1433 K | 1433 | other | experimental | [4] Ross 2018 | p. 9 | “DSC results found a high temperature transition at 1433 K and HEXRD experiments confirmed this phase to be the B2 phase - although the exact nature of the transformation still warrants investigation.” |
-| Phase transition | 1493.15 K | 1493.15 | congruent transformation | experimental | [2] Cacciamani 2011; _cites Yeremenko 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990281-q) | p. 5 | “Afterwards Yeremenko et al. \[46\] reinvestigated the Hf rich part of the diagram determining, in particular, the congruent melting of the Hf2 Ni phase at 1220 °C.” |
-| Phase transition | 1508.15 K | 1508.15 | congruent melting: L -> Hf2Ni; _L: Ni 0.333; Hf2Ni: Ni 0.333_ | model | [2] Cacciamani 2011 | Table 5, p. 7, row 3 |  |
-| Phase transition | 1754.15 K | 1754.15 | congruent melting: L -> Hf2Ni7; _L: Ni 0.778; Hf2Ni7: Ni 0.778_ | model | [2] Cacciamani 2011 | Table 5, p. 7, row 2 |  |
-| Phase transition | 1778 K | 1778 |  | experimental | [4] Ross 2018; _cites Eremenko_ | p. 8 | “Work by Eremenko \[24\] showed that the liquidus between the compounds NiZr and NiHf was roughly a linear interpolation between the melting points of these two compounds: 1543 and 1778 K, respectively.” |
-| Phase transition | 1802 K | 1802 | other | model | [4] Ross 2018 | p. 8 | “The catatectic on the Hf-rich portion was subsequently affected with a calculated value of 1802 K which is much higher than 1428 K suggested by Yeremenko et al. \[3\].” |
-| Phase transition | 1808.15 K | 1808.15 | congruent melting: L -> β-HfNi; _L: Ni 0.5; β-HfNi: Ni 0.5_ | model | [2] Cacciamani 2011 | Table 5, p. 7, row 1 |  |
+| Phase transition | 1420 K | 1420 | B33 -> B2 | model | [4] Ross 2018 | p. 9; `ORC-6LH6T2ZTVT.9c49ea` | “The calculated value for the transition from B33 to B2 was 1420 K which falls close to the measured value of 1433 K by DSC and synchrotron data in this work.” |
+| Phase transition | 1428 K | 1428 | other | experimental | [4] Ross 2018; _cites Yeremenko 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990281-q) | p. 8; `ORC-6WKCGLYEVB.4c83cc` | “The catatectic on the Hf-rich portion was subsequently affected with a calculated value of 1802 K which is much higher than 1428 K suggested by Yeremenko et al. \[3\].” |
+| Phase transition | 1433 K | 1433 |  | experimental | [4] Ross 2018 | p. 5; `ORC-AGS3YTZ3MP` | “Therefore, the phase transformation is indicated by the appearance of new peaks at approximately 1433 K, as indicated in Fig. 2b.” |
+| Phase transition | 1433 K | 1433 |  | experimental | [4] Ross 2018 | p. 5; `ORC-ICBL3IWISU` | “There is a good agreement on the transformation temperatures (∼1433 K) between the DSC measurements and the temperature-dependent diffraction data.” |
+| Phase transition | 1433 K | 1433 | B33 -> B2 | experimental | [4] Ross 2018 | p. 9; `ORC-6LH6T2ZTVT.c8b2c0` | “The calculated value for the transition from B33 to B2 was 1420 K which falls close to the measured value of 1433 K by DSC and synchrotron data in this work.” |
+| Phase transition | 1433 K | 1433 | other | experimental | [4] Ross 2018 | p. 9; `ORC-OQ24YQTD4F` | “DSC results found a high temperature transition at 1433 K and HEXRD experiments confirmed this phase to be the B2 phase - although the exact nature of the transformation still warrants investigation.” |
+| Phase transition | 1493.15 K | 1493.15 | congruent transformation | experimental | [2] Cacciamani 2011; _cites Yeremenko 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990281-q) | p. 5; `ORC-FQUV6JJPSO` | “Afterwards Yeremenko et al. \[46\] reinvestigated the Hf rich part of the diagram determining, in particular, the congruent melting of the Hf2 Ni phase at 1220 °C.” |
+| Phase transition | 1508.15 K | 1508.15 | congruent melting: L -> Hf2Ni; _L: Ni 0.333; Hf2Ni: Ni 0.333_ | model | [2] Cacciamani 2011 | Table 5, p. 7, row 3; `ORC-B6PJC636NH` |  |
+| Phase transition | 1754.15 K | 1754.15 | congruent melting: L -> Hf2Ni7; _L: Ni 0.778; Hf2Ni7: Ni 0.778_ | model | [2] Cacciamani 2011 | Table 5, p. 7, row 2; `ORC-RO44TTQ5XD` |  |
+| Phase transition | 1778 K | 1778 |  | experimental | [4] Ross 2018; _cites Eremenko_ | p. 8; `ORC-5WN3TOEDD4.1b6891` | “Work by Eremenko \[24\] showed that the liquidus between the compounds NiZr and NiHf was roughly a linear interpolation between the melting points of these two compounds: 1543 and 1778 K, respectively.” |
+| Phase transition | 1802 K | 1802 | other | model | [4] Ross 2018 | p. 8; `ORC-6WKCGLYEVB.beb99c` | “The catatectic on the Hf-rich portion was subsequently affected with a calculated value of 1802 K which is much higher than 1428 K suggested by Yeremenko et al. \[3\].” |
+| Phase transition | 1808.15 K | 1808.15 | congruent melting: L -> β-HfNi; _L: Ni 0.5; β-HfNi: Ni 0.5_ | model | [2] Cacciamani 2011 | Table 5, p. 7, row 1; `ORC-Z4RGQEHHKP` |  |
 
 ### Phase equilibrium (4)
 
@@ -267,10 +267,10 @@ Table: Phase equilibrium, Hf–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase assemblage |  | 1123 | Ni + HfNi5 + Hf2Ni7 + HfNi3 + Hf7Ni10 + Hf9Ni11 + HfNi; _alloy: Ni 1_ | experimental | [4] Ross 2018; _cites Wang 2001_ | Table 3, p. 5, row 1 |  |
-| Phase assemblage |  | 1173 | Ni + HfNi5 + Hf2Ni7 + HfNi3 + Hf7Ni10 + Hf9Ni11 + HfNi; _alloy: Ni 1_ | experimental | [4] Ross 2018 | Table 3, p. 5, row 3 |  |
-| Phase assemblage |  | 1173 | Ni + HfNi5 + Hf2Ni7 + HfNi3 + Hf7Ni10 + Hf9Ni11 + HfNi; _alloy: Ni 1_ | experimental | [4] Ross 2018; _cites Wang 2001_ | Table 3, p. 5, row 2 |  |
-| Phase assemblage |  | 1373 | Ni + HfNi5 + Hf2Ni7 + HfNi3 + Hf3Ni7 + Hf7Ni10 + Hf9Ni11 + HfNi; _alloy: Ni 1_ | experimental | [4] Ross 2018 | Table 3, p. 5, row 4 |  |
+| Phase assemblage |  | 1123 | Ni + HfNi5 + Hf2Ni7 + HfNi3 + Hf7Ni10 + Hf9Ni11 + HfNi; _alloy: Ni 1_ | experimental | [4] Ross 2018; _cites Wang 2001_ | Table 3, p. 5, row 1; `ORC-D4VMAXSSQX` |  |
+| Phase assemblage |  | 1173 | Ni + HfNi5 + Hf2Ni7 + HfNi3 + Hf7Ni10 + Hf9Ni11 + HfNi; _alloy: Ni 1_ | experimental | [4] Ross 2018 | Table 3, p. 5, row 3; `ORC-F3DCW4LNSX` |  |
+| Phase assemblage |  | 1173 | Ni + HfNi5 + Hf2Ni7 + HfNi3 + Hf7Ni10 + Hf9Ni11 + HfNi; _alloy: Ni 1_ | experimental | [4] Ross 2018; _cites Wang 2001_ | Table 3, p. 5, row 2; `ORC-R63JDYX5ZR` |  |
+| Phase assemblage |  | 1373 | Ni + HfNi5 + Hf2Ni7 + HfNi3 + Hf3Ni7 + Hf7Ni10 + Hf9Ni11 + HfNi; _alloy: Ni 1_ | experimental | [4] Ross 2018 | Table 3, p. 5, row 4; `ORC-LZS7JC7A66` |  |
 
 ### Mixing / partial (15)
 
@@ -278,21 +278,21 @@ Table: Mixing / partial, Hf–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: ΔH_ | -55.15 kJ/mol-atom |  | B2; _alloy: Ni 0.5_ | model | [4] Ross 2018 | Table 2, p. 4, row 6 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -49.68 kJ/mol-atom |  | L12; _alloy: Ni 0.75_ | model | [4] Ross 2018 | Table 2, p. 4, row 14 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 3.59 kJ/mol-atom |  | L12; _alloy: Ni 0.25_ | model | [4] Ross 2018 | Table 2, p. 4, row 15 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -8.06 kJ/mol-atom |  | bcc-A2; _alloy: Ni 0.25_ | model | [4] Ross 2018 | Table 2, p. 4, row 4 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -9.13 kJ/mol-atom |  | bcc-A2; _alloy: Ni 0.969697_ | model | [4] Ross 2018 | Table 2, p. 4, row 1 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -1.3 kJ/mol-atom |  | bcc-A2; _alloy: Ni 0.030303_ | model | [4] Ross 2018 | Table 2, p. 4, row 5 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -8.81 kJ/mol-atom |  | bcc-A2; _alloy: Ni 0.5_ | model | [4] Ross 2018 | Table 2, p. 4, row 3 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -17.06 kJ/mol-atom |  | bcc-A2; _alloy: Ni 0.75_ | model | [4] Ross 2018 | Table 2, p. 4, row 2 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -29.94 kJ/mol-atom |  | bcc-B2 | model | [4] Ross 2018 | Table 2, p. 4, row 7 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -10.22 kJ/mol-atom |  | bcc-B2 | model | [4] Ross 2018 | Table 2, p. 4, row 8 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 2.24 kJ/mol-atom |  | fcc-A1; _alloy: Ni 0.030303_ | model | [4] Ross 2018 | Table 2, p. 4, row 13 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -6.75 kJ/mol-atom |  | fcc-A1; _alloy: Ni 0.969697_ | model | [4] Ross 2018 | Table 2, p. 4, row 9 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -6.45 kJ/mol-atom |  | fcc-A1; _alloy: Ni 0.75_ | model | [4] Ross 2018 | Table 2, p. 4, row 10 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -6.46 kJ/mol-atom |  | fcc-A1; _alloy: Ni 0.5_ | model | [4] Ross 2018 | Table 2, p. 4, row 11 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 3.65 kJ/mol-atom |  | fcc-A1; _alloy: Ni 0.25_ | model | [4] Ross 2018 | Table 2, p. 4, row 12 |  |
+| Enthalpy of mixing; _printed: ΔH_ | -55.15 kJ/mol-atom |  | B2; _alloy: Ni 0.5_ | model | [4] Ross 2018 | Table 2, p. 4, row 6; `ORC-K7DQFSZIQI.198982` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -49.68 kJ/mol-atom |  | L12; _alloy: Ni 0.75_ | model | [4] Ross 2018 | Table 2, p. 4, row 14; `ORC-JFQCQ7TUJB.46c8f9` |  |
+| Enthalpy of mixing; _printed: ΔH_ | 3.59 kJ/mol-atom |  | L12; _alloy: Ni 0.25_ | model | [4] Ross 2018 | Table 2, p. 4, row 15; `ORC-LHHF4LOYLJ.3612b0` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -8.06 kJ/mol-atom |  | bcc-A2; _alloy: Ni 0.25_ | model | [4] Ross 2018 | Table 2, p. 4, row 4; `ORC-2EKSW6DYOY.221cf5` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -9.13 kJ/mol-atom |  | bcc-A2; _alloy: Ni 0.969697_ | model | [4] Ross 2018 | Table 2, p. 4, row 1; `ORC-3DU6H76OP4.013860` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -1.3 kJ/mol-atom |  | bcc-A2; _alloy: Ni 0.030303_ | model | [4] Ross 2018 | Table 2, p. 4, row 5; `ORC-3TKEVVMXL2.82343f` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -8.81 kJ/mol-atom |  | bcc-A2; _alloy: Ni 0.5_ | model | [4] Ross 2018 | Table 2, p. 4, row 3; `ORC-OCXI7TLGHL.065df7` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -17.06 kJ/mol-atom |  | bcc-A2; _alloy: Ni 0.75_ | model | [4] Ross 2018 | Table 2, p. 4, row 2; `ORC-QANEROFXOH.c54c30` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -29.94 kJ/mol-atom |  | bcc-B2 | model | [4] Ross 2018 | Table 2, p. 4, row 7; `ORC-OVW7PKBNS5.2492ff` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -10.22 kJ/mol-atom |  | bcc-B2 | model | [4] Ross 2018 | Table 2, p. 4, row 8; `ORC-WM6IOAYSXD.31d003` |  |
+| Enthalpy of mixing; _printed: ΔH_ | 2.24 kJ/mol-atom |  | fcc-A1; _alloy: Ni 0.030303_ | model | [4] Ross 2018 | Table 2, p. 4, row 13; `ORC-3VPHYT2VEW.a5b207` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -6.75 kJ/mol-atom |  | fcc-A1; _alloy: Ni 0.969697_ | model | [4] Ross 2018 | Table 2, p. 4, row 9; `ORC-ERE2IKL5BV.3e3705` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -6.45 kJ/mol-atom |  | fcc-A1; _alloy: Ni 0.75_ | model | [4] Ross 2018 | Table 2, p. 4, row 10; `ORC-G73WOIXNMN.3f989b` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -6.46 kJ/mol-atom |  | fcc-A1; _alloy: Ni 0.5_ | model | [4] Ross 2018 | Table 2, p. 4, row 11; `ORC-TZO5HCE2EU.eab19b` |  |
+| Enthalpy of mixing; _printed: ΔH_ | 3.65 kJ/mol-atom |  | fcc-A1; _alloy: Ni 0.25_ | model | [4] Ross 2018 | Table 2, p. 4, row 12; `ORC-XWTQOXNBAI.d6c917` |  |
 
 ### Heat capacity / entropy / enthalpy (6)
 
@@ -300,12 +300,12 @@ Table: Heat capacity / entropy / enthalpy, Hf–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: S298.15_ | 38.8683 J/mol-atom/K | 298.15 | Hf(hcp-A3); _alloy: Ni 0_ | model | [4] Ross 2018 | Table 1, p. 4, row 14 |  |
-| Entropy; _printed: S298.15_ | 29.0286 J/mol-atom/K | 298.15 | Ni3Hf(L12); _alloy: Ni 0.75_ | model | [4] Ross 2018 | Table 1, p. 4, row 16 |  |
-| Entropy; _printed: S298.15_ | 27.4825 J/mol-atom/K | 298.15 | Ni5Hf(C15b); _alloy: Ni 0.833333_ | model | [4] Ross 2018 | Table 1, p. 4, row 2 |  |
-| Entropy; _printed: S298.15_ | 40.29 J/mol-atom/K | 298.15 | NiHf(B2); _alloy: Ni 0.5_ | model | [4] Ross 2018 | Table 1, p. 4, row 10 |  |
-| Entropy; _printed: S298.15_ | 38.8575 J/mol-atom/K | 298.15 | NiHf(B33); _alloy: Ni 0.5_ | model | [4] Ross 2018 | Table 1, p. 4, row 8 |  |
-| Entropy; _printed: S298.15_ | 51.5817 J/mol-atom/K | 298.15 | NiHf2; _alloy: Ni 0.333333_ | model | [4] Ross 2018 | Table 1, p. 4, row 11 |  |
+| Entropy; _printed: S298.15_ | 38.8683 J/mol-atom/K | 298.15 | Hf(hcp-A3); _alloy: Ni 0_ | model | [4] Ross 2018 | Table 1, p. 4, row 14; `ORC-D5L34MTVI5.7d7560` |  |
+| Entropy; _printed: S298.15_ | 29.0286 J/mol-atom/K | 298.15 | Ni3Hf(L12); _alloy: Ni 0.75_ | model | [4] Ross 2018 | Table 1, p. 4, row 16; `ORC-RNJJ4OPH5G.afba84` |  |
+| Entropy; _printed: S298.15_ | 27.4825 J/mol-atom/K | 298.15 | Ni5Hf(C15b); _alloy: Ni 0.833333_ | model | [4] Ross 2018 | Table 1, p. 4, row 2; `ORC-KGXCD4BLYH.d04807` |  |
+| Entropy; _printed: S298.15_ | 40.29 J/mol-atom/K | 298.15 | NiHf(B2); _alloy: Ni 0.5_ | model | [4] Ross 2018 | Table 1, p. 4, row 10; `ORC-SMDYQTNVJ5.855936` |  |
+| Entropy; _printed: S298.15_ | 38.8575 J/mol-atom/K | 298.15 | NiHf(B33); _alloy: Ni 0.5_ | model | [4] Ross 2018 | Table 1, p. 4, row 8; `ORC-2V6MMT6W3Q.2793bb` |  |
+| Entropy; _printed: S298.15_ | 51.5817 J/mol-atom/K | 298.15 | NiHf2; _alloy: Ni 0.333333_ | model | [4] Ross 2018 | Table 1, p. 4, row 11; `ORC-HI2NIG257C.1e93ea` |  |
 
 ### Crystal structure (23)
 
@@ -313,29 +313,29 @@ Table: Crystal structure, Hf–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a; _printed: a_ | 3.242 Å | 0 | B33-HfNi; _alloy: Ni 0.5_ | DFT | [3] Berche 2016 | Table 2, p. 4, row 5 |  |
-| Lattice a; _printed: a_ | 6.673 Å | 0 | C15-HfNi2; _alloy: Ni 0.666667_ | DFT | [3] Berche 2016 | Table 2, p. 4, row 8 |  |
-| Lattice a; _printed: a_ | 6.92 Å | 0 | C15b-HfNi5; _alloy: Ni 0.833333_ | DFT | [3] Berche 2016 | Table 2, p. 4, row 12 |  |
-| Lattice a; _printed: a_ | 6.411 Å | 0 | C16-Hf2Ni; _alloy: Ni 0.333333_ | DFT | [3] Berche 2016 | Table 2, p. 4, row 4 |  |
-| Lattice a; _printed: a_ | 4.666 Å | 0 | Hf2Ni7; _alloy: Ni 0.777778_ | DFT | [3] Berche 2016 | Table 2, p. 4, row 11 |  |
-| Lattice a; _printed: a_ | 6.512 Å | 0 | Hf3Ni7; _alloy: Ni 0.7_ | DFT | [3] Berche 2016 | Table 2, p. 4, row 9 |  |
-| Lattice a; _printed: a_ | 9.11 Å | 0 | Hf7Ni10; _alloy: Ni 0.588235_ | DFT | [3] Berche 2016 | Table 2, p. 4, row 6 |  |
-| Lattice a; _printed: a_ | 6.424 Å | 0 | Hf8Ni21; _alloy: Ni 0.724138_ | DFT | [3] Berche 2016 | Table 2, p. 4, row 13 |  |
-| Lattice a; _printed: a_ | 9.811 Å | 0 | Hf9Ni11; _alloy: Ni 0.55_ | DFT | [3] Berche 2016 | Table 2, p. 4, row 7 |  |
-| Lattice a; _printed: a_ | 5.278 Å | 0 | α-HfNi3; _alloy: Ni 0.75_ | DFT | [3] Berche 2016 | Table 2, p. 4, row 10 |  |
-| Lattice b; _printed: b_ | 9.817 Å | 0 | B33-HfNi; _alloy: Ni 0.5_ | DFT | [3] Berche 2016 | Table 2, p. 4, row 5 |  |
-| Lattice b; _printed: b_ | 8.187 Å | 0 | Hf2Ni7; _alloy: Ni 0.777778_ | DFT | [3] Berche 2016 | Table 2, p. 4, row 11 |  |
-| Lattice b; _printed: b_ | 6.582 Å | 0 | Hf3Ni7; _alloy: Ni 0.7_ | DFT | [3] Berche 2016 | Table 2, p. 4, row 9 |  |
-| Lattice b; _printed: b_ | 9.103 Å | 0 | Hf7Ni10; _alloy: Ni 0.588235_ | DFT | [3] Berche 2016 | Table 2, p. 4, row 6 |  |
-| Lattice b; _printed: b_ | 7.998 Å | 0 | Hf8Ni21; _alloy: Ni 0.724138_ | DFT | [3] Berche 2016 | Table 2, p. 4, row 13 |  |
-| Lattice c; _printed: c_ | 4.085 Å | 0 | B33-HfNi; _alloy: Ni 0.5_ | DFT | [3] Berche 2016 | Table 2, p. 4, row 5 |  |
-| Lattice c; _printed: c_ | 5.24 Å | 0 | C16-Hf2Ni; _alloy: Ni 0.333333_ | DFT | [3] Berche 2016 | Table 2, p. 4, row 4 |  |
-| Lattice c; _printed: c_ | 12.099 Å | 0 | Hf2Ni7; _alloy: Ni 0.777778_ | DFT | [3] Berche 2016 | Table 2, p. 4, row 11 |  |
-| Lattice c; _printed: c_ | 7.635 Å | 0 | Hf3Ni7; _alloy: Ni 0.7_ | DFT | [3] Berche 2016 | Table 2, p. 4, row 9 |  |
-| Lattice c; _printed: c_ | 12.29 Å | 0 | Hf7Ni10; _alloy: Ni 0.588235_ | DFT | [3] Berche 2016 | Table 2, p. 4, row 6 |  |
-| Lattice c; _printed: c_ | 8.531 Å | 0 | Hf8Ni21; _alloy: Ni 0.724138_ | DFT | [3] Berche 2016 | Table 2, p. 4, row 13 |  |
-| Lattice c; _printed: c_ | 6.444 Å | 0 | Hf9Ni11; _alloy: Ni 0.55_ | DFT | [3] Berche 2016 | Table 2, p. 4, row 7 |  |
-| Lattice c; _printed: c_ | 21.433 Å | 0 | α-HfNi3; _alloy: Ni 0.75_ | DFT | [3] Berche 2016 | Table 2, p. 4, row 10 |  |
+| Lattice a; _printed: a_ | 3.242 Å | 0 | B33-HfNi; _alloy: Ni 0.5_ | DFT | [3] Berche 2016 | Table 2, p. 4, row 5; `ORC-EZ3ARAAN3N.578f83` |  |
+| Lattice a; _printed: a_ | 6.673 Å | 0 | C15-HfNi2; _alloy: Ni 0.666667_ | DFT | [3] Berche 2016 | Table 2, p. 4, row 8; `ORC-IAI7M53EZE.c4c23e` |  |
+| Lattice a; _printed: a_ | 6.92 Å | 0 | C15b-HfNi5; _alloy: Ni 0.833333_ | DFT | [3] Berche 2016 | Table 2, p. 4, row 12; `ORC-3JVNKSVQH5.4d91ee` |  |
+| Lattice a; _printed: a_ | 6.411 Å | 0 | C16-Hf2Ni; _alloy: Ni 0.333333_ | DFT | [3] Berche 2016 | Table 2, p. 4, row 4; `ORC-QGG5BVQ6YL.2815a0` |  |
+| Lattice a; _printed: a_ | 4.666 Å | 0 | Hf2Ni7; _alloy: Ni 0.777778_ | DFT | [3] Berche 2016 | Table 2, p. 4, row 11; `ORC-TBD36PPM67.c569e6` |  |
+| Lattice a; _printed: a_ | 6.512 Å | 0 | Hf3Ni7; _alloy: Ni 0.7_ | DFT | [3] Berche 2016 | Table 2, p. 4, row 9; `ORC-5TFECMEBQ7.c63f18` |  |
+| Lattice a; _printed: a_ | 9.11 Å | 0 | Hf7Ni10; _alloy: Ni 0.588235_ | DFT | [3] Berche 2016 | Table 2, p. 4, row 6; `ORC-UNS5FDIRN7.28152c` |  |
+| Lattice a; _printed: a_ | 6.424 Å | 0 | Hf8Ni21; _alloy: Ni 0.724138_ | DFT | [3] Berche 2016 | Table 2, p. 4, row 13; `ORC-F2PVJYYCNK.3c512a` |  |
+| Lattice a; _printed: a_ | 9.811 Å | 0 | Hf9Ni11; _alloy: Ni 0.55_ | DFT | [3] Berche 2016 | Table 2, p. 4, row 7; `ORC-D36QIBIH4Q.b93367` |  |
+| Lattice a; _printed: a_ | 5.278 Å | 0 | α-HfNi3; _alloy: Ni 0.75_ | DFT | [3] Berche 2016 | Table 2, p. 4, row 10; `ORC-5SD54IYJM7.66f795` |  |
+| Lattice b; _printed: b_ | 9.817 Å | 0 | B33-HfNi; _alloy: Ni 0.5_ | DFT | [3] Berche 2016 | Table 2, p. 4, row 5; `ORC-EZ3ARAAN3N.8bcb03` |  |
+| Lattice b; _printed: b_ | 8.187 Å | 0 | Hf2Ni7; _alloy: Ni 0.777778_ | DFT | [3] Berche 2016 | Table 2, p. 4, row 11; `ORC-TBD36PPM67.b455dc` |  |
+| Lattice b; _printed: b_ | 6.582 Å | 0 | Hf3Ni7; _alloy: Ni 0.7_ | DFT | [3] Berche 2016 | Table 2, p. 4, row 9; `ORC-5TFECMEBQ7.21abc7` |  |
+| Lattice b; _printed: b_ | 9.103 Å | 0 | Hf7Ni10; _alloy: Ni 0.588235_ | DFT | [3] Berche 2016 | Table 2, p. 4, row 6; `ORC-UNS5FDIRN7.1271d9` |  |
+| Lattice b; _printed: b_ | 7.998 Å | 0 | Hf8Ni21; _alloy: Ni 0.724138_ | DFT | [3] Berche 2016 | Table 2, p. 4, row 13; `ORC-F2PVJYYCNK.821322` |  |
+| Lattice c; _printed: c_ | 4.085 Å | 0 | B33-HfNi; _alloy: Ni 0.5_ | DFT | [3] Berche 2016 | Table 2, p. 4, row 5; `ORC-EZ3ARAAN3N.10abd2` |  |
+| Lattice c; _printed: c_ | 5.24 Å | 0 | C16-Hf2Ni; _alloy: Ni 0.333333_ | DFT | [3] Berche 2016 | Table 2, p. 4, row 4; `ORC-QGG5BVQ6YL.e77cca` |  |
+| Lattice c; _printed: c_ | 12.099 Å | 0 | Hf2Ni7; _alloy: Ni 0.777778_ | DFT | [3] Berche 2016 | Table 2, p. 4, row 11; `ORC-TBD36PPM67.9eeef1` |  |
+| Lattice c; _printed: c_ | 7.635 Å | 0 | Hf3Ni7; _alloy: Ni 0.7_ | DFT | [3] Berche 2016 | Table 2, p. 4, row 9; `ORC-5TFECMEBQ7.420bd2` |  |
+| Lattice c; _printed: c_ | 12.29 Å | 0 | Hf7Ni10; _alloy: Ni 0.588235_ | DFT | [3] Berche 2016 | Table 2, p. 4, row 6; `ORC-UNS5FDIRN7.7fa52e` |  |
+| Lattice c; _printed: c_ | 8.531 Å | 0 | Hf8Ni21; _alloy: Ni 0.724138_ | DFT | [3] Berche 2016 | Table 2, p. 4, row 13; `ORC-F2PVJYYCNK.9dfee7` |  |
+| Lattice c; _printed: c_ | 6.444 Å | 0 | Hf9Ni11; _alloy: Ni 0.55_ | DFT | [3] Berche 2016 | Table 2, p. 4, row 7; `ORC-D36QIBIH4Q.a25a12` |  |
+| Lattice c; _printed: c_ | 21.433 Å | 0 | α-HfNi3; _alloy: Ni 0.75_ | DFT | [3] Berche 2016 | Table 2, p. 4, row 10; `ORC-5SD54IYJM7.cc9da9` |  |
 
 ## Sources
 
@@ -403,4 +403,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

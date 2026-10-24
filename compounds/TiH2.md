@@ -14,20 +14,20 @@ Table: Enthalpy of formation of TiH2 reported in the literature (14)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -179 kJ/mol (basis unstated) | TiH2 | 298.15 | experimental |  | [H–Ti](https://data.orchid-project.org/systems/H-TI.html) | [1] Wang 2010; _cites Dantzer 1983_ [doi](https://doi.org/10.1016/0022-3697%2883%2990130-0) | Table 3, p. 4, row 1 |  |
-| -151.2 kJ/mol (basis unstated) (range -179 to -123.4) | TiH2 | 298.15 | experimental |  | [H–Ti](https://data.orchid-project.org/systems/H-TI.html) | [2] Königsberger 2000; _cites San-Martin 1987_ | Table 2, p. 2, row 11 |  |
-| -137 kJ/mol (basis unstated) | TiH2 | 298.15 | experimental |  | [H–Ti](https://data.orchid-project.org/systems/H-TI.html) | [1] Wang 2010; _cites Takeuchi 1966_ | Table 3, p. 4, row 2 |  |
-| -136.95 kJ/mol (basis unstated) | TiH2 | 298.15 | experimental |  | [H–Ti](https://data.orchid-project.org/systems/H-TI.html) | [2] Königsberger 2000; _cites Dantzer 1983_ | Table 2, p. 2, row 10 |  |
-| -146 kJ/mol (basis unstated) | TiH2 |  | model |  | [H–Ti](https://data.orchid-project.org/systems/H-TI.html) | [1] Wang 2010; _cites Caian 2008_ | Table 3, p. 4, row 9 |  |
-| -142 kJ/mol (basis unstated) | TiH2 |  | model |  | [H–Ti](https://data.orchid-project.org/systems/H-TI.html) | [1] Wang 2010 | Table 3, p. 4, row 10 |  |
-| -139 kJ/mol (basis unstated) | TiH2 |  | model |  | [H–Ti](https://data.orchid-project.org/systems/H-TI.html) | [1] Wang 2010; _cites E Konigsberger 2000_ | Table 3, p. 4, row 7 |  |
-| -133.2 kJ/mol (basis unstated) | TiH2 |  | model |  | [H–Ti](https://data.orchid-project.org/systems/H-TI.html) | [2] Königsberger 2000 | Table 2, p. 2, row 9 |  |
-| -129 kJ/mol (basis unstated) | TiH2 |  | model |  | [H–Ti](https://data.orchid-project.org/systems/H-TI.html) | [1] Wang 2010; _cites Kivilahti 1987_ [doi](https://doi.org/10.1016/0364-5916%2887%2990014-9) | Table 3, p. 4, row 6 |  |
-| -47.3 kJ/mol (basis unstated) | ε-TiH2 |  | model |  | [H–Ti](https://data.orchid-project.org/systems/H-TI.html) | [3] Ukita 2007 | Table 2, p. 5, row 3 |  |
-| -47.1 kJ/mol (basis unstated) | δ-TiH2 |  | model |  | [H–Ti](https://data.orchid-project.org/systems/H-TI.html) | [3] Ukita 2007 | Table 2, p. 5, row 2 |  |
-| -165 kJ/mol (basis unstated) | TiH2 |  | unspecified |  | [H–Ti](https://data.orchid-project.org/systems/H-TI.html) | [1] Wang 2010; _cites Wang 1996_ | Table 3, p. 4, row 4 |  |
-| -148 kJ/mol (basis unstated) | TiH2 |  | unspecified |  | [H–Ti](https://data.orchid-project.org/systems/H-TI.html) | [1] Wang 2010; _cites Tokujiro 2001_ | Table 3, p. 4, row 5 |  |
-| -134 kJ/mol (basis unstated) | TiH2 |  | unspecified |  | [H–Ti](https://data.orchid-project.org/systems/H-TI.html) | [1] Wang 2010; _cites Shusuke 2007_ | Table 3, p. 4, row 8 |  |
+| -179 kJ/mol (basis unstated) | TiH2 | 298.15 | experimental |  | [H–Ti](https://data.orchid-project.org/systems/H-TI.html) | [1] Wang 2010; _cites Dantzer 1983_ [doi](https://doi.org/10.1016/0022-3697%2883%2990130-0) | Table 3, p. 4, row 1; `ORC-B7ZDHYYC66.131f4f` |  |
+| -151.2 kJ/mol (basis unstated) (range -179 to -123.4) | TiH2 | 298.15 | experimental |  | [H–Ti](https://data.orchid-project.org/systems/H-TI.html) | [2] Königsberger 2000; _cites San-Martin 1987_ | Table 2, p. 2, row 11; `ORC-AVILYADHHF` |  |
+| -137 kJ/mol (basis unstated) | TiH2 | 298.15 | experimental |  | [H–Ti](https://data.orchid-project.org/systems/H-TI.html) | [1] Wang 2010; _cites Takeuchi 1966_ | Table 3, p. 4, row 2; `ORC-HLNQPCCOG6` |  |
+| -136.95 kJ/mol (basis unstated) | TiH2 | 298.15 | experimental |  | [H–Ti](https://data.orchid-project.org/systems/H-TI.html) | [2] Königsberger 2000; _cites Dantzer 1983_ | Table 2, p. 2, row 10; `ORC-APHJ6TNAWH` |  |
+| -146 kJ/mol (basis unstated) | TiH2 |  | model |  | [H–Ti](https://data.orchid-project.org/systems/H-TI.html) | [1] Wang 2010; _cites Caian 2008_ | Table 3, p. 4, row 9; `ORC-MWDKOVX35W.89abc2` |  |
+| -142 kJ/mol (basis unstated) | TiH2 |  | model |  | [H–Ti](https://data.orchid-project.org/systems/H-TI.html) | [1] Wang 2010 | Table 3, p. 4, row 10; `ORC-HBDSM5SQGI.c2bd6e` |  |
+| -139 kJ/mol (basis unstated) | TiH2 |  | model |  | [H–Ti](https://data.orchid-project.org/systems/H-TI.html) | [1] Wang 2010; _cites E Konigsberger 2000_ | Table 3, p. 4, row 7; `ORC-XLCEHCSWXG.2ba4ec` |  |
+| -133.2 kJ/mol (basis unstated) | TiH2 |  | model |  | [H–Ti](https://data.orchid-project.org/systems/H-TI.html) | [2] Königsberger 2000 | Table 2, p. 2, row 9; `ORC-PP72ZRSTTA` |  |
+| -129 kJ/mol (basis unstated) | TiH2 |  | model |  | [H–Ti](https://data.orchid-project.org/systems/H-TI.html) | [1] Wang 2010; _cites Kivilahti 1987_ [doi](https://doi.org/10.1016/0364-5916%2887%2990014-9) | Table 3, p. 4, row 6; `ORC-VW3TKZHTCV.5a1c3d` |  |
+| -47.3 kJ/mol (basis unstated) | ε-TiH2 |  | model |  | [H–Ti](https://data.orchid-project.org/systems/H-TI.html) | [3] Ukita 2007 | Table 2, p. 5, row 3; `ORC-ESYL73AMOA.45a783` |  |
+| -47.1 kJ/mol (basis unstated) | δ-TiH2 |  | model |  | [H–Ti](https://data.orchid-project.org/systems/H-TI.html) | [3] Ukita 2007 | Table 2, p. 5, row 2; `ORC-I5RSTY64YX.43c6bd` |  |
+| -165 kJ/mol (basis unstated) | TiH2 |  | unspecified |  | [H–Ti](https://data.orchid-project.org/systems/H-TI.html) | [1] Wang 2010; _cites Wang 1996_ | Table 3, p. 4, row 4; `ORC-GMPGOLQNGO.d8d306` |  |
+| -148 kJ/mol (basis unstated) | TiH2 |  | unspecified |  | [H–Ti](https://data.orchid-project.org/systems/H-TI.html) | [1] Wang 2010; _cites Tokujiro 2001_ | Table 3, p. 4, row 5; `ORC-WFU6AXC6RE.b2cbb6` |  |
+| -134 kJ/mol (basis unstated) | TiH2 |  | unspecified |  | [H–Ti](https://data.orchid-project.org/systems/H-TI.html) | [1] Wang 2010; _cites Shusuke 2007_ | Table 3, p. 4, row 8; `ORC-QGCRTRSQFA.80195d` |  |
 
 ### Uncertainty budget
 
@@ -105,4 +105,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

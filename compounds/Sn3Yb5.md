@@ -14,15 +14,15 @@ Table: Enthalpy of formation of Sn3Yb5 reported in the literature (9)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -63.59 kJ/mol-atom | αYb5Sn3 |  | model | Calphad | [Sn–Yb](https://data.orchid-project.org/systems/SN-YB.html) | [1] Kali-Ali 2017 | Table 2, p. 4, row 16 |  |
-| -62.39 kJ/mol-atom | αYb5Sn3 |  | model | Calphad | [Sn–Yb](https://data.orchid-project.org/systems/SN-YB.html) | [1] Kali-Ali 2017 | Table 2, p. 4, row 15 |  |
-| -60.3 kJ/mol-atom ± 5.9 | αYb5Sn3 |  | model | Vs. rR^-3 | [Sn–Yb](https://data.orchid-project.org/systems/SN-YB.html) | [1] Kali-Ali 2017; _cites Witusiewicz 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902659-x) | Table 2, p. 4, row 19 |  |
-| -58.697 kJ/mol-atom | βYb5Sn3 |  | model | Calphad | [Sn–Yb](https://data.orchid-project.org/systems/SN-YB.html) | [1] Kali-Ali 2017 | Table 2, p. 4, row 21 |  |
-| -58.4 kJ/mol-atom | αYb5Sn3 |  | model | Calphad | [Sn–Yb](https://data.orchid-project.org/systems/SN-YB.html) | [1] Kali-Ali 2017; _cites Idbenali 2011_ [doi](https://doi.org/10.1007/s10973-010-1082-4) | Table 2, p. 4, row 17 |  |
-| -57.602 kJ/mol-atom | βYb5Sn3 |  | model | Calphad | [Sn–Yb](https://data.orchid-project.org/systems/SN-YB.html) | [1] Kali-Ali 2017; _cites Idbenali 2011_ [doi](https://doi.org/10.1007/s10973-010-1082-4) | Table 2, p. 4, row 22 |  |
-| -53.3 kJ/mol-atom ± 4.4 | αYb5Sn3 |  | model | Vs. N | [Sn–Yb](https://data.orchid-project.org/systems/SN-YB.html) | [1] Kali-Ali 2017; _cites Witusiewicz 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902659-x) | Table 2, p. 4, row 18 |  |
-| -62.285 kJ/mol-atom | βYb5Sn3 | 0 | DFT | Ab-initio | [Sn–Yb](https://data.orchid-project.org/systems/SN-YB.html) | [1] Kali-Ali 2017 | Table 2, p. 4, row 20 |  |
-| -58.549 kJ/mol-atom | αYb5Sn3 | 0 | DFT | Ab-initio | [Sn–Yb](https://data.orchid-project.org/systems/SN-YB.html) | [1] Kali-Ali 2017 | Table 2, p. 4, row 14 |  |
+| -63.59 kJ/mol-atom | αYb5Sn3 |  | model | Calphad | [Sn–Yb](https://data.orchid-project.org/systems/SN-YB.html) | [1] Kali-Ali 2017 | Table 2, p. 4, row 16; `ORC-SEZOSXNOLS.c96bd0` |  |
+| -62.39 kJ/mol-atom | αYb5Sn3 |  | model | Calphad | [Sn–Yb](https://data.orchid-project.org/systems/SN-YB.html) | [1] Kali-Ali 2017 | Table 2, p. 4, row 15; `ORC-FVFS2RVWAG.08c89b` |  |
+| -60.3 kJ/mol-atom ± 5.9 | αYb5Sn3 |  | model | Vs. rR^-3 | [Sn–Yb](https://data.orchid-project.org/systems/SN-YB.html) | [1] Kali-Ali 2017; _cites Witusiewicz 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902659-x) | Table 2, p. 4, row 19; `ORC-GQI757EHY5.0715da` |  |
+| -58.697 kJ/mol-atom | βYb5Sn3 |  | model | Calphad | [Sn–Yb](https://data.orchid-project.org/systems/SN-YB.html) | [1] Kali-Ali 2017 | Table 2, p. 4, row 21; `ORC-6EDJSEOCOE.a81e4a` |  |
+| -58.4 kJ/mol-atom | αYb5Sn3 |  | model | Calphad | [Sn–Yb](https://data.orchid-project.org/systems/SN-YB.html) | [1] Kali-Ali 2017; _cites Idbenali 2011_ [doi](https://doi.org/10.1007/s10973-010-1082-4) | Table 2, p. 4, row 17; `ORC-4R2IKF4N4T.734578` |  |
+| -57.602 kJ/mol-atom | βYb5Sn3 |  | model | Calphad | [Sn–Yb](https://data.orchid-project.org/systems/SN-YB.html) | [1] Kali-Ali 2017; _cites Idbenali 2011_ [doi](https://doi.org/10.1007/s10973-010-1082-4) | Table 2, p. 4, row 22; `ORC-4OZLIRRYDY.b54b5f` |  |
+| -53.3 kJ/mol-atom ± 4.4 | αYb5Sn3 |  | model | Vs. N | [Sn–Yb](https://data.orchid-project.org/systems/SN-YB.html) | [1] Kali-Ali 2017; _cites Witusiewicz 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902659-x) | Table 2, p. 4, row 18; `ORC-YULZMCRPNL.f1acc1` |  |
+| -62.285 kJ/mol-atom | βYb5Sn3 | 0 | DFT | Ab-initio | [Sn–Yb](https://data.orchid-project.org/systems/SN-YB.html) | [1] Kali-Ali 2017 | Table 2, p. 4, row 20; `ORC-5JBEDNDHOR.78b9f6` |  |
+| -58.549 kJ/mol-atom | αYb5Sn3 | 0 | DFT | Ab-initio | [Sn–Yb](https://data.orchid-project.org/systems/SN-YB.html) | [1] Kali-Ali 2017 | Table 2, p. 4, row 14; `ORC-UBJA4SLO7O.0cbfc6` |  |
 
 ### Uncertainty budget
 
@@ -105,4 +105,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

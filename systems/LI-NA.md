@@ -46,21 +46,21 @@ Table: Invariant reactions reported in the literature for the Li–Na system (15
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 581.5 | Consolute point | Liquid: Na 0.33 | model | [1] Zhang 2003 | Table 4, p. 5, row 9 |  |
-| 580 | Consolute point | Liquid: Na 0.34 | experimental | [1] Zhang 2003; _cites Wu 1975_ [doi](https://doi.org/10.1016/0375-9601%2875%2990674-x) | Table 4, p. 5, row 15 |  |
-| 579 | Consolute point | Liquid: Na 0.35 | experimental | [1] Zhang 2003; _cites Kandan 1968_ | Table 4, p. 5, row 14 |  |
-| 578 | Consolute point | Liquid: Na 0.37 | experimental | [1] Zhang 2003; _cites Down 1975_ [doi](https://doi.org/10.1039/dt9750001490) | Table 4, p. 5, row 12 |  |
-| 578 | Consolute point | Liquid: Na 0.37 | experimental | [1] Zhang 2003; _cites Endo 1979_ | Table 4, p. 5, row 13 |  |
-| 577 | Consolute point | Liquid: Na 0.36 | experimental | [1] Zhang 2003; _cites Schurmann 1971_ [doi](https://doi.org/10.1103/physrevlett.27.1790) | Table 4, p. 5, row 10 |  |
-| 576.4 | Consolute point | Liquid: Na 0.357 | experimental | [1] Zhang 2003; _cites Feistma 1975_ | Table 4, p. 5, row 11 |  |
-| 444.5 | Liquid1 -> bcc(Li) + liquid2 | Liquid1: Na 0.034; bcc(Li): Na 0.012; liquid2: Na 0.9 | model | [1] Zhang 2003 | Table 4, p. 5, row 1 |  |
-| 444 | Liquid1 -> bcc(Li) + liquid2 | Liquid1: Na 0.034; liquid2: Na 0.916 | experimental | [1] Zhang 2003; _cites Howland 1957_ | Table 4, p. 5, row 4 |  |
-| 443 | Liquid1 -> bcc(Li) + liquid2 | Liquid1: Na 0.034; liquid2: Na 0.902 | experimental | [1] Zhang 2003; _cites Feistma 1975_ | Table 4, p. 5, row 2 |  |
-| 443 | Liquid1 -> bcc(Li) + liquid2 | Liquid1: Na 0.034; liquid2: Na 0.8787 | experimental | [1] Zhang 2003; _cites Kandan 1968_ | Table 4, p. 5, row 3 |  |
-| 366.5 | Liquid2 -> bcc(Li) + bcc(Na) | Liquid2: Na 0.963 | experimental | [1] Zhang 2003; _cites Salmon 1956_ [doi](https://doi.org/10.1021/j150535a004) | Table 4, p. 5, row 7 |  |
-| 365.4 | Liquid2 -> bcc(Li) + bcc(Na) | Liquid2: Na 0.963 | experimental | [1] Zhang 2003; _cites Howland 1957_ | Table 4, p. 5, row 8 |  |
-| 365.3 | Liquid2 -> bcc(Li) + bcc(Na) | Liquid2: Na 0.97 | experimental | [1] Zhang 2003; _cites Down 1975_ [doi](https://doi.org/10.1039/dt9750001490) | Table 4, p. 5, row 6 |  |
-| 360.2 | Liquid2 -> bcc(Li) + bcc(Na) | Liquid2: Na 0.965; bcc(Li): Na 0.005; bcc(Na): Na 0.995 | model | [1] Zhang 2003 | Table 4, p. 5, row 5 |  |
+| 581.5 | Consolute point | Liquid: Na 0.33 | model | [1] Zhang 2003 | Table 4, p. 5, row 9; `ORC-5CQ7XHEFAU` |  |
+| 580 | Consolute point | Liquid: Na 0.34 | experimental | [1] Zhang 2003; _cites Wu 1975_ [doi](https://doi.org/10.1016/0375-9601%2875%2990674-x) | Table 4, p. 5, row 15; `ORC-ZZ73UGDVXA` |  |
+| 579 | Consolute point | Liquid: Na 0.35 | experimental | [1] Zhang 2003; _cites Kandan 1968_ | Table 4, p. 5, row 14; `ORC-Y6G3M64SW6` |  |
+| 578 | Consolute point | Liquid: Na 0.37 | experimental | [1] Zhang 2003; _cites Down 1975_ [doi](https://doi.org/10.1039/dt9750001490) | Table 4, p. 5, row 12; `ORC-GCQJH4PG6L` |  |
+| 578 | Consolute point | Liquid: Na 0.37 | experimental | [1] Zhang 2003; _cites Endo 1979_ | Table 4, p. 5, row 13; `ORC-SUVRWE5TEO` |  |
+| 577 | Consolute point | Liquid: Na 0.36 | experimental | [1] Zhang 2003; _cites Schurmann 1971_ [doi](https://doi.org/10.1103/physrevlett.27.1790) | Table 4, p. 5, row 10; `ORC-A7LEMVAFJ5` |  |
+| 576.4 | Consolute point | Liquid: Na 0.357 | experimental | [1] Zhang 2003; _cites Feistma 1975_ | Table 4, p. 5, row 11; `ORC-N25YTTY4W3` |  |
+| 444.5 | Liquid1 -> bcc(Li) + liquid2 | Liquid1: Na 0.034; bcc(Li): Na 0.012; liquid2: Na 0.9 | model | [1] Zhang 2003 | Table 4, p. 5, row 1; `ORC-4BSYNWSB6Z` |  |
+| 444 | Liquid1 -> bcc(Li) + liquid2 | Liquid1: Na 0.034; liquid2: Na 0.916 | experimental | [1] Zhang 2003; _cites Howland 1957_ | Table 4, p. 5, row 4; `ORC-NUU4LOGC4D` |  |
+| 443 | Liquid1 -> bcc(Li) + liquid2 | Liquid1: Na 0.034; liquid2: Na 0.902 | experimental | [1] Zhang 2003; _cites Feistma 1975_ | Table 4, p. 5, row 2; `ORC-OJD5YQPWJA` |  |
+| 443 | Liquid1 -> bcc(Li) + liquid2 | Liquid1: Na 0.034; liquid2: Na 0.8787 | experimental | [1] Zhang 2003; _cites Kandan 1968_ | Table 4, p. 5, row 3; `ORC-VL4WMBXJW6` |  |
+| 366.5 | Liquid2 -> bcc(Li) + bcc(Na) | Liquid2: Na 0.963 | experimental | [1] Zhang 2003; _cites Salmon 1956_ [doi](https://doi.org/10.1021/j150535a004) | Table 4, p. 5, row 7; `ORC-ZC7ZEFC7ZD` |  |
+| 365.4 | Liquid2 -> bcc(Li) + bcc(Na) | Liquid2: Na 0.963 | experimental | [1] Zhang 2003; _cites Howland 1957_ | Table 4, p. 5, row 8; `ORC-QF7TPI7CRQ` |  |
+| 365.3 | Liquid2 -> bcc(Li) + bcc(Na) | Liquid2: Na 0.97 | experimental | [1] Zhang 2003; _cites Down 1975_ [doi](https://doi.org/10.1039/dt9750001490) | Table 4, p. 5, row 6; `ORC-KRGHTVGVR5` |  |
+| 360.2 | Liquid2 -> bcc(Li) + bcc(Na) | Liquid2: Na 0.965; bcc(Li): Na 0.005; bcc(Na): Na 0.995 | model | [1] Zhang 2003 | Table 4, p. 5, row 5; `ORC-UKE57ZGPTX` |  |
 
 ## Sources
 
@@ -125,4 +125,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

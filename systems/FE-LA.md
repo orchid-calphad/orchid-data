@@ -55,8 +55,8 @@ Table: Invariant reactions reported in the literature for the Fe–La system (2)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2077 | eutectic |  | model | [1] Povoden-Karadeniz 2009 | p. 12 | “The calculated eutectic at the LaO1.5-rich side changes from T = 2055 K and 32.0 cat.% Fe in air (Fig. 10b) to 2077 K and 30.9 cat.% in pure oxygen; for the eutectic at the Fe-rich side T = 1704 K and 88.8 cat.% Fe in pure oxygen, and 1701 K and 88.5 cat.% Fe in air are calculated.” |
-| 2055 | eutectic |  | model | [1] Povoden-Karadeniz 2009 | p. 12 | “The calculated eutectic at the LaO1.5-rich side changes from T = 2055 K and 32.0 cat.% Fe in air (Fig. 10b) to 2077 K and 30.9 cat.% in pure oxygen; for the eutectic at the Fe-rich side T = 1704 K and 88.8 cat.% Fe in pure oxygen, and 1701 K and 88.5 cat.% Fe in air are calculated.” |
+| 2077 | eutectic |  | model | [1] Povoden-Karadeniz 2009 | p. 12; `ORC-SJF23RYVTG.b615fb` | “The calculated eutectic at the LaO1.5-rich side changes from T = 2055 K and 32.0 cat.% Fe in air (Fig. 10b) to 2077 K and 30.9 cat.% in pure oxygen; for the eutectic at the Fe-rich side T = 1704 K and 88.8 cat.% Fe in pure oxygen, and 1701 K and 88.5 cat.% Fe in air are calculated.” |
+| 2055 | eutectic |  | model | [1] Povoden-Karadeniz 2009 | p. 12; `ORC-SJF23RYVTG.e933ba` | “The calculated eutectic at the LaO1.5-rich side changes from T = 2055 K and 32.0 cat.% Fe in air (Fig. 10b) to 2077 K and 30.9 cat.% in pure oxygen; for the eutectic at the Fe-rich side T = 1704 K and 88.8 cat.% Fe in pure oxygen, and 1701 K and 88.5 cat.% Fe in air are calculated.” |
 
 ## Other properties
 
@@ -66,9 +66,9 @@ Table: Phase transition, Fe–La system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 740 K | 740 | magnetic | model | [1] Povoden-Karadeniz 2009 | p. 9 | “A peak with broad shoulders calculated to be present at 740 K is caused by a magnetic order-disorder transition.\[25\]” |
-| Phase transition | 2136 K | 2136 |  | model | [1] Povoden-Karadeniz 2009 | p. 12 | “r-La1±xFe1±yO3d melts at 2176 K at pO2 1⁄4 105 Pa; 2136 K is calculated in air.” |
-| Phase transition | 2176 K | 2176 |  | model | [1] Povoden-Karadeniz 2009 | p. 12 | “r-La1±xFe1±yO3d melts at 2176 K at pO2 1⁄4 105 Pa; 2136 K is calculated in air.” |
+| Phase transition | 740 K | 740 | magnetic | model | [1] Povoden-Karadeniz 2009 | p. 9; `ORC-CLOF3Y7RCZ` | “A peak with broad shoulders calculated to be present at 740 K is caused by a magnetic order-disorder transition.\[25\]” |
+| Phase transition | 2136 K | 2136 |  | model | [1] Povoden-Karadeniz 2009 | p. 12; `ORC-2NWF5ODITT.107107` | “r-La1±xFe1±yO3d melts at 2176 K at pO2 1⁄4 105 Pa; 2136 K is calculated in air.” |
+| Phase transition | 2176 K | 2176 |  | model | [1] Povoden-Karadeniz 2009 | p. 12; `ORC-2NWF5ODITT.2e5f08` | “r-La1±xFe1±yO3d melts at 2176 K at pO2 1⁄4 105 Pa; 2136 K is calculated in air.” |
 
 ## Sources
 
@@ -133,4 +133,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

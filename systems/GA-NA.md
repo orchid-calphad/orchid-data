@@ -51,14 +51,14 @@ Table: Invariant reactions reported in the literature for the Ga–Na system (8)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 797.15 | monotectic: Liquid1 -> Liquid2 + Ga39Na22 | Liquid1: Na 0.611; Liquid2: Na 0.918; Ga39Na22: Na 0.361 | model | [1] Wang 2007 | Table 2, p. 4, row 5 |  |
-| 792.15 | monotectic: Liquid1 -> Liquid2 + Ga39Na22 | Liquid1: Na 0.6; Liquid2: Na 0.893; Ga39Na22: Na 0.361 | experimental | [1] Wang 2007; _cites Sh 1980_ | Table 2, p. 4, row 6 |  |
-| 777.15 | peritectic: NaGa4 -> Liquid + Ga39Na22 | NaGa4: Na 0.2; Liquid: Na 0.176; Ga39Na22: Na 0.361 | model | [1] Wang 2007 | Table 2, p. 4, row 3 |  |
-| 772.15 | eutectic: Liquid -> Ga4Na + Ga39Na22 | Liquid: Na 0.205; Ga4Na: Na 0.2; Ga39Na22: Na 0.361 | experimental | [1] Wang 2007; _cites Feschotte 1956_ | Table 2, p. 4, row 4 |  |
-| 370.95 | eutectic: Liquid -> Na + Ga39Na22 | Liquid: Na 1; Na: Na 1; Ga39Na22: Na 0.361 | experimental | [1] Wang 2007; _cites Rinck 1960_ | Table 2, p. 4, row 8 |  |
-| 370.95 | eutectic: Liquid -> Na + Ga39Na22 | Liquid: Na 1; Na: Na 1; Ga39Na22: Na 0.361 | model | [1] Wang 2007 | Table 2, p. 4, row 7 |  |
-| 302.95 | eutectic: Liquid -> Ga + Ga4Na | Liquid: Na 0; Ga: Na 0; Ga4Na: Na 0.2 | model | [1] Wang 2007 | Table 2, p. 4, row 1 |  |
-| 302.95 | eutectic: Liquid -> Ga + Ga4Na | Liquid: Na 3.000e-5; Ga: Na 0; Ga4Na: Na 0.2 | experimental | [1] Wang 2007; _cites Gilfillian 1934_ | Table 2, p. 4, row 2 |  |
+| 797.15 | monotectic: Liquid1 -> Liquid2 + Ga39Na22 | Liquid1: Na 0.611; Liquid2: Na 0.918; Ga39Na22: Na 0.361 | model | [1] Wang 2007 | Table 2, p. 4, row 5; `ORC-KQFKNSKK76` |  |
+| 792.15 | monotectic: Liquid1 -> Liquid2 + Ga39Na22 | Liquid1: Na 0.6; Liquid2: Na 0.893; Ga39Na22: Na 0.361 | experimental | [1] Wang 2007; _cites Sh 1980_ | Table 2, p. 4, row 6; `ORC-GOSRTJYDWP` |  |
+| 777.15 | peritectic: NaGa4 -> Liquid + Ga39Na22 | NaGa4: Na 0.2; Liquid: Na 0.176; Ga39Na22: Na 0.361 | model | [1] Wang 2007 | Table 2, p. 4, row 3; `ORC-TB53UR6WMP` |  |
+| 772.15 | eutectic: Liquid -> Ga4Na + Ga39Na22 | Liquid: Na 0.205; Ga4Na: Na 0.2; Ga39Na22: Na 0.361 | experimental | [1] Wang 2007; _cites Feschotte 1956_ | Table 2, p. 4, row 4; `ORC-RISBBMOJI3` |  |
+| 370.95 | eutectic: Liquid -> Na + Ga39Na22 | Liquid: Na 1; Na: Na 1; Ga39Na22: Na 0.361 | experimental | [1] Wang 2007; _cites Rinck 1960_ | Table 2, p. 4, row 8; `ORC-AJN6I2EN4A` |  |
+| 370.95 | eutectic: Liquid -> Na + Ga39Na22 | Liquid: Na 1; Na: Na 1; Ga39Na22: Na 0.361 | model | [1] Wang 2007 | Table 2, p. 4, row 7; `ORC-XPSZTVBYVH` |  |
+| 302.95 | eutectic: Liquid -> Ga + Ga4Na | Liquid: Na 0; Ga: Na 0; Ga4Na: Na 0.2 | model | [1] Wang 2007 | Table 2, p. 4, row 1; `ORC-7C2DJGDHUF` |  |
+| 302.95 | eutectic: Liquid -> Ga + Ga4Na | Liquid: Na 3.000e-5; Ga: Na 0; Ga4Na: Na 0.2 | experimental | [1] Wang 2007; _cites Gilfillian 1934_ | Table 2, p. 4, row 2; `ORC-YIL6WT4WIF` |  |
 
 ## Formation enthalpies
 
@@ -68,12 +68,12 @@ Table: Enthalpies of formation, Ga–Na system (6)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Ga39Na22 |  | -25.5 kJ/mol-atom | 723.15 | model |  |  | [1] Wang 2007 | Table 3, p. 4, row 4 |  |
-| Ga39Na22 |  | -23.5 kJ/mol-atom | 723.15 | experimental |  |  | [1] Wang 2007; _cites Zabdyr 1988_ [doi](https://doi.org/10.1007/bf00810084) | Table 3, p. 4, row 6 |  |
-| Ga39Na22 |  | -21.5 kJ/mol-atom | 723.15 | experimental |  |  | [1] Wang 2007; _cites Gambino 1973_ [doi](https://doi.org/10.1016/0040-6031%2873%2980012-7) | Table 3, p. 4, row 5 |  |
-| Ga4Na | [Ga4Na](https://data.orchid-project.org/compounds/Ga4Na.html) | -20.9 kJ/mol-atom | 723.15 | experimental | -13.759 (mp-aaaaaarm) | -15.938 (oqmd-17259) | [1] Wang 2007; _cites Zabdyr 1983_ | Table 3, p. 4, row 3 |  |
-| Ga4Na | [Ga4Na](https://data.orchid-project.org/compounds/Ga4Na.html) | -20.1 kJ/mol-atom | 723.15 | model | -13.759 (mp-aaaaaarm) | -15.938 (oqmd-17259) | [1] Wang 2007 | Table 3, p. 4, row 1 |  |
-| Ga4Na | [Ga4Na](https://data.orchid-project.org/compounds/Ga4Na.html) | -17.5 kJ/mol-atom | 723.15 | experimental | -13.759 (mp-aaaaaarm) | -15.938 (oqmd-17259) | [1] Wang 2007; _cites Gambino 1973_ [doi](https://doi.org/10.1016/0040-6031%2873%2980012-7) | Table 3, p. 4, row 2 |  |
+| Ga39Na22 |  | -25.5 kJ/mol-atom | 723.15 | model |  |  | [1] Wang 2007 | Table 3, p. 4, row 4; `ORC-TRYHLS5GCA` |  |
+| Ga39Na22 |  | -23.5 kJ/mol-atom | 723.15 | experimental |  |  | [1] Wang 2007; _cites Zabdyr 1988_ [doi](https://doi.org/10.1007/bf00810084) | Table 3, p. 4, row 6; `ORC-XQIEXY7QVP` |  |
+| Ga39Na22 |  | -21.5 kJ/mol-atom | 723.15 | experimental |  |  | [1] Wang 2007; _cites Gambino 1973_ [doi](https://doi.org/10.1016/0040-6031%2873%2980012-7) | Table 3, p. 4, row 5; `ORC-7YELHMIVKH` |  |
+| Ga4Na | [Ga4Na](https://data.orchid-project.org/compounds/Ga4Na.html) | -20.9 kJ/mol-atom | 723.15 | experimental | -13.759 (mp-aaaaaarm) | -15.938 (oqmd-17259) | [1] Wang 2007; _cites Zabdyr 1983_ | Table 3, p. 4, row 3; `ORC-Y34BOBJS6V` |  |
+| Ga4Na | [Ga4Na](https://data.orchid-project.org/compounds/Ga4Na.html) | -20.1 kJ/mol-atom | 723.15 | model | -13.759 (mp-aaaaaarm) | -15.938 (oqmd-17259) | [1] Wang 2007 | Table 3, p. 4, row 1; `ORC-LQ262OVHFT` |  |
+| Ga4Na | [Ga4Na](https://data.orchid-project.org/compounds/Ga4Na.html) | -17.5 kJ/mol-atom | 723.15 | experimental | -13.759 (mp-aaaaaarm) | -15.938 (oqmd-17259) | [1] Wang 2007; _cites Gambino 1973_ [doi](https://doi.org/10.1016/0040-6031%2873%2980012-7) | Table 3, p. 4, row 2; `ORC-F74IJA5WHO` |  |
 
 ## Sources
 
@@ -138,4 +138,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

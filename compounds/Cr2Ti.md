@@ -14,11 +14,11 @@ Table: Enthalpy of formation of Cr2Ti reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -10 kJ/mol (basis unstated) | α-Cr0.667Ti0.333 | 298.15 | model | semi-empirical model | [Cr–Ti](https://data.orchid-project.org/systems/CR-TI.html) | [1] Ghosh 2002; _cites F 1988_ | Table 2, p. 6, row 1 |  |
-| -9.856 kJ/mol (basis unstated) | α-Cr0.667Ti0.333 | 298.15 | model | phase diagram modeling | [Cr–Ti](https://data.orchid-project.org/systems/CR-TI.html) | [1] Ghosh 2002 | Table 2, p. 6, row 5 |  |
-| -6.835 kJ/mol (basis unstated) | α-Cr0.667Ti0.333 | 298.15 | model | phase diagram modeling | [Cr–Ti](https://data.orchid-project.org/systems/CR-TI.html) | [1] Ghosh 2002; _cites Lee 1999_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900144-9) | Table 2, p. 6, row 3 |  |
-| -6.754 kJ/mol (basis unstated) | α-Cr0.667Ti0.333 | 298.15 | model | phase diagram modeling | [Cr–Ti](https://data.orchid-project.org/systems/CR-TI.html) | [1] Ghosh 2002; _cites Zhuang 2002_ | Table 2, p. 6, row 4 |  |
-| -0.593 kJ/mol (basis unstated) | α-Cr0.667Ti0.333 | 298.15 | model | phase diagram modeling | [Cr–Ti](https://data.orchid-project.org/systems/CR-TI.html) | [1] Ghosh 2002; _cites Saunders 1994_ | Table 2, p. 6, row 2 |  |
+| -10 kJ/mol (basis unstated) | α-Cr0.667Ti0.333 | 298.15 | model | semi-empirical model | [Cr–Ti](https://data.orchid-project.org/systems/CR-TI.html) | [1] Ghosh 2002; _cites F 1988_ | Table 2, p. 6, row 1; `ORC-N6DV6D3KOL.0392f6` |  |
+| -9.856 kJ/mol (basis unstated) | α-Cr0.667Ti0.333 | 298.15 | model | phase diagram modeling | [Cr–Ti](https://data.orchid-project.org/systems/CR-TI.html) | [1] Ghosh 2002 | Table 2, p. 6, row 5; `ORC-FHRS433TMS.efa4b7` |  |
+| -6.835 kJ/mol (basis unstated) | α-Cr0.667Ti0.333 | 298.15 | model | phase diagram modeling | [Cr–Ti](https://data.orchid-project.org/systems/CR-TI.html) | [1] Ghosh 2002; _cites Lee 1999_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900144-9) | Table 2, p. 6, row 3; `ORC-5C2325SOPZ.ebba20` |  |
+| -6.754 kJ/mol (basis unstated) | α-Cr0.667Ti0.333 | 298.15 | model | phase diagram modeling | [Cr–Ti](https://data.orchid-project.org/systems/CR-TI.html) | [1] Ghosh 2002; _cites Zhuang 2002_ | Table 2, p. 6, row 4; `ORC-GTFN46XEJH.2f9735` |  |
+| -0.593 kJ/mol (basis unstated) | α-Cr0.667Ti0.333 | 298.15 | model | phase diagram modeling | [Cr–Ti](https://data.orchid-project.org/systems/CR-TI.html) | [1] Ghosh 2002; _cites Saunders 1994_ | Table 2, p. 6, row 2; `ORC-YSWMHPGTZG.1b84b3` |  |
 
 ### Uncertainty budget
 
@@ -85,4 +85,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

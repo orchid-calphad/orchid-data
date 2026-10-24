@@ -103,44 +103,44 @@ Table: Invariant reactions reported in the literature for the Fe–Tb system (38
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1667 | metatectic/catatectic: bcc(δ-Fe) ↔ fcc(γ-Fe) + L | L: Tb 0.12 | experimental | [1] Ye 2023; _cites ref. 94_ | Table 6, p. 12, row 1 |  |
-| 1666.9 | metatectic/catatectic: bcc(δ-Fe) ↔ fcc(γ-Fe) + L | L: Tb 0.05 | model | [1] Ye 2023 | Table 6, p. 12, row 4 |  |
-| 1665.1 | metatectic/catatectic: bcc(δ-Fe) ↔ fcc(γ-Fe) + L | L: Tb 0.08 | model | [1] Ye 2023; _cites ref. 104_ | Table 6, p. 12, row 2 |  |
-| 1664 | metatectic/catatectic: bcc(δ-Fe) ↔ fcc(γ-Fe) + L | L: Tb 0.1 | model | [1] Ye 2023; _cites ref. 27_ | Table 6, p. 12, row 3 |  |
-| 1585 | peritectic |  | experimental | [1] Ye 2023; _cites ref. 92_ | p. 4 | “Four Fe17Tb2, Fe23Tb6, Fe3Tb, and Fe2Tb intermetallic compounds are produced via the peritectic transformation at 1,585 K, 1,549 K, 1,485 K, and 1,460 K, respectively, and Fe17Tb2 is produced at 1,589 K by the congruent melting.” |
-| 1579 | eutectic: L ↔ Fe17Tb2 + fcc(γ-Fe) | L: Tb 0.082 | model | [1] Ye 2023; _cites (cal_ | Table 6, p. 12, row 10 |  |
-| 1576 | eutectic: L ↔ Fe17Tb2 + fcc(γ-Fe) | L: Tb 0.075 | model | [1] Ye 2023; _cites ref. 27_ | Table 6, p. 12, row 11 |  |
-| 1575 | eutectic: L ↔ Fe17Tb2 + fcc(γ-Fe) | L: Tb 0.076 | model | [1] Ye 2023 | Table 6, p. 12, row 12 |  |
-| 1574 | eutectic: L ↔ Fe17Tb2+bcc-Fe |  | experimental | [1] Ye 2023; _cites ref. 95_ | p. 4 | “A eutectic reaction (L ↔ Fe17Tb2+bcc-Fe) takes place according to the DTA results\[95\] at 1,574 K.” |
-| 1574 | eutectic: L ↔ Fe17Tb2 + fcc(γ-Fe) | L: Tb 0.075 | experimental | [1] Ye 2023; _cites ref. 95_ | Table 6, p. 12, row 9 |  |
-| 1549 | eutectic: L ↔ Fe17Tb2 + Fe23Tb6 | L: Tb 0.216 | experimental | [1] Ye 2023; _cites ref. 92_ | Table 6, p. 12, row 17 |  |
-| 1549 | peritectic |  | experimental | [1] Ye 2023; _cites ref. 92_ | p. 4 | “Four Fe17Tb2, Fe23Tb6, Fe3Tb, and Fe2Tb intermetallic compounds are produced via the peritectic transformation at 1,585 K, 1,549 K, 1,485 K, and 1,460 K, respectively, and Fe17Tb2 is produced at 1,589 K by the congruent melting.” |
-| 1547 | eutectic: L ↔ Fe17Tb2 + Fe23Tb6 |  | experimental | [1] Ye 2023; _cites ref. 95_ | Table 6, p. 12, row 18 |  |
-| 1546.5 | eutectic: L ↔ Fe17Tb2 + Fe23Tb6 | L: Tb 0.167 | model | [1] Ye 2023 | Table 6, p. 12, row 22 |  |
-| 1546 | eutectic: L ↔ Fe17Tb2 + Fe23Tb6 | L: Tb 0.208 | model | [1] Ye 2023; _cites ref. 27_ | Table 6, p. 12, row 21 |  |
-| 1546 | eutectic: L ↔ Fe17Tb2 + Fe23Tb6 | L: Tb 0.19 | model | [1] Ye 2023; _cites (cal_ | Table 6, p. 12, row 20 |  |
-| 1542.7 | eutectic: L ↔ Fe17Tb2 + Fe23Tb6 | L: Tb 0.212 | model | [1] Ye 2023; _cites ref. 104_ | Table 6, p. 12, row 19 |  |
-| 1486 | peritectic: L+ Fe23Tb6 ↔ Fe3Tb | L: Tb 0.319 | model | [1] Ye 2023 | Table 6, p. 12, row 29 |  |
-| 1485 | peritectic: L+ Fe23Tb6 ↔ Fe3Tb | L: Tb 0.34 | model | [1] Ye 2023; _cites ref. 27_ | Table 6, p. 12, row 28 |  |
-| 1485 | peritectic: L+ Fe23Tb6 ↔ Fe3Tb | L: Tb 0.349 | experimental | [1] Ye 2023; _cites ref. 92_ | Table 6, p. 12, row 25 |  |
-| 1485 | peritectic |  | experimental | [1] Ye 2023; _cites ref. 92_ | p. 4 | “Four Fe17Tb2, Fe23Tb6, Fe3Tb, and Fe2Tb intermetallic compounds are produced via the peritectic transformation at 1,585 K, 1,549 K, 1,485 K, and 1,460 K, respectively, and Fe17Tb2 is produced at 1,589 K by the congruent melting.” |
-| 1481 | peritectic: L+ Fe23Tb6 ↔ Fe3Tb | L: Tb 0.388 | model | [1] Ye 2023; _cites (cal_ | Table 6, p. 12, row 27 |  |
-| 1473.1 | peritectic: L+ Fe23Tb6 ↔ Fe3Tb | L: Tb 0.361 | model | [1] Ye 2023; _cites ref. 104_ | Table 6, p. 12, row 26 |  |
-| 1462.7 | peritectic: L + Fe3Tb ↔ Fe2Tb | L: Tb 0.348 | model | [1] Ye 2023 | Table 6, p. 12, row 34 |  |
-| 1460 | peritectic: L + Fe3Tb ↔ Fe2Tb | L: Tb 0.405 | model | [1] Ye 2023; _cites ref. 27_ | Table 6, p. 12, row 33 |  |
-| 1460 | peritectic: L + Fe3Tb ↔ Fe2Tb | L: Tb 0.412 | experimental | [1] Ye 2023; _cites ref. 92_ | Table 6, p. 12, row 30 |  |
-| 1460 | peritectic |  | experimental | [1] Ye 2023; _cites ref. 92_ | p. 4 | “Four Fe17Tb2, Fe23Tb6, Fe3Tb, and Fe2Tb intermetallic compounds are produced via the peritectic transformation at 1,585 K, 1,549 K, 1,485 K, and 1,460 K, respectively, and Fe17Tb2 is produced at 1,589 K by the congruent melting.” |
-| 1459 | peritectic: L + Fe3Tb ↔ Fe2Tb | L: Tb 0.424 | model | [1] Ye 2023; _cites (cal_ | Table 6, p. 12, row 32 |  |
-| 1456.6 | peritectic: L + Fe3Tb ↔ Fe2Tb | L: Tb 0.403 | model | [1] Ye 2023; _cites ref. 104_ | Table 6, p. 12, row 31 |  |
-| 1185 | peritectoid: Fe17Tb2 + fcc(γ-Fe) ↔ bcc(α-Fe) |  | model | [1] Ye 2023; _cites ref. 27_ | Table 6, p. 12, row 7 |  |
-| 1185 | peritectoid: Fe17Tb2 + fcc(γ-Fe) ↔ bcc(α-Fe) |  | experimental | [1] Ye 2023; _cites ref. 94_ | Table 6, p. 12, row 5 |  |
-| 1184.8 | peritectoid: Fe17Tb2 + fcc(γ-Fe) ↔ bcc(α-Fe) |  | model | [1] Ye 2023; _cites ref. 104_ | Table 6, p. 12, row 6 |  |
-| 1184.8 | peritectoid: Fe17Tb2 + fcc(γ-Fe) ↔ bcc(α-Fe) |  | model | [1] Ye 2023 | Table 6, p. 12, row 8 |  |
-| 1123 | eutectic: L ↔ Fe2Tb + hcp-Tb | L: Tb 0.687 | model | [1] Ye 2023; _cites ref. 104_ | Table 6, p. 12, row 36 |  |
-| 1122 | eutectic: L ↔ Fe2Tb + hcp-Tb | L: Tb 0.7 | model | [1] Ye 2023; _cites (cal_ | Table 6, p. 12, row 37 |  |
-| 1120 | eutectic: L ↔ Fe2Tb + hcp-Tb | L: Tb 0.69 | model | [1] Ye 2023; _cites ref. 27_ | Table 6, p. 12, row 38 |  |
-| 1120 | eutectic: L ↔ Fe2Tb + hcp-Tb | L: Tb 0.72 | experimental | [1] Ye 2023; _cites ref. 92_ | Table 6, p. 12, row 35 |  |
-| 1117.1 | eutectic: L ↔ Fe2Tb + hcp-Tb | L: Tb 0.675 | model | [1] Ye 2023 | Table 6, p. 12, row 39 |  |
+| 1667 | metatectic/catatectic: bcc(δ-Fe) ↔ fcc(γ-Fe) + L | L: Tb 0.12 | experimental | [1] Ye 2023; _cites ref. 94_ | Table 6, p. 12, row 1; `ORC-YX4H2ARUE6` |  |
+| 1666.9 | metatectic/catatectic: bcc(δ-Fe) ↔ fcc(γ-Fe) + L | L: Tb 0.05 | model | [1] Ye 2023 | Table 6, p. 12, row 4; `ORC-TGTXGJD7L4` |  |
+| 1665.1 | metatectic/catatectic: bcc(δ-Fe) ↔ fcc(γ-Fe) + L | L: Tb 0.08 | model | [1] Ye 2023; _cites ref. 104_ | Table 6, p. 12, row 2; `ORC-RKQT2Q6UYO` |  |
+| 1664 | metatectic/catatectic: bcc(δ-Fe) ↔ fcc(γ-Fe) + L | L: Tb 0.1 | model | [1] Ye 2023; _cites ref. 27_ | Table 6, p. 12, row 3; `ORC-NVGDGQVHNQ` |  |
+| 1585 | peritectic |  | experimental | [1] Ye 2023; _cites ref. 92_ | p. 4; `ORC-YN4F7STSU6.8e4866` | “Four Fe17Tb2, Fe23Tb6, Fe3Tb, and Fe2Tb intermetallic compounds are produced via the peritectic transformation at 1,585 K, 1,549 K, 1,485 K, and 1,460 K, respectively, and Fe17Tb2 is produced at 1,589 K by the congruent melting.” |
+| 1579 | eutectic: L ↔ Fe17Tb2 + fcc(γ-Fe) | L: Tb 0.082 | model | [1] Ye 2023; _cites (cal_ | Table 6, p. 12, row 10; `ORC-42RSUC7NNW` |  |
+| 1576 | eutectic: L ↔ Fe17Tb2 + fcc(γ-Fe) | L: Tb 0.075 | model | [1] Ye 2023; _cites ref. 27_ | Table 6, p. 12, row 11; `ORC-D65GU5AZFF` |  |
+| 1575 | eutectic: L ↔ Fe17Tb2 + fcc(γ-Fe) | L: Tb 0.076 | model | [1] Ye 2023 | Table 6, p. 12, row 12; `ORC-FMNVMD7FAM` |  |
+| 1574 | eutectic: L ↔ Fe17Tb2+bcc-Fe |  | experimental | [1] Ye 2023; _cites ref. 95_ | p. 4; `ORC-GEBR6T7Q5F` | “A eutectic reaction (L ↔ Fe17Tb2+bcc-Fe) takes place according to the DTA results\[95\] at 1,574 K.” |
+| 1574 | eutectic: L ↔ Fe17Tb2 + fcc(γ-Fe) | L: Tb 0.075 | experimental | [1] Ye 2023; _cites ref. 95_ | Table 6, p. 12, row 9; `ORC-KR66SEFHD6` |  |
+| 1549 | eutectic: L ↔ Fe17Tb2 + Fe23Tb6 | L: Tb 0.216 | experimental | [1] Ye 2023; _cites ref. 92_ | Table 6, p. 12, row 17; `ORC-OHOFG2RFJ7` |  |
+| 1549 | peritectic |  | experimental | [1] Ye 2023; _cites ref. 92_ | p. 4; `ORC-YN4F7STSU6.59be51` | “Four Fe17Tb2, Fe23Tb6, Fe3Tb, and Fe2Tb intermetallic compounds are produced via the peritectic transformation at 1,585 K, 1,549 K, 1,485 K, and 1,460 K, respectively, and Fe17Tb2 is produced at 1,589 K by the congruent melting.” |
+| 1547 | eutectic: L ↔ Fe17Tb2 + Fe23Tb6 |  | experimental | [1] Ye 2023; _cites ref. 95_ | Table 6, p. 12, row 18; `ORC-FRQGNXSGNE` |  |
+| 1546.5 | eutectic: L ↔ Fe17Tb2 + Fe23Tb6 | L: Tb 0.167 | model | [1] Ye 2023 | Table 6, p. 12, row 22; `ORC-STMQWBI4C2` |  |
+| 1546 | eutectic: L ↔ Fe17Tb2 + Fe23Tb6 | L: Tb 0.208 | model | [1] Ye 2023; _cites ref. 27_ | Table 6, p. 12, row 21; `ORC-4SIMJDA6FA` |  |
+| 1546 | eutectic: L ↔ Fe17Tb2 + Fe23Tb6 | L: Tb 0.19 | model | [1] Ye 2023; _cites (cal_ | Table 6, p. 12, row 20; `ORC-SC6W2XS4WX` |  |
+| 1542.7 | eutectic: L ↔ Fe17Tb2 + Fe23Tb6 | L: Tb 0.212 | model | [1] Ye 2023; _cites ref. 104_ | Table 6, p. 12, row 19; `ORC-FBC6EJRNX2` |  |
+| 1486 | peritectic: L+ Fe23Tb6 ↔ Fe3Tb | L: Tb 0.319 | model | [1] Ye 2023 | Table 6, p. 12, row 29; `ORC-XJC42MXJVZ` |  |
+| 1485 | peritectic: L+ Fe23Tb6 ↔ Fe3Tb | L: Tb 0.34 | model | [1] Ye 2023; _cites ref. 27_ | Table 6, p. 12, row 28; `ORC-EC3MD4TQFG` |  |
+| 1485 | peritectic: L+ Fe23Tb6 ↔ Fe3Tb | L: Tb 0.349 | experimental | [1] Ye 2023; _cites ref. 92_ | Table 6, p. 12, row 25; `ORC-QGNOM7KFUK` |  |
+| 1485 | peritectic |  | experimental | [1] Ye 2023; _cites ref. 92_ | p. 4; `ORC-YN4F7STSU6.64d299` | “Four Fe17Tb2, Fe23Tb6, Fe3Tb, and Fe2Tb intermetallic compounds are produced via the peritectic transformation at 1,585 K, 1,549 K, 1,485 K, and 1,460 K, respectively, and Fe17Tb2 is produced at 1,589 K by the congruent melting.” |
+| 1481 | peritectic: L+ Fe23Tb6 ↔ Fe3Tb | L: Tb 0.388 | model | [1] Ye 2023; _cites (cal_ | Table 6, p. 12, row 27; `ORC-CY6VHTPQLX` |  |
+| 1473.1 | peritectic: L+ Fe23Tb6 ↔ Fe3Tb | L: Tb 0.361 | model | [1] Ye 2023; _cites ref. 104_ | Table 6, p. 12, row 26; `ORC-IJNIDDVFSE` |  |
+| 1462.7 | peritectic: L + Fe3Tb ↔ Fe2Tb | L: Tb 0.348 | model | [1] Ye 2023 | Table 6, p. 12, row 34; `ORC-HLSSDPVIA2` |  |
+| 1460 | peritectic: L + Fe3Tb ↔ Fe2Tb | L: Tb 0.405 | model | [1] Ye 2023; _cites ref. 27_ | Table 6, p. 12, row 33; `ORC-BANTTW3XB6` |  |
+| 1460 | peritectic: L + Fe3Tb ↔ Fe2Tb | L: Tb 0.412 | experimental | [1] Ye 2023; _cites ref. 92_ | Table 6, p. 12, row 30; `ORC-FXVXVSRM7Q` |  |
+| 1460 | peritectic |  | experimental | [1] Ye 2023; _cites ref. 92_ | p. 4; `ORC-YN4F7STSU6.b3175c` | “Four Fe17Tb2, Fe23Tb6, Fe3Tb, and Fe2Tb intermetallic compounds are produced via the peritectic transformation at 1,585 K, 1,549 K, 1,485 K, and 1,460 K, respectively, and Fe17Tb2 is produced at 1,589 K by the congruent melting.” |
+| 1459 | peritectic: L + Fe3Tb ↔ Fe2Tb | L: Tb 0.424 | model | [1] Ye 2023; _cites (cal_ | Table 6, p. 12, row 32; `ORC-VFGYBZGZNH` |  |
+| 1456.6 | peritectic: L + Fe3Tb ↔ Fe2Tb | L: Tb 0.403 | model | [1] Ye 2023; _cites ref. 104_ | Table 6, p. 12, row 31; `ORC-JYX56J2JUN` |  |
+| 1185 | peritectoid: Fe17Tb2 + fcc(γ-Fe) ↔ bcc(α-Fe) |  | model | [1] Ye 2023; _cites ref. 27_ | Table 6, p. 12, row 7; `ORC-AKWIY76VRI` |  |
+| 1185 | peritectoid: Fe17Tb2 + fcc(γ-Fe) ↔ bcc(α-Fe) |  | experimental | [1] Ye 2023; _cites ref. 94_ | Table 6, p. 12, row 5; `ORC-UHJKB3DL4H` |  |
+| 1184.8 | peritectoid: Fe17Tb2 + fcc(γ-Fe) ↔ bcc(α-Fe) |  | model | [1] Ye 2023; _cites ref. 104_ | Table 6, p. 12, row 6; `ORC-B24BVQPU4Z` |  |
+| 1184.8 | peritectoid: Fe17Tb2 + fcc(γ-Fe) ↔ bcc(α-Fe) |  | model | [1] Ye 2023 | Table 6, p. 12, row 8; `ORC-XWV45V2VEP` |  |
+| 1123 | eutectic: L ↔ Fe2Tb + hcp-Tb | L: Tb 0.687 | model | [1] Ye 2023; _cites ref. 104_ | Table 6, p. 12, row 36; `ORC-TKVHWPSQJY` |  |
+| 1122 | eutectic: L ↔ Fe2Tb + hcp-Tb | L: Tb 0.7 | model | [1] Ye 2023; _cites (cal_ | Table 6, p. 12, row 37; `ORC-WKIYJT5YCR` |  |
+| 1120 | eutectic: L ↔ Fe2Tb + hcp-Tb | L: Tb 0.69 | model | [1] Ye 2023; _cites ref. 27_ | Table 6, p. 12, row 38; `ORC-4VGJDHA7IA` |  |
+| 1120 | eutectic: L ↔ Fe2Tb + hcp-Tb | L: Tb 0.72 | experimental | [1] Ye 2023; _cites ref. 92_ | Table 6, p. 12, row 35; `ORC-YZCJUECTBF` |  |
+| 1117.1 | eutectic: L ↔ Fe2Tb + hcp-Tb | L: Tb 0.675 | model | [1] Ye 2023 | Table 6, p. 12, row 39; `ORC-NQ7ZNMANOJ` |  |
 
 ## Other properties
 
@@ -150,13 +150,13 @@ Table: Phase transition, Fe–Tb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1547 K | 1547 | congruent melting: L ↔ Fe23Tb6; _L: Tb 0.207_ | model | [1] Ye 2023; _cites (cal_ | Table 6, p. 12, row 23 |  |
-| Phase transition | 1561.1 K | 1561.1 | congruent melting: L ↔ Fe23Tb6; _L: Tb 0.207_ | model | [1] Ye 2023 | Table 6, p. 12, row 24 |  |
-| Phase transition | 1585 K | 1585 | congruent melting: L ↔ Fe17Tb2; _L: Tb 0.105_ | model | [1] Ye 2023; _cites (cal_ | Table 6, p. 12, row 14 |  |
-| Phase transition | 1586 K | 1586 | congruent melting: L ↔ Fe17Tb2; _L: Tb 0.105_ | model | [1] Ye 2023; _cites ref. 27_ | Table 6, p. 12, row 15 |  |
-| Phase transition | 1587.5 K | 1587.5 | congruent melting: L ↔ Fe17Tb2; _L: Tb 0.105_ | model | [1] Ye 2023 | Table 6, p. 12, row 16 |  |
-| Phase transition | 1589 K | 1589 | congruent melting: L ↔ Fe17Tb2; _L: Tb 0.105_ | experimental | [1] Ye 2023; _cites ref. 95_ | Table 6, p. 12, row 13 |  |
-| Phase transition | 1589 K | 1589 | congruent transformation | experimental | [1] Ye 2023; _cites ref. 92_ | p. 4 | “Four Fe17Tb2, Fe23Tb6, Fe3Tb, and Fe2Tb intermetallic compounds are produced via the peritectic transformation at 1,585 K, 1,549 K, 1,485 K, and 1,460 K, respectively, and Fe17Tb2 is produced at 1,589 K by the congruent melting.” |
+| Phase transition | 1547 K | 1547 | congruent melting: L ↔ Fe23Tb6; _L: Tb 0.207_ | model | [1] Ye 2023; _cites (cal_ | Table 6, p. 12, row 23; `ORC-EO7VEMVE6V` |  |
+| Phase transition | 1561.1 K | 1561.1 | congruent melting: L ↔ Fe23Tb6; _L: Tb 0.207_ | model | [1] Ye 2023 | Table 6, p. 12, row 24; `ORC-RGMRBL4SYI` |  |
+| Phase transition | 1585 K | 1585 | congruent melting: L ↔ Fe17Tb2; _L: Tb 0.105_ | model | [1] Ye 2023; _cites (cal_ | Table 6, p. 12, row 14; `ORC-3XK6RW72OR` |  |
+| Phase transition | 1586 K | 1586 | congruent melting: L ↔ Fe17Tb2; _L: Tb 0.105_ | model | [1] Ye 2023; _cites ref. 27_ | Table 6, p. 12, row 15; `ORC-QHO75K4UTL` |  |
+| Phase transition | 1587.5 K | 1587.5 | congruent melting: L ↔ Fe17Tb2; _L: Tb 0.105_ | model | [1] Ye 2023 | Table 6, p. 12, row 16; `ORC-3XTNLITGMQ` |  |
+| Phase transition | 1589 K | 1589 | congruent melting: L ↔ Fe17Tb2; _L: Tb 0.105_ | experimental | [1] Ye 2023; _cites ref. 95_ | Table 6, p. 12, row 13; `ORC-UXBFTCNZZU` |  |
+| Phase transition | 1589 K | 1589 | congruent transformation | experimental | [1] Ye 2023; _cites ref. 92_ | p. 4; `ORC-YN4F7STSU6.0f8161` | “Four Fe17Tb2, Fe23Tb6, Fe3Tb, and Fe2Tb intermetallic compounds are produced via the peritectic transformation at 1,585 K, 1,549 K, 1,485 K, and 1,460 K, respectively, and Fe17Tb2 is produced at 1,589 K by the congruent melting.” |
 
 ## Sources
 
@@ -221,4 +221,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

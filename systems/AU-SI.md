@@ -59,11 +59,11 @@ Table: Invariant reactions reported in the literature for the Au–Si system (5)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 643 | eutectic |  | experimental | [1] Chevalier 1989; _cites Heath 1961_ | p. 6 | “The eutectic point has been located at x&k-'= 0.17, T = 643 K \[22\], xi;) = O.l86,T= 643 K \[21\], x&k'= 0.195, T= 618 K \[23\], xi:) = 0.19, T= 636 K \[24\] and x$-j = 0.186, T = 636 K \[20\].” |
-| 636 | eutectic |  | model | [1] Chevalier 1989; _cites Okamoto 1983_ [doi](https://doi.org/10.1007/bf02884878) | p. 6 | “The eutectic point has been located at x&k-'= 0.17, T = 643 K \[22\], xi;) = O.l86,T= 643 K \[21\], x&k'= 0.195, T= 618 K \[23\], xi:) = 0.19, T= 636 K \[24\] and x$-j = 0.186, T = 636 K \[20\].” |
-| 636 | eutectic |  | experimental | [1] Chevalier 1989; _cites Anantatmula 1975_ [doi](https://doi.org/10.1007/bf02666229) | p. 6 | “The eutectic point has been located at x&k-'= 0.17, T = 643 K \[22\], xi;) = O.l86,T= 643 K \[21\], x&k'= 0.195, T= 618 K \[23\], xi:) = 0.19, T= 636 K \[24\] and x$-j = 0.186, T = 636 K \[20\].” |
-| 636 | eutectic |  | model | [2] Meng 2007; _cites Okamoto 1983_ [doi](https://doi.org/10.1007/bf02884878) | p. 1 | “Fortunately, Okamoto and Massalski \[19\] recommend the eutectic temperature of 636 ± 3 K which is accepted in the present optimization.” |
-| 618 | eutectic |  | experimental | [1] Chevalier 1989; _cites Predel 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990138-1) | p. 6 | “The eutectic point has been located at x&k-'= 0.17, T = 643 K \[22\], xi;) = O.l86,T= 643 K \[21\], x&k'= 0.195, T= 618 K \[23\], xi:) = 0.19, T= 636 K \[24\] and x$-j = 0.186, T = 636 K \[20\].” |
+| 643 | eutectic |  | experimental | [1] Chevalier 1989; _cites Heath 1961_ | p. 6; `ORC-3O7XNRY44M.06657b` | “The eutectic point has been located at x&k-'= 0.17, T = 643 K \[22\], xi;) = O.l86,T= 643 K \[21\], x&k'= 0.195, T= 618 K \[23\], xi:) = 0.19, T= 636 K \[24\] and x$-j = 0.186, T = 636 K \[20\].” |
+| 636 | eutectic |  | model | [1] Chevalier 1989; _cites Okamoto 1983_ [doi](https://doi.org/10.1007/bf02884878) | p. 6; `ORC-3O7XNRY44M.88ec21` | “The eutectic point has been located at x&k-'= 0.17, T = 643 K \[22\], xi;) = O.l86,T= 643 K \[21\], x&k'= 0.195, T= 618 K \[23\], xi:) = 0.19, T= 636 K \[24\] and x$-j = 0.186, T = 636 K \[20\].” |
+| 636 | eutectic |  | experimental | [1] Chevalier 1989; _cites Anantatmula 1975_ [doi](https://doi.org/10.1007/bf02666229) | p. 6; `ORC-3O7XNRY44M.91aeab` | “The eutectic point has been located at x&k-'= 0.17, T = 643 K \[22\], xi;) = O.l86,T= 643 K \[21\], x&k'= 0.195, T= 618 K \[23\], xi:) = 0.19, T= 636 K \[24\] and x$-j = 0.186, T = 636 K \[20\].” |
+| 636 | eutectic |  | model | [2] Meng 2007; _cites Okamoto 1983_ [doi](https://doi.org/10.1007/bf02884878) | p. 1; `ORC-VFYKLGME4X` | “Fortunately, Okamoto and Massalski \[19\] recommend the eutectic temperature of 636 ± 3 K which is accepted in the present optimization.” |
+| 618 | eutectic |  | experimental | [1] Chevalier 1989; _cites Predel 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990138-1) | p. 6; `ORC-3O7XNRY44M.9a555e` | “The eutectic point has been located at x&k-'= 0.17, T = 643 K \[22\], xi;) = O.l86,T= 643 K \[21\], x&k'= 0.195, T= 618 K \[23\], xi:) = 0.19, T= 636 K \[24\] and x$-j = 0.186, T = 636 K \[20\].” |
 
 ## Other properties
 
@@ -73,18 +73,18 @@ Table: Phase transition, Au–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 546.5 K | 546.5 | L → (Si) + ␨ + AuSn | experimental | [2] Meng 2007 | p. 2 | “For the partial system Au-Si-AuSn, three invariant reactions involving the liquid phase were detected: L + ␤ → (Au) + ␨ at 763 K, L + (Au) → (Si) + ␨ at 629.7 K and L → (Si) + ␨ + AuSn at 546.5 K.” |
-| Phase transition | 618 K | 618 | eutectic | experimental | [2] Meng 2007; _cites Predel 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990138-1) | Table 1, p. 2, row 8 |  |
-| Phase transition | 621 K | 621 | eutectic | experimental | [2] Meng 2007; _cites Castanet 1979_ | Table 1, p. 2, row 10 |  |
-| Phase transition | 623 K | 623 | eutectic | experimental | [2] Meng 2007; _cites Loskiewicz 1931_ | Table 1, p. 2, row 2 |  |
-| Phase transition | 629.7 K | 629.7 | L + (Au) → (Si) + ␨ | experimental | [2] Meng 2007 | p. 2 | “For the partial system Au-Si-AuSn, three invariant reactions involving the liquid phase were detected: L + ␤ → (Au) + ␨ at 763 K, L + (Au) → (Si) + ␨ at 629.7 K and L → (Si) + ␨ + AuSn at 546.5 K.” |
-| Phase transition | 636 K | 636 | eutectic | experimental | [2] Meng 2007; _cites Anantatmula 1975_ [doi](https://doi.org/10.1007/bf02666229) | Table 1, p. 2, row 7 |  |
-| Phase transition | 636 K | 636 | eutectic | experimental | [2] Meng 2007; _cites Chen 1967_ [doi](https://doi.org/10.1063/1.1710186) | Table 1, p. 2, row 4 |  |
-| Phase transition | 637 K | 637 | eutectic | experimental | [2] Meng 2007; _cites Legendre 1978_ | Table 1, p. 2, row 9 |  |
-| Phase transition | 642 K | 642 | eutectic | experimental | [2] Meng 2007; _cites Heath 1961_ [doi](https://doi.org/10.1080/00207216108961472) | Table 1, p. 2, row 3 |  |
-| Phase transition | 643 K | 643 | eutectic | experimental | [2] Meng 2007; _cites Dicapua 1920_ | Table 1, p. 2, row 1 |  |
-| Phase transition | 643 K | 643 | eutectic | experimental | [2] Meng 2007; _cites Gerlach 1967_ [doi](https://doi.org/10.1016/0038-1101%2867%2990140-2) | Table 1, p. 2, row 5 |  |
-| Phase transition | 763 K | 763 | L + ␤ → (Au) + ␨ | experimental | [2] Meng 2007 | p. 2 | “For the partial system Au-Si-AuSn, three invariant reactions involving the liquid phase were detected: L + ␤ → (Au) + ␨ at 763 K, L + (Au) → (Si) + ␨ at 629.7 K and L → (Si) + ␨ + AuSn at 546.5 K.” |
+| Phase transition | 546.5 K | 546.5 | L → (Si) + ␨ + AuSn | experimental | [2] Meng 2007 | p. 2; `ORC-SVP6BO56NF.e10054` | “For the partial system Au-Si-AuSn, three invariant reactions involving the liquid phase were detected: L + ␤ → (Au) + ␨ at 763 K, L + (Au) → (Si) + ␨ at 629.7 K and L → (Si) + ␨ + AuSn at 546.5 K.” |
+| Phase transition | 618 K | 618 | eutectic | experimental | [2] Meng 2007; _cites Predel 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990138-1) | Table 1, p. 2, row 8; `ORC-3LXTUM66AK` |  |
+| Phase transition | 621 K | 621 | eutectic | experimental | [2] Meng 2007; _cites Castanet 1979_ | Table 1, p. 2, row 10; `ORC-7EVXOD4JYA` |  |
+| Phase transition | 623 K | 623 | eutectic | experimental | [2] Meng 2007; _cites Loskiewicz 1931_ | Table 1, p. 2, row 2; `ORC-FAHESXWH4L` |  |
+| Phase transition | 629.7 K | 629.7 | L + (Au) → (Si) + ␨ | experimental | [2] Meng 2007 | p. 2; `ORC-SVP6BO56NF.4fd2c2` | “For the partial system Au-Si-AuSn, three invariant reactions involving the liquid phase were detected: L + ␤ → (Au) + ␨ at 763 K, L + (Au) → (Si) + ␨ at 629.7 K and L → (Si) + ␨ + AuSn at 546.5 K.” |
+| Phase transition | 636 K | 636 | eutectic | experimental | [2] Meng 2007; _cites Anantatmula 1975_ [doi](https://doi.org/10.1007/bf02666229) | Table 1, p. 2, row 7; `ORC-K3AJP46EI2` |  |
+| Phase transition | 636 K | 636 | eutectic | experimental | [2] Meng 2007; _cites Chen 1967_ [doi](https://doi.org/10.1063/1.1710186) | Table 1, p. 2, row 4; `ORC-Y2YJRT4LAW` |  |
+| Phase transition | 637 K | 637 | eutectic | experimental | [2] Meng 2007; _cites Legendre 1978_ | Table 1, p. 2, row 9; `ORC-DE6JLBRBMC` |  |
+| Phase transition | 642 K | 642 | eutectic | experimental | [2] Meng 2007; _cites Heath 1961_ [doi](https://doi.org/10.1080/00207216108961472) | Table 1, p. 2, row 3; `ORC-GB55IDQTYK` |  |
+| Phase transition | 643 K | 643 | eutectic | experimental | [2] Meng 2007; _cites Dicapua 1920_ | Table 1, p. 2, row 1; `ORC-CLOLHE2LYQ` |  |
+| Phase transition | 643 K | 643 | eutectic | experimental | [2] Meng 2007; _cites Gerlach 1967_ [doi](https://doi.org/10.1016/0038-1101%2867%2990140-2) | Table 1, p. 2, row 5; `ORC-FWJOWYIKFA` |  |
+| Phase transition | 763 K | 763 | L + ␤ → (Au) + ␨ | experimental | [2] Meng 2007 | p. 2; `ORC-SVP6BO56NF.95b9cf` | “For the partial system Au-Si-AuSn, three invariant reactions involving the liquid phase were detected: L + ␤ → (Au) + ␨ at 763 K, L + (Au) → (Si) + ␨ at 629.7 K and L → (Si) + ␨ + AuSn at 546.5 K.” |
 
 ## Sources
 
@@ -150,4 +150,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

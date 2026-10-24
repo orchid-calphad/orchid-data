@@ -75,30 +75,30 @@ Table: Invariant reactions reported in the literature for the Ca–Si system (24
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1532.15 | other: L + Ca2Si = Ca5Si3 | Ca2Si: Si 0.333333; Ca5Si3: Si 0.375 | experimental | [1] Gröbner 2003; _cites Schurmann 1975_ [doi](https://doi.org/10.1002/srin.197503664) | Table 2, p. 4, row 7 |  |
-| 1513.15 | other: L + Ca2Si = Ca5Si3 | Ca2Si: Si 0.333333; Ca5Si3: Si 0.375 | experimental | [1] Gröbner 2003; _cites Manfrinetti 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900112-0) | Table 2, p. 4, row 8 |  |
-| 1509.15 | other: L + Ca2Si = Ca5Si3 | Ca2Si: Si 0.333333; Ca5Si3: Si 0.375 | model | [1] Gröbner 2003 | Table 2, p. 4, row 9 |  |
-| 1508.15 | other: L = Ca5Si3 + CaSi | Ca5Si3: Si 0.375; CaSi: Si 0.5 | model | [1] Gröbner 2003 | Table 2, p. 4, row 11 |  |
-| 1503.15 | eutectic |  | experimental | [1] Gröbner 2003; _cites Manfrinetti 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900112-0) | p. 2 | “Three eutectics occur in this system: at about 3.5 at% Si and 795 C, 42.5 at% Si and 1230 C, 72.0 at% Si and 1020 C.” |
-| 1503.15 | other: L = Ca5Si3 + CaSi | Ca5Si3: Si 0.375; CaSi: Si 0.5 | experimental | [1] Gröbner 2003; _cites Manfrinetti 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900112-0) | Table 2, p. 4, row 10 |  |
-| 1358.15 | other: L + CaSi = Ca14Si19 | CaSi: Si 0.5; Ca14Si19: Si 0.575758 | experimental | [1] Gröbner 2003; _cites Manfrinetti 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900112-0) | Table 2, p. 4, row 12 |  |
-| 1356.15 | other: L + CaSi = Ca14Si19 | CaSi: Si 0.5; Ca14Si19: Si 0.575758 | model | [1] Gröbner 2003 | Table 2, p. 4, row 13 |  |
-| 1306.15 | other: L + Ca14Si19 = CaSi2 | Ca14Si19: Si 0.575758; CaSi2: Si 0.666667 | experimental | [1] Gröbner 2003; _cites Schurmann 1975_ [doi](https://doi.org/10.1002/srin.197503664) | Table 2, p. 4, row 14 |  |
-| 1303.15 | other: L + Ca14Si19 = CaSi2 | Ca14Si19: Si 0.575758; CaSi2: Si 0.666667 | experimental | [1] Gröbner 2003; _cites Manfrinetti 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900112-0) | Table 2, p. 4, row 15 |  |
-| 1301.15 | other: L + Ca14Si19 = CaSi2 | Ca14Si19: Si 0.575758; CaSi2: Si 0.666667 | model | [1] Gröbner 2003 | Table 2, p. 4, row 16 |  |
-| 1297.15 | other: L = CaSi2 + (Si) | CaSi2: Si 0.666667; (Si): Si 1 | model | [1] Gröbner 2003 | Table 2, p. 4, row 19 |  |
-| 1296.15 | other: L = CaSi2 + (Si) | CaSi2: Si 0.666667; (Si): Si 1 | experimental | [1] Gröbner 2003; _cites Schurmann 1975_ [doi](https://doi.org/10.1002/srin.197503664) | Table 2, p. 4, row 17 |  |
-| 1293.15 | eutectic |  | experimental | [1] Gröbner 2003; _cites Manfrinetti 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900112-0) | p. 2 | “Three eutectics occur in this system: at about 3.5 at% Si and 795 C, 42.5 at% Si and 1230 C, 72.0 at% Si and 1020 C.” |
-| 1293.15 | other: L = CaSi2 + (Si) | CaSi2: Si 0.666667; (Si): Si 1 | experimental | [1] Gröbner 2003; _cites Manfrinetti 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900112-0) | Table 2, p. 4, row 18 |  |
-| 1210.15 | other: CaSi + Ca14Si19 = Ca3Si4 | CaSi: Si 0.5; Ca14Si19: Si 0.575758; Ca3Si4: Si 0.571429 | model | [1] Gröbner 2003 | Table 2, p. 4, row 21 |  |
-| 1183.15 | other: CaSi + Ca14Si19 = Ca3Si4 | CaSi: Si 0.5; Ca14Si19: Si 0.575758; Ca3Si4: Si 0.571429 | experimental | [1] Gröbner 2003; _cites Manfrinetti 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900112-0) | Table 2, p. 4, row 20 |  |
-| 1173.15 | other: Ca14Si19 = Ca3Si4 + CaSi2 | Ca14Si19: Si 0.575758; Ca3Si4: Si 0.571429; CaSi2: Si 0.666667 | experimental | [1] Gröbner 2003; _cites Manfrinetti 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900112-0) | Table 2, p. 4, row 22 |  |
-| 1153.15 | other: Ca14Si19 = Ca3Si4 + CaSi2 | Ca14Si19: Si 0.575758; Ca3Si4: Si 0.571429; CaSi2: Si 0.666667 | model | [1] Gröbner 2003 | Table 2, p. 4, row 23 |  |
-| 1071.15 | other: L = (βCa) + Ca2Si | Ca2Si: Si 0.333333 | model | [1] Gröbner 2003 | Table 2, p. 4, row 26 |  |
-| 1068.15 | eutectic |  | experimental | [1] Gröbner 2003; _cites Manfrinetti 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900112-0) | p. 2 | “Three eutectics occur in this system: at about 3.5 at% Si and 795 C, 42.5 at% Si and 1230 C, 72.0 at% Si and 1020 C.” |
-| 1068.15 | other: L = (βCa) + Ca2Si | Ca2Si: Si 0.333333 | experimental | [1] Gröbner 2003; _cites Manfrinetti 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900112-0) | Table 2, p. 4, row 25 |  |
-| 1055.15 | other: L = (βCa) + Ca2Si | Ca2Si: Si 0.333333 | experimental | [1] Gröbner 2003; _cites Schurmann 1975_ [doi](https://doi.org/10.1002/srin.197503664) | Table 2, p. 4, row 24 |  |
-| 716.15 | other: (βCa) = (αCa); Ca2Si | Ca2Si: Si 0.333333 | model | [1] Gröbner 2003 | Table 2, p. 4, row 27 |  |
+| 1532.15 | other: L + Ca2Si = Ca5Si3 | Ca2Si: Si 0.333333; Ca5Si3: Si 0.375 | experimental | [1] Gröbner 2003; _cites Schurmann 1975_ [doi](https://doi.org/10.1002/srin.197503664) | Table 2, p. 4, row 7; `ORC-U64PQ4RU2Q` |  |
+| 1513.15 | other: L + Ca2Si = Ca5Si3 | Ca2Si: Si 0.333333; Ca5Si3: Si 0.375 | experimental | [1] Gröbner 2003; _cites Manfrinetti 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900112-0) | Table 2, p. 4, row 8; `ORC-ZCJD7ICEEG` |  |
+| 1509.15 | other: L + Ca2Si = Ca5Si3 | Ca2Si: Si 0.333333; Ca5Si3: Si 0.375 | model | [1] Gröbner 2003 | Table 2, p. 4, row 9; `ORC-IDTHQJREHU` |  |
+| 1508.15 | other: L = Ca5Si3 + CaSi | Ca5Si3: Si 0.375; CaSi: Si 0.5 | model | [1] Gröbner 2003 | Table 2, p. 4, row 11; `ORC-Y3T67CN5L7` |  |
+| 1503.15 | eutectic |  | experimental | [1] Gröbner 2003; _cites Manfrinetti 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900112-0) | p. 2; `ORC-5IF3R3R3QH.d70258` | “Three eutectics occur in this system: at about 3.5 at% Si and 795 C, 42.5 at% Si and 1230 C, 72.0 at% Si and 1020 C.” |
+| 1503.15 | other: L = Ca5Si3 + CaSi | Ca5Si3: Si 0.375; CaSi: Si 0.5 | experimental | [1] Gröbner 2003; _cites Manfrinetti 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900112-0) | Table 2, p. 4, row 10; `ORC-IX2WWYFAFN` |  |
+| 1358.15 | other: L + CaSi = Ca14Si19 | CaSi: Si 0.5; Ca14Si19: Si 0.575758 | experimental | [1] Gröbner 2003; _cites Manfrinetti 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900112-0) | Table 2, p. 4, row 12; `ORC-NXYN7NLYT5` |  |
+| 1356.15 | other: L + CaSi = Ca14Si19 | CaSi: Si 0.5; Ca14Si19: Si 0.575758 | model | [1] Gröbner 2003 | Table 2, p. 4, row 13; `ORC-EQ6GOSCBAI` |  |
+| 1306.15 | other: L + Ca14Si19 = CaSi2 | Ca14Si19: Si 0.575758; CaSi2: Si 0.666667 | experimental | [1] Gröbner 2003; _cites Schurmann 1975_ [doi](https://doi.org/10.1002/srin.197503664) | Table 2, p. 4, row 14; `ORC-F2FQUCD4PE` |  |
+| 1303.15 | other: L + Ca14Si19 = CaSi2 | Ca14Si19: Si 0.575758; CaSi2: Si 0.666667 | experimental | [1] Gröbner 2003; _cites Manfrinetti 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900112-0) | Table 2, p. 4, row 15; `ORC-PNL7QGM67R` |  |
+| 1301.15 | other: L + Ca14Si19 = CaSi2 | Ca14Si19: Si 0.575758; CaSi2: Si 0.666667 | model | [1] Gröbner 2003 | Table 2, p. 4, row 16; `ORC-I66BPZ5SZE` |  |
+| 1297.15 | other: L = CaSi2 + (Si) | CaSi2: Si 0.666667; (Si): Si 1 | model | [1] Gröbner 2003 | Table 2, p. 4, row 19; `ORC-WLVM54N6QS` |  |
+| 1296.15 | other: L = CaSi2 + (Si) | CaSi2: Si 0.666667; (Si): Si 1 | experimental | [1] Gröbner 2003; _cites Schurmann 1975_ [doi](https://doi.org/10.1002/srin.197503664) | Table 2, p. 4, row 17; `ORC-KG24MI3473` |  |
+| 1293.15 | eutectic |  | experimental | [1] Gröbner 2003; _cites Manfrinetti 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900112-0) | p. 2; `ORC-5IF3R3R3QH.4dc49d` | “Three eutectics occur in this system: at about 3.5 at% Si and 795 C, 42.5 at% Si and 1230 C, 72.0 at% Si and 1020 C.” |
+| 1293.15 | other: L = CaSi2 + (Si) | CaSi2: Si 0.666667; (Si): Si 1 | experimental | [1] Gröbner 2003; _cites Manfrinetti 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900112-0) | Table 2, p. 4, row 18; `ORC-ZK4F77VQQI` |  |
+| 1210.15 | other: CaSi + Ca14Si19 = Ca3Si4 | CaSi: Si 0.5; Ca14Si19: Si 0.575758; Ca3Si4: Si 0.571429 | model | [1] Gröbner 2003 | Table 2, p. 4, row 21; `ORC-ZHJDQR2XSP` |  |
+| 1183.15 | other: CaSi + Ca14Si19 = Ca3Si4 | CaSi: Si 0.5; Ca14Si19: Si 0.575758; Ca3Si4: Si 0.571429 | experimental | [1] Gröbner 2003; _cites Manfrinetti 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900112-0) | Table 2, p. 4, row 20; `ORC-LZYBUPL5S5` |  |
+| 1173.15 | other: Ca14Si19 = Ca3Si4 + CaSi2 | Ca14Si19: Si 0.575758; Ca3Si4: Si 0.571429; CaSi2: Si 0.666667 | experimental | [1] Gröbner 2003; _cites Manfrinetti 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900112-0) | Table 2, p. 4, row 22; `ORC-U6MVAMWRG4` |  |
+| 1153.15 | other: Ca14Si19 = Ca3Si4 + CaSi2 | Ca14Si19: Si 0.575758; Ca3Si4: Si 0.571429; CaSi2: Si 0.666667 | model | [1] Gröbner 2003 | Table 2, p. 4, row 23; `ORC-R2Z74FXII3` |  |
+| 1071.15 | other: L = (βCa) + Ca2Si | Ca2Si: Si 0.333333 | model | [1] Gröbner 2003 | Table 2, p. 4, row 26; `ORC-KU5KZK7OAL` |  |
+| 1068.15 | eutectic |  | experimental | [1] Gröbner 2003; _cites Manfrinetti 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900112-0) | p. 2; `ORC-5IF3R3R3QH.a5da6e` | “Three eutectics occur in this system: at about 3.5 at% Si and 795 C, 42.5 at% Si and 1230 C, 72.0 at% Si and 1020 C.” |
+| 1068.15 | other: L = (βCa) + Ca2Si | Ca2Si: Si 0.333333 | experimental | [1] Gröbner 2003; _cites Manfrinetti 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900112-0) | Table 2, p. 4, row 25; `ORC-AYTXP27UWQ` |  |
+| 1055.15 | other: L = (βCa) + Ca2Si | Ca2Si: Si 0.333333 | experimental | [1] Gröbner 2003; _cites Schurmann 1975_ [doi](https://doi.org/10.1002/srin.197503664) | Table 2, p. 4, row 24; `ORC-JRAA64LBYX` |  |
+| 716.15 | other: (βCa) = (αCa); Ca2Si | Ca2Si: Si 0.333333 | model | [1] Gröbner 2003 | Table 2, p. 4, row 27; `ORC-5CTDDODGNS` |  |
 
 ## Formation enthalpies
 
@@ -108,57 +108,57 @@ Table: Enthalpies of formation, Ca–Si system (51)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Ca14Si19 | [Ca14Si19](https://data.orchid-project.org/compounds/Ca14Si19.html) | -44.4 kJ/mol-atom | 298.15 | experimental | -40.575 (mp-aaaabqxx) | -45.81 (oqmd-14227) | [1] Gröbner 2003; _cites Sudatsova 1988_ | Table 1, p. 2, row 10 |  |
-| Ca14Si19 | [Ca14Si19](https://data.orchid-project.org/compounds/Ca14Si19.html) | -44.4 kJ/mol-atom | 298.15 | model | -40.575 (mp-aaaabqxx) | -45.81 (oqmd-14227) | [1] Gröbner 2003 | Table 1, p. 2, row 11 |  |
-| Ca2Si |  | -483 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Anglezio 1994; _cites ref. 62Shc_ | Table III, p. 12, row 1 |  |
-| Ca2Si |  | -254.352 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Anglezio 1994; _cites ref. 67Mur_ | Table III, p. 12, row 3 |  |
-| Ca2Si | [Ca2Si](https://data.orchid-project.org/compounds/Ca2Si.html) | -254.35 kJ/mol-atom | 298.15 | experimental | -41.918 (mp-aaaaadsv) | -45.505 (oqmd-4796) | [1] Gröbner 2003; _cites Zviadadze 2003_ | Table 1, p. 2, row 4 |  |
-| Ca2Si | [Ca2Si](https://data.orchid-project.org/compounds/Ca2Si.html) | -209 kJ/mol-atom | 298.15 | experimental | -41.918 (mp-aaaaadsv) | -45.505 (oqmd-4796) | [1] Gröbner 2003; _cites Muradov 1967_ | Table 1, p. 2, row 6 |  |
-| Ca2Si | [Ca2Si](https://data.orchid-project.org/compounds/Ca2Si.html) | -209 kJ/mol-atom | 298.15 | model | -41.918 (mp-aaaaadsv) | -45.505 (oqmd-4796) | [1] Gröbner 2003; _cites Anglezio 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990034-5) | Table 1, p. 2, row 9 |  |
-| Ca2Si |  | -209 kJ/mol (basis unstated) |  | unspecified |  |  | [2] Anglezio 1994; _cites ref. 82Wag_ | Table III, p. 12, row 5 |  |
-| Ca2Si |  | -209 kJ/mol (basis unstated) |  | model |  |  | [2] Anglezio 1994 | Table III, p. 12, row 8 |  |
-| Ca2Si | [Ca2Si](https://data.orchid-project.org/compounds/Ca2Si.html) | -71.4 kJ/mol-atom | 298.15 | experimental | -41.918 (mp-aaaaadsv) | -45.505 (oqmd-4796) | [1] Gröbner 2003; _cites Wynnyckyj 1972_ | Table 1, p. 2, row 1 |  |
-| Ca2Si | [Ca2Si](https://data.orchid-project.org/compounds/Ca2Si.html) | -56.1 kJ/mol-atom | 298.15 | experimental | -41.918 (mp-aaaaadsv) | -45.505 (oqmd-4796) | [1] Gröbner 2003; _cites Sudatsova 1988_ | Table 1, p. 2, row 10 |  |
-| Ca2Si | [Ca2Si](https://data.orchid-project.org/compounds/Ca2Si.html) | -56.1 kJ/mol-atom | 298.15 | model | -41.918 (mp-aaaaadsv) | -45.505 (oqmd-4796) | [1] Gröbner 2003 | Table 1, p. 2, row 11 |  |
-| Ca2Si | [Ca2Si](https://data.orchid-project.org/compounds/Ca2Si.html) | -48.3 kJ/mol-atom | 298.15 | experimental | -41.918 (mp-aaaaadsv) | -45.505 (oqmd-4796) | [1] Gröbner 2003; _cites Kubaschewski 1949_ | Table 1, p. 2, row 2 |  |
-| Ca2Si |  | -23.864 kJ/mol (basis unstated) |  | model |  |  | [2] Anglezio 1994; _cites ref. 86Lee_ | Table III, p. 12, row 7 |  |
-| Ca2Si | [Ca2Si](https://data.orchid-project.org/compounds/Ca2Si.html) | -23.86 kJ/mol-atom | 298.15 | model | -41.918 (mp-aaaaadsv) | -45.505 (oqmd-4796) | [1] Gröbner 2003; _cites Lee 1986_ | Table 1, p. 2, row 8 |  |
-| Ca3Si4 | [Ca3Si4](https://data.orchid-project.org/compounds/Ca3Si4.html) | -46 kJ/mol-atom | 298.15 | model | -41.393 (mp-aaacrbyc) |  | [1] Gröbner 2003 | Table 1, p. 2, row 11 |  |
-| Ca3Si4 | [Ca3Si4](https://data.orchid-project.org/compounds/Ca3Si4.html) | -40.6 kJ/mol-atom | 298.15 | experimental | -41.393 (mp-aaacrbyc) |  | [1] Gröbner 2003; _cites Sudatsova 1988_ | Table 1, p. 2, row 10 |  |
-| Ca5Si3 | [Ca5Si3](https://data.orchid-project.org/compounds/Ca5Si3.html) | -55.3 kJ/mol-atom | 298.15 | experimental | -44.219 (mp-aaaaaben) | -47.993 (oqmd-7693) | [1] Gröbner 2003; _cites Sudatsova 1988_ | Table 1, p. 2, row 10 |  |
-| Ca5Si3 | [Ca5Si3](https://data.orchid-project.org/compounds/Ca5Si3.html) | -55.3 kJ/mol-atom | 298.15 | model | -44.219 (mp-aaaaaben) | -47.993 (oqmd-7693) | [1] Gröbner 2003 | Table 1, p. 2, row 11 |  |
-| CaSi | [CaSi](https://data.orchid-project.org/compounds/CaSi.html) | -210.41 kJ/mol-atom | 298.15 | model | -48.529 (mp-aaaaacid) | -53.093 (oqmd-52884) | [1] Gröbner 2003; _cites Lee 1986_ | Table 1, p. 2, row 8 |  |
-| CaSi |  | -210.41 kJ/mol (basis unstated) |  | model |  |  | [2] Anglezio 1994; _cites ref. 86Lee_ | Table III, p. 12, row 7 |  |
-| CaSi | [CaSi](https://data.orchid-project.org/compounds/CaSi.html) | -180.16 kJ/mol-atom | 298.15 | experimental | -48.529 (mp-aaaaacid) | -53.093 (oqmd-52884) | [1] Gröbner 2003; _cites Zviadadze 2003_ | Table 1, p. 2, row 4 |  |
-| CaSi |  | -180.158 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Anglezio 1994; _cites ref. 67Mur_ | Table III, p. 12, row 3 |  |
-| CaSi | [CaSi](https://data.orchid-project.org/compounds/CaSi.html) | -151 kJ/mol-atom | 298.15 | experimental | -48.529 (mp-aaaaacid) | -53.093 (oqmd-52884) | [1] Gröbner 2003; _cites Muradov 1967_ | Table 1, p. 2, row 6 |  |
-| CaSi |  | -151 kJ/mol (basis unstated) |  | unspecified |  |  | [2] Anglezio 1994; _cites ref. 82Wag_ | Table III, p. 12, row 5 |  |
-| CaSi | [CaSi](https://data.orchid-project.org/compounds/CaSi.html) | -120.64 kJ/mol-atom | 298.15 | model | -48.529 (mp-aaaaacid) | -53.093 (oqmd-52884) | [1] Gröbner 2003; _cites Anglezio 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990034-5) | Table 1, p. 2, row 9 |  |
-| CaSi |  | -120.64 kJ/mol (basis unstated) |  | model |  |  | [2] Anglezio 1994 | Table III, p. 12, row 8 |  |
-| CaSi |  | -120.38 kJ/mol (basis unstated) |  | unspecified |  |  | [2] Anglezio 1994; _cites ref. 82Dzh_ | Table III, p. 12, row 6 |  |
-| CaSi | [CaSi](https://data.orchid-project.org/compounds/CaSi.html) | -120.38 kJ/mol-atom | 298.15 | unspecified | -48.529 (mp-aaaaacid) | -53.093 (oqmd-52884) | [1] Gröbner 2003; _cites Wagman 1982_ | Table 1, p. 2, row 7 |  |
-| CaSi |  | -91.96 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Anglezio 1994; _cites ref. 71Wyn_ | Table III, p. 12, row 4 |  |
-| CaSi | [CaSi](https://data.orchid-project.org/compounds/CaSi.html) | -79.1 kJ/mol-atom | 298.15 | experimental | -48.529 (mp-aaaaacid) | -53.093 (oqmd-52884) | [1] Gröbner 2003; _cites Wynnyckyj 1972_ | Table 1, p. 2, row 1 |  |
-| CaSi | [CaSi](https://data.orchid-project.org/compounds/CaSi.html) | -49.6 kJ/mol-atom | 298.15 | experimental | -48.529 (mp-aaaaacid) | -53.093 (oqmd-52884) | [1] Gröbner 2003; _cites Sudatsova 1988_ | Table 1, p. 2, row 10 |  |
-| CaSi | [CaSi](https://data.orchid-project.org/compounds/CaSi.html) | -48.9 kJ/mol-atom | 298.15 | model | -48.529 (mp-aaaaacid) | -53.093 (oqmd-52884) | [1] Gröbner 2003 | Table 1, p. 2, row 11 |  |
-| CaSi | [CaSi](https://data.orchid-project.org/compounds/CaSi.html) | -46 kJ/mol-atom | 298.15 | experimental | -48.529 (mp-aaaaacid) | -53.093 (oqmd-52884) | [1] Gröbner 2003; _cites Wynnyckyj 1971_ [doi](https://doi.org/10.1007/bf02664227) | Table 1, p. 2, row 5 |  |
-| CaSi2 | [CaSi2](https://data.orchid-project.org/compounds/CaSi2.html) | -200.34 kJ/mol-atom | 298.15 | model | -32.278 (mp-aaaaadzv) | -37.589 (oqmd-6152) | [1] Gröbner 2003; _cites Lee 1986_ | Table 1, p. 2, row 8 |  |
-| CaSi2 |  | -200.34 kJ/mol (basis unstated) |  | model |  |  | [2] Anglezio 1994; _cites ref. 86Lee_ | Table III, p. 12, row 7 |  |
-| CaSi2 |  | -191.235 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Anglezio 1994; _cites ref. 67Mur_ | Table III, p. 12, row 3 |  |
-| CaSi2 | [CaSi2](https://data.orchid-project.org/compounds/CaSi2.html) | -191.23 kJ/mol-atom | 298.15 | experimental | -32.278 (mp-aaaaadzv) | -37.589 (oqmd-6152) | [1] Gröbner 2003; _cites Zviadadze 2003_ | Table 1, p. 2, row 4 |  |
-| CaSi2 |  | -153.42 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Anglezio 1994; _cites ref. 66Zvi_ | Table III, p. 12, row 2 |  |
-| CaSi2 | [CaSi2](https://data.orchid-project.org/compounds/CaSi2.html) | -153.42 kJ/mol-atom | 298.15 | experimental | -32.278 (mp-aaaaadzv) | -37.589 (oqmd-6152) | [1] Gröbner 2003; _cites Shchukarev 1962_ | Table 1, p. 2, row 3 |  |
-| CaSi2 | [CaSi2](https://data.orchid-project.org/compounds/CaSi2.html) | -151 kJ/mol-atom | 298.15 | experimental | -32.278 (mp-aaaaadzv) | -37.589 (oqmd-6152) | [1] Gröbner 2003; _cites Muradov 1967_ | Table 1, p. 2, row 6 |  |
-| CaSi2 |  | -151 kJ/mol (basis unstated) |  | unspecified |  |  | [2] Anglezio 1994; _cites ref. 82Wag_ | Table III, p. 12, row 5 |  |
-| CaSi2 | [CaSi2](https://data.orchid-project.org/compounds/CaSi2.html) | -150.4 kJ/mol-atom | 298.15 | model | -32.278 (mp-aaaaadzv) | -37.589 (oqmd-6152) | [1] Gröbner 2003; _cites Anglezio 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990034-5) | Table 1, p. 2, row 9 |  |
-| CaSi2 |  | -150.4 kJ/mol (basis unstated) |  | unspecified |  |  | [2] Anglezio 1994; _cites ref. 82Dzh_ | Table III, p. 12, row 6 |  |
-| CaSi2 | [CaSi2](https://data.orchid-project.org/compounds/CaSi2.html) | -150.4 kJ/mol-atom | 298.15 | unspecified | -32.278 (mp-aaaaadzv) | -37.589 (oqmd-6152) | [1] Gröbner 2003; _cites Wagman 1982_ | Table 1, p. 2, row 7 |  |
-| CaSi2 |  | -150.4 kJ/mol (basis unstated) |  | model |  |  | [2] Anglezio 1994 | Table III, p. 12, row 8 |  |
-| CaSi2 |  | -109.998 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Anglezio 1994; _cites ref. 71Wyn_ | Table III, p. 12, row 4 |  |
-| CaSi2 | [CaSi2](https://data.orchid-project.org/compounds/CaSi2.html) | -52.7 kJ/mol-atom | 298.15 | experimental | -32.278 (mp-aaaaadzv) | -37.589 (oqmd-6152) | [1] Gröbner 2003; _cites Wynnyckyj 1972_ | Table 1, p. 2, row 1 |  |
-| CaSi2 | [CaSi2](https://data.orchid-project.org/compounds/CaSi2.html) | -37.8 kJ/mol-atom | 298.15 | experimental | -32.278 (mp-aaaaadzv) | -37.589 (oqmd-6152) | [1] Gröbner 2003; _cites Sudatsova 1988_ | Table 1, p. 2, row 10 |  |
-| CaSi2 | [CaSi2](https://data.orchid-project.org/compounds/CaSi2.html) | -37.8 kJ/mol-atom | 298.15 | model | -32.278 (mp-aaaaadzv) | -37.589 (oqmd-6152) | [1] Gröbner 2003 | Table 1, p. 2, row 11 |  |
-| CaSi2 | [CaSi2](https://data.orchid-project.org/compounds/CaSi2.html) | -36.7 kJ/mol-atom | 298.15 | experimental | -32.278 (mp-aaaaadzv) | -37.589 (oqmd-6152) | [1] Gröbner 2003; _cites Wynnyckyj 1971_ [doi](https://doi.org/10.1007/bf02664227) | Table 1, p. 2, row 5 |  |
+| Ca14Si19 | [Ca14Si19](https://data.orchid-project.org/compounds/Ca14Si19.html) | -44.4 kJ/mol-atom | 298.15 | experimental | -40.575 (mp-aaaabqxx) | -45.81 (oqmd-14227) | [1] Gröbner 2003; _cites Sudatsova 1988_ | Table 1, p. 2, row 10; `ORC-6N2AN7HUCW.98b465` |  |
+| Ca14Si19 | [Ca14Si19](https://data.orchid-project.org/compounds/Ca14Si19.html) | -44.4 kJ/mol-atom | 298.15 | model | -40.575 (mp-aaaabqxx) | -45.81 (oqmd-14227) | [1] Gröbner 2003 | Table 1, p. 2, row 11; `ORC-O66YRHEN77.c117fe` |  |
+| Ca2Si |  | -483 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Anglezio 1994; _cites ref. 62Shc_ | Table III, p. 12, row 1; `ORC-4PJ5LDNA3U` |  |
+| Ca2Si |  | -254.352 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Anglezio 1994; _cites ref. 67Mur_ | Table III, p. 12, row 3; `ORC-JZPRQCK6LV.6f5dfd` |  |
+| Ca2Si | [Ca2Si](https://data.orchid-project.org/compounds/Ca2Si.html) | -254.35 kJ/mol-atom | 298.15 | experimental | -41.918 (mp-aaaaadsv) | -45.505 (oqmd-4796) | [1] Gröbner 2003; _cites Zviadadze 2003_ | Table 1, p. 2, row 4; `ORC-5UBITMWKOB.6652b8` |  |
+| Ca2Si | [Ca2Si](https://data.orchid-project.org/compounds/Ca2Si.html) | -209 kJ/mol-atom | 298.15 | experimental | -41.918 (mp-aaaaadsv) | -45.505 (oqmd-4796) | [1] Gröbner 2003; _cites Muradov 1967_ | Table 1, p. 2, row 6; `ORC-4M4CL2ZEFR.f6076c` |  |
+| Ca2Si | [Ca2Si](https://data.orchid-project.org/compounds/Ca2Si.html) | -209 kJ/mol-atom | 298.15 | model | -41.918 (mp-aaaaadsv) | -45.505 (oqmd-4796) | [1] Gröbner 2003; _cites Anglezio 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990034-5) | Table 1, p. 2, row 9; `ORC-DSIDS2MAX2.9b2cda` |  |
+| Ca2Si |  | -209 kJ/mol (basis unstated) |  | unspecified |  |  | [2] Anglezio 1994; _cites ref. 82Wag_ | Table III, p. 12, row 5; `ORC-NHL3WKUEZI.ecff0a` |  |
+| Ca2Si |  | -209 kJ/mol (basis unstated) |  | model |  |  | [2] Anglezio 1994 | Table III, p. 12, row 8; `ORC-SGG43HL74Z.f8ca49` |  |
+| Ca2Si | [Ca2Si](https://data.orchid-project.org/compounds/Ca2Si.html) | -71.4 kJ/mol-atom | 298.15 | experimental | -41.918 (mp-aaaaadsv) | -45.505 (oqmd-4796) | [1] Gröbner 2003; _cites Wynnyckyj 1972_ | Table 1, p. 2, row 1; `ORC-F6T2FC7SLV.bfb311` |  |
+| Ca2Si | [Ca2Si](https://data.orchid-project.org/compounds/Ca2Si.html) | -56.1 kJ/mol-atom | 298.15 | experimental | -41.918 (mp-aaaaadsv) | -45.505 (oqmd-4796) | [1] Gröbner 2003; _cites Sudatsova 1988_ | Table 1, p. 2, row 10; `ORC-6N2AN7HUCW.666538` |  |
+| Ca2Si | [Ca2Si](https://data.orchid-project.org/compounds/Ca2Si.html) | -56.1 kJ/mol-atom | 298.15 | model | -41.918 (mp-aaaaadsv) | -45.505 (oqmd-4796) | [1] Gröbner 2003 | Table 1, p. 2, row 11; `ORC-O66YRHEN77.ed824e` |  |
+| Ca2Si | [Ca2Si](https://data.orchid-project.org/compounds/Ca2Si.html) | -48.3 kJ/mol-atom | 298.15 | experimental | -41.918 (mp-aaaaadsv) | -45.505 (oqmd-4796) | [1] Gröbner 2003; _cites Kubaschewski 1949_ | Table 1, p. 2, row 2; `ORC-VOQICLLMUA` |  |
+| Ca2Si |  | -23.864 kJ/mol (basis unstated) |  | model |  |  | [2] Anglezio 1994; _cites ref. 86Lee_ | Table III, p. 12, row 7; `ORC-G3QGQT2UTI.90da11` |  |
+| Ca2Si | [Ca2Si](https://data.orchid-project.org/compounds/Ca2Si.html) | -23.86 kJ/mol-atom | 298.15 | model | -41.918 (mp-aaaaadsv) | -45.505 (oqmd-4796) | [1] Gröbner 2003; _cites Lee 1986_ | Table 1, p. 2, row 8; `ORC-3HYDEZEJHJ.c9f16c` |  |
+| Ca3Si4 | [Ca3Si4](https://data.orchid-project.org/compounds/Ca3Si4.html) | -46 kJ/mol-atom | 298.15 | model | -41.393 (mp-aaacrbyc) |  | [1] Gröbner 2003 | Table 1, p. 2, row 11; `ORC-O66YRHEN77.aeccce` |  |
+| Ca3Si4 | [Ca3Si4](https://data.orchid-project.org/compounds/Ca3Si4.html) | -40.6 kJ/mol-atom | 298.15 | experimental | -41.393 (mp-aaacrbyc) |  | [1] Gröbner 2003; _cites Sudatsova 1988_ | Table 1, p. 2, row 10; `ORC-6N2AN7HUCW.3066cd` |  |
+| Ca5Si3 | [Ca5Si3](https://data.orchid-project.org/compounds/Ca5Si3.html) | -55.3 kJ/mol-atom | 298.15 | experimental | -44.219 (mp-aaaaaben) | -47.993 (oqmd-7693) | [1] Gröbner 2003; _cites Sudatsova 1988_ | Table 1, p. 2, row 10; `ORC-6N2AN7HUCW.51fc9a` |  |
+| Ca5Si3 | [Ca5Si3](https://data.orchid-project.org/compounds/Ca5Si3.html) | -55.3 kJ/mol-atom | 298.15 | model | -44.219 (mp-aaaaaben) | -47.993 (oqmd-7693) | [1] Gröbner 2003 | Table 1, p. 2, row 11; `ORC-O66YRHEN77.4524a8` |  |
+| CaSi | [CaSi](https://data.orchid-project.org/compounds/CaSi.html) | -210.41 kJ/mol-atom | 298.15 | model | -48.529 (mp-aaaaacid) | -53.093 (oqmd-52884) | [1] Gröbner 2003; _cites Lee 1986_ | Table 1, p. 2, row 8; `ORC-3HYDEZEJHJ.a45823` |  |
+| CaSi |  | -210.41 kJ/mol (basis unstated) |  | model |  |  | [2] Anglezio 1994; _cites ref. 86Lee_ | Table III, p. 12, row 7; `ORC-G3QGQT2UTI.d52830` |  |
+| CaSi | [CaSi](https://data.orchid-project.org/compounds/CaSi.html) | -180.16 kJ/mol-atom | 298.15 | experimental | -48.529 (mp-aaaaacid) | -53.093 (oqmd-52884) | [1] Gröbner 2003; _cites Zviadadze 2003_ | Table 1, p. 2, row 4; `ORC-5UBITMWKOB.771bfa` |  |
+| CaSi |  | -180.158 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Anglezio 1994; _cites ref. 67Mur_ | Table III, p. 12, row 3; `ORC-JZPRQCK6LV.b81cde` |  |
+| CaSi | [CaSi](https://data.orchid-project.org/compounds/CaSi.html) | -151 kJ/mol-atom | 298.15 | experimental | -48.529 (mp-aaaaacid) | -53.093 (oqmd-52884) | [1] Gröbner 2003; _cites Muradov 1967_ | Table 1, p. 2, row 6; `ORC-4M4CL2ZEFR.01d466` |  |
+| CaSi |  | -151 kJ/mol (basis unstated) |  | unspecified |  |  | [2] Anglezio 1994; _cites ref. 82Wag_ | Table III, p. 12, row 5; `ORC-NHL3WKUEZI.65eb1f` |  |
+| CaSi | [CaSi](https://data.orchid-project.org/compounds/CaSi.html) | -120.64 kJ/mol-atom | 298.15 | model | -48.529 (mp-aaaaacid) | -53.093 (oqmd-52884) | [1] Gröbner 2003; _cites Anglezio 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990034-5) | Table 1, p. 2, row 9; `ORC-DSIDS2MAX2.b484d4` |  |
+| CaSi |  | -120.64 kJ/mol (basis unstated) |  | model |  |  | [2] Anglezio 1994 | Table III, p. 12, row 8; `ORC-SGG43HL74Z.bf7a5f` |  |
+| CaSi |  | -120.38 kJ/mol (basis unstated) |  | unspecified |  |  | [2] Anglezio 1994; _cites ref. 82Dzh_ | Table III, p. 12, row 6; `ORC-DZKVQXRJDP.33121c` |  |
+| CaSi | [CaSi](https://data.orchid-project.org/compounds/CaSi.html) | -120.38 kJ/mol-atom | 298.15 | unspecified | -48.529 (mp-aaaaacid) | -53.093 (oqmd-52884) | [1] Gröbner 2003; _cites Wagman 1982_ | Table 1, p. 2, row 7; `ORC-MVPCUY2QXZ.24c48a` |  |
+| CaSi |  | -91.96 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Anglezio 1994; _cites ref. 71Wyn_ | Table III, p. 12, row 4; `ORC-N5ROC4RKTX.721bc7` |  |
+| CaSi | [CaSi](https://data.orchid-project.org/compounds/CaSi.html) | -79.1 kJ/mol-atom | 298.15 | experimental | -48.529 (mp-aaaaacid) | -53.093 (oqmd-52884) | [1] Gröbner 2003; _cites Wynnyckyj 1972_ | Table 1, p. 2, row 1; `ORC-F6T2FC7SLV.a78679` |  |
+| CaSi | [CaSi](https://data.orchid-project.org/compounds/CaSi.html) | -49.6 kJ/mol-atom | 298.15 | experimental | -48.529 (mp-aaaaacid) | -53.093 (oqmd-52884) | [1] Gröbner 2003; _cites Sudatsova 1988_ | Table 1, p. 2, row 10; `ORC-6N2AN7HUCW.94409a` |  |
+| CaSi | [CaSi](https://data.orchid-project.org/compounds/CaSi.html) | -48.9 kJ/mol-atom | 298.15 | model | -48.529 (mp-aaaaacid) | -53.093 (oqmd-52884) | [1] Gröbner 2003 | Table 1, p. 2, row 11; `ORC-O66YRHEN77.0fbdc8` |  |
+| CaSi | [CaSi](https://data.orchid-project.org/compounds/CaSi.html) | -46 kJ/mol-atom | 298.15 | experimental | -48.529 (mp-aaaaacid) | -53.093 (oqmd-52884) | [1] Gröbner 2003; _cites Wynnyckyj 1971_ [doi](https://doi.org/10.1007/bf02664227) | Table 1, p. 2, row 5; `ORC-GKI2CB5HSS.8d0d88` |  |
+| CaSi2 | [CaSi2](https://data.orchid-project.org/compounds/CaSi2.html) | -200.34 kJ/mol-atom | 298.15 | model | -32.278 (mp-aaaaadzv) | -37.589 (oqmd-6152) | [1] Gröbner 2003; _cites Lee 1986_ | Table 1, p. 2, row 8; `ORC-3HYDEZEJHJ.ec7553` |  |
+| CaSi2 |  | -200.34 kJ/mol (basis unstated) |  | model |  |  | [2] Anglezio 1994; _cites ref. 86Lee_ | Table III, p. 12, row 7; `ORC-G3QGQT2UTI.e8fcf3` |  |
+| CaSi2 |  | -191.235 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Anglezio 1994; _cites ref. 67Mur_ | Table III, p. 12, row 3; `ORC-JZPRQCK6LV.f0add6` |  |
+| CaSi2 | [CaSi2](https://data.orchid-project.org/compounds/CaSi2.html) | -191.23 kJ/mol-atom | 298.15 | experimental | -32.278 (mp-aaaaadzv) | -37.589 (oqmd-6152) | [1] Gröbner 2003; _cites Zviadadze 2003_ | Table 1, p. 2, row 4; `ORC-5UBITMWKOB.50a5a9` |  |
+| CaSi2 |  | -153.42 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Anglezio 1994; _cites ref. 66Zvi_ | Table III, p. 12, row 2; `ORC-KOF3D5DOBU` |  |
+| CaSi2 | [CaSi2](https://data.orchid-project.org/compounds/CaSi2.html) | -153.42 kJ/mol-atom | 298.15 | experimental | -32.278 (mp-aaaaadzv) | -37.589 (oqmd-6152) | [1] Gröbner 2003; _cites Shchukarev 1962_ | Table 1, p. 2, row 3; `ORC-TMGYG5CRHE` |  |
+| CaSi2 | [CaSi2](https://data.orchid-project.org/compounds/CaSi2.html) | -151 kJ/mol-atom | 298.15 | experimental | -32.278 (mp-aaaaadzv) | -37.589 (oqmd-6152) | [1] Gröbner 2003; _cites Muradov 1967_ | Table 1, p. 2, row 6; `ORC-4M4CL2ZEFR.f95b49` |  |
+| CaSi2 |  | -151 kJ/mol (basis unstated) |  | unspecified |  |  | [2] Anglezio 1994; _cites ref. 82Wag_ | Table III, p. 12, row 5; `ORC-NHL3WKUEZI.8e03ae` |  |
+| CaSi2 | [CaSi2](https://data.orchid-project.org/compounds/CaSi2.html) | -150.4 kJ/mol-atom | 298.15 | model | -32.278 (mp-aaaaadzv) | -37.589 (oqmd-6152) | [1] Gröbner 2003; _cites Anglezio 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990034-5) | Table 1, p. 2, row 9; `ORC-DSIDS2MAX2.da25fb` |  |
+| CaSi2 |  | -150.4 kJ/mol (basis unstated) |  | unspecified |  |  | [2] Anglezio 1994; _cites ref. 82Dzh_ | Table III, p. 12, row 6; `ORC-DZKVQXRJDP.21d114` |  |
+| CaSi2 | [CaSi2](https://data.orchid-project.org/compounds/CaSi2.html) | -150.4 kJ/mol-atom | 298.15 | unspecified | -32.278 (mp-aaaaadzv) | -37.589 (oqmd-6152) | [1] Gröbner 2003; _cites Wagman 1982_ | Table 1, p. 2, row 7; `ORC-MVPCUY2QXZ.509ca2` |  |
+| CaSi2 |  | -150.4 kJ/mol (basis unstated) |  | model |  |  | [2] Anglezio 1994 | Table III, p. 12, row 8; `ORC-SGG43HL74Z.3ff113` |  |
+| CaSi2 |  | -109.998 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Anglezio 1994; _cites ref. 71Wyn_ | Table III, p. 12, row 4; `ORC-N5ROC4RKTX.7e6061` |  |
+| CaSi2 | [CaSi2](https://data.orchid-project.org/compounds/CaSi2.html) | -52.7 kJ/mol-atom | 298.15 | experimental | -32.278 (mp-aaaaadzv) | -37.589 (oqmd-6152) | [1] Gröbner 2003; _cites Wynnyckyj 1972_ | Table 1, p. 2, row 1; `ORC-F6T2FC7SLV.3a2f60` |  |
+| CaSi2 | [CaSi2](https://data.orchid-project.org/compounds/CaSi2.html) | -37.8 kJ/mol-atom | 298.15 | experimental | -32.278 (mp-aaaaadzv) | -37.589 (oqmd-6152) | [1] Gröbner 2003; _cites Sudatsova 1988_ | Table 1, p. 2, row 10; `ORC-6N2AN7HUCW.19aede` |  |
+| CaSi2 | [CaSi2](https://data.orchid-project.org/compounds/CaSi2.html) | -37.8 kJ/mol-atom | 298.15 | model | -32.278 (mp-aaaaadzv) | -37.589 (oqmd-6152) | [1] Gröbner 2003 | Table 1, p. 2, row 11; `ORC-O66YRHEN77.3cc744` |  |
+| CaSi2 | [CaSi2](https://data.orchid-project.org/compounds/CaSi2.html) | -36.7 kJ/mol-atom | 298.15 | experimental | -32.278 (mp-aaaaadzv) | -37.589 (oqmd-6152) | [1] Gröbner 2003; _cites Wynnyckyj 1971_ [doi](https://doi.org/10.1007/bf02664227) | Table 1, p. 2, row 5; `ORC-GKI2CB5HSS.528a27` |  |
 
 ## Other properties
 
@@ -168,12 +168,12 @@ Table: Phase transition, Ca–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1530.15 K | 1530.15 | congruent melting: L = Ca2Si; _L: Si 0.333333; Ca2Si: Si 0.333333_ | model | [1] Gröbner 2003 | Table 2, p. 4, row 6 |  |
-| Phase transition | 1543.15 K | 1543.15 | congruent melting: L = Ca2Si; _L: Si 0.333333; Ca2Si: Si 0.333333_ | experimental | [1] Gröbner 2003; _cites Manfrinetti 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900112-0) | Table 2, p. 4, row 5 |  |
-| Phase transition | 1553.15 K | 1553.15 | congruent melting: L = CaSi; _L: Si 0.5; CaSi: Si 0.5_ | model | [1] Gröbner 2003 | Table 2, p. 4, row 3 |  |
-| Phase transition | 1578.15 K | 1578.15 | congruent melting: L = Ca2Si; _L: Si 0.333333; Ca2Si: Si 0.333333_ | experimental | [1] Gröbner 2003; _cites Schurmann 1975_ [doi](https://doi.org/10.1002/srin.197503664) | Table 2, p. 4, row 4 |  |
-| Phase transition | 1588.15 K | 1588.15 | congruent melting: L = CaSi; _L: Si 0.5; CaSi: Si 0.5_ | experimental | [1] Gröbner 2003; _cites Schurmann 1975_ [doi](https://doi.org/10.1002/srin.197503664) | Table 2, p. 4, row 1 |  |
-| Phase transition | 1593.15 K | 1593.15 | congruent melting: L = CaSi; _L: Si 0.5; CaSi: Si 0.5_ | experimental | [1] Gröbner 2003; _cites Manfrinetti 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900112-0) | Table 2, p. 4, row 2 |  |
+| Phase transition | 1530.15 K | 1530.15 | congruent melting: L = Ca2Si; _L: Si 0.333333; Ca2Si: Si 0.333333_ | model | [1] Gröbner 2003 | Table 2, p. 4, row 6; `ORC-PLTP4GHHNG` |  |
+| Phase transition | 1543.15 K | 1543.15 | congruent melting: L = Ca2Si; _L: Si 0.333333; Ca2Si: Si 0.333333_ | experimental | [1] Gröbner 2003; _cites Manfrinetti 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900112-0) | Table 2, p. 4, row 5; `ORC-ZMRQGLGIW4` |  |
+| Phase transition | 1553.15 K | 1553.15 | congruent melting: L = CaSi; _L: Si 0.5; CaSi: Si 0.5_ | model | [1] Gröbner 2003 | Table 2, p. 4, row 3; `ORC-EQKRREZJJO` |  |
+| Phase transition | 1578.15 K | 1578.15 | congruent melting: L = Ca2Si; _L: Si 0.333333; Ca2Si: Si 0.333333_ | experimental | [1] Gröbner 2003; _cites Schurmann 1975_ [doi](https://doi.org/10.1002/srin.197503664) | Table 2, p. 4, row 4; `ORC-NU65N446RZ` |  |
+| Phase transition | 1588.15 K | 1588.15 | congruent melting: L = CaSi; _L: Si 0.5; CaSi: Si 0.5_ | experimental | [1] Gröbner 2003; _cites Schurmann 1975_ [doi](https://doi.org/10.1002/srin.197503664) | Table 2, p. 4, row 1; `ORC-RMWB534X4P` |  |
+| Phase transition | 1593.15 K | 1593.15 | congruent melting: L = CaSi; _L: Si 0.5; CaSi: Si 0.5_ | experimental | [1] Gröbner 2003; _cites Manfrinetti 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900112-0) | Table 2, p. 4, row 2; `ORC-7PBH2HMRXD` |  |
 
 ## Sources
 
@@ -239,4 +239,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

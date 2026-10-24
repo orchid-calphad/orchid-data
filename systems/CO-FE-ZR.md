@@ -26,19 +26,19 @@ Table: Invariant reactions reported in the literature for the Co–Fe–Zr syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1705 | peritectic: liq. + λ2 ↔ CoZr | L: Co 0.407, Fe 0.057, Zr 0.536 | model | [1] Zhou 2021 | Table 5, p. 11, row 1 |  |
-| 1627 | peritectic: liq. + λ2 ↔ Fe23Zr6 | L: Co 0.175, Fe 0.732, Zr 0.093 | model | [1] Zhou 2021 | Table 5, p. 11, row 2 |  |
-| 1587 | eutectic: liq. ↔ Fe23Zr6 + fcc(Co,Fe) | L: Co 0.13, Fe 0.787, Zr 0.083 | model | [1] Zhou 2021 | Table 5, p. 11, row 3 |  |
-| 1579 | quasi-peritectic: liq. + Fe23Zr6 ↔ λ2 + fcc(Co,Fe) | L: Co 0.038, Fe 0.872, Zr 0.09 | model | [1] Zhou 2021 | Table 5, p. 11, row 8 |  |
-| 1577 | eutectic: liq. ↔ λ2 + λ3 + fcc(Co,Fe) | L: Co 0.003, Fe 0.905, Zr 0.092 | model | [1] Zhou 2021 | Table 5, p. 11, row 9 |  |
-| 1559 | quasi-peritectic: liq. + Fe23Zr6 ↔ λ2 + fcc(Co,Fe) | L: Co 0.479, Fe 0.444, Zr 0.077 | model | [1] Zhou 2021 | Table 5, p. 11, row 10 |  |
-| 1557 | peritectic: liq. + λ2 + fcc(Co,Fe) ↔ Co23Zr6 | L: Co 0.506, Fe 0.417, Zr 0.077 | model | [1] Zhou 2021 | Table 5, p. 11, row 11 |  |
-| 1556 | eutectic: liq. ↔ λ2 + Co23Zr6 | L: Co 0.522, Fe 0.4, Zr 0.078 | model | [1] Zhou 2021 | Table 5, p. 11, row 4 |  |
-| 1543 | eutectic: liq. ↔ Co23Zr6 + Co11Zr2 | L: Co 0.837, Fe 0.056, Zr 0.107 | model | [1] Zhou 2021 | Table 5, p. 11, row 5 |  |
-| 1525 | quasi-peritectic: liq. + Co23Zr6 ↔ Co11Zr2+ fcc(Co,Fe) | L: Co 0.74, Fe 0.174, Zr 0.086 | model | [1] Zhou 2021 | Table 5, p. 11, row 12 |  |
-| 1408 | peritectic: liq. + CoZr ↔ (Co,Fe)Zr2 | L: Co 0.217, Fe 0.137, Zr 0.646 | model | [1] Zhou 2021 | Table 5, p. 11, row 6 |  |
-| 1402 | peritectic: liq. + λ2 ↔ (Co,Fe)Zr2 | L: Co 0.184, Fe 0.177, Zr 0.639 | model | [1] Zhou 2021 | Table 5, p. 11, row 7 |  |
-| 1401 | eutectic: liq. ↔ (Co,Fe)Zr2 + CoZr + λ2 | L: Co 0.195, Fe 0.166, Zr 0.639 | model | [1] Zhou 2021 | Table 5, p. 11, row 13 |  |
+| 1705 | peritectic: liq. + λ2 ↔ CoZr | L: Co 0.407, Fe 0.057, Zr 0.536 | model | [1] Zhou 2021 | Table 5, p. 11, row 1; `ORC-BOPNWQPS7A` |  |
+| 1627 | peritectic: liq. + λ2 ↔ Fe23Zr6 | L: Co 0.175, Fe 0.732, Zr 0.093 | model | [1] Zhou 2021 | Table 5, p. 11, row 2; `ORC-ZJ3CESGRJA` |  |
+| 1587 | eutectic: liq. ↔ Fe23Zr6 + fcc(Co,Fe) | L: Co 0.13, Fe 0.787, Zr 0.083 | model | [1] Zhou 2021 | Table 5, p. 11, row 3; `ORC-57RXOXPRCF` |  |
+| 1579 | quasi-peritectic: liq. + Fe23Zr6 ↔ λ2 + fcc(Co,Fe) | L: Co 0.038, Fe 0.872, Zr 0.09 | model | [1] Zhou 2021 | Table 5, p. 11, row 8; `ORC-V3DDXXFYEM` |  |
+| 1577 | eutectic: liq. ↔ λ2 + λ3 + fcc(Co,Fe) | L: Co 0.003, Fe 0.905, Zr 0.092 | model | [1] Zhou 2021 | Table 5, p. 11, row 9; `ORC-5IJEF5KFOZ` |  |
+| 1559 | quasi-peritectic: liq. + Fe23Zr6 ↔ λ2 + fcc(Co,Fe) | L: Co 0.479, Fe 0.444, Zr 0.077 | model | [1] Zhou 2021 | Table 5, p. 11, row 10; `ORC-GNQ42LO3IP` |  |
+| 1557 | peritectic: liq. + λ2 + fcc(Co,Fe) ↔ Co23Zr6 | L: Co 0.506, Fe 0.417, Zr 0.077 | model | [1] Zhou 2021 | Table 5, p. 11, row 11; `ORC-U2OVTC36OI` |  |
+| 1556 | eutectic: liq. ↔ λ2 + Co23Zr6 | L: Co 0.522, Fe 0.4, Zr 0.078 | model | [1] Zhou 2021 | Table 5, p. 11, row 4; `ORC-VRSLEAE5SN` |  |
+| 1543 | eutectic: liq. ↔ Co23Zr6 + Co11Zr2 | L: Co 0.837, Fe 0.056, Zr 0.107 | model | [1] Zhou 2021 | Table 5, p. 11, row 5; `ORC-RW2XD7EWDA` |  |
+| 1525 | quasi-peritectic: liq. + Co23Zr6 ↔ Co11Zr2+ fcc(Co,Fe) | L: Co 0.74, Fe 0.174, Zr 0.086 | model | [1] Zhou 2021 | Table 5, p. 11, row 12; `ORC-KOZAMECO4W` |  |
+| 1408 | peritectic: liq. + CoZr ↔ (Co,Fe)Zr2 | L: Co 0.217, Fe 0.137, Zr 0.646 | model | [1] Zhou 2021 | Table 5, p. 11, row 6; `ORC-LO5K6PNDTW` |  |
+| 1402 | peritectic: liq. + λ2 ↔ (Co,Fe)Zr2 | L: Co 0.184, Fe 0.177, Zr 0.639 | model | [1] Zhou 2021 | Table 5, p. 11, row 7; `ORC-ZSV3Y7CY5S` |  |
+| 1401 | eutectic: liq. ↔ (Co,Fe)Zr2 + CoZr + λ2 | L: Co 0.195, Fe 0.166, Zr 0.639 | model | [1] Zhou 2021 | Table 5, p. 11, row 13; `ORC-MIPVZUJ7IX` |  |
 
 ## Sources
 
@@ -81,4 +81,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

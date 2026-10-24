@@ -14,12 +14,12 @@ Table: Enthalpy of formation of Ca5Pb3 reported in the literature (6)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -56 kJ/mol-atom ± 5 | Ca5Pb3 | 300 | experimental | Solution calorimetry | [Ca–Pb](https://data.orchid-project.org/systems/CA-PB.html) | [1] Idbenali 2008; _cites Notin 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990177-x) | Table 5, p. 8, row 7 |  |
-| -56 kJ/mol-atom ± 1 | Ca5Pb3 | 300 | experimental | dissolution calorimetry | [Ca–Pb](https://data.orchid-project.org/systems/CA-PB.html) | [2] Cartigny 2004; _cites Bouirden 1984_ | Table 2, p. 3, row 5 |  |
-| -56 kJ/mol-atom ± 1 | Ca5Pb3 | 300 | experimental | Dissolution calorimetry | [Ca–Pb](https://data.orchid-project.org/systems/CA-PB.html) | [1] Idbenali 2008; _cites Bouirden 1984_ | Table 5, p. 8, row 6 |  |
-| -69.354 kJ/mol-atom | Ca5Pb3 | 300 | model |  | [Ca–Pb](https://data.orchid-project.org/systems/CA-PB.html) | [2] Cartigny 2004 | Table 2, p. 3, row 6 |  |
-| -69.354 kJ/mol-atom | Ca5Pb3 | 300 | model | Optimization | [Ca–Pb](https://data.orchid-project.org/systems/CA-PB.html) | [1] Idbenali 2008; _cites Cartigny 2004_ [doi](https://doi.org/10.1016/j.tca.2004.01.001) | Table 5, p. 8, row 8 |  |
-| -64.032 kJ/mol-atom | Ca5Pb3 | 300 | model | Optimization | [Ca–Pb](https://data.orchid-project.org/systems/CA-PB.html) | [1] Idbenali 2008 | Table 5, p. 8, row 9 |  |
+| -56 kJ/mol-atom ± 5 | Ca5Pb3 | 300 | experimental | Solution calorimetry | [Ca–Pb](https://data.orchid-project.org/systems/CA-PB.html) | [1] Idbenali 2008; _cites Notin 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990177-x) | Table 5, p. 8, row 7; `ORC-CMPX5LC4JT` |  |
+| -56 kJ/mol-atom ± 1 | Ca5Pb3 | 300 | experimental | dissolution calorimetry | [Ca–Pb](https://data.orchid-project.org/systems/CA-PB.html) | [2] Cartigny 2004; _cites Bouirden 1984_ | Table 2, p. 3, row 5; `ORC-JCGTLRZTGV` |  |
+| -56 kJ/mol-atom ± 1 | Ca5Pb3 | 300 | experimental | Dissolution calorimetry | [Ca–Pb](https://data.orchid-project.org/systems/CA-PB.html) | [1] Idbenali 2008; _cites Bouirden 1984_ | Table 5, p. 8, row 6; `ORC-PMP6WF4RGT` |  |
+| -69.354 kJ/mol-atom | Ca5Pb3 | 300 | model |  | [Ca–Pb](https://data.orchid-project.org/systems/CA-PB.html) | [2] Cartigny 2004 | Table 2, p. 3, row 6; `ORC-462CZOYKID` |  |
+| -69.354 kJ/mol-atom | Ca5Pb3 | 300 | model | Optimization | [Ca–Pb](https://data.orchid-project.org/systems/CA-PB.html) | [1] Idbenali 2008; _cites Cartigny 2004_ [doi](https://doi.org/10.1016/j.tca.2004.01.001) | Table 5, p. 8, row 8; `ORC-YWMZKKVX56` |  |
+| -64.032 kJ/mol-atom | Ca5Pb3 | 300 | model | Optimization | [Ca–Pb](https://data.orchid-project.org/systems/CA-PB.html) | [1] Idbenali 2008 | Table 5, p. 8, row 9; `ORC-PG4UPJCWGB` |  |
 
 ### Uncertainty budget
 
@@ -101,4 +101,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

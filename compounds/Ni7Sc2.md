@@ -14,13 +14,13 @@ Table: Enthalpy of formation of Ni7Sc2 reported in the literature (7)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -33 kJ/mol-atom | Ni7Sc2 | 298.15 | model | Interpolation | [Ni–Sc](https://data.orchid-project.org/systems/NI-SC.html) | [1] Kardellass 2013 | Table 2, p. 3, row 4 |  |
-| -33 kJ/mol-atom | Sc2Ni7 | 298.15 | model | Interpolation | [Ni–Sc](https://data.orchid-project.org/systems/NI-SC.html) | [2] Zhu 2015; _cites Kardellass 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.003) | Table 2, p. 3, row 5 |  |
-| -27.129 kJ/mol-atom | Sc2Ni7 | 298.15 | model | Associate model | [Ni–Sc](https://data.orchid-project.org/systems/NI-SC.html) | [2] Zhu 2015 | Table 2, p. 3, row 8 |  |
-| -25.75 kJ/mol-atom | Ni7Sc2 | 298.15 | model | Optimization | [Ni–Sc](https://data.orchid-project.org/systems/NI-SC.html) | [1] Kardellass 2013 | Table 2, p. 3, row 6 |  |
-| -24.45 kJ/mol-atom | Ni7Sc2 | 298.15 | model | Optimization | [Ni–Sc](https://data.orchid-project.org/systems/NI-SC.html) | [1] Kardellass 2013 | Table 2, p. 3, row 5 |  |
-| -24.319 kJ/mol-atom | Sc2Ni7 | 298.15 | model | Kaptay model | [Ni–Sc](https://data.orchid-project.org/systems/NI-SC.html) | [2] Zhu 2015; _cites Kardellass 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.003) | Table 2, p. 3, row 7 |  |
-| -23.019 kJ/mol-atom | Sc2Ni7 | 298.15 | model | Redich–Kister model | [Ni–Sc](https://data.orchid-project.org/systems/NI-SC.html) | [2] Zhu 2015; _cites Kardellass 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.003) | Table 2, p. 3, row 6 |  |
+| -33 kJ/mol-atom | Ni7Sc2 | 298.15 | model | Interpolation | [Ni–Sc](https://data.orchid-project.org/systems/NI-SC.html) | [1] Kardellass 2013 | Table 2, p. 3, row 4; `ORC-6X2XF4EHKJ` |  |
+| -33 kJ/mol-atom | Sc2Ni7 | 298.15 | model | Interpolation | [Ni–Sc](https://data.orchid-project.org/systems/NI-SC.html) | [2] Zhu 2015; _cites Kardellass 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.003) | Table 2, p. 3, row 5; `ORC-JQHZES3A5L` |  |
+| -27.129 kJ/mol-atom | Sc2Ni7 | 298.15 | model | Associate model | [Ni–Sc](https://data.orchid-project.org/systems/NI-SC.html) | [2] Zhu 2015 | Table 2, p. 3, row 8; `ORC-E4XZA626BF` |  |
+| -25.75 kJ/mol-atom | Ni7Sc2 | 298.15 | model | Optimization | [Ni–Sc](https://data.orchid-project.org/systems/NI-SC.html) | [1] Kardellass 2013 | Table 2, p. 3, row 6; `ORC-RVJ54JBE3W` |  |
+| -24.45 kJ/mol-atom | Ni7Sc2 | 298.15 | model | Optimization | [Ni–Sc](https://data.orchid-project.org/systems/NI-SC.html) | [1] Kardellass 2013 | Table 2, p. 3, row 5; `ORC-YHF43MP3ET` |  |
+| -24.319 kJ/mol-atom | Sc2Ni7 | 298.15 | model | Kaptay model | [Ni–Sc](https://data.orchid-project.org/systems/NI-SC.html) | [2] Zhu 2015; _cites Kardellass 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.003) | Table 2, p. 3, row 7; `ORC-52JZHLHQYZ` |  |
+| -23.019 kJ/mol-atom | Sc2Ni7 | 298.15 | model | Redich–Kister model | [Ni–Sc](https://data.orchid-project.org/systems/NI-SC.html) | [2] Zhu 2015; _cites Kardellass 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.003) | Table 2, p. 3, row 6; `ORC-PXT3CD3SBO` |  |
 
 ### Uncertainty budget
 
@@ -103,4 +103,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

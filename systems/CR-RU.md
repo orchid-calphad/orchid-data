@@ -62,31 +62,31 @@ Table: Invariant reactions reported in the literature for the Cr–Ru system (25
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1888 | eutectic: L ↔ bcc(Cr) + hcp (Ru) | L: Ru 0.368; bcc(Cr): Ru 0.317; hcp (Ru): Ru 0.466 | model | [1] Zhu 2015 | Table 2, p. 3, row 4 |  |
-| 1884 | eutectic: L ↔ bcc(Cr) + hcp (Ru) | L: Ru 0.367; bcc(Cr): Ru 0.315; hcp (Ru): Ru 0.471 | unspecified | [1] Zhu 2015; _cites Zhu 2008_ | Table 2, p. 3, row 3 |  |
-| 1883.15 | eutectic |  | experimental | [2] WATSON 2006; _cites ref. 3_ | p. 2 | “The system comprises large terminal solid solutions of chromium and ruthenium ((Cr) & (Ru)) and associated with them is a eutectic reaction at 1610°C.” |
-| 1883 | eutectic: L ↔ bcc(Cr) + hcp (Ru) | L: Ru 0.37; bcc(Cr): Ru 0.32; hcp (Ru): Ru 0.48 | unspecified | [1] Zhu 2015; _cites Venkatraman 1987_ [doi](https://doi.org/10.1007/bf02873189) | Table 2, p. 3, row 1 |  |
-| 1881 | eutectic: L ↔ bcc(Cr) + hcp (Ru) | L: Ru 0.373; bcc(Cr): Ru 0.321; hcp (Ru): Ru 0.516 | unspecified | [1] Zhu 2015; _cites Chevalier 2007_ | Table 2, p. 3, row 2 |  |
-| 1858 | peritectoid: bcc (Cr) + hcp (Ru) ↔ σ | bcc (Cr): Ru 0.312; hcp (Ru): Ru 0.471; σ: Ru 0.347 | unspecified | [1] Zhu 2015; _cites Zhu 2008_ | Table 2, p. 3, row 6 |  |
-| 1853.15 | peritectoid: (Cr) + (Ru) -> Cr2Ru | (Cr): Ru 0.32; (Ru): Ru 0.48; Cr2Ru: Ru 0.33 | unspecified | [2] WATSON 2006; _cites ref. 3_ | Table 1, p. 3, row 13 |  |
-| 1853 | peritectoid: bcc (Cr) + hcp (Ru) ↔ σ | bcc (Cr): Ru 0.313; hcp (Ru): Ru 0.47; σ: Ru 0.342 | model | [1] Zhu 2015 | Table 2, p. 3, row 7 |  |
-| 1853 | peritectoid: bcc (Cr) + hcp (Ru) ↔ σ | bcc (Cr): Ru 0.32; hcp (Ru): Ru 0.48; σ: Ru 0.33 | unspecified | [1] Zhu 2015; _cites Venkatraman 1987_ [doi](https://doi.org/10.1007/bf02873189) | Table 2, p. 3, row 5 |  |
-| 1851.15 | peritectoid: (Cr) + (Ru) -> Cr2Ru | (Cr): Ru 0.324; (Ru): Ru 0.484; Cr2Ru: Ru 0.333 | unspecified | [2] WATSON 2006 | Table 1, p. 3, row 14 |  |
-| 1273.15 | peritectoid: (Cr) + Cr2Ru -> Cr3Ru | (Cr): Ru 0.23; Cr2Ru: Ru 0.33; Cr3Ru: Ru 0.32 | unspecified | [2] WATSON 2006; _cites ref. 3_ | Table 1, p. 3, row 15 |  |
-| 1273 | peritectoid: bcc (Cr) + σ ↔ Cr3Ru | bcc (Cr): Ru 0.223; σ: Ru 0.32; Cr3Ru: Ru 0.315 | model | [1] Zhu 2015 | Table 2, p. 3, row 10 |  |
-| 1273 | peritectoid: bcc (Cr) + σ ↔ Cr3Ru | bcc (Cr): Ru 0.23; σ: Ru 0.32; Cr3Ru: Ru 0.315 | unspecified | [1] Zhu 2015; _cites Venkatraman 1987_ [doi](https://doi.org/10.1007/bf02873189) | Table 2, p. 3, row 8 |  |
-| 1268 | peritectoid: bcc (Cr) + σ ↔ Cr3Ru | bcc (Cr): Ru 0.226; σ: Ru 0.329; Cr3Ru: Ru 0.315 | unspecified | [1] Zhu 2015; _cites Zhu 2008_ | Table 2, p. 3, row 9 |  |
-| 1259.05 | peritectoid: (Cr) + Cr2Ru -> Cr3Ru | (Cr): Ru 0.221; Cr2Ru: Ru 0.333; Cr3Ru: Ru 0.26 | unspecified | [2] WATSON 2006 | Table 1, p. 3, row 16 |  |
-| 1100 | eutectic: σ ↔ Cr3Ru + hcp (Ru) | σ: Ru 0.335; Cr3Ru: Ru 0.315; hcp (Ru): Ru 0.508 | unspecified | [1] Zhu 2015; _cites Zhu 2008_ | Table 2, p. 3, row 12 |  |
-| 1076.85 | eutectoid: Cr2Ru -> Cr3Ru + (Ru) | Cr2Ru: Ru 0.333; Cr3Ru: Ru 0.257; (Ru): Ru 0.506 | unspecified | [2] WATSON 2006 | Table 1, p. 3, row 18 |  |
-| 1073.15 | eutectoid: Cr2Ru -> Cr3Ru + (Ru) | Cr2Ru: Ru 0.33; Cr3Ru: Ru 0.32; (Ru): Ru 0.5 | unspecified | [2] WATSON 2006; _cites ref. 3_ | Table 1, p. 3, row 17 |  |
-| 1073 | eutectic: σ ↔ Cr3Ru + hcp (Ru) | σ: Ru 0.341; Cr3Ru: Ru 0.315; hcp (Ru): Ru 0.594 | model | [1] Zhu 2015 | Table 2, p. 3, row 13 |  |
-| 1073 | eutectic: σ ↔ Cr3Ru + hcp (Ru) | σ: Ru 0.33; Cr3Ru: Ru 0.315; hcp (Ru): Ru 0.5 | unspecified | [1] Zhu 2015; _cites Venkatraman 1987_ [doi](https://doi.org/10.1007/bf02873189) | Table 2, p. 3, row 11 |  |
-| 1053 | eutectic: Cr3Ru ↔ bcc (Cr) + hcp (Ru) | Cr3Ru: Ru 0.315; bcc (Cr): Ru 0.202; hcp (Ru): Ru 0.512 | unspecified | [1] Zhu 2015; _cites Zhu 2008_ | Table 2, p. 3, row 15 |  |
-| 1024.15 | eutectoid: Cr3Ru -> (Cr) + (Ru) | Cr3Ru: Ru 0.256; (Cr): Ru 0.19; (Ru): Ru 0.512 | unspecified | [2] WATSON 2006 | Table 1, p. 3, row 20 |  |
-| 1023.15 | eutectoid: Cr3Ru -> (Cr) + (Ru) | Cr3Ru: Ru 0.32; (Cr): Ru 0.18; (Ru): Ru 0.51 | unspecified | [2] WATSON 2006; _cites ref. 3_ | Table 1, p. 3, row 19 |  |
-| 1023 | eutectic: Cr3Ru ↔ bcc (Cr) + hcp (Ru) | Cr3Ru: Ru 0.315; bcc (Cr): Ru 0.18; hcp (Ru): Ru 0.51 | unspecified | [1] Zhu 2015; _cites Venkatraman 1987_ [doi](https://doi.org/10.1007/bf02873189) | Table 2, p. 3, row 14 |  |
-| 1022 | eutectic: Cr3Ru ↔ bcc (Cr) + hcp (Ru) | Cr3Ru: Ru 0.315; bcc (Cr): Ru 0.192; hcp (Ru): Ru 0.601 | model | [1] Zhu 2015 | Table 2, p. 3, row 16 |  |
+| 1888 | eutectic: L ↔ bcc(Cr) + hcp (Ru) | L: Ru 0.368; bcc(Cr): Ru 0.317; hcp (Ru): Ru 0.466 | model | [1] Zhu 2015 | Table 2, p. 3, row 4; `ORC-RTHHUGGRTT` |  |
+| 1884 | eutectic: L ↔ bcc(Cr) + hcp (Ru) | L: Ru 0.367; bcc(Cr): Ru 0.315; hcp (Ru): Ru 0.471 | unspecified | [1] Zhu 2015; _cites Zhu 2008_ | Table 2, p. 3, row 3; `ORC-I56XVECUUP` |  |
+| 1883.15 | eutectic |  | experimental | [2] WATSON 2006; _cites ref. 3_ | p. 2; `ORC-X3EAK2OUOC` | “The system comprises large terminal solid solutions of chromium and ruthenium ((Cr) & (Ru)) and associated with them is a eutectic reaction at 1610°C.” |
+| 1883 | eutectic: L ↔ bcc(Cr) + hcp (Ru) | L: Ru 0.37; bcc(Cr): Ru 0.32; hcp (Ru): Ru 0.48 | unspecified | [1] Zhu 2015; _cites Venkatraman 1987_ [doi](https://doi.org/10.1007/bf02873189) | Table 2, p. 3, row 1; `ORC-LVBKCVWR6O` |  |
+| 1881 | eutectic: L ↔ bcc(Cr) + hcp (Ru) | L: Ru 0.373; bcc(Cr): Ru 0.321; hcp (Ru): Ru 0.516 | unspecified | [1] Zhu 2015; _cites Chevalier 2007_ | Table 2, p. 3, row 2; `ORC-HC3ED423NI` |  |
+| 1858 | peritectoid: bcc (Cr) + hcp (Ru) ↔ σ | bcc (Cr): Ru 0.312; hcp (Ru): Ru 0.471; σ: Ru 0.347 | unspecified | [1] Zhu 2015; _cites Zhu 2008_ | Table 2, p. 3, row 6; `ORC-VJ7VWXVIYI` |  |
+| 1853.15 | peritectoid: (Cr) + (Ru) -> Cr2Ru | (Cr): Ru 0.32; (Ru): Ru 0.48; Cr2Ru: Ru 0.33 | unspecified | [2] WATSON 2006; _cites ref. 3_ | Table 1, p. 3, row 13; `ORC-OJFB6EKF6N` |  |
+| 1853 | peritectoid: bcc (Cr) + hcp (Ru) ↔ σ | bcc (Cr): Ru 0.313; hcp (Ru): Ru 0.47; σ: Ru 0.342 | model | [1] Zhu 2015 | Table 2, p. 3, row 7; `ORC-BQ3PVFM2GZ` |  |
+| 1853 | peritectoid: bcc (Cr) + hcp (Ru) ↔ σ | bcc (Cr): Ru 0.32; hcp (Ru): Ru 0.48; σ: Ru 0.33 | unspecified | [1] Zhu 2015; _cites Venkatraman 1987_ [doi](https://doi.org/10.1007/bf02873189) | Table 2, p. 3, row 5; `ORC-VUNMIFSEET` |  |
+| 1851.15 | peritectoid: (Cr) + (Ru) -> Cr2Ru | (Cr): Ru 0.324; (Ru): Ru 0.484; Cr2Ru: Ru 0.333 | unspecified | [2] WATSON 2006 | Table 1, p. 3, row 14; `ORC-IG6WCIDDVS` |  |
+| 1273.15 | peritectoid: (Cr) + Cr2Ru -> Cr3Ru | (Cr): Ru 0.23; Cr2Ru: Ru 0.33; Cr3Ru: Ru 0.32 | unspecified | [2] WATSON 2006; _cites ref. 3_ | Table 1, p. 3, row 15; `ORC-G5XILJWBS7` |  |
+| 1273 | peritectoid: bcc (Cr) + σ ↔ Cr3Ru | bcc (Cr): Ru 0.223; σ: Ru 0.32; Cr3Ru: Ru 0.315 | model | [1] Zhu 2015 | Table 2, p. 3, row 10; `ORC-7EVXCSPX4Z` |  |
+| 1273 | peritectoid: bcc (Cr) + σ ↔ Cr3Ru | bcc (Cr): Ru 0.23; σ: Ru 0.32; Cr3Ru: Ru 0.315 | unspecified | [1] Zhu 2015; _cites Venkatraman 1987_ [doi](https://doi.org/10.1007/bf02873189) | Table 2, p. 3, row 8; `ORC-STRNDOA73I` |  |
+| 1268 | peritectoid: bcc (Cr) + σ ↔ Cr3Ru | bcc (Cr): Ru 0.226; σ: Ru 0.329; Cr3Ru: Ru 0.315 | unspecified | [1] Zhu 2015; _cites Zhu 2008_ | Table 2, p. 3, row 9; `ORC-NV6SBDYNBQ` |  |
+| 1259.05 | peritectoid: (Cr) + Cr2Ru -> Cr3Ru | (Cr): Ru 0.221; Cr2Ru: Ru 0.333; Cr3Ru: Ru 0.26 | unspecified | [2] WATSON 2006 | Table 1, p. 3, row 16; `ORC-FYUVQELA3D` |  |
+| 1100 | eutectic: σ ↔ Cr3Ru + hcp (Ru) | σ: Ru 0.335; Cr3Ru: Ru 0.315; hcp (Ru): Ru 0.508 | unspecified | [1] Zhu 2015; _cites Zhu 2008_ | Table 2, p. 3, row 12; `ORC-MSB6PQVOWM` |  |
+| 1076.85 | eutectoid: Cr2Ru -> Cr3Ru + (Ru) | Cr2Ru: Ru 0.333; Cr3Ru: Ru 0.257; (Ru): Ru 0.506 | unspecified | [2] WATSON 2006 | Table 1, p. 3, row 18; `ORC-HRJHX64HF7` |  |
+| 1073.15 | eutectoid: Cr2Ru -> Cr3Ru + (Ru) | Cr2Ru: Ru 0.33; Cr3Ru: Ru 0.32; (Ru): Ru 0.5 | unspecified | [2] WATSON 2006; _cites ref. 3_ | Table 1, p. 3, row 17; `ORC-EEE66N2R7M` |  |
+| 1073 | eutectic: σ ↔ Cr3Ru + hcp (Ru) | σ: Ru 0.341; Cr3Ru: Ru 0.315; hcp (Ru): Ru 0.594 | model | [1] Zhu 2015 | Table 2, p. 3, row 13; `ORC-26UCRKYQVK` |  |
+| 1073 | eutectic: σ ↔ Cr3Ru + hcp (Ru) | σ: Ru 0.33; Cr3Ru: Ru 0.315; hcp (Ru): Ru 0.5 | unspecified | [1] Zhu 2015; _cites Venkatraman 1987_ [doi](https://doi.org/10.1007/bf02873189) | Table 2, p. 3, row 11; `ORC-3RGB3MFBP7` |  |
+| 1053 | eutectic: Cr3Ru ↔ bcc (Cr) + hcp (Ru) | Cr3Ru: Ru 0.315; bcc (Cr): Ru 0.202; hcp (Ru): Ru 0.512 | unspecified | [1] Zhu 2015; _cites Zhu 2008_ | Table 2, p. 3, row 15; `ORC-JR3H7NEYCH` |  |
+| 1024.15 | eutectoid: Cr3Ru -> (Cr) + (Ru) | Cr3Ru: Ru 0.256; (Cr): Ru 0.19; (Ru): Ru 0.512 | unspecified | [2] WATSON 2006 | Table 1, p. 3, row 20; `ORC-366NDK4UPF` |  |
+| 1023.15 | eutectoid: Cr3Ru -> (Cr) + (Ru) | Cr3Ru: Ru 0.32; (Cr): Ru 0.18; (Ru): Ru 0.51 | unspecified | [2] WATSON 2006; _cites ref. 3_ | Table 1, p. 3, row 19; `ORC-B23RS42KCB` |  |
+| 1023 | eutectic: Cr3Ru ↔ bcc (Cr) + hcp (Ru) | Cr3Ru: Ru 0.315; bcc (Cr): Ru 0.18; hcp (Ru): Ru 0.51 | unspecified | [1] Zhu 2015; _cites Venkatraman 1987_ [doi](https://doi.org/10.1007/bf02873189) | Table 2, p. 3, row 14; `ORC-YWPDSTIVRY` |  |
+| 1022 | eutectic: Cr3Ru ↔ bcc (Cr) + hcp (Ru) | Cr3Ru: Ru 0.315; bcc (Cr): Ru 0.192; hcp (Ru): Ru 0.601 | model | [1] Zhu 2015 | Table 2, p. 3, row 16; `ORC-GGANRZQVQ7` |  |
 
 ## Sources
 
@@ -152,4 +152,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

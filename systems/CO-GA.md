@@ -59,33 +59,33 @@ Table: Invariant reactions reported in the literature for the Co–Ga system (27
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1483 | Liq. + fcc ↔ β | Liq.: Ga 0.265; fcc: Ga 0.19; β: Ga 0.265 | experimental | [1] Chari 2010; _cites Feschotte 1979_ | Table 4, p. 6, row 3 |  |
-| 1483 | Liq. + fcc ↔ β | Liq.: Ga 0.3136; fcc: Ga 0.1897; β: Ga 0.2705 | model | [1] Chari 2010; _cites Su 2005_ | Table 4, p. 6, row 2 |  |
-| 1483 | Liq. + (αCo) -> β | Liq.: Ga 0.265; (αCo): Ga 0.19; β: Ga 0.265 | experimental | [2] Su 2005; _cites ref. 79Fes_ | Table 2, p. 4, row 2 |  |
-| 1483 | Liq. + (αCo) -> β | Liq.: Ga 0.3136; (αCo): Ga 0.1897; β: Ga 0.2705 | model | [2] Su 2005 | Table 2, p. 4, row 1 |  |
-| 1483 | peritectic |  | experimental | [2] Su 2005; _cites Feschotte 1975_ | p. 3 | “The compound b decomposes in a peritectic reaction. The reported melting temperatures are 1450 K \[6\], 1480 K \[8\] and 1483 K \[5\].” |
-| 1483 | peritectic: Liq + fcc → β |  | experimental | [1] Chari 2010; _cites Feschotte 1979_ | p. 3 | “The β phase has a wide homogeneity range and decomposes in the peritectic reaction Liq + fcc → β . The temperature of this reaction is taken as 1483 K \[5\].” |
-| 1482 | Liq. + fcc ↔ β | Liq.: Ga 0.3185; fcc: Ga 0.1966; β: Ga 0.2952 | model | [1] Chari 2010 | Table 4, p. 6, row 1 |  |
-| 1480 | Liq. + fcc ↔ β | Liq.: Ga 0.3; fcc: Ga 0.13; β: Ga 0.275 | experimental | [1] Chari 2010; _cites Esslinger 1957_ | Table 4, p. 6, row 4 |  |
-| 1480 | Liq. + (αCo) -> β | Liq.: Ga 0.3; (αCo): Ga 0.13; β: Ga 0.275 | experimental | [2] Su 2005; _cites ref. 57Ess_ | Table 2, p. 4, row 3 |  |
-| 1480 | peritectic |  | model | [2] Su 2005; _cites Esslinger 1957_ | p. 3 | “The compound b decomposes in a peritectic reaction. The reported melting temperatures are 1450 K \[6\], 1480 K \[8\] and 1483 K \[5\].” |
-| 1450 | Liq. + (αCo) -> β | Liq.: Ga 0.51; (αCo): Ga 0.33; β: Ga 0.36 | experimental | [2] Su 2005; _cites ref. 80Lu_ | Table 2, p. 4, row 4 |  |
-| 1450 | Liq. + fcc ↔ β | Liq.: Ga 0.51; fcc: Ga 0.33; β: Ga 0.36 | experimental | [1] Chari 2010; _cites Lu 1980_ | Table 4, p. 6, row 5 |  |
-| 1450 | peritectic |  | experimental | [2] Su 2005; _cites Lu 1980_ | p. 3 | “The compound b decomposes in a peritectic reaction. The reported melting temperatures are 1450 K \[6\], 1480 K \[8\] and 1483 K \[5\].” |
-| 1128 | Liq. + β -> CoGa3 | Liq.: Ga 0.8; β: Ga 0.645; CoGa3: Co 0.25, Ga 0.75 | experimental | [2] Su 2005; _cites ref. 79Fes_ | Table 2, p. 4, row 6 |  |
-| 1128 | Liq. + β ↔ fcc | Liq.: Ga 0.8; β: Ga 0.645 | experimental | [1] Chari 2010; _cites Feschotte 1979_ | Table 4, p. 6, row 8 |  |
-| 1128 | Liq. + β ↔ fcc | Liq.: Ga 0.8355; β: Ga 0.6103 | model | [1] Chari 2010; _cites Su 2005_ | Table 4, p. 6, row 7 |  |
-| 1128 | Liq. + β -> CoGa3 | Liq.: Ga 0.8355; β: Ga 0.6103; CoGa3: Co 0.25, Ga 0.75 | model | [2] Su 2005 | Table 2, p. 4, row 5 |  |
-| 1120 | peritectic: Liq + β → CoGa3 |  | model | [1] Chari 2010 | p. 3 | “In this study, CoGa3 is taken as a stoichiometric compound with the crystal structure tP16 which decomposes in the peritectic reaction Liq + β → CoGa3 . The temperature at which this reaction takes place is taken as 1120 K.” |
-| 1120 | Liq. + β ↔ fcc | Liq.: Ga 0.8397; β: Ga 0.6186 | model | [1] Chari 2010 | Table 4, p. 6, row 6 |  |
-| 1111 | peritectic |  | model | [2] Su 2005; _cites Esslinger 1957_ | p. 3 | “CoGa3 is a stoichiometric compound with a tP16 crystal structure and it decomposes peritectically at 1106 K \[6\], 1111 K \[8\] or 1128 \[5\].” |
-| 1111 | Liq. + β ↔ fcc | Liq.: Ga 0.8; β: Ga 0.65 | experimental | [1] Chari 2010; _cites Esslinger 1957_ | Table 4, p. 6, row 9 |  |
-| 1111 | Liq. + β -> CoGa3 | Liq.: Ga 0.8; β: Ga 0.65; CoGa3: Co 0.25, Ga 0.75 | experimental | [2] Su 2005; _cites ref. 57Ess_ | Table 2, p. 4, row 7 |  |
-| 1106 | Liq. + β ↔ fcc | Liq.: Ga 0.85; β: Ga 0.63 | experimental | [1] Chari 2010; _cites Lu 1980_ | Table 4, p. 6, row 10 |  |
-| 1106 | peritectic |  | experimental | [2] Su 2005; _cites Lu 1980_ | p. 3 | “CoGa3 is a stoichiometric compound with a tP16 crystal structure and it decomposes peritectically at 1106 K \[6\], 1111 K \[8\] or 1128 \[5\].” |
-| 1106 | Liq. + β -> CoGa3 | Liq.: Ga 0.85; β: Ga 0.63; CoGa3: Co 0.25, Ga 0.75 | experimental | [2] Su 2005; _cites ref. 82Lu_ | Table 2, p. 4, row 8 |  |
-| 303.5 | Liq. + CoGa3 → Orthorhombic Ga | Liq.: Ga 1; CoGa3: Ga 0.75; Orthorhombic Ga: Ga 1 | experimental | [1] Chari 2010; _cites Feschotte 1979_ | Table 4, p. 6, row 12 |  |
-| 302.9 | Liq. + CoGa3 → Orthorhombic Ga | Liq.: Ga 1; CoGa3: Ga 0.75; Orthorhombic Ga: Ga 1 | model | [1] Chari 2010 | Table 4, p. 6, row 11 |  |
+| 1483 | Liq. + fcc ↔ β | Liq.: Ga 0.265; fcc: Ga 0.19; β: Ga 0.265 | experimental | [1] Chari 2010; _cites Feschotte 1979_ | Table 4, p. 6, row 3; `ORC-57OLQ3UZSY` |  |
+| 1483 | Liq. + fcc ↔ β | Liq.: Ga 0.3136; fcc: Ga 0.1897; β: Ga 0.2705 | model | [1] Chari 2010; _cites Su 2005_ | Table 4, p. 6, row 2; `ORC-7XX2OR45OP` |  |
+| 1483 | Liq. + (αCo) -> β | Liq.: Ga 0.265; (αCo): Ga 0.19; β: Ga 0.265 | experimental | [2] Su 2005; _cites ref. 79Fes_ | Table 2, p. 4, row 2; `ORC-EL3AF7O6D5` |  |
+| 1483 | Liq. + (αCo) -> β | Liq.: Ga 0.3136; (αCo): Ga 0.1897; β: Ga 0.2705 | model | [2] Su 2005 | Table 2, p. 4, row 1; `ORC-LOHOCUGRUX` |  |
+| 1483 | peritectic |  | experimental | [2] Su 2005; _cites Feschotte 1975_ | p. 3; `ORC-X25HC33BQW.f7c095` | “The compound b decomposes in a peritectic reaction. The reported melting temperatures are 1450 K \[6\], 1480 K \[8\] and 1483 K \[5\].” |
+| 1483 | peritectic: Liq + fcc → β |  | experimental | [1] Chari 2010; _cites Feschotte 1979_ | p. 3; `ORC-ZSDP42WGXX` | “The β phase has a wide homogeneity range and decomposes in the peritectic reaction Liq + fcc → β . The temperature of this reaction is taken as 1483 K \[5\].” |
+| 1482 | Liq. + fcc ↔ β | Liq.: Ga 0.3185; fcc: Ga 0.1966; β: Ga 0.2952 | model | [1] Chari 2010 | Table 4, p. 6, row 1; `ORC-VPOTG3CYZX` |  |
+| 1480 | Liq. + fcc ↔ β | Liq.: Ga 0.3; fcc: Ga 0.13; β: Ga 0.275 | experimental | [1] Chari 2010; _cites Esslinger 1957_ | Table 4, p. 6, row 4; `ORC-D6WNBGBJOB` |  |
+| 1480 | Liq. + (αCo) -> β | Liq.: Ga 0.3; (αCo): Ga 0.13; β: Ga 0.275 | experimental | [2] Su 2005; _cites ref. 57Ess_ | Table 2, p. 4, row 3; `ORC-JADTAFFN24` |  |
+| 1480 | peritectic |  | model | [2] Su 2005; _cites Esslinger 1957_ | p. 3; `ORC-X25HC33BQW.9d3597` | “The compound b decomposes in a peritectic reaction. The reported melting temperatures are 1450 K \[6\], 1480 K \[8\] and 1483 K \[5\].” |
+| 1450 | Liq. + (αCo) -> β | Liq.: Ga 0.51; (αCo): Ga 0.33; β: Ga 0.36 | experimental | [2] Su 2005; _cites ref. 80Lu_ | Table 2, p. 4, row 4; `ORC-6WHPPZVLIQ` |  |
+| 1450 | Liq. + fcc ↔ β | Liq.: Ga 0.51; fcc: Ga 0.33; β: Ga 0.36 | experimental | [1] Chari 2010; _cites Lu 1980_ | Table 4, p. 6, row 5; `ORC-VZGOVUAXK3` |  |
+| 1450 | peritectic |  | experimental | [2] Su 2005; _cites Lu 1980_ | p. 3; `ORC-X25HC33BQW.de8dca` | “The compound b decomposes in a peritectic reaction. The reported melting temperatures are 1450 K \[6\], 1480 K \[8\] and 1483 K \[5\].” |
+| 1128 | Liq. + β -> CoGa3 | Liq.: Ga 0.8; β: Ga 0.645; CoGa3: Co 0.25, Ga 0.75 | experimental | [2] Su 2005; _cites ref. 79Fes_ | Table 2, p. 4, row 6; `ORC-73HCJRFXGB` |  |
+| 1128 | Liq. + β ↔ fcc | Liq.: Ga 0.8; β: Ga 0.645 | experimental | [1] Chari 2010; _cites Feschotte 1979_ | Table 4, p. 6, row 8; `ORC-D3EBOT52SM` |  |
+| 1128 | Liq. + β ↔ fcc | Liq.: Ga 0.8355; β: Ga 0.6103 | model | [1] Chari 2010; _cites Su 2005_ | Table 4, p. 6, row 7; `ORC-KXEXPONCTO` |  |
+| 1128 | Liq. + β -> CoGa3 | Liq.: Ga 0.8355; β: Ga 0.6103; CoGa3: Co 0.25, Ga 0.75 | model | [2] Su 2005 | Table 2, p. 4, row 5; `ORC-P75GM6I2KE` |  |
+| 1120 | peritectic: Liq + β → CoGa3 |  | model | [1] Chari 2010 | p. 3; `ORC-4RDZBZB35P` | “In this study, CoGa3 is taken as a stoichiometric compound with the crystal structure tP16 which decomposes in the peritectic reaction Liq + β → CoGa3 . The temperature at which this reaction takes place is taken as 1120 K.” |
+| 1120 | Liq. + β ↔ fcc | Liq.: Ga 0.8397; β: Ga 0.6186 | model | [1] Chari 2010 | Table 4, p. 6, row 6; `ORC-6NJD4N45R6` |  |
+| 1111 | peritectic |  | model | [2] Su 2005; _cites Esslinger 1957_ | p. 3; `ORC-FGKDK67V5I.5b0388` | “CoGa3 is a stoichiometric compound with a tP16 crystal structure and it decomposes peritectically at 1106 K \[6\], 1111 K \[8\] or 1128 \[5\].” |
+| 1111 | Liq. + β ↔ fcc | Liq.: Ga 0.8; β: Ga 0.65 | experimental | [1] Chari 2010; _cites Esslinger 1957_ | Table 4, p. 6, row 9; `ORC-UCZO7ZVBCL` |  |
+| 1111 | Liq. + β -> CoGa3 | Liq.: Ga 0.8; β: Ga 0.65; CoGa3: Co 0.25, Ga 0.75 | experimental | [2] Su 2005; _cites ref. 57Ess_ | Table 2, p. 4, row 7; `ORC-XN2Y5VE4PE` |  |
+| 1106 | Liq. + β ↔ fcc | Liq.: Ga 0.85; β: Ga 0.63 | experimental | [1] Chari 2010; _cites Lu 1980_ | Table 4, p. 6, row 10; `ORC-DS3W366XFQ` |  |
+| 1106 | peritectic |  | experimental | [2] Su 2005; _cites Lu 1980_ | p. 3; `ORC-FGKDK67V5I.f5ac5c` | “CoGa3 is a stoichiometric compound with a tP16 crystal structure and it decomposes peritectically at 1106 K \[6\], 1111 K \[8\] or 1128 \[5\].” |
+| 1106 | Liq. + β -> CoGa3 | Liq.: Ga 0.85; β: Ga 0.63; CoGa3: Co 0.25, Ga 0.75 | experimental | [2] Su 2005; _cites ref. 82Lu_ | Table 2, p. 4, row 8; `ORC-H67MZGDJH3` |  |
+| 303.5 | Liq. + CoGa3 → Orthorhombic Ga | Liq.: Ga 1; CoGa3: Ga 0.75; Orthorhombic Ga: Ga 1 | experimental | [1] Chari 2010; _cites Feschotte 1979_ | Table 4, p. 6, row 12; `ORC-DGCPQPH5BW` |  |
+| 302.9 | Liq. + CoGa3 → Orthorhombic Ga | Liq.: Ga 1; CoGa3: Ga 0.75; Orthorhombic Ga: Ga 1 | model | [1] Chari 2010 | Table 4, p. 6, row 11; `ORC-WRE64NDREO` |  |
 
 ## Formation enthalpies
 
@@ -95,20 +95,20 @@ Table: Enthalpies of formation, Co–Ga system (14)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| CoGa | [CoGa](https://data.orchid-project.org/compounds/CoGa.html) | -41 kJ/mol-atom | 298.15 | experimental | -27.209 (mp-aaaaabrd) | -27.73 (oqmd-88346) | [3] Gröbner 1999; _cites Predel 1975_ [doi](https://doi.org/10.1016/0040-6031%2875%2985065-9) | Table 1, p. 2, row 20 |  |
-| CoGa | [CoGa](https://data.orchid-project.org/compounds/CoGa.html) | -38 kJ/mol-atom | 1173 | experimental | -27.209 (mp-aaaaabrd) | -27.73 (oqmd-88346) | [3] Gröbner 1999; _cites Mikula 1987_ | Table 1, p. 2, row 24 |  |
-| CoGa | [CoGa](https://data.orchid-project.org/compounds/CoGa.html) | -36 kJ/mol-atom | 1173 | experimental | -27.209 (mp-aaaaabrd) | -27.73 (oqmd-88346) | [3] Gröbner 1999; _cites Katayama 1975_ [doi](https://doi.org/10.2320/matertrans1960.16.423) | Table 1, p. 2, row 23 |  |
-| CoGa | [CoGa](https://data.orchid-project.org/compounds/CoGa.html) | -35.5 kJ/mol-atom | 298.15 | model | -27.209 (mp-aaaaabrd) | -27.73 (oqmd-88346) | [3] Gröbner 1999 | Table 1, p. 2, row 21 |  |
-| CoGa | [CoGa](https://data.orchid-project.org/compounds/CoGa.html) | -32 kJ/mol-atom | 1100 | experimental | -27.209 (mp-aaaaabrd) | -27.73 (oqmd-88346) | [3] Gröbner 1999; _cites Th 1982_ | Table 1, p. 2, row 22 |  |
-| CoGa3 | [CoGa3](https://data.orchid-project.org/compounds/CoGa3.html) | -45 kJ/mol-atom | 298.15 | experimental | -25.895 (mp-aaaabekt) | -25.771 (oqmd-29254) | [3] Gröbner 1999; _cites Predel 1975_ [doi](https://doi.org/10.1016/0040-6031%2875%2985065-9) | Table 1, p. 2, row 25 |  |
-| CoGa3 |  | -32.4 kJ/mol-atom | 298.15 | DFT |  |  | [1] Chari 2010 | Table 2, p. 4, row 8 |  |
-| CoGa3 | [CoGa3](https://data.orchid-project.org/compounds/CoGa3.html) | -29 kJ/mol-atom | 298.15 | model | -25.895 (mp-aaaabekt) | -25.771 (oqmd-29254) | [3] Gröbner 1999 | Table 1, p. 2, row 26 |  |
-| CoGa3 | [CoGa3](https://data.orchid-project.org/compounds/CoGa3.html) | -29 kJ/mol-atom | 1100 | experimental | -25.895 (mp-aaaabekt) | -25.771 (oqmd-29254) | [3] Gröbner 1999; _cites Th 1982_ | Table 1, p. 2, row 27 |  |
-| CoGa3 | [CoGa3](https://data.orchid-project.org/compounds/CoGa3.html) | -28.666 kJ/mol-atom | 298.15 | model | -25.895 (mp-aaaabekt) | -25.771 (oqmd-29254) | [1] Chari 2010 | Table 2, p. 4, row 9 |  |
-| CoGa3 |  | -25.9 kJ/mol-atom | 298.15 | DFT |  |  | [1] Chari 2010 | Table 2, p. 4, row 7 |  |
-| β (Ga:Co) |  | -39.4 kJ/mol-atom | 298.15 | DFT |  |  | [1] Chari 2010 | Table 2, p. 4, row 2 |  |
-| β (Ga:Co) |  | -37.833 kJ/mol-atom | 298.15 | model |  |  | [1] Chari 2010 | Table 2, p. 4, row 3 |  |
-| β (Ga:Co) |  | -26.9 kJ/mol-atom | 298.15 | DFT |  |  | [1] Chari 2010 | Table 2, p. 4, row 1 |  |
+| CoGa | [CoGa](https://data.orchid-project.org/compounds/CoGa.html) | -41 kJ/mol-atom | 298.15 | experimental | -27.209 (mp-aaaaabrd) | -27.73 (oqmd-88346) | [3] Gröbner 1999; _cites Predel 1975_ [doi](https://doi.org/10.1016/0040-6031%2875%2985065-9) | Table 1, p. 2, row 20; `ORC-2AHUOI7AKC` |  |
+| CoGa | [CoGa](https://data.orchid-project.org/compounds/CoGa.html) | -38 kJ/mol-atom | 1173 | experimental | -27.209 (mp-aaaaabrd) | -27.73 (oqmd-88346) | [3] Gröbner 1999; _cites Mikula 1987_ | Table 1, p. 2, row 24; `ORC-YJ23MHTUH6` |  |
+| CoGa | [CoGa](https://data.orchid-project.org/compounds/CoGa.html) | -36 kJ/mol-atom | 1173 | experimental | -27.209 (mp-aaaaabrd) | -27.73 (oqmd-88346) | [3] Gröbner 1999; _cites Katayama 1975_ [doi](https://doi.org/10.2320/matertrans1960.16.423) | Table 1, p. 2, row 23; `ORC-AUMME4732X` |  |
+| CoGa | [CoGa](https://data.orchid-project.org/compounds/CoGa.html) | -35.5 kJ/mol-atom | 298.15 | model | -27.209 (mp-aaaaabrd) | -27.73 (oqmd-88346) | [3] Gröbner 1999 | Table 1, p. 2, row 21; `ORC-C7ADQXQDBL` |  |
+| CoGa | [CoGa](https://data.orchid-project.org/compounds/CoGa.html) | -32 kJ/mol-atom | 1100 | experimental | -27.209 (mp-aaaaabrd) | -27.73 (oqmd-88346) | [3] Gröbner 1999; _cites Th 1982_ | Table 1, p. 2, row 22; `ORC-ER6MJZFTIS` |  |
+| CoGa3 | [CoGa3](https://data.orchid-project.org/compounds/CoGa3.html) | -45 kJ/mol-atom | 298.15 | experimental | -25.895 (mp-aaaabekt) | -25.771 (oqmd-29254) | [3] Gröbner 1999; _cites Predel 1975_ [doi](https://doi.org/10.1016/0040-6031%2875%2985065-9) | Table 1, p. 2, row 25; `ORC-WAGYNIIZWW` |  |
+| CoGa3 |  | -32.4 kJ/mol-atom | 298.15 | DFT |  |  | [1] Chari 2010 | Table 2, p. 4, row 8; `ORC-WE7SUXU7JE` |  |
+| CoGa3 | [CoGa3](https://data.orchid-project.org/compounds/CoGa3.html) | -29 kJ/mol-atom | 298.15 | model | -25.895 (mp-aaaabekt) | -25.771 (oqmd-29254) | [3] Gröbner 1999 | Table 1, p. 2, row 26; `ORC-H3FQUU327A` |  |
+| CoGa3 | [CoGa3](https://data.orchid-project.org/compounds/CoGa3.html) | -29 kJ/mol-atom | 1100 | experimental | -25.895 (mp-aaaabekt) | -25.771 (oqmd-29254) | [3] Gröbner 1999; _cites Th 1982_ | Table 1, p. 2, row 27; `ORC-OHFIJB3CH6` |  |
+| CoGa3 | [CoGa3](https://data.orchid-project.org/compounds/CoGa3.html) | -28.666 kJ/mol-atom | 298.15 | model | -25.895 (mp-aaaabekt) | -25.771 (oqmd-29254) | [1] Chari 2010 | Table 2, p. 4, row 9; `ORC-72ITFH677T` |  |
+| CoGa3 |  | -25.9 kJ/mol-atom | 298.15 | DFT |  |  | [1] Chari 2010 | Table 2, p. 4, row 7; `ORC-ZGNWM54HDH` |  |
+| β (Ga:Co) |  | -39.4 kJ/mol-atom | 298.15 | DFT |  |  | [1] Chari 2010 | Table 2, p. 4, row 2; `ORC-77VTAHJPPR` |  |
+| β (Ga:Co) |  | -37.833 kJ/mol-atom | 298.15 | model |  |  | [1] Chari 2010 | Table 2, p. 4, row 3; `ORC-OWSFSGWWJC` |  |
+| β (Ga:Co) |  | -26.9 kJ/mol-atom | 298.15 | DFT |  |  | [1] Chari 2010 | Table 2, p. 4, row 1; `ORC-FED66KUIGQ` |  |
 
 ## Other properties
 
@@ -118,11 +118,11 @@ Table: Phase transition, Co–Ga system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1106 K | 1106 | Liq + β → CoGa3 | experimental | [1] Chari 2010; _cites Lu 1980_ | p. 3 | “The other reported temperatures are 1106 K \[6\], 1111 K \[9\] and 1128 K \[5\].” |
-| Phase transition | 1111 K | 1111 | Liq + β → CoGa3 | experimental | [1] Chari 2010; _cites Esslinger 1957_ | p. 3 | “The other reported temperatures are 1106 K \[6\], 1111 K \[9\] and 1128 K \[5\].” |
-| Phase transition | 1128 K | 1128 | Liq + β → CoGa3 | experimental | [1] Chari 2010; _cites Feschotte 1979_ | p. 3 | “The other reported temperatures are 1106 K \[6\], 1111 K \[9\] and 1128 K \[5\].” |
-| Phase transition | 1450 K | 1450 |  | experimental | [1] Chari 2010; _cites Lu 1980_ | p. 3 | “The other reported temperatures are 1450 K\[6\] and 1480 K \[9\].” |
-| Phase transition | 1480 K | 1480 |  | experimental | [1] Chari 2010; _cites Esslinger 1957_ | p. 3 | “The other reported temperatures are 1450 K\[6\] and 1480 K \[9\].” |
+| Phase transition | 1106 K | 1106 | Liq + β → CoGa3 | experimental | [1] Chari 2010; _cites Lu 1980_ | p. 3; `ORC-3TML2LXOKH.77d63d` | “The other reported temperatures are 1106 K \[6\], 1111 K \[9\] and 1128 K \[5\].” |
+| Phase transition | 1111 K | 1111 | Liq + β → CoGa3 | experimental | [1] Chari 2010; _cites Esslinger 1957_ | p. 3; `ORC-3TML2LXOKH.e6797d` | “The other reported temperatures are 1106 K \[6\], 1111 K \[9\] and 1128 K \[5\].” |
+| Phase transition | 1128 K | 1128 | Liq + β → CoGa3 | experimental | [1] Chari 2010; _cites Feschotte 1979_ | p. 3; `ORC-3TML2LXOKH.c103de` | “The other reported temperatures are 1106 K \[6\], 1111 K \[9\] and 1128 K \[5\].” |
+| Phase transition | 1450 K | 1450 |  | experimental | [1] Chari 2010; _cites Lu 1980_ | p. 3; `ORC-T24GFGWWCE.2956d7` | “The other reported temperatures are 1450 K\[6\] and 1480 K \[9\].” |
+| Phase transition | 1480 K | 1480 |  | experimental | [1] Chari 2010; _cites Esslinger 1957_ | p. 3; `ORC-T24GFGWWCE.cd0411` | “The other reported temperatures are 1450 K\[6\] and 1480 K \[9\].” |
 
 ### Crystal structure (9)
 
@@ -130,15 +130,15 @@ Table: Crystal structure, Co–Ga system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 6.242 Å |  | CoGa3; _alloy: Ga 0.75_ | experimental | [1] Chari 2010; _cites Meyer 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900223-5) | Table 3, p. 5, row 6 |  |
-| Lattice a | 6.26 Å | 0 | CoGa3; _alloy: Ga 0.75_ | DFT | [1] Chari 2010 | Table 3, p. 5, row 5 |  |
-| Lattice a | 6.106 Å | 0 | CoGa3; _alloy: Ga 0.75_ | DFT | [1] Chari 2010 | Table 3, p. 5, row 4 |  |
-| Lattice a | 2.886 Å | 0 | β | DFT | [1] Chari 2010 | Table 3, p. 5, row 2 |  |
-| Lattice a | 2.813 Å | 0 | β | DFT | [1] Chari 2010 | Table 3, p. 5, row 1 |  |
-| Lattice a | 2.88 Å |  | β | experimental | [1] Chari 2010; _cites Whittle 1980_ [doi](https://doi.org/10.1088/0305-4608/10/10/008) | Table 3, p. 5, row 3 |  |
-| Lattice c | 6.442 Å |  | UNKNOWN; _alloy: Ga 0.75_ | experimental | [1] Chari 2010; _cites Meyer 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900223-5) | Table 3, p. 5, row 9 |  |
-| Lattice c | 6.295 Å | 0 | UNKNOWN; _alloy: Ga 0.75_ | DFT | [1] Chari 2010 | Table 3, p. 5, row 7 |  |
-| Lattice c | 6.471 Å | 0 | UNKNOWN; _alloy: Ga 0.75_ | DFT | [1] Chari 2010 | Table 3, p. 5, row 8 |  |
+| Lattice a | 6.242 Å |  | CoGa3; _alloy: Ga 0.75_ | experimental | [1] Chari 2010; _cites Meyer 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900223-5) | Table 3, p. 5, row 6; `ORC-2GJADQUUZE` |  |
+| Lattice a | 6.26 Å | 0 | CoGa3; _alloy: Ga 0.75_ | DFT | [1] Chari 2010 | Table 3, p. 5, row 5; `ORC-PRVNFRN7RF` |  |
+| Lattice a | 6.106 Å | 0 | CoGa3; _alloy: Ga 0.75_ | DFT | [1] Chari 2010 | Table 3, p. 5, row 4; `ORC-RA5JLXNBNW` |  |
+| Lattice a | 2.886 Å | 0 | β | DFT | [1] Chari 2010 | Table 3, p. 5, row 2; `ORC-5F2LUYPK5B` |  |
+| Lattice a | 2.813 Å | 0 | β | DFT | [1] Chari 2010 | Table 3, p. 5, row 1; `ORC-X2XLDE56OB` |  |
+| Lattice a | 2.88 Å |  | β | experimental | [1] Chari 2010; _cites Whittle 1980_ [doi](https://doi.org/10.1088/0305-4608/10/10/008) | Table 3, p. 5, row 3; `ORC-YP74RSNZKL` |  |
+| Lattice c | 6.442 Å |  | UNKNOWN; _alloy: Ga 0.75_ | experimental | [1] Chari 2010; _cites Meyer 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900223-5) | Table 3, p. 5, row 9; `ORC-EF5CX2IQPJ` |  |
+| Lattice c | 6.295 Å | 0 | UNKNOWN; _alloy: Ga 0.75_ | DFT | [1] Chari 2010 | Table 3, p. 5, row 7; `ORC-M4PZ4DOKL2` |  |
+| Lattice c | 6.471 Å | 0 | UNKNOWN; _alloy: Ga 0.75_ | DFT | [1] Chari 2010 | Table 3, p. 5, row 8; `ORC-QRZM4UUIRJ` |  |
 
 ## Sources
 
@@ -205,4 +205,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

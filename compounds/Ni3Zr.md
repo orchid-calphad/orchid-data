@@ -14,13 +14,13 @@ Table: Enthalpy of formation of Ni3Zr reported in the literature (7)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -49.841 kJ/mol-atom | Ni3Zr |  | model |  | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html) | [1] Jana 2020 | Table 6, p. 7, row 26 |  |
-| -49 kJ/mol-atom | Ni3Zr |  | model | empirical | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html) | [1] Jana 2020; _cites Colinet 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990032-x) | Table 6, p. 7, row 21 |  |
-| -39.635 kJ/mol-atom | Ni3Zr |  | model | empirical | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html) | [1] Jana 2020; _cites Zhang 2007_ [doi](https://doi.org/10.1016/j.cplett.2007.06.031) | Table 6, p. 7, row 22 |  |
-| -39.247 kJ/mol-atom | Ni3Zr |  | model |  | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html) | [1] Jana 2020 | Table 6, p. 7, row 27 |  |
-| -49.486 kJ/mol-atom | Ni3Zr |  | DFT | DFT | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html) | [1] Jana 2020; _cites Du 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.05.021) | Table 6, p. 7, row 25 |  |
-| -44.866 kJ/mol-atom | Ni3Zr |  | DFT | DFT | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html) | [1] Jana 2020; _cites Kirklin_ | Table 6, p. 7, row 23 |  |
-| -44.384 kJ/mol-atom | Ni3Zr |  | DFT | DFT | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html) | [1] Jana 2020; _cites Hennig 2005_ [doi](https://doi.org/10.1103/physrevb.71.144103) | Table 6, p. 7, row 24 |  |
+| -49.841 kJ/mol-atom | Ni3Zr |  | model |  | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html) | [1] Jana 2020 | Table 6, p. 7, row 26; `ORC-4NKKPWN3P5` |  |
+| -49 kJ/mol-atom | Ni3Zr |  | model | empirical | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html) | [1] Jana 2020; _cites Colinet 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990032-x) | Table 6, p. 7, row 21; `ORC-Z5NYQI7MSF` |  |
+| -39.635 kJ/mol-atom | Ni3Zr |  | model | empirical | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html) | [1] Jana 2020; _cites Zhang 2007_ [doi](https://doi.org/10.1016/j.cplett.2007.06.031) | Table 6, p. 7, row 22; `ORC-YXJABFTAWI` |  |
+| -39.247 kJ/mol-atom | Ni3Zr |  | model |  | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html) | [1] Jana 2020 | Table 6, p. 7, row 27; `ORC-WRGRFW3UT2` |  |
+| -49.486 kJ/mol-atom | Ni3Zr |  | DFT | DFT | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html) | [1] Jana 2020; _cites Du 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.05.021) | Table 6, p. 7, row 25; `ORC-IQDGXNPUVC` |  |
+| -44.866 kJ/mol-atom | Ni3Zr |  | DFT | DFT | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html) | [1] Jana 2020; _cites Kirklin_ | Table 6, p. 7, row 23; `ORC-KGIVYCHB6R` |  |
+| -44.384 kJ/mol-atom | Ni3Zr |  | DFT | DFT | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html) | [1] Jana 2020; _cites Hennig 2005_ [doi](https://doi.org/10.1103/physrevb.71.144103) | Table 6, p. 7, row 24; `ORC-6UF2BIWHBG` |  |
 
 ### Uncertainty budget
 
@@ -102,4 +102,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

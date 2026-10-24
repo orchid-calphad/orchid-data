@@ -71,30 +71,30 @@ Table: Invariant reactions reported in the literature for the Ce–Zn system (24
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1253.15 | congruent melting: L ↔ Ce2Zn17 | L: Ce 0.105263, Zn 0.894737; Ce2Zn17: Ce 0.105263, Zn 0.894737 | model | [1] Wang 2008 | Table 5, p. 4, row 24 |  |
-| 1253.15 | congruent melting: L ↔ Ce2Zn17 | L: Ce 0.105263, Zn 0.894737; Ce2Zn17: Ce 0.105263, Zn 0.894737 | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 5, p. 4, row 23 |  |
-| 1233.15 | peritectic: L + Ce2Zn17 ↔ Ce3Zn22 | L: Zn 0.866; Ce2Zn17: Zn 0.895; Ce3Zn22: Zn 0.88 | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 5, p. 4, row 15 |  |
-| 1232.15 | peritectic: L + Ce2Zn17 ↔ Ce3Zn22 | L: Zn 0.862; Ce2Zn17: Zn 0.895; Ce3Zn22: Zn 0.88 | model | [1] Wang 2008 | Table 5, p. 4, row 16 |  |
-| 1159.15 | peritectic: L + Ce3Zn22 ↔ CeZn5 | L: Zn 0.811; Ce3Zn22: Zn 0.88; CeZn5: Zn 0.833 | model | [1] Wang 2008 | Table 5, p. 4, row 14 |  |
-| 1158.15 | peritectic: L + Ce3Zn22 ↔ CeZn5 | L: Zn 0.81; Ce3Zn22: Zn 0.88; CeZn5: Zn 0.833 | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 5, p. 4, row 13 |  |
-| 1148.15 | congruent melting: L ↔ CeZn2 | L: Ce 0.333333, Zn 0.666667; CeZn2: Ce 0.333333, Zn 0.666667 | model | [1] Wang 2008 | Table 5, p. 4, row 22 |  |
-| 1148.15 | congruent melting: L ↔ CeZn2 | L: Ce 0.333333, Zn 0.666667; CeZn2: Ce 0.333333, Zn 0.666667 | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 5, p. 4, row 21 |  |
-| 1143.15 | peritectic: L + CeZn5 ↔ Ce13Zn58 | L: Zn 0.794; CeZn5: Zn 0.833; Ce13Zn58: Zn 0.817 | model | [1] Wang 2008 | Table 5, p. 4, row 12 |  |
-| 1143.15 | peritectic: L + CeZn5 ↔ Ce13Zn58 | L: Zn 0.796; CeZn5: Zn 0.833; Ce13Zn58: Zn 0.817 | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 5, p. 4, row 11 |  |
-| 1113.15 | peritectic: L + Ce13Zn58 ↔ Ce3Zn11 | L: Zn 0.765; Ce13Zn58: Zn 0.817; Ce3Zn11: Zn 0.786 | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 5, p. 4, row 9 |  |
-| 1112.15 | peritectic: L + Ce13Zn58 ↔ Ce3Zn11 | L: Zn 0.765; Ce13Zn58: Zn 0.817; Ce3Zn11: Zn 0.786 | model | [1] Wang 2008 | Table 5, p. 4, row 10 |  |
-| 1098.15 | congruent melting: L ↔ CeZn | L: Ce 0.5, Zn 0.5; CeZn: Ce 0.5, Zn 0.5 | model | [1] Wang 2008 | Table 5, p. 4, row 20 |  |
-| 1098.15 | congruent melting: L ↔ CeZn | L: Ce 0.5, Zn 0.5; CeZn: Ce 0.5, Zn 0.5 | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 5, p. 4, row 19 |  |
-| 1093.15 | peritectic: L + Ce3Zn11 ↔ CeZn3 | L: Zn 0.743; Ce3Zn11: Zn 0.786; CeZn3: Zn 0.75 | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 5, p. 4, row 7 |  |
-| 1090.15 | peritectic: L + Ce3Zn11 ↔ CeZn3 | L: Zn 0.74; Ce3Zn11: Zn 0.786; CeZn3: Zn 0.75 | model | [1] Wang 2008 | Table 5, p. 4, row 8 |  |
-| 1090.15 | eutectic: L ↔ CeZn2+CeZn3 | L: Zn 0.737; CeZn2: Zn 0.667; CeZn3: Zn 0.75 | model | [1] Wang 2008 | Table 5, p. 4, row 6 |  |
-| 1083.15 | eutectic: L ↔ CeZn2+CeZn3 | L: Zn 0.732; CeZn2: Zn 0.667; CeZn3: Zn 0.75 | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 5, p. 4, row 5 |  |
-| 1068.15 | eutectic: L ↔ CeZn+CeZn2 | L: Zn 0.557; CeZn: Zn 0.5; CeZn2: Zn 0.667 | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 5, p. 4, row 3 |  |
-| 1068.15 | peritectic: L + Ce2Zn17 ↔ CeZn11 | L: Zn 0.975; Ce2Zn17: Zn 0.895; CeZn11: Zn 0.917 | model | [1] Wang 2008 | Table 5, p. 4, row 18 |  |
-| 1068.15 | peritectic: L + Ce2Zn17 ↔ CeZn11 | L: Zn 0.978; Ce2Zn17: Zn 0.895; CeZn11: Zn 0.917 | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 5, p. 4, row 17 |  |
-| 1067.15 | eutectic: L ↔ CeZn+CeZn2 | L: Zn 0.565; CeZn: Zn 0.5; CeZn2: Zn 0.667 | model | [1] Wang 2008 | Table 5, p. 4, row 4 |  |
-| 772.15 | eutectic: L ↔ γCe+CeZn | L: Zn 0.183; γCe: Zn 0.001; CeZn: Zn 0.5 | model | [1] Wang 2008 | Table 5, p. 4, row 2 |  |
-| 768.15 | eutectic: L ↔ γCe+CeZn | L: Zn 0.176; CeZn: Zn 0.5 | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 5, p. 4, row 1 |  |
+| 1253.15 | congruent melting: L ↔ Ce2Zn17 | L: Ce 0.105263, Zn 0.894737; Ce2Zn17: Ce 0.105263, Zn 0.894737 | model | [1] Wang 2008 | Table 5, p. 4, row 24; `ORC-4C7K4FJ3Q2` |  |
+| 1253.15 | congruent melting: L ↔ Ce2Zn17 | L: Ce 0.105263, Zn 0.894737; Ce2Zn17: Ce 0.105263, Zn 0.894737 | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 5, p. 4, row 23; `ORC-DX5AFQ2BIM` |  |
+| 1233.15 | peritectic: L + Ce2Zn17 ↔ Ce3Zn22 | L: Zn 0.866; Ce2Zn17: Zn 0.895; Ce3Zn22: Zn 0.88 | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 5, p. 4, row 15; `ORC-GB6WEL7Y64` |  |
+| 1232.15 | peritectic: L + Ce2Zn17 ↔ Ce3Zn22 | L: Zn 0.862; Ce2Zn17: Zn 0.895; Ce3Zn22: Zn 0.88 | model | [1] Wang 2008 | Table 5, p. 4, row 16; `ORC-2LZUFFTVQZ` |  |
+| 1159.15 | peritectic: L + Ce3Zn22 ↔ CeZn5 | L: Zn 0.811; Ce3Zn22: Zn 0.88; CeZn5: Zn 0.833 | model | [1] Wang 2008 | Table 5, p. 4, row 14; `ORC-YDFTMAXJIB` |  |
+| 1158.15 | peritectic: L + Ce3Zn22 ↔ CeZn5 | L: Zn 0.81; Ce3Zn22: Zn 0.88; CeZn5: Zn 0.833 | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 5, p. 4, row 13; `ORC-67FZSKKTKX` |  |
+| 1148.15 | congruent melting: L ↔ CeZn2 | L: Ce 0.333333, Zn 0.666667; CeZn2: Ce 0.333333, Zn 0.666667 | model | [1] Wang 2008 | Table 5, p. 4, row 22; `ORC-DGCPHUOVHI` |  |
+| 1148.15 | congruent melting: L ↔ CeZn2 | L: Ce 0.333333, Zn 0.666667; CeZn2: Ce 0.333333, Zn 0.666667 | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 5, p. 4, row 21; `ORC-YFVJRAABJR` |  |
+| 1143.15 | peritectic: L + CeZn5 ↔ Ce13Zn58 | L: Zn 0.794; CeZn5: Zn 0.833; Ce13Zn58: Zn 0.817 | model | [1] Wang 2008 | Table 5, p. 4, row 12; `ORC-ETL2MHATYO` |  |
+| 1143.15 | peritectic: L + CeZn5 ↔ Ce13Zn58 | L: Zn 0.796; CeZn5: Zn 0.833; Ce13Zn58: Zn 0.817 | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 5, p. 4, row 11; `ORC-IDGCB566W7` |  |
+| 1113.15 | peritectic: L + Ce13Zn58 ↔ Ce3Zn11 | L: Zn 0.765; Ce13Zn58: Zn 0.817; Ce3Zn11: Zn 0.786 | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 5, p. 4, row 9; `ORC-CCU6ID5LRP` |  |
+| 1112.15 | peritectic: L + Ce13Zn58 ↔ Ce3Zn11 | L: Zn 0.765; Ce13Zn58: Zn 0.817; Ce3Zn11: Zn 0.786 | model | [1] Wang 2008 | Table 5, p. 4, row 10; `ORC-NKYZVJBH52` |  |
+| 1098.15 | congruent melting: L ↔ CeZn | L: Ce 0.5, Zn 0.5; CeZn: Ce 0.5, Zn 0.5 | model | [1] Wang 2008 | Table 5, p. 4, row 20; `ORC-3PWUYNSEOB` |  |
+| 1098.15 | congruent melting: L ↔ CeZn | L: Ce 0.5, Zn 0.5; CeZn: Ce 0.5, Zn 0.5 | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 5, p. 4, row 19; `ORC-7BQG46KBTG` |  |
+| 1093.15 | peritectic: L + Ce3Zn11 ↔ CeZn3 | L: Zn 0.743; Ce3Zn11: Zn 0.786; CeZn3: Zn 0.75 | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 5, p. 4, row 7; `ORC-UJWTG36AIH` |  |
+| 1090.15 | peritectic: L + Ce3Zn11 ↔ CeZn3 | L: Zn 0.74; Ce3Zn11: Zn 0.786; CeZn3: Zn 0.75 | model | [1] Wang 2008 | Table 5, p. 4, row 8; `ORC-MFU5HOMQ25` |  |
+| 1090.15 | eutectic: L ↔ CeZn2+CeZn3 | L: Zn 0.737; CeZn2: Zn 0.667; CeZn3: Zn 0.75 | model | [1] Wang 2008 | Table 5, p. 4, row 6; `ORC-Y3W7NVQUWB` |  |
+| 1083.15 | eutectic: L ↔ CeZn2+CeZn3 | L: Zn 0.732; CeZn2: Zn 0.667; CeZn3: Zn 0.75 | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 5, p. 4, row 5; `ORC-NR77EAYC6Q` |  |
+| 1068.15 | eutectic: L ↔ CeZn+CeZn2 | L: Zn 0.557; CeZn: Zn 0.5; CeZn2: Zn 0.667 | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 5, p. 4, row 3; `ORC-24U2GZ743G` |  |
+| 1068.15 | peritectic: L + Ce2Zn17 ↔ CeZn11 | L: Zn 0.975; Ce2Zn17: Zn 0.895; CeZn11: Zn 0.917 | model | [1] Wang 2008 | Table 5, p. 4, row 18; `ORC-R4FKSUPKWY` |  |
+| 1068.15 | peritectic: L + Ce2Zn17 ↔ CeZn11 | L: Zn 0.978; Ce2Zn17: Zn 0.895; CeZn11: Zn 0.917 | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 5, p. 4, row 17; `ORC-YG4RHK2H5V` |  |
+| 1067.15 | eutectic: L ↔ CeZn+CeZn2 | L: Zn 0.565; CeZn: Zn 0.5; CeZn2: Zn 0.667 | model | [1] Wang 2008 | Table 5, p. 4, row 4; `ORC-4V7X75JDK2` |  |
+| 772.15 | eutectic: L ↔ γCe+CeZn | L: Zn 0.183; γCe: Zn 0.001; CeZn: Zn 0.5 | model | [1] Wang 2008 | Table 5, p. 4, row 2; `ORC-DXCUUPNASP` |  |
+| 768.15 | eutectic: L ↔ γCe+CeZn | L: Zn 0.176; CeZn: Zn 0.5 | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 5, p. 4, row 1; `ORC-JDBLDBNA5R` |  |
 
 ## Other properties
 
@@ -104,63 +104,63 @@ Table: Formation, Ce–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -27.74 kJ/mol-atom | 773.15 | Ce13Zn58; _alloy: Zn 0.816901_ | model | [1] Wang 2008 | Table 6, p. 4, row 25 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -28.7 kJ/mol-atom | 773.15 | Ce13Zn58; _alloy: Zn 0.816901_ | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 6, p. 4, row 26 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -23.55 kJ/mol-atom | 773.15 | Ce2Zn17; _alloy: Zn 0.894737_ | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 6, p. 4, row 44 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -22.16 kJ/mol-atom | 773.15 | Ce2Zn17; _alloy: Zn 0.894737_ | model | [1] Wang 2008 | Table 6, p. 4, row 43 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -29.91 kJ/mol-atom | 773.15 | Ce3Zn11; _alloy: Zn 0.785714_ | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 6, p. 4, row 20 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -29.03 kJ/mol-atom | 773.15 | Ce3Zn11; _alloy: Zn 0.785714_ | model | [1] Wang 2008 | Table 6, p. 4, row 19 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -23.72 kJ/mol-atom | 773.15 | Ce3Zn22; _alloy: Zn 0.88_ | model | [1] Wang 2008 | Table 6, p. 4, row 37 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -25.33 kJ/mol-atom | 773.15 | Ce3Zn22; _alloy: Zn 0.88_ | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 6, p. 4, row 38 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -29.75 kJ/mol-atom | 773.15 | CeZn; _alloy: Zn 0.5_ | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 6, p. 4, row 2 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -28.67 kJ/mol-atom | 773.15 | CeZn; _alloy: Zn 0.5_ | model | [1] Wang 2008 | Table 6, p. 4, row 1 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -19.6 kJ/mol-atom | 773.15 | CeZn11; _alloy: Zn 0.916667_ | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 6, p. 4, row 50 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -18.53 kJ/mol-atom | 773.15 | CeZn11; _alloy: Zn 0.916667_ | experimental | [1] Wang 2008; _cites Johnson 1970_ [doi](https://doi.org/10.1007/bf02811772) | Table 6, p. 4, row 51 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -18.69 kJ/mol-atom | 773.15 | CeZn11; _alloy: Zn 0.916667_ | model | [1] Wang 2008 | Table 6, p. 4, row 49 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -33.13 kJ/mol-atom | 773.15 | CeZn2; _alloy: Zn 0.666667_ | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 6, p. 4, row 8 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -32.36 kJ/mol-atom | 773.15 | CeZn2; _alloy: Zn 0.666667_ | model | [1] Wang 2008 | Table 6, p. 4, row 7 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -30.23 kJ/mol-atom | 773.15 | CeZn3; _alloy: Zn 0.75_ | model | [1] Wang 2008 | Table 6, p. 4, row 13 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -31.05 kJ/mol-atom | 773.15 | CeZn3; _alloy: Zn 0.75_ | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 6, p. 4, row 14 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -27.61 kJ/mol-atom | 773.15 | CeZn5; _alloy: Zn 0.833333_ | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 6, p. 4, row 32 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -26.91 kJ/mol-atom | 773.15 | CeZn5; _alloy: Zn 0.833333_ | model | [1] Wang 2008 | Table 6, p. 4, row 31 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -24.2 kJ/mol-atom | 973.15 | Ce13Zn58; _alloy: Zn 0.816901_ | model | [1] Wang 2008 | Table 6, p. 4, row 27 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -25.02 kJ/mol-atom | 973.15 | Ce13Zn58; _alloy: Zn 0.816901_ | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 6, p. 4, row 28 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -18.94 kJ/mol-atom | 973.15 | Ce2Zn17; _alloy: Zn 0.894737_ | model | [1] Wang 2008 | Table 6, p. 4, row 45 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -19.88 kJ/mol-atom | 973.15 | Ce2Zn17; _alloy: Zn 0.894737_ | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 6, p. 4, row 46 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -25.49 kJ/mol-atom | 973.15 | Ce3Zn11; _alloy: Zn 0.785714_ | model | [1] Wang 2008 | Table 6, p. 4, row 21 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -26.27 kJ/mol-atom | 973.15 | Ce3Zn11; _alloy: Zn 0.785714_ | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 6, p. 4, row 22 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -20.36 kJ/mol-atom | 973.15 | Ce3Zn22; _alloy: Zn 0.88_ | model | [1] Wang 2008 | Table 6, p. 4, row 39 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -21.61 kJ/mol-atom | 973.15 | Ce3Zn22; _alloy: Zn 0.88_ | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 6, p. 4, row 40 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -26.31 kJ/mol-atom | 973.15 | CeZn; _alloy: Zn 0.5_ | model | [1] Wang 2008 | Table 6, p. 4, row 3 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -26.81 kJ/mol-atom | 973.15 | CeZn; _alloy: Zn 0.5_ | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 6, p. 4, row 4 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -16.02 kJ/mol-atom | 973.15 | CeZn11; _alloy: Zn 0.916667_ | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 6, p. 4, row 53 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -15.42 kJ/mol-atom | 973.15 | CeZn11; _alloy: Zn 0.916667_ | model | [1] Wang 2008 | Table 6, p. 4, row 52 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -15.39 kJ/mol-atom | 973.15 | CeZn11; _alloy: Zn 0.916667_ | experimental | [1] Wang 2008; _cites Johnson 1970_ [doi](https://doi.org/10.1007/bf02811772) | Table 6, p. 4, row 54 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -29.09 kJ/mol-atom | 973.15 | CeZn2; _alloy: Zn 0.666667_ | model | [1] Wang 2008 | Table 6, p. 4, row 9 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -29.57 kJ/mol-atom | 973.15 | CeZn2; _alloy: Zn 0.666667_ | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 6, p. 4, row 10 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -26.66 kJ/mol-atom | 973.15 | CeZn3; _alloy: Zn 0.75_ | model | [1] Wang 2008 | Table 6, p. 4, row 15 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -27.46 kJ/mol-atom | 973.15 | CeZn3; _alloy: Zn 0.75_ | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 6, p. 4, row 16 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -23.35 kJ/mol-atom | 973.15 | CeZn5; _alloy: Zn 0.833333_ | model | [1] Wang 2008 | Table 6, p. 4, row 33 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -23.88 kJ/mol-atom | 973.15 | CeZn5; _alloy: Zn 0.833333_ | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 6, p. 4, row 34 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -21.05 kJ/mol-atom | 1173.15 | Ce13Zn58; _alloy: Zn 0.816901_ | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 6, p. 4, row 30 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -20.66 kJ/mol-atom | 1173.15 | Ce13Zn58; _alloy: Zn 0.816901_ | model | [1] Wang 2008 | Table 6, p. 4, row 29 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -15.72 kJ/mol-atom | 1173.15 | Ce2Zn17; _alloy: Zn 0.894737_ | model | [1] Wang 2008 | Table 6, p. 4, row 47 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -15.87 kJ/mol-atom | 1173.15 | Ce2Zn17; _alloy: Zn 0.894737_ | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 6, p. 4, row 48 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -21.95 kJ/mol-atom | 1173.15 | Ce3Zn11; _alloy: Zn 0.785714_ | model | [1] Wang 2008 | Table 6, p. 4, row 23 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -22.38 kJ/mol-atom | 1173.15 | Ce3Zn11; _alloy: Zn 0.785714_ | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 6, p. 4, row 24 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -17.56 kJ/mol-atom | 1173.15 | Ce3Zn22; _alloy: Zn 0.88_ | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 6, p. 4, row 42 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -16.99 kJ/mol-atom | 1173.15 | Ce3Zn22; _alloy: Zn 0.88_ | model | [1] Wang 2008 | Table 6, p. 4, row 41 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -23.96 kJ/mol-atom | 1173.15 | CeZn; _alloy: Zn 0.5_ | model | [1] Wang 2008 | Table 6, p. 4, row 5 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -23.88 kJ/mol-atom | 1173.15 | CeZn; _alloy: Zn 0.5_ | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 6, p. 4, row 6 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -12.06 kJ/mol-atom | 1173.15 | CeZn11; _alloy: Zn 0.916667_ | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 6, p. 4, row 56 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -12.16 kJ/mol-atom | 1173.15 | CeZn11; _alloy: Zn 0.916667_ | model | [1] Wang 2008 | Table 6, p. 4, row 55 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -12.25 kJ/mol-atom | 1173.15 | CeZn11; _alloy: Zn 0.916667_ | experimental | [1] Wang 2008; _cites Johnson 1970_ [doi](https://doi.org/10.1007/bf02811772) | Table 6, p. 4, row 57 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -25.87 kJ/mol-atom | 1173.15 | CeZn2; _alloy: Zn 0.666667_ | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 6, p. 4, row 12 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -25.82 kJ/mol-atom | 1173.15 | CeZn2; _alloy: Zn 0.666667_ | model | [1] Wang 2008 | Table 6, p. 4, row 11 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -23.08 kJ/mol-atom | 1173.15 | CeZn3; _alloy: Zn 0.75_ | model | [1] Wang 2008 | Table 6, p. 4, row 17 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -23.67 kJ/mol-atom | 1173.15 | CeZn3; _alloy: Zn 0.75_ | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 6, p. 4, row 18 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -19.85 kJ/mol-atom | 1173.15 | CeZn5; _alloy: Zn 0.833333_ | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 6, p. 4, row 36 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -19.79 kJ/mol-atom | 1173.15 | CeZn5; _alloy: Zn 0.833333_ | model | [1] Wang 2008 | Table 6, p. 4, row 35 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -27.74 kJ/mol-atom | 773.15 | Ce13Zn58; _alloy: Zn 0.816901_ | model | [1] Wang 2008 | Table 6, p. 4, row 25; `ORC-65HQMDO2VF` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -28.7 kJ/mol-atom | 773.15 | Ce13Zn58; _alloy: Zn 0.816901_ | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 6, p. 4, row 26; `ORC-BSC7LKZPK4` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -23.55 kJ/mol-atom | 773.15 | Ce2Zn17; _alloy: Zn 0.894737_ | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 6, p. 4, row 44; `ORC-IKJIUSYEHO` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -22.16 kJ/mol-atom | 773.15 | Ce2Zn17; _alloy: Zn 0.894737_ | model | [1] Wang 2008 | Table 6, p. 4, row 43; `ORC-PR5NXTLMY5` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -29.91 kJ/mol-atom | 773.15 | Ce3Zn11; _alloy: Zn 0.785714_ | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 6, p. 4, row 20; `ORC-G54IYE5ICU` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -29.03 kJ/mol-atom | 773.15 | Ce3Zn11; _alloy: Zn 0.785714_ | model | [1] Wang 2008 | Table 6, p. 4, row 19; `ORC-UOAOJA4RKW` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -23.72 kJ/mol-atom | 773.15 | Ce3Zn22; _alloy: Zn 0.88_ | model | [1] Wang 2008 | Table 6, p. 4, row 37; `ORC-CM6J4TFB77` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -25.33 kJ/mol-atom | 773.15 | Ce3Zn22; _alloy: Zn 0.88_ | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 6, p. 4, row 38; `ORC-YC57UPTDSC` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -29.75 kJ/mol-atom | 773.15 | CeZn; _alloy: Zn 0.5_ | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 6, p. 4, row 2; `ORC-G3TRTAFB47` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -28.67 kJ/mol-atom | 773.15 | CeZn; _alloy: Zn 0.5_ | model | [1] Wang 2008 | Table 6, p. 4, row 1; `ORC-U3IPCQ6NGM` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -19.6 kJ/mol-atom | 773.15 | CeZn11; _alloy: Zn 0.916667_ | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 6, p. 4, row 50; `ORC-4T5HFCFJIC` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -18.53 kJ/mol-atom | 773.15 | CeZn11; _alloy: Zn 0.916667_ | experimental | [1] Wang 2008; _cites Johnson 1970_ [doi](https://doi.org/10.1007/bf02811772) | Table 6, p. 4, row 51; `ORC-7NGCG5VXFB` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -18.69 kJ/mol-atom | 773.15 | CeZn11; _alloy: Zn 0.916667_ | model | [1] Wang 2008 | Table 6, p. 4, row 49; `ORC-PEUF6SBALY` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -33.13 kJ/mol-atom | 773.15 | CeZn2; _alloy: Zn 0.666667_ | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 6, p. 4, row 8; `ORC-H7ZRAAMMEB` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -32.36 kJ/mol-atom | 773.15 | CeZn2; _alloy: Zn 0.666667_ | model | [1] Wang 2008 | Table 6, p. 4, row 7; `ORC-VMDILR5UY6` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -30.23 kJ/mol-atom | 773.15 | CeZn3; _alloy: Zn 0.75_ | model | [1] Wang 2008 | Table 6, p. 4, row 13; `ORC-6WWGMNVVZX` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -31.05 kJ/mol-atom | 773.15 | CeZn3; _alloy: Zn 0.75_ | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 6, p. 4, row 14; `ORC-IWY6AENSQZ` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -27.61 kJ/mol-atom | 773.15 | CeZn5; _alloy: Zn 0.833333_ | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 6, p. 4, row 32; `ORC-7IY7WMYAU7` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -26.91 kJ/mol-atom | 773.15 | CeZn5; _alloy: Zn 0.833333_ | model | [1] Wang 2008 | Table 6, p. 4, row 31; `ORC-JEBSJGERLG` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -24.2 kJ/mol-atom | 973.15 | Ce13Zn58; _alloy: Zn 0.816901_ | model | [1] Wang 2008 | Table 6, p. 4, row 27; `ORC-6GH6WIL24R` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -25.02 kJ/mol-atom | 973.15 | Ce13Zn58; _alloy: Zn 0.816901_ | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 6, p. 4, row 28; `ORC-EKSC43ZMMO` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -18.94 kJ/mol-atom | 973.15 | Ce2Zn17; _alloy: Zn 0.894737_ | model | [1] Wang 2008 | Table 6, p. 4, row 45; `ORC-EIDFQZR5AE` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -19.88 kJ/mol-atom | 973.15 | Ce2Zn17; _alloy: Zn 0.894737_ | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 6, p. 4, row 46; `ORC-QALMUYRVLZ` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -25.49 kJ/mol-atom | 973.15 | Ce3Zn11; _alloy: Zn 0.785714_ | model | [1] Wang 2008 | Table 6, p. 4, row 21; `ORC-6DWHGSC7NL` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -26.27 kJ/mol-atom | 973.15 | Ce3Zn11; _alloy: Zn 0.785714_ | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 6, p. 4, row 22; `ORC-NOZQYF5A46` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -20.36 kJ/mol-atom | 973.15 | Ce3Zn22; _alloy: Zn 0.88_ | model | [1] Wang 2008 | Table 6, p. 4, row 39; `ORC-F4SU7MEIG2` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -21.61 kJ/mol-atom | 973.15 | Ce3Zn22; _alloy: Zn 0.88_ | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 6, p. 4, row 40; `ORC-KN7WUE6X2I` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -26.31 kJ/mol-atom | 973.15 | CeZn; _alloy: Zn 0.5_ | model | [1] Wang 2008 | Table 6, p. 4, row 3; `ORC-MERNVD4ADR` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -26.81 kJ/mol-atom | 973.15 | CeZn; _alloy: Zn 0.5_ | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 6, p. 4, row 4; `ORC-S763I5XRQE` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -16.02 kJ/mol-atom | 973.15 | CeZn11; _alloy: Zn 0.916667_ | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 6, p. 4, row 53; `ORC-QJSEAQ5IRX` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -15.42 kJ/mol-atom | 973.15 | CeZn11; _alloy: Zn 0.916667_ | model | [1] Wang 2008 | Table 6, p. 4, row 52; `ORC-RVFQ4J6R44` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -15.39 kJ/mol-atom | 973.15 | CeZn11; _alloy: Zn 0.916667_ | experimental | [1] Wang 2008; _cites Johnson 1970_ [doi](https://doi.org/10.1007/bf02811772) | Table 6, p. 4, row 54; `ORC-SI3RIE5BNR` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -29.09 kJ/mol-atom | 973.15 | CeZn2; _alloy: Zn 0.666667_ | model | [1] Wang 2008 | Table 6, p. 4, row 9; `ORC-DABM2CDRKW` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -29.57 kJ/mol-atom | 973.15 | CeZn2; _alloy: Zn 0.666667_ | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 6, p. 4, row 10; `ORC-MCEDTP4U2B` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -26.66 kJ/mol-atom | 973.15 | CeZn3; _alloy: Zn 0.75_ | model | [1] Wang 2008 | Table 6, p. 4, row 15; `ORC-3E5ILIRLMR` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -27.46 kJ/mol-atom | 973.15 | CeZn3; _alloy: Zn 0.75_ | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 6, p. 4, row 16; `ORC-USKX4LDIIG` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -23.35 kJ/mol-atom | 973.15 | CeZn5; _alloy: Zn 0.833333_ | model | [1] Wang 2008 | Table 6, p. 4, row 33; `ORC-Q6LDZTAWIE` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -23.88 kJ/mol-atom | 973.15 | CeZn5; _alloy: Zn 0.833333_ | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 6, p. 4, row 34; `ORC-WBPEYMXB56` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -21.05 kJ/mol-atom | 1173.15 | Ce13Zn58; _alloy: Zn 0.816901_ | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 6, p. 4, row 30; `ORC-MFTVHE3OCF` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -20.66 kJ/mol-atom | 1173.15 | Ce13Zn58; _alloy: Zn 0.816901_ | model | [1] Wang 2008 | Table 6, p. 4, row 29; `ORC-RN2JW2UDLT` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -15.72 kJ/mol-atom | 1173.15 | Ce2Zn17; _alloy: Zn 0.894737_ | model | [1] Wang 2008 | Table 6, p. 4, row 47; `ORC-4DTI3ONC3M` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -15.87 kJ/mol-atom | 1173.15 | Ce2Zn17; _alloy: Zn 0.894737_ | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 6, p. 4, row 48; `ORC-DEWQ4KPVM3` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -21.95 kJ/mol-atom | 1173.15 | Ce3Zn11; _alloy: Zn 0.785714_ | model | [1] Wang 2008 | Table 6, p. 4, row 23; `ORC-PTQUD3U7V3` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -22.38 kJ/mol-atom | 1173.15 | Ce3Zn11; _alloy: Zn 0.785714_ | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 6, p. 4, row 24; `ORC-UYVVGXTHP7` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -17.56 kJ/mol-atom | 1173.15 | Ce3Zn22; _alloy: Zn 0.88_ | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 6, p. 4, row 42; `ORC-CU7XVBQ4U7` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -16.99 kJ/mol-atom | 1173.15 | Ce3Zn22; _alloy: Zn 0.88_ | model | [1] Wang 2008 | Table 6, p. 4, row 41; `ORC-R7UKH6TDIG` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -23.96 kJ/mol-atom | 1173.15 | CeZn; _alloy: Zn 0.5_ | model | [1] Wang 2008 | Table 6, p. 4, row 5; `ORC-7MJ7ZWDQWS` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -23.88 kJ/mol-atom | 1173.15 | CeZn; _alloy: Zn 0.5_ | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 6, p. 4, row 6; `ORC-MMXDAHEPYE` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -12.06 kJ/mol-atom | 1173.15 | CeZn11; _alloy: Zn 0.916667_ | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 6, p. 4, row 56; `ORC-LJJ4JGFPMB` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -12.16 kJ/mol-atom | 1173.15 | CeZn11; _alloy: Zn 0.916667_ | model | [1] Wang 2008 | Table 6, p. 4, row 55; `ORC-VMXYW4AQM7` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -12.25 kJ/mol-atom | 1173.15 | CeZn11; _alloy: Zn 0.916667_ | experimental | [1] Wang 2008; _cites Johnson 1970_ [doi](https://doi.org/10.1007/bf02811772) | Table 6, p. 4, row 57; `ORC-VSDOYLEF2H` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -25.87 kJ/mol-atom | 1173.15 | CeZn2; _alloy: Zn 0.666667_ | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 6, p. 4, row 12; `ORC-NMQOH7S6Z4` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -25.82 kJ/mol-atom | 1173.15 | CeZn2; _alloy: Zn 0.666667_ | model | [1] Wang 2008 | Table 6, p. 4, row 11; `ORC-XUHJQA4P3C` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -23.08 kJ/mol-atom | 1173.15 | CeZn3; _alloy: Zn 0.75_ | model | [1] Wang 2008 | Table 6, p. 4, row 17; `ORC-5KF3IBMNAF` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -23.67 kJ/mol-atom | 1173.15 | CeZn3; _alloy: Zn 0.75_ | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 6, p. 4, row 18; `ORC-GM74XWMPQ7` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -19.85 kJ/mol-atom | 1173.15 | CeZn5; _alloy: Zn 0.833333_ | experimental | [1] Wang 2008; _cites Chiotti 1965_ | Table 6, p. 4, row 36; `ORC-MEI23J6GDL` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -19.79 kJ/mol-atom | 1173.15 | CeZn5; _alloy: Zn 0.833333_ | model | [1] Wang 2008 | Table 6, p. 4, row 35; `ORC-VOWUK5FLMX` |  |
 
 ## Sources
 
@@ -225,4 +225,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

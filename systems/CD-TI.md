@@ -54,12 +54,12 @@ Table: Invariant reactions reported in the literature for the Cd–Ti system (6)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1101.05 | Liquid+(βTi) -> Ti2Cd | Liquid: Cd 0.991; (βTi): Cd 0.269; Ti2Cd: Cd 0.3333; L: Cd 0.991 | model | [1] Zhang 2013 | Table 4, p. 5, row 21 |  |
-| 1058.15 | (βTi) -> (αTi)+Ti2Cd | (αTi): Cd 0.065; Ti2Cd: Cd 0.3333 | experimental | [1] Zhang 2013; _cites Robertson 1972_ [doi](https://doi.org/10.1007/bf02643031) | Table 4, p. 5, row 22 |  |
-| 1057.25 | (βTi) -> (αTi)+Ti2Cd | (βTi): Cd 0.173; (αTi): Cd 0.0573; Ti2Cd: Cd 0.3333 | model | [1] Zhang 2013 | Table 4, p. 5, row 23 |  |
-| 893.15 | Liquid+Ti2Cd -> TiCd | Liquid: Cd 0.9989; Ti2Cd: Cd 0.3333; TiCd: Cd 0.5; L: Cd 0.9989 | model | [1] Zhang 2013 | Table 4, p. 5, row 25 |  |
-| 893.15 | Liquid+Ti2Cd -> TiCd | Liquid: Cd 0.9988; Ti2Cd: Cd 0.3333; TiCd: Cd 0.5; L: Cd 0.9988 | experimental | [1] Zhang 2013; _cites Chasanov 1962_ | Table 4, p. 5, row 24 |  |
-| 596.15 | Liquid+TiCd -> (Cd) | Liquid: Cd 0.9958; TiCd: Cd 0.5; (Cd): Cd 1; L: Cd 0.9958 | model | [1] Zhang 2013 | Table 4, p. 5, row 26 |  |
+| 1101.05 | Liquid+(βTi) -> Ti2Cd | Liquid: Cd 0.991; (βTi): Cd 0.269; Ti2Cd: Cd 0.3333; L: Cd 0.991 | model | [1] Zhang 2013 | Table 4, p. 5, row 21; `ORC-BMJGYI2PR6` |  |
+| 1058.15 | (βTi) -> (αTi)+Ti2Cd | (αTi): Cd 0.065; Ti2Cd: Cd 0.3333 | experimental | [1] Zhang 2013; _cites Robertson 1972_ [doi](https://doi.org/10.1007/bf02643031) | Table 4, p. 5, row 22; `ORC-DS3B3O227Z` |  |
+| 1057.25 | (βTi) -> (αTi)+Ti2Cd | (βTi): Cd 0.173; (αTi): Cd 0.0573; Ti2Cd: Cd 0.3333 | model | [1] Zhang 2013 | Table 4, p. 5, row 23; `ORC-BDUPJIFVTG` |  |
+| 893.15 | Liquid+Ti2Cd -> TiCd | Liquid: Cd 0.9989; Ti2Cd: Cd 0.3333; TiCd: Cd 0.5; L: Cd 0.9989 | model | [1] Zhang 2013 | Table 4, p. 5, row 25; `ORC-IDRQHUWTYS` |  |
+| 893.15 | Liquid+Ti2Cd -> TiCd | Liquid: Cd 0.9988; Ti2Cd: Cd 0.3333; TiCd: Cd 0.5; L: Cd 0.9988 | experimental | [1] Zhang 2013; _cites Chasanov 1962_ | Table 4, p. 5, row 24; `ORC-RCK4ASSQYM` |  |
+| 596.15 | Liquid+TiCd -> (Cd) | Liquid: Cd 0.9958; TiCd: Cd 0.5; (Cd): Cd 1; L: Cd 0.9958 | model | [1] Zhang 2013 | Table 4, p. 5, row 26; `ORC-TCXR22Q4L5` |  |
 
 ## Other properties
 
@@ -69,10 +69,10 @@ Table: Crystal structure, Cd–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 2.865 Å | 298.15 | Ti2Cd; _alloy: Ti 0.666667_ | experimental | [1] Zhang 2013; _cites Schablaske 1962_ | Table 1, p. 2, row 8 |  |
-| Lattice a | 2.904 Å | 298.15 | TiCd; _alloy: Ti 0.5_ | experimental | [1] Zhang 2013; _cites Schablaske 1962_ | Table 1, p. 2, row 7 |  |
-| Lattice c | 13.42 Å | 298.15 | Ti2Cd; _alloy: Ti 0.666667_ | experimental | [1] Zhang 2013; _cites Schablaske 1962_ | Table 1, p. 2, row 8 |  |
-| Lattice c | 8.954 Å | 298.15 | TiCd; _alloy: Ti 0.5_ | experimental | [1] Zhang 2013; _cites Schablaske 1962_ | Table 1, p. 2, row 7 |  |
+| Lattice a | 2.865 Å | 298.15 | Ti2Cd; _alloy: Ti 0.666667_ | experimental | [1] Zhang 2013; _cites Schablaske 1962_ | Table 1, p. 2, row 8; `ORC-Y6WVZRAME4.6c21fc` |  |
+| Lattice a | 2.904 Å | 298.15 | TiCd; _alloy: Ti 0.5_ | experimental | [1] Zhang 2013; _cites Schablaske 1962_ | Table 1, p. 2, row 7; `ORC-A3F55ZAFMJ.c483f7` |  |
+| Lattice c | 13.42 Å | 298.15 | Ti2Cd; _alloy: Ti 0.666667_ | experimental | [1] Zhang 2013; _cites Schablaske 1962_ | Table 1, p. 2, row 8; `ORC-Y6WVZRAME4.9d8e92` |  |
+| Lattice c | 8.954 Å | 298.15 | TiCd; _alloy: Ti 0.5_ | experimental | [1] Zhang 2013; _cites Schablaske 1962_ | Table 1, p. 2, row 7; `ORC-A3F55ZAFMJ.8eae9f` |  |
 
 ## Sources
 
@@ -137,4 +137,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

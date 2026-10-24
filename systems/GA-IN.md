@@ -42,10 +42,10 @@ Table: Invariant reactions reported in the literature for the Ga–In system (4)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 288.45 | eutectic |  | model | [1] Ghasemi 2014; _cites Anderson 1991_ [doi](https://doi.org/10.1007/bf02663677) | p. 3 | “The eutectic reaction occurs at 15.3 °C at 14.2 at.% In \[12\].” |
-| 288.45 | eutectic |  | model | [2] Anderson 1991 | p. 1 | “The assessed Ga-In equilibrium phase diagram (Fig. 1) was calculated for this evaluation; it shows a retrograde tetragonal (In) solidus, with solubilities of 2.3 at.% Ga in (In) at the eutectic temperature of 15.3 \*C and of 14.2 at.% In in the liquid.” |
-| 288.4 | eutectic |  | experimental | [3] Rugg 1990 | p. 2 | “Although there is general agreement concerning the eutectic temperature (288.4 - 289.1 K) excluding the early value of de Boisbaudran'14) there exists considerable scatter for the eutectic composition.” |
-| 244.85 | eutectic |  | experimental | [2] Anderson 1991; _cites Delcroix 1963_ [doi](https://doi.org/10.1051/jphysrad:0196300240101700) | p. 5 | “Asimple metastable eutectic phase diagram was constructed, with a eutectic temperature of -28.3 \*C and a composition of 6.3 at.% In.” |
+| 288.45 | eutectic |  | model | [1] Ghasemi 2014; _cites Anderson 1991_ [doi](https://doi.org/10.1007/bf02663677) | p. 3; `ORC-5IENODG5T5` | “The eutectic reaction occurs at 15.3 °C at 14.2 at.% In \[12\].” |
+| 288.45 | eutectic |  | model | [2] Anderson 1991 | p. 1; `ORC-XZVU257JHC` | “The assessed Ga-In equilibrium phase diagram (Fig. 1) was calculated for this evaluation; it shows a retrograde tetragonal (In) solidus, with solubilities of 2.3 at.% Ga in (In) at the eutectic temperature of 15.3 \*C and of 14.2 at.% In in the liquid.” |
+| 288.4 | eutectic |  | experimental | [3] Rugg 1990 | p. 2; `ORC-FGN2AI6BYH` | “Although there is general agreement concerning the eutectic temperature (288.4 - 289.1 K) excluding the early value of de Boisbaudran'14) there exists considerable scatter for the eutectic composition.” |
+| 244.85 | eutectic |  | experimental | [2] Anderson 1991; _cites Delcroix 1963_ [doi](https://doi.org/10.1051/jphysrad:0196300240101700) | p. 5; `ORC-NNXQQICSZI` | “Asimple metastable eutectic phase diagram was constructed, with a eutectic temperature of -28.3 \*C and a composition of 6.3 at.% In.” |
 
 ## Other properties
 
@@ -55,29 +55,29 @@ Table: Phase transition, Ga–In system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 288.35 K | 288.35 | eutectic | experimental | [2] Anderson 1991; _cites Topchyan 1973_ | Table I, p. 1, row 11 |  |
-| Phase transition | 288.35 K | 288.35 | eutectic | experimental | [3] Rugg 1990; _cites ref. 24_ | Table 1, p. 3, row 11 |  |
-| Phase transition | 288.4 K | 288.4 | eutectic | experimental | [3] Rugg 1990; _cites ref. 11_ | Table 1, p. 3, row 8 |  |
-| Phase transition | 288.55 K | 288.55 | eutectic | experimental | [2] Anderson 1991; _cites Kaplun 1981_ | Table I, p. 1, row 12 |  |
-| Phase transition | 288.55 K | 288.55 | eutectic | experimental | [3] Rugg 1990; _cites ref. 23_ | Table 1, p. 3, row 10 |  |
-| Phase transition | 288.85 K | 288.85 | eutectic | experimental | [2] Anderson 1991; _cites Heubner 1966_ | Table I, p. 1, row 6 |  |
-| Phase transition | 288.85 K | 288.85 | eutectic | experimental | [3] Rugg 1990; _cites ref. 18_ | Table 1, p. 3, row 5 |  |
-| Phase transition | 288.85 K | 288.85 | eutectic | experimental | [2] Anderson 1991; _cites Denny 1952_ [doi](https://doi.org/10.1007/bf03397646) | Table I, p. 1, row 3 |  |
-| Phase transition | 288.85 K | 288.85 | eutectic | experimental | [3] Rugg 1990; _cites ref. 16_ | Table 1, p. 3, row 3 |  |
-| Phase transition | 288.88 K | 288.88 | eutectic | experimental | [3] Rugg 1990; _cites ref. 17_ | Table 1, p. 3, row 4 |  |
-| Phase transition | 288.88 K | 288.88 | eutectic | experimental | [2] Anderson 1991; _cites Svirbely 1954_ [doi](https://doi.org/10.1021/j150511a008) | Table I, p. 1, row 4 |  |
-| Phase transition | 288.9 K | 288.9 | eutectic | experimental | [3] Rugg 1990; _cites ref. 20_ | Table 1, p. 3, row 9 |  |
-| Phase transition | 288.93 K | 288.93 | eutectic | experimental | [2] Anderson 1991; _cites ref. 74Shu1_ | Table I, p. 1, row 10 |  |
-| Phase transition | 288.95 K | 288.95 | eutectic | experimental | [2] Anderson 1991; _cites ref. 73Zak_ | Table I, p. 1, row 9 |  |
-| Phase transition | 288.95 K | 288.95 | eutectic | model | [2] Anderson 1991; _cites EH 1969_ | Table I, p. 1, row 7 |  |
-| Phase transition | 288.95 K | 288.95 | eutectic | experimental | [3] Rugg 1990; _cites ref. 2_ | Table 1, p. 3, row 7 |  |
-| Phase transition | 289.05 K | 289.05 | eutectic | experimental | [2] Anderson 1991; _cites ref. 69Pre1_ | Table I, p. 1, row 8 |  |
-| Phase transition | 289.05 K | 289.05 | eutectic | experimental | [3] Rugg 1990; _cites ref. 19_ | Table 1, p. 3, row 6 |  |
-| Phase transition | 289.15 K | 289.15 | eutectic | experimental | [2] Anderson 1991; _cites ref. 38Fre_ | Table I, p. 1, row 2 |  |
-| Phase transition | 289.15 K | 289.15 | eutectic | experimental | [2] Anderson 1991; _cites Kiknadze 1965_ | Table I, p. 1, row 5 |  |
-| Phase transition | 289.15 K | 289.15 | eutectic | experimental | [3] Rugg 1990; _cites ref. 15_ | Table 1, p. 3, row 2 |  |
-| Phase transition | 289.65 K | 289.65 | eutectic | experimental | [2] Anderson 1991; _cites Boisbaudran 1938_ | Table I, p. 1, row 1 |  |
-| Phase transition | 289.65 K | 289.65 | eutectic | experimental | [3] Rugg 1990; _cites ref. 14_ | Table 1, p. 3, row 1 |  |
+| Phase transition | 288.35 K | 288.35 | eutectic | experimental | [2] Anderson 1991; _cites Topchyan 1973_ | Table I, p. 1, row 11; `ORC-3P3FGDQU5C` |  |
+| Phase transition | 288.35 K | 288.35 | eutectic | experimental | [3] Rugg 1990; _cites ref. 24_ | Table 1, p. 3, row 11; `ORC-X2PF6PGTQK` |  |
+| Phase transition | 288.4 K | 288.4 | eutectic | experimental | [3] Rugg 1990; _cites ref. 11_ | Table 1, p. 3, row 8; `ORC-CDGXS4MQGX` |  |
+| Phase transition | 288.55 K | 288.55 | eutectic | experimental | [2] Anderson 1991; _cites Kaplun 1981_ | Table I, p. 1, row 12; `ORC-BDJJ6SS6ZK` |  |
+| Phase transition | 288.55 K | 288.55 | eutectic | experimental | [3] Rugg 1990; _cites ref. 23_ | Table 1, p. 3, row 10; `ORC-IU2TYO5NG5` |  |
+| Phase transition | 288.85 K | 288.85 | eutectic | experimental | [2] Anderson 1991; _cites Heubner 1966_ | Table I, p. 1, row 6; `ORC-2J7IBI5OXE` |  |
+| Phase transition | 288.85 K | 288.85 | eutectic | experimental | [3] Rugg 1990; _cites ref. 18_ | Table 1, p. 3, row 5; `ORC-CJ4RELH52I` |  |
+| Phase transition | 288.85 K | 288.85 | eutectic | experimental | [2] Anderson 1991; _cites Denny 1952_ [doi](https://doi.org/10.1007/bf03397646) | Table I, p. 1, row 3; `ORC-DBZGUYNLWC` |  |
+| Phase transition | 288.85 K | 288.85 | eutectic | experimental | [3] Rugg 1990; _cites ref. 16_ | Table 1, p. 3, row 3; `ORC-NLJDUXDYP5` |  |
+| Phase transition | 288.88 K | 288.88 | eutectic | experimental | [3] Rugg 1990; _cites ref. 17_ | Table 1, p. 3, row 4; `ORC-FMWRZCABV6` |  |
+| Phase transition | 288.88 K | 288.88 | eutectic | experimental | [2] Anderson 1991; _cites Svirbely 1954_ [doi](https://doi.org/10.1021/j150511a008) | Table I, p. 1, row 4; `ORC-IK2JAJ4HCT` |  |
+| Phase transition | 288.9 K | 288.9 | eutectic | experimental | [3] Rugg 1990; _cites ref. 20_ | Table 1, p. 3, row 9; `ORC-REV3QTSVRA` |  |
+| Phase transition | 288.93 K | 288.93 | eutectic | experimental | [2] Anderson 1991; _cites ref. 74Shu1_ | Table I, p. 1, row 10; `ORC-4ZV3NTHX5A` |  |
+| Phase transition | 288.95 K | 288.95 | eutectic | experimental | [2] Anderson 1991; _cites ref. 73Zak_ | Table I, p. 1, row 9; `ORC-CIBPZYK3TI` |  |
+| Phase transition | 288.95 K | 288.95 | eutectic | model | [2] Anderson 1991; _cites EH 1969_ | Table I, p. 1, row 7; `ORC-FWBNM5W5NH` |  |
+| Phase transition | 288.95 K | 288.95 | eutectic | experimental | [3] Rugg 1990; _cites ref. 2_ | Table 1, p. 3, row 7; `ORC-HB54QGPWZV` |  |
+| Phase transition | 289.05 K | 289.05 | eutectic | experimental | [2] Anderson 1991; _cites ref. 69Pre1_ | Table I, p. 1, row 8; `ORC-WMLRGNHXW6` |  |
+| Phase transition | 289.05 K | 289.05 | eutectic | experimental | [3] Rugg 1990; _cites ref. 19_ | Table 1, p. 3, row 6; `ORC-X2WBDAGWAA` |  |
+| Phase transition | 289.15 K | 289.15 | eutectic | experimental | [2] Anderson 1991; _cites ref. 38Fre_ | Table I, p. 1, row 2; `ORC-BRXWS4ZMQ2` |  |
+| Phase transition | 289.15 K | 289.15 | eutectic | experimental | [2] Anderson 1991; _cites Kiknadze 1965_ | Table I, p. 1, row 5; `ORC-IOOPEDLHTH` |  |
+| Phase transition | 289.15 K | 289.15 | eutectic | experimental | [3] Rugg 1990; _cites ref. 15_ | Table 1, p. 3, row 2; `ORC-Y26UWIEOQ5` |  |
+| Phase transition | 289.65 K | 289.65 | eutectic | experimental | [2] Anderson 1991; _cites Boisbaudran 1938_ | Table I, p. 1, row 1; `ORC-C4OIJGXQBM` |  |
+| Phase transition | 289.65 K | 289.65 | eutectic | experimental | [3] Rugg 1990; _cites ref. 14_ | Table 1, p. 3, row 1; `ORC-OP2HWZTHFF` |  |
 
 ## Sources
 
@@ -144,4 +144,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

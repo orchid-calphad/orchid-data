@@ -14,17 +14,17 @@ Table: Enthalpy of formation of LaPt2 reported in the literature (11)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -112.6 kJ/mol-atom | Pt2La | 1073 | experimental | EMF | [La–Pt](https://data.orchid-project.org/systems/LA-PT.html) | [1] Reimann 2006 | Table 2, p. 3, row 14 |  |
-| -111.5 kJ/mol-atom | Pt2La | 1073 | experimental | EMF | [La–Pt](https://data.orchid-project.org/systems/LA-PT.html) | [1] Reimann 2006 | Table 2, p. 3, row 12 |  |
-| -108.9 kJ/mol-atom | Pt2La | 1073 | experimental | EMF | [La–Pt](https://data.orchid-project.org/systems/LA-PT.html) | [1] Reimann 2006 | Table 2, p. 3, row 10 |  |
-| -107.5 kJ/mol-atom | Pt2La | 1073 | experimental | EMF | [La–Pt](https://data.orchid-project.org/systems/LA-PT.html) | [1] Reimann 2006 | Table 2, p. 3, row 8 |  |
-| -106 kJ/mol-atom | Pt2La | 1073 | experimental | EMF | [La–Pt](https://data.orchid-project.org/systems/LA-PT.html) | [1] Reimann 2006 | Table 2, p. 3, row 6 |  |
-| -104.5 kJ/mol-atom | Pt2La | 1073 | experimental | EMF | [La–Pt](https://data.orchid-project.org/systems/LA-PT.html) | [1] Reimann 2006 | Table 2, p. 3, row 5 |  |
-| -111.4 kJ/mol-atom | Pt2La | 1073 | model |  | [La–Pt](https://data.orchid-project.org/systems/LA-PT.html) | [1] Reimann 2006 | Table 2, p. 3, row 15 |  |
-| -109.8 kJ/mol-atom | Pt2La | 1073 | model |  | [La–Pt](https://data.orchid-project.org/systems/LA-PT.html) | [1] Reimann 2006 | Table 2, p. 3, row 13 |  |
-| -107.9 kJ/mol-atom | Pt2La | 1073 | model |  | [La–Pt](https://data.orchid-project.org/systems/LA-PT.html) | [1] Reimann 2006 | Table 2, p. 3, row 11 |  |
-| -107.1 kJ/mol-atom | Pt2La | 1073 | model |  | [La–Pt](https://data.orchid-project.org/systems/LA-PT.html) | [1] Reimann 2006 | Table 2, p. 3, row 9 |  |
-| -104.7 kJ/mol-atom | Pt2La | 1073 | model |  | [La–Pt](https://data.orchid-project.org/systems/LA-PT.html) | [1] Reimann 2006 | Table 2, p. 3, row 7 |  |
+| -112.6 kJ/mol-atom | Pt2La | 1073 | experimental | EMF | [La–Pt](https://data.orchid-project.org/systems/LA-PT.html) | [1] Reimann 2006 | Table 2, p. 3, row 14; `ORC-2RGYOAFBJD.b01966` |  |
+| -111.5 kJ/mol-atom | Pt2La | 1073 | experimental | EMF | [La–Pt](https://data.orchid-project.org/systems/LA-PT.html) | [1] Reimann 2006 | Table 2, p. 3, row 12; `ORC-EDPRXRW4WL.c8079d` |  |
+| -108.9 kJ/mol-atom | Pt2La | 1073 | experimental | EMF | [La–Pt](https://data.orchid-project.org/systems/LA-PT.html) | [1] Reimann 2006 | Table 2, p. 3, row 10; `ORC-LLMXKPCYVE.1b1145` |  |
+| -107.5 kJ/mol-atom | Pt2La | 1073 | experimental | EMF | [La–Pt](https://data.orchid-project.org/systems/LA-PT.html) | [1] Reimann 2006 | Table 2, p. 3, row 8; `ORC-QA4MPPXEHV.34fa39` |  |
+| -106 kJ/mol-atom | Pt2La | 1073 | experimental | EMF | [La–Pt](https://data.orchid-project.org/systems/LA-PT.html) | [1] Reimann 2006 | Table 2, p. 3, row 6; `ORC-MKO4SURWL3.1e9813` |  |
+| -104.5 kJ/mol-atom | Pt2La | 1073 | experimental | EMF | [La–Pt](https://data.orchid-project.org/systems/LA-PT.html) | [1] Reimann 2006 | Table 2, p. 3, row 5; `ORC-3FY37MU6YR.8b64fe` |  |
+| -111.4 kJ/mol-atom | Pt2La | 1073 | model |  | [La–Pt](https://data.orchid-project.org/systems/LA-PT.html) | [1] Reimann 2006 | Table 2, p. 3, row 15; `ORC-JHCICDQCOD.a503ae` |  |
+| -109.8 kJ/mol-atom | Pt2La | 1073 | model |  | [La–Pt](https://data.orchid-project.org/systems/LA-PT.html) | [1] Reimann 2006 | Table 2, p. 3, row 13; `ORC-HCSTY6PYES.ff23f4` |  |
+| -107.9 kJ/mol-atom | Pt2La | 1073 | model |  | [La–Pt](https://data.orchid-project.org/systems/LA-PT.html) | [1] Reimann 2006 | Table 2, p. 3, row 11; `ORC-FW4HXE4SGE.bbf535` |  |
+| -107.1 kJ/mol-atom | Pt2La | 1073 | model |  | [La–Pt](https://data.orchid-project.org/systems/LA-PT.html) | [1] Reimann 2006 | Table 2, p. 3, row 9; `ORC-MNDNLWNBBZ.1dbb7a` |  |
+| -104.7 kJ/mol-atom | Pt2La | 1073 | model |  | [La–Pt](https://data.orchid-project.org/systems/LA-PT.html) | [1] Reimann 2006 | Table 2, p. 3, row 7; `ORC-IYL5JLTIRI.7a99d5` |  |
 
 ### Uncertainty budget
 
@@ -110,4 +110,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

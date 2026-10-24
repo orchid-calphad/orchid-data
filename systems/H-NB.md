@@ -30,9 +30,9 @@ Table: Phase transition, H–Nb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 299.15 K | 299.15 | β-NbH + H2(gas) → δ-NbH2 | experimental | [1] Dottor 2023; _cites Luo 1991_ [doi](https://doi.org/10.1063/1.460404) | p. 3 | “An invariant equilibrium was measured, β-NbH + H2(gas) → δ-NbH2, at x(H) ≈ 0.67, around 26 °C and 1 bar \[40,46\].” |
-| Phase transition | 420.15 K | 420.15 | α'-Nb + H2(gas) → β-NbH | experimental | [1] Dottor 2023; _cites Welter 1977_ | p. 3 | “The two-phase region boundary, α'-Nb + βNbH, was measured by several techniques \[19,23,26,31,34,35,37,41,42\] and the invariant equilibrium, α'-Nb + H2(gas) → β-NbH, takes place at x(H) ≈ 0.49 \[36\], 147 °C and 1 bar.” |
-| Phase transition | 444.15 K | 444.15 | other | experimental | [1] Dottor 2023; _cites Zabel 1979_ [doi](https://doi.org/10.1088/0305-4608/9/7/025) | p. 2 | “The miscibility gap appears below a critical temperature of TC = 171 °C and at x(H)=0.31 \[20,26,27\].” |
+| Phase transition | 299.15 K | 299.15 | β-NbH + H2(gas) → δ-NbH2 | experimental | [1] Dottor 2023; _cites Luo 1991_ [doi](https://doi.org/10.1063/1.460404) | p. 3; `ORC-MV76HGMF62` | “An invariant equilibrium was measured, β-NbH + H2(gas) → δ-NbH2, at x(H) ≈ 0.67, around 26 °C and 1 bar \[40,46\].” |
+| Phase transition | 420.15 K | 420.15 | α'-Nb + H2(gas) → β-NbH | experimental | [1] Dottor 2023; _cites Welter 1977_ | p. 3; `ORC-7OC3JUI5OI` | “The two-phase region boundary, α'-Nb + βNbH, was measured by several techniques \[19,23,26,31,34,35,37,41,42\] and the invariant equilibrium, α'-Nb + H2(gas) → β-NbH, takes place at x(H) ≈ 0.49 \[36\], 147 °C and 1 bar.” |
+| Phase transition | 444.15 K | 444.15 | other | experimental | [1] Dottor 2023; _cites Zabel 1979_ [doi](https://doi.org/10.1088/0305-4608/9/7/025) | p. 2; `ORC-K5E2IIKXA5` | “The miscibility gap appears below a critical temperature of TC = 171 °C and at x(H)=0.31 \[20,26,27\].” |
 
 ## Sources
 
@@ -86,4 +86,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

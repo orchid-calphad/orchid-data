@@ -27,16 +27,16 @@ Table: Invariant reactions reported in the literature for the Cr–Mn–O system
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2465 | β-Spinel + Cr2O3 + liquid |  | model | [1] Kjellqvist 2010 | Table 1, p. 4, row 10 |  |
-| 2243 | β-Spinel + Cr2O3 + liquid |  | experimental | [1] Kjellqvist 2010; _cites Speidel 1963_ | Table 1, p. 4, row 9 |  |
-| 1235 | β-Spinel + α-spinel + Mn2O3 |  | experimental | [1] Kjellqvist 2010; _cites Pollert 1977_ [doi](https://doi.org/10.1016/0022-3697%2877%2990041-5) | Table 1, p. 4, row 6 |  |
-| 1183 | β-Spinel + α-spinel + Mn2O3 |  | experimental | [1] Kjellqvist 2010; _cites Speidel 1963_ | Table 1, p. 4, row 5 |  |
-| 1183 | β-Spinel + α-spinel + Mn2O3 |  | experimental | [1] Kjellqvist 2010; _cites Golikov 1985_ [doi](https://doi.org/10.1016/0022-3697%2885%2990073-3) | Table 1, p. 4, row 4 |  |
-| 1180 | β-Spinel + α-spinel + Mn2O3 |  | experimental | [1] Kjellqvist 2010; _cites Pollert 1980_ [doi](https://doi.org/10.1016/0025-5408%2880%2990101-4) | Table 1, p. 4, row 7 |  |
-| 1177 | β-Spinel + α-spinel + Mn2O3 |  | model | [1] Kjellqvist 2010 | Table 1, p. 4, row 8 |  |
-| 973 | β-Spinel + Mn2O3 + Cr2O3 |  | experimental | [1] Kjellqvist 2010; _cites Golikov 1985_ [doi](https://doi.org/10.1016/0022-3697%2885%2990073-3) | Table 1, p. 4, row 1 |  |
-| 873 | β-Spinel + Mn2O3 + Cr2O3 |  | experimental | [1] Kjellqvist 2010; _cites Speidel 1963_ | Table 1, p. 4, row 2 |  |
-| 813 | β-Spinel + Mn2O3 + Cr2O3 |  | model | [1] Kjellqvist 2010 | Table 1, p. 4, row 3 |  |
+| 2465 | β-Spinel + Cr2O3 + liquid |  | model | [1] Kjellqvist 2010 | Table 1, p. 4, row 10; `ORC-YLDYZ3AX2Q` |  |
+| 2243 | β-Spinel + Cr2O3 + liquid |  | experimental | [1] Kjellqvist 2010; _cites Speidel 1963_ | Table 1, p. 4, row 9; `ORC-HU6YJKLS33` |  |
+| 1235 | β-Spinel + α-spinel + Mn2O3 |  | experimental | [1] Kjellqvist 2010; _cites Pollert 1977_ [doi](https://doi.org/10.1016/0022-3697%2877%2990041-5) | Table 1, p. 4, row 6; `ORC-WF5FWA3EFQ` |  |
+| 1183 | β-Spinel + α-spinel + Mn2O3 |  | experimental | [1] Kjellqvist 2010; _cites Speidel 1963_ | Table 1, p. 4, row 5; `ORC-KXHOWNH5VS` |  |
+| 1183 | β-Spinel + α-spinel + Mn2O3 |  | experimental | [1] Kjellqvist 2010; _cites Golikov 1985_ [doi](https://doi.org/10.1016/0022-3697%2885%2990073-3) | Table 1, p. 4, row 4; `ORC-TZEHAJZER6` |  |
+| 1180 | β-Spinel + α-spinel + Mn2O3 |  | experimental | [1] Kjellqvist 2010; _cites Pollert 1980_ [doi](https://doi.org/10.1016/0025-5408%2880%2990101-4) | Table 1, p. 4, row 7; `ORC-6WHHNXXUKF` |  |
+| 1177 | β-Spinel + α-spinel + Mn2O3 |  | model | [1] Kjellqvist 2010 | Table 1, p. 4, row 8; `ORC-WISCVYYGDL` |  |
+| 973 | β-Spinel + Mn2O3 + Cr2O3 |  | experimental | [1] Kjellqvist 2010; _cites Golikov 1985_ [doi](https://doi.org/10.1016/0022-3697%2885%2990073-3) | Table 1, p. 4, row 1; `ORC-NGIUZ6YVNQ` |  |
+| 873 | β-Spinel + Mn2O3 + Cr2O3 |  | experimental | [1] Kjellqvist 2010; _cites Speidel 1963_ | Table 1, p. 4, row 2; `ORC-KMZ4QCHQCG` |  |
+| 813 | β-Spinel + Mn2O3 + Cr2O3 |  | model | [1] Kjellqvist 2010 | Table 1, p. 4, row 3; `ORC-P7OVLINY6R` |  |
 
 ## Sources
 
@@ -79,4 +79,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

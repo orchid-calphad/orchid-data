@@ -28,10 +28,10 @@ Table: Enthalpies of formation, Ce–H–Ni system (4)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| (Ce)(Va)(Va) |  | 8.454 kJ/mol (basis unstated) |  | model |  |  | [1] Hannappel 2024 | Table 3, p. 5, row 1 |  |
-| (Ce)(Va)(Va) |  | 10.082 kJ/mol (basis unstated) |  | model |  |  | [1] Hannappel 2024 | Table 3, p. 5, row 1 |  |
-| (Ce)(Va)2(H) |  | -1.983 kJ/mol (basis unstated) |  | model |  |  | [1] Hannappel 2024 | Table 3, p. 5, row 2 |  |
-| (Ce)(Va)2(H) |  | -1.686 kJ/mol (basis unstated) |  | model |  |  | [1] Hannappel 2024 | Table 3, p. 5, row 2 |  |
+| (Ce)(Va)(Va) |  | 8.454 kJ/mol (basis unstated) |  | model |  |  | [1] Hannappel 2024 | Table 3, p. 5, row 1; `ORC-ZE5CETVGXT.5b9dfb` |  |
+| (Ce)(Va)(Va) |  | 10.082 kJ/mol (basis unstated) |  | model |  |  | [1] Hannappel 2024 | Table 3, p. 5, row 1; `ORC-ZE5CETVGXT.d119ca` |  |
+| (Ce)(Va)2(H) |  | -1.983 kJ/mol (basis unstated) |  | model |  |  | [1] Hannappel 2024 | Table 3, p. 5, row 2; `ORC-VQ24JFFJQF.db2728` |  |
+| (Ce)(Va)2(H) |  | -1.686 kJ/mol (basis unstated) |  | model |  |  | [1] Hannappel 2024 | Table 3, p. 5, row 2; `ORC-VQ24JFFJQF.702117` |  |
 
 ## Sources
 
@@ -74,4 +74,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

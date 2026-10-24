@@ -28,28 +28,28 @@ Table: Mixing / partial, Co–Cr–Fe–Mn–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: ΔmixH^extrapolation_ | -12.497 kJ/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 18 |  |
-| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -7.801 kJ/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 18 |  |
-| Enthalpy of mixing; _printed: ΔmixH^extrapolation_ | -4.376 kJ/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 15 |  |
-| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -5.308 kJ/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 15 |  |
-| Enthalpy of mixing; _printed: ΔmixH^extrapolation_ | -9.484 kJ/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 11 |  |
-| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -6.706 kJ/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 11 |  |
-| Enthalpy of mixing; _printed: ΔmixH^extrapolation_ | -4.729 kJ/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 12 |  |
-| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -4.227 kJ/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 12 |  |
-| Enthalpy of mixing; _printed: ΔmixH^extrapolation_ | -7.403 kJ/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 26 |  |
-| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -5.506 kJ/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 26 |  |
-| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -3.982 kJ/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 19 |  |
-| Enthalpy of mixing; _printed: ΔmixH^extrapolation_ | -7.043 kJ/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 19 |  |
-| Enthalpy of mixing; _printed: ΔmixH^extrapolation_ | -9.275 kJ/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 17 |  |
-| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -7.372 kJ/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 17 |  |
-| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -2.69 kJ/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 20 |  |
-| Enthalpy of mixing; _printed: ΔmixH^extrapolation_ | -4.163 kJ/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 20 |  |
-| Enthalpy of mixing; _printed: ΔmixH^extrapolation_ | 0.798 kJ/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 16 |  |
-| Enthalpy of mixing; _printed: ΔmixH^SQS_ | 3.331 kJ/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 16 |  |
-| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -1.45 kJ/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 14 |  |
-| Enthalpy of mixing; _printed: ΔmixH^extrapolation_ | -2.06 kJ/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 14 |  |
-| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -4.694 kJ/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 13 |  |
-| Enthalpy of mixing; _printed: ΔmixH^extrapolation_ | -8.443 kJ/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 13 |  |
+| Enthalpy of mixing; _printed: ΔmixH^extrapolation_ | -12.497 kJ/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 18; `ORC-2FS2FFV7Q6.625f99` |  |
+| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -7.801 kJ/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 18; `ORC-2FS2FFV7Q6.6718e2` |  |
+| Enthalpy of mixing; _printed: ΔmixH^extrapolation_ | -4.376 kJ/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 15; `ORC-AKLUNAFE6J.10672a` |  |
+| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -5.308 kJ/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 15; `ORC-AKLUNAFE6J.c3496f` |  |
+| Enthalpy of mixing; _printed: ΔmixH^extrapolation_ | -9.484 kJ/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 11; `ORC-DBZTUME7S6.a33bd2` |  |
+| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -6.706 kJ/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 11; `ORC-DBZTUME7S6.d35ddd` |  |
+| Enthalpy of mixing; _printed: ΔmixH^extrapolation_ | -4.729 kJ/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 12; `ORC-IGSRNZSPVW.bbdf89` |  |
+| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -4.227 kJ/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 12; `ORC-IGSRNZSPVW.f53ab1` |  |
+| Enthalpy of mixing; _printed: ΔmixH^extrapolation_ | -7.403 kJ/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 26; `ORC-K722RDFEGC.238475` |  |
+| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -5.506 kJ/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 26; `ORC-K722RDFEGC.3c456c` |  |
+| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -3.982 kJ/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 19; `ORC-K7XCDYYIYS.53de01` |  |
+| Enthalpy of mixing; _printed: ΔmixH^extrapolation_ | -7.043 kJ/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 19; `ORC-K7XCDYYIYS.5bf47f` |  |
+| Enthalpy of mixing; _printed: ΔmixH^extrapolation_ | -9.275 kJ/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 17; `ORC-Q4GSQ3WSU7.de7eb9` |  |
+| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -7.372 kJ/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 17; `ORC-Q4GSQ3WSU7.e3c4ac` |  |
+| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -2.69 kJ/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 20; `ORC-S3X5IWWKBU.054f60` |  |
+| Enthalpy of mixing; _printed: ΔmixH^extrapolation_ | -4.163 kJ/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 20; `ORC-S3X5IWWKBU.817ffe` |  |
+| Enthalpy of mixing; _printed: ΔmixH^extrapolation_ | 0.798 kJ/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 16; `ORC-TH36GVLNV5.a62a81` |  |
+| Enthalpy of mixing; _printed: ΔmixH^SQS_ | 3.331 kJ/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 16; `ORC-TH36GVLNV5.c7810d` |  |
+| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -1.45 kJ/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 14; `ORC-XQLVJXIIZL.8ea70d` |  |
+| Enthalpy of mixing; _printed: ΔmixH^extrapolation_ | -2.06 kJ/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 14; `ORC-XQLVJXIIZL.ab68b2` |  |
+| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -4.694 kJ/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 13; `ORC-YL5CO6LGY6.88dde4` |  |
+| Enthalpy of mixing; _printed: ΔmixH^extrapolation_ | -8.443 kJ/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 13; `ORC-YL5CO6LGY6.a3ce3a` |  |
 
 ## Sources
 
@@ -92,4 +92,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -64,26 +64,26 @@ Table: Invariant reactions reported in the literature for the In–La system (20
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1426 | L+La3In5->LaIn2 | L: La 0.32; La3In5: La 0.375; LaIn2: La 0.333333 | experimental | [1] Wei 2002; _cites McMasters 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990057-5) | Table 1, p. 2, row 20 |  |
-| 1424 | L+La3In5->LaIn2 | L: La 0.3243; La3In5: La 0.375; LaIn2: La 0.333333 | model | [1] Wei 2002 | Table 1, p. 2, row 19 |  |
-| 1397 | L->LaIn2+LaIn3 | L: La 0.2842; LaIn2: La 0.333333; LaIn3: La 0.25 | model | [1] Wei 2002 | Table 1, p. 2, row 21 |  |
-| 1393 | L->LaIn2+LaIn3 | L: La 0.288; LaIn2: La 0.333333; LaIn3: La 0.25 | experimental | [1] Wei 2002; _cites McMasters 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990057-5) | Table 1, p. 2, row 22 |  |
-| 1376 | L->LaIn+La3In5 | L: La 0.464; LaIn: La 0.5; La3In5: La 0.375 | model | [1] Wei 2002 | Table 1, p. 2, row 11 |  |
-| 1359 | L->LaIn+La3In5 | L: La 0.46; LaIn: La 0.5; La3In5: La 0.375 | experimental | [1] Wei 2002; _cites McMasters 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990057-5) | Table 1, p. 2, row 12 |  |
-| 1346 | La3In5+LaIn->LaInx | La3In5: La 0.375; LaIn: La 0.5; LaInx: La 0.5 | model | [1] Wei 2002 | Table 1, p. 2, row 13 |  |
-| 1346 | La3In5+LaIn->LaInx | La3In5: La 0.375; LaIn: La 0.5; LaInx: La 0.5 | experimental | [1] Wei 2002; _cites McMasters 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990057-5) | Table 1, p. 2, row 14 |  |
-| 1228 | L+LaIn->La2In | L: La 0.704; LaIn: La 0.5; La2In: La 0.666667 | experimental | [1] Wei 2002; _cites McMasters 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990057-5) | Table 1, p. 2, row 8 |  |
-| 1211 | L+LaIn->La2In | L: La 0.6684; LaIn: La 0.5; La2In: La 0.666667 | model | [1] Wei 2002 | Table 1, p. 2, row 7 |  |
-| 1179 | LaInx->La3In5+LaIn | LaInx: La 0.5; La3In5: La 0.375; LaIn: La 0.5 | model | [1] Wei 2002 | Table 1, p. 2, row 15 |  |
-| 1178 | LaInx->La3In5+LaIn | LaInx: La 0.5; La3In5: La 0.375; LaIn: La 0.5 | experimental | [1] Wei 2002; _cites McMasters 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990057-5) | Table 1, p. 2, row 16 |  |
-| 1089 | L+La2In->La3In | L: La 0.809; La2In: La 0.666667; La3In: La 0.75 | experimental | [1] Wei 2002; _cites McMasters 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990057-5) | Table 1, p. 2, row 6 |  |
-| 1087 | L+La2In->La3In | L: La 0.7955; La2In: La 0.666667; La3In: La 0.75 | model | [1] Wei 2002 | Table 1, p. 2, row 5 |  |
-| 1019 | L->γ-La(bcc)+La3In | L: La 0.8563; La3In: La 0.75 | model | [1] Wei 2002 | Table 1, p. 2, row 1 |  |
-| 1015 | L->γ-La(bcc)+La3In | L: La 0.865; La3In: La 0.75 | experimental | [1] Wei 2002; _cites McMasters 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990057-5) | Table 1, p. 2, row 2 |  |
-| 979.3 | γ-La(bcc)->β-La(fcc)+La3In | γ-La(bcc): La 0.9269; La3In: La 0.75 | model | [1] Wei 2002 | Table 1, p. 2, row 3 |  |
-| 975 | γ-La(bcc)->β-La(fcc)+La3In | γ-La(bcc): La 0.919; La3In: La 0.75 | experimental | [1] Wei 2002; _cites McMasters 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990057-5) | Table 1, p. 2, row 4 |  |
-| 428 | L->In(tetragonal)+LaIn3 | L: La 0.005; In(tetragonal): La 0; LaIn3: La 0.25 | experimental | [1] Wei 2002; _cites McMasters 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990057-5) | Table 1, p. 2, row 26 |  |
-| 427.4 | L->In(tetragonal)+LaIn3 | L: La 0.004; In(tetragonal): La 0; LaIn3: La 0.25 | model | [1] Wei 2002 | Table 1, p. 2, row 25 |  |
+| 1426 | L+La3In5->LaIn2 | L: La 0.32; La3In5: La 0.375; LaIn2: La 0.333333 | experimental | [1] Wei 2002; _cites McMasters 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990057-5) | Table 1, p. 2, row 20; `ORC-DQ4K3VCMHK` |  |
+| 1424 | L+La3In5->LaIn2 | L: La 0.3243; La3In5: La 0.375; LaIn2: La 0.333333 | model | [1] Wei 2002 | Table 1, p. 2, row 19; `ORC-4FLJLVSD73` |  |
+| 1397 | L->LaIn2+LaIn3 | L: La 0.2842; LaIn2: La 0.333333; LaIn3: La 0.25 | model | [1] Wei 2002 | Table 1, p. 2, row 21; `ORC-OELIMIYJIJ` |  |
+| 1393 | L->LaIn2+LaIn3 | L: La 0.288; LaIn2: La 0.333333; LaIn3: La 0.25 | experimental | [1] Wei 2002; _cites McMasters 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990057-5) | Table 1, p. 2, row 22; `ORC-OKSBECS6M2` |  |
+| 1376 | L->LaIn+La3In5 | L: La 0.464; LaIn: La 0.5; La3In5: La 0.375 | model | [1] Wei 2002 | Table 1, p. 2, row 11; `ORC-AZA4J2PYXC` |  |
+| 1359 | L->LaIn+La3In5 | L: La 0.46; LaIn: La 0.5; La3In5: La 0.375 | experimental | [1] Wei 2002; _cites McMasters 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990057-5) | Table 1, p. 2, row 12; `ORC-2QDQ4LSV3D` |  |
+| 1346 | La3In5+LaIn->LaInx | La3In5: La 0.375; LaIn: La 0.5; LaInx: La 0.5 | model | [1] Wei 2002 | Table 1, p. 2, row 13; `ORC-NIGZ5SXIAS` |  |
+| 1346 | La3In5+LaIn->LaInx | La3In5: La 0.375; LaIn: La 0.5; LaInx: La 0.5 | experimental | [1] Wei 2002; _cites McMasters 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990057-5) | Table 1, p. 2, row 14; `ORC-S5YAMWR77X` |  |
+| 1228 | L+LaIn->La2In | L: La 0.704; LaIn: La 0.5; La2In: La 0.666667 | experimental | [1] Wei 2002; _cites McMasters 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990057-5) | Table 1, p. 2, row 8; `ORC-IQCIGL63PO` |  |
+| 1211 | L+LaIn->La2In | L: La 0.6684; LaIn: La 0.5; La2In: La 0.666667 | model | [1] Wei 2002 | Table 1, p. 2, row 7; `ORC-6LCXF5S65R` |  |
+| 1179 | LaInx->La3In5+LaIn | LaInx: La 0.5; La3In5: La 0.375; LaIn: La 0.5 | model | [1] Wei 2002 | Table 1, p. 2, row 15; `ORC-PASZQPTCGP` |  |
+| 1178 | LaInx->La3In5+LaIn | LaInx: La 0.5; La3In5: La 0.375; LaIn: La 0.5 | experimental | [1] Wei 2002; _cites McMasters 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990057-5) | Table 1, p. 2, row 16; `ORC-XEJDBUGMOO` |  |
+| 1089 | L+La2In->La3In | L: La 0.809; La2In: La 0.666667; La3In: La 0.75 | experimental | [1] Wei 2002; _cites McMasters 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990057-5) | Table 1, p. 2, row 6; `ORC-R2QGM3BKZF` |  |
+| 1087 | L+La2In->La3In | L: La 0.7955; La2In: La 0.666667; La3In: La 0.75 | model | [1] Wei 2002 | Table 1, p. 2, row 5; `ORC-J4BKF4JZUT` |  |
+| 1019 | L->γ-La(bcc)+La3In | L: La 0.8563; La3In: La 0.75 | model | [1] Wei 2002 | Table 1, p. 2, row 1; `ORC-CHGKQM7RM4` |  |
+| 1015 | L->γ-La(bcc)+La3In | L: La 0.865; La3In: La 0.75 | experimental | [1] Wei 2002; _cites McMasters 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990057-5) | Table 1, p. 2, row 2; `ORC-6GPKYRI65A` |  |
+| 979.3 | γ-La(bcc)->β-La(fcc)+La3In | γ-La(bcc): La 0.9269; La3In: La 0.75 | model | [1] Wei 2002 | Table 1, p. 2, row 3; `ORC-TSNTDUYPL4` |  |
+| 975 | γ-La(bcc)->β-La(fcc)+La3In | γ-La(bcc): La 0.919; La3In: La 0.75 | experimental | [1] Wei 2002; _cites McMasters 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990057-5) | Table 1, p. 2, row 4; `ORC-6FCJ4T7QS3` |  |
+| 428 | L->In(tetragonal)+LaIn3 | L: La 0.005; In(tetragonal): La 0; LaIn3: La 0.25 | experimental | [1] Wei 2002; _cites McMasters 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990057-5) | Table 1, p. 2, row 26; `ORC-QEMWX2CGPX` |  |
+| 427.4 | L->In(tetragonal)+LaIn3 | L: La 0.004; In(tetragonal): La 0; LaIn3: La 0.25 | model | [1] Wei 2002 | Table 1, p. 2, row 25; `ORC-IJFKH4AACI` |  |
 
 ## Other properties
 
@@ -93,14 +93,14 @@ Table: Phase transition, In–La system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1387 K | 1387 | L->LaIn; _L: La 0.5; LaIn: La 0.5_ | model | [1] Wei 2002 | Table 1, p. 2, row 9 |  |
-| Phase transition | 1398 K | 1398 | L->LaIn; _L: La 0.5; LaIn: La 0.5_ | experimental | [1] Wei 2002; _cites McMasters 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990057-5) | Table 1, p. 2, row 10 |  |
-| Phase transition | 1409 K | 1409 | L->LaIn3; _L: La 0.25; LaIn3: La 0.25_ | model | [1] Wei 2002 | Table 1, p. 2, row 23 |  |
-| Phase transition | 1413 K | 1413 | L->LaIn3; _L: La 0.25; LaIn3: La 0.25_ | experimental | [1] Wei 2002; _cites McMasters 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990057-5) | Table 1, p. 2, row 24 |  |
-| Phase transition | 1454 K | 1454 | L->La3In5; _L: La 0.375; La3In5: La 0.375_ | model | [1] Wei 2002 | Table 1, p. 2, row 17 |  |
-| Phase transition | 1458 K | 1458 | L->La3In5; _L: La 0.375; La3In5: La 0.375_ | experimental | [1] Wei 2002; _cites McMasters 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990057-5) | Table 1, p. 2, row 18 |  |
-| Phase transition | 1458 K | 1458 | congruent transformation | experimental | [1] Wei 2002; _cites Novozhenov 1975_ | p. 2 | “Novozhenov et al. \[8\] found that LaIn 3 melts at 1498 K and the La 2 In 3 phase melts congruently at 1458 K.” |
-| Phase transition | 1498 K | 1498 |  | experimental | [1] Wei 2002; _cites Novozhenov 1975_ | p. 2 | “Novozhenov et al. \[8\] found that LaIn 3 melts at 1498 K and the La 2 In 3 phase melts congruently at 1458 K.” |
+| Phase transition | 1387 K | 1387 | L->LaIn; _L: La 0.5; LaIn: La 0.5_ | model | [1] Wei 2002 | Table 1, p. 2, row 9; `ORC-XMX5UOH6IE` |  |
+| Phase transition | 1398 K | 1398 | L->LaIn; _L: La 0.5; LaIn: La 0.5_ | experimental | [1] Wei 2002; _cites McMasters 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990057-5) | Table 1, p. 2, row 10; `ORC-ARDSLWOWDR` |  |
+| Phase transition | 1409 K | 1409 | L->LaIn3; _L: La 0.25; LaIn3: La 0.25_ | model | [1] Wei 2002 | Table 1, p. 2, row 23; `ORC-LZHQ3MSP6R` |  |
+| Phase transition | 1413 K | 1413 | L->LaIn3; _L: La 0.25; LaIn3: La 0.25_ | experimental | [1] Wei 2002; _cites McMasters 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990057-5) | Table 1, p. 2, row 24; `ORC-6EXGCOUU3V` |  |
+| Phase transition | 1454 K | 1454 | L->La3In5; _L: La 0.375; La3In5: La 0.375_ | model | [1] Wei 2002 | Table 1, p. 2, row 17; `ORC-ZWHDYOVMQH` |  |
+| Phase transition | 1458 K | 1458 | L->La3In5; _L: La 0.375; La3In5: La 0.375_ | experimental | [1] Wei 2002; _cites McMasters 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990057-5) | Table 1, p. 2, row 18; `ORC-ZISAEPC3HW` |  |
+| Phase transition | 1458 K | 1458 | congruent transformation | experimental | [1] Wei 2002; _cites Novozhenov 1975_ | p. 2; `ORC-NX6IMRJVVS.75c2a5` | “Novozhenov et al. \[8\] found that LaIn 3 melts at 1498 K and the La 2 In 3 phase melts congruently at 1458 K.” |
+| Phase transition | 1498 K | 1498 |  | experimental | [1] Wei 2002; _cites Novozhenov 1975_ | p. 2; `ORC-NX6IMRJVVS.59390a` | “Novozhenov et al. \[8\] found that LaIn 3 melts at 1498 K and the La 2 In 3 phase melts congruently at 1458 K.” |
 
 ## Sources
 
@@ -165,4 +165,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

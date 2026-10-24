@@ -28,8 +28,8 @@ Table: Invariant reactions reported in the literature for the Bi–Ni–Sn syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1195.47 | peritectic: L + Ni3Sn_HT -> fcc(Ni) + Ni3Sn_LT | L: Bi 0.688, Ni 0.3073, Sn 0.0046 | unspecified | [1] Seo 2007 | Table V, p. 7, row 1 |  |
-| 1123.24 | peritectic: L + Ni3Sn_HT -> Ni3Sn_LT + Ni3Sn2 | L: Bi 0.8403, Ni 0.1377, Sn 0.022 | unspecified | [1] Seo 2007 | Table V, p. 7, row 2 |  |
+| 1195.47 | peritectic: L + Ni3Sn_HT -> fcc(Ni) + Ni3Sn_LT | L: Bi 0.688, Ni 0.3073, Sn 0.0046 | unspecified | [1] Seo 2007 | Table V, p. 7, row 1; `ORC-7JSASEKIGQ` |  |
+| 1123.24 | peritectic: L + Ni3Sn_HT -> Ni3Sn_LT + Ni3Sn2 | L: Bi 0.8403, Ni 0.1377, Sn 0.022 | unspecified | [1] Seo 2007 | Table V, p. 7, row 2; `ORC-RYJUTWJ4RM` |  |
 
 ## Other properties
 
@@ -39,25 +39,25 @@ Table: Phase equilibrium, Bi–Ni–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase assemblage |  |  | Bi + Ni3Sn2; _alloy: Bi 0.948501, Ni 0.034461, Sn 0.0170384_ | experimental | [1] Seo 2007 | Table IV, p. 6, row 9 |  |
-| Phase assemblage |  |  | Bi + Ni3Sn2; _alloy: Bi 0.484717, Ni 0.295861, Sn 0.219422_ | experimental | [1] Seo 2007 | Table IV, p. 6, row 10 |  |
-| Phase assemblage |  |  | Ni + NiBi + Ni3Sn; _alloy: Bi 0.238066, Ni 0.678115, Sn 0.0838195_ | experimental | [1] Seo 2007 | Table IV, p. 6, row 11 |  |
-| Phase assemblage |  |  | Ni3Sn + Ni3Sn2 + NiBi3; _alloy: Bi 0.0400892, Ni 0.642327, Sn 0.317584_ | experimental | [1] Seo 2007 | Table IV, p. 6, row 18 |  |
-| Phase assemblage |  |  | Ni3Sn + Ni3Sn2 + NiBi3; _alloy: Bi 0.136466, Ni 0.59927, Sn 0.264263_ | experimental | [1] Seo 2007 | Table IV, p. 6, row 14 |  |
-| Phase assemblage |  |  | Ni3Sn + Ni3Sn2 + NiBi3; _alloy: Bi 0.200372, Ni 0.535074, Sn 0.264555_ | experimental | [1] Seo 2007 | Table IV, p. 6, row 16 |  |
-| Phase assemblage |  |  | Ni3Sn + Ni3Sn2 + NiBi3; _alloy: Bi 0.342036, Ni 0.507431, Sn 0.150533_ | experimental | [1] Seo 2007 | Table IV, p. 6, row 17 |  |
-| Phase assemblage |  |  | Ni3Sn + Ni3Sn2 + NiBi3; _alloy: Bi 0.0826995, Ni 0.662524, Sn 0.254776_ | experimental | [1] Seo 2007 | Table IV, p. 6, row 15 |  |
-| Phase assemblage |  |  | Ni3Sn + NiBi + NiBi3; _alloy: Bi 0.548657, Ni 0.415123, Sn 0.0362202_ | experimental | [1] Seo 2007 | Table IV, p. 6, row 7 |  |
-| Phase assemblage |  |  | Ni3Sn + NiBi + NiBi3; _alloy: Bi 0.48383, Ni 0.459386, Sn 0.0567832_ | experimental | [1] Seo 2007 | Table IV, p. 6, row 8 |  |
-| Phase assemblage |  |  | Ni3Sn + NiBi + NiBi3; _alloy: Bi 0.289439, Ni 0.580861, Sn 0.1297_ | experimental | [1] Seo 2007 | Table IV, p. 6, row 6 |  |
-| Phase assemblage |  |  | Ni3Sn2 + NiBi3; _alloy: Bi 0.273188, Ni 0.486348, Sn 0.240464_ | experimental | [1] Seo 2007 | Table IV, p. 6, row 19 |  |
-| Phase assemblage |  |  | Ni3Sn4 + Ni3Sn2 + Bi; _alloy: Bi 0.22023, Ni 0.39207, Sn 0.3877_ | experimental | [1] Seo 2007 | Table IV, p. 6, row 12 |  |
-| Phase assemblage |  |  | NiBi3 + Bi + Ni3Sn2; _alloy: Bi 0.813481, Ni 0.155722, Sn 0.0307973_ | experimental | [1] Seo 2007 | Table IV, p. 6, row 4 |  |
-| Phase assemblage |  |  | NiBi3 + Bi + Ni3Sn2; _alloy: Bi 0.74872, Ni 0.207344, Sn 0.0439356_ | experimental | [1] Seo 2007 | Table IV, p. 6, row 5 |  |
-| Phase assemblage |  |  | NiBi3 + Bi + Ni3Sn2; _alloy: Bi 0.360535, Ni 0.4279, Sn 0.211565_ | experimental | [1] Seo 2007 | Table IV, p. 6, row 3 |  |
-| Phase assemblage |  |  | NiBi3 + Bi + Ni3Sn2; _alloy: Bi 0.600557, Ni 0.267289, Sn 0.132155_ | experimental | [1] Seo 2007 | Table IV, p. 6, row 2 |  |
-| Phase assemblage |  |  | NiBi3 + Bi + Ni3Sn2; _alloy: Bi 0.916118, Ni 0.0672552, Sn 0.0166264_ | experimental | [1] Seo 2007 | Table IV, p. 6, row 1 |  |
-| Phase assemblage |  |  | Sn-Bi eutectic + Ni3Sn4 + Bi; _alloy: Bi 0.430361, Ni 0.127693, Sn 0.441945_ | experimental | [1] Seo 2007 | Table IV, p. 6, row 13 |  |
+| Phase assemblage |  |  | Bi + Ni3Sn2; _alloy: Bi 0.948501, Ni 0.034461, Sn 0.0170384_ | experimental | [1] Seo 2007 | Table IV, p. 6, row 9; `ORC-IIBPPG6SKE` |  |
+| Phase assemblage |  |  | Bi + Ni3Sn2; _alloy: Bi 0.484717, Ni 0.295861, Sn 0.219422_ | experimental | [1] Seo 2007 | Table IV, p. 6, row 10; `ORC-N6JE7Q6Y3K` |  |
+| Phase assemblage |  |  | Ni + NiBi + Ni3Sn; _alloy: Bi 0.238066, Ni 0.678115, Sn 0.0838195_ | experimental | [1] Seo 2007 | Table IV, p. 6, row 11; `ORC-SBVYVADHWC` |  |
+| Phase assemblage |  |  | Ni3Sn + Ni3Sn2 + NiBi3; _alloy: Bi 0.0400892, Ni 0.642327, Sn 0.317584_ | experimental | [1] Seo 2007 | Table IV, p. 6, row 18; `ORC-2PXMBMAST7` |  |
+| Phase assemblage |  |  | Ni3Sn + Ni3Sn2 + NiBi3; _alloy: Bi 0.136466, Ni 0.59927, Sn 0.264263_ | experimental | [1] Seo 2007 | Table IV, p. 6, row 14; `ORC-4TVJFQENJ2` |  |
+| Phase assemblage |  |  | Ni3Sn + Ni3Sn2 + NiBi3; _alloy: Bi 0.200372, Ni 0.535074, Sn 0.264555_ | experimental | [1] Seo 2007 | Table IV, p. 6, row 16; `ORC-BPQLSID62Z` |  |
+| Phase assemblage |  |  | Ni3Sn + Ni3Sn2 + NiBi3; _alloy: Bi 0.342036, Ni 0.507431, Sn 0.150533_ | experimental | [1] Seo 2007 | Table IV, p. 6, row 17; `ORC-OLKKCY3RBB` |  |
+| Phase assemblage |  |  | Ni3Sn + Ni3Sn2 + NiBi3; _alloy: Bi 0.0826995, Ni 0.662524, Sn 0.254776_ | experimental | [1] Seo 2007 | Table IV, p. 6, row 15; `ORC-TYTKTEMKV7` |  |
+| Phase assemblage |  |  | Ni3Sn + NiBi + NiBi3; _alloy: Bi 0.548657, Ni 0.415123, Sn 0.0362202_ | experimental | [1] Seo 2007 | Table IV, p. 6, row 7; `ORC-BCMOOLWZG4` |  |
+| Phase assemblage |  |  | Ni3Sn + NiBi + NiBi3; _alloy: Bi 0.48383, Ni 0.459386, Sn 0.0567832_ | experimental | [1] Seo 2007 | Table IV, p. 6, row 8; `ORC-HFRA6BR4PJ` |  |
+| Phase assemblage |  |  | Ni3Sn + NiBi + NiBi3; _alloy: Bi 0.289439, Ni 0.580861, Sn 0.1297_ | experimental | [1] Seo 2007 | Table IV, p. 6, row 6; `ORC-WE6XZU7UNW` |  |
+| Phase assemblage |  |  | Ni3Sn2 + NiBi3; _alloy: Bi 0.273188, Ni 0.486348, Sn 0.240464_ | experimental | [1] Seo 2007 | Table IV, p. 6, row 19; `ORC-KCWGDIEXRT` |  |
+| Phase assemblage |  |  | Ni3Sn4 + Ni3Sn2 + Bi; _alloy: Bi 0.22023, Ni 0.39207, Sn 0.3877_ | experimental | [1] Seo 2007 | Table IV, p. 6, row 12; `ORC-YBXYW4UFJ5` |  |
+| Phase assemblage |  |  | NiBi3 + Bi + Ni3Sn2; _alloy: Bi 0.813481, Ni 0.155722, Sn 0.0307973_ | experimental | [1] Seo 2007 | Table IV, p. 6, row 4; `ORC-2LW4U4NQNA` |  |
+| Phase assemblage |  |  | NiBi3 + Bi + Ni3Sn2; _alloy: Bi 0.74872, Ni 0.207344, Sn 0.0439356_ | experimental | [1] Seo 2007 | Table IV, p. 6, row 5; `ORC-6PKSGRHJJI` |  |
+| Phase assemblage |  |  | NiBi3 + Bi + Ni3Sn2; _alloy: Bi 0.360535, Ni 0.4279, Sn 0.211565_ | experimental | [1] Seo 2007 | Table IV, p. 6, row 3; `ORC-77SP7XDXYK` |  |
+| Phase assemblage |  |  | NiBi3 + Bi + Ni3Sn2; _alloy: Bi 0.600557, Ni 0.267289, Sn 0.132155_ | experimental | [1] Seo 2007 | Table IV, p. 6, row 2; `ORC-NHEUTJI3XV` |  |
+| Phase assemblage |  |  | NiBi3 + Bi + Ni3Sn2; _alloy: Bi 0.916118, Ni 0.0672552, Sn 0.0166264_ | experimental | [1] Seo 2007 | Table IV, p. 6, row 1; `ORC-QQC2ORXX2V` |  |
+| Phase assemblage |  |  | Sn-Bi eutectic + Ni3Sn4 + Bi; _alloy: Bi 0.430361, Ni 0.127693, Sn 0.441945_ | experimental | [1] Seo 2007 | Table IV, p. 6, row 13; `ORC-DDFELQV7ZP` |  |
 
 ## Sources
 
@@ -100,4 +100,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

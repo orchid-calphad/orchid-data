@@ -29,21 +29,21 @@ Table: Invariant reactions reported in the literature for the Au–Co–Sn syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 795.1 | peritectic: L + Au + β -> ζ |  | model | [1] Dong 2009 | Table V, p. 11, row 12 |  |
-| 781.4 | quasi-peritectic: L + CoSn -> βCo3Sn2 + AuSn |  | model | [1] Dong 2009 | Table V, p. 11, row 1 |  |
-| 761.5 | eutectic: L -> Au + αCo + ζ |  | model | [1] Dong 2009 | Table V, p. 11, row 10 |  |
-| 697.1 | peritectic: L + αCo + ζ -> εCo |  | model | [1] Dong 2009 | Table V, p. 11, row 13 |  |
-| 696.7 | quasi-peritectic: L + αCo -> βCo3Sn2 + εCo |  | model | [1] Dong 2009 | Table V, p. 11, row 2 |  |
-| 668.15 | peritectic: s1 ! L þ CoSn þ Au15 Co41 Sn44 |  | experimental | [1] Dong 2009; _cites Neumann 1996_ [doi](https://doi.org/10.1016/0925-8388%2896%2902302-x) | p. 2 | “A ternary compound phase (denoted s1) was detected; it melted peritectically at 395°C (668 K): s1 ! L þ CoSn þ Au15 Co41 Sn44 ; where Au15Co41Sn44 belongs to the bCo3Sn2 phase with ternary solubility of Au.” |
-| 667.9 | peritectic: L + AuSn + CoSn -> τ1 |  | model | [1] Dong 2009 | Table V, p. 11, row 14 |  |
-| 660.6 | quasi-peritectic: L + CoSn -> CoSn2 + τ1 |  | model | [1] Dong 2009 | Table V, p. 11, row 3 |  |
-| 654.2 | quasi-peritectic: L + εCo -> ζ + βCo3Sn2 |  | model | [1] Dong 2009 | Table V, p. 11, row 4 |  |
-| 577 | quasi-peritectic: L + βCo3Sn2 -> AuSn + ζ |  | model | [1] Dong 2009 | Table V, p. 11, row 5 |  |
-| 565.8 | quasi-peritectic: L + AuSn -> τ1 + AuSn2 |  | model | [1] Dong 2009 | Table V, p. 11, row 6 |  |
-| 552.2 | quasi-peritectic: L + τ1 -> AuSn2 + CoSn2 |  | model | [1] Dong 2009 | Table V, p. 11, row 7 |  |
-| 525.5 | quasi-peritectic: L + AuSn2 -> CoSn2 + AuSn4 |  | model | [1] Dong 2009 | Table V, p. 11, row 8 |  |
-| 522.5 | quasi-peritectic: L + CoSn2 -> CoSn3 + AuSn4 |  | model | [1] Dong 2009 | Table V, p. 11, row 9 |  |
-| 483 | eutectic: L -> CoSn3 + AuSn4 + βSn |  | model | [1] Dong 2009 | Table V, p. 11, row 11 |  |
+| 795.1 | peritectic: L + Au + β -> ζ |  | model | [1] Dong 2009 | Table V, p. 11, row 12; `ORC-ZPYM5QVUR6` |  |
+| 781.4 | quasi-peritectic: L + CoSn -> βCo3Sn2 + AuSn |  | model | [1] Dong 2009 | Table V, p. 11, row 1; `ORC-DMNOFMO5G3` |  |
+| 761.5 | eutectic: L -> Au + αCo + ζ |  | model | [1] Dong 2009 | Table V, p. 11, row 10; `ORC-EW6WXF76UV` |  |
+| 697.1 | peritectic: L + αCo + ζ -> εCo |  | model | [1] Dong 2009 | Table V, p. 11, row 13; `ORC-TQ4HGJVRCO` |  |
+| 696.7 | quasi-peritectic: L + αCo -> βCo3Sn2 + εCo |  | model | [1] Dong 2009 | Table V, p. 11, row 2; `ORC-EEBIHVCZ47` |  |
+| 668.15 | peritectic: s1 ! L þ CoSn þ Au15 Co41 Sn44 |  | experimental | [1] Dong 2009; _cites Neumann 1996_ [doi](https://doi.org/10.1016/0925-8388%2896%2902302-x) | p. 2; `ORC-HPEWKLKD3R` | “A ternary compound phase (denoted s1) was detected; it melted peritectically at 395°C (668 K): s1 ! L þ CoSn þ Au15 Co41 Sn44 ; where Au15Co41Sn44 belongs to the bCo3Sn2 phase with ternary solubility of Au.” |
+| 667.9 | peritectic: L + AuSn + CoSn -> τ1 |  | model | [1] Dong 2009 | Table V, p. 11, row 14; `ORC-IYRTABR2DS` |  |
+| 660.6 | quasi-peritectic: L + CoSn -> CoSn2 + τ1 |  | model | [1] Dong 2009 | Table V, p. 11, row 3; `ORC-RPNZKJU6KQ` |  |
+| 654.2 | quasi-peritectic: L + εCo -> ζ + βCo3Sn2 |  | model | [1] Dong 2009 | Table V, p. 11, row 4; `ORC-QNCYETV6ZT` |  |
+| 577 | quasi-peritectic: L + βCo3Sn2 -> AuSn + ζ |  | model | [1] Dong 2009 | Table V, p. 11, row 5; `ORC-V5ZCG3AZG4` |  |
+| 565.8 | quasi-peritectic: L + AuSn -> τ1 + AuSn2 |  | model | [1] Dong 2009 | Table V, p. 11, row 6; `ORC-QUKTOJ3B3D` |  |
+| 552.2 | quasi-peritectic: L + τ1 -> AuSn2 + CoSn2 |  | model | [1] Dong 2009 | Table V, p. 11, row 7; `ORC-WFBFAOWXLH` |  |
+| 525.5 | quasi-peritectic: L + AuSn2 -> CoSn2 + AuSn4 |  | model | [1] Dong 2009 | Table V, p. 11, row 8; `ORC-DLHBG2GBYV` |  |
+| 522.5 | quasi-peritectic: L + CoSn2 -> CoSn3 + AuSn4 |  | model | [1] Dong 2009 | Table V, p. 11, row 9; `ORC-OK7WMGQ7CL` |  |
+| 483 | eutectic: L -> CoSn3 + AuSn4 + βSn |  | model | [1] Dong 2009 | Table V, p. 11, row 11; `ORC-QUAGX57XZY` |  |
 
 ## Other properties
 
@@ -53,22 +53,22 @@ Table: Phase equilibrium, Au–Co–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase assemblage |  | 635 | Au + αCo + β; _alloy: Co 0, Sn 0_ | experimental | [1] Dong 2009 | Table IV, p. 9, row 18 |  |
-| Phase assemblage |  | 635 | Au + αCo + β; _alloy: Co 0, Sn 0_ | unspecified | [1] Dong 2009 | Table IV, p. 9, row 17 |  |
-| Phase assemblage |  | 635 | CoSn + AuSn + τ1; _alloy: Co 0.5, Sn 0.5_ | experimental | [1] Dong 2009 | Table IV, p. 9, row 8 |  |
-| Phase assemblage |  | 635 | CoSn + AuSn + τ1; _alloy: Co 0.5, Sn 0.5_ | unspecified | [1] Dong 2009 | Table IV, p. 9, row 7 |  |
-| Phase assemblage |  | 635 | CoSn + CoSn2 + τ1; _alloy: Co 0.5, Sn 0.5_ | unspecified | [1] Dong 2009 | Table IV, p. 9, row 9 |  |
-| Phase assemblage |  | 635 | CoSn + CoSn2 + τ1; _alloy: Co 0.5, Sn 0.5_ | experimental | [1] Dong 2009 | Table IV, p. 9, row 6 |  |
-| Phase assemblage |  | 635 | L + AuSn + αCo3Sn2; _alloy: Co 0, Sn 0.5_ | experimental | [1] Dong 2009 | Table IV, p. 9, row 12 |  |
-| Phase assemblage |  | 635 | L + AuSn + αCo3Sn2; _alloy: Co 0, Sn 0.5_ | unspecified | [1] Dong 2009 | Table IV, p. 9, row 11 |  |
-| Phase assemblage |  | 635 | L + AuSn + τ1; _alloy: Co 0, Sn 0.5_ | unspecified | [1] Dong 2009 | Table IV, p. 9, row 3 |  |
-| Phase assemblage |  | 635 | L + AuSn + τ1; _alloy: Co 0, Sn 0.5_ | experimental | [1] Dong 2009 | Table IV, p. 9, row 4 |  |
-| Phase assemblage |  | 635 | L + CoSn2 + τ1; _alloy: Co 0.333333, Sn 0.666667_ | experimental | [1] Dong 2009 | Table IV, p. 9, row 2 |  |
-| Phase assemblage |  | 635 | L + CoSn2 + τ1; _alloy: Co 0.333333, Sn 0.666667_ | unspecified | [1] Dong 2009 | Table IV, p. 9, row 1 |  |
-| Phase assemblage |  | 635 | L + ζ + αCo3Sn2; _alloy: Co 0.6, Sn 0.4_ | unspecified | [1] Dong 2009 | Table IV, p. 9, row 13 |  |
-| Phase assemblage |  | 635 | L + ζ + αCo3Sn2; _alloy: Co 0.6, Sn 0.4_ | experimental | [1] Dong 2009 | Table IV, p. 9, row 14 |  |
-| Phase assemblage |  | 635 | αCo + ζ + αCo3Sn2; _alloy: Co 1, Sn 0_ | experimental | [1] Dong 2009 | Table IV, p. 9, row 16 |  |
-| Phase assemblage |  | 635 | αCo + ζ + αCo3Sn2; _alloy: Co 1, Sn 0_ | unspecified | [1] Dong 2009 | Table IV, p. 9, row 15 |  |
+| Phase assemblage |  | 635 | Au + αCo + β; _alloy: Co 0, Sn 0_ | experimental | [1] Dong 2009 | Table IV, p. 9, row 18; `ORC-E7AWZABW2W` |  |
+| Phase assemblage |  | 635 | Au + αCo + β; _alloy: Co 0, Sn 0_ | unspecified | [1] Dong 2009 | Table IV, p. 9, row 17; `ORC-J66NBRJ2K5` |  |
+| Phase assemblage |  | 635 | CoSn + AuSn + τ1; _alloy: Co 0.5, Sn 0.5_ | experimental | [1] Dong 2009 | Table IV, p. 9, row 8; `ORC-VG6ZQAX4CV` |  |
+| Phase assemblage |  | 635 | CoSn + AuSn + τ1; _alloy: Co 0.5, Sn 0.5_ | unspecified | [1] Dong 2009 | Table IV, p. 9, row 7; `ORC-WQKLA7PEJ4` |  |
+| Phase assemblage |  | 635 | CoSn + CoSn2 + τ1; _alloy: Co 0.5, Sn 0.5_ | unspecified | [1] Dong 2009 | Table IV, p. 9, row 9; `ORC-4ZGCEXHRUY` |  |
+| Phase assemblage |  | 635 | CoSn + CoSn2 + τ1; _alloy: Co 0.5, Sn 0.5_ | experimental | [1] Dong 2009 | Table IV, p. 9, row 6; `ORC-MG64ELNGE4` |  |
+| Phase assemblage |  | 635 | L + AuSn + αCo3Sn2; _alloy: Co 0, Sn 0.5_ | experimental | [1] Dong 2009 | Table IV, p. 9, row 12; `ORC-2CC44P47TP` |  |
+| Phase assemblage |  | 635 | L + AuSn + αCo3Sn2; _alloy: Co 0, Sn 0.5_ | unspecified | [1] Dong 2009 | Table IV, p. 9, row 11; `ORC-LE4MAHNGRC` |  |
+| Phase assemblage |  | 635 | L + AuSn + τ1; _alloy: Co 0, Sn 0.5_ | unspecified | [1] Dong 2009 | Table IV, p. 9, row 3; `ORC-HWVABZIV36` |  |
+| Phase assemblage |  | 635 | L + AuSn + τ1; _alloy: Co 0, Sn 0.5_ | experimental | [1] Dong 2009 | Table IV, p. 9, row 4; `ORC-UXSDNFFHPS` |  |
+| Phase assemblage |  | 635 | L + CoSn2 + τ1; _alloy: Co 0.333333, Sn 0.666667_ | experimental | [1] Dong 2009 | Table IV, p. 9, row 2; `ORC-6WFUET7Y2Q` |  |
+| Phase assemblage |  | 635 | L + CoSn2 + τ1; _alloy: Co 0.333333, Sn 0.666667_ | unspecified | [1] Dong 2009 | Table IV, p. 9, row 1; `ORC-E5Z7WYHMZD` |  |
+| Phase assemblage |  | 635 | L + ζ + αCo3Sn2; _alloy: Co 0.6, Sn 0.4_ | unspecified | [1] Dong 2009 | Table IV, p. 9, row 13; `ORC-FFTT6SJG67` |  |
+| Phase assemblage |  | 635 | L + ζ + αCo3Sn2; _alloy: Co 0.6, Sn 0.4_ | experimental | [1] Dong 2009 | Table IV, p. 9, row 14; `ORC-H2GG37YR2Q` |  |
+| Phase assemblage |  | 635 | αCo + ζ + αCo3Sn2; _alloy: Co 1, Sn 0_ | experimental | [1] Dong 2009 | Table IV, p. 9, row 16; `ORC-QY57Z7T7GO` |  |
+| Phase assemblage |  | 635 | αCo + ζ + αCo3Sn2; _alloy: Co 1, Sn 0_ | unspecified | [1] Dong 2009 | Table IV, p. 9, row 15; `ORC-QZAJAAVLBO` |  |
 
 ## Sources
 
@@ -111,4 +111,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -28,27 +28,27 @@ Table: Phase transition, Mo–Nb–Ta–W system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 135 K | 135 | other: MoW; _alloy: Nb 0, Ta 0, W 0.5_ | model | [1] Zhang 2022; _cites Wang 2022_ | Table 3, p. 10, row 20 |  |
-| Phase transition | 152 K | 152 | other: MoW; _alloy: Nb 0, Ta 0, W 0.5_ | model | [1] Zhang 2022 | Table 3, p. 10, row 19 |  |
-| Phase transition | 465 K | 465 | other: MoNbW; _alloy: Nb 0.333333, Ta 0, W 0.333333_ | model | [1] Zhang 2022 | Table 3, p. 10, row 25 |  |
-| Phase transition | 508 K | 508 | other: MoNbTaW; _alloy: Nb 0.25, Ta 0.25, W 0.25_ | model | [1] Zhang 2022; _cites Kormann 2016_ [doi](https://doi.org/10.3390/e18080403) | Table 3, p. 10, row 32 |  |
-| Phase transition | 526 K | 526 | other: MoNbTa; _alloy: Nb 0.333333, Ta 0.333333, W 0_ | model | [1] Zhang 2022; _cites Wang 2022_ | Table 3, p. 10, row 22 |  |
-| Phase transition | 540 K | 540 | other: MoNb; _alloy: Nb 0.5, Ta 0, W 0_ | model | [1] Zhang 2022; _cites Blum 2005_ | Table 3, p. 10, row 8 |  |
-| Phase transition | 568 K | 568 | other: MoNbTa; _alloy: Nb 0.333333, Ta 0.333333, W 0_ | model | [1] Zhang 2022 | Table 3, p. 10, row 21 |  |
-| Phase transition | 572 K | 572 | other: MoNbTaW; _alloy: Nb 0.25, Ta 0.25, W 0.25_ | model | [1] Zhang 2022 | Table 3, p. 10, row 27 |  |
-| Phase transition | 594 K | 594 | other: MoNbTaW; _alloy: Nb 0.25, Ta 0.25, W 0.25_ | model | [1] Zhang 2022; _cites Wang 2022_ | Table 3, p. 10, row 30 |  |
-| Phase transition | 682 K | 682 | other: MoNb; _alloy: Nb 0.5, Ta 0, W 0_ | model | [1] Zhang 2022; _cites Wang 2022_ | Table 3, p. 10, row 7 |  |
-| Phase transition | 682 K | 682 | other: MoNb; _alloy: Nb 0.5, Ta 0, W 0_ | model | [1] Zhang 2022 | Table 3, p. 10, row 6 |  |
-| Phase transition | 750 K | 750 | other: MoNbTaW; _alloy: Nb 0.25, Ta 0.25, W 0.25_ | model | [1] Zhang 2022; _cites Kormann 2017_ | Table 3, p. 10, row 31 |  |
-| Phase transition | 800 K | 800 | other: MoNb; _alloy: Nb 0.5, Ta 0, W 0_ | model | [1] Zhang 2022; _cites Sigli 1988_ [doi](https://doi.org/10.1016/0001-6160%2888%2990012-0) | Table 3, p. 10, row 9 |  |
-| Phase transition | 800 K | 800 | other: MoTa; _alloy: Nb 0, Ta 0.5, W 0_ | model | [1] Zhang 2022; _cites Blum 2005_ | Table 3, p. 10, row 3 |  |
-| Phase transition | 859 K | 859 | other: MoTaW; _alloy: Nb 0, Ta 0.333333, W 0.333333_ | model | [1] Zhang 2022 | Table 3, p. 10, row 26 |  |
-| Phase transition | 900 K | 900 | other: MoNbTaW; _alloy: Nb 0.25, Ta 0.25, W 0.25_ | model | [1] Zhang 2022; _cites Widom 2014_ | Table 3, p. 10, row 28 |  |
-| Phase transition | 1040 K | 1040 | other: MoTa; _alloy: Nb 0, Ta 0.5, W 0_ | model | [1] Zhang 2022; _cites Sigli 1988_ [doi](https://doi.org/10.1016/0001-6160%2888%2990012-0) | Table 3, p. 10, row 5 |  |
-| Phase transition | 1239 K | 1239 | other: MoTa; _alloy: Nb 0, Ta 0.5, W 0_ | model | [1] Zhang 2022; _cites Wang 2022_ | Table 3, p. 10, row 2 |  |
-| Phase transition | 1239 K | 1239 | other: MoTa; _alloy: Nb 0, Ta 0.5, W 0_ | model | [1] Zhang 2022 | Table 3, p. 10, row 1 |  |
-| Phase transition | 1654 K | 1654 | other: MoNbTaW; _alloy: Nb 0.25, Ta 0.25, W 0.25_ | model | [1] Zhang 2022; _cites Huhn 2013_ [doi](https://doi.org/10.1007/s11837-013-0772-3) | Table 3, p. 10, row 29 |  |
-| Phase transition | 1770 K | 1770 | other: MoTa; _alloy: Nb 0, Ta 0.5, W 0_ | model | [1] Zhang 2022; _cites Turchi 2005_ [doi](https://doi.org/10.1103/physrevb.71.094206) | Table 3, p. 10, row 4 |  |
+| Phase transition | 135 K | 135 | other: MoW; _alloy: Nb 0, Ta 0, W 0.5_ | model | [1] Zhang 2022; _cites Wang 2022_ | Table 3, p. 10, row 20; `ORC-MLLG55LAEG` |  |
+| Phase transition | 152 K | 152 | other: MoW; _alloy: Nb 0, Ta 0, W 0.5_ | model | [1] Zhang 2022 | Table 3, p. 10, row 19; `ORC-TRU27DKWTS` |  |
+| Phase transition | 465 K | 465 | other: MoNbW; _alloy: Nb 0.333333, Ta 0, W 0.333333_ | model | [1] Zhang 2022 | Table 3, p. 10, row 25; `ORC-FHH42NMMX3` |  |
+| Phase transition | 508 K | 508 | other: MoNbTaW; _alloy: Nb 0.25, Ta 0.25, W 0.25_ | model | [1] Zhang 2022; _cites Kormann 2016_ [doi](https://doi.org/10.3390/e18080403) | Table 3, p. 10, row 32; `ORC-G3FI4PU7VY` |  |
+| Phase transition | 526 K | 526 | other: MoNbTa; _alloy: Nb 0.333333, Ta 0.333333, W 0_ | model | [1] Zhang 2022; _cites Wang 2022_ | Table 3, p. 10, row 22; `ORC-RBU3ALV6KD` |  |
+| Phase transition | 540 K | 540 | other: MoNb; _alloy: Nb 0.5, Ta 0, W 0_ | model | [1] Zhang 2022; _cites Blum 2005_ | Table 3, p. 10, row 8; `ORC-BHGPZQG4PD` |  |
+| Phase transition | 568 K | 568 | other: MoNbTa; _alloy: Nb 0.333333, Ta 0.333333, W 0_ | model | [1] Zhang 2022 | Table 3, p. 10, row 21; `ORC-MMBTTYKNGU` |  |
+| Phase transition | 572 K | 572 | other: MoNbTaW; _alloy: Nb 0.25, Ta 0.25, W 0.25_ | model | [1] Zhang 2022 | Table 3, p. 10, row 27; `ORC-WCSFID524D` |  |
+| Phase transition | 594 K | 594 | other: MoNbTaW; _alloy: Nb 0.25, Ta 0.25, W 0.25_ | model | [1] Zhang 2022; _cites Wang 2022_ | Table 3, p. 10, row 30; `ORC-V4TGXVSOJX` |  |
+| Phase transition | 682 K | 682 | other: MoNb; _alloy: Nb 0.5, Ta 0, W 0_ | model | [1] Zhang 2022; _cites Wang 2022_ | Table 3, p. 10, row 7; `ORC-ISPAEIIMRT` |  |
+| Phase transition | 682 K | 682 | other: MoNb; _alloy: Nb 0.5, Ta 0, W 0_ | model | [1] Zhang 2022 | Table 3, p. 10, row 6; `ORC-VSXXOBWN34` |  |
+| Phase transition | 750 K | 750 | other: MoNbTaW; _alloy: Nb 0.25, Ta 0.25, W 0.25_ | model | [1] Zhang 2022; _cites Kormann 2017_ | Table 3, p. 10, row 31; `ORC-TI7DSQZ7HX` |  |
+| Phase transition | 800 K | 800 | other: MoNb; _alloy: Nb 0.5, Ta 0, W 0_ | model | [1] Zhang 2022; _cites Sigli 1988_ [doi](https://doi.org/10.1016/0001-6160%2888%2990012-0) | Table 3, p. 10, row 9; `ORC-G2S5HVL4QO` |  |
+| Phase transition | 800 K | 800 | other: MoTa; _alloy: Nb 0, Ta 0.5, W 0_ | model | [1] Zhang 2022; _cites Blum 2005_ | Table 3, p. 10, row 3; `ORC-YHBS6WMSJ2` |  |
+| Phase transition | 859 K | 859 | other: MoTaW; _alloy: Nb 0, Ta 0.333333, W 0.333333_ | model | [1] Zhang 2022 | Table 3, p. 10, row 26; `ORC-QGYCX7BM3F` |  |
+| Phase transition | 900 K | 900 | other: MoNbTaW; _alloy: Nb 0.25, Ta 0.25, W 0.25_ | model | [1] Zhang 2022; _cites Widom 2014_ | Table 3, p. 10, row 28; `ORC-GU3E7VT5GV` |  |
+| Phase transition | 1040 K | 1040 | other: MoTa; _alloy: Nb 0, Ta 0.5, W 0_ | model | [1] Zhang 2022; _cites Sigli 1988_ [doi](https://doi.org/10.1016/0001-6160%2888%2990012-0) | Table 3, p. 10, row 5; `ORC-XWOLJ4C7RG` |  |
+| Phase transition | 1239 K | 1239 | other: MoTa; _alloy: Nb 0, Ta 0.5, W 0_ | model | [1] Zhang 2022; _cites Wang 2022_ | Table 3, p. 10, row 2; `ORC-M5JKIMVSUL` |  |
+| Phase transition | 1239 K | 1239 | other: MoTa; _alloy: Nb 0, Ta 0.5, W 0_ | model | [1] Zhang 2022 | Table 3, p. 10, row 1; `ORC-SDNVUE3Y5Z` |  |
+| Phase transition | 1654 K | 1654 | other: MoNbTaW; _alloy: Nb 0.25, Ta 0.25, W 0.25_ | model | [1] Zhang 2022; _cites Huhn 2013_ [doi](https://doi.org/10.1007/s11837-013-0772-3) | Table 3, p. 10, row 29; `ORC-DUDF7H5VVK` |  |
+| Phase transition | 1770 K | 1770 | other: MoTa; _alloy: Nb 0, Ta 0.5, W 0_ | model | [1] Zhang 2022; _cites Turchi 2005_ [doi](https://doi.org/10.1103/physrevb.71.094206) | Table 3, p. 10, row 4; `ORC-NFZQGUIOUL` |  |
 
 ## Sources
 
@@ -91,4 +91,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -28,31 +28,31 @@ Table: Invariant reactions reported in the literature for the Cr–Cu–Zr syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1820 | peritectic: L + β-Cr2Zr -> (Cr) + α-Cr2Zr | L: Cr 0.7561, Zr 0.1825 | model | [1] Zeng 1995 | Table 4, p. 7, row 9 |  |
-| 1373 | eutectic: L -> α-Cr2Zr + Cu51Zr14 | L: Cr 0.01389, Zr 0.205 | model | [1] Zeng 1995 | Table 4, p. 7, row 13 |  |
-| 1365 | peritectic: L + α-Cr2Zr -> (Cr) + Cu51Zr14 | L: Cr 0.01444, Zr 0.18 | model | [1] Zeng 1995 | Table 4, p. 7, row 3 |  |
-| 1293.15 | eutectic: L ~ (Cu)+ a-Cr2Zr |  | experimental | [1] Zeng 1995 | p. 2 | “A quasi-eutectic reaction L ~ (Cu)+ a-Cr2Zr was observed to occur at 1020 °C, and therefore a pseudobinary Cu-Cr2Zr system was supposed.” |
-| 1274.15 | L + Cu51Zr14 -> Cu5Zr + (Cr) |  | model | [1] Zeng 1995 | Table 2, p. 2, row 2 |  |
-| 1274 | peritectic: L + Cu51Zr14 -> Cu5Zr + (Cr) | L: Cr 0.008421, Zr 0.1018 | model | [1] Zeng 1995 | Table 4, p. 7, row 2 |  |
-| 1270.15 | L + Cu51Zr14 -> Cu5Zr + (Cr) |  | experimental | [1] Zeng 1995; _cites Kuznetsov 1979_ | Table 2, p. 2, row 1 |  |
-| 1253.15 | eutectic: L ~ (Cr) + (Cu) + a-Cr2Zr |  | experimental | [1] Zeng 1995; _cites Zakharov 1957_ | p. 2 | “In a small composition range near pure Cu, two invariant eutectic equilibria, L ~ (Cr) + (Cu) + a-Cr2Zr and L ~ (Cu) + Cu3Zr + otCr2Zr, have been observed at 980 °C and 935 °C respectively.” |
-| 1251 | eutectic: L -> α-Cr2Zr + CuZr2 | L: Cr 0.03187, Zr 0.6612 | model | [1] Zeng 1995 | Table 4, p. 7, row 10 |  |
-| 1239.15 | L -> (β-Zr) + α-Cr2Zr + CuZr2 |  | model | [1] Zeng 1995 | Table 2, p. 2, row 6 |  |
-| 1239 | eutectic: L -> α-Cr2Zr + CuZr2 + (β-Zr) | L: Cr 0.03948, Zr 0.7032 | model | [1] Zeng 1995 | Table 4, p. 7, row 8 |  |
-| 1236.15 | L -> (Cu) + Cu5Zr + (Cr) |  | model | [1] Zeng 1995 | Table 2, p. 2, row 4 |  |
-| 1236.15 | L -> (Cu) + Cu5Zr + (Cr) |  | experimental | [1] Zeng 1995; _cites Kuznetsov 1979_ | Table 2, p. 2, row 3 |  |
-| 1236.15 | eutectic |  | experimental | [1] Zeng 1995; _cites Kuznetsov 1979_ | p. 8 | “The eutectic L o ( C u ) + C u h Z r + ( C r ) was fixed at 0.5 at.% Cr, 7.8 at.% Zr and 963 °C.” |
-| 1236 | eutectic: L -> Cu5Zr + (Cu) + (Cr) | L: Cr 0.00706, Zr 0.07717 | model | [1] Zeng 1995 | Table 4, p. 7, row 1 |  |
-| 1218.15 | L -> (β-Zr) + α-Cr2Zr + CuZr2 |  | experimental | [1] Zeng 1995; _cites Tregubov 1977_ | Table 2, p. 2, row 5 |  |
-| 1208.15 | eutectic: L ~ (Cu) + Cu3Zr + otCr2Zr |  | experimental | [1] Zeng 1995; _cites Zakharov 1957_ | p. 2 | “In a small composition range near pure Cu, two invariant eutectic equilibria, L ~ (Cr) + (Cu) + a-Cr2Zr and L ~ (Cu) + Cu3Zr + otCr2Zr, have been observed at 980 °C and 935 °C respectively.” |
-| 1200 | eutectic: L -> α-Cr2Zr + CuZr | L: Cr 0.006464, Zr 0.4871 | model | [1] Zeng 1995 | Table 4, p. 7, row 11 |  |
-| 1191 | peritectic: L + Cu51Zr14 -> α-Cr2Zr + Cu8Zr3 | L: Cr 0.003606, Zr 0.389 | model | [1] Zeng 1995 | Table 4, p. 7, row 4 |  |
-| 1189 | eutectic: L -> α-Cr2Zr + CuZr + CuZr2 | L: Cr 0.00839, Zr 0.5371 | model | [1] Zeng 1995 | Table 4, p. 7, row 7 |  |
-| 1161.89 | eutectic: L -> α-Cr2Zr + Cu10Zr7 | L: Cr 0.003067, Zr 0.4114 | model | [1] Zeng 1995 | Table 4, p. 7, row 12 |  |
-| 1161.85 | eutectic: L -> α-Cr2Zr + Cu10Zr7 + Cu8Zr3 | L: Cr 0.00329, Zr 0.4088 | model | [1] Zeng 1995 | Table 4, p. 7, row 5 |  |
-| 1160.6 | eutectic: L -> α-Cr2Zr + Cu10Zr7 + CuZr | L: Cr 0.003275, Zr 0.427 | model | [1] Zeng 1995 | Table 4, p. 7, row 6 |  |
-| 1087.15 | (β-Zr) -> (α-Zr) + α-Cr2Zr + CuZr2 |  | experimental | [1] Zeng 1995; _cites Tregubov 1977_ | Table 2, p. 2, row 7 |  |
-| 1080.15 | (β-Zr) -> (α-Zr) + α-Cr2Zr + CuZr2 |  | model | [1] Zeng 1995 | Table 2, p. 2, row 8 |  |
+| 1820 | peritectic: L + β-Cr2Zr -> (Cr) + α-Cr2Zr | L: Cr 0.7561, Zr 0.1825 | model | [1] Zeng 1995 | Table 4, p. 7, row 9; `ORC-2QZMNSBQAO` |  |
+| 1373 | eutectic: L -> α-Cr2Zr + Cu51Zr14 | L: Cr 0.01389, Zr 0.205 | model | [1] Zeng 1995 | Table 4, p. 7, row 13; `ORC-G3B3WQGT5O` |  |
+| 1365 | peritectic: L + α-Cr2Zr -> (Cr) + Cu51Zr14 | L: Cr 0.01444, Zr 0.18 | model | [1] Zeng 1995 | Table 4, p. 7, row 3; `ORC-AX5BIFDSFQ` |  |
+| 1293.15 | eutectic: L ~ (Cu)+ a-Cr2Zr |  | experimental | [1] Zeng 1995 | p. 2; `ORC-YST4JHQZPZ` | “A quasi-eutectic reaction L ~ (Cu)+ a-Cr2Zr was observed to occur at 1020 °C, and therefore a pseudobinary Cu-Cr2Zr system was supposed.” |
+| 1274.15 | L + Cu51Zr14 -> Cu5Zr + (Cr) |  | model | [1] Zeng 1995 | Table 2, p. 2, row 2; `ORC-WAE3ZU5KHD` |  |
+| 1274 | peritectic: L + Cu51Zr14 -> Cu5Zr + (Cr) | L: Cr 0.008421, Zr 0.1018 | model | [1] Zeng 1995 | Table 4, p. 7, row 2; `ORC-XYX6ABI2L2` |  |
+| 1270.15 | L + Cu51Zr14 -> Cu5Zr + (Cr) |  | experimental | [1] Zeng 1995; _cites Kuznetsov 1979_ | Table 2, p. 2, row 1; `ORC-WRXKEYVQ4V` |  |
+| 1253.15 | eutectic: L ~ (Cr) + (Cu) + a-Cr2Zr |  | experimental | [1] Zeng 1995; _cites Zakharov 1957_ | p. 2; `ORC-HAUKZESZMM.676ffc` | “In a small composition range near pure Cu, two invariant eutectic equilibria, L ~ (Cr) + (Cu) + a-Cr2Zr and L ~ (Cu) + Cu3Zr + otCr2Zr, have been observed at 980 °C and 935 °C respectively.” |
+| 1251 | eutectic: L -> α-Cr2Zr + CuZr2 | L: Cr 0.03187, Zr 0.6612 | model | [1] Zeng 1995 | Table 4, p. 7, row 10; `ORC-JWINUEB6XO` |  |
+| 1239.15 | L -> (β-Zr) + α-Cr2Zr + CuZr2 |  | model | [1] Zeng 1995 | Table 2, p. 2, row 6; `ORC-RKCFOKH3VR` |  |
+| 1239 | eutectic: L -> α-Cr2Zr + CuZr2 + (β-Zr) | L: Cr 0.03948, Zr 0.7032 | model | [1] Zeng 1995 | Table 4, p. 7, row 8; `ORC-IQEOF5ZMRJ` |  |
+| 1236.15 | L -> (Cu) + Cu5Zr + (Cr) |  | model | [1] Zeng 1995 | Table 2, p. 2, row 4; `ORC-6WMVH5GOEQ` |  |
+| 1236.15 | L -> (Cu) + Cu5Zr + (Cr) |  | experimental | [1] Zeng 1995; _cites Kuznetsov 1979_ | Table 2, p. 2, row 3; `ORC-EWP3YQAJYR` |  |
+| 1236.15 | eutectic |  | experimental | [1] Zeng 1995; _cites Kuznetsov 1979_ | p. 8; `ORC-QT6LEYNJIE` | “The eutectic L o ( C u ) + C u h Z r + ( C r ) was fixed at 0.5 at.% Cr, 7.8 at.% Zr and 963 °C.” |
+| 1236 | eutectic: L -> Cu5Zr + (Cu) + (Cr) | L: Cr 0.00706, Zr 0.07717 | model | [1] Zeng 1995 | Table 4, p. 7, row 1; `ORC-ZUQSDU3FUB` |  |
+| 1218.15 | L -> (β-Zr) + α-Cr2Zr + CuZr2 |  | experimental | [1] Zeng 1995; _cites Tregubov 1977_ | Table 2, p. 2, row 5; `ORC-CQ5FPFIE6U` |  |
+| 1208.15 | eutectic: L ~ (Cu) + Cu3Zr + otCr2Zr |  | experimental | [1] Zeng 1995; _cites Zakharov 1957_ | p. 2; `ORC-HAUKZESZMM.f146e4` | “In a small composition range near pure Cu, two invariant eutectic equilibria, L ~ (Cr) + (Cu) + a-Cr2Zr and L ~ (Cu) + Cu3Zr + otCr2Zr, have been observed at 980 °C and 935 °C respectively.” |
+| 1200 | eutectic: L -> α-Cr2Zr + CuZr | L: Cr 0.006464, Zr 0.4871 | model | [1] Zeng 1995 | Table 4, p. 7, row 11; `ORC-HIDOPWJJYW` |  |
+| 1191 | peritectic: L + Cu51Zr14 -> α-Cr2Zr + Cu8Zr3 | L: Cr 0.003606, Zr 0.389 | model | [1] Zeng 1995 | Table 4, p. 7, row 4; `ORC-QEZ7F5PF6K` |  |
+| 1189 | eutectic: L -> α-Cr2Zr + CuZr + CuZr2 | L: Cr 0.00839, Zr 0.5371 | model | [1] Zeng 1995 | Table 4, p. 7, row 7; `ORC-QNBIMH6QAS` |  |
+| 1161.89 | eutectic: L -> α-Cr2Zr + Cu10Zr7 | L: Cr 0.003067, Zr 0.4114 | model | [1] Zeng 1995 | Table 4, p. 7, row 12; `ORC-ABXBEBSQDQ` |  |
+| 1161.85 | eutectic: L -> α-Cr2Zr + Cu10Zr7 + Cu8Zr3 | L: Cr 0.00329, Zr 0.4088 | model | [1] Zeng 1995 | Table 4, p. 7, row 5; `ORC-FBXQMBRBUP` |  |
+| 1160.6 | eutectic: L -> α-Cr2Zr + Cu10Zr7 + CuZr | L: Cr 0.003275, Zr 0.427 | model | [1] Zeng 1995 | Table 4, p. 7, row 6; `ORC-FCAXRRWPDV` |  |
+| 1087.15 | (β-Zr) -> (α-Zr) + α-Cr2Zr + CuZr2 |  | experimental | [1] Zeng 1995; _cites Tregubov 1977_ | Table 2, p. 2, row 7; `ORC-TFEE5ZK4KZ` |  |
+| 1080.15 | (β-Zr) -> (α-Zr) + α-Cr2Zr + CuZr2 |  | model | [1] Zeng 1995 | Table 2, p. 2, row 8; `ORC-5MHQM53W23` |  |
 
 ## Other properties
 
@@ -62,7 +62,7 @@ Table: Phase transition, Cr–Cu–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1236.15 K | 1236.15 |  | model | [1] Zeng 1995 | p. 8 | “The calculated values for this equilibrium are 0.71 at.% Cr, 7.7 at.% Zr and 963 °C.” |
+| Phase transition | 1236.15 K | 1236.15 |  | model | [1] Zeng 1995 | p. 8; `ORC-JLSUB6ZLFB` | “The calculated values for this equilibrium are 0.71 at.% Cr, 7.7 at.% Zr and 963 °C.” |
 
 ## Sources
 
@@ -105,4 +105,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

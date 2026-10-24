@@ -27,12 +27,12 @@ Table: Invariant reactions reported in the literature for the Hf–Nb–Si syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2313.15 | quasi-peritectic: II2: L + Hf(Nb)5Si3->Hf(Nb)2Si + Nb(Hf)5Si3 | L: Hf 0.27, Si 0.22 | experimental | [1] Yang 2003; _cites Bewlay 1999_ | Table 4, p. 5, row 3 |  |
-| 2296.15 | quasi-peritectic: II2: L + Hf(Nb)5Si3->Hf(Nb)2Si + Nb(Hf)5Si3 | L: Hf 0.297, Si 0.2 | model | [1] Yang 2003 | Table 4, p. 5, row 4 |  |
-| 2123.15 | quasi-peritectic: II1: L + Nb(Hf)3Si->Nb(Hf)5Si3 + β(Nb,Hf,Si) | L: Hf 0.21, Si 0.16 | experimental | [1] Yang 2003; _cites Bewlay 1999_ | Table 4, p. 5, row 1 |  |
-| 2113.15 | quasi-peritectic: II3: L + Nb(Hf)5Si3->Hf(Nb)2Si + β(Nb,Hf,Si) | L: Hf 0.26, Si 0.14 | experimental | [1] Yang 2003; _cites Bewlay 1999_ | Table 4, p. 5, row 5 |  |
-| 2110.15 | quasi-peritectic: II1: L + Nb(Hf)3Si->Nb(Hf)5Si3 + β(Nb,Hf,Si) | L: Hf 0.19, Si 0.151 | model | [1] Yang 2003 | Table 4, p. 5, row 2 |  |
-| 2106.15 | quasi-peritectic: II3: L + Nb(Hf)5Si3->Hf(Nb)2Si + β(Nb,Hf,Si) | L: Hf 0.21, Si 0.15 | model | [1] Yang 2003 | Table 4, p. 5, row 6 |  |
+| 2313.15 | quasi-peritectic: II2: L + Hf(Nb)5Si3->Hf(Nb)2Si + Nb(Hf)5Si3 | L: Hf 0.27, Si 0.22 | experimental | [1] Yang 2003; _cites Bewlay 1999_ | Table 4, p. 5, row 3; `ORC-ATXGF35O7A` |  |
+| 2296.15 | quasi-peritectic: II2: L + Hf(Nb)5Si3->Hf(Nb)2Si + Nb(Hf)5Si3 | L: Hf 0.297, Si 0.2 | model | [1] Yang 2003 | Table 4, p. 5, row 4; `ORC-VL65FVXVKF` |  |
+| 2123.15 | quasi-peritectic: II1: L + Nb(Hf)3Si->Nb(Hf)5Si3 + β(Nb,Hf,Si) | L: Hf 0.21, Si 0.16 | experimental | [1] Yang 2003; _cites Bewlay 1999_ | Table 4, p. 5, row 1; `ORC-W66WPAJTFE` |  |
+| 2113.15 | quasi-peritectic: II3: L + Nb(Hf)5Si3->Hf(Nb)2Si + β(Nb,Hf,Si) | L: Hf 0.26, Si 0.14 | experimental | [1] Yang 2003; _cites Bewlay 1999_ | Table 4, p. 5, row 5; `ORC-P7YQKYB7W7` |  |
+| 2110.15 | quasi-peritectic: II1: L + Nb(Hf)3Si->Nb(Hf)5Si3 + β(Nb,Hf,Si) | L: Hf 0.19, Si 0.151 | model | [1] Yang 2003 | Table 4, p. 5, row 2; `ORC-RGFSDVQRWE` |  |
+| 2106.15 | quasi-peritectic: II3: L + Nb(Hf)5Si3->Hf(Nb)2Si + β(Nb,Hf,Si) | L: Hf 0.21, Si 0.15 | model | [1] Yang 2003 | Table 4, p. 5, row 6; `ORC-SBXCIKBSY5` |  |
 
 ## Sources
 
@@ -75,4 +75,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

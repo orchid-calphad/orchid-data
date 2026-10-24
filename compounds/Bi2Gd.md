@@ -14,16 +14,16 @@ Table: Enthalpy of formation of Bi2Gd reported in the literature (10)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -67 kJ/mol-atom | GdBi2(GdSb2-2) | 0 | model | Miedema model | [Bi–Gd](https://data.orchid-project.org/systems/BI-GD.html) | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 5, p. 3, row 17 |  |
-| -67 kJ/mol-atom | GdBi2(EuSb2) | 0 | model | Miedema model | [Bi–Gd](https://data.orchid-project.org/systems/BI-GD.html) | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 5, p. 3, row 13 |  |
-| -67 kJ/mol-atom | GdBi2(EuBi2) | 0 | model | Miedema model | [Bi–Gd](https://data.orchid-project.org/systems/BI-GD.html) | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 5, p. 3, row 11 |  |
-| -67 kJ/mol-atom | GdBi2(YbSb2) | 0 | model | Miedema model | [Bi–Gd](https://data.orchid-project.org/systems/BI-GD.html) | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 5, p. 3, row 19 |  |
-| -67 kJ/mol-atom | GdBi2(GdSb2-1) | 0 | model | Miedema model | [Bi–Gd](https://data.orchid-project.org/systems/BI-GD.html) | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 5, p. 3, row 15 |  |
-| -56.8759 kJ/mol-atom | GdBi2(EuSb2) | 0 | DFT | first-principles | [Bi–Gd](https://data.orchid-project.org/systems/BI-GD.html) | [1] Wang 2013 | Table 5, p. 3, row 12 |  |
-| -56.8396 kJ/mol-atom | GdBi2(YbSb2) | 0 | DFT | first-principles | [Bi–Gd](https://data.orchid-project.org/systems/BI-GD.html) | [1] Wang 2013 | Table 5, p. 3, row 18 |  |
-| -54.0316 kJ/mol-atom | GdBi2(EuBi2) | 0 | DFT | first-principles | [Bi–Gd](https://data.orchid-project.org/systems/BI-GD.html) | [1] Wang 2013 | Table 5, p. 3, row 10 |  |
-| -53.812 kJ/mol-atom | GdBi2(GdSb2-2) | 0 | DFT | first-principles | [Bi–Gd](https://data.orchid-project.org/systems/BI-GD.html) | [1] Wang 2013 | Table 5, p. 3, row 16 |  |
-| -21.5319 kJ/mol-atom | GdBi2(GdSb2–1) | 0 | DFT | first-principles | [Bi–Gd](https://data.orchid-project.org/systems/BI-GD.html) | [1] Wang 2013 | Table 5, p. 3, row 14 |  |
+| -67 kJ/mol-atom | GdBi2(GdSb2-2) | 0 | model | Miedema model | [Bi–Gd](https://data.orchid-project.org/systems/BI-GD.html) | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 5, p. 3, row 17; `ORC-5CI5YQMQ3S.580189` |  |
+| -67 kJ/mol-atom | GdBi2(EuSb2) | 0 | model | Miedema model | [Bi–Gd](https://data.orchid-project.org/systems/BI-GD.html) | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 5, p. 3, row 13; `ORC-D4BESBOTIC` |  |
+| -67 kJ/mol-atom | GdBi2(EuBi2) | 0 | model | Miedema model | [Bi–Gd](https://data.orchid-project.org/systems/BI-GD.html) | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 5, p. 3, row 11; `ORC-FLG6ZCXCHF` |  |
+| -67 kJ/mol-atom | GdBi2(YbSb2) | 0 | model | Miedema model | [Bi–Gd](https://data.orchid-project.org/systems/BI-GD.html) | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 5, p. 3, row 19; `ORC-NUYH2AMKI3` |  |
+| -67 kJ/mol-atom | GdBi2(GdSb2-1) | 0 | model | Miedema model | [Bi–Gd](https://data.orchid-project.org/systems/BI-GD.html) | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 5, p. 3, row 15; `ORC-UKHN2CTBL6.498e04` |  |
+| -56.8759 kJ/mol-atom | GdBi2(EuSb2) | 0 | DFT | first-principles | [Bi–Gd](https://data.orchid-project.org/systems/BI-GD.html) | [1] Wang 2013 | Table 5, p. 3, row 12; `ORC-2UKA4LR3YO` |  |
+| -56.8396 kJ/mol-atom | GdBi2(YbSb2) | 0 | DFT | first-principles | [Bi–Gd](https://data.orchid-project.org/systems/BI-GD.html) | [1] Wang 2013 | Table 5, p. 3, row 18; `ORC-SYJBYZY7PN` |  |
+| -54.0316 kJ/mol-atom | GdBi2(EuBi2) | 0 | DFT | first-principles | [Bi–Gd](https://data.orchid-project.org/systems/BI-GD.html) | [1] Wang 2013 | Table 5, p. 3, row 10; `ORC-ZUKTOK7XUO` |  |
+| -53.812 kJ/mol-atom | GdBi2(GdSb2-2) | 0 | DFT | first-principles | [Bi–Gd](https://data.orchid-project.org/systems/BI-GD.html) | [1] Wang 2013 | Table 5, p. 3, row 16; `ORC-4EHJXU6CDX.39905e` |  |
+| -21.5319 kJ/mol-atom | GdBi2(GdSb2–1) | 0 | DFT | first-principles | [Bi–Gd](https://data.orchid-project.org/systems/BI-GD.html) | [1] Wang 2013 | Table 5, p. 3, row 14; `ORC-Y7UJRZEU5U.732740` |  |
 
 ### Uncertainty budget
 
@@ -107,4 +107,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

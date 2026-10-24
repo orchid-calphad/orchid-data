@@ -51,7 +51,7 @@ Table: Invariant reactions reported in the literature for the Ag–Rh system (1)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1233.15 | eutectic |  | experimental | [1] Karakaya 1986; _cites ref. 59Rud_ | p. 1 | “A eutectic was reported at about 960 ~ and less than 1 at.% Rh \[59Rud\].” |
+| 1233.15 | eutectic |  | experimental | [1] Karakaya 1986; _cites ref. 59Rud_ | p. 1; `ORC-XIYC5EDTW4` | “A eutectic was reported at about 960 ~ and less than 1 at.% Rh \[59Rud\].” |
 
 ## Other properties
 
@@ -61,7 +61,7 @@ Table: Phase transition, Ag–Rh system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 2173.15 K | 2173.15 | other | experimental | [1] Karakaya 1986; _cites ref. 59Rud_ | p. 1 | “A monotectic reaction was reported at about 1900 ~ and near 20 at.% Ag \[59Rud\].” |
+| Phase transition | 2173.15 K | 2173.15 | other | experimental | [1] Karakaya 1986; _cites ref. 59Rud_ | p. 1; `ORC-VX5XZAJXD6` | “A monotectic reaction was reported at about 1900 ~ and near 20 at.% Ag \[59Rud\].” |
 
 ### Crystal structure (1)
 
@@ -69,7 +69,7 @@ Table: Crystal structure, Ag–Rh system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 2.8032 Å | 298.15 | (Rh) | unspecified | [1] Karakaya 1986; _cites ref. 1_ | Table 1, p. 2, row 2 |  |
+| Lattice a | 2.8032 Å | 298.15 | (Rh) | unspecified | [1] Karakaya 1986; _cites ref. 1_ | Table 1, p. 2, row 2; `ORC-WVTCYGFGJI.43d03a` |  |
 
 ## Sources
 
@@ -134,4 +134,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

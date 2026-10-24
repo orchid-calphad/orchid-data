@@ -27,22 +27,22 @@ Table: Invariant reactions reported in the literature for the Hf–Ni–Ti syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1480.75 | eutectic: Liquid -> HfNi5 + Hf2Ni7 + Ni |  | model | [1] Cacciamani 2011 | Table 13, p. 15, row 1 |  |
-| 1479.95 | quasi-peritectic: Liquid + Hf9Ni11 -> beta-HfNi + Hf7Ni10 |  | model | [1] Cacciamani 2011 | Table 13, p. 15, row 2 |  |
-| 1472.75 | quasi-peritectic: Liquid + beta-HfNi3 -> alpha-HfNi3, Hf8Ni21 |  | model | [1] Cacciamani 2011 | Table 13, p. 15, row 3 |  |
-| 1472.75 | quasi-peritectic: Liquid+beta-HfNi3 -> alpha-HfNi3, Hf2Ni7 |  | model | [1] Cacciamani 2011 | Table 13, p. 15, row 4 |  |
-| 1452.85 | eutectic: Liquid -> Hf2Ni7 + Ni + TiNi3 |  | model | [1] Cacciamani 2011 | Table 13, p. 15, row 5 |  |
-| 1448.05 | quasi-peritectic: Liquid + Hf8Ni21 -> alpha-HfNi3 + Hf3Ni7 |  | model | [1] Cacciamani 2011 | Table 13, p. 15, row 6 |  |
-| 1386.85 | quasi-peritectic: Liquid + alpha-HfNi -> beta-HfNi + Hf2Ni |  | model | [1] Cacciamani 2011 | Table 13, p. 15, row 7 |  |
-| 1363.35 | quasi-peritectic: Liquid + Hf2Ni7 -> alpha-HfNi3 + TiNi3 |  | model | [1] Cacciamani 2011 | Table 13, p. 15, row 8 |  |
-| 1290.25 | quasi-peritectic: Liquid + Hf3Ni7 -> alpha-HfNi3 + Hf7Ni10 |  | model | [1] Cacciamani 2011 | Table 13, p. 15, row 9 |  |
-| 1184.85 | quasi-peritectic: Liquid + alpha-HfNi3 -> Hf7Ni10 + TiNi3 |  | model | [1] Cacciamani 2011 | Table 13, p. 15, row 10 |  |
-| 1165.45 | quasi-peritectic: Liquid + alpha-HfNi -> bcc-(Hf, Ti) + beta-HfNi |  | model | [1] Cacciamani 2011 | Table 13, p. 15, row 11 |  |
-| 1162.25 | eutectic: Liquid -> bcc-(Hf, Ti) + alpha-HfNi + Hf2Ni |  | model | [1] Cacciamani 2011 | Table 13, p. 15, row 12 |  |
-| 1158.45 | quasi-peritectic: Liquid + TiNi -> beta-HfNi + Ti2Ni |  | model | [1] Cacciamani 2011 | Table 13, p. 15, row 13 |  |
-| 1155.75 | quasi-peritectic: Liquid + beta-HfNi -> TiNi + Hf7Ni10 |  | model | [1] Cacciamani 2011 | Table 13, p. 15, row 14 |  |
-| 1150.85 | eutectic: Liquid -> TiNi + Hf7Ni10 + TiNi3 |  | model | [1] Cacciamani 2011 | Table 13, p. 15, row 15 |  |
-| 1088.45 | eutectic: Liquid -> bcc-(Hf, Ti) + beta-HfNi + Ti2Ni |  | model | [1] Cacciamani 2011 | Table 13, p. 15, row 16 |  |
+| 1480.75 | eutectic: Liquid -> HfNi5 + Hf2Ni7 + Ni |  | model | [1] Cacciamani 2011 | Table 13, p. 15, row 1; `ORC-YWOW4ODX6A` |  |
+| 1479.95 | quasi-peritectic: Liquid + Hf9Ni11 -> beta-HfNi + Hf7Ni10 |  | model | [1] Cacciamani 2011 | Table 13, p. 15, row 2; `ORC-AGVASQXSAG` |  |
+| 1472.75 | quasi-peritectic: Liquid + beta-HfNi3 -> alpha-HfNi3, Hf8Ni21 |  | model | [1] Cacciamani 2011 | Table 13, p. 15, row 3; `ORC-42YNV2HUGC` |  |
+| 1472.75 | quasi-peritectic: Liquid+beta-HfNi3 -> alpha-HfNi3, Hf2Ni7 |  | model | [1] Cacciamani 2011 | Table 13, p. 15, row 4; `ORC-SYXEACK6ZD` |  |
+| 1452.85 | eutectic: Liquid -> Hf2Ni7 + Ni + TiNi3 |  | model | [1] Cacciamani 2011 | Table 13, p. 15, row 5; `ORC-GAXL6IBNNB` |  |
+| 1448.05 | quasi-peritectic: Liquid + Hf8Ni21 -> alpha-HfNi3 + Hf3Ni7 |  | model | [1] Cacciamani 2011 | Table 13, p. 15, row 6; `ORC-JB4XE6C7WF` |  |
+| 1386.85 | quasi-peritectic: Liquid + alpha-HfNi -> beta-HfNi + Hf2Ni |  | model | [1] Cacciamani 2011 | Table 13, p. 15, row 7; `ORC-TLG5MXRG6E` |  |
+| 1363.35 | quasi-peritectic: Liquid + Hf2Ni7 -> alpha-HfNi3 + TiNi3 |  | model | [1] Cacciamani 2011 | Table 13, p. 15, row 8; `ORC-D2IDMOPKOL` |  |
+| 1290.25 | quasi-peritectic: Liquid + Hf3Ni7 -> alpha-HfNi3 + Hf7Ni10 |  | model | [1] Cacciamani 2011 | Table 13, p. 15, row 9; `ORC-C64272DSOX` |  |
+| 1184.85 | quasi-peritectic: Liquid + alpha-HfNi3 -> Hf7Ni10 + TiNi3 |  | model | [1] Cacciamani 2011 | Table 13, p. 15, row 10; `ORC-RKIGS2EJP3` |  |
+| 1165.45 | quasi-peritectic: Liquid + alpha-HfNi -> bcc-(Hf, Ti) + beta-HfNi |  | model | [1] Cacciamani 2011 | Table 13, p. 15, row 11; `ORC-A7NN2UYKVR` |  |
+| 1162.25 | eutectic: Liquid -> bcc-(Hf, Ti) + alpha-HfNi + Hf2Ni |  | model | [1] Cacciamani 2011 | Table 13, p. 15, row 12; `ORC-NEQYAXOGSN` |  |
+| 1158.45 | quasi-peritectic: Liquid + TiNi -> beta-HfNi + Ti2Ni |  | model | [1] Cacciamani 2011 | Table 13, p. 15, row 13; `ORC-DK5SCMVOTW` |  |
+| 1155.75 | quasi-peritectic: Liquid + beta-HfNi -> TiNi + Hf7Ni10 |  | model | [1] Cacciamani 2011 | Table 13, p. 15, row 14; `ORC-RBKMXKUU66` |  |
+| 1150.85 | eutectic: Liquid -> TiNi + Hf7Ni10 + TiNi3 |  | model | [1] Cacciamani 2011 | Table 13, p. 15, row 15; `ORC-F7ARJHGHAB` |  |
+| 1088.45 | eutectic: Liquid -> bcc-(Hf, Ti) + beta-HfNi + Ti2Ni |  | model | [1] Cacciamani 2011 | Table 13, p. 15, row 16; `ORC-4L34KX4QW2` |  |
 
 ## Other properties
 
@@ -52,7 +52,7 @@ Table: Phase transition, Hf–Ni–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1523.15 K | 1523.15 | other | model | [1] Cacciamani 2011 | p. 15 | “No CALPHAD assessment is available in the literature, the system has been assessed in this work with the only condition, taken from \[86\], that the liquidus in the HfNi-TiNi section has a minimum of about 1250 °C and 30 at.% Ti.” |
+| Phase transition | 1523.15 K | 1523.15 | other | model | [1] Cacciamani 2011 | p. 15; `ORC-DAFSPDSJVU` | “No CALPHAD assessment is available in the literature, the system has been assessed in this work with the only condition, taken from \[86\], that the liquidus in the HfNi-TiNi section has a minimum of about 1250 °C and 30 at.% Ti.” |
 
 ## Sources
 
@@ -95,4 +95,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

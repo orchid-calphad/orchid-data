@@ -66,16 +66,16 @@ Table: Invariant reactions reported in the literature for the In–Sc system (10
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1620.15 | peritectic: Liquid + InSc2 ↔ InSc3 |  | model | [1] Hu 2018 | p. 5 | “InSc3 is located at 1107 °C, the peritectic reactions Liquid + InSc2 ↔ InSc3, Liquid + InSc2 ↔ In4Sc5, Liquid + In4Sc5 ↔ InSc, Liquid + InSc ↔ In2Sc and Liquid + In2Sc ↔ In3Sc are located at 1347 °C, 1277 °C, 1127 °C, 967 °C and 937 °C, respectively.” |
-| 1613.15 | peritectic |  | experimental | [1] Hu 2018; _cites Yatsenko 1983_ | p. 1 | “Among them, InSc3, In3Sc5, InSc, In5Sc3 and In3Sc decompose in peritectic reactions at 1340 °C, 1330 °C, 1120 °C, 950 °C and 910 °C respectively, while InSc2 melts at 1420 °C congruently \[10\].” |
-| 1603.15 | peritectic |  | experimental | [1] Hu 2018; _cites Yatsenko 1983_ | p. 1 | “Among them, InSc3, In3Sc5, InSc, In5Sc3 and In3Sc decompose in peritectic reactions at 1340 °C, 1330 °C, 1120 °C, 950 °C and 910 °C respectively, while InSc2 melts at 1420 °C congruently \[10\].” |
-| 1550.15 | peritectic: Liquid + InSc2 ↔ In4Sc5 |  | model | [1] Hu 2018 | p. 5 | “InSc3 is located at 1107 °C, the peritectic reactions Liquid + InSc2 ↔ InSc3, Liquid + InSc2 ↔ In4Sc5, Liquid + In4Sc5 ↔ InSc, Liquid + InSc ↔ In2Sc and Liquid + In2Sc ↔ In3Sc are located at 1347 °C, 1277 °C, 1127 °C, 967 °C and 937 °C, respectively.” |
-| 1400.15 | peritectic: Liquid + In4Sc5 ↔ InSc |  | model | [1] Hu 2018 | p. 5 | “InSc3 is located at 1107 °C, the peritectic reactions Liquid + InSc2 ↔ InSc3, Liquid + InSc2 ↔ In4Sc5, Liquid + In4Sc5 ↔ InSc, Liquid + InSc ↔ In2Sc and Liquid + In2Sc ↔ In3Sc are located at 1347 °C, 1277 °C, 1127 °C, 967 °C and 937 °C, respectively.” |
-| 1393.15 | peritectic |  | experimental | [1] Hu 2018; _cites Yatsenko 1983_ | p. 1 | “Among them, InSc3, In3Sc5, InSc, In5Sc3 and In3Sc decompose in peritectic reactions at 1340 °C, 1330 °C, 1120 °C, 950 °C and 910 °C respectively, while InSc2 melts at 1420 °C congruently \[10\].” |
-| 1240.15 | peritectic: Liquid + InSc ↔ In2Sc |  | model | [1] Hu 2018 | p. 5 | “InSc3 is located at 1107 °C, the peritectic reactions Liquid + InSc2 ↔ InSc3, Liquid + InSc2 ↔ In4Sc5, Liquid + In4Sc5 ↔ InSc, Liquid + InSc ↔ In2Sc and Liquid + In2Sc ↔ In3Sc are located at 1347 °C, 1277 °C, 1127 °C, 967 °C and 937 °C, respectively.” |
-| 1223.15 | peritectic |  | experimental | [1] Hu 2018; _cites Yatsenko 1983_ | p. 1 | “Among them, InSc3, In3Sc5, InSc, In5Sc3 and In3Sc decompose in peritectic reactions at 1340 °C, 1330 °C, 1120 °C, 950 °C and 910 °C respectively, while InSc2 melts at 1420 °C congruently \[10\].” |
-| 1210.15 | peritectic: Liquid + In2Sc ↔ In3Sc |  | model | [1] Hu 2018 | p. 5 | “InSc3 is located at 1107 °C, the peritectic reactions Liquid + InSc2 ↔ InSc3, Liquid + InSc2 ↔ In4Sc5, Liquid + In4Sc5 ↔ InSc, Liquid + InSc ↔ In2Sc and Liquid + In2Sc ↔ In3Sc are located at 1347 °C, 1277 °C, 1127 °C, 967 °C and 937 °C, respectively.” |
-| 1183.15 | peritectic |  | experimental | [1] Hu 2018; _cites Yatsenko 1983_ | p. 1 | “Among them, InSc3, In3Sc5, InSc, In5Sc3 and In3Sc decompose in peritectic reactions at 1340 °C, 1330 °C, 1120 °C, 950 °C and 910 °C respectively, while InSc2 melts at 1420 °C congruently \[10\].” |
+| 1620.15 | peritectic: Liquid + InSc2 ↔ InSc3 |  | model | [1] Hu 2018 | p. 5; `ORC-ZOWC6ND6OT.72df5a` | “InSc3 is located at 1107 °C, the peritectic reactions Liquid + InSc2 ↔ InSc3, Liquid + InSc2 ↔ In4Sc5, Liquid + In4Sc5 ↔ InSc, Liquid + InSc ↔ In2Sc and Liquid + In2Sc ↔ In3Sc are located at 1347 °C, 1277 °C, 1127 °C, 967 °C and 937 °C, respectively.” |
+| 1613.15 | peritectic |  | experimental | [1] Hu 2018; _cites Yatsenko 1983_ | p. 1; `ORC-ORSAMK3YE2.54e8f4` | “Among them, InSc3, In3Sc5, InSc, In5Sc3 and In3Sc decompose in peritectic reactions at 1340 °C, 1330 °C, 1120 °C, 950 °C and 910 °C respectively, while InSc2 melts at 1420 °C congruently \[10\].” |
+| 1603.15 | peritectic |  | experimental | [1] Hu 2018; _cites Yatsenko 1983_ | p. 1; `ORC-ORSAMK3YE2.d6f636` | “Among them, InSc3, In3Sc5, InSc, In5Sc3 and In3Sc decompose in peritectic reactions at 1340 °C, 1330 °C, 1120 °C, 950 °C and 910 °C respectively, while InSc2 melts at 1420 °C congruently \[10\].” |
+| 1550.15 | peritectic: Liquid + InSc2 ↔ In4Sc5 |  | model | [1] Hu 2018 | p. 5; `ORC-ZOWC6ND6OT.623006` | “InSc3 is located at 1107 °C, the peritectic reactions Liquid + InSc2 ↔ InSc3, Liquid + InSc2 ↔ In4Sc5, Liquid + In4Sc5 ↔ InSc, Liquid + InSc ↔ In2Sc and Liquid + In2Sc ↔ In3Sc are located at 1347 °C, 1277 °C, 1127 °C, 967 °C and 937 °C, respectively.” |
+| 1400.15 | peritectic: Liquid + In4Sc5 ↔ InSc |  | model | [1] Hu 2018 | p. 5; `ORC-ZOWC6ND6OT.062864` | “InSc3 is located at 1107 °C, the peritectic reactions Liquid + InSc2 ↔ InSc3, Liquid + InSc2 ↔ In4Sc5, Liquid + In4Sc5 ↔ InSc, Liquid + InSc ↔ In2Sc and Liquid + In2Sc ↔ In3Sc are located at 1347 °C, 1277 °C, 1127 °C, 967 °C and 937 °C, respectively.” |
+| 1393.15 | peritectic |  | experimental | [1] Hu 2018; _cites Yatsenko 1983_ | p. 1; `ORC-ORSAMK3YE2.bf0d22` | “Among them, InSc3, In3Sc5, InSc, In5Sc3 and In3Sc decompose in peritectic reactions at 1340 °C, 1330 °C, 1120 °C, 950 °C and 910 °C respectively, while InSc2 melts at 1420 °C congruently \[10\].” |
+| 1240.15 | peritectic: Liquid + InSc ↔ In2Sc |  | model | [1] Hu 2018 | p. 5; `ORC-ZOWC6ND6OT.7b7570` | “InSc3 is located at 1107 °C, the peritectic reactions Liquid + InSc2 ↔ InSc3, Liquid + InSc2 ↔ In4Sc5, Liquid + In4Sc5 ↔ InSc, Liquid + InSc ↔ In2Sc and Liquid + In2Sc ↔ In3Sc are located at 1347 °C, 1277 °C, 1127 °C, 967 °C and 937 °C, respectively.” |
+| 1223.15 | peritectic |  | experimental | [1] Hu 2018; _cites Yatsenko 1983_ | p. 1; `ORC-ORSAMK3YE2.b028c8` | “Among them, InSc3, In3Sc5, InSc, In5Sc3 and In3Sc decompose in peritectic reactions at 1340 °C, 1330 °C, 1120 °C, 950 °C and 910 °C respectively, while InSc2 melts at 1420 °C congruently \[10\].” |
+| 1210.15 | peritectic: Liquid + In2Sc ↔ In3Sc |  | model | [1] Hu 2018 | p. 5; `ORC-ZOWC6ND6OT.ab1043` | “InSc3 is located at 1107 °C, the peritectic reactions Liquid + InSc2 ↔ InSc3, Liquid + InSc2 ↔ In4Sc5, Liquid + In4Sc5 ↔ InSc, Liquid + InSc ↔ In2Sc and Liquid + In2Sc ↔ In3Sc are located at 1347 °C, 1277 °C, 1127 °C, 967 °C and 937 °C, respectively.” |
+| 1183.15 | peritectic |  | experimental | [1] Hu 2018; _cites Yatsenko 1983_ | p. 1; `ORC-ORSAMK3YE2.4b537b` | “Among them, InSc3, In3Sc5, InSc, In5Sc3 and In3Sc decompose in peritectic reactions at 1340 °C, 1330 °C, 1120 °C, 950 °C and 910 °C respectively, while InSc2 melts at 1420 °C congruently \[10\].” |
 
 ## Formation enthalpies
 
@@ -85,11 +85,11 @@ Table: Enthalpies of formation, In–Sc system (5)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| In2Sc |  | -36.3 kJ/mol-atom | 0 | DFT |  |  | [1] Hu 2018 | Table 2, p. 3, row 4 |  |
-| In3Sc |  | -29.9 kJ/mol-atom | 0 | DFT |  |  | [1] Hu 2018 | Table 2, p. 3, row 5 |  |
-| InSc |  | -41.1 kJ/mol-atom | 0 | DFT |  |  | [1] Hu 2018 | Table 2, p. 3, row 3 |  |
-| InSc2 |  | -37.5 kJ/mol-atom | 0 | DFT |  |  | [1] Hu 2018 | Table 2, p. 3, row 2 |  |
-| InSc3 |  | -28.2 kJ/mol-atom | 0 | DFT |  |  | [1] Hu 2018 | Table 2, p. 3, row 1 |  |
+| In2Sc |  | -36.3 kJ/mol-atom | 0 | DFT |  |  | [1] Hu 2018 | Table 2, p. 3, row 4; `ORC-FB6DMRPL6C` |  |
+| In3Sc |  | -29.9 kJ/mol-atom | 0 | DFT |  |  | [1] Hu 2018 | Table 2, p. 3, row 5; `ORC-CIZRWPZRMA` |  |
+| InSc |  | -41.1 kJ/mol-atom | 0 | DFT |  |  | [1] Hu 2018 | Table 2, p. 3, row 3; `ORC-5ANIUYHLDM` |  |
+| InSc2 |  | -37.5 kJ/mol-atom | 0 | DFT |  |  | [1] Hu 2018 | Table 2, p. 3, row 2; `ORC-JGCNCYXUJ5` |  |
+| InSc3 |  | -28.2 kJ/mol-atom | 0 | DFT |  |  | [1] Hu 2018 | Table 2, p. 3, row 1; `ORC-HGRI262IEO` |  |
 
 ## Other properties
 
@@ -99,7 +99,7 @@ Table: Phase transition, In–Sc system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1693.15 K | 1693.15 | congruent transformation | experimental | [1] Hu 2018; _cites Yatsenko 1983_ | p. 1 | “Among them, InSc3, In3Sc5, InSc, In5Sc3 and In3Sc decompose in peritectic reactions at 1340 °C, 1330 °C, 1120 °C, 950 °C and 910 °C respectively, while InSc2 melts at 1420 °C congruently \[10\].” |
+| Phase transition | 1693.15 K | 1693.15 | congruent transformation | experimental | [1] Hu 2018; _cites Yatsenko 1983_ | p. 1; `ORC-ORSAMK3YE2.c428d2` | “Among them, InSc3, In3Sc5, InSc, In5Sc3 and In3Sc decompose in peritectic reactions at 1340 °C, 1330 °C, 1120 °C, 950 °C and 910 °C respectively, while InSc2 melts at 1420 °C congruently \[10\].” |
 
 ## Sources
 
@@ -164,4 +164,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -55,11 +55,11 @@ Table: Invariant reactions reported in the literature for the Er–Mg system (5)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1498.15 | peritectic: L + (Er) -> "(βEr)" | L: Mg 0.28; (Er): Mg 0.1; "(βEr)": Mg 0.17 | unspecified | [1] Okamoto 1992 | Table 1, p. 2, row 7 |  |
-| 1103.15 | peritectic: L + "(βEr)" -> MgEr | L: Mg 0.63; "(βEr)": Mg 0.43; MgEr: Mg 0.5 | unspecified | [1] Okamoto 1992 | Table 1, p. 2, row 5 |  |
-| 953.15 | eutectoid: "(βEr)" -> MgEr + (Er) | "(βEr)": Mg 0.305; MgEr: Mg 0.5; (Er): Mg 0.13 | unspecified | [1] Okamoto 1992 | Table 1, p. 2, row 6 |  |
-| 943.15 | peritectic: L + MgEr -> Mg2Er | L: Mg 0.8; MgEr: Mg 0.5; Mg2Er: Mg 0.667 | unspecified | [1] Okamoto 1992 | Table 1, p. 2, row 4 |  |
-| 873.15 | peritectic: L + Mg2Er -> Mg24Er5 | L: Mg 0.85; Mg2Er: Mg 0.667; Mg24Er5: Mg 0.828 | unspecified | [1] Okamoto 1992 | Table 1, p. 2, row 3 |  |
+| 1498.15 | peritectic: L + (Er) -> "(βEr)" | L: Mg 0.28; (Er): Mg 0.1; "(βEr)": Mg 0.17 | unspecified | [1] Okamoto 1992 | Table 1, p. 2, row 7; `ORC-XOCAAL34TY` |  |
+| 1103.15 | peritectic: L + "(βEr)" -> MgEr | L: Mg 0.63; "(βEr)": Mg 0.43; MgEr: Mg 0.5 | unspecified | [1] Okamoto 1992 | Table 1, p. 2, row 5; `ORC-BNB6NDHJ5Q` |  |
+| 953.15 | eutectoid: "(βEr)" -> MgEr + (Er) | "(βEr)": Mg 0.305; MgEr: Mg 0.5; (Er): Mg 0.13 | unspecified | [1] Okamoto 1992 | Table 1, p. 2, row 6; `ORC-JYFU532AON` |  |
+| 943.15 | peritectic: L + MgEr -> Mg2Er | L: Mg 0.8; MgEr: Mg 0.5; Mg2Er: Mg 0.667 | unspecified | [1] Okamoto 1992 | Table 1, p. 2, row 4; `ORC-ZXXFKIHGOL` |  |
+| 873.15 | peritectic: L + Mg2Er -> Mg24Er5 | L: Mg 0.85; Mg2Er: Mg 0.667; Mg24Er5: Mg 0.828 | unspecified | [1] Okamoto 1992 | Table 1, p. 2, row 3; `ORC-UVMAON5UEC` |  |
 
 ## Other properties
 
@@ -69,8 +69,8 @@ Table: Phase transition, Er–Mg system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 923.15 K | 923.15 | congruent melting: L -> Mg; _Mg: Mg 1_ | unspecified | [1] Okamoto 1992 | Table 1, p. 2, row 1 |  |
-| Phase transition | 1802.15 K | 1802.15 | congruent melting: L -> Er; _Er: Mg 0_ | unspecified | [1] Okamoto 1992 | Table 1, p. 2, row 8 |  |
+| Phase transition | 923.15 K | 923.15 | congruent melting: L -> Mg; _Mg: Mg 1_ | unspecified | [1] Okamoto 1992 | Table 1, p. 2, row 1; `ORC-S6W372CLYZ` |  |
+| Phase transition | 1802.15 K | 1802.15 | congruent melting: L -> Er; _Er: Mg 0_ | unspecified | [1] Okamoto 1992 | Table 1, p. 2, row 8; `ORC-A4GWIB7JSY` |  |
 
 ## Sources
 
@@ -135,4 +135,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -27,16 +27,16 @@ Table: Invariant reactions reported in the literature for the Mo–Ni–V system
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1563.15 | quasi-peritectic: U1: L + δ = fcc-(Ni) + bcc-(Mo,V) |  | experimental | [1] Pan 2018; _cites This_ | Table 4, p. 9, row 2 |  |
-| 1554.15 | quasi-peritectic: U1: L + δ = fcc-(Ni) + bcc-(Mo,V) | L: Mo 0.255, Ni 0.651, V 0.094 | model | [1] Pan 2018 | Table 4, p. 9, row 1 |  |
-| 1503.15 | quasi-peritectic: U2: L + bcc-(Mo,V) = fcc-(Ni) + σ |  | experimental | [1] Pan 2018; _cites This_ | Table 4, p. 9, row 4 |  |
-| 1496.15 | quasi-peritectic: U2: L + bcc-(Mo,V) = fcc-(Ni) + σ | L: Mo 0.072, Ni 0.541, V 0.387 | model | [1] Pan 2018 | Table 4, p. 9, row 3 |  |
-| 1337.15 | fcc-(Ni) + bcc-(Mo,V) = δ + MoNi3 |  | model | [1] Pan 2018 | Table 5, p. 9, row 1 |  |
-| 1090.15 | fcc-(Ni) + bcc-(Mo,V) = σ + MoNi3 |  | model | [1] Pan 2018 | Table 5, p. 9, row 2 |  |
-| 1079.15 | fcc-(Ni) + Ni3V = MoNi3 + Ni2V |  | model | [1] Pan 2018 | Table 5, p. 9, row 3 |  |
-| 1071.15 | fcc-(Ni) = σ + MoNi3 + Ni2V |  | model | [1] Pan 2018 | Table 5, p. 9, row 4 |  |
-| 1024.15 | σ + MoNi3 = bcc-(Mo,V) + Ni2V |  | model | [1] Pan 2018 | Table 5, p. 9, row 5 |  |
-| 1006.15 | MoNi3 + Ni2V = bcc-(Mo,V) + Ni3V |  | model | [1] Pan 2018 | Table 5, p. 9, row 6 |  |
+| 1563.15 | quasi-peritectic: U1: L + δ = fcc-(Ni) + bcc-(Mo,V) |  | experimental | [1] Pan 2018; _cites This_ | Table 4, p. 9, row 2; `ORC-XLEW6FCG3X` |  |
+| 1554.15 | quasi-peritectic: U1: L + δ = fcc-(Ni) + bcc-(Mo,V) | L: Mo 0.255, Ni 0.651, V 0.094 | model | [1] Pan 2018 | Table 4, p. 9, row 1; `ORC-MIUVZORDK3` |  |
+| 1503.15 | quasi-peritectic: U2: L + bcc-(Mo,V) = fcc-(Ni) + σ |  | experimental | [1] Pan 2018; _cites This_ | Table 4, p. 9, row 4; `ORC-AQZMUDPLS7` |  |
+| 1496.15 | quasi-peritectic: U2: L + bcc-(Mo,V) = fcc-(Ni) + σ | L: Mo 0.072, Ni 0.541, V 0.387 | model | [1] Pan 2018 | Table 4, p. 9, row 3; `ORC-5GK5VZ3ANU` |  |
+| 1337.15 | fcc-(Ni) + bcc-(Mo,V) = δ + MoNi3 |  | model | [1] Pan 2018 | Table 5, p. 9, row 1; `ORC-DCVH35FKK4` |  |
+| 1090.15 | fcc-(Ni) + bcc-(Mo,V) = σ + MoNi3 |  | model | [1] Pan 2018 | Table 5, p. 9, row 2; `ORC-L5MK45LSCK` |  |
+| 1079.15 | fcc-(Ni) + Ni3V = MoNi3 + Ni2V |  | model | [1] Pan 2018 | Table 5, p. 9, row 3; `ORC-I2KI6FWEFE` |  |
+| 1071.15 | fcc-(Ni) = σ + MoNi3 + Ni2V |  | model | [1] Pan 2018 | Table 5, p. 9, row 4; `ORC-32UFAC22AV` |  |
+| 1024.15 | σ + MoNi3 = bcc-(Mo,V) + Ni2V |  | model | [1] Pan 2018 | Table 5, p. 9, row 5; `ORC-F3AGGHCQVI` |  |
+| 1006.15 | MoNi3 + Ni2V = bcc-(Mo,V) + Ni3V |  | model | [1] Pan 2018 | Table 5, p. 9, row 6; `ORC-JDHGB6YAN6` |  |
 
 ## Sources
 
@@ -79,4 +79,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

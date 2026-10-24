@@ -32,7 +32,7 @@ Table: Enthalpies of formation, O–Pm system (1)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| C-Pm2O3 | [Pm2O3](https://data.orchid-project.org/compounds/Pm2O3.html) | -362.2 kJ/mol-atom | 298.15 | model | -370.126 (mp-aaabfnkr) | -354.74 (oqmd-16546) | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 37 |  |
+| C-Pm2O3 | [Pm2O3](https://data.orchid-project.org/compounds/Pm2O3.html) | -362.2 kJ/mol-atom | 298.15 | model | -370.126 (mp-aaabfnkr) | -354.74 (oqmd-16546) | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 37; `ORC-UGBLIW5A52.712328` |  |
 
 ## Other properties
 
@@ -42,7 +42,7 @@ Table: Heat capacity / entropy / enthalpy, O–Pm system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: °S_ | 155.6 unknown | 298.15 | C-Pm2O3; _alloy: O 0.6, Pm 0.4_ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 37 |  |
+| Entropy; _printed: °S_ | 155.6 unknown | 298.15 | C-Pm2O3; _alloy: O 0.6, Pm 0.4_ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 37; `ORC-UGBLIW5A52.84ebc2` |  |
 
 ### Crystal structure (3)
 
@@ -50,9 +50,9 @@ Table: Crystal structure, O–Pm system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| lattice molar volume | 49.96 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Pm 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 7 |  |
-| lattice molar volume | 45.697 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Pm 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 7 |  |
-| lattice molar volume | 44.886 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Pm 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 7 |  |
+| lattice molar volume | 49.96 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Pm 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 7; `ORC-UGLZJECSVX.191357` |  |
+| lattice molar volume | 45.697 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Pm 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 7; `ORC-UGLZJECSVX.53f122` |  |
+| lattice molar volume | 44.886 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Pm 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 7; `ORC-UGLZJECSVX.7f44d9` |  |
 
 ## Sources
 
@@ -106,4 +106,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -14,15 +14,15 @@ Table: Enthalpy of formation of Ce5Si3 reported in the literature (9)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -52.8 kJ/mol-atom ± 0.6 | Ce5Si3 | 298.15 | experimental | Calorimetry | [Ce–Si](https://data.orchid-project.org/systems/CE-SI.html) | [1] Huang 2016; _cites Meschel 1996_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902400-0) | Table 8, p. 9, row 3 |  |
-| -64.31 kJ/mol-atom | Ce5Si3 | 298.15 | model | Calculated | [Ce–Si](https://data.orchid-project.org/systems/CE-SI.html) | [1] Huang 2016 | Table 8, p. 9, row 23 |  |
-| -63.44 kJ/mol-atom | Ce5Si3 | 298.15 | model | Calculated | [Ce–Si](https://data.orchid-project.org/systems/CE-SI.html) | [1] Huang 2016; _cites Kim 2015_ [doi](https://doi.org/10.1016/j.jct.2014.08.015) | Table 8, p. 9, row 16 |  |
-| -61 kJ/mol-atom | Ce5Si3 | 298.15 | model | Calculated | [Ce–Si](https://data.orchid-project.org/systems/CE-SI.html) | [1] Huang 2016; _cites Grobner 2004_ [doi](https://doi.org/10.1007/s11661-004-0172-y) | Table 8, p. 9, row 4 |  |
-| -57.225 kJ/mol-atom | Ce5Si3 | 298.15 | model | Calculated | [Ce–Si](https://data.orchid-project.org/systems/CE-SI.html) | [1] Huang 2016; _cites Shukla 2009_ [doi](https://doi.org/10.3139/146.110003) | Table 8, p. 9, row 10 |  |
-| -64.31 kJ/mol-atom | Ce5Si3 | 298.15 | unspecified |  | [Ce–Si](https://data.orchid-project.org/systems/CE-SI.html) | [1] Huang 2016 | Table 8, p. 9, row 34 |  |
-| -63.44 kJ/mol-atom | Ce5Si3 | 298.15 | unspecified |  | [Ce–Si](https://data.orchid-project.org/systems/CE-SI.html) | [1] Huang 2016 | Table 8, p. 9, row 33 |  |
-| -61 kJ/mol-atom | Ce5Si3 | 298.15 | unspecified |  | [Ce–Si](https://data.orchid-project.org/systems/CE-SI.html) | [1] Huang 2016 | Table 8, p. 9, row 31 |  |
-| -57.225 kJ/mol-atom | Ce5Si3 | 298.15 | unspecified |  | [Ce–Si](https://data.orchid-project.org/systems/CE-SI.html) | [1] Huang 2016 | Table 8, p. 9, row 32 |  |
+| -52.8 kJ/mol-atom ± 0.6 | Ce5Si3 | 298.15 | experimental | Calorimetry | [Ce–Si](https://data.orchid-project.org/systems/CE-SI.html) | [1] Huang 2016; _cites Meschel 1996_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902400-0) | Table 8, p. 9, row 3; `ORC-OEYNFRKYXY` |  |
+| -64.31 kJ/mol-atom | Ce5Si3 | 298.15 | model | Calculated | [Ce–Si](https://data.orchid-project.org/systems/CE-SI.html) | [1] Huang 2016 | Table 8, p. 9, row 23; `ORC-PAGFYZKPGO` |  |
+| -63.44 kJ/mol-atom | Ce5Si3 | 298.15 | model | Calculated | [Ce–Si](https://data.orchid-project.org/systems/CE-SI.html) | [1] Huang 2016; _cites Kim 2015_ [doi](https://doi.org/10.1016/j.jct.2014.08.015) | Table 8, p. 9, row 16; `ORC-YGUW7GTLL7` |  |
+| -61 kJ/mol-atom | Ce5Si3 | 298.15 | model | Calculated | [Ce–Si](https://data.orchid-project.org/systems/CE-SI.html) | [1] Huang 2016; _cites Grobner 2004_ [doi](https://doi.org/10.1007/s11661-004-0172-y) | Table 8, p. 9, row 4; `ORC-W4XMN74QB3` |  |
+| -57.225 kJ/mol-atom | Ce5Si3 | 298.15 | model | Calculated | [Ce–Si](https://data.orchid-project.org/systems/CE-SI.html) | [1] Huang 2016; _cites Shukla 2009_ [doi](https://doi.org/10.3139/146.110003) | Table 8, p. 9, row 10; `ORC-NE6QP223MZ` |  |
+| -64.31 kJ/mol-atom | Ce5Si3 | 298.15 | unspecified |  | [Ce–Si](https://data.orchid-project.org/systems/CE-SI.html) | [1] Huang 2016 | Table 8, p. 9, row 34; `ORC-ASGDLUKUY6.0da1c6` |  |
+| -63.44 kJ/mol-atom | Ce5Si3 | 298.15 | unspecified |  | [Ce–Si](https://data.orchid-project.org/systems/CE-SI.html) | [1] Huang 2016 | Table 8, p. 9, row 33; `ORC-QA2GU6QNKT.844dd4` |  |
+| -61 kJ/mol-atom | Ce5Si3 | 298.15 | unspecified |  | [Ce–Si](https://data.orchid-project.org/systems/CE-SI.html) | [1] Huang 2016 | Table 8, p. 9, row 31; `ORC-6DPSRE2VIG.263e05` |  |
+| -57.225 kJ/mol-atom | Ce5Si3 | 298.15 | unspecified |  | [Ce–Si](https://data.orchid-project.org/systems/CE-SI.html) | [1] Huang 2016 | Table 8, p. 9, row 32; `ORC-GDQDWANVDJ.fa878d` |  |
 
 ### Uncertainty budget
 
@@ -106,4 +106,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

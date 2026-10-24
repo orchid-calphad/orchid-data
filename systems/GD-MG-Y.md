@@ -28,17 +28,17 @@ Table: Invariant reactions reported in the literature for the Gd–Mg–Y system
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 974 | quasi-peritectic: L + (Gd,Y)Mg = Mg2Y + GdMg2 |  | model | [1] Gröbner 2010 | Table 3, p. 4, row 1 |  |
-| 954 | quasi-peritectic: liq. + MgM -> Mg2Gd + Mg2Y | L: Gd 0.1881, Mg 0.7506, Y 0.0613; liquid: Gd 0.1881, Mg 0.7506, Y 0.0613 | model | [2] Guo 2007 | Table 4, p. 9, row 1 |  |
-| 950 | quasi-peritectic: liq. + Mg2Gd -> Mg2Y + Mg3Gd | L: Gd 0.1852, Mg 0.7558, Y 0.059; liquid: Gd 0.1852, Mg 0.7558, Y 0.059 | model | [2] Guo 2007 | Table 4, p. 9, row 2 |  |
-| 941.55 | quasi-peritectic: L + GdMg2 = Mg2Y + GdMg3 |  | model | [1] Gröbner 2010 | Table 3, p. 4, row 2 |  |
-| 884.84 | quasi-peritectic: L + GdMg3 = GdMg5 + Mg2Y |  | model | [1] Gröbner 2010 | Table 3, p. 4, row 3 |  |
-| 877.23 | quasi-peritectic: L + GdMg5 = Mg24Y5 + Mg2Y |  | model | [1] Gröbner 2010 | Table 3, p. 4, row 4 |  |
-| 869 | quasi-peritectic: liq. + Mg3Gd -> Mg2Y + Mg5Gd | L: Gd 0.1085, Mg 0.8115, Y 0.08; liquid: Gd 0.1085, Mg 0.8115, Y 0.08 | model | [2] Guo 2007 | Table 4, p. 9, row 3 |  |
-| 852 | quasi-peritectic: liq. + Mg2Y -> Mg5Gd + Mg24Y5 | L: Gd 0.085, Mg 0.8268, Y 0.0882; liquid: Gd 0.085, Mg 0.8268, Y 0.0882 | model | [2] Guo 2007 | Table 4, p. 9, row 4 |  |
-| 833.15 | eutectic: L = (Mg) + Mg24Y5 + GdMg5 |  | experimental | [1] Gröbner 2010; _cites Drits 1983_ | Table 3, p. 4, row 6 |  |
-| 823.94 | eutectic: L = (Mg) + Mg24Y5 + GdMg5 |  | model | [1] Gröbner 2010 | Table 3, p. 4, row 5 |  |
-| 810 | eutectic: liq. -> hcp(Mg) + Mg24Y5 + Mg5Gd | L: Gd 0.0583, Mg 0.9038, Y 0.0379; liquid: Gd 0.0583, Mg 0.9038, Y 0.0379 | model | [2] Guo 2007 | Table 4, p. 9, row 5 |  |
+| 974 | quasi-peritectic: L + (Gd,Y)Mg = Mg2Y + GdMg2 |  | model | [1] Gröbner 2010 | Table 3, p. 4, row 1; `ORC-JVBYUMLVSE` |  |
+| 954 | quasi-peritectic: liq. + MgM -> Mg2Gd + Mg2Y | L: Gd 0.1881, Mg 0.7506, Y 0.0613; liquid: Gd 0.1881, Mg 0.7506, Y 0.0613 | model | [2] Guo 2007 | Table 4, p. 9, row 1; `ORC-YLWHEA5SHG` |  |
+| 950 | quasi-peritectic: liq. + Mg2Gd -> Mg2Y + Mg3Gd | L: Gd 0.1852, Mg 0.7558, Y 0.059; liquid: Gd 0.1852, Mg 0.7558, Y 0.059 | model | [2] Guo 2007 | Table 4, p. 9, row 2; `ORC-3L3YRJTBOI` |  |
+| 941.55 | quasi-peritectic: L + GdMg2 = Mg2Y + GdMg3 |  | model | [1] Gröbner 2010 | Table 3, p. 4, row 2; `ORC-XKLJQX4FAH` |  |
+| 884.84 | quasi-peritectic: L + GdMg3 = GdMg5 + Mg2Y |  | model | [1] Gröbner 2010 | Table 3, p. 4, row 3; `ORC-XDA2RYETM2` |  |
+| 877.23 | quasi-peritectic: L + GdMg5 = Mg24Y5 + Mg2Y |  | model | [1] Gröbner 2010 | Table 3, p. 4, row 4; `ORC-X4GKADRGWU` |  |
+| 869 | quasi-peritectic: liq. + Mg3Gd -> Mg2Y + Mg5Gd | L: Gd 0.1085, Mg 0.8115, Y 0.08; liquid: Gd 0.1085, Mg 0.8115, Y 0.08 | model | [2] Guo 2007 | Table 4, p. 9, row 3; `ORC-BM7DMMDD37` |  |
+| 852 | quasi-peritectic: liq. + Mg2Y -> Mg5Gd + Mg24Y5 | L: Gd 0.085, Mg 0.8268, Y 0.0882; liquid: Gd 0.085, Mg 0.8268, Y 0.0882 | model | [2] Guo 2007 | Table 4, p. 9, row 4; `ORC-CMHNY7UAYD` |  |
+| 833.15 | eutectic: L = (Mg) + Mg24Y5 + GdMg5 |  | experimental | [1] Gröbner 2010; _cites Drits 1983_ | Table 3, p. 4, row 6; `ORC-GBLZY2CHRK` |  |
+| 823.94 | eutectic: L = (Mg) + Mg24Y5 + GdMg5 |  | model | [1] Gröbner 2010 | Table 3, p. 4, row 5; `ORC-3JFIKESZMF` |  |
+| 810 | eutectic: liq. -> hcp(Mg) + Mg24Y5 + Mg5Gd | L: Gd 0.0583, Mg 0.9038, Y 0.0379; liquid: Gd 0.0583, Mg 0.9038, Y 0.0379 | model | [2] Guo 2007 | Table 4, p. 9, row 5; `ORC-I4FGCSWVBJ` |  |
 
 ## Other properties
 
@@ -48,7 +48,7 @@ Table: Phase transition, Gd–Mg–Y system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 878.21 K | 878.21 | other | model | [1] Gröbner 2010 | p. 4 | “Invariant three-phase reactions close to U4, such as the minimum in L + Mg24Y5 + Mg2Y at 602.66 °C and the maximum in L + Mg24Y5 + GdMg5 at 605.06 °C are not included in Table 3.” |
+| Phase transition | 878.21 K | 878.21 | other | model | [1] Gröbner 2010 | p. 4; `ORC-PT2UNY73UG` | “Invariant three-phase reactions close to U4, such as the minimum in L + Mg24Y5 + Mg2Y at 602.66 °C and the maximum in L + Mg24Y5 + GdMg5 at 605.06 °C are not included in Table 3.” |
 
 ## Sources
 
@@ -92,4 +92,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

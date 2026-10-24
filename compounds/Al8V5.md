@@ -14,14 +14,14 @@ Table: Enthalpy of formation of Al8V5 reported in the literature (8)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -34 kJ/mol-atom | Al8V5 | 298.15 | experimental | Exp | [Al–V](https://data.orchid-project.org/systems/AL-V.html) | [1] Luo 2018; _cites Meschel 1994_ | Table 3, p. 5, row 7 |  |
-| -22.557 kJ/mol-atom | Al8V5 |  | model |  | [Al–V](https://data.orchid-project.org/systems/AL-V.html) | [1] Luo 2018 | Table 3, p. 5, row 10 |  |
-| -20.269 kJ/mol-atom | Al8V5 |  | model |  | [Al–V](https://data.orchid-project.org/systems/AL-V.html) | [1] Luo 2018 | Table 3, p. 5, row 11 |  |
-| -19.03 kJ/mol-atom | Al8V5 |  | model |  | [Al–V](https://data.orchid-project.org/systems/AL-V.html) | [1] Luo 2018 | Table 3, p. 5, row 9 |  |
-| -19.39 kJ/mol-atom | Al8V5 |  | DFT | DFT | [Al–V](https://data.orchid-project.org/systems/AL-V.html) | [1] Luo 2018; _cites ref. 21_ | Table 3, p. 5, row 5 |  |
-| -18.19 kJ/mol-atom | Al8V5 |  | DFT | DFT | [Al–V](https://data.orchid-project.org/systems/AL-V.html) | [1] Luo 2018; _cites ref. 21_ | Table 3, p. 5, row 6 |  |
-| -18.18 kJ/mol-atom | Al8V5 |  | DFT | DFT | [Al–V](https://data.orchid-project.org/systems/AL-V.html) | [1] Luo 2018; _cites ref. 21_ | Table 3, p. 5, row 8 |  |
-| -12.65 kJ/mol-atom | Al8V5 |  | DFT | DFT | [Al–V](https://data.orchid-project.org/systems/AL-V.html) | [1] Luo 2018; _cites ref. 21_ | Table 3, p. 5, row 4 |  |
+| -34 kJ/mol-atom | Al8V5 | 298.15 | experimental | Exp | [Al–V](https://data.orchid-project.org/systems/AL-V.html) | [1] Luo 2018; _cites Meschel 1994_ | Table 3, p. 5, row 7; `ORC-32J4O2DDG6` |  |
+| -22.557 kJ/mol-atom | Al8V5 |  | model |  | [Al–V](https://data.orchid-project.org/systems/AL-V.html) | [1] Luo 2018 | Table 3, p. 5, row 10; `ORC-7Q525HXRWT` |  |
+| -20.269 kJ/mol-atom | Al8V5 |  | model |  | [Al–V](https://data.orchid-project.org/systems/AL-V.html) | [1] Luo 2018 | Table 3, p. 5, row 11; `ORC-MX6HXD236P` |  |
+| -19.03 kJ/mol-atom | Al8V5 |  | model |  | [Al–V](https://data.orchid-project.org/systems/AL-V.html) | [1] Luo 2018 | Table 3, p. 5, row 9; `ORC-FUZUXKJXM6` |  |
+| -19.39 kJ/mol-atom | Al8V5 |  | DFT | DFT | [Al–V](https://data.orchid-project.org/systems/AL-V.html) | [1] Luo 2018; _cites ref. 21_ | Table 3, p. 5, row 5; `ORC-4YOQWHMSI6` |  |
+| -18.19 kJ/mol-atom | Al8V5 |  | DFT | DFT | [Al–V](https://data.orchid-project.org/systems/AL-V.html) | [1] Luo 2018; _cites ref. 21_ | Table 3, p. 5, row 6; `ORC-7FC26Y65SS` |  |
+| -18.18 kJ/mol-atom | Al8V5 |  | DFT | DFT | [Al–V](https://data.orchid-project.org/systems/AL-V.html) | [1] Luo 2018; _cites ref. 21_ | Table 3, p. 5, row 8; `ORC-XANB3HVNAZ` |  |
+| -12.65 kJ/mol-atom | Al8V5 |  | DFT | DFT | [Al–V](https://data.orchid-project.org/systems/AL-V.html) | [1] Luo 2018; _cites ref. 21_ | Table 3, p. 5, row 4; `ORC-ZG3J7RSXT2` |  |
 
 ### Uncertainty budget
 
@@ -104,4 +104,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

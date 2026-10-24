@@ -14,21 +14,21 @@ Table: Enthalpy of formation of MgB2 reported in the literature (15)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -41.1 per mol-atom ± 2.2 | MgB2 | 298.15 | experimental | Vap. p. | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 1 |  |
-| -41.1 kJ/mol-atom ± 2.2 | MgB2 | 298.15 | experimental | Vap. p. | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 1 |  |
-| -26.6 per mol-atom ± 10 | MgB2 | 298.15 | experimental | Vap. p. | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 4 |  |
-| -26.6 kJ/mol-atom ± 10 | MgB2 | 298.15 | experimental | Vap. p. | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 4 |  |
-| -18.6 kJ/mol-atom | MgB2 | 298.15 | experimental | calorimetry | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 6 |  |
-| -18.6 per mol-atom | MgB2 | 298.15 | experimental | calorimetry | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 6 |  |
-| -17.2 kJ/mol-atom ± 1.4 | MgB2 | 298.15 | experimental | calorimetry | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 5 |  |
-| -17.2 per mol-atom ± 1.4 | MgB2 | 298.15 | experimental | calorimetry | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 5 |  |
-| -0.02666 kJ/mol-atom ± 0.01 | MgB2 | 298.15 | experimental | vapor pressure | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [2] Liu 2001; _cites Jansson 1984_ | Table 2, p. 2, row 1 |  |
-| -0.01855 kJ/mol-atom ± 0.00112 | MgB2 | 298.15 | experimental | calorimetry | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [2] Liu 2001; _cites Sundman 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990021-5) | Table 2, p. 2, row 7 |  |
-| -0.01717 kJ/mol-atom ± 0.00139 | MgB2 | 298.15 | experimental | calorimetry | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [2] Liu 2001; _cites Jansson 1984_ | Table 2, p. 2, row 4 |  |
-| -35.9 kJ/mol-atom | MgB2 | 298.15 | model | Ph. diagr. assessment | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 2 |  |
-| -35.9 per mol-atom | MgB2 | 298.15 | model | Ph. diagr. assessment | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 2 |  |
-| -24 kJ/mol-atom | MgB2 | 298.15 | model | Ph. diagr. assessment | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 3 |  |
-| -24 per mol-atom | MgB2 | 298.15 | model | Ph. diagr. assessment | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 3 |  |
+| -41.1 per mol-atom ± 2.2 | MgB2 | 298.15 | experimental | Vap. p. | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 1; `ORC-ICOXV56CAA.5c1af0` |  |
+| -41.1 kJ/mol-atom ± 2.2 | MgB2 | 298.15 | experimental | Vap. p. | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 1; `ORC-ICOXV56CAA.e54032` |  |
+| -26.6 per mol-atom ± 10 | MgB2 | 298.15 | experimental | Vap. p. | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 4; `ORC-YXEY33NPZK.25a37b` |  |
+| -26.6 kJ/mol-atom ± 10 | MgB2 | 298.15 | experimental | Vap. p. | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 4; `ORC-YXEY33NPZK.6db522` |  |
+| -18.6 kJ/mol-atom | MgB2 | 298.15 | experimental | calorimetry | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 6; `ORC-WKL7IRXHLB.101474` |  |
+| -18.6 per mol-atom | MgB2 | 298.15 | experimental | calorimetry | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 6; `ORC-WKL7IRXHLB.56a394` |  |
+| -17.2 kJ/mol-atom ± 1.4 | MgB2 | 298.15 | experimental | calorimetry | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 5; `ORC-ERT3NO6RZ2.960926` |  |
+| -17.2 per mol-atom ± 1.4 | MgB2 | 298.15 | experimental | calorimetry | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 5; `ORC-ERT3NO6RZ2.bf8224` |  |
+| -0.02666 kJ/mol-atom ± 0.01 | MgB2 | 298.15 | experimental | vapor pressure | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [2] Liu 2001; _cites Jansson 1984_ | Table 2, p. 2, row 1; `ORC-W2FCXHRFOP` |  |
+| -0.01855 kJ/mol-atom ± 0.00112 | MgB2 | 298.15 | experimental | calorimetry | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [2] Liu 2001; _cites Sundman 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990021-5) | Table 2, p. 2, row 7; `ORC-ITEAB5IK2I` |  |
+| -0.01717 kJ/mol-atom ± 0.00139 | MgB2 | 298.15 | experimental | calorimetry | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [2] Liu 2001; _cites Jansson 1984_ | Table 2, p. 2, row 4; `ORC-P2QKYSNQY6` |  |
+| -35.9 kJ/mol-atom | MgB2 | 298.15 | model | Ph. diagr. assessment | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 2; `ORC-2IFABLSXTP.0fc294` |  |
+| -35.9 per mol-atom | MgB2 | 298.15 | model | Ph. diagr. assessment | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 2; `ORC-2IFABLSXTP.68025c` |  |
+| -24 kJ/mol-atom | MgB2 | 298.15 | model | Ph. diagr. assessment | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 3; `ORC-E6JIMEMUCO.4cfe01` |  |
+| -24 per mol-atom | MgB2 | 298.15 | model | Ph. diagr. assessment | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 3; `ORC-E6JIMEMUCO.5486b7` |  |
 
 ### Uncertainty budget
 
@@ -119,4 +119,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

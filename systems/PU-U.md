@@ -85,8 +85,8 @@ Table: Phase transition, Pu–U system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 881.15 K | 881.15 |  | model | [1] Perron 2015; _cites Perron 2014_ [doi](https://doi.org/10.1016/j.jnucmat.2014.07.051) | p. 10 | “In addition, a small liquid region is still present at the Pu-rich corner, and corresponds to the low minimum-melting temperature calculated for the Pu-U binary by Kurata (619 °C, \[8\]) and Perron et al. (608 °C, \[19\]).” |
-| Phase transition | 892.15 K | 892.15 |  | model | [1] Perron 2015; _cites Kurata 2009_ [doi](https://doi.org/10.1088/1757-899x/9/1/012022) | p. 10 | “In addition, a small liquid region is still present at the Pu-rich corner, and corresponds to the low minimum-melting temperature calculated for the Pu-U binary by Kurata (619 °C, \[8\]) and Perron et al. (608 °C, \[19\]).” |
+| Phase transition | 881.15 K | 881.15 |  | model | [1] Perron 2015; _cites Perron 2014_ [doi](https://doi.org/10.1016/j.jnucmat.2014.07.051) | p. 10; `ORC-N4DUXIG2NO.9a0ced` | “In addition, a small liquid region is still present at the Pu-rich corner, and corresponds to the low minimum-melting temperature calculated for the Pu-U binary by Kurata (619 °C, \[8\]) and Perron et al. (608 °C, \[19\]).” |
+| Phase transition | 892.15 K | 892.15 |  | model | [1] Perron 2015; _cites Kurata 2009_ [doi](https://doi.org/10.1088/1757-899x/9/1/012022) | p. 10; `ORC-N4DUXIG2NO.c9a656` | “In addition, a small liquid region is still present at the Pu-rich corner, and corresponds to the low minimum-melting temperature calculated for the Pu-U binary by Kurata (619 °C, \[8\]) and Perron et al. (608 °C, \[19\]).” |
 
 ### Heat capacity / entropy / enthalpy (6)
 
@@ -94,12 +94,12 @@ Table: Heat capacity / entropy / enthalpy, Pu–U system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Heat capacity; _printed: Cp_ | 38.5 J/mol-atom/K | 673 | α; _alloy: Pu 0.1, U 0.9_ | experimental | [2] Kurata 1999; _cites ref. 11Chi_ | Table 3, p. 17, row 2 |  |
-| Heat capacity; _printed: Cp_ | 37.5 J/mol-atom/K | 673 | α; _alloy: Pu 0.1, U 0.9_ | model | [2] Kurata 1999 | Table 3, p. 17, row 1 |  |
-| Heat capacity; _printed: Cp_ | 42.1 J/mol-atom/K | 773 | α; _alloy: Pu 0.1, U 0.9_ | experimental | [2] Kurata 1999; _cites ref. 11Chi_ | Table 3, p. 17, row 4 |  |
-| Heat capacity; _printed: Cp_ | 40.8 J/mol-atom/K | 773 | α; _alloy: Pu 0.1, U 0.9_ | model | [2] Kurata 1999 | Table 3, p. 17, row 3 |  |
-| Heat capacity; _printed: Cp_ | 44.5 J/mol-atom/K | 840 | α; _alloy: Pu 0.1, U 0.9_ | experimental | [2] Kurata 1999; _cites ref. 11Chi_ | Table 3, p. 17, row 6 |  |
-| Heat capacity; _printed: Cp_ | 43.3 J/mol-atom/K | 840 | α; _alloy: Pu 0.1, U 0.9_ | model | [2] Kurata 1999 | Table 3, p. 17, row 5 |  |
+| Heat capacity; _printed: Cp_ | 38.5 J/mol-atom/K | 673 | α; _alloy: Pu 0.1, U 0.9_ | experimental | [2] Kurata 1999; _cites ref. 11Chi_ | Table 3, p. 17, row 2; `ORC-K3HZTEHG2L.f8e0f3` |  |
+| Heat capacity; _printed: Cp_ | 37.5 J/mol-atom/K | 673 | α; _alloy: Pu 0.1, U 0.9_ | model | [2] Kurata 1999 | Table 3, p. 17, row 1; `ORC-TUPPEUSP3G.090ff3` |  |
+| Heat capacity; _printed: Cp_ | 42.1 J/mol-atom/K | 773 | α; _alloy: Pu 0.1, U 0.9_ | experimental | [2] Kurata 1999; _cites ref. 11Chi_ | Table 3, p. 17, row 4; `ORC-AZHIIJFVVN.0f8013` |  |
+| Heat capacity; _printed: Cp_ | 40.8 J/mol-atom/K | 773 | α; _alloy: Pu 0.1, U 0.9_ | model | [2] Kurata 1999 | Table 3, p. 17, row 3; `ORC-NP3TPDQFGJ.c2bf44` |  |
+| Heat capacity; _printed: Cp_ | 44.5 J/mol-atom/K | 840 | α; _alloy: Pu 0.1, U 0.9_ | experimental | [2] Kurata 1999; _cites ref. 11Chi_ | Table 3, p. 17, row 6; `ORC-KSXPAH2RSB.4db829` |  |
+| Heat capacity; _printed: Cp_ | 43.3 J/mol-atom/K | 840 | α; _alloy: Pu 0.1, U 0.9_ | model | [2] Kurata 1999 | Table 3, p. 17, row 5; `ORC-QZJQT2XAUD.2a0d87` |  |
 
 ## Sources
 
@@ -165,4 +165,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

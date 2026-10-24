@@ -61,21 +61,21 @@ Table: Invariant reactions reported in the literature for the Bi–Zn system (15
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 690.15 | monotectic: liq 1+Zn -> liq 2 | liq 1: Zn 0.992; Zn: Zn 0.39 | model | [1] Djaballah 2005; _cites Malakhov 2000_ [doi](https://doi.org/10.1016/s0364-5916%2800%2900011-0) | Table 2, p. 6, row 8 |  |
-| 690.15 | monotectic: liq 1+Zn -> liq 2 | liq 1: Zn 0.992; Zn: Zn 0.31 | experimental | [1] Djaballah 2005; _cites Bouharkat 1996_ [doi](https://doi.org/10.1016/0925-8388%2895%2902095-0) | Table 2, p. 6, row 6 |  |
-| 689.66 | monotectic | Bi-rich liquid: Zn 0.37083; Zn-rich liquid: Zn 0.99253; HCP solution: Zn 0.9993 | model | [2] Malakhov 2000 | Table 8, p. 11, row 1 |  |
-| 689.15 | monotectic |  | experimental | [2] Malakhov 2000 | p. 7 | “The monotectic temperature 416'C and the compositions of coexisting liquids x4 = 0.37 and xL? = 0.993 were assigned artificially enlarged statistical weights.” |
-| 689.15 | monotectic: liq 1+Zn -> liq 2 | liq 1: Zn 0.994; Zn: Zn 0.37 | experimental | [1] Djaballah 2005; _cites Seith 1955_ [doi](https://doi.org/10.1515/ijmr-1955-461101) | Table 2, p. 6, row 10 |  |
-| 689 | eutectic |  | model | [2] Malakhov 2000 | p. 5 | “While their estimation of the eutectic temperature 415.85'C/689K is irreproachable, the composition of liquid in the eutectic point, x= 0.39, deviates significantly from the value x= 0.37 recommended in \[90 Mas\].” |
-| 688.15 | monotectic: liq 1+Zn -> liq 2 | liq 1: Zn 0.991; Zn: Zn 0.41 | model | [1] Djaballah 2005; _cites Kim 2003_ [doi](https://doi.org/10.3139/146.030390) | Table 2, p. 6, row 9 |  |
-| 685.95 | monotectic: liq 1+Zn -> liq 2 | liq 1: Zn 0.98; Zn: Zn 0.401 | model | [1] Djaballah 2005 | Table 2, p. 6, row 11 |  |
-| 684.65 | monotectic: liq 1+Zn -> liq 2 | liq 1: Zn 0.364; Zn: Zn 0.999 | unspecified | [1] Djaballah 2005; _cites Girard 1985_ | Table 2, p. 6, row 7 |  |
-| 676.15 | monotectic: liq 1+Zn -> liq 2 | liq 1: Zn 0.9905; Zn: Zn 0.384 | experimental | [1] Djaballah 2005; _cites Khairullin 1996_ | Table 2, p. 6, row 5 |  |
-| 530.15 | eutectic: Zn + Bi -> liq 1 | Zn: Zn 1; Bi: Zn 0.074 | unspecified | [1] Djaballah 2005; _cites Girard 1985_ | Table 2, p. 6, row 2 |  |
-| 527.65 | eutectic | Rhombohedral solution: Zn 0.01636; Liquid: Zn 0.081; Hexagonal solution: Zn 0.99985 | model | [2] Malakhov 2000 | Table 9, p. 11, row 1 |  |
-| 527.65 | eutectic: Zn + Bi -> liq 1 | Zn: Zn 0.99; Bi: Zn 0.081 | model | [1] Djaballah 2005; _cites Malakhov 2000_ [doi](https://doi.org/10.1016/s0364-5916%2800%2900011-0) | Table 2, p. 6, row 3 |  |
-| 527.15 | eutectic: Zn + Bi -> liq 1 | Zn: Zn 1; Bi: Zn 0.076 | experimental | [1] Djaballah 2005; _cites Bouharkat 1996_ [doi](https://doi.org/10.1016/0925-8388%2895%2902095-0) | Table 2, p. 6, row 1 |  |
-| 526.95 | eutectic: Zn + Bi -> liq 1 | Zn: Zn 1; Bi: Zn 0.071 | model | [1] Djaballah 2005 | Table 2, p. 6, row 4 |  |
+| 690.15 | monotectic: liq 1+Zn -> liq 2 | liq 1: Zn 0.992; Zn: Zn 0.39 | model | [1] Djaballah 2005; _cites Malakhov 2000_ [doi](https://doi.org/10.1016/s0364-5916%2800%2900011-0) | Table 2, p. 6, row 8; `ORC-OJLDJQSWNJ` |  |
+| 690.15 | monotectic: liq 1+Zn -> liq 2 | liq 1: Zn 0.992; Zn: Zn 0.31 | experimental | [1] Djaballah 2005; _cites Bouharkat 1996_ [doi](https://doi.org/10.1016/0925-8388%2895%2902095-0) | Table 2, p. 6, row 6; `ORC-UTGMOMOLCB` |  |
+| 689.66 | monotectic | Bi-rich liquid: Zn 0.37083; Zn-rich liquid: Zn 0.99253; HCP solution: Zn 0.9993 | model | [2] Malakhov 2000 | Table 8, p. 11, row 1; `ORC-PA7R42IOHW` |  |
+| 689.15 | monotectic |  | experimental | [2] Malakhov 2000 | p. 7; `ORC-7IHA462MTC` | “The monotectic temperature 416'C and the compositions of coexisting liquids x4 = 0.37 and xL? = 0.993 were assigned artificially enlarged statistical weights.” |
+| 689.15 | monotectic: liq 1+Zn -> liq 2 | liq 1: Zn 0.994; Zn: Zn 0.37 | experimental | [1] Djaballah 2005; _cites Seith 1955_ [doi](https://doi.org/10.1515/ijmr-1955-461101) | Table 2, p. 6, row 10; `ORC-LFLWE74NN4` |  |
+| 689 | eutectic |  | model | [2] Malakhov 2000 | p. 5; `ORC-2WWUJ3M6NQ` | “While their estimation of the eutectic temperature 415.85'C/689K is irreproachable, the composition of liquid in the eutectic point, x= 0.39, deviates significantly from the value x= 0.37 recommended in \[90 Mas\].” |
+| 688.15 | monotectic: liq 1+Zn -> liq 2 | liq 1: Zn 0.991; Zn: Zn 0.41 | model | [1] Djaballah 2005; _cites Kim 2003_ [doi](https://doi.org/10.3139/146.030390) | Table 2, p. 6, row 9; `ORC-KP26HS4BWY` |  |
+| 685.95 | monotectic: liq 1+Zn -> liq 2 | liq 1: Zn 0.98; Zn: Zn 0.401 | model | [1] Djaballah 2005 | Table 2, p. 6, row 11; `ORC-CO3IY67LNI` |  |
+| 684.65 | monotectic: liq 1+Zn -> liq 2 | liq 1: Zn 0.364; Zn: Zn 0.999 | unspecified | [1] Djaballah 2005; _cites Girard 1985_ | Table 2, p. 6, row 7; `ORC-3YYUXBWKA2` |  |
+| 676.15 | monotectic: liq 1+Zn -> liq 2 | liq 1: Zn 0.9905; Zn: Zn 0.384 | experimental | [1] Djaballah 2005; _cites Khairullin 1996_ | Table 2, p. 6, row 5; `ORC-IPI3U3STQA` |  |
+| 530.15 | eutectic: Zn + Bi -> liq 1 | Zn: Zn 1; Bi: Zn 0.074 | unspecified | [1] Djaballah 2005; _cites Girard 1985_ | Table 2, p. 6, row 2; `ORC-HLVLNIMSGH` |  |
+| 527.65 | eutectic | Rhombohedral solution: Zn 0.01636; Liquid: Zn 0.081; Hexagonal solution: Zn 0.99985 | model | [2] Malakhov 2000 | Table 9, p. 11, row 1; `ORC-ELEYC6BIG2` |  |
+| 527.65 | eutectic: Zn + Bi -> liq 1 | Zn: Zn 0.99; Bi: Zn 0.081 | model | [1] Djaballah 2005; _cites Malakhov 2000_ [doi](https://doi.org/10.1016/s0364-5916%2800%2900011-0) | Table 2, p. 6, row 3; `ORC-HBLSZF5LES` |  |
+| 527.15 | eutectic: Zn + Bi -> liq 1 | Zn: Zn 1; Bi: Zn 0.076 | experimental | [1] Djaballah 2005; _cites Bouharkat 1996_ [doi](https://doi.org/10.1016/0925-8388%2895%2902095-0) | Table 2, p. 6, row 1; `ORC-WS4LIR7Y27` |  |
+| 526.95 | eutectic: Zn + Bi -> liq 1 | Zn: Zn 1; Bi: Zn 0.071 | model | [1] Djaballah 2005 | Table 2, p. 6, row 4; `ORC-F5Q7JWOZCD` |  |
 
 ## Other properties
 
@@ -85,22 +85,22 @@ Table: Phase transition, Bi–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 539.55 K | 539.55 |  | experimental | [2] Malakhov 2000; _cites ref. Hey 1897_ | p. 3 | “An averaging of melting points of bismuth and zinc reported in \[1892 Hey, 1897 Hey\] gives 266.4'C and 418.9'C respectively” |
-| Phase transition | 544.55 K | 544.55 |  | experimental | [2] Malakhov 2000; _cites ref. 91_ | p. 3 | “The modem recommended values are 271.4'C and 419.53'C \[91 Din\].” |
-| Phase transition | 692.05 K | 692.05 |  | experimental | [2] Malakhov 2000; _cites ref. Hey 1897_ | p. 3 | “An averaging of melting points of bismuth and zinc reported in \[1892 Hey, 1897 Hey\] gives 266.4'C and 418.9'C respectively” |
-| Phase transition | 692.68 K | 692.68 |  | experimental | [2] Malakhov 2000; _cites ref. 91_ | p. 3 | “The modem recommended values are 271.4'C and 419.53'C \[91 Din\].” |
-| Phase transition | 846.15 K | 846.15 | critical point: 2 liq -> 1 liq; _2 liq: Zn 0.83_ | experimental | [1] Djaballah 2005; _cites Khairullin 1996_ | Table 2, p. 6, row 16 |  |
-| Phase transition | 848.15 K | 848.15 | critical point: 2 liq -> 1 liq; _2 liq: Zn 0.83_ | model | [1] Djaballah 2005; _cites Kim 2003_ [doi](https://doi.org/10.3139/146.030390) | Table 2, p. 6, row 20 |  |
-| Phase transition | 848.15 K | 848.15 | critical point: 2 liq -> 1 liq; _2 liq: Zn 0.815_ | unspecified | [1] Djaballah 2005; _cites Glazov 1988_ | Table 2, p. 6, row 13 |  |
-| Phase transition | 852.95 K | 852.95 | other | model | [2] Malakhov 2000 | p. 10 | “The coordinates of the critical point are x = 0.8702 and T=579.80°C / 852.95K.” |
-| Phase transition | 853.15 K | 853.15 | critical point: 2 liq -> 1 liq; _2 liq: Zn 0.87_ | model | [1] Djaballah 2005; _cites Malakhov 2000_ [doi](https://doi.org/10.1016/s0364-5916%2800%2900011-0) | Table 2, p. 6, row 19 |  |
-| Phase transition | 853.15 K | 853.15 | critical point: 2 liq -> 1 liq; _2 liq: Zn 0.813_ | experimental | [1] Djaballah 2005; _cites Kanai 1993_ [doi](https://doi.org/10.1143/jpsj.62.2388) | Table 2, p. 6, row 15 |  |
-| Phase transition | 856.9 K | 856.9 |  | model | [2] Malakhov 2000 | p. 5 | “Firstly, the critical point is located at low temperature (equal to 583.75"C i856.9K).” |
-| Phase transition | 868.15 K | 868.15 | critical point: 2 liq -> 1 liq; _2 liq: Zn 0.85_ | experimental | [1] Djaballah 2005; _cites Bouharkat 1996_ [doi](https://doi.org/10.1016/0925-8388%2895%2902095-0) | Table 2, p. 6, row 17 |  |
-| Phase transition | 873.15 K | 873.15 | critical point: 2 liq -> 1 liq | unspecified | [1] Djaballah 2005; _cites Singh 1992_ [doi](https://doi.org/10.1515/ijmr-1992-830710) | Table 2, p. 6, row 14 |  |
-| Phase transition | 888.15 K | 888.15 | critical point: 2 liq -> 1 liq; _2 liq: Zn 0.859_ | unspecified | [1] Djaballah 2005; _cites Girard 1985_ | Table 2, p. 6, row 18 |  |
-| Phase transition | 898.15 K | 898.15 | critical point: 2 liq -> 1 liq; _2 liq: Zn 0.85_ | experimental | [1] Djaballah 2005; _cites Okajima 1980_ [doi](https://doi.org/10.2320/matertrans1960.21.226) | Table 2, p. 6, row 12 |  |
-| Phase transition | 906.15 K | 906.15 | critical point: 2 liq -> 1 liq; _2 liq: Zn 0.816_ | model | [1] Djaballah 2005 | Table 2, p. 6, row 21 |  |
+| Phase transition | 539.55 K | 539.55 |  | experimental | [2] Malakhov 2000; _cites ref. Hey 1897_ | p. 3; `ORC-OYM4ZDAQDX.91491a` | “An averaging of melting points of bismuth and zinc reported in \[1892 Hey, 1897 Hey\] gives 266.4'C and 418.9'C respectively” |
+| Phase transition | 544.55 K | 544.55 |  | experimental | [2] Malakhov 2000; _cites ref. 91_ | p. 3; `ORC-OYM4ZDAQDX.e4f4f0` | “The modem recommended values are 271.4'C and 419.53'C \[91 Din\].” |
+| Phase transition | 692.05 K | 692.05 |  | experimental | [2] Malakhov 2000; _cites ref. Hey 1897_ | p. 3; `ORC-OYM4ZDAQDX.146cec` | “An averaging of melting points of bismuth and zinc reported in \[1892 Hey, 1897 Hey\] gives 266.4'C and 418.9'C respectively” |
+| Phase transition | 692.68 K | 692.68 |  | experimental | [2] Malakhov 2000; _cites ref. 91_ | p. 3; `ORC-OYM4ZDAQDX.b358d4` | “The modem recommended values are 271.4'C and 419.53'C \[91 Din\].” |
+| Phase transition | 846.15 K | 846.15 | critical point: 2 liq -> 1 liq; _2 liq: Zn 0.83_ | experimental | [1] Djaballah 2005; _cites Khairullin 1996_ | Table 2, p. 6, row 16; `ORC-OIXFSOTZNZ` |  |
+| Phase transition | 848.15 K | 848.15 | critical point: 2 liq -> 1 liq; _2 liq: Zn 0.83_ | model | [1] Djaballah 2005; _cites Kim 2003_ [doi](https://doi.org/10.3139/146.030390) | Table 2, p. 6, row 20; `ORC-UQT3B7DFBI` |  |
+| Phase transition | 848.15 K | 848.15 | critical point: 2 liq -> 1 liq; _2 liq: Zn 0.815_ | unspecified | [1] Djaballah 2005; _cites Glazov 1988_ | Table 2, p. 6, row 13; `ORC-ZA3HJT225R` |  |
+| Phase transition | 852.95 K | 852.95 | other | model | [2] Malakhov 2000 | p. 10; `ORC-NBPYTTX6QL` | “The coordinates of the critical point are x = 0.8702 and T=579.80°C / 852.95K.” |
+| Phase transition | 853.15 K | 853.15 | critical point: 2 liq -> 1 liq; _2 liq: Zn 0.87_ | model | [1] Djaballah 2005; _cites Malakhov 2000_ [doi](https://doi.org/10.1016/s0364-5916%2800%2900011-0) | Table 2, p. 6, row 19; `ORC-HEAV3SMLQZ` |  |
+| Phase transition | 853.15 K | 853.15 | critical point: 2 liq -> 1 liq; _2 liq: Zn 0.813_ | experimental | [1] Djaballah 2005; _cites Kanai 1993_ [doi](https://doi.org/10.1143/jpsj.62.2388) | Table 2, p. 6, row 15; `ORC-W6QC4TU3WN` |  |
+| Phase transition | 856.9 K | 856.9 |  | model | [2] Malakhov 2000 | p. 5; `ORC-H4YPG2WWCL` | “Firstly, the critical point is located at low temperature (equal to 583.75"C i856.9K).” |
+| Phase transition | 868.15 K | 868.15 | critical point: 2 liq -> 1 liq; _2 liq: Zn 0.85_ | experimental | [1] Djaballah 2005; _cites Bouharkat 1996_ [doi](https://doi.org/10.1016/0925-8388%2895%2902095-0) | Table 2, p. 6, row 17; `ORC-EOZ44ZYXYH` |  |
+| Phase transition | 873.15 K | 873.15 | critical point: 2 liq -> 1 liq | unspecified | [1] Djaballah 2005; _cites Singh 1992_ [doi](https://doi.org/10.1515/ijmr-1992-830710) | Table 2, p. 6, row 14; `ORC-TJ34RDMQFE` |  |
+| Phase transition | 888.15 K | 888.15 | critical point: 2 liq -> 1 liq; _2 liq: Zn 0.859_ | unspecified | [1] Djaballah 2005; _cites Girard 1985_ | Table 2, p. 6, row 18; `ORC-E3DKOWA6BL` |  |
+| Phase transition | 898.15 K | 898.15 | critical point: 2 liq -> 1 liq; _2 liq: Zn 0.85_ | experimental | [1] Djaballah 2005; _cites Okajima 1980_ [doi](https://doi.org/10.2320/matertrans1960.21.226) | Table 2, p. 6, row 12; `ORC-DDZPT2C5SB` |  |
+| Phase transition | 906.15 K | 906.15 | critical point: 2 liq -> 1 liq; _2 liq: Zn 0.816_ | model | [1] Djaballah 2005 | Table 2, p. 6, row 21; `ORC-MVCATXHUJW` |  |
 
 ## Sources
 
@@ -166,4 +166,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

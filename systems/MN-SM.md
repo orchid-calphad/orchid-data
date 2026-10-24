@@ -83,27 +83,27 @@ Table: Invariant reactions reported in the literature for the Mn–Sm system (21
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1411.15 | peritectic: L + δMn ↔ γMn | L: Sm 0.2187; δMn: Sm 0; γMn: Sm 0 | model | [1] Wang 2009 | Table 3, p. 3, row 19 |  |
-| 1411.15 | peritectic: L + δMn ↔ γMn | δMn: Sm 0; γMn: Sm 0 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 3, p. 3, row 17 |  |
-| 1406.15 | peritectic: L + δMn ↔ γMn | δMn: Sm 0; γMn: Sm 0 | experimental | [1] Wang 2009; _cites Kirchmayr 1970_ [doi](https://doi.org/10.1515/ijmr-1970-610106) | Table 3, p. 3, row 18 |  |
-| 1373.15 | peritectic: L + γMn ↔ βMn | γMn: Sm 0; βMn: Sm 0 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 3, p. 3, row 14 |  |
-| 1373.15 | peritectic: L + γMn ↔ βMn | L: Sm 0.3003; γMn: Sm 0; βMn: Sm 0 | model | [1] Wang 2009 | Table 3, p. 3, row 16 |  |
-| 1368.15 | peritectic: L + γMn ↔ βMn | γMn: Sm 0; βMn: Sm 0 | experimental | [1] Wang 2009; _cites Kirchmayr 1970_ [doi](https://doi.org/10.1515/ijmr-1970-610106) | Table 3, p. 3, row 15 |  |
-| 1298.15 | peritectic: L + βMn ↔ Mn23Sm6 | L: Sm 0.3956; βMn: Sm 0; Mn23Sm6: Sm 0.2069 | model | [1] Wang 2009 | Table 3, p. 3, row 13 |  |
-| 1298.15 | peritectic: L + βMn ↔ Mn23Sm6 | βMn: Sm 0; Mn23Sm6: Sm 0.2069 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 3, p. 3, row 12 |  |
-| 1298 | peritectic: L þ cub-Mn ↔ Mn23Sm6 |  | experimental | [2] Ye 2024; _cites Kim 2012_ | p. 5 | “Two intermetallic compounds Mn23Sm6 and Mn2Sm were confirmed, which were formed by peritectic reactions (L þ cub-Mn ↔ Mn23Sm6 at 1298 K and L þ Mn23Sm6 ↔ Mn2Sm at 1203 K).” |
-| 1203.15 | peritectic: L + Mn23Sm6 ↔ Mn2Sm | Mn23Sm6: Sm 0.2069; Mn2Sm: Sm 0.3333 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 3, p. 3, row 10 |  |
-| 1203 | peritectic: L þ Mn23Sm6 ↔ Mn2Sm |  | experimental | [2] Ye 2024; _cites Kim 2012_ | p. 5 | “Two intermetallic compounds Mn23Sm6 and Mn2Sm were confirmed, which were formed by peritectic reactions (L þ cub-Mn ↔ Mn23Sm6 at 1298 K and L þ Mn23Sm6 ↔ Mn2Sm at 1203 K).” |
-| 1202.15 | peritectic: L + Mn23Sm6 ↔ Mn2Sm | L: Sm 0.5259; Mn23Sm6: Sm 0.2069; Mn2Sm: Sm 0.3333 | model | [1] Wang 2009 | Table 3, p. 3, row 11 |  |
-| 1195.15 | peritectic: L + γSm ↔ βSm | L: Sm 0.836; γSm: Sm 1; βSm: Sm 1 | model | [1] Wang 2009 | Table 3, p. 3, row 9 |  |
-| 1195.15 | peritectic: L + γSm ↔ βSm | γSm: Sm 1; βSm: Sm 1 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 3, p. 3, row 7 |  |
-| 1190.15 | peritectic: L + γSm ↔ βSm | γSm: Sm 1; βSm: Sm 1 | experimental | [1] Wang 2009; _cites Kirchmayr 1970_ [doi](https://doi.org/10.1515/ijmr-1970-610106) | Table 3, p. 3, row 8 |  |
-| 1068.15 | eutectic: L ↔ Mn2Sm + βSm | L: Sm 0.6948; Mn2Sm: Sm 0.3333; βSm: Sm 1 | model | [1] Wang 2009 | Table 3, p. 3, row 6 |  |
-| 1068.15 | eutectic: L ↔ Mn2Sm + βSm | Mn2Sm: Sm 0.3333; βSm: Sm 1 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 3, p. 3, row 5 |  |
-| 1007.15 | eutectoid: βSm ↔ Mn2Sm + αSm | βSm: Sm 0.9999; Mn2Sm: Sm 0.3333; αSm: Sm 1 | model | [1] Wang 2009 | Table 3, p. 3, row 4 |  |
-| 1007.15 | eutectoid: βSm ↔ Mn2Sm + αSm | Mn2Sm: Sm 0.3333; αSm: Sm 1 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 3, p. 3, row 3 |  |
-| 1000.15 | peritectoid: βMn + Mn23Sm6 ↔ αMn | βMn: Sm 0; Mn23Sm6: Sm 0.2069; αMn: Sm 0 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 3, p. 3, row 1 |  |
-| 979.15 | peritectoid: βMn + Mn23Sm6 ↔ αMn | βMn: Sm 0; Mn23Sm6: Sm 0.2069; αMn: Sm 0 | model | [1] Wang 2009 | Table 3, p. 3, row 2 |  |
+| 1411.15 | peritectic: L + δMn ↔ γMn | L: Sm 0.2187; δMn: Sm 0; γMn: Sm 0 | model | [1] Wang 2009 | Table 3, p. 3, row 19; `ORC-6IRTZ3UB3L` |  |
+| 1411.15 | peritectic: L + δMn ↔ γMn | δMn: Sm 0; γMn: Sm 0 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 3, p. 3, row 17; `ORC-CHMBYKZLOE` |  |
+| 1406.15 | peritectic: L + δMn ↔ γMn | δMn: Sm 0; γMn: Sm 0 | experimental | [1] Wang 2009; _cites Kirchmayr 1970_ [doi](https://doi.org/10.1515/ijmr-1970-610106) | Table 3, p. 3, row 18; `ORC-4JCKWHTSOJ` |  |
+| 1373.15 | peritectic: L + γMn ↔ βMn | γMn: Sm 0; βMn: Sm 0 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 3, p. 3, row 14; `ORC-GZ7VJOEUGJ` |  |
+| 1373.15 | peritectic: L + γMn ↔ βMn | L: Sm 0.3003; γMn: Sm 0; βMn: Sm 0 | model | [1] Wang 2009 | Table 3, p. 3, row 16; `ORC-U652VFRRMR` |  |
+| 1368.15 | peritectic: L + γMn ↔ βMn | γMn: Sm 0; βMn: Sm 0 | experimental | [1] Wang 2009; _cites Kirchmayr 1970_ [doi](https://doi.org/10.1515/ijmr-1970-610106) | Table 3, p. 3, row 15; `ORC-NAG2BBZGOJ` |  |
+| 1298.15 | peritectic: L + βMn ↔ Mn23Sm6 | L: Sm 0.3956; βMn: Sm 0; Mn23Sm6: Sm 0.2069 | model | [1] Wang 2009 | Table 3, p. 3, row 13; `ORC-AHZQR6RO3I` |  |
+| 1298.15 | peritectic: L + βMn ↔ Mn23Sm6 | βMn: Sm 0; Mn23Sm6: Sm 0.2069 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 3, p. 3, row 12; `ORC-GSIG6XLJDX` |  |
+| 1298 | peritectic: L þ cub-Mn ↔ Mn23Sm6 |  | experimental | [2] Ye 2024; _cites Kim 2012_ | p. 5; `ORC-7GASFHKW37.3cc148` | “Two intermetallic compounds Mn23Sm6 and Mn2Sm were confirmed, which were formed by peritectic reactions (L þ cub-Mn ↔ Mn23Sm6 at 1298 K and L þ Mn23Sm6 ↔ Mn2Sm at 1203 K).” |
+| 1203.15 | peritectic: L + Mn23Sm6 ↔ Mn2Sm | Mn23Sm6: Sm 0.2069; Mn2Sm: Sm 0.3333 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 3, p. 3, row 10; `ORC-PC4H33GTDW` |  |
+| 1203 | peritectic: L þ Mn23Sm6 ↔ Mn2Sm |  | experimental | [2] Ye 2024; _cites Kim 2012_ | p. 5; `ORC-7GASFHKW37.3d449f` | “Two intermetallic compounds Mn23Sm6 and Mn2Sm were confirmed, which were formed by peritectic reactions (L þ cub-Mn ↔ Mn23Sm6 at 1298 K and L þ Mn23Sm6 ↔ Mn2Sm at 1203 K).” |
+| 1202.15 | peritectic: L + Mn23Sm6 ↔ Mn2Sm | L: Sm 0.5259; Mn23Sm6: Sm 0.2069; Mn2Sm: Sm 0.3333 | model | [1] Wang 2009 | Table 3, p. 3, row 11; `ORC-XOZSOFWCNK` |  |
+| 1195.15 | peritectic: L + γSm ↔ βSm | L: Sm 0.836; γSm: Sm 1; βSm: Sm 1 | model | [1] Wang 2009 | Table 3, p. 3, row 9; `ORC-I62WTCPICZ` |  |
+| 1195.15 | peritectic: L + γSm ↔ βSm | γSm: Sm 1; βSm: Sm 1 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 3, p. 3, row 7; `ORC-TT75UJEC7X` |  |
+| 1190.15 | peritectic: L + γSm ↔ βSm | γSm: Sm 1; βSm: Sm 1 | experimental | [1] Wang 2009; _cites Kirchmayr 1970_ [doi](https://doi.org/10.1515/ijmr-1970-610106) | Table 3, p. 3, row 8; `ORC-RJS4ZRJ3QN` |  |
+| 1068.15 | eutectic: L ↔ Mn2Sm + βSm | L: Sm 0.6948; Mn2Sm: Sm 0.3333; βSm: Sm 1 | model | [1] Wang 2009 | Table 3, p. 3, row 6; `ORC-LQV44FWYKS` |  |
+| 1068.15 | eutectic: L ↔ Mn2Sm + βSm | Mn2Sm: Sm 0.3333; βSm: Sm 1 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 3, p. 3, row 5; `ORC-ZD6HGAAXYZ` |  |
+| 1007.15 | eutectoid: βSm ↔ Mn2Sm + αSm | βSm: Sm 0.9999; Mn2Sm: Sm 0.3333; αSm: Sm 1 | model | [1] Wang 2009 | Table 3, p. 3, row 4; `ORC-6XKHCHMRQG` |  |
+| 1007.15 | eutectoid: βSm ↔ Mn2Sm + αSm | Mn2Sm: Sm 0.3333; αSm: Sm 1 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 3, p. 3, row 3; `ORC-XRGTJSPHUZ` |  |
+| 1000.15 | peritectoid: βMn + Mn23Sm6 ↔ αMn | βMn: Sm 0; Mn23Sm6: Sm 0.2069; αMn: Sm 0 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 3, p. 3, row 1; `ORC-AO7C5QFU2R` |  |
+| 979.15 | peritectoid: βMn + Mn23Sm6 ↔ αMn | βMn: Sm 0; Mn23Sm6: Sm 0.2069; αMn: Sm 0 | model | [1] Wang 2009 | Table 3, p. 3, row 2; `ORC-3AKRTS34KR` |  |
 
 ## Formation enthalpies
 
@@ -113,7 +113,7 @@ Table: Enthalpies of formation, Mn–Sm system (1)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | -92 unspecified ± 5 | 1320 | experimental |  |  | [2] Ye 2024; _cites Shilov 1983_ | p. 5 | “Using high-temperature isoperibolic calorimetry, Shilov et al.\[62\] determined the enthalpy of formation of Mn23Sm6 at 1320 K to be -92 � 5 kJ/mol.” |
+| — |  | -92 unspecified ± 5 | 1320 | experimental |  |  | [2] Ye 2024; _cites Shilov 1983_ | p. 5; `ORC-IFDVP2YZP4` | “Using high-temperature isoperibolic calorimetry, Shilov et al.\[62\] determined the enthalpy of formation of Mn23Sm6 at 1320 K to be -92 � 5 kJ/mol.” |
 
 ## Sources
 
@@ -179,4 +179,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

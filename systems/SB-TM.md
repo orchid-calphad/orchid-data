@@ -60,22 +60,22 @@ Table: Invariant reactions reported in the literature for the Sb–Tm system (16
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2293.15 | congruent melting: L ↔ βSbTm | L: Tm 0.5; βSbTm: Tm 0.5 | model | [1] Wang 2011 | Table 5, p. 5, row 8 |  |
-| 2293.15 | congruent melting: L ↔ βSbTm | L: Tm 0.5; βSbTm: Tm 0.5 | unspecified | [1] Wang 2011; _cites Abdusalyamova 1991_ | Table 5, p. 5, row 7 |  |
-| 2053.55 | polymorphic: αSbTm ↔ βSbTm | αSbTm: Tm 0.5; βSbTm: Sb 0.5, Tm 0.5 | model | [1] Wang 2011 | Table 5, p. 5, row 6 |  |
-| 2053.15 | polymorphic: αSbTm ↔ βSbTm | αSbTm: Tm 0.5; βSbTm: Sb 0.5, Tm 0.5 | unspecified | [1] Wang 2011; _cites Abdusalyamova 1991_ | Table 5, p. 5, row 5 |  |
-| 1913.65 | peritectic: L + αSbTm ↔ βSb3Tm5 | L: Tm 0.673; αSbTm: Tm 0.5; βSb3Tm5: Tm 0.625 | model | [1] Wang 2011 | Table 5, p. 5, row 10 |  |
-| 1913.15 | peritectic: L + αSbTm ↔ βSb3Tm5 | αSbTm: Tm 0.5; βSb3Tm5: Tm 0.625 | unspecified | [1] Wang 2011; _cites Abdusalyamova 1991_ | Table 5, p. 5, row 9 |  |
-| 1913.15 | peritectic |  | experimental | [1] Wang 2011; _cites Abdusalyamova 1991_ | p. 2 | “Later, based on different thermal and X-ray phase and microstructural analyses, Abdusalyamova et al. \[13\] investigated the phase diagram in the Sb-Tm system, and reported three stoichiometric compounds: SbTm2 (peritectic formation at 640 °C), SbTm (melting point 2020 °C), and Sb5 Tm3 (peritectic formation at 1640 °C).” |
-| 1893.75 | polymorphic: αSb3Tm5 ↔ βSb3Tm5 | αSb3Tm5: Tm 0.625; βSb3Tm5: Sb 0.375, Tm 0.625 | model | [1] Wang 2011 | Table 5, p. 5, row 12 |  |
-| 1893.15 | polymorphic: αSb3Tm5 ↔ βSb3Tm5 | αSb3Tm5: Tm 0.625; βSb3Tm5: Sb 0.375, Tm 0.625 | unspecified | [1] Wang 2011; _cites Abdusalyamova 1991_ | Table 5, p. 5, row 11 |  |
-| 1453.15 | eutectic: L ↔ αSb3Tm5 + (Tm) | L: Tm 0.85; αSb3Tm5: Tm 0.625 | unspecified | [1] Wang 2011; _cites Abdusalyamova 1991_ | Table 5, p. 5, row 13 |  |
-| 1452.15 | eutectic: L ↔ αSb3Tm5 + (Tm) | L: Tm 0.838; αSb3Tm5: Tm 0.625; (Tm): Tm 0.988 | model | [1] Wang 2011 | Table 5, p. 5, row 14 |  |
-| 913.15 | peritectic: L + αSbTm ↔ Sb2Tm | αSbTm: Tm 0.5; Sb2Tm: Tm 0.667 | unspecified | [1] Wang 2011; _cites Abdusalyamova 1988_ | Table 5, p. 5, row 3 |  |
-| 913.15 | peritectic: L + αSbTm ↔ Sb2Tm | L: Tm 0.011; αSbTm: Tm 0.5; Sb2Tm: Tm 0.667 | model | [1] Wang 2011 | Table 5, p. 5, row 4 |  |
-| 913.15 | peritectic |  | experimental | [1] Wang 2011; _cites Abdusalyamova 1991_ | p. 2 | “Later, based on different thermal and X-ray phase and microstructural analyses, Abdusalyamova et al. \[13\] investigated the phase diagram in the Sb-Tm system, and reported three stoichiometric compounds: SbTm2 (peritectic formation at 640 °C), SbTm (melting point 2020 °C), and Sb5 Tm3 (peritectic formation at 1640 °C).” |
-| 900.25 | eutectic: L ↔ (Sb) + Sb2Tm | L: Tm 0.0096; (Sb): Tm 0; Sb2Tm: Tm 0.333 | model | [1] Wang 2011 | Table 5, p. 5, row 2 |  |
-| 893.15 | eutectic: L ↔ (Sb) + Sb2Tm | (Sb): Tm 0; Sb2Tm: Tm 0.333 | unspecified | [1] Wang 2011; _cites Abdusalyamova 1991_ | Table 5, p. 5, row 1 |  |
+| 2293.15 | congruent melting: L ↔ βSbTm | L: Tm 0.5; βSbTm: Tm 0.5 | model | [1] Wang 2011 | Table 5, p. 5, row 8; `ORC-AKYNAGP322` |  |
+| 2293.15 | congruent melting: L ↔ βSbTm | L: Tm 0.5; βSbTm: Tm 0.5 | unspecified | [1] Wang 2011; _cites Abdusalyamova 1991_ | Table 5, p. 5, row 7; `ORC-WQIWQGF75E` |  |
+| 2053.55 | polymorphic: αSbTm ↔ βSbTm | αSbTm: Tm 0.5; βSbTm: Sb 0.5, Tm 0.5 | model | [1] Wang 2011 | Table 5, p. 5, row 6; `ORC-XCV7AC33H6` |  |
+| 2053.15 | polymorphic: αSbTm ↔ βSbTm | αSbTm: Tm 0.5; βSbTm: Sb 0.5, Tm 0.5 | unspecified | [1] Wang 2011; _cites Abdusalyamova 1991_ | Table 5, p. 5, row 5; `ORC-FYTLJVD5CP` |  |
+| 1913.65 | peritectic: L + αSbTm ↔ βSb3Tm5 | L: Tm 0.673; αSbTm: Tm 0.5; βSb3Tm5: Tm 0.625 | model | [1] Wang 2011 | Table 5, p. 5, row 10; `ORC-V33HS6V6CQ` |  |
+| 1913.15 | peritectic: L + αSbTm ↔ βSb3Tm5 | αSbTm: Tm 0.5; βSb3Tm5: Tm 0.625 | unspecified | [1] Wang 2011; _cites Abdusalyamova 1991_ | Table 5, p. 5, row 9; `ORC-JCXH5BSYIZ` |  |
+| 1913.15 | peritectic |  | experimental | [1] Wang 2011; _cites Abdusalyamova 1991_ | p. 2; `ORC-MK6VQSTN5T.048a29` | “Later, based on different thermal and X-ray phase and microstructural analyses, Abdusalyamova et al. \[13\] investigated the phase diagram in the Sb-Tm system, and reported three stoichiometric compounds: SbTm2 (peritectic formation at 640 °C), SbTm (melting point 2020 °C), and Sb5 Tm3 (peritectic formation at 1640 °C).” |
+| 1893.75 | polymorphic: αSb3Tm5 ↔ βSb3Tm5 | αSb3Tm5: Tm 0.625; βSb3Tm5: Sb 0.375, Tm 0.625 | model | [1] Wang 2011 | Table 5, p. 5, row 12; `ORC-NCDVBFJXOV` |  |
+| 1893.15 | polymorphic: αSb3Tm5 ↔ βSb3Tm5 | αSb3Tm5: Tm 0.625; βSb3Tm5: Sb 0.375, Tm 0.625 | unspecified | [1] Wang 2011; _cites Abdusalyamova 1991_ | Table 5, p. 5, row 11; `ORC-AP2KKPLFVC` |  |
+| 1453.15 | eutectic: L ↔ αSb3Tm5 + (Tm) | L: Tm 0.85; αSb3Tm5: Tm 0.625 | unspecified | [1] Wang 2011; _cites Abdusalyamova 1991_ | Table 5, p. 5, row 13; `ORC-FA2AKDER25` |  |
+| 1452.15 | eutectic: L ↔ αSb3Tm5 + (Tm) | L: Tm 0.838; αSb3Tm5: Tm 0.625; (Tm): Tm 0.988 | model | [1] Wang 2011 | Table 5, p. 5, row 14; `ORC-I2W7A2HCU5` |  |
+| 913.15 | peritectic: L + αSbTm ↔ Sb2Tm | αSbTm: Tm 0.5; Sb2Tm: Tm 0.667 | unspecified | [1] Wang 2011; _cites Abdusalyamova 1988_ | Table 5, p. 5, row 3; `ORC-4YCJ77BRH6` |  |
+| 913.15 | peritectic: L + αSbTm ↔ Sb2Tm | L: Tm 0.011; αSbTm: Tm 0.5; Sb2Tm: Tm 0.667 | model | [1] Wang 2011 | Table 5, p. 5, row 4; `ORC-AGCSJ36J7Y` |  |
+| 913.15 | peritectic |  | experimental | [1] Wang 2011; _cites Abdusalyamova 1991_ | p. 2; `ORC-MK6VQSTN5T.dbf245` | “Later, based on different thermal and X-ray phase and microstructural analyses, Abdusalyamova et al. \[13\] investigated the phase diagram in the Sb-Tm system, and reported three stoichiometric compounds: SbTm2 (peritectic formation at 640 °C), SbTm (melting point 2020 °C), and Sb5 Tm3 (peritectic formation at 1640 °C).” |
+| 900.25 | eutectic: L ↔ (Sb) + Sb2Tm | L: Tm 0.0096; (Sb): Tm 0; Sb2Tm: Tm 0.333 | model | [1] Wang 2011 | Table 5, p. 5, row 2; `ORC-5XVNYVTXAV` |  |
+| 893.15 | eutectic: L ↔ (Sb) + Sb2Tm | (Sb): Tm 0; Sb2Tm: Tm 0.333 | unspecified | [1] Wang 2011; _cites Abdusalyamova 1991_ | Table 5, p. 5, row 1; `ORC-NOESHW7UVX` |  |
 
 ## Formation enthalpies
 
@@ -85,14 +85,14 @@ Table: Enthalpies of formation, Sb–Tm system (8)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Sb2Tm | [Sb2Tm](https://data.orchid-project.org/compounds/Sb2Tm.html) | -76.138 kJ/mol-atom |  | model | -30.191 (mp-aaacfycm) | -64.631 (oqmd-1436072) | [1] Wang 2011 | Table 7, p. 5, row 2 |  |
-| Sb2Tm | [Sb2Tm](https://data.orchid-project.org/compounds/Sb2Tm.html) | -71 kJ/mol-atom |  | model | -30.191 (mp-aaacfycm) | -64.631 (oqmd-1436072) | [1] Wang 2011; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 7, p. 5, row 1 |  |
-| αSb3Tm5 | [Sb3Tm5](https://data.orchid-project.org/compounds/Sb3Tm5.html) | -83.519 kJ/mol-atom |  | model | -89.518 (mp-aaacdiol) | -83 (oqmd-31049) | [1] Wang 2011 | Table 7, p. 5, row 8 |  |
-| αSb3Tm5 | [Sb3Tm5](https://data.orchid-project.org/compounds/Sb3Tm5.html) | -80 kJ/mol-atom |  | model | -89.518 (mp-aaacdiol) | -83 (oqmd-31049) | [1] Wang 2011; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 7, p. 5, row 7 |  |
-| αSbTm | [SbTm](https://data.orchid-project.org/compounds/SbTm.html) | -157 kJ/mol-atom | 298.15 | experimental | -111.529 (mp-aaaaadsy) | -103.093 (oqmd-8171) | [1] Wang 2011; _cites Pratt 1970_ | Table 7, p. 5, row 4 |  |
-| αSbTm | [SbTm](https://data.orchid-project.org/compounds/SbTm.html) | -115 kJ/mol-atom | 298.15 | experimental | -111.529 (mp-aaaaadsy) | -103.093 (oqmd-8171) | [1] Wang 2011; _cites Boer 1988_ | Table 7, p. 5, row 5 |  |
-| αSbTm | [SbTm](https://data.orchid-project.org/compounds/SbTm.html) | -112.99 kJ/mol-atom |  | model | -111.529 (mp-aaaaadsy) | -103.093 (oqmd-8171) | [1] Wang 2011 | Table 7, p. 5, row 6 |  |
-| αSbTm | [SbTm](https://data.orchid-project.org/compounds/SbTm.html) | -88 kJ/mol-atom |  | model | -111.529 (mp-aaaaadsy) | -103.093 (oqmd-8171) | [1] Wang 2011; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 7, p. 5, row 3 |  |
+| Sb2Tm | [Sb2Tm](https://data.orchid-project.org/compounds/Sb2Tm.html) | -76.138 kJ/mol-atom |  | model | -30.191 (mp-aaacfycm) | -64.631 (oqmd-1436072) | [1] Wang 2011 | Table 7, p. 5, row 2; `ORC-5BPTOY6ZBR` |  |
+| Sb2Tm | [Sb2Tm](https://data.orchid-project.org/compounds/Sb2Tm.html) | -71 kJ/mol-atom |  | model | -30.191 (mp-aaacfycm) | -64.631 (oqmd-1436072) | [1] Wang 2011; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 7, p. 5, row 1; `ORC-L3LPPVH3LX` |  |
+| αSb3Tm5 | [Sb3Tm5](https://data.orchid-project.org/compounds/Sb3Tm5.html) | -83.519 kJ/mol-atom |  | model | -89.518 (mp-aaacdiol) | -83 (oqmd-31049) | [1] Wang 2011 | Table 7, p. 5, row 8; `ORC-QNCFE7NQMD` |  |
+| αSb3Tm5 | [Sb3Tm5](https://data.orchid-project.org/compounds/Sb3Tm5.html) | -80 kJ/mol-atom |  | model | -89.518 (mp-aaacdiol) | -83 (oqmd-31049) | [1] Wang 2011; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 7, p. 5, row 7; `ORC-KQFCL6RDP4` |  |
+| αSbTm | [SbTm](https://data.orchid-project.org/compounds/SbTm.html) | -157 kJ/mol-atom | 298.15 | experimental | -111.529 (mp-aaaaadsy) | -103.093 (oqmd-8171) | [1] Wang 2011; _cites Pratt 1970_ | Table 7, p. 5, row 4; `ORC-W7LPYQQ2OB` |  |
+| αSbTm | [SbTm](https://data.orchid-project.org/compounds/SbTm.html) | -115 kJ/mol-atom | 298.15 | experimental | -111.529 (mp-aaaaadsy) | -103.093 (oqmd-8171) | [1] Wang 2011; _cites Boer 1988_ | Table 7, p. 5, row 5; `ORC-4HYX3L6WCM` |  |
+| αSbTm | [SbTm](https://data.orchid-project.org/compounds/SbTm.html) | -112.99 kJ/mol-atom |  | model | -111.529 (mp-aaaaadsy) | -103.093 (oqmd-8171) | [1] Wang 2011 | Table 7, p. 5, row 6; `ORC-F5WVSCR2HB` |  |
+| αSbTm | [SbTm](https://data.orchid-project.org/compounds/SbTm.html) | -88 kJ/mol-atom |  | model | -111.529 (mp-aaaaadsy) | -103.093 (oqmd-8171) | [1] Wang 2011; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 7, p. 5, row 3; `ORC-QZDLFCLJL4` |  |
 
 ## Other properties
 
@@ -102,10 +102,10 @@ Table: Phase transition, Sb–Tm system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 913.15 K | 913.15 | SbTm2 | experimental | [1] Wang 2011; _cites Abdusalyamova 1988_ | p. 2 | “Abdusalyamova et al. \[5\] were the first to report incongruent melting of the SbTm2 phase at 640 °C by means of DTA.” |
-| Phase transition | 1893.15 K | 1893.15 | polymorphic: α Sb3 Tm5 ↔ β Sb3 Tm5 | experimental | [1] Wang 2011; _cites Abdusalyamova 1991_ | p. 2 | “Two reversible polymorphic transitions (α SbTm ↔ β SbTm at 1780 °C and α Sb3 Tm5 ↔ β Sb3 Tm5 at ∼ 1620 °C) were observed by Abdusalyamova et al. \[13\].” |
-| Phase transition | 2053.15 K | 2053.15 | polymorphic: α SbTm ↔ β SbTm | experimental | [1] Wang 2011; _cites Abdusalyamova 1991_ | p. 2 | “Two reversible polymorphic transitions (α SbTm ↔ β SbTm at 1780 °C and α Sb3 Tm5 ↔ β Sb3 Tm5 at ∼ 1620 °C) were observed by Abdusalyamova et al. \[13\].” |
-| Phase transition | 2293.15 K | 2293.15 | SbTm | experimental | [1] Wang 2011; _cites Abdusalyamova 1991_ | p. 2 | “Later, based on different thermal and X-ray phase and microstructural analyses, Abdusalyamova et al. \[13\] investigated the phase diagram in the Sb-Tm system, and reported three stoichiometric compounds: SbTm2 (peritectic formation at 640 °C), SbTm (melting point 2020 °C), and Sb5 Tm3 (peritectic formation at 1640 °C).” |
+| Phase transition | 913.15 K | 913.15 | SbTm2 | experimental | [1] Wang 2011; _cites Abdusalyamova 1988_ | p. 2; `ORC-W4HMQED3H2` | “Abdusalyamova et al. \[5\] were the first to report incongruent melting of the SbTm2 phase at 640 °C by means of DTA.” |
+| Phase transition | 1893.15 K | 1893.15 | polymorphic: α Sb3 Tm5 ↔ β Sb3 Tm5 | experimental | [1] Wang 2011; _cites Abdusalyamova 1991_ | p. 2; `ORC-NT3CRJ54VW.8da485` | “Two reversible polymorphic transitions (α SbTm ↔ β SbTm at 1780 °C and α Sb3 Tm5 ↔ β Sb3 Tm5 at ∼ 1620 °C) were observed by Abdusalyamova et al. \[13\].” |
+| Phase transition | 2053.15 K | 2053.15 | polymorphic: α SbTm ↔ β SbTm | experimental | [1] Wang 2011; _cites Abdusalyamova 1991_ | p. 2; `ORC-NT3CRJ54VW.46b711` | “Two reversible polymorphic transitions (α SbTm ↔ β SbTm at 1780 °C and α Sb3 Tm5 ↔ β Sb3 Tm5 at ∼ 1620 °C) were observed by Abdusalyamova et al. \[13\].” |
+| Phase transition | 2293.15 K | 2293.15 | SbTm | experimental | [1] Wang 2011; _cites Abdusalyamova 1991_ | p. 2; `ORC-MK6VQSTN5T.4acdc6` | “Later, based on different thermal and X-ray phase and microstructural analyses, Abdusalyamova et al. \[13\] investigated the phase diagram in the Sb-Tm system, and reported three stoichiometric compounds: SbTm2 (peritectic formation at 640 °C), SbTm (melting point 2020 °C), and Sb5 Tm3 (peritectic formation at 1640 °C).” |
 
 ## Sources
 
@@ -170,4 +170,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

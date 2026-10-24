@@ -32,7 +32,7 @@ Table: Enthalpies of formation, H–Pd system (1)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| PdH bcc |  | -11.45 kJ/mol-atom | 298.15 | DFT |  |  | [1] Huang 2007 | Table 2, p. 6, row 1 |  |
+| PdH bcc |  | -11.45 kJ/mol-atom | 298.15 | DFT |  |  | [1] Huang 2007 | Table 2, p. 6, row 1; `ORC-WYNO4QUY65.45e37a` |  |
 
 ## Other properties
 
@@ -42,7 +42,7 @@ Table: Phase transition, H–Pd system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 566 K | 566 | other | model | [2] Joubert 2009 | p. 5 | “The estimated critical point is located at xc = 0.190, TC = 566 K, in good agreement with experimental data (see 2.1.1).” |
+| Phase transition | 566 K | 566 | other | model | [2] Joubert 2009 | p. 5; `ORC-ZFS5JVTZJO` | “The estimated critical point is located at xc = 0.190, TC = 566 K, in good agreement with experimental data (see 2.1.1).” |
 
 ## Sources
 
@@ -97,4 +97,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

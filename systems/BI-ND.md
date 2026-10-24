@@ -85,25 +85,25 @@ Table: Invariant reactions reported in the literature for the Bi–Nd system (19
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1838.15 | peritectic: L + BiNd -> Bi3Nd4 | BiNd: Nd 0.5; Bi3Nd4: Nd 0.571 | experimental | [1] Wang 2010; _cites Abulkhaev 2001_ | Table 3, p. 4, row 14 |  |
-| 1838.15 | peritectic: L + BiNd -> Bi3Nd4 | L: Nd 0.629; BiNd: Nd 0.5; Bi3Nd4: Nd 0.571 | model | [1] Wang 2010 | Table 3, p. 4, row 15 |  |
-| 1723.15 | peritectic: L + Bi3Nd4 -> Bi3Nd5 | Bi3Nd4: Nd 0.571; Bi3Nd5: Nd 0.625 | experimental | [1] Wang 2010; _cites Abulkhaev 2001_ | Table 3, p. 4, row 12 |  |
-| 1716.15 | peritectic: L + Bi3Nd4 -> Bi3Nd5 | L: Nd 0.693; Bi3Nd4: Nd 0.571; Bi3Nd5: Nd 0.625 | model | [1] Wang 2010 | Table 3, p. 4, row 13 |  |
-| 1533.15 | peritectic: L + Bi3Nd5 -> BiNd2 | Bi3Nd5: Nd 0.625; BiNd2: Nd 0.667 | experimental | [1] Wang 2010; _cites Abulkhaev 2001_ | Table 3, p. 4, row 10 |  |
-| 1533.15 | peritectic: L + Bi3Nd5 -> BiNd2 | L: Nd 0.785; Bi3Nd5: Nd 0.625; BiNd2: Nd 0.667 | model | [1] Wang 2010 | Table 3, p. 4, row 11 |  |
-| 1223.15 | eutectic: L -> BiNd2 + (βNd) | L: Nd 0.951; BiNd2: Nd 0.667; (βNd): Nd 0.991 | model | [1] Wang 2010 | Table 3, p. 4, row 9 |  |
-| 1223.15 | eutectic: L -> BiNd2 + (βNd) | BiNd2: Nd 0.667 | experimental | [1] Wang 2010; _cites Abulkhaev 2001_ | Table 3, p. 4, row 8 |  |
-| 1117.15 | eutectoid: (βNd) -> (αNd) + BiNd2 | (βNd): Nd 0.999; (αNd): Nd 1; BiNd2: Nd 0.667 | model | [1] Wang 2010 | Table 3, p. 4, row 7 |  |
-| 1108.15 | eutectoid: (βNd) -> (αNd) + BiNd2 | (αNd): Nd 1; BiNd2: Nd 0.667 | experimental | [1] Wang 2010; _cites Abulkhaev 2001_ | Table 3, p. 4, row 6 |  |
-| 933.15 | peritectic: L + BiNd -> Bi2Nd | L: Nd 0.084; BiNd: Nd 0.5; Bi2Nd: Nd 0.333 | model | [1] Wang 2010 | Table 3, p. 4, row 5 |  |
-| 933.15 | peritectic: L + BiNd -> Bi2Nd | BiNd: Nd 0.5; Bi2Nd: Nd 0.333 | experimental | [1] Wang 2010; _cites Abulkhaev 2001_ | Table 3, p. 4, row 4 |  |
-| 932 | peritectic: L + NdBi = NdBi2 |  | experimental | [2] Im 2022 | p. 6 | “Three characteristic transition reactions (I-III), were observed: eutectic reaction \[I: L = Bi + Nd3 Bi7 \] at 539 K, peritectic reaction \[II: L + NdBi2 = Nd3 Bi7 \] at 774 K, and peritectic reaction \[III: L + NdBi = NdBi2 \] at 932 K (Table S3).” |
-| 774 | peritectic: L + NdBi2 = Nd3 Bi7 |  | experimental | [2] Im 2022 | p. 6 | “Three characteristic transition reactions (I-III), were observed: eutectic reaction \[I: L = Bi + Nd3 Bi7 \] at 539 K, peritectic reaction \[II: L + NdBi2 = Nd3 Bi7 \] at 774 K, and peritectic reaction \[III: L + NdBi = NdBi2 \] at 932 K (Table S3).” |
-| 774 | peritectic: liquid + NdBi2 = Nd3 Bi7 |  | experimental | [2] Im 2022 | p. 1 | “A new peritectic reaction of \[liquid + NdBi2 = Nd3 Bi7 \] at 774 K was confirmed using differential scanning calorimetry, structural (X-ray diffraction), and microstructural (scanning electron microscopy) analyses.” |
-| 544.15 | eutectic: L -> (Bi) + Bi2Nd | L: Nd 0.004; (Bi): Nd 0; Bi2Nd: Nd 0.333 | model | [1] Wang 2010 | Table 3, p. 4, row 3 |  |
-| 542.15 | eutectic: L -> (Bi) + Bi2Nd | (Bi): Nd 0; Bi2Nd: Nd 0.333 | experimental | [1] Wang 2010; _cites Abulkhaev 2001_ | Table 3, p. 4, row 1 |  |
-| 539 | eutectic: L = Bi + Nd3 Bi7 |  | experimental | [2] Im 2022 | p. 6 | “Three characteristic transition reactions (I-III), were observed: eutectic reaction \[I: L = Bi + Nd3 Bi7 \] at 539 K, peritectic reaction \[II: L + NdBi2 = Nd3 Bi7 \] at 774 K, and peritectic reaction \[III: L + NdBi = NdBi2 \] at 932 K (Table S3).” |
-| 538.15 | eutectic: L -> (Bi) + Bi2Nd | (Bi): Nd 0; Bi2Nd: Nd 0.333 | experimental | [1] Wang 2010; _cites Okamoto 2010_ | Table 3, p. 4, row 2 |  |
+| 1838.15 | peritectic: L + BiNd -> Bi3Nd4 | BiNd: Nd 0.5; Bi3Nd4: Nd 0.571 | experimental | [1] Wang 2010; _cites Abulkhaev 2001_ | Table 3, p. 4, row 14; `ORC-5GBQ6VJ7KD` |  |
+| 1838.15 | peritectic: L + BiNd -> Bi3Nd4 | L: Nd 0.629; BiNd: Nd 0.5; Bi3Nd4: Nd 0.571 | model | [1] Wang 2010 | Table 3, p. 4, row 15; `ORC-BKMI4F6KV7` |  |
+| 1723.15 | peritectic: L + Bi3Nd4 -> Bi3Nd5 | Bi3Nd4: Nd 0.571; Bi3Nd5: Nd 0.625 | experimental | [1] Wang 2010; _cites Abulkhaev 2001_ | Table 3, p. 4, row 12; `ORC-BRN6VJDQWA` |  |
+| 1716.15 | peritectic: L + Bi3Nd4 -> Bi3Nd5 | L: Nd 0.693; Bi3Nd4: Nd 0.571; Bi3Nd5: Nd 0.625 | model | [1] Wang 2010 | Table 3, p. 4, row 13; `ORC-FREPY7XVDG` |  |
+| 1533.15 | peritectic: L + Bi3Nd5 -> BiNd2 | Bi3Nd5: Nd 0.625; BiNd2: Nd 0.667 | experimental | [1] Wang 2010; _cites Abulkhaev 2001_ | Table 3, p. 4, row 10; `ORC-CT32M2ADNT` |  |
+| 1533.15 | peritectic: L + Bi3Nd5 -> BiNd2 | L: Nd 0.785; Bi3Nd5: Nd 0.625; BiNd2: Nd 0.667 | model | [1] Wang 2010 | Table 3, p. 4, row 11; `ORC-OV43JBD5W4` |  |
+| 1223.15 | eutectic: L -> BiNd2 + (βNd) | L: Nd 0.951; BiNd2: Nd 0.667; (βNd): Nd 0.991 | model | [1] Wang 2010 | Table 3, p. 4, row 9; `ORC-5V5BYWTZAN` |  |
+| 1223.15 | eutectic: L -> BiNd2 + (βNd) | BiNd2: Nd 0.667 | experimental | [1] Wang 2010; _cites Abulkhaev 2001_ | Table 3, p. 4, row 8; `ORC-XWOMR7E6KW` |  |
+| 1117.15 | eutectoid: (βNd) -> (αNd) + BiNd2 | (βNd): Nd 0.999; (αNd): Nd 1; BiNd2: Nd 0.667 | model | [1] Wang 2010 | Table 3, p. 4, row 7; `ORC-OUOQ6I263J` |  |
+| 1108.15 | eutectoid: (βNd) -> (αNd) + BiNd2 | (αNd): Nd 1; BiNd2: Nd 0.667 | experimental | [1] Wang 2010; _cites Abulkhaev 2001_ | Table 3, p. 4, row 6; `ORC-BC4DORVDFM` |  |
+| 933.15 | peritectic: L + BiNd -> Bi2Nd | L: Nd 0.084; BiNd: Nd 0.5; Bi2Nd: Nd 0.333 | model | [1] Wang 2010 | Table 3, p. 4, row 5; `ORC-S4WINOAD4G` |  |
+| 933.15 | peritectic: L + BiNd -> Bi2Nd | BiNd: Nd 0.5; Bi2Nd: Nd 0.333 | experimental | [1] Wang 2010; _cites Abulkhaev 2001_ | Table 3, p. 4, row 4; `ORC-YTWDIQFPOE` |  |
+| 932 | peritectic: L + NdBi = NdBi2 |  | experimental | [2] Im 2022 | p. 6; `ORC-OLS7UUWVSJ.34feaf` | “Three characteristic transition reactions (I-III), were observed: eutectic reaction \[I: L = Bi + Nd3 Bi7 \] at 539 K, peritectic reaction \[II: L + NdBi2 = Nd3 Bi7 \] at 774 K, and peritectic reaction \[III: L + NdBi = NdBi2 \] at 932 K (Table S3).” |
+| 774 | peritectic: L + NdBi2 = Nd3 Bi7 |  | experimental | [2] Im 2022 | p. 6; `ORC-OLS7UUWVSJ.b80bfb` | “Three characteristic transition reactions (I-III), were observed: eutectic reaction \[I: L = Bi + Nd3 Bi7 \] at 539 K, peritectic reaction \[II: L + NdBi2 = Nd3 Bi7 \] at 774 K, and peritectic reaction \[III: L + NdBi = NdBi2 \] at 932 K (Table S3).” |
+| 774 | peritectic: liquid + NdBi2 = Nd3 Bi7 |  | experimental | [2] Im 2022 | p. 1; `ORC-PPVN7Z7RLQ` | “A new peritectic reaction of \[liquid + NdBi2 = Nd3 Bi7 \] at 774 K was confirmed using differential scanning calorimetry, structural (X-ray diffraction), and microstructural (scanning electron microscopy) analyses.” |
+| 544.15 | eutectic: L -> (Bi) + Bi2Nd | L: Nd 0.004; (Bi): Nd 0; Bi2Nd: Nd 0.333 | model | [1] Wang 2010 | Table 3, p. 4, row 3; `ORC-YUUAXAOKXV` |  |
+| 542.15 | eutectic: L -> (Bi) + Bi2Nd | (Bi): Nd 0; Bi2Nd: Nd 0.333 | experimental | [1] Wang 2010; _cites Abulkhaev 2001_ | Table 3, p. 4, row 1; `ORC-WKFRH2NT4Z` |  |
+| 539 | eutectic: L = Bi + Nd3 Bi7 |  | experimental | [2] Im 2022 | p. 6; `ORC-OLS7UUWVSJ.501833` | “Three characteristic transition reactions (I-III), were observed: eutectic reaction \[I: L = Bi + Nd3 Bi7 \] at 539 K, peritectic reaction \[II: L + NdBi2 = Nd3 Bi7 \] at 774 K, and peritectic reaction \[III: L + NdBi = NdBi2 \] at 932 K (Table S3).” |
+| 538.15 | eutectic: L -> (Bi) + Bi2Nd | (Bi): Nd 0; Bi2Nd: Nd 0.333 | experimental | [1] Wang 2010; _cites Okamoto 2010_ | Table 3, p. 4, row 2; `ORC-7BT65L7ARA` |  |
 
 ## Other properties
 
@@ -113,9 +113,9 @@ Table: Phase transition, Bi–Nd system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1124 K | 1124 | (β Nd of DHCP solution) ↔ (α Nd of BCC solution) + Nd2 Bi | model | [2] Im 2022 | p. 8 | “The present work calculated the eutectoid reaction of \[(β Nd of DHCP solution) ↔ (α Nd of BCC solution) + Nd2 Bi\] at 1124 K, slightly higher than the measured temperature at 1108 ± 10 K \[7\].” |
-| Phase transition | 2048.15 K | 2048.15 | congruent melting: L -> BiNd; _L: Nd 0.5; BiNd: Nd 0.5_ | experimental | [1] Wang 2010; _cites Abulkhaev 2001_ | Table 3, p. 4, row 16 |  |
-| Phase transition | 2048.15 K | 2048.15 | congruent melting: L -> BiNd; _L: Nd 0.5; BiNd: Nd 0.5_ | model | [1] Wang 2010 | Table 3, p. 4, row 17 |  |
+| Phase transition | 1124 K | 1124 | (β Nd of DHCP solution) ↔ (α Nd of BCC solution) + Nd2 Bi | model | [2] Im 2022 | p. 8; `ORC-FOOC2HO75I` | “The present work calculated the eutectoid reaction of \[(β Nd of DHCP solution) ↔ (α Nd of BCC solution) + Nd2 Bi\] at 1124 K, slightly higher than the measured temperature at 1108 ± 10 K \[7\].” |
+| Phase transition | 2048.15 K | 2048.15 | congruent melting: L -> BiNd; _L: Nd 0.5; BiNd: Nd 0.5_ | experimental | [1] Wang 2010; _cites Abulkhaev 2001_ | Table 3, p. 4, row 16; `ORC-4V2A56NBWT` |  |
+| Phase transition | 2048.15 K | 2048.15 | congruent melting: L -> BiNd; _L: Nd 0.5; BiNd: Nd 0.5_ | model | [1] Wang 2010 | Table 3, p. 4, row 17; `ORC-OXDPOTU5RS` |  |
 
 ### Activity / EMF / Gibbs energy (1)
 
@@ -123,7 +123,7 @@ Table: Activity / EMF / Gibbs energy, Bi–Nd system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Activity; _printed: aNd_ | 0 unspecified | 973 |  | experimental | [2] Im 2022 | p. 9 | “The emf data indicated a low activity of Nd in liquid Bi (e.g., aNd = 1.1 × 10-13 at T = 973 K) implying strong chemical interactions between Nd and Bi.” |
+| Activity; _printed: aNd_ | 0 unspecified | 973 |  | experimental | [2] Im 2022 | p. 9; `ORC-723NK2BSSQ` | “The emf data indicated a low activity of Nd in liquid Bi (e.g., aNd = 1.1 × 10-13 at T = 973 K) implying strong chemical interactions between Nd and Bi.” |
 
 ## Sources
 
@@ -189,4 +189,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

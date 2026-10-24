@@ -61,18 +61,18 @@ Table: Invariant reactions reported in the literature for the Pd–S system (12)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1273 | L -> PdS | L: S 0.5; PdS: S 0.5 | model | [1] Hu 2010; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02645396) | Table 4, p. 5, row 11 |  |
-| 1273 | L -> PdS | L: S 0.5; PdS: S 0.5 | model | [1] Hu 2010 | Table 4, p. 5, row 12 |  |
-| 1047 | L + (Pd) -> Pd4S | L: S 0.205; (Pd): S 0; Pd4S: S 0.2 | model | [1] Hu 2010; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02645396) | Table 4, p. 5, row 1 |  |
-| 1047 | L + (Pd) -> Pd4S | L: S 0.2037; (Pd): S 0; Pd4S: S 0.2037 | model | [1] Hu 2010 | Table 4, p. 5, row 2 |  |
-| 919 | L + Pd4S -> Pd3S | L: S 0.265; Pd4S: S 0.2; Pd3S: S 0.25 | model | [1] Hu 2010; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02645396) | Table 4, p. 5, row 3 |  |
-| 918.7 | L + Pd4S -> Pd3S | L: S 0.2668; Pd4S: S 0.2; Pd3S: S 0.25 | model | [1] Hu 2010 | Table 4, p. 5, row 4 |  |
-| 912 | L + PdS -> Pd16S7 | L: S 0.295; PdS: S 0.5; Pd16S7: S 0.304 | model | [1] Hu 2010; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02645396) | Table 4, p. 5, row 9 |  |
-| 911.8 | L + PdS -> Pd16S7 | L: S 0.2943; PdS: S 0.5; Pd16S7: S 0.304 | model | [1] Hu 2010 | Table 4, p. 5, row 10 |  |
-| 898.3 | L -> Pd3S + Pd16S7 | L: S 0.2789; Pd3S: S 0.25; Pd16S7: S 0.304 | model | [1] Hu 2010 | Table 4, p. 5, row 6 |  |
-| 898 | L -> Pd3S + Pd16S7 | L: S 0.28; Pd3S: S 0.25; Pd16S7: S 0.304 | model | [1] Hu 2010; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02645396) | Table 4, p. 5, row 5 |  |
-| 829 | Pd3S -> Pd4S + Pd16S7 | Pd3S: S 0.25; Pd4S: S 0.2; Pd16S7: S 0.304 | model | [1] Hu 2010; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02645396) | Table 4, p. 5, row 7 |  |
-| 828.9 | Pd3S -> Pd4S + Pd16S7 | Pd3S: S 0.25; Pd4S: S 0.2; Pd16S7: S 0.304 | model | [1] Hu 2010 | Table 4, p. 5, row 8 |  |
+| 1273 | L -> PdS | L: S 0.5; PdS: S 0.5 | model | [1] Hu 2010; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02645396) | Table 4, p. 5, row 11; `ORC-BPJOZXJOBT` |  |
+| 1273 | L -> PdS | L: S 0.5; PdS: S 0.5 | model | [1] Hu 2010 | Table 4, p. 5, row 12; `ORC-JU44CGTQU5` |  |
+| 1047 | L + (Pd) -> Pd4S | L: S 0.205; (Pd): S 0; Pd4S: S 0.2 | model | [1] Hu 2010; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02645396) | Table 4, p. 5, row 1; `ORC-DQ5T55DRF4` |  |
+| 1047 | L + (Pd) -> Pd4S | L: S 0.2037; (Pd): S 0; Pd4S: S 0.2037 | model | [1] Hu 2010 | Table 4, p. 5, row 2; `ORC-LZ7OMCMWGZ` |  |
+| 919 | L + Pd4S -> Pd3S | L: S 0.265; Pd4S: S 0.2; Pd3S: S 0.25 | model | [1] Hu 2010; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02645396) | Table 4, p. 5, row 3; `ORC-K3NHHEDYDR` |  |
+| 918.7 | L + Pd4S -> Pd3S | L: S 0.2668; Pd4S: S 0.2; Pd3S: S 0.25 | model | [1] Hu 2010 | Table 4, p. 5, row 4; `ORC-BFGKQ6WK6Y` |  |
+| 912 | L + PdS -> Pd16S7 | L: S 0.295; PdS: S 0.5; Pd16S7: S 0.304 | model | [1] Hu 2010; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02645396) | Table 4, p. 5, row 9; `ORC-DSQWIQF6GO` |  |
+| 911.8 | L + PdS -> Pd16S7 | L: S 0.2943; PdS: S 0.5; Pd16S7: S 0.304 | model | [1] Hu 2010 | Table 4, p. 5, row 10; `ORC-KYRGUDOZT6` |  |
+| 898.3 | L -> Pd3S + Pd16S7 | L: S 0.2789; Pd3S: S 0.25; Pd16S7: S 0.304 | model | [1] Hu 2010 | Table 4, p. 5, row 6; `ORC-SV4HP2QPBZ` |  |
+| 898 | L -> Pd3S + Pd16S7 | L: S 0.28; Pd3S: S 0.25; Pd16S7: S 0.304 | model | [1] Hu 2010; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02645396) | Table 4, p. 5, row 5; `ORC-H7C2YCHMDO` |  |
+| 829 | Pd3S -> Pd4S + Pd16S7 | Pd3S: S 0.25; Pd4S: S 0.2; Pd16S7: S 0.304 | model | [1] Hu 2010; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02645396) | Table 4, p. 5, row 7; `ORC-NCXBDVECVP` |  |
+| 828.9 | Pd3S -> Pd4S + Pd16S7 | Pd3S: S 0.25; Pd4S: S 0.2; Pd16S7: S 0.304 | model | [1] Hu 2010 | Table 4, p. 5, row 8; `ORC-KS2YUE2J44` |  |
 
 ## Formation enthalpies
 
@@ -82,26 +82,26 @@ Table: Enthalpies of formation, Pd–S system (20)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Pd16S7 |  | -36.601 per mol-atom | 298.15 | experimental |  |  | [1] Hu 2010; _cites Taylor 1985_ [doi](https://doi.org/10.1007/bf02657499) | Table 2, p. 2, row 10 |  |
-| Pd16S7 |  | -29.5 per mol-atom | 0 | DFT |  |  | [1] Hu 2010 | Table 2, p. 2, row 11 |  |
-| Pd16S7 |  | -25.221 per mol-atom ± 1.574 | 298.15 | experimental |  |  | [1] Hu 2010; _cites Zubkov 1998_ [doi](https://doi.org/10.1006/jcht.1997.0328) | Table 2, p. 2, row 9 |  |
-| Pd3S |  | -27.317 per mol-atom | 298.15 | experimental |  |  | [1] Hu 2010; _cites Taylor 1985_ [doi](https://doi.org/10.1007/bf02657499) | Table 2, p. 2, row 7 |  |
-| Pd3S |  | -25.4 per mol-atom | 0 | DFT |  |  | [1] Hu 2010 | Table 2, p. 2, row 8 |  |
-| Pd3S |  | -24.125 per mol-atom ± 2.625 | 298.15 | experimental |  |  | [1] Hu 2010; _cites Zubkov 1998_ [doi](https://doi.org/10.1006/jcht.1997.0328) | Table 2, p. 2, row 6 |  |
-| Pd4S |  | -25.74 per mol-atom | 716.5 | experimental |  |  | [1] Hu 2010; _cites Niwa 1962_ [doi](https://doi.org/10.1246/bcsj.35.1543) | Table 2, p. 2, row 3 |  |
-| Pd4S |  | -24.328 per mol-atom | 298.15 | experimental |  |  | [1] Hu 2010; _cites Taylor 1985_ [doi](https://doi.org/10.1007/bf02657499) | Table 2, p. 2, row 2 |  |
-| Pd4S |  | -22.8 per mol-atom | 0 | DFT |  |  | [1] Hu 2010 | Table 2, p. 2, row 5 |  |
-| Pd4S |  | -19.84 per mol-atom ± 2.24 | 298.15 | experimental |  |  | [1] Hu 2010; _cites Zubkov 1998_ [doi](https://doi.org/10.1006/jcht.1997.0328) | Table 2, p. 2, row 1 |  |
-| Pd4S |  | -12.7 per mol-atom | 298.15 | experimental |  |  | [1] Hu 2010; _cites Niwa 1962_ [doi](https://doi.org/10.1246/bcsj.35.1543) | Table 2, p. 2, row 4 |  |
-| PdS |  | -68.55 per mol-atom | 716.5 | experimental |  |  | [1] Hu 2010; _cites Niwa 1962_ [doi](https://doi.org/10.1246/bcsj.35.1543) | Table 2, p. 2, row 14 |  |
-| PdS |  | -43.175 per mol-atom | 298.15 | experimental |  |  | [1] Hu 2010; _cites Taylor 1985_ [doi](https://doi.org/10.1007/bf02657499) | Table 2, p. 2, row 13 |  |
-| PdS |  | -40.3 per mol-atom | 0 | DFT |  |  | [1] Hu 2010 | Table 2, p. 2, row 16 |  |
-| PdS |  | -39.05 per mol-atom ± 5.5 | 298.15 | experimental |  |  | [1] Hu 2010; _cites Zubkov 1998_ [doi](https://doi.org/10.1006/jcht.1997.0328) | Table 2, p. 2, row 12 |  |
-| PdS |  | -37.55 per mol-atom | 298.15 | experimental |  |  | [1] Hu 2010; _cites Niwa 1962_ [doi](https://doi.org/10.1246/bcsj.35.1543) | Table 2, p. 2, row 15 |  |
-| PdS2 |  | -69.24 per mol-atom | 716.5 | experimental |  |  | [1] Hu 2010; _cites Niwa 1962_ [doi](https://doi.org/10.1246/bcsj.35.1543) | Table 2, p. 2, row 18 |  |
-| PdS2 |  | -30.8 per mol-atom | 0 | DFT |  |  | [1] Hu 2010 | Table 2, p. 2, row 20 |  |
-| PdS2 |  | -29.24 per mol-atom | 298.15 | experimental |  |  | [1] Hu 2010; _cites Niwa 1962_ [doi](https://doi.org/10.1246/bcsj.35.1543) | Table 2, p. 2, row 19 |  |
-| PdS2 |  | -26.067 per mol-atom ± 4.2 | 298.15 | experimental |  |  | [1] Hu 2010; _cites Kubaschewski 1993_ | Table 2, p. 2, row 17 |  |
+| Pd16S7 |  | -36.601 per mol-atom | 298.15 | experimental |  |  | [1] Hu 2010; _cites Taylor 1985_ [doi](https://doi.org/10.1007/bf02657499) | Table 2, p. 2, row 10; `ORC-Z3W5WOHWDU.4acce0` |  |
+| Pd16S7 |  | -29.5 per mol-atom | 0 | DFT |  |  | [1] Hu 2010 | Table 2, p. 2, row 11; `ORC-RHOWFS3F7V.844a75` |  |
+| Pd16S7 |  | -25.221 per mol-atom ± 1.574 | 298.15 | experimental |  |  | [1] Hu 2010; _cites Zubkov 1998_ [doi](https://doi.org/10.1006/jcht.1997.0328) | Table 2, p. 2, row 9; `ORC-YK6DLRDXGP.3056d9` |  |
+| Pd3S |  | -27.317 per mol-atom | 298.15 | experimental |  |  | [1] Hu 2010; _cites Taylor 1985_ [doi](https://doi.org/10.1007/bf02657499) | Table 2, p. 2, row 7; `ORC-G7ARZFL2LR.52039a` |  |
+| Pd3S |  | -25.4 per mol-atom | 0 | DFT |  |  | [1] Hu 2010 | Table 2, p. 2, row 8; `ORC-CNWAO6MNIZ.a55c5e` |  |
+| Pd3S |  | -24.125 per mol-atom ± 2.625 | 298.15 | experimental |  |  | [1] Hu 2010; _cites Zubkov 1998_ [doi](https://doi.org/10.1006/jcht.1997.0328) | Table 2, p. 2, row 6; `ORC-OVVEBYDVFJ.3102a7` |  |
+| Pd4S |  | -25.74 per mol-atom | 716.5 | experimental |  |  | [1] Hu 2010; _cites Niwa 1962_ [doi](https://doi.org/10.1246/bcsj.35.1543) | Table 2, p. 2, row 3; `ORC-C2W6JISBMP.163b5f` |  |
+| Pd4S |  | -24.328 per mol-atom | 298.15 | experimental |  |  | [1] Hu 2010; _cites Taylor 1985_ [doi](https://doi.org/10.1007/bf02657499) | Table 2, p. 2, row 2; `ORC-2QKM5XN75S.80269d` |  |
+| Pd4S |  | -22.8 per mol-atom | 0 | DFT |  |  | [1] Hu 2010 | Table 2, p. 2, row 5; `ORC-IRZ5YG6JCN.552710` |  |
+| Pd4S |  | -19.84 per mol-atom ± 2.24 | 298.15 | experimental |  |  | [1] Hu 2010; _cites Zubkov 1998_ [doi](https://doi.org/10.1006/jcht.1997.0328) | Table 2, p. 2, row 1; `ORC-KKIH2OYVOY.015691` |  |
+| Pd4S |  | -12.7 per mol-atom | 298.15 | experimental |  |  | [1] Hu 2010; _cites Niwa 1962_ [doi](https://doi.org/10.1246/bcsj.35.1543) | Table 2, p. 2, row 4; `ORC-PEXVKXTPIT.a450ed` |  |
+| PdS |  | -68.55 per mol-atom | 716.5 | experimental |  |  | [1] Hu 2010; _cites Niwa 1962_ [doi](https://doi.org/10.1246/bcsj.35.1543) | Table 2, p. 2, row 14; `ORC-Q7SRXO4G6D.8eba8c` |  |
+| PdS |  | -43.175 per mol-atom | 298.15 | experimental |  |  | [1] Hu 2010; _cites Taylor 1985_ [doi](https://doi.org/10.1007/bf02657499) | Table 2, p. 2, row 13; `ORC-HZULIYPWWO.8a0f5e` |  |
+| PdS |  | -40.3 per mol-atom | 0 | DFT |  |  | [1] Hu 2010 | Table 2, p. 2, row 16; `ORC-TSZ726KY4W.76161f` |  |
+| PdS |  | -39.05 per mol-atom ± 5.5 | 298.15 | experimental |  |  | [1] Hu 2010; _cites Zubkov 1998_ [doi](https://doi.org/10.1006/jcht.1997.0328) | Table 2, p. 2, row 12; `ORC-EHUXDC47HG.026a37` |  |
+| PdS |  | -37.55 per mol-atom | 298.15 | experimental |  |  | [1] Hu 2010; _cites Niwa 1962_ [doi](https://doi.org/10.1246/bcsj.35.1543) | Table 2, p. 2, row 15; `ORC-K73IND4BFP.038398` |  |
+| PdS2 |  | -69.24 per mol-atom | 716.5 | experimental |  |  | [1] Hu 2010; _cites Niwa 1962_ [doi](https://doi.org/10.1246/bcsj.35.1543) | Table 2, p. 2, row 18; `ORC-56FPVAVGZK.01f29b` |  |
+| PdS2 |  | -30.8 per mol-atom | 0 | DFT |  |  | [1] Hu 2010 | Table 2, p. 2, row 20; `ORC-Y3E6I2YQJD.395e5f` |  |
+| PdS2 |  | -29.24 per mol-atom | 298.15 | experimental |  |  | [1] Hu 2010; _cites Niwa 1962_ [doi](https://doi.org/10.1246/bcsj.35.1543) | Table 2, p. 2, row 19; `ORC-TYZC36BY2E.22a319` |  |
+| PdS2 |  | -26.067 per mol-atom ± 4.2 | 298.15 | experimental |  |  | [1] Hu 2010; _cites Kubaschewski 1993_ | Table 2, p. 2, row 17; `ORC-6BHOH4BL6E.2d6e06` |  |
 
 ## Other properties
 
@@ -111,9 +111,9 @@ Table: Phase transition, Pd–S system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 393.65 K | 393.65 |  | model | [1] Hu 2010; _cites Massalski 1990_ | p. 2 | “At temperatures higher than 393.65 K, a monoclinic structure becomes stable instead (Pearson symbol mP64, space group P21 /c) \[25\].” |
-| Phase transition | 898 K | 898 | other | experimental | [1] Hu 2010; _cites Matkovic 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990157-0) | p. 2 | “Matkovic showed two invariant reactions, corresponding to 898 and 912 K.” |
-| Phase transition | 912 K | 912 | other | experimental | [1] Hu 2010; _cites Matkovic 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990157-0) | p. 2 | “Matkovic showed two invariant reactions, corresponding to 898 and 912 K.” |
+| Phase transition | 393.65 K | 393.65 |  | model | [1] Hu 2010; _cites Massalski 1990_ | p. 2; `ORC-4ODOAHCBSQ` | “At temperatures higher than 393.65 K, a monoclinic structure becomes stable instead (Pearson symbol mP64, space group P21 /c) \[25\].” |
+| Phase transition | 898 K | 898 | other | experimental | [1] Hu 2010; _cites Matkovic 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990157-0) | p. 2; `ORC-DFHHNA7RIT.88f38f` | “Matkovic showed two invariant reactions, corresponding to 898 and 912 K.” |
+| Phase transition | 912 K | 912 | other | experimental | [1] Hu 2010; _cites Matkovic 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990157-0) | p. 2; `ORC-DFHHNA7RIT.a1e546` | “Matkovic showed two invariant reactions, corresponding to 898 and 912 K.” |
 
 ## Sources
 
@@ -178,4 +178,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

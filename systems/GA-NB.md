@@ -66,8 +66,8 @@ Table: Invariant reactions reported in the literature for the Ga–Nb system (2)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1806.15 | peritectoid: Ga13Nb5 ↔ ht_Ga4Nb + Ga5Nb4 |  | experimental | [1] Tamim 2023; _cites Okamoto 1990_ | Table 1, p. 7, row 17 |  |
-| 1795.15 | peritectoid: Ga13Nb5 ↔ ht_Ga4Nb + Ga5Nb4 |  | model | [1] Tamim 2023 | Table 1, p. 7, row 18 |  |
+| 1806.15 | peritectoid: Ga13Nb5 ↔ ht_Ga4Nb + Ga5Nb4 |  | experimental | [1] Tamim 2023; _cites Okamoto 1990_ | Table 1, p. 7, row 17; `ORC-3H4G4A4Z26` |  |
+| 1795.15 | peritectoid: Ga13Nb5 ↔ ht_Ga4Nb + Ga5Nb4 |  | model | [1] Tamim 2023 | Table 1, p. 7, row 18; `ORC-R3WEGDAJEH` |  |
 
 ## Formation enthalpies
 
@@ -77,23 +77,23 @@ Table: Enthalpies of formation, Ga–Nb system (17)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Ga13Nb5 | [Ga13Nb5](https://data.orchid-project.org/compounds/Ga13Nb5.html) | -27.448 kJ/mol-atom | 298.15 | model | -23.383 (mp-aaaaabpg) | -30.729 (oqmd-30300) | [1] Tamim 2023 | Table 2, p. 8, row 6 |  |
-| Ga13Nb5 | [Ga13Nb5](https://data.orchid-project.org/compounds/Ga13Nb5.html) | -20.501 kJ/mol-atom | 298.15 | model | -23.383 (mp-aaaaabpg) | -30.729 (oqmd-30300) | [1] Tamim 2023; _cites De 1988_ | Table 2, p. 8, row 5 |  |
-| Ga3Nb |  | -38.5 per mol-atom ± 3 | 298.15 | experimental |  |  | [1] Tamim 2023; _cites Belgacem-Bouzida 2016_ | Table 2, p. 8, row 3 |  |
-| Ga3Nb | [Ga3Nb](https://data.orchid-project.org/compounds/Ga3Nb.html) | -26.911 kJ/mol-atom | 298.15 | model | -29.762 (mp-aaaaacxx) | -29.551 (oqmd-30302) | [1] Tamim 2023 | Table 2, p. 8, row 4 |  |
-| Ga3Nb5 | [Ga3Nb5](https://data.orchid-project.org/compounds/Ga3Nb5.html) | -39.6 kJ/mol-atom ± 1 | 298.15 | experimental | -32.041 (mp-aaabglqj) | -32.471 (oqmd-30301) | [1] Tamim 2023; _cites Kober 1986_ | Table 2, p. 8, row 12 |  |
-| Ga3Nb5 |  | -32.89 kJ/mol-atom | 298.15 | DFT |  |  | [1] Tamim 2023; _cites Colinet 2015_ | Table 2, p. 8, row 13 |  |
-| Ga3Nb5 | [Ga3Nb5](https://data.orchid-project.org/compounds/Ga3Nb5.html) | -28.953 kJ/mol-atom | 298.15 | model | -32.041 (mp-aaabglqj) | -32.471 (oqmd-30301) | [1] Tamim 2023 | Table 2, p. 8, row 15 |  |
-| Ga3Nb5 | [Ga3Nb5](https://data.orchid-project.org/compounds/Ga3Nb5.html) | -27.43 kJ/mol-atom | 298.15 | model | -32.041 (mp-aaabglqj) | -32.471 (oqmd-30301) | [1] Tamim 2023; _cites De 1988_ | Table 2, p. 8, row 14 |  |
-| Ga3Nb5 | [Ga3Nb5](https://data.orchid-project.org/compounds/Ga3Nb5.html) | -26.5 kJ/mol-atom ± 1.7 | 1373 | experimental | -32.041 (mp-aaabglqj) | -32.471 (oqmd-30301) | [1] Tamim 2023; _cites Meschel 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900599-x) | Table 2, p. 8, row 11 |  |
-| Ga4Nb5 | [Ga4Nb5](https://data.orchid-project.org/compounds/Ga4Nb5.html) | -33.02 kJ/mol-atom | 298.15 | model | -33.577 (mp-aaaabaro) | -33.569 (oqmd-17262) | [1] Tamim 2023 | Table 2, p. 8, row 10 |  |
-| Ga4Nb5 | [Ga4Nb5](https://data.orchid-project.org/compounds/Ga4Nb5.html) | -29.575 kJ/mol-atom | 298.15 | model | -33.577 (mp-aaaabaro) | -33.569 (oqmd-17262) | [1] Tamim 2023; _cites De 1988_ | Table 2, p. 8, row 9 |  |
-| Ga5Nb4 | [Ga5Nb4](https://data.orchid-project.org/compounds/Ga5Nb4.html) | -30.803 kJ/mol-atom | 298.15 | model | -32.391 (mp-aaacqaiu) |  | [1] Tamim 2023 | Table 2, p. 8, row 8 |  |
-| Ga5Nb4 | [Ga5Nb4](https://data.orchid-project.org/compounds/Ga5Nb4.html) | -29 kJ/mol-atom ± 1 | 1673 | experimental | -32.391 (mp-aaacqaiu) |  | [1] Tamim 2023; _cites Belgacem-Bouzida 2016_ | Table 2, p. 8, row 7 |  |
-| GaNb3 | [GaNb3](https://data.orchid-project.org/compounds/GaNb3.html) | -20.036 kJ/mol-atom | 298.15 | model | -16.594 (mp-aaaaadys) | -17.217 (oqmd-18843) | [1] Tamim 2023 | Table 2, p. 8, row 17 |  |
-| GaNb3 | [GaNb3](https://data.orchid-project.org/compounds/GaNb3.html) | -17 kJ/mol-atom ± 1 | 1723 | experimental | -16.594 (mp-aaaaadys) | -17.217 (oqmd-18843) | [1] Tamim 2023; _cites Belgacem-Bouzida 2016_ | Table 2, p. 8, row 16 |  |
-| ht_Ga4Nb |  | -15.083 kJ/mol-atom | 298.15 | model |  |  | [1] Tamim 2023 | Table 2, p. 8, row 2 |  |
-| ht_Ga4Nb |  | -14.908 kJ/mol-atom | 298.15 | model |  |  | [1] Tamim 2023; _cites De 1988_ | Table 2, p. 8, row 1 |  |
+| Ga13Nb5 | [Ga13Nb5](https://data.orchid-project.org/compounds/Ga13Nb5.html) | -27.448 kJ/mol-atom | 298.15 | model | -23.383 (mp-aaaaabpg) | -30.729 (oqmd-30300) | [1] Tamim 2023 | Table 2, p. 8, row 6; `ORC-PLBNL4EGKR` |  |
+| Ga13Nb5 | [Ga13Nb5](https://data.orchid-project.org/compounds/Ga13Nb5.html) | -20.501 kJ/mol-atom | 298.15 | model | -23.383 (mp-aaaaabpg) | -30.729 (oqmd-30300) | [1] Tamim 2023; _cites De 1988_ | Table 2, p. 8, row 5; `ORC-LALAS3FJVB` |  |
+| Ga3Nb |  | -38.5 per mol-atom ± 3 | 298.15 | experimental |  |  | [1] Tamim 2023; _cites Belgacem-Bouzida 2016_ | Table 2, p. 8, row 3; `ORC-NGZ5UBBOX7` |  |
+| Ga3Nb | [Ga3Nb](https://data.orchid-project.org/compounds/Ga3Nb.html) | -26.911 kJ/mol-atom | 298.15 | model | -29.762 (mp-aaaaacxx) | -29.551 (oqmd-30302) | [1] Tamim 2023 | Table 2, p. 8, row 4; `ORC-JNUWQ43GZ6` |  |
+| Ga3Nb5 | [Ga3Nb5](https://data.orchid-project.org/compounds/Ga3Nb5.html) | -39.6 kJ/mol-atom ± 1 | 298.15 | experimental | -32.041 (mp-aaabglqj) | -32.471 (oqmd-30301) | [1] Tamim 2023; _cites Kober 1986_ | Table 2, p. 8, row 12; `ORC-PP5UQRGE7N` |  |
+| Ga3Nb5 |  | -32.89 kJ/mol-atom | 298.15 | DFT |  |  | [1] Tamim 2023; _cites Colinet 2015_ | Table 2, p. 8, row 13; `ORC-PGD3ZY2DN6` |  |
+| Ga3Nb5 | [Ga3Nb5](https://data.orchid-project.org/compounds/Ga3Nb5.html) | -28.953 kJ/mol-atom | 298.15 | model | -32.041 (mp-aaabglqj) | -32.471 (oqmd-30301) | [1] Tamim 2023 | Table 2, p. 8, row 15; `ORC-NW25MH4H7U` |  |
+| Ga3Nb5 | [Ga3Nb5](https://data.orchid-project.org/compounds/Ga3Nb5.html) | -27.43 kJ/mol-atom | 298.15 | model | -32.041 (mp-aaabglqj) | -32.471 (oqmd-30301) | [1] Tamim 2023; _cites De 1988_ | Table 2, p. 8, row 14; `ORC-VIFIXMLFLD` |  |
+| Ga3Nb5 | [Ga3Nb5](https://data.orchid-project.org/compounds/Ga3Nb5.html) | -26.5 kJ/mol-atom ± 1.7 | 1373 | experimental | -32.041 (mp-aaabglqj) | -32.471 (oqmd-30301) | [1] Tamim 2023; _cites Meschel 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900599-x) | Table 2, p. 8, row 11; `ORC-XOVJ5NCZPT` |  |
+| Ga4Nb5 | [Ga4Nb5](https://data.orchid-project.org/compounds/Ga4Nb5.html) | -33.02 kJ/mol-atom | 298.15 | model | -33.577 (mp-aaaabaro) | -33.569 (oqmd-17262) | [1] Tamim 2023 | Table 2, p. 8, row 10; `ORC-N4OVW2D7F2` |  |
+| Ga4Nb5 | [Ga4Nb5](https://data.orchid-project.org/compounds/Ga4Nb5.html) | -29.575 kJ/mol-atom | 298.15 | model | -33.577 (mp-aaaabaro) | -33.569 (oqmd-17262) | [1] Tamim 2023; _cites De 1988_ | Table 2, p. 8, row 9; `ORC-6L7YEP6AHN` |  |
+| Ga5Nb4 | [Ga5Nb4](https://data.orchid-project.org/compounds/Ga5Nb4.html) | -30.803 kJ/mol-atom | 298.15 | model | -32.391 (mp-aaacqaiu) |  | [1] Tamim 2023 | Table 2, p. 8, row 8; `ORC-YWG3NECQHA` |  |
+| Ga5Nb4 | [Ga5Nb4](https://data.orchid-project.org/compounds/Ga5Nb4.html) | -29 kJ/mol-atom ± 1 | 1673 | experimental | -32.391 (mp-aaacqaiu) |  | [1] Tamim 2023; _cites Belgacem-Bouzida 2016_ | Table 2, p. 8, row 7; `ORC-HKKJVB7BEE` |  |
+| GaNb3 | [GaNb3](https://data.orchid-project.org/compounds/GaNb3.html) | -20.036 kJ/mol-atom | 298.15 | model | -16.594 (mp-aaaaadys) | -17.217 (oqmd-18843) | [1] Tamim 2023 | Table 2, p. 8, row 17; `ORC-273SZDJXG6` |  |
+| GaNb3 | [GaNb3](https://data.orchid-project.org/compounds/GaNb3.html) | -17 kJ/mol-atom ± 1 | 1723 | experimental | -16.594 (mp-aaaaadys) | -17.217 (oqmd-18843) | [1] Tamim 2023; _cites Belgacem-Bouzida 2016_ | Table 2, p. 8, row 16; `ORC-6VHJ23ZQI6` |  |
+| ht_Ga4Nb |  | -15.083 kJ/mol-atom | 298.15 | model |  |  | [1] Tamim 2023 | Table 2, p. 8, row 2; `ORC-QIEBWWTDAI` |  |
+| ht_Ga4Nb |  | -14.908 kJ/mol-atom | 298.15 | model |  |  | [1] Tamim 2023; _cites De 1988_ | Table 2, p. 8, row 1; `ORC-RFH3Z5AELI` |  |
 
 ## Sources
 
@@ -158,4 +158,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

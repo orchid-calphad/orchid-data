@@ -14,11 +14,11 @@ Table: Enthalpy of formation of CaSiO3 reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -1634 kJ/mol (basis unstated) | Wollastonite-CaSiO3 | 298.15 | model |  | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023; _cites Haas 1981_ [doi](https://doi.org/10.1063/1.555645) | Table 7, p. 8, row 8 |  |
-| -1634 kJ/mol (basis unstated) | Wollastonite-CaSiO3 | 298.15 | model |  | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023 | Table 7, p. 8, row 7 |  |
-| -1627 kJ/mol (basis unstated) | Cyclowollastonite-CaSiO3 | 298.15 | model |  | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023; _cites Haas 1981_ [doi](https://doi.org/10.1063/1.555645) | Table 7, p. 8, row 10 |  |
-| -1627 kJ/mol (basis unstated) | Cyclowollastonite-CaSiO3 | 298.15 | model |  | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023 | Table 7, p. 8, row 9 |  |
-| -1634.32 kJ/mol (basis unstated) ± 2.71 | wollastonite-CaSiO3 | 298.15 | unspecified |  | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023; _cites Grevel 2022_ | Table A.2, p. 13, row 21 |  |
+| -1634 kJ/mol (basis unstated) | Wollastonite-CaSiO3 | 298.15 | model |  | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023; _cites Haas 1981_ [doi](https://doi.org/10.1063/1.555645) | Table 7, p. 8, row 8; `ORC-FJQUPO45FZ.d695f3` |  |
+| -1634 kJ/mol (basis unstated) | Wollastonite-CaSiO3 | 298.15 | model |  | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023 | Table 7, p. 8, row 7; `ORC-QVLNEA5VP5.ef9a1d` |  |
+| -1627 kJ/mol (basis unstated) | Cyclowollastonite-CaSiO3 | 298.15 | model |  | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023; _cites Haas 1981_ [doi](https://doi.org/10.1063/1.555645) | Table 7, p. 8, row 10; `ORC-D24CXWORIZ.1ee8ea` |  |
+| -1627 kJ/mol (basis unstated) | Cyclowollastonite-CaSiO3 | 298.15 | model |  | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023 | Table 7, p. 8, row 9; `ORC-LNOSS6BP7G.989c1b` |  |
+| -1634.32 kJ/mol (basis unstated) ± 2.71 | wollastonite-CaSiO3 | 298.15 | unspecified |  | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023; _cites Grevel 2022_ | Table A.2, p. 13, row 21; `ORC-JHG5GVRDTR` |  |
 
 ### Uncertainty budget
 
@@ -85,4 +85,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

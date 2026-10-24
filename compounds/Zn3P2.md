@@ -14,19 +14,19 @@ Table: Enthalpy of formation of Zn3P2 reported in the literature (13)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -46.06 kJ/mol-atom ± 6300 | Zn3P2 | 298.15 | experimental |  | [P–Zn](https://data.orchid-project.org/systems/P-ZN.html) | [1] Liu 2016; _cites Karvelis 1959_ | Table 4, p. 6, row 4 |  |
-| -46.06 kJ/mol-atom ± 1.26 | Zn3P2 | 298.15 | experimental |  | [P–Zn](https://data.orchid-project.org/systems/P-ZN.html) | [2] Tu 2009; _cites Karvelis 1959_ | Table 3, p. 4, row 8 |  |
-| -44.66 kJ/mol-atom ± 0.3 | Zn3P2 | 298.15 | experimental |  | [P–Zn](https://data.orchid-project.org/systems/P-ZN.html) | [2] Tu 2009; _cites Karvelis 1959_ | Table 3, p. 4, row 9 |  |
-| -34.64 kJ/mol-atom ± 2.08 | Zn3P2 | 298.15 | experimental |  | [P–Zn](https://data.orchid-project.org/systems/P-ZN.html) | [2] Tu 2009; _cites Sirota 1975_ | Table 3, p. 4, row 6 |  |
-| -33.06 kJ/mol-atom ± 4.18 | Zn3P2 | 298.15 | experimental |  | [P–Zn](https://data.orchid-project.org/systems/P-ZN.html) | [2] Tu 2009; _cites Schoonmaker 1967_ [doi](https://doi.org/10.1021/j100867a043) | Table 3, p. 4, row 7 |  |
-| -33.06 kJ/mol-atom ± 20900 | Zn3P2 | 298.15 | experimental |  | [P–Zn](https://data.orchid-project.org/systems/P-ZN.html) | [1] Liu 2016; _cites Schoonmaker 1967_ [doi](https://doi.org/10.1021/j100867a043) | Table 4, p. 6, row 3 |  |
-| -181.78 kJ/mol (basis unstated) | Zn3P2 | 298.15 | model |  | [P–Zn](https://data.orchid-project.org/systems/P-ZN.html) | [3] Ghasemi 2019; _cites Tu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.10.003) | Table 2, p. 3, row 2 |  |
-| -151.839 kJ/mol (basis unstated) | Zn3P2 | 298.15 | model |  | [P–Zn](https://data.orchid-project.org/systems/P-ZN.html) | [3] Ghasemi 2019; _cites Liu 2016_ [doi](https://doi.org/10.1016/j.surfcoat.2016.01.016) | Table 2, p. 3, row 1 |  |
-| -36.356 kJ/mol-atom | Zn3P2 | 298.15 | model |  | [P–Zn](https://data.orchid-project.org/systems/P-ZN.html) | [2] Tu 2009 | Table 3, p. 4, row 10 |  |
-| -36.356 kJ/mol-atom | Zn3P2 | 298.15 | model |  | [P–Zn](https://data.orchid-project.org/systems/P-ZN.html) | [1] Liu 2016; _cites Tu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.10.003) | Table 4, p. 6, row 6 |  |
-| -30.3678 kJ/mol-atom | Zn3P2 | 298.15 | model |  | [P–Zn](https://data.orchid-project.org/systems/P-ZN.html) | [1] Liu 2016 | Table 4, p. 6, row 1 |  |
-| -44.66 kJ/mol-atom ± 1500 | Zn3P2 | 298.15 | unspecified |  | [P–Zn](https://data.orchid-project.org/systems/P-ZN.html) | [1] Liu 2016; _cites Karvelis 1959_ | Table 4, p. 6, row 5 |  |
-| -34.64 kJ/mol-atom ± 10400 | Zn3P2 | 298.15 | unspecified |  | [P–Zn](https://data.orchid-project.org/systems/P-ZN.html) | [1] Liu 2016; _cites Sirota 2016_ | Table 4, p. 6, row 2 |  |
+| -46.06 kJ/mol-atom ± 6300 | Zn3P2 | 298.15 | experimental |  | [P–Zn](https://data.orchid-project.org/systems/P-ZN.html) | [1] Liu 2016; _cites Karvelis 1959_ | Table 4, p. 6, row 4; `ORC-6G5UCN3PYT` |  |
+| -46.06 kJ/mol-atom ± 1.26 | Zn3P2 | 298.15 | experimental |  | [P–Zn](https://data.orchid-project.org/systems/P-ZN.html) | [2] Tu 2009; _cites Karvelis 1959_ | Table 3, p. 4, row 8; `ORC-MWD4MEQCQL` |  |
+| -44.66 kJ/mol-atom ± 0.3 | Zn3P2 | 298.15 | experimental |  | [P–Zn](https://data.orchid-project.org/systems/P-ZN.html) | [2] Tu 2009; _cites Karvelis 1959_ | Table 3, p. 4, row 9; `ORC-NFWOS5535K` |  |
+| -34.64 kJ/mol-atom ± 2.08 | Zn3P2 | 298.15 | experimental |  | [P–Zn](https://data.orchid-project.org/systems/P-ZN.html) | [2] Tu 2009; _cites Sirota 1975_ | Table 3, p. 4, row 6; `ORC-LWXR2TG7QI.334c1f` |  |
+| -33.06 kJ/mol-atom ± 4.18 | Zn3P2 | 298.15 | experimental |  | [P–Zn](https://data.orchid-project.org/systems/P-ZN.html) | [2] Tu 2009; _cites Schoonmaker 1967_ [doi](https://doi.org/10.1021/j100867a043) | Table 3, p. 4, row 7; `ORC-3W2FGGUKTH` |  |
+| -33.06 kJ/mol-atom ± 20900 | Zn3P2 | 298.15 | experimental |  | [P–Zn](https://data.orchid-project.org/systems/P-ZN.html) | [1] Liu 2016; _cites Schoonmaker 1967_ [doi](https://doi.org/10.1021/j100867a043) | Table 4, p. 6, row 3; `ORC-CIWTGTH2YD` |  |
+| -181.78 kJ/mol (basis unstated) | Zn3P2 | 298.15 | model |  | [P–Zn](https://data.orchid-project.org/systems/P-ZN.html) | [3] Ghasemi 2019; _cites Tu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.10.003) | Table 2, p. 3, row 2; `ORC-5QGOL6UF5I.bc2a85` |  |
+| -151.839 kJ/mol (basis unstated) | Zn3P2 | 298.15 | model |  | [P–Zn](https://data.orchid-project.org/systems/P-ZN.html) | [3] Ghasemi 2019; _cites Liu 2016_ [doi](https://doi.org/10.1016/j.surfcoat.2016.01.016) | Table 2, p. 3, row 1; `ORC-YVXEYCTMZN.2d2913` |  |
+| -36.356 kJ/mol-atom | Zn3P2 | 298.15 | model |  | [P–Zn](https://data.orchid-project.org/systems/P-ZN.html) | [2] Tu 2009 | Table 3, p. 4, row 10; `ORC-4NHSU4IPIC.488e37` |  |
+| -36.356 kJ/mol-atom | Zn3P2 | 298.15 | model |  | [P–Zn](https://data.orchid-project.org/systems/P-ZN.html) | [1] Liu 2016; _cites Tu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.10.003) | Table 4, p. 6, row 6; `ORC-V67L7I2OM7.4baa15` |  |
+| -30.3678 kJ/mol-atom | Zn3P2 | 298.15 | model |  | [P–Zn](https://data.orchid-project.org/systems/P-ZN.html) | [1] Liu 2016 | Table 4, p. 6, row 1; `ORC-24MG5TAEG6.73186d` |  |
+| -44.66 kJ/mol-atom ± 1500 | Zn3P2 | 298.15 | unspecified |  | [P–Zn](https://data.orchid-project.org/systems/P-ZN.html) | [1] Liu 2016; _cites Karvelis 1959_ | Table 4, p. 6, row 5; `ORC-H6HJEGQSCS` |  |
+| -34.64 kJ/mol-atom ± 10400 | Zn3P2 | 298.15 | unspecified |  | [P–Zn](https://data.orchid-project.org/systems/P-ZN.html) | [1] Liu 2016; _cites Sirota 2016_ | Table 4, p. 6, row 2; `ORC-7KX4AFY722.74dbf0` |  |
 
 ### Uncertainty budget
 
@@ -116,4 +116,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

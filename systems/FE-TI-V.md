@@ -27,8 +27,8 @@ Table: Invariant reactions reported in the literature for the Fe–Ti–V system
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1413 | quasi-peritectic: Liq. + Fe2Ti -> FeTi + bcc |  | model | [1] Guo 2012 | Table 2, p. 4, row 1 |  |
-| 1413 | Liq. + Fe2Ti -> FeTi + bcc |  | experimental | [1] Guo 2012; _cites Massicot 2010_ [doi](https://doi.org/10.3139/146.110379) | Table 2, p. 4, row 2 |  |
+| 1413 | quasi-peritectic: Liq. + Fe2Ti -> FeTi + bcc |  | model | [1] Guo 2012 | Table 2, p. 4, row 1; `ORC-PBESGDONJ3` |  |
+| 1413 | Liq. + Fe2Ti -> FeTi + bcc |  | experimental | [1] Guo 2012; _cites Massicot 2010_ [doi](https://doi.org/10.3139/146.110379) | Table 2, p. 4, row 2; `ORC-TEV2W6Y5OT` |  |
 
 ## Sources
 
@@ -71,4 +71,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

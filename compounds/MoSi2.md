@@ -14,30 +14,30 @@ Table: Enthalpy of formation of MoSi2 reported in the literature (24)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -47.4 kJ/mol-atom ± 1 | MoSi2 | 298.15 | experimental | Direct synthesis calorimetry | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [1] Czerny 2024; _cites Maslov 1978_ | Table 8, p. 10, row 39 |  |
-| -45.7 kJ/mol-atom ± 1.5 | MoSi2 | 298.15 | experimental | Combustion calorimetry | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [1] Czerny 2024; _cites OHare 1993_ | Table 8, p. 10, row 30 |  |
-| -43.9 kJ/mol-atom ± 3 | MoSi2 | 298.15 | experimental |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Liu 2000; _cites Chart 1974_ [doi](https://doi.org/10.1179/msc.1974.8.1.344) | Table 2, p. 6, row 20 |  |
-| -43.9 kJ/mol-atom ± 3 | MoSi2 | 298.15 | experimental |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Liu 2000; _cites Chart 1973_ | Table 2, p. 6, row 21 |  |
-| -43.9 kJ/mol-atom ± 3 | MoSi2 | 298.15 | experimental | Exp | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [3] Geng 2010; _cites Chart 1974_ [doi](https://doi.org/10.1179/msc.1974.8.1.344) | Table 2, p. 6, row 2 |  |
-| -43.76 kJ/mol-atom ± 2.09 | MoSi2 | 298.15 | experimental |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Liu 2000; _cites Hultgren 1973_ | Table 2, p. 6, row 19 |  |
-| -39.609 kJ/mol-atom | MoSi2 | 298.15 | experimental |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Liu 2000; _cites Barin 1989_ | Table 2, p. 6, row 22 |  |
-| -46.5157 kJ/mol-atom | MoSi2 | 298.15 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Liu 2000; _cites Bai 1999_ | Table 2, p. 6, row 26 |  |
-| -46.5157 kJ/mol-atom | MoSi2 | 298.15 | model | Assessed | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [3] Geng 2010; _cites Vahlas 1989_ [doi](https://doi.org/10.1016/0364-5916%2889%2990007-2) | Table 2, p. 6, row 6 |  |
-| -46.5157 kJ/mol-atom | MoSi2 | 298.15 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Liu 2000; _cites Vahlas 1989_ [doi](https://doi.org/10.1016/0364-5916%2889%2990007-2) | Table 2, p. 6, row 24 |  |
-| -46.5157 kJ/mol-atom | MoSi2 | 298.15 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [3] Geng 2010; _cites Bai 1999_ | Table 2, p. 6, row 8 |  |
-| -45.7 kJ/mol-atom ± 1.5 | MoSi2 | 298.15 | model | Assessment | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [1] Czerny 2024; _cites Costa 1994_ | Table 8, p. 10, row 27 |  |
-| -45.6667 kJ/mol-atom | MoSi2 | 298.15 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [3] Geng 2010; _cites Costa 1994_ | Table 2, p. 6, row 7 |  |
-| -45.6667 kJ/mol-atom | MoSi2 | 298.15 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Liu 2000; _cites Costa 1994_ | Table 2, p. 6, row 25 |  |
-| -45.156 kJ/mol-atom | MoSi2 | 298.15 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Liu 2000 | Table 2, p. 6, row 27 |  |
-| -45.156 kJ/mol-atom | MoSi2 | 298.15 | model | CALPHAD | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [3] Geng 2010; _cites Liu 2000_ [doi](https://doi.org/10.1016/s0966-9795%2800%2900068-6) | Table 2, p. 6, row 9 |  |
-| -43.9 kJ/mol-atom ± 3 | MoSi2 | 298.15 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [3] Geng 2010; _cites Chart 1973_ | Table 2, p. 6, row 3 |  |
-| -43.816 kJ/mol-atom | MoSi2 | 298.15 | model | CALPHAD | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [3] Geng 2010 | Table 2, p. 6, row 10 |  |
-| -43.8 kJ/mol-atom | MoSi2 | 298.15 | model | Assessment | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [1] Czerny 2024; _cites Geng 2010_ | Table 8, p. 10, row 14 |  |
-| -43.76 kJ/mol-atom ± 2.09 | MoSi2 | 298.15 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [3] Geng 2010; _cites Hultgren 1973_ | Table 2, p. 6, row 1 |  |
-| -43.7 kJ/mol-atom | MoSi2 | 298.15 | model | Assessment | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [1] Czerny 2024 | Table 8, p. 10, row 3 |  |
-| -42.53 kJ/mol-atom | MoSi2 | 298.15 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Liu 2000; _cites Kaufman 1997_ | Table 2, p. 6, row 23 |  |
-| -42.53 kJ/mol-atom | MoSi2 | 298.15 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [3] Geng 2010; _cites Kaufman 1997_ | Table 2, p. 6, row 5 |  |
-| -39.609 kJ/mol-atom | MoSi2 | 298.15 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [3] Geng 2010; _cites Barin 1989_ | Table 2, p. 6, row 4 |  |
+| -47.4 kJ/mol-atom ± 1 | MoSi2 | 298.15 | experimental | Direct synthesis calorimetry | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [1] Czerny 2024; _cites Maslov 1978_ | Table 8, p. 10, row 39; `ORC-WWSFIW7E23.0137c8` |  |
+| -45.7 kJ/mol-atom ± 1.5 | MoSi2 | 298.15 | experimental | Combustion calorimetry | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [1] Czerny 2024; _cites OHare 1993_ | Table 8, p. 10, row 30; `ORC-2SYIOAGU2L.f6d5c3` |  |
+| -43.9 kJ/mol-atom ± 3 | MoSi2 | 298.15 | experimental |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Liu 2000; _cites Chart 1974_ [doi](https://doi.org/10.1179/msc.1974.8.1.344) | Table 2, p. 6, row 20; `ORC-CALAB32J4W.063ea2` |  |
+| -43.9 kJ/mol-atom ± 3 | MoSi2 | 298.15 | experimental |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Liu 2000; _cites Chart 1973_ | Table 2, p. 6, row 21; `ORC-M3O5C3JLLJ.21b7b6` |  |
+| -43.9 kJ/mol-atom ± 3 | MoSi2 | 298.15 | experimental | Exp | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [3] Geng 2010; _cites Chart 1974_ [doi](https://doi.org/10.1179/msc.1974.8.1.344) | Table 2, p. 6, row 2; `ORC-VRBIJS44FV.85b551` |  |
+| -43.76 kJ/mol-atom ± 2.09 | MoSi2 | 298.15 | experimental |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Liu 2000; _cites Hultgren 1973_ | Table 2, p. 6, row 19; `ORC-GDBNGL4GFO.2310c6` |  |
+| -39.609 kJ/mol-atom | MoSi2 | 298.15 | experimental |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Liu 2000; _cites Barin 1989_ | Table 2, p. 6, row 22; `ORC-WOU62CZIF5.598a21` |  |
+| -46.5157 kJ/mol-atom | MoSi2 | 298.15 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Liu 2000; _cites Bai 1999_ | Table 2, p. 6, row 26; `ORC-72UPOQ75NO.768c43` |  |
+| -46.5157 kJ/mol-atom | MoSi2 | 298.15 | model | Assessed | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [3] Geng 2010; _cites Vahlas 1989_ [doi](https://doi.org/10.1016/0364-5916%2889%2990007-2) | Table 2, p. 6, row 6; `ORC-KPVD2C4CKW.f633e5` |  |
+| -46.5157 kJ/mol-atom | MoSi2 | 298.15 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Liu 2000; _cites Vahlas 1989_ [doi](https://doi.org/10.1016/0364-5916%2889%2990007-2) | Table 2, p. 6, row 24; `ORC-LF6NYJ2HQH.d07a64` |  |
+| -46.5157 kJ/mol-atom | MoSi2 | 298.15 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [3] Geng 2010; _cites Bai 1999_ | Table 2, p. 6, row 8; `ORC-VGX23NVNQZ.064b0c` |  |
+| -45.7 kJ/mol-atom ± 1.5 | MoSi2 | 298.15 | model | Assessment | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [1] Czerny 2024; _cites Costa 1994_ | Table 8, p. 10, row 27; `ORC-WYIEBEJVXR.d4f4a2` |  |
+| -45.6667 kJ/mol-atom | MoSi2 | 298.15 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [3] Geng 2010; _cites Costa 1994_ | Table 2, p. 6, row 7; `ORC-GFO44IP4CM.069155` |  |
+| -45.6667 kJ/mol-atom | MoSi2 | 298.15 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Liu 2000; _cites Costa 1994_ | Table 2, p. 6, row 25; `ORC-TZSK5OX2MB.36ea16` |  |
+| -45.156 kJ/mol-atom | MoSi2 | 298.15 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Liu 2000 | Table 2, p. 6, row 27; `ORC-M3CUEYDRTC.1e7d54` |  |
+| -45.156 kJ/mol-atom | MoSi2 | 298.15 | model | CALPHAD | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [3] Geng 2010; _cites Liu 2000_ [doi](https://doi.org/10.1016/s0966-9795%2800%2900068-6) | Table 2, p. 6, row 9; `ORC-OSSPFCUL4M.c51cef` |  |
+| -43.9 kJ/mol-atom ± 3 | MoSi2 | 298.15 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [3] Geng 2010; _cites Chart 1973_ | Table 2, p. 6, row 3; `ORC-D6DSJ4DWSR.a2b5c7` |  |
+| -43.816 kJ/mol-atom | MoSi2 | 298.15 | model | CALPHAD | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [3] Geng 2010 | Table 2, p. 6, row 10; `ORC-C3QZAHPECJ.38ad8e` |  |
+| -43.8 kJ/mol-atom | MoSi2 | 298.15 | model | Assessment | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [1] Czerny 2024; _cites Geng 2010_ | Table 8, p. 10, row 14; `ORC-NOI3Q52DJW.656260` |  |
+| -43.76 kJ/mol-atom ± 2.09 | MoSi2 | 298.15 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [3] Geng 2010; _cites Hultgren 1973_ | Table 2, p. 6, row 1; `ORC-FVEUPZLTEK.897053` |  |
+| -43.7 kJ/mol-atom | MoSi2 | 298.15 | model | Assessment | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [1] Czerny 2024 | Table 8, p. 10, row 3; `ORC-QWWIQ6RGII` |  |
+| -42.53 kJ/mol-atom | MoSi2 | 298.15 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Liu 2000; _cites Kaufman 1997_ | Table 2, p. 6, row 23; `ORC-7QWT3BDRW4.5632f2` |  |
+| -42.53 kJ/mol-atom | MoSi2 | 298.15 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [3] Geng 2010; _cites Kaufman 1997_ | Table 2, p. 6, row 5; `ORC-WHSRVVJRMD.e1f626` |  |
+| -39.609 kJ/mol-atom | MoSi2 | 298.15 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [3] Geng 2010; _cites Barin 1989_ | Table 2, p. 6, row 4; `ORC-QA72M4QXDT.4c6e25` |  |
 
 ### Uncertainty budget
 
@@ -138,4 +138,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

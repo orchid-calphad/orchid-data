@@ -55,15 +55,15 @@ Table: Invariant reactions reported in the literature for the Nd–Zr system (9)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1274 | L -> bcc-Nd + bcc-Zr |  | experimental | [1] Mattern 2014 | Table 3, p. 4, row 2 |  |
-| 1274 | eutectic: L2bcc-Nd(Zr)þbcc-Zr(Nd) |  | experimental | [1] Mattern 2014 | p. 2 | “The DSC event (3) at T1⁄4 1274 K corresponds to the eutectic reaction L2bcc-Nd(Zr)þbcc-Zr(Nd).” |
-| 1271 | L -> bcc-Nd + bcc-Zr | L: Zr 0.04; bcc-Nd: Zr 0.03; bcc-Zr: Zr 0.97 | model | [1] Mattern 2014 | Table 3, p. 4, row 1 |  |
-| 1268 | peritectic: Liquid + (bZr) M (aNd) |  | experimental | [2] Cheng 2014 | p. 8 | “Since the Nd-rich end has a peritectic type reaction as investigated in the SEM images of the as-cast alloy 2, which exhibit the dissolution of primary Zr into liquid phase to form Nd, the invariant reaction of Liquid + (bZr) M (aNd) is adjusted to the thermal signal at 1268 K (995 °C).” |
-| 1167 | bcc-Nd + bcc-Zr -> hcp-Zr | bcc-Nd: Zr 0.022; bcc-Zr: Zr 0.978; hcp-Zr: Zr 0.966 | model | [1] Mattern 2014 | Table 3, p. 4, row 3 |  |
-| 1167 | bcc-Nd + bcc-Zr -> hcp-Zr |  | experimental | [1] Mattern 2014 | Table 3, p. 4, row 4 |  |
-| 1118 | bcc-Nd -> hcp-Zr + dhcp-Nd |  | experimental | [1] Mattern 2014 | Table 3, p. 4, row 6 |  |
-| 1116 | bcc-Nd -> hcp-Zr + dhcp-Nd | bcc-Nd: Zr 0.019; hcp-Zr: Zr 0.971; dhcp-Nd: Zr 0.015 | model | [1] Mattern 2014 | Table 3, p. 4, row 5 |  |
-| 1112 | eutectic: (bZr) M (aNd) + (aZr) |  | experimental | [2] Cheng 2014 | p. 8 | “The eutectic reaction of (bZr) M (aNd) + (aZr) is assigned to be at 1112 K (839 °C), and the solid solubility at 1268 K (1050 °C) is determined to be more than 2.5 at. pct Nd based on the results obtained from the Nd-Zr alloys in the group 3.” |
+| 1274 | L -> bcc-Nd + bcc-Zr |  | experimental | [1] Mattern 2014 | Table 3, p. 4, row 2; `ORC-4RK3HKOWWG` |  |
+| 1274 | eutectic: L2bcc-Nd(Zr)þbcc-Zr(Nd) |  | experimental | [1] Mattern 2014 | p. 2; `ORC-GZENSPPYLE` | “The DSC event (3) at T1⁄4 1274 K corresponds to the eutectic reaction L2bcc-Nd(Zr)þbcc-Zr(Nd).” |
+| 1271 | L -> bcc-Nd + bcc-Zr | L: Zr 0.04; bcc-Nd: Zr 0.03; bcc-Zr: Zr 0.97 | model | [1] Mattern 2014 | Table 3, p. 4, row 1; `ORC-VKFXC2XLXW` |  |
+| 1268 | peritectic: Liquid + (bZr) M (aNd) |  | experimental | [2] Cheng 2014 | p. 8; `ORC-PUALY7EJHE` | “Since the Nd-rich end has a peritectic type reaction as investigated in the SEM images of the as-cast alloy 2, which exhibit the dissolution of primary Zr into liquid phase to form Nd, the invariant reaction of Liquid + (bZr) M (aNd) is adjusted to the thermal signal at 1268 K (995 °C).” |
+| 1167 | bcc-Nd + bcc-Zr -> hcp-Zr | bcc-Nd: Zr 0.022; bcc-Zr: Zr 0.978; hcp-Zr: Zr 0.966 | model | [1] Mattern 2014 | Table 3, p. 4, row 3; `ORC-LYF6I3SLKM.5732cf` |  |
+| 1167 | bcc-Nd + bcc-Zr -> hcp-Zr |  | experimental | [1] Mattern 2014 | Table 3, p. 4, row 4; `ORC-LYF6I3SLKM.a02d48` |  |
+| 1118 | bcc-Nd -> hcp-Zr + dhcp-Nd |  | experimental | [1] Mattern 2014 | Table 3, p. 4, row 6; `ORC-CA75O5RWWB` |  |
+| 1116 | bcc-Nd -> hcp-Zr + dhcp-Nd | bcc-Nd: Zr 0.019; hcp-Zr: Zr 0.971; dhcp-Nd: Zr 0.015 | model | [1] Mattern 2014 | Table 3, p. 4, row 5; `ORC-YAR3F6IIAJ` |  |
+| 1112 | eutectic: (bZr) M (aNd) + (aZr) |  | experimental | [2] Cheng 2014 | p. 8; `ORC-IVRB7OF2UX` | “The eutectic reaction of (bZr) M (aNd) + (aZr) is assigned to be at 1112 K (839 °C), and the solid solubility at 1268 K (1050 °C) is determined to be more than 2.5 at. pct Nd based on the results obtained from the Nd-Zr alloys in the group 3.” |
 
 ## Other properties
 
@@ -73,32 +73,32 @@ Table: Phase transition, Nd–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1106.1 K | 1106.1 | (βZr) ↔ (αNd) + (αZr) | experimental | [2] Cheng 2014 | Table III, p. 7, row 1 |  |
-| Phase transition | 1108.6 K | 1108.6 | (βZr) ↔ (αNd) + (αZr) | experimental | [2] Cheng 2014 | Table III, p. 7, row 11 |  |
-| Phase transition | 1108.7 K | 1108.7 | (βZr) ↔ (αNd) + (αZr) | experimental | [2] Cheng 2014 | Table III, p. 7, row 31 |  |
-| Phase transition | 1109.4 K | 1109.4 | (βZr) ↔ (αNd) + (αZr) | experimental | [2] Cheng 2014 | Table III, p. 7, row 23 |  |
-| Phase transition | 1111.9 K | 1111.9 | (βZr) ↔ (αNd) + (αZr) | experimental | [2] Cheng 2014 | Table III, p. 7, row 19 |  |
-| Phase transition | 1112 K | 1112 | other | experimental | [2] Cheng 2014 | p. 6 | “There are two thermal signals in most of the Nd-Zr alloys, indicating two invariant reactions at 1268 K and 1112 K (995 °C and 839 °C), while the overlapped peaks are detected in the alloy 1 when comparing the DSC curves with a heating rate of 5 K/min to that of 2 K/min, as shown in Figure 10.” |
-| Phase transition | 1112.7 K | 1112.7 | (βZr) ↔ (αNd) + (αZr) | unspecified | [2] Cheng 2014 | Table III, p. 7, row 8 |  |
-| Phase transition | 1114 K | 1114 | (βZr) ↔ (αNd) + (αZr) | experimental | [2] Cheng 2014 | Table III, p. 7, row 27 |  |
-| Phase transition | 1114.3 K | 1114.3 | (βZr) ↔ (αNd) + (αZr) | experimental | [2] Cheng 2014 | Table III, p. 7, row 7 |  |
-| Phase transition | 1114.6 K | 1114.6 | (βZr) ↔ (αNd) + (αZr) | experimental | [2] Cheng 2014 | Table III, p. 7, row 15 |  |
-| Phase transition | 1115.1 K | 1115.1 | (βZr) ↔ (αNd) + (αZr) | experimental | [2] Cheng 2014 | Table III, p. 7, row 35 |  |
-| Phase transition | 1118 K | 1118 | dhcp-Nd(Zr)þhcp-Zr(Nd)2bcc-Nd(Zr) | experimental | [1] Mattern 2014 | p. 2 | “The reaction (1) of the DSC curve at T1⁄4 1118 K corresponds to the transformation dhcp-Nd(Zr)þhcp-Zr(Nd)2bcc-Nd(Zr).” |
-| Phase transition | 1167 K | 1167 | hcp Zr(Nd)2bcc-Zr(Nd)þ bcc-Nd(Zr) | experimental | [1] Mattern 2014 | p. 2 | “At T1⁄4 1167 K, DSC event (2), the transformation hcp Zr(Nd)2bcc-Zr(Nd)þ bcc-Nd(Zr) takes place.” |
-| Phase transition | 1256.2 K | 1256.2 | Liquid + (αNd)/(αNd) | experimental | [2] Cheng 2014 | Table III, p. 7, row 3 |  |
-| Phase transition | 1260 K | 1260 | Liquid + (αNd)/(αNd) | unspecified | [2] Cheng 2014 | Table III, p. 7, row 4 |  |
-| Phase transition | 1263 K | 1263 | Liquid + (βZr) ↔ (αNd) | experimental | [2] Cheng 2014 | Table III, p. 7, row 9 |  |
-| Phase transition | 1265.9 K | 1265.9 | Liquid + (βZr) ↔ (αNd) | experimental | [2] Cheng 2014 | Table III, p. 7, row 17 |  |
-| Phase transition | 1266 K | 1266 | Liquid + (βZr) ↔ (αNd) | experimental | [2] Cheng 2014 | Table III, p. 7, row 13 |  |
-| Phase transition | 1266.3 K | 1266.3 | Liquid + (βZr) ↔ (αNd) | experimental | [2] Cheng 2014 | Table III, p. 7, row 5 |  |
-| Phase transition | 1266.4 K | 1266.4 | Liquid + (βZr) ↔ (αNd) | experimental | [2] Cheng 2014 | Table III, p. 7, row 37 |  |
-| Phase transition | 1266.6 K | 1266.6 | Liquid + (βZr) ↔ (αNd) | experimental | [2] Cheng 2014 | Table III, p. 7, row 29 |  |
-| Phase transition | 1268 K | 1268 | Liquid + (βZr) ↔ (αNd) | unspecified | [2] Cheng 2014 | Table III, p. 7, row 22 |  |
-| Phase transition | 1268 K | 1268 | Liquid + (βZr) ↔ (αNd) | experimental | [2] Cheng 2014 | Table III, p. 7, row 21 |  |
-| Phase transition | 1268 K | 1268 | other | experimental | [2] Cheng 2014 | p. 6 | “There are two thermal signals in most of the Nd-Zr alloys, indicating two invariant reactions at 1268 K and 1112 K (995 °C and 839 °C), while the overlapped peaks are detected in the alloy 1 when comparing the DSC curves with a heating rate of 5 K/min to that of 2 K/min, as shown in Figure 10.” |
-| Phase transition | 1269.5 K | 1269.5 | Liquid + (βZr) ↔ (αNd) | experimental | [2] Cheng 2014 | Table III, p. 7, row 25 |  |
-| Phase transition | 1270.3 K | 1270.3 | Liquid + (βZr) ↔ (αNd) | experimental | [2] Cheng 2014 | Table III, p. 7, row 33 |  |
+| Phase transition | 1106.1 K | 1106.1 | (βZr) ↔ (αNd) + (αZr) | experimental | [2] Cheng 2014 | Table III, p. 7, row 1; `ORC-JZNZP24YHK` |  |
+| Phase transition | 1108.6 K | 1108.6 | (βZr) ↔ (αNd) + (αZr) | experimental | [2] Cheng 2014 | Table III, p. 7, row 11; `ORC-ND3A5N7SXX` |  |
+| Phase transition | 1108.7 K | 1108.7 | (βZr) ↔ (αNd) + (αZr) | experimental | [2] Cheng 2014 | Table III, p. 7, row 31; `ORC-YXT2MXBJHE` |  |
+| Phase transition | 1109.4 K | 1109.4 | (βZr) ↔ (αNd) + (αZr) | experimental | [2] Cheng 2014 | Table III, p. 7, row 23; `ORC-3ISP7QB667` |  |
+| Phase transition | 1111.9 K | 1111.9 | (βZr) ↔ (αNd) + (αZr) | experimental | [2] Cheng 2014 | Table III, p. 7, row 19; `ORC-4Y6ZAXPMJK` |  |
+| Phase transition | 1112 K | 1112 | other | experimental | [2] Cheng 2014 | p. 6; `ORC-7R3BDAJJSL.8b2b15` | “There are two thermal signals in most of the Nd-Zr alloys, indicating two invariant reactions at 1268 K and 1112 K (995 °C and 839 °C), while the overlapped peaks are detected in the alloy 1 when comparing the DSC curves with a heating rate of 5 K/min to that of 2 K/min, as shown in Figure 10.” |
+| Phase transition | 1112.7 K | 1112.7 | (βZr) ↔ (αNd) + (αZr) | unspecified | [2] Cheng 2014 | Table III, p. 7, row 8; `ORC-6FC5XAFTTY` |  |
+| Phase transition | 1114 K | 1114 | (βZr) ↔ (αNd) + (αZr) | experimental | [2] Cheng 2014 | Table III, p. 7, row 27; `ORC-664IZDOMWS` |  |
+| Phase transition | 1114.3 K | 1114.3 | (βZr) ↔ (αNd) + (αZr) | experimental | [2] Cheng 2014 | Table III, p. 7, row 7; `ORC-W5ZHJU5PJE` |  |
+| Phase transition | 1114.6 K | 1114.6 | (βZr) ↔ (αNd) + (αZr) | experimental | [2] Cheng 2014 | Table III, p. 7, row 15; `ORC-WEYWVCON2H` |  |
+| Phase transition | 1115.1 K | 1115.1 | (βZr) ↔ (αNd) + (αZr) | experimental | [2] Cheng 2014 | Table III, p. 7, row 35; `ORC-M5XXD5JP4S` |  |
+| Phase transition | 1118 K | 1118 | dhcp-Nd(Zr)þhcp-Zr(Nd)2bcc-Nd(Zr) | experimental | [1] Mattern 2014 | p. 2; `ORC-ZGJHO5XDTG` | “The reaction (1) of the DSC curve at T1⁄4 1118 K corresponds to the transformation dhcp-Nd(Zr)þhcp-Zr(Nd)2bcc-Nd(Zr).” |
+| Phase transition | 1167 K | 1167 | hcp Zr(Nd)2bcc-Zr(Nd)þ bcc-Nd(Zr) | experimental | [1] Mattern 2014 | p. 2; `ORC-JMMLEQUHIT` | “At T1⁄4 1167 K, DSC event (2), the transformation hcp Zr(Nd)2bcc-Zr(Nd)þ bcc-Nd(Zr) takes place.” |
+| Phase transition | 1256.2 K | 1256.2 | Liquid + (αNd)/(αNd) | experimental | [2] Cheng 2014 | Table III, p. 7, row 3; `ORC-4HS7FC5ZQM` |  |
+| Phase transition | 1260 K | 1260 | Liquid + (αNd)/(αNd) | unspecified | [2] Cheng 2014 | Table III, p. 7, row 4; `ORC-HMC4TLEP2L` |  |
+| Phase transition | 1263 K | 1263 | Liquid + (βZr) ↔ (αNd) | experimental | [2] Cheng 2014 | Table III, p. 7, row 9; `ORC-SATWDIO3LK` |  |
+| Phase transition | 1265.9 K | 1265.9 | Liquid + (βZr) ↔ (αNd) | experimental | [2] Cheng 2014 | Table III, p. 7, row 17; `ORC-UWO442TH2L` |  |
+| Phase transition | 1266 K | 1266 | Liquid + (βZr) ↔ (αNd) | experimental | [2] Cheng 2014 | Table III, p. 7, row 13; `ORC-6CJH56SA5C` |  |
+| Phase transition | 1266.3 K | 1266.3 | Liquid + (βZr) ↔ (αNd) | experimental | [2] Cheng 2014 | Table III, p. 7, row 5; `ORC-6JKUQMDH3T` |  |
+| Phase transition | 1266.4 K | 1266.4 | Liquid + (βZr) ↔ (αNd) | experimental | [2] Cheng 2014 | Table III, p. 7, row 37; `ORC-DBDJDEWMC3` |  |
+| Phase transition | 1266.6 K | 1266.6 | Liquid + (βZr) ↔ (αNd) | experimental | [2] Cheng 2014 | Table III, p. 7, row 29; `ORC-CESTBFLYTF` |  |
+| Phase transition | 1268 K | 1268 | Liquid + (βZr) ↔ (αNd) | unspecified | [2] Cheng 2014 | Table III, p. 7, row 22; `ORC-GJ6MKO5Z23` |  |
+| Phase transition | 1268 K | 1268 | Liquid + (βZr) ↔ (αNd) | experimental | [2] Cheng 2014 | Table III, p. 7, row 21; `ORC-U3UXEGFWBU` |  |
+| Phase transition | 1268 K | 1268 | other | experimental | [2] Cheng 2014 | p. 6; `ORC-7R3BDAJJSL.de4d94` | “There are two thermal signals in most of the Nd-Zr alloys, indicating two invariant reactions at 1268 K and 1112 K (995 °C and 839 °C), while the overlapped peaks are detected in the alloy 1 when comparing the DSC curves with a heating rate of 5 K/min to that of 2 K/min, as shown in Figure 10.” |
+| Phase transition | 1269.5 K | 1269.5 | Liquid + (βZr) ↔ (αNd) | experimental | [2] Cheng 2014 | Table III, p. 7, row 25; `ORC-O5VEBBM4QZ` |  |
+| Phase transition | 1270.3 K | 1270.3 | Liquid + (βZr) ↔ (αNd) | experimental | [2] Cheng 2014 | Table III, p. 7, row 33; `ORC-XH4XTU7H74` |  |
 
 ### Phase equilibrium (3)
 
@@ -106,9 +106,9 @@ Table: Phase equilibrium, Nd–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  |  | Nd-dendrite + Eutectic; _Nd-dendrite: Nd 0.96, Zr 0.04; Eutectic: Nd 0.924, Zr 0.076_ | experimental | [1] Mattern 2014 | Table 1, p. 4, row 1 |  |
-| Phase composition |  |  | Zr-dendrites + Nd-dendrite + Eutectic; _Zr-dendrites: Nd 0.044, Zr 0.956; Nd-dendrite: Nd 0.952, Zr 0.048; Eutectic: Nd 0.923, Zr 0.077_ | experimental | [1] Mattern 2014 | Table 1, p. 4, row 2 |  |
-| Phase composition |  |  | Zr-dendrites + Nd-dendrite + Eutectic; _Zr-dendrites: Nd 0.05, Zr 0.95; Nd-dendrite: Nd 0.945, Zr 0.055; Eutectic: Nd 0.92, Zr 0.08_ | experimental | [1] Mattern 2014 | Table 1, p. 4, row 3 |  |
+| Phase composition |  |  | Nd-dendrite + Eutectic; _Nd-dendrite: Nd 0.96, Zr 0.04; Eutectic: Nd 0.924, Zr 0.076_ | experimental | [1] Mattern 2014 | Table 1, p. 4, row 1; `ORC-YOLAMNHABO` |  |
+| Phase composition |  |  | Zr-dendrites + Nd-dendrite + Eutectic; _Zr-dendrites: Nd 0.044, Zr 0.956; Nd-dendrite: Nd 0.952, Zr 0.048; Eutectic: Nd 0.923, Zr 0.077_ | experimental | [1] Mattern 2014 | Table 1, p. 4, row 2; `ORC-4GMA2RYEZD` |  |
+| Phase composition |  |  | Zr-dendrites + Nd-dendrite + Eutectic; _Zr-dendrites: Nd 0.05, Zr 0.95; Nd-dendrite: Nd 0.945, Zr 0.055; Eutectic: Nd 0.92, Zr 0.08_ | experimental | [1] Mattern 2014 | Table 1, p. 4, row 3; `ORC-ECXLRNZTZ2` |  |
 
 ## Sources
 
@@ -174,4 +174,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -88,83 +88,83 @@ Table: Invariant reactions reported in the literature for the Nb–Ni system (77
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1677.15 | Liq. -> Ni3Nb | Liq.: Nb 0.25, Ni 0.75; Ni3Nb: Nb 0.25, Ni 0.75 | experimental | [1] Zhou 2020; _cites Chen 2005_ [doi](https://doi.org/10.1007/s10853-005-4553-4) | Table VII, p. 14, row 9 |  |
-| 1676.15 | Liq. -> Ni3Nb | Liq.: Nb 0.25; Ni3Nb: Nb 0.25 | experimental | [1] Zhou 2020; _cites Pogodin 1941_ | Table VII, p. 14, row 7 |  |
-| 1675.15 | Liq. -> Ni3Nb | Liq.: Nb 0.25; Ni3Nb: Nb 0.25 | model | [1] Zhou 2020 | Table VII, p. 14, row 6 |  |
-| 1675.15 | Liq. -> Ni3Nb | Liq.: Nb 0.25; Ni3Nb: Nb 0.25 | experimental | [1] Zhou 2020; _cites Duerden 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990083-x) | Table VII, p. 14, row 8 |  |
-| 1675 | congruent melting: L \<-> Ni3Nb | L: Nb 0.249; Ni3Nb: Nb 0.249 | model | [2] Bolcavage 1996 | Table 3, p. 6, row 1 |  |
-| 1675 | congruent melting: L \<-> Ni3Nb | L: Nb 0.25; Ni3Nb: Nb 0.25 | experimental | [2] Bolcavage 1996; _cites Duerden 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990083-x) | Table 3, p. 6, row 2 |  |
-| 1672 | congruent melting: L \<-> Ni3Nb | L: Nb 0.252; Ni3Nb: Nb 0.252 | model | [2] Bolcavage 1996; _cites ref. 92Kej1_ | Table 3, p. 6, row 3 |  |
-| 1580.15 | Liq. + bcc(Nb) -> NiNb | Liq.: Nb 0.537; bcc(Nb): Nb 0.946; NiNb: Nb 0.556 | model | [1] Zhou 2020 | Table VII, p. 14, row 14 |  |
-| 1577.15 | peritectic: L + bcc -> µ |  | experimental | [3] Chen 2006; _cites Chen 2005_ [doi](https://doi.org/10.1007/s10853-005-4553-4) | Table 4, p. 7, row 19 |  |
-| 1577 | peritectic: Liquid + BCC ↔ μ-Nb7Ni6 | μ-Nb7Ni6: Ni 0.461538 | experimental | [4] Sun 2023; _cites Chen 2005_ [doi](https://doi.org/10.1007/s10853-005-4553-4) | Table 7, p. 34, row 18 |  |
-| 1575.15 | Liq. + bcc(Nb) -> NiNb | NiNb: Nb 0.5, Ni 0.5 | experimental | [1] Zhou 2020; _cites Chen 2005_ [doi](https://doi.org/10.1007/s10853-005-4553-4) | Table VII, p. 14, row 16 |  |
-| 1568.15 | peritectic: L + bcc -> µ | L: Ni 0.5; bcc: Ni 0.46; µ: Ni 0.045 | experimental | [3] Chen 2006; _cites Ardell 1994_ | Table 4, p. 7, row 17 |  |
-| 1568.15 | Liq. + bcc(Nb) -> NiNb | Liq.: Nb 0.5; bcc(Nb): Nb 0.955; NiNb: Nb 0.54 | experimental | [1] Zhou 2020; _cites Duerden 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990083-x) | Table VII, p. 14, row 15 |  |
-| 1568 | peritectic: L \<-> μ + bcc(Nb) | L: Nb 0.509; μ: Nb 0.553; bcc(Nb): Nb 0.958 | model | [2] Bolcavage 1996 | Table 3, p. 6, row 10 |  |
-| 1568 | peritectic: Liquid + BCC ↔ μ-Nb7Ni6 | Liquid: Ni 0.5; BCC: Ni 0.045; μ-Nb7Ni6: Ni 0.46 | experimental | [4] Sun 2023; _cites Duerden 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990083-x) | Table 7, p. 34, row 17 |  |
-| 1568 | peritectic: Liq -> µ + bcc |  | experimental | [5] Joubert 2004; _cites Duerden 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990083-x) | Table 3, p. 5, row 10 |  |
-| 1568 | peritectic: L \<-> μ + bcc(Nb) | L: Nb 0.5; μ: Nb 0.54; bcc(Nb): Nb 0.955 | experimental | [2] Bolcavage 1996; _cites Duerden 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990083-x) | Table 3, p. 6, row 11 |  |
-| 1564.15 | eutectic: L -> fcc + NbNi3 | NbNi3: Ni 0.75 | model | [3] Chen 2006; _cites Joubert 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.09.004) | Table 4, p. 7, row 4 |  |
-| 1564 | peritectic: L \<-> μ + bcc(Nb) | L: Nb 0.534; μ: Nb 0.545; bcc(Nb): Nb 0.956 | model | [2] Bolcavage 1996; _cites ref. 92Kej1_ | Table 3, p. 6, row 12 |  |
-| 1564 | eutectic: Liq -> fcc + NbNi3 | NbNi3: Ni 0.75 | model | [5] Joubert 2004 | Table 3, p. 5, row 5 |  |
-| 1563.15 | peritectic: L + bcc -> µ | L: Ni 0.47; bcc: Ni 0.412; µ: Ni 0.047 | model | [3] Chen 2006 | Table 4, p. 7, row 21 |  |
-| 1563.15 | peritectic: L + bcc -> µ |  | model | [3] Chen 2006; _cites Joubert 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.09.004) | Table 4, p. 7, row 20 |  |
-| 1563.15 | peritectic: L + bcc -> µ |  | experimental | [3] Chen 2006; _cites Duerden 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990083-x) | Table 4, p. 7, row 18 |  |
-| 1563 | peritectic: Liquid + BCC ↔ μ-Nb7Ni6 | Liquid: Ni 0.47; BCC: Ni 0.047; μ-Nb7Ni6: Ni 0.412 | model | [4] Sun 2023; _cites Chen 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.02.005) | Table 7, p. 34, row 16 |  |
-| 1563 | peritectic: Liq -> µ + bcc |  | model | [5] Joubert 2004 | Table 3, p. 5, row 9 |  |
-| 1561 | peritectic: Liquid + BCC ↔ μ-Nb7Ni6 | Liquid: Ni 0.492; BCC: Ni 0.041; μ-Nb7Ni6: Ni 0.413 | model | [4] Sun 2023 | Table 7, p. 34, row 15 |  |
-| 1560 | eutectic: L \<-> fcc(Ni) + Ni3Nb | L: Nb 0.155; fcc(Ni): Nb 0.123; Ni3Nb: Nb 0.238 | model | [2] Bolcavage 1996; _cites ref. 92Kej1_ | Table 3, p. 6, row 6 |  |
-| 1558.15 | Liq. -> fcc(Ni) + Ni3Nb | Ni3Nb: Nb 0.25, Ni 0.75 | experimental | [1] Zhou 2020; _cites Chen 2005_ [doi](https://doi.org/10.1007/s10853-005-4553-4) | Table VII, p. 14, row 5 |  |
-| 1558.15 | eutectic: L -> fcc + NbNi3 | NbNi3: Ni 0.75 | experimental | [3] Chen 2006; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 4, p. 7, row 2 |  |
-| 1558.15 | Liq. -> fcc(Ni) + Ni3Nb | Liq.: Nb 0.16; fcc(Ni): Nb 0.142; Ni3Nb: Nb 0.243 | model | [1] Zhou 2020 | Table VII, p. 14, row 1 |  |
-| 1558.15 | eutectic: L -> fcc + NbNi3 | NbNi3: Ni 0.75 | experimental | [3] Chen 2006; _cites Chen 2005_ [doi](https://doi.org/10.1007/s10853-005-4553-4) | Table 4, p. 7, row 3 |  |
-| 1558 | eutectic: Liquid ↔ FCC + δ-NbNi3 | δ-NbNi3: Ni 0.75 | experimental | [4] Sun 2023; _cites Chen 2005_ [doi](https://doi.org/10.1007/s10853-005-4553-4) | Table 7, p. 34, row 4 |  |
-| 1557.15 | eutectic: L -> fcc + NbNi3 | L: Ni 0.851; fcc: Ni 0.873; NbNi3: Ni 0.759 | model | [3] Chen 2006 | Table 4, p. 7, row 5 |  |
-| 1557 | eutectic: Liquid ↔ FCC + δ-NbNi3 | Liquid: Ni 0.851; FCC: Ni 0.873; δ-NbNi3: Ni 0.759 | model | [4] Sun 2023; _cites Chen 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.02.005) | Table 7, p. 34, row 2 |  |
-| 1555.15 | Liq. -> fcc(Ni) + Ni3Nb | Liq.: Nb 0.16; fcc(Ni): Nb 0.127; Ni3Nb: Nb 0.226 | experimental | [1] Zhou 2020; _cites Duerden 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990083-x) | Table VII, p. 14, row 4 |  |
-| 1555.15 | eutectic: L -> fcc + NbNi3 | L: Ni 0.84; fcc: Ni 0.873; NbNi3: Ni 0.774 | experimental | [3] Chen 2006; _cites Ardell 1994_ | Table 4, p. 7, row 1 |  |
-| 1555 | eutectic: L \<-> fcc(Ni) + Ni3Nb | L: Nb 0.16; fcc(Ni): Nb 0.127; Ni3Nb: Nb 0.226 | experimental | [2] Bolcavage 1996; _cites Duerden 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990083-x) | Table 3, p. 6, row 5 |  |
-| 1555 | eutectic: Liquid ↔ FCC + δ-NbNi3 | Liquid: Ni 0.84; FCC: Ni 0.873; δ-NbNi3: Ni 0.774 | experimental | [4] Sun 2023; _cites Duerden 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990083-x) | Table 7, p. 34, row 3 |  |
-| 1555 | eutectic: L \<-> fcc(Ni) + Ni3Nb | L: Nb 0.148; fcc(Ni): Nb 0.124; Ni3Nb: Nb 0.227 | model | [2] Bolcavage 1996 | Table 3, p. 6, row 4 |  |
-| 1555 | eutectic: Liq -> fcc + NbNi3 | NbNi3: Ni 0.75 | experimental | [5] Joubert 2004; _cites Duerden 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990083-x) | Table 3, p. 5, row 6 |  |
-| 1550 | eutectic: Liquid ↔ FCC + δ-NbNi3 | Liquid: Ni 0.838; FCC: Ni 0.863; δ-NbNi3: Ni 0.762 | model | [4] Sun 2023 | Table 7, p. 34, row 1 |  |
-| 1543.15 | Liq. -> fcc(Ni) + Ni3Nb | Liq.: Nb 0.162; Ni3Nb: Nb 0.25, Ni 0.75 | experimental | [1] Zhou 2020; _cites Pogodin 1941_ | Table VII, p. 14, row 3 |  |
-| 1538.15 | Liq. -> fcc(Ni) + Ni3Nb | Ni3Nb: Nb 0.25, Ni 0.75 | experimental | [1] Zhou 2020; _cites Grube 1939_ | Table VII, p. 14, row 2 |  |
-| 1459 | eutectic: Liquid ↔ δ-NbNi3 + μ-Nb7Ni6 | Liquid: Ni 0.601; δ-NbNi3: Ni 0.728; μ-Nb7Ni6: Ni 0.516 | model | [4] Sun 2023 | Table 7, p. 34, row 10 |  |
-| 1457.15 | eutectic: L -> NbNi3 + µ | L: Ni 0.585; NbNi3: Ni 0.735; µ: Ni 0.5 | model | [3] Chen 2006 | Table 4, p. 7, row 16 |  |
-| 1457 | eutectic: Liquid ↔ δ-NbNi3 + μ-Nb7Ni6 | Liquid: Ni 0.585; δ-NbNi3: Ni 0.735; μ-Nb7Ni6: Ni 0.5 | model | [4] Sun 2023; _cites Chen 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.02.005) | Table 7, p. 34, row 11 |  |
-| 1454.15 | eutectic: L -> NbNi3 + µ | NbNi3: Ni 0.75 | model | [3] Chen 2006; _cites Joubert 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.09.004) | Table 4, p. 7, row 15 |  |
-| 1454 | eutectic: Liq -> NbNi3 + µ | NbNi3: Ni 0.75 | model | [5] Joubert 2004 | Table 3, p. 5, row 7 |  |
-| 1453.15 | Liq. -> Ni3Nb + NiNb | Liq.: Nb 0.398; Ni3Nb: Nb 0.271; NiNb: Nb 0.487 | model | [1] Zhou 2020 | Table VII, p. 14, row 10 |  |
-| 1453.15 | eutectic: L -> NbNi3 + µ | NbNi3: Ni 0.75 | experimental | [3] Chen 2006; _cites Chen 2005_ [doi](https://doi.org/10.1007/s10853-005-4553-4) | Table 4, p. 7, row 14 |  |
-| 1453.15 | Liq. -> Ni3Nb + NiNb | Ni3Nb: Nb 0.25, Ni 0.75; NiNb: Nb 0.5, Ni 0.5 | experimental | [1] Zhou 2020; _cites Chen 2005_ [doi](https://doi.org/10.1007/s10853-005-4553-4) | Table VII, p. 14, row 13 |  |
-| 1453 | eutectic: Liquid ↔ δ-NbNi3 + μ-Nb7Ni6 | δ-NbNi3: Ni 0.75; μ-Nb7Ni6: Ni 0.461538 | experimental | [4] Sun 2023; _cites Chen 2005_ [doi](https://doi.org/10.1007/s10853-005-4553-4) | Table 7, p. 34, row 14 |  |
-| 1451 | eutectic: L \<-> Ni3Nb + μ | L: Nb 0.405; Ni3Nb: Nb 0.279; μ: Nb 0.496 | model | [2] Bolcavage 1996; _cites ref. 92Kej1_ | Table 3, p. 6, row 9 |  |
-| 1448.15 | eutectic: L -> NbNi3 + µ | NbNi3: Ni 0.75 | experimental | [3] Chen 2006; _cites Duerden 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990083-x) | Table 4, p. 7, row 12 |  |
-| 1448.15 | eutectic: L -> NbNi3 + µ | L: Ni 0.595; NbNi3: Ni 0.725; µ: Ni 0.5 | experimental | [3] Chen 2006; _cites Ardell 1994_ | Table 4, p. 7, row 11 |  |
-| 1448.15 | Liq. -> Ni3Nb + NiNb | Liq.: Nb 0.405; Ni3Nb: Nb 0.275; NiNb: Nb 0.5 | experimental | [1] Zhou 2020; _cites Duerden 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990083-x) | Table VII, p. 14, row 12 |  |
-| 1448.15 | eutectic: L -> NbNi3 + µ | NbNi3: Ni 0.75 | experimental | [3] Chen 2006; _cites Pogodin 1941_ | Table 4, p. 7, row 13 |  |
-| 1448.15 | Liq. -> Ni3Nb + NiNb | Liq.: Nb 0.402; Ni3Nb: Nb 0.25, Ni 0.75; NiNb: Nb 0.5, Ni 0.5 | experimental | [1] Zhou 2020; _cites Pogodin 1941_ | Table VII, p. 14, row 11 |  |
-| 1448 | eutectic: Liq -> NbNi3 + µ | NbNi3: Ni 0.75 | experimental | [5] Joubert 2004; _cites Duerden 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990083-x) | Table 3, p. 5, row 8 |  |
-| 1448 | eutectic: L \<-> Ni3Nb + μ | L: Nb 0.409; Ni3Nb: Nb 0.275; μ: Nb 0.506 | model | [2] Bolcavage 1996 | Table 3, p. 6, row 7 |  |
-| 1448 | eutectic: L \<-> Ni3Nb + μ | L: Nb 0.405; Ni3Nb: Nb 0.275; μ: Nb 0.5 | experimental | [2] Bolcavage 1996; _cites Duerden 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990083-x) | Table 3, p. 6, row 8 |  |
-| 1448 | eutectic: Liquid ↔ δ-NbNi3 + μ-Nb7Ni6 | δ-NbNi3: Ni 0.75; μ-Nb7Ni6: Ni 0.461538 | experimental | [4] Sun 2023; _cites Pogodin 1941_ | Table 7, p. 34, row 13 |  |
-| 1448 | eutectic: Liquid ↔ δ-NbNi3 + μ-Nb7Ni6 | Liquid: Ni 0.595; δ-NbNi3: Ni 0.725; μ-Nb7Ni6: Ni 0.5 | experimental | [4] Sun 2023; _cites Duerden 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990083-x) | Table 7, p. 34, row 12 |  |
-| 810 | peritectoid: NbNi8 -> fcc + NbNi3 | NbNi8: Ni 0.888889; NbNi3: Ni 0.75 | model | [5] Joubert 2004 | Table 3, p. 5, row 3 |  |
-| 808.15 | fcc(Ni) + Ni3Nb -> Ni8Nb | Ni3Nb: Nb 0.25, Ni 0.75; Ni8Nb: Nb 0.111111, Ni 0.888889 | experimental | [1] Zhou 2020; _cites C 1971_ | Table VII, p. 14, row 18 |  |
-| 808.15 | peritectoid: Fcc + NbNi3 -> NbNi8 | NbNi3: Ni 0.75; NbNi8: Ni 0.888889 | experimental | [3] Chen 2006; _cites Wekken 1971_ [doi](https://doi.org/10.1179/030634571790439487) | Table 4, p. 7, row 22 |  |
-| 808 | peritectoid: NbNi8 -> fcc + NbNi3 | NbNi8: Ni 0.888889; NbNi3: Ni 0.75 | experimental | [5] Joubert 2004; _cites C 1971_ | Table 3, p. 5, row 4 |  |
-| 808 | peritectic: FCC + δ-NbNi3 ↔ NbNi8 | δ-NbNi3: Ni 0.75; NbNi8: Ni 0.888889 | experimental | [4] Sun 2023; _cites C 1971_ | Table 7, p. 34, row 21 |  |
-| 808 | peritectoid: (Ni) + Ni3Nb = Ni8Nb |  | experimental | [2] Bolcavage 1996; _cites Quist 1970_ | p. 2 | “Another intermediate phase, Ni8Nb, was suggested by \[69Qui\], \[71Wek\], and \[72Wek\]; it forms via a peritectoid reaction at 808 K between (Ni) and Ni3Nb.” |
-| 806.15 | peritectoid: Fcc + NbNi3 -> NbNi8 | NbNi3: Ni 0.75; NbNi8: Ni 0.888889 | model | [3] Chen 2006; _cites Joubert 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.09.004) | Table 4, p. 7, row 24 |  |
-| 800 | peritectic: FCC + δ-NbNi3 ↔ NbNi8 | FCC: Ni 0.9161; δ-NbNi3: Ni 0.759; NbNi8: Ni 0.889 | model | [4] Sun 2023 | Table 7, p. 34, row 19 |  |
-| 788.15 | fcc(Ni) + Ni3Nb -> Ni8Nb | fcc(Ni): Nb 0.06; Ni3Nb: Nb 0.245; Ni8Nb: Nb 0.111 | model | [1] Zhou 2020 | Table VII, p. 14, row 17 |  |
-| 788.15 | peritectoid: Fcc + NbNi3 -> NbNi8 | NbNi3: Ni 0.75; NbNi8: Ni 0.888889 | model | [3] Chen 2006 | Table 4, p. 7, row 25 |  |
-| 788.15 | fcc(Ni) + Ni3Nb -> Ni8Nb | Ni3Nb: Nb 0.25, Ni 0.75; Ni8Nb: Nb 0.111111, Ni 0.888889 | experimental | [1] Zhou 2020; _cites Chen 2005_ [doi](https://doi.org/10.1007/s10853-005-4553-4) | Table VII, p. 14, row 19 |  |
-| 788.15 | peritectoid: Fcc + NbNi3 -> NbNi8 | NbNi3: Ni 0.75; NbNi8: Ni 0.888889 | experimental | [3] Chen 2006; _cites Chen 2005_ [doi](https://doi.org/10.1007/s10853-005-4553-4) | Table 4, p. 7, row 23 |  |
-| 788 | peritectic: FCC + δ-NbNi3 ↔ NbNi8 | δ-NbNi3: Ni 0.75; NbNi8: Ni 0.888889 | experimental | [4] Sun 2023; _cites Chen 2005_ [doi](https://doi.org/10.1007/s10853-005-4553-4) | Table 7, p. 34, row 22 |  |
-| 788 | peritectic: FCC + δ-NbNi3 ↔ NbNi8 | FCC: Ni 0.948; δ-NbNi3: Ni 0.758; NbNi8: Ni 0.889 | model | [4] Sun 2023; _cites Chen 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.02.005) | Table 7, p. 34, row 20 |  |
+| 1677.15 | Liq. -> Ni3Nb | Liq.: Nb 0.25, Ni 0.75; Ni3Nb: Nb 0.25, Ni 0.75 | experimental | [1] Zhou 2020; _cites Chen 2005_ [doi](https://doi.org/10.1007/s10853-005-4553-4) | Table VII, p. 14, row 9; `ORC-V7SXB36PJP` |  |
+| 1676.15 | Liq. -> Ni3Nb | Liq.: Nb 0.25; Ni3Nb: Nb 0.25 | experimental | [1] Zhou 2020; _cites Pogodin 1941_ | Table VII, p. 14, row 7; `ORC-W5YLUOLCZE` |  |
+| 1675.15 | Liq. -> Ni3Nb | Liq.: Nb 0.25; Ni3Nb: Nb 0.25 | model | [1] Zhou 2020 | Table VII, p. 14, row 6; `ORC-7T6YBVQHXO` |  |
+| 1675.15 | Liq. -> Ni3Nb | Liq.: Nb 0.25; Ni3Nb: Nb 0.25 | experimental | [1] Zhou 2020; _cites Duerden 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990083-x) | Table VII, p. 14, row 8; `ORC-IOFTZTEYEU` |  |
+| 1675 | congruent melting: L \<-> Ni3Nb | L: Nb 0.249; Ni3Nb: Nb 0.249 | model | [2] Bolcavage 1996 | Table 3, p. 6, row 1; `ORC-2Q2OV6KFET` |  |
+| 1675 | congruent melting: L \<-> Ni3Nb | L: Nb 0.25; Ni3Nb: Nb 0.25 | experimental | [2] Bolcavage 1996; _cites Duerden 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990083-x) | Table 3, p. 6, row 2; `ORC-JJE2YBGMPT` |  |
+| 1672 | congruent melting: L \<-> Ni3Nb | L: Nb 0.252; Ni3Nb: Nb 0.252 | model | [2] Bolcavage 1996; _cites ref. 92Kej1_ | Table 3, p. 6, row 3; `ORC-M6CSVEMNY2` |  |
+| 1580.15 | Liq. + bcc(Nb) -> NiNb | Liq.: Nb 0.537; bcc(Nb): Nb 0.946; NiNb: Nb 0.556 | model | [1] Zhou 2020 | Table VII, p. 14, row 14; `ORC-CMDOLNWMUX` |  |
+| 1577.15 | peritectic: L + bcc -> µ |  | experimental | [3] Chen 2006; _cites Chen 2005_ [doi](https://doi.org/10.1007/s10853-005-4553-4) | Table 4, p. 7, row 19; `ORC-RXZ7STK6AL` |  |
+| 1577 | peritectic: Liquid + BCC ↔ μ-Nb7Ni6 | μ-Nb7Ni6: Ni 0.461538 | experimental | [4] Sun 2023; _cites Chen 2005_ [doi](https://doi.org/10.1007/s10853-005-4553-4) | Table 7, p. 34, row 18; `ORC-AVRLYHFUO5` |  |
+| 1575.15 | Liq. + bcc(Nb) -> NiNb | NiNb: Nb 0.5, Ni 0.5 | experimental | [1] Zhou 2020; _cites Chen 2005_ [doi](https://doi.org/10.1007/s10853-005-4553-4) | Table VII, p. 14, row 16; `ORC-QGERH5SBD3` |  |
+| 1568.15 | peritectic: L + bcc -> µ | L: Ni 0.5; bcc: Ni 0.46; µ: Ni 0.045 | experimental | [3] Chen 2006; _cites Ardell 1994_ | Table 4, p. 7, row 17; `ORC-EF3SC5T6AL` |  |
+| 1568.15 | Liq. + bcc(Nb) -> NiNb | Liq.: Nb 0.5; bcc(Nb): Nb 0.955; NiNb: Nb 0.54 | experimental | [1] Zhou 2020; _cites Duerden 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990083-x) | Table VII, p. 14, row 15; `ORC-Y6NTTAWOJN` |  |
+| 1568 | peritectic: L \<-> μ + bcc(Nb) | L: Nb 0.509; μ: Nb 0.553; bcc(Nb): Nb 0.958 | model | [2] Bolcavage 1996 | Table 3, p. 6, row 10; `ORC-7Z6UYLATM4` |  |
+| 1568 | peritectic: Liquid + BCC ↔ μ-Nb7Ni6 | Liquid: Ni 0.5; BCC: Ni 0.045; μ-Nb7Ni6: Ni 0.46 | experimental | [4] Sun 2023; _cites Duerden 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990083-x) | Table 7, p. 34, row 17; `ORC-AUPHKDPRSU` |  |
+| 1568 | peritectic: Liq -> µ + bcc |  | experimental | [5] Joubert 2004; _cites Duerden 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990083-x) | Table 3, p. 5, row 10; `ORC-EN5OEQUBEP` |  |
+| 1568 | peritectic: L \<-> μ + bcc(Nb) | L: Nb 0.5; μ: Nb 0.54; bcc(Nb): Nb 0.955 | experimental | [2] Bolcavage 1996; _cites Duerden 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990083-x) | Table 3, p. 6, row 11; `ORC-LOXTL3EENY` |  |
+| 1564.15 | eutectic: L -> fcc + NbNi3 | NbNi3: Ni 0.75 | model | [3] Chen 2006; _cites Joubert 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.09.004) | Table 4, p. 7, row 4; `ORC-TLM6LMZUOB` |  |
+| 1564 | peritectic: L \<-> μ + bcc(Nb) | L: Nb 0.534; μ: Nb 0.545; bcc(Nb): Nb 0.956 | model | [2] Bolcavage 1996; _cites ref. 92Kej1_ | Table 3, p. 6, row 12; `ORC-5F3JAS5UVQ` |  |
+| 1564 | eutectic: Liq -> fcc + NbNi3 | NbNi3: Ni 0.75 | model | [5] Joubert 2004 | Table 3, p. 5, row 5; `ORC-HLPVVTHKTY` |  |
+| 1563.15 | peritectic: L + bcc -> µ | L: Ni 0.47; bcc: Ni 0.412; µ: Ni 0.047 | model | [3] Chen 2006 | Table 4, p. 7, row 21; `ORC-JRC2LQT24Z` |  |
+| 1563.15 | peritectic: L + bcc -> µ |  | model | [3] Chen 2006; _cites Joubert 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.09.004) | Table 4, p. 7, row 20; `ORC-JZPL7XLFJC` |  |
+| 1563.15 | peritectic: L + bcc -> µ |  | experimental | [3] Chen 2006; _cites Duerden 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990083-x) | Table 4, p. 7, row 18; `ORC-NWWKAC3GKV` |  |
+| 1563 | peritectic: Liquid + BCC ↔ μ-Nb7Ni6 | Liquid: Ni 0.47; BCC: Ni 0.047; μ-Nb7Ni6: Ni 0.412 | model | [4] Sun 2023; _cites Chen 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.02.005) | Table 7, p. 34, row 16; `ORC-4RP74VSX7U` |  |
+| 1563 | peritectic: Liq -> µ + bcc |  | model | [5] Joubert 2004 | Table 3, p. 5, row 9; `ORC-WZ5VFLYSOU` |  |
+| 1561 | peritectic: Liquid + BCC ↔ μ-Nb7Ni6 | Liquid: Ni 0.492; BCC: Ni 0.041; μ-Nb7Ni6: Ni 0.413 | model | [4] Sun 2023 | Table 7, p. 34, row 15; `ORC-5HGA6M3TOP` |  |
+| 1560 | eutectic: L \<-> fcc(Ni) + Ni3Nb | L: Nb 0.155; fcc(Ni): Nb 0.123; Ni3Nb: Nb 0.238 | model | [2] Bolcavage 1996; _cites ref. 92Kej1_ | Table 3, p. 6, row 6; `ORC-QYS4G5L4IE` |  |
+| 1558.15 | Liq. -> fcc(Ni) + Ni3Nb | Ni3Nb: Nb 0.25, Ni 0.75 | experimental | [1] Zhou 2020; _cites Chen 2005_ [doi](https://doi.org/10.1007/s10853-005-4553-4) | Table VII, p. 14, row 5; `ORC-5ZE4GQYKTA` |  |
+| 1558.15 | eutectic: L -> fcc + NbNi3 | NbNi3: Ni 0.75 | experimental | [3] Chen 2006; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 4, p. 7, row 2; `ORC-7FCW2C2PSM` |  |
+| 1558.15 | Liq. -> fcc(Ni) + Ni3Nb | Liq.: Nb 0.16; fcc(Ni): Nb 0.142; Ni3Nb: Nb 0.243 | model | [1] Zhou 2020 | Table VII, p. 14, row 1; `ORC-T5554VWNV6` |  |
+| 1558.15 | eutectic: L -> fcc + NbNi3 | NbNi3: Ni 0.75 | experimental | [3] Chen 2006; _cites Chen 2005_ [doi](https://doi.org/10.1007/s10853-005-4553-4) | Table 4, p. 7, row 3; `ORC-UIJBKAUNJN` |  |
+| 1558 | eutectic: Liquid ↔ FCC + δ-NbNi3 | δ-NbNi3: Ni 0.75 | experimental | [4] Sun 2023; _cites Chen 2005_ [doi](https://doi.org/10.1007/s10853-005-4553-4) | Table 7, p. 34, row 4; `ORC-TXLSZ6GN3L` |  |
+| 1557.15 | eutectic: L -> fcc + NbNi3 | L: Ni 0.851; fcc: Ni 0.873; NbNi3: Ni 0.759 | model | [3] Chen 2006 | Table 4, p. 7, row 5; `ORC-UYYAFLUB7N` |  |
+| 1557 | eutectic: Liquid ↔ FCC + δ-NbNi3 | Liquid: Ni 0.851; FCC: Ni 0.873; δ-NbNi3: Ni 0.759 | model | [4] Sun 2023; _cites Chen 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.02.005) | Table 7, p. 34, row 2; `ORC-SQ437WS6FP` |  |
+| 1555.15 | Liq. -> fcc(Ni) + Ni3Nb | Liq.: Nb 0.16; fcc(Ni): Nb 0.127; Ni3Nb: Nb 0.226 | experimental | [1] Zhou 2020; _cites Duerden 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990083-x) | Table VII, p. 14, row 4; `ORC-5YA3DKFXJU` |  |
+| 1555.15 | eutectic: L -> fcc + NbNi3 | L: Ni 0.84; fcc: Ni 0.873; NbNi3: Ni 0.774 | experimental | [3] Chen 2006; _cites Ardell 1994_ | Table 4, p. 7, row 1; `ORC-SY5XZQWV4G` |  |
+| 1555 | eutectic: L \<-> fcc(Ni) + Ni3Nb | L: Nb 0.16; fcc(Ni): Nb 0.127; Ni3Nb: Nb 0.226 | experimental | [2] Bolcavage 1996; _cites Duerden 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990083-x) | Table 3, p. 6, row 5; `ORC-2UOLPXJ4ND` |  |
+| 1555 | eutectic: Liquid ↔ FCC + δ-NbNi3 | Liquid: Ni 0.84; FCC: Ni 0.873; δ-NbNi3: Ni 0.774 | experimental | [4] Sun 2023; _cites Duerden 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990083-x) | Table 7, p. 34, row 3; `ORC-JEZHJXTUKT` |  |
+| 1555 | eutectic: L \<-> fcc(Ni) + Ni3Nb | L: Nb 0.148; fcc(Ni): Nb 0.124; Ni3Nb: Nb 0.227 | model | [2] Bolcavage 1996 | Table 3, p. 6, row 4; `ORC-QB7RL3FJ7L` |  |
+| 1555 | eutectic: Liq -> fcc + NbNi3 | NbNi3: Ni 0.75 | experimental | [5] Joubert 2004; _cites Duerden 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990083-x) | Table 3, p. 5, row 6; `ORC-YK5LYRA34G` |  |
+| 1550 | eutectic: Liquid ↔ FCC + δ-NbNi3 | Liquid: Ni 0.838; FCC: Ni 0.863; δ-NbNi3: Ni 0.762 | model | [4] Sun 2023 | Table 7, p. 34, row 1; `ORC-APHKKE7VY2` |  |
+| 1543.15 | Liq. -> fcc(Ni) + Ni3Nb | Liq.: Nb 0.162; Ni3Nb: Nb 0.25, Ni 0.75 | experimental | [1] Zhou 2020; _cites Pogodin 1941_ | Table VII, p. 14, row 3; `ORC-6P5D5LRWU2` |  |
+| 1538.15 | Liq. -> fcc(Ni) + Ni3Nb | Ni3Nb: Nb 0.25, Ni 0.75 | experimental | [1] Zhou 2020; _cites Grube 1939_ | Table VII, p. 14, row 2; `ORC-QDOEPJX5QE` |  |
+| 1459 | eutectic: Liquid ↔ δ-NbNi3 + μ-Nb7Ni6 | Liquid: Ni 0.601; δ-NbNi3: Ni 0.728; μ-Nb7Ni6: Ni 0.516 | model | [4] Sun 2023 | Table 7, p. 34, row 10; `ORC-Y5FIORLKYJ` |  |
+| 1457.15 | eutectic: L -> NbNi3 + µ | L: Ni 0.585; NbNi3: Ni 0.735; µ: Ni 0.5 | model | [3] Chen 2006 | Table 4, p. 7, row 16; `ORC-K26XW6CZXR` |  |
+| 1457 | eutectic: Liquid ↔ δ-NbNi3 + μ-Nb7Ni6 | Liquid: Ni 0.585; δ-NbNi3: Ni 0.735; μ-Nb7Ni6: Ni 0.5 | model | [4] Sun 2023; _cites Chen 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.02.005) | Table 7, p. 34, row 11; `ORC-74HHO5HDPQ` |  |
+| 1454.15 | eutectic: L -> NbNi3 + µ | NbNi3: Ni 0.75 | model | [3] Chen 2006; _cites Joubert 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.09.004) | Table 4, p. 7, row 15; `ORC-5TPNLHXK5S` |  |
+| 1454 | eutectic: Liq -> NbNi3 + µ | NbNi3: Ni 0.75 | model | [5] Joubert 2004 | Table 3, p. 5, row 7; `ORC-Y3U6A67U3N` |  |
+| 1453.15 | Liq. -> Ni3Nb + NiNb | Liq.: Nb 0.398; Ni3Nb: Nb 0.271; NiNb: Nb 0.487 | model | [1] Zhou 2020 | Table VII, p. 14, row 10; `ORC-4JCVH3VSGM` |  |
+| 1453.15 | eutectic: L -> NbNi3 + µ | NbNi3: Ni 0.75 | experimental | [3] Chen 2006; _cites Chen 2005_ [doi](https://doi.org/10.1007/s10853-005-4553-4) | Table 4, p. 7, row 14; `ORC-5NXHRVYNPA` |  |
+| 1453.15 | Liq. -> Ni3Nb + NiNb | Ni3Nb: Nb 0.25, Ni 0.75; NiNb: Nb 0.5, Ni 0.5 | experimental | [1] Zhou 2020; _cites Chen 2005_ [doi](https://doi.org/10.1007/s10853-005-4553-4) | Table VII, p. 14, row 13; `ORC-6Y6F7DB7IG` |  |
+| 1453 | eutectic: Liquid ↔ δ-NbNi3 + μ-Nb7Ni6 | δ-NbNi3: Ni 0.75; μ-Nb7Ni6: Ni 0.461538 | experimental | [4] Sun 2023; _cites Chen 2005_ [doi](https://doi.org/10.1007/s10853-005-4553-4) | Table 7, p. 34, row 14; `ORC-JLHOS2A4AS` |  |
+| 1451 | eutectic: L \<-> Ni3Nb + μ | L: Nb 0.405; Ni3Nb: Nb 0.279; μ: Nb 0.496 | model | [2] Bolcavage 1996; _cites ref. 92Kej1_ | Table 3, p. 6, row 9; `ORC-RB4VQUKS3I` |  |
+| 1448.15 | eutectic: L -> NbNi3 + µ | NbNi3: Ni 0.75 | experimental | [3] Chen 2006; _cites Duerden 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990083-x) | Table 4, p. 7, row 12; `ORC-5DGXAMIRGT` |  |
+| 1448.15 | eutectic: L -> NbNi3 + µ | L: Ni 0.595; NbNi3: Ni 0.725; µ: Ni 0.5 | experimental | [3] Chen 2006; _cites Ardell 1994_ | Table 4, p. 7, row 11; `ORC-GWIHKXT6UP` |  |
+| 1448.15 | Liq. -> Ni3Nb + NiNb | Liq.: Nb 0.405; Ni3Nb: Nb 0.275; NiNb: Nb 0.5 | experimental | [1] Zhou 2020; _cites Duerden 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990083-x) | Table VII, p. 14, row 12; `ORC-OPUCNV6TG7` |  |
+| 1448.15 | eutectic: L -> NbNi3 + µ | NbNi3: Ni 0.75 | experimental | [3] Chen 2006; _cites Pogodin 1941_ | Table 4, p. 7, row 13; `ORC-OZ4IGE6ICW` |  |
+| 1448.15 | Liq. -> Ni3Nb + NiNb | Liq.: Nb 0.402; Ni3Nb: Nb 0.25, Ni 0.75; NiNb: Nb 0.5, Ni 0.5 | experimental | [1] Zhou 2020; _cites Pogodin 1941_ | Table VII, p. 14, row 11; `ORC-PDLRZMLHV2` |  |
+| 1448 | eutectic: Liq -> NbNi3 + µ | NbNi3: Ni 0.75 | experimental | [5] Joubert 2004; _cites Duerden 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990083-x) | Table 3, p. 5, row 8; `ORC-4TZDTWZOSW` |  |
+| 1448 | eutectic: L \<-> Ni3Nb + μ | L: Nb 0.409; Ni3Nb: Nb 0.275; μ: Nb 0.506 | model | [2] Bolcavage 1996 | Table 3, p. 6, row 7; `ORC-7AEJ52TBJZ` |  |
+| 1448 | eutectic: L \<-> Ni3Nb + μ | L: Nb 0.405; Ni3Nb: Nb 0.275; μ: Nb 0.5 | experimental | [2] Bolcavage 1996; _cites Duerden 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990083-x) | Table 3, p. 6, row 8; `ORC-DJHUCFA65Q` |  |
+| 1448 | eutectic: Liquid ↔ δ-NbNi3 + μ-Nb7Ni6 | δ-NbNi3: Ni 0.75; μ-Nb7Ni6: Ni 0.461538 | experimental | [4] Sun 2023; _cites Pogodin 1941_ | Table 7, p. 34, row 13; `ORC-OXHYOUAFQ4` |  |
+| 1448 | eutectic: Liquid ↔ δ-NbNi3 + μ-Nb7Ni6 | Liquid: Ni 0.595; δ-NbNi3: Ni 0.725; μ-Nb7Ni6: Ni 0.5 | experimental | [4] Sun 2023; _cites Duerden 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990083-x) | Table 7, p. 34, row 12; `ORC-TZ2NK2AG5X` |  |
+| 810 | peritectoid: NbNi8 -> fcc + NbNi3 | NbNi8: Ni 0.888889; NbNi3: Ni 0.75 | model | [5] Joubert 2004 | Table 3, p. 5, row 3; `ORC-GNHCJUJ7MR` |  |
+| 808.15 | fcc(Ni) + Ni3Nb -> Ni8Nb | Ni3Nb: Nb 0.25, Ni 0.75; Ni8Nb: Nb 0.111111, Ni 0.888889 | experimental | [1] Zhou 2020; _cites C 1971_ | Table VII, p. 14, row 18; `ORC-6XSLWX7LUB` |  |
+| 808.15 | peritectoid: Fcc + NbNi3 -> NbNi8 | NbNi3: Ni 0.75; NbNi8: Ni 0.888889 | experimental | [3] Chen 2006; _cites Wekken 1971_ [doi](https://doi.org/10.1179/030634571790439487) | Table 4, p. 7, row 22; `ORC-WGQCPYT4L5` |  |
+| 808 | peritectoid: NbNi8 -> fcc + NbNi3 | NbNi8: Ni 0.888889; NbNi3: Ni 0.75 | experimental | [5] Joubert 2004; _cites C 1971_ | Table 3, p. 5, row 4; `ORC-LPWA4XJUSH` |  |
+| 808 | peritectic: FCC + δ-NbNi3 ↔ NbNi8 | δ-NbNi3: Ni 0.75; NbNi8: Ni 0.888889 | experimental | [4] Sun 2023; _cites C 1971_ | Table 7, p. 34, row 21; `ORC-TPSDOQZNVA` |  |
+| 808 | peritectoid: (Ni) + Ni3Nb = Ni8Nb |  | experimental | [2] Bolcavage 1996; _cites Quist 1970_ | p. 2; `ORC-TQJOZJORDS` | “Another intermediate phase, Ni8Nb, was suggested by \[69Qui\], \[71Wek\], and \[72Wek\]; it forms via a peritectoid reaction at 808 K between (Ni) and Ni3Nb.” |
+| 806.15 | peritectoid: Fcc + NbNi3 -> NbNi8 | NbNi3: Ni 0.75; NbNi8: Ni 0.888889 | model | [3] Chen 2006; _cites Joubert 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.09.004) | Table 4, p. 7, row 24; `ORC-SDEG3BPTDQ` |  |
+| 800 | peritectic: FCC + δ-NbNi3 ↔ NbNi8 | FCC: Ni 0.9161; δ-NbNi3: Ni 0.759; NbNi8: Ni 0.889 | model | [4] Sun 2023 | Table 7, p. 34, row 19; `ORC-DYQDWA23PX` |  |
+| 788.15 | fcc(Ni) + Ni3Nb -> Ni8Nb | fcc(Ni): Nb 0.06; Ni3Nb: Nb 0.245; Ni8Nb: Nb 0.111 | model | [1] Zhou 2020 | Table VII, p. 14, row 17; `ORC-6CDNC5QQQO` |  |
+| 788.15 | peritectoid: Fcc + NbNi3 -> NbNi8 | NbNi3: Ni 0.75; NbNi8: Ni 0.888889 | model | [3] Chen 2006 | Table 4, p. 7, row 25; `ORC-GCHYAK7CS3` |  |
+| 788.15 | fcc(Ni) + Ni3Nb -> Ni8Nb | Ni3Nb: Nb 0.25, Ni 0.75; Ni8Nb: Nb 0.111111, Ni 0.888889 | experimental | [1] Zhou 2020; _cites Chen 2005_ [doi](https://doi.org/10.1007/s10853-005-4553-4) | Table VII, p. 14, row 19; `ORC-GEEPIN2LGC` |  |
+| 788.15 | peritectoid: Fcc + NbNi3 -> NbNi8 | NbNi3: Ni 0.75; NbNi8: Ni 0.888889 | experimental | [3] Chen 2006; _cites Chen 2005_ [doi](https://doi.org/10.1007/s10853-005-4553-4) | Table 4, p. 7, row 23; `ORC-K75THPNOW7` |  |
+| 788 | peritectic: FCC + δ-NbNi3 ↔ NbNi8 | δ-NbNi3: Ni 0.75; NbNi8: Ni 0.888889 | experimental | [4] Sun 2023; _cites Chen 2005_ [doi](https://doi.org/10.1007/s10853-005-4553-4) | Table 7, p. 34, row 22; `ORC-6EVNHL4YVY` |  |
+| 788 | peritectic: FCC + δ-NbNi3 ↔ NbNi8 | FCC: Ni 0.948; δ-NbNi3: Ni 0.758; NbNi8: Ni 0.889 | model | [4] Sun 2023; _cites Chen 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.02.005) | Table 7, p. 34, row 20; `ORC-7V5IMWMZN6` |  |
 
 ## Formation enthalpies
 
@@ -174,51 +174,51 @@ Table: Enthalpies of formation, Nb–Ni system (45)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| D0_22 |  | -62.279 kJ/mol (basis unstated) | 0 | unspecified |  |  | [6] Mathon 2009 | Table 2, p. 10, row 18 |  |
-| D0_22 |  | -62 kJ/mol (basis unstated) | 0 | unspecified |  |  | [6] Mathon 2009 | Table 2, p. 10, row 18 |  |
-| D0_22 |  | -55.726 kJ/mol (basis unstated) | 0 | unspecified |  |  | [6] Mathon 2009 | Table 2, p. 10, row 18 |  |
-| D0_22 |  | 5.84 kJ/mol (basis unstated) | 0 | unspecified |  |  | [6] Mathon 2009 | Table 2, p. 10, row 21 |  |
-| D0_22 |  | 8.025 kJ/mol (basis unstated) | 0 | unspecified |  |  | [6] Mathon 2009 | Table 2, p. 10, row 21 |  |
-| D0_22 |  | 102 kJ/mol (basis unstated) | 0 | unspecified |  |  | [6] Mathon 2009 | Table 2, p. 10, row 21 |  |
-| D0_a |  | -141.202 kJ/mol (basis unstated) | 0 | unspecified |  |  | [6] Mathon 2009 | Table 2, p. 10, row 9 |  |
-| D0_a |  | -127.831 kJ/mol (basis unstated) | 0 | unspecified |  |  | [6] Mathon 2009 | Table 2, p. 10, row 9 |  |
-| D0_a |  | -121.261 kJ/mol (basis unstated) | 0 | unspecified |  |  | [6] Mathon 2009 | Table 2, p. 10, row 9 |  |
-| D0_a |  | 5.627 kJ/mol (basis unstated) | 0 | unspecified |  |  | [6] Mathon 2009 | Table 2, p. 10, row 12 |  |
-| D0_a |  | 7.811 kJ/mol (basis unstated) | 0 | unspecified |  |  | [6] Mathon 2009 | Table 2, p. 10, row 12 |  |
-| D0_a |  | 181.202 kJ/mol (basis unstated) | 0 | unspecified |  |  | [6] Mathon 2009 | Table 2, p. 10, row 12 |  |
-| D8_5 |  | -312.098 kJ/mol (basis unstated) | 0 | unspecified |  |  | [6] Mathon 2009 | Table 2, p. 10, row 3 |  |
-| D8_5 |  | -295.532 kJ/mol (basis unstated) | 0 | unspecified |  |  | [6] Mathon 2009 | Table 2, p. 10, row 3 |  |
-| D8_5 |  | -280.241 kJ/mol (basis unstated) | 0 | unspecified |  |  | [6] Mathon 2009 | Table 2, p. 10, row 3 |  |
-| Nb7Ni6 | [Nb7Ni6](https://data.orchid-project.org/compounds/Nb7Ni6.html) | -23 kJ/mol-atom | 298.15 | experimental | -19.894 (mp-aaackvmr) | -19.955 (oqmd-30782) | [7] Santhy 2015; _cites Hultgren 1973_ | Table 6, p. 4, row 3 |  |
-| Nb7Ni6 | [Nb7Ni6](https://data.orchid-project.org/compounds/Nb7Ni6.html) | -23 kJ/mol-atom ± 3 | 600.15 | experimental | -19.894 (mp-aaackvmr) | -19.955 (oqmd-30782) | [7] Santhy 2015; _cites Kubaschewski 2015_ | Table 6, p. 4, row 2 |  |
-| Nb7Ni6 |  | -22.5 kJ/mol-atom | 0 | DFT |  |  | [7] Santhy 2015 | Table 6, p. 4, row 5 |  |
-| Nb7Ni6 | [Nb7Ni6](https://data.orchid-project.org/compounds/Nb7Ni6.html) | -22.47 kJ/mol-atom ± 2.2 | 298.15 | experimental | -19.894 (mp-aaackvmr) | -19.955 (oqmd-30782) | [7] Santhy 2015; _cites Argent 1959_ | Table 6, p. 4, row 1 |  |
-| Nb7Ni6 | [Nb7Ni6](https://data.orchid-project.org/compounds/Nb7Ni6.html) | -20.76 kJ/mol-atom | 298.15 | model | -19.894 (mp-aaackvmr) | -19.955 (oqmd-30782) | [7] Santhy 2015; _cites Niessen 1988_ [doi](https://doi.org/10.1016/0921-4526%2888%2990002-6) | Table 6, p. 4, row 4 |  |
-| NbNi3 |  | -33.41 kJ/mol-atom |  | DFT |  |  | [7] Santhy 2015; _cites Ravindran 1996_ [doi](https://doi.org/10.1103/physrevb.53.1129) | Table 6, p. 4, row 10 |  |
-| NbNi3 |  | -33.409 kJ/mol (basis unstated) | 298.15 | DFT |  |  | [5] Joubert 2004; _cites Ravindran 1996_ [doi](https://doi.org/10.1103/physrevb.53.1129) | Table 4, p. 5, row 5 |  |
-| NbNi3 | [NbNi3](https://data.orchid-project.org/compounds/NbNi3.html) | -32 kJ/mol-atom | 298.15 | model | -28.233 (mp-aaaaacdv) | -28.755 (oqmd-30781) | [7] Santhy 2015; _cites Niessen 1988_ [doi](https://doi.org/10.1016/0921-4526%2888%2990002-6) | Table 6, p. 4, row 9 |  |
-| NbNi3 | [NbNi3](https://data.orchid-project.org/compounds/NbNi3.html) | -32 kJ/mol-atom ± 2 | 600.15 | experimental | -28.233 (mp-aaaaacdv) | -28.755 (oqmd-30781) | [7] Santhy 2015; _cites Kubaschewski 2015_ | Table 6, p. 4, row 7 |  |
-| NbNi3 | [NbNi3](https://data.orchid-project.org/compounds/NbNi3.html) | -32 kJ/mol-atom | 298.15 | experimental | -28.233 (mp-aaaaacdv) | -28.755 (oqmd-30781) | [7] Santhy 2015; _cites Hultgren 1973_ | Table 6, p. 4, row 8 |  |
-| NbNi3 |  | -31.714 kJ/mol (basis unstated) ± 2.552 | 298.15 | experimental |  |  | [5] Joubert 2004; _cites Argent 1959_ | Table 4, p. 5, row 4 |  |
-| NbNi3 | [NbNi3](https://data.orchid-project.org/compounds/NbNi3.html) | -31.71 kJ/mol-atom ± 2.5 | 298.15 | experimental | -28.233 (mp-aaaaacdv) | -28.755 (oqmd-30781) | [7] Santhy 2015; _cites Argent 1959_ | Table 6, p. 4, row 6 |  |
-| NbNi3 |  | -31.2 kJ/mol-atom | 0 | DFT |  |  | [7] Santhy 2015 | Table 6, p. 4, row 11 |  |
-| NbNi3 |  | -30.645 kJ/mol (basis unstated) | 298.15 | model |  |  | [5] Joubert 2004 | Table 4, p. 5, row 3 |  |
-| NbNi8 |  | -14.49 kJ/mol (basis unstated) | 298.15 | model |  |  | [5] Joubert 2004; _cites F 1988_ | Table 4, p. 5, row 2 |  |
-| NbNi8 |  | -14.488 kJ/mol (basis unstated) | 298.15 | model |  |  | [5] Joubert 2004 | Table 4, p. 5, row 1 |  |
-| Ni3Nb | [NbNi3](https://data.orchid-project.org/compounds/NbNi3.html) | -33.925 kJ/mol-atom | 298.15 | model | -28.233 (mp-aaaaacdv) | -28.755 (oqmd-30781) | [2] Bolcavage 1996 | Table 4, p. 8, row 1 |  |
-| Ni3Nb | [NbNi3](https://data.orchid-project.org/compounds/NbNi3.html) | -31.715 kJ/mol-atom ± 2.218 | 298.15 | experimental | -28.233 (mp-aaaaacdv) | -28.755 (oqmd-30781) | [2] Bolcavage 1996; _cites Argent 1959_ | Table 4, p. 8, row 2 |  |
-| δ-NbNi3 | [NbNi3](https://data.orchid-project.org/compounds/NbNi3.html) | -31.71 kJ/mol-atom | 298.15 | experimental | -28.233 (mp-aaaaacdv) | -28.755 (oqmd-30781) | [4] Sun 2023; _cites Argent 1959_ | Table 6, p. 33, row 2 |  |
-| δ-NbNi3 |  | -28.51 kJ/mol-atom | 298.15 | DFT |  |  | [4] Sun 2023 | Table 6, p. 33, row 1 |  |
-| δ-NbNi3 |  | -28.38 kJ/mol-atom | 0 | DFT |  |  | [4] Sun 2023 | Table 6, p. 33, row 1 |  |
-| μ |  | -22.468 kJ/mol (basis unstated) ± 2.218 | 298.15 | experimental |  |  | [5] Joubert 2004; _cites Argent 1959_ | Table 4, p. 5, row 7 |  |
-| μ |  | -20.761 kJ/mol (basis unstated) | 298.15 | model |  |  | [5] Joubert 2004 | Table 4, p. 5, row 6 |  |
-| μ-Nb7Ni6 + µ-Nb7Ni6 | [Nb7Ni6](https://data.orchid-project.org/compounds/Nb7Ni6.html) | -22.45 kJ/mol-atom | 298.15 | experimental | -19.894 (mp-aaackvmr) | -19.955 (oqmd-30782) | [4] Sun 2023; _cites Argent 1959_ | Table 6, p. 33, row 5 |  |
-| μ-Nb7Ni6 + µ-Nb7Ni6 |  | -20.63 kJ/mol-atom | 0 | DFT |  |  | [4] Sun 2023 | Table 6, p. 33, row 3 |  |
-| μ-Nb7Ni6 + µ-Nb7Ni6 |  | -20.5 kJ/mol-atom | 0 | DFT |  |  | [4] Sun 2023 | Table 6, p. 33, row 4 |  |
-| μ-Nb7Ni6 + µ-Nb7Ni6 |  | -20.43 kJ/mol-atom | 298.15 | DFT |  |  | [4] Sun 2023 | Table 6, p. 33, row 4 |  |
-| μ-Nb7Ni6 + µ-Nb7Ni6 |  | -20.38 kJ/mol-atom | 298.15 | DFT |  |  | [4] Sun 2023 | Table 6, p. 33, row 3 |  |
-| μNi7Nb6 | [Nb6Ni7](https://data.orchid-project.org/compounds/Nb6Ni7.html) | -22.468 kJ/mol-atom ± 2.552 | 298.15 | experimental | -20.338 (mp-aaackwrs) | -20.518 (oqmd-1791808) | [2] Bolcavage 1996; _cites Argent 1959_ | Table 4, p. 8, row 4 |  |
-| μNi7Nb6 | [Nb6Ni7](https://data.orchid-project.org/compounds/Nb6Ni7.html) | -21.596 kJ/mol-atom | 298.15 | model | -20.338 (mp-aaackwrs) | -20.518 (oqmd-1791808) | [2] Bolcavage 1996 | Table 4, p. 8, row 3 |  |
+| D0_22 |  | -62.279 kJ/mol (basis unstated) | 0 | unspecified |  |  | [6] Mathon 2009 | Table 2, p. 10, row 18; `ORC-SY7Q6SEEPP.926343` |  |
+| D0_22 |  | -62 kJ/mol (basis unstated) | 0 | unspecified |  |  | [6] Mathon 2009 | Table 2, p. 10, row 18; `ORC-SY7Q6SEEPP.a8df24` |  |
+| D0_22 |  | -55.726 kJ/mol (basis unstated) | 0 | unspecified |  |  | [6] Mathon 2009 | Table 2, p. 10, row 18; `ORC-SY7Q6SEEPP.0e1748` |  |
+| D0_22 |  | 5.84 kJ/mol (basis unstated) | 0 | unspecified |  |  | [6] Mathon 2009 | Table 2, p. 10, row 21; `ORC-MGBULPOR2J.a2cbec` |  |
+| D0_22 |  | 8.025 kJ/mol (basis unstated) | 0 | unspecified |  |  | [6] Mathon 2009 | Table 2, p. 10, row 21; `ORC-MGBULPOR2J.a025c3` |  |
+| D0_22 |  | 102 kJ/mol (basis unstated) | 0 | unspecified |  |  | [6] Mathon 2009 | Table 2, p. 10, row 21; `ORC-MGBULPOR2J.0f2aef` |  |
+| D0_a |  | -141.202 kJ/mol (basis unstated) | 0 | unspecified |  |  | [6] Mathon 2009 | Table 2, p. 10, row 9; `ORC-GJ7D7EX7R4.ebfb18` |  |
+| D0_a |  | -127.831 kJ/mol (basis unstated) | 0 | unspecified |  |  | [6] Mathon 2009 | Table 2, p. 10, row 9; `ORC-GJ7D7EX7R4.c60d12` |  |
+| D0_a |  | -121.261 kJ/mol (basis unstated) | 0 | unspecified |  |  | [6] Mathon 2009 | Table 2, p. 10, row 9; `ORC-GJ7D7EX7R4.30d461` |  |
+| D0_a |  | 5.627 kJ/mol (basis unstated) | 0 | unspecified |  |  | [6] Mathon 2009 | Table 2, p. 10, row 12; `ORC-AG5VOVX6O7.9e3b9a` |  |
+| D0_a |  | 7.811 kJ/mol (basis unstated) | 0 | unspecified |  |  | [6] Mathon 2009 | Table 2, p. 10, row 12; `ORC-AG5VOVX6O7.48a279` |  |
+| D0_a |  | 181.202 kJ/mol (basis unstated) | 0 | unspecified |  |  | [6] Mathon 2009 | Table 2, p. 10, row 12; `ORC-AG5VOVX6O7.99b732` |  |
+| D8_5 |  | -312.098 kJ/mol (basis unstated) | 0 | unspecified |  |  | [6] Mathon 2009 | Table 2, p. 10, row 3; `ORC-PNE2DCCEBG.c1a28e` |  |
+| D8_5 |  | -295.532 kJ/mol (basis unstated) | 0 | unspecified |  |  | [6] Mathon 2009 | Table 2, p. 10, row 3; `ORC-PNE2DCCEBG.83938f` |  |
+| D8_5 |  | -280.241 kJ/mol (basis unstated) | 0 | unspecified |  |  | [6] Mathon 2009 | Table 2, p. 10, row 3; `ORC-PNE2DCCEBG.18296f` |  |
+| Nb7Ni6 | [Nb7Ni6](https://data.orchid-project.org/compounds/Nb7Ni6.html) | -23 kJ/mol-atom | 298.15 | experimental | -19.894 (mp-aaackvmr) | -19.955 (oqmd-30782) | [7] Santhy 2015; _cites Hultgren 1973_ | Table 6, p. 4, row 3; `ORC-GUSR4DRJTM.dce290` |  |
+| Nb7Ni6 | [Nb7Ni6](https://data.orchid-project.org/compounds/Nb7Ni6.html) | -23 kJ/mol-atom ± 3 | 600.15 | experimental | -19.894 (mp-aaackvmr) | -19.955 (oqmd-30782) | [7] Santhy 2015; _cites Kubaschewski 2015_ | Table 6, p. 4, row 2; `ORC-V6DVVRGG5E.11e0a4` |  |
+| Nb7Ni6 |  | -22.5 kJ/mol-atom | 0 | DFT |  |  | [7] Santhy 2015 | Table 6, p. 4, row 5; `ORC-LFR5XFEABG.91d157` |  |
+| Nb7Ni6 | [Nb7Ni6](https://data.orchid-project.org/compounds/Nb7Ni6.html) | -22.47 kJ/mol-atom ± 2.2 | 298.15 | experimental | -19.894 (mp-aaackvmr) | -19.955 (oqmd-30782) | [7] Santhy 2015; _cites Argent 1959_ | Table 6, p. 4, row 1; `ORC-KNMXYXBOEW.6c652d` |  |
+| Nb7Ni6 | [Nb7Ni6](https://data.orchid-project.org/compounds/Nb7Ni6.html) | -20.76 kJ/mol-atom | 298.15 | model | -19.894 (mp-aaackvmr) | -19.955 (oqmd-30782) | [7] Santhy 2015; _cites Niessen 1988_ [doi](https://doi.org/10.1016/0921-4526%2888%2990002-6) | Table 6, p. 4, row 4; `ORC-KD3FJ3WKW4.84d5f6` |  |
+| NbNi3 |  | -33.41 kJ/mol-atom |  | DFT |  |  | [7] Santhy 2015; _cites Ravindran 1996_ [doi](https://doi.org/10.1103/physrevb.53.1129) | Table 6, p. 4, row 10; `ORC-CROOJNHYVK.52c640` |  |
+| NbNi3 |  | -33.409 kJ/mol (basis unstated) | 298.15 | DFT |  |  | [5] Joubert 2004; _cites Ravindran 1996_ [doi](https://doi.org/10.1103/physrevb.53.1129) | Table 4, p. 5, row 5; `ORC-PHZMG7MKWH` |  |
+| NbNi3 | [NbNi3](https://data.orchid-project.org/compounds/NbNi3.html) | -32 kJ/mol-atom | 298.15 | model | -28.233 (mp-aaaaacdv) | -28.755 (oqmd-30781) | [7] Santhy 2015; _cites Niessen 1988_ [doi](https://doi.org/10.1016/0921-4526%2888%2990002-6) | Table 6, p. 4, row 9; `ORC-24DNL2BNUS.80c931` |  |
+| NbNi3 | [NbNi3](https://data.orchid-project.org/compounds/NbNi3.html) | -32 kJ/mol-atom ± 2 | 600.15 | experimental | -28.233 (mp-aaaaacdv) | -28.755 (oqmd-30781) | [7] Santhy 2015; _cites Kubaschewski 2015_ | Table 6, p. 4, row 7; `ORC-VJ2BC6W776.4be015` |  |
+| NbNi3 | [NbNi3](https://data.orchid-project.org/compounds/NbNi3.html) | -32 kJ/mol-atom | 298.15 | experimental | -28.233 (mp-aaaaacdv) | -28.755 (oqmd-30781) | [7] Santhy 2015; _cites Hultgren 1973_ | Table 6, p. 4, row 8; `ORC-ZI3WR77ALH.34226d` |  |
+| NbNi3 |  | -31.714 kJ/mol (basis unstated) ± 2.552 | 298.15 | experimental |  |  | [5] Joubert 2004; _cites Argent 1959_ | Table 4, p. 5, row 4; `ORC-7VHDIGEALK.c13b02` |  |
+| NbNi3 | [NbNi3](https://data.orchid-project.org/compounds/NbNi3.html) | -31.71 kJ/mol-atom ± 2.5 | 298.15 | experimental | -28.233 (mp-aaaaacdv) | -28.755 (oqmd-30781) | [7] Santhy 2015; _cites Argent 1959_ | Table 6, p. 4, row 6; `ORC-33IFFGWUUH.08e033` |  |
+| NbNi3 |  | -31.2 kJ/mol-atom | 0 | DFT |  |  | [7] Santhy 2015 | Table 6, p. 4, row 11; `ORC-UWMR7VIUSG.009e3a` |  |
+| NbNi3 |  | -30.645 kJ/mol (basis unstated) | 298.15 | model |  |  | [5] Joubert 2004 | Table 4, p. 5, row 3; `ORC-JHUFEIXRVQ` |  |
+| NbNi8 |  | -14.49 kJ/mol (basis unstated) | 298.15 | model |  |  | [5] Joubert 2004; _cites F 1988_ | Table 4, p. 5, row 2; `ORC-C5JB7OIUD2` |  |
+| NbNi8 |  | -14.488 kJ/mol (basis unstated) | 298.15 | model |  |  | [5] Joubert 2004 | Table 4, p. 5, row 1; `ORC-XP5DVI4YZF` |  |
+| Ni3Nb | [NbNi3](https://data.orchid-project.org/compounds/NbNi3.html) | -33.925 kJ/mol-atom | 298.15 | model | -28.233 (mp-aaaaacdv) | -28.755 (oqmd-30781) | [2] Bolcavage 1996 | Table 4, p. 8, row 1; `ORC-L6HBAFL7TT` |  |
+| Ni3Nb | [NbNi3](https://data.orchid-project.org/compounds/NbNi3.html) | -31.715 kJ/mol-atom ± 2.218 | 298.15 | experimental | -28.233 (mp-aaaaacdv) | -28.755 (oqmd-30781) | [2] Bolcavage 1996; _cites Argent 1959_ | Table 4, p. 8, row 2; `ORC-H6CHGHX5XI` |  |
+| δ-NbNi3 | [NbNi3](https://data.orchid-project.org/compounds/NbNi3.html) | -31.71 kJ/mol-atom | 298.15 | experimental | -28.233 (mp-aaaaacdv) | -28.755 (oqmd-30781) | [4] Sun 2023; _cites Argent 1959_ | Table 6, p. 33, row 2; `ORC-MP75CMWX4X.7e46f8` |  |
+| δ-NbNi3 |  | -28.51 kJ/mol-atom | 298.15 | DFT |  |  | [4] Sun 2023 | Table 6, p. 33, row 1; `ORC-IOGJOZ7AOF.caffcc` |  |
+| δ-NbNi3 |  | -28.38 kJ/mol-atom | 0 | DFT |  |  | [4] Sun 2023 | Table 6, p. 33, row 1; `ORC-IOGJOZ7AOF.bba44e` |  |
+| μ |  | -22.468 kJ/mol (basis unstated) ± 2.218 | 298.15 | experimental |  |  | [5] Joubert 2004; _cites Argent 1959_ | Table 4, p. 5, row 7; `ORC-ANQNYSIMPU.f40d80` |  |
+| μ |  | -20.761 kJ/mol (basis unstated) | 298.15 | model |  |  | [5] Joubert 2004 | Table 4, p. 5, row 6; `ORC-LN3GRFSO4P` |  |
+| μ-Nb7Ni6 + µ-Nb7Ni6 | [Nb7Ni6](https://data.orchid-project.org/compounds/Nb7Ni6.html) | -22.45 kJ/mol-atom | 298.15 | experimental | -19.894 (mp-aaackvmr) | -19.955 (oqmd-30782) | [4] Sun 2023; _cites Argent 1959_ | Table 6, p. 33, row 5; `ORC-J7U4WVA25P.53a2b3` |  |
+| μ-Nb7Ni6 + µ-Nb7Ni6 |  | -20.63 kJ/mol-atom | 0 | DFT |  |  | [4] Sun 2023 | Table 6, p. 33, row 3; `ORC-KDDHYBPV3V.1f1c2c` |  |
+| μ-Nb7Ni6 + µ-Nb7Ni6 |  | -20.5 kJ/mol-atom | 0 | DFT |  |  | [4] Sun 2023 | Table 6, p. 33, row 4; `ORC-UZM6JPBUE2.c22fe6` |  |
+| μ-Nb7Ni6 + µ-Nb7Ni6 |  | -20.43 kJ/mol-atom | 298.15 | DFT |  |  | [4] Sun 2023 | Table 6, p. 33, row 4; `ORC-UZM6JPBUE2.b2325a` |  |
+| μ-Nb7Ni6 + µ-Nb7Ni6 |  | -20.38 kJ/mol-atom | 298.15 | DFT |  |  | [4] Sun 2023 | Table 6, p. 33, row 3; `ORC-KDDHYBPV3V.9e54ef` |  |
+| μNi7Nb6 | [Nb6Ni7](https://data.orchid-project.org/compounds/Nb6Ni7.html) | -22.468 kJ/mol-atom ± 2.552 | 298.15 | experimental | -20.338 (mp-aaackwrs) | -20.518 (oqmd-1791808) | [2] Bolcavage 1996; _cites Argent 1959_ | Table 4, p. 8, row 4; `ORC-U452T4WI3O` |  |
+| μNi7Nb6 | [Nb6Ni7](https://data.orchid-project.org/compounds/Nb6Ni7.html) | -21.596 kJ/mol-atom | 298.15 | model | -20.338 (mp-aaackwrs) | -20.518 (oqmd-1791808) | [2] Bolcavage 1996 | Table 4, p. 8, row 3; `ORC-2CIIM2LOVO` |  |
 
 ## Other properties
 
@@ -228,19 +228,19 @@ Table: Phase transition, Nb–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 808 K | 808 | other | experimental | [5] Joubert 2004; _cites C 1971_ | p. 2 | “In a second paper by van der Wekken et al. \[10\], it was demonstrated that it forms by a first order transformation at the critical temperature 808 K.” |
-| Phase transition | 1671 K | 1671 | congruent melting: Liq -> NbNi3; _L: Ni 0.75; NbNi3: Ni 0.75_ | model | [5] Joubert 2004 | Table 3, p. 5, row 1 |  |
-| Phase transition | 1671.15 K | 1671.15 | congruent melting: L -> NbNi3; _L: Ni 0.75; NbNi3: Ni 0.75_ | model | [3] Chen 2006; _cites Joubert 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.09.004) | Table 4, p. 7, row 9 |  |
-| Phase transition | 1672 K | 1672 | congruent melting: Liquid ↔ δ-NbNi3; _Liquid: Ni 0.75; δ-NbNi3: Ni 0.75_ | model | [4] Sun 2023; _cites Chen 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.02.005) | Table 7, p. 34, row 6 |  |
-| Phase transition | 1672.15 K | 1672.15 | congruent melting: L -> NbNi3; _L: Ni 0.75; NbNi3: Ni 0.75_ | model | [3] Chen 2006 | Table 4, p. 7, row 10 |  |
-| Phase transition | 1675 K | 1675 | congruent melting: Liq -> NbNi3; _L: Ni 0.75; NbNi3: Ni 0.75_ | experimental | [5] Joubert 2004; _cites Duerden 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990083-x) | Table 3, p. 5, row 2 |  |
-| Phase transition | 1675 K | 1675 | congruent melting: Liquid ↔ δ-NbNi3; _Liquid: Ni 0.75; δ-NbNi3: Ni 0.75_ | model | [4] Sun 2023 | Table 7, p. 34, row 5 |  |
-| Phase transition | 1675 K | 1675 | congruent melting: Liquid ↔ δ-NbNi3; _Liquid: Ni 0.75; δ-NbNi3: Ni 0.75_ | experimental | [4] Sun 2023; _cites Duerden 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990083-x) | Table 7, p. 34, row 7 |  |
-| Phase transition | 1675.15 K | 1675.15 | congruent melting: L -> NbNi3; _L: Ni 0.75; NbNi3: Ni 0.75_ | experimental | [3] Chen 2006; _cites Ardell 1994_ | Table 4, p. 7, row 6 |  |
-| Phase transition | 1676 K | 1676 | congruent melting: Liquid ↔ δ-NbNi3; _Liquid: Ni 0.75; δ-NbNi3: Ni 0.75_ | experimental | [4] Sun 2023; _cites Pogodin 1941_ | Table 7, p. 34, row 8 |  |
-| Phase transition | 1676.15 K | 1676.15 | congruent melting: L -> NbNi3; _L: Ni 0.75; NbNi3: Ni 0.75_ | experimental | [3] Chen 2006; _cites Pogodin 1941_ | Table 4, p. 7, row 7 |  |
-| Phase transition | 1677 K | 1677 | congruent melting: Liquid ↔ δ-NbNi3; _Liquid: Ni 0.75; δ-NbNi3: Ni 0.75_ | experimental | [4] Sun 2023; _cites Chen 2005_ [doi](https://doi.org/10.1007/s10853-005-4553-4) | Table 7, p. 34, row 9 |  |
-| Phase transition | 1677.15 K | 1677.15 | congruent melting: L -> NbNi3; _L: Ni 0.75; NbNi3: Ni 0.75_ | experimental | [3] Chen 2006; _cites Chen 2005_ [doi](https://doi.org/10.1007/s10853-005-4553-4) | Table 4, p. 7, row 8 |  |
+| Phase transition | 808 K | 808 | other | experimental | [5] Joubert 2004; _cites C 1971_ | p. 2; `ORC-2FI4XLJDIR` | “In a second paper by van der Wekken et al. \[10\], it was demonstrated that it forms by a first order transformation at the critical temperature 808 K.” |
+| Phase transition | 1671 K | 1671 | congruent melting: Liq -> NbNi3; _L: Ni 0.75; NbNi3: Ni 0.75_ | model | [5] Joubert 2004 | Table 3, p. 5, row 1; `ORC-LT2JBLTB2P` |  |
+| Phase transition | 1671.15 K | 1671.15 | congruent melting: L -> NbNi3; _L: Ni 0.75; NbNi3: Ni 0.75_ | model | [3] Chen 2006; _cites Joubert 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.09.004) | Table 4, p. 7, row 9; `ORC-M5IWA6U4WH` |  |
+| Phase transition | 1672 K | 1672 | congruent melting: Liquid ↔ δ-NbNi3; _Liquid: Ni 0.75; δ-NbNi3: Ni 0.75_ | model | [4] Sun 2023; _cites Chen 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.02.005) | Table 7, p. 34, row 6; `ORC-RMXE5IDFRT` |  |
+| Phase transition | 1672.15 K | 1672.15 | congruent melting: L -> NbNi3; _L: Ni 0.75; NbNi3: Ni 0.75_ | model | [3] Chen 2006 | Table 4, p. 7, row 10; `ORC-UYERU6HQKX` |  |
+| Phase transition | 1675 K | 1675 | congruent melting: Liq -> NbNi3; _L: Ni 0.75; NbNi3: Ni 0.75_ | experimental | [5] Joubert 2004; _cites Duerden 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990083-x) | Table 3, p. 5, row 2; `ORC-WQAIPS3TNQ` |  |
+| Phase transition | 1675 K | 1675 | congruent melting: Liquid ↔ δ-NbNi3; _Liquid: Ni 0.75; δ-NbNi3: Ni 0.75_ | model | [4] Sun 2023 | Table 7, p. 34, row 5; `ORC-3VJ6PUDLXY` |  |
+| Phase transition | 1675 K | 1675 | congruent melting: Liquid ↔ δ-NbNi3; _Liquid: Ni 0.75; δ-NbNi3: Ni 0.75_ | experimental | [4] Sun 2023; _cites Duerden 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990083-x) | Table 7, p. 34, row 7; `ORC-XEGEKFKNCD` |  |
+| Phase transition | 1675.15 K | 1675.15 | congruent melting: L -> NbNi3; _L: Ni 0.75; NbNi3: Ni 0.75_ | experimental | [3] Chen 2006; _cites Ardell 1994_ | Table 4, p. 7, row 6; `ORC-DRCXZBA4GD` |  |
+| Phase transition | 1676 K | 1676 | congruent melting: Liquid ↔ δ-NbNi3; _Liquid: Ni 0.75; δ-NbNi3: Ni 0.75_ | experimental | [4] Sun 2023; _cites Pogodin 1941_ | Table 7, p. 34, row 8; `ORC-LT653MCK27` |  |
+| Phase transition | 1676.15 K | 1676.15 | congruent melting: L -> NbNi3; _L: Ni 0.75; NbNi3: Ni 0.75_ | experimental | [3] Chen 2006; _cites Pogodin 1941_ | Table 4, p. 7, row 7; `ORC-XA63AKUUI4` |  |
+| Phase transition | 1677 K | 1677 | congruent melting: Liquid ↔ δ-NbNi3; _Liquid: Ni 0.75; δ-NbNi3: Ni 0.75_ | experimental | [4] Sun 2023; _cites Chen 2005_ [doi](https://doi.org/10.1007/s10853-005-4553-4) | Table 7, p. 34, row 9; `ORC-VWGEKXTLZM` |  |
+| Phase transition | 1677.15 K | 1677.15 | congruent melting: L -> NbNi3; _L: Ni 0.75; NbNi3: Ni 0.75_ | experimental | [3] Chen 2006; _cites Chen 2005_ [doi](https://doi.org/10.1007/s10853-005-4553-4) | Table 4, p. 7, row 8; `ORC-PSOLU3HRSJ` |  |
 
 ### Phase equilibrium (5)
 
@@ -248,11 +248,11 @@ Table: Phase equilibrium, Nb–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 1273 | µ-Nb7Ni6 + µ-Nb7Ni6 site 6c1 + µ-Nb7Ni6 site 6c2 + µ-Nb7Ni6 site 6c3 + µ-Nb7Ni6 site 18h + µ-Nb7Ni6 site 3a; _µ-Nb7Ni6 site 6c1: Nb 0.538462, Ni 0.461538; µ-Nb7Ni6 site 6c2: Nb 1, Ni 0; µ-Nb7Ni6 site 6c3: Nb 1, Ni 0; µ-Nb7Ni6 site 18h: Nb 0.16, Ni 0.84; µ-Nb7Ni6 site 3a: Nb 0.81, Ni 0.19_ | model | [4] Sun 2023 | Table 8, p. 35, row 5 |  |
-| Phase composition |  | 1273 | µ-Nb7Ni6 + µ-Nb7Ni6 site 6c1 + µ-Nb7Ni6 site 6c2 + µ-Nb7Ni6 site 6c3 + µ-Nb7Ni6 site 18h + µ-Nb7Ni6 site 3a; _µ-Nb7Ni6 site 6c1: Nb 0.67, Ni 0.33; µ-Nb7Ni6 site 6c2: Nb 0.85, Ni 0.15; µ-Nb7Ni6 site 6c3: Nb 0.95, Ni 0.05; µ-Nb7Ni6 site 18h: Nb 0.13, Ni 0.87; µ-Nb7Ni6 site 3a: Nb 0.74, Ni 0.26_ | model | [4] Sun 2023 | Table 8, p. 35, row 1 |  |
-| Phase composition |  | 1273 | µ-Nb7Ni6 + µ-Nb7Ni6 site 6c1 + µ-Nb7Ni6 site 6c2 + µ-Nb7Ni6 site 6c3 + µ-Nb7Ni6 site 18h + µ-Nb7Ni6 site 3a; _µ-Nb7Ni6 site 6c1: Nb 0.78, Ni 0.22; µ-Nb7Ni6 site 6c2: Nb 0.94, Ni 0.06; µ-Nb7Ni6 site 6c3: Nb 1, Ni 0; µ-Nb7Ni6 site 18h: Nb 0.1, Ni 0.9; µ-Nb7Ni6 site 3a: Nb 0.84, Ni 0.16_ | model | [4] Sun 2023 | Table 8, p. 35, row 3 |  |
-| Phase composition |  | 1273 | µ-Nb7Ni6 + µ-Nb7Ni6 site 6c1 + µ-Nb7Ni6 site 6c2 + µ-Nb7Ni6 site 6c3 + µ-Nb7Ni6 site 18h + µ-Nb7Ni6 site 3a; _µ-Nb7Ni6 site 6c1: Nb 0.89, Ni 0.11; µ-Nb7Ni6 site 6c2: Nb 1, Ni 0; µ-Nb7Ni6 site 6c3: Nb 0.89, Ni 0.11; µ-Nb7Ni6 site 18h: Nb 0.07, Ni 0.93; µ-Nb7Ni6 site 3a: Nb 0.77, Ni 0.23_ | model | [4] Sun 2023 | Table 8, p. 35, row 2 |  |
-| Phase composition |  | 1273 | µ-Nb7Ni6 + µ-Nb7Ni6 site 6c1 + µ-Nb7Ni6 site 6c2 + µ-Nb7Ni6 site 6c3 + µ-Nb7Ni6 site 18h + µ-Nb7Ni6 site 3a; _µ-Nb7Ni6 site 6c1: Nb 0.85, Ni 0.15; µ-Nb7Ni6 site 6c2: Nb 0.99, Ni 0.01; µ-Nb7Ni6 site 6c3: Nb 1, Ni 0; µ-Nb7Ni6 site 18h: Nb 0.12, Ni 0.88; µ-Nb7Ni6 site 3a: Nb 0.81, Ni 0.19_ | model | [4] Sun 2023 | Table 8, p. 35, row 4 |  |
+| Phase composition |  | 1273 | µ-Nb7Ni6 + µ-Nb7Ni6 site 6c1 + µ-Nb7Ni6 site 6c2 + µ-Nb7Ni6 site 6c3 + µ-Nb7Ni6 site 18h + µ-Nb7Ni6 site 3a; _µ-Nb7Ni6 site 6c1: Nb 0.538462, Ni 0.461538; µ-Nb7Ni6 site 6c2: Nb 1, Ni 0; µ-Nb7Ni6 site 6c3: Nb 1, Ni 0; µ-Nb7Ni6 site 18h: Nb 0.16, Ni 0.84; µ-Nb7Ni6 site 3a: Nb 0.81, Ni 0.19_ | model | [4] Sun 2023 | Table 8, p. 35, row 5; `ORC-74F2TKIZ7O` |  |
+| Phase composition |  | 1273 | µ-Nb7Ni6 + µ-Nb7Ni6 site 6c1 + µ-Nb7Ni6 site 6c2 + µ-Nb7Ni6 site 6c3 + µ-Nb7Ni6 site 18h + µ-Nb7Ni6 site 3a; _µ-Nb7Ni6 site 6c1: Nb 0.67, Ni 0.33; µ-Nb7Ni6 site 6c2: Nb 0.85, Ni 0.15; µ-Nb7Ni6 site 6c3: Nb 0.95, Ni 0.05; µ-Nb7Ni6 site 18h: Nb 0.13, Ni 0.87; µ-Nb7Ni6 site 3a: Nb 0.74, Ni 0.26_ | model | [4] Sun 2023 | Table 8, p. 35, row 1; `ORC-BETZVFAVXN` |  |
+| Phase composition |  | 1273 | µ-Nb7Ni6 + µ-Nb7Ni6 site 6c1 + µ-Nb7Ni6 site 6c2 + µ-Nb7Ni6 site 6c3 + µ-Nb7Ni6 site 18h + µ-Nb7Ni6 site 3a; _µ-Nb7Ni6 site 6c1: Nb 0.78, Ni 0.22; µ-Nb7Ni6 site 6c2: Nb 0.94, Ni 0.06; µ-Nb7Ni6 site 6c3: Nb 1, Ni 0; µ-Nb7Ni6 site 18h: Nb 0.1, Ni 0.9; µ-Nb7Ni6 site 3a: Nb 0.84, Ni 0.16_ | model | [4] Sun 2023 | Table 8, p. 35, row 3; `ORC-HFKM5XGDCG` |  |
+| Phase composition |  | 1273 | µ-Nb7Ni6 + µ-Nb7Ni6 site 6c1 + µ-Nb7Ni6 site 6c2 + µ-Nb7Ni6 site 6c3 + µ-Nb7Ni6 site 18h + µ-Nb7Ni6 site 3a; _µ-Nb7Ni6 site 6c1: Nb 0.89, Ni 0.11; µ-Nb7Ni6 site 6c2: Nb 1, Ni 0; µ-Nb7Ni6 site 6c3: Nb 0.89, Ni 0.11; µ-Nb7Ni6 site 18h: Nb 0.07, Ni 0.93; µ-Nb7Ni6 site 3a: Nb 0.77, Ni 0.23_ | model | [4] Sun 2023 | Table 8, p. 35, row 2; `ORC-M424XOOJW6` |  |
+| Phase composition |  | 1273 | µ-Nb7Ni6 + µ-Nb7Ni6 site 6c1 + µ-Nb7Ni6 site 6c2 + µ-Nb7Ni6 site 6c3 + µ-Nb7Ni6 site 18h + µ-Nb7Ni6 site 3a; _µ-Nb7Ni6 site 6c1: Nb 0.85, Ni 0.15; µ-Nb7Ni6 site 6c2: Nb 0.99, Ni 0.01; µ-Nb7Ni6 site 6c3: Nb 1, Ni 0; µ-Nb7Ni6 site 18h: Nb 0.12, Ni 0.88; µ-Nb7Ni6 site 3a: Nb 0.81, Ni 0.19_ | model | [4] Sun 2023 | Table 8, p. 35, row 4; `ORC-RPHJUZVTCP` |  |
 
 ### Crystal structure (7)
 
@@ -260,13 +260,13 @@ Table: Crystal structure, Nb–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Molar volume; _printed: V0_ | 13.91 Å3/atom | 0 | (Co,Ni)Nb; _alloy: Nb 0.461538, Ni 0.538462_ | DFT | [1] Zhou 2020 | Table V, p. 12, row 17 |  |
-| Molar volume; _printed: V0_ | 13.6 Å3/atom | 0 | (Co,Ni)Nb; _alloy: Nb 0.384615, Ni 0.615385_ | DFT | [1] Zhou 2020 | Table V, p. 12, row 16 |  |
-| Molar volume; _printed: V0_ | 14.51 Å3/atom | 0 | (Co,Ni)Nb; _alloy: Nb 0.538462, Ni 0.461538_ | DFT | [1] Zhou 2020 | Table V, p. 12, row 18 |  |
-| Molar volume; _printed: V0_ | 12.92 Å3/atom | 0 | (Co,Ni)Nb; _alloy: Nb 0.307692, Ni 0.692308_ | DFT | [1] Zhou 2020 | Table V, p. 12, row 15 |  |
-| Molar volume; _printed: V0_ | 12.4 Å3/atom | 0 | Ni3Nb; _alloy: Nb 0.25, Ni 0.75_ | DFT | [1] Zhou 2020 | Table V, p. 12, row 9 |  |
-| Molar volume; _printed: V0_ | 11.53 Å3/atom | 0 | Ni8Nb; _alloy: Nb 0.111111, Ni 0.888889_ | DFT | [1] Zhou 2020 | Table V, p. 12, row 8 |  |
-| Molar volume; _printed: V0_ | 12.39 Å3/atom | 0 | UNKNOWN; _alloy: Nb 0.25, Ni 0.75_ | DFT | [1] Zhou 2020 | Table V, p. 12, row 10 |  |
+| Molar volume; _printed: V0_ | 13.91 Å3/atom | 0 | (Co,Ni)Nb; _alloy: Nb 0.461538, Ni 0.538462_ | DFT | [1] Zhou 2020 | Table V, p. 12, row 17; `ORC-24E4DH4W56` |  |
+| Molar volume; _printed: V0_ | 13.6 Å3/atom | 0 | (Co,Ni)Nb; _alloy: Nb 0.384615, Ni 0.615385_ | DFT | [1] Zhou 2020 | Table V, p. 12, row 16; `ORC-3EMJ6CDNOS` |  |
+| Molar volume; _printed: V0_ | 14.51 Å3/atom | 0 | (Co,Ni)Nb; _alloy: Nb 0.538462, Ni 0.461538_ | DFT | [1] Zhou 2020 | Table V, p. 12, row 18; `ORC-4WYXHUXBKE` |  |
+| Molar volume; _printed: V0_ | 12.92 Å3/atom | 0 | (Co,Ni)Nb; _alloy: Nb 0.307692, Ni 0.692308_ | DFT | [1] Zhou 2020 | Table V, p. 12, row 15; `ORC-7ONHFWL6ZB` |  |
+| Molar volume; _printed: V0_ | 12.4 Å3/atom | 0 | Ni3Nb; _alloy: Nb 0.25, Ni 0.75_ | DFT | [1] Zhou 2020 | Table V, p. 12, row 9; `ORC-ZNQ5UXUN3L` |  |
+| Molar volume; _printed: V0_ | 11.53 Å3/atom | 0 | Ni8Nb; _alloy: Nb 0.111111, Ni 0.888889_ | DFT | [1] Zhou 2020 | Table V, p. 12, row 8; `ORC-XD7WZF2NYH` |  |
+| Molar volume; _printed: V0_ | 12.39 Å3/atom | 0 | UNKNOWN; _alloy: Nb 0.25, Ni 0.75_ | DFT | [1] Zhou 2020 | Table V, p. 12, row 10; `ORC-OUQ3UE6244` |  |
 
 ## Sources
 
@@ -337,4 +337,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -14,10 +14,10 @@ Table: Enthalpy of formation of Ho2Ni7 reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -40 kJ/mol-atom | Ho2Ni7 | 298.15 | model | Interpolation | [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html) | [1] Kardellass 2015 | Table 3, p. 4, row 24 |  |
-| -39.92 kJ/mol-atom | Ho2Ni7 | 298.15 | model | Optimization | [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html) | [1] Kardellass 2015 | Table 3, p. 4, row 25 |  |
-| -35 kJ/mol-atom | Ho2Ni7 | 298.15 | model | Prediction | [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html) | [1] Kardellass 2015; _cites de Boer FR 1989_ | Table 3, p. 4, row 23 |  |
-| -34 kJ/mol-atom | Ho2Ni7 | 298.15 | model | Calculation | [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html) | [1] Kardellass 2015; _cites Kayzel 1995_ | Table 3, p. 4, row 26 |  |
+| -40 kJ/mol-atom | Ho2Ni7 | 298.15 | model | Interpolation | [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html) | [1] Kardellass 2015 | Table 3, p. 4, row 24; `ORC-VJCN63SFEL.e5027d` |  |
+| -39.92 kJ/mol-atom | Ho2Ni7 | 298.15 | model | Optimization | [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html) | [1] Kardellass 2015 | Table 3, p. 4, row 25; `ORC-WVJV7M4Z6B.1fd85a` |  |
+| -35 kJ/mol-atom | Ho2Ni7 | 298.15 | model | Prediction | [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html) | [1] Kardellass 2015; _cites de Boer FR 1989_ | Table 3, p. 4, row 23; `ORC-Y2LL7I4JOT.b3ef01` |  |
+| -34 kJ/mol-atom | Ho2Ni7 | 298.15 | model | Calculation | [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html) | [1] Kardellass 2015; _cites Kayzel 1995_ | Table 3, p. 4, row 26; `ORC-FNIWTCE4PX.6c8d7f` |  |
 
 ### Uncertainty budget
 
@@ -96,4 +96,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

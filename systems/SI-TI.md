@@ -152,13 +152,13 @@ Table: Invariant reactions reported in the literature for the Si–Ti system (7)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2192.6 | peritectic: Liquid + Si3Ti5 -> Si4Ti5 | Liquid: Ti 0.509; Si3Ti5: Ti 0.602; Si4Ti5: Ti 0.555 | model | [1] Hämäläinen 1998 | Table I, p. 284, row 5 |  |
-| 1842.8 | peritectic: Liquid + Si4Ti5 -> SiTi | Liquid: Ti 0.396; Si4Ti5: Ti 0.556; SiTi: Ti 0.5 | model | [1] Hämäläinen 1998 | Table I, p. 284, row 4 |  |
-| 1747.4 | eutectic: Liquid -> Si2Ti + SiTi | Liquid: Ti 0.363; Si2Ti: Ti 0.333; SiTi: Ti 0.5 | model | [1] Hämäläinen 1998 | Table I, p. 284, row 2 |  |
-| 1613 | eutectic: Liquid -> Si3Ti5 + bcc-A2 | Liquid: Ti 0.869; Si3Ti5: Ti 0.644; bcc-A2: Ti 0.951 | model | [1] Hämäläinen 1998 | Table I, p. 284, row 7 |  |
-| 1604.3 | eutectic: Liquid -> diamond + Si2Ti | Liquid: Ti 0.185; diamond: Ti 0; Si2Ti: Ti 0.333 | model | [1] Hämäläinen 1998 | Table I, p. 284, row 1 |  |
-| 1443.2 | peritectoid: Si3Ti5 + bcc-A2 -> SiTi3 | Si3Ti5: Ti 0.641; bcc-A2: Ti 0.963; SiTi3: Ti 0.75 | model | [1] Hämäläinen 1998 | Table I, p. 284, row 8 |  |
-| 1139.4 | eutectoid: bcc-A2 -> SiTi3 + hcp-A3 | bcc-A2: Ti 0.988; SiTi3: Ti 0.75; hcp-A3: Ti 0.995 | model | [1] Hämäläinen 1998 | Table I, p. 284, row 9 |  |
+| 2192.6 | peritectic: Liquid + Si3Ti5 -> Si4Ti5 | Liquid: Ti 0.509; Si3Ti5: Ti 0.602; Si4Ti5: Ti 0.555 | model | [1] Hämäläinen 1998 | Table I, p. 284, row 5; `ORC-6U4FUWZWGI` |  |
+| 1842.8 | peritectic: Liquid + Si4Ti5 -> SiTi | Liquid: Ti 0.396; Si4Ti5: Ti 0.556; SiTi: Ti 0.5 | model | [1] Hämäläinen 1998 | Table I, p. 284, row 4; `ORC-VQE4ZMIDFS` |  |
+| 1747.4 | eutectic: Liquid -> Si2Ti + SiTi | Liquid: Ti 0.363; Si2Ti: Ti 0.333; SiTi: Ti 0.5 | model | [1] Hämäläinen 1998 | Table I, p. 284, row 2; `ORC-SSWXCBSGP3` |  |
+| 1613 | eutectic: Liquid -> Si3Ti5 + bcc-A2 | Liquid: Ti 0.869; Si3Ti5: Ti 0.644; bcc-A2: Ti 0.951 | model | [1] Hämäläinen 1998 | Table I, p. 284, row 7; `ORC-HNMNVQBJHS` |  |
+| 1604.3 | eutectic: Liquid -> diamond + Si2Ti | Liquid: Ti 0.185; diamond: Ti 0; Si2Ti: Ti 0.333 | model | [1] Hämäläinen 1998 | Table I, p. 284, row 1; `ORC-KT3NGU6H5S` |  |
+| 1443.2 | peritectoid: Si3Ti5 + bcc-A2 -> SiTi3 | Si3Ti5: Ti 0.641; bcc-A2: Ti 0.963; SiTi3: Ti 0.75 | model | [1] Hämäläinen 1998 | Table I, p. 284, row 8; `ORC-CHN6XEJLNM` |  |
+| 1139.4 | eutectoid: bcc-A2 -> SiTi3 + hcp-A3 | bcc-A2: Ti 0.988; SiTi3: Ti 0.75; hcp-A3: Ti 0.995 | model | [1] Hämäläinen 1998 | Table I, p. 284, row 9; `ORC-ACN7XDFF5S` |  |
 
 ## Formation enthalpies
 
@@ -168,10 +168,10 @@ Table: Enthalpies of formation, Si–Ti system (4)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Si3Ti(L12) |  | -4.51 kJ/mol-atom | 0 | DFT |  |  | [2] Tokunaga 2004 | Table 2, p. 3, row 8 |  |
-| SiTi(B2) |  | -26.67 kJ/mol-atom | 0 | DFT |  |  | [2] Tokunaga 2004 | Table 2, p. 3, row 4 |  |
-| Ti3Si(D024) |  | -42.33 kJ/mol-atom | 0 | DFT |  |  | [2] Tokunaga 2004 | Table 2, p. 3, row 14 |  |
-| Ti3Si(L12) |  | -41.57 kJ/mol-atom | 0 | DFT |  |  | [2] Tokunaga 2004 | Table 2, p. 3, row 9 |  |
+| Si3Ti(L12) |  | -4.51 kJ/mol-atom | 0 | DFT |  |  | [2] Tokunaga 2004 | Table 2, p. 3, row 8; `ORC-SOKHHML3PI.507b54` |  |
+| SiTi(B2) |  | -26.67 kJ/mol-atom | 0 | DFT |  |  | [2] Tokunaga 2004 | Table 2, p. 3, row 4; `ORC-M5DL2QNBRM.ddb5f2` |  |
+| Ti3Si(D024) |  | -42.33 kJ/mol-atom | 0 | DFT |  |  | [2] Tokunaga 2004 | Table 2, p. 3, row 14; `ORC-NMWC42EVHN.abd518` |  |
+| Ti3Si(L12) |  | -41.57 kJ/mol-atom | 0 | DFT |  |  | [2] Tokunaga 2004 | Table 2, p. 3, row 9; `ORC-NWFK2YKKAF.1b95a6` |  |
 
 ## Other properties
 
@@ -181,8 +181,8 @@ Table: Phase transition, Si–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1757 K | 1757 | congruent melting: Si2Ti -> Liquid; _Si2Ti: Ti 0.333; Liquid: Ti 0.333_ | model | [1] Hämäläinen 1998 | Table I, p. 284, row 3 |  |
-| Phase transition | 2394 K | 2394 | congruent melting: Si3Ti5 -> Liquid; _Si3Ti5: Ti 0.625; Liquid: Ti 0.625_ | model | [1] Hämäläinen 1998 | Table I, p. 284, row 6 |  |
+| Phase transition | 1757 K | 1757 | congruent melting: Si2Ti -> Liquid; _Si2Ti: Ti 0.333; Liquid: Ti 0.333_ | model | [1] Hämäläinen 1998 | Table I, p. 284, row 3; `ORC-L6R3XYAI2M` |  |
+| Phase transition | 2394 K | 2394 | congruent melting: Si3Ti5 -> Liquid; _Si3Ti5: Ti 0.625; Liquid: Ti 0.625_ | model | [1] Hämäläinen 1998 | Table I, p. 284, row 6; `ORC-V22O4MJJUD` |  |
 
 ### Crystal structure (5)
 
@@ -190,11 +190,11 @@ Table: Crystal structure, Si–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a; _printed: a_ | 3.8409 Å | 0 | Si3Ti(L12); _alloy: Si 0.75, Ti 0.25_ | DFT | [2] Tokunaga 2004 | Table 2, p. 3, row 8 |  |
-| Lattice a; _printed: a_ | 3.1161 Å | 0 | SiTi(B2); _alloy: Si 0.5, Ti 0.5_ | DFT | [2] Tokunaga 2004 | Table 2, p. 3, row 4 |  |
-| Lattice a; _printed: a_ | 5.6223 Å | 0 | Ti3Si(D024); _alloy: Si 0.25, Ti 0.75_ | DFT | [2] Tokunaga 2004 | Table 2, p. 3, row 14 |  |
-| Lattice a; _printed: a_ | 39.753 Å | 0 | Ti3Si(L12); _alloy: Si 0.25, Ti 0.75_ | DFT | [2] Tokunaga 2004 | Table 2, p. 3, row 9 |  |
-| Lattice c; _printed: c_ | 9.1503 Å | 0 | Ti3Si(D024); _alloy: Si 0.25, Ti 0.75_ | DFT | [2] Tokunaga 2004 | Table 2, p. 3, row 14 |  |
+| Lattice a; _printed: a_ | 3.8409 Å | 0 | Si3Ti(L12); _alloy: Si 0.75, Ti 0.25_ | DFT | [2] Tokunaga 2004 | Table 2, p. 3, row 8; `ORC-OFBN2BBTOG.8eb8a0` |  |
+| Lattice a; _printed: a_ | 3.1161 Å | 0 | SiTi(B2); _alloy: Si 0.5, Ti 0.5_ | DFT | [2] Tokunaga 2004 | Table 2, p. 3, row 4; `ORC-5CY2SJP2BB.357d4a` |  |
+| Lattice a; _printed: a_ | 5.6223 Å | 0 | Ti3Si(D024); _alloy: Si 0.25, Ti 0.75_ | DFT | [2] Tokunaga 2004 | Table 2, p. 3, row 14; `ORC-DFRE7YPWVK.05a571` |  |
+| Lattice a; _printed: a_ | 39.753 Å | 0 | Ti3Si(L12); _alloy: Si 0.25, Ti 0.75_ | DFT | [2] Tokunaga 2004 | Table 2, p. 3, row 9; `ORC-JK4YXYGXWZ.1d6581` |  |
+| Lattice c; _printed: c_ | 9.1503 Å | 0 | Ti3Si(D024); _alloy: Si 0.25, Ti 0.75_ | DFT | [2] Tokunaga 2004 | Table 2, p. 3, row 14; `ORC-DFRE7YPWVK.4dd438` |  |
 
 ## Sources
 
@@ -260,4 +260,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -29,28 +29,28 @@ Table: Phase transition, C–Li–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 697.15 K | 697.15 | C2 Ts0 | experimental | [1] Liang 2017 | Table 2, p. 4, row 8 |  |
-| Phase transition | 699.15 K | 699.15 | F Ts0 | experimental | [1] Liang 2017 | Table 2, p. 4, row 15 |  |
-| Phase transition | 700.15 K | 700.15 | B2 Ts0 | experimental | [1] Liang 2017 | Table 2, p. 4, row 1 |  |
-| Phase transition | 721.15 K | 721.15 | E2 Ts1 | experimental | [1] Liang 2017 | Table 2, p. 4, row 23 |  |
-| Phase transition | 722.15 K | 722.15 | F Ts1 | experimental | [1] Liang 2017 | Table 2, p. 4, row 16 |  |
-| Phase transition | 725.15 K | 725.15 | C2 Ts1 | experimental | [1] Liang 2017 | Table 2, p. 4, row 9 |  |
-| Phase transition | 726.15 K | 726.15 | B2 Ts1 | experimental | [1] Liang 2017 | Table 2, p. 4, row 2 |  |
-| Phase transition | 735.15 K | 735.15 | F Tp1 | experimental | [1] Liang 2017 | Table 2, p. 4, row 17 |  |
-| Phase transition | 736.15 K | 736.15 | C2 Tp1 | experimental | [1] Liang 2017 | Table 2, p. 4, row 10 |  |
-| Phase transition | 736.15 K | 736.15 | E2 Tp1 | experimental | [1] Liang 2017 | Table 2, p. 4, row 24 |  |
-| Phase transition | 737.15 K | 737.15 | B2 Tp1 | experimental | [1] Liang 2017 | Table 2, p. 4, row 3 |  |
-| Phase transition | 975.15 K | 975.15 | E2 Ts2 | experimental | [1] Liang 2017 | Table 2, p. 4, row 25 |  |
-| Phase transition | 983.15 K | 983.15 | E2 Tp2 | experimental | [1] Liang 2017 | Table 2, p. 4, row 26 |  |
-| Phase transition | 1009.15 K | 1009.15 | E2 Ts3 | experimental | [1] Liang 2017 | Table 2, p. 4, row 27 |  |
-| Phase transition | 1013.15 K | 1013.15 | C2 Ts2 | experimental | [1] Liang 2017 | Table 2, p. 4, row 11 |  |
-| Phase transition | 1016.15 K | 1016.15 | B2 Ts2 | experimental | [1] Liang 2017 | Table 2, p. 4, row 4 |  |
-| Phase transition | 1016.15 K | 1016.15 | F Ts2 | experimental | [1] Liang 2017 | Table 2, p. 4, row 18 |  |
-| Phase transition | 1022.15 K | 1022.15 | E2 Tp3 | experimental | [1] Liang 2017 | Table 2, p. 4, row 28 |  |
-| Phase transition | 1027.15 K | 1027.15 | C2 Tp2 | experimental | [1] Liang 2017 | Table 2, p. 4, row 12 |  |
-| Phase transition | 1030.15 K | 1030.15 | B2 Tp2 | experimental | [1] Liang 2017 | Table 2, p. 4, row 5 |  |
-| Phase transition | 1030.15 K | 1030.15 | F Tp2 | experimental | [1] Liang 2017 | Table 2, p. 4, row 19 |  |
-| Phase transition | 1080.15 K | 1080.15 | E2 Tp4 | experimental | [1] Liang 2017 | Table 2, p. 4, row 29 |  |
+| Phase transition | 697.15 K | 697.15 | C2 Ts0 | experimental | [1] Liang 2017 | Table 2, p. 4, row 8; `ORC-DXI66GGPPY` |  |
+| Phase transition | 699.15 K | 699.15 | F Ts0 | experimental | [1] Liang 2017 | Table 2, p. 4, row 15; `ORC-N6YVMEQDQO` |  |
+| Phase transition | 700.15 K | 700.15 | B2 Ts0 | experimental | [1] Liang 2017 | Table 2, p. 4, row 1; `ORC-KCJOU7TQJV` |  |
+| Phase transition | 721.15 K | 721.15 | E2 Ts1 | experimental | [1] Liang 2017 | Table 2, p. 4, row 23; `ORC-TLBVC7W4TQ` |  |
+| Phase transition | 722.15 K | 722.15 | F Ts1 | experimental | [1] Liang 2017 | Table 2, p. 4, row 16; `ORC-QGQJMD6LJI` |  |
+| Phase transition | 725.15 K | 725.15 | C2 Ts1 | experimental | [1] Liang 2017 | Table 2, p. 4, row 9; `ORC-YYG6SJWOKO` |  |
+| Phase transition | 726.15 K | 726.15 | B2 Ts1 | experimental | [1] Liang 2017 | Table 2, p. 4, row 2; `ORC-V76LYOAZB7` |  |
+| Phase transition | 735.15 K | 735.15 | F Tp1 | experimental | [1] Liang 2017 | Table 2, p. 4, row 17; `ORC-6VRUL35AGO` |  |
+| Phase transition | 736.15 K | 736.15 | C2 Tp1 | experimental | [1] Liang 2017 | Table 2, p. 4, row 10; `ORC-OWJDZQOD3J` |  |
+| Phase transition | 736.15 K | 736.15 | E2 Tp1 | experimental | [1] Liang 2017 | Table 2, p. 4, row 24; `ORC-PEODIPVEBA` |  |
+| Phase transition | 737.15 K | 737.15 | B2 Tp1 | experimental | [1] Liang 2017 | Table 2, p. 4, row 3; `ORC-UGICRL4GK5` |  |
+| Phase transition | 975.15 K | 975.15 | E2 Ts2 | experimental | [1] Liang 2017 | Table 2, p. 4, row 25; `ORC-7LE3R4IARE` |  |
+| Phase transition | 983.15 K | 983.15 | E2 Tp2 | experimental | [1] Liang 2017 | Table 2, p. 4, row 26; `ORC-UQ546W5QFC` |  |
+| Phase transition | 1009.15 K | 1009.15 | E2 Ts3 | experimental | [1] Liang 2017 | Table 2, p. 4, row 27; `ORC-NVHRPX5RGP` |  |
+| Phase transition | 1013.15 K | 1013.15 | C2 Ts2 | experimental | [1] Liang 2017 | Table 2, p. 4, row 11; `ORC-3GEIE6HQRZ` |  |
+| Phase transition | 1016.15 K | 1016.15 | B2 Ts2 | experimental | [1] Liang 2017 | Table 2, p. 4, row 4; `ORC-5HSLMUWMZL` |  |
+| Phase transition | 1016.15 K | 1016.15 | F Ts2 | experimental | [1] Liang 2017 | Table 2, p. 4, row 18; `ORC-OJIDRVU7NO` |  |
+| Phase transition | 1022.15 K | 1022.15 | E2 Tp3 | experimental | [1] Liang 2017 | Table 2, p. 4, row 28; `ORC-2LSKEVR756` |  |
+| Phase transition | 1027.15 K | 1027.15 | C2 Tp2 | experimental | [1] Liang 2017 | Table 2, p. 4, row 12; `ORC-ZC6C3KFJDM` |  |
+| Phase transition | 1030.15 K | 1030.15 | B2 Tp2 | experimental | [1] Liang 2017 | Table 2, p. 4, row 5; `ORC-AYOJTGMTA6` |  |
+| Phase transition | 1030.15 K | 1030.15 | F Tp2 | experimental | [1] Liang 2017 | Table 2, p. 4, row 19; `ORC-RZQSQQY7W3` |  |
+| Phase transition | 1080.15 K | 1080.15 | E2 Tp4 | experimental | [1] Liang 2017 | Table 2, p. 4, row 29; `ORC-322M2AWTDS` |  |
 
 ### Phase equilibrium (10)
 
@@ -58,16 +58,16 @@ Table: Phase equilibrium, C–Li–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase assemblage |  |  | Li7Si3 + αLi2C2; _alloy: C 0.07, Li 0.68, Si 0.25_ | experimental | [1] Liang 2017; _cites Drue 2015_ [doi](https://doi.org/10.1016/j.jallcom.2015.08.235) | Table 1, p. 2, row 6 |  |
-| Phase assemblage |  |  | Li7Si3 + αLi2C2 + SiC; _alloy: C 0.333, Li 0.334, Si 0.333_ | experimental | [1] Liang 2017; _cites Drue 2015_ [doi](https://doi.org/10.1016/j.jallcom.2015.08.235) | Table 1, p. 2, row 1 |  |
-| Phase assemblage |  | 903.15 | Li7Si3 + αLi2C2 + SiC; _alloy: C 0.07, Li 0.68, Si 0.25_ | experimental | [1] Liang 2017 | Table 1, p. 2, row 8 |  |
-| Phase assemblage |  | 903.15 | Li7Si3 + αLi2C2 + SiC; _alloy: C 0.07, Li 0.68, Si 0.25_ | experimental | [1] Liang 2017; _cites Drue 2015_ [doi](https://doi.org/10.1016/j.jallcom.2015.08.235) | Table 1, p. 2, row 7 |  |
-| Phase assemblage |  | 903.15 | Li7Si3 + αLi2C2 + SiC; _alloy: C 0.333, Li 0.334, Si 0.333_ | experimental | [1] Liang 2017 | Table 1, p. 2, row 5 |  |
-| Phase assemblage |  | 903.15 | Li7Si3 + αLi2C2 + SiC; _alloy: C 0.333, Li 0.334, Si 0.333_ | experimental | [1] Liang 2017; _cites Drue 2015_ [doi](https://doi.org/10.1016/j.jallcom.2015.08.235) | Table 1, p. 2, row 4 |  |
-| Phase assemblage |  | 923.15 | Li7Si3 + αLi2C2 + SiC; _alloy: C 0.333, Li 0.334, Si 0.333_ | experimental | [1] Liang 2017; _cites Drue 2015_ [doi](https://doi.org/10.1016/j.jallcom.2015.08.235) | Table 1, p. 2, row 2 |  |
-| Phase assemblage |  | 923.15 | Li7Si3 + αLi2C2 + SiC; _alloy: C 0.333, Li 0.334, Si 0.333_ | experimental | [1] Liang 2017 | Table 1, p. 2, row 3 |  |
-| Phase assemblage |  | 923.15 | Li7Si3 + αLi2C2 + SiC + C; _alloy: C 0.25, Li 0.55, Si 0.2_ | experimental | [1] Liang 2017 | Table 1, p. 2, row 9 |  |
-| Phase assemblage |  | 923.15 | Li7Si3 + αLi2C2 + SiC + C; _alloy: C 0.25, Li 0.55, Si 0.2_ | experimental | [1] Liang 2017 | Table 1, p. 2, row 10 |  |
+| Phase assemblage |  |  | Li7Si3 + αLi2C2; _alloy: C 0.07, Li 0.68, Si 0.25_ | experimental | [1] Liang 2017; _cites Drue 2015_ [doi](https://doi.org/10.1016/j.jallcom.2015.08.235) | Table 1, p. 2, row 6; `ORC-FF33YKIQ2U` |  |
+| Phase assemblage |  |  | Li7Si3 + αLi2C2 + SiC; _alloy: C 0.333, Li 0.334, Si 0.333_ | experimental | [1] Liang 2017; _cites Drue 2015_ [doi](https://doi.org/10.1016/j.jallcom.2015.08.235) | Table 1, p. 2, row 1; `ORC-F6HGBYID5O` |  |
+| Phase assemblage |  | 903.15 | Li7Si3 + αLi2C2 + SiC; _alloy: C 0.07, Li 0.68, Si 0.25_ | experimental | [1] Liang 2017 | Table 1, p. 2, row 8; `ORC-MAAV6GHA7E` |  |
+| Phase assemblage |  | 903.15 | Li7Si3 + αLi2C2 + SiC; _alloy: C 0.07, Li 0.68, Si 0.25_ | experimental | [1] Liang 2017; _cites Drue 2015_ [doi](https://doi.org/10.1016/j.jallcom.2015.08.235) | Table 1, p. 2, row 7; `ORC-VQUGVNDMHY` |  |
+| Phase assemblage |  | 903.15 | Li7Si3 + αLi2C2 + SiC; _alloy: C 0.333, Li 0.334, Si 0.333_ | experimental | [1] Liang 2017 | Table 1, p. 2, row 5; `ORC-W5MDUWFDIL` |  |
+| Phase assemblage |  | 903.15 | Li7Si3 + αLi2C2 + SiC; _alloy: C 0.333, Li 0.334, Si 0.333_ | experimental | [1] Liang 2017; _cites Drue 2015_ [doi](https://doi.org/10.1016/j.jallcom.2015.08.235) | Table 1, p. 2, row 4; `ORC-YFLNPKSRT6` |  |
+| Phase assemblage |  | 923.15 | Li7Si3 + αLi2C2 + SiC; _alloy: C 0.333, Li 0.334, Si 0.333_ | experimental | [1] Liang 2017; _cites Drue 2015_ [doi](https://doi.org/10.1016/j.jallcom.2015.08.235) | Table 1, p. 2, row 2; `ORC-I5TGX3PSKN` |  |
+| Phase assemblage |  | 923.15 | Li7Si3 + αLi2C2 + SiC; _alloy: C 0.333, Li 0.334, Si 0.333_ | experimental | [1] Liang 2017 | Table 1, p. 2, row 3; `ORC-R2XGDDAJPD` |  |
+| Phase assemblage |  | 923.15 | Li7Si3 + αLi2C2 + SiC + C; _alloy: C 0.25, Li 0.55, Si 0.2_ | experimental | [1] Liang 2017 | Table 1, p. 2, row 9; `ORC-Q6CPLALVNR` |  |
+| Phase assemblage |  | 923.15 | Li7Si3 + αLi2C2 + SiC + C; _alloy: C 0.25, Li 0.55, Si 0.2_ | experimental | [1] Liang 2017 | Table 1, p. 2, row 10; `ORC-UAOTERRCFX` |  |
 
 ## Sources
 
@@ -110,4 +110,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

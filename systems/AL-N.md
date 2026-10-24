@@ -56,7 +56,7 @@ Table: Invariant reactions reported in the literature for the Al–N system (1)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 933 | eutectic |  | model | [1] Hillert 1992 | p. 4 | “It is evident that the solubility of A1N decreases rapidly at decreasing temperature, reaching the value of 10 -16 at the eutectic temperature of 933 K.” |
+| 933 | eutectic |  | model | [1] Hillert 1992 | p. 4; `ORC-SSKNZX3ULV` | “It is evident that the solubility of A1N decreases rapidly at decreasing temperature, reaching the value of 10 -16 at the eutectic temperature of 933 K.” |
 
 ## Other properties
 
@@ -66,16 +66,16 @@ Table: Phase transition, Al–N system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1644.4 K | 1644.4 | L + solid A1N + fcc + e | model | [1] Hillert 1992 | p. 7 | “The following values were obtained by neglecting the N content in A15Fe4: L + solid A1N + fcc + e: T = 1644.4K” |
-| Phase transition | 1715 K | 1715 |  | model | [2] Pavlyuchkov 2012 | p. 5 | “The a coefficient was obtained by optimization to be equal to 16925.7 in order to reproduce the eutectoid decomposition of the 2H-phase at 1715 K.” |
-| Phase transition | 2420 K | 2420 | other | model | [2] Pavlyuchkov 2012 | p. 10 | “According to our calculation the separation of the 2H solid solution starts at 2420 K.” |
-| Phase transition | 2473 K | 2473 | other | experimental | [2] Pavlyuchkov 2012 | p. 10 | “The average value of temperature between the above mentioned 2300 °C (2573 K) and 2100 °C (2373 K), i.e. 2473 K was taken as experimental point determining a maximum of the miscibility gap.” |
-| Phase transition | 2690 K | 2690 | other | model | [1] Hillert 1992 | p. 1 | “A sublimation point of 2690 K at 1 bar is also predicted.” |
-| Phase transition | 2690 K | 2690 | other | model | [1] Hillert 1992 | p. 5 | “The sublimation point at 1 bar is obtained at T = 2690 K, in agreement with Figure 7.” |
-| Phase transition | 3064.5 K | 3064.5 | other | model | [1] Hillert 1992 | p. 5 | “It shows a liquid miscibility gap with a maximum at about 4220 K and the compositions XN = 0.0070 and xN = 0.4984 at the monotectic temperature of 3064.5 K.” |
-| Phase transition | 3067.7 K | 3067.7 |  | model | [1] Hillert 1992 | p. 5 | “Figure 5 gives a magnification of the region around the melting point of A1N, which is here given as 3067.7 K.” |
-| Phase transition | 3073.15 K | 3073.15 |  | experimental | [1] Hillert 1992; _cites Class 1968_ | p. 1 | “The melting point has been determined to 2800 ~ - 50 ~ by Class ~6\]using a high-pressure technique.” |
-| Phase transition | 4220 K | 4220 | other | model | [1] Hillert 1992 | p. 5 | “It shows a liquid miscibility gap with a maximum at about 4220 K and the compositions XN = 0.0070 and xN = 0.4984 at the monotectic temperature of 3064.5 K.” |
+| Phase transition | 1644.4 K | 1644.4 | L + solid A1N + fcc + e | model | [1] Hillert 1992 | p. 7; `ORC-H6KM4RHK3B` | “The following values were obtained by neglecting the N content in A15Fe4: L + solid A1N + fcc + e: T = 1644.4K” |
+| Phase transition | 1715 K | 1715 |  | model | [2] Pavlyuchkov 2012 | p. 5; `ORC-HEQ5QSECHM` | “The a coefficient was obtained by optimization to be equal to 16925.7 in order to reproduce the eutectoid decomposition of the 2H-phase at 1715 K.” |
+| Phase transition | 2420 K | 2420 | other | model | [2] Pavlyuchkov 2012 | p. 10; `ORC-5J35GNAPM4` | “According to our calculation the separation of the 2H solid solution starts at 2420 K.” |
+| Phase transition | 2473 K | 2473 | other | experimental | [2] Pavlyuchkov 2012 | p. 10; `ORC-IUPP7UBIJF` | “The average value of temperature between the above mentioned 2300 °C (2573 K) and 2100 °C (2373 K), i.e. 2473 K was taken as experimental point determining a maximum of the miscibility gap.” |
+| Phase transition | 2690 K | 2690 | other | model | [1] Hillert 1992 | p. 1; `ORC-CBLMSE2PMT` | “A sublimation point of 2690 K at 1 bar is also predicted.” |
+| Phase transition | 2690 K | 2690 | other | model | [1] Hillert 1992 | p. 5; `ORC-EQFVFVVBYM` | “The sublimation point at 1 bar is obtained at T = 2690 K, in agreement with Figure 7.” |
+| Phase transition | 3064.5 K | 3064.5 | other | model | [1] Hillert 1992 | p. 5; `ORC-D2YCJMYKFO.e612da` | “It shows a liquid miscibility gap with a maximum at about 4220 K and the compositions XN = 0.0070 and xN = 0.4984 at the monotectic temperature of 3064.5 K.” |
+| Phase transition | 3067.7 K | 3067.7 |  | model | [1] Hillert 1992 | p. 5; `ORC-6ZFW6EL627` | “Figure 5 gives a magnification of the region around the melting point of A1N, which is here given as 3067.7 K.” |
+| Phase transition | 3073.15 K | 3073.15 |  | experimental | [1] Hillert 1992; _cites Class 1968_ | p. 1; `ORC-LLXONX7RQF` | “The melting point has been determined to 2800 ~ - 50 ~ by Class ~6\]using a high-pressure technique.” |
+| Phase transition | 4220 K | 4220 | other | model | [1] Hillert 1992 | p. 5; `ORC-D2YCJMYKFO.4e42b8` | “It shows a liquid miscibility gap with a maximum at about 4220 K and the compositions XN = 0.0070 and xN = 0.4984 at the monotectic temperature of 3064.5 K.” |
 
 ### Phase equilibrium (14)
 
@@ -83,20 +83,20 @@ Table: Phase equilibrium, Al–N system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 660 (>) | molten Al + liquid Al; _molten Al: Al 0.55, N 0.45; liquid Al: Al 0.55, N 0.45_ | experimental | [2] Pavlyuchkov 2012 | Table 4, p. 8, row 9 |  |
-| Phase composition |  | 923.15 | molten Al + liquid Al; _molten Al: Al 1, N 0; liquid Al: Al 1, N 0_ | experimental | [2] Pavlyuchkov 2012 | Table 4, p. 8, row 1 |  |
-| Phase composition |  | 963.15 | molten Al + liquid Al; _molten Al: Al 0.73, N 0.27; liquid Al: Al 0.73, N 0.27_ | experimental | [2] Pavlyuchkov 2012 | Table 4, p. 8, row 5 |  |
-| Phase composition |  | 973.15 | molten Al + liquid Al; _molten Al: Al 0.73, N 0.27; liquid Al: Al 0.73, N 0.27_ | experimental | [2] Pavlyuchkov 2012 | Table 4, p. 8, row 10 |  |
-| Phase composition |  | 1033.15 | molten Al + liquid Al; _molten Al: Al 0.68, N 0.32; liquid Al: Al 0.68, N 0.32_ | experimental | [2] Pavlyuchkov 2012 | Table 4, p. 8, row 6 |  |
-| Phase composition |  | 1123.15 | molten Al + liquid Al; _molten Al: Al 0.61, N 0.39; liquid Al: Al 0.61, N 0.39_ | experimental | [2] Pavlyuchkov 2012 | Table 4, p. 8, row 11 |  |
-| Phase composition |  | 1173.15 | molten Al + liquid Al; _molten Al: Al 0.56, N 0.44; liquid Al: Al 0.56, N 0.44_ | experimental | [2] Pavlyuchkov 2012 | Table 4, p. 8, row 2 |  |
-| Phase composition |  | 1203.15 | molten Al + liquid Al; _molten Al: Al 0.53, N 0.47; liquid Al: Al 0.53, N 0.47_ | experimental | [2] Pavlyuchkov 2012 | Table 4, p. 8, row 8 |  |
-| Phase composition |  | 1213.15 | molten Al + liquid Al; _molten Al: Al 0.52, N 0.48; liquid Al: Al 0.52, N 0.48_ | experimental | [2] Pavlyuchkov 2012 | Table 4, p. 8, row 12 |  |
-| Phase composition |  | 1223.15 | molten Al + liquid Al; _molten Al: Al 0.51, N 0.49; liquid Al: Al 0.51, N 0.49_ | experimental | [2] Pavlyuchkov 2012 | Table 4, p. 8, row 13 |  |
-| Phase composition |  | 1473.15 | molten Al + liquid Al; _molten Al: Al 0.3, N 0.7; liquid Al: Al 0.3, N 0.7_ | experimental | [2] Pavlyuchkov 2012 | Table 4, p. 8, row 3 |  |
-| Phase composition |  | 1473.15 | molten Al + liquid Al; _molten Al: Al 0.998, N 0.002; liquid Al: Al 0.998, N 0.002_ | experimental | [2] Pavlyuchkov 2012 | Table 4, p. 8, row 15 |  |
-| Phase composition |  | 1673.15 | molten Al + liquid Al; _molten Al: Al 0.12, N 0.88; liquid Al: Al 0.12, N 0.88_ | experimental | [2] Pavlyuchkov 2012 | Table 4, p. 8, row 16 |  |
-| Phase composition |  | 1773.15 | molten Al + liquid Al; _molten Al: Al 0.04, N 0.96; liquid Al: Al 0.04, N 0.96_ | experimental | [2] Pavlyuchkov 2012 | Table 4, p. 8, row 4 |  |
+| Phase composition |  | 660 (>) | molten Al + liquid Al; _molten Al: Al 0.55, N 0.45; liquid Al: Al 0.55, N 0.45_ | experimental | [2] Pavlyuchkov 2012 | Table 4, p. 8, row 9; `ORC-2YKHUHSMHQ` |  |
+| Phase composition |  | 923.15 | molten Al + liquid Al; _molten Al: Al 1, N 0; liquid Al: Al 1, N 0_ | experimental | [2] Pavlyuchkov 2012 | Table 4, p. 8, row 1; `ORC-3FSJU2W3H5` |  |
+| Phase composition |  | 963.15 | molten Al + liquid Al; _molten Al: Al 0.73, N 0.27; liquid Al: Al 0.73, N 0.27_ | experimental | [2] Pavlyuchkov 2012 | Table 4, p. 8, row 5; `ORC-ZVET4JTZ4J` |  |
+| Phase composition |  | 973.15 | molten Al + liquid Al; _molten Al: Al 0.73, N 0.27; liquid Al: Al 0.73, N 0.27_ | experimental | [2] Pavlyuchkov 2012 | Table 4, p. 8, row 10; `ORC-JHSN2KNOM3` |  |
+| Phase composition |  | 1033.15 | molten Al + liquid Al; _molten Al: Al 0.68, N 0.32; liquid Al: Al 0.68, N 0.32_ | experimental | [2] Pavlyuchkov 2012 | Table 4, p. 8, row 6; `ORC-UH2ZDDWHD2` |  |
+| Phase composition |  | 1123.15 | molten Al + liquid Al; _molten Al: Al 0.61, N 0.39; liquid Al: Al 0.61, N 0.39_ | experimental | [2] Pavlyuchkov 2012 | Table 4, p. 8, row 11; `ORC-36FLNF4JVS` |  |
+| Phase composition |  | 1173.15 | molten Al + liquid Al; _molten Al: Al 0.56, N 0.44; liquid Al: Al 0.56, N 0.44_ | experimental | [2] Pavlyuchkov 2012 | Table 4, p. 8, row 2; `ORC-T3H62NK6L4` |  |
+| Phase composition |  | 1203.15 | molten Al + liquid Al; _molten Al: Al 0.53, N 0.47; liquid Al: Al 0.53, N 0.47_ | experimental | [2] Pavlyuchkov 2012 | Table 4, p. 8, row 8; `ORC-UY62PLEW2D` |  |
+| Phase composition |  | 1213.15 | molten Al + liquid Al; _molten Al: Al 0.52, N 0.48; liquid Al: Al 0.52, N 0.48_ | experimental | [2] Pavlyuchkov 2012 | Table 4, p. 8, row 12; `ORC-62RTZ4D3JK` |  |
+| Phase composition |  | 1223.15 | molten Al + liquid Al; _molten Al: Al 0.51, N 0.49; liquid Al: Al 0.51, N 0.49_ | experimental | [2] Pavlyuchkov 2012 | Table 4, p. 8, row 13; `ORC-MQPR3QGJJT` |  |
+| Phase composition |  | 1473.15 | molten Al + liquid Al; _molten Al: Al 0.3, N 0.7; liquid Al: Al 0.3, N 0.7_ | experimental | [2] Pavlyuchkov 2012 | Table 4, p. 8, row 3; `ORC-6UYJKZKJNF` |  |
+| Phase composition |  | 1473.15 | molten Al + liquid Al; _molten Al: Al 0.998, N 0.002; liquid Al: Al 0.998, N 0.002_ | experimental | [2] Pavlyuchkov 2012 | Table 4, p. 8, row 15; `ORC-ZMEFMBGHFY` |  |
+| Phase composition |  | 1673.15 | molten Al + liquid Al; _molten Al: Al 0.12, N 0.88; liquid Al: Al 0.12, N 0.88_ | experimental | [2] Pavlyuchkov 2012 | Table 4, p. 8, row 16; `ORC-ZBARUE47EY` |  |
+| Phase composition |  | 1773.15 | molten Al + liquid Al; _molten Al: Al 0.04, N 0.96; liquid Al: Al 0.04, N 0.96_ | experimental | [2] Pavlyuchkov 2012 | Table 4, p. 8, row 4; `ORC-463AUQ3OAS` |  |
 
 ### Activity / EMF / Gibbs energy (2)
 
@@ -104,8 +104,8 @@ Table: Activity / EMF / Gibbs energy, Al–N system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Vapour pressure; _printed: p_ | 9.75 bar | 3067.7 |  | model | [1] Hillert 1992 | p. 5 | “The triple point is found at 9.75 bar and 3067.7 K.” |
-| Vapour pressure; _printed: p_ | 9.75 bar | 3068 |  | model | [1] Hillert 1992 | p. 1 | “The melting point of A1N is taken as 3068 K, and a required gas pressure of 9.75 bar is predicted.” |
+| Vapour pressure; _printed: p_ | 9.75 bar | 3067.7 |  | model | [1] Hillert 1992 | p. 5; `ORC-KRCDKG5FIO` | “The triple point is found at 9.75 bar and 3067.7 K.” |
+| Vapour pressure; _printed: p_ | 9.75 bar | 3068 |  | model | [1] Hillert 1992 | p. 1; `ORC-T2O46GCLCX` | “The melting point of A1N is taken as 3068 K, and a required gas pressure of 9.75 bar is predicted.” |
 
 ## Sources
 
@@ -171,4 +171,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

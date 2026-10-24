@@ -100,42 +100,42 @@ Table: Invariant reactions reported in the literature for the Al–Pd system (36
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1918 | L -> (AlPd) | L: Pd 0.501; (AlPd): Pd 0.501 | model | [1] Li 2006 | Table 1, p. 2, row 26 |  |
-| 1918 | L -> (AlPd) | L: Pd 0.5; (AlPd): Pd 0.5 | model | [1] Li 2006; _cites McAlister 1986_ [doi](https://doi.org/10.1007/bf02873025) | Table 1, p. 2, row 25 |  |
-| 1691 | L -> (AlPd2) | L: Pd 0.6796; (AlPd2): Pd 0.6796 | model | [1] Li 2006 | Table 1, p. 2, row 28 |  |
-| 1691 | L -> (AlPd2) | L: Pd 0.6667; (AlPd2): Pd 0.6667 | model | [1] Li 2006; _cites McAlister 1986_ [doi](https://doi.org/10.1007/bf02873025) | Table 1, p. 2, row 27 |  |
-| 1591 | L + (AlPd2) -> Al3Pd5 | L: Pd 0.623; (AlPd2): Pd 0.652; Al3Pd5: Pd 0.625 | model | [1] Li 2006 | Table 1, p. 2, row 22 |  |
-| 1591 | L + (AlPd2) -> Al3Pd5 | L: Pd 0.6149; (AlPd2): Pd 0.65; Al3Pd5: Pd 0.625 | model | [1] Li 2006; _cites McAlister 1986_ [doi](https://doi.org/10.1007/bf02873025) | Table 1, p. 2, row 21 |  |
-| 1589 | L -> (AlPd) + Al3Pd5 | L: Pd 0.6181; (AlPd): Pd 0.523; Al3Pd5: Pd 0.625 | model | [1] Li 2006 | Table 1, p. 2, row 20 |  |
-| 1588 | L -> (AlPd) + Al3Pd5 | L: Pd 0.6149; (AlPd): Pd 0.55; Al3Pd5: Pd 0.625 | model | [1] Li 2006; _cites McAlister 1986_ [doi](https://doi.org/10.1007/bf02873025) | Table 1, p. 2, row 19 |  |
-| 1329 | L -> (AlPd2) + (Pd) | L: Pd 0.774; (AlPd2): Pd 0.725; (Pd): Pd 0.811 | model | [1] Li 2006 | Table 1, p. 2, row 12 |  |
-| 1328 | eutectic |  | experimental | [1] Li 2006; _cites Grube 1951_ | p. 1 | “On the basis of thermal analysis measurements and metallographic studies, the maximum solubility of Al in (Pd) was estimated to be 20 at.% Al at the eutectic temperature of 1328 K.” |
-| 1328 | L -> (AlPd2) + (Pd) | L: Pd 0.767; (AlPd2): Pd 0.745; (Pd): Pd 0.797 | model | [1] Li 2006; _cites McAlister 1986_ [doi](https://doi.org/10.1007/bf02873025) | Table 1, p. 2, row 11 |  |
-| 1253 | (AlPd2) -> (Al2Pd5) | (AlPd2): Pd 0.71; (Al2Pd5): Pd 0.71 | model | [1] Li 2006; _cites McAlister 1986_ [doi](https://doi.org/10.1007/bf02873025) | Table 1, p. 2, row 23 |  |
-| 1253 | (AlPd2) -> (Al2Pd5) | (AlPd2): Pd 0.713; (Al2Pd5): Pd 0.713 | model | [1] Li 2006 | Table 1, p. 2, row 24 |  |
-| 1225 | L + (AlPd) -> (Al3Pd2) | L: Pd 0.283; (AlPd): Pd 0.442; (Al3Pd2): Pd 0.406 | model | [1] Li 2006 | Table 1, p. 2, row 10 |  |
-| 1225 | L + (AlPd) -> (Al3Pd2) | L: Pd 0.284; (AlPd): Pd 0.44; (Al3Pd2): Pd 0.4 | model | [1] Li 2006; _cites McAlister 1986_ [doi](https://doi.org/10.1007/bf02873025) | Table 1, p. 2, row 9 |  |
-| 1218 | peritectic: L + (AlPd) -> Al3Pd2 |  | experimental | [1] Li 2006; _cites Ellner 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990048-0) | p. 2 | “The phase (Al3Pd2), with a solubility range of w38-41.5 at.% Pd, was formed by a peritectic reaction LC (AlPd)/Al3Pd2 at 1218 K \[11,12,14\].” |
-| 1131 | (AlPd2) -> (Al2Pd5) + (Pd) | (AlPd2): Pd 0.729; (Al2Pd5): Pd 0.717; (Pd): Pd 0.812 | model | [1] Li 2006; _cites McAlister 1986_ [doi](https://doi.org/10.1007/bf02873025) | Table 1, p. 2, row 15 |  |
-| 1131 | (AlPd2) -> (Al2Pd5) + (Pd) | (AlPd2): Pd 0.727; (Al2Pd5): Pd 0.7141; (Pd): Pd 0.81 | model | [1] Li 2006 | Table 1, p. 2, row 16 |  |
-| 1065.15 | peritectic: L+δ/(Al3Pd2)↔ε28 |  | experimental | [2] Ďuriška 2017; _cites Yurechko 2001_ | p. 5 | “According to the earlier published results \[3\], the ε28 phase is formed by peritectic reaction, L+δ/(Al3Pd2)↔ε28, at 792°C and about 28.1 at.% Pd.” |
-| 1065 | L + (Al3Pd2) -> Al21Pd8 | L: Pd 0.2178; (Al3Pd2): Pd 0.39; Al21Pd8: Pd 0.276 | model | [1] Li 2006; _cites McAlister 1986_ [doi](https://doi.org/10.1007/bf02873025) | Table 1, p. 2, row 5 |  |
-| 1064 | L + (Al3Pd2) -> Al21Pd8 | L: Pd 0.2206; (Al3Pd2): Pd 0.396; Al21Pd8: Pd 0.276 | model | [1] Li 2006 | Table 1, p. 2, row 6 |  |
-| 1062 | peritectic: liquid+Al3 Pd2 ↔ Al3 Pd |  | experimental | [3] Homolová 2021; _cites ref. 21_ | p. 6 | “Parameters for Al21 Pd8 were modified with the aim of achieving better agreement with experimental results \[21\], which show that the Al3 Pd phase forms by peritectic reaction liquid+Al3 Pd2 ↔ Al3 Pd at 1062 K.” |
-| 1055 | L + Al21Pd8 -> Al3Pd | L: Pd 0.2083; Al21Pd8: Pd 0.276; Al3Pd: Pd 0.25 | model | [1] Li 2006 | Table 1, p. 2, row 4 |  |
-| 1055 | L + Al21Pd8 -> Al3Pd | L: Pd 0.2086; Al21Pd8: Pd 0.276; Al3Pd: Pd 0.25 | experimental | [1] Li 2006; _cites Yurehko 2001_ | Table 1, p. 2, row 3 |  |
-| 892.15 | eutectoid: εn/(Al3Pd)↔γ-Al21Pd8+δ/(Al3Pd2) |  | model | [2] Ďuriška 2017 | p. 5 | “In the present work, the eutectoid reaction, εn/(Al3Pd)↔γ-Al21Pd8+δ/(Al3Pd2), was calculated at 619°C (Figure 1), whereas it was not predicted in the phase diagram calculated previously \[7\].” |
-| 891 | L -> (Al) + Al3Pd | L: Pd 0.065; (Al): Pd 8.000e-5; Al3Pd: Pd 0.25 | model | [1] Li 2006 | Table 1, p. 2, row 2 |  |
-| 889 | L -> (Al) + Al3Pd | L: Pd 0.0689; (Al): Pd 0.002; Al3Pd: Pd 0.25 | experimental | [1] Li 2006; _cites Yurehko 2001_ | Table 1, p. 2, row 1 |  |
-| 888 | Al3Pd5 -> (AlPd) + (AlPd2) | Al3Pd5: Pd 0.625; (AlPd): Pd 0.549; (AlPd2): Pd 0.652 | model | [1] Li 2006 | Table 1, p. 2, row 14 |  |
-| 888 | Al3Pd5 -> (AlPd) + (AlPd2) | Al3Pd5: Pd 0.625; (AlPd): Pd 0.569; (AlPd2): Pd 0.664 | model | [1] Li 2006; _cites McAlister 1986_ [doi](https://doi.org/10.1007/bf02873025) | Table 1, p. 2, row 13 |  |
-| 880.15 | eutectic: L↔(Al)+εn/(Al3Pd) |  | model | [2] Ďuriška 2017 | p. 5 | “As a consequence, the temperature of eutectic reaction, L↔(Al)+εn/(Al3Pd), dropped to 607°C, Figure 1.” |
-| 877 | (Al) + Al3Pd -> Al4Pd | (Al): Pd 6.000e-5; Al3Pd: Pd 0.25; Al4Pd: Pd 0.2 | model | [1] Li 2006 | Table 1, p. 2, row 8 |  |
-| 877 | peritectoid: (Al) + Al3Pd -> Al4Pd |  | experimental | [1] Li 2006; _cites Yurehko 2001_ | p. 2 | “It was first thought to be formed peritectoidally from (Al) and Al21Pd8 at w833 K \[10,11\], but later study \[4\] established that it is formed from (Al) and Al3Pd at 877 K.” |
-| 877 | (Al) + Al3Pd -> Al4Pd | (Al): Pd 0.00178; Al3Pd: Pd 0.25; Al4Pd: Pd 0.2 | experimental | [1] Li 2006; _cites Yurehko 2001_ | Table 1, p. 2, row 7 |  |
-| 852 | Al3Pd -> Al21Pd8 + Al4Pd | Al3Pd: Pd 0.25; Al21Pd8: Pd 0.276; Al4Pd: Pd 0.2 | model | [1] Li 2006 | Table 1, p. 2, row 18 |  |
-| 852 | Al3Pd -> Al21Pd8 + Al4Pd | Al3Pd: Pd 0.25; Al21Pd8: Pd 0.276; Al4Pd: Pd 0.2 | experimental | [1] Li 2006; _cites Yurehko 2001_ | Table 1, p. 2, row 17 |  |
-| 833 | peritectoid: (Al) + Al21Pd8 -> Al4Pd(l) |  | experimental | [1] Li 2006; _cites Sastry 1981_ [doi](https://doi.org/10.1016/0025-5416%2881%2990046-x) | p. 2 | “It was first thought to be formed peritectoidally from (Al) and Al21Pd8 at w833 K \[10,11\], but later study \[4\] established that it is formed from (Al) and Al3Pd at 877 K.” |
+| 1918 | L -> (AlPd) | L: Pd 0.501; (AlPd): Pd 0.501 | model | [1] Li 2006 | Table 1, p. 2, row 26; `ORC-7NZ4PTV7E3` |  |
+| 1918 | L -> (AlPd) | L: Pd 0.5; (AlPd): Pd 0.5 | model | [1] Li 2006; _cites McAlister 1986_ [doi](https://doi.org/10.1007/bf02873025) | Table 1, p. 2, row 25; `ORC-BYM4OZG6JT` |  |
+| 1691 | L -> (AlPd2) | L: Pd 0.6796; (AlPd2): Pd 0.6796 | model | [1] Li 2006 | Table 1, p. 2, row 28; `ORC-LOTJ3JHJ5N` |  |
+| 1691 | L -> (AlPd2) | L: Pd 0.6667; (AlPd2): Pd 0.6667 | model | [1] Li 2006; _cites McAlister 1986_ [doi](https://doi.org/10.1007/bf02873025) | Table 1, p. 2, row 27; `ORC-OTMJNVR4QH` |  |
+| 1591 | L + (AlPd2) -> Al3Pd5 | L: Pd 0.623; (AlPd2): Pd 0.652; Al3Pd5: Pd 0.625 | model | [1] Li 2006 | Table 1, p. 2, row 22; `ORC-6D6YGECNQF` |  |
+| 1591 | L + (AlPd2) -> Al3Pd5 | L: Pd 0.6149; (AlPd2): Pd 0.65; Al3Pd5: Pd 0.625 | model | [1] Li 2006; _cites McAlister 1986_ [doi](https://doi.org/10.1007/bf02873025) | Table 1, p. 2, row 21; `ORC-J3D554WEX3` |  |
+| 1589 | L -> (AlPd) + Al3Pd5 | L: Pd 0.6181; (AlPd): Pd 0.523; Al3Pd5: Pd 0.625 | model | [1] Li 2006 | Table 1, p. 2, row 20; `ORC-B2NPHJZO62` |  |
+| 1588 | L -> (AlPd) + Al3Pd5 | L: Pd 0.6149; (AlPd): Pd 0.55; Al3Pd5: Pd 0.625 | model | [1] Li 2006; _cites McAlister 1986_ [doi](https://doi.org/10.1007/bf02873025) | Table 1, p. 2, row 19; `ORC-LCYC5AFY7K` |  |
+| 1329 | L -> (AlPd2) + (Pd) | L: Pd 0.774; (AlPd2): Pd 0.725; (Pd): Pd 0.811 | model | [1] Li 2006 | Table 1, p. 2, row 12; `ORC-BGN7WNF52K` |  |
+| 1328 | eutectic |  | experimental | [1] Li 2006; _cites Grube 1951_ | p. 1; `ORC-46EIE5UGUU` | “On the basis of thermal analysis measurements and metallographic studies, the maximum solubility of Al in (Pd) was estimated to be 20 at.% Al at the eutectic temperature of 1328 K.” |
+| 1328 | L -> (AlPd2) + (Pd) | L: Pd 0.767; (AlPd2): Pd 0.745; (Pd): Pd 0.797 | model | [1] Li 2006; _cites McAlister 1986_ [doi](https://doi.org/10.1007/bf02873025) | Table 1, p. 2, row 11; `ORC-5WKWPYBCL2` |  |
+| 1253 | (AlPd2) -> (Al2Pd5) | (AlPd2): Pd 0.71; (Al2Pd5): Pd 0.71 | model | [1] Li 2006; _cites McAlister 1986_ [doi](https://doi.org/10.1007/bf02873025) | Table 1, p. 2, row 23; `ORC-IQVEWNDZ4T` |  |
+| 1253 | (AlPd2) -> (Al2Pd5) | (AlPd2): Pd 0.713; (Al2Pd5): Pd 0.713 | model | [1] Li 2006 | Table 1, p. 2, row 24; `ORC-MAVLYQY7BW` |  |
+| 1225 | L + (AlPd) -> (Al3Pd2) | L: Pd 0.283; (AlPd): Pd 0.442; (Al3Pd2): Pd 0.406 | model | [1] Li 2006 | Table 1, p. 2, row 10; `ORC-5FKR35SXMR` |  |
+| 1225 | L + (AlPd) -> (Al3Pd2) | L: Pd 0.284; (AlPd): Pd 0.44; (Al3Pd2): Pd 0.4 | model | [1] Li 2006; _cites McAlister 1986_ [doi](https://doi.org/10.1007/bf02873025) | Table 1, p. 2, row 9; `ORC-Z4KVAGYZ2U` |  |
+| 1218 | peritectic: L + (AlPd) -> Al3Pd2 |  | experimental | [1] Li 2006; _cites Ellner 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990048-0) | p. 2; `ORC-ZOM2EXS7P2` | “The phase (Al3Pd2), with a solubility range of w38-41.5 at.% Pd, was formed by a peritectic reaction LC (AlPd)/Al3Pd2 at 1218 K \[11,12,14\].” |
+| 1131 | (AlPd2) -> (Al2Pd5) + (Pd) | (AlPd2): Pd 0.729; (Al2Pd5): Pd 0.717; (Pd): Pd 0.812 | model | [1] Li 2006; _cites McAlister 1986_ [doi](https://doi.org/10.1007/bf02873025) | Table 1, p. 2, row 15; `ORC-LXR6IGTNWU` |  |
+| 1131 | (AlPd2) -> (Al2Pd5) + (Pd) | (AlPd2): Pd 0.727; (Al2Pd5): Pd 0.7141; (Pd): Pd 0.81 | model | [1] Li 2006 | Table 1, p. 2, row 16; `ORC-MU5TO53DAJ` |  |
+| 1065.15 | peritectic: L+δ/(Al3Pd2)↔ε28 |  | experimental | [2] Ďuriška 2017; _cites Yurechko 2001_ | p. 5; `ORC-W7AHLLXI33` | “According to the earlier published results \[3\], the ε28 phase is formed by peritectic reaction, L+δ/(Al3Pd2)↔ε28, at 792°C and about 28.1 at.% Pd.” |
+| 1065 | L + (Al3Pd2) -> Al21Pd8 | L: Pd 0.2178; (Al3Pd2): Pd 0.39; Al21Pd8: Pd 0.276 | model | [1] Li 2006; _cites McAlister 1986_ [doi](https://doi.org/10.1007/bf02873025) | Table 1, p. 2, row 5; `ORC-ZGRM3KB24G` |  |
+| 1064 | L + (Al3Pd2) -> Al21Pd8 | L: Pd 0.2206; (Al3Pd2): Pd 0.396; Al21Pd8: Pd 0.276 | model | [1] Li 2006 | Table 1, p. 2, row 6; `ORC-3TXWLQQLVY` |  |
+| 1062 | peritectic: liquid+Al3 Pd2 ↔ Al3 Pd |  | experimental | [3] Homolová 2021; _cites ref. 21_ | p. 6; `ORC-M7BXFGHFMX` | “Parameters for Al21 Pd8 were modified with the aim of achieving better agreement with experimental results \[21\], which show that the Al3 Pd phase forms by peritectic reaction liquid+Al3 Pd2 ↔ Al3 Pd at 1062 K.” |
+| 1055 | L + Al21Pd8 -> Al3Pd | L: Pd 0.2083; Al21Pd8: Pd 0.276; Al3Pd: Pd 0.25 | model | [1] Li 2006 | Table 1, p. 2, row 4; `ORC-2I7E22I7A6` |  |
+| 1055 | L + Al21Pd8 -> Al3Pd | L: Pd 0.2086; Al21Pd8: Pd 0.276; Al3Pd: Pd 0.25 | experimental | [1] Li 2006; _cites Yurehko 2001_ | Table 1, p. 2, row 3; `ORC-JARU4MSN74` |  |
+| 892.15 | eutectoid: εn/(Al3Pd)↔γ-Al21Pd8+δ/(Al3Pd2) |  | model | [2] Ďuriška 2017 | p. 5; `ORC-DDIVFMJFVJ` | “In the present work, the eutectoid reaction, εn/(Al3Pd)↔γ-Al21Pd8+δ/(Al3Pd2), was calculated at 619°C (Figure 1), whereas it was not predicted in the phase diagram calculated previously \[7\].” |
+| 891 | L -> (Al) + Al3Pd | L: Pd 0.065; (Al): Pd 8.000e-5; Al3Pd: Pd 0.25 | model | [1] Li 2006 | Table 1, p. 2, row 2; `ORC-4ZXZS3QGFO` |  |
+| 889 | L -> (Al) + Al3Pd | L: Pd 0.0689; (Al): Pd 0.002; Al3Pd: Pd 0.25 | experimental | [1] Li 2006; _cites Yurehko 2001_ | Table 1, p. 2, row 1; `ORC-RN7H5D3QVO` |  |
+| 888 | Al3Pd5 -> (AlPd) + (AlPd2) | Al3Pd5: Pd 0.625; (AlPd): Pd 0.549; (AlPd2): Pd 0.652 | model | [1] Li 2006 | Table 1, p. 2, row 14; `ORC-VOFX6QASCG` |  |
+| 888 | Al3Pd5 -> (AlPd) + (AlPd2) | Al3Pd5: Pd 0.625; (AlPd): Pd 0.569; (AlPd2): Pd 0.664 | model | [1] Li 2006; _cites McAlister 1986_ [doi](https://doi.org/10.1007/bf02873025) | Table 1, p. 2, row 13; `ORC-ZIZ236DHZW` |  |
+| 880.15 | eutectic: L↔(Al)+εn/(Al3Pd) |  | model | [2] Ďuriška 2017 | p. 5; `ORC-L4ZV3ZEBPY` | “As a consequence, the temperature of eutectic reaction, L↔(Al)+εn/(Al3Pd), dropped to 607°C, Figure 1.” |
+| 877 | (Al) + Al3Pd -> Al4Pd | (Al): Pd 6.000e-5; Al3Pd: Pd 0.25; Al4Pd: Pd 0.2 | model | [1] Li 2006 | Table 1, p. 2, row 8; `ORC-D6FMNWTWCQ` |  |
+| 877 | peritectoid: (Al) + Al3Pd -> Al4Pd |  | experimental | [1] Li 2006; _cites Yurehko 2001_ | p. 2; `ORC-NP2P6KOLAF.b550d7` | “It was first thought to be formed peritectoidally from (Al) and Al21Pd8 at w833 K \[10,11\], but later study \[4\] established that it is formed from (Al) and Al3Pd at 877 K.” |
+| 877 | (Al) + Al3Pd -> Al4Pd | (Al): Pd 0.00178; Al3Pd: Pd 0.25; Al4Pd: Pd 0.2 | experimental | [1] Li 2006; _cites Yurehko 2001_ | Table 1, p. 2, row 7; `ORC-PM63LOUWKB` |  |
+| 852 | Al3Pd -> Al21Pd8 + Al4Pd | Al3Pd: Pd 0.25; Al21Pd8: Pd 0.276; Al4Pd: Pd 0.2 | model | [1] Li 2006 | Table 1, p. 2, row 18; `ORC-LOEZLT7ZLZ` |  |
+| 852 | Al3Pd -> Al21Pd8 + Al4Pd | Al3Pd: Pd 0.25; Al21Pd8: Pd 0.276; Al4Pd: Pd 0.2 | experimental | [1] Li 2006; _cites Yurehko 2001_ | Table 1, p. 2, row 17; `ORC-TTKFOHYLFU` |  |
+| 833 | peritectoid: (Al) + Al21Pd8 -> Al4Pd(l) |  | experimental | [1] Li 2006; _cites Sastry 1981_ [doi](https://doi.org/10.1016/0025-5416%2881%2990046-x) | p. 2; `ORC-NP2P6KOLAF.9c6d8d` | “It was first thought to be formed peritectoidally from (Al) and Al21Pd8 at w833 K \[10,11\], but later study \[4\] established that it is formed from (Al) and Al3Pd at 877 K.” |
 
 ## Other properties
 
@@ -145,11 +145,11 @@ Table: Phase transition, Al–Pd system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1055 K | 1055 | liquid + Al21 Pd8 ↔ Al3 Pd | experimental | [3] Homolová 2021; _cites ref. 21_ | p. 6 | “According to Grushko \[21\], reaction liquid + Al21 Pd8 ↔ Al3 Pd at 1055 K that was suggested in study \[27\] is considered as quite uncertain because only a weak kink associated with this reaction was observed in a DTA plot of the study \[27\].” |
-| Phase transition | 1062 K | 1062 | liquid + Al3Pd2 ↔ Al3Pd | experimental | [3] Homolová 2021; _cites ref. 21_ | p. 10 | “liquid + Al3 Pd2 ↔ Al3 Pd at 1062 K in the binary system according to Grushko \[21\], which is in accordance with the presented calculations.” |
-| Phase transition | 1225 K | 1225 | L + (AlPd) -> Al3Pd2 | experimental | [1] Li 2006; _cites Yurehko 2001_ | p. 2 | “But Yurehko et al. \[4\] determined that this temperature is 1225 K.” |
-| Phase transition | 1691 K | 1691 | congruent transformation | experimental | [1] Li 2006; _cites Grube 1951_ | p. 2 | “The (AlPd2) (r), with a homogeneity range of w65-73 at.% Pd at 1323 K, forms congruently from the melt at 1691 K \[6,12,17\].” |
-| Phase transition | 1918 K | 1918 | congruent transformation | experimental | [1] Li 2006; _cites Grube 1951_ | p. 2 | “The hightemperature b(AlPd) phase melting congruently at w1918 K has a solubility range from w44.0 to 56 at.% Pd \[6,12,15\].” |
+| Phase transition | 1055 K | 1055 | liquid + Al21 Pd8 ↔ Al3 Pd | experimental | [3] Homolová 2021; _cites ref. 21_ | p. 6; `ORC-WW4KMY3USG` | “According to Grushko \[21\], reaction liquid + Al21 Pd8 ↔ Al3 Pd at 1055 K that was suggested in study \[27\] is considered as quite uncertain because only a weak kink associated with this reaction was observed in a DTA plot of the study \[27\].” |
+| Phase transition | 1062 K | 1062 | liquid + Al3Pd2 ↔ Al3Pd | experimental | [3] Homolová 2021; _cites ref. 21_ | p. 10; `ORC-GZRMZ3QBIK` | “liquid + Al3 Pd2 ↔ Al3 Pd at 1062 K in the binary system according to Grushko \[21\], which is in accordance with the presented calculations.” |
+| Phase transition | 1225 K | 1225 | L + (AlPd) -> Al3Pd2 | experimental | [1] Li 2006; _cites Yurehko 2001_ | p. 2; `ORC-VTIYW3TWTV` | “But Yurehko et al. \[4\] determined that this temperature is 1225 K.” |
+| Phase transition | 1691 K | 1691 | congruent transformation | experimental | [1] Li 2006; _cites Grube 1951_ | p. 2; `ORC-PEK5DDKNNK` | “The (AlPd2) (r), with a homogeneity range of w65-73 at.% Pd at 1323 K, forms congruently from the melt at 1691 K \[6,12,17\].” |
+| Phase transition | 1918 K | 1918 | congruent transformation | experimental | [1] Li 2006; _cites Grube 1951_ | p. 2; `ORC-P37DZEL532` | “The hightemperature b(AlPd) phase melting congruently at w1918 K has a solubility range from w44.0 to 56 at.% Pd \[6,12,15\].” |
 
 ## Sources
 
@@ -216,4 +216,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

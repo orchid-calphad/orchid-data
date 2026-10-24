@@ -56,16 +56,16 @@ Table: Enthalpies of formation, Be–Mo system (10)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Be12Mo |  | -12.2 kJ/mol (basis unstated) |  | DFT |  |  | [1] Nakashima 2007 | Table 1, p. 2, row 11 |  |
-| Be12Mo |  | -10 kJ/mol (basis unstated) |  | model |  |  | [1] Nakashima 2007 | Table 1, p. 2, row 12 |  |
-| Be22Mo |  | -5.6 kJ/mol (basis unstated) |  | model |  |  | [1] Nakashima 2007 | Table 1, p. 2, row 10 |  |
-| Be22Mo |  | -3.94 kJ/mol (basis unstated) |  | DFT |  |  | [1] Nakashima 2007 | Table 1, p. 2, row 9 |  |
-| Be2Mo |  | -31 kJ/mol (basis unstated) |  | model |  |  | [1] Nakashima 2007 | Table 1, p. 2, row 14 |  |
-| Be2Mo |  | -29.3 kJ/mol (basis unstated) |  | DFT |  |  | [1] Nakashima 2007 | Table 1, p. 2, row 13 |  |
-| BeMo (CrB) |  | -25.2 kJ/mol (basis unstated) |  | model |  |  | [1] Nakashima 2007 | Table 3, p. 3, row 2 |  |
-| BeMo (CsCl) |  | 19.3 kJ/mol (basis unstated) |  | model |  |  | [1] Nakashima 2007 | Table 3, p. 3, row 1 |  |
-| BeMo3 |  | -13 kJ/mol (basis unstated) |  | model |  |  | [1] Nakashima 2007 | Table 1, p. 2, row 16 |  |
-| BeMo3 |  | -0.81 kJ/mol (basis unstated) |  | DFT |  |  | [1] Nakashima 2007 | Table 1, p. 2, row 15 |  |
+| Be12Mo |  | -12.2 kJ/mol (basis unstated) |  | DFT |  |  | [1] Nakashima 2007 | Table 1, p. 2, row 11; `ORC-RYX6OJIX5S` |  |
+| Be12Mo |  | -10 kJ/mol (basis unstated) |  | model |  |  | [1] Nakashima 2007 | Table 1, p. 2, row 12; `ORC-A5DUZQHFJX` |  |
+| Be22Mo |  | -5.6 kJ/mol (basis unstated) |  | model |  |  | [1] Nakashima 2007 | Table 1, p. 2, row 10; `ORC-FIMT4LQBCR` |  |
+| Be22Mo |  | -3.94 kJ/mol (basis unstated) |  | DFT |  |  | [1] Nakashima 2007 | Table 1, p. 2, row 9; `ORC-PUGFGWCPFT` |  |
+| Be2Mo |  | -31 kJ/mol (basis unstated) |  | model |  |  | [1] Nakashima 2007 | Table 1, p. 2, row 14; `ORC-OY6YLM3QY4` |  |
+| Be2Mo |  | -29.3 kJ/mol (basis unstated) |  | DFT |  |  | [1] Nakashima 2007 | Table 1, p. 2, row 13; `ORC-ARIJFY3CYJ` |  |
+| BeMo (CrB) |  | -25.2 kJ/mol (basis unstated) |  | model |  |  | [1] Nakashima 2007 | Table 3, p. 3, row 2; `ORC-3QX3IGZES4.fac5e0` |  |
+| BeMo (CsCl) |  | 19.3 kJ/mol (basis unstated) |  | model |  |  | [1] Nakashima 2007 | Table 3, p. 3, row 1; `ORC-GPESCK3ASV.9c2291` |  |
+| BeMo3 |  | -13 kJ/mol (basis unstated) |  | model |  |  | [1] Nakashima 2007 | Table 1, p. 2, row 16; `ORC-NF6FUGIYW2` |  |
+| BeMo3 |  | -0.81 kJ/mol (basis unstated) |  | DFT |  |  | [1] Nakashima 2007 | Table 1, p. 2, row 15; `ORC-7E5JBTBYTA` |  |
 
 ## Sources
 
@@ -130,4 +130,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

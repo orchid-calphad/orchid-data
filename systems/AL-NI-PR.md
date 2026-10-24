@@ -30,43 +30,43 @@ Table: Invariant reactions reported in the literature for the Al–Ni–Pr syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1644.15 | quasi-peritectic: Liq + τ7 -> τ4 + τ5 |  | model | [1] Liao 2019 | Table 5, p. 10, row 1 |  |
-| 1613.15 | eutectic: Liq -> τ2 + τ5 + τ4 |  | model | [1] Liao 2019 | Table 5, p. 10, row 2 |  |
-| 1545.15 | eutectic: Liq -> τ2 + NiAl + τ4 |  | model | [1] Liao 2019 | Table 5, p. 10, row 3 |  |
-| 1530.15 | eutectic: Liq -> τ6 + Ni5Pr + fcc |  | model | [1] Liao 2019 | Table 5, p. 10, row 4 |  |
-| 1511.15 | eutectic: Liq -> NiAl + τ4 + τ7 |  | model | [1] Liao 2019 | Table 5, p. 10, row 5 |  |
-| 1491.15 | quasi-peritectic: Liq + τ2 -> τ3 + τ5 |  | model | [1] Liao 2019 | Table 5, p. 10, row 6 |  |
-| 1490.15 | quasi-peritectic: Liq + Ni5Pr -> τ6 + Ni17Pr2 |  | model | [1] Liao 2019 | Table 5, p. 10, row 7 |  |
-| 1454.15 | peritectic: Liq + τ6 + fcc -> Ni5Pr |  | model | [1] Liao 2019 | Table 5, p. 10, row 8 |  |
-| 1419.15 | eutectic: Liq -> τ7 + τ6 + τ8 |  | model | [1] Liao 2019 | Table 5, p. 10, row 9 |  |
-| 1414.15 | eutectic: Liq -> τ5 + PrAl2 + τ3 |  | model | [1] Liao 2019 | Table 5, p. 10, row 10 |  |
-| 1403.15 | quasi-peritectic: Liq + fcc -> Ni5Pr + Ni3Al |  | model | [1] Liao 2019 | Table 5, p. 10, row 11 |  |
-| 1396.15 | eutectic: Liq -> PrAl2 + τ3 + β\_Pr3Al11 |  | model | [1] Liao 2019 | Table 5, p. 10, row 12 |  |
-| 1375.15 | quasi-peritectic: Liq + NiAl -> Al3Ni2 + τ2 |  | model | [1] Liao 2019 | Table 5, p. 10, row 13 |  |
-| 1362.15 | eutectic: Liq -> Ni5Pr + Ni3Al + NiAl |  | model | [1] Liao 2019 | Table 5, p. 10, row 14 |  |
-| 1359.15 | eutectic: Liq -> Ni5Pr + τ7 + τ6 |  | model | [1] Liao 2019 | Table 5, p. 10, row 15 |  |
-| 1338.15 | eutectic: Liq -> Ni5Pr + NiAl + τ7 |  | model | [1] Liao 2019 | Table 5, p. 10, row 16 |  |
-| 1268.15 | quasi-peritectic: Liq + Ni17Pr2 -> τ6 + Ni3Pr |  | model | [1] Liao 2019 | Table 5, p. 10, row 17 |  |
-| 1240.15 | peritectic: Liq + τ6 + Ni3Pr -> Ni2Pr |  | model | [1] Liao 2019 | Table 5, p. 10, row 18 |  |
-| 1238.15 | quasi-peritectic: Liq + β\_Pr3Al11 -> τ3 + α\_Pr3Al11 |  | model | [1] Liao 2019 | Table 5, p. 10, row 19 |  |
-| 1221.15 | quasi-peritectic: Liq + τ2 -> τ3 + τ1 |  | model | [1] Liao 2019 | Table 5, p. 10, row 20 |  |
-| 1158.15 | quasi-peritectic: Liq + τ2 -> τ1 + Al3Ni2 |  | model | [1] Liao 2019 | Table 5, p. 10, row 21 |  |
-| 1110.15 | quasi-peritectic: Liq + Al3Ni2 -> Al3Ni + τ1 |  | model | [1] Liao 2019 | Table 5, p. 10, row 22 |  |
-| 1100.15 | quasi-peritectic: Liq + τ3 -> α\_Pr3Al11 + τ1 |  | model | [1] Liao 2019 | Table 5, p. 10, row 23 |  |
-| 1074.15 | quasi-peritectic: Liq + τ5 -> τ7 + PrAl2 |  | model | [1] Liao 2019 | Table 5, p. 10, row 24 |  |
-| 1073.15 | quasi-peritectic: Liq + τ6 -> τ8 + Ni2Pr |  | model | [1] Liao 2019 | Table 5, p. 10, row 25 |  |
-| 934.15 | quasi-peritectic: Liq + Ni2Pr -> τ8 + NiPr |  | model | [1] Liao 2019 | Table 5, p. 10, row 26 |  |
-| 909.15 | quasi-peritectic: Liq + τ1 -> α\_Pr3Al11 + Al3Ni |  | model | [1] Liao 2019 | Table 5, p. 10, row 27 |  |
-| 895.15 | eutectic: bcc -> Liq + dhcp + Pr3Al |  | model | [1] Liao 2019 | Table 5, p. 10, row 29 |  |
-| 894.15 | eutectic: Liq -> α\_Pr3Al11 + fcc + τ1 |  | model | [1] Liao 2019 | Table 5, p. 10, row 28 |  |
-| 815.15 | eutectic: Liq -> τ7 + dhcp + τ8 |  | model | [1] Liao 2019 | Table 5, p. 10, row 30 |  |
-| 784.15 | quasi-peritectic: Liq + PrAl2 -> τ7 + PrAl |  | model | [1] Liao 2019 | Table 5, p. 10, row 31 |  |
-| 780.15 | eutectic: Liq -> τ8 + NiPr3 + Ni3Pr7 |  | model | [1] Liao 2019 | Table 5, p. 10, row 32 |  |
-| 772.15 | eutectic: Liq -> dhcp + τ8 + NiPr3 |  | model | [1] Liao 2019 | Table 5, p. 10, row 33 |  |
-| 771.15 | eutectic: Liq -> τ8 + Ni3Pr7 + NiPr |  | model | [1] Liao 2019 | Table 5, p. 10, row 34 |  |
-| 720.15 | quasi-peritectic: Liq + PrAl -> τ7 + Pr2Al |  | model | [1] Liao 2019 | Table 5, p. 10, row 35 |  |
-| 650.15 | quasi-peritectic: Liq + Pr2Al -> τ7 + Pr3Al |  | model | [1] Liao 2019 | Table 5, p. 10, row 36 |  |
-| 626.15 | eutectic: Liq -> τ7 + Pr3Al + dhcp |  | model | [1] Liao 2019 | Table 5, p. 10, row 37 |  |
+| 1644.15 | quasi-peritectic: Liq + τ7 -> τ4 + τ5 |  | model | [1] Liao 2019 | Table 5, p. 10, row 1; `ORC-NZ4NZJX34C` |  |
+| 1613.15 | eutectic: Liq -> τ2 + τ5 + τ4 |  | model | [1] Liao 2019 | Table 5, p. 10, row 2; `ORC-ISI57EBPDZ` |  |
+| 1545.15 | eutectic: Liq -> τ2 + NiAl + τ4 |  | model | [1] Liao 2019 | Table 5, p. 10, row 3; `ORC-RZR6IQ4FRN` |  |
+| 1530.15 | eutectic: Liq -> τ6 + Ni5Pr + fcc |  | model | [1] Liao 2019 | Table 5, p. 10, row 4; `ORC-V26AXFOR2W` |  |
+| 1511.15 | eutectic: Liq -> NiAl + τ4 + τ7 |  | model | [1] Liao 2019 | Table 5, p. 10, row 5; `ORC-4MZINYLB5Y` |  |
+| 1491.15 | quasi-peritectic: Liq + τ2 -> τ3 + τ5 |  | model | [1] Liao 2019 | Table 5, p. 10, row 6; `ORC-MJZ45NNCSP` |  |
+| 1490.15 | quasi-peritectic: Liq + Ni5Pr -> τ6 + Ni17Pr2 |  | model | [1] Liao 2019 | Table 5, p. 10, row 7; `ORC-BMABMXY5UZ` |  |
+| 1454.15 | peritectic: Liq + τ6 + fcc -> Ni5Pr |  | model | [1] Liao 2019 | Table 5, p. 10, row 8; `ORC-7DFWYNAMSE` |  |
+| 1419.15 | eutectic: Liq -> τ7 + τ6 + τ8 |  | model | [1] Liao 2019 | Table 5, p. 10, row 9; `ORC-RXBQE3JWLD` |  |
+| 1414.15 | eutectic: Liq -> τ5 + PrAl2 + τ3 |  | model | [1] Liao 2019 | Table 5, p. 10, row 10; `ORC-KIR4Z5FCPI` |  |
+| 1403.15 | quasi-peritectic: Liq + fcc -> Ni5Pr + Ni3Al |  | model | [1] Liao 2019 | Table 5, p. 10, row 11; `ORC-LY5WHT3UPU` |  |
+| 1396.15 | eutectic: Liq -> PrAl2 + τ3 + β\_Pr3Al11 |  | model | [1] Liao 2019 | Table 5, p. 10, row 12; `ORC-3AVAVZFKX7` |  |
+| 1375.15 | quasi-peritectic: Liq + NiAl -> Al3Ni2 + τ2 |  | model | [1] Liao 2019 | Table 5, p. 10, row 13; `ORC-5TDM75OSZ6` |  |
+| 1362.15 | eutectic: Liq -> Ni5Pr + Ni3Al + NiAl |  | model | [1] Liao 2019 | Table 5, p. 10, row 14; `ORC-PXPGVPN2DT` |  |
+| 1359.15 | eutectic: Liq -> Ni5Pr + τ7 + τ6 |  | model | [1] Liao 2019 | Table 5, p. 10, row 15; `ORC-KCJW3JNRTR` |  |
+| 1338.15 | eutectic: Liq -> Ni5Pr + NiAl + τ7 |  | model | [1] Liao 2019 | Table 5, p. 10, row 16; `ORC-AAFCX4VUD4` |  |
+| 1268.15 | quasi-peritectic: Liq + Ni17Pr2 -> τ6 + Ni3Pr |  | model | [1] Liao 2019 | Table 5, p. 10, row 17; `ORC-264TCNCGTR` |  |
+| 1240.15 | peritectic: Liq + τ6 + Ni3Pr -> Ni2Pr |  | model | [1] Liao 2019 | Table 5, p. 10, row 18; `ORC-WRPZF4SPFS` |  |
+| 1238.15 | quasi-peritectic: Liq + β\_Pr3Al11 -> τ3 + α\_Pr3Al11 |  | model | [1] Liao 2019 | Table 5, p. 10, row 19; `ORC-U7KOI2WRZY` |  |
+| 1221.15 | quasi-peritectic: Liq + τ2 -> τ3 + τ1 |  | model | [1] Liao 2019 | Table 5, p. 10, row 20; `ORC-JM5FKK43YA` |  |
+| 1158.15 | quasi-peritectic: Liq + τ2 -> τ1 + Al3Ni2 |  | model | [1] Liao 2019 | Table 5, p. 10, row 21; `ORC-T5TRICLVBR` |  |
+| 1110.15 | quasi-peritectic: Liq + Al3Ni2 -> Al3Ni + τ1 |  | model | [1] Liao 2019 | Table 5, p. 10, row 22; `ORC-LRFJLSGFMJ` |  |
+| 1100.15 | quasi-peritectic: Liq + τ3 -> α\_Pr3Al11 + τ1 |  | model | [1] Liao 2019 | Table 5, p. 10, row 23; `ORC-A5TX4LTOXR` |  |
+| 1074.15 | quasi-peritectic: Liq + τ5 -> τ7 + PrAl2 |  | model | [1] Liao 2019 | Table 5, p. 10, row 24; `ORC-6CFDZB2QW5` |  |
+| 1073.15 | quasi-peritectic: Liq + τ6 -> τ8 + Ni2Pr |  | model | [1] Liao 2019 | Table 5, p. 10, row 25; `ORC-GK46FY3M4Q` |  |
+| 934.15 | quasi-peritectic: Liq + Ni2Pr -> τ8 + NiPr |  | model | [1] Liao 2019 | Table 5, p. 10, row 26; `ORC-C3WSKJKD37` |  |
+| 909.15 | quasi-peritectic: Liq + τ1 -> α\_Pr3Al11 + Al3Ni |  | model | [1] Liao 2019 | Table 5, p. 10, row 27; `ORC-IGQ3XY2X2O` |  |
+| 895.15 | eutectic: bcc -> Liq + dhcp + Pr3Al |  | model | [1] Liao 2019 | Table 5, p. 10, row 29; `ORC-UGHMOJWHLY` |  |
+| 894.15 | eutectic: Liq -> α\_Pr3Al11 + fcc + τ1 |  | model | [1] Liao 2019 | Table 5, p. 10, row 28; `ORC-V77U2YT66D` |  |
+| 815.15 | eutectic: Liq -> τ7 + dhcp + τ8 |  | model | [1] Liao 2019 | Table 5, p. 10, row 30; `ORC-TUTOYLIYVB` |  |
+| 784.15 | quasi-peritectic: Liq + PrAl2 -> τ7 + PrAl |  | model | [1] Liao 2019 | Table 5, p. 10, row 31; `ORC-E3HHW5MING` |  |
+| 780.15 | eutectic: Liq -> τ8 + NiPr3 + Ni3Pr7 |  | model | [1] Liao 2019 | Table 5, p. 10, row 32; `ORC-TNF3MIPNIH` |  |
+| 772.15 | eutectic: Liq -> dhcp + τ8 + NiPr3 |  | model | [1] Liao 2019 | Table 5, p. 10, row 33; `ORC-HYEPCWFULH` |  |
+| 771.15 | eutectic: Liq -> τ8 + Ni3Pr7 + NiPr |  | model | [1] Liao 2019 | Table 5, p. 10, row 34; `ORC-RIV5BJEEFY` |  |
+| 720.15 | quasi-peritectic: Liq + PrAl -> τ7 + Pr2Al |  | model | [1] Liao 2019 | Table 5, p. 10, row 35; `ORC-M4PDANGH6R` |  |
+| 650.15 | quasi-peritectic: Liq + Pr2Al -> τ7 + Pr3Al |  | model | [1] Liao 2019 | Table 5, p. 10, row 36; `ORC-MUZMBWZL3C` |  |
+| 626.15 | eutectic: Liq -> τ7 + Pr3Al + dhcp |  | model | [1] Liao 2019 | Table 5, p. 10, row 37; `ORC-IOBALHZFQA` |  |
 
 ## Formation enthalpies
 
@@ -76,35 +76,35 @@ Table: Enthalpies of formation, Al–Ni–Pr system (29)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Ni2Al3Pr |  | -61.34 kJ/mol-atom |  | model |  |  | [1] Liao 2019 | Table 4, p. 6, row 11 |  |
-| Ni2Al3Pr |  | -58.17 kJ/mol-atom |  | DFT |  |  | [1] Liao 2019; _cites Kirklin 2015_ | Table 4, p. 6, row 12 |  |
-| Ni2Al3Pr |  | -57.21 kJ/mol-atom |  | DFT |  |  | [1] Liao 2019; _cites Jain 2013_ | Table 4, p. 6, row 13 |  |
-| Ni2Al5Pr |  | -57.02 kJ/mol-atom |  | DFT |  |  | [1] Liao 2019; _cites Kirklin 2015_ | Table 4, p. 6, row 4 |  |
-| Ni2Al5Pr |  | -52.5 kJ/mol-atom |  | model |  |  | [1] Liao 2019 | Table 4, p. 6, row 6 |  |
-| Ni2Al5Pr |  | -49.56 kJ/mol-atom |  | model |  |  | [1] Liao 2019 | Table 4, p. 6, row 3 |  |
-| Ni2Al7Pr |  | -40.61 kJ/mol-atom |  | model |  |  | [1] Liao 2019 | Table 4, p. 6, row 1 |  |
-| Ni2AlPr2 |  | -56.01 kJ/mol-atom |  | model |  |  | [1] Liao 2019 | Table 4, p. 6, row 29 |  |
-| Ni2AlPr2 |  | -54.19 kJ/mol-atom |  | model |  |  | [1] Liao 2019 | Table 4, p. 6, row 26 |  |
-| Ni2AlPr2 |  | -40.48 kJ/mol-atom |  | DFT |  |  | [1] Liao 2019; _cites Kirklin 2015_ | Table 4, p. 6, row 27 |  |
-| Ni8AlPr3 |  | -30.96 kJ/mol-atom |  | DFT |  |  | [1] Liao 2019; _cites Jain 2013_ | Table 4, p. 6, row 19 |  |
-| NiAl2Pr |  | -55.02 kJ/mol-atom |  | DFT |  |  | [1] Liao 2019; _cites Jain 2013_ | Table 4, p. 6, row 16 |  |
-| NiAl4Pr |  | -51.83 kJ/mol-atom |  | DFT |  |  | [1] Liao 2019; _cites Jain 2013_ | Table 4, p. 6, row 9 |  |
-| NiAl4Pr |  | -49.91 kJ/mol-atom |  | model |  |  | [1] Liao 2019 | Table 4, p. 6, row 10 |  |
-| NiAl4Pr |  | -49.71 kJ/mol-atom |  | model |  |  | [1] Liao 2019 | Table 4, p. 6, row 7 |  |
-| NiAlPr |  | -66.97 kJ/mol-atom |  | model |  |  | [1] Liao 2019 | Table 4, p. 6, row 22 |  |
-| NiAlPr |  | -62.07 kJ/mol-atom |  | model |  |  | [1] Liao 2019 | Table 4, p. 6, row 25 |  |
-| NiAlPr |  | -56 kJ/mol-atom ± 3 | 300 | experimental |  |  | [1] Liao 2019; _cites Borzone 2003_ | Table 4, p. 6, row 21 |  |
-| NiAlPr |  | -47.6 kJ/mol-atom |  | DFT |  |  | [1] Liao 2019; _cites Kirklin 2015_ | Table 4, p. 6, row 23 |  |
-| NiAlPr |  | -46.54 kJ/mol-atom |  | DFT |  |  | [1] Liao 2019; _cites Jain 2013_ | Table 4, p. 6, row 24 |  |
-| NiAl₂Pr |  | -66.32 kJ/mol-atom |  | model |  |  | [1] Liao 2019 | Table 4, p. 6, row 15 |  |
-| NiAl₂Pr |  | -66.21 kJ/mol-atom |  | model |  |  | [1] Liao 2019 | Table 4, p. 6, row 17 |  |
-| NiAl₄Pr |  | -52.02 kJ/mol-atom |  | DFT |  |  | [1] Liao 2019; _cites Kirklin 2015_ | Table 4, p. 6, row 8 |  |
-| Ni₂AlPr₂ |  | -38.37 kJ/mol-atom |  | DFT |  |  | [1] Liao 2019; _cites Jain 2013_ | Table 4, p. 6, row 28 |  |
-| Ni₂Al₃Pr |  | -62.41 kJ/mol-atom |  | model |  |  | [1] Liao 2019 | Table 4, p. 6, row 14 |  |
-| Ni₂Al₅Pr |  | -56.44 kJ/mol-atom |  | DFT |  |  | [1] Liao 2019; _cites Jain 2013_ | Table 4, p. 6, row 5 |  |
-| Ni₂Al₇Pr |  | -40.91 kJ/mol-atom |  | model |  |  | [1] Liao 2019 | Table 4, p. 6, row 2 |  |
-| Ni₈AlPr₃ |  | -38.59 kJ/mol-atom |  | model |  |  | [1] Liao 2019 | Table 4, p. 6, row 20 |  |
-| Ni₈AlPr₃ |  | -37.18 kJ/mol-atom |  | model |  |  | [1] Liao 2019 | Table 4, p. 6, row 18 |  |
+| Ni2Al3Pr |  | -61.34 kJ/mol-atom |  | model |  |  | [1] Liao 2019 | Table 4, p. 6, row 11; `ORC-EML7MXJBZG.53809d` |  |
+| Ni2Al3Pr |  | -58.17 kJ/mol-atom |  | DFT |  |  | [1] Liao 2019; _cites Kirklin 2015_ | Table 4, p. 6, row 12; `ORC-IIFS7E73AH.2c3284` |  |
+| Ni2Al3Pr |  | -57.21 kJ/mol-atom |  | DFT |  |  | [1] Liao 2019; _cites Jain 2013_ | Table 4, p. 6, row 13; `ORC-V4FGAD4FTA.13e3ef` |  |
+| Ni2Al5Pr |  | -57.02 kJ/mol-atom |  | DFT |  |  | [1] Liao 2019; _cites Kirklin 2015_ | Table 4, p. 6, row 4; `ORC-3ZE4GWV3ZV.2977cb` |  |
+| Ni2Al5Pr |  | -52.5 kJ/mol-atom |  | model |  |  | [1] Liao 2019 | Table 4, p. 6, row 6; `ORC-BV43LPFLC5.8aae42` |  |
+| Ni2Al5Pr |  | -49.56 kJ/mol-atom |  | model |  |  | [1] Liao 2019 | Table 4, p. 6, row 3; `ORC-DVYF2XWRDN.04eb9c` |  |
+| Ni2Al7Pr |  | -40.61 kJ/mol-atom |  | model |  |  | [1] Liao 2019 | Table 4, p. 6, row 1; `ORC-O6ORJJTW46.507807` |  |
+| Ni2AlPr2 |  | -56.01 kJ/mol-atom |  | model |  |  | [1] Liao 2019 | Table 4, p. 6, row 29; `ORC-FIVLT3ATCL.757a28` |  |
+| Ni2AlPr2 |  | -54.19 kJ/mol-atom |  | model |  |  | [1] Liao 2019 | Table 4, p. 6, row 26; `ORC-REJY3TRGYM.07d430` |  |
+| Ni2AlPr2 |  | -40.48 kJ/mol-atom |  | DFT |  |  | [1] Liao 2019; _cites Kirklin 2015_ | Table 4, p. 6, row 27; `ORC-SSF3O7Z5E5.081357` |  |
+| Ni8AlPr3 |  | -30.96 kJ/mol-atom |  | DFT |  |  | [1] Liao 2019; _cites Jain 2013_ | Table 4, p. 6, row 19; `ORC-RNIZE2T3B5.91e015` |  |
+| NiAl2Pr |  | -55.02 kJ/mol-atom |  | DFT |  |  | [1] Liao 2019; _cites Jain 2013_ | Table 4, p. 6, row 16; `ORC-DRINF3WXUW.9dd593` |  |
+| NiAl4Pr |  | -51.83 kJ/mol-atom |  | DFT |  |  | [1] Liao 2019; _cites Jain 2013_ | Table 4, p. 6, row 9; `ORC-KWB4IDIMAR.161f4d` |  |
+| NiAl4Pr |  | -49.91 kJ/mol-atom |  | model |  |  | [1] Liao 2019 | Table 4, p. 6, row 10; `ORC-TCQASYORN5.5fc827` |  |
+| NiAl4Pr |  | -49.71 kJ/mol-atom |  | model |  |  | [1] Liao 2019 | Table 4, p. 6, row 7; `ORC-GY6HFTN5B5.c054a4` |  |
+| NiAlPr |  | -66.97 kJ/mol-atom |  | model |  |  | [1] Liao 2019 | Table 4, p. 6, row 22; `ORC-LX55FPX3UB` |  |
+| NiAlPr |  | -62.07 kJ/mol-atom |  | model |  |  | [1] Liao 2019 | Table 4, p. 6, row 25; `ORC-TJIGRAE3UR` |  |
+| NiAlPr |  | -56 kJ/mol-atom ± 3 | 300 | experimental |  |  | [1] Liao 2019; _cites Borzone 2003_ | Table 4, p. 6, row 21; `ORC-6FDZV64ILN.5080eb` |  |
+| NiAlPr |  | -47.6 kJ/mol-atom |  | DFT |  |  | [1] Liao 2019; _cites Kirklin 2015_ | Table 4, p. 6, row 23; `ORC-O26DKNIH2Y` |  |
+| NiAlPr |  | -46.54 kJ/mol-atom |  | DFT |  |  | [1] Liao 2019; _cites Jain 2013_ | Table 4, p. 6, row 24; `ORC-ZKV4HLBZE6` |  |
+| NiAl₂Pr |  | -66.32 kJ/mol-atom |  | model |  |  | [1] Liao 2019 | Table 4, p. 6, row 15; `ORC-IMD4244FIX.48561a` |  |
+| NiAl₂Pr |  | -66.21 kJ/mol-atom |  | model |  |  | [1] Liao 2019 | Table 4, p. 6, row 17; `ORC-QWEDHM3DYN.90522e` |  |
+| NiAl₄Pr |  | -52.02 kJ/mol-atom |  | DFT |  |  | [1] Liao 2019; _cites Kirklin 2015_ | Table 4, p. 6, row 8; `ORC-UMU3U3GRSX.5ce736` |  |
+| Ni₂AlPr₂ |  | -38.37 kJ/mol-atom |  | DFT |  |  | [1] Liao 2019; _cites Jain 2013_ | Table 4, p. 6, row 28; `ORC-NCAQTNBNAI.19136e` |  |
+| Ni₂Al₃Pr |  | -62.41 kJ/mol-atom |  | model |  |  | [1] Liao 2019 | Table 4, p. 6, row 14; `ORC-47CJFTHNYF.1c3818` |  |
+| Ni₂Al₅Pr |  | -56.44 kJ/mol-atom |  | DFT |  |  | [1] Liao 2019; _cites Jain 2013_ | Table 4, p. 6, row 5; `ORC-2MBUDOK3LY.a5c8d0` |  |
+| Ni₂Al₇Pr |  | -40.91 kJ/mol-atom |  | model |  |  | [1] Liao 2019 | Table 4, p. 6, row 2; `ORC-UULYRIUEJS.02f3de` |  |
+| Ni₈AlPr₃ |  | -38.59 kJ/mol-atom |  | model |  |  | [1] Liao 2019 | Table 4, p. 6, row 20; `ORC-ZN2SD64CUS.21f1de` |  |
+| Ni₈AlPr₃ |  | -37.18 kJ/mol-atom |  | model |  |  | [1] Liao 2019 | Table 4, p. 6, row 18; `ORC-GW4TTRFD5N.dcfdf8` |  |
 
 ## Other properties
 
@@ -114,9 +114,9 @@ Table: Phase transition, Al–Ni–Pr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1238.15 K | 1238.15 | polymorphic | model | [1] Liao 2019 | p. 7 | “For the Al11Pr3 phase, the allotropic transformation was included, and the transformation temperature between the α-Al11Pr3 and β-Al11Pr3 phases is 965 °C, which is the same as that in the literature \[19\].” |
-| Phase transition | 1348.15 K | 1348.15 | β-Al11Pr3 + Al2Pr -> Al3Pr | model | [1] Liao 2019 | p. 7 | “The temperatures of the related invariant reactions, Liq+Al2Pr→β-Al11Pr3 and β-Al11Pr3+Al2Pr→Al3Pr were 1246 °C and 1075 °C, respectively, which is consistent with the experimental data.” |
-| Phase transition | 1519.15 K | 1519.15 | Liq + Al2Pr -> β-Al11Pr3 | model | [1] Liao 2019 | p. 7 | “The temperatures of the related invariant reactions, Liq+Al2Pr→β-Al11Pr3 and β-Al11Pr3+Al2Pr→Al3Pr were 1246 °C and 1075 °C, respectively, which is consistent with the experimental data.” |
+| Phase transition | 1238.15 K | 1238.15 | polymorphic | model | [1] Liao 2019 | p. 7; `ORC-IWNSZJAHA4` | “For the Al11Pr3 phase, the allotropic transformation was included, and the transformation temperature between the α-Al11Pr3 and β-Al11Pr3 phases is 965 °C, which is the same as that in the literature \[19\].” |
+| Phase transition | 1348.15 K | 1348.15 | β-Al11Pr3 + Al2Pr -> Al3Pr | model | [1] Liao 2019 | p. 7; `ORC-OV76BX4NT5.53c9cb` | “The temperatures of the related invariant reactions, Liq+Al2Pr→β-Al11Pr3 and β-Al11Pr3+Al2Pr→Al3Pr were 1246 °C and 1075 °C, respectively, which is consistent with the experimental data.” |
+| Phase transition | 1519.15 K | 1519.15 | Liq + Al2Pr -> β-Al11Pr3 | model | [1] Liao 2019 | p. 7; `ORC-OV76BX4NT5.883e47` | “The temperatures of the related invariant reactions, Liq+Al2Pr→β-Al11Pr3 and β-Al11Pr3+Al2Pr→Al3Pr were 1246 °C and 1075 °C, respectively, which is consistent with the experimental data.” |
 
 ## Sources
 
@@ -159,4 +159,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

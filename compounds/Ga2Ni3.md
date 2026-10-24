@@ -14,8 +14,8 @@ Table: Enthalpy of formation of Ga2Ni3 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -36 kJ/mol-atom | Ni3Ga2 | 300 | experimental |  | [Ga–Ni](https://data.orchid-project.org/systems/GA-NI.html) | [1] Gröbner 1999; _cites Martosudirjo 1976_ [doi](https://doi.org/10.1016/0040-6031%2876%2985025-3) | Table 1, p. 2, row 7 |  |
-| -37.2 kJ/mol-atom | Ni3Ga2 | 298.15 | model |  | [Ga–Ni](https://data.orchid-project.org/systems/GA-NI.html) | [1] Gröbner 1999 | Table 1, p. 2, row 8 |  |
+| -36 kJ/mol-atom | Ni3Ga2 | 300 | experimental |  | [Ga–Ni](https://data.orchid-project.org/systems/GA-NI.html) | [1] Gröbner 1999; _cites Martosudirjo 1976_ [doi](https://doi.org/10.1016/0040-6031%2876%2985025-3) | Table 1, p. 2, row 7; `ORC-L2N3QXBNAM` |  |
+| -37.2 kJ/mol-atom | Ni3Ga2 | 298.15 | model |  | [Ga–Ni](https://data.orchid-project.org/systems/GA-NI.html) | [1] Gröbner 1999 | Table 1, p. 2, row 8; `ORC-CPZCUB2R2A` |  |
 
 ### Uncertainty budget
 
@@ -91,4 +91,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

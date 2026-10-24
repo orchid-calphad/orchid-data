@@ -49,17 +49,17 @@ Table: Invariant reactions reported in the literature for the K–Te system (11)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 923 | Na5Te3 -> liq + K2Te |  | experimental | [1] Chen 2014; _cites Khavachev 1998_ | Table 5, p. 6, row 4 |  |
-| 915 | Na5Te3 -> liq + K2Te | Na5Te3: Te 0.43 | model | [1] Chen 2014 | Table 5, p. 6, row 3 |  |
-| 902 | Na5Te3 -> liq + K2Te |  | experimental | [1] Chen 2014; _cites Schewe-Miller_ | Table 5, p. 6, row 5 |  |
-| 688 | KTe -> liq + K5Te3 |  | experimental | [1] Chen 2014; _cites Khavachev 1998_ | Table 5, p. 6, row 7 |  |
-| 685 | KTe -> liq + K5Te3 | KTe: Te 0.53 | model | [1] Chen 2014 | Table 5, p. 6, row 6 |  |
-| 669 | liq -> K2Te3 + KTe | liq: Te 0.55 | model | [1] Chen 2014 | Table 5, p. 6, row 8 |  |
-| 660 | liq -> K2Te3 + KTe |  | experimental | [1] Chen 2014; _cites Khavachev 1998_ | Table 5, p. 6, row 9 |  |
-| 526 | liq -> K2Te3 + Te | liq: Te 0.76 | model | [1] Chen 2014 | Table 5, p. 6, row 10 |  |
-| 525 | liq -> K2Te3 + Te |  | experimental | [1] Chen 2014; _cites Khavachev 1998_ | Table 5, p. 6, row 11 |  |
-| 336 | liq -> K + K2Te |  | experimental | [1] Chen 2014; _cites Khavachev 1998_ | Table 5, p. 6, row 2 |  |
-| 335 | liq -> K + K2Te | K: Te 1.000e-4 | model | [1] Chen 2014 | Table 5, p. 6, row 1 |  |
+| 923 | Na5Te3 -> liq + K2Te |  | experimental | [1] Chen 2014; _cites Khavachev 1998_ | Table 5, p. 6, row 4; `ORC-GHDZFILLHW` |  |
+| 915 | Na5Te3 -> liq + K2Te | Na5Te3: Te 0.43 | model | [1] Chen 2014 | Table 5, p. 6, row 3; `ORC-ROQUCEH7YA` |  |
+| 902 | Na5Te3 -> liq + K2Te |  | experimental | [1] Chen 2014; _cites Schewe-Miller_ | Table 5, p. 6, row 5; `ORC-HADLCAJ5VL` |  |
+| 688 | KTe -> liq + K5Te3 |  | experimental | [1] Chen 2014; _cites Khavachev 1998_ | Table 5, p. 6, row 7; `ORC-SJNEHFAZ76` |  |
+| 685 | KTe -> liq + K5Te3 | KTe: Te 0.53 | model | [1] Chen 2014 | Table 5, p. 6, row 6; `ORC-RENFX6Y2XV` |  |
+| 669 | liq -> K2Te3 + KTe | liq: Te 0.55 | model | [1] Chen 2014 | Table 5, p. 6, row 8; `ORC-IBQR5QAVWC` |  |
+| 660 | liq -> K2Te3 + KTe |  | experimental | [1] Chen 2014; _cites Khavachev 1998_ | Table 5, p. 6, row 9; `ORC-BHQVGKFPH3` |  |
+| 526 | liq -> K2Te3 + Te | liq: Te 0.76 | model | [1] Chen 2014 | Table 5, p. 6, row 10; `ORC-UB5WP7FQJM` |  |
+| 525 | liq -> K2Te3 + Te |  | experimental | [1] Chen 2014; _cites Khavachev 1998_ | Table 5, p. 6, row 11; `ORC-FEOW765WF3` |  |
+| 336 | liq -> K + K2Te |  | experimental | [1] Chen 2014; _cites Khavachev 1998_ | Table 5, p. 6, row 2; `ORC-WFCHJAB5FD` |  |
+| 335 | liq -> K + K2Te | K: Te 1.000e-4 | model | [1] Chen 2014 | Table 5, p. 6, row 1; `ORC-VI6BC6F2TB` |  |
 
 ## Sources
 
@@ -124,4 +124,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

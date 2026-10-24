@@ -14,16 +14,16 @@ Table: Enthalpy of formation of SnSe2 reported in the literature (10)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -51 kJ/mol-atom ± 3 | SnSe2 | 298.15 | experimental |  | [Se–Sn](https://data.orchid-project.org/systems/SE-SN.html) | [1] Feutelais 1996; _cites ref. 67Kar_ | Table 9, p. 8, row 4 |  |
-| -51 kJ/mol-atom ± 3 | SnSe2 | 298.15 | experimental |  | [Se–Sn](https://data.orchid-project.org/systems/SE-SN.html) | [1] Feutelais 1996; _cites ref. 67Kar_ | Table 9, p. 8, row 3 |  |
-| -42.3 kJ/mol-atom ± 0.5 | SnSe2 | 298.15 | experimental |  | [Se–Sn](https://data.orchid-project.org/systems/SE-SN.html) | [1] Feutelais 1996; _cites Boone 1992_ [doi](https://doi.org/10.1016/0040-6031%2892%2987043-a) | Table 9, p. 8, row 9 |  |
-| -42.3 kJ/mol-atom ± 0.5 | SnSe2 | 298.15 | experimental |  | [Se–Sn](https://data.orchid-project.org/systems/SE-SN.html) | [1] Feutelais 1996; _cites Boone 1992_ [doi](https://doi.org/10.1016/0040-6031%2892%2987043-a) | Table 9, p. 8, row 10 |  |
-| -41.5 kJ/mol-atom ± 0.4 | SnSe2 | 298.15 | experimental |  | [Se–Sn](https://data.orchid-project.org/systems/SE-SN.html) | [1] Feutelais 1996; _cites ref. 71Mel_ | Table 9, p. 8, row 7 |  |
-| -41.5 kJ/mol-atom ± 0.4 | SnSe2 | 298.15 | experimental |  | [Se–Sn](https://data.orchid-project.org/systems/SE-SN.html) | [1] Feutelais 1996; _cites ref. 71Mel_ | Table 9, p. 8, row 6 |  |
-| -40.3 kJ/mol-atom ± 2.7 | SnSe2 | 298.15 | experimental |  | [Se–Sn](https://data.orchid-project.org/systems/SE-SN.html) | [1] Feutelais 1996; _cites ref. 67Rau_ | Table 9, p. 8, row 5 |  |
-| -36.3 kJ/mol-atom ± 7 | SnSe2 | 298.15 | experimental |  | [Se–Sn](https://data.orchid-project.org/systems/SE-SN.html) | [1] Feutelais 1996; _cites Kulyukhina 1977_ | Table 9, p. 8, row 8 |  |
-| -34.9 kJ/mol-atom | SnSe2 | 298.15 | model |  | [Se–Sn](https://data.orchid-project.org/systems/SE-SN.html) | [1] Feutelais 1996 | Table 9, p. 8, row 12 |  |
-| -34.9 kJ/mol-atom | SnSe2 | 298.15 | model |  | [Se–Sn](https://data.orchid-project.org/systems/SE-SN.html) | [1] Feutelais 1996 | Table 9, p. 8, row 11 |  |
+| -51 kJ/mol-atom ± 3 | SnSe2 | 298.15 | experimental |  | [Se–Sn](https://data.orchid-project.org/systems/SE-SN.html) | [1] Feutelais 1996; _cites ref. 67Kar_ | Table 9, p. 8, row 4; `ORC-L6DLXHTE3T` |  |
+| -51 kJ/mol-atom ± 3 | SnSe2 | 298.15 | experimental |  | [Se–Sn](https://data.orchid-project.org/systems/SE-SN.html) | [1] Feutelais 1996; _cites ref. 67Kar_ | Table 9, p. 8, row 3; `ORC-SXCESCRLPN.cb8c38` |  |
+| -42.3 kJ/mol-atom ± 0.5 | SnSe2 | 298.15 | experimental |  | [Se–Sn](https://data.orchid-project.org/systems/SE-SN.html) | [1] Feutelais 1996; _cites Boone 1992_ [doi](https://doi.org/10.1016/0040-6031%2892%2987043-a) | Table 9, p. 8, row 9; `ORC-2CEFS6VVEV.f2095c` |  |
+| -42.3 kJ/mol-atom ± 0.5 | SnSe2 | 298.15 | experimental |  | [Se–Sn](https://data.orchid-project.org/systems/SE-SN.html) | [1] Feutelais 1996; _cites Boone 1992_ [doi](https://doi.org/10.1016/0040-6031%2892%2987043-a) | Table 9, p. 8, row 10; `ORC-UINOJIYKR4` |  |
+| -41.5 kJ/mol-atom ± 0.4 | SnSe2 | 298.15 | experimental |  | [Se–Sn](https://data.orchid-project.org/systems/SE-SN.html) | [1] Feutelais 1996; _cites ref. 71Mel_ | Table 9, p. 8, row 7; `ORC-5IJONAH7FM` |  |
+| -41.5 kJ/mol-atom ± 0.4 | SnSe2 | 298.15 | experimental |  | [Se–Sn](https://data.orchid-project.org/systems/SE-SN.html) | [1] Feutelais 1996; _cites ref. 71Mel_ | Table 9, p. 8, row 6; `ORC-V7VHHJ5GSB.6a43c7` |  |
+| -40.3 kJ/mol-atom ± 2.7 | SnSe2 | 298.15 | experimental |  | [Se–Sn](https://data.orchid-project.org/systems/SE-SN.html) | [1] Feutelais 1996; _cites ref. 67Rau_ | Table 9, p. 8, row 5; `ORC-YL3KI5HEBL` |  |
+| -36.3 kJ/mol-atom ± 7 | SnSe2 | 298.15 | experimental |  | [Se–Sn](https://data.orchid-project.org/systems/SE-SN.html) | [1] Feutelais 1996; _cites Kulyukhina 1977_ | Table 9, p. 8, row 8; `ORC-EIUIOMC7XT` |  |
+| -34.9 kJ/mol-atom | SnSe2 | 298.15 | model |  | [Se–Sn](https://data.orchid-project.org/systems/SE-SN.html) | [1] Feutelais 1996 | Table 9, p. 8, row 12; `ORC-B3YKNHHBIQ` |  |
+| -34.9 kJ/mol-atom | SnSe2 | 298.15 | model |  | [Se–Sn](https://data.orchid-project.org/systems/SE-SN.html) | [1] Feutelais 1996 | Table 9, p. 8, row 11; `ORC-FU4YYPX6NM.31244a` |  |
 
 ### Uncertainty budget
 
@@ -108,4 +108,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -56,14 +56,14 @@ Table: Enthalpies of formation, Cr–Ta system (8)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Cr2Ta (LT) | [Cr2Ta](https://data.orchid-project.org/compounds/Cr2Ta.html) | -8.93 kJ/mol-atom |  | model | -11.01 (mp-aaaaadnt) | -12.142 (oqmd-18299) | [1] Dupin 1993 | Table 4, p. 5, row 3 |  |
-| Cr2Ta (LT) | [Cr2Ta](https://data.orchid-project.org/compounds/Cr2Ta.html) | -8.596 kJ/mol-atom |  | model | -11.01 (mp-aaaaadnt) | -12.142 (oqmd-18299) | [1] Dupin 1993 | Table 4, p. 5, row 4 |  |
-| Cr2Ta (LT) | [Cr2Ta](https://data.orchid-project.org/compounds/Cr2Ta.html) | -8.5 kJ/mol-atom ± 0.5 | 1693 | experimental | -11.01 (mp-aaaaadnt) | -12.142 (oqmd-18299) | [1] Dupin 1993; _cites Feschotte 1964_ [doi](https://doi.org/10.1039/tf9646001941) | Table 4, p. 5, row 1 |  |
-| Cr2Ta (LT) | [Cr2Ta](https://data.orchid-project.org/compounds/Cr2Ta.html) | -5 kJ/mol-atom | 1693 | model | -11.01 (mp-aaaaadnt) | -12.142 (oqmd-18299) | [1] Dupin 1993; _cites Kaufman 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990032-f) | Table 4, p. 5, row 2 |  |
-| Cr2Ta C14 |  | -8.5 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Pavlů 2009; _cites Feschotte 1964_ | Table 4, p. 4, row 5 |  |
-| CrTa2 (C14) |  | 76.35 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Pavlů 2009 | Table 5, p. 4, row 2 |  |
-| CrTa2 (C15) |  | 74.39 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Pavlů 2009 | Table 5, p. 4, row 4 |  |
-| CrTa2 (C36) |  | 75.34 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Pavlů 2009 | Table 5, p. 4, row 6 |  |
+| Cr2Ta (LT) | [Cr2Ta](https://data.orchid-project.org/compounds/Cr2Ta.html) | -8.93 kJ/mol-atom |  | model | -11.01 (mp-aaaaadnt) | -12.142 (oqmd-18299) | [1] Dupin 1993 | Table 4, p. 5, row 3; `ORC-XY46ZJB726.0bb0dd` |  |
+| Cr2Ta (LT) | [Cr2Ta](https://data.orchid-project.org/compounds/Cr2Ta.html) | -8.596 kJ/mol-atom |  | model | -11.01 (mp-aaaaadnt) | -12.142 (oqmd-18299) | [1] Dupin 1993 | Table 4, p. 5, row 4; `ORC-XM5K4B4HAN.05e9ac` |  |
+| Cr2Ta (LT) | [Cr2Ta](https://data.orchid-project.org/compounds/Cr2Ta.html) | -8.5 kJ/mol-atom ± 0.5 | 1693 | experimental | -11.01 (mp-aaaaadnt) | -12.142 (oqmd-18299) | [1] Dupin 1993; _cites Feschotte 1964_ [doi](https://doi.org/10.1039/tf9646001941) | Table 4, p. 5, row 1; `ORC-EE3RYO4H7V.7569a7` |  |
+| Cr2Ta (LT) | [Cr2Ta](https://data.orchid-project.org/compounds/Cr2Ta.html) | -5 kJ/mol-atom | 1693 | model | -11.01 (mp-aaaaadnt) | -12.142 (oqmd-18299) | [1] Dupin 1993; _cites Kaufman 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990032-f) | Table 4, p. 5, row 2; `ORC-RPMVUFZUGC.4a22bb` |  |
+| Cr2Ta C14 |  | -8.5 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Pavlů 2009; _cites Feschotte 1964_ | Table 4, p. 4, row 5; `ORC-O3KKQWDYD2` |  |
+| CrTa2 (C14) |  | 76.35 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Pavlů 2009 | Table 5, p. 4, row 2; `ORC-I6JIYOQRN2.67695a` |  |
+| CrTa2 (C15) |  | 74.39 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Pavlů 2009 | Table 5, p. 4, row 4; `ORC-OZLADSGIZJ.429a14` |  |
+| CrTa2 (C36) |  | 75.34 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Pavlů 2009 | Table 5, p. 4, row 6; `ORC-DOA4TRDBJU.6fdc6c` |  |
 
 ## Sources
 
@@ -129,4 +129,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

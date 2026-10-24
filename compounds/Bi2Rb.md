@@ -14,14 +14,14 @@ Table: Enthalpy of formation of Bi2Rb reported in the literature (8)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -25.9 kJ/mol-atom ± 2 | Bi2Rb | 298.15 | experimental | Vapor Pressure Measurements | [Bi–Rb](https://data.orchid-project.org/systems/BI-RB.html) | [1] Dziri 2022; _cites Voronin 1974_ | Table 4, p. 7, row 1 |  |
-| -25.9 per mol-atom ± 2 | Bi2Rb | 298.15 | experimental |  | [Bi–Rb](https://data.orchid-project.org/systems/BI-RB.html) | [2] Liu 2013; _cites Voronin 1974_ | Table 3, p. 4, row 1 |  |
-| -35.5 per mol-atom | Bi2Rb | 298.15 | model |  | [Bi–Rb](https://data.orchid-project.org/systems/BI-RB.html) | [2] Liu 2013 | Table 3, p. 4, row 2 |  |
-| -35.5 kJ/mol-atom | Bi2Rb |  | model | Calphad | [Bi–Rb](https://data.orchid-project.org/systems/BI-RB.html) | [1] Dziri 2022; _cites Liu 2013_ [doi](https://doi.org/10.1016/j.tca.2013.01.029) | Table 4, p. 7, row 2 |  |
-| -34.433 kJ/mol-atom | Bi2Rb |  | model | Calphad | [Bi–Rb](https://data.orchid-project.org/systems/BI-RB.html) | [1] Dziri 2022; _cites Cao 2014_ [doi](https://doi.org/10.1016/j.calphad.2014.04.001) | Table 4, p. 7, row 3 |  |
-| -31.917 kJ/mol-atom | Bi2Rb |  | model | Calphad | [Bi–Rb](https://data.orchid-project.org/systems/BI-RB.html) | [1] Dziri 2022 | Table 4, p. 7, row 4 |  |
-| -35.533 kJ/mol-atom | Bi2Rb | 0 | DFT | Ab-initio LDA | [Bi–Rb](https://data.orchid-project.org/systems/BI-RB.html) | [1] Dziri 2022 | Table 4, p. 7, row 6 |  |
-| -30.434 kJ/mol-atom | Bi2Rb | 0 | DFT | Ab-initio GGA | [Bi–Rb](https://data.orchid-project.org/systems/BI-RB.html) | [1] Dziri 2022 | Table 4, p. 7, row 5 |  |
+| -25.9 kJ/mol-atom ± 2 | Bi2Rb | 298.15 | experimental | Vapor Pressure Measurements | [Bi–Rb](https://data.orchid-project.org/systems/BI-RB.html) | [1] Dziri 2022; _cites Voronin 1974_ | Table 4, p. 7, row 1; `ORC-6SOWRE2DF4.c8006f` |  |
+| -25.9 per mol-atom ± 2 | Bi2Rb | 298.15 | experimental |  | [Bi–Rb](https://data.orchid-project.org/systems/BI-RB.html) | [2] Liu 2013; _cites Voronin 1974_ | Table 3, p. 4, row 1; `ORC-FYYOWDSXY7.77a0bf` |  |
+| -35.5 per mol-atom | Bi2Rb | 298.15 | model |  | [Bi–Rb](https://data.orchid-project.org/systems/BI-RB.html) | [2] Liu 2013 | Table 3, p. 4, row 2; `ORC-CFR5WXZQMW.07b7bd` |  |
+| -35.5 kJ/mol-atom | Bi2Rb |  | model | Calphad | [Bi–Rb](https://data.orchid-project.org/systems/BI-RB.html) | [1] Dziri 2022; _cites Liu 2013_ [doi](https://doi.org/10.1016/j.tca.2013.01.029) | Table 4, p. 7, row 2; `ORC-O5IXZUV7WJ.e32f2b` |  |
+| -34.433 kJ/mol-atom | Bi2Rb |  | model | Calphad | [Bi–Rb](https://data.orchid-project.org/systems/BI-RB.html) | [1] Dziri 2022; _cites Cao 2014_ [doi](https://doi.org/10.1016/j.calphad.2014.04.001) | Table 4, p. 7, row 3; `ORC-2ZFB7HJER4.d5877b` |  |
+| -31.917 kJ/mol-atom | Bi2Rb |  | model | Calphad | [Bi–Rb](https://data.orchid-project.org/systems/BI-RB.html) | [1] Dziri 2022 | Table 4, p. 7, row 4; `ORC-63U5R4AK4D.f9cc78` |  |
+| -35.533 kJ/mol-atom | Bi2Rb | 0 | DFT | Ab-initio LDA | [Bi–Rb](https://data.orchid-project.org/systems/BI-RB.html) | [1] Dziri 2022 | Table 4, p. 7, row 6; `ORC-Q55RWEY7ZE.2577aa` |  |
+| -30.434 kJ/mol-atom | Bi2Rb | 0 | DFT | Ab-initio GGA | [Bi–Rb](https://data.orchid-project.org/systems/BI-RB.html) | [1] Dziri 2022 | Table 4, p. 7, row 5; `ORC-CYOIAGTFBT.9a04c2` |  |
 
 ### Uncertainty budget
 
@@ -105,4 +105,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

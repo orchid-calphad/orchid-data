@@ -14,13 +14,13 @@ Table: Enthalpy of formation of MgB7 reported in the literature (7)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -20.3 per mol-atom ± 1.5 | MgB7 | 298.15 | experimental | Vap. p. | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 13 |  |
-| -20.3 kJ/mol-atom ± 1.5 | MgB7 | 298.15 | experimental | Vap. p. | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 13 |  |
-| -15.5 kJ/mol-atom ± 2.1 | MgB7 | 298.15 | experimental | Vap. p. | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 15 |  |
-| -13.4 kJ/mol-atom | MgB7 | 298.15 | experimental | calorimetry | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 17 |  |
-| -13.4 kJ/mol-atom ± 0.6 | MgB7 | 298.15 | experimental | calorimetry | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 16 |  |
-| -18.9 per mol-atom | MgB7 | 298.15 | model | Ph. diagr. assessment | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 14 |  |
-| -18.9 kJ/mol-atom | MgB7 | 298.15 | model | Ph. diagr. assessment | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 14 |  |
+| -20.3 per mol-atom ± 1.5 | MgB7 | 298.15 | experimental | Vap. p. | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 13; `ORC-P6MTDZ2R6C.cdf675` |  |
+| -20.3 kJ/mol-atom ± 1.5 | MgB7 | 298.15 | experimental | Vap. p. | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 13; `ORC-P6MTDZ2R6C.d17661` |  |
+| -15.5 kJ/mol-atom ± 2.1 | MgB7 | 298.15 | experimental | Vap. p. | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 15; `ORC-G5XQAHUA2A.b69905` |  |
+| -13.4 kJ/mol-atom | MgB7 | 298.15 | experimental | calorimetry | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 17; `ORC-KRQXJTFGPA.f6e9e4` |  |
+| -13.4 kJ/mol-atom ± 0.6 | MgB7 | 298.15 | experimental | calorimetry | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 16; `ORC-NNE6I23M5C.137242` |  |
+| -18.9 per mol-atom | MgB7 | 298.15 | model | Ph. diagr. assessment | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 14; `ORC-6QSEGQVYRF.1bc541` |  |
+| -18.9 kJ/mol-atom | MgB7 | 298.15 | model | Ph. diagr. assessment | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 14; `ORC-6QSEGQVYRF.a2be47` |  |
 
 ### Uncertainty budget
 
@@ -102,4 +102,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -14,12 +14,12 @@ Table: Enthalpy of formation of BeZr reported in the literature (6)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -21.4 kJ/mol-atom | ZrBe–B2 |  | model |  | [Be–Zr](https://data.orchid-project.org/systems/BE-ZR.html) | [1] Tokunaga 2006 | Table 1, p. 2, row 3 |  |
-| -15 kJ/mol-atom | ZrBe(CrB) |  | model |  | [Be–Zr](https://data.orchid-project.org/systems/BE-ZR.html) | [1] Tokunaga 2006 | Table 1, p. 2, row 28 |  |
-| -10.5 kJ/mol-atom | ZrBe(CrB) |  | model |  | [Be–Zr](https://data.orchid-project.org/systems/BE-ZR.html) | [1] Tokunaga 2006; _cites Kaufman 1979_ [doi](https://doi.org/10.1016/0364-5916%2879%2990010-5) | Table 1, p. 2, row 29 |  |
-| -46.3 kJ/mol-atom | ZrBe(CrB) | 0 | DFT | ab initio (FLAPW) | [Be–Zr](https://data.orchid-project.org/systems/BE-ZR.html) | [1] Tokunaga 2006 | Table 1, p. 2, row 26 |  |
-| -18.2 kJ/mol-atom | ZrBe–B2 | 0 | DFT | ab initio (FLAPW) | [Be–Zr](https://data.orchid-project.org/systems/BE-ZR.html) | [1] Tokunaga 2006 | Table 1, p. 2, row 2 |  |
-| 51 kJ/mol-atom | ZrBe–B32 | 0 | DFT | ab initio (FLAPW) | [Be–Zr](https://data.orchid-project.org/systems/BE-ZR.html) | [1] Tokunaga 2006 | Table 1, p. 2, row 4 |  |
+| -21.4 kJ/mol-atom | ZrBe–B2 |  | model |  | [Be–Zr](https://data.orchid-project.org/systems/BE-ZR.html) | [1] Tokunaga 2006 | Table 1, p. 2, row 3; `ORC-LFAQNFQFAQ` |  |
+| -15 kJ/mol-atom | ZrBe(CrB) |  | model |  | [Be–Zr](https://data.orchid-project.org/systems/BE-ZR.html) | [1] Tokunaga 2006 | Table 1, p. 2, row 28; `ORC-T7HMDMN6QI` |  |
+| -10.5 kJ/mol-atom | ZrBe(CrB) |  | model |  | [Be–Zr](https://data.orchid-project.org/systems/BE-ZR.html) | [1] Tokunaga 2006; _cites Kaufman 1979_ [doi](https://doi.org/10.1016/0364-5916%2879%2990010-5) | Table 1, p. 2, row 29; `ORC-XZ6CB4SQM4` |  |
+| -46.3 kJ/mol-atom | ZrBe(CrB) | 0 | DFT | ab initio (FLAPW) | [Be–Zr](https://data.orchid-project.org/systems/BE-ZR.html) | [1] Tokunaga 2006 | Table 1, p. 2, row 26; `ORC-QXE32257JO` |  |
+| -18.2 kJ/mol-atom | ZrBe–B2 | 0 | DFT | ab initio (FLAPW) | [Be–Zr](https://data.orchid-project.org/systems/BE-ZR.html) | [1] Tokunaga 2006 | Table 1, p. 2, row 2; `ORC-GYZWKNVSDU` |  |
+| 51 kJ/mol-atom | ZrBe–B32 | 0 | DFT | ab initio (FLAPW) | [Be–Zr](https://data.orchid-project.org/systems/BE-ZR.html) | [1] Tokunaga 2006 | Table 1, p. 2, row 4; `ORC-EEHEBZIVRY` |  |
 
 ### Uncertainty budget
 
@@ -99,4 +99,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -28,19 +28,19 @@ Table: Invariant reactions reported in the literature for the Bi–In–Sn syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 497.15 | liquid + bct(Sn) -> γ | liquid: Sn 0.957; bct(Sn): Sn 0.995; γ: Sn 0.99 | experimental | [1] Lee 1996; _cites Heumann 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990115-8) | Table I, p. 8, row 10 |  |
-| 496.55 | liquid + bct(Sn) -> γ | liquid: Sn 0.958; bct(Sn): Sn 0.986; γ: Sn 0.975 | model | [1] Lee 1996 | Table I, p. 8, row 9 |  |
-| 495.75 | liquid + bct(Sn) -> γ | liquid: Sn 0.952; bct(Sn): Sn 0.99; γ: Sn 0.985 | experimental | [1] Lee 1996; _cites Evans 1983_ | Table I, p. 8, row 11 |  |
-| 416.15 | tet(In) + liquid -> β | tet(In): Sn 0.1; liquid: Sn 0.14; β: Sn 0.12 | experimental | [1] Lee 1996; _cites Heumann 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990115-8) | Table I, p. 8, row 2 |  |
-| 415.15 | tet(In) + liquid -> β | tet(In): Sn 0.114; liquid: Sn 0.142; β: Sn 0.122 | model | [1] Lee 1996 | Table I, p. 8, row 1 |  |
-| 414.15 | tet(In) + liquid -> β | tet(In): Sn 0.115; liquid: Sn 0.14; β: Sn 0.12 | experimental | [1] Lee 1996; _cites Evans 1983_ | Table I, p. 8, row 3 |  |
-| 413.15 | tet(In) + liquid -> β | tet(In): Sn 0.087; liquid: Sn 0.147; β: Sn 0.111 | unspecified | [1] Lee 1996; _cites Kaplun 1983_ | Table I, p. 8, row 4 |  |
-| 411.95 | liquid -> rho(Bi) + bct(Sn) | liquid: Sn 0.571; rho(Bi): Sn 0.002; bct(Sn): Sn 0.869 | model | [1] Lee 1996 | Table I, p. 8, row 12 |  |
-| 411.15 | liquid -> rho(Bi) + bct(Sn) | liquid: Sn 0.565; bct(Sn): Sn 0.87 | experimental | [1] Lee 1996; _cites Nagasaki 1952_ [doi](https://doi.org/10.2320/jinstmet1952.16.6_317) | Table I, p. 8, row 13 |  |
-| 393.15 | liquid -> β + γ | liquid: Sn 0.483; β: Sn 0.44; γ: Sn 0.77 | experimental | [1] Lee 1996; _cites Heumann 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990115-8) | Table I, p. 8, row 6 |  |
-| 392.15 | liquid -> β + γ | liquid: Sn 0.474; β: Sn 0.442; γ: Sn 0.765 | experimental | [1] Lee 1996; _cites Evans 1983_ | Table I, p. 8, row 7 |  |
-| 391.55 | liquid -> β + γ | liquid: Sn 0.466; β: Sn 0.432 | unspecified | [1] Lee 1996; _cites Kaplun 1983_ | Table I, p. 8, row 8 |  |
-| 391.15 | liquid -> β + γ | liquid: Sn 0.475; β: Sn 0.446; γ: Sn 0.768 | model | [1] Lee 1996 | Table I, p. 8, row 5 |  |
+| 497.15 | liquid + bct(Sn) -> γ | liquid: Sn 0.957; bct(Sn): Sn 0.995; γ: Sn 0.99 | experimental | [1] Lee 1996; _cites Heumann 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990115-8) | Table I, p. 8, row 10; `ORC-NYSH25YJLC` |  |
+| 496.55 | liquid + bct(Sn) -> γ | liquid: Sn 0.958; bct(Sn): Sn 0.986; γ: Sn 0.975 | model | [1] Lee 1996 | Table I, p. 8, row 9; `ORC-H5XJZ53SEN` |  |
+| 495.75 | liquid + bct(Sn) -> γ | liquid: Sn 0.952; bct(Sn): Sn 0.99; γ: Sn 0.985 | experimental | [1] Lee 1996; _cites Evans 1983_ | Table I, p. 8, row 11; `ORC-A6DH34K4RA` |  |
+| 416.15 | tet(In) + liquid -> β | tet(In): Sn 0.1; liquid: Sn 0.14; β: Sn 0.12 | experimental | [1] Lee 1996; _cites Heumann 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990115-8) | Table I, p. 8, row 2; `ORC-5GK3WPVE2K` |  |
+| 415.15 | tet(In) + liquid -> β | tet(In): Sn 0.114; liquid: Sn 0.142; β: Sn 0.122 | model | [1] Lee 1996 | Table I, p. 8, row 1; `ORC-RI64MWUGJV` |  |
+| 414.15 | tet(In) + liquid -> β | tet(In): Sn 0.115; liquid: Sn 0.14; β: Sn 0.12 | experimental | [1] Lee 1996; _cites Evans 1983_ | Table I, p. 8, row 3; `ORC-CP2QU43UDC` |  |
+| 413.15 | tet(In) + liquid -> β | tet(In): Sn 0.087; liquid: Sn 0.147; β: Sn 0.111 | unspecified | [1] Lee 1996; _cites Kaplun 1983_ | Table I, p. 8, row 4; `ORC-L5EDGMJM7X` |  |
+| 411.95 | liquid -> rho(Bi) + bct(Sn) | liquid: Sn 0.571; rho(Bi): Sn 0.002; bct(Sn): Sn 0.869 | model | [1] Lee 1996 | Table I, p. 8, row 12; `ORC-KDWDUBBU35` |  |
+| 411.15 | liquid -> rho(Bi) + bct(Sn) | liquid: Sn 0.565; bct(Sn): Sn 0.87 | experimental | [1] Lee 1996; _cites Nagasaki 1952_ [doi](https://doi.org/10.2320/jinstmet1952.16.6_317) | Table I, p. 8, row 13; `ORC-CEQZHZJQHU` |  |
+| 393.15 | liquid -> β + γ | liquid: Sn 0.483; β: Sn 0.44; γ: Sn 0.77 | experimental | [1] Lee 1996; _cites Heumann 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990115-8) | Table I, p. 8, row 6; `ORC-NXPDNCZ6YO` |  |
+| 392.15 | liquid -> β + γ | liquid: Sn 0.474; β: Sn 0.442; γ: Sn 0.765 | experimental | [1] Lee 1996; _cites Evans 1983_ | Table I, p. 8, row 7; `ORC-7B3QMUC35U` |  |
+| 391.55 | liquid -> β + γ | liquid: Sn 0.466; β: Sn 0.432 | unspecified | [1] Lee 1996; _cites Kaplun 1983_ | Table I, p. 8, row 8; `ORC-652VFMTBCQ` |  |
+| 391.15 | liquid -> β + γ | liquid: Sn 0.475; β: Sn 0.446; γ: Sn 0.768 | model | [1] Lee 1996 | Table I, p. 8, row 5; `ORC-LRGHNWRTRY` |  |
 
 ## Sources
 
@@ -83,4 +83,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -27,15 +27,15 @@ Table: Invariant reactions reported in the literature for the B–C–Si system 
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2526.43 | quasi-peritectic: Liquid + (C) -> SiC + B4C |  | unspecified | [1] Chen 2009; _cites Gugel 1972_ | Table 5, p. 5, row 4 |  |
-| 2526.43 | quasi-peritectic: Liquid + (C) -> SiC + B4C |  | model | [1] Chen 2009 | Table 5, p. 5, row 3 |  |
-| 2288.5 | quasi-peritectic: Liquid + (B) -> B4C + SiBn |  | unspecified | [1] Chen 2009; _cites Gugel 1972_ | Table 5, p. 5, row 8 |  |
-| 2288.5 | quasi-peritectic: Liquid + (B) -> B4C + SiBn |  | model | [1] Chen 2009 | Table 5, p. 5, row 7 |  |
-| 2120.89 | quasi-peritectic: Liquid + SiBn -> B4C + SiB6 |  | unspecified | [1] Chen 2009; _cites Gugel 1972_ | Table 5, p. 5, row 6 |  |
-| 2120.89 | quasi-peritectic: Liquid + SiBn -> B4C + SiB6 |  | model | [1] Chen 2009 | Table 5, p. 5, row 5 |  |
-| 1649.97 | quasi-peritectic: Liquid + B4C -> SiB6 + SiC |  | unspecified | [1] Chen 2009; _cites Gugel 1972_ | Table 5, p. 5, row 10 |  |
-| 1649.97 | quasi-peritectic: Liquid + B4C -> SiB6 + SiC |  | model | [1] Chen 2009 | Table 5, p. 5, row 9 |  |
-| 1635.39 | eutectic: Liquid -> SiC + SiB6 + (Si) |  | model | [1] Chen 2009 | Table 5, p. 5, row 1 |  |
+| 2526.43 | quasi-peritectic: Liquid + (C) -> SiC + B4C |  | unspecified | [1] Chen 2009; _cites Gugel 1972_ | Table 5, p. 5, row 4; `ORC-FV5WHEKF5F` |  |
+| 2526.43 | quasi-peritectic: Liquid + (C) -> SiC + B4C |  | model | [1] Chen 2009 | Table 5, p. 5, row 3; `ORC-TB2DNHQ4O4` |  |
+| 2288.5 | quasi-peritectic: Liquid + (B) -> B4C + SiBn |  | unspecified | [1] Chen 2009; _cites Gugel 1972_ | Table 5, p. 5, row 8; `ORC-D5DG5QL2QH` |  |
+| 2288.5 | quasi-peritectic: Liquid + (B) -> B4C + SiBn |  | model | [1] Chen 2009 | Table 5, p. 5, row 7; `ORC-JILUKSVIJA` |  |
+| 2120.89 | quasi-peritectic: Liquid + SiBn -> B4C + SiB6 |  | unspecified | [1] Chen 2009; _cites Gugel 1972_ | Table 5, p. 5, row 6; `ORC-S3T6QG4JUN` |  |
+| 2120.89 | quasi-peritectic: Liquid + SiBn -> B4C + SiB6 |  | model | [1] Chen 2009 | Table 5, p. 5, row 5; `ORC-UDNG2Z34V6` |  |
+| 1649.97 | quasi-peritectic: Liquid + B4C -> SiB6 + SiC |  | unspecified | [1] Chen 2009; _cites Gugel 1972_ | Table 5, p. 5, row 10; `ORC-AOCFZ253I2` |  |
+| 1649.97 | quasi-peritectic: Liquid + B4C -> SiB6 + SiC |  | model | [1] Chen 2009 | Table 5, p. 5, row 9; `ORC-QAI5TWPH2X` |  |
+| 1635.39 | eutectic: Liquid -> SiC + SiB6 + (Si) |  | model | [1] Chen 2009 | Table 5, p. 5, row 1; `ORC-PKJVTGOQNF` |  |
 
 ## Sources
 
@@ -78,4 +78,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

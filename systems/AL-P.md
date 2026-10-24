@@ -72,19 +72,19 @@ Table: Invariant reactions reported in the literature for the Al–P system (13)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2830.15 | congruent melting: L = AlP Congruent melting (P > 300 bar) | L: Al 0.5, P 0.5; AlP: Al 0.5, P 0.5 | model | [1] Liang 2013; _cites Ansara 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990027-2) | Table 5, p. 5, row 4 |  |
-| 2823.15 | congruent melting: L = AlP Congruent melting (P > 300 bar) | L: Al 0.5, P 0.5; AlP: Al 0.5, P 0.5 | model | [1] Liang 2013; _cites Kaufman 1981_ [doi](https://doi.org/10.1016/0364-5916%2881%2990020-1) | Table 5, p. 5, row 5 |  |
-| 2803.15 | congruent melting: L = AlP Congruent melting (P > 300 bar) | L: Al 0.5, P 0.5; AlP: Al 0.5, P 0.5 | model | [1] Liang 2013; _cites Tu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.10.003) | Table 5, p. 5, row 3 |  |
-| 2803.15 | congruent melting: L = AlP Congruent melting (P > 300 bar) | L: Al 0.5, P 0.5; AlP: Al 0.5, P 0.5 | experimental | [1] Liang 2013; _cites Kischio 1965_ [doi](https://doi.org/10.1016/0022-1902%2865%2980287-1) | Table 5, p. 5, row 7 |  |
-| 2802.15 | congruent melting: L = AlP Congruent melting (P > 300 bar) | L: Al 0.5, P 0.5; AlP: Al 0.5, P 0.5 | model | [1] Liang 2013; _cites McAlister 2013_ | Table 5, p. 5, row 6 |  |
-| 2795.15 | congruent melting: L = AlP Congruent melting (P > 300 bar) | L: Al 0.5, P 0.5; AlP: Al 0.5, P 0.5 | model | [1] Liang 2013 | Table 5, p. 5, row 1 |  |
-| 2784.15 | congruent melting: L = AlP Congruent melting (P > 300 bar) | L: Al 0.5, P 0.5; AlP: Al 0.5, P 0.5 | model | [1] Liang 2013; _cites Wu 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.03.005) | Table 5, p. 5, row 2 |  |
-| 933.55 | eutectic: L=(Al)+AlP eutectic | AlP: Al 0.5, P 0.5 (basis unresolved) | model | [1] Liang 2013; _cites McAlister 2013_ | Table 5, p. 5, row 13 |  |
-| 933.45 | eutectic: L=(Al)+AlP eutectic | AlP: Al 0.5, P 0.5 (basis unresolved) | model | [1] Liang 2013; _cites Wu 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.03.005) | Table 5, p. 5, row 9 |  |
-| 933.45 | eutectic: L=(Al)+AlP eutectic | AlP: Al 0.5, P 0.5 (basis unresolved) | model | [1] Liang 2013 | Table 5, p. 5, row 8 |  |
-| 933.45 | eutectic: L=(Al)+AlP eutectic | AlP: Al 0.5, P 0.5 (basis unresolved) | model | [1] Liang 2013; _cites Tu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.10.003) | Table 5, p. 5, row 10 |  |
-| 932.85 | eutectic: L=(Al)+AlP eutectic | AlP: Al 0.5, P 0.5 (basis unresolved) | model | [1] Liang 2013; _cites Ansara 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990027-2) | Table 5, p. 5, row 11 |  |
-| 930.95 | eutectic: L=(Al)+AlP eutectic | AlP: Al 0.5, P 0.5 (basis unresolved) | model | [1] Liang 2013; _cites Kaufman 1981_ [doi](https://doi.org/10.1016/0364-5916%2881%2990020-1) | Table 5, p. 5, row 12 |  |
+| 2830.15 | congruent melting: L = AlP Congruent melting (P > 300 bar) | L: Al 0.5, P 0.5; AlP: Al 0.5, P 0.5 | model | [1] Liang 2013; _cites Ansara 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990027-2) | Table 5, p. 5, row 4; `ORC-3G4HATQRXB` |  |
+| 2823.15 | congruent melting: L = AlP Congruent melting (P > 300 bar) | L: Al 0.5, P 0.5; AlP: Al 0.5, P 0.5 | model | [1] Liang 2013; _cites Kaufman 1981_ [doi](https://doi.org/10.1016/0364-5916%2881%2990020-1) | Table 5, p. 5, row 5; `ORC-KLIYDSZFQA` |  |
+| 2803.15 | congruent melting: L = AlP Congruent melting (P > 300 bar) | L: Al 0.5, P 0.5; AlP: Al 0.5, P 0.5 | model | [1] Liang 2013; _cites Tu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.10.003) | Table 5, p. 5, row 3; `ORC-PIEDI5VLTB` |  |
+| 2803.15 | congruent melting: L = AlP Congruent melting (P > 300 bar) | L: Al 0.5, P 0.5; AlP: Al 0.5, P 0.5 | experimental | [1] Liang 2013; _cites Kischio 1965_ [doi](https://doi.org/10.1016/0022-1902%2865%2980287-1) | Table 5, p. 5, row 7; `ORC-RR46ZKJY3K` |  |
+| 2802.15 | congruent melting: L = AlP Congruent melting (P > 300 bar) | L: Al 0.5, P 0.5; AlP: Al 0.5, P 0.5 | model | [1] Liang 2013; _cites McAlister 2013_ | Table 5, p. 5, row 6; `ORC-44TJ2QWCDZ` |  |
+| 2795.15 | congruent melting: L = AlP Congruent melting (P > 300 bar) | L: Al 0.5, P 0.5; AlP: Al 0.5, P 0.5 | model | [1] Liang 2013 | Table 5, p. 5, row 1; `ORC-BSRJ3RZ4PN` |  |
+| 2784.15 | congruent melting: L = AlP Congruent melting (P > 300 bar) | L: Al 0.5, P 0.5; AlP: Al 0.5, P 0.5 | model | [1] Liang 2013; _cites Wu 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.03.005) | Table 5, p. 5, row 2; `ORC-4RUC5M7V7R` |  |
+| 933.55 | eutectic: L=(Al)+AlP eutectic | AlP: Al 0.5, P 0.5 (basis unresolved) | model | [1] Liang 2013; _cites McAlister 2013_ | Table 5, p. 5, row 13; `ORC-4J524VVLIH` |  |
+| 933.45 | eutectic: L=(Al)+AlP eutectic | AlP: Al 0.5, P 0.5 (basis unresolved) | model | [1] Liang 2013; _cites Wu 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.03.005) | Table 5, p. 5, row 9; `ORC-75VWY55S7E` |  |
+| 933.45 | eutectic: L=(Al)+AlP eutectic | AlP: Al 0.5, P 0.5 (basis unresolved) | model | [1] Liang 2013 | Table 5, p. 5, row 8; `ORC-QZKWPAVPCZ` |  |
+| 933.45 | eutectic: L=(Al)+AlP eutectic | AlP: Al 0.5, P 0.5 (basis unresolved) | model | [1] Liang 2013; _cites Tu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.10.003) | Table 5, p. 5, row 10; `ORC-WAIVFO6DCY` |  |
+| 932.85 | eutectic: L=(Al)+AlP eutectic | AlP: Al 0.5, P 0.5 (basis unresolved) | model | [1] Liang 2013; _cites Ansara 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990027-2) | Table 5, p. 5, row 11; `ORC-ZXJMQJEUWV` |  |
+| 930.95 | eutectic: L=(Al)+AlP eutectic | AlP: Al 0.5, P 0.5 (basis unresolved) | model | [1] Liang 2013; _cites Kaufman 1981_ [doi](https://doi.org/10.1016/0364-5916%2881%2990020-1) | Table 5, p. 5, row 12; `ORC-WAYAKZX4RT` |  |
 
 ## Formation enthalpies
 
@@ -94,31 +94,31 @@ Table: Enthalpies of formation, Al–P system (25)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| AlP |  | -91.5 per mol-atom | 298.15 | model |  |  | [1] Liang 2013; _cites Kaufman 1981_ [doi](https://doi.org/10.1016/0364-5916%2881%2990020-1) | Table 3, p. 3, row 5 |  |
-| AlP |  | -90.2 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Miettinen 2015; _cites Peviak 1974_ | Table 4, p. 6, row 8 |  |
-| AlP |  | -90.2 per mol-atom ± 4 | 298.15 | experimental |  |  | [1] Liang 2013; _cites Peviak 1974_ | Table 3, p. 3, row 4 |  |
-| AlP |  | -82.6 per mol-atom ± 1 | 298.15 | experimental |  |  | [1] Liang 2013; _cites Kischio 1965_ [doi](https://doi.org/10.1016/0022-1902%2865%2980287-1) | Table 3, p. 3, row 2 |  |
-| AlP |  | -82.6 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Miettinen 2015; _cites Kischio 1965_ [doi](https://doi.org/10.1016/0022-1902%2865%2980287-1) | Table 4, p. 6, row 6 |  |
-| AlP |  | -82.2 per mol-atom | 298.15 | model |  |  | [1] Liang 2013; _cites Barin 1977_ | Table 3, p. 3, row 12 |  |
-| AlP |  | -82.2 per mol-atom | 298.15 | model |  |  | [1] Liang 2013; _cites Wu 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.03.005) | Table 3, p. 3, row 9 |  |
-| AlP |  | -81.8 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Miettinen 2015 | Table 4, p. 6, row 4 |  |
-| AlP |  | -81.6 per mol-atom ± 1 | 298.15 | experimental |  |  | [1] Liang 2013; _cites Martosudirdjo 1974_ [doi](https://doi.org/10.1016/0040-6031%2874%2985019-7) | Table 3, p. 3, row 3 |  |
-| AlP |  | -81.6 per mol-atom | 298.15 | model |  |  | [1] Liang 2013 | Table 3, p. 3, row 14 |  |
-| AlP |  | -81.6 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Miettinen 2015; _cites Martosudirdjo 1974_ [doi](https://doi.org/10.1016/0040-6031%2874%2985019-7) | Table 4, p. 6, row 7 |  |
-| AlP |  | -81.6 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Miettinen 2015; _cites Liang 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.001) | Table 4, p. 6, row 3 |  |
-| AlP |  | -80.4 per mol-atom | 298.15 | model |  |  | [1] Liang 2013; _cites McAlister 2013_ | Table 3, p. 3, row 6 |  |
-| AlP |  | -74.3 per mol-atom | 298.15 | model |  |  | [1] Liang 2013; _cites Ansara 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990027-2) | Table 3, p. 3, row 7 |  |
-| AlP |  | -74.3 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Miettinen 2015; _cites Ansara 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990027-2) | Table 4, p. 6, row 1 |  |
-| AlP |  | -69.4 per mol-atom ± 4 | 298.15 | experimental |  |  | [1] Liang 2013; _cites Wang 1963_ [doi](https://doi.org/10.1016/0022-1902%2863%2980071-8) | Table 3, p. 3, row 1 |  |
-| AlP |  | -69.4 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Miettinen 2015; _cites Wang 1963_ [doi](https://doi.org/10.1016/0022-1902%2863%2980071-8) | Table 4, p. 6, row 5 |  |
-| AlP |  | -67.7 per mol-atom ± 6.7 | 298.15 | model |  |  | [1] Liang 2013; _cites De 1968_ | Table 3, p. 3, row 13 |  |
-| AlP |  | -51 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Miettinen 2015; _cites Tu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.10.003) | Table 4, p. 6, row 2 |  |
-| AlP |  | -51 per mol-atom | 298.15 | model |  |  | [1] Liang 2013; _cites Tu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.10.003) | Table 3, p. 3, row 8 |  |
-| AlP | [AlP](https://data.orchid-project.org/compounds/AlP.html) | -41.3 kJ/mol-atom ± 0.55 | 298.15 | experimental | -58.834 (mp-aaaaachq) | -71.088 (oqmd-4641) | [3] Tu 2009; _cites Kischio 1965_ [doi](https://doi.org/10.1016/0022-1902%2865%2980287-1) | Table 3, p. 4, row 2 |  |
-| AlP | [AlP](https://data.orchid-project.org/compounds/AlP.html) | -34.77 kJ/mol-atom ± 2.3 | 298.15 | experimental | -58.834 (mp-aaaaachq) | -71.088 (oqmd-4641) | [3] Tu 2009; _cites Wang 1963_ [doi](https://doi.org/10.1016/0022-1902%2863%2980071-8) | Table 3, p. 4, row 1 |  |
-| AlP | [AlP](https://data.orchid-project.org/compounds/AlP.html) | -29.5 kJ/mol-atom ± 3.35 | 298.15 | experimental | -58.834 (mp-aaaaachq) | -71.088 (oqmd-4641) | [3] Tu 2009; _cites G 1968_ | Table 3, p. 4, row 3 |  |
-| AlP | [AlP](https://data.orchid-project.org/compounds/AlP.html) | -28.8 kJ/mol-atom ± 8.85 | 298.15 | experimental | -58.834 (mp-aaaaachq) | -71.088 (oqmd-4641) | [3] Tu 2009; _cites Martosudirdjo 1974_ [doi](https://doi.org/10.1016/0040-6031%2874%2985019-7) | Table 3, p. 4, row 4 |  |
-| AlP | [AlP](https://data.orchid-project.org/compounds/AlP.html) | -25.5 kJ/mol-atom | 298.15 | model | -58.834 (mp-aaaaachq) | -71.088 (oqmd-4641) | [3] Tu 2009 | Table 3, p. 4, row 5 |  |
+| AlP |  | -91.5 per mol-atom | 298.15 | model |  |  | [1] Liang 2013; _cites Kaufman 1981_ [doi](https://doi.org/10.1016/0364-5916%2881%2990020-1) | Table 3, p. 3, row 5; `ORC-6W2764KCGG.3beb49` |  |
+| AlP |  | -90.2 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Miettinen 2015; _cites Peviak 1974_ | Table 4, p. 6, row 8; `ORC-C2MP6ECWTH` |  |
+| AlP |  | -90.2 per mol-atom ± 4 | 298.15 | experimental |  |  | [1] Liang 2013; _cites Peviak 1974_ | Table 3, p. 3, row 4; `ORC-SKLXQ5SK5Y` |  |
+| AlP |  | -82.6 per mol-atom ± 1 | 298.15 | experimental |  |  | [1] Liang 2013; _cites Kischio 1965_ [doi](https://doi.org/10.1016/0022-1902%2865%2980287-1) | Table 3, p. 3, row 2; `ORC-S4MMRQUPVI` |  |
+| AlP |  | -82.6 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Miettinen 2015; _cites Kischio 1965_ [doi](https://doi.org/10.1016/0022-1902%2865%2980287-1) | Table 4, p. 6, row 6; `ORC-Y4GCFEKXA5` |  |
+| AlP |  | -82.2 per mol-atom | 298.15 | model |  |  | [1] Liang 2013; _cites Barin 1977_ | Table 3, p. 3, row 12; `ORC-IFG25P7NFF.6d560f` |  |
+| AlP |  | -82.2 per mol-atom | 298.15 | model |  |  | [1] Liang 2013; _cites Wu 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.03.005) | Table 3, p. 3, row 9; `ORC-T4A3VZGQC2.8fce70` |  |
+| AlP |  | -81.8 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Miettinen 2015 | Table 4, p. 6, row 4; `ORC-GX4RQ2FGJ3` |  |
+| AlP |  | -81.6 per mol-atom ± 1 | 298.15 | experimental |  |  | [1] Liang 2013; _cites Martosudirdjo 1974_ [doi](https://doi.org/10.1016/0040-6031%2874%2985019-7) | Table 3, p. 3, row 3; `ORC-HQMUO6H5DT` |  |
+| AlP |  | -81.6 per mol-atom | 298.15 | model |  |  | [1] Liang 2013 | Table 3, p. 3, row 14; `ORC-QPXL563LZK.7eed37` |  |
+| AlP |  | -81.6 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Miettinen 2015; _cites Martosudirdjo 1974_ [doi](https://doi.org/10.1016/0040-6031%2874%2985019-7) | Table 4, p. 6, row 7; `ORC-SJ7BY3I35U` |  |
+| AlP |  | -81.6 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Miettinen 2015; _cites Liang 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.001) | Table 4, p. 6, row 3; `ORC-WOS5MKXV6V` |  |
+| AlP |  | -80.4 per mol-atom | 298.15 | model |  |  | [1] Liang 2013; _cites McAlister 2013_ | Table 3, p. 3, row 6; `ORC-EODCGTI733.17bd76` |  |
+| AlP |  | -74.3 per mol-atom | 298.15 | model |  |  | [1] Liang 2013; _cites Ansara 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990027-2) | Table 3, p. 3, row 7; `ORC-K2UELGMSEL.b80bd7` |  |
+| AlP |  | -74.3 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Miettinen 2015; _cites Ansara 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990027-2) | Table 4, p. 6, row 1; `ORC-VD2LVU46DJ` |  |
+| AlP |  | -69.4 per mol-atom ± 4 | 298.15 | experimental |  |  | [1] Liang 2013; _cites Wang 1963_ [doi](https://doi.org/10.1016/0022-1902%2863%2980071-8) | Table 3, p. 3, row 1; `ORC-IVQQNZDCYK` |  |
+| AlP |  | -69.4 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Miettinen 2015; _cites Wang 1963_ [doi](https://doi.org/10.1016/0022-1902%2863%2980071-8) | Table 4, p. 6, row 5; `ORC-YACG6AQ43C` |  |
+| AlP |  | -67.7 per mol-atom ± 6.7 | 298.15 | model |  |  | [1] Liang 2013; _cites De 1968_ | Table 3, p. 3, row 13; `ORC-W2YWDUUAFL` |  |
+| AlP |  | -51 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Miettinen 2015; _cites Tu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.10.003) | Table 4, p. 6, row 2; `ORC-7JEA2OET6I` |  |
+| AlP |  | -51 per mol-atom | 298.15 | model |  |  | [1] Liang 2013; _cites Tu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.10.003) | Table 3, p. 3, row 8; `ORC-7TTMWV5LU3.62f04c` |  |
+| AlP | [AlP](https://data.orchid-project.org/compounds/AlP.html) | -41.3 kJ/mol-atom ± 0.55 | 298.15 | experimental | -58.834 (mp-aaaaachq) | -71.088 (oqmd-4641) | [3] Tu 2009; _cites Kischio 1965_ [doi](https://doi.org/10.1016/0022-1902%2865%2980287-1) | Table 3, p. 4, row 2; `ORC-A3TK3RSOWQ` |  |
+| AlP | [AlP](https://data.orchid-project.org/compounds/AlP.html) | -34.77 kJ/mol-atom ± 2.3 | 298.15 | experimental | -58.834 (mp-aaaaachq) | -71.088 (oqmd-4641) | [3] Tu 2009; _cites Wang 1963_ [doi](https://doi.org/10.1016/0022-1902%2863%2980071-8) | Table 3, p. 4, row 1; `ORC-AMM5CYBKX7` |  |
+| AlP | [AlP](https://data.orchid-project.org/compounds/AlP.html) | -29.5 kJ/mol-atom ± 3.35 | 298.15 | experimental | -58.834 (mp-aaaaachq) | -71.088 (oqmd-4641) | [3] Tu 2009; _cites G 1968_ | Table 3, p. 4, row 3; `ORC-VSKJCGX4YM` |  |
+| AlP | [AlP](https://data.orchid-project.org/compounds/AlP.html) | -28.8 kJ/mol-atom ± 8.85 | 298.15 | experimental | -58.834 (mp-aaaaachq) | -71.088 (oqmd-4641) | [3] Tu 2009; _cites Martosudirdjo 1974_ [doi](https://doi.org/10.1016/0040-6031%2874%2985019-7) | Table 3, p. 4, row 4; `ORC-BVWDFFOBII` |  |
+| AlP | [AlP](https://data.orchid-project.org/compounds/AlP.html) | -25.5 kJ/mol-atom | 298.15 | model | -58.834 (mp-aaaaachq) | -71.088 (oqmd-4641) | [3] Tu 2009 | Table 3, p. 4, row 5; `ORC-HN6OKJZHTO` |  |
 
 ## Other properties
 
@@ -128,15 +128,15 @@ Table: Heat capacity / entropy / enthalpy, Al–P system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: S°298(AlP)_ | 22.9 per mol-atom | 298.15 | AlP; _alloy: P 0.5_ | model | [1] Liang 2013; _cites Kaufman 1981_ [doi](https://doi.org/10.1016/0364-5916%2881%2990020-1) | Table 3, p. 3, row 5 |  |
-| Entropy; _printed: S°298(AlP)_ | 25.2 per mol-atom | 298.15 | AlP; _alloy: P 0.5_ | model | [1] Liang 2013; _cites Terpilowski 1982_ | Table 3, p. 3, row 10 |  |
-| Entropy; _printed: S°298(AlP)_ | 28.7 per mol-atom | 298.15 | AlP; _alloy: P 0.5_ | model | [1] Liang 2013; _cites Tu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.10.003) | Table 3, p. 3, row 8 |  |
-| Entropy; _printed: S°298(AlP)_ | 23.6 per mol-atom ± 1.3 | 298.15 | AlP; _alloy: P 0.5_ | model | [1] Liang 2013; _cites Sharifov 1966_ | Table 3, p. 3, row 11 |  |
-| Entropy; _printed: S°298(AlP)_ | 18 per mol-atom | 298.15 | AlP; _alloy: P 0.5_ | model | [1] Liang 2013; _cites McAlister 2013_ | Table 3, p. 3, row 6 |  |
-| Entropy; _printed: S°298(AlP)_ | 23.6 per mol-atom | 298.15 | AlP; _alloy: P 0.5_ | model | [1] Liang 2013; _cites Barin 1977_ | Table 3, p. 3, row 12 |  |
-| Entropy; _printed: S°298(AlP)_ | 87.7 per mol-atom | 298.15 | AlP; _alloy: P 0.5_ | model | [1] Liang 2013; _cites Ansara 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990027-2) | Table 3, p. 3, row 7 |  |
-| Entropy; _printed: S°298(AlP)_ | 20.2 per mol-atom | 298.15 | AlP; _alloy: P 0.5_ | model | [1] Liang 2013 | Table 3, p. 3, row 14 |  |
-| Entropy; _printed: S°298(AlP)_ | 23.6 per mol-atom | 298.15 | AlP; _alloy: P 0.5_ | model | [1] Liang 2013; _cites Wu 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.03.005) | Table 3, p. 3, row 9 |  |
+| Entropy; _printed: S°298(AlP)_ | 22.9 per mol-atom | 298.15 | AlP; _alloy: P 0.5_ | model | [1] Liang 2013; _cites Kaufman 1981_ [doi](https://doi.org/10.1016/0364-5916%2881%2990020-1) | Table 3, p. 3, row 5; `ORC-6W2764KCGG.953ef8` |  |
+| Entropy; _printed: S°298(AlP)_ | 25.2 per mol-atom | 298.15 | AlP; _alloy: P 0.5_ | model | [1] Liang 2013; _cites Terpilowski 1982_ | Table 3, p. 3, row 10; `ORC-6ZQYKQQ4YL` |  |
+| Entropy; _printed: S°298(AlP)_ | 28.7 per mol-atom | 298.15 | AlP; _alloy: P 0.5_ | model | [1] Liang 2013; _cites Tu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.10.003) | Table 3, p. 3, row 8; `ORC-7TTMWV5LU3.9596c3` |  |
+| Entropy; _printed: S°298(AlP)_ | 23.6 per mol-atom ± 1.3 | 298.15 | AlP; _alloy: P 0.5_ | model | [1] Liang 2013; _cites Sharifov 1966_ | Table 3, p. 3, row 11; `ORC-DGLQS7QFTG` |  |
+| Entropy; _printed: S°298(AlP)_ | 18 per mol-atom | 298.15 | AlP; _alloy: P 0.5_ | model | [1] Liang 2013; _cites McAlister 2013_ | Table 3, p. 3, row 6; `ORC-EODCGTI733.a66cd6` |  |
+| Entropy; _printed: S°298(AlP)_ | 23.6 per mol-atom | 298.15 | AlP; _alloy: P 0.5_ | model | [1] Liang 2013; _cites Barin 1977_ | Table 3, p. 3, row 12; `ORC-IFG25P7NFF.61d05d` |  |
+| Entropy; _printed: S°298(AlP)_ | 87.7 per mol-atom | 298.15 | AlP; _alloy: P 0.5_ | model | [1] Liang 2013; _cites Ansara 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990027-2) | Table 3, p. 3, row 7; `ORC-K2UELGMSEL.866ddb` |  |
+| Entropy; _printed: S°298(AlP)_ | 20.2 per mol-atom | 298.15 | AlP; _alloy: P 0.5_ | model | [1] Liang 2013 | Table 3, p. 3, row 14; `ORC-QPXL563LZK.585996` |  |
+| Entropy; _printed: S°298(AlP)_ | 23.6 per mol-atom | 298.15 | AlP; _alloy: P 0.5_ | model | [1] Liang 2013; _cites Wu 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.03.005) | Table 3, p. 3, row 9; `ORC-T4A3VZGQC2.2d049e` |  |
 
 ### Crystal structure (4)
 
@@ -144,10 +144,10 @@ Table: Crystal structure, Al–P system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 4.049 Å | 298.15 | (Al); _alloy: P 0_ | unspecified | [1] Liang 2013; _cites Villars 1985_ | Table 1, p. 2, row 1 |  |
-| Lattice a | 546.4 not_printed ± 0.2 | 298.15 | AlP; _alloy: P 0.5_ | experimental | [1] Liang 2013; _cites Kischio 1965_ [doi](https://doi.org/10.1016/0022-1902%2865%2980287-1) | Table 1, p. 2, row 7 |  |
-| Lattice a | 544.8 not_printed ± 0.3 | 298.15 | AlP; _alloy: P 0.5_ | experimental | [1] Liang 2013; _cites White 1944_ [doi](https://doi.org/10.1021/ja01238a018) | Table 1, p. 2, row 6 |  |
-| Lattice a | 546.7 not_printed ± 0.2 | 298.15 | AlP; _alloy: P 0.5_ | experimental | [1] Liang 2013; _cites Wang 1963_ [doi](https://doi.org/10.1016/0022-1902%2863%2980071-8) | Table 1, p. 2, row 8 |  |
+| Lattice a | 4.049 Å | 298.15 | (Al); _alloy: P 0_ | unspecified | [1] Liang 2013; _cites Villars 1985_ | Table 1, p. 2, row 1; `ORC-DV6KZWRX65` |  |
+| Lattice a | 546.4 not_printed ± 0.2 | 298.15 | AlP; _alloy: P 0.5_ | experimental | [1] Liang 2013; _cites Kischio 1965_ [doi](https://doi.org/10.1016/0022-1902%2865%2980287-1) | Table 1, p. 2, row 7; `ORC-2SNPXGI7X2` |  |
+| Lattice a | 544.8 not_printed ± 0.3 | 298.15 | AlP; _alloy: P 0.5_ | experimental | [1] Liang 2013; _cites White 1944_ [doi](https://doi.org/10.1021/ja01238a018) | Table 1, p. 2, row 6; `ORC-IWQISUQL56` |  |
+| Lattice a | 546.7 not_printed ± 0.2 | 298.15 | AlP; _alloy: P 0.5_ | experimental | [1] Liang 2013; _cites Wang 1963_ [doi](https://doi.org/10.1016/0022-1902%2863%2980071-8) | Table 1, p. 2, row 8; `ORC-ZYQEQ5HTC3` |  |
 
 ## Sources
 
@@ -214,4 +214,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

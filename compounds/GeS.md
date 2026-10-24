@@ -14,15 +14,15 @@ Table: Enthalpy of formation of GeS reported in the literature (9)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -38.1 kJ/mol-atom ± 4.2 | αGeS | 298.15 | experimental | Fluorine bomb calorimetry | [Ge–S](https://data.orchid-project.org/systems/GE-S.html) | [1] Chen 2022; _cites ref. 59_ | Table II, p. 3, row 30 |  |
-| -38.1 kJ/mol-atom ± 2.1 | αGeS | 298.15 | experimental | Fluorine bomb calorimetry | [Ge–S](https://data.orchid-project.org/systems/GE-S.html) | [1] Chen 2022; _cites ref. 60_ | Table II, p. 3, row 33 |  |
-| -37.7 kJ/mol-atom ± 1.5 | αGeS | 298.15 | experimental | DTA | [Ge–S](https://data.orchid-project.org/systems/GE-S.html) | [1] Chen 2022; _cites ref. 61_ | Table II, p. 3, row 34 |  |
-| -30.6 kJ/mol-atom ± 0.6 | αGeS | 298.15 | experimental | Calorimetry | [Ge–S](https://data.orchid-project.org/systems/GE-S.html) | [1] Chen 2022; _cites ref. 62_ | Table II, p. 3, row 31 |  |
-| -56.42 kJ/mol-atom | αGeS | 0 | model | First–principles | [Ge–S](https://data.orchid-project.org/systems/GE-S.html) | [1] Chen 2022; _cites ref. 36_ | Table II, p. 3, row 36 |  |
-| -38.27 kJ/mol-atom | αGeS | 0 | model | First–principles | [Ge–S](https://data.orchid-project.org/systems/GE-S.html) | [1] Chen 2022; _cites Saal 2013_ | Table II, p. 3, row 35 |  |
-| -37.172 kJ/mol-atom | αGeS | 298.15 | model | CALPHAD | [Ge–S](https://data.orchid-project.org/systems/GE-S.html) | [1] Chen 2022 | Table II, p. 3, row 38 |  |
-| -29.96 kJ/mol-atom | αGeS | 298.15 | model | Statistical mechanical | [Ge–S](https://data.orchid-project.org/systems/GE-S.html) | [1] Chen 2022; _cites ref. 63_ | Table II, p. 3, row 32 |  |
-| -24.6 kJ/mol-atom | αGeS | 0 | unspecified | First–principles | [Ge–S](https://data.orchid-project.org/systems/GE-S.html) | [1] Chen 2022 | Table II, p. 3, row 37 |  |
+| -38.1 kJ/mol-atom ± 4.2 | αGeS | 298.15 | experimental | Fluorine bomb calorimetry | [Ge–S](https://data.orchid-project.org/systems/GE-S.html) | [1] Chen 2022; _cites ref. 59_ | Table II, p. 3, row 30; `ORC-LDBZTNBWDG.bc7419` |  |
+| -38.1 kJ/mol-atom ± 2.1 | αGeS | 298.15 | experimental | Fluorine bomb calorimetry | [Ge–S](https://data.orchid-project.org/systems/GE-S.html) | [1] Chen 2022; _cites ref. 60_ | Table II, p. 3, row 33; `ORC-Y4ING52MDV.8ae466` |  |
+| -37.7 kJ/mol-atom ± 1.5 | αGeS | 298.15 | experimental | DTA | [Ge–S](https://data.orchid-project.org/systems/GE-S.html) | [1] Chen 2022; _cites ref. 61_ | Table II, p. 3, row 34; `ORC-DWH4MP7WIT.6f902c` |  |
+| -30.6 kJ/mol-atom ± 0.6 | αGeS | 298.15 | experimental | Calorimetry | [Ge–S](https://data.orchid-project.org/systems/GE-S.html) | [1] Chen 2022; _cites ref. 62_ | Table II, p. 3, row 31; `ORC-MS57O4PWNI.0e7348` |  |
+| -56.42 kJ/mol-atom | αGeS | 0 | model | First–principles | [Ge–S](https://data.orchid-project.org/systems/GE-S.html) | [1] Chen 2022; _cites ref. 36_ | Table II, p. 3, row 36; `ORC-QC4TRWPUT7.b6296e` |  |
+| -38.27 kJ/mol-atom | αGeS | 0 | model | First–principles | [Ge–S](https://data.orchid-project.org/systems/GE-S.html) | [1] Chen 2022; _cites Saal 2013_ | Table II, p. 3, row 35; `ORC-LBIO4HHJD6.356d98` |  |
+| -37.172 kJ/mol-atom | αGeS | 298.15 | model | CALPHAD | [Ge–S](https://data.orchid-project.org/systems/GE-S.html) | [1] Chen 2022 | Table II, p. 3, row 38; `ORC-DOSOBVOIUF.22cbc6` |  |
+| -29.96 kJ/mol-atom | αGeS | 298.15 | model | Statistical mechanical | [Ge–S](https://data.orchid-project.org/systems/GE-S.html) | [1] Chen 2022; _cites ref. 63_ | Table II, p. 3, row 32; `ORC-AOOE4WBZ55.539a1b` |  |
+| -24.6 kJ/mol-atom | αGeS | 0 | unspecified | First–principles | [Ge–S](https://data.orchid-project.org/systems/GE-S.html) | [1] Chen 2022 | Table II, p. 3, row 37; `ORC-AE6RBHXQHI.d5de65` |  |
 
 ### Uncertainty budget
 
@@ -106,4 +106,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

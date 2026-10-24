@@ -58,8 +58,8 @@ Table: Invariant reactions reported in the literature for the Mn–W system (2)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1544.15 | peritectic |  | model | [1] Elsebaie 2018 | p. 8 | “As an example, the phase diagram calculated with kbcc = 36,000 J/mol and kL = 6000 J/mol will result in a peritectic temperature of 1271 °C and increased solid solubility of about 2.5 at.%.” |
-| 1541.15 | peritectic |  | model | [1] Elsebaie 2018 | p. 1 | “The maximum observed solubility of tungsten in manganese is about 10 at.% in the high temperature solid, compared to 7.4 at.% and 4.6 at.% in the solid and liquid phases respectively at the peritectic temperature of 1268 °C.” |
+| 1544.15 | peritectic |  | model | [1] Elsebaie 2018 | p. 8; `ORC-VXZWGSAOHU` | “As an example, the phase diagram calculated with kbcc = 36,000 J/mol and kL = 6000 J/mol will result in a peritectic temperature of 1271 °C and increased solid solubility of about 2.5 at.%.” |
+| 1541.15 | peritectic |  | model | [1] Elsebaie 2018 | p. 1; `ORC-RDS26EIGJC.67f36d` | “The maximum observed solubility of tungsten in manganese is about 10 at.% in the high temperature solid, compared to 7.4 at.% and 4.6 at.% in the solid and liquid phases respectively at the peritectic temperature of 1268 °C.” |
 
 ## Other properties
 
@@ -69,14 +69,14 @@ Table: Crystal structure, Mn–W system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 3.1627 Å ± 2.000e-4 | 1498.15 | Tungsten-phase | experimental | [1] Elsebaie 2018 | Table 2, p. 4, row 1 |  |
-| Lattice a | 3.1624 Å ± 8.000e-4 | 1498.15 | Tungsten-phase | experimental | [1] Elsebaie 2018 | Table 2, p. 4, row 5 |  |
-| Lattice a | 3.1614 Å ± 2.000e-4 | 1548.15 | Tungsten-phase | experimental | [1] Elsebaie 2018 | Table 2, p. 4, row 2 |  |
-| Lattice a | 3.162 Å ± 4.000e-4 | 1548.15 | Tungsten-phase | experimental | [1] Elsebaie 2018 | Table 2, p. 4, row 6 |  |
-| Lattice a | 3.1623 Å ± 3.000e-4 | 1623.15 | Tungsten-phase | experimental | [1] Elsebaie 2018 | Table 2, p. 4, row 3 |  |
-| Lattice a | 3.1618 Å ± 4.000e-4 | 1623.15 | Tungsten-phase | experimental | [1] Elsebaie 2018 | Table 2, p. 4, row 7 |  |
-| Lattice a | 3.1617 Å ± 2.000e-4 | 1698.15 | Tungsten-phase | experimental | [1] Elsebaie 2018 | Table 2, p. 4, row 4 |  |
-| Lattice a | 3.1612 Å ± 5.000e-4 | 1698.15 | Tungsten-phase | experimental | [1] Elsebaie 2018 | Table 2, p. 4, row 8 |  |
+| Lattice a | 3.1627 Å ± 2.000e-4 | 1498.15 | Tungsten-phase | experimental | [1] Elsebaie 2018 | Table 2, p. 4, row 1; `ORC-2P2OI5JPBG` |  |
+| Lattice a | 3.1624 Å ± 8.000e-4 | 1498.15 | Tungsten-phase | experimental | [1] Elsebaie 2018 | Table 2, p. 4, row 5; `ORC-7JEB24UHJS` |  |
+| Lattice a | 3.1614 Å ± 2.000e-4 | 1548.15 | Tungsten-phase | experimental | [1] Elsebaie 2018 | Table 2, p. 4, row 2; `ORC-2F3KR4DAFD` |  |
+| Lattice a | 3.162 Å ± 4.000e-4 | 1548.15 | Tungsten-phase | experimental | [1] Elsebaie 2018 | Table 2, p. 4, row 6; `ORC-VLGO7X7CJI` |  |
+| Lattice a | 3.1623 Å ± 3.000e-4 | 1623.15 | Tungsten-phase | experimental | [1] Elsebaie 2018 | Table 2, p. 4, row 3; `ORC-4F4KWNNYT3` |  |
+| Lattice a | 3.1618 Å ± 4.000e-4 | 1623.15 | Tungsten-phase | experimental | [1] Elsebaie 2018 | Table 2, p. 4, row 7; `ORC-CVDP2DZYSN` |  |
+| Lattice a | 3.1617 Å ± 2.000e-4 | 1698.15 | Tungsten-phase | experimental | [1] Elsebaie 2018 | Table 2, p. 4, row 4; `ORC-5LCQKY2WWV` |  |
+| Lattice a | 3.1612 Å ± 5.000e-4 | 1698.15 | Tungsten-phase | experimental | [1] Elsebaie 2018 | Table 2, p. 4, row 8; `ORC-QWBORCBL54` |  |
 
 ## Sources
 
@@ -141,4 +141,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

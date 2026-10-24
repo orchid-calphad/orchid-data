@@ -50,20 +50,20 @@ Table: Invariant reactions reported in the literature for the Hf–V system (14)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2266.15 | eutectoid: bcc_A2 -> C15-Laves + cph_A3 |  | experimental | [1] Servant 2005; _cites Rudy 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990003-9) | Table 3, p. 3, row 15 |  |
-| 1819.15 | peritectic |  | experimental | [1] Servant 2005; _cites Guzei 1968_ | p. 1 | “Conflicting information is provided in Ref 19 and 20, studies in which the Laves phase formation was reported to occur as result of a peritectic reaction at either 1546 °C (Ref 19) or 1490 °C (Ref 20).” |
-| 1808.15 | eutectic: L -> bcc_A2 + C15-Laves |  | model | [1] Servant 2005 | Table 3, p. 3, row 5 |  |
-| 1804.15 | eutectic: L -> bcc_A2 + C15-Laves |  | model | [1] Servant 2005 | Table 2, p. 3, row 6 |  |
-| 1793.15 | eutectic: L -> bcc_A2 + C15-Laves |  | experimental | [1] Servant 2005; _cites Rudy 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990003-9) | Table 3, p. 3, row 7 |  |
-| 1793.15 | eutectic: L -> bcc_A2 + C15-Laves |  | experimental | [1] Servant 2005; _cites Smith 1990_ | Table 3, p. 3, row 8 |  |
-| 1763.15 | peritectic |  | experimental | [1] Servant 2005; _cites Cunnigham 1963_ | p. 1 | “Conflicting information is provided in Ref 19 and 20, studies in which the Laves phase formation was reported to occur as result of a peritectic reaction at either 1546 °C (Ref 19) or 1490 °C (Ref 20).” |
-| 1733.15 | eutectic: L -> bcc_A2 + C15-Laves |  | model | [1] Servant 2005 | Table 3, p. 3, row 9 |  |
-| 1731.15 | eutectic: L -> bcc_A2 + C15-Laves |  | model | [1] Servant 2005 | Table 2, p. 3, row 10 |  |
-| 1729.15 | eutectic: L -> bcc_A2 + C15-Laves |  | experimental | [1] Servant 2005; _cites Smith 1990_ | Table 3, p. 3, row 12 |  |
-| 1726.15 | eutectic: L -> bcc_A2 + C15-Laves |  | experimental | [1] Servant 2005; _cites Rudy 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990003-9) | Table 2, p. 3, row 11 |  |
-| 1473.15 | eutectoid: bcc_A2 -> C15-Laves + cph_A3 |  | model | [1] Servant 2005 | Table 3, p. 3, row 14 |  |
-| 1466.15 | eutectoid: bcc_A2 -> C15-Laves + cph_A3 |  | model | [1] Servant 2005 | Table 3, p. 3, row 13 |  |
-| 1463.15 | eutectoid: bcc_A2 -> C15-Laves + cph_A3 |  | experimental | [1] Servant 2005; _cites Smith 1990_ | Table 3, p. 3, row 16 |  |
+| 2266.15 | eutectoid: bcc_A2 -> C15-Laves + cph_A3 |  | experimental | [1] Servant 2005; _cites Rudy 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990003-9) | Table 3, p. 3, row 15; `ORC-ULYMJRGWAE` |  |
+| 1819.15 | peritectic |  | experimental | [1] Servant 2005; _cites Guzei 1968_ | p. 1; `ORC-PYAR7UG346.588c57` | “Conflicting information is provided in Ref 19 and 20, studies in which the Laves phase formation was reported to occur as result of a peritectic reaction at either 1546 °C (Ref 19) or 1490 °C (Ref 20).” |
+| 1808.15 | eutectic: L -> bcc_A2 + C15-Laves |  | model | [1] Servant 2005 | Table 3, p. 3, row 5; `ORC-BDLVB33T7V` |  |
+| 1804.15 | eutectic: L -> bcc_A2 + C15-Laves |  | model | [1] Servant 2005 | Table 2, p. 3, row 6; `ORC-LV434AGVKP` |  |
+| 1793.15 | eutectic: L -> bcc_A2 + C15-Laves |  | experimental | [1] Servant 2005; _cites Rudy 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990003-9) | Table 3, p. 3, row 7; `ORC-3G73AJRGW2` |  |
+| 1793.15 | eutectic: L -> bcc_A2 + C15-Laves |  | experimental | [1] Servant 2005; _cites Smith 1990_ | Table 3, p. 3, row 8; `ORC-HRCGT35BXK` |  |
+| 1763.15 | peritectic |  | experimental | [1] Servant 2005; _cites Cunnigham 1963_ | p. 1; `ORC-PYAR7UG346.045a2e` | “Conflicting information is provided in Ref 19 and 20, studies in which the Laves phase formation was reported to occur as result of a peritectic reaction at either 1546 °C (Ref 19) or 1490 °C (Ref 20).” |
+| 1733.15 | eutectic: L -> bcc_A2 + C15-Laves |  | model | [1] Servant 2005 | Table 3, p. 3, row 9; `ORC-CGT2S2IPDK` |  |
+| 1731.15 | eutectic: L -> bcc_A2 + C15-Laves |  | model | [1] Servant 2005 | Table 2, p. 3, row 10; `ORC-CJRPIXGBRC` |  |
+| 1729.15 | eutectic: L -> bcc_A2 + C15-Laves |  | experimental | [1] Servant 2005; _cites Smith 1990_ | Table 3, p. 3, row 12; `ORC-FPTWLCXDMG` |  |
+| 1726.15 | eutectic: L -> bcc_A2 + C15-Laves |  | experimental | [1] Servant 2005; _cites Rudy 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990003-9) | Table 2, p. 3, row 11; `ORC-NPQGJJSIY3` |  |
+| 1473.15 | eutectoid: bcc_A2 -> C15-Laves + cph_A3 |  | model | [1] Servant 2005 | Table 3, p. 3, row 14; `ORC-H4HY336G33` |  |
+| 1466.15 | eutectoid: bcc_A2 -> C15-Laves + cph_A3 |  | model | [1] Servant 2005 | Table 3, p. 3, row 13; `ORC-KVRKMVZQUP` |  |
+| 1463.15 | eutectoid: bcc_A2 -> C15-Laves + cph_A3 |  | experimental | [1] Servant 2005; _cites Smith 1990_ | Table 3, p. 3, row 16; `ORC-2IX5X7Y3EI` |  |
 
 ## Formation enthalpies
 
@@ -73,10 +73,10 @@ Table: Enthalpies of formation, Hf–V system (4)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Laves |  | -3.344 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Servant 2005 | Table 1, p. 2, row 2 |  |
-| Laves |  | -3.204 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Servant 2005 | Table 1, p. 2, row 4 |  |
-| Laves phase |  | -3.5 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Servant 2005 | Table 1, p. 2, row 3 |  |
-| Laves phase |  | -2.813 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Servant 2005 | Table 1, p. 2, row 5 |  |
+| Laves |  | -3.344 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Servant 2005 | Table 1, p. 2, row 2; `ORC-7BVLHTVAN2.1e70f9` |  |
+| Laves |  | -3.204 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Servant 2005 | Table 1, p. 2, row 4; `ORC-FNPVDX2U5V.040967` |  |
+| Laves phase |  | -3.5 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Servant 2005 | Table 1, p. 2, row 3; `ORC-HH4D75SPXZ.3f50c8` |  |
+| Laves phase |  | -2.813 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Servant 2005 | Table 1, p. 2, row 5; `ORC-NKIM2CP5YX.6c0590` |  |
 
 ## Other properties
 
@@ -86,13 +86,13 @@ Table: Phase transition, Hf–V system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1805.65 K | 1805.65 | congruent melting: L -> C15 Laves | model | [1] Servant 2005 | Table 3, p. 3, row 2 |  |
-| Phase transition | 1809.15 K | 1809.15 | congruent melting: L -> C15 Laves | model | [1] Servant 2005 | Table 3, p. 3, row 1 |  |
-| Phase transition | 1823.15 K | 1823.15 | congruent melting: L -> C15 Laves | experimental | [1] Servant 2005; _cites Smith 1990_ | Table 3, p. 3, row 4 |  |
-| Phase transition | 1823.15 K | 1823.15 | congruent transformation | model | [1] Servant 2005; _cites Smith 1990_ | p. 1 | “The C15-Laves phase melts congruently at a temperature of 1552 °C (Ref 16) and 1550 °C (Ref 17), and has a homogeneity range.” |
-| Phase transition | 1825.15 K | 1825.15 | congruent melting: L -> C15 Laves | experimental | [1] Servant 2005; _cites Rudy 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990003-9) | Table 3, p. 3, row 3 |  |
-| Phase transition | 1825.15 K | 1825.15 | congruent transformation | experimental | [1] Servant 2005; _cites Rudy 1968_ | p. 1 | “The C15-Laves phase melts congruently at a temperature of 1552 °C (Ref 16) and 1550 °C (Ref 17), and has a homogeneity range.” |
-| Phase transition | 2446.15 K | 2446.15 |  | experimental | [1] Servant 2005; _cites Komjathy 1961_ | p. 1 | “On the other hand, according to Komjathy (Ref 18), its melting point is higher (2173 °C) and the phase is stoichiometric.” |
+| Phase transition | 1805.65 K | 1805.65 | congruent melting: L -> C15 Laves | model | [1] Servant 2005 | Table 3, p. 3, row 2; `ORC-L3XCVYIOSY` |  |
+| Phase transition | 1809.15 K | 1809.15 | congruent melting: L -> C15 Laves | model | [1] Servant 2005 | Table 3, p. 3, row 1; `ORC-4IK4OX7EUJ` |  |
+| Phase transition | 1823.15 K | 1823.15 | congruent melting: L -> C15 Laves | experimental | [1] Servant 2005; _cites Smith 1990_ | Table 3, p. 3, row 4; `ORC-ERC4LMJTDP` |  |
+| Phase transition | 1823.15 K | 1823.15 | congruent transformation | model | [1] Servant 2005; _cites Smith 1990_ | p. 1; `ORC-TU4TT2VK2J.65f1ba` | “The C15-Laves phase melts congruently at a temperature of 1552 °C (Ref 16) and 1550 °C (Ref 17), and has a homogeneity range.” |
+| Phase transition | 1825.15 K | 1825.15 | congruent melting: L -> C15 Laves | experimental | [1] Servant 2005; _cites Rudy 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990003-9) | Table 3, p. 3, row 3; `ORC-QJFT5ZQRXW` |  |
+| Phase transition | 1825.15 K | 1825.15 | congruent transformation | experimental | [1] Servant 2005; _cites Rudy 1968_ | p. 1; `ORC-TU4TT2VK2J.d8f83a` | “The C15-Laves phase melts congruently at a temperature of 1552 °C (Ref 16) and 1550 °C (Ref 17), and has a homogeneity range.” |
+| Phase transition | 2446.15 K | 2446.15 |  | experimental | [1] Servant 2005; _cites Komjathy 1961_ | p. 1; `ORC-UTY24JICXO` | “On the other hand, according to Komjathy (Ref 18), its melting point is higher (2173 °C) and the phase is stoichiometric.” |
 
 ### Mixing / partial (4)
 
@@ -100,10 +100,10 @@ Table: Mixing / partial, Hf–V system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: ΔHmelting_ | -5.528 kJ/mol (basis unstated) | 298.15 | liquid; _alloy: Hf 0.5, V 0.5_ | model | [1] Servant 2005 | Table 1, p. 2, row 2 |  |
-| Enthalpy of mixing; _printed: ΔHmelting_ | -4.67 kJ/mol (basis unstated) | 298.15 | liquid; _alloy: Hf 0.5, V 0.5_ | model | [1] Servant 2005 | Table 1, p. 2, row 4 |  |
-| Enthalpy of mixing; _printed: ΔHmelting_ | -4.42 kJ/mol (basis unstated) | 298.15 | liquid; _alloy: Hf 0.5, V 0.5_ | model | [1] Servant 2005 | Table 1, p. 2, row 3 |  |
-| Enthalpy of mixing; _printed: ΔHmelting_ | -4.692 kJ/mol (basis unstated) | 298.15 | liquid; _alloy: Hf 0.5, V 0.5_ | model | [1] Servant 2005 | Table 1, p. 2, row 5 |  |
+| Enthalpy of mixing; _printed: ΔHmelting_ | -5.528 kJ/mol (basis unstated) | 298.15 | liquid; _alloy: Hf 0.5, V 0.5_ | model | [1] Servant 2005 | Table 1, p. 2, row 2; `ORC-7BVLHTVAN2.638e87` |  |
+| Enthalpy of mixing; _printed: ΔHmelting_ | -4.67 kJ/mol (basis unstated) | 298.15 | liquid; _alloy: Hf 0.5, V 0.5_ | model | [1] Servant 2005 | Table 1, p. 2, row 4; `ORC-FNPVDX2U5V.d81635` |  |
+| Enthalpy of mixing; _printed: ΔHmelting_ | -4.42 kJ/mol (basis unstated) | 298.15 | liquid; _alloy: Hf 0.5, V 0.5_ | model | [1] Servant 2005 | Table 1, p. 2, row 3; `ORC-HH4D75SPXZ.614cc1` |  |
+| Enthalpy of mixing; _printed: ΔHmelting_ | -4.692 kJ/mol (basis unstated) | 298.15 | liquid; _alloy: Hf 0.5, V 0.5_ | model | [1] Servant 2005 | Table 1, p. 2, row 5; `ORC-NKIM2CP5YX.975a96` |  |
 
 ## Sources
 
@@ -168,4 +168,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

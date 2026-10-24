@@ -54,14 +54,14 @@ Table: Invariant reactions reported in the literature for the Hg–Te system (8)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 684 | HgTe + Te = L | HgTe: Te 0.5; Te: Te 1 | experimental | [1] Gierlotka 2010; _cites Massalski 1986_ | Table 3, p. 4, row 9 |  |
-| 684 | eutectic |  | experimental | [1] Gierlotka 2010 | p. 2 | “The system shows 2 invariant reactions: eutectic reaction between liquid, solid Hg and intermetallic compound HgTe at temperature 233 K and another eutectic between liquid, solid tellurium and intermetallic compound at 684 K.” |
-| 683 | HgTe + Te = L | HgTe: Te 0.5; Te: Te 1 | model | [1] Gierlotka 2010 | Table 3, p. 4, row 11 |  |
-| 675 | HgTe + Te = L | HgTe: Te 0.5; Te: Te 1 | model | [1] Gierlotka 2010 | Table 3, p. 4, row 12 |  |
-| 234 | Hg + HgTe = L | Hg: Te 0; HgTe: Te 0.5 | model | [1] Gierlotka 2010 | Table 3, p. 4, row 2 |  |
-| 233 | eutectic |  | experimental | [1] Gierlotka 2010 | p. 2 | “The system shows 2 invariant reactions: eutectic reaction between liquid, solid Hg and intermetallic compound HgTe at temperature 233 K and another eutectic between liquid, solid tellurium and intermetallic compound at 684 K.” |
-| 233 | Hg + HgTe = L | Hg: Te 0; HgTe: Te 0.5 | experimental | [1] Gierlotka 2010; _cites Massalski 1986_ | Table 3, p. 4, row 1 |  |
-| 233 | Hg + HgTe = L | Hg: Te 0; HgTe: Te 0.5 | model | [1] Gierlotka 2010 | Table 3, p. 4, row 4 |  |
+| 684 | HgTe + Te = L | HgTe: Te 0.5; Te: Te 1 | experimental | [1] Gierlotka 2010; _cites Massalski 1986_ | Table 3, p. 4, row 9; `ORC-3WUBYWUD2R` |  |
+| 684 | eutectic |  | experimental | [1] Gierlotka 2010 | p. 2; `ORC-OFQFGWZRJU.7ee0a8` | “The system shows 2 invariant reactions: eutectic reaction between liquid, solid Hg and intermetallic compound HgTe at temperature 233 K and another eutectic between liquid, solid tellurium and intermetallic compound at 684 K.” |
+| 683 | HgTe + Te = L | HgTe: Te 0.5; Te: Te 1 | model | [1] Gierlotka 2010 | Table 3, p. 4, row 11; `ORC-GKCKR43FBI` |  |
+| 675 | HgTe + Te = L | HgTe: Te 0.5; Te: Te 1 | model | [1] Gierlotka 2010 | Table 3, p. 4, row 12; `ORC-7HKZ6QY3BD` |  |
+| 234 | Hg + HgTe = L | Hg: Te 0; HgTe: Te 0.5 | model | [1] Gierlotka 2010 | Table 3, p. 4, row 2; `ORC-6VZTYAT7X5` |  |
+| 233 | eutectic |  | experimental | [1] Gierlotka 2010 | p. 2; `ORC-OFQFGWZRJU.61020f` | “The system shows 2 invariant reactions: eutectic reaction between liquid, solid Hg and intermetallic compound HgTe at temperature 233 K and another eutectic between liquid, solid tellurium and intermetallic compound at 684 K.” |
+| 233 | Hg + HgTe = L | Hg: Te 0; HgTe: Te 0.5 | experimental | [1] Gierlotka 2010; _cites Massalski 1986_ | Table 3, p. 4, row 1; `ORC-QUH6KVSAB4` |  |
+| 233 | Hg + HgTe = L | Hg: Te 0; HgTe: Te 0.5 | model | [1] Gierlotka 2010 | Table 3, p. 4, row 4; `ORC-ZEDGTT3OAD` |  |
 
 ## Formation enthalpies
 
@@ -71,16 +71,16 @@ Table: Enthalpies of formation, Hg–Te system (10)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| HgTe |  | -44.02 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Gierlotka 2010; _cites Yang 1995_ [doi](https://doi.org/10.1016/0364-5916%2895%2900039-h) | Table 4, p. 4, row 7 |  |
-| HgTe |  | -44.002 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [2] Jianrong 1995; _cites ref. 13_ | Table 4, p. 13, row 1 |  |
-| HgTe |  | -43.802 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Gierlotka 2010; _cites Su 1981_ | Table 4, p. 4, row 4 |  |
-| HgTe |  | -43.69 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Gierlotka 2010; _cites Brebrick 1991_ | Table 4, p. 4, row 6 |  |
-| HgTe |  | -43.648 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Gierlotka 2010 | Table 4, p. 4, row 8 |  |
-| HgTe |  | -43.538 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Jianrong 1995 | Table 4, p. 13, row 2 |  |
-| HgTe |  | -41.2 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Gierlotka 2010; _cites Sha 1989_ [doi](https://doi.org/10.1149/1.2096558) | Table 4, p. 4, row 3 |  |
-| HgTe |  | -36.5 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Gierlotka 2010; _cites Nasar 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990316-c) | Table 4, p. 4, row 5 |  |
-| HgTe |  | -33.9 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Gierlotka 2010; _cites Ratajczak 1969_ | Table 4, p. 4, row 1 |  |
-| HgTe |  | -31.8 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Gierlotka 2010; _cites Mills 1974_ | Table 4, p. 4, row 2 |  |
+| HgTe |  | -44.02 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Gierlotka 2010; _cites Yang 1995_ [doi](https://doi.org/10.1016/0364-5916%2895%2900039-h) | Table 4, p. 4, row 7; `ORC-OEJNTMATEJ` |  |
+| HgTe |  | -44.002 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [2] Jianrong 1995; _cites ref. 13_ | Table 4, p. 13, row 1; `ORC-S6377M3I2P.a5a2d6` |  |
+| HgTe |  | -43.802 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Gierlotka 2010; _cites Su 1981_ | Table 4, p. 4, row 4; `ORC-PYTM5LPW4L` |  |
+| HgTe |  | -43.69 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Gierlotka 2010; _cites Brebrick 1991_ | Table 4, p. 4, row 6; `ORC-HJSAMN7EKC` |  |
+| HgTe |  | -43.648 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Gierlotka 2010 | Table 4, p. 4, row 8; `ORC-XKDATEYW7N` |  |
+| HgTe |  | -43.538 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Jianrong 1995 | Table 4, p. 13, row 2; `ORC-D3QUZ7OGYZ.41f6eb` |  |
+| HgTe |  | -41.2 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Gierlotka 2010; _cites Sha 1989_ [doi](https://doi.org/10.1149/1.2096558) | Table 4, p. 4, row 3; `ORC-PX3Z37VCT4` |  |
+| HgTe |  | -36.5 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Gierlotka 2010; _cites Nasar 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990316-c) | Table 4, p. 4, row 5; `ORC-NFHRK2IB4Q` |  |
+| HgTe |  | -33.9 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Gierlotka 2010; _cites Ratajczak 1969_ | Table 4, p. 4, row 1; `ORC-EEZQZUHVX2` |  |
+| HgTe |  | -31.8 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Gierlotka 2010; _cites Mills 1974_ | Table 4, p. 4, row 2; `ORC-67ZTLGAVJG` |  |
 
 ## Other properties
 
@@ -90,11 +90,11 @@ Table: Phase transition, Hg–Te system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 942 K | 942 | L = HgTe; _L: Te 0.5; HgTe: Te 0.5_ | model | [1] Gierlotka 2010 | Table 3, p. 4, row 8 |  |
-| Phase transition | 942.65 K | 942.65 | HgTe | experimental | [2] Jianrong 1995; _cites ref. 31_ | p. 2 | “The melting point of HgTe has been measured by Strauss (3 1) Asadov (34) Delves and Lewis (36) Vanyukov et al. (32), Harman (35) Levitskaya et al. (37) Steininger (38) Blair and New&m (39), Ray and Spencer (26), Szofran and Lehoczky (40), Harman and Strauss (41), Tung et al.. (5)and Gromakov et al. (42) with general agreement and a mean value of 669.5"C.” |
-| Phase transition | 943 K | 943 | L = HgTe; _L: Te 0.5; HgTe: Te 0.5_ | experimental | [1] Gierlotka 2010; _cites Massalski 1986_ | Table 3, p. 4, row 5 |  |
-| Phase transition | 943 K | 943 | congruent transformation | experimental | [1] Gierlotka 2010 | p. 2 | “Temperature of congruent melting of HgTe intermetallic compound is 943 K.” |
-| Phase transition | 944 K | 944 | L = HgTe; _L: Te 0.5; HgTe: Te 0.5_ | model | [1] Gierlotka 2010 | Table 3, p. 4, row 6 |  |
+| Phase transition | 942 K | 942 | L = HgTe; _L: Te 0.5; HgTe: Te 0.5_ | model | [1] Gierlotka 2010 | Table 3, p. 4, row 8; `ORC-OXRNDSNLCN` |  |
+| Phase transition | 942.65 K | 942.65 | HgTe | experimental | [2] Jianrong 1995; _cites ref. 31_ | p. 2; `ORC-5OCPAQBWPA` | “The melting point of HgTe has been measured by Strauss (3 1) Asadov (34) Delves and Lewis (36) Vanyukov et al. (32), Harman (35) Levitskaya et al. (37) Steininger (38) Blair and New&m (39), Ray and Spencer (26), Szofran and Lehoczky (40), Harman and Strauss (41), Tung et al.. (5)and Gromakov et al. (42) with general agreement and a mean value of 669.5"C.” |
+| Phase transition | 943 K | 943 | L = HgTe; _L: Te 0.5; HgTe: Te 0.5_ | experimental | [1] Gierlotka 2010; _cites Massalski 1986_ | Table 3, p. 4, row 5; `ORC-WGMFDCVXWT` |  |
+| Phase transition | 943 K | 943 | congruent transformation | experimental | [1] Gierlotka 2010 | p. 2; `ORC-7TXCRVBBOG` | “Temperature of congruent melting of HgTe intermetallic compound is 943 K.” |
+| Phase transition | 944 K | 944 | L = HgTe; _L: Te 0.5; HgTe: Te 0.5_ | model | [1] Gierlotka 2010 | Table 3, p. 4, row 6; `ORC-HGF4PWW2QQ` |  |
 
 ### Phase equilibrium (11)
 
@@ -102,17 +102,17 @@ Table: Phase equilibrium, Hg–Te system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 936.15 | other: Melting Point of HgTe; _liquid: Te 0.5_ | experimental | [2] Jianrong 1995; _cites ref. 32_ | Table 1B, p. 4, row 5 |  |
-| Phase composition |  | 940.15 | other: Melting Point of HgTe; _liquid: Te 0.5_ | experimental | [2] Jianrong 1995; _cites ref. 5_ | Table 1B, p. 4, row 6 |  |
-| Phase composition |  | 941.15 | other: Melting Point of HgTe; _liquid: Te 0.5_ | experimental | [2] Jianrong 1995; _cites ref. 38_ | Table 1B, p. 4, row 11 |  |
-| Phase composition |  | 941.15 | other: Melting Point of HgTe; _liquid: Te 0.5_ | experimental | [2] Jianrong 1995; _cites ref. 37_ | Table 1B, p. 4, row 12 |  |
-| Phase composition |  | 942.65 | other: Melting Point of HgTe; _liquid: Te 0.5_ | experimental | [2] Jianrong 1995; _cites ref. 39_ | Table 1B, p. 4, row 7 |  |
-| Phase composition |  | 943.15 | other: Melting Point of HgTe; _liquid: Te 0.5_ | experimental | [2] Jianrong 1995; _cites ref. 32_ | Table 1B, p. 4, row 4 |  |
-| Phase composition |  | 943.15 | other: Melting Point of HgTe; _liquid: Te 0.5_ | experimental | [2] Jianrong 1995; _cites ref. 36_ | Table 1B, p. 4, row 9 |  |
-| Phase composition |  | 943.15 | other: Melting Point of HgTe; _liquid: Te 0.5_ | experimental | [2] Jianrong 1995; _cites ref. 26_ | Table 1B, p. 4, row 8 |  |
-| Phase composition |  | 943.15 | other: Melting Point of HgTe; _liquid: Te 0.5_ | experimental | [2] Jianrong 1995; _cites ref. 34_ | Table 1B, p. 4, row 2 |  |
-| Phase composition |  | 943.15 | other: Melting Point of HgTe; _liquid: Te 0.5_ | experimental | [2] Jianrong 1995; _cites ref. 31_ | Table 1B, p. 4, row 1 |  |
-| Phase composition |  | 958.15 | other: Melting Point of HgTe; _liquid: Te 0.5_ | experimental | [2] Jianrong 1995; _cites ref. 42_ | Table 1B, p. 4, row 10 |  |
+| Phase composition |  | 936.15 | other: Melting Point of HgTe; _liquid: Te 0.5_ | experimental | [2] Jianrong 1995; _cites ref. 32_ | Table 1B, p. 4, row 5; `ORC-MLSK6MMBJC` |  |
+| Phase composition |  | 940.15 | other: Melting Point of HgTe; _liquid: Te 0.5_ | experimental | [2] Jianrong 1995; _cites ref. 5_ | Table 1B, p. 4, row 6; `ORC-XZ7XUQ522T` |  |
+| Phase composition |  | 941.15 | other: Melting Point of HgTe; _liquid: Te 0.5_ | experimental | [2] Jianrong 1995; _cites ref. 38_ | Table 1B, p. 4, row 11; `ORC-VHNCQGF5GA` |  |
+| Phase composition |  | 941.15 | other: Melting Point of HgTe; _liquid: Te 0.5_ | experimental | [2] Jianrong 1995; _cites ref. 37_ | Table 1B, p. 4, row 12; `ORC-ZJGWCO5MLR` |  |
+| Phase composition |  | 942.65 | other: Melting Point of HgTe; _liquid: Te 0.5_ | experimental | [2] Jianrong 1995; _cites ref. 39_ | Table 1B, p. 4, row 7; `ORC-WUYRVPCPLX` |  |
+| Phase composition |  | 943.15 | other: Melting Point of HgTe; _liquid: Te 0.5_ | experimental | [2] Jianrong 1995; _cites ref. 32_ | Table 1B, p. 4, row 4; `ORC-7ZOZ2GZTE5` |  |
+| Phase composition |  | 943.15 | other: Melting Point of HgTe; _liquid: Te 0.5_ | experimental | [2] Jianrong 1995; _cites ref. 36_ | Table 1B, p. 4, row 9; `ORC-K5QGC6YQ5G` |  |
+| Phase composition |  | 943.15 | other: Melting Point of HgTe; _liquid: Te 0.5_ | experimental | [2] Jianrong 1995; _cites ref. 26_ | Table 1B, p. 4, row 8; `ORC-MGVAA6OOWR` |  |
+| Phase composition |  | 943.15 | other: Melting Point of HgTe; _liquid: Te 0.5_ | experimental | [2] Jianrong 1995; _cites ref. 34_ | Table 1B, p. 4, row 2; `ORC-XTDALXGAQQ` |  |
+| Phase composition |  | 943.15 | other: Melting Point of HgTe; _liquid: Te 0.5_ | experimental | [2] Jianrong 1995; _cites ref. 31_ | Table 1B, p. 4, row 1; `ORC-ZX6XFLKEAJ` |  |
+| Phase composition |  | 958.15 | other: Melting Point of HgTe; _liquid: Te 0.5_ | experimental | [2] Jianrong 1995; _cites ref. 42_ | Table 1B, p. 4, row 10; `ORC-G7QFOD2PDW` |  |
 
 ### Mixing / partial (2)
 
@@ -120,8 +120,8 @@ Table: Mixing / partial, Hg–Te system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy of mixing; _printed: S°298(HgTe)_ | 103.83 J/mol (basis unstated)/K | 298.15 | HgTe; _alloy: Hg 0.5, Te 0.5_ | model | [2] Jianrong 1995 | Table 4, p. 13, row 2 |  |
-| Entropy of mixing; _printed: S°298(HgTe)_ | 104.6 J/mol (basis unstated)/K | 298.15 | HgTe; _alloy: Hg 0.5, Te 0.5_ | unspecified | [2] Jianrong 1995; _cites ref. 13_ | Table 4, p. 13, row 1 |  |
+| Entropy of mixing; _printed: S°298(HgTe)_ | 103.83 J/mol (basis unstated)/K | 298.15 | HgTe; _alloy: Hg 0.5, Te 0.5_ | model | [2] Jianrong 1995 | Table 4, p. 13, row 2; `ORC-D3QUZ7OGYZ.06b0fe` |  |
+| Entropy of mixing; _printed: S°298(HgTe)_ | 104.6 J/mol (basis unstated)/K | 298.15 | HgTe; _alloy: Hg 0.5, Te 0.5_ | unspecified | [2] Jianrong 1995; _cites ref. 13_ | Table 4, p. 13, row 1; `ORC-S6377M3I2P.e4c60f` |  |
 
 ## Sources
 
@@ -187,4 +187,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

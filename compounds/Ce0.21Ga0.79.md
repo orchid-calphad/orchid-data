@@ -14,9 +14,9 @@ Table: Enthalpy of formation of Ce0.21Ga0.79 reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -51.5 kJ/mol-atom ± 1.4 | Ce0.21Ga0.79 | 298.15 | experimental | Ga. Soln. Calori.; 1103 K | [Ce–Ga](https://data.orchid-project.org/systems/CE-GA.html) | [1] Idbenali 2013; _cites F 1998_ | Table 4, p. 6, row 8 |  |
-| -36.7 kJ/mol-atom ± 2.9 | Ce0.21Ga0.79 | 298.15 | experimental | Precipitation Cal. 1125 K | [Ce–Ga](https://data.orchid-project.org/systems/CE-GA.html) | [1] Idbenali 2013; _cites F 1998_ | Table 4, p. 6, row 6 |  |
-| -46.1 kJ/mol-atom | Ce0.21Ga0.79 | 298.15 | model | Miedema’s Model | [Ce–Ga](https://data.orchid-project.org/systems/CE-GA.html) | [1] Idbenali 2013; _cites Chkhikvadze 1977_ | Table 4, p. 6, row 7 |  |
+| -51.5 kJ/mol-atom ± 1.4 | Ce0.21Ga0.79 | 298.15 | experimental | Ga. Soln. Calori.; 1103 K | [Ce–Ga](https://data.orchid-project.org/systems/CE-GA.html) | [1] Idbenali 2013; _cites F 1998_ | Table 4, p. 6, row 8; `ORC-377G72NYL5.16f26c` |  |
+| -36.7 kJ/mol-atom ± 2.9 | Ce0.21Ga0.79 | 298.15 | experimental | Precipitation Cal. 1125 K | [Ce–Ga](https://data.orchid-project.org/systems/CE-GA.html) | [1] Idbenali 2013; _cites F 1998_ | Table 4, p. 6, row 6; `ORC-P74KIVIPMK.138e01` |  |
+| -46.1 kJ/mol-atom | Ce0.21Ga0.79 | 298.15 | model | Miedema’s Model | [Ce–Ga](https://data.orchid-project.org/systems/CE-GA.html) | [1] Idbenali 2013; _cites Chkhikvadze 1977_ | Table 4, p. 6, row 7; `ORC-PPWUOCEIXE.cb8335` |  |
 
 ### Uncertainty budget
 
@@ -81,4 +81,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

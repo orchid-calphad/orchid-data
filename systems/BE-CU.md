@@ -58,33 +58,33 @@ Table: Invariant reactions reported in the literature for the Be–Cu system (27
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1512 | Liquid ↔ δ |  | experimental | [1] Liu 2018; _cites Losana 1942_ | Table 4, p. 9, row 22 |  |
-| 1492 | Liquid ↔ δ | Liquid: Be 0.78 | experimental | [1] Liu 2018; _cites Jonsson 1982_ | Table 4, p. 9, row 24 |  |
-| 1488 | Liquid ↔ δ |  | experimental | [1] Liu 2018; _cites Borchers 1932_ | Table 4, p. 9, row 23 |  |
-| 1474.6 | Liquid ↔ δ + (βBe) | Liquid: Be 0.808; δ: Be 0.785; (βBe): Be 0.837 | model | [1] Liu 2018 | Table 4, p. 9, row 17 |  |
-| 1472 | Liquid ↔ δ + (βBe) | (βBe): Be 0.827 | experimental | [1] Liu 2018; _cites Jonsson 1982_ | Table 4, p. 9, row 16 |  |
-| 1471.3 | Liquid ↔ δ | Liquid: Be 0.765 | model | [1] Liu 2018 | Table 4, p. 9, row 25 |  |
-| 1393 | (βBe) ↔ δ + (αBe) | (βBe): Be 0.872; δ: Be 0.803; (αBe): Be 0.914 | model | [1] Liu 2018 | Table 4, p. 9, row 21 |  |
-| 1390 | (βBe) ↔ δ + (αBe) |  | experimental | [1] Liu 2018; _cites Gelles 1963_ | Table 4, p. 9, row 19 |  |
-| 1382 | (βBe) ↔ δ + (αBe) | (αBe): Be 0.905 | experimental | [1] Liu 2018; _cites Jonsson 1982_ | Table 4, p. 9, row 20 |  |
-| 1363 | (βBe) ↔ δ + (αBe) |  | experimental | [1] Liu 2018; _cites Jacobson 1966_ | Table 4, p. 9, row 18 |  |
-| 1208.1 | Liquid + δ ↔ γ | Liquid: Be 0.456; δ: Be 0.642; γ: Be 0.497 | model | [1] Liu 2018 | Table 4, p. 9, row 15 |  |
-| 1206 | Liquid + δ ↔ γ |  | experimental | [1] Liu 2018; _cites Borchers 1932_ | Table 4, p. 9, row 14 |  |
-| 1203 | peritectic |  | model | [1] Liu 2018; _cites Chakrabarti 1987_ [doi](https://doi.org/10.1007/bf02874919) | p. 6 | “In the phase diagram assessed by Chakrabarti and Tanner \[28\], there is a b (bcc_A2) phase, which is stable in the Cu-rich side with two peritectic equilibria: one among d, liquid, and c (bcc_B2) at 1203 K in the middle of the system and the other among b (bcc_A2), liquid, and (Cu) at 1139 K in the Cu-rich side.” |
-| 1143 | Liquid ↔ (Cu) + β | (Cu): Be 0.166 | experimental | [1] Liu 2018; _cites Abrikosov 1952_ | Table 4, p. 9, row 3 |  |
-| 1139 | peritectic |  | model | [1] Liu 2018; _cites Chakrabarti 1987_ [doi](https://doi.org/10.1007/bf02874919) | p. 6 | “In the phase diagram assessed by Chakrabarti and Tanner \[28\], there is a b (bcc_A2) phase, which is stable in the Cu-rich side with two peritectic equilibria: one among d, liquid, and c (bcc_B2) at 1203 K in the middle of the system and the other among b (bcc_A2), liquid, and (Cu) at 1139 K in the Cu-rich side.” |
-| 1139 | Liquid ↔ (Cu) + β | (Cu): Be 0.137; β: Be 0.254 | experimental | [1] Liu 2018; _cites Iwase 1941_ | Table 4, p. 9, row 2 |  |
-| 1138 | Liquid ↔ (Cu) + β | (Cu): Be 0.169; β: Be 0.241 | experimental | [1] Liu 2018; _cites Borchers 1932_ | Table 4, p. 9, row 1 |  |
-| 1132.1 | Liquid ↔ (Cu) + β | Liquid: Be 0.254; (Cu): Be 0.148; β: Be 0.276 | model | [1] Liu 2018 | Table 4, p. 9, row 4 |  |
-| 894.2 | β ↔ (Cu) + γ | β: Be 0.311; (Cu): Be 0.113; γ: Be 0.45 | model | [1] Liu 2018 | Table 4, p. 9, row 13 |  |
-| 881 | β ↔ (Cu) + γ |  | experimental | [1] Liu 2018; _cites Fillnow 1950_ | Table 4, p. 9, row 9 |  |
-| 878 | β ↔ (Cu) + γ |  | experimental | [1] Liu 2018; _cites Morinaga 1965_ | Table 4, p. 9, row 11 |  |
-| 874 | β ↔ (Cu) + γ |  | experimental | [1] Liu 2018; _cites Thomas 1944_ | Table 4, p. 9, row 8 |  |
-| 863 | β ↔ (Cu) + γ |  | experimental | [1] Liu 2018; _cites Auvray 1974_ [doi](https://doi.org/10.1016/0036-9748%2874%2990399-8) | Table 4, p. 9, row 12 |  |
-| 851 | β ↔ (Cu) + γ | β: Be 0.31 | experimental | [1] Liu 2018; _cites Abrikosov 1952_ | Table 4, p. 9, row 10 |  |
-| 851 | β ↔ (Cu) + γ | β: Be 0.31; (Cu): Be 0.11; γ: Be 0.466 | experimental | [1] Liu 2018; _cites Borchers 1932_ | Table 4, p. 9, row 5 |  |
-| 851 | β ↔ (Cu) + γ | β: Be 0.31 | experimental | [1] Liu 2018; _cites Losana 1942_ | Table 4, p. 9, row 7 |  |
-| 846 | β ↔ (Cu) + γ | β: Be 0.318; (Cu): Be 0.097; γ: Be 0.476 | experimental | [1] Liu 2018; _cites Iwase 1941_ | Table 4, p. 9, row 6 |  |
+| 1512 | Liquid ↔ δ |  | experimental | [1] Liu 2018; _cites Losana 1942_ | Table 4, p. 9, row 22; `ORC-GYT6NODWFV` |  |
+| 1492 | Liquid ↔ δ | Liquid: Be 0.78 | experimental | [1] Liu 2018; _cites Jonsson 1982_ | Table 4, p. 9, row 24; `ORC-2AWQ3CLFZQ` |  |
+| 1488 | Liquid ↔ δ |  | experimental | [1] Liu 2018; _cites Borchers 1932_ | Table 4, p. 9, row 23; `ORC-3XB25XD256` |  |
+| 1474.6 | Liquid ↔ δ + (βBe) | Liquid: Be 0.808; δ: Be 0.785; (βBe): Be 0.837 | model | [1] Liu 2018 | Table 4, p. 9, row 17; `ORC-JDPFF6OJY6` |  |
+| 1472 | Liquid ↔ δ + (βBe) | (βBe): Be 0.827 | experimental | [1] Liu 2018; _cites Jonsson 1982_ | Table 4, p. 9, row 16; `ORC-LX22URCQWT` |  |
+| 1471.3 | Liquid ↔ δ | Liquid: Be 0.765 | model | [1] Liu 2018 | Table 4, p. 9, row 25; `ORC-ENZY4VHD3C` |  |
+| 1393 | (βBe) ↔ δ + (αBe) | (βBe): Be 0.872; δ: Be 0.803; (αBe): Be 0.914 | model | [1] Liu 2018 | Table 4, p. 9, row 21; `ORC-HUIGPIHOG5` |  |
+| 1390 | (βBe) ↔ δ + (αBe) |  | experimental | [1] Liu 2018; _cites Gelles 1963_ | Table 4, p. 9, row 19; `ORC-LUJDRBNY3S` |  |
+| 1382 | (βBe) ↔ δ + (αBe) | (αBe): Be 0.905 | experimental | [1] Liu 2018; _cites Jonsson 1982_ | Table 4, p. 9, row 20; `ORC-2IB4SBXHRS` |  |
+| 1363 | (βBe) ↔ δ + (αBe) |  | experimental | [1] Liu 2018; _cites Jacobson 1966_ | Table 4, p. 9, row 18; `ORC-FWXD5WE4RI` |  |
+| 1208.1 | Liquid + δ ↔ γ | Liquid: Be 0.456; δ: Be 0.642; γ: Be 0.497 | model | [1] Liu 2018 | Table 4, p. 9, row 15; `ORC-LJ44CKOVYO` |  |
+| 1206 | Liquid + δ ↔ γ |  | experimental | [1] Liu 2018; _cites Borchers 1932_ | Table 4, p. 9, row 14; `ORC-4MGUFQSSW6` |  |
+| 1203 | peritectic |  | model | [1] Liu 2018; _cites Chakrabarti 1987_ [doi](https://doi.org/10.1007/bf02874919) | p. 6; `ORC-GXTO7VGZHD.520a2d` | “In the phase diagram assessed by Chakrabarti and Tanner \[28\], there is a b (bcc_A2) phase, which is stable in the Cu-rich side with two peritectic equilibria: one among d, liquid, and c (bcc_B2) at 1203 K in the middle of the system and the other among b (bcc_A2), liquid, and (Cu) at 1139 K in the Cu-rich side.” |
+| 1143 | Liquid ↔ (Cu) + β | (Cu): Be 0.166 | experimental | [1] Liu 2018; _cites Abrikosov 1952_ | Table 4, p. 9, row 3; `ORC-57NG4AHYJN` |  |
+| 1139 | peritectic |  | model | [1] Liu 2018; _cites Chakrabarti 1987_ [doi](https://doi.org/10.1007/bf02874919) | p. 6; `ORC-GXTO7VGZHD.126903` | “In the phase diagram assessed by Chakrabarti and Tanner \[28\], there is a b (bcc_A2) phase, which is stable in the Cu-rich side with two peritectic equilibria: one among d, liquid, and c (bcc_B2) at 1203 K in the middle of the system and the other among b (bcc_A2), liquid, and (Cu) at 1139 K in the Cu-rich side.” |
+| 1139 | Liquid ↔ (Cu) + β | (Cu): Be 0.137; β: Be 0.254 | experimental | [1] Liu 2018; _cites Iwase 1941_ | Table 4, p. 9, row 2; `ORC-HMDAYLLMKQ` |  |
+| 1138 | Liquid ↔ (Cu) + β | (Cu): Be 0.169; β: Be 0.241 | experimental | [1] Liu 2018; _cites Borchers 1932_ | Table 4, p. 9, row 1; `ORC-244YA77HZJ` |  |
+| 1132.1 | Liquid ↔ (Cu) + β | Liquid: Be 0.254; (Cu): Be 0.148; β: Be 0.276 | model | [1] Liu 2018 | Table 4, p. 9, row 4; `ORC-R3AFXYMBHM` |  |
+| 894.2 | β ↔ (Cu) + γ | β: Be 0.311; (Cu): Be 0.113; γ: Be 0.45 | model | [1] Liu 2018 | Table 4, p. 9, row 13; `ORC-W2M6CFJNFW` |  |
+| 881 | β ↔ (Cu) + γ |  | experimental | [1] Liu 2018; _cites Fillnow 1950_ | Table 4, p. 9, row 9; `ORC-NSFSJBJDW5` |  |
+| 878 | β ↔ (Cu) + γ |  | experimental | [1] Liu 2018; _cites Morinaga 1965_ | Table 4, p. 9, row 11; `ORC-XJ6K7OWEGL` |  |
+| 874 | β ↔ (Cu) + γ |  | experimental | [1] Liu 2018; _cites Thomas 1944_ | Table 4, p. 9, row 8; `ORC-ZIV73IELPM` |  |
+| 863 | β ↔ (Cu) + γ |  | experimental | [1] Liu 2018; _cites Auvray 1974_ [doi](https://doi.org/10.1016/0036-9748%2874%2990399-8) | Table 4, p. 9, row 12; `ORC-YCIRCWX57T` |  |
+| 851 | β ↔ (Cu) + γ | β: Be 0.31 | experimental | [1] Liu 2018; _cites Abrikosov 1952_ | Table 4, p. 9, row 10; `ORC-4NLQF4KROR` |  |
+| 851 | β ↔ (Cu) + γ | β: Be 0.31; (Cu): Be 0.11; γ: Be 0.466 | experimental | [1] Liu 2018; _cites Borchers 1932_ | Table 4, p. 9, row 5; `ORC-CJSHUDD2FZ` |  |
+| 851 | β ↔ (Cu) + γ | β: Be 0.31 | experimental | [1] Liu 2018; _cites Losana 1942_ | Table 4, p. 9, row 7; `ORC-SL76LQG4PR` |  |
+| 846 | β ↔ (Cu) + γ | β: Be 0.318; (Cu): Be 0.097; γ: Be 0.476 | experimental | [1] Liu 2018; _cites Iwase 1941_ | Table 4, p. 9, row 6; `ORC-LUXN3O7JTH` |  |
 
 ## Formation enthalpies
 
@@ -94,7 +94,7 @@ Table: Enthalpies of formation, Be–Cu system (1)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | -9.29 kJ/mol-atom | 298.15 | model |  |  | [1] Liu 2018 | p. 9 | “The calculated enthalpy of formation for c (bcc_B2) phase at 298 K using the present thermodynamic parameters is - 9.29 kJ/mol of atom, which is in a good agreement with the DFT calculated value, - 9.88 kJ/mol of atom.” |
+| — |  | -9.29 kJ/mol-atom | 298.15 | model |  |  | [1] Liu 2018 | p. 9; `ORC-Y67XBMVAGJ` | “The calculated enthalpy of formation for c (bcc_B2) phase at 298 K using the present thermodynamic parameters is - 9.29 kJ/mol of atom, which is in a good agreement with the DFT calculated value, - 9.88 kJ/mol of atom.” |
 
 ## Other properties
 
@@ -104,8 +104,8 @@ Table: Phase transition, Be–Cu system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1082 K | 1082 |  | model | [1] Liu 2018; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | p. 6 | “However, the SGTE unary database \[7\] provides a melting point for the metastable pure bcc_A2 Cu at 1082 K, which is lower than the experimental three-phase equilibrium (Cu) ? liquid ? b.” |
-| Phase transition | 1133 K | 1133 | other | model | [1] Liu 2018; _cites Chakrabarti 1987_ [doi](https://doi.org/10.1007/bf02874919) | p. 6 | “Chakrabarti and Tanner \[28\] proposed a minimum at 1133 K in the liquidus line between these two peritectic equilibria.” |
+| Phase transition | 1082 K | 1082 |  | model | [1] Liu 2018; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | p. 6; `ORC-VGY6R7WES6` | “However, the SGTE unary database \[7\] provides a melting point for the metastable pure bcc_A2 Cu at 1082 K, which is lower than the experimental three-phase equilibrium (Cu) ? liquid ? b.” |
+| Phase transition | 1133 K | 1133 | other | model | [1] Liu 2018; _cites Chakrabarti 1987_ [doi](https://doi.org/10.1007/bf02874919) | p. 6; `ORC-KOZIRO4GH7` | “Chakrabarti and Tanner \[28\] proposed a minimum at 1133 K in the liquidus line between these two peritectic equilibria.” |
 
 ### Crystal structure (6)
 
@@ -113,12 +113,12 @@ Table: Crystal structure, Be–Cu system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 2.81 Å |  | β | unspecified | [1] Liu 2018 | Table 2, p. 3, row 2 |  |
-| Lattice a | 2.286 Å | 298.15 | (αBe); _alloy: Cu 0_ | unspecified | [1] Liu 2018 | Table 2, p. 3, row 4 |  |
-| Lattice a | 2.552 Å | 298.15 | (βBe); _alloy: Cu 0_ | unspecified | [1] Liu 2018 | Table 2, p. 3, row 6 |  |
-| Lattice a | 2.702 Å | 298.15 | γ | unspecified | [1] Liu 2018 | Table 2, p. 3, row 3 |  |
-| Lattice a | 5.852 Å | 298.15 | δ | unspecified | [1] Liu 2018 | Table 2, p. 3, row 5 |  |
-| Lattice c | 3.585 Å | 298.15 | (αBe); _alloy: Cu 0_ | unspecified | [1] Liu 2018 | Table 2, p. 3, row 4 |  |
+| Lattice a | 2.81 Å |  | β | unspecified | [1] Liu 2018 | Table 2, p. 3, row 2; `ORC-M5DUDRY7ZU` |  |
+| Lattice a | 2.286 Å | 298.15 | (αBe); _alloy: Cu 0_ | unspecified | [1] Liu 2018 | Table 2, p. 3, row 4; `ORC-PBMT5L4HFE.93baf6` |  |
+| Lattice a | 2.552 Å | 298.15 | (βBe); _alloy: Cu 0_ | unspecified | [1] Liu 2018 | Table 2, p. 3, row 6; `ORC-NFYV2OCBRX` |  |
+| Lattice a | 2.702 Å | 298.15 | γ | unspecified | [1] Liu 2018 | Table 2, p. 3, row 3; `ORC-FY4TXLLUCJ` |  |
+| Lattice a | 5.852 Å | 298.15 | δ | unspecified | [1] Liu 2018 | Table 2, p. 3, row 5; `ORC-SRK36IH6L7` |  |
+| Lattice c | 3.585 Å | 298.15 | (αBe); _alloy: Cu 0_ | unspecified | [1] Liu 2018 | Table 2, p. 3, row 4; `ORC-PBMT5L4HFE.e4d703` |  |
 
 ## Sources
 
@@ -183,4 +183,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

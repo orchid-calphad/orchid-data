@@ -42,9 +42,9 @@ Table: Invariant reactions reported in the literature for the Al–Ga system (3)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 303 | eutectic |  | model | [1] Moussa 2018; _cites Massalski 1990_ | p. 2 | “It is characterized by a rather limited solubility of Ga into solid Al to a maximum of about 9 at.% and an eutectic reaction at 303 K.” |
-| 300 | eutectic |  | experimental | [2] Watson 1992; _cites ref. 5_ | p. 3 | “The experimental determinations of the eutectic point 5-9 11-13 at around 300 K and at a gallium content of approxtmately 97 at% are in very close agreement wtt \*b\* each otbcr.” |
-| 298.5 | eutectic |  | experimental | [3] Mathon 2000 | p. 6 | “The melting temperature of Ga at 303 K and the Al-Ga binary eutectic at 298.5 K and the Ga-Zn eutectic at 297.3 K, lead to the appearance of two-phases and three-phases fields.” |
+| 303 | eutectic |  | model | [1] Moussa 2018; _cites Massalski 1990_ | p. 2; `ORC-IAFJ2YE5TL` | “It is characterized by a rather limited solubility of Ga into solid Al to a maximum of about 9 at.% and an eutectic reaction at 303 K.” |
+| 300 | eutectic |  | experimental | [2] Watson 1992; _cites ref. 5_ | p. 3; `ORC-6TXQW2E3T6` | “The experimental determinations of the eutectic point 5-9 11-13 at around 300 K and at a gallium content of approxtmately 97 at% are in very close agreement wtt \*b\* each otbcr.” |
+| 298.5 | eutectic |  | experimental | [3] Mathon 2000 | p. 6; `ORC-O6G26UJICD.1424f2` | “The melting temperature of Ga at 303 K and the Al-Ga binary eutectic at 298.5 K and the Ga-Zn eutectic at 297.3 K, lead to the appearance of two-phases and three-phases fields.” |
 
 ## Other properties
 
@@ -54,9 +54,9 @@ Table: Crystal structure, Al–Ga system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 4.041 Å | 933 (\<) | Al; _Al: Ga 0.01_ | model | [1] Moussa 2018; _cites Massalski 1990_ | Table 1, p. 3, row 4 |  |
-| Lattice b | 4.041 Å | 933 (\<) | Al; _Al: Ga 0.01_ | model | [1] Moussa 2018; _cites Massalski 1990_ | Table 1, p. 3, row 4 |  |
-| Lattice c | 4.041 Å | 933 (\<) | Al; _Al: Ga 0.01_ | model | [1] Moussa 2018; _cites Massalski 1990_ | Table 1, p. 3, row 4 |  |
+| Lattice a | 4.041 Å | 933 (\<) | Al; _Al: Ga 0.01_ | model | [1] Moussa 2018; _cites Massalski 1990_ | Table 1, p. 3, row 4; `ORC-7XIFBP6AVB.2051ef` |  |
+| Lattice b | 4.041 Å | 933 (\<) | Al; _Al: Ga 0.01_ | model | [1] Moussa 2018; _cites Massalski 1990_ | Table 1, p. 3, row 4; `ORC-7XIFBP6AVB.61adca` |  |
+| Lattice c | 4.041 Å | 933 (\<) | Al; _Al: Ga 0.01_ | model | [1] Moussa 2018; _cites Massalski 1990_ | Table 1, p. 3, row 4; `ORC-7XIFBP6AVB.e4fe4e` |  |
 
 ## Sources
 
@@ -123,4 +123,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

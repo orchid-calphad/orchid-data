@@ -14,10 +14,10 @@ Table: Enthalpy of formation of Al2Fe reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -27.8 kJ/mol-atom ± 1.9 | ζ-Al2Fe | 298.15 | experimental | solution calorimetry | [Al–Fe](https://data.orchid-project.org/systems/AL-FE.html) | [1] Ilatovskaia 2023; _cites Lukas 2007_ | Table 3, p. 6, row 5 |  |
-| -23.8 kJ/mol-atom | ζ-Al2Fe | 298.15 | model |  | [Al–Fe](https://data.orchid-project.org/systems/AL-FE.html) | [1] Ilatovskaia 2023 | Table 3, p. 6, row 8 |  |
-| -23.72 kJ/mol-atom | ζ-Al2Fe | 298.15 | model |  | [Al–Fe](https://data.orchid-project.org/systems/AL-FE.html) | [1] Ilatovskaia 2023; _cites Zienert 2018_ [doi](https://doi.org/10.1016/j.jallcom.2018.01.316) | Table 3, p. 6, row 7 |  |
-| -124.42 kJ/mol (basis unstated) | FeAl2 |  | DFT | DFT | [Al–Co–Fe](https://data.orchid-project.org/systems/AL-CO-FE.html) | [2] Ostrowska 2019; _cites AFLOW_ | Table 3, p. 3, row 3 |  |
+| -27.8 kJ/mol-atom ± 1.9 | ζ-Al2Fe | 298.15 | experimental | solution calorimetry | [Al–Fe](https://data.orchid-project.org/systems/AL-FE.html) | [1] Ilatovskaia 2023; _cites Lukas 2007_ | Table 3, p. 6, row 5; `ORC-PPHKB7RLW5.2ce243` |  |
+| -23.8 kJ/mol-atom | ζ-Al2Fe | 298.15 | model |  | [Al–Fe](https://data.orchid-project.org/systems/AL-FE.html) | [1] Ilatovskaia 2023 | Table 3, p. 6, row 8; `ORC-NFOJ5NSTXH.4aba14` |  |
+| -23.72 kJ/mol-atom | ζ-Al2Fe | 298.15 | model |  | [Al–Fe](https://data.orchid-project.org/systems/AL-FE.html) | [1] Ilatovskaia 2023; _cites Zienert 2018_ [doi](https://doi.org/10.1016/j.jallcom.2018.01.316) | Table 3, p. 6, row 7; `ORC-OQUBXYMF3T.a8d56e` |  |
+| -124.42 kJ/mol (basis unstated) | FeAl2 |  | DFT | DFT | [Al–Co–Fe](https://data.orchid-project.org/systems/AL-CO-FE.html) | [2] Ostrowska 2019; _cites AFLOW_ | Table 3, p. 3, row 3; `ORC-QZDY6TWINT` |  |
 
 ### Uncertainty budget
 
@@ -96,4 +96,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

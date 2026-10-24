@@ -102,68 +102,68 @@ Table: Invariant reactions reported in the literature for the Co–Sm system (62
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1612 | Liq.->α-Co(fcc)+Co17Sm2 | L: Sm 0.079; Co17Sm2: Sm 0.105263 | model | [1] Su 1998 | Table 3, p. 4, row 32 |  |
-| 1600 | Liq.->α-Co(fcc)+Co17Sm2 | L: Sm 0.092; Co17Sm2: Sm 0.105263 | experimental | [1] Su 1998; _cites Ge 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840306) | Table 3, p. 4, row 33 |  |
-| 1600 | Liq -> α(Co) + Sm2Co17 | Sm2Co17: Sm 0.105263 | model | [2] Yuan 2011 | Table 2, p. 3, row 36 |  |
-| 1600 | Liq -> α(Co) + Sm2Co17 | Sm2Co17: Sm 0.105263 | experimental | [2] Yuan 2011; _cites Ge 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840306) | Table 2, p. 3, row 37 |  |
-| 1598 | Liq.->α-Co(fcc)+Co17Sm2 | Co17Sm2: Sm 0.105263 | experimental | [1] Su 1998; _cites Buschow 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990037-4) | Table 3, p. 4, row 34 |  |
-| 1598 | Liq -> α(Co) + Sm2Co17 | Sm2Co17: Sm 0.105263 | experimental | [2] Yuan 2011; _cites Van 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990037-4) | Table 2, p. 3, row 38 |  |
-| 1595 | Liq.+Co17Sm2->Co5Sm | L: Sm 0.192; Co17Sm2: Sm 0.105263; Co5Sm: Sm 0.166667 | experimental | [1] Su 1998; _cites Ge 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840306) | Table 3, p. 4, row 25 |  |
-| 1595 | Liq + Sm2Co17 -> SmCo5 | Sm2Co17: Sm 0.105263; SmCo5: Sm 0.166667 | experimental | [2] Yuan 2011; _cites Ge 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840306) | Table 2, p. 3, row 31 |  |
-| 1593 | Liq + Sm2Co17 -> SmCo5 | Sm2Co17: Sm 0.105263; SmCo5: Sm 0.166667 | model | [2] Yuan 2011 | Table 2, p. 3, row 30 |  |
-| 1593 | Liq + Sm2Co17 -> SmCo5 | Sm2Co17: Sm 0.105263; SmCo5: Sm 0.166667 | experimental | [2] Yuan 2011; _cites Van 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990037-4) | Table 2, p. 3, row 32 |  |
-| 1593 | Liq.+Co17Sm2->Co5Sm | Co17Sm2: Sm 0.105263; Co5Sm: Sm 0.166667 | experimental | [1] Su 1998; _cites Buschow 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990037-4) | Table 3, p. 4, row 26 |  |
-| 1589 | Liq.+Co17Sm2->Co5Sm | L: Sm 0.17; Co17Sm2: Sm 0.105263; Co5Sm: Sm 0.166667 | model | [1] Su 1998 | Table 3, p. 4, row 24 |  |
-| 1543 | Liq.+Co5Sm->Co19Sm5 | L: Sm 0.258; Co5Sm: Sm 0.166667; Co19Sm5: Sm 0.208333 | experimental | [1] Su 1998; _cites Ge 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840306) | Table 3, p. 4, row 23 |  |
-| 1543 | Liq.+Co5Sm->Co19Sm5 | L: Sm 0.255; Co5Sm: Sm 0.166667; Co19Sm5: Sm 0.208333 | model | [1] Su 1998 | Table 3, p. 4, row 22 |  |
-| 1543 | Liq + SmCo5 -> Sm5Co19 | SmCo5: Sm 0.166667; Sm5Co19: Sm 0.208333 | experimental | [2] Yuan 2011; _cites Ge 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840306) | Table 2, p. 3, row 29 |  |
-| 1541 | Liq + SmCo5 -> Sm5Co19 | SmCo5: Sm 0.166667; Sm5Co19: Sm 0.208333 | model | [2] Yuan 2011 | Table 2, p. 3, row 28 |  |
-| 1517 | Liq + Sm5Co19 -> Sm2Co7 | Sm5Co19: Sm 0.208333; Sm2Co7: Sm 0.222222 | model | [2] Yuan 2011 | Table 2, p. 3, row 25 |  |
-| 1514 | Liq.+Co19Sm5->Co7Sm2 | L: Sm 0.297; Co19Sm5: Sm 0.208333; Co7Sm2: Sm 0.222222 | model | [1] Su 1998 | Table 3, p. 4, row 19 |  |
-| 1514 | Liq.+Co19Sm5->Co7Sm2 | L: Sm 0.285; Co19Sm5: Sm 0.208333; Co7Sm2: Sm 0.222222 | experimental | [1] Su 1998; _cites Ge 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840306) | Table 3, p. 4, row 20 |  |
-| 1514 | Liq + Sm5Co19 -> Sm2Co7 | Sm5Co19: Sm 0.208333; Sm2Co7: Sm 0.222222 | experimental | [2] Yuan 2011; _cites Ge 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840306) | Table 2, p. 3, row 26 |  |
-| 1513 | Liq + Sm5Co19 -> Sm2Co7 | Sm5Co19: Sm 0.208333; Sm2Co7: Sm 0.222222 | experimental | [2] Yuan 2011; _cites Van 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990037-4) | Table 2, p. 3, row 27 |  |
-| 1513 | Liq.+Co19Sm5->Co7Sm2 | Co19Sm5: Sm 0.208333; Co7Sm2: Sm 0.222222 | experimental | [1] Su 1998; _cites Buschow 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990037-4) | Table 3, p. 4, row 21 |  |
-| 1477 | Liq + Sm2Co7 -> SmCo3 | Sm2Co7: Sm 0.222222; SmCo3: Sm 0.25 | model | [2] Yuan 2011 | Table 2, p. 3, row 22 |  |
-| 1473 | Liq.+Co7Sm2->Co3Sm | Co7Sm2: Sm 0.222222; Co3Sm: Sm 0.25 | experimental | [1] Su 1998; _cites Buschow 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990037-4) | Table 3, p. 4, row 18 |  |
-| 1473 | Liq + Sm2Co7 -> SmCo3 | Sm2Co7: Sm 0.222222; SmCo3: Sm 0.25 | experimental | [2] Yuan 2011; _cites Ge 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840306) | Table 2, p. 3, row 23 |  |
-| 1473 | Liq + Sm2Co7 -> SmCo3 | Sm2Co7: Sm 0.222222; SmCo3: Sm 0.25 | experimental | [2] Yuan 2011; _cites Van 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990037-4) | Table 2, p. 3, row 24 |  |
-| 1473 | Liq.+Co7Sm2->Co3Sm | L: Sm 0.34; Co7Sm2: Sm 0.222222; Co3Sm: Sm 0.25 | experimental | [1] Su 1998; _cites Ge 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840306) | Table 3, p. 4, row 17 |  |
-| 1473 | Liq.+Co7Sm2->Co3Sm | L: Sm 0.343; Co7Sm2: Sm 0.222222; Co3Sm: Sm 0.25 | model | [1] Su 1998 | Table 3, p. 4, row 16 |  |
-| 1348 | Liq.+Co3Sm->Co2Sm | Co3Sm: Sm 0.25; Co2Sm: Sm 0.333333 | experimental | [1] Su 1998; _cites Buschow 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990037-4) | Table 3, p. 4, row 15 |  |
-| 1348 | Liq + SmCo3 -> SmCo2 | SmCo3: Sm 0.25; SmCo2: Sm 0.333333 | experimental | [2] Yuan 2011; _cites Van 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990037-4) | Table 2, p. 3, row 21 |  |
-| 1345 | Liq + SmCo3 -> SmCo2 | SmCo3: Sm 0.25; SmCo2: Sm 0.333333 | model | [2] Yuan 2011 | Table 2, p. 3, row 19 |  |
-| 1344 | Liq.+Co3Sm->Co2Sm | L: Sm 0.447; Co3Sm: Sm 0.25; Co2Sm: Sm 0.333333 | model | [1] Su 1998 | Table 3, p. 4, row 13 |  |
-| 1343 | Liq.+Co3Sm->Co2Sm | L: Sm 0.412; Co3Sm: Sm 0.25; Co2Sm: Sm 0.333333 | experimental | [1] Su 1998; _cites Ge 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840306) | Table 3, p. 4, row 14 |  |
-| 1343 | Liq + SmCo3 -> SmCo2 | SmCo3: Sm 0.25; SmCo2: Sm 0.333333 | experimental | [2] Yuan 2011; _cites Ge 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840306) | Table 2, p. 3, row 20 |  |
-| 1087 | SmCo5 -> Sm5Co19 + Sm2Co17 | SmCo5: Sm 0.166667; Sm5Co19: Sm 0.208333; Sm2Co17: Sm 0.105263 | model | [2] Yuan 2011 | Table 2, p. 3, row 39 |  |
-| 1085 | Co5Sm->Co19Sm5+Co17Sm2 | Co5Sm: Sm 0.166667; Co19Sm5: Sm 0.208333; Co17Sm2: Sm 0.105263 | model | [1] Su 1998 | Table 3, p. 4, row 30 |  |
-| 1083 | SmCo5 -> Sm5Co19 + Sm2Co17 | SmCo5: Sm 0.166667; Sm5Co19: Sm 0.208333; Sm2Co17: Sm 0.105263 | experimental | [2] Yuan 2011; _cites Ge 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840306) | Table 2, p. 3, row 40 |  |
-| 1083 | Co5Sm->Co19Sm5+Co17Sm2 | Co5Sm: Sm 0.166667; Co19Sm5: Sm 0.208333; Co17Sm2: Sm 0.105263 | experimental | [1] Su 1998; _cites Ge 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840306) | Table 3, p. 4, row 31 |  |
-| 1023 | eutectoid: SmCo5 -> Sm2 Co7 + Sm2 Co17 |  | model | [2] Yuan 2011; _cites Van 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990037-4) | p. 1 | “SmCo5 undergoes eutectoidal decomposition into Sm2 Co7 and Sm2 Co17 at about 1023 K.” |
-| 958 | Liq -> γ(Sm) + Sm3Co | Sm3Co: Sm 0.75 | experimental | [2] Yuan 2011; _cites Yuan 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.08.035) | Table 2, p. 3, row 2 |  |
-| 954 | Liq -> γ(Sm) + Sm3Co | Sm3Co: Sm 0.75 | model | [2] Yuan 2011 | Table 2, p. 3, row 1 |  |
-| 948 | γ(Sm) -> β(Sm) + Sm3Co | Sm3Co: Sm 0.75 | experimental | [2] Yuan 2011; _cites Yuan 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.08.035) | Table 2, p. 3, row 4 |  |
-| 946 | γ(Sm) -> β(Sm) + Sm3Co | Sm3Co: Sm 0.75 | model | [2] Yuan 2011 | Table 2, p. 3, row 3 |  |
-| 943 | Liq.->α-Sm(r hom)+CoSm3 | L: Sm 0.83; α-Sm(r hom): Sm 1; CoSm3: Sm 0.75 | experimental | [1] Su 1998; _cites Ge 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840306) | Table 3, p. 4, row 2 |  |
-| 938.8 | Liq.->α-Sm(r hom)+CoSm3 | L: Sm 0.817; α-Sm(r hom): Sm 1; CoSm3: Sm 0.75 | model | [1] Su 1998 | Table 3, p. 4, row 1 |  |
-| 886 | Liq + Sm3Co -> Sm5Co2 | Sm3Co: Sm 0.75; Sm5Co2: Sm 0.714286 | experimental | [2] Yuan 2011; _cites Yuan 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.08.035) | Table 2, p. 3, row 12 |  |
-| 886 | Liq + Sm3Co -> Sm5Co2 | Sm3Co: Sm 0.75; Sm5Co2: Sm 0.714286 | experimental | [2] Yuan 2011; _cites Ge 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840306) | Table 2, p. 3, row 13 |  |
-| 886 | Liq.+CoSm3->Co4Sm9 | L: Sm 0.644; CoSm3: Sm 0.75; Co4Sm9: Sm 0.692308 | experimental | [1] Su 1998; _cites Ge 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840306) | Table 3, p. 4, row 8 |  |
-| 884.4 | Liq.+CoSm3->Co4Sm9 | L: Sm 0.645; CoSm3: Sm 0.75; Co4Sm9: Sm 0.692308 | model | [1] Su 1998 | Table 3, p. 4, row 7 |  |
-| 883 | Liq + Sm3Co -> Sm5Co2 | Sm3Co: Sm 0.75; Sm5Co2: Sm 0.714286 | model | [2] Yuan 2011 | Table 2, p. 3, row 11 |  |
-| 883 | β(Sm) -> α(Sm) + Sm3Co | Sm3Co: Sm 0.75 | experimental | [2] Yuan 2011; _cites Yuan 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.08.035) | Table 2, p. 3, row 6 |  |
-| 879 | β(Sm) -> α(Sm) + Sm3Co | Sm3Co: Sm 0.75 | model | [2] Yuan 2011 | Table 2, p. 3, row 5 |  |
-| 878 | Liq.+CoSm3->Co4Sm9 | CoSm3: Sm 0.75; Co4Sm9: Sm 0.692308 | experimental | [1] Su 1998; _cites Buschow 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990037-4) | Table 3, p. 4, row 9 |  |
-| 878 | Liq + Sm3Co -> Sm5Co2 | Sm3Co: Sm 0.75; Sm5Co2: Sm 0.714286 | experimental | [2] Yuan 2011; _cites Van 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990037-4) | Table 2, p. 3, row 14 |  |
-| 872 | Liq -> Sm5Co2 + SmCo2 | Sm5Co2: Sm 0.714286; SmCo2: Sm 0.333333 | model | [2] Yuan 2011 | Table 2, p. 3, row 15 |  |
-| 868 | Liq.->α-Sm(r hom)+CoSm3 | α-Sm(r hom): Sm 1; CoSm3: Sm 0.75 | experimental | [1] Su 1998; _cites Buschow 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990037-4) | Table 3, p. 4, row 3 |  |
-| 865.4 | Liq.->Co4Sm9+Co2Sm | L: Sm 0.63; Co4Sm9: Sm 0.692308; Co2Sm: Sm 0.333333 | model | [1] Su 1998 | Table 3, p. 4, row 10 |  |
-| 863 | Liq.->Co4Sm9+Co2Sm | L: Sm 0.63; Co4Sm9: Sm 0.692308; Co2Sm: Sm 0.333333 | experimental | [1] Su 1998; _cites Ge 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840306) | Table 3, p. 4, row 11 |  |
-| 863 | Liq -> Sm5Co2 + SmCo2 | Sm5Co2: Sm 0.714286; SmCo2: Sm 0.333333 | experimental | [2] Yuan 2011; _cites Ge 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840306) | Table 2, p. 3, row 17 |  |
-| 856 | Liq -> Sm5Co2 + SmCo2 | Sm5Co2: Sm 0.714286; SmCo2: Sm 0.333333 | experimental | [2] Yuan 2011; _cites Yuan 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.08.035) | Table 2, p. 3, row 16 |  |
-| 848 | Liq.->Co4Sm9+Co2Sm | Co4Sm9: Sm 0.692308; Co2Sm: Sm 0.333333 | experimental | [1] Su 1998; _cites Buschow 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990037-4) | Table 3, p. 4, row 12 |  |
-| 848 | Liq -> Sm5Co2 + SmCo2 | Sm5Co2: Sm 0.714286; SmCo2: Sm 0.333333 | experimental | [2] Yuan 2011; _cites Van 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990037-4) | Table 2, p. 3, row 18 |  |
+| 1612 | Liq.->α-Co(fcc)+Co17Sm2 | L: Sm 0.079; Co17Sm2: Sm 0.105263 | model | [1] Su 1998 | Table 3, p. 4, row 32; `ORC-J3GK64YP7M` |  |
+| 1600 | Liq.->α-Co(fcc)+Co17Sm2 | L: Sm 0.092; Co17Sm2: Sm 0.105263 | experimental | [1] Su 1998; _cites Ge 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840306) | Table 3, p. 4, row 33; `ORC-5ZVSQLEWIP` |  |
+| 1600 | Liq -> α(Co) + Sm2Co17 | Sm2Co17: Sm 0.105263 | model | [2] Yuan 2011 | Table 2, p. 3, row 36; `ORC-DUCD54PC5N` |  |
+| 1600 | Liq -> α(Co) + Sm2Co17 | Sm2Co17: Sm 0.105263 | experimental | [2] Yuan 2011; _cites Ge 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840306) | Table 2, p. 3, row 37; `ORC-LKMELK7LZK` |  |
+| 1598 | Liq.->α-Co(fcc)+Co17Sm2 | Co17Sm2: Sm 0.105263 | experimental | [1] Su 1998; _cites Buschow 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990037-4) | Table 3, p. 4, row 34; `ORC-MZ7TEMZHWT` |  |
+| 1598 | Liq -> α(Co) + Sm2Co17 | Sm2Co17: Sm 0.105263 | experimental | [2] Yuan 2011; _cites Van 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990037-4) | Table 2, p. 3, row 38; `ORC-X2YA4XD4ZE` |  |
+| 1595 | Liq.+Co17Sm2->Co5Sm | L: Sm 0.192; Co17Sm2: Sm 0.105263; Co5Sm: Sm 0.166667 | experimental | [1] Su 1998; _cites Ge 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840306) | Table 3, p. 4, row 25; `ORC-A4F3NFKHZI` |  |
+| 1595 | Liq + Sm2Co17 -> SmCo5 | Sm2Co17: Sm 0.105263; SmCo5: Sm 0.166667 | experimental | [2] Yuan 2011; _cites Ge 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840306) | Table 2, p. 3, row 31; `ORC-VQUWVV3WDM` |  |
+| 1593 | Liq + Sm2Co17 -> SmCo5 | Sm2Co17: Sm 0.105263; SmCo5: Sm 0.166667 | model | [2] Yuan 2011 | Table 2, p. 3, row 30; `ORC-3QZYKNSLNE` |  |
+| 1593 | Liq + Sm2Co17 -> SmCo5 | Sm2Co17: Sm 0.105263; SmCo5: Sm 0.166667 | experimental | [2] Yuan 2011; _cites Van 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990037-4) | Table 2, p. 3, row 32; `ORC-NTIRGRWO7O` |  |
+| 1593 | Liq.+Co17Sm2->Co5Sm | Co17Sm2: Sm 0.105263; Co5Sm: Sm 0.166667 | experimental | [1] Su 1998; _cites Buschow 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990037-4) | Table 3, p. 4, row 26; `ORC-W5JW5TDOID` |  |
+| 1589 | Liq.+Co17Sm2->Co5Sm | L: Sm 0.17; Co17Sm2: Sm 0.105263; Co5Sm: Sm 0.166667 | model | [1] Su 1998 | Table 3, p. 4, row 24; `ORC-QIJIMUS7Q4` |  |
+| 1543 | Liq.+Co5Sm->Co19Sm5 | L: Sm 0.258; Co5Sm: Sm 0.166667; Co19Sm5: Sm 0.208333 | experimental | [1] Su 1998; _cites Ge 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840306) | Table 3, p. 4, row 23; `ORC-7LTBDQO2Y4` |  |
+| 1543 | Liq.+Co5Sm->Co19Sm5 | L: Sm 0.255; Co5Sm: Sm 0.166667; Co19Sm5: Sm 0.208333 | model | [1] Su 1998 | Table 3, p. 4, row 22; `ORC-SSYGWYCUYE` |  |
+| 1543 | Liq + SmCo5 -> Sm5Co19 | SmCo5: Sm 0.166667; Sm5Co19: Sm 0.208333 | experimental | [2] Yuan 2011; _cites Ge 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840306) | Table 2, p. 3, row 29; `ORC-YWY3O2ZPW2` |  |
+| 1541 | Liq + SmCo5 -> Sm5Co19 | SmCo5: Sm 0.166667; Sm5Co19: Sm 0.208333 | model | [2] Yuan 2011 | Table 2, p. 3, row 28; `ORC-RDWOYEP3EH` |  |
+| 1517 | Liq + Sm5Co19 -> Sm2Co7 | Sm5Co19: Sm 0.208333; Sm2Co7: Sm 0.222222 | model | [2] Yuan 2011 | Table 2, p. 3, row 25; `ORC-DODJNLCMOB` |  |
+| 1514 | Liq.+Co19Sm5->Co7Sm2 | L: Sm 0.297; Co19Sm5: Sm 0.208333; Co7Sm2: Sm 0.222222 | model | [1] Su 1998 | Table 3, p. 4, row 19; `ORC-2LTTG53MA3` |  |
+| 1514 | Liq.+Co19Sm5->Co7Sm2 | L: Sm 0.285; Co19Sm5: Sm 0.208333; Co7Sm2: Sm 0.222222 | experimental | [1] Su 1998; _cites Ge 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840306) | Table 3, p. 4, row 20; `ORC-EOIVI7ZE5D` |  |
+| 1514 | Liq + Sm5Co19 -> Sm2Co7 | Sm5Co19: Sm 0.208333; Sm2Co7: Sm 0.222222 | experimental | [2] Yuan 2011; _cites Ge 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840306) | Table 2, p. 3, row 26; `ORC-O5TAPMJNA4` |  |
+| 1513 | Liq + Sm5Co19 -> Sm2Co7 | Sm5Co19: Sm 0.208333; Sm2Co7: Sm 0.222222 | experimental | [2] Yuan 2011; _cites Van 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990037-4) | Table 2, p. 3, row 27; `ORC-5ZWWQGTBO4` |  |
+| 1513 | Liq.+Co19Sm5->Co7Sm2 | Co19Sm5: Sm 0.208333; Co7Sm2: Sm 0.222222 | experimental | [1] Su 1998; _cites Buschow 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990037-4) | Table 3, p. 4, row 21; `ORC-Y5S7FDTHRF` |  |
+| 1477 | Liq + Sm2Co7 -> SmCo3 | Sm2Co7: Sm 0.222222; SmCo3: Sm 0.25 | model | [2] Yuan 2011 | Table 2, p. 3, row 22; `ORC-C6LA2QV4OH` |  |
+| 1473 | Liq.+Co7Sm2->Co3Sm | Co7Sm2: Sm 0.222222; Co3Sm: Sm 0.25 | experimental | [1] Su 1998; _cites Buschow 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990037-4) | Table 3, p. 4, row 18; `ORC-AJD4CF3AM7` |  |
+| 1473 | Liq + Sm2Co7 -> SmCo3 | Sm2Co7: Sm 0.222222; SmCo3: Sm 0.25 | experimental | [2] Yuan 2011; _cites Ge 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840306) | Table 2, p. 3, row 23; `ORC-CIJZSWAN6Z` |  |
+| 1473 | Liq + Sm2Co7 -> SmCo3 | Sm2Co7: Sm 0.222222; SmCo3: Sm 0.25 | experimental | [2] Yuan 2011; _cites Van 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990037-4) | Table 2, p. 3, row 24; `ORC-GBPMHEV3PI` |  |
+| 1473 | Liq.+Co7Sm2->Co3Sm | L: Sm 0.34; Co7Sm2: Sm 0.222222; Co3Sm: Sm 0.25 | experimental | [1] Su 1998; _cites Ge 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840306) | Table 3, p. 4, row 17; `ORC-IPSNQ57ZLW` |  |
+| 1473 | Liq.+Co7Sm2->Co3Sm | L: Sm 0.343; Co7Sm2: Sm 0.222222; Co3Sm: Sm 0.25 | model | [1] Su 1998 | Table 3, p. 4, row 16; `ORC-LHHTAWPQ5A` |  |
+| 1348 | Liq.+Co3Sm->Co2Sm | Co3Sm: Sm 0.25; Co2Sm: Sm 0.333333 | experimental | [1] Su 1998; _cites Buschow 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990037-4) | Table 3, p. 4, row 15; `ORC-DG4VXA5DTV` |  |
+| 1348 | Liq + SmCo3 -> SmCo2 | SmCo3: Sm 0.25; SmCo2: Sm 0.333333 | experimental | [2] Yuan 2011; _cites Van 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990037-4) | Table 2, p. 3, row 21; `ORC-MQNGBPUKMR` |  |
+| 1345 | Liq + SmCo3 -> SmCo2 | SmCo3: Sm 0.25; SmCo2: Sm 0.333333 | model | [2] Yuan 2011 | Table 2, p. 3, row 19; `ORC-FALSOCSCSZ` |  |
+| 1344 | Liq.+Co3Sm->Co2Sm | L: Sm 0.447; Co3Sm: Sm 0.25; Co2Sm: Sm 0.333333 | model | [1] Su 1998 | Table 3, p. 4, row 13; `ORC-Z5VYXUX7MH` |  |
+| 1343 | Liq.+Co3Sm->Co2Sm | L: Sm 0.412; Co3Sm: Sm 0.25; Co2Sm: Sm 0.333333 | experimental | [1] Su 1998; _cites Ge 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840306) | Table 3, p. 4, row 14; `ORC-5KNNWYIAAH` |  |
+| 1343 | Liq + SmCo3 -> SmCo2 | SmCo3: Sm 0.25; SmCo2: Sm 0.333333 | experimental | [2] Yuan 2011; _cites Ge 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840306) | Table 2, p. 3, row 20; `ORC-RTCFF4MP77` |  |
+| 1087 | SmCo5 -> Sm5Co19 + Sm2Co17 | SmCo5: Sm 0.166667; Sm5Co19: Sm 0.208333; Sm2Co17: Sm 0.105263 | model | [2] Yuan 2011 | Table 2, p. 3, row 39; `ORC-OUKZYI24PY` |  |
+| 1085 | Co5Sm->Co19Sm5+Co17Sm2 | Co5Sm: Sm 0.166667; Co19Sm5: Sm 0.208333; Co17Sm2: Sm 0.105263 | model | [1] Su 1998 | Table 3, p. 4, row 30; `ORC-DP4QIHF4GN` |  |
+| 1083 | SmCo5 -> Sm5Co19 + Sm2Co17 | SmCo5: Sm 0.166667; Sm5Co19: Sm 0.208333; Sm2Co17: Sm 0.105263 | experimental | [2] Yuan 2011; _cites Ge 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840306) | Table 2, p. 3, row 40; `ORC-S52TJA6SZO` |  |
+| 1083 | Co5Sm->Co19Sm5+Co17Sm2 | Co5Sm: Sm 0.166667; Co19Sm5: Sm 0.208333; Co17Sm2: Sm 0.105263 | experimental | [1] Su 1998; _cites Ge 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840306) | Table 3, p. 4, row 31; `ORC-SRNQVIDO2L` |  |
+| 1023 | eutectoid: SmCo5 -> Sm2 Co7 + Sm2 Co17 |  | model | [2] Yuan 2011; _cites Van 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990037-4) | p. 1; `ORC-KK55OVEQ55` | “SmCo5 undergoes eutectoidal decomposition into Sm2 Co7 and Sm2 Co17 at about 1023 K.” |
+| 958 | Liq -> γ(Sm) + Sm3Co | Sm3Co: Sm 0.75 | experimental | [2] Yuan 2011; _cites Yuan 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.08.035) | Table 2, p. 3, row 2; `ORC-OIO3RQGNEU` |  |
+| 954 | Liq -> γ(Sm) + Sm3Co | Sm3Co: Sm 0.75 | model | [2] Yuan 2011 | Table 2, p. 3, row 1; `ORC-NEJ6YFL4YV` |  |
+| 948 | γ(Sm) -> β(Sm) + Sm3Co | Sm3Co: Sm 0.75 | experimental | [2] Yuan 2011; _cites Yuan 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.08.035) | Table 2, p. 3, row 4; `ORC-LUOGVVUJAC` |  |
+| 946 | γ(Sm) -> β(Sm) + Sm3Co | Sm3Co: Sm 0.75 | model | [2] Yuan 2011 | Table 2, p. 3, row 3; `ORC-MKLKZST3NS` |  |
+| 943 | Liq.->α-Sm(r hom)+CoSm3 | L: Sm 0.83; α-Sm(r hom): Sm 1; CoSm3: Sm 0.75 | experimental | [1] Su 1998; _cites Ge 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840306) | Table 3, p. 4, row 2; `ORC-JISCPG6W7J` |  |
+| 938.8 | Liq.->α-Sm(r hom)+CoSm3 | L: Sm 0.817; α-Sm(r hom): Sm 1; CoSm3: Sm 0.75 | model | [1] Su 1998 | Table 3, p. 4, row 1; `ORC-2QVWM5RCLP` |  |
+| 886 | Liq + Sm3Co -> Sm5Co2 | Sm3Co: Sm 0.75; Sm5Co2: Sm 0.714286 | experimental | [2] Yuan 2011; _cites Yuan 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.08.035) | Table 2, p. 3, row 12; `ORC-E6YE5QZV3B` |  |
+| 886 | Liq + Sm3Co -> Sm5Co2 | Sm3Co: Sm 0.75; Sm5Co2: Sm 0.714286 | experimental | [2] Yuan 2011; _cites Ge 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840306) | Table 2, p. 3, row 13; `ORC-MOYD2VXDYF` |  |
+| 886 | Liq.+CoSm3->Co4Sm9 | L: Sm 0.644; CoSm3: Sm 0.75; Co4Sm9: Sm 0.692308 | experimental | [1] Su 1998; _cites Ge 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840306) | Table 3, p. 4, row 8; `ORC-UPVZAREZTT` |  |
+| 884.4 | Liq.+CoSm3->Co4Sm9 | L: Sm 0.645; CoSm3: Sm 0.75; Co4Sm9: Sm 0.692308 | model | [1] Su 1998 | Table 3, p. 4, row 7; `ORC-JKGM6A3SXB` |  |
+| 883 | Liq + Sm3Co -> Sm5Co2 | Sm3Co: Sm 0.75; Sm5Co2: Sm 0.714286 | model | [2] Yuan 2011 | Table 2, p. 3, row 11; `ORC-ERNAZ3CLQH` |  |
+| 883 | β(Sm) -> α(Sm) + Sm3Co | Sm3Co: Sm 0.75 | experimental | [2] Yuan 2011; _cites Yuan 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.08.035) | Table 2, p. 3, row 6; `ORC-X3QOTV2GPH` |  |
+| 879 | β(Sm) -> α(Sm) + Sm3Co | Sm3Co: Sm 0.75 | model | [2] Yuan 2011 | Table 2, p. 3, row 5; `ORC-YRMJL63YB3` |  |
+| 878 | Liq.+CoSm3->Co4Sm9 | CoSm3: Sm 0.75; Co4Sm9: Sm 0.692308 | experimental | [1] Su 1998; _cites Buschow 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990037-4) | Table 3, p. 4, row 9; `ORC-HQKHI23C3H` |  |
+| 878 | Liq + Sm3Co -> Sm5Co2 | Sm3Co: Sm 0.75; Sm5Co2: Sm 0.714286 | experimental | [2] Yuan 2011; _cites Van 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990037-4) | Table 2, p. 3, row 14; `ORC-RDDYLEOQSY` |  |
+| 872 | Liq -> Sm5Co2 + SmCo2 | Sm5Co2: Sm 0.714286; SmCo2: Sm 0.333333 | model | [2] Yuan 2011 | Table 2, p. 3, row 15; `ORC-HVJDQUFBFN` |  |
+| 868 | Liq.->α-Sm(r hom)+CoSm3 | α-Sm(r hom): Sm 1; CoSm3: Sm 0.75 | experimental | [1] Su 1998; _cites Buschow 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990037-4) | Table 3, p. 4, row 3; `ORC-I2TGEIBJLD` |  |
+| 865.4 | Liq.->Co4Sm9+Co2Sm | L: Sm 0.63; Co4Sm9: Sm 0.692308; Co2Sm: Sm 0.333333 | model | [1] Su 1998 | Table 3, p. 4, row 10; `ORC-IRMF3X4A3A` |  |
+| 863 | Liq.->Co4Sm9+Co2Sm | L: Sm 0.63; Co4Sm9: Sm 0.692308; Co2Sm: Sm 0.333333 | experimental | [1] Su 1998; _cites Ge 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840306) | Table 3, p. 4, row 11; `ORC-2LK6YY2A6C` |  |
+| 863 | Liq -> Sm5Co2 + SmCo2 | Sm5Co2: Sm 0.714286; SmCo2: Sm 0.333333 | experimental | [2] Yuan 2011; _cites Ge 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840306) | Table 2, p. 3, row 17; `ORC-QWLD7INTKO` |  |
+| 856 | Liq -> Sm5Co2 + SmCo2 | Sm5Co2: Sm 0.714286; SmCo2: Sm 0.333333 | experimental | [2] Yuan 2011; _cites Yuan 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.08.035) | Table 2, p. 3, row 16; `ORC-IAFIQDUB53` |  |
+| 848 | Liq.->Co4Sm9+Co2Sm | Co4Sm9: Sm 0.692308; Co2Sm: Sm 0.333333 | experimental | [1] Su 1998; _cites Buschow 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990037-4) | Table 3, p. 4, row 12; `ORC-OZMZWBGZD6` |  |
+| 848 | Liq -> Sm5Co2 + SmCo2 | Sm5Co2: Sm 0.714286; SmCo2: Sm 0.333333 | experimental | [2] Yuan 2011; _cites Van 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990037-4) | Table 2, p. 3, row 18; `ORC-U52UBSELLD` |  |
 
 ## Other properties
 
@@ -173,26 +173,26 @@ Table: Phase transition, Co–Sm system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 226.7 K | 226.7 | magnetic: Co2Sm; _alloy: Sm 0.333333_ | experimental | [1] Su 1998; _cites Buschow 1977_ [doi](https://doi.org/10.1088/0034-4885/40/10/002) | Table 2, p. 3, row 1 |  |
-| Phase transition | 590 K | 590 | magnetic: Co3Sm; _alloy: Sm 0.25_ | experimental | [1] Su 1998 | Table 2, p. 3, row 2 |  |
-| Phase transition | 713 K | 713 | magnetic: Co7Sm2; _alloy: Sm 0.222222_ | experimental | [1] Su 1998; _cites Buschow 1977_ [doi](https://doi.org/10.1088/0034-4885/40/10/002) | Table 2, p. 3, row 3 |  |
-| Phase transition | 830 K | 830 | magnetic: Co19Sm5; _alloy: Sm 0.208333_ | experimental | [1] Su 1998 | Table 2, p. 3, row 4 |  |
-| Phase transition | 968 K | 968 | Liq -> Sm3Co; _L: Sm 0.75; Sm3Co: Sm 0.75_ | experimental | [2] Yuan 2011; _cites Yuan 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.08.035) | Table 2, p. 3, row 8 |  |
-| Phase transition | 968 K | 968 | Liq -> Sm3Co; _L: Sm 0.75; Sm3Co: Sm 0.75_ | experimental | [2] Yuan 2011; _cites Van 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990037-4) | Table 2, p. 3, row 10 |  |
-| Phase transition | 968 K | 968 | Liq.->CoSm3; _L: Sm 0.75; CoSm3: Sm 0.75_ | experimental | [1] Su 1998; _cites Buschow 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990037-4) | Table 3, p. 4, row 6 |  |
-| Phase transition | 970 K | 970 | Liq -> Sm3Co; _L: Sm 0.75; Sm3Co: Sm 0.75_ | model | [2] Yuan 2011 | Table 2, p. 3, row 7 |  |
-| Phase transition | 973 K | 973 | Liq -> Sm3Co; _L: Sm 0.75; Sm3Co: Sm 0.75_ | experimental | [2] Yuan 2011; _cites Ge 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840306) | Table 2, p. 3, row 9 |  |
-| Phase transition | 973 K | 973 | Liq.->CoSm3; _L: Sm 0.75; CoSm3: Sm 0.75_ | experimental | [1] Su 1998; _cites Ge 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840306) | Table 3, p. 4, row 5 |  |
-| Phase transition | 977.5 K | 977.5 | Liq.->CoSm3; _L: Sm 0.75; CoSm3: Sm 0.75_ | model | [1] Su 1998 | Table 3, p. 4, row 4 |  |
-| Phase transition | 1020 K | 1020 | magnetic: Co5Sm; _alloy: Sm 0.166667_ | experimental | [1] Su 1998; _cites Buschow 1977_ [doi](https://doi.org/10.1088/0034-4885/40/10/002) | Table 2, p. 3, row 5 |  |
-| Phase transition | 1083 K | 1083 | SmCo5 | model | [2] Yuan 2011; _cites Ge 1993_ | p. 1 | “Ge et al. \[12\] reported the decomposition of SmCo5 taking place at 1083 K and found a small solubility of Sm in fcc-Co.” |
-| Phase transition | 1195 K | 1195 | magnetic: Co17Sm2; _alloy: Sm 0.105263_ | experimental | [1] Su 1998; _cites Buschow 1977_ [doi](https://doi.org/10.1088/0034-4885/40/10/002) | Table 2, p. 3, row 6 |  |
-| Phase transition | 1608 K | 1608 | Liq -> Sm2Co17; _L: Sm 0.105263; Sm2Co17: Sm 0.105263_ | experimental | [2] Yuan 2011; _cites Van 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990037-4) | Table 2, p. 3, row 35 |  |
-| Phase transition | 1608 K | 1608 | Liq.->Co17Sm2; _L: Sm 0.105263; Co17Sm2: Sm 0.105263_ | experimental | [1] Su 1998; _cites Buschow 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990037-4) | Table 3, p. 4, row 29 |  |
-| Phase transition | 1614 K | 1614 | Liq -> Sm2Co17; _L: Sm 0.105263; Sm2Co17: Sm 0.105263_ | model | [2] Yuan 2011 | Table 2, p. 3, row 33 |  |
-| Phase transition | 1619 K | 1619 | Liq.->Co17Sm2; _L: Sm 0.105263; Co17Sm2: Sm 0.105263_ | model | [1] Su 1998 | Table 3, p. 4, row 27 |  |
-| Phase transition | 1620 K | 1620 | Liq -> Sm2Co17; _L: Sm 0.105263; Sm2Co17: Sm 0.105263_ | experimental | [2] Yuan 2011; _cites Ge 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840306) | Table 2, p. 3, row 34 |  |
-| Phase transition | 1620 K | 1620 | Liq.->Co17Sm2; _L: Sm 0.105263; Co17Sm2: Sm 0.105263_ | experimental | [1] Su 1998; _cites Ge 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840306) | Table 3, p. 4, row 28 |  |
+| Phase transition | 226.7 K | 226.7 | magnetic: Co2Sm; _alloy: Sm 0.333333_ | experimental | [1] Su 1998; _cites Buschow 1977_ [doi](https://doi.org/10.1088/0034-4885/40/10/002) | Table 2, p. 3, row 1; `ORC-AUEQEBL2HS` |  |
+| Phase transition | 590 K | 590 | magnetic: Co3Sm; _alloy: Sm 0.25_ | experimental | [1] Su 1998 | Table 2, p. 3, row 2; `ORC-BINDVS42WC` |  |
+| Phase transition | 713 K | 713 | magnetic: Co7Sm2; _alloy: Sm 0.222222_ | experimental | [1] Su 1998; _cites Buschow 1977_ [doi](https://doi.org/10.1088/0034-4885/40/10/002) | Table 2, p. 3, row 3; `ORC-F3PAKDDXEI` |  |
+| Phase transition | 830 K | 830 | magnetic: Co19Sm5; _alloy: Sm 0.208333_ | experimental | [1] Su 1998 | Table 2, p. 3, row 4; `ORC-HIQCW5KVXA` |  |
+| Phase transition | 968 K | 968 | Liq -> Sm3Co; _L: Sm 0.75; Sm3Co: Sm 0.75_ | experimental | [2] Yuan 2011; _cites Yuan 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.08.035) | Table 2, p. 3, row 8; `ORC-2YDLKA3WB3` |  |
+| Phase transition | 968 K | 968 | Liq -> Sm3Co; _L: Sm 0.75; Sm3Co: Sm 0.75_ | experimental | [2] Yuan 2011; _cites Van 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990037-4) | Table 2, p. 3, row 10; `ORC-CIKNDHXPYU` |  |
+| Phase transition | 968 K | 968 | Liq.->CoSm3; _L: Sm 0.75; CoSm3: Sm 0.75_ | experimental | [1] Su 1998; _cites Buschow 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990037-4) | Table 3, p. 4, row 6; `ORC-7TFRF635BU` |  |
+| Phase transition | 970 K | 970 | Liq -> Sm3Co; _L: Sm 0.75; Sm3Co: Sm 0.75_ | model | [2] Yuan 2011 | Table 2, p. 3, row 7; `ORC-XTCP7XHMDO` |  |
+| Phase transition | 973 K | 973 | Liq -> Sm3Co; _L: Sm 0.75; Sm3Co: Sm 0.75_ | experimental | [2] Yuan 2011; _cites Ge 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840306) | Table 2, p. 3, row 9; `ORC-O7IIZI2XU3` |  |
+| Phase transition | 973 K | 973 | Liq.->CoSm3; _L: Sm 0.75; CoSm3: Sm 0.75_ | experimental | [1] Su 1998; _cites Ge 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840306) | Table 3, p. 4, row 5; `ORC-CQXB2JD66H` |  |
+| Phase transition | 977.5 K | 977.5 | Liq.->CoSm3; _L: Sm 0.75; CoSm3: Sm 0.75_ | model | [1] Su 1998 | Table 3, p. 4, row 4; `ORC-ZRDTHX3ZAQ` |  |
+| Phase transition | 1020 K | 1020 | magnetic: Co5Sm; _alloy: Sm 0.166667_ | experimental | [1] Su 1998; _cites Buschow 1977_ [doi](https://doi.org/10.1088/0034-4885/40/10/002) | Table 2, p. 3, row 5; `ORC-Y77I5XXN25` |  |
+| Phase transition | 1083 K | 1083 | SmCo5 | model | [2] Yuan 2011; _cites Ge 1993_ | p. 1; `ORC-VT6H2FUE7K` | “Ge et al. \[12\] reported the decomposition of SmCo5 taking place at 1083 K and found a small solubility of Sm in fcc-Co.” |
+| Phase transition | 1195 K | 1195 | magnetic: Co17Sm2; _alloy: Sm 0.105263_ | experimental | [1] Su 1998; _cites Buschow 1977_ [doi](https://doi.org/10.1088/0034-4885/40/10/002) | Table 2, p. 3, row 6; `ORC-DE6AQSKAUZ` |  |
+| Phase transition | 1608 K | 1608 | Liq -> Sm2Co17; _L: Sm 0.105263; Sm2Co17: Sm 0.105263_ | experimental | [2] Yuan 2011; _cites Van 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990037-4) | Table 2, p. 3, row 35; `ORC-GDNLJSB7DN` |  |
+| Phase transition | 1608 K | 1608 | Liq.->Co17Sm2; _L: Sm 0.105263; Co17Sm2: Sm 0.105263_ | experimental | [1] Su 1998; _cites Buschow 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990037-4) | Table 3, p. 4, row 29; `ORC-DHQFWA5CR4` |  |
+| Phase transition | 1614 K | 1614 | Liq -> Sm2Co17; _L: Sm 0.105263; Sm2Co17: Sm 0.105263_ | model | [2] Yuan 2011 | Table 2, p. 3, row 33; `ORC-2HUZOTGRIU` |  |
+| Phase transition | 1619 K | 1619 | Liq.->Co17Sm2; _L: Sm 0.105263; Co17Sm2: Sm 0.105263_ | model | [1] Su 1998 | Table 3, p. 4, row 27; `ORC-GHVGN5WOSR` |  |
+| Phase transition | 1620 K | 1620 | Liq -> Sm2Co17; _L: Sm 0.105263; Sm2Co17: Sm 0.105263_ | experimental | [2] Yuan 2011; _cites Ge 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840306) | Table 2, p. 3, row 34; `ORC-J5THFHFJKU` |  |
+| Phase transition | 1620 K | 1620 | Liq.->Co17Sm2; _L: Sm 0.105263; Co17Sm2: Sm 0.105263_ | experimental | [1] Su 1998; _cites Ge 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840306) | Table 3, p. 4, row 28; `ORC-SPD3LDVXS2` |  |
 
 ### Mixing / partial (1)
 
@@ -200,7 +200,7 @@ Table: Mixing / partial, Co–Sm system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Partial enthalpy; _printed: limiting partial enthalpy of mixing_ | -55.5 kJ/mol (basis unstated) | 1400 | liquid | model | [2] Yuan 2011 | p. 3 | “The calculated limiting partial enthalpy of mixing of Co in the Co-Sm liquid at 1400 K is -55.5 kJ/mol, which agrees well with the value of -50.5 ± 3.9 kJ/mol reported by Usenko and Ivanov \[20\].” |
+| Partial enthalpy; _printed: limiting partial enthalpy of mixing_ | -55.5 kJ/mol (basis unstated) | 1400 | liquid | model | [2] Yuan 2011 | p. 3; `ORC-3GOJ54X5BJ.9e4f8e` | “The calculated limiting partial enthalpy of mixing of Co in the Co-Sm liquid at 1400 K is -55.5 kJ/mol, which agrees well with the value of -50.5 ± 3.9 kJ/mol reported by Usenko and Ivanov \[20\].” |
 
 ## Sources
 
@@ -266,4 +266,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

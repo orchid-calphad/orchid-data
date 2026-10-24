@@ -32,9 +32,9 @@ Table: Invariant reactions reported in the literature for the Ce system (3)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1068 | Liquid 1 -> bcc(Ce) + bcc(Ca) | Liquid 1: Ce 0.997 | experimental | [1] Zhang 2008; _cites Gschneider 1961_ | Table 5, p. 4, row 1 |  |
-| 999.15 | δCe \<-> V + γCe |  | unspecified | [2] Chan 2010; _cites Massalski 1990_ | Table 2, p. 4, row 8 |  |
-| 978.15 | δCe \<-> V + γCe |  | unspecified | [2] Chan 2010; _cites Efimov 2010_ | Table 2, p. 4, row 7 |  |
+| 1068 | Liquid 1 -> bcc(Ce) + bcc(Ca) | Liquid 1: Ce 0.997 | experimental | [1] Zhang 2008; _cites Gschneider 1961_ | Table 5, p. 4, row 1; `ORC-4R25VVW5XR` |  |
+| 999.15 | δCe \<-> V + γCe |  | unspecified | [2] Chan 2010; _cites Massalski 1990_ | Table 2, p. 4, row 8; `ORC-W5YQEE5PQA` |  |
+| 978.15 | δCe \<-> V + γCe |  | unspecified | [2] Chan 2010; _cites Efimov 2010_ | Table 2, p. 4, row 7; `ORC-JMNQWNFHGD` |  |
 
 ## Other properties
 
@@ -44,8 +44,8 @@ Table: Phase transition, Ce system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1001 K | 1001 | polymorphic: fcc↔bcc | model | [3] Mattern 2014; _cites Massalski 1990_ | Table 1, p. 3, row 2 |  |
-| Phase transition | 1071 K | 1071 | other: bcc-Ce | unspecified | [3] Mattern 2014; _cites Gschneidner 1999_ [doi](https://doi.org/10.1361/105497199770340590) | Table 1, p. 3, row 1 |  |
+| Phase transition | 1001 K | 1001 | polymorphic: fcc↔bcc | model | [3] Mattern 2014; _cites Massalski 1990_ | Table 1, p. 3, row 2; `ORC-L5CFGFSLF6` |  |
+| Phase transition | 1071 K | 1071 | other: bcc-Ce | unspecified | [3] Mattern 2014; _cites Gschneidner 1999_ [doi](https://doi.org/10.1361/105497199770340590) | Table 1, p. 3, row 1; `ORC-XFHHPLNTBG` |  |
 
 ### Mixing / partial (2)
 
@@ -53,8 +53,8 @@ Table: Mixing / partial, Ce system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: ΔH_ | 0 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 1_ | model | [4] Gröbner 2004 | Table VIII, p. 11, row 2 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 0 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 1_ | experimental | [4] Gröbner 2004; _cites Ryss 1977_ | Table VIII, p. 11, row 1 |  |
+| Enthalpy of mixing; _printed: ΔH_ | 0 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 1_ | model | [4] Gröbner 2004 | Table VIII, p. 11, row 2; `ORC-2ONBIZ5QZD.9e6ce3` |  |
+| Enthalpy of mixing; _printed: ΔH_ | 0 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 1_ | experimental | [4] Gröbner 2004; _cites Ryss 1977_ | Table VIII, p. 11, row 1; `ORC-EB4LAZM5M4.ca03f6` |  |
 
 ### Crystal structure (20)
 
@@ -62,26 +62,26 @@ Table: Crystal structure, Ce system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 5.15 Å | 298.15 | (γ Ce); _alloy: Ce 1_ | experimental | [5] Peng 2011; _cites Pavlov 1967_ | Table 1, p. 2, row 7 |  |
-| Lattice a | 4.12 Å | 298.15 | (δ Ce); _alloy: Ce 1_ | experimental | [5] Peng 2011; _cites Spedding 1961_ [doi](https://doi.org/10.1016/0022-5088%2861%2990003-0) | Table 1, p. 2, row 8 |  |
-| Lattice a | 4.85 Å | 298.15 | αCe; _alloy: Ce 1_ | unspecified | [6] Dong 2013 | Table 1, p. 2, row 2 |  |
-| Lattice a | 4.85 Å | 298.15 | αCe; _αCe: Ce 1_ | unspecified | [7] Moustaine 2016; _cites LomelloeTafin 2006_ | Table 1, p. 3, row 2 |  |
-| Lattice a | 3.681 Å | 298.15 | βCe; _βCe: Ce 1_ | unspecified | [7] Moustaine 2016; _cites LomelloeTafin 2006_ | Table 1, p. 3, row 3 |  |
-| Lattice a | 3.681 Å | 298.15 | βCe; _alloy: Ce 1_ | unspecified | [6] Dong 2013 | Table 1, p. 2, row 3 |  |
-| Lattice a | 5.161 Å | 298.15 | γCe; _alloy: Ce 1_ | unspecified | [6] Dong 2013 | Table 1, p. 2, row 4 |  |
-| Lattice a | 4.12 not_printed | 298.15 | δ(Ce); _alloy: Ce 1_ | model | [8] Premović 2017; _cites Massalski 1990_ | Table 1, p. 2, row 2 |  |
-| Lattice a | 4.12 Å | 298.15 | δCe; _alloy: Ce 1_ | unspecified | [6] Dong 2013 | Table 1, p. 2, row 5 |  |
-| Lattice b | 4.12 not_printed | 298.15 | δ(Ce); _alloy: Ce 1_ | model | [8] Premović 2017; _cites Massalski 1990_ | Table 1, p. 2, row 2 |  |
-| Lattice c | 11.857 Å | 298.15 | βCe; _βCe: Ce 1_ | unspecified | [7] Moustaine 2016; _cites LomelloeTafin 2006_ | Table 1, p. 3, row 3 |  |
-| Lattice c | 11.857 Å | 298.15 | βCe; _alloy: Ce 1_ | unspecified | [6] Dong 2013 | Table 1, p. 2, row 3 |  |
-| Lattice c | 4.12 not_printed | 298.15 | δ(Ce); _alloy: Ce 1_ | model | [8] Premović 2017; _cites Massalski 1990_ | Table 1, p. 2, row 2 |  |
-| lattice unspecified axis; _printed: Lattice parameter_ | 3.756 Å | 1041 | Ce; _alloy: Ce 1_ | DFT | [1] Zhang 2008 | Table 1, p. 2, row 3 |  |
-| lattice unspecified axis; _printed: Lattice parameter_ | 4.11 Å | 1041 | Ce; _alloy: Ce 1_ | experimental | [1] Zhang 2008; _cites Koskenmaki 1981_ | Table 1, p. 2, row 4 |  |
-| lattice unspecified axis; _printed: Lattice parameter_ | 4.11 Å | 1041 | Ce (with magnetic); _alloy: Ce 1_ | experimental | [1] Zhang 2008; _cites Koskenmaki 1981_ | Table 1, p. 2, row 6 |  |
-| lattice unspecified axis; _printed: Lattice parameter_ | 3.759 Å | 1041 | Ce (with magnetic); _alloy: Ce 1_ | DFT | [1] Zhang 2008 | Table 1, p. 2, row 5 |  |
-| lattice unspecified axis; _printed: Calculated lattice parameter_ | 3.756 Å | 1041 | bcc; _alloy: Ce 1_ | DFT | [1] Zhang 2008 | Table 1, p. 2, row 3 |  |
-| lattice unspecified axis; _printed: Lattice parameter_ | 4.11 Å | 1041 | bcc; _alloy: Ce 1_ | experimental | [1] Zhang 2008; _cites Koskenmaki 1981_ | Table 1, p. 2, row 6 |  |
-| lattice unspecified axis; _printed: Calculated lattice parameter_ | 3.759 Å | 1041 | bcc; _alloy: Ce 1_ | DFT | [1] Zhang 2008 | Table 1, p. 2, row 5 |  |
+| Lattice a | 5.15 Å | 298.15 | (γ Ce); _alloy: Ce 1_ | experimental | [5] Peng 2011; _cites Pavlov 1967_ | Table 1, p. 2, row 7; `ORC-H376DXN36M` |  |
+| Lattice a | 4.12 Å | 298.15 | (δ Ce); _alloy: Ce 1_ | experimental | [5] Peng 2011; _cites Spedding 1961_ [doi](https://doi.org/10.1016/0022-5088%2861%2990003-0) | Table 1, p. 2, row 8; `ORC-A554B7FFNL` |  |
+| Lattice a | 4.85 Å | 298.15 | αCe; _alloy: Ce 1_ | unspecified | [6] Dong 2013 | Table 1, p. 2, row 2; `ORC-235SZDVB3U` |  |
+| Lattice a | 4.85 Å | 298.15 | αCe; _αCe: Ce 1_ | unspecified | [7] Moustaine 2016; _cites LomelloeTafin 2006_ | Table 1, p. 3, row 2; `ORC-WEOLFLOTZT` |  |
+| Lattice a | 3.681 Å | 298.15 | βCe; _βCe: Ce 1_ | unspecified | [7] Moustaine 2016; _cites LomelloeTafin 2006_ | Table 1, p. 3, row 3; `ORC-DODROVBFP3.c22c47` |  |
+| Lattice a | 3.681 Å | 298.15 | βCe; _alloy: Ce 1_ | unspecified | [6] Dong 2013 | Table 1, p. 2, row 3; `ORC-W5DFKBFDXF.04246d` |  |
+| Lattice a | 5.161 Å | 298.15 | γCe; _alloy: Ce 1_ | unspecified | [6] Dong 2013 | Table 1, p. 2, row 4; `ORC-CHQYBOM66I` |  |
+| Lattice a | 4.12 not_printed | 298.15 | δ(Ce); _alloy: Ce 1_ | model | [8] Premović 2017; _cites Massalski 1990_ | Table 1, p. 2, row 2; `ORC-QUTJ6UQCOU.ffce9d` |  |
+| Lattice a | 4.12 Å | 298.15 | δCe; _alloy: Ce 1_ | unspecified | [6] Dong 2013 | Table 1, p. 2, row 5; `ORC-UH7VDHG3X7` |  |
+| Lattice b | 4.12 not_printed | 298.15 | δ(Ce); _alloy: Ce 1_ | model | [8] Premović 2017; _cites Massalski 1990_ | Table 1, p. 2, row 2; `ORC-QUTJ6UQCOU.8826de` |  |
+| Lattice c | 11.857 Å | 298.15 | βCe; _βCe: Ce 1_ | unspecified | [7] Moustaine 2016; _cites LomelloeTafin 2006_ | Table 1, p. 3, row 3; `ORC-DODROVBFP3.525776` |  |
+| Lattice c | 11.857 Å | 298.15 | βCe; _alloy: Ce 1_ | unspecified | [6] Dong 2013 | Table 1, p. 2, row 3; `ORC-W5DFKBFDXF.ad2050` |  |
+| Lattice c | 4.12 not_printed | 298.15 | δ(Ce); _alloy: Ce 1_ | model | [8] Premović 2017; _cites Massalski 1990_ | Table 1, p. 2, row 2; `ORC-QUTJ6UQCOU.d1e30f` |  |
+| lattice unspecified axis; _printed: Lattice parameter_ | 3.756 Å | 1041 | Ce; _alloy: Ce 1_ | DFT | [1] Zhang 2008 | Table 1, p. 2, row 3; `ORC-35EQDN7AUN.cfaa06` |  |
+| lattice unspecified axis; _printed: Lattice parameter_ | 4.11 Å | 1041 | Ce; _alloy: Ce 1_ | experimental | [1] Zhang 2008; _cites Koskenmaki 1981_ | Table 1, p. 2, row 4; `ORC-SXSOTOHSCL.1a860d` |  |
+| lattice unspecified axis; _printed: Lattice parameter_ | 4.11 Å | 1041 | Ce (with magnetic); _alloy: Ce 1_ | experimental | [1] Zhang 2008; _cites Koskenmaki 1981_ | Table 1, p. 2, row 6; `ORC-BDXH2CZH7Q.8b1fdc` |  |
+| lattice unspecified axis; _printed: Lattice parameter_ | 3.759 Å | 1041 | Ce (with magnetic); _alloy: Ce 1_ | DFT | [1] Zhang 2008 | Table 1, p. 2, row 5; `ORC-Q2VXLQC73N.bf484d` |  |
+| lattice unspecified axis; _printed: Calculated lattice parameter_ | 3.756 Å | 1041 | bcc; _alloy: Ce 1_ | DFT | [1] Zhang 2008 | Table 1, p. 2, row 3; `ORC-35EQDN7AUN.5adfc9` |  |
+| lattice unspecified axis; _printed: Lattice parameter_ | 4.11 Å | 1041 | bcc; _alloy: Ce 1_ | experimental | [1] Zhang 2008; _cites Koskenmaki 1981_ | Table 1, p. 2, row 6; `ORC-BDXH2CZH7Q.1225d9` |  |
+| lattice unspecified axis; _printed: Calculated lattice parameter_ | 3.759 Å | 1041 | bcc; _alloy: Ce 1_ | DFT | [1] Zhang 2008 | Table 1, p. 2, row 5; `ORC-Q2VXLQC73N.64877b` |  |
 
 ## Sources
 
@@ -131,4 +131,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

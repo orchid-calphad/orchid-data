@@ -28,14 +28,14 @@ Table: Crystal structure, Mg–Y–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 7.76 Å | 298.15 | H_Mg15Y15Zn70; _alloy: Y 0.15, Zn 0.7_ | unspecified | [1] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 21 |  |
-| Lattice a | 6.83 Å | 298.15 | W_Mg3Y2Zn3; _alloy: Y 0.25, Zn 0.375_ | unspecified | [1] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 18 |  |
-| Lattice a | 14.58 Å | 298.15 | Z_Mg28Y7Zn65; _alloy: Y 0.07, Zn 0.65_ | unspecified | [1] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 19 |  |
-| Lattice b | 8.68 Å | 298.15 | Z_Mg28Y7Zn65; _alloy: Y 0.07, Zn 0.65_ | unspecified | [1] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 19 |  |
-| Lattice c | 9.2 Å | 298.15 | H_Mg15Y15Zn70; _alloy: Y 0.15, Zn 0.7_ | unspecified | [1] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 21 |  |
-| lattice a r | 5.19 Å | 298.15 | I_Mg3YZn6; _alloy: Y 0.1, Zn 0.6_ | unspecified | [1] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 20 |  |
-| lattice gamma | 120 ° | 298.15 | H_Mg15Y15Zn70; _alloy: Y 0.15, Zn 0.7_ | unspecified | [1] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 21 |  |
-| lattice gamma | 120 ° | 298.15 | Z_Mg28Y7Zn65; _alloy: Y 0.07, Zn 0.65_ | unspecified | [1] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 19 |  |
+| Lattice a | 7.76 Å | 298.15 | H_Mg15Y15Zn70; _alloy: Y 0.15, Zn 0.7_ | unspecified | [1] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 21; `ORC-CMUG7CLJJL.11470c` |  |
+| Lattice a | 6.83 Å | 298.15 | W_Mg3Y2Zn3; _alloy: Y 0.25, Zn 0.375_ | unspecified | [1] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 18; `ORC-NF7LFEI6XS` |  |
+| Lattice a | 14.58 Å | 298.15 | Z_Mg28Y7Zn65; _alloy: Y 0.07, Zn 0.65_ | unspecified | [1] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 19; `ORC-PTJOGBM6ET.a0dc78` |  |
+| Lattice b | 8.68 Å | 298.15 | Z_Mg28Y7Zn65; _alloy: Y 0.07, Zn 0.65_ | unspecified | [1] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 19; `ORC-PTJOGBM6ET.c93e13` |  |
+| Lattice c | 9.2 Å | 298.15 | H_Mg15Y15Zn70; _alloy: Y 0.15, Zn 0.7_ | unspecified | [1] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 21; `ORC-CMUG7CLJJL.93580b` |  |
+| lattice a r | 5.19 Å | 298.15 | I_Mg3YZn6; _alloy: Y 0.1, Zn 0.6_ | unspecified | [1] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 20; `ORC-DFY35RMCXX` |  |
+| lattice gamma | 120 ° | 298.15 | H_Mg15Y15Zn70; _alloy: Y 0.15, Zn 0.7_ | unspecified | [1] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 21; `ORC-CMUG7CLJJL.23188f` |  |
+| lattice gamma | 120 ° | 298.15 | Z_Mg28Y7Zn65; _alloy: Y 0.07, Zn 0.65_ | unspecified | [1] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 19; `ORC-PTJOGBM6ET.e8ce9c` |  |
 
 ## Sources
 
@@ -78,4 +78,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

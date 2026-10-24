@@ -60,16 +60,16 @@ Table: Invariant reactions reported in the literature for the Sr–Zn system (10
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 923.15 | Liquid + SrZn13 = βSrZn5 | L: Zn 0.794; SrZn13: Zn 0.929; βSrZn5: Zn 0.833 | model | [1] Zhong 2003 | Table 3, p. 3, row 13 |  |
-| 923.15 | Liquid + SrZn13 = βSrZn5 | SrZn13: Zn 0.928571; βSrZn5: Zn 0.833333 | experimental | [1] Zhong 2003; _cites Bruzzone 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990226-6) | Table 3, p. 3, row 12 |  |
-| 827.65 | Liquid = SrZn2 + αSrZn5 | L: Zn 0.719; SrZn2: Zn 0.667; αSrZn5: Zn 0.833 | model | [1] Zhong 2003 | Table 3, p. 3, row 9 |  |
-| 827.15 | Liquid = SrZn2 + αSrZn5 | L: Zn 0.725; SrZn2: Zn 0.666667; αSrZn5: Zn 0.833333 | experimental | [1] Zhong 2003; _cites Bruzzone 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990226-6) | Table 3, p. 3, row 8 |  |
-| 815.05 | Liquid + fcc = bcc | L: Zn 0.196; fcc: Zn 0.006; bcc: Zn 0.007 | model | [1] Zhong 2003 | Table 3, p. 3, row 1 |  |
-| 707.15 | Liquid + SrZn2 = SrZn | SrZn2: Zn 0.666667; SrZn: Zn 0.5 | experimental | [1] Zhong 2003; _cites Bruzzone 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990226-6) | Table 3, p. 3, row 4 |  |
-| 705.75 | Liquid + SrZn2 = SrZn | L: Zn 0.467; SrZn2: Zn 0.667; SrZn: Zn 0.5 | model | [1] Zhong 2003 | Table 3, p. 3, row 5 |  |
-| 692.85 | Liquid = SrZn13 + hcp | L: Zn 1; SrZn13: Zn 0.929; hcp: Zn 1 | model | [1] Zhong 2003 | Table 3, p. 3, row 16 |  |
-| 642.65 | Liquid = fcc + SrZn | L: Zn 0.307; fcc: Zn 0.002; SrZn: Zn 0.5 | model | [1] Zhong 2003 | Table 3, p. 3, row 3 |  |
-| 642.15 | Liquid = fcc + SrZn | L: Zn 0.325; SrZn: Zn 0.5 | experimental | [1] Zhong 2003; _cites Bruzzone 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990226-6) | Table 3, p. 3, row 2 |  |
+| 923.15 | Liquid + SrZn13 = βSrZn5 | L: Zn 0.794; SrZn13: Zn 0.929; βSrZn5: Zn 0.833 | model | [1] Zhong 2003 | Table 3, p. 3, row 13; `ORC-SSGAHLFTR2` |  |
+| 923.15 | Liquid + SrZn13 = βSrZn5 | SrZn13: Zn 0.928571; βSrZn5: Zn 0.833333 | experimental | [1] Zhong 2003; _cites Bruzzone 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990226-6) | Table 3, p. 3, row 12; `ORC-SZI4KHF6EZ` |  |
+| 827.65 | Liquid = SrZn2 + αSrZn5 | L: Zn 0.719; SrZn2: Zn 0.667; αSrZn5: Zn 0.833 | model | [1] Zhong 2003 | Table 3, p. 3, row 9; `ORC-RCKJJPFXJI` |  |
+| 827.15 | Liquid = SrZn2 + αSrZn5 | L: Zn 0.725; SrZn2: Zn 0.666667; αSrZn5: Zn 0.833333 | experimental | [1] Zhong 2003; _cites Bruzzone 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990226-6) | Table 3, p. 3, row 8; `ORC-O7LEZVAHBN` |  |
+| 815.05 | Liquid + fcc = bcc | L: Zn 0.196; fcc: Zn 0.006; bcc: Zn 0.007 | model | [1] Zhong 2003 | Table 3, p. 3, row 1; `ORC-RCFRNVAS6N` |  |
+| 707.15 | Liquid + SrZn2 = SrZn | SrZn2: Zn 0.666667; SrZn: Zn 0.5 | experimental | [1] Zhong 2003; _cites Bruzzone 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990226-6) | Table 3, p. 3, row 4; `ORC-JJP5P3FJ5H` |  |
+| 705.75 | Liquid + SrZn2 = SrZn | L: Zn 0.467; SrZn2: Zn 0.667; SrZn: Zn 0.5 | model | [1] Zhong 2003 | Table 3, p. 3, row 5; `ORC-C2B5B7ILUK` |  |
+| 692.85 | Liquid = SrZn13 + hcp | L: Zn 1; SrZn13: Zn 0.929; hcp: Zn 1 | model | [1] Zhong 2003 | Table 3, p. 3, row 16; `ORC-YCU56OPFUU` |  |
+| 642.65 | Liquid = fcc + SrZn | L: Zn 0.307; fcc: Zn 0.002; SrZn: Zn 0.5 | model | [1] Zhong 2003 | Table 3, p. 3, row 3; `ORC-YOJVNKSWN4` |  |
+| 642.15 | Liquid = fcc + SrZn | L: Zn 0.325; SrZn: Zn 0.5 | experimental | [1] Zhong 2003; _cites Bruzzone 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990226-6) | Table 3, p. 3, row 2; `ORC-Z7QO45ZTBM` |  |
 
 ## Other properties
 
@@ -79,12 +79,12 @@ Table: Phase transition, Sr–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 847.45 K | 847.45 | Liquid = SrZn2; _L: Zn 0.667; SrZn2: Zn 0.667_ | model | [1] Zhong 2003 | Table 3, p. 3, row 7 |  |
-| Phase transition | 848.15 K | 848.15 | Liquid = SrZn2; _L: Zn 0.666667; SrZn2: Zn 0.666667_ | experimental | [1] Zhong 2003; _cites Bruzzone 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990226-6) | Table 3, p. 3, row 6 |  |
-| Phase transition | 892.85 K | 892.85 | βSrZn5 = αSrZn5; _βSrZn5: Zn 0.833; αSrZn5: Zn 0.833_ | model | [1] Zhong 2003 | Table 3, p. 3, row 11 |  |
-| Phase transition | 893.15 K | 893.15 | βSrZn5 = αSrZn5; _βSrZn5: Zn 0.833333; αSrZn5: Zn 0.833333_ | experimental | [1] Zhong 2003; _cites Bruzzone 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990226-6) | Table 3, p. 3, row 10 |  |
-| Phase transition | 1103.15 K | 1103.15 | Liquid = SrZn13; _L: Zn 0.928571; SrZn13: Zn 0.928571_ | experimental | [1] Zhong 2003; _cites Bruzzone 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990226-6) | Table 3, p. 3, row 14 |  |
-| Phase transition | 1103.15 K | 1103.15 | Liquid = SrZn13; _L: Zn 0.929; SrZn13: Zn 0.929_ | model | [1] Zhong 2003 | Table 3, p. 3, row 15 |  |
+| Phase transition | 847.45 K | 847.45 | Liquid = SrZn2; _L: Zn 0.667; SrZn2: Zn 0.667_ | model | [1] Zhong 2003 | Table 3, p. 3, row 7; `ORC-LWGH7FZYZU` |  |
+| Phase transition | 848.15 K | 848.15 | Liquid = SrZn2; _L: Zn 0.666667; SrZn2: Zn 0.666667_ | experimental | [1] Zhong 2003; _cites Bruzzone 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990226-6) | Table 3, p. 3, row 6; `ORC-MKKEFQKVVH` |  |
+| Phase transition | 892.85 K | 892.85 | βSrZn5 = αSrZn5; _βSrZn5: Zn 0.833; αSrZn5: Zn 0.833_ | model | [1] Zhong 2003 | Table 3, p. 3, row 11; `ORC-WSSVZLPAD2` |  |
+| Phase transition | 893.15 K | 893.15 | βSrZn5 = αSrZn5; _βSrZn5: Zn 0.833333; αSrZn5: Zn 0.833333_ | experimental | [1] Zhong 2003; _cites Bruzzone 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990226-6) | Table 3, p. 3, row 10; `ORC-SP3JIKIV22` |  |
+| Phase transition | 1103.15 K | 1103.15 | Liquid = SrZn13; _L: Zn 0.928571; SrZn13: Zn 0.928571_ | experimental | [1] Zhong 2003; _cites Bruzzone 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990226-6) | Table 3, p. 3, row 14; `ORC-FF6CO4KXTT` |  |
+| Phase transition | 1103.15 K | 1103.15 | Liquid = SrZn13; _L: Zn 0.929; SrZn13: Zn 0.929_ | model | [1] Zhong 2003 | Table 3, p. 3, row 15; `ORC-XRJ7AFJL2K` |  |
 
 ### Phase equilibrium (13)
 
@@ -92,19 +92,19 @@ Table: Phase equilibrium, Sr–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 948.15 | Liquid + L; _Liquid: Sr 0.0016, Zn 0.9984; L: Sr 0.0016, Zn 0.9984_ | experimental | [1] Zhong 2003; _cites Volkovich 1978_ | Table 2, p. 2, row 2 |  |
-| Phase composition |  | 948.15 | Liquid + L; _Liquid: Sr 0.0014, Zn 0.9986; L: Sr 0.0014, Zn 0.9986_ | experimental | [1] Zhong 2003; _cites Shunk 1973_ | Table 2, p. 2, row 1 |  |
-| Phase composition |  | 948.15 | Liquid + L; _Liquid: Sr 0.0015, Zn 0.9985; L: Sr 0.0015, Zn 0.9985_ | model | [1] Zhong 2003 | Table 2, p. 2, row 3 |  |
-| Phase composition |  | 973.15 | Liquid + L; _Liquid: Sr 0.0029, Zn 0.9971; L: Sr 0.0029, Zn 0.9971_ | experimental | [1] Zhong 2003; _cites Volkovich 1978_ | Table 2, p. 2, row 5 |  |
-| Phase composition |  | 973.15 | Liquid + L; _Liquid: Sr 0.0032, Zn 0.9968; L: Sr 0.0032, Zn 0.9968_ | model | [1] Zhong 2003 | Table 2, p. 2, row 6 |  |
-| Phase composition |  | 973.15 | Liquid + L; _Liquid: Sr 0.0025, Zn 0.9975; L: Sr 0.0025, Zn 0.9975_ | experimental | [1] Zhong 2003; _cites Shunk 1973_ | Table 2, p. 2, row 4 |  |
-| Phase composition |  | 998.15 | Liquid + L; _Liquid: Sr 0.0052, Zn 0.9948; L: Sr 0.0052, Zn 0.9948_ | experimental | [1] Zhong 2003; _cites Volkovich 1978_ | Table 2, p. 2, row 8 |  |
-| Phase composition |  | 998.15 | Liquid + L; _Liquid: Sr 0.0046, Zn 0.9954; L: Sr 0.0046, Zn 0.9954_ | experimental | [1] Zhong 2003; _cites Shunk 1973_ | Table 2, p. 2, row 7 |  |
-| Phase composition |  | 998.15 | Liquid + L; _Liquid: Sr 0.0062, Zn 0.9938; L: Sr 0.0062, Zn 0.9938_ | model | [1] Zhong 2003 | Table 2, p. 2, row 9 |  |
-| Phase composition |  | 1023.15 | Liquid + L; _Liquid: Sr 0.0105, Zn 0.9895; L: Sr 0.0105, Zn 0.9895_ | experimental | [1] Zhong 2003; _cites Volkovich 1978_ | Table 2, p. 2, row 10 |  |
-| Phase composition |  | 1023.15 | Liquid + L; _Liquid: Sr 0.0111, Zn 0.9889; L: Sr 0.0111, Zn 0.9889_ | model | [1] Zhong 2003 | Table 2, p. 2, row 11 |  |
-| Phase composition |  | 1048.15 | Liquid + L; _Liquid: Sr 0.0195, Zn 0.9805; L: Sr 0.0195, Zn 0.9805_ | experimental | [1] Zhong 2003; _cites Volkovich 1978_ | Table 2, p. 2, row 12 |  |
-| Phase composition |  | 1048.15 | Liquid + L; _Liquid: Sr 0.0187, Zn 0.9813; L: Sr 0.0187, Zn 0.9813_ | model | [1] Zhong 2003 | Table 2, p. 2, row 13 |  |
+| Phase composition |  | 948.15 | Liquid + L; _Liquid: Sr 0.0016, Zn 0.9984; L: Sr 0.0016, Zn 0.9984_ | experimental | [1] Zhong 2003; _cites Volkovich 1978_ | Table 2, p. 2, row 2; `ORC-IJJ3TQJFPO` |  |
+| Phase composition |  | 948.15 | Liquid + L; _Liquid: Sr 0.0014, Zn 0.9986; L: Sr 0.0014, Zn 0.9986_ | experimental | [1] Zhong 2003; _cites Shunk 1973_ | Table 2, p. 2, row 1; `ORC-QZ3JSFBR7M` |  |
+| Phase composition |  | 948.15 | Liquid + L; _Liquid: Sr 0.0015, Zn 0.9985; L: Sr 0.0015, Zn 0.9985_ | model | [1] Zhong 2003 | Table 2, p. 2, row 3; `ORC-X3FTH4PRYR` |  |
+| Phase composition |  | 973.15 | Liquid + L; _Liquid: Sr 0.0029, Zn 0.9971; L: Sr 0.0029, Zn 0.9971_ | experimental | [1] Zhong 2003; _cites Volkovich 1978_ | Table 2, p. 2, row 5; `ORC-5XUBNIPTLG` |  |
+| Phase composition |  | 973.15 | Liquid + L; _Liquid: Sr 0.0032, Zn 0.9968; L: Sr 0.0032, Zn 0.9968_ | model | [1] Zhong 2003 | Table 2, p. 2, row 6; `ORC-EFQVD5I6BJ` |  |
+| Phase composition |  | 973.15 | Liquid + L; _Liquid: Sr 0.0025, Zn 0.9975; L: Sr 0.0025, Zn 0.9975_ | experimental | [1] Zhong 2003; _cites Shunk 1973_ | Table 2, p. 2, row 4; `ORC-NPBFO7Z7M5` |  |
+| Phase composition |  | 998.15 | Liquid + L; _Liquid: Sr 0.0052, Zn 0.9948; L: Sr 0.0052, Zn 0.9948_ | experimental | [1] Zhong 2003; _cites Volkovich 1978_ | Table 2, p. 2, row 8; `ORC-ERIIUCOABH` |  |
+| Phase composition |  | 998.15 | Liquid + L; _Liquid: Sr 0.0046, Zn 0.9954; L: Sr 0.0046, Zn 0.9954_ | experimental | [1] Zhong 2003; _cites Shunk 1973_ | Table 2, p. 2, row 7; `ORC-JRDQOT34PH` |  |
+| Phase composition |  | 998.15 | Liquid + L; _Liquid: Sr 0.0062, Zn 0.9938; L: Sr 0.0062, Zn 0.9938_ | model | [1] Zhong 2003 | Table 2, p. 2, row 9; `ORC-NPDL6VPYQK` |  |
+| Phase composition |  | 1023.15 | Liquid + L; _Liquid: Sr 0.0105, Zn 0.9895; L: Sr 0.0105, Zn 0.9895_ | experimental | [1] Zhong 2003; _cites Volkovich 1978_ | Table 2, p. 2, row 10; `ORC-O2C2755VSX` |  |
+| Phase composition |  | 1023.15 | Liquid + L; _Liquid: Sr 0.0111, Zn 0.9889; L: Sr 0.0111, Zn 0.9889_ | model | [1] Zhong 2003 | Table 2, p. 2, row 11; `ORC-SLANM4WKVG` |  |
+| Phase composition |  | 1048.15 | Liquid + L; _Liquid: Sr 0.0195, Zn 0.9805; L: Sr 0.0195, Zn 0.9805_ | experimental | [1] Zhong 2003; _cites Volkovich 1978_ | Table 2, p. 2, row 12; `ORC-7ZMBUIB3IU` |  |
+| Phase composition |  | 1048.15 | Liquid + L; _Liquid: Sr 0.0187, Zn 0.9813; L: Sr 0.0187, Zn 0.9813_ | model | [1] Zhong 2003 | Table 2, p. 2, row 13; `ORC-VB6MDSEMT7` |  |
 
 ## Sources
 
@@ -169,4 +169,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

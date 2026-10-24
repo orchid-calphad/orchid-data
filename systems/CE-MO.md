@@ -49,18 +49,18 @@ Table: Invariant reactions reported in the literature for the Ce–Mo system (12
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2805.15 | L2 \<-> L1 + Mo | L2: Mo 0.9274; L1: Mo 0.3235; Mo: Mo 0.9969 | model | [1] Chan 2010 | Table 2, p. 4, row 4 |  |
-| 2800.15 | L2 \<-> L1 + Mo | L2: Mo 0.905; L1: Mo 0.32; Mo: Mo 0.996 | unspecified | [1] Chan 2010; _cites Massalski 1990_ | Table 2, p. 4, row 3 |  |
-| 2800.15 | L2 \<-> L1 + Mo | L2: Mo 0.905; L1: Mo 0.24; Mo: Mo 0.996 | unspecified | [1] Chan 2010; _cites Palenzona 1996_ [doi](https://doi.org/10.1007/bf02648371) | Table 2, p. 4, row 2 |  |
-| 2800.15 | L2 \<-> L1 + Mo | L2: Mo 0.933; L1: Mo 0.32; Mo: Mo 0.997 | unspecified | [1] Chan 2010; _cites Brewer 1980_ | Table 2, p. 4, row 1 |  |
-| 1072.15 | L + Mo \<-> δCe | L: Mo 0; Mo: Mo 1; δCe: Mo 0 | model | [1] Chan 2010 | Table 2, p. 4, row 7 |  |
-| 1071.15 | L + Mo \<-> δCe |  | unspecified | [1] Chan 2010; _cites Massalski 1990_ | Table 2, p. 4, row 6 |  |
-| 1071.15 | L + Mo \<-> δCe | L: Mo 7.000e-4 | unspecified | [1] Chan 2010; _cites Brewer 1980_ | Table 2, p. 4, row 5 |  |
-| 1000.15 | δCe + Mo \<-> γCe | δCe: Mo 0; Mo: Mo 1; γCe: Mo 0 | model | [1] Chan 2010 | Table 2, p. 4, row 9 |  |
-| 999.15 | δCe + Mo \<-> γCe | δCe: Mo 0; Mo: Mo 1; γCe: Mo 0 | experimental | [1] Chan 2010; _cites Massalski 1990_ | Table 2, p. 4, row 8 |  |
-| 334.15 | γCe \<-> Mo + βCe | γCe: Mo 0; Mo: Mo 1; βCe: Mo 0 | experimental | [1] Chan 2010; _cites Massalski 1990_ | Table 2, p. 4, row 10 |  |
-| 283.15 | γCe \<-> Mo + βCe |  | unspecified | [1] Chan 2010; _cites Gschneidner 2010_ | Table 2, p. 4, row 11 |  |
-| 283.15 | γCe \<-> Mo + βCe | γCe: Mo 0; Mo: Mo 1; βCe: Mo 0 | model | [1] Chan 2010 | Table 2, p. 4, row 12 |  |
+| 2805.15 | L2 \<-> L1 + Mo | L2: Mo 0.9274; L1: Mo 0.3235; Mo: Mo 0.9969 | model | [1] Chan 2010 | Table 2, p. 4, row 4; `ORC-AQHCJ2N24E` |  |
+| 2800.15 | L2 \<-> L1 + Mo | L2: Mo 0.905; L1: Mo 0.32; Mo: Mo 0.996 | unspecified | [1] Chan 2010; _cites Massalski 1990_ | Table 2, p. 4, row 3; `ORC-5EAZ4GXAJQ` |  |
+| 2800.15 | L2 \<-> L1 + Mo | L2: Mo 0.905; L1: Mo 0.24; Mo: Mo 0.996 | unspecified | [1] Chan 2010; _cites Palenzona 1996_ [doi](https://doi.org/10.1007/bf02648371) | Table 2, p. 4, row 2; `ORC-MZ5DXT5PA4` |  |
+| 2800.15 | L2 \<-> L1 + Mo | L2: Mo 0.933; L1: Mo 0.32; Mo: Mo 0.997 | unspecified | [1] Chan 2010; _cites Brewer 1980_ | Table 2, p. 4, row 1; `ORC-WQKHBLJVZF` |  |
+| 1072.15 | L + Mo \<-> δCe | L: Mo 0; Mo: Mo 1; δCe: Mo 0 | model | [1] Chan 2010 | Table 2, p. 4, row 7; `ORC-BOUI3Q6SCS` |  |
+| 1071.15 | L + Mo \<-> δCe |  | unspecified | [1] Chan 2010; _cites Massalski 1990_ | Table 2, p. 4, row 6; `ORC-H2S3EG5YWI` |  |
+| 1071.15 | L + Mo \<-> δCe | L: Mo 7.000e-4 | unspecified | [1] Chan 2010; _cites Brewer 1980_ | Table 2, p. 4, row 5; `ORC-MK5Z7IYKSJ` |  |
+| 1000.15 | δCe + Mo \<-> γCe | δCe: Mo 0; Mo: Mo 1; γCe: Mo 0 | model | [1] Chan 2010 | Table 2, p. 4, row 9; `ORC-AICG25OWGZ` |  |
+| 999.15 | δCe + Mo \<-> γCe | δCe: Mo 0; Mo: Mo 1; γCe: Mo 0 | experimental | [1] Chan 2010; _cites Massalski 1990_ | Table 2, p. 4, row 8; `ORC-KTZZ4G4KP4` |  |
+| 334.15 | γCe \<-> Mo + βCe | γCe: Mo 0; Mo: Mo 1; βCe: Mo 0 | experimental | [1] Chan 2010; _cites Massalski 1990_ | Table 2, p. 4, row 10; `ORC-YFMAF2FE5L` |  |
+| 283.15 | γCe \<-> Mo + βCe |  | unspecified | [1] Chan 2010; _cites Gschneidner 2010_ | Table 2, p. 4, row 11; `ORC-5TIF24HIXD` |  |
+| 283.15 | γCe \<-> Mo + βCe | γCe: Mo 0; Mo: Mo 1; βCe: Mo 0 | model | [1] Chan 2010 | Table 2, p. 4, row 12; `ORC-LJT3ZMNPHB` |  |
 
 ## Other properties
 
@@ -70,16 +70,16 @@ Table: Phase equilibrium, Ce–Mo system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 1073.15 | liquid + L; _liquid: Ce 0.999984, Mo 1.600e-5; L: Ce 0.999984, Mo 1.600e-5_ | experimental | [1] Chan 2010; _cites Gaume-Mahn 1962_ | Table 3, p. 4, row 1 |  |
-| Phase composition |  | 1073.15 | liquid + L; _liquid: Ce 0.999999, Mo 1.000e-6; L: Ce 0.999999, Mo 1.000e-6_ | model | [1] Chan 2010 | Table 3, p. 4, row 2 |  |
-| Phase composition |  | 1173.15 | liquid + L; _liquid: Ce 0.999964, Mo 3.600e-5; L: Ce 0.999964, Mo 3.600e-5_ | experimental | [1] Chan 2010; _cites Gaume-Mahn 1962_ | Table 3, p. 4, row 3 |  |
-| Phase composition |  | 1173.15 | liquid + L; _liquid: Ce 0.999995, Mo 5.000e-6; L: Ce 0.999995, Mo 5.000e-6_ | model | [1] Chan 2010 | Table 3, p. 4, row 4 |  |
-| Phase composition |  | 1373.15 | liquid + L; _liquid: Ce 0.999922, Mo 7.800e-5; L: Ce 0.999922, Mo 7.800e-5_ | model | [1] Chan 2010 | Table 3, p. 4, row 6 |  |
-| Phase composition |  | 1373.15 | liquid + L; _liquid: Ce 0.999781, Mo 2.190e-4; L: Ce 0.999781, Mo 2.190e-4_ | experimental | [1] Chan 2010; _cites Gaume-Mahn 1962_ | Table 3, p. 4, row 5 |  |
-| Phase composition |  | 1473.15 | liquid + L; _liquid: Ce 0.999744, Mo 2.560e-4; L: Ce 0.999744, Mo 2.560e-4_ | experimental | [1] Chan 2010; _cites Gaume-Mahn 1962_ | Table 3, p. 4, row 7 |  |
-| Phase composition |  | 1473.15 | liquid + L; _liquid: Ce 0.999758, Mo 2.420e-4; L: Ce 0.999758, Mo 2.420e-4_ | model | [1] Chan 2010 | Table 3, p. 4, row 8 |  |
-| Phase composition |  | 1573.15 | liquid + L; _liquid: Ce 0.999345, Mo 6.550e-4; L: Ce 0.999345, Mo 6.550e-4_ | model | [1] Chan 2010 | Table 3, p. 4, row 10 |  |
-| Phase composition |  | 1573.15 | liquid + L; _liquid: Ce 0.99708, Mo 0.00292; L: Ce 0.99708, Mo 0.00292_ | experimental | [1] Chan 2010; _cites Daane 1954_ | Table 3, p. 4, row 9 |  |
+| Phase composition |  | 1073.15 | liquid + L; _liquid: Ce 0.999984, Mo 1.600e-5; L: Ce 0.999984, Mo 1.600e-5_ | experimental | [1] Chan 2010; _cites Gaume-Mahn 1962_ | Table 3, p. 4, row 1; `ORC-6254STCMTY` |  |
+| Phase composition |  | 1073.15 | liquid + L; _liquid: Ce 0.999999, Mo 1.000e-6; L: Ce 0.999999, Mo 1.000e-6_ | model | [1] Chan 2010 | Table 3, p. 4, row 2; `ORC-JZEICUQMMF` |  |
+| Phase composition |  | 1173.15 | liquid + L; _liquid: Ce 0.999964, Mo 3.600e-5; L: Ce 0.999964, Mo 3.600e-5_ | experimental | [1] Chan 2010; _cites Gaume-Mahn 1962_ | Table 3, p. 4, row 3; `ORC-KXMWRDDCVV` |  |
+| Phase composition |  | 1173.15 | liquid + L; _liquid: Ce 0.999995, Mo 5.000e-6; L: Ce 0.999995, Mo 5.000e-6_ | model | [1] Chan 2010 | Table 3, p. 4, row 4; `ORC-WI4RJ5LPA6` |  |
+| Phase composition |  | 1373.15 | liquid + L; _liquid: Ce 0.999922, Mo 7.800e-5; L: Ce 0.999922, Mo 7.800e-5_ | model | [1] Chan 2010 | Table 3, p. 4, row 6; `ORC-W5PBJ2ZQPU` |  |
+| Phase composition |  | 1373.15 | liquid + L; _liquid: Ce 0.999781, Mo 2.190e-4; L: Ce 0.999781, Mo 2.190e-4_ | experimental | [1] Chan 2010; _cites Gaume-Mahn 1962_ | Table 3, p. 4, row 5; `ORC-YVKEZTZFRG` |  |
+| Phase composition |  | 1473.15 | liquid + L; _liquid: Ce 0.999744, Mo 2.560e-4; L: Ce 0.999744, Mo 2.560e-4_ | experimental | [1] Chan 2010; _cites Gaume-Mahn 1962_ | Table 3, p. 4, row 7; `ORC-PFALVZRPXU` |  |
+| Phase composition |  | 1473.15 | liquid + L; _liquid: Ce 0.999758, Mo 2.420e-4; L: Ce 0.999758, Mo 2.420e-4_ | model | [1] Chan 2010 | Table 3, p. 4, row 8; `ORC-QNASE64RS2` |  |
+| Phase composition |  | 1573.15 | liquid + L; _liquid: Ce 0.999345, Mo 6.550e-4; L: Ce 0.999345, Mo 6.550e-4_ | model | [1] Chan 2010 | Table 3, p. 4, row 10; `ORC-HW35254GH3` |  |
+| Phase composition |  | 1573.15 | liquid + L; _liquid: Ce 0.99708, Mo 0.00292; L: Ce 0.99708, Mo 0.00292_ | experimental | [1] Chan 2010; _cites Daane 1954_ | Table 3, p. 4, row 9; `ORC-R72IEV4EH2` |  |
 
 ## Sources
 
@@ -144,4 +144,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -29,30 +29,30 @@ Table: Crystal structure, Ir–Mo–W system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 2.808 Å |  | e | model | [1] Huang 2020 | Table 1, p. 3, row 16 |  |
-| Lattice a | 9.749 Å |  | s | model | [1] Huang 2020 | Table 1, p. 3, row 18 |  |
-| Lattice a | 2.795 Å |  | ε | model | [1] Huang 2020 | Table 1, p. 3, row 4 |  |
-| Lattice a | 9.705 Å |  | σ | model | [1] Huang 2020 | Table 1, p. 3, row 10 |  |
-| Lattice a | 2.736 Å | 298.15 | e | experimental | [1] Huang 2020; _cites E 1951_ | Table 1, p. 3, row 15 |  |
-| Lattice a | 9.672 Å | 298.15 | s | experimental | [1] Huang 2020; _cites Knapton 1958_ | Table 1, p. 3, row 17 |  |
-| Lattice a | 2.77 Å | 298.15 | ε | experimental | [1] Huang 2020; _cites Michalik 1963_ | Table 1, p. 3, row 3 |  |
-| Lattice a | 9.631 Å | 298.15 | σ | experimental | [1] Huang 2020; _cites Spooner 1964_ | Table 1, p. 3, row 9 |  |
-| Lattice b | 2.808 Å |  | e | model | [1] Huang 2020 | Table 1, p. 3, row 16 |  |
-| Lattice b | 9.749 Å |  | s | model | [1] Huang 2020 | Table 1, p. 3, row 18 |  |
-| Lattice b | 2.795 Å |  | ε | model | [1] Huang 2020 | Table 1, p. 3, row 4 |  |
-| Lattice b | 9.705 Å |  | σ | model | [1] Huang 2020 | Table 1, p. 3, row 10 |  |
-| Lattice b | 2.736 Å | 298.15 | e | experimental | [1] Huang 2020; _cites E 1951_ | Table 1, p. 3, row 15 |  |
-| Lattice b | 9.672 Å | 298.15 | s | experimental | [1] Huang 2020; _cites Knapton 1958_ | Table 1, p. 3, row 17 |  |
-| Lattice b | 2.77 Å | 298.15 | ε | experimental | [1] Huang 2020; _cites Michalik 1963_ | Table 1, p. 3, row 3 |  |
-| Lattice b | 9.631 Å | 298.15 | σ | experimental | [1] Huang 2020; _cites Spooner 1964_ | Table 1, p. 3, row 9 |  |
-| Lattice c | 4.485 Å |  | e | model | [1] Huang 2020 | Table 1, p. 3, row 16 |  |
-| Lattice c | 5.018 Å |  | s | model | [1] Huang 2020 | Table 1, p. 3, row 18 |  |
-| Lattice c | 4.463 Å |  | ε | model | [1] Huang 2020 | Table 1, p. 3, row 4 |  |
-| Lattice c | 4.957 Å |  | σ | model | [1] Huang 2020 | Table 1, p. 3, row 10 |  |
-| Lattice c | 4.383 Å | 298.15 | e | experimental | [1] Huang 2020; _cites E 1951_ | Table 1, p. 3, row 15 |  |
-| Lattice c | 5.01 Å | 298.15 | s | experimental | [1] Huang 2020; _cites Knapton 1958_ | Table 1, p. 3, row 17 |  |
-| Lattice c | 4.424 Å | 298.15 | ε | experimental | [1] Huang 2020; _cites Michalik 1963_ | Table 1, p. 3, row 3 |  |
-| Lattice c | 4.957 Å | 298.15 | σ | experimental | [1] Huang 2020; _cites Spooner 1964_ | Table 1, p. 3, row 9 |  |
+| Lattice a | 2.808 Å |  | e | model | [1] Huang 2020 | Table 1, p. 3, row 16; `ORC-6EEMBAC7L5.23b345` |  |
+| Lattice a | 9.749 Å |  | s | model | [1] Huang 2020 | Table 1, p. 3, row 18; `ORC-CLZ22T3SAC.2bfd49` |  |
+| Lattice a | 2.795 Å |  | ε | model | [1] Huang 2020 | Table 1, p. 3, row 4; `ORC-TXDXRWFWNU.bb6e01` |  |
+| Lattice a | 9.705 Å |  | σ | model | [1] Huang 2020 | Table 1, p. 3, row 10; `ORC-XZUQGWGZZH.8fcb61` |  |
+| Lattice a | 2.736 Å | 298.15 | e | experimental | [1] Huang 2020; _cites E 1951_ | Table 1, p. 3, row 15; `ORC-4EHF5RAPY4.fbab1e` |  |
+| Lattice a | 9.672 Å | 298.15 | s | experimental | [1] Huang 2020; _cites Knapton 1958_ | Table 1, p. 3, row 17; `ORC-WY3QTM2GBO.30daf7` |  |
+| Lattice a | 2.77 Å | 298.15 | ε | experimental | [1] Huang 2020; _cites Michalik 1963_ | Table 1, p. 3, row 3; `ORC-5SMXRQ5ZFX.1b4cfb` |  |
+| Lattice a | 9.631 Å | 298.15 | σ | experimental | [1] Huang 2020; _cites Spooner 1964_ | Table 1, p. 3, row 9; `ORC-D2T2U7CFOF.e9b9a5` |  |
+| Lattice b | 2.808 Å |  | e | model | [1] Huang 2020 | Table 1, p. 3, row 16; `ORC-6EEMBAC7L5.53923c` |  |
+| Lattice b | 9.749 Å |  | s | model | [1] Huang 2020 | Table 1, p. 3, row 18; `ORC-CLZ22T3SAC.b7b132` |  |
+| Lattice b | 2.795 Å |  | ε | model | [1] Huang 2020 | Table 1, p. 3, row 4; `ORC-TXDXRWFWNU.8b351a` |  |
+| Lattice b | 9.705 Å |  | σ | model | [1] Huang 2020 | Table 1, p. 3, row 10; `ORC-XZUQGWGZZH.84c150` |  |
+| Lattice b | 2.736 Å | 298.15 | e | experimental | [1] Huang 2020; _cites E 1951_ | Table 1, p. 3, row 15; `ORC-4EHF5RAPY4.355aef` |  |
+| Lattice b | 9.672 Å | 298.15 | s | experimental | [1] Huang 2020; _cites Knapton 1958_ | Table 1, p. 3, row 17; `ORC-WY3QTM2GBO.535369` |  |
+| Lattice b | 2.77 Å | 298.15 | ε | experimental | [1] Huang 2020; _cites Michalik 1963_ | Table 1, p. 3, row 3; `ORC-5SMXRQ5ZFX.bb11da` |  |
+| Lattice b | 9.631 Å | 298.15 | σ | experimental | [1] Huang 2020; _cites Spooner 1964_ | Table 1, p. 3, row 9; `ORC-D2T2U7CFOF.342df4` |  |
+| Lattice c | 4.485 Å |  | e | model | [1] Huang 2020 | Table 1, p. 3, row 16; `ORC-6EEMBAC7L5.77b99f` |  |
+| Lattice c | 5.018 Å |  | s | model | [1] Huang 2020 | Table 1, p. 3, row 18; `ORC-CLZ22T3SAC.c545a5` |  |
+| Lattice c | 4.463 Å |  | ε | model | [1] Huang 2020 | Table 1, p. 3, row 4; `ORC-TXDXRWFWNU.25c3cc` |  |
+| Lattice c | 4.957 Å |  | σ | model | [1] Huang 2020 | Table 1, p. 3, row 10; `ORC-XZUQGWGZZH.2ef7ee` |  |
+| Lattice c | 4.383 Å | 298.15 | e | experimental | [1] Huang 2020; _cites E 1951_ | Table 1, p. 3, row 15; `ORC-4EHF5RAPY4.054ba0` |  |
+| Lattice c | 5.01 Å | 298.15 | s | experimental | [1] Huang 2020; _cites Knapton 1958_ | Table 1, p. 3, row 17; `ORC-WY3QTM2GBO.01d01b` |  |
+| Lattice c | 4.424 Å | 298.15 | ε | experimental | [1] Huang 2020; _cites Michalik 1963_ | Table 1, p. 3, row 3; `ORC-5SMXRQ5ZFX.e1c996` |  |
+| Lattice c | 4.957 Å | 298.15 | σ | experimental | [1] Huang 2020; _cites Spooner 1964_ | Table 1, p. 3, row 9; `ORC-D2T2U7CFOF.aaf205` |  |
 
 ## Sources
 
@@ -95,4 +95,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

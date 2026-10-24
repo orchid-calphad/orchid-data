@@ -14,12 +14,12 @@ Table: Enthalpy of formation of Sm3Ti reported in the literature (6)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| 21.825 kJ/mol-atom | L1₂ Sm₃Ti | 0 | DFT | DFT | [Sm–Ti](https://data.orchid-project.org/systems/SM-TI.html) | [1] Saengdeejing 2021 | Table 1, p. 5, row 24 |  |
-| 22.2013 kJ/mol-atom | I4/mmm Sm₃Ti | 0 | DFT | DFT | [Sm–Ti](https://data.orchid-project.org/systems/SM-TI.html) | [1] Saengdeejing 2021 | Table 1, p. 5, row 36 |  |
-| 22.2109 kJ/mol-atom | D0₂₂ Sm₃Ti | 0 | DFT | DFT | [Sm–Ti](https://data.orchid-project.org/systems/SM-TI.html) | [1] Saengdeejing 2021 | Table 1, p. 5, row 26 |  |
-| 28.4149 kJ/mol-atom | D0₂₃ Sm₃Ti | 0 | DFT | DFT | [Sm–Ti](https://data.orchid-project.org/systems/SM-TI.html) | [1] Saengdeejing 2021 | Table 1, p. 5, row 28 |  |
-| 31.5121 kJ/mol-atom | D0₃ Sm₃Ti | 0 | DFT | DFT | [Sm–Ti](https://data.orchid-project.org/systems/SM-TI.html) | [1] Saengdeejing 2021 | Table 1, p. 5, row 34 |  |
-| 12.7457 kJ/mol-atom | Sm₃Ti | 0 | unspecified |  | [Sm–Ti](https://data.orchid-project.org/systems/SM-TI.html) | [1] Saengdeejing 2021 | Table 2, p. 13, row 1 |  |
+| 21.825 kJ/mol-atom | L1₂ Sm₃Ti | 0 | DFT | DFT | [Sm–Ti](https://data.orchid-project.org/systems/SM-TI.html) | [1] Saengdeejing 2021 | Table 1, p. 5, row 24; `ORC-ZWYNIDBB5Q.96b0bb` |  |
+| 22.2013 kJ/mol-atom | I4/mmm Sm₃Ti | 0 | DFT | DFT | [Sm–Ti](https://data.orchid-project.org/systems/SM-TI.html) | [1] Saengdeejing 2021 | Table 1, p. 5, row 36; `ORC-OZUBC3I53K.274f07` |  |
+| 22.2109 kJ/mol-atom | D0₂₂ Sm₃Ti | 0 | DFT | DFT | [Sm–Ti](https://data.orchid-project.org/systems/SM-TI.html) | [1] Saengdeejing 2021 | Table 1, p. 5, row 26; `ORC-MCXQCN3TBN.cac024` |  |
+| 28.4149 kJ/mol-atom | D0₂₃ Sm₃Ti | 0 | DFT | DFT | [Sm–Ti](https://data.orchid-project.org/systems/SM-TI.html) | [1] Saengdeejing 2021 | Table 1, p. 5, row 28; `ORC-TETM5CEMUD.e69090` |  |
+| 31.5121 kJ/mol-atom | D0₃ Sm₃Ti | 0 | DFT | DFT | [Sm–Ti](https://data.orchid-project.org/systems/SM-TI.html) | [1] Saengdeejing 2021 | Table 1, p. 5, row 34; `ORC-OOAY3V37FF.1f1d52` |  |
+| 12.7457 kJ/mol-atom | Sm₃Ti | 0 | unspecified |  | [Sm–Ti](https://data.orchid-project.org/systems/SM-TI.html) | [1] Saengdeejing 2021 | Table 2, p. 13, row 1; `ORC-IRDKSBDPTQ` |  |
 
 ### Uncertainty budget
 
@@ -100,4 +100,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

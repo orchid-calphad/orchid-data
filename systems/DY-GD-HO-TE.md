@@ -27,39 +27,39 @@ Table: Invariant reactions reported in the literature for the Dy–Gd–Ho–Te 
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1820 | Liquid -> DyTe + Dy2Te3 | Liquid: Te 0.56; DyTe: Te 0.5; Dy2Te3: Te 0.6 | model | [1] Cui 2023 | Table 3, p. 7, row 24 |  |
-| 1813 | Liquid -> DyTe + Dy2Te3 | Liquid: Te 0.56; DyTe: Te 0.5; Dy2Te3: Te 0.6 | experimental | [1] Cui 2023; _cites Eichler 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990596-c) | Table 3, p. 7, row 23 |  |
-| 1658 | Liquid -> bcc(Dy) + DyTe | Liquid: Te 0.03; bcc(Dy): Te 0; DyTe: Te 0.5 | experimental | [1] Cui 2023; _cites Eichler 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990596-c) | Table 3, p. 7, row 17 |  |
-| 1657 | Liquid -> bcc(Dy) + DyTe | Liquid: Te 0.007; bcc(Dy): Te 0; DyTe: Te 0.5 | model | [1] Cui 2023 | Table 3, p. 7, row 18 |  |
-| 1563 | Liquid -> bcc(Gd) + GdTe | Liquid: Te 0.02; bcc(Gd): Te 0; GdTe: Te 0.5 | experimental | [1] Cui 2023; _cites Abrikosov 1967_ | Table 3, p. 7, row 1 |  |
-| 1548 | Liquid -> bcc(Gd) + GdTe | Liquid: Te 0.01; bcc(Gd): Te 0; GdTe: Te 0.5 | model | [1] Cui 2023 | Table 3, p. 7, row 2 |  |
-| 1528 | Liquid + GdTe -> Gd2Te3 | Liquid: Te 0.704; GdTe: Te 0.5; Gd2Te3: Te 0.581 | model | [1] Cui 2023 | Table 3, p. 7, row 6 |  |
-| 1528 | Liquid + GdTe -> Gd2Te3 | Liquid: Te 0.7; GdTe: Te 0.5; Gd2Te3: Te 0.57 | experimental | [1] Cui 2023; _cites Abrikosov 1967_ | Table 3, p. 7, row 5 |  |
-| 1503 | Liquid + Dy2Te3 -> Dy4Te7 | Liquid: Te 0.65; Dy2Te3: Te 0.6; Dy4Te7: Te 0.636 | experimental | [1] Cui 2023; _cites Eichler 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990596-c) | Table 3, p. 7, row 27 |  |
-| 1496 | Liquid + Dy2Te3 -> Dy4Te7 | Liquid: Te 0.665; Dy2Te3: Te 0.592; Dy4Te7: Te 0.636 | model | [1] Cui 2023 | Table 3, p. 7, row 28 |  |
-| 1463 | Liquid + Gd2Te3 -> Gd4Te7 | Liquid: Te 0.73; Gd2Te3: Te 0.6; Gd4Te7: Te 0.64 | experimental | [1] Cui 2023; _cites Abrikosov 1967_ | Table 3, p. 7, row 7 |  |
-| 1462 | Liquid + Gd2Te3 -> Gd4Te7 | Liquid: Te 0.782; Gd2Te3: Te 0.59; Gd4Te7: Te 0.64 | model | [1] Cui 2023 | Table 3, p. 7, row 8 |  |
-| 1387 | Liquid -> hcp(Ho) + HoTe | Liquid: Te 0.204; HoTe: Te 0.5 | model | [1] Cui 2023 | Table 3, p. 7, row 37 |  |
-| 1383 | Liquid -> hcp(Ho) + HoTe | Liquid: Te 0.23; HoTe: Te 0.5 | experimental | [1] Cui 2023; _cites Ghamri 2013_ [doi](https://doi.org/10.1016/j.jallcom.2012.11.084) | Table 3, p. 7, row 36 |  |
-| 1383 | Liquid -> hcp(Ho) + HoTe | Liquid: Te 0.23; HoTe: Te 0.485 | experimental | [1] Cui 2023; _cites Yarembash 1974_ | Table 3, p. 7, row 35 |  |
-| 1273 | Liquid + Gd4Te7 -> GdTe2 | Liquid: Te 0.9; Gd4Te7: Te 0.636; GdTe2: Te 0.667 | experimental | [1] Cui 2023; _cites Abrikosov 1967_ | Table 3, p. 7, row 9 |  |
-| 1272 | Liquid + Gd4Te7 -> GdTe2 | Liquid: Te 0.897; Gd4Te7: Te 0.636; GdTe2: Te 0.667 | model | [1] Cui 2023 | Table 3, p. 7, row 10 |  |
-| 1193 | Liquid + GdTe2 -> Gd2Te5 | Liquid: Te 0.91; GdTe2: Te 0.667; Gd2Te5: Te 0.714 | experimental | [1] Cui 2023; _cites Abrikosov 1967_ | Table 3, p. 7, row 11 |  |
-| 1193 | Liquid + Dy4Te7 -> Dy4Te9 | Liquid: Te 0.87; Dy4Te7: Te 0.636; Dy4Te9: Te 0.692 | experimental | [1] Cui 2023; _cites Eichler 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990596-c) | Table 3, p. 7, row 29 |  |
-| 1192 | Liquid + Dy4Te7 -> Dy4Te9 | Liquid: Te 0.867; Dy4Te7: Te 0.636; Dy4Te9: Te 0.692 | model | [1] Cui 2023 | Table 3, p. 7, row 30 |  |
-| 1190 | Liquid + GdTe2 -> Gd2Te5 | Liquid: Te 0.917; GdTe2: Te 0.667; Gd2Te5: Te 0.714 | model | [1] Cui 2023 | Table 3, p. 7, row 12 |  |
-| 1128 | Liquid + Dy4Te9 -> Dy4Te11 | Liquid: Te 0.9; Dy4Te9: Te 0.692; Dy4Te11: Te 0.733 | experimental | [1] Cui 2023; _cites Eichler 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990596-c) | Table 3, p. 7, row 31 |  |
-| 1128 | Liquid + Dy4Te9 -> Dy4Te11 | Liquid: Te 0.907; Dy4Te9: Te 0.692; Dy4Te11: Te 0.733 | model | [1] Cui 2023 | Table 3, p. 7, row 32 |  |
-| 1108 | Liquid + Gd2Te5 -> GdTe3 | Liquid: Te 0.92; Gd2Te5: Te 0.714; GdTe3: Te 0.75 | experimental | [1] Cui 2023; _cites Abrikosov 1967_ | Table 3, p. 7, row 13 |  |
-| 1104 | Liquid + Gd2Te5 -> GdTe3 | Liquid: Te 0.94; Gd2Te5: Te 0.714; GdTe3: Te 0.75 | model | [1] Cui 2023 | Table 3, p. 7, row 14 |  |
-| 1073 | Liquid + HoTe -> Dy2Te5 | Liquid: Te 0.918; HoTe: Te 0.536; Dy2Te5: Te 0.714 | model | [1] Cui 2023 | Table 3, p. 7, row 43 |  |
-| 1073 | Liquid + HoTe -> Dy2Te5 | HoTe: Te 0.547; Dy2Te5: Te 0.714 | experimental | [1] Cui 2023; _cites Yarembash 1974_ | Table 3, p. 7, row 41 |  |
-| 1073 | Liquid + HoTe -> Dy2Te5 | Liquid: Te 0.93; HoTe: Te 0.547; Dy2Te5: Te 0.714 | experimental | [1] Cui 2023; _cites Ghamri 2013_ [doi](https://doi.org/10.1016/j.jallcom.2012.11.084) | Table 3, p. 7, row 42 |  |
-| 1053 | Liquid + Ho2Te5 -> HoTe3 | Liquid: Te 0.941; Ho2Te5: Te 0.714; HoTe3: Te 0.75 | experimental | [1] Cui 2023; _cites Ghamri 2013_ [doi](https://doi.org/10.1016/j.jallcom.2012.11.084) | Table 3, p. 7, row 45 |  |
-| 1053 | Liquid + Ho2Te5 -> HoTe3 | Ho2Te5: Te 0.714; HoTe3: Te 0.75 | experimental | [1] Cui 2023; _cites Yarembash 1974_ | Table 3, p. 7, row 44 |  |
-| 728 | Liquid -> Dy4Te11 + hex(Te) | Dy4Te11: Te 0.733; hex(Te): Te 1 | experimental | [1] Cui 2023; _cites Eichler 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990596-c) | Table 3, p. 7, row 33 |  |
-| 723 | Liquid -> GdTe3 + hex(Te) | GdTe3: Te 0.75; hex(Te): Te 1 | experimental | [1] Cui 2023; _cites Abrikosov 1967_ | Table 3, p. 7, row 15 |  |
-| 719 | Liquid -> GdTe3 + hex(Te) | Liquid: Te 0.99; GdTe3: Te 0.75; hex(Te): Te 1 | model | [1] Cui 2023 | Table 3, p. 7, row 16 |  |
+| 1820 | Liquid -> DyTe + Dy2Te3 | Liquid: Te 0.56; DyTe: Te 0.5; Dy2Te3: Te 0.6 | model | [1] Cui 2023 | Table 3, p. 7, row 24; `ORC-UP4GATH2K6` |  |
+| 1813 | Liquid -> DyTe + Dy2Te3 | Liquid: Te 0.56; DyTe: Te 0.5; Dy2Te3: Te 0.6 | experimental | [1] Cui 2023; _cites Eichler 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990596-c) | Table 3, p. 7, row 23; `ORC-NYLQRRI7D6` |  |
+| 1658 | Liquid -> bcc(Dy) + DyTe | Liquid: Te 0.03; bcc(Dy): Te 0; DyTe: Te 0.5 | experimental | [1] Cui 2023; _cites Eichler 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990596-c) | Table 3, p. 7, row 17; `ORC-7MVSANC4TY` |  |
+| 1657 | Liquid -> bcc(Dy) + DyTe | Liquid: Te 0.007; bcc(Dy): Te 0; DyTe: Te 0.5 | model | [1] Cui 2023 | Table 3, p. 7, row 18; `ORC-44LI35DFZV` |  |
+| 1563 | Liquid -> bcc(Gd) + GdTe | Liquid: Te 0.02; bcc(Gd): Te 0; GdTe: Te 0.5 | experimental | [1] Cui 2023; _cites Abrikosov 1967_ | Table 3, p. 7, row 1; `ORC-DVU7KETBE4` |  |
+| 1548 | Liquid -> bcc(Gd) + GdTe | Liquid: Te 0.01; bcc(Gd): Te 0; GdTe: Te 0.5 | model | [1] Cui 2023 | Table 3, p. 7, row 2; `ORC-72XGNEJK53` |  |
+| 1528 | Liquid + GdTe -> Gd2Te3 | Liquid: Te 0.704; GdTe: Te 0.5; Gd2Te3: Te 0.581 | model | [1] Cui 2023 | Table 3, p. 7, row 6; `ORC-PN7UW6SYDX` |  |
+| 1528 | Liquid + GdTe -> Gd2Te3 | Liquid: Te 0.7; GdTe: Te 0.5; Gd2Te3: Te 0.57 | experimental | [1] Cui 2023; _cites Abrikosov 1967_ | Table 3, p. 7, row 5; `ORC-SDBZ7LDKHU` |  |
+| 1503 | Liquid + Dy2Te3 -> Dy4Te7 | Liquid: Te 0.65; Dy2Te3: Te 0.6; Dy4Te7: Te 0.636 | experimental | [1] Cui 2023; _cites Eichler 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990596-c) | Table 3, p. 7, row 27; `ORC-6SZWANJIMB` |  |
+| 1496 | Liquid + Dy2Te3 -> Dy4Te7 | Liquid: Te 0.665; Dy2Te3: Te 0.592; Dy4Te7: Te 0.636 | model | [1] Cui 2023 | Table 3, p. 7, row 28; `ORC-NH433CPX7S` |  |
+| 1463 | Liquid + Gd2Te3 -> Gd4Te7 | Liquid: Te 0.73; Gd2Te3: Te 0.6; Gd4Te7: Te 0.64 | experimental | [1] Cui 2023; _cites Abrikosov 1967_ | Table 3, p. 7, row 7; `ORC-7SSVNLC2GN` |  |
+| 1462 | Liquid + Gd2Te3 -> Gd4Te7 | Liquid: Te 0.782; Gd2Te3: Te 0.59; Gd4Te7: Te 0.64 | model | [1] Cui 2023 | Table 3, p. 7, row 8; `ORC-QHPM5MQ22W` |  |
+| 1387 | Liquid -> hcp(Ho) + HoTe | Liquid: Te 0.204; HoTe: Te 0.5 | model | [1] Cui 2023 | Table 3, p. 7, row 37; `ORC-IJ43GTCAGO` |  |
+| 1383 | Liquid -> hcp(Ho) + HoTe | Liquid: Te 0.23; HoTe: Te 0.5 | experimental | [1] Cui 2023; _cites Ghamri 2013_ [doi](https://doi.org/10.1016/j.jallcom.2012.11.084) | Table 3, p. 7, row 36; `ORC-M4NCQ25ADT` |  |
+| 1383 | Liquid -> hcp(Ho) + HoTe | Liquid: Te 0.23; HoTe: Te 0.485 | experimental | [1] Cui 2023; _cites Yarembash 1974_ | Table 3, p. 7, row 35; `ORC-SLCX5C4QFF` |  |
+| 1273 | Liquid + Gd4Te7 -> GdTe2 | Liquid: Te 0.9; Gd4Te7: Te 0.636; GdTe2: Te 0.667 | experimental | [1] Cui 2023; _cites Abrikosov 1967_ | Table 3, p. 7, row 9; `ORC-ZLX6A7NTYN` |  |
+| 1272 | Liquid + Gd4Te7 -> GdTe2 | Liquid: Te 0.897; Gd4Te7: Te 0.636; GdTe2: Te 0.667 | model | [1] Cui 2023 | Table 3, p. 7, row 10; `ORC-OYEFJF6XE6` |  |
+| 1193 | Liquid + GdTe2 -> Gd2Te5 | Liquid: Te 0.91; GdTe2: Te 0.667; Gd2Te5: Te 0.714 | experimental | [1] Cui 2023; _cites Abrikosov 1967_ | Table 3, p. 7, row 11; `ORC-RLHFEDYQQF` |  |
+| 1193 | Liquid + Dy4Te7 -> Dy4Te9 | Liquid: Te 0.87; Dy4Te7: Te 0.636; Dy4Te9: Te 0.692 | experimental | [1] Cui 2023; _cites Eichler 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990596-c) | Table 3, p. 7, row 29; `ORC-U6YNBALGBP` |  |
+| 1192 | Liquid + Dy4Te7 -> Dy4Te9 | Liquid: Te 0.867; Dy4Te7: Te 0.636; Dy4Te9: Te 0.692 | model | [1] Cui 2023 | Table 3, p. 7, row 30; `ORC-OOCUWTD4DK` |  |
+| 1190 | Liquid + GdTe2 -> Gd2Te5 | Liquid: Te 0.917; GdTe2: Te 0.667; Gd2Te5: Te 0.714 | model | [1] Cui 2023 | Table 3, p. 7, row 12; `ORC-CTA6WNO7UO` |  |
+| 1128 | Liquid + Dy4Te9 -> Dy4Te11 | Liquid: Te 0.9; Dy4Te9: Te 0.692; Dy4Te11: Te 0.733 | experimental | [1] Cui 2023; _cites Eichler 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990596-c) | Table 3, p. 7, row 31; `ORC-ELS6FFT6QU` |  |
+| 1128 | Liquid + Dy4Te9 -> Dy4Te11 | Liquid: Te 0.907; Dy4Te9: Te 0.692; Dy4Te11: Te 0.733 | model | [1] Cui 2023 | Table 3, p. 7, row 32; `ORC-YOBBJS4WE5` |  |
+| 1108 | Liquid + Gd2Te5 -> GdTe3 | Liquid: Te 0.92; Gd2Te5: Te 0.714; GdTe3: Te 0.75 | experimental | [1] Cui 2023; _cites Abrikosov 1967_ | Table 3, p. 7, row 13; `ORC-5ULS5YKLJS` |  |
+| 1104 | Liquid + Gd2Te5 -> GdTe3 | Liquid: Te 0.94; Gd2Te5: Te 0.714; GdTe3: Te 0.75 | model | [1] Cui 2023 | Table 3, p. 7, row 14; `ORC-ALD4LIUQDJ` |  |
+| 1073 | Liquid + HoTe -> Dy2Te5 | Liquid: Te 0.918; HoTe: Te 0.536; Dy2Te5: Te 0.714 | model | [1] Cui 2023 | Table 3, p. 7, row 43; `ORC-AHJXFWNYHM` |  |
+| 1073 | Liquid + HoTe -> Dy2Te5 | HoTe: Te 0.547; Dy2Te5: Te 0.714 | experimental | [1] Cui 2023; _cites Yarembash 1974_ | Table 3, p. 7, row 41; `ORC-TMP3JLQIL7` |  |
+| 1073 | Liquid + HoTe -> Dy2Te5 | Liquid: Te 0.93; HoTe: Te 0.547; Dy2Te5: Te 0.714 | experimental | [1] Cui 2023; _cites Ghamri 2013_ [doi](https://doi.org/10.1016/j.jallcom.2012.11.084) | Table 3, p. 7, row 42; `ORC-UBOT3IR4HG` |  |
+| 1053 | Liquid + Ho2Te5 -> HoTe3 | Liquid: Te 0.941; Ho2Te5: Te 0.714; HoTe3: Te 0.75 | experimental | [1] Cui 2023; _cites Ghamri 2013_ [doi](https://doi.org/10.1016/j.jallcom.2012.11.084) | Table 3, p. 7, row 45; `ORC-7D7OH76ZJG` |  |
+| 1053 | Liquid + Ho2Te5 -> HoTe3 | Ho2Te5: Te 0.714; HoTe3: Te 0.75 | experimental | [1] Cui 2023; _cites Yarembash 1974_ | Table 3, p. 7, row 44; `ORC-REJ6B6NUIL` |  |
+| 728 | Liquid -> Dy4Te11 + hex(Te) | Dy4Te11: Te 0.733; hex(Te): Te 1 | experimental | [1] Cui 2023; _cites Eichler 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990596-c) | Table 3, p. 7, row 33; `ORC-4AUJSOTGQY` |  |
+| 723 | Liquid -> GdTe3 + hex(Te) | GdTe3: Te 0.75; hex(Te): Te 1 | experimental | [1] Cui 2023; _cites Abrikosov 1967_ | Table 3, p. 7, row 15; `ORC-C7SI53ZMM6` |  |
+| 719 | Liquid -> GdTe3 + hex(Te) | Liquid: Te 0.99; GdTe3: Te 0.75; hex(Te): Te 1 | model | [1] Cui 2023 | Table 3, p. 7, row 16; `ORC-YQIW66NO4R` |  |
 
 ## Sources
 
@@ -102,4 +102,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

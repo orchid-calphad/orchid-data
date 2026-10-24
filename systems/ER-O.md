@@ -45,7 +45,7 @@ Table: Enthalpies of formation, Er–O system (1)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| C-Er2O3 | [Er2O3](https://data.orchid-project.org/compounds/Er2O3.html) | -380.02 kJ/mol-atom | 298.15 | model | -391.449 (mp-aaaaabad) | -375.968 (oqmd-5390) | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 35 |  |
+| C-Er2O3 | [Er2O3](https://data.orchid-project.org/compounds/Er2O3.html) | -380.02 kJ/mol-atom | 298.15 | model | -391.449 (mp-aaaaabad) | -375.968 (oqmd-5390) | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 35; `ORC-YTLNURYTD5.18f71f` |  |
 
 ## Other properties
 
@@ -55,12 +55,12 @@ Table: Phase transition, Er–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1273 K | 1273 | polymorphic: C ⇒ B; _alloy: Er 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Hoekstra 1966_ | Table 2.3, p. 10, row 23 |  |
-| Phase transition | 2523 K | 2523 | polymorphic: C ⇔ H; _alloy: Er 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Coutures 1976_ | Table 2.1, p. 7, row 28 |  |
-| Phase transition | 2553 K | 2553 | polymorphic: C ⇔ H; _alloy: Er 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Foex 1966_ | Table 2.1, p. 7, row 27 |  |
-| Phase transition | 2593 K | 2593 | polymorphic: C \<=> H; _alloy: Er 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 2.2, p. 8, row 21 |  |
-| Phase transition | 2593 K | 2593 | polymorphic: C ⇔ H; _alloy: Er 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Shevtchenko 1985_ | Table 2.1, p. 7, row 30 |  |
-| Phase transition | 2593 K | 2593 | polymorphic: C ⇔ H; _alloy: Er 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Tresvyatkii 1971_ | Table 2.1, p. 7, row 29 |  |
+| Phase transition | 1273 K | 1273 | polymorphic: C ⇒ B; _alloy: Er 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Hoekstra 1966_ | Table 2.3, p. 10, row 23; `ORC-7X36L4V3EJ` |  |
+| Phase transition | 2523 K | 2523 | polymorphic: C ⇔ H; _alloy: Er 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Coutures 1976_ | Table 2.1, p. 7, row 28; `ORC-TTDZLVU5FI` |  |
+| Phase transition | 2553 K | 2553 | polymorphic: C ⇔ H; _alloy: Er 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Foex 1966_ | Table 2.1, p. 7, row 27; `ORC-FPGA6MWROG` |  |
+| Phase transition | 2593 K | 2593 | polymorphic: C \<=> H; _alloy: Er 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 2.2, p. 8, row 21; `ORC-WETY7QBAPR` |  |
+| Phase transition | 2593 K | 2593 | polymorphic: C ⇔ H; _alloy: Er 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Shevtchenko 1985_ | Table 2.1, p. 7, row 30; `ORC-UQSFRMICSD` |  |
+| Phase transition | 2593 K | 2593 | polymorphic: C ⇔ H; _alloy: Er 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Tresvyatkii 1971_ | Table 2.1, p. 7, row 29; `ORC-XJTYWACGGM` |  |
 
 ### Heat capacity / entropy / enthalpy (8)
 
@@ -68,14 +68,14 @@ Table: Heat capacity / entropy / enthalpy, Er–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: Δtrs°S_ | 14.223 unknown |  | C-Er₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 40 |  |
-| Entropy; _printed: Δtrs°S_ | 3.885 unknown |  | C-Er₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 38 |  |
-| Entropy; _printed: Δtrs°S_ | 5.38 unknown |  | C-Er₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 39 |  |
-| Entropy; _printed: ΔS_ | 3.873 J mol−1 K−1 |  | Er2O3; _alloy: Er 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Hoekstra 1966_ | Table 5.1, p. 18, row 19 |  |
-| Entropy; _printed: ΔS_ | 3.873 J mol^-1 K^-1 |  | UNKNOWN; _alloy: Er 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Hoekstra 1966_ | Table 5.1, p. 18, row 19 |  |
-| Entropy; _printed: °S_ | 155.64 unknown | 298.15 | C-Er2O3; _alloy: Er 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 35 |  |
-| Entropy; _printed: Δtrs°S_ | 9.654 unknown | 2593 | C-Er₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 36 |  |
-| Entropy; _printed: Δtrs°S_ | 32.346 unknown | 2691 | C-Er₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 37 |  |
+| Entropy; _printed: Δtrs°S_ | 14.223 unknown |  | C-Er₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 40; `ORC-3OSG4JJAFR.497825` |  |
+| Entropy; _printed: Δtrs°S_ | 3.885 unknown |  | C-Er₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 38; `ORC-HYIQE3N2MU.a2a992` |  |
+| Entropy; _printed: Δtrs°S_ | 5.38 unknown |  | C-Er₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 39; `ORC-UUZMVFQPNB.b9cb79` |  |
+| Entropy; _printed: ΔS_ | 3.873 J mol−1 K−1 |  | Er2O3; _alloy: Er 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Hoekstra 1966_ | Table 5.1, p. 18, row 19; `ORC-QQYK3KWIZA.1d6466` |  |
+| Entropy; _printed: ΔS_ | 3.873 J mol^-1 K^-1 |  | UNKNOWN; _alloy: Er 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Hoekstra 1966_ | Table 5.1, p. 18, row 19; `ORC-QQYK3KWIZA.be1c3f` |  |
+| Entropy; _printed: °S_ | 155.64 unknown | 298.15 | C-Er2O3; _alloy: Er 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 35; `ORC-YTLNURYTD5.4a0463` |  |
+| Entropy; _printed: Δtrs°S_ | 9.654 unknown | 2593 | C-Er₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 36; `ORC-VPE7ZFDZBD.1b1a1d` |  |
+| Entropy; _printed: Δtrs°S_ | 32.346 unknown | 2691 | C-Er₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 37; `ORC-AUXUS34LS2.f048b4` |  |
 
 ### Crystal structure (3)
 
@@ -83,9 +83,9 @@ Table: Crystal structure, Er–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| lattice molar volume | 40.677 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Er 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 14 |  |
-| lattice molar volume | 39.799 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Er 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 14 |  |
-| lattice molar volume | 44.163 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Er 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 14 |  |
+| lattice molar volume | 40.677 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Er 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 14; `ORC-FY5YQWB4ZI.7a3cc4` |  |
+| lattice molar volume | 39.799 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Er 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 14; `ORC-FY5YQWB4ZI.b8b89f` |  |
+| lattice molar volume | 44.163 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Er 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 14; `ORC-FY5YQWB4ZI.d69be7` |  |
 
 ### Other property (5)
 
@@ -93,11 +93,11 @@ Table: Other property, Er–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Transition enthalpy; _printed: Δtrs°H_ | 37614 unknown |  | C-Er₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 40 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 12464 unknown |  | C-Er₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 38 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 20703 unknown |  | C-Er₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 39 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 25033 unknown | 2593 | C-Er₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 36 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 87044 unknown | 2691 | C-Er₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 37 |  |
+| Transition enthalpy; _printed: Δtrs°H_ | 37614 unknown |  | C-Er₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 40; `ORC-3OSG4JJAFR.7294e9` |  |
+| Transition enthalpy; _printed: Δtrs°H_ | 12464 unknown |  | C-Er₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 38; `ORC-HYIQE3N2MU.8fafc2` |  |
+| Transition enthalpy; _printed: Δtrs°H_ | 20703 unknown |  | C-Er₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 39; `ORC-UUZMVFQPNB.53e8fc` |  |
+| Transition enthalpy; _printed: Δtrs°H_ | 25033 unknown | 2593 | C-Er₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 36; `ORC-VPE7ZFDZBD.e4e982` |  |
+| Transition enthalpy; _printed: Δtrs°H_ | 87044 unknown | 2691 | C-Er₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 37; `ORC-AUXUS34LS2.5384e5` |  |
 
 ## Sources
 
@@ -162,4 +162,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -82,120 +82,120 @@ Table: Invariant reactions reported in the literature for the Ni–Sb system (11
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1444 | L \<-> Ni3Sb_HT | L: Sb 0.285; Ni3Sb_HT: Ni 0.75, Sb 0.25 | experimental | [1] CAO 2008; _cites Panteleimonov 1964_ | Table 3, p. 6, row 12 |  |
-| 1443 | congruent melting: L ↔ (βNi5Sb2) | L: Sb 0.29; (βNi5Sb2): Sb 0.29 | experimental | [2] Zhang 2008; _cites Eremenko 1951_ | Table 3, p. 4, row 21 |  |
-| 1443 | congruent melting: L ↔ (βNi5Sb2) | L: Sb 0.29; (βNi5Sb2): Sb 0.29 | experimental | [2] Zhang 2008; _cites Panteleimonov 1964_ | Table 3, p. 4, row 22 |  |
-| 1443 | L \<-> Ni3Sb_HT | L: Sb 0.283; Ni3Sb_HT: Ni 0.75, Sb 0.25 | experimental | [1] CAO 2008; _cites Lossew 1906_ | Table 3, p. 6, row 10 |  |
-| 1443 | congruent melting: L ↔ (βNi5Sb2) | L: Sb 0.283; (βNi5Sb2): Sb 0.283 | experimental | [2] Zhang 2008; _cites Lossew 1906_ [doi](https://doi.org/10.1002/zaac.19060490107) | Table 3, p. 4, row 19 |  |
-| 1443 | L \<-> Ni3Sb_HT | L: Sb 0.267; Ni3Sb_HT: Ni 0.75, Sb 0.25 | model | [1] CAO 2008 | Table 3, p. 6, row 14 |  |
-| 1438 | L \<-> NiSb | L: Sb 0.475; NiSb: Ni 0.5, Sb 0.5 | model | [1] CAO 2008 | Table 3, p. 6, row 32 |  |
-| 1435 | congruent melting: L ↔ (βNi5Sb2) | L: Sb 0.293; (βNi5Sb2): Sb 0.293 | experimental | [2] Zhang 2008; _cites Shibata 1939_ | Table 3, p. 4, row 20 |  |
-| 1435 | L \<-> Ni3Sb_HT | L: Sb 0.279; Ni3Sb_HT: Ni 0.75, Sb 0.25 | experimental | [1] CAO 2008; _cites Shibata 1939_ | Table 3, p. 6, row 11 |  |
-| 1434 | congruent melting: L ↔ (βNi3Sb) | L: Sb 0.2627; (βNi3Sb): Sb 0.2627 | experimental | [2] Zhang 2008 | Table 3, p. 4, row 25 |  |
-| 1434 | congruent melting: L ↔ (βNi5Sb2) | L: Sb 0.279; (βNi5Sb2): Sb 0.279 | model | [2] Zhang 2008; _cites Cha 1991_ | Table 3, p. 4, row 24 |  |
-| 1434 | congruent melting: L ↔ (βNi3Sb) | L: Sb 0.279; (βNi3Sb): Sb 0.279 | experimental | [2] Zhang 2008; _cites Feschotte 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990235-x) | Table 3, p. 4, row 23 |  |
-| 1434 | L \<-> Ni3Sb_HT | L: Sb 0.279; Ni3Sb_HT: Ni 0.75, Sb 0.25 | experimental | [1] CAO 2008; _cites Feschotte 1989_ | Table 3, p. 6, row 13 |  |
-| 1432 | congruent melting: L ↔ (γNiSb) | L: Sb 0.47; γNiSb: Sb 0.47 | experimental | [2] Zhang 2008; _cites Leubolt 1986_ [doi](https://doi.org/10.1002/zaac.19865330226) | Table 3, p. 5, row 3 |  |
-| 1432 | L \<-> NiSb | L: Sb 0.47; NiSb: Ni 0.5, Sb 0.5 | experimental | [1] CAO 2008; _cites Leubolt 1986_ | Table 3, p. 6, row 30 |  |
-| 1431 | congruent melting: L ↔ (γNiSb) | L: Sb 0.4965; γNiSb: Sb 0.4965 | experimental | [2] Zhang 2008; _cites Lossew 1906_ [doi](https://doi.org/10.1002/zaac.19060490107) | Table 3, p. 5, row 1 |  |
-| 1431 | L \<-> NiSb | L: Sb 0.497; NiSb: Ni 0.5, Sb 0.5 | experimental | [1] CAO 2008; _cites Lossew 1906_ | Table 3, p. 6, row 27 |  |
-| 1426 | L \<-> NiSb | L: Sb 0.494; NiSb: Ni 0.5, Sb 0.5 | experimental | [1] CAO 2008; _cites Shibata 1939_ | Table 3, p. 6, row 28 |  |
-| 1426 | congruent melting: L ↔ (γNiSb) | L: Sb 0.484; γNiSb: Sb 0.484 | experimental | [2] Zhang 2008; _cites Shibata 1939_ | Table 3, p. 5, row 2 |  |
-| 1420 | congruent melting: L ↔ (γNiSb) | L: Sb 0.4838; γNiSb: Sb 0.4838 | model | [2] Zhang 2008 | Table 3, p. 5, row 6 |  |
-| 1420 | congruent melting: L ↔ (γNiSb) | L: Sb 0.489; γNiSb: Sb 0.489 | model | [2] Zhang 2008; _cites Cha 1991_ | Table 3, p. 5, row 5 |  |
-| 1420 | congruent melting: L ↔ (γNiSb) | L: Sb 0.489; γNiSb: Sb 0.489 | experimental | [2] Zhang 2008; _cites Feschotte 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990235-x) | Table 3, p. 5, row 4 |  |
-| 1420 | L \<-> NiSb | L: Sb 0.489; NiSb: Ni 0.5, Sb 0.5 | experimental | [1] CAO 2008; _cites Feschotte 1989_ | Table 3, p. 6, row 31 |  |
-| 1413 | L \<-> NiSb | L: Sb 0.47; NiSb: Ni 0.5, Sb 0.5 | experimental | [1] CAO 2008; _cites Chen 1978_ | Table 3, p. 6, row 29 |  |
-| 1375 | eutectic: L ↔ (αNi) + (βNi5Sb2) | (βNi5Sb2): Ni 0.714286, Sb 0.285714 | experimental | [2] Zhang 2008; _cites Panteleimonov 1964_ | Table 3, p. 4, row 6 |  |
-| 1375 | eutectic: L ↔ (αNi) + (βNi5Sb2) | L: Sb 0.213; (βNi5Sb2): Ni 0.714286, Sb 0.285714 | experimental | [2] Zhang 2008; _cites Eremenko 1951_ | Table 3, p. 4, row 5 |  |
-| 1373 | eutectic: L ↔ (αNi) + (βNi5Sb2) | (αNi): Sb 0.0367; (βNi5Sb2): Ni 0.714286, Sb 0.285714 | experimental | [2] Zhang 2008; _cites Lossew 1906_ [doi](https://doi.org/10.1002/zaac.19060490107) | Table 3, p. 4, row 3 |  |
-| 1373 | L \<-> fcc(Ni)+Ni3Sb_HT | L: Sb 0.205; fcc(Ni): Sb 0.038; Ni3Sb_HT: Sb 0.267 | experimental | [1] CAO 2008; _cites Lossew 1906_ | Table 3, p. 6, row 1 |  |
-| 1372 | eutectic: L ↔ (αNi) + (βNi3Sb) | L: Sb 0.1823; (αNi): Sb 0.085665; (βNi3Sb): Sb 0.2584 | experimental | [2] Zhang 2008 | Table 3, p. 4, row 10 |  |
-| 1371 | L \<-> fcc(Ni)+Ni3Sb_HT | L: Sb 0.189; fcc(Ni): Sb 0.104; Ni3Sb_HT: Sb 0.255 | model | [1] CAO 2008 | Table 3, p. 6, row 4 |  |
-| 1370 | eutectic: L ↔ (αNi) + (βNi5Sb2) | L: Sb 0.2133; (αNi): Sb 0.084; (βNi5Sb2): Ni 0.714286, Sb 0.285714 | experimental | [2] Zhang 2008; _cites Shibata 1939_ | Table 3, p. 4, row 4 |  |
-| 1370 | eutectic: L ↔ (αNi) + (βNi3Sb) | L: Sb 0.23; (αNi): Sb 0.085; (βNi3Sb): Sb 0.252 | experimental | [2] Zhang 2008; _cites Feschotte 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990235-x) | Table 3, p. 4, row 8 |  |
-| 1370 | eutectic: L ↔ (αNi) + (βNi5Sb2) | L: Sb 0.23; (αNi): Sb 0.09; (βNi5Sb2): Sb 0.252 | model | [2] Zhang 2008; _cites Cha 1991_ | Table 3, p. 4, row 9 |  |
-| 1370 | eutectic: L ↔ (αNi) + (βNi5Sb2) | (αNi): Sb 0.094; (βNi5Sb2): Ni 0.714286, Sb 0.285714 | experimental | [2] Zhang 2008; _cites Naud 1972_ [doi](https://doi.org/10.1016/0025-5408%2872%2990207-3) | Table 3, p. 4, row 7 |  |
-| 1370 | L \<-> fcc(Ni)+Ni3Sb_HT | L: Sb 0.216; fcc(Ni): Sb 0.084; Ni3Sb_HT: Sb 0.236 | experimental | [1] CAO 2008; _cites Shibata 1939_ | Table 3, p. 6, row 2 |  |
-| 1370 | L \<-> fcc(Ni)+Ni3Sb_HT | L: Sb 0.23; fcc(Ni): Sb 0.09; Ni3Sb_HT: Sb 0.252 | experimental | [1] CAO 2008; _cites Feschotte 1989_ | Table 3, p. 6, row 3 |  |
-| 1364 | L \<-> Ni3Sb_HT+NiSb | L: Sb 0.357; Ni3Sb_HT: Sb 0.281; NiSb: Sb 0.437 | model | [1] CAO 2008 | Table 3, p. 6, row 26 |  |
-| 1353 | eutectic: L ↔ (βNi5Sb2) + (γNiSb) | L: Sb 0.35; (βNi5Sb2): Ni 0.714286, Sb 0.285714; (γNiSb): Ni 0.5, Sb 0.5 | experimental | [2] Zhang 2008; _cites Panteleimonov 1964_ | Table 3, p. 4, row 49 |  |
-| 1353 | eutectic: L ↔ (βNi5Sb2) + (γNiSb) | L: Sb 0.35; (βNi5Sb2): Ni 0.714286, Sb 0.285714; (γNiSb): Ni 0.5, Sb 0.5 | experimental | [2] Zhang 2008; _cites Eremenko 1951_ | Table 3, p. 4, row 48 |  |
-| 1349 | eutectic: L ↔ (βNi3Sb) + (γNiSb) | L: Sb 0.3667; (βNi3Sb): Sb 0.2885; (γNiSb): Sb 0.46 | experimental | [2] Zhang 2008 | Table 3, p. 4, row 54 |  |
-| 1348 | eutectic: L ↔ (βNi5Sb2) + (γNiSb) | (βNi5Sb2): Ni 0.714286, Sb 0.285714; (γNiSb): Ni 0.5, Sb 0.5 | experimental | [2] Zhang 2008; _cites Leubolt 1986_ [doi](https://doi.org/10.1002/zaac.19865330226) | Table 3, p. 4, row 51 |  |
-| 1348 | L \<-> Ni3Sb_HT+NiSb | Ni3Sb_HT: Ni 0.75, Sb 0.25; NiSb: Ni 0.5, Sb 0.5 | experimental | [1] CAO 2008; _cites Leubolt 1986_ | Table 3, p. 6, row 24 |  |
-| 1345 | eutectic: L ↔ (βNi3Sb) + (γNiSb) | L: Sb 0.35; (βNi3Sb): Sb 0.288; (γNiSb): Sb 0.43 | experimental | [2] Zhang 2008; _cites Feschotte 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990235-x) | Table 3, p. 4, row 52 |  |
-| 1345 | L \<-> Ni3Sb_HT+NiSb | L: Sb 0.35; Ni3Sb_HT: Sb 0.288; NiSb: Sb 0.43 | experimental | [1] CAO 2008; _cites Feschotte 1989_ | Table 3, p. 6, row 25 |  |
-| 1345 | eutectic: L ↔ (βNi5Sb2) + (γNiSb) | L: Sb 0.3467; (βNi5Sb2): Sb 0.283; (γNiSb): Sb 0.4965 | experimental | [2] Zhang 2008; _cites Lossew 1906_ [doi](https://doi.org/10.1002/zaac.19060490107) | Table 3, p. 4, row 46 |  |
-| 1345 | L \<-> Ni3Sb_HT+NiSb | L: Sb 0.347; Ni3Sb_HT: Sb 0.283; NiSb: Sb 0.42 | experimental | [1] CAO 2008; _cites Lossew 1906_ | Table 3, p. 6, row 22 |  |
-| 1345 | eutectic: L ↔ (βNi5Sb2) + (γNiSb) | L: Sb 0.37; (βNi5Sb2): Sb 0.288; (γNiSb): Sb 0.43 | model | [2] Zhang 2008; _cites Cha 1991_ | Table 3, p. 4, row 53 |  |
-| 1343 | eutectic: L ↔ (βNi5Sb2) + (γNiSb) | L: Sb 0.37; (βNi5Sb2): Ni 0.714286, Sb 0.285714; (γNiSb): Ni 0.5, Sb 0.5 | experimental | [2] Zhang 2008; _cites Shibata 1939_ | Table 3, p. 4, row 47 |  |
-| 1343 | L \<-> Ni3Sb_HT+NiSb | L: Sb 0.37; Ni3Sb_HT: Sb 0.299; NiSb: Sb 0.432 | experimental | [1] CAO 2008; _cites Shibata 1939_ | Table 3, p. 6, row 23 |  |
-| 1343 | eutectic: L ↔ (βNi5Sb2) + (γNiSb) | (βNi5Sb2): Ni 0.714286, Sb 0.285714; (γNiSb): Ni 0.5, Sb 0.5 | experimental | [2] Zhang 2008; _cites Naud 1972_ [doi](https://doi.org/10.1016/0025-5408%2872%2990207-3) | Table 3, p. 4, row 50 |  |
-| 1163 | polymorphic: (βNi5Sb2) ↔ (β'Ni5Sb2) | (βNi5Sb2): Ni 0.714286, Sb 0.285714 | experimental | [2] Zhang 2008; _cites Panteleimonov 1964_ | Table 3, p. 4, row 27 |  |
-| 989 | peritectoid: (αNi) + (βNi3Sb) ↔ (δNi3Sb) | (αNi): Sb 0.08167; (βNi3Sb): Sb 0.261; (δNi3Sb): Sb 0.2456 | experimental | [2] Zhang 2008 | Table 3, p. 4, row 18 |  |
-| 988 | fcc(Ni)+Ni3Sb_HT \<-> Ni3Sb | fcc(Ni): Sb 0.09; Ni3Sb_HT: Sb 0.25; Ni3Sb: Sb 0.237 | experimental | [1] CAO 2008; _cites Feschotte 1989_ | Table 3, p. 6, row 6 |  |
-| 988 | peritectoid: (αNi) + (βNi3Sb) ↔ (δNi3Sb) | (βNi3Sb): Sb 0.257; (δNi3Sb): Sb 0.237 | experimental | [2] Zhang 2008; _cites Feschotte 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990235-x) | Table 3, p. 4, row 16 |  |
-| 988 | fcc(Ni)+Ni3Sb_HT \<-> Ni3Sb | fcc(Ni): Sb 0.09; Ni3Sb_HT: Sb 0.257; Ni3Sb: Sb 0.237 | experimental | [1] CAO 2008; _cites Nash 1991_ | Table 3, p. 6, row 8 |  |
-| 988 | peritectoid: (αNi) + (βNi5Sb2) ↔ (δNi3Sb) | (αNi): Sb 0.09; (βNi5Sb2): Sb 0.257; (δNi3Sb): Sb 0.237 | model | [2] Zhang 2008; _cites Cha 1991_ | Table 3, p. 4, row 17 |  |
-| 987 | fcc(Ni)+Ni3Sb_HT \<-> Ni3Sb | fcc(Ni): Sb 0.086; Ni3Sb_HT: Sb 0.258; Ni3Sb: Sb 0.25 | model | [1] CAO 2008 | Table 3, p. 6, row 9 |  |
-| 982 | peritectoid: (αNi) + (βNi5Sb2) ↔ δNi3Sb | (αNi): Sb 0.094; (βNi5Sb2): Ni 0.714286, Sb 0.285714; δNi3Sb: Ni 0.75, Sb 0.25 | experimental | [2] Zhang 2008; _cites Naud 1972_ [doi](https://doi.org/10.1016/0025-5408%2872%2990207-3) | Table 3, p. 4, row 15 |  |
-| 973 | peritectoid: (αNi) + (βNi5Sb2) ↔ (δNi13Sb4) | (βNi5Sb2): Ni 0.714286, Sb 0.285714 | experimental | [2] Zhang 2008; _cites Panteleimonov 1964_ | Table 3, p. 4, row 14 |  |
-| 971 | fcc(Ni)+Ni3Sb_HT \<-> Ni3Sb | fcc(Ni): Sb 0.081; Ni3Sb_HT: Sb 0.25; Ni3Sb: Sb 0.25 | experimental | [1] CAO 2008; _cites Shibata 1939_ | Table 3, p. 6, row 5 |  |
-| 971 | peritectoid: (αNi) + (βNi5Sb2) ↔ (δNi3Sb) | (αNi): Sb 0.084; (βNi5Sb2): Sb 0.25; (δNi3Sb): Ni 0.75, Sb 0.25 | experimental | [2] Zhang 2008; _cites Shibata 1939_ | Table 3, p. 4, row 12 |  |
-| 958 | fcc(Ni)+Ni3Sb_HT \<-> Ni3Sb | Ni3Sb_HT: Ni 0.75, Sb 0.25; Ni3Sb: Ni 0.75, Sb 0.25 | experimental | [1] CAO 2008; _cites Elbakkouri 1986_ | Table 3, p. 6, row 7 |  |
-| 950 | peritectoid: (αNi) + (βNi5Sb2) ↔ δNi4Sb | (αNi): Sb 0.0376; (βNi5Sb2): Ni 0.714286, Sb 0.285714; δNi4Sb: Sb 0.2 | experimental | [2] Zhang 2008; _cites Lossew 1906_ [doi](https://doi.org/10.1002/zaac.19060490107) | Table 3, p. 4, row 11 |  |
-| 932 | peritectoid: (αNi) + (βNi5Sb2) ↔ (δNi3Sb) | (βNi5Sb2): Ni 0.714286, Sb 0.285714; (δNi3Sb): Ni 0.75, Sb 0.25 | experimental | [2] Zhang 2008; _cites Eremenko 1951_ | Table 3, p. 4, row 13 |  |
-| 901 | L+NiSb \<-> NiSb2 | L: Sb 0.956; NiSb: Sb 0.54; NiSb2: Sb 0.667 | model | [1] CAO 2008 | Table 3, p. 6, row 37 |  |
-| 899 | peritectic: L + (γNiSb) ↔ ζNiSb2 | γNiSb: Ni 0.5, Sb 0.5; ζNiSb2: Ni 0.333333, Sb 0.666667 | experimental | [2] Zhang 2008; _cites Naud 1972_ [doi](https://doi.org/10.1016/0025-5408%2872%2990207-3) | Table 3, p. 5, row 9 |  |
-| 899 | peritectic: L + (γNiSb) ↔ ζNiSb2 | L: Sb 0.95; γNiSb: Ni 0.5, Sb 0.5; ζNiSb2: Ni 0.333333, Sb 0.666667 | experimental | [2] Zhang 2008; _cites Shibata 1939_ | Table 3, p. 5, row 8 |  |
-| 897 | L+NiSb \<-> NiSb2 | NiSb: Ni 0.5, Sb 0.5; NiSb2: Ni 0.333333, Sb 0.666667 | experimental | [1] CAO 2008; _cites Leubolt 1986_ | Table 3, p. 6, row 36 |  |
-| 897 | peritectic: L + (γNiSb) ↔ ζNiSb2 | γNiSb: Ni 0.5, Sb 0.5; ζNiSb2: Ni 0.333333, Sb 0.666667 | experimental | [2] Zhang 2008; _cites Leubolt 1986_ [doi](https://doi.org/10.1002/zaac.19865330226) | Table 3, p. 5, row 11 |  |
-| 894 | peritectic: L + (γNiSb) ↔ (ζNiSb2) | L: Sb 0.97; γNiSb: Sb 0.52; ζNiSb2: Sb 0.665 | model | [2] Zhang 2008; _cites Cha 1991_ | Table 3, p. 5, row 13 |  |
-| 894 | peritectic: L + (γNiSb) ↔ ζNiSb2 | L: Sb 0.96; γNiSb: Sb 0.5354; ζNiSb2: Sb 0.6667 | model | [2] Zhang 2008 | Table 3, p. 5, row 14 |  |
-| 894 | peritectic: L + (γNiSb) ↔ ζNiSb2 | L: Sb 0.97; γNiSb: Sb 0.52; ζNiSb2: Sb 0.662 | experimental | [2] Zhang 2008; _cites Feschotte 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990235-x) | Table 3, p. 5, row 10 |  |
-| 894 | L \<-> NiSb2+rhomb (Sb) | L: Sb 0.961; NiSb2: Sb 0.667; rhomb (Sb): Sb 1 | model | [1] CAO 2008 | Table 3, p. 6, row 41 |  |
-| 894 | L+NiSb \<-> NiSb2 | L: Sb 0.96; NiSb: Sb 0.52; NiSb2: Sb 0.662 | experimental | [1] CAO 2008; _cites Feschotte 1989_ | Table 3, p. 6, row 35 |  |
-| 890 | eutectic: L ↔ ζNiSb2 + εSb | L: Sb 0.96; ζNiSb2: Sb 0.6667; εSb: Sb 1 | model | [2] Zhang 2008 | Table 3, p. 5, row 20 |  |
-| 889 | L+NiSb \<-> NiSb2 | L: Sb 0.95; NiSb: Sb 0.535; NiSb2: Sb 0.713 | experimental | [1] CAO 2008; _cites Shibata 1939_ | Table 3, p. 6, row 34 |  |
-| 889 | eutectic: L ↔ ζNiSb2 + (εSb) | L: Sb 0.96; ζNiSb2: Sb 0.714 | experimental | [2] Zhang 2008; _cites Shibata 1939_ | Table 3, p. 5, row 16 |  |
-| 889 | eutectic: L ↔ ζNiSb2 + (εSb) | ζNiSb2: Ni 0.333333, Sb 0.666667 | experimental | [2] Zhang 2008; _cites Naud 1972_ [doi](https://doi.org/10.1016/0025-5408%2872%2990207-3) | Table 3, p. 5, row 17 |  |
-| 889 | L \<-> NiSb2+rhomb (Sb) | L: Sb 0.97; NiSb2: Sb 0.722; rhomb (Sb): Sb 0.995 | experimental | [1] CAO 2008; _cites Shibata 1939_ | Table 3, p. 6, row 39 |  |
-| 885 | congruent transformation: (βNi3Sb) ↔ (θNi5Sb2) | (βNi3Sb): Ni 0.75, Sb 0.25; (θNi5Sb2): Sb 0.285 | experimental | [2] Zhang 2008 | Table 3, p. 4, row 30 |  |
-| 885 | L+NiSb \<-> NiSb2 | L: Sb 0.941; NiSb: Sb 0.42; NiSb2: Sb 0.552 | experimental | [1] CAO 2008; _cites Lossew 1906_ | Table 3, p. 6, row 33 |  |
-| 885 | peritectic: L + (γNiSb) ↔ (ζNi4Sb5) | L: Sb 0.9456; γNiSb: Sb 0.4965; ζNi4Sb5: Sb 0.5522; (ζNi4Sb5): Sb 0.5522 | experimental | [2] Zhang 2008; _cites Lossew 1906_ [doi](https://doi.org/10.1002/zaac.19060490107) | Table 3, p. 5, row 7 |  |
-| 884 | eutectic: L ↔ ζNi4Sb5 + (εSb) | L: Sb 0.9456; ζNi4Sb5: Sb 0.5522 | experimental | [2] Zhang 2008; _cites Lossew 1906_ [doi](https://doi.org/10.1002/zaac.19060490107) | Table 3, p. 5, row 15 |  |
-| 884 | L \<-> NiSb2+rhomb (Sb) | L: Sb 0.946; NiSb2: Sb 0.552; rhomb (Sb): Sb 1 | experimental | [1] CAO 2008; _cites Lossew 1906_ | Table 3, p. 6, row 38 |  |
-| 883 | peritectic: L + (γNiSb) ↔ ζNiSb2 | γNiSb: Ni 0.5, Sb 0.5; ζNiSb2: Ni 0.333333, Sb 0.666667 | experimental | [2] Zhang 2008; _cites Kjekshus 1977_ [doi](https://doi.org/10.3891/acta.chem.scand.31a-0517) | Table 3, p. 5, row 12 |  |
-| 882 | L \<-> NiSb2+rhomb (Sb) | L: Sb 0.97; NiSb2: Sb 0.665; rhomb (Sb): Sb 0.998 | experimental | [1] CAO 2008; _cites Feschotte 1989_ | Table 3, p. 6, row 40 |  |
-| 882 | eutectic: L ↔ ζNiSb2 + (εSb) | L: Sb 0.98; ζNiSb2: Sb 0.666; εSb: Sb 0.999; (εSb): Sb 0.999 | experimental | [2] Zhang 2008; _cites Feschotte 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990235-x) | Table 3, p. 5, row 18 |  |
-| 873 | congruent transformation: (βNi3Sb) ↔ (θNi5Sb2) | (βNi3Sb): Ni 0.75, Sb 0.25; (θNi5Sb2): Sb 0.283 | experimental | [2] Zhang 2008; _cites Feschotte 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990235-x) | Table 3, p. 4, row 28 |  |
-| 873 | congruent transformation: (βNi5Sb2) ↔ (θNi7Sb3) | (βNi5Sb2): Ni 0.714286, Sb 0.285714; (θNi7Sb3): Sb 0.283 | model | [2] Zhang 2008; _cites Cha 1991_ | Table 3, p. 4, row 29 |  |
-| 865 | polymorphic: (βNi5Sb2) ↔ (β'Ni5Sb2) + (γNiSb) | (βNi5Sb2): Ni 0.714286, Sb 0.285714; (γNiSb): Ni 0.5, Sb 0.5 | experimental | [2] Zhang 2008; _cites Leubolt 1986_ [doi](https://doi.org/10.1002/zaac.19865330226) | Table 3, p. 4, row 35 |  |
-| 865 | Ni3Sb_HT+NiSb \<-> Ni7Sb3 | Ni3Sb_HT: Ni 0.75, Sb 0.25; NiSb: Ni 0.5, Sb 0.5; Ni7Sb3: Ni 0.717, Sb 0.283 | experimental | [1] CAO 2008; _cites Leubolt 1986_ | Table 3, p. 6, row 16 |  |
-| 861 | peritectoid: (β'Ni5Sb2) + (γNiSb) ↔ (θNi7Sb3) | (β'Ni5Sb2): Ni 0.714286, Sb 0.285714; (γNiSb): Ni 0.5, Sb 0.5; (θNi7Sb3): Sb 0.3 | experimental | [2] Zhang 2008; _cites Shibata 1939_ | Table 3, p. 4, row 31 |  |
-| 861 | peritectoid: (β'Ni5Sb2) + (γNiSb) ↔ (θNi7Sb3) | (β'Ni5Sb2): Ni 0.714286, Sb 0.285714; (γNiSb): Ni 0.5, Sb 0.5 | experimental | [2] Zhang 2008; _cites Naud 1972_ [doi](https://doi.org/10.1016/0025-5408%2872%2990207-3) | Table 3, p. 4, row 34 |  |
-| 857 | eutectoid: (βNi3Sb) ↔ θNi5Sb2 + (γNiSb) | (βNi3Sb): Sb 0.292; θNi5Sb2: Sb 0.285; (γNiSb): Sb 0.462 | experimental | [2] Zhang 2008 | Table 3, p. 4, row 38 |  |
-| 855 | eutectoid: (βNi3Sb) ↔ θNi5Sb2 + (γNiSb) | (βNi3Sb): Sb 0.288; θNi5Sb2: Sb 0.284; (γNiSb): Sb 0.465 | experimental | [2] Zhang 2008; _cites Feschotte 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990235-x) | Table 3, p. 4, row 36 |  |
-| 855 | eutectoid: (βNi5Sb2) ↔ θNi7Sb3 + (γNiSb) | (βNi5Sb2): Sb 0.288; θNi7Sb3: Sb 0.284; (γNiSb): Sb 0.465 | model | [2] Zhang 2008; _cites Cha 1991_ | Table 3, p. 4, row 37 |  |
-| 855 | Ni3Sb_HT+NiSb \<-> Ni7Sb3 | Ni3Sb_HT: Sb 0.288; NiSb: Sb 0.284; Ni7Sb3: Sb 0.465 | experimental | [1] CAO 2008; _cites Feschotte 1989_ | Table 3, p. 6, row 15 |  |
-| 853 | polymorphic: (βNi5Sb2) ↔ (β'Ni5Sb2) | (βNi5Sb2): Ni 0.714286, Sb 0.285714 | experimental | [2] Zhang 2008; _cites Lossew 1906_ [doi](https://doi.org/10.1002/zaac.19060490107) | Table 3, p. 4, row 26 |  |
-| 853 | Ni3Sb_HT+NiSb \<-> Ni7Sb3 | Ni3Sb_HT: Sb 0.279; NiSb: Sb 0.283; Ni7Sb3: Sb 0.44 | model | [1] CAO 2008 | Table 3, p. 6, row 17 |  |
-| 833 | eutectoid: (βNi5Sb2) ↔ θNi5Sb2 + (γNiSb) | (βNi5Sb2): Sb 0.32; θNi5Sb2: Ni 0.714286, Sb 0.285714; (γNiSb): Ni 0.5, Sb 0.5 | experimental | [2] Zhang 2008; _cites Panteleimonov 1964_ | Table 3, p. 4, row 33 |  |
-| 829 | Ni3Sb_HT \<-> Ni3Sb+Ni7Sb3 | Ni3Sb_HT: Sb 0.271; Ni3Sb: Sb 0.25; Ni7Sb3: Sb 0.283 | model | [1] CAO 2008 | Table 3, p. 6, row 21 |  |
-| 820 | eutectoid: (βNi5Sb2) ↔ (θNi5Sb2) + (γNiSb) | (βNi5Sb2): Ni 0.714286, Sb 0.285714; (θNi5Sb2): Ni 0.714286, Sb 0.285714; (γNiSb): Ni 0.5, Sb 0.5 | experimental | [2] Zhang 2008; _cites Eremenko 1951_ | Table 3, p. 4, row 32 |  |
-| 808 | eutectoid: (β'Ni5Sb2) ↔ δNi3Sb + (θNi7Sb3) | (β'Ni5Sb2): Ni 0.714286, Sb 0.285714; δNi3Sb: Ni 0.75, Sb 0.25 | experimental | [2] Zhang 2008; _cites Naud 1972_ [doi](https://doi.org/10.1016/0025-5408%2872%2990207-3) | Table 3, p. 4, row 42 |  |
-| 806 | Ni3Sb_HT \<-> Ni3Sb+Ni7Sb3 | Ni3Sb_HT: Sb 0.288; Ni3Sb: Sb 0.254; Ni7Sb3: Sb 0.293 | experimental | [1] CAO 2008; _cites Shibata 1939_ | Table 3, p. 6, row 18 |  |
-| 806 | eutectoid: (β'Ni5Sb2) ↔ (δNi3Sb) + (θNi7Sb3) | (β'Ni5Sb2): Sb 0.283; (δNi3Sb): Ni 0.75, Sb 0.25 | experimental | [2] Zhang 2008; _cites Shibata 1939_ | Table 3, p. 4, row 39 |  |
-| 803 | Ni3Sb_HT \<-> Ni3Sb+Ni7Sb3 | Ni3Sb_HT: Sb 0.277; Ni3Sb: Sb 0.248; Ni7Sb3: Sb 0.28 | experimental | [1] CAO 2008; _cites Feschotte 1989_ | Table 3, p. 6, row 20 |  |
-| 803 | eutectoid: (βNi5Sb2) ↔ (δNi3Sb) + (θNi7Sb3) | (βNi5Sb2): Sb 0.277; (δNi3Sb): Sb 0.25; (θNi7Sb3): Sb 0.28 | model | [2] Zhang 2008; _cites Cha 1991_ | Table 3, p. 4, row 44 |  |
-| 803 | eutectoid: (βNi3Sb) ↔ (δNi3Sb) + (θNi5Sb2) | (βNi3Sb): Sb 0.272; (δNi3Sb): Sb 0.2494; (θNi5Sb2): Sb 0.277 | experimental | [2] Zhang 2008 | Table 3, p. 4, row 45 |  |
-| 803 | eutectoid: (βNi3Sb) ↔ (δNi3Sb) + (θNi5Sb2) | (βNi3Sb): Sb 0.277; (δNi3Sb): Sb 0.248; (θNi5Sb2): Sb 0.28 | experimental | [2] Zhang 2008; _cites Feschotte 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990235-x) | Table 3, p. 4, row 43 |  |
-| 798 | eutectoid: (βNi5Sb2) ↔ (δNi13Sb4) + (θNi5Sb2) | (βNi5Sb2): Sb 0.2725; (θNi5Sb2): Ni 0.714286, Sb 0.285714 | experimental | [2] Zhang 2008; _cites Panteleimonov 1964_ | Table 3, p. 4, row 41 |  |
-| 798 | Ni3Sb_HT \<-> Ni3Sb+Ni7Sb3 | Ni3Sb_HT: Sb 0.267; Ni3Sb: Sb 0.241; Ni7Sb3: Sb 0.283 | experimental | [1] CAO 2008; _cites Panteleimonov 1964_ | Table 3, p. 6, row 19 |  |
-| 768 | eutectoid: (βNi5Sb2) ↔ δNi3Sb + (θNi5Sb2) | (βNi5Sb2): Ni 0.714286, Sb 0.285714; δNi3Sb: Ni 0.75, Sb 0.25; (θNi5Sb2): Ni 0.714286, Sb 0.285714 | experimental | [2] Zhang 2008; _cites Eremenko 1951_ | Table 3, p. 4, row 40 |  |
-| 733 | congruent transformation: (αNi) ↔ (α'Ni15Sb) | (αNi): Sb 0.063; (α'Ni15Sb): Sb 0.063 | model | [2] Zhang 2008; _cites Cha 1991_ | Table 3, p. 4, row 2 |  |
-| 733 | congruent transformation: (αNi) ↔ (α'Ni15Sb) | (αNi): Sb 0.0625; (α'Ni15Sb): Sb 0.0625 | experimental | [2] Zhang 2008; _cites Osawa 1940_ | Table 3, p. 4, row 1 |  |
+| 1444 | L \<-> Ni3Sb_HT | L: Sb 0.285; Ni3Sb_HT: Ni 0.75, Sb 0.25 | experimental | [1] CAO 2008; _cites Panteleimonov 1964_ | Table 3, p. 6, row 12; `ORC-ET7ZISA7SU` |  |
+| 1443 | congruent melting: L ↔ (βNi5Sb2) | L: Sb 0.29; (βNi5Sb2): Sb 0.29 | experimental | [2] Zhang 2008; _cites Eremenko 1951_ | Table 3, p. 4, row 21; `ORC-3T6BRDCB7T` |  |
+| 1443 | congruent melting: L ↔ (βNi5Sb2) | L: Sb 0.29; (βNi5Sb2): Sb 0.29 | experimental | [2] Zhang 2008; _cites Panteleimonov 1964_ | Table 3, p. 4, row 22; `ORC-DYZ5ZUNZFE` |  |
+| 1443 | L \<-> Ni3Sb_HT | L: Sb 0.283; Ni3Sb_HT: Ni 0.75, Sb 0.25 | experimental | [1] CAO 2008; _cites Lossew 1906_ | Table 3, p. 6, row 10; `ORC-L4L6P6SX74` |  |
+| 1443 | congruent melting: L ↔ (βNi5Sb2) | L: Sb 0.283; (βNi5Sb2): Sb 0.283 | experimental | [2] Zhang 2008; _cites Lossew 1906_ [doi](https://doi.org/10.1002/zaac.19060490107) | Table 3, p. 4, row 19; `ORC-N6LGBAW2UY` |  |
+| 1443 | L \<-> Ni3Sb_HT | L: Sb 0.267; Ni3Sb_HT: Ni 0.75, Sb 0.25 | model | [1] CAO 2008 | Table 3, p. 6, row 14; `ORC-TVLJITCI3F` |  |
+| 1438 | L \<-> NiSb | L: Sb 0.475; NiSb: Ni 0.5, Sb 0.5 | model | [1] CAO 2008 | Table 3, p. 6, row 32; `ORC-ZSGIICVIEU` |  |
+| 1435 | congruent melting: L ↔ (βNi5Sb2) | L: Sb 0.293; (βNi5Sb2): Sb 0.293 | experimental | [2] Zhang 2008; _cites Shibata 1939_ | Table 3, p. 4, row 20; `ORC-QTTGSTRO2T` |  |
+| 1435 | L \<-> Ni3Sb_HT | L: Sb 0.279; Ni3Sb_HT: Ni 0.75, Sb 0.25 | experimental | [1] CAO 2008; _cites Shibata 1939_ | Table 3, p. 6, row 11; `ORC-U44E4V3IYT` |  |
+| 1434 | congruent melting: L ↔ (βNi3Sb) | L: Sb 0.2627; (βNi3Sb): Sb 0.2627 | experimental | [2] Zhang 2008 | Table 3, p. 4, row 25; `ORC-2NNDACOZ73` |  |
+| 1434 | congruent melting: L ↔ (βNi5Sb2) | L: Sb 0.279; (βNi5Sb2): Sb 0.279 | model | [2] Zhang 2008; _cites Cha 1991_ | Table 3, p. 4, row 24; `ORC-6SI33UL42Y` |  |
+| 1434 | congruent melting: L ↔ (βNi3Sb) | L: Sb 0.279; (βNi3Sb): Sb 0.279 | experimental | [2] Zhang 2008; _cites Feschotte 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990235-x) | Table 3, p. 4, row 23; `ORC-IF3KLL3CFX` |  |
+| 1434 | L \<-> Ni3Sb_HT | L: Sb 0.279; Ni3Sb_HT: Ni 0.75, Sb 0.25 | experimental | [1] CAO 2008; _cites Feschotte 1989_ | Table 3, p. 6, row 13; `ORC-VU4YOPPQ4Q` |  |
+| 1432 | congruent melting: L ↔ (γNiSb) | L: Sb 0.47; γNiSb: Sb 0.47 | experimental | [2] Zhang 2008; _cites Leubolt 1986_ [doi](https://doi.org/10.1002/zaac.19865330226) | Table 3, p. 5, row 3; `ORC-PAJDW7T2UN` |  |
+| 1432 | L \<-> NiSb | L: Sb 0.47; NiSb: Ni 0.5, Sb 0.5 | experimental | [1] CAO 2008; _cites Leubolt 1986_ | Table 3, p. 6, row 30; `ORC-ZMIHMY6Y5T` |  |
+| 1431 | congruent melting: L ↔ (γNiSb) | L: Sb 0.4965; γNiSb: Sb 0.4965 | experimental | [2] Zhang 2008; _cites Lossew 1906_ [doi](https://doi.org/10.1002/zaac.19060490107) | Table 3, p. 5, row 1; `ORC-5S6MBF7ZKY` |  |
+| 1431 | L \<-> NiSb | L: Sb 0.497; NiSb: Ni 0.5, Sb 0.5 | experimental | [1] CAO 2008; _cites Lossew 1906_ | Table 3, p. 6, row 27; `ORC-Q4QNG5BRF4` |  |
+| 1426 | L \<-> NiSb | L: Sb 0.494; NiSb: Ni 0.5, Sb 0.5 | experimental | [1] CAO 2008; _cites Shibata 1939_ | Table 3, p. 6, row 28; `ORC-I5CQ76DA5H` |  |
+| 1426 | congruent melting: L ↔ (γNiSb) | L: Sb 0.484; γNiSb: Sb 0.484 | experimental | [2] Zhang 2008; _cites Shibata 1939_ | Table 3, p. 5, row 2; `ORC-SQPZ2RKOFQ` |  |
+| 1420 | congruent melting: L ↔ (γNiSb) | L: Sb 0.4838; γNiSb: Sb 0.4838 | model | [2] Zhang 2008 | Table 3, p. 5, row 6; `ORC-7X3EUOIVW4` |  |
+| 1420 | congruent melting: L ↔ (γNiSb) | L: Sb 0.489; γNiSb: Sb 0.489 | model | [2] Zhang 2008; _cites Cha 1991_ | Table 3, p. 5, row 5; `ORC-KMCNXSVRCB` |  |
+| 1420 | congruent melting: L ↔ (γNiSb) | L: Sb 0.489; γNiSb: Sb 0.489 | experimental | [2] Zhang 2008; _cites Feschotte 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990235-x) | Table 3, p. 5, row 4; `ORC-SY4JJPG7YI` |  |
+| 1420 | L \<-> NiSb | L: Sb 0.489; NiSb: Ni 0.5, Sb 0.5 | experimental | [1] CAO 2008; _cites Feschotte 1989_ | Table 3, p. 6, row 31; `ORC-TPLHOVXKZE` |  |
+| 1413 | L \<-> NiSb | L: Sb 0.47; NiSb: Ni 0.5, Sb 0.5 | experimental | [1] CAO 2008; _cites Chen 1978_ | Table 3, p. 6, row 29; `ORC-FG7V6JNBW7` |  |
+| 1375 | eutectic: L ↔ (αNi) + (βNi5Sb2) | (βNi5Sb2): Ni 0.714286, Sb 0.285714 | experimental | [2] Zhang 2008; _cites Panteleimonov 1964_ | Table 3, p. 4, row 6; `ORC-D4BQZABKZB` |  |
+| 1375 | eutectic: L ↔ (αNi) + (βNi5Sb2) | L: Sb 0.213; (βNi5Sb2): Ni 0.714286, Sb 0.285714 | experimental | [2] Zhang 2008; _cites Eremenko 1951_ | Table 3, p. 4, row 5; `ORC-NGEKZOFIG5` |  |
+| 1373 | eutectic: L ↔ (αNi) + (βNi5Sb2) | (αNi): Sb 0.0367; (βNi5Sb2): Ni 0.714286, Sb 0.285714 | experimental | [2] Zhang 2008; _cites Lossew 1906_ [doi](https://doi.org/10.1002/zaac.19060490107) | Table 3, p. 4, row 3; `ORC-3PSLNX5PLO` |  |
+| 1373 | L \<-> fcc(Ni)+Ni3Sb_HT | L: Sb 0.205; fcc(Ni): Sb 0.038; Ni3Sb_HT: Sb 0.267 | experimental | [1] CAO 2008; _cites Lossew 1906_ | Table 3, p. 6, row 1; `ORC-MAA6BKKVUV` |  |
+| 1372 | eutectic: L ↔ (αNi) + (βNi3Sb) | L: Sb 0.1823; (αNi): Sb 0.085665; (βNi3Sb): Sb 0.2584 | experimental | [2] Zhang 2008 | Table 3, p. 4, row 10; `ORC-F2UQTFIX7C` |  |
+| 1371 | L \<-> fcc(Ni)+Ni3Sb_HT | L: Sb 0.189; fcc(Ni): Sb 0.104; Ni3Sb_HT: Sb 0.255 | model | [1] CAO 2008 | Table 3, p. 6, row 4; `ORC-YPNCDJUXEN` |  |
+| 1370 | eutectic: L ↔ (αNi) + (βNi5Sb2) | L: Sb 0.2133; (αNi): Sb 0.084; (βNi5Sb2): Ni 0.714286, Sb 0.285714 | experimental | [2] Zhang 2008; _cites Shibata 1939_ | Table 3, p. 4, row 4; `ORC-6GWMEZLOKQ` |  |
+| 1370 | eutectic: L ↔ (αNi) + (βNi3Sb) | L: Sb 0.23; (αNi): Sb 0.085; (βNi3Sb): Sb 0.252 | experimental | [2] Zhang 2008; _cites Feschotte 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990235-x) | Table 3, p. 4, row 8; `ORC-IDRMWPTBU6` |  |
+| 1370 | eutectic: L ↔ (αNi) + (βNi5Sb2) | L: Sb 0.23; (αNi): Sb 0.09; (βNi5Sb2): Sb 0.252 | model | [2] Zhang 2008; _cites Cha 1991_ | Table 3, p. 4, row 9; `ORC-KC6NDD5AE2` |  |
+| 1370 | eutectic: L ↔ (αNi) + (βNi5Sb2) | (αNi): Sb 0.094; (βNi5Sb2): Ni 0.714286, Sb 0.285714 | experimental | [2] Zhang 2008; _cites Naud 1972_ [doi](https://doi.org/10.1016/0025-5408%2872%2990207-3) | Table 3, p. 4, row 7; `ORC-ONN7SO2PHH` |  |
+| 1370 | L \<-> fcc(Ni)+Ni3Sb_HT | L: Sb 0.216; fcc(Ni): Sb 0.084; Ni3Sb_HT: Sb 0.236 | experimental | [1] CAO 2008; _cites Shibata 1939_ | Table 3, p. 6, row 2; `ORC-T4BFHO4O72` |  |
+| 1370 | L \<-> fcc(Ni)+Ni3Sb_HT | L: Sb 0.23; fcc(Ni): Sb 0.09; Ni3Sb_HT: Sb 0.252 | experimental | [1] CAO 2008; _cites Feschotte 1989_ | Table 3, p. 6, row 3; `ORC-XN4IWPS5C4` |  |
+| 1364 | L \<-> Ni3Sb_HT+NiSb | L: Sb 0.357; Ni3Sb_HT: Sb 0.281; NiSb: Sb 0.437 | model | [1] CAO 2008 | Table 3, p. 6, row 26; `ORC-NUPRXYXIVC` |  |
+| 1353 | eutectic: L ↔ (βNi5Sb2) + (γNiSb) | L: Sb 0.35; (βNi5Sb2): Ni 0.714286, Sb 0.285714; (γNiSb): Ni 0.5, Sb 0.5 | experimental | [2] Zhang 2008; _cites Panteleimonov 1964_ | Table 3, p. 4, row 49; `ORC-3HPPXTTPLP` |  |
+| 1353 | eutectic: L ↔ (βNi5Sb2) + (γNiSb) | L: Sb 0.35; (βNi5Sb2): Ni 0.714286, Sb 0.285714; (γNiSb): Ni 0.5, Sb 0.5 | experimental | [2] Zhang 2008; _cites Eremenko 1951_ | Table 3, p. 4, row 48; `ORC-5WRDQ65JAW` |  |
+| 1349 | eutectic: L ↔ (βNi3Sb) + (γNiSb) | L: Sb 0.3667; (βNi3Sb): Sb 0.2885; (γNiSb): Sb 0.46 | experimental | [2] Zhang 2008 | Table 3, p. 4, row 54; `ORC-IM4RSEL7LT` |  |
+| 1348 | eutectic: L ↔ (βNi5Sb2) + (γNiSb) | (βNi5Sb2): Ni 0.714286, Sb 0.285714; (γNiSb): Ni 0.5, Sb 0.5 | experimental | [2] Zhang 2008; _cites Leubolt 1986_ [doi](https://doi.org/10.1002/zaac.19865330226) | Table 3, p. 4, row 51; `ORC-2OVKJEIJMI` |  |
+| 1348 | L \<-> Ni3Sb_HT+NiSb | Ni3Sb_HT: Ni 0.75, Sb 0.25; NiSb: Ni 0.5, Sb 0.5 | experimental | [1] CAO 2008; _cites Leubolt 1986_ | Table 3, p. 6, row 24; `ORC-Z5Q64LVGDK` |  |
+| 1345 | eutectic: L ↔ (βNi3Sb) + (γNiSb) | L: Sb 0.35; (βNi3Sb): Sb 0.288; (γNiSb): Sb 0.43 | experimental | [2] Zhang 2008; _cites Feschotte 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990235-x) | Table 3, p. 4, row 52; `ORC-A4LYJZZRRF` |  |
+| 1345 | L \<-> Ni3Sb_HT+NiSb | L: Sb 0.35; Ni3Sb_HT: Sb 0.288; NiSb: Sb 0.43 | experimental | [1] CAO 2008; _cites Feschotte 1989_ | Table 3, p. 6, row 25; `ORC-DPFIFNCJ55` |  |
+| 1345 | eutectic: L ↔ (βNi5Sb2) + (γNiSb) | L: Sb 0.3467; (βNi5Sb2): Sb 0.283; (γNiSb): Sb 0.4965 | experimental | [2] Zhang 2008; _cites Lossew 1906_ [doi](https://doi.org/10.1002/zaac.19060490107) | Table 3, p. 4, row 46; `ORC-JT4C3GAE7B` |  |
+| 1345 | L \<-> Ni3Sb_HT+NiSb | L: Sb 0.347; Ni3Sb_HT: Sb 0.283; NiSb: Sb 0.42 | experimental | [1] CAO 2008; _cites Lossew 1906_ | Table 3, p. 6, row 22; `ORC-LWJ63WWAT4` |  |
+| 1345 | eutectic: L ↔ (βNi5Sb2) + (γNiSb) | L: Sb 0.37; (βNi5Sb2): Sb 0.288; (γNiSb): Sb 0.43 | model | [2] Zhang 2008; _cites Cha 1991_ | Table 3, p. 4, row 53; `ORC-YOAGEFAZ3G` |  |
+| 1343 | eutectic: L ↔ (βNi5Sb2) + (γNiSb) | L: Sb 0.37; (βNi5Sb2): Ni 0.714286, Sb 0.285714; (γNiSb): Ni 0.5, Sb 0.5 | experimental | [2] Zhang 2008; _cites Shibata 1939_ | Table 3, p. 4, row 47; `ORC-4QBROO7KLS` |  |
+| 1343 | L \<-> Ni3Sb_HT+NiSb | L: Sb 0.37; Ni3Sb_HT: Sb 0.299; NiSb: Sb 0.432 | experimental | [1] CAO 2008; _cites Shibata 1939_ | Table 3, p. 6, row 23; `ORC-FDLPCXSWQB` |  |
+| 1343 | eutectic: L ↔ (βNi5Sb2) + (γNiSb) | (βNi5Sb2): Ni 0.714286, Sb 0.285714; (γNiSb): Ni 0.5, Sb 0.5 | experimental | [2] Zhang 2008; _cites Naud 1972_ [doi](https://doi.org/10.1016/0025-5408%2872%2990207-3) | Table 3, p. 4, row 50; `ORC-VZBQWNANXE` |  |
+| 1163 | polymorphic: (βNi5Sb2) ↔ (β'Ni5Sb2) | (βNi5Sb2): Ni 0.714286, Sb 0.285714 | experimental | [2] Zhang 2008; _cites Panteleimonov 1964_ | Table 3, p. 4, row 27; `ORC-ZQRS43OH5C` |  |
+| 989 | peritectoid: (αNi) + (βNi3Sb) ↔ (δNi3Sb) | (αNi): Sb 0.08167; (βNi3Sb): Sb 0.261; (δNi3Sb): Sb 0.2456 | experimental | [2] Zhang 2008 | Table 3, p. 4, row 18; `ORC-U3TXECA5OB` |  |
+| 988 | fcc(Ni)+Ni3Sb_HT \<-> Ni3Sb | fcc(Ni): Sb 0.09; Ni3Sb_HT: Sb 0.25; Ni3Sb: Sb 0.237 | experimental | [1] CAO 2008; _cites Feschotte 1989_ | Table 3, p. 6, row 6; `ORC-J4IZLJWBKW` |  |
+| 988 | peritectoid: (αNi) + (βNi3Sb) ↔ (δNi3Sb) | (βNi3Sb): Sb 0.257; (δNi3Sb): Sb 0.237 | experimental | [2] Zhang 2008; _cites Feschotte 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990235-x) | Table 3, p. 4, row 16; `ORC-MUNOM5TPMU` |  |
+| 988 | fcc(Ni)+Ni3Sb_HT \<-> Ni3Sb | fcc(Ni): Sb 0.09; Ni3Sb_HT: Sb 0.257; Ni3Sb: Sb 0.237 | experimental | [1] CAO 2008; _cites Nash 1991_ | Table 3, p. 6, row 8; `ORC-NHFAZMJ4L7` |  |
+| 988 | peritectoid: (αNi) + (βNi5Sb2) ↔ (δNi3Sb) | (αNi): Sb 0.09; (βNi5Sb2): Sb 0.257; (δNi3Sb): Sb 0.237 | model | [2] Zhang 2008; _cites Cha 1991_ | Table 3, p. 4, row 17; `ORC-ZRLHF5AJSN` |  |
+| 987 | fcc(Ni)+Ni3Sb_HT \<-> Ni3Sb | fcc(Ni): Sb 0.086; Ni3Sb_HT: Sb 0.258; Ni3Sb: Sb 0.25 | model | [1] CAO 2008 | Table 3, p. 6, row 9; `ORC-XR2OCOXRZB` |  |
+| 982 | peritectoid: (αNi) + (βNi5Sb2) ↔ δNi3Sb | (αNi): Sb 0.094; (βNi5Sb2): Ni 0.714286, Sb 0.285714; δNi3Sb: Ni 0.75, Sb 0.25 | experimental | [2] Zhang 2008; _cites Naud 1972_ [doi](https://doi.org/10.1016/0025-5408%2872%2990207-3) | Table 3, p. 4, row 15; `ORC-T4ZGXC4CRN` |  |
+| 973 | peritectoid: (αNi) + (βNi5Sb2) ↔ (δNi13Sb4) | (βNi5Sb2): Ni 0.714286, Sb 0.285714 | experimental | [2] Zhang 2008; _cites Panteleimonov 1964_ | Table 3, p. 4, row 14; `ORC-F2G2544N7Z` |  |
+| 971 | fcc(Ni)+Ni3Sb_HT \<-> Ni3Sb | fcc(Ni): Sb 0.081; Ni3Sb_HT: Sb 0.25; Ni3Sb: Sb 0.25 | experimental | [1] CAO 2008; _cites Shibata 1939_ | Table 3, p. 6, row 5; `ORC-J75RGU5EGL` |  |
+| 971 | peritectoid: (αNi) + (βNi5Sb2) ↔ (δNi3Sb) | (αNi): Sb 0.084; (βNi5Sb2): Sb 0.25; (δNi3Sb): Ni 0.75, Sb 0.25 | experimental | [2] Zhang 2008; _cites Shibata 1939_ | Table 3, p. 4, row 12; `ORC-WRF5DAGLOZ` |  |
+| 958 | fcc(Ni)+Ni3Sb_HT \<-> Ni3Sb | Ni3Sb_HT: Ni 0.75, Sb 0.25; Ni3Sb: Ni 0.75, Sb 0.25 | experimental | [1] CAO 2008; _cites Elbakkouri 1986_ | Table 3, p. 6, row 7; `ORC-UACVWMPDGR` |  |
+| 950 | peritectoid: (αNi) + (βNi5Sb2) ↔ δNi4Sb | (αNi): Sb 0.0376; (βNi5Sb2): Ni 0.714286, Sb 0.285714; δNi4Sb: Sb 0.2 | experimental | [2] Zhang 2008; _cites Lossew 1906_ [doi](https://doi.org/10.1002/zaac.19060490107) | Table 3, p. 4, row 11; `ORC-HUFSBGFW3T` |  |
+| 932 | peritectoid: (αNi) + (βNi5Sb2) ↔ (δNi3Sb) | (βNi5Sb2): Ni 0.714286, Sb 0.285714; (δNi3Sb): Ni 0.75, Sb 0.25 | experimental | [2] Zhang 2008; _cites Eremenko 1951_ | Table 3, p. 4, row 13; `ORC-J3L23KBDJE` |  |
+| 901 | L+NiSb \<-> NiSb2 | L: Sb 0.956; NiSb: Sb 0.54; NiSb2: Sb 0.667 | model | [1] CAO 2008 | Table 3, p. 6, row 37; `ORC-5FOUOTUEJF` |  |
+| 899 | peritectic: L + (γNiSb) ↔ ζNiSb2 | γNiSb: Ni 0.5, Sb 0.5; ζNiSb2: Ni 0.333333, Sb 0.666667 | experimental | [2] Zhang 2008; _cites Naud 1972_ [doi](https://doi.org/10.1016/0025-5408%2872%2990207-3) | Table 3, p. 5, row 9; `ORC-TRBQ545ENB` |  |
+| 899 | peritectic: L + (γNiSb) ↔ ζNiSb2 | L: Sb 0.95; γNiSb: Ni 0.5, Sb 0.5; ζNiSb2: Ni 0.333333, Sb 0.666667 | experimental | [2] Zhang 2008; _cites Shibata 1939_ | Table 3, p. 5, row 8; `ORC-Z5KMP4J57A` |  |
+| 897 | L+NiSb \<-> NiSb2 | NiSb: Ni 0.5, Sb 0.5; NiSb2: Ni 0.333333, Sb 0.666667 | experimental | [1] CAO 2008; _cites Leubolt 1986_ | Table 3, p. 6, row 36; `ORC-46IP44UVYD` |  |
+| 897 | peritectic: L + (γNiSb) ↔ ζNiSb2 | γNiSb: Ni 0.5, Sb 0.5; ζNiSb2: Ni 0.333333, Sb 0.666667 | experimental | [2] Zhang 2008; _cites Leubolt 1986_ [doi](https://doi.org/10.1002/zaac.19865330226) | Table 3, p. 5, row 11; `ORC-PTPJZ6BPJB` |  |
+| 894 | peritectic: L + (γNiSb) ↔ (ζNiSb2) | L: Sb 0.97; γNiSb: Sb 0.52; ζNiSb2: Sb 0.665 | model | [2] Zhang 2008; _cites Cha 1991_ | Table 3, p. 5, row 13; `ORC-3EBLBJWETI` |  |
+| 894 | peritectic: L + (γNiSb) ↔ ζNiSb2 | L: Sb 0.96; γNiSb: Sb 0.5354; ζNiSb2: Sb 0.6667 | model | [2] Zhang 2008 | Table 3, p. 5, row 14; `ORC-MOJDUA2DQK` |  |
+| 894 | peritectic: L + (γNiSb) ↔ ζNiSb2 | L: Sb 0.97; γNiSb: Sb 0.52; ζNiSb2: Sb 0.662 | experimental | [2] Zhang 2008; _cites Feschotte 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990235-x) | Table 3, p. 5, row 10; `ORC-TII4ARV3KU` |  |
+| 894 | L \<-> NiSb2+rhomb (Sb) | L: Sb 0.961; NiSb2: Sb 0.667; rhomb (Sb): Sb 1 | model | [1] CAO 2008 | Table 3, p. 6, row 41; `ORC-TT34KUEN7M` |  |
+| 894 | L+NiSb \<-> NiSb2 | L: Sb 0.96; NiSb: Sb 0.52; NiSb2: Sb 0.662 | experimental | [1] CAO 2008; _cites Feschotte 1989_ | Table 3, p. 6, row 35; `ORC-ZLNX4UV5OL` |  |
+| 890 | eutectic: L ↔ ζNiSb2 + εSb | L: Sb 0.96; ζNiSb2: Sb 0.6667; εSb: Sb 1 | model | [2] Zhang 2008 | Table 3, p. 5, row 20; `ORC-77PUKOHGRN` |  |
+| 889 | L+NiSb \<-> NiSb2 | L: Sb 0.95; NiSb: Sb 0.535; NiSb2: Sb 0.713 | experimental | [1] CAO 2008; _cites Shibata 1939_ | Table 3, p. 6, row 34; `ORC-6PCZB3L3JA` |  |
+| 889 | eutectic: L ↔ ζNiSb2 + (εSb) | L: Sb 0.96; ζNiSb2: Sb 0.714 | experimental | [2] Zhang 2008; _cites Shibata 1939_ | Table 3, p. 5, row 16; `ORC-EW5XBBDWSM` |  |
+| 889 | eutectic: L ↔ ζNiSb2 + (εSb) | ζNiSb2: Ni 0.333333, Sb 0.666667 | experimental | [2] Zhang 2008; _cites Naud 1972_ [doi](https://doi.org/10.1016/0025-5408%2872%2990207-3) | Table 3, p. 5, row 17; `ORC-SVSJTQ5TFM` |  |
+| 889 | L \<-> NiSb2+rhomb (Sb) | L: Sb 0.97; NiSb2: Sb 0.722; rhomb (Sb): Sb 0.995 | experimental | [1] CAO 2008; _cites Shibata 1939_ | Table 3, p. 6, row 39; `ORC-XLU4KGGSYU` |  |
+| 885 | congruent transformation: (βNi3Sb) ↔ (θNi5Sb2) | (βNi3Sb): Ni 0.75, Sb 0.25; (θNi5Sb2): Sb 0.285 | experimental | [2] Zhang 2008 | Table 3, p. 4, row 30; `ORC-MEAK7VLJRB` |  |
+| 885 | L+NiSb \<-> NiSb2 | L: Sb 0.941; NiSb: Sb 0.42; NiSb2: Sb 0.552 | experimental | [1] CAO 2008; _cites Lossew 1906_ | Table 3, p. 6, row 33; `ORC-MWNBZZBHAK` |  |
+| 885 | peritectic: L + (γNiSb) ↔ (ζNi4Sb5) | L: Sb 0.9456; γNiSb: Sb 0.4965; ζNi4Sb5: Sb 0.5522; (ζNi4Sb5): Sb 0.5522 | experimental | [2] Zhang 2008; _cites Lossew 1906_ [doi](https://doi.org/10.1002/zaac.19060490107) | Table 3, p. 5, row 7; `ORC-Z3OVAODWTL` |  |
+| 884 | eutectic: L ↔ ζNi4Sb5 + (εSb) | L: Sb 0.9456; ζNi4Sb5: Sb 0.5522 | experimental | [2] Zhang 2008; _cites Lossew 1906_ [doi](https://doi.org/10.1002/zaac.19060490107) | Table 3, p. 5, row 15; `ORC-DI3JIDPXWI` |  |
+| 884 | L \<-> NiSb2+rhomb (Sb) | L: Sb 0.946; NiSb2: Sb 0.552; rhomb (Sb): Sb 1 | experimental | [1] CAO 2008; _cites Lossew 1906_ | Table 3, p. 6, row 38; `ORC-IRERM2S7K5` |  |
+| 883 | peritectic: L + (γNiSb) ↔ ζNiSb2 | γNiSb: Ni 0.5, Sb 0.5; ζNiSb2: Ni 0.333333, Sb 0.666667 | experimental | [2] Zhang 2008; _cites Kjekshus 1977_ [doi](https://doi.org/10.3891/acta.chem.scand.31a-0517) | Table 3, p. 5, row 12; `ORC-YKDUJ7QB42` |  |
+| 882 | L \<-> NiSb2+rhomb (Sb) | L: Sb 0.97; NiSb2: Sb 0.665; rhomb (Sb): Sb 0.998 | experimental | [1] CAO 2008; _cites Feschotte 1989_ | Table 3, p. 6, row 40; `ORC-JMNU4Z6R73` |  |
+| 882 | eutectic: L ↔ ζNiSb2 + (εSb) | L: Sb 0.98; ζNiSb2: Sb 0.666; εSb: Sb 0.999; (εSb): Sb 0.999 | experimental | [2] Zhang 2008; _cites Feschotte 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990235-x) | Table 3, p. 5, row 18; `ORC-SHFXN44LXS` |  |
+| 873 | congruent transformation: (βNi3Sb) ↔ (θNi5Sb2) | (βNi3Sb): Ni 0.75, Sb 0.25; (θNi5Sb2): Sb 0.283 | experimental | [2] Zhang 2008; _cites Feschotte 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990235-x) | Table 3, p. 4, row 28; `ORC-454SQJIA5Q` |  |
+| 873 | congruent transformation: (βNi5Sb2) ↔ (θNi7Sb3) | (βNi5Sb2): Ni 0.714286, Sb 0.285714; (θNi7Sb3): Sb 0.283 | model | [2] Zhang 2008; _cites Cha 1991_ | Table 3, p. 4, row 29; `ORC-Z3FPCKA3F6` |  |
+| 865 | polymorphic: (βNi5Sb2) ↔ (β'Ni5Sb2) + (γNiSb) | (βNi5Sb2): Ni 0.714286, Sb 0.285714; (γNiSb): Ni 0.5, Sb 0.5 | experimental | [2] Zhang 2008; _cites Leubolt 1986_ [doi](https://doi.org/10.1002/zaac.19865330226) | Table 3, p. 4, row 35; `ORC-22HD4ATQNL` |  |
+| 865 | Ni3Sb_HT+NiSb \<-> Ni7Sb3 | Ni3Sb_HT: Ni 0.75, Sb 0.25; NiSb: Ni 0.5, Sb 0.5; Ni7Sb3: Ni 0.717, Sb 0.283 | experimental | [1] CAO 2008; _cites Leubolt 1986_ | Table 3, p. 6, row 16; `ORC-IRSWHVFQPW` |  |
+| 861 | peritectoid: (β'Ni5Sb2) + (γNiSb) ↔ (θNi7Sb3) | (β'Ni5Sb2): Ni 0.714286, Sb 0.285714; (γNiSb): Ni 0.5, Sb 0.5; (θNi7Sb3): Sb 0.3 | experimental | [2] Zhang 2008; _cites Shibata 1939_ | Table 3, p. 4, row 31; `ORC-PVM2IOM6HP` |  |
+| 861 | peritectoid: (β'Ni5Sb2) + (γNiSb) ↔ (θNi7Sb3) | (β'Ni5Sb2): Ni 0.714286, Sb 0.285714; (γNiSb): Ni 0.5, Sb 0.5 | experimental | [2] Zhang 2008; _cites Naud 1972_ [doi](https://doi.org/10.1016/0025-5408%2872%2990207-3) | Table 3, p. 4, row 34; `ORC-TBRXMVGB3Q` |  |
+| 857 | eutectoid: (βNi3Sb) ↔ θNi5Sb2 + (γNiSb) | (βNi3Sb): Sb 0.292; θNi5Sb2: Sb 0.285; (γNiSb): Sb 0.462 | experimental | [2] Zhang 2008 | Table 3, p. 4, row 38; `ORC-JY52GAWKKM` |  |
+| 855 | eutectoid: (βNi3Sb) ↔ θNi5Sb2 + (γNiSb) | (βNi3Sb): Sb 0.288; θNi5Sb2: Sb 0.284; (γNiSb): Sb 0.465 | experimental | [2] Zhang 2008; _cites Feschotte 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990235-x) | Table 3, p. 4, row 36; `ORC-6R2IITDQO6` |  |
+| 855 | eutectoid: (βNi5Sb2) ↔ θNi7Sb3 + (γNiSb) | (βNi5Sb2): Sb 0.288; θNi7Sb3: Sb 0.284; (γNiSb): Sb 0.465 | model | [2] Zhang 2008; _cites Cha 1991_ | Table 3, p. 4, row 37; `ORC-HDM5DZ7P2Z` |  |
+| 855 | Ni3Sb_HT+NiSb \<-> Ni7Sb3 | Ni3Sb_HT: Sb 0.288; NiSb: Sb 0.284; Ni7Sb3: Sb 0.465 | experimental | [1] CAO 2008; _cites Feschotte 1989_ | Table 3, p. 6, row 15; `ORC-JAEP7MHIVX` |  |
+| 853 | polymorphic: (βNi5Sb2) ↔ (β'Ni5Sb2) | (βNi5Sb2): Ni 0.714286, Sb 0.285714 | experimental | [2] Zhang 2008; _cites Lossew 1906_ [doi](https://doi.org/10.1002/zaac.19060490107) | Table 3, p. 4, row 26; `ORC-ATBUOKCWC4` |  |
+| 853 | Ni3Sb_HT+NiSb \<-> Ni7Sb3 | Ni3Sb_HT: Sb 0.279; NiSb: Sb 0.283; Ni7Sb3: Sb 0.44 | model | [1] CAO 2008 | Table 3, p. 6, row 17; `ORC-QL5C7SSGTA` |  |
+| 833 | eutectoid: (βNi5Sb2) ↔ θNi5Sb2 + (γNiSb) | (βNi5Sb2): Sb 0.32; θNi5Sb2: Ni 0.714286, Sb 0.285714; (γNiSb): Ni 0.5, Sb 0.5 | experimental | [2] Zhang 2008; _cites Panteleimonov 1964_ | Table 3, p. 4, row 33; `ORC-ZMQKYBVGJV` |  |
+| 829 | Ni3Sb_HT \<-> Ni3Sb+Ni7Sb3 | Ni3Sb_HT: Sb 0.271; Ni3Sb: Sb 0.25; Ni7Sb3: Sb 0.283 | model | [1] CAO 2008 | Table 3, p. 6, row 21; `ORC-36NYPSPVSY` |  |
+| 820 | eutectoid: (βNi5Sb2) ↔ (θNi5Sb2) + (γNiSb) | (βNi5Sb2): Ni 0.714286, Sb 0.285714; (θNi5Sb2): Ni 0.714286, Sb 0.285714; (γNiSb): Ni 0.5, Sb 0.5 | experimental | [2] Zhang 2008; _cites Eremenko 1951_ | Table 3, p. 4, row 32; `ORC-Y5LKFOVMU3` |  |
+| 808 | eutectoid: (β'Ni5Sb2) ↔ δNi3Sb + (θNi7Sb3) | (β'Ni5Sb2): Ni 0.714286, Sb 0.285714; δNi3Sb: Ni 0.75, Sb 0.25 | experimental | [2] Zhang 2008; _cites Naud 1972_ [doi](https://doi.org/10.1016/0025-5408%2872%2990207-3) | Table 3, p. 4, row 42; `ORC-GGZUNK2UYA` |  |
+| 806 | Ni3Sb_HT \<-> Ni3Sb+Ni7Sb3 | Ni3Sb_HT: Sb 0.288; Ni3Sb: Sb 0.254; Ni7Sb3: Sb 0.293 | experimental | [1] CAO 2008; _cites Shibata 1939_ | Table 3, p. 6, row 18; `ORC-OLD4VSV5J3` |  |
+| 806 | eutectoid: (β'Ni5Sb2) ↔ (δNi3Sb) + (θNi7Sb3) | (β'Ni5Sb2): Sb 0.283; (δNi3Sb): Ni 0.75, Sb 0.25 | experimental | [2] Zhang 2008; _cites Shibata 1939_ | Table 3, p. 4, row 39; `ORC-PYIN6ZQAOH` |  |
+| 803 | Ni3Sb_HT \<-> Ni3Sb+Ni7Sb3 | Ni3Sb_HT: Sb 0.277; Ni3Sb: Sb 0.248; Ni7Sb3: Sb 0.28 | experimental | [1] CAO 2008; _cites Feschotte 1989_ | Table 3, p. 6, row 20; `ORC-4JSF5W36OM` |  |
+| 803 | eutectoid: (βNi5Sb2) ↔ (δNi3Sb) + (θNi7Sb3) | (βNi5Sb2): Sb 0.277; (δNi3Sb): Sb 0.25; (θNi7Sb3): Sb 0.28 | model | [2] Zhang 2008; _cites Cha 1991_ | Table 3, p. 4, row 44; `ORC-6KACXGSPYD` |  |
+| 803 | eutectoid: (βNi3Sb) ↔ (δNi3Sb) + (θNi5Sb2) | (βNi3Sb): Sb 0.272; (δNi3Sb): Sb 0.2494; (θNi5Sb2): Sb 0.277 | experimental | [2] Zhang 2008 | Table 3, p. 4, row 45; `ORC-ACE5WK67XM` |  |
+| 803 | eutectoid: (βNi3Sb) ↔ (δNi3Sb) + (θNi5Sb2) | (βNi3Sb): Sb 0.277; (δNi3Sb): Sb 0.248; (θNi5Sb2): Sb 0.28 | experimental | [2] Zhang 2008; _cites Feschotte 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990235-x) | Table 3, p. 4, row 43; `ORC-KJO6NPE6ZI` |  |
+| 798 | eutectoid: (βNi5Sb2) ↔ (δNi13Sb4) + (θNi5Sb2) | (βNi5Sb2): Sb 0.2725; (θNi5Sb2): Ni 0.714286, Sb 0.285714 | experimental | [2] Zhang 2008; _cites Panteleimonov 1964_ | Table 3, p. 4, row 41; `ORC-AG6ZAJBBCM` |  |
+| 798 | Ni3Sb_HT \<-> Ni3Sb+Ni7Sb3 | Ni3Sb_HT: Sb 0.267; Ni3Sb: Sb 0.241; Ni7Sb3: Sb 0.283 | experimental | [1] CAO 2008; _cites Panteleimonov 1964_ | Table 3, p. 6, row 19; `ORC-Z6N5PUMCTO` |  |
+| 768 | eutectoid: (βNi5Sb2) ↔ δNi3Sb + (θNi5Sb2) | (βNi5Sb2): Ni 0.714286, Sb 0.285714; δNi3Sb: Ni 0.75, Sb 0.25; (θNi5Sb2): Ni 0.714286, Sb 0.285714 | experimental | [2] Zhang 2008; _cites Eremenko 1951_ | Table 3, p. 4, row 40; `ORC-ZREGLAIDMZ` |  |
+| 733 | congruent transformation: (αNi) ↔ (α'Ni15Sb) | (αNi): Sb 0.063; (α'Ni15Sb): Sb 0.063 | model | [2] Zhang 2008; _cites Cha 1991_ | Table 3, p. 4, row 2; `ORC-L64KPRRFC7` |  |
+| 733 | congruent transformation: (αNi) ↔ (α'Ni15Sb) | (αNi): Sb 0.0625; (α'Ni15Sb): Sb 0.0625 | experimental | [2] Zhang 2008; _cites Osawa 1940_ | Table 3, p. 4, row 1; `ORC-WYVXNXPT5R` |  |
 
 ## Formation enthalpies
 
@@ -205,10 +205,10 @@ Table: Enthalpies of formation, Ni–Sb system (4)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| ζ(NiSb) |  | -33.472 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Cao 2013; _cites Korber 1937_ | Table IV, p. 9, row 1 |  |
-| ζ(NiSb) |  | -32.659 kJ/mol (basis unstated) | 1060 | model |  |  | [3] Cao 2013 | Table IV, p. 9, row 4 |  |
-| ζ(NiSb) |  | -32.543 kJ/mol (basis unstated) ± 0.494 | 1060 | experimental |  |  | [3] Cao 2013; _cites Predel 1978_ [doi](https://doi.org/10.1016/0040-6031%2878%2985146-6) | Table IV, p. 9, row 3 |  |
-| ζ(NiSb) |  | -32.171 kJ/mol (basis unstated) | 298.15 | model |  |  | [3] Cao 2013 | Table IV, p. 9, row 2 |  |
+| ζ(NiSb) |  | -33.472 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Cao 2013; _cites Korber 1937_ | Table IV, p. 9, row 1; `ORC-ABDJTH4LAW` |  |
+| ζ(NiSb) |  | -32.659 kJ/mol (basis unstated) | 1060 | model |  |  | [3] Cao 2013 | Table IV, p. 9, row 4; `ORC-QBMBSSVL7S` |  |
+| ζ(NiSb) |  | -32.543 kJ/mol (basis unstated) ± 0.494 | 1060 | experimental |  |  | [3] Cao 2013; _cites Predel 1978_ [doi](https://doi.org/10.1016/0040-6031%2878%2985146-6) | Table IV, p. 9, row 3; `ORC-64UDB5YW55.8b29a9` |  |
+| ζ(NiSb) |  | -32.171 kJ/mol (basis unstated) | 298.15 | model |  |  | [3] Cao 2013 | Table IV, p. 9, row 2; `ORC-GQGFCXOC6L` |  |
 
 ## Other properties
 
@@ -218,8 +218,8 @@ Table: Phase transition, Ni–Sb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 958 K | 958 | other | experimental | [2] Zhang 2008 | p. 2 | “The phase (βNi5 Sb2 ) decomposed into the phase (β 0 Ni5 Sb2 ) (monoclinic) and an unidentified phase which was near the stoichiometric δNi3 Sb during tempering at high temperature, and the compound δNi3 Sb decomposed peritectoidically at 958 K.” |
-| Phase transition | 1413 K | 1413 | congruent transformation | experimental | [2] Zhang 2008; _cites Chen 1978_ [doi](https://doi.org/10.1016/0022-0248%2878%2990362-7) | p. 2 | “Chen et al. \[27\] and Leubolt et al. \[28\] investigated the phase equilibria near the congruent melting point of (γ NiSb), which was 47 at.% Sb at 1413 K \[27\] and 47 at.% Sb at 1432 ± 5 K \[28\].” |
+| Phase transition | 958 K | 958 | other | experimental | [2] Zhang 2008 | p. 2; `ORC-6RJGIXFU65` | “The phase (βNi5 Sb2 ) decomposed into the phase (β 0 Ni5 Sb2 ) (monoclinic) and an unidentified phase which was near the stoichiometric δNi3 Sb during tempering at high temperature, and the compound δNi3 Sb decomposed peritectoidically at 958 K.” |
+| Phase transition | 1413 K | 1413 | congruent transformation | experimental | [2] Zhang 2008; _cites Chen 1978_ [doi](https://doi.org/10.1016/0022-0248%2878%2990362-7) | p. 2; `ORC-WKLPD2NAF4` | “Chen et al. \[27\] and Leubolt et al. \[28\] investigated the phase equilibria near the congruent melting point of (γ NiSb), which was 47 at.% Sb at 1413 K \[27\] and 47 at.% Sb at 1432 ± 5 K \[28\].” |
 
 ## Sources
 
@@ -286,4 +286,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

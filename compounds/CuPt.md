@@ -14,15 +14,15 @@ Table: Enthalpy of formation of CuPt reported in the literature (9)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -15.6 kJ/mol-atom | L11-CuPt | 298.15 | experimental | Exp. | [Cu–Pt](https://data.orchid-project.org/systems/CU-PT.html) | [1] Abe 2006; _cites Oriani 1962_ [doi](https://doi.org/10.1016/0001-6160%2862%2990102-5) | Table 2, p. 7, row 6 |  |
-| -20 kJ/mol-atom | L11-CuPt |  | model | ASW | [Cu–Pt](https://data.orchid-project.org/systems/CU-PT.html) | [1] Abe 2006; _cites Takizawa 1989_ [doi](https://doi.org/10.1103/physrevb.39.5792) | Table 2, p. 7, row 3 |  |
-| -18 kJ/mol-atom | L11-CuPt |  | model | Miedema | [Cu–Pt](https://data.orchid-project.org/systems/CU-PT.html) | [1] Abe 2006; _cites FR 1988_ | Table 2, p. 7, row 4 |  |
-| -16 kJ/mol-atom | L11-CuPt |  | model |  | [Cu–Pt](https://data.orchid-project.org/systems/CU-PT.html) | [1] Abe 2006 | Table 2, p. 7, row 7 |  |
-| -13 kJ/mol-atom | L10-CuPt |  | model | LMTO | [Cu–Pt](https://data.orchid-project.org/systems/CU-PT.html) | [1] Abe 2006; _cites Johannesson 2002_ [doi](https://doi.org/10.1103/physrevlett.88.255506) | Table 2, p. 7, row 1 |  |
-| -11 kJ/mol-atom | L10-CuPt |  | model | ASW | [Cu–Pt](https://data.orchid-project.org/systems/CU-PT.html) | [1] Abe 2006; _cites Takizawa 1989_ [doi](https://doi.org/10.1103/physrevb.39.5792) | Table 2, p. 7, row 3 |  |
-| -9.6 kJ/mol-atom | L10-CuPt |  | model |  | [Cu–Pt](https://data.orchid-project.org/systems/CU-PT.html) | [1] Abe 2006 | Table 2, p. 7, row 7 |  |
-| -12.4 kJ/mol-atom | L11-CuPt |  | DFT | LAPW | [Cu–Pt](https://data.orchid-project.org/systems/CU-PT.html) | [1] Abe 2006; _cites Lu 1991_ [doi](https://doi.org/10.1103/physrevb.44.512) | Table 2, p. 7, row 2 |  |
-| -9.5 kJ/mol-atom | L10-CuPt |  | DFT | LAPW | [Cu–Pt](https://data.orchid-project.org/systems/CU-PT.html) | [1] Abe 2006; _cites Lu 1991_ [doi](https://doi.org/10.1103/physrevb.44.512) | Table 2, p. 7, row 2 |  |
+| -15.6 kJ/mol-atom | L11-CuPt | 298.15 | experimental | Exp. | [Cu–Pt](https://data.orchid-project.org/systems/CU-PT.html) | [1] Abe 2006; _cites Oriani 1962_ [doi](https://doi.org/10.1016/0001-6160%2862%2990102-5) | Table 2, p. 7, row 6; `ORC-6DJQSZYYIL` |  |
+| -20 kJ/mol-atom | L11-CuPt |  | model | ASW | [Cu–Pt](https://data.orchid-project.org/systems/CU-PT.html) | [1] Abe 2006; _cites Takizawa 1989_ [doi](https://doi.org/10.1103/physrevb.39.5792) | Table 2, p. 7, row 3; `ORC-DGXLGCDH4A.d6d7aa` |  |
+| -18 kJ/mol-atom | L11-CuPt |  | model | Miedema | [Cu–Pt](https://data.orchid-project.org/systems/CU-PT.html) | [1] Abe 2006; _cites FR 1988_ | Table 2, p. 7, row 4; `ORC-BUGOBEY2SA.62097c` |  |
+| -16 kJ/mol-atom | L11-CuPt |  | model |  | [Cu–Pt](https://data.orchid-project.org/systems/CU-PT.html) | [1] Abe 2006 | Table 2, p. 7, row 7; `ORC-X346LL47CP.593f3e` |  |
+| -13 kJ/mol-atom | L10-CuPt |  | model | LMTO | [Cu–Pt](https://data.orchid-project.org/systems/CU-PT.html) | [1] Abe 2006; _cites Johannesson 2002_ [doi](https://doi.org/10.1103/physrevlett.88.255506) | Table 2, p. 7, row 1; `ORC-XOPIEWRTSO.3f6ebd` |  |
+| -11 kJ/mol-atom | L10-CuPt |  | model | ASW | [Cu–Pt](https://data.orchid-project.org/systems/CU-PT.html) | [1] Abe 2006; _cites Takizawa 1989_ [doi](https://doi.org/10.1103/physrevb.39.5792) | Table 2, p. 7, row 3; `ORC-DGXLGCDH4A.af3e23` |  |
+| -9.6 kJ/mol-atom | L10-CuPt |  | model |  | [Cu–Pt](https://data.orchid-project.org/systems/CU-PT.html) | [1] Abe 2006 | Table 2, p. 7, row 7; `ORC-X346LL47CP.f44c89` |  |
+| -12.4 kJ/mol-atom | L11-CuPt |  | DFT | LAPW | [Cu–Pt](https://data.orchid-project.org/systems/CU-PT.html) | [1] Abe 2006; _cites Lu 1991_ [doi](https://doi.org/10.1103/physrevb.44.512) | Table 2, p. 7, row 2; `ORC-K7FCATJG6W.2a4f5d` |  |
+| -9.5 kJ/mol-atom | L10-CuPt |  | DFT | LAPW | [Cu–Pt](https://data.orchid-project.org/systems/CU-PT.html) | [1] Abe 2006; _cites Lu 1991_ [doi](https://doi.org/10.1103/physrevb.44.512) | Table 2, p. 7, row 2; `ORC-K7FCATJG6W.d0d800` |  |
 
 ### Uncertainty budget
 
@@ -107,4 +107,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -59,21 +59,21 @@ Table: Invariant reactions reported in the literature for the Ce–Mn system (15
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1360.95 | (δMn) -> (γMn) + Liquid | (δMn): Mn 0.9712; (γMn): Mn 0.9779; Liquid: Mn 0.8461 | unspecified | [1] Tang 2007 | Table 1, p. 3, row 12 |  |
-| 1360.15 | (δMn) -> (γMn) + Liquid | (δMn): Mn 0.98; (γMn): Mn 0.983; Liquid: Mn 0.86 | experimental | [1] Tang 2007; _cites Mirgalovskaya 1957_ | Table 1, p. 3, row 11 |  |
-| 1271.15 | (γMn) -> (βMn) + Liquid | (γMn): Mn 0.98; (βMn): Mn 0.99; Liquid: Mn 0.71 | experimental | [1] Tang 2007; _cites Iandelli 1952_ | Table 1, p. 3, row 9 |  |
-| 1270.95 | (γMn) -> (βMn) + Liquid | (γMn): Mn 0.9676; (βMn): Mn 0.9819; Liquid: Mn 0.7174 | unspecified | [1] Tang 2007 | Table 1, p. 3, row 10 |  |
-| 913.15 | (δCe) -> (γCe) + Liquid |  | experimental | [1] Tang 2007 | Table 1, p. 3, row 6 |  |
-| 911.35 | (δCe) -> (γCe) + Liquid | (δCe): Mn 0.143; (γCe): Mn 0.0525; Liquid: Mn 0.0136 | unspecified | [1] Tang 2007 | Table 1, p. 3, row 5 |  |
-| 911.15 | (δCe) -> (γCe) + Liquid | (δCe): Mn 0.14; (γCe): Mn 0.05; Liquid: Mn 0.02 | experimental | [1] Tang 2007; _cites Thamer 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990078-5) | Table 1, p. 3, row 4 |  |
-| 908.15 | eutectic: Liquid → (␥Ce) + (␣Mn) |  | experimental | [1] Tang 2007; _cites Mirgalovskaya 1957_ | p. 1 | “Their experimental results \[6\] agrees reasonably with those of Iandelli \[5\] in the composition range from pure Ce to 40 wt.% Mn within experimental uncertainty, except for the eutectic reaction: Liquid → (␥Ce) + (␣Mn), which was determined to occur at 612 ◦ C and 15.1 at.% Mn by Iandelli \[5\], at 635 ◦ C and about 12 at.% Mn by Mirgalovskaya and Strel'nikova \[6\], respectively.” |
-| 898.35 | (βMn) -> (αMn) + Liquid | (βMn): Mn 0.9719; (αMn): Mn 1; Liquid: Mn 0.1663 | unspecified | [1] Tang 2007 | Table 1, p. 3, row 8 |  |
-| 898.15 | (βMn) -> (αMn) + Liquid | (βMn): Mn 0.98; (αMn): Mn 0.995; Liquid: Mn 0.163 | experimental | [1] Tang 2007; _cites Tang_ | Table 1, p. 3, row 7 |  |
-| 895.15 | Liquid -> (γCe) + (αMn) | Liquid: Mn 0.161; (γCe): Mn 0.02; (αMn): Mn 0.995 | experimental | [1] Tang 2007; _cites Thamer 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990078-5) | Table 1, p. 3, row 1 |  |
-| 895.15 | eutectic: Liquid → (␥Ce) + (␣Mn) |  | experimental | [1] Tang 2007; _cites Thamer 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990078-5) | p. 2 | “The eutectic reaction: Liquid → (␥Ce) + (␣Mn) was determined to be at 16.1 ± 0.5 at.% Mn and 622 ◦ C \[8\].” |
-| 894.75 | Liquid -> (γCe) + (αMn) | Liquid: Mn 0.1635; (γCe): Mn 0.0153; (αMn): Mn 1 | unspecified | [1] Tang 2007 | Table 1, p. 3, row 2 |  |
-| 894.15 | Liquid -> (γCe) + (αMn) |  | experimental | [1] Tang 2007 | Table 1, p. 3, row 3 |  |
-| 885.15 | eutectic: Liquid → (␥Ce) + (␣Mn) |  | experimental | [1] Tang 2007; _cites Iandelli 1952_ | p. 1 | “Their experimental results \[6\] agrees reasonably with those of Iandelli \[5\] in the composition range from pure Ce to 40 wt.% Mn within experimental uncertainty, except for the eutectic reaction: Liquid → (␥Ce) + (␣Mn), which was determined to occur at 612 ◦ C and 15.1 at.% Mn by Iandelli \[5\], at 635 ◦ C and about 12 at.% Mn by Mirgalovskaya and Strel'nikova \[6\], respectively.” |
+| 1360.95 | (δMn) -> (γMn) + Liquid | (δMn): Mn 0.9712; (γMn): Mn 0.9779; Liquid: Mn 0.8461 | unspecified | [1] Tang 2007 | Table 1, p. 3, row 12; `ORC-3CMTTRVIXX` |  |
+| 1360.15 | (δMn) -> (γMn) + Liquid | (δMn): Mn 0.98; (γMn): Mn 0.983; Liquid: Mn 0.86 | experimental | [1] Tang 2007; _cites Mirgalovskaya 1957_ | Table 1, p. 3, row 11; `ORC-Q23B4I5XPQ` |  |
+| 1271.15 | (γMn) -> (βMn) + Liquid | (γMn): Mn 0.98; (βMn): Mn 0.99; Liquid: Mn 0.71 | experimental | [1] Tang 2007; _cites Iandelli 1952_ | Table 1, p. 3, row 9; `ORC-KM6HBOFRQQ` |  |
+| 1270.95 | (γMn) -> (βMn) + Liquid | (γMn): Mn 0.9676; (βMn): Mn 0.9819; Liquid: Mn 0.7174 | unspecified | [1] Tang 2007 | Table 1, p. 3, row 10; `ORC-QHEMPAAJPJ` |  |
+| 913.15 | (δCe) -> (γCe) + Liquid |  | experimental | [1] Tang 2007 | Table 1, p. 3, row 6; `ORC-2XYG5UZFAY` |  |
+| 911.35 | (δCe) -> (γCe) + Liquid | (δCe): Mn 0.143; (γCe): Mn 0.0525; Liquid: Mn 0.0136 | unspecified | [1] Tang 2007 | Table 1, p. 3, row 5; `ORC-CKQ7LTQ7AK` |  |
+| 911.15 | (δCe) -> (γCe) + Liquid | (δCe): Mn 0.14; (γCe): Mn 0.05; Liquid: Mn 0.02 | experimental | [1] Tang 2007; _cites Thamer 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990078-5) | Table 1, p. 3, row 4; `ORC-FRSZXDEDO7` |  |
+| 908.15 | eutectic: Liquid → (␥Ce) + (␣Mn) |  | experimental | [1] Tang 2007; _cites Mirgalovskaya 1957_ | p. 1; `ORC-EYDLEGZXZZ.86db3f` | “Their experimental results \[6\] agrees reasonably with those of Iandelli \[5\] in the composition range from pure Ce to 40 wt.% Mn within experimental uncertainty, except for the eutectic reaction: Liquid → (␥Ce) + (␣Mn), which was determined to occur at 612 ◦ C and 15.1 at.% Mn by Iandelli \[5\], at 635 ◦ C and about 12 at.% Mn by Mirgalovskaya and Strel'nikova \[6\], respectively.” |
+| 898.35 | (βMn) -> (αMn) + Liquid | (βMn): Mn 0.9719; (αMn): Mn 1; Liquid: Mn 0.1663 | unspecified | [1] Tang 2007 | Table 1, p. 3, row 8; `ORC-QWRMHFG377` |  |
+| 898.15 | (βMn) -> (αMn) + Liquid | (βMn): Mn 0.98; (αMn): Mn 0.995; Liquid: Mn 0.163 | experimental | [1] Tang 2007; _cites Tang_ | Table 1, p. 3, row 7; `ORC-MACLYA4AHK` |  |
+| 895.15 | Liquid -> (γCe) + (αMn) | Liquid: Mn 0.161; (γCe): Mn 0.02; (αMn): Mn 0.995 | experimental | [1] Tang 2007; _cites Thamer 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990078-5) | Table 1, p. 3, row 1; `ORC-ILMTW7LL56` |  |
+| 895.15 | eutectic: Liquid → (␥Ce) + (␣Mn) |  | experimental | [1] Tang 2007; _cites Thamer 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990078-5) | p. 2; `ORC-VJJJQE7P4I` | “The eutectic reaction: Liquid → (␥Ce) + (␣Mn) was determined to be at 16.1 ± 0.5 at.% Mn and 622 ◦ C \[8\].” |
+| 894.75 | Liquid -> (γCe) + (αMn) | Liquid: Mn 0.1635; (γCe): Mn 0.0153; (αMn): Mn 1 | unspecified | [1] Tang 2007 | Table 1, p. 3, row 2; `ORC-QICHO5UF7I` |  |
+| 894.15 | Liquid -> (γCe) + (αMn) |  | experimental | [1] Tang 2007 | Table 1, p. 3, row 3; `ORC-DBIF54X5BN` |  |
+| 885.15 | eutectic: Liquid → (␥Ce) + (␣Mn) |  | experimental | [1] Tang 2007; _cites Iandelli 1952_ | p. 1; `ORC-EYDLEGZXZZ.7b8fe1` | “Their experimental results \[6\] agrees reasonably with those of Iandelli \[5\] in the composition range from pure Ce to 40 wt.% Mn within experimental uncertainty, except for the eutectic reaction: Liquid → (␥Ce) + (␣Mn), which was determined to occur at 612 ◦ C and 15.1 at.% Mn by Iandelli \[5\], at 635 ◦ C and about 12 at.% Mn by Mirgalovskaya and Strel'nikova \[6\], respectively.” |
 
 ## Other properties
 
@@ -83,8 +83,8 @@ Table: Phase transition, Ce–Mn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 898.15 K | 898.15 | other: (␤Mn) → (␣Mn) + Liquid | experimental | [1] Tang 2007 | p. 2 | “Another invariant reaction, catatectic reaction: (␤Mn) → (␣Mn) + Liquid, was reported to exist at 625 ◦ C.” |
-| Phase transition | 911.15 K | 911.15 | other: (␦Ce) → (␥Ce) + Liquid | experimental | [1] Tang 2007; _cites Thamer 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990078-5) | p. 2 | “The catatectic reaction: (␦Ce) → (␥Ce) + Liquid, in the Cerich side was determined to occur at 5 ± 1 at.% Mn and 638 ◦ C \[8\].” |
+| Phase transition | 898.15 K | 898.15 | other: (␤Mn) → (␣Mn) + Liquid | experimental | [1] Tang 2007 | p. 2; `ORC-JTIRKULRRM` | “Another invariant reaction, catatectic reaction: (␤Mn) → (␣Mn) + Liquid, was reported to exist at 625 ◦ C.” |
+| Phase transition | 911.15 K | 911.15 | other: (␦Ce) → (␥Ce) + Liquid | experimental | [1] Tang 2007; _cites Thamer 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990078-5) | p. 2; `ORC-PQASK5KK6J` | “The catatectic reaction: (␦Ce) → (␥Ce) + Liquid, in the Cerich side was determined to occur at 5 ± 1 at.% Mn and 638 ◦ C \[8\].” |
 
 ## Sources
 
@@ -149,4 +149,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

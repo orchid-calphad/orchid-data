@@ -28,8 +28,8 @@ Table: Mixing / partial, Cr–Fe–Mn–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: ΔmixH^extrapolation_ | -9.274 kJ/mol-atom |  | fcc; _alloy: Cr 0.25, Fe 0.25, Mn 0.25, Ni 0.25_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 25 |  |
-| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -6.447 kJ/mol-atom |  | fcc; _alloy: Cr 0.25, Fe 0.25, Mn 0.25, Ni 0.25_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 25 |  |
+| Enthalpy of mixing; _printed: ΔmixH^extrapolation_ | -9.274 kJ/mol-atom |  | fcc; _alloy: Cr 0.25, Fe 0.25, Mn 0.25, Ni 0.25_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 25; `ORC-DSTFPTJBU5.13c817` |  |
+| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -6.447 kJ/mol-atom |  | fcc; _alloy: Cr 0.25, Fe 0.25, Mn 0.25, Ni 0.25_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 25; `ORC-DSTFPTJBU5.64f4c3` |  |
 
 ## Sources
 
@@ -72,4 +72,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

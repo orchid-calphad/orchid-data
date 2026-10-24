@@ -51,8 +51,8 @@ Table: Invariant reactions reported in the literature for the Nd–Sr system (2)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1048 | eutectic: Liq fi DHCP + BCC_A2 |  | model | [1] Xu 2013 | p. 5 | “The reaction Liq fi DHCP + BCC_A2 is predicted to occur at 1048 K (775 C) rather than 1013 K (740 C) in order to avoid an ''improper'' deep eutectic valley\[13\] lying extremely close to pure Sr in view of an updated melting temperature of 1050 K (777 C) for Sr.\[14\]” |
-| 1013 | eutectic: Liq fi DHCP + BCC_A2 |  | model | [1] Xu 2013; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02668229) | p. 5 | “The reaction Liq fi DHCP + BCC_A2 is predicted to occur at 1048 K (775 C) rather than 1013 K (740 C) in order to avoid an ''improper'' deep eutectic valley\[13\] lying extremely close to pure Sr in view of an updated melting temperature of 1050 K (777 C) for Sr.\[14\]” |
+| 1048 | eutectic: Liq fi DHCP + BCC_A2 |  | model | [1] Xu 2013 | p. 5; `ORC-UIUFNUCIOP.2d4aae` | “The reaction Liq fi DHCP + BCC_A2 is predicted to occur at 1048 K (775 C) rather than 1013 K (740 C) in order to avoid an ''improper'' deep eutectic valley\[13\] lying extremely close to pure Sr in view of an updated melting temperature of 1050 K (777 C) for Sr.\[14\]” |
+| 1013 | eutectic: Liq fi DHCP + BCC_A2 |  | model | [1] Xu 2013; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02668229) | p. 5; `ORC-UIUFNUCIOP.f91d55` | “The reaction Liq fi DHCP + BCC_A2 is predicted to occur at 1048 K (775 C) rather than 1013 K (740 C) in order to avoid an ''improper'' deep eutectic valley\[13\] lying extremely close to pure Sr in view of an updated melting temperature of 1050 K (777 C) for Sr.\[14\]” |
 
 ## Other properties
 
@@ -62,8 +62,8 @@ Table: Phase transition, Nd–Sr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 860 K | 860 |  | experimental | [1] Xu 2013 | p. 3 | “The DSC curve in Figure 3(b) confirms that this alloy starts to melt at 860 K (587 C) higher than the melting temperature 839 K (566 C) of Alloy” |
-| Phase transition | 1050 K | 1050 |  | model | [1] Xu 2013; _cites SGTE 2001_ | p. 5 | “The reaction Liq fi DHCP + BCC_A2 is predicted to occur at 1048 K (775 C) rather than 1013 K (740 C) in order to avoid an ''improper'' deep eutectic valley\[13\] lying extremely close to pure Sr in view of an updated melting temperature of 1050 K (777 C) for Sr.\[14\]” |
+| Phase transition | 860 K | 860 |  | experimental | [1] Xu 2013 | p. 3; `ORC-KGC76HHT56` | “The DSC curve in Figure 3(b) confirms that this alloy starts to melt at 860 K (587 C) higher than the melting temperature 839 K (566 C) of Alloy” |
+| Phase transition | 1050 K | 1050 |  | model | [1] Xu 2013; _cites SGTE 2001_ | p. 5; `ORC-UIUFNUCIOP.3a48cc` | “The reaction Liq fi DHCP + BCC_A2 is predicted to occur at 1048 K (775 C) rather than 1013 K (740 C) in order to avoid an ''improper'' deep eutectic valley\[13\] lying extremely close to pure Sr in view of an updated melting temperature of 1050 K (777 C) for Sr.\[14\]” |
 
 ## Sources
 
@@ -128,4 +128,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

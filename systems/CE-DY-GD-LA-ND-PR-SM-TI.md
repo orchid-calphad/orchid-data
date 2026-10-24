@@ -28,13 +28,13 @@ Table: Phase transition, Ce–Dy–Gd–La–Nd–Pr–Sm–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1713.15 K | 1713.15 | other: Dy-Ti | unspecified | [1] Saengdeejing 2021 | Table 5, p. 26, row 7 |  |
-| Phase transition | 1773.15 K | 1773.15 | other: Gd-Ti | unspecified | [1] Saengdeejing 2021 | Table 5, p. 26, row 6 |  |
-| Phase transition | 1923.15 K | 1923.15 | other: Ce-Ti | unspecified | [1] Saengdeejing 2021 | Table 5, p. 26, row 2 |  |
-| Phase transition | 2056.15 K | 2056.15 | other: La-Ti | unspecified | [1] Saengdeejing 2021 | Table 5, p. 26, row 1 |  |
-| Phase transition | 2073.15 K | 2073.15 | other: Pr-Ti | unspecified | [1] Saengdeejing 2021 | Table 5, p. 26, row 3 |  |
-| Phase transition | 2123.15 K | 2123.15 | other: Nd-Ti | unspecified | [1] Saengdeejing 2021 | Table 5, p. 26, row 4 |  |
-| Phase transition | 2273.15 K | 2273.15 | other: Sm-Ti | unspecified | [1] Saengdeejing 2021 | Table 5, p. 26, row 5 |  |
+| Phase transition | 1713.15 K | 1713.15 | other: Dy-Ti | unspecified | [1] Saengdeejing 2021 | Table 5, p. 26, row 7; `ORC-RXSX74KW47` |  |
+| Phase transition | 1773.15 K | 1773.15 | other: Gd-Ti | unspecified | [1] Saengdeejing 2021 | Table 5, p. 26, row 6; `ORC-GRU3R3MWHX` |  |
+| Phase transition | 1923.15 K | 1923.15 | other: Ce-Ti | unspecified | [1] Saengdeejing 2021 | Table 5, p. 26, row 2; `ORC-GORW43PHTN` |  |
+| Phase transition | 2056.15 K | 2056.15 | other: La-Ti | unspecified | [1] Saengdeejing 2021 | Table 5, p. 26, row 1; `ORC-RJJK5HBOI3` |  |
+| Phase transition | 2073.15 K | 2073.15 | other: Pr-Ti | unspecified | [1] Saengdeejing 2021 | Table 5, p. 26, row 3; `ORC-JIUSBGTCEK` |  |
+| Phase transition | 2123.15 K | 2123.15 | other: Nd-Ti | unspecified | [1] Saengdeejing 2021 | Table 5, p. 26, row 4; `ORC-JDTKGIRHKC` |  |
+| Phase transition | 2273.15 K | 2273.15 | other: Sm-Ti | unspecified | [1] Saengdeejing 2021 | Table 5, p. 26, row 5; `ORC-D3NMGVUIN3` |  |
 
 ## Sources
 
@@ -77,4 +77,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

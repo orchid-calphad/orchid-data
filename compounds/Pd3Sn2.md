@@ -14,10 +14,10 @@ Table: Enthalpy of formation of Pd3Sn2 reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -62.351 kJ/mol-atom ± 0.276 | α-Pd3Sn2 | 320 | experimental |  | [Pd–Sn](https://data.orchid-project.org/systems/PD-SN.html) | [1] Ghosh 1999; _cites Bryant 1970_ | Table V, p. 8, row 7 |  |
-| -69 kJ/mol-atom | α-Pd3Sn2 | 298.15 | model |  | [Pd–Sn](https://data.orchid-project.org/systems/PD-SN.html) | [1] Ghosh 1999; _cites F 1988_ | Table V, p. 8, row 8 |  |
-| -64.575 kJ/mol-atom | α-Pd3Sn2 | 298.15 | unspecified |  | [Pd–Sn](https://data.orchid-project.org/systems/PD-SN.html) | [1] Ghosh 1999 | Table V, p. 8, row 9 |  |
-| -64.286 kJ/mol-atom | δ-Pd3Sn2 | 298.15 | unspecified |  | [Pd–Sn](https://data.orchid-project.org/systems/PD-SN.html) | [1] Ghosh 1999 | Table V, p. 8, row 11 |  |
+| -62.351 kJ/mol-atom ± 0.276 | α-Pd3Sn2 | 320 | experimental |  | [Pd–Sn](https://data.orchid-project.org/systems/PD-SN.html) | [1] Ghosh 1999; _cites Bryant 1970_ | Table V, p. 8, row 7; `ORC-LDP5O2JGT6.cde3eb` |  |
+| -69 kJ/mol-atom | α-Pd3Sn2 | 298.15 | model |  | [Pd–Sn](https://data.orchid-project.org/systems/PD-SN.html) | [1] Ghosh 1999; _cites F 1988_ | Table V, p. 8, row 8; `ORC-HZTF6HN5ES.3bbde2` |  |
+| -64.575 kJ/mol-atom | α-Pd3Sn2 | 298.15 | unspecified |  | [Pd–Sn](https://data.orchid-project.org/systems/PD-SN.html) | [1] Ghosh 1999 | Table V, p. 8, row 9; `ORC-4AP47QVW2J.01ba96` |  |
+| -64.286 kJ/mol-atom | δ-Pd3Sn2 | 298.15 | unspecified |  | [Pd–Sn](https://data.orchid-project.org/systems/PD-SN.html) | [1] Ghosh 1999 | Table V, p. 8, row 11; `ORC-GUO2HTRXSB.40b3fe` |  |
 
 ### Uncertainty budget
 
@@ -95,4 +95,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

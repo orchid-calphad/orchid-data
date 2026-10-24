@@ -46,12 +46,12 @@ Table: Invariant reactions reported in the literature for the Th–Zr system (6)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1230.15 | critical point: (βZr, βTh) ↔ βZr + βTh | (βZr, βTh): Th 0.46 | model | [1] Li 2009 | Table 4, p. 4, row 6 |  |
-| 1228.15 | critical point: (βZr, βTh) ↔ βZr + βTh | (βZr, βTh): Th 0.5, Zr 0.5 | experimental | [1] Li 2009; _cites Massalski 1990_ | Table 4, p. 4, row 5 |  |
-| 1178.15 | monotectoid: βTh ↔ βZr + αTh | βTh: Th 0.54; βZr: Th 0.4; αTh: Th 0.852 | experimental | [1] Li 2009; _cites Massalski 1990_ | Table 4, p. 4, row 3 |  |
-| 1177.15 | monotectoid: βTh ↔ βZr + αTh | βTh: Th 0.535; βZr: Th 0.395; αTh: Th 0.85 | model | [1] Li 2009 | Table 4, p. 4, row 4 |  |
-| 923.15 | eutectoid: βZr ↔ αZr + αTh | βZr: Th 0.15; αZr: Th 0 | experimental | [1] Li 2009; _cites Massalski 1990_ | Table 4, p. 4, row 1 |  |
-| 923.15 | eutectoid: βZr ↔ αZr + αTh | βZr: Th 0.15; αZr: Th 0.005; αTh: Th 0.87 | model | [1] Li 2009 | Table 4, p. 4, row 2 |  |
+| 1230.15 | critical point: (βZr, βTh) ↔ βZr + βTh | (βZr, βTh): Th 0.46 | model | [1] Li 2009 | Table 4, p. 4, row 6; `ORC-N4DMBFZOCB` |  |
+| 1228.15 | critical point: (βZr, βTh) ↔ βZr + βTh | (βZr, βTh): Th 0.5, Zr 0.5 | experimental | [1] Li 2009; _cites Massalski 1990_ | Table 4, p. 4, row 5; `ORC-V5WRYY5XT6` |  |
+| 1178.15 | monotectoid: βTh ↔ βZr + αTh | βTh: Th 0.54; βZr: Th 0.4; αTh: Th 0.852 | experimental | [1] Li 2009; _cites Massalski 1990_ | Table 4, p. 4, row 3; `ORC-AZ6MHJ2DYY` |  |
+| 1177.15 | monotectoid: βTh ↔ βZr + αTh | βTh: Th 0.535; βZr: Th 0.395; αTh: Th 0.85 | model | [1] Li 2009 | Table 4, p. 4, row 4; `ORC-C6AZX76MOG` |  |
+| 923.15 | eutectoid: βZr ↔ αZr + αTh | βZr: Th 0.15; αZr: Th 0 | experimental | [1] Li 2009; _cites Massalski 1990_ | Table 4, p. 4, row 1; `ORC-6NYNJDHDU7` |  |
+| 923.15 | eutectoid: βZr ↔ αZr + αTh | βZr: Th 0.15; αZr: Th 0.005; αTh: Th 0.87 | model | [1] Li 2009 | Table 4, p. 4, row 2; `ORC-MGKAXDBGH3` |  |
 
 ## Sources
 
@@ -116,4 +116,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

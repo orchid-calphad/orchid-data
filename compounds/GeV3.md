@@ -14,10 +14,10 @@ Table: Enthalpy of formation of GeV3 reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -44.8 kJ/mol-atom | V3Ge | 1073.15 | experimental | emf | [Ge–V](https://data.orchid-project.org/systems/GE-V.html) | [1] Yuan 2011; _cites Eremenko 1976_ | Table 3, p. 2, row 7 |  |
-| -36 kJ/mol-atom | V3Ge | 298.15 | model | Calculated | [Ge–V](https://data.orchid-project.org/systems/GE-V.html) | [1] Yuan 2011 | Table 3, p. 2, row 19 |  |
-| -35.3 kJ/mol-atom | V3Ge | 298.15 | model | Calculated | [Ge–V](https://data.orchid-project.org/systems/GE-V.html) | [1] Yuan 2011; _cites Smith 1981_ [doi](https://doi.org/10.1007/bf02881480) | Table 3, p. 2, row 11 |  |
-| -35.1 kJ/mol-atom | V3Ge | 298.15 | model | Calculated | [Ge–V](https://data.orchid-project.org/systems/GE-V.html) | [1] Yuan 2011; _cites Wang 2008_ [doi](https://doi.org/10.1016/j.intermet.2008.01.002) | Table 3, p. 2, row 15 |  |
+| -44.8 kJ/mol-atom | V3Ge | 1073.15 | experimental | emf | [Ge–V](https://data.orchid-project.org/systems/GE-V.html) | [1] Yuan 2011; _cites Eremenko 1976_ | Table 3, p. 2, row 7; `ORC-D53FSTFVNE` |  |
+| -36 kJ/mol-atom | V3Ge | 298.15 | model | Calculated | [Ge–V](https://data.orchid-project.org/systems/GE-V.html) | [1] Yuan 2011 | Table 3, p. 2, row 19; `ORC-PDYRTLZNWE` |  |
+| -35.3 kJ/mol-atom | V3Ge | 298.15 | model | Calculated | [Ge–V](https://data.orchid-project.org/systems/GE-V.html) | [1] Yuan 2011; _cites Smith 1981_ [doi](https://doi.org/10.1007/bf02881480) | Table 3, p. 2, row 11; `ORC-66UNN733IT` |  |
+| -35.1 kJ/mol-atom | V3Ge | 298.15 | model | Calculated | [Ge–V](https://data.orchid-project.org/systems/GE-V.html) | [1] Yuan 2011; _cites Wang 2008_ [doi](https://doi.org/10.1016/j.intermet.2008.01.002) | Table 3, p. 2, row 15; `ORC-FZXIEND36W` |  |
 
 ### Uncertainty budget
 
@@ -96,4 +96,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -54,10 +54,10 @@ Table: Invariant reactions reported in the literature for the Gd–Ru system (4)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1338 | peritectic |  | experimental | [1] Kardellass 2023 | p. 3 | “The other two phases are formed peritectically at 1328 K (Gd3Ru) and 1388 K (Dy3Ru) and at 1338 K (Gd2Ru) and 1411 K (Dy2Ru).” |
-| 1328 | peritectic |  | experimental | [1] Kardellass 2023 | p. 3 | “The other two phases are formed peritectically at 1328 K (Gd3Ru) and 1388 K (Dy3Ru) and at 1338 K (Gd2Ru) and 1411 K (Dy2Ru).” |
-| 1238 | eutectic |  | experimental | [1] Kardellass 2023; _cites Loebich 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990172-7) | p. 3 | “The two eutectic points of the Gd-Ru system correspond to 1190 K and 1238 K for 70 and 85 at.% Gd, and, in the case of the Dy-Ru system, they are 1263 K and 1363 K for compositions of 70 and 82 at.% Dy.” |
-| 1190 | eutectic |  | experimental | [1] Kardellass 2023; _cites Loebich 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990172-7) | p. 3 | “The two eutectic points of the Gd-Ru system correspond to 1190 K and 1238 K for 70 and 85 at.% Gd, and, in the case of the Dy-Ru system, they are 1263 K and 1363 K for compositions of 70 and 82 at.% Dy.” |
+| 1338 | peritectic |  | experimental | [1] Kardellass 2023 | p. 3; `ORC-A44RWNYAPV.22e042` | “The other two phases are formed peritectically at 1328 K (Gd3Ru) and 1388 K (Dy3Ru) and at 1338 K (Gd2Ru) and 1411 K (Dy2Ru).” |
+| 1328 | peritectic |  | experimental | [1] Kardellass 2023 | p. 3; `ORC-A44RWNYAPV.82763a` | “The other two phases are formed peritectically at 1328 K (Gd3Ru) and 1388 K (Dy3Ru) and at 1338 K (Gd2Ru) and 1411 K (Dy2Ru).” |
+| 1238 | eutectic |  | experimental | [1] Kardellass 2023; _cites Loebich 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990172-7) | p. 3; `ORC-2HRU5V3Z5K.854b3f` | “The two eutectic points of the Gd-Ru system correspond to 1190 K and 1238 K for 70 and 85 at.% Gd, and, in the case of the Dy-Ru system, they are 1263 K and 1363 K for compositions of 70 and 82 at.% Dy.” |
+| 1190 | eutectic |  | experimental | [1] Kardellass 2023; _cites Loebich 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990172-7) | p. 3; `ORC-2HRU5V3Z5K.e185c6` | “The two eutectic points of the Gd-Ru system correspond to 1190 K and 1238 K for 70 and 85 at.% Gd, and, in the case of the Dy-Ru system, they are 1263 K and 1363 K for compositions of 70 and 82 at.% Dy.” |
 
 ## Other properties
 
@@ -67,7 +67,7 @@ Table: Phase transition, Gd–Ru system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1173 K | 1173 | congruent transformation | experimental | [1] Kardellass 2023 | p. 3 | “Within the four compounds, only two with the composition Ln73Ru27, melt congruently at 1173 K for Gd73Ru27 and 1423 K for Dy73Ru27.” |
+| Phase transition | 1173 K | 1173 | congruent transformation | experimental | [1] Kardellass 2023 | p. 3; `ORC-G7M5D4DRK6.1d60f0` | “Within the four compounds, only two with the composition Ln73Ru27, melt congruently at 1173 K for Gd73Ru27 and 1423 K for Dy73Ru27.” |
 
 ## Sources
 
@@ -132,4 +132,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -14,11 +14,11 @@ Table: Enthalpy of formation of Ga6Ho reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -33.1 kJ/mol-atom | HoGa6 | 681.575 | experimental | Emf (660 – 1065 K) | [Ga–Ho](https://data.orchid-project.org/systems/GA-HO.html) | [1] Boukideur 2020; _cites Colinet 1994_ [doi](https://doi.org/10.1016/s0168-1273%2805%2980063-7) | Table 1, p. 3, row 20 |  |
-| -35 kJ/mol-atom | HoGa6 | 298.15 | model | Optimization\[R-K\] | [Ga–Ho](https://data.orchid-project.org/systems/GA-HO.html) | [1] Boukideur 2020 | Table 1, p. 3, row 21 |  |
-| -33.1 kJ/mol-atom | HoGa6 | 298.15 | model | Optimization\[A\] | [Ga–Ho](https://data.orchid-project.org/systems/GA-HO.html) | [1] Boukideur 2020 | Table 1, p. 3, row 23 |  |
-| -33 kJ/mol-atom | HoGa6 | 298.15 | model | Optimization\[K\] | [Ga–Ho](https://data.orchid-project.org/systems/GA-HO.html) | [1] Boukideur 2020 | Table 1, p. 3, row 22 |  |
-| -28.95 kJ/mol-atom | HoGa6 | 298.15 | model | Miedema’s model | [Ga–Ho](https://data.orchid-project.org/systems/GA-HO.html) | [1] Boukideur 2020; _cites De 2014_ | Table 1, p. 3, row 19 |  |
+| -33.1 kJ/mol-atom | HoGa6 | 681.575 | experimental | Emf (660 – 1065 K) | [Ga–Ho](https://data.orchid-project.org/systems/GA-HO.html) | [1] Boukideur 2020; _cites Colinet 1994_ [doi](https://doi.org/10.1016/s0168-1273%2805%2980063-7) | Table 1, p. 3, row 20; `ORC-2UHOWSMDDM.36e676` |  |
+| -35 kJ/mol-atom | HoGa6 | 298.15 | model | Optimization\[R-K\] | [Ga–Ho](https://data.orchid-project.org/systems/GA-HO.html) | [1] Boukideur 2020 | Table 1, p. 3, row 21; `ORC-EN3EGWJZUG.74ef41` |  |
+| -33.1 kJ/mol-atom | HoGa6 | 298.15 | model | Optimization\[A\] | [Ga–Ho](https://data.orchid-project.org/systems/GA-HO.html) | [1] Boukideur 2020 | Table 1, p. 3, row 23; `ORC-3GNRLTY6ED.334ce8` |  |
+| -33 kJ/mol-atom | HoGa6 | 298.15 | model | Optimization\[K\] | [Ga–Ho](https://data.orchid-project.org/systems/GA-HO.html) | [1] Boukideur 2020 | Table 1, p. 3, row 22; `ORC-2V5BXCODMG.a026e9` |  |
+| -28.95 kJ/mol-atom | HoGa6 | 298.15 | model | Miedema’s model | [Ga–Ho](https://data.orchid-project.org/systems/GA-HO.html) | [1] Boukideur 2020; _cites De 2014_ | Table 1, p. 3, row 19; `ORC-WSEREDH3XH.21a5db` |  |
 
 ### Uncertainty budget
 
@@ -98,4 +98,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

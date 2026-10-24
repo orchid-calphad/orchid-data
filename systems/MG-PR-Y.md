@@ -26,19 +26,19 @@ Table: Invariant reactions reported in the literature for the Mg–Pr–Y system
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1228 | eutectic: liq. -> MgM + bcc |  | model | [1] Guo 2008 | Table 4, p. 6, row 1 |  |
-| 1049 | eutectic: liq. -> MgM + Mg2Pr |  | model | [1] Guo 2008 | Table 4, p. 6, row 2 |  |
-| 1011 | quasi-peritectic: liq. + MgM -> Mg2Pr + Mg2Y | liq.: Mg 0.7204, Pr 0.0578, Y 0.2218 | model | [1] Guo 2008 | Table 4, p. 6, row 4 |  |
-| 921 | quasi-peritectic: liq. + Mg2Pr -> Mg3Pr + Mg2Y | liq.: Mg 0.7934, Pr 0.0739, Y 0.1327 | model | [1] Guo 2008 | Table 4, p. 6, row 5 |  |
-| 879 | eutectic: liq -> Mg3Pr + Mg5M |  | model | [1] Guo 2008 | Table 4, p. 6, row 6 |  |
-| 878 | quasi-peritectic: liq. + Mg2Y -> Mg3Pr + Mg5M | liq.: Mg 0.8294, Pr 0.0513, Y 0.1193 | model | [1] Guo 2008 | Table 4, p. 6, row 7 |  |
-| 875 | quasi-peritectic: liq. + Mg2Y -> Mg24Y5 + Mg5M | liq.: Mg 0.8517, Pr 0.0176, Y 0.1307 | model | [1] Guo 2008 | Table 4, p. 6, row 8 |  |
-| 839 | quasi-peritectic: liq. + Mg3Pr -> Mg41Pr5 + Mg5M | liq.: Mg 0.903, Pr 0.0661, Y 0.0309 | model | [1] Guo 2008 | Table 4, p. 6, row 9 |  |
-| 834 | quasi-peritectic: liq. + Mg12Pr -> Mg41Pr5 + hcp | liq.: Mg 0.9304, Pr 0.0624, Y 0.0072 | model | [1] Guo 2008 | Table 4, p. 6, row 10 |  |
-| 827 | quasi-peritectic: liq. + Mg24Y5 -> hcp + Mg5M | liq.: Mg 0.9083, Pr 0.0176, Y 0.0741 | model | [1] Guo 2008 | Table 4, p. 6, row 11 |  |
-| 825 | quasi-peritectic: bcc + hcp -> MgM + dhcp |  | model | [1] Guo 2008 | Table 4, p. 6, row 13 |  |
-| 824 | eutectic: liq -> Mg41Pr5 + hcp + Mg5M | liq: Mg 0.9126, Pr 0.0385, Y 0.0489 | model | [1] Guo 2008 | Table 4, p. 6, row 12 |  |
-| 696 | quasi-peritectic: dhcp + hcp -> MgM + Pr2Y |  | model | [1] Guo 2008 | Table 4, p. 6, row 14 |  |
+| 1228 | eutectic: liq. -> MgM + bcc |  | model | [1] Guo 2008 | Table 4, p. 6, row 1; `ORC-HKAGWKF5CP` |  |
+| 1049 | eutectic: liq. -> MgM + Mg2Pr |  | model | [1] Guo 2008 | Table 4, p. 6, row 2; `ORC-VSGKYVTMAD` |  |
+| 1011 | quasi-peritectic: liq. + MgM -> Mg2Pr + Mg2Y | liq.: Mg 0.7204, Pr 0.0578, Y 0.2218 | model | [1] Guo 2008 | Table 4, p. 6, row 4; `ORC-QBFQGWYOAS` |  |
+| 921 | quasi-peritectic: liq. + Mg2Pr -> Mg3Pr + Mg2Y | liq.: Mg 0.7934, Pr 0.0739, Y 0.1327 | model | [1] Guo 2008 | Table 4, p. 6, row 5; `ORC-OFLGWCIB3X` |  |
+| 879 | eutectic: liq -> Mg3Pr + Mg5M |  | model | [1] Guo 2008 | Table 4, p. 6, row 6; `ORC-PJSVR3S4KN` |  |
+| 878 | quasi-peritectic: liq. + Mg2Y -> Mg3Pr + Mg5M | liq.: Mg 0.8294, Pr 0.0513, Y 0.1193 | model | [1] Guo 2008 | Table 4, p. 6, row 7; `ORC-LGCEXYMZKA` |  |
+| 875 | quasi-peritectic: liq. + Mg2Y -> Mg24Y5 + Mg5M | liq.: Mg 0.8517, Pr 0.0176, Y 0.1307 | model | [1] Guo 2008 | Table 4, p. 6, row 8; `ORC-KESTKIDAAA` |  |
+| 839 | quasi-peritectic: liq. + Mg3Pr -> Mg41Pr5 + Mg5M | liq.: Mg 0.903, Pr 0.0661, Y 0.0309 | model | [1] Guo 2008 | Table 4, p. 6, row 9; `ORC-I65WIDAXWK` |  |
+| 834 | quasi-peritectic: liq. + Mg12Pr -> Mg41Pr5 + hcp | liq.: Mg 0.9304, Pr 0.0624, Y 0.0072 | model | [1] Guo 2008 | Table 4, p. 6, row 10; `ORC-XB6QGEWKWW` |  |
+| 827 | quasi-peritectic: liq. + Mg24Y5 -> hcp + Mg5M | liq.: Mg 0.9083, Pr 0.0176, Y 0.0741 | model | [1] Guo 2008 | Table 4, p. 6, row 11; `ORC-23TBWJJGVL` |  |
+| 825 | quasi-peritectic: bcc + hcp -> MgM + dhcp |  | model | [1] Guo 2008 | Table 4, p. 6, row 13; `ORC-J6AXWP7PQB` |  |
+| 824 | eutectic: liq -> Mg41Pr5 + hcp + Mg5M | liq: Mg 0.9126, Pr 0.0385, Y 0.0489 | model | [1] Guo 2008 | Table 4, p. 6, row 12; `ORC-Z2ECKLTBSQ` |  |
+| 696 | quasi-peritectic: dhcp + hcp -> MgM + Pr2Y |  | model | [1] Guo 2008 | Table 4, p. 6, row 14; `ORC-3BZHW6MZRU` |  |
 
 ## Sources
 
@@ -81,4 +81,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

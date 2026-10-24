@@ -26,28 +26,28 @@ Table: Invariant reactions reported in the literature for the B–Ni–Si system
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1543.15 | L + (Si) + SiB6 -> SiB3 | L: B 0.145, Si 0.697 | model | [1] Tokunaga 2001 | Table 3, p. 8, row 22 |  |
-| 1367.15 | L + Ni5Si2 (γ) -> Ni2Si (δ) + Ni6Si2B | L: B 0.143, Si 0.229 | model | [1] Tokunaga 2001 | Table 3, p. 8, row 21 |  |
-| 1352.15 | L + Ni2Si (δ) -> Ni6Si2B + Ni4.29Si2B1.43 | L: B 0.16, Si 0.232 | model | [1] Tokunaga 2001 | Table 3, p. 8, row 20 |  |
-| 1330.15 | L + Ni5Si2 (γ) -> Ni3Si (β2) + Ni6Si2B | L: B 0.112, Si 0.166 | model | [1] Tokunaga 2001 | Table 3, p. 8, row 19 |  |
-| 1320.15 | L + Ni2Si (δ) -> Ni2Si (θ) + Ni4.29Si2B1.43 | L: B 0.107, Si 0.345 | model | [1] Tokunaga 2001 | Table 3, p. 8, row 18 |  |
-| 1308.15 | L + fcc + Ni3Si (β2) -> Ni3Si (β1) | L: B 0.111, Si 0.152 | model | [1] Tokunaga 2001 | Table 3, p. 8, row 17 |  |
-| 1304.15 | L + Ni3Si (β2) -> Ni3Si (β1) + Ni6Si2B | L: B 0.116, Si 0.15 | model | [1] Tokunaga 2001 | Table 3, p. 8, row 16 |  |
-| 1303.15 | L + (B) -> NiB + SiBn | L: B 0.494, Si 0.006 | model | [1] Tokunaga 2001 | Table 3, p. 8, row 15 |  |
-| 1301.15 | L + Ni3Si (β1) -> fcc + Ni6Si2B | L: B 0.118, Si 0.148 | model | [1] Tokunaga 2001 | Table 3, p. 8, row 14 |  |
-| 1294.15 | L + SiB6 -> SiBn + Ni4.29Si2B1.43 | L: B 0.323, Si 0.178 | model | [1] Tokunaga 2001 | Table 3, p. 8, row 13 |  |
-| 1277.15 | L -> fcc + Ni3B + Ni6Si2B | L: B 0.15, Si 0.122 | model | [1] Tokunaga 2001 | Table 3, p. 8, row 12 |  |
-| 1268.15 | L -> Ni3B + Ni2B + Ni6Si2B | L: B 0.236, Si 0.089 | model | [1] Tokunaga 2001 | Table 3, p. 8, row 11 |  |
-| 1213.15 | L + Ni2B -> o-Ni4B3 + Ni6Si2B | L: B 0.327, Si 0.0768 | model | [1] Tokunaga 2001 | Table 3, p. 8, row 10 |  |
-| 1212.15 | L + o-Ni4B3 -> m-Ni4B3 + Ni6Si2B | L: B 0.3274, Si 0.077 | model | [1] Tokunaga 2001 | Table 3, p. 8, row 9 |  |
-| 1211.15 | L + (Si) -> NiSi2 + SiB3 | L: B 0.115, Si 0.526 | model | [1] Tokunaga 2001 | Table 3, p. 8, row 8 |  |
-| 1209.15 | L + SiB3 -> NiSi2 + SiB6 | L: B 0.116, Si 0.523 | model | [1] Tokunaga 2001 | Table 3, p. 8, row 7 |  |
-| 1178.15 | L + m-Ni4B3 -> NiB + Ni6Si2B | L: B 0.352, Si 0.101 | model | [1] Tokunaga 2001 | Table 3, p. 8, row 6 |  |
-| 1169.15 | L + SiBn -> NiB + Ni4.29Si2B1.43 | L: B 0.36, Si 0.115 | model | [1] Tokunaga 2001 | Table 3, p. 8, row 5 |  |
-| 1168.15 | L -> NiB + Ni6Si2B + Ni4.29Si2B1.43 | L: B 0.353, Si 0.113 | model | [1] Tokunaga 2001 | Table 3, p. 8, row 4 |  |
-| 1167.15 | L + Ni2Si (θ) -> NiSi + Ni4.29Si2B1.43 | L: B 0.092, Si 0.403 | model | [1] Tokunaga 2001 | Table 3, p. 8, row 3 |  |
-| 1154.15 | L -> NiSi + NiSi2 + SiB6 | L: B 0.117, Si 0.471 | model | [1] Tokunaga 2001 | Table 3, p. 8, row 2 |  |
-| 1136.15 | L -> NiSi + SiB6 + Ni4.29Si2B1.43 | L: B 0.139, Si 0.397 | model | [1] Tokunaga 2001 | Table 3, p. 8, row 1 |  |
+| 1543.15 | L + (Si) + SiB6 -> SiB3 | L: B 0.145, Si 0.697 | model | [1] Tokunaga 2001 | Table 3, p. 8, row 22; `ORC-CDGA7BXEB4` |  |
+| 1367.15 | L + Ni5Si2 (γ) -> Ni2Si (δ) + Ni6Si2B | L: B 0.143, Si 0.229 | model | [1] Tokunaga 2001 | Table 3, p. 8, row 21; `ORC-KGVCXR6GZM` |  |
+| 1352.15 | L + Ni2Si (δ) -> Ni6Si2B + Ni4.29Si2B1.43 | L: B 0.16, Si 0.232 | model | [1] Tokunaga 2001 | Table 3, p. 8, row 20; `ORC-BUSOFTRJKP` |  |
+| 1330.15 | L + Ni5Si2 (γ) -> Ni3Si (β2) + Ni6Si2B | L: B 0.112, Si 0.166 | model | [1] Tokunaga 2001 | Table 3, p. 8, row 19; `ORC-2W3CFN3IH6` |  |
+| 1320.15 | L + Ni2Si (δ) -> Ni2Si (θ) + Ni4.29Si2B1.43 | L: B 0.107, Si 0.345 | model | [1] Tokunaga 2001 | Table 3, p. 8, row 18; `ORC-BILOANJBK7` |  |
+| 1308.15 | L + fcc + Ni3Si (β2) -> Ni3Si (β1) | L: B 0.111, Si 0.152 | model | [1] Tokunaga 2001 | Table 3, p. 8, row 17; `ORC-KCOMULYUU7` |  |
+| 1304.15 | L + Ni3Si (β2) -> Ni3Si (β1) + Ni6Si2B | L: B 0.116, Si 0.15 | model | [1] Tokunaga 2001 | Table 3, p. 8, row 16; `ORC-BTHGPWY7HR` |  |
+| 1303.15 | L + (B) -> NiB + SiBn | L: B 0.494, Si 0.006 | model | [1] Tokunaga 2001 | Table 3, p. 8, row 15; `ORC-OA5QXXUJMJ` |  |
+| 1301.15 | L + Ni3Si (β1) -> fcc + Ni6Si2B | L: B 0.118, Si 0.148 | model | [1] Tokunaga 2001 | Table 3, p. 8, row 14; `ORC-SWBKAFK5OL` |  |
+| 1294.15 | L + SiB6 -> SiBn + Ni4.29Si2B1.43 | L: B 0.323, Si 0.178 | model | [1] Tokunaga 2001 | Table 3, p. 8, row 13; `ORC-ZYQ4YCGFQ6` |  |
+| 1277.15 | L -> fcc + Ni3B + Ni6Si2B | L: B 0.15, Si 0.122 | model | [1] Tokunaga 2001 | Table 3, p. 8, row 12; `ORC-DYJA7ATDDJ` |  |
+| 1268.15 | L -> Ni3B + Ni2B + Ni6Si2B | L: B 0.236, Si 0.089 | model | [1] Tokunaga 2001 | Table 3, p. 8, row 11; `ORC-M6V46JCICC` |  |
+| 1213.15 | L + Ni2B -> o-Ni4B3 + Ni6Si2B | L: B 0.327, Si 0.0768 | model | [1] Tokunaga 2001 | Table 3, p. 8, row 10; `ORC-4DSTYYASNJ` |  |
+| 1212.15 | L + o-Ni4B3 -> m-Ni4B3 + Ni6Si2B | L: B 0.3274, Si 0.077 | model | [1] Tokunaga 2001 | Table 3, p. 8, row 9; `ORC-77H4PLSP2O` |  |
+| 1211.15 | L + (Si) -> NiSi2 + SiB3 | L: B 0.115, Si 0.526 | model | [1] Tokunaga 2001 | Table 3, p. 8, row 8; `ORC-P3JS4W3KDT` |  |
+| 1209.15 | L + SiB3 -> NiSi2 + SiB6 | L: B 0.116, Si 0.523 | model | [1] Tokunaga 2001 | Table 3, p. 8, row 7; `ORC-LBBBQHGAJJ` |  |
+| 1178.15 | L + m-Ni4B3 -> NiB + Ni6Si2B | L: B 0.352, Si 0.101 | model | [1] Tokunaga 2001 | Table 3, p. 8, row 6; `ORC-QIHDGCGXXB` |  |
+| 1169.15 | L + SiBn -> NiB + Ni4.29Si2B1.43 | L: B 0.36, Si 0.115 | model | [1] Tokunaga 2001 | Table 3, p. 8, row 5; `ORC-BZGAHMIKPO` |  |
+| 1168.15 | L -> NiB + Ni6Si2B + Ni4.29Si2B1.43 | L: B 0.353, Si 0.113 | model | [1] Tokunaga 2001 | Table 3, p. 8, row 4; `ORC-UHBT4KEUY2` |  |
+| 1167.15 | L + Ni2Si (θ) -> NiSi + Ni4.29Si2B1.43 | L: B 0.092, Si 0.403 | model | [1] Tokunaga 2001 | Table 3, p. 8, row 3; `ORC-OTTDXGJP6C` |  |
+| 1154.15 | L -> NiSi + NiSi2 + SiB6 | L: B 0.117, Si 0.471 | model | [1] Tokunaga 2001 | Table 3, p. 8, row 2; `ORC-QK5VV7OT62` |  |
+| 1136.15 | L -> NiSi + SiB6 + Ni4.29Si2B1.43 | L: B 0.139, Si 0.397 | model | [1] Tokunaga 2001 | Table 3, p. 8, row 1; `ORC-2IW43IGQFL` |  |
 
 ## Sources
 
@@ -90,4 +90,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

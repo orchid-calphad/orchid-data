@@ -65,10 +65,10 @@ Table: Invariant reactions reported in the literature for the Hf–Sn system (4)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1953.15 | (βHf) ↔ (αHf) + Hf5Sn3 | (βHf): Sn 0.15; (αHf): Sn 0.144; Hf5Sn3: Sn 0.375 | experimental | [1] Tang 2012; _cites Wasielewski 1964_ | Table 1, p. 2, row 1 |  |
-| 1953.15 | (βHf) ↔ (αHf) + Hf5Sn3 | (βHf): Sn 0.1447; (αHf): Sn 0.1427; Hf5Sn3: Sn 0.375 | model | [1] Tang 2012 | Table 1, p. 2, row 3 |  |
-| 1773.15 | (βHf) ↔ (αHf) + Hf5Sn3 | Hf5Sn3: Sn 0.375 | experimental | [1] Tang 2012; _cites Tsygamova 1971_ | Table 1, p. 2, row 2 |  |
-| 505.15 | Liquid ↔ HfSn2 + (βSn) | Liquid: Sn 1; HfSn2: Sn 0.6667; (βSn): Sn 1 | model | [1] Tang 2012 | Table 1, p. 2, row 12 |  |
+| 1953.15 | (βHf) ↔ (αHf) + Hf5Sn3 | (βHf): Sn 0.15; (αHf): Sn 0.144; Hf5Sn3: Sn 0.375 | experimental | [1] Tang 2012; _cites Wasielewski 1964_ | Table 1, p. 2, row 1; `ORC-I3CB7BGHY5` |  |
+| 1953.15 | (βHf) ↔ (αHf) + Hf5Sn3 | (βHf): Sn 0.1447; (αHf): Sn 0.1427; Hf5Sn3: Sn 0.375 | model | [1] Tang 2012 | Table 1, p. 2, row 3; `ORC-XPYOLHTS3H` |  |
+| 1773.15 | (βHf) ↔ (αHf) + Hf5Sn3 | Hf5Sn3: Sn 0.375 | experimental | [1] Tang 2012; _cites Tsygamova 1971_ | Table 1, p. 2, row 2; `ORC-KA2KDDTQBF` |  |
+| 505.15 | Liquid ↔ HfSn2 + (βSn) | Liquid: Sn 1; HfSn2: Sn 0.6667; (βSn): Sn 1 | model | [1] Tang 2012 | Table 1, p. 2, row 12; `ORC-TIZ5IDELTB` |  |
 
 ## Formation enthalpies
 
@@ -78,18 +78,18 @@ Table: Enthalpies of formation, Hf–Sn system (12)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| 40-HfSn |  | -28.18 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Berche 2016 | Table 2, p. 4, row 16 |  |
-| B11-HfSn |  | -25.51 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Berche 2016 | Table 2, p. 4, row 18 |  |
-| B20-HfSn |  | -28 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Berche 2016 | Table 2, p. 4, row 17 |  |
-| B27-HfSn |  | -21.96 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Berche 2016 | Table 2, p. 4, row 21 |  |
-| B33-HfSn |  | -20.38 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Berche 2016 | Table 2, p. 4, row 22 |  |
-| B35-HfSn |  | 1.62 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Berche 2016 | Table 2, p. 4, row 24 |  |
-| Bh-HfSn |  | -26.64 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Berche 2016 | Table 2, p. 4, row 19 |  |
-| Bx-HfSn |  | -20.07 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Berche 2016 | Table 2, p. 4, row 23 |  |
-| D88-Hf5Sn3 |  | -37.57 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Berche 2016 | Table 2, p. 4, row 14 |  |
-| D88-Hf5Sn4 |  | -39.24 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Berche 2016 | Table 2, p. 4, row 15 |  |
-| HfSn2 |  | -27.99 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Berche 2016 | Table 2, p. 4, row 25 |  |
-| L10-HfSn |  | -22.76 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Berche 2016 | Table 2, p. 4, row 20 |  |
+| 40-HfSn |  | -28.18 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Berche 2016 | Table 2, p. 4, row 16; `ORC-FKEGO7DKLX.6c408a` |  |
+| B11-HfSn |  | -25.51 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Berche 2016 | Table 2, p. 4, row 18; `ORC-VKNT6H6Q7M.01074a` |  |
+| B20-HfSn |  | -28 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Berche 2016 | Table 2, p. 4, row 17; `ORC-4RVXMDB5ME.491357` |  |
+| B27-HfSn |  | -21.96 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Berche 2016 | Table 2, p. 4, row 21; `ORC-TBEHUAZGE2.96fbaa` |  |
+| B33-HfSn |  | -20.38 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Berche 2016 | Table 2, p. 4, row 22; `ORC-F7FLM2AC4Y.25fd4a` |  |
+| B35-HfSn |  | 1.62 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Berche 2016 | Table 2, p. 4, row 24; `ORC-IE5F2SYQF3.0bc804` |  |
+| Bh-HfSn |  | -26.64 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Berche 2016 | Table 2, p. 4, row 19; `ORC-PCVMNCQBC7.d665b4` |  |
+| Bx-HfSn |  | -20.07 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Berche 2016 | Table 2, p. 4, row 23; `ORC-JN4L7YGGMI.f48fc1` |  |
+| D88-Hf5Sn3 |  | -37.57 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Berche 2016 | Table 2, p. 4, row 14; `ORC-6HY3HTMIF5.007046` |  |
+| D88-Hf5Sn4 |  | -39.24 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Berche 2016 | Table 2, p. 4, row 15; `ORC-5J7TESTKGI.210add` |  |
+| HfSn2 |  | -27.99 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Berche 2016 | Table 2, p. 4, row 25; `ORC-FXEWIXVKMN.99ed54` |  |
+| L10-HfSn |  | -22.76 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Berche 2016 | Table 2, p. 4, row 20; `ORC-OIOD5DM4V3.a071b6` |  |
 
 ## Other properties
 
@@ -99,45 +99,45 @@ Table: Crystal structure, Hf–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a; _printed: a_ | 4.259 Å | 0 | 40-HfSn; _alloy: Sn 0.5_ | DFT | [2] Berche 2016 | Table 2, p. 4, row 16 |  |
-| Lattice a; _printed: a_ | 3.906 Å | 0 | B11-HfSn; _alloy: Sn 0.5_ | DFT | [2] Berche 2016 | Table 2, p. 4, row 18 |  |
-| Lattice a; _printed: a_ | 5.668 Å | 0 | B20-HfSn; _alloy: Sn 0.5_ | DFT | [2] Berche 2016 | Table 2, p. 4, row 17 |  |
-| Lattice a; _printed: a_ | 7.251 Å | 0 | B27-HfSn; _alloy: Sn 0.5_ | DFT | [2] Berche 2016 | Table 2, p. 4, row 21 |  |
-| Lattice a; _printed: a_ | 4.109 Å | 0 | B33-HfSn; _alloy: Sn 0.5_ | DFT | [2] Berche 2016 | Table 2, p. 4, row 22 |  |
-| Lattice a; _printed: a_ | 5.7 Å | 0 | B35-HfSn; _alloy: Sn 0.5_ | DFT | [2] Berche 2016 | Table 2, p. 4, row 24 |  |
-| Lattice a; _printed: a_ | 3.244 Å | 0 | Bh-HfSn; _alloy: Sn 0.5_ | DFT | [2] Berche 2016 | Table 2, p. 4, row 19 |  |
-| Lattice a; _printed: a_ | 4.156 Å | 0 | Bx-HfSn; _alloy: Sn 0.5_ | DFT | [2] Berche 2016 | Table 2, p. 4, row 23 |  |
-| Lattice a; _printed: a_ | 8.441 Å | 0 | D88-Hf5Sn3; _alloy: Sn 0.375_ | DFT | [2] Berche 2016 | Table 2, p. 4, row 14 |  |
-| Lattice a; _printed: a_ | 8.766 Å | 0 | D88-Hf5Sn4; _alloy: Sn 0.444444_ | DFT | [2] Berche 2016 | Table 2, p. 4, row 15 |  |
-| Lattice a | 8.43 Å |  | Hf5Sn3; _alloy: Sn 0.375_ | unspecified | [1] Tang 2012 | Table 4, p. 5, row 9 |  |
-| Lattice a | 8.752 Å |  | Hf5Sn4; _alloy: Sn 0.444444_ | unspecified | [1] Tang 2012 | Table 4, p. 5, row 11 |  |
-| Lattice a | 5.657 Å |  | HfSn; _alloy: Sn 0.5_ | unspecified | [1] Tang 2012 | Table 4, p. 5, row 5 |  |
-| Lattice a; _printed: a_ | 5.54 Å | 0 | HfSn2; _alloy: Sn 0.666667_ | DFT | [2] Berche 2016 | Table 2, p. 4, row 25 |  |
-| Lattice a | 5.534 Å |  | HfSn2; _alloy: Sn 0.666667_ | unspecified | [1] Tang 2012 | Table 4, p. 5, row 7 |  |
-| Lattice a; _printed: a_ | 3.207 Å | 0 | L10-HfSn; _alloy: Sn 0.5_ | DFT | [2] Berche 2016 | Table 2, p. 4, row 20 |  |
-| Lattice a | 8.36 Å | 298.15 | Hf5Sn3; _alloy: Sn 0.375_ | experimental | [1] Tang 2012; _cites Tsygamova 1971_ | Table 4, p. 5, row 8 |  |
-| Lattice a | 8.695 Å | 298.15 | Hf5Sn4; _alloy: Sn 0.444444_ | experimental | [1] Tang 2012; _cites Schubert 1962_ [doi](https://doi.org/10.1007/bf00595382) | Table 4, p. 5, row 10 |  |
-| Lattice a | 5.594 Å | 298.15 | HfSn; _alloy: Sn 0.5_ | experimental | [1] Tang 2012; _cites Schob 1964_ [doi](https://doi.org/10.1107/s0365110x64001025) | Table 4, p. 5, row 4 |  |
-| Lattice a | 5.47 Å | 298.15 | HfSn2; _alloy: Sn 0.666667_ | experimental | [1] Tang 2012; _cites Schubert 1962_ [doi](https://doi.org/10.1007/bf00595382) | Table 4, p. 5, row 6 |  |
-| Lattice b; _printed: b_ | 4.422 Å | 0 | B27-HfSn; _alloy: Sn 0.5_ | DFT | [2] Berche 2016 | Table 2, p. 4, row 21 |  |
-| Lattice b; _printed: b_ | 10.598 Å | 0 | B33-HfSn; _alloy: Sn 0.5_ | DFT | [2] Berche 2016 | Table 2, p. 4, row 22 |  |
-| Lattice c; _printed: c_ | 9.724 Å | 0 | 40-HfSn; _alloy: Sn 0.5_ | DFT | [2] Berche 2016 | Table 2, p. 4, row 16 |  |
-| Lattice c; _printed: c_ | 5.981 Å | 0 | B11-HfSn; _alloy: Sn 0.5_ | DFT | [2] Berche 2016 | Table 2, p. 4, row 18 |  |
-| Lattice c; _printed: c_ | 5.664 Å | 0 | B27-HfSn; _alloy: Sn 0.5_ | DFT | [2] Berche 2016 | Table 2, p. 4, row 21 |  |
-| Lattice c; _printed: c_ | 4.222 Å | 0 | B33-HfSn; _alloy: Sn 0.5_ | DFT | [2] Berche 2016 | Table 2, p. 4, row 22 |  |
-| Lattice c; _printed: c_ | 5.312 Å | 0 | B35-HfSn; _alloy: Sn 0.5_ | DFT | [2] Berche 2016 | Table 2, p. 4, row 24 |  |
-| Lattice c; _printed: c_ | 4.902 Å | 0 | Bh-HfSn; _alloy: Sn 0.5_ | DFT | [2] Berche 2016 | Table 2, p. 4, row 19 |  |
-| Lattice c; _printed: c_ | 21.252 Å | 0 | Bx-HfSn; _alloy: Sn 0.5_ | DFT | [2] Berche 2016 | Table 2, p. 4, row 23 |  |
-| Lattice c; _printed: c_ | 5.728 Å | 0 | D88-Hf5Sn3; _alloy: Sn 0.375_ | DFT | [2] Berche 2016 | Table 2, p. 4, row 14 |  |
-| Lattice c; _printed: c_ | 5.909 Å | 0 | D88-Hf5Sn4; _alloy: Sn 0.444444_ | DFT | [2] Berche 2016 | Table 2, p. 4, row 15 |  |
-| Lattice c | 5.711 Å |  | Hf5Sn3; _alloy: Sn 0.375_ | unspecified | [1] Tang 2012 | Table 4, p. 5, row 9 |  |
-| Lattice c | 5.903 Å |  | Hf5Sn4; _alloy: Sn 0.444444_ | unspecified | [1] Tang 2012 | Table 4, p. 5, row 11 |  |
-| Lattice c; _printed: c_ | 7.768 Å | 0 | HfSn2; _alloy: Sn 0.666667_ | DFT | [2] Berche 2016 | Table 2, p. 4, row 25 |  |
-| Lattice c | 7.674 Å |  | HfSn2; _alloy: Sn 0.666667_ | unspecified | [1] Tang 2012 | Table 4, p. 5, row 7 |  |
-| Lattice c; _printed: c_ | 4.281 Å | 0 | L10-HfSn; _alloy: Sn 0.5_ | DFT | [2] Berche 2016 | Table 2, p. 4, row 20 |  |
-| Lattice c | 5.71 Å | 298.15 | Hf5Sn3; _alloy: Sn 0.375_ | experimental | [1] Tang 2012; _cites Tsygamova 1971_ | Table 4, p. 5, row 8 |  |
-| Lattice c | 5.872 Å | 298.15 | Hf5Sn4; _alloy: Sn 0.444444_ | experimental | [1] Tang 2012; _cites Schubert 1962_ [doi](https://doi.org/10.1007/bf00595382) | Table 4, p. 5, row 10 |  |
-| Lattice c | 7.6 Å | 298.15 | HfSn2; _alloy: Sn 0.666667_ | experimental | [1] Tang 2012; _cites Schubert 1962_ [doi](https://doi.org/10.1007/bf00595382) | Table 4, p. 5, row 6 |  |
+| Lattice a; _printed: a_ | 4.259 Å | 0 | 40-HfSn; _alloy: Sn 0.5_ | DFT | [2] Berche 2016 | Table 2, p. 4, row 16; `ORC-L6WZFKHDQ6.fffba2` |  |
+| Lattice a; _printed: a_ | 3.906 Å | 0 | B11-HfSn; _alloy: Sn 0.5_ | DFT | [2] Berche 2016 | Table 2, p. 4, row 18; `ORC-AXBYN7T6UU.8f70f4` |  |
+| Lattice a; _printed: a_ | 5.668 Å | 0 | B20-HfSn; _alloy: Sn 0.5_ | DFT | [2] Berche 2016 | Table 2, p. 4, row 17; `ORC-MW4HAM62CG.a9bd7a` |  |
+| Lattice a; _printed: a_ | 7.251 Å | 0 | B27-HfSn; _alloy: Sn 0.5_ | DFT | [2] Berche 2016 | Table 2, p. 4, row 21; `ORC-V5LCSJP3WC.d5ba2f` |  |
+| Lattice a; _printed: a_ | 4.109 Å | 0 | B33-HfSn; _alloy: Sn 0.5_ | DFT | [2] Berche 2016 | Table 2, p. 4, row 22; `ORC-DDYSGQQR4H.c99fe4` |  |
+| Lattice a; _printed: a_ | 5.7 Å | 0 | B35-HfSn; _alloy: Sn 0.5_ | DFT | [2] Berche 2016 | Table 2, p. 4, row 24; `ORC-DRJSJFY6DP.947007` |  |
+| Lattice a; _printed: a_ | 3.244 Å | 0 | Bh-HfSn; _alloy: Sn 0.5_ | DFT | [2] Berche 2016 | Table 2, p. 4, row 19; `ORC-ICS7WYERUZ.929a10` |  |
+| Lattice a; _printed: a_ | 4.156 Å | 0 | Bx-HfSn; _alloy: Sn 0.5_ | DFT | [2] Berche 2016 | Table 2, p. 4, row 23; `ORC-IJOPXO46R3.015d7e` |  |
+| Lattice a; _printed: a_ | 8.441 Å | 0 | D88-Hf5Sn3; _alloy: Sn 0.375_ | DFT | [2] Berche 2016 | Table 2, p. 4, row 14; `ORC-JO2KWV5NVY.e99bf4` |  |
+| Lattice a; _printed: a_ | 8.766 Å | 0 | D88-Hf5Sn4; _alloy: Sn 0.444444_ | DFT | [2] Berche 2016 | Table 2, p. 4, row 15; `ORC-CRRQ66Q7TY.32dbeb` |  |
+| Lattice a | 8.43 Å |  | Hf5Sn3; _alloy: Sn 0.375_ | unspecified | [1] Tang 2012 | Table 4, p. 5, row 9; `ORC-J2C7P26SAU.568c35` |  |
+| Lattice a | 8.752 Å |  | Hf5Sn4; _alloy: Sn 0.444444_ | unspecified | [1] Tang 2012 | Table 4, p. 5, row 11; `ORC-LZFQEXU55L.21e3d9` |  |
+| Lattice a | 5.657 Å |  | HfSn; _alloy: Sn 0.5_ | unspecified | [1] Tang 2012 | Table 4, p. 5, row 5; `ORC-YM7EY2VSI5` |  |
+| Lattice a; _printed: a_ | 5.54 Å | 0 | HfSn2; _alloy: Sn 0.666667_ | DFT | [2] Berche 2016 | Table 2, p. 4, row 25; `ORC-QKMEPQ3XWE.8920e4` |  |
+| Lattice a | 5.534 Å |  | HfSn2; _alloy: Sn 0.666667_ | unspecified | [1] Tang 2012 | Table 4, p. 5, row 7; `ORC-Z66CCKKGB5.b11b3e` |  |
+| Lattice a; _printed: a_ | 3.207 Å | 0 | L10-HfSn; _alloy: Sn 0.5_ | DFT | [2] Berche 2016 | Table 2, p. 4, row 20; `ORC-XAHMC4PQZ5.f0725d` |  |
+| Lattice a | 8.36 Å | 298.15 | Hf5Sn3; _alloy: Sn 0.375_ | experimental | [1] Tang 2012; _cites Tsygamova 1971_ | Table 4, p. 5, row 8; `ORC-OIQKKDSGTT.430af5` |  |
+| Lattice a | 8.695 Å | 298.15 | Hf5Sn4; _alloy: Sn 0.444444_ | experimental | [1] Tang 2012; _cites Schubert 1962_ [doi](https://doi.org/10.1007/bf00595382) | Table 4, p. 5, row 10; `ORC-NBJJ3TKXQU.9a0d8b` |  |
+| Lattice a | 5.594 Å | 298.15 | HfSn; _alloy: Sn 0.5_ | experimental | [1] Tang 2012; _cites Schob 1964_ [doi](https://doi.org/10.1107/s0365110x64001025) | Table 4, p. 5, row 4; `ORC-GAVYOHDMLZ` |  |
+| Lattice a | 5.47 Å | 298.15 | HfSn2; _alloy: Sn 0.666667_ | experimental | [1] Tang 2012; _cites Schubert 1962_ [doi](https://doi.org/10.1007/bf00595382) | Table 4, p. 5, row 6; `ORC-3NEYMYXLEO.cd3c4e` |  |
+| Lattice b; _printed: b_ | 4.422 Å | 0 | B27-HfSn; _alloy: Sn 0.5_ | DFT | [2] Berche 2016 | Table 2, p. 4, row 21; `ORC-V5LCSJP3WC.6afd83` |  |
+| Lattice b; _printed: b_ | 10.598 Å | 0 | B33-HfSn; _alloy: Sn 0.5_ | DFT | [2] Berche 2016 | Table 2, p. 4, row 22; `ORC-DDYSGQQR4H.b582bd` |  |
+| Lattice c; _printed: c_ | 9.724 Å | 0 | 40-HfSn; _alloy: Sn 0.5_ | DFT | [2] Berche 2016 | Table 2, p. 4, row 16; `ORC-L6WZFKHDQ6.4fe4db` |  |
+| Lattice c; _printed: c_ | 5.981 Å | 0 | B11-HfSn; _alloy: Sn 0.5_ | DFT | [2] Berche 2016 | Table 2, p. 4, row 18; `ORC-AXBYN7T6UU.7b1917` |  |
+| Lattice c; _printed: c_ | 5.664 Å | 0 | B27-HfSn; _alloy: Sn 0.5_ | DFT | [2] Berche 2016 | Table 2, p. 4, row 21; `ORC-V5LCSJP3WC.90dc36` |  |
+| Lattice c; _printed: c_ | 4.222 Å | 0 | B33-HfSn; _alloy: Sn 0.5_ | DFT | [2] Berche 2016 | Table 2, p. 4, row 22; `ORC-DDYSGQQR4H.e74514` |  |
+| Lattice c; _printed: c_ | 5.312 Å | 0 | B35-HfSn; _alloy: Sn 0.5_ | DFT | [2] Berche 2016 | Table 2, p. 4, row 24; `ORC-DRJSJFY6DP.475803` |  |
+| Lattice c; _printed: c_ | 4.902 Å | 0 | Bh-HfSn; _alloy: Sn 0.5_ | DFT | [2] Berche 2016 | Table 2, p. 4, row 19; `ORC-ICS7WYERUZ.70244c` |  |
+| Lattice c; _printed: c_ | 21.252 Å | 0 | Bx-HfSn; _alloy: Sn 0.5_ | DFT | [2] Berche 2016 | Table 2, p. 4, row 23; `ORC-IJOPXO46R3.abc06a` |  |
+| Lattice c; _printed: c_ | 5.728 Å | 0 | D88-Hf5Sn3; _alloy: Sn 0.375_ | DFT | [2] Berche 2016 | Table 2, p. 4, row 14; `ORC-JO2KWV5NVY.2cb46f` |  |
+| Lattice c; _printed: c_ | 5.909 Å | 0 | D88-Hf5Sn4; _alloy: Sn 0.444444_ | DFT | [2] Berche 2016 | Table 2, p. 4, row 15; `ORC-CRRQ66Q7TY.469577` |  |
+| Lattice c | 5.711 Å |  | Hf5Sn3; _alloy: Sn 0.375_ | unspecified | [1] Tang 2012 | Table 4, p. 5, row 9; `ORC-J2C7P26SAU.2c8fce` |  |
+| Lattice c | 5.903 Å |  | Hf5Sn4; _alloy: Sn 0.444444_ | unspecified | [1] Tang 2012 | Table 4, p. 5, row 11; `ORC-LZFQEXU55L.3d9329` |  |
+| Lattice c; _printed: c_ | 7.768 Å | 0 | HfSn2; _alloy: Sn 0.666667_ | DFT | [2] Berche 2016 | Table 2, p. 4, row 25; `ORC-QKMEPQ3XWE.ea7b39` |  |
+| Lattice c | 7.674 Å |  | HfSn2; _alloy: Sn 0.666667_ | unspecified | [1] Tang 2012 | Table 4, p. 5, row 7; `ORC-Z66CCKKGB5.4fddde` |  |
+| Lattice c; _printed: c_ | 4.281 Å | 0 | L10-HfSn; _alloy: Sn 0.5_ | DFT | [2] Berche 2016 | Table 2, p. 4, row 20; `ORC-XAHMC4PQZ5.5a5e66` |  |
+| Lattice c | 5.71 Å | 298.15 | Hf5Sn3; _alloy: Sn 0.375_ | experimental | [1] Tang 2012; _cites Tsygamova 1971_ | Table 4, p. 5, row 8; `ORC-OIQKKDSGTT.0bf0a7` |  |
+| Lattice c | 5.872 Å | 298.15 | Hf5Sn4; _alloy: Sn 0.444444_ | experimental | [1] Tang 2012; _cites Schubert 1962_ [doi](https://doi.org/10.1007/bf00595382) | Table 4, p. 5, row 10; `ORC-NBJJ3TKXQU.d7ff70` |  |
+| Lattice c | 7.6 Å | 298.15 | HfSn2; _alloy: Sn 0.666667_ | experimental | [1] Tang 2012; _cites Schubert 1962_ [doi](https://doi.org/10.1007/bf00595382) | Table 4, p. 5, row 6; `ORC-3NEYMYXLEO.46cc50` |  |
 
 ## Sources
 
@@ -203,4 +203,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

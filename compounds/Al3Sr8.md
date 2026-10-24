@@ -14,8 +14,8 @@ Table: Enthalpy of formation of Al3Sr8 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -10.6 kJ/mol-atom | Al3Sr8 Ca8In3-type | 0 | DFT | First-principles | [Al–Sr](https://data.orchid-project.org/systems/AL-SR.html) | [1] Zhong 2004 | Table 3, p. 6, row 46 |  |
-| -10.1 kJ/mol-atom | Al3Sr8 Ca8In3-type | 0 | DFT | first-principles | [Al–Sr](https://data.orchid-project.org/systems/AL-SR.html) | [1] Zhong 2004 | Table 3, p. 6, row 23 |  |
+| -10.6 kJ/mol-atom | Al3Sr8 Ca8In3-type | 0 | DFT | First-principles | [Al–Sr](https://data.orchid-project.org/systems/AL-SR.html) | [1] Zhong 2004 | Table 3, p. 6, row 46; `ORC-7VRYI6VETF.f046ca` |  |
+| -10.1 kJ/mol-atom | Al3Sr8 Ca8In3-type | 0 | DFT | first-principles | [Al–Sr](https://data.orchid-project.org/systems/AL-SR.html) | [1] Zhong 2004 | Table 3, p. 6, row 23; `ORC-QOP6TQLYSY.c98d4a` |  |
 
 ### Uncertainty budget
 
@@ -79,4 +79,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

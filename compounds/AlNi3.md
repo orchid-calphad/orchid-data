@@ -14,36 +14,36 @@ Table: Enthalpy of formation of AlNi3 reported in the literature (30)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -49.6 kJ/mol (basis unstated) ± 1.3 | γ′ (Ni3Al) | 980 | experimental |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [1] Ansara 1997; _cites Es'kov 1974_ | Table 5, p. 9, row 4 |  |
-| -47 kJ/mol-atom | γ'-L12 | 298.15 | experimental |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [2] Liu 2016; _cites ref. 85_ | Table 4, p. 38, row 23 |  |
-| -45.6 kJ/mol-atom ± 1.1 | γ'-L12 | 298.15 | experimental |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [2] Liu 2016; _cites ref. 87_ | Table 4, p. 38, row 24 |  |
-| -42.3 per mol-atom ± 1.6 | Ni3Al | 1123 | experimental |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [3] Huang 1998; _cites Rzyman 1996_ [doi](https://doi.org/10.1007/bf02648485) | Table 3, p. 9, row 9 |  |
-| -42.2 per mol-atom ± 1.2 | Ni3Al | 947 | experimental |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [3] Huang 1998; _cites Rzyman 1996_ [doi](https://doi.org/10.1007/bf02648485) | Table 3, p. 9, row 7 |  |
-| -42 per mol-atom ± 1.1 | Ni3Al | 521 | experimental |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [3] Huang 1998; _cites Rzyman 1996_ [doi](https://doi.org/10.1007/bf02648485) | Table 3, p. 9, row 3 |  |
-| -41.6 per mol-atom ± 1.2 | Ni3Al | 756 | experimental |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [3] Huang 1998; _cites Rzyman 1996_ [doi](https://doi.org/10.1007/bf02648485) | Table 3, p. 9, row 5 |  |
-| -41.4 kJ/mol (basis unstated) ± 4.9 | γ′ (Ni3Al) | 1600 | experimental |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [1] Ansara 1997; _cites Hilpert 1997_ | Table 5, p. 9, row 2 |  |
-| -41.3 kJ/mol-atom ± 1.3 | γ'-L12 | 298.15 | experimental |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [2] Liu 2016; _cites ref. 85_ | Table 4, p. 38, row 22 |  |
-| -41.3 per mol-atom ± 1.3 | Ni3Al | 300 | experimental |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [3] Huang 1998; _cites Rzyman 1996_ [doi](https://doi.org/10.1007/bf02648485) | Table 3, p. 9, row 1 |  |
-| -40.6 kJ/mol-atom ± 1 | γ'-L12 | 298.15 | experimental |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [2] Liu 2016; _cites ref. 25_ | Table 4, p. 38, row 21 |  |
-| -40.6 kJ/mol (basis unstated) ± 1 | γ′ (Ni3Al) | 298.15 | experimental |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [1] Ansara 1997; _cites Kek 1990_ | Table 5, p. 9, row 6 |  |
-| -40.6 kJ/mol-atom ± 1 | γ'-L12 | 298.15 | experimental |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [2] Liu 2016; _cites ref. 85_ | Table 4, p. 38, row 23 |  |
-| -40.1 kJ/mol (basis unstated) | γ′ (Ni3Al) | 298.15 | experimental |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [1] Ansara 1997; _cites \\V 1937_ | Table 5, p. 9, row 8 |  |
-| -38.2 kJ/mol-atom ± 5 | γ'-L12 | 298.15 | experimental |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [2] Liu 2016; _cites ref. 85_ | Table 4, p. 38, row 23 |  |
-| -37.6 kJ/mol-atom ± 4.2 | γ'-L12 | 298.15 | experimental |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [2] Liu 2016; _cites ref. 85_ | Table 4, p. 38, row 23 |  |
-| -29.2 kJ/mol (basis unstated) ± 7 | γ′ (Ni3Al) | 298.15 | experimental |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [1] Ansara 1997; _cites Santandrea 1987_ | Table 5, p. 9, row 7 |  |
-| -46.39 kJ/mol-atom | γ'-L12 | 298.15 | model |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [2] Liu 2016; _cites ref. 84_ | Table 4, p. 38, row 25 |  |
-| -44.8 kJ/mol (basis unstated) | γ′ (Ni3Al) | 980 | model |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [1] Ansara 1997 | Table 5, p. 9, row 3 |  |
-| -43.338 kJ/mol (basis unstated) | L12-AlNi3 |  | model | CALPHAD | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [4] Yang 2022 | Table 3, p. 5, row 5 |  |
-| -43.2 per mol-atom | Ni3Al | 756 | model |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [3] Huang 1998 | Table 3, p. 9, row 6 |  |
-| -43.2 per mol-atom | Ni3Al | 947 | model |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [3] Huang 1998 | Table 3, p. 9, row 8 |  |
-| -42.9 per mol-atom | Ni3Al | 1123 | model |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [3] Huang 1998 | Table 3, p. 9, row 10 |  |
-| -42.38 kJ/mol-atom | γ'-L12 | 298.15 | model |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [2] Liu 2016; _cites ref. 86_ | Table 4, p. 38, row 26 |  |
-| -42.3 per mol-atom | Ni3Al | 521 | model |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [3] Huang 1998 | Table 3, p. 9, row 4 |  |
-| -42.126 kJ/mol-atom | γ'-L12 | 298.15 | model |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [2] Liu 2016 | Table 4, p. 38, row 20 |  |
-| -42 per mol-atom | Ni3Al | 300 | model |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [3] Huang 1998 | Table 3, p. 9, row 2 |  |
-| -41.7 kJ/mol (basis unstated) | γ′ (Ni3Al) | 1600 | model |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [1] Ansara 1997 | Table 5, p. 9, row 1 |  |
-| -40.6 kJ/mol (basis unstated) | γ′ (Ni3Al) | 298.15 | model |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [1] Ansara 1997 | Table 5, p. 9, row 5 |  |
-| -43.45 kJ/mol (basis unstated) | L12-AlNi3 |  | DFT | DFT (OQMD) | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [4] Yang 2022 | Table 3, p. 5, row 6 |  |
+| -49.6 kJ/mol (basis unstated) ± 1.3 | γ′ (Ni3Al) | 980 | experimental |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [1] Ansara 1997; _cites Es'kov 1974_ | Table 5, p. 9, row 4; `ORC-25MIGDXTKP.53b742` |  |
+| -47 kJ/mol-atom | γ'-L12 | 298.15 | experimental |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [2] Liu 2016; _cites ref. 85_ | Table 4, p. 38, row 23; `ORC-VTB72Y5OXM.0759bb` |  |
+| -45.6 kJ/mol-atom ± 1.1 | γ'-L12 | 298.15 | experimental |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [2] Liu 2016; _cites ref. 87_ | Table 4, p. 38, row 24; `ORC-M2X72TAQEQ.c95868` |  |
+| -42.3 per mol-atom ± 1.6 | Ni3Al | 1123 | experimental |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [3] Huang 1998; _cites Rzyman 1996_ [doi](https://doi.org/10.1007/bf02648485) | Table 3, p. 9, row 9; `ORC-SVR4ZVLLBD.bfffec` |  |
+| -42.2 per mol-atom ± 1.2 | Ni3Al | 947 | experimental |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [3] Huang 1998; _cites Rzyman 1996_ [doi](https://doi.org/10.1007/bf02648485) | Table 3, p. 9, row 7; `ORC-NLAZMM7VLP.76e32f` |  |
+| -42 per mol-atom ± 1.1 | Ni3Al | 521 | experimental |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [3] Huang 1998; _cites Rzyman 1996_ [doi](https://doi.org/10.1007/bf02648485) | Table 3, p. 9, row 3; `ORC-DJXN72IJV2.74a5e7` |  |
+| -41.6 per mol-atom ± 1.2 | Ni3Al | 756 | experimental |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [3] Huang 1998; _cites Rzyman 1996_ [doi](https://doi.org/10.1007/bf02648485) | Table 3, p. 9, row 5; `ORC-RZEAXVILRF.27dd6b` |  |
+| -41.4 kJ/mol (basis unstated) ± 4.9 | γ′ (Ni3Al) | 1600 | experimental |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [1] Ansara 1997; _cites Hilpert 1997_ | Table 5, p. 9, row 2; `ORC-J7R3QI2ZVQ.fd3407` |  |
+| -41.3 kJ/mol-atom ± 1.3 | γ'-L12 | 298.15 | experimental |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [2] Liu 2016; _cites ref. 85_ | Table 4, p. 38, row 22; `ORC-RBFFWS6ZQH.8da9a7` |  |
+| -41.3 per mol-atom ± 1.3 | Ni3Al | 300 | experimental |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [3] Huang 1998; _cites Rzyman 1996_ [doi](https://doi.org/10.1007/bf02648485) | Table 3, p. 9, row 1; `ORC-SCDP4SROQJ.ceee19` |  |
+| -40.6 kJ/mol-atom ± 1 | γ'-L12 | 298.15 | experimental |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [2] Liu 2016; _cites ref. 25_ | Table 4, p. 38, row 21; `ORC-COMWLLIR2L.4ebb85` |  |
+| -40.6 kJ/mol (basis unstated) ± 1 | γ′ (Ni3Al) | 298.15 | experimental |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [1] Ansara 1997; _cites Kek 1990_ | Table 5, p. 9, row 6; `ORC-OENQKUFWLN` |  |
+| -40.6 kJ/mol-atom ± 1 | γ'-L12 | 298.15 | experimental |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [2] Liu 2016; _cites ref. 85_ | Table 4, p. 38, row 23; `ORC-VTB72Y5OXM.690228` |  |
+| -40.1 kJ/mol (basis unstated) | γ′ (Ni3Al) | 298.15 | experimental |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [1] Ansara 1997; _cites \\V 1937_ | Table 5, p. 9, row 8; `ORC-5NEBCHHGXU` |  |
+| -38.2 kJ/mol-atom ± 5 | γ'-L12 | 298.15 | experimental |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [2] Liu 2016; _cites ref. 85_ | Table 4, p. 38, row 23; `ORC-VTB72Y5OXM.6dd106` |  |
+| -37.6 kJ/mol-atom ± 4.2 | γ'-L12 | 298.15 | experimental |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [2] Liu 2016; _cites ref. 85_ | Table 4, p. 38, row 23; `ORC-VTB72Y5OXM.d37d98` |  |
+| -29.2 kJ/mol (basis unstated) ± 7 | γ′ (Ni3Al) | 298.15 | experimental |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [1] Ansara 1997; _cites Santandrea 1987_ | Table 5, p. 9, row 7; `ORC-JT5LSOZER2` |  |
+| -46.39 kJ/mol-atom | γ'-L12 | 298.15 | model |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [2] Liu 2016; _cites ref. 84_ | Table 4, p. 38, row 25; `ORC-G47W2O6YVC.c159cd` |  |
+| -44.8 kJ/mol (basis unstated) | γ′ (Ni3Al) | 980 | model |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [1] Ansara 1997 | Table 5, p. 9, row 3; `ORC-OXEFQ45EKY.556491` |  |
+| -43.338 kJ/mol (basis unstated) | L12-AlNi3 |  | model | CALPHAD | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [4] Yang 2022 | Table 3, p. 5, row 5; `ORC-6NIF4TY2DU` |  |
+| -43.2 per mol-atom | Ni3Al | 756 | model |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [3] Huang 1998 | Table 3, p. 9, row 6; `ORC-2MP4MCUG7V.ec9611` |  |
+| -43.2 per mol-atom | Ni3Al | 947 | model |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [3] Huang 1998 | Table 3, p. 9, row 8; `ORC-KPRJ3LE7OJ.5cc4eb` |  |
+| -42.9 per mol-atom | Ni3Al | 1123 | model |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [3] Huang 1998 | Table 3, p. 9, row 10; `ORC-4LEVKOVO63.0e7b4d` |  |
+| -42.38 kJ/mol-atom | γ'-L12 | 298.15 | model |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [2] Liu 2016; _cites ref. 86_ | Table 4, p. 38, row 26; `ORC-W2ORY4WT4W.8fc6c4` |  |
+| -42.3 per mol-atom | Ni3Al | 521 | model |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [3] Huang 1998 | Table 3, p. 9, row 4; `ORC-QGU6KXRRJ5.9ed92b` |  |
+| -42.126 kJ/mol-atom | γ'-L12 | 298.15 | model |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [2] Liu 2016 | Table 4, p. 38, row 20; `ORC-NQD4Z3IV5Z.14c693` |  |
+| -42 per mol-atom | Ni3Al | 300 | model |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [3] Huang 1998 | Table 3, p. 9, row 2; `ORC-KUPM7HOVHD.72785e` |  |
+| -41.7 kJ/mol (basis unstated) | γ′ (Ni3Al) | 1600 | model |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [1] Ansara 1997 | Table 5, p. 9, row 1; `ORC-XALLY2TC5Z.d46bfa` |  |
+| -40.6 kJ/mol (basis unstated) | γ′ (Ni3Al) | 298.15 | model |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [1] Ansara 1997 | Table 5, p. 9, row 5; `ORC-G7EJRHY3WP.01ec29` |  |
+| -43.45 kJ/mol (basis unstated) | L12-AlNi3 |  | DFT | DFT (OQMD) | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [4] Yang 2022 | Table 3, p. 5, row 6; `ORC-UHQVXXCWJ4` |  |
 
 ### Uncertainty budget
 
@@ -151,4 +151,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

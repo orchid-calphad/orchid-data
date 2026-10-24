@@ -28,9 +28,9 @@ Table: Crystal structure, La–Ni–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 5.4636 not_printed ± 2.000e-4 | 298.15 | La2NiO4; _alloy: Ni 0.142857, O 0.571429_ | unspecified | [1] An 2013 | Table 1, p. 3, row 4 |  |
-| Lattice b | 5.4699 not_printed ± 2.000e-4 | 298.15 | La2NiO4; _alloy: Ni 0.142857, O 0.571429_ | unspecified | [1] An 2013 | Table 1, p. 3, row 4 |  |
-| Lattice c | 12.687 not_printed ± 6.000e-4 | 298.15 | La2NiO4; _alloy: Ni 0.142857, O 0.571429_ | unspecified | [1] An 2013 | Table 1, p. 3, row 4 |  |
+| Lattice a | 5.4636 not_printed ± 2.000e-4 | 298.15 | La2NiO4; _alloy: Ni 0.142857, O 0.571429_ | unspecified | [1] An 2013 | Table 1, p. 3, row 4; `ORC-CVMXPYJ5JS.5f50a7` |  |
+| Lattice b | 5.4699 not_printed ± 2.000e-4 | 298.15 | La2NiO4; _alloy: Ni 0.142857, O 0.571429_ | unspecified | [1] An 2013 | Table 1, p. 3, row 4; `ORC-CVMXPYJ5JS.ec3e94` |  |
+| Lattice c | 12.687 not_printed ± 6.000e-4 | 298.15 | La2NiO4; _alloy: Ni 0.142857, O 0.571429_ | unspecified | [1] An 2013 | Table 1, p. 3, row 4; `ORC-CVMXPYJ5JS.c5d874` |  |
 
 ## Sources
 
@@ -73,4 +73,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

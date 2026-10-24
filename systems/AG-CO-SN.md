@@ -28,9 +28,9 @@ Table: Phase equilibrium, Ag–Co–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  |  | Ag3Sn + CoSn + BCT(Sn); _Ag3Sn: Ag 0.743959, Co 1.100e-5, Sn 0.25603; CoSn: Ag 3.800e-5, Co 0.49357, Sn 0.506392; BCT(Sn): Ag 0.002199, Co 9.600e-5, Sn 0.997704_ | experimental | [1] Zhu 2009 | Table 2, p. 2, row 7 |  |
-| Phase composition |  |  | Ag3Sn + CoSn + Co3Sn2 + BCT(Sn); _Ag3Sn: Ag 0.744998, Co 5.370e-4, Sn 0.254465; CoSn: Ag 2.190e-4, Co 0.494891, Sn 0.504889; Co3Sn2: Ag 0.001732, Co 0.577705, Sn 0.420564; BCT(Sn): Ag 7.560e-4, Co 5.890e-4, Sn 0.998655_ | experimental | [1] Zhu 2009 | Table 2, p. 2, row 5 |  |
-| Phase composition |  |  | Ag3Sn + CoSn + CoSn2 + BCT(Sn); _Ag3Sn: Ag 0.745402, Co 4.340e-4, Sn 0.254164; CoSn: Ag 4.100e-5, Co 0.49679, Sn 0.503169; CoSn2: Ag 0.240953, Co 0.255802, Sn 0.503245; BCT(Sn): Ag 7.560e-4, Co 5.890e-4, Sn 0.998655_ | experimental | [1] Zhu 2009 | Table 2, p. 2, row 6 |  |
+| Phase composition |  |  | Ag3Sn + CoSn + BCT(Sn); _Ag3Sn: Ag 0.743959, Co 1.100e-5, Sn 0.25603; CoSn: Ag 3.800e-5, Co 0.49357, Sn 0.506392; BCT(Sn): Ag 0.002199, Co 9.600e-5, Sn 0.997704_ | experimental | [1] Zhu 2009 | Table 2, p. 2, row 7; `ORC-ESY2EWHXHL` |  |
+| Phase composition |  |  | Ag3Sn + CoSn + Co3Sn2 + BCT(Sn); _Ag3Sn: Ag 0.744998, Co 5.370e-4, Sn 0.254465; CoSn: Ag 2.190e-4, Co 0.494891, Sn 0.504889; Co3Sn2: Ag 0.001732, Co 0.577705, Sn 0.420564; BCT(Sn): Ag 7.560e-4, Co 5.890e-4, Sn 0.998655_ | experimental | [1] Zhu 2009 | Table 2, p. 2, row 5; `ORC-6ORFIOF2VD` |  |
+| Phase composition |  |  | Ag3Sn + CoSn + CoSn2 + BCT(Sn); _Ag3Sn: Ag 0.745402, Co 4.340e-4, Sn 0.254164; CoSn: Ag 4.100e-5, Co 0.49679, Sn 0.503169; CoSn2: Ag 0.240953, Co 0.255802, Sn 0.503245; BCT(Sn): Ag 7.560e-4, Co 5.890e-4, Sn 0.998655_ | experimental | [1] Zhu 2009 | Table 2, p. 2, row 6; `ORC-SGVEUBTLQI` |  |
 
 ## Sources
 
@@ -73,4 +73,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

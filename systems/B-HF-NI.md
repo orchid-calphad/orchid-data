@@ -26,32 +26,32 @@ Table: Invariant reactions reported in the literature for the B–Hf–Ni system
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2014.65 | peritectic: Liquid + bcc-Hf + HfB -> hcp-Hf |  | model | [1] Cacciamani 2011 | Table 10, p. 10, row 1 |  |
-| 1472.75 | other: Liquid + beta-HfNi3 -> alpha-HfNi3, Hf2Ni7 |  | model | [1] Cacciamani 2011 | Table 10, p. 10, row 2 |  |
-| 1472.75 | other: Liquid + beta-HfNi3 -> alpha-HfNi3, Hf8Ni21 |  | model | [1] Cacciamani 2011 | Table 10, p. 10, row 3 |  |
-| 1448.05 | quasi-peritectic: Liquid + Hf8Ni21 -> alpha-HfNi3 + Hf3Ni7 |  | model | [1] Cacciamani 2011 | Table 10, p. 10, row 4 |  |
-| 1423.15 | quasi-peritectic: Liquid + beta-HfNi -> HfB2 + alpha-HfNi |  | model | [1] Cacciamani 2011 | Table 10, p. 10, row 6 |  |
-| 1423.15 | quasi-peritectic: Liquid + beta-HfNi -> alpha-HfNi + Ni2B |  | model | [1] Cacciamani 2011 | Table 10, p. 10, row 8 |  |
-| 1423.15 | quasi-peritectic: Liquid + beta-HfNi -> alpha-HfNi + Hf9Ni11 |  | model | [1] Cacciamani 2011 | Table 10, p. 10, row 5 |  |
-| 1423.15 | peritectic: Liquid + HfB2 + beta-HfNi -> alpha-HfNi |  | model | [1] Cacciamani 2011 | Table 10, p. 10, row 7 |  |
-| 1334.45 | quasi-peritectic: Liquid + HfB2 -> Ni2B + NiB |  | model | [1] Cacciamani 2011 | Table 10, p. 10, row 9 |  |
-| 1328.45 | eutectic: Liquid -> HfNi5 + Hf2Ni21B6 + Hf2Ni7 |  | model | [1] Cacciamani 2011 | Table 10, p. 10, row 10 |  |
-| 1320.95 | eutectic: Liquid -> Hf2Ni21B6 + Ni + Ni3B |  | model | [1] Cacciamani 2011 | Table 10, p. 10, row 11 |  |
-| 1318.55 | eutectic: Liquid -> Hf2Ni + HfB + hcp-Hf |  | model | [1] Cacciamani 2011 | Table 10, p. 10, row 12 |  |
-| 1311.65 | eutectic: Liquid -> HfNi5 + Hf2Ni21B6 + Ni |  | model | [1] Cacciamani 2011 | Table 10, p. 10, row 13 |  |
-| 1308.75 | quasi-peritectic: Liquid + alpha-HfNi -> HfB2 + Hf9Ni11 |  | model | [1] Cacciamani 2011 | Table 10, p. 10, row 14 |  |
-| 1306.05 | eutectic: Liquid -> HfB2 + Hf2Ni21B6 + Ni3B |  | model | [1] Cacciamani 2011 | Table 10, p. 10, row 15 |  |
-| 1305.65 | eutectic: Liquid -> HfB2 + Ni2B + Ni3B |  | model | [1] Cacciamani 2011 | Table 10, p. 10, row 16 |  |
-| 1305.55 | quasi-peritectic: Liquid + B -> HfB2 + NiB |  | model | [1] Cacciamani 2011 | Table 10, p. 10, row 17 |  |
-| 1293.15 | eutectic: Liquid -> HfB2 + Ni2B + o-Ni4B3 |  | model | [1] Cacciamani 2011 | Table 10, p. 10, row 18 |  |
-| 1292.65 | eutectic: Liquid -> HfB2 + m-Ni4B3 + o-Ni4B3 |  | model | [1] Cacciamani 2011 | Table 10, p. 10, row 19 |  |
-| 1290.25 | quasi-peritectic: Liquid + Hf3Ni7 -> alpha-HfNi3 + Hf7Ni10 |  | model | [1] Cacciamani 2011 | Table 10, p. 10, row 20 |  |
-| 1289.45 | eutectic: Liquid -> HfB2 + NiB + m-Ni4B3 |  | model | [1] Cacciamani 2011 | Table 10, p. 10, row 21 |  |
-| 1289.35 | eutectic: Liquid -> HfB2 + alpha-HfNi + Hf2Ni |  | model | [1] Cacciamani 2011 | Table 10, p. 10, row 22 |  |
-| 1227.15 | quasi-peritectic: Liquid + Hf9Ni11 -> HfB2 + Hf7Ni10 |  | model | [1] Cacciamani 2011 | Table 10, p. 10, row 23 |  |
-| 1219.15 | eutectic: Liquid -> HfB2 + Hf2Ni21B6 + Hf2Ni7 |  | model | [1] Cacciamani 2011 | Table 10, p. 10, row 24 |  |
-| 1215.65 | quasi-peritectic: Liquid + Hf2Ni7 -> HfB2 + alpha-HfNi3 |  | model | [1] Cacciamani 2011 | Table 10, p. 10, row 25 |  |
-| 1137.85 | eutectic: Liquid -> HfB2 + alpha-HfNi3 + Hf7Ni10 |  | model | [1] Cacciamani 2011 | Table 10, p. 10, row 26 |  |
+| 2014.65 | peritectic: Liquid + bcc-Hf + HfB -> hcp-Hf |  | model | [1] Cacciamani 2011 | Table 10, p. 10, row 1; `ORC-UNCAGG65D5` |  |
+| 1472.75 | other: Liquid + beta-HfNi3 -> alpha-HfNi3, Hf2Ni7 |  | model | [1] Cacciamani 2011 | Table 10, p. 10, row 2; `ORC-SNUKCCI7XG` |  |
+| 1472.75 | other: Liquid + beta-HfNi3 -> alpha-HfNi3, Hf8Ni21 |  | model | [1] Cacciamani 2011 | Table 10, p. 10, row 3; `ORC-WXPUAAVEQF` |  |
+| 1448.05 | quasi-peritectic: Liquid + Hf8Ni21 -> alpha-HfNi3 + Hf3Ni7 |  | model | [1] Cacciamani 2011 | Table 10, p. 10, row 4; `ORC-64SMO5QZTW` |  |
+| 1423.15 | quasi-peritectic: Liquid + beta-HfNi -> HfB2 + alpha-HfNi |  | model | [1] Cacciamani 2011 | Table 10, p. 10, row 6; `ORC-H2IHMVDET6` |  |
+| 1423.15 | quasi-peritectic: Liquid + beta-HfNi -> alpha-HfNi + Ni2B |  | model | [1] Cacciamani 2011 | Table 10, p. 10, row 8; `ORC-IDKOHAY42W` |  |
+| 1423.15 | quasi-peritectic: Liquid + beta-HfNi -> alpha-HfNi + Hf9Ni11 |  | model | [1] Cacciamani 2011 | Table 10, p. 10, row 5; `ORC-JIEK36RVFZ` |  |
+| 1423.15 | peritectic: Liquid + HfB2 + beta-HfNi -> alpha-HfNi |  | model | [1] Cacciamani 2011 | Table 10, p. 10, row 7; `ORC-N6FA6D7D7C` |  |
+| 1334.45 | quasi-peritectic: Liquid + HfB2 -> Ni2B + NiB |  | model | [1] Cacciamani 2011 | Table 10, p. 10, row 9; `ORC-FWRDVCKYYU` |  |
+| 1328.45 | eutectic: Liquid -> HfNi5 + Hf2Ni21B6 + Hf2Ni7 |  | model | [1] Cacciamani 2011 | Table 10, p. 10, row 10; `ORC-SNYNGF75EM` |  |
+| 1320.95 | eutectic: Liquid -> Hf2Ni21B6 + Ni + Ni3B |  | model | [1] Cacciamani 2011 | Table 10, p. 10, row 11; `ORC-55LA3ROVBX` |  |
+| 1318.55 | eutectic: Liquid -> Hf2Ni + HfB + hcp-Hf |  | model | [1] Cacciamani 2011 | Table 10, p. 10, row 12; `ORC-HOGME6JAVQ` |  |
+| 1311.65 | eutectic: Liquid -> HfNi5 + Hf2Ni21B6 + Ni |  | model | [1] Cacciamani 2011 | Table 10, p. 10, row 13; `ORC-OJHOKPXYS3` |  |
+| 1308.75 | quasi-peritectic: Liquid + alpha-HfNi -> HfB2 + Hf9Ni11 |  | model | [1] Cacciamani 2011 | Table 10, p. 10, row 14; `ORC-TJU2VUFKWM` |  |
+| 1306.05 | eutectic: Liquid -> HfB2 + Hf2Ni21B6 + Ni3B |  | model | [1] Cacciamani 2011 | Table 10, p. 10, row 15; `ORC-5J3SGM2447` |  |
+| 1305.65 | eutectic: Liquid -> HfB2 + Ni2B + Ni3B |  | model | [1] Cacciamani 2011 | Table 10, p. 10, row 16; `ORC-P7XF5R7K4B` |  |
+| 1305.55 | quasi-peritectic: Liquid + B -> HfB2 + NiB |  | model | [1] Cacciamani 2011 | Table 10, p. 10, row 17; `ORC-D3PGFVODN6` |  |
+| 1293.15 | eutectic: Liquid -> HfB2 + Ni2B + o-Ni4B3 |  | model | [1] Cacciamani 2011 | Table 10, p. 10, row 18; `ORC-AAXEC5WDAJ` |  |
+| 1292.65 | eutectic: Liquid -> HfB2 + m-Ni4B3 + o-Ni4B3 |  | model | [1] Cacciamani 2011 | Table 10, p. 10, row 19; `ORC-KR3H7DS6R2` |  |
+| 1290.25 | quasi-peritectic: Liquid + Hf3Ni7 -> alpha-HfNi3 + Hf7Ni10 |  | model | [1] Cacciamani 2011 | Table 10, p. 10, row 20; `ORC-SERNRLXIK3` |  |
+| 1289.45 | eutectic: Liquid -> HfB2 + NiB + m-Ni4B3 |  | model | [1] Cacciamani 2011 | Table 10, p. 10, row 21; `ORC-QCIHPH2LPI` |  |
+| 1289.35 | eutectic: Liquid -> HfB2 + alpha-HfNi + Hf2Ni |  | model | [1] Cacciamani 2011 | Table 10, p. 10, row 22; `ORC-KKOJARVC6V` |  |
+| 1227.15 | quasi-peritectic: Liquid + Hf9Ni11 -> HfB2 + Hf7Ni10 |  | model | [1] Cacciamani 2011 | Table 10, p. 10, row 23; `ORC-FXMNN66A4P` |  |
+| 1219.15 | eutectic: Liquid -> HfB2 + Hf2Ni21B6 + Hf2Ni7 |  | model | [1] Cacciamani 2011 | Table 10, p. 10, row 24; `ORC-IBUPH7L7HV` |  |
+| 1215.65 | quasi-peritectic: Liquid + Hf2Ni7 -> HfB2 + alpha-HfNi3 |  | model | [1] Cacciamani 2011 | Table 10, p. 10, row 25; `ORC-GP6K2P64GL` |  |
+| 1137.85 | eutectic: Liquid -> HfB2 + alpha-HfNi3 + Hf7Ni10 |  | model | [1] Cacciamani 2011 | Table 10, p. 10, row 26; `ORC-K2O6U2GDPV` |  |
 
 ## Sources
 
@@ -94,4 +94,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

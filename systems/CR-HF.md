@@ -57,68 +57,68 @@ Table: Crystal structure, Cr–Hf system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 5.0314 Å | 0 | Cr2Hf (C14); _alloy: Hf 0.333333_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 32 |  |
-| Lattice a | 7.0655 Å | 0 | Cr2Hf (C15); _alloy: Hf 0.333333_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 33 |  |
-| Lattice a | 5.009 Å | 0 | Cr2Hf (C36); _alloy: Hf 0.333333_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 41 |  |
-| Lattice a | 6.0211 Å | 0 | Cr2Hf10 (C14); _alloy: Hf 0.833333_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 37 |  |
-| Lattice a | 6.0138 Å | 0 | Cr2Hf10 (C36); _alloy: Hf 0.833333_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 44 |  |
-| Lattice a | 6.2668 Å | 0 | Cr6Hf6 (C14); _alloy: Hf 0.5_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 34 |  |
-| Lattice a | 6.2594 Å | 0 | Cr6Hf6 (C36); _alloy: Hf 0.5_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 42 |  |
-| Lattice a | 5.5285 Å | 0 | CrHf2 (C14); _alloy: Hf 0.666667_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 35 |  |
-| Lattice a | 7.7745 Å | 0 | CrHf2 (C15); _alloy: Hf 0.666667_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 36 |  |
-| Lattice a | 5.6155 Å | 0 | CrHf2 (C36); _alloy: Hf 0.666667_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 43 |  |
-| Lattice a | 7.14 Å | 298.15 | Cr2Hf (C15); _alloy: Hf 0.333333_ | experimental | [1] Pavlů 2010; _cites Villars 1991_ | Table 2, p. 3, row 29 |  |
-| Lattice c | 8.0561 Å | 0 | Cr2Hf (C14); _alloy: Hf 0.333333_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 32 |  |
-| Lattice c | 16.2427 Å | 0 | Cr2Hf (C36); _alloy: Hf 0.333333_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 41 |  |
-| Lattice c | 7.8344 Å | 0 | Cr2Hf10 (C14); _alloy: Hf 0.833333_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 37 |  |
-| Lattice c | 15.6956 Å | 0 | Cr2Hf10 (C36); _alloy: Hf 0.833333_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 44 |  |
-| Lattice c | 6.3446 Å | 0 | Cr6Hf6 (C14); _alloy: Hf 0.5_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 34 |  |
-| Lattice c | 12.7576 Å | 0 | Cr6Hf6 (C36); _alloy: Hf 0.5_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 42 |  |
-| Lattice c | 8.6558 Å | 0 | CrHf2 (C14); _alloy: Hf 0.666667_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 35 |  |
-| Lattice c | 17.7111 Å | 0 | CrHf2 (C36); _alloy: Hf 0.666667_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 43 |  |
-| lattice 4e z | 0.0945 not_printed | 0 | Cr2Hf (C36); _alloy: Hf 0.333333_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 41 |  |
-| lattice 4e z | 0.0895 not_printed | 0 | Cr2Hf10 (C36); _alloy: Hf 0.833333_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 44 |  |
-| lattice 4e z | 0.0638 not_printed | 0 | Cr6Hf6 (C36); _alloy: Hf 0.5_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 42 |  |
-| lattice 4e z | 0.06 not_printed | 0 | CrHf2 (C36); _alloy: Hf 0.666667_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 43 |  |
-| lattice 4f z | 0.0604 not_printed | 0 | Cr2Hf (C14); _alloy: Hf 0.333333_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 32 |  |
-| lattice 4f z | 0.0702 not_printed | 0 | Cr2Hf10 (C14); _alloy: Hf 0.833333_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 37 |  |
-| lattice 4f z | 0.1223 not_printed | 0 | Cr6Hf6 (C14); _alloy: Hf 0.5_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 34 |  |
-| lattice 4f z | 0.0627 not_printed | 0 | CrHf2 (C14); _alloy: Hf 0.666667_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 35 |  |
-| lattice 4f z 1 | 0.8439 not_printed | 0 | Cr2Hf (C36); _alloy: Hf 0.333333_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 41 |  |
-| lattice 4f z 1 | 0.8394 not_printed | 0 | Cr2Hf10 (C36); _alloy: Hf 0.833333_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 44 |  |
-| lattice 4f z 1 | 0.814 not_printed | 0 | Cr6Hf6 (C36); _alloy: Hf 0.5_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 42 |  |
-| lattice 4f z 1 | 0.8585 not_printed | 0 | CrHf2 (C36); _alloy: Hf 0.666667_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 43 |  |
-| lattice 4f z 2 | 0.1234 not_printed | 0 | Cr2Hf (C36); _alloy: Hf 0.333333_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 41 |  |
-| lattice 4f z 2 | 0.125 not_printed | 0 | Cr2Hf10 (C36); _alloy: Hf 0.833333_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 44 |  |
-| lattice 4f z 2 | 0.1323 not_printed | 0 | Cr6Hf6 (C36); _alloy: Hf 0.5_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 42 |  |
-| lattice 4f z 2 | 0.1266 not_printed | 0 | CrHf2 (C36); _alloy: Hf 0.666667_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 43 |  |
-| lattice 6h x | 0.8315 not_printed | 0 | Cr2Hf (C14); _alloy: Hf 0.333333_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 32 |  |
-| lattice 6h x | 0.1647 not_printed | 0 | Cr2Hf (C36); _alloy: Hf 0.333333_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 41 |  |
-| lattice 6h x | 0.8325 not_printed | 0 | Cr2Hf10 (C14); _alloy: Hf 0.833333_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 37 |  |
-| lattice 6h x | 0.1652 not_printed | 0 | Cr2Hf10 (C36); _alloy: Hf 0.833333_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 44 |  |
-| lattice 6h x | 0.8256 not_printed | 0 | Cr6Hf6 (C14); _alloy: Hf 0.5_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 34 |  |
-| lattice 6h x | 0.1568 not_printed | 0 | Cr6Hf6 (C36); _alloy: Hf 0.5_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 42 |  |
-| lattice 6h x | 0.8253 not_printed | 0 | CrHf2 (C14); _alloy: Hf 0.666667_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 35 |  |
-| lattice 6h x | 0.1603 not_printed | 0 | CrHf2 (C36); _alloy: Hf 0.666667_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 43 |  |
-| lattice 6h y | 0.6631 not_printed | 0 | Cr2Hf (C14); _alloy: Hf 0.333333_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 32 |  |
-| lattice 6h y | 0.3294 not_printed | 0 | Cr2Hf (C36); _alloy: Hf 0.333333_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 41 |  |
-| lattice 6h y | 0.665 not_printed | 0 | Cr2Hf10 (C14); _alloy: Hf 0.833333_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 37 |  |
-| lattice 6h y | 0.3305 not_printed | 0 | Cr2Hf10 (C36); _alloy: Hf 0.833333_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 44 |  |
-| lattice 6h y | 0.6513 not_printed | 0 | Cr6Hf6 (C14); _alloy: Hf 0.5_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 34 |  |
-| lattice 6h y | 0.3137 not_printed | 0 | Cr6Hf6 (C36); _alloy: Hf 0.5_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 42 |  |
-| lattice 6h y | 0.6505 not_printed | 0 | CrHf2 (C14); _alloy: Hf 0.666667_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 35 |  |
-| lattice 6h y | 0.3207 not_printed | 0 | CrHf2 (C36); _alloy: Hf 0.666667_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 43 |  |
-| lattice v atom | 1.47179 10^7 pm^3 | 0 | Cr2Hf (C14); _alloy: Hf 0.333333_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 32 |  |
-| lattice v atom | 1.46966 10^7 pm^3 | 0 | Cr2Hf (C15); _alloy: Hf 0.333333_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 33 |  |
-| lattice v atom | 1.47056 10^7 pm^3 | 0 | Cr2Hf (C36); _alloy: Hf 0.333333_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 41 |  |
-| lattice v atom | 2.04974 10^7 pm^3 | 0 | Cr2Hf10 (C14); _alloy: Hf 0.833333_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 37 |  |
-| lattice v atom | 2.04832 10^7 pm^3 | 0 | Cr2Hf10 (C36); _alloy: Hf 0.833333_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 44 |  |
-| lattice v atom | 1.79822 10^7 pm^3 | 0 | Cr6Hf6 (C14); _alloy: Hf 0.5_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 34 |  |
-| lattice v atom | 1.80365 10^7 pm^3 | 0 | Cr6Hf6 (C36); _alloy: Hf 0.5_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 42 |  |
-| lattice v atom | 1.9093 10^7 pm^3 | 0 | CrHf2 (C14); _alloy: Hf 0.666667_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 35 |  |
-| lattice v atom | 1.95797 10^7 pm^3 | 0 | CrHf2 (C15); _alloy: Hf 0.666667_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 36 |  |
-| lattice v atom | 2.01529 10^7 pm^3 | 0 | CrHf2 (C36); _alloy: Hf 0.666667_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 43 |  |
-| lattice v atom | 1.51664 10^7 pm^3 | 298.15 | Cr2Hf (C15); _alloy: Hf 0.333333_ | experimental | [1] Pavlů 2010; _cites Villars 1991_ | Table 2, p. 3, row 29 |  |
+| Lattice a | 5.0314 Å | 0 | Cr2Hf (C14); _alloy: Hf 0.333333_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 32; `ORC-DAY45LDIMT.2a6e20` |  |
+| Lattice a | 7.0655 Å | 0 | Cr2Hf (C15); _alloy: Hf 0.333333_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 33; `ORC-HDLCHW3JT3.218d5c` |  |
+| Lattice a | 5.009 Å | 0 | Cr2Hf (C36); _alloy: Hf 0.333333_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 41; `ORC-Q7AHMRRW7I.4c8de1` |  |
+| Lattice a | 6.0211 Å | 0 | Cr2Hf10 (C14); _alloy: Hf 0.833333_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 37; `ORC-OPXTL7QJF2.24a4b2` |  |
+| Lattice a | 6.0138 Å | 0 | Cr2Hf10 (C36); _alloy: Hf 0.833333_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 44; `ORC-RKDOLLV3MA.32cb24` |  |
+| Lattice a | 6.2668 Å | 0 | Cr6Hf6 (C14); _alloy: Hf 0.5_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 34; `ORC-GEXHGXSZVR.3a9e1c` |  |
+| Lattice a | 6.2594 Å | 0 | Cr6Hf6 (C36); _alloy: Hf 0.5_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 42; `ORC-X2ETHLNQZX.2b6c7e` |  |
+| Lattice a | 5.5285 Å | 0 | CrHf2 (C14); _alloy: Hf 0.666667_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 35; `ORC-ANSSCCCMAT.a26d41` |  |
+| Lattice a | 7.7745 Å | 0 | CrHf2 (C15); _alloy: Hf 0.666667_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 36; `ORC-NK5B42NCPL.2646f0` |  |
+| Lattice a | 5.6155 Å | 0 | CrHf2 (C36); _alloy: Hf 0.666667_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 43; `ORC-GODBWQPOKC.62d1c1` |  |
+| Lattice a | 7.14 Å | 298.15 | Cr2Hf (C15); _alloy: Hf 0.333333_ | experimental | [1] Pavlů 2010; _cites Villars 1991_ | Table 2, p. 3, row 29; `ORC-TAVZ7W2OYK.0a7cc9` |  |
+| Lattice c | 8.0561 Å | 0 | Cr2Hf (C14); _alloy: Hf 0.333333_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 32; `ORC-DAY45LDIMT.c283f6` |  |
+| Lattice c | 16.2427 Å | 0 | Cr2Hf (C36); _alloy: Hf 0.333333_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 41; `ORC-Q7AHMRRW7I.c84b39` |  |
+| Lattice c | 7.8344 Å | 0 | Cr2Hf10 (C14); _alloy: Hf 0.833333_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 37; `ORC-OPXTL7QJF2.61c754` |  |
+| Lattice c | 15.6956 Å | 0 | Cr2Hf10 (C36); _alloy: Hf 0.833333_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 44; `ORC-RKDOLLV3MA.6cb84e` |  |
+| Lattice c | 6.3446 Å | 0 | Cr6Hf6 (C14); _alloy: Hf 0.5_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 34; `ORC-GEXHGXSZVR.440c27` |  |
+| Lattice c | 12.7576 Å | 0 | Cr6Hf6 (C36); _alloy: Hf 0.5_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 42; `ORC-X2ETHLNQZX.2babd8` |  |
+| Lattice c | 8.6558 Å | 0 | CrHf2 (C14); _alloy: Hf 0.666667_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 35; `ORC-ANSSCCCMAT.023cf0` |  |
+| Lattice c | 17.7111 Å | 0 | CrHf2 (C36); _alloy: Hf 0.666667_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 43; `ORC-GODBWQPOKC.2dc416` |  |
+| lattice 4e z | 0.0945 not_printed | 0 | Cr2Hf (C36); _alloy: Hf 0.333333_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 41; `ORC-Q7AHMRRW7I.78da7f` |  |
+| lattice 4e z | 0.0895 not_printed | 0 | Cr2Hf10 (C36); _alloy: Hf 0.833333_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 44; `ORC-RKDOLLV3MA.12335c` |  |
+| lattice 4e z | 0.0638 not_printed | 0 | Cr6Hf6 (C36); _alloy: Hf 0.5_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 42; `ORC-X2ETHLNQZX.a4563a` |  |
+| lattice 4e z | 0.06 not_printed | 0 | CrHf2 (C36); _alloy: Hf 0.666667_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 43; `ORC-GODBWQPOKC.1ffa71` |  |
+| lattice 4f z | 0.0604 not_printed | 0 | Cr2Hf (C14); _alloy: Hf 0.333333_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 32; `ORC-DAY45LDIMT.d10c8d` |  |
+| lattice 4f z | 0.0702 not_printed | 0 | Cr2Hf10 (C14); _alloy: Hf 0.833333_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 37; `ORC-OPXTL7QJF2.b1f70e` |  |
+| lattice 4f z | 0.1223 not_printed | 0 | Cr6Hf6 (C14); _alloy: Hf 0.5_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 34; `ORC-GEXHGXSZVR.d1811e` |  |
+| lattice 4f z | 0.0627 not_printed | 0 | CrHf2 (C14); _alloy: Hf 0.666667_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 35; `ORC-ANSSCCCMAT.85da9f` |  |
+| lattice 4f z 1 | 0.8439 not_printed | 0 | Cr2Hf (C36); _alloy: Hf 0.333333_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 41; `ORC-Q7AHMRRW7I.f0f24b` |  |
+| lattice 4f z 1 | 0.8394 not_printed | 0 | Cr2Hf10 (C36); _alloy: Hf 0.833333_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 44; `ORC-RKDOLLV3MA.620f69` |  |
+| lattice 4f z 1 | 0.814 not_printed | 0 | Cr6Hf6 (C36); _alloy: Hf 0.5_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 42; `ORC-X2ETHLNQZX.a62aa2` |  |
+| lattice 4f z 1 | 0.8585 not_printed | 0 | CrHf2 (C36); _alloy: Hf 0.666667_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 43; `ORC-GODBWQPOKC.5ee23c` |  |
+| lattice 4f z 2 | 0.1234 not_printed | 0 | Cr2Hf (C36); _alloy: Hf 0.333333_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 41; `ORC-Q7AHMRRW7I.bac897` |  |
+| lattice 4f z 2 | 0.125 not_printed | 0 | Cr2Hf10 (C36); _alloy: Hf 0.833333_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 44; `ORC-RKDOLLV3MA.a89d11` |  |
+| lattice 4f z 2 | 0.1323 not_printed | 0 | Cr6Hf6 (C36); _alloy: Hf 0.5_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 42; `ORC-X2ETHLNQZX.7d21ae` |  |
+| lattice 4f z 2 | 0.1266 not_printed | 0 | CrHf2 (C36); _alloy: Hf 0.666667_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 43; `ORC-GODBWQPOKC.d8f8f4` |  |
+| lattice 6h x | 0.8315 not_printed | 0 | Cr2Hf (C14); _alloy: Hf 0.333333_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 32; `ORC-DAY45LDIMT.e2555d` |  |
+| lattice 6h x | 0.1647 not_printed | 0 | Cr2Hf (C36); _alloy: Hf 0.333333_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 41; `ORC-Q7AHMRRW7I.0ecf84` |  |
+| lattice 6h x | 0.8325 not_printed | 0 | Cr2Hf10 (C14); _alloy: Hf 0.833333_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 37; `ORC-OPXTL7QJF2.73d1b9` |  |
+| lattice 6h x | 0.1652 not_printed | 0 | Cr2Hf10 (C36); _alloy: Hf 0.833333_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 44; `ORC-RKDOLLV3MA.ec82f5` |  |
+| lattice 6h x | 0.8256 not_printed | 0 | Cr6Hf6 (C14); _alloy: Hf 0.5_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 34; `ORC-GEXHGXSZVR.823256` |  |
+| lattice 6h x | 0.1568 not_printed | 0 | Cr6Hf6 (C36); _alloy: Hf 0.5_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 42; `ORC-X2ETHLNQZX.3898bc` |  |
+| lattice 6h x | 0.8253 not_printed | 0 | CrHf2 (C14); _alloy: Hf 0.666667_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 35; `ORC-ANSSCCCMAT.f9889a` |  |
+| lattice 6h x | 0.1603 not_printed | 0 | CrHf2 (C36); _alloy: Hf 0.666667_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 43; `ORC-GODBWQPOKC.b21db6` |  |
+| lattice 6h y | 0.6631 not_printed | 0 | Cr2Hf (C14); _alloy: Hf 0.333333_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 32; `ORC-DAY45LDIMT.6a3c99` |  |
+| lattice 6h y | 0.3294 not_printed | 0 | Cr2Hf (C36); _alloy: Hf 0.333333_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 41; `ORC-Q7AHMRRW7I.4c5869` |  |
+| lattice 6h y | 0.665 not_printed | 0 | Cr2Hf10 (C14); _alloy: Hf 0.833333_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 37; `ORC-OPXTL7QJF2.e3c662` |  |
+| lattice 6h y | 0.3305 not_printed | 0 | Cr2Hf10 (C36); _alloy: Hf 0.833333_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 44; `ORC-RKDOLLV3MA.2e77cb` |  |
+| lattice 6h y | 0.6513 not_printed | 0 | Cr6Hf6 (C14); _alloy: Hf 0.5_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 34; `ORC-GEXHGXSZVR.766d88` |  |
+| lattice 6h y | 0.3137 not_printed | 0 | Cr6Hf6 (C36); _alloy: Hf 0.5_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 42; `ORC-X2ETHLNQZX.d8b03e` |  |
+| lattice 6h y | 0.6505 not_printed | 0 | CrHf2 (C14); _alloy: Hf 0.666667_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 35; `ORC-ANSSCCCMAT.a116d7` |  |
+| lattice 6h y | 0.3207 not_printed | 0 | CrHf2 (C36); _alloy: Hf 0.666667_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 43; `ORC-GODBWQPOKC.536eb1` |  |
+| lattice v atom | 1.47179 10^7 pm^3 | 0 | Cr2Hf (C14); _alloy: Hf 0.333333_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 32; `ORC-DAY45LDIMT.30dcfa` |  |
+| lattice v atom | 1.46966 10^7 pm^3 | 0 | Cr2Hf (C15); _alloy: Hf 0.333333_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 33; `ORC-HDLCHW3JT3.72d52c` |  |
+| lattice v atom | 1.47056 10^7 pm^3 | 0 | Cr2Hf (C36); _alloy: Hf 0.333333_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 41; `ORC-Q7AHMRRW7I.823107` |  |
+| lattice v atom | 2.04974 10^7 pm^3 | 0 | Cr2Hf10 (C14); _alloy: Hf 0.833333_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 37; `ORC-OPXTL7QJF2.88fedc` |  |
+| lattice v atom | 2.04832 10^7 pm^3 | 0 | Cr2Hf10 (C36); _alloy: Hf 0.833333_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 44; `ORC-RKDOLLV3MA.4918f5` |  |
+| lattice v atom | 1.79822 10^7 pm^3 | 0 | Cr6Hf6 (C14); _alloy: Hf 0.5_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 34; `ORC-GEXHGXSZVR.38567f` |  |
+| lattice v atom | 1.80365 10^7 pm^3 | 0 | Cr6Hf6 (C36); _alloy: Hf 0.5_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 42; `ORC-X2ETHLNQZX.dfc94d` |  |
+| lattice v atom | 1.9093 10^7 pm^3 | 0 | CrHf2 (C14); _alloy: Hf 0.666667_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 35; `ORC-ANSSCCCMAT.d024ec` |  |
+| lattice v atom | 1.95797 10^7 pm^3 | 0 | CrHf2 (C15); _alloy: Hf 0.666667_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 36; `ORC-NK5B42NCPL.759a04` |  |
+| lattice v atom | 2.01529 10^7 pm^3 | 0 | CrHf2 (C36); _alloy: Hf 0.666667_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 43; `ORC-GODBWQPOKC.633650` |  |
+| lattice v atom | 1.51664 10^7 pm^3 | 298.15 | Cr2Hf (C15); _alloy: Hf 0.333333_ | experimental | [1] Pavlů 2010; _cites Villars 1991_ | Table 2, p. 3, row 29; `ORC-TAVZ7W2OYK.3175b1` |  |
 
 ## Sources
 
@@ -183,4 +183,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

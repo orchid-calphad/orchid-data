@@ -83,14 +83,14 @@ Table: Invariant reactions reported in the literature for the Fe–Sm system (8)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1558 | peritectic: Liquid + f.c.c. Fe -> Fe17Sm2 | Liquid: Sm 0.247; f.c.c. Fe: Sm 0; Fe17Sm2: Sm 0.105 | unspecified | [1] Zinkevich 2002 | Table 6, p. 13, row 2 |  |
-| 1553 | peritectic: Liquid + f.c.c. Fe -> Fe17Sm2 | Fe17Sm2: Sm 0.105263 | experimental | [1] Zinkevich 2002; _cites Buschow 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990124-x) | Table 6, p. 13, row 1 |  |
-| 1287 | peritectic: Liquid + Fe17Sm2 -> Fe3Sm | Liquid: Sm 0.544; Fe17Sm2: Sm 0.105; Fe3Sm: Sm 0.25 | unspecified | [1] Zinkevich 2002 | Table 6, p. 13, row 4 |  |
-| 1283 | peritectic: Liquid + Fe17Sm2 -> Fe3Sm | Fe17Sm2: Sm 0.105263; Fe3Sm: Sm 0.25 | experimental | [1] Zinkevich 2002; _cites Buschow 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990124-x) | Table 6, p. 13, row 3 |  |
-| 1173 | peritectic: Liquid + Fe3Sm -> Fe2Sm | Fe3Sm: Sm 0.25; Fe2Sm: Sm 0.333333 | experimental | [1] Zinkevich 2002; _cites Buschow 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990124-x) | Table 6, p. 13, row 5 |  |
-| 1172 | peritectic: Liquid + Fe3Sm -> Fe2Sm | Liquid: Sm 0.631; Fe3Sm: Sm 0.25; Fe2Sm: Sm 0.333 | unspecified | [1] Zinkevich 2002 | Table 6, p. 13, row 6 |  |
-| 997 | eutectic: Liquid -> Fe2Sm + α-Sm | Liquid: Sm 0.768; Fe2Sm: Sm 0.333; α-Sm: Sm 1 | unspecified | [1] Zinkevich 2002 | Table 6, p. 13, row 8 |  |
-| 993 | eutectic: Liquid -> Fe2Sm + α-Sm | Liquid: Sm 0.75; Fe2Sm: Sm 0.333333 | experimental | [1] Zinkevich 2002; _cites Buschow 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990124-x) | Table 6, p. 13, row 7 |  |
+| 1558 | peritectic: Liquid + f.c.c. Fe -> Fe17Sm2 | Liquid: Sm 0.247; f.c.c. Fe: Sm 0; Fe17Sm2: Sm 0.105 | unspecified | [1] Zinkevich 2002 | Table 6, p. 13, row 2; `ORC-ZOWNWXXZ5T` |  |
+| 1553 | peritectic: Liquid + f.c.c. Fe -> Fe17Sm2 | Fe17Sm2: Sm 0.105263 | experimental | [1] Zinkevich 2002; _cites Buschow 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990124-x) | Table 6, p. 13, row 1; `ORC-46ANJYZJIK` |  |
+| 1287 | peritectic: Liquid + Fe17Sm2 -> Fe3Sm | Liquid: Sm 0.544; Fe17Sm2: Sm 0.105; Fe3Sm: Sm 0.25 | unspecified | [1] Zinkevich 2002 | Table 6, p. 13, row 4; `ORC-OT73XJU3KS` |  |
+| 1283 | peritectic: Liquid + Fe17Sm2 -> Fe3Sm | Fe17Sm2: Sm 0.105263; Fe3Sm: Sm 0.25 | experimental | [1] Zinkevich 2002; _cites Buschow 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990124-x) | Table 6, p. 13, row 3; `ORC-ETY3HOSIUI` |  |
+| 1173 | peritectic: Liquid + Fe3Sm -> Fe2Sm | Fe3Sm: Sm 0.25; Fe2Sm: Sm 0.333333 | experimental | [1] Zinkevich 2002; _cites Buschow 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990124-x) | Table 6, p. 13, row 5; `ORC-AQFL3NRDDW` |  |
+| 1172 | peritectic: Liquid + Fe3Sm -> Fe2Sm | Liquid: Sm 0.631; Fe3Sm: Sm 0.25; Fe2Sm: Sm 0.333 | unspecified | [1] Zinkevich 2002 | Table 6, p. 13, row 6; `ORC-K2UQOYI5B4` |  |
+| 997 | eutectic: Liquid -> Fe2Sm + α-Sm | Liquid: Sm 0.768; Fe2Sm: Sm 0.333; α-Sm: Sm 1 | unspecified | [1] Zinkevich 2002 | Table 6, p. 13, row 8; `ORC-JUHT4Q4G3X` |  |
+| 993 | eutectic: Liquid -> Fe2Sm + α-Sm | Liquid: Sm 0.75; Fe2Sm: Sm 0.333333 | experimental | [1] Zinkevich 2002; _cites Buschow 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990124-x) | Table 6, p. 13, row 7; `ORC-CFELKFH3DN` |  |
 
 ## Other properties
 
@@ -100,7 +100,7 @@ Table: Phase transition, Fe–Sm system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 923 K | 923 | Fe 1 SmH 26x ⇒ Fe 17 Sm 2 1 H 2 | experimental | [1] Zinkevich 2002; _cites Zhao 1995_ [doi](https://doi.org/10.1016/0304-8853%2895%2900021-6) | p. 3 | “The equilibrium temperature of the invariant recombination reaction: Fe 1 SmH 26x ⇒ Fe 17 Sm 2 1 H 2 depends on the hydrogen partial pressure in the gas phase increasing from 923 K for vacuum conditions \[30\] up to 1313 K for 101 325 Pa H 2 \[61\].” |
+| Phase transition | 923 K | 923 | Fe 1 SmH 26x ⇒ Fe 17 Sm 2 1 H 2 | experimental | [1] Zinkevich 2002; _cites Zhao 1995_ [doi](https://doi.org/10.1016/0304-8853%2895%2900021-6) | p. 3; `ORC-ENONNBG67V.a5fe55` | “The equilibrium temperature of the invariant recombination reaction: Fe 1 SmH 26x ⇒ Fe 17 Sm 2 1 H 2 depends on the hydrogen partial pressure in the gas phase increasing from 923 K for vacuum conditions \[30\] up to 1313 K for 101 325 Pa H 2 \[61\].” |
 
 ### Heat capacity / entropy / enthalpy (13)
 
@@ -108,19 +108,19 @@ Table: Heat capacity / entropy / enthalpy, Fe–Sm system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy | 35.18 J/mol (basis unstated)/K | 298.15 | Fe17Sm2; _alloy: Sm 0.105263_ | model | [1] Zinkevich 2002 | Table 7, p. 13, row 2 |  |
-| Heat capacity | 29.1 J/mol (basis unstated)/K | 272 | Fe17Sm2; _alloy: Sm 0.105263_ | experimental | [1] Zinkevich 2002 | Table 7, p. 13, row 3 |  |
-| Heat capacity | 25.95 J/mol (basis unstated)/K | 272 | Fe17Sm2; _alloy: Sm 0.105263_ | model | [1] Zinkevich 2002 | Table 7, p. 13, row 4 |  |
-| Heat capacity | 29.4 J/mol (basis unstated)/K | 277 | Fe17Sm2; _alloy: Sm 0.105263_ | experimental | [1] Zinkevich 2002 | Table 7, p. 13, row 5 |  |
-| Heat capacity | 26.42 J/mol (basis unstated)/K | 277 | Fe17Sm2; _alloy: Sm 0.105263_ | model | [1] Zinkevich 2002 | Table 7, p. 13, row 6 |  |
-| Heat capacity | 29.7 J/mol (basis unstated)/K | 282 | Fe17Sm2; _alloy: Sm 0.105263_ | experimental | [1] Zinkevich 2002 | Table 7, p. 13, row 7 |  |
-| Heat capacity | 26.92 J/mol (basis unstated)/K | 282 | Fe17Sm2; _alloy: Sm 0.105263_ | model | [1] Zinkevich 2002 | Table 7, p. 13, row 8 |  |
-| Heat capacity | 27.45 J/mol (basis unstated)/K | 287 | Fe17Sm2; _alloy: Sm 0.105263_ | model | [1] Zinkevich 2002 | Table 7, p. 13, row 10 |  |
-| Heat capacity | 29.9 J/mol (basis unstated)/K | 287 | Fe17Sm2; _alloy: Sm 0.105263_ | experimental | [1] Zinkevich 2002 | Table 7, p. 13, row 9 |  |
-| Heat capacity | 30.2 J/mol (basis unstated)/K | 293 | Fe17Sm2; _alloy: Sm 0.105263_ | experimental | [1] Zinkevich 2002 | Table 7, p. 13, row 11 |  |
-| Heat capacity | 28 J/mol (basis unstated)/K | 293 | Fe17Sm2; _alloy: Sm 0.105263_ | model | [1] Zinkevich 2002 | Table 7, p. 13, row 12 |  |
-| Heat capacity | 28.57 J/mol (basis unstated)/K | 298.15 | Fe17Sm2; _alloy: Sm 0.105263_ | model | [1] Zinkevich 2002 | Table 7, p. 13, row 14 |  |
-| Heat capacity | 30.3 J/mol (basis unstated)/K | 298.15 | Fe17Sm2; _alloy: Sm 0.105263_ | experimental | [1] Zinkevich 2002 | Table 7, p. 13, row 13 |  |
+| Entropy | 35.18 J/mol (basis unstated)/K | 298.15 | Fe17Sm2; _alloy: Sm 0.105263_ | model | [1] Zinkevich 2002 | Table 7, p. 13, row 2; `ORC-FXHWIDG7TI` |  |
+| Heat capacity | 29.1 J/mol (basis unstated)/K | 272 | Fe17Sm2; _alloy: Sm 0.105263_ | experimental | [1] Zinkevich 2002 | Table 7, p. 13, row 3; `ORC-ALPGZWBJPJ` |  |
+| Heat capacity | 25.95 J/mol (basis unstated)/K | 272 | Fe17Sm2; _alloy: Sm 0.105263_ | model | [1] Zinkevich 2002 | Table 7, p. 13, row 4; `ORC-CGT62BX4ZY` |  |
+| Heat capacity | 29.4 J/mol (basis unstated)/K | 277 | Fe17Sm2; _alloy: Sm 0.105263_ | experimental | [1] Zinkevich 2002 | Table 7, p. 13, row 5; `ORC-CLWO7ZAO7S` |  |
+| Heat capacity | 26.42 J/mol (basis unstated)/K | 277 | Fe17Sm2; _alloy: Sm 0.105263_ | model | [1] Zinkevich 2002 | Table 7, p. 13, row 6; `ORC-WZRQBKTDPE` |  |
+| Heat capacity | 29.7 J/mol (basis unstated)/K | 282 | Fe17Sm2; _alloy: Sm 0.105263_ | experimental | [1] Zinkevich 2002 | Table 7, p. 13, row 7; `ORC-KUU2QEBTNX` |  |
+| Heat capacity | 26.92 J/mol (basis unstated)/K | 282 | Fe17Sm2; _alloy: Sm 0.105263_ | model | [1] Zinkevich 2002 | Table 7, p. 13, row 8; `ORC-PBEQCJZAXI` |  |
+| Heat capacity | 27.45 J/mol (basis unstated)/K | 287 | Fe17Sm2; _alloy: Sm 0.105263_ | model | [1] Zinkevich 2002 | Table 7, p. 13, row 10; `ORC-2U2T5NHXRR` |  |
+| Heat capacity | 29.9 J/mol (basis unstated)/K | 287 | Fe17Sm2; _alloy: Sm 0.105263_ | experimental | [1] Zinkevich 2002 | Table 7, p. 13, row 9; `ORC-EGGEEUNTET` |  |
+| Heat capacity | 30.2 J/mol (basis unstated)/K | 293 | Fe17Sm2; _alloy: Sm 0.105263_ | experimental | [1] Zinkevich 2002 | Table 7, p. 13, row 11; `ORC-GOHVDTA7MM` |  |
+| Heat capacity | 28 J/mol (basis unstated)/K | 293 | Fe17Sm2; _alloy: Sm 0.105263_ | model | [1] Zinkevich 2002 | Table 7, p. 13, row 12; `ORC-RYRZ47WABJ` |  |
+| Heat capacity | 28.57 J/mol (basis unstated)/K | 298.15 | Fe17Sm2; _alloy: Sm 0.105263_ | model | [1] Zinkevich 2002 | Table 7, p. 13, row 14; `ORC-K7AIQPIDYC` |  |
+| Heat capacity | 30.3 J/mol (basis unstated)/K | 298.15 | Fe17Sm2; _alloy: Sm 0.105263_ | experimental | [1] Zinkevich 2002 | Table 7, p. 13, row 13; `ORC-PNXCW2GM5S` |  |
 
 ## Sources
 
@@ -185,4 +185,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

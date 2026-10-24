@@ -100,40 +100,40 @@ Table: Invariant reactions reported in the literature for the Fe–U system (34)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1673 | L + bcc - Fe \<-> fcc - Fe |  | experimental | [1] Chatain 2003; _cites Michaud 1966_ [doi](https://doi.org/10.1179/cmq.1966.5.4.355) | Table 6, p. 8, row 1 |  |
-| 1667 | L + bcc - Fe \<-> fcc - Fe |  | model | [1] Chatain 2003 | Table 6, p. 8, row 2 |  |
-| 1509 | congruent melting: L \<-> Fe2U | L: Fe 0.666667, U 0.333333; Fe2U: Fe 0.666667, U 0.333333 | model | [1] Chatain 2003 | Table 6, p. 8, row 13 |  |
-| 1508 | congruent melting: L \<-> Fe2U | L: Fe 0.666667, U 0.333333; Fe2U: Fe 0.666667, U 0.333333 | experimental | [1] Chatain 2003; _cites Michaud 1966_ [doi](https://doi.org/10.1179/cmq.1966.5.4.355) | Table 6, p. 8, row 9 |  |
-| 1507 | congruent melting: L \<-> Fe2U | L: Fe 0.666667, U 0.333333; Fe2U: Fe 0.666667, U 0.333333 | experimental | [1] Chatain 2003; _cites Labroche 2000_ | Table 6, p. 8, row 10 |  |
-| 1503 | congruent melting: L \<-> Fe2U | L: Fe 0.666667, U 0.333333; Fe2U: Fe 0.666667, U 0.333333 | experimental | [1] Chatain 2003; _cites Grogan 1950_ | Table 6, p. 8, row 11 |  |
-| 1501 | congruent melting: L \<-> Fe2U | L: Fe 0.666667, U 0.333333; Fe2U: Fe 0.666667, U 0.333333 | experimental | [1] Chatain 2003; _cites Chapman 1984_ [doi](https://doi.org/10.1016/0022-3115%2884%2990046-1) | Table 6, p. 8, row 12 |  |
-| 1353 | eutectic: L \<-> fcc - Fe + Fe2U | L: U 0.17; Fe2U: Fe 0.666667, U 0.333333 | experimental | [1] Chatain 2003; _cites Chapman 1984_ [doi](https://doi.org/10.1016/0022-3115%2884%2990046-1) | Table 6, p. 8, row 3 |  |
-| 1351 | eutectic: L \<-> fcc - Fe + Fe2U | L: U 0.1745; Fe2U: Fe 0.666667, U 0.333333 | model | [1] Chatain 2003 | Table 6, p. 8, row 4 |  |
-| 1328 | eutectic |  | model | [1] Chatain 2003; _cites Massalski 1990_ | p. 2 | “Massalski showed the eutectic at 1328 K \[1990Mas\].” |
-| 1198 | fcc - Fe + Fe2U \<-> bcc - Fe | Fe2U: Fe 0.666667, U 0.333333 | experimental | [1] Chatain 2003; _cites Leibowitz 1991_ [doi](https://doi.org/10.1016/0022-3115%2891%2990531-b) | Table 6, p. 8, row 7 |  |
-| 1185 | fcc - Fe + Fe2U \<-> bcc - Fe | Fe2U: Fe 0.666667, U 0.333333 | model | [1] Chatain 2003 | Table 6, p. 8, row 8 |  |
-| 1183 | fcc - Fe + Fe2U \<-> bcc - Fe | Fe2U: Fe 0.666667, U 0.333333 | experimental | [1] Chatain 2003; _cites Chapman 1984_ [doi](https://doi.org/10.1016/0022-3115%2884%2990046-1) | Table 6, p. 8, row 6 |  |
-| 1182 | fcc - Fe + Fe2U \<-> bcc - Fe | Fe2U: Fe 0.666667, U 0.333333 | experimental | [1] Chatain 2003; _cites Michaud 1966_ [doi](https://doi.org/10.1179/cmq.1966.5.4.355) | Table 6, p. 8, row 5 |  |
-| 1104 | peritectic: L + bcc - U \<-> FeU6 | L: U 0.8494; FeU6: Fe 0.142857, U 0.857143; bcc-U: U 0.9865 | model | [1] Chatain 2003 | Table 6, p. 8, row 20 |  |
-| 1104 | peritectic |  | model | [1] Chatain 2003 | p. 7 | “The calculated peritectic transformation temperature is equal to 1104 K for a liquid uranium content of 84.94 at.%.” |
-| 1102 | peritectic |  | experimental | [1] Chatain 2003 | p. 7 | “So, Labroche's peritectic temperature of 1102 K was selected.” |
-| 1102 | peritectic: L + bcc - U \<-> FeU6 | FeU6: Fe 0.142857, U 0.857143 | experimental | [1] Chatain 2003; _cites Labroche 2000_ | Table 6, p. 8, row 19 |  |
-| 1102 | peritectic |  | experimental | [1] Chatain 2003 | p. 7 | “Labroche's FeU6 peritectic temperature of 1102 K was measured by calorimetry during slow heating with the same apparatus that was used for Fe2U.” |
-| 1078 | peritectic: L + bcc - U \<-> FeU6 | L: U 0.85; bcc - U: U 0.985; FeU6: Fe 0.142857, U 0.857143 | experimental | [1] Chatain 2003; _cites Grogan 1950_ | Table 6, p. 8, row 18 |  |
-| 1078 | peritectic: FeU6 ↔ liquid + bcc-U |  | experimental | [1] Chatain 2003; _cites Grogan 1950_ | p. 2 | “On the uranium-rich side, the peritectic reaction \[FeU6 ↔ liquid + bcc-U\] takes place at 1078 K \[1950Gro, 1964Stra\] with a liquid iron content of about 18 at.% \[1950Gro\].” |
-| 1039 | bcc - U \<-> tetragonal - U + FeU6 | FeU6: Fe 0.142857, U 0.857143; tetragonal-U: U 0.9954 | model | [1] Chatain 2003 | Table 6, p. 8, row 24 |  |
-| 1036 | bcc - U \<-> tetragonal - U + FeU6 | FeU6: Fe 0.142857, U 0.857143; bcc-U: U 0.992 | experimental | [1] Chatain 2003; _cites Straatmann 1964_ | Table 6, p. 8, row 21 |  |
-| 1035 | bcc - U \<-> tetragonal - U + FeU6 | FeU6: Fe 0.142857, U 0.857143 | experimental | [1] Chatain 2003; _cites Chapman 1984_ [doi](https://doi.org/10.1016/0022-3115%2884%2990046-1) | Table 6, p. 8, row 22 |  |
-| 1034 | bcc - U \<-> tetragonal - U + FeU6 | FeU6: Fe 0.142857, U 0.857143; tetragonal-U: U 0.996 | experimental | [1] Chatain 2003; _cites Grogan 1950_ | Table 6, p. 8, row 23 |  |
-| 1002 | eutectic: L \<-> Fe2U + FeU6 | Fe2U: Fe 0.666667, U 0.333333; FeU6: Fe 0.142857, U 0.857143 | experimental | [1] Chatain 2003; _cites Grogan 1950_ | Table 6, p. 8, row 16 |  |
-| 998 | eutectic: liquid ↔ Fe2U + FeU6 |  | experimental | [1] Chatain 2003; _cites Gordon 1950_ | p. 2 | “The eutectic transformation \[liquid ↔ Fe2U + FeU6\] was found at 998 K by Gordon and Kaufmann \[1950Gor\].” |
-| 996 | eutectic: L \<-> Fe2U + FeU6 | L: U 0.66; Fe2U: Fe 0.666667, U 0.333333; FeU6: Fe 0.142857, U 0.857143 | experimental | [1] Chatain 2003; _cites Chapman 1984_ [doi](https://doi.org/10.1016/0022-3115%2884%2990046-1) | Table 6, p. 8, row 15 |  |
-| 994 | eutectic: L \<-> Fe2U + FeU6 | Fe2U: Fe 0.666667, U 0.333333; FeU6: Fe 0.142857, U 0.857143 | experimental | [1] Chatain 2003; _cites Leibowitz 1991_ [doi](https://doi.org/10.1016/0022-3115%2891%2990531-b) | Table 6, p. 8, row 14 |  |
-| 992.5 | eutectic: L \<-> Fe2U + FeU6 | L: U 0.6651; Fe2U: Fe 0.666667, U 0.333333; FeU6: Fe 0.142857, U 0.857143 | model | [1] Chatain 2003 | Table 6, p. 8, row 17 |  |
-| 943 | tetragonal - U \<-> FeU6 + orthorhombic - U | FeU6: Fe 0.142857, U 0.857143 | experimental | [1] Chatain 2003; _cites Grogan 1950_ | Table 6, p. 8, row 27 |  |
-| 942 | tetragonal - U \<-> FeU6 + orthorhombic - U | FeU6: Fe 0.142857, U 0.857143 | experimental | [1] Chatain 2003; _cites Chapman 1984_ [doi](https://doi.org/10.1016/0022-3115%2884%2990046-1) | Table 6, p. 8, row 25 |  |
-| 941 | tetragonal - U \<-> FeU6 + orthorhombic - U | tetragonal - U: U 0.99825; FeU6: Fe 0.142857, U 0.857143 | experimental | [1] Chatain 2003; _cites Straatmann 1964_ | Table 6, p. 8, row 26 |  |
-| 937.8 | tetragonal - U \<-> FeU6 + orthorhombic - U | tetragonal - U: U 0.9984; FeU6: Fe 0.142857, U 0.857143 | model | [1] Chatain 2003 | Table 6, p. 8, row 28 |  |
+| 1673 | L + bcc - Fe \<-> fcc - Fe |  | experimental | [1] Chatain 2003; _cites Michaud 1966_ [doi](https://doi.org/10.1179/cmq.1966.5.4.355) | Table 6, p. 8, row 1; `ORC-75WGNWJ55O` |  |
+| 1667 | L + bcc - Fe \<-> fcc - Fe |  | model | [1] Chatain 2003 | Table 6, p. 8, row 2; `ORC-ORHUIQEVIG` |  |
+| 1509 | congruent melting: L \<-> Fe2U | L: Fe 0.666667, U 0.333333; Fe2U: Fe 0.666667, U 0.333333 | model | [1] Chatain 2003 | Table 6, p. 8, row 13; `ORC-6BV2G7LXXZ` |  |
+| 1508 | congruent melting: L \<-> Fe2U | L: Fe 0.666667, U 0.333333; Fe2U: Fe 0.666667, U 0.333333 | experimental | [1] Chatain 2003; _cites Michaud 1966_ [doi](https://doi.org/10.1179/cmq.1966.5.4.355) | Table 6, p. 8, row 9; `ORC-HQTMWYX3BZ` |  |
+| 1507 | congruent melting: L \<-> Fe2U | L: Fe 0.666667, U 0.333333; Fe2U: Fe 0.666667, U 0.333333 | experimental | [1] Chatain 2003; _cites Labroche 2000_ | Table 6, p. 8, row 10; `ORC-XU4TL2U24U` |  |
+| 1503 | congruent melting: L \<-> Fe2U | L: Fe 0.666667, U 0.333333; Fe2U: Fe 0.666667, U 0.333333 | experimental | [1] Chatain 2003; _cites Grogan 1950_ | Table 6, p. 8, row 11; `ORC-GNXJRBP2LZ` |  |
+| 1501 | congruent melting: L \<-> Fe2U | L: Fe 0.666667, U 0.333333; Fe2U: Fe 0.666667, U 0.333333 | experimental | [1] Chatain 2003; _cites Chapman 1984_ [doi](https://doi.org/10.1016/0022-3115%2884%2990046-1) | Table 6, p. 8, row 12; `ORC-4AXXTIQLZE` |  |
+| 1353 | eutectic: L \<-> fcc - Fe + Fe2U | L: U 0.17; Fe2U: Fe 0.666667, U 0.333333 | experimental | [1] Chatain 2003; _cites Chapman 1984_ [doi](https://doi.org/10.1016/0022-3115%2884%2990046-1) | Table 6, p. 8, row 3; `ORC-PGKUKSD5JP` |  |
+| 1351 | eutectic: L \<-> fcc - Fe + Fe2U | L: U 0.1745; Fe2U: Fe 0.666667, U 0.333333 | model | [1] Chatain 2003 | Table 6, p. 8, row 4; `ORC-ZJ6QZWBB7N` |  |
+| 1328 | eutectic |  | model | [1] Chatain 2003; _cites Massalski 1990_ | p. 2; `ORC-U4AVLHH27U` | “Massalski showed the eutectic at 1328 K \[1990Mas\].” |
+| 1198 | fcc - Fe + Fe2U \<-> bcc - Fe | Fe2U: Fe 0.666667, U 0.333333 | experimental | [1] Chatain 2003; _cites Leibowitz 1991_ [doi](https://doi.org/10.1016/0022-3115%2891%2990531-b) | Table 6, p. 8, row 7; `ORC-3KIDPT4HS2` |  |
+| 1185 | fcc - Fe + Fe2U \<-> bcc - Fe | Fe2U: Fe 0.666667, U 0.333333 | model | [1] Chatain 2003 | Table 6, p. 8, row 8; `ORC-I3X54MEQ4Q` |  |
+| 1183 | fcc - Fe + Fe2U \<-> bcc - Fe | Fe2U: Fe 0.666667, U 0.333333 | experimental | [1] Chatain 2003; _cites Chapman 1984_ [doi](https://doi.org/10.1016/0022-3115%2884%2990046-1) | Table 6, p. 8, row 6; `ORC-5OAVKGCPX7` |  |
+| 1182 | fcc - Fe + Fe2U \<-> bcc - Fe | Fe2U: Fe 0.666667, U 0.333333 | experimental | [1] Chatain 2003; _cites Michaud 1966_ [doi](https://doi.org/10.1179/cmq.1966.5.4.355) | Table 6, p. 8, row 5; `ORC-6OSNVF5FMD` |  |
+| 1104 | peritectic: L + bcc - U \<-> FeU6 | L: U 0.8494; FeU6: Fe 0.142857, U 0.857143; bcc-U: U 0.9865 | model | [1] Chatain 2003 | Table 6, p. 8, row 20; `ORC-KEDRRKTUZW` |  |
+| 1104 | peritectic |  | model | [1] Chatain 2003 | p. 7; `ORC-RRBKLFGK42` | “The calculated peritectic transformation temperature is equal to 1104 K for a liquid uranium content of 84.94 at.%.” |
+| 1102 | peritectic |  | experimental | [1] Chatain 2003 | p. 7; `ORC-AARVRUF5KB` | “So, Labroche's peritectic temperature of 1102 K was selected.” |
+| 1102 | peritectic: L + bcc - U \<-> FeU6 | FeU6: Fe 0.142857, U 0.857143 | experimental | [1] Chatain 2003; _cites Labroche 2000_ | Table 6, p. 8, row 19; `ORC-SHWVCWZWXY` |  |
+| 1102 | peritectic |  | experimental | [1] Chatain 2003 | p. 7; `ORC-SYKCTJ3YXT` | “Labroche's FeU6 peritectic temperature of 1102 K was measured by calorimetry during slow heating with the same apparatus that was used for Fe2U.” |
+| 1078 | peritectic: L + bcc - U \<-> FeU6 | L: U 0.85; bcc - U: U 0.985; FeU6: Fe 0.142857, U 0.857143 | experimental | [1] Chatain 2003; _cites Grogan 1950_ | Table 6, p. 8, row 18; `ORC-PNTHXAGHJB` |  |
+| 1078 | peritectic: FeU6 ↔ liquid + bcc-U |  | experimental | [1] Chatain 2003; _cites Grogan 1950_ | p. 2; `ORC-YJVP7NH4BT` | “On the uranium-rich side, the peritectic reaction \[FeU6 ↔ liquid + bcc-U\] takes place at 1078 K \[1950Gro, 1964Stra\] with a liquid iron content of about 18 at.% \[1950Gro\].” |
+| 1039 | bcc - U \<-> tetragonal - U + FeU6 | FeU6: Fe 0.142857, U 0.857143; tetragonal-U: U 0.9954 | model | [1] Chatain 2003 | Table 6, p. 8, row 24; `ORC-6KW4N5GBE4` |  |
+| 1036 | bcc - U \<-> tetragonal - U + FeU6 | FeU6: Fe 0.142857, U 0.857143; bcc-U: U 0.992 | experimental | [1] Chatain 2003; _cites Straatmann 1964_ | Table 6, p. 8, row 21; `ORC-W2HI7DEUJQ` |  |
+| 1035 | bcc - U \<-> tetragonal - U + FeU6 | FeU6: Fe 0.142857, U 0.857143 | experimental | [1] Chatain 2003; _cites Chapman 1984_ [doi](https://doi.org/10.1016/0022-3115%2884%2990046-1) | Table 6, p. 8, row 22; `ORC-77RFIGA2PF` |  |
+| 1034 | bcc - U \<-> tetragonal - U + FeU6 | FeU6: Fe 0.142857, U 0.857143; tetragonal-U: U 0.996 | experimental | [1] Chatain 2003; _cites Grogan 1950_ | Table 6, p. 8, row 23; `ORC-4KHWWPMSDQ` |  |
+| 1002 | eutectic: L \<-> Fe2U + FeU6 | Fe2U: Fe 0.666667, U 0.333333; FeU6: Fe 0.142857, U 0.857143 | experimental | [1] Chatain 2003; _cites Grogan 1950_ | Table 6, p. 8, row 16; `ORC-EA4KWL7QEQ` |  |
+| 998 | eutectic: liquid ↔ Fe2U + FeU6 |  | experimental | [1] Chatain 2003; _cites Gordon 1950_ | p. 2; `ORC-34DSUDANQC` | “The eutectic transformation \[liquid ↔ Fe2U + FeU6\] was found at 998 K by Gordon and Kaufmann \[1950Gor\].” |
+| 996 | eutectic: L \<-> Fe2U + FeU6 | L: U 0.66; Fe2U: Fe 0.666667, U 0.333333; FeU6: Fe 0.142857, U 0.857143 | experimental | [1] Chatain 2003; _cites Chapman 1984_ [doi](https://doi.org/10.1016/0022-3115%2884%2990046-1) | Table 6, p. 8, row 15; `ORC-Z4QEHOXYTT` |  |
+| 994 | eutectic: L \<-> Fe2U + FeU6 | Fe2U: Fe 0.666667, U 0.333333; FeU6: Fe 0.142857, U 0.857143 | experimental | [1] Chatain 2003; _cites Leibowitz 1991_ [doi](https://doi.org/10.1016/0022-3115%2891%2990531-b) | Table 6, p. 8, row 14; `ORC-LMZ6BLTDNC` |  |
+| 992.5 | eutectic: L \<-> Fe2U + FeU6 | L: U 0.6651; Fe2U: Fe 0.666667, U 0.333333; FeU6: Fe 0.142857, U 0.857143 | model | [1] Chatain 2003 | Table 6, p. 8, row 17; `ORC-K7LPPXI67F` |  |
+| 943 | tetragonal - U \<-> FeU6 + orthorhombic - U | FeU6: Fe 0.142857, U 0.857143 | experimental | [1] Chatain 2003; _cites Grogan 1950_ | Table 6, p. 8, row 27; `ORC-QSZNGBUY4T` |  |
+| 942 | tetragonal - U \<-> FeU6 + orthorhombic - U | FeU6: Fe 0.142857, U 0.857143 | experimental | [1] Chatain 2003; _cites Chapman 1984_ [doi](https://doi.org/10.1016/0022-3115%2884%2990046-1) | Table 6, p. 8, row 25; `ORC-HZZIGJTIHE` |  |
+| 941 | tetragonal - U \<-> FeU6 + orthorhombic - U | tetragonal - U: U 0.99825; FeU6: Fe 0.142857, U 0.857143 | experimental | [1] Chatain 2003; _cites Straatmann 1964_ | Table 6, p. 8, row 26; `ORC-MBJG44CRAQ` |  |
+| 937.8 | tetragonal - U \<-> FeU6 + orthorhombic - U | tetragonal - U: U 0.9984; FeU6: Fe 0.142857, U 0.857143 | model | [1] Chatain 2003 | Table 6, p. 8, row 28; `ORC-M2MNT4A5JG` |  |
 
 ## Formation enthalpies
 
@@ -143,28 +143,28 @@ Table: Enthalpies of formation, Fe–U system (22)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | -10.739 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Chatain 2003 | p. 3 | “The enthalpy values calculated from Kanno's (or Yoshihara) and Gardie's Gibbs energies are much more negative than the value of Akhachinsky (or Ivanov), ⌬H 0 f(298 K) ⳱ -10.739 kJ/mol, with respectively, ⌬H0f(298 K) ⳱ -23.54 kJ/mol and -15.025 kJ/mol.” |
-| — |  | -6.75 unspecified ± 1.3 | 298.15 | experimental |  |  | [1] Chatain 2003; _cites Labroche 2000_ | p. 3 | “For 1 mol Fe0.143U0.857, ⌬H0f (298 K) ⳱ (-6.75 ± 1.3) kJ/mol.” |
-| Fe0.143U0.857 |  | -20.931 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Chatain 2003 | Table 7, p. 8, row 20 |  |
-| Fe0.143U0.857 |  | -7.312 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Chatain 2003 | Table 7, p. 8, row 17 |  |
-| Fe0.143U0.857 |  | -2.33 kJ/mol (basis unstated) ± 0.72 | 298.15 | model |  |  | [1] Chatain 2003; _cites Ivanov 1962_ | Table 7, p. 8, row 18 |  |
-| Fe0.66U0.33 |  | -30.08 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Chatain 2003; _cites Kurata 2003_ | Table 7, p. 8, row 15 |  |
-| Fe0.66U0.33 |  | -20.6 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Chatain 2003; _cites Campbell 1977_ [doi](https://doi.org/10.1007/bf02642864) | Table 7, p. 8, row 8 |  |
-| Fe0.66U0.33 |  | -16.3 kJ/mol (basis unstated) ± 0.6 | 298.15 | model |  |  | [1] Chatain 2003; _cites Labroche 2000_ | Table 7, p. 8, row 5 |  |
-| Fe0.66U0.33 |  | -15.886 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Chatain 2003 | Table 7, p. 8, row 6 |  |
-| Fe0.66U0.33 |  | -14.01 kJ/mol (basis unstated) ± 1.8 | 298.15 | model |  |  | [1] Chatain 2003; _cites Antony 1996_ [doi](https://doi.org/10.1016/0022-3115%2895%2900164-6) | Table 7, p. 8, row 7 |  |
-| Fe0.66U0.33 |  | -10.739 kJ/mol (basis unstated) ± 0.42 | 298.15 | model |  |  | [1] Chatain 2003; _cites Akhachinskiy 1962_ | Table 7, p. 8, row 9 |  |
-| Fe2U |  | -34.112 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Chatain 2003 | Table 7, p. 8, row 14 |  |
-| Fe2U |  | -25.314 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Chatain 2003; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02668229) | Table 7, p. 8, row 13 |  |
-| Fe2U |  | -23.54 kJ/mol (basis unstated) ± 0.45 | 298.15 | model |  |  | [1] Chatain 2003; _cites Kanno 1974_ | Table 7, p. 8, row 10 |  |
-| Fe2U |  | -16.922 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Chatain 2003 | Table 7, p. 8, row 11 |  |
-| Fe2U | [Fe2U](https://data.orchid-project.org/compounds/Fe2U.html) | -16.3 kJ/mol-atom ± 0.6 | 298.15 | experimental | -9.82 (mp-aaaabfdq) | -8.017 (oqmd-19298) | [1] Chatain 2003; _cites Labroche 2000_ | Table 3, p. 3, row 3 |  |
-| Fe2U |  | -15.025 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Chatain 2003; _cites Gardie 1992_ [doi](https://doi.org/10.1016/0022-3115%2892%2990422-h) | Table 7, p. 8, row 12 |  |
-| Fe2U | [Fe2U](https://data.orchid-project.org/compounds/Fe2U.html) | -14.01 kJ/mol-atom ± 1.8 | 298.15 | experimental | -9.82 (mp-aaaabfdq) | -8.017 (oqmd-19298) | [1] Chatain 2003; _cites Antony 1996_ [doi](https://doi.org/10.1016/0022-3115%2895%2900164-6) | Table 3, p. 3, row 2 |  |
-| Fe2U | [Fe2U](https://data.orchid-project.org/compounds/Fe2U.html) | -10.74 kJ/mol-atom ± 0.42 | 298.15 | experimental | -9.82 (mp-aaaabfdq) | -8.017 (oqmd-19298) | [1] Chatain 2003; _cites Akhachinskiy 1962_ | Table 3, p. 3, row 1 |  |
-| FeU6 |  | -26.438 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Chatain 2003; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02668229) | Table 7, p. 8, row 19 |  |
-| FeU6 |  | -21.343 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Chatain 2003; _cites Kurata 2003_ | Table 7, p. 8, row 21 |  |
-| FeU6 |  | -6.75 kJ/mol (basis unstated) ± 1.3 | 298.15 | model |  |  | [1] Chatain 2003; _cites Labroche 2000_ | Table 7, p. 8, row 16 |  |
+| — |  | -10.739 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Chatain 2003 | p. 3; `ORC-H5Z4U6W4GP` | “The enthalpy values calculated from Kanno's (or Yoshihara) and Gardie's Gibbs energies are much more negative than the value of Akhachinsky (or Ivanov), ⌬H 0 f(298 K) ⳱ -10.739 kJ/mol, with respectively, ⌬H0f(298 K) ⳱ -23.54 kJ/mol and -15.025 kJ/mol.” |
+| — |  | -6.75 unspecified ± 1.3 | 298.15 | experimental |  |  | [1] Chatain 2003; _cites Labroche 2000_ | p. 3; `ORC-KDQSOP2EX7` | “For 1 mol Fe0.143U0.857, ⌬H0f (298 K) ⳱ (-6.75 ± 1.3) kJ/mol.” |
+| Fe0.143U0.857 |  | -20.931 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Chatain 2003 | Table 7, p. 8, row 20; `ORC-7LTO3XUXDK.6c0f84` |  |
+| Fe0.143U0.857 |  | -7.312 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Chatain 2003 | Table 7, p. 8, row 17; `ORC-WY6QHZTJPW.94afe4` |  |
+| Fe0.143U0.857 |  | -2.33 kJ/mol (basis unstated) ± 0.72 | 298.15 | model |  |  | [1] Chatain 2003; _cites Ivanov 1962_ | Table 7, p. 8, row 18; `ORC-TTQMN7RO73.4fff1b` |  |
+| Fe0.66U0.33 |  | -30.08 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Chatain 2003; _cites Kurata 2003_ | Table 7, p. 8, row 15; `ORC-RCRNRAUCL2.3e7f06` |  |
+| Fe0.66U0.33 |  | -20.6 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Chatain 2003; _cites Campbell 1977_ [doi](https://doi.org/10.1007/bf02642864) | Table 7, p. 8, row 8; `ORC-X55MHENXWS.2cd47e` |  |
+| Fe0.66U0.33 |  | -16.3 kJ/mol (basis unstated) ± 0.6 | 298.15 | model |  |  | [1] Chatain 2003; _cites Labroche 2000_ | Table 7, p. 8, row 5; `ORC-VBXKMZ6DZF.444747` |  |
+| Fe0.66U0.33 |  | -15.886 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Chatain 2003 | Table 7, p. 8, row 6; `ORC-YH6KSH5EMG.116370` |  |
+| Fe0.66U0.33 |  | -14.01 kJ/mol (basis unstated) ± 1.8 | 298.15 | model |  |  | [1] Chatain 2003; _cites Antony 1996_ [doi](https://doi.org/10.1016/0022-3115%2895%2900164-6) | Table 7, p. 8, row 7; `ORC-MK4JLSOV4H.152668` |  |
+| Fe0.66U0.33 |  | -10.739 kJ/mol (basis unstated) ± 0.42 | 298.15 | model |  |  | [1] Chatain 2003; _cites Akhachinskiy 1962_ | Table 7, p. 8, row 9; `ORC-7LTITR3YTS.b419b9` |  |
+| Fe2U |  | -34.112 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Chatain 2003 | Table 7, p. 8, row 14; `ORC-IV62NRD2EY.0e33ca` |  |
+| Fe2U |  | -25.314 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Chatain 2003; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02668229) | Table 7, p. 8, row 13; `ORC-HCLBHQ4LF6.4264b3` |  |
+| Fe2U |  | -23.54 kJ/mol (basis unstated) ± 0.45 | 298.15 | model |  |  | [1] Chatain 2003; _cites Kanno 1974_ | Table 7, p. 8, row 10; `ORC-CIRZQSRDRD.64fe30` |  |
+| Fe2U |  | -16.922 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Chatain 2003 | Table 7, p. 8, row 11; `ORC-CTC5MS5ZZV.6f0bb8` |  |
+| Fe2U | [Fe2U](https://data.orchid-project.org/compounds/Fe2U.html) | -16.3 kJ/mol-atom ± 0.6 | 298.15 | experimental | -9.82 (mp-aaaabfdq) | -8.017 (oqmd-19298) | [1] Chatain 2003; _cites Labroche 2000_ | Table 3, p. 3, row 3; `ORC-SB3XW4RX7Z.0a16cb` |  |
+| Fe2U |  | -15.025 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Chatain 2003; _cites Gardie 1992_ [doi](https://doi.org/10.1016/0022-3115%2892%2990422-h) | Table 7, p. 8, row 12; `ORC-YVE44YNJYL.a555a7` |  |
+| Fe2U | [Fe2U](https://data.orchid-project.org/compounds/Fe2U.html) | -14.01 kJ/mol-atom ± 1.8 | 298.15 | experimental | -9.82 (mp-aaaabfdq) | -8.017 (oqmd-19298) | [1] Chatain 2003; _cites Antony 1996_ [doi](https://doi.org/10.1016/0022-3115%2895%2900164-6) | Table 3, p. 3, row 2; `ORC-CN3ILEUCE2.2aaf0a` |  |
+| Fe2U | [Fe2U](https://data.orchid-project.org/compounds/Fe2U.html) | -10.74 kJ/mol-atom ± 0.42 | 298.15 | experimental | -9.82 (mp-aaaabfdq) | -8.017 (oqmd-19298) | [1] Chatain 2003; _cites Akhachinskiy 1962_ | Table 3, p. 3, row 1; `ORC-STB5INE33U.082a43` |  |
+| FeU6 |  | -26.438 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Chatain 2003; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02668229) | Table 7, p. 8, row 19; `ORC-XOOMW3BU7D.d7ee3d` |  |
+| FeU6 |  | -21.343 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Chatain 2003; _cites Kurata 2003_ | Table 7, p. 8, row 21; `ORC-IL73XN3XZM.137782` |  |
+| FeU6 |  | -6.75 kJ/mol (basis unstated) ± 1.3 | 298.15 | model |  |  | [1] Chatain 2003; _cites Labroche 2000_ | Table 7, p. 8, row 16; `ORC-IZTHDDOKTE.101091` |  |
 
 ## Other properties
 
@@ -174,11 +174,11 @@ Table: Phase transition, Fe–U system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 940 K | 940 | tetragonal-U ↔ orthorhombic-U + FeU6 | experimental | [1] Chatain 2003; _cites Straatmann 1964_ | p. 2 | “A eutectoid reaction \[tetragonal-U ↔ orthorhombic-U + FeU6\] takes place at 940 K with a tetragonal composition of 99.825 at.% U \[1964Str\].” |
-| Phase transition | 1072 K | 1072 |  | experimental | [1] Chatain 2003; _cites Chapman 1984_ [doi](https://doi.org/10.1016/0022-3115%2884%2990046-1) | p. 2 | “This was confirmed by Chapman who found it at 1072 K \[1984Cha\].” |
-| Phase transition | 1088 K | 1088 |  | experimental | [1] Chatain 2003; _cites Gordon 1950_ | p. 2 | “The value reported by Gordon and Kaufmann \[1950Gor\] is slightly higher with 1088 K.” |
-| Phase transition | 1300 K | 1300 | other | experimental | [1] Chatain 2003 | p. 3 | “For Fe2U, a ␭-type heat capacity anomaly occurs around 1300 K.” |
-| Phase transition | 1509 K | 1509 | congruent melting | model | [1] Chatain 2003 | p. 7 | “The calculated congruent melting point of Fe2U is equal to 1509 K, which is consistent with the selected data and very close to Labroche's value.” |
+| Phase transition | 940 K | 940 | tetragonal-U ↔ orthorhombic-U + FeU6 | experimental | [1] Chatain 2003; _cites Straatmann 1964_ | p. 2; `ORC-P6T44BE4LM` | “A eutectoid reaction \[tetragonal-U ↔ orthorhombic-U + FeU6\] takes place at 940 K with a tetragonal composition of 99.825 at.% U \[1964Str\].” |
+| Phase transition | 1072 K | 1072 |  | experimental | [1] Chatain 2003; _cites Chapman 1984_ [doi](https://doi.org/10.1016/0022-3115%2884%2990046-1) | p. 2; `ORC-QFD7HVK23X` | “This was confirmed by Chapman who found it at 1072 K \[1984Cha\].” |
+| Phase transition | 1088 K | 1088 |  | experimental | [1] Chatain 2003; _cites Gordon 1950_ | p. 2; `ORC-FAYPBODLA2` | “The value reported by Gordon and Kaufmann \[1950Gor\] is slightly higher with 1088 K.” |
+| Phase transition | 1300 K | 1300 | other | experimental | [1] Chatain 2003 | p. 3; `ORC-SMIMDGPRVC` | “For Fe2U, a ␭-type heat capacity anomaly occurs around 1300 K.” |
+| Phase transition | 1509 K | 1509 | congruent melting | model | [1] Chatain 2003 | p. 7; `ORC-GJXHACNHLP` | “The calculated congruent melting point of Fe2U is equal to 1509 K, which is consistent with the selected data and very close to Labroche's value.” |
 
 ### Formation (12)
 
@@ -186,18 +186,18 @@ Table: Formation, Fe–U system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Gibbs energy of formation; _printed: Gibbs energy of Fe2U formation_ | -5.4 kJ/mol-atom | 998 | Fe2U; _alloy: U 0.333333_ | model | [2] Kurata 1998; _cites Leibowitz 1991_ [doi](https://doi.org/10.1016/0022-3115%2891%2990531-b) | Table 1, p. 3, row 6 |  |
-| Gibbs energy of formation; _printed: Gibbs energy of Fe2U formation_ | -14.7 kJ/mol-atom | 998 | Fe2U; _alloy: U 0.333333_ | model | [2] Kurata 1998; _cites Okamoto 1995_ | Table 1, p. 3, row 5 |  |
-| Gibbs energy of formation; _printed: Gibbs energy of Fe2U formation_ | -13 kJ/mol-atom | 998 | Fe2U; _alloy: U 0.333333_ | unspecified | [2] Kurata 1998; _cites Chiotti 1981_ | Table 1, p. 3, row 4 |  |
-| Gibbs energy of formation; _printed: Gibbs energy of Fe2U formation_ | -17.9 kJ/mol-atom | 998 | Fe2U; _alloy: U 0.333333_ | experimental | [2] Kurata 1998; _cites Gardie 1992_ [doi](https://doi.org/10.1016/0022-3115%2892%2990422-h) | Table 1, p. 3, row 2 |  |
-| Gibbs energy of formation; _printed: Gibbs energy of Fe2U formation_ | -20 kJ/mol-atom | 998 | Fe2U; _alloy: U 0.333333_ | experimental | [2] Kurata 1998; _cites Yoshihara 1974_ [doi](https://doi.org/10.1016/0022-1902%2874%2980014-x) | Table 1, p. 3, row 3 |  |
-| Gibbs energy of formation; _printed: Gibbs energy of Fe2U formation_ | -20.1 kJ/mol-atom | 998 | Fe2U; _alloy: U 0.333333_ | model | [2] Kurata 1998 | Table 1, p. 3, row 1 |  |
-| Gibbs energy of formation; _printed: Gibbs energy of Fe2U formation_ | -13.4 kJ/mol-atom | 1504 | Fe2U; _alloy: U 0.333333_ | unspecified | [2] Kurata 1998; _cites Chiotti 1981_ | Table 1, p. 3, row 10 |  |
-| Gibbs energy of formation; _printed: Gibbs energy of Fe2U formation_ | -3.1 kJ/mol-atom | 1504 | Fe2U; _alloy: U 0.333333_ | model | [2] Kurata 1998; _cites Leibowitz 1991_ [doi](https://doi.org/10.1016/0022-3115%2891%2990531-b) | Table 1, p. 3, row 12 |  |
-| Gibbs energy of formation; _printed: Gibbs energy of Fe2U formation_ | -18.5 kJ/mol-atom | 1504 | Fe2U; _alloy: U 0.333333_ | experimental | [2] Kurata 1998; _cites Yoshihara 1974_ [doi](https://doi.org/10.1016/0022-1902%2874%2980014-x) | Table 1, p. 3, row 9 |  |
-| Gibbs energy of formation; _printed: Gibbs energy of Fe2U formation_ | -18.4 kJ/mol-atom | 1504 | Fe2U; _alloy: U 0.333333_ | experimental | [2] Kurata 1998; _cites Gardie 1992_ [doi](https://doi.org/10.1016/0022-3115%2892%2990422-h) | Table 1, p. 3, row 8 |  |
-| Gibbs energy of formation; _printed: Gibbs energy of Fe2U formation_ | -15.7 kJ/mol-atom | 1504 | Fe2U; _alloy: U 0.333333_ | model | [2] Kurata 1998; _cites Okamoto 1995_ | Table 1, p. 3, row 11 |  |
-| Gibbs energy of formation; _printed: Gibbs energy of Fe2U formation_ | -18.8 kJ/mol-atom | 1504 | Fe2U; _alloy: U 0.333333_ | model | [2] Kurata 1998 | Table 1, p. 3, row 7 |  |
+| Gibbs energy of formation; _printed: Gibbs energy of Fe2U formation_ | -5.4 kJ/mol-atom | 998 | Fe2U; _alloy: U 0.333333_ | model | [2] Kurata 1998; _cites Leibowitz 1991_ [doi](https://doi.org/10.1016/0022-3115%2891%2990531-b) | Table 1, p. 3, row 6; `ORC-4ZTXCCW6MT` |  |
+| Gibbs energy of formation; _printed: Gibbs energy of Fe2U formation_ | -14.7 kJ/mol-atom | 998 | Fe2U; _alloy: U 0.333333_ | model | [2] Kurata 1998; _cites Okamoto 1995_ | Table 1, p. 3, row 5; `ORC-ALCQKNUDAG` |  |
+| Gibbs energy of formation; _printed: Gibbs energy of Fe2U formation_ | -13 kJ/mol-atom | 998 | Fe2U; _alloy: U 0.333333_ | unspecified | [2] Kurata 1998; _cites Chiotti 1981_ | Table 1, p. 3, row 4; `ORC-CJVOL7CSNH` |  |
+| Gibbs energy of formation; _printed: Gibbs energy of Fe2U formation_ | -17.9 kJ/mol-atom | 998 | Fe2U; _alloy: U 0.333333_ | experimental | [2] Kurata 1998; _cites Gardie 1992_ [doi](https://doi.org/10.1016/0022-3115%2892%2990422-h) | Table 1, p. 3, row 2; `ORC-CVGF3TMBIA` |  |
+| Gibbs energy of formation; _printed: Gibbs energy of Fe2U formation_ | -20 kJ/mol-atom | 998 | Fe2U; _alloy: U 0.333333_ | experimental | [2] Kurata 1998; _cites Yoshihara 1974_ [doi](https://doi.org/10.1016/0022-1902%2874%2980014-x) | Table 1, p. 3, row 3; `ORC-K3XXTNUK6P` |  |
+| Gibbs energy of formation; _printed: Gibbs energy of Fe2U formation_ | -20.1 kJ/mol-atom | 998 | Fe2U; _alloy: U 0.333333_ | model | [2] Kurata 1998 | Table 1, p. 3, row 1; `ORC-NNWHGV32EF` |  |
+| Gibbs energy of formation; _printed: Gibbs energy of Fe2U formation_ | -13.4 kJ/mol-atom | 1504 | Fe2U; _alloy: U 0.333333_ | unspecified | [2] Kurata 1998; _cites Chiotti 1981_ | Table 1, p. 3, row 10; `ORC-357XDIZZRU` |  |
+| Gibbs energy of formation; _printed: Gibbs energy of Fe2U formation_ | -3.1 kJ/mol-atom | 1504 | Fe2U; _alloy: U 0.333333_ | model | [2] Kurata 1998; _cites Leibowitz 1991_ [doi](https://doi.org/10.1016/0022-3115%2891%2990531-b) | Table 1, p. 3, row 12; `ORC-DGSCG2DR4N` |  |
+| Gibbs energy of formation; _printed: Gibbs energy of Fe2U formation_ | -18.5 kJ/mol-atom | 1504 | Fe2U; _alloy: U 0.333333_ | experimental | [2] Kurata 1998; _cites Yoshihara 1974_ [doi](https://doi.org/10.1016/0022-1902%2874%2980014-x) | Table 1, p. 3, row 9; `ORC-E35FUXJKCM` |  |
+| Gibbs energy of formation; _printed: Gibbs energy of Fe2U formation_ | -18.4 kJ/mol-atom | 1504 | Fe2U; _alloy: U 0.333333_ | experimental | [2] Kurata 1998; _cites Gardie 1992_ [doi](https://doi.org/10.1016/0022-3115%2892%2990422-h) | Table 1, p. 3, row 8; `ORC-EQEIUEKF4L` |  |
+| Gibbs energy of formation; _printed: Gibbs energy of Fe2U formation_ | -15.7 kJ/mol-atom | 1504 | Fe2U; _alloy: U 0.333333_ | model | [2] Kurata 1998; _cites Okamoto 1995_ | Table 1, p. 3, row 11; `ORC-JIG7I5ZCSG` |  |
+| Gibbs energy of formation; _printed: Gibbs energy of Fe2U formation_ | -18.8 kJ/mol-atom | 1504 | Fe2U; _alloy: U 0.333333_ | model | [2] Kurata 1998 | Table 1, p. 3, row 7; `ORC-SOIZICWXLT` |  |
 
 ### Activity / EMF / Gibbs energy (2)
 
@@ -205,8 +205,8 @@ Table: Activity / EMF / Gibbs energy, Fe–U system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Gibbs energy; _printed: ⌬G0f (FeU6)_ | -4.43 unspecified ± 0.86 | 998 |  | experimental | [1] Chatain 2003 | p. 3 | “⌬G0f (Fe2U) (kJ/mol) ⳱ (-17.6 ± 1.13) kJ/mol at 1501 K ⌬G0f (FeU6) (kJ/mol) ⳱ (-4.43 ± 0.86) kJ/mol at 998 K” |
-| Gibbs energy; _printed: ⌬G0f (Fe2U)_ | -17.6 unspecified ± 1.13 | 1501 |  | experimental | [1] Chatain 2003 | p. 3 | “⌬G0f (Fe2U) (kJ/mol) ⳱ (-17.6 ± 1.13) kJ/mol at 1501 K ⌬G0f (FeU6) (kJ/mol) ⳱ (-4.43 ± 0.86) kJ/mol at 998 K” |
+| Gibbs energy; _printed: ⌬G0f (FeU6)_ | -4.43 unspecified ± 0.86 | 998 |  | experimental | [1] Chatain 2003 | p. 3; `ORC-EG7KR2O3AE.fc9775` | “⌬G0f (Fe2U) (kJ/mol) ⳱ (-17.6 ± 1.13) kJ/mol at 1501 K ⌬G0f (FeU6) (kJ/mol) ⳱ (-4.43 ± 0.86) kJ/mol at 998 K” |
+| Gibbs energy; _printed: ⌬G0f (Fe2U)_ | -17.6 unspecified ± 1.13 | 1501 |  | experimental | [1] Chatain 2003 | p. 3; `ORC-EG7KR2O3AE.b2db5e` | “⌬G0f (Fe2U) (kJ/mol) ⳱ (-17.6 ± 1.13) kJ/mol at 1501 K ⌬G0f (FeU6) (kJ/mol) ⳱ (-4.43 ± 0.86) kJ/mol at 998 K” |
 
 ### Crystal structure (3)
 
@@ -214,9 +214,9 @@ Table: Crystal structure, Fe–U system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 7.055 Å | 298.15 | UNKNOWN | unspecified | [1] Chatain 2003; _cites Villars 1991_ | Table 2, p. 3, row 4 |  |
-| Lattice a | 10.2499 Å | 298.15 | UNKNOWN | unspecified | [1] Chatain 2003; _cites Villars 1991_ | Table 2, p. 3, row 5 |  |
-| Lattice c | 5.25 Å | 298.15 | UNKNOWN | unspecified | [1] Chatain 2003; _cites Villars 1991_ | Table 2, p. 3, row 5 |  |
+| Lattice a | 7.055 Å | 298.15 | UNKNOWN | unspecified | [1] Chatain 2003; _cites Villars 1991_ | Table 2, p. 3, row 4; `ORC-J34PH26E6Y` |  |
+| Lattice a | 10.2499 Å | 298.15 | UNKNOWN | unspecified | [1] Chatain 2003; _cites Villars 1991_ | Table 2, p. 3, row 5; `ORC-YKWUSZVFKL.972c02` |  |
+| Lattice c | 5.25 Å | 298.15 | UNKNOWN | unspecified | [1] Chatain 2003; _cites Villars 1991_ | Table 2, p. 3, row 5; `ORC-YKWUSZVFKL.935d93` |  |
 
 ## Sources
 
@@ -282,4 +282,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

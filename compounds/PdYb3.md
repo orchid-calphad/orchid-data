@@ -14,10 +14,10 @@ Table: Enthalpy of formation of PdYb3 reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -52.9927 kJ/mol-atom | PdYb3 | 298.15 | model | Optimization K | [Pd–Yb](https://data.orchid-project.org/systems/PD-YB.html) | [1] Kardellass 2020 | Table 3, p. 5, row 69 |  |
-| -52.7182 kJ/mol-atom | PdYb3 | 298.15 | model | Optimization R-K | [Pd–Yb](https://data.orchid-project.org/systems/PD-YB.html) | [1] Kardellass 2020 | Table 3, p. 5, row 68 |  |
-| -49.6098 kJ/mol-atom | PdYb3 | 298.15 | model | Prediction | [Pd–Yb](https://data.orchid-project.org/systems/PD-YB.html) | [1] Kardellass 2020; _cites De 2014_ | Table 3, p. 5, row 70 |  |
-| -52.818 kJ/mol-atom | PdYb3 | 298.15 | DFT | Ab-initio | [Pd–Yb](https://data.orchid-project.org/systems/PD-YB.html) | [1] Kardellass 2020 | Table 3, p. 5, row 71 |  |
+| -52.9927 kJ/mol-atom | PdYb3 | 298.15 | model | Optimization K | [Pd–Yb](https://data.orchid-project.org/systems/PD-YB.html) | [1] Kardellass 2020 | Table 3, p. 5, row 69; `ORC-F6ZDYGGLXT.3e388c` |  |
+| -52.7182 kJ/mol-atom | PdYb3 | 298.15 | model | Optimization R-K | [Pd–Yb](https://data.orchid-project.org/systems/PD-YB.html) | [1] Kardellass 2020 | Table 3, p. 5, row 68; `ORC-RINC2E2UID.1325c1` |  |
+| -49.6098 kJ/mol-atom | PdYb3 | 298.15 | model | Prediction | [Pd–Yb](https://data.orchid-project.org/systems/PD-YB.html) | [1] Kardellass 2020; _cites De 2014_ | Table 3, p. 5, row 70; `ORC-FTKINXEJHS.088716` |  |
+| -52.818 kJ/mol-atom | PdYb3 | 298.15 | DFT | Ab-initio | [Pd–Yb](https://data.orchid-project.org/systems/PD-YB.html) | [1] Kardellass 2020 | Table 3, p. 5, row 71; `ORC-U7XSKRM5JL.2c1ac6` |  |
 
 ### Uncertainty budget
 
@@ -95,4 +95,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

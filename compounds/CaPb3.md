@@ -14,15 +14,15 @@ Table: Enthalpy of formation of CaPb3 reported in the literature (9)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -35 kJ/mol-atom ± 0.3 | CaPb3 | 900 | experimental | dissolution calorimetry | [Ca–Pb](https://data.orchid-project.org/systems/CA-PB.html) | [1] Cartigny 2004; _cites Bouirden 1984_ | Table 2, p. 3, row 1 |  |
-| -35 kJ/mol-atom ± 0.3 | CaPb3 | 900 | experimental | Dissolution calorimetry | [Ca–Pb](https://data.orchid-project.org/systems/CA-PB.html) | [2] Idbenali 2008; _cites Bouirden 1984_ | Table 5, p. 8, row 16 |  |
-| -34 kJ/mol-atom ± 0.5 | CaPb3 | 300 | experimental | Solution calorimetry | [Ca–Pb](https://data.orchid-project.org/systems/CA-PB.html) | [2] Idbenali 2008; _cites Notin 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990177-x) | Table 5, p. 8, row 19 |  |
-| -33.8 kJ/mol-atom ± 1.4 | CaPb3 | 800 | experimental | E.m.f. | [Ca–Pb](https://data.orchid-project.org/systems/CA-PB.html) | [2] Idbenali 2008; _cites Nouri 1985_ [doi](https://doi.org/10.1016/0040-6031%2885%2987099-4) | Table 5, p. 8, row 15 |  |
-| -33.2 kJ/mol-atom ± 2 | CaPb3 | 300 | experimental | Solution calorimetry | [Ca–Pb](https://data.orchid-project.org/systems/CA-PB.html) | [2] Idbenali 2008; _cites Sommer 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.06.003) | Table 5, p. 8, row 18 |  |
-| -36.251 kJ/mol-atom | CaPb3 | 900 | model |  | [Ca–Pb](https://data.orchid-project.org/systems/CA-PB.html) | [1] Cartigny 2004 | Table 2, p. 3, row 2 |  |
-| -36.251 kJ/mol-atom | CaPb3 | 900 | model | Optimization | [Ca–Pb](https://data.orchid-project.org/systems/CA-PB.html) | [2] Idbenali 2008; _cites Cartigny 2004_ [doi](https://doi.org/10.1016/j.tca.2004.01.001) | Table 5, p. 8, row 17 |  |
-| -33.966 kJ/mol-atom | CaPb3 | 300 | model | Optimization | [Ca–Pb](https://data.orchid-project.org/systems/CA-PB.html) | [2] Idbenali 2008 | Table 5, p. 8, row 21 |  |
-| -32.358 kJ/mol-atom | CaPb3 | 300 | model | Optimization from \[12\] | [Ca–Pb](https://data.orchid-project.org/systems/CA-PB.html) | [2] Idbenali 2008 | Table 5, p. 8, row 20 |  |
+| -35 kJ/mol-atom ± 0.3 | CaPb3 | 900 | experimental | dissolution calorimetry | [Ca–Pb](https://data.orchid-project.org/systems/CA-PB.html) | [1] Cartigny 2004; _cites Bouirden 1984_ | Table 2, p. 3, row 1; `ORC-TOWLZTJ2AH` |  |
+| -35 kJ/mol-atom ± 0.3 | CaPb3 | 900 | experimental | Dissolution calorimetry | [Ca–Pb](https://data.orchid-project.org/systems/CA-PB.html) | [2] Idbenali 2008; _cites Bouirden 1984_ | Table 5, p. 8, row 16; `ORC-WYUVGUXXZD` |  |
+| -34 kJ/mol-atom ± 0.5 | CaPb3 | 300 | experimental | Solution calorimetry | [Ca–Pb](https://data.orchid-project.org/systems/CA-PB.html) | [2] Idbenali 2008; _cites Notin 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990177-x) | Table 5, p. 8, row 19; `ORC-AH7AAOAJWZ` |  |
+| -33.8 kJ/mol-atom ± 1.4 | CaPb3 | 800 | experimental | E.m.f. | [Ca–Pb](https://data.orchid-project.org/systems/CA-PB.html) | [2] Idbenali 2008; _cites Nouri 1985_ [doi](https://doi.org/10.1016/0040-6031%2885%2987099-4) | Table 5, p. 8, row 15; `ORC-AMGDFSUCY5` |  |
+| -33.2 kJ/mol-atom ± 2 | CaPb3 | 300 | experimental | Solution calorimetry | [Ca–Pb](https://data.orchid-project.org/systems/CA-PB.html) | [2] Idbenali 2008; _cites Sommer 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.06.003) | Table 5, p. 8, row 18; `ORC-D5LWL4JMJH` |  |
+| -36.251 kJ/mol-atom | CaPb3 | 900 | model |  | [Ca–Pb](https://data.orchid-project.org/systems/CA-PB.html) | [1] Cartigny 2004 | Table 2, p. 3, row 2; `ORC-F63SMGLFSE` |  |
+| -36.251 kJ/mol-atom | CaPb3 | 900 | model | Optimization | [Ca–Pb](https://data.orchid-project.org/systems/CA-PB.html) | [2] Idbenali 2008; _cites Cartigny 2004_ [doi](https://doi.org/10.1016/j.tca.2004.01.001) | Table 5, p. 8, row 17; `ORC-HQCKQ5AGCR` |  |
+| -33.966 kJ/mol-atom | CaPb3 | 300 | model | Optimization | [Ca–Pb](https://data.orchid-project.org/systems/CA-PB.html) | [2] Idbenali 2008 | Table 5, p. 8, row 21; `ORC-FTHWSN3N76` |  |
+| -32.358 kJ/mol-atom | CaPb3 | 300 | model | Optimization from \[12\] | [Ca–Pb](https://data.orchid-project.org/systems/CA-PB.html) | [2] Idbenali 2008 | Table 5, p. 8, row 20; `ORC-YLXNO5FYWI` |  |
 
 ### Uncertainty budget
 
@@ -107,4 +107,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

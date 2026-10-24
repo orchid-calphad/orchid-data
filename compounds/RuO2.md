@@ -14,13 +14,13 @@ Table: Enthalpy of formation of RuO2 reported in the literature (7)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -314.15 kJ/mol (basis unstated) ± 0.02 | RuO2 | 298.15 | experimental | EMF 3rd law | [O–Ru](https://data.orchid-project.org/systems/O-RU.html) | [1] Gossé 2018; _cites Cordfunke 1988_ [doi](https://doi.org/10.1016/0040-6031%2888%2987197-1) | Table 2, p. 5, row 11 |  |
-| -313.67 kJ/mol (basis unstated) ± 0.29 | RuO2 | 298.15 | experimental | EMF | [O–Ru](https://data.orchid-project.org/systems/O-RU.html) | [1] Gossé 2018; _cites St 1997_ | Table 2, p. 5, row 7 |  |
-| -313.52 kJ/mol (basis unstated) ± 0.03 | RuO2 | 298.15 | experimental | EMF (retained value) | [O–Ru](https://data.orchid-project.org/systems/O-RU.html) | [1] Gossé 2018; _cites Jacob 2000_ [doi](https://doi.org/10.1515/htmp.2000.19.1.11) | Table 2, p. 5, row 10 |  |
-| -306.27 kJ/mol (basis unstated) ± 6.3 | RuO2 | 298.15 | experimental | HTMS | [O–Ru](https://data.orchid-project.org/systems/O-RU.html) | [1] Gossé 2018; _cites Tagirov 1975_ | Table 2, p. 5, row 4 |  |
-| -302.08 kJ/mol (basis unstated) ± 8.37 | RuO2 | 298.15 | experimental | manometric | [O–Ru](https://data.orchid-project.org/systems/O-RU.html) | [1] Gossé 2018; _cites Bell 1963_ [doi](https://doi.org/10.1021/j100805a042) | Table 2, p. 5, row 8 |  |
-| -297.08 kJ/mol (basis unstated) | RuO2 | 298.15 | experimental | manometric | [O–Ru](https://data.orchid-project.org/systems/O-RU.html) | [1] Gossé 2018; _cites Sch 1963_ | Table 2, p. 5, row 9 |  |
-| -314.13 kJ/mol (basis unstated) | RuO2 | 298.15 | DFT | DFT | [O–Ru](https://data.orchid-project.org/systems/O-RU.html) | [1] Gossé 2018; _cites Grillo 2004_ [doi](https://doi.org/10.1103/physrevb.70.184115) | Table 2, p. 5, row 6 |  |
+| -314.15 kJ/mol (basis unstated) ± 0.02 | RuO2 | 298.15 | experimental | EMF 3rd law | [O–Ru](https://data.orchid-project.org/systems/O-RU.html) | [1] Gossé 2018; _cites Cordfunke 1988_ [doi](https://doi.org/10.1016/0040-6031%2888%2987197-1) | Table 2, p. 5, row 11; `ORC-HPH7BLCOWU` |  |
+| -313.67 kJ/mol (basis unstated) ± 0.29 | RuO2 | 298.15 | experimental | EMF | [O–Ru](https://data.orchid-project.org/systems/O-RU.html) | [1] Gossé 2018; _cites St 1997_ | Table 2, p. 5, row 7; `ORC-SYXXKZIAB5` |  |
+| -313.52 kJ/mol (basis unstated) ± 0.03 | RuO2 | 298.15 | experimental | EMF (retained value) | [O–Ru](https://data.orchid-project.org/systems/O-RU.html) | [1] Gossé 2018; _cites Jacob 2000_ [doi](https://doi.org/10.1515/htmp.2000.19.1.11) | Table 2, p. 5, row 10; `ORC-OCEGLP6KYY` |  |
+| -306.27 kJ/mol (basis unstated) ± 6.3 | RuO2 | 298.15 | experimental | HTMS | [O–Ru](https://data.orchid-project.org/systems/O-RU.html) | [1] Gossé 2018; _cites Tagirov 1975_ | Table 2, p. 5, row 4; `ORC-Z5XW7XS55Q` |  |
+| -302.08 kJ/mol (basis unstated) ± 8.37 | RuO2 | 298.15 | experimental | manometric | [O–Ru](https://data.orchid-project.org/systems/O-RU.html) | [1] Gossé 2018; _cites Bell 1963_ [doi](https://doi.org/10.1021/j100805a042) | Table 2, p. 5, row 8; `ORC-EJIQT32NVK` |  |
+| -297.08 kJ/mol (basis unstated) | RuO2 | 298.15 | experimental | manometric | [O–Ru](https://data.orchid-project.org/systems/O-RU.html) | [1] Gossé 2018; _cites Sch 1963_ | Table 2, p. 5, row 9; `ORC-MRKP62DNWU` |  |
+| -314.13 kJ/mol (basis unstated) | RuO2 | 298.15 | DFT | DFT | [O–Ru](https://data.orchid-project.org/systems/O-RU.html) | [1] Gossé 2018; _cites Grillo 2004_ [doi](https://doi.org/10.1103/physrevb.70.184115) | Table 2, p. 5, row 6; `ORC-6RI54QS6XD` |  |
 
 ### Uncertainty budget
 
@@ -89,4 +89,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -28,14 +28,14 @@ Table: Phase transition, Fe–O–U–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 2510 K | 2510 | other: (U0.87Zr0.12Fe0.01) O2.08-2.11 | model | [1] Barrachin 2008 | Table 7, p. 12, row 8 |  |
-| Phase transition | 2710 K | 2710 | other: (U0.88Zr0.12)O2.08-2.11 | model | [1] Barrachin 2008 | Table 7, p. 12, row 4 |  |
-| Phase transition | 2860 K | 2860 | other: (U0.87Zr0.12Fe0.01)O2.00 | model | [1] Barrachin 2008 | Table 7, p. 12, row 6 |  |
-| Phase transition | 2940 K | 2940 | other: (U0.87Zr0.12Fe0.01) O2.08-2.11 | model | [1] Barrachin 2008 | Table 7, p. 12, row 7 |  |
-| Phase transition | 2970 K | 2970 | other: (U0.88Zr0.12)O2.08-2.11 | model | [1] Barrachin 2008 | Table 7, p. 12, row 3 |  |
-| Phase transition | 3020 K | 3020 | other: (U0.88Zr0.12)O2.000 | model | [1] Barrachin 2008 | Table 7, p. 12, row 2 |  |
-| Phase transition | 3060 K | 3060 | other: (U0.87Zr0.12Fe0.01)O2.00 | model | [1] Barrachin 2008 | Table 7, p. 12, row 5 |  |
-| Phase transition | 3080 K | 3080 | other: (U0.88Zr0.12)O2.000 | model | [1] Barrachin 2008 | Table 7, p. 12, row 1 |  |
+| Phase transition | 2510 K | 2510 | other: (U0.87Zr0.12Fe0.01) O2.08-2.11 | model | [1] Barrachin 2008 | Table 7, p. 12, row 8; `ORC-7EMEDL524Z` |  |
+| Phase transition | 2710 K | 2710 | other: (U0.88Zr0.12)O2.08-2.11 | model | [1] Barrachin 2008 | Table 7, p. 12, row 4; `ORC-T2V5XAYKPK` |  |
+| Phase transition | 2860 K | 2860 | other: (U0.87Zr0.12Fe0.01)O2.00 | model | [1] Barrachin 2008 | Table 7, p. 12, row 6; `ORC-FF7Y5WM6DJ` |  |
+| Phase transition | 2940 K | 2940 | other: (U0.87Zr0.12Fe0.01) O2.08-2.11 | model | [1] Barrachin 2008 | Table 7, p. 12, row 7; `ORC-MUCXIOBRVZ` |  |
+| Phase transition | 2970 K | 2970 | other: (U0.88Zr0.12)O2.08-2.11 | model | [1] Barrachin 2008 | Table 7, p. 12, row 3; `ORC-WKKSZMY2CM` |  |
+| Phase transition | 3020 K | 3020 | other: (U0.88Zr0.12)O2.000 | model | [1] Barrachin 2008 | Table 7, p. 12, row 2; `ORC-DENAS3BESL` |  |
+| Phase transition | 3060 K | 3060 | other: (U0.87Zr0.12Fe0.01)O2.00 | model | [1] Barrachin 2008 | Table 7, p. 12, row 5; `ORC-IUAT7JYF4W` |  |
+| Phase transition | 3080 K | 3080 | other: (U0.88Zr0.12)O2.000 | model | [1] Barrachin 2008 | Table 7, p. 12, row 1; `ORC-EXC7Q3OKE5` |  |
 
 ## Sources
 
@@ -78,4 +78,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

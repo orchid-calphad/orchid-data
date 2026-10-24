@@ -59,15 +59,15 @@ Table: Phase equilibrium, Sn–V system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase assemblage |  | 523.15 | liquid + V2Sn3; _alloy: V 0.2_ | experimental | [1] Chen 2008 | p. 2 | “Figure 1 shows a BEI micrograph of alloy #1 (Sn-20.0at.%V) annealed at 250°C for 6 months. Two different phase regions are observed. The composition of the bright phase is Sn-0.1at.%V while that of the dark phase is Sn-33.7at.%V.” |
-| Phase assemblage |  | 873.15 | V3Sn + V; _alloy: V 0.85_ | experimental | [1] Chen 2008 | p. 3 | “Figure 5 shows the BEI micrograph of alloy #6 (Sn-85.0at.%V) annealed at 600°C for 9 months. Two phases are observed. The composition of the bright phase is Sn-78.0at.%V while that of the dark phase is Sn-87.7at.%V; these are the V3Sn phase and V phase, respectively.” |
-| Phase composition |  | 523.15 | Liquid + VSn2(V2Sn3); _Liquid: Sn 1, V 0; VSn2(V2Sn3): Sn 0.659, V 0.341_ | unspecified | [1] Chen 2008 | Table I, p. 2, row 2 |  |
-| Phase composition |  | 523.15 | Liquid + VSn2(V2Sn3); _Liquid: Sn 0.999, V 0.001; VSn2(V2Sn3): Sn 0.663, V 0.337_ | unspecified | [1] Chen 2008 | Table I, p. 2, row 1 |  |
-| Phase composition |  | 523.15 | Liquid + VSn2(V2Sn3); _Liquid: Sn 1, V 0; VSn2(V2Sn3): Sn 0.661, V 0.339_ | unspecified | [1] Chen 2008 | Table I, p. 2, row 3 |  |
-| Phase composition |  | 523.15 | V3Sn + V; _V3Sn: Sn 0.219, V 0.781; V: Sn 0.121, V 0.879_ | unspecified | [1] Chen 2008 | Table I, p. 2, row 7 |  |
-| Phase composition |  | 523.15 | VSn2(V2Sn3) + V3Sn; _VSn2(V2Sn3): Sn 0.659, V 0.341; V3Sn: Sn 0.218, V 0.782_ | unspecified | [1] Chen 2008 | Table I, p. 2, row 5 |  |
-| Phase composition |  | 873.15 | V3Sn + V; _V3Sn: Sn 0.22, V 0.78; V: Sn 0.123, V 0.877_ | unspecified | [1] Chen 2008 | Table I, p. 2, row 6 |  |
-| Phase composition |  | 873.15 | VSn2(V2Sn3) + V3Sn; _VSn2(V2Sn3): Sn 0.658, V 0.342; V3Sn: Sn 0.22, V 0.78_ | unspecified | [1] Chen 2008 | Table I, p. 2, row 4 |  |
+| Phase assemblage |  | 523.15 | liquid + V2Sn3; _alloy: V 0.2_ | experimental | [1] Chen 2008 | p. 2; `ORC-6VYTRABTDH` | “Figure 1 shows a BEI micrograph of alloy #1 (Sn-20.0at.%V) annealed at 250°C for 6 months. Two different phase regions are observed. The composition of the bright phase is Sn-0.1at.%V while that of the dark phase is Sn-33.7at.%V.” |
+| Phase assemblage |  | 873.15 | V3Sn + V; _alloy: V 0.85_ | experimental | [1] Chen 2008 | p. 3; `ORC-H3RIUCDB5T` | “Figure 5 shows the BEI micrograph of alloy #6 (Sn-85.0at.%V) annealed at 600°C for 9 months. Two phases are observed. The composition of the bright phase is Sn-78.0at.%V while that of the dark phase is Sn-87.7at.%V; these are the V3Sn phase and V phase, respectively.” |
+| Phase composition |  | 523.15 | Liquid + VSn2(V2Sn3); _Liquid: Sn 1, V 0; VSn2(V2Sn3): Sn 0.659, V 0.341_ | unspecified | [1] Chen 2008 | Table I, p. 2, row 2; `ORC-Q5WBUVZTEF` |  |
+| Phase composition |  | 523.15 | Liquid + VSn2(V2Sn3); _Liquid: Sn 0.999, V 0.001; VSn2(V2Sn3): Sn 0.663, V 0.337_ | unspecified | [1] Chen 2008 | Table I, p. 2, row 1; `ORC-QZ2YQV44M4` |  |
+| Phase composition |  | 523.15 | Liquid + VSn2(V2Sn3); _Liquid: Sn 1, V 0; VSn2(V2Sn3): Sn 0.661, V 0.339_ | unspecified | [1] Chen 2008 | Table I, p. 2, row 3; `ORC-SLPVW5BNTN` |  |
+| Phase composition |  | 523.15 | V3Sn + V; _V3Sn: Sn 0.219, V 0.781; V: Sn 0.121, V 0.879_ | unspecified | [1] Chen 2008 | Table I, p. 2, row 7; `ORC-JAKPHZ7DOX` |  |
+| Phase composition |  | 523.15 | VSn2(V2Sn3) + V3Sn; _VSn2(V2Sn3): Sn 0.659, V 0.341; V3Sn: Sn 0.218, V 0.782_ | unspecified | [1] Chen 2008 | Table I, p. 2, row 5; `ORC-YFLFBAPZ6E` |  |
+| Phase composition |  | 873.15 | V3Sn + V; _V3Sn: Sn 0.22, V 0.78; V: Sn 0.123, V 0.877_ | unspecified | [1] Chen 2008 | Table I, p. 2, row 6; `ORC-EI6H4O5Y34` |  |
+| Phase composition |  | 873.15 | VSn2(V2Sn3) + V3Sn; _VSn2(V2Sn3): Sn 0.658, V 0.342; V3Sn: Sn 0.22, V 0.78_ | unspecified | [1] Chen 2008 | Table I, p. 2, row 4; `ORC-6ZQBP2CY6W` |  |
 
 ## Sources
 
@@ -132,4 +132,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

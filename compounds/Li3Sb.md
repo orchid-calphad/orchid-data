@@ -14,11 +14,11 @@ Table: Enthalpy of formation of Li3Sb reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -81.5 kJ/mol-atom | Li3Sb | 298.15 | experimental | acid solution calorimetry | [Li–Sb](https://data.orchid-project.org/systems/LI-SB.html) | [1] Li 2017; _cites Shchukarev 1954_ | Table 1, p. 3, row 1 |  |
-| -75.25 kJ/mol-atom | Li3Sb | 686.65 | experimental |  | [Li–Sb](https://data.orchid-project.org/systems/LI-SB.html) | [2] Zhang 2017; _cites ref. 14_ | Table 5, p. 36, row 5 |  |
-| -73.325 kJ/mol-atom | Li3Sb | 700.65 | experimental |  | [Li–Sb](https://data.orchid-project.org/systems/LI-SB.html) | [2] Zhang 2017; _cites ref. 10_ | Table 5, p. 36, row 4 |  |
-| -70.03 kJ/mol-atom ± 0.3 | Li3Sb | 942 | experimental | direct reaction calorimetry | [Li–Sb](https://data.orchid-project.org/systems/LI-SB.html) | [1] Li 2017; _cites Terlicka 2016_ [doi](https://doi.org/10.1016/j.jallcom.2016.02.235) | Table 1, p. 3, row 2 |  |
-| -76.825 kJ/mol-atom | Li3Sb | 700.65 | model |  | [Li–Sb](https://data.orchid-project.org/systems/LI-SB.html) | [2] Zhang 2017 | Table 5, p. 36, row 6 |  |
+| -81.5 kJ/mol-atom | Li3Sb | 298.15 | experimental | acid solution calorimetry | [Li–Sb](https://data.orchid-project.org/systems/LI-SB.html) | [1] Li 2017; _cites Shchukarev 1954_ | Table 1, p. 3, row 1; `ORC-AVHRPD6MDN` |  |
+| -75.25 kJ/mol-atom | Li3Sb | 686.65 | experimental |  | [Li–Sb](https://data.orchid-project.org/systems/LI-SB.html) | [2] Zhang 2017; _cites ref. 14_ | Table 5, p. 36, row 5; `ORC-4KBCL5U4BH.342b48` |  |
+| -73.325 kJ/mol-atom | Li3Sb | 700.65 | experimental |  | [Li–Sb](https://data.orchid-project.org/systems/LI-SB.html) | [2] Zhang 2017; _cites ref. 10_ | Table 5, p. 36, row 4; `ORC-L3ZY532BLT.85a76f` |  |
+| -70.03 kJ/mol-atom ± 0.3 | Li3Sb | 942 | experimental | direct reaction calorimetry | [Li–Sb](https://data.orchid-project.org/systems/LI-SB.html) | [1] Li 2017; _cites Terlicka 2016_ [doi](https://doi.org/10.1016/j.jallcom.2016.02.235) | Table 1, p. 3, row 2; `ORC-NNHSFNGPVO` |  |
+| -76.825 kJ/mol-atom | Li3Sb | 700.65 | model |  | [Li–Sb](https://data.orchid-project.org/systems/LI-SB.html) | [2] Zhang 2017 | Table 5, p. 36, row 6; `ORC-5XMN7JRI3A.109d66` |  |
 
 ### Uncertainty budget
 
@@ -99,4 +99,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

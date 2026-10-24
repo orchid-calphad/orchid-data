@@ -78,32 +78,32 @@ Table: Invariant reactions reported in the literature for the Bi–Mn system (26
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1791.15 | critical point: L ↔ L1 + L2 | L: Mn 0.884 | model | [1] Wang 2011 | Table 5, p. 5, row 18 |  |
-| 1508.15 | eutectic: L2 ↔ L1 + δMn | δMn: Mn 1 | experimental | [1] Wang 2011; _cites Massalski 1990_ | Table 5, p. 5, row 16 |  |
-| 1503.15 | eutectic: L2 ↔ L1 + δMn | L2: Mn 0.987; L1: Mn 0.655; δMn: Mn 1 | model | [1] Wang 2011 | Table 5, p. 5, row 17 |  |
-| 1411.15 | peritectic: L + δMn ↔ γMn | L: Mn 0.585; δMn: Mn 1 | model | [1] Wang 2011 | Table 5, p. 5, row 15 |  |
-| 1411.15 | peritectic: L + δMn ↔ γMn | δMn: Mn 1 | experimental | [1] Wang 2011; _cites Massalski 1990_ | Table 5, p. 5, row 14 |  |
-| 1373.15 | peritectic: L + γMn ↔ βMn | γMn: Mn 1; βMn: Mn 1 | experimental | [1] Wang 2011; _cites Massalski 1990_ | Table 5, p. 5, row 12 |  |
-| 1360.15 | peritectic: L + γMn ↔ βMn | L: Mn 0.551; γMn: Mn 1; βMn: Mn 1 | model | [1] Wang 2011 | Table 5, p. 5, row 13 |  |
-| 1000.15 | peritectic: L + βMn ↔ αMn | βMn: Mn 1; αMn: Mn 1 | experimental | [1] Wang 2011; _cites Massalski 1990_ | Table 5, p. 5, row 10 |  |
-| 980.15 | peritectic: L + βMn ↔ αMn | L: Mn 0.343; βMn: Mn 1; αMn: Mn 1 | model | [1] Wang 2011 | Table 5, p. 5, row 11 |  |
-| 719.15 | peritectic |  | experimental | [1] Wang 2011; _cites Seybolt 1956_ | p. 2 | “In the work of Seybolt et al. \[28\], there was an eutectic reaction L M (Bi) + BiMn at 264 °C together with a peritectic reaction of the L + aMn M BiMn at 446 °C.” |
-| 719.15 | peritectic: L + αMn ↔ βBiMn | L: Mn 0.208; αMn: Mn 1; βBiMn: Mn 0.519 | model | [1] Wang 2011 | Table 5, p. 5, row 9 |  |
-| 719.15 | peritectic: L + αMn ↔ βBiMn | αMn: Mn 1; βBiMn: Mn 0.519 | experimental | [1] Wang 2011; _cites Massalski 1990_ | Table 5, p. 5, row 8 |  |
-| 719 | peritectic |  | experimental | [2] Oikawa 2011; _cites Seybolt 1956_ [doi](https://doi.org/10.1007/bf03377740) | p. 2 | “The peritectic temperature of BiMn from a Mn + Bi-rich liquid is TP2 1⁄4 719 K and that of BiMn from a BiMn + Bi-rich liquid is TP1 1⁄4 628 K.24)” |
-| 631.15 | peritectic: L + βBiMn ↔ αBiMn | L: Mn 0.116; βBiMn: Mn 0.519; αBiMn: Mn 0.5 | model | [1] Wang 2011 | Table 5, p. 5, row 7 |  |
-| 628.15 | peritectic: L + βBiMn ↔ αBiMn | βBiMn: Mn 0.519; αBiMn: Mn 0.5 | experimental | [1] Wang 2011; _cites Massalski 1990_ | Table 5, p. 5, row 6 |  |
-| 628 | peritectic |  | experimental | [2] Oikawa 2011 | p. 7 | “The eutectoid temperature at 613 K, as shown in Fig. 2, is also suspect because the calculated entropy change at the peritectic reaction at 628 K is quite large compared with those obtained from the magnetic measurements and DSC, as mentioned in Section 4.1.” |
-| 628 | peritectic |  | experimental | [2] Oikawa 2011; _cites Seybolt 1956_ [doi](https://doi.org/10.1007/bf03377740) | p. 2 | “The peritectic temperature of BiMn from a Mn + Bi-rich liquid is TP2 1⁄4 719 K and that of BiMn from a BiMn + Bi-rich liquid is TP1 1⁄4 628 K.24)” |
-| 613.15 | eutectoid: βBiMn ↔ αBiMn + αMn | βBiMn: Mn 0.519; αBiMn: Mn 0.5; αMn: Mn 1 | experimental | [1] Wang 2011; _cites Massalski 1990_ | Table 5, p. 5, row 4 |  |
-| 613 | eutectoid |  | model | [2] Oikawa 2011 | p. 6 | “Therefore, the eutectoid reaction at 613 K shown in Fig. 3 vanished in Fig. 8.” |
-| 613 | eutectoid |  | experimental | [2] Oikawa 2011; _cites Chen 1974_ [doi](https://doi.org/10.1016/0022-0248%2874%2990357-1) | p. 3 | “In addition to the experimental data listed in Table 1, the eutectoid temperature TE2 1⁄4 613 K was also considered for the thermodynamic assessment applied to Model I in the BiMn phase.27)” |
-| 610.15 | eutectoid: βBiMn ↔ αBiMn + αMn | βBiMn: Mn 0.519; αBiMn: Mn 0.5; αMn: Mn 1 | model | [1] Wang 2011 | Table 5, p. 5, row 5 |  |
-| 539.15 | eutectic: L ↔ (Bi) + αBiMn | L: Mn 0.0277; (Bi): Mn 0.0038; αBiMn: Mn 0.5 | model | [1] Wang 2011 | Table 5, p. 5, row 3 |  |
-| 538.25 | eutectic: L ↔ (Bi) + αBiMn | L: Mn 0.0269; (Bi): Mn 0.0042; αBiMn: Mn 0.5 | experimental | [1] Wang 2011; _cites Pirich 1980_ [doi](https://doi.org/10.1007/bf02700456) | Table 5, p. 5, row 2 |  |
-| 538 | eutectic |  | experimental | [2] Oikawa 2011; _cites Pirich 1980_ [doi](https://doi.org/10.1007/bf02700456) | p. 2 | “The eutectic temperature of the Birich liquid into Bi solid + BiMn is TE1 1⁄4 538 K.26)” |
-| 537.15 | eutectic |  | experimental | [1] Wang 2011; _cites Seybolt 1956_ | p. 2 | “In the work of Seybolt et al. \[28\], there was an eutectic reaction L M (Bi) + BiMn at 264 °C together with a peritectic reaction of the L + aMn M BiMn at 446 °C.” |
-| 535.15 | eutectic: L ↔ (Bi) + αBiMn | L: Mn 0.022; (Bi): Mn 0; αBiMn: Mn 0.5 | experimental | [1] Wang 2011; _cites Massalski 1990_ | Table 5, p. 5, row 1 |  |
+| 1791.15 | critical point: L ↔ L1 + L2 | L: Mn 0.884 | model | [1] Wang 2011 | Table 5, p. 5, row 18; `ORC-KGPK4OJI5Z` |  |
+| 1508.15 | eutectic: L2 ↔ L1 + δMn | δMn: Mn 1 | experimental | [1] Wang 2011; _cites Massalski 1990_ | Table 5, p. 5, row 16; `ORC-BREYXYBGRS` |  |
+| 1503.15 | eutectic: L2 ↔ L1 + δMn | L2: Mn 0.987; L1: Mn 0.655; δMn: Mn 1 | model | [1] Wang 2011 | Table 5, p. 5, row 17; `ORC-T275DRRBKL` |  |
+| 1411.15 | peritectic: L + δMn ↔ γMn | L: Mn 0.585; δMn: Mn 1 | model | [1] Wang 2011 | Table 5, p. 5, row 15; `ORC-UDCYTT2EQP` |  |
+| 1411.15 | peritectic: L + δMn ↔ γMn | δMn: Mn 1 | experimental | [1] Wang 2011; _cites Massalski 1990_ | Table 5, p. 5, row 14; `ORC-YKQBXOBNZV` |  |
+| 1373.15 | peritectic: L + γMn ↔ βMn | γMn: Mn 1; βMn: Mn 1 | experimental | [1] Wang 2011; _cites Massalski 1990_ | Table 5, p. 5, row 12; `ORC-2QEEOA6O4A` |  |
+| 1360.15 | peritectic: L + γMn ↔ βMn | L: Mn 0.551; γMn: Mn 1; βMn: Mn 1 | model | [1] Wang 2011 | Table 5, p. 5, row 13; `ORC-VFXZHEIKNY` |  |
+| 1000.15 | peritectic: L + βMn ↔ αMn | βMn: Mn 1; αMn: Mn 1 | experimental | [1] Wang 2011; _cites Massalski 1990_ | Table 5, p. 5, row 10; `ORC-SUOTXN7VR7` |  |
+| 980.15 | peritectic: L + βMn ↔ αMn | L: Mn 0.343; βMn: Mn 1; αMn: Mn 1 | model | [1] Wang 2011 | Table 5, p. 5, row 11; `ORC-AMCF5LVVXY` |  |
+| 719.15 | peritectic |  | experimental | [1] Wang 2011; _cites Seybolt 1956_ | p. 2; `ORC-LGTDFR3VF4.b9d531` | “In the work of Seybolt et al. \[28\], there was an eutectic reaction L M (Bi) + BiMn at 264 °C together with a peritectic reaction of the L + aMn M BiMn at 446 °C.” |
+| 719.15 | peritectic: L + αMn ↔ βBiMn | L: Mn 0.208; αMn: Mn 1; βBiMn: Mn 0.519 | model | [1] Wang 2011 | Table 5, p. 5, row 9; `ORC-SXLSX4G6MV` |  |
+| 719.15 | peritectic: L + αMn ↔ βBiMn | αMn: Mn 1; βBiMn: Mn 0.519 | experimental | [1] Wang 2011; _cites Massalski 1990_ | Table 5, p. 5, row 8; `ORC-YK4W4DS3UZ` |  |
+| 719 | peritectic |  | experimental | [2] Oikawa 2011; _cites Seybolt 1956_ [doi](https://doi.org/10.1007/bf03377740) | p. 2; `ORC-YPAF2NKIMJ.19198f` | “The peritectic temperature of BiMn from a Mn + Bi-rich liquid is TP2 1⁄4 719 K and that of BiMn from a BiMn + Bi-rich liquid is TP1 1⁄4 628 K.24)” |
+| 631.15 | peritectic: L + βBiMn ↔ αBiMn | L: Mn 0.116; βBiMn: Mn 0.519; αBiMn: Mn 0.5 | model | [1] Wang 2011 | Table 5, p. 5, row 7; `ORC-M3PQCMNB5O` |  |
+| 628.15 | peritectic: L + βBiMn ↔ αBiMn | βBiMn: Mn 0.519; αBiMn: Mn 0.5 | experimental | [1] Wang 2011; _cites Massalski 1990_ | Table 5, p. 5, row 6; `ORC-DU7QHGUM4I` |  |
+| 628 | peritectic |  | experimental | [2] Oikawa 2011 | p. 7; `ORC-TXPYR5V62U` | “The eutectoid temperature at 613 K, as shown in Fig. 2, is also suspect because the calculated entropy change at the peritectic reaction at 628 K is quite large compared with those obtained from the magnetic measurements and DSC, as mentioned in Section 4.1.” |
+| 628 | peritectic |  | experimental | [2] Oikawa 2011; _cites Seybolt 1956_ [doi](https://doi.org/10.1007/bf03377740) | p. 2; `ORC-YPAF2NKIMJ.38f266` | “The peritectic temperature of BiMn from a Mn + Bi-rich liquid is TP2 1⁄4 719 K and that of BiMn from a BiMn + Bi-rich liquid is TP1 1⁄4 628 K.24)” |
+| 613.15 | eutectoid: βBiMn ↔ αBiMn + αMn | βBiMn: Mn 0.519; αBiMn: Mn 0.5; αMn: Mn 1 | experimental | [1] Wang 2011; _cites Massalski 1990_ | Table 5, p. 5, row 4; `ORC-MLTE6MPFN2` |  |
+| 613 | eutectoid |  | model | [2] Oikawa 2011 | p. 6; `ORC-PAPNP4XD37` | “Therefore, the eutectoid reaction at 613 K shown in Fig. 3 vanished in Fig. 8.” |
+| 613 | eutectoid |  | experimental | [2] Oikawa 2011; _cites Chen 1974_ [doi](https://doi.org/10.1016/0022-0248%2874%2990357-1) | p. 3; `ORC-Y35KXPDEXF` | “In addition to the experimental data listed in Table 1, the eutectoid temperature TE2 1⁄4 613 K was also considered for the thermodynamic assessment applied to Model I in the BiMn phase.27)” |
+| 610.15 | eutectoid: βBiMn ↔ αBiMn + αMn | βBiMn: Mn 0.519; αBiMn: Mn 0.5; αMn: Mn 1 | model | [1] Wang 2011 | Table 5, p. 5, row 5; `ORC-ZWSSDGY6SL` |  |
+| 539.15 | eutectic: L ↔ (Bi) + αBiMn | L: Mn 0.0277; (Bi): Mn 0.0038; αBiMn: Mn 0.5 | model | [1] Wang 2011 | Table 5, p. 5, row 3; `ORC-3JQ3D3J23L` |  |
+| 538.25 | eutectic: L ↔ (Bi) + αBiMn | L: Mn 0.0269; (Bi): Mn 0.0042; αBiMn: Mn 0.5 | experimental | [1] Wang 2011; _cites Pirich 1980_ [doi](https://doi.org/10.1007/bf02700456) | Table 5, p. 5, row 2; `ORC-WGZXDCQVIQ` |  |
+| 538 | eutectic |  | experimental | [2] Oikawa 2011; _cites Pirich 1980_ [doi](https://doi.org/10.1007/bf02700456) | p. 2; `ORC-YPAF2NKIMJ.218a87` | “The eutectic temperature of the Birich liquid into Bi solid + BiMn is TE1 1⁄4 538 K.26)” |
+| 537.15 | eutectic |  | experimental | [1] Wang 2011; _cites Seybolt 1956_ | p. 2; `ORC-LGTDFR3VF4.fa0048` | “In the work of Seybolt et al. \[28\], there was an eutectic reaction L M (Bi) + BiMn at 264 °C together with a peritectic reaction of the L + aMn M BiMn at 446 °C.” |
+| 535.15 | eutectic: L ↔ (Bi) + αBiMn | L: Mn 0.022; (Bi): Mn 0; αBiMn: Mn 0.5 | experimental | [1] Wang 2011; _cites Massalski 1990_ | Table 5, p. 5, row 1; `ORC-YR6XMCIYKQ` |  |
 
 ## Other properties
 
@@ -113,10 +113,10 @@ Table: Phase transition, Bi–Mn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 613 K | 613 | other | experimental | [2] Oikawa 2011; _cites Chen 1974_ [doi](https://doi.org/10.1016/0022-0248%2874%2990357-1) | p. 2 | “Both compounds BiMn and BiMn were described as stoichiometric compounds in previous studies:24,25) however, Chen27) reported that the chemical formula of BiMn was Bi1 Mn1:08 and that the eutectoid temperature of BiMn into BiMn + Mn was TE2 1⁄4 613 K.” |
-| Phase transition | 628 K | 628 |  | experimental | [2] Oikawa 2011; _cites Robert 1956_ [doi](https://doi.org/10.3406/reg.1956.3429) | p. 1 | “However, with an increase in temperature, the BiMn phase undergoes a phase transformation from the ferromagnetic state to the paramagnetic state at 628 K, accompanied by a structural transformation from a NiAs-type structure to a disordered Ni2 In-type hexagonal structure (BiMn).5)” |
-| Phase transition | 720 K | 720 | magnetic | model | [2] Oikawa 2011; _cites Huberman 1975_ [doi](https://doi.org/10.1103/physrevb.12.2741) | p. 2 | “TC of BiMn were evaluated as TC 1⁄4 720 K by using the magnetic mean field model.35)” |
-| Phase transition | 1000 K | 1000 | other | model | [2] Oikawa 2011; _cites Chen 1974_ [doi](https://doi.org/10.1016/0022-0248%2874%2990357-1) | p. 7 | “According to the previous phase diagram,9) the liquidus lines break at 1000 K, as shown in Fig. 2.” |
+| Phase transition | 613 K | 613 | other | experimental | [2] Oikawa 2011; _cites Chen 1974_ [doi](https://doi.org/10.1016/0022-0248%2874%2990357-1) | p. 2; `ORC-YPAF2NKIMJ.1f4443` | “Both compounds BiMn and BiMn were described as stoichiometric compounds in previous studies:24,25) however, Chen27) reported that the chemical formula of BiMn was Bi1 Mn1:08 and that the eutectoid temperature of BiMn into BiMn + Mn was TE2 1⁄4 613 K.” |
+| Phase transition | 628 K | 628 |  | experimental | [2] Oikawa 2011; _cites Robert 1956_ [doi](https://doi.org/10.3406/reg.1956.3429) | p. 1; `ORC-WBZLN67YJD` | “However, with an increase in temperature, the BiMn phase undergoes a phase transformation from the ferromagnetic state to the paramagnetic state at 628 K, accompanied by a structural transformation from a NiAs-type structure to a disordered Ni2 In-type hexagonal structure (BiMn).5)” |
+| Phase transition | 720 K | 720 | magnetic | model | [2] Oikawa 2011; _cites Huberman 1975_ [doi](https://doi.org/10.1103/physrevb.12.2741) | p. 2; `ORC-PWDZYWB5J5` | “TC of BiMn were evaluated as TC 1⁄4 720 K by using the magnetic mean field model.35)” |
+| Phase transition | 1000 K | 1000 | other | model | [2] Oikawa 2011; _cites Chen 1974_ [doi](https://doi.org/10.1016/0022-0248%2874%2990357-1) | p. 7; `ORC-KWE5ZHY77H` | “According to the previous phase diagram,9) the liquidus lines break at 1000 K, as shown in Fig. 2.” |
 
 ### Other property (1)
 
@@ -124,7 +124,7 @@ Table: Other property, Bi–Mn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Other; _printed: H_ | 1077 J mol 1 | 628 |  | experimental | [2] Oikawa 2011; _cites Mitsui 2009_ [doi](https://doi.org/10.2320/jinstmet.73.40) | p. 6 | “In addition to the experimental data listed in Table 1, the enthalpy change H 1⁄4 1077 Jmol1 19) at an allotropic transformation temperature of 628 K from BiMn to BiMn was also considered for the thermodynamic assessment applied to Model II in the BiMn phase.” |
+| Other; _printed: H_ | 1077 J mol 1 | 628 |  | experimental | [2] Oikawa 2011; _cites Mitsui 2009_ [doi](https://doi.org/10.2320/jinstmet.73.40) | p. 6; `ORC-S7NDHT3GZT` | “In addition to the experimental data listed in Table 1, the enthalpy change H 1⁄4 1077 Jmol1 19) at an allotropic transformation temperature of 628 K from BiMn to BiMn was also considered for the thermodynamic assessment applied to Model II in the BiMn phase.” |
 
 ## Sources
 
@@ -190,4 +190,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

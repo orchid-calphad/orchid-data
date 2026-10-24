@@ -28,15 +28,15 @@ Table: Phase transition, Dy–Er–Eu–Ho–Lu–O–Sc–Sm–Tb–Tm–Y–Yb
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 492 K | 492 | polymorphic: C ⇒ B; _alloy: Er 0, Eu 0, Ho 0, Lu 0, O 0.6, Sc 0, Sm 0, Tb 0, Tm 0, Y 0, Yb 0_ | experimental | [1] ZINKEVICH 2007; _cites Seck 1969_ | Table 2.3, p. 10, row 14 |  |
-| Phase transition | 589 K | 589 | polymorphic: C ⇒ B; _alloy: Er 0, Eu 0, Ho 0, Lu 0, O 0.6, Sc 0, Sm 0, Tb 0, Tm 0, Y 0, Yb 0_ | experimental | [1] ZINKEVICH 2007; _cites Seck 1969_ | Table 2.3, p. 10, row 15 |  |
-| Phase transition | 686 K | 686 | polymorphic: C ⇒ B; _alloy: Er 0, Eu 0, Ho 0, Lu 0, O 0.6, Sc 0, Sm 0, Tb 0, Tm 0, Y 0, Yb 0_ | experimental | [1] ZINKEVICH 2007; _cites Seck 1969_ | Table 2.3, p. 10, row 16 |  |
-| Phase transition | 783 K | 783 | polymorphic: C ⇒ B; _alloy: Er 0, Eu 0, Ho 0, Lu 0, O 0.6, Sc 0, Sm 0, Tb 0, Tm 0, Y 0, Yb 0_ | experimental | [1] ZINKEVICH 2007; _cites Seck 1969_ | Table 2.3, p. 10, row 17 |  |
-| Phase transition | 839 K | 839 | polymorphic: C ⇒ B; _alloy: Er 0, Eu 0, Ho 0, Lu 0, O 0.6, Sc 0, Sm 0, Tb 0, Tm 0, Y 0, Yb 0_ | experimental | [1] ZINKEVICH 2007; _cites Seck 1969_ | Table 2.3, p. 10, row 18 |  |
-| Phase transition | 885 K | 885 | polymorphic: C ⇒ B; _alloy: Er 0, Eu 0, Ho 0, Lu 0, O 0.6, Sc 0, Sm 0, Tb 0, Tm 0, Y 0, Yb 0_ | experimental | [1] ZINKEVICH 2007; _cites Seck 1969_ | Table 2.3, p. 10, row 19 |  |
-| Phase transition | 1018 K | 1018 | polymorphic: C ⇒ B; _alloy: Er 0, Eu 0, Ho 0, Lu 0, O 0.6, Sc 0, Sm 0, Tb 0, Tm 0, Y 0, Yb 0_ | experimental | [1] ZINKEVICH 2007; _cites Seck 1969_ | Table 2.3, p. 10, row 20 |  |
-| Phase transition | 1273 K | 1273 | polymorphic: C ⇒ B; _alloy: Er 0, Eu 0, Ho 0, Lu 0, O 0.6, Sc 0, Sm 0, Tb 0, Tm 0, Y 0, Yb 0_ | experimental | [1] ZINKEVICH 2007; _cites Hoekstra 1966_ | Table 2.3, p. 10, row 13 |  |
-| Phase transition | 1380 K | 1380 | polymorphic: C ⇒ B; _alloy: Er 0, Eu 0, Ho 0, Lu 0, O 0.6, Sc 0, Sm 0, Tb 0, Tm 0, Y 0, Yb 0_ | experimental | [1] ZINKEVICH 2007; _cites Seck 1969_ | Table 2.3, p. 10, row 21 |  |
+| Phase transition | 492 K | 492 | polymorphic: C ⇒ B; _alloy: Er 0, Eu 0, Ho 0, Lu 0, O 0.6, Sc 0, Sm 0, Tb 0, Tm 0, Y 0, Yb 0_ | experimental | [1] ZINKEVICH 2007; _cites Seck 1969_ | Table 2.3, p. 10, row 14; `ORC-HTAHENZOTA` |  |
+| Phase transition | 589 K | 589 | polymorphic: C ⇒ B; _alloy: Er 0, Eu 0, Ho 0, Lu 0, O 0.6, Sc 0, Sm 0, Tb 0, Tm 0, Y 0, Yb 0_ | experimental | [1] ZINKEVICH 2007; _cites Seck 1969_ | Table 2.3, p. 10, row 15; `ORC-4ZYZ6GR2ZF` |  |
+| Phase transition | 686 K | 686 | polymorphic: C ⇒ B; _alloy: Er 0, Eu 0, Ho 0, Lu 0, O 0.6, Sc 0, Sm 0, Tb 0, Tm 0, Y 0, Yb 0_ | experimental | [1] ZINKEVICH 2007; _cites Seck 1969_ | Table 2.3, p. 10, row 16; `ORC-I7OSODANL6` |  |
+| Phase transition | 783 K | 783 | polymorphic: C ⇒ B; _alloy: Er 0, Eu 0, Ho 0, Lu 0, O 0.6, Sc 0, Sm 0, Tb 0, Tm 0, Y 0, Yb 0_ | experimental | [1] ZINKEVICH 2007; _cites Seck 1969_ | Table 2.3, p. 10, row 17; `ORC-KU7IEGVMCB` |  |
+| Phase transition | 839 K | 839 | polymorphic: C ⇒ B; _alloy: Er 0, Eu 0, Ho 0, Lu 0, O 0.6, Sc 0, Sm 0, Tb 0, Tm 0, Y 0, Yb 0_ | experimental | [1] ZINKEVICH 2007; _cites Seck 1969_ | Table 2.3, p. 10, row 18; `ORC-C7PEOZNFQ4` |  |
+| Phase transition | 885 K | 885 | polymorphic: C ⇒ B; _alloy: Er 0, Eu 0, Ho 0, Lu 0, O 0.6, Sc 0, Sm 0, Tb 0, Tm 0, Y 0, Yb 0_ | experimental | [1] ZINKEVICH 2007; _cites Seck 1969_ | Table 2.3, p. 10, row 19; `ORC-KOT3LQHI5J` |  |
+| Phase transition | 1018 K | 1018 | polymorphic: C ⇒ B; _alloy: Er 0, Eu 0, Ho 0, Lu 0, O 0.6, Sc 0, Sm 0, Tb 0, Tm 0, Y 0, Yb 0_ | experimental | [1] ZINKEVICH 2007; _cites Seck 1969_ | Table 2.3, p. 10, row 20; `ORC-EJYMED5PF3` |  |
+| Phase transition | 1273 K | 1273 | polymorphic: C ⇒ B; _alloy: Er 0, Eu 0, Ho 0, Lu 0, O 0.6, Sc 0, Sm 0, Tb 0, Tm 0, Y 0, Yb 0_ | experimental | [1] ZINKEVICH 2007; _cites Hoekstra 1966_ | Table 2.3, p. 10, row 13; `ORC-EDLIQRPMPM` |  |
+| Phase transition | 1380 K | 1380 | polymorphic: C ⇒ B; _alloy: Er 0, Eu 0, Ho 0, Lu 0, O 0.6, Sc 0, Sm 0, Tb 0, Tm 0, Y 0, Yb 0_ | experimental | [1] ZINKEVICH 2007; _cites Seck 1969_ | Table 2.3, p. 10, row 21; `ORC-Y2M6PB7H3C` |  |
 
 ## Sources
 
@@ -79,4 +79,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

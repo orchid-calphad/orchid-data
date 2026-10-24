@@ -29,20 +29,20 @@ Table: Invariant reactions reported in the literature for the Al–O–Ti system
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2123 | peritectic: L + Al2O3 -> Al2TiO5 |  | experimental | [1] Ilatovskaia 2017 | Table 3, p. 8, row 10 |  |
-| 2123 | eutectic: L -> Al2O3 + Al2TiO5 |  | experimental | [1] Ilatovskaia 2017; _cites Bunting 1933_ [doi](https://doi.org/10.6028/jres.011.049) | Table 3, p. 8, row 7 |  |
-| 2113 | eutectic: L -> Al2O3 + Al2TiO5 |  | experimental | [1] Ilatovskaia 2017; _cites Lang 1952_ [doi](https://doi.org/10.6028/jres.048.038) | Table 3, p. 8, row 8 |  |
-| 2112 | peritectic: L + Al2O3 -> Al2TiO5 |  | model | [1] Ilatovskaia 2017 | Table 3, p. 8, row 9 |  |
-| 1999 | eutectic: L -> TiO2 + Al2TiO5 |  | model | [1] Ilatovskaia 2017 | Table 3, p. 8, row 1 |  |
-| 1988 | eutectic: L -> TiO2 + Al2TiO5 |  | experimental | [1] Ilatovskaia 2017; _cites Bunting 1933_ [doi](https://doi.org/10.6028/jres.011.049) | Table 3, p. 8, row 3 |  |
-| 1988 | eutectic: L -> TiO2 + Al2TiO5 |  | experimental | [1] Ilatovskaia 2017 | Table 3, p. 8, row 2 |  |
-| 1978 | eutectic: L -> TiO2 + Al2TiO5 |  | experimental | [1] Ilatovskaia 2017; _cites Lang 1952_ [doi](https://doi.org/10.6028/jres.048.038) | Table 3, p. 8, row 4 |  |
-| 1623 | eutectoid: Al2TiO5 -> TiO2 + Al2O3 |  | unspecified | [1] Ilatovskaia 2017; _cites Preda 2000_ | Table 3, p. 8, row 15 |  |
-| 1553 | eutectoid: Al2TiO5 -> TiO2 + Al2O3 |  | experimental | [1] Ilatovskaia 2017 | Table 3, p. 8, row 12 |  |
-| 1553 | eutectoid: Al2TiO5 -> TiO2 + Al2O3 |  | unspecified | [1] Ilatovskaia 2017; _cites Kato 1980_ | Table 3, p. 8, row 14 |  |
-| 1552 | eutectoid: Al2TiO5 -> TiO2 + Al2O3 |  | model | [1] Ilatovskaia 2017 | Table 3, p. 8, row 11 |  |
-| 1533 | eutectoid: Al2TiO5 -> TiO2 + Al2O3 |  | experimental | [1] Ilatovskaia 2017; _cites Lang 1952_ [doi](https://doi.org/10.6028/jres.048.038) | Table 3, p. 8, row 13 |  |
-| 1513 | eutectoid: Al2TiO5 -> TiO2 + Al2O3 |  | experimental | [1] Ilatovskaia 2017; _cites Slepetys 1969_ [doi](https://doi.org/10.1021/j100727a010) | Table 3, p. 8, row 16 |  |
+| 2123 | peritectic: L + Al2O3 -> Al2TiO5 |  | experimental | [1] Ilatovskaia 2017 | Table 3, p. 8, row 10; `ORC-5A7EOUHPRI` |  |
+| 2123 | eutectic: L -> Al2O3 + Al2TiO5 |  | experimental | [1] Ilatovskaia 2017; _cites Bunting 1933_ [doi](https://doi.org/10.6028/jres.011.049) | Table 3, p. 8, row 7; `ORC-NLZXHM77MU` |  |
+| 2113 | eutectic: L -> Al2O3 + Al2TiO5 |  | experimental | [1] Ilatovskaia 2017; _cites Lang 1952_ [doi](https://doi.org/10.6028/jres.048.038) | Table 3, p. 8, row 8; `ORC-I34QEJROYV` |  |
+| 2112 | peritectic: L + Al2O3 -> Al2TiO5 |  | model | [1] Ilatovskaia 2017 | Table 3, p. 8, row 9; `ORC-ODRYP7IWZG` |  |
+| 1999 | eutectic: L -> TiO2 + Al2TiO5 |  | model | [1] Ilatovskaia 2017 | Table 3, p. 8, row 1; `ORC-QPOWL5CMVP` |  |
+| 1988 | eutectic: L -> TiO2 + Al2TiO5 |  | experimental | [1] Ilatovskaia 2017; _cites Bunting 1933_ [doi](https://doi.org/10.6028/jres.011.049) | Table 3, p. 8, row 3; `ORC-D5AMZPSAZH` |  |
+| 1988 | eutectic: L -> TiO2 + Al2TiO5 |  | experimental | [1] Ilatovskaia 2017 | Table 3, p. 8, row 2; `ORC-ZO7ZZGB35X` |  |
+| 1978 | eutectic: L -> TiO2 + Al2TiO5 |  | experimental | [1] Ilatovskaia 2017; _cites Lang 1952_ [doi](https://doi.org/10.6028/jres.048.038) | Table 3, p. 8, row 4; `ORC-Q6XSU52JQ6` |  |
+| 1623 | eutectoid: Al2TiO5 -> TiO2 + Al2O3 |  | unspecified | [1] Ilatovskaia 2017; _cites Preda 2000_ | Table 3, p. 8, row 15; `ORC-WS6DDGSDPS` |  |
+| 1553 | eutectoid: Al2TiO5 -> TiO2 + Al2O3 |  | experimental | [1] Ilatovskaia 2017 | Table 3, p. 8, row 12; `ORC-3DRBVKDTIZ` |  |
+| 1553 | eutectoid: Al2TiO5 -> TiO2 + Al2O3 |  | unspecified | [1] Ilatovskaia 2017; _cites Kato 1980_ | Table 3, p. 8, row 14; `ORC-QMM24CSL54` |  |
+| 1552 | eutectoid: Al2TiO5 -> TiO2 + Al2O3 |  | model | [1] Ilatovskaia 2017 | Table 3, p. 8, row 11; `ORC-J52UNH5L6E` |  |
+| 1533 | eutectoid: Al2TiO5 -> TiO2 + Al2O3 |  | experimental | [1] Ilatovskaia 2017; _cites Lang 1952_ [doi](https://doi.org/10.6028/jres.048.038) | Table 3, p. 8, row 13; `ORC-7JMQW322SK` |  |
+| 1513 | eutectoid: Al2TiO5 -> TiO2 + Al2O3 |  | experimental | [1] Ilatovskaia 2017; _cites Slepetys 1969_ [doi](https://doi.org/10.1021/j100727a010) | Table 3, p. 8, row 16; `ORC-4I7R7SOBOY` |  |
 
 ## Other properties
 
@@ -52,20 +52,20 @@ Table: Phase equilibrium, Al–O–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase assemblage |  | 1333 | C + R; _alloy: O 0, Ti 1_ | experimental | [1] Ilatovskaia 2017 | Table 1, p. 2, row 1 |  |
-| Phase assemblage |  | 1423 | C + R; _alloy: O 0, Ti 1_ | experimental | [1] Ilatovskaia 2017 | Table 1, p. 2, row 2 |  |
-| Phase assemblage |  | 1487 | C + R; _alloy: O 0, Ti 1_ | experimental | [1] Ilatovskaia 2017 | Table 1, p. 2, row 3 |  |
-| Phase assemblage |  | 1523 | C + R; _alloy: O 0, Ti 1_ | experimental | [1] Ilatovskaia 2017 | Table 1, p. 2, row 4 |  |
-| Phase assemblage |  | 1538 | C + R; _alloy: O 0, Ti 1_ | experimental | [1] Ilatovskaia 2017 | Table 1, p. 2, row 5 |  |
-| Phase assemblage |  | 1549 | C + R; _alloy: O 0, Ti 1_ | experimental | [1] Ilatovskaia 2017 | Table 1, p. 2, row 6 |  |
-| Phase assemblage |  | 1557 | R + T + (+C); _alloy: O 0, Ti 1_ | experimental | [1] Ilatovskaia 2017 | Table 1, p. 2, row 7 |  |
-| Phase assemblage |  | 1557 | T + C + R; _alloy: O 0, Ti 1_ | experimental | [1] Ilatovskaia 2017 | Table 1, p. 2, row 9 |  |
-| Phase assemblage |  | 1570 | T + R + C; _alloy: O 0, Ti 1_ | experimental | [1] Ilatovskaia 2017 | Table 1, p. 2, row 10 |  |
-| Phase assemblage |  | 1897 | R + T; _alloy: O 0, Ti 1_ | experimental | [1] Ilatovskaia 2017 | Table 1, p. 2, row 11 |  |
-| Phase assemblage |  | 1897 | T + (+C); _alloy: O 0, Ti 1_ | experimental | [1] Ilatovskaia 2017 | Table 1, p. 2, row 13 |  |
-| Phase assemblage |  | 1897 | T + C; _alloy: O 0, Ti 1_ | experimental | [1] Ilatovskaia 2017 | Table 1, p. 2, row 14 |  |
-| Phase assemblage |  | 2023 | T + C; _alloy: O 0, Ti 1_ | experimental | [1] Ilatovskaia 2017 | Table 1, p. 2, row 17 |  |
-| Phase assemblage |  | 2113 | T + C; _alloy: O 0, Ti 1_ | experimental | [1] Ilatovskaia 2017 | Table 1, p. 2, row 20 |  |
+| Phase assemblage |  | 1333 | C + R; _alloy: O 0, Ti 1_ | experimental | [1] Ilatovskaia 2017 | Table 1, p. 2, row 1; `ORC-BPAWZPI6ZJ` |  |
+| Phase assemblage |  | 1423 | C + R; _alloy: O 0, Ti 1_ | experimental | [1] Ilatovskaia 2017 | Table 1, p. 2, row 2; `ORC-KJVBTQ45Y2` |  |
+| Phase assemblage |  | 1487 | C + R; _alloy: O 0, Ti 1_ | experimental | [1] Ilatovskaia 2017 | Table 1, p. 2, row 3; `ORC-S7T77G7OWT` |  |
+| Phase assemblage |  | 1523 | C + R; _alloy: O 0, Ti 1_ | experimental | [1] Ilatovskaia 2017 | Table 1, p. 2, row 4; `ORC-HAIZIFSJOU` |  |
+| Phase assemblage |  | 1538 | C + R; _alloy: O 0, Ti 1_ | experimental | [1] Ilatovskaia 2017 | Table 1, p. 2, row 5; `ORC-5X3GGXX2MG` |  |
+| Phase assemblage |  | 1549 | C + R; _alloy: O 0, Ti 1_ | experimental | [1] Ilatovskaia 2017 | Table 1, p. 2, row 6; `ORC-V56XY3I442` |  |
+| Phase assemblage |  | 1557 | R + T + (+C); _alloy: O 0, Ti 1_ | experimental | [1] Ilatovskaia 2017 | Table 1, p. 2, row 7; `ORC-BSBDUHP4PR` |  |
+| Phase assemblage |  | 1557 | T + C + R; _alloy: O 0, Ti 1_ | experimental | [1] Ilatovskaia 2017 | Table 1, p. 2, row 9; `ORC-HOCFJUR3OF` |  |
+| Phase assemblage |  | 1570 | T + R + C; _alloy: O 0, Ti 1_ | experimental | [1] Ilatovskaia 2017 | Table 1, p. 2, row 10; `ORC-N4XKWB3JZK` |  |
+| Phase assemblage |  | 1897 | R + T; _alloy: O 0, Ti 1_ | experimental | [1] Ilatovskaia 2017 | Table 1, p. 2, row 11; `ORC-NENK5DGV7J` |  |
+| Phase assemblage |  | 1897 | T + (+C); _alloy: O 0, Ti 1_ | experimental | [1] Ilatovskaia 2017 | Table 1, p. 2, row 13; `ORC-LGN5JK4H7I` |  |
+| Phase assemblage |  | 1897 | T + C; _alloy: O 0, Ti 1_ | experimental | [1] Ilatovskaia 2017 | Table 1, p. 2, row 14; `ORC-HYHGZRS3RX` |  |
+| Phase assemblage |  | 2023 | T + C; _alloy: O 0, Ti 1_ | experimental | [1] Ilatovskaia 2017 | Table 1, p. 2, row 17; `ORC-GBNY5C6TLW` |  |
+| Phase assemblage |  | 2113 | T + C; _alloy: O 0, Ti 1_ | experimental | [1] Ilatovskaia 2017 | Table 1, p. 2, row 20; `ORC-U3WYSZ442Q` |  |
 
 ## Sources
 
@@ -108,4 +108,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

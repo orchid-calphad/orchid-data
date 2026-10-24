@@ -14,12 +14,12 @@ Table: Enthalpy of formation of Er2Ge3 reported in the literature (6)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -83.4 kJ/mol-atom ± 1.3 | LT_Er2Ge3 | 950 | experimental | EMF | [Er–Ge](https://data.orchid-project.org/systems/ER-GE.html) | [1] Achgar 2017; _cites Sidorko 2008_ | Table 5, p. 7, row 19 |  |
-| -83.4 kJ/mol-atom ± 1.3 | HT_Er2Ge3 | 950 | experimental | EMF | [Er–Ge](https://data.orchid-project.org/systems/ER-GE.html) | [1] Achgar 2017; _cites Sidorko 2008_ | Table 5, p. 7, row 22 |  |
-| -84.23 kJ/mol-atom | LT_Er2Ge3 | 950 | model | Optimization | [Er–Ge](https://data.orchid-project.org/systems/ER-GE.html) | [1] Achgar 2017 | Table 5, p. 7, row 21 |  |
-| -84.13 kJ/mol-atom | HT_Er2Ge3 | 950 | model | Optimization | [Er–Ge](https://data.orchid-project.org/systems/ER-GE.html) | [1] Achgar 2017 | Table 5, p. 7, row 24 |  |
-| -84.05 kJ/mol-atom | LT_Er2Ge3 | 950 | model | Optimization | [Er–Ge](https://data.orchid-project.org/systems/ER-GE.html) | [1] Achgar 2017 | Table 5, p. 7, row 20 |  |
-| -83.93 kJ/mol-atom | HT_Er2Ge3 | 950 | model | Optimization | [Er–Ge](https://data.orchid-project.org/systems/ER-GE.html) | [1] Achgar 2017 | Table 5, p. 7, row 23 |  |
+| -83.4 kJ/mol-atom ± 1.3 | LT_Er2Ge3 | 950 | experimental | EMF | [Er–Ge](https://data.orchid-project.org/systems/ER-GE.html) | [1] Achgar 2017; _cites Sidorko 2008_ | Table 5, p. 7, row 19; `ORC-DQF45FYYVS.83d1a6` |  |
+| -83.4 kJ/mol-atom ± 1.3 | HT_Er2Ge3 | 950 | experimental | EMF | [Er–Ge](https://data.orchid-project.org/systems/ER-GE.html) | [1] Achgar 2017; _cites Sidorko 2008_ | Table 5, p. 7, row 22; `ORC-LPVBNOE2IG.b2bd30` |  |
+| -84.23 kJ/mol-atom | LT_Er2Ge3 | 950 | model | Optimization | [Er–Ge](https://data.orchid-project.org/systems/ER-GE.html) | [1] Achgar 2017 | Table 5, p. 7, row 21; `ORC-RHY3T5V3A4.68823a` |  |
+| -84.13 kJ/mol-atom | HT_Er2Ge3 | 950 | model | Optimization | [Er–Ge](https://data.orchid-project.org/systems/ER-GE.html) | [1] Achgar 2017 | Table 5, p. 7, row 24; `ORC-ACXKXPR5PP.10bd05` |  |
+| -84.05 kJ/mol-atom | LT_Er2Ge3 | 950 | model | Optimization | [Er–Ge](https://data.orchid-project.org/systems/ER-GE.html) | [1] Achgar 2017 | Table 5, p. 7, row 20; `ORC-Q7FLMQBHKU.b4289b` |  |
+| -83.93 kJ/mol-atom | HT_Er2Ge3 | 950 | model | Optimization | [Er–Ge](https://data.orchid-project.org/systems/ER-GE.html) | [1] Achgar 2017 | Table 5, p. 7, row 23; `ORC-PZS4R537IA.22fde7` |  |
 
 ### Uncertainty budget
 
@@ -99,4 +99,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

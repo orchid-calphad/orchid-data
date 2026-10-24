@@ -14,10 +14,10 @@ Table: Enthalpy of formation of Re3B reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -32.22 kJ/mol-atom ± 2.5 | Re3B | 298.15 | experimental | Chemical reaction | [B–Re](https://data.orchid-project.org/systems/B-RE.html) | [1] Yang 2010; _cites Baehren 1969_ | Table 2, p. 3, row 19 |  |
-| -21 kJ/mol-atom | Re3B |  | model | This work | [B–Re](https://data.orchid-project.org/systems/B-RE.html) | [1] Yang 2010 | Table 2, p. 3, row 20 |  |
-| -20 kJ/mol-atom | Re3B |  | model | Estimation | [B–Re](https://data.orchid-project.org/systems/B-RE.html) | [1] Yang 2010; _cites Boer 1989_ | Table 2, p. 3, row 18 |  |
-| -19.2975 kJ/mol-atom | Re3B |  | model | FP calculation | [B–Re](https://data.orchid-project.org/systems/B-RE.html) | [1] Yang 2010; _cites Gou 2009_ | Table 2, p. 3, row 17 |  |
+| -32.22 kJ/mol-atom ± 2.5 | Re3B | 298.15 | experimental | Chemical reaction | [B–Re](https://data.orchid-project.org/systems/B-RE.html) | [1] Yang 2010; _cites Baehren 1969_ | Table 2, p. 3, row 19; `ORC-2U6G7L7WMB` |  |
+| -21 kJ/mol-atom | Re3B |  | model | This work | [B–Re](https://data.orchid-project.org/systems/B-RE.html) | [1] Yang 2010 | Table 2, p. 3, row 20; `ORC-T2PPPBR44I` |  |
+| -20 kJ/mol-atom | Re3B |  | model | Estimation | [B–Re](https://data.orchid-project.org/systems/B-RE.html) | [1] Yang 2010; _cites Boer 1989_ | Table 2, p. 3, row 18; `ORC-EDHYJIIG7O` |  |
+| -19.2975 kJ/mol-atom | Re3B |  | model | FP calculation | [B–Re](https://data.orchid-project.org/systems/B-RE.html) | [1] Yang 2010; _cites Gou 2009_ | Table 2, p. 3, row 17; `ORC-KJ7EHRV73H` |  |
 
 ### Uncertainty budget
 
@@ -96,4 +96,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

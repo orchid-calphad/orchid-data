@@ -14,11 +14,11 @@ Table: Enthalpy of formation of Au6Ce reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -45.8 kJ/mol-atom | CeAu6 | 298.15 | model | Optimization | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [1] Moustaine 2016 | Table 2, p. 3, row 33 |  |
-| -41.59 kJ/mol-atom | Au6Ce | 289 | model |  | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [2] Dong 2013 | Table 4, p. 4, row 16 |  |
-| -41.59 kJ/mol-atom | CeAu6 | 298.15 | model | Optimization | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [1] Moustaine 2016; _cites Dong 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.013) | Table 2, p. 3, row 32 |  |
-| -39.76 kJ/mol-atom | Au6Ce | 0 | DFT |  | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [2] Dong 2013 | Table 4, p. 4, row 15 |  |
-| -39.76 kJ/mol-atom | CeAu6 | 298.15 | DFT | ab initio | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [1] Moustaine 2016; _cites Blo_ | Table 2, p. 3, row 31 |  |
+| -45.8 kJ/mol-atom | CeAu6 | 298.15 | model | Optimization | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [1] Moustaine 2016 | Table 2, p. 3, row 33; `ORC-5XMJOX66DF.deabbb` |  |
+| -41.59 kJ/mol-atom | Au6Ce | 289 | model |  | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [2] Dong 2013 | Table 4, p. 4, row 16; `ORC-3BDCDKS3FG.705d97` |  |
+| -41.59 kJ/mol-atom | CeAu6 | 298.15 | model | Optimization | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [1] Moustaine 2016; _cites Dong 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.013) | Table 2, p. 3, row 32; `ORC-3SLITIVUXT.a94151` |  |
+| -39.76 kJ/mol-atom | Au6Ce | 0 | DFT |  | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [2] Dong 2013 | Table 4, p. 4, row 15; `ORC-HCS5Y5VHPZ.ad39d3` |  |
+| -39.76 kJ/mol-atom | CeAu6 | 298.15 | DFT | ab initio | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [1] Moustaine 2016; _cites Blo_ | Table 2, p. 3, row 31; `ORC-Y4KGJYHW7Y` |  |
 
 ### Uncertainty budget
 
@@ -99,4 +99,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

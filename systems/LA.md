@@ -32,13 +32,13 @@ Table: Invariant reactions reported in the literature for the La system (7)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1138 | γLa->βLa (fcc) |  | experimental | [1] Huang 2000; _cites Eremenko 1988_ | Table 1, p. 2, row 4 |  |
-| 1134 | γLa->βLa (fcc) |  | model | [1] Huang 2000; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 1, p. 2, row 3 |  |
-| 583.15 | βLa -> V + αLa | βLa: ; αLa:  | unspecified | [2] Chan 2010; _cites Massalski 1990_ | Table 3, p. 5, row 13 |  |
-| 583 | βLa->αLa (dhcp) |  | experimental | [1] Huang 2000; _cites Eremenko 1988_ | Table 1, p. 2, row 6 |  |
-| 558.15 | βLa -> V + αLa | βLa: ; αLa:  | unspecified | [2] Chan 2010; _cites Gschneidner 2010_ | Table 3, p. 5, row 14 |  |
-| 550.05 | βLa -> V + αLa | βLa: ; αLa:  | unspecified | [2] Chan 2010; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 3, p. 5, row 15 |  |
-| 550 | βLa->αLa (dhcp) |  | model | [1] Huang 2000; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 1, p. 2, row 5 |  |
+| 1138 | γLa->βLa (fcc) |  | experimental | [1] Huang 2000; _cites Eremenko 1988_ | Table 1, p. 2, row 4; `ORC-7MRZKZ5IGY` |  |
+| 1134 | γLa->βLa (fcc) |  | model | [1] Huang 2000; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 1, p. 2, row 3; `ORC-PA7XXMYDIK` |  |
+| 583.15 | βLa -> V + αLa | βLa: ; αLa:  | unspecified | [2] Chan 2010; _cites Massalski 1990_ | Table 3, p. 5, row 13; `ORC-SL5FCBTQ4I` |  |
+| 583 | βLa->αLa (dhcp) |  | experimental | [1] Huang 2000; _cites Eremenko 1988_ | Table 1, p. 2, row 6; `ORC-YZKHY65QKO` |  |
+| 558.15 | βLa -> V + αLa | βLa: ; αLa:  | unspecified | [2] Chan 2010; _cites Gschneidner 2010_ | Table 3, p. 5, row 14; `ORC-6HANXROWXD` |  |
+| 550.05 | βLa -> V + αLa | βLa: ; αLa:  | unspecified | [2] Chan 2010; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 3, p. 5, row 15; `ORC-I2WARNZ2NB` |  |
+| 550 | βLa->αLa (dhcp) |  | model | [1] Huang 2000; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 1, p. 2, row 5; `ORC-DYW5H5WNVW` |  |
 
 ## Formation enthalpies
 
@@ -48,27 +48,27 @@ Table: Enthalpies of formation, La system (21)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| La |  | 0 kJ/mol-atom | 0 | DFT |  |  | [3] Zhou 2006 | Table 3, p. 6, row 28 |  |
-| La3Ru |  | -15.002 kJ/mol-atom |  | model |  |  | [4] Kardellass 2023; _cites Selhaoui 1999_ [doi](https://doi.org/10.1016/s0151-9107%2899%2980054-3) | Table 2, p. 7, row 1 |  |
-| La7Ru3 |  | -16.519 kJ/mol-atom |  | model |  |  | [4] Kardellass 2023; _cites Selhaoui 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990289-y) | Table 2, p. 7, row 23 |  |
-| LaMg |  | -3.7 kJ/mol-atom | 298.15 | experimental |  |  | [5] Hampl 2013; _cites ref. 1967Ogr_ | Table 6, p. 10, row 2 |  |
-| LaMg3 |  | -13.5 kJ/mol-atom | 298.15 | experimental |  |  | [5] Hampl 2013; _cites ref. 1932Can_ | Table 6, p. 10, row 1 |  |
-| LaRu2 |  | -13.801 kJ/mol-atom |  | model |  |  | [4] Kardellass 2023; _cites Selhaoui 1999_ [doi](https://doi.org/10.1016/s0151-9107%2899%2980054-3) | Table 2, p. 7, row 30 |  |
-| LaRu2 |  | -11 kJ/mol-atom | 298.15 | experimental |  |  | [4] Kardellass 2023; _cites Shilov 1983_ | Table 2, p. 7, row 32 |  |
-| LaRu2 |  | -10.3 kJ/mol-atom ± 2.8 | 298.15 | experimental |  |  | [4] Kardellass 2023; _cites Selhaoui 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990289-y) | Table 2, p. 7, row 31 |  |
-| R2Mg17 |  | -18 kJ/mol-atom | 298.15 | experimental |  |  | [5] Hampl 2013; _cites ref. 1972Pah_ | Table 6, p. 10, row 3 |  |
-| R2Mg17 |  | -7.8 kJ/mol-atom | 298.15 | experimental |  |  | [5] Hampl 2013; _cites ref. 2010Ber_ | Table 6, p. 10, row 4 |  |
-| RMg |  | -13 kJ/mol-atom | 298.15 | experimental |  |  | [5] Hampl 2013; _cites ref. 1972Pah_ | Table 6, p. 10, row 3 |  |
-| RMg |  | -12.1 kJ/mol-atom | 298.15 | experimental |  |  | [5] Hampl 2013; _cites ref. 2010Ber_ | Table 6, p. 10, row 4 |  |
-| RMg |  | -11.9 kJ/mol-atom | 298.15 | experimental |  |  | [5] Hampl 2013; _cites ref. 1932Can_ | Table 6, p. 10, row 1 |  |
-| RMg |  | -3.7 kJ/mol-atom | 298.15 | experimental |  |  | [5] Hampl 2013; _cites ref. 1967Ogr_ | Table 6, p. 10, row 2 |  |
-| RMg12 |  | -14 kJ/mol-atom | 298.15 | experimental |  |  | [5] Hampl 2013; _cites ref. 1972Pah_ | Table 6, p. 10, row 3 |  |
-| RMg12 |  | -4.9 kJ/mol-atom | 298.15 | experimental |  |  | [5] Hampl 2013; _cites ref. 2010Ber_ | Table 6, p. 10, row 4 |  |
-| RMg2 |  | -15.8 kJ/mol-atom | 298.15 | experimental |  |  | [5] Hampl 2013; _cites ref. 2010Ber_ | Table 6, p. 10, row 4 |  |
-| RMg2 |  | -11.2 kJ/mol-atom | 298.15 | experimental |  |  | [5] Hampl 2013; _cites ref. 1972Pah_ | Table 6, p. 10, row 3 |  |
-| RMg3 |  | -18.8 kJ/mol-atom | 298.15 | experimental |  |  | [5] Hampl 2013; _cites ref. 1972Pah_ | Table 6, p. 10, row 3 |  |
-| RMg3 |  | -15.7 kJ/mol-atom | 298.15 | experimental |  |  | [5] Hampl 2013; _cites ref. 2010Ber_ | Table 6, p. 10, row 4 |  |
-| RMg3 |  | -13.5 kJ/mol-atom | 298.15 | experimental |  |  | [5] Hampl 2013; _cites ref. 1932Can_ | Table 6, p. 10, row 1 |  |
+| La |  | 0 kJ/mol-atom | 0 | DFT |  |  | [3] Zhou 2006 | Table 3, p. 6, row 28; `ORC-O62YLDXJZW` |  |
+| La3Ru |  | -15.002 kJ/mol-atom |  | model |  |  | [4] Kardellass 2023; _cites Selhaoui 1999_ [doi](https://doi.org/10.1016/s0151-9107%2899%2980054-3) | Table 2, p. 7, row 1; `ORC-LJ7QZKTYZM.5a99e0` |  |
+| La7Ru3 |  | -16.519 kJ/mol-atom |  | model |  |  | [4] Kardellass 2023; _cites Selhaoui 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990289-y) | Table 2, p. 7, row 23; `ORC-QJPZHFDNOS.660dc0` |  |
+| LaMg |  | -3.7 kJ/mol-atom | 298.15 | experimental |  |  | [5] Hampl 2013; _cites ref. 1967Ogr_ | Table 6, p. 10, row 2; `ORC-EQTOORKIKL.9c4590` |  |
+| LaMg3 |  | -13.5 kJ/mol-atom | 298.15 | experimental |  |  | [5] Hampl 2013; _cites ref. 1932Can_ | Table 6, p. 10, row 1; `ORC-JPTETL7ATM.a9a36a` |  |
+| LaRu2 |  | -13.801 kJ/mol-atom |  | model |  |  | [4] Kardellass 2023; _cites Selhaoui 1999_ [doi](https://doi.org/10.1016/s0151-9107%2899%2980054-3) | Table 2, p. 7, row 30; `ORC-2GAELYTX3B.5ebe79` |  |
+| LaRu2 |  | -11 kJ/mol-atom | 298.15 | experimental |  |  | [4] Kardellass 2023; _cites Shilov 1983_ | Table 2, p. 7, row 32; `ORC-VPWAXIIJ4P.07e043` |  |
+| LaRu2 |  | -10.3 kJ/mol-atom ± 2.8 | 298.15 | experimental |  |  | [4] Kardellass 2023; _cites Selhaoui 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990289-y) | Table 2, p. 7, row 31; `ORC-QWM7YIH2XE.38c81b` |  |
+| R2Mg17 |  | -18 kJ/mol-atom | 298.15 | experimental |  |  | [5] Hampl 2013; _cites ref. 1972Pah_ | Table 6, p. 10, row 3; `ORC-JP4NH6QQI4.b14558` |  |
+| R2Mg17 |  | -7.8 kJ/mol-atom | 298.15 | experimental |  |  | [5] Hampl 2013; _cites ref. 2010Ber_ | Table 6, p. 10, row 4; `ORC-7BQWZDNA26.505be4` |  |
+| RMg |  | -13 kJ/mol-atom | 298.15 | experimental |  |  | [5] Hampl 2013; _cites ref. 1972Pah_ | Table 6, p. 10, row 3; `ORC-JP4NH6QQI4.89596c` |  |
+| RMg |  | -12.1 kJ/mol-atom | 298.15 | experimental |  |  | [5] Hampl 2013; _cites ref. 2010Ber_ | Table 6, p. 10, row 4; `ORC-7BQWZDNA26.92a0d5` |  |
+| RMg |  | -11.9 kJ/mol-atom | 298.15 | experimental |  |  | [5] Hampl 2013; _cites ref. 1932Can_ | Table 6, p. 10, row 1; `ORC-JPTETL7ATM.25a83f` |  |
+| RMg |  | -3.7 kJ/mol-atom | 298.15 | experimental |  |  | [5] Hampl 2013; _cites ref. 1967Ogr_ | Table 6, p. 10, row 2; `ORC-EQTOORKIKL.6dff71` |  |
+| RMg12 |  | -14 kJ/mol-atom | 298.15 | experimental |  |  | [5] Hampl 2013; _cites ref. 1972Pah_ | Table 6, p. 10, row 3; `ORC-JP4NH6QQI4.466617` |  |
+| RMg12 |  | -4.9 kJ/mol-atom | 298.15 | experimental |  |  | [5] Hampl 2013; _cites ref. 2010Ber_ | Table 6, p. 10, row 4; `ORC-7BQWZDNA26.07053c` |  |
+| RMg2 |  | -15.8 kJ/mol-atom | 298.15 | experimental |  |  | [5] Hampl 2013; _cites ref. 2010Ber_ | Table 6, p. 10, row 4; `ORC-7BQWZDNA26.61e7a0` |  |
+| RMg2 |  | -11.2 kJ/mol-atom | 298.15 | experimental |  |  | [5] Hampl 2013; _cites ref. 1972Pah_ | Table 6, p. 10, row 3; `ORC-JP4NH6QQI4.984085` |  |
+| RMg3 |  | -18.8 kJ/mol-atom | 298.15 | experimental |  |  | [5] Hampl 2013; _cites ref. 1972Pah_ | Table 6, p. 10, row 3; `ORC-JP4NH6QQI4.bf641b` |  |
+| RMg3 |  | -15.7 kJ/mol-atom | 298.15 | experimental |  |  | [5] Hampl 2013; _cites ref. 2010Ber_ | Table 6, p. 10, row 4; `ORC-7BQWZDNA26.82c315` |  |
+| RMg3 |  | -13.5 kJ/mol-atom | 298.15 | experimental |  |  | [5] Hampl 2013; _cites ref. 1932Can_ | Table 6, p. 10, row 1; `ORC-JPTETL7ATM.cc2b17` |  |
 
 ## Other properties
 
@@ -78,9 +78,9 @@ Table: Phase transition, La system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 550.05 K | 550.05 | (βLa) ↔ (αLa); _(βLa): ; (αLa): _ | experimental | [6] Wang 2012; _cites This_ | Table 2, p. 4, row 11 |  |
-| Phase transition | 550.05 K | 550.05 | (βLa) ↔ (αLa); _(βLa): ; (αLa): _ | model | [6] Wang 2012 | Table 2, p. 4, row 12 |  |
-| Phase transition | 992.3 K | 992.3 | polymorphic: La; _alloy: La 1_ | model | [7] Norgren 2000; _cites Norgren_ | Table 1, p. 4, row 1 |  |
+| Phase transition | 550.05 K | 550.05 | (βLa) ↔ (αLa); _(βLa): ; (αLa): _ | experimental | [6] Wang 2012; _cites This_ | Table 2, p. 4, row 11; `ORC-HTBSEYZFRY` |  |
+| Phase transition | 550.05 K | 550.05 | (βLa) ↔ (αLa); _(βLa): ; (αLa): _ | model | [6] Wang 2012 | Table 2, p. 4, row 12; `ORC-RY7Z6MFDXV` |  |
+| Phase transition | 992.3 K | 992.3 | polymorphic: La; _alloy: La 1_ | model | [7] Norgren 2000; _cites Norgren_ | Table 1, p. 4, row 1; `ORC-ITYYK7ADET` |  |
 
 ### Formation (6)
 
@@ -88,12 +88,12 @@ Table: Formation, La system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy of formation; _printed: ΔSf_ | -8.26 J/mol-atom/K |  | La3Ru; _alloy: La 1_ | model | [4] Kardellass 2023; _cites Selhaoui 1999_ [doi](https://doi.org/10.1016/s0151-9107%2899%2980054-3) | Table 2, p. 7, row 1 |  |
-| Entropy of formation; _printed: ΔSf_ | -8.62 J/mol-atom/K |  | La7Ru3; _alloy: La 1_ | model | [4] Kardellass 2023; _cites Selhaoui 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990289-y) | Table 2, p. 7, row 23 |  |
-| Entropy of formation; _printed: ΔSf_ | -5.88 J/mol-atom/K |  | LaRu2; _alloy: La 1_ | model | [4] Kardellass 2023; _cites Selhaoui 1999_ [doi](https://doi.org/10.1016/s0151-9107%2899%2980054-3) | Table 2, p. 7, row 30 |  |
-| Gibbs energy of formation; _printed: ΔGf_ | -6.742 kJ/mol-atom |  | La3Ru; _alloy: La 1_ | model | [4] Kardellass 2023; _cites Selhaoui 1999_ [doi](https://doi.org/10.1016/s0151-9107%2899%2980054-3) | Table 2, p. 7, row 1 |  |
-| Gibbs energy of formation; _printed: ΔGf_ | -7.921 kJ/mol-atom |  | LaRu2; _alloy: La 1_ | model | [4] Kardellass 2023; _cites Selhaoui 1999_ [doi](https://doi.org/10.1016/s0151-9107%2899%2980054-3) | Table 2, p. 7, row 30 |  |
-| Gibbs energy of formation; _printed: ΔGf at 1000 K_ | -7.899 kJ/mol-atom | 1000 | La7Ru3; _alloy: La 1_ | model | [4] Kardellass 2023; _cites Selhaoui 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990289-y) | Table 2, p. 7, row 23 |  |
+| Entropy of formation; _printed: ΔSf_ | -8.26 J/mol-atom/K |  | La3Ru; _alloy: La 1_ | model | [4] Kardellass 2023; _cites Selhaoui 1999_ [doi](https://doi.org/10.1016/s0151-9107%2899%2980054-3) | Table 2, p. 7, row 1; `ORC-LJ7QZKTYZM.68e05a` |  |
+| Entropy of formation; _printed: ΔSf_ | -8.62 J/mol-atom/K |  | La7Ru3; _alloy: La 1_ | model | [4] Kardellass 2023; _cites Selhaoui 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990289-y) | Table 2, p. 7, row 23; `ORC-QJPZHFDNOS.6faecd` |  |
+| Entropy of formation; _printed: ΔSf_ | -5.88 J/mol-atom/K |  | LaRu2; _alloy: La 1_ | model | [4] Kardellass 2023; _cites Selhaoui 1999_ [doi](https://doi.org/10.1016/s0151-9107%2899%2980054-3) | Table 2, p. 7, row 30; `ORC-2GAELYTX3B.81e616` |  |
+| Gibbs energy of formation; _printed: ΔGf_ | -6.742 kJ/mol-atom |  | La3Ru; _alloy: La 1_ | model | [4] Kardellass 2023; _cites Selhaoui 1999_ [doi](https://doi.org/10.1016/s0151-9107%2899%2980054-3) | Table 2, p. 7, row 1; `ORC-LJ7QZKTYZM.93036b` |  |
+| Gibbs energy of formation; _printed: ΔGf_ | -7.921 kJ/mol-atom |  | LaRu2; _alloy: La 1_ | model | [4] Kardellass 2023; _cites Selhaoui 1999_ [doi](https://doi.org/10.1016/s0151-9107%2899%2980054-3) | Table 2, p. 7, row 30; `ORC-2GAELYTX3B.4841c3` |  |
+| Gibbs energy of formation; _printed: ΔGf at 1000 K_ | -7.899 kJ/mol-atom | 1000 | La7Ru3; _alloy: La 1_ | model | [4] Kardellass 2023; _cites Selhaoui 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990289-y) | Table 2, p. 7, row 23; `ORC-QJPZHFDNOS.41d329` |  |
 
 ### Crystal structure (18)
 
@@ -101,24 +101,24 @@ Table: Crystal structure, La system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 5.29 Å |  | (β La); _alloy: La 1_ | experimental | [8] Peng 2011; _cites Eliseev 1964_ | Table 1, p. 2, row 2 |  |
-| Lattice a | 4.29 Å |  | Bcc(La); _alloy: La 1_ | experimental | [9] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 1 |  |
-| Lattice a | 4.25 Å | 0 | Bcc(La); _alloy: La 1_ | unspecified | [9] Tang 2013 | Table 2, p. 3, row 2 |  |
-| Lattice a | 3.772 Å |  | Dhcp(La); _alloy: La 1_ | experimental | [9] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 5 |  |
-| Lattice a | 3.762 Å | 0 | Dhcp(La); _alloy: La 1_ | unspecified | [9] Tang 2013 | Table 2, p. 3, row 6 |  |
-| Lattice a | 5.29 Å |  | Fcc(La); _alloy: La 1_ | experimental | [9] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 3 |  |
-| Lattice a | 5.26 Å | 0 | Fcc(La); _alloy: La 1_ | unspecified | [9] Tang 2013 | Table 2, p. 3, row 4 |  |
-| Lattice a | 3.77 Å | 298.15 | (α La); _alloy: La 1_ | experimental | [8] Peng 2011; _cites Spedding 1961_ [doi](https://doi.org/10.1016/0022-5088%2861%2990003-0) | Table 1, p. 2, row 1 |  |
-| Lattice a | 3.77 Å | 298.15 | (αLa); _alloy: La 1_ | unspecified | [10] An 2013 | Table 3, p. 5, row 1 |  |
-| Lattice a | 3.77 Å | 298.15 | (αLa); _alloy: La 1_ | unspecified | [11] An 2012 | Table 2, p. 5, row 1 |  |
-| Lattice a | 5.303 Å | 298.15 | (βLa); _alloy: La 1_ | unspecified | [11] An 2012 | Table 2, p. 5, row 3 |  |
-| Lattice a | 5.303 Å | 298.15 | (βLa); _alloy: La 1_ | unspecified | [10] An 2013 | Table 3, p. 5, row 3 |  |
-| Lattice a | 4.26 Å | 298.15 | (γ La); _alloy: La 1_ | experimental | [8] Peng 2011; _cites Spedding 1961_ [doi](https://doi.org/10.1016/0022-5088%2861%2990003-0) | Table 1, p. 2, row 3 |  |
-| Lattice a | 4.26 Å | 298.15 | (γLa); _alloy: La 1_ | unspecified | [11] An 2012 | Table 2, p. 5, row 2 |  |
-| Lattice a | 4.26 Å | 298.15 | (γLa); _alloy: La 1_ | unspecified | [10] An 2013 | Table 3, p. 5, row 2 |  |
-| Lattice c | 12.144 Å |  | Dhcp(La); _alloy: La 1_ | experimental | [9] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 5 |  |
-| Lattice c | 12.078 Å | 0 | Dhcp(La); _alloy: La 1_ | unspecified | [9] Tang 2013 | Table 2, p. 3, row 6 |  |
-| Lattice c | 12.13 Å | 298.15 | (α La); _alloy: La 1_ | experimental | [8] Peng 2011; _cites Spedding 1961_ [doi](https://doi.org/10.1016/0022-5088%2861%2990003-0) | Table 1, p. 2, row 1 |  |
+| Lattice a | 5.29 Å |  | (β La); _alloy: La 1_ | experimental | [8] Peng 2011; _cites Eliseev 1964_ | Table 1, p. 2, row 2; `ORC-VFKRVTIS5U` |  |
+| Lattice a | 4.29 Å |  | Bcc(La); _alloy: La 1_ | experimental | [9] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 1; `ORC-4WOPPHI3VN` |  |
+| Lattice a | 4.25 Å | 0 | Bcc(La); _alloy: La 1_ | unspecified | [9] Tang 2013 | Table 2, p. 3, row 2; `ORC-4Z3RS6UDA5` |  |
+| Lattice a | 3.772 Å |  | Dhcp(La); _alloy: La 1_ | experimental | [9] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 5; `ORC-FSHF4YPOK2.2ed3d6` |  |
+| Lattice a | 3.762 Å | 0 | Dhcp(La); _alloy: La 1_ | unspecified | [9] Tang 2013 | Table 2, p. 3, row 6; `ORC-QNYBAAPC5N.403095` |  |
+| Lattice a | 5.29 Å |  | Fcc(La); _alloy: La 1_ | experimental | [9] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 3; `ORC-IIW7WDBF5P` |  |
+| Lattice a | 5.26 Å | 0 | Fcc(La); _alloy: La 1_ | unspecified | [9] Tang 2013 | Table 2, p. 3, row 4; `ORC-LQVY3E3XEO` |  |
+| Lattice a | 3.77 Å | 298.15 | (α La); _alloy: La 1_ | experimental | [8] Peng 2011; _cites Spedding 1961_ [doi](https://doi.org/10.1016/0022-5088%2861%2990003-0) | Table 1, p. 2, row 1; `ORC-BH2BR67WST.5c3cf1` |  |
+| Lattice a | 3.77 Å | 298.15 | (αLa); _alloy: La 1_ | unspecified | [10] An 2013 | Table 3, p. 5, row 1; `ORC-QCWR5ZUBE5.4c3bc3` |  |
+| Lattice a | 3.77 Å | 298.15 | (αLa); _alloy: La 1_ | unspecified | [11] An 2012 | Table 2, p. 5, row 1; `ORC-U5OILHXQAI` |  |
+| Lattice a | 5.303 Å | 298.15 | (βLa); _alloy: La 1_ | unspecified | [11] An 2012 | Table 2, p. 5, row 3; `ORC-BKGOQKUHS2` |  |
+| Lattice a | 5.303 Å | 298.15 | (βLa); _alloy: La 1_ | unspecified | [10] An 2013 | Table 3, p. 5, row 3; `ORC-HMBT7SSS3P.9966f9` |  |
+| Lattice a | 4.26 Å | 298.15 | (γ La); _alloy: La 1_ | experimental | [8] Peng 2011; _cites Spedding 1961_ [doi](https://doi.org/10.1016/0022-5088%2861%2990003-0) | Table 1, p. 2, row 3; `ORC-AMACLL5RQJ` |  |
+| Lattice a | 4.26 Å | 298.15 | (γLa); _alloy: La 1_ | unspecified | [11] An 2012 | Table 2, p. 5, row 2; `ORC-56UZK7M7E4` |  |
+| Lattice a | 4.26 Å | 298.15 | (γLa); _alloy: La 1_ | unspecified | [10] An 2013 | Table 3, p. 5, row 2; `ORC-PI5VNYHN6E.35ecac` |  |
+| Lattice c | 12.144 Å |  | Dhcp(La); _alloy: La 1_ | experimental | [9] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 5; `ORC-FSHF4YPOK2.36b282` |  |
+| Lattice c | 12.078 Å | 0 | Dhcp(La); _alloy: La 1_ | unspecified | [9] Tang 2013 | Table 2, p. 3, row 6; `ORC-QNYBAAPC5N.f30213` |  |
+| Lattice c | 12.13 Å | 298.15 | (α La); _alloy: La 1_ | experimental | [8] Peng 2011; _cites Spedding 1961_ [doi](https://doi.org/10.1016/0022-5088%2861%2990003-0) | Table 1, p. 2, row 1; `ORC-BH2BR67WST.19667c` |  |
 
 ## Sources
 
@@ -171,4 +171,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

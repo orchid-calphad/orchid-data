@@ -133,77 +133,77 @@ Table: Invariant reactions reported in the literature for the Cu–Ti system (71
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1288 | L \<=> CuTi2 | L: Ti 0.667; CuTi2: Cu 0.333333, Ti 0.666667 | experimental | [1] Turchanin 2008; _cites Eremenko 1970_ [doi](https://doi.org/10.1007/bf00796511) | Table 2, p. 7, row 4 |  |
-| 1288 | L \<=> CuTi2 | L: Ti 0.667; CuTi2: Cu 0.333333, Ti 0.666667 | experimental | [1] Turchanin 2008; _cites Vigdorovich 1958_ | Table 2, p. 7, row 3 |  |
-| 1285 | L \<=> CuTi2 | L: Ti 0.667; CuTi2: Cu 0.333333, Ti 0.666667 | experimental | [1] Turchanin 2008; _cites Yamane 1994_ [doi](https://doi.org/10.1007/bf00278149) | Table 2, p. 7, row 6 |  |
-| 1283 | L \<=> CuTi2 | L: Ti 0.667; CuTi2: Cu 0.333333, Ti 0.666667 | experimental | [1] Turchanin 2008; _cites Ecob 1979_ [doi](https://doi.org/10.1002/pssa.2210520121) | Table 2, p. 7, row 5 |  |
-| 1282 | L \<=> CuTi2 | L: Ti 0.667; CuTi2: Cu 0.333333, Ti 0.666667 | model | [1] Turchanin 2008 | Table 2, p. 7, row 7 |  |
-| 1282 | L \<=> CuTi2 + (βTi) | L: Ti 0.69; CuTi2: Ti 0.667 | experimental | [1] Turchanin 2008; _cites Vigdorovich 1958_ | Table 2, p. 7, row 8 |  |
-| 1278 | L -> CuTi | L: Ti 0.5; CuTi: Cu 0.5, Ti 0.5 | experimental | [1] Turchanin 2008; _cites Trzebiatowski 1953_ | Table 2, p. 6, row 15 |  |
-| 1276 | L \<=> CuTi2 + (βTi) | L: Ti 0.69 | experimental | [1] Turchanin 2008; _cites Ecob 1979_ [doi](https://doi.org/10.1002/pssa.2210520121) | Table 2, p. 7, row 10 |  |
-| 1275 | L \<=> CuTi2 + (βTi) | CuTi2: Ti 0.667; (βTi): Ti 0.84 | experimental | [1] Turchanin 2008; _cites Oliker 1996_ [doi](https://doi.org/10.1007/bf01389606) | Table 2, p. 7, row 11 |  |
-| 1273 | L \<=> CuTi2 + (βTi) | L: Ti 0.69; CuTi2: Ti 0.667 | experimental | [1] Turchanin 2008; _cites Eremenko 1970_ [doi](https://doi.org/10.1007/bf00796511) | Table 2, p. 7, row 9 |  |
-| 1257 | L -> CuTi | L: Ti 0.5; CuTi: Cu 0.5, Ti 0.5 | experimental | [1] Turchanin 2008; _cites Ecob 1979_ [doi](https://doi.org/10.1002/pssa.2210520121) | Table 2, p. 6, row 18 |  |
-| 1257 | L -> CuTi | L: Ti 0.5; CuTi: Cu 0.5, Ti 0.5 | experimental | [1] Turchanin 2008; _cites Eremenko 1970_ [doi](https://doi.org/10.1007/bf00796511) | Table 2, p. 6, row 17 |  |
-| 1255 | L -> CuTi | L: Ti 0.5; CuTi: Cu 0.5, Ti 0.5 | experimental | [1] Turchanin 2008; _cites Vigdorovich 1958_ | Table 2, p. 6, row 16 |  |
-| 1253 | L -> CuTi | L: Ti 0.5; CuTi: Cu 0.5, Ti 0.5 | experimental | [1] Turchanin 2008; _cites Alisova 1994_ | Table 2, p. 6, row 19 |  |
-| 1251 | L -> CuTi | L: Ti 0.505; CuTi: Cu 0.5, Ti 0.5 | model | [1] Turchanin 2008 | Table 2, p. 6, row 21 |  |
-| 1248 | L -> CuTi | L: Ti 0.507; CuTi: Cu 0.5, Ti 0.5 | model | [1] Turchanin 2008; _cites Turchanin 1995_ | Table 2, p. 6, row 20 |  |
-| 1245 | L -> CuTi | L: Ti 0.5; CuTi: Cu 0.5, Ti 0.5 | experimental | [1] Turchanin 2008; _cites Raub 1952_ | Table 2, p. 6, row 14 |  |
-| 1242 | L \<=> CuTi + CuTi2 | L: Ti 0.564; CuTi: Ti 0.517; CuTi2: Ti 0.667 | model | [1] Turchanin 2008; _cites Turchanin 1995_ | Table 2, p. 7, row 1 |  |
-| 1234 | L \<=> CuTi + CuTi2 | L: Ti 0.569; CuTi: Ti 0.513; CuTi2: Ti 0.667 | model | [1] Turchanin 2008 | Table 2, p. 7, row 2 |  |
-| 1233 | L -> CuTi + CuTi2 | L: Ti 0.43 | experimental | [1] Turchanin 2008; _cites Ecob 1979_ [doi](https://doi.org/10.1002/pssa.2210520121) | Table 2, p. 6, row 25 |  |
-| 1233 | L -> CuTi + CuTi2 | L: Ti 0.57; CuTi: Ti 0.5; CuTi2: Ti 0.667 | experimental | [1] Turchanin 2008; _cites Vigdorovich 1958_ | Table 2, p. 6, row 23 |  |
-| 1233 | L -> CuTi + CuTi2 | L: Ti 0.57 | experimental | [1] Turchanin 2008; _cites Eremenko 1970_ [doi](https://doi.org/10.1007/bf00796511) | Table 2, p. 6, row 24 |  |
-| 1231 | eutectic: L ⇔ CuTi2 + (βTi) |  | model | [1] Turchanin 2008 | p. 12 | “The calculated temperature of the eutectic reaction L ⇔ CuTi2 + (βTi) is 1231 K (Table 2), which is close to that reported in \[20, 26, 27, 34\].” |
-| 1231 | L \<=> CuTi2 + (βTi) | L: Ti 0.754; CuTi2: Ti 0.667; (βTi): Ti 0.875 | model | [1] Turchanin 2008 | Table 2, p. 7, row 12 |  |
-| 1227 | L -> CuTi + CuTi2 | L: Ti 0.57; CuTi: Ti 0.5; CuTi2: Ti 0.667 | experimental | [1] Turchanin 2008; _cites Raub 1952_ | Table 2, p. 6, row 22 |  |
-| 1208 | L + CuTi -> Cu4Ti3 | CuTi: Cu 0.5, Ti 0.5; Cu4Ti3: Ti 0.429 | experimental | [1] Turchanin 2008; _cites Alisova 1994_ | Table 2, p. 6, row 11 |  |
-| 1208 | L + CuTi -> Cu4Ti3 | CuTi: Ti 0.5; Cu4Ti3: Ti 0.4 | experimental | [1] Turchanin 2008; _cites Vigdorovich 1958_ | Table 2, p. 6, row 7 |  |
-| 1206 | L + CuTi -> Cu4Ti3 | L: Ti 0.36; CuTi: Ti 0.485; Cu4Ti3: Ti 0.429 | model | [1] Turchanin 2008; _cites Turchanin 1995_ | Table 2, p. 6, row 12 |  |
-| 1202 | L + CuTi -> Cu4Ti3 |  | experimental | [1] Turchanin 2008; _cites Ecob 1979_ [doi](https://doi.org/10.1002/pssa.2210520121) | Table 2, p. 6, row 10 |  |
-| 1191 | L + CuTi -> Cu4Ti3 | Cu4Ti3: Ti 0.429 | experimental | [1] Turchanin 2008; _cites Eremenko 1970_ [doi](https://doi.org/10.1007/bf00796511) | Table 2, p. 6, row 9 |  |
-| 1189 | L + CuTi -> Cu4Ti3 | L: Ti 0.347; CuTi: Ti 0.49; Cu4Ti3: Ti 0.429 | model | [1] Turchanin 2008 | Table 2, p. 6, row 13 |  |
-| 1189 | L + CuTi -> Cu4Ti3 | CuTi: Ti 0.5; Cu4Ti3: Ti 0.4 | experimental | [1] Turchanin 2008; _cites Raub 1952_ | Table 2, p. 6, row 6 |  |
-| 1169 | L + (Cu) \<=> Cu4Ti | L: Ti 0.225; (Cu): Ti 0.07; Cu4Ti: Ti 0.194 | model | [1] Turchanin 2008 | Table 2, p. 5, row 7 |  |
-| 1169 | L + (Cu) \<=> Cu4Ti | L: Ti 0.208; (Cu): Ti 0.079; Cu4Ti: Ti 0.192 | model | [1] Turchanin 2008; _cites Turchanin 1995_ | Table 2, p. 5, row 6 |  |
-| 1165 | L + (Cu) \<=> Cu4Ti |  | experimental | [1] Turchanin 2008; _cites Ecob 1979_ [doi](https://doi.org/10.1002/pssa.2210520121) | Table 2, p. 5, row 4 |  |
-| 1165 | L + Cu4Ti3 \<=> Cu2Ti | Cu4Ti3: Ti 0.4; Cu2Ti: Ti 0.333 | experimental | [1] Turchanin 2008; _cites Vigdorovich 1958_ | Table 2, p. 5, row 21 |  |
-| 1163 | L + (Cu) \<=> Cu4Ti | L: Ti 0.33; (Cu): Ti 0.063 | experimental | [1] Turchanin 2008; _cites Trzebiatowski 1953_ | Table 2, p. 5, row 2 |  |
-| 1160 | L + Cu4Ti3 \<=> Cu2Ti | L: Ti 0.272; Cu4Ti3: Ti 0.429; Cu2Ti: Ti 0.333 | model | [1] Turchanin 2008; _cites Turchanin 1995_ | Table 2, p. 5, row 24 |  |
-| 1158 | L + (Cu) \<=> Cu4Ti | (Cu): Ti 0.056; Cu4Ti: Ti 0.25 | experimental | [1] Turchanin 2008; _cites Raub 1952_ | Table 2, p. 5, row 1 |  |
-| 1158 | L + Cu4Ti3 \<=> Cu2Ti | Cu2Ti: Ti 0.333 | experimental | [1] Turchanin 2008; _cites Ecob 1979_ [doi](https://doi.org/10.1002/pssa.2210520121) | Table 2, p. 5, row 23 |  |
-| 1158 | L + Cu4Ti3 \<=> Cu2Ti | L: Ti 0.287; Cu4Ti3: Ti 0.429; Cu2Ti: Ti 0.333 | model | [1] Turchanin 2008 | Table 2, p. 5, row 25 |  |
-| 1158 | Cu2Ti + Cu4Ti3 -> Cu3Ti2 | Cu2Ti: Ti 0.333; Cu4Ti3: Cu 0.571429, Ti 0.428571; Cu3Ti2: Ti 0.4 | experimental | [1] Turchanin 2008; _cites Vigdorovich 1958_ | Table 2, p. 6, row 1 |  |
-| 1158 | L \<=> Cu4Ti + Cu2Ti | L: Ti 0.265; Cu4Ti: Ti 0.214; Cu2Ti: Ti 0.333 | model | [1] Turchanin 2008; _cites Turchanin 1995_ | Table 2, p. 5, row 13 |  |
-| 1156 | L \<=> Cu4Ti + Cu2Ti | L: Ti 0.279; Cu4Ti: Ti 0.217; Cu2Ti: Ti 0.333 | model | [1] Turchanin 2008 | Table 2, p. 5, row 14 |  |
-| 1153 | L \<=> Cu4Ti + Cu2Ti | L: Ti 0.29; Cu4Ti: Ti 0.25; Cu2Ti: Ti 0.333 | experimental | [1] Turchanin 2008; _cites Vigdorovich 1958_ | Table 2, p. 5, row 10 |  |
-| 1151 | L \<=> Cu4Ti + Cu2Ti | L: Ti 0.27; Cu2Ti: Ti 0.333 | experimental | [1] Turchanin 2008; _cites Ecob 1979_ [doi](https://doi.org/10.1002/pssa.2210520121) | Table 2, p. 5, row 12 |  |
-| 1151 | L + Cu4Ti3 \<=> Cu2Ti | Cu4Ti3: Ti 0.429; Cu2Ti: Ti 0.333 | experimental | [1] Turchanin 2008; _cites Eremenko 1970_ [doi](https://doi.org/10.1007/bf00796511) | Table 2, p. 5, row 22 |  |
-| 1150 | Cu2Ti + Cu4Ti3 -> Cu3Ti2 | Cu2Ti: Ti 0.333; Cu4Ti3: Ti 0.429; Cu3Ti2: Ti 0.4 | model | [1] Turchanin 2008 | Table 2, p. 6, row 5 |  |
-| 1148 | L \<=> Cu4Ti + Cu2Ti | Cu4Ti: Cu 0.8, Ti 0.2; Cu2Ti: Cu 0.666667, Ti 0.333333 | experimental | [1] Turchanin 2008; _cites Trzebiatowski 1953_ | Table 2, p. 5, row 9 |  |
-| 1148 | Cu2Ti + Cu4Ti3 -> Cu3Ti2 | Cu2Ti: Ti 0.333; Cu4Ti3: Ti 0.429; Cu3Ti2: Ti 0.4 | model | [1] Turchanin 2008; _cites Turchanin 1995_ | Table 2, p. 6, row 4 |  |
-| 1146 | L \<=> Cu4Ti + Cu2Ti | L: Ti 0.34; Cu2Ti: Ti 0.333 | experimental | [1] Turchanin 2008; _cites Raub 1952_ | Table 2, p. 5, row 8 |  |
-| 1145 | Cu2Ti \<=> Cu4Ti + Cu3Ti2 | Cu2Ti: Ti 0.333; Cu4Ti: Cu 0.8, Ti 0.2; Cu3Ti2: Cu 0.6, Ti 0.4 | experimental | [1] Turchanin 2008; _cites Vigdorovich 1958_ | Table 2, p. 5, row 15 |  |
-| 1143 | Cu2Ti + Cu4Ti3 -> Cu3Ti2 | Cu2Ti: Ti 0.333; Cu4Ti3: Ti 0.429; Cu3Ti2: Ti 0.4 | experimental | [1] Turchanin 2008; _cites Eremenko 1966_ [doi](https://doi.org/10.1007/bf00775543) | Table 2, p. 6, row 2 |  |
-| 1143 | L + (Cu) \<=> Cu4Ti |  | experimental | [1] Turchanin 2008; _cites Eremenko 1970_ [doi](https://doi.org/10.1007/bf00796511) | Table 2, p. 5, row 3 |  |
-| 1142 | Cu2Ti \<=> Cu4Ti + Cu3Ti2 | Cu2Ti: Ti 0.333; Cu4Ti: Ti 0.213; Cu3Ti2: Ti 0.4 | model | [1] Turchanin 2008; _cites Turchanin 1995_ | Table 2, p. 5, row 19 |  |
-| 1138 | Cu2Ti \<=> Cu4Ti + Cu3Ti2 | Cu2Ti: Ti 0.333; Cu4Ti: Ti 0.217; Cu3Ti2: Ti 0.4 | model | [1] Turchanin 2008 | Table 2, p. 5, row 20 |  |
-| 1138 | Cu2Ti + Cu4Ti3 -> Cu3Ti2 | Cu2Ti: Ti 0.333; Cu4Ti3: Ti 0.429; Cu3Ti2: Ti 0.4 | experimental | [1] Turchanin 2008; _cites Eremenko 1970_ [doi](https://doi.org/10.1007/bf00796511) | Table 2, p. 6, row 3 |  |
-| 1138 | Cu2Ti \<=> Cu4Ti + Cu3Ti2 | Cu2Ti: Ti 0.333; Cu3Ti2: Ti 0.4 | experimental | [1] Turchanin 2008; _cites Ecob 1979_ [doi](https://doi.org/10.1002/pssa.2210520121) | Table 2, p. 5, row 18 |  |
-| 1133 | Cu2Ti \<=> Cu4Ti + Cu3Ti2 | Cu2Ti: Ti 0.333; Cu3Ti2: Ti 0.4 | experimental | [1] Turchanin 2008; _cites Eremenko 1966_ [doi](https://doi.org/10.1007/bf00775543) | Table 2, p. 5, row 16 |  |
-| 1133 | L \<=> Cu4Ti + Cu2Ti | L: Ti 0.27; Cu2Ti: Ti 0.333 | experimental | [1] Turchanin 2008; _cites Eremenko 1970_ [doi](https://doi.org/10.1007/bf00796511) | Table 2, p. 5, row 11 |  |
-| 1123 | Cu2Ti \<=> Cu4Ti + Cu3Ti2 | Cu2Ti: Ti 0.333; Cu3Ti2: Ti 0.4 | experimental | [1] Turchanin 2008; _cites Eremenko 1970_ [doi](https://doi.org/10.1007/bf00796511) | Table 2, p. 5, row 17 |  |
-| 1123 | L + (Cu) \<=> Cu4Ti |  | experimental | [1] Turchanin 2008; _cites Eremenko 1988_ | Table 2, p. 5, row 5 |  |
-| 1073 | (βTi) \<=> CuTi2 + (αTi) |  | experimental | [1] Turchanin 2008; _cites Ecob 1979_ [doi](https://doi.org/10.1002/pssa.2210520121) | Table 2, p. 7, row 16 |  |
-| 1073 | (βTi) \<=> CuTi2 + (αTi) |  | experimental | [1] Turchanin 2008; _cites Eremenko 1970_ [doi](https://doi.org/10.1007/bf00796511) | Table 2, p. 7, row 15 |  |
-| 1073 | (βTi) \<=> CuTi2 + (αTi) | (βTi): Ti 0.944; CuTi2: Cu 0.333333, Ti 0.666667; (αTi): Ti 0.984 | experimental | [1] Turchanin 2008; _cites Oliker 1996_ [doi](https://doi.org/10.1007/bf01389606) | Table 2, p. 7, row 18 |  |
-| 1072 | (βTi) \<=> CuTi2 + (αTi) | (βTi): Ti 0.951; CuTi2: Ti 0.667; (αTi): Ti 0.986 | model | [1] Turchanin 2008; _cites Turchanin 1995_ | Table 2, p. 7, row 19 |  |
-| 1071 | (βTi) \<=> CuTi2 + (αTi) | (βTi): Ti 0.945; CuTi2: Ti 0.667; (αTi): Ti 0.984 | experimental | [1] Turchanin 2008; _cites Raub 1952_ | Table 2, p. 7, row 14 |  |
-| 1065 | (βTi) \<=> CuTi2 + (αTi) | (βTi): Ti 0.953; CuTi2: Ti 0.667; (αTi): Ti 0.984 | model | [1] Turchanin 2008 | Table 2, p. 7, row 20 |  |
-| 1053 | (βTi) \<=> CuTi2 + (αTi) | CuTi2: Ti 0.667; (αTi): Ti 0.986 | experimental | [1] Turchanin 2008; _cites Nagata 1981_ | Table 2, p. 7, row 17 |  |
-| 1049 | (βTi) \<=> CuTi2 + (αTi) | (βTi): Ti 0.93; CuTi2: Ti 0.667; (αTi): Ti 0.9875 | experimental | [1] Turchanin 2008; _cites Joukainen 1952_ | Table 2, p. 7, row 13 |  |
-| 773 | peritectoid |  | experimental | [1] Turchanin 2008; _cites Eremenko 1988_ | p. 2 | “It is pointed out in \[31\] that there are two modifications of Cu4Ti between which peritectoid transformation occurs at 773 K.” |
+| 1288 | L \<=> CuTi2 | L: Ti 0.667; CuTi2: Cu 0.333333, Ti 0.666667 | experimental | [1] Turchanin 2008; _cites Eremenko 1970_ [doi](https://doi.org/10.1007/bf00796511) | Table 2, p. 7, row 4; `ORC-LKZ5GVT4NO` |  |
+| 1288 | L \<=> CuTi2 | L: Ti 0.667; CuTi2: Cu 0.333333, Ti 0.666667 | experimental | [1] Turchanin 2008; _cites Vigdorovich 1958_ | Table 2, p. 7, row 3; `ORC-ZBETWGM42E` |  |
+| 1285 | L \<=> CuTi2 | L: Ti 0.667; CuTi2: Cu 0.333333, Ti 0.666667 | experimental | [1] Turchanin 2008; _cites Yamane 1994_ [doi](https://doi.org/10.1007/bf00278149) | Table 2, p. 7, row 6; `ORC-4SKZRCBPIG` |  |
+| 1283 | L \<=> CuTi2 | L: Ti 0.667; CuTi2: Cu 0.333333, Ti 0.666667 | experimental | [1] Turchanin 2008; _cites Ecob 1979_ [doi](https://doi.org/10.1002/pssa.2210520121) | Table 2, p. 7, row 5; `ORC-2CREMRATLT` |  |
+| 1282 | L \<=> CuTi2 | L: Ti 0.667; CuTi2: Cu 0.333333, Ti 0.666667 | model | [1] Turchanin 2008 | Table 2, p. 7, row 7; `ORC-NH3TDWXQMI` |  |
+| 1282 | L \<=> CuTi2 + (βTi) | L: Ti 0.69; CuTi2: Ti 0.667 | experimental | [1] Turchanin 2008; _cites Vigdorovich 1958_ | Table 2, p. 7, row 8; `ORC-WEOZKS7FXX` |  |
+| 1278 | L -> CuTi | L: Ti 0.5; CuTi: Cu 0.5, Ti 0.5 | experimental | [1] Turchanin 2008; _cites Trzebiatowski 1953_ | Table 2, p. 6, row 15; `ORC-Z6ZMVFZXRP` |  |
+| 1276 | L \<=> CuTi2 + (βTi) | L: Ti 0.69 | experimental | [1] Turchanin 2008; _cites Ecob 1979_ [doi](https://doi.org/10.1002/pssa.2210520121) | Table 2, p. 7, row 10; `ORC-USRRBCUP45` |  |
+| 1275 | L \<=> CuTi2 + (βTi) | CuTi2: Ti 0.667; (βTi): Ti 0.84 | experimental | [1] Turchanin 2008; _cites Oliker 1996_ [doi](https://doi.org/10.1007/bf01389606) | Table 2, p. 7, row 11; `ORC-QJSUYEUZDN` |  |
+| 1273 | L \<=> CuTi2 + (βTi) | L: Ti 0.69; CuTi2: Ti 0.667 | experimental | [1] Turchanin 2008; _cites Eremenko 1970_ [doi](https://doi.org/10.1007/bf00796511) | Table 2, p. 7, row 9; `ORC-7KY2LKRUNV` |  |
+| 1257 | L -> CuTi | L: Ti 0.5; CuTi: Cu 0.5, Ti 0.5 | experimental | [1] Turchanin 2008; _cites Ecob 1979_ [doi](https://doi.org/10.1002/pssa.2210520121) | Table 2, p. 6, row 18; `ORC-655PDHMN3G` |  |
+| 1257 | L -> CuTi | L: Ti 0.5; CuTi: Cu 0.5, Ti 0.5 | experimental | [1] Turchanin 2008; _cites Eremenko 1970_ [doi](https://doi.org/10.1007/bf00796511) | Table 2, p. 6, row 17; `ORC-X4YDIUBEM3` |  |
+| 1255 | L -> CuTi | L: Ti 0.5; CuTi: Cu 0.5, Ti 0.5 | experimental | [1] Turchanin 2008; _cites Vigdorovich 1958_ | Table 2, p. 6, row 16; `ORC-7VZBIWTK23` |  |
+| 1253 | L -> CuTi | L: Ti 0.5; CuTi: Cu 0.5, Ti 0.5 | experimental | [1] Turchanin 2008; _cites Alisova 1994_ | Table 2, p. 6, row 19; `ORC-KQACSAODRL` |  |
+| 1251 | L -> CuTi | L: Ti 0.505; CuTi: Cu 0.5, Ti 0.5 | model | [1] Turchanin 2008 | Table 2, p. 6, row 21; `ORC-4YRUWKRTBE` |  |
+| 1248 | L -> CuTi | L: Ti 0.507; CuTi: Cu 0.5, Ti 0.5 | model | [1] Turchanin 2008; _cites Turchanin 1995_ | Table 2, p. 6, row 20; `ORC-Y6V6R4DC6L` |  |
+| 1245 | L -> CuTi | L: Ti 0.5; CuTi: Cu 0.5, Ti 0.5 | experimental | [1] Turchanin 2008; _cites Raub 1952_ | Table 2, p. 6, row 14; `ORC-5MKYGSWWQP` |  |
+| 1242 | L \<=> CuTi + CuTi2 | L: Ti 0.564; CuTi: Ti 0.517; CuTi2: Ti 0.667 | model | [1] Turchanin 2008; _cites Turchanin 1995_ | Table 2, p. 7, row 1; `ORC-ANMIHCAFDT` |  |
+| 1234 | L \<=> CuTi + CuTi2 | L: Ti 0.569; CuTi: Ti 0.513; CuTi2: Ti 0.667 | model | [1] Turchanin 2008 | Table 2, p. 7, row 2; `ORC-H5E42P6D46` |  |
+| 1233 | L -> CuTi + CuTi2 | L: Ti 0.43 | experimental | [1] Turchanin 2008; _cites Ecob 1979_ [doi](https://doi.org/10.1002/pssa.2210520121) | Table 2, p. 6, row 25; `ORC-46MGT7SF2R` |  |
+| 1233 | L -> CuTi + CuTi2 | L: Ti 0.57; CuTi: Ti 0.5; CuTi2: Ti 0.667 | experimental | [1] Turchanin 2008; _cites Vigdorovich 1958_ | Table 2, p. 6, row 23; `ORC-6Z6BKGLS7R` |  |
+| 1233 | L -> CuTi + CuTi2 | L: Ti 0.57 | experimental | [1] Turchanin 2008; _cites Eremenko 1970_ [doi](https://doi.org/10.1007/bf00796511) | Table 2, p. 6, row 24; `ORC-V3QOGJZH5K` |  |
+| 1231 | eutectic: L ⇔ CuTi2 + (βTi) |  | model | [1] Turchanin 2008 | p. 12; `ORC-FUZS5HBNI5` | “The calculated temperature of the eutectic reaction L ⇔ CuTi2 + (βTi) is 1231 K (Table 2), which is close to that reported in \[20, 26, 27, 34\].” |
+| 1231 | L \<=> CuTi2 + (βTi) | L: Ti 0.754; CuTi2: Ti 0.667; (βTi): Ti 0.875 | model | [1] Turchanin 2008 | Table 2, p. 7, row 12; `ORC-WWPRSOWHEX` |  |
+| 1227 | L -> CuTi + CuTi2 | L: Ti 0.57; CuTi: Ti 0.5; CuTi2: Ti 0.667 | experimental | [1] Turchanin 2008; _cites Raub 1952_ | Table 2, p. 6, row 22; `ORC-CNIUIHU76H` |  |
+| 1208 | L + CuTi -> Cu4Ti3 | CuTi: Cu 0.5, Ti 0.5; Cu4Ti3: Ti 0.429 | experimental | [1] Turchanin 2008; _cites Alisova 1994_ | Table 2, p. 6, row 11; `ORC-NSC26NQZ52` |  |
+| 1208 | L + CuTi -> Cu4Ti3 | CuTi: Ti 0.5; Cu4Ti3: Ti 0.4 | experimental | [1] Turchanin 2008; _cites Vigdorovich 1958_ | Table 2, p. 6, row 7; `ORC-UFLESJTJC7` |  |
+| 1206 | L + CuTi -> Cu4Ti3 | L: Ti 0.36; CuTi: Ti 0.485; Cu4Ti3: Ti 0.429 | model | [1] Turchanin 2008; _cites Turchanin 1995_ | Table 2, p. 6, row 12; `ORC-YMANYECE3A` |  |
+| 1202 | L + CuTi -> Cu4Ti3 |  | experimental | [1] Turchanin 2008; _cites Ecob 1979_ [doi](https://doi.org/10.1002/pssa.2210520121) | Table 2, p. 6, row 10; `ORC-TPDG5GJXP4` |  |
+| 1191 | L + CuTi -> Cu4Ti3 | Cu4Ti3: Ti 0.429 | experimental | [1] Turchanin 2008; _cites Eremenko 1970_ [doi](https://doi.org/10.1007/bf00796511) | Table 2, p. 6, row 9; `ORC-W3HWC2ILIS` |  |
+| 1189 | L + CuTi -> Cu4Ti3 | L: Ti 0.347; CuTi: Ti 0.49; Cu4Ti3: Ti 0.429 | model | [1] Turchanin 2008 | Table 2, p. 6, row 13; `ORC-3FLSQVEMB2` |  |
+| 1189 | L + CuTi -> Cu4Ti3 | CuTi: Ti 0.5; Cu4Ti3: Ti 0.4 | experimental | [1] Turchanin 2008; _cites Raub 1952_ | Table 2, p. 6, row 6; `ORC-3HHBFM2PX7` |  |
+| 1169 | L + (Cu) \<=> Cu4Ti | L: Ti 0.225; (Cu): Ti 0.07; Cu4Ti: Ti 0.194 | model | [1] Turchanin 2008 | Table 2, p. 5, row 7; `ORC-2DAPOKSL2P` |  |
+| 1169 | L + (Cu) \<=> Cu4Ti | L: Ti 0.208; (Cu): Ti 0.079; Cu4Ti: Ti 0.192 | model | [1] Turchanin 2008; _cites Turchanin 1995_ | Table 2, p. 5, row 6; `ORC-SCSVPFZ2YB` |  |
+| 1165 | L + (Cu) \<=> Cu4Ti |  | experimental | [1] Turchanin 2008; _cites Ecob 1979_ [doi](https://doi.org/10.1002/pssa.2210520121) | Table 2, p. 5, row 4; `ORC-R5ZA3OAZ3X` |  |
+| 1165 | L + Cu4Ti3 \<=> Cu2Ti | Cu4Ti3: Ti 0.4; Cu2Ti: Ti 0.333 | experimental | [1] Turchanin 2008; _cites Vigdorovich 1958_ | Table 2, p. 5, row 21; `ORC-RWIIQTNFJK` |  |
+| 1163 | L + (Cu) \<=> Cu4Ti | L: Ti 0.33; (Cu): Ti 0.063 | experimental | [1] Turchanin 2008; _cites Trzebiatowski 1953_ | Table 2, p. 5, row 2; `ORC-KSKMCZOEGI` |  |
+| 1160 | L + Cu4Ti3 \<=> Cu2Ti | L: Ti 0.272; Cu4Ti3: Ti 0.429; Cu2Ti: Ti 0.333 | model | [1] Turchanin 2008; _cites Turchanin 1995_ | Table 2, p. 5, row 24; `ORC-VW5N3ET5KU` |  |
+| 1158 | L + (Cu) \<=> Cu4Ti | (Cu): Ti 0.056; Cu4Ti: Ti 0.25 | experimental | [1] Turchanin 2008; _cites Raub 1952_ | Table 2, p. 5, row 1; `ORC-4IYFVLYUHY` |  |
+| 1158 | L + Cu4Ti3 \<=> Cu2Ti | Cu2Ti: Ti 0.333 | experimental | [1] Turchanin 2008; _cites Ecob 1979_ [doi](https://doi.org/10.1002/pssa.2210520121) | Table 2, p. 5, row 23; `ORC-JC4YEWZFME` |  |
+| 1158 | L + Cu4Ti3 \<=> Cu2Ti | L: Ti 0.287; Cu4Ti3: Ti 0.429; Cu2Ti: Ti 0.333 | model | [1] Turchanin 2008 | Table 2, p. 5, row 25; `ORC-KTWERUBKED` |  |
+| 1158 | Cu2Ti + Cu4Ti3 -> Cu3Ti2 | Cu2Ti: Ti 0.333; Cu4Ti3: Cu 0.571429, Ti 0.428571; Cu3Ti2: Ti 0.4 | experimental | [1] Turchanin 2008; _cites Vigdorovich 1958_ | Table 2, p. 6, row 1; `ORC-QYSARIJ646` |  |
+| 1158 | L \<=> Cu4Ti + Cu2Ti | L: Ti 0.265; Cu4Ti: Ti 0.214; Cu2Ti: Ti 0.333 | model | [1] Turchanin 2008; _cites Turchanin 1995_ | Table 2, p. 5, row 13; `ORC-ZNLLPU3Q77` |  |
+| 1156 | L \<=> Cu4Ti + Cu2Ti | L: Ti 0.279; Cu4Ti: Ti 0.217; Cu2Ti: Ti 0.333 | model | [1] Turchanin 2008 | Table 2, p. 5, row 14; `ORC-UIM6YHXTFW` |  |
+| 1153 | L \<=> Cu4Ti + Cu2Ti | L: Ti 0.29; Cu4Ti: Ti 0.25; Cu2Ti: Ti 0.333 | experimental | [1] Turchanin 2008; _cites Vigdorovich 1958_ | Table 2, p. 5, row 10; `ORC-RT6JDDH6BX` |  |
+| 1151 | L \<=> Cu4Ti + Cu2Ti | L: Ti 0.27; Cu2Ti: Ti 0.333 | experimental | [1] Turchanin 2008; _cites Ecob 1979_ [doi](https://doi.org/10.1002/pssa.2210520121) | Table 2, p. 5, row 12; `ORC-AYWBCISHMU` |  |
+| 1151 | L + Cu4Ti3 \<=> Cu2Ti | Cu4Ti3: Ti 0.429; Cu2Ti: Ti 0.333 | experimental | [1] Turchanin 2008; _cites Eremenko 1970_ [doi](https://doi.org/10.1007/bf00796511) | Table 2, p. 5, row 22; `ORC-ZZNZO2DNJX` |  |
+| 1150 | Cu2Ti + Cu4Ti3 -> Cu3Ti2 | Cu2Ti: Ti 0.333; Cu4Ti3: Ti 0.429; Cu3Ti2: Ti 0.4 | model | [1] Turchanin 2008 | Table 2, p. 6, row 5; `ORC-CIKYWOL7E3` |  |
+| 1148 | L \<=> Cu4Ti + Cu2Ti | Cu4Ti: Cu 0.8, Ti 0.2; Cu2Ti: Cu 0.666667, Ti 0.333333 | experimental | [1] Turchanin 2008; _cites Trzebiatowski 1953_ | Table 2, p. 5, row 9; `ORC-LR4AOIZVQD` |  |
+| 1148 | Cu2Ti + Cu4Ti3 -> Cu3Ti2 | Cu2Ti: Ti 0.333; Cu4Ti3: Ti 0.429; Cu3Ti2: Ti 0.4 | model | [1] Turchanin 2008; _cites Turchanin 1995_ | Table 2, p. 6, row 4; `ORC-WGTPEW4W45` |  |
+| 1146 | L \<=> Cu4Ti + Cu2Ti | L: Ti 0.34; Cu2Ti: Ti 0.333 | experimental | [1] Turchanin 2008; _cites Raub 1952_ | Table 2, p. 5, row 8; `ORC-EVAQPM5FIV` |  |
+| 1145 | Cu2Ti \<=> Cu4Ti + Cu3Ti2 | Cu2Ti: Ti 0.333; Cu4Ti: Cu 0.8, Ti 0.2; Cu3Ti2: Cu 0.6, Ti 0.4 | experimental | [1] Turchanin 2008; _cites Vigdorovich 1958_ | Table 2, p. 5, row 15; `ORC-LK5YMMWBRA` |  |
+| 1143 | Cu2Ti + Cu4Ti3 -> Cu3Ti2 | Cu2Ti: Ti 0.333; Cu4Ti3: Ti 0.429; Cu3Ti2: Ti 0.4 | experimental | [1] Turchanin 2008; _cites Eremenko 1966_ [doi](https://doi.org/10.1007/bf00775543) | Table 2, p. 6, row 2; `ORC-GTGDPEEXHR` |  |
+| 1143 | L + (Cu) \<=> Cu4Ti |  | experimental | [1] Turchanin 2008; _cites Eremenko 1970_ [doi](https://doi.org/10.1007/bf00796511) | Table 2, p. 5, row 3; `ORC-SUQCFMYF3P` |  |
+| 1142 | Cu2Ti \<=> Cu4Ti + Cu3Ti2 | Cu2Ti: Ti 0.333; Cu4Ti: Ti 0.213; Cu3Ti2: Ti 0.4 | model | [1] Turchanin 2008; _cites Turchanin 1995_ | Table 2, p. 5, row 19; `ORC-REJDSCH7UP` |  |
+| 1138 | Cu2Ti \<=> Cu4Ti + Cu3Ti2 | Cu2Ti: Ti 0.333; Cu4Ti: Ti 0.217; Cu3Ti2: Ti 0.4 | model | [1] Turchanin 2008 | Table 2, p. 5, row 20; `ORC-363H576WMN` |  |
+| 1138 | Cu2Ti + Cu4Ti3 -> Cu3Ti2 | Cu2Ti: Ti 0.333; Cu4Ti3: Ti 0.429; Cu3Ti2: Ti 0.4 | experimental | [1] Turchanin 2008; _cites Eremenko 1970_ [doi](https://doi.org/10.1007/bf00796511) | Table 2, p. 6, row 3; `ORC-GEOQ7Z5PPH` |  |
+| 1138 | Cu2Ti \<=> Cu4Ti + Cu3Ti2 | Cu2Ti: Ti 0.333; Cu3Ti2: Ti 0.4 | experimental | [1] Turchanin 2008; _cites Ecob 1979_ [doi](https://doi.org/10.1002/pssa.2210520121) | Table 2, p. 5, row 18; `ORC-TNUYXCBUSE` |  |
+| 1133 | Cu2Ti \<=> Cu4Ti + Cu3Ti2 | Cu2Ti: Ti 0.333; Cu3Ti2: Ti 0.4 | experimental | [1] Turchanin 2008; _cites Eremenko 1966_ [doi](https://doi.org/10.1007/bf00775543) | Table 2, p. 5, row 16; `ORC-KHXYMOWRWH` |  |
+| 1133 | L \<=> Cu4Ti + Cu2Ti | L: Ti 0.27; Cu2Ti: Ti 0.333 | experimental | [1] Turchanin 2008; _cites Eremenko 1970_ [doi](https://doi.org/10.1007/bf00796511) | Table 2, p. 5, row 11; `ORC-QKHFILK4QI` |  |
+| 1123 | Cu2Ti \<=> Cu4Ti + Cu3Ti2 | Cu2Ti: Ti 0.333; Cu3Ti2: Ti 0.4 | experimental | [1] Turchanin 2008; _cites Eremenko 1970_ [doi](https://doi.org/10.1007/bf00796511) | Table 2, p. 5, row 17; `ORC-XFWKGY4FLL` |  |
+| 1123 | L + (Cu) \<=> Cu4Ti |  | experimental | [1] Turchanin 2008; _cites Eremenko 1988_ | Table 2, p. 5, row 5; `ORC-ZZFEJGFODQ` |  |
+| 1073 | (βTi) \<=> CuTi2 + (αTi) |  | experimental | [1] Turchanin 2008; _cites Ecob 1979_ [doi](https://doi.org/10.1002/pssa.2210520121) | Table 2, p. 7, row 16; `ORC-3MYJMUGQP3` |  |
+| 1073 | (βTi) \<=> CuTi2 + (αTi) |  | experimental | [1] Turchanin 2008; _cites Eremenko 1970_ [doi](https://doi.org/10.1007/bf00796511) | Table 2, p. 7, row 15; `ORC-5S5Q6XVZSE` |  |
+| 1073 | (βTi) \<=> CuTi2 + (αTi) | (βTi): Ti 0.944; CuTi2: Cu 0.333333, Ti 0.666667; (αTi): Ti 0.984 | experimental | [1] Turchanin 2008; _cites Oliker 1996_ [doi](https://doi.org/10.1007/bf01389606) | Table 2, p. 7, row 18; `ORC-DW3DAGL2O2` |  |
+| 1072 | (βTi) \<=> CuTi2 + (αTi) | (βTi): Ti 0.951; CuTi2: Ti 0.667; (αTi): Ti 0.986 | model | [1] Turchanin 2008; _cites Turchanin 1995_ | Table 2, p. 7, row 19; `ORC-UXSUWOCF2Q` |  |
+| 1071 | (βTi) \<=> CuTi2 + (αTi) | (βTi): Ti 0.945; CuTi2: Ti 0.667; (αTi): Ti 0.984 | experimental | [1] Turchanin 2008; _cites Raub 1952_ | Table 2, p. 7, row 14; `ORC-XOSP7O5AOP` |  |
+| 1065 | (βTi) \<=> CuTi2 + (αTi) | (βTi): Ti 0.953; CuTi2: Ti 0.667; (αTi): Ti 0.984 | model | [1] Turchanin 2008 | Table 2, p. 7, row 20; `ORC-X7W2I2UCKZ` |  |
+| 1053 | (βTi) \<=> CuTi2 + (αTi) | CuTi2: Ti 0.667; (αTi): Ti 0.986 | experimental | [1] Turchanin 2008; _cites Nagata 1981_ | Table 2, p. 7, row 17; `ORC-5426HL5SKO` |  |
+| 1049 | (βTi) \<=> CuTi2 + (αTi) | (βTi): Ti 0.93; CuTi2: Ti 0.667; (αTi): Ti 0.9875 | experimental | [1] Turchanin 2008; _cites Joukainen 1952_ | Table 2, p. 7, row 13; `ORC-OXAZZKVHXL` |  |
+| 773 | peritectoid |  | experimental | [1] Turchanin 2008; _cites Eremenko 1988_ | p. 2; `ORC-XSQ2CA6ND4` | “It is pointed out in \[31\] that there are two modifications of Cu4Ti between which peritectoid transformation occurs at 773 K.” |
 
 ## Formation enthalpies
 
@@ -213,18 +213,18 @@ Table: Enthalpies of formation, Cu–Ti system (12)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Cu2Ti |  | -9.871 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Turchanin 2008 | Table 3, p. 8, row 11 |  |
-| Cu3Ti2 |  | -13.927 kJ/mol (basis unstated) |  | model |  |  | [1] Turchanin 2008 | Table 3, p. 8, row 13 |  |
-| Cu3Ti2 |  | -9.35 kJ/mol (basis unstated) ± 1.3 | 298.15 | experimental |  |  | [1] Turchanin 2008; _cites Kaufman 1978_ [doi](https://doi.org/10.1016/0364-5916%2878%2990031-7) | Table 3, p. 8, row 12 |  |
-| Cu4Ti |  | -7.346 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Turchanin 2008 | Table 3, p. 8, row 6 |  |
-| Cu4Ti |  | -5.53 kJ/mol (basis unstated) ± 1.07 | 298.15 | experimental |  |  | [1] Turchanin 2008; _cites Kaufman 1978_ [doi](https://doi.org/10.1016/0364-5916%2878%2990031-7) | Table 3, p. 8, row 1 |  |
-| Cu4Ti3 |  | -14.921 kJ/mol (basis unstated) |  | model |  |  | [1] Turchanin 2008 | Table 3, p. 8, row 15 |  |
-| Cu4Ti3 |  | -9.65 kJ/mol (basis unstated) ± 0.88 | 298.15 | experimental |  |  | [1] Turchanin 2008; _cites Kaufman 1978_ [doi](https://doi.org/10.1016/0364-5916%2878%2990031-7) | Table 3, p. 8, row 14 |  |
-| CuTi |  | -17.534 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Turchanin 2008 | Table 3, p. 8, row 22 |  |
-| CuTi |  | -11.12 kJ/mol (basis unstated) ± 1.72 | 298.15 | experimental |  |  | [1] Turchanin 2008; _cites Kaufman 1978_ [doi](https://doi.org/10.1016/0364-5916%2878%2990031-7) | Table 3, p. 8, row 16 |  |
-| CuTi |  | -9.61 kJ/mol (basis unstated) ± 0.37 | 298.15 | experimental |  |  | [1] Turchanin 2008; _cites Colinet 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902590-x) | Table 3, p. 8, row 17 |  |
-| CuTi2 |  | -24.22 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Turchanin 2008 | Table 3, p. 8, row 29 |  |
-| CuTi2 |  | -8.6 kJ/mol (basis unstated) ± 1.62 | 298.15 | experimental |  |  | [1] Turchanin 2008; _cites Kaufman 1978_ [doi](https://doi.org/10.1016/0364-5916%2878%2990031-7) | Table 3, p. 8, row 27 |  |
+| Cu2Ti |  | -9.871 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Turchanin 2008 | Table 3, p. 8, row 11; `ORC-LHN5SH3S3B` |  |
+| Cu3Ti2 |  | -13.927 kJ/mol (basis unstated) |  | model |  |  | [1] Turchanin 2008 | Table 3, p. 8, row 13; `ORC-WKQX6QJBMJ.fa3c92` |  |
+| Cu3Ti2 |  | -9.35 kJ/mol (basis unstated) ± 1.3 | 298.15 | experimental |  |  | [1] Turchanin 2008; _cites Kaufman 1978_ [doi](https://doi.org/10.1016/0364-5916%2878%2990031-7) | Table 3, p. 8, row 12; `ORC-ADYPH65COU` |  |
+| Cu4Ti |  | -7.346 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Turchanin 2008 | Table 3, p. 8, row 6; `ORC-KYTFMQT52M.101726` |  |
+| Cu4Ti |  | -5.53 kJ/mol (basis unstated) ± 1.07 | 298.15 | experimental |  |  | [1] Turchanin 2008; _cites Kaufman 1978_ [doi](https://doi.org/10.1016/0364-5916%2878%2990031-7) | Table 3, p. 8, row 1; `ORC-IC47SCQHME` |  |
+| Cu4Ti3 |  | -14.921 kJ/mol (basis unstated) |  | model |  |  | [1] Turchanin 2008 | Table 3, p. 8, row 15; `ORC-KDHOLTOPHY.817f89` |  |
+| Cu4Ti3 |  | -9.65 kJ/mol (basis unstated) ± 0.88 | 298.15 | experimental |  |  | [1] Turchanin 2008; _cites Kaufman 1978_ [doi](https://doi.org/10.1016/0364-5916%2878%2990031-7) | Table 3, p. 8, row 14; `ORC-CCNOFAUMDV` |  |
+| CuTi |  | -17.534 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Turchanin 2008 | Table 3, p. 8, row 22; `ORC-7MEPJ2GNFJ.0698d4` |  |
+| CuTi |  | -11.12 kJ/mol (basis unstated) ± 1.72 | 298.15 | experimental |  |  | [1] Turchanin 2008; _cites Kaufman 1978_ [doi](https://doi.org/10.1016/0364-5916%2878%2990031-7) | Table 3, p. 8, row 16; `ORC-UHI37KOOZK` |  |
+| CuTi |  | -9.61 kJ/mol (basis unstated) ± 0.37 | 298.15 | experimental |  |  | [1] Turchanin 2008; _cites Colinet 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902590-x) | Table 3, p. 8, row 17; `ORC-TKLBJ6R4ZS` |  |
+| CuTi2 |  | -24.22 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Turchanin 2008 | Table 3, p. 8, row 29; `ORC-TJRHMFLGA4.a3f29f` |  |
+| CuTi2 |  | -8.6 kJ/mol (basis unstated) ± 1.62 | 298.15 | experimental |  |  | [1] Turchanin 2008; _cites Kaufman 1978_ [doi](https://doi.org/10.1016/0364-5916%2878%2990031-7) | Table 3, p. 8, row 27; `ORC-B4TMQOJZHZ` |  |
 
 ## Other properties
 
@@ -234,9 +234,9 @@ Table: Phase transition, Cu–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1065 K | 1065 | (βTi) ⇔ CuTi2 + (αTi) | model | [1] Turchanin 2008 | p. 14 | “The calculated temperature of the reaction (βTi) ⇔ CuTi2 + (αTi) is 1065 K, which agrees well with the data \[17, 18, 26, 27, 29, 34\].” |
-| Phase transition | 1189 K | 1189 | L+ CuTi ⇔Cu4Ti3 | model | [1] Turchanin 2008 | p. 12 | “The calculated temperature of the reaction L+ CuTi ⇔Cu4Ti3 is 1189 K, which agrees well with the data from \[18, 26\].” |
-| Phase transition | 1251 K | 1251 |  | model | [1] Turchanin 2008 | p. 12 | “The melting point of this compound is 1253 ± 5 K according to the DTA \[32\] and is 1251 K according to the calculation for xTi = 0.505.” |
+| Phase transition | 1065 K | 1065 | (βTi) ⇔ CuTi2 + (αTi) | model | [1] Turchanin 2008 | p. 14; `ORC-RCS3PYI4HC` | “The calculated temperature of the reaction (βTi) ⇔ CuTi2 + (αTi) is 1065 K, which agrees well with the data \[17, 18, 26, 27, 29, 34\].” |
+| Phase transition | 1189 K | 1189 | L+ CuTi ⇔Cu4Ti3 | model | [1] Turchanin 2008 | p. 12; `ORC-4PHSVPOMWZ` | “The calculated temperature of the reaction L+ CuTi ⇔Cu4Ti3 is 1189 K, which agrees well with the data from \[18, 26\].” |
+| Phase transition | 1251 K | 1251 |  | model | [1] Turchanin 2008 | p. 12; `ORC-IRQQOJMOUO` | “The melting point of this compound is 1253 ± 5 K according to the DTA \[32\] and is 1251 K according to the calculation for xTi = 0.505.” |
 
 ### Formation (23)
 
@@ -244,29 +244,29 @@ Table: Formation, Cu–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy of formation; _printed: ΔfS_ | -2.08 J/mol (basis unstated)/K |  | Cu3Ti2; _alloy: Ti 0.4_ | model | [1] Turchanin 2008 | Table 3, p. 8, row 13 |  |
-| Entropy of formation; _printed: ΔfS_ | -2.32 J/mol (basis unstated)/K |  | Cu4Ti3; _alloy: Ti 0.428571_ | model | [1] Turchanin 2008 | Table 3, p. 8, row 15 |  |
-| Entropy of formation; _printed: ΔfS_ | -1.85 J/mol (basis unstated)/K | 298.15 | Cu4Ti; _alloy: Ti 0.2_ | model | [1] Turchanin 2008 | Table 3, p. 8, row 6 |  |
-| Entropy of formation; _printed: ΔfS_ | -3.37 J/mol (basis unstated)/K | 298.15 | CuTi; _alloy: Ti 0.5_ | model | [1] Turchanin 2008 | Table 3, p. 8, row 22 |  |
-| Entropy of formation; _printed: ΔfS_ | -8.5 J/mol (basis unstated)/K | 298.15 | CuTi2; _alloy: Ti 0.666667_ | model | [1] Turchanin 2008 | Table 3, p. 8, row 29 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -6.864 kJ/mol (basis unstated) | 673 | Cu4Ti; _alloy: Ti 0.2_ | model | [1] Turchanin 2008 | Table 3, p. 8, row 7 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -4.627 kJ/mol (basis unstated) | 673 | Cu4Ti; _alloy: Ti 0.2_ | experimental | [1] Turchanin 2008; _cites Kleppa 1982_ [doi](https://doi.org/10.1007/bf02667755) | Table 3, p. 8, row 2 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -9.815 kJ/mol (basis unstated) | 673 | CuTi; _alloy: Ti 0.5_ | experimental | [1] Turchanin 2008; _cites Kleppa 1982_ [doi](https://doi.org/10.1007/bf02667755) | Table 3, p. 8, row 18 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -16.384 kJ/mol (basis unstated) | 673 | CuTi; _alloy: Ti 0.5_ | model | [1] Turchanin 2008 | Table 3, p. 8, row 23 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -6.793 kJ/mol (basis unstated) | 723 | Cu4Ti; _alloy: Ti 0.2_ | model | [1] Turchanin 2008 | Table 3, p. 8, row 8 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -4.694 kJ/mol (basis unstated) | 723 | Cu4Ti; _alloy: Ti 0.2_ | experimental | [1] Turchanin 2008; _cites Kleppa 1982_ [doi](https://doi.org/10.1007/bf02667755) | Table 3, p. 8, row 3 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -9.875 kJ/mol (basis unstated) | 723 | CuTi; _alloy: Ti 0.5_ | experimental | [1] Turchanin 2008; _cites Kleppa 1982_ [doi](https://doi.org/10.1007/bf02667755) | Table 3, p. 8, row 19 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -16.077 kJ/mol (basis unstated) | 723 | CuTi; _alloy: Ti 0.5_ | model | [1] Turchanin 2008 | Table 3, p. 8, row 24 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -4.789 kJ/mol (basis unstated) | 773 | Cu4Ti; _alloy: Ti 0.2_ | experimental | [1] Turchanin 2008; _cites Kleppa 1982_ [doi](https://doi.org/10.1007/bf02667755) | Table 3, p. 8, row 4 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -6.731 kJ/mol (basis unstated) | 773 | Cu4Ti; _alloy: Ti 0.2_ | model | [1] Turchanin 2008 | Table 3, p. 8, row 9 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -15.776 kJ/mol (basis unstated) | 773 | CuTi; _alloy: Ti 0.5_ | model | [1] Turchanin 2008 | Table 3, p. 8, row 25 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -9.715 kJ/mol (basis unstated) | 773 | CuTi; _alloy: Ti 0.5_ | experimental | [1] Turchanin 2008; _cites Kleppa 1982_ [doi](https://doi.org/10.1007/bf02667755) | Table 3, p. 8, row 20 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -8.75 kJ/mol (basis unstated) | 773 | CuTi2; _alloy: Ti 0.666667_ | experimental | [1] Turchanin 2008; _cites Kleppa 1982_ [doi](https://doi.org/10.1007/bf02667755) | Table 3, p. 8, row 28 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -18.778 kJ/mol (basis unstated) | 773 | CuTi2; _alloy: Ti 0.666667_ | model | [1] Turchanin 2008 | Table 3, p. 8, row 30 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -6.676 kJ/mol (basis unstated) | 823 | Cu4Ti; _alloy: Ti 0.2_ | model | [1] Turchanin 2008 | Table 3, p. 8, row 10 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -4.501 kJ/mol (basis unstated) | 823 | Cu4Ti; _alloy: Ti 0.2_ | experimental | [1] Turchanin 2008; _cites Kleppa 1982_ [doi](https://doi.org/10.1007/bf02667755) | Table 3, p. 8, row 5 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -9.835 kJ/mol (basis unstated) | 823 | CuTi; _alloy: Ti 0.5_ | experimental | [1] Turchanin 2008; _cites Kleppa 1982_ [doi](https://doi.org/10.1007/bf02667755) | Table 3, p. 8, row 21 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -15.481 kJ/mol (basis unstated) | 823 | CuTi; _alloy: Ti 0.5_ | model | [1] Turchanin 2008 | Table 3, p. 8, row 26 |  |
+| Entropy of formation; _printed: ΔfS_ | -2.08 J/mol (basis unstated)/K |  | Cu3Ti2; _alloy: Ti 0.4_ | model | [1] Turchanin 2008 | Table 3, p. 8, row 13; `ORC-WKQX6QJBMJ.b58426` |  |
+| Entropy of formation; _printed: ΔfS_ | -2.32 J/mol (basis unstated)/K |  | Cu4Ti3; _alloy: Ti 0.428571_ | model | [1] Turchanin 2008 | Table 3, p. 8, row 15; `ORC-KDHOLTOPHY.0a6527` |  |
+| Entropy of formation; _printed: ΔfS_ | -1.85 J/mol (basis unstated)/K | 298.15 | Cu4Ti; _alloy: Ti 0.2_ | model | [1] Turchanin 2008 | Table 3, p. 8, row 6; `ORC-KYTFMQT52M.29ebbf` |  |
+| Entropy of formation; _printed: ΔfS_ | -3.37 J/mol (basis unstated)/K | 298.15 | CuTi; _alloy: Ti 0.5_ | model | [1] Turchanin 2008 | Table 3, p. 8, row 22; `ORC-7MEPJ2GNFJ.ef4318` |  |
+| Entropy of formation; _printed: ΔfS_ | -8.5 J/mol (basis unstated)/K | 298.15 | CuTi2; _alloy: Ti 0.666667_ | model | [1] Turchanin 2008 | Table 3, p. 8, row 29; `ORC-TJRHMFLGA4.3b23df` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -6.864 kJ/mol (basis unstated) | 673 | Cu4Ti; _alloy: Ti 0.2_ | model | [1] Turchanin 2008 | Table 3, p. 8, row 7; `ORC-FXPILCKKYF` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -4.627 kJ/mol (basis unstated) | 673 | Cu4Ti; _alloy: Ti 0.2_ | experimental | [1] Turchanin 2008; _cites Kleppa 1982_ [doi](https://doi.org/10.1007/bf02667755) | Table 3, p. 8, row 2; `ORC-QQX7J5E322` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -9.815 kJ/mol (basis unstated) | 673 | CuTi; _alloy: Ti 0.5_ | experimental | [1] Turchanin 2008; _cites Kleppa 1982_ [doi](https://doi.org/10.1007/bf02667755) | Table 3, p. 8, row 18; `ORC-E7SRCKVXSX` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -16.384 kJ/mol (basis unstated) | 673 | CuTi; _alloy: Ti 0.5_ | model | [1] Turchanin 2008 | Table 3, p. 8, row 23; `ORC-IRJ3CDNHCU` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -6.793 kJ/mol (basis unstated) | 723 | Cu4Ti; _alloy: Ti 0.2_ | model | [1] Turchanin 2008 | Table 3, p. 8, row 8; `ORC-23YGIDKDHP` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -4.694 kJ/mol (basis unstated) | 723 | Cu4Ti; _alloy: Ti 0.2_ | experimental | [1] Turchanin 2008; _cites Kleppa 1982_ [doi](https://doi.org/10.1007/bf02667755) | Table 3, p. 8, row 3; `ORC-ZEUXUABMNR` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -9.875 kJ/mol (basis unstated) | 723 | CuTi; _alloy: Ti 0.5_ | experimental | [1] Turchanin 2008; _cites Kleppa 1982_ [doi](https://doi.org/10.1007/bf02667755) | Table 3, p. 8, row 19; `ORC-TSWWJ4VDL5` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -16.077 kJ/mol (basis unstated) | 723 | CuTi; _alloy: Ti 0.5_ | model | [1] Turchanin 2008 | Table 3, p. 8, row 24; `ORC-YZE54VST4O` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -4.789 kJ/mol (basis unstated) | 773 | Cu4Ti; _alloy: Ti 0.2_ | experimental | [1] Turchanin 2008; _cites Kleppa 1982_ [doi](https://doi.org/10.1007/bf02667755) | Table 3, p. 8, row 4; `ORC-H6CL4TBHU6` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -6.731 kJ/mol (basis unstated) | 773 | Cu4Ti; _alloy: Ti 0.2_ | model | [1] Turchanin 2008 | Table 3, p. 8, row 9; `ORC-OHVHLBIE7Q` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -15.776 kJ/mol (basis unstated) | 773 | CuTi; _alloy: Ti 0.5_ | model | [1] Turchanin 2008 | Table 3, p. 8, row 25; `ORC-CSWR4DJE2G` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -9.715 kJ/mol (basis unstated) | 773 | CuTi; _alloy: Ti 0.5_ | experimental | [1] Turchanin 2008; _cites Kleppa 1982_ [doi](https://doi.org/10.1007/bf02667755) | Table 3, p. 8, row 20; `ORC-GMFMM4NTMB` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -8.75 kJ/mol (basis unstated) | 773 | CuTi2; _alloy: Ti 0.666667_ | experimental | [1] Turchanin 2008; _cites Kleppa 1982_ [doi](https://doi.org/10.1007/bf02667755) | Table 3, p. 8, row 28; `ORC-4XLP3NQIY6` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -18.778 kJ/mol (basis unstated) | 773 | CuTi2; _alloy: Ti 0.666667_ | model | [1] Turchanin 2008 | Table 3, p. 8, row 30; `ORC-MFCIYD77CV` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -6.676 kJ/mol (basis unstated) | 823 | Cu4Ti; _alloy: Ti 0.2_ | model | [1] Turchanin 2008 | Table 3, p. 8, row 10; `ORC-Q26BTBSYKM` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -4.501 kJ/mol (basis unstated) | 823 | Cu4Ti; _alloy: Ti 0.2_ | experimental | [1] Turchanin 2008; _cites Kleppa 1982_ [doi](https://doi.org/10.1007/bf02667755) | Table 3, p. 8, row 5; `ORC-R74YEZ5TGI` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -9.835 kJ/mol (basis unstated) | 823 | CuTi; _alloy: Ti 0.5_ | experimental | [1] Turchanin 2008; _cites Kleppa 1982_ [doi](https://doi.org/10.1007/bf02667755) | Table 3, p. 8, row 21; `ORC-DJNIQU22IQ` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -15.481 kJ/mol (basis unstated) | 823 | CuTi; _alloy: Ti 0.5_ | model | [1] Turchanin 2008 | Table 3, p. 8, row 26; `ORC-FW6BAAOS7H` |  |
 
 ### Heat capacity / entropy / enthalpy (3)
 
@@ -274,9 +274,9 @@ Table: Heat capacity / entropy / enthalpy, Cu–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: ΔmS_ | 12.7 J/(mole · K) | 1248 | CuTi; _alloy: Ti 0.5_ | experimental | [1] Turchanin 2008; _cites Colinet 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902590-x) | Table 3, p. 8, row 31 |  |
-| Entropy; _printed: ΔmS_ | 15 J/(mole · K) | 1250 | CuTi; _alloy: Ti 0.5_ | experimental | [1] Turchanin 2008; _cites Alisova 1994_ | Table 3, p. 8, row 32 |  |
-| Entropy; _printed: ΔmS_ | 12.64 J/(mole · K) | 1251 | CuTi; _alloy: Ti 0.5_ | model | [1] Turchanin 2008 | Table 3, p. 8, row 33 |  |
+| Entropy; _printed: ΔmS_ | 12.7 J/(mole · K) | 1248 | CuTi; _alloy: Ti 0.5_ | experimental | [1] Turchanin 2008; _cites Colinet 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902590-x) | Table 3, p. 8, row 31; `ORC-HX24QSAJQL` |  |
+| Entropy; _printed: ΔmS_ | 15 J/(mole · K) | 1250 | CuTi; _alloy: Ti 0.5_ | experimental | [1] Turchanin 2008; _cites Alisova 1994_ | Table 3, p. 8, row 32; `ORC-LYMJHVCIQ7` |  |
+| Entropy; _printed: ΔmS_ | 12.64 J/(mole · K) | 1251 | CuTi; _alloy: Ti 0.5_ | model | [1] Turchanin 2008 | Table 3, p. 8, row 33; `ORC-SGINKP4Z7Z` |  |
 
 ## Sources
 
@@ -341,4 +341,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

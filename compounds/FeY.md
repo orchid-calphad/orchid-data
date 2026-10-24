@@ -14,15 +14,15 @@ Table: Enthalpy of formation of FeY reported in the literature (9)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -5.3 per mol-atom | FeY | 973 | experimental | Interpolation | [Fe–Y](https://data.orchid-project.org/systems/FE-Y.html) | [1] Kardellass 2014; _cites Subramanian 1984_ [doi](https://doi.org/10.1016/0364-5916%2884%2990033-6) | Table 4, p. 4, row 23 |  |
-| -12.5 kJ/mol-atom | FeY | 298.15 | model | Prediction (b) | [Fe–Y](https://data.orchid-project.org/systems/FE-Y.html) | [2] Saenko 2017; _cites Watson 1984_ [doi](https://doi.org/10.1016/0364-5916%2884%2990034-8) | Table 5, p. 12, row 42 |  |
-| -9.4 kJ/mol-atom | FeY | 973 | model | Interpolation | [Fe–Y](https://data.orchid-project.org/systems/FE-Y.html) | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 45 |  |
-| -9 per mol-atom | FeY | 973 | model | Interpolation | [Fe–Y](https://data.orchid-project.org/systems/FE-Y.html) | [1] Kardellass 2014 | Table 4, p. 4, row 24 |  |
-| -8.8 kJ/mol-atom | FeY | 973 | model | Interpolation | [Fe–Y](https://data.orchid-project.org/systems/FE-Y.html) | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 46 |  |
-| -5.9 kJ/mol-atom | FeY | 0 | model | Interpolation | [Fe–Y](https://data.orchid-project.org/systems/FE-Y.html) | [2] Saenko 2017; _cites Mihalkovic 2004_ [doi](https://doi.org/10.1103/physrevb.70.144107) | Table 5, p. 12, row 40 |  |
-| -5.8 kJ/mol-atom | FeY | 973 | model | Interpolation | [Fe–Y](https://data.orchid-project.org/systems/FE-Y.html) | [2] Saenko 2017 | Table 5, p. 12, row 44 |  |
-| -5.3 kJ/mol-atom | FeY | 973 | model | Interpolation | [Fe–Y](https://data.orchid-project.org/systems/FE-Y.html) | [2] Saenko 2017; _cites Subramanian 1984_ [doi](https://doi.org/10.1016/0364-5916%2884%2990033-6) | Table 5, p. 12, row 43 |  |
-| -2 kJ/mol-atom | FeY | 298.15 | model | Prediction (a) | [Fe–Y](https://data.orchid-project.org/systems/FE-Y.html) | [2] Saenko 2017; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 5, p. 12, row 41 |  |
+| -5.3 per mol-atom | FeY | 973 | experimental | Interpolation | [Fe–Y](https://data.orchid-project.org/systems/FE-Y.html) | [1] Kardellass 2014; _cites Subramanian 1984_ [doi](https://doi.org/10.1016/0364-5916%2884%2990033-6) | Table 4, p. 4, row 23; `ORC-HXUFO6PAJ2` |  |
+| -12.5 kJ/mol-atom | FeY | 298.15 | model | Prediction (b) | [Fe–Y](https://data.orchid-project.org/systems/FE-Y.html) | [2] Saenko 2017; _cites Watson 1984_ [doi](https://doi.org/10.1016/0364-5916%2884%2990034-8) | Table 5, p. 12, row 42; `ORC-HH35CEJQF6.c3a472` |  |
+| -9.4 kJ/mol-atom | FeY | 973 | model | Interpolation | [Fe–Y](https://data.orchid-project.org/systems/FE-Y.html) | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 45; `ORC-IIIWFVRG2N.a0809b` |  |
+| -9 per mol-atom | FeY | 973 | model | Interpolation | [Fe–Y](https://data.orchid-project.org/systems/FE-Y.html) | [1] Kardellass 2014 | Table 4, p. 4, row 24; `ORC-CE2FNWBJ53` |  |
+| -8.8 kJ/mol-atom | FeY | 973 | model | Interpolation | [Fe–Y](https://data.orchid-project.org/systems/FE-Y.html) | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 46; `ORC-VJKMOTPGKA.e420c6` |  |
+| -5.9 kJ/mol-atom | FeY | 0 | model | Interpolation | [Fe–Y](https://data.orchid-project.org/systems/FE-Y.html) | [2] Saenko 2017; _cites Mihalkovic 2004_ [doi](https://doi.org/10.1103/physrevb.70.144107) | Table 5, p. 12, row 40; `ORC-M77IICW4LD.dcbec8` |  |
+| -5.8 kJ/mol-atom | FeY | 973 | model | Interpolation | [Fe–Y](https://data.orchid-project.org/systems/FE-Y.html) | [2] Saenko 2017 | Table 5, p. 12, row 44; `ORC-NX54UA2XIM.6ca9a7` |  |
+| -5.3 kJ/mol-atom | FeY | 973 | model | Interpolation | [Fe–Y](https://data.orchid-project.org/systems/FE-Y.html) | [2] Saenko 2017; _cites Subramanian 1984_ [doi](https://doi.org/10.1016/0364-5916%2884%2990033-6) | Table 5, p. 12, row 43; `ORC-C6J34EGURA.af2d48` |  |
+| -2 kJ/mol-atom | FeY | 298.15 | model | Prediction (a) | [Fe–Y](https://data.orchid-project.org/systems/FE-Y.html) | [2] Saenko 2017; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 5, p. 12, row 41; `ORC-JEGUIXS57F.14d452` |  |
 
 ### Uncertainty budget
 
@@ -106,4 +106,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

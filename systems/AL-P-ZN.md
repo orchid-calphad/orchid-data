@@ -29,15 +29,15 @@ Table: Invariant reactions reported in the literature for the Al–P–Zn system
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1269.15 | eutectic: L -> Zn3P2 + ZnP2 | L: P 0.59 | model | [1] Tu 2009 | Table 2, p. 4, row 11 |  |
-| 1253.15 | eutectic: L -> Zn3P2 + ZnP2 | L: P 0.55 | unspecified | [1] Tu 2009; _cites Dutkiewicz 1991_ | Table 2, p. 4, row 12 |  |
-| 933.65 | eutectic: L -> (Al) + AlP | L: P 0 | model | [1] Tu 2009 | Table 2, p. 4, row 1 |  |
-| 933.15 | eutectic: L -> (Al) + AlP | L: P 0 | unspecified | [1] Tu 2009; _cites McAlister 1985_ [doi](https://doi.org/10.1007/bf02880402) | Table 2, p. 4, row 2 |  |
-| 689.15 | eutectic: L -> (Zn) + Zn3P2 | L: P 0.064 | model | [1] Tu 2009 | Table 2, p. 4, row 7 |  |
-| 689.15 | eutectic: L -> (Zn) + Zn3P2 | L: P 0.066 | unspecified | [1] Tu 2009; _cites Dutkiewicz 1991_ | Table 2, p. 4, row 8 |  |
-| 317.35 | eutectic: L -> (White-P) + AlP | L: P 1 | model | [1] Tu 2009 | Table 2, p. 4, row 5 |  |
-| 317.15 | eutectic: L -> (White-P) + AlP | L: P 1 | unspecified | [1] Tu 2009; _cites McAlister 1985_ [doi](https://doi.org/10.1007/bf02880402) | Table 2, p. 4, row 6 |  |
-| 317.15 | eutectic: L -> ZnP2 + (White-P) | L: P 1 | model | [1] Tu 2009 | Table 2, p. 4, row 15 |  |
+| 1269.15 | eutectic: L -> Zn3P2 + ZnP2 | L: P 0.59 | model | [1] Tu 2009 | Table 2, p. 4, row 11; `ORC-F3YPCJUTAQ` |  |
+| 1253.15 | eutectic: L -> Zn3P2 + ZnP2 | L: P 0.55 | unspecified | [1] Tu 2009; _cites Dutkiewicz 1991_ | Table 2, p. 4, row 12; `ORC-HR4TNMX3TU` |  |
+| 933.65 | eutectic: L -> (Al) + AlP | L: P 0 | model | [1] Tu 2009 | Table 2, p. 4, row 1; `ORC-JZSBKGAOH2` |  |
+| 933.15 | eutectic: L -> (Al) + AlP | L: P 0 | unspecified | [1] Tu 2009; _cites McAlister 1985_ [doi](https://doi.org/10.1007/bf02880402) | Table 2, p. 4, row 2; `ORC-DSZZTEPES7` |  |
+| 689.15 | eutectic: L -> (Zn) + Zn3P2 | L: P 0.064 | model | [1] Tu 2009 | Table 2, p. 4, row 7; `ORC-7TXMB4CCDT` |  |
+| 689.15 | eutectic: L -> (Zn) + Zn3P2 | L: P 0.066 | unspecified | [1] Tu 2009; _cites Dutkiewicz 1991_ | Table 2, p. 4, row 8; `ORC-OBIJ3F7XTB` |  |
+| 317.35 | eutectic: L -> (White-P) + AlP | L: P 1 | model | [1] Tu 2009 | Table 2, p. 4, row 5; `ORC-I6KVZZO3C7` |  |
+| 317.15 | eutectic: L -> (White-P) + AlP | L: P 1 | unspecified | [1] Tu 2009; _cites McAlister 1985_ [doi](https://doi.org/10.1007/bf02880402) | Table 2, p. 4, row 6; `ORC-3MCGPSPI34` |  |
+| 317.15 | eutectic: L -> ZnP2 + (White-P) | L: P 1 | model | [1] Tu 2009 | Table 2, p. 4, row 15; `ORC-VDUSYUAGRB` |  |
 
 ## Other properties
 
@@ -47,20 +47,20 @@ Table: Phase equilibrium, Al–P–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  |  | Zn3P2 + α-Al; _α-Al: Al 0.784, P 0, Zn 0.216_ | experimental | [1] Tu 2009 | Table 4, p. 5, row 13 |  |
-| Phase composition |  |  | Zn3P2 + α-Al; _Zn3P2: Al 0.01, P 0.419, Zn 0.571; α-Al: Zn 0.328_ | experimental | [1] Tu 2009 | Table 4, p. 5, row 4 |  |
-| Phase composition |  |  | Zn3P2 + α-Al; _Zn3P2: Al 0, P 0.421, Zn 0.579; α-Al: Zn 0.216_ | experimental | [1] Tu 2009 | Table 4, p. 5, row 6 |  |
-| Phase composition |  |  | Zn3P2 + α-Al; _Zn3P2: Al 0, P 0.42, Zn 0.58; α-Al: Al 0.983, P 0, Zn 0.017_ | experimental | [1] Tu 2009 | Table 4, p. 5, row 5 |  |
-| Phase composition |  |  | Zn3P2 + α-Al; _α-Al: Al 0.672, P 0, Zn 0.328_ | experimental | [1] Tu 2009 | Table 4, p. 5, row 12 |  |
-| Phase composition |  |  | Zn3P2 + α-Al + ZnP2; _Zn3P2: Al 0, P 0.419, Zn 0.581; ZnP2: Al 0, P 0.66, Zn 0.34_ | experimental | [1] Tu 2009 | Table 4, p. 5, row 7 |  |
-| Phase composition |  |  | Zn3P2 + α-Al + ZnP2; _α-Al: Al 0.99, P 0, Zn 0.01_ | experimental | [1] Tu 2009 | Table 4, p. 5, row 14 |  |
-| Phase composition |  |  | Zn3P2 + η-Zn; _Zn3P2: Al 0, P 0.416, Zn 0.584; η-Zn: Zn 0.866_ | experimental | [1] Tu 2009 | Table 4, p. 5, row 2 |  |
-| Phase composition |  |  | Zn3P2 + η-Zn; _η-Zn: Al 0.134, P 0, Zn 0.866_ | experimental | [1] Tu 2009 | Table 4, p. 5, row 10 |  |
-| Phase composition |  |  | Zn3P2 + η-Zn; _Zn3P2: Al 0, P 0.415, Zn 0.585; η-Zn: Zn 0.929_ | experimental | [1] Tu 2009 | Table 4, p. 5, row 1 |  |
-| Phase composition |  |  | Zn3P2 + η-Zn; _η-Zn: Al 0.071, P 0, Zn 0.929_ | experimental | [1] Tu 2009 | Table 4, p. 5, row 9 |  |
-| Phase composition |  |  | Zn3P2 + η-Zn + α-Al; _η-Zn: Al 0.282, P 0, Zn 0.718; α-Al: Al 0.618, P 0, Zn 0.382_ | experimental | [1] Tu 2009 | Table 4, p. 5, row 11 |  |
-| Phase composition |  |  | Zn3P2 + η-Zn + α-Al; _Zn3P2: Al 0, P 0.415, Zn 0.585; η-Zn: Zn 0.718; α-Al: Zn 0.382_ | experimental | [1] Tu 2009 | Table 4, p. 5, row 3 |  |
-| Phase composition |  |  | α-Al + ZnP2; _α-Al: Al 0.999, P 0, Zn 0.001; ZnP2: Al 0.001, P 0.66, Zn 0.339_ | experimental | [1] Tu 2009 | Table 4, p. 5, row 8 |  |
+| Phase composition |  |  | Zn3P2 + α-Al; _α-Al: Al 0.784, P 0, Zn 0.216_ | experimental | [1] Tu 2009 | Table 4, p. 5, row 13; `ORC-2YR7FZAZPY` |  |
+| Phase composition |  |  | Zn3P2 + α-Al; _Zn3P2: Al 0.01, P 0.419, Zn 0.571; α-Al: Zn 0.328_ | experimental | [1] Tu 2009 | Table 4, p. 5, row 4; `ORC-AHNNHSKN4R` |  |
+| Phase composition |  |  | Zn3P2 + α-Al; _Zn3P2: Al 0, P 0.421, Zn 0.579; α-Al: Zn 0.216_ | experimental | [1] Tu 2009 | Table 4, p. 5, row 6; `ORC-FPH2B26TUB` |  |
+| Phase composition |  |  | Zn3P2 + α-Al; _Zn3P2: Al 0, P 0.42, Zn 0.58; α-Al: Al 0.983, P 0, Zn 0.017_ | experimental | [1] Tu 2009 | Table 4, p. 5, row 5; `ORC-QFLC5FB3EW` |  |
+| Phase composition |  |  | Zn3P2 + α-Al; _α-Al: Al 0.672, P 0, Zn 0.328_ | experimental | [1] Tu 2009 | Table 4, p. 5, row 12; `ORC-VFBQBJWG75` |  |
+| Phase composition |  |  | Zn3P2 + α-Al + ZnP2; _Zn3P2: Al 0, P 0.419, Zn 0.581; ZnP2: Al 0, P 0.66, Zn 0.34_ | experimental | [1] Tu 2009 | Table 4, p. 5, row 7; `ORC-DL7IPWIQCL` |  |
+| Phase composition |  |  | Zn3P2 + α-Al + ZnP2; _α-Al: Al 0.99, P 0, Zn 0.01_ | experimental | [1] Tu 2009 | Table 4, p. 5, row 14; `ORC-VKUUIH3X63` |  |
+| Phase composition |  |  | Zn3P2 + η-Zn; _Zn3P2: Al 0, P 0.416, Zn 0.584; η-Zn: Zn 0.866_ | experimental | [1] Tu 2009 | Table 4, p. 5, row 2; `ORC-EUCGKN6QSS` |  |
+| Phase composition |  |  | Zn3P2 + η-Zn; _η-Zn: Al 0.134, P 0, Zn 0.866_ | experimental | [1] Tu 2009 | Table 4, p. 5, row 10; `ORC-GPGQRBWN35` |  |
+| Phase composition |  |  | Zn3P2 + η-Zn; _Zn3P2: Al 0, P 0.415, Zn 0.585; η-Zn: Zn 0.929_ | experimental | [1] Tu 2009 | Table 4, p. 5, row 1; `ORC-ISTGQ6JI3P` |  |
+| Phase composition |  |  | Zn3P2 + η-Zn; _η-Zn: Al 0.071, P 0, Zn 0.929_ | experimental | [1] Tu 2009 | Table 4, p. 5, row 9; `ORC-W5JMQSE5DH` |  |
+| Phase composition |  |  | Zn3P2 + η-Zn + α-Al; _η-Zn: Al 0.282, P 0, Zn 0.718; α-Al: Al 0.618, P 0, Zn 0.382_ | experimental | [1] Tu 2009 | Table 4, p. 5, row 11; `ORC-JBEX5IYA7W` |  |
+| Phase composition |  |  | Zn3P2 + η-Zn + α-Al; _Zn3P2: Al 0, P 0.415, Zn 0.585; η-Zn: Zn 0.718; α-Al: Zn 0.382_ | experimental | [1] Tu 2009 | Table 4, p. 5, row 3; `ORC-WTGHKF35DQ` |  |
+| Phase composition |  |  | α-Al + ZnP2; _α-Al: Al 0.999, P 0, Zn 0.001; ZnP2: Al 0.001, P 0.66, Zn 0.339_ | experimental | [1] Tu 2009 | Table 4, p. 5, row 8; `ORC-R43KLNYVDZ` |  |
 
 ## Sources
 
@@ -103,4 +103,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

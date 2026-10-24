@@ -30,11 +30,11 @@ Table: Crystal structure, B–Co system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 5.016 Å | 298.15 | Co2B; _alloy: Co 0.666667_ | experimental | [1] Chen 2013; _cites Omori 1976_ [doi](https://doi.org/10.2320/jinstmet1952.40.6_601) | Table 1, p. 3, row 6 |  |
-| Lattice a | 5.253 Å | 298.15 | CoB; _alloy: Co 0.5_ | experimental | [1] Chen 2013; _cites Omori 1976_ [doi](https://doi.org/10.2320/jinstmet1952.40.6_601) | Table 1, p. 3, row 7 |  |
-| Lattice b | 3.043 Å | 298.15 | CoB; _alloy: Co 0.5_ | experimental | [1] Chen 2013; _cites Omori 1976_ [doi](https://doi.org/10.2320/jinstmet1952.40.6_601) | Table 1, p. 3, row 7 |  |
-| Lattice c | 4.22 Å | 298.15 | Co2B; _alloy: Co 0.666667_ | experimental | [1] Chen 2013; _cites Omori 1976_ [doi](https://doi.org/10.2320/jinstmet1952.40.6_601) | Table 1, p. 3, row 6 |  |
-| Lattice c | 3.956 Å | 298.15 | CoB; _alloy: Co 0.5_ | experimental | [1] Chen 2013; _cites Omori 1976_ [doi](https://doi.org/10.2320/jinstmet1952.40.6_601) | Table 1, p. 3, row 7 |  |
+| Lattice a | 5.016 Å | 298.15 | Co2B; _alloy: Co 0.666667_ | experimental | [1] Chen 2013; _cites Omori 1976_ [doi](https://doi.org/10.2320/jinstmet1952.40.6_601) | Table 1, p. 3, row 6; `ORC-RHL754EKK4.0a4314` |  |
+| Lattice a | 5.253 Å | 298.15 | CoB; _alloy: Co 0.5_ | experimental | [1] Chen 2013; _cites Omori 1976_ [doi](https://doi.org/10.2320/jinstmet1952.40.6_601) | Table 1, p. 3, row 7; `ORC-7VXBQNGM7U.699ad9` |  |
+| Lattice b | 3.043 Å | 298.15 | CoB; _alloy: Co 0.5_ | experimental | [1] Chen 2013; _cites Omori 1976_ [doi](https://doi.org/10.2320/jinstmet1952.40.6_601) | Table 1, p. 3, row 7; `ORC-7VXBQNGM7U.6e4937` |  |
+| Lattice c | 4.22 Å | 298.15 | Co2B; _alloy: Co 0.666667_ | experimental | [1] Chen 2013; _cites Omori 1976_ [doi](https://doi.org/10.2320/jinstmet1952.40.6_601) | Table 1, p. 3, row 6; `ORC-RHL754EKK4.7942d0` |  |
+| Lattice c | 3.956 Å | 298.15 | CoB; _alloy: Co 0.5_ | experimental | [1] Chen 2013; _cites Omori 1976_ [doi](https://doi.org/10.2320/jinstmet1952.40.6_601) | Table 1, p. 3, row 7; `ORC-7VXBQNGM7U.32e5f0` |  |
 
 ## Sources
 
@@ -88,4 +88,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

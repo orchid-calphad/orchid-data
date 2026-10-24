@@ -66,8 +66,8 @@ Table: Invariant reactions reported in the literature for the Cd–Sr system (2)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 594.15 | Liquid -> (Cd)+SrCd11 | Liquid: Cd 1; (Cd): Cd 1; SrCd11: Cd 0.9167; L: Cd 1 | experimental | [1] Zhang 2013; _cites Koster 1965_ | Table 4, p. 5, row 1 |  |
-| 591.75 | Liquid -> (Cd)+SrCd11 | Liquid: Cd 0.996; (Cd): Cd 1; SrCd11: Cd 0.9167; L: Cd 0.996 | model | [1] Zhang 2013 | Table 4, p. 5, row 2 |  |
+| 594.15 | Liquid -> (Cd)+SrCd11 | Liquid: Cd 1; (Cd): Cd 1; SrCd11: Cd 0.9167; L: Cd 1 | experimental | [1] Zhang 2013; _cites Koster 1965_ | Table 4, p. 5, row 1; `ORC-GKS7HUWG4O` |  |
+| 591.75 | Liquid -> (Cd)+SrCd11 | Liquid: Cd 0.996; (Cd): Cd 1; SrCd11: Cd 0.9167; L: Cd 0.996 | model | [1] Zhang 2013 | Table 4, p. 5, row 2; `ORC-3NNV2QKVMR` |  |
 
 ## Other properties
 
@@ -77,17 +77,17 @@ Table: Crystal structure, Cd–Sr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 16.068 Å | 298.15 | Sr13Cd58; _alloy: Sr 0.183099_ | experimental | [1] Zhang 2013; _cites Bruzzone 1972_ | Table 1, p. 2, row 3 |  |
-| Lattice a | 8.717 Å | 298.15 | Sr5Cd3; _alloy: Sr 0.625_ | experimental | [1] Zhang 2013; _cites Druska 1994_ | Table 1, p. 2, row 6 |  |
-| Lattice a | 4.025 Å | 298.15 | SrCd; _alloy: Sr 0.5_ | experimental | [1] Zhang 2013; _cites Koster 1965_ | Table 1, p. 2, row 5 |  |
-| Lattice a | 11.98 Å | 298.15 | SrCd11; _alloy: Sr 0.083333_ | experimental | [1] Zhang 2013; _cites Koster 1965_ | Table 1, p. 2, row 1 |  |
-| Lattice a | 5.046 Å | 298.15 | SrCd2; _alloy: Sr 0.333333_ | experimental | [1] Zhang 2013; _cites Koster 1965_ | Table 1, p. 2, row 4 |  |
-| Lattice a | 16.04 Å | 298.15 | SrCd6; _alloy: Sr 0.142857_ | experimental | [1] Zhang 2013; _cites Bruzzone 1972_ | Table 1, p. 2, row 2 |  |
-| Lattice b | 8.008 Å | 298.15 | SrCd2; _alloy: Sr 0.333333_ | experimental | [1] Zhang 2013; _cites Koster 1965_ | Table 1, p. 2, row 4 |  |
-| Lattice c | 15.91 Å | 298.15 | Sr13Cd58; _alloy: Sr 0.183099_ | experimental | [1] Zhang 2013; _cites Bruzzone 1972_ | Table 1, p. 2, row 3 |  |
-| Lattice c | 16.601 Å | 298.15 | Sr5Cd3; _alloy: Sr 0.625_ | experimental | [1] Zhang 2013; _cites Druska 1994_ | Table 1, p. 2, row 6 |  |
-| Lattice c | 7.67 Å | 298.15 | SrCd11; _alloy: Sr 0.083333_ | experimental | [1] Zhang 2013; _cites Koster 1965_ | Table 1, p. 2, row 1 |  |
-| Lattice c | 8.451 Å | 298.15 | SrCd2; _alloy: Sr 0.333333_ | experimental | [1] Zhang 2013; _cites Koster 1965_ | Table 1, p. 2, row 4 |  |
+| Lattice a | 16.068 Å | 298.15 | Sr13Cd58; _alloy: Sr 0.183099_ | experimental | [1] Zhang 2013; _cites Bruzzone 1972_ | Table 1, p. 2, row 3; `ORC-LEEEOLQJMF.352f49` |  |
+| Lattice a | 8.717 Å | 298.15 | Sr5Cd3; _alloy: Sr 0.625_ | experimental | [1] Zhang 2013; _cites Druska 1994_ | Table 1, p. 2, row 6; `ORC-AMJMBRBYXD.d29e29` |  |
+| Lattice a | 4.025 Å | 298.15 | SrCd; _alloy: Sr 0.5_ | experimental | [1] Zhang 2013; _cites Koster 1965_ | Table 1, p. 2, row 5; `ORC-TBAPETR5LQ` |  |
+| Lattice a | 11.98 Å | 298.15 | SrCd11; _alloy: Sr 0.083333_ | experimental | [1] Zhang 2013; _cites Koster 1965_ | Table 1, p. 2, row 1; `ORC-XA775PIMSZ.2afdd4` |  |
+| Lattice a | 5.046 Å | 298.15 | SrCd2; _alloy: Sr 0.333333_ | experimental | [1] Zhang 2013; _cites Koster 1965_ | Table 1, p. 2, row 4; `ORC-K77UWPKS3E.dff633` |  |
+| Lattice a | 16.04 Å | 298.15 | SrCd6; _alloy: Sr 0.142857_ | experimental | [1] Zhang 2013; _cites Bruzzone 1972_ | Table 1, p. 2, row 2; `ORC-E4KLILE4LO` |  |
+| Lattice b | 8.008 Å | 298.15 | SrCd2; _alloy: Sr 0.333333_ | experimental | [1] Zhang 2013; _cites Koster 1965_ | Table 1, p. 2, row 4; `ORC-K77UWPKS3E.09f8da` |  |
+| Lattice c | 15.91 Å | 298.15 | Sr13Cd58; _alloy: Sr 0.183099_ | experimental | [1] Zhang 2013; _cites Bruzzone 1972_ | Table 1, p. 2, row 3; `ORC-LEEEOLQJMF.7ccde4` |  |
+| Lattice c | 16.601 Å | 298.15 | Sr5Cd3; _alloy: Sr 0.625_ | experimental | [1] Zhang 2013; _cites Druska 1994_ | Table 1, p. 2, row 6; `ORC-AMJMBRBYXD.1e234e` |  |
+| Lattice c | 7.67 Å | 298.15 | SrCd11; _alloy: Sr 0.083333_ | experimental | [1] Zhang 2013; _cites Koster 1965_ | Table 1, p. 2, row 1; `ORC-XA775PIMSZ.cfd419` |  |
+| Lattice c | 8.451 Å | 298.15 | SrCd2; _alloy: Sr 0.333333_ | experimental | [1] Zhang 2013; _cites Koster 1965_ | Table 1, p. 2, row 4; `ORC-K77UWPKS3E.5b83e5` |  |
 
 ## Sources
 
@@ -152,4 +152,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

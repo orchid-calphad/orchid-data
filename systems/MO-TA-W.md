@@ -30,9 +30,9 @@ Table: Crystal structure, Mo–Ta–W system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| lattice unspecified axis; _printed: Lattice constant_ | 3.1472 Å |  | Pure Mo; _alloy: Ta 0, W 0_ | experimental | [1] Turchi 2005 | Table I, p. 5, row 2 |  |
-| lattice unspecified axis; _printed: Lattice constant_ | 3.1738 Å |  | Pure Mo; _alloy: Ta 0, W 0_ | unspecified | [1] Turchi 2005 | Table I, p. 5, row 9 |  |
-| lattice unspecified axis; _printed: Lattice constant_ | 3.1781 Å |  | Pure Mo; _alloy: Ta 0, W 0_ | unspecified | [1] Turchi 2005 | Table I, p. 5, row 5 |  |
+| lattice unspecified axis; _printed: Lattice constant_ | 3.1472 Å |  | Pure Mo; _alloy: Ta 0, W 0_ | experimental | [1] Turchi 2005 | Table I, p. 5, row 2; `ORC-6YWIRSAHMP` |  |
+| lattice unspecified axis; _printed: Lattice constant_ | 3.1738 Å |  | Pure Mo; _alloy: Ta 0, W 0_ | unspecified | [1] Turchi 2005 | Table I, p. 5, row 9; `ORC-G4Z2ZQVS2I` |  |
+| lattice unspecified axis; _printed: Lattice constant_ | 3.1781 Å |  | Pure Mo; _alloy: Ta 0, W 0_ | unspecified | [1] Turchi 2005 | Table I, p. 5, row 5; `ORC-IMUJYI3N53` |  |
 
 ### Other property (3)
 
@@ -40,9 +40,9 @@ Table: Other property, Mo–Ta–W system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| bulk modulus; _printed: Bulk modulus_ | 273.1 GPa |  | Pure Mo; _alloy: Ta 0, W 0_ | unspecified | [1] Turchi 2005 | Table I, p. 5, row 5 |  |
-| bulk modulus; _printed: Bulk modulus_ | 291.9 GPa |  | Pure Mo; _alloy: Ta 0, W 0_ | unspecified | [1] Turchi 2005 | Table I, p. 5, row 9 |  |
-| bulk modulus; _printed: Bulk modulus_ | 262.6 GPa |  | Pure Mo; _alloy: Ta 0, W 0_ | experimental | [1] Turchi 2005 | Table I, p. 5, row 2 |  |
+| bulk modulus; _printed: Bulk modulus_ | 273.1 GPa |  | Pure Mo; _alloy: Ta 0, W 0_ | unspecified | [1] Turchi 2005 | Table I, p. 5, row 5; `ORC-BSJJPOKIUU` |  |
+| bulk modulus; _printed: Bulk modulus_ | 291.9 GPa |  | Pure Mo; _alloy: Ta 0, W 0_ | unspecified | [1] Turchi 2005 | Table I, p. 5, row 9; `ORC-NMV4OPU62S` |  |
+| bulk modulus; _printed: Bulk modulus_ | 262.6 GPa |  | Pure Mo; _alloy: Ta 0, W 0_ | experimental | [1] Turchi 2005 | Table I, p. 5, row 2; `ORC-QN65ETGC5M` |  |
 
 ## Sources
 
@@ -85,4 +85,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

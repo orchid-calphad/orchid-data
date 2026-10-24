@@ -48,10 +48,10 @@ Table: Invariant reactions reported in the literature for the Al–Ge system (4)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 696.85 | eutectic |  | model | [1] Islam 2006; _cites Srikanth 1996_ [doi](https://doi.org/10.1016/s0364-5916%2896%2900034-x) | p. 3 | “Srikanth et al. \[11\] reoptimized the Al-Ge system by including the Alrich solvus and solidus data of Minamino et al. \[18\] and arrived at the eutectic point of 28 at.% Ge at 696.85 K.” |
-| 696.85 | eutectic |  | model | [2] Srikanth 1996 | p. 10 | “The calculated eutectic, 696.85 K agrees very well with the values of 694 - 698 K reported by Kroll\[ 121 and Stohr and Klemm\[ 131.” |
-| 693 | eutectic |  | model | [1] Islam 2006 | p. 3 | “They performed the optimization using non-linear least-squares technique, and placed the Al-Ge eutectic at 28.4 at.% Ge, and 693 K.” |
-| 693 | eutectic |  | model | [2] Srikanth 1996 | p. 3 | “Their calculated eutectic occurs at 693 K and 28.4 at % Ge.” |
+| 696.85 | eutectic |  | model | [1] Islam 2006; _cites Srikanth 1996_ [doi](https://doi.org/10.1016/s0364-5916%2896%2900034-x) | p. 3; `ORC-3ZHUGTNQVJ` | “Srikanth et al. \[11\] reoptimized the Al-Ge system by including the Alrich solvus and solidus data of Minamino et al. \[18\] and arrived at the eutectic point of 28 at.% Ge at 696.85 K.” |
+| 696.85 | eutectic |  | model | [2] Srikanth 1996 | p. 10; `ORC-KXKOI3UIVX` | “The calculated eutectic, 696.85 K agrees very well with the values of 694 - 698 K reported by Kroll\[ 121 and Stohr and Klemm\[ 131.” |
+| 693 | eutectic |  | model | [1] Islam 2006 | p. 3; `ORC-46IYFY6P7L` | “They performed the optimization using non-linear least-squares technique, and placed the Al-Ge eutectic at 28.4 at.% Ge, and 693 K.” |
+| 693 | eutectic |  | model | [2] Srikanth 1996 | p. 3; `ORC-RDGWJOXPKR` | “Their calculated eutectic occurs at 693 K and 28.4 at % Ge.” |
 
 ## Sources
 
@@ -117,4 +117,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

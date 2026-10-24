@@ -33,7 +33,7 @@ Table: Invariant reactions reported in the literature for the Ag system (1)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 695 | fcc (Ag) + fcc (Co) -> hcp (Co) |  | experimental | [1] Deng 2021; _cites Karakaya 1986_ [doi](https://doi.org/10.1007/bf02869002) | Table 3, p. 9, row 5 |  |
+| 695 | fcc (Ag) + fcc (Co) -> hcp (Co) |  | experimental | [1] Deng 2021; _cites Karakaya 1986_ [doi](https://doi.org/10.1007/bf02869002) | Table 3, p. 9, row 5; `ORC-USFAPHJAIR` |  |
 
 ## Formation enthalpies
 
@@ -43,8 +43,8 @@ Table: Enthalpies of formation, Ag system (2)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| α-Ag |  | 0.518 kJ/mol-atom | 0 | DFT |  |  | [2] Li 2018 | Table 4, p. 6, row 3 |  |
-| α-Ag |  | 0.561 kJ/mol-atom | 0 | DFT |  |  | [2] Li 2018 | Table 4, p. 6, row 4 |  |
+| α-Ag |  | 0.518 kJ/mol-atom | 0 | DFT |  |  | [2] Li 2018 | Table 4, p. 6, row 3; `ORC-536MYGGDN3` |  |
+| α-Ag |  | 0.561 kJ/mol-atom | 0 | DFT |  |  | [2] Li 2018 | Table 4, p. 6, row 4; `ORC-L7YW7KOMQ3` |  |
 
 ## Other properties
 
@@ -54,7 +54,7 @@ Table: Mixing / partial, Ag system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: ΔH_ | 0 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 1_ | experimental | [3] Witusiewicz 2004 | Table 2, p. 4, row 2 |  |
+| Enthalpy of mixing; _printed: ΔH_ | 0 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 1_ | experimental | [3] Witusiewicz 2004 | Table 2, p. 4, row 2; `ORC-D4UB6MT7XP.e066d2` |  |
 
 ### Activity / EMF / Gibbs energy (2)
 
@@ -62,8 +62,8 @@ Table: Activity / EMF / Gibbs energy, Ag system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Gibbs energy; _printed: Δ°G_ | -6887 J/mol |  | liquid Ag | experimental | [4] Assal 1997; _cites Sieverts 1909_ | Table I, p. 2, row 13 |  |
-| Gibbs energy; _printed: Δ°G_ | -6975 J/mol | 1348 | liquid Ag | experimental | [4] Assal 1997; _cites Donnan 1910_ | Table I, p. 2, row 2 |  |
+| Gibbs energy; _printed: Δ°G_ | -6887 J/mol |  | liquid Ag | experimental | [4] Assal 1997; _cites Sieverts 1909_ | Table I, p. 2, row 13; `ORC-XNG6K44SHM` |  |
+| Gibbs energy; _printed: Δ°G_ | -6975 J/mol | 1348 | liquid Ag | experimental | [4] Assal 1997; _cites Donnan 1910_ | Table I, p. 2, row 2; `ORC-XB4OBER4ZF.674d93` |  |
 
 ### Crystal structure (19)
 
@@ -71,25 +71,25 @@ Table: Crystal structure, Ag system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a; _printed: a_ | 4.155 Å |  | Ag | model | [5] Long 2010; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.05.002) | Table 1, p. 3, row 23 |  |
-| Lattice a; _printed: a_ | 4.086 Å |  | Ag | model | [5] Long 2010; _cites Straumanis 1965_ | Table 1, p. 3, row 24 |  |
-| Lattice a | 4.0861 Å | 298.15 | (Ag); _(Ag): Ag 1_ | experimental | [6] Karakaya 1987; _cites ref. 1_ | Table 4, p. 4, row 1 |  |
-| Lattice a | 4.0861 Å | 298.15 | Ag; _Ag: Ag 1_ | unspecified | [7] Karakaya 1990 | Table 3, p. 5, row 1 |  |
-| Lattice a | 4.0782 Å | 298.15 | Ag; _Ag: Ag 1_ | unspecified | [8] Karakaya 1993 | Table 2, p. 4, row 2 |  |
-| Lattice a; _printed: a_ | 4.154 Å | 298.15 | Ag | DFT | [5] Long 2010 | Table 1, p. 3, row 22 |  |
-| Lattice a | 4.0857 Å | 298.15 | Ag; _Ag: Ag 1_ | unspecified | [8] Karakaya 1993 | Table 2, p. 4, row 3 |  |
-| Lattice a | 4.0861 Å | 298.15 | Ag; _Ag: Ag 1_ | unspecified | [8] Karakaya 1993 | Table 2, p. 4, row 1 |  |
-| Lattice a | 4.0861 Å | 298.15 | Ag(s); _Ag(s): Ag 1_ | experimental | [9] Karakaya 1986; _cites ref. 1_ | Table 1, p. 2, row 1 |  |
-| Lattice a | 4.0861 Å | 298.15 | Ag(s); _Ag(s): Ag 1_ | unspecified | [9] Karakaya 1986; _cites ref. 1_ | Table 1, p. 1, row 1 |  |
-| Lattice a | 4.0861 Å | 298.15 | Ag(s); _Ag(s): Ag 1_ | unspecified | [10] Karakaya 1988; _cites ref. 1_ | Table 3, p. 3, row 1 |  |
-| Lattice a | 4.0861 Å | 298.15 | Ag(s); _Ag(s): Ag 1_ | unspecified | [11] Karakaya 1986 | Table 1, p. 2, row 1 |  |
-| Lattice a | 4.0861 Å | 298.15 | Ag(s); _Ag(s): Ag 1_ | unspecified | [12] Karakaya 1986; _cites ref. 1_ | Table 1, p. 2, row 1 |  |
-| Lattice a | 4.0861 Å | 298.15 | Ag(s); _Ag(s): Ag 1_ | unspecified | [13] Karakaya 1986 | Table 1, p. 2, row 1 |  |
-| Lattice a | 4.08612 Å | 848.15 | (Ag); _(Ag): Ag 1_ | unspecified | [7] Karakaya 1990 | Table 3, p. 5, row 2 |  |
-| lattice unspecified axis | 4.0861 Å | 298.15 | (Ag); _(Ag): Ag 1_ | experimental | [6] Karakaya 1987; _cites ref. 1_ | Table 4, p. 4, row 1 |  |
-| lattice unspecified axis | 4.0861 Å | 298.15 | Ag; _Ag: Ag 1_ | unspecified | [7] Karakaya 1990 | Table 3, p. 5, row 1 |  |
-| lattice unspecified axis | 4.0861 Å | 298.15 | Ag(s); _Ag(s): Ag 1_ | unspecified | [9] Karakaya 1986; _cites ref. 1_ | Table 1, p. 1, row 1 |  |
-| lattice unspecified axis | 4.08612 Å | 848.15 | (Ag); _(Ag): Ag 1_ | unspecified | [7] Karakaya 1990 | Table 3, p. 5, row 2 |  |
+| Lattice a; _printed: a_ | 4.155 Å |  | Ag | model | [5] Long 2010; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.05.002) | Table 1, p. 3, row 23; `ORC-PNP62ZBLT2` |  |
+| Lattice a; _printed: a_ | 4.086 Å |  | Ag | model | [5] Long 2010; _cites Straumanis 1965_ | Table 1, p. 3, row 24; `ORC-WYRMRAX6IY` |  |
+| Lattice a | 4.0861 Å | 298.15 | (Ag); _(Ag): Ag 1_ | experimental | [6] Karakaya 1987; _cites ref. 1_ | Table 4, p. 4, row 1; `ORC-YYVN2DF6OA.780394` |  |
+| Lattice a | 4.0861 Å | 298.15 | Ag; _Ag: Ag 1_ | unspecified | [7] Karakaya 1990 | Table 3, p. 5, row 1; `ORC-CNN4FAK62S.44ae1c` |  |
+| Lattice a | 4.0782 Å | 298.15 | Ag; _Ag: Ag 1_ | unspecified | [8] Karakaya 1993 | Table 2, p. 4, row 2; `ORC-CVEBKSJBEX` |  |
+| Lattice a; _printed: a_ | 4.154 Å | 298.15 | Ag | DFT | [5] Long 2010 | Table 1, p. 3, row 22; `ORC-HTZ3J7KHVO` |  |
+| Lattice a | 4.0857 Å | 298.15 | Ag; _Ag: Ag 1_ | unspecified | [8] Karakaya 1993 | Table 2, p. 4, row 3; `ORC-MG75L7CKXK` |  |
+| Lattice a | 4.0861 Å | 298.15 | Ag; _Ag: Ag 1_ | unspecified | [8] Karakaya 1993 | Table 2, p. 4, row 1; `ORC-ND4LVX627P` |  |
+| Lattice a | 4.0861 Å | 298.15 | Ag(s); _Ag(s): Ag 1_ | experimental | [9] Karakaya 1986; _cites ref. 1_ | Table 1, p. 2, row 1; `ORC-LJIGBSRBAQ.3876f5` |  |
+| Lattice a | 4.0861 Å | 298.15 | Ag(s); _Ag(s): Ag 1_ | unspecified | [9] Karakaya 1986; _cites ref. 1_ | Table 1, p. 1, row 1; `ORC-RNABF3L75O.ed80ac` |  |
+| Lattice a | 4.0861 Å | 298.15 | Ag(s); _Ag(s): Ag 1_ | unspecified | [10] Karakaya 1988; _cites ref. 1_ | Table 3, p. 3, row 1; `ORC-TGUNKV43RG` |  |
+| Lattice a | 4.0861 Å | 298.15 | Ag(s); _Ag(s): Ag 1_ | unspecified | [11] Karakaya 1986 | Table 1, p. 2, row 1; `ORC-TL6RWRZFVX.2f2b4c` |  |
+| Lattice a | 4.0861 Å | 298.15 | Ag(s); _Ag(s): Ag 1_ | unspecified | [12] Karakaya 1986; _cites ref. 1_ | Table 1, p. 2, row 1; `ORC-TNYUDAOXB4.ba77be` |  |
+| Lattice a | 4.0861 Å | 298.15 | Ag(s); _Ag(s): Ag 1_ | unspecified | [13] Karakaya 1986 | Table 1, p. 2, row 1; `ORC-Z4GYAM2GXT` |  |
+| Lattice a | 4.08612 Å | 848.15 | (Ag); _(Ag): Ag 1_ | unspecified | [7] Karakaya 1990 | Table 3, p. 5, row 2; `ORC-FK6CDRNCKY.f19f53` |  |
+| lattice unspecified axis | 4.0861 Å | 298.15 | (Ag); _(Ag): Ag 1_ | experimental | [6] Karakaya 1987; _cites ref. 1_ | Table 4, p. 4, row 1; `ORC-YYVN2DF6OA.308f06` |  |
+| lattice unspecified axis | 4.0861 Å | 298.15 | Ag; _Ag: Ag 1_ | unspecified | [7] Karakaya 1990 | Table 3, p. 5, row 1; `ORC-CNN4FAK62S.e85f87` |  |
+| lattice unspecified axis | 4.0861 Å | 298.15 | Ag(s); _Ag(s): Ag 1_ | unspecified | [9] Karakaya 1986; _cites ref. 1_ | Table 1, p. 1, row 1; `ORC-RNABF3L75O.610bc5` |  |
+| lattice unspecified axis | 4.08612 Å | 848.15 | (Ag); _(Ag): Ag 1_ | unspecified | [7] Karakaya 1990 | Table 3, p. 5, row 2; `ORC-FK6CDRNCKY.98f875` |  |
 
 ## Sources
 
@@ -144,4 +144,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

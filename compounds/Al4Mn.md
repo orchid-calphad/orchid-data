@@ -14,11 +14,11 @@ Table: Enthalpy of formation of Al4Mn reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -21.67 kJ/mol-atom | Al4Mn | 298.15 | experimental |  | [Al–Mn](https://data.orchid-project.org/systems/AL-MN.html) | [1] Jansson 1992; _cites Kubaschewski 1960_ [doi](https://doi.org/10.1039/tf9605600473) | Table II, p. 4, row 13 |  |
-| -21.67 kJ/mol-atom ± 1.05 | Al4Mn | 298.15 | experimental |  | [Al–Mn](https://data.orchid-project.org/systems/AL-MN.html) | [2] Liu 1999; _cites Kubaschewski 1960_ [doi](https://doi.org/10.1039/tf9605600473) | Table 4, p. 12, row 6 |  |
-| -21.23 kJ/mol-atom | Al4Mn |  | model |  | [Al–Mn](https://data.orchid-project.org/systems/AL-MN.html) | [2] Liu 1999 | Table 4, p. 12, row 4 |  |
-| -21.13 kJ/mol-atom | Al4Mn |  | model |  | [Al–Mn](https://data.orchid-project.org/systems/AL-MN.html) | [1] Jansson 1992 | Table II, p. 4, row 12 |  |
-| -21.13 kJ/mol-atom | Al4Mn |  | model |  | [Al–Mn](https://data.orchid-project.org/systems/AL-MN.html) | [2] Liu 1999; _cites Jansson 1992_ [doi](https://doi.org/10.1007/bf02646113) | Table 4, p. 12, row 5 |  |
+| -21.67 kJ/mol-atom | Al4Mn | 298.15 | experimental |  | [Al–Mn](https://data.orchid-project.org/systems/AL-MN.html) | [1] Jansson 1992; _cites Kubaschewski 1960_ [doi](https://doi.org/10.1039/tf9605600473) | Table II, p. 4, row 13; `ORC-OSPAOF2OZO` |  |
+| -21.67 kJ/mol-atom ± 1.05 | Al4Mn | 298.15 | experimental |  | [Al–Mn](https://data.orchid-project.org/systems/AL-MN.html) | [2] Liu 1999; _cites Kubaschewski 1960_ [doi](https://doi.org/10.1039/tf9605600473) | Table 4, p. 12, row 6; `ORC-U7OZ5EQM2Y` |  |
+| -21.23 kJ/mol-atom | Al4Mn |  | model |  | [Al–Mn](https://data.orchid-project.org/systems/AL-MN.html) | [2] Liu 1999 | Table 4, p. 12, row 4; `ORC-MT4ZQQEXS3` |  |
+| -21.13 kJ/mol-atom | Al4Mn |  | model |  | [Al–Mn](https://data.orchid-project.org/systems/AL-MN.html) | [1] Jansson 1992 | Table II, p. 4, row 12; `ORC-AO23WJEWFQ` |  |
+| -21.13 kJ/mol-atom | Al4Mn |  | model |  | [Al–Mn](https://data.orchid-project.org/systems/AL-MN.html) | [2] Liu 1999; _cites Jansson 1992_ [doi](https://doi.org/10.1007/bf02646113) | Table 4, p. 12, row 5; `ORC-N6QSSBU3JL` |  |
 
 ### Uncertainty budget
 
@@ -86,4 +86,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

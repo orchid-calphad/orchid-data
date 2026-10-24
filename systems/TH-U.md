@@ -59,14 +59,14 @@ Table: Invariant reactions reported in the literature for the Th–U system (8)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1923.15 | critical point: L -> L1 + L2 | L: U 0.78 | model | [1] Li 2009 | Table 3, p. 4, row 8 |  |
-| 1923.15 | critical point: L -> L1 + L2 |  | experimental | [1] Li 2009; _cites Peterson 1995_ | Table 3, p. 4, row 7 |  |
-| 1648.15 | monotectic: L1 -> βTh + L2 | L1: U 0.51; βTh: U 0.122; L2: U 0.94 | experimental | [1] Li 2009; _cites Peterson 1995_ | Table 3, p. 4, row 1 |  |
-| 1644.15 | monotectic: L1 -> βTh + L2 | L1: U 0.507; βTh: U 0.12; L2: U 0.927 | model | [1] Li 2009 | Table 3, p. 4, row 2 |  |
-| 1543.15 | metatectic/catatectic: βTh -> αTh + L2 | βTh: U 0.105; αTh: U 0.088 | experimental | [1] Li 2009; _cites Peterson 1995_ | Table 3, p. 4, row 3 |  |
-| 1543.15 | metatectic/catatectic: βTh -> αTh + L2 | βTh: U 0.105; αTh: U 0.088; L2: U 0.95 | model | [1] Li 2009 | Table 3, p. 4, row 4 |  |
-| 1380.15 | eutectic: L2 -> αTh + γU | L2: U 0.97; αTh: U 0.04; γU: U 0.982 | model | [1] Li 2009 | Table 3, p. 4, row 6 |  |
-| 1373.15 | eutectic: L2 -> αTh + γU | L2: U 0.96 | experimental | [1] Li 2009; _cites Peterson 1995_ | Table 3, p. 4, row 5 |  |
+| 1923.15 | critical point: L -> L1 + L2 | L: U 0.78 | model | [1] Li 2009 | Table 3, p. 4, row 8; `ORC-IHAINGCOLI` |  |
+| 1923.15 | critical point: L -> L1 + L2 |  | experimental | [1] Li 2009; _cites Peterson 1995_ | Table 3, p. 4, row 7; `ORC-KWR22GX3MC` |  |
+| 1648.15 | monotectic: L1 -> βTh + L2 | L1: U 0.51; βTh: U 0.122; L2: U 0.94 | experimental | [1] Li 2009; _cites Peterson 1995_ | Table 3, p. 4, row 1; `ORC-H5I65GLV2I` |  |
+| 1644.15 | monotectic: L1 -> βTh + L2 | L1: U 0.507; βTh: U 0.12; L2: U 0.927 | model | [1] Li 2009 | Table 3, p. 4, row 2; `ORC-4AHF6CTTPX` |  |
+| 1543.15 | metatectic/catatectic: βTh -> αTh + L2 | βTh: U 0.105; αTh: U 0.088 | experimental | [1] Li 2009; _cites Peterson 1995_ | Table 3, p. 4, row 3; `ORC-KOAZ7LTBKD` |  |
+| 1543.15 | metatectic/catatectic: βTh -> αTh + L2 | βTh: U 0.105; αTh: U 0.088; L2: U 0.95 | model | [1] Li 2009 | Table 3, p. 4, row 4; `ORC-L3MROBZHSI` |  |
+| 1380.15 | eutectic: L2 -> αTh + γU | L2: U 0.97; αTh: U 0.04; γU: U 0.982 | model | [1] Li 2009 | Table 3, p. 4, row 6; `ORC-3QJQIQKJM3` |  |
+| 1373.15 | eutectic: L2 -> αTh + γU | L2: U 0.96 | experimental | [1] Li 2009; _cites Peterson 1995_ | Table 3, p. 4, row 5; `ORC-SJO4FYZX52` |  |
 
 ## Other properties
 
@@ -76,10 +76,10 @@ Table: Heat capacity / entropy / enthalpy, Th–U system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Heat capacity; _printed: β × 10³_ | 1.937 unknown |  | UNKNOWN; _alloy: Th 7.500e-4, U 0.99925_ | unspecified | [2] Olesinski 1985 | Table 3, p. 1, row 1 |  |
-| Heat capacity; _printed: γ × 10⁴_ | 44.497 unknown ± 0.084 |  | UNKNOWN; _alloy: Th 7.500e-4, U 0.99925_ | unspecified | [2] Olesinski 1985 | Table 3, p. 1, row 1 |  |
-| Heat capacity; _printed: γ × 10⁴_ | 47.2 unknown ± 0.4 |  | UNKNOWN; _alloy: Th 0.00134, U 0.99866_ | unspecified | [2] Olesinski 1985 | Table 3, p. 1, row 2 |  |
-| Heat capacity; _printed: β × 10³_ | 1.853 unknown |  | UNKNOWN; _alloy: Th 0.00134, U 0.99866_ | unspecified | [2] Olesinski 1985 | Table 3, p. 1, row 2 |  |
+| Heat capacity; _printed: β × 10³_ | 1.937 unknown |  | UNKNOWN; _alloy: Th 7.500e-4, U 0.99925_ | unspecified | [2] Olesinski 1985 | Table 3, p. 1, row 1; `ORC-TAAGTJK2FJ.59e265` |  |
+| Heat capacity; _printed: γ × 10⁴_ | 44.497 unknown ± 0.084 |  | UNKNOWN; _alloy: Th 7.500e-4, U 0.99925_ | unspecified | [2] Olesinski 1985 | Table 3, p. 1, row 1; `ORC-TAAGTJK2FJ.cbc2ed` |  |
+| Heat capacity; _printed: γ × 10⁴_ | 47.2 unknown ± 0.4 |  | UNKNOWN; _alloy: Th 0.00134, U 0.99866_ | unspecified | [2] Olesinski 1985 | Table 3, p. 1, row 2; `ORC-X6BRVWPG57.38ad51` |  |
+| Heat capacity; _printed: β × 10³_ | 1.853 unknown |  | UNKNOWN; _alloy: Th 0.00134, U 0.99866_ | unspecified | [2] Olesinski 1985 | Table 3, p. 1, row 2; `ORC-X6BRVWPG57.e24c5f` |  |
 
 ## Sources
 
@@ -145,4 +145,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

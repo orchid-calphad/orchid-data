@@ -117,59 +117,59 @@ Table: Invariant reactions reported in the literature for the Gd–Mg system (53
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1142.15 | L + (βGd) = GdMg | L: Gd 0.479; (βGd): Gd 0.613; GdMg: Gd 0.5 | model | [1] Hampl 2013 | Table 5, p. 7, row 27 |  |
-| 1142.15 | L + (βGd) = GdMg | L: Gd 0.491; (βGd): Gd 0.632; GdMg: Gd 0.5 | model | [1] Hampl 2013 | Table 5, p. 7, row 26 |  |
-| 1141.15 | L + (βGd) = GdMg | L: Gd 0.463; (βGd): Gd 0.635; GdMg: Gd 0.49 | model | [1] Hampl 2013; _cites Guo 2007_ [doi](https://doi.org/10.1016/j.calphad.2006.10.004) | Table 5, p. 7, row 28 |  |
-| 1141.15 | L + (βGd) = GdMg | L: Gd 0.49; (βGd): Gd 0.634; GdMg: Gd 0.5, Mg 0.5 | experimental | [1] Hampl 2013; _cites Manfrinetti 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990135-9) | Table 5, p. 7, row 25 |  |
-| 1141 | liq. + bcc(Gd) -> MgGd | L: Mg 0.505; bcc(Gd): Mg 0.366; MgGd: Gd 0.5, Mg 0.5 | experimental | [2] Guo 2007; _cites Manfrinetti 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990135-9) | Table 3, p. 8, row 2 |  |
-| 1141 | liq. + bcc(Gd) -> MgGd | L: Mg 0.5367; bcc(Gd): Mg 0.3649; MgGd: Mg 0.5101 | model | [2] Guo 2007 | Table 3, p. 8, row 1 |  |
-| 1083.15 | L + GdMg = GdMg2 | GdMg: Gd 0.5, Mg 0.5; GdMg2: Gd 0.333333, Mg 0.666667 | experimental | [1] Hampl 2013; _cites Savitskii 1961_ | Table 5, p. 7, row 19 |  |
-| 1033.15 | L + GdMg = GdMg2 | L: Gd 0.313; GdMg: Gd 0.5; GdMg2: Gd 0.333 | model | [1] Hampl 2013 | Table 5, p. 7, row 23 |  |
-| 1029.15 | L + GdMg = GdMg2 | GdMg: Gd 0.5, Mg 0.5; GdMg2: Gd 0.333333, Mg 0.666667 | experimental | [1] Hampl 2013; _cites Manfrinetti 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990135-9) | Table 5, p. 7, row 20 |  |
-| 1029.15 | L + GdMg = GdMg2 | L: Gd 0.292; GdMg: Gd 0.5, Mg 0.5; GdMg2: Gd 0.333333, Mg 0.666667 | model | [1] Hampl 2013; _cites Guo 2007_ [doi](https://doi.org/10.1016/j.calphad.2006.10.004) | Table 5, p. 7, row 24 |  |
-| 1029 | liq. + MgGd -> Mg2Gd | L: Mg 0.735; MgGd: Gd 0.5, Mg 0.5; Mg2Gd: Gd 0.333333, Mg 0.666667 | experimental | [2] Guo 2007; _cites Manfrinetti 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990135-9) | Table 3, p. 8, row 6 |  |
-| 1029 | liq. + MgGd -> Mg2Gd | L: Mg 0.7083; MgGd: Mg 0.5542; Mg2Gd: Gd 0.333333, Mg 0.666667 | model | [2] Guo 2007 | Table 3, p. 8, row 5 |  |
-| 1028.15 | L + GdMg = GdMg2 | GdMg: Gd 0.5, Mg 0.5; GdMg2: Gd 0.333333, Mg 0.666667 | experimental | [1] Hampl 2013; _cites Janssen 2006_ [doi](https://doi.org/10.1063/1.2202923) | Table 5, p. 7, row 21 |  |
-| 1025.15 | L + GdMg = GdMg2 | L: Gd 0.323; GdMg: Gd 0.5; GdMg2: Gd 0.333 | model | [1] Hampl 2013 | Table 5, p. 7, row 22 |  |
-| 1013.15 | L + GdMg2 = GdMg3 | L: Gd 0.2; GdMg2: Gd 0.333333, Mg 0.666667; GdMg3: Gd 0.25, Mg 0.75 | experimental | [1] Hampl 2013; _cites Savitskii 1961_ | Table 5, p. 7, row 14 |  |
-| 997.15 | eutectic: L = GdMg2 + GdMg3 | L: Gd 0.262; GdMg2: Gd 0.333; GdMg3: Gd 0.25 | model | [1] Hampl 2013 | Table 5, p. 7, row 16 |  |
-| 993.15 | L + GdMg2 = GdMg3 | L: Gd 0.239; GdMg2: Gd 0.333333, Mg 0.666667; GdMg3: Gd 0.25, Mg 0.75 | model | [1] Hampl 2013; _cites Guo 2007_ [doi](https://doi.org/10.1016/j.calphad.2006.10.004) | Table 5, p. 7, row 18 |  |
-| 993.15 | L + GdMg2 = GdMg3 | GdMg2: Gd 0.333333, Mg 0.666667; GdMg3: Gd 0.25, Mg 0.75 | experimental | [1] Hampl 2013; _cites Manfrinetti 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990135-9) | Table 5, p. 7, row 15 |  |
-| 993 | liq. + Mg2Gd -> Mg3Gd | L: Mg 0.7607; Mg2Gd: Gd 0.333333, Mg 0.666667; Mg3Gd: Gd 0.25, Mg 0.75 | model | [2] Guo 2007 | Table 3, p. 8, row 7 |  |
-| 993 | liq. + Mg2Gd -> Mg3Gd | L: Mg 0.802; Mg2Gd: Gd 0.333333, Mg 0.666667; Mg3Gd: Gd 0.25, Mg 0.75 | experimental | [2] Guo 2007; _cites Manfrinetti 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990135-9) | Table 3, p. 8, row 8 |  |
-| 973.15 | (βGd) = (αGd) + GdMg | (βGd): Gd 0.74; GdMg: Gd 0.5, Mg 0.5 | experimental | [1] Hampl 2013; _cites Manfrinetti 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990135-9) | Table 5, p. 7, row 29 |  |
-| 973.15 | (βGd) = (αGd) + GdMg | (βGd): Gd 0.765; (αGd): Gd 0.863; GdMg: Gd 0.499 | model | [1] Hampl 2013; _cites Guo 2007_ [doi](https://doi.org/10.1016/j.calphad.2006.10.004) | Table 5, p. 7, row 32 |  |
-| 973.15 | (βGd) = (αGd) + GdMg | (βGd): Gd 0.739; (αGd): Gd 0.881; GdMg: Gd 0.5 | model | [1] Hampl 2013 | Table 5, p. 7, row 30 |  |
-| 973 | bcc(Gd) -> MgGd + hcp(Gd) | bcc(Gd): Mg 0.2351; MgGd: Mg 0.5004; hcp(Gd): Mg 0.1373 | model | [2] Guo 2007 | Table 3, p. 8, row 3 |  |
-| 973 | bcc(Gd) -> MgGd + hcp(Gd) | bcc(Gd): Mg 0.26; MgGd: Gd 0.5, Mg 0.5; hcp(Gd): Mg 0.141 | experimental | [2] Guo 2007; _cites Manfrinetti 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990135-9) | Table 3, p. 8, row 4 |  |
-| 957.15 | (βGd) = (αGd) + GdMg | (βGd): Gd 0.722; (αGd): Gd 0.875; GdMg: Gd 0.5 | model | [1] Hampl 2013 | Table 5, p. 7, row 31 |  |
-| 931.15 | peritectic |  | experimental | [1] Hampl 2013; _cites Manfrinetti 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990135-9) | p. 9 | “It is impossible to reconcile this eutectic with the temperature suggested for this peritectic by Manfrinetti \[8\] at 658 °C.” |
-| 931.15 | L + GdMg3 = GdMg5 | GdMg3: Gd 0.25, Mg 0.75; GdMg5: Gd 0.166667, Mg 0.833333 | experimental | [1] Hampl 2013; _cites Manfrinetti 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990135-9) | Table 5, p. 7, row 9 |  |
-| 931 | liq. + Mg3Gd -> Mg5Gd | L: Mg 0.84; Mg3Gd: Gd 0.25, Mg 0.75; Mg5Gd: Gd 0.166667, Mg 0.833333 | experimental | [2] Guo 2007; _cites Manfrinetti 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990135-9) | Table 3, p. 8, row 10 |  |
-| 930.15 | L + GdMg3 = GdMg5 | L: Gd 0.158; GdMg3: Gd 0.25; GdMg5: Gd 0.166 | model | [1] Hampl 2013 | Table 5, p. 7, row 11 |  |
-| 930.15 | peritectic: L + GdMg3 = GdMg5 |  | model | [1] Hampl 2013 | p. 9 | “That includes a large temperature difference for the peritectic formation of GdMg5 by the reaction L + GdMg3 = GdMg5 between model I (657 °C) and model II (609 °C).” |
-| 929.15 | L + GdMg3 = GdMg5 | L: Gd 0.16; GdMg3: Gd 0.25, Mg 0.75; GdMg5: Gd 0.166667, Mg 0.833333 | model | [1] Hampl 2013; _cites Guo 2007_ [doi](https://doi.org/10.1016/j.calphad.2006.10.004) | Table 5, p. 7, row 13 |  |
-| 929 | liq. + Mg3Gd -> Mg5Gd | L: Mg 0.8403; Mg3Gd: Gd 0.25, Mg 0.75; Mg5Gd: Gd 0.166667, Mg 0.833333 | model | [2] Guo 2007 | Table 3, p. 8, row 9 |  |
-| 928.15 | peritectic: L + GdMg2 = GdMg3 |  | model | [1] Hampl 2013 | p. 9 | “The thermal signals indicating an invariant reaction near 655 °C are re-interpreted in the present model II as belonging to the the peritectic reaction L + GdMg2 = GdMg3, instead of the reaction L + GdMg3 = GdMg5 given at 658 °C \[8\] or 642 °C \[9\].” |
-| 928.15 | L + GdMg2 = GdMg3 | L: Gd 0.189; GdMg2: Gd 0.333; GdMg3: Gd 0.25 | model | [1] Hampl 2013 | Table 5, p. 7, row 17 |  |
-| 915.15 | L + GdMg3 = GdMg5 | GdMg3: Gd 0.25, Mg 0.75; GdMg5: Gd 0.166667, Mg 0.833333 | experimental | [1] Hampl 2013; _cites Rokhlin 1998_ | Table 5, p. 7, row 10 |  |
-| 913.15 | L + GdMg3 = GdMg5 | L: Gd 0.08; GdMg3: Gd 0.25, Mg 0.75; GdMg5: Gd 0.166667, Mg 0.833333 | experimental | [1] Hampl 2013; _cites Savitskii 1961_ | Table 5, p. 7, row 8 |  |
-| 882.15 | L + GdMg3 = GdMg5 | L: Gd 0.145; GdMg3: Gd 0.25; GdMg5: Gd 0.166 | model | [1] Hampl 2013 | Table 5, p. 7, row 12 |  |
-| 882.15 | peritectic: L + GdMg3 = GdMg5 |  | model | [1] Hampl 2013 | p. 9 | “That includes a large temperature difference for the peritectic formation of GdMg5 by the reaction L + GdMg3 = GdMg5 between model I (657 °C) and model II (609 °C).” |
-| 827.15 | eutectic: L = (Mg) + GdMg5 |  | model | [1] Hampl 2013; _cites Guo 2007_ [doi](https://doi.org/10.1016/j.calphad.2006.10.004) | p. 8 | “Guo et al. \[14\] calculated the eutectic temperature at 554 °C which is significantly higher than all the experimental data, see Table 5.” |
-| 827.15 | eutectic: L = (Mg) + GdMg5 | L: Gd 0.076; (Mg): Gd 0.038; GdMg5: Gd 0.166667, Mg 0.833333 | model | [1] Hampl 2013; _cites Guo 2007_ [doi](https://doi.org/10.1016/j.calphad.2006.10.004) | Table 5, p. 7, row 7 |  |
-| 827 | liq. + Mg5Gd -> hcp(Mg) | L: Mg 0.9245; Mg5Gd: Gd 0.166667, Mg 0.833333; hcp(Mg): Mg 0.9623 | model | [2] Guo 2007 | Table 3, p. 8, row 11 |  |
-| 821.15 | eutectic: L = (Mg) + GdMg5 | L: Gd 0.083; (Mg): Gd 0.046; GdMg5: Gd 0.166 | model | [1] Hampl 2013 | Table 5, p. 7, row 6 |  |
-| 821.15 | eutectic: L = (Mg) + GdMg5 |  | model | [1] Hampl 2013 | p. 8 | “The eutectic temperatures for both model I (547 °C) and model II (548 °C) are in good agreement with experimental data.” |
-| 821.15 | eutectic: L = (Mg) + GdMg5 | L: Gd 0.088; (Mg): Gd 0.04; GdMg5: Gd 0.166667, Mg 0.833333 | experimental | [1] Hampl 2013; _cites Manfrinetti 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990135-9) | Table 5, p. 7, row 2 |  |
-| 821 | liq. + Mg5Gd -> hcp(Mg) | L: Mg 0.912; Mg5Gd: Gd 0.166667, Mg 0.833333; hcp(Mg): Mg 0.955 | experimental | [2] Guo 2007; _cites Manfrinetti 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990135-9) | Table 3, p. 8, row 12 |  |
-| 820.15 | eutectic: L = (Mg) + GdMg5 | GdMg5: Gd 0.166667, Mg 0.833333 | experimental | [1] Hampl 2013 | Table 5, p. 7, row 4 |  |
-| 820.15 | eutectic: L = GdMg5 + (Mg) |  | experimental | [1] Hampl 2013 | p. 3 | “From repeated heating and cooling cycles, the liquidus temperature and the temperature of eutectic reaction L = GdMg5 + (Mg) were evaluated to be 592 °C and 547 °C, respectively.” |
-| 820.15 | eutectic: L = (Mg) + GdMg5 |  | model | [1] Hampl 2013 | p. 8 | “The eutectic temperatures for both model I (547 °C) and model II (548 °C) are in good agreement with experimental data.” |
-| 820.15 | eutectic: L = (Mg) + GdMg5 | L: Gd 0.075; (Mg): Gd 0.049; GdMg5: Gd 0.166 | model | [1] Hampl 2013 | Table 5, p. 7, row 5 |  |
-| 818.15 | eutectic: L = (Mg) + GdMg5 | L: Gd 0.057; GdMg5: Gd 0.166667, Mg 0.833333 | experimental | [1] Hampl 2013; _cites Savitskii 1961_ | Table 5, p. 7, row 1 |  |
-| 815.15 | eutectic: L = (Mg) + GdMg5 | L: Gd 0.095; GdMg5: Gd 0.166667, Mg 0.833333 | experimental | [1] Hampl 2013; _cites Rokhlin 1998_ | Table 5, p. 7, row 3 |  |
-| 814.05 | peritectoid: (Mg) + GdMg5 ! 14H |  | model | [3] Gröbner 2015 | p. 16 | “The hexagonal LPSO phase 14H, Gd8Mg70Zn6, is stable below 540.9 °C, where it is formed in a peritectoid solid state reaction, (Mg) + GdMg5 ! 14H, which is the maximum of this three-phase equilibrium.” |
+| 1142.15 | L + (βGd) = GdMg | L: Gd 0.479; (βGd): Gd 0.613; GdMg: Gd 0.5 | model | [1] Hampl 2013 | Table 5, p. 7, row 27; `ORC-45OID3UIRJ` |  |
+| 1142.15 | L + (βGd) = GdMg | L: Gd 0.491; (βGd): Gd 0.632; GdMg: Gd 0.5 | model | [1] Hampl 2013 | Table 5, p. 7, row 26; `ORC-IQXHKGG2JO` |  |
+| 1141.15 | L + (βGd) = GdMg | L: Gd 0.463; (βGd): Gd 0.635; GdMg: Gd 0.49 | model | [1] Hampl 2013; _cites Guo 2007_ [doi](https://doi.org/10.1016/j.calphad.2006.10.004) | Table 5, p. 7, row 28; `ORC-EIKZSBHGCM` |  |
+| 1141.15 | L + (βGd) = GdMg | L: Gd 0.49; (βGd): Gd 0.634; GdMg: Gd 0.5, Mg 0.5 | experimental | [1] Hampl 2013; _cites Manfrinetti 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990135-9) | Table 5, p. 7, row 25; `ORC-RPH76EUE3U` |  |
+| 1141 | liq. + bcc(Gd) -> MgGd | L: Mg 0.505; bcc(Gd): Mg 0.366; MgGd: Gd 0.5, Mg 0.5 | experimental | [2] Guo 2007; _cites Manfrinetti 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990135-9) | Table 3, p. 8, row 2; `ORC-AKY3JFIQBI` |  |
+| 1141 | liq. + bcc(Gd) -> MgGd | L: Mg 0.5367; bcc(Gd): Mg 0.3649; MgGd: Mg 0.5101 | model | [2] Guo 2007 | Table 3, p. 8, row 1; `ORC-QFGOUS4AB5` |  |
+| 1083.15 | L + GdMg = GdMg2 | GdMg: Gd 0.5, Mg 0.5; GdMg2: Gd 0.333333, Mg 0.666667 | experimental | [1] Hampl 2013; _cites Savitskii 1961_ | Table 5, p. 7, row 19; `ORC-XUTLVQDREG` |  |
+| 1033.15 | L + GdMg = GdMg2 | L: Gd 0.313; GdMg: Gd 0.5; GdMg2: Gd 0.333 | model | [1] Hampl 2013 | Table 5, p. 7, row 23; `ORC-5G3OA663UH` |  |
+| 1029.15 | L + GdMg = GdMg2 | GdMg: Gd 0.5, Mg 0.5; GdMg2: Gd 0.333333, Mg 0.666667 | experimental | [1] Hampl 2013; _cites Manfrinetti 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990135-9) | Table 5, p. 7, row 20; `ORC-LIAAO6H3CQ` |  |
+| 1029.15 | L + GdMg = GdMg2 | L: Gd 0.292; GdMg: Gd 0.5, Mg 0.5; GdMg2: Gd 0.333333, Mg 0.666667 | model | [1] Hampl 2013; _cites Guo 2007_ [doi](https://doi.org/10.1016/j.calphad.2006.10.004) | Table 5, p. 7, row 24; `ORC-ZHYURGFCAM` |  |
+| 1029 | liq. + MgGd -> Mg2Gd | L: Mg 0.735; MgGd: Gd 0.5, Mg 0.5; Mg2Gd: Gd 0.333333, Mg 0.666667 | experimental | [2] Guo 2007; _cites Manfrinetti 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990135-9) | Table 3, p. 8, row 6; `ORC-3JUMUGSFED` |  |
+| 1029 | liq. + MgGd -> Mg2Gd | L: Mg 0.7083; MgGd: Mg 0.5542; Mg2Gd: Gd 0.333333, Mg 0.666667 | model | [2] Guo 2007 | Table 3, p. 8, row 5; `ORC-KD7GZ7NGIP` |  |
+| 1028.15 | L + GdMg = GdMg2 | GdMg: Gd 0.5, Mg 0.5; GdMg2: Gd 0.333333, Mg 0.666667 | experimental | [1] Hampl 2013; _cites Janssen 2006_ [doi](https://doi.org/10.1063/1.2202923) | Table 5, p. 7, row 21; `ORC-VGRTAKTMBB` |  |
+| 1025.15 | L + GdMg = GdMg2 | L: Gd 0.323; GdMg: Gd 0.5; GdMg2: Gd 0.333 | model | [1] Hampl 2013 | Table 5, p. 7, row 22; `ORC-VCVPANP7L5` |  |
+| 1013.15 | L + GdMg2 = GdMg3 | L: Gd 0.2; GdMg2: Gd 0.333333, Mg 0.666667; GdMg3: Gd 0.25, Mg 0.75 | experimental | [1] Hampl 2013; _cites Savitskii 1961_ | Table 5, p. 7, row 14; `ORC-Y43S7BXUTP` |  |
+| 997.15 | eutectic: L = GdMg2 + GdMg3 | L: Gd 0.262; GdMg2: Gd 0.333; GdMg3: Gd 0.25 | model | [1] Hampl 2013 | Table 5, p. 7, row 16; `ORC-NJL2A7XNHK` |  |
+| 993.15 | L + GdMg2 = GdMg3 | L: Gd 0.239; GdMg2: Gd 0.333333, Mg 0.666667; GdMg3: Gd 0.25, Mg 0.75 | model | [1] Hampl 2013; _cites Guo 2007_ [doi](https://doi.org/10.1016/j.calphad.2006.10.004) | Table 5, p. 7, row 18; `ORC-FYECRZQW6Q` |  |
+| 993.15 | L + GdMg2 = GdMg3 | GdMg2: Gd 0.333333, Mg 0.666667; GdMg3: Gd 0.25, Mg 0.75 | experimental | [1] Hampl 2013; _cites Manfrinetti 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990135-9) | Table 5, p. 7, row 15; `ORC-LXAEKGCTNA` |  |
+| 993 | liq. + Mg2Gd -> Mg3Gd | L: Mg 0.7607; Mg2Gd: Gd 0.333333, Mg 0.666667; Mg3Gd: Gd 0.25, Mg 0.75 | model | [2] Guo 2007 | Table 3, p. 8, row 7; `ORC-GOK2U7Z2FB` |  |
+| 993 | liq. + Mg2Gd -> Mg3Gd | L: Mg 0.802; Mg2Gd: Gd 0.333333, Mg 0.666667; Mg3Gd: Gd 0.25, Mg 0.75 | experimental | [2] Guo 2007; _cites Manfrinetti 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990135-9) | Table 3, p. 8, row 8; `ORC-SB6VL4ACTJ` |  |
+| 973.15 | (βGd) = (αGd) + GdMg | (βGd): Gd 0.74; GdMg: Gd 0.5, Mg 0.5 | experimental | [1] Hampl 2013; _cites Manfrinetti 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990135-9) | Table 5, p. 7, row 29; `ORC-3IP6PVK3IF` |  |
+| 973.15 | (βGd) = (αGd) + GdMg | (βGd): Gd 0.765; (αGd): Gd 0.863; GdMg: Gd 0.499 | model | [1] Hampl 2013; _cites Guo 2007_ [doi](https://doi.org/10.1016/j.calphad.2006.10.004) | Table 5, p. 7, row 32; `ORC-4TITGKITMN` |  |
+| 973.15 | (βGd) = (αGd) + GdMg | (βGd): Gd 0.739; (αGd): Gd 0.881; GdMg: Gd 0.5 | model | [1] Hampl 2013 | Table 5, p. 7, row 30; `ORC-FHELYZVR55` |  |
+| 973 | bcc(Gd) -> MgGd + hcp(Gd) | bcc(Gd): Mg 0.2351; MgGd: Mg 0.5004; hcp(Gd): Mg 0.1373 | model | [2] Guo 2007 | Table 3, p. 8, row 3; `ORC-5LWGPT4ZEC` |  |
+| 973 | bcc(Gd) -> MgGd + hcp(Gd) | bcc(Gd): Mg 0.26; MgGd: Gd 0.5, Mg 0.5; hcp(Gd): Mg 0.141 | experimental | [2] Guo 2007; _cites Manfrinetti 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990135-9) | Table 3, p. 8, row 4; `ORC-HSN2TXSGNY` |  |
+| 957.15 | (βGd) = (αGd) + GdMg | (βGd): Gd 0.722; (αGd): Gd 0.875; GdMg: Gd 0.5 | model | [1] Hampl 2013 | Table 5, p. 7, row 31; `ORC-IIMKMFIESA` |  |
+| 931.15 | peritectic |  | experimental | [1] Hampl 2013; _cites Manfrinetti 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990135-9) | p. 9; `ORC-4D3KLUWHBF` | “It is impossible to reconcile this eutectic with the temperature suggested for this peritectic by Manfrinetti \[8\] at 658 °C.” |
+| 931.15 | L + GdMg3 = GdMg5 | GdMg3: Gd 0.25, Mg 0.75; GdMg5: Gd 0.166667, Mg 0.833333 | experimental | [1] Hampl 2013; _cites Manfrinetti 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990135-9) | Table 5, p. 7, row 9; `ORC-M7OJAZNONI` |  |
+| 931 | liq. + Mg3Gd -> Mg5Gd | L: Mg 0.84; Mg3Gd: Gd 0.25, Mg 0.75; Mg5Gd: Gd 0.166667, Mg 0.833333 | experimental | [2] Guo 2007; _cites Manfrinetti 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990135-9) | Table 3, p. 8, row 10; `ORC-6O45MUQYKF` |  |
+| 930.15 | L + GdMg3 = GdMg5 | L: Gd 0.158; GdMg3: Gd 0.25; GdMg5: Gd 0.166 | model | [1] Hampl 2013 | Table 5, p. 7, row 11; `ORC-DIEXFEQU3H` |  |
+| 930.15 | peritectic: L + GdMg3 = GdMg5 |  | model | [1] Hampl 2013 | p. 9; `ORC-DPVHQGQKGA.4cc00d` | “That includes a large temperature difference for the peritectic formation of GdMg5 by the reaction L + GdMg3 = GdMg5 between model I (657 °C) and model II (609 °C).” |
+| 929.15 | L + GdMg3 = GdMg5 | L: Gd 0.16; GdMg3: Gd 0.25, Mg 0.75; GdMg5: Gd 0.166667, Mg 0.833333 | model | [1] Hampl 2013; _cites Guo 2007_ [doi](https://doi.org/10.1016/j.calphad.2006.10.004) | Table 5, p. 7, row 13; `ORC-HP72QGUPPU` |  |
+| 929 | liq. + Mg3Gd -> Mg5Gd | L: Mg 0.8403; Mg3Gd: Gd 0.25, Mg 0.75; Mg5Gd: Gd 0.166667, Mg 0.833333 | model | [2] Guo 2007 | Table 3, p. 8, row 9; `ORC-2KMKU54CTN` |  |
+| 928.15 | peritectic: L + GdMg2 = GdMg3 |  | model | [1] Hampl 2013 | p. 9; `ORC-2D2JWHJ55C.1958ee` | “The thermal signals indicating an invariant reaction near 655 °C are re-interpreted in the present model II as belonging to the the peritectic reaction L + GdMg2 = GdMg3, instead of the reaction L + GdMg3 = GdMg5 given at 658 °C \[8\] or 642 °C \[9\].” |
+| 928.15 | L + GdMg2 = GdMg3 | L: Gd 0.189; GdMg2: Gd 0.333; GdMg3: Gd 0.25 | model | [1] Hampl 2013 | Table 5, p. 7, row 17; `ORC-OPENYPENMW` |  |
+| 915.15 | L + GdMg3 = GdMg5 | GdMg3: Gd 0.25, Mg 0.75; GdMg5: Gd 0.166667, Mg 0.833333 | experimental | [1] Hampl 2013; _cites Rokhlin 1998_ | Table 5, p. 7, row 10; `ORC-UZMHARUBLP` |  |
+| 913.15 | L + GdMg3 = GdMg5 | L: Gd 0.08; GdMg3: Gd 0.25, Mg 0.75; GdMg5: Gd 0.166667, Mg 0.833333 | experimental | [1] Hampl 2013; _cites Savitskii 1961_ | Table 5, p. 7, row 8; `ORC-UUXUGPAQIN` |  |
+| 882.15 | L + GdMg3 = GdMg5 | L: Gd 0.145; GdMg3: Gd 0.25; GdMg5: Gd 0.166 | model | [1] Hampl 2013 | Table 5, p. 7, row 12; `ORC-DPOLDEH2N2` |  |
+| 882.15 | peritectic: L + GdMg3 = GdMg5 |  | model | [1] Hampl 2013 | p. 9; `ORC-DPVHQGQKGA.19ec9a` | “That includes a large temperature difference for the peritectic formation of GdMg5 by the reaction L + GdMg3 = GdMg5 between model I (657 °C) and model II (609 °C).” |
+| 827.15 | eutectic: L = (Mg) + GdMg5 |  | model | [1] Hampl 2013; _cites Guo 2007_ [doi](https://doi.org/10.1016/j.calphad.2006.10.004) | p. 8; `ORC-BZNDOFVK2G` | “Guo et al. \[14\] calculated the eutectic temperature at 554 °C which is significantly higher than all the experimental data, see Table 5.” |
+| 827.15 | eutectic: L = (Mg) + GdMg5 | L: Gd 0.076; (Mg): Gd 0.038; GdMg5: Gd 0.166667, Mg 0.833333 | model | [1] Hampl 2013; _cites Guo 2007_ [doi](https://doi.org/10.1016/j.calphad.2006.10.004) | Table 5, p. 7, row 7; `ORC-HMZD5DT7NZ` |  |
+| 827 | liq. + Mg5Gd -> hcp(Mg) | L: Mg 0.9245; Mg5Gd: Gd 0.166667, Mg 0.833333; hcp(Mg): Mg 0.9623 | model | [2] Guo 2007 | Table 3, p. 8, row 11; `ORC-E6CJZWKTLG` |  |
+| 821.15 | eutectic: L = (Mg) + GdMg5 | L: Gd 0.083; (Mg): Gd 0.046; GdMg5: Gd 0.166 | model | [1] Hampl 2013 | Table 5, p. 7, row 6; `ORC-DGJGWYPUQL` |  |
+| 821.15 | eutectic: L = (Mg) + GdMg5 |  | model | [1] Hampl 2013 | p. 8; `ORC-JZNUVVNDP3.774156` | “The eutectic temperatures for both model I (547 °C) and model II (548 °C) are in good agreement with experimental data.” |
+| 821.15 | eutectic: L = (Mg) + GdMg5 | L: Gd 0.088; (Mg): Gd 0.04; GdMg5: Gd 0.166667, Mg 0.833333 | experimental | [1] Hampl 2013; _cites Manfrinetti 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990135-9) | Table 5, p. 7, row 2; `ORC-XXZIJ3A3IM` |  |
+| 821 | liq. + Mg5Gd -> hcp(Mg) | L: Mg 0.912; Mg5Gd: Gd 0.166667, Mg 0.833333; hcp(Mg): Mg 0.955 | experimental | [2] Guo 2007; _cites Manfrinetti 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990135-9) | Table 3, p. 8, row 12; `ORC-QKHAPPUUS6` |  |
+| 820.15 | eutectic: L = (Mg) + GdMg5 | GdMg5: Gd 0.166667, Mg 0.833333 | experimental | [1] Hampl 2013 | Table 5, p. 7, row 4; `ORC-CPLYQ5VFGE` |  |
+| 820.15 | eutectic: L = GdMg5 + (Mg) |  | experimental | [1] Hampl 2013 | p. 3; `ORC-E5AO62VZAJ.c48a6a` | “From repeated heating and cooling cycles, the liquidus temperature and the temperature of eutectic reaction L = GdMg5 + (Mg) were evaluated to be 592 °C and 547 °C, respectively.” |
+| 820.15 | eutectic: L = (Mg) + GdMg5 |  | model | [1] Hampl 2013 | p. 8; `ORC-JZNUVVNDP3.a1cf82` | “The eutectic temperatures for both model I (547 °C) and model II (548 °C) are in good agreement with experimental data.” |
+| 820.15 | eutectic: L = (Mg) + GdMg5 | L: Gd 0.075; (Mg): Gd 0.049; GdMg5: Gd 0.166 | model | [1] Hampl 2013 | Table 5, p. 7, row 5; `ORC-KQROHFDYRJ` |  |
+| 818.15 | eutectic: L = (Mg) + GdMg5 | L: Gd 0.057; GdMg5: Gd 0.166667, Mg 0.833333 | experimental | [1] Hampl 2013; _cites Savitskii 1961_ | Table 5, p. 7, row 1; `ORC-BHSZX5VT2S` |  |
+| 815.15 | eutectic: L = (Mg) + GdMg5 | L: Gd 0.095; GdMg5: Gd 0.166667, Mg 0.833333 | experimental | [1] Hampl 2013; _cites Rokhlin 1998_ | Table 5, p. 7, row 3; `ORC-MFNUM3YUBA` |  |
+| 814.05 | peritectoid: (Mg) + GdMg5 ! 14H |  | model | [3] Gröbner 2015 | p. 16; `ORC-NYZJVSBYWM` | “The hexagonal LPSO phase 14H, Gd8Mg70Zn6, is stable below 540.9 °C, where it is formed in a peritectoid solid state reaction, (Mg) + GdMg5 ! 14H, which is the maximum of this three-phase equilibrium.” |
 
 ## Other properties
 
@@ -179,11 +179,11 @@ Table: Phase transition, Gd–Mg system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 800.15 K | 800.15 | (Mg) + GdMg3 -> 14H + W | model | [3] Gröbner 2015 | p. 12 | “Under equilibrium conditions the 14H phase should form essentially below 527 °C in the solid state reaction U8: (Mg) + GdMg3 ! 14H + W, leaving only the phases 14H + (Mg) + W in equilibrium at 500 °C.” |
-| Phase transition | 865.15 K | 865.15 | other | experimental | [1] Hampl 2013 | p. 3 | “From repeated heating and cooling cycles, the liquidus temperature and the temperature of eutectic reaction L = GdMg5 + (Mg) were evaluated to be 592 °C and 547 °C, respectively.” |
-| Phase transition | 915.15 K | 915.15 | L + GdMg3 = GdMg5 | experimental | [1] Hampl 2013; _cites Rokhlin 1998_ | p. 9 | “The thermal signals indicating an invariant reaction near 655 °C are re-interpreted in the present model II as belonging to the the peritectic reaction L + GdMg2 = GdMg3, instead of the reaction L + GdMg3 = GdMg5 given at 658 °C \[8\] or 642 °C \[9\].” |
-| Phase transition | 1029.15 K | 1029.15 | L + GdMg = GdMg2 | experimental | [1] Hampl 2013; _cites Manfrinetti 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990135-9) | p. 9 | “As seen from Fig. 6 and Fig. 3 few experimental data are available to support the next invariant reaction at 760 °C, where the interpretation from model II, L + GdMg = GdMg2, agrees with the reaction type reported at 756 °C \[8\].” |
-| Phase transition | 1033.15 K | 1033.15 | L + GdMg = GdMg2 | model | [1] Hampl 2013 | p. 9 | “As seen from Fig. 6 and Fig. 3 few experimental data are available to support the next invariant reaction at 760 °C, where the interpretation from model II, L + GdMg = GdMg2, agrees with the reaction type reported at 756 °C \[8\].” |
+| Phase transition | 800.15 K | 800.15 | (Mg) + GdMg3 -> 14H + W | model | [3] Gröbner 2015 | p. 12; `ORC-OFQZ42RIOA` | “Under equilibrium conditions the 14H phase should form essentially below 527 °C in the solid state reaction U8: (Mg) + GdMg3 ! 14H + W, leaving only the phases 14H + (Mg) + W in equilibrium at 500 °C.” |
+| Phase transition | 865.15 K | 865.15 | other | experimental | [1] Hampl 2013 | p. 3; `ORC-E5AO62VZAJ.755564` | “From repeated heating and cooling cycles, the liquidus temperature and the temperature of eutectic reaction L = GdMg5 + (Mg) were evaluated to be 592 °C and 547 °C, respectively.” |
+| Phase transition | 915.15 K | 915.15 | L + GdMg3 = GdMg5 | experimental | [1] Hampl 2013; _cites Rokhlin 1998_ | p. 9; `ORC-2D2JWHJ55C.70b649` | “The thermal signals indicating an invariant reaction near 655 °C are re-interpreted in the present model II as belonging to the the peritectic reaction L + GdMg2 = GdMg3, instead of the reaction L + GdMg3 = GdMg5 given at 658 °C \[8\] or 642 °C \[9\].” |
+| Phase transition | 1029.15 K | 1029.15 | L + GdMg = GdMg2 | experimental | [1] Hampl 2013; _cites Manfrinetti 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990135-9) | p. 9; `ORC-S4WFGNWP77.7a6dac` | “As seen from Fig. 6 and Fig. 3 few experimental data are available to support the next invariant reaction at 760 °C, where the interpretation from model II, L + GdMg = GdMg2, agrees with the reaction type reported at 756 °C \[8\].” |
+| Phase transition | 1033.15 K | 1033.15 | L + GdMg = GdMg2 | model | [1] Hampl 2013 | p. 9; `ORC-S4WFGNWP77.fec9f3` | “As seen from Fig. 6 and Fig. 3 few experimental data are available to support the next invariant reaction at 760 °C, where the interpretation from model II, L + GdMg = GdMg2, agrees with the reaction type reported at 756 °C \[8\].” |
 
 ### Crystal structure (13)
 
@@ -191,19 +191,19 @@ Table: Crystal structure, Gd–Mg system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.3824 not_printed ± 5.000e-4 | 298.15 | GdMg; _alloy: Mg 0.5_ | experimental | [4] Kevorkov 2001; _cites Miller 1964_ | Table 2, p. 3, row 1 |  |
-| Lattice a | 3.812 Å | 298.15 | GdMg; _alloy: Mg 0.5_ | model | [3] Gröbner 2015; _cites Cao 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.08.004) | Table 5, p. 10, row 4 |  |
-| Lattice a | 0.3833 not_printed ± 2.000e-4 | 298.15 | GdMg; _alloy: Mg 0.5_ | experimental | [4] Kevorkov 2001 | Table 2, p. 3, row 2 |  |
-| Lattice a | 0.8575 not_printed ± 1.000e-4 | 298.15 | GdMg2; _alloy: Mg 0.666667_ | experimental | [4] Kevorkov 2001; _cites Manfrinetti 1986_ [doi](https://doi.org/10.1107/s0108270186097019) | Table 2, p. 3, row 4 |  |
-| Lattice a | 8.55 Å | 298.15 | GdMg2; _alloy: Mg 0.666667_ | model | [3] Gröbner 2015; _cites Cao 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.08.004) | Table 5, p. 10, row 3 |  |
-| Lattice a | 0.864 not_printed ± 1.000e-4 | 298.15 | GdMg2; _alloy: Mg 0.666667_ | experimental | [4] Kevorkov 2001 | Table 2, p. 3, row 5 |  |
-| Lattice a | 6.857 Å | 298.15 | GdMg3; _alloy: Mg 0.75_ | model | [3] Gröbner 2015; _cites Gao 2007_ [doi](https://doi.org/10.1016/j.scriptamat.2007.06.005) | Table 4, p. 9, row 2 |  |
-| Lattice a | 7.31 Å | 298.15 | GdMg3; _alloy: Mg 0.75_ | model | [3] Gröbner 2015; _cites Cao 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.08.004) | Table 5, p. 10, row 2 |  |
-| Lattice a | 0.7326 not_printed | 298.15 | GdMg3; _alloy: Mg 0.75_ | experimental | [4] Kevorkov 2001; _cites Will 1978_ | Table 2, p. 3, row 7 |  |
-| Lattice a | 0.7315 not_printed ± 5.000e-4 | 298.15 | GdMg3; _alloy: Mg 0.75_ | experimental | [4] Kevorkov 2001 | Table 2, p. 3, row 8 |  |
-| Lattice a | 2.2344 not_printed ± 8.000e-4 | 298.15 | GdMg5; _alloy: Mg 0.833333_ | experimental | [4] Kevorkov 2001; _cites Fornasini 1986_ [doi](https://doi.org/10.1107/s0108270186097019) | Table 2, p. 3, row 10 |  |
-| Lattice a | 22.344 Å | 298.15 | GdMg5; _alloy: Mg 0.833333_ | model | [3] Gröbner 2015; _cites Cao 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.08.004) | Table 5, p. 10, row 1 |  |
-| Lattice a | 22.344 Å | 298.15 | GdMg5; _alloy: Mg 0.833333_ | model | [3] Gröbner 2015; _cites Massalski 1990_ | Table 4, p. 9, row 1 |  |
+| Lattice a | 0.3824 not_printed ± 5.000e-4 | 298.15 | GdMg; _alloy: Mg 0.5_ | experimental | [4] Kevorkov 2001; _cites Miller 1964_ | Table 2, p. 3, row 1; `ORC-BHLXI2RTOR` |  |
+| Lattice a | 3.812 Å | 298.15 | GdMg; _alloy: Mg 0.5_ | model | [3] Gröbner 2015; _cites Cao 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.08.004) | Table 5, p. 10, row 4; `ORC-EHRQCN72C3` |  |
+| Lattice a | 0.3833 not_printed ± 2.000e-4 | 298.15 | GdMg; _alloy: Mg 0.5_ | experimental | [4] Kevorkov 2001 | Table 2, p. 3, row 2; `ORC-PQZYWCEK3Q` |  |
+| Lattice a | 0.8575 not_printed ± 1.000e-4 | 298.15 | GdMg2; _alloy: Mg 0.666667_ | experimental | [4] Kevorkov 2001; _cites Manfrinetti 1986_ [doi](https://doi.org/10.1107/s0108270186097019) | Table 2, p. 3, row 4; `ORC-I3GUHPHRXC` |  |
+| Lattice a | 8.55 Å | 298.15 | GdMg2; _alloy: Mg 0.666667_ | model | [3] Gröbner 2015; _cites Cao 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.08.004) | Table 5, p. 10, row 3; `ORC-KT7M6VQZWS` |  |
+| Lattice a | 0.864 not_printed ± 1.000e-4 | 298.15 | GdMg2; _alloy: Mg 0.666667_ | experimental | [4] Kevorkov 2001 | Table 2, p. 3, row 5; `ORC-MKME34UJC5` |  |
+| Lattice a | 6.857 Å | 298.15 | GdMg3; _alloy: Mg 0.75_ | model | [3] Gröbner 2015; _cites Gao 2007_ [doi](https://doi.org/10.1016/j.scriptamat.2007.06.005) | Table 4, p. 9, row 2; `ORC-5FQMBEENDM` |  |
+| Lattice a | 7.31 Å | 298.15 | GdMg3; _alloy: Mg 0.75_ | model | [3] Gröbner 2015; _cites Cao 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.08.004) | Table 5, p. 10, row 2; `ORC-FJR7MNIZJV` |  |
+| Lattice a | 0.7326 not_printed | 298.15 | GdMg3; _alloy: Mg 0.75_ | experimental | [4] Kevorkov 2001; _cites Will 1978_ | Table 2, p. 3, row 7; `ORC-ORJBQN3DYP` |  |
+| Lattice a | 0.7315 not_printed ± 5.000e-4 | 298.15 | GdMg3; _alloy: Mg 0.75_ | experimental | [4] Kevorkov 2001 | Table 2, p. 3, row 8; `ORC-WK6DOXCSHN` |  |
+| Lattice a | 2.2344 not_printed ± 8.000e-4 | 298.15 | GdMg5; _alloy: Mg 0.833333_ | experimental | [4] Kevorkov 2001; _cites Fornasini 1986_ [doi](https://doi.org/10.1107/s0108270186097019) | Table 2, p. 3, row 10; `ORC-6FTQI3YLSU` |  |
+| Lattice a | 22.344 Å | 298.15 | GdMg5; _alloy: Mg 0.833333_ | model | [3] Gröbner 2015; _cites Cao 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.08.004) | Table 5, p. 10, row 1; `ORC-RE27W5BDH6` |  |
+| Lattice a | 22.344 Å | 298.15 | GdMg5; _alloy: Mg 0.833333_ | model | [3] Gröbner 2015; _cites Massalski 1990_ | Table 4, p. 9, row 1; `ORC-VIF5GP26TS` |  |
 
 ## Sources
 
@@ -271,4 +271,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

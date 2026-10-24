@@ -52,10 +52,10 @@ Table: Invariant reactions reported in the literature for the Cu–V system (4)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1393.15 | L + (V) -> (Cu) |  | experimental | [1] Zhao 2008; _cites Savitskii 1964_ | Table 1, p. 2, row 2 |  |
-| 1361.15 | L + (V) -> (Cu) |  | experimental | [1] Zhao 2008; _cites Stevens 1969_ | Table 1, p. 2, row 3 |  |
-| 1360.15 | L + (V) -> (Cu) |  | experimental | [1] Zhao 2008 | Table 1, p. 2, row 4 |  |
-| 1358.15 | L + (V) -> (Cu) |  | experimental | [1] Zhao 2008; _cites McHugh 1959_ | Table 1, p. 2, row 1 |  |
+| 1393.15 | L + (V) -> (Cu) |  | experimental | [1] Zhao 2008; _cites Savitskii 1964_ | Table 1, p. 2, row 2; `ORC-K4YHM6TDR4` |  |
+| 1361.15 | L + (V) -> (Cu) |  | experimental | [1] Zhao 2008; _cites Stevens 1969_ | Table 1, p. 2, row 3; `ORC-RZBZJXUOBH` |  |
+| 1360.15 | L + (V) -> (Cu) |  | experimental | [1] Zhao 2008 | Table 1, p. 2, row 4; `ORC-PVC5Z675AH` |  |
+| 1358.15 | L + (V) -> (Cu) |  | experimental | [1] Zhao 2008; _cites McHugh 1959_ | Table 1, p. 2, row 1; `ORC-QZH2BZOVGP` |  |
 
 ## Other properties
 
@@ -65,10 +65,10 @@ Table: Phase transition, Cu–V system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1356.55 K | 1356.55 | peritectic: 2; _alloy: Cu 0.985, V 0.015_ | experimental | [1] Zhao 2008 | Table 2, p. 3, row 3 |  |
-| Phase transition | 1357.75 K | 1357.75 | peritectic: 2; _alloy: Cu 0.985, V 0.015_ | experimental | [1] Zhao 2008 | Table 2, p. 3, row 4 |  |
-| Phase transition | 1360.15 K | 1360.15 |  | model | [1] Zhao 2008; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | p. 2 | “The degenerated equilibrium temperature was placed at 1087 ± 2 ◦ C by calibrating to the melting point of Cu assessed by Dinsdale \[20\].” |
-| Phase transition | 1360.25 K | 1360.25 | 3; _alloy: Cu 0.5, V 0.5_ | experimental | [1] Zhao 2008 | Table 2, p. 3, row 5 |  |
+| Phase transition | 1356.55 K | 1356.55 | peritectic: 2; _alloy: Cu 0.985, V 0.015_ | experimental | [1] Zhao 2008 | Table 2, p. 3, row 3; `ORC-24G6QEDB7X` |  |
+| Phase transition | 1357.75 K | 1357.75 | peritectic: 2; _alloy: Cu 0.985, V 0.015_ | experimental | [1] Zhao 2008 | Table 2, p. 3, row 4; `ORC-5VKL7IOLOH` |  |
+| Phase transition | 1360.15 K | 1360.15 |  | model | [1] Zhao 2008; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | p. 2; `ORC-DJ6L2JIKEA` | “The degenerated equilibrium temperature was placed at 1087 ± 2 ◦ C by calibrating to the melting point of Cu assessed by Dinsdale \[20\].” |
+| Phase transition | 1360.25 K | 1360.25 | 3; _alloy: Cu 0.5, V 0.5_ | experimental | [1] Zhao 2008 | Table 2, p. 3, row 5; `ORC-U6UNJ2A7VS` |  |
 
 ### Phase equilibrium (2)
 
@@ -76,8 +76,8 @@ Table: Phase equilibrium, Cu–V system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 1354.45 | congruent melting: 1; _liquid: Cu 1, V 0_ | experimental | [1] Zhao 2008 | Table 2, p. 3, row 1 |  |
-| Phase composition |  | 1356.15 | congruent melting: 1; _liquid: Cu 1, V 0_ | experimental | [1] Zhao 2008 | Table 2, p. 3, row 2 |  |
+| Phase composition |  | 1354.45 | congruent melting: 1; _liquid: Cu 1, V 0_ | experimental | [1] Zhao 2008 | Table 2, p. 3, row 1; `ORC-6XNZTNI5MZ` |  |
+| Phase composition |  | 1356.15 | congruent melting: 1; _liquid: Cu 1, V 0_ | experimental | [1] Zhao 2008 | Table 2, p. 3, row 2; `ORC-R5MC5A3PZN` |  |
 
 ### Mixing / partial (2)
 
@@ -85,8 +85,8 @@ Table: Mixing / partial, Cu–V system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: enthalpy of mixing_ | 80 unspecified ± 25 | 1373.15 |  | experimental | [1] Zhao 2008; _cites Watanabe 1984_ [doi](https://doi.org/10.1007/bf02667340) | p. 4 | “Additionally, the presently calculated value for enthalpy of mixing of the Cu99.97 V0.03 melt at 1100 ◦ C is 56.34 kJ/mol. This computed datum agrees reasonably with the experimental one of 80 ± 25 kJ/mol from Watanabe and Kleppa \[17\].” |
-| Enthalpy of mixing; _printed: enthalpy of mixing_ | 56.34 kJ/mol (basis unstated) | 1373.15 |  | model | [1] Zhao 2008 | p. 4 | “Additionally, the presently calculated value for enthalpy of mixing of the Cu99.97 V0.03 melt at 1100 ◦ C is 56.34 kJ/mol.” |
+| Enthalpy of mixing; _printed: enthalpy of mixing_ | 80 unspecified ± 25 | 1373.15 |  | experimental | [1] Zhao 2008; _cites Watanabe 1984_ [doi](https://doi.org/10.1007/bf02667340) | p. 4; `ORC-CWLL4WBHHG.1a6a4e` | “Additionally, the presently calculated value for enthalpy of mixing of the Cu99.97 V0.03 melt at 1100 ◦ C is 56.34 kJ/mol. This computed datum agrees reasonably with the experimental one of 80 ± 25 kJ/mol from Watanabe and Kleppa \[17\].” |
+| Enthalpy of mixing; _printed: enthalpy of mixing_ | 56.34 kJ/mol (basis unstated) | 1373.15 |  | model | [1] Zhao 2008 | p. 4; `ORC-CWLL4WBHHG.ca6773` | “Additionally, the presently calculated value for enthalpy of mixing of the Cu99.97 V0.03 melt at 1100 ◦ C is 56.34 kJ/mol.” |
 
 ## Sources
 
@@ -151,4 +151,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

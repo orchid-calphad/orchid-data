@@ -34,8 +34,8 @@ Table: Enthalpies of formation, N–Ta system (2)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| TaN3 | [TaN3](https://data.orchid-project.org/compounds/TaN3.html) | 22 kJ/mol-atom | 298.15 | unspecified |  | 75.777 (oqmd-322871) | [1] Frisk 1998 | Table 2, p. 7, row 1 |  |
-| TaN3 | [TaN3](https://data.orchid-project.org/compounds/TaN3.html) | 22 kJ/mol-atom | 298.15 | unspecified |  | 75.777 (oqmd-322871) | [1] Frisk 1998; _cites F 1988_ | Table 2, p. 7, row 2 |  |
+| TaN3 | [TaN3](https://data.orchid-project.org/compounds/TaN3.html) | 22 kJ/mol-atom | 298.15 | unspecified |  | 75.777 (oqmd-322871) | [1] Frisk 1998 | Table 2, p. 7, row 1; `ORC-ETM4B5HQ7B.8cb200` |  |
+| TaN3 | [TaN3](https://data.orchid-project.org/compounds/TaN3.html) | 22 kJ/mol-atom | 298.15 | unspecified |  | 75.777 (oqmd-322871) | [1] Frisk 1998; _cites F 1988_ | Table 2, p. 7, row 2; `ORC-NXZXLEBKFD.3cb80c` |  |
 
 ## Other properties
 
@@ -45,9 +45,9 @@ Table: Phase transition, N–Ta system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1950 K | 1950 | fcc dTaNx + hcp e-TaN | experimental | [2] Danon 2003; _cites Frisk 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900582-9) | p. 8 | “In this point it is worth to mention that the fcc dTaNx nitride is not stable below 1950 K in the binary Ta-N system \[14\]; the equilibrium phase of TaN formed at lower temperatures is hcp e-TaN.” |
-| Phase transition | 3203 K | 3203 |  | experimental | [1] Frisk 1998 | p. 8 | “They reported a melting temperature of Ta 2 N of 3203 K at 80 atm N 2 .” |
-| Phase transition | 3203 K | 3203 |  | model | [1] Frisk 1998 | p. 8 | “The calculated melting temperature of Ta 2 N is 3203 K.” |
+| Phase transition | 1950 K | 1950 | fcc dTaNx + hcp e-TaN | experimental | [2] Danon 2003; _cites Frisk 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900582-9) | p. 8; `ORC-DX6CXLAWGL` | “In this point it is worth to mention that the fcc dTaNx nitride is not stable below 1950 K in the binary Ta-N system \[14\]; the equilibrium phase of TaN formed at lower temperatures is hcp e-TaN.” |
+| Phase transition | 3203 K | 3203 |  | experimental | [1] Frisk 1998 | p. 8; `ORC-B433PBLIJP` | “They reported a melting temperature of Ta 2 N of 3203 K at 80 atm N 2 .” |
+| Phase transition | 3203 K | 3203 |  | model | [1] Frisk 1998 | p. 8; `ORC-Z6GM3HBGKW` | “The calculated melting temperature of Ta 2 N is 3203 K.” |
 
 ### Crystal structure (4)
 
@@ -55,10 +55,10 @@ Table: Crystal structure, N–Ta system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 5.285 Å | 298.15 | Ta2Nx (hcp) | experimental | [1] Frisk 1998; _cites Conroy 1977_ [doi](https://doi.org/10.1016/0022-4596%2877%2990069-x) | Table 1, p. 2, row 1 |  |
-| Lattice a | 5.196 Å | 298.15 | ε-TaN; _alloy: Ta 0.5_ | experimental | [1] Frisk 1998; _cites Christensen 1978_ [doi](https://doi.org/10.1107/s0567740878002733) | Table 1, p. 2, row 3 |  |
-| Lattice c | 4.919 Å | 298.15 | Ta2Nx (hcp) | experimental | [1] Frisk 1998; _cites Conroy 1977_ [doi](https://doi.org/10.1016/0022-4596%2877%2990069-x) | Table 1, p. 2, row 1 |  |
-| Lattice c | 2.911 Å | 298.15 | ε-TaN; _alloy: Ta 0.5_ | experimental | [1] Frisk 1998; _cites Christensen 1978_ [doi](https://doi.org/10.1107/s0567740878002733) | Table 1, p. 2, row 3 |  |
+| Lattice a | 5.285 Å | 298.15 | Ta2Nx (hcp) | experimental | [1] Frisk 1998; _cites Conroy 1977_ [doi](https://doi.org/10.1016/0022-4596%2877%2990069-x) | Table 1, p. 2, row 1; `ORC-WQHIUHVXHD.08bf80` |  |
+| Lattice a | 5.196 Å | 298.15 | ε-TaN; _alloy: Ta 0.5_ | experimental | [1] Frisk 1998; _cites Christensen 1978_ [doi](https://doi.org/10.1107/s0567740878002733) | Table 1, p. 2, row 3; `ORC-2MI2XLJXTQ.a12ce5` |  |
+| Lattice c | 4.919 Å | 298.15 | Ta2Nx (hcp) | experimental | [1] Frisk 1998; _cites Conroy 1977_ [doi](https://doi.org/10.1016/0022-4596%2877%2990069-x) | Table 1, p. 2, row 1; `ORC-WQHIUHVXHD.352a6e` |  |
+| Lattice c | 2.911 Å | 298.15 | ε-TaN; _alloy: Ta 0.5_ | experimental | [1] Frisk 1998; _cites Christensen 1978_ [doi](https://doi.org/10.1107/s0567740878002733) | Table 1, p. 2, row 3; `ORC-2MI2XLJXTQ.4598e2` |  |
 
 ## Sources
 
@@ -113,4 +113,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -69,16 +69,16 @@ Table: Invariant reactions reported in the literature for the Ru–Zr system (10
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2098.15 | Ru2Zr -> Liq+ RuZr | Ru2Zr: Zr 0.33; L: Zr 0.31; RuZr: Zr 0.485 | experimental | [1] Idbenali 2007; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02667814) | Table 4, p. 5, row 3 |  |
-| 2098.15 | Ru2Zr -> Liq+ RuZr | Ru2Zr: Zr 0.3223; L: Zr 0.3013; RuZr: Zr 0.4874 | model | [1] Idbenali 2007 | Table 4, p. 5, row 4 |  |
-| 1988.15 | Liq -> (Ru) + Ru2Zr | L: Zr 0.22; (Ru): Zr 0.019; Ru2Zr: Zr 0.32 | experimental | [1] Idbenali 2007; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02667814) | Table 4, p. 5, row 1 |  |
-| 1988.15 | Liq -> (Ru) + Ru2Zr | L: Zr 0.2336; (Ru): Zr 0.0181; Ru2Zr: Zr 0.3111 | model | [1] Idbenali 2007 | Table 4, p. 5, row 2 |  |
-| 1558.15 | Ru2Zr -> (Ru) + RuZr | Ru2Zr: Zr 0.3208; (Ru): Zr 0.0161; RuZr: Zr 0.478 | model | [1] Idbenali 2007 | Table 4, p. 5, row 12 |  |
-| 1558.15 | Ru2Zr -> (Ru) + RuZr | Ru2Zr: Zr 0.33; (Ru): Zr 0.01; RuZr: Zr 0.48 | experimental | [1] Idbenali 2007; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02667814) | Table 4, p. 5, row 11 |  |
-| 1514.15 | RuZr + β(Zr) -> Liq | RuZr: Zr 0.5119; β(Zr): Zr 0.8892; L: Zr 0.7942 | model | [1] Idbenali 2007 | Table 4, p. 5, row 8 |  |
-| 1513.15 | RuZr + β(Zr) -> Liq | RuZr: Zr 0.52; β(Zr): Zr 0.89; L: Zr 0.79 | experimental | [1] Idbenali 2007; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02667814) | Table 4, p. 5, row 7 |  |
-| 773.15 | β(Zr) -> α(Zr) + RuZr | β(Zr): Zr 0.92; α(Zr): Zr 0.99; RuZr: Zr 0.51 | experimental | [1] Idbenali 2007; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02667814) | Table 4, p. 5, row 9 |  |
-| 772.75 | β(Zr) -> α(Zr) + RuZr | β(Zr): Zr 0.9064; α(Zr): Zr 0.9948; RuZr: Zr 0.501 | model | [1] Idbenali 2007 | Table 4, p. 5, row 10 |  |
+| 2098.15 | Ru2Zr -> Liq+ RuZr | Ru2Zr: Zr 0.33; L: Zr 0.31; RuZr: Zr 0.485 | experimental | [1] Idbenali 2007; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02667814) | Table 4, p. 5, row 3; `ORC-5JKAJA5HQB` |  |
+| 2098.15 | Ru2Zr -> Liq+ RuZr | Ru2Zr: Zr 0.3223; L: Zr 0.3013; RuZr: Zr 0.4874 | model | [1] Idbenali 2007 | Table 4, p. 5, row 4; `ORC-5VTCPSYNUJ` |  |
+| 1988.15 | Liq -> (Ru) + Ru2Zr | L: Zr 0.22; (Ru): Zr 0.019; Ru2Zr: Zr 0.32 | experimental | [1] Idbenali 2007; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02667814) | Table 4, p. 5, row 1; `ORC-4ITBN52CAY` |  |
+| 1988.15 | Liq -> (Ru) + Ru2Zr | L: Zr 0.2336; (Ru): Zr 0.0181; Ru2Zr: Zr 0.3111 | model | [1] Idbenali 2007 | Table 4, p. 5, row 2; `ORC-SRUGTBT3SH` |  |
+| 1558.15 | Ru2Zr -> (Ru) + RuZr | Ru2Zr: Zr 0.3208; (Ru): Zr 0.0161; RuZr: Zr 0.478 | model | [1] Idbenali 2007 | Table 4, p. 5, row 12; `ORC-D6I6IPBGKA` |  |
+| 1558.15 | Ru2Zr -> (Ru) + RuZr | Ru2Zr: Zr 0.33; (Ru): Zr 0.01; RuZr: Zr 0.48 | experimental | [1] Idbenali 2007; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02667814) | Table 4, p. 5, row 11; `ORC-WQ3PWHWFP4` |  |
+| 1514.15 | RuZr + β(Zr) -> Liq | RuZr: Zr 0.5119; β(Zr): Zr 0.8892; L: Zr 0.7942 | model | [1] Idbenali 2007 | Table 4, p. 5, row 8; `ORC-RM37AJY7CW` |  |
+| 1513.15 | RuZr + β(Zr) -> Liq | RuZr: Zr 0.52; β(Zr): Zr 0.89; L: Zr 0.79 | experimental | [1] Idbenali 2007; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02667814) | Table 4, p. 5, row 7; `ORC-WEW7QRXWXK` |  |
+| 773.15 | β(Zr) -> α(Zr) + RuZr | β(Zr): Zr 0.92; α(Zr): Zr 0.99; RuZr: Zr 0.51 | experimental | [1] Idbenali 2007; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02667814) | Table 4, p. 5, row 9; `ORC-QGRPJXV6XZ` |  |
+| 772.75 | β(Zr) -> α(Zr) + RuZr | β(Zr): Zr 0.9064; α(Zr): Zr 0.9948; RuZr: Zr 0.501 | model | [1] Idbenali 2007 | Table 4, p. 5, row 10; `ORC-JWO3GY57ZB` |  |
 
 ## Formation enthalpies
 
@@ -88,20 +88,20 @@ Table: Enthalpies of formation, Ru–Zr system (14)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Ru2Zr |  | -78 kJ/mol (basis unstated) |  | model |  |  | [1] Idbenali 2007; _cites F 1988_ | Table 1, p. 2, row 12 |  |
-| Ru2Zr |  | -49 kJ/mol (basis unstated) |  | model |  |  | [1] Idbenali 2007; _cites Colinet 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990032-x) | Table 1, p. 2, row 11 |  |
-| Ru2Zr |  | -32.08 kJ/mol (basis unstated) |  | model |  |  | [1] Idbenali 2007; _cites Mahdouk 1997_ [doi](https://doi.org/10.1016/s0966-9795%2896%2900069-6) | Table 1, p. 2, row 13 |  |
-| Ru2Zr |  | -32 kJ/mol (basis unstated) ± 0.9 | 1743 | experimental |  |  | [1] Idbenali 2007; _cites Mahdouk 1997_ [doi](https://doi.org/10.1016/s0966-9795%2896%2900069-6) | Table 1, p. 2, row 10 |  |
-| Ru2Zr |  | -31.97 kJ/mol (basis unstated) | 1743 | model |  |  | [1] Idbenali 2007 | Table 1, p. 2, row 14 |  |
-| RuZr |  | -88 kJ/mol (basis unstated) |  | model |  |  | [1] Idbenali 2007; _cites Guo 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2900956-2) | Table 1, p. 2, row 7 |  |
-| RuZr |  | -88 kJ/mol (basis unstated) |  | model |  |  | [1] Idbenali 2007; _cites F 1988_ | Table 1, p. 2, row 5 |  |
-| RuZr |  | -68.7 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Idbenali 2007; _cites Topor 1988_ [doi](https://doi.org/10.1007/bf02628390) | Table 1, p. 2, row 6 |  |
-| RuZr |  | -68.65 kJ/mol (basis unstated) ± 2.5 | 298.15 | experimental |  |  | [1] Idbenali 2007; _cites Topor 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990449-9) | Table 1, p. 2, row 2 |  |
-| RuZr |  | -61 kJ/mol (basis unstated) |  | model |  |  | [1] Idbenali 2007; _cites Watson 1988_ [doi](https://doi.org/10.1016/s0036-9748%2888%2980148-0) | Table 1, p. 2, row 4 |  |
-| RuZr |  | -55.95 kJ/mol (basis unstated) | 1753 | model |  |  | [1] Idbenali 2007 | Table 1, p. 2, row 9 |  |
-| RuZr |  | -55.8 kJ/mol (basis unstated) |  | model |  |  | [1] Idbenali 2007; _cites Mahdouk 1997_ [doi](https://doi.org/10.1016/s0966-9795%2896%2900069-6) | Table 1, p. 2, row 8 |  |
-| RuZr |  | -55.8 kJ/mol (basis unstated) ± 2.3 | 1753 | experimental |  |  | [1] Idbenali 2007; _cites Mahdouk 1997_ [doi](https://doi.org/10.1016/s0966-9795%2896%2900069-6) | Table 1, p. 2, row 1 |  |
-| RuZr |  | -53 kJ/mol (basis unstated) |  | model |  |  | [1] Idbenali 2007; _cites Colinet 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990032-x) | Table 1, p. 2, row 3 |  |
+| Ru2Zr |  | -78 kJ/mol (basis unstated) |  | model |  |  | [1] Idbenali 2007; _cites F 1988_ | Table 1, p. 2, row 12; `ORC-M2V5NPZGSZ.5177a4` |  |
+| Ru2Zr |  | -49 kJ/mol (basis unstated) |  | model |  |  | [1] Idbenali 2007; _cites Colinet 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990032-x) | Table 1, p. 2, row 11; `ORC-JNC2TYRWEF.7ef1d0` |  |
+| Ru2Zr |  | -32.08 kJ/mol (basis unstated) |  | model |  |  | [1] Idbenali 2007; _cites Mahdouk 1997_ [doi](https://doi.org/10.1016/s0966-9795%2896%2900069-6) | Table 1, p. 2, row 13; `ORC-BI65Q4TVXW.32b045` |  |
+| Ru2Zr |  | -32 kJ/mol (basis unstated) ± 0.9 | 1743 | experimental |  |  | [1] Idbenali 2007; _cites Mahdouk 1997_ [doi](https://doi.org/10.1016/s0966-9795%2896%2900069-6) | Table 1, p. 2, row 10; `ORC-JMXJE6UIYH.1b6e02` |  |
+| Ru2Zr |  | -31.97 kJ/mol (basis unstated) | 1743 | model |  |  | [1] Idbenali 2007 | Table 1, p. 2, row 14; `ORC-RWGIE3LW6M.90f325` |  |
+| RuZr |  | -88 kJ/mol (basis unstated) |  | model |  |  | [1] Idbenali 2007; _cites Guo 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2900956-2) | Table 1, p. 2, row 7; `ORC-HUMYBKPUYY.2d2c78` |  |
+| RuZr |  | -88 kJ/mol (basis unstated) |  | model |  |  | [1] Idbenali 2007; _cites F 1988_ | Table 1, p. 2, row 5; `ORC-WMDII5XS2C.17f776` |  |
+| RuZr |  | -68.7 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Idbenali 2007; _cites Topor 1988_ [doi](https://doi.org/10.1007/bf02628390) | Table 1, p. 2, row 6; `ORC-FK22ARQA3Y.3029a1` |  |
+| RuZr |  | -68.65 kJ/mol (basis unstated) ± 2.5 | 298.15 | experimental |  |  | [1] Idbenali 2007; _cites Topor 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990449-9) | Table 1, p. 2, row 2; `ORC-WR5TWJE3OW.bf9a2c` |  |
+| RuZr |  | -61 kJ/mol (basis unstated) |  | model |  |  | [1] Idbenali 2007; _cites Watson 1988_ [doi](https://doi.org/10.1016/s0036-9748%2888%2980148-0) | Table 1, p. 2, row 4; `ORC-SPIYI5UVAI.14d767` |  |
+| RuZr |  | -55.95 kJ/mol (basis unstated) | 1753 | model |  |  | [1] Idbenali 2007 | Table 1, p. 2, row 9; `ORC-42EFHJZWTQ.09a2ea` |  |
+| RuZr |  | -55.8 kJ/mol (basis unstated) |  | model |  |  | [1] Idbenali 2007; _cites Mahdouk 1997_ [doi](https://doi.org/10.1016/s0966-9795%2896%2900069-6) | Table 1, p. 2, row 8; `ORC-IQEIFWC64G.9a42f6` |  |
+| RuZr |  | -55.8 kJ/mol (basis unstated) ± 2.3 | 1753 | experimental |  |  | [1] Idbenali 2007; _cites Mahdouk 1997_ [doi](https://doi.org/10.1016/s0966-9795%2896%2900069-6) | Table 1, p. 2, row 1; `ORC-SFUD4HXTDP.00ddf6` |  |
+| RuZr |  | -53 kJ/mol (basis unstated) |  | model |  |  | [1] Idbenali 2007; _cites Colinet 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990032-x) | Table 1, p. 2, row 3; `ORC-7W5L5R7HVO.098fc2` |  |
 
 ## Other properties
 
@@ -111,10 +111,10 @@ Table: Phase transition, Ru–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 2128 K | 2128 | congruent transformation | experimental | [1] Idbenali 2007; _cites Eremenko 1988_ | p. 5 | “The congruent melting of RuZr calculated at 2131K and x(Zr) = 0.5 is in very good agreement with the experimental data of Eremenko et al.\[3\] (2128 K and x(Zr) = 0.494).” |
-| Phase transition | 2131 K | 2131 | congruent transformation | model | [1] Idbenali 2007 | p. 5 | “The congruent melting of RuZr calculated at 2131K and x(Zr) = 0.5 is in very good agreement with the experimental data of Eremenko et al.\[3\] (2128 K and x(Zr) = 0.494).” |
-| Phase transition | 2403.15 K | 2403.15 | Liq -> RuZr; _L: Zr 0.5; RuZr: Zr 0.5_ | experimental | [1] Idbenali 2007; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02667814) | Table 4, p. 5, row 5 |  |
-| Phase transition | 2404.15 K | 2404.15 | Liq -> RuZr; _L: Zr 0.5; RuZr: Zr 0.5_ | model | [1] Idbenali 2007 | Table 4, p. 5, row 6 |  |
+| Phase transition | 2128 K | 2128 | congruent transformation | experimental | [1] Idbenali 2007; _cites Eremenko 1988_ | p. 5; `ORC-ANQW4PEYNF.e04fcb` | “The congruent melting of RuZr calculated at 2131K and x(Zr) = 0.5 is in very good agreement with the experimental data of Eremenko et al.\[3\] (2128 K and x(Zr) = 0.494).” |
+| Phase transition | 2131 K | 2131 | congruent transformation | model | [1] Idbenali 2007 | p. 5; `ORC-ANQW4PEYNF.1b74b3` | “The congruent melting of RuZr calculated at 2131K and x(Zr) = 0.5 is in very good agreement with the experimental data of Eremenko et al.\[3\] (2128 K and x(Zr) = 0.494).” |
+| Phase transition | 2403.15 K | 2403.15 | Liq -> RuZr; _L: Zr 0.5; RuZr: Zr 0.5_ | experimental | [1] Idbenali 2007; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02667814) | Table 4, p. 5, row 5; `ORC-O3ROESZU2D` |  |
+| Phase transition | 2404.15 K | 2404.15 | Liq -> RuZr; _L: Zr 0.5; RuZr: Zr 0.5_ | model | [1] Idbenali 2007 | Table 4, p. 5, row 6; `ORC-KETR46AHOY` |  |
 
 ## Sources
 
@@ -179,4 +179,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -14,12 +14,12 @@ Table: Enthalpy of formation of SnSe reported in the literature (6)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -47.5 kJ/mol-atom ± 1 | SnSe | 298.15 | experimental |  | [Se–Sn](https://data.orchid-project.org/systems/SE-SN.html) | [1] Feutelais 1996; _cites ref. 71Mel_ | Table 9, p. 8, row 6 |  |
-| -47 kJ/mol-atom ± 1.5 | SnSe | 298.15 | experimental |  | [Se–Sn](https://data.orchid-project.org/systems/SE-SN.html) | [1] Feutelais 1996; _cites Boone 1992_ [doi](https://doi.org/10.1016/0040-6031%2892%2987043-a) | Table 9, p. 8, row 9 |  |
-| -45.5 kJ/mol-atom ± 2 | SnSe | 298.15 | experimental |  | [Se–Sn](https://data.orchid-project.org/systems/SE-SN.html) | [1] Feutelais 1996; _cites Hajiev 1960_ | Table 9, p. 8, row 1 |  |
-| -45 kJ/mol-atom ± 3.5 | SnSe | 298.15 | experimental |  | [Se–Sn](https://data.orchid-project.org/systems/SE-SN.html) | [1] Feutelais 1996; _cites ref. 64Col_ | Table 9, p. 8, row 2 |  |
-| -44.8 kJ/mol-atom ± 0.2 | SnSe | 298.15 | experimental |  | [Se–Sn](https://data.orchid-project.org/systems/SE-SN.html) | [1] Feutelais 1996; _cites ref. 67Kar_ | Table 9, p. 8, row 3 |  |
-| -54.7 kJ/mol-atom | SnSe | 298.15 | model |  | [Se–Sn](https://data.orchid-project.org/systems/SE-SN.html) | [1] Feutelais 1996 | Table 9, p. 8, row 11 |  |
+| -47.5 kJ/mol-atom ± 1 | SnSe | 298.15 | experimental |  | [Se–Sn](https://data.orchid-project.org/systems/SE-SN.html) | [1] Feutelais 1996; _cites ref. 71Mel_ | Table 9, p. 8, row 6; `ORC-V7VHHJ5GSB.b91536` |  |
+| -47 kJ/mol-atom ± 1.5 | SnSe | 298.15 | experimental |  | [Se–Sn](https://data.orchid-project.org/systems/SE-SN.html) | [1] Feutelais 1996; _cites Boone 1992_ [doi](https://doi.org/10.1016/0040-6031%2892%2987043-a) | Table 9, p. 8, row 9; `ORC-2CEFS6VVEV.afeb02` |  |
+| -45.5 kJ/mol-atom ± 2 | SnSe | 298.15 | experimental |  | [Se–Sn](https://data.orchid-project.org/systems/SE-SN.html) | [1] Feutelais 1996; _cites Hajiev 1960_ | Table 9, p. 8, row 1; `ORC-OTLJ2QNFR6` |  |
+| -45 kJ/mol-atom ± 3.5 | SnSe | 298.15 | experimental |  | [Se–Sn](https://data.orchid-project.org/systems/SE-SN.html) | [1] Feutelais 1996; _cites ref. 64Col_ | Table 9, p. 8, row 2; `ORC-TZ4OR4CMJG` |  |
+| -44.8 kJ/mol-atom ± 0.2 | SnSe | 298.15 | experimental |  | [Se–Sn](https://data.orchid-project.org/systems/SE-SN.html) | [1] Feutelais 1996; _cites ref. 67Kar_ | Table 9, p. 8, row 3; `ORC-SXCESCRLPN.a39dda` |  |
+| -54.7 kJ/mol-atom | SnSe | 298.15 | model |  | [Se–Sn](https://data.orchid-project.org/systems/SE-SN.html) | [1] Feutelais 1996 | Table 9, p. 8, row 11; `ORC-FU4YYPX6NM.a7871b` |  |
 
 ### Uncertainty budget
 
@@ -100,4 +100,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

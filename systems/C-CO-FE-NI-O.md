@@ -28,20 +28,20 @@ Table: Activity / EMF / Gibbs energy, C–Co–Fe–Ni–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Gibbs energy; _printed: Δ°G(T) \[T\]_ | 85.302 J/mol | 900 | UNKNOWN | experimental | [1] Grundy 2003 | Table 5, p. 10, row 11 |  |
-| Gibbs energy; _printed: Δ°G(T) \[a\]_ | -234540 J/mol | 900 | UNKNOWN | experimental | [1] Grundy 2003 | Table 5, p. 10, row 11 |  |
-| Gibbs energy; _printed: Δ°G(T) \[a\]_ | -282330 J/mol | 1100 | UNKNOWN | experimental | [1] Grundy 2003; _cites SGTE 1997_ | Table 5, p. 10, row 18 |  |
-| Gibbs energy; _printed: Δ°G(T) \[T\]_ | 86.6511 J/mol | 1100 | UNKNOWN | experimental | [1] Grundy 2003; _cites SGTE 1997_ | Table 5, p. 10, row 18 |  |
-| Gibbs energy; _printed: Δ°G(T) \[a\]_ | -239484 J/mol | 1200 | UNKNOWN | experimental | [1] Grundy 2003; _cites ONeill 1993_ [doi](https://doi.org/10.1007/bf01046534) | Table 5, p. 10, row 10 |  |
-| Gibbs energy; _printed: Δ°G(T) \[T\]_ | 124.202 J/mol | 1200 | UNKNOWN | experimental | [1] Grundy 2003; _cites ONeill 1993_ [doi](https://doi.org/10.1007/bf01046534) | Table 5, p. 10, row 10 |  |
-| Gibbs energy; _printed: Δ°G(T) \[T lnT\]_ | -4.898 J/mol | 1200 | UNKNOWN | experimental | [1] Grundy 2003; _cites ONeill 1993_ [doi](https://doi.org/10.1007/bf01046534) | Table 5, p. 10, row 10 |  |
-| Gibbs energy; _printed: Δ°G(T) \[a\]_ | -232656 J/mol | 1200 | UNKNOWN | experimental | [1] Grundy 2003; _cites Chen_ | Table 5, p. 10, row 17 |  |
-| Gibbs energy; _printed: Δ°G(T) \[T\]_ | 69.73 J/mol | 1200 | UNKNOWN | experimental | [1] Grundy 2003; _cites Chen_ | Table 5, p. 10, row 17 |  |
-| Gibbs energy; _printed: Δ°G(T) \[T lnT\]_ | 43.103 J/mol | 1350 | UNKNOWN | experimental | [1] Grundy 2003 | Table 5, p. 10, row 16 |  |
-| Gibbs energy; _printed: Δ°G(T) \[a\]_ | -190351 J/mol | 1350 | UNKNOWN | experimental | [1] Grundy 2003 | Table 5, p. 10, row 16 |  |
-| Gibbs energy; _printed: Δ°G(T) \[T (printed without T)\]_ | -211.413 J/mol | 1350 | UNKNOWN | experimental | [1] Grundy 2003 | Table 5, p. 10, row 16 |  |
-| Gibbs energy; _printed: Δ°G(T) \[T\]_ | 83.485 J/mol | 1500 | UNKNOWN | experimental | [1] Grundy 2003 | Table 5, p. 10, row 12 |  |
-| Gibbs energy; _printed: Δ°G(T) \[a\]_ | -232155 J/mol | 1500 | UNKNOWN | experimental | [1] Grundy 2003 | Table 5, p. 10, row 12 |  |
+| Gibbs energy; _printed: Δ°G(T) \[T\]_ | 85.302 J/mol | 900 | UNKNOWN | experimental | [1] Grundy 2003 | Table 5, p. 10, row 11; `ORC-SO24BJGCUQ.a3ad3f` |  |
+| Gibbs energy; _printed: Δ°G(T) \[a\]_ | -234540 J/mol | 900 | UNKNOWN | experimental | [1] Grundy 2003 | Table 5, p. 10, row 11; `ORC-SO24BJGCUQ.de8821` |  |
+| Gibbs energy; _printed: Δ°G(T) \[a\]_ | -282330 J/mol | 1100 | UNKNOWN | experimental | [1] Grundy 2003; _cites SGTE 1997_ | Table 5, p. 10, row 18; `ORC-5GOOBUSUNX.d0315b` |  |
+| Gibbs energy; _printed: Δ°G(T) \[T\]_ | 86.6511 J/mol | 1100 | UNKNOWN | experimental | [1] Grundy 2003; _cites SGTE 1997_ | Table 5, p. 10, row 18; `ORC-5GOOBUSUNX.d11231` |  |
+| Gibbs energy; _printed: Δ°G(T) \[a\]_ | -239484 J/mol | 1200 | UNKNOWN | experimental | [1] Grundy 2003; _cites ONeill 1993_ [doi](https://doi.org/10.1007/bf01046534) | Table 5, p. 10, row 10; `ORC-PBW5JCNXA3.7158f0` |  |
+| Gibbs energy; _printed: Δ°G(T) \[T\]_ | 124.202 J/mol | 1200 | UNKNOWN | experimental | [1] Grundy 2003; _cites ONeill 1993_ [doi](https://doi.org/10.1007/bf01046534) | Table 5, p. 10, row 10; `ORC-PBW5JCNXA3.dc75bf` |  |
+| Gibbs energy; _printed: Δ°G(T) \[T lnT\]_ | -4.898 J/mol | 1200 | UNKNOWN | experimental | [1] Grundy 2003; _cites ONeill 1993_ [doi](https://doi.org/10.1007/bf01046534) | Table 5, p. 10, row 10; `ORC-PBW5JCNXA3.fa32bf` |  |
+| Gibbs energy; _printed: Δ°G(T) \[a\]_ | -232656 J/mol | 1200 | UNKNOWN | experimental | [1] Grundy 2003; _cites Chen_ | Table 5, p. 10, row 17; `ORC-TMKZYMNPUX.65c99b` |  |
+| Gibbs energy; _printed: Δ°G(T) \[T\]_ | 69.73 J/mol | 1200 | UNKNOWN | experimental | [1] Grundy 2003; _cites Chen_ | Table 5, p. 10, row 17; `ORC-TMKZYMNPUX.effaf0` |  |
+| Gibbs energy; _printed: Δ°G(T) \[T lnT\]_ | 43.103 J/mol | 1350 | UNKNOWN | experimental | [1] Grundy 2003 | Table 5, p. 10, row 16; `ORC-D5X4NNWJ7C.95b8ac` |  |
+| Gibbs energy; _printed: Δ°G(T) \[a\]_ | -190351 J/mol | 1350 | UNKNOWN | experimental | [1] Grundy 2003 | Table 5, p. 10, row 16; `ORC-D5X4NNWJ7C.c85281` |  |
+| Gibbs energy; _printed: Δ°G(T) \[T (printed without T)\]_ | -211.413 J/mol | 1350 | UNKNOWN | experimental | [1] Grundy 2003 | Table 5, p. 10, row 16; `ORC-D5X4NNWJ7C.f96d45` |  |
+| Gibbs energy; _printed: Δ°G(T) \[T\]_ | 83.485 J/mol | 1500 | UNKNOWN | experimental | [1] Grundy 2003 | Table 5, p. 10, row 12; `ORC-66DW4AWOKP.09e49c` |  |
+| Gibbs energy; _printed: Δ°G(T) \[a\]_ | -232155 J/mol | 1500 | UNKNOWN | experimental | [1] Grundy 2003 | Table 5, p. 10, row 12; `ORC-66DW4AWOKP.f4edd0` |  |
 
 ## Sources
 
@@ -84,4 +84,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

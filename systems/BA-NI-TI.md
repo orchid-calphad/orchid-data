@@ -26,17 +26,17 @@ Table: Invariant reactions reported in the literature for the Ba–Ni–Ti syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2321 | Gas + liq1 -> liq2 | Gas: Ni 0.0067; liq1: Ni 0.9984; liq2: Ni 0.2103 | model | [1] Shang 2007 | Table 4, p. 3, row 1 |  |
-| 2209 | Gas + liq1 -> liq2 | Gas: Ti 1.000e-4; liq1: Ti 0.9905; liq2: Ti 0.0094 | model | [1] Shang 2007 | Table 4, p. 3, row 6 |  |
-| 1929 | Liq1 -> liq2 + bcc (Ti) | Liq1: Ti 0.9945; liq2: Ti 0.0055; bcc (Ti): Ti 1 | model | [1] Shang 2007 | Table 4, p. 3, row 7 |  |
-| 1728 | Liq1 -> liq2 + fcc (Ni) | Liq1: Ni 0 | model | [1] Shang 2007; _cites Takeuchi 1966_ | Table 4, p. 3, row 3 |  |
-| 1728 | Liq1 -> liq2 + fcc (Ni) | Liq1: Ni 0.9998; liq2: Ni 0.1664; fcc (Ni): Ni 1 | model | [1] Shang 2007 | Table 4, p. 3, row 2 |  |
-| 1155 | Bcc (Ti) + liq2 -> hcp (Ti) | Bcc (Ti): Ti 0.999953; liq2: Ti 2.000e-4; hcp (Ti): Ti 0.99985 | model | [1] Shang 2007; _cites Alidzhanov 1978_ | Table 4, p. 3, row 9 |  |
-| 1155 | Bcc (Ti) + liq2 -> hcp (Ti) | Bcc (Ti): Ti 1; liq2: Ti 2.000e-4; hcp (Ti): Ti 1 | model | [1] Shang 2007 | Table 4, p. 3, row 8 |  |
-| 1002 | Liq2 -> bcc (Ba) + hcp (Ti) | Liq2: Ti 1.200e-4; bcc (Ba): Ti 0 | model | [1] Shang 2007; _cites Alidzhanov 1978_ | Table 4, p. 3, row 11 |  |
-| 1000 | Liq2 -> bcc (Ba) + hcp (Ti) | Liq2: Ti 1.000e-4; bcc (Ba): Ti 0; hcp (Ti): Ti 1 | model | [1] Shang 2007 | Table 4, p. 3, row 10 |  |
-| 873 | Liq2 -> bcc (Ba) + fcc (Ni) | Liq2: Ni 0.06 | model | [1] Shang 2007; _cites Takeuchi 1966_ | Table 4, p. 3, row 5 |  |
-| 873 | Liq2 -> bcc (Ba) + fcc (Ni) | Liq2: Ni 0.0649; bcc (Ba): Ni 0; fcc (Ni): Ni 1 | model | [1] Shang 2007 | Table 4, p. 3, row 4 |  |
+| 2321 | Gas + liq1 -> liq2 | Gas: Ni 0.0067; liq1: Ni 0.9984; liq2: Ni 0.2103 | model | [1] Shang 2007 | Table 4, p. 3, row 1; `ORC-U3PO23SB45` |  |
+| 2209 | Gas + liq1 -> liq2 | Gas: Ti 1.000e-4; liq1: Ti 0.9905; liq2: Ti 0.0094 | model | [1] Shang 2007 | Table 4, p. 3, row 6; `ORC-OJ66K3HWDK` |  |
+| 1929 | Liq1 -> liq2 + bcc (Ti) | Liq1: Ti 0.9945; liq2: Ti 0.0055; bcc (Ti): Ti 1 | model | [1] Shang 2007 | Table 4, p. 3, row 7; `ORC-BAU23DV4DO` |  |
+| 1728 | Liq1 -> liq2 + fcc (Ni) | Liq1: Ni 0 | model | [1] Shang 2007; _cites Takeuchi 1966_ | Table 4, p. 3, row 3; `ORC-BPRU7NIFAU` |  |
+| 1728 | Liq1 -> liq2 + fcc (Ni) | Liq1: Ni 0.9998; liq2: Ni 0.1664; fcc (Ni): Ni 1 | model | [1] Shang 2007 | Table 4, p. 3, row 2; `ORC-JN3F2RW7JB` |  |
+| 1155 | Bcc (Ti) + liq2 -> hcp (Ti) | Bcc (Ti): Ti 0.999953; liq2: Ti 2.000e-4; hcp (Ti): Ti 0.99985 | model | [1] Shang 2007; _cites Alidzhanov 1978_ | Table 4, p. 3, row 9; `ORC-F63QGKDBHQ` |  |
+| 1155 | Bcc (Ti) + liq2 -> hcp (Ti) | Bcc (Ti): Ti 1; liq2: Ti 2.000e-4; hcp (Ti): Ti 1 | model | [1] Shang 2007 | Table 4, p. 3, row 8; `ORC-VKQL3I4VBQ` |  |
+| 1002 | Liq2 -> bcc (Ba) + hcp (Ti) | Liq2: Ti 1.200e-4; bcc (Ba): Ti 0 | model | [1] Shang 2007; _cites Alidzhanov 1978_ | Table 4, p. 3, row 11; `ORC-VCBXJURNCL` |  |
+| 1000 | Liq2 -> bcc (Ba) + hcp (Ti) | Liq2: Ti 1.000e-4; bcc (Ba): Ti 0; hcp (Ti): Ti 1 | model | [1] Shang 2007 | Table 4, p. 3, row 10; `ORC-4UAFGZFF3S` |  |
+| 873 | Liq2 -> bcc (Ba) + fcc (Ni) | Liq2: Ni 0.06 | model | [1] Shang 2007; _cites Takeuchi 1966_ | Table 4, p. 3, row 5; `ORC-JNL6QP4QH6` |  |
+| 873 | Liq2 -> bcc (Ba) + fcc (Ni) | Liq2: Ni 0.0649; bcc (Ba): Ni 0; fcc (Ni): Ni 1 | model | [1] Shang 2007 | Table 4, p. 3, row 4; `ORC-TYKLG7ZWW7` |  |
 
 ## Sources
 
@@ -79,4 +79,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

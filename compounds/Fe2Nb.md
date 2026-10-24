@@ -14,15 +14,15 @@ Table: Enthalpy of formation of Fe2Nb reported in the literature (9)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -23.7 kJ/mol (basis unstated) | Fe0.6667Nb0.3333 | 1200 | experimental | emf | [Fe–Nb](https://data.orchid-project.org/systems/FE-NB.html) | [1] Toffolon 2000; _cites ref. 69_ | Table I, p. 2, row 2 |  |
-| -20.5 kJ/mol (basis unstated) | Fe0.6667Nb0.3333 | 1250 | experimental | emf | [Fe–Nb](https://data.orchid-project.org/systems/FE-NB.html) | [1] Toffolon 2000; _cites ref. 66_ | Table I, p. 2, row 1 |  |
-| -23.67 kJ/mol (basis unstated) | Fe0.6667Nb0.3333 |  | model |  | [Fe–Nb](https://data.orchid-project.org/systems/FE-NB.html) | [1] Toffolon 2000 | Table I, p. 2, row 9 |  |
-| -23.41 kJ/mol (basis unstated) | Fe0.6667Nb0.3333 |  | model |  | [Fe–Nb](https://data.orchid-project.org/systems/FE-NB.html) | [1] Toffolon 2000; _cites ref. 94_ | Table I, p. 2, row 8 |  |
-| -22.5 kJ/mol (basis unstated) | Fe0.6667Nb0.3333 |  | model |  | [Fe–Nb](https://data.orchid-project.org/systems/FE-NB.html) | [1] Toffolon 2000; _cites ref. 67_ | Table I, p. 2, row 3 |  |
-| -21 kJ/mol (basis unstated) | Fe0.6667Nb0.3333 |  | model |  | [Fe–Nb](https://data.orchid-project.org/systems/FE-NB.html) | [1] Toffolon 2000; _cites ref. 77_ | Table I, p. 2, row 5 |  |
-| -17.9 kJ/mol (basis unstated) | Fe0.6667Nb0.3333 |  | model |  | [Fe–Nb](https://data.orchid-project.org/systems/FE-NB.html) | [1] Toffolon 2000; _cites ref. 72_ | Table I, p. 2, row 4 |  |
-| -17.87 kJ/mol (basis unstated) | Fe0.6667Nb0.3333 |  | model |  | [Fe–Nb](https://data.orchid-project.org/systems/FE-NB.html) | [1] Toffolon 2000; _cites ref. 90_ | Table I, p. 2, row 6 |  |
-| -12.24 kJ/mol (basis unstated) | Fe0.6667Nb0.3333 |  | model |  | [Fe–Nb](https://data.orchid-project.org/systems/FE-NB.html) | [1] Toffolon 2000; _cites ref. 93_ | Table I, p. 2, row 7 |  |
+| -23.7 kJ/mol (basis unstated) | Fe0.6667Nb0.3333 | 1200 | experimental | emf | [Fe–Nb](https://data.orchid-project.org/systems/FE-NB.html) | [1] Toffolon 2000; _cites ref. 69_ | Table I, p. 2, row 2; `ORC-6GZDNBDPVG.f8c9c1` |  |
+| -20.5 kJ/mol (basis unstated) | Fe0.6667Nb0.3333 | 1250 | experimental | emf | [Fe–Nb](https://data.orchid-project.org/systems/FE-NB.html) | [1] Toffolon 2000; _cites ref. 66_ | Table I, p. 2, row 1; `ORC-TGC4CYC2G5.de2249` |  |
+| -23.67 kJ/mol (basis unstated) | Fe0.6667Nb0.3333 |  | model |  | [Fe–Nb](https://data.orchid-project.org/systems/FE-NB.html) | [1] Toffolon 2000 | Table I, p. 2, row 9; `ORC-4D3HCPNIM4.d421c0` |  |
+| -23.41 kJ/mol (basis unstated) | Fe0.6667Nb0.3333 |  | model |  | [Fe–Nb](https://data.orchid-project.org/systems/FE-NB.html) | [1] Toffolon 2000; _cites ref. 94_ | Table I, p. 2, row 8; `ORC-YJXLAG7DV2.25b2e8` |  |
+| -22.5 kJ/mol (basis unstated) | Fe0.6667Nb0.3333 |  | model |  | [Fe–Nb](https://data.orchid-project.org/systems/FE-NB.html) | [1] Toffolon 2000; _cites ref. 67_ | Table I, p. 2, row 3; `ORC-HMUZXUJIKC.b81d4e` |  |
+| -21 kJ/mol (basis unstated) | Fe0.6667Nb0.3333 |  | model |  | [Fe–Nb](https://data.orchid-project.org/systems/FE-NB.html) | [1] Toffolon 2000; _cites ref. 77_ | Table I, p. 2, row 5; `ORC-EOMC5BUDBU.82d6bd` |  |
+| -17.9 kJ/mol (basis unstated) | Fe0.6667Nb0.3333 |  | model |  | [Fe–Nb](https://data.orchid-project.org/systems/FE-NB.html) | [1] Toffolon 2000; _cites ref. 72_ | Table I, p. 2, row 4; `ORC-Q4DYQP7SWB.32f29d` |  |
+| -17.87 kJ/mol (basis unstated) | Fe0.6667Nb0.3333 |  | model |  | [Fe–Nb](https://data.orchid-project.org/systems/FE-NB.html) | [1] Toffolon 2000; _cites ref. 90_ | Table I, p. 2, row 6; `ORC-CIWBF76ZZE.2cb146` |  |
+| -12.24 kJ/mol (basis unstated) | Fe0.6667Nb0.3333 |  | model |  | [Fe–Nb](https://data.orchid-project.org/systems/FE-NB.html) | [1] Toffolon 2000; _cites ref. 93_ | Table I, p. 2, row 7; `ORC-X3ZWWARLFB.8429f0` |  |
 
 ### Uncertainty budget
 
@@ -93,4 +93,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

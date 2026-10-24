@@ -26,15 +26,15 @@ Table: Invariant reactions reported in the literature for the B–Re–Si system
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2264.66 | Liquid + (B) -> ReB2 + BnSi |  | model | [1] Yang 2010 | Table 6, p. 5, row 1 |  |
-| 2084.29 | Liquid + BnSi -> ReB2 + B6Si |  | model | [1] Yang 2010 | Table 6, p. 5, row 2 |  |
-| 1944.31 | Liquid + Re3B -> Re2Si + Re7B3 |  | model | [1] Yang 2010 | Table 6, p. 5, row 3 |  |
-| 1935.41 | Liquid -> (Re) + Re2Si + Re3B |  | model | [1] Yang 2010 | Table 6, p. 5, row 4 |  |
-| 1922.51 | Liquid + ReSi -> Re2Si + ReSi2 |  | model | [1] Yang 2010 | Table 6, p. 5, row 5 |  |
-| 1855.98 | Liquid + Re2Si -> Re7B3 + ReSi2 |  | model | [1] Yang 2010 | Table 6, p. 5, row 6 |  |
-| 1852.12 | Liquid -> Re7B3 + ReSi2 + ReB2 |  | model | [1] Yang 2010 | Table 6, p. 5, row 7 |  |
-| 1639.71 | Liquid + B6Si -> ReB2 + (Si) |  | model | [1] Yang 2010 | Table 6, p. 5, row 8 |  |
-| 1628.82 | Liquid -> ReSi2 + ReB2 + (Si) |  | model | [1] Yang 2010 | Table 6, p. 5, row 9 |  |
+| 2264.66 | Liquid + (B) -> ReB2 + BnSi |  | model | [1] Yang 2010 | Table 6, p. 5, row 1; `ORC-DMCB5GEETB` |  |
+| 2084.29 | Liquid + BnSi -> ReB2 + B6Si |  | model | [1] Yang 2010 | Table 6, p. 5, row 2; `ORC-6V4ELETG63` |  |
+| 1944.31 | Liquid + Re3B -> Re2Si + Re7B3 |  | model | [1] Yang 2010 | Table 6, p. 5, row 3; `ORC-A6SOZOSNGH` |  |
+| 1935.41 | Liquid -> (Re) + Re2Si + Re3B |  | model | [1] Yang 2010 | Table 6, p. 5, row 4; `ORC-J7VL7L7OLP` |  |
+| 1922.51 | Liquid + ReSi -> Re2Si + ReSi2 |  | model | [1] Yang 2010 | Table 6, p. 5, row 5; `ORC-IMDB4SX7FO` |  |
+| 1855.98 | Liquid + Re2Si -> Re7B3 + ReSi2 |  | model | [1] Yang 2010 | Table 6, p. 5, row 6; `ORC-ODV6YK5VZB` |  |
+| 1852.12 | Liquid -> Re7B3 + ReSi2 + ReB2 |  | model | [1] Yang 2010 | Table 6, p. 5, row 7; `ORC-QCMQEOBX5O` |  |
+| 1639.71 | Liquid + B6Si -> ReB2 + (Si) |  | model | [1] Yang 2010 | Table 6, p. 5, row 8; `ORC-ZHLNYKTZB2` |  |
+| 1628.82 | Liquid -> ReSi2 + ReB2 + (Si) |  | model | [1] Yang 2010 | Table 6, p. 5, row 9; `ORC-LURCOB3DIK` |  |
 
 ## Sources
 
@@ -77,4 +77,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

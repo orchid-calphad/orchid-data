@@ -29,10 +29,10 @@ Table: Invariant reactions reported in the literature for the B–Sr system (4)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1644 | SrB6 + gas = liq1 | SrB6: Sr 0.143; gas: Sr 1; liq1: Sr 0.991 | model | [1] Shang 2007 | Table 4, p. 5, row 11 |  |
-| 1388 | SrB6 + β(B) = α(B) | SrB6: Sr 0.143; β(B): Sr 0; α(B): Sr 0 | model | [1] Shang 2007 | Table 4, p. 5, row 12 |  |
-| 1050 | liq1 = SrB6 + bcc(Sr) | liq1: Sr 1; SrB6: Sr 0.143; bcc(Sr): Sr 1 | model | [1] Shang 2007 | Table 4, p. 5, row 13 |  |
-| 820 | SrB6 + bcc(Sr) = fcc(Sr) | SrB6: Sr 0.143; bcc(Sr): Sr 1; fcc(Sr): Sr 1 | model | [1] Shang 2007 | Table 4, p. 5, row 14 |  |
+| 1644 | SrB6 + gas = liq1 | SrB6: Sr 0.143; gas: Sr 1; liq1: Sr 0.991 | model | [1] Shang 2007 | Table 4, p. 5, row 11; `ORC-2A72LXSKUT` |  |
+| 1388 | SrB6 + β(B) = α(B) | SrB6: Sr 0.143; β(B): Sr 0; α(B): Sr 0 | model | [1] Shang 2007 | Table 4, p. 5, row 12; `ORC-OWXNW27JPO` |  |
+| 1050 | liq1 = SrB6 + bcc(Sr) | liq1: Sr 1; SrB6: Sr 0.143; bcc(Sr): Sr 1 | model | [1] Shang 2007 | Table 4, p. 5, row 13; `ORC-6SRCWTFMK7` |  |
+| 820 | SrB6 + bcc(Sr) = fcc(Sr) | SrB6: Sr 0.143; bcc(Sr): Sr 1; fcc(Sr): Sr 1 | model | [1] Shang 2007 | Table 4, p. 5, row 14; `ORC-G6VUD2HBMD` |  |
 
 ## Formation enthalpies
 
@@ -42,9 +42,9 @@ Table: Enthalpies of formation, B–Sr system (3)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| SrB6 | [SrB6](https://data.orchid-project.org/compounds/SrB6.html) | -44.8599 kJ/mol-atom | 298.15 | model | -43.455 (mp-aaaaaaji) | -43.529 (oqmd-646494) | [1] Shang 2007 | Table 3, p. 3, row 7 |  |
-| SrB6 | [SrB6](https://data.orchid-project.org/compounds/SrB6.html) | -44.8542 kJ/mol-atom | 298.15 | model | -43.455 (mp-aaaaaaji) | -43.529 (oqmd-646494) | [1] Shang 2007 | Table 3, p. 3, row 5 |  |
-| SrB6 | [SrB6](https://data.orchid-project.org/compounds/SrB6.html) | -44.1235 kJ/mol-atom | 298.15 | model | -43.455 (mp-aaaaaaji) | -43.529 (oqmd-646494) | [1] Shang 2007 | Table 3, p. 3, row 8 |  |
+| SrB6 | [SrB6](https://data.orchid-project.org/compounds/SrB6.html) | -44.8599 kJ/mol-atom | 298.15 | model | -43.455 (mp-aaaaaaji) | -43.529 (oqmd-646494) | [1] Shang 2007 | Table 3, p. 3, row 7; `ORC-ZUWZGFYMV5.368ec3` |  |
+| SrB6 | [SrB6](https://data.orchid-project.org/compounds/SrB6.html) | -44.8542 kJ/mol-atom | 298.15 | model | -43.455 (mp-aaaaaaji) | -43.529 (oqmd-646494) | [1] Shang 2007 | Table 3, p. 3, row 5; `ORC-GUMRZLS5M3.ae28a4` |  |
+| SrB6 | [SrB6](https://data.orchid-project.org/compounds/SrB6.html) | -44.1235 kJ/mol-atom | 298.15 | model | -43.455 (mp-aaaaaaji) | -43.529 (oqmd-646494) | [1] Shang 2007 | Table 3, p. 3, row 8; `ORC-ZNOU27GLZJ.504c78` |  |
 
 ## Other properties
 
@@ -54,9 +54,9 @@ Table: Formation, B–Sr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy of formation; _printed: ΔfS298_ | -0.654745 J/mol-atom/K | 298.15 | SrB6; _alloy: Sr 0.142857_ | model | [1] Shang 2007 | Table 3, p. 3, row 5 |  |
-| Entropy of formation; _printed: ΔfS298_ | 0.794177 J/mol-atom/K | 298.15 | SrB6; _alloy: Sr 0.142857_ | model | [1] Shang 2007 | Table 3, p. 3, row 8 |  |
-| Entropy of formation; _printed: ΔfS298_ | -0.762673 J/mol-atom/K | 298.15 | SrB6; _alloy: Sr 0.142857_ | model | [1] Shang 2007 | Table 3, p. 3, row 7 |  |
+| Entropy of formation; _printed: ΔfS298_ | -0.654745 J/mol-atom/K | 298.15 | SrB6; _alloy: Sr 0.142857_ | model | [1] Shang 2007 | Table 3, p. 3, row 5; `ORC-GUMRZLS5M3.28e47c` |  |
+| Entropy of formation; _printed: ΔfS298_ | 0.794177 J/mol-atom/K | 298.15 | SrB6; _alloy: Sr 0.142857_ | model | [1] Shang 2007 | Table 3, p. 3, row 8; `ORC-ZNOU27GLZJ.864076` |  |
+| Entropy of formation; _printed: ΔfS298_ | -0.762673 J/mol-atom/K | 298.15 | SrB6; _alloy: Sr 0.142857_ | model | [1] Shang 2007 | Table 3, p. 3, row 7; `ORC-ZUWZGFYMV5.e3cae5` |  |
 
 ## Sources
 
@@ -110,4 +110,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

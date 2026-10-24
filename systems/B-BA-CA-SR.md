@@ -26,14 +26,14 @@ Table: Invariant reactions reported in the literature for the B–Ba–Ca–Sr s
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 3435 | gas + liq2 = CaB6 | gas: Ca 0.954; liq2: Ca 0.0095; CaB6: Ca 0.143 | model | [1] Shang 2007 | Table 4, p. 5, row 2 |  |
-| 3245 | gas + liq2 = BaB6 | gas: Ba 0.984; liq2: Ba 0.072; BaB6: Ba 0.143 | model | [1] Shang 2007 | Table 4, p. 5, row 16 |  |
-| 3228 | gas + liq2 = SrB6 | gas: Sr 0.985; liq2: Sr 0.012; SrB6: Sr 0.143 | model | [1] Shang 2007 | Table 4, p. 5, row 9 |  |
-| 2348 | liq2 = SrB6 + β(B) | liq2: Sr 0; SrB6: Sr 0.143; β(B): Sr 0 | model | [1] Shang 2007 | Table 4, p. 5, row 10 |  |
-| 2348 | liq2 = CaB6 + β(B) | liq2: Ca 0; CaB6: Ca 0.143; β(B): Ca 0 | model | [1] Shang 2007 | Table 4, p. 5, row 3 |  |
-| 2348 | liq2 = BaB6 + β(B) | liq2: Ba 0; BaB6: Ba 0.143; β(B): Ba 0 | model | [1] Shang 2007 | Table 4, p. 5, row 17 |  |
-| 2238 | BaB6 + gas = liq1 | BaB6: Ba 0.143; gas: Ba 1; liq1: Ba 0.893 | model | [1] Shang 2007 | Table 4, p. 5, row 18 |  |
-| 1776 | CaB6 + gas = liq1 | CaB6: Ca 0.143; gas: Ca 1; liq1: Ca 0.984 | model | [1] Shang 2007 | Table 4, p. 5, row 4 |  |
+| 3435 | gas + liq2 = CaB6 | gas: Ca 0.954; liq2: Ca 0.0095; CaB6: Ca 0.143 | model | [1] Shang 2007 | Table 4, p. 5, row 2; `ORC-JSHODT4JDT` |  |
+| 3245 | gas + liq2 = BaB6 | gas: Ba 0.984; liq2: Ba 0.072; BaB6: Ba 0.143 | model | [1] Shang 2007 | Table 4, p. 5, row 16; `ORC-EYRA56WAV5` |  |
+| 3228 | gas + liq2 = SrB6 | gas: Sr 0.985; liq2: Sr 0.012; SrB6: Sr 0.143 | model | [1] Shang 2007 | Table 4, p. 5, row 9; `ORC-BJE63KQACH` |  |
+| 2348 | liq2 = SrB6 + β(B) | liq2: Sr 0; SrB6: Sr 0.143; β(B): Sr 0 | model | [1] Shang 2007 | Table 4, p. 5, row 10; `ORC-EZKFOO5XBF` |  |
+| 2348 | liq2 = CaB6 + β(B) | liq2: Ca 0; CaB6: Ca 0.143; β(B): Ca 0 | model | [1] Shang 2007 | Table 4, p. 5, row 3; `ORC-NLBP7KR4VE` |  |
+| 2348 | liq2 = BaB6 + β(B) | liq2: Ba 0; BaB6: Ba 0.143; β(B): Ba 0 | model | [1] Shang 2007 | Table 4, p. 5, row 17; `ORC-OWDSWV67RQ` |  |
+| 2238 | BaB6 + gas = liq1 | BaB6: Ba 0.143; gas: Ba 1; liq1: Ba 0.893 | model | [1] Shang 2007 | Table 4, p. 5, row 18; `ORC-U7U2NNFN3J` |  |
+| 1776 | CaB6 + gas = liq1 | CaB6: Ca 0.143; gas: Ca 1; liq1: Ca 0.984 | model | [1] Shang 2007 | Table 4, p. 5, row 4; `ORC-2SXAWEXUOH` |  |
 
 ## Sources
 
@@ -76,4 +76,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

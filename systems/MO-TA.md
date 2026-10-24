@@ -51,7 +51,7 @@ Table: Enthalpies of formation, Mo–Ta system (1)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Ordered B2 TaMo |  | -26.5 kJ/mol (basis unstated) | 0 | unspecified |  |  | [1] Turchi 2005 | Table I, p. 5, row 12 |  |
+| Ordered B2 TaMo |  | -26.5 kJ/mol (basis unstated) | 0 | unspecified |  |  | [1] Turchi 2005 | Table I, p. 5, row 12; `ORC-MTQBSSZCTO.5bc8c5` |  |
 
 ## Other properties
 
@@ -61,18 +61,18 @@ Table: Phase transition, Mo–Ta system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1772 K | 1772 | other | model | [1] Turchi 2005 | p. 1 | “The critical order 共B2兲disorder 共A2兲 line exists below 1772 K with a maximum transition temperature around 47 at. % Ta.” |
-| Phase transition | 2896 K | 2896 |  | model | [2] Rajkumar 2020; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | p. 1 | “The generally accepted melting points of Mo and Ta are reported to be 2896 and 3290 K \[5\].” |
-| Phase transition | 3022 K | 3022 | other: No. 3, Mo-20 at.% Ta; _alloy: Mo 0.8, Ta 0.2_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 5 |  |
-| Phase transition | 3027 K | 3027 | other: No. 2, Mo-10 at.% Ta; _alloy: Mo 0.9, Ta 0.1_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 3 |  |
-| Phase transition | 3086 K | 3086 | other: No. 5, Mo-40 at.% Ta; _alloy: Mo 0.6, Ta 0.4_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 9 |  |
-| Phase transition | 3119 K | 3119 | other: No. 6, Mo-50 at.% Ta; _alloy: Mo 0.5, Ta 0.5_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 11 |  |
-| Phase transition | 3142 K | 3142 | other: No. 4, Mo-30 at.% Ta; _alloy: Mo 0.7, Ta 0.3_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 7 |  |
-| Phase transition | 3172 K | 3172 | other: No. 7, Mo-60 at.% Ta; _alloy: Mo 0.4, Ta 0.6_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 13 |  |
-| Phase transition | 3221 K | 3221 | other: No. 8, Mo-70 at.% Ta; _alloy: Mo 0.3, Ta 0.7_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 15 |  |
-| Phase transition | 3281 K | 3281 | other: No. 9, Mo-80 at.% Ta; _alloy: Mo 0.2, Ta 0.8_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 17 |  |
-| Phase transition | 3290 K | 3290 |  | model | [2] Rajkumar 2020; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | p. 1 | “The generally accepted melting points of Mo and Ta are reported to be 2896 and 3290 K \[5\].” |
-| Phase transition | 3317 K | 3317 | other: No. 10, Mo-90 at.% Ta; _alloy: Mo 0.1, Ta 0.9_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 19 |  |
+| Phase transition | 1772 K | 1772 | other | model | [1] Turchi 2005 | p. 1; `ORC-RPLXHCGJW2` | “The critical order 共B2兲disorder 共A2兲 line exists below 1772 K with a maximum transition temperature around 47 at. % Ta.” |
+| Phase transition | 2896 K | 2896 |  | model | [2] Rajkumar 2020; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | p. 1; `ORC-FQ5EGYQSTW.25676b` | “The generally accepted melting points of Mo and Ta are reported to be 2896 and 3290 K \[5\].” |
+| Phase transition | 3022 K | 3022 | other: No. 3, Mo-20 at.% Ta; _alloy: Mo 0.8, Ta 0.2_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 5; `ORC-T2XDEME3IU` |  |
+| Phase transition | 3027 K | 3027 | other: No. 2, Mo-10 at.% Ta; _alloy: Mo 0.9, Ta 0.1_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 3; `ORC-AB3A5UXPRO` |  |
+| Phase transition | 3086 K | 3086 | other: No. 5, Mo-40 at.% Ta; _alloy: Mo 0.6, Ta 0.4_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 9; `ORC-CKOZAB4O63` |  |
+| Phase transition | 3119 K | 3119 | other: No. 6, Mo-50 at.% Ta; _alloy: Mo 0.5, Ta 0.5_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 11; `ORC-QL3WF2EAJO` |  |
+| Phase transition | 3142 K | 3142 | other: No. 4, Mo-30 at.% Ta; _alloy: Mo 0.7, Ta 0.3_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 7; `ORC-ZIWP3XBJ5W` |  |
+| Phase transition | 3172 K | 3172 | other: No. 7, Mo-60 at.% Ta; _alloy: Mo 0.4, Ta 0.6_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 13; `ORC-IMT2JEXWYH` |  |
+| Phase transition | 3221 K | 3221 | other: No. 8, Mo-70 at.% Ta; _alloy: Mo 0.3, Ta 0.7_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 15; `ORC-ZIVBV7IVGV` |  |
+| Phase transition | 3281 K | 3281 | other: No. 9, Mo-80 at.% Ta; _alloy: Mo 0.2, Ta 0.8_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 17; `ORC-UTVYUOEFPP` |  |
+| Phase transition | 3290 K | 3290 |  | model | [2] Rajkumar 2020; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | p. 1; `ORC-FQ5EGYQSTW.52b82d` | “The generally accepted melting points of Mo and Ta are reported to be 2896 and 3290 K \[5\].” |
+| Phase transition | 3317 K | 3317 | other: No. 10, Mo-90 at.% Ta; _alloy: Mo 0.1, Ta 0.9_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 19; `ORC-GYY25HAWOG` |  |
 
 ### Phase equilibrium (11)
 
@@ -80,17 +80,17 @@ Table: Phase equilibrium, Mo–Ta system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 2865 | other: No. 1, Mo-0 at.% Ta; _liquid: Mo 1, Ta 0_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 1 |  |
-| Phase composition |  | 3047 | other: No. 2, Mo-10 at.% Ta; _liquid: Mo 0.9, Ta 0.1_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 2 |  |
-| Phase composition |  | 3056 | other: No. 3, Mo-20 at.% Ta; _liquid: Mo 0.8, Ta 0.2_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 4 |  |
-| Phase composition |  | 3092 | other: No. 5, Mo-40 at.% Ta; _liquid: Mo 0.6, Ta 0.4_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 8 |  |
-| Phase composition |  | 3138 | other: No. 6, Mo-50 at.% Ta; _liquid: Mo 0.5, Ta 0.5_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 10 |  |
-| Phase composition |  | 3155 | other: No. 4, Mo-30 at.% Ta; _liquid: Mo 0.7, Ta 0.3_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 6 |  |
-| Phase composition |  | 3185 | other: No. 7, Mo-60 at.% Ta; _liquid: Mo 0.4, Ta 0.6_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 12 |  |
-| Phase composition |  | 3235 | other: No. 8, Mo-70 at.% Ta; _liquid: Mo 0.3, Ta 0.7_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 14 |  |
-| Phase composition |  | 3272 | other: No. 11, Mo-100 at.% Ta; _liquid: Mo 0, Ta 1_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 20 |  |
-| Phase composition |  | 3298 | other: No. 9, Mo-80 at.% Ta; _liquid: Mo 0.2, Ta 0.8_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 16 |  |
-| Phase composition |  | 3337 | other: No. 10, Mo-90 at.% Ta; _liquid: Mo 0.1, Ta 0.9_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 18 |  |
+| Phase composition |  | 2865 | other: No. 1, Mo-0 at.% Ta; _liquid: Mo 1, Ta 0_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 1; `ORC-VT6FGUOUN6` |  |
+| Phase composition |  | 3047 | other: No. 2, Mo-10 at.% Ta; _liquid: Mo 0.9, Ta 0.1_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 2; `ORC-ZOO6TPNT3U` |  |
+| Phase composition |  | 3056 | other: No. 3, Mo-20 at.% Ta; _liquid: Mo 0.8, Ta 0.2_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 4; `ORC-LWVOJ4HLSL` |  |
+| Phase composition |  | 3092 | other: No. 5, Mo-40 at.% Ta; _liquid: Mo 0.6, Ta 0.4_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 8; `ORC-QL6KZW2ISU` |  |
+| Phase composition |  | 3138 | other: No. 6, Mo-50 at.% Ta; _liquid: Mo 0.5, Ta 0.5_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 10; `ORC-PJJPAJUR72` |  |
+| Phase composition |  | 3155 | other: No. 4, Mo-30 at.% Ta; _liquid: Mo 0.7, Ta 0.3_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 6; `ORC-XLNKHBZL56` |  |
+| Phase composition |  | 3185 | other: No. 7, Mo-60 at.% Ta; _liquid: Mo 0.4, Ta 0.6_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 12; `ORC-ZLTV2WHQ4Y` |  |
+| Phase composition |  | 3235 | other: No. 8, Mo-70 at.% Ta; _liquid: Mo 0.3, Ta 0.7_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 14; `ORC-O6XE5BIUHM` |  |
+| Phase composition |  | 3272 | other: No. 11, Mo-100 at.% Ta; _liquid: Mo 0, Ta 1_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 20; `ORC-25XGTY2I6W` |  |
+| Phase composition |  | 3298 | other: No. 9, Mo-80 at.% Ta; _liquid: Mo 0.2, Ta 0.8_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 16; `ORC-E2BFAPST3D` |  |
+| Phase composition |  | 3337 | other: No. 10, Mo-90 at.% Ta; _liquid: Mo 0.1, Ta 0.9_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 18; `ORC-7RMDEHUO7V` |  |
 
 ### Crystal structure (1)
 
@@ -98,7 +98,7 @@ Table: Crystal structure, Mo–Ta system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| lattice unspecified axis; _printed: Lattice constant_ | 3.2139 Å |  | Ordered B2 TaMo; _alloy: Ta 0.5_ | unspecified | [1] Turchi 2005 | Table I, p. 5, row 12 |  |
+| lattice unspecified axis; _printed: Lattice constant_ | 3.2139 Å |  | Ordered B2 TaMo; _alloy: Ta 0.5_ | unspecified | [1] Turchi 2005 | Table I, p. 5, row 12; `ORC-SBQQH7USJJ` |  |
 
 ### Other property (1)
 
@@ -106,7 +106,7 @@ Table: Other property, Mo–Ta system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| bulk modulus; _printed: Bulk modulus_ | 226.7 GPa |  | Ordered B2 TaMo; _alloy: Ta 0.5_ | unspecified | [1] Turchi 2005 | Table I, p. 5, row 12 |  |
+| bulk modulus; _printed: Bulk modulus_ | 226.7 GPa |  | Ordered B2 TaMo; _alloy: Ta 0.5_ | unspecified | [1] Turchi 2005 | Table I, p. 5, row 12; `ORC-MTQBSSZCTO.9185ad` |  |
 
 ## Sources
 
@@ -172,4 +172,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

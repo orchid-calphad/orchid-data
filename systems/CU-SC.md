@@ -66,20 +66,20 @@ Table: Invariant reactions reported in the literature for the Cu–Sc system (14
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1641 | Liquid + βSc ↔ αSc | L: Sc 0.919; βSc: Sc 0.994; αSc: Sc 1 | experimental | [1] Bo 2010; _cites Turchanin 2006_ [doi](https://doi.org/10.1007/s11106-006-0055-4) | Table 3, p. 6, row 19 |  |
-| 1595 | Liquid + αSc ↔ βSc | L: Sc 0.889; αSc: Sc 0.989; βSc: Sc 0.986 | model | [1] Bo 2010 | Table 3, p. 6, row 20 |  |
-| 1165 | Liquid + CuSc ↔ Cu2Sc | L: Sc 0.285; CuSc: Sc 0.5; Cu2Sc: Sc 0.333 | experimental | [1] Bo 2010; _cites Turchanin 2006_ [doi](https://doi.org/10.1007/s11106-006-0055-4) | Table 3, p. 6, row 11 |  |
-| 1163 | Liquid + CuSc ↔ Cu2Sc | CuSc: Sc 0.5; Cu2Sc: Sc 0.333 | experimental | [1] Bo 2010; _cites Savitskii 1970_ | Table 3, p. 6, row 10 |  |
-| 1163 | Liquid + CuSc ↔ Cu2Sc | L: Sc 0.312; CuSc: Sc 0.5; Cu2Sc: Sc 0.333 | model | [1] Bo 2010 | Table 3, p. 6, row 12 |  |
-| 1148 | Liquid ↔ CuSc + αSc | L: Sc 0.71; CuSc: Sc 0.5; αSc: Sc 0.99 | experimental | [1] Bo 2010; _cites Savitskii 1970_ | Table 3, p. 6, row 16 |  |
-| 1148 | Liquid ↔ Cu4Sc + Cu2Sc | L: Sc 0.3; Cu4Sc: Sc 0.2; Cu2Sc: Sc 0.333 | experimental | [1] Bo 2010; _cites Savitskii 1970_ | Table 3, p. 6, row 7 |  |
-| 1145 | Liquid ↔ CuSc + αSc | L: Sc 0.738; CuSc: Sc 0.5; αSc: Sc 0.989 | experimental | [1] Bo 2010; _cites Turchanin 2006_ [doi](https://doi.org/10.1007/s11106-006-0055-4) | Table 3, p. 6, row 17 |  |
-| 1145 | Liquid ↔ CuSc + αSc | L: Sc 0.708; CuSc: Sc 0.5; αSc: Sc 0.99 | model | [1] Bo 2010 | Table 3, p. 6, row 18 |  |
-| 1144 | Liquid ↔ Cu4Sc + Cu2Sc | L: Sc 0.278; Cu4Sc: Sc 0.2; Cu2Sc: Sc 0.333 | model | [1] Bo 2010 | Table 3, p. 6, row 9 |  |
-| 1141 | Liquid ↔ Fcc_Cu + Cu4Sc | L: Sc 0.126; Fcc_Cu: Sc 0.005; Cu4Sc: Sc 0.2 | model | [1] Bo 2010 | Table 3, p. 6, row 3 |  |
-| 1141 | Liquid ↔ Cu4Sc + Cu2Sc | L: Sc 0.263; Cu4Sc: Sc 0.2; Cu2Sc: Sc 0.333 | experimental | [1] Bo 2010; _cites Turchanin 2006_ [doi](https://doi.org/10.1007/s11106-006-0055-4) | Table 3, p. 6, row 8 |  |
-| 1140 | Liquid ↔ Fcc_Cu + Cu4Sc | L: Sc 0.132; Fcc_Cu: Sc 0.0048; Cu4Sc: Sc 0.2 | experimental | [1] Bo 2010; _cites Turchanin 2006_ [doi](https://doi.org/10.1007/s11106-006-0055-4) | Table 3, p. 6, row 2 |  |
-| 1138 | Liquid ↔ Fcc_Cu + Cu4Sc | L: Sc 0.13; Fcc_Cu: Sc 0.005; Cu4Sc: Sc 0.2 | experimental | [1] Bo 2010; _cites Savitskii 1970_ | Table 3, p. 6, row 1 |  |
+| 1641 | Liquid + βSc ↔ αSc | L: Sc 0.919; βSc: Sc 0.994; αSc: Sc 1 | experimental | [1] Bo 2010; _cites Turchanin 2006_ [doi](https://doi.org/10.1007/s11106-006-0055-4) | Table 3, p. 6, row 19; `ORC-3F7IFD6XKQ` |  |
+| 1595 | Liquid + αSc ↔ βSc | L: Sc 0.889; αSc: Sc 0.989; βSc: Sc 0.986 | model | [1] Bo 2010 | Table 3, p. 6, row 20; `ORC-XAT7PTWM6F` |  |
+| 1165 | Liquid + CuSc ↔ Cu2Sc | L: Sc 0.285; CuSc: Sc 0.5; Cu2Sc: Sc 0.333 | experimental | [1] Bo 2010; _cites Turchanin 2006_ [doi](https://doi.org/10.1007/s11106-006-0055-4) | Table 3, p. 6, row 11; `ORC-BW3AEDCKK2` |  |
+| 1163 | Liquid + CuSc ↔ Cu2Sc | CuSc: Sc 0.5; Cu2Sc: Sc 0.333 | experimental | [1] Bo 2010; _cites Savitskii 1970_ | Table 3, p. 6, row 10; `ORC-RWL24JAIPR` |  |
+| 1163 | Liquid + CuSc ↔ Cu2Sc | L: Sc 0.312; CuSc: Sc 0.5; Cu2Sc: Sc 0.333 | model | [1] Bo 2010 | Table 3, p. 6, row 12; `ORC-S7G25IGZEN` |  |
+| 1148 | Liquid ↔ CuSc + αSc | L: Sc 0.71; CuSc: Sc 0.5; αSc: Sc 0.99 | experimental | [1] Bo 2010; _cites Savitskii 1970_ | Table 3, p. 6, row 16; `ORC-TCIRNCBFMS.be7698` |  |
+| 1148 | Liquid ↔ Cu4Sc + Cu2Sc | L: Sc 0.3; Cu4Sc: Sc 0.2; Cu2Sc: Sc 0.333 | experimental | [1] Bo 2010; _cites Savitskii 1970_ | Table 3, p. 6, row 7; `ORC-TCIRNCBFMS.e6bccd` |  |
+| 1145 | Liquid ↔ CuSc + αSc | L: Sc 0.738; CuSc: Sc 0.5; αSc: Sc 0.989 | experimental | [1] Bo 2010; _cites Turchanin 2006_ [doi](https://doi.org/10.1007/s11106-006-0055-4) | Table 3, p. 6, row 17; `ORC-QZP2VMK2MN` |  |
+| 1145 | Liquid ↔ CuSc + αSc | L: Sc 0.708; CuSc: Sc 0.5; αSc: Sc 0.99 | model | [1] Bo 2010 | Table 3, p. 6, row 18; `ORC-XP33CM5O4L` |  |
+| 1144 | Liquid ↔ Cu4Sc + Cu2Sc | L: Sc 0.278; Cu4Sc: Sc 0.2; Cu2Sc: Sc 0.333 | model | [1] Bo 2010 | Table 3, p. 6, row 9; `ORC-Y5LOWYRMRI` |  |
+| 1141 | Liquid ↔ Fcc_Cu + Cu4Sc | L: Sc 0.126; Fcc_Cu: Sc 0.005; Cu4Sc: Sc 0.2 | model | [1] Bo 2010 | Table 3, p. 6, row 3; `ORC-GZMEVU3QXC` |  |
+| 1141 | Liquid ↔ Cu4Sc + Cu2Sc | L: Sc 0.263; Cu4Sc: Sc 0.2; Cu2Sc: Sc 0.333 | experimental | [1] Bo 2010; _cites Turchanin 2006_ [doi](https://doi.org/10.1007/s11106-006-0055-4) | Table 3, p. 6, row 8; `ORC-XRMZGV7HC6` |  |
+| 1140 | Liquid ↔ Fcc_Cu + Cu4Sc | L: Sc 0.132; Fcc_Cu: Sc 0.0048; Cu4Sc: Sc 0.2 | experimental | [1] Bo 2010; _cites Turchanin 2006_ [doi](https://doi.org/10.1007/s11106-006-0055-4) | Table 3, p. 6, row 2; `ORC-HEQ6PAWY7W` |  |
+| 1138 | Liquid ↔ Fcc_Cu + Cu4Sc | L: Sc 0.13; Fcc_Cu: Sc 0.005; Cu4Sc: Sc 0.2 | experimental | [1] Bo 2010; _cites Savitskii 1970_ | Table 3, p. 6, row 1; `ORC-PXCT53D4GI` |  |
 
 ## Other properties
 
@@ -89,12 +89,12 @@ Table: Phase transition, Cu–Sc system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1198 K | 1198 | Liquid ↔ Cu4Sc; _L: Sc 0.2; Cu4Sc: Sc 0.2_ | experimental | [1] Bo 2010; _cites Turchanin 2006_ [doi](https://doi.org/10.1007/s11106-006-0055-4) | Table 3, p. 6, row 5 |  |
-| Phase transition | 1198 K | 1198 | Liquid ↔ Cu4Sc; _L: Sc 0.2; Cu4Sc: Sc 0.2_ | experimental | [1] Bo 2010; _cites Savitskii 1970_ | Table 3, p. 6, row 4 |  |
-| Phase transition | 1198 K | 1198 | Liquid ↔ Cu4Sc; _L: Sc 0.2; Cu4Sc: Sc 0.2_ | model | [1] Bo 2010 | Table 3, p. 6, row 6 |  |
-| Phase transition | 1398 K | 1398 | Liquid ↔ CuSc; _L: Sc 0.5; CuSc: Sc 0.5_ | experimental | [1] Bo 2010; _cites Savitskii 1970_ | Table 3, p. 6, row 13 |  |
-| Phase transition | 1399 K | 1399 | Liquid ↔ CuSc; _L: Sc 0.5; CuSc: Sc 0.5_ | model | [1] Bo 2010 | Table 3, p. 6, row 15 |  |
-| Phase transition | 1399 K | 1399 | Liquid ↔ CuSc; _L: Sc 0.5; CuSc: Sc 0.5_ | experimental | [1] Bo 2010; _cites Turchanin 2006_ [doi](https://doi.org/10.1007/s11106-006-0055-4) | Table 3, p. 6, row 14 |  |
+| Phase transition | 1198 K | 1198 | Liquid ↔ Cu4Sc; _L: Sc 0.2; Cu4Sc: Sc 0.2_ | experimental | [1] Bo 2010; _cites Turchanin 2006_ [doi](https://doi.org/10.1007/s11106-006-0055-4) | Table 3, p. 6, row 5; `ORC-7ZTNKEXMN2` |  |
+| Phase transition | 1198 K | 1198 | Liquid ↔ Cu4Sc; _L: Sc 0.2; Cu4Sc: Sc 0.2_ | experimental | [1] Bo 2010; _cites Savitskii 1970_ | Table 3, p. 6, row 4; `ORC-PVY4XAKXZN` |  |
+| Phase transition | 1198 K | 1198 | Liquid ↔ Cu4Sc; _L: Sc 0.2; Cu4Sc: Sc 0.2_ | model | [1] Bo 2010 | Table 3, p. 6, row 6; `ORC-RF3BJGWA2K` |  |
+| Phase transition | 1398 K | 1398 | Liquid ↔ CuSc; _L: Sc 0.5; CuSc: Sc 0.5_ | experimental | [1] Bo 2010; _cites Savitskii 1970_ | Table 3, p. 6, row 13; `ORC-K6R3PFB6QC` |  |
+| Phase transition | 1399 K | 1399 | Liquid ↔ CuSc; _L: Sc 0.5; CuSc: Sc 0.5_ | model | [1] Bo 2010 | Table 3, p. 6, row 15; `ORC-GA4UZKHK5A` |  |
+| Phase transition | 1399 K | 1399 | Liquid ↔ CuSc; _L: Sc 0.5; CuSc: Sc 0.5_ | experimental | [1] Bo 2010; _cites Turchanin 2006_ [doi](https://doi.org/10.1007/s11106-006-0055-4) | Table 3, p. 6, row 14; `ORC-JORIOJPX57` |  |
 
 ## Sources
 
@@ -159,4 +159,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

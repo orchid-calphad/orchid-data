@@ -50,20 +50,20 @@ Table: Phase transition, Sc–Y system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1448.15 K | 1448.15 | congruent transformation: (βSc, βY) \<-> (αSc, αY); _(βSc, βY): Y 0.43; (αSc, αY): Y 0.5_ | experimental | [1] Wang 2009; _cites Beaudry 1963_ | Table 5, p. 5, row 16 |  |
-| Phase transition | 1453 K | 1453 |  | experimental | [2] Hu 2018 | p. 2 | “The phase transition lines of β↔α reach a common minimum at 1453 K, 43 at.% Y.” |
-| Phase transition | 1453.15 K | 1453.15 | congruent transformation: (βSc, βY) \<-> (αSc, αY); _(βSc, βY): Y 0.42; (αSc, αY): Y 0.5_ | model | [1] Wang 2009 | Table 5, p. 5, row 18 |  |
-| Phase transition | 1453.15 K | 1453.15 | congruent transformation: (βSc, βY) \<-> (αSc, αY); _(βSc, βY): Y 0.43; (αSc, αY): Y 0.5_ | experimental | [1] Wang 2009; _cites Gschneidner 1983_ [doi](https://doi.org/10.1007/bf02868085) | Table 5, p. 5, row 17 |  |
-| Phase transition | 1638 K | 1638 | other | experimental | [2] Hu 2018 | p. 2 | “The liquidus and solidus reach a common minimum at 1638 K, 50 at.% Y.” |
-| Phase transition | 1638.15 K | 1638.15 | congruent melting: L \<-> (βSc, βY); _(βSc, βY): Y 0.5_ | experimental | [1] Wang 2009; _cites Beaudry 1963_ | Table 5, p. 5, row 7 |  |
-| Phase transition | 1645.15 K | 1645.15 | congruent melting: L \<-> (βSc, βY); _(βSc, βY): Y 0.5_ | model | [1] Wang 2009 | Table 5, p. 5, row 9 |  |
-| Phase transition | 1645.15 K | 1645.15 | congruent melting: L \<-> (βSc, βY); _(βSc, βY): Y 0.5_ | experimental | [1] Wang 2009; _cites Gschneidner 1983_ [doi](https://doi.org/10.1007/bf02868085) | Table 5, p. 5, row 8 |  |
-| Phase transition | 1783.15 K | 1783.15 | congruent melting: L \<-> βY; _βY: Y 1_ | experimental | [1] Wang 2009; _cites Beaudry 1963_ | Table 5, p. 5, row 10 |  |
-| Phase transition | 1795.15 K | 1795.15 | congruent melting: L \<-> βY; _βY: Y 1_ | unspecified | [1] Wang 2009; _cites Beaudry 1978_ | Table 5, p. 5, row 11 |  |
-| Phase transition | 1795.15 K | 1795.15 | congruent melting: L \<-> βY; _βY: Y 1_ | model | [1] Wang 2009 | Table 5, p. 5, row 12 |  |
-| Phase transition | 1812.15 K | 1812.15 | congruent melting: L \<-> βSc; _βSc: Y 0_ | experimental | [1] Wang 2009; _cites Beaudry 1963_ | Table 5, p. 5, row 1 |  |
-| Phase transition | 1814.15 K | 1814.15 | congruent melting: L \<-> βSc; _βSc: Y 0_ | unspecified | [1] Wang 2009; _cites Beaudry 1978_ | Table 5, p. 5, row 2 |  |
-| Phase transition | 1814.15 K | 1814.15 | congruent melting: L \<-> βSc; _βSc: Y 0_ | model | [1] Wang 2009 | Table 5, p. 5, row 3 |  |
+| Phase transition | 1448.15 K | 1448.15 | congruent transformation: (βSc, βY) \<-> (αSc, αY); _(βSc, βY): Y 0.43; (αSc, αY): Y 0.5_ | experimental | [1] Wang 2009; _cites Beaudry 1963_ | Table 5, p. 5, row 16; `ORC-HP6VLPGRQG` |  |
+| Phase transition | 1453 K | 1453 |  | experimental | [2] Hu 2018 | p. 2; `ORC-3SIOTJUFQO` | “The phase transition lines of β↔α reach a common minimum at 1453 K, 43 at.% Y.” |
+| Phase transition | 1453.15 K | 1453.15 | congruent transformation: (βSc, βY) \<-> (αSc, αY); _(βSc, βY): Y 0.42; (αSc, αY): Y 0.5_ | model | [1] Wang 2009 | Table 5, p. 5, row 18; `ORC-5SW72A3H6Y` |  |
+| Phase transition | 1453.15 K | 1453.15 | congruent transformation: (βSc, βY) \<-> (αSc, αY); _(βSc, βY): Y 0.43; (αSc, αY): Y 0.5_ | experimental | [1] Wang 2009; _cites Gschneidner 1983_ [doi](https://doi.org/10.1007/bf02868085) | Table 5, p. 5, row 17; `ORC-IGXAH3XBSH` |  |
+| Phase transition | 1638 K | 1638 | other | experimental | [2] Hu 2018 | p. 2; `ORC-5I754NDLSB` | “The liquidus and solidus reach a common minimum at 1638 K, 50 at.% Y.” |
+| Phase transition | 1638.15 K | 1638.15 | congruent melting: L \<-> (βSc, βY); _(βSc, βY): Y 0.5_ | experimental | [1] Wang 2009; _cites Beaudry 1963_ | Table 5, p. 5, row 7; `ORC-MU2UBCVZNG` |  |
+| Phase transition | 1645.15 K | 1645.15 | congruent melting: L \<-> (βSc, βY); _(βSc, βY): Y 0.5_ | model | [1] Wang 2009 | Table 5, p. 5, row 9; `ORC-CXZHKIKUPC` |  |
+| Phase transition | 1645.15 K | 1645.15 | congruent melting: L \<-> (βSc, βY); _(βSc, βY): Y 0.5_ | experimental | [1] Wang 2009; _cites Gschneidner 1983_ [doi](https://doi.org/10.1007/bf02868085) | Table 5, p. 5, row 8; `ORC-HKYAEM2ENQ` |  |
+| Phase transition | 1783.15 K | 1783.15 | congruent melting: L \<-> βY; _βY: Y 1_ | experimental | [1] Wang 2009; _cites Beaudry 1963_ | Table 5, p. 5, row 10; `ORC-3AKCGQDJVQ` |  |
+| Phase transition | 1795.15 K | 1795.15 | congruent melting: L \<-> βY; _βY: Y 1_ | unspecified | [1] Wang 2009; _cites Beaudry 1978_ | Table 5, p. 5, row 11; `ORC-OUEOZML3A7` |  |
+| Phase transition | 1795.15 K | 1795.15 | congruent melting: L \<-> βY; _βY: Y 1_ | model | [1] Wang 2009 | Table 5, p. 5, row 12; `ORC-SBWRL2V5KY` |  |
+| Phase transition | 1812.15 K | 1812.15 | congruent melting: L \<-> βSc; _βSc: Y 0_ | experimental | [1] Wang 2009; _cites Beaudry 1963_ | Table 5, p. 5, row 1; `ORC-JD4XAW5MS7` |  |
+| Phase transition | 1814.15 K | 1814.15 | congruent melting: L \<-> βSc; _βSc: Y 0_ | unspecified | [1] Wang 2009; _cites Beaudry 1978_ | Table 5, p. 5, row 2; `ORC-5NMBYETQB4` |  |
+| Phase transition | 1814.15 K | 1814.15 | congruent melting: L \<-> βSc; _βSc: Y 0_ | model | [1] Wang 2009 | Table 5, p. 5, row 3; `ORC-64NI2KHTF2` |  |
 
 ## Sources
 
@@ -129,4 +129,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

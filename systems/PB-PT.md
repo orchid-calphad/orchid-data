@@ -58,14 +58,14 @@ Table: Invariant reactions reported in the literature for the Pb–Pt system (8)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1189 | peritectic: L + fcc (Pt) -> Pt3Pb | L: Pt 0.583; Pt3Pb: Pt 0.75 | model | [1] Long 2009 | Table 3, p. 3, row 2 |  |
-| 1188 | peritectic: L + fcc (Pt) -> Pt3Pb | L: Pt 0.58; Pt3Pb: Pt 0.75 | unspecified | [1] Long 2009; _cites Conclusions_ | Table 3, p. 3, row 1 |  |
-| 1068 | peritectic: L + Pt3Pb -> PtPb | L: Pt 0.475; Pt3Pb: Pt 0.75; PtPb: Pt 0.5 | unspecified | [1] Long 2009; _cites Conclusions_ | Table 3, p. 3, row 3 |  |
-| 1065 | peritectic: L + Pt3Pb -> PtPb | L: Pt 0.488; Pt3Pb: Pt 0.75; PtPb: Pt 0.5 | model | [1] Long 2009 | Table 3, p. 3, row 4 |  |
-| 633 | peritectic: L + PtPb -> PtPb4 | L: Pt 0.133; PtPb: Pt 0.5; PtPb4: Pt 0.2 | unspecified | [1] Long 2009; _cites Conclusions_ | Table 3, p. 3, row 5 |  |
-| 633 | peritectic: L + PtPb -> PtPb4 | L: Pt 0.133; PtPb: Pt 0.5; PtPb4: Pt 0.2 | model | [1] Long 2009 | Table 3, p. 3, row 6 |  |
-| 563 | eutectic: L -> PtPb4 + fcc (Pb) | L: Pt 0.053; PtPb4: Pt 0.2 | unspecified | [1] Long 2009; _cites Conclusions_ | Table 3, p. 3, row 7 |  |
-| 557 | eutectic: L -> PtPb4 + fcc (Pb) | L: Pt 0.052; PtPb4: Pt 0.2 | model | [1] Long 2009 | Table 3, p. 3, row 8 |  |
+| 1189 | peritectic: L + fcc (Pt) -> Pt3Pb | L: Pt 0.583; Pt3Pb: Pt 0.75 | model | [1] Long 2009 | Table 3, p. 3, row 2; `ORC-XOZO3W7UEA` |  |
+| 1188 | peritectic: L + fcc (Pt) -> Pt3Pb | L: Pt 0.58; Pt3Pb: Pt 0.75 | unspecified | [1] Long 2009; _cites Conclusions_ | Table 3, p. 3, row 1; `ORC-KCJWRQWK2U` |  |
+| 1068 | peritectic: L + Pt3Pb -> PtPb | L: Pt 0.475; Pt3Pb: Pt 0.75; PtPb: Pt 0.5 | unspecified | [1] Long 2009; _cites Conclusions_ | Table 3, p. 3, row 3; `ORC-BZD4Z25B55` |  |
+| 1065 | peritectic: L + Pt3Pb -> PtPb | L: Pt 0.488; Pt3Pb: Pt 0.75; PtPb: Pt 0.5 | model | [1] Long 2009 | Table 3, p. 3, row 4; `ORC-WUSUGKVENK` |  |
+| 633 | peritectic: L + PtPb -> PtPb4 | L: Pt 0.133; PtPb: Pt 0.5; PtPb4: Pt 0.2 | unspecified | [1] Long 2009; _cites Conclusions_ | Table 3, p. 3, row 5; `ORC-JQVASY24I3` |  |
+| 633 | peritectic: L + PtPb -> PtPb4 | L: Pt 0.133; PtPb: Pt 0.5; PtPb4: Pt 0.2 | model | [1] Long 2009 | Table 3, p. 3, row 6; `ORC-PQ7FY3X72Z` |  |
+| 563 | eutectic: L -> PtPb4 + fcc (Pb) | L: Pt 0.053; PtPb4: Pt 0.2 | unspecified | [1] Long 2009; _cites Conclusions_ | Table 3, p. 3, row 7; `ORC-SVAX2CBHCF` |  |
+| 557 | eutectic: L -> PtPb4 + fcc (Pb) | L: Pt 0.052; PtPb4: Pt 0.2 | model | [1] Long 2009 | Table 3, p. 3, row 8; `ORC-6OVYVAKB33` |  |
 
 ## Other properties
 
@@ -75,9 +75,9 @@ Table: Phase transition, Pb–Pt system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 633 K | 633 | PtPb4 | model | [1] Long 2009; _cites Conclusions_ | p. 1 | “The phase diagram of the Pt-Pb system reported by Hansen and Anderko\[6\] exhibits three intermediate compounds, Pt3Pb, PtPb, and PtPb4. These compounds decompose peritectially at 1188, 1068, and 633 K, respectively.” |
-| Phase transition | 1068 K | 1068 | PtPb | model | [1] Long 2009; _cites Conclusions_ | p. 1 | “The phase diagram of the Pt-Pb system reported by Hansen and Anderko\[6\] exhibits three intermediate compounds, Pt3Pb, PtPb, and PtPb4. These compounds decompose peritectially at 1188, 1068, and 633 K, respectively.” |
-| Phase transition | 1188 K | 1188 | Pt3Pb | model | [1] Long 2009; _cites Conclusions_ | p. 1 | “The phase diagram of the Pt-Pb system reported by Hansen and Anderko\[6\] exhibits three intermediate compounds, Pt3Pb, PtPb, and PtPb4. These compounds decompose peritectially at 1188, 1068, and 633 K, respectively.” |
+| Phase transition | 633 K | 633 | PtPb4 | model | [1] Long 2009; _cites Conclusions_ | p. 1; `ORC-SZQYC5RDF4.c1362d` | “The phase diagram of the Pt-Pb system reported by Hansen and Anderko\[6\] exhibits three intermediate compounds, Pt3Pb, PtPb, and PtPb4. These compounds decompose peritectially at 1188, 1068, and 633 K, respectively.” |
+| Phase transition | 1068 K | 1068 | PtPb | model | [1] Long 2009; _cites Conclusions_ | p. 1; `ORC-SZQYC5RDF4.c93209` | “The phase diagram of the Pt-Pb system reported by Hansen and Anderko\[6\] exhibits three intermediate compounds, Pt3Pb, PtPb, and PtPb4. These compounds decompose peritectially at 1188, 1068, and 633 K, respectively.” |
+| Phase transition | 1188 K | 1188 | Pt3Pb | model | [1] Long 2009; _cites Conclusions_ | p. 1; `ORC-SZQYC5RDF4.bd6078` | “The phase diagram of the Pt-Pb system reported by Hansen and Anderko\[6\] exhibits three intermediate compounds, Pt3Pb, PtPb, and PtPb4. These compounds decompose peritectially at 1188, 1068, and 633 K, respectively.” |
 
 ### Crystal structure (6)
 
@@ -85,12 +85,12 @@ Table: Crystal structure, Pb–Pt system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 4.058 Å |  | Pt3Pb; _alloy: Pt 0.75_ | model | [1] Long 2009; _cites Ellner 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990140-5) | Table 1, p. 2, row 5 |  |
-| Lattice a | 4.1371 Å | 0 | Pt3Pb; _alloy: Pt 0.75_ | DFT | [1] Long 2009 | Table 1, p. 2, row 4 |  |
-| Lattice a | 6.8148 Å | 0 | PtPb4; _alloy: Pt 0.2_ | DFT | [1] Long 2009 | Table 1, p. 2, row 6 |  |
-| Lattice a | 6.65 Å |  | PtPb4; _alloy: Pt 0.2_ | model | [1] Long 2009; _cites Rosler 1951_ | Table 1, p. 2, row 7 |  |
-| Lattice c | 6.0913 Å | 0 | PtPb4; _alloy: Pt 0.2_ | DFT | [1] Long 2009 | Table 1, p. 2, row 6 |  |
-| Lattice c | 5.96 Å |  | PtPb4; _alloy: Pt 0.2_ | model | [1] Long 2009; _cites Rosler 1951_ | Table 1, p. 2, row 7 |  |
+| Lattice a | 4.058 Å |  | Pt3Pb; _alloy: Pt 0.75_ | model | [1] Long 2009; _cites Ellner 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990140-5) | Table 1, p. 2, row 5; `ORC-5XJTRD6Y4R` |  |
+| Lattice a | 4.1371 Å | 0 | Pt3Pb; _alloy: Pt 0.75_ | DFT | [1] Long 2009 | Table 1, p. 2, row 4; `ORC-BC2TKZ2BNM` |  |
+| Lattice a | 6.8148 Å | 0 | PtPb4; _alloy: Pt 0.2_ | DFT | [1] Long 2009 | Table 1, p. 2, row 6; `ORC-7KAQAIAFGF.36c6dc` |  |
+| Lattice a | 6.65 Å |  | PtPb4; _alloy: Pt 0.2_ | model | [1] Long 2009; _cites Rosler 1951_ | Table 1, p. 2, row 7; `ORC-TGBAMHQS72.0b0504` |  |
+| Lattice c | 6.0913 Å | 0 | PtPb4; _alloy: Pt 0.2_ | DFT | [1] Long 2009 | Table 1, p. 2, row 6; `ORC-7KAQAIAFGF.72e6e8` |  |
+| Lattice c | 5.96 Å |  | PtPb4; _alloy: Pt 0.2_ | model | [1] Long 2009; _cites Rosler 1951_ | Table 1, p. 2, row 7; `ORC-TGBAMHQS72.2a65d1` |  |
 
 ## Sources
 
@@ -155,4 +155,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

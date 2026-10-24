@@ -62,34 +62,34 @@ Table: Invariant reactions reported in the literature for the Au–Hf system (28
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2023 | liq.->βAuHf | liq.: Hf 0.5; βAuHf: Hf 0.5 | experimental | [1] Du 2003; _cites Lomello-Tafin 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900529-0) | Table 2, p. 4, row 16 |  |
-| 2020 | liq.->βAuHf | liq.: Hf 0.4971; βAuHf: Hf 0.4971 | model | [1] Du 2003 | Table 2, p. 4, row 15 |  |
-| 1928 | liq.->Au2Hf | liq.: Hf 0.3068; Au2Hf: Hf 0.3068 | model | [1] Du 2003 | Table 2, p. 4, row 9 |  |
-| 1928 | liq.->Au2Hf | liq.: Hf 0.33; Au2Hf: Hf 0.33 | experimental | [1] Du 2003; _cites Lomello-Tafin 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900529-0) | Table 2, p. 4, row 10 |  |
-| 1822 | liq.->Au2Hf+βAuHf | liq.: Hf 0.42; Au2Hf: Hf 0.33; βAuHf: Hf 0.45 | experimental | [1] Du 2003; _cites Lomello-Tafin 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900529-0) | Table 2, p. 4, row 12 |  |
-| 1822 | liq.->Au2Hf+βAuHf | liq.: Hf 0.3831; Au2Hf: Hf 0.324; βAuHf: Hf 0.4709 | model | [1] Du 2003 | Table 2, p. 4, row 11 |  |
-| 1816 | liq. + Au2Hf->Au3Hf | liq.: Hf 0.2385; Au2Hf: Hf 0.293; Au3Hf: Au 0.75, Hf 0.25 | model | [1] Du 2003 | Table 2, p. 4, row 7 |  |
-| 1816 | liq. + Au2Hf->Au3Hf | liq.: Hf 0.23; Au2Hf: Hf 0.3; Au3Hf: Au 0.75, Hf 0.25 | experimental | [1] Du 2003; _cites Lomello-Tafin 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900529-0) | Table 2, p. 4, row 8 |  |
-| 1793 | liq.->AuHf2 | liq.: Hf 0.67; AuHf2: Au 0.333333, Hf 0.666667 | experimental | [1] Du 2003; _cites Lomello-Tafin 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900529-0) | Table 2, p. 4, row 24 |  |
-| 1793 | liq.->AuHf2 | liq.: Hf 0.6667; AuHf2: Au 0.333333, Hf 0.666667 | model | [1] Du 2003 | Table 2, p. 4, row 23 |  |
-| 1786 | Au2Hf+βAuHf->Au10Hf7 | Au2Hf: Hf 0.3249; βAuHf: Hf 0.469; Au10Hf7: Au 0.588235, Hf 0.411765 | model | [1] Du 2003 | Table 2, p. 4, row 13 |  |
-| 1786 | Au2Hf+βAuHf->Au10Hf7 | Au2Hf: Hf 0.33; βAuHf: Hf 0.45; Au10Hf7: Au 0.588235, Hf 0.411765 | experimental | [1] Du 2003; _cites Lomello-Tafin 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900529-0) | Table 2, p. 4, row 14 |  |
-| 1765 | liq.->βAuHf+AuHf2 | liq.: Hf 0.62; βAuHf: Hf 0.5; AuHf2: Au 0.333333, Hf 0.666667 | experimental | [1] Du 2003; _cites Lomello-Tafin 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900529-0) | Table 2, p. 4, row 20 |  |
-| 1761 | liq.->βAuHf+AuHf2 | liq.: Hf 0.6239; βAuHf: Hf 0.4998; AuHf2: Au 0.333333, Hf 0.666667 | model | [1] Du 2003 | Table 2, p. 4, row 19 |  |
-| 1677 | liq.->AuHf2+bcc(Hf) | liq.: Hf 0.7498; AuHf2: Au 0.333333, Hf 0.666667; bcc(Hf): Hf 0.8709 | model | [1] Du 2003 | Table 2, p. 4, row 25 |  |
-| 1670 | liq.->AuHf2+bcc(Hf) | liq.: Hf 0.8; AuHf2: Au 0.333333, Hf 0.666667; bcc(Hf): Hf 0.86 | experimental | [1] Du 2003; _cites Lomello-Tafin 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900529-0) | Table 2, p. 4, row 26 |  |
-| 1571 | liq. + Au3Hf->Au4Hf | liq.: Hf 0.1542; Au3Hf: Au 0.75, Hf 0.25; Au4Hf: Au 0.8, Hf 0.2 | model | [1] Du 2003 | Table 2, p. 4, row 5 |  |
-| 1571 | liq. + Au3Hf->Au4Hf | liq.: Hf 0.15; Au3Hf: Au 0.75, Hf 0.25; Au4Hf: Au 0.8, Hf 0.2 | experimental | [1] Du 2003; _cites Lomello-Tafin 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900529-0) | Table 2, p. 4, row 6 |  |
-| 1559 | bcc(Hf)->AuHf2+hcp(Hf) | bcc(Hf): Hf 0.8818; AuHf2: Au 0.333333, Hf 0.666667; hcp(Hf): Hf 0.9715 | model | [1] Du 2003 | Table 2, p. 4, row 27 |  |
-| 1559 | bcc(Hf)->AuHf2+hcp(Hf) | bcc(Hf): Hf 0.89; AuHf2: Au 0.333333, Hf 0.666667 | experimental | [1] Du 2003; _cites Lomello-Tafin 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900529-0) | Table 2, p. 4, row 28 |  |
-| 1418 | liq. + Au4Hf->Au5Hf | liq.: Hf 0.1091; Au4Hf: Au 0.8, Hf 0.2; Au5Hf: Hf 0.154 | model | [1] Du 2003 | Table 2, p. 4, row 3 |  |
-| 1418 | liq. + Au4Hf->Au5Hf | liq.: Hf 0.1; Au4Hf: Au 0.8, Hf 0.2; Au5Hf: Hf 0.166 | experimental | [1] Du 2003; _cites Lomello-Tafin 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900529-0) | Table 2, p. 4, row 4 |  |
-| 1387 | βAuHf+AuHf2->αAuHf | βAuHf: Hf 0.5; AuHf2: Au 0.333333, Hf 0.666667; αAuHf: Hf 0.51 | experimental | [1] Du 2003; _cites Lomello-Tafin 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900529-0) | Table 2, p. 4, row 22 |  |
-| 1387 | βAuHf+AuHf2->αAuHf | βAuHf: Hf 0.4999; AuHf2: Au 0.333333, Hf 0.666667; αAuHf: Hf 0.4999 | model | [1] Du 2003 | Table 2, p. 4, row 21 |  |
-| 1373 | liq. + Au5Hf->fcc(Au) | liq.: Hf 0.07; Au5Hf: Hf 0.14; fcc(Au): Hf 0.08 | experimental | [1] Du 2003; _cites Lomello-Tafin 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900529-0) | Table 2, p. 4, row 2 |  |
-| 1373 | liq. + Au5Hf->fcc(Au) | liq.: Hf 0.0899; Au5Hf: Hf 0.1465; fcc(Au): Hf 0.0929 | model | [1] Du 2003 | Table 2, p. 4, row 1 |  |
-| 1304 | βAuHf->Au10Hf7+αAuHf | βAuHf: Hf 0.47; Au10Hf7: Au 0.588235, Hf 0.411765; αAuHf: Hf 0.48 | experimental | [1] Du 2003; _cites Lomello-Tafin 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900529-0) | Table 2, p. 4, row 18 |  |
-| 1304 | βAuHf->Au10Hf7+αAuHf | βAuHf: Hf 0.4706; Au10Hf7: Au 0.588235, Hf 0.411765; αAuHf: Hf 0.4753 | model | [1] Du 2003 | Table 2, p. 4, row 17 |  |
+| 2023 | liq.->βAuHf | liq.: Hf 0.5; βAuHf: Hf 0.5 | experimental | [1] Du 2003; _cites Lomello-Tafin 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900529-0) | Table 2, p. 4, row 16; `ORC-ZNAMKR2C7I` |  |
+| 2020 | liq.->βAuHf | liq.: Hf 0.4971; βAuHf: Hf 0.4971 | model | [1] Du 2003 | Table 2, p. 4, row 15; `ORC-6YD6N24XWW` |  |
+| 1928 | liq.->Au2Hf | liq.: Hf 0.3068; Au2Hf: Hf 0.3068 | model | [1] Du 2003 | Table 2, p. 4, row 9; `ORC-WUAOS5N7L7` |  |
+| 1928 | liq.->Au2Hf | liq.: Hf 0.33; Au2Hf: Hf 0.33 | experimental | [1] Du 2003; _cites Lomello-Tafin 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900529-0) | Table 2, p. 4, row 10; `ORC-ZVL5VESI5H` |  |
+| 1822 | liq.->Au2Hf+βAuHf | liq.: Hf 0.42; Au2Hf: Hf 0.33; βAuHf: Hf 0.45 | experimental | [1] Du 2003; _cites Lomello-Tafin 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900529-0) | Table 2, p. 4, row 12; `ORC-MDMTVIC6PM` |  |
+| 1822 | liq.->Au2Hf+βAuHf | liq.: Hf 0.3831; Au2Hf: Hf 0.324; βAuHf: Hf 0.4709 | model | [1] Du 2003 | Table 2, p. 4, row 11; `ORC-UWUG2CQ7JZ` |  |
+| 1816 | liq. + Au2Hf->Au3Hf | liq.: Hf 0.2385; Au2Hf: Hf 0.293; Au3Hf: Au 0.75, Hf 0.25 | model | [1] Du 2003 | Table 2, p. 4, row 7; `ORC-2456FVVFWJ` |  |
+| 1816 | liq. + Au2Hf->Au3Hf | liq.: Hf 0.23; Au2Hf: Hf 0.3; Au3Hf: Au 0.75, Hf 0.25 | experimental | [1] Du 2003; _cites Lomello-Tafin 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900529-0) | Table 2, p. 4, row 8; `ORC-R2XMYHBZAH` |  |
+| 1793 | liq.->AuHf2 | liq.: Hf 0.67; AuHf2: Au 0.333333, Hf 0.666667 | experimental | [1] Du 2003; _cites Lomello-Tafin 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900529-0) | Table 2, p. 4, row 24; `ORC-KWC7NIA5BS` |  |
+| 1793 | liq.->AuHf2 | liq.: Hf 0.6667; AuHf2: Au 0.333333, Hf 0.666667 | model | [1] Du 2003 | Table 2, p. 4, row 23; `ORC-UF3DVVZGWI` |  |
+| 1786 | Au2Hf+βAuHf->Au10Hf7 | Au2Hf: Hf 0.3249; βAuHf: Hf 0.469; Au10Hf7: Au 0.588235, Hf 0.411765 | model | [1] Du 2003 | Table 2, p. 4, row 13; `ORC-2MCQFFBV44` |  |
+| 1786 | Au2Hf+βAuHf->Au10Hf7 | Au2Hf: Hf 0.33; βAuHf: Hf 0.45; Au10Hf7: Au 0.588235, Hf 0.411765 | experimental | [1] Du 2003; _cites Lomello-Tafin 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900529-0) | Table 2, p. 4, row 14; `ORC-BNTZ7H44ZU` |  |
+| 1765 | liq.->βAuHf+AuHf2 | liq.: Hf 0.62; βAuHf: Hf 0.5; AuHf2: Au 0.333333, Hf 0.666667 | experimental | [1] Du 2003; _cites Lomello-Tafin 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900529-0) | Table 2, p. 4, row 20; `ORC-BK6EJPDT3D` |  |
+| 1761 | liq.->βAuHf+AuHf2 | liq.: Hf 0.6239; βAuHf: Hf 0.4998; AuHf2: Au 0.333333, Hf 0.666667 | model | [1] Du 2003 | Table 2, p. 4, row 19; `ORC-BPASBX7PPV` |  |
+| 1677 | liq.->AuHf2+bcc(Hf) | liq.: Hf 0.7498; AuHf2: Au 0.333333, Hf 0.666667; bcc(Hf): Hf 0.8709 | model | [1] Du 2003 | Table 2, p. 4, row 25; `ORC-WBT57UAANY` |  |
+| 1670 | liq.->AuHf2+bcc(Hf) | liq.: Hf 0.8; AuHf2: Au 0.333333, Hf 0.666667; bcc(Hf): Hf 0.86 | experimental | [1] Du 2003; _cites Lomello-Tafin 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900529-0) | Table 2, p. 4, row 26; `ORC-BNIKW7X67R` |  |
+| 1571 | liq. + Au3Hf->Au4Hf | liq.: Hf 0.1542; Au3Hf: Au 0.75, Hf 0.25; Au4Hf: Au 0.8, Hf 0.2 | model | [1] Du 2003 | Table 2, p. 4, row 5; `ORC-DVJWZ5F4P6` |  |
+| 1571 | liq. + Au3Hf->Au4Hf | liq.: Hf 0.15; Au3Hf: Au 0.75, Hf 0.25; Au4Hf: Au 0.8, Hf 0.2 | experimental | [1] Du 2003; _cites Lomello-Tafin 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900529-0) | Table 2, p. 4, row 6; `ORC-S33V2KQWLS` |  |
+| 1559 | bcc(Hf)->AuHf2+hcp(Hf) | bcc(Hf): Hf 0.8818; AuHf2: Au 0.333333, Hf 0.666667; hcp(Hf): Hf 0.9715 | model | [1] Du 2003 | Table 2, p. 4, row 27; `ORC-37YXP2AV2R` |  |
+| 1559 | bcc(Hf)->AuHf2+hcp(Hf) | bcc(Hf): Hf 0.89; AuHf2: Au 0.333333, Hf 0.666667 | experimental | [1] Du 2003; _cites Lomello-Tafin 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900529-0) | Table 2, p. 4, row 28; `ORC-NCCV2K4JIK` |  |
+| 1418 | liq. + Au4Hf->Au5Hf | liq.: Hf 0.1091; Au4Hf: Au 0.8, Hf 0.2; Au5Hf: Hf 0.154 | model | [1] Du 2003 | Table 2, p. 4, row 3; `ORC-CLLWNCENLB` |  |
+| 1418 | liq. + Au4Hf->Au5Hf | liq.: Hf 0.1; Au4Hf: Au 0.8, Hf 0.2; Au5Hf: Hf 0.166 | experimental | [1] Du 2003; _cites Lomello-Tafin 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900529-0) | Table 2, p. 4, row 4; `ORC-QK3BGWWWEK` |  |
+| 1387 | βAuHf+AuHf2->αAuHf | βAuHf: Hf 0.5; AuHf2: Au 0.333333, Hf 0.666667; αAuHf: Hf 0.51 | experimental | [1] Du 2003; _cites Lomello-Tafin 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900529-0) | Table 2, p. 4, row 22; `ORC-3FVORQDGS5` |  |
+| 1387 | βAuHf+AuHf2->αAuHf | βAuHf: Hf 0.4999; AuHf2: Au 0.333333, Hf 0.666667; αAuHf: Hf 0.4999 | model | [1] Du 2003 | Table 2, p. 4, row 21; `ORC-SKKFAMOL7G` |  |
+| 1373 | liq. + Au5Hf->fcc(Au) | liq.: Hf 0.07; Au5Hf: Hf 0.14; fcc(Au): Hf 0.08 | experimental | [1] Du 2003; _cites Lomello-Tafin 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900529-0) | Table 2, p. 4, row 2; `ORC-DJA2POACC3` |  |
+| 1373 | liq. + Au5Hf->fcc(Au) | liq.: Hf 0.0899; Au5Hf: Hf 0.1465; fcc(Au): Hf 0.0929 | model | [1] Du 2003 | Table 2, p. 4, row 1; `ORC-IYPHS7XJIU` |  |
+| 1304 | βAuHf->Au10Hf7+αAuHf | βAuHf: Hf 0.47; Au10Hf7: Au 0.588235, Hf 0.411765; αAuHf: Hf 0.48 | experimental | [1] Du 2003; _cites Lomello-Tafin 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900529-0) | Table 2, p. 4, row 18; `ORC-7DVOMLJK2V` |  |
+| 1304 | βAuHf->Au10Hf7+αAuHf | βAuHf: Hf 0.4706; Au10Hf7: Au 0.588235, Hf 0.411765; αAuHf: Hf 0.4753 | model | [1] Du 2003 | Table 2, p. 4, row 17; `ORC-KO2E4TE6U3` |  |
 
 ## Sources
 
@@ -154,4 +154,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

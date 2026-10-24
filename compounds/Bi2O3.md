@@ -14,17 +14,17 @@ Table: Enthalpy of formation of Bi2O3 reported in the literature (11)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -590.2 kJ/mol (basis unstated) | α-Bi2O3 | 298.15 | experimental | emf 2nd law | [Bi–O](https://data.orchid-project.org/systems/BI-O.html) | [1] Risold 1995; _cites S 1984_ | Table 6, p. 5, row 8 |  |
-| -587.5 kJ/mol (basis unstated) | α-Bi2O3 | 298.15 | experimental | Mass spectrometry | [Bi–O](https://data.orchid-project.org/systems/BI-O.html) | [1] Risold 1995; _cites Sidorov 1980_ | Table 6, p. 5, row 4 |  |
-| -581.6 kJ/mol (basis unstated) | α-Bi2O3 | 298.15 | experimental | emf 3rd law | [Bi–O](https://data.orchid-project.org/systems/BI-O.html) | [1] Risold 1995; _cites Cahen 1978_ | Table 6, p. 5, row 7 |  |
-| -576.6 kJ/mol (basis unstated) | α-Bi2O3 | 298.15 | experimental | Solution calorimetry | [Bi–O](https://data.orchid-project.org/systems/BI-O.html) | [1] Risold 1995; _cites Ditte 1892_ | Table 6, p. 5, row 1 |  |
-| -573.9 kJ/mol (basis unstated) | α-Bi2O3 | 298.15 | experimental | Combusion calorimetry | [Bi–O](https://data.orchid-project.org/systems/BI-O.html) | [1] Risold 1995; _cites Mah 1961_ | Table 6, p. 5, row 3 |  |
-| -569 kJ/mol (basis unstated) | α-Bi2O3 | 298.15 | experimental | Solution calorimetry | [Bi–O](https://data.orchid-project.org/systems/BI-O.html) | [1] Risold 1995; _cites Mixter 1909_ [doi](https://doi.org/10.2475/ajs.s4-28.164.103) | Table 6, p. 5, row 2 |  |
-| -567.8 kJ/mol (basis unstated) | α-Bi2O3 | 298.15 | experimental | emf 3rd law | [Bi–O](https://data.orchid-project.org/systems/BI-O.html) | [1] Risold 1995; _cites Schaefer 1985_ | Table 6, p. 5, row 10 |  |
-| -567.4 kJ/mol (basis unstated) | α-Bi2O3 | 298.15 | experimental | emf 3rd law | [Bi–O](https://data.orchid-project.org/systems/BI-O.html) | [1] Risold 1995; _cites Rao 1971_ [doi](https://doi.org/10.1016/0036-9748%2871%2990168-2) | Table 6, p. 5, row 5 |  |
-| -563.4 kJ/mol (basis unstated) | α-Bi2O3 | 298.15 | experimental | emf 3rd law | [Bi–O](https://data.orchid-project.org/systems/BI-O.html) | [1] Risold 1995; _cites S 1984_ | Table 6, p. 5, row 9 |  |
-| -550.6 kJ/mol (basis unstated) | α-Bi2O3 | 298.15 | experimental | emf 3rd law | [Bi–O](https://data.orchid-project.org/systems/BI-O.html) | [1] Risold 1995; _cites Chatterji 1973_ [doi](https://doi.org/10.1149/1.2403593) | Table 6, p. 5, row 6 |  |
-| -570.3 kJ/mol (basis unstated) | α-Bi2O3 | 298.15 | unspecified |  | [Bi–O](https://data.orchid-project.org/systems/BI-O.html) | [1] Risold 1995 | Table 6, p. 5, row 11 |  |
+| -590.2 kJ/mol (basis unstated) | α-Bi2O3 | 298.15 | experimental | emf 2nd law | [Bi–O](https://data.orchid-project.org/systems/BI-O.html) | [1] Risold 1995; _cites S 1984_ | Table 6, p. 5, row 8; `ORC-OV4327JKMU` |  |
+| -587.5 kJ/mol (basis unstated) | α-Bi2O3 | 298.15 | experimental | Mass spectrometry | [Bi–O](https://data.orchid-project.org/systems/BI-O.html) | [1] Risold 1995; _cites Sidorov 1980_ | Table 6, p. 5, row 4; `ORC-J4DSL4K7B4` |  |
+| -581.6 kJ/mol (basis unstated) | α-Bi2O3 | 298.15 | experimental | emf 3rd law | [Bi–O](https://data.orchid-project.org/systems/BI-O.html) | [1] Risold 1995; _cites Cahen 1978_ | Table 6, p. 5, row 7; `ORC-OJPGWWQJFA` |  |
+| -576.6 kJ/mol (basis unstated) | α-Bi2O3 | 298.15 | experimental | Solution calorimetry | [Bi–O](https://data.orchid-project.org/systems/BI-O.html) | [1] Risold 1995; _cites Ditte 1892_ | Table 6, p. 5, row 1; `ORC-QJHRT2DSD5` |  |
+| -573.9 kJ/mol (basis unstated) | α-Bi2O3 | 298.15 | experimental | Combusion calorimetry | [Bi–O](https://data.orchid-project.org/systems/BI-O.html) | [1] Risold 1995; _cites Mah 1961_ | Table 6, p. 5, row 3; `ORC-4L54DAXTZQ` |  |
+| -569 kJ/mol (basis unstated) | α-Bi2O3 | 298.15 | experimental | Solution calorimetry | [Bi–O](https://data.orchid-project.org/systems/BI-O.html) | [1] Risold 1995; _cites Mixter 1909_ [doi](https://doi.org/10.2475/ajs.s4-28.164.103) | Table 6, p. 5, row 2; `ORC-FE5P6TD3EI` |  |
+| -567.8 kJ/mol (basis unstated) | α-Bi2O3 | 298.15 | experimental | emf 3rd law | [Bi–O](https://data.orchid-project.org/systems/BI-O.html) | [1] Risold 1995; _cites Schaefer 1985_ | Table 6, p. 5, row 10; `ORC-HPLILAXRNR` |  |
+| -567.4 kJ/mol (basis unstated) | α-Bi2O3 | 298.15 | experimental | emf 3rd law | [Bi–O](https://data.orchid-project.org/systems/BI-O.html) | [1] Risold 1995; _cites Rao 1971_ [doi](https://doi.org/10.1016/0036-9748%2871%2990168-2) | Table 6, p. 5, row 5; `ORC-VK6YYTBX2Y` |  |
+| -563.4 kJ/mol (basis unstated) | α-Bi2O3 | 298.15 | experimental | emf 3rd law | [Bi–O](https://data.orchid-project.org/systems/BI-O.html) | [1] Risold 1995; _cites S 1984_ | Table 6, p. 5, row 9; `ORC-QJKRW7LKDA` |  |
+| -550.6 kJ/mol (basis unstated) | α-Bi2O3 | 298.15 | experimental | emf 3rd law | [Bi–O](https://data.orchid-project.org/systems/BI-O.html) | [1] Risold 1995; _cites Chatterji 1973_ [doi](https://doi.org/10.1149/1.2403593) | Table 6, p. 5, row 6; `ORC-YP5NCGRC3Y` |  |
+| -570.3 kJ/mol (basis unstated) | α-Bi2O3 | 298.15 | unspecified |  | [Bi–O](https://data.orchid-project.org/systems/BI-O.html) | [1] Risold 1995 | Table 6, p. 5, row 11; `ORC-CE2AYHS5CG` |  |
 
 ### Uncertainty budget
 
@@ -97,4 +97,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

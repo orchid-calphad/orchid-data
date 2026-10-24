@@ -52,7 +52,7 @@ Table: Enthalpies of formation, Ga–N system (1)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| GaN | [GaN](https://data.orchid-project.org/compounds/GaN.html) | -52.1 kJ/mol-atom ± 2 | 298.15 | experimental | -63.373 (mp-aaaaabey) | -55.891 (oqmd-6450) | [1] Unland 2003; _cites Hahn 1940_ [doi](https://doi.org/10.1002/zaac.19402440203) | Table 2, p. 3, row 1 |  |
+| GaN | [GaN](https://data.orchid-project.org/compounds/GaN.html) | -52.1 kJ/mol-atom ± 2 | 298.15 | experimental | -63.373 (mp-aaaaabey) | -55.891 (oqmd-6450) | [1] Unland 2003; _cites Hahn 1940_ [doi](https://doi.org/10.1002/zaac.19402440203) | Table 2, p. 3, row 1; `ORC-L4ZDFWE5GW` |  |
 
 ## Other properties
 
@@ -62,13 +62,13 @@ Table: Phase transition, Ga–N system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1043 K | 1043 | other: GaN, Dynamic oscillation TGA, first heating cycle; _alloy: N 0.5_ | experimental | [1] Unland 2003 | Table 4, p. 5, row 1 |  |
-| Phase transition | 1085 K | 1085 | other: GaN, fast heating TGA (in ramp before 1275 K, 24 h); _alloy: N 0.5_ | experimental | [1] Unland 2003 | Table 4, p. 5, row 2 |  |
-| Phase transition | 1110 K | 1110 | other | experimental | [1] Unland 2003 | p. 1 | “A reproducible mass gain at slightly lower temperature suggests the equilibrium temperature to be at 1110710 K under 1 bar of nitrogen.” |
-| Phase transition | 1110 K | 1110 | other: GaN (+ in situ Ga) Isothermal stepping TGA, samples #1, #2, #3, assessed value; _alloy: N 0.5_ | experimental | [1] Unland 2003 | Table 4, p. 5, row 4 |  |
-| Phase transition | 2700 K | 2700 |  | model | [1] Unland 2003 | p. 13 | “The finally assessed value of Tm=2700 K agrees with all three constraints and the resulting value of 0;L Ga;N is given in Table 5.” |
-| Phase transition | 2700 K | 2700 | liquid | model | [1] Unland 2003 | p. 15 | “The experimental solubility data are compared to the calculated phase boundary based on Tm=2700 K in Fig. 8.” |
-| Phase transition | 2791 K | 2791 |  | model | [1] Unland 2003; _cites Van 1973_ [doi](https://doi.org/10.1103/physrevb.7.1479) | p. 13 | “It is also in reasonable agreement with the melting point at 2791 K predicted from the semi-empirical theory of electronegativity \[53\].” |
+| Phase transition | 1043 K | 1043 | other: GaN, Dynamic oscillation TGA, first heating cycle; _alloy: N 0.5_ | experimental | [1] Unland 2003 | Table 4, p. 5, row 1; `ORC-FK57YZZHWC` |  |
+| Phase transition | 1085 K | 1085 | other: GaN, fast heating TGA (in ramp before 1275 K, 24 h); _alloy: N 0.5_ | experimental | [1] Unland 2003 | Table 4, p. 5, row 2; `ORC-QQ5EJWD4AD` |  |
+| Phase transition | 1110 K | 1110 | other | experimental | [1] Unland 2003 | p. 1; `ORC-55QNUK2WUL` | “A reproducible mass gain at slightly lower temperature suggests the equilibrium temperature to be at 1110710 K under 1 bar of nitrogen.” |
+| Phase transition | 1110 K | 1110 | other: GaN (+ in situ Ga) Isothermal stepping TGA, samples #1, #2, #3, assessed value; _alloy: N 0.5_ | experimental | [1] Unland 2003 | Table 4, p. 5, row 4; `ORC-QUBP5YRWM6` |  |
+| Phase transition | 2700 K | 2700 |  | model | [1] Unland 2003 | p. 13; `ORC-2XGMYDHKV6` | “The finally assessed value of Tm=2700 K agrees with all three constraints and the resulting value of 0;L Ga;N is given in Table 5.” |
+| Phase transition | 2700 K | 2700 | liquid | model | [1] Unland 2003 | p. 15; `ORC-JWKRDOKSBK` | “The experimental solubility data are compared to the calculated phase boundary based on Tm=2700 K in Fig. 8.” |
+| Phase transition | 2791 K | 2791 |  | model | [1] Unland 2003; _cites Van 1973_ [doi](https://doi.org/10.1103/physrevb.7.1479) | p. 13; `ORC-WGXS7XZ3SG` | “It is also in reasonable agreement with the melting point at 2791 K predicted from the semi-empirical theory of electronegativity \[53\].” |
 
 ## Sources
 
@@ -133,4 +133,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

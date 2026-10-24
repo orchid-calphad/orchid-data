@@ -14,10 +14,10 @@ Table: Enthalpy of formation of Fe23Ho6 reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -6.7 kJ/mol (basis unstated) | Fe23Ho6 | 298.15 | experimental | EMF | [Fe–Ho](https://data.orchid-project.org/systems/FE-HO.html) | [1] Kardellass 2014; _cites Gozzi 2007_ [doi](https://doi.org/10.1021/je7003353) | Table 3, p. 3, row 7 |  |
-| -6.2 kJ/mol (basis unstated) | Fe23Ho6 | 300 | model | Calculation | [Fe–Ho](https://data.orchid-project.org/systems/FE-HO.html) | [1] Kardellass 2014; _cites Gozzi 2007_ [doi](https://doi.org/10.1021/je7003353) | Table 3, p. 3, row 6 |  |
-| -2.12 kJ/mol (basis unstated) | Fe23Ho6 | 298.15 | model | Prediction | [Fe–Ho](https://data.orchid-project.org/systems/FE-HO.html) | [1] Kardellass 2014; _cites Kardellass 2013_ | Table 3, p. 3, row 5 |  |
-| -1.84 kJ/mol (basis unstated) | Fe23Ho6 | 298.15 | model | Optimization | [Fe–Ho](https://data.orchid-project.org/systems/FE-HO.html) | [1] Kardellass 2014 | Table 3, p. 3, row 8 |  |
+| -6.7 kJ/mol (basis unstated) | Fe23Ho6 | 298.15 | experimental | EMF | [Fe–Ho](https://data.orchid-project.org/systems/FE-HO.html) | [1] Kardellass 2014; _cites Gozzi 2007_ [doi](https://doi.org/10.1021/je7003353) | Table 3, p. 3, row 7; `ORC-DZGZXMSEGH.5c7ba8` |  |
+| -6.2 kJ/mol (basis unstated) | Fe23Ho6 | 300 | model | Calculation | [Fe–Ho](https://data.orchid-project.org/systems/FE-HO.html) | [1] Kardellass 2014; _cites Gozzi 2007_ [doi](https://doi.org/10.1021/je7003353) | Table 3, p. 3, row 6; `ORC-WKYXXFHLRY.69285f` |  |
+| -2.12 kJ/mol (basis unstated) | Fe23Ho6 | 298.15 | model | Prediction | [Fe–Ho](https://data.orchid-project.org/systems/FE-HO.html) | [1] Kardellass 2014; _cites Kardellass 2013_ | Table 3, p. 3, row 5; `ORC-5Z6DF3IBMI.d07e72` |  |
+| -1.84 kJ/mol (basis unstated) | Fe23Ho6 | 298.15 | model | Optimization | [Fe–Ho](https://data.orchid-project.org/systems/FE-HO.html) | [1] Kardellass 2014 | Table 3, p. 3, row 8; `ORC-QSWE2CZ6ZY.8fa8db` |  |
 
 ### Uncertainty budget
 
@@ -83,4 +83,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

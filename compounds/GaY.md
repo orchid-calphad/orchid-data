@@ -14,12 +14,12 @@ Table: Enthalpy of formation of GaY reported in the literature (6)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -71.4 kJ/mol-atom ± 1.7 | GaY | 298.15 | experimental | Dir. Syn. Calo. | [Ga–Y](https://data.orchid-project.org/systems/GA-Y.html) | [1] Idbenali 2013; _cites Meschel 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900599-x) | Table 5, p. 7, row 17 |  |
-| -71 kJ/mol-atom | GaY | 298.15 | experimental | Ga Soln. Calo | [Ga–Y](https://data.orchid-project.org/systems/GA-Y.html) | [1] Idbenali 2013; _cites Merker 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990065-c) | Table 5, p. 7, row 18 |  |
-| -68.9 kJ/mol-atom ± 2.8 | GaY | 298.15 | experimental | Ga Soln. Calo | [Ga–Y](https://data.orchid-project.org/systems/GA-Y.html) | [1] Idbenali 2013; _cites Babu 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901132-4) | Table 5, p. 7, row 13 |  |
-| -75.2 kJ/mol-atom | GaY | 298.15 | model |  | [Ga–Y](https://data.orchid-project.org/systems/GA-Y.html) | [1] Idbenali 2013 | Table 5, p. 7, row 14 |  |
-| -75.19 kJ/mol-atom | GaY | 298.15 | model |  | [Ga–Y](https://data.orchid-project.org/systems/GA-Y.html) | [1] Idbenali 2013 | Table 5, p. 7, row 15 |  |
-| -73 kJ/mol-atom | GaY | 298.15 | model |  | [Ga–Y](https://data.orchid-project.org/systems/GA-Y.html) | [1] Idbenali 2013; _cites de Boer FR 1988_ | Table 5, p. 7, row 16 |  |
+| -71.4 kJ/mol-atom ± 1.7 | GaY | 298.15 | experimental | Dir. Syn. Calo. | [Ga–Y](https://data.orchid-project.org/systems/GA-Y.html) | [1] Idbenali 2013; _cites Meschel 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900599-x) | Table 5, p. 7, row 17; `ORC-UM363FP6O2` |  |
+| -71 kJ/mol-atom | GaY | 298.15 | experimental | Ga Soln. Calo | [Ga–Y](https://data.orchid-project.org/systems/GA-Y.html) | [1] Idbenali 2013; _cites Merker 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990065-c) | Table 5, p. 7, row 18; `ORC-PITICB4H36` |  |
+| -68.9 kJ/mol-atom ± 2.8 | GaY | 298.15 | experimental | Ga Soln. Calo | [Ga–Y](https://data.orchid-project.org/systems/GA-Y.html) | [1] Idbenali 2013; _cites Babu 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901132-4) | Table 5, p. 7, row 13; `ORC-3KBBK4PM37` |  |
+| -75.2 kJ/mol-atom | GaY | 298.15 | model |  | [Ga–Y](https://data.orchid-project.org/systems/GA-Y.html) | [1] Idbenali 2013 | Table 5, p. 7, row 14; `ORC-CD4LXZ4CMM` |  |
+| -75.19 kJ/mol-atom | GaY | 298.15 | model |  | [Ga–Y](https://data.orchid-project.org/systems/GA-Y.html) | [1] Idbenali 2013 | Table 5, p. 7, row 15; `ORC-AONFJJ2L4W` |  |
+| -73 kJ/mol-atom | GaY | 298.15 | model |  | [Ga–Y](https://data.orchid-project.org/systems/GA-Y.html) | [1] Idbenali 2013; _cites de Boer FR 1988_ | Table 5, p. 7, row 16; `ORC-KP454ZSCIO` |  |
 
 ### Uncertainty budget
 
@@ -100,4 +100,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

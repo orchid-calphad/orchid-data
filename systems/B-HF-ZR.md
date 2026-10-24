@@ -28,10 +28,10 @@ Table: Invariant reactions reported in the literature for the B–Hf–Zr system
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2293.15 | quasi-peritectic: U1: L+(Hf,Zr)B2= (βB)+ZrB12 |  | experimental | [1] Pan 2021; _cites Harmon 1965_ | Table 4, p. 13, row 2 |  |
-| 2282.15 | quasi-peritectic: U1: L+(Hf,Zr)B2= (βB)+ZrB12 | L: B 0.9572, Hf 0.002, Zr 0.0408 | model | [1] Pan 2021 | Table 4, p. 13, row 1 |  |
-| 1988.15 | quasi-peritectic: U2: L+HfB= (Hf,Zr)B2+(βHf, βZr) | L: B 0.1335, Hf 0.2005, Zr 0.666 | experimental | [1] Pan 2021; _cites Harmon 1965_ | Table 4, p. 13, row 4 |  |
-| 1973.15 | quasi-peritectic: U2: L+HfB= (Hf,Zr)B2+(βHf, βZr) | L: B 0.1393, Hf 0.2379, Zr 0.6228 | model | [1] Pan 2021 | Table 4, p. 13, row 3 |  |
+| 2293.15 | quasi-peritectic: U1: L+(Hf,Zr)B2= (βB)+ZrB12 |  | experimental | [1] Pan 2021; _cites Harmon 1965_ | Table 4, p. 13, row 2; `ORC-LDPISJDWMC` |  |
+| 2282.15 | quasi-peritectic: U1: L+(Hf,Zr)B2= (βB)+ZrB12 | L: B 0.9572, Hf 0.002, Zr 0.0408 | model | [1] Pan 2021 | Table 4, p. 13, row 1; `ORC-XJ7TA3BMVY` |  |
+| 1988.15 | quasi-peritectic: U2: L+HfB= (Hf,Zr)B2+(βHf, βZr) | L: B 0.1335, Hf 0.2005, Zr 0.666 | experimental | [1] Pan 2021; _cites Harmon 1965_ | Table 4, p. 13, row 4; `ORC-3V6DLRMZUF` |  |
+| 1973.15 | quasi-peritectic: U2: L+HfB= (Hf,Zr)B2+(βHf, βZr) | L: B 0.1393, Hf 0.2379, Zr 0.6228 | model | [1] Pan 2021 | Table 4, p. 13, row 3; `ORC-WBUG2NRK7O` |  |
 
 ## Other properties
 
@@ -41,7 +41,7 @@ Table: Phase transition, B–Hf–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1988.15 K | 1988.15 | L?HfB=(Hf,Zr)B2?(bHf,bZr) | experimental | [1] Pan 2021; _cites Harmon 1965_ | p. 3 | “The two following invariant transition equilibria were confirmed by Ref 39 and 40: L?(Hf,Zr)B2= (bB)?ZrB12 at 2020 C and L?HfB=(Hf,Zr)B2?(bHf,bZr) at 1715 C with the liquid composition of 13.35 at.% B and 20.05 at.% Hf.” |
+| Phase transition | 1988.15 K | 1988.15 | L?HfB=(Hf,Zr)B2?(bHf,bZr) | experimental | [1] Pan 2021; _cites Harmon 1965_ | p. 3; `ORC-KZBNRO4YWB.1ccd01` | “The two following invariant transition equilibria were confirmed by Ref 39 and 40: L?(Hf,Zr)B2= (bB)?ZrB12 at 2020 C and L?HfB=(Hf,Zr)B2?(bHf,bZr) at 1715 C with the liquid composition of 13.35 at.% B and 20.05 at.% Hf.” |
 
 ## Sources
 
@@ -84,4 +84,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -77,38 +77,38 @@ Table: Invariant reactions reported in the literature for the Bi–K system (32)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 988 | congruent melting: L -> β-BiK3 | L: K 0.75; β-BiK3: K 0.75 | model | [1] Niu 2012 | Table 2, p. 2, row 29 |  |
-| 988 | congruent melting: L -> β-BiK3 | L: K 0.75; β-BiK3: K 0.75 | model | [1] Niu 2012; _cites Petric 1991_ [doi](https://doi.org/10.1007/bf02663669) | Table 2, p. 2, row 28 |  |
-| 944 | congruent melting: L -> β-BiK3 | L: K 0.75; β-BiK3: K 0.75 | experimental | [1] Niu 2012; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 2, p. 2, row 27 |  |
-| 838 | congruent melting: L -> Bi2K | L: K 0.333; Bi2K: K 0.333 | experimental | [1] Niu 2012; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 2, p. 2, row 21 |  |
-| 838 | congruent melting: L -> Bi2K | L: K 0.333; Bi2K: K 0.333 | model | [1] Niu 2012; _cites Petric 1991_ [doi](https://doi.org/10.1007/bf02663669) | Table 2, p. 2, row 23 |  |
-| 838 | congruent melting: L -> Bi2K | L: K 0.333; Bi2K: K 0.333 | experimental | [1] Niu 2012; _cites Petric 1988_ [doi](https://doi.org/10.1088/0305-4608/18/7/015) | Table 2, p. 2, row 22 |  |
-| 838 | congruent melting: L -> Bi2K | L: K 0.333; Bi2K: K 0.333 | model | [1] Niu 2012 | Table 2, p. 2, row 24 |  |
-| 718 | congruent melting: L -> Bi2K3 | L: K 0.6; Bi2K3: K 0.6 | model | [1] Niu 2012; _cites Petric 1991_ [doi](https://doi.org/10.1007/bf02663669) | Table 2, p. 2, row 25 |  |
-| 715.1 | eutectic: L -> Bi2K3 + β-BiK3 | L: K 0.602; Bi2K3: K 0.6; β-BiK3: K 0.75 | model | [1] Niu 2012 | Table 2, p. 2, row 4 |  |
-| 715.1 | congruent melting: L -> Bi2K3 | L: K 0.6; Bi2K3: K 0.6 | model | [1] Niu 2012 | Table 2, p. 2, row 26 |  |
-| 715 | eutectic: L -> Bi2K3 + β-BiK3 | Bi2K3: K 0.6; β-BiK3: K 0.75 | experimental | [1] Niu 2012; _cites Petric 1988_ [doi](https://doi.org/10.1088/0305-4608/18/7/015) | Table 2, p. 2, row 2 |  |
-| 715 | eutectic: L -> Bi2K3 + β-BiK3 | L: K 0.605; Bi2K3: K 0.6; β-BiK3: K 0.75 | model | [1] Niu 2012; _cites Petric 1991_ [doi](https://doi.org/10.1007/bf02663669) | Table 2, p. 2, row 3 |  |
-| 715 | eutectic: L -> Bi2K3 + β-BiK3 | Bi2K3: K 0.6; β-BiK3: K 0.75 | experimental | [1] Niu 2012; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 2, p. 2, row 1 |  |
-| 654.1 | peritectic: L + Bi2K3 -> Bi4K5 | L: K 0.525; Bi2K3: K 0.6; Bi4K5: K 0.556 | model | [1] Niu 2012 | Table 2, p. 2, row 8 |  |
-| 654 | peritectic: L + Bi2K3 -> Bi4K5 | Bi2K3: K 0.6; Bi4K5: K 0.556 | experimental | [1] Niu 2012; _cites Petric 1988_ [doi](https://doi.org/10.1088/0305-4608/18/7/015) | Table 2, p. 2, row 6 |  |
-| 654 | peritectic: L + Bi2K3 -> Bi4K5 | Bi2K3: K 0.6; Bi4K5: K 0.556 | experimental | [1] Niu 2012; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 2, p. 2, row 5 |  |
-| 654 | peritectic: L + Bi2K3 -> Bi4K5 | L: K 0.535; Bi2K3: K 0.6; Bi4K5: K 0.556 | model | [1] Niu 2012; _cites Petric 1991_ [doi](https://doi.org/10.1007/bf02663669) | Table 2, p. 2, row 7 |  |
-| 628 | eutectic: L -> Bi2K + Bi4K5 | L: K 0.5; Bi2K: K 0.333; Bi4K5: K 0.556 | model | [1] Niu 2012; _cites Petric 1991_ [doi](https://doi.org/10.1007/bf02663669) | Table 2, p. 2, row 11 |  |
-| 627 | eutectic: L -> Bi2K + Bi4K5 | Bi2K: K 0.333; Bi4K5: K 0.556 | experimental | [1] Niu 2012; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 2, p. 2, row 9 |  |
-| 627 | eutectic: L -> Bi2K + Bi4K5 | Bi2K: K 0.333; Bi4K5: K 0.556 | experimental | [1] Niu 2012; _cites Petric 1988_ [doi](https://doi.org/10.1088/0305-4608/18/7/015) | Table 2, p. 2, row 10 |  |
-| 626.9 | eutectic: L -> Bi2K + Bi4K5 | L: K 0.499; Bi2K: K 0.333; Bi4K5: K 0.556 | model | [1] Niu 2012 | Table 2, p. 2, row 12 |  |
-| 553 | polymorphic: β-BiK3 -> α-BiK3 | β-BiK3: K 0.75; α-BiK3: K 0.75 | model | [1] Niu 2012; _cites Petric 1991_ [doi](https://doi.org/10.1007/bf02663669) | Table 2, p. 2, row 31 |  |
-| 553 | polymorphic: β-BiK3 -> α-BiK3 | β-BiK3: K 0.75; α-BiK3: K 0.75 | model | [1] Niu 2012 | Table 2, p. 2, row 32 |  |
-| 553 | polymorphic: β-BiK3 -> α-BiK3 | β-BiK3: K 0.75; α-BiK3: K 0.75 | experimental | [1] Niu 2012; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 2, p. 2, row 30 |  |
-| 538.4 | eutectic: L -> Rhom + Bi2K | L: K 0.026; Rhom: K 0; Bi2K: K 0.333 | model | [1] Niu 2012 | Table 2, p. 2, row 16 |  |
-| 538 | eutectic: L -> Rhom + Bi2K | Bi2K: K 0.333 | experimental | [1] Niu 2012; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 2, p. 2, row 13 |  |
-| 538 | eutectic: L -> Rhom + Bi2K | L: K 0.025; Rhom: K 0; Bi2K: K 0.333 | experimental | [1] Niu 2012; _cites Petric 1988_ [doi](https://doi.org/10.1088/0305-4608/18/7/015) | Table 2, p. 2, row 14 |  |
-| 538 | eutectic: L -> Rhom + Bi2K | L: K 0.025; Rhom: K 0; Bi2K: K 0.333 | model | [1] Niu 2012; _cites Petric 1991_ [doi](https://doi.org/10.1007/bf02663669) | Table 2, p. 2, row 15 |  |
-| 336.71 | eutectic: L -> α-BiK3 + BCC_A2 | L: K 1; α-BiK3: K 0.75; BCC_A2: K 1 | model | [1] Niu 2012; _cites Petric 1991_ [doi](https://doi.org/10.1007/bf02663669) | Table 2, p. 2, row 19 |  |
-| 336.5 | eutectic: L -> α-BiK3 + BCC_A2 | L: K 1; α-BiK3: K 0.75; BCC_A2: K 1 | model | [1] Niu 2012 | Table 2, p. 2, row 20 |  |
-| 336 | eutectic: L -> α-BiK3 + BCC_A2 | α-BiK3: K 0.75 | experimental | [1] Niu 2012; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 2, p. 2, row 17 |  |
-| 336 | eutectic: L -> α-BiK3 + BCC_A2 | α-BiK3: K 0.75 | experimental | [1] Niu 2012; _cites Petric 1988_ [doi](https://doi.org/10.1088/0305-4608/18/7/015) | Table 2, p. 2, row 18 |  |
+| 988 | congruent melting: L -> β-BiK3 | L: K 0.75; β-BiK3: K 0.75 | model | [1] Niu 2012 | Table 2, p. 2, row 29; `ORC-D6GNDMUNID` |  |
+| 988 | congruent melting: L -> β-BiK3 | L: K 0.75; β-BiK3: K 0.75 | model | [1] Niu 2012; _cites Petric 1991_ [doi](https://doi.org/10.1007/bf02663669) | Table 2, p. 2, row 28; `ORC-SR52NNJIBP` |  |
+| 944 | congruent melting: L -> β-BiK3 | L: K 0.75; β-BiK3: K 0.75 | experimental | [1] Niu 2012; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 2, p. 2, row 27; `ORC-LZA7C54EX2` |  |
+| 838 | congruent melting: L -> Bi2K | L: K 0.333; Bi2K: K 0.333 | experimental | [1] Niu 2012; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 2, p. 2, row 21; `ORC-5UBZ5TKNLL` |  |
+| 838 | congruent melting: L -> Bi2K | L: K 0.333; Bi2K: K 0.333 | model | [1] Niu 2012; _cites Petric 1991_ [doi](https://doi.org/10.1007/bf02663669) | Table 2, p. 2, row 23; `ORC-EUJ3YH2RMX` |  |
+| 838 | congruent melting: L -> Bi2K | L: K 0.333; Bi2K: K 0.333 | experimental | [1] Niu 2012; _cites Petric 1988_ [doi](https://doi.org/10.1088/0305-4608/18/7/015) | Table 2, p. 2, row 22; `ORC-UJ6QG7MB4I` |  |
+| 838 | congruent melting: L -> Bi2K | L: K 0.333; Bi2K: K 0.333 | model | [1] Niu 2012 | Table 2, p. 2, row 24; `ORC-W4VDWAV7Y7` |  |
+| 718 | congruent melting: L -> Bi2K3 | L: K 0.6; Bi2K3: K 0.6 | model | [1] Niu 2012; _cites Petric 1991_ [doi](https://doi.org/10.1007/bf02663669) | Table 2, p. 2, row 25; `ORC-YKREEG4PFG` |  |
+| 715.1 | eutectic: L -> Bi2K3 + β-BiK3 | L: K 0.602; Bi2K3: K 0.6; β-BiK3: K 0.75 | model | [1] Niu 2012 | Table 2, p. 2, row 4; `ORC-CMDO4ASO2I` |  |
+| 715.1 | congruent melting: L -> Bi2K3 | L: K 0.6; Bi2K3: K 0.6 | model | [1] Niu 2012 | Table 2, p. 2, row 26; `ORC-QHGMPRJTXH` |  |
+| 715 | eutectic: L -> Bi2K3 + β-BiK3 | Bi2K3: K 0.6; β-BiK3: K 0.75 | experimental | [1] Niu 2012; _cites Petric 1988_ [doi](https://doi.org/10.1088/0305-4608/18/7/015) | Table 2, p. 2, row 2; `ORC-BASZIIGL65` |  |
+| 715 | eutectic: L -> Bi2K3 + β-BiK3 | L: K 0.605; Bi2K3: K 0.6; β-BiK3: K 0.75 | model | [1] Niu 2012; _cites Petric 1991_ [doi](https://doi.org/10.1007/bf02663669) | Table 2, p. 2, row 3; `ORC-BUH2BSHAL6` |  |
+| 715 | eutectic: L -> Bi2K3 + β-BiK3 | Bi2K3: K 0.6; β-BiK3: K 0.75 | experimental | [1] Niu 2012; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 2, p. 2, row 1; `ORC-E3GIEC6Z7N` |  |
+| 654.1 | peritectic: L + Bi2K3 -> Bi4K5 | L: K 0.525; Bi2K3: K 0.6; Bi4K5: K 0.556 | model | [1] Niu 2012 | Table 2, p. 2, row 8; `ORC-OHWCXIRYMQ` |  |
+| 654 | peritectic: L + Bi2K3 -> Bi4K5 | Bi2K3: K 0.6; Bi4K5: K 0.556 | experimental | [1] Niu 2012; _cites Petric 1988_ [doi](https://doi.org/10.1088/0305-4608/18/7/015) | Table 2, p. 2, row 6; `ORC-3LKXKIQDCG` |  |
+| 654 | peritectic: L + Bi2K3 -> Bi4K5 | Bi2K3: K 0.6; Bi4K5: K 0.556 | experimental | [1] Niu 2012; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 2, p. 2, row 5; `ORC-FS5RPBGPIU` |  |
+| 654 | peritectic: L + Bi2K3 -> Bi4K5 | L: K 0.535; Bi2K3: K 0.6; Bi4K5: K 0.556 | model | [1] Niu 2012; _cites Petric 1991_ [doi](https://doi.org/10.1007/bf02663669) | Table 2, p. 2, row 7; `ORC-YMHDWREFPZ` |  |
+| 628 | eutectic: L -> Bi2K + Bi4K5 | L: K 0.5; Bi2K: K 0.333; Bi4K5: K 0.556 | model | [1] Niu 2012; _cites Petric 1991_ [doi](https://doi.org/10.1007/bf02663669) | Table 2, p. 2, row 11; `ORC-YI5VNOKWUK` |  |
+| 627 | eutectic: L -> Bi2K + Bi4K5 | Bi2K: K 0.333; Bi4K5: K 0.556 | experimental | [1] Niu 2012; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 2, p. 2, row 9; `ORC-6UHCXMANFV` |  |
+| 627 | eutectic: L -> Bi2K + Bi4K5 | Bi2K: K 0.333; Bi4K5: K 0.556 | experimental | [1] Niu 2012; _cites Petric 1988_ [doi](https://doi.org/10.1088/0305-4608/18/7/015) | Table 2, p. 2, row 10; `ORC-I6O6XHVUTI` |  |
+| 626.9 | eutectic: L -> Bi2K + Bi4K5 | L: K 0.499; Bi2K: K 0.333; Bi4K5: K 0.556 | model | [1] Niu 2012 | Table 2, p. 2, row 12; `ORC-K67EWIC3ZV` |  |
+| 553 | polymorphic: β-BiK3 -> α-BiK3 | β-BiK3: K 0.75; α-BiK3: K 0.75 | model | [1] Niu 2012; _cites Petric 1991_ [doi](https://doi.org/10.1007/bf02663669) | Table 2, p. 2, row 31; `ORC-3PA7LNMM6Z` |  |
+| 553 | polymorphic: β-BiK3 -> α-BiK3 | β-BiK3: K 0.75; α-BiK3: K 0.75 | model | [1] Niu 2012 | Table 2, p. 2, row 32; `ORC-3YVCBGP2AO` |  |
+| 553 | polymorphic: β-BiK3 -> α-BiK3 | β-BiK3: K 0.75; α-BiK3: K 0.75 | experimental | [1] Niu 2012; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 2, p. 2, row 30; `ORC-PUYZIIHOVC` |  |
+| 538.4 | eutectic: L -> Rhom + Bi2K | L: K 0.026; Rhom: K 0; Bi2K: K 0.333 | model | [1] Niu 2012 | Table 2, p. 2, row 16; `ORC-G6PQFWN7IQ` |  |
+| 538 | eutectic: L -> Rhom + Bi2K | Bi2K: K 0.333 | experimental | [1] Niu 2012; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 2, p. 2, row 13; `ORC-32DLCM577T` |  |
+| 538 | eutectic: L -> Rhom + Bi2K | L: K 0.025; Rhom: K 0; Bi2K: K 0.333 | experimental | [1] Niu 2012; _cites Petric 1988_ [doi](https://doi.org/10.1088/0305-4608/18/7/015) | Table 2, p. 2, row 14; `ORC-KKSSSSTWUN` |  |
+| 538 | eutectic: L -> Rhom + Bi2K | L: K 0.025; Rhom: K 0; Bi2K: K 0.333 | model | [1] Niu 2012; _cites Petric 1991_ [doi](https://doi.org/10.1007/bf02663669) | Table 2, p. 2, row 15; `ORC-XZ634ZJ3WL` |  |
+| 336.71 | eutectic: L -> α-BiK3 + BCC_A2 | L: K 1; α-BiK3: K 0.75; BCC_A2: K 1 | model | [1] Niu 2012; _cites Petric 1991_ [doi](https://doi.org/10.1007/bf02663669) | Table 2, p. 2, row 19; `ORC-RMWZQZYKZM` |  |
+| 336.5 | eutectic: L -> α-BiK3 + BCC_A2 | L: K 1; α-BiK3: K 0.75; BCC_A2: K 1 | model | [1] Niu 2012 | Table 2, p. 2, row 20; `ORC-CALF2MSB2U` |  |
+| 336 | eutectic: L -> α-BiK3 + BCC_A2 | α-BiK3: K 0.75 | experimental | [1] Niu 2012; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 2, p. 2, row 17; `ORC-CHOUU37D6Y` |  |
+| 336 | eutectic: L -> α-BiK3 + BCC_A2 | α-BiK3: K 0.75 | experimental | [1] Niu 2012; _cites Petric 1988_ [doi](https://doi.org/10.1088/0305-4608/18/7/015) | Table 2, p. 2, row 18; `ORC-D4SYDI3LFI` |  |
 
 ## Formation enthalpies
 
@@ -118,22 +118,22 @@ Table: Enthalpies of formation, Bi–K system (16)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Bi2K | [Bi2K](https://data.orchid-project.org/compounds/Bi2K.html) | -42.5 kJ/mol-atom | 838 | model | -32.149 (mp-aaaabilj) | -30.659 (oqmd-647551) | [1] Niu 2012 | Table 3, p. 4, row 6 |  |
-| Bi2K | [Bi2K](https://data.orchid-project.org/compounds/Bi2K.html) | -41 kJ/mol-atom ± 4.2 | 838 | unspecified | -32.149 (mp-aaaabilj) | -30.659 (oqmd-647551) | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 4 |  |
-| Bi2K | [Bi2K](https://data.orchid-project.org/compounds/Bi2K.html) | -40.8 kJ/mol-atom | 838 | experimental | -32.149 (mp-aaaabilj) | -30.659 (oqmd-647551) | [1] Niu 2012; _cites Petric 1988_ [doi](https://doi.org/10.1088/0305-4608/18/7/015) | Table 3, p. 4, row 5 |  |
-| Bi2K | [Bi2K](https://data.orchid-project.org/compounds/Bi2K.html) | -34.2 kJ/mol-atom | 523 | model | -32.149 (mp-aaaabilj) | -30.659 (oqmd-647551) | [1] Niu 2012 | Table 3, p. 4, row 3 |  |
-| Bi2K3 | [Bi2K3](https://data.orchid-project.org/compounds/Bi2K3.html) | -43.2 kJ/mol-atom | 523 | model | -31.875 (mp-aaacqqwr) | -33.986 (oqmd-1435539) | [1] Niu 2012 | Table 3, p. 4, row 14 |  |
-| Bi4K5 | [Bi4K5](https://data.orchid-project.org/compounds/Bi4K5.html) | -50.2 kJ/mol-atom ± 12.6 | 627 | unspecified | -33.867 (mp-aaacrqif) | -36.015 (oqmd-1339793) | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 10 |  |
-| Bi4K5 | [Bi4K5](https://data.orchid-project.org/compounds/Bi4K5.html) | -48.4 kJ/mol-atom | 627 | model | -33.867 (mp-aaacrqif) | -36.015 (oqmd-1339793) | [1] Niu 2012 | Table 3, p. 4, row 11 |  |
-| Bi4K5 | [Bi4K5](https://data.orchid-project.org/compounds/Bi4K5.html) | -42.1 kJ/mol-atom | 523 | model | -33.867 (mp-aaacrqif) | -36.015 (oqmd-1339793) | [1] Niu 2012 | Table 3, p. 4, row 9 |  |
-| BiK3 | [BiK3](https://data.orchid-project.org/compounds/BiK3.html) | -51.3 kJ/mol-atom | 848 | model | -35.228 (mp-aaaabuhi) | -37.486 (oqmd-24983) | [1] Niu 2012 | Table 3, p. 4, row 19 |  |
-| BiK3 | [BiK3](https://data.orchid-project.org/compounds/BiK3.html) | -49.2 kJ/mol-atom | 848 | experimental | -35.228 (mp-aaaabuhi) | -37.486 (oqmd-24983) | [1] Niu 2012; _cites Petric 1988_ [doi](https://doi.org/10.1088/0305-4608/18/7/015) | Table 3, p. 4, row 18 |  |
-| BiK3 | [BiK3](https://data.orchid-project.org/compounds/BiK3.html) | -46.7 kJ/mol-atom | 523 | model | -35.228 (mp-aaaabuhi) | -37.486 (oqmd-24983) | [1] Niu 2012 | Table 3, p. 4, row 17 |  |
-| BiK3 | [BiK3](https://data.orchid-project.org/compounds/BiK3.html) | -45.1 kJ/mol-atom ± 2.1 | 523 | experimental | -35.228 (mp-aaaabuhi) | -37.486 (oqmd-24983) | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 15 |  |
-| UNKNOWN | [Bi2K3](https://data.orchid-project.org/compounds/Bi2K3.html) | -39.5 kJ/mol-atom ± 2.2 | 523 | experimental | -31.875 (mp-aaacqqwr) | -33.986 (oqmd-1435539) | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 12 |  |
-| UNKNOWN | [Bi4K5](https://data.orchid-project.org/compounds/Bi4K5.html) | -38.1 kJ/mol-atom ± 2.2 | 523 | experimental | -33.867 (mp-aaacrqif) | -36.015 (oqmd-1339793) | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 7 |  |
-| UNKNOWN | [Bi2K](https://data.orchid-project.org/compounds/Bi2K.html) | -28.7 kJ/mol-atom ± 2.2 | 523 | experimental | -32.149 (mp-aaaabilj) | -30.659 (oqmd-647551) | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 1 |  |
-| UNKNOWN |  | 45.1 kJ/mol-atom ± 2.1 | 523 | experimental |  |  | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 15 |  |
+| Bi2K | [Bi2K](https://data.orchid-project.org/compounds/Bi2K.html) | -42.5 kJ/mol-atom | 838 | model | -32.149 (mp-aaaabilj) | -30.659 (oqmd-647551) | [1] Niu 2012 | Table 3, p. 4, row 6; `ORC-AENQCHXMTS.f8b618` |  |
+| Bi2K | [Bi2K](https://data.orchid-project.org/compounds/Bi2K.html) | -41 kJ/mol-atom ± 4.2 | 838 | unspecified | -32.149 (mp-aaaabilj) | -30.659 (oqmd-647551) | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 4; `ORC-4ABBGGQFFI.4ac59d` |  |
+| Bi2K | [Bi2K](https://data.orchid-project.org/compounds/Bi2K.html) | -40.8 kJ/mol-atom | 838 | experimental | -32.149 (mp-aaaabilj) | -30.659 (oqmd-647551) | [1] Niu 2012; _cites Petric 1988_ [doi](https://doi.org/10.1088/0305-4608/18/7/015) | Table 3, p. 4, row 5; `ORC-KEI2TY2L4J.d9b859` |  |
+| Bi2K | [Bi2K](https://data.orchid-project.org/compounds/Bi2K.html) | -34.2 kJ/mol-atom | 523 | model | -32.149 (mp-aaaabilj) | -30.659 (oqmd-647551) | [1] Niu 2012 | Table 3, p. 4, row 3; `ORC-L3UASAPG7V.77de70` |  |
+| Bi2K3 | [Bi2K3](https://data.orchid-project.org/compounds/Bi2K3.html) | -43.2 kJ/mol-atom | 523 | model | -31.875 (mp-aaacqqwr) | -33.986 (oqmd-1435539) | [1] Niu 2012 | Table 3, p. 4, row 14; `ORC-HMQVDKAC42.7fa48f` |  |
+| Bi4K5 | [Bi4K5](https://data.orchid-project.org/compounds/Bi4K5.html) | -50.2 kJ/mol-atom ± 12.6 | 627 | unspecified | -33.867 (mp-aaacrqif) | -36.015 (oqmd-1339793) | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 10; `ORC-3L3YEMNECR.64f811` |  |
+| Bi4K5 | [Bi4K5](https://data.orchid-project.org/compounds/Bi4K5.html) | -48.4 kJ/mol-atom | 627 | model | -33.867 (mp-aaacrqif) | -36.015 (oqmd-1339793) | [1] Niu 2012 | Table 3, p. 4, row 11; `ORC-GCE5VEZUQX.c71912` |  |
+| Bi4K5 | [Bi4K5](https://data.orchid-project.org/compounds/Bi4K5.html) | -42.1 kJ/mol-atom | 523 | model | -33.867 (mp-aaacrqif) | -36.015 (oqmd-1339793) | [1] Niu 2012 | Table 3, p. 4, row 9; `ORC-YXG4J56R7H.cd78ca` |  |
+| BiK3 | [BiK3](https://data.orchid-project.org/compounds/BiK3.html) | -51.3 kJ/mol-atom | 848 | model | -35.228 (mp-aaaabuhi) | -37.486 (oqmd-24983) | [1] Niu 2012 | Table 3, p. 4, row 19; `ORC-ABC2SN45RE.77a958` |  |
+| BiK3 | [BiK3](https://data.orchid-project.org/compounds/BiK3.html) | -49.2 kJ/mol-atom | 848 | experimental | -35.228 (mp-aaaabuhi) | -37.486 (oqmd-24983) | [1] Niu 2012; _cites Petric 1988_ [doi](https://doi.org/10.1088/0305-4608/18/7/015) | Table 3, p. 4, row 18; `ORC-K4G26RVS4P.72381c` |  |
+| BiK3 | [BiK3](https://data.orchid-project.org/compounds/BiK3.html) | -46.7 kJ/mol-atom | 523 | model | -35.228 (mp-aaaabuhi) | -37.486 (oqmd-24983) | [1] Niu 2012 | Table 3, p. 4, row 17; `ORC-JX6VRWVKQ6.417946` |  |
+| BiK3 | [BiK3](https://data.orchid-project.org/compounds/BiK3.html) | -45.1 kJ/mol-atom ± 2.1 | 523 | experimental | -35.228 (mp-aaaabuhi) | -37.486 (oqmd-24983) | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 15; `ORC-AP6PJYWU2A.68996d` |  |
+| UNKNOWN | [Bi2K3](https://data.orchid-project.org/compounds/Bi2K3.html) | -39.5 kJ/mol-atom ± 2.2 | 523 | experimental | -31.875 (mp-aaacqqwr) | -33.986 (oqmd-1435539) | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 12; `ORC-5VLZZSK2FU.a87d23` |  |
+| UNKNOWN | [Bi4K5](https://data.orchid-project.org/compounds/Bi4K5.html) | -38.1 kJ/mol-atom ± 2.2 | 523 | experimental | -33.867 (mp-aaacrqif) | -36.015 (oqmd-1339793) | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 7; `ORC-JHECAZUR7A.527387` |  |
+| UNKNOWN | [Bi2K](https://data.orchid-project.org/compounds/Bi2K.html) | -28.7 kJ/mol-atom ± 2.2 | 523 | experimental | -32.149 (mp-aaaabilj) | -30.659 (oqmd-647551) | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 1; `ORC-OAM7DL5O44.0f9db3` |  |
+| UNKNOWN |  | 45.1 kJ/mol-atom ± 2.1 | 523 | experimental |  |  | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 15; `ORC-AP6PJYWU2A.b4b400` |  |
 
 ## Other properties
 
@@ -143,7 +143,7 @@ Table: Phase transition, Bi–K system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 553.15 K | 553.15 | polymorphic | experimental | [1] Niu 2012; _cites Smith 1908_ | p. 1 | “Both Smith \[7\] and Gnutzmann and Klemm \[8\] found that the BiK3 compound undergoes a polymorphic transformation at 280 ± 5 ◦ C.” |
+| Phase transition | 553.15 K | 553.15 | polymorphic | experimental | [1] Niu 2012; _cites Smith 1908_ | p. 1; `ORC-F7ZQXODI33` | “Both Smith \[7\] and Gnutzmann and Klemm \[8\] found that the BiK3 compound undergoes a polymorphic transformation at 280 ± 5 ◦ C.” |
 
 ### Formation (34)
 
@@ -151,40 +151,40 @@ Table: Formation, Bi–K system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy of formation; _printed: ΔfS_ | -2.9 J/mol-atom/K | 523 | Bi2K; _alloy: K 0.333333_ | model | [1] Niu 2012 | Table 3, p. 4, row 3 |  |
-| Entropy of formation; _printed: ΔfS_ | -6.52 J/mol-atom/K | 523 | Bi2K3; _alloy: K 0.6_ | model | [1] Niu 2012 | Table 3, p. 4, row 14 |  |
-| Entropy of formation; _printed: ΔfS_ | -6.1 J/mol-atom/K | 523 | Bi4K5; _alloy: K 0.555556_ | model | [1] Niu 2012 | Table 3, p. 4, row 9 |  |
-| Entropy of formation; _printed: ΔfS_ | -12 J/mol-atom/K | 523 | BiK3; _alloy: K 0.75_ | model | [1] Niu 2012 | Table 3, p. 4, row 17 |  |
-| Entropy of formation; _printed: ΔfS_ | -8.4 J/mol-atom/K ± 4.6 | 523 | UNKNOWN; _alloy: K 0.6_ | experimental | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 12 |  |
-| Entropy of formation; _printed: ΔfS_ | -19.7 J/mol-atom/K ± 3.8 | 523 | UNKNOWN; _alloy: K 0.75_ | experimental | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 15 |  |
-| Entropy of formation; _printed: ΔfS_ | -8.4 J/mol-atom/K ± 5 | 523 | UNKNOWN; _alloy: K 0.555556_ | experimental | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 7 |  |
-| Entropy of formation; _printed: ΔfS_ | -3.4 J/mol-atom/K ± 6.3 | 523 | UNKNOWN; _alloy: K 0.333333_ | experimental | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 1 |  |
-| Entropy of formation; _printed: ΔfS_ | -23.4 J/mol-atom/K ± 6.3 | 627 | Bi4K5; _alloy: K 0.555556_ | unspecified | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 10 |  |
-| Entropy of formation; _printed: ΔfS_ | -19.2 J/mol-atom/K | 627 | Bi4K5; _alloy: K 0.555556_ | model | [1] Niu 2012 | Table 3, p. 4, row 11 |  |
-| Entropy of formation; _printed: ΔfS_ | -17.2 J/mol-atom/K ± 4.2 | 838 | Bi2K; _alloy: K 0.333333_ | unspecified | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 4 |  |
-| Entropy of formation; _printed: ΔfS_ | -19 J/mol-atom/K | 838 | Bi2K; _alloy: K 0.333333_ | model | [1] Niu 2012 | Table 3, p. 4, row 6 |  |
-| Entropy of formation; _printed: ΔfS_ | -16.9 J/mol-atom/K | 838 | Bi2K; _alloy: K 0.333333_ | experimental | [1] Niu 2012; _cites Petric 1988_ [doi](https://doi.org/10.1088/0305-4608/18/7/015) | Table 3, p. 4, row 5 |  |
-| Entropy of formation; _printed: ΔfS_ | -22.4 J/mol-atom/K | 848 | BiK3; _alloy: K 0.75_ | model | [1] Niu 2012 | Table 3, p. 4, row 19 |  |
-| Entropy of formation; _printed: ΔfS_ | -19.9 J/mol-atom/K | 848 | BiK3; _alloy: K 0.75_ | experimental | [1] Niu 2012; _cites Petric 1988_ [doi](https://doi.org/10.1088/0305-4608/18/7/015) | Table 3, p. 4, row 18 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -32.7 kJ/mol-atom | 523 | Bi2K; _alloy: K 0.333333_ | model | [1] Niu 2012 | Table 3, p. 4, row 3 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -39.8 kJ/mol-atom | 523 | Bi2K3; _alloy: K 0.6_ | model | [1] Niu 2012 | Table 3, p. 4, row 14 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -38.9 kJ/mol-atom | 523 | Bi4K5; _alloy: K 0.555556_ | model | [1] Niu 2012 | Table 3, p. 4, row 9 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -40.4 kJ/mol-atom | 523 | BiK3; _alloy: K 0.75_ | model | [1] Niu 2012 | Table 3, p. 4, row 17 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -34 kJ/mol-atom ± 1.3 | 523 | UNKNOWN; _alloy: K 0.6_ | experimental | [1] Niu 2012; _cites Hultgren 1973_ | Table 3, p. 4, row 13 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -35.2 kJ/mol-atom ± 4.6 | 523 | UNKNOWN; _alloy: K 0.6_ | experimental | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 12 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -33.9 kJ/mol-atom ± 1.3 | 523 | UNKNOWN; _alloy: K 0.75_ | experimental | [1] Niu 2012; _cites Hultgren 1973_ | Table 3, p. 4, row 16 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -34.8 kJ/mol-atom ± 4.1 | 523 | UNKNOWN; _alloy: K 0.75_ | experimental | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 15 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -33.1 kJ/mol-atom ± 1.3 | 523 | UNKNOWN; _alloy: K 0.555556_ | experimental | [1] Niu 2012; _cites Hultgren 1973_ | Table 3, p. 4, row 8 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -33.7 kJ/mol-atom ± 4.8 | 523 | UNKNOWN; _alloy: K 0.555556_ | experimental | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 7 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -26.5 kJ/mol-atom ± 1.3 | 523 | UNKNOWN; _alloy: K 0.333333_ | experimental | [1] Niu 2012; _cites Hultgren 1973_ | Table 3, p. 4, row 2 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -27 kJ/mol-atom ± 5.5 | 523 | UNKNOWN; _alloy: K 0.333333_ | experimental | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 1 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -35.5 kJ/mol-atom ± 16.5 | 627 | Bi4K5; _alloy: K 0.555556_ | unspecified | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 10 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -36.4 kJ/mol-atom | 627 | Bi4K5; _alloy: K 0.555556_ | model | [1] Niu 2012 | Table 3, p. 4, row 11 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -26.6 kJ/mol-atom ± 7.7 | 838 | Bi2K; _alloy: K 0.333333_ | unspecified | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 4 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -26.6 kJ/mol-atom | 838 | Bi2K; _alloy: K 0.333333_ | model | [1] Niu 2012 | Table 3, p. 4, row 6 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -26.6 kJ/mol-atom | 838 | Bi2K; _alloy: K 0.333333_ | experimental | [1] Niu 2012; _cites Petric 1988_ [doi](https://doi.org/10.1088/0305-4608/18/7/015) | Table 3, p. 4, row 5 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -32.3 kJ/mol-atom | 848 | BiK3; _alloy: K 0.75_ | model | [1] Niu 2012 | Table 3, p. 4, row 19 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -32.4 kJ/mol-atom | 848 | BiK3; _alloy: K 0.75_ | experimental | [1] Niu 2012; _cites Petric 1988_ [doi](https://doi.org/10.1088/0305-4608/18/7/015) | Table 3, p. 4, row 18 |  |
+| Entropy of formation; _printed: ΔfS_ | -2.9 J/mol-atom/K | 523 | Bi2K; _alloy: K 0.333333_ | model | [1] Niu 2012 | Table 3, p. 4, row 3; `ORC-L3UASAPG7V.5ab8f3` |  |
+| Entropy of formation; _printed: ΔfS_ | -6.52 J/mol-atom/K | 523 | Bi2K3; _alloy: K 0.6_ | model | [1] Niu 2012 | Table 3, p. 4, row 14; `ORC-HMQVDKAC42.fb09f1` |  |
+| Entropy of formation; _printed: ΔfS_ | -6.1 J/mol-atom/K | 523 | Bi4K5; _alloy: K 0.555556_ | model | [1] Niu 2012 | Table 3, p. 4, row 9; `ORC-YXG4J56R7H.c49697` |  |
+| Entropy of formation; _printed: ΔfS_ | -12 J/mol-atom/K | 523 | BiK3; _alloy: K 0.75_ | model | [1] Niu 2012 | Table 3, p. 4, row 17; `ORC-JX6VRWVKQ6.189ebf` |  |
+| Entropy of formation; _printed: ΔfS_ | -8.4 J/mol-atom/K ± 4.6 | 523 | UNKNOWN; _alloy: K 0.6_ | experimental | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 12; `ORC-5VLZZSK2FU.079ecd` |  |
+| Entropy of formation; _printed: ΔfS_ | -19.7 J/mol-atom/K ± 3.8 | 523 | UNKNOWN; _alloy: K 0.75_ | experimental | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 15; `ORC-AP6PJYWU2A.f4e1b3` |  |
+| Entropy of formation; _printed: ΔfS_ | -8.4 J/mol-atom/K ± 5 | 523 | UNKNOWN; _alloy: K 0.555556_ | experimental | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 7; `ORC-JHECAZUR7A.ac9bb7` |  |
+| Entropy of formation; _printed: ΔfS_ | -3.4 J/mol-atom/K ± 6.3 | 523 | UNKNOWN; _alloy: K 0.333333_ | experimental | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 1; `ORC-OAM7DL5O44.db5826` |  |
+| Entropy of formation; _printed: ΔfS_ | -23.4 J/mol-atom/K ± 6.3 | 627 | Bi4K5; _alloy: K 0.555556_ | unspecified | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 10; `ORC-3L3YEMNECR.043849` |  |
+| Entropy of formation; _printed: ΔfS_ | -19.2 J/mol-atom/K | 627 | Bi4K5; _alloy: K 0.555556_ | model | [1] Niu 2012 | Table 3, p. 4, row 11; `ORC-GCE5VEZUQX.0722d2` |  |
+| Entropy of formation; _printed: ΔfS_ | -17.2 J/mol-atom/K ± 4.2 | 838 | Bi2K; _alloy: K 0.333333_ | unspecified | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 4; `ORC-4ABBGGQFFI.0e7eb4` |  |
+| Entropy of formation; _printed: ΔfS_ | -19 J/mol-atom/K | 838 | Bi2K; _alloy: K 0.333333_ | model | [1] Niu 2012 | Table 3, p. 4, row 6; `ORC-AENQCHXMTS.bec032` |  |
+| Entropy of formation; _printed: ΔfS_ | -16.9 J/mol-atom/K | 838 | Bi2K; _alloy: K 0.333333_ | experimental | [1] Niu 2012; _cites Petric 1988_ [doi](https://doi.org/10.1088/0305-4608/18/7/015) | Table 3, p. 4, row 5; `ORC-KEI2TY2L4J.b8e593` |  |
+| Entropy of formation; _printed: ΔfS_ | -22.4 J/mol-atom/K | 848 | BiK3; _alloy: K 0.75_ | model | [1] Niu 2012 | Table 3, p. 4, row 19; `ORC-ABC2SN45RE.bd5f5f` |  |
+| Entropy of formation; _printed: ΔfS_ | -19.9 J/mol-atom/K | 848 | BiK3; _alloy: K 0.75_ | experimental | [1] Niu 2012; _cites Petric 1988_ [doi](https://doi.org/10.1088/0305-4608/18/7/015) | Table 3, p. 4, row 18; `ORC-K4G26RVS4P.ff46e0` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -32.7 kJ/mol-atom | 523 | Bi2K; _alloy: K 0.333333_ | model | [1] Niu 2012 | Table 3, p. 4, row 3; `ORC-L3UASAPG7V.fd357e` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -39.8 kJ/mol-atom | 523 | Bi2K3; _alloy: K 0.6_ | model | [1] Niu 2012 | Table 3, p. 4, row 14; `ORC-HMQVDKAC42.422641` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -38.9 kJ/mol-atom | 523 | Bi4K5; _alloy: K 0.555556_ | model | [1] Niu 2012 | Table 3, p. 4, row 9; `ORC-YXG4J56R7H.21672e` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -40.4 kJ/mol-atom | 523 | BiK3; _alloy: K 0.75_ | model | [1] Niu 2012 | Table 3, p. 4, row 17; `ORC-JX6VRWVKQ6.9d3809` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -34 kJ/mol-atom ± 1.3 | 523 | UNKNOWN; _alloy: K 0.6_ | experimental | [1] Niu 2012; _cites Hultgren 1973_ | Table 3, p. 4, row 13; `ORC-5MBL67NU55.5620c6` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -35.2 kJ/mol-atom ± 4.6 | 523 | UNKNOWN; _alloy: K 0.6_ | experimental | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 12; `ORC-5VLZZSK2FU.399489` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -33.9 kJ/mol-atom ± 1.3 | 523 | UNKNOWN; _alloy: K 0.75_ | experimental | [1] Niu 2012; _cites Hultgren 1973_ | Table 3, p. 4, row 16; `ORC-65FTHM43WD.d661d3` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -34.8 kJ/mol-atom ± 4.1 | 523 | UNKNOWN; _alloy: K 0.75_ | experimental | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 15; `ORC-AP6PJYWU2A.14b173` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -33.1 kJ/mol-atom ± 1.3 | 523 | UNKNOWN; _alloy: K 0.555556_ | experimental | [1] Niu 2012; _cites Hultgren 1973_ | Table 3, p. 4, row 8; `ORC-GPYTLM7TMH.23591c` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -33.7 kJ/mol-atom ± 4.8 | 523 | UNKNOWN; _alloy: K 0.555556_ | experimental | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 7; `ORC-JHECAZUR7A.751186` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -26.5 kJ/mol-atom ± 1.3 | 523 | UNKNOWN; _alloy: K 0.333333_ | experimental | [1] Niu 2012; _cites Hultgren 1973_ | Table 3, p. 4, row 2; `ORC-MVMC4LLIGK.deb7c0` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -27 kJ/mol-atom ± 5.5 | 523 | UNKNOWN; _alloy: K 0.333333_ | experimental | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 1; `ORC-OAM7DL5O44.a1313c` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -35.5 kJ/mol-atom ± 16.5 | 627 | Bi4K5; _alloy: K 0.555556_ | unspecified | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 10; `ORC-3L3YEMNECR.e584f7` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -36.4 kJ/mol-atom | 627 | Bi4K5; _alloy: K 0.555556_ | model | [1] Niu 2012 | Table 3, p. 4, row 11; `ORC-GCE5VEZUQX.f53510` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -26.6 kJ/mol-atom ± 7.7 | 838 | Bi2K; _alloy: K 0.333333_ | unspecified | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 4; `ORC-4ABBGGQFFI.4742eb` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -26.6 kJ/mol-atom | 838 | Bi2K; _alloy: K 0.333333_ | model | [1] Niu 2012 | Table 3, p. 4, row 6; `ORC-AENQCHXMTS.8aebf2` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -26.6 kJ/mol-atom | 838 | Bi2K; _alloy: K 0.333333_ | experimental | [1] Niu 2012; _cites Petric 1988_ [doi](https://doi.org/10.1088/0305-4608/18/7/015) | Table 3, p. 4, row 5; `ORC-KEI2TY2L4J.c69d64` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -32.3 kJ/mol-atom | 848 | BiK3; _alloy: K 0.75_ | model | [1] Niu 2012 | Table 3, p. 4, row 19; `ORC-ABC2SN45RE.6bdb79` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -32.4 kJ/mol-atom | 848 | BiK3; _alloy: K 0.75_ | experimental | [1] Niu 2012; _cites Petric 1988_ [doi](https://doi.org/10.1088/0305-4608/18/7/015) | Table 3, p. 4, row 18; `ORC-K4G26RVS4P.4000e4` |  |
 
 ## Sources
 
@@ -249,4 +249,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

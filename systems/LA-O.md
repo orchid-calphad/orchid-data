@@ -58,23 +58,23 @@ Table: Enthalpies of formation, La–O system (17)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| A-La2O3 | [La2O3](https://data.orchid-project.org/compounds/La2O3.html) | -358.32 kJ/mol-atom | 298.15 | model | -373.797 (mp-aaaaadke) | -358.204 (oqmd-30652) | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 13 |  |
-| La2O3 |  | -2255.2 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Grundy 2001; _cites Roth 1940_ | Table 3, p. 3, row 11 |  |
-| La2O3 |  | -2255.2 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Grundy 2001; _cites Roth 1940_ | Table 3, p. 3, row 3 |  |
-| La2O3 |  | -1907.4 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Grundy 2001; _cites Moose 1932_ | Table 3, p. 3, row 10 |  |
-| La2O3 |  | -1907.4 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Grundy 2001; _cites Moose 1932_ | Table 3, p. 3, row 2 |  |
-| La2O3 |  | -1866.1 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Grundy 2001; _cites Von 1959_ | Table 3, p. 3, row 5 |  |
-| La2O3 |  | -1866.1 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Grundy 2001; _cites Von 1959_ | Table 3, p. 3, row 13 |  |
-| La2O3 |  | -1862.1 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Grundy 2001; _cites Muthmann 1904_ [doi](https://doi.org/10.1002/jlac.19043310102) | Table 3, p. 3, row 1 |  |
-| La2O3 |  | -1862.1 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Grundy 2001; _cites Muthmann 1904_ [doi](https://doi.org/10.1002/jlac.19043310102) | Table 3, p. 3, row 9 |  |
-| La2O3 |  | -1797.9 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Grundy 2001; _cites Gvelesiani 1967_ | Table 3, p. 3, row 15 |  |
-| La2O3 |  | -1797.9 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Grundy 2001; _cites Gvelesiani 1967_ | Table 3, p. 3, row 7 |  |
-| La2O3 |  | -1795.5 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Grundy 2001 | Table 3, p. 3, row 8 |  |
-| La2O3 |  | -1795.5 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Grundy 2001 | Table 3, p. 3, row 16 |  |
-| La2O3 |  | -1794.5 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Grundy 2001; _cites Fitzgibbon 1965_ [doi](https://doi.org/10.1021/j100891a504) | Table 3, p. 3, row 14 |  |
-| La2O3 |  | -1794.5 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Grundy 2001; _cites Fitzgibbon 1965_ [doi](https://doi.org/10.1021/j100891a504) | Table 3, p. 3, row 6 |  |
-| La2O3 |  | -1793.3 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Grundy 2001; _cites Huber 1953_ [doi](https://doi.org/10.1021/ja01110a511) | Table 3, p. 3, row 12 |  |
-| La2O3 |  | -1793.3 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Grundy 2001; _cites Huber 1953_ [doi](https://doi.org/10.1021/ja01110a511) | Table 3, p. 3, row 4 |  |
+| A-La2O3 | [La2O3](https://data.orchid-project.org/compounds/La2O3.html) | -358.32 kJ/mol-atom | 298.15 | model | -373.797 (mp-aaaaadke) | -358.204 (oqmd-30652) | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 13; `ORC-R5Z7F2ZFHA.25c306` |  |
+| La2O3 |  | -2255.2 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Grundy 2001; _cites Roth 1940_ | Table 3, p. 3, row 11; `ORC-7HVF4JYGKC` |  |
+| La2O3 |  | -2255.2 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Grundy 2001; _cites Roth 1940_ | Table 3, p. 3, row 3; `ORC-YFLPG2T5CJ` |  |
+| La2O3 |  | -1907.4 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Grundy 2001; _cites Moose 1932_ | Table 3, p. 3, row 10; `ORC-VTONN5KR2B` |  |
+| La2O3 |  | -1907.4 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Grundy 2001; _cites Moose 1932_ | Table 3, p. 3, row 2; `ORC-WODDK3PHVQ` |  |
+| La2O3 |  | -1866.1 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Grundy 2001; _cites Von 1959_ | Table 3, p. 3, row 5; `ORC-N2BINSDHMC` |  |
+| La2O3 |  | -1866.1 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Grundy 2001; _cites Von 1959_ | Table 3, p. 3, row 13; `ORC-SNQD26D234` |  |
+| La2O3 |  | -1862.1 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Grundy 2001; _cites Muthmann 1904_ [doi](https://doi.org/10.1002/jlac.19043310102) | Table 3, p. 3, row 1; `ORC-MZVN67SSDB` |  |
+| La2O3 |  | -1862.1 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Grundy 2001; _cites Muthmann 1904_ [doi](https://doi.org/10.1002/jlac.19043310102) | Table 3, p. 3, row 9; `ORC-YGURYXCQZ3` |  |
+| La2O3 |  | -1797.9 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Grundy 2001; _cites Gvelesiani 1967_ | Table 3, p. 3, row 15; `ORC-5IIOJL5L26` |  |
+| La2O3 |  | -1797.9 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Grundy 2001; _cites Gvelesiani 1967_ | Table 3, p. 3, row 7; `ORC-O42ENWTUDL` |  |
+| La2O3 |  | -1795.5 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Grundy 2001 | Table 3, p. 3, row 8; `ORC-TJJQJSMBNO` |  |
+| La2O3 |  | -1795.5 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Grundy 2001 | Table 3, p. 3, row 16; `ORC-WDJW24J6FZ` |  |
+| La2O3 |  | -1794.5 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Grundy 2001; _cites Fitzgibbon 1965_ [doi](https://doi.org/10.1021/j100891a504) | Table 3, p. 3, row 14; `ORC-5GOJNYDWQX` |  |
+| La2O3 |  | -1794.5 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Grundy 2001; _cites Fitzgibbon 1965_ [doi](https://doi.org/10.1021/j100891a504) | Table 3, p. 3, row 6; `ORC-NJY6NALODN` |  |
+| La2O3 |  | -1793.3 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Grundy 2001; _cites Huber 1953_ [doi](https://doi.org/10.1021/ja01110a511) | Table 3, p. 3, row 12; `ORC-DMGNH64DQO` |  |
+| La2O3 |  | -1793.3 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Grundy 2001; _cites Huber 1953_ [doi](https://doi.org/10.1021/ja01110a511) | Table 3, p. 3, row 4; `ORC-LZHJ3DOIB7` |  |
 
 ## Other properties
 
@@ -84,31 +84,31 @@ Table: Phase transition, La–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 2113 K | 2113 | other: \[1913Ruf\] | experimental | [2] Grundy 2001; _cites Ruff 1913_ [doi](https://doi.org/10.1002/zaac.19130820131) | Table 1, p. 2, row 1 |  |
-| Phase transition | 2303 K | 2303 | polymorphic: A ⟺ H; _alloy: La 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Shevtchenko 1985_ | Table 2.1, p. 6, row 17 |  |
-| Phase transition | 2313 K | 2313 | A-La2O3 -> H-La2O3 | model | [2] Grundy 2001 | p. 1 | “Neutron diffraction \[1979Ald\] and x-ray diffraction \[1966Foe\] studies at very high temperatures and analysis of cooling curves \[1965Foe\] show that A-La2O3 transforms to partially ordered hexagonal H-La2O3 at 2313 K, then to cubic X-La2O3 at 2383 K.” |
-| Phase transition | 2313 K | 2313 | polymorphic | experimental | [2] Grundy 2001; _cites ref. 1965Foe_ | p. 4 | “A first indication of these three polymorphic phases was given when Foëx \[1965Foe\] found three distinctive steps in the cooling curves of molten lanthanum oxide, one at 2583 K corresponding to the solidification and two more at 2383 and 2313 K corresponding to the X → H and H → A transitions, respectively.” |
-| Phase transition | 2313 K | 2313 | polymorphic: A \<=> H; _alloy: La 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 2.2, p. 8, row 10 |  |
-| Phase transition | 2313 K | 2313 | polymorphic: A ⟺ H; _alloy: La 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Coutures 1976_ | Table 2.1, p. 6, row 13 |  |
-| Phase transition | 2313 K | 2313 | polymorphic: A ⟺ H; _alloy: La 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Molodkin 1982_ | Table 2.1, p. 6, row 19 |  |
-| Phase transition | 2313 K | 2313 | polymorphic: A ⟺ H; _alloy: La 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Foex 1966_ | Table 2.1, p. 6, row 11 |  |
-| Phase transition | 2323 K | 2323 | polymorphic: A ⟺ H; _alloy: La 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Tresvyatkii 1971_ | Table 2.1, p. 6, row 15 |  |
-| Phase transition | 2363 K | 2363 | polymorphic: H ⟺ X; _alloy: La 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Molodkin 1982_ | Table 2.1, p. 6, row 20 |  |
-| Phase transition | 2373 K | 2373 | polymorphic: H \<=> X; _alloy: La 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 2.2, p. 8, row 24 |  |
-| Phase transition | 2373 K | 2373 | polymorphic: H ⟺ X; _alloy: La 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Coutures 1976_ | Table 2.1, p. 6, row 14 |  |
-| Phase transition | 2373 K | 2373 | polymorphic: H ⟺ X; _alloy: La 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Shevtchenko 1985_ | Table 2.1, p. 6, row 18 |  |
-| Phase transition | 2383 K | 2383 | H-La2O3 -> X-La2O3 | model | [2] Grundy 2001 | p. 1 | “Neutron diffraction \[1979Ald\] and x-ray diffraction \[1966Foe\] studies at very high temperatures and analysis of cooling curves \[1965Foe\] show that A-La2O3 transforms to partially ordered hexagonal H-La2O3 at 2313 K, then to cubic X-La2O3 at 2383 K.” |
-| Phase transition | 2383 K | 2383 | polymorphic | experimental | [2] Grundy 2001; _cites ref. 1965Foe_ | p. 4 | “A first indication of these three polymorphic phases was given when Foëx \[1965Foe\] found three distinctive steps in the cooling curves of molten lanthanum oxide, one at 2583 K corresponding to the solidification and two more at 2383 and 2313 K corresponding to the X → H and H → A transitions, respectively.” |
-| Phase transition | 2383 K | 2383 | polymorphic: H ⟺ X; _alloy: La 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Foex 1966_ | Table 2.1, p. 6, row 12 |  |
-| Phase transition | 2413 K | 2413 | polymorphic: H ⟺ X; _alloy: La 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Tresvyatkii 1971_ | Table 2.1, p. 6, row 16 |  |
-| Phase transition | 2490 K | 2490 | other: \[1967Mor\] | experimental | [2] Grundy 2001; _cites Mordovin 1967_ | Table 1, p. 2, row 4 |  |
-| Phase transition | 2529 K | 2529 | other: \[1967Nog\] | experimental | [2] Grundy 2001; _cites Noguchi 1968_ | Table 1, p. 2, row 5 |  |
-| Phase transition | 2577 K | 2577 | other: \[1966Sat\] | experimental | [2] Grundy 2001; _cites Sata 1966_ | Table 1, p. 2, row 3 |  |
-| Phase transition | 2583 K | 2583 |  | experimental | [2] Grundy 2001; _cites ref. 1965Foe_ | p. 4 | “A first indication of these three polymorphic phases was given when Foëx \[1965Foe\] found three distinctive steps in the cooling curves of molten lanthanum oxide, one at 2583 K corresponding to the solidification and two more at 2383 and 2313 K corresponding to the X → H and H → A transitions, respectively.” |
-| Phase transition | 2586 K | 2586 |  | model | [2] Grundy 2001 | p. 1 | “The average of these three measurements is 2586 K. This is the value adopted by the SGTE substance database \[1997SGT\] and is used for this study.” |
-| Phase transition | 2586 K | 2586 | other: \[1997SGT\], this study | unspecified | [2] Grundy 2001 | Table 1, p. 2, row 7 |  |
-| Phase transition | 2588 K | 2588 | other: \[1932War\] | unspecified | [2] Grundy 2001; _cites ref. 1932War_ | Table 1, p. 2, row 2 |  |
-| Phase transition | 2593 K | 2593 | other: \[1975Cou\] | experimental | [2] Grundy 2001; _cites Coutures 1975_ | Table 1, p. 2, row 6 |  |
+| Phase transition | 2113 K | 2113 | other: \[1913Ruf\] | experimental | [2] Grundy 2001; _cites Ruff 1913_ [doi](https://doi.org/10.1002/zaac.19130820131) | Table 1, p. 2, row 1; `ORC-MVNC3YU6GD` |  |
+| Phase transition | 2303 K | 2303 | polymorphic: A ⟺ H; _alloy: La 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Shevtchenko 1985_ | Table 2.1, p. 6, row 17; `ORC-PYAPMTFHGZ` |  |
+| Phase transition | 2313 K | 2313 | A-La2O3 -> H-La2O3 | model | [2] Grundy 2001 | p. 1; `ORC-TENPVFXHAE.be9267` | “Neutron diffraction \[1979Ald\] and x-ray diffraction \[1966Foe\] studies at very high temperatures and analysis of cooling curves \[1965Foe\] show that A-La2O3 transforms to partially ordered hexagonal H-La2O3 at 2313 K, then to cubic X-La2O3 at 2383 K.” |
+| Phase transition | 2313 K | 2313 | polymorphic | experimental | [2] Grundy 2001; _cites ref. 1965Foe_ | p. 4; `ORC-UAIN6LM6VV.23113f` | “A first indication of these three polymorphic phases was given when Foëx \[1965Foe\] found three distinctive steps in the cooling curves of molten lanthanum oxide, one at 2583 K corresponding to the solidification and two more at 2383 and 2313 K corresponding to the X → H and H → A transitions, respectively.” |
+| Phase transition | 2313 K | 2313 | polymorphic: A \<=> H; _alloy: La 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 2.2, p. 8, row 10; `ORC-MF3RAQWG2I` |  |
+| Phase transition | 2313 K | 2313 | polymorphic: A ⟺ H; _alloy: La 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Coutures 1976_ | Table 2.1, p. 6, row 13; `ORC-3ASW63ZSKL` |  |
+| Phase transition | 2313 K | 2313 | polymorphic: A ⟺ H; _alloy: La 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Molodkin 1982_ | Table 2.1, p. 6, row 19; `ORC-MFLU6J3IPY` |  |
+| Phase transition | 2313 K | 2313 | polymorphic: A ⟺ H; _alloy: La 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Foex 1966_ | Table 2.1, p. 6, row 11; `ORC-QYEQSIWOO3` |  |
+| Phase transition | 2323 K | 2323 | polymorphic: A ⟺ H; _alloy: La 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Tresvyatkii 1971_ | Table 2.1, p. 6, row 15; `ORC-N2RWVNNDDA` |  |
+| Phase transition | 2363 K | 2363 | polymorphic: H ⟺ X; _alloy: La 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Molodkin 1982_ | Table 2.1, p. 6, row 20; `ORC-FMFWDVQKMG` |  |
+| Phase transition | 2373 K | 2373 | polymorphic: H \<=> X; _alloy: La 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 2.2, p. 8, row 24; `ORC-PAVKTIBCHT` |  |
+| Phase transition | 2373 K | 2373 | polymorphic: H ⟺ X; _alloy: La 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Coutures 1976_ | Table 2.1, p. 6, row 14; `ORC-F3K2VHKS46` |  |
+| Phase transition | 2373 K | 2373 | polymorphic: H ⟺ X; _alloy: La 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Shevtchenko 1985_ | Table 2.1, p. 6, row 18; `ORC-NXEEMXM73I` |  |
+| Phase transition | 2383 K | 2383 | H-La2O3 -> X-La2O3 | model | [2] Grundy 2001 | p. 1; `ORC-TENPVFXHAE.263ffb` | “Neutron diffraction \[1979Ald\] and x-ray diffraction \[1966Foe\] studies at very high temperatures and analysis of cooling curves \[1965Foe\] show that A-La2O3 transforms to partially ordered hexagonal H-La2O3 at 2313 K, then to cubic X-La2O3 at 2383 K.” |
+| Phase transition | 2383 K | 2383 | polymorphic | experimental | [2] Grundy 2001; _cites ref. 1965Foe_ | p. 4; `ORC-UAIN6LM6VV.c1013e` | “A first indication of these three polymorphic phases was given when Foëx \[1965Foe\] found three distinctive steps in the cooling curves of molten lanthanum oxide, one at 2583 K corresponding to the solidification and two more at 2383 and 2313 K corresponding to the X → H and H → A transitions, respectively.” |
+| Phase transition | 2383 K | 2383 | polymorphic: H ⟺ X; _alloy: La 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Foex 1966_ | Table 2.1, p. 6, row 12; `ORC-ZS4HHIIL64` |  |
+| Phase transition | 2413 K | 2413 | polymorphic: H ⟺ X; _alloy: La 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Tresvyatkii 1971_ | Table 2.1, p. 6, row 16; `ORC-H26XJKV6VC` |  |
+| Phase transition | 2490 K | 2490 | other: \[1967Mor\] | experimental | [2] Grundy 2001; _cites Mordovin 1967_ | Table 1, p. 2, row 4; `ORC-6R32EVWYOC` |  |
+| Phase transition | 2529 K | 2529 | other: \[1967Nog\] | experimental | [2] Grundy 2001; _cites Noguchi 1968_ | Table 1, p. 2, row 5; `ORC-L6E3ZVYAH7` |  |
+| Phase transition | 2577 K | 2577 | other: \[1966Sat\] | experimental | [2] Grundy 2001; _cites Sata 1966_ | Table 1, p. 2, row 3; `ORC-UY72IKXCSB` |  |
+| Phase transition | 2583 K | 2583 |  | experimental | [2] Grundy 2001; _cites ref. 1965Foe_ | p. 4; `ORC-UAIN6LM6VV.e56099` | “A first indication of these three polymorphic phases was given when Foëx \[1965Foe\] found three distinctive steps in the cooling curves of molten lanthanum oxide, one at 2583 K corresponding to the solidification and two more at 2383 and 2313 K corresponding to the X → H and H → A transitions, respectively.” |
+| Phase transition | 2586 K | 2586 |  | model | [2] Grundy 2001 | p. 1; `ORC-OXCTB7TXMW` | “The average of these three measurements is 2586 K. This is the value adopted by the SGTE substance database \[1997SGT\] and is used for this study.” |
+| Phase transition | 2586 K | 2586 | other: \[1997SGT\], this study | unspecified | [2] Grundy 2001 | Table 1, p. 2, row 7; `ORC-DEVXRI5KWB` |  |
+| Phase transition | 2588 K | 2588 | other: \[1932War\] | unspecified | [2] Grundy 2001; _cites ref. 1932War_ | Table 1, p. 2, row 2; `ORC-GCXUEW4SS2` |  |
+| Phase transition | 2593 K | 2593 | other: \[1975Cou\] | experimental | [2] Grundy 2001; _cites Coutures 1975_ | Table 1, p. 2, row 6; `ORC-DHXCMV7LWD` |  |
 
 ### Heat capacity / entropy / enthalpy (8)
 
@@ -116,14 +116,14 @@ Table: Heat capacity / entropy / enthalpy, La–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: °S_ | 127.38 unknown | 298.15 | A-La2O3; _alloy: La 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 13 |  |
-| Entropy; _printed: -ΔS298.15_ | -292.88 J/mol·K | 298.15 | La2O3; _alloy: O 0.6_ | experimental | [2] Grundy 2001; _cites Justice 1963_ [doi](https://doi.org/10.1021/j100796a031) | Table 4, p. 4, row 2 |  |
-| Entropy; _printed: S298.15_ | 25.464 J/mol-atom/K | 298.15 | La2O3; _alloy: O 0.6_ | model | [2] Grundy 2001; _cites Justice 1963_ [doi](https://doi.org/10.1021/j100796a031) | Table 2, p. 3, row 1 |  |
-| Entropy; _printed: S298.15_ | 25.468 J/mol-atom/K | 298.15 | La2O3; _alloy: O 0.6_ | model | [2] Grundy 2001 | Table 2, p. 3, row 4 |  |
-| Entropy; _printed: S298.15_ | 25.59 J/mol-atom/K | 298.15 | La2O3; _alloy: O 0.6_ | model | [2] Grundy 2001; _cites Goldstein 1959_ [doi](https://doi.org/10.1021/j150579a028) | Table 2, p. 3, row 2 |  |
-| Entropy; _printed: -ΔS298.15_ | -294.02 J/mol·K | 298.15 | La2O3; _alloy: O 0.6_ | model | [2] Grundy 2001 | Table 4, p. 4, row 3 |  |
-| Entropy; _printed: S298.15_ | 25.714 J/mol-atom/K | 298.15 | La2O3; _alloy: O 0.6_ | model | [2] Grundy 2001; _cites King 1961_ | Table 2, p. 3, row 3 |  |
-| Entropy; _printed: -ΔS298.15_ | -294.56 J/mol·K | 298.15 | La2O3; _alloy: O 0.6_ | experimental | [2] Grundy 2001; _cites King 1961_ | Table 4, p. 4, row 1 |  |
+| Entropy; _printed: °S_ | 127.38 unknown | 298.15 | A-La2O3; _alloy: La 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 13; `ORC-R5Z7F2ZFHA.7ae51e` |  |
+| Entropy; _printed: -ΔS298.15_ | -292.88 J/mol·K | 298.15 | La2O3; _alloy: O 0.6_ | experimental | [2] Grundy 2001; _cites Justice 1963_ [doi](https://doi.org/10.1021/j100796a031) | Table 4, p. 4, row 2; `ORC-FOGZE2XMGN` |  |
+| Entropy; _printed: S298.15_ | 25.464 J/mol-atom/K | 298.15 | La2O3; _alloy: O 0.6_ | model | [2] Grundy 2001; _cites Justice 1963_ [doi](https://doi.org/10.1021/j100796a031) | Table 2, p. 3, row 1; `ORC-JNVTUXQCPD` |  |
+| Entropy; _printed: S298.15_ | 25.468 J/mol-atom/K | 298.15 | La2O3; _alloy: O 0.6_ | model | [2] Grundy 2001 | Table 2, p. 3, row 4; `ORC-MOGBDVKS4N` |  |
+| Entropy; _printed: S298.15_ | 25.59 J/mol-atom/K | 298.15 | La2O3; _alloy: O 0.6_ | model | [2] Grundy 2001; _cites Goldstein 1959_ [doi](https://doi.org/10.1021/j150579a028) | Table 2, p. 3, row 2; `ORC-MW3FCHNXUD` |  |
+| Entropy; _printed: -ΔS298.15_ | -294.02 J/mol·K | 298.15 | La2O3; _alloy: O 0.6_ | model | [2] Grundy 2001 | Table 4, p. 4, row 3; `ORC-O6NCUQ65FX` |  |
+| Entropy; _printed: S298.15_ | 25.714 J/mol-atom/K | 298.15 | La2O3; _alloy: O 0.6_ | model | [2] Grundy 2001; _cites King 1961_ | Table 2, p. 3, row 3; `ORC-VQORFOQAX6` |  |
+| Entropy; _printed: -ΔS298.15_ | -294.56 J/mol·K | 298.15 | La2O3; _alloy: O 0.6_ | experimental | [2] Grundy 2001; _cites King 1961_ | Table 4, p. 4, row 1; `ORC-VSCIOHTF62` |  |
 
 ### Crystal structure (3)
 
@@ -131,9 +131,9 @@ Table: Crystal structure, La–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| lattice molar volume | 55.442 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: La 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 3 |  |
-| lattice molar volume | 50.748 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: La 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 3 |  |
-| lattice molar volume | 49.627 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: La 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 3 |  |
+| lattice molar volume | 55.442 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: La 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 3; `ORC-CZLPQCEH7L.428457` |  |
+| lattice molar volume | 50.748 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: La 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 3; `ORC-CZLPQCEH7L.5a2e7c` |  |
+| lattice molar volume | 49.627 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: La 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 3; `ORC-CZLPQCEH7L.b76c59` |  |
 
 ## Sources
 
@@ -199,4 +199,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

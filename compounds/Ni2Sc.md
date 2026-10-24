@@ -14,16 +14,16 @@ Table: Enthalpy of formation of Ni2Sc reported in the literature (10)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -43 kJ/mol-atom ± 2.3 | (ScNi2) | 1473 | experimental | DSC | [Ni–Sc](https://data.orchid-project.org/systems/NI-SC.html) | [1] Zhu 2015; _cites Selhaoui 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990287-w) | Table 2, p. 3, row 10 |  |
-| -43 kJ/mol-atom ± 2.3 | Ni2Sc | 1473 | experimental | High T Calorimetry | [Ni–Sc](https://data.orchid-project.org/systems/NI-SC.html) | [2] Kardellass 2013; _cites Selhaoui 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990287-w) | Table 2, p. 3, row 8 |  |
-| -53 kJ/mol-atom | (ScNi2) | 298.15 | model | Miedema model | [Ni–Sc](https://data.orchid-project.org/systems/NI-SC.html) | [1] Zhu 2015; _cites F 1988_ | Table 2, p. 3, row 9 |  |
-| -53 kJ/mol-atom | Ni2Sc | 298.15 | model | Prediction (Miedema model) | [Ni–Sc](https://data.orchid-project.org/systems/NI-SC.html) | [2] Kardellass 2013; _cites F 1988_ | Table 2, p. 3, row 7 |  |
-| -37.038 kJ/mol-atom | Ni2Sc | 298.15 | model | Optimization | [Ni–Sc](https://data.orchid-project.org/systems/NI-SC.html) | [2] Kardellass 2013 | Table 2, p. 3, row 10 |  |
-| -37.038 kJ/mol-atom | (ScNi2) | 298.15 | model | Kaptay model | [Ni–Sc](https://data.orchid-project.org/systems/NI-SC.html) | [1] Zhu 2015; _cites Kardellass 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.003) | Table 2, p. 3, row 12 |  |
-| -34.996 kJ/mol-atom | (ScNi2) | 298.15 | model | Redich–Kister model | [Ni–Sc](https://data.orchid-project.org/systems/NI-SC.html) | [1] Zhu 2015; _cites Kardellass 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.003) | Table 2, p. 3, row 11 |  |
-| -34.996 kJ/mol-atom | Ni2Sc | 298.15 | model | Optimization | [Ni–Sc](https://data.orchid-project.org/systems/NI-SC.html) | [2] Kardellass 2013 | Table 2, p. 3, row 9 |  |
-| -33.77 kJ/mol-atom | Ni2Sc | 298.15 | model | Optimization | [Ni–Sc](https://data.orchid-project.org/systems/NI-SC.html) | [3] Kardellass 2016; _cites Kardellass 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.003) | Table 4, p. 7, row 11 |  |
-| -33.099 kJ/mol-atom | (ScNi2) | 298.15 | model | Associate model | [Ni–Sc](https://data.orchid-project.org/systems/NI-SC.html) | [1] Zhu 2015 | Table 2, p. 3, row 13 |  |
+| -43 kJ/mol-atom ± 2.3 | (ScNi2) | 1473 | experimental | DSC | [Ni–Sc](https://data.orchid-project.org/systems/NI-SC.html) | [1] Zhu 2015; _cites Selhaoui 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990287-w) | Table 2, p. 3, row 10; `ORC-5CWK34HTUC.8ed34b` |  |
+| -43 kJ/mol-atom ± 2.3 | Ni2Sc | 1473 | experimental | High T Calorimetry | [Ni–Sc](https://data.orchid-project.org/systems/NI-SC.html) | [2] Kardellass 2013; _cites Selhaoui 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990287-w) | Table 2, p. 3, row 8; `ORC-OWVYRFG56R` |  |
+| -53 kJ/mol-atom | (ScNi2) | 298.15 | model | Miedema model | [Ni–Sc](https://data.orchid-project.org/systems/NI-SC.html) | [1] Zhu 2015; _cites F 1988_ | Table 2, p. 3, row 9; `ORC-E3A3K5VMUR` |  |
+| -53 kJ/mol-atom | Ni2Sc | 298.15 | model | Prediction (Miedema model) | [Ni–Sc](https://data.orchid-project.org/systems/NI-SC.html) | [2] Kardellass 2013; _cites F 1988_ | Table 2, p. 3, row 7; `ORC-WGTLQ6VYWH` |  |
+| -37.038 kJ/mol-atom | Ni2Sc | 298.15 | model | Optimization | [Ni–Sc](https://data.orchid-project.org/systems/NI-SC.html) | [2] Kardellass 2013 | Table 2, p. 3, row 10; `ORC-42RFQ4Q5BC` |  |
+| -37.038 kJ/mol-atom | (ScNi2) | 298.15 | model | Kaptay model | [Ni–Sc](https://data.orchid-project.org/systems/NI-SC.html) | [1] Zhu 2015; _cites Kardellass 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.003) | Table 2, p. 3, row 12; `ORC-VYLH3PZZZ7` |  |
+| -34.996 kJ/mol-atom | (ScNi2) | 298.15 | model | Redich–Kister model | [Ni–Sc](https://data.orchid-project.org/systems/NI-SC.html) | [1] Zhu 2015; _cites Kardellass 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.003) | Table 2, p. 3, row 11; `ORC-5PWE35EFJX` |  |
+| -34.996 kJ/mol-atom | Ni2Sc | 298.15 | model | Optimization | [Ni–Sc](https://data.orchid-project.org/systems/NI-SC.html) | [2] Kardellass 2013 | Table 2, p. 3, row 9; `ORC-LME2MZEPAM` |  |
+| -33.77 kJ/mol-atom | Ni2Sc | 298.15 | model | Optimization | [Ni–Sc](https://data.orchid-project.org/systems/NI-SC.html) | [3] Kardellass 2016; _cites Kardellass 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.003) | Table 4, p. 7, row 11; `ORC-UV5C6HT3TH.9a7a0d` |  |
+| -33.099 kJ/mol-atom | (ScNi2) | 298.15 | model | Associate model | [Ni–Sc](https://data.orchid-project.org/systems/NI-SC.html) | [1] Zhu 2015 | Table 2, p. 3, row 13; `ORC-EGDT7OBSW6` |  |
 
 ### Uncertainty budget
 
@@ -110,4 +110,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

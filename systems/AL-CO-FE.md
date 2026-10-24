@@ -30,7 +30,7 @@ Table: Invariant reactions reported in the literature for the Al–Co–Fe syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 927.05 | eutectic: Liquid%A1þCo2Al9þm(Co,Fe)4Al13 |  | experimental | [1] Ostrowska 2019; _cites Raynor 1948_ | p. 4 | “Moreover the liquidus surface was determined in the Al-rich corner (97.5e100 wt% Al) and the temperature of the ternary eutectic Liquid%A1þCo2Al9þm(Co,Fe)4Al13 was estimated to be 653.9 ± 0.3 C with the liquid composition: 1.55Fe-0.35Co98.1Al (wt%).” |
+| 927.05 | eutectic: Liquid%A1þCo2Al9þm(Co,Fe)4Al13 |  | experimental | [1] Ostrowska 2019; _cites Raynor 1948_ | p. 4; `ORC-75OPJQ6EHA` | “Moreover the liquidus surface was determined in the Al-rich corner (97.5e100 wt% Al) and the temperature of the ternary eutectic Liquid%A1þCo2Al9þm(Co,Fe)4Al13 was estimated to be 653.9 ± 0.3 C with the liquid composition: 1.55Fe-0.35Co98.1Al (wt%).” |
 
 ## Formation enthalpies
 
@@ -40,28 +40,28 @@ Table: Enthalpies of formation, Al–Co–Fe system (22)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| B2 |  | -48.26 kJ/mol (basis unstated) |  | model |  |  | [1] Ostrowska 2019; _cites NIST_ | Table 5, p. 5, row 3 |  |
-| B2 |  | -46.43 kJ/mol (basis unstated) |  | model |  |  | [1] Ostrowska 2019; _cites OQMD_ | Table 5, p. 5, row 2 |  |
-| B2 |  | -45.27 kJ/mol (basis unstated) |  | model |  |  | [1] Ostrowska 2019; _cites materialsproject_ | Table 5, p. 5, row 1 |  |
-| B2 |  | -36.39 kJ/mol (basis unstated) |  | DFT |  |  | [1] Ostrowska 2019; _cites Breuer 2001_ [doi](https://doi.org/10.1007/s11663-001-0077-8) | Table 3, p. 3, row 12 |  |
-| B2 |  | -35.42 kJ/mol (basis unstated) |  | model |  |  | [1] Ostrowska 2019; _cites OQMD_ | Table 5, p. 5, row 5 |  |
-| B2 |  | -34.94 kJ/mol (basis unstated) |  | DFT |  |  | [1] Ostrowska 2019; _cites NIST_ | Table 3, p. 3, row 10 |  |
-| B2 |  | -34.26 kJ/mol (basis unstated) |  | model |  |  | [1] Ostrowska 2019; _cites materialsproject_ | Table 5, p. 5, row 4 |  |
-| B2 |  | -33.3 kJ/mol (basis unstated) |  | model |  |  | [1] Ostrowska 2019; _cites NIST_ | Table 5, p. 5, row 6 |  |
-| B2 |  | -32.04 kJ/mol (basis unstated) |  | DFT |  |  | [1] Ostrowska 2019; _cites OQMD_ | Table 3, p. 3, row 9 |  |
-| B2 |  | -31.85 kJ/mol (basis unstated) |  | DFT |  |  | [1] Ostrowska 2019; _cites AFLOW_ | Table 3, p. 3, row 11 |  |
-| B2 |  | -31.85 kJ/mol (basis unstated) |  | DFT |  |  | [1] Ostrowska 2019; _cites materialsproject_ | Table 3, p. 3, row 8 |  |
-| B2 |  | -6.27 kJ/mol (basis unstated) |  | DFT |  |  | [1] Ostrowska 2019; _cites OQMD_ | Table 4, p. 4, row 2 |  |
-| B2 |  | -5.79 kJ/mol (basis unstated) |  | DFT |  |  | [1] Ostrowska 2019; _cites materialsproject_ | Table 4, p. 4, row 1 |  |
-| B2 |  | -5.79 kJ/mol (basis unstated) |  | DFT |  |  | [1] Ostrowska 2019; _cites AFLOW_ | Table 4, p. 4, row 4 |  |
-| B2 |  | -2.61 kJ/mol (basis unstated) |  | DFT |  |  | [1] Ostrowska 2019; _cites NIST_ | Table 4, p. 4, row 3 |  |
-| Fe3Al |  | -19.4 kJ/mol (basis unstated) |  | DFT |  |  | [1] Ostrowska 2019; _cites OQMD_ | Table 3, p. 3, row 5 |  |
-| Fe3Al |  | -19.21 kJ/mol (basis unstated) |  | DFT |  |  | [1] Ostrowska 2019; _cites AFLOW_ | Table 3, p. 3, row 7 |  |
-| Fe3Al |  | -19.11 kJ/mol (basis unstated) |  | DFT |  |  | [1] Ostrowska 2019; _cites NIST_ | Table 3, p. 3, row 6 |  |
-| Fe3Al |  | -18.73 kJ/mol (basis unstated) |  | DFT |  |  | [1] Ostrowska 2019; _cites materialsproject_ | Table 3, p. 3, row 4 |  |
-| FeAl2 |  | -124.42 kJ/mol (basis unstated) |  | DFT |  |  | [1] Ostrowska 2019; _cites AFLOW_ | Table 3, p. 3, row 3 |  |
-| m-(Co,Fe)4Al13 |  | -16.22 kJ/mol (basis unstated) |  | DFT |  |  | [1] Ostrowska 2019; _cites NIST_ | Table 3, p. 3, row 2 |  |
-| m-(Co,Fe)4Al13 |  | -14.77 kJ/mol (basis unstated) |  | DFT |  |  | [1] Ostrowska 2019; _cites materialsproject_ | Table 3, p. 3, row 1 |  |
+| B2 |  | -48.26 kJ/mol (basis unstated) |  | model |  |  | [1] Ostrowska 2019; _cites NIST_ | Table 5, p. 5, row 3; `ORC-QNUMKGZ7LV` |  |
+| B2 |  | -46.43 kJ/mol (basis unstated) |  | model |  |  | [1] Ostrowska 2019; _cites OQMD_ | Table 5, p. 5, row 2; `ORC-E7IBSAUYM2` |  |
+| B2 |  | -45.27 kJ/mol (basis unstated) |  | model |  |  | [1] Ostrowska 2019; _cites materialsproject_ | Table 5, p. 5, row 1; `ORC-EVPW4FA53A` |  |
+| B2 |  | -36.39 kJ/mol (basis unstated) |  | DFT |  |  | [1] Ostrowska 2019; _cites Breuer 2001_ [doi](https://doi.org/10.1007/s11663-001-0077-8) | Table 3, p. 3, row 12; `ORC-5WU45JPQVL` |  |
+| B2 |  | -35.42 kJ/mol (basis unstated) |  | model |  |  | [1] Ostrowska 2019; _cites OQMD_ | Table 5, p. 5, row 5; `ORC-T5NIRDKAQ3` |  |
+| B2 |  | -34.94 kJ/mol (basis unstated) |  | DFT |  |  | [1] Ostrowska 2019; _cites NIST_ | Table 3, p. 3, row 10; `ORC-KBJOMGSNDF` |  |
+| B2 |  | -34.26 kJ/mol (basis unstated) |  | model |  |  | [1] Ostrowska 2019; _cites materialsproject_ | Table 5, p. 5, row 4; `ORC-5R3OQNIOKY` |  |
+| B2 |  | -33.3 kJ/mol (basis unstated) |  | model |  |  | [1] Ostrowska 2019; _cites NIST_ | Table 5, p. 5, row 6; `ORC-3MYUYBWOGX` |  |
+| B2 |  | -32.04 kJ/mol (basis unstated) |  | DFT |  |  | [1] Ostrowska 2019; _cites OQMD_ | Table 3, p. 3, row 9; `ORC-SINY4PBMNX` |  |
+| B2 |  | -31.85 kJ/mol (basis unstated) |  | DFT |  |  | [1] Ostrowska 2019; _cites AFLOW_ | Table 3, p. 3, row 11; `ORC-2UMRNSAYZA` |  |
+| B2 |  | -31.85 kJ/mol (basis unstated) |  | DFT |  |  | [1] Ostrowska 2019; _cites materialsproject_ | Table 3, p. 3, row 8; `ORC-D2EAHORLG3` |  |
+| B2 |  | -6.27 kJ/mol (basis unstated) |  | DFT |  |  | [1] Ostrowska 2019; _cites OQMD_ | Table 4, p. 4, row 2; `ORC-AJYPCURNRY` |  |
+| B2 |  | -5.79 kJ/mol (basis unstated) |  | DFT |  |  | [1] Ostrowska 2019; _cites materialsproject_ | Table 4, p. 4, row 1; `ORC-B4XWAFKFZL` |  |
+| B2 |  | -5.79 kJ/mol (basis unstated) |  | DFT |  |  | [1] Ostrowska 2019; _cites AFLOW_ | Table 4, p. 4, row 4; `ORC-Z3SKRNAAGP` |  |
+| B2 |  | -2.61 kJ/mol (basis unstated) |  | DFT |  |  | [1] Ostrowska 2019; _cites NIST_ | Table 4, p. 4, row 3; `ORC-A2ZOHYWEMM` |  |
+| Fe3Al |  | -19.4 kJ/mol (basis unstated) |  | DFT |  |  | [1] Ostrowska 2019; _cites OQMD_ | Table 3, p. 3, row 5; `ORC-7QQKA7EOC5` |  |
+| Fe3Al |  | -19.21 kJ/mol (basis unstated) |  | DFT |  |  | [1] Ostrowska 2019; _cites AFLOW_ | Table 3, p. 3, row 7; `ORC-SYS3MN5SZC` |  |
+| Fe3Al |  | -19.11 kJ/mol (basis unstated) |  | DFT |  |  | [1] Ostrowska 2019; _cites NIST_ | Table 3, p. 3, row 6; `ORC-J4TDABFUUL` |  |
+| Fe3Al |  | -18.73 kJ/mol (basis unstated) |  | DFT |  |  | [1] Ostrowska 2019; _cites materialsproject_ | Table 3, p. 3, row 4; `ORC-NQRQLJPSFJ` |  |
+| FeAl2 |  | -124.42 kJ/mol (basis unstated) |  | DFT |  |  | [1] Ostrowska 2019; _cites AFLOW_ | Table 3, p. 3, row 3; `ORC-QZDY6TWINT` |  |
+| m-(Co,Fe)4Al13 |  | -16.22 kJ/mol (basis unstated) |  | DFT |  |  | [1] Ostrowska 2019; _cites NIST_ | Table 3, p. 3, row 2; `ORC-U6R2MU4PLH` |  |
+| m-(Co,Fe)4Al13 |  | -14.77 kJ/mol (basis unstated) |  | DFT |  |  | [1] Ostrowska 2019; _cites materialsproject_ | Table 3, p. 3, row 1; `ORC-BZXFTEF2RW` |  |
 
 ## Other properties
 
@@ -71,36 +71,36 @@ Table: Phase equilibrium, Al–Co–Fe system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 1073 | Phase 1; _Phase 1: Al 0.0333, Co 0.6645, Fe 0.3022_ | experimental | [2] Wang 2022 | Table 4, p. 8, row 6 |  |
-| Phase composition |  | 1073 | Phase 1; _Phase 1: Al 0.3491, Co 0.5212, Fe 0.1298_ | experimental | [2] Wang 2022 | Table 4, p. 8, row 14 |  |
-| Phase composition |  | 1073 | Phase 1; _Phase 1: Al 0.1921, Co 0.5071, Fe 0.3009_ | experimental | [2] Wang 2022 | Table 4, p. 8, row 7 |  |
-| Phase composition |  | 1073 | Phase 1; _Phase 1: Al 0.0528, Co 0.5489, Fe 0.3983_ | experimental | [2] Wang 2022 | Table 4, p. 8, row 18 |  |
-| Phase composition |  | 1073 | Phase 1; _Phase 1: Al 0.0517, Co 0.6455, Fe 0.3028_ | experimental | [2] Wang 2022 | Table 4, p. 8, row 10 |  |
-| Phase composition |  | 1073 | Phase 1; _Phase 1: Al 0.1884, Co 0.463, Fe 0.3486_ | experimental | [2] Wang 2022 | Table 4, p. 8, row 12 |  |
-| Phase composition |  | 1073 | Phase 1; _Phase 1: Al 0.1222, Co 0.1728, Fe 0.705_ | experimental | [2] Wang 2022 | Table 4, p. 8, row 17 |  |
-| Phase composition |  | 1073 | Phase 1; _Phase 1: Al 0.1494, Co 0.053, Fe 0.7976_ | experimental | [2] Wang 2022 | Table 4, p. 8, row 15 |  |
-| Phase composition |  | 1073 | Phase 1; _Phase 1: Al 0.0491, Co 0.5058, Fe 0.4451_ | experimental | [2] Wang 2022 | Table 4, p. 8, row 13 |  |
-| Phase composition |  | 1073 | Phase 1; _Phase 1: Al 0.2516, Co 0.5243, Fe 0.224_ | experimental | [2] Wang 2022 | Table 4, p. 8, row 11 |  |
-| Phase composition |  | 1073 | Phase 1; _Phase 1: Al 0.2568, Co 0.5188, Fe 0.2245_ | experimental | [2] Wang 2022 | Table 4, p. 8, row 9 |  |
-| Phase composition |  | 1073 | Phase 1; _Phase 1: Al 0.2901, Co 0.5607, Fe 0.1492_ | experimental | [2] Wang 2022 | Table 4, p. 8, row 8 |  |
-| Phase composition |  | 1073 | Phase 1; _Phase 1: Al 0.1863, Co 0.1083, Fe 0.7054_ | experimental | [2] Wang 2022 | Table 4, p. 8, row 16 |  |
-| Phase composition |  | 1073 | Phase 1 + Phase 2; _Phase 1: Al 0.0515, Co 0.8457, Fe 0.1028; Phase 2: Al 0.2924, Co 0.5953, Fe 0.1123_ | experimental | [2] Wang 2022 | Table 4, p. 8, row 3 |  |
-| Phase composition |  | 1073 | Phase 1 + Phase 2; _Phase 1: Al 0.0458, Co 0.7797, Fe 0.1745; Phase 2: Al 0.1711, Co 0.6061, Fe 0.2228_ | experimental | [2] Wang 2022 | Table 4, p. 8, row 1 |  |
-| Phase composition |  | 1073 | Phase 1 + Phase 2; _Phase 1: Al 0.1251, Co 0.6231, Fe 0.2519; Phase 2: Al 0.0495, Co 0.7602, Fe 0.1904_ | experimental | [2] Wang 2022 | Table 4, p. 8, row 4 |  |
-| Phase composition |  | 1073 | Phase 1 + Phase 2; _Phase 1: Al 0.0633, Co 0.7694, Fe 0.1673; Phase 2: Al 0.1887, Co 0.6047, Fe 0.2066_ | experimental | [2] Wang 2022 | Table 4, p. 8, row 2 |  |
-| Phase composition |  | 1073 | Phase 1 + Phase 2; _Phase 1: Al 0.0495, Co 0.7984, Fe 0.1522; Phase 2: Al 0.2504, Co 0.5913, Fe 0.1583_ | experimental | [2] Wang 2022 | Table 4, p. 8, row 5 |  |
-| Phase composition |  | 1273 | Phase 1 + Phase 2; _Phase 1: Al 0.5077, Co 0.0335, Fe 0.4588; Phase 2: Al 0.6356, Co 0.0143, Fe 0.3501_ | experimental | [2] Wang 2022 | Table 3, p. 7, row 1 |  |
-| Phase composition |  | 1273 | Phase 1 + Phase 2; _Phase 1: Al 0.5082, Co 0.065, Fe 0.4268; Phase 2: Al 0.6389, Co 0.0282, Fe 0.3329_ | experimental | [2] Wang 2022 | Table 3, p. 7, row 2 |  |
-| Phase composition |  | 1273 | Phase 1 + Phase 2 + Phase 3; _Phase 1: Al 0.511, Co 0.1564, Fe 0.3326; Phase 2: Al 0.6502, Co 0.0681, Fe 0.2816; Phase 3: Al 0.6895, Co 0.0956, Fe 0.215_ | experimental | [2] Wang 2022 | Table 3, p. 7, row 3 |  |
-| Phase composition |  | 1273 | Phase 1 + Phase 3; _Phase 1: Al 0.5041, Co 0.3676, Fe 0.1283; Phase 3: Al 0.6976, Co 0.1923, Fe 0.1101_ | experimental | [2] Wang 2022 | Table 3, p. 7, row 5 |  |
-| Phase composition |  | 1273 | Phase 1 + Phase 3; _Phase 1: Al 0.5098, Co 0.2577, Fe 0.2326; Phase 3: Al 0.6938, Co 0.1398, Fe 0.1665_ | experimental | [2] Wang 2022 | Table 3, p. 7, row 4 |  |
-| Phase composition |  | 1273 | Phase 1 + Phase 3; _Phase 1: Al 0.5017, Co 0.4599, Fe 0.0384; Phase 3: Al 0.7006, Co 0.2543, Fe 0.0451_ | experimental | [2] Wang 2022 | Table 3, p. 7, row 6 |  |
-| Phase composition |  | 1343 | Phase 1; _Phase 1: Al 0.5214, Co 0.1527, Fe 0.3259_ | experimental | [2] Wang 2022 | Table 3, p. 7, row 9 |  |
-| Phase composition |  | 1343 | Phase 1; _Phase 1: Al 0.5121, Co 0.4503, Fe 0.0376_ | experimental | [2] Wang 2022 | Table 3, p. 7, row 12 |  |
-| Phase composition |  | 1343 | Phase 1 + Phase 2; _Phase 1: Al 0.5115, Co 0.0681, Fe 0.4203; Phase 2: Al 0.6436, Co 0.0323, Fe 0.3242_ | experimental | [2] Wang 2022 | Table 3, p. 7, row 8 |  |
-| Phase composition |  | 1343 | Phase 1 + Phase 2; _Phase 1: Al 0.5097, Co 0.0374, Fe 0.4529; Phase 2: Al 0.6384, Co 0.0182, Fe 0.3434_ | experimental | [2] Wang 2022 | Table 3, p. 7, row 7 |  |
-| Phase composition |  | 1343 | Phase 1 + Phase 3; _Phase 1: Al 0.5244, Co 0.3372, Fe 0.1384; Phase 3: Al 0.7, Co 0.1884, Fe 0.1116_ | experimental | [2] Wang 2022 | Table 3, p. 7, row 11 |  |
-| Phase composition |  | 1343 | Phase 1 + Phase 3; _Phase 1: Al 0.5257, Co 0.2443, Fe 0.23; Phase 3: Al 0.6944, Co 0.1417, Fe 0.1639_ | experimental | [2] Wang 2022 | Table 3, p. 7, row 10 |  |
+| Phase composition |  | 1073 | Phase 1; _Phase 1: Al 0.0333, Co 0.6645, Fe 0.3022_ | experimental | [2] Wang 2022 | Table 4, p. 8, row 6; `ORC-6IGNE44BCF` |  |
+| Phase composition |  | 1073 | Phase 1; _Phase 1: Al 0.3491, Co 0.5212, Fe 0.1298_ | experimental | [2] Wang 2022 | Table 4, p. 8, row 14; `ORC-7KT6JBZ7IO` |  |
+| Phase composition |  | 1073 | Phase 1; _Phase 1: Al 0.1921, Co 0.5071, Fe 0.3009_ | experimental | [2] Wang 2022 | Table 4, p. 8, row 7; `ORC-AWDHLY2KXX` |  |
+| Phase composition |  | 1073 | Phase 1; _Phase 1: Al 0.0528, Co 0.5489, Fe 0.3983_ | experimental | [2] Wang 2022 | Table 4, p. 8, row 18; `ORC-DO5V4HNU6Q` |  |
+| Phase composition |  | 1073 | Phase 1; _Phase 1: Al 0.0517, Co 0.6455, Fe 0.3028_ | experimental | [2] Wang 2022 | Table 4, p. 8, row 10; `ORC-FHMQ6BXOHK` |  |
+| Phase composition |  | 1073 | Phase 1; _Phase 1: Al 0.1884, Co 0.463, Fe 0.3486_ | experimental | [2] Wang 2022 | Table 4, p. 8, row 12; `ORC-JFSDSBCC5A` |  |
+| Phase composition |  | 1073 | Phase 1; _Phase 1: Al 0.1222, Co 0.1728, Fe 0.705_ | experimental | [2] Wang 2022 | Table 4, p. 8, row 17; `ORC-JMALPS3X4M` |  |
+| Phase composition |  | 1073 | Phase 1; _Phase 1: Al 0.1494, Co 0.053, Fe 0.7976_ | experimental | [2] Wang 2022 | Table 4, p. 8, row 15; `ORC-PRV4W3ZITF` |  |
+| Phase composition |  | 1073 | Phase 1; _Phase 1: Al 0.0491, Co 0.5058, Fe 0.4451_ | experimental | [2] Wang 2022 | Table 4, p. 8, row 13; `ORC-QANNKXXE5K` |  |
+| Phase composition |  | 1073 | Phase 1; _Phase 1: Al 0.2516, Co 0.5243, Fe 0.224_ | experimental | [2] Wang 2022 | Table 4, p. 8, row 11; `ORC-SHVP4QTYEI` |  |
+| Phase composition |  | 1073 | Phase 1; _Phase 1: Al 0.2568, Co 0.5188, Fe 0.2245_ | experimental | [2] Wang 2022 | Table 4, p. 8, row 9; `ORC-TAXU6JHYK4` |  |
+| Phase composition |  | 1073 | Phase 1; _Phase 1: Al 0.2901, Co 0.5607, Fe 0.1492_ | experimental | [2] Wang 2022 | Table 4, p. 8, row 8; `ORC-VKUZTMSEVO` |  |
+| Phase composition |  | 1073 | Phase 1; _Phase 1: Al 0.1863, Co 0.1083, Fe 0.7054_ | experimental | [2] Wang 2022 | Table 4, p. 8, row 16; `ORC-WXDMRTWF4S` |  |
+| Phase composition |  | 1073 | Phase 1 + Phase 2; _Phase 1: Al 0.0515, Co 0.8457, Fe 0.1028; Phase 2: Al 0.2924, Co 0.5953, Fe 0.1123_ | experimental | [2] Wang 2022 | Table 4, p. 8, row 3; `ORC-655X47SXD4` |  |
+| Phase composition |  | 1073 | Phase 1 + Phase 2; _Phase 1: Al 0.0458, Co 0.7797, Fe 0.1745; Phase 2: Al 0.1711, Co 0.6061, Fe 0.2228_ | experimental | [2] Wang 2022 | Table 4, p. 8, row 1; `ORC-A5O2YA7YNP` |  |
+| Phase composition |  | 1073 | Phase 1 + Phase 2; _Phase 1: Al 0.1251, Co 0.6231, Fe 0.2519; Phase 2: Al 0.0495, Co 0.7602, Fe 0.1904_ | experimental | [2] Wang 2022 | Table 4, p. 8, row 4; `ORC-H2OMH37UCE` |  |
+| Phase composition |  | 1073 | Phase 1 + Phase 2; _Phase 1: Al 0.0633, Co 0.7694, Fe 0.1673; Phase 2: Al 0.1887, Co 0.6047, Fe 0.2066_ | experimental | [2] Wang 2022 | Table 4, p. 8, row 2; `ORC-WFJWYLGZPV` |  |
+| Phase composition |  | 1073 | Phase 1 + Phase 2; _Phase 1: Al 0.0495, Co 0.7984, Fe 0.1522; Phase 2: Al 0.2504, Co 0.5913, Fe 0.1583_ | experimental | [2] Wang 2022 | Table 4, p. 8, row 5; `ORC-WKYCOM4HZ3` |  |
+| Phase composition |  | 1273 | Phase 1 + Phase 2; _Phase 1: Al 0.5077, Co 0.0335, Fe 0.4588; Phase 2: Al 0.6356, Co 0.0143, Fe 0.3501_ | experimental | [2] Wang 2022 | Table 3, p. 7, row 1; `ORC-RJAOA7D5PU` |  |
+| Phase composition |  | 1273 | Phase 1 + Phase 2; _Phase 1: Al 0.5082, Co 0.065, Fe 0.4268; Phase 2: Al 0.6389, Co 0.0282, Fe 0.3329_ | experimental | [2] Wang 2022 | Table 3, p. 7, row 2; `ORC-ZNAOUO7OKG` |  |
+| Phase composition |  | 1273 | Phase 1 + Phase 2 + Phase 3; _Phase 1: Al 0.511, Co 0.1564, Fe 0.3326; Phase 2: Al 0.6502, Co 0.0681, Fe 0.2816; Phase 3: Al 0.6895, Co 0.0956, Fe 0.215_ | experimental | [2] Wang 2022 | Table 3, p. 7, row 3; `ORC-ZZTY7C2BSY` |  |
+| Phase composition |  | 1273 | Phase 1 + Phase 3; _Phase 1: Al 0.5041, Co 0.3676, Fe 0.1283; Phase 3: Al 0.6976, Co 0.1923, Fe 0.1101_ | experimental | [2] Wang 2022 | Table 3, p. 7, row 5; `ORC-IRGYC72C2N` |  |
+| Phase composition |  | 1273 | Phase 1 + Phase 3; _Phase 1: Al 0.5098, Co 0.2577, Fe 0.2326; Phase 3: Al 0.6938, Co 0.1398, Fe 0.1665_ | experimental | [2] Wang 2022 | Table 3, p. 7, row 4; `ORC-SR6VDHXT6Q` |  |
+| Phase composition |  | 1273 | Phase 1 + Phase 3; _Phase 1: Al 0.5017, Co 0.4599, Fe 0.0384; Phase 3: Al 0.7006, Co 0.2543, Fe 0.0451_ | experimental | [2] Wang 2022 | Table 3, p. 7, row 6; `ORC-YCVACCWYOQ` |  |
+| Phase composition |  | 1343 | Phase 1; _Phase 1: Al 0.5214, Co 0.1527, Fe 0.3259_ | experimental | [2] Wang 2022 | Table 3, p. 7, row 9; `ORC-N4UGHHI6VB` |  |
+| Phase composition |  | 1343 | Phase 1; _Phase 1: Al 0.5121, Co 0.4503, Fe 0.0376_ | experimental | [2] Wang 2022 | Table 3, p. 7, row 12; `ORC-V3VEDXWKGK` |  |
+| Phase composition |  | 1343 | Phase 1 + Phase 2; _Phase 1: Al 0.5115, Co 0.0681, Fe 0.4203; Phase 2: Al 0.6436, Co 0.0323, Fe 0.3242_ | experimental | [2] Wang 2022 | Table 3, p. 7, row 8; `ORC-HSVCNFJJ6M` |  |
+| Phase composition |  | 1343 | Phase 1 + Phase 2; _Phase 1: Al 0.5097, Co 0.0374, Fe 0.4529; Phase 2: Al 0.6384, Co 0.0182, Fe 0.3434_ | experimental | [2] Wang 2022 | Table 3, p. 7, row 7; `ORC-LOPDZKKFLR` |  |
+| Phase composition |  | 1343 | Phase 1 + Phase 3; _Phase 1: Al 0.5244, Co 0.3372, Fe 0.1384; Phase 3: Al 0.7, Co 0.1884, Fe 0.1116_ | experimental | [2] Wang 2022 | Table 3, p. 7, row 11; `ORC-7M3MOTPC7T` |  |
+| Phase composition |  | 1343 | Phase 1 + Phase 3; _Phase 1: Al 0.5257, Co 0.2443, Fe 0.23; Phase 3: Al 0.6944, Co 0.1417, Fe 0.1639_ | experimental | [2] Wang 2022 | Table 3, p. 7, row 10; `ORC-JN73UILVEQ` |  |
 
 ## Sources
 
@@ -144,4 +144,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

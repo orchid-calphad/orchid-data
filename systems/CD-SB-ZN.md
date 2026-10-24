@@ -27,17 +27,17 @@ Table: Invariant reactions reported in the literature for the Cd–Sb–Zn syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 803.44 | quasi-peritectic: L + δ'-Sb3Zn4 -> ω-SbZn + ξ-Sb2Zn3 | L: Sb 0.448, Zn 0.485; ω: Sb 0.503, Zn 0.492 | model | [1] Liu 2009 | Table 8, p. 11, row 1 |  |
-| 801.72 | peritectic: L + ω-SbZn + ξ-Sb2Zn3 -> ε-Sb3Zn4 | L: Sb 0.445, Zn 0.484; ω: Sb 0.503, Zn 0.491; ε: Sb 0.433, Zn 0.553 | model | [1] Liu 2009 | Table 8, p. 11, row 2 |  |
-| 766.02 | quasi-peritectic: L + γ = β + η | L: Sb 0.38, Zn 0.487 | model | [2] Zabdyr 1997 | Table 2, p. 3, row 1 |  |
-| 766.02 | quasi-peritectic: L + γ = β + ω | L: Sb 0.412, Zn 0.45; ω: Sb 0.5, Zn 0.449 | model | [2] Zabdyr 1997 | Table 2, p. 3, row 2 |  |
-| 728.64 | quasi-peritectic: L + ξ-Sb2Zn3 -> ε-Sb3Zn4 + η-Sb2Zn3 | L: Sb 0.096, Zn 0.852; ε: Sb 0.43, Zn 0.554 | model | [1] Liu 2009 | Table 8, p. 11, row 3 |  |
-| 719.86 | quasi-peritectic: L + η = β + ζ | L: Sb 0.288, Zn 0.545 | model | [2] Zabdyr 1997 | Table 2, p. 3, row 3 |  |
-| 676.47 | quasi-peritectic: L + ζ = β + (Zn) | L: Sb 0.021, Zn 0.961; (Zn): Sb 0.0013, Zn 0.997 | model | [2] Zabdyr 1997 | Table 2, p. 3, row 4 |  |
-| 564.77 | eutectic: L -> ε-Sb3Zn4 + (Cd) + ω-SbZn | L: Sb 0.049, Zn 0.05; (Cd): Sb 0.003, Zn 0.011; ω: Sb 0.5, Zn 0.265; ε: Sb 0.429, Zn 0.412 | model | [1] Liu 2009 | Table 8, p. 11, row 5 |  |
-| 551 | quasi-peritectic: L + β = ω + (Zn) | L: Sb 0.012, Zn 0.333; ω: Sb 0.5, Zn 0.364; (Zn): Sb 3.000e-4, Zn 0.987 | model | [2] Zabdyr 1997 | Table 2, p. 3, row 5 |  |
-| 536.2 | eutectic: L = ω + (Cd) + (Zn) | L: Sb 0.0072, Zn 0.257; ω: Sb 0.5, Zn 0.358; (Cd): Sb 3.000e-4, Zn 0.045; (Zn): Sb 2.000e-4, Zn 0.988 | model | [2] Zabdyr 1997 | Table 2, p. 3, row 6 |  |
-| 533.73 | eutectic: L -> ε-Sb3Zn4 + (Cd) + (Zn) | L: Sb 0.013, Zn 0.268; (Cd): Sb 0, Zn 0.041; (Zn): Sb 0, Zn 0.99; ε: Sb 0.429, Zn 0.4445 | model | [1] Liu 2009 | Table 8, p. 11, row 6 |  |
+| 803.44 | quasi-peritectic: L + δ'-Sb3Zn4 -> ω-SbZn + ξ-Sb2Zn3 | L: Sb 0.448, Zn 0.485; ω: Sb 0.503, Zn 0.492 | model | [1] Liu 2009 | Table 8, p. 11, row 1; `ORC-42QNGT6HY5` |  |
+| 801.72 | peritectic: L + ω-SbZn + ξ-Sb2Zn3 -> ε-Sb3Zn4 | L: Sb 0.445, Zn 0.484; ω: Sb 0.503, Zn 0.491; ε: Sb 0.433, Zn 0.553 | model | [1] Liu 2009 | Table 8, p. 11, row 2; `ORC-VWIYPFWG7U` |  |
+| 766.02 | quasi-peritectic: L + γ = β + η | L: Sb 0.38, Zn 0.487 | model | [2] Zabdyr 1997 | Table 2, p. 3, row 1; `ORC-I322WOPNWL` |  |
+| 766.02 | quasi-peritectic: L + γ = β + ω | L: Sb 0.412, Zn 0.45; ω: Sb 0.5, Zn 0.449 | model | [2] Zabdyr 1997 | Table 2, p. 3, row 2; `ORC-NRKBNQYMRJ` |  |
+| 728.64 | quasi-peritectic: L + ξ-Sb2Zn3 -> ε-Sb3Zn4 + η-Sb2Zn3 | L: Sb 0.096, Zn 0.852; ε: Sb 0.43, Zn 0.554 | model | [1] Liu 2009 | Table 8, p. 11, row 3; `ORC-PHF5GVRTMM` |  |
+| 719.86 | quasi-peritectic: L + η = β + ζ | L: Sb 0.288, Zn 0.545 | model | [2] Zabdyr 1997 | Table 2, p. 3, row 3; `ORC-UZQ7JDGYKU` |  |
+| 676.47 | quasi-peritectic: L + ζ = β + (Zn) | L: Sb 0.021, Zn 0.961; (Zn): Sb 0.0013, Zn 0.997 | model | [2] Zabdyr 1997 | Table 2, p. 3, row 4; `ORC-P5SS5LR3FO` |  |
+| 564.77 | eutectic: L -> ε-Sb3Zn4 + (Cd) + ω-SbZn | L: Sb 0.049, Zn 0.05; (Cd): Sb 0.003, Zn 0.011; ω: Sb 0.5, Zn 0.265; ε: Sb 0.429, Zn 0.412 | model | [1] Liu 2009 | Table 8, p. 11, row 5; `ORC-RYOG7ZDQFE` |  |
+| 551 | quasi-peritectic: L + β = ω + (Zn) | L: Sb 0.012, Zn 0.333; ω: Sb 0.5, Zn 0.364; (Zn): Sb 3.000e-4, Zn 0.987 | model | [2] Zabdyr 1997 | Table 2, p. 3, row 5; `ORC-CRQ4VNHCGB` |  |
+| 536.2 | eutectic: L = ω + (Cd) + (Zn) | L: Sb 0.0072, Zn 0.257; ω: Sb 0.5, Zn 0.358; (Cd): Sb 3.000e-4, Zn 0.045; (Zn): Sb 2.000e-4, Zn 0.988 | model | [2] Zabdyr 1997 | Table 2, p. 3, row 6; `ORC-OHEQDSZKBJ` |  |
+| 533.73 | eutectic: L -> ε-Sb3Zn4 + (Cd) + (Zn) | L: Sb 0.013, Zn 0.268; (Cd): Sb 0, Zn 0.041; (Zn): Sb 0, Zn 0.99; ε: Sb 0.429, Zn 0.4445 | model | [1] Liu 2009 | Table 8, p. 11, row 6; `ORC-UHVOMU23IY` |  |
 
 ## Other properties
 
@@ -47,12 +47,12 @@ Table: Crystal structure, Cd–Sb–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 2.9788 Å | 594.3 (\<) | (Cd); _(Cd): Zn 0.0452_ | model | [1] Liu 2009 | Table 1, p. 2, row 2 |  |
-| Lattice a | 2.665 Å | 692.2 (\<) | (Zn); _(Zn): Cd 0.0147_ | model | [1] Liu 2009 | Table 1, p. 2, row 10 |  |
-| Lattice b | 7.7408 Å ± 1.000e-4 | 298.15 | ω-SbZn; _ω-SbZn: Cd 0.004, Sb 0.495, Zn 0.501_ | model | [1] Liu 2009 | Table 1, p. 2, row 11 |  |
-| Lattice c | 8.0977 Å ± 1.000e-4 | 298.15 | ω-SbZn; _ω-SbZn: Cd 0.004, Sb 0.495, Zn 0.501_ | model | [1] Liu 2009 | Table 1, p. 2, row 11 |  |
-| Lattice c | 5.6167 Å | 594.3 (\<) | (Cd); _(Cd): Zn 0.0452_ | model | [1] Liu 2009 | Table 1, p. 2, row 2 |  |
-| Lattice c | 4.947 Å | 692.2 (\<) | (Zn); _(Zn): Cd 0.0147_ | model | [1] Liu 2009 | Table 1, p. 2, row 10 |  |
+| Lattice a | 2.9788 Å | 594.3 (\<) | (Cd); _(Cd): Zn 0.0452_ | model | [1] Liu 2009 | Table 1, p. 2, row 2; `ORC-X2ZYV5VPTH.4f690e` |  |
+| Lattice a | 2.665 Å | 692.2 (\<) | (Zn); _(Zn): Cd 0.0147_ | model | [1] Liu 2009 | Table 1, p. 2, row 10; `ORC-MD2U3JIZ2R.2996a9` |  |
+| Lattice b | 7.7408 Å ± 1.000e-4 | 298.15 | ω-SbZn; _ω-SbZn: Cd 0.004, Sb 0.495, Zn 0.501_ | model | [1] Liu 2009 | Table 1, p. 2, row 11; `ORC-QB2HAZ7DYA.3b2a14` |  |
+| Lattice c | 8.0977 Å ± 1.000e-4 | 298.15 | ω-SbZn; _ω-SbZn: Cd 0.004, Sb 0.495, Zn 0.501_ | model | [1] Liu 2009 | Table 1, p. 2, row 11; `ORC-QB2HAZ7DYA.74560c` |  |
+| Lattice c | 5.6167 Å | 594.3 (\<) | (Cd); _(Cd): Zn 0.0452_ | model | [1] Liu 2009 | Table 1, p. 2, row 2; `ORC-X2ZYV5VPTH.033957` |  |
+| Lattice c | 4.947 Å | 692.2 (\<) | (Zn); _(Zn): Cd 0.0147_ | model | [1] Liu 2009 | Table 1, p. 2, row 10; `ORC-MD2U3JIZ2R.7f9923` |  |
 
 ## Sources
 
@@ -96,4 +96,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

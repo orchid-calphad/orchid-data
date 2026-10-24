@@ -28,8 +28,8 @@ Table: Invariant reactions reported in the literature for the Ge–Nb–Si syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2194.15 | Liquid -> Nbss + Nb5(Ge,Si)3 + Nb3Ge | Liquid: Ge 0.123, Nb 0.8, Si 0.077 | unspecified | [1] Utton 2017 | Table 4, p. 12, row 1 |  |
-| 2180.15 | Liquid -> Nbss + Nb5(Ge,Si)3 + Nb3Si | Liquid: Ge 0.05, Nb 0.809, Si 0.141 | unspecified | [1] Utton 2017 | Table 4, p. 12, row 2 |  |
+| 2194.15 | Liquid -> Nbss + Nb5(Ge,Si)3 + Nb3Ge | Liquid: Ge 0.123, Nb 0.8, Si 0.077 | unspecified | [1] Utton 2017 | Table 4, p. 12, row 1; `ORC-MBMI2IBFVK` |  |
+| 2180.15 | Liquid -> Nbss + Nb5(Ge,Si)3 + Nb3Si | Liquid: Ge 0.05, Nb 0.809, Si 0.141 | unspecified | [1] Utton 2017 | Table 4, p. 12, row 2; `ORC-FJ3LIBDOWX` |  |
 
 ## Other properties
 
@@ -39,7 +39,7 @@ Table: Phase equilibrium, Ge–Nb–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase assemblage |  | 1473.15 | Nb5(Ge,Si)3; _alloy: Nb 0.6_ | model | [1] Utton 2017 | p. 13 | “At 1200 C where Nb is 60 at. % and Ge þ Si 1⁄4 40 at. %, it is predicted that only 3.4 at. % Ge is needed to form Nb5(Ge,Si)3.” |
+| Phase assemblage |  | 1473.15 | Nb5(Ge,Si)3; _alloy: Nb 0.6_ | model | [1] Utton 2017 | p. 13; `ORC-6C7MBC5TYS` | “At 1200 C where Nb is 60 at. % and Ge þ Si 1⁄4 40 at. %, it is predicted that only 3.4 at. % Ge is needed to form Nb5(Ge,Si)3.” |
 
 ## Sources
 
@@ -82,4 +82,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

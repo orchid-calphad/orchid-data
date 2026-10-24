@@ -28,15 +28,15 @@ Table: Enthalpies of formation, Ce–Gd–La–Mg–Nd–Pr–Sm system (9)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| R5Mg41 |  | -18.1 kJ/mol-atom | 298.15 | experimental |  |  | [1] Hampl 2013; _cites ref. 1972Pah_ | Table 6, p. 10, row 7 |  |
-| RMg |  | -27.2 kJ/mol-atom | 298.15 | experimental |  |  | [1] Hampl 2013; _cites ref. 1924Bil_ | Table 6, p. 10, row 5 |  |
-| RMg |  | -13.1 kJ/mol-atom | 298.15 | experimental |  |  | [1] Hampl 2013; _cites ref. 1972Pah_ | Table 6, p. 10, row 7 |  |
-| RMg |  | -8 kJ/mol-atom | 298.15 | experimental |  |  | [1] Hampl 2013; _cites ref. 1967Ogr_ | Table 6, p. 10, row 6 |  |
-| RMg12 |  | -14.1 kJ/mol-atom | 298.15 | experimental |  |  | [1] Hampl 2013; _cites ref. 1972Pah_ | Table 6, p. 10, row 7 |  |
-| RMg2 |  | -11.4 kJ/mol-atom | 298.15 | experimental |  |  | [1] Hampl 2013; _cites ref. 1972Pah_ | Table 6, p. 10, row 7 |  |
-| RMg3 |  | -18.9 kJ/mol-atom | 298.15 | experimental |  |  | [1] Hampl 2013; _cites ref. 1972Pah_ | Table 6, p. 10, row 7 |  |
-| RMg3 |  | -17.8 kJ/mol-atom | 298.15 | experimental |  |  | [1] Hampl 2013; _cites ref. 1924Bil_ | Table 6, p. 10, row 5 |  |
-| RMg3 |  | -14.9 kJ/mol-atom | 298.15 | experimental |  |  | [1] Hampl 2013; _cites ref. 1988Nag_ | Table 6, p. 10, row 8 |  |
+| R5Mg41 |  | -18.1 kJ/mol-atom | 298.15 | experimental |  |  | [1] Hampl 2013; _cites ref. 1972Pah_ | Table 6, p. 10, row 7; `ORC-UHFV266GQQ.6e11a3` |  |
+| RMg |  | -27.2 kJ/mol-atom | 298.15 | experimental |  |  | [1] Hampl 2013; _cites ref. 1924Bil_ | Table 6, p. 10, row 5; `ORC-WWELITVPR3.268889` |  |
+| RMg |  | -13.1 kJ/mol-atom | 298.15 | experimental |  |  | [1] Hampl 2013; _cites ref. 1972Pah_ | Table 6, p. 10, row 7; `ORC-UHFV266GQQ.8ec8b1` |  |
+| RMg |  | -8 kJ/mol-atom | 298.15 | experimental |  |  | [1] Hampl 2013; _cites ref. 1967Ogr_ | Table 6, p. 10, row 6; `ORC-JCB6V7LXAA.266355` |  |
+| RMg12 |  | -14.1 kJ/mol-atom | 298.15 | experimental |  |  | [1] Hampl 2013; _cites ref. 1972Pah_ | Table 6, p. 10, row 7; `ORC-UHFV266GQQ.55ae35` |  |
+| RMg2 |  | -11.4 kJ/mol-atom | 298.15 | experimental |  |  | [1] Hampl 2013; _cites ref. 1972Pah_ | Table 6, p. 10, row 7; `ORC-UHFV266GQQ.f506ca` |  |
+| RMg3 |  | -18.9 kJ/mol-atom | 298.15 | experimental |  |  | [1] Hampl 2013; _cites ref. 1972Pah_ | Table 6, p. 10, row 7; `ORC-UHFV266GQQ.f5252e` |  |
+| RMg3 |  | -17.8 kJ/mol-atom | 298.15 | experimental |  |  | [1] Hampl 2013; _cites ref. 1924Bil_ | Table 6, p. 10, row 5; `ORC-WWELITVPR3.991b6d` |  |
+| RMg3 |  | -14.9 kJ/mol-atom | 298.15 | experimental |  |  | [1] Hampl 2013; _cites ref. 1988Nag_ | Table 6, p. 10, row 8; `ORC-TSHKJXNT3Q.8b50fb` |  |
 
 ## Sources
 
@@ -79,4 +79,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

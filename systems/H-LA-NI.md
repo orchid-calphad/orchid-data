@@ -34,22 +34,22 @@ Table: Enthalpies of formation, H–La–Ni system (16)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| LaHx |  | -63.7 kJ/mol-atom | 917 | experimental |  |  | [1] Palumbo 2009; _cites Dantzer 1980_ [doi](https://doi.org/10.1016/0022-4596%2880%2990460-0) | Table 1, p. 2, row 2 |  |
-| LaHx |  | -63.6 kJ/mol-atom | 917 | model |  |  | [1] Palumbo 2009 | Table 1, p. 2, row 1 |  |
-| LaNi5Hx |  | -21 kJ/mol-atom | 298.15 | DFT |  |  | [1] Palumbo 2009; _cites Hector 2003_ [doi](https://doi.org/10.1016/s0925-8388%2802%2901324-5) | Table 1, p. 2, row 20 |  |
-| LaNi5Hx |  | -20.1 kJ/mol-atom | 223.5 | model |  |  | [1] Palumbo 2009; _cites Ohlendorf 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990339-2) | Table 1, p. 2, row 10 |  |
-| LaNi5Hx |  | -20 kJ/mol-atom | 285 | experimental |  |  | [1] Palumbo 2009; _cites Murray 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990093-x) | Table 1, p. 2, row 18 |  |
-| LaNi5Hx |  | -19.9 kJ/mol-atom | 320.5 | model |  |  | [1] Palumbo 2009 | Table 1, p. 2, row 11 |  |
-| LaNi5Hx |  | -19.7 kJ/mol-atom | 298.15 | experimental |  |  | [1] Palumbo 2009; _cites Hubbard 1980_ | Table 1, p. 2, row 19 |  |
-| LaNi5Hx |  | -19.6 kJ/mol-atom | 296.5 | experimental |  |  | [1] Palumbo 2009; _cites Biris 2009_ | Table 1, p. 2, row 13 |  |
-| LaNi5Hx |  | -19.6 kJ/mol-atom | 273.15 | experimental |  |  | [1] Palumbo 2009; _cites Ohlendorf 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990339-2) | Table 1, p. 2, row 15 |  |
-| LaNi5Hx |  | -19.4 kJ/mol-atom | 298.15 | experimental |  |  | [1] Palumbo 2009; _cites Ohlendorf 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990339-2) | Table 1, p. 2, row 14 |  |
-| LaNi5Hx |  | -19.3 kJ/mol-atom | 296 | experimental |  |  | [1] Palumbo 2009; _cites Pedziwiatr 1983_ [doi](https://doi.org/10.1016/0022-4596%2883%2990158-5) | Table 1, p. 2, row 17 |  |
-| LaNi5Hx |  | -19.2 kJ/mol-atom | 298.15 | experimental |  |  | [1] Palumbo 2009; _cites Bowerman 1979_ [doi](https://doi.org/10.1524/zpch.1979.116.116.197) | Table 1, p. 2, row 7 |  |
-| LaNi5Hx |  | -19.1 kJ/mol-atom | 195 | experimental |  |  | [1] Palumbo 2009; _cites Ohlendorf 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990339-2) | Table 1, p. 2, row 16 |  |
-| LaNi5Hx |  | -19 kJ/mol-atom | 324 | experimental |  |  | [1] Palumbo 2009; _cites J 1970_ | Table 1, p. 2, row 9 |  |
-| LaNi5Hx |  | -18.8 kJ/mol-atom | 363 | experimental |  |  | [1] Palumbo 2009; _cites H 1976_ | Table 1, p. 2, row 8 |  |
-| LaNi5Hx |  | -18.8 kJ/mol-atom | 320.5 | experimental |  |  | [1] Palumbo 2009; _cites Anderson 1973_ | Table 1, p. 2, row 12 |  |
+| LaHx |  | -63.7 kJ/mol-atom | 917 | experimental |  |  | [1] Palumbo 2009; _cites Dantzer 1980_ [doi](https://doi.org/10.1016/0022-4596%2880%2990460-0) | Table 1, p. 2, row 2; `ORC-FA7TKQINZH.cfffcb` |  |
+| LaHx |  | -63.6 kJ/mol-atom | 917 | model |  |  | [1] Palumbo 2009 | Table 1, p. 2, row 1; `ORC-4DQ257INVD.469618` |  |
+| LaNi5Hx |  | -21 kJ/mol-atom | 298.15 | DFT |  |  | [1] Palumbo 2009; _cites Hector 2003_ [doi](https://doi.org/10.1016/s0925-8388%2802%2901324-5) | Table 1, p. 2, row 20; `ORC-YK2HTRFWHQ.c457ce` |  |
+| LaNi5Hx |  | -20.1 kJ/mol-atom | 223.5 | model |  |  | [1] Palumbo 2009; _cites Ohlendorf 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990339-2) | Table 1, p. 2, row 10; `ORC-WX4FYXW73S.053661` |  |
+| LaNi5Hx |  | -20 kJ/mol-atom | 285 | experimental |  |  | [1] Palumbo 2009; _cites Murray 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990093-x) | Table 1, p. 2, row 18; `ORC-CTW3FJLLWT.2963bf` |  |
+| LaNi5Hx |  | -19.9 kJ/mol-atom | 320.5 | model |  |  | [1] Palumbo 2009 | Table 1, p. 2, row 11; `ORC-Q2OTG3AERZ.d2deaf` |  |
+| LaNi5Hx |  | -19.7 kJ/mol-atom | 298.15 | experimental |  |  | [1] Palumbo 2009; _cites Hubbard 1980_ | Table 1, p. 2, row 19; `ORC-DBA3SFB3DP.b7a4cd` |  |
+| LaNi5Hx |  | -19.6 kJ/mol-atom | 296.5 | experimental |  |  | [1] Palumbo 2009; _cites Biris 2009_ | Table 1, p. 2, row 13; `ORC-LYT4UMHIWR.f5a83b` |  |
+| LaNi5Hx |  | -19.6 kJ/mol-atom | 273.15 | experimental |  |  | [1] Palumbo 2009; _cites Ohlendorf 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990339-2) | Table 1, p. 2, row 15; `ORC-WTKDHIUCPR.6e7989` |  |
+| LaNi5Hx |  | -19.4 kJ/mol-atom | 298.15 | experimental |  |  | [1] Palumbo 2009; _cites Ohlendorf 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990339-2) | Table 1, p. 2, row 14; `ORC-TKY4CFSFMA.e5ca77` |  |
+| LaNi5Hx |  | -19.3 kJ/mol-atom | 296 | experimental |  |  | [1] Palumbo 2009; _cites Pedziwiatr 1983_ [doi](https://doi.org/10.1016/0022-4596%2883%2990158-5) | Table 1, p. 2, row 17; `ORC-ZVV65OJWFZ.a4c65a` |  |
+| LaNi5Hx |  | -19.2 kJ/mol-atom | 298.15 | experimental |  |  | [1] Palumbo 2009; _cites Bowerman 1979_ [doi](https://doi.org/10.1524/zpch.1979.116.116.197) | Table 1, p. 2, row 7; `ORC-FTCEPKQCSG.c34357` |  |
+| LaNi5Hx |  | -19.1 kJ/mol-atom | 195 | experimental |  |  | [1] Palumbo 2009; _cites Ohlendorf 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990339-2) | Table 1, p. 2, row 16; `ORC-3XODHVZRDP.444317` |  |
+| LaNi5Hx |  | -19 kJ/mol-atom | 324 | experimental |  |  | [1] Palumbo 2009; _cites J 1970_ | Table 1, p. 2, row 9; `ORC-6QJPH4UGHG.831373` |  |
+| LaNi5Hx |  | -18.8 kJ/mol-atom | 363 | experimental |  |  | [1] Palumbo 2009; _cites H 1976_ | Table 1, p. 2, row 8; `ORC-2IMBHWVO7H.772af2` |  |
+| LaNi5Hx |  | -18.8 kJ/mol-atom | 320.5 | experimental |  |  | [1] Palumbo 2009; _cites Anderson 1973_ | Table 1, p. 2, row 12; `ORC-FSIWRNZD3C.8f2f31` |  |
 
 ## Other properties
 
@@ -59,8 +59,8 @@ Table: Phase transition, H–La–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 347 K | 347 | other | model | [2] An 2013 | p. 8 | “LaNi5H7 decomposed into LaNi5 and H2 at 347 and 379 K under 1 and 3 MPa, respectively.” |
-| Phase transition | 379 K | 379 | other | model | [2] An 2013 | p. 8 | “LaNi5H7 decomposed into LaNi5 and H2 at 347 and 379 K under 1 and 3 MPa, respectively.” |
+| Phase transition | 347 K | 347 | other | model | [2] An 2013 | p. 8; `ORC-A3USRJ2WGF.35f434` | “LaNi5H7 decomposed into LaNi5 and H2 at 347 and 379 K under 1 and 3 MPa, respectively.” |
+| Phase transition | 379 K | 379 | other | model | [2] An 2013 | p. 8; `ORC-A3USRJ2WGF.c176b7` | “LaNi5H7 decomposed into LaNi5 and H2 at 347 and 379 K under 1 and 3 MPa, respectively.” |
 
 ### Heat capacity / entropy / enthalpy (4)
 
@@ -68,10 +68,10 @@ Table: Heat capacity / entropy / enthalpy, H–La–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: Entropy of formation_ | 45 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: La 0.333333, Ni 0_ | experimental | [1] Palumbo 2009; _cites Bieganski 1971_ | Table 1, p. 2, row 4 |  |
-| Entropy; _printed: Entropy of formation_ | 44.1 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: La 0.333333, Ni 0_ | model | [1] Palumbo 2009 | Table 1, p. 2, row 3 |  |
-| Entropy; _printed: Entropy of formation_ | 49.3 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: La 0.25, Ni 0_ | experimental | [1] Palumbo 2009; _cites Ito 1983_ [doi](https://doi.org/10.1103/physrevb.27.2830) | Table 1, p. 2, row 6 |  |
-| Entropy; _printed: Entropy of formation_ | 49.3 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: La 0.25, Ni 0_ | model | [1] Palumbo 2009 | Table 1, p. 2, row 5 |  |
+| Entropy; _printed: Entropy of formation_ | 45 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: La 0.333333, Ni 0_ | experimental | [1] Palumbo 2009; _cites Bieganski 1971_ | Table 1, p. 2, row 4; `ORC-7I5G2TFZFJ.67b5ad` |  |
+| Entropy; _printed: Entropy of formation_ | 44.1 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: La 0.333333, Ni 0_ | model | [1] Palumbo 2009 | Table 1, p. 2, row 3; `ORC-WRJGTS357I.de6aef` |  |
+| Entropy; _printed: Entropy of formation_ | 49.3 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: La 0.25, Ni 0_ | experimental | [1] Palumbo 2009; _cites Ito 1983_ [doi](https://doi.org/10.1103/physrevb.27.2830) | Table 1, p. 2, row 6; `ORC-XZPL4NP7EK.48f74c` |  |
+| Entropy; _printed: Entropy of formation_ | 49.3 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: La 0.25, Ni 0_ | model | [1] Palumbo 2009 | Table 1, p. 2, row 5; `ORC-Y35WWA7QIC.ff90ca` |  |
 
 ### Crystal structure (1)
 
@@ -79,7 +79,7 @@ Table: Crystal structure, H–La–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 5.409 Å | 298.15 | LaNi5H7; _alloy: La 0.076923, Ni 0.384615_ | unspecified | [2] An 2013 | Table 3, p. 5, row 16 |  |
+| Lattice a | 5.409 Å | 298.15 | LaNi5H7; _alloy: La 0.076923, Ni 0.384615_ | unspecified | [2] An 2013 | Table 3, p. 5, row 16; `ORC-T5VP3EWGU5.4e0748` |  |
 
 ## Sources
 
@@ -123,4 +123,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -27,20 +27,20 @@ Table: Invariant reactions reported in the literature for the Bi–In–Pb syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 352.15 | eutectic: Liq. -> (Pb)+InBi | Liq.: Bi 0.41, Pb 0.18 | experimental | [1] Boa 1998; _cites Bushmanov 1988_ | Table 7, p. 8, row 2 |  |
-| 349.15 | eutectic: Liq. -> (Pb)+InBi | Liq.: Bi 0.395, Pb 0.166 | experimental | [1] Boa 1998; _cites Stel'makh 1974_ | Table 7, p. 8, row 1 |  |
-| 348.62 | peritectic: Liq.+hcp-A3 -> BiIn+(Pb) | Liq.: Bi 0.445, Pb 0.219 | model | [1] Boa 1998 | Table 7, p. 8, row 12 |  |
-| 347.15 | peritectic: Liq.+BiIn -> Bi3In5+(Pb) |  | experimental | [1] Boa 1998; _cites Il'ves 1992_ | Table 7, p. 8, row 13 |  |
-| 347 | eutectic: Liq. -> (Pb)+InBi |  | model | [1] Boa 1998 | Table 7, p. 8, row 3 |  |
-| 346.15 | peritectic: Liq.+hcp-A3 -> BiIn+(Pb) | Liq.: Bi 0.438, Pb 0.241 | experimental | [1] Boa 1998; _cites Stel'makh 1974_ | Table 7, p. 8, row 11 |  |
-| 346.02 | eutectic: Liq. -> (Bi)+hcp-A3+BiIn | Liq.: Bi 0.491, Pb 0.24 | model | [1] Boa 1998 | Table 7, p. 8, row 8 |  |
-| 346 | eutectic: Liq. -> (Pb)+BiIn2 | Liq.: Bi 0.293, Pb 0.12 | experimental | [1] Boa 1998; _cites Il'ves 1992_ | Table 7, p. 8, row 4 |  |
-| 343.15 | eutectic: Liq. -> (Bi)+hcp-A3+BiIn | Liq.: Bi 0.515, Pb 0.18 | experimental | [1] Boa 1998; _cites Bushmanov 1988_ | Table 7, p. 8, row 6 |  |
-| 343.15 | eutectic: Liq. -> (Bi)+hcp-A3+BiIn | Liq.: Bi 0.483, Pb 0.208 | experimental | [1] Boa 1998; _cites Stel'makh 1974_ | Table 7, p. 8, row 7 |  |
-| 343.15 | eutectic: Liq. -> (Pb)+BiIn2+Bi3In5 |  | experimental | [1] Boa 1998; _cites Il'ves 1992_ | Table 7, p. 8, row 9 |  |
-| 342.22 | eutectic: Liq. -> (Pb)+BiIn2 | Liq.: Bi 0.301, Pb 0.096 | model | [1] Boa 1998 | Table 7, p. 8, row 5 |  |
-| 342.04 | peritectic: Liq.+BiIn -> Bi3In5+(Pb) | Liq.: Bi 0.333, Pb 0.11 | model | [1] Boa 1998 | Table 7, p. 8, row 14 |  |
-| 341.82 | eutectic: Liq. -> (Pb)+BiIn2+Bi3In5 | Liq.: Bi 0.32, Pb 0.103 | model | [1] Boa 1998 | Table 7, p. 8, row 10 |  |
+| 352.15 | eutectic: Liq. -> (Pb)+InBi | Liq.: Bi 0.41, Pb 0.18 | experimental | [1] Boa 1998; _cites Bushmanov 1988_ | Table 7, p. 8, row 2; `ORC-CLCEXQ3KNK` |  |
+| 349.15 | eutectic: Liq. -> (Pb)+InBi | Liq.: Bi 0.395, Pb 0.166 | experimental | [1] Boa 1998; _cites Stel'makh 1974_ | Table 7, p. 8, row 1; `ORC-NEMGTITFMP` |  |
+| 348.62 | peritectic: Liq.+hcp-A3 -> BiIn+(Pb) | Liq.: Bi 0.445, Pb 0.219 | model | [1] Boa 1998 | Table 7, p. 8, row 12; `ORC-2EPTRB7X7Z` |  |
+| 347.15 | peritectic: Liq.+BiIn -> Bi3In5+(Pb) |  | experimental | [1] Boa 1998; _cites Il'ves 1992_ | Table 7, p. 8, row 13; `ORC-AGTWZYHDDU` |  |
+| 347 | eutectic: Liq. -> (Pb)+InBi |  | model | [1] Boa 1998 | Table 7, p. 8, row 3; `ORC-VXST7PM5M3` |  |
+| 346.15 | peritectic: Liq.+hcp-A3 -> BiIn+(Pb) | Liq.: Bi 0.438, Pb 0.241 | experimental | [1] Boa 1998; _cites Stel'makh 1974_ | Table 7, p. 8, row 11; `ORC-UXUARDRJGS` |  |
+| 346.02 | eutectic: Liq. -> (Bi)+hcp-A3+BiIn | Liq.: Bi 0.491, Pb 0.24 | model | [1] Boa 1998 | Table 7, p. 8, row 8; `ORC-Y7QHEWP33P` |  |
+| 346 | eutectic: Liq. -> (Pb)+BiIn2 | Liq.: Bi 0.293, Pb 0.12 | experimental | [1] Boa 1998; _cites Il'ves 1992_ | Table 7, p. 8, row 4; `ORC-G26GPOWTRE` |  |
+| 343.15 | eutectic: Liq. -> (Bi)+hcp-A3+BiIn | Liq.: Bi 0.515, Pb 0.18 | experimental | [1] Boa 1998; _cites Bushmanov 1988_ | Table 7, p. 8, row 6; `ORC-3NBPEAEHKM` |  |
+| 343.15 | eutectic: Liq. -> (Bi)+hcp-A3+BiIn | Liq.: Bi 0.483, Pb 0.208 | experimental | [1] Boa 1998; _cites Stel'makh 1974_ | Table 7, p. 8, row 7; `ORC-NAXWOBER4X` |  |
+| 343.15 | eutectic: Liq. -> (Pb)+BiIn2+Bi3In5 |  | experimental | [1] Boa 1998; _cites Il'ves 1992_ | Table 7, p. 8, row 9; `ORC-ZSVN7OVK6B` |  |
+| 342.22 | eutectic: Liq. -> (Pb)+BiIn2 | Liq.: Bi 0.301, Pb 0.096 | model | [1] Boa 1998 | Table 7, p. 8, row 5; `ORC-NSFTQPYAOH` |  |
+| 342.04 | peritectic: Liq.+BiIn -> Bi3In5+(Pb) | Liq.: Bi 0.333, Pb 0.11 | model | [1] Boa 1998 | Table 7, p. 8, row 14; `ORC-HWFAOGLUK2` |  |
+| 341.82 | eutectic: Liq. -> (Pb)+BiIn2+Bi3In5 | Liq.: Bi 0.32, Pb 0.103 | model | [1] Boa 1998 | Table 7, p. 8, row 10; `ORC-B4PLK5YG6Z` |  |
 
 ## Sources
 
@@ -83,4 +83,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

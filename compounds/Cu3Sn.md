@@ -14,12 +14,12 @@ Table: Enthalpy of formation of Cu3Sn reported in the literature (6)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -8.368 kJ/mol-atom | ε (Cu3Sn) | 293 | experimental |  | [Cu–Sn](https://data.orchid-project.org/systems/CU-SN.html) | [1] Li 2013; _cites Biltz 1924_ [doi](https://doi.org/10.1002/zaac.19241340104) | Table 3, p. 8, row 5 |  |
-| -8.2 kJ/mol-atom | ε (Cu3Sn) | 298.15 | experimental |  | [Cu–Sn](https://data.orchid-project.org/systems/CU-SN.html) | [1] Li 2013; _cites Flandorfer 2007_ [doi](https://doi.org/10.1016/j.tca.2007.04.004) | Table 3, p. 8, row 9 |  |
-| -7.824 kJ/mol-atom | ε (Cu3Sn) | 273 | experimental |  | [Cu–Sn](https://data.orchid-project.org/systems/CU-SN.html) | [1] Li 2013; _cites Cohen 1954_ | Table 3, p. 8, row 6 |  |
-| -7.777 kJ/mol-atom | ε (Cu3Sn) | 723 | experimental |  | [Cu–Sn](https://data.orchid-project.org/systems/CU-SN.html) | [1] Li 2013; _cites Kleppa 1956_ [doi](https://doi.org/10.1021/j150541a003) | Table 3, p. 8, row 7 |  |
-| -7.531 kJ/mol-atom | ε (Cu3Sn) | 723 | experimental |  | [Cu–Sn](https://data.orchid-project.org/systems/CU-SN.html) | [1] Li 2013; _cites Hultgren 1973_ | Table 3, p. 8, row 8 |  |
-| -8.113 kJ/mol-atom | ε (Cu3Sn) | 723 | model |  | [Cu–Sn](https://data.orchid-project.org/systems/CU-SN.html) | [1] Li 2013 | Table 3, p. 8, row 10 |  |
+| -8.368 kJ/mol-atom | ε (Cu3Sn) | 293 | experimental |  | [Cu–Sn](https://data.orchid-project.org/systems/CU-SN.html) | [1] Li 2013; _cites Biltz 1924_ [doi](https://doi.org/10.1002/zaac.19241340104) | Table 3, p. 8, row 5; `ORC-MU5BC7WIKG` |  |
+| -8.2 kJ/mol-atom | ε (Cu3Sn) | 298.15 | experimental |  | [Cu–Sn](https://data.orchid-project.org/systems/CU-SN.html) | [1] Li 2013; _cites Flandorfer 2007_ [doi](https://doi.org/10.1016/j.tca.2007.04.004) | Table 3, p. 8, row 9; `ORC-H7SZMN4I55` |  |
+| -7.824 kJ/mol-atom | ε (Cu3Sn) | 273 | experimental |  | [Cu–Sn](https://data.orchid-project.org/systems/CU-SN.html) | [1] Li 2013; _cites Cohen 1954_ | Table 3, p. 8, row 6; `ORC-WGXLH6NIDN` |  |
+| -7.777 kJ/mol-atom | ε (Cu3Sn) | 723 | experimental |  | [Cu–Sn](https://data.orchid-project.org/systems/CU-SN.html) | [1] Li 2013; _cites Kleppa 1956_ [doi](https://doi.org/10.1021/j150541a003) | Table 3, p. 8, row 7; `ORC-W6EBAPUDE2` |  |
+| -7.531 kJ/mol-atom | ε (Cu3Sn) | 723 | experimental |  | [Cu–Sn](https://data.orchid-project.org/systems/CU-SN.html) | [1] Li 2013; _cites Hultgren 1973_ | Table 3, p. 8, row 8; `ORC-ICLIQQQEVE` |  |
+| -8.113 kJ/mol-atom | ε (Cu3Sn) | 723 | model |  | [Cu–Sn](https://data.orchid-project.org/systems/CU-SN.html) | [1] Li 2013 | Table 3, p. 8, row 10; `ORC-GJK3AQYWRW` |  |
 
 ### Uncertainty budget
 
@@ -100,4 +100,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

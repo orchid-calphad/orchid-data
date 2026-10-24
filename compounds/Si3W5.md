@@ -14,11 +14,11 @@ Table: Enthalpy of formation of Si3W5 reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -138 kJ/mol (basis unstated) | W5Si3 | 298.15 | experimental | Mass spectrometry | [Si–W](https://data.orchid-project.org/systems/SI-W.html) | [1] Li 2013; _cites Kematick 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990543-v) | Table 3, p. 3, row 4 |  |
-| -135 kJ/mol (basis unstated) | W5Si3 | 298.15 | experimental | Knudsen effusion | [Si–W](https://data.orchid-project.org/systems/SI-W.html) | [1] Li 2013; _cites Chart 1975_ [doi](https://doi.org/10.1179/030634575790445215) | Table 3, p. 3, row 3 |  |
-| -133 kJ/mol (basis unstated) ± 25 | W5Si3 | 298.15 | experimental | Electromotive force | [Si–W](https://data.orchid-project.org/systems/SI-W.html) | [1] Li 2013; _cites Fujiwara 2005_ [doi](https://doi.org/10.1016/j.jallcom.2004.08.100) | Table 3, p. 3, row 5 |  |
-| -145 kJ/mol (basis unstated) | W5Si3 |  | model | Calculated | [Si–W](https://data.orchid-project.org/systems/SI-W.html) | [1] Li 2013; _cites Vahlas 1989_ [doi](https://doi.org/10.1016/0364-5916%2889%2990007-2) | Table 3, p. 3, row 6 |  |
-| -136 kJ/mol (basis unstated) | W5Si3 |  | model | Calculated | [Si–W](https://data.orchid-project.org/systems/SI-W.html) | [1] Li 2013 | Table 3, p. 3, row 7 |  |
+| -138 kJ/mol (basis unstated) | W5Si3 | 298.15 | experimental | Mass spectrometry | [Si–W](https://data.orchid-project.org/systems/SI-W.html) | [1] Li 2013; _cites Kematick 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990543-v) | Table 3, p. 3, row 4; `ORC-DQ5XVEOSHV.1deca5` |  |
+| -135 kJ/mol (basis unstated) | W5Si3 | 298.15 | experimental | Knudsen effusion | [Si–W](https://data.orchid-project.org/systems/SI-W.html) | [1] Li 2013; _cites Chart 1975_ [doi](https://doi.org/10.1179/030634575790445215) | Table 3, p. 3, row 3; `ORC-CTLRIFXFZB.b797e3` |  |
+| -133 kJ/mol (basis unstated) ± 25 | W5Si3 | 298.15 | experimental | Electromotive force | [Si–W](https://data.orchid-project.org/systems/SI-W.html) | [1] Li 2013; _cites Fujiwara 2005_ [doi](https://doi.org/10.1016/j.jallcom.2004.08.100) | Table 3, p. 3, row 5; `ORC-YDVLH77WJQ.daa7cc` |  |
+| -145 kJ/mol (basis unstated) | W5Si3 |  | model | Calculated | [Si–W](https://data.orchid-project.org/systems/SI-W.html) | [1] Li 2013; _cites Vahlas 1989_ [doi](https://doi.org/10.1016/0364-5916%2889%2990007-2) | Table 3, p. 3, row 6; `ORC-X5ICZCNSTZ.aa694d` |  |
+| -136 kJ/mol (basis unstated) | W5Si3 |  | model | Calculated | [Si–W](https://data.orchid-project.org/systems/SI-W.html) | [1] Li 2013 | Table 3, p. 3, row 7; `ORC-W6VSKXK5WJ.727901` |  |
 
 ### Uncertainty budget
 
@@ -85,4 +85,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

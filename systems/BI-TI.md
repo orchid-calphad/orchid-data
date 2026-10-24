@@ -86,24 +86,24 @@ Table: Invariant reactions reported in the literature for the Bi–Ti system (18
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1616 | L + (βTi) = BiTi3 | BiTi3: Ti 0.75 | model | [1] Huang 2014 | Table 5, p. 5, row 2 |  |
-| 1613.15 | peritectic: liquid + (βTi) = BiTi3 |  | experimental | [2] Cao 2013; _cites Obinata 1960_ | p. 2 | “According to the work by Obinata et al. \[15\], an eutectoid reaction (βTi) = (αTi) + BiTi3 occurred at 725 °C ± 10 °C and 8.6 at.% Bi and a peritectic reaction liquid + (βTi) = BiTi3 occurred at 1340°C ± 20 °C.” |
-| 1613 | L + (βTi) = BiTi3 | BiTi3: Ti 0.75 | experimental | [1] Huang 2014; _cites Obinata 1960_ | Table 5, p. 5, row 1 |  |
-| 1433 | L + BiTi3 = BiTi2 | BiTi3: Ti 0.75; BiTi2: Ti 0.666667 | model | [1] Huang 2014 | Table 5, p. 5, row 6 |  |
-| 1247 | L + BiTi2 = Bi2Ti3 | BiTi2: Ti 0.666667; Bi2Ti3: Ti 0.6 | model | [1] Huang 2014 | Table 5, p. 5, row 8 |  |
-| 1243 | L + BiTi2 = Bi2Ti3 | BiTi2: Ti 0.666667; Bi2Ti3: Ti 0.6 | experimental | [1] Huang 2014; _cites Maruyama 2013_ [doi](https://doi.org/10.1007/s11669-013-0243-0) | Table 5, p. 5, row 7 |  |
-| 1203 | L + Bi2Ti3 = Bi9Ti8 | Bi2Ti3: Ti 0.6; Bi9Ti8: Ti 0.470588 | model | [1] Huang 2014 | Table 5, p. 5, row 10 |  |
-| 1203 | L + Bi2Ti3 = Bi9Ti8 | Bi2Ti3: Ti 0.6; Bi9Ti8: Ti 0.470588 | experimental | [1] Huang 2014; _cites Maruyama 2013_ [doi](https://doi.org/10.1007/s11669-013-0243-0) | Table 5, p. 5, row 9 |  |
-| 998.15 | eutectoid: (βTi) = (αTi) + Ti3Bi |  | experimental | [2] Cao 2013; _cites Obinata 1960_ | p. 3 | “The calculated eutectoid point of reaction (βTi) = (αTi) + Ti3Bi lies at 719.47 °C, 6.03 at.% Bi, while the experimental \[15\] one lies at 725 °C, 8.6 at.% Bi.” |
-| 998.15 | eutectoid: (βTi) = (αTi) + BiTi3 |  | experimental | [2] Cao 2013; _cites Obinata 1960_ | p. 2 | “According to the work by Obinata et al. \[15\], an eutectoid reaction (βTi) = (αTi) + BiTi3 occurred at 725 °C ± 10 °C and 8.6 at.% Bi and a peritectic reaction liquid + (βTi) = BiTi3 occurred at 1340°C ± 20 °C.” |
-| 998 | (βTi) = (αTi) + BiTi3 | BiTi3: Ti 0.75 | experimental | [1] Huang 2014; _cites Obinata 1960_ | Table 5, p. 5, row 3 |  |
-| 993 | (βTi) = (αTi) + BiTi3 | BiTi3: Ti 0.75 | model | [1] Huang 2014 | Table 5, p. 5, row 4 |  |
-| 992.62 | eutectoid: (βTi) = (αTi) + Ti3Bi |  | model | [2] Cao 2013 | p. 3 | “The calculated eutectoid point of reaction (βTi) = (αTi) + Ti3Bi lies at 719.47 °C, 6.03 at.% Bi, while the experimental \[15\] one lies at 725 °C, 8.6 at.% Bi.” |
-| 698.5 | L + Bi9Ti8 = Bi2Ti | Bi9Ti8: Ti 0.470588; Bi2Ti: Ti 0.333333 | model | [1] Huang 2014 | Table 5, p. 5, row 12 |  |
-| 698 | L + Bi9Ti8 = Bi2Ti | Bi9Ti8: Ti 0.470588; Bi2Ti: Ti 0.333333 | experimental | [1] Huang 2014; _cites Maruyama 2013_ [doi](https://doi.org/10.1007/s11669-013-0243-0) | Table 5, p. 5, row 11 |  |
-| 544.55 | Liquid=Bi2Ti+(Bi) | Liquid: Bi 0.999; Bi2Ti: Bi 0.667; (Bi): Bi 1 | model | [2] Cao 2013 | Table 3, p. 5, row 2 |  |
-| 544 | L + Bi2Ti = (Bi) | Bi2Ti: Ti 0.333333; (Bi): Ti 0 | experimental | [1] Huang 2014; _cites Maruyama 2013_ [doi](https://doi.org/10.1007/s11669-013-0243-0) | Table 5, p. 5, row 13 |  |
-| 544 | L + Bi2Ti = (Bi) | Bi2Ti: Ti 0.333333; (Bi): Ti 0 | model | [1] Huang 2014 | Table 5, p. 5, row 14 |  |
+| 1616 | L + (βTi) = BiTi3 | BiTi3: Ti 0.75 | model | [1] Huang 2014 | Table 5, p. 5, row 2; `ORC-7RHNZ3KGVM` |  |
+| 1613.15 | peritectic: liquid + (βTi) = BiTi3 |  | experimental | [2] Cao 2013; _cites Obinata 1960_ | p. 2; `ORC-QRN54XE4QF.d1b37d` | “According to the work by Obinata et al. \[15\], an eutectoid reaction (βTi) = (αTi) + BiTi3 occurred at 725 °C ± 10 °C and 8.6 at.% Bi and a peritectic reaction liquid + (βTi) = BiTi3 occurred at 1340°C ± 20 °C.” |
+| 1613 | L + (βTi) = BiTi3 | BiTi3: Ti 0.75 | experimental | [1] Huang 2014; _cites Obinata 1960_ | Table 5, p. 5, row 1; `ORC-GWJBTCJRZX` |  |
+| 1433 | L + BiTi3 = BiTi2 | BiTi3: Ti 0.75; BiTi2: Ti 0.666667 | model | [1] Huang 2014 | Table 5, p. 5, row 6; `ORC-F2PSCOKUJS` |  |
+| 1247 | L + BiTi2 = Bi2Ti3 | BiTi2: Ti 0.666667; Bi2Ti3: Ti 0.6 | model | [1] Huang 2014 | Table 5, p. 5, row 8; `ORC-VA2W6TIEDC` |  |
+| 1243 | L + BiTi2 = Bi2Ti3 | BiTi2: Ti 0.666667; Bi2Ti3: Ti 0.6 | experimental | [1] Huang 2014; _cites Maruyama 2013_ [doi](https://doi.org/10.1007/s11669-013-0243-0) | Table 5, p. 5, row 7; `ORC-P5JIXL7FZC` |  |
+| 1203 | L + Bi2Ti3 = Bi9Ti8 | Bi2Ti3: Ti 0.6; Bi9Ti8: Ti 0.470588 | model | [1] Huang 2014 | Table 5, p. 5, row 10; `ORC-2OSVWTNRAP` |  |
+| 1203 | L + Bi2Ti3 = Bi9Ti8 | Bi2Ti3: Ti 0.6; Bi9Ti8: Ti 0.470588 | experimental | [1] Huang 2014; _cites Maruyama 2013_ [doi](https://doi.org/10.1007/s11669-013-0243-0) | Table 5, p. 5, row 9; `ORC-OKI6VZ6VPH` |  |
+| 998.15 | eutectoid: (βTi) = (αTi) + Ti3Bi |  | experimental | [2] Cao 2013; _cites Obinata 1960_ | p. 3; `ORC-M6453LNMCJ.ff468e` | “The calculated eutectoid point of reaction (βTi) = (αTi) + Ti3Bi lies at 719.47 °C, 6.03 at.% Bi, while the experimental \[15\] one lies at 725 °C, 8.6 at.% Bi.” |
+| 998.15 | eutectoid: (βTi) = (αTi) + BiTi3 |  | experimental | [2] Cao 2013; _cites Obinata 1960_ | p. 2; `ORC-QRN54XE4QF.4c9654` | “According to the work by Obinata et al. \[15\], an eutectoid reaction (βTi) = (αTi) + BiTi3 occurred at 725 °C ± 10 °C and 8.6 at.% Bi and a peritectic reaction liquid + (βTi) = BiTi3 occurred at 1340°C ± 20 °C.” |
+| 998 | (βTi) = (αTi) + BiTi3 | BiTi3: Ti 0.75 | experimental | [1] Huang 2014; _cites Obinata 1960_ | Table 5, p. 5, row 3; `ORC-5M4P5NERCA` |  |
+| 993 | (βTi) = (αTi) + BiTi3 | BiTi3: Ti 0.75 | model | [1] Huang 2014 | Table 5, p. 5, row 4; `ORC-YUKKG2HWTY` |  |
+| 992.62 | eutectoid: (βTi) = (αTi) + Ti3Bi |  | model | [2] Cao 2013 | p. 3; `ORC-M6453LNMCJ.cd6dac` | “The calculated eutectoid point of reaction (βTi) = (αTi) + Ti3Bi lies at 719.47 °C, 6.03 at.% Bi, while the experimental \[15\] one lies at 725 °C, 8.6 at.% Bi.” |
+| 698.5 | L + Bi9Ti8 = Bi2Ti | Bi9Ti8: Ti 0.470588; Bi2Ti: Ti 0.333333 | model | [1] Huang 2014 | Table 5, p. 5, row 12; `ORC-A6MHFWWU6Z` |  |
+| 698 | L + Bi9Ti8 = Bi2Ti | Bi9Ti8: Ti 0.470588; Bi2Ti: Ti 0.333333 | experimental | [1] Huang 2014; _cites Maruyama 2013_ [doi](https://doi.org/10.1007/s11669-013-0243-0) | Table 5, p. 5, row 11; `ORC-Z7VO67HZRE` |  |
+| 544.55 | Liquid=Bi2Ti+(Bi) | Liquid: Bi 0.999; Bi2Ti: Bi 0.667; (Bi): Bi 1 | model | [2] Cao 2013 | Table 3, p. 5, row 2; `ORC-6A4FIL25YS` |  |
+| 544 | L + Bi2Ti = (Bi) | Bi2Ti: Ti 0.333333; (Bi): Ti 0 | experimental | [1] Huang 2014; _cites Maruyama 2013_ [doi](https://doi.org/10.1007/s11669-013-0243-0) | Table 5, p. 5, row 13; `ORC-HSXE4222YZ` |  |
+| 544 | L + Bi2Ti = (Bi) | Bi2Ti: Ti 0.333333; (Bi): Ti 0 | model | [1] Huang 2014 | Table 5, p. 5, row 14; `ORC-PV26AMDBAV` |  |
 
 ## Formation enthalpies
 
@@ -113,8 +113,8 @@ Table: Enthalpies of formation, Bi–Ti system (2)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Bi9Ti8 |  | -16.71 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Huang 2014 | Table 4, p. 5, row 4 |  |
-| BiTi2 |  | -12.5 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Huang 2014 | Table 4, p. 5, row 2 |  |
+| Bi9Ti8 |  | -16.71 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Huang 2014 | Table 4, p. 5, row 4; `ORC-E5FZS54JQB` |  |
+| BiTi2 |  | -12.5 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Huang 2014 | Table 4, p. 5, row 2; `ORC-6J7PIVW23J` |  |
 
 ## Other properties
 
@@ -124,7 +124,7 @@ Table: Phase transition, Bi–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 544 K | 544 |  | experimental | [1] Huang 2014 | p. 5 | “The observed phase (Bi) should be a product of solidified liquid which is an equilibrium phase at 773 K because the melting point of Bi is 544 K.” |
+| Phase transition | 544 K | 544 |  | experimental | [1] Huang 2014 | p. 5; `ORC-L5BAY7S7I5` | “The observed phase (Bi) should be a product of solidified liquid which is an equilibrium phase at 773 K because the melting point of Bi is 544 K.” |
 
 ### Crystal structure (14)
 
@@ -132,20 +132,20 @@ Table: Crystal structure, Bi–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a; _printed: a_ | 10.277 Å | 0 | Bi9Ti8; _alloy: Ti 0.470588_ | model | [1] Huang 2014; _cites Richter 1997_ | Table 4, p. 5, row 3 |  |
-| Lattice a; _printed: a_ | 10.294 Å | 0 | Bi9Ti8; _alloy: Ti 0.470588_ | DFT | [1] Huang 2014 | Table 4, p. 5, row 4 |  |
-| Lattice a; _printed: a_ | 4.04 Å | 0 | BiTi2; _alloy: Ti 0.666667_ | model | [1] Huang 2014; _cites Richter 1997_ | Table 4, p. 5, row 1 |  |
-| Lattice a; _printed: a_ | 4.219 Å | 0 | BiTi2; _alloy: Ti 0.666667_ | DFT | [1] Huang 2014 | Table 4, p. 5, row 2 |  |
-| Lattice a | 10.277 Å | 1270.95 (\<) | Bi9Ti8; _alloy: Ti 0.470588_ | unspecified | [2] Cao 2013; _cites http://crystdb_ | Table 1, p. 2, row 8 |  |
-| Lattice a | 4.08 Å | 1562.65 (\<) | BiTi2; _alloy: Ti 0.666667_ | unspecified | [2] Cao 2013; _cites http://crystdb_ | Table 1, p. 2, row 7 |  |
-| Lattice a | 6.02 Å | 1609.15 (\<) | BiTi3; _alloy: Ti 0.75_ | experimental | [2] Cao 2013; _cites Obinata 1960_ | Table 1, p. 2, row 6 |  |
-| Lattice c; _printed: c_ | 7.375 Å | 0 | Bi9Ti8; _alloy: Ti 0.470588_ | model | [1] Huang 2014; _cites Richter 1997_ | Table 4, p. 5, row 3 |  |
-| Lattice c; _printed: c_ | 7.442 Å | 0 | Bi9Ti8; _alloy: Ti 0.470588_ | DFT | [1] Huang 2014 | Table 4, p. 5, row 4 |  |
-| Lattice c; _printed: c_ | 14.5 Å | 0 | BiTi2; _alloy: Ti 0.666667_ | model | [1] Huang 2014; _cites Richter 1997_ | Table 4, p. 5, row 1 |  |
-| Lattice c; _printed: c_ | 14.056 Å | 0 | BiTi2; _alloy: Ti 0.666667_ | DFT | [1] Huang 2014 | Table 4, p. 5, row 2 |  |
-| Lattice c | 7.375 Å | 1270.95 (\<) | Bi9Ti8; _alloy: Ti 0.470588_ | unspecified | [2] Cao 2013; _cites http://crystdb_ | Table 1, p. 2, row 8 |  |
-| Lattice c | 14.57 Å | 1562.65 (\<) | BiTi2; _alloy: Ti 0.666667_ | unspecified | [2] Cao 2013; _cites http://crystdb_ | Table 1, p. 2, row 7 |  |
-| Lattice c | 8.204 Å | 1609.15 (\<) | BiTi3; _alloy: Ti 0.75_ | experimental | [2] Cao 2013; _cites Obinata 1960_ | Table 1, p. 2, row 6 |  |
+| Lattice a; _printed: a_ | 10.277 Å | 0 | Bi9Ti8; _alloy: Ti 0.470588_ | model | [1] Huang 2014; _cites Richter 1997_ | Table 4, p. 5, row 3; `ORC-DMRNAJZXWP.5ef37d` |  |
+| Lattice a; _printed: a_ | 10.294 Å | 0 | Bi9Ti8; _alloy: Ti 0.470588_ | DFT | [1] Huang 2014 | Table 4, p. 5, row 4; `ORC-IBX4S4DDDC.6e7497` |  |
+| Lattice a; _printed: a_ | 4.04 Å | 0 | BiTi2; _alloy: Ti 0.666667_ | model | [1] Huang 2014; _cites Richter 1997_ | Table 4, p. 5, row 1; `ORC-C2T6ZVO2I6.18b486` |  |
+| Lattice a; _printed: a_ | 4.219 Å | 0 | BiTi2; _alloy: Ti 0.666667_ | DFT | [1] Huang 2014 | Table 4, p. 5, row 2; `ORC-HJN3YKPE3A.58182d` |  |
+| Lattice a | 10.277 Å | 1270.95 (\<) | Bi9Ti8; _alloy: Ti 0.470588_ | unspecified | [2] Cao 2013; _cites http://crystdb_ | Table 1, p. 2, row 8; `ORC-3BCLQBLM6A.a4e0d6` |  |
+| Lattice a | 4.08 Å | 1562.65 (\<) | BiTi2; _alloy: Ti 0.666667_ | unspecified | [2] Cao 2013; _cites http://crystdb_ | Table 1, p. 2, row 7; `ORC-P6Z57ZS2YY.a89dee` |  |
+| Lattice a | 6.02 Å | 1609.15 (\<) | BiTi3; _alloy: Ti 0.75_ | experimental | [2] Cao 2013; _cites Obinata 1960_ | Table 1, p. 2, row 6; `ORC-X2SOO2GBUO.a28722` |  |
+| Lattice c; _printed: c_ | 7.375 Å | 0 | Bi9Ti8; _alloy: Ti 0.470588_ | model | [1] Huang 2014; _cites Richter 1997_ | Table 4, p. 5, row 3; `ORC-DMRNAJZXWP.662818` |  |
+| Lattice c; _printed: c_ | 7.442 Å | 0 | Bi9Ti8; _alloy: Ti 0.470588_ | DFT | [1] Huang 2014 | Table 4, p. 5, row 4; `ORC-IBX4S4DDDC.f36ebc` |  |
+| Lattice c; _printed: c_ | 14.5 Å | 0 | BiTi2; _alloy: Ti 0.666667_ | model | [1] Huang 2014; _cites Richter 1997_ | Table 4, p. 5, row 1; `ORC-C2T6ZVO2I6.8ef8f2` |  |
+| Lattice c; _printed: c_ | 14.056 Å | 0 | BiTi2; _alloy: Ti 0.666667_ | DFT | [1] Huang 2014 | Table 4, p. 5, row 2; `ORC-HJN3YKPE3A.e684f3` |  |
+| Lattice c | 7.375 Å | 1270.95 (\<) | Bi9Ti8; _alloy: Ti 0.470588_ | unspecified | [2] Cao 2013; _cites http://crystdb_ | Table 1, p. 2, row 8; `ORC-3BCLQBLM6A.1bb32b` |  |
+| Lattice c | 14.57 Å | 1562.65 (\<) | BiTi2; _alloy: Ti 0.666667_ | unspecified | [2] Cao 2013; _cites http://crystdb_ | Table 1, p. 2, row 7; `ORC-P6Z57ZS2YY.c67423` |  |
+| Lattice c | 8.204 Å | 1609.15 (\<) | BiTi3; _alloy: Ti 0.75_ | experimental | [2] Cao 2013; _cites Obinata 1960_ | Table 1, p. 2, row 6; `ORC-X2SOO2GBUO.9998b0` |  |
 
 ## Sources
 
@@ -211,4 +211,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

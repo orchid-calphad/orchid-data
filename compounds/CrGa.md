@@ -14,10 +14,10 @@ Table: Enthalpy of formation of CrGa reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -16 kJ/mol-atom | CrGa | 298.15 | model |  | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Gröbner 1999; _cites F 1988_ | Table 1, p. 2, row 45 |  |
-| -7.29 kJ/mol (basis unstated) | CrGa |  | model | Assessed | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [2] Belgacem-Bouzida 2005; _cites Grobner 1999_ [doi](https://doi.org/10.1361/105497199770340608) | Table 4, p. 4, row 8 |  |
-| -7.29 kJ/mol-atom | CrGa | 298.15 | model |  | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Gröbner 1999 | Table 1, p. 2, row 46 |  |
-| -6.06 kJ/mol (basis unstated) | CrGa |  | model | Assessed | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [2] Belgacem-Bouzida 2005 | Table 4, p. 4, row 9 |  |
+| -16 kJ/mol-atom | CrGa | 298.15 | model |  | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Gröbner 1999; _cites F 1988_ | Table 1, p. 2, row 45; `ORC-OWKDAI3R4Q` |  |
+| -7.29 kJ/mol (basis unstated) | CrGa |  | model | Assessed | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [2] Belgacem-Bouzida 2005; _cites Grobner 1999_ [doi](https://doi.org/10.1361/105497199770340608) | Table 4, p. 4, row 8; `ORC-7BVXWGCWBF.6f6073` |  |
+| -7.29 kJ/mol-atom | CrGa | 298.15 | model |  | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Gröbner 1999 | Table 1, p. 2, row 46; `ORC-TCYNIHPGS5` |  |
+| -6.06 kJ/mol (basis unstated) | CrGa |  | model | Assessed | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [2] Belgacem-Bouzida 2005 | Table 4, p. 4, row 9; `ORC-LJL6NCPKWK.a492bd` |  |
 
 ### Uncertainty budget
 
@@ -97,4 +97,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

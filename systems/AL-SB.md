@@ -60,24 +60,24 @@ Table: Invariant reactions reported in the literature for the Al–Sb system (18
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1336.4 | L = AlSb | L: Sb 0.5; AlSb: Al 0.5, Sb 0.5 | model | [1] Balakumar 2005; _cites Zajaczkowski 1995_ | Table 4, p. 7, row 16 |  |
-| 1335 | L = AlSb | L: Sb 0.5; AlSb: Al 0.5, Sb 0.5 | model | [1] Balakumar 2005; _cites Yamaguchi 1995_ [doi](https://doi.org/10.2320/matertrans1989.36.432) | Table 4, p. 7, row 15 |  |
-| 1333 | L = AlSb | L: Sb 0.5; AlSb: Al 0.5, Sb 0.5 | model | [1] Balakumar 2005; _cites Coughanowr 1990_ [doi](https://doi.org/10.1016/0364-5916%2890%2990020-z) | Table 4, p. 7, row 14 |  |
-| 1332 | L = AlSb | L: Sb 0.5; AlSb: Al 0.5, Sb 0.5 | model | [1] Balakumar 2005; _cites Yamaguchi 1996_ [doi](https://doi.org/10.1016/s0364-5916%2897%2900006-0) | Table 4, p. 7, row 17 |  |
-| 1331 | L = AlSb | L: Sb 0.5; AlSb: Al 0.5, Sb 0.5 | model | [1] Balakumar 2005; _cites Coughanowr 1990_ [doi](https://doi.org/10.1016/0364-5916%2890%2990020-z) | Table 4, p. 7, row 13 |  |
-| 1328.4 | L = AlSb | L: Sb 0.5; AlSb: Al 0.5, Sb 0.5 | model | [1] Balakumar 2005 | Table 4, p. 7, row 18 |  |
-| 932 | L = (Al) + AlSb | L: Sb 0.004; AlSb: Al 0.5, Sb 0.5 | model | [1] Balakumar 2005; _cites Yamaguchi 1995_ [doi](https://doi.org/10.2320/matertrans1989.36.432) | Table 4, p. 7, row 3 |  |
-| 931.3 | L = (Al) + AlSb | L: Sb 0.0034; AlSb: Al 0.5, Sb 0.5 | model | [1] Balakumar 2005 | Table 4, p. 7, row 6 |  |
-| 931 | L = (Al) + AlSb | AlSb: Al 0.5, Sb 0.5 | model | [1] Balakumar 2005; _cites Coughanowr 1990_ [doi](https://doi.org/10.1016/0364-5916%2890%2990020-z) | Table 4, p. 7, row 1 |  |
-| 930.4 | L = (Al) + AlSb | L: Sb 0.00476; AlSb: Al 0.5, Sb 0.5 | model | [1] Balakumar 2005; _cites Zajaczkowski 1995_ | Table 4, p. 7, row 4 |  |
-| 930 | L = (Al) + AlSb | L: Sb 0.004; AlSb: Al 0.5, Sb 0.5 | model | [1] Balakumar 2005; _cites Yamaguchi 1996_ [doi](https://doi.org/10.1016/s0364-5916%2897%2900006-0) | Table 4, p. 7, row 5 |  |
-| 928 | L = (Al) + AlSb | AlSb: Al 0.5, Sb 0.5 | model | [1] Balakumar 2005; _cites Coughanowr 1990_ [doi](https://doi.org/10.1016/0364-5916%2890%2990020-z) | Table 4, p. 7, row 2 |  |
-| 901 | L = (Sb) + AlSb | L: Sb 0.983; AlSb: Al 0.5, Sb 0.5 | model | [1] Balakumar 2005; _cites Yamaguchi 1995_ [doi](https://doi.org/10.2320/matertrans1989.36.432) | Table 4, p. 7, row 9 |  |
-| 899 | L = (Sb) + AlSb | L: Sb 0.984; AlSb: Al 0.5, Sb 0.5 | model | [1] Balakumar 2005; _cites Yamaguchi 1996_ [doi](https://doi.org/10.1016/s0364-5916%2897%2900006-0) | Table 4, p. 7, row 11 |  |
-| 898.3 | L = (Sb) + AlSb | L: Sb 0.9833; AlSb: Al 0.5, Sb 0.5 | model | [1] Balakumar 2005; _cites Zajaczkowski 1995_ | Table 4, p. 7, row 10 |  |
-| 897 | L = (Sb) + AlSb | AlSb: Al 0.5, Sb 0.5 | model | [1] Balakumar 2005; _cites Coughanowr 1990_ [doi](https://doi.org/10.1016/0364-5916%2890%2990020-z) | Table 4, p. 7, row 8 |  |
-| 893 | L = (Sb) + AlSb | L: Sb 0.974; AlSb: Al 0.5, Sb 0.5 | model | [1] Balakumar 2005 | Table 4, p. 7, row 12 |  |
-| 828.15 | eutectic: L = Sb + AlSb |  | experimental | [2] Coughanowr 1990; _cites ref. 7_ | p. 1 | “The data of Vesxelka (7) were not used, since the very low temperature reported for the Sb-AlSb eutectic (555°C) suggests contamination problems in the study.” |
+| 1336.4 | L = AlSb | L: Sb 0.5; AlSb: Al 0.5, Sb 0.5 | model | [1] Balakumar 2005; _cites Zajaczkowski 1995_ | Table 4, p. 7, row 16; `ORC-EMRSF6FU2F` |  |
+| 1335 | L = AlSb | L: Sb 0.5; AlSb: Al 0.5, Sb 0.5 | model | [1] Balakumar 2005; _cites Yamaguchi 1995_ [doi](https://doi.org/10.2320/matertrans1989.36.432) | Table 4, p. 7, row 15; `ORC-ENHGANPR6W` |  |
+| 1333 | L = AlSb | L: Sb 0.5; AlSb: Al 0.5, Sb 0.5 | model | [1] Balakumar 2005; _cites Coughanowr 1990_ [doi](https://doi.org/10.1016/0364-5916%2890%2990020-z) | Table 4, p. 7, row 14; `ORC-ICA7RJWQ2V` |  |
+| 1332 | L = AlSb | L: Sb 0.5; AlSb: Al 0.5, Sb 0.5 | model | [1] Balakumar 2005; _cites Yamaguchi 1996_ [doi](https://doi.org/10.1016/s0364-5916%2897%2900006-0) | Table 4, p. 7, row 17; `ORC-SUTZLG4DEO` |  |
+| 1331 | L = AlSb | L: Sb 0.5; AlSb: Al 0.5, Sb 0.5 | model | [1] Balakumar 2005; _cites Coughanowr 1990_ [doi](https://doi.org/10.1016/0364-5916%2890%2990020-z) | Table 4, p. 7, row 13; `ORC-XC3YG6JAEF` |  |
+| 1328.4 | L = AlSb | L: Sb 0.5; AlSb: Al 0.5, Sb 0.5 | model | [1] Balakumar 2005 | Table 4, p. 7, row 18; `ORC-IHFB2ZAUYT` |  |
+| 932 | L = (Al) + AlSb | L: Sb 0.004; AlSb: Al 0.5, Sb 0.5 | model | [1] Balakumar 2005; _cites Yamaguchi 1995_ [doi](https://doi.org/10.2320/matertrans1989.36.432) | Table 4, p. 7, row 3; `ORC-5WCHCBYHDP` |  |
+| 931.3 | L = (Al) + AlSb | L: Sb 0.0034; AlSb: Al 0.5, Sb 0.5 | model | [1] Balakumar 2005 | Table 4, p. 7, row 6; `ORC-I652JKADNP` |  |
+| 931 | L = (Al) + AlSb | AlSb: Al 0.5, Sb 0.5 | model | [1] Balakumar 2005; _cites Coughanowr 1990_ [doi](https://doi.org/10.1016/0364-5916%2890%2990020-z) | Table 4, p. 7, row 1; `ORC-OOL3CWCW4E` |  |
+| 930.4 | L = (Al) + AlSb | L: Sb 0.00476; AlSb: Al 0.5, Sb 0.5 | model | [1] Balakumar 2005; _cites Zajaczkowski 1995_ | Table 4, p. 7, row 4; `ORC-I2VDKQUFVV` |  |
+| 930 | L = (Al) + AlSb | L: Sb 0.004; AlSb: Al 0.5, Sb 0.5 | model | [1] Balakumar 2005; _cites Yamaguchi 1996_ [doi](https://doi.org/10.1016/s0364-5916%2897%2900006-0) | Table 4, p. 7, row 5; `ORC-VWJYOLJY5Y` |  |
+| 928 | L = (Al) + AlSb | AlSb: Al 0.5, Sb 0.5 | model | [1] Balakumar 2005; _cites Coughanowr 1990_ [doi](https://doi.org/10.1016/0364-5916%2890%2990020-z) | Table 4, p. 7, row 2; `ORC-P5TEPJQOPW` |  |
+| 901 | L = (Sb) + AlSb | L: Sb 0.983; AlSb: Al 0.5, Sb 0.5 | model | [1] Balakumar 2005; _cites Yamaguchi 1995_ [doi](https://doi.org/10.2320/matertrans1989.36.432) | Table 4, p. 7, row 9; `ORC-FDHIOLI4JH` |  |
+| 899 | L = (Sb) + AlSb | L: Sb 0.984; AlSb: Al 0.5, Sb 0.5 | model | [1] Balakumar 2005; _cites Yamaguchi 1996_ [doi](https://doi.org/10.1016/s0364-5916%2897%2900006-0) | Table 4, p. 7, row 11; `ORC-MTB5KFPJIL` |  |
+| 898.3 | L = (Sb) + AlSb | L: Sb 0.9833; AlSb: Al 0.5, Sb 0.5 | model | [1] Balakumar 2005; _cites Zajaczkowski 1995_ | Table 4, p. 7, row 10; `ORC-WSCQOSV6WN` |  |
+| 897 | L = (Sb) + AlSb | AlSb: Al 0.5, Sb 0.5 | model | [1] Balakumar 2005; _cites Coughanowr 1990_ [doi](https://doi.org/10.1016/0364-5916%2890%2990020-z) | Table 4, p. 7, row 8; `ORC-5VA4BTQYKD` |  |
+| 893 | L = (Sb) + AlSb | L: Sb 0.974; AlSb: Al 0.5, Sb 0.5 | model | [1] Balakumar 2005 | Table 4, p. 7, row 12; `ORC-Q4WRMUHL6X` |  |
+| 828.15 | eutectic: L = Sb + AlSb |  | experimental | [2] Coughanowr 1990; _cites ref. 7_ | p. 1; `ORC-KY66GHS2EM` | “The data of Vesxelka (7) were not used, since the very low temperature reported for the Sb-AlSb eutectic (555°C) suggests contamination problems in the study.” |
 
 ## Formation enthalpies
 
@@ -87,11 +87,11 @@ Table: Enthalpies of formation, Al–Sb system (5)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| AlSb |  | -96.6 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Balakumar 2005; _cites Jones 1941_ | Table 5, p. 7, row 1 |  |
-| AlSb |  | -84 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Balakumar 2005; _cites Zajaczkowski 1995_ | Table 5, p. 7, row 3 |  |
-| AlSb |  | -82 kJ/mol (basis unstated) ± 2.51 | 298.15 | experimental |  |  | [1] Balakumar 2005; _cites Lichter 1969_ | Table 5, p. 7, row 4 |  |
-| AlSb |  | -81.27 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Balakumar 2005 | Table 5, p. 7, row 5 |  |
-| AlSb |  | -73.49 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Balakumar 2005; _cites Coughanowr 1990_ [doi](https://doi.org/10.1016/0364-5916%2890%2990020-z) | Table 5, p. 7, row 2 |  |
+| AlSb |  | -96.6 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Balakumar 2005; _cites Jones 1941_ | Table 5, p. 7, row 1; `ORC-ATLFNG2KIE.69b47b` |  |
+| AlSb |  | -84 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Balakumar 2005; _cites Zajaczkowski 1995_ | Table 5, p. 7, row 3; `ORC-NLPHYGIO3T` |  |
+| AlSb |  | -82 kJ/mol (basis unstated) ± 2.51 | 298.15 | experimental |  |  | [1] Balakumar 2005; _cites Lichter 1969_ | Table 5, p. 7, row 4; `ORC-MOWA2MD2QK.90e2e1` |  |
+| AlSb |  | -81.27 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Balakumar 2005 | Table 5, p. 7, row 5; `ORC-4ZDXOL6OHZ.63ee1d` |  |
+| AlSb |  | -73.49 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Balakumar 2005; _cites Coughanowr 1990_ [doi](https://doi.org/10.1016/0364-5916%2890%2990020-z) | Table 5, p. 7, row 2; `ORC-JMW4UGZ6PO.3613e9` |  |
 
 ## Other properties
 
@@ -101,25 +101,25 @@ Table: Phase transition, Al–Sb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 885.15 K | 885.15 | eutectic: Sb-AlSb; _Sb: Sb 1; AlSb: Sb 0.5_ | model | [2] Coughanowr 1990; _cites ref. 39_ | Table 4, p. 5, row 8 |  |
-| Phase transition | 897.15 K | 897.15 | eutectic: Sb-AlSb; _Sb: Sb 1; AlSb: Sb 0.5_ | model | [2] Coughanowr 1990; _cites ref. 38_ | Table 4, p. 5, row 5 |  |
-| Phase transition | 897.15 K | 897.15 | eutectic: Sb-AlSb; _Sb: Sb 1; AlSb: Sb 0.5_ | model | [2] Coughanowr 1990 | Table 4, p. 5, row 18 |  |
-| Phase transition | 898.15 K | 898.15 | eutectic: Al-AlSb; _Al: Sb 0.5; AlSb: Sb 0.5_ | model | [2] Coughanowr 1990; _cites ref. 37_ | Table 4, p. 5, row 2 |  |
-| Phase transition | 900.15 K | 900.15 | eutectic: Sb-AlSb; _Sb: Sb 1; AlSb: Sb 0.5_ | model | [2] Coughanowr 1990; _cites ref. 19_ | Table 4, p. 5, row 11 |  |
-| Phase transition | 923.15 K | 923.15 | eutectic: Al-AlSb; _Al: Sb 0.5; AlSb: Sb 0.5_ | model | [2] Coughanowr 1990; _cites ref. 38_ | Table 4, p. 5, row 4 |  |
-| Phase transition | 928.15 K | 928.15 | eutectic: Al-AlSb; _Al: Sb 0.5; AlSb: Sb 0.5_ | model | [2] Coughanowr 1990 | Table 4, p. 5, row 17 |  |
-| Phase transition | 930.15 K | 930.15 | eutectic: Al-AlSb; _Al: Sb 0.5; AlSb: Sb 0.5_ | model | [2] Coughanowr 1990; _cites ref. 19_ | Table 4, p. 5, row 10 |  |
-| Phase transition | 931.15 K | 931.15 | eutectic: Al-AlSb; _Al: Sb 0.5; AlSb: Sb 0.5_ | model | [2] Coughanowr 1990 | Table 4, p. 5, row 14 |  |
-| Phase transition | 933.15 K | 933.15 | eutectic: Al-AlSb; _Al: Sb 0.5; AlSb: Sb 0.5_ | model | [2] Coughanowr 1990; _cites ref. 39_ | Table 4, p. 5, row 7 |  |
-| Phase transition | 1331.15 K | 1331.15 |  | model | [2] Coughanowr 1990 | p. 4 | “The fit to the data is very good, as are the catculated T, (1058°C) and eutectic temperatures (658,624'C).” |
-| Phase transition | 1331.15 K | 1331.15 | T_m; _AlSb: Sb 0.5_ | model | [2] Coughanowr 1990 | Table 4, p. 5, row 13 |  |
-| Phase transition | 1333.15 K | 1333.15 |  | model | [2] Coughanowr 1990 | p. 5 | “The value of T, (1060°C) and the AI-AlSb eutectic temperature (655'C) differ by a few degrees from the values obtained using the Redlich-Kister model, but are all still within the experimental scatter.” |
-| Phase transition | 1333.15 K | 1333.15 | T_m; _AlSb: Sb 0.5_ | model | [2] Coughanowr 1990 | Table 4, p. 5, row 16 |  |
-| Phase transition | 1338.15 K | 1338.15 |  | model | [2] Coughanowr 1990; _cites ref. 37_ | p. 5 | “The first three calculations (37-39) yielded a T, value of 1065"C, as first estimated by Hansen and Anderko (40), and in each case one of the calculated eutectic temperatures is lower than suggested by the results of this assessment.” |
-| Phase transition | 1338.15 K | 1338.15 | T_m; _AlSb: Sb 0.5_ | model | [2] Coughanowr 1990; _cites ref. 39_ | Table 4, p. 5, row 6 |  |
-| Phase transition | 1338.15 K | 1338.15 (>) | T_m; _AlSb: Sb 0.5_ | model | [2] Coughanowr 1990; _cites ref. 41_ | Table 4, p. 5, row 12 |  |
-| Phase transition | 1338.15 K | 1338.15 | T_m; _AlSb: Sb 0.5_ | model | [2] Coughanowr 1990; _cites ref. 38_ | Table 4, p. 5, row 3 |  |
-| Phase transition | 1338.15 K | 1338.15 | T_m; _AlSb: Sb 0.5_ | model | [2] Coughanowr 1990; _cites ref. 37_ | Table 4, p. 5, row 1 |  |
+| Phase transition | 885.15 K | 885.15 | eutectic: Sb-AlSb; _Sb: Sb 1; AlSb: Sb 0.5_ | model | [2] Coughanowr 1990; _cites ref. 39_ | Table 4, p. 5, row 8; `ORC-LHD7HFJ5B7` |  |
+| Phase transition | 897.15 K | 897.15 | eutectic: Sb-AlSb; _Sb: Sb 1; AlSb: Sb 0.5_ | model | [2] Coughanowr 1990; _cites ref. 38_ | Table 4, p. 5, row 5; `ORC-7HJL7B7TEN` |  |
+| Phase transition | 897.15 K | 897.15 | eutectic: Sb-AlSb; _Sb: Sb 1; AlSb: Sb 0.5_ | model | [2] Coughanowr 1990 | Table 4, p. 5, row 18; `ORC-U4JEQ26Z3R` |  |
+| Phase transition | 898.15 K | 898.15 | eutectic: Al-AlSb; _Al: Sb 0.5; AlSb: Sb 0.5_ | model | [2] Coughanowr 1990; _cites ref. 37_ | Table 4, p. 5, row 2; `ORC-KEUMPQGSE2` |  |
+| Phase transition | 900.15 K | 900.15 | eutectic: Sb-AlSb; _Sb: Sb 1; AlSb: Sb 0.5_ | model | [2] Coughanowr 1990; _cites ref. 19_ | Table 4, p. 5, row 11; `ORC-RZWNBKJ4VP` |  |
+| Phase transition | 923.15 K | 923.15 | eutectic: Al-AlSb; _Al: Sb 0.5; AlSb: Sb 0.5_ | model | [2] Coughanowr 1990; _cites ref. 38_ | Table 4, p. 5, row 4; `ORC-FD6IE6LJWT` |  |
+| Phase transition | 928.15 K | 928.15 | eutectic: Al-AlSb; _Al: Sb 0.5; AlSb: Sb 0.5_ | model | [2] Coughanowr 1990 | Table 4, p. 5, row 17; `ORC-WJ3X7WOIYT` |  |
+| Phase transition | 930.15 K | 930.15 | eutectic: Al-AlSb; _Al: Sb 0.5; AlSb: Sb 0.5_ | model | [2] Coughanowr 1990; _cites ref. 19_ | Table 4, p. 5, row 10; `ORC-IS6JIEZ5SK` |  |
+| Phase transition | 931.15 K | 931.15 | eutectic: Al-AlSb; _Al: Sb 0.5; AlSb: Sb 0.5_ | model | [2] Coughanowr 1990 | Table 4, p. 5, row 14; `ORC-SZEX2MH3DA` |  |
+| Phase transition | 933.15 K | 933.15 | eutectic: Al-AlSb; _Al: Sb 0.5; AlSb: Sb 0.5_ | model | [2] Coughanowr 1990; _cites ref. 39_ | Table 4, p. 5, row 7; `ORC-N4M4RMWWJ4` |  |
+| Phase transition | 1331.15 K | 1331.15 |  | model | [2] Coughanowr 1990 | p. 4; `ORC-JDMLUBAGPX` | “The fit to the data is very good, as are the catculated T, (1058°C) and eutectic temperatures (658,624'C).” |
+| Phase transition | 1331.15 K | 1331.15 | T_m; _AlSb: Sb 0.5_ | model | [2] Coughanowr 1990 | Table 4, p. 5, row 13; `ORC-SOWTGXUQEF` |  |
+| Phase transition | 1333.15 K | 1333.15 |  | model | [2] Coughanowr 1990 | p. 5; `ORC-P55K3XDZQ6` | “The value of T, (1060°C) and the AI-AlSb eutectic temperature (655'C) differ by a few degrees from the values obtained using the Redlich-Kister model, but are all still within the experimental scatter.” |
+| Phase transition | 1333.15 K | 1333.15 | T_m; _AlSb: Sb 0.5_ | model | [2] Coughanowr 1990 | Table 4, p. 5, row 16; `ORC-DSFYBXRF6X` |  |
+| Phase transition | 1338.15 K | 1338.15 |  | model | [2] Coughanowr 1990; _cites ref. 37_ | p. 5; `ORC-RWRD3T2FGP` | “The first three calculations (37-39) yielded a T, value of 1065"C, as first estimated by Hansen and Anderko (40), and in each case one of the calculated eutectic temperatures is lower than suggested by the results of this assessment.” |
+| Phase transition | 1338.15 K | 1338.15 | T_m; _AlSb: Sb 0.5_ | model | [2] Coughanowr 1990; _cites ref. 39_ | Table 4, p. 5, row 6; `ORC-D3KLUCAYDY` |  |
+| Phase transition | 1338.15 K | 1338.15 (>) | T_m; _AlSb: Sb 0.5_ | model | [2] Coughanowr 1990; _cites ref. 41_ | Table 4, p. 5, row 12; `ORC-KWX3VP7GTU` |  |
+| Phase transition | 1338.15 K | 1338.15 | T_m; _AlSb: Sb 0.5_ | model | [2] Coughanowr 1990; _cites ref. 38_ | Table 4, p. 5, row 3; `ORC-N73B4ZGOTA` |  |
+| Phase transition | 1338.15 K | 1338.15 | T_m; _AlSb: Sb 0.5_ | model | [2] Coughanowr 1990; _cites ref. 37_ | Table 4, p. 5, row 1; `ORC-XAUEYZFOXS` |  |
 
 ### Formation (3)
 
@@ -127,9 +127,9 @@ Table: Formation, Al–Sb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy of formation; _printed: ΔSf_ | -42.13 J/mol (basis unstated)/K | 298.15 | AlSb; _alloy: Sb 0.5_ | model | [1] Balakumar 2005 | Table 5, p. 7, row 5 |  |
-| Entropy of formation; _printed: ΔSf_ | -51.6 J/mol (basis unstated)/K | 298.15 | AlSb; _alloy: Sb 0.5_ | model | [1] Balakumar 2005; _cites Jones 1941_ | Table 5, p. 7, row 1 |  |
-| Entropy of formation; _printed: ΔSf_ | -36.13 J/mol (basis unstated)/K | 298.15 | AlSb; _alloy: Sb 0.5_ | model | [1] Balakumar 2005; _cites Coughanowr 1990_ [doi](https://doi.org/10.1016/0364-5916%2890%2990020-z) | Table 5, p. 7, row 2 |  |
+| Entropy of formation; _printed: ΔSf_ | -42.13 J/mol (basis unstated)/K | 298.15 | AlSb; _alloy: Sb 0.5_ | model | [1] Balakumar 2005 | Table 5, p. 7, row 5; `ORC-4ZDXOL6OHZ.b73c72` |  |
+| Entropy of formation; _printed: ΔSf_ | -51.6 J/mol (basis unstated)/K | 298.15 | AlSb; _alloy: Sb 0.5_ | model | [1] Balakumar 2005; _cites Jones 1941_ | Table 5, p. 7, row 1; `ORC-ATLFNG2KIE.89eb59` |  |
+| Entropy of formation; _printed: ΔSf_ | -36.13 J/mol (basis unstated)/K | 298.15 | AlSb; _alloy: Sb 0.5_ | model | [1] Balakumar 2005; _cites Coughanowr 1990_ [doi](https://doi.org/10.1016/0364-5916%2890%2990020-z) | Table 5, p. 7, row 2; `ORC-JMW4UGZ6PO.52dd41` |  |
 
 ### Crystal structure (1)
 
@@ -137,7 +137,7 @@ Table: Crystal structure, Al–Sb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 6.135 Å | 298.15 | AlSb; _alloy: Sb 0.5_ | unspecified | [3] Zhang 2009 | Table 1, p. 2, row 1 |  |
+| Lattice a | 6.135 Å | 298.15 | AlSb; _alloy: Sb 0.5_ | unspecified | [3] Zhang 2009 | Table 1, p. 2, row 1; `ORC-NBPN7NDGID` |  |
 
 ## Sources
 
@@ -204,4 +204,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -14,10 +14,10 @@ Table: Enthalpy of formation of Ag5Te3 reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -8.45 kJ/mol-atom | αAg5Te3 | 523 | experimental |  | [Ag–Te](https://data.orchid-project.org/systems/AG-TE.html) | [1] Gierlotka 2009; _cites Zaleska 1975_ | Table 4, p. 4, row 8 |  |
-| -8.07 kJ/mol-atom | βAg5Te3 | 693 | experimental |  | [Ag–Te](https://data.orchid-project.org/systems/AG-TE.html) | [1] Gierlotka 2009; _cites Castanet 1974_ | Table 4, p. 4, row 6 |  |
-| -12.8 kJ/mol-atom | αAg5Te3 | 523 | model |  | [Ag–Te](https://data.orchid-project.org/systems/AG-TE.html) | [1] Gierlotka 2009 | Table 4, p. 4, row 7 |  |
-| -4.356 kJ/mol-atom | βAg5Te3 | 693 | model |  | [Ag–Te](https://data.orchid-project.org/systems/AG-TE.html) | [1] Gierlotka 2009 | Table 4, p. 4, row 5 |  |
+| -8.45 kJ/mol-atom | αAg5Te3 | 523 | experimental |  | [Ag–Te](https://data.orchid-project.org/systems/AG-TE.html) | [1] Gierlotka 2009; _cites Zaleska 1975_ | Table 4, p. 4, row 8; `ORC-GZ7BAXMFYM` |  |
+| -8.07 kJ/mol-atom | βAg5Te3 | 693 | experimental |  | [Ag–Te](https://data.orchid-project.org/systems/AG-TE.html) | [1] Gierlotka 2009; _cites Castanet 1974_ | Table 4, p. 4, row 6; `ORC-HLJMVMJS6D` |  |
+| -12.8 kJ/mol-atom | αAg5Te3 | 523 | model |  | [Ag–Te](https://data.orchid-project.org/systems/AG-TE.html) | [1] Gierlotka 2009 | Table 4, p. 4, row 7; `ORC-B3K345H6LN` |  |
+| -4.356 kJ/mol-atom | βAg5Te3 | 693 | model |  | [Ag–Te](https://data.orchid-project.org/systems/AG-TE.html) | [1] Gierlotka 2009 | Table 4, p. 4, row 5; `ORC-DHNXHKUW6K` |  |
 
 ### Uncertainty budget
 
@@ -83,4 +83,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

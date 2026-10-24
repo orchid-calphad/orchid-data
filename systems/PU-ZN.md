@@ -63,49 +63,49 @@ Table: Invariant reactions reported in the literature for the Pu–Zn system (43
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1208.15 | congruent melting: L ↔ PuZn2 | L: Zn 0.667; PuZn2: Zn 0.667 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 4, p. 4, row 1 |  |
-| 1208.15 | congruent melting: L ↔ PuZn2 | L: Zn 0.667; PuZn2: Zn 0.667 | experimental | [1] Liu 2014; _cites Albrecht 1964_ [doi](https://doi.org/10.1016/0022-3115%2864%2990131-x) | Table 4, p. 4, row 2 |  |
-| 1204.15 | congruent melting: L ↔ PuZn2 | L: Zn 0.667; PuZn2: Zn 0.667 | model | [1] Liu 2014 | Table 4, p. 4, row 3 |  |
-| 1201.15 | congruent melting: L ↔ Pu2Zn17 | L: Zn 0.895; Pu2Zn17: Zn 0.895 | experimental | [1] Liu 2014; _cites Cramer 1967_ [doi](https://doi.org/10.1016/0022-5088%2867%2990052-5) | Table 4, p. 4, row 5 |  |
-| 1201.15 | congruent melting: L ↔ Pu2Zn17 | L: Zn 0.895; Pu2Zn17: Zn 0.895 | model | [1] Liu 2014 | Table 4, p. 4, row 6 |  |
-| 1201.15 | congruent melting: L ↔ Pu2Zn17 | L: Zn 0.895; Pu2Zn17: Zn 0.895 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 4, p. 4, row 4 |  |
-| 1163.15 | peritectic: L + Pu2Zn17 ↔ Pu3Zn22 | Pu2Zn17: Zn 0.895; Pu3Zn22: Pu 0.12, Zn 0.88 | experimental | [1] Liu 2014; _cites Cramer 1967_ [doi](https://doi.org/10.1016/0022-5088%2867%2990052-5) | Table 4, p. 4, row 27 |  |
-| 1163.15 | peritectic: L + Pu2Zn17 ↔ Pu3Zn22 | L: Zn 0.84; Pu2Zn17: Zn 0.895; Pu3Zn22: Zn 0.88 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 4, p. 4, row 26 |  |
-| 1163.15 | peritectic: L + Pu2Zn17 ↔ Pu3Zn22 | L: Zn 0.834; Pu2Zn17: Zn 0.895; Pu3Zn22: Zn 0.88 | model | [1] Liu 2014 | Table 4, p. 4, row 28 |  |
-| 1163.15 | peritectic |  | experimental | [1] Liu 2014; _cites Cramer 1967_ [doi](https://doi.org/10.1016/0022-5088%2867%2990052-5) | p. 3 | “Additionally, Cramer et al. \[21\] detected a new phase, tentatively named PuZn7.7, which was produced by a peritectic reaction at 890 °C, and three hexagonal super-lattice phases (j, j0 and k) presenting thermal effects at 811 °C, 770 °C and 700 °C, respectively.” |
-| 1152.15 | peritectic: L + Pu3Zn22 ↔ Pu13Zn58 | L: Zn 0.817; Pu3Zn22: Pu 0.12, Zn 0.88; Pu13Zn58: Pu 0.183099, Zn 0.816901 | experimental | [1] Liu 2014; _cites Cramer 1967_ [doi](https://doi.org/10.1016/0022-5088%2867%2990052-5) | Table 4, p. 4, row 30 |  |
-| 1152.15 | peritectic: L + Pu3Zn22 ↔ Pu13Zn58 | L: Zn 0.816; Pu3Zn22: Zn 0.88; Pu13Zn58: Zn 0.817 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 4, p. 4, row 29 |  |
-| 1152.15 | peritectic |  | experimental | [1] Liu 2014; _cites Cramer 1967_ [doi](https://doi.org/10.1016/0022-5088%2867%2990052-5) | p. 3 | “Apart from these, Pu2Zn17 was identified with a rhombohedral symmetry \[16\], which melts congruently at 928 °C \[21\], and Pu2Zn9 phase was demonstrated by Cramer et al. \[21\] to be the result of a peritectic transforming, L + PuZn7.7 M Pu2Zn9, at 879 °C with a composition very close to the stoichiometric composition.” |
-| 1146.15 | peritectic: L + Pu3Zn22 ↔ Pu13Zn58 | L: Zn 0.816; Pu3Zn22: Zn 0.88; Pu13Zn58: Zn 0.816 | model | [1] Liu 2014 | Table 4, p. 4, row 31 |  |
-| 1104.15 | eutectic: L ↔ PuZn2 + Pu13Zn58 | L: Zn 0.749; PuZn2: Zn 0.667; Pu13Zn58: Zn 0.813 | model | [1] Liu 2014 | Table 4, p. 4, row 18 |  |
-| 1103.15 | eutectic: L ↔ PuZn2 + Pu13Zn58 | L: Zn 0.74; PuZn2: Zn 0.667; Pu13Zn58: Pu 0.183099, Zn 0.816901 | experimental | [1] Liu 2014; _cites Cramer 1960_ | Table 4, p. 4, row 14 |  |
-| 1103.15 | eutectic: L ↔ PuZn2 + Pu13Zn58 | L: Zn 0.74; PuZn2: Zn 0.667; Pu13Zn58: Pu 0.183099, Zn 0.816901 | experimental | [1] Liu 2014; _cites Albrecht 1964_ [doi](https://doi.org/10.1016/0022-3115%2864%2990131-x) | Table 4, p. 4, row 16 |  |
-| 1100.15 | eutectic: L ↔ PuZn2 + Pu13Zn58 | PuZn2: Pu 0.333333, Zn 0.666667; Pu13Zn58: Pu 0.183099, Zn 0.816901 | experimental | [1] Liu 2014; _cites Cramer 1967_ [doi](https://doi.org/10.1016/0022-5088%2867%2990052-5) | Table 4, p. 4, row 17 |  |
-| 1100.15 | eutectic: L ↔ PuZn2 + Pu13Zn58 | L: Zn 0.74; PuZn2: Zn 0.667; Pu13Zn58: Zn 0.807 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 4, p. 4, row 15 |  |
-| 1085.15 | peritectic: L + Pu2Zn17 ↔ κ | Pu2Zn17: Zn 0.895; κ: Pu 0.1, Zn 0.9 | experimental | [1] Liu 2014; _cites Cramer 1967_ [doi](https://doi.org/10.1016/0022-5088%2867%2990052-5) | Table 4, p. 4, row 33 |  |
-| 1085.15 | peritectic: L + Pu2Zn17 ↔ κ | L: Zn 0.972; Pu2Zn17: Zn 0.895; κ: Zn 0.9 | model | [1] Liu 2014 | Table 4, p. 4, row 34 |  |
-| 1085.15 | peritectic: L + Pu2Zn17 ↔ κ | L: Zn 0.967; Pu2Zn17: Zn 0.895; κ: Zn 0.9 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 4, p. 4, row 32 |  |
-| 1043.15 | polymorphic: κ ↔ κ′ | κ: Zn 0.9; κ′: Pu 0.1, Zn 0.9 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 4, p. 4, row 7 |  |
-| 1043.15 | polymorphic: κ ↔ κ′ | κ: Pu 0.1, Zn 0.9; κ′: Pu 0.1, Zn 0.9 | experimental | [1] Liu 2014; _cites Cramer 1967_ [doi](https://doi.org/10.1016/0022-5088%2867%2990052-5) | Table 4, p. 4, row 8 |  |
-| 1043.15 | polymorphic: κ ↔ κ′ | κ: Zn 0.9; κ′: Pu 0.1, Zn 0.9 | model | [1] Liu 2014 | Table 4, p. 4, row 9 |  |
-| 973.15 | peritectic: L + κ′ ↔ λ | L: Zn 0.994; κ′: Zn 0.9; λ: Zn 0.905 | model | [1] Liu 2014 | Table 4, p. 4, row 37 |  |
-| 973.15 | peritectic: L + κ′ ↔ λ | κ′: Pu 0.1, Zn 0.9; λ: Pu 0.095, Zn 0.905 | experimental | [1] Liu 2014; _cites Cramer 1967_ [doi](https://doi.org/10.1016/0022-5088%2867%2990052-5) | Table 4, p. 4, row 36 |  |
-| 973.15 | peritectic: L + κ′ ↔ λ | L: Zn 0.987; κ′: Zn 0.9; λ: Zn 0.905 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 4, p. 4, row 35 |  |
-| 968.15 | peritectic: L + PuZn2 ↔ (εPu) | L: Zn 0.042; PuZn2: Zn 0.667; (εPu): Zn 0.049 | model | [1] Liu 2014 | Table 4, p. 4, row 40 |  |
-| 968.15 | peritectic: L + PuZn2 ↔ (εPu) | L: Zn 0.012; PuZn2: Zn 0.667; (εPu): Zn 0.04 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 4, p. 4, row 39 |  |
-| 968.15 | peritectic: L + PuZn2 ↔ (εPu) | PuZn2: Pu 0.333333, Zn 0.666667 | experimental | [1] Liu 2014; _cites Cramer 1960_ | Table 4, p. 4, row 38 |  |
-| 763.15 | peritectoid: PuZn2 + (εPu) ↔ (δPu) | PuZn2: Zn 0.667; (εPu): Zn 0.009; (δPu): Zn 0.04 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 4, p. 4, row 42 |  |
-| 763.15 | peritectoid: PuZn2 + (εPu) ↔ (δPu) | PuZn2: Zn 0.667; (εPu): Zn 0.034; (δPu): Zn 0.037 | model | [1] Liu 2014 | Table 4, p. 4, row 43 |  |
-| 763.15 | peritectoid: PuZn2 + (εPu) ↔ (δPu) | PuZn2: Pu 0.333333, Zn 0.666667 | experimental | [1] Liu 2014; _cites Cramer 1960_ | Table 4, p. 4, row 41 |  |
-| 756.15 | peritectoid: (εPu) + (δPu) ↔ (δ′Pu) | (εPu): Zn 0.003; (δPu): Zn 0.004 | model | [1] Liu 2014 | Table 4, p. 4, row 44 |  |
-| 693.15 | eutectic: L ↔ λ + (Zn) | L: Zn 1; λ: Zn 0.905; (Zn): Zn 1 | model | [1] Liu 2014 | Table 4, p. 4, row 22 |  |
-| 693.15 | eutectic: L ↔ λ + (Zn) | λ: Pu 0.095, Zn 0.905 | experimental | [1] Liu 2014; _cites Cramer 1967_ [doi](https://doi.org/10.1016/0022-5088%2867%2990052-5) | Table 4, p. 4, row 21 |  |
-| 693.15 | eutectic: L ↔ λ + (Zn) | L: Zn 1; λ: Zn 0.905; (Zn): Zn 1 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 4, p. 4, row 19 |  |
-| 692.15 | eutectic: L ↔ λ + (Zn) | λ: Pu 0.095, Zn 0.905 | experimental | [1] Liu 2014; _cites Albrecht 1964_ [doi](https://doi.org/10.1016/0022-3115%2864%2990131-x) | Table 4, p. 4, row 20 |  |
-| 513.15 | eutectoid: (δPu) ↔ PuZn2 + (γPu) | (δPu): Zn 0.019; PuZn2: Zn 0.667; (γPu): Zn 0.001 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 4, p. 4, row 24 |  |
-| 513.15 | eutectoid: (δPu) ↔ PuZn2 + (γPu) | (δPu): Zn 0.018; PuZn2: Pu 0.333333, Zn 0.666667 | experimental | [1] Liu 2014; _cites Cramer 1960_ | Table 4, p. 4, row 23 |  |
-| 513.15 | eutectoid |  | experimental | [1] Liu 2014; _cites Cramer 1960_ | p. 3 | “the reaction, (dPu) M PuZn2 + (cPu), was reported to be 1.8 at.% Zn at 240 °C by Cramer \[18\].” |
-| 513.15 | eutectoid: (δPu) ↔ PuZn2 + (γPu) | (δPu): Zn 0.021; PuZn2: Zn 0.667; (γPu): Zn 0 | model | [1] Liu 2014 | Table 4, p. 4, row 25 |  |
+| 1208.15 | congruent melting: L ↔ PuZn2 | L: Zn 0.667; PuZn2: Zn 0.667 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 4, p. 4, row 1; `ORC-CMXDCYFMKJ` |  |
+| 1208.15 | congruent melting: L ↔ PuZn2 | L: Zn 0.667; PuZn2: Zn 0.667 | experimental | [1] Liu 2014; _cites Albrecht 1964_ [doi](https://doi.org/10.1016/0022-3115%2864%2990131-x) | Table 4, p. 4, row 2; `ORC-Z23EHJSSPR` |  |
+| 1204.15 | congruent melting: L ↔ PuZn2 | L: Zn 0.667; PuZn2: Zn 0.667 | model | [1] Liu 2014 | Table 4, p. 4, row 3; `ORC-LUWFVFOEMO` |  |
+| 1201.15 | congruent melting: L ↔ Pu2Zn17 | L: Zn 0.895; Pu2Zn17: Zn 0.895 | experimental | [1] Liu 2014; _cites Cramer 1967_ [doi](https://doi.org/10.1016/0022-5088%2867%2990052-5) | Table 4, p. 4, row 5; `ORC-NIJ6DJUAOB` |  |
+| 1201.15 | congruent melting: L ↔ Pu2Zn17 | L: Zn 0.895; Pu2Zn17: Zn 0.895 | model | [1] Liu 2014 | Table 4, p. 4, row 6; `ORC-PWZP3BCPV7` |  |
+| 1201.15 | congruent melting: L ↔ Pu2Zn17 | L: Zn 0.895; Pu2Zn17: Zn 0.895 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 4, p. 4, row 4; `ORC-ZMREYQ37XI` |  |
+| 1163.15 | peritectic: L + Pu2Zn17 ↔ Pu3Zn22 | Pu2Zn17: Zn 0.895; Pu3Zn22: Pu 0.12, Zn 0.88 | experimental | [1] Liu 2014; _cites Cramer 1967_ [doi](https://doi.org/10.1016/0022-5088%2867%2990052-5) | Table 4, p. 4, row 27; `ORC-32NE6PPXUB` |  |
+| 1163.15 | peritectic: L + Pu2Zn17 ↔ Pu3Zn22 | L: Zn 0.84; Pu2Zn17: Zn 0.895; Pu3Zn22: Zn 0.88 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 4, p. 4, row 26; `ORC-LSBZXVCFQI` |  |
+| 1163.15 | peritectic: L + Pu2Zn17 ↔ Pu3Zn22 | L: Zn 0.834; Pu2Zn17: Zn 0.895; Pu3Zn22: Zn 0.88 | model | [1] Liu 2014 | Table 4, p. 4, row 28; `ORC-PNOK7DAKBO` |  |
+| 1163.15 | peritectic |  | experimental | [1] Liu 2014; _cites Cramer 1967_ [doi](https://doi.org/10.1016/0022-5088%2867%2990052-5) | p. 3; `ORC-QIODIOJ43L` | “Additionally, Cramer et al. \[21\] detected a new phase, tentatively named PuZn7.7, which was produced by a peritectic reaction at 890 °C, and three hexagonal super-lattice phases (j, j0 and k) presenting thermal effects at 811 °C, 770 °C and 700 °C, respectively.” |
+| 1152.15 | peritectic: L + Pu3Zn22 ↔ Pu13Zn58 | L: Zn 0.817; Pu3Zn22: Pu 0.12, Zn 0.88; Pu13Zn58: Pu 0.183099, Zn 0.816901 | experimental | [1] Liu 2014; _cites Cramer 1967_ [doi](https://doi.org/10.1016/0022-5088%2867%2990052-5) | Table 4, p. 4, row 30; `ORC-E4EUMVAHL5` |  |
+| 1152.15 | peritectic: L + Pu3Zn22 ↔ Pu13Zn58 | L: Zn 0.816; Pu3Zn22: Zn 0.88; Pu13Zn58: Zn 0.817 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 4, p. 4, row 29; `ORC-FDPGEN6ZJ4` |  |
+| 1152.15 | peritectic |  | experimental | [1] Liu 2014; _cites Cramer 1967_ [doi](https://doi.org/10.1016/0022-5088%2867%2990052-5) | p. 3; `ORC-JAP76D23F3.2a8c45` | “Apart from these, Pu2Zn17 was identified with a rhombohedral symmetry \[16\], which melts congruently at 928 °C \[21\], and Pu2Zn9 phase was demonstrated by Cramer et al. \[21\] to be the result of a peritectic transforming, L + PuZn7.7 M Pu2Zn9, at 879 °C with a composition very close to the stoichiometric composition.” |
+| 1146.15 | peritectic: L + Pu3Zn22 ↔ Pu13Zn58 | L: Zn 0.816; Pu3Zn22: Zn 0.88; Pu13Zn58: Zn 0.816 | model | [1] Liu 2014 | Table 4, p. 4, row 31; `ORC-KDBWZGLCIM` |  |
+| 1104.15 | eutectic: L ↔ PuZn2 + Pu13Zn58 | L: Zn 0.749; PuZn2: Zn 0.667; Pu13Zn58: Zn 0.813 | model | [1] Liu 2014 | Table 4, p. 4, row 18; `ORC-V4O74F3SUX` |  |
+| 1103.15 | eutectic: L ↔ PuZn2 + Pu13Zn58 | L: Zn 0.74; PuZn2: Zn 0.667; Pu13Zn58: Pu 0.183099, Zn 0.816901 | experimental | [1] Liu 2014; _cites Cramer 1960_ | Table 4, p. 4, row 14; `ORC-JIQKT7E5BR` |  |
+| 1103.15 | eutectic: L ↔ PuZn2 + Pu13Zn58 | L: Zn 0.74; PuZn2: Zn 0.667; Pu13Zn58: Pu 0.183099, Zn 0.816901 | experimental | [1] Liu 2014; _cites Albrecht 1964_ [doi](https://doi.org/10.1016/0022-3115%2864%2990131-x) | Table 4, p. 4, row 16; `ORC-W3WFYIBFRP` |  |
+| 1100.15 | eutectic: L ↔ PuZn2 + Pu13Zn58 | PuZn2: Pu 0.333333, Zn 0.666667; Pu13Zn58: Pu 0.183099, Zn 0.816901 | experimental | [1] Liu 2014; _cites Cramer 1967_ [doi](https://doi.org/10.1016/0022-5088%2867%2990052-5) | Table 4, p. 4, row 17; `ORC-TSP2AB3MWO` |  |
+| 1100.15 | eutectic: L ↔ PuZn2 + Pu13Zn58 | L: Zn 0.74; PuZn2: Zn 0.667; Pu13Zn58: Zn 0.807 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 4, p. 4, row 15; `ORC-X2HJ3IHJIN` |  |
+| 1085.15 | peritectic: L + Pu2Zn17 ↔ κ | Pu2Zn17: Zn 0.895; κ: Pu 0.1, Zn 0.9 | experimental | [1] Liu 2014; _cites Cramer 1967_ [doi](https://doi.org/10.1016/0022-5088%2867%2990052-5) | Table 4, p. 4, row 33; `ORC-MWZ5IDROTE` |  |
+| 1085.15 | peritectic: L + Pu2Zn17 ↔ κ | L: Zn 0.972; Pu2Zn17: Zn 0.895; κ: Zn 0.9 | model | [1] Liu 2014 | Table 4, p. 4, row 34; `ORC-S52MOLCRZX` |  |
+| 1085.15 | peritectic: L + Pu2Zn17 ↔ κ | L: Zn 0.967; Pu2Zn17: Zn 0.895; κ: Zn 0.9 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 4, p. 4, row 32; `ORC-WC5ILSEYMY` |  |
+| 1043.15 | polymorphic: κ ↔ κ′ | κ: Zn 0.9; κ′: Pu 0.1, Zn 0.9 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 4, p. 4, row 7; `ORC-ABY6AKIXND` |  |
+| 1043.15 | polymorphic: κ ↔ κ′ | κ: Pu 0.1, Zn 0.9; κ′: Pu 0.1, Zn 0.9 | experimental | [1] Liu 2014; _cites Cramer 1967_ [doi](https://doi.org/10.1016/0022-5088%2867%2990052-5) | Table 4, p. 4, row 8; `ORC-UVIL64FWAW` |  |
+| 1043.15 | polymorphic: κ ↔ κ′ | κ: Zn 0.9; κ′: Pu 0.1, Zn 0.9 | model | [1] Liu 2014 | Table 4, p. 4, row 9; `ORC-VWJX3ASGRL` |  |
+| 973.15 | peritectic: L + κ′ ↔ λ | L: Zn 0.994; κ′: Zn 0.9; λ: Zn 0.905 | model | [1] Liu 2014 | Table 4, p. 4, row 37; `ORC-5LGC3DNGEI` |  |
+| 973.15 | peritectic: L + κ′ ↔ λ | κ′: Pu 0.1, Zn 0.9; λ: Pu 0.095, Zn 0.905 | experimental | [1] Liu 2014; _cites Cramer 1967_ [doi](https://doi.org/10.1016/0022-5088%2867%2990052-5) | Table 4, p. 4, row 36; `ORC-BYK3OZGQWZ` |  |
+| 973.15 | peritectic: L + κ′ ↔ λ | L: Zn 0.987; κ′: Zn 0.9; λ: Zn 0.905 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 4, p. 4, row 35; `ORC-XORZGIKMC6` |  |
+| 968.15 | peritectic: L + PuZn2 ↔ (εPu) | L: Zn 0.042; PuZn2: Zn 0.667; (εPu): Zn 0.049 | model | [1] Liu 2014 | Table 4, p. 4, row 40; `ORC-GKJ7ULTVGC` |  |
+| 968.15 | peritectic: L + PuZn2 ↔ (εPu) | L: Zn 0.012; PuZn2: Zn 0.667; (εPu): Zn 0.04 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 4, p. 4, row 39; `ORC-I7XNQDXT3N` |  |
+| 968.15 | peritectic: L + PuZn2 ↔ (εPu) | PuZn2: Pu 0.333333, Zn 0.666667 | experimental | [1] Liu 2014; _cites Cramer 1960_ | Table 4, p. 4, row 38; `ORC-S6OF5D6LUS` |  |
+| 763.15 | peritectoid: PuZn2 + (εPu) ↔ (δPu) | PuZn2: Zn 0.667; (εPu): Zn 0.009; (δPu): Zn 0.04 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 4, p. 4, row 42; `ORC-DJEIADPFV4` |  |
+| 763.15 | peritectoid: PuZn2 + (εPu) ↔ (δPu) | PuZn2: Zn 0.667; (εPu): Zn 0.034; (δPu): Zn 0.037 | model | [1] Liu 2014 | Table 4, p. 4, row 43; `ORC-KHUSY5CY6O` |  |
+| 763.15 | peritectoid: PuZn2 + (εPu) ↔ (δPu) | PuZn2: Pu 0.333333, Zn 0.666667 | experimental | [1] Liu 2014; _cites Cramer 1960_ | Table 4, p. 4, row 41; `ORC-WR2QS34RDY` |  |
+| 756.15 | peritectoid: (εPu) + (δPu) ↔ (δ′Pu) | (εPu): Zn 0.003; (δPu): Zn 0.004 | model | [1] Liu 2014 | Table 4, p. 4, row 44; `ORC-DPLI6F25VW` |  |
+| 693.15 | eutectic: L ↔ λ + (Zn) | L: Zn 1; λ: Zn 0.905; (Zn): Zn 1 | model | [1] Liu 2014 | Table 4, p. 4, row 22; `ORC-7Z3PVCBBN5` |  |
+| 693.15 | eutectic: L ↔ λ + (Zn) | λ: Pu 0.095, Zn 0.905 | experimental | [1] Liu 2014; _cites Cramer 1967_ [doi](https://doi.org/10.1016/0022-5088%2867%2990052-5) | Table 4, p. 4, row 21; `ORC-XKYHTVNII4` |  |
+| 693.15 | eutectic: L ↔ λ + (Zn) | L: Zn 1; λ: Zn 0.905; (Zn): Zn 1 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 4, p. 4, row 19; `ORC-ZGXYGMJ5XP` |  |
+| 692.15 | eutectic: L ↔ λ + (Zn) | λ: Pu 0.095, Zn 0.905 | experimental | [1] Liu 2014; _cites Albrecht 1964_ [doi](https://doi.org/10.1016/0022-3115%2864%2990131-x) | Table 4, p. 4, row 20; `ORC-KGEGVBE4OY` |  |
+| 513.15 | eutectoid: (δPu) ↔ PuZn2 + (γPu) | (δPu): Zn 0.019; PuZn2: Zn 0.667; (γPu): Zn 0.001 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 4, p. 4, row 24; `ORC-K6LMQY6XEY` |  |
+| 513.15 | eutectoid: (δPu) ↔ PuZn2 + (γPu) | (δPu): Zn 0.018; PuZn2: Pu 0.333333, Zn 0.666667 | experimental | [1] Liu 2014; _cites Cramer 1960_ | Table 4, p. 4, row 23; `ORC-UL7JLFOI6X` |  |
+| 513.15 | eutectoid |  | experimental | [1] Liu 2014; _cites Cramer 1960_ | p. 3; `ORC-UUN5TGRE4E` | “the reaction, (dPu) M PuZn2 + (cPu), was reported to be 1.8 at.% Zn at 240 °C by Cramer \[18\].” |
+| 513.15 | eutectoid: (δPu) ↔ PuZn2 + (γPu) | (δPu): Zn 0.021; PuZn2: Zn 0.667; (γPu): Zn 0 | model | [1] Liu 2014 | Table 4, p. 4, row 25; `ORC-ZE4O7NC3FU` |  |
 
 ## Other properties
 
@@ -115,7 +115,7 @@ Table: Phase transition, Pu–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1201.15 K | 1201.15 | congruent transformation | experimental | [1] Liu 2014; _cites Cramer 1967_ [doi](https://doi.org/10.1016/0022-5088%2867%2990052-5) | p. 3 | “Apart from these, Pu2Zn17 was identified with a rhombohedral symmetry \[16\], which melts congruently at 928 °C \[21\], and Pu2Zn9 phase was demonstrated by Cramer et al. \[21\] to be the result of a peritectic transforming, L + PuZn7.7 M Pu2Zn9, at 879 °C with a composition very close to the stoichiometric composition.” |
+| Phase transition | 1201.15 K | 1201.15 | congruent transformation | experimental | [1] Liu 2014; _cites Cramer 1967_ [doi](https://doi.org/10.1016/0022-5088%2867%2990052-5) | p. 3; `ORC-JAP76D23F3.63ff4a` | “Apart from these, Pu2Zn17 was identified with a rhombohedral symmetry \[16\], which melts congruently at 928 °C \[21\], and Pu2Zn9 phase was demonstrated by Cramer et al. \[21\] to be the result of a peritectic transforming, L + PuZn7.7 M Pu2Zn9, at 879 °C with a composition very close to the stoichiometric composition.” |
 
 ## Sources
 
@@ -180,4 +180,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

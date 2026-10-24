@@ -49,22 +49,22 @@ Table: Invariant reactions reported in the literature for the Ce–Cr system (16
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2092.55 | L1 -> L2 + Cr | L1: Ce 0.039; L2: Ce 0.961 | unspecified | [1] Chan 2009; _cites Ray 2009_ | Table 2, p. 5, row 3 |  |
-| 2063.15 | L1 -> L2 + Cr | L1: Ce 0.0185; L2: Ce 0.71; Cr: Ce 0.0125 | experimental | [1] Chan 2009; _cites Massalski 1990_ | Table 2, p. 5, row 2 |  |
-| 2053.15 | L1 -> L2 + Cr | L1: Ce 0.0482; Cr: Ce 0.0272 | experimental | [1] Chan 2009; _cites Savitskii 1959_ | Table 2, p. 5, row 1 |  |
-| 2052.15 | L1 -> L2 + Cr | L1: Ce 0.135; L2: Ce 0.667; Cr: Ce 0.023 | model | [1] Chan 2009 | Table 2, p. 5, row 4 |  |
-| 1070.65 | L2 -> Cr + δCe | L2: Ce 0.9998 | unspecified | [1] Chan 2009; _cites Ray 2009_ | Table 2, p. 5, row 8 |  |
-| 1058.15 | L2 -> Cr + δCe | L2: Ce 0.95; Cr: Ce 0; δCe: Ce 0.985 | experimental | [1] Chan 2009; _cites Massalski 1990_ | Table 2, p. 5, row 6 |  |
-| 1058.15 | eutectic |  | model | [1] Chan 2009; _cites Massalski 1990_ | p. 2 | “According to Massalski et al.,\[4\] a eutectic reaction: Liquid M Cr + dCe occurs at 785 °C at around 5 at.% Cr and a eutectoid reaction: dCe M Cr + cCe occurs at 715 °C at around 1 at.% Cr.” |
-| 1054.15 | eutectic |  | model | [1] Chan 2009 | p. 7 | “Further, the eutectic point is highest for Cr-Y (about 1329 °C), while it is lowest for Cr-Ce (about 781 °C).” |
-| 1054.15 | L2 -> Cr + δCe | L2: Ce 0.976; Cr: Ce 0.001; δCe: Ce 0.982 | model | [1] Chan 2009 | Table 2, p. 5, row 9 |  |
-| 1053.15 | eutectic |  | experimental | [1] Chan 2009; _cites Savitskii 1959_ | p. 2 | “The eutectic temperature was determined to be 780 °C based on thermal analysis of cerium-rich alloys.\[10\]” |
-| 1053.15 | L2 -> Cr + δCe |  | experimental | [1] Chan 2009; _cites Savitskii 1959_ | Table 2, p. 5, row 5 |  |
-| 1044.15 | L2 -> Cr + δCe | L2: Ce 0.9826 | unspecified | [1] Chan 2009; _cites Terekhova 1990_ | Table 2, p. 5, row 7 |  |
-| 989.15 | δCe -> Cr + γCe | δCe: Ce 0.988; Cr: Ce 6.000e-4; γCe: Ce 0.993 | model | [1] Chan 2009 | Table 2, p. 5, row 11 |  |
-| 988.15 | δCe -> Cr + γCe | δCe: Ce 0.99; Cr: Ce 0; γCe: Ce 0.995 | experimental | [1] Chan 2009; _cites Massalski 1990_ | Table 2, p. 5, row 10 |  |
-| 334.15 | γCe -> Cr + αCe | γCe: Ce 1; Cr: Ce 0 | model | [1] Chan 2009 | Table 2, p. 5, row 13 |  |
-| 334.15 | γCe -> Cr + αCe |  | experimental | [1] Chan 2009; _cites Massalski 1990_ | Table 2, p. 5, row 12 |  |
+| 2092.55 | L1 -> L2 + Cr | L1: Ce 0.039; L2: Ce 0.961 | unspecified | [1] Chan 2009; _cites Ray 2009_ | Table 2, p. 5, row 3; `ORC-P2D4ESMMM7` |  |
+| 2063.15 | L1 -> L2 + Cr | L1: Ce 0.0185; L2: Ce 0.71; Cr: Ce 0.0125 | experimental | [1] Chan 2009; _cites Massalski 1990_ | Table 2, p. 5, row 2; `ORC-HQA52VTE6E` |  |
+| 2053.15 | L1 -> L2 + Cr | L1: Ce 0.0482; Cr: Ce 0.0272 | experimental | [1] Chan 2009; _cites Savitskii 1959_ | Table 2, p. 5, row 1; `ORC-VH4HS7XENQ` |  |
+| 2052.15 | L1 -> L2 + Cr | L1: Ce 0.135; L2: Ce 0.667; Cr: Ce 0.023 | model | [1] Chan 2009 | Table 2, p. 5, row 4; `ORC-L4PEZ4U77Z` |  |
+| 1070.65 | L2 -> Cr + δCe | L2: Ce 0.9998 | unspecified | [1] Chan 2009; _cites Ray 2009_ | Table 2, p. 5, row 8; `ORC-EEBHG7O4Q4` |  |
+| 1058.15 | L2 -> Cr + δCe | L2: Ce 0.95; Cr: Ce 0; δCe: Ce 0.985 | experimental | [1] Chan 2009; _cites Massalski 1990_ | Table 2, p. 5, row 6; `ORC-F5TKW7J6MS` |  |
+| 1058.15 | eutectic |  | model | [1] Chan 2009; _cites Massalski 1990_ | p. 2; `ORC-WUQ3ZGIBNB.b7a427` | “According to Massalski et al.,\[4\] a eutectic reaction: Liquid M Cr + dCe occurs at 785 °C at around 5 at.% Cr and a eutectoid reaction: dCe M Cr + cCe occurs at 715 °C at around 1 at.% Cr.” |
+| 1054.15 | eutectic |  | model | [1] Chan 2009 | p. 7; `ORC-77B6K2K7XW.3277bb` | “Further, the eutectic point is highest for Cr-Y (about 1329 °C), while it is lowest for Cr-Ce (about 781 °C).” |
+| 1054.15 | L2 -> Cr + δCe | L2: Ce 0.976; Cr: Ce 0.001; δCe: Ce 0.982 | model | [1] Chan 2009 | Table 2, p. 5, row 9; `ORC-CI66VX6ARC` |  |
+| 1053.15 | eutectic |  | experimental | [1] Chan 2009; _cites Savitskii 1959_ | p. 2; `ORC-JTF4HUV77R` | “The eutectic temperature was determined to be 780 °C based on thermal analysis of cerium-rich alloys.\[10\]” |
+| 1053.15 | L2 -> Cr + δCe |  | experimental | [1] Chan 2009; _cites Savitskii 1959_ | Table 2, p. 5, row 5; `ORC-WXWK5A6ECC` |  |
+| 1044.15 | L2 -> Cr + δCe | L2: Ce 0.9826 | unspecified | [1] Chan 2009; _cites Terekhova 1990_ | Table 2, p. 5, row 7; `ORC-4DFY4GI7X2` |  |
+| 989.15 | δCe -> Cr + γCe | δCe: Ce 0.988; Cr: Ce 6.000e-4; γCe: Ce 0.993 | model | [1] Chan 2009 | Table 2, p. 5, row 11; `ORC-ITMLSHGQ5J` |  |
+| 988.15 | δCe -> Cr + γCe | δCe: Ce 0.99; Cr: Ce 0; γCe: Ce 0.995 | experimental | [1] Chan 2009; _cites Massalski 1990_ | Table 2, p. 5, row 10; `ORC-F7GHN7FSYW` |  |
+| 334.15 | γCe -> Cr + αCe | γCe: Ce 1; Cr: Ce 0 | model | [1] Chan 2009 | Table 2, p. 5, row 13; `ORC-PNQLZRDRV5` |  |
+| 334.15 | γCe -> Cr + αCe |  | experimental | [1] Chan 2009; _cites Massalski 1990_ | Table 2, p. 5, row 12; `ORC-Y2EGLJRPGX` |  |
 
 ## Other properties
 
@@ -74,7 +74,7 @@ Table: Phase transition, Ce–Cr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 988.15 K | 988.15 | other | model | [1] Chan 2009; _cites Massalski 1990_ | p. 2 | “According to Massalski et al.,\[4\] a eutectic reaction: Liquid M Cr + dCe occurs at 785 °C at around 5 at.% Cr and a eutectoid reaction: dCe M Cr + cCe occurs at 715 °C at around 1 at.% Cr.” |
+| Phase transition | 988.15 K | 988.15 | other | model | [1] Chan 2009; _cites Massalski 1990_ | p. 2; `ORC-WUQ3ZGIBNB.7bfeaf` | “According to Massalski et al.,\[4\] a eutectic reaction: Liquid M Cr + dCe occurs at 785 °C at around 5 at.% Cr and a eutectoid reaction: dCe M Cr + cCe occurs at 715 °C at around 1 at.% Cr.” |
 
 ## Sources
 
@@ -139,4 +139,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

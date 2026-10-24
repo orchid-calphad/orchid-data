@@ -50,8 +50,8 @@ Table: Invariant reactions reported in the literature for the Bi–Si system (2)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1673.15 | monotectic: Monotectic transformation | Si-rich liquid: Bi 0.033; Bi-rich liquid: Bi 0.967 | model | [1] Olesinski 1985 | Table 2, p. 2, row 1 |  |
-| 1666.15 | monotectic: Monotectic transformation | Si-rich liquid: Bi 0.04; Bi-rich liquid: Bi 0.96 | model | [1] Olesinski 1985; _cites ref. 60Thu_ | Table 2, p. 2, row 3 |  |
+| 1673.15 | monotectic: Monotectic transformation | Si-rich liquid: Bi 0.033; Bi-rich liquid: Bi 0.967 | model | [1] Olesinski 1985 | Table 2, p. 2, row 1; `ORC-SSILTUANW7` |  |
+| 1666.15 | monotectic: Monotectic transformation | Si-rich liquid: Bi 0.04; Bi-rich liquid: Bi 0.96 | model | [1] Olesinski 1985; _cites ref. 60Thu_ | Table 2, p. 2, row 3; `ORC-6VMKGH6ZMP` |  |
 
 ## Other properties
 
@@ -61,12 +61,12 @@ Table: Phase equilibrium, Bi–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 1073.15 | liquid + L; _liquid: Bi 0.99938, Si 6.200e-4; L: Bi 0.99938, Si 6.200e-4_ | experimental | [1] Olesinski 1985; _cites Girault 1977_ | Table 1, p. 2, row 6 |  |
-| Phase composition |  | 1273.15 | liquid + L; _liquid: Bi 0.99738, Si 0.00262; L: Bi 0.99738, Si 0.00262_ | experimental | [1] Olesinski 1985; _cites ref. 60Thu_ | Table 1, p. 2, row 5 |  |
-| Phase composition |  | 1373.15 | liquid + L; _liquid: Bi 0.99456, Si 0.00544; L: Bi 0.99456, Si 0.00544_ | experimental | [1] Olesinski 1985; _cites ref. 60Thu_ | Table 1, p. 2, row 4 |  |
-| Phase composition |  | 1423.15 | liquid + L; _liquid: Bi 0.99168, Si 0.00832; L: Bi 0.99168, Si 0.00832_ | experimental | [1] Olesinski 1985; _cites ref. 60Thu_ | Table 1, p. 2, row 3 |  |
-| Phase composition |  | 1473.15 | liquid + L; _liquid: Bi 0.9887, Si 0.0113; L: Bi 0.9887, Si 0.0113_ | experimental | [1] Olesinski 1985; _cites ref. 60Thu_ | Table 1, p. 2, row 2 |  |
-| Phase composition |  | 1548.15 | liquid + L; _liquid: Bi 0.9807, Si 0.0193; L: Bi 0.9807, Si 0.0193_ | experimental | [1] Olesinski 1985; _cites ref. 60Thu_ | Table 1, p. 2, row 1 |  |
+| Phase composition |  | 1073.15 | liquid + L; _liquid: Bi 0.99938, Si 6.200e-4; L: Bi 0.99938, Si 6.200e-4_ | experimental | [1] Olesinski 1985; _cites Girault 1977_ | Table 1, p. 2, row 6; `ORC-DMQZDIJZPG` |  |
+| Phase composition |  | 1273.15 | liquid + L; _liquid: Bi 0.99738, Si 0.00262; L: Bi 0.99738, Si 0.00262_ | experimental | [1] Olesinski 1985; _cites ref. 60Thu_ | Table 1, p. 2, row 5; `ORC-EZP43UI3SB` |  |
+| Phase composition |  | 1373.15 | liquid + L; _liquid: Bi 0.99456, Si 0.00544; L: Bi 0.99456, Si 0.00544_ | experimental | [1] Olesinski 1985; _cites ref. 60Thu_ | Table 1, p. 2, row 4; `ORC-BOOJNSQTRG` |  |
+| Phase composition |  | 1423.15 | liquid + L; _liquid: Bi 0.99168, Si 0.00832; L: Bi 0.99168, Si 0.00832_ | experimental | [1] Olesinski 1985; _cites ref. 60Thu_ | Table 1, p. 2, row 3; `ORC-5OKA4BW2QJ` |  |
+| Phase composition |  | 1473.15 | liquid + L; _liquid: Bi 0.9887, Si 0.0113; L: Bi 0.9887, Si 0.0113_ | experimental | [1] Olesinski 1985; _cites ref. 60Thu_ | Table 1, p. 2, row 2; `ORC-E4RYVFTHUP` |  |
+| Phase composition |  | 1548.15 | liquid + L; _liquid: Bi 0.9807, Si 0.0193; L: Bi 0.9807, Si 0.0193_ | experimental | [1] Olesinski 1985; _cites ref. 60Thu_ | Table 1, p. 2, row 1; `ORC-4FELAX7HOC` |  |
 
 ### Crystal structure (1)
 
@@ -74,7 +74,7 @@ Table: Crystal structure, Bi–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 5.4306 Å | 298.15 | (Si); _(Si): Bi 1.800e-5, Si 0.999982_ | unspecified | [1] Olesinski 1985 | Table 3, p. 3, row 1 |  |
+| Lattice a | 5.4306 Å | 298.15 | (Si); _(Si): Bi 1.800e-5, Si 0.999982_ | unspecified | [1] Olesinski 1985 | Table 3, p. 3, row 1; `ORC-6RTWONINIU` |  |
 
 ## Sources
 
@@ -139,4 +139,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

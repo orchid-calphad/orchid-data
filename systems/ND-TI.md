@@ -52,16 +52,16 @@ Table: Invariant reactions reported in the literature for the Nd–Ti system (10
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1840 | L2 -> L1 + bcc-Ti |  | experimental | [1] Mattern 2014 | Table 5, p. 7, row 2 |  |
-| 1821 | L2 -> L1 + bcc-Ti | L2: Ti 0.9278; L1: Ti 0.0896; bcc-Ti: Ti 0.9969 | model | [1] Mattern 2014 | Table 5, p. 7, row 1 |  |
-| 1286 | L1 -> bcc-Nd + bcc-Ti | L1: Ti 0.0031; bcc-Nd: Ti 0.0014; bcc-Ti: Ti 0.9993 | model | [1] Mattern 2014 | Table 5, p. 7, row 3 |  |
-| 1278 | L1 -> bcc-Nd + bcc-Ti |  | experimental | [1] Mattern 2014 | Table 5, p. 7, row 4 |  |
-| 1163 | bcc-Nd + bcc-Ti -> hcp-Ti | bcc-Nd: Ti 8.000e-4; bcc-Ti: Ti 0.9996; hcp-Ti: Ti 0.9966 | model | [1] Mattern 2014 | Table 5, p. 7, row 5 |  |
-| 1160 | peritectoid: bcc-Nd(Ti) + bcc-Ti(Nd) -> hcp-Ti |  | experimental | [1] Mattern 2014 | p. 3 | “At T1⁄4 1160 K, DSC event (2), the peritectoid reaction bcc-Nd (Ti) þbcc-Ti(Nd)2hcp-Ti takes place.” |
-| 1160 | bcc-Nd + bcc-Ti -> hcp-Ti |  | experimental | [1] Mattern 2014 | Table 5, p. 7, row 6 |  |
-| 1127 | bcc-Nd -> dhcp-Nd + hcp-Ti | bcc-Nd: Ti 7.000e-4; dhcp-Nd: Ti 3.000e-4; hcp-Ti: Ti 0.9969 | model | [1] Mattern 2014 | Table 5, p. 7, row 7 |  |
-| 1126 | bcc-Nd -> dhcp-Nd + hcp-Ti |  | experimental | [1] Mattern 2014 | Table 5, p. 7, row 8 |  |
-| 1026 | eutectoid: bcc-Nd -> dhcp-Nd + hcp-Ti |  | experimental | [1] Mattern 2014 | p. 3 | “The reaction (1) of the DSC curve at T1⁄4 1026 K corresponds to the eutectoid transformation bcc-Nd2dhcp-Nd þhcp-Ti.” |
+| 1840 | L2 -> L1 + bcc-Ti |  | experimental | [1] Mattern 2014 | Table 5, p. 7, row 2; `ORC-DAZZMHBXYL` |  |
+| 1821 | L2 -> L1 + bcc-Ti | L2: Ti 0.9278; L1: Ti 0.0896; bcc-Ti: Ti 0.9969 | model | [1] Mattern 2014 | Table 5, p. 7, row 1; `ORC-DQTDDWI3S2` |  |
+| 1286 | L1 -> bcc-Nd + bcc-Ti | L1: Ti 0.0031; bcc-Nd: Ti 0.0014; bcc-Ti: Ti 0.9993 | model | [1] Mattern 2014 | Table 5, p. 7, row 3; `ORC-UQUVLD2TZR` |  |
+| 1278 | L1 -> bcc-Nd + bcc-Ti |  | experimental | [1] Mattern 2014 | Table 5, p. 7, row 4; `ORC-22JFYWBEE3` |  |
+| 1163 | bcc-Nd + bcc-Ti -> hcp-Ti | bcc-Nd: Ti 8.000e-4; bcc-Ti: Ti 0.9996; hcp-Ti: Ti 0.9966 | model | [1] Mattern 2014 | Table 5, p. 7, row 5; `ORC-RZOT2RH7FP` |  |
+| 1160 | peritectoid: bcc-Nd(Ti) + bcc-Ti(Nd) -> hcp-Ti |  | experimental | [1] Mattern 2014 | p. 3; `ORC-57FQD3LPED` | “At T1⁄4 1160 K, DSC event (2), the peritectoid reaction bcc-Nd (Ti) þbcc-Ti(Nd)2hcp-Ti takes place.” |
+| 1160 | bcc-Nd + bcc-Ti -> hcp-Ti |  | experimental | [1] Mattern 2014 | Table 5, p. 7, row 6; `ORC-QRMTVTXKPP` |  |
+| 1127 | bcc-Nd -> dhcp-Nd + hcp-Ti | bcc-Nd: Ti 7.000e-4; dhcp-Nd: Ti 3.000e-4; hcp-Ti: Ti 0.9969 | model | [1] Mattern 2014 | Table 5, p. 7, row 7; `ORC-IGH2J6INL5` |  |
+| 1126 | bcc-Nd -> dhcp-Nd + hcp-Ti |  | experimental | [1] Mattern 2014 | Table 5, p. 7, row 8; `ORC-OZ7XZDSCLL` |  |
+| 1026 | eutectoid: bcc-Nd -> dhcp-Nd + hcp-Ti |  | experimental | [1] Mattern 2014 | p. 3; `ORC-Y7RCKNEQYO` | “The reaction (1) of the DSC curve at T1⁄4 1026 K corresponds to the eutectoid transformation bcc-Nd2dhcp-Nd þhcp-Ti.” |
 
 ## Other properties
 
@@ -71,9 +71,9 @@ Table: Phase transition, Nd–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1140 K | 1140 | polymorphic: dhcp-Nd; _alloy: Ti 0_ | model | [1] Mattern 2014; _cites Murray 1987_ | Table 1, p. 3, row 2 |  |
-| Phase transition | 1294 K | 1294 | congruent transformation: bcc-Nd; _alloy: Ti 0_ | model | [1] Mattern 2014; _cites Murray 1987_ | Table 1, p. 3, row 1 |  |
-| Phase transition | 2120 K | 2120 | other | model | [1] Mattern 2014 | p. 7 | “The calculated coordinates of the miscibility gap critical point are 2120 K and 52.32 at%Ti.” |
+| Phase transition | 1140 K | 1140 | polymorphic: dhcp-Nd; _alloy: Ti 0_ | model | [1] Mattern 2014; _cites Murray 1987_ | Table 1, p. 3, row 2; `ORC-ASRMDCSUMC` |  |
+| Phase transition | 1294 K | 1294 | congruent transformation: bcc-Nd; _alloy: Ti 0_ | model | [1] Mattern 2014; _cites Murray 1987_ | Table 1, p. 3, row 1; `ORC-2U6VHRW42C` |  |
+| Phase transition | 2120 K | 2120 | other | model | [1] Mattern 2014 | p. 7; `ORC-D6VIR2LCXE` | “The calculated coordinates of the miscibility gap critical point are 2120 K and 52.32 at%Ti.” |
 
 ### Phase equilibrium (5)
 
@@ -81,11 +81,11 @@ Table: Phase equilibrium, Nd–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  |  | L1 + L2 + e1; _L1: Nd 0.896, Ti 0.104; L2: Nd 0.099, Ti 0.901; e1: Nd 0.982, Ti 0.018_ | experimental | [1] Mattern 2014 | Table 3, p. 6, row 4 |  |
-| Phase composition |  |  | L1 + L2 + e1 + Nd + Ti; _L1: Nd 0.931, Ti 0.069; L2: Nd 0.091, Ti 0.909; e1: Nd 0.985, Ti 0.015; Nd: Nd 0.994, Ti 0.006; Ti: Nd 0.001, Ti 0.999_ | experimental | [1] Mattern 2014 | Table 3, p. 6, row 2 |  |
-| Phase composition |  |  | L1 + L2 + e1 + Nd + Ti; _L1: Nd 0.932, Ti 0.068; L2: Nd 0.089, Ti 0.911; e1: Nd 0.985, Ti 0.015; Nd: Nd 0.995, Ti 0.005; Ti: Nd 0.002, Ti 0.998_ | experimental | [1] Mattern 2014 | Table 3, p. 6, row 3 |  |
-| Phase composition |  |  | L2 + Ti; _L2: Nd 0.108, Ti 0.892; Ti: Nd 0.003, Ti 0.997_ | experimental | [1] Mattern 2014 | Table 3, p. 6, row 5 |  |
-| Phase composition |  |  | e1 + Nd; _e1: Nd 0.987, Ti 0.013; Nd: Nd 0.996, Ti 0.004_ | experimental | [1] Mattern 2014 | Table 3, p. 6, row 1 |  |
+| Phase composition |  |  | L1 + L2 + e1; _L1: Nd 0.896, Ti 0.104; L2: Nd 0.099, Ti 0.901; e1: Nd 0.982, Ti 0.018_ | experimental | [1] Mattern 2014 | Table 3, p. 6, row 4; `ORC-UQKY7MIN2Z` |  |
+| Phase composition |  |  | L1 + L2 + e1 + Nd + Ti; _L1: Nd 0.931, Ti 0.069; L2: Nd 0.091, Ti 0.909; e1: Nd 0.985, Ti 0.015; Nd: Nd 0.994, Ti 0.006; Ti: Nd 0.001, Ti 0.999_ | experimental | [1] Mattern 2014 | Table 3, p. 6, row 2; `ORC-6AQYOF2WJN` |  |
+| Phase composition |  |  | L1 + L2 + e1 + Nd + Ti; _L1: Nd 0.932, Ti 0.068; L2: Nd 0.089, Ti 0.911; e1: Nd 0.985, Ti 0.015; Nd: Nd 0.995, Ti 0.005; Ti: Nd 0.002, Ti 0.998_ | experimental | [1] Mattern 2014 | Table 3, p. 6, row 3; `ORC-EI5DOZEBF5` |  |
+| Phase composition |  |  | L2 + Ti; _L2: Nd 0.108, Ti 0.892; Ti: Nd 0.003, Ti 0.997_ | experimental | [1] Mattern 2014 | Table 3, p. 6, row 5; `ORC-GGCJJ5PVCO` |  |
+| Phase composition |  |  | e1 + Nd; _e1: Nd 0.987, Ti 0.013; Nd: Nd 0.996, Ti 0.004_ | experimental | [1] Mattern 2014 | Table 3, p. 6, row 1; `ORC-5AKINUFWEO` |  |
 
 ### Crystal structure (12)
 
@@ -93,18 +93,18 @@ Table: Crystal structure, Nd–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.3655 not_printed ± 1.000e-4 |  | dhcp-Nd; _alloy: Nd 0.4, Ti 0.6_ | unspecified | [1] Mattern 2014 | Table 2, p. 5, row 6 |  |
-| Lattice a | 0.3658 not_printed ± 1.000e-4 |  | dhcp-Nd; _alloy: Nd 0.6, Ti 0.4_ | unspecified | [1] Mattern 2014 | Table 2, p. 5, row 4 |  |
-| Lattice a | 0.3658 not_printed ± 1.000e-4 |  | dhcp-Nd; _alloy: Nd 0.8, Ti 0.2_ | unspecified | [1] Mattern 2014 | Table 2, p. 5, row 2 |  |
-| Lattice a | 0.2952 not_printed ± 1.000e-4 |  | hcp-Ti; _alloy: Nd 0.8, Ti 0.2_ | unspecified | [1] Mattern 2014 | Table 2, p. 5, row 3 |  |
-| Lattice a | 0.2951 not_printed ± 1.000e-4 |  | hcp-Ti; _alloy: Nd 0.4, Ti 0.6_ | unspecified | [1] Mattern 2014 | Table 2, p. 5, row 7 |  |
-| Lattice a | 0.2949 not_printed ± 1.000e-4 |  | hcp-Ti; _alloy: Nd 0.6, Ti 0.4_ | unspecified | [1] Mattern 2014 | Table 2, p. 5, row 5 |  |
-| Lattice c | 1.177 not_printed ± 0.001 |  | dhcp-Nd; _alloy: Nd 0.4, Ti 0.6_ | unspecified | [1] Mattern 2014 | Table 2, p. 5, row 6 |  |
-| Lattice c | 1.178 not_printed ± 0.001 |  | dhcp-Nd; _alloy: Nd 0.6, Ti 0.4_ | unspecified | [1] Mattern 2014 | Table 2, p. 5, row 4 |  |
-| Lattice c | 1.178 not_printed ± 0.001 |  | dhcp-Nd; _alloy: Nd 0.8, Ti 0.2_ | unspecified | [1] Mattern 2014 | Table 2, p. 5, row 2 |  |
-| Lattice c | 0.4691 not_printed ± 2.000e-4 |  | hcp-Ti; _alloy: Nd 0.8, Ti 0.2_ | unspecified | [1] Mattern 2014 | Table 2, p. 5, row 3 |  |
-| Lattice c | 0.4687 not_printed ± 2.000e-4 |  | hcp-Ti; _alloy: Nd 0.4, Ti 0.6_ | unspecified | [1] Mattern 2014 | Table 2, p. 5, row 7 |  |
-| Lattice c | 0.4688 not_printed ± 2.000e-4 |  | hcp-Ti; _alloy: Nd 0.6, Ti 0.4_ | unspecified | [1] Mattern 2014 | Table 2, p. 5, row 5 |  |
+| Lattice a | 0.3655 not_printed ± 1.000e-4 |  | dhcp-Nd; _alloy: Nd 0.4, Ti 0.6_ | unspecified | [1] Mattern 2014 | Table 2, p. 5, row 6; `ORC-5R2HI7CDPG.858226` |  |
+| Lattice a | 0.3658 not_printed ± 1.000e-4 |  | dhcp-Nd; _alloy: Nd 0.6, Ti 0.4_ | unspecified | [1] Mattern 2014 | Table 2, p. 5, row 4; `ORC-FPBHVKIWB6.701df9` |  |
+| Lattice a | 0.3658 not_printed ± 1.000e-4 |  | dhcp-Nd; _alloy: Nd 0.8, Ti 0.2_ | unspecified | [1] Mattern 2014 | Table 2, p. 5, row 2; `ORC-QCYXDLN5KN.9ae549` |  |
+| Lattice a | 0.2952 not_printed ± 1.000e-4 |  | hcp-Ti; _alloy: Nd 0.8, Ti 0.2_ | unspecified | [1] Mattern 2014 | Table 2, p. 5, row 3; `ORC-7JQEN47YEK.b44be5` |  |
+| Lattice a | 0.2951 not_printed ± 1.000e-4 |  | hcp-Ti; _alloy: Nd 0.4, Ti 0.6_ | unspecified | [1] Mattern 2014 | Table 2, p. 5, row 7; `ORC-D4HPEMQP4D.7d2589` |  |
+| Lattice a | 0.2949 not_printed ± 1.000e-4 |  | hcp-Ti; _alloy: Nd 0.6, Ti 0.4_ | unspecified | [1] Mattern 2014 | Table 2, p. 5, row 5; `ORC-EJQGH4RA2D.d2d3a0` |  |
+| Lattice c | 1.177 not_printed ± 0.001 |  | dhcp-Nd; _alloy: Nd 0.4, Ti 0.6_ | unspecified | [1] Mattern 2014 | Table 2, p. 5, row 6; `ORC-5R2HI7CDPG.22adde` |  |
+| Lattice c | 1.178 not_printed ± 0.001 |  | dhcp-Nd; _alloy: Nd 0.6, Ti 0.4_ | unspecified | [1] Mattern 2014 | Table 2, p. 5, row 4; `ORC-FPBHVKIWB6.af5429` |  |
+| Lattice c | 1.178 not_printed ± 0.001 |  | dhcp-Nd; _alloy: Nd 0.8, Ti 0.2_ | unspecified | [1] Mattern 2014 | Table 2, p. 5, row 2; `ORC-QCYXDLN5KN.3dfb18` |  |
+| Lattice c | 0.4691 not_printed ± 2.000e-4 |  | hcp-Ti; _alloy: Nd 0.8, Ti 0.2_ | unspecified | [1] Mattern 2014 | Table 2, p. 5, row 3; `ORC-7JQEN47YEK.1d368f` |  |
+| Lattice c | 0.4687 not_printed ± 2.000e-4 |  | hcp-Ti; _alloy: Nd 0.4, Ti 0.6_ | unspecified | [1] Mattern 2014 | Table 2, p. 5, row 7; `ORC-D4HPEMQP4D.59646d` |  |
+| Lattice c | 0.4688 not_printed ± 2.000e-4 |  | hcp-Ti; _alloy: Nd 0.6, Ti 0.4_ | unspecified | [1] Mattern 2014 | Table 2, p. 5, row 5; `ORC-EJQGH4RA2D.490526` |  |
 
 ## Sources
 
@@ -169,4 +169,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

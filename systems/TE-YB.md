@@ -30,14 +30,14 @@ Table: Invariant reactions reported in the literature for the Te–Yb system (8)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1093 | eutectic: Liq -> (γYb) + TeYb | (γYb): Te 0; TeYb: Te 0.5 | experimental | [1] Ghamri 2015; _cites Kh 1970_ | Table 5, p. 6, row 5 |  |
-| 1093 | eutectic |  | experimental | [1] Ghamri 2015; _cites Kh 1970_ | p. 2 | “The two reactions between TeYb and (Te, Yb), which their temperatures reported to be 726 and 1093 K, respectively, by Abrikosov et al. \[18\] may be eutectic reactions and the liquidus of TeYb may be flat near the melting point (Fig. 3).” |
-| 1090 | eutectic |  | model | [1] Ghamri 2015 | p. 6 | “The reactions between TeYb and (Te,Yb) are calculated to be eutectic at 721.7 and 1090 K, respectively.” |
-| 1090 | eutectic: Liq -> (γYb) + TeYb | L: Te 0.005; (γYb): Te 0; TeYb: Te 0.5 | model | [1] Ghamri 2015 | Table 5, p. 6, row 6 |  |
-| 726 | eutectic: Liq -> (Te) + TeYb | (Te): Te 1; TeYb: Te 0.5 | experimental | [1] Ghamri 2015; _cites Kh 1970_ | Table 5, p. 6, row 1 |  |
-| 726 | eutectic |  | experimental | [1] Ghamri 2015; _cites Kh 1970_ | p. 2 | “The two reactions between TeYb and (Te, Yb), which their temperatures reported to be 726 and 1093 K, respectively, by Abrikosov et al. \[18\] may be eutectic reactions and the liquidus of TeYb may be flat near the melting point (Fig. 3).” |
-| 721.7 | eutectic |  | model | [1] Ghamri 2015 | p. 6 | “The reactions between TeYb and (Te,Yb) are calculated to be eutectic at 721.7 and 1090 K, respectively.” |
-| 721.7 | eutectic: Liq -> (Te) + TeYb | L: Te 0.9967; (Te): Te 1; TeYb: Te 0.5 | model | [1] Ghamri 2015 | Table 5, p. 6, row 2 |  |
+| 1093 | eutectic: Liq -> (γYb) + TeYb | (γYb): Te 0; TeYb: Te 0.5 | experimental | [1] Ghamri 2015; _cites Kh 1970_ | Table 5, p. 6, row 5; `ORC-TOSSOPGGYT` |  |
+| 1093 | eutectic |  | experimental | [1] Ghamri 2015; _cites Kh 1970_ | p. 2; `ORC-W6W2LFSJTW.1a0e7a` | “The two reactions between TeYb and (Te, Yb), which their temperatures reported to be 726 and 1093 K, respectively, by Abrikosov et al. \[18\] may be eutectic reactions and the liquidus of TeYb may be flat near the melting point (Fig. 3).” |
+| 1090 | eutectic |  | model | [1] Ghamri 2015 | p. 6; `ORC-G42PZIMY3L.5dba3b` | “The reactions between TeYb and (Te,Yb) are calculated to be eutectic at 721.7 and 1090 K, respectively.” |
+| 1090 | eutectic: Liq -> (γYb) + TeYb | L: Te 0.005; (γYb): Te 0; TeYb: Te 0.5 | model | [1] Ghamri 2015 | Table 5, p. 6, row 6; `ORC-LS5LBW26TA` |  |
+| 726 | eutectic: Liq -> (Te) + TeYb | (Te): Te 1; TeYb: Te 0.5 | experimental | [1] Ghamri 2015; _cites Kh 1970_ | Table 5, p. 6, row 1; `ORC-4R67FNHY4U` |  |
+| 726 | eutectic |  | experimental | [1] Ghamri 2015; _cites Kh 1970_ | p. 2; `ORC-W6W2LFSJTW.d3e699` | “The two reactions between TeYb and (Te, Yb), which their temperatures reported to be 726 and 1093 K, respectively, by Abrikosov et al. \[18\] may be eutectic reactions and the liquidus of TeYb may be flat near the melting point (Fig. 3).” |
+| 721.7 | eutectic |  | model | [1] Ghamri 2015 | p. 6; `ORC-G42PZIMY3L.134a3c` | “The reactions between TeYb and (Te,Yb) are calculated to be eutectic at 721.7 and 1090 K, respectively.” |
+| 721.7 | eutectic: Liq -> (Te) + TeYb | L: Te 0.9967; (Te): Te 1; TeYb: Te 0.5 | model | [1] Ghamri 2015 | Table 5, p. 6, row 2; `ORC-ICVRHJXPBF` |  |
 
 ## Other properties
 
@@ -47,9 +47,9 @@ Table: Phase transition, Te–Yb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 2003 K | 2003 | congruent melting: Liq -> TeYb; _L: Te 0.5; TeYb: Te 0.5_ | experimental | [1] Ghamri 2015; _cites Kh 1970_ | Table 5, p. 6, row 3 |  |
-| Phase transition | 2003 K | 2003 | congruent transformation | experimental | [1] Ghamri 2015 | p. 2 | “This later melts congruently at about 2003 K.” |
-| Phase transition | 2003.46 K | 2003.46 | congruent melting: Liq -> TeYb; _L: Te 0.5; TeYb: Te 0.5_ | model | [1] Ghamri 2015 | Table 5, p. 6, row 4 |  |
+| Phase transition | 2003 K | 2003 | congruent melting: Liq -> TeYb; _L: Te 0.5; TeYb: Te 0.5_ | experimental | [1] Ghamri 2015; _cites Kh 1970_ | Table 5, p. 6, row 3; `ORC-NC54NZTUNU` |  |
+| Phase transition | 2003 K | 2003 | congruent transformation | experimental | [1] Ghamri 2015 | p. 2; `ORC-MKUC2QTC3Z` | “This later melts congruently at about 2003 K.” |
+| Phase transition | 2003.46 K | 2003.46 | congruent melting: Liq -> TeYb; _L: Te 0.5; TeYb: Te 0.5_ | model | [1] Ghamri 2015 | Table 5, p. 6, row 4; `ORC-I5VFHQNYDG` |  |
 
 ## Sources
 
@@ -103,4 +103,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -14,11 +14,11 @@ Table: Enthalpy of formation of Ga3Nb5 reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -39.6 kJ/mol-atom ± 1 | Ga3Nb5 | 298.15 | experimental | EMF | [Ga–Nb](https://data.orchid-project.org/systems/GA-NB.html) | [1] Tamim 2023; _cites Kober 1986_ | Table 2, p. 8, row 12 |  |
-| -26.5 kJ/mol-atom ± 1.7 | Ga3Nb5 | 1373 | experimental | Calorimetry | [Ga–Nb](https://data.orchid-project.org/systems/GA-NB.html) | [1] Tamim 2023; _cites Meschel 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900599-x) | Table 2, p. 8, row 11 |  |
-| -28.953 kJ/mol-atom | Ga3Nb5 | 298.15 | model |  | [Ga–Nb](https://data.orchid-project.org/systems/GA-NB.html) | [1] Tamim 2023 | Table 2, p. 8, row 15 |  |
-| -27.43 kJ/mol-atom | Ga3Nb5 | 298.15 | model | Miedema | [Ga–Nb](https://data.orchid-project.org/systems/GA-NB.html) | [1] Tamim 2023; _cites De 1988_ | Table 2, p. 8, row 14 |  |
-| -32.89 kJ/mol-atom | Ga3Nb5 | 298.15 | DFT | DFT | [Ga–Nb](https://data.orchid-project.org/systems/GA-NB.html) | [1] Tamim 2023; _cites Colinet 2015_ | Table 2, p. 8, row 13 |  |
+| -39.6 kJ/mol-atom ± 1 | Ga3Nb5 | 298.15 | experimental | EMF | [Ga–Nb](https://data.orchid-project.org/systems/GA-NB.html) | [1] Tamim 2023; _cites Kober 1986_ | Table 2, p. 8, row 12; `ORC-PP5UQRGE7N` |  |
+| -26.5 kJ/mol-atom ± 1.7 | Ga3Nb5 | 1373 | experimental | Calorimetry | [Ga–Nb](https://data.orchid-project.org/systems/GA-NB.html) | [1] Tamim 2023; _cites Meschel 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900599-x) | Table 2, p. 8, row 11; `ORC-XOVJ5NCZPT` |  |
+| -28.953 kJ/mol-atom | Ga3Nb5 | 298.15 | model |  | [Ga–Nb](https://data.orchid-project.org/systems/GA-NB.html) | [1] Tamim 2023 | Table 2, p. 8, row 15; `ORC-NW25MH4H7U` |  |
+| -27.43 kJ/mol-atom | Ga3Nb5 | 298.15 | model | Miedema | [Ga–Nb](https://data.orchid-project.org/systems/GA-NB.html) | [1] Tamim 2023; _cites De 1988_ | Table 2, p. 8, row 14; `ORC-VIFIXMLFLD` |  |
+| -32.89 kJ/mol-atom | Ga3Nb5 | 298.15 | DFT | DFT | [Ga–Nb](https://data.orchid-project.org/systems/GA-NB.html) | [1] Tamim 2023; _cites Colinet 2015_ | Table 2, p. 8, row 13; `ORC-PGD3ZY2DN6` |  |
 
 ### Uncertainty budget
 
@@ -98,4 +98,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

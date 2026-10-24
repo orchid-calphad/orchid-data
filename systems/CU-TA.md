@@ -47,9 +47,9 @@ Table: Invariant reactions reported in the literature for the Cu–Ta system (3)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1356.15 | eutectic: Liquid \<-> (Cu) + (Ta) | Liquid: Ta 0; (Cu): Ta 0; (Ta): Ta 1 | unspecified | [1] Liu 2015; _cites Subramanian 1989_ [doi](https://doi.org/10.1007/bf02877637) | Table 3, p. 6, row 1 |  |
-| 1345.15 | eutectic: Liquid \<-> (Cu) + (Ta) | Liquid: Ta 0.012; (Cu): Ta 0; (Ta): Ta 1 | experimental | [1] Liu 2015; _cites Subramanian 1994_ | Table 3, p. 6, row 2 |  |
-| 1338.85 | eutectic: Liquid \<-> (Cu) + (Ta) | Liquid: Ta 0.018; (Cu): Ta 0; (Ta): Ta 1 | unspecified | [1] Liu 2015 | Table 3, p. 6, row 3 |  |
+| 1356.15 | eutectic: Liquid \<-> (Cu) + (Ta) | Liquid: Ta 0; (Cu): Ta 0; (Ta): Ta 1 | unspecified | [1] Liu 2015; _cites Subramanian 1989_ [doi](https://doi.org/10.1007/bf02877637) | Table 3, p. 6, row 1; `ORC-M5R5KZIYLU` |  |
+| 1345.15 | eutectic: Liquid \<-> (Cu) + (Ta) | Liquid: Ta 0.012; (Cu): Ta 0; (Ta): Ta 1 | experimental | [1] Liu 2015; _cites Subramanian 1994_ | Table 3, p. 6, row 2; `ORC-TRQ5BHJ5MA` |  |
+| 1338.85 | eutectic: Liquid \<-> (Cu) + (Ta) | Liquid: Ta 0.018; (Cu): Ta 0; (Ta): Ta 1 | unspecified | [1] Liu 2015 | Table 3, p. 6, row 3; `ORC-UUAUHF7JDJ` |  |
 
 ## Other properties
 
@@ -59,7 +59,7 @@ Table: Mixing / partial, Cu–Ta system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: enthalpy of mixing_ | 2.38 kJ/mol (basis unstated) | 3773.15 |  | model | [1] Liu 2015 | p. 7 | “The liquid-phase enthalpy of mixing in the Cu-Ta binary system at 3500 C was calculated, as presented in Fig. 5. The calculated value at 50 at.% Ta is 2.38 kJ/mol, which is close to the predicted value of 2 kJ/mol.\[17\]” |
+| Enthalpy of mixing; _printed: enthalpy of mixing_ | 2.38 kJ/mol (basis unstated) | 3773.15 |  | model | [1] Liu 2015 | p. 7; `ORC-RUB4T2ZARQ` | “The liquid-phase enthalpy of mixing in the Cu-Ta binary system at 3500 C was calculated, as presented in Fig. 5. The calculated value at 50 at.% Ta is 2.38 kJ/mol, which is close to the predicted value of 2 kJ/mol.\[17\]” |
 
 ## Sources
 
@@ -124,4 +124,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

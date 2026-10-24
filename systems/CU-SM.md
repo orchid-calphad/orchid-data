@@ -63,16 +63,16 @@ Table: Invariant reactions reported in the literature for the Cu–Sm system (10
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1240 | congruent melting: liq \<-> Cu6Sm | liq: Sm 0.143; Cu6Sm: Cu 0.857143, Sm 0.142857 | model | [1] Zhuang 1996 | Table 9, p. 12, row 2 |  |
-| 1196 | peritectic: liq + Cu6Sm \<-> Cu5Sm | liq: Sm 0.243; Cu6Sm: Cu 0.857143, Sm 0.142857; Cu5Sm: Cu 0.833333, Sm 0.166667 | model | [1] Zhuang 1996 | Table 9, p. 12, row 3 |  |
-| 1190 | metatectic/catatectic: Sm(bcc) \<-> liq + Sm(rhomb) | liq: Sm 0.908 | model | [1] Zhuang 1996 | Table 9, p. 12, row 10 |  |
-| 1180 | eutectic: liq \<-> Cu(fcc) + Cu6Sm | liq: Sm 0.081; Cu6Sm: Cu 0.857143, Sm 0.142857 | model | [1] Zhuang 1996 | Table 9, p. 12, row 1 |  |
-| 1153 | peritectic: liq + Cu5Sm \<-> Cu4Sm | liq: Sm 0.249; Cu5Sm: Cu 0.833333, Sm 0.166667; Cu4Sm: Cu 0.8, Sm 0.2 | model | [1] Zhuang 1996 | Table 9, p. 12, row 4 |  |
-| 1128 | congruent melting: liq \<-> Cu2Sm | liq: Sm 0.333; Cu2Sm: Cu 0.666667, Sm 0.333333 | model | [1] Zhuang 1996 | Table 9, p. 12, row 6 |  |
-| 1102 | eutectic: liq \<-> Cu4Sm + Cu2Sm | liq: Sm 0.27; Cu4Sm: Cu 0.8, Sm 0.2; Cu2Sm: Cu 0.666667, Sm 0.333333 | model | [1] Zhuang 1996 | Table 9, p. 12, row 5 |  |
-| 1058 | congruent melting: liq \<-> CuSm | liq: Sm 0.5; CuSm: Cu 0.5, Sm 0.5 | model | [1] Zhuang 1996 | Table 9, p. 12, row 8 |  |
-| 1035 | eutectic: liq \<-> Cu2Sm + CuSm | liq: Sm 0.443; Cu2Sm: Cu 0.666667, Sm 0.333333; CuSm: Cu 0.5, Sm 0.5 | model | [1] Zhuang 1996 | Table 9, p. 12, row 7 |  |
-| 828 | eutectic: liq \<-> CuSm + Sm(rhomb) | liq: Sm 0.718; CuSm: Cu 0.5, Sm 0.5 | model | [1] Zhuang 1996 | Table 9, p. 12, row 9 |  |
+| 1240 | congruent melting: liq \<-> Cu6Sm | liq: Sm 0.143; Cu6Sm: Cu 0.857143, Sm 0.142857 | model | [1] Zhuang 1996 | Table 9, p. 12, row 2; `ORC-TSOVAYU6FO` |  |
+| 1196 | peritectic: liq + Cu6Sm \<-> Cu5Sm | liq: Sm 0.243; Cu6Sm: Cu 0.857143, Sm 0.142857; Cu5Sm: Cu 0.833333, Sm 0.166667 | model | [1] Zhuang 1996 | Table 9, p. 12, row 3; `ORC-TDYWINBPI2` |  |
+| 1190 | metatectic/catatectic: Sm(bcc) \<-> liq + Sm(rhomb) | liq: Sm 0.908 | model | [1] Zhuang 1996 | Table 9, p. 12, row 10; `ORC-EDPPXEEQWH` |  |
+| 1180 | eutectic: liq \<-> Cu(fcc) + Cu6Sm | liq: Sm 0.081; Cu6Sm: Cu 0.857143, Sm 0.142857 | model | [1] Zhuang 1996 | Table 9, p. 12, row 1; `ORC-JCD6AI5ULY` |  |
+| 1153 | peritectic: liq + Cu5Sm \<-> Cu4Sm | liq: Sm 0.249; Cu5Sm: Cu 0.833333, Sm 0.166667; Cu4Sm: Cu 0.8, Sm 0.2 | model | [1] Zhuang 1996 | Table 9, p. 12, row 4; `ORC-EV2TU4WUVD` |  |
+| 1128 | congruent melting: liq \<-> Cu2Sm | liq: Sm 0.333; Cu2Sm: Cu 0.666667, Sm 0.333333 | model | [1] Zhuang 1996 | Table 9, p. 12, row 6; `ORC-GDOVW6YDU3` |  |
+| 1102 | eutectic: liq \<-> Cu4Sm + Cu2Sm | liq: Sm 0.27; Cu4Sm: Cu 0.8, Sm 0.2; Cu2Sm: Cu 0.666667, Sm 0.333333 | model | [1] Zhuang 1996 | Table 9, p. 12, row 5; `ORC-X7RAC32IUQ` |  |
+| 1058 | congruent melting: liq \<-> CuSm | liq: Sm 0.5; CuSm: Cu 0.5, Sm 0.5 | model | [1] Zhuang 1996 | Table 9, p. 12, row 8; `ORC-BYIE5ZSIXY` |  |
+| 1035 | eutectic: liq \<-> Cu2Sm + CuSm | liq: Sm 0.443; Cu2Sm: Cu 0.666667, Sm 0.333333; CuSm: Cu 0.5, Sm 0.5 | model | [1] Zhuang 1996 | Table 9, p. 12, row 7; `ORC-2YFWN7HYP2` |  |
+| 828 | eutectic: liq \<-> CuSm + Sm(rhomb) | liq: Sm 0.718; CuSm: Cu 0.5, Sm 0.5 | model | [1] Zhuang 1996 | Table 9, p. 12, row 9; `ORC-NUDY32IP6C` |  |
 
 ## Sources
 
@@ -137,4 +137,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

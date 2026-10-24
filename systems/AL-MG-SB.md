@@ -26,18 +26,18 @@ Table: Invariant reactions reported in the literature for the Al–Mg–Sb syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1383.7 | other: L -> L1 + L2 | L: Mg 0.506, Sb 0.1 | model | [1] Balakumar 2005 | Table 9, p. 10, row 13 |  |
-| 1226 | other: L/L1 + AlSb | L: Mg 0.121, Sb 0.278 | model | [1] Balakumar 2005 | Table 9, p. 10, row 10 |  |
-| 1164 | other: L/L1 + α-Mg3Sb2 | L: Mg 0.472, Sb 0.292 | model | [1] Balakumar 2005 | Table 9, p. 10, row 8 |  |
-| 1136.9 | other: L -> α-Mg3Sb2 + AlSb | L: Mg 0.398, Sb 0.43 | model | [1] Balakumar 2005 | Table 9, p. 10, row 7 |  |
-| 1133.23 | peritectic: L/L1 + α-Mg3Sb2 + AlSb | L: Mg 0.04, Sb 0.075 | model | [1] Balakumar 2005 | Table 9, p. 10, row 11 |  |
-| 930.2 | eutectic: L -> AlSb + (Al) + α-Mg3Sb2 | L: Mg 0.002, Sb 0.003 | model | [1] Balakumar 2005 | Table 9, p. 10, row 6 |  |
-| 901 | other: L -> Mg3Sb2 + (Mg) | L: Mg 0.95, Sb 0.037 | model | [1] Balakumar 2005 | Table 9, p. 10, row 9 |  |
-| 897.38 | peritectic: L/L1 + α-Mg3Sb2 + (Mg) | L: Mg 0.959, Sb 0.017 | model | [1] Balakumar 2005 | Table 9, p. 10, row 12 |  |
-| 852.6 | eutectic: L -> AlSb + Sb + α-Mg3Sb2 | L: Mg 0.093, Sb 0.902 | model | [1] Balakumar 2005 | Table 9, p. 10, row 1 |  |
-| 723.4 | eutectic: L -> α-Mg3Sb2 + (Al) + Al140Mg89 | L: Mg 0.362 | model | [1] Balakumar 2005 | Table 9, p. 10, row 5 |  |
-| 721.8 | eutectic: L -> γ + α-Mg3Sb2 + Al140Mg89 | L: Mg 0.424 | model | [1] Balakumar 2005 | Table 9, p. 10, row 4 |  |
-| 708.9 | eutectic: L -> (Mg) + α-Mg3Sb2 + γ | L: Mg 0.69 | model | [1] Balakumar 2005 | Table 9, p. 10, row 3 |  |
+| 1383.7 | other: L -> L1 + L2 | L: Mg 0.506, Sb 0.1 | model | [1] Balakumar 2005 | Table 9, p. 10, row 13; `ORC-VX5FNBUATU` |  |
+| 1226 | other: L/L1 + AlSb | L: Mg 0.121, Sb 0.278 | model | [1] Balakumar 2005 | Table 9, p. 10, row 10; `ORC-ZS5525T654` |  |
+| 1164 | other: L/L1 + α-Mg3Sb2 | L: Mg 0.472, Sb 0.292 | model | [1] Balakumar 2005 | Table 9, p. 10, row 8; `ORC-TWC6INGAK7` |  |
+| 1136.9 | other: L -> α-Mg3Sb2 + AlSb | L: Mg 0.398, Sb 0.43 | model | [1] Balakumar 2005 | Table 9, p. 10, row 7; `ORC-QXPKY4H3FG` |  |
+| 1133.23 | peritectic: L/L1 + α-Mg3Sb2 + AlSb | L: Mg 0.04, Sb 0.075 | model | [1] Balakumar 2005 | Table 9, p. 10, row 11; `ORC-3VC6OA56HI` |  |
+| 930.2 | eutectic: L -> AlSb + (Al) + α-Mg3Sb2 | L: Mg 0.002, Sb 0.003 | model | [1] Balakumar 2005 | Table 9, p. 10, row 6; `ORC-YWYO5XFZO2` |  |
+| 901 | other: L -> Mg3Sb2 + (Mg) | L: Mg 0.95, Sb 0.037 | model | [1] Balakumar 2005 | Table 9, p. 10, row 9; `ORC-DPMJVM3ARX` |  |
+| 897.38 | peritectic: L/L1 + α-Mg3Sb2 + (Mg) | L: Mg 0.959, Sb 0.017 | model | [1] Balakumar 2005 | Table 9, p. 10, row 12; `ORC-7DUW7XEULH` |  |
+| 852.6 | eutectic: L -> AlSb + Sb + α-Mg3Sb2 | L: Mg 0.093, Sb 0.902 | model | [1] Balakumar 2005 | Table 9, p. 10, row 1; `ORC-PHC442PF26` |  |
+| 723.4 | eutectic: L -> α-Mg3Sb2 + (Al) + Al140Mg89 | L: Mg 0.362 | model | [1] Balakumar 2005 | Table 9, p. 10, row 5; `ORC-GQTN4ENMES` |  |
+| 721.8 | eutectic: L -> γ + α-Mg3Sb2 + Al140Mg89 | L: Mg 0.424 | model | [1] Balakumar 2005 | Table 9, p. 10, row 4; `ORC-3MAIZVL7VO` |  |
+| 708.9 | eutectic: L -> (Mg) + α-Mg3Sb2 + γ | L: Mg 0.69 | model | [1] Balakumar 2005 | Table 9, p. 10, row 3; `ORC-QUNQLQXAA3` |  |
 
 ## Sources
 
@@ -80,4 +80,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

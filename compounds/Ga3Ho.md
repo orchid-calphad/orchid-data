@@ -14,12 +14,12 @@ Table: Enthalpy of formation of Ga3Ho reported in the literature (6)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -57.8 kJ/mol-atom | HoGa3 | 681.575 | experimental | Emf (660 – 1065 K) | [Ga–Ho](https://data.orchid-project.org/systems/GA-HO.html) | [1] Boukideur 2020; _cites Colinet 1994_ [doi](https://doi.org/10.1016/s0168-1273%2805%2980063-7) | Table 1, p. 3, row 14 |  |
-| -56.8 kJ/mol-atom | HoGa3 | 298.15 | experimental | Dir.Syn.Calo 1373±2 K | [Ga–Ho](https://data.orchid-project.org/systems/GA-HO.html) | [1] Boukideur 2020; _cites Meschel 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2900913-6) | Table 1, p. 3, row 15 |  |
-| -56.8 kJ/mol-atom | HoGa3 | 298.15 | model | Optimization\[R-K\] | [Ga–Ho](https://data.orchid-project.org/systems/GA-HO.html) | [1] Boukideur 2020 | Table 1, p. 3, row 16 |  |
-| -56.8 kJ/mol-atom | HoGa3 | 298.15 | model | Optimization\[A\] | [Ga–Ho](https://data.orchid-project.org/systems/GA-HO.html) | [1] Boukideur 2020 | Table 1, p. 3, row 18 |  |
-| -56.8 kJ/mol-atom | HoGa3 | 298.15 | model | Optimization\[K\] | [Ga–Ho](https://data.orchid-project.org/systems/GA-HO.html) | [1] Boukideur 2020 | Table 1, p. 3, row 17 |  |
-| -50 kJ/mol-atom | HoGa3 | 298.15 | model | Miedema’s model | [Ga–Ho](https://data.orchid-project.org/systems/GA-HO.html) | [1] Boukideur 2020; _cites De 2014_ | Table 1, p. 3, row 13 |  |
+| -57.8 kJ/mol-atom | HoGa3 | 681.575 | experimental | Emf (660 – 1065 K) | [Ga–Ho](https://data.orchid-project.org/systems/GA-HO.html) | [1] Boukideur 2020; _cites Colinet 1994_ [doi](https://doi.org/10.1016/s0168-1273%2805%2980063-7) | Table 1, p. 3, row 14; `ORC-Y5TEVW6D4C.f1203e` |  |
+| -56.8 kJ/mol-atom | HoGa3 | 298.15 | experimental | Dir.Syn.Calo 1373±2 K | [Ga–Ho](https://data.orchid-project.org/systems/GA-HO.html) | [1] Boukideur 2020; _cites Meschel 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2900913-6) | Table 1, p. 3, row 15; `ORC-QHNKBTS4T7.9189eb` |  |
+| -56.8 kJ/mol-atom | HoGa3 | 298.15 | model | Optimization\[R-K\] | [Ga–Ho](https://data.orchid-project.org/systems/GA-HO.html) | [1] Boukideur 2020 | Table 1, p. 3, row 16; `ORC-EGVRANT5II.202074` |  |
+| -56.8 kJ/mol-atom | HoGa3 | 298.15 | model | Optimization\[A\] | [Ga–Ho](https://data.orchid-project.org/systems/GA-HO.html) | [1] Boukideur 2020 | Table 1, p. 3, row 18; `ORC-RKQCKUZDV6.21b549` |  |
+| -56.8 kJ/mol-atom | HoGa3 | 298.15 | model | Optimization\[K\] | [Ga–Ho](https://data.orchid-project.org/systems/GA-HO.html) | [1] Boukideur 2020 | Table 1, p. 3, row 17; `ORC-WSVQZN3HU4.d5afe1` |  |
+| -50 kJ/mol-atom | HoGa3 | 298.15 | model | Miedema’s model | [Ga–Ho](https://data.orchid-project.org/systems/GA-HO.html) | [1] Boukideur 2020; _cites De 2014_ | Table 1, p. 3, row 13; `ORC-BQUNGQX2EN.cb803e` |  |
 
 ### Uncertainty budget
 
@@ -100,4 +100,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

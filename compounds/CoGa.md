@@ -14,11 +14,11 @@ Table: Enthalpy of formation of CoGa reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -41 kJ/mol-atom | CoGa | 298.15 | experimental |  | [Co–Ga](https://data.orchid-project.org/systems/CO-GA.html) | [1] Gröbner 1999; _cites Predel 1975_ [doi](https://doi.org/10.1016/0040-6031%2875%2985065-9) | Table 1, p. 2, row 20 |  |
-| -38 kJ/mol-atom | CoGa | 1173 | experimental |  | [Co–Ga](https://data.orchid-project.org/systems/CO-GA.html) | [1] Gröbner 1999; _cites Mikula 1987_ | Table 1, p. 2, row 24 |  |
-| -36 kJ/mol-atom | CoGa | 1173 | experimental |  | [Co–Ga](https://data.orchid-project.org/systems/CO-GA.html) | [1] Gröbner 1999; _cites Katayama 1975_ [doi](https://doi.org/10.2320/matertrans1960.16.423) | Table 1, p. 2, row 23 |  |
-| -32 kJ/mol-atom | CoGa | 1100 | experimental |  | [Co–Ga](https://data.orchid-project.org/systems/CO-GA.html) | [1] Gröbner 1999; _cites Th 1982_ | Table 1, p. 2, row 22 |  |
-| -35.5 kJ/mol-atom | CoGa | 298.15 | model |  | [Co–Ga](https://data.orchid-project.org/systems/CO-GA.html) | [1] Gröbner 1999 | Table 1, p. 2, row 21 |  |
+| -41 kJ/mol-atom | CoGa | 298.15 | experimental |  | [Co–Ga](https://data.orchid-project.org/systems/CO-GA.html) | [1] Gröbner 1999; _cites Predel 1975_ [doi](https://doi.org/10.1016/0040-6031%2875%2985065-9) | Table 1, p. 2, row 20; `ORC-2AHUOI7AKC` |  |
+| -38 kJ/mol-atom | CoGa | 1173 | experimental |  | [Co–Ga](https://data.orchid-project.org/systems/CO-GA.html) | [1] Gröbner 1999; _cites Mikula 1987_ | Table 1, p. 2, row 24; `ORC-YJ23MHTUH6` |  |
+| -36 kJ/mol-atom | CoGa | 1173 | experimental |  | [Co–Ga](https://data.orchid-project.org/systems/CO-GA.html) | [1] Gröbner 1999; _cites Katayama 1975_ [doi](https://doi.org/10.2320/matertrans1960.16.423) | Table 1, p. 2, row 23; `ORC-AUMME4732X` |  |
+| -32 kJ/mol-atom | CoGa | 1100 | experimental |  | [Co–Ga](https://data.orchid-project.org/systems/CO-GA.html) | [1] Gröbner 1999; _cites Th 1982_ | Table 1, p. 2, row 22; `ORC-ER6MJZFTIS` |  |
+| -35.5 kJ/mol-atom | CoGa | 298.15 | model |  | [Co–Ga](https://data.orchid-project.org/systems/CO-GA.html) | [1] Gröbner 1999 | Table 1, p. 2, row 21; `ORC-C7ADQXQDBL` |  |
 
 ### Uncertainty budget
 
@@ -98,4 +98,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

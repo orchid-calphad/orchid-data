@@ -30,37 +30,37 @@ Table: Crystal structure, Er–Ir system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 7.162 Å | 298.15 | Er3Ir; _Er3Ir: Er 0.75, Ir 0.25_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 2 |  |
-| Lattice a | 7.16 Å | 298.15 | Er3Ir; _Er3Ir: Er 0.75, Ir 0.25_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 3 |  |
-| Lattice a | 11.047 Å | 298.15 | Er3Ir2; _Er3Ir2: Er 0.6, Ir 0.4_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 12 |  |
-| Lattice a | 11.055 Å | 298.15 | Er3Ir2; _Er3Ir2: Er 0.6, Ir 0.4_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 11 |  |
-| Lattice a | 15.395 Å | 298.15 | Er5Ir2; _Er5Ir2: Er 0.714, Ir 0.286_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 5 |  |
-| Lattice a | 15.405 Å | 298.15 | Er5Ir2; _Er5Ir2: Er 0.714, Ir 0.286_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 4 |  |
-| Lattice a | 10.759 Å | 298.15 | Er5Ir3; _Er5Ir3: Er 0.625, Ir 0.375_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 8 |  |
-| Lattice a | 8.109 Å | 298.15 | Er5Ir3; _Er5Ir3: Er 0.625, Ir 0.375_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 6 |  |
-| Lattice a | 8.112 Å | 298.15 | Er5Ir3; _Er5Ir3: Er 0.625, Ir 0.375_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 7 |  |
-| Lattice a | 15.218 Å | 298.15 | Er5Ir3; _Er5Ir3: Er 0.625, Ir 0.375_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 10 |  |
-| Lattice a | 10.754 Å | 298.15 | Er5Ir3; _Er5Ir3: Er 0.625, Ir 0.375_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 9 |  |
-| Lattice a | 3.367 Å | 298.15 | ErIr; _ErIr: Er 0.5, Ir 0.5_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 13 |  |
-| Lattice a | 7.4923 Å | 298.15 | ErIr2; _ErIr2: Er 0.333, Ir 0.667_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 17 |  |
-| Lattice a | 7.473 Å | 298.15 | ErIr2; _ErIr2: Er 0.333, Ir 0.667_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 15 |  |
-| Lattice a | 7.488 Å | 298.15 | ErIr2; _ErIr2: Er 0.333, Ir 0.667_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 16 |  |
-| Lattice b | 9.076 Å | 298.15 | Er3Ir; _Er3Ir: Er 0.75, Ir 0.25_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 2 |  |
-| Lattice b | 9.072 Å | 298.15 | Er3Ir; _Er3Ir: Er 0.75, Ir 0.25_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 3 |  |
-| Lattice b | 6.385 Å | 298.15 | Er5Ir2; _Er5Ir2: Er 0.714, Ir 0.286_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 5 |  |
-| Lattice b | 6.382 Å | 298.15 | Er5Ir2; _Er5Ir2: Er 0.714, Ir 0.286_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 4 |  |
-| Lattice c | 6.306 Å | 298.15 | Er3Ir; _Er3Ir: Er 0.75, Ir 0.25_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 2 |  |
-| Lattice c | 6.302 Å | 298.15 | Er3Ir; _Er3Ir: Er 0.75, Ir 0.25_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 3 |  |
-| Lattice c | 24.775 Å | 298.15 | Er3Ir2; _Er3Ir2: Er 0.6, Ir 0.4_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 12 |  |
-| Lattice c | 24.82 Å | 298.15 | Er3Ir2; _Er3Ir2: Er 0.6, Ir 0.4_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 11 |  |
-| Lattice c | 7.159 Å | 298.15 | Er5Ir2; _Er5Ir2: Er 0.714, Ir 0.286_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 5 |  |
-| Lattice c | 7.165 Å | 298.15 | Er5Ir2; _Er5Ir2: Er 0.714, Ir 0.286_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 4 |  |
-| Lattice c | 6.219 Å | 298.15 | Er5Ir3; _Er5Ir3: Er 0.625, Ir 0.375_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 8 |  |
-| Lattice c | 6.294 Å | 298.15 | Er5Ir3; _Er5Ir3: Er 0.625, Ir 0.375_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 6 |  |
-| Lattice c | 6.295 Å | 298.15 | Er5Ir3; _Er5Ir3: Er 0.625, Ir 0.375_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 7 |  |
-| Lattice c | 6.218 Å | 298.15 | Er5Ir3; _Er5Ir3: Er 0.625, Ir 0.375_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 9 |  |
-| lattice beta | 96.9 ° | 298.15 | Er5Ir2; _Er5Ir2: Er 0.714, Ir 0.286_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 5 |  |
-| lattice beta | 96.89 ° | 298.15 | Er5Ir2; _Er5Ir2: Er 0.714, Ir 0.286_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 4 |  |
+| Lattice a | 7.162 Å | 298.15 | Er3Ir; _Er3Ir: Er 0.75, Ir 0.25_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 2; `ORC-KCUMSURRMX.9215d0` |  |
+| Lattice a | 7.16 Å | 298.15 | Er3Ir; _Er3Ir: Er 0.75, Ir 0.25_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 3; `ORC-RFMWO3CGC2.3ff871` |  |
+| Lattice a | 11.047 Å | 298.15 | Er3Ir2; _Er3Ir2: Er 0.6, Ir 0.4_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 12; `ORC-2BQ2OJUGMV.c65585` |  |
+| Lattice a | 11.055 Å | 298.15 | Er3Ir2; _Er3Ir2: Er 0.6, Ir 0.4_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 11; `ORC-3Q73HABAMQ.2f4af3` |  |
+| Lattice a | 15.395 Å | 298.15 | Er5Ir2; _Er5Ir2: Er 0.714, Ir 0.286_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 5; `ORC-B4QIEIXJII.e0a247` |  |
+| Lattice a | 15.405 Å | 298.15 | Er5Ir2; _Er5Ir2: Er 0.714, Ir 0.286_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 4; `ORC-WBUBQ3XXZZ.b0219a` |  |
+| Lattice a | 10.759 Å | 298.15 | Er5Ir3; _Er5Ir3: Er 0.625, Ir 0.375_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 8; `ORC-DEMSPMJCSC.b41c7d` |  |
+| Lattice a | 8.109 Å | 298.15 | Er5Ir3; _Er5Ir3: Er 0.625, Ir 0.375_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 6; `ORC-GWENPOS4PO.40f3c1` |  |
+| Lattice a | 8.112 Å | 298.15 | Er5Ir3; _Er5Ir3: Er 0.625, Ir 0.375_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 7; `ORC-K7E37DBFYU.95e05b` |  |
+| Lattice a | 15.218 Å | 298.15 | Er5Ir3; _Er5Ir3: Er 0.625, Ir 0.375_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 10; `ORC-TQJBBJXXLF` |  |
+| Lattice a | 10.754 Å | 298.15 | Er5Ir3; _Er5Ir3: Er 0.625, Ir 0.375_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 9; `ORC-XE5KQOAIXW.6569ce` |  |
+| Lattice a | 3.367 Å | 298.15 | ErIr; _ErIr: Er 0.5, Ir 0.5_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 13; `ORC-7EIINIBRBC` |  |
+| Lattice a | 7.4923 Å | 298.15 | ErIr2; _ErIr2: Er 0.333, Ir 0.667_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 17; `ORC-V6GHCIVG4T` |  |
+| Lattice a | 7.473 Å | 298.15 | ErIr2; _ErIr2: Er 0.333, Ir 0.667_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 15; `ORC-VTITIFOLWY` |  |
+| Lattice a | 7.488 Å | 298.15 | ErIr2; _ErIr2: Er 0.333, Ir 0.667_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 16; `ORC-WFS7RGWF73` |  |
+| Lattice b | 9.076 Å | 298.15 | Er3Ir; _Er3Ir: Er 0.75, Ir 0.25_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 2; `ORC-KCUMSURRMX.733abf` |  |
+| Lattice b | 9.072 Å | 298.15 | Er3Ir; _Er3Ir: Er 0.75, Ir 0.25_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 3; `ORC-RFMWO3CGC2.83f7db` |  |
+| Lattice b | 6.385 Å | 298.15 | Er5Ir2; _Er5Ir2: Er 0.714, Ir 0.286_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 5; `ORC-B4QIEIXJII.25cb6d` |  |
+| Lattice b | 6.382 Å | 298.15 | Er5Ir2; _Er5Ir2: Er 0.714, Ir 0.286_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 4; `ORC-WBUBQ3XXZZ.541c34` |  |
+| Lattice c | 6.306 Å | 298.15 | Er3Ir; _Er3Ir: Er 0.75, Ir 0.25_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 2; `ORC-KCUMSURRMX.f7073d` |  |
+| Lattice c | 6.302 Å | 298.15 | Er3Ir; _Er3Ir: Er 0.75, Ir 0.25_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 3; `ORC-RFMWO3CGC2.8a9dc8` |  |
+| Lattice c | 24.775 Å | 298.15 | Er3Ir2; _Er3Ir2: Er 0.6, Ir 0.4_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 12; `ORC-2BQ2OJUGMV.3c3df3` |  |
+| Lattice c | 24.82 Å | 298.15 | Er3Ir2; _Er3Ir2: Er 0.6, Ir 0.4_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 11; `ORC-3Q73HABAMQ.b185a5` |  |
+| Lattice c | 7.159 Å | 298.15 | Er5Ir2; _Er5Ir2: Er 0.714, Ir 0.286_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 5; `ORC-B4QIEIXJII.b024e7` |  |
+| Lattice c | 7.165 Å | 298.15 | Er5Ir2; _Er5Ir2: Er 0.714, Ir 0.286_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 4; `ORC-WBUBQ3XXZZ.3ecacc` |  |
+| Lattice c | 6.219 Å | 298.15 | Er5Ir3; _Er5Ir3: Er 0.625, Ir 0.375_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 8; `ORC-DEMSPMJCSC.68bf6d` |  |
+| Lattice c | 6.294 Å | 298.15 | Er5Ir3; _Er5Ir3: Er 0.625, Ir 0.375_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 6; `ORC-GWENPOS4PO.f96f73` |  |
+| Lattice c | 6.295 Å | 298.15 | Er5Ir3; _Er5Ir3: Er 0.625, Ir 0.375_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 7; `ORC-K7E37DBFYU.c923df` |  |
+| Lattice c | 6.218 Å | 298.15 | Er5Ir3; _Er5Ir3: Er 0.625, Ir 0.375_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 9; `ORC-XE5KQOAIXW.f93c18` |  |
+| lattice beta | 96.9 ° | 298.15 | Er5Ir2; _Er5Ir2: Er 0.714, Ir 0.286_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 5; `ORC-B4QIEIXJII.a81f70` |  |
+| lattice beta | 96.89 ° | 298.15 | Er5Ir2; _Er5Ir2: Er 0.714, Ir 0.286_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 4; `ORC-WBUBQ3XXZZ.b27578` |  |
 
 ## Sources
 
@@ -114,4 +114,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

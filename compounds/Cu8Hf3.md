@@ -14,14 +14,14 @@ Table: Enthalpy of formation of Cu8Hf3 reported in the literature (8)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -192.72 kJ/mol-atom | Cu8Hf3 |  | model |  | [Cu–Hf](https://data.orchid-project.org/systems/CU-HF.html) | [1] Zhong 2013; _cites Subramanian 1988_ | Table 2, p. 7, row 8 |  |
-| -13.629 kJ/mol (basis unstated) | Cu8Hf3 | 298.15 | model |  | [Cu–Hf](https://data.orchid-project.org/systems/CU-HF.html) | [2] Turchanin 2008 | Table 2, p. 6, row 8 |  |
-| -13.6 kJ/mol-atom | Cu8Hf3 |  | model |  | [Cu–Hf](https://data.orchid-project.org/systems/CU-HF.html) | [1] Zhong 2013; _cites Liang 2006_ [doi](https://doi.org/10.1016/j.jallcom.2006.02.013) | Table 2, p. 7, row 9 |  |
-| -13.55 kJ/mol-atom | Cu8Hf3 |  | model |  | [Cu–Hf](https://data.orchid-project.org/systems/CU-HF.html) | [1] Zhong 2013; _cites Turchanin 2008_ [doi](https://doi.org/10.1007/s11106-008-9008-4) | Table 2, p. 7, row 10 |  |
-| -17.27 kJ/mol-atom | Cu8Hf3 |  | DFT | USPP-GGA F-P | [Cu–Hf](https://data.orchid-project.org/systems/CU-HF.html) | [1] Zhong 2013; _cites Ghosh 2007_ [doi](https://doi.org/10.1016/j.actamat.2007.01.037) | Table 2, p. 7, row 11 |  |
-| -16.74 kJ/mol-atom | Cu8Hf3 | 0 | DFT | USPP-GGA | [Cu–Hf](https://data.orchid-project.org/systems/CU-HF.html) | [1] Zhong 2013 | Table 2, p. 7, row 12 |  |
-| -15.22 kJ/mol-atom | Cu8Hf3 | 0 | DFT | PBE | [Cu–Hf](https://data.orchid-project.org/systems/CU-HF.html) | [1] Zhong 2013 | Table 2, p. 7, row 13 |  |
-| -192.72 kJ/mol (basis unstated) | Cu8Hf3 | 298.15 | unspecified |  | [Cu–Hf](https://data.orchid-project.org/systems/CU-HF.html) | [2] Turchanin 2008; _cites ref. 13_ | Table 2, p. 6, row 7 |  |
+| -192.72 kJ/mol-atom | Cu8Hf3 |  | model |  | [Cu–Hf](https://data.orchid-project.org/systems/CU-HF.html) | [1] Zhong 2013; _cites Subramanian 1988_ | Table 2, p. 7, row 8; `ORC-HRJTWRGIKE.c68ad1` |  |
+| -13.629 kJ/mol (basis unstated) | Cu8Hf3 | 298.15 | model |  | [Cu–Hf](https://data.orchid-project.org/systems/CU-HF.html) | [2] Turchanin 2008 | Table 2, p. 6, row 8; `ORC-3TT6CRWE4Y.1927ef` |  |
+| -13.6 kJ/mol-atom | Cu8Hf3 |  | model |  | [Cu–Hf](https://data.orchid-project.org/systems/CU-HF.html) | [1] Zhong 2013; _cites Liang 2006_ [doi](https://doi.org/10.1016/j.jallcom.2006.02.013) | Table 2, p. 7, row 9; `ORC-O6LHIWXOYM.6829ec` |  |
+| -13.55 kJ/mol-atom | Cu8Hf3 |  | model |  | [Cu–Hf](https://data.orchid-project.org/systems/CU-HF.html) | [1] Zhong 2013; _cites Turchanin 2008_ [doi](https://doi.org/10.1007/s11106-008-9008-4) | Table 2, p. 7, row 10; `ORC-F5YMZB3DG4.082379` |  |
+| -17.27 kJ/mol-atom | Cu8Hf3 |  | DFT | USPP-GGA F-P | [Cu–Hf](https://data.orchid-project.org/systems/CU-HF.html) | [1] Zhong 2013; _cites Ghosh 2007_ [doi](https://doi.org/10.1016/j.actamat.2007.01.037) | Table 2, p. 7, row 11; `ORC-IHKCRADOGP.644147` |  |
+| -16.74 kJ/mol-atom | Cu8Hf3 | 0 | DFT | USPP-GGA | [Cu–Hf](https://data.orchid-project.org/systems/CU-HF.html) | [1] Zhong 2013 | Table 2, p. 7, row 12; `ORC-HYLK6422AN.054b67` |  |
+| -15.22 kJ/mol-atom | Cu8Hf3 | 0 | DFT | PBE | [Cu–Hf](https://data.orchid-project.org/systems/CU-HF.html) | [1] Zhong 2013 | Table 2, p. 7, row 13; `ORC-2L4O3RZVBW.513fa5` |  |
+| -192.72 kJ/mol (basis unstated) | Cu8Hf3 | 298.15 | unspecified |  | [Cu–Hf](https://data.orchid-project.org/systems/CU-HF.html) | [2] Turchanin 2008; _cites ref. 13_ | Table 2, p. 6, row 7; `ORC-3CSEBKHBQH` |  |
 
 ### Uncertainty budget
 
@@ -105,4 +105,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

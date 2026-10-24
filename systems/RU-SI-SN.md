@@ -28,13 +28,13 @@ Table: Invariant reactions reported in the literature for the Ru–Si–Sn syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 3694 | eutectic: L -> L1 + L2 + L3 |  | model | [1] Long 2012 | Table 4, p. 7, row 7 |  |
-| 1932 | eutectic: L -> L + Ru2Si3 + RuSi |  | model | [1] Long 2012 | Table 4, p. 7, row 1 |  |
-| 1618 | quasi-peritectic: L + Ru2Si -> hcp(Ru) + Ru4Si3 |  | model | [1] Long 2012 | Table 4, p. 7, row 2 |  |
-| 1550 | eutectic: L -> L + Dimond(Si) + Ru2Si3 |  | model | [1] Long 2012 | Table 4, p. 7, row 3 |  |
-| 1540 | quasi-peritectic: L + hcp(Ru) -> Ru4Si3 + Ru2Sn3 |  | model | [1] Long 2012 | Table 4, p. 7, row 4 |  |
-| 1528 | eutectic: L -> Ru4Si3 + Ru2Sn3 + Ru3Sn7 |  | model | [1] Long 2012 | Table 4, p. 7, row 5 |  |
-| 1516 | quasi-peritectic: L + Ru4Si3 -> Ru3Sn7 + RuSi |  | model | [1] Long 2012 | Table 4, p. 7, row 6 |  |
+| 3694 | eutectic: L -> L1 + L2 + L3 |  | model | [1] Long 2012 | Table 4, p. 7, row 7; `ORC-PASOIGRT7G` |  |
+| 1932 | eutectic: L -> L + Ru2Si3 + RuSi |  | model | [1] Long 2012 | Table 4, p. 7, row 1; `ORC-3NJM4TGCS7` |  |
+| 1618 | quasi-peritectic: L + Ru2Si -> hcp(Ru) + Ru4Si3 |  | model | [1] Long 2012 | Table 4, p. 7, row 2; `ORC-ZX46T7PJMJ` |  |
+| 1550 | eutectic: L -> L + Dimond(Si) + Ru2Si3 |  | model | [1] Long 2012 | Table 4, p. 7, row 3; `ORC-ZMAEYQC4IN` |  |
+| 1540 | quasi-peritectic: L + hcp(Ru) -> Ru4Si3 + Ru2Sn3 |  | model | [1] Long 2012 | Table 4, p. 7, row 4; `ORC-TXGMF4MGY2` |  |
+| 1528 | eutectic: L -> Ru4Si3 + Ru2Sn3 + Ru3Sn7 |  | model | [1] Long 2012 | Table 4, p. 7, row 5; `ORC-5SBUF43B6T` |  |
+| 1516 | quasi-peritectic: L + Ru4Si3 -> Ru3Sn7 + RuSi |  | model | [1] Long 2012 | Table 4, p. 7, row 6; `ORC-J2UZ6EVDD7` |  |
 
 ## Other properties
 
@@ -44,9 +44,9 @@ Table: Phase equilibrium, Ru–Si–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase assemblage |  | 1173 | Ru4Si3 + RuSi(CsCl) + Ru2Sn3; _alloy: Si 0.428571, Sn 0_ | experimental | [1] Long 2012; _cites Perring 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900569-6) | Table 1, p. 3, row 2 |  |
-| Phase assemblage |  | 1173 | RuSi(CsCl) + Ru2Sn3 + Ru3Sn7; _alloy: Si 0.5, Sn 0_ | experimental | [1] Long 2012; _cites Perring 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900569-6) | Table 1, p. 3, row 3 |  |
-| Phase assemblage |  | 1173 | hcp(Ru) + Ru4Si3 + Ru2Sn3; _alloy: Si 0, Sn 0_ | experimental | [1] Long 2012; _cites Perring 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900569-6) | Table 1, p. 3, row 1 |  |
+| Phase assemblage |  | 1173 | Ru4Si3 + RuSi(CsCl) + Ru2Sn3; _alloy: Si 0.428571, Sn 0_ | experimental | [1] Long 2012; _cites Perring 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900569-6) | Table 1, p. 3, row 2; `ORC-22NI63PK2G` |  |
+| Phase assemblage |  | 1173 | RuSi(CsCl) + Ru2Sn3 + Ru3Sn7; _alloy: Si 0.5, Sn 0_ | experimental | [1] Long 2012; _cites Perring 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900569-6) | Table 1, p. 3, row 3; `ORC-47XN2IXUZR` |  |
+| Phase assemblage |  | 1173 | hcp(Ru) + Ru4Si3 + Ru2Sn3; _alloy: Si 0, Sn 0_ | experimental | [1] Long 2012; _cites Perring 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900569-6) | Table 1, p. 3, row 1; `ORC-BGQREJMFIY` |  |
 
 ## Sources
 
@@ -89,4 +89,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

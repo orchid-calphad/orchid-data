@@ -59,9 +59,9 @@ Table: Invariant reactions reported in the literature for the Dy–Te system (3)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1343 | Dy2Te -> hcp(Dy) + DyTe | Dy2Te: Te 0.33; hcp(Dy): Te 0; DyTe: Te 0.5 | experimental | [1] Cui 2023; _cites Herle 2001_ | Table 3, p. 7, row 21 |  |
-| 1342 | Dy2Te -> hcp(Dy) + DyTe | Dy2Te: Te 0.33; hcp(Dy): Te 0; DyTe: Te 0.5 | model | [1] Cui 2023 | Table 3, p. 7, row 22 |  |
-| 723 | Liquid -> Dy4Te11 + hex(Te) | Liquid: Te 1; Dy4Te11: Te 0.733; hex(Te): Te 1 | model | [1] Cui 2023 | Table 3, p. 7, row 34 |  |
+| 1343 | Dy2Te -> hcp(Dy) + DyTe | Dy2Te: Te 0.33; hcp(Dy): Te 0; DyTe: Te 0.5 | experimental | [1] Cui 2023; _cites Herle 2001_ | Table 3, p. 7, row 21; `ORC-F35SKIXWJ5` |  |
+| 1342 | Dy2Te -> hcp(Dy) + DyTe | Dy2Te: Te 0.33; hcp(Dy): Te 0; DyTe: Te 0.5 | model | [1] Cui 2023 | Table 3, p. 7, row 22; `ORC-6FEKG6WC5L` |  |
+| 723 | Liquid -> Dy4Te11 + hex(Te) | Liquid: Te 1; Dy4Te11: Te 0.733; hex(Te): Te 1 | model | [1] Cui 2023 | Table 3, p. 7, row 34; `ORC-FJKAH32ZDQ` |  |
 
 ## Other properties
 
@@ -71,10 +71,10 @@ Table: Phase transition, Dy–Te system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1343 K | 1343 | Dy2Te -> DyTe + hcp(Dy) | experimental | [1] Cui 2023; _cites Herle 2001_ | p. 3 | “Later, Herle and Corbett26 experimentally demonstrated the existence of Dy2Te and reported that Dy2Te decomposes into DyTe and hcp(Dy) above about 1343 K.” |
-| Phase transition | 1343 K | 1343 | other: Dy2Te -> DyTe + hcp(Dy) | experimental | [1] Cui 2023 | p. 8 | “According to the experimental data, Dy2Te decomposes into DyTe and hcp(Dy) above about 1343 K, which is also reflected by our calculated results.” |
-| Phase transition | 1846 K | 1846 | congruent transformation | experimental | [1] Cui 2023; _cites Abrikosov 1970_ | p. 3 | “According to the measured phase diagram, there are two congruent melting compounds in the Dy-Te binary system: DyTe and Dy2Te3, which melt at 2123 and 1846 K, respectively.” |
-| Phase transition | 2123 K | 2123 | congruent transformation | experimental | [1] Cui 2023; _cites Abrikosov 1970_ | p. 3 | “According to the measured phase diagram, there are two congruent melting compounds in the Dy-Te binary system: DyTe and Dy2Te3, which melt at 2123 and 1846 K, respectively.” |
+| Phase transition | 1343 K | 1343 | Dy2Te -> DyTe + hcp(Dy) | experimental | [1] Cui 2023; _cites Herle 2001_ | p. 3; `ORC-ZVML6HCLYH` | “Later, Herle and Corbett26 experimentally demonstrated the existence of Dy2Te and reported that Dy2Te decomposes into DyTe and hcp(Dy) above about 1343 K.” |
+| Phase transition | 1343 K | 1343 | other: Dy2Te -> DyTe + hcp(Dy) | experimental | [1] Cui 2023 | p. 8; `ORC-WDWWMZQIOG` | “According to the experimental data, Dy2Te decomposes into DyTe and hcp(Dy) above about 1343 K, which is also reflected by our calculated results.” |
+| Phase transition | 1846 K | 1846 | congruent transformation | experimental | [1] Cui 2023; _cites Abrikosov 1970_ | p. 3; `ORC-WQH3ENK6RX.64e61e` | “According to the measured phase diagram, there are two congruent melting compounds in the Dy-Te binary system: DyTe and Dy2Te3, which melt at 2123 and 1846 K, respectively.” |
+| Phase transition | 2123 K | 2123 | congruent transformation | experimental | [1] Cui 2023; _cites Abrikosov 1970_ | p. 3; `ORC-WQH3ENK6RX.26605f` | “According to the measured phase diagram, there are two congruent melting compounds in the Dy-Te binary system: DyTe and Dy2Te3, which melt at 2123 and 1846 K, respectively.” |
 
 ### Crystal structure (15)
 
@@ -82,21 +82,21 @@ Table: Crystal structure, Dy–Te system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 21.922 Å | 298.15 | Dy2Te; _alloy: Te 0.333333_ | experimental | [1] Cui 2023; _cites Herle 2001_ | Table 1, p. 2, row 13 |  |
-| Lattice a | 12.2 Å | 298.15 | Dy2Te3; _alloy: Te 0.6_ | experimental | [1] Cui 2023; _cites Abrikosov 1970_ | Table 1, p. 2, row 15 |  |
-| Lattice a | 4.298 Å | 298.15 | Dy4Te11; _alloy: Te 0.733333_ | experimental | [1] Cui 2023; _cites Abrikosov 1970_ | Table 1, p. 2, row 18 |  |
-| Lattice a | 4.274 Å | 298.15 | Dy4Te7; _alloy: Te 0.636364_ | experimental | [1] Cui 2023; _cites Abrikosov 1970_ | Table 1, p. 2, row 16 |  |
-| Lattice a | 4.304 Å | 298.15 | Dy4Te9; _alloy: Te 0.692308_ | experimental | [1] Cui 2023; _cites Abrikosov 1970_ | Table 1, p. 2, row 17 |  |
-| Lattice a | 6.077 Å | 298.15 | DyTe; _alloy: Te 0.5_ | experimental | [1] Cui 2023; _cites Abrikosov 1970_ | Table 1, p. 2, row 14 |  |
-| Lattice b | 4.65 Å | 298.15 | Dy2Te; _alloy: Te 0.333333_ | experimental | [1] Cui 2023; _cites Herle 2001_ | Table 1, p. 2, row 13 |  |
-| Lattice b | 8.645 Å | 298.15 | Dy2Te3; _alloy: Te 0.6_ | experimental | [1] Cui 2023; _cites Abrikosov 1970_ | Table 1, p. 2, row 15 |  |
-| Lattice b | 4.298 Å | 298.15 | Dy4Te11; _alloy: Te 0.733333_ | experimental | [1] Cui 2023; _cites Abrikosov 1970_ | Table 1, p. 2, row 18 |  |
-| Lattice b | 4.301 Å | 298.15 | Dy4Te9; _alloy: Te 0.692308_ | experimental | [1] Cui 2023; _cites Abrikosov 1970_ | Table 1, p. 2, row 17 |  |
-| Lattice c | 11.428 Å | 298.15 | Dy2Te; _alloy: Te 0.333333_ | experimental | [1] Cui 2023; _cites Herle 2001_ | Table 1, p. 2, row 13 |  |
-| Lattice c | 25.85 Å | 298.15 | Dy2Te3; _alloy: Te 0.6_ | experimental | [1] Cui 2023; _cites Abrikosov 1970_ | Table 1, p. 2, row 15 |  |
-| Lattice c | 25.42 Å | 298.15 | Dy4Te11; _alloy: Te 0.733333_ | experimental | [1] Cui 2023; _cites Abrikosov 1970_ | Table 1, p. 2, row 18 |  |
-| Lattice c | 8.917 Å | 298.15 | Dy4Te7; _alloy: Te 0.636364_ | experimental | [1] Cui 2023; _cites Abrikosov 1970_ | Table 1, p. 2, row 16 |  |
-| Lattice c | 43.2 Å | 298.15 | Dy4Te9; _alloy: Te 0.692308_ | experimental | [1] Cui 2023; _cites Abrikosov 1970_ | Table 1, p. 2, row 17 |  |
+| Lattice a | 21.922 Å | 298.15 | Dy2Te; _alloy: Te 0.333333_ | experimental | [1] Cui 2023; _cites Herle 2001_ | Table 1, p. 2, row 13; `ORC-E5HNJRVPHM.12b0c6` |  |
+| Lattice a | 12.2 Å | 298.15 | Dy2Te3; _alloy: Te 0.6_ | experimental | [1] Cui 2023; _cites Abrikosov 1970_ | Table 1, p. 2, row 15; `ORC-5ITSDD54LX.4be8c2` |  |
+| Lattice a | 4.298 Å | 298.15 | Dy4Te11; _alloy: Te 0.733333_ | experimental | [1] Cui 2023; _cites Abrikosov 1970_ | Table 1, p. 2, row 18; `ORC-FTBWQHRNBL.2da2bd` |  |
+| Lattice a | 4.274 Å | 298.15 | Dy4Te7; _alloy: Te 0.636364_ | experimental | [1] Cui 2023; _cites Abrikosov 1970_ | Table 1, p. 2, row 16; `ORC-EPOJ673M33.64902b` |  |
+| Lattice a | 4.304 Å | 298.15 | Dy4Te9; _alloy: Te 0.692308_ | experimental | [1] Cui 2023; _cites Abrikosov 1970_ | Table 1, p. 2, row 17; `ORC-5P6HY2LMHD.24a9de` |  |
+| Lattice a | 6.077 Å | 298.15 | DyTe; _alloy: Te 0.5_ | experimental | [1] Cui 2023; _cites Abrikosov 1970_ | Table 1, p. 2, row 14; `ORC-L53RRBOQEJ` |  |
+| Lattice b | 4.65 Å | 298.15 | Dy2Te; _alloy: Te 0.333333_ | experimental | [1] Cui 2023; _cites Herle 2001_ | Table 1, p. 2, row 13; `ORC-E5HNJRVPHM.3ba859` |  |
+| Lattice b | 8.645 Å | 298.15 | Dy2Te3; _alloy: Te 0.6_ | experimental | [1] Cui 2023; _cites Abrikosov 1970_ | Table 1, p. 2, row 15; `ORC-5ITSDD54LX.5c396d` |  |
+| Lattice b | 4.298 Å | 298.15 | Dy4Te11; _alloy: Te 0.733333_ | experimental | [1] Cui 2023; _cites Abrikosov 1970_ | Table 1, p. 2, row 18; `ORC-FTBWQHRNBL.5745c9` |  |
+| Lattice b | 4.301 Å | 298.15 | Dy4Te9; _alloy: Te 0.692308_ | experimental | [1] Cui 2023; _cites Abrikosov 1970_ | Table 1, p. 2, row 17; `ORC-5P6HY2LMHD.b2086a` |  |
+| Lattice c | 11.428 Å | 298.15 | Dy2Te; _alloy: Te 0.333333_ | experimental | [1] Cui 2023; _cites Herle 2001_ | Table 1, p. 2, row 13; `ORC-E5HNJRVPHM.887c13` |  |
+| Lattice c | 25.85 Å | 298.15 | Dy2Te3; _alloy: Te 0.6_ | experimental | [1] Cui 2023; _cites Abrikosov 1970_ | Table 1, p. 2, row 15; `ORC-5ITSDD54LX.be3415` |  |
+| Lattice c | 25.42 Å | 298.15 | Dy4Te11; _alloy: Te 0.733333_ | experimental | [1] Cui 2023; _cites Abrikosov 1970_ | Table 1, p. 2, row 18; `ORC-FTBWQHRNBL.8d3f40` |  |
+| Lattice c | 8.917 Å | 298.15 | Dy4Te7; _alloy: Te 0.636364_ | experimental | [1] Cui 2023; _cites Abrikosov 1970_ | Table 1, p. 2, row 16; `ORC-EPOJ673M33.9e147c` |  |
+| Lattice c | 43.2 Å | 298.15 | Dy4Te9; _alloy: Te 0.692308_ | experimental | [1] Cui 2023; _cites Abrikosov 1970_ | Table 1, p. 2, row 17; `ORC-5P6HY2LMHD.c08954` |  |
 
 ## Sources
 
@@ -161,4 +161,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

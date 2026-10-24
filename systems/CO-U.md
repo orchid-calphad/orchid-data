@@ -62,28 +62,28 @@ Table: Invariant reactions reported in the literature for the Co–U system (22)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1458.15 | congruent melting: L -> Co2U | L: Co 0.667; Co2U: Co 0.667 | experimental | [1] Wang 2008; _cites Ishida 2000_ | Table 3, p. 7, row 17 |  |
-| 1456.15 | congruent melting: L -> Co2U | L: Co 0.667; Co2U: Co 0.667 | model | [1] Wang 2008 | Table 3, p. 7, row 18 |  |
-| 1403.15 | congruent melting: L -> Co11 U2 | L: Co 0.846; Co11 U2: Co 0.846 | experimental | [1] Wang 2008; _cites Ishida 2000_ | Table 3, p. 7, row 19 |  |
-| 1398.15 | congruent melting: L -> Co11 U2 | L: Co 0.846; Co11 U2: Co 0.846 | model | [1] Wang 2008 | Table 3, p. 7, row 20 |  |
-| 1393.15 | congruent melting: L -> Co4U | L: Co 0.8; Co4U: Co 0.8 | experimental | [1] Wang 2008; _cites Ishida 2000_ | Table 3, p. 7, row 21 |  |
-| 1393.15 | eutectic: L -> fcc (Co) + Co11 U2 | L: Co 0.969; fcc (Co): Co 1; Co11 U2: Co 0.846 | model | [1] Wang 2008 | Table 3, p. 7, row 6 |  |
-| 1393.15 | eutectic: L -> fcc (Co) + Co11 U2 | L: Co 0.96; fcc (Co): Co 0.9999; Co11 U2: Co 0.846 | experimental | [1] Wang 2008; _cites Ishida 2000_ | Table 3, p. 7, row 5 |  |
-| 1387.15 | congruent melting: L -> Co4U | L: Co 0.8; Co4U: Co 0.8 | model | [1] Wang 2008 | Table 3, p. 7, row 22 |  |
-| 1387.15 | eutectic: L -> Co11 U2 + Co4U | L: Co 0.805; Co11 U2: Co 0.846; Co4U: Co 0.8 | model | [1] Wang 2008 | Table 3, p. 7, row 8 |  |
-| 1385.15 | eutectic: L -> Co4U + Co2U | L: Co 0.779; Co4U: Co 0.8; Co2U: Co 0.667 | model | [1] Wang 2008 | Table 3, p. 7, row 10 |  |
-| 1383.15 | eutectic: L -> Co11 U2 + Co4U | L: Co 0.82; Co11 U2: Co 0.846; Co4U: Co 0.8 | experimental | [1] Wang 2008; _cites Ishida 2000_ | Table 3, p. 7, row 7 |  |
-| 1363.15 | eutectic: L -> Co4U + Co2U | L: Co 0.77; Co4U: Co 0.8; Co2U: Co 0.667 | experimental | [1] Wang 2008; _cites Ishida 2000_ | Table 3, p. 7, row 9 |  |
-| 1103.15 | peritectoid: Co4U + Co2 U -> Co3U | Co4U: Co 0.8; Co2 U: Co 0.75; Co3U: Co 0.75 | model | [1] Wang 2008 | Table 3, p. 7, row 2 |  |
-| 1103.15 | peritectoid: Co4U + Co2 U -> Co3U | Co4U: Co 0.8; Co2 U: Co 0.75; Co3U: Co 0.75 | experimental | [1] Wang 2008; _cites Ishida 2000_ | Table 3, p. 7, row 1 |  |
-| 1099.15 | peritectic: L + γ(U) -> CoU 6 | L: Co 0.215; γ(U): Co 0.015; CoU 6: Co 0.143 | experimental | [1] Wang 2008; _cites Ishida 2000_ | Table 3, p. 7, row 13 |  |
-| 1097.15 | peritectic: L + γ(U) -> CoU 6 | L: Co 0.216; γ(U): Co 0.032; CoU 6: Co 0.143 | model | [1] Wang 2008 | Table 3, p. 7, row 14 |  |
-| 1078.15 | peritectic: L + Co2U -> CoU | L: Co 0.427; Co2U: Co 0.667; CoU: Co 0.5 | experimental | [1] Wang 2008; _cites Ishida 2000_ | Table 3, p. 7, row 15 |  |
-| 1077.15 | peritectic: L + Co2U -> CoU | L: Co 0.437; Co2U: Co 0.667; CoU: Co 0.5 | model | [1] Wang 2008 | Table 3, p. 7, row 16 |  |
-| 1031.15 | peritectoid: CoU6 + γ (U) -> α (U) | CoU6: Co 0.846; γ (U): Co 0.032; α (U): Co 6.000e-4 | model | [1] Wang 2008 | Table 3, p. 7, row 4 |  |
-| 1029.15 | peritectoid: CoU6 + γ (U) -> α (U) | CoU6: Co 0.846; γ (U): Co 0.015; α (U): Co 6.000e-4 | experimental | [1] Wang 2008; _cites Ishida 2000_ | Table 3, p. 7, row 3 |  |
-| 1010.15 | eutectic: L -> CoU + CoU6 | L: Co 0.353; CoU: Co 0.5; CoU6: Co 0.143 | model | [1] Wang 2008 | Table 3, p. 7, row 12 |  |
-| 1007.15 | eutectic: L -> CoU + CoU6 | L: Co 0.34; CoU: Co 0.5; CoU6: Co 0.143 | experimental | [1] Wang 2008; _cites Ishida 2000_ | Table 3, p. 7, row 11 |  |
+| 1458.15 | congruent melting: L -> Co2U | L: Co 0.667; Co2U: Co 0.667 | experimental | [1] Wang 2008; _cites Ishida 2000_ | Table 3, p. 7, row 17; `ORC-6USXXYS5AC` |  |
+| 1456.15 | congruent melting: L -> Co2U | L: Co 0.667; Co2U: Co 0.667 | model | [1] Wang 2008 | Table 3, p. 7, row 18; `ORC-XCDXF6W4TO` |  |
+| 1403.15 | congruent melting: L -> Co11 U2 | L: Co 0.846; Co11 U2: Co 0.846 | experimental | [1] Wang 2008; _cites Ishida 2000_ | Table 3, p. 7, row 19; `ORC-4K6WCVAYAP` |  |
+| 1398.15 | congruent melting: L -> Co11 U2 | L: Co 0.846; Co11 U2: Co 0.846 | model | [1] Wang 2008 | Table 3, p. 7, row 20; `ORC-ZB6LTQC4CD` |  |
+| 1393.15 | congruent melting: L -> Co4U | L: Co 0.8; Co4U: Co 0.8 | experimental | [1] Wang 2008; _cites Ishida 2000_ | Table 3, p. 7, row 21; `ORC-6QELNEHO6V` |  |
+| 1393.15 | eutectic: L -> fcc (Co) + Co11 U2 | L: Co 0.969; fcc (Co): Co 1; Co11 U2: Co 0.846 | model | [1] Wang 2008 | Table 3, p. 7, row 6; `ORC-HSPKDNAAK4` |  |
+| 1393.15 | eutectic: L -> fcc (Co) + Co11 U2 | L: Co 0.96; fcc (Co): Co 0.9999; Co11 U2: Co 0.846 | experimental | [1] Wang 2008; _cites Ishida 2000_ | Table 3, p. 7, row 5; `ORC-L22P3HWZTM` |  |
+| 1387.15 | congruent melting: L -> Co4U | L: Co 0.8; Co4U: Co 0.8 | model | [1] Wang 2008 | Table 3, p. 7, row 22; `ORC-I62X6TI337` |  |
+| 1387.15 | eutectic: L -> Co11 U2 + Co4U | L: Co 0.805; Co11 U2: Co 0.846; Co4U: Co 0.8 | model | [1] Wang 2008 | Table 3, p. 7, row 8; `ORC-XNVWJ3GOZV` |  |
+| 1385.15 | eutectic: L -> Co4U + Co2U | L: Co 0.779; Co4U: Co 0.8; Co2U: Co 0.667 | model | [1] Wang 2008 | Table 3, p. 7, row 10; `ORC-TB5YZBCM7V` |  |
+| 1383.15 | eutectic: L -> Co11 U2 + Co4U | L: Co 0.82; Co11 U2: Co 0.846; Co4U: Co 0.8 | experimental | [1] Wang 2008; _cites Ishida 2000_ | Table 3, p. 7, row 7; `ORC-W4WYF3K26L` |  |
+| 1363.15 | eutectic: L -> Co4U + Co2U | L: Co 0.77; Co4U: Co 0.8; Co2U: Co 0.667 | experimental | [1] Wang 2008; _cites Ishida 2000_ | Table 3, p. 7, row 9; `ORC-SXVDXDN7F4` |  |
+| 1103.15 | peritectoid: Co4U + Co2 U -> Co3U | Co4U: Co 0.8; Co2 U: Co 0.75; Co3U: Co 0.75 | model | [1] Wang 2008 | Table 3, p. 7, row 2; `ORC-RJT6BYMKYV` |  |
+| 1103.15 | peritectoid: Co4U + Co2 U -> Co3U | Co4U: Co 0.8; Co2 U: Co 0.75; Co3U: Co 0.75 | experimental | [1] Wang 2008; _cites Ishida 2000_ | Table 3, p. 7, row 1; `ORC-VKXRV66FD2` |  |
+| 1099.15 | peritectic: L + γ(U) -> CoU 6 | L: Co 0.215; γ(U): Co 0.015; CoU 6: Co 0.143 | experimental | [1] Wang 2008; _cites Ishida 2000_ | Table 3, p. 7, row 13; `ORC-MF3JUINRVX` |  |
+| 1097.15 | peritectic: L + γ(U) -> CoU 6 | L: Co 0.216; γ(U): Co 0.032; CoU 6: Co 0.143 | model | [1] Wang 2008 | Table 3, p. 7, row 14; `ORC-2EIJIEMY4G` |  |
+| 1078.15 | peritectic: L + Co2U -> CoU | L: Co 0.427; Co2U: Co 0.667; CoU: Co 0.5 | experimental | [1] Wang 2008; _cites Ishida 2000_ | Table 3, p. 7, row 15; `ORC-3RPYTKEEJB` |  |
+| 1077.15 | peritectic: L + Co2U -> CoU | L: Co 0.437; Co2U: Co 0.667; CoU: Co 0.5 | model | [1] Wang 2008 | Table 3, p. 7, row 16; `ORC-AAUZP56BUT` |  |
+| 1031.15 | peritectoid: CoU6 + γ (U) -> α (U) | CoU6: Co 0.846; γ (U): Co 0.032; α (U): Co 6.000e-4 | model | [1] Wang 2008 | Table 3, p. 7, row 4; `ORC-37DFZ5GTHB` |  |
+| 1029.15 | peritectoid: CoU6 + γ (U) -> α (U) | CoU6: Co 0.846; γ (U): Co 0.015; α (U): Co 6.000e-4 | experimental | [1] Wang 2008; _cites Ishida 2000_ | Table 3, p. 7, row 3; `ORC-DCUPJANQUM` |  |
+| 1010.15 | eutectic: L -> CoU + CoU6 | L: Co 0.353; CoU: Co 0.5; CoU6: Co 0.143 | model | [1] Wang 2008 | Table 3, p. 7, row 12; `ORC-CH4QFD3NAE` |  |
+| 1007.15 | eutectic: L -> CoU + CoU6 | L: Co 0.34; CoU: Co 0.5; CoU6: Co 0.143 | experimental | [1] Wang 2008; _cites Ishida 2000_ | Table 3, p. 7, row 11; `ORC-YT5GGI5HHB` |  |
 
 ## Sources
 
@@ -148,4 +148,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

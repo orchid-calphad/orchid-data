@@ -14,11 +14,11 @@ Table: Enthalpy of formation of Ga2Te3 reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -39.8 kJ/mol-atom | Ga2Te3 | 298.15 | experimental | Calorimetry | [Ga–Te](https://data.orchid-project.org/systems/GA-TE.html) | [1] Yu 2022; _cites Said 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990059-6) | Table 2, p. 5, row 10 |  |
-| -38.6 kJ/mol-atom | Ga2Te3 | 298.15 | experimental | Calorimetry | [Ga–Te](https://data.orchid-project.org/systems/GA-TE.html) | [1] Yu 2022; _cites Said 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990059-6) | Table 2, p. 5, row 9 |  |
-| -38.194 kJ/mol-atom | Ga2Te3 | 298.15 | model | CALPHAD | [Ga–Te](https://data.orchid-project.org/systems/GA-TE.html) | [1] Yu 2022 | Table 2, p. 5, row 8 |  |
-| -35.511 kJ/mol-atom | Ga2Te3 | 0 | DFT | First-principles | [Ga–Te](https://data.orchid-project.org/systems/GA-TE.html) | [1] Yu 2022 | Table 2, p. 5, row 6 |  |
-| -29.99 kJ/mol-atom | Ga2Te3 | 0 | DFT | First-principles | [Ga–Te](https://data.orchid-project.org/systems/GA-TE.html) | [1] Yu 2022; _cites Saal 2013_ [doi](https://doi.org/10.1007/s11837-013-0755-4) | Table 2, p. 5, row 7 |  |
+| -39.8 kJ/mol-atom | Ga2Te3 | 298.15 | experimental | Calorimetry | [Ga–Te](https://data.orchid-project.org/systems/GA-TE.html) | [1] Yu 2022; _cites Said 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990059-6) | Table 2, p. 5, row 10; `ORC-BI5U37YLA2` |  |
+| -38.6 kJ/mol-atom | Ga2Te3 | 298.15 | experimental | Calorimetry | [Ga–Te](https://data.orchid-project.org/systems/GA-TE.html) | [1] Yu 2022; _cites Said 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990059-6) | Table 2, p. 5, row 9; `ORC-U5EXLZK6QQ` |  |
+| -38.194 kJ/mol-atom | Ga2Te3 | 298.15 | model | CALPHAD | [Ga–Te](https://data.orchid-project.org/systems/GA-TE.html) | [1] Yu 2022 | Table 2, p. 5, row 8; `ORC-FVNX7N6Q3O` |  |
+| -35.511 kJ/mol-atom | Ga2Te3 | 0 | DFT | First-principles | [Ga–Te](https://data.orchid-project.org/systems/GA-TE.html) | [1] Yu 2022 | Table 2, p. 5, row 6; `ORC-66G53FOISC` |  |
+| -29.99 kJ/mol-atom | Ga2Te3 | 0 | DFT | First-principles | [Ga–Te](https://data.orchid-project.org/systems/GA-TE.html) | [1] Yu 2022; _cites Saal 2013_ [doi](https://doi.org/10.1007/s11837-013-0755-4) | Table 2, p. 5, row 7; `ORC-IG2K3FWSAQ` |  |
 
 ### Uncertainty budget
 
@@ -98,4 +98,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

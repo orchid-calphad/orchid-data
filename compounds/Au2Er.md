@@ -14,10 +14,10 @@ Table: Enthalpy of formation of Au2Er reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -85.9 kJ/mol-atom ± 1.9 | Au2Er | 298.15 | experimental |  | [Au–Er](https://data.orchid-project.org/systems/AU-ER.html) | [1] Dong 2011 | Table 1, p. 3, row 26 |  |
-| -79 kJ/mol-atom | Au2Er | 298.15 | experimental |  | [Au–Er](https://data.orchid-project.org/systems/AU-ER.html) | [1] Dong 2011 | Table 1, p. 3, row 27 |  |
-| -88.4 kJ/mol-atom | Au2Er | 0 | DFT | ab initio | [Au–Er](https://data.orchid-project.org/systems/AU-ER.html) | [1] Dong 2011 | Table 1, p. 3, row 24 |  |
-| -86 kJ/mol-atom | Au2Er |  | DFT | VASP | [Au–Er](https://data.orchid-project.org/systems/AU-ER.html) | [1] Dong 2011 | Table 1, p. 3, row 25 |  |
+| -85.9 kJ/mol-atom ± 1.9 | Au2Er | 298.15 | experimental |  | [Au–Er](https://data.orchid-project.org/systems/AU-ER.html) | [1] Dong 2011 | Table 1, p. 3, row 26; `ORC-AIJSPHZUMQ.61c94f` |  |
+| -79 kJ/mol-atom | Au2Er | 298.15 | experimental |  | [Au–Er](https://data.orchid-project.org/systems/AU-ER.html) | [1] Dong 2011 | Table 1, p. 3, row 27; `ORC-AWQNRKTQUQ.06342d` |  |
+| -88.4 kJ/mol-atom | Au2Er | 0 | DFT | ab initio | [Au–Er](https://data.orchid-project.org/systems/AU-ER.html) | [1] Dong 2011 | Table 1, p. 3, row 24; `ORC-RE3YQLY53P.0333b5` |  |
+| -86 kJ/mol-atom | Au2Er |  | DFT | VASP | [Au–Er](https://data.orchid-project.org/systems/AU-ER.html) | [1] Dong 2011 | Table 1, p. 3, row 25; `ORC-76NYL32QDB.351d36` |  |
 
 ### Uncertainty budget
 
@@ -96,4 +96,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

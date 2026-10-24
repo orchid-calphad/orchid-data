@@ -116,23 +116,23 @@ Table: Invariant reactions reported in the literature for the Al–Ir system (17
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2404 | congruent melting: Liquid = AlIr | Liquid: Al 0.5, Ir 0.5; AlIr: Al 0.5, Ir 0.5 | model | [1] JIANG 2006 | Table 6, p. 8, row 5 |  |
-| 2393 | congruent melting: Liquid = AlIr | Liquid: Al 0.5, Ir 0.5; AlIr: Al 0.5, Ir 0.5 | experimental | [1] JIANG 2006; _cites Axler 1989_ | Table 6, p. 8, row 6 |  |
-| 2331 | eutectic: Liquid = AlIr + fcc | Liquid: Ir 0.7; AlIr: Al 0.5, Ir 0.5; fcc: Ir 0.82 | experimental | [1] JIANG 2006; _cites Axler 1989_ | Table 6, p. 8, row 3 |  |
-| 2173 | eutectic: Liquid = AlIr + fcc | AlIr: Al 0.5, Ir 0.5 | experimental | [1] JIANG 2006; _cites Yamabe-Mitarai 2003_ | Table 6, p. 8, row 2 |  |
-| 2165 | eutectic: Liquid = AlIr + fcc | Liquid: Ir 0.681; AlIr: Al 0.5, Ir 0.5; fcc: Ir 0.847 | model | [1] JIANG 2006 | Table 6, p. 8, row 1 |  |
-| 1932 | eutectic: Liquid = AlIr + Al2.7Ir | Liquid: Ir 0.295; AlIr: Al 0.5, Ir 0.5; Al2.7Ir: Al 0.73, Ir 0.27 | model | [1] JIANG 2006 | Table 6, p. 8, row 7 |  |
-| 1873 | eutectic: Liquid = AlIr + Al2.7Ir | AlIr: Al 0.5, Ir 0.5; Al2.7Ir: Al 0.73, Ir 0.27 | experimental | [1] JIANG 2006; _cites Lee 1989_ | Table 6, p. 8, row 8 |  |
-| 1723 | peritectic: Liquid + Al2.7Ir = Al3Ir | Al2.7Ir: Al 0.73, Ir 0.27; Al3Ir: Al 0.75, Ir 0.25 | experimental | [1] JIANG 2006; _cites Axler 1989_ | Table 6, p. 8, row 11 |  |
-| 1723 | peritectic: Liquid + Al2.7Ir = Al3Ir | Liquid: Ir 0.158; Al2.7Ir: Al 0.73, Ir 0.27; Al3Ir: Al 0.75, Ir 0.25 | model | [1] JIANG 2006 | Table 6, p. 8, row 10 |  |
-| 1288 | peritectic: Liquid + Al3Ir = Al13Ir4 | Al3Ir: Al 0.75, Ir 0.25; Al13Ir4: Al 0.764706, Ir 0.235294 | experimental | [1] JIANG 2006; _cites Axler 1989_ | Table 6, p. 8, row 13 |  |
-| 1288 | peritectic: Liquid + Al3Ir = Al13Ir4 | Liquid: Ir 0.07; Al3Ir: Al 0.75, Ir 0.25; Al13Ir4: Al 0.764706, Ir 0.235294 | model | [1] JIANG 2006 | Table 6, p. 8, row 12 |  |
-| 1168 | peritectic: Liquid + Al13Ir4 = Al45Ir13 | Al13Ir4: Al 0.764706, Ir 0.235294; Al45Ir13: Al 0.775862, Ir 0.224138 | experimental | [1] JIANG 2006; _cites Bostrom 2005_ | Table 6, p. 8, row 15 |  |
-| 1168 | peritectic: Liquid + Al13Ir4 = Al45Ir13 | Liquid: Ir 0.052; Al13Ir4: Al 0.764706, Ir 0.235294; Al45Ir13: Al 0.775862, Ir 0.224138 | model | [1] JIANG 2006 | Table 6, p. 8, row 14 |  |
-| 1150 | peritectic: Liquid + Al45Ir13 = Al9Ir2 | Liquid: Ir 0.049; Al45Ir13: Al 0.775862, Ir 0.224138; Al9Ir2: Al 0.818182, Ir 0.181818 | model | [1] JIANG 2006 | Table 6, p. 8, row 16 |  |
-| 1149 | peritectic: Liquid + Al45Ir13 = Al9Ir2 | Al45Ir13: Al 0.775862, Ir 0.224138; Al9Ir2: Al 0.818182, Ir 0.181818 | experimental | [1] JIANG 2006; _cites Bostrom 2005_ | Table 6, p. 8, row 17 |  |
-| 923 | eutectic: Liquid = fcc + Al9Ir2 | fcc: Ir 0.001; Al9Ir2: Al 0.818182, Ir 0.181818 | experimental | [1] JIANG 2006; _cites Axler 1989_ | Table 6, p. 8, row 19 |  |
-| 921 | eutectic: Liquid = fcc + Al9Ir2 | Liquid: Ir 0.013; fcc: Ir 0.001; Al9Ir2: Al 0.818182, Ir 0.181818 | model | [1] JIANG 2006 | Table 6, p. 8, row 18 |  |
+| 2404 | congruent melting: Liquid = AlIr | Liquid: Al 0.5, Ir 0.5; AlIr: Al 0.5, Ir 0.5 | model | [1] JIANG 2006 | Table 6, p. 8, row 5; `ORC-U5TSDHIBWP` |  |
+| 2393 | congruent melting: Liquid = AlIr | Liquid: Al 0.5, Ir 0.5; AlIr: Al 0.5, Ir 0.5 | experimental | [1] JIANG 2006; _cites Axler 1989_ | Table 6, p. 8, row 6; `ORC-CMXPVZJ5ES` |  |
+| 2331 | eutectic: Liquid = AlIr + fcc | Liquid: Ir 0.7; AlIr: Al 0.5, Ir 0.5; fcc: Ir 0.82 | experimental | [1] JIANG 2006; _cites Axler 1989_ | Table 6, p. 8, row 3; `ORC-XJL7RMAZQ3` |  |
+| 2173 | eutectic: Liquid = AlIr + fcc | AlIr: Al 0.5, Ir 0.5 | experimental | [1] JIANG 2006; _cites Yamabe-Mitarai 2003_ | Table 6, p. 8, row 2; `ORC-SN6AKRGVKT` |  |
+| 2165 | eutectic: Liquid = AlIr + fcc | Liquid: Ir 0.681; AlIr: Al 0.5, Ir 0.5; fcc: Ir 0.847 | model | [1] JIANG 2006 | Table 6, p. 8, row 1; `ORC-E7Y27DIFCS` |  |
+| 1932 | eutectic: Liquid = AlIr + Al2.7Ir | Liquid: Ir 0.295; AlIr: Al 0.5, Ir 0.5; Al2.7Ir: Al 0.73, Ir 0.27 | model | [1] JIANG 2006 | Table 6, p. 8, row 7; `ORC-3GV7GZDPN3` |  |
+| 1873 | eutectic: Liquid = AlIr + Al2.7Ir | AlIr: Al 0.5, Ir 0.5; Al2.7Ir: Al 0.73, Ir 0.27 | experimental | [1] JIANG 2006; _cites Lee 1989_ | Table 6, p. 8, row 8; `ORC-IMXEAXZQHM` |  |
+| 1723 | peritectic: Liquid + Al2.7Ir = Al3Ir | Al2.7Ir: Al 0.73, Ir 0.27; Al3Ir: Al 0.75, Ir 0.25 | experimental | [1] JIANG 2006; _cites Axler 1989_ | Table 6, p. 8, row 11; `ORC-2OZR4FNUN5` |  |
+| 1723 | peritectic: Liquid + Al2.7Ir = Al3Ir | Liquid: Ir 0.158; Al2.7Ir: Al 0.73, Ir 0.27; Al3Ir: Al 0.75, Ir 0.25 | model | [1] JIANG 2006 | Table 6, p. 8, row 10; `ORC-FCEYUU6FYS` |  |
+| 1288 | peritectic: Liquid + Al3Ir = Al13Ir4 | Al3Ir: Al 0.75, Ir 0.25; Al13Ir4: Al 0.764706, Ir 0.235294 | experimental | [1] JIANG 2006; _cites Axler 1989_ | Table 6, p. 8, row 13; `ORC-CLD4ZCDX4N` |  |
+| 1288 | peritectic: Liquid + Al3Ir = Al13Ir4 | Liquid: Ir 0.07; Al3Ir: Al 0.75, Ir 0.25; Al13Ir4: Al 0.764706, Ir 0.235294 | model | [1] JIANG 2006 | Table 6, p. 8, row 12; `ORC-RGFRXSGBDO` |  |
+| 1168 | peritectic: Liquid + Al13Ir4 = Al45Ir13 | Al13Ir4: Al 0.764706, Ir 0.235294; Al45Ir13: Al 0.775862, Ir 0.224138 | experimental | [1] JIANG 2006; _cites Bostrom 2005_ | Table 6, p. 8, row 15; `ORC-V2TFOGBBDI` |  |
+| 1168 | peritectic: Liquid + Al13Ir4 = Al45Ir13 | Liquid: Ir 0.052; Al13Ir4: Al 0.764706, Ir 0.235294; Al45Ir13: Al 0.775862, Ir 0.224138 | model | [1] JIANG 2006 | Table 6, p. 8, row 14; `ORC-WKUIJA6AZ2` |  |
+| 1150 | peritectic: Liquid + Al45Ir13 = Al9Ir2 | Liquid: Ir 0.049; Al45Ir13: Al 0.775862, Ir 0.224138; Al9Ir2: Al 0.818182, Ir 0.181818 | model | [1] JIANG 2006 | Table 6, p. 8, row 16; `ORC-EFDY2AQI5O` |  |
+| 1149 | peritectic: Liquid + Al45Ir13 = Al9Ir2 | Al45Ir13: Al 0.775862, Ir 0.224138; Al9Ir2: Al 0.818182, Ir 0.181818 | experimental | [1] JIANG 2006; _cites Bostrom 2005_ | Table 6, p. 8, row 17; `ORC-BLMYIB3V6X` |  |
+| 923 | eutectic: Liquid = fcc + Al9Ir2 | fcc: Ir 0.001; Al9Ir2: Al 0.818182, Ir 0.181818 | experimental | [1] JIANG 2006; _cites Axler 1989_ | Table 6, p. 8, row 19; `ORC-JDCGQV3YWW` |  |
+| 921 | eutectic: Liquid = fcc + Al9Ir2 | Liquid: Ir 0.013; fcc: Ir 0.001; Al9Ir2: Al 0.818182, Ir 0.181818 | model | [1] JIANG 2006 | Table 6, p. 8, row 18; `ORC-UR3TYEVFPD` |  |
 
 ## Formation enthalpies
 
@@ -142,31 +142,31 @@ Table: Enthalpies of formation, Al–Ir system (25)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Al13Ir4 | [Al13Ir4](https://data.orchid-project.org/compounds/Al13Ir4.html) | -64.4 kJ/mol-atom |  | model |  | -57.448 (oqmd-1782493) | [2] Abe 2008 | Table 2, p. 3, row 8 |  |
-| Al13Ir4 | [Al13Ir4](https://data.orchid-project.org/compounds/Al13Ir4.html) | -64.1 kJ/mol-atom | 0 | model |  | -57.448 (oqmd-1782493) | [1] JIANG 2006 | Table 4, p. 4, row 2 |  |
-| Al13Ir4 |  | -63.5 kJ/mol-atom |  | DFT |  |  | [2] Abe 2008; _cites Jiang 2006_ | Table 2, p. 3, row 9 |  |
-| Al13Ir4 | [Al13Ir4](https://data.orchid-project.org/compounds/Al13Ir4.html) | -63.5 kJ/mol-atom | 0 | model |  | -57.448 (oqmd-1782493) | [1] JIANG 2006 | Table 4, p. 4, row 2 |  |
-| Al13Ir4 | [Al13Ir4](https://data.orchid-project.org/compounds/Al13Ir4.html) | -62.8 kJ/mol-atom | 0 | model |  | -57.448 (oqmd-1782493) | [1] JIANG 2006 | Table 4, p. 4, row 2 |  |
-| Al2.7Ir |  | -69.7 kJ/mol-atom | 0 | model |  |  | [1] JIANG 2006 | Table 4, p. 4, row 3 |  |
-| Al2.7Ir |  | -68.8 kJ/mol-atom | 0 | model |  |  | [1] JIANG 2006 | Table 4, p. 4, row 6 |  |
-| Al2.7Ir |  | -68.3 kJ/mol-atom ± 0.5 | 0 | model |  |  | [1] JIANG 2006 | Table 4, p. 4, row 6 |  |
-| Al2.7Ir |  | -68.3 kJ/mol-atom |  | DFT |  |  | [2] Abe 2008; _cites Jiang 2006_ | Table 2, p. 3, row 16 |  |
-| Al2.7Ir |  | -67.8 kJ/mol-atom | 0 | model |  |  | [1] JIANG 2006 | Table 4, p. 4, row 6 |  |
-| Al3Ir |  | -65.7 kJ/mol-atom | 0 | DFT |  |  | [1] JIANG 2006 | Table 1, p. 2, row 2 |  |
-| Al45Ir13 |  | -63 kJ/mol-atom | 0 | model |  |  | [1] JIANG 2006 | Table 4, p. 4, row 1 |  |
-| Al45Ir13 |  | -61.8 kJ/mol-atom | 0 | model |  |  | [1] JIANG 2006 | Table 4, p. 4, row 4 |  |
-| Al45Ir13 |  | -61.4 kJ/mol-atom ± 0.3 | 0 | model |  |  | [1] JIANG 2006 | Table 4, p. 4, row 4 |  |
-| Al45Ir13 |  | -61.1 kJ/mol-atom | 0 | model |  |  | [1] JIANG 2006 | Table 4, p. 4, row 4 |  |
-| Al45Ir13 |  | -60.6 kJ/mol-atom | 0 | model |  |  | [1] JIANG 2006 | Table 4, p. 4, row 1 |  |
-| Al9Ir2 |  | -52 kJ/mol-atom | 0 | DFT |  |  | [1] JIANG 2006 | Table 1, p. 2, row 1 |  |
-| AlIr |  | -92.8 kJ/mol-atom ± 1.8 |  | DFT |  |  | [1] JIANG 2006; _cites Jung 1992_ | Table 1, p. 2, row 4 |  |
-| AlIr |  | -91.9 kJ/mol-atom | 0 | DFT |  |  | [1] JIANG 2006 | Table 1, p. 2, row 3 |  |
-| Al–Ir fcc |  | -50.2 kJ/mol-atom | 0 | DFT |  |  | [1] JIANG 2006 | Table 1, p. 2, row 7 |  |
-| Al–Ir fcc |  | -41.1 kJ/mol-atom | 0 | DFT |  |  | [1] JIANG 2006 | Table 1, p. 2, row 6 |  |
-| Al–Ir fcc |  | -32.4 kJ/mol-atom | 0 | DFT |  |  | [1] JIANG 2006 | Table 1, p. 2, row 8 |  |
-| Al–Ir fcc |  | -5.7 kJ/mol-atom | 0 | DFT |  |  | [1] JIANG 2006 | Table 1, p. 2, row 5 |  |
-| Al–Ir fcc |  | -3.9 kJ/mol-atom | 0 | DFT |  |  | [1] JIANG 2006 | Table 1, p. 2, row 9 |  |
-| B2-AlIr | [AlIr](https://data.orchid-project.org/compounds/AlIr.html) | -118 kJ/mol-atom | 298.15 | experimental | -92.527 (mp-aaaaacun) | -91.306 (oqmd-10480) | [2] Abe 2008; _cites Ode 2005_ [doi](https://doi.org/10.1016/j.scriptamat.2005.01.020) | Table 2, p. 3, row 20 |  |
+| Al13Ir4 | [Al13Ir4](https://data.orchid-project.org/compounds/Al13Ir4.html) | -64.4 kJ/mol-atom |  | model |  | -57.448 (oqmd-1782493) | [2] Abe 2008 | Table 2, p. 3, row 8; `ORC-2LSSATLPN7.5018bb` |  |
+| Al13Ir4 | [Al13Ir4](https://data.orchid-project.org/compounds/Al13Ir4.html) | -64.1 kJ/mol-atom | 0 | model |  | -57.448 (oqmd-1782493) | [1] JIANG 2006 | Table 4, p. 4, row 2; `ORC-VVD6KBZNAZ.0affb3` |  |
+| Al13Ir4 |  | -63.5 kJ/mol-atom |  | DFT |  |  | [2] Abe 2008; _cites Jiang 2006_ | Table 2, p. 3, row 9; `ORC-3T45LAF2NA.0784dc` |  |
+| Al13Ir4 | [Al13Ir4](https://data.orchid-project.org/compounds/Al13Ir4.html) | -63.5 kJ/mol-atom | 0 | model |  | -57.448 (oqmd-1782493) | [1] JIANG 2006 | Table 4, p. 4, row 2; `ORC-VVD6KBZNAZ.004cf3` |  |
+| Al13Ir4 | [Al13Ir4](https://data.orchid-project.org/compounds/Al13Ir4.html) | -62.8 kJ/mol-atom | 0 | model |  | -57.448 (oqmd-1782493) | [1] JIANG 2006 | Table 4, p. 4, row 2; `ORC-VVD6KBZNAZ.cdc32e` |  |
+| Al2.7Ir |  | -69.7 kJ/mol-atom | 0 | model |  |  | [1] JIANG 2006 | Table 4, p. 4, row 3; `ORC-EP63T5JKQK.48f132` |  |
+| Al2.7Ir |  | -68.8 kJ/mol-atom | 0 | model |  |  | [1] JIANG 2006 | Table 4, p. 4, row 6; `ORC-4F7X5PYCOO.64e7cc` |  |
+| Al2.7Ir |  | -68.3 kJ/mol-atom ± 0.5 | 0 | model |  |  | [1] JIANG 2006 | Table 4, p. 4, row 6; `ORC-4F7X5PYCOO.8552a1` |  |
+| Al2.7Ir |  | -68.3 kJ/mol-atom |  | DFT |  |  | [2] Abe 2008; _cites Jiang 2006_ | Table 2, p. 3, row 16; `ORC-IFIJC3VV2P.5646ae` |  |
+| Al2.7Ir |  | -67.8 kJ/mol-atom | 0 | model |  |  | [1] JIANG 2006 | Table 4, p. 4, row 6; `ORC-4F7X5PYCOO.5769a4` |  |
+| Al3Ir |  | -65.7 kJ/mol-atom | 0 | DFT |  |  | [1] JIANG 2006 | Table 1, p. 2, row 2; `ORC-CVNXZ24MQM.466f56` |  |
+| Al45Ir13 |  | -63 kJ/mol-atom | 0 | model |  |  | [1] JIANG 2006 | Table 4, p. 4, row 1; `ORC-VUTX73AUZN.c07346` |  |
+| Al45Ir13 |  | -61.8 kJ/mol-atom | 0 | model |  |  | [1] JIANG 2006 | Table 4, p. 4, row 4; `ORC-QBEOR26ZXW.1288bd` |  |
+| Al45Ir13 |  | -61.4 kJ/mol-atom ± 0.3 | 0 | model |  |  | [1] JIANG 2006 | Table 4, p. 4, row 4; `ORC-QBEOR26ZXW.617fb7` |  |
+| Al45Ir13 |  | -61.1 kJ/mol-atom | 0 | model |  |  | [1] JIANG 2006 | Table 4, p. 4, row 4; `ORC-QBEOR26ZXW.2a082a` |  |
+| Al45Ir13 |  | -60.6 kJ/mol-atom | 0 | model |  |  | [1] JIANG 2006 | Table 4, p. 4, row 1; `ORC-VUTX73AUZN.972cc0` |  |
+| Al9Ir2 |  | -52 kJ/mol-atom | 0 | DFT |  |  | [1] JIANG 2006 | Table 1, p. 2, row 1; `ORC-BUMGVSBVX5.170cb9` |  |
+| AlIr |  | -92.8 kJ/mol-atom ± 1.8 |  | DFT |  |  | [1] JIANG 2006; _cites Jung 1992_ | Table 1, p. 2, row 4; `ORC-3HMBRDGRLN.549cde` |  |
+| AlIr |  | -91.9 kJ/mol-atom | 0 | DFT |  |  | [1] JIANG 2006 | Table 1, p. 2, row 3; `ORC-VIRFM6Z3AP.5b4cba` |  |
+| Al–Ir fcc |  | -50.2 kJ/mol-atom | 0 | DFT |  |  | [1] JIANG 2006 | Table 1, p. 2, row 7; `ORC-B6ERSBWI3Z` |  |
+| Al–Ir fcc |  | -41.1 kJ/mol-atom | 0 | DFT |  |  | [1] JIANG 2006 | Table 1, p. 2, row 6; `ORC-QFXUWJEXZL` |  |
+| Al–Ir fcc |  | -32.4 kJ/mol-atom | 0 | DFT |  |  | [1] JIANG 2006 | Table 1, p. 2, row 8; `ORC-SIZSHGRVIH` |  |
+| Al–Ir fcc |  | -5.7 kJ/mol-atom | 0 | DFT |  |  | [1] JIANG 2006 | Table 1, p. 2, row 5; `ORC-VJ2BVR2HME` |  |
+| Al–Ir fcc |  | -3.9 kJ/mol-atom | 0 | DFT |  |  | [1] JIANG 2006 | Table 1, p. 2, row 9; `ORC-TOQHGPBPW3` |  |
+| B2-AlIr | [AlIr](https://data.orchid-project.org/compounds/AlIr.html) | -118 kJ/mol-atom | 298.15 | experimental | -92.527 (mp-aaaaacun) | -91.306 (oqmd-10480) | [2] Abe 2008; _cites Ode 2005_ [doi](https://doi.org/10.1016/j.scriptamat.2005.01.020) | Table 2, p. 3, row 20; `ORC-V3S6RNGLPA.43a09d` |  |
 
 ## Other properties
 
@@ -176,7 +176,7 @@ Table: Phase transition, Al–Ir system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 2393.15 K | 2393.15 | congruent transformation | experimental | [3] ZHANG 2008; _cites Axler 1989_ | p. 1 | “Lattice parameters of B2 single crystals were obtained by Axler and Roof \[11\] and the congruent melting point of B2 phase was reported to be about 2120 °C \[12\].” |
+| Phase transition | 2393.15 K | 2393.15 | congruent transformation | experimental | [3] ZHANG 2008; _cites Axler 1989_ | p. 1; `ORC-Y4SNJ4Y3CO` | “Lattice parameters of B2 single crystals were obtained by Axler and Roof \[11\] and the congruent melting point of B2 phase was reported to be about 2120 °C \[12\].” |
 
 ### Phase equilibrium (15)
 
@@ -184,21 +184,21 @@ Table: Phase equilibrium, Al–Ir system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase assemblage |  | 1403.15 | B2 + (Ir); _alloy: Ir 1_ | experimental | [3] ZHANG 2008 | Table 1, p. 2, row 15 |  |
-| Phase assemblage |  | 1573.15 | B2 + (Ir); _alloy: Ir 1_ | experimental | [3] ZHANG 2008 | Table 1, p. 2, row 17 |  |
-| Phase assemblage |  | 1773.15 | B2 + (Ir); _alloy: Ir 1_ | experimental | [3] ZHANG 2008 | Table 1, p. 2, row 16 |  |
-| Phase composition |  | 1403.15 | B2; _B2: Al 0.4983, Ir 0.5017_ | experimental | [3] ZHANG 2008 | Table 1, p. 2, row 3 |  |
-| Phase composition |  | 1403.15 | B2 + (Ir); _B2: Al 0.4899, Ir 0.5101; (Ir): Al 0.0598, Ir 0.9402_ | experimental | [3] ZHANG 2008 | Table 1, p. 2, row 9 |  |
-| Phase composition |  | 1403.15 | B2 + (Ir); _B2: Al 0.4928, Ir 0.5072_ | experimental | [3] ZHANG 2008 | Table 1, p. 2, row 6 |  |
-| Phase composition |  | 1403.15 | B2 + (Ir); _B2: Al 0.4889, Ir 0.5111; (Ir): Al 0.0602, Ir 0.9398_ | experimental | [3] ZHANG 2008 | Table 1, p. 2, row 12 |  |
-| Phase composition |  | 1573.15 | B2; _B2: Al 0.4993, Ir 0.5007_ | experimental | [3] ZHANG 2008 | Table 1, p. 2, row 2 |  |
-| Phase composition |  | 1573.15 | B2 + (Ir); _B2: Al 0.4821, Ir 0.5179; (Ir): Al 0.0801, Ir 0.9199_ | experimental | [3] ZHANG 2008 | Table 1, p. 2, row 11 |  |
-| Phase composition |  | 1573.15 | B2 + (Ir); _B2: Al 0.481, Ir 0.519; (Ir): Al 0.0792, Ir 0.9208_ | experimental | [3] ZHANG 2008 | Table 1, p. 2, row 8 |  |
-| Phase composition |  | 1573.15 | B2 + (Ir); _B2: Al 0.4879, Ir 0.5121_ | experimental | [3] ZHANG 2008 | Table 1, p. 2, row 5 |  |
-| Phase composition |  | 1773.15 | B2; _B2: Al 0.4988, Ir 0.5012_ | experimental | [3] ZHANG 2008 | Table 1, p. 2, row 1 |  |
-| Phase composition |  | 1773.15 | B2 + (Ir); _B2: Al 0.4903, Ir 0.5097_ | experimental | [3] ZHANG 2008 | Table 1, p. 2, row 4 |  |
-| Phase composition |  | 1773.15 | B2 + (Ir); _B2: Al 0.4778, Ir 0.5222; (Ir): Al 0.0987, Ir 0.9013_ | experimental | [3] ZHANG 2008 | Table 1, p. 2, row 7 |  |
-| Phase composition |  | 1773.15 | B2 + (Ir); _B2: Al 0.4795, Ir 0.5205; (Ir): Al 0.0983, Ir 0.9017_ | experimental | [3] ZHANG 2008 | Table 1, p. 2, row 10 |  |
+| Phase assemblage |  | 1403.15 | B2 + (Ir); _alloy: Ir 1_ | experimental | [3] ZHANG 2008 | Table 1, p. 2, row 15; `ORC-EHLLVWBI3D` |  |
+| Phase assemblage |  | 1573.15 | B2 + (Ir); _alloy: Ir 1_ | experimental | [3] ZHANG 2008 | Table 1, p. 2, row 17; `ORC-75UFFO2FN2` |  |
+| Phase assemblage |  | 1773.15 | B2 + (Ir); _alloy: Ir 1_ | experimental | [3] ZHANG 2008 | Table 1, p. 2, row 16; `ORC-5TKHPO6XWB` |  |
+| Phase composition |  | 1403.15 | B2; _B2: Al 0.4983, Ir 0.5017_ | experimental | [3] ZHANG 2008 | Table 1, p. 2, row 3; `ORC-VFSAOIC24H` |  |
+| Phase composition |  | 1403.15 | B2 + (Ir); _B2: Al 0.4899, Ir 0.5101; (Ir): Al 0.0598, Ir 0.9402_ | experimental | [3] ZHANG 2008 | Table 1, p. 2, row 9; `ORC-2H2FZCDUIJ` |  |
+| Phase composition |  | 1403.15 | B2 + (Ir); _B2: Al 0.4928, Ir 0.5072_ | experimental | [3] ZHANG 2008 | Table 1, p. 2, row 6; `ORC-DJFE7U2KMG` |  |
+| Phase composition |  | 1403.15 | B2 + (Ir); _B2: Al 0.4889, Ir 0.5111; (Ir): Al 0.0602, Ir 0.9398_ | experimental | [3] ZHANG 2008 | Table 1, p. 2, row 12; `ORC-DV2KZLQCIR` |  |
+| Phase composition |  | 1573.15 | B2; _B2: Al 0.4993, Ir 0.5007_ | experimental | [3] ZHANG 2008 | Table 1, p. 2, row 2; `ORC-FV46SCMNAZ` |  |
+| Phase composition |  | 1573.15 | B2 + (Ir); _B2: Al 0.4821, Ir 0.5179; (Ir): Al 0.0801, Ir 0.9199_ | experimental | [3] ZHANG 2008 | Table 1, p. 2, row 11; `ORC-43GZ3Z6MGZ` |  |
+| Phase composition |  | 1573.15 | B2 + (Ir); _B2: Al 0.481, Ir 0.519; (Ir): Al 0.0792, Ir 0.9208_ | experimental | [3] ZHANG 2008 | Table 1, p. 2, row 8; `ORC-DKJCYEANAH` |  |
+| Phase composition |  | 1573.15 | B2 + (Ir); _B2: Al 0.4879, Ir 0.5121_ | experimental | [3] ZHANG 2008 | Table 1, p. 2, row 5; `ORC-IO2ZFMXKME` |  |
+| Phase composition |  | 1773.15 | B2; _B2: Al 0.4988, Ir 0.5012_ | experimental | [3] ZHANG 2008 | Table 1, p. 2, row 1; `ORC-LOK6A7OX4B` |  |
+| Phase composition |  | 1773.15 | B2 + (Ir); _B2: Al 0.4903, Ir 0.5097_ | experimental | [3] ZHANG 2008 | Table 1, p. 2, row 4; `ORC-4YABPT2CZQ` |  |
+| Phase composition |  | 1773.15 | B2 + (Ir); _B2: Al 0.4778, Ir 0.5222; (Ir): Al 0.0987, Ir 0.9013_ | experimental | [3] ZHANG 2008 | Table 1, p. 2, row 7; `ORC-7HKKMGPFKH` |  |
+| Phase composition |  | 1773.15 | B2 + (Ir); _B2: Al 0.4795, Ir 0.5205; (Ir): Al 0.0983, Ir 0.9017_ | experimental | [3] ZHANG 2008 | Table 1, p. 2, row 10; `ORC-HHAEYDXEGC` |  |
 
 ### Crystal structure (59)
 
@@ -206,65 +206,65 @@ Table: Crystal structure, Al–Ir system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a; _printed: a_ | 7.674 Å |  | Al2.7Ir; _alloy: Ir 0.27027_ | model | [2] Abe 2008 | Table 2, p. 3, row 15 |  |
-| Lattice a; _printed: a_ | 12.286 Å |  | Al28Ir9; _alloy: Ir 0.243243_ | model | [2] Abe 2008 | Table 2, p. 3, row 10 |  |
-| Lattice a; _printed: a_ | 12.286 Å |  | Al28Ir9; _alloy: Ir 0.243243_ | experimental | [2] Abe 2008; _cites Pavlyuchkov 2008_ [doi](https://doi.org/10.1016/j.intermet.2008.03.006) | Table 2, p. 3, row 11 |  |
-| Lattice a; _printed: a_ | 4.246 Å | 0 | Al3Ir; _alloy: Ir 0.25_ | DFT | [2] Abe 2008; _cites Jiang 2006_ | Table 2, p. 3, row 14 |  |
-| Lattice a; _printed: a_ | 4.3 Å | 0 | Al3Ir; _alloy: Ir 0.25_ | DFT | [2] Abe 2008; _cites Jiang 2006_ | Table 2, p. 3, row 13 |  |
-| Lattice a; _printed: a_ | 4.25 Å | 0 | Al3Ir; _alloy: Ir 0.25_ | model | [2] Abe 2008 | Table 2, p. 3, row 12 |  |
-| Lattice a | 4.3 Å | 0 | Al3Ir; _alloy: Ir 0.25_ | DFT | [1] JIANG 2006 | Table 2, p. 2, row 3 |  |
-| Lattice a; _printed: a_ | 16.76 Å |  | Al45Ir13; _alloy: Ir 0.224138_ | model | [2] Abe 2008 | Table 2, p. 3, row 6 |  |
-| Lattice a; _printed: a_ | 16.771 Å |  | Al45Ir13; _alloy: Ir 0.224138_ | unspecified | [2] Abe 2008; _cites Pavlyuchkov 2008_ [doi](https://doi.org/10.1016/j.intermet.2008.03.006) | Table 2, p. 3, row 7 |  |
-| Lattice a; _printed: a_ | 8.906 Å | 0 | Al9Ir2; _alloy: Ir 0.181818_ | model | [2] Abe 2008 | Table 2, p. 3, row 3 |  |
-| Lattice a | 6.4 Å | 0 | Al9Ir2; _alloy: Ir 0.181818_ | DFT | [1] JIANG 2006 | Table 2, p. 2, row 1 |  |
-| Lattice a; _printed: a_ | 8.732 Å |  | Al9Ir2; _alloy: Ir 0.181818_ | experimental | [2] Abe 2008; _cites Bostrom 2005_ [doi](https://doi.org/10.1002/zaac.200400418) | Table 2, p. 3, row 5 |  |
-| Lattice a; _printed: a_ | 8.77 Å | 0 | Al9Ir2; _alloy: Ir 0.181818_ | DFT | [2] Abe 2008; _cites Jiang 2006_ | Table 2, p. 3, row 4 |  |
-| Lattice a | 3.02 Å | 0 | AlIr; _alloy: Ir 0.5_ | DFT | [1] JIANG 2006 | Table 2, p. 2, row 5 |  |
-| Lattice a; _printed: a_ | 2.985 Å | 0 | B2-AlIr; _alloy: Ir 0.5_ | unspecified | [2] Abe 2008; _cites Ferro 1968_ | Table 2, p. 3, row 19 |  |
-| Lattice a; _printed: a_ | 3.02 Å | 0 | B2-AlIr; _alloy: Ir 0.5_ | DFT | [2] Abe 2008; _cites Jiang 2006_ | Table 2, p. 3, row 18 |  |
-| Lattice a; _printed: a_ | 3.028 Å | 0 | B2-AlIr; _alloy: Ir 0.5_ | model | [2] Abe 2008 | Table 2, p. 3, row 17 |  |
-| Lattice a; _printed: a_ | 6.184 Å | 0 | B32-AlIr; _alloy: Ir 0.5_ | model | [2] Abe 2008 | Table 2, p. 3, row 28 |  |
-| Lattice a; _printed: a_ | 3.878 Å | 0 | L10-AlIr; _alloy: Ir 0.5_ | model | [2] Abe 2008 | Table 2, p. 3, row 27 |  |
-| Lattice a; _printed: a_ | 3.877 Å | 0 | L12-Al3Ir; _alloy: Ir 0.25_ | model | [2] Abe 2008 | Table 2, p. 3, row 25 |  |
-| Lattice a; _printed: a_ | 3.867 Å | 0 | L12-AlIr3; _alloy: Ir 0.75_ | model | [2] Abe 2008 | Table 2, p. 3, row 26 |  |
-| Lattice a | 4.25 Å | 298.15 | Al3Ir; _alloy: Ir 0.25_ | experimental | [1] JIANG 2006; _cites Edshammar 1967_ | Table 2, p. 2, row 4 |  |
-| Lattice a | 6.38 Å | 298.15 | Al9Ir2; _alloy: Ir 0.181818_ | experimental | [1] JIANG 2006; _cites Edshammar 1968_ | Table 2, p. 2, row 2 |  |
-| Lattice a | 2.98 Å | 298.15 | AlIr; _alloy: Ir 0.5_ | experimental | [1] JIANG 2006; _cites Esslinger 1957_ | Table 2, p. 2, row 6 |  |
-| Lattice b | 4.3 Å | 0 | Al3Ir; _alloy: Ir 0.25_ | DFT | [1] JIANG 2006 | Table 2, p. 2, row 3 |  |
-| Lattice b; _printed: b_ | 12.321 Å |  | Al45Ir13; _alloy: Ir 0.224138_ | model | [2] Abe 2008 | Table 2, p. 3, row 6 |  |
-| Lattice b; _printed: b_ | 12.327 Å |  | Al45Ir13; _alloy: Ir 0.224138_ | unspecified | [2] Abe 2008; _cites Pavlyuchkov 2008_ [doi](https://doi.org/10.1016/j.intermet.2008.03.006) | Table 2, p. 3, row 7 |  |
-| Lattice b; _printed: b_ | 6.491 Å | 0 | Al9Ir2; _alloy: Ir 0.181818_ | model | [2] Abe 2008 | Table 2, p. 3, row 3 |  |
-| Lattice b | 6.47 Å | 0 | Al9Ir2; _alloy: Ir 0.181818_ | DFT | [1] JIANG 2006 | Table 2, p. 2, row 1 |  |
-| Lattice b; _printed: b_ | 6.43 Å |  | Al9Ir2; _alloy: Ir 0.181818_ | experimental | [2] Abe 2008; _cites Bostrom 2005_ [doi](https://doi.org/10.1002/zaac.200400418) | Table 2, p. 3, row 5 |  |
-| Lattice b; _printed: b_ | 6.47 Å | 0 | Al9Ir2; _alloy: Ir 0.181818_ | DFT | [2] Abe 2008; _cites Jiang 2006_ | Table 2, p. 3, row 4 |  |
-| Lattice b | 3.02 Å | 0 | AlIr; _alloy: Ir 0.5_ | DFT | [1] JIANG 2006 | Table 2, p. 2, row 5 |  |
-| Lattice b | 4.25 Å | 298.15 | Al3Ir; _alloy: Ir 0.25_ | experimental | [1] JIANG 2006; _cites Edshammar 1967_ | Table 2, p. 2, row 4 |  |
-| Lattice b | 6.43 Å | 298.15 | Al9Ir2; _alloy: Ir 0.181818_ | experimental | [1] JIANG 2006; _cites Edshammar 1968_ | Table 2, p. 2, row 2 |  |
-| Lattice b | 2.98 Å | 298.15 | AlIr; _alloy: Ir 0.5_ | experimental | [1] JIANG 2006; _cites Esslinger 1957_ | Table 2, p. 2, row 6 |  |
-| Lattice c; _printed: c_ | 27.341 Å |  | Al28Ir9; _alloy: Ir 0.243243_ | model | [2] Abe 2008 | Table 2, p. 3, row 10 |  |
-| Lattice c; _printed: c_ | 27.375 Å |  | Al28Ir9; _alloy: Ir 0.243243_ | experimental | [2] Abe 2008; _cites Pavlyuchkov 2008_ [doi](https://doi.org/10.1016/j.intermet.2008.03.006) | Table 2, p. 3, row 11 |  |
-| Lattice c; _printed: c_ | 7.756 Å | 0 | Al3Ir; _alloy: Ir 0.25_ | DFT | [2] Abe 2008; _cites Jiang 2006_ | Table 2, p. 3, row 14 |  |
-| Lattice c; _printed: c_ | 7.79 Å | 0 | Al3Ir; _alloy: Ir 0.25_ | DFT | [2] Abe 2008; _cites Jiang 2006_ | Table 2, p. 3, row 13 |  |
-| Lattice c; _printed: c_ | 7.76 Å | 0 | Al3Ir; _alloy: Ir 0.25_ | model | [2] Abe 2008 | Table 2, p. 3, row 12 |  |
-| Lattice c | 7.79 Å | 0 | Al3Ir; _alloy: Ir 0.25_ | DFT | [1] JIANG 2006 | Table 2, p. 2, row 3 |  |
-| Lattice c; _printed: c_ | 17.425 Å |  | Al45Ir13; _alloy: Ir 0.224138_ | model | [2] Abe 2008 | Table 2, p. 3, row 6 |  |
-| Lattice c; _printed: c_ | 17.437 Å |  | Al45Ir13; _alloy: Ir 0.224138_ | unspecified | [2] Abe 2008; _cites Pavlyuchkov 2008_ [doi](https://doi.org/10.1016/j.intermet.2008.03.006) | Table 2, p. 3, row 7 |  |
-| Lattice c; _printed: c_ | 6.463 Å | 0 | Al9Ir2; _alloy: Ir 0.181818_ | model | [2] Abe 2008 | Table 2, p. 3, row 3 |  |
-| Lattice c | 8.77 Å | 0 | Al9Ir2; _alloy: Ir 0.181818_ | DFT | [1] JIANG 2006 | Table 2, p. 2, row 1 |  |
-| Lattice c; _printed: c_ | 6.378 Å |  | Al9Ir2; _alloy: Ir 0.181818_ | experimental | [2] Abe 2008; _cites Bostrom 2005_ [doi](https://doi.org/10.1002/zaac.200400418) | Table 2, p. 3, row 5 |  |
-| Lattice c; _printed: c_ | 6.4 Å | 0 | Al9Ir2; _alloy: Ir 0.181818_ | DFT | [2] Abe 2008; _cites Jiang 2006_ | Table 2, p. 3, row 4 |  |
-| Lattice c | 3.02 Å | 0 | AlIr; _alloy: Ir 0.5_ | DFT | [1] JIANG 2006 | Table 2, p. 2, row 5 |  |
-| Lattice c | 7.76 Å | 298.15 | Al3Ir; _alloy: Ir 0.25_ | experimental | [1] JIANG 2006; _cites Edshammar 1967_ | Table 2, p. 2, row 4 |  |
-| Lattice c | 8.73 Å | 298.15 | Al9Ir2; _alloy: Ir 0.181818_ | experimental | [1] JIANG 2006; _cites Edshammar 1968_ | Table 2, p. 2, row 2 |  |
-| Lattice c | 2.98 Å | 298.15 | AlIr; _alloy: Ir 0.5_ | experimental | [1] JIANG 2006; _cites Esslinger 1957_ | Table 2, p. 2, row 6 |  |
-| lattice alpha | 90 ° | 0 | Al9Ir2; _alloy: Ir 0.181818_ | DFT | [1] JIANG 2006 | Table 2, p. 2, row 1 |  |
-| lattice alpha | 90 ° | 298.15 | Al9Ir2; _alloy: Ir 0.181818_ | experimental | [1] JIANG 2006; _cites Edshammar 1968_ | Table 2, p. 2, row 2 |  |
-| lattice beta | 95.1 ° | 0 | Al9Ir2; _alloy: Ir 0.181818_ | DFT | [1] JIANG 2006 | Table 2, p. 2, row 1 |  |
-| lattice beta | 94.8 ° | 298.15 | Al9Ir2; _alloy: Ir 0.181818_ | experimental | [1] JIANG 2006; _cites Edshammar 1968_ | Table 2, p. 2, row 2 |  |
-| lattice c a | 1.81 not_printed | 0 | Al3Ir; _alloy: Ir 0.25_ | DFT | [1] JIANG 2006 | Table 2, p. 2, row 3 |  |
-| lattice c a | 1.83 not_printed | 298.15 | Al3Ir; _alloy: Ir 0.25_ | experimental | [1] JIANG 2006; _cites Edshammar 1967_ | Table 2, p. 2, row 4 |  |
-| lattice gamma | 90 ° | 0 | Al9Ir2; _alloy: Ir 0.181818_ | DFT | [1] JIANG 2006 | Table 2, p. 2, row 1 |  |
-| lattice gamma | 90 ° | 298.15 | Al9Ir2; _alloy: Ir 0.181818_ | experimental | [1] JIANG 2006; _cites Edshammar 1968_ | Table 2, p. 2, row 2 |  |
+| Lattice a; _printed: a_ | 7.674 Å |  | Al2.7Ir; _alloy: Ir 0.27027_ | model | [2] Abe 2008 | Table 2, p. 3, row 15; `ORC-S5AZ76Q6DC.12527f` |  |
+| Lattice a; _printed: a_ | 12.286 Å |  | Al28Ir9; _alloy: Ir 0.243243_ | model | [2] Abe 2008 | Table 2, p. 3, row 10; `ORC-3WJSTZEJG2.23a92a` |  |
+| Lattice a; _printed: a_ | 12.286 Å |  | Al28Ir9; _alloy: Ir 0.243243_ | experimental | [2] Abe 2008; _cites Pavlyuchkov 2008_ [doi](https://doi.org/10.1016/j.intermet.2008.03.006) | Table 2, p. 3, row 11; `ORC-XLNCTI6HHB.342345` |  |
+| Lattice a; _printed: a_ | 4.246 Å | 0 | Al3Ir; _alloy: Ir 0.25_ | DFT | [2] Abe 2008; _cites Jiang 2006_ | Table 2, p. 3, row 14; `ORC-GSLOYSA7L2.8387cb` |  |
+| Lattice a; _printed: a_ | 4.3 Å | 0 | Al3Ir; _alloy: Ir 0.25_ | DFT | [2] Abe 2008; _cites Jiang 2006_ | Table 2, p. 3, row 13; `ORC-OFASMCE24B.7bf638` |  |
+| Lattice a; _printed: a_ | 4.25 Å | 0 | Al3Ir; _alloy: Ir 0.25_ | model | [2] Abe 2008 | Table 2, p. 3, row 12; `ORC-Q7PYT3IU5C.33aae1` |  |
+| Lattice a | 4.3 Å | 0 | Al3Ir; _alloy: Ir 0.25_ | DFT | [1] JIANG 2006 | Table 2, p. 2, row 3; `ORC-UXXW2ABWU7.d20739` |  |
+| Lattice a; _printed: a_ | 16.76 Å |  | Al45Ir13; _alloy: Ir 0.224138_ | model | [2] Abe 2008 | Table 2, p. 3, row 6; `ORC-5LGWGBQNFJ.a57b65` |  |
+| Lattice a; _printed: a_ | 16.771 Å |  | Al45Ir13; _alloy: Ir 0.224138_ | unspecified | [2] Abe 2008; _cites Pavlyuchkov 2008_ [doi](https://doi.org/10.1016/j.intermet.2008.03.006) | Table 2, p. 3, row 7; `ORC-KCSALOPUUZ.19de27` |  |
+| Lattice a; _printed: a_ | 8.906 Å | 0 | Al9Ir2; _alloy: Ir 0.181818_ | model | [2] Abe 2008 | Table 2, p. 3, row 3; `ORC-27TTNLXWTM.6522f5` |  |
+| Lattice a | 6.4 Å | 0 | Al9Ir2; _alloy: Ir 0.181818_ | DFT | [1] JIANG 2006 | Table 2, p. 2, row 1; `ORC-4UBGI5KKAR.ee8d01` |  |
+| Lattice a; _printed: a_ | 8.732 Å |  | Al9Ir2; _alloy: Ir 0.181818_ | experimental | [2] Abe 2008; _cites Bostrom 2005_ [doi](https://doi.org/10.1002/zaac.200400418) | Table 2, p. 3, row 5; `ORC-5ZE7DDKKOZ.4b8fd5` |  |
+| Lattice a; _printed: a_ | 8.77 Å | 0 | Al9Ir2; _alloy: Ir 0.181818_ | DFT | [2] Abe 2008; _cites Jiang 2006_ | Table 2, p. 3, row 4; `ORC-SLTJK7NL2B.a15a92` |  |
+| Lattice a | 3.02 Å | 0 | AlIr; _alloy: Ir 0.5_ | DFT | [1] JIANG 2006 | Table 2, p. 2, row 5; `ORC-2POO2JY5NL.e27a03` |  |
+| Lattice a; _printed: a_ | 2.985 Å | 0 | B2-AlIr; _alloy: Ir 0.5_ | unspecified | [2] Abe 2008; _cites Ferro 1968_ | Table 2, p. 3, row 19; `ORC-DHGX64IQXL.008230` |  |
+| Lattice a; _printed: a_ | 3.02 Å | 0 | B2-AlIr; _alloy: Ir 0.5_ | DFT | [2] Abe 2008; _cites Jiang 2006_ | Table 2, p. 3, row 18; `ORC-FWVMYUOZMC.4b48cf` |  |
+| Lattice a; _printed: a_ | 3.028 Å | 0 | B2-AlIr; _alloy: Ir 0.5_ | model | [2] Abe 2008 | Table 2, p. 3, row 17; `ORC-OT3Z6GZH5Q.8c044a` |  |
+| Lattice a; _printed: a_ | 6.184 Å | 0 | B32-AlIr; _alloy: Ir 0.5_ | model | [2] Abe 2008 | Table 2, p. 3, row 28; `ORC-BW4RNJDN5R.344c81` |  |
+| Lattice a; _printed: a_ | 3.878 Å | 0 | L10-AlIr; _alloy: Ir 0.5_ | model | [2] Abe 2008 | Table 2, p. 3, row 27; `ORC-KERB34OBJZ.403eb4` |  |
+| Lattice a; _printed: a_ | 3.877 Å | 0 | L12-Al3Ir; _alloy: Ir 0.25_ | model | [2] Abe 2008 | Table 2, p. 3, row 25; `ORC-J3CO5YSR3L.1bd0d9` |  |
+| Lattice a; _printed: a_ | 3.867 Å | 0 | L12-AlIr3; _alloy: Ir 0.75_ | model | [2] Abe 2008 | Table 2, p. 3, row 26; `ORC-GWLBKKKVRT.4f611e` |  |
+| Lattice a | 4.25 Å | 298.15 | Al3Ir; _alloy: Ir 0.25_ | experimental | [1] JIANG 2006; _cites Edshammar 1967_ | Table 2, p. 2, row 4; `ORC-JXTOR7WACV.cfbe45` |  |
+| Lattice a | 6.38 Å | 298.15 | Al9Ir2; _alloy: Ir 0.181818_ | experimental | [1] JIANG 2006; _cites Edshammar 1968_ | Table 2, p. 2, row 2; `ORC-G2LIG7PR42.b21e7c` |  |
+| Lattice a | 2.98 Å | 298.15 | AlIr; _alloy: Ir 0.5_ | experimental | [1] JIANG 2006; _cites Esslinger 1957_ | Table 2, p. 2, row 6; `ORC-ZLI6LVYJIS.410c58` |  |
+| Lattice b | 4.3 Å | 0 | Al3Ir; _alloy: Ir 0.25_ | DFT | [1] JIANG 2006 | Table 2, p. 2, row 3; `ORC-UXXW2ABWU7.cdf4e2` |  |
+| Lattice b; _printed: b_ | 12.321 Å |  | Al45Ir13; _alloy: Ir 0.224138_ | model | [2] Abe 2008 | Table 2, p. 3, row 6; `ORC-5LGWGBQNFJ.49b154` |  |
+| Lattice b; _printed: b_ | 12.327 Å |  | Al45Ir13; _alloy: Ir 0.224138_ | unspecified | [2] Abe 2008; _cites Pavlyuchkov 2008_ [doi](https://doi.org/10.1016/j.intermet.2008.03.006) | Table 2, p. 3, row 7; `ORC-KCSALOPUUZ.68ec21` |  |
+| Lattice b; _printed: b_ | 6.491 Å | 0 | Al9Ir2; _alloy: Ir 0.181818_ | model | [2] Abe 2008 | Table 2, p. 3, row 3; `ORC-27TTNLXWTM.6a61f5` |  |
+| Lattice b | 6.47 Å | 0 | Al9Ir2; _alloy: Ir 0.181818_ | DFT | [1] JIANG 2006 | Table 2, p. 2, row 1; `ORC-4UBGI5KKAR.fdb3dc` |  |
+| Lattice b; _printed: b_ | 6.43 Å |  | Al9Ir2; _alloy: Ir 0.181818_ | experimental | [2] Abe 2008; _cites Bostrom 2005_ [doi](https://doi.org/10.1002/zaac.200400418) | Table 2, p. 3, row 5; `ORC-5ZE7DDKKOZ.7c1bf6` |  |
+| Lattice b; _printed: b_ | 6.47 Å | 0 | Al9Ir2; _alloy: Ir 0.181818_ | DFT | [2] Abe 2008; _cites Jiang 2006_ | Table 2, p. 3, row 4; `ORC-SLTJK7NL2B.5bf1b5` |  |
+| Lattice b | 3.02 Å | 0 | AlIr; _alloy: Ir 0.5_ | DFT | [1] JIANG 2006 | Table 2, p. 2, row 5; `ORC-2POO2JY5NL.4974b4` |  |
+| Lattice b | 4.25 Å | 298.15 | Al3Ir; _alloy: Ir 0.25_ | experimental | [1] JIANG 2006; _cites Edshammar 1967_ | Table 2, p. 2, row 4; `ORC-JXTOR7WACV.f870f1` |  |
+| Lattice b | 6.43 Å | 298.15 | Al9Ir2; _alloy: Ir 0.181818_ | experimental | [1] JIANG 2006; _cites Edshammar 1968_ | Table 2, p. 2, row 2; `ORC-G2LIG7PR42.22557c` |  |
+| Lattice b | 2.98 Å | 298.15 | AlIr; _alloy: Ir 0.5_ | experimental | [1] JIANG 2006; _cites Esslinger 1957_ | Table 2, p. 2, row 6; `ORC-ZLI6LVYJIS.1a0e78` |  |
+| Lattice c; _printed: c_ | 27.341 Å |  | Al28Ir9; _alloy: Ir 0.243243_ | model | [2] Abe 2008 | Table 2, p. 3, row 10; `ORC-3WJSTZEJG2.320dcc` |  |
+| Lattice c; _printed: c_ | 27.375 Å |  | Al28Ir9; _alloy: Ir 0.243243_ | experimental | [2] Abe 2008; _cites Pavlyuchkov 2008_ [doi](https://doi.org/10.1016/j.intermet.2008.03.006) | Table 2, p. 3, row 11; `ORC-XLNCTI6HHB.321808` |  |
+| Lattice c; _printed: c_ | 7.756 Å | 0 | Al3Ir; _alloy: Ir 0.25_ | DFT | [2] Abe 2008; _cites Jiang 2006_ | Table 2, p. 3, row 14; `ORC-GSLOYSA7L2.c871b7` |  |
+| Lattice c; _printed: c_ | 7.79 Å | 0 | Al3Ir; _alloy: Ir 0.25_ | DFT | [2] Abe 2008; _cites Jiang 2006_ | Table 2, p. 3, row 13; `ORC-OFASMCE24B.28f451` |  |
+| Lattice c; _printed: c_ | 7.76 Å | 0 | Al3Ir; _alloy: Ir 0.25_ | model | [2] Abe 2008 | Table 2, p. 3, row 12; `ORC-Q7PYT3IU5C.7352bd` |  |
+| Lattice c | 7.79 Å | 0 | Al3Ir; _alloy: Ir 0.25_ | DFT | [1] JIANG 2006 | Table 2, p. 2, row 3; `ORC-UXXW2ABWU7.7aac5d` |  |
+| Lattice c; _printed: c_ | 17.425 Å |  | Al45Ir13; _alloy: Ir 0.224138_ | model | [2] Abe 2008 | Table 2, p. 3, row 6; `ORC-5LGWGBQNFJ.371589` |  |
+| Lattice c; _printed: c_ | 17.437 Å |  | Al45Ir13; _alloy: Ir 0.224138_ | unspecified | [2] Abe 2008; _cites Pavlyuchkov 2008_ [doi](https://doi.org/10.1016/j.intermet.2008.03.006) | Table 2, p. 3, row 7; `ORC-KCSALOPUUZ.29b7c6` |  |
+| Lattice c; _printed: c_ | 6.463 Å | 0 | Al9Ir2; _alloy: Ir 0.181818_ | model | [2] Abe 2008 | Table 2, p. 3, row 3; `ORC-27TTNLXWTM.115379` |  |
+| Lattice c | 8.77 Å | 0 | Al9Ir2; _alloy: Ir 0.181818_ | DFT | [1] JIANG 2006 | Table 2, p. 2, row 1; `ORC-4UBGI5KKAR.aeef79` |  |
+| Lattice c; _printed: c_ | 6.378 Å |  | Al9Ir2; _alloy: Ir 0.181818_ | experimental | [2] Abe 2008; _cites Bostrom 2005_ [doi](https://doi.org/10.1002/zaac.200400418) | Table 2, p. 3, row 5; `ORC-5ZE7DDKKOZ.081761` |  |
+| Lattice c; _printed: c_ | 6.4 Å | 0 | Al9Ir2; _alloy: Ir 0.181818_ | DFT | [2] Abe 2008; _cites Jiang 2006_ | Table 2, p. 3, row 4; `ORC-SLTJK7NL2B.d71a08` |  |
+| Lattice c | 3.02 Å | 0 | AlIr; _alloy: Ir 0.5_ | DFT | [1] JIANG 2006 | Table 2, p. 2, row 5; `ORC-2POO2JY5NL.c9222d` |  |
+| Lattice c | 7.76 Å | 298.15 | Al3Ir; _alloy: Ir 0.25_ | experimental | [1] JIANG 2006; _cites Edshammar 1967_ | Table 2, p. 2, row 4; `ORC-JXTOR7WACV.a28030` |  |
+| Lattice c | 8.73 Å | 298.15 | Al9Ir2; _alloy: Ir 0.181818_ | experimental | [1] JIANG 2006; _cites Edshammar 1968_ | Table 2, p. 2, row 2; `ORC-G2LIG7PR42.40c5af` |  |
+| Lattice c | 2.98 Å | 298.15 | AlIr; _alloy: Ir 0.5_ | experimental | [1] JIANG 2006; _cites Esslinger 1957_ | Table 2, p. 2, row 6; `ORC-ZLI6LVYJIS.1fc1db` |  |
+| lattice alpha | 90 ° | 0 | Al9Ir2; _alloy: Ir 0.181818_ | DFT | [1] JIANG 2006 | Table 2, p. 2, row 1; `ORC-4UBGI5KKAR.17c905` |  |
+| lattice alpha | 90 ° | 298.15 | Al9Ir2; _alloy: Ir 0.181818_ | experimental | [1] JIANG 2006; _cites Edshammar 1968_ | Table 2, p. 2, row 2; `ORC-G2LIG7PR42.910111` |  |
+| lattice beta | 95.1 ° | 0 | Al9Ir2; _alloy: Ir 0.181818_ | DFT | [1] JIANG 2006 | Table 2, p. 2, row 1; `ORC-4UBGI5KKAR.ec3db8` |  |
+| lattice beta | 94.8 ° | 298.15 | Al9Ir2; _alloy: Ir 0.181818_ | experimental | [1] JIANG 2006; _cites Edshammar 1968_ | Table 2, p. 2, row 2; `ORC-G2LIG7PR42.7b529f` |  |
+| lattice c a | 1.81 not_printed | 0 | Al3Ir; _alloy: Ir 0.25_ | DFT | [1] JIANG 2006 | Table 2, p. 2, row 3; `ORC-UXXW2ABWU7.81fc8d` |  |
+| lattice c a | 1.83 not_printed | 298.15 | Al3Ir; _alloy: Ir 0.25_ | experimental | [1] JIANG 2006; _cites Edshammar 1967_ | Table 2, p. 2, row 4; `ORC-JXTOR7WACV.27be20` |  |
+| lattice gamma | 90 ° | 0 | Al9Ir2; _alloy: Ir 0.181818_ | DFT | [1] JIANG 2006 | Table 2, p. 2, row 1; `ORC-4UBGI5KKAR.ae2618` |  |
+| lattice gamma | 90 ° | 298.15 | Al9Ir2; _alloy: Ir 0.181818_ | experimental | [1] JIANG 2006; _cites Edshammar 1968_ | Table 2, p. 2, row 2; `ORC-G2LIG7PR42.98e767` |  |
 
 ## Sources
 
@@ -331,4 +331,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

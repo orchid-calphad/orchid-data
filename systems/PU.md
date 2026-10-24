@@ -32,15 +32,15 @@ Table: Invariant reactions reported in the literature for the Pu system (9)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 593 | δ-Pu = γ-Pu |  | model | [1] Guéneau 2008 | Table 3, p. 9, row 43 |  |
-| 488.15 | polymorphic: (γPu) ↔ (βPu) | (γPu):  | model | [2] Liu 2014 | Table 4, p. 4, row 11 |  |
-| 488.15 | polymorphic: (γPu) ↔ (βPu) | (γPu):  | experimental | [2] Liu 2014; _cites Massalski 1990_ | Table 4, p. 4, row 10 |  |
-| 488 | γ-Pu = β-Pu |  | model | [1] Guéneau 2008 | Table 3, p. 9, row 44 |  |
-| 398.15 | polymorphic: (βPu) -> (αPu) | (βPu): Pu 1; (αPu): Pu 1 | experimental | [2] Liu 2014; _cites Okamoto 2000_ | Table 5, p. 6, row 24 |  |
-| 398.15 | polymorphic: (βPu) ↔ (αPu) |  | experimental | [2] Liu 2014; _cites Massalski 1990_ | Table 4, p. 4, row 12 |  |
-| 398.15 | polymorphic: (βPu) ↔ (αPu) | (βPu):  | model | [2] Liu 2014 | Table 4, p. 4, row 13 |  |
-| 398.15 | polymorphic: (βPu) -> (αPu) | (βPu): Pu 1; (αPu): Pu 1 | model | [2] Liu 2014 | Table 5, p. 6, row 25 |  |
-| 398 | β-Pu = α-Pu |  | model | [1] Guéneau 2008 | Table 3, p. 9, row 45 |  |
+| 593 | δ-Pu = γ-Pu |  | model | [1] Guéneau 2008 | Table 3, p. 9, row 43; `ORC-2VSQ3ZVQFH` |  |
+| 488.15 | polymorphic: (γPu) ↔ (βPu) | (γPu):  | model | [2] Liu 2014 | Table 4, p. 4, row 11; `ORC-4MNV2TFB5D` |  |
+| 488.15 | polymorphic: (γPu) ↔ (βPu) | (γPu):  | experimental | [2] Liu 2014; _cites Massalski 1990_ | Table 4, p. 4, row 10; `ORC-FROHBYN2XB` |  |
+| 488 | γ-Pu = β-Pu |  | model | [1] Guéneau 2008 | Table 3, p. 9, row 44; `ORC-O3KEQGXHW2` |  |
+| 398.15 | polymorphic: (βPu) -> (αPu) | (βPu): Pu 1; (αPu): Pu 1 | experimental | [2] Liu 2014; _cites Okamoto 2000_ | Table 5, p. 6, row 24; `ORC-2C2FV64NJO` |  |
+| 398.15 | polymorphic: (βPu) ↔ (αPu) |  | experimental | [2] Liu 2014; _cites Massalski 1990_ | Table 4, p. 4, row 12; `ORC-AZAZCY6ZYD` |  |
+| 398.15 | polymorphic: (βPu) ↔ (αPu) | (βPu):  | model | [2] Liu 2014 | Table 4, p. 4, row 13; `ORC-Y2K6IGWJOC` |  |
+| 398.15 | polymorphic: (βPu) -> (αPu) | (βPu): Pu 1; (αPu): Pu 1 | model | [2] Liu 2014 | Table 5, p. 6, row 25; `ORC-Z6LHBSGBRJ` |  |
+| 398 | β-Pu = α-Pu |  | model | [1] Guéneau 2008 | Table 3, p. 9, row 45; `ORC-YKFNU4E63F` |  |
 
 ## Formation enthalpies
 
@@ -50,11 +50,11 @@ Table: Enthalpies of formation, Pu system (5)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| α-Pu |  | 0 kJ/mol-atom | 298.15 | model |  |  | [3] Beneš 2014 | Table 1, p. 2, row 13 |  |
-| β-Pu |  | 3.8809 kJ/mol-atom | 298.15 | model |  |  | [3] Beneš 2014 | Table 1, p. 2, row 16 |  |
-| γ-Pu |  | 4.4525 kJ/mol-atom | 298.15 | model |  |  | [3] Beneš 2014 | Table 1, p. 2, row 19 |  |
-| δ-Pu |  | 5.0503 kJ/mol-atom | 298.15 | model |  |  | [3] Beneš 2014 | Table 1, p. 2, row 23 |  |
-| ϵ-Pu |  | 7.5591 kJ/mol-atom | 298.15 | model |  |  | [3] Beneš 2014 | Table 1, p. 2, row 30 |  |
+| α-Pu |  | 0 kJ/mol-atom | 298.15 | model |  |  | [3] Beneš 2014 | Table 1, p. 2, row 13; `ORC-WNIUEJTMOK.8cba78` |  |
+| β-Pu |  | 3.8809 kJ/mol-atom | 298.15 | model |  |  | [3] Beneš 2014 | Table 1, p. 2, row 16; `ORC-BDHFFZ5JQY.7e83e9` |  |
+| γ-Pu |  | 4.4525 kJ/mol-atom | 298.15 | model |  |  | [3] Beneš 2014 | Table 1, p. 2, row 19; `ORC-T3FEWFB2GR.230a78` |  |
+| δ-Pu |  | 5.0503 kJ/mol-atom | 298.15 | model |  |  | [3] Beneš 2014 | Table 1, p. 2, row 23; `ORC-A5JIFDBHWC.fcba1d` |  |
+| ϵ-Pu |  | 7.5591 kJ/mol-atom | 298.15 | model |  |  | [3] Beneš 2014 | Table 1, p. 2, row 30; `ORC-H46OTICAF7.32e1b1` |  |
 
 ## Other properties
 
@@ -64,12 +64,12 @@ Table: Phase transition, Pu system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 397.15 K | 397.15 | α-Pu; _alloy: Pu 1_ | model | [4] Perron 2016; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 1, p. 3, row 6 |  |
-| Phase transition | 488.15 K | 488.15 | β-Pu; _alloy: Pu 1_ | model | [4] Perron 2016; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 1, p. 3, row 7 |  |
-| Phase transition | 593.15 K | 593.15 | γ-Pu; _alloy: Pu 1_ | model | [4] Perron 2016; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 1, p. 3, row 8 |  |
-| Phase transition | 736.15 K | 736.15 | δ-Pu; _alloy: Pu 1_ | model | [4] Perron 2016; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 1, p. 3, row 9 |  |
-| Phase transition | 756.15 K | 756.15 | δ′-Pu; _alloy: Pu 1_ | model | [4] Perron 2016; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 1, p. 3, row 10 |  |
-| Phase transition | 913.15 K | 913.15 | ε-Pu; _alloy: Pu 1_ | model | [4] Perron 2016; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 1, p. 3, row 11 |  |
+| Phase transition | 397.15 K | 397.15 | α-Pu; _alloy: Pu 1_ | model | [4] Perron 2016; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 1, p. 3, row 6; `ORC-BVUS6KHZIO` |  |
+| Phase transition | 488.15 K | 488.15 | β-Pu; _alloy: Pu 1_ | model | [4] Perron 2016; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 1, p. 3, row 7; `ORC-FAA2H5P4FC` |  |
+| Phase transition | 593.15 K | 593.15 | γ-Pu; _alloy: Pu 1_ | model | [4] Perron 2016; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 1, p. 3, row 8; `ORC-7PC4GFYCFJ` |  |
+| Phase transition | 736.15 K | 736.15 | δ-Pu; _alloy: Pu 1_ | model | [4] Perron 2016; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 1, p. 3, row 9; `ORC-YPOTACSDYH` |  |
+| Phase transition | 756.15 K | 756.15 | δ′-Pu; _alloy: Pu 1_ | model | [4] Perron 2016; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 1, p. 3, row 10; `ORC-RVG2B33M4R` |  |
+| Phase transition | 913.15 K | 913.15 | ε-Pu; _alloy: Pu 1_ | model | [4] Perron 2016; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 1, p. 3, row 11; `ORC-PFELX26B5B` |  |
 
 ### Heat capacity / entropy / enthalpy (5)
 
@@ -77,11 +77,11 @@ Table: Heat capacity / entropy / enthalpy, Pu system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: S0(298.15)_ | 54.461 J/mol-atom/K | 298.15 | α-Pu | model | [3] Beneš 2014 | Table 1, p. 2, row 13 |  |
-| Entropy; _printed: S0(298.15)_ | 64.266 J/mol-atom/K | 298.15 | β-Pu | model | [3] Beneš 2014 | Table 1, p. 2, row 16 |  |
-| Entropy; _printed: S0(298.15)_ | 65.477 J/mol-atom/K | 298.15 | γ-Pu | model | [3] Beneš 2014 | Table 1, p. 2, row 19 |  |
-| Entropy; _printed: S0(298.15)_ | 66.37 J/mol-atom/K | 298.15 | δ-Pu | model | [3] Beneš 2014 | Table 1, p. 2, row 23 |  |
-| Entropy; _printed: S0(298.15)_ | 69.975 J/mol-atom/K | 298.15 | ϵ-Pu | model | [3] Beneš 2014 | Table 1, p. 2, row 30 |  |
+| Entropy; _printed: S0(298.15)_ | 54.461 J/mol-atom/K | 298.15 | α-Pu | model | [3] Beneš 2014 | Table 1, p. 2, row 13; `ORC-WNIUEJTMOK.ee59dc` |  |
+| Entropy; _printed: S0(298.15)_ | 64.266 J/mol-atom/K | 298.15 | β-Pu | model | [3] Beneš 2014 | Table 1, p. 2, row 16; `ORC-BDHFFZ5JQY.acb2bf` |  |
+| Entropy; _printed: S0(298.15)_ | 65.477 J/mol-atom/K | 298.15 | γ-Pu | model | [3] Beneš 2014 | Table 1, p. 2, row 19; `ORC-T3FEWFB2GR.f11976` |  |
+| Entropy; _printed: S0(298.15)_ | 66.37 J/mol-atom/K | 298.15 | δ-Pu | model | [3] Beneš 2014 | Table 1, p. 2, row 23; `ORC-A5JIFDBHWC.d55d64` |  |
+| Entropy; _printed: S0(298.15)_ | 69.975 J/mol-atom/K | 298.15 | ϵ-Pu | model | [3] Beneš 2014 | Table 1, p. 2, row 30; `ORC-H46OTICAF7.b7c31a` |  |
 
 ### Crystal structure (18)
 
@@ -89,24 +89,24 @@ Table: Crystal structure, Pu system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 1.183 not_printed |  | β-Pu; _alloy: Pu 1_ | experimental | [1] Guéneau 2008; _cites Zachariasen 1963_ [doi](https://doi.org/10.1107/s0365110x63002012) | Table 1, p. 2, row 2 |  |
-| Lattice a | 0.6183 not_printed ± 1.000e-4 | 298.15 | α-Pu; _alloy: Pu 1_ | experimental | [1] Guéneau 2008; _cites Zachariasen 1963_ [doi](https://doi.org/10.1107/s0365110x63002012) | Table 1, p. 2, row 1 |  |
-| Lattice a | 0.31587 not_printed ± 4.000e-5 | 298.15 | γ-Pu; _alloy: Pu 1_ | experimental | [1] Guéneau 2008; _cites Zachariasen 1955_ [doi](https://doi.org/10.1107/s0365110x55001357) | Table 1, p. 2, row 3 |  |
-| Lattice a | 0.46347 not_printed | 298.15 | δ-Pu; _alloy: Pu 1_ | experimental | [1] Guéneau 2008; _cites Ellinger 1956_ | Table 1, p. 2, row 4 |  |
-| Lattice a | 0.3339 not_printed ± 3.000e-4 | 298.15 | δ′-Pu; _alloy: Pu 1_ | experimental | [1] Guéneau 2008; _cites Ellinger 1956_ | Table 1, p. 2, row 5 |  |
-| Lattice a | 0.36375 not_printed | 298.15 | ε-Pu; _alloy: Pu 1_ | experimental | [1] Guéneau 2008; _cites Ellinger 1956_ | Table 1, p. 2, row 6 |  |
-| Lattice b | 1.0449 not_printed |  | β-Pu; _alloy: Pu 1_ | experimental | [1] Guéneau 2008; _cites Zachariasen 1963_ [doi](https://doi.org/10.1107/s0365110x63002012) | Table 1, p. 2, row 2 |  |
-| Lattice b | 0.4822 not_printed ± 1.000e-4 | 298.15 | α-Pu; _alloy: Pu 1_ | experimental | [1] Guéneau 2008; _cites Zachariasen 1963_ [doi](https://doi.org/10.1107/s0365110x63002012) | Table 1, p. 2, row 1 |  |
-| Lattice b | 0.57682 not_printed ± 4.000e-5 | 298.15 | γ-Pu; _alloy: Pu 1_ | experimental | [1] Guéneau 2008; _cites Zachariasen 1955_ [doi](https://doi.org/10.1107/s0365110x55001357) | Table 1, p. 2, row 3 |  |
-| Lattice c | 0.9227 not_printed |  | β-Pu; _alloy: Pu 1_ | experimental | [1] Guéneau 2008; _cites Zachariasen 1963_ [doi](https://doi.org/10.1107/s0365110x63002012) | Table 1, p. 2, row 2 |  |
-| Lattice c | 1.0963 not_printed ± 1.000e-4 | 298.15 | α-Pu; _alloy: Pu 1_ | experimental | [1] Guéneau 2008; _cites Zachariasen 1963_ [doi](https://doi.org/10.1107/s0365110x63002012) | Table 1, p. 2, row 1 |  |
-| Lattice c | 1.0162 not_printed ± 2.000e-4 | 298.15 | γ-Pu; _alloy: Pu 1_ | experimental | [1] Guéneau 2008; _cites Zachariasen 1955_ [doi](https://doi.org/10.1107/s0365110x55001357) | Table 1, p. 2, row 3 |  |
-| Lattice c | 0.4446 not_printed ± 7.000e-4 | 298.15 | δ′-Pu; _alloy: Pu 1_ | experimental | [1] Guéneau 2008; _cites Ellinger 1956_ | Table 1, p. 2, row 5 |  |
-| Molar volume; _printed: V_ | 13.75 cm^3 mol^-1 |  | B.c.c.; _alloy: Pu 1_ | unspecified | [5] Ogawa 1993 | Table 1, p. 2, row 8 |  |
-| Molar volume; _printed: V_ | 15.02 cm^3 mol^-1 |  | F.c.c.; _alloy: Pu 1_ | unspecified | [5] Ogawa 1993 | Table 1, p. 2, row 9 |  |
-| Molar volume; _printed: V_ | 14.53 cm^3 mol^-1 |  | Liquid; _alloy: Pu 1_ | unspecified | [5] Ogawa 1993 | Table 1, p. 2, row 7 |  |
-| lattice beta | 138.65 ° |  | β-Pu; _alloy: Pu 1_ | experimental | [1] Guéneau 2008; _cites Zachariasen 1963_ [doi](https://doi.org/10.1107/s0365110x63002012) | Table 1, p. 2, row 2 |  |
-| lattice beta | 101.79 ° | 298.15 | α-Pu; _alloy: Pu 1_ | experimental | [1] Guéneau 2008; _cites Zachariasen 1963_ [doi](https://doi.org/10.1107/s0365110x63002012) | Table 1, p. 2, row 1 |  |
+| Lattice a | 1.183 not_printed |  | β-Pu; _alloy: Pu 1_ | experimental | [1] Guéneau 2008; _cites Zachariasen 1963_ [doi](https://doi.org/10.1107/s0365110x63002012) | Table 1, p. 2, row 2; `ORC-XIXOUSUYVA.a06a9a` |  |
+| Lattice a | 0.6183 not_printed ± 1.000e-4 | 298.15 | α-Pu; _alloy: Pu 1_ | experimental | [1] Guéneau 2008; _cites Zachariasen 1963_ [doi](https://doi.org/10.1107/s0365110x63002012) | Table 1, p. 2, row 1; `ORC-EQHP34FLH5.1def36` |  |
+| Lattice a | 0.31587 not_printed ± 4.000e-5 | 298.15 | γ-Pu; _alloy: Pu 1_ | experimental | [1] Guéneau 2008; _cites Zachariasen 1955_ [doi](https://doi.org/10.1107/s0365110x55001357) | Table 1, p. 2, row 3; `ORC-U242FFURH2.b284a0` |  |
+| Lattice a | 0.46347 not_printed | 298.15 | δ-Pu; _alloy: Pu 1_ | experimental | [1] Guéneau 2008; _cites Ellinger 1956_ | Table 1, p. 2, row 4; `ORC-2GI76F5ZOK` |  |
+| Lattice a | 0.3339 not_printed ± 3.000e-4 | 298.15 | δ′-Pu; _alloy: Pu 1_ | experimental | [1] Guéneau 2008; _cites Ellinger 1956_ | Table 1, p. 2, row 5; `ORC-CIUHREYHWX.c3f59e` |  |
+| Lattice a | 0.36375 not_printed | 298.15 | ε-Pu; _alloy: Pu 1_ | experimental | [1] Guéneau 2008; _cites Ellinger 1956_ | Table 1, p. 2, row 6; `ORC-JL7B32IUOF` |  |
+| Lattice b | 1.0449 not_printed |  | β-Pu; _alloy: Pu 1_ | experimental | [1] Guéneau 2008; _cites Zachariasen 1963_ [doi](https://doi.org/10.1107/s0365110x63002012) | Table 1, p. 2, row 2; `ORC-XIXOUSUYVA.539a8f` |  |
+| Lattice b | 0.4822 not_printed ± 1.000e-4 | 298.15 | α-Pu; _alloy: Pu 1_ | experimental | [1] Guéneau 2008; _cites Zachariasen 1963_ [doi](https://doi.org/10.1107/s0365110x63002012) | Table 1, p. 2, row 1; `ORC-EQHP34FLH5.c00e50` |  |
+| Lattice b | 0.57682 not_printed ± 4.000e-5 | 298.15 | γ-Pu; _alloy: Pu 1_ | experimental | [1] Guéneau 2008; _cites Zachariasen 1955_ [doi](https://doi.org/10.1107/s0365110x55001357) | Table 1, p. 2, row 3; `ORC-U242FFURH2.2e749a` |  |
+| Lattice c | 0.9227 not_printed |  | β-Pu; _alloy: Pu 1_ | experimental | [1] Guéneau 2008; _cites Zachariasen 1963_ [doi](https://doi.org/10.1107/s0365110x63002012) | Table 1, p. 2, row 2; `ORC-XIXOUSUYVA.0303cc` |  |
+| Lattice c | 1.0963 not_printed ± 1.000e-4 | 298.15 | α-Pu; _alloy: Pu 1_ | experimental | [1] Guéneau 2008; _cites Zachariasen 1963_ [doi](https://doi.org/10.1107/s0365110x63002012) | Table 1, p. 2, row 1; `ORC-EQHP34FLH5.699bdc` |  |
+| Lattice c | 1.0162 not_printed ± 2.000e-4 | 298.15 | γ-Pu; _alloy: Pu 1_ | experimental | [1] Guéneau 2008; _cites Zachariasen 1955_ [doi](https://doi.org/10.1107/s0365110x55001357) | Table 1, p. 2, row 3; `ORC-U242FFURH2.25f3f0` |  |
+| Lattice c | 0.4446 not_printed ± 7.000e-4 | 298.15 | δ′-Pu; _alloy: Pu 1_ | experimental | [1] Guéneau 2008; _cites Ellinger 1956_ | Table 1, p. 2, row 5; `ORC-CIUHREYHWX.e05ebb` |  |
+| Molar volume; _printed: V_ | 13.75 cm^3 mol^-1 |  | B.c.c.; _alloy: Pu 1_ | unspecified | [5] Ogawa 1993 | Table 1, p. 2, row 8; `ORC-RLE2DSNMDP` |  |
+| Molar volume; _printed: V_ | 15.02 cm^3 mol^-1 |  | F.c.c.; _alloy: Pu 1_ | unspecified | [5] Ogawa 1993 | Table 1, p. 2, row 9; `ORC-OYNTGO45EI` |  |
+| Molar volume; _printed: V_ | 14.53 cm^3 mol^-1 |  | Liquid; _alloy: Pu 1_ | unspecified | [5] Ogawa 1993 | Table 1, p. 2, row 7; `ORC-ZKQLLC4PZV` |  |
+| lattice beta | 138.65 ° |  | β-Pu; _alloy: Pu 1_ | experimental | [1] Guéneau 2008; _cites Zachariasen 1963_ [doi](https://doi.org/10.1107/s0365110x63002012) | Table 1, p. 2, row 2; `ORC-XIXOUSUYVA.77f72e` |  |
+| lattice beta | 101.79 ° | 298.15 | α-Pu; _alloy: Pu 1_ | experimental | [1] Guéneau 2008; _cites Zachariasen 1963_ [doi](https://doi.org/10.1107/s0365110x63002012) | Table 1, p. 2, row 1; `ORC-EQHP34FLH5.2709e6` |  |
 
 ## Sources
 
@@ -153,4 +153,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

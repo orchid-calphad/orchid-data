@@ -50,8 +50,8 @@ Table: Invariant reactions reported in the literature for the Ce–Ti system (2)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1063.15 | eutectic: Liquid#1 $ (dCe) ? (aTi) |  | experimental | [1] Yao 2018 | p. 6 | “The temperatures of peritectic reaction Liquid#1 ? (bTi) $ (aTi) and eutectic reaction Liquid#1 $ (dCe) ? (aTi) are calculated to be 906 and 787 °C, which are consistent with the experimental ones 910 ± 10 and 790 ± 20 °C, respectively.” |
-| 1060.15 | eutectic: Liquid#1 $ (dCe) ? (aTi) |  | model | [1] Yao 2018 | p. 6 | “The temperatures of peritectic reaction Liquid#1 ? (bTi) $ (aTi) and eutectic reaction Liquid#1 $ (dCe) ? (aTi) are calculated to be 906 and 787 °C, which are consistent with the experimental ones 910 ± 10 and 790 ± 20 °C, respectively.” |
+| 1063.15 | eutectic: Liquid#1 $ (dCe) ? (aTi) |  | experimental | [1] Yao 2018 | p. 6; `ORC-KSDAWGYXBB.d4772c` | “The temperatures of peritectic reaction Liquid#1 ? (bTi) $ (aTi) and eutectic reaction Liquid#1 $ (dCe) ? (aTi) are calculated to be 906 and 787 °C, which are consistent with the experimental ones 910 ± 10 and 790 ± 20 °C, respectively.” |
+| 1060.15 | eutectic: Liquid#1 $ (dCe) ? (aTi) |  | model | [1] Yao 2018 | p. 6; `ORC-KSDAWGYXBB.35eefe` | “The temperatures of peritectic reaction Liquid#1 ? (bTi) $ (aTi) and eutectic reaction Liquid#1 $ (dCe) ? (aTi) are calculated to be 906 and 787 °C, which are consistent with the experimental ones 910 ± 10 and 790 ± 20 °C, respectively.” |
 
 ## Other properties
 
@@ -61,8 +61,8 @@ Table: Phase transition, Ce–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 983.15 K | 983.15 | other: (dCe) $ (cCe) ? (aTi) | experimental | [1] Yao 2018 | p. 6 | “The calculated temperature of the eutectoid reaction (dCe) $ (cCe) ? (aTi) is to be 718 °C, which also agree well with the experimental one 710 ± 20 °C.” |
-| Phase transition | 991.15 K | 991.15 | other: (dCe) $ (cCe) ? (aTi) | model | [1] Yao 2018 | p. 6 | “The calculated temperature of the eutectoid reaction (dCe) $ (cCe) ? (aTi) is to be 718 °C, which also agree well with the experimental one 710 ± 20 °C.” |
+| Phase transition | 983.15 K | 983.15 | other: (dCe) $ (cCe) ? (aTi) | experimental | [1] Yao 2018 | p. 6; `ORC-OCHD7HTFMF.1c6440` | “The calculated temperature of the eutectoid reaction (dCe) $ (cCe) ? (aTi) is to be 718 °C, which also agree well with the experimental one 710 ± 20 °C.” |
+| Phase transition | 991.15 K | 991.15 | other: (dCe) $ (cCe) ? (aTi) | model | [1] Yao 2018 | p. 6; `ORC-OCHD7HTFMF.ae0e8e` | “The calculated temperature of the eutectoid reaction (dCe) $ (cCe) ? (aTi) is to be 718 °C, which also agree well with the experimental one 710 ± 20 °C.” |
 
 ## Sources
 
@@ -127,4 +127,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

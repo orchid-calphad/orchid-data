@@ -30,16 +30,16 @@ Table: Phase equilibrium, Nd–O–U system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  |  | FCC 1; _FCC 1: Nd 0.083, O 0.667, U 0.25_ | model | [1] Dottavio 2015 | Table 3, p. 4, row 9 |  |
-| Phase composition |  |  | FCC 1; _FCC 1: Nd 0.01, O 0.667, U 0.323_ | model | [1] Dottavio 2015 | Table 3, p. 4, row 1 |  |
-| Phase composition |  |  | FCC 1; _FCC 1: Nd 0.04, O 0.667, U 0.293_ | model | [1] Dottavio 2015 | Table 3, p. 4, row 7 |  |
-| Phase composition |  |  | FCC 1; _FCC 1: Nd 0.02, O 0.667, U 0.313_ | model | [1] Dottavio 2015 | Table 3, p. 4, row 5 |  |
-| Phase composition |  |  | FCC 1 + FCC 2; _FCC 1: Nd 0.083, O 0.667, U 0.25; FCC 2: Nd 0.136, O 0.643, U 0.221_ | model | [1] Dottavio 2015 | Table 3, p. 4, row 4 |  |
-| Phase composition |  |  | FCC 1 + FCC 2; _FCC 1: Nd 0.04, O 0.667, U 0.293; FCC 2: Nd 0.073, O 0.654, U 0.27_ | model | [1] Dottavio 2015 | Table 3, p. 4, row 3 |  |
-| Phase composition |  |  | FCC 1 + FCC 2; _FCC 1: Nd 0.02, O 0.667, U 0.313; FCC 2: Nd 0.051, O 0.658, U 0.291_ | model | [1] Dottavio 2015 | Table 3, p. 4, row 2 |  |
-| Phase composition |  |  | FCC 2; _FCC 2: Nd 0.073, O 0.654, U 0.27_ | model | [1] Dottavio 2015 | Table 3, p. 4, row 8 |  |
-| Phase composition |  |  | FCC 2; _FCC 2: Nd 0.051, O 0.658, U 0.291_ | model | [1] Dottavio 2015 | Table 3, p. 4, row 6 |  |
-| Phase composition |  |  | FCC 2; _FCC 2: Nd 0.136, O 0.643, U 0.221_ | model | [1] Dottavio 2015 | Table 3, p. 4, row 10 |  |
+| Phase composition |  |  | FCC 1; _FCC 1: Nd 0.083, O 0.667, U 0.25_ | model | [1] Dottavio 2015 | Table 3, p. 4, row 9; `ORC-3XP2GI5UB7` |  |
+| Phase composition |  |  | FCC 1; _FCC 1: Nd 0.01, O 0.667, U 0.323_ | model | [1] Dottavio 2015 | Table 3, p. 4, row 1; `ORC-BBUIP4HZ4O` |  |
+| Phase composition |  |  | FCC 1; _FCC 1: Nd 0.04, O 0.667, U 0.293_ | model | [1] Dottavio 2015 | Table 3, p. 4, row 7; `ORC-JVH57KZH5B` |  |
+| Phase composition |  |  | FCC 1; _FCC 1: Nd 0.02, O 0.667, U 0.313_ | model | [1] Dottavio 2015 | Table 3, p. 4, row 5; `ORC-YCVBCITZVC` |  |
+| Phase composition |  |  | FCC 1 + FCC 2; _FCC 1: Nd 0.083, O 0.667, U 0.25; FCC 2: Nd 0.136, O 0.643, U 0.221_ | model | [1] Dottavio 2015 | Table 3, p. 4, row 4; `ORC-DVZE2AF7JM` |  |
+| Phase composition |  |  | FCC 1 + FCC 2; _FCC 1: Nd 0.04, O 0.667, U 0.293; FCC 2: Nd 0.073, O 0.654, U 0.27_ | model | [1] Dottavio 2015 | Table 3, p. 4, row 3; `ORC-PQROBQHNR7` |  |
+| Phase composition |  |  | FCC 1 + FCC 2; _FCC 1: Nd 0.02, O 0.667, U 0.313; FCC 2: Nd 0.051, O 0.658, U 0.291_ | model | [1] Dottavio 2015 | Table 3, p. 4, row 2; `ORC-T3XD3GCJ7N` |  |
+| Phase composition |  |  | FCC 2; _FCC 2: Nd 0.073, O 0.654, U 0.27_ | model | [1] Dottavio 2015 | Table 3, p. 4, row 8; `ORC-MMAJFKNTF5` |  |
+| Phase composition |  |  | FCC 2; _FCC 2: Nd 0.051, O 0.658, U 0.291_ | model | [1] Dottavio 2015 | Table 3, p. 4, row 6; `ORC-Z3INW7C72Q` |  |
+| Phase composition |  |  | FCC 2; _FCC 2: Nd 0.136, O 0.643, U 0.221_ | model | [1] Dottavio 2015 | Table 3, p. 4, row 10; `ORC-ZNKPM26OZG` |  |
 
 ### Crystal structure (20)
 
@@ -47,26 +47,26 @@ Table: Crystal structure, Nd–O–U system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 5.47 not_printed | 298.15 | FCC | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 8 |  |
-| Lattice a | 5.458 not_printed | 298.15 | FCC 1 | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 13 |  |
-| Lattice a | 5.465 not_printed | 298.15 | FCC 1 | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 9 |  |
-| Lattice a | 5.46 not_printed | 298.15 | FCC 1 | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 11 |  |
-| Lattice a | 5.471 not_printed | 298.15 | FCC 2 | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 14 |  |
-| Lattice a | 5.47 not_printed | 298.15 | FCC 2 | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 10 |  |
-| Lattice a | 5.468 not_printed | 298.15 | FCC 2 | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 12 |  |
-| Lattice a | 5.468 not_printed | 298.15 | UNKNOWN | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 5 |  |
-| Lattice a | 5.47 not_printed | 298.15 | UNKNOWN | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 3 |  |
-| Lattice a | 5.458 not_printed | 298.15 | UNKNOWN | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 6 |  |
-| Lattice a | 5.471 not_printed | 298.15 | UNKNOWN | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 7 |  |
-| Lattice a | 5.46 not_printed | 298.15 | UNKNOWN | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 4 |  |
-| Lattice a | 5.465 not_printed | 298.15 | UNKNOWN | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 2 |  |
-| lattice unspecified axis | 5.47 not_printed | 298.15 | FCC | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 8 |  |
-| lattice unspecified axis | 5.458 not_printed | 298.15 | FCC 1 | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 13 |  |
-| lattice unspecified axis | 5.465 not_printed | 298.15 | FCC 1 | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 9 |  |
-| lattice unspecified axis | 5.46 not_printed | 298.15 | FCC 1 | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 11 |  |
-| lattice unspecified axis | 5.471 not_printed | 298.15 | FCC 2 | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 14 |  |
-| lattice unspecified axis | 5.47 not_printed | 298.15 | FCC 2 | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 10 |  |
-| lattice unspecified axis | 5.468 not_printed | 298.15 | FCC 2 | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 12 |  |
+| Lattice a | 5.47 not_printed | 298.15 | FCC | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 8; `ORC-TPABATPOZV.3147d4` |  |
+| Lattice a | 5.458 not_printed | 298.15 | FCC 1 | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 13; `ORC-6QE547BW7C.6a9661` |  |
+| Lattice a | 5.465 not_printed | 298.15 | FCC 1 | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 9; `ORC-LPLNRIFGPQ.e99df8` |  |
+| Lattice a | 5.46 not_printed | 298.15 | FCC 1 | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 11; `ORC-SMSDULF2VI.8f786b` |  |
+| Lattice a | 5.471 not_printed | 298.15 | FCC 2 | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 14; `ORC-2JICCZUD5C.8591be` |  |
+| Lattice a | 5.47 not_printed | 298.15 | FCC 2 | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 10; `ORC-KKKTYXICJD.cc73aa` |  |
+| Lattice a | 5.468 not_printed | 298.15 | FCC 2 | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 12; `ORC-Z55NPRZ6G5.4bef2c` |  |
+| Lattice a | 5.468 not_printed | 298.15 | UNKNOWN | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 5; `ORC-22QLBTOWZS` |  |
+| Lattice a | 5.47 not_printed | 298.15 | UNKNOWN | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 3; `ORC-6LKYG4AZKC` |  |
+| Lattice a | 5.458 not_printed | 298.15 | UNKNOWN | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 6; `ORC-ANGFSDERBO` |  |
+| Lattice a | 5.471 not_printed | 298.15 | UNKNOWN | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 7; `ORC-OVNKNV4A6U` |  |
+| Lattice a | 5.46 not_printed | 298.15 | UNKNOWN | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 4; `ORC-Q5MAOD3IRA` |  |
+| Lattice a | 5.465 not_printed | 298.15 | UNKNOWN | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 2; `ORC-YRDVAYAVHX` |  |
+| lattice unspecified axis | 5.47 not_printed | 298.15 | FCC | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 8; `ORC-TPABATPOZV.f3e8e0` |  |
+| lattice unspecified axis | 5.458 not_printed | 298.15 | FCC 1 | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 13; `ORC-6QE547BW7C.8df3ad` |  |
+| lattice unspecified axis | 5.465 not_printed | 298.15 | FCC 1 | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 9; `ORC-LPLNRIFGPQ.ac8357` |  |
+| lattice unspecified axis | 5.46 not_printed | 298.15 | FCC 1 | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 11; `ORC-SMSDULF2VI.a38e30` |  |
+| lattice unspecified axis | 5.471 not_printed | 298.15 | FCC 2 | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 14; `ORC-2JICCZUD5C.15dfd5` |  |
+| lattice unspecified axis | 5.47 not_printed | 298.15 | FCC 2 | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 10; `ORC-KKKTYXICJD.f00a66` |  |
+| lattice unspecified axis | 5.468 not_printed | 298.15 | FCC 2 | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 12; `ORC-Z55NPRZ6G5.30d4f5` |  |
 
 ## Sources
 
@@ -109,4 +109,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -26,37 +26,37 @@ Table: Invariant reactions reported in the literature for the Al–Mg–Y system
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1361.75 | other: Liquid ↔ Al2Y + τ |  | model | [1] Shakhshir 2006 | Table 7, p. 11, row 2 |  |
-| 1360.55 | eutectic: Liquid ↔ AlY + Al2Y3 |  | model | [1] Shakhshir 2006 | Table 7, p. 11, row 10 |  |
-| 1242.25 | quasi-peritectic: Liquid + Al2Y -> τ + Al3Y |  | model | [1] Shakhshir 2006 | Table 6, p. 11, row 8 |  |
-| 1240.45 | eutectic: Liquid ↔ AlY2 + cph-Y |  | model | [1] Shakhshir 2006 | Table 7, p. 11, row 9 |  |
-| 1181.85 | quasi-peritectic: Liquid + AlY2 -> Al2Y3 + cph-Y |  | model | [1] Shakhshir 2006 | Table 6, p. 11, row 15 |  |
-| 1090.65 | eutectic: Liquid -> Al2Y + ε + AlY |  | model | [1] Shakhshir 2006 | Table 6, p. 11, row 6 |  |
-| 1044.55 | quasi-peritectic: Liquid + β-Y -> γMg-Y + cph-Y |  | model | [1] Shakhshir 2006 | Table 6, p. 11, row 14 |  |
-| 1003.85 | other: Liquid ↔ Al2Y3 + γMg-Y |  | model | [1] Shakhshir 2006 | Table 7, p. 11, row 8 |  |
-| 1000.15 | eutectic: Liquid -> Al2Y3 + γMg-Y + cph-Y |  | model | [1] Shakhshir 2006 | Table 6, p. 11, row 7 |  |
-| 966.95 | quasi-peritectic: Liquid + Al3Y -> γMg-Y + Al2Y |  | model | [1] Shakhshir 2006 | Table 6, p. 11, row 10 |  |
-| 925.15 | quasi-peritectic: Liquid + γMg-Y -> δ + Al2Y3 |  | model | [1] Shakhshir 2006 | Table 6, p. 11, row 13 |  |
-| 913.15 | eutectic: Liquid ↔ Al-fcc + Al3Y |  | model | [1] Shakhshir 2006 | Table 7, p. 11, row 11 |  |
-| 898.15 | other: Liquid ↔ Al2Y + cph-Mg |  | model | [1] Shakhshir 2006 | Table 7, p. 11, row 5 |  |
-| 887.05 | other: Liquid ↔ τ + fcc-Al |  | model | [1] Shakhshir 2006 | Table 7, p. 11, row 1 |  |
-| 885.95 | eutectic: Liquid -> τ + Al3Y + fcc-Al |  | model | [1] Shakhshir 2006 | Table 6, p. 11, row 1 |  |
-| 848.45 | quasi-peritectic: Liquid + Al2Y3 -> AlY + δ |  | model | [1] Shakhshir 2006 | Table 6, p. 11, row 12 |  |
-| 831.55 | eutectic: Liquid ↔ cph-Mg + ε |  | model | [1] Shakhshir 2006 | Table 7, p. 11, row 15 |  |
-| 822.95 | other: Liquid ↔ ε + AlY |  | model | [1] Shakhshir 2006 | Table 7, p. 11, row 7 |  |
-| 822.85 | quasi-peritectic: Liquid + δ -> ε + AlY |  | model | [1] Shakhshir 2006 | Table 6, p. 11, row 11 |  |
-| 820.75 | other: Liquid ↔ Al2Y + ε |  | model | [1] Shakhshir 2006 | Table 7, p. 11, row 6 |  |
-| 811.65 | eutectic: Liquid -> Al2Y + cph-Mg + ε |  | model | [1] Shakhshir 2006 | Table 6, p. 11, row 5 |  |
-| 804.75 | peritectic: Al2Y + τ -> Liquid + Al3Y |  | model | [1] Shakhshir 2006 | Table 6, p. 11, row 16 |  |
-| 723.15 | eutectic: Liquid ↔ Al140Mg89 + γMg-Y |  | model | [1] Shakhshir 2006 | Table 7, p. 11, row 13 |  |
-| 722.45 | eutectic: Liquid ↔ fcc-Al + Al140Mg89 |  | model | [1] Shakhshir 2006 | Table 7, p. 11, row 12 |  |
-| 712.45 | other: Liquid ↔ τ + γMg-Y |  | model | [1] Shakhshir 2006 | Table 7, p. 11, row 4 |  |
-| 707.75 | quasi-peritectic: Liquid + τ -> γMg-Y + Al3Y |  | model | [1] Shakhshir 2006 | Table 6, p. 11, row 9 |  |
-| 705.15 | other: Liquid ↔ Al140Mg89 + τ |  | model | [1] Shakhshir 2006 | Table 7, p. 11, row 3 |  |
-| 704.55 | eutectic: Liquid -> fcc-Al + Al140Mg89 + τ |  | model | [1] Shakhshir 2006 | Table 6, p. 11, row 2 |  |
-| 703.65 | eutectic: Liquid -> Al140Mg89 + τ + γAl-Mg |  | model | [1] Shakhshir 2006 | Table 6, p. 11, row 3 |  |
-| 703.45 | eutectic: Liquid ↔ γMg-Y + cph-Mg |  | model | [1] Shakhshir 2006 | Table 7, p. 11, row 14 |  |
-| 692.75 | eutectic: Liquid -> γMg-Y + Al2Y + cph-Mg |  | model | [1] Shakhshir 2006 | Table 6, p. 11, row 4 |  |
+| 1361.75 | other: Liquid ↔ Al2Y + τ |  | model | [1] Shakhshir 2006 | Table 7, p. 11, row 2; `ORC-VHO4IFJIAJ` |  |
+| 1360.55 | eutectic: Liquid ↔ AlY + Al2Y3 |  | model | [1] Shakhshir 2006 | Table 7, p. 11, row 10; `ORC-NFQEDHEJTC` |  |
+| 1242.25 | quasi-peritectic: Liquid + Al2Y -> τ + Al3Y |  | model | [1] Shakhshir 2006 | Table 6, p. 11, row 8; `ORC-LNLUVRBTZI` |  |
+| 1240.45 | eutectic: Liquid ↔ AlY2 + cph-Y |  | model | [1] Shakhshir 2006 | Table 7, p. 11, row 9; `ORC-7CTBRYUVHS` |  |
+| 1181.85 | quasi-peritectic: Liquid + AlY2 -> Al2Y3 + cph-Y |  | model | [1] Shakhshir 2006 | Table 6, p. 11, row 15; `ORC-RFR52XFFP2` |  |
+| 1090.65 | eutectic: Liquid -> Al2Y + ε + AlY |  | model | [1] Shakhshir 2006 | Table 6, p. 11, row 6; `ORC-MMNDMERYNI` |  |
+| 1044.55 | quasi-peritectic: Liquid + β-Y -> γMg-Y + cph-Y |  | model | [1] Shakhshir 2006 | Table 6, p. 11, row 14; `ORC-O5QM72WEXL` |  |
+| 1003.85 | other: Liquid ↔ Al2Y3 + γMg-Y |  | model | [1] Shakhshir 2006 | Table 7, p. 11, row 8; `ORC-GDJC5RTITB` |  |
+| 1000.15 | eutectic: Liquid -> Al2Y3 + γMg-Y + cph-Y |  | model | [1] Shakhshir 2006 | Table 6, p. 11, row 7; `ORC-F2JZHI7FFL` |  |
+| 966.95 | quasi-peritectic: Liquid + Al3Y -> γMg-Y + Al2Y |  | model | [1] Shakhshir 2006 | Table 6, p. 11, row 10; `ORC-TFXJFVFOX3` |  |
+| 925.15 | quasi-peritectic: Liquid + γMg-Y -> δ + Al2Y3 |  | model | [1] Shakhshir 2006 | Table 6, p. 11, row 13; `ORC-3MA2JHVVPZ` |  |
+| 913.15 | eutectic: Liquid ↔ Al-fcc + Al3Y |  | model | [1] Shakhshir 2006 | Table 7, p. 11, row 11; `ORC-M5AWHFQ3V2` |  |
+| 898.15 | other: Liquid ↔ Al2Y + cph-Mg |  | model | [1] Shakhshir 2006 | Table 7, p. 11, row 5; `ORC-YEK3GT43HG` |  |
+| 887.05 | other: Liquid ↔ τ + fcc-Al |  | model | [1] Shakhshir 2006 | Table 7, p. 11, row 1; `ORC-WWKLBEGC6P` |  |
+| 885.95 | eutectic: Liquid -> τ + Al3Y + fcc-Al |  | model | [1] Shakhshir 2006 | Table 6, p. 11, row 1; `ORC-45CPJFY7NW` |  |
+| 848.45 | quasi-peritectic: Liquid + Al2Y3 -> AlY + δ |  | model | [1] Shakhshir 2006 | Table 6, p. 11, row 12; `ORC-ZI3RZTQNVK` |  |
+| 831.55 | eutectic: Liquid ↔ cph-Mg + ε |  | model | [1] Shakhshir 2006 | Table 7, p. 11, row 15; `ORC-GXTOTCK2FW` |  |
+| 822.95 | other: Liquid ↔ ε + AlY |  | model | [1] Shakhshir 2006 | Table 7, p. 11, row 7; `ORC-2Q52YS37ZI` |  |
+| 822.85 | quasi-peritectic: Liquid + δ -> ε + AlY |  | model | [1] Shakhshir 2006 | Table 6, p. 11, row 11; `ORC-DSIBESK2IJ` |  |
+| 820.75 | other: Liquid ↔ Al2Y + ε |  | model | [1] Shakhshir 2006 | Table 7, p. 11, row 6; `ORC-6PUDN5KDHJ` |  |
+| 811.65 | eutectic: Liquid -> Al2Y + cph-Mg + ε |  | model | [1] Shakhshir 2006 | Table 6, p. 11, row 5; `ORC-M2CGMPMBSD` |  |
+| 804.75 | peritectic: Al2Y + τ -> Liquid + Al3Y |  | model | [1] Shakhshir 2006 | Table 6, p. 11, row 16; `ORC-YGELC2DI4T` |  |
+| 723.15 | eutectic: Liquid ↔ Al140Mg89 + γMg-Y |  | model | [1] Shakhshir 2006 | Table 7, p. 11, row 13; `ORC-IWJ3KVSWQK` |  |
+| 722.45 | eutectic: Liquid ↔ fcc-Al + Al140Mg89 |  | model | [1] Shakhshir 2006 | Table 7, p. 11, row 12; `ORC-UEOFEP5KKU` |  |
+| 712.45 | other: Liquid ↔ τ + γMg-Y |  | model | [1] Shakhshir 2006 | Table 7, p. 11, row 4; `ORC-63OMZ7CXRA` |  |
+| 707.75 | quasi-peritectic: Liquid + τ -> γMg-Y + Al3Y |  | model | [1] Shakhshir 2006 | Table 6, p. 11, row 9; `ORC-E3FMLF2TY7` |  |
+| 705.15 | other: Liquid ↔ Al140Mg89 + τ |  | model | [1] Shakhshir 2006 | Table 7, p. 11, row 3; `ORC-VQEWXO5RMV` |  |
+| 704.55 | eutectic: Liquid -> fcc-Al + Al140Mg89 + τ |  | model | [1] Shakhshir 2006 | Table 6, p. 11, row 2; `ORC-Q5RMRVLU2E` |  |
+| 703.65 | eutectic: Liquid -> Al140Mg89 + τ + γAl-Mg |  | model | [1] Shakhshir 2006 | Table 6, p. 11, row 3; `ORC-VRX5KZDJOV` |  |
+| 703.45 | eutectic: Liquid ↔ γMg-Y + cph-Mg |  | model | [1] Shakhshir 2006 | Table 7, p. 11, row 14; `ORC-C7WQM2TV45` |  |
+| 692.75 | eutectic: Liquid -> γMg-Y + Al2Y + cph-Mg |  | model | [1] Shakhshir 2006 | Table 6, p. 11, row 4; `ORC-PDDKA6BMEF` |  |
 
 ## Sources
 
@@ -99,4 +99,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

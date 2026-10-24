@@ -14,13 +14,13 @@ Table: Enthalpy of formation of Be17Ti2 reported in the literature (7)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -31.3 kJ/mol-atom | αTi2Be17 |  | model |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006; _cites Kaufman 1973_ | Table 2, p. 2, row 13 |  |
-| -26.4 kJ/mol-atom | αTi2Be17 |  | model |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006; _cites Kaufman 1979_ [doi](https://doi.org/10.1016/0364-5916%2879%2990010-5) | Table 2, p. 2, row 14 |  |
-| -24.3 kJ/mol-atom | αTi2Be17 |  | model |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006 | Table 2, p. 2, row 12 |  |
-| -22 kJ/mol-atom | βTi2Be17 |  | model |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006 | Table 2, p. 2, row 15 |  |
-| -22 kJ/mol-atom | βTi2Be17 | 0 | model |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006 | Table 2, p. 2, row 15 |  |
-| -21.4 kJ/mol-atom | αTi2Be17 | 0 | model |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006 | Table 2, p. 2, row 12 |  |
-| -21.4 kJ/mol-atom | αTi2Be17 |  | model |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006 | Table 2, p. 2, row 12 |  |
+| -31.3 kJ/mol-atom | αTi2Be17 |  | model |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006; _cites Kaufman 1973_ | Table 2, p. 2, row 13; `ORC-UY3FPAGP3J.fca1e3` |  |
+| -26.4 kJ/mol-atom | αTi2Be17 |  | model |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006; _cites Kaufman 1979_ [doi](https://doi.org/10.1016/0364-5916%2879%2990010-5) | Table 2, p. 2, row 14; `ORC-76734UBVQV.8921ab` |  |
+| -24.3 kJ/mol-atom | αTi2Be17 |  | model |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006 | Table 2, p. 2, row 12; `ORC-2J6N3CRD3V.1ac2be` |  |
+| -22 kJ/mol-atom | βTi2Be17 |  | model |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006 | Table 2, p. 2, row 15; `ORC-3ZSN7KM54C.084f65` |  |
+| -22 kJ/mol-atom | βTi2Be17 | 0 | model |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006 | Table 2, p. 2, row 15; `ORC-3ZSN7KM54C.1a64a9` |  |
+| -21.4 kJ/mol-atom | αTi2Be17 | 0 | model |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006 | Table 2, p. 2, row 12; `ORC-2J6N3CRD3V.3bbd2c` |  |
+| -21.4 kJ/mol-atom | αTi2Be17 |  | model |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006 | Table 2, p. 2, row 12; `ORC-2J6N3CRD3V.c87c73` |  |
 
 ### Uncertainty budget
 
@@ -102,4 +102,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

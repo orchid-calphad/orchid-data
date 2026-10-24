@@ -14,10 +14,10 @@ Table: Enthalpy of formation of Ni5Sm reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -30.3 kJ/mol-atom | SmNi5 | 300 | experimental | Al calorimetry | [Ni–Sm](https://data.orchid-project.org/systems/NI-SM.html) | [1] Rahou 2016; _cites Pasturel 1984_ [doi](https://doi.org/10.1002/pssb.2221250110) | Table 5, p. 6, row 24 |  |
-| -27.4 kJ/mol-atom | SmNi5 | 1473 | experimental | Direct calorimetry | [Ni–Sm](https://data.orchid-project.org/systems/NI-SM.html) | [1] Rahou 2016; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900509-x) | Table 5, p. 6, row 23 |  |
-| -35.5 kJ/mol-atom | SmNi5 |  | model | Optimization | [Ni–Sm](https://data.orchid-project.org/systems/NI-SM.html) | [1] Rahou 2016; _cites Su 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900560-x) | Table 5, p. 6, row 25 |  |
-| -31.6 kJ/mol-atom | SmNi5 | 300 | model | Optimization | [Ni–Sm](https://data.orchid-project.org/systems/NI-SM.html) | [1] Rahou 2016 | Table 5, p. 6, row 22 |  |
+| -30.3 kJ/mol-atom | SmNi5 | 300 | experimental | Al calorimetry | [Ni–Sm](https://data.orchid-project.org/systems/NI-SM.html) | [1] Rahou 2016; _cites Pasturel 1984_ [doi](https://doi.org/10.1002/pssb.2221250110) | Table 5, p. 6, row 24; `ORC-UHMYIGYWKU.8cb74d` |  |
+| -27.4 kJ/mol-atom | SmNi5 | 1473 | experimental | Direct calorimetry | [Ni–Sm](https://data.orchid-project.org/systems/NI-SM.html) | [1] Rahou 2016; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900509-x) | Table 5, p. 6, row 23; `ORC-EENBV6JOTY.018b44` |  |
+| -35.5 kJ/mol-atom | SmNi5 |  | model | Optimization | [Ni–Sm](https://data.orchid-project.org/systems/NI-SM.html) | [1] Rahou 2016; _cites Su 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900560-x) | Table 5, p. 6, row 25; `ORC-5GMPTGCBUF.9876b0` |  |
+| -31.6 kJ/mol-atom | SmNi5 | 300 | model | Optimization | [Ni–Sm](https://data.orchid-project.org/systems/NI-SM.html) | [1] Rahou 2016 | Table 5, p. 6, row 22; `ORC-V44SXNOR6E.944019` |  |
 
 ### Uncertainty budget
 
@@ -96,4 +96,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

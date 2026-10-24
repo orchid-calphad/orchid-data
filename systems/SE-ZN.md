@@ -31,9 +31,9 @@ Table: Invariant reactions reported in the literature for the Se–Zn system (3)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1675.2 | Liq -> liq + ZnSe | Liq: Se 0.4; liq: Se 0.16; ZnSe: Se 0.5, Zn 0.5 | model | [1] Chen 2014 | Table 5, p. 5, row 2 |  |
-| 692.7 | Liq -> (Zn) + ZnSe | Liq: Se 0; ZnSe: Se 0.5, Zn 0.5 | model | [1] Chen 2014 | Table 5, p. 5, row 1 |  |
-| 494 | Liq -> (Se) + ZnSe | Liq: Se 1; ZnSe: Se 0.5, Zn 0.5 | model | [1] Chen 2014 | Table 5, p. 5, row 3 |  |
+| 1675.2 | Liq -> liq + ZnSe | Liq: Se 0.4; liq: Se 0.16; ZnSe: Se 0.5, Zn 0.5 | model | [1] Chen 2014 | Table 5, p. 5, row 2; `ORC-ESS7TSOAWI` |  |
+| 692.7 | Liq -> (Zn) + ZnSe | Liq: Se 0; ZnSe: Se 0.5, Zn 0.5 | model | [1] Chen 2014 | Table 5, p. 5, row 1; `ORC-HJ2QPZABP4` |  |
+| 494 | Liq -> (Se) + ZnSe | Liq: Se 1; ZnSe: Se 0.5, Zn 0.5 | model | [1] Chen 2014 | Table 5, p. 5, row 3; `ORC-3TXDUOA2UG` |  |
 
 ## Formation enthalpies
 
@@ -43,11 +43,11 @@ Table: Enthalpies of formation, Se–Zn system (5)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| ZnSe |  | -196.6 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Chen 2014; _cites Wosten 1962_ [doi](https://doi.org/10.1021/j100813a010) | Table 7, p. 6, row 2 |  |
-| ZnSe |  | -177.6 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Chen 2014; _cites Nasar 1990_ | Table 7, p. 6, row 5 |  |
-| ZnSe |  | -175.9 kJ/mol (basis unstated) |  | model |  |  | [1] Chen 2014 | Table 7, p. 6, row 1 |  |
-| ZnSe |  | -164.4 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Chen 2014; _cites Goldfinger 1963_ [doi](https://doi.org/10.1039/tf9635902851) | Table 7, p. 6, row 3 |  |
-| ZnSe |  | -163.2 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Chen 2014; _cites Terpilowski 1967_ | Table 7, p. 6, row 4 |  |
+| ZnSe |  | -196.6 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Chen 2014; _cites Wosten 1962_ [doi](https://doi.org/10.1021/j100813a010) | Table 7, p. 6, row 2; `ORC-WIONV62Y24` |  |
+| ZnSe |  | -177.6 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Chen 2014; _cites Nasar 1990_ | Table 7, p. 6, row 5; `ORC-YYVEZCDIFR.d6e0bb` |  |
+| ZnSe |  | -175.9 kJ/mol (basis unstated) |  | model |  |  | [1] Chen 2014 | Table 7, p. 6, row 1; `ORC-BAZXX5ZPR6.469b6d` |  |
+| ZnSe |  | -164.4 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Chen 2014; _cites Goldfinger 1963_ [doi](https://doi.org/10.1039/tf9635902851) | Table 7, p. 6, row 3; `ORC-LSHCIH5DVC` |  |
+| ZnSe |  | -163.2 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Chen 2014; _cites Terpilowski 1967_ | Table 7, p. 6, row 4; `ORC-PL4IY5FTMK.f97c79` |  |
 
 ## Other properties
 
@@ -57,10 +57,10 @@ Table: Phase equilibrium, Se–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 1373 (>) | congruent melting; _liquid: Zn 0.5; ZnSe: Zn 0.5_ | experimental | [1] Chen 2014; _cites Chikashige 1917_ | Table 6, p. 6, row 2 |  |
-| Phase composition |  | 1788 | congruent melting; _liquid: Zn 0.5; ZnSe: Zn 0.5_ | experimental | [1] Chen 2014; _cites Fischer 1959_ [doi](https://doi.org/10.1149/1.2427507) | Table 6, p. 6, row 3 |  |
-| Phase composition |  | 1799 | congruent melting; _liquid: Zn 0.5; ZnSe: Zn 0.5_ | experimental | [1] Chen 2014; _cites Sysoev 1967_ | Table 6, p. 6, row 4 |  |
-| Phase composition |  | 1811 | congruent melting; _liquid: Zn 0.5; ZnSe: Zn 0.5_ | model | [1] Chen 2014 | Table 6, p. 6, row 1 |  |
+| Phase composition |  | 1373 (>) | congruent melting; _liquid: Zn 0.5; ZnSe: Zn 0.5_ | experimental | [1] Chen 2014; _cites Chikashige 1917_ | Table 6, p. 6, row 2; `ORC-S7VOMLZDPI` |  |
+| Phase composition |  | 1788 | congruent melting; _liquid: Zn 0.5; ZnSe: Zn 0.5_ | experimental | [1] Chen 2014; _cites Fischer 1959_ [doi](https://doi.org/10.1149/1.2427507) | Table 6, p. 6, row 3; `ORC-I62HZYWQPV` |  |
+| Phase composition |  | 1799 | congruent melting; _liquid: Zn 0.5; ZnSe: Zn 0.5_ | experimental | [1] Chen 2014; _cites Sysoev 1967_ | Table 6, p. 6, row 4; `ORC-QNESFLM4RY` |  |
+| Phase composition |  | 1811 | congruent melting; _liquid: Zn 0.5; ZnSe: Zn 0.5_ | model | [1] Chen 2014 | Table 6, p. 6, row 1; `ORC-5OOEUWPBI6` |  |
 
 ### Formation (3)
 
@@ -68,9 +68,9 @@ Table: Formation, Se–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy of formation; _printed: Entropies of formation_ | -13.2 J/mol (basis unstated)/K |  | ZnSe; _alloy: Zn 0.5_ | model | [1] Chen 2014 | Table 7, p. 6, row 1 |  |
-| Entropy of formation; _printed: Entropies of formation_ | -13.8 J/mol (basis unstated)/K | 298.15 | ZnSe; _alloy: Zn 0.5_ | experimental | [1] Chen 2014; _cites Terpilowski 1967_ | Table 7, p. 6, row 4 |  |
-| Entropy of formation; _printed: Entropies of formation_ | -13.4 J/mol (basis unstated)/K | 298.15 | ZnSe; _alloy: Zn 0.5_ | experimental | [1] Chen 2014; _cites Nasar 1990_ | Table 7, p. 6, row 5 |  |
+| Entropy of formation; _printed: Entropies of formation_ | -13.2 J/mol (basis unstated)/K |  | ZnSe; _alloy: Zn 0.5_ | model | [1] Chen 2014 | Table 7, p. 6, row 1; `ORC-BAZXX5ZPR6.7b1d80` |  |
+| Entropy of formation; _printed: Entropies of formation_ | -13.8 J/mol (basis unstated)/K | 298.15 | ZnSe; _alloy: Zn 0.5_ | experimental | [1] Chen 2014; _cites Terpilowski 1967_ | Table 7, p. 6, row 4; `ORC-PL4IY5FTMK.adbb34` |  |
+| Entropy of formation; _printed: Entropies of formation_ | -13.4 J/mol (basis unstated)/K | 298.15 | ZnSe; _alloy: Zn 0.5_ | experimental | [1] Chen 2014; _cites Nasar 1990_ | Table 7, p. 6, row 5; `ORC-YYVEZCDIFR.fab260` |  |
 
 ## Sources
 
@@ -124,4 +124,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

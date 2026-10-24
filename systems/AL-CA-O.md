@@ -29,13 +29,13 @@ Table: Phase equilibrium, Al–Ca–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 1373 | C12A7 + CA + liquid; _liquid: Ca 0.148_ | experimental | [1] Hallstedt 1993; _cites Srikanth 1991_ | Table 4, p. 13, row 7 |  |
-| Phase composition |  | 1373 | C3A + C12A7 + liquid; _liquid: Ca 0.188_ | experimental | [1] Hallstedt 1993; _cites Srikanth 1991_ | Table 4, p. 13, row 6 |  |
-| Phase composition |  | 1373 | C3A + CA + liquid; _liquid: Ca 0.169_ | model | [1] Hallstedt 1993 | Table 4, p. 13, row 2 |  |
-| Phase composition |  | 1373 | CA + CA2 + liquid; _liquid: Ca 0.035_ | experimental | [1] Hallstedt 1993; _cites Srikanth 1991_ | Table 4, p. 13, row 3 |  |
-| Phase composition |  | 1373 | CA2 + CA6 + liquid; _liquid: Ca 0.0064_ | experimental | [1] Hallstedt 1993; _cites Srikanth 1991_ | Table 4, p. 13, row 4 |  |
-| Phase composition |  | 1373 | CA6 + Al2O3 + liquid; _liquid: Ca 0.0014_ | experimental | [1] Hallstedt 1993; _cites Srikanth 1991_ | Table 4, p. 13, row 5 |  |
-| Phase composition |  | 1373 | CaO + C3A + liquid; _liquid: Ca 0.221_ | experimental | [1] Hallstedt 1993; _cites Srikanth 1991_ | Table 4, p. 13, row 1 |  |
+| Phase composition |  | 1373 | C12A7 + CA + liquid; _liquid: Ca 0.148_ | experimental | [1] Hallstedt 1993; _cites Srikanth 1991_ | Table 4, p. 13, row 7; `ORC-ISMIGOSXTO` |  |
+| Phase composition |  | 1373 | C3A + C12A7 + liquid; _liquid: Ca 0.188_ | experimental | [1] Hallstedt 1993; _cites Srikanth 1991_ | Table 4, p. 13, row 6; `ORC-L7SNXNOG3G` |  |
+| Phase composition |  | 1373 | C3A + CA + liquid; _liquid: Ca 0.169_ | model | [1] Hallstedt 1993 | Table 4, p. 13, row 2; `ORC-ID54OUOV22` |  |
+| Phase composition |  | 1373 | CA + CA2 + liquid; _liquid: Ca 0.035_ | experimental | [1] Hallstedt 1993; _cites Srikanth 1991_ | Table 4, p. 13, row 3; `ORC-DUZLSPRWUI` |  |
+| Phase composition |  | 1373 | CA2 + CA6 + liquid; _liquid: Ca 0.0064_ | experimental | [1] Hallstedt 1993; _cites Srikanth 1991_ | Table 4, p. 13, row 4; `ORC-K465Q3L722` |  |
+| Phase composition |  | 1373 | CA6 + Al2O3 + liquid; _liquid: Ca 0.0014_ | experimental | [1] Hallstedt 1993; _cites Srikanth 1991_ | Table 4, p. 13, row 5; `ORC-3Q5GW2BX6M` |  |
+| Phase composition |  | 1373 | CaO + C3A + liquid; _liquid: Ca 0.221_ | experimental | [1] Hallstedt 1993; _cites Srikanth 1991_ | Table 4, p. 13, row 1; `ORC-J5AE7MXYSV` |  |
 
 ## Sources
 
@@ -78,4 +78,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

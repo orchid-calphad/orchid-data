@@ -48,13 +48,13 @@ Table: Invariant reactions reported in the literature for the V–Y system (7)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2181.15 | monotectic: L1 \<-> L2 + V | L1: Y 1.000e-5; L2: Y 0.82; V: Y 1.000e-6 | unspecified | [1] Chan 2010; _cites Massalski 1990_ | Table 4, p. 7, row 2 |  |
-| 2176.15 | monotectic: L1 \<-> L2 + V | L1: Y 0.0043; L2: Y 0.8194; V: Y 6.000e-4 | model | [1] Chan 2010 | Table 4, p. 7, row 3 |  |
-| 2173.15 | monotectic: L1 \<-> L2 + V | L1: Y 6.000e-4; L2: Y 0.852 | experimental | [1] Chan 2010; _cites Lundin 1962_ | Table 4, p. 7, row 1 |  |
-| 1763.15 | L + βY \<-> αY |  | experimental | [1] Chan 2010; _cites Lundin 1962_ | Table 4, p. 7, row 4 |  |
-| 1728.15 | eutectic: L \<-> V + αY | L: Y 0.8839; V: Y 0; αY: Y 0.9965 | experimental | [1] Chan 2010; _cites Lundin 1962_ | Table 4, p. 7, row 7 |  |
-| 1723.15 | eutectic: L \<-> V + αY | L: Y 0.9419; V: Y 0; αY: Y 0.9956 | model | [1] Chan 2010 | Table 4, p. 7, row 9 |  |
-| 1723.15 | eutectic: L \<-> V + αY | L: Y 0.93; V: Y 0; αY: Y 0.999 | unspecified | [1] Chan 2010; _cites Massalski 1990_ | Table 4, p. 7, row 8 |  |
+| 2181.15 | monotectic: L1 \<-> L2 + V | L1: Y 1.000e-5; L2: Y 0.82; V: Y 1.000e-6 | unspecified | [1] Chan 2010; _cites Massalski 1990_ | Table 4, p. 7, row 2; `ORC-77LWXIDHCN` |  |
+| 2176.15 | monotectic: L1 \<-> L2 + V | L1: Y 0.0043; L2: Y 0.8194; V: Y 6.000e-4 | model | [1] Chan 2010 | Table 4, p. 7, row 3; `ORC-7WLZSVAREP` |  |
+| 2173.15 | monotectic: L1 \<-> L2 + V | L1: Y 6.000e-4; L2: Y 0.852 | experimental | [1] Chan 2010; _cites Lundin 1962_ | Table 4, p. 7, row 1; `ORC-C3GLBXS5N6` |  |
+| 1763.15 | L + βY \<-> αY |  | experimental | [1] Chan 2010; _cites Lundin 1962_ | Table 4, p. 7, row 4; `ORC-WQBLFI47SK` |  |
+| 1728.15 | eutectic: L \<-> V + αY | L: Y 0.8839; V: Y 0; αY: Y 0.9965 | experimental | [1] Chan 2010; _cites Lundin 1962_ | Table 4, p. 7, row 7; `ORC-2BALGCYXNG` |  |
+| 1723.15 | eutectic: L \<-> V + αY | L: Y 0.9419; V: Y 0; αY: Y 0.9956 | model | [1] Chan 2010 | Table 4, p. 7, row 9; `ORC-EJOKYP3OHC` |  |
+| 1723.15 | eutectic: L \<-> V + αY | L: Y 0.93; V: Y 0; αY: Y 0.999 | unspecified | [1] Chan 2010; _cites Massalski 1990_ | Table 4, p. 7, row 8; `ORC-QZOMH2A4HD` |  |
 
 ## Sources
 
@@ -119,4 +119,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

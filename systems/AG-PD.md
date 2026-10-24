@@ -46,11 +46,11 @@ Table: Phase transition, Ag–Pd system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1247.9 K | 1247.9 | other: Ag–6.62Pd; _alloy: Ag 0.9338, Pd 0.0662_ | experimental | [1] Sopoušek 2010 | Table 1, p. 2, row 1 |  |
-| Phase transition | 1291.6 K | 1291.6 | other: Ag–12.86Pd; _alloy: Ag 0.8714, Pd 0.1286_ | experimental | [1] Sopoušek 2010 | Table 1, p. 2, row 3 |  |
-| Phase transition | 1328 K | 1328 | other: Ag–18.06Pd; _alloy: Ag 0.8194, Pd 0.1806_ | experimental | [1] Sopoušek 2010 | Table 1, p. 2, row 5 |  |
-| Phase transition | 1375.6 K | 1375.6 | other: Ag–23.27Pd; _alloy: Ag 0.7673, Pd 0.2327_ | experimental | [1] Sopoušek 2010 | Table 1, p. 2, row 7 |  |
-| Phase transition | 1398.2 K | 1398.2 | other: Ag–25.92Pd; _alloy: Ag 0.7408, Pd 0.2592_ | experimental | [1] Sopoušek 2010 | Table 1, p. 2, row 9 |  |
+| Phase transition | 1247.9 K | 1247.9 | other: Ag–6.62Pd; _alloy: Ag 0.9338, Pd 0.0662_ | experimental | [1] Sopoušek 2010 | Table 1, p. 2, row 1; `ORC-EGOJEUCTFA` |  |
+| Phase transition | 1291.6 K | 1291.6 | other: Ag–12.86Pd; _alloy: Ag 0.8714, Pd 0.1286_ | experimental | [1] Sopoušek 2010 | Table 1, p. 2, row 3; `ORC-NZJZLQ2QIU` |  |
+| Phase transition | 1328 K | 1328 | other: Ag–18.06Pd; _alloy: Ag 0.8194, Pd 0.1806_ | experimental | [1] Sopoušek 2010 | Table 1, p. 2, row 5; `ORC-LUDRDLYF7K` |  |
+| Phase transition | 1375.6 K | 1375.6 | other: Ag–23.27Pd; _alloy: Ag 0.7673, Pd 0.2327_ | experimental | [1] Sopoušek 2010 | Table 1, p. 2, row 7; `ORC-OOA6RDELNG` |  |
+| Phase transition | 1398.2 K | 1398.2 | other: Ag–25.92Pd; _alloy: Ag 0.7408, Pd 0.2592_ | experimental | [1] Sopoušek 2010 | Table 1, p. 2, row 9; `ORC-F4OBT6ZUHZ` |  |
 
 ### Phase equilibrium (5)
 
@@ -58,11 +58,11 @@ Table: Phase equilibrium, Ag–Pd system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 1277.5 | other: Ag–6.62Pd; _liquid: Ag 0.9338, Pd 0.0662_ | experimental | [1] Sopoušek 2010 | Table 1, p. 2, row 2 |  |
-| Phase composition |  | 1325 | other: Ag–12.86Pd; _liquid: Ag 0.8714, Pd 0.1286_ | experimental | [1] Sopoušek 2010 | Table 1, p. 2, row 4 |  |
-| Phase composition |  | 1372 | other: Ag–18.06Pd; _liquid: Ag 0.8194, Pd 0.1806_ | experimental | [1] Sopoušek 2010 | Table 1, p. 2, row 6 |  |
-| Phase composition |  | 1418.4 | other: Ag–23.27Pd; _liquid: Ag 0.7673, Pd 0.2327_ | experimental | [1] Sopoušek 2010 | Table 1, p. 2, row 8 |  |
-| Phase composition |  | 1441.1 | other: Ag–25.92Pd; _liquid: Ag 0.7408, Pd 0.2592_ | experimental | [1] Sopoušek 2010 | Table 1, p. 2, row 10 |  |
+| Phase composition |  | 1277.5 | other: Ag–6.62Pd; _liquid: Ag 0.9338, Pd 0.0662_ | experimental | [1] Sopoušek 2010 | Table 1, p. 2, row 2; `ORC-WQUJMDHKPT` |  |
+| Phase composition |  | 1325 | other: Ag–12.86Pd; _liquid: Ag 0.8714, Pd 0.1286_ | experimental | [1] Sopoušek 2010 | Table 1, p. 2, row 4; `ORC-JPOQZF7MLA` |  |
+| Phase composition |  | 1372 | other: Ag–18.06Pd; _liquid: Ag 0.8194, Pd 0.1806_ | experimental | [1] Sopoušek 2010 | Table 1, p. 2, row 6; `ORC-2VED5MBCCT` |  |
+| Phase composition |  | 1418.4 | other: Ag–23.27Pd; _liquid: Ag 0.7673, Pd 0.2327_ | experimental | [1] Sopoušek 2010 | Table 1, p. 2, row 8; `ORC-O3ACEPEPCP` |  |
+| Phase composition |  | 1441.1 | other: Ag–25.92Pd; _liquid: Ag 0.7408, Pd 0.2592_ | experimental | [1] Sopoušek 2010 | Table 1, p. 2, row 10; `ORC-ST4YCFGF3U` |  |
 
 ### Mixing / partial (8)
 
@@ -70,14 +70,14 @@ Table: Mixing / partial, Ag–Pd system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: \|ΔmixH\| (X_Ag = 0.5)_ | 5.949 kJ/mol (basis unstated) | 1200.15 | fcc | model | [2] Morioka 1999 | Table 2, p. 5, row 9 |  |
-| Enthalpy of mixing; _printed: \|ΔmixH\| (X_Ag = 0.5)_ | 1.52 kJ/mol (basis unstated) | 1200.15 | fcc | model | [2] Morioka 1999 | Table 2, p. 5, row 7 |  |
-| Enthalpy of mixing; _printed: \|ΔmixH\| (X_Ag = 0.5)_ | 4.584 kJ/mol (basis unstated) | 1200.15 | fcc | model | [2] Morioka 1999 | Table 2, p. 5, row 11 |  |
-| Enthalpy of mixing; _printed: \|ΔmixH\| (X_Ag = 0.5)_ | 4.522 kJ/mol (basis unstated) | 1200.15 | fcc | model | [2] Morioka 1999; _cites Morioka 1999_ | Table 2, p. 5, row 12 |  |
-| Enthalpy of mixing; _printed: \|ΔmixH\| (X_Ag = 0.5)_ | 1.942 kJ/mol (basis unstated) | 1850.15 | Liquid | model | [2] Morioka 1999; _cites Morioka 1999_ | Table 2, p. 5, row 6 |  |
-| Enthalpy of mixing; _printed: \|ΔmixH\| (X_Ag = 0.5)_ | 4.067 kJ/mol (basis unstated) | 1850.15 | Liquid | model | [2] Morioka 1999 | Table 2, p. 5, row 5 |  |
-| Enthalpy of mixing; _printed: \|ΔmixH\| (X_Ag = 0.5)_ | 3.641 kJ/mol (basis unstated) | 1850.15 | Liquid | model | [2] Morioka 1999 | Table 2, p. 5, row 2 |  |
-| Enthalpy of mixing; _printed: \|ΔmixH\| (X_Ag = 0.5)_ | 1.049 kJ/mol (basis unstated) | 1850.15 | Liquid | model | [2] Morioka 1999 | Table 2, p. 5, row 1 |  |
+| Enthalpy of mixing; _printed: \|ΔmixH\| (X_Ag = 0.5)_ | 5.949 kJ/mol (basis unstated) | 1200.15 | fcc | model | [2] Morioka 1999 | Table 2, p. 5, row 9; `ORC-5HZECXLX2I` |  |
+| Enthalpy of mixing; _printed: \|ΔmixH\| (X_Ag = 0.5)_ | 1.52 kJ/mol (basis unstated) | 1200.15 | fcc | model | [2] Morioka 1999 | Table 2, p. 5, row 7; `ORC-F7VLUIRQRU` |  |
+| Enthalpy of mixing; _printed: \|ΔmixH\| (X_Ag = 0.5)_ | 4.584 kJ/mol (basis unstated) | 1200.15 | fcc | model | [2] Morioka 1999 | Table 2, p. 5, row 11; `ORC-MYEPXK4Z4Z` |  |
+| Enthalpy of mixing; _printed: \|ΔmixH\| (X_Ag = 0.5)_ | 4.522 kJ/mol (basis unstated) | 1200.15 | fcc | model | [2] Morioka 1999; _cites Morioka 1999_ | Table 2, p. 5, row 12; `ORC-ZJA7CAS4MF` |  |
+| Enthalpy of mixing; _printed: \|ΔmixH\| (X_Ag = 0.5)_ | 1.942 kJ/mol (basis unstated) | 1850.15 | Liquid | model | [2] Morioka 1999; _cites Morioka 1999_ | Table 2, p. 5, row 6; `ORC-3OXUVNGLD7` |  |
+| Enthalpy of mixing; _printed: \|ΔmixH\| (X_Ag = 0.5)_ | 4.067 kJ/mol (basis unstated) | 1850.15 | Liquid | model | [2] Morioka 1999 | Table 2, p. 5, row 5; `ORC-65P3HQGG4O` |  |
+| Enthalpy of mixing; _printed: \|ΔmixH\| (X_Ag = 0.5)_ | 3.641 kJ/mol (basis unstated) | 1850.15 | Liquid | model | [2] Morioka 1999 | Table 2, p. 5, row 2; `ORC-7QUMFXSA6R` |  |
+| Enthalpy of mixing; _printed: \|ΔmixH\| (X_Ag = 0.5)_ | 1.049 kJ/mol (basis unstated) | 1850.15 | Liquid | model | [2] Morioka 1999 | Table 2, p. 5, row 1; `ORC-ZKOV5UC5FA` |  |
 
 ## Sources
 
@@ -143,4 +143,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

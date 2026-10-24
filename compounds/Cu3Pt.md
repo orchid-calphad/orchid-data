@@ -14,12 +14,12 @@ Table: Enthalpy of formation of Cu3Pt reported in the literature (6)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -10.8 kJ/mol-atom | L12-Cu3Pt | 298.15 | experimental | Exp. | [Cu–Pt](https://data.orchid-project.org/systems/CU-PT.html) | [1] Abe 2006; _cites Meschel 2006_ | Table 2, p. 7, row 5 |  |
-| -14 kJ/mol-atom | L12-Cu3Pt |  | model | LMTO | [Cu–Pt](https://data.orchid-project.org/systems/CU-PT.html) | [1] Abe 2006; _cites Johannesson 2002_ [doi](https://doi.org/10.1103/physrevlett.88.255506) | Table 2, p. 7, row 1 |  |
-| -13 kJ/mol-atom | L12-Cu3Pt |  | model | Miedema | [Cu–Pt](https://data.orchid-project.org/systems/CU-PT.html) | [1] Abe 2006; _cites FR 1988_ | Table 2, p. 7, row 4 |  |
-| -11 kJ/mol-atom | L12-Cu3Pt |  | model | ASW | [Cu–Pt](https://data.orchid-project.org/systems/CU-PT.html) | [1] Abe 2006; _cites Takizawa 1989_ [doi](https://doi.org/10.1103/physrevb.39.5792) | Table 2, p. 7, row 3 |  |
-| -11 kJ/mol-atom | L12-Cu3Pt |  | model |  | [Cu–Pt](https://data.orchid-project.org/systems/CU-PT.html) | [1] Abe 2006 | Table 2, p. 7, row 7 |  |
-| -11.2 kJ/mol-atom | L12-Cu3Pt |  | DFT | LAPW | [Cu–Pt](https://data.orchid-project.org/systems/CU-PT.html) | [1] Abe 2006; _cites Lu 1991_ [doi](https://doi.org/10.1103/physrevb.44.512) | Table 2, p. 7, row 2 |  |
+| -10.8 kJ/mol-atom | L12-Cu3Pt | 298.15 | experimental | Exp. | [Cu–Pt](https://data.orchid-project.org/systems/CU-PT.html) | [1] Abe 2006; _cites Meschel 2006_ | Table 2, p. 7, row 5; `ORC-XZY5MJMHQE` |  |
+| -14 kJ/mol-atom | L12-Cu3Pt |  | model | LMTO | [Cu–Pt](https://data.orchid-project.org/systems/CU-PT.html) | [1] Abe 2006; _cites Johannesson 2002_ [doi](https://doi.org/10.1103/physrevlett.88.255506) | Table 2, p. 7, row 1; `ORC-XOPIEWRTSO.79b506` |  |
+| -13 kJ/mol-atom | L12-Cu3Pt |  | model | Miedema | [Cu–Pt](https://data.orchid-project.org/systems/CU-PT.html) | [1] Abe 2006; _cites FR 1988_ | Table 2, p. 7, row 4; `ORC-BUGOBEY2SA.2c5368` |  |
+| -11 kJ/mol-atom | L12-Cu3Pt |  | model | ASW | [Cu–Pt](https://data.orchid-project.org/systems/CU-PT.html) | [1] Abe 2006; _cites Takizawa 1989_ [doi](https://doi.org/10.1103/physrevb.39.5792) | Table 2, p. 7, row 3; `ORC-DGXLGCDH4A.c8d9d8` |  |
+| -11 kJ/mol-atom | L12-Cu3Pt |  | model |  | [Cu–Pt](https://data.orchid-project.org/systems/CU-PT.html) | [1] Abe 2006 | Table 2, p. 7, row 7; `ORC-X346LL47CP.434514` |  |
+| -11.2 kJ/mol-atom | L12-Cu3Pt |  | DFT | LAPW | [Cu–Pt](https://data.orchid-project.org/systems/CU-PT.html) | [1] Abe 2006; _cites Lu 1991_ [doi](https://doi.org/10.1103/physrevb.44.512) | Table 2, p. 7, row 2; `ORC-K7FCATJG6W.806c89` |  |
 
 ### Uncertainty budget
 
@@ -100,4 +100,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

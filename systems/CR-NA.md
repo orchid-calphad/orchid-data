@@ -47,7 +47,7 @@ Table: Phase transition, Cr–Na system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 371.05 K | 371.05 | Liquid ↔ Bcc_A2(Na) + Bcc_A2(Cr) | model | [1] Hao 2012 | p. 8 | “The temperatures of the three invariant reactions, Acknowledgements Liquid(Cr) ↔ Gas + Bcc_A2(Cr), Gas + Bcc_A2(Cr) ↔ Liquid, and Liquid ↔ The financial support from the National Basic Bcc_A2(Na) + Bcc_A2(Cr), are calculated Research Program of China (Grant No. to be 1906 °C, 886 °C, and 97.9 °C 2011CB610401) and the National Natural respectively.” |
+| Phase transition | 371.05 K | 371.05 | Liquid ↔ Bcc_A2(Na) + Bcc_A2(Cr) | model | [1] Hao 2012 | p. 8; `ORC-PIVY3TBVFS` | “The temperatures of the three invariant reactions, Acknowledgements Liquid(Cr) ↔ Gas + Bcc_A2(Cr), Gas + Bcc_A2(Cr) ↔ Liquid, and Liquid ↔ The financial support from the National Basic Bcc_A2(Na) + Bcc_A2(Cr), are calculated Research Program of China (Grant No. to be 1906 °C, 886 °C, and 97.9 °C 2011CB610401) and the National Natural respectively.” |
 
 ## Sources
 
@@ -112,4 +112,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -58,33 +58,33 @@ Table: Invariant reactions reported in the literature for the Nb–Re system (27
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 3004 | Liquid ↔ hcp + χ | L: Re 0.88 | experimental | [1] Yen 2020; _cites Giessen 1961_ | Table VIII, p. 44, row 4 |  |
-| 3004 | eutectic: L -> χ + hcp (eutectic) | L: Re 0.88 | experimental | [2] Liu 2013; _cites Giessen 1961_ | Table 6, p. 9, row 8 |  |
-| 3003 | eutectic: L-χ þhcp |  | experimental | [2] Liu 2013; _cites Knapton 1959_ [doi](https://doi.org/10.1016/0022-5088%2859%2990065-7) | p. 2 | “He evaluated one eutectic point at 2673 K and 53% Re (Lbcc þs) and a second one at 3003 K and 88% Re (L-χ þhcp).” |
-| 2990 | Liquid ↔ hcp + χ | L: Re 0.861 | model | [1] Yen 2020 | Table VIII, p. 44, row 6 |  |
-| 2982 | eutectic: L -> χ + hcp (eutectic) | L: Re 0.87 | model | [2] Liu 2013 | Table 6, p. 9, row 7 |  |
-| 2982 | Liquid ↔ hcp + χ | L: Re 0.87 | DFT | [1] Yen 2020; _cites Liu 2013_ | Table VIII, p. 44, row 5 |  |
-| 2982 | eutectic |  | model | [2] Liu 2013 | p. 8 | “Excellent agreement is seen in the Re-rich eutectic at 86% Re and 2982 K (L-χþhcp) when compared to the experimental values of 88 70.5% Re and 3004 715 K \[7\].” |
-| 2843 | Liquid + χ ↔ σ | L: Re 0.53 | experimental | [1] Yen 2020; _cites Giessen 1961_ | Table VIII, p. 44, row 7 |  |
-| 2843 | peritectic: L + χ -> σ (peritectic) | L: Re 0.53 | experimental | [2] Liu 2013; _cites Giessen 1961_ | Table 6, p. 9, row 4 |  |
-| 2831 | Liquid ↔ bcc + σ | L: Re 0.46 | DFT | [1] Yen 2020; _cites Liu 2013_ | Table VIII, p. 44, row 2 |  |
-| 2831 | Liquid + χ ↔ σ | L: Re 0.54 | DFT | [1] Yen 2020; _cites Liu 2013_ | Table VIII, p. 44, row 8 |  |
-| 2831 | peritectic: L + χ -> σ (peritectic) | L: Re 0.54 | model | [2] Liu 2013 | Table 6, p. 9, row 3 |  |
-| 2804 | Liquid + χ ↔ σ | L: Re 0.531 | model | [1] Yen 2020 | Table VIII, p. 44, row 9 |  |
-| 2793 | peritectic: L þhcp-χ |  | experimental | [2] Liu 2013; _cites Savitskii 1961_ [doi](https://doi.org/10.1007/bf01472402) | p. 2 | “A peritectic reaction forming χ, existing from 69.5% to 86.5% Re, was found at 2793 K (L þhcp-χ).” |
-| 2740 | eutectic: L -> bcc + σ (eutectic) | L: Re 0.48 | experimental | [2] Liu 2013; _cites Giessen 1961_ | Table 6, p. 9, row 2 |  |
-| 2740 | Liquid ↔ bcc + σ | L: Re 0.48 | experimental | [1] Yen 2020; _cites Giessen 1961_ | Table VIII, p. 44, row 1 |  |
-| 2724 | eutectic |  | model | [2] Liu 2013 | p. 7 | “Starting on the Nb-rich side of the phase diagram, the present work shows a eutectic at 46% Re at a temperature of 2724 K (Lbcc þs) in close agreement with the reported 48 71% Re and” |
-| 2724 | eutectic: L -> bcc + σ (eutectic) | bcc: Re 0.46 | model | [2] Liu 2013 | Table 6, p. 9, row 1 |  |
-| 2723 | peritectic: L þχ-s |  | experimental | [2] Liu 2013 | p. 2 | “A peritectic point was found at 2723 K and 57% Re (L þχ-s).” |
-| 2703 | Liquid ↔ bcc + σ | L: Re 0.456 | model | [1] Yen 2020 | Table VIII, p. 44, row 3 |  |
-| 2673 | eutectic: Lbcc þs |  | experimental | [2] Liu 2013; _cites Knapton 1959_ [doi](https://doi.org/10.1016/0022-5088%2859%2990065-7) | p. 2 | “He evaluated one eutectic point at 2673 K and 53% Re (Lbcc þs) and a second one at 3003 K and 88% Re (L-χ þhcp).” |
-| 2613 | eutectic: L-bcc þχ |  | experimental | [2] Liu 2013 | p. 2 | “At 2613 K, a eutectic reaction exists with the composition of 50-51% Re (L-bcc þχ).” |
-| 2460 | σ ↔ bcc + χ |  | experimental | [1] Yen 2020; _cites Giessen 1961_ | Table VIII, p. 44, row 10 |  |
-| 2460 | eutectoid: σ -> bcc + χ (eutectoid) | σ: Re 0.54 | experimental | [2] Liu 2013; _cites Giessen 1961_ | Table 6, p. 9, row 6 |  |
-| 2441 | eutectoid: σ -> bcc + χ (eutectoid) | σ: Re 0.57 | model | [2] Liu 2013 | Table 6, p. 9, row 5 |  |
-| 2441 | σ ↔ bcc + χ |  | DFT | [1] Yen 2020; _cites Liu 2013_ | Table VIII, p. 44, row 11 |  |
-| 2436 | σ ↔ bcc + χ |  | model | [1] Yen 2020 | Table VIII, p. 44, row 12 |  |
+| 3004 | Liquid ↔ hcp + χ | L: Re 0.88 | experimental | [1] Yen 2020; _cites Giessen 1961_ | Table VIII, p. 44, row 4; `ORC-6OOI4WDRRE` |  |
+| 3004 | eutectic: L -> χ + hcp (eutectic) | L: Re 0.88 | experimental | [2] Liu 2013; _cites Giessen 1961_ | Table 6, p. 9, row 8; `ORC-7XWYXZW7PP` |  |
+| 3003 | eutectic: L-χ þhcp |  | experimental | [2] Liu 2013; _cites Knapton 1959_ [doi](https://doi.org/10.1016/0022-5088%2859%2990065-7) | p. 2; `ORC-VPUTLLK3BI.7d48f5` | “He evaluated one eutectic point at 2673 K and 53% Re (Lbcc þs) and a second one at 3003 K and 88% Re (L-χ þhcp).” |
+| 2990 | Liquid ↔ hcp + χ | L: Re 0.861 | model | [1] Yen 2020 | Table VIII, p. 44, row 6; `ORC-NW4V5CUWLM` |  |
+| 2982 | eutectic: L -> χ + hcp (eutectic) | L: Re 0.87 | model | [2] Liu 2013 | Table 6, p. 9, row 7; `ORC-F3NZHTIXZ3` |  |
+| 2982 | Liquid ↔ hcp + χ | L: Re 0.87 | DFT | [1] Yen 2020; _cites Liu 2013_ | Table VIII, p. 44, row 5; `ORC-UCHRGRMVDG` |  |
+| 2982 | eutectic |  | model | [2] Liu 2013 | p. 8; `ORC-VDFJ2JDT6I` | “Excellent agreement is seen in the Re-rich eutectic at 86% Re and 2982 K (L-χþhcp) when compared to the experimental values of 88 70.5% Re and 3004 715 K \[7\].” |
+| 2843 | Liquid + χ ↔ σ | L: Re 0.53 | experimental | [1] Yen 2020; _cites Giessen 1961_ | Table VIII, p. 44, row 7; `ORC-6JF6Y3MMIG` |  |
+| 2843 | peritectic: L + χ -> σ (peritectic) | L: Re 0.53 | experimental | [2] Liu 2013; _cites Giessen 1961_ | Table 6, p. 9, row 4; `ORC-L62WHNUIWH` |  |
+| 2831 | Liquid ↔ bcc + σ | L: Re 0.46 | DFT | [1] Yen 2020; _cites Liu 2013_ | Table VIII, p. 44, row 2; `ORC-33EEZMH2GS` |  |
+| 2831 | Liquid + χ ↔ σ | L: Re 0.54 | DFT | [1] Yen 2020; _cites Liu 2013_ | Table VIII, p. 44, row 8; `ORC-5QA7S7J6AF` |  |
+| 2831 | peritectic: L + χ -> σ (peritectic) | L: Re 0.54 | model | [2] Liu 2013 | Table 6, p. 9, row 3; `ORC-TH3MP5QHWA` |  |
+| 2804 | Liquid + χ ↔ σ | L: Re 0.531 | model | [1] Yen 2020 | Table VIII, p. 44, row 9; `ORC-7QAJT7ZNJT` |  |
+| 2793 | peritectic: L þhcp-χ |  | experimental | [2] Liu 2013; _cites Savitskii 1961_ [doi](https://doi.org/10.1007/bf01472402) | p. 2; `ORC-E5LT2WMMSX` | “A peritectic reaction forming χ, existing from 69.5% to 86.5% Re, was found at 2793 K (L þhcp-χ).” |
+| 2740 | eutectic: L -> bcc + σ (eutectic) | L: Re 0.48 | experimental | [2] Liu 2013; _cites Giessen 1961_ | Table 6, p. 9, row 2; `ORC-25V73YGVHI` |  |
+| 2740 | Liquid ↔ bcc + σ | L: Re 0.48 | experimental | [1] Yen 2020; _cites Giessen 1961_ | Table VIII, p. 44, row 1; `ORC-HHFTH2FIN7` |  |
+| 2724 | eutectic |  | model | [2] Liu 2013 | p. 7; `ORC-JAISNIMBNX` | “Starting on the Nb-rich side of the phase diagram, the present work shows a eutectic at 46% Re at a temperature of 2724 K (Lbcc þs) in close agreement with the reported 48 71% Re and” |
+| 2724 | eutectic: L -> bcc + σ (eutectic) | bcc: Re 0.46 | model | [2] Liu 2013 | Table 6, p. 9, row 1; `ORC-XQIUK4ED5G` |  |
+| 2723 | peritectic: L þχ-s |  | experimental | [2] Liu 2013 | p. 2; `ORC-MXJF3UEXOG` | “A peritectic point was found at 2723 K and 57% Re (L þχ-s).” |
+| 2703 | Liquid ↔ bcc + σ | L: Re 0.456 | model | [1] Yen 2020 | Table VIII, p. 44, row 3; `ORC-BUDBODJQLT` |  |
+| 2673 | eutectic: Lbcc þs |  | experimental | [2] Liu 2013; _cites Knapton 1959_ [doi](https://doi.org/10.1016/0022-5088%2859%2990065-7) | p. 2; `ORC-VPUTLLK3BI.a530b1` | “He evaluated one eutectic point at 2673 K and 53% Re (Lbcc þs) and a second one at 3003 K and 88% Re (L-χ þhcp).” |
+| 2613 | eutectic: L-bcc þχ |  | experimental | [2] Liu 2013 | p. 2; `ORC-L4RMD3CH2C` | “At 2613 K, a eutectic reaction exists with the composition of 50-51% Re (L-bcc þχ).” |
+| 2460 | σ ↔ bcc + χ |  | experimental | [1] Yen 2020; _cites Giessen 1961_ | Table VIII, p. 44, row 10; `ORC-S2CH6VXKE3` |  |
+| 2460 | eutectoid: σ -> bcc + χ (eutectoid) | σ: Re 0.54 | experimental | [2] Liu 2013; _cites Giessen 1961_ | Table 6, p. 9, row 6; `ORC-ZE5UC6CEE2` |  |
+| 2441 | eutectoid: σ -> bcc + χ (eutectoid) | σ: Re 0.57 | model | [2] Liu 2013 | Table 6, p. 9, row 5; `ORC-ELMWBCFUHN` |  |
+| 2441 | σ ↔ bcc + χ |  | DFT | [1] Yen 2020; _cites Liu 2013_ | Table VIII, p. 44, row 11; `ORC-IQQB4KEKAF` |  |
+| 2436 | σ ↔ bcc + χ |  | model | [1] Yen 2020 | Table VIII, p. 44, row 12; `ORC-XMPUKZ7J46` |  |
 
 ## Formation enthalpies
 
@@ -94,12 +94,12 @@ Table: Enthalpies of formation, Nb–Re system (6)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | -13.542 kJ/mol-atom | 298.15 | model |  |  | [2] Liu 2013 | p. 4 | “Table 3 depicts that the ΔfH for χ-(Re)24(Nb)10(Re)24 calculated with the Debye-Grüneisen model at 298 K in this work is -13.542 kJ/mol atom.” |
-| (σ) |  | -13.588 kJ/mol-atom | 298.15 | model |  |  | [2] Liu 2013 | Table 3, p. 5, row 2 |  |
-| (σ) |  | -2.247 kJ/mol-atom | 298.15 | model |  |  | [2] Liu 2013 | Table 3, p. 5, row 1 |  |
-| (χ) |  | -13.542 kJ/mol-atom | 298.15 | model |  |  | [2] Liu 2013 | Table 3, p. 5, row 4 |  |
-| (χ) |  | -10.519 kJ/mol-atom | 298.15 | model |  |  | [2] Liu 2013 | Table 3, p. 5, row 6 |  |
-| (χ) |  | 4.359 kJ/mol-atom | 298.15 | model |  |  | [2] Liu 2013 | Table 3, p. 5, row 5 |  |
+| — |  | -13.542 kJ/mol-atom | 298.15 | model |  |  | [2] Liu 2013 | p. 4; `ORC-7JJ7TKUWMO` | “Table 3 depicts that the ΔfH for χ-(Re)24(Nb)10(Re)24 calculated with the Debye-Grüneisen model at 298 K in this work is -13.542 kJ/mol atom.” |
+| (σ) |  | -13.588 kJ/mol-atom | 298.15 | model |  |  | [2] Liu 2013 | Table 3, p. 5, row 2; `ORC-Z4GXLV2562.2b896f` |  |
+| (σ) |  | -2.247 kJ/mol-atom | 298.15 | model |  |  | [2] Liu 2013 | Table 3, p. 5, row 1; `ORC-NQ66MRC6SE.c4e5d8` |  |
+| (χ) |  | -13.542 kJ/mol-atom | 298.15 | model |  |  | [2] Liu 2013 | Table 3, p. 5, row 4; `ORC-IENEGXBQ4W.2a06f8` |  |
+| (χ) |  | -10.519 kJ/mol-atom | 298.15 | model |  |  | [2] Liu 2013 | Table 3, p. 5, row 6; `ORC-PMML277PUB.61264f` |  |
+| (χ) |  | 4.359 kJ/mol-atom | 298.15 | model |  |  | [2] Liu 2013 | Table 3, p. 5, row 5; `ORC-A2SYWB6OSF.13962f` |  |
 
 ## Other properties
 
@@ -109,7 +109,7 @@ Table: Phase transition, Nb–Re system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 3073 K | 3073 | congruent transformation | experimental | [2] Liu 2013; _cites Knapton 1959_ [doi](https://doi.org/10.1016/0022-5088%2859%2990065-7) | p. 2 | “Knapton also noted the congruent melting of χ at 3073 K \[6\].” |
+| Phase transition | 3073 K | 3073 | congruent transformation | experimental | [2] Liu 2013; _cites Knapton 1959_ [doi](https://doi.org/10.1016/0022-5088%2859%2990065-7) | p. 2; `ORC-YZKCOR6Y7Y` | “Knapton also noted the congruent melting of χ at 3073 K \[6\].” |
 
 ### Formation (8)
 
@@ -117,14 +117,14 @@ Table: Formation, Nb–Re system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy of formation; _printed: ΔfS_ | -2.033 J/mol-atom/K | 298.15 | (σ) | model | [2] Liu 2013 | Table 3, p. 5, row 1 |  |
-| Entropy of formation; _printed: ΔfS_ | -0.068 J/mol-atom/K | 298.15 | (σ) | model | [2] Liu 2013 | Table 3, p. 5, row 1 |  |
-| Entropy of formation; _printed: ΔfS_ | -0.692 J/mol-atom/K | 298.15 | (σ) | model | [2] Liu 2013 | Table 3, p. 5, row 2 |  |
-| Entropy of formation; _printed: ΔfS_ | -0.023 J/mol-atom/K | 298.15 | (σ) | model | [2] Liu 2013 | Table 3, p. 5, row 2 |  |
-| Entropy of formation; _printed: ΔfS_ | 0.88 J/mol-atom/K | 298.15 | (χ) | model | [2] Liu 2013 | Table 3, p. 5, row 5 |  |
-| Entropy of formation; _printed: ΔfS_ | 0.492 J/mol-atom/K | 298.15 | (χ) | model | [2] Liu 2013 | Table 3, p. 5, row 4 |  |
-| Entropy of formation; _printed: ΔfS_ | 0.237 J/mol-atom/K | 298.15 | (χ) | model | [2] Liu 2013 | Table 3, p. 5, row 6 |  |
-| Entropy of formation; _printed: ΔfS_ | 13.751 J/mol-atom/K | 298.15 | (χ) | model | [2] Liu 2013 | Table 3, p. 5, row 6 |  |
+| Entropy of formation; _printed: ΔfS_ | -2.033 J/mol-atom/K | 298.15 | (σ) | model | [2] Liu 2013 | Table 3, p. 5, row 1; `ORC-NQ66MRC6SE.7a84f5` |  |
+| Entropy of formation; _printed: ΔfS_ | -0.068 J/mol-atom/K | 298.15 | (σ) | model | [2] Liu 2013 | Table 3, p. 5, row 1; `ORC-NQ66MRC6SE.d1dcaa` |  |
+| Entropy of formation; _printed: ΔfS_ | -0.692 J/mol-atom/K | 298.15 | (σ) | model | [2] Liu 2013 | Table 3, p. 5, row 2; `ORC-Z4GXLV2562.e27537` |  |
+| Entropy of formation; _printed: ΔfS_ | -0.023 J/mol-atom/K | 298.15 | (σ) | model | [2] Liu 2013 | Table 3, p. 5, row 2; `ORC-Z4GXLV2562.efaf4c` |  |
+| Entropy of formation; _printed: ΔfS_ | 0.88 J/mol-atom/K | 298.15 | (χ) | model | [2] Liu 2013 | Table 3, p. 5, row 5; `ORC-A2SYWB6OSF.dedd51` |  |
+| Entropy of formation; _printed: ΔfS_ | 0.492 J/mol-atom/K | 298.15 | (χ) | model | [2] Liu 2013 | Table 3, p. 5, row 4; `ORC-IENEGXBQ4W.9efd1d` |  |
+| Entropy of formation; _printed: ΔfS_ | 0.237 J/mol-atom/K | 298.15 | (χ) | model | [2] Liu 2013 | Table 3, p. 5, row 6; `ORC-PMML277PUB.660c36` |  |
+| Entropy of formation; _printed: ΔfS_ | 13.751 J/mol-atom/K | 298.15 | (χ) | model | [2] Liu 2013 | Table 3, p. 5, row 6; `ORC-PMML277PUB.9b75b8` |  |
 
 ### Heat capacity / entropy / enthalpy (2)
 
@@ -132,8 +132,8 @@ Table: Heat capacity / entropy / enthalpy, Nb–Re system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: ΔfS_ | 51.029 J/mol-atom/K | 298.15 | (χ) | model | [2] Liu 2013 | Table 3, p. 5, row 5 |  |
-| Entropy; _printed: ΔfS_ | 28.528 J/mol-atom/K | 298.15 | (χ) | model | [2] Liu 2013 | Table 3, p. 5, row 4 |  |
+| Entropy; _printed: ΔfS_ | 51.029 J/mol-atom/K | 298.15 | (χ) | model | [2] Liu 2013 | Table 3, p. 5, row 5; `ORC-A2SYWB6OSF.2d1b6a` |  |
+| Entropy; _printed: ΔfS_ | 28.528 J/mol-atom/K | 298.15 | (χ) | model | [2] Liu 2013 | Table 3, p. 5, row 4; `ORC-IENEGXBQ4W.4b90e8` |  |
 
 ### Crystal structure (6)
 
@@ -141,12 +141,12 @@ Table: Crystal structure, Nb–Re system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 9.676 Å |  | UNKNOWN | experimental | [2] Liu 2013; _cites Joubert 2009_ [doi](https://doi.org/10.1016/j.pmatsci.2009.04.002) | Table 1, p. 4, row 10 |  |
-| Lattice a | 9.782 Å |  | UNKNOWN | experimental | [2] Liu 2013; _cites Joubert 2008_ [doi](https://doi.org/10.1016/j.pmatsci.2007.04.001) | Table 1, p. 4, row 8 |  |
-| Lattice a | 9.677 Å | 0 | UNKNOWN | DFT | [2] Liu 2013 | Table 1, p. 4, row 9 |  |
-| Lattice a | 9.779 Å | 0 | UNKNOWN | DFT | [2] Liu 2013 | Table 1, p. 4, row 7 |  |
-| lattice c a | 0.521 not_printed |  | UNKNOWN | experimental | [2] Liu 2013; _cites Joubert 2008_ [doi](https://doi.org/10.1016/j.pmatsci.2007.04.001) | Table 1, p. 4, row 8 |  |
-| lattice c a | 0.523 not_printed | 0 | UNKNOWN | DFT | [2] Liu 2013 | Table 1, p. 4, row 7 |  |
+| Lattice a | 9.676 Å |  | UNKNOWN | experimental | [2] Liu 2013; _cites Joubert 2009_ [doi](https://doi.org/10.1016/j.pmatsci.2009.04.002) | Table 1, p. 4, row 10; `ORC-EHOAWE4CFE` |  |
+| Lattice a | 9.782 Å |  | UNKNOWN | experimental | [2] Liu 2013; _cites Joubert 2008_ [doi](https://doi.org/10.1016/j.pmatsci.2007.04.001) | Table 1, p. 4, row 8; `ORC-EXG7IJEDXY.64d753` |  |
+| Lattice a | 9.677 Å | 0 | UNKNOWN | DFT | [2] Liu 2013 | Table 1, p. 4, row 9; `ORC-FF32EHOQDS` |  |
+| Lattice a | 9.779 Å | 0 | UNKNOWN | DFT | [2] Liu 2013 | Table 1, p. 4, row 7; `ORC-IKPKSWE2LY.74b2f5` |  |
+| lattice c a | 0.521 not_printed |  | UNKNOWN | experimental | [2] Liu 2013; _cites Joubert 2008_ [doi](https://doi.org/10.1016/j.pmatsci.2007.04.001) | Table 1, p. 4, row 8; `ORC-EXG7IJEDXY.adb6d8` |  |
+| lattice c a | 0.523 not_printed | 0 | UNKNOWN | DFT | [2] Liu 2013 | Table 1, p. 4, row 7; `ORC-IKPKSWE2LY.e61b0c` |  |
 
 ## Sources
 
@@ -212,4 +212,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

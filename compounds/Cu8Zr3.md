@@ -14,13 +14,13 @@ Table: Enthalpy of formation of Cu8Zr3 reported in the literature (7)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -16.2 kJ/mol-atom | Cu8Zr3 | 298.15 | experimental |  | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [1] Turchanin 2008; _cites Yamaguchi 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.01.173) | Table 3, p. 10, row 10 |  |
-| -11.982 kJ/mol-atom ± 0.083 | Cu8Zr3 | 1123 | experimental |  | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [1] Turchanin 2008; _cites Zaitsev 2003_ [doi](https://doi.org/10.1023/a:1022372503921) | Table 3, p. 10, row 9 |  |
-| -15.816 kJ/mol-atom | Cu8Zr3 |  | model |  | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [2] Zeng 1994; _cites Saunders 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990001-x) | Table 1, p. 1, row 7 |  |
-| -14.788 kJ/mol-atom | Cu8Zr3 | 1123 | model |  | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [1] Turchanin 2008 | Table 3, p. 10, row 11 |  |
-| -13.4603 kJ/mol-atom | Cu8Zr3 |  | model |  | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [2] Zeng 1994 | Table 1, p. 1, row 9 |  |
-| -3.24593 kJ/mol-atom | Cu8Zr3 |  | model |  | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [2] Zeng 1994; _cites Luoma 1991_ | Table 1, p. 1, row 8 |  |
-| -18.21 kJ/mol-atom | Cu8Zr3-δ | 0 | DFT | USPP-GGA | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [3] Zhou 2010; _cites Ghosh 2007_ | Table 2, p. 3, row 10 |  |
+| -16.2 kJ/mol-atom | Cu8Zr3 | 298.15 | experimental |  | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [1] Turchanin 2008; _cites Yamaguchi 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.01.173) | Table 3, p. 10, row 10; `ORC-BAK334PAP7` |  |
+| -11.982 kJ/mol-atom ± 0.083 | Cu8Zr3 | 1123 | experimental |  | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [1] Turchanin 2008; _cites Zaitsev 2003_ [doi](https://doi.org/10.1023/a:1022372503921) | Table 3, p. 10, row 9; `ORC-UGI6UJCAPF.4d8255` |  |
+| -15.816 kJ/mol-atom | Cu8Zr3 |  | model |  | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [2] Zeng 1994; _cites Saunders 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990001-x) | Table 1, p. 1, row 7; `ORC-DAASBEB5UU` |  |
+| -14.788 kJ/mol-atom | Cu8Zr3 | 1123 | model |  | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [1] Turchanin 2008 | Table 3, p. 10, row 11; `ORC-Q6PF2OXFB4.b799a0` |  |
+| -13.4603 kJ/mol-atom | Cu8Zr3 |  | model |  | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [2] Zeng 1994 | Table 1, p. 1, row 9; `ORC-WGO2E6UO7R` |  |
+| -3.24593 kJ/mol-atom | Cu8Zr3 |  | model |  | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [2] Zeng 1994; _cites Luoma 1991_ | Table 1, p. 1, row 8; `ORC-2G7QGK43YE` |  |
+| -18.21 kJ/mol-atom | Cu8Zr3-δ | 0 | DFT | USPP-GGA | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [3] Zhou 2010; _cites Ghosh 2007_ | Table 2, p. 3, row 10; `ORC-OMXVCGIYSU.54bd14` |  |
 
 ### Uncertainty budget
 
@@ -104,4 +104,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

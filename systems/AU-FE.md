@@ -47,16 +47,16 @@ Table: Invariant reactions reported in the literature for the Au–Fe system (10
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1706 | liq + bcc -> fcc | L: Fe 0.911; bcc: Fe 0.979; fcc: Fe 0.976 | model | [1] Liu 2009 | Table 2, p. 3, row 1 |  |
-| 1706 | liq + bcc -> fcc | L: Fe 0.897; bcc: Fe 0.977; fcc: Fe 0.972 | experimental | [1] Liu 2009; _cites Buckley 1963_ | Table 2, p. 3, row 2 |  |
-| 1446 | liq + fcc -> fcc | L: Fe 0.553; fcc: Fe 0.724 | model | [1] Liu 2009 | Table 2, p. 3, row 3 |  |
-| 1444 | liq + fcc -> fcc | fcc: Fe 0.959 | experimental | [1] Liu 2009; _cites Buckley 1963_ | Table 2, p. 3, row 6 |  |
-| 1441 | liq + fcc -> fcc | L: Fe 0.566; fcc: Fe 0.694 | experimental | [1] Liu 2009; _cites Isaac 1907_ | Table 2, p. 3, row 4 |  |
-| 1441 | liq + fcc -> fcc | L: Fe 0.57; fcc: Fe 0.745 | experimental | [1] Liu 2009; _cites Raub 1950_ | Table 2, p. 3, row 5 |  |
-| 1176 | fcc -> fcc + bcc | fcc: Fe 0.56 | experimental | [1] Liu 2009; _cites Raub 1950_ | Table 2, p. 3, row 9 |  |
-| 1133 | fcc -> fcc + bcc | fcc: Fe 0.978; bcc: Fe 0.994 | experimental | [1] Liu 2009; _cites Seigle 1956_ | Table 2, p. 3, row 10 |  |
-| 1111 | fcc -> fcc + bcc | fcc: Fe 0.508; bcc: Fe 0.991 | model | [1] Liu 2009 | Table 2, p. 3, row 7 |  |
-| 1103 | fcc -> fcc + bcc |  | experimental | [1] Liu 2009; _cites Isaac 1907_ | Table 2, p. 3, row 8 |  |
+| 1706 | liq + bcc -> fcc | L: Fe 0.911; bcc: Fe 0.979; fcc: Fe 0.976 | model | [1] Liu 2009 | Table 2, p. 3, row 1; `ORC-UQP23HFGZ4` |  |
+| 1706 | liq + bcc -> fcc | L: Fe 0.897; bcc: Fe 0.977; fcc: Fe 0.972 | experimental | [1] Liu 2009; _cites Buckley 1963_ | Table 2, p. 3, row 2; `ORC-Z2NJPDNJW5` |  |
+| 1446 | liq + fcc -> fcc | L: Fe 0.553; fcc: Fe 0.724 | model | [1] Liu 2009 | Table 2, p. 3, row 3; `ORC-KYSMIXULND` |  |
+| 1444 | liq + fcc -> fcc | fcc: Fe 0.959 | experimental | [1] Liu 2009; _cites Buckley 1963_ | Table 2, p. 3, row 6; `ORC-FBLBE6GURY` |  |
+| 1441 | liq + fcc -> fcc | L: Fe 0.566; fcc: Fe 0.694 | experimental | [1] Liu 2009; _cites Isaac 1907_ | Table 2, p. 3, row 4; `ORC-NG5SQDNZY2` |  |
+| 1441 | liq + fcc -> fcc | L: Fe 0.57; fcc: Fe 0.745 | experimental | [1] Liu 2009; _cites Raub 1950_ | Table 2, p. 3, row 5; `ORC-XYLA3YSPMH` |  |
+| 1176 | fcc -> fcc + bcc | fcc: Fe 0.56 | experimental | [1] Liu 2009; _cites Raub 1950_ | Table 2, p. 3, row 9; `ORC-USKCF3IKKT` |  |
+| 1133 | fcc -> fcc + bcc | fcc: Fe 0.978; bcc: Fe 0.994 | experimental | [1] Liu 2009; _cites Seigle 1956_ | Table 2, p. 3, row 10; `ORC-OZI6MWZNUC` |  |
+| 1111 | fcc -> fcc + bcc | fcc: Fe 0.508; bcc: Fe 0.991 | model | [1] Liu 2009 | Table 2, p. 3, row 7; `ORC-7JDLQZLPFZ` |  |
+| 1103 | fcc -> fcc + bcc |  | experimental | [1] Liu 2009; _cites Isaac 1907_ | Table 2, p. 3, row 8; `ORC-AI5HSCHENQ` |  |
 
 ## Sources
 
@@ -121,4 +121,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

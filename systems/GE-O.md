@@ -53,12 +53,12 @@ Table: Invariant reactions reported in the literature for the Ge–O system (6)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1189.53 | eutectic |  | model | [1] Dinsdale 2015 | p. 7 | “Figure 9 shows the calculated phase diagram for the Ge-GeO2 system showing the eutectic between crystalline Ge and tetragonal GeO2 at 1189.53 K which is in close agreement with the temperature of 1185 K given by Trumbore et al.\[7\]” |
-| 1185 | eutectic |  | experimental | [1] Dinsdale 2015; _cites Trumbore 1956_ | p. 7 | “Figure 9 shows the calculated phase diagram for the Ge-GeO2 system showing the eutectic between crystalline Ge and tetragonal GeO2 at 1189.53 K which is in close agreement with the temperature of 1185 K given by Trumbore et al.\[7\]” |
-| 1185 | eutectic |  | experimental | [1] Dinsdale 2015 | p. 1 | “Measurements carried out by Trumbore et al. indicate that the stable eutectic involving the lower temperature tetragonal phase should be at 1185 K.” |
-| 1143.15 | eutectic |  | experimental | [1] Dinsdale 2015; _cites Candidus 1955_ [doi](https://doi.org/10.1063/1.1742038) | p. 7 | “The calculated eutectic temperature of 1127 K is in fair agreement with the value of 1143.15 K postulated by Candidus and Tuomi\[29\] and also by Trumbore et al.\[7\]” |
-| 1143 | eutectic |  | experimental | [1] Dinsdale 2015; _cites Candidus 1955_ [doi](https://doi.org/10.1063/1.1742038) | p. 1 | “Candidus and Tuomi\[29\] measured the eutectic temperature involving crystalline Ge and GeO2 to be 1143 K.” |
-| 1127 | eutectic |  | model | [1] Dinsdale 2015 | p. 7 | “The calculated eutectic temperature of 1127 K is in fair agreement with the value of 1143.15 K postulated by Candidus and Tuomi\[29\] and also by Trumbore et al.\[7\]” |
+| 1189.53 | eutectic |  | model | [1] Dinsdale 2015 | p. 7; `ORC-6JXZF57WUL.75015e` | “Figure 9 shows the calculated phase diagram for the Ge-GeO2 system showing the eutectic between crystalline Ge and tetragonal GeO2 at 1189.53 K which is in close agreement with the temperature of 1185 K given by Trumbore et al.\[7\]” |
+| 1185 | eutectic |  | experimental | [1] Dinsdale 2015; _cites Trumbore 1956_ | p. 7; `ORC-6JXZF57WUL.843a8d` | “Figure 9 shows the calculated phase diagram for the Ge-GeO2 system showing the eutectic between crystalline Ge and tetragonal GeO2 at 1189.53 K which is in close agreement with the temperature of 1185 K given by Trumbore et al.\[7\]” |
+| 1185 | eutectic |  | experimental | [1] Dinsdale 2015 | p. 1; `ORC-I7ARXPVH4Y` | “Measurements carried out by Trumbore et al. indicate that the stable eutectic involving the lower temperature tetragonal phase should be at 1185 K.” |
+| 1143.15 | eutectic |  | experimental | [1] Dinsdale 2015; _cites Candidus 1955_ [doi](https://doi.org/10.1063/1.1742038) | p. 7; `ORC-C3BBBS6MY3.17b2b4` | “The calculated eutectic temperature of 1127 K is in fair agreement with the value of 1143.15 K postulated by Candidus and Tuomi\[29\] and also by Trumbore et al.\[7\]” |
+| 1143 | eutectic |  | experimental | [1] Dinsdale 2015; _cites Candidus 1955_ [doi](https://doi.org/10.1063/1.1742038) | p. 1; `ORC-DLJY5KG6WD` | “Candidus and Tuomi\[29\] measured the eutectic temperature involving crystalline Ge and GeO2 to be 1143 K.” |
+| 1127 | eutectic |  | model | [1] Dinsdale 2015 | p. 7; `ORC-C3BBBS6MY3.809648` | “The calculated eutectic temperature of 1127 K is in fair agreement with the value of 1143.15 K postulated by Candidus and Tuomi\[29\] and also by Trumbore et al.\[7\]” |
 
 ## Formation enthalpies
 
@@ -68,20 +68,20 @@ Table: Enthalpies of formation, Ge–O system (14)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| GeO2 hexagonal |  | -574 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Dinsdale 2015; _cites Katayama 1975_ | Table 4, p. 4, row 10 |  |
-| GeO2 hexagonal |  | -556.5 kJ/mol (basis unstated) ± 2 | 298.15 | model |  |  | [1] Dinsdale 2015; _cites Faktor 1965_ [doi](https://doi.org/10.1149/1.2423702) | Table 4, p. 4, row 8 |  |
-| GeO2 hexagonal |  | -556.1 kJ/mol (basis unstated) ± 2 | 298.15 | model |  |  | [1] Dinsdale 2015 | Table 4, p. 4, row 14 |  |
-| GeO2 hexagonal |  | -556 kJ/mol (basis unstated) ± 8 | 298.15 | experimental |  |  | [1] Dinsdale 2015; _cites Jolly 1952_ [doi](https://doi.org/10.1021/ja01142a056) | Table 4, p. 4, row 3 |  |
-| GeO2 hexagonal |  | -556 kJ/mol (basis unstated) ± 5 | 298.15 | experimental |  |  | [1] Dinsdale 2015; _cites Yokokawa 1957_ [doi](https://doi.org/10.1021/ja01570a016) | Table 4, p. 4, row 4 |  |
-| GeO2 hexagonal |  | -555.4 kJ/mol (basis unstated) ± 2 | 298.15 | experimental |  |  | [1] Dinsdale 2015; _cites Yokokawa 1957_ [doi](https://doi.org/10.1021/ja01570a016) | Table 4, p. 4, row 5 |  |
-| GeO2 hexagonal |  | -554.7 kJ/mol (basis unstated) ± 1 | 298.15 | experimental |  |  | [1] Dinsdale 2015; _cites Gross 1966_ [doi](https://doi.org/10.1039/tf9666202388) | Table 4, p. 4, row 9 |  |
-| GeO2 hexagonal |  | -554.7 kJ/mol (basis unstated) ± 1 | 298.15 | experimental |  |  | [1] Dinsdale 2015; _cites Katayama 1975_ | Table 4, p. 4, row 11 |  |
-| GeO2 hexagonal |  | -554.7 kJ/mol (basis unstated) ± 1 | 298.15 | model |  |  | [1] Dinsdale 2015; _cites Gurvich 1990_ | Table 4, p. 4, row 12 |  |
-| GeO2 hexagonal |  | -553.82 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Dinsdale 2015; _cites Richet 1990_ [doi](https://doi.org/10.1007/bf00209228) | Table 4, p. 4, row 13 |  |
-| GeO2 hexagonal |  | -553 kJ/mol (basis unstated) ± 5 | 298.15 | experimental |  |  | [1] Dinsdale 2015; _cites Bills 1964_ [doi](https://doi.org/10.1021/j100786a016) | Table 4, p. 4, row 7 |  |
-| GeO2 hexagonal |  | -540.1 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Dinsdale 2015; _cites Mah 1962_ | Table 4, p. 4, row 6 |  |
-| GeO2 hexagonal |  | -538 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Dinsdale 2015; _cites Hahn 1940_ [doi](https://doi.org/10.1002/zaac.19402440203) | Table 4, p. 4, row 2 |  |
-| GeO2 hexagonal |  | -536 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Dinsdale 2015; _cites Becker 1932_ [doi](https://doi.org/10.1515/zpch-1932-16107) | Table 4, p. 4, row 1 |  |
+| GeO2 hexagonal |  | -574 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Dinsdale 2015; _cites Katayama 1975_ | Table 4, p. 4, row 10; `ORC-K3J25RITDO.965b00` |  |
+| GeO2 hexagonal |  | -556.5 kJ/mol (basis unstated) ± 2 | 298.15 | model |  |  | [1] Dinsdale 2015; _cites Faktor 1965_ [doi](https://doi.org/10.1149/1.2423702) | Table 4, p. 4, row 8; `ORC-3JBOBH5KCF` |  |
+| GeO2 hexagonal |  | -556.1 kJ/mol (basis unstated) ± 2 | 298.15 | model |  |  | [1] Dinsdale 2015 | Table 4, p. 4, row 14; `ORC-TKE4BRTWCG` |  |
+| GeO2 hexagonal |  | -556 kJ/mol (basis unstated) ± 8 | 298.15 | experimental |  |  | [1] Dinsdale 2015; _cites Jolly 1952_ [doi](https://doi.org/10.1021/ja01142a056) | Table 4, p. 4, row 3; `ORC-2DQC5PPW4J` |  |
+| GeO2 hexagonal |  | -556 kJ/mol (basis unstated) ± 5 | 298.15 | experimental |  |  | [1] Dinsdale 2015; _cites Yokokawa 1957_ [doi](https://doi.org/10.1021/ja01570a016) | Table 4, p. 4, row 4; `ORC-M4ZCOTCL47` |  |
+| GeO2 hexagonal |  | -555.4 kJ/mol (basis unstated) ± 2 | 298.15 | experimental |  |  | [1] Dinsdale 2015; _cites Yokokawa 1957_ [doi](https://doi.org/10.1021/ja01570a016) | Table 4, p. 4, row 5; `ORC-YPMXD3NAJT` |  |
+| GeO2 hexagonal |  | -554.7 kJ/mol (basis unstated) ± 1 | 298.15 | experimental |  |  | [1] Dinsdale 2015; _cites Gross 1966_ [doi](https://doi.org/10.1039/tf9666202388) | Table 4, p. 4, row 9; `ORC-23NHBNQJKD` |  |
+| GeO2 hexagonal |  | -554.7 kJ/mol (basis unstated) ± 1 | 298.15 | experimental |  |  | [1] Dinsdale 2015; _cites Katayama 1975_ | Table 4, p. 4, row 11; `ORC-65NC2C3TQ2` |  |
+| GeO2 hexagonal |  | -554.7 kJ/mol (basis unstated) ± 1 | 298.15 | model |  |  | [1] Dinsdale 2015; _cites Gurvich 1990_ | Table 4, p. 4, row 12; `ORC-WQ2XBV4SWA` |  |
+| GeO2 hexagonal |  | -553.82 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Dinsdale 2015; _cites Richet 1990_ [doi](https://doi.org/10.1007/bf00209228) | Table 4, p. 4, row 13; `ORC-TZURBNFNPE.a7e5a7` |  |
+| GeO2 hexagonal |  | -553 kJ/mol (basis unstated) ± 5 | 298.15 | experimental |  |  | [1] Dinsdale 2015; _cites Bills 1964_ [doi](https://doi.org/10.1021/j100786a016) | Table 4, p. 4, row 7; `ORC-2P2GNLY7DI` |  |
+| GeO2 hexagonal |  | -540.1 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Dinsdale 2015; _cites Mah 1962_ | Table 4, p. 4, row 6; `ORC-HLGTCQNHJY.6898fe` |  |
+| GeO2 hexagonal |  | -538 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Dinsdale 2015; _cites Hahn 1940_ [doi](https://doi.org/10.1002/zaac.19402440203) | Table 4, p. 4, row 2; `ORC-AVC7326QWT.7158f1` |  |
+| GeO2 hexagonal |  | -536 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Dinsdale 2015; _cites Becker 1932_ [doi](https://doi.org/10.1515/zpch-1932-16107) | Table 4, p. 4, row 1; `ORC-KPAQ7GA6CF.98dc8d` |  |
 
 ## Other properties
 
@@ -91,14 +91,14 @@ Table: Phase transition, Ge–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1281 K | 1281 |  | experimental | [1] Dinsdale 2015; _cites Micoulaut 2006_ [doi](https://doi.org/10.1088/0953-8984/18/45/r01) | p. 1 | “The measurements of Laubengayer and Morton,\[8\] Monnage and Bouaziz\[13\] and Marinov et al.\[14\] are thought to be the most reliable giving a value of 1308 ± 5 K although it has been reported to be a low as 1281 K.\[15\]” |
-| Phase transition | 1293 K | 1293 |  | experimental | [1] Dinsdale 2015; _cites Sarver 1960_ | p. 2 | “There is some evidence for a metastable a to b transformation in the hexagonal form at 1293 K.\[9\]” |
-| Phase transition | 1308 K | 1308 |  | experimental | [1] Dinsdale 2015; _cites Laubengayer 1932_ | p. 1 | “The measurements of Laubengayer and Morton,\[8\] Monnage and Bouaziz\[13\] and Marinov et al.\[14\] are thought to be the most reliable giving a value of 1308 ± 5 K although it has been reported to be a low as 1281 K.\[15\]” |
-| Phase transition | 1308 K | 1308 | polymorphic: tet → hex; _alloy: O 0.666667_ | unspecified | [1] Dinsdale 2015 | Table 6, p. 5, row 4 |  |
-| Phase transition | 1342.3 K | 1342.3 | congruent transformation: tet → liq; _alloy: O 0.666667_ | unspecified | [1] Dinsdale 2015 | Table 6, p. 5, row 6 |  |
-| Phase transition | 1359 K | 1359 | tetragonal GeO2 | experimental | [1] Dinsdale 2015; _cites Laubengayer 1932_ | p. 2 | “The metastable melting point of tetragonal GeO2 was reported to be 1359 ± 5 K by Laubengayer and Morton.\[8\]” |
-| Phase transition | 1388 K | 1388 |  | experimental | [1] Dinsdale 2015; _cites Hill 1968_ | p. 2 | “The temperature of fusion has been determined by,\[12-14,30-32\] yielding an average value of 1388 K.” |
-| Phase transition | 1388 K | 1388 | congruent transformation: hex → liq; _alloy: O 0.666667_ | unspecified | [1] Dinsdale 2015 | Table 6, p. 5, row 5 |  |
+| Phase transition | 1281 K | 1281 |  | experimental | [1] Dinsdale 2015; _cites Micoulaut 2006_ [doi](https://doi.org/10.1088/0953-8984/18/45/r01) | p. 1; `ORC-XA3BZAEYZI.8b3381` | “The measurements of Laubengayer and Morton,\[8\] Monnage and Bouaziz\[13\] and Marinov et al.\[14\] are thought to be the most reliable giving a value of 1308 ± 5 K although it has been reported to be a low as 1281 K.\[15\]” |
+| Phase transition | 1293 K | 1293 |  | experimental | [1] Dinsdale 2015; _cites Sarver 1960_ | p. 2; `ORC-7QT7U5B3PN.5a6e89` | “There is some evidence for a metastable a to b transformation in the hexagonal form at 1293 K.\[9\]” |
+| Phase transition | 1308 K | 1308 |  | experimental | [1] Dinsdale 2015; _cites Laubengayer 1932_ | p. 1; `ORC-XA3BZAEYZI.f03f03` | “The measurements of Laubengayer and Morton,\[8\] Monnage and Bouaziz\[13\] and Marinov et al.\[14\] are thought to be the most reliable giving a value of 1308 ± 5 K although it has been reported to be a low as 1281 K.\[15\]” |
+| Phase transition | 1308 K | 1308 | polymorphic: tet → hex; _alloy: O 0.666667_ | unspecified | [1] Dinsdale 2015 | Table 6, p. 5, row 4; `ORC-4TD6B2YWIT` |  |
+| Phase transition | 1342.3 K | 1342.3 | congruent transformation: tet → liq; _alloy: O 0.666667_ | unspecified | [1] Dinsdale 2015 | Table 6, p. 5, row 6; `ORC-3N7SVS4M2J` |  |
+| Phase transition | 1359 K | 1359 | tetragonal GeO2 | experimental | [1] Dinsdale 2015; _cites Laubengayer 1932_ | p. 2; `ORC-7QT7U5B3PN.ef2de4` | “The metastable melting point of tetragonal GeO2 was reported to be 1359 ± 5 K by Laubengayer and Morton.\[8\]” |
+| Phase transition | 1388 K | 1388 |  | experimental | [1] Dinsdale 2015; _cites Hill 1968_ | p. 2; `ORC-QWDU625L2X` | “The temperature of fusion has been determined by,\[12-14,30-32\] yielding an average value of 1388 K.” |
+| Phase transition | 1388 K | 1388 | congruent transformation: hex → liq; _alloy: O 0.666667_ | unspecified | [1] Dinsdale 2015 | Table 6, p. 5, row 5; `ORC-NDUBZG7RH3` |  |
 
 ### Heat capacity / entropy / enthalpy (9)
 
@@ -106,15 +106,15 @@ Table: Heat capacity / entropy / enthalpy, Ge–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: S298.15 (3rd law)_ | 57.279 J/mol (basis unstated)/K | 298.15 | hexagonal GeO2; _alloy: O 0.666667_ | model | [1] Dinsdale 2015 | Table 5, p. 4, row 2 |  |
-| Entropy; _printed: S298.15 (3rd law)_ | 55.27 J/mol (basis unstated)/K ± 0.4 | 298.15 | hexagonal GeO2; _alloy: O 0.666667_ | experimental | [1] Dinsdale 2015; _cites King 1958_ [doi](https://doi.org/10.1021/ja01541a005) | Table 5, p. 4, row 1 |  |
-| Entropy; _printed: S298.15_ | 40.58 unknown ± 2.9 | 298.15 | tetragonal GeO2; _alloy: O 0.666667_ | model | [1] Dinsdale 2015; _cites Gurvich 1990_ | Table 2, p. 3, row 5 |  |
-| Entropy; _printed: S298.15 (3rd law)_ | 32.4 unknown ± 1.6 | 298.15 | tetragonal GeO2; _alloy: O 0.666667_ | experimental | [1] Dinsdale 2015; _cites Counsell 1967_ | Table 2, p. 3, row 4 |  |
-| Entropy; _printed: S298.15_ | 39.71 unknown ± 0.1 | 298.15 | tetragonal GeO2; _alloy: O 0.666667_ | model | [1] Dinsdale 2015; _cites Richet 1990_ [doi](https://doi.org/10.1007/bf00209228) | Table 2, p. 3, row 6 |  |
-| Entropy; _printed: S298.15_ | 39.71 unknown ± 0.13 | 298.15 | tetragonal GeO2; _alloy: O 0.666667_ | model | [1] Dinsdale 2015 | Table 2, p. 3, row 7 |  |
-| Entropy; _printed: S298.15 (3rd law)_ | 39.3 unknown ± 1.6 | 298.15 | tetragonal GeO2; _alloy: O 0.666667_ | experimental | [1] Dinsdale 2015; _cites Yu 1968_ | Table 2, p. 3, row 2 |  |
-| Entropy; _printed: S298.15 (2nd law)_ | 36.2 unknown ± 12 | 298.15 | tetragonal GeO2; _alloy: O 0.666667_ | model | [1] Dinsdale 2015; _cites Newns 1966_ | Table 2, p. 3, row 3 |  |
-| Entropy; _printed: S298.15 (2nd law)_ | 31.1 unknown ± 10 | 298.15 | tetragonal GeO2; _alloy: O 0.666667_ | experimental | [1] Dinsdale 2015; _cites Faktor 1965_ [doi](https://doi.org/10.1149/1.2423702) | Table 2, p. 3, row 1 |  |
+| Entropy; _printed: S298.15 (3rd law)_ | 57.279 J/mol (basis unstated)/K | 298.15 | hexagonal GeO2; _alloy: O 0.666667_ | model | [1] Dinsdale 2015 | Table 5, p. 4, row 2; `ORC-NCC4T6UT7P` |  |
+| Entropy; _printed: S298.15 (3rd law)_ | 55.27 J/mol (basis unstated)/K ± 0.4 | 298.15 | hexagonal GeO2; _alloy: O 0.666667_ | experimental | [1] Dinsdale 2015; _cites King 1958_ [doi](https://doi.org/10.1021/ja01541a005) | Table 5, p. 4, row 1; `ORC-PP3LTVC7GN` |  |
+| Entropy; _printed: S298.15_ | 40.58 unknown ± 2.9 | 298.15 | tetragonal GeO2; _alloy: O 0.666667_ | model | [1] Dinsdale 2015; _cites Gurvich 1990_ | Table 2, p. 3, row 5; `ORC-EA3WTSAHXD` |  |
+| Entropy; _printed: S298.15 (3rd law)_ | 32.4 unknown ± 1.6 | 298.15 | tetragonal GeO2; _alloy: O 0.666667_ | experimental | [1] Dinsdale 2015; _cites Counsell 1967_ | Table 2, p. 3, row 4; `ORC-MR3VZIJUMN` |  |
+| Entropy; _printed: S298.15_ | 39.71 unknown ± 0.1 | 298.15 | tetragonal GeO2; _alloy: O 0.666667_ | model | [1] Dinsdale 2015; _cites Richet 1990_ [doi](https://doi.org/10.1007/bf00209228) | Table 2, p. 3, row 6; `ORC-MVIIVN7T2O` |  |
+| Entropy; _printed: S298.15_ | 39.71 unknown ± 0.13 | 298.15 | tetragonal GeO2; _alloy: O 0.666667_ | model | [1] Dinsdale 2015 | Table 2, p. 3, row 7; `ORC-P4NX2CSCNK` |  |
+| Entropy; _printed: S298.15 (3rd law)_ | 39.3 unknown ± 1.6 | 298.15 | tetragonal GeO2; _alloy: O 0.666667_ | experimental | [1] Dinsdale 2015; _cites Yu 1968_ | Table 2, p. 3, row 2; `ORC-PH2IV3RXZH` |  |
+| Entropy; _printed: S298.15 (2nd law)_ | 36.2 unknown ± 12 | 298.15 | tetragonal GeO2; _alloy: O 0.666667_ | model | [1] Dinsdale 2015; _cites Newns 1966_ | Table 2, p. 3, row 3; `ORC-SGJ2ZRJF3X` |  |
+| Entropy; _printed: S298.15 (2nd law)_ | 31.1 unknown ± 10 | 298.15 | tetragonal GeO2; _alloy: O 0.666667_ | experimental | [1] Dinsdale 2015; _cites Faktor 1965_ [doi](https://doi.org/10.1149/1.2423702) | Table 2, p. 3, row 1; `ORC-T3UP7TNUMC` |  |
 
 ### Other property (1)
 
@@ -122,7 +122,7 @@ Table: Other property, Ge–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Other; _printed: enthalpy of fusion_ | 17.15 kJ/mol | 1388 |  | experimental | [1] Dinsdale 2015; _cites Newns 1966_ | p. 3 | “The enthalpy of fusion of the hexagonal form (17.15 kJ/mol) at the melting point (1388 K) has been obtained by Newns and Hanks\[11\] using a differential thermal analysis technique.” |
+| Other; _printed: enthalpy of fusion_ | 17.15 kJ/mol | 1388 |  | experimental | [1] Dinsdale 2015; _cites Newns 1966_ | p. 3; `ORC-J5JKGKIVE7` | “The enthalpy of fusion of the hexagonal form (17.15 kJ/mol) at the melting point (1388 K) has been obtained by Newns and Hanks\[11\] using a differential thermal analysis technique.” |
 
 ## Sources
 
@@ -187,4 +187,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

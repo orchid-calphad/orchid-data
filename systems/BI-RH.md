@@ -58,30 +58,30 @@ Table: Invariant reactions reported in the literature for the Bi–Rh system (24
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1270.15 | L + Rh -> BiRh | L: Rh 0.45; Rh: Rh 1 | experimental | [1] Zobač 2020; _cites Okamoto 2010_ [doi](https://doi.org/10.1007/s11669-010-9660-5) | Table 2, p. 3, row 2 |  |
-| 1253.25 | L + Rh -> BiRh | L: Rh 0.471; Rh: Rh 1; BiRh: Rh 0.496 | model | [1] Zobač 2020 | Table 2, p. 3, row 4 |  |
-| 1252.15 | L + Rh -> BiRh | L: Rh 0.47; Rh: Rh 1; BiRh: Rh 0.5 | experimental | [1] Zobač 2020; _cites Kainzbauer 2018_ | Table 2, p. 3, row 3 |  |
-| 1250.15 | peritectic: L + Rh -> BiRh | L: Rh 0.46; Rh: Rh 1; BiRh: Rh 0.5 | experimental | [1] Zobač 2020; _cites Predel 1992_ | Table 2, p. 3, row 1 |  |
-| 1058.15 | L + BiRh -> Bi2Rh_HT | L: Rh 0.29; BiRh: Rh 0.47; Bi2Rh_HT: Rh 0.333 | experimental | [1] Zobač 2020; _cites Kainzbauer 2018_ | Table 2, p. 3, row 7 |  |
-| 1058.05 | L + BiRh -> Bi2Rh_HT | L: Rh 0.298; BiRh: Rh 0.461; Bi2Rh_HT: Rh 0.333 | model | [1] Zobač 2020 | Table 2, p. 3, row 8 |  |
-| 1053.15 | peritectic: L + BiRh -> Bi2Rh_HT | L: Rh 0.295; BiRh: Rh 0.48; Bi2Rh_HT: Rh 0.333 | experimental | [1] Zobač 2020; _cites Predel 1992_ | Table 2, p. 3, row 5 |  |
-| 1049.15 | L + BiRh -> Bi2Rh_HT | L: Rh 0.295; BiRh: Rh 0.45; Bi2Rh_HT: Rh 0.333 | experimental | [1] Zobač 2020; _cites Okamoto 2010_ [doi](https://doi.org/10.1007/s11669-010-9660-5) | Table 2, p. 3, row 6 |  |
-| 755.05 | Bi2Rh_HT + BiRh -> Bi55Rh45 | Bi2Rh_HT: Rh 0.333; BiRh: Rh 0.493; Bi55Rh45: Rh 0.467 | model | [1] Zobač 2020 | Table 2, p. 3, row 10 |  |
-| 753.15 | peritectoid: Bi2Rh_HT + BiRh -> Bi55Rh45 | BiRh: Rh 0.5; Bi55Rh45: Rh 0.45 | experimental | [1] Zobač 2020; _cites Kainzbauer 2018_ | Table 2, p. 3, row 9 |  |
-| 739.15 | L + Bi2Rh_HT -> Ri4Rh | L: Rh 0.083; Bi2Rh_HT: Rh 0.333; Ri4Rh: Rh 0.2 | experimental | [1] Zobač 2020; _cites Okamoto 2010_ [doi](https://doi.org/10.1007/s11669-010-9660-5) | Table 2, p. 3, row 12 |  |
-| 734.35 | L + Bi2Rh_HT -> Ri4Rh | L: Rh 0.141; Bi2Rh_HT: Rh 0.333; Ri4Rh: Rh 0.2 | model | [1] Zobač 2020 | Table 2, p. 3, row 14 |  |
-| 733.15 | peritectic: L + Bi2Rh_HT -> Ri4Rh | L: Rh 0.07; Bi2Rh_HT: Rh 0.333; Ri4Rh: Rh 0.2 | experimental | [1] Zobač 2020; _cites Predel 1992_ | Table 2, p. 3, row 11 |  |
-| 732.15 | L + Bi2Rh_HT -> Ri4Rh | L: Rh 0.085; Ri4Rh: Rh 0.2 | experimental | [1] Zobač 2020; _cites Kainzbauer 2018_ | Table 2, p. 3, row 13 |  |
-| 713.15 | peritectoid: Bi2Rh_HT + Bi55Rh45 -> Bi2Rh_LT | Bi55Rh45: Rh 0.45 | experimental | [1] Zobač 2020; _cites Kainzbauer 2018_ | Table 2, p. 3, row 17 |  |
-| 701.85 | Bi2Rh_HT + Bi55Rh45 -> Bi2Rh_LT | Bi2Rh_HT: Rh 0.333; Bi55Rh45: Rh 0.45; Bi2Rh_LT: Rh 0.334 | model | [1] Zobač 2020 | Table 2, p. 3, row 18 |  |
-| 699.95 | Bi2Rh_HT -> Bi4Rh + Bi2Rh_LT | Bi2Rh_HT: Rh 0.333; Bi4Rh: Rh 0.2; Bi2Rh_LT: Rh 0.334 | model | [1] Zobač 2020 | Table 2, p. 3, row 20 |  |
-| 699.15 | eutectoid: Bi2Rh_HT -> Bi4Rh + Bi2Rh_LT | Bi4Rh: Rh 0.2 | experimental | [1] Zobač 2020; _cites Kainzbauer 2018_ | Table 2, p. 3, row 19 |  |
-| 698.15 | polymorphic: Bi2Rh_HT -> Bi2Rh_LT | Bi2Rh_HT: Rh 0.333; Bi2Rh_LT: Rh 0.333 | experimental | [1] Zobač 2020; _cites Predel 1992_ | Table 2, p. 3, row 15 |  |
-| 643.15 | Bi2Rh_HT -> Bi2Rh_LT | Bi2Rh_HT: Rh 0.333; Bi2Rh_LT: Rh 0.333 | experimental | [1] Zobač 2020; _cites Okamoto 2010_ [doi](https://doi.org/10.1007/s11669-010-9660-5) | Table 2, p. 3, row 16 |  |
-| 542.15 | eutectic: L -> Bi + Bi4Rh | L: Rh 0.01; Bi: Rh 0; Bi4Rh: Rh 0.2 | experimental | [1] Zobač 2020; _cites Predel 1992_ | Table 2, p. 3, row 21 |  |
-| 540.15 | L -> Bi + Bi4Rh | L: Rh 0.017; Bi: Rh 0; Bi4Rh: Rh 0.2 | model | [1] Zobač 2020 | Table 2, p. 3, row 24 |  |
-| 539.15 | L -> Bi + Bi4Rh | L: Rh 0.005; Bi: Rh 0; Bi4Rh: Rh 0.2 | experimental | [1] Zobač 2020; _cites Okamoto 2010_ [doi](https://doi.org/10.1007/s11669-010-9660-5) | Table 2, p. 3, row 22 |  |
-| 539.15 | L -> Bi + Bi4Rh | L: Rh 0.005; Bi: Rh 0; Bi4Rh: Rh 0.2 | experimental | [1] Zobač 2020; _cites Kainzbauer 2018_ | Table 2, p. 3, row 23 |  |
+| 1270.15 | L + Rh -> BiRh | L: Rh 0.45; Rh: Rh 1 | experimental | [1] Zobač 2020; _cites Okamoto 2010_ [doi](https://doi.org/10.1007/s11669-010-9660-5) | Table 2, p. 3, row 2; `ORC-ZRUKDCNDG5` |  |
+| 1253.25 | L + Rh -> BiRh | L: Rh 0.471; Rh: Rh 1; BiRh: Rh 0.496 | model | [1] Zobač 2020 | Table 2, p. 3, row 4; `ORC-K4RRW7WLMY` |  |
+| 1252.15 | L + Rh -> BiRh | L: Rh 0.47; Rh: Rh 1; BiRh: Rh 0.5 | experimental | [1] Zobač 2020; _cites Kainzbauer 2018_ | Table 2, p. 3, row 3; `ORC-3CX4NFF5ID` |  |
+| 1250.15 | peritectic: L + Rh -> BiRh | L: Rh 0.46; Rh: Rh 1; BiRh: Rh 0.5 | experimental | [1] Zobač 2020; _cites Predel 1992_ | Table 2, p. 3, row 1; `ORC-SH7AKFDMAP` |  |
+| 1058.15 | L + BiRh -> Bi2Rh_HT | L: Rh 0.29; BiRh: Rh 0.47; Bi2Rh_HT: Rh 0.333 | experimental | [1] Zobač 2020; _cites Kainzbauer 2018_ | Table 2, p. 3, row 7; `ORC-KGOOZJLKGC` |  |
+| 1058.05 | L + BiRh -> Bi2Rh_HT | L: Rh 0.298; BiRh: Rh 0.461; Bi2Rh_HT: Rh 0.333 | model | [1] Zobač 2020 | Table 2, p. 3, row 8; `ORC-JN3SRNQY35` |  |
+| 1053.15 | peritectic: L + BiRh -> Bi2Rh_HT | L: Rh 0.295; BiRh: Rh 0.48; Bi2Rh_HT: Rh 0.333 | experimental | [1] Zobač 2020; _cites Predel 1992_ | Table 2, p. 3, row 5; `ORC-U5KN5KJWTY` |  |
+| 1049.15 | L + BiRh -> Bi2Rh_HT | L: Rh 0.295; BiRh: Rh 0.45; Bi2Rh_HT: Rh 0.333 | experimental | [1] Zobač 2020; _cites Okamoto 2010_ [doi](https://doi.org/10.1007/s11669-010-9660-5) | Table 2, p. 3, row 6; `ORC-J4VQK72JSS` |  |
+| 755.05 | Bi2Rh_HT + BiRh -> Bi55Rh45 | Bi2Rh_HT: Rh 0.333; BiRh: Rh 0.493; Bi55Rh45: Rh 0.467 | model | [1] Zobač 2020 | Table 2, p. 3, row 10; `ORC-AYRBSSKVSG` |  |
+| 753.15 | peritectoid: Bi2Rh_HT + BiRh -> Bi55Rh45 | BiRh: Rh 0.5; Bi55Rh45: Rh 0.45 | experimental | [1] Zobač 2020; _cites Kainzbauer 2018_ | Table 2, p. 3, row 9; `ORC-N7ALEE3NDU` |  |
+| 739.15 | L + Bi2Rh_HT -> Ri4Rh | L: Rh 0.083; Bi2Rh_HT: Rh 0.333; Ri4Rh: Rh 0.2 | experimental | [1] Zobač 2020; _cites Okamoto 2010_ [doi](https://doi.org/10.1007/s11669-010-9660-5) | Table 2, p. 3, row 12; `ORC-BKLTKP64S4` |  |
+| 734.35 | L + Bi2Rh_HT -> Ri4Rh | L: Rh 0.141; Bi2Rh_HT: Rh 0.333; Ri4Rh: Rh 0.2 | model | [1] Zobač 2020 | Table 2, p. 3, row 14; `ORC-BPDLDGRNOG` |  |
+| 733.15 | peritectic: L + Bi2Rh_HT -> Ri4Rh | L: Rh 0.07; Bi2Rh_HT: Rh 0.333; Ri4Rh: Rh 0.2 | experimental | [1] Zobač 2020; _cites Predel 1992_ | Table 2, p. 3, row 11; `ORC-7Q2LMOQVBK` |  |
+| 732.15 | L + Bi2Rh_HT -> Ri4Rh | L: Rh 0.085; Ri4Rh: Rh 0.2 | experimental | [1] Zobač 2020; _cites Kainzbauer 2018_ | Table 2, p. 3, row 13; `ORC-IKCRMFWXHH` |  |
+| 713.15 | peritectoid: Bi2Rh_HT + Bi55Rh45 -> Bi2Rh_LT | Bi55Rh45: Rh 0.45 | experimental | [1] Zobač 2020; _cites Kainzbauer 2018_ | Table 2, p. 3, row 17; `ORC-HJMKBQEVPN` |  |
+| 701.85 | Bi2Rh_HT + Bi55Rh45 -> Bi2Rh_LT | Bi2Rh_HT: Rh 0.333; Bi55Rh45: Rh 0.45; Bi2Rh_LT: Rh 0.334 | model | [1] Zobač 2020 | Table 2, p. 3, row 18; `ORC-LQ4G6HKHCE` |  |
+| 699.95 | Bi2Rh_HT -> Bi4Rh + Bi2Rh_LT | Bi2Rh_HT: Rh 0.333; Bi4Rh: Rh 0.2; Bi2Rh_LT: Rh 0.334 | model | [1] Zobač 2020 | Table 2, p. 3, row 20; `ORC-LVOXIJKGQY` |  |
+| 699.15 | eutectoid: Bi2Rh_HT -> Bi4Rh + Bi2Rh_LT | Bi4Rh: Rh 0.2 | experimental | [1] Zobač 2020; _cites Kainzbauer 2018_ | Table 2, p. 3, row 19; `ORC-ARRKPO37KE` |  |
+| 698.15 | polymorphic: Bi2Rh_HT -> Bi2Rh_LT | Bi2Rh_HT: Rh 0.333; Bi2Rh_LT: Rh 0.333 | experimental | [1] Zobač 2020; _cites Predel 1992_ | Table 2, p. 3, row 15; `ORC-ILZS42A3L2` |  |
+| 643.15 | Bi2Rh_HT -> Bi2Rh_LT | Bi2Rh_HT: Rh 0.333; Bi2Rh_LT: Rh 0.333 | experimental | [1] Zobač 2020; _cites Okamoto 2010_ [doi](https://doi.org/10.1007/s11669-010-9660-5) | Table 2, p. 3, row 16; `ORC-DTE3DTRFWA` |  |
+| 542.15 | eutectic: L -> Bi + Bi4Rh | L: Rh 0.01; Bi: Rh 0; Bi4Rh: Rh 0.2 | experimental | [1] Zobač 2020; _cites Predel 1992_ | Table 2, p. 3, row 21; `ORC-4ZNYZEHFQU` |  |
+| 540.15 | L -> Bi + Bi4Rh | L: Rh 0.017; Bi: Rh 0; Bi4Rh: Rh 0.2 | model | [1] Zobač 2020 | Table 2, p. 3, row 24; `ORC-PJPUXCGL4N` |  |
+| 539.15 | L -> Bi + Bi4Rh | L: Rh 0.005; Bi: Rh 0; Bi4Rh: Rh 0.2 | experimental | [1] Zobač 2020; _cites Okamoto 2010_ [doi](https://doi.org/10.1007/s11669-010-9660-5) | Table 2, p. 3, row 22; `ORC-DMW6CAPU2U` |  |
+| 539.15 | L -> Bi + Bi4Rh | L: Rh 0.005; Bi: Rh 0; Bi4Rh: Rh 0.2 | experimental | [1] Zobač 2020; _cites Kainzbauer 2018_ | Table 2, p. 3, row 23; `ORC-MXRA3HVRGS` |  |
 
 ## Other properties
 
@@ -91,8 +91,8 @@ Table: Phase transition, Bi–Rh system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 520.15 K | 520.15 | Bi14Rh3 -> Bi4Rh + Bi | experimental | [1] Zobač 2020; _cites Weitzer 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.016) | p. 2 | “A second metastable phase Bi14Rh3 was reported by Gu et al.\[22\] to exist in metastable phase diagram from 173°C and decomposes into Bi4Rh and Bi at 247 °C.\[4\]” |
-| Phase transition | 771.15 K | 771.15 | polymorphic | experimental | [1] Zobač 2020; _cites Zhuravlev 1955_ | p. 2 | “First studies\[2,17\] of the Bi2Rh_LT phases described it as having a monoclinic structure and with a polymorphic transition to Bi2Rh_HT at 498 °C.” |
+| Phase transition | 520.15 K | 520.15 | Bi14Rh3 -> Bi4Rh + Bi | experimental | [1] Zobač 2020; _cites Weitzer 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.016) | p. 2; `ORC-MJVQTSW6GD` | “A second metastable phase Bi14Rh3 was reported by Gu et al.\[22\] to exist in metastable phase diagram from 173°C and decomposes into Bi4Rh and Bi at 247 °C.\[4\]” |
+| Phase transition | 771.15 K | 771.15 | polymorphic | experimental | [1] Zobač 2020; _cites Zhuravlev 1955_ | p. 2; `ORC-MLRZEXIGXC` | “First studies\[2,17\] of the Bi2Rh_LT phases described it as having a monoclinic structure and with a polymorphic transition to Bi2Rh_HT at 498 °C.” |
 
 ## Sources
 
@@ -157,4 +157,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

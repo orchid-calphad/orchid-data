@@ -14,10 +14,10 @@ Table: Enthalpy of formation of BiTm reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -99 kJ/mol-atom | BiTm |  | model | CALPHAD | [Bi–Tm](https://data.orchid-project.org/systems/BI-TM.html) | [1] Djaballah 2015; _cites Wang 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.03.042) | Table 2, p. 4, row 17 |  |
-| -76.796 kJ/mol-atom | BiTm |  | model | CALPHAD | [Bi–Tm](https://data.orchid-project.org/systems/BI-TM.html) | [1] Djaballah 2015 | Table 2, p. 4, row 19 |  |
-| -73 kJ/mol-atom | BiTm |  | model | Miedema model | [Bi–Tm](https://data.orchid-project.org/systems/BI-TM.html) | [1] Djaballah 2015; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 2, p. 4, row 16 |  |
-| -76.501 kJ/mol-atom | BiTm | 0 | DFT | GGA | [Bi–Tm](https://data.orchid-project.org/systems/BI-TM.html) | [1] Djaballah 2015 | Table 2, p. 4, row 18 |  |
+| -99 kJ/mol-atom | BiTm |  | model | CALPHAD | [Bi–Tm](https://data.orchid-project.org/systems/BI-TM.html) | [1] Djaballah 2015; _cites Wang 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.03.042) | Table 2, p. 4, row 17; `ORC-IZ7VPOEHIU.228601` |  |
+| -76.796 kJ/mol-atom | BiTm |  | model | CALPHAD | [Bi–Tm](https://data.orchid-project.org/systems/BI-TM.html) | [1] Djaballah 2015 | Table 2, p. 4, row 19; `ORC-SF7F2BBGQK.b49313` |  |
+| -73 kJ/mol-atom | BiTm |  | model | Miedema model | [Bi–Tm](https://data.orchid-project.org/systems/BI-TM.html) | [1] Djaballah 2015; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 2, p. 4, row 16; `ORC-4UPGTA4QXE.21fb95` |  |
+| -76.501 kJ/mol-atom | BiTm | 0 | DFT | GGA | [Bi–Tm](https://data.orchid-project.org/systems/BI-TM.html) | [1] Djaballah 2015 | Table 2, p. 4, row 18; `ORC-5FQMPSFZ6R.18de40` |  |
 
 ### Uncertainty budget
 
@@ -96,4 +96,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

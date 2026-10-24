@@ -50,14 +50,14 @@ Table: Invariant reactions reported in the literature for the Pd–Ru system (8)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1867 | peritectic: peritectic reaction | FCC: Ru 0.21 | experimental | [1] Gossé 2016; _cites Tripathi 1993_ | Table 1, p. 3, row 6 |  |
-| 1867 | peritectic |  | model | [1] Gossé 2016 | p. 5 | “The peritectic reaction is calculated at 1867 K where the maximum solubilities are 19.2 at.% Ru in the FCC and 93.9 at.% Pd in the HCP solid solutions and the liquid composition is 13.7 at.% Ru.” |
-| 1867 | peritectic: peritectic reaction | L: Ru 0.12; FCC: Ru 0.19; HCP: Ru 0.923 | experimental | [1] Gossé 2016; _cites Kleykamp 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990424-8) | Table 1, p. 3, row 2 |  |
-| 1866 | peritectic: peritectic reaction | L: Ru 0.02; FCC: Ru 0.18; HCP: Ru 0.71 | experimental | [1] Gossé 2016; _cites Rudnitskii 1959_ | Table 1, p. 3, row 5 |  |
-| 1866 | peritectic: peritectic reaction | L: Ru 0.1; FCC: Ru 0.185; HCP: Ru 0.923 | model | [1] Gossé 2016; _cites Gurler 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990291-t) | Table 1, p. 3, row 7 |  |
-| 1858 | peritectic: peritectic reaction | L: Ru 0.09; FCC: Ru 0.16; HCP: Ru 0.7 | experimental | [1] Gossé 2016; _cites Obrowski 1962_ | Table 1, p. 3, row 3 |  |
-| 1856 | peritectic: peritectic reaction |  | experimental | [1] Gossé 2016; _cites Okamoto 1990_ | Table 1, p. 3, row 4 |  |
-| 1852 | peritectic: peritectic reaction | FCC: Ru 0.18; HCP: Ru 0.83 | experimental | [1] Gossé 2016; _cites Darling 1960_ [doi](https://doi.org/10.1595/003214060x43104110) | Table 1, p. 3, row 1 |  |
+| 1867 | peritectic: peritectic reaction | FCC: Ru 0.21 | experimental | [1] Gossé 2016; _cites Tripathi 1993_ | Table 1, p. 3, row 6; `ORC-N3XU5LTGY5` |  |
+| 1867 | peritectic |  | model | [1] Gossé 2016 | p. 5; `ORC-PA7VOUHPFA` | “The peritectic reaction is calculated at 1867 K where the maximum solubilities are 19.2 at.% Ru in the FCC and 93.9 at.% Pd in the HCP solid solutions and the liquid composition is 13.7 at.% Ru.” |
+| 1867 | peritectic: peritectic reaction | L: Ru 0.12; FCC: Ru 0.19; HCP: Ru 0.923 | experimental | [1] Gossé 2016; _cites Kleykamp 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990424-8) | Table 1, p. 3, row 2; `ORC-SHOC5JVZDZ` |  |
+| 1866 | peritectic: peritectic reaction | L: Ru 0.02; FCC: Ru 0.18; HCP: Ru 0.71 | experimental | [1] Gossé 2016; _cites Rudnitskii 1959_ | Table 1, p. 3, row 5; `ORC-7WL6RS5GKI` |  |
+| 1866 | peritectic: peritectic reaction | L: Ru 0.1; FCC: Ru 0.185; HCP: Ru 0.923 | model | [1] Gossé 2016; _cites Gurler 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990291-t) | Table 1, p. 3, row 7; `ORC-E3WA5JKGAP` |  |
+| 1858 | peritectic: peritectic reaction | L: Ru 0.09; FCC: Ru 0.16; HCP: Ru 0.7 | experimental | [1] Gossé 2016; _cites Obrowski 1962_ | Table 1, p. 3, row 3; `ORC-2PX7AIVFSB` |  |
+| 1856 | peritectic: peritectic reaction |  | experimental | [1] Gossé 2016; _cites Okamoto 1990_ | Table 1, p. 3, row 4; `ORC-32HO3JBTZR` |  |
+| 1852 | peritectic: peritectic reaction | FCC: Ru 0.18; HCP: Ru 0.83 | experimental | [1] Gossé 2016; _cites Darling 1960_ [doi](https://doi.org/10.1595/003214060x43104110) | Table 1, p. 3, row 1; `ORC-PKYFZF36TQ` |  |
 
 ## Other properties
 
@@ -67,16 +67,16 @@ Table: Mixing / partial, Pd–Ru system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | 6.1722 kJ/mol (basis unstated) | 0 | FCC; _alloy: Pd 0.25, Ru 0.75_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 7 |  |
-| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | 8.9651 kJ/mol (basis unstated) | 0 | FCC; _alloy: Pd 0.5, Ru 0.5_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 8 |  |
-| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | 1.6291 kJ/mol (basis unstated) | 0 | FCC; _alloy: Pd 0.94, Ru 0.06_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 10 |  |
-| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | 7.6001 kJ/mol (basis unstated) | 0 | FCC; _alloy: Pd 0.75, Ru 0.25_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 9 |  |
-| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | 2.8853 kJ/mol (basis unstated) | 0 | FCC; _alloy: Pd 0.06, Ru 0.94_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 6 |  |
-| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | 10.8249 kJ/mol (basis unstated) | 0 | HCP; _alloy: Pd 0.25, Ru 0.75_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 7 |  |
-| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | 12.1563 kJ/mol (basis unstated) | 0 | HCP; _alloy: Pd 0.5, Ru 0.5_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 8 |  |
-| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | 2.5136 kJ/mol (basis unstated) | 0 | HCP; _alloy: Pd 0.94, Ru 0.06_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 10 |  |
-| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | 10.0727 kJ/mol (basis unstated) | 0 | HCP; _alloy: Pd 0.75, Ru 0.25_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 9 |  |
-| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | 5.0026 kJ/mol (basis unstated) | 0 | HCP; _alloy: Pd 0.06, Ru 0.94_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 6 |  |
+| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | 6.1722 kJ/mol (basis unstated) | 0 | FCC; _alloy: Pd 0.25, Ru 0.75_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 7; `ORC-4KHG2GTDX7.0a8b34` |  |
+| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | 8.9651 kJ/mol (basis unstated) | 0 | FCC; _alloy: Pd 0.5, Ru 0.5_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 8; `ORC-MOCDYAXLE3.502caf` |  |
+| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | 1.6291 kJ/mol (basis unstated) | 0 | FCC; _alloy: Pd 0.94, Ru 0.06_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 10; `ORC-ODF2ZJIMSU.c0b517` |  |
+| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | 7.6001 kJ/mol (basis unstated) | 0 | FCC; _alloy: Pd 0.75, Ru 0.25_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 9; `ORC-RO57ELJICS.63f8d2` |  |
+| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | 2.8853 kJ/mol (basis unstated) | 0 | FCC; _alloy: Pd 0.06, Ru 0.94_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 6; `ORC-UTYOM6SMZ5.ad5128` |  |
+| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | 10.8249 kJ/mol (basis unstated) | 0 | HCP; _alloy: Pd 0.25, Ru 0.75_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 7; `ORC-4KHG2GTDX7.a0087b` |  |
+| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | 12.1563 kJ/mol (basis unstated) | 0 | HCP; _alloy: Pd 0.5, Ru 0.5_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 8; `ORC-MOCDYAXLE3.4d659b` |  |
+| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | 2.5136 kJ/mol (basis unstated) | 0 | HCP; _alloy: Pd 0.94, Ru 0.06_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 10; `ORC-ODF2ZJIMSU.bd892f` |  |
+| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | 10.0727 kJ/mol (basis unstated) | 0 | HCP; _alloy: Pd 0.75, Ru 0.25_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 9; `ORC-RO57ELJICS.2cdb65` |  |
+| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | 5.0026 kJ/mol (basis unstated) | 0 | HCP; _alloy: Pd 0.06, Ru 0.94_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 6; `ORC-UTYOM6SMZ5.82f466` |  |
 
 ### Activity / EMF / Gibbs energy (2)
 
@@ -84,8 +84,8 @@ Table: Activity / EMF / Gibbs energy, Pd–Ru system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Activity; _printed: activity_ | 0.99 unspecified | 1100 |  | model | [1] Gossé 2016 | p. 5 | “The calculated activity of Ru at 1100 K and 1200 K are about 0.99 while Kleykamp \[34\] reported an experimental value of 0.53.” |
-| Activity; _printed: activity_ | 0.99 unspecified | 1200 |  | model | [1] Gossé 2016 | p. 5 | “The calculated activity of Ru at 1100 K and 1200 K are about 0.99 while Kleykamp \[34\] reported an experimental value of 0.53.” |
+| Activity; _printed: activity_ | 0.99 unspecified | 1100 |  | model | [1] Gossé 2016 | p. 5; `ORC-DNSNFDTEMS.1b8b31` | “The calculated activity of Ru at 1100 K and 1200 K are about 0.99 while Kleykamp \[34\] reported an experimental value of 0.53.” |
+| Activity; _printed: activity_ | 0.99 unspecified | 1200 |  | model | [1] Gossé 2016 | p. 5; `ORC-DNSNFDTEMS.9a998c` | “The calculated activity of Ru at 1100 K and 1200 K are about 0.99 while Kleykamp \[34\] reported an experimental value of 0.53.” |
 
 ## Sources
 
@@ -150,4 +150,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

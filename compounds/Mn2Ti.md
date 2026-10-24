@@ -14,12 +14,12 @@ Table: Enthalpy of formation of Mn2Ti reported in the literature (6)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -28.92 kJ/mol-atom | C14 Laves TiMn2 | 298.15 | experimental |  | [Mn–Ti](https://data.orchid-project.org/systems/MN-TI.html) | [1] Zheng 2022; _cites Chen 2003_ [doi](https://doi.org/10.1016/s1359-6454%2802%2900497-4) | Table 4, p. 6, row 4 |  |
-| -26.714 kJ/mol-atom | C14 Laves TiMn2 | 298.15 | model | CALPHAD | [Mn–Ti](https://data.orchid-project.org/systems/MN-TI.html) | [1] Zheng 2022; _cites Khan 2016_ [doi](https://doi.org/10.1039/c6cp04542a) | Table 4, p. 6, row 6 |  |
-| -26.714 kJ/mol-atom | C14 Laves TiMn2 | 298.15 | model | CALPHAD | [Mn–Ti](https://data.orchid-project.org/systems/MN-TI.html) | [1] Zheng 2022 | Table 4, p. 6, row 5 |  |
-| -28.4 kJ/mol-atom | C14 Laves TiMn2 | 0 | DFT | ab initio | [Mn–Ti](https://data.orchid-project.org/systems/MN-TI.html) | [1] Zheng 2022; _cites Chen 2005_ | Table 4, p. 6, row 3 |  |
-| -27.22 kJ/mol-atom | C14 Laves TiMn2 | 0 | DFT | ab initio | [Mn–Ti](https://data.orchid-project.org/systems/MN-TI.html) | [1] Zheng 2022 | Table 4, p. 6, row 1 |  |
-| -26.714 kJ/mol-atom | C14 Laves TiMn2 | 0 | DFT | ab initio | [Mn–Ti](https://data.orchid-project.org/systems/MN-TI.html) | [1] Zheng 2022; _cites Khan 2016_ [doi](https://doi.org/10.1039/c6cp04542a) | Table 4, p. 6, row 2 |  |
+| -28.92 kJ/mol-atom | C14 Laves TiMn2 | 298.15 | experimental |  | [Mn–Ti](https://data.orchid-project.org/systems/MN-TI.html) | [1] Zheng 2022; _cites Chen 2003_ [doi](https://doi.org/10.1016/s1359-6454%2802%2900497-4) | Table 4, p. 6, row 4; `ORC-TJIYWZ3M2H.09ad89` |  |
+| -26.714 kJ/mol-atom | C14 Laves TiMn2 | 298.15 | model | CALPHAD | [Mn–Ti](https://data.orchid-project.org/systems/MN-TI.html) | [1] Zheng 2022; _cites Khan 2016_ [doi](https://doi.org/10.1039/c6cp04542a) | Table 4, p. 6, row 6; `ORC-BERGUF4Z4H.0de30e` |  |
+| -26.714 kJ/mol-atom | C14 Laves TiMn2 | 298.15 | model | CALPHAD | [Mn–Ti](https://data.orchid-project.org/systems/MN-TI.html) | [1] Zheng 2022 | Table 4, p. 6, row 5; `ORC-R747QEF6CU.32f47b` |  |
+| -28.4 kJ/mol-atom | C14 Laves TiMn2 | 0 | DFT | ab initio | [Mn–Ti](https://data.orchid-project.org/systems/MN-TI.html) | [1] Zheng 2022; _cites Chen 2005_ | Table 4, p. 6, row 3; `ORC-J73FNVENER.aeefd4` |  |
+| -27.22 kJ/mol-atom | C14 Laves TiMn2 | 0 | DFT | ab initio | [Mn–Ti](https://data.orchid-project.org/systems/MN-TI.html) | [1] Zheng 2022 | Table 4, p. 6, row 1; `ORC-5VL25YP6S2.78ed76` |  |
+| -26.714 kJ/mol-atom | C14 Laves TiMn2 | 0 | DFT | ab initio | [Mn–Ti](https://data.orchid-project.org/systems/MN-TI.html) | [1] Zheng 2022; _cites Khan 2016_ [doi](https://doi.org/10.1039/c6cp04542a) | Table 4, p. 6, row 2; `ORC-LDBTD3XG7B.f8bb13` |  |
 
 ### Uncertainty budget
 
@@ -100,4 +100,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

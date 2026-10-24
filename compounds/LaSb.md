@@ -14,10 +14,10 @@ Table: Enthalpy of formation of LaSb reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -148.197 kJ/mol (basis unstated) | LaSb | 298.15 | experimental |  | [La–Sb](https://data.orchid-project.org/systems/LA-SB.html) | [1] Wang 2013; _cites Goryacheva 1971_ | Table 3, p. 3, row 7 |  |
-| -130.5 kJ/mol (basis unstated) | LaSb | 298.15 | experimental |  | [La–Sb](https://data.orchid-project.org/systems/LA-SB.html) | [1] Wang 2013; _cites Borzone 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990115-2) | Table 3, p. 3, row 6 |  |
-| -118 kJ/mol (basis unstated) | LaSb | 0 | model | Miedema model | [La–Sb](https://data.orchid-project.org/systems/LA-SB.html) | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 3, p. 3, row 8 |  |
-| -123.511 kJ/mol (basis unstated) | LaSb | 0 | DFT | first-principles | [La–Sb](https://data.orchid-project.org/systems/LA-SB.html) | [1] Wang 2013 | Table 3, p. 3, row 5 |  |
+| -148.197 kJ/mol (basis unstated) | LaSb | 298.15 | experimental |  | [La–Sb](https://data.orchid-project.org/systems/LA-SB.html) | [1] Wang 2013; _cites Goryacheva 1971_ | Table 3, p. 3, row 7; `ORC-BLLVQLHDYT` |  |
+| -130.5 kJ/mol (basis unstated) | LaSb | 298.15 | experimental |  | [La–Sb](https://data.orchid-project.org/systems/LA-SB.html) | [1] Wang 2013; _cites Borzone 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990115-2) | Table 3, p. 3, row 6; `ORC-7FVLPYANNX` |  |
+| -118 kJ/mol (basis unstated) | LaSb | 0 | model | Miedema model | [La–Sb](https://data.orchid-project.org/systems/LA-SB.html) | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 3, p. 3, row 8; `ORC-2HLECEFDRB` |  |
+| -123.511 kJ/mol (basis unstated) | LaSb | 0 | DFT | first-principles | [La–Sb](https://data.orchid-project.org/systems/LA-SB.html) | [1] Wang 2013 | Table 3, p. 3, row 5; `ORC-IUMZZ3SCVC` |  |
 
 ### Uncertainty budget
 
@@ -83,4 +83,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

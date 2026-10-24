@@ -53,9 +53,9 @@ Table: Enthalpies of formation, Al–Np system (3)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| NpAl2 |  | -110.2 kJ/mol (basis unstated) |  | model |  |  | [1] Sedmidubský 2010 | Table 2, p. 3, row 2 |  |
-| NpAl3 |  | -122.9 kJ/mol (basis unstated) |  | model |  |  | [1] Sedmidubský 2010 | Table 2, p. 3, row 5 |  |
-| NpAl4 |  | -105.6 kJ/mol (basis unstated) |  | model |  |  | [1] Sedmidubský 2010 | Table 2, p. 3, row 10 |  |
+| NpAl2 |  | -110.2 kJ/mol (basis unstated) |  | model |  |  | [1] Sedmidubský 2010 | Table 2, p. 3, row 2; `ORC-AZTCA3FNXM.771663` |  |
+| NpAl3 |  | -122.9 kJ/mol (basis unstated) |  | model |  |  | [1] Sedmidubský 2010 | Table 2, p. 3, row 5; `ORC-MQPU74X72L.3dbd0b` |  |
+| NpAl4 |  | -105.6 kJ/mol (basis unstated) |  | model |  |  | [1] Sedmidubský 2010 | Table 2, p. 3, row 10; `ORC-UCH5KWJ6UG.10f4d8` |  |
 
 ## Other properties
 
@@ -65,9 +65,9 @@ Table: Formation, Al–Np system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy of formation; _printed: ΔfS°298_ | -2.3 J/mol (basis unstated)/K | 298.15 | NpAl2; _alloy: Np 0.333333_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 2 |  |
-| Entropy of formation; _printed: ΔfS°298_ | -12.1 J/mol (basis unstated)/K | 298.15 | NpAl3; _alloy: Np 0.25_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 5 |  |
-| Entropy of formation; _printed: ΔfS°298_ | -8.1 J/mol (basis unstated)/K | 298.15 | NpAl4; _alloy: Np 0.2_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 10 |  |
+| Entropy of formation; _printed: ΔfS°298_ | -2.3 J/mol (basis unstated)/K | 298.15 | NpAl2; _alloy: Np 0.333333_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 2; `ORC-AZTCA3FNXM.c17dc6` |  |
+| Entropy of formation; _printed: ΔfS°298_ | -12.1 J/mol (basis unstated)/K | 298.15 | NpAl3; _alloy: Np 0.25_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 5; `ORC-MQPU74X72L.116bfa` |  |
+| Entropy of formation; _printed: ΔfS°298_ | -8.1 J/mol (basis unstated)/K | 298.15 | NpAl4; _alloy: Np 0.2_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 10; `ORC-UCH5KWJ6UG.910022` |  |
 
 ### Heat capacity / entropy / enthalpy (12)
 
@@ -75,18 +75,18 @@ Table: Heat capacity / entropy / enthalpy, Al–Np system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: S°298 (el.)_ | 5.2 J/mol (basis unstated)/K | 298.15 | NpAl2; _alloy: Np 0.333333_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 2 |  |
-| Entropy; _printed: S°298 (ph.)_ | 99.5 J/mol (basis unstated)/K | 298.15 | NpAl2; _alloy: Np 0.333333_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 2 |  |
-| Entropy; _printed: S°298 (ph.)_ | 120.6 J/mol (basis unstated)/K | 298.15 | NpAl3; _alloy: Np 0.25_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 5 |  |
-| Entropy; _printed: S°298 (el.)_ | 2.6 J/mol (basis unstated)/K | 298.15 | NpAl3; _alloy: Np 0.25_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 5 |  |
-| Entropy; _printed: S°298 (ph.)_ | 152.1 J/mol (basis unstated)/K | 298.15 | NpAl4; _alloy: Np 0.2_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 10 |  |
-| Entropy; _printed: S°298 (el.)_ | 3.4 J/mol (basis unstated)/K | 298.15 | NpAl4; _alloy: Np 0.2_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 10 |  |
-| Heat content; _printed: H°298 - H°0 (el.)_ | 0.78 kJ mol^-1 | 298.15 | NpAl2; _alloy: Np 0.333333_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 2 |  |
-| Heat content; _printed: H°298 - H°0 (ph.)_ | 24.2 kJ mol^-1 | 298.15 | NpAl2; _alloy: Np 0.333333_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 2 |  |
-| Heat content; _printed: H°298 - H°0 (ph.)_ | 32.1 kJ mol^-1 | 298.15 | NpAl3; _alloy: Np 0.25_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 5 |  |
-| Heat content; _printed: H°298 - H°0 (el.)_ | 0.39 kJ mol^-1 | 298.15 | NpAl3; _alloy: Np 0.25_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 5 |  |
-| Heat content; _printed: H°298 - H°0 (el.)_ | 0.51 kJ mol^-1 | 298.15 | NpAl4; _alloy: Np 0.2_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 10 |  |
-| Heat content; _printed: H°298 - H°0 (ph.)_ | 40.5 kJ mol^-1 | 298.15 | NpAl4; _alloy: Np 0.2_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 10 |  |
+| Entropy; _printed: S°298 (el.)_ | 5.2 J/mol (basis unstated)/K | 298.15 | NpAl2; _alloy: Np 0.333333_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 2; `ORC-AZTCA3FNXM.51c254` |  |
+| Entropy; _printed: S°298 (ph.)_ | 99.5 J/mol (basis unstated)/K | 298.15 | NpAl2; _alloy: Np 0.333333_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 2; `ORC-AZTCA3FNXM.a40735` |  |
+| Entropy; _printed: S°298 (ph.)_ | 120.6 J/mol (basis unstated)/K | 298.15 | NpAl3; _alloy: Np 0.25_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 5; `ORC-MQPU74X72L.929885` |  |
+| Entropy; _printed: S°298 (el.)_ | 2.6 J/mol (basis unstated)/K | 298.15 | NpAl3; _alloy: Np 0.25_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 5; `ORC-MQPU74X72L.b02fa5` |  |
+| Entropy; _printed: S°298 (ph.)_ | 152.1 J/mol (basis unstated)/K | 298.15 | NpAl4; _alloy: Np 0.2_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 10; `ORC-UCH5KWJ6UG.a9231d` |  |
+| Entropy; _printed: S°298 (el.)_ | 3.4 J/mol (basis unstated)/K | 298.15 | NpAl4; _alloy: Np 0.2_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 10; `ORC-UCH5KWJ6UG.d47891` |  |
+| Heat content; _printed: H°298 - H°0 (el.)_ | 0.78 kJ mol^-1 | 298.15 | NpAl2; _alloy: Np 0.333333_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 2; `ORC-AZTCA3FNXM.0e9937` |  |
+| Heat content; _printed: H°298 - H°0 (ph.)_ | 24.2 kJ mol^-1 | 298.15 | NpAl2; _alloy: Np 0.333333_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 2; `ORC-AZTCA3FNXM.5c0b4d` |  |
+| Heat content; _printed: H°298 - H°0 (ph.)_ | 32.1 kJ mol^-1 | 298.15 | NpAl3; _alloy: Np 0.25_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 5; `ORC-MQPU74X72L.00d8ef` |  |
+| Heat content; _printed: H°298 - H°0 (el.)_ | 0.39 kJ mol^-1 | 298.15 | NpAl3; _alloy: Np 0.25_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 5; `ORC-MQPU74X72L.f58e98` |  |
+| Heat content; _printed: H°298 - H°0 (el.)_ | 0.51 kJ mol^-1 | 298.15 | NpAl4; _alloy: Np 0.2_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 10; `ORC-UCH5KWJ6UG.63befd` |  |
+| Heat content; _printed: H°298 - H°0 (ph.)_ | 40.5 kJ mol^-1 | 298.15 | NpAl4; _alloy: Np 0.2_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 10; `ORC-UCH5KWJ6UG.697eb5` |  |
 
 ## Sources
 
@@ -151,4 +151,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -49,20 +49,20 @@ Table: Invariant reactions reported in the literature for the Hg–In system (14
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 381 | L + Tetra -> FCC_A1 |  | experimental | [1] Gierlotka 2009; _cites ref. 21_ | Table 4, p. 6, row 9 |  |
-| 380.8 | L + Tetra -> FCC_A1 |  | model | [1] Gierlotka 2009 | Table 4, p. 6, row 10 |  |
-| 254 | L -> HgIn | L: Hg 0.5, In 0.5; HgIn: Hg 0.5, In 0.5 | experimental | [1] Gierlotka 2009; _cites ref. 21_ | Table 4, p. 6, row 13 |  |
-| 253.6 | L + Rhombo -> FCO |  | model | [1] Gierlotka 2009 | Table 4, p. 6, row 2 |  |
-| 253 | L + Rhombo -> FCO |  | experimental | [1] Gierlotka 2009; _cites ref. 21_ | Table 4, p. 6, row 1 |  |
-| 252.6 | L -> HgIn | L: Hg 0.5, In 0.5; HgIn: Hg 0.5, In 0.5 | model | [1] Gierlotka 2009 | Table 4, p. 6, row 14 |  |
-| 243.7 | L -> HgIn + FCC_A1 | HgIn: Hg 0.5, In 0.5 | model | [1] Gierlotka 2009 | Table 4, p. 6, row 8 |  |
-| 243 | L -> HgIn + FCC_A1 | HgIn: Hg 0.5, In 0.5 | experimental | [1] Gierlotka 2009; _cites ref. 21_ | Table 4, p. 6, row 7 |  |
-| 236 | L -> Rhombo |  | experimental | [1] Gierlotka 2009; _cites ref. 21_ | Table 4, p. 6, row 11 |  |
-| 236 | L -> FCO + HgIn | HgIn: Hg 0.5, In 0.5 | experimental | [1] Gierlotka 2009; _cites ref. 21_ | Table 4, p. 6, row 3 |  |
-| 235.6 | L -> FCO + HgIn | HgIn: Hg 0.5, In 0.5 | model | [1] Gierlotka 2009 | Table 4, p. 6, row 4 |  |
-| 235.6 | L -> Rhombo |  | model | [1] Gierlotka 2009 | Table 4, p. 6, row 12 |  |
-| 218 | HgIn + FCC_A1 -> HgIn2 | HgIn: Hg 0.5, In 0.5; HgIn2: Hg 0.333333, In 0.666667 | model | [1] Gierlotka 2009 | Table 4, p. 6, row 6 |  |
-| 218 | HgIn + FCC_A1 -> HgIn2 | HgIn: Hg 0.5, In 0.5; HgIn2: Hg 0.333333, In 0.666667 | experimental | [1] Gierlotka 2009; _cites ref. 21_ | Table 4, p. 6, row 5 |  |
+| 381 | L + Tetra -> FCC_A1 |  | experimental | [1] Gierlotka 2009; _cites ref. 21_ | Table 4, p. 6, row 9; `ORC-QX6SR2LQ6W` |  |
+| 380.8 | L + Tetra -> FCC_A1 |  | model | [1] Gierlotka 2009 | Table 4, p. 6, row 10; `ORC-PHCHY4C5F5` |  |
+| 254 | L -> HgIn | L: Hg 0.5, In 0.5; HgIn: Hg 0.5, In 0.5 | experimental | [1] Gierlotka 2009; _cites ref. 21_ | Table 4, p. 6, row 13; `ORC-DO77TKGQOG` |  |
+| 253.6 | L + Rhombo -> FCO |  | model | [1] Gierlotka 2009 | Table 4, p. 6, row 2; `ORC-FGAK2SFND5` |  |
+| 253 | L + Rhombo -> FCO |  | experimental | [1] Gierlotka 2009; _cites ref. 21_ | Table 4, p. 6, row 1; `ORC-3EABSWA23J` |  |
+| 252.6 | L -> HgIn | L: Hg 0.5, In 0.5; HgIn: Hg 0.5, In 0.5 | model | [1] Gierlotka 2009 | Table 4, p. 6, row 14; `ORC-HLCDRWXIZ7` |  |
+| 243.7 | L -> HgIn + FCC_A1 | HgIn: Hg 0.5, In 0.5 | model | [1] Gierlotka 2009 | Table 4, p. 6, row 8; `ORC-IT7MZ633YQ` |  |
+| 243 | L -> HgIn + FCC_A1 | HgIn: Hg 0.5, In 0.5 | experimental | [1] Gierlotka 2009; _cites ref. 21_ | Table 4, p. 6, row 7; `ORC-BPO56FDGSB` |  |
+| 236 | L -> Rhombo |  | experimental | [1] Gierlotka 2009; _cites ref. 21_ | Table 4, p. 6, row 11; `ORC-FMQS3POAF5` |  |
+| 236 | L -> FCO + HgIn | HgIn: Hg 0.5, In 0.5 | experimental | [1] Gierlotka 2009; _cites ref. 21_ | Table 4, p. 6, row 3; `ORC-UGVR7HGTAC` |  |
+| 235.6 | L -> FCO + HgIn | HgIn: Hg 0.5, In 0.5 | model | [1] Gierlotka 2009 | Table 4, p. 6, row 4; `ORC-FB2I3XSO6O` |  |
+| 235.6 | L -> Rhombo |  | model | [1] Gierlotka 2009 | Table 4, p. 6, row 12; `ORC-SE6C2M3TR3` |  |
+| 218 | HgIn + FCC_A1 -> HgIn2 | HgIn: Hg 0.5, In 0.5; HgIn2: Hg 0.333333, In 0.666667 | model | [1] Gierlotka 2009 | Table 4, p. 6, row 6; `ORC-BEA74KBOUN` |  |
+| 218 | HgIn + FCC_A1 -> HgIn2 | HgIn: Hg 0.5, In 0.5; HgIn2: Hg 0.333333, In 0.666667 | experimental | [1] Gierlotka 2009; _cites ref. 21_ | Table 4, p. 6, row 5; `ORC-MUTX6Y2IQS` |  |
 
 ## Other properties
 
@@ -72,7 +72,7 @@ Table: Phase transition, Hg–In system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 218 K | 218 | other | experimental | [1] Gierlotka 2009; _cites Claeson 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990004-x) | p. 1 | “The last change of the phase diagram was made by Claeson and Merriam \[15\], who discovered compound HgIn2 which forms from HgIn and FCC A1 phases at 218 K.” |
+| Phase transition | 218 K | 218 | other | experimental | [1] Gierlotka 2009; _cites Claeson 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990004-x) | p. 1; `ORC-ZDT4E3QKVI` | “The last change of the phase diagram was made by Claeson and Merriam \[15\], who discovered compound HgIn2 which forms from HgIn and FCC A1 phases at 218 K.” |
 
 ### Activity / EMF / Gibbs energy (1)
 
@@ -80,7 +80,7 @@ Table: Activity / EMF / Gibbs energy, Hg–In system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Vapour pressure; _printed: pressure_ | 4.070e-6 hPa | 900 |  | experimental | [1] Gierlotka 2009; _cites Kozin 1961_ | p. 3 | “The pressure of indium is negligible at experiment temperatures and equal 4.07E - 6 hPa at 900 K \[9\].” |
+| Vapour pressure; _printed: pressure_ | 4.070e-6 hPa | 900 |  | experimental | [1] Gierlotka 2009; _cites Kozin 1961_ | p. 3; `ORC-AXGJYRJBFR` | “The pressure of indium is negligible at experiment temperatures and equal 4.07E - 6 hPa at 900 K \[9\].” |
 
 ## Sources
 
@@ -145,4 +145,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

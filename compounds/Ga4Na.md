@@ -14,9 +14,9 @@ Table: Enthalpy of formation of Ga4Na reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -20.9 kJ/mol-atom | Ga4Na | 723.15 | experimental |  | [Ga–Na](https://data.orchid-project.org/systems/GA-NA.html) | [1] Wang 2007; _cites Zabdyr 1983_ | Table 3, p. 4, row 3 |  |
-| -17.5 kJ/mol-atom | Ga4Na | 723.15 | experimental |  | [Ga–Na](https://data.orchid-project.org/systems/GA-NA.html) | [1] Wang 2007; _cites Gambino 1973_ [doi](https://doi.org/10.1016/0040-6031%2873%2980012-7) | Table 3, p. 4, row 2 |  |
-| -20.1 kJ/mol-atom | Ga4Na | 723.15 | model |  | [Ga–Na](https://data.orchid-project.org/systems/GA-NA.html) | [1] Wang 2007 | Table 3, p. 4, row 1 |  |
+| -20.9 kJ/mol-atom | Ga4Na | 723.15 | experimental |  | [Ga–Na](https://data.orchid-project.org/systems/GA-NA.html) | [1] Wang 2007; _cites Zabdyr 1983_ | Table 3, p. 4, row 3; `ORC-Y34BOBJS6V` |  |
+| -17.5 kJ/mol-atom | Ga4Na | 723.15 | experimental |  | [Ga–Na](https://data.orchid-project.org/systems/GA-NA.html) | [1] Wang 2007; _cites Gambino 1973_ [doi](https://doi.org/10.1016/0040-6031%2873%2980012-7) | Table 3, p. 4, row 2; `ORC-F74IJA5WHO` |  |
+| -20.1 kJ/mol-atom | Ga4Na | 723.15 | model |  | [Ga–Na](https://data.orchid-project.org/systems/GA-NA.html) | [1] Wang 2007 | Table 3, p. 4, row 1; `ORC-LQ262OVHFT` |  |
 
 ### Uncertainty budget
 
@@ -94,4 +94,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

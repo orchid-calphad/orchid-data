@@ -83,24 +83,24 @@ Table: Invariant reactions reported in the literature for the Ce–Fe system (18
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1673 | Liq. + (δFe) -> (γFe) | Liq.: Fe 0.887 | experimental | [1] Su 2006; _cites Gschneidner 1974_ | Table 4, p. 4, row 3 |  |
-| 1672 | Liq. + (δFe) -> (γFe) | Liq.: Fe 0.883; (δFe): Fe 1; (γFe): Fe 1 | experimental | [1] Su 2006; _cites Chuang 1987_ | Table 4, p. 4, row 2 |  |
-| 1672 | Liq. + (δFe) -> (γFe) | Liq.: Fe 0.9058; (δFe): Fe 0.9989; (γFe): Fe 0.9988 | model | [1] Su 2006 | Table 4, p. 4, row 1 |  |
-| 1341 | Liq. + (γFe) -> Ce2Fe17 | Liq.: Fe 0.576; (γFe): Fe 1; Ce2Fe17: Fe 0.8947 | experimental | [1] Su 2006; _cites Gschneidner 1974_ | Table 4, p. 4, row 9 |  |
-| 1336 | Liq. + (γFe) -> Ce2Fe17 | Liq.: Fe 0.595; (γFe): Fe 1; Ce2Fe17: Fe 0.8947 | experimental | [1] Su 2006; _cites Chuang 1987_ | Table 4, p. 4, row 8 |  |
-| 1336 | Liq. + (γFe) -> Ce2Fe17 | Liq.: Fe 0.5896; (γFe): Fe 0.999; Ce2Fe17: Fe 0.8947 | model | [1] Su 2006 | Table 4, p. 4, row 7 |  |
-| 1205 | Liq. + Ce2Fe17 -> CeFe2 | Liq.: Fe 0.45; Ce2Fe17: Fe 0.8947; CeFe2: Fe 0.6667 | experimental | [1] Su 2006; _cites Gschneidner 1974_ | Table 4, p. 4, row 12 |  |
-| 1198 | Liq. + Ce2Fe17 -> CeFe2 | Liq.: Fe 0.459; Ce2Fe17: Fe 0.8947; CeFe2: Fe 0.6667 | experimental | [1] Su 2006; _cites Chuang 1987_ | Table 4, p. 4, row 11 |  |
-| 1198 | Liq. + Ce2Fe17 -> CeFe2 | Liq.: Fe 0.4636; Ce2Fe17: Fe 0.8947; CeFe2: Fe 0.6667 | model | [1] Su 2006 | Table 4, p. 4, row 10 |  |
-| 1198 | (γFe) + Ce2Fe17 -> (αFe) | Ce2Fe17: Ce 0.105263, Fe 0.894737 | experimental | [1] Su 2006; _cites Gschneidner 1974_ | Table 4, p. 4, row 6 |  |
-| 1195 | (γFe) + Ce2Fe17 -> (αFe) | (γFe): Fe 1; Ce2Fe17: Fe 0.8947; (αFe): Fe 1 | experimental | [1] Su 2006; _cites Chuang 1987_ | Table 4, p. 4, row 5 |  |
-| 1192 | (γFe) + Ce2Fe17 -> (αFe) | (γFe): Fe 0.9993; Ce2Fe17: Fe 0.8947; (αFe): Fe 0.9998 | model | [1] Su 2006 | Table 4, p. 4, row 4 |  |
-| 999 | Liq. + (δCe) -> (γCe) | Liq.: Fe 0.042; (δCe): Fe 3.000e-4; (γCe): Fe 1.000e-4 | model | [1] Su 2006 | Table 4, p. 4, row 16 |  |
-| 998 | Liq. + (δCe) -> (γCe) | Liq.: Fe 0.087; (δCe): Fe 0; (γCe): Fe 0 | experimental | [1] Su 2006; _cites Gschneidner 1974_ | Table 4, p. 4, row 17 |  |
-| 865 | Liq. -> Ce2Fe17 + (γCe) | Liq.: Fe 0.17; Ce2Fe17: Fe 0.8947; (γCe): Fe 0 | experimental | [1] Su 2006; _cites Gschneidner 1974_ | Table 4, p. 4, row 15 |  |
-| 865 | Liq. -> Ce2Fe17 + (γCe) | Liq.: Fe 0.1635; Ce2Fe17: Fe 0.8947; (γCe): Fe 1.000e-4 | model | [1] Su 2006 | Table 4, p. 4, row 13 |  |
-| 865 | eutectic |  | experimental | [1] Su 2006; _cites Gschneidner 1974_ | p. 3 | “A eutectic reaction occurs at 865 K with the composition 83 at.% cerium \[25\] or 83.3 at.% cerium \[18,19\].” |
-| 865 | Liq. -> Ce2Fe17 + (γCe) | Liq.: Fe 0.167; Ce2Fe17: Fe 0.8947; (γCe): Fe 0 | experimental | [1] Su 2006; _cites Chuang 1987_ | Table 4, p. 4, row 14 |  |
+| 1673 | Liq. + (δFe) -> (γFe) | Liq.: Fe 0.887 | experimental | [1] Su 2006; _cites Gschneidner 1974_ | Table 4, p. 4, row 3; `ORC-SB4TXU7DZ6` |  |
+| 1672 | Liq. + (δFe) -> (γFe) | Liq.: Fe 0.883; (δFe): Fe 1; (γFe): Fe 1 | experimental | [1] Su 2006; _cites Chuang 1987_ | Table 4, p. 4, row 2; `ORC-4U2UOVHU7J` |  |
+| 1672 | Liq. + (δFe) -> (γFe) | Liq.: Fe 0.9058; (δFe): Fe 0.9989; (γFe): Fe 0.9988 | model | [1] Su 2006 | Table 4, p. 4, row 1; `ORC-BO2RBZRVUB` |  |
+| 1341 | Liq. + (γFe) -> Ce2Fe17 | Liq.: Fe 0.576; (γFe): Fe 1; Ce2Fe17: Fe 0.8947 | experimental | [1] Su 2006; _cites Gschneidner 1974_ | Table 4, p. 4, row 9; `ORC-YXP7RWICQA` |  |
+| 1336 | Liq. + (γFe) -> Ce2Fe17 | Liq.: Fe 0.595; (γFe): Fe 1; Ce2Fe17: Fe 0.8947 | experimental | [1] Su 2006; _cites Chuang 1987_ | Table 4, p. 4, row 8; `ORC-7SYGZIUOUV` |  |
+| 1336 | Liq. + (γFe) -> Ce2Fe17 | Liq.: Fe 0.5896; (γFe): Fe 0.999; Ce2Fe17: Fe 0.8947 | model | [1] Su 2006 | Table 4, p. 4, row 7; `ORC-UDSXPSYJQD` |  |
+| 1205 | Liq. + Ce2Fe17 -> CeFe2 | Liq.: Fe 0.45; Ce2Fe17: Fe 0.8947; CeFe2: Fe 0.6667 | experimental | [1] Su 2006; _cites Gschneidner 1974_ | Table 4, p. 4, row 12; `ORC-W6RO23DCQC` |  |
+| 1198 | Liq. + Ce2Fe17 -> CeFe2 | Liq.: Fe 0.459; Ce2Fe17: Fe 0.8947; CeFe2: Fe 0.6667 | experimental | [1] Su 2006; _cites Chuang 1987_ | Table 4, p. 4, row 11; `ORC-CQHVRJHYU5` |  |
+| 1198 | Liq. + Ce2Fe17 -> CeFe2 | Liq.: Fe 0.4636; Ce2Fe17: Fe 0.8947; CeFe2: Fe 0.6667 | model | [1] Su 2006 | Table 4, p. 4, row 10; `ORC-JXTB5XRD4Z` |  |
+| 1198 | (γFe) + Ce2Fe17 -> (αFe) | Ce2Fe17: Ce 0.105263, Fe 0.894737 | experimental | [1] Su 2006; _cites Gschneidner 1974_ | Table 4, p. 4, row 6; `ORC-M34ZV67TCM` |  |
+| 1195 | (γFe) + Ce2Fe17 -> (αFe) | (γFe): Fe 1; Ce2Fe17: Fe 0.8947; (αFe): Fe 1 | experimental | [1] Su 2006; _cites Chuang 1987_ | Table 4, p. 4, row 5; `ORC-LM6MH2ZLRI` |  |
+| 1192 | (γFe) + Ce2Fe17 -> (αFe) | (γFe): Fe 0.9993; Ce2Fe17: Fe 0.8947; (αFe): Fe 0.9998 | model | [1] Su 2006 | Table 4, p. 4, row 4; `ORC-MHRZO5WERI` |  |
+| 999 | Liq. + (δCe) -> (γCe) | Liq.: Fe 0.042; (δCe): Fe 3.000e-4; (γCe): Fe 1.000e-4 | model | [1] Su 2006 | Table 4, p. 4, row 16; `ORC-JCC3FDIHUD` |  |
+| 998 | Liq. + (δCe) -> (γCe) | Liq.: Fe 0.087; (δCe): Fe 0; (γCe): Fe 0 | experimental | [1] Su 2006; _cites Gschneidner 1974_ | Table 4, p. 4, row 17; `ORC-6QTR5V24OZ` |  |
+| 865 | Liq. -> Ce2Fe17 + (γCe) | Liq.: Fe 0.17; Ce2Fe17: Fe 0.8947; (γCe): Fe 0 | experimental | [1] Su 2006; _cites Gschneidner 1974_ | Table 4, p. 4, row 15; `ORC-ECNHHNV4KO` |  |
+| 865 | Liq. -> Ce2Fe17 + (γCe) | Liq.: Fe 0.1635; Ce2Fe17: Fe 0.8947; (γCe): Fe 1.000e-4 | model | [1] Su 2006 | Table 4, p. 4, row 13; `ORC-GHAYFXLV3D` |  |
+| 865 | eutectic |  | experimental | [1] Su 2006; _cites Gschneidner 1974_ | p. 3; `ORC-J2D75XVVA7.55c6c3` | “A eutectic reaction occurs at 865 K with the composition 83 at.% cerium \[25\] or 83.3 at.% cerium \[18,19\].” |
+| 865 | Liq. -> Ce2Fe17 + (γCe) | Liq.: Fe 0.167; Ce2Fe17: Fe 0.8947; (γCe): Fe 0 | experimental | [1] Su 2006; _cites Chuang 1987_ | Table 4, p. 4, row 14; `ORC-O76DZ7PPJ6` |  |
 
 ## Other properties
 
@@ -110,8 +110,8 @@ Table: Phase transition, Ce–Fe system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1195 K | 1195 | γ Fe → αFe | experimental | [1] Su 2006; _cites Chuang 1987_ | p. 3 | “Additions of cerium increase the transformation temperature of δFe → γ Fe from 1667 to 1672 K and that of γ Fe → αFe from 1185 to 1195 K \[18, 19\].” |
-| Phase transition | 1672 K | 1672 | δFe → γ Fe | experimental | [1] Su 2006; _cites Chuang 1987_ | p. 3 | “Additions of cerium increase the transformation temperature of δFe → γ Fe from 1667 to 1672 K and that of γ Fe → αFe from 1185 to 1195 K \[18, 19\].” |
+| Phase transition | 1195 K | 1195 | γ Fe → αFe | experimental | [1] Su 2006; _cites Chuang 1987_ | p. 3; `ORC-IYUHCVM6LQ.f4d011` | “Additions of cerium increase the transformation temperature of δFe → γ Fe from 1667 to 1672 K and that of γ Fe → αFe from 1185 to 1195 K \[18, 19\].” |
+| Phase transition | 1672 K | 1672 | δFe → γ Fe | experimental | [1] Su 2006; _cites Chuang 1987_ | p. 3; `ORC-IYUHCVM6LQ.6047c4` | “Additions of cerium increase the transformation temperature of δFe → γ Fe from 1667 to 1672 K and that of γ Fe → αFe from 1185 to 1195 K \[18, 19\].” |
 
 ## Sources
 
@@ -176,4 +176,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

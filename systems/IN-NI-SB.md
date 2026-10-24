@@ -27,31 +27,31 @@ Table: Invariant reactions reported in the literature for the In–Ni–Sb syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1337.15 | peritectic: L + λ + α = δ | L: In 0.05, Ni 0.8 | model | [1] Cao 2013 | Table VI, p. 13, row 1 |  |
-| 1317.15 | peritectic: L + λ + δ = ζ | L: In 0.24, Ni 0.69 | model | [1] Cao 2013 | Table VI, p. 13, row 2 |  |
-| 1283.15 | quasi-peritectic: L + δ = α + β | L: In 0.19, Ni 0.75 | model | [1] Cao 2013 | Table VI, p. 13, row 3 |  |
-| 1280.15 | quasi-peritectic: L + δ = ζ + β | L: In 0.23, Ni 0.71 | model | [1] Cao 2013 | Table VI, p. 13, row 4 |  |
-| 1241.15 | peritectic: L + β + α = ζ | L: In 0.24, Ni 0.74 | model | [1] Cao 2013 | Table VI, p. 13, row 5 |  |
-| 1169.15 | peritectic: L + ζ + ω(NiIn) = γ | L: In 0.55, Ni 0.41 | model | [1] Cao 2013 | Table VI, p. 13, row 6 |  |
-| 1168.15 | peritectic: L + ζ + ω(NiIn) = γ | L: In 0.55, Ni 0.41 | experimental | [1] Cao 2013; _cites Richter 1998_ [doi](https://doi.org/10.1016/s0921-5107%2898%2900191-3) | Table VI, p. 13, row 7 |  |
-| 1148.15 | quasi-peritectic: L + ω(NiIn) = γ + ε | L: In 0.61, Ni 0.34 | model | [1] Cao 2013 | Table VI, p. 13, row 8 |  |
-| 1128.15 | quasi-peritectic: L + ω(NiIn) = γ + ε | L: In 0.57, Ni 0.38 | experimental | [1] Cao 2013; _cites Richter 1998_ [doi](https://doi.org/10.1016/s0921-5107%2898%2900191-3) | Table VI, p. 13, row 9 |  |
-| 1078.15 | quasi-peritectic: L + γ = ε + ζ | L: In 0.53, Ni 0.36 | experimental | [1] Cao 2013; _cites Richter 1998_ [doi](https://doi.org/10.1016/s0921-5107%2898%2900191-3) | Table VI, p. 13, row 11 |  |
-| 1077.15 | quasi-peritectic: L + γ = ε + ζ | L: In 0.65, Ni 0.26 | model | [1] Cao 2013 | Table VI, p. 13, row 10 |  |
-| 795.15 | eutectic: L = InSb + ζ | L: In 0.484, Ni 0.016 | experimental | [1] Cao 2013; _cites Richter 1998_ [doi](https://doi.org/10.1016/s0921-5107%2898%2900191-3) | Table VI, p. 13, row 13 |  |
-| 793.15 | eutectic: quasibinary eutectic reaction between stoichiometric NiSb and InSb |  | experimental | [1] Cao 2013; _cites Muller 1967_ [doi](https://doi.org/10.1016/0025-5408%2867%2990074-8) | p. 2 | “Müller and Wilhelm26 studied a vertical section of the system at 50 at.% Sb and reported a quasibinary eutectic reaction between stoichiometric NiSb and InSb at 520C.” |
-| 790.15 | quasi-peritectic: L + ζ = InSb + NiSb2 | L: In 0.357, Ni 0.015 | model | [1] Cao 2013 | Table VI, p. 13, row 14 |  |
-| 777.15 | quasi-peritectic: L + ζ = InSb + NiSb2 | L: In 0.335, Ni 0.015 | experimental | [1] Cao 2013; _cites Richter 1998_ [doi](https://doi.org/10.1016/s0921-5107%2898%2900191-3) | Table VI, p. 13, row 15 |  |
-| 773.15 | eutectic: L = InSb + ζ | L: In 0.38, Ni 0.016 | model | [1] Cao 2013 | Table VI, p. 13, row 12 |  |
-| 773.15 | eutectic |  | model | [1] Cao 2013 | p. 11 | “Figure 10 shows the calculated vertical section of NiSb-InSb at 50 at.% Sb. A quasibinary eutectic reaction is obtained at 500C, which is lower than the experimental data.26” |
-| 773.15 | eutectic: L = InSb + NiSb2 + Sb | L: In 0.29, Ni 0.0095 | model | [1] Cao 2013 | Table VI, p. 13, row 16 |  |
-| 765.15 | eutectic: L = InSb + NiSb2 + Sb | L: In 0.31, Ni 0.01 | experimental | [1] Cao 2013; _cites Richter 1998_ [doi](https://doi.org/10.1016/s0921-5107%2898%2900191-3) | Table VI, p. 13, row 17 |  |
-| 721.15 | peritectic: ζ + ε + L = η | L: In 0.9, Ni 0.05 | experimental | [1] Cao 2013; _cites Richter 1998_ [doi](https://doi.org/10.1016/s0921-5107%2898%2900191-3) | Table VI, p. 13, row 19 |  |
-| 718.15 | peritectic: ζ + ε + L = η | L: In 0.87, Ni 0.057 | model | [1] Cao 2013 | Table VI, p. 13, row 18 |  |
-| 630.15 | quasi-peritectic: ζ + L = InSb + η | L: In 0.96, Ni 0.02 | experimental | [1] Cao 2013; _cites Richter 1998_ [doi](https://doi.org/10.1016/s0921-5107%2898%2900191-3) | Table VI, p. 13, row 21 |  |
-| 609.15 | quasi-peritectic: ζ + L = InSb + η | L: In 0.9, Ni 0.024 | model | [1] Cao 2013 | Table VI, p. 13, row 20 |  |
-| 428.15 | eutectic: L = InSb + η + In | L: In 0.997, Ni 5.000e-4 | model | [1] Cao 2013 | Table VI, p. 13, row 22 |  |
-| 425.15 | eutectic: L = InSb + η + In | L: In 0.99, Ni 0.005 | experimental | [1] Cao 2013; _cites Richter 1998_ [doi](https://doi.org/10.1016/s0921-5107%2898%2900191-3) | Table VI, p. 13, row 23 |  |
+| 1337.15 | peritectic: L + λ + α = δ | L: In 0.05, Ni 0.8 | model | [1] Cao 2013 | Table VI, p. 13, row 1; `ORC-TDSVUI6OSN` |  |
+| 1317.15 | peritectic: L + λ + δ = ζ | L: In 0.24, Ni 0.69 | model | [1] Cao 2013 | Table VI, p. 13, row 2; `ORC-Y6NUIPKWRQ` |  |
+| 1283.15 | quasi-peritectic: L + δ = α + β | L: In 0.19, Ni 0.75 | model | [1] Cao 2013 | Table VI, p. 13, row 3; `ORC-XQHE7LGVUF` |  |
+| 1280.15 | quasi-peritectic: L + δ = ζ + β | L: In 0.23, Ni 0.71 | model | [1] Cao 2013 | Table VI, p. 13, row 4; `ORC-PE74QFX43Z` |  |
+| 1241.15 | peritectic: L + β + α = ζ | L: In 0.24, Ni 0.74 | model | [1] Cao 2013 | Table VI, p. 13, row 5; `ORC-HFZ3WYOYQL` |  |
+| 1169.15 | peritectic: L + ζ + ω(NiIn) = γ | L: In 0.55, Ni 0.41 | model | [1] Cao 2013 | Table VI, p. 13, row 6; `ORC-PSIPKUYEWQ` |  |
+| 1168.15 | peritectic: L + ζ + ω(NiIn) = γ | L: In 0.55, Ni 0.41 | experimental | [1] Cao 2013; _cites Richter 1998_ [doi](https://doi.org/10.1016/s0921-5107%2898%2900191-3) | Table VI, p. 13, row 7; `ORC-6UQ5OM7HSH` |  |
+| 1148.15 | quasi-peritectic: L + ω(NiIn) = γ + ε | L: In 0.61, Ni 0.34 | model | [1] Cao 2013 | Table VI, p. 13, row 8; `ORC-WJWAP6JB3C` |  |
+| 1128.15 | quasi-peritectic: L + ω(NiIn) = γ + ε | L: In 0.57, Ni 0.38 | experimental | [1] Cao 2013; _cites Richter 1998_ [doi](https://doi.org/10.1016/s0921-5107%2898%2900191-3) | Table VI, p. 13, row 9; `ORC-PXF2BSR2H2` |  |
+| 1078.15 | quasi-peritectic: L + γ = ε + ζ | L: In 0.53, Ni 0.36 | experimental | [1] Cao 2013; _cites Richter 1998_ [doi](https://doi.org/10.1016/s0921-5107%2898%2900191-3) | Table VI, p. 13, row 11; `ORC-WLKOGSRBV4` |  |
+| 1077.15 | quasi-peritectic: L + γ = ε + ζ | L: In 0.65, Ni 0.26 | model | [1] Cao 2013 | Table VI, p. 13, row 10; `ORC-BC45RXOMJT` |  |
+| 795.15 | eutectic: L = InSb + ζ | L: In 0.484, Ni 0.016 | experimental | [1] Cao 2013; _cites Richter 1998_ [doi](https://doi.org/10.1016/s0921-5107%2898%2900191-3) | Table VI, p. 13, row 13; `ORC-QLQ35EWMMG` |  |
+| 793.15 | eutectic: quasibinary eutectic reaction between stoichiometric NiSb and InSb |  | experimental | [1] Cao 2013; _cites Muller 1967_ [doi](https://doi.org/10.1016/0025-5408%2867%2990074-8) | p. 2; `ORC-WVUYZVCP2R` | “Müller and Wilhelm26 studied a vertical section of the system at 50 at.% Sb and reported a quasibinary eutectic reaction between stoichiometric NiSb and InSb at 520C.” |
+| 790.15 | quasi-peritectic: L + ζ = InSb + NiSb2 | L: In 0.357, Ni 0.015 | model | [1] Cao 2013 | Table VI, p. 13, row 14; `ORC-OABUMZNMW6` |  |
+| 777.15 | quasi-peritectic: L + ζ = InSb + NiSb2 | L: In 0.335, Ni 0.015 | experimental | [1] Cao 2013; _cites Richter 1998_ [doi](https://doi.org/10.1016/s0921-5107%2898%2900191-3) | Table VI, p. 13, row 15; `ORC-SBANIU2PAP` |  |
+| 773.15 | eutectic: L = InSb + ζ | L: In 0.38, Ni 0.016 | model | [1] Cao 2013 | Table VI, p. 13, row 12; `ORC-5IHOLMLJJZ` |  |
+| 773.15 | eutectic |  | model | [1] Cao 2013 | p. 11; `ORC-ZRDIZZAEUS` | “Figure 10 shows the calculated vertical section of NiSb-InSb at 50 at.% Sb. A quasibinary eutectic reaction is obtained at 500C, which is lower than the experimental data.26” |
+| 773.15 | eutectic: L = InSb + NiSb2 + Sb | L: In 0.29, Ni 0.0095 | model | [1] Cao 2013 | Table VI, p. 13, row 16; `ORC-ZSNVYGMRBB` |  |
+| 765.15 | eutectic: L = InSb + NiSb2 + Sb | L: In 0.31, Ni 0.01 | experimental | [1] Cao 2013; _cites Richter 1998_ [doi](https://doi.org/10.1016/s0921-5107%2898%2900191-3) | Table VI, p. 13, row 17; `ORC-7BWR5X5S2P` |  |
+| 721.15 | peritectic: ζ + ε + L = η | L: In 0.9, Ni 0.05 | experimental | [1] Cao 2013; _cites Richter 1998_ [doi](https://doi.org/10.1016/s0921-5107%2898%2900191-3) | Table VI, p. 13, row 19; `ORC-4ZQKEU7BYX` |  |
+| 718.15 | peritectic: ζ + ε + L = η | L: In 0.87, Ni 0.057 | model | [1] Cao 2013 | Table VI, p. 13, row 18; `ORC-QA6WOGWSV7` |  |
+| 630.15 | quasi-peritectic: ζ + L = InSb + η | L: In 0.96, Ni 0.02 | experimental | [1] Cao 2013; _cites Richter 1998_ [doi](https://doi.org/10.1016/s0921-5107%2898%2900191-3) | Table VI, p. 13, row 21; `ORC-M47JFYAS5N` |  |
+| 609.15 | quasi-peritectic: ζ + L = InSb + η | L: In 0.9, Ni 0.024 | model | [1] Cao 2013 | Table VI, p. 13, row 20; `ORC-GBZT72J3MG` |  |
+| 428.15 | eutectic: L = InSb + η + In | L: In 0.997, Ni 5.000e-4 | model | [1] Cao 2013 | Table VI, p. 13, row 22; `ORC-X42HSUTCHF` |  |
+| 425.15 | eutectic: L = InSb + η + In | L: In 0.99, Ni 0.005 | experimental | [1] Cao 2013; _cites Richter 1998_ [doi](https://doi.org/10.1016/s0921-5107%2898%2900191-3) | Table VI, p. 13, row 23; `ORC-A4LD3MIJ6Y` |  |
 
 ## Sources
 
@@ -94,4 +94,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

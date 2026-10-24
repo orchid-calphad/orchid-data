@@ -31,10 +31,10 @@ Table: Invariant reactions reported in the literature for the C–Si system (4)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 3100 | peritectic |  | experimental | [1] Gröbner 1996 | p. 1 | “For the peritectic formation of Sic all authors except (60Dol\] (2813 K) agree with a value of about 3100 K.” |
-| 3096.4 | peritectic: Liquid + graphite -> SiC | Liquid: Si 0.826; graphite: Si 0; SiC: Si 0.5 | model | [2] Hämäläinen 1998 | Table I, p. 149, row 2 |  |
-| 2813 | peritectic |  | experimental | [1] Gröbner 1996; _cites ref. 60Dol_ | p. 1 | “For the peritectic formation of Sic all authors except (60Dol\] (2813 K) agree with a value of about 3100 K.” |
-| 1687 | other: Liquid -> diamond + SiC | Liquid: Si 1; diamond: Si 1; SiC: Si 0.5 | model | [2] Hämäläinen 1998 | Table I, p. 149, row 1 |  |
+| 3100 | peritectic |  | experimental | [1] Gröbner 1996 | p. 1; `ORC-WQ6V3Y3VED.9652a2` | “For the peritectic formation of Sic all authors except (60Dol\] (2813 K) agree with a value of about 3100 K.” |
+| 3096.4 | peritectic: Liquid + graphite -> SiC | Liquid: Si 0.826; graphite: Si 0; SiC: Si 0.5 | model | [2] Hämäläinen 1998 | Table I, p. 149, row 2; `ORC-P2GFCEIP5M` |  |
+| 2813 | peritectic |  | experimental | [1] Gröbner 1996; _cites ref. 60Dol_ | p. 1; `ORC-WQ6V3Y3VED.131c3e` | “For the peritectic formation of Sic all authors except (60Dol\] (2813 K) agree with a value of about 3100 K.” |
+| 1687 | other: Liquid -> diamond + SiC | Liquid: Si 1; diamond: Si 1; SiC: Si 0.5 | model | [2] Hämäläinen 1998 | Table I, p. 149, row 1; `ORC-7DAZSGSQHG` |  |
 
 ## Other properties
 
@@ -44,15 +44,15 @@ Table: Heat capacity / entropy / enthalpy, C–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: S°298K_ | 8.5 J/mol-atom/K | 298.15 | SiC; _alloy: Si 0.5_ | model | [3] Liang 2017 | Table 5, p. 8, row 28 |  |
-| Entropy; _printed: S°298K_ | 8.25 J/mol-atom/K ± 0.1 | 298.15 | SiC; _alloy: Si 0.5_ | unspecified | [3] Liang 2017; _cites Kubaschewski 1993_ | Table 5, p. 8, row 24 |  |
-| Entropy; _printed: S°298K_ | 8.35 J/mol-atom/K | 298.15 | SiC; _alloy: Si 0.5_ | model | [3] Liang 2017; _cites Paek 2014_ [doi](https://doi.org/10.1016/j.calphad.2014.02.007) | Table 5, p. 8, row 27 |  |
-| Entropy; _printed: S°298K_ | 8.3 J/mol-atom/K | 298.15 | SiC; _alloy: Si 0.5_ | model | [3] Liang 2017; _cites Lacaze 1991_ [doi](https://doi.org/10.1007/bf02664987) | Table 5, p. 8, row 25 |  |
-| Entropy; _printed: S°298K_ | 8.45 J/mol-atom/K | 298.15 | SiC; _alloy: Si 0.5_ | model | [3] Liang 2017; _cites Gro 1996_ | Table 5, p. 8, row 26 |  |
-| Entropy; _printed: S°298K_ | 8.24 J/mol-atom/K ± 0.04 | 298.15 | αSiC(Hex); _alloy: Si 0.5_ | experimental | [3] Liang 2017; _cites Humphrey 1952_ | Table 5, p. 8, row 15 |  |
-| Entropy; _printed: S°298K_ | 8.2425 J/mol-atom/K ± 0.065 | 298.15 | αSiC(Hex); _alloy: Si 0.5_ | unspecified | [3] Liang 2017; _cites Chase 1998_ | Table 5, p. 8, row 22 |  |
-| Entropy; _printed: S°298K_ | 8.305 J/mol-atom/K ± 0.04 | 298.15 | βSiC(Cubic); _alloy: Si 0.5_ | experimental | [3] Liang 2017; _cites Humphrey 1952_ | Table 5, p. 8, row 16 |  |
-| Entropy; _printed: S°298K_ | 8.305 J/mol-atom/K ± 0.065 | 298.15 | βSiC(Cubic); _alloy: Si 0.5_ | unspecified | [3] Liang 2017; _cites Chase 1998_ | Table 5, p. 8, row 23 |  |
+| Entropy; _printed: S°298K_ | 8.5 J/mol-atom/K | 298.15 | SiC; _alloy: Si 0.5_ | model | [3] Liang 2017 | Table 5, p. 8, row 28; `ORC-KMV7KYOKJT` |  |
+| Entropy; _printed: S°298K_ | 8.25 J/mol-atom/K ± 0.1 | 298.15 | SiC; _alloy: Si 0.5_ | unspecified | [3] Liang 2017; _cites Kubaschewski 1993_ | Table 5, p. 8, row 24; `ORC-KXNTVGQ2SC` |  |
+| Entropy; _printed: S°298K_ | 8.35 J/mol-atom/K | 298.15 | SiC; _alloy: Si 0.5_ | model | [3] Liang 2017; _cites Paek 2014_ [doi](https://doi.org/10.1016/j.calphad.2014.02.007) | Table 5, p. 8, row 27; `ORC-MLVWFJE4CQ` |  |
+| Entropy; _printed: S°298K_ | 8.3 J/mol-atom/K | 298.15 | SiC; _alloy: Si 0.5_ | model | [3] Liang 2017; _cites Lacaze 1991_ [doi](https://doi.org/10.1007/bf02664987) | Table 5, p. 8, row 25; `ORC-QEN4OEX6MI` |  |
+| Entropy; _printed: S°298K_ | 8.45 J/mol-atom/K | 298.15 | SiC; _alloy: Si 0.5_ | model | [3] Liang 2017; _cites Gro 1996_ | Table 5, p. 8, row 26; `ORC-TOE6CPMLCS` |  |
+| Entropy; _printed: S°298K_ | 8.24 J/mol-atom/K ± 0.04 | 298.15 | αSiC(Hex); _alloy: Si 0.5_ | experimental | [3] Liang 2017; _cites Humphrey 1952_ | Table 5, p. 8, row 15; `ORC-BOPH4LJCD6` |  |
+| Entropy; _printed: S°298K_ | 8.2425 J/mol-atom/K ± 0.065 | 298.15 | αSiC(Hex); _alloy: Si 0.5_ | unspecified | [3] Liang 2017; _cites Chase 1998_ | Table 5, p. 8, row 22; `ORC-IG7ADIKB3L` |  |
+| Entropy; _printed: S°298K_ | 8.305 J/mol-atom/K ± 0.04 | 298.15 | βSiC(Cubic); _alloy: Si 0.5_ | experimental | [3] Liang 2017; _cites Humphrey 1952_ | Table 5, p. 8, row 16; `ORC-HHNIMW2TJQ` |  |
+| Entropy; _printed: S°298K_ | 8.305 J/mol-atom/K ± 0.065 | 298.15 | βSiC(Cubic); _alloy: Si 0.5_ | unspecified | [3] Liang 2017; _cites Chase 1998_ | Table 5, p. 8, row 23; `ORC-KQLLTX7JX5` |  |
 
 ## Sources
 
@@ -108,4 +108,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

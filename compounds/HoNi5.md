@@ -14,11 +14,11 @@ Table: Enthalpy of formation of HoNi5 reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -35.49 kJ/mol-atom ± 0.04 | HoNi5 | 1476 | experimental | DSC | [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html) | [1] Kardellass 2015; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900509-x) | Table 3, p. 4, row 29 |  |
-| -29.9 kJ/mol-atom ± 0.8 | HoNi5 | 1474 | experimental | DSC | [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html) | [1] Kardellass 2015; _cites Pot 1993_ | Table 3, p. 4, row 28 |  |
-| -34.04 kJ/mol-atom | Ni5Ho | 298.15 | model | Optimization | [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html) | [2] Kardellass 2016; _cites Kardellass 2015_ [doi](https://doi.org/10.1007/s10973-014-4189-1) | Table 4, p. 7, row 5 |  |
-| -34.04 kJ/mol-atom | HoNi5 | 298.15 | model | Optimization | [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html) | [1] Kardellass 2015 | Table 3, p. 4, row 30 |  |
-| -26 kJ/mol-atom | HoNi5 | 298.15 | model | Prediction | [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html) | [1] Kardellass 2015; _cites de Boer FR 1989_ | Table 3, p. 4, row 27 |  |
+| -35.49 kJ/mol-atom ± 0.04 | HoNi5 | 1476 | experimental | DSC | [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html) | [1] Kardellass 2015; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900509-x) | Table 3, p. 4, row 29; `ORC-OMEEBS7VNA.70d585` |  |
+| -29.9 kJ/mol-atom ± 0.8 | HoNi5 | 1474 | experimental | DSC | [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html) | [1] Kardellass 2015; _cites Pot 1993_ | Table 3, p. 4, row 28; `ORC-UTYLURSU47.0df886` |  |
+| -34.04 kJ/mol-atom | Ni5Ho | 298.15 | model | Optimization | [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html) | [2] Kardellass 2016; _cites Kardellass 2015_ [doi](https://doi.org/10.1007/s10973-014-4189-1) | Table 4, p. 7, row 5; `ORC-CK7FAJ7YVX.cfbece` |  |
+| -34.04 kJ/mol-atom | HoNi5 | 298.15 | model | Optimization | [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html) | [1] Kardellass 2015 | Table 3, p. 4, row 30; `ORC-JDP33X5EGQ.04513d` |  |
+| -26 kJ/mol-atom | HoNi5 | 298.15 | model | Prediction | [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html) | [1] Kardellass 2015; _cites de Boer FR 1989_ | Table 3, p. 4, row 27; `ORC-F3DNY7EVJE.3073d2` |  |
 
 ### Uncertainty budget
 
@@ -99,4 +99,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

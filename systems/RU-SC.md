@@ -61,30 +61,30 @@ Table: Invariant reactions reported in the literature for the Ru–Sc system (24
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2093 | liq. -> Ru2Sc | L: Sc 0.33; Ru2Sc: Ru 0.666667, Sc 0.333333 | experimental | [1] Du 2007; _cites Eremenko 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901321-7) | Table 2, p. 4, row 4 |  |
-| 2093 | liq. -> Ru2Sc | L: Sc 0.3486; Ru2Sc: Ru 0.666667, Sc 0.333333 | model | [1] Du 2007 | Table 2, p. 4, row 3 |  |
-| 2033 | liq. -> RuSc | L: Sc 0.5181; RuSc: Ru 0.5, Sc 0.5 | model | [1] Du 2007 | Table 2, p. 4, row 7 |  |
-| 2033 | liq. -> RuSc | L: Sc 0.5; RuSc: Ru 0.5, Sc 0.5 | experimental | [1] Du 2007; _cites Eremenko 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901321-7) | Table 2, p. 4, row 8 |  |
-| 2033 | liq. -> hcp(Ru) + Ru2Sc | L: Sc 0.2582; hcp(Ru): Sc 0.0402; Ru2Sc: Sc 0.3371 | model | [1] Du 2007 | Table 2, p. 4, row 1 |  |
-| 2033 | liq. -> hcp(Ru) + Ru2Sc | L: Sc 0.24; hcp(Ru): Sc 0.025; Ru2Sc: Sc 0.33 | experimental | [1] Du 2007; _cites Eremenko 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901321-7) | Table 2, p. 4, row 2 |  |
-| 1993 | liq. -> Ru2Sc + RuSc | L: Sc 0.48; Ru2Sc: Sc 0.4; RuSc: Sc 0.5 | experimental | [1] Du 2007; _cites Eremenko 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901321-7) | Table 2, p. 4, row 6 |  |
-| 1993 | liq. -> Ru2Sc + RuSc | L: Sc 0.4531; Ru2Sc: Sc 0.3732; RuSc: Sc 0.4942 | model | [1] Du 2007 | Table 2, p. 4, row 5 |  |
-| 1573 | liq. + RuSc -> Ru3Sc5 | L: Sc 0.7; RuSc: Sc 0.6; Ru3Sc5: Ru 0.375, Sc 0.625 | experimental | [1] Du 2007; _cites Eremenko 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901321-7) | Table 2, p. 4, row 10 |  |
-| 1573 | liq. + RuSc -> Ru3Sc5 | L: Sc 0.6954; RuSc: Sc 0.5922; Ru3Sc5: Ru 0.375, Sc 0.625 | model | [1] Du 2007 | Table 2, p. 4, row 9 |  |
-| 1543 | liq. -> Ru13Sc57 | L: Sc 0.8143; Ru13Sc57: Ru 0.185714, Sc 0.814286 | model | [1] Du 2007 | Table 2, p. 4, row 17 |  |
-| 1543 | liq. -> Ru13Sc57 | L: Sc 0.81; Ru13Sc57: Ru 0.185714, Sc 0.814286 | experimental | [1] Du 2007; _cites Eremenko 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901321-7) | Table 2, p. 4, row 18 |  |
-| 1473 | liq. -> Ru13Sc57 + bcc(Sc) | L: Sc 0.8737; Ru13Sc57: Ru 0.185714, Sc 0.814286; bcc(Sc): Sc 0.9305 | model | [1] Du 2007 | Table 2, p. 4, row 19 |  |
-| 1473 | liq. -> Ru13Sc57 + bcc(Sc) | L: Sc 0.89; Ru13Sc57: Ru 0.185714, Sc 0.814286; bcc(Sc): Sc 0.95 | experimental | [1] Du 2007; _cites Eremenko 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901321-7) | Table 2, p. 4, row 20 |  |
-| 1433 | liq. -> Ru3Sc5 + Ru13Sc57 | L: Sc 0.7386; Ru3Sc5: Ru 0.375, Sc 0.625; Ru13Sc57: Ru 0.185714, Sc 0.814286 | model | [1] Du 2007 | Table 2, p. 4, row 15 |  |
-| 1433 | liq. -> Ru3Sc5 + Ru13Sc57 | Ru3Sc5: Ru 0.375, Sc 0.625; Ru13Sc57: Ru 0.185714, Sc 0.814286 | experimental | [1] Du 2007; _cites Eremenko 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901321-7) | Table 2, p. 4, row 16 |  |
-| 1403 | Ru3Sc5 + Ru13Sc57 -> RuSc2 | Ru3Sc5: Ru 0.375, Sc 0.625; Ru13Sc57: Ru 0.185714, Sc 0.814286; RuSc2: Ru 0.333333, Sc 0.666667 | model | [1] Du 2007 | Table 2, p. 4, row 11 |  |
-| 1403 | Ru3Sc5 + Ru13Sc57 -> RuSc2 | Ru3Sc5: Ru 0.375, Sc 0.625; Ru13Sc57: Ru 0.185714, Sc 0.814286; RuSc2: Ru 0.333333, Sc 0.666667 | experimental | [1] Du 2007; _cites Eremenko 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901321-7) | Table 2, p. 4, row 12 |  |
-| 1343 | RuSc2 + Ru13Sc57 -> Ru4Sc11 | RuSc2: Ru 0.333333, Sc 0.666667; Ru13Sc57: Ru 0.185714, Sc 0.814286; Ru4Sc11: Ru 0.266667, Sc 0.733333 | experimental | [1] Du 2007; _cites Eremenko 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901321-7) | Table 2, p. 4, row 14 |  |
-| 1343 | RuSc2 + Ru13Sc57 -> Ru4Sc11 | RuSc2: Ru 0.333333, Sc 0.666667; Ru13Sc57: Ru 0.185714, Sc 0.814286; Ru4Sc11: Ru 0.266667, Sc 0.733333 | model | [1] Du 2007 | Table 2, p. 4, row 13 |  |
-| 1323 | bcc(Sc) -> Ru13Sc57 + hcp(Sc) | bcc(Sc): Sc 0.96; Ru13Sc57: Ru 0.185714, Sc 0.814286; hcp(Sc): Sc 0.99 | experimental | [1] Du 2007; _cites Eremenko 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901321-7) | Table 2, p. 4, row 22 |  |
-| 1323 | bcc(Sc) -> Ru13Sc57 + hcp(Sc) | bcc(Sc): Sc 0.9611; Ru13Sc57: Ru 0.185714, Sc 0.814286; hcp(Sc): Sc 0.9918 | model | [1] Du 2007 | Table 2, p. 4, row 21 |  |
-| 1223 | Ru13Sc57 + hcp (Sc) -> Ru7Sc44 | Ru13Sc57: Ru 0.185714, Sc 0.814286; hcp(Sc): Sc 0.9944; Ru7Sc44: Ru 0.137255, Sc 0.862745 | model | [1] Du 2007 | Table 2, p. 4, row 23 |  |
-| 1223 | Ru13Sc57 + hcp (Sc) -> Ru7Sc44 | Ru13Sc57: Ru 0.185714, Sc 0.814286; hcp(Sc): Sc 1; Ru7Sc44: Ru 0.137255, Sc 0.862745 | experimental | [1] Du 2007; _cites Eremenko 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901321-7) | Table 2, p. 4, row 24 |  |
+| 2093 | liq. -> Ru2Sc | L: Sc 0.33; Ru2Sc: Ru 0.666667, Sc 0.333333 | experimental | [1] Du 2007; _cites Eremenko 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901321-7) | Table 2, p. 4, row 4; `ORC-7JSHAZBSYJ` |  |
+| 2093 | liq. -> Ru2Sc | L: Sc 0.3486; Ru2Sc: Ru 0.666667, Sc 0.333333 | model | [1] Du 2007 | Table 2, p. 4, row 3; `ORC-ZTA6MBK62L` |  |
+| 2033 | liq. -> RuSc | L: Sc 0.5181; RuSc: Ru 0.5, Sc 0.5 | model | [1] Du 2007 | Table 2, p. 4, row 7; `ORC-6TCRKDZMQP` |  |
+| 2033 | liq. -> RuSc | L: Sc 0.5; RuSc: Ru 0.5, Sc 0.5 | experimental | [1] Du 2007; _cites Eremenko 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901321-7) | Table 2, p. 4, row 8; `ORC-HFIAOJVL7R` |  |
+| 2033 | liq. -> hcp(Ru) + Ru2Sc | L: Sc 0.2582; hcp(Ru): Sc 0.0402; Ru2Sc: Sc 0.3371 | model | [1] Du 2007 | Table 2, p. 4, row 1; `ORC-HQBPXO3YNG` |  |
+| 2033 | liq. -> hcp(Ru) + Ru2Sc | L: Sc 0.24; hcp(Ru): Sc 0.025; Ru2Sc: Sc 0.33 | experimental | [1] Du 2007; _cites Eremenko 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901321-7) | Table 2, p. 4, row 2; `ORC-LSWVW36BQ3` |  |
+| 1993 | liq. -> Ru2Sc + RuSc | L: Sc 0.48; Ru2Sc: Sc 0.4; RuSc: Sc 0.5 | experimental | [1] Du 2007; _cites Eremenko 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901321-7) | Table 2, p. 4, row 6; `ORC-ACBSZOK5ZM` |  |
+| 1993 | liq. -> Ru2Sc + RuSc | L: Sc 0.4531; Ru2Sc: Sc 0.3732; RuSc: Sc 0.4942 | model | [1] Du 2007 | Table 2, p. 4, row 5; `ORC-JAJGHNGQBT` |  |
+| 1573 | liq. + RuSc -> Ru3Sc5 | L: Sc 0.7; RuSc: Sc 0.6; Ru3Sc5: Ru 0.375, Sc 0.625 | experimental | [1] Du 2007; _cites Eremenko 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901321-7) | Table 2, p. 4, row 10; `ORC-6LOQVD62KM` |  |
+| 1573 | liq. + RuSc -> Ru3Sc5 | L: Sc 0.6954; RuSc: Sc 0.5922; Ru3Sc5: Ru 0.375, Sc 0.625 | model | [1] Du 2007 | Table 2, p. 4, row 9; `ORC-A6TZ36C4S3` |  |
+| 1543 | liq. -> Ru13Sc57 | L: Sc 0.8143; Ru13Sc57: Ru 0.185714, Sc 0.814286 | model | [1] Du 2007 | Table 2, p. 4, row 17; `ORC-QIRPEGKHXV` |  |
+| 1543 | liq. -> Ru13Sc57 | L: Sc 0.81; Ru13Sc57: Ru 0.185714, Sc 0.814286 | experimental | [1] Du 2007; _cites Eremenko 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901321-7) | Table 2, p. 4, row 18; `ORC-YY32CELAXP` |  |
+| 1473 | liq. -> Ru13Sc57 + bcc(Sc) | L: Sc 0.8737; Ru13Sc57: Ru 0.185714, Sc 0.814286; bcc(Sc): Sc 0.9305 | model | [1] Du 2007 | Table 2, p. 4, row 19; `ORC-JENX5UC76Y` |  |
+| 1473 | liq. -> Ru13Sc57 + bcc(Sc) | L: Sc 0.89; Ru13Sc57: Ru 0.185714, Sc 0.814286; bcc(Sc): Sc 0.95 | experimental | [1] Du 2007; _cites Eremenko 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901321-7) | Table 2, p. 4, row 20; `ORC-VXD6RKWZNA` |  |
+| 1433 | liq. -> Ru3Sc5 + Ru13Sc57 | L: Sc 0.7386; Ru3Sc5: Ru 0.375, Sc 0.625; Ru13Sc57: Ru 0.185714, Sc 0.814286 | model | [1] Du 2007 | Table 2, p. 4, row 15; `ORC-H463LYGQYS` |  |
+| 1433 | liq. -> Ru3Sc5 + Ru13Sc57 | Ru3Sc5: Ru 0.375, Sc 0.625; Ru13Sc57: Ru 0.185714, Sc 0.814286 | experimental | [1] Du 2007; _cites Eremenko 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901321-7) | Table 2, p. 4, row 16; `ORC-YRZVEXYLFF` |  |
+| 1403 | Ru3Sc5 + Ru13Sc57 -> RuSc2 | Ru3Sc5: Ru 0.375, Sc 0.625; Ru13Sc57: Ru 0.185714, Sc 0.814286; RuSc2: Ru 0.333333, Sc 0.666667 | model | [1] Du 2007 | Table 2, p. 4, row 11; `ORC-KWJ5P4T3AY` |  |
+| 1403 | Ru3Sc5 + Ru13Sc57 -> RuSc2 | Ru3Sc5: Ru 0.375, Sc 0.625; Ru13Sc57: Ru 0.185714, Sc 0.814286; RuSc2: Ru 0.333333, Sc 0.666667 | experimental | [1] Du 2007; _cites Eremenko 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901321-7) | Table 2, p. 4, row 12; `ORC-N3ZOURQNWS` |  |
+| 1343 | RuSc2 + Ru13Sc57 -> Ru4Sc11 | RuSc2: Ru 0.333333, Sc 0.666667; Ru13Sc57: Ru 0.185714, Sc 0.814286; Ru4Sc11: Ru 0.266667, Sc 0.733333 | experimental | [1] Du 2007; _cites Eremenko 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901321-7) | Table 2, p. 4, row 14; `ORC-4BCEL7G3AC` |  |
+| 1343 | RuSc2 + Ru13Sc57 -> Ru4Sc11 | RuSc2: Ru 0.333333, Sc 0.666667; Ru13Sc57: Ru 0.185714, Sc 0.814286; Ru4Sc11: Ru 0.266667, Sc 0.733333 | model | [1] Du 2007 | Table 2, p. 4, row 13; `ORC-EOY4ZNWWHS` |  |
+| 1323 | bcc(Sc) -> Ru13Sc57 + hcp(Sc) | bcc(Sc): Sc 0.96; Ru13Sc57: Ru 0.185714, Sc 0.814286; hcp(Sc): Sc 0.99 | experimental | [1] Du 2007; _cites Eremenko 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901321-7) | Table 2, p. 4, row 22; `ORC-N357MO5FKK` |  |
+| 1323 | bcc(Sc) -> Ru13Sc57 + hcp(Sc) | bcc(Sc): Sc 0.9611; Ru13Sc57: Ru 0.185714, Sc 0.814286; hcp(Sc): Sc 0.9918 | model | [1] Du 2007 | Table 2, p. 4, row 21; `ORC-YJJXZMR3G7` |  |
+| 1223 | Ru13Sc57 + hcp (Sc) -> Ru7Sc44 | Ru13Sc57: Ru 0.185714, Sc 0.814286; hcp(Sc): Sc 0.9944; Ru7Sc44: Ru 0.137255, Sc 0.862745 | model | [1] Du 2007 | Table 2, p. 4, row 23; `ORC-OGMGBMTGIY` |  |
+| 1223 | Ru13Sc57 + hcp (Sc) -> Ru7Sc44 | Ru13Sc57: Ru 0.185714, Sc 0.814286; hcp(Sc): Sc 1; Ru7Sc44: Ru 0.137255, Sc 0.862745 | experimental | [1] Du 2007; _cites Eremenko 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901321-7) | Table 2, p. 4, row 24; `ORC-ZRW7SPRANA` |  |
 
 ## Sources
 
@@ -149,4 +149,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

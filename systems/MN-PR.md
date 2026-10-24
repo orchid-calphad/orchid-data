@@ -72,17 +72,17 @@ Table: Invariant reactions reported in the literature for the Mn–Pr system (11
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1064.15 | peritectic: αMn + L -> Mn23Pr6 | αMn: Pr 0; L: Pr 0.625; Mn23Pr6: Pr 0.207 | model | [1] Wang 2009 | Table 5, p. 5, row 6 |  |
-| 1063.15 | peritectic: ␣Mn + L ↔ Mn23 Pr6 |  | experimental | [1] Wang 2009; _cites Saccone 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990434-5) | p. 3 | “Saccone et al. \[14\] obtained the evidence of the peritectic formation of the Mn23 Pr6 compound (␣Mn + L ↔ Mn23 Pr6 , at 790 ◦ C) and its decomposition (Mn23 Pr6 ↔ ␣Mn + ␣Pr, at about 650 ◦ C) in the stable diagram, and also confirmed the disappearance of the Mn2 Pr compound using microprobe and X-ray analyses.” |
-| 1063.15 | peritectic: αMn + L -> Mn23Pr6 | αMn: Pr 0; L: Pr 0.629; Mn23Pr6: Pr 0.207 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 5, p. 5, row 5 |  |
-| 1063 | peritectic: L þ cubMn ↔ Mn23Pr6 |  | experimental | [2] Ye 2024; _cites Saccone 1985_ | p. 4 | “It was found that Mn23Pr6 was formed by a peritectic reaction (L þ cubMn ↔ Mn23Pr6 at 1063 K) and was decomposed at 923 K.” |
-| 938.15 | metatectic/catatectic: βPr -> L + αPr | βPr: Pr 0.915; L: Pr 0.758; αPr: Pr 0.989 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 5, p. 5, row 11 |  |
-| 936.15 | metatectic/catatectic: βPr -> L + αPr | βPr: Pr 0.923; L: Pr 0.76; αPr: Pr 0.99 | model | [1] Wang 2009 | Table 5, p. 5, row 12 |  |
-| 933.15 | eutectic: L -> Mn23Pr6 + αPr | L: Pr 0.25; Mn23Pr6: Pr 0.207; αPr: Pr 0.989 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 5, p. 5, row 7 |  |
-| 933.15 | eutectic: L ↔ Mn23 Pr6 + ␣Pr |  | experimental | [1] Wang 2009; _cites Saccone 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990434-5) | p. 3 | “In Saccone's work \[14\], the eutectic reaction (L ↔ Mn23 Pr6 + ␣Pr, at 660 ◦ C, 25 at.% Mn) and the catatectic reaction (␤Pr ↔ L + ␣Pr, at 665 ◦ C) were determined, and the largest solid solubilities of Mn at the catatectic temperature (665 ◦ C) were estimated to be 6 at.% in ␣Pr, as such 1-2 at.% in ␤Pr.” |
-| 933.15 | eutectic: L -> Mn23Pr6 + αPr | L: Pr 0.25; Mn23Pr6: Pr 0.207; αPr: Pr 0.992 | model | [1] Wang 2009 | Table 5, p. 5, row 8 |  |
-| 923.15 | eutectoid: Mn23Pr6 -> αMn + αPr | Mn23Pr6: Pr 0.207; αMn: Pr 0; αPr: Pr 0.99 | model | [1] Wang 2009 | Table 5, p. 5, row 10 |  |
-| 923.15 | eutectoid: Mn23Pr6 -> αMn + αPr | Mn23Pr6: Pr 0.207; αMn: Pr 0; αPr: Pr 0.991 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 5, p. 5, row 9 |  |
+| 1064.15 | peritectic: αMn + L -> Mn23Pr6 | αMn: Pr 0; L: Pr 0.625; Mn23Pr6: Pr 0.207 | model | [1] Wang 2009 | Table 5, p. 5, row 6; `ORC-5JO4D2DIZ3` |  |
+| 1063.15 | peritectic: ␣Mn + L ↔ Mn23 Pr6 |  | experimental | [1] Wang 2009; _cites Saccone 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990434-5) | p. 3; `ORC-AVU4XC4JCE.4d826c` | “Saccone et al. \[14\] obtained the evidence of the peritectic formation of the Mn23 Pr6 compound (␣Mn + L ↔ Mn23 Pr6 , at 790 ◦ C) and its decomposition (Mn23 Pr6 ↔ ␣Mn + ␣Pr, at about 650 ◦ C) in the stable diagram, and also confirmed the disappearance of the Mn2 Pr compound using microprobe and X-ray analyses.” |
+| 1063.15 | peritectic: αMn + L -> Mn23Pr6 | αMn: Pr 0; L: Pr 0.629; Mn23Pr6: Pr 0.207 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 5, p. 5, row 5; `ORC-SNPGF7P6J2` |  |
+| 1063 | peritectic: L þ cubMn ↔ Mn23Pr6 |  | experimental | [2] Ye 2024; _cites Saccone 1985_ | p. 4; `ORC-3TBJKCISOB.aa41c3` | “It was found that Mn23Pr6 was formed by a peritectic reaction (L þ cubMn ↔ Mn23Pr6 at 1063 K) and was decomposed at 923 K.” |
+| 938.15 | metatectic/catatectic: βPr -> L + αPr | βPr: Pr 0.915; L: Pr 0.758; αPr: Pr 0.989 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 5, p. 5, row 11; `ORC-QXYFVRVD3L` |  |
+| 936.15 | metatectic/catatectic: βPr -> L + αPr | βPr: Pr 0.923; L: Pr 0.76; αPr: Pr 0.99 | model | [1] Wang 2009 | Table 5, p. 5, row 12; `ORC-RZNW37Y3MS` |  |
+| 933.15 | eutectic: L -> Mn23Pr6 + αPr | L: Pr 0.25; Mn23Pr6: Pr 0.207; αPr: Pr 0.989 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 5, p. 5, row 7; `ORC-HRHMDMC5TG` |  |
+| 933.15 | eutectic: L ↔ Mn23 Pr6 + ␣Pr |  | experimental | [1] Wang 2009; _cites Saccone 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990434-5) | p. 3; `ORC-MC5QIKUZAC` | “In Saccone's work \[14\], the eutectic reaction (L ↔ Mn23 Pr6 + ␣Pr, at 660 ◦ C, 25 at.% Mn) and the catatectic reaction (␤Pr ↔ L + ␣Pr, at 665 ◦ C) were determined, and the largest solid solubilities of Mn at the catatectic temperature (665 ◦ C) were estimated to be 6 at.% in ␣Pr, as such 1-2 at.% in ␤Pr.” |
+| 933.15 | eutectic: L -> Mn23Pr6 + αPr | L: Pr 0.25; Mn23Pr6: Pr 0.207; αPr: Pr 0.992 | model | [1] Wang 2009 | Table 5, p. 5, row 8; `ORC-Z5BZZEUGWR` |  |
+| 923.15 | eutectoid: Mn23Pr6 -> αMn + αPr | Mn23Pr6: Pr 0.207; αMn: Pr 0; αPr: Pr 0.99 | model | [1] Wang 2009 | Table 5, p. 5, row 10; `ORC-EMKZLSTIGK` |  |
+| 923.15 | eutectoid: Mn23Pr6 -> αMn + αPr | Mn23Pr6: Pr 0.207; αMn: Pr 0; αPr: Pr 0.991 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 5, p. 5, row 9; `ORC-FMYJTXGPO2` |  |
 
 ## Other properties
 
@@ -92,8 +92,8 @@ Table: Phase transition, Mn–Pr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 923 K | 923 |  | experimental | [2] Ye 2024; _cites Saccone 1985_ | p. 4 | “It was found that Mn23Pr6 was formed by a peritectic reaction (L þ cubMn ↔ Mn23Pr6 at 1063 K) and was decomposed at 923 K.” |
-| Phase transition | 923.15 K | 923.15 | other: Mn23 Pr6 ↔ ␣Mn + ␣Pr | experimental | [1] Wang 2009; _cites Saccone 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990434-5) | p. 3 | “Saccone et al. \[14\] obtained the evidence of the peritectic formation of the Mn23 Pr6 compound (␣Mn + L ↔ Mn23 Pr6 , at 790 ◦ C) and its decomposition (Mn23 Pr6 ↔ ␣Mn + ␣Pr, at about 650 ◦ C) in the stable diagram, and also confirmed the disappearance of the Mn2 Pr compound using microprobe and X-ray analyses.” |
+| Phase transition | 923 K | 923 |  | experimental | [2] Ye 2024; _cites Saccone 1985_ | p. 4; `ORC-3TBJKCISOB.8d9f39` | “It was found that Mn23Pr6 was formed by a peritectic reaction (L þ cubMn ↔ Mn23Pr6 at 1063 K) and was decomposed at 923 K.” |
+| Phase transition | 923.15 K | 923.15 | other: Mn23 Pr6 ↔ ␣Mn + ␣Pr | experimental | [1] Wang 2009; _cites Saccone 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990434-5) | p. 3; `ORC-AVU4XC4JCE.bb5f00` | “Saccone et al. \[14\] obtained the evidence of the peritectic formation of the Mn23 Pr6 compound (␣Mn + L ↔ Mn23 Pr6 , at 790 ◦ C) and its decomposition (Mn23 Pr6 ↔ ␣Mn + ␣Pr, at about 650 ◦ C) in the stable diagram, and also confirmed the disappearance of the Mn2 Pr compound using microprobe and X-ray analyses.” |
 
 ## Sources
 
@@ -159,4 +159,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

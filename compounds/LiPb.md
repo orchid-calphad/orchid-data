@@ -14,10 +14,10 @@ Table: Enthalpy of formation of LiPb reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -30.3 kJ/mol-atom ± 1.82 | αLiPb | 298.15 | DFT |  | [Li–Pb](https://data.orchid-project.org/systems/LI-PB.html) | [1] Zhou 2016; _cites Seith 1937_ | Table 2, p. 2, row 13 |  |
-| -26.44 kJ/mol-atom | αLiPb | 0 | DFT | first-principles calculations | [Li–Pb](https://data.orchid-project.org/systems/LI-PB.html) | [1] Zhou 2016 | Table 2, p. 2, row 15 |  |
-| -24.25 kJ/mol-atom ± 0.55 | αLiPb | 298.15 | DFT |  | [Li–Pb](https://data.orchid-project.org/systems/LI-PB.html) | [1] Zhou 2016; _cites Kalyanaraman 1982_ | Table 2, p. 2, row 14 |  |
-| -1.08 kJ/mol-atom | βLiPb | 0 | DFT | first-principles calculations | [Li–Pb](https://data.orchid-project.org/systems/LI-PB.html) | [1] Zhou 2016 | Table 2, p. 2, row 16 |  |
+| -30.3 kJ/mol-atom ± 1.82 | αLiPb | 298.15 | DFT |  | [Li–Pb](https://data.orchid-project.org/systems/LI-PB.html) | [1] Zhou 2016; _cites Seith 1937_ | Table 2, p. 2, row 13; `ORC-OFZXBRQQKY` |  |
+| -26.44 kJ/mol-atom | αLiPb | 0 | DFT | first-principles calculations | [Li–Pb](https://data.orchid-project.org/systems/LI-PB.html) | [1] Zhou 2016 | Table 2, p. 2, row 15; `ORC-LZKQKVR4HB` |  |
+| -24.25 kJ/mol-atom ± 0.55 | αLiPb | 298.15 | DFT |  | [Li–Pb](https://data.orchid-project.org/systems/LI-PB.html) | [1] Zhou 2016; _cites Kalyanaraman 1982_ | Table 2, p. 2, row 14; `ORC-SUAON346AR` |  |
+| -1.08 kJ/mol-atom | βLiPb | 0 | DFT | first-principles calculations | [Li–Pb](https://data.orchid-project.org/systems/LI-PB.html) | [1] Zhou 2016 | Table 2, p. 2, row 16; `ORC-GGFVSTEJN4` |  |
 
 ### Uncertainty budget
 
@@ -83,4 +83,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

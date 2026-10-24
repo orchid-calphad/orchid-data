@@ -14,15 +14,15 @@ Table: Enthalpy of formation of Ni3Si reported in the literature (9)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -37.7 kJ/mol-atom | Ni3Si–L12 | 298.15 | experimental | Experiment | [Ni–Si](https://data.orchid-project.org/systems/NI-SI.html) | [1] Yuan 2012; _cites Oelsen 1936_ | Table 1, p. 4, row 7 |  |
-| -37.2 kJ/mol-atom | Ni3Si(β1) | 298.15 | experimental |  | [Ni–Si](https://data.orchid-project.org/systems/NI-SI.html) | [2] Tokunaga 2003; _cites Oelson 1936_ | Table 4, p. 7, row 1 |  |
-| -47.1 kJ/mol-atom | Ni3Si(β1) |  | model | CALPHAD assessment | [Ni–Si](https://data.orchid-project.org/systems/NI-SI.html) | [2] Tokunaga 2003 | Table 4, p. 7, row 5 |  |
-| -44.672 kJ/mol-atom | Ni3Si–L12 | 0 | model | FP | [Ni–Si](https://data.orchid-project.org/systems/NI-SI.html) | [1] Yuan 2012; _cites Connetable 2011_ [doi](https://doi.org/10.1016/j.jallcom.2010.10.118) | Table 1, p. 4, row 5 |  |
-| -40.582 kJ/mol-atom | Ni3Si–L12 | 0 | model | CALPHAD | [Ni–Si](https://data.orchid-project.org/systems/NI-SI.html) | [1] Yuan 2012; _cites Du 1999_ [doi](https://doi.org/10.1007/s11661-999-0249-8) | Table 2, p. 4, row 6 |  |
-| -40.1 kJ/mol-atom | Ni3Si(β1) |  | model |  | [Ni–Si](https://data.orchid-project.org/systems/NI-SI.html) | [2] Tokunaga 2003; _cites Lindholm 1996_ [doi](https://doi.org/10.1007/bf02663838) | Table 4, p. 7, row 6 |  |
-| -49.2 kJ/mol-atom | Ni3Si(β1) | 0 | DFT | ab initio | [Ni–Si](https://data.orchid-project.org/systems/NI-SI.html) | [2] Tokunaga 2003 | Table 4, p. 7, row 4 |  |
-| -40.02 kJ/mol-atom | Ni3Si(D024) | 0 | DFT | Ab initio | [Ni–Si](https://data.orchid-project.org/systems/NI-SI.html) | [3] Tokunaga 2004 | Table 2, p. 3, row 10 |  |
-| -44.671 kJ/mol-atom | Ni3Si–L12 | 0 | unspecified | FP | [Ni–Si](https://data.orchid-project.org/systems/NI-SI.html) | [1] Yuan 2012 | Table 1, p. 4, row 4 |  |
+| -37.7 kJ/mol-atom | Ni3Si–L12 | 298.15 | experimental | Experiment | [Ni–Si](https://data.orchid-project.org/systems/NI-SI.html) | [1] Yuan 2012; _cites Oelsen 1936_ | Table 1, p. 4, row 7; `ORC-IKHN5DAX3E` |  |
+| -37.2 kJ/mol-atom | Ni3Si(β1) | 298.15 | experimental |  | [Ni–Si](https://data.orchid-project.org/systems/NI-SI.html) | [2] Tokunaga 2003; _cites Oelson 1936_ | Table 4, p. 7, row 1; `ORC-DYBIVMPQDE.17e4c5` |  |
+| -47.1 kJ/mol-atom | Ni3Si(β1) |  | model | CALPHAD assessment | [Ni–Si](https://data.orchid-project.org/systems/NI-SI.html) | [2] Tokunaga 2003 | Table 4, p. 7, row 5; `ORC-ZNDNRTOJKZ.7e2ec7` |  |
+| -44.672 kJ/mol-atom | Ni3Si–L12 | 0 | model | FP | [Ni–Si](https://data.orchid-project.org/systems/NI-SI.html) | [1] Yuan 2012; _cites Connetable 2011_ [doi](https://doi.org/10.1016/j.jallcom.2010.10.118) | Table 1, p. 4, row 5; `ORC-AHN6VPVJEQ` |  |
+| -40.582 kJ/mol-atom | Ni3Si–L12 | 0 | model | CALPHAD | [Ni–Si](https://data.orchid-project.org/systems/NI-SI.html) | [1] Yuan 2012; _cites Du 1999_ [doi](https://doi.org/10.1007/s11661-999-0249-8) | Table 2, p. 4, row 6; `ORC-AXMCO7JSGC` |  |
+| -40.1 kJ/mol-atom | Ni3Si(β1) |  | model |  | [Ni–Si](https://data.orchid-project.org/systems/NI-SI.html) | [2] Tokunaga 2003; _cites Lindholm 1996_ [doi](https://doi.org/10.1007/bf02663838) | Table 4, p. 7, row 6; `ORC-CRPUQ55THO.2ad9ed` |  |
+| -49.2 kJ/mol-atom | Ni3Si(β1) | 0 | DFT | ab initio | [Ni–Si](https://data.orchid-project.org/systems/NI-SI.html) | [2] Tokunaga 2003 | Table 4, p. 7, row 4; `ORC-FJRLQYIRZB` |  |
+| -40.02 kJ/mol-atom | Ni3Si(D024) | 0 | DFT | Ab initio | [Ni–Si](https://data.orchid-project.org/systems/NI-SI.html) | [3] Tokunaga 2004 | Table 2, p. 3, row 10; `ORC-6IYS4R6IRD.a7f7f7` |  |
+| -44.671 kJ/mol-atom | Ni3Si–L12 | 0 | unspecified | FP | [Ni–Si](https://data.orchid-project.org/systems/NI-SI.html) | [1] Yuan 2012 | Table 1, p. 4, row 4; `ORC-3NECAPMFMN` |  |
 
 ### Uncertainty budget
 
@@ -108,4 +108,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

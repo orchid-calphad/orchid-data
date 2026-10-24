@@ -14,10 +14,10 @@ Table: Enthalpy of formation of BiCs3 reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -43.5 kJ/mol-atom | BiCs3 | 298.15 | experimental | EMF | [Bi–Cs](https://data.orchid-project.org/systems/BI-CS.html) | [1] Djaballah 2015; _cites Voronin 1975_ | Table 2, p. 4, row 12 |  |
-| -32.568 kJ/mol-atom | BiCs3 |  | model | CALPHAD | [Bi–Cs](https://data.orchid-project.org/systems/BI-CS.html) | [1] Djaballah 2015 | Table 2, p. 4, row 15 |  |
-| -44.202 kJ/mol-atom | BiCs3 | 0 | DFT | LDA | [Bi–Cs](https://data.orchid-project.org/systems/BI-CS.html) | [1] Djaballah 2015 | Table 2, p. 4, row 14 |  |
-| -31.394 kJ/mol-atom | BiCs3 | 0 | DFT | GGA | [Bi–Cs](https://data.orchid-project.org/systems/BI-CS.html) | [1] Djaballah 2015 | Table 2, p. 4, row 13 |  |
+| -43.5 kJ/mol-atom | BiCs3 | 298.15 | experimental | EMF | [Bi–Cs](https://data.orchid-project.org/systems/BI-CS.html) | [1] Djaballah 2015; _cites Voronin 1975_ | Table 2, p. 4, row 12; `ORC-QJGSGW45OC.2165b5` |  |
+| -32.568 kJ/mol-atom | BiCs3 |  | model | CALPHAD | [Bi–Cs](https://data.orchid-project.org/systems/BI-CS.html) | [1] Djaballah 2015 | Table 2, p. 4, row 15; `ORC-RADL2UHQFK.1b5161` |  |
+| -44.202 kJ/mol-atom | BiCs3 | 0 | DFT | LDA | [Bi–Cs](https://data.orchid-project.org/systems/BI-CS.html) | [1] Djaballah 2015 | Table 2, p. 4, row 14; `ORC-47ASR3RCG4.c26af0` |  |
+| -31.394 kJ/mol-atom | BiCs3 | 0 | DFT | GGA | [Bi–Cs](https://data.orchid-project.org/systems/BI-CS.html) | [1] Djaballah 2015 | Table 2, p. 4, row 13; `ORC-HS3IDXWVU3.24d63b` |  |
 
 ### Uncertainty budget
 
@@ -96,4 +96,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

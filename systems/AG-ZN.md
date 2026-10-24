@@ -80,18 +80,18 @@ Table: Invariant reactions reported in the literature for the Ag–Zn system (12
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 983 | α + L -> β | α: Zn 0.321; β: Zn 0.367; L: Zn 0.375 | experimental | [1] Gómez-Acebo 1998; _cites ref. 90Mas_ | Table 1, p. 3, row 1 |  |
-| 983 | α + L -> β | α: Zn 0.325; β: Zn 0.371; L: Zn 0.374 | model | [1] Gómez-Acebo 1998 | Table 1, p. 3, row 2 |  |
-| 934 | β + L -> γ | β: Zn 0.586; γ: Zn 0.61; L: Zn 0.618 | experimental | [1] Gómez-Acebo 1998; _cites ref. 90Mas_ | Table 1, p. 3, row 3 |  |
-| 933 | β + L -> γ | β: Zn 0.582; γ: Zn 0.609; L: Zn 0.623 | model | [1] Gómez-Acebo 1998 | Table 1, p. 3, row 4 |  |
-| 907 | γ + L -> ε | γ: Zn 0.646; ε: Zn 0.694; L: Zn 0.706 | model | [1] Gómez-Acebo 1998 | Table 1, p. 3, row 6 |  |
-| 904 | γ + L -> ε | γ: Zn 0.647; ε: Zn 0.694; L: Zn 0.71 | experimental | [1] Gómez-Acebo 1998; _cites ref. 90Mas_ | Table 1, p. 3, row 5 |  |
-| 706 | ε + L -> η | ε: Zn 0.903; η: Zn 0.962; L: Zn 0.981 | model | [1] Gómez-Acebo 1998 | Table 1, p. 3, row 8 |  |
-| 704 | ε + L -> η | ε: Zn 0.89; η: Zn 0.95; L: Zn 0.98 | experimental | [1] Gómez-Acebo 1998; _cites ref. 90Mas_ | Table 1, p. 3, row 7 |  |
-| 552 | β + γ -> ζ | β: Zn 0.493; ζ: Zn 0.501; γ: Zn 0.588 | model | [1] Gómez-Acebo 1998 | Table 1, p. 3, row 12 |  |
-| 547 | β + γ -> ζ | ζ: Zn 0.504; γ: Zn 0.585 | experimental | [1] Gómez-Acebo 1998; _cites ref. 90Mas_ | Table 1, p. 3, row 11 |  |
-| 538 | β -> α + ζ | α: Zn 0.403; β: Zn 0.449; ζ: Zn 0.46 | model | [1] Gómez-Acebo 1998 | Table 1, p. 3, row 10 |  |
-| 531 | β -> α + ζ | α: Zn 0.402; ζ: Zn 0.456 | experimental | [1] Gómez-Acebo 1998; _cites ref. 90Mas_ | Table 1, p. 3, row 9 |  |
+| 983 | α + L -> β | α: Zn 0.321; β: Zn 0.367; L: Zn 0.375 | experimental | [1] Gómez-Acebo 1998; _cites ref. 90Mas_ | Table 1, p. 3, row 1; `ORC-2W6UWTOOHT` |  |
+| 983 | α + L -> β | α: Zn 0.325; β: Zn 0.371; L: Zn 0.374 | model | [1] Gómez-Acebo 1998 | Table 1, p. 3, row 2; `ORC-TNNAALITD4` |  |
+| 934 | β + L -> γ | β: Zn 0.586; γ: Zn 0.61; L: Zn 0.618 | experimental | [1] Gómez-Acebo 1998; _cites ref. 90Mas_ | Table 1, p. 3, row 3; `ORC-NXFKNHSONY` |  |
+| 933 | β + L -> γ | β: Zn 0.582; γ: Zn 0.609; L: Zn 0.623 | model | [1] Gómez-Acebo 1998 | Table 1, p. 3, row 4; `ORC-YZCJJZXMPT` |  |
+| 907 | γ + L -> ε | γ: Zn 0.646; ε: Zn 0.694; L: Zn 0.706 | model | [1] Gómez-Acebo 1998 | Table 1, p. 3, row 6; `ORC-WT6AFOBA7S` |  |
+| 904 | γ + L -> ε | γ: Zn 0.647; ε: Zn 0.694; L: Zn 0.71 | experimental | [1] Gómez-Acebo 1998; _cites ref. 90Mas_ | Table 1, p. 3, row 5; `ORC-JQQZQIRHFY` |  |
+| 706 | ε + L -> η | ε: Zn 0.903; η: Zn 0.962; L: Zn 0.981 | model | [1] Gómez-Acebo 1998 | Table 1, p. 3, row 8; `ORC-2D6YUFINVL` |  |
+| 704 | ε + L -> η | ε: Zn 0.89; η: Zn 0.95; L: Zn 0.98 | experimental | [1] Gómez-Acebo 1998; _cites ref. 90Mas_ | Table 1, p. 3, row 7; `ORC-SCHBZFPOPU` |  |
+| 552 | β + γ -> ζ | β: Zn 0.493; ζ: Zn 0.501; γ: Zn 0.588 | model | [1] Gómez-Acebo 1998 | Table 1, p. 3, row 12; `ORC-GM3C2HSDJ4` |  |
+| 547 | β + γ -> ζ | ζ: Zn 0.504; γ: Zn 0.585 | experimental | [1] Gómez-Acebo 1998; _cites ref. 90Mas_ | Table 1, p. 3, row 11; `ORC-GBUV6RPBAV` |  |
+| 538 | β -> α + ζ | α: Zn 0.403; β: Zn 0.449; ζ: Zn 0.46 | model | [1] Gómez-Acebo 1998 | Table 1, p. 3, row 10; `ORC-THFIZ7CUZO` |  |
+| 531 | β -> α + ζ | α: Zn 0.402; ζ: Zn 0.456 | experimental | [1] Gómez-Acebo 1998; _cites ref. 90Mas_ | Table 1, p. 3, row 9; `ORC-MK2OOW2RTI` |  |
 
 ## Other properties
 
@@ -101,7 +101,7 @@ Table: Phase transition, Ag–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 650 K | 650 |  | model | [1] Gómez-Acebo 1998 | p. 8 | “This has led to an approximate value of 650 K.” |
+| Phase transition | 650 K | 650 |  | model | [1] Gómez-Acebo 1998 | p. 8; `ORC-SZD77DV4ZA` | “This has led to an approximate value of 650 K.” |
 
 ## Sources
 
@@ -166,4 +166,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

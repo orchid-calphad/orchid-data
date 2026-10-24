@@ -14,15 +14,15 @@ Table: Enthalpy of formation of ZrN reported in the literature (9)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -184.515 kJ/mol-atom | ZrN | 298.15 | experimental |  | [N–Zr](https://data.orchid-project.org/systems/N-ZR.html) | [1] Ma 2004; _cites Galbraikh 1970_ | Table 2, p. 2, row 18 |  |
-| -184.515 kJ/mol-atom | ZrN | 298.15 | experimental |  | [N–Zr](https://data.orchid-project.org/systems/N-ZR.html) | [1] Ma 2004; _cites Galbraikh 1970_ | Table 3, p. 3, row 9 |  |
-| -183.887 kJ/mol-atom | ZrN | 298.15 | experimental |  | [N–Zr](https://data.orchid-project.org/systems/N-ZR.html) | [1] Ma 2004; _cites Smagina 1961_ | Table 2, p. 2, row 17 |  |
-| -183.887 kJ/mol-atom | ZrN | 298.15 | experimental |  | [N–Zr](https://data.orchid-project.org/systems/N-ZR.html) | [1] Ma 2004; _cites Smagina 1961_ | Table 3, p. 3, row 8 |  |
-| -182.75 kJ/mol-atom | ZrN | 298.15 | experimental |  | [N–Zr](https://data.orchid-project.org/systems/N-ZR.html) | [1] Ma 2004; _cites Brandes 1983_ | Table 2, p. 2, row 19 |  |
-| -182.75 kJ/mol-atom | ZrN | 298.15 | experimental |  | [N–Zr](https://data.orchid-project.org/systems/N-ZR.html) | [1] Ma 2004; _cites Brandes 1983_ | Table 3, p. 3, row 10 |  |
-| -203 kJ/mol-atom | ZrN |  | model | Miedema | [N–Zr](https://data.orchid-project.org/systems/N-ZR.html) | [1] Ma 2004; _cites Fernandez 1992_ [doi](https://doi.org/10.1103/physrevb.45.11557) | Table 3, p. 3, row 11 |  |
-| -208.299 kJ/mol-atom | ZrN | 0 | DFT | DFT (GGA) | [N–Zr](https://data.orchid-project.org/systems/N-ZR.html) | [1] Ma 2004 | Table 3, p. 3, row 2 |  |
-| -166.448 kJ/mol-atom | ZrN | 0 | DFT | DFT (LDA) | [N–Zr](https://data.orchid-project.org/systems/N-ZR.html) | [1] Ma 2004 | Table 3, p. 3, row 1 |  |
+| -184.515 kJ/mol-atom | ZrN | 298.15 | experimental |  | [N–Zr](https://data.orchid-project.org/systems/N-ZR.html) | [1] Ma 2004; _cites Galbraikh 1970_ | Table 2, p. 2, row 18; `ORC-2S4RICR2I2` |  |
+| -184.515 kJ/mol-atom | ZrN | 298.15 | experimental |  | [N–Zr](https://data.orchid-project.org/systems/N-ZR.html) | [1] Ma 2004; _cites Galbraikh 1970_ | Table 3, p. 3, row 9; `ORC-5TQGCKQWLN` |  |
+| -183.887 kJ/mol-atom | ZrN | 298.15 | experimental |  | [N–Zr](https://data.orchid-project.org/systems/N-ZR.html) | [1] Ma 2004; _cites Smagina 1961_ | Table 2, p. 2, row 17; `ORC-MXSGT23H34` |  |
+| -183.887 kJ/mol-atom | ZrN | 298.15 | experimental |  | [N–Zr](https://data.orchid-project.org/systems/N-ZR.html) | [1] Ma 2004; _cites Smagina 1961_ | Table 3, p. 3, row 8; `ORC-XXEI5GGVM3` |  |
+| -182.75 kJ/mol-atom | ZrN | 298.15 | experimental |  | [N–Zr](https://data.orchid-project.org/systems/N-ZR.html) | [1] Ma 2004; _cites Brandes 1983_ | Table 2, p. 2, row 19; `ORC-AZGIARAFDR` |  |
+| -182.75 kJ/mol-atom | ZrN | 298.15 | experimental |  | [N–Zr](https://data.orchid-project.org/systems/N-ZR.html) | [1] Ma 2004; _cites Brandes 1983_ | Table 3, p. 3, row 10; `ORC-OOLIA2EMJD` |  |
+| -203 kJ/mol-atom | ZrN |  | model | Miedema | [N–Zr](https://data.orchid-project.org/systems/N-ZR.html) | [1] Ma 2004; _cites Fernandez 1992_ [doi](https://doi.org/10.1103/physrevb.45.11557) | Table 3, p. 3, row 11; `ORC-65SIUZEL4Y` |  |
+| -208.299 kJ/mol-atom | ZrN | 0 | DFT | DFT (GGA) | [N–Zr](https://data.orchid-project.org/systems/N-ZR.html) | [1] Ma 2004 | Table 3, p. 3, row 2; `ORC-4JQVV3PXLX` |  |
+| -166.448 kJ/mol-atom | ZrN | 0 | DFT | DFT (LDA) | [N–Zr](https://data.orchid-project.org/systems/N-ZR.html) | [1] Ma 2004 | Table 3, p. 3, row 1; `ORC-AFEDLPSM2Q` |  |
 
 ### Uncertainty budget
 
@@ -106,4 +106,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

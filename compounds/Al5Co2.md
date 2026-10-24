@@ -14,13 +14,13 @@ Table: Enthalpy of formation of Al5Co2 reported in the literature (7)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -48.65 kJ/mol-atom | Co2Al5 |  | DFT | DFT | [Al–Co](https://data.orchid-project.org/systems/AL-CO.html) | [1] Ostrowska 2019; _cites Shevchenko 2014_ [doi](https://doi.org/10.1134/s003602441405029x) | Table 2, p. 2, row 11 |  |
-| -44.98 kJ/mol-atom | Co2Al5 |  | DFT | DFT | [Al–Co](https://data.orchid-project.org/systems/AL-CO.html) | [1] Ostrowska 2019; _cites OQMD_ | Table 2, p. 2, row 9 |  |
-| -44.59 kJ/mol-atom | Co2Al5 |  | DFT | DFT | [Al–Co](https://data.orchid-project.org/systems/AL-CO.html) | [1] Ostrowska 2019; _cites AFLOW_ | Table 2, p. 2, row 12 |  |
-| -44.57 kJ/mol-atom | Al5Co2 | 0 | DFT | DFT | [Al–Co](https://data.orchid-project.org/systems/AL-CO.html) | [2] Wang 2017; _cites ref. 22_ | Table 1, p. 36, row 7 |  |
-| -44.38 kJ/mol-atom | Al5Co2 | 0 | DFT | DFT | [Al–Co](https://data.orchid-project.org/systems/AL-CO.html) | [2] Wang 2017; _cites ref. 21_ | Table 1, p. 36, row 5 |  |
-| -44.28 kJ/mol-atom | Al5Co2 | 0 | DFT | DFT | [Al–Co](https://data.orchid-project.org/systems/AL-CO.html) | [2] Wang 2017; _cites ref. 23_ | Table 1, p. 36, row 6 |  |
-| -44.21 kJ/mol-atom | Co2Al5 |  | DFT | DFT | [Al–Co](https://data.orchid-project.org/systems/AL-CO.html) | [1] Ostrowska 2019; _cites materialsproject_ | Table 2, p. 2, row 8 |  |
+| -48.65 kJ/mol-atom | Co2Al5 |  | DFT | DFT | [Al–Co](https://data.orchid-project.org/systems/AL-CO.html) | [1] Ostrowska 2019; _cites Shevchenko 2014_ [doi](https://doi.org/10.1134/s003602441405029x) | Table 2, p. 2, row 11; `ORC-BHPIDLUKUO` |  |
+| -44.98 kJ/mol-atom | Co2Al5 |  | DFT | DFT | [Al–Co](https://data.orchid-project.org/systems/AL-CO.html) | [1] Ostrowska 2019; _cites OQMD_ | Table 2, p. 2, row 9; `ORC-MSREM4JYEW` |  |
+| -44.59 kJ/mol-atom | Co2Al5 |  | DFT | DFT | [Al–Co](https://data.orchid-project.org/systems/AL-CO.html) | [1] Ostrowska 2019; _cites AFLOW_ | Table 2, p. 2, row 12; `ORC-EGIIFUTDZK` |  |
+| -44.57 kJ/mol-atom | Al5Co2 | 0 | DFT | DFT | [Al–Co](https://data.orchid-project.org/systems/AL-CO.html) | [2] Wang 2017; _cites ref. 22_ | Table 1, p. 36, row 7; `ORC-KBZS4CVLYM` |  |
+| -44.38 kJ/mol-atom | Al5Co2 | 0 | DFT | DFT | [Al–Co](https://data.orchid-project.org/systems/AL-CO.html) | [2] Wang 2017; _cites ref. 21_ | Table 1, p. 36, row 5; `ORC-BFN3HD2JG3` |  |
+| -44.28 kJ/mol-atom | Al5Co2 | 0 | DFT | DFT | [Al–Co](https://data.orchid-project.org/systems/AL-CO.html) | [2] Wang 2017; _cites ref. 23_ | Table 1, p. 36, row 6; `ORC-GTSUOAVHF2` |  |
+| -44.21 kJ/mol-atom | Co2Al5 |  | DFT | DFT | [Al–Co](https://data.orchid-project.org/systems/AL-CO.html) | [1] Ostrowska 2019; _cites materialsproject_ | Table 2, p. 2, row 8; `ORC-HNVDMOJ7WV` |  |
 
 ### Uncertainty budget
 
@@ -90,4 +90,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -28,18 +28,18 @@ Table: Formation, Bi–Ce–Er–Pr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy of formation; _printed: ΔSf_ | -6.36 J/mol (basis unstated)/K |  | Ce2Bi; _alloy: Ce 0.667_ | model | [1] Wang 2017 | Table 10, p. 7, row 10 |  |
-| Entropy of formation; _printed: ΔSf_ | -8.88 J/mol (basis unstated)/K |  | Ce4Bi3; _alloy: Ce 0.571_ | model | [1] Wang 2017 | Table 10, p. 7, row 8 |  |
-| Entropy of formation; _printed: ΔSf_ | -8.17 J/mol (basis unstated)/K |  | Ce5Bi3; _alloy: Ce 0.625_ | model | [1] Wang 2017 | Table 10, p. 7, row 9 |  |
-| Entropy of formation; _printed: ΔSf_ | -15.5 J/mol (basis unstated)/K |  | CeBi; _alloy: Ce 0.5_ | model | [1] Wang 2017 | Table 10, p. 7, row 7 |  |
-| Entropy of formation; _printed: ΔSf_ | -6.2 J/mol (basis unstated)/K |  | CeBi2; _alloy: Ce 0.333_ | model | [1] Wang 2017 | Table 10, p. 7, row 6 |  |
-| Entropy of formation; _printed: ΔSf_ | -2.54 J/mol (basis unstated)/K |  | Er5Bi3; _alloy: Er 0.625_ | model | [1] Wang 2017 | Table 10, p. 7, row 12 |  |
-| Entropy of formation; _printed: ΔSf_ | -1.93 J/mol (basis unstated)/K |  | ErBi; _alloy: Er 0.5_ | model | [1] Wang 2017 | Table 10, p. 7, row 11 |  |
-| Entropy of formation; _printed: ΔSf_ | 2.82 J/mol (basis unstated)/K |  | Pr2Bi; _alloy: Pr 0.667_ | model | [1] Wang 2017 | Table 10, p. 7, row 5 |  |
-| Entropy of formation; _printed: ΔSf_ | 8.33 J/mol (basis unstated)/K |  | Pr4Bi3; _alloy: Pr 0.571_ | model | [1] Wang 2017 | Table 10, p. 7, row 3 |  |
-| Entropy of formation; _printed: ΔSf_ | 4.64 J/mol (basis unstated)/K |  | Pr5Bi3; _alloy: Pr 0.625_ | model | [1] Wang 2017 | Table 10, p. 7, row 4 |  |
-| Entropy of formation; _printed: ΔSf_ | 7.56 J/mol (basis unstated)/K |  | PrBi; _alloy: Pr 0.5_ | model | [1] Wang 2017 | Table 10, p. 7, row 2 |  |
-| Entropy of formation; _printed: ΔSf_ | 5.92 J/mol (basis unstated)/K |  | PrBi2; _alloy: Pr 0.333_ | model | [1] Wang 2017 | Table 10, p. 7, row 1 |  |
+| Entropy of formation; _printed: ΔSf_ | -6.36 J/mol (basis unstated)/K |  | Ce2Bi; _alloy: Ce 0.667_ | model | [1] Wang 2017 | Table 10, p. 7, row 10; `ORC-NXYZLYGHWX` |  |
+| Entropy of formation; _printed: ΔSf_ | -8.88 J/mol (basis unstated)/K |  | Ce4Bi3; _alloy: Ce 0.571_ | model | [1] Wang 2017 | Table 10, p. 7, row 8; `ORC-ST6GWJWJAV` |  |
+| Entropy of formation; _printed: ΔSf_ | -8.17 J/mol (basis unstated)/K |  | Ce5Bi3; _alloy: Ce 0.625_ | model | [1] Wang 2017 | Table 10, p. 7, row 9; `ORC-EWVJHQL7XY` |  |
+| Entropy of formation; _printed: ΔSf_ | -15.5 J/mol (basis unstated)/K |  | CeBi; _alloy: Ce 0.5_ | model | [1] Wang 2017 | Table 10, p. 7, row 7; `ORC-QWFVNK6G3P` |  |
+| Entropy of formation; _printed: ΔSf_ | -6.2 J/mol (basis unstated)/K |  | CeBi2; _alloy: Ce 0.333_ | model | [1] Wang 2017 | Table 10, p. 7, row 6; `ORC-2PFCKSPRBL` |  |
+| Entropy of formation; _printed: ΔSf_ | -2.54 J/mol (basis unstated)/K |  | Er5Bi3; _alloy: Er 0.625_ | model | [1] Wang 2017 | Table 10, p. 7, row 12; `ORC-S2ZZSUWKJO` |  |
+| Entropy of formation; _printed: ΔSf_ | -1.93 J/mol (basis unstated)/K |  | ErBi; _alloy: Er 0.5_ | model | [1] Wang 2017 | Table 10, p. 7, row 11; `ORC-GCWN3OAVTA` |  |
+| Entropy of formation; _printed: ΔSf_ | 2.82 J/mol (basis unstated)/K |  | Pr2Bi; _alloy: Pr 0.667_ | model | [1] Wang 2017 | Table 10, p. 7, row 5; `ORC-OJMMMWLZU2` |  |
+| Entropy of formation; _printed: ΔSf_ | 8.33 J/mol (basis unstated)/K |  | Pr4Bi3; _alloy: Pr 0.571_ | model | [1] Wang 2017 | Table 10, p. 7, row 3; `ORC-77HJ5NJTA6` |  |
+| Entropy of formation; _printed: ΔSf_ | 4.64 J/mol (basis unstated)/K |  | Pr5Bi3; _alloy: Pr 0.625_ | model | [1] Wang 2017 | Table 10, p. 7, row 4; `ORC-WIY42FFWRC` |  |
+| Entropy of formation; _printed: ΔSf_ | 7.56 J/mol (basis unstated)/K |  | PrBi; _alloy: Pr 0.5_ | model | [1] Wang 2017 | Table 10, p. 7, row 2; `ORC-MFRSX2ZWJT` |  |
+| Entropy of formation; _printed: ΔSf_ | 5.92 J/mol (basis unstated)/K |  | PrBi2; _alloy: Pr 0.333_ | model | [1] Wang 2017 | Table 10, p. 7, row 1; `ORC-5F7SI7SOXF` |  |
 
 ## Sources
 
@@ -82,4 +82,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

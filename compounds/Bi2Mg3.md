@@ -14,18 +14,18 @@ Table: Enthalpy of formation of Bi2Mg3 reported in the literature (12)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -37.181 kJ/mol (basis unstated) | Bi2Mg3 | 298.15 | experimental | EMF | [Bi–Mg](https://data.orchid-project.org/systems/BI-MG.html) | [1] Acta Metall 2012; _cites Moser 1974_ | Table 3, p. 9, row 4 |  |
-| -31.403 kJ/mol (basis unstated) | Bi2Mg3 | 298.15 | experimental | Calorimetry | [Bi–Mg](https://data.orchid-project.org/systems/BI-MG.html) | [1] Acta Metall 2012; _cites Kubaschewski 1939_ | Table 3, p. 9, row 2 |  |
-| -31.403 kJ/mol (basis unstated) | Bi2Mg3 | 298.15 | experimental | Evaluated | [Bi–Mg](https://data.orchid-project.org/systems/BI-MG.html) | [1] Acta Metall 2012; _cites Kubaschewski 1956_ | Table 3, p. 9, row 3 |  |
-| -30.146 kJ/mol (basis unstated) | Bi2Mg3 | 298.15 | experimental | Calorimetry | [Bi–Mg](https://data.orchid-project.org/systems/BI-MG.html) | [1] Acta Metall 2012; _cites Seith 1937_ | Table 3, p. 9, row 1 |  |
-| -25.377 kJ/mol (basis unstated) | Bi2Mg3 | 298.15 | experimental | Evaluated | [Bi–Mg](https://data.orchid-project.org/systems/BI-MG.html) | [1] Acta Metall 2012; _cites Kubaschewski 1979_ | Table 3, p. 9, row 5 |  |
-| -34.08 kJ/mol (basis unstated) | Bi2Mg3 | 298.15 | model | Optimized | [Bi–Mg](https://data.orchid-project.org/systems/BI-MG.html) | [1] Acta Metall 2012; _cites Paliwal 2009_ | Table 3, p. 9, row 11 |  |
-| -33.884 kJ/mol (basis unstated) | Bi2Mg3 | 298.15 | model | Optimized | [Bi–Mg](https://data.orchid-project.org/systems/BI-MG.html) | [1] Acta Metall 2012 | Table 3, p. 9, row 12 |  |
-| -33.255 kJ/mol (basis unstated) | Bi2Mg3 | 298.15 | model | Optimized | [Bi–Mg](https://data.orchid-project.org/systems/BI-MG.html) | [1] Acta Metall 2012; _cites Oh 1992_ | Table 3, p. 9, row 7 |  |
-| -25.355 kJ/mol (basis unstated) | Bi2Mg3 | 298.15 | model | Calculated | [Bi–Mg](https://data.orchid-project.org/systems/BI-MG.html) | [1] Acta Metall 2012; _cites Alcock 1983_ | Table 3, p. 9, row 6 |  |
-| -71.276 kJ/mol (basis unstated) | Bi2Mg3 | 298.15 | DFT | First-principles calculated | [Bi–Mg](https://data.orchid-project.org/systems/BI-MG.html) | [1] Acta Metall 2012; _cites Zhou 2010_ | Table 3, p. 9, row 10 |  |
-| -31.454 kJ/mol (basis unstated) | Bi2Mg3 | 298.15 | DFT | First-principles calculated | [Bi–Mg](https://data.orchid-project.org/systems/BI-MG.html) | [1] Acta Metall 2012; _cites Zhou 2008_ | Table 3, p. 9, row 9 |  |
-| -24.369 kJ/mol (basis unstated) | Bi2Mg3 | 298.15 | DFT | First-principles calculated | [Bi–Mg](https://data.orchid-project.org/systems/BI-MG.html) | [1] Acta Metall 2012; _cites Curtarolo 2005_ | Table 3, p. 9, row 8 |  |
+| -37.181 kJ/mol (basis unstated) | Bi2Mg3 | 298.15 | experimental | EMF | [Bi–Mg](https://data.orchid-project.org/systems/BI-MG.html) | [1] Acta Metall 2012; _cites Moser 1974_ | Table 3, p. 9, row 4; `ORC-EUELE5R5TK` |  |
+| -31.403 kJ/mol (basis unstated) | Bi2Mg3 | 298.15 | experimental | Calorimetry | [Bi–Mg](https://data.orchid-project.org/systems/BI-MG.html) | [1] Acta Metall 2012; _cites Kubaschewski 1939_ | Table 3, p. 9, row 2; `ORC-6XNNRNBTSN` |  |
+| -31.403 kJ/mol (basis unstated) | Bi2Mg3 | 298.15 | experimental | Evaluated | [Bi–Mg](https://data.orchid-project.org/systems/BI-MG.html) | [1] Acta Metall 2012; _cites Kubaschewski 1956_ | Table 3, p. 9, row 3; `ORC-Y646EHXO7E` |  |
+| -30.146 kJ/mol (basis unstated) | Bi2Mg3 | 298.15 | experimental | Calorimetry | [Bi–Mg](https://data.orchid-project.org/systems/BI-MG.html) | [1] Acta Metall 2012; _cites Seith 1937_ | Table 3, p. 9, row 1; `ORC-JXONFEMFAZ` |  |
+| -25.377 kJ/mol (basis unstated) | Bi2Mg3 | 298.15 | experimental | Evaluated | [Bi–Mg](https://data.orchid-project.org/systems/BI-MG.html) | [1] Acta Metall 2012; _cites Kubaschewski 1979_ | Table 3, p. 9, row 5; `ORC-IECNMW7TT7` |  |
+| -34.08 kJ/mol (basis unstated) | Bi2Mg3 | 298.15 | model | Optimized | [Bi–Mg](https://data.orchid-project.org/systems/BI-MG.html) | [1] Acta Metall 2012; _cites Paliwal 2009_ | Table 3, p. 9, row 11; `ORC-CIOGQKWB7B` |  |
+| -33.884 kJ/mol (basis unstated) | Bi2Mg3 | 298.15 | model | Optimized | [Bi–Mg](https://data.orchid-project.org/systems/BI-MG.html) | [1] Acta Metall 2012 | Table 3, p. 9, row 12; `ORC-WYXPNHLE6S` |  |
+| -33.255 kJ/mol (basis unstated) | Bi2Mg3 | 298.15 | model | Optimized | [Bi–Mg](https://data.orchid-project.org/systems/BI-MG.html) | [1] Acta Metall 2012; _cites Oh 1992_ | Table 3, p. 9, row 7; `ORC-GCR4FELX6E` |  |
+| -25.355 kJ/mol (basis unstated) | Bi2Mg3 | 298.15 | model | Calculated | [Bi–Mg](https://data.orchid-project.org/systems/BI-MG.html) | [1] Acta Metall 2012; _cites Alcock 1983_ | Table 3, p. 9, row 6; `ORC-VTOPOL6VOY` |  |
+| -71.276 kJ/mol (basis unstated) | Bi2Mg3 | 298.15 | DFT | First-principles calculated | [Bi–Mg](https://data.orchid-project.org/systems/BI-MG.html) | [1] Acta Metall 2012; _cites Zhou 2010_ | Table 3, p. 9, row 10; `ORC-K2W7RY232L` |  |
+| -31.454 kJ/mol (basis unstated) | Bi2Mg3 | 298.15 | DFT | First-principles calculated | [Bi–Mg](https://data.orchid-project.org/systems/BI-MG.html) | [1] Acta Metall 2012; _cites Zhou 2008_ | Table 3, p. 9, row 9; `ORC-6AOKHSXHJ7` |  |
+| -24.369 kJ/mol (basis unstated) | Bi2Mg3 | 298.15 | DFT | First-principles calculated | [Bi–Mg](https://data.orchid-project.org/systems/BI-MG.html) | [1] Acta Metall 2012; _cites Curtarolo 2005_ | Table 3, p. 9, row 8; `ORC-5AQHNO6T6D` |  |
 
 ### Uncertainty budget
 
@@ -99,4 +99,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

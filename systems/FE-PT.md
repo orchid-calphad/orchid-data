@@ -63,9 +63,9 @@ Table: Enthalpies of formation, Fe–Pt system (3)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Fe3Pt |  | -19.361 kJ/mol-atom | 0 | DFT |  |  | [1] Kim 2011 | Table 3, p. 3, row 8 |  |
-| FePt |  | -30.924 kJ/mol-atom | 0 | DFT |  |  | [1] Kim 2011 | Table 3, p. 3, row 8 |  |
-| FePt3 |  | -23.233 kJ/mol-atom | 0 | DFT |  |  | [1] Kim 2011 | Table 3, p. 3, row 8 |  |
+| Fe3Pt |  | -19.361 kJ/mol-atom | 0 | DFT |  |  | [1] Kim 2011 | Table 3, p. 3, row 8; `ORC-BXGGLN5PDE.020c47` |  |
+| FePt |  | -30.924 kJ/mol-atom | 0 | DFT |  |  | [1] Kim 2011 | Table 3, p. 3, row 8; `ORC-BXGGLN5PDE.db380e` |  |
+| FePt3 |  | -23.233 kJ/mol-atom | 0 | DFT |  |  | [1] Kim 2011 | Table 3, p. 3, row 8; `ORC-BXGGLN5PDE.6608bd` |  |
 
 ## Other properties
 
@@ -75,9 +75,9 @@ Table: Mixing / partial, Fe–Pt system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: ΔHmix_ | -44.25 kJ/mol-atom | 0 | Fe3Pt; _alloy: Pt 0.25_ | model | [1] Kim 2011; _cites Fredriksson 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900006-8) | Table 3, p. 3, row 9 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -65.25 kJ/mol-atom | 0 | FePt; _alloy: Pt 0.5_ | model | [1] Kim 2011; _cites Fredriksson 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900006-8) | Table 3, p. 3, row 9 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -48.938 kJ/mol-atom | 0 | FePt3; _alloy: Pt 0.75_ | model | [1] Kim 2011; _cites Fredriksson 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900006-8) | Table 3, p. 3, row 9 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -44.25 kJ/mol-atom | 0 | Fe3Pt; _alloy: Pt 0.25_ | model | [1] Kim 2011; _cites Fredriksson 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900006-8) | Table 3, p. 3, row 9; `ORC-DJAYKALRYF.bc0b7d` |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -65.25 kJ/mol-atom | 0 | FePt; _alloy: Pt 0.5_ | model | [1] Kim 2011; _cites Fredriksson 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900006-8) | Table 3, p. 3, row 9; `ORC-DJAYKALRYF.9b784f` |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -48.938 kJ/mol-atom | 0 | FePt3; _alloy: Pt 0.75_ | model | [1] Kim 2011; _cites Fredriksson 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900006-8) | Table 3, p. 3, row 9; `ORC-DJAYKALRYF.d4591a` |  |
 
 ### Crystal structure (7)
 
@@ -85,13 +85,13 @@ Table: Crystal structure, Fe–Pt system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a; _printed: a_ | 3.73 Å |  | Fe3Pt; _alloy: Pt 0.25_ | experimental | [1] Kim 2011; _cites Leroux 1988_ | Table 3, p. 3, row 2 |  |
-| Lattice a; _printed: a_ | 3.737 Å | 0 | Fe3Pt; _alloy: Pt 0.25_ | DFT | [1] Kim 2011 | Table 3, p. 3, row 1 |  |
-| Lattice a; _printed: a_ | 3.861 Å |  | FePt; _alloy: Pt 0.5_ | experimental | [1] Kim 2011; _cites Leroux 1988_ | Table 3, p. 3, row 2 |  |
-| Lattice a; _printed: a_ | 3.855 Å | 0 | FePt; _alloy: Pt 0.5_ | DFT | [1] Kim 2011 | Table 3, p. 3, row 1 |  |
-| Lattice a; _printed: a_ | 3.911 Å | 0 | FePt3; _alloy: Pt 0.75_ | DFT | [1] Kim 2011 | Table 3, p. 3, row 1 |  |
-| Lattice c; _printed: c_ | 3.788 Å |  | FePt; _alloy: Pt 0.5_ | experimental | [1] Kim 2011; _cites Galanakis 2000_ [doi](https://doi.org/10.1103/physrevb.62.6475) | Table 3, p. 3, row 4 |  |
-| Lattice c; _printed: c_ | 3.757 Å | 0 | FePt; _alloy: Pt 0.5_ | DFT | [1] Kim 2011 | Table 3, p. 3, row 3 |  |
+| Lattice a; _printed: a_ | 3.73 Å |  | Fe3Pt; _alloy: Pt 0.25_ | experimental | [1] Kim 2011; _cites Leroux 1988_ | Table 3, p. 3, row 2; `ORC-A23AHKCJIL.272600` |  |
+| Lattice a; _printed: a_ | 3.737 Å | 0 | Fe3Pt; _alloy: Pt 0.25_ | DFT | [1] Kim 2011 | Table 3, p. 3, row 1; `ORC-IMKVUHKLJI.b4abe8` |  |
+| Lattice a; _printed: a_ | 3.861 Å |  | FePt; _alloy: Pt 0.5_ | experimental | [1] Kim 2011; _cites Leroux 1988_ | Table 3, p. 3, row 2; `ORC-A23AHKCJIL.7577b0` |  |
+| Lattice a; _printed: a_ | 3.855 Å | 0 | FePt; _alloy: Pt 0.5_ | DFT | [1] Kim 2011 | Table 3, p. 3, row 1; `ORC-IMKVUHKLJI.439975` |  |
+| Lattice a; _printed: a_ | 3.911 Å | 0 | FePt3; _alloy: Pt 0.75_ | DFT | [1] Kim 2011 | Table 3, p. 3, row 1; `ORC-IMKVUHKLJI.1b2411` |  |
+| Lattice c; _printed: c_ | 3.788 Å |  | FePt; _alloy: Pt 0.5_ | experimental | [1] Kim 2011; _cites Galanakis 2000_ [doi](https://doi.org/10.1103/physrevb.62.6475) | Table 3, p. 3, row 4; `ORC-33TIH35OVZ` |  |
+| Lattice c; _printed: c_ | 3.757 Å | 0 | FePt; _alloy: Pt 0.5_ | DFT | [1] Kim 2011 | Table 3, p. 3, row 3; `ORC-C7VA2UX3H2` |  |
 
 ## Sources
 
@@ -156,4 +156,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

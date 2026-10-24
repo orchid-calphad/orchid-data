@@ -14,13 +14,13 @@ Table: Enthalpy of formation of AuCe2 reported in the literature (7)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -55 kJ/mol-atom ± 1 | AuCe2 | 300 | experimental | calorimetry | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [1] Dong 2013; _cites Ferro 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2900969-0) | Table 4, p. 4, row 2 |  |
-| -55 kJ/mol-atom ± 1 | Ce2Au | 298.15 | experimental | Calorimetry | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [2] Moustaine 2016; _cites Ferro 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2900969-0) | Table 2, p. 3, row 1 |  |
-| -61 kJ/mol-atom | Ce2Au | 298.15 | model | Optimization | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [2] Moustaine 2016 | Table 2, p. 3, row 4 |  |
-| -59.39 kJ/mol-atom | Ce2Au | 298.15 | model | Optimization | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [2] Moustaine 2016; _cites Dong 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.013) | Table 2, p. 3, row 3 |  |
-| -59.39 kJ/mol-atom | AuCe2 | 289 | model |  | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [1] Dong 2013 | Table 4, p. 4, row 3 |  |
-| -50.99 kJ/mol-atom | AuCe2 | 0 | DFT |  | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [1] Dong 2013 | Table 4, p. 4, row 1 |  |
-| -50.99 kJ/mol-atom | Ce2Au | 298.15 | DFT | ab initio | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [2] Moustaine 2016; _cites Blo_ | Table 2, p. 3, row 2 |  |
+| -55 kJ/mol-atom ± 1 | AuCe2 | 300 | experimental | calorimetry | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [1] Dong 2013; _cites Ferro 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2900969-0) | Table 4, p. 4, row 2; `ORC-LC36P5ST3G.22d965` |  |
+| -55 kJ/mol-atom ± 1 | Ce2Au | 298.15 | experimental | Calorimetry | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [2] Moustaine 2016; _cites Ferro 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2900969-0) | Table 2, p. 3, row 1; `ORC-YG5VZSJBNB` |  |
+| -61 kJ/mol-atom | Ce2Au | 298.15 | model | Optimization | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [2] Moustaine 2016 | Table 2, p. 3, row 4; `ORC-I6GM274ODM.33b7f7` |  |
+| -59.39 kJ/mol-atom | Ce2Au | 298.15 | model | Optimization | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [2] Moustaine 2016; _cites Dong 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.013) | Table 2, p. 3, row 3; `ORC-KDL6FTJ5DC.6fc601` |  |
+| -59.39 kJ/mol-atom | AuCe2 | 289 | model |  | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [1] Dong 2013 | Table 4, p. 4, row 3; `ORC-O66LPME357.dce0e3` |  |
+| -50.99 kJ/mol-atom | AuCe2 | 0 | DFT |  | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [1] Dong 2013 | Table 4, p. 4, row 1; `ORC-G3N4GWDCFE.3a17a5` |  |
+| -50.99 kJ/mol-atom | Ce2Au | 298.15 | DFT | ab initio | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [2] Moustaine 2016; _cites Blo_ | Table 2, p. 3, row 2; `ORC-I5RYCRWVMX` |  |
 
 ### Uncertainty budget
 
@@ -103,4 +103,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

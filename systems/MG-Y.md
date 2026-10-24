@@ -88,33 +88,33 @@ Table: Invariant reactions reported in the literature for the Mg–Y system (27)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1215 | peritectic: L + (βY) -> Y1-xMg | L: Y 0.472; (βY): Y 0.58; Y1-xMg: Y 0.498 | model | [1] Fabrichnaya 2003 | Table 3, p. 4, row 2 |  |
-| 1213.3 | peritectic: Liquid + bcc-A2 -> MgY | L: Y 0.466; bcc-A2: Y 0.588; MgY: Y 0.494 | unspecified | [2] Hämäläinen 1998 | Table I, p. 242, row 1 |  |
-| 1213 | peritectic: L + (βY) -> Y1-xMg | L: Y 0.466; (βY): Y 0.588; Y1-xMg: Y 0.494 | experimental | [1] Fabrichnaya 2003; _cites Fabrichnaya_ | Table 3, p. 4, row 1 |  |
-| 1213 | liq. -> MgY + bcc(Y) | liq.: Y 0.45; MgY: Y 0.5; bcc(Y): Y 0.605 | experimental | [3] Guo 2007; _cites Nayeb-Hashemi 1988_ | Table 2, p. 8, row 4 |  |
-| 1213 | liq. -> MgY + bcc(Y) | liq.: Y 0.4805; MgY: Y 0.5; bcc(Y): Y 0.6023 | model | [3] Guo 2007 | Table 2, p. 8, row 3 |  |
-| 1058.5 | peritectic: Liquid + MgY -> Mg2Y | L: Y 0.276; MgY: Y 0.474; Mg2Y: Y 0.333 | unspecified | [2] Hämäläinen 1998 | Table I, p. 242, row 2 |  |
-| 1058 | peritectic: L + Y1-xMg -> Y1-xMg2 | L: Y 0.276; Y1-xMg: Y 0.474; Y1-xMg2: Y 0.333 | experimental | [1] Fabrichnaya 2003; _cites Fabrichnaya_ | Table 3, p. 4, row 3 |  |
-| 1058 | liq. + MgY -> Mg2Y | liq.: Y 0.3096; MgY: Y 0.463; Mg2Y: Y 0.3278 | model | [3] Guo 2007 | Table 2, p. 8, row 5 |  |
-| 1056 | peritectic: L + Y1-xMg -> Y1-xMg2 | L: Y 0.289; Y1-xMg: Y 0.466; Y1-xMg2: Y 0.323 | model | [1] Fabrichnaya 2003 | Table 3, p. 4, row 4 |  |
-| 1053 | liq. + MgY -> Mg2Y | liq.: Y 0.263; MgY: Y 0.48; Mg2Y: Y 0.333 | experimental | [3] Guo 2007; _cites Nayeb-Hashemi 1988_ | Table 2, p. 8, row 6 |  |
-| 1048.15 | eutectic |  | experimental | [4] Shakhshir 2006 | p. 3 | “A eutectic reaction was identified at 74 wt.% Mg and 567 °C, and a eutectoid reaction associated with an allotropic transformation in Y at 11 wt.% Mg and 775 °C.” |
-| 1048 | bcc(Y) -> MgY + hcp(Y) | bcc(Y): Y 0.69; MgY: Y 0.5; hcp(Y): Y 0.84 | experimental | [3] Guo 2007; _cites Nayeb-Hashemi 1988_ | Table 2, p. 8, row 2 |  |
-| 1048 | eutectoid: bcc-A2 -> MgY + hcp-A3 | bcc-A2: Y 0.717; MgY: Y 0.499; hcp-A3: Y 0.841 | unspecified | [2] Hämäläinen 1998 | Table I, p. 242, row 5 |  |
-| 1048 | eutectoid: (βY) -> (αY) + Y1-xMg | (βY): Y 0.717; (αY): Y 0.841; Y1-xMg: Y 0.499 | experimental | [1] Fabrichnaya 2003; _cites Fabrichnaya_ | Table 3, p. 4, row 5 |  |
-| 1048 | bcc(Y) -> MgY + hcp(Y) | bcc(Y): Y 0.6876; MgY: Y 0.508; hcp(Y): Y 0.7717 | model | [3] Guo 2007 | Table 2, p. 8, row 1 |  |
-| 1047 | eutectoid: (βY) -> (αY) + Y1-xMg | (βY): Y 0.69; (αY): Y 0.797; Y1-xMg: Y 0.505 | model | [1] Fabrichnaya 2003 | Table 3, p. 4, row 6 |  |
-| 890 | peritectic: L + Y1-xMg2 -> Y5-xMg24 | L: Y 0.146; Y1-xMg2: Y 0.26; Y5-xMg24: Y 0.163 | experimental | [1] Fabrichnaya 2003; _cites Fabrichnaya_ | Table 3, p. 4, row 7 |  |
-| 890 | liq. + Mg2Y -> Mg24Y5 | liq.: Y 0.125; Mg2Y: Y 0.26; Mg24Y5: Y 0.172 | experimental | [3] Guo 2007; _cites Nayeb-Hashemi 1988_ | Table 2, p. 8, row 8 |  |
-| 889.4 | peritectic: Liquid+ Mg2Y -> Mg24Y5 | L: Y 0.146; Mg2Y: Y 0.333; Mg24Y5: Y 0.163 | unspecified | [2] Hämäläinen 1998 | Table I, p. 242, row 3 |  |
-| 889 | liq. + Mg2Y -> Mg24Y5 | liq.: Y 0.1448; Mg2Y: Y 0.2659; Mg24Y5: Y 0.163 | model | [3] Guo 2007 | Table 2, p. 8, row 7 |  |
-| 881 | peritectic: L + Y1-xMg2 -> Y5-xMg24 | L: Y 0.141; Y1-xMg2: Y 0.264; Y5-xMg24: Y 0.16 | model | [1] Fabrichnaya 2003 | Table 3, p. 4, row 8 |  |
-| 847.6 | eutectic: Liquid -> hcp-A3 + Mg24Y5 | L: Y 0.082; hcp-A3: Y 0.042; Mg24Y5: Y 0.136 | unspecified | [2] Hämäläinen 1998 | Table I, p. 242, row 4 |  |
-| 845 | eutectic: L -> Y5-xMg24 + (Mg) | L: Y 0.082; Y5-xMg24: Y 0.135; (Mg): Y 0.035 | model | [1] Fabrichnaya 2003 | Table 3, p. 4, row 10 |  |
-| 841 | liq. -> Mg24Y5 + hcp(Mg) | liq.: Y 0.0845; Mg24Y5: Y 0.141; hcp(Mg): Y 0.0363 | model | [3] Guo 2007 | Table 2, p. 8, row 9 |  |
-| 840.15 | eutectic |  | experimental | [4] Shakhshir 2006 | p. 3 | “A eutectic reaction was identified at 74 wt.% Mg and 567 °C, and a eutectoid reaction associated with an allotropic transformation in Y at 11 wt.% Mg and 775 °C.” |
-| 839 | liq. -> Mg24Y5 + hcp(Mg) | liq.: Y 0.089; Mg24Y5: Y 0.14; hcp(Mg): Y 0.038 | experimental | [3] Guo 2007; _cites Nayeb-Hashemi 1988_ | Table 2, p. 8, row 10 |  |
-| 839 | eutectic: L -> Y5-xMg24 + (Mg) | L: Y 0.089; Y5-xMg24: Y 0.135; (Mg): Y 0.0375 | experimental | [1] Fabrichnaya 2003; _cites Fabrichnaya_ | Table 3, p. 4, row 9 |  |
+| 1215 | peritectic: L + (βY) -> Y1-xMg | L: Y 0.472; (βY): Y 0.58; Y1-xMg: Y 0.498 | model | [1] Fabrichnaya 2003 | Table 3, p. 4, row 2; `ORC-2N5GWYYYM6` |  |
+| 1213.3 | peritectic: Liquid + bcc-A2 -> MgY | L: Y 0.466; bcc-A2: Y 0.588; MgY: Y 0.494 | unspecified | [2] Hämäläinen 1998 | Table I, p. 242, row 1; `ORC-M4CVV44NGQ` |  |
+| 1213 | peritectic: L + (βY) -> Y1-xMg | L: Y 0.466; (βY): Y 0.588; Y1-xMg: Y 0.494 | experimental | [1] Fabrichnaya 2003; _cites Fabrichnaya_ | Table 3, p. 4, row 1; `ORC-PG3CQZ6MKZ` |  |
+| 1213 | liq. -> MgY + bcc(Y) | liq.: Y 0.45; MgY: Y 0.5; bcc(Y): Y 0.605 | experimental | [3] Guo 2007; _cites Nayeb-Hashemi 1988_ | Table 2, p. 8, row 4; `ORC-RUALSANOWZ` |  |
+| 1213 | liq. -> MgY + bcc(Y) | liq.: Y 0.4805; MgY: Y 0.5; bcc(Y): Y 0.6023 | model | [3] Guo 2007 | Table 2, p. 8, row 3; `ORC-SHKLQ3BHYP` |  |
+| 1058.5 | peritectic: Liquid + MgY -> Mg2Y | L: Y 0.276; MgY: Y 0.474; Mg2Y: Y 0.333 | unspecified | [2] Hämäläinen 1998 | Table I, p. 242, row 2; `ORC-6FFFRWZSC3` |  |
+| 1058 | peritectic: L + Y1-xMg -> Y1-xMg2 | L: Y 0.276; Y1-xMg: Y 0.474; Y1-xMg2: Y 0.333 | experimental | [1] Fabrichnaya 2003; _cites Fabrichnaya_ | Table 3, p. 4, row 3; `ORC-QKDL2FZDIY` |  |
+| 1058 | liq. + MgY -> Mg2Y | liq.: Y 0.3096; MgY: Y 0.463; Mg2Y: Y 0.3278 | model | [3] Guo 2007 | Table 2, p. 8, row 5; `ORC-UJWJV4WZ2C` |  |
+| 1056 | peritectic: L + Y1-xMg -> Y1-xMg2 | L: Y 0.289; Y1-xMg: Y 0.466; Y1-xMg2: Y 0.323 | model | [1] Fabrichnaya 2003 | Table 3, p. 4, row 4; `ORC-NZWAQ6WUD2` |  |
+| 1053 | liq. + MgY -> Mg2Y | liq.: Y 0.263; MgY: Y 0.48; Mg2Y: Y 0.333 | experimental | [3] Guo 2007; _cites Nayeb-Hashemi 1988_ | Table 2, p. 8, row 6; `ORC-7M7U7FCPYG` |  |
+| 1048.15 | eutectic |  | experimental | [4] Shakhshir 2006 | p. 3; `ORC-4THV5QWOUC.e38810` | “A eutectic reaction was identified at 74 wt.% Mg and 567 °C, and a eutectoid reaction associated with an allotropic transformation in Y at 11 wt.% Mg and 775 °C.” |
+| 1048 | bcc(Y) -> MgY + hcp(Y) | bcc(Y): Y 0.69; MgY: Y 0.5; hcp(Y): Y 0.84 | experimental | [3] Guo 2007; _cites Nayeb-Hashemi 1988_ | Table 2, p. 8, row 2; `ORC-5P2NNWKCZS` |  |
+| 1048 | eutectoid: bcc-A2 -> MgY + hcp-A3 | bcc-A2: Y 0.717; MgY: Y 0.499; hcp-A3: Y 0.841 | unspecified | [2] Hämäläinen 1998 | Table I, p. 242, row 5; `ORC-ASST75ANHJ` |  |
+| 1048 | eutectoid: (βY) -> (αY) + Y1-xMg | (βY): Y 0.717; (αY): Y 0.841; Y1-xMg: Y 0.499 | experimental | [1] Fabrichnaya 2003; _cites Fabrichnaya_ | Table 3, p. 4, row 5; `ORC-OCPY52HA6I` |  |
+| 1048 | bcc(Y) -> MgY + hcp(Y) | bcc(Y): Y 0.6876; MgY: Y 0.508; hcp(Y): Y 0.7717 | model | [3] Guo 2007 | Table 2, p. 8, row 1; `ORC-RSLBJKCSEW` |  |
+| 1047 | eutectoid: (βY) -> (αY) + Y1-xMg | (βY): Y 0.69; (αY): Y 0.797; Y1-xMg: Y 0.505 | model | [1] Fabrichnaya 2003 | Table 3, p. 4, row 6; `ORC-KTZKOVBDUM` |  |
+| 890 | peritectic: L + Y1-xMg2 -> Y5-xMg24 | L: Y 0.146; Y1-xMg2: Y 0.26; Y5-xMg24: Y 0.163 | experimental | [1] Fabrichnaya 2003; _cites Fabrichnaya_ | Table 3, p. 4, row 7; `ORC-52SKPQHGYX` |  |
+| 890 | liq. + Mg2Y -> Mg24Y5 | liq.: Y 0.125; Mg2Y: Y 0.26; Mg24Y5: Y 0.172 | experimental | [3] Guo 2007; _cites Nayeb-Hashemi 1988_ | Table 2, p. 8, row 8; `ORC-P2ZSUNE4VE` |  |
+| 889.4 | peritectic: Liquid+ Mg2Y -> Mg24Y5 | L: Y 0.146; Mg2Y: Y 0.333; Mg24Y5: Y 0.163 | unspecified | [2] Hämäläinen 1998 | Table I, p. 242, row 3; `ORC-6GMPET4UDS` |  |
+| 889 | liq. + Mg2Y -> Mg24Y5 | liq.: Y 0.1448; Mg2Y: Y 0.2659; Mg24Y5: Y 0.163 | model | [3] Guo 2007 | Table 2, p. 8, row 7; `ORC-75RDNUD7JW` |  |
+| 881 | peritectic: L + Y1-xMg2 -> Y5-xMg24 | L: Y 0.141; Y1-xMg2: Y 0.264; Y5-xMg24: Y 0.16 | model | [1] Fabrichnaya 2003 | Table 3, p. 4, row 8; `ORC-ADARSIZUWL` |  |
+| 847.6 | eutectic: Liquid -> hcp-A3 + Mg24Y5 | L: Y 0.082; hcp-A3: Y 0.042; Mg24Y5: Y 0.136 | unspecified | [2] Hämäläinen 1998 | Table I, p. 242, row 4; `ORC-PYC2MC5W7H` |  |
+| 845 | eutectic: L -> Y5-xMg24 + (Mg) | L: Y 0.082; Y5-xMg24: Y 0.135; (Mg): Y 0.035 | model | [1] Fabrichnaya 2003 | Table 3, p. 4, row 10; `ORC-4YKJPHSBVX` |  |
+| 841 | liq. -> Mg24Y5 + hcp(Mg) | liq.: Y 0.0845; Mg24Y5: Y 0.141; hcp(Mg): Y 0.0363 | model | [3] Guo 2007 | Table 2, p. 8, row 9; `ORC-BBX5RTGV7Z` |  |
+| 840.15 | eutectic |  | experimental | [4] Shakhshir 2006 | p. 3; `ORC-4THV5QWOUC.5b9a26` | “A eutectic reaction was identified at 74 wt.% Mg and 567 °C, and a eutectoid reaction associated with an allotropic transformation in Y at 11 wt.% Mg and 775 °C.” |
+| 839 | liq. -> Mg24Y5 + hcp(Mg) | liq.: Y 0.089; Mg24Y5: Y 0.14; hcp(Mg): Y 0.038 | experimental | [3] Guo 2007; _cites Nayeb-Hashemi 1988_ | Table 2, p. 8, row 10; `ORC-B643XZGLXZ` |  |
+| 839 | eutectic: L -> Y5-xMg24 + (Mg) | L: Y 0.089; Y5-xMg24: Y 0.135; (Mg): Y 0.0375 | experimental | [1] Fabrichnaya 2003; _cites Fabrichnaya_ | Table 3, p. 4, row 9; `ORC-FL5TISBU26` |  |
 
 ## Formation enthalpies
 
@@ -124,16 +124,16 @@ Table: Enthalpies of formation, Mg–Y system (10)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Y5Mg24 | [Mg24Y5](https://data.orchid-project.org/compounds/Mg24Y5.html) | -7.8 kJ/mol-atom |  | model | -5.219 (mp-aaaaacym) | -5.806 (oqmd-19035) | [1] Fabrichnaya 2003 | Table 4, p. 5, row 14 |  |
-| Y5Mg24 | [Mg24Y5](https://data.orchid-project.org/compounds/Mg24Y5.html) | -7.53 kJ/mol-atom | 298.15 | experimental | -5.219 (mp-aaaaacym) | -5.806 (oqmd-19035) | [1] Fabrichnaya 2003; _cites Smith 1965_ | Table 4, p. 5, row 12 |  |
-| Y5Mg24 | [Mg24Y5](https://data.orchid-project.org/compounds/Mg24Y5.html) | -6.1 kJ/mol-atom | 298.15 | experimental | -5.219 (mp-aaaaacym) | -5.806 (oqmd-19035) | [1] Fabrichnaya 2003; _cites Pyagai 1990_ | Table 4, p. 5, row 13 |  |
-| YMg | [MgY](https://data.orchid-project.org/compounds/MgY.html) | -30.3 kJ/mol-atom | 298.15 | experimental | -10.689 (mp-aaaaaaxr) | -10.582 (oqmd-1221128) | [1] Fabrichnaya 2003; _cites Pyagai 1990_ | Table 4, p. 5, row 2 |  |
-| YMg | [MgY](https://data.orchid-project.org/compounds/MgY.html) | -15.6 kJ/mol-atom |  | model | -10.689 (mp-aaaaaaxr) | -10.582 (oqmd-1221128) | [1] Fabrichnaya 2003 | Table 4, p. 5, row 3 |  |
-| YMg | [MgY](https://data.orchid-project.org/compounds/MgY.html) | -12.6 kJ/mol-atom | 298.15 | experimental | -10.689 (mp-aaaaaaxr) | -10.582 (oqmd-1221128) | [1] Fabrichnaya 2003; _cites Smith 1965_ | Table 4, p. 5, row 1 |  |
-| YMg2 | [Mg2Y](https://data.orchid-project.org/compounds/Mg2Y.html) | -17.7 kJ/mol-atom | 298.15 | experimental | -8.564 (mp-aaacppey) | -9.233 (oqmd-35188) | [1] Fabrichnaya 2003; _cites Bonhomme 1996_ [doi](https://doi.org/10.1016/0925-8388%2895%2901927-8) | Table 4, p. 5, row 8 |  |
-| YMg2 | [Mg2Y](https://data.orchid-project.org/compounds/Mg2Y.html) | -14.2 kJ/mol-atom | 298.15 | experimental | -8.564 (mp-aaacppey) | -9.233 (oqmd-35188) | [1] Fabrichnaya 2003; _cites Smith 1965_ | Table 4, p. 5, row 6 |  |
-| YMg2 | [Mg2Y](https://data.orchid-project.org/compounds/Mg2Y.html) | -12.6 kJ/mol-atom |  | model | -8.564 (mp-aaacppey) | -9.233 (oqmd-35188) | [1] Fabrichnaya 2003 | Table 4, p. 5, row 9 |  |
-| YMg2 | [Mg2Y](https://data.orchid-project.org/compounds/Mg2Y.html) | -12 kJ/mol-atom | 298.15 | experimental | -8.564 (mp-aaacppey) | -9.233 (oqmd-35188) | [1] Fabrichnaya 2003; _cites Pyagai 1990_ | Table 4, p. 5, row 7 |  |
+| Y5Mg24 | [Mg24Y5](https://data.orchid-project.org/compounds/Mg24Y5.html) | -7.8 kJ/mol-atom |  | model | -5.219 (mp-aaaaacym) | -5.806 (oqmd-19035) | [1] Fabrichnaya 2003 | Table 4, p. 5, row 14; `ORC-BWIEZGMPTQ.9971d6` |  |
+| Y5Mg24 | [Mg24Y5](https://data.orchid-project.org/compounds/Mg24Y5.html) | -7.53 kJ/mol-atom | 298.15 | experimental | -5.219 (mp-aaaaacym) | -5.806 (oqmd-19035) | [1] Fabrichnaya 2003; _cites Smith 1965_ | Table 4, p. 5, row 12; `ORC-EX4LZX3VS4.3747c8` |  |
+| Y5Mg24 | [Mg24Y5](https://data.orchid-project.org/compounds/Mg24Y5.html) | -6.1 kJ/mol-atom | 298.15 | experimental | -5.219 (mp-aaaaacym) | -5.806 (oqmd-19035) | [1] Fabrichnaya 2003; _cites Pyagai 1990_ | Table 4, p. 5, row 13; `ORC-QHJH57VUHP.eeea42` |  |
+| YMg | [MgY](https://data.orchid-project.org/compounds/MgY.html) | -30.3 kJ/mol-atom | 298.15 | experimental | -10.689 (mp-aaaaaaxr) | -10.582 (oqmd-1221128) | [1] Fabrichnaya 2003; _cites Pyagai 1990_ | Table 4, p. 5, row 2; `ORC-762YX4YIBD.b779ea` |  |
+| YMg | [MgY](https://data.orchid-project.org/compounds/MgY.html) | -15.6 kJ/mol-atom |  | model | -10.689 (mp-aaaaaaxr) | -10.582 (oqmd-1221128) | [1] Fabrichnaya 2003 | Table 4, p. 5, row 3; `ORC-IQTZO7QPAN.879992` |  |
+| YMg | [MgY](https://data.orchid-project.org/compounds/MgY.html) | -12.6 kJ/mol-atom | 298.15 | experimental | -10.689 (mp-aaaaaaxr) | -10.582 (oqmd-1221128) | [1] Fabrichnaya 2003; _cites Smith 1965_ | Table 4, p. 5, row 1; `ORC-CYC6AI774I.f54d0e` |  |
+| YMg2 | [Mg2Y](https://data.orchid-project.org/compounds/Mg2Y.html) | -17.7 kJ/mol-atom | 298.15 | experimental | -8.564 (mp-aaacppey) | -9.233 (oqmd-35188) | [1] Fabrichnaya 2003; _cites Bonhomme 1996_ [doi](https://doi.org/10.1016/0925-8388%2895%2901927-8) | Table 4, p. 5, row 8; `ORC-EVNB6AMIKZ.d885a5` |  |
+| YMg2 | [Mg2Y](https://data.orchid-project.org/compounds/Mg2Y.html) | -14.2 kJ/mol-atom | 298.15 | experimental | -8.564 (mp-aaacppey) | -9.233 (oqmd-35188) | [1] Fabrichnaya 2003; _cites Smith 1965_ | Table 4, p. 5, row 6; `ORC-PLOIOQHK2J.659425` |  |
+| YMg2 | [Mg2Y](https://data.orchid-project.org/compounds/Mg2Y.html) | -12.6 kJ/mol-atom |  | model | -8.564 (mp-aaacppey) | -9.233 (oqmd-35188) | [1] Fabrichnaya 2003 | Table 4, p. 5, row 9; `ORC-GJVA6VEZ7Y.51933b` |  |
+| YMg2 | [Mg2Y](https://data.orchid-project.org/compounds/Mg2Y.html) | -12 kJ/mol-atom | 298.15 | experimental | -8.564 (mp-aaacppey) | -9.233 (oqmd-35188) | [1] Fabrichnaya 2003; _cites Pyagai 1990_ | Table 4, p. 5, row 7; `ORC-M3YG53Y6TM.465459` |  |
 
 ## Other properties
 
@@ -143,12 +143,12 @@ Table: Activity / EMF / Gibbs energy, Mg–Y system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Gibbs energy; _printed: ΔG_ | -7.95 kJ/mol-at |  | Y5Mg24; _alloy: Y 0.172414_ | experimental | [1] Fabrichnaya 2003; _cites Smith 1965_ | Table 4, p. 5, row 15 |  |
-| Gibbs energy; _printed: ΔG_ | -7.46 kJ/mol-at |  | Y5Mg24; _alloy: Y 0.172414_ | model | [1] Fabrichnaya 2003 | Table 4, p. 5, row 16 |  |
-| Gibbs energy; _printed: ΔG_ | -12.14 kJ/mol-at |  | YMg; _alloy: Y 0.5_ | experimental | [1] Fabrichnaya 2003; _cites Smith 1965_ | Table 4, p. 5, row 4 |  |
-| Gibbs energy; _printed: ΔG_ | -14.47 kJ/mol-at |  | YMg; _alloy: Y 0.5_ | model | [1] Fabrichnaya 2003 | Table 4, p. 5, row 5 |  |
-| Gibbs energy; _printed: ΔG_ | -11.94 kJ/mol-at |  | YMg2; _alloy: Y 0.333333_ | model | [1] Fabrichnaya 2003 | Table 4, p. 5, row 11 |  |
-| Gibbs energy; _printed: ΔG_ | -12.56 kJ/mol-at |  | YMg2; _alloy: Y 0.333333_ | experimental | [1] Fabrichnaya 2003; _cites Smith 1965_ | Table 4, p. 5, row 10 |  |
+| Gibbs energy; _printed: ΔG_ | -7.95 kJ/mol-at |  | Y5Mg24; _alloy: Y 0.172414_ | experimental | [1] Fabrichnaya 2003; _cites Smith 1965_ | Table 4, p. 5, row 15; `ORC-2WRUTRLW2O.f40eae` |  |
+| Gibbs energy; _printed: ΔG_ | -7.46 kJ/mol-at |  | Y5Mg24; _alloy: Y 0.172414_ | model | [1] Fabrichnaya 2003 | Table 4, p. 5, row 16; `ORC-KMGXL36EA4.fab39d` |  |
+| Gibbs energy; _printed: ΔG_ | -12.14 kJ/mol-at |  | YMg; _alloy: Y 0.5_ | experimental | [1] Fabrichnaya 2003; _cites Smith 1965_ | Table 4, p. 5, row 4; `ORC-6HIXC6PWA5.f205f2` |  |
+| Gibbs energy; _printed: ΔG_ | -14.47 kJ/mol-at |  | YMg; _alloy: Y 0.5_ | model | [1] Fabrichnaya 2003 | Table 4, p. 5, row 5; `ORC-LCFKVBZ2SD.5c3fad` |  |
+| Gibbs energy; _printed: ΔG_ | -11.94 kJ/mol-at |  | YMg2; _alloy: Y 0.333333_ | model | [1] Fabrichnaya 2003 | Table 4, p. 5, row 11; `ORC-EVOGAAUOAQ.e002d7` |  |
+| Gibbs energy; _printed: ΔG_ | -12.56 kJ/mol-at |  | YMg2; _alloy: Y 0.333333_ | experimental | [1] Fabrichnaya 2003; _cites Smith 1965_ | Table 4, p. 5, row 10; `ORC-GI7FCQSOQ6.4697ae` |  |
 
 ### Crystal structure (12)
 
@@ -156,18 +156,18 @@ Table: Crystal structure, Mg–Y system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 11.257 Å | 298.15 | Mg24Y5 (ε); _alloy: Y 0.172414_ | unspecified | [5] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 1 |  |
-| Lattice a | 6.037 Å | 298.15 | Mg2Y; _alloy: Y 0.333333_ | unspecified | [5] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 2 |  |
-| Lattice a | 3.796 Å | 298.15 | MgY; _alloy: Y 0.5_ | unspecified | [5] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 3 |  |
-| Lattice a | 3.81 Å | 298.15 | UNKNOWN | model | [4] Shakhshir 2006; _cites Villars 1991_ | Table 4, p. 8, row 2 |  |
-| Lattice a | 3.81 Å | 298.15 | γMg-Y, MgY; _alloy: Y 0.5_ | model | [4] Shakhshir 2006; _cites Villars 1991_ | Table 4, p. 8, row 1 |  |
-| Lattice c | 9.752 Å | 298.15 | Mg2Y; _alloy: Y 0.333333_ | unspecified | [5] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 2 |  |
-| lattice alpha | 90 ° | 298.15 | UNKNOWN | model | [4] Shakhshir 2006; _cites Villars 1991_ | Table 4, p. 8, row 2 |  |
-| lattice beta | 90 ° | 298.15 | UNKNOWN | model | [4] Shakhshir 2006; _cites Villars 1991_ | Table 4, p. 8, row 2 |  |
-| lattice gamma | 120 ° | 298.15 | Mg2Y; _alloy: Y 0.333333_ | unspecified | [5] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 2 |  |
-| lattice gamma | 120 ° | 298.15 | UNKNOWN | model | [4] Shakhshir 2006; _cites Villars 1991_ | Table 4, p. 8, row 2 |  |
-| lattice unspecified angle | 120 ° | 298.15 | γMg-Y, MgY; _alloy: Y 0.5_ | model | [4] Shakhshir 2006; _cites Villars 1991_ | Table 4, p. 8, row 1 |  |
-| lattice unspecified angle | 90 ° | 298.15 | γMg-Y, MgY; _alloy: Y 0.5_ | model | [4] Shakhshir 2006; _cites Villars 1991_ | Table 4, p. 8, row 1 |  |
+| Lattice a | 11.257 Å | 298.15 | Mg24Y5 (ε); _alloy: Y 0.172414_ | unspecified | [5] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 1; `ORC-CLNULQGL5Y` |  |
+| Lattice a | 6.037 Å | 298.15 | Mg2Y; _alloy: Y 0.333333_ | unspecified | [5] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 2; `ORC-W2Q7CBFUTW.0631ad` |  |
+| Lattice a | 3.796 Å | 298.15 | MgY; _alloy: Y 0.5_ | unspecified | [5] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 3; `ORC-LBTYM2GOGU` |  |
+| Lattice a | 3.81 Å | 298.15 | UNKNOWN | model | [4] Shakhshir 2006; _cites Villars 1991_ | Table 4, p. 8, row 2; `ORC-FRF7XN6MXQ.4967c8` |  |
+| Lattice a | 3.81 Å | 298.15 | γMg-Y, MgY; _alloy: Y 0.5_ | model | [4] Shakhshir 2006; _cites Villars 1991_ | Table 4, p. 8, row 1; `ORC-2OAQRR45YC.9fbf52` |  |
+| Lattice c | 9.752 Å | 298.15 | Mg2Y; _alloy: Y 0.333333_ | unspecified | [5] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 2; `ORC-W2Q7CBFUTW.b7aaf8` |  |
+| lattice alpha | 90 ° | 298.15 | UNKNOWN | model | [4] Shakhshir 2006; _cites Villars 1991_ | Table 4, p. 8, row 2; `ORC-FRF7XN6MXQ.f888a6` |  |
+| lattice beta | 90 ° | 298.15 | UNKNOWN | model | [4] Shakhshir 2006; _cites Villars 1991_ | Table 4, p. 8, row 2; `ORC-FRF7XN6MXQ.145c69` |  |
+| lattice gamma | 120 ° | 298.15 | Mg2Y; _alloy: Y 0.333333_ | unspecified | [5] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 2; `ORC-W2Q7CBFUTW.98f087` |  |
+| lattice gamma | 120 ° | 298.15 | UNKNOWN | model | [4] Shakhshir 2006; _cites Villars 1991_ | Table 4, p. 8, row 2; `ORC-FRF7XN6MXQ.0967f3` |  |
+| lattice unspecified angle | 120 ° | 298.15 | γMg-Y, MgY; _alloy: Y 0.5_ | model | [4] Shakhshir 2006; _cites Villars 1991_ | Table 4, p. 8, row 1; `ORC-2OAQRR45YC.065832` |  |
+| lattice unspecified angle | 90 ° | 298.15 | γMg-Y, MgY; _alloy: Y 0.5_ | model | [4] Shakhshir 2006; _cites Villars 1991_ | Table 4, p. 8, row 1; `ORC-2OAQRR45YC.0744c4` |  |
 
 ## Sources
 
@@ -236,4 +236,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

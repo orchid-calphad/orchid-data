@@ -14,8 +14,8 @@ Table: Enthalpy of formation of ErPd3 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -94.07 kJ/mol-atom | Pd3Er | 298.15 | model | Optimization | [Er–Pd](https://data.orchid-project.org/systems/ER-PD.html) | [1] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 6 |  |
-| -55.755 kJ/mol-atom | Pd3Er | 298.15 | model | Optimization | [Er–Pd](https://data.orchid-project.org/systems/ER-PD.html) | [1] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 76 |  |
+| -94.07 kJ/mol-atom | Pd3Er | 298.15 | model | Optimization | [Er–Pd](https://data.orchid-project.org/systems/ER-PD.html) | [1] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 6; `ORC-APZ2U5HYKT.610020` |  |
+| -55.755 kJ/mol-atom | Pd3Er | 298.15 | model | Optimization | [Er–Pd](https://data.orchid-project.org/systems/ER-PD.html) | [1] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 76; `ORC-VUJDXDCFZU.a608d1` |  |
 
 ### Uncertainty budget
 
@@ -92,4 +92,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

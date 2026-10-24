@@ -14,11 +14,11 @@ Table: Enthalpy of formation of Tl2Te3 reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -17.99 kJ/mol-atom | Te3Tl2 | 298.15 | experimental | emf | [Te–Tl](https://data.orchid-project.org/systems/TE-TL.html) | [1] Oh 1993; _cites ref. 26_ | Table 3, p. 6, row 1 |  |
-| -17.57 kJ/mol-atom | Te3Tl2 | 298.15 | experimental | emf | [Te–Tl](https://data.orchid-project.org/systems/TE-TL.html) | [1] Oh 1993; _cites ref. 27_ | Table 3, p. 6, row 2 |  |
-| -17.99 kJ/mol-atom | Te3Tl2 | 298.15 | model |  | [Te–Tl](https://data.orchid-project.org/systems/TE-TL.html) | [2] Gierlotka 2010; _cites Landolt-Bornstein 2009_ | Table IV, p. 5, row 2 |  |
-| -17.982 kJ/mol-atom | Te3Tl2 | 298.15 | model |  | [Te–Tl](https://data.orchid-project.org/systems/TE-TL.html) | [2] Gierlotka 2010 | Table IV, p. 5, row 1 |  |
-| -17.91 kJ/mol-atom | Te3Tl2 | 298.15 | model | Calculated | [Te–Tl](https://data.orchid-project.org/systems/TE-TL.html) | [1] Oh 1993 | Table 3, p. 6, row 3 |  |
+| -17.99 kJ/mol-atom | Te3Tl2 | 298.15 | experimental | emf | [Te–Tl](https://data.orchid-project.org/systems/TE-TL.html) | [1] Oh 1993; _cites ref. 26_ | Table 3, p. 6, row 1; `ORC-HPF2C7PFZM.5f003e` |  |
+| -17.57 kJ/mol-atom | Te3Tl2 | 298.15 | experimental | emf | [Te–Tl](https://data.orchid-project.org/systems/TE-TL.html) | [1] Oh 1993; _cites ref. 27_ | Table 3, p. 6, row 2; `ORC-KOZWZVEI53.c6e908` |  |
+| -17.99 kJ/mol-atom | Te3Tl2 | 298.15 | model |  | [Te–Tl](https://data.orchid-project.org/systems/TE-TL.html) | [2] Gierlotka 2010; _cites Landolt-Bornstein 2009_ | Table IV, p. 5, row 2; `ORC-6WGO7OFOGJ` |  |
+| -17.982 kJ/mol-atom | Te3Tl2 | 298.15 | model |  | [Te–Tl](https://data.orchid-project.org/systems/TE-TL.html) | [2] Gierlotka 2010 | Table IV, p. 5, row 1; `ORC-K3H3UH2KK5` |  |
+| -17.91 kJ/mol-atom | Te3Tl2 | 298.15 | model | Calculated | [Te–Tl](https://data.orchid-project.org/systems/TE-TL.html) | [1] Oh 1993 | Table 3, p. 6, row 3; `ORC-FSP75VD3H4.6cc764` |  |
 
 ### Uncertainty budget
 
@@ -99,4 +99,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

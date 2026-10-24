@@ -14,11 +14,11 @@ Table: Enthalpy of formation of Ce3Sn reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -49.37 kJ/mol-atom ± 2.1 | Ce3Sn | 300 | experimental | calorimetry | [Ce–Sn](https://data.orchid-project.org/systems/CE-SN.html) | [1] Dong 2013; _cites Borzone 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990070-4) | Table 4, p. 4, row 18 |  |
-| -53.72 kJ/mol-atom | Ce3Sn | 289 | model |  | [Ce–Sn](https://data.orchid-project.org/systems/CE-SN.html) | [1] Dong 2013 | Table 4, p. 4, row 20 |  |
-| -53 kJ/mol-atom | Ce3Sn | 300 | model |  | [Ce–Sn](https://data.orchid-project.org/systems/CE-SN.html) | [1] Dong 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990313-8) | Table 4, p. 4, row 19 |  |
-| -49.526 kJ/mol-atom | Ce3Sn | 0 | DFT | first-principles calculation | [Ce–Sn](https://data.orchid-project.org/systems/CE-SN.html) | [2] Li 2013 | Table 1, p. 3, row 2 |  |
-| -43.82 kJ/mol-atom | Ce3Sn | 0 | DFT |  | [Ce–Sn](https://data.orchid-project.org/systems/CE-SN.html) | [1] Dong 2013 | Table 4, p. 4, row 17 |  |
+| -49.37 kJ/mol-atom ± 2.1 | Ce3Sn | 300 | experimental | calorimetry | [Ce–Sn](https://data.orchid-project.org/systems/CE-SN.html) | [1] Dong 2013; _cites Borzone 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990070-4) | Table 4, p. 4, row 18; `ORC-ZH5UTBQ2EZ.25adbc` |  |
+| -53.72 kJ/mol-atom | Ce3Sn | 289 | model |  | [Ce–Sn](https://data.orchid-project.org/systems/CE-SN.html) | [1] Dong 2013 | Table 4, p. 4, row 20; `ORC-TYCK6DR3BN.996d62` |  |
+| -53 kJ/mol-atom | Ce3Sn | 300 | model |  | [Ce–Sn](https://data.orchid-project.org/systems/CE-SN.html) | [1] Dong 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990313-8) | Table 4, p. 4, row 19; `ORC-WSJAG4VWLX.2412d5` |  |
+| -49.526 kJ/mol-atom | Ce3Sn | 0 | DFT | first-principles calculation | [Ce–Sn](https://data.orchid-project.org/systems/CE-SN.html) | [2] Li 2013 | Table 1, p. 3, row 2; `ORC-UI2F455XX5.abc713` |  |
+| -43.82 kJ/mol-atom | Ce3Sn | 0 | DFT |  | [Ce–Sn](https://data.orchid-project.org/systems/CE-SN.html) | [1] Dong 2013 | Table 4, p. 4, row 17; `ORC-HXFWIASUZD.92749f` |  |
 
 ### Uncertainty budget
 
@@ -99,4 +99,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

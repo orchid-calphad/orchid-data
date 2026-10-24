@@ -28,27 +28,27 @@ Table: Invariant reactions reported in the literature for the Bi–Cr–Ti–V s
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2157.95 | Liquid#1=Gas+(V) | Liquid#1: Bi 0.017; Gas: Bi 0.999; (V): Bi 0.22 | model | [1] Cao 2013 | Table 3, p. 5, row 25 |  |
-| 2150.15 | Liquid#1=Gas+(V) | Liquid#1: Bi 0.021; Gas: Bi 0.998; (V): Bi 0.13 | experimental | [1] Cao 2013; _cites Smith 1990_ | Table 3, p. 5, row 24 |  |
-| 1849.15 | Gas+(V)=Liquid#2 | Gas: Bi 0.999; (V): Bi 0.0035; Liquid#2: Bi 0.989 | experimental | [1] Cao 2013; _cites Smith 1990_ | Table 3, p. 5, row 22 |  |
-| 1840.95 | Liquid#1+Gas=Liquid#2 | Liquid#1: Bi 0.151; Gas: Bi 0.999; Liquid#2: Bi 0.937 | model | [1] Cao 2013 | Table 3, p. 5, row 15 |  |
-| 1832.15 | Liquid#1=Liquid#2+(Cr) | Liquid#1: Bi 0.15; Liquid#2: Bi 0.938; (Cr): Bi 0 | model | [1] Cao 2013 | Table 3, p. 5, row 17 |  |
-| 1831.55 | Gas+(V)=Liquid#2 | Gas: Bi 0.999; (V): Bi 0.0045; Liquid#2: Bi 0.973 | model | [1] Cao 2013 | Table 3, p. 5, row 23 |  |
-| 1826.15 | Liquid#1=Liquid#2+(Cr) | Liquid#2: Bi 0.91; (Cr): Bi 0 | experimental | [1] Cao 2013; _cites Williams 1907_ | Table 3, p. 5, row 16 |  |
-| 1613.15 | Liquid+Bcc_A2=BiTi3 | Liquid: Bi 0.26; Bcc_A2: Bi 0.1; BiTi3: Bi 0.25 | experimental | [1] Cao 2013; _cites Obinata 1960_ | Table 3, p. 5, row 11 |  |
-| 1609.15 | Liquid+Bcc_A2=BiTi3 | Liquid: Bi 0.255; Bcc_A2: Bi 0.105; BiTi3: Bi 0.25 | model | [1] Cao 2013 | Table 3, p. 5, row 12 |  |
-| 1562.65 | Liquid+BiTi3=BiTi2 | Liquid: Bi 0.397; BiTi3: Bi 0.25; BiTi2: Bi 0.333 | model | [1] Cao 2013 | Table 3, p. 5, row 10 |  |
-| 1560.15 | Liquid+BiTi3=BiTi2 | BiTi3: Bi 0.25; BiTi2: Bi 0.333 | experimental | [1] Cao 2013; _cites Vasseilev 2006_ | Table 3, p. 5, row 9 |  |
-| 1270.95 | Liquid+BiTi2=Bi9Ti8 | Liquid: Bi 0.749; BiTi2: Bi 0.333; Bi9Ti8: Bi 0.529 | model | [1] Cao 2013 | Table 3, p. 5, row 8 |  |
-| 1270.15 | Liquid+BiTi2=Bi9Ti8 | BiTi2: Bi 0.333; Bi9Ti8: Bi 0.529 | experimental | [1] Cao 2013; _cites Vasseilev 2006_ | Table 3, p. 5, row 7 |  |
-| 1090.35 | Liquid+Bi9Ti8=Bi3Ti2 | Liquid: Bi 0.934; Bi9Ti8: Bi 0.529; Bi3Ti2: Bi 0.6 | model | [1] Cao 2013 | Table 3, p. 5, row 6 |  |
-| 1090.15 | Liquid+Bi9Ti8=Bi3Ti2 | Bi9Ti8: Bi 0.529; Bi3Ti2: Bi 0.6 | experimental | [1] Cao 2013; _cites Vasseilev 2006_ | Table 3, p. 5, row 5 |  |
-| 998.15 | Bcc_A2=BiTi3+Hcp_A3 | Bcc_A2: Bi 0.086; BiTi3: Bi 0.25; Hcp_A3: Bi 0.003 | experimental | [1] Cao 2013; _cites Obinata 1960_ | Table 3, p. 5, row 13 |  |
-| 992.65 | Bcc_A2=BiTi3+Hcp_A3 | Bcc_A2: Bi 0.06; BiTi3: Bi 0.25; Hcp_A3: Bi 0.004 | model | [1] Cao 2013 | Table 3, p. 5, row 14 |  |
-| 960.65 | Liquid+Bi3Ti2=Bi2Ti | Liquid: Bi 0.976; Bi3Ti2: Bi 0.6; Bi2Ti: Bi 0.6 | model | [1] Cao 2013 | Table 3, p. 5, row 4 |  |
-| 960.15 | Liquid+Bi3Ti2=Bi2Ti | Bi3Ti2: Bi 0.6; Bi2Ti: Bi 0.6 | experimental | [1] Cao 2013; _cites Vasseilev 2006_ | Table 3, p. 5, row 3 |  |
-| 544.55 | Liquid#2=(Bi)+(V) |  | experimental | [1] Cao 2013; _cites Smith 1990_ | Table 3, p. 5, row 20 |  |
-| 544.15 | Liquid=Bi2Ti+(Bi) | Bi2Ti: Bi 0.667; (Bi): Bi 1 | experimental | [1] Cao 2013; _cites Vasseilev 2006_ | Table 3, p. 5, row 1 |  |
+| 2157.95 | Liquid#1=Gas+(V) | Liquid#1: Bi 0.017; Gas: Bi 0.999; (V): Bi 0.22 | model | [1] Cao 2013 | Table 3, p. 5, row 25; `ORC-TKI35S3QHC` |  |
+| 2150.15 | Liquid#1=Gas+(V) | Liquid#1: Bi 0.021; Gas: Bi 0.998; (V): Bi 0.13 | experimental | [1] Cao 2013; _cites Smith 1990_ | Table 3, p. 5, row 24; `ORC-DE732LMOWH` |  |
+| 1849.15 | Gas+(V)=Liquid#2 | Gas: Bi 0.999; (V): Bi 0.0035; Liquid#2: Bi 0.989 | experimental | [1] Cao 2013; _cites Smith 1990_ | Table 3, p. 5, row 22; `ORC-XLDXXLM5ZD` |  |
+| 1840.95 | Liquid#1+Gas=Liquid#2 | Liquid#1: Bi 0.151; Gas: Bi 0.999; Liquid#2: Bi 0.937 | model | [1] Cao 2013 | Table 3, p. 5, row 15; `ORC-FRFKTEOBKK` |  |
+| 1832.15 | Liquid#1=Liquid#2+(Cr) | Liquid#1: Bi 0.15; Liquid#2: Bi 0.938; (Cr): Bi 0 | model | [1] Cao 2013 | Table 3, p. 5, row 17; `ORC-PXPYQKJQPD` |  |
+| 1831.55 | Gas+(V)=Liquid#2 | Gas: Bi 0.999; (V): Bi 0.0045; Liquid#2: Bi 0.973 | model | [1] Cao 2013 | Table 3, p. 5, row 23; `ORC-XJ4I5NKHIX` |  |
+| 1826.15 | Liquid#1=Liquid#2+(Cr) | Liquid#2: Bi 0.91; (Cr): Bi 0 | experimental | [1] Cao 2013; _cites Williams 1907_ | Table 3, p. 5, row 16; `ORC-GCL5OZS45N` |  |
+| 1613.15 | Liquid+Bcc_A2=BiTi3 | Liquid: Bi 0.26; Bcc_A2: Bi 0.1; BiTi3: Bi 0.25 | experimental | [1] Cao 2013; _cites Obinata 1960_ | Table 3, p. 5, row 11; `ORC-7RTY63KJ56` |  |
+| 1609.15 | Liquid+Bcc_A2=BiTi3 | Liquid: Bi 0.255; Bcc_A2: Bi 0.105; BiTi3: Bi 0.25 | model | [1] Cao 2013 | Table 3, p. 5, row 12; `ORC-5MOLS5EPTO` |  |
+| 1562.65 | Liquid+BiTi3=BiTi2 | Liquid: Bi 0.397; BiTi3: Bi 0.25; BiTi2: Bi 0.333 | model | [1] Cao 2013 | Table 3, p. 5, row 10; `ORC-CZG57M23Z2` |  |
+| 1560.15 | Liquid+BiTi3=BiTi2 | BiTi3: Bi 0.25; BiTi2: Bi 0.333 | experimental | [1] Cao 2013; _cites Vasseilev 2006_ | Table 3, p. 5, row 9; `ORC-FQO6RMEFYD` |  |
+| 1270.95 | Liquid+BiTi2=Bi9Ti8 | Liquid: Bi 0.749; BiTi2: Bi 0.333; Bi9Ti8: Bi 0.529 | model | [1] Cao 2013 | Table 3, p. 5, row 8; `ORC-6XANIMNINY` |  |
+| 1270.15 | Liquid+BiTi2=Bi9Ti8 | BiTi2: Bi 0.333; Bi9Ti8: Bi 0.529 | experimental | [1] Cao 2013; _cites Vasseilev 2006_ | Table 3, p. 5, row 7; `ORC-JX5RGA73SE` |  |
+| 1090.35 | Liquid+Bi9Ti8=Bi3Ti2 | Liquid: Bi 0.934; Bi9Ti8: Bi 0.529; Bi3Ti2: Bi 0.6 | model | [1] Cao 2013 | Table 3, p. 5, row 6; `ORC-S5FIJ5MBYD` |  |
+| 1090.15 | Liquid+Bi9Ti8=Bi3Ti2 | Bi9Ti8: Bi 0.529; Bi3Ti2: Bi 0.6 | experimental | [1] Cao 2013; _cites Vasseilev 2006_ | Table 3, p. 5, row 5; `ORC-NVJYUE7WKE` |  |
+| 998.15 | Bcc_A2=BiTi3+Hcp_A3 | Bcc_A2: Bi 0.086; BiTi3: Bi 0.25; Hcp_A3: Bi 0.003 | experimental | [1] Cao 2013; _cites Obinata 1960_ | Table 3, p. 5, row 13; `ORC-7GV27DKQLK` |  |
+| 992.65 | Bcc_A2=BiTi3+Hcp_A3 | Bcc_A2: Bi 0.06; BiTi3: Bi 0.25; Hcp_A3: Bi 0.004 | model | [1] Cao 2013 | Table 3, p. 5, row 14; `ORC-AKZELYWLUD` |  |
+| 960.65 | Liquid+Bi3Ti2=Bi2Ti | Liquid: Bi 0.976; Bi3Ti2: Bi 0.6; Bi2Ti: Bi 0.6 | model | [1] Cao 2013 | Table 3, p. 5, row 4; `ORC-DIGG7VNXJM` |  |
+| 960.15 | Liquid+Bi3Ti2=Bi2Ti | Bi3Ti2: Bi 0.6; Bi2Ti: Bi 0.6 | experimental | [1] Cao 2013; _cites Vasseilev 2006_ | Table 3, p. 5, row 3; `ORC-F4U7LPSR6I` |  |
+| 544.55 | Liquid#2=(Bi)+(V) |  | experimental | [1] Cao 2013; _cites Smith 1990_ | Table 3, p. 5, row 20; `ORC-JVVPWA43YQ` |  |
+| 544.15 | Liquid=Bi2Ti+(Bi) | Bi2Ti: Bi 0.667; (Bi): Bi 1 | experimental | [1] Cao 2013; _cites Vasseilev 2006_ | Table 3, p. 5, row 1; `ORC-HXZMY27MCC` |  |
 
 ## Other properties
 
@@ -58,8 +58,8 @@ Table: Crystal structure, Bi–Cr–Ti–V system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 4.746 Å | 298.15 | (Bi); _alloy: Cr 0, Ti 0, V 0_ | model | [1] Cao 2013; _cites King 1981_ | Table 1, p. 2, row 9 |  |
-| Lattice a | 4.746 Å | 544.55 (\<) | (Bi); _alloy: Cr 0, Ti 0, V 0_ | model | [1] Cao 2013; _cites King 1981_ | Table 1, p. 2, row 1 |  |
+| Lattice a | 4.746 Å | 298.15 | (Bi); _alloy: Cr 0, Ti 0, V 0_ | model | [1] Cao 2013; _cites King 1981_ | Table 1, p. 2, row 9; `ORC-NW7CXR6TAM` |  |
+| Lattice a | 4.746 Å | 544.55 (\<) | (Bi); _alloy: Cr 0, Ti 0, V 0_ | model | [1] Cao 2013; _cites King 1981_ | Table 1, p. 2, row 1; `ORC-WFTITINWOL` |  |
 
 ## Sources
 
@@ -102,4 +102,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

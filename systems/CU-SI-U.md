@@ -30,11 +30,11 @@ Table: Phase transition, Cu–Si–U system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1095.15 K | 1095.15 | CuSiU-5; _alloy: Cu 0.613, Si 0.316, U 0.071_ | experimental | [1] Soldi 2019 | Table 2, p. 3, row 10 |  |
-| Phase transition | 1177.15 K | 1177.15 | CuSiU-4; _alloy: Cu 0.563, Si 0.291, U 0.146_ | experimental | [1] Soldi 2019 | Table 2, p. 3, row 9 |  |
-| Phase transition | 1293.15 K | 1293.15 | CuSiU-3; _alloy: Cu 0.649, Si 0.184, U 0.167_ | experimental | [1] Soldi 2019 | Table 2, p. 3, row 7 |  |
-| Phase transition | 1327.15 K | 1327.15 | CuSiU-1; _alloy: Cu 0.422, Si 0.508, U 0.07_ | experimental | [1] Soldi 2019 | Table 2, p. 3, row 6 |  |
-| Phase transition | 1347.15 K | 1347.15 | CuSiU-3; _alloy: Cu 0.649, Si 0.184, U 0.167_ | experimental | [1] Soldi 2019 | Table 2, p. 3, row 8 |  |
+| Phase transition | 1095.15 K | 1095.15 | CuSiU-5; _alloy: Cu 0.613, Si 0.316, U 0.071_ | experimental | [1] Soldi 2019 | Table 2, p. 3, row 10; `ORC-76ZMGKFE5D` |  |
+| Phase transition | 1177.15 K | 1177.15 | CuSiU-4; _alloy: Cu 0.563, Si 0.291, U 0.146_ | experimental | [1] Soldi 2019 | Table 2, p. 3, row 9; `ORC-BEK2VAKUEJ` |  |
+| Phase transition | 1293.15 K | 1293.15 | CuSiU-3; _alloy: Cu 0.649, Si 0.184, U 0.167_ | experimental | [1] Soldi 2019 | Table 2, p. 3, row 7; `ORC-CCFTICYLO5` |  |
+| Phase transition | 1327.15 K | 1327.15 | CuSiU-1; _alloy: Cu 0.422, Si 0.508, U 0.07_ | experimental | [1] Soldi 2019 | Table 2, p. 3, row 6; `ORC-PIHRHKZ7QK` |  |
+| Phase transition | 1347.15 K | 1347.15 | CuSiU-3; _alloy: Cu 0.649, Si 0.184, U 0.167_ | experimental | [1] Soldi 2019 | Table 2, p. 3, row 8; `ORC-CFMZA235PZ` |  |
 
 ### Crystal structure (7)
 
@@ -42,13 +42,13 @@ Table: Crystal structure, Cu–Si–U system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 3.98 Å | 298.15 | Cu2Si2U; _alloy: Si 0.4, U 0.2_ | unspecified | [1] Soldi 2019; _cites McElfresh 1990_ [doi](https://doi.org/10.1063/1.344615) | Table 4, p. 7, row 2 |  |
-| Lattice a | 3.963 Å | 298.15 | Cu4Si4U3; _alloy: Si 0.363636, U 0.272727_ | experimental | [1] Soldi 2019; _cites Pechev 1999_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900817-2) | Table 4, p. 7, row 3 |  |
-| Lattice a | 3.979 Å | 298.15 | CuSiU; _alloy: Si 0.333333, U 0.333333_ | experimental | [1] Soldi 2019; _cites Pechev 1999_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900817-2) | Table 4, p. 7, row 1 |  |
-| Lattice b | 4.022 Å | 298.15 | Cu4Si4U3; _alloy: Si 0.363636, U 0.272727_ | experimental | [1] Soldi 2019; _cites Pechev 1999_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900817-2) | Table 4, p. 7, row 3 |  |
-| Lattice c | 9.95 Å | 298.15 | Cu2Si2U; _alloy: Si 0.4, U 0.2_ | unspecified | [1] Soldi 2019; _cites McElfresh 1990_ [doi](https://doi.org/10.1063/1.344615) | Table 4, p. 7, row 2 |  |
-| Lattice c | 23.836 Å | 298.15 | Cu4Si4U3; _alloy: Si 0.363636, U 0.272727_ | experimental | [1] Soldi 2019; _cites Pechev 1999_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900817-2) | Table 4, p. 7, row 3 |  |
-| Lattice c | 13.929 Å | 298.15 | CuSiU; _alloy: Si 0.333333, U 0.333333_ | experimental | [1] Soldi 2019; _cites Pechev 1999_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900817-2) | Table 4, p. 7, row 1 |  |
+| Lattice a | 3.98 Å | 298.15 | Cu2Si2U; _alloy: Si 0.4, U 0.2_ | unspecified | [1] Soldi 2019; _cites McElfresh 1990_ [doi](https://doi.org/10.1063/1.344615) | Table 4, p. 7, row 2; `ORC-27ETTPAS4U.a7a01f` |  |
+| Lattice a | 3.963 Å | 298.15 | Cu4Si4U3; _alloy: Si 0.363636, U 0.272727_ | experimental | [1] Soldi 2019; _cites Pechev 1999_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900817-2) | Table 4, p. 7, row 3; `ORC-BY2WQLFT4U.01e1c2` |  |
+| Lattice a | 3.979 Å | 298.15 | CuSiU; _alloy: Si 0.333333, U 0.333333_ | experimental | [1] Soldi 2019; _cites Pechev 1999_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900817-2) | Table 4, p. 7, row 1; `ORC-WNLZQAWQUV.e200e3` |  |
+| Lattice b | 4.022 Å | 298.15 | Cu4Si4U3; _alloy: Si 0.363636, U 0.272727_ | experimental | [1] Soldi 2019; _cites Pechev 1999_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900817-2) | Table 4, p. 7, row 3; `ORC-BY2WQLFT4U.bad2a1` |  |
+| Lattice c | 9.95 Å | 298.15 | Cu2Si2U; _alloy: Si 0.4, U 0.2_ | unspecified | [1] Soldi 2019; _cites McElfresh 1990_ [doi](https://doi.org/10.1063/1.344615) | Table 4, p. 7, row 2; `ORC-27ETTPAS4U.83c044` |  |
+| Lattice c | 23.836 Å | 298.15 | Cu4Si4U3; _alloy: Si 0.363636, U 0.272727_ | experimental | [1] Soldi 2019; _cites Pechev 1999_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900817-2) | Table 4, p. 7, row 3; `ORC-BY2WQLFT4U.cc9d55` |  |
+| Lattice c | 13.929 Å | 298.15 | CuSiU; _alloy: Si 0.333333, U 0.333333_ | experimental | [1] Soldi 2019; _cites Pechev 1999_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900817-2) | Table 4, p. 7, row 1; `ORC-WNLZQAWQUV.984fe6` |  |
 
 ## Sources
 
@@ -91,4 +91,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

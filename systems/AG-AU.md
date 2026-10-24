@@ -41,17 +41,17 @@ Table: Phase transition, Ag–Au system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 629 K | 629 | eutectic | experimental | [1] Hassam 1988; _cites Jaffee 1945_ | Table I, p. 2, row 6 |  |
-| Phase transition | 630 K | 630 | eutectic | experimental | [1] Hassam 1988; _cites Predel 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990138-1) | Table I, p. 2, row 8 |  |
-| Phase transition | 632 K | 632 | eutectic | experimental | [1] Hassam 1988; _cites Einecke 1937_ | Table I, p. 2, row 5 |  |
-| Phase transition | 634 K | 634 | eutectic: Au + Ge eutectic | experimental | [1] Hassam 1988 | Table III, p. 3, row 3 |  |
-| Phase transition | 635 K | 635 | eutectic | unspecified | [1] Hassam 1988; _cites Evans 1981_ | Table I, p. 2, row 10 |  |
-| Phase transition | 636 K | 636 | eutectic | experimental | [1] Hassam 1988; _cites Owen 1945_ | Table I, p. 2, row 7 |  |
-| Phase transition | 637 K | 637 | eutectic | experimental | [1] Hassam 1988; _cites Legendre 1977_ | Table I, p. 2, row 9 |  |
-| Phase transition | 922 K | 922 | eutectic | experimental | [1] Hassam 1988; _cites Maucher 1936_ | Table I, p. 2, row 2 |  |
-| Phase transition | 923 K | 923 | eutectic | experimental | [1] Hassam 1988; _cites Briggs 1929_ [doi](https://doi.org/10.1021/j150301a010) | Table I, p. 2, row 1 |  |
-| Phase transition | 923.5 K | 923.5 | eutectic: Ag + Ge eutectic | experimental | [1] Hassam 1988 | Table III, p. 3, row 1 |  |
-| Phase transition | 924 K | 924 | eutectic | experimental | [1] Hassam 1988; _cites Martin-Garin 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990094-6) | Table I, p. 2, row 3 |  |
+| Phase transition | 629 K | 629 | eutectic | experimental | [1] Hassam 1988; _cites Jaffee 1945_ | Table I, p. 2, row 6; `ORC-RB3SBIO2HE` |  |
+| Phase transition | 630 K | 630 | eutectic | experimental | [1] Hassam 1988; _cites Predel 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990138-1) | Table I, p. 2, row 8; `ORC-WBEURHLUEI` |  |
+| Phase transition | 632 K | 632 | eutectic | experimental | [1] Hassam 1988; _cites Einecke 1937_ | Table I, p. 2, row 5; `ORC-LKHZJT35AE` |  |
+| Phase transition | 634 K | 634 | eutectic: Au + Ge eutectic | experimental | [1] Hassam 1988 | Table III, p. 3, row 3; `ORC-BTC3HRHW6X` |  |
+| Phase transition | 635 K | 635 | eutectic | unspecified | [1] Hassam 1988; _cites Evans 1981_ | Table I, p. 2, row 10; `ORC-CZYZAQJWT4` |  |
+| Phase transition | 636 K | 636 | eutectic | experimental | [1] Hassam 1988; _cites Owen 1945_ | Table I, p. 2, row 7; `ORC-SKIZWZJYPD` |  |
+| Phase transition | 637 K | 637 | eutectic | experimental | [1] Hassam 1988; _cites Legendre 1977_ | Table I, p. 2, row 9; `ORC-FAXQGIQRUZ` |  |
+| Phase transition | 922 K | 922 | eutectic | experimental | [1] Hassam 1988; _cites Maucher 1936_ | Table I, p. 2, row 2; `ORC-NDFFPOWSWH` |  |
+| Phase transition | 923 K | 923 | eutectic | experimental | [1] Hassam 1988; _cites Briggs 1929_ [doi](https://doi.org/10.1021/j150301a010) | Table I, p. 2, row 1; `ORC-IYMUBV5HCS` |  |
+| Phase transition | 923.5 K | 923.5 | eutectic: Ag + Ge eutectic | experimental | [1] Hassam 1988 | Table III, p. 3, row 1; `ORC-5HSLIJHEUC` |  |
+| Phase transition | 924 K | 924 | eutectic | experimental | [1] Hassam 1988; _cites Martin-Garin 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990094-6) | Table I, p. 2, row 3; `ORC-N7RSDZENUR` |  |
 
 ## Sources
 
@@ -116,4 +116,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -63,35 +63,35 @@ Table: Invariant reactions reported in the literature for the Ru–Y system (29)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2253 | Liq -> Ru2Y | Liq: Y 0.3333; Ru2Y: Ru 0.666667, Y 0.333333 | model | [1] Amar 2011 | Table 3, p. 3, row 6 |  |
-| 2253 | Liq -> Ru2Y | Liq: Y 0.3333; Ru2Y: Ru 0.666667, Y 0.333333 | model | [1] Amar 2011; _cites Selhaoui 1998_ [doi](https://doi.org/10.1006/jssc.1998.7795) | Table 3, p. 3, row 5 |  |
-| 2223 | Liq -> Ru2Y | Liq: Y 0.3333; Ru2Y: Ru 0.666667, Y 0.333333 | experimental | [1] Amar 2011; _cites Massalski 1990_ | Table 3, p. 3, row 4 |  |
-| 2113 | Liq -> Ru + Ru2Y | Liq: Y 0.2; Ru2Y: Ru 0.666667, Y 0.333333 | experimental | [1] Amar 2011; _cites Massalski 1990_ | Table 3, p. 3, row 1 |  |
-| 2111 | Liq -> Ru + Ru2Y | Liq: Y 0.2004; Ru2Y: Ru 0.666667, Y 0.333333 | model | [1] Amar 2011 | Table 3, p. 3, row 3 |  |
-| 2081 | Liq -> Ru + Ru2Y | Liq: Y 0.207; Ru2Y: Ru 0.666667, Y 0.333333 | model | [1] Amar 2011; _cites Selhaoui 1998_ [doi](https://doi.org/10.1006/jssc.1998.7795) | Table 3, p. 3, row 2 |  |
-| 1751 | βY -> Liq + αY | Liq: Y 0.985 | experimental | [1] Amar 2011; _cites Massalski 1990_ | Table 3, p. 3, row 25 |  |
-| 1750 | βY -> Liq + αY | Liq: Y 0.985 | model | [1] Amar 2011 | Table 3, p. 3, row 26 |  |
-| 1623 | Liq + Ru2Y -> Ru2Y3 | Liq: Y 0.619; Ru2Y: Ru 0.666667, Y 0.333333; Ru2Y3: Ru 0.4, Y 0.6 | experimental | [1] Amar 2011; _cites Massalski 1990_ | Table 3, p. 3, row 7 |  |
-| 1623 | peritectic |  | model | [1] Amar 2011; _cites Massalski 1990_ | p. 1 | “For the Ru2Y and Ru2Y5 compounds, a congruent melting was estimated, respectively, at 2223 and 1593 K, while for the Ru2Y3, Ru25Y44, and RuY3 compounds, a peritectic formation was reported, respectively, at 1623, 1568, and 1523 K.” |
-| 1593 | Liq -> Ru2Y5 | Liq: Y 0.7142; Ru2Y5: Ru 0.285714, Y 0.714286 | experimental | [1] Amar 2011; _cites Massalski 1990_ | Table 3, p. 3, row 16 |  |
-| 1585 | Liq + Ru2Y -> Ru2Y3 | Liq: Y 0.62; Ru2Y: Ru 0.666667, Y 0.333333; Ru2Y3: Ru 0.4, Y 0.6 | model | [1] Amar 2011; _cites Selhaoui 1998_ [doi](https://doi.org/10.1006/jssc.1998.7795) | Table 3, p. 3, row 8 |  |
-| 1577 | Liq -> Ru2Y5 | Liq: Y 0.7142; Ru2Y5: Ru 0.285714, Y 0.714286 | model | [1] Amar 2011; _cites Selhaoui 1998_ [doi](https://doi.org/10.1006/jssc.1998.7795) | Table 3, p. 3, row 17 |  |
-| 1570 | Liq + Ru2Y3 -> Ru25Y44 | Liq: Y 0.647; Ru2Y3: Ru 0.4, Y 0.6; Ru25Y44: Ru 0.362319, Y 0.637681 | model | [1] Amar 2011; _cites Selhaoui 1998_ [doi](https://doi.org/10.1006/jssc.1998.7795) | Table 3, p. 3, row 11 |  |
-| 1570 | Liq + Ru2Y -> Ru2Y3 | Liq: Y 0.6086; Ru2Y: Ru 0.666667, Y 0.333333; Ru2Y3: Ru 0.4, Y 0.6 | model | [1] Amar 2011 | Table 3, p. 3, row 9 |  |
-| 1570 | Liq -> Ru2Y5 | Liq: Y 0.7142; Ru2Y5: Ru 0.285714, Y 0.714286 | model | [1] Amar 2011 | Table 3, p. 3, row 18 |  |
-| 1568 | Liq + Ru2Y3 -> Ru25Y44 | Liq: Y 0.641; Ru2Y3: Ru 0.4, Y 0.6; Ru25Y44: Ru 0.362319, Y 0.637681 | experimental | [1] Amar 2011; _cites Massalski 1990_ | Table 3, p. 3, row 10 |  |
-| 1568 | peritectic |  | model | [1] Amar 2011; _cites Massalski 1990_ | p. 1 | “For the Ru2Y and Ru2Y5 compounds, a congruent melting was estimated, respectively, at 2223 and 1593 K, while for the Ru2Y3, Ru25Y44, and RuY3 compounds, a peritectic formation was reported, respectively, at 1623, 1568, and 1523 K.” |
-| 1561 | Liq -> Ru25Y44 + Ru2Y5 | Liq: Y 0.671; Ru25Y44: Ru 0.362319, Y 0.637681; Ru2Y5: Ru 0.285714, Y 0.714286 | model | [1] Amar 2011; _cites Selhaoui 1998_ [doi](https://doi.org/10.1006/jssc.1998.7795) | Table 3, p. 3, row 14 |  |
-| 1548 | Liq + Ru2Y3 -> Ru25Y44 | Liq: Y 0.6408; Ru2Y3: Ru 0.4, Y 0.6; Ru25Y44: Ru 0.362319, Y 0.637681 | model | [1] Amar 2011 | Table 3, p. 3, row 12 |  |
-| 1539 | Liq -> Ru25Y44 + Ru2Y5 | Liq: Y 0.6639; Ru25Y44: Ru 0.362319, Y 0.637681; Ru2Y5: Ru 0.285714, Y 0.714286 | model | [1] Amar 2011 | Table 3, p. 3, row 15 |  |
-| 1523 | Liq + Ru2Y5 -> RuY3 | Liq: Y 0.7895; Ru2Y5: Ru 0.285714, Y 0.714286; RuY3: Ru 0.25, Y 0.75 | experimental | [1] Amar 2011; _cites Massalski 1990_ | Table 3, p. 3, row 19 |  |
-| 1523 | peritectic |  | model | [1] Amar 2011; _cites Massalski 1990_ | p. 1 | “For the Ru2Y and Ru2Y5 compounds, a congruent melting was estimated, respectively, at 2223 and 1593 K, while for the Ru2Y3, Ru25Y44, and RuY3 compounds, a peritectic formation was reported, respectively, at 1623, 1568, and 1523 K.” |
-| 1494 | Liq + Ru2Y5 -> RuY3 | Liq: Y 0.792; Ru2Y5: Ru 0.285714, Y 0.714286; RuY3: Ru 0.25, Y 0.75 | model | [1] Amar 2011 | Table 3, p. 3, row 21 |  |
-| 1493 | Liq + Ru2Y5 -> RuY3 | Liq: Y 0.804; Ru2Y5: Ru 0.285714, Y 0.714286; RuY3: Ru 0.25, Y 0.75 | model | [1] Amar 2011; _cites Selhaoui 1998_ [doi](https://doi.org/10.1006/jssc.1998.7795) | Table 3, p. 3, row 20 |  |
-| 1473 | Liq -> Ru25Y44 + Ru2Y5 | Liq: Y 0.66; Ru25Y44: Ru 0.362319, Y 0.637681; Ru2Y5: Ru 0.285714, Y 0.714286 | experimental | [1] Amar 2011; _cites Massalski 1990_ | Table 3, p. 3, row 13 |  |
-| 1364 | Liq -> RuY3 + αY | Liq: Y 0.855; RuY3: Ru 0.25, Y 0.75 | model | [1] Amar 2011; _cites Selhaoui 1998_ [doi](https://doi.org/10.1006/jssc.1998.7795) | Table 3, p. 3, row 23 |  |
-| 1353 | Liq -> RuY3 + αY | Liq: Y 0.8579; RuY3: Ru 0.25, Y 0.75 | model | [1] Amar 2011 | Table 3, p. 3, row 24 |  |
-| 1353 | Liq -> RuY3 + αY | Liq: Y 0.85; RuY3: Ru 0.25, Y 0.75 | experimental | [1] Amar 2011; _cites Massalski 1990_ | Table 3, p. 3, row 22 |  |
+| 2253 | Liq -> Ru2Y | Liq: Y 0.3333; Ru2Y: Ru 0.666667, Y 0.333333 | model | [1] Amar 2011 | Table 3, p. 3, row 6; `ORC-A3MFXIGH3D` |  |
+| 2253 | Liq -> Ru2Y | Liq: Y 0.3333; Ru2Y: Ru 0.666667, Y 0.333333 | model | [1] Amar 2011; _cites Selhaoui 1998_ [doi](https://doi.org/10.1006/jssc.1998.7795) | Table 3, p. 3, row 5; `ORC-BQWNOHQXI6` |  |
+| 2223 | Liq -> Ru2Y | Liq: Y 0.3333; Ru2Y: Ru 0.666667, Y 0.333333 | experimental | [1] Amar 2011; _cites Massalski 1990_ | Table 3, p. 3, row 4; `ORC-VE7RIBTKUQ` |  |
+| 2113 | Liq -> Ru + Ru2Y | Liq: Y 0.2; Ru2Y: Ru 0.666667, Y 0.333333 | experimental | [1] Amar 2011; _cites Massalski 1990_ | Table 3, p. 3, row 1; `ORC-3LJOFDZGH6` |  |
+| 2111 | Liq -> Ru + Ru2Y | Liq: Y 0.2004; Ru2Y: Ru 0.666667, Y 0.333333 | model | [1] Amar 2011 | Table 3, p. 3, row 3; `ORC-ZUXL25NPG3` |  |
+| 2081 | Liq -> Ru + Ru2Y | Liq: Y 0.207; Ru2Y: Ru 0.666667, Y 0.333333 | model | [1] Amar 2011; _cites Selhaoui 1998_ [doi](https://doi.org/10.1006/jssc.1998.7795) | Table 3, p. 3, row 2; `ORC-LPPAKIUKXD` |  |
+| 1751 | βY -> Liq + αY | Liq: Y 0.985 | experimental | [1] Amar 2011; _cites Massalski 1990_ | Table 3, p. 3, row 25; `ORC-PQ7S6HMX75` |  |
+| 1750 | βY -> Liq + αY | Liq: Y 0.985 | model | [1] Amar 2011 | Table 3, p. 3, row 26; `ORC-EQTHQNF5GI` |  |
+| 1623 | Liq + Ru2Y -> Ru2Y3 | Liq: Y 0.619; Ru2Y: Ru 0.666667, Y 0.333333; Ru2Y3: Ru 0.4, Y 0.6 | experimental | [1] Amar 2011; _cites Massalski 1990_ | Table 3, p. 3, row 7; `ORC-QB7ZNEQH2H` |  |
+| 1623 | peritectic |  | model | [1] Amar 2011; _cites Massalski 1990_ | p. 1; `ORC-Y6TPN6GMVZ.3042e3` | “For the Ru2Y and Ru2Y5 compounds, a congruent melting was estimated, respectively, at 2223 and 1593 K, while for the Ru2Y3, Ru25Y44, and RuY3 compounds, a peritectic formation was reported, respectively, at 1623, 1568, and 1523 K.” |
+| 1593 | Liq -> Ru2Y5 | Liq: Y 0.7142; Ru2Y5: Ru 0.285714, Y 0.714286 | experimental | [1] Amar 2011; _cites Massalski 1990_ | Table 3, p. 3, row 16; `ORC-6AG3ZOTYSE` |  |
+| 1585 | Liq + Ru2Y -> Ru2Y3 | Liq: Y 0.62; Ru2Y: Ru 0.666667, Y 0.333333; Ru2Y3: Ru 0.4, Y 0.6 | model | [1] Amar 2011; _cites Selhaoui 1998_ [doi](https://doi.org/10.1006/jssc.1998.7795) | Table 3, p. 3, row 8; `ORC-HRMGHRDDF2` |  |
+| 1577 | Liq -> Ru2Y5 | Liq: Y 0.7142; Ru2Y5: Ru 0.285714, Y 0.714286 | model | [1] Amar 2011; _cites Selhaoui 1998_ [doi](https://doi.org/10.1006/jssc.1998.7795) | Table 3, p. 3, row 17; `ORC-USMROY2WAO` |  |
+| 1570 | Liq + Ru2Y3 -> Ru25Y44 | Liq: Y 0.647; Ru2Y3: Ru 0.4, Y 0.6; Ru25Y44: Ru 0.362319, Y 0.637681 | model | [1] Amar 2011; _cites Selhaoui 1998_ [doi](https://doi.org/10.1006/jssc.1998.7795) | Table 3, p. 3, row 11; `ORC-OF6RC6EIIV` |  |
+| 1570 | Liq + Ru2Y -> Ru2Y3 | Liq: Y 0.6086; Ru2Y: Ru 0.666667, Y 0.333333; Ru2Y3: Ru 0.4, Y 0.6 | model | [1] Amar 2011 | Table 3, p. 3, row 9; `ORC-RTGII4IAY4` |  |
+| 1570 | Liq -> Ru2Y5 | Liq: Y 0.7142; Ru2Y5: Ru 0.285714, Y 0.714286 | model | [1] Amar 2011 | Table 3, p. 3, row 18; `ORC-XRFPSERVAA` |  |
+| 1568 | Liq + Ru2Y3 -> Ru25Y44 | Liq: Y 0.641; Ru2Y3: Ru 0.4, Y 0.6; Ru25Y44: Ru 0.362319, Y 0.637681 | experimental | [1] Amar 2011; _cites Massalski 1990_ | Table 3, p. 3, row 10; `ORC-QNDFD2BNYB` |  |
+| 1568 | peritectic |  | model | [1] Amar 2011; _cites Massalski 1990_ | p. 1; `ORC-Y6TPN6GMVZ.5f6167` | “For the Ru2Y and Ru2Y5 compounds, a congruent melting was estimated, respectively, at 2223 and 1593 K, while for the Ru2Y3, Ru25Y44, and RuY3 compounds, a peritectic formation was reported, respectively, at 1623, 1568, and 1523 K.” |
+| 1561 | Liq -> Ru25Y44 + Ru2Y5 | Liq: Y 0.671; Ru25Y44: Ru 0.362319, Y 0.637681; Ru2Y5: Ru 0.285714, Y 0.714286 | model | [1] Amar 2011; _cites Selhaoui 1998_ [doi](https://doi.org/10.1006/jssc.1998.7795) | Table 3, p. 3, row 14; `ORC-YWPM5OF3UB` |  |
+| 1548 | Liq + Ru2Y3 -> Ru25Y44 | Liq: Y 0.6408; Ru2Y3: Ru 0.4, Y 0.6; Ru25Y44: Ru 0.362319, Y 0.637681 | model | [1] Amar 2011 | Table 3, p. 3, row 12; `ORC-NU3POV6CV6` |  |
+| 1539 | Liq -> Ru25Y44 + Ru2Y5 | Liq: Y 0.6639; Ru25Y44: Ru 0.362319, Y 0.637681; Ru2Y5: Ru 0.285714, Y 0.714286 | model | [1] Amar 2011 | Table 3, p. 3, row 15; `ORC-75M77J5LX6` |  |
+| 1523 | Liq + Ru2Y5 -> RuY3 | Liq: Y 0.7895; Ru2Y5: Ru 0.285714, Y 0.714286; RuY3: Ru 0.25, Y 0.75 | experimental | [1] Amar 2011; _cites Massalski 1990_ | Table 3, p. 3, row 19; `ORC-EHV6NHESQT` |  |
+| 1523 | peritectic |  | model | [1] Amar 2011; _cites Massalski 1990_ | p. 1; `ORC-Y6TPN6GMVZ.59564d` | “For the Ru2Y and Ru2Y5 compounds, a congruent melting was estimated, respectively, at 2223 and 1593 K, while for the Ru2Y3, Ru25Y44, and RuY3 compounds, a peritectic formation was reported, respectively, at 1623, 1568, and 1523 K.” |
+| 1494 | Liq + Ru2Y5 -> RuY3 | Liq: Y 0.792; Ru2Y5: Ru 0.285714, Y 0.714286; RuY3: Ru 0.25, Y 0.75 | model | [1] Amar 2011 | Table 3, p. 3, row 21; `ORC-4XSJOPAOVE` |  |
+| 1493 | Liq + Ru2Y5 -> RuY3 | Liq: Y 0.804; Ru2Y5: Ru 0.285714, Y 0.714286; RuY3: Ru 0.25, Y 0.75 | model | [1] Amar 2011; _cites Selhaoui 1998_ [doi](https://doi.org/10.1006/jssc.1998.7795) | Table 3, p. 3, row 20; `ORC-DEJLNETLBV` |  |
+| 1473 | Liq -> Ru25Y44 + Ru2Y5 | Liq: Y 0.66; Ru25Y44: Ru 0.362319, Y 0.637681; Ru2Y5: Ru 0.285714, Y 0.714286 | experimental | [1] Amar 2011; _cites Massalski 1990_ | Table 3, p. 3, row 13; `ORC-FKPAEKMBTW` |  |
+| 1364 | Liq -> RuY3 + αY | Liq: Y 0.855; RuY3: Ru 0.25, Y 0.75 | model | [1] Amar 2011; _cites Selhaoui 1998_ [doi](https://doi.org/10.1006/jssc.1998.7795) | Table 3, p. 3, row 23; `ORC-7YBWTB2435` |  |
+| 1353 | Liq -> RuY3 + αY | Liq: Y 0.8579; RuY3: Ru 0.25, Y 0.75 | model | [1] Amar 2011 | Table 3, p. 3, row 24; `ORC-636YMRPZ7O` |  |
+| 1353 | Liq -> RuY3 + αY | Liq: Y 0.85; RuY3: Ru 0.25, Y 0.75 | experimental | [1] Amar 2011; _cites Massalski 1990_ | Table 3, p. 3, row 22; `ORC-IQBD5O2U3I` |  |
 
 ## Formation enthalpies
 
@@ -101,18 +101,18 @@ Table: Enthalpies of formation, Ru–Y system (12)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Ru25Y44 |  | -29.778 kJ/mol-atom | 300 | model |  |  | [1] Amar 2011; _cites Selhaoui 1998_ [doi](https://doi.org/10.1006/jssc.1998.7795) | Table 4, p. 4, row 6 |  |
-| Ru25Y44 |  | -25.431 kJ/mol-atom | 300 | model |  |  | [1] Amar 2011 | Table 4, p. 4, row 7 |  |
-| Ru2Y | [Ru2Y](https://data.orchid-project.org/compounds/Ru2Y.html) | -20.888 kJ/mol-atom | 300 | model | -30.337 (mp-aaabgini) | -29.461 (oqmd-19316) | [1] Amar 2011 | Table 4, p. 4, row 3 |  |
-| Ru2Y | [Ru2Y](https://data.orchid-project.org/compounds/Ru2Y.html) | -19.53 kJ/mol-atom | 300 | model | -30.337 (mp-aaabgini) | -29.461 (oqmd-19316) | [1] Amar 2011; _cites Selhaoui 1998_ [doi](https://doi.org/10.1006/jssc.1998.7795) | Table 4, p. 4, row 2 |  |
-| Ru2Y | [Ru2Y](https://data.orchid-project.org/compounds/Ru2Y.html) | -19.5 kJ/mol-atom ± 1.4 | 298.15 | experimental | -30.337 (mp-aaabgini) | -29.461 (oqmd-19316) | [1] Amar 2011; _cites Selhaoui 1993_ [doi](https://doi.org/10.1051/jcp/1993900435) | Table 4, p. 4, row 1 |  |
-| Ru2Y3 | [Ru2Y3](https://data.orchid-project.org/compounds/Ru2Y3.html) | -29.177 kJ/mol-atom | 300 | model | -24.703 (mp-aaacqpsk) | -24.499 (oqmd-1340063) | [1] Amar 2011; _cites Selhaoui 1998_ [doi](https://doi.org/10.1006/jssc.1998.7795) | Table 4, p. 4, row 4 |  |
-| Ru2Y3 | [Ru2Y3](https://data.orchid-project.org/compounds/Ru2Y3.html) | -24.789 kJ/mol-atom | 300 | model | -24.703 (mp-aaacqpsk) | -24.499 (oqmd-1340063) | [1] Amar 2011 | Table 4, p. 4, row 5 |  |
-| Ru2Y5 | [Ru2Y5](https://data.orchid-project.org/compounds/Ru2Y5.html) | -27.3 kJ/mol-atom ± 3.1 | 298.15 | experimental | -32.176 (mp-aaackwmc) | -31.792 (oqmd-1437125) | [1] Amar 2011; _cites Selhaoui 1993_ [doi](https://doi.org/10.1051/jcp/1993900435) | Table 4, p. 4, row 8 |  |
-| Ru2Y5 | [Ru2Y5](https://data.orchid-project.org/compounds/Ru2Y5.html) | -27.288 kJ/mol-atom | 300 | model | -32.176 (mp-aaackwmc) | -31.792 (oqmd-1437125) | [1] Amar 2011; _cites Selhaoui 1998_ [doi](https://doi.org/10.1006/jssc.1998.7795) | Table 4, p. 4, row 9 |  |
-| Ru2Y5 | [Ru2Y5](https://data.orchid-project.org/compounds/Ru2Y5.html) | -26.844 kJ/mol-atom | 300 | model | -32.176 (mp-aaackwmc) | -31.792 (oqmd-1437125) | [1] Amar 2011 | Table 4, p. 4, row 10 |  |
-| RuY3 | [RuY3](https://data.orchid-project.org/compounds/RuY3.html) | -25.052 kJ/mol-atom | 300 | model | -29.533 (mp-aaacqsrd) | -29.107 (oqmd-1437321) | [1] Amar 2011; _cites Selhaoui 1998_ [doi](https://doi.org/10.1006/jssc.1998.7795) | Table 4, p. 4, row 11 |  |
-| RuY3 | [RuY3](https://data.orchid-project.org/compounds/RuY3.html) | -23.319 kJ/mol-atom | 300 | model | -29.533 (mp-aaacqsrd) | -29.107 (oqmd-1437321) | [1] Amar 2011 | Table 4, p. 4, row 12 |  |
+| Ru25Y44 |  | -29.778 kJ/mol-atom | 300 | model |  |  | [1] Amar 2011; _cites Selhaoui 1998_ [doi](https://doi.org/10.1006/jssc.1998.7795) | Table 4, p. 4, row 6; `ORC-3XAZQFKVXK` |  |
+| Ru25Y44 |  | -25.431 kJ/mol-atom | 300 | model |  |  | [1] Amar 2011 | Table 4, p. 4, row 7; `ORC-ZGA6QVMJ6Y` |  |
+| Ru2Y | [Ru2Y](https://data.orchid-project.org/compounds/Ru2Y.html) | -20.888 kJ/mol-atom | 300 | model | -30.337 (mp-aaabgini) | -29.461 (oqmd-19316) | [1] Amar 2011 | Table 4, p. 4, row 3; `ORC-XDVKEGNRN4` |  |
+| Ru2Y | [Ru2Y](https://data.orchid-project.org/compounds/Ru2Y.html) | -19.53 kJ/mol-atom | 300 | model | -30.337 (mp-aaabgini) | -29.461 (oqmd-19316) | [1] Amar 2011; _cites Selhaoui 1998_ [doi](https://doi.org/10.1006/jssc.1998.7795) | Table 4, p. 4, row 2; `ORC-PLK6WNZDS6` |  |
+| Ru2Y | [Ru2Y](https://data.orchid-project.org/compounds/Ru2Y.html) | -19.5 kJ/mol-atom ± 1.4 | 298.15 | experimental | -30.337 (mp-aaabgini) | -29.461 (oqmd-19316) | [1] Amar 2011; _cites Selhaoui 1993_ [doi](https://doi.org/10.1051/jcp/1993900435) | Table 4, p. 4, row 1; `ORC-3OGL44PJJV` |  |
+| Ru2Y3 | [Ru2Y3](https://data.orchid-project.org/compounds/Ru2Y3.html) | -29.177 kJ/mol-atom | 300 | model | -24.703 (mp-aaacqpsk) | -24.499 (oqmd-1340063) | [1] Amar 2011; _cites Selhaoui 1998_ [doi](https://doi.org/10.1006/jssc.1998.7795) | Table 4, p. 4, row 4; `ORC-MQ4TP5TXVB` |  |
+| Ru2Y3 | [Ru2Y3](https://data.orchid-project.org/compounds/Ru2Y3.html) | -24.789 kJ/mol-atom | 300 | model | -24.703 (mp-aaacqpsk) | -24.499 (oqmd-1340063) | [1] Amar 2011 | Table 4, p. 4, row 5; `ORC-LMMM4D3AWD` |  |
+| Ru2Y5 | [Ru2Y5](https://data.orchid-project.org/compounds/Ru2Y5.html) | -27.3 kJ/mol-atom ± 3.1 | 298.15 | experimental | -32.176 (mp-aaackwmc) | -31.792 (oqmd-1437125) | [1] Amar 2011; _cites Selhaoui 1993_ [doi](https://doi.org/10.1051/jcp/1993900435) | Table 4, p. 4, row 8; `ORC-PRRL67TCIV` |  |
+| Ru2Y5 | [Ru2Y5](https://data.orchid-project.org/compounds/Ru2Y5.html) | -27.288 kJ/mol-atom | 300 | model | -32.176 (mp-aaackwmc) | -31.792 (oqmd-1437125) | [1] Amar 2011; _cites Selhaoui 1998_ [doi](https://doi.org/10.1006/jssc.1998.7795) | Table 4, p. 4, row 9; `ORC-GYJNMLB4PC` |  |
+| Ru2Y5 | [Ru2Y5](https://data.orchid-project.org/compounds/Ru2Y5.html) | -26.844 kJ/mol-atom | 300 | model | -32.176 (mp-aaackwmc) | -31.792 (oqmd-1437125) | [1] Amar 2011 | Table 4, p. 4, row 10; `ORC-SGLHVBJY6S` |  |
+| RuY3 | [RuY3](https://data.orchid-project.org/compounds/RuY3.html) | -25.052 kJ/mol-atom | 300 | model | -29.533 (mp-aaacqsrd) | -29.107 (oqmd-1437321) | [1] Amar 2011; _cites Selhaoui 1998_ [doi](https://doi.org/10.1006/jssc.1998.7795) | Table 4, p. 4, row 11; `ORC-F4AFZLTTVE` |  |
+| RuY3 | [RuY3](https://data.orchid-project.org/compounds/RuY3.html) | -23.319 kJ/mol-atom | 300 | model | -29.533 (mp-aaacqsrd) | -29.107 (oqmd-1437321) | [1] Amar 2011 | Table 4, p. 4, row 12; `ORC-ZYQBU3R4SI` |  |
 
 ## Other properties
 
@@ -122,10 +122,10 @@ Table: Phase transition, Ru–Y system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1473 K | 1473 | Liq $ Ru25Y44 ? Ru2Y5 | model | [1] Amar 2011; _cites Massalski 1990_ | p. 4 | “They are in reasonable agreement except for the temperature (1539 K) of Liq $ Ru25Y44 ? Ru2Y5 invariant for which our result is different from the one estimated (1473 K) by Massalski \[6\].” |
-| Phase transition | 1539 K | 1539 | Liq $ Ru25Y44 ? Ru2Y5 | model | [1] Amar 2011 | p. 4 | “They are in reasonable agreement except for the temperature (1539 K) of Liq $ Ru25Y44 ? Ru2Y5 invariant for which our result is different from the one estimated (1473 K) by Massalski \[6\].” |
-| Phase transition | 1593 K | 1593 | congruent transformation | model | [1] Amar 2011; _cites Massalski 1990_ | p. 1 | “For the Ru2Y and Ru2Y5 compounds, a congruent melting was estimated, respectively, at 2223 and 1593 K, while for the Ru2Y3, Ru25Y44, and RuY3 compounds, a peritectic formation was reported, respectively, at 1623, 1568, and 1523 K.” |
-| Phase transition | 2223 K | 2223 | congruent transformation | model | [1] Amar 2011; _cites Massalski 1990_ | p. 1 | “For the Ru2Y and Ru2Y5 compounds, a congruent melting was estimated, respectively, at 2223 and 1593 K, while for the Ru2Y3, Ru25Y44, and RuY3 compounds, a peritectic formation was reported, respectively, at 1623, 1568, and 1523 K.” |
+| Phase transition | 1473 K | 1473 | Liq $ Ru25Y44 ? Ru2Y5 | model | [1] Amar 2011; _cites Massalski 1990_ | p. 4; `ORC-E5MIPZ2CZG.50adab` | “They are in reasonable agreement except for the temperature (1539 K) of Liq $ Ru25Y44 ? Ru2Y5 invariant for which our result is different from the one estimated (1473 K) by Massalski \[6\].” |
+| Phase transition | 1539 K | 1539 | Liq $ Ru25Y44 ? Ru2Y5 | model | [1] Amar 2011 | p. 4; `ORC-E5MIPZ2CZG.d51055` | “They are in reasonable agreement except for the temperature (1539 K) of Liq $ Ru25Y44 ? Ru2Y5 invariant for which our result is different from the one estimated (1473 K) by Massalski \[6\].” |
+| Phase transition | 1593 K | 1593 | congruent transformation | model | [1] Amar 2011; _cites Massalski 1990_ | p. 1; `ORC-Y6TPN6GMVZ.8e582e` | “For the Ru2Y and Ru2Y5 compounds, a congruent melting was estimated, respectively, at 2223 and 1593 K, while for the Ru2Y3, Ru25Y44, and RuY3 compounds, a peritectic formation was reported, respectively, at 1623, 1568, and 1523 K.” |
+| Phase transition | 2223 K | 2223 | congruent transformation | model | [1] Amar 2011; _cites Massalski 1990_ | p. 1; `ORC-Y6TPN6GMVZ.f20d79` | “For the Ru2Y and Ru2Y5 compounds, a congruent melting was estimated, respectively, at 2223 and 1593 K, while for the Ru2Y3, Ru25Y44, and RuY3 compounds, a peritectic formation was reported, respectively, at 1623, 1568, and 1523 K.” |
 
 ## Sources
 
@@ -190,4 +190,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

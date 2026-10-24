@@ -14,14 +14,14 @@ Table: Enthalpy of formation of Ba3Pb5 reported in the literature (8)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -60 kJ/mol-atom ± 2 | βBa0.375Pb0.625 | 300 | experimental |  | [Ba–Pb](https://data.orchid-project.org/systems/BA-PB.html) | [1] Idbenali 2007; _cites Conclusion_ | Table 5, p. 9, row 20 |  |
-| -60 kJ/mol-atom ± 2 | αBa0.375Pb0.625 | 300 | experimental |  | [Ba–Pb](https://data.orchid-project.org/systems/BA-PB.html) | [1] Idbenali 2007; _cites Conclusion_ | Table 5, p. 9, row 24 |  |
-| -62.811 kJ/mol-atom | αBa0.375Pb0.625 | 300 | model |  | [Ba–Pb](https://data.orchid-project.org/systems/BA-PB.html) | [1] Idbenali 2007 | Table 5, p. 9, row 25 |  |
-| -62.809 kJ/mol-atom | βBa0.375Pb0.625 | 300 | model |  | [Ba–Pb](https://data.orchid-project.org/systems/BA-PB.html) | [1] Idbenali 2007 | Table 5, p. 9, row 21 |  |
-| -62.709 kJ/mol-atom | αBa0.375Pb0.625 | 300 | model |  | [Ba–Pb](https://data.orchid-project.org/systems/BA-PB.html) | [1] Idbenali 2007 | Table 5, p. 9, row 23 |  |
-| -62.708 kJ/mol-atom | βBa0.375Pb0.625 | 300 | model |  | [Ba–Pb](https://data.orchid-project.org/systems/BA-PB.html) | [1] Idbenali 2007 | Table 5, p. 9, row 19 |  |
-| -59.844 kJ/mol-atom | αBa0.375Pb0.625 | 300 | model |  | [Ba–Pb](https://data.orchid-project.org/systems/BA-PB.html) | [1] Idbenali 2007 | Table 5, p. 9, row 26 |  |
-| -59.843 kJ/mol-atom | βBa0.375Pb0.625 | 300 | model |  | [Ba–Pb](https://data.orchid-project.org/systems/BA-PB.html) | [1] Idbenali 2007 | Table 5, p. 9, row 22 |  |
+| -60 kJ/mol-atom ± 2 | βBa0.375Pb0.625 | 300 | experimental |  | [Ba–Pb](https://data.orchid-project.org/systems/BA-PB.html) | [1] Idbenali 2007; _cites Conclusion_ | Table 5, p. 9, row 20; `ORC-ERUWHO6TNF.7818e1` |  |
+| -60 kJ/mol-atom ± 2 | αBa0.375Pb0.625 | 300 | experimental |  | [Ba–Pb](https://data.orchid-project.org/systems/BA-PB.html) | [1] Idbenali 2007; _cites Conclusion_ | Table 5, p. 9, row 24; `ORC-XPGR46OSAB.1518c7` |  |
+| -62.811 kJ/mol-atom | αBa0.375Pb0.625 | 300 | model |  | [Ba–Pb](https://data.orchid-project.org/systems/BA-PB.html) | [1] Idbenali 2007 | Table 5, p. 9, row 25; `ORC-NKOI3BAOYY.5b6a16` |  |
+| -62.809 kJ/mol-atom | βBa0.375Pb0.625 | 300 | model |  | [Ba–Pb](https://data.orchid-project.org/systems/BA-PB.html) | [1] Idbenali 2007 | Table 5, p. 9, row 21; `ORC-Y3H5G7UCBP.6692a3` |  |
+| -62.709 kJ/mol-atom | αBa0.375Pb0.625 | 300 | model |  | [Ba–Pb](https://data.orchid-project.org/systems/BA-PB.html) | [1] Idbenali 2007 | Table 5, p. 9, row 23; `ORC-KT2PAP7VWW.57e7af` |  |
+| -62.708 kJ/mol-atom | βBa0.375Pb0.625 | 300 | model |  | [Ba–Pb](https://data.orchid-project.org/systems/BA-PB.html) | [1] Idbenali 2007 | Table 5, p. 9, row 19; `ORC-HH7D3WMAT5.2ce88c` |  |
+| -59.844 kJ/mol-atom | αBa0.375Pb0.625 | 300 | model |  | [Ba–Pb](https://data.orchid-project.org/systems/BA-PB.html) | [1] Idbenali 2007 | Table 5, p. 9, row 26; `ORC-FE4LOUYFBC.68bfa6` |  |
+| -59.843 kJ/mol-atom | βBa0.375Pb0.625 | 300 | model |  | [Ba–Pb](https://data.orchid-project.org/systems/BA-PB.html) | [1] Idbenali 2007 | Table 5, p. 9, row 22; `ORC-VPP4XDCYMT.5e421e` |  |
 
 ### Uncertainty budget
 
@@ -104,4 +104,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

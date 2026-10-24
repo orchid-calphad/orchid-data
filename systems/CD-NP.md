@@ -30,9 +30,9 @@ Table: Invariant reactions reported in the literature for the Cd–Np system (3)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 758 | peritectic |  | experimental | [1] Kurata 2001; _cites Krumpelt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990117-9) | p. 2 | “The Cd11Np decomposed peritectically at 758 K into a saturated liquid phase and Cd6Np.” |
-| 756 | peritectic |  | model | [1] Kurata 2001 | p. 4 | “The peritectic temperature for the Cd11Np decomposition is calculated to be 756 K, only 2 K higher than the” |
-| 750 | peritectic |  | model | [1] Kurata 2001 | p. 7 | “A discontinuity is observed in the Np and Pu curves at approximately 750 and 670 K, respectively. This corresponds to the peritectic temperature.” |
+| 758 | peritectic |  | experimental | [1] Kurata 2001; _cites Krumpelt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990117-9) | p. 2; `ORC-EBBJB5AMGU` | “The Cd11Np decomposed peritectically at 758 K into a saturated liquid phase and Cd6Np.” |
+| 756 | peritectic |  | model | [1] Kurata 2001 | p. 4; `ORC-CF2NUTM6EW` | “The peritectic temperature for the Cd11Np decomposition is calculated to be 756 K, only 2 K higher than the” |
+| 750 | peritectic |  | model | [1] Kurata 2001 | p. 7; `ORC-EI2R22BAAN.c407a6` | “A discontinuity is observed in the Np and Pu curves at approximately 750 and 670 K, respectively. This corresponds to the peritectic temperature.” |
 
 ## Other properties
 
@@ -42,7 +42,7 @@ Table: Phase transition, Cd–Np system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1028 K | 1028 | congruent transformation | model | [1] Kurata 2001 | p. 5 | “By extrapolating the calculated solubility with respect to Cd6Np into a higher temperature region, the congruent melting temperature of Cd6Np is predicted to be 1028 K.” |
+| Phase transition | 1028 K | 1028 | congruent transformation | model | [1] Kurata 2001 | p. 5; `ORC-MCWPJ73DQ7` | “By extrapolating the calculated solubility with respect to Cd6Np into a higher temperature region, the congruent melting temperature of Cd6Np is predicted to be 1028 K.” |
 
 ## Sources
 
@@ -96,4 +96,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

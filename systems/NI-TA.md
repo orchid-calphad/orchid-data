@@ -117,93 +117,93 @@ Table: Invariant reactions reported in the literature for the Ni–Ta system (87
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2067 | liq + bcc -> C16-NiTa2 | liq: Ta 0.595; bcc: Ta 0.788; C16: Ta 0.692 | model | [1] Zhou 2009; _cites Cui 1999_ | Table 7, p. 8, row 2 |  |
-| 2061.15 | peritectic: liquid + bcc - A2 -> NiTa2 | NiTa2: Ta 0.666667 | unspecified | [2] Ansara 1994; _cites ref. 84Nas_ | Table II, p. 5, row 10 |  |
-| 2061 | liq. + bcc(Ta) -> NiTa2 | L: Ta 0.589; bcc(Ta): Ta 0.858; NiTa2: Ta 0.709 | model | [3] Zhou 2018 | Table 7, p. 11, row 26 |  |
-| 2061 | liq + bcc -> C16-NiTa2 | C16-NiTa2: Ni 0.333333, Ta 0.666667 | experimental | [1] Zhou 2009; _cites Kornilov 1962_ | Table 7, p. 8, row 4 |  |
-| 2061 | liq. + bcc(Ta) -> NiTa2 | L: Ta 0.543; bcc(Ta): Ta 0.8; NiTa2: Ta 0.675 | experimental | [3] Zhou 2018; _cites Kornilov 1962_ | Table 7, p. 11, row 24 |  |
-| 2060 | liq + bcc -> C16-NiTa2 | liq: Ta 0.551; bcc: Ta 0.791; C16: Ta 0.708 | model | [1] Zhou 2009 | Table 7, p. 8, row 1 |  |
-| 2059.15 | peritectic: liquid + bcc - A2 -> NiTa2 | liquid: Ta 0.578; bcc - A2: Ta 0.788; NiTa2: Ta 0.666 | unspecified | [2] Ansara 1994 | Table II, p. 5, row 9 |  |
-| 2058.15 | peritectic |  | experimental | [2] Ansara 1994; _cites ref. 62Kor_ | p. 1 | “\[62Kor\] identified N'T I a and NiTa as products obtained by peritectic reactions at 1570 and 1785°C respectively.” |
-| 2051 | liq + bcc -> C16-NiTa2 | liq: Ta 0.559; bcc: Ta 0.799; C16: Ta 0.711 | model | [1] Zhou 2009; _cites Pan 2002_ | Table 7, p. 8, row 3 |  |
-| 1851 | liq + C16Ta2 -> μ-NiTa | liq: Ta 0.486; C16: Ta 0.674; μ: Ta 0.53 | model | [1] Zhou 2009; _cites Pan 2002_ | Table 7, p. 8, row 7 |  |
-| 1844 | liq. + NiTa2 -> μ-NiTa | NiTa2: Ni 0.333333, Ta 0.666667; μ-NiTa: Ni 0.5, Ta 0.5 | experimental | [3] Zhou 2018; _cites Therkelsen 1933_ | Table 7, p. 11, row 19 |  |
-| 1844 | liq + C16Ta2 -> μ-NiTa | C16Ta2: Ni 0.333333, Ta 0.666667; μ-NiTa: Ni 0.5, Ta 0.5 | experimental | [1] Zhou 2009; _cites Therkelsen 1933_ | Table 7, p. 8, row 8 |  |
-| 1843.15 | peritectic |  | experimental | [2] Ansara 1994; _cites ref. 62Kor_ | p. 1 | “\[62Kor\] identified N'T I a and NiTa as products obtained by peritectic reactions at 1570 and 1785°C respectively.” |
-| 1843.15 | peritectic: liquid + NiTa2 -> NiTa | NiTa2: Ta 0.666667; NiTa: Ta 0.5 | unspecified | [2] Ansara 1994; _cites ref. 84Nas_ | Table II, p. 5, row 8 |  |
-| 1843.15 | peritectic: liquid + NiTa2 -> NiTa | liquid: Ta 0.48; NiTa2: Ta 0.666; NiTa: Ta 0.5 | unspecified | [2] Ansara 1994 | Table II, p. 5, row 7 |  |
-| 1843 | liq + C16Ta2 -> μ-NiTa | C16Ta2: Ni 0.333333, Ta 0.666667; μ-NiTa: Ni 0.5, Ta 0.5 | experimental | [1] Zhou 2009; _cites Kornilov 1962_ | Table 7, p. 8, row 10 |  |
-| 1843 | liq. + NiTa2 -> μ-NiTa | L: Ta 0.517; NiTa2: Ta 0.681; μ-NiTa: Ta 0.572 | model | [3] Zhou 2018 | Table 7, p. 11, row 22 |  |
-| 1843 | liq. + NiTa2 -> μ-NiTa | L: Ta 0.489; NiTa2: Ta 0.667; μ-NiTa: Ta 0.51 | experimental | [3] Zhou 2018; _cites Kornilov 1962_ | Table 7, p. 11, row 21 |  |
-| 1842 | liq + C16Ta2 -> μ-NiTa | liq: Ta 0.493; C16: Ta 0.667; μ: Ta 0.531 | model | [1] Zhou 2009; _cites Cui 1999_ | Table 7, p. 8, row 6 |  |
-| 1842 | liq + C16Ta2 -> μ-NiTa | liq: Ta 0.471; C16: Ta 0.679; μ: Ta 0.574 | model | [1] Zhou 2009 | Table 7, p. 8, row 5 |  |
-| 1824 | liq -> κ-Ni3Ta | liq: Ta 0.25; κ: Ta 0.25 | model | [1] Zhou 2009; _cites Pan 2002_ | Table 7, p. 8, row 13 |  |
-| 1817 | liq + C16Ta2 -> μ-NiTa | C16Ta2: Ni 0.333333, Ta 0.666667; μ-NiTa: Ni 0.5, Ta 0.5 | experimental | [1] Zhou 2009; _cites Kubaschewski 1949_ | Table 7, p. 8, row 9 |  |
-| 1815 | liq -> κ-Ni3Ta | liq: Ni 0.75, Ta 0.25; κ-Ni3Ta: Ni 0.75, Ta 0.25 | experimental | [1] Zhou 2009; _cites Kubaschewski 1949_ | Table 7, p. 8, row 15 |  |
-| 1814 | liq. -> Ni3Ta | L: Ni 0.75, Ta 0.25; Ni3Ta: Ni 0.75, Ta 0.25 | experimental | [3] Zhou 2018; _cites Therkelsen 1933_ | Table 7, p. 11, row 6 |  |
-| 1814 | liq -> κ-Ni3Ta | liq: Ni 0.75, Ta 0.25; κ-Ni3Ta: Ni 0.75, Ta 0.25 | experimental | [1] Zhou 2009; _cites Therkelsen 1933_ | Table 7, p. 8, row 14 |  |
-| 1813 | liq. -> Ni3Ta | L: Ta 0.245; Ni3Ta: Ta 0.245 | experimental | [3] Zhou 2018; _cites Kubaschewski 1949_ | Table 7, p. 11, row 7 |  |
-| 1810 | liq. -> Ni3Ta | L: Ta 0.25; Ni3Ta: Ta 0.25 | model | [3] Zhou 2018 | Table 7, p. 11, row 9 |  |
-| 1810 | liq -> κ-Ni3Ta | liq: Ta 0.25; κ: Ta 0.25 | model | [1] Zhou 2009; _cites Cui 1999_ | Table 7, p. 8, row 12 |  |
-| 1808 | liq. -> Ni3Ta | L: Ta 0.25; Ni3Ta: Ta 0.25 | experimental | [3] Zhou 2018; _cites Kornilov 1962_ | Table 7, p. 11, row 8 |  |
-| 1808 | liq -> κ-Ni3Ta | liq: Ni 0.75, Ta 0.25; κ-Ni3Ta: Ni 0.75, Ta 0.25 | experimental | [1] Zhou 2009; _cites Kornilov 1962_ | Table 7, p. 8, row 16 |  |
-| 1805 | liq -> κ-Ni3Ta | liq: Ta 0.25; κ: Ta 0.25 | model | [1] Zhou 2009 | Table 7, p. 8, row 11 |  |
-| 1798 | liq. + NiTa2 -> μ-NiTa | L: Ta 0.576; NiTa2: Ni 0.333333, Ta 0.666667; μ-NiTa: Ni 0.5, Ta 0.5 | experimental | [3] Zhou 2018; _cites Kubaschewski 1949_ | Table 7, p. 11, row 20 |  |
-| 1678.15 | peritectic: liquid + Ni3Ta -> Ni2Ta | Ni3Ta: Ta 0.25; Ni2Ta: Ta 0.333333 | unspecified | [2] Ansara 1994; _cites ref. 84Nas_ | Table II, p. 5, row 4 |  |
-| 1678 | liq + κ-Ni3Ta -> C11b-Ni2Ta | κ-Ni3Ta: Ni 0.75, Ta 0.25; C11b-Ni2Ta: Ni 0.666667, Ta 0.333333 | experimental | [1] Zhou 2009; _cites Kornilov 1962_ | Table 7, p. 8, row 28 |  |
-| 1678 | liq -> μ-NiTa + C11b-Ni2Ta | liq: Ta 0.367; μ: Ta 0.502; C11b: Ta 0.344 | model | [1] Zhou 2009 | Table 7, p. 8, row 29 |  |
-| 1678 | liq. + Ni3Ta -> Ni2Ta | L: Ta 0.35; Ni3Ta: Ta 0.285; Ni2Ta: Ta 0.34 | experimental | [3] Zhou 2018; _cites Kornilov 1962_ | Table 7, p. 11, row 11 |  |
-| 1678 | liq + κ-Ni3Ta -> C11b-Ni2Ta | liq: Ta 0.366; κ: Ta 0.253; C11b: Ta 0.344 | model | [1] Zhou 2009 | Table 7, p. 8, row 23 |  |
-| 1677 | liq. + Ni3Ta -> Ni2Ta | Ni3Ta: Ni 0.75, Ta 0.25; Ni2Ta: Ni 0.666667, Ta 0.333333 | experimental | [3] Zhou 2018 | Table 7, p. 11, row 12 |  |
-| 1677 | liq. + Ni3Ta -> Ni2Ta | L: Ta 0.348; Ni3Ta: Ta 0.258; Ni2Ta: Ta 0.339 | model | [3] Zhou 2018 | Table 7, p. 11, row 13 |  |
-| 1676.15 | peritectic: liquid + Ni3Ta -> Ni2Ta | liquid: Ta 0.357; Ni3Ta: Ta 0.25; Ni2Ta: Ta 0.333 | unspecified | [2] Ansara 1994 | Table II, p. 5, row 3 |  |
-| 1676 | liq + κ-Ni3Ta -> C11b-Ni2Ta | liq: Ta 0.355; κ: Ta 0.271; C11b: Ta 0.333 | model | [1] Zhou 2009; _cites Cui 1999_ | Table 7, p. 8, row 24 |  |
-| 1674.15 | eutectic: liquid -> Ni2Ta + NiTa | liquid: Ta 0.362; Ni2Ta: Ta 0.333; NiTa: Ta 0.5 | unspecified | [2] Ansara 1994 | Table II, p. 5, row 5 |  |
-| 1673 | liq + κ-Ni3Ta -> C11b-Ni2Ta | κ-Ni3Ta: Ni 0.75, Ta 0.25; C11b-Ni2Ta: Ni 0.666667, Ta 0.333333 | experimental | [1] Zhou 2009; _cites Kubaschewski 1949_ | Table 7, p. 8, row 27 |  |
-| 1666 | liq -> fcc + κ-Ni3Ta | liq: Ta 0.144; fcc: Ta 0.137; κ: Ta 0.241 | model | [1] Zhou 2009 | Table 7, p. 8, row 17 |  |
-| 1663 | liq -> μ-NiTa + C11b-Ni2Ta | liq: Ta 0.373; μ: Ta 0.5; C11b: Ta 0.333 | model | [1] Zhou 2009; _cites Cui 1999_ | Table 7, p. 8, row 30 |  |
-| 1662 | liq + κ-Ni3Ta -> C11b-Ni2Ta | liq: Ta 0.357; κ: Ta 0.279; C11b: Ta 0.341 | model | [1] Zhou 2009; _cites Pan 2002_ | Table 7, p. 8, row 25 |  |
-| 1647 | liq -> μ-NiTa + C11b-Ni2Ta | liq: Ta 0.381; μ: Ta 0.504; C11b: Ta 0.349 | model | [1] Zhou 2009; _cites Pan 2002_ | Table 7, p. 8, row 31 |  |
-| 1645 | liq. -> fcc(Ni) + Ni3Ta | L: Ta 0.152; fcc(Ni): Ta 0.137; Ni3Ta: Ta 0.238 | model | [3] Zhou 2018 | Table 7, p. 11, row 5 |  |
-| 1645 | liq. -> fcc(Ni) + Ni3Ta | Ni3Ta: Ni 0.75, Ta 0.25 | experimental | [3] Zhou 2018 | Table 7, p. 11, row 4 |  |
-| 1643 | liq. -> Ni2Ta + μ-NiTa | Ni2Ta: Ni 0.666667, Ta 0.333333; μ-NiTa: Ni 0.5, Ta 0.5 | experimental | [3] Zhou 2018 | Table 7, p. 11, row 17 |  |
-| 1643 | liq. -> Ni2Ta + μ-NiTa | L: Ta 0.402; Ni2Ta: Ta 0.354; μ-NiTa: Ta 0.515 | model | [3] Zhou 2018 | Table 7, p. 11, row 18 |  |
-| 1643 | liq -> fcc + κ-Ni3Ta | κ-Ni3Ta: Ni 0.75, Ta 0.25 | experimental | [1] Zhou 2009; _cites Kubaschewski 1949_ | Table 7, p. 8, row 21 |  |
-| 1641.15 | eutectic: liquid -> fcc - A1 + Ni3Ta | liquid: Ta 0.146; fcc - A1: Ta 0.135; Ni3Ta: Ta 0.25 | unspecified | [2] Ansara 1994 | Table II, p. 5, row 1 |  |
-| 1639 | liq -> μ-NiTa + C11b-Ni2Ta | μ-NiTa: Ni 0.5, Ta 0.5; C11b-Ni2Ta: Ni 0.666667, Ta 0.333333 | experimental | [1] Zhou 2009; _cites Kubaschewski 1949_ | Table 7, p. 8, row 33 |  |
-| 1638 | liq. -> fcc(Ni) + Ni3Ta | L: Ta 0.161; fcc(Ni): Ta 0.129; Ni3Ta: Ta 0.206 | experimental | [3] Zhou 2018; _cites Kubaschewski 1949_ | Table 7, p. 11, row 2 |  |
-| 1634 | liq -> μ-NiTa + C11b-Ni2Ta | μ-NiTa: Ni 0.5, Ta 0.5; C11b-Ni2Ta: Ni 0.666667, Ta 0.333333 | experimental | [1] Zhou 2009; _cites Kornilov 1962_ | Table 7, p. 8, row 34 |  |
-| 1634 | liq. -> Ni2Ta + μ-NiTa | L: Ta 0.36; Ni2Ta: Ta 0.35; μ-NiTa: Ta 0.5 | experimental | [3] Zhou 2018; _cites Kornilov 1962_ | Table 7, p. 11, row 16 |  |
-| 1633.15 | eutectic: liquid -> fcc - A1 + Ni3Ta | Ni3Ta: Ta 0.25 | unspecified | [2] Ansara 1994; _cites ref. 84Nas_ | Table II, p. 5, row 2 |  |
-| 1633 | liq -> fcc + κ-Ni3Ta | κ-Ni3Ta: Ni 0.75, Ta 0.25 | experimental | [1] Zhou 2009; _cites Kornilov 1962_ | Table 7, p. 8, row 22 |  |
-| 1633 | liq. -> fcc(Ni) + Ni3Ta | L: Ta 0.172; Ni3Ta: Ni 0.75, Ta 0.25 | experimental | [3] Zhou 2018; _cites Kornilov 1953_ | Table 7, p. 11, row 3 |  |
-| 1627 | liq -> fcc + κ-Ni3Ta | liq: Ta 0.139; fcc: Ta 0.113; κ: Ta 0.23 | model | [1] Zhou 2009; _cites Cui 1999_ | Table 7, p. 8, row 18 |  |
-| 1625 | liq -> fcc + κ-Ni3Ta | liq: Ta 0.153; fcc: Ta 0.139; κ: Ta 0.242 | model | [1] Zhou 2009; _cites Pan 2002_ | Table 7, p. 8, row 19 |  |
-| 1623.15 | eutectic: liquid -> Ni2Ta + NiTa | Ni2Ta: Ta 0.333333; NiTa: Ta 0.5 | unspecified | [2] Ansara 1994; _cites ref. 84Nas_ | Table II, p. 5, row 6 |  |
-| 1623 | liq. -> Ni2Ta + μ-NiTa | L: Ta 0.428; Ni2Ta: Ta 0.371; μ-NiTa: Ni 0.5, Ta 0.5 | experimental | [3] Zhou 2018; _cites Kubaschewski 1949_ | Table 7, p. 11, row 15 |  |
-| 1618 | liq + κ-Ni3Ta -> C11b-Ni2Ta | κ-Ni3Ta: Ni 0.75, Ta 0.25; C11b-Ni2Ta: Ni 0.666667, Ta 0.333333 | experimental | [1] Zhou 2009; _cites Therkelsen 1933_ | Table 7, p. 8, row 26 |  |
-| 1618 | liq. + Ni3Ta -> Ni2Ta | Ni3Ta: Ni 0.75, Ta 0.25; Ni2Ta: Ni 0.666667, Ta 0.333333 | experimental | [3] Zhou 2018; _cites Therkelsen 1933_ | Table 7, p. 11, row 10 |  |
-| 1616 | liq. -> fcc(Ni) + Ni3Ta | Ni3Ta: Ni 0.75, Ta 0.25 | experimental | [3] Zhou 2018; _cites Therkelsen 1933_ | Table 7, p. 11, row 1 |  |
-| 1616 | liq -> fcc + κ-Ni3Ta | κ-Ni3Ta: Ni 0.75, Ta 0.25 | experimental | [1] Zhou 2009; _cites Therkelsen 1933_ | Table 7, p. 8, row 20 |  |
-| 1615 | liq. -> Ni2Ta + μ-NiTa | Ni2Ta: Ni 0.666667, Ta 0.333333; μ-NiTa: Ni 0.5, Ta 0.5 | experimental | [3] Zhou 2018; _cites Therkelsen 1933_ | Table 7, p. 11, row 14 |  |
-| 1615 | liq -> μ-NiTa + C11b-Ni2Ta | μ-NiTa: Ni 0.5, Ta 0.5; C11b-Ni2Ta: Ni 0.666667, Ta 0.333333 | experimental | [1] Zhou 2009; _cites Therkelsen 1933_ | Table 7, p. 8, row 32 |  |
-| 1603.15 | eutectoid: fcc - A1 -> Ni8Ta + Ni3Ta | Ni8Ta: Ta 0.111111; Ni3Ta: Ta 0.25 | unspecified | [2] Ansara 1994; _cites ref. 84Nas_ | Table II, p. 5, row 12 |  |
-| 1593 | fcc -> ζ-Ni8Ta | fcc: Ni 0.888889, Ta 0.111111; ζ-Ni8Ta: Ni 0.888889, Ta 0.111111 | experimental | [1] Zhou 2009; _cites Nash 1983_ [doi](https://doi.org/10.1179/030634583790427649) | Table 7, p. 8, row 39 |  |
-| 1584 | fcc -> ζ-Ni8Ta | ζ-Ni8Ta: Ni 0.888889, Ta 0.111111 | model | [1] Zhou 2009; _cites Pan 2002_ | Table 7, p. 8, row 37 |  |
-| 1584 | fcc -> ζ-Ni8Ta | ζ-Ni8Ta: Ni 0.888889, Ta 0.111111 | model | [1] Zhou 2009 | Table 7, p. 8, row 35 |  |
-| 1581 | fcc -> ζ-Ni8Ta | ζ-Ni8Ta: Ni 0.888889, Ta 0.111111 | model | [1] Zhou 2009; _cites Cui 1999_ | Table 7, p. 8, row 36 |  |
-| 1580 | fcc -> κ-Ni3Ta + ζ-Ni8Ta | fcc: Ta 0.1114; κ: Ta 0.231; ζ: Ta 0.1111 | model | [1] Zhou 2009; _cites Cui 1999_ | Table 7, p. 8, row 41 |  |
-| 1573 | fcc -> ζ-Ni8Ta | fcc: Ni 0.888889, Ta 0.111111; ζ-Ni8Ta: Ni 0.888889, Ta 0.111111 | experimental | [1] Zhou 2009; _cites Pimenov 1977_ | Table 7, p. 8, row 38 |  |
-| 1572 | fcc -> κ-Ni3Ta + ζ-Ni8Ta | κ-Ni3Ta: Ni 0.75, Ta 0.25; ζ-Ni8Ta: Ni 0.888889, Ta 0.111111 | experimental | [1] Zhou 2009; _cites Kornilov 1953_ | Table 7, p. 8, row 43 |  |
-| 1571 | fcc -> κ-Ni3Ta + ζ-Ni8Ta | fcc: Ta 0.126; κ: Ta 0.237; ζ: Ta 0.111 | model | [1] Zhou 2009 | Table 7, p. 8, row 40 |  |
-| 1555.15 | eutectoid: fcc - A1 -> Ni8Ta + Ni3Ta | fcc - A1: Ta 0.128; Ni8Ta: Ta 0.111; Ni3Ta: Ta 0.25 | unspecified | [2] Ansara 1994 | Table II, p. 5, row 11 |  |
-| 1547 | fcc -> κ-Ni3Ta + ζ-Ni8Ta | fcc: Ta 0.136; κ: Ta 0.242; ζ: Ta 0.111 | model | [1] Zhou 2009; _cites Pan 2002_ | Table 7, p. 8, row 42 |  |
-| 603 | κ-Ni3Ta + C11b-Ni2Ta -> D022-Ni3Ta | κ: Ta 0.249; D022: Ta 0.25; C11b: Ta 0.329 | model | [1] Zhou 2009 | Table 7, p. 8, row 44 |  |
-| 600 | κ-Ni3Ta -> D022-Ni3Ta + ζ-Ni8Ta | κ: Ta 0.244; D022: Ta 0.25; ζ: Ta 0.111 | model | [1] Zhou 2009 | Table 7, p. 8, row 45 |  |
-| 474 | μ-NiTa -> C16-NiTa2 + C11b-Ni2Ta | μ: Ta 0.526; C16: Ta 0.666; C11b: Ta 0.334 | model | [1] Zhou 2009 | Table 7, p. 8, row 46 |  |
-| 231 | κ-Ni3Ta -> ζ-Ni8Ta + C11b-Ni2Ta | κ: Ta 0.25; ζ: Ta 0.111; C11b: Ta 0.333 | model | [1] Zhou 2009; _cites Cui 1999_ | Table 7, p. 8, row 48 |  |
-| 109 | μ-NiTa -> C16-NiTa2 + C11b-Ni2Ta | μ: Ta 0.504; C16: Ta 0.667; C11b: Ta 0.333 | model | [1] Zhou 2009; _cites Pan 2002_ | Table 7, p. 8, row 47 |  |
-| 42 | κ-Ni3Ta -> ζ-Ni8Ta + C11b-Ni2Ta | κ: Ta 0.25; ζ: Ta 0.111; C11b: Ta 0.333 | model | [1] Zhou 2009; _cites Pan 2002_ | Table 7, p. 8, row 49 |  |
+| 2067 | liq + bcc -> C16-NiTa2 | liq: Ta 0.595; bcc: Ta 0.788; C16: Ta 0.692 | model | [1] Zhou 2009; _cites Cui 1999_ | Table 7, p. 8, row 2; `ORC-42XAT55KJZ` |  |
+| 2061.15 | peritectic: liquid + bcc - A2 -> NiTa2 | NiTa2: Ta 0.666667 | unspecified | [2] Ansara 1994; _cites ref. 84Nas_ | Table II, p. 5, row 10; `ORC-7GYTDGTAE4` |  |
+| 2061 | liq. + bcc(Ta) -> NiTa2 | L: Ta 0.589; bcc(Ta): Ta 0.858; NiTa2: Ta 0.709 | model | [3] Zhou 2018 | Table 7, p. 11, row 26; `ORC-4R67F25JHG` |  |
+| 2061 | liq + bcc -> C16-NiTa2 | C16-NiTa2: Ni 0.333333, Ta 0.666667 | experimental | [1] Zhou 2009; _cites Kornilov 1962_ | Table 7, p. 8, row 4; `ORC-7OG4QGLAKN` |  |
+| 2061 | liq. + bcc(Ta) -> NiTa2 | L: Ta 0.543; bcc(Ta): Ta 0.8; NiTa2: Ta 0.675 | experimental | [3] Zhou 2018; _cites Kornilov 1962_ | Table 7, p. 11, row 24; `ORC-ARBM4EU2WF` |  |
+| 2060 | liq + bcc -> C16-NiTa2 | liq: Ta 0.551; bcc: Ta 0.791; C16: Ta 0.708 | model | [1] Zhou 2009 | Table 7, p. 8, row 1; `ORC-CLMHOJSLT2` |  |
+| 2059.15 | peritectic: liquid + bcc - A2 -> NiTa2 | liquid: Ta 0.578; bcc - A2: Ta 0.788; NiTa2: Ta 0.666 | unspecified | [2] Ansara 1994 | Table II, p. 5, row 9; `ORC-XKJF74QDVC` |  |
+| 2058.15 | peritectic |  | experimental | [2] Ansara 1994; _cites ref. 62Kor_ | p. 1; `ORC-4VLHP4OROM.4bac39` | “\[62Kor\] identified N'T I a and NiTa as products obtained by peritectic reactions at 1570 and 1785°C respectively.” |
+| 2051 | liq + bcc -> C16-NiTa2 | liq: Ta 0.559; bcc: Ta 0.799; C16: Ta 0.711 | model | [1] Zhou 2009; _cites Pan 2002_ | Table 7, p. 8, row 3; `ORC-V47VAIWZML` |  |
+| 1851 | liq + C16Ta2 -> μ-NiTa | liq: Ta 0.486; C16: Ta 0.674; μ: Ta 0.53 | model | [1] Zhou 2009; _cites Pan 2002_ | Table 7, p. 8, row 7; `ORC-NMS2ERLK6T` |  |
+| 1844 | liq. + NiTa2 -> μ-NiTa | NiTa2: Ni 0.333333, Ta 0.666667; μ-NiTa: Ni 0.5, Ta 0.5 | experimental | [3] Zhou 2018; _cites Therkelsen 1933_ | Table 7, p. 11, row 19; `ORC-GVYGDR4X76` |  |
+| 1844 | liq + C16Ta2 -> μ-NiTa | C16Ta2: Ni 0.333333, Ta 0.666667; μ-NiTa: Ni 0.5, Ta 0.5 | experimental | [1] Zhou 2009; _cites Therkelsen 1933_ | Table 7, p. 8, row 8; `ORC-R42RUOIL2G` |  |
+| 1843.15 | peritectic |  | experimental | [2] Ansara 1994; _cites ref. 62Kor_ | p. 1; `ORC-4VLHP4OROM.4b9faa` | “\[62Kor\] identified N'T I a and NiTa as products obtained by peritectic reactions at 1570 and 1785°C respectively.” |
+| 1843.15 | peritectic: liquid + NiTa2 -> NiTa | NiTa2: Ta 0.666667; NiTa: Ta 0.5 | unspecified | [2] Ansara 1994; _cites ref. 84Nas_ | Table II, p. 5, row 8; `ORC-B3MDRYQMIL` |  |
+| 1843.15 | peritectic: liquid + NiTa2 -> NiTa | liquid: Ta 0.48; NiTa2: Ta 0.666; NiTa: Ta 0.5 | unspecified | [2] Ansara 1994 | Table II, p. 5, row 7; `ORC-FCB7XFDHOL` |  |
+| 1843 | liq + C16Ta2 -> μ-NiTa | C16Ta2: Ni 0.333333, Ta 0.666667; μ-NiTa: Ni 0.5, Ta 0.5 | experimental | [1] Zhou 2009; _cites Kornilov 1962_ | Table 7, p. 8, row 10; `ORC-CXC7BQIXAY` |  |
+| 1843 | liq. + NiTa2 -> μ-NiTa | L: Ta 0.517; NiTa2: Ta 0.681; μ-NiTa: Ta 0.572 | model | [3] Zhou 2018 | Table 7, p. 11, row 22; `ORC-VOA2IQU4PH` |  |
+| 1843 | liq. + NiTa2 -> μ-NiTa | L: Ta 0.489; NiTa2: Ta 0.667; μ-NiTa: Ta 0.51 | experimental | [3] Zhou 2018; _cites Kornilov 1962_ | Table 7, p. 11, row 21; `ORC-YEIWYJSXUC` |  |
+| 1842 | liq + C16Ta2 -> μ-NiTa | liq: Ta 0.493; C16: Ta 0.667; μ: Ta 0.531 | model | [1] Zhou 2009; _cites Cui 1999_ | Table 7, p. 8, row 6; `ORC-EAMNKV36OI` |  |
+| 1842 | liq + C16Ta2 -> μ-NiTa | liq: Ta 0.471; C16: Ta 0.679; μ: Ta 0.574 | model | [1] Zhou 2009 | Table 7, p. 8, row 5; `ORC-L5B4LWSW7E` |  |
+| 1824 | liq -> κ-Ni3Ta | liq: Ta 0.25; κ: Ta 0.25 | model | [1] Zhou 2009; _cites Pan 2002_ | Table 7, p. 8, row 13; `ORC-QCFP4CWJGK` |  |
+| 1817 | liq + C16Ta2 -> μ-NiTa | C16Ta2: Ni 0.333333, Ta 0.666667; μ-NiTa: Ni 0.5, Ta 0.5 | experimental | [1] Zhou 2009; _cites Kubaschewski 1949_ | Table 7, p. 8, row 9; `ORC-SDJGHDWCNU` |  |
+| 1815 | liq -> κ-Ni3Ta | liq: Ni 0.75, Ta 0.25; κ-Ni3Ta: Ni 0.75, Ta 0.25 | experimental | [1] Zhou 2009; _cites Kubaschewski 1949_ | Table 7, p. 8, row 15; `ORC-6PWUHP35SW` |  |
+| 1814 | liq. -> Ni3Ta | L: Ni 0.75, Ta 0.25; Ni3Ta: Ni 0.75, Ta 0.25 | experimental | [3] Zhou 2018; _cites Therkelsen 1933_ | Table 7, p. 11, row 6; `ORC-FJBIQZ27FD` |  |
+| 1814 | liq -> κ-Ni3Ta | liq: Ni 0.75, Ta 0.25; κ-Ni3Ta: Ni 0.75, Ta 0.25 | experimental | [1] Zhou 2009; _cites Therkelsen 1933_ | Table 7, p. 8, row 14; `ORC-HUP3VXBNNF` |  |
+| 1813 | liq. -> Ni3Ta | L: Ta 0.245; Ni3Ta: Ta 0.245 | experimental | [3] Zhou 2018; _cites Kubaschewski 1949_ | Table 7, p. 11, row 7; `ORC-NNREULR3JO` |  |
+| 1810 | liq. -> Ni3Ta | L: Ta 0.25; Ni3Ta: Ta 0.25 | model | [3] Zhou 2018 | Table 7, p. 11, row 9; `ORC-RLHJXXU2HN` |  |
+| 1810 | liq -> κ-Ni3Ta | liq: Ta 0.25; κ: Ta 0.25 | model | [1] Zhou 2009; _cites Cui 1999_ | Table 7, p. 8, row 12; `ORC-RNDW6AGNC4` |  |
+| 1808 | liq. -> Ni3Ta | L: Ta 0.25; Ni3Ta: Ta 0.25 | experimental | [3] Zhou 2018; _cites Kornilov 1962_ | Table 7, p. 11, row 8; `ORC-RDNXYBTMO5` |  |
+| 1808 | liq -> κ-Ni3Ta | liq: Ni 0.75, Ta 0.25; κ-Ni3Ta: Ni 0.75, Ta 0.25 | experimental | [1] Zhou 2009; _cites Kornilov 1962_ | Table 7, p. 8, row 16; `ORC-TALPPK4YIY` |  |
+| 1805 | liq -> κ-Ni3Ta | liq: Ta 0.25; κ: Ta 0.25 | model | [1] Zhou 2009 | Table 7, p. 8, row 11; `ORC-P4N4WNQGNO` |  |
+| 1798 | liq. + NiTa2 -> μ-NiTa | L: Ta 0.576; NiTa2: Ni 0.333333, Ta 0.666667; μ-NiTa: Ni 0.5, Ta 0.5 | experimental | [3] Zhou 2018; _cites Kubaschewski 1949_ | Table 7, p. 11, row 20; `ORC-2HZYVUT5SZ` |  |
+| 1678.15 | peritectic: liquid + Ni3Ta -> Ni2Ta | Ni3Ta: Ta 0.25; Ni2Ta: Ta 0.333333 | unspecified | [2] Ansara 1994; _cites ref. 84Nas_ | Table II, p. 5, row 4; `ORC-ZB22CGP3IB` |  |
+| 1678 | liq + κ-Ni3Ta -> C11b-Ni2Ta | κ-Ni3Ta: Ni 0.75, Ta 0.25; C11b-Ni2Ta: Ni 0.666667, Ta 0.333333 | experimental | [1] Zhou 2009; _cites Kornilov 1962_ | Table 7, p. 8, row 28; `ORC-G33ZURBHJQ` |  |
+| 1678 | liq -> μ-NiTa + C11b-Ni2Ta | liq: Ta 0.367; μ: Ta 0.502; C11b: Ta 0.344 | model | [1] Zhou 2009 | Table 7, p. 8, row 29; `ORC-K5YL45KUAG` |  |
+| 1678 | liq. + Ni3Ta -> Ni2Ta | L: Ta 0.35; Ni3Ta: Ta 0.285; Ni2Ta: Ta 0.34 | experimental | [3] Zhou 2018; _cites Kornilov 1962_ | Table 7, p. 11, row 11; `ORC-LXMVMHJXZ5` |  |
+| 1678 | liq + κ-Ni3Ta -> C11b-Ni2Ta | liq: Ta 0.366; κ: Ta 0.253; C11b: Ta 0.344 | model | [1] Zhou 2009 | Table 7, p. 8, row 23; `ORC-XKDSHP4V3L` |  |
+| 1677 | liq. + Ni3Ta -> Ni2Ta | Ni3Ta: Ni 0.75, Ta 0.25; Ni2Ta: Ni 0.666667, Ta 0.333333 | experimental | [3] Zhou 2018 | Table 7, p. 11, row 12; `ORC-VYFSQW6KMB` |  |
+| 1677 | liq. + Ni3Ta -> Ni2Ta | L: Ta 0.348; Ni3Ta: Ta 0.258; Ni2Ta: Ta 0.339 | model | [3] Zhou 2018 | Table 7, p. 11, row 13; `ORC-XHUJ52JVOT` |  |
+| 1676.15 | peritectic: liquid + Ni3Ta -> Ni2Ta | liquid: Ta 0.357; Ni3Ta: Ta 0.25; Ni2Ta: Ta 0.333 | unspecified | [2] Ansara 1994 | Table II, p. 5, row 3; `ORC-HPGURPVEIR` |  |
+| 1676 | liq + κ-Ni3Ta -> C11b-Ni2Ta | liq: Ta 0.355; κ: Ta 0.271; C11b: Ta 0.333 | model | [1] Zhou 2009; _cites Cui 1999_ | Table 7, p. 8, row 24; `ORC-3SUAGFZKYR` |  |
+| 1674.15 | eutectic: liquid -> Ni2Ta + NiTa | liquid: Ta 0.362; Ni2Ta: Ta 0.333; NiTa: Ta 0.5 | unspecified | [2] Ansara 1994 | Table II, p. 5, row 5; `ORC-EGVLRHMCNG` |  |
+| 1673 | liq + κ-Ni3Ta -> C11b-Ni2Ta | κ-Ni3Ta: Ni 0.75, Ta 0.25; C11b-Ni2Ta: Ni 0.666667, Ta 0.333333 | experimental | [1] Zhou 2009; _cites Kubaschewski 1949_ | Table 7, p. 8, row 27; `ORC-JDMNGOFVVY` |  |
+| 1666 | liq -> fcc + κ-Ni3Ta | liq: Ta 0.144; fcc: Ta 0.137; κ: Ta 0.241 | model | [1] Zhou 2009 | Table 7, p. 8, row 17; `ORC-2GNDXCM7TV` |  |
+| 1663 | liq -> μ-NiTa + C11b-Ni2Ta | liq: Ta 0.373; μ: Ta 0.5; C11b: Ta 0.333 | model | [1] Zhou 2009; _cites Cui 1999_ | Table 7, p. 8, row 30; `ORC-YWZUYLMNPS` |  |
+| 1662 | liq + κ-Ni3Ta -> C11b-Ni2Ta | liq: Ta 0.357; κ: Ta 0.279; C11b: Ta 0.341 | model | [1] Zhou 2009; _cites Pan 2002_ | Table 7, p. 8, row 25; `ORC-GM4OOFEZOP` |  |
+| 1647 | liq -> μ-NiTa + C11b-Ni2Ta | liq: Ta 0.381; μ: Ta 0.504; C11b: Ta 0.349 | model | [1] Zhou 2009; _cites Pan 2002_ | Table 7, p. 8, row 31; `ORC-FKU4RFXV4V` |  |
+| 1645 | liq. -> fcc(Ni) + Ni3Ta | L: Ta 0.152; fcc(Ni): Ta 0.137; Ni3Ta: Ta 0.238 | model | [3] Zhou 2018 | Table 7, p. 11, row 5; `ORC-DLW5SO6AQX` |  |
+| 1645 | liq. -> fcc(Ni) + Ni3Ta | Ni3Ta: Ni 0.75, Ta 0.25 | experimental | [3] Zhou 2018 | Table 7, p. 11, row 4; `ORC-I427N2767M` |  |
+| 1643 | liq. -> Ni2Ta + μ-NiTa | Ni2Ta: Ni 0.666667, Ta 0.333333; μ-NiTa: Ni 0.5, Ta 0.5 | experimental | [3] Zhou 2018 | Table 7, p. 11, row 17; `ORC-3JXKT6HCTE` |  |
+| 1643 | liq. -> Ni2Ta + μ-NiTa | L: Ta 0.402; Ni2Ta: Ta 0.354; μ-NiTa: Ta 0.515 | model | [3] Zhou 2018 | Table 7, p. 11, row 18; `ORC-VVZVWXC5PY` |  |
+| 1643 | liq -> fcc + κ-Ni3Ta | κ-Ni3Ta: Ni 0.75, Ta 0.25 | experimental | [1] Zhou 2009; _cites Kubaschewski 1949_ | Table 7, p. 8, row 21; `ORC-YM447RIB4W` |  |
+| 1641.15 | eutectic: liquid -> fcc - A1 + Ni3Ta | liquid: Ta 0.146; fcc - A1: Ta 0.135; Ni3Ta: Ta 0.25 | unspecified | [2] Ansara 1994 | Table II, p. 5, row 1; `ORC-I5GWJYTR5G` |  |
+| 1639 | liq -> μ-NiTa + C11b-Ni2Ta | μ-NiTa: Ni 0.5, Ta 0.5; C11b-Ni2Ta: Ni 0.666667, Ta 0.333333 | experimental | [1] Zhou 2009; _cites Kubaschewski 1949_ | Table 7, p. 8, row 33; `ORC-LL3IXZRXXA` |  |
+| 1638 | liq. -> fcc(Ni) + Ni3Ta | L: Ta 0.161; fcc(Ni): Ta 0.129; Ni3Ta: Ta 0.206 | experimental | [3] Zhou 2018; _cites Kubaschewski 1949_ | Table 7, p. 11, row 2; `ORC-OMRZPRFVMS` |  |
+| 1634 | liq -> μ-NiTa + C11b-Ni2Ta | μ-NiTa: Ni 0.5, Ta 0.5; C11b-Ni2Ta: Ni 0.666667, Ta 0.333333 | experimental | [1] Zhou 2009; _cites Kornilov 1962_ | Table 7, p. 8, row 34; `ORC-3WTW54VQZO` |  |
+| 1634 | liq. -> Ni2Ta + μ-NiTa | L: Ta 0.36; Ni2Ta: Ta 0.35; μ-NiTa: Ta 0.5 | experimental | [3] Zhou 2018; _cites Kornilov 1962_ | Table 7, p. 11, row 16; `ORC-GJK35O3TI4` |  |
+| 1633.15 | eutectic: liquid -> fcc - A1 + Ni3Ta | Ni3Ta: Ta 0.25 | unspecified | [2] Ansara 1994; _cites ref. 84Nas_ | Table II, p. 5, row 2; `ORC-DG7QG77POI` |  |
+| 1633 | liq -> fcc + κ-Ni3Ta | κ-Ni3Ta: Ni 0.75, Ta 0.25 | experimental | [1] Zhou 2009; _cites Kornilov 1962_ | Table 7, p. 8, row 22; `ORC-VUZYYQIZ7O` |  |
+| 1633 | liq. -> fcc(Ni) + Ni3Ta | L: Ta 0.172; Ni3Ta: Ni 0.75, Ta 0.25 | experimental | [3] Zhou 2018; _cites Kornilov 1953_ | Table 7, p. 11, row 3; `ORC-YVOPKRD7HH` |  |
+| 1627 | liq -> fcc + κ-Ni3Ta | liq: Ta 0.139; fcc: Ta 0.113; κ: Ta 0.23 | model | [1] Zhou 2009; _cites Cui 1999_ | Table 7, p. 8, row 18; `ORC-MDVXMVHNP5` |  |
+| 1625 | liq -> fcc + κ-Ni3Ta | liq: Ta 0.153; fcc: Ta 0.139; κ: Ta 0.242 | model | [1] Zhou 2009; _cites Pan 2002_ | Table 7, p. 8, row 19; `ORC-XAUA666OWR` |  |
+| 1623.15 | eutectic: liquid -> Ni2Ta + NiTa | Ni2Ta: Ta 0.333333; NiTa: Ta 0.5 | unspecified | [2] Ansara 1994; _cites ref. 84Nas_ | Table II, p. 5, row 6; `ORC-CXK32YKRXG` |  |
+| 1623 | liq. -> Ni2Ta + μ-NiTa | L: Ta 0.428; Ni2Ta: Ta 0.371; μ-NiTa: Ni 0.5, Ta 0.5 | experimental | [3] Zhou 2018; _cites Kubaschewski 1949_ | Table 7, p. 11, row 15; `ORC-O4DS4GMZAW` |  |
+| 1618 | liq + κ-Ni3Ta -> C11b-Ni2Ta | κ-Ni3Ta: Ni 0.75, Ta 0.25; C11b-Ni2Ta: Ni 0.666667, Ta 0.333333 | experimental | [1] Zhou 2009; _cites Therkelsen 1933_ | Table 7, p. 8, row 26; `ORC-6DBMIMKPT2` |  |
+| 1618 | liq. + Ni3Ta -> Ni2Ta | Ni3Ta: Ni 0.75, Ta 0.25; Ni2Ta: Ni 0.666667, Ta 0.333333 | experimental | [3] Zhou 2018; _cites Therkelsen 1933_ | Table 7, p. 11, row 10; `ORC-HLROVMFJYG` |  |
+| 1616 | liq. -> fcc(Ni) + Ni3Ta | Ni3Ta: Ni 0.75, Ta 0.25 | experimental | [3] Zhou 2018; _cites Therkelsen 1933_ | Table 7, p. 11, row 1; `ORC-5HGLLPOSLR` |  |
+| 1616 | liq -> fcc + κ-Ni3Ta | κ-Ni3Ta: Ni 0.75, Ta 0.25 | experimental | [1] Zhou 2009; _cites Therkelsen 1933_ | Table 7, p. 8, row 20; `ORC-6HEOCLSWCY` |  |
+| 1615 | liq. -> Ni2Ta + μ-NiTa | Ni2Ta: Ni 0.666667, Ta 0.333333; μ-NiTa: Ni 0.5, Ta 0.5 | experimental | [3] Zhou 2018; _cites Therkelsen 1933_ | Table 7, p. 11, row 14; `ORC-RZFRB2H6QD` |  |
+| 1615 | liq -> μ-NiTa + C11b-Ni2Ta | μ-NiTa: Ni 0.5, Ta 0.5; C11b-Ni2Ta: Ni 0.666667, Ta 0.333333 | experimental | [1] Zhou 2009; _cites Therkelsen 1933_ | Table 7, p. 8, row 32; `ORC-Z6UWW2N4OE` |  |
+| 1603.15 | eutectoid: fcc - A1 -> Ni8Ta + Ni3Ta | Ni8Ta: Ta 0.111111; Ni3Ta: Ta 0.25 | unspecified | [2] Ansara 1994; _cites ref. 84Nas_ | Table II, p. 5, row 12; `ORC-FGQ6WINWC5` |  |
+| 1593 | fcc -> ζ-Ni8Ta | fcc: Ni 0.888889, Ta 0.111111; ζ-Ni8Ta: Ni 0.888889, Ta 0.111111 | experimental | [1] Zhou 2009; _cites Nash 1983_ [doi](https://doi.org/10.1179/030634583790427649) | Table 7, p. 8, row 39; `ORC-WX2DLQKJ4Q` |  |
+| 1584 | fcc -> ζ-Ni8Ta | ζ-Ni8Ta: Ni 0.888889, Ta 0.111111 | model | [1] Zhou 2009; _cites Pan 2002_ | Table 7, p. 8, row 37; `ORC-JILCVQTNJK` |  |
+| 1584 | fcc -> ζ-Ni8Ta | ζ-Ni8Ta: Ni 0.888889, Ta 0.111111 | model | [1] Zhou 2009 | Table 7, p. 8, row 35; `ORC-YFT6A7XLDE` |  |
+| 1581 | fcc -> ζ-Ni8Ta | ζ-Ni8Ta: Ni 0.888889, Ta 0.111111 | model | [1] Zhou 2009; _cites Cui 1999_ | Table 7, p. 8, row 36; `ORC-JBQFENYNH2` |  |
+| 1580 | fcc -> κ-Ni3Ta + ζ-Ni8Ta | fcc: Ta 0.1114; κ: Ta 0.231; ζ: Ta 0.1111 | model | [1] Zhou 2009; _cites Cui 1999_ | Table 7, p. 8, row 41; `ORC-TWEM4ARAFR` |  |
+| 1573 | fcc -> ζ-Ni8Ta | fcc: Ni 0.888889, Ta 0.111111; ζ-Ni8Ta: Ni 0.888889, Ta 0.111111 | experimental | [1] Zhou 2009; _cites Pimenov 1977_ | Table 7, p. 8, row 38; `ORC-JSQ3TFGJWY` |  |
+| 1572 | fcc -> κ-Ni3Ta + ζ-Ni8Ta | κ-Ni3Ta: Ni 0.75, Ta 0.25; ζ-Ni8Ta: Ni 0.888889, Ta 0.111111 | experimental | [1] Zhou 2009; _cites Kornilov 1953_ | Table 7, p. 8, row 43; `ORC-LP3XMNVBEC` |  |
+| 1571 | fcc -> κ-Ni3Ta + ζ-Ni8Ta | fcc: Ta 0.126; κ: Ta 0.237; ζ: Ta 0.111 | model | [1] Zhou 2009 | Table 7, p. 8, row 40; `ORC-DHGDKMNA33` |  |
+| 1555.15 | eutectoid: fcc - A1 -> Ni8Ta + Ni3Ta | fcc - A1: Ta 0.128; Ni8Ta: Ta 0.111; Ni3Ta: Ta 0.25 | unspecified | [2] Ansara 1994 | Table II, p. 5, row 11; `ORC-C6EW33LIKC` |  |
+| 1547 | fcc -> κ-Ni3Ta + ζ-Ni8Ta | fcc: Ta 0.136; κ: Ta 0.242; ζ: Ta 0.111 | model | [1] Zhou 2009; _cites Pan 2002_ | Table 7, p. 8, row 42; `ORC-HNOEGAJXE2` |  |
+| 603 | κ-Ni3Ta + C11b-Ni2Ta -> D022-Ni3Ta | κ: Ta 0.249; D022: Ta 0.25; C11b: Ta 0.329 | model | [1] Zhou 2009 | Table 7, p. 8, row 44; `ORC-WNKQ6OMXV7` |  |
+| 600 | κ-Ni3Ta -> D022-Ni3Ta + ζ-Ni8Ta | κ: Ta 0.244; D022: Ta 0.25; ζ: Ta 0.111 | model | [1] Zhou 2009 | Table 7, p. 8, row 45; `ORC-DQID6HC7JU` |  |
+| 474 | μ-NiTa -> C16-NiTa2 + C11b-Ni2Ta | μ: Ta 0.526; C16: Ta 0.666; C11b: Ta 0.334 | model | [1] Zhou 2009 | Table 7, p. 8, row 46; `ORC-LN7YFK5AB3` |  |
+| 231 | κ-Ni3Ta -> ζ-Ni8Ta + C11b-Ni2Ta | κ: Ta 0.25; ζ: Ta 0.111; C11b: Ta 0.333 | model | [1] Zhou 2009; _cites Cui 1999_ | Table 7, p. 8, row 48; `ORC-VSHMMHI2M4` |  |
+| 109 | μ-NiTa -> C16-NiTa2 + C11b-Ni2Ta | μ: Ta 0.504; C16: Ta 0.667; C11b: Ta 0.333 | model | [1] Zhou 2009; _cites Pan 2002_ | Table 7, p. 8, row 47; `ORC-F64C7HADMK` |  |
+| 42 | κ-Ni3Ta -> ζ-Ni8Ta + C11b-Ni2Ta | κ: Ta 0.25; ζ: Ta 0.111; C11b: Ta 0.333 | model | [1] Zhou 2009; _cites Pan 2002_ | Table 7, p. 8, row 49; `ORC-KYPDTVSPC3` |  |
 
 ## Formation enthalpies
 
@@ -213,62 +213,62 @@ Table: Enthalpies of formation, Ni–Ta system (56)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| C11b |  | -32.36 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 24 |  |
-| C11b |  | 5 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 25 |  |
-| C11b |  | 7.91 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 23 |  |
-| C11b |  | 10.49 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 26 |  |
-| C16 |  | -21.15 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 15 |  |
-| C16 |  | 26.77 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 13 |  |
-| C16 |  | 44.14 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 14 |  |
-| C16 |  | 50.88 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 16 |  |
-| D022 |  | -35.29 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 43 |  |
-| D0a |  | -34.81 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 40 |  |
-| D0a |  | 12.48 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 41 |  |
-| D0a |  | 30.8 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 42 |  |
-| Mo3Mo |  | 41.09 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 37 |  |
-| Mo3Ni |  | 18.85 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 39 |  |
-| Mo3Ta |  | 36.6 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 36 |  |
-| Ni1Ni2 |  | 26.77 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 13 |  |
-| Ni1Ta2 |  | -21.15 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 15 |  |
-| Ni2Ni |  | 7.91 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 23 |  |
-| Ni2Ta |  | -32.36 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 24 |  |
-| Ni3Mo |  | -1.86 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 38 |  |
-| Ni3Ni |  | 3.5 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 31 |  |
-| Ni3Ta |  | -35.29 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 43 |  |
-| Ni3Ta |  | -34.81 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 40 |  |
-| Ni3Ta |  | -29.29 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 32 |  |
-| Ni8Ta |  | -16.37 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 44 |  |
-| NiTa4Ni2Ni6 |  | -12.92 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 17 |  |
-| NiTa4Ta2Ni6 |  | -22.99 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 19 |  |
-| Ta1Ni2 |  | 44.14 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 14 |  |
-| Ta1Ta2 |  | 50.88 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 16 |  |
-| Ta2Ni |  | 5 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 25 |  |
-| Ta2Ta |  | 10.49 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 26 |  |
-| Ta3Mo |  | 32.08 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 35 |  |
-| Ta3Ni |  | 12.48 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 41 |  |
-| Ta3Ni |  | 12.54 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 33 |  |
-| Ta3Ta |  | 29.32 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 34 |  |
-| Ta3Ta |  | 30.8 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 42 |  |
-| TaTa4Mo2Ni6 |  | -17.52 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 22 |  |
-| TaTa4Ni2Ni6 |  | -18.61 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 18 |  |
-| TaTa4Ta2Ni6 |  | -25.51 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 20 |  |
-| TaTa4Ta2Ta6 |  | 17.05 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 21 |  |
-| ζ |  | -16.37 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 44 |  |
-| κ |  | -29.29 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 32 |  |
-| κ |  | -1.86 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 38 |  |
-| κ |  | 3.5 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 31 |  |
-| κ |  | 12.54 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 33 |  |
-| κ |  | 18.85 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 39 |  |
-| κ |  | 29.32 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 34 |  |
-| κ |  | 32.08 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 35 |  |
-| κ |  | 36.6 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 36 |  |
-| κ |  | 41.09 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 37 |  |
-| μ |  | -25.51 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 20 |  |
-| μ |  | -22.99 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 19 |  |
-| μ |  | -18.61 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 18 |  |
-| μ |  | -17.52 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 22 |  |
-| μ |  | -12.92 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 17 |  |
-| μ |  | 17.05 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 21 |  |
+| C11b |  | -32.36 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 24; `ORC-VUIYVHJFEA.377a22` |  |
+| C11b |  | 5 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 25; `ORC-ZHQSV7IXWI.339f50` |  |
+| C11b |  | 7.91 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 23; `ORC-FZKNMC4SZ2.100207` |  |
+| C11b |  | 10.49 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 26; `ORC-VSC4UEAVSD.537765` |  |
+| C16 |  | -21.15 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 15; `ORC-2GAQDY3VZS.8ec844` |  |
+| C16 |  | 26.77 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 13; `ORC-R6FL7GKINS.75cce1` |  |
+| C16 |  | 44.14 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 14; `ORC-333BU3QMFN.20e65b` |  |
+| C16 |  | 50.88 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 16; `ORC-Y6IDLUG3I3.36c7fe` |  |
+| D022 |  | -35.29 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 43; `ORC-FZVSCUVH7Z.962602` |  |
+| D0a |  | -34.81 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 40; `ORC-6SBNTK6HO4.c074e3` |  |
+| D0a |  | 12.48 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 41; `ORC-YZNYJAYX5M.3ed050` |  |
+| D0a |  | 30.8 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 42; `ORC-6A6CEUBZQC.fa27da` |  |
+| Mo3Mo |  | 41.09 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 37; `ORC-SSXKUHE3IV.c48c4c` |  |
+| Mo3Ni |  | 18.85 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 39; `ORC-EXQUNEL3PS.c8adae` |  |
+| Mo3Ta |  | 36.6 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 36; `ORC-KDDQUBQQJS.a6717d` |  |
+| Ni1Ni2 |  | 26.77 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 13; `ORC-R6FL7GKINS.b7ec0a` |  |
+| Ni1Ta2 |  | -21.15 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 15; `ORC-2GAQDY3VZS.b4a362` |  |
+| Ni2Ni |  | 7.91 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 23; `ORC-FZKNMC4SZ2.c243bf` |  |
+| Ni2Ta |  | -32.36 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 24; `ORC-VUIYVHJFEA.a98450` |  |
+| Ni3Mo |  | -1.86 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 38; `ORC-R4AY5X6IM3.70f93a` |  |
+| Ni3Ni |  | 3.5 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 31; `ORC-MR7GIVKRHG.ac67dc` |  |
+| Ni3Ta |  | -35.29 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 43; `ORC-FZVSCUVH7Z.81ad1d` |  |
+| Ni3Ta |  | -34.81 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 40; `ORC-6SBNTK6HO4.44a846` |  |
+| Ni3Ta |  | -29.29 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 32; `ORC-BPEKARSRDH.36903a` |  |
+| Ni8Ta |  | -16.37 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 44; `ORC-YHSFSFYDGY.05d59d` |  |
+| NiTa4Ni2Ni6 |  | -12.92 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 17; `ORC-YKBZZRZWFY.26f2fa` |  |
+| NiTa4Ta2Ni6 |  | -22.99 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 19; `ORC-L2SGSUKKSN.fd3a19` |  |
+| Ta1Ni2 |  | 44.14 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 14; `ORC-333BU3QMFN.fbe3cb` |  |
+| Ta1Ta2 |  | 50.88 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 16; `ORC-Y6IDLUG3I3.c171b9` |  |
+| Ta2Ni |  | 5 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 25; `ORC-ZHQSV7IXWI.361e15` |  |
+| Ta2Ta |  | 10.49 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 26; `ORC-VSC4UEAVSD.961efb` |  |
+| Ta3Mo |  | 32.08 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 35; `ORC-GWWEVMKERC.e86cba` |  |
+| Ta3Ni |  | 12.48 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 41; `ORC-YZNYJAYX5M.b2aa6a` |  |
+| Ta3Ni |  | 12.54 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 33; `ORC-XWZAORI54N.6ec17f` |  |
+| Ta3Ta |  | 29.32 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 34; `ORC-MYTGEWLTXE.398a8c` |  |
+| Ta3Ta |  | 30.8 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 42; `ORC-6A6CEUBZQC.a90e54` |  |
+| TaTa4Mo2Ni6 |  | -17.52 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 22; `ORC-I2MWA253S7.0a4874` |  |
+| TaTa4Ni2Ni6 |  | -18.61 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 18; `ORC-ENOYXH55WA.47b3f0` |  |
+| TaTa4Ta2Ni6 |  | -25.51 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 20; `ORC-KP6PEL7DOG.d78c9d` |  |
+| TaTa4Ta2Ta6 |  | 17.05 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 21; `ORC-LNRBDOYEZ4.4cece7` |  |
+| ζ |  | -16.37 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 44; `ORC-YHSFSFYDGY.214f28` |  |
+| κ |  | -29.29 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 32; `ORC-BPEKARSRDH.c1996e` |  |
+| κ |  | -1.86 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 38; `ORC-R4AY5X6IM3.ed7637` |  |
+| κ |  | 3.5 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 31; `ORC-MR7GIVKRHG.32080f` |  |
+| κ |  | 12.54 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 33; `ORC-XWZAORI54N.d62fad` |  |
+| κ |  | 18.85 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 39; `ORC-EXQUNEL3PS.29abcc` |  |
+| κ |  | 29.32 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 34; `ORC-MYTGEWLTXE.a7060b` |  |
+| κ |  | 32.08 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 35; `ORC-GWWEVMKERC.3a5176` |  |
+| κ |  | 36.6 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 36; `ORC-KDDQUBQQJS.17dc57` |  |
+| κ |  | 41.09 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 37; `ORC-SSXKUHE3IV.ff3f90` |  |
+| μ |  | -25.51 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 20; `ORC-KP6PEL7DOG.933169` |  |
+| μ |  | -22.99 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 19; `ORC-L2SGSUKKSN.220eb7` |  |
+| μ |  | -18.61 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 18; `ORC-ENOYXH55WA.e46f19` |  |
+| μ |  | -17.52 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 22; `ORC-I2MWA253S7.153ac0` |  |
+| μ |  | -12.92 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 17; `ORC-YKBZZRZWFY.15c967` |  |
+| μ |  | 17.05 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 21; `ORC-LNRBDOYEZ4.84db5f` |  |
 
 ## Other properties
 
@@ -278,28 +278,28 @@ Table: Phase transition, Ni–Ta system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 600 K | 600 | κ-Ni3Ta + D022-Ni3Ta | model | [1] Zhou 2009 | p. 6 | “Without specific experimental data indicating the exact temperature of the transition, we assume a temperature of 600 K for the transition from the high temperature stable compound κ -Ni3 Ta (i.e.κ -Ni3 (Mo, Ta) \[6,7,10-12,15,16\] to the low temperature stable D022 -Ni3 Ta phase.” |
-| Phase transition | 1578.15 K | 1578.15 | congruent transformation: fcc - al -> Ni8Ta; _fcc - al: Ta 0.111; Ni8Ta: Ta 0.111_ | unspecified | [2] Ansara 1994 | Table II, p. 5, row 13 |  |
-| Phase transition | 1641 K | 1641 | eutectic: liq. → fcc(Ni) + Ni3Ta | experimental | [3] Zhou 2018 | Table 5, p. 8, row 6 |  |
-| Phase transition | 1642 K | 1642 | eutectic: liq. → Ni2Ta + μ-NiTa | experimental | [3] Zhou 2018 | Table 5, p. 8, row 10 |  |
-| Phase transition | 1642 K | 1642 | eutectic: liq. → Ni2Ta + μ-NiTa | experimental | [3] Zhou 2018 | Table 5, p. 8, row 11 |  |
-| Phase transition | 1643 K | 1643 | eutectic: liq. → Ni2Ta + μ-NiTa | experimental | [3] Zhou 2018 | Table 5, p. 8, row 12 |  |
-| Phase transition | 1643 K | 1643 | liq. → Ni2Ta + μ-NiTa | experimental | [3] Zhou 2018 | p. 12 | “The phase transition temperatures of the following invariant reactions liq. → fcc(Ni) + Ni3Ta, liq. + Ni3Ta → Ni2Ta and liq. → Ni2Ta + μ-NiTa were determined to be 1645, 1677 and 1643 K, respectively, by DSC technique.” |
-| Phase transition | 1644 K | 1644 | eutectic: liq. → Ni2Ta + μ-NiTa | experimental | [3] Zhou 2018 | Table 5, p. 8, row 13 |  |
-| Phase transition | 1644 K | 1644 | eutectic: liq. → fcc(Ni) + Ni3Ta | experimental | [3] Zhou 2018 | Table 5, p. 8, row 7 |  |
-| Phase transition | 1645 K | 1645 | eutectic: liq. → fcc(Ni) + Ni3Ta | experimental | [3] Zhou 2018 | Table 5, p. 8, row 2 |  |
-| Phase transition | 1645 K | 1645 | liq. → fcc(Ni) + Ni3Ta | experimental | [3] Zhou 2018 | p. 12 | “The phase transition temperatures of the following invariant reactions liq. → fcc(Ni) + Ni3Ta, liq. + Ni3Ta → Ni2Ta and liq. → Ni2Ta + μ-NiTa were determined to be 1645, 1677 and 1643 K, respectively, by DSC technique.” |
-| Phase transition | 1649 K | 1649 | eutectic: liq. → fcc(Ni) + Ni3Ta | experimental | [3] Zhou 2018 | Table 5, p. 8, row 4 |  |
-| Phase transition | 1670 K | 1670 | other: B5 | experimental | [3] Zhou 2018 | Table 5, p. 8, row 1 |  |
-| Phase transition | 1671 K | 1671 | other: B5 | experimental | [3] Zhou 2018 | Table 5, p. 8, row 3 |  |
-| Phase transition | 1676 K | 1676 | peritectic: liq. + Ni3Ta → Ni2Ta | experimental | [3] Zhou 2018 | Table 5, p. 8, row 8 |  |
-| Phase transition | 1677 K | 1677 | liq. + Ni3Ta → Ni2Ta | experimental | [3] Zhou 2018 | p. 12 | “The phase transition temperatures of the following invariant reactions liq. → fcc(Ni) + Ni3Ta, liq. + Ni3Ta → Ni2Ta and liq. → Ni2Ta + μ-NiTa were determined to be 1645, 1677 and 1643 K, respectively, by DSC technique.” |
-| Phase transition | 1678 K | 1678 | peritectic: liq. + Ni3Ta → Ni2Ta | experimental | [3] Zhou 2018 | Table 5, p. 8, row 9 |  |
-| Phase transition | 1703 K | 1703 | other: B6 | experimental | [3] Zhou 2018 | Table 5, p. 8, row 5 |  |
-| Phase transition | 1820.15 K | 1820.15 | congruent melting: liquid -> Ni3Ta; _liquid: Ta 0.25; Ni3Ta: Ta 0.25_ | unspecified | [2] Ansara 1994 | Table II, p. 5, row 14 |  |
-| Phase transition | 1823.15 K | 1823.15 | congruent melting: liquid -> Ni3Ta; _liquid: Ta 0.25; Ni3Ta: Ta 0.25_ | unspecified | [2] Ansara 1994; _cites ref. 84Nas_ | Table II, p. 5, row 15 |  |
-| Phase transition | 3256.15 K | 3256.15 |  | model | [2] Ansara 1994 | p. 2 | “However, for the melting temperature of Ta, he selected 2983°C and we used 3017°C according to \[SlDin\].” |
-| Phase transition | 3290.15 K | 3290.15 |  | experimental | [2] Ansara 1994 | p. 2 | “However, for the melting temperature of Ta, he selected 2983°C and we used 3017°C according to \[SlDin\].” |
+| Phase transition | 600 K | 600 | κ-Ni3Ta + D022-Ni3Ta | model | [1] Zhou 2009 | p. 6; `ORC-VBB52QV7MG` | “Without specific experimental data indicating the exact temperature of the transition, we assume a temperature of 600 K for the transition from the high temperature stable compound κ -Ni3 Ta (i.e.κ -Ni3 (Mo, Ta) \[6,7,10-12,15,16\] to the low temperature stable D022 -Ni3 Ta phase.” |
+| Phase transition | 1578.15 K | 1578.15 | congruent transformation: fcc - al -> Ni8Ta; _fcc - al: Ta 0.111; Ni8Ta: Ta 0.111_ | unspecified | [2] Ansara 1994 | Table II, p. 5, row 13; `ORC-DC7JEBQ5EH` |  |
+| Phase transition | 1641 K | 1641 | eutectic: liq. → fcc(Ni) + Ni3Ta | experimental | [3] Zhou 2018 | Table 5, p. 8, row 6; `ORC-A3CGQISTFA` |  |
+| Phase transition | 1642 K | 1642 | eutectic: liq. → Ni2Ta + μ-NiTa | experimental | [3] Zhou 2018 | Table 5, p. 8, row 10; `ORC-2NF2LFTMFD` |  |
+| Phase transition | 1642 K | 1642 | eutectic: liq. → Ni2Ta + μ-NiTa | experimental | [3] Zhou 2018 | Table 5, p. 8, row 11; `ORC-V2IILGR24A` |  |
+| Phase transition | 1643 K | 1643 | eutectic: liq. → Ni2Ta + μ-NiTa | experimental | [3] Zhou 2018 | Table 5, p. 8, row 12; `ORC-KAJEEU3ILE` |  |
+| Phase transition | 1643 K | 1643 | liq. → Ni2Ta + μ-NiTa | experimental | [3] Zhou 2018 | p. 12; `ORC-KQ75R54XBH.6a54ba` | “The phase transition temperatures of the following invariant reactions liq. → fcc(Ni) + Ni3Ta, liq. + Ni3Ta → Ni2Ta and liq. → Ni2Ta + μ-NiTa were determined to be 1645, 1677 and 1643 K, respectively, by DSC technique.” |
+| Phase transition | 1644 K | 1644 | eutectic: liq. → Ni2Ta + μ-NiTa | experimental | [3] Zhou 2018 | Table 5, p. 8, row 13; `ORC-RPY3SPVSMX` |  |
+| Phase transition | 1644 K | 1644 | eutectic: liq. → fcc(Ni) + Ni3Ta | experimental | [3] Zhou 2018 | Table 5, p. 8, row 7; `ORC-GBITUPXI2Q` |  |
+| Phase transition | 1645 K | 1645 | eutectic: liq. → fcc(Ni) + Ni3Ta | experimental | [3] Zhou 2018 | Table 5, p. 8, row 2; `ORC-IYY46NAZJG` |  |
+| Phase transition | 1645 K | 1645 | liq. → fcc(Ni) + Ni3Ta | experimental | [3] Zhou 2018 | p. 12; `ORC-KQ75R54XBH.8dae30` | “The phase transition temperatures of the following invariant reactions liq. → fcc(Ni) + Ni3Ta, liq. + Ni3Ta → Ni2Ta and liq. → Ni2Ta + μ-NiTa were determined to be 1645, 1677 and 1643 K, respectively, by DSC technique.” |
+| Phase transition | 1649 K | 1649 | eutectic: liq. → fcc(Ni) + Ni3Ta | experimental | [3] Zhou 2018 | Table 5, p. 8, row 4; `ORC-YCESLZD75W` |  |
+| Phase transition | 1670 K | 1670 | other: B5 | experimental | [3] Zhou 2018 | Table 5, p. 8, row 1; `ORC-6JVVUEHEL7` |  |
+| Phase transition | 1671 K | 1671 | other: B5 | experimental | [3] Zhou 2018 | Table 5, p. 8, row 3; `ORC-XMJWETI437` |  |
+| Phase transition | 1676 K | 1676 | peritectic: liq. + Ni3Ta → Ni2Ta | experimental | [3] Zhou 2018 | Table 5, p. 8, row 8; `ORC-OP3HXEMKYU` |  |
+| Phase transition | 1677 K | 1677 | liq. + Ni3Ta → Ni2Ta | experimental | [3] Zhou 2018 | p. 12; `ORC-KQ75R54XBH.42da82` | “The phase transition temperatures of the following invariant reactions liq. → fcc(Ni) + Ni3Ta, liq. + Ni3Ta → Ni2Ta and liq. → Ni2Ta + μ-NiTa were determined to be 1645, 1677 and 1643 K, respectively, by DSC technique.” |
+| Phase transition | 1678 K | 1678 | peritectic: liq. + Ni3Ta → Ni2Ta | experimental | [3] Zhou 2018 | Table 5, p. 8, row 9; `ORC-II5QX7ZOIB` |  |
+| Phase transition | 1703 K | 1703 | other: B6 | experimental | [3] Zhou 2018 | Table 5, p. 8, row 5; `ORC-DCT7M4RY5O` |  |
+| Phase transition | 1820.15 K | 1820.15 | congruent melting: liquid -> Ni3Ta; _liquid: Ta 0.25; Ni3Ta: Ta 0.25_ | unspecified | [2] Ansara 1994 | Table II, p. 5, row 14; `ORC-6FUJP6FAUK` |  |
+| Phase transition | 1823.15 K | 1823.15 | congruent melting: liquid -> Ni3Ta; _liquid: Ta 0.25; Ni3Ta: Ta 0.25_ | unspecified | [2] Ansara 1994; _cites ref. 84Nas_ | Table II, p. 5, row 15; `ORC-OUUFFWHRKA` |  |
+| Phase transition | 3256.15 K | 3256.15 |  | model | [2] Ansara 1994 | p. 2; `ORC-UXNBWOEW5U.f8f811` | “However, for the melting temperature of Ta, he selected 2983°C and we used 3017°C according to \[SlDin\].” |
+| Phase transition | 3290.15 K | 3290.15 |  | experimental | [2] Ansara 1994 | p. 2; `ORC-UXNBWOEW5U.01d757` | “However, for the melting temperature of Ta, he selected 2983°C and we used 3017°C according to \[SlDin\].” |
 
 ### Phase equilibrium (24)
 
@@ -307,30 +307,30 @@ Table: Phase equilibrium, Ni–Ta system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  |  | Ni2Ta + μ-NiTa; _Ni2Ta: Ni 0.665, Ta 0.335_ | experimental | [3] Zhou 2018 | Table 3, p. 3, row 6 |  |
-| Phase composition |  |  | Ni2Ta + μ-NiTa; _Ni2Ta: Ni 0.667, Ta 0.333_ | experimental | [3] Zhou 2018 | Table 3, p. 3, row 7 |  |
-| Phase composition |  |  | Ni3Ta + Ni2Ta + μ-NiTa; _Ni3Ta: Ni 0.746, Ta 0.254_ | experimental | [3] Zhou 2018 | Table 3, p. 3, row 5 |  |
-| Phase composition |  |  | Ni3Ta + fcc(Ni); _Ni3Ta: Ni 0.757, Ta 0.243_ | experimental | [3] Zhou 2018 | Table 3, p. 3, row 4 |  |
-| Phase composition |  |  | Ni3Ta + fcc(Ni); _Ni3Ta: Ni 0.765, Ta 0.235_ | experimental | [3] Zhou 2018 | Table 3, p. 3, row 3 |  |
-| Phase composition |  |  | NiTa2 + μ-NiTa; _NiTa2: Ni 0.375, Ta 0.625_ | experimental | [3] Zhou 2018 | Table 3, p. 3, row 11 |  |
-| Phase composition |  |  | NiTa2 + μ-NiTa + Ni2Ta; _NiTa2: Ni 0.394, Ta 0.607_ | experimental | [3] Zhou 2018 | Table 3, p. 3, row 10 |  |
-| Phase composition |  |  | bcc(Ta) + NiTa2 + μ-NiTa; _bcc(Ta): Ni 0.027, Ta 0.973_ | experimental | [3] Zhou 2018 | Table 3, p. 3, row 12 |  |
-| Phase composition |  |  | fcc(Ni); _fcc(Ni): Ni 0.918, Ta 0.082_ | experimental | [3] Zhou 2018 | Table 3, p. 3, row 1 |  |
-| Phase composition |  |  | fcc(Ni) + Ni3Ta; _fcc(Ni): Ni 0.857, Ta 0.143_ | experimental | [3] Zhou 2018 | Table 3, p. 3, row 2 |  |
-| Phase composition |  |  | μ-NiTa + Ni2Ta; _μ-NiTa: Ni 0.478, Ta 0.522_ | experimental | [3] Zhou 2018 | Table 3, p. 3, row 9 |  |
-| Phase composition |  |  | μ-NiTa + Ni2Ta; _μ-NiTa: Ni 0.507, Ta 0.493_ | experimental | [3] Zhou 2018 | Table 3, p. 3, row 8 |  |
-| Phase composition |  | 1473 | Ni2Ta + μ-NiTa; _Ni2Ta: Ni 0.66, Ta 0.34; μ-NiTa: Ni 0.482, Ta 0.518_ | experimental | [3] Zhou 2018 | Table 4, p. 8, row 9 |  |
-| Phase composition |  | 1473 | Ni2Ta + μ-NiTa; _Ni2Ta: Ni 0.657, Ta 0.343; μ-NiTa: Ni 0.483, Ta 0.517_ | experimental | [3] Zhou 2018 | Table 4, p. 8, row 10 |  |
-| Phase composition |  | 1473 | Ni3Ta + Ni2Ta; _Ni3Ta: Ni 0.757, Ta 0.244; Ni2Ta: Ni 0.666, Ta 0.335_ | experimental | [3] Zhou 2018 | Table 4, p. 8, row 8 |  |
-| Phase composition |  | 1473 | NiTa2 + bcc(Ta); _NiTa2: Ni 0.296, Ta 0.704; bcc(Ta): Ni 0.011, Ta 0.989_ | experimental | [3] Zhou 2018 | Table 4, p. 8, row 12 |  |
-| Phase composition |  | 1473 | fcc(Ni); _fcc(Ni): Ni 0.881, Ta 0.119_ | experimental | [3] Zhou 2018 | Table 4, p. 8, row 3 |  |
-| Phase composition |  | 1473 | fcc(Ni); _fcc(Ni): Ni 0.902, Ta 0.099_ | experimental | [3] Zhou 2018 | Table 4, p. 8, row 1 |  |
-| Phase composition |  | 1473 | fcc(Ni); _fcc(Ni): Ni 0.894, Ta 0.106_ | experimental | [3] Zhou 2018 | Table 4, p. 8, row 2 |  |
-| Phase composition |  | 1473 | fcc(Ni) + Ni3Ta; _fcc(Ni): Ni 0.882, Ta 0.118; Ni3Ta: Ni 0.768, Ta 0.232_ | experimental | [3] Zhou 2018 | Table 4, p. 8, row 4 |  |
-| Phase composition |  | 1473 | fcc(Ni) + Ni3Ta; _fcc(Ni): Ni 0.878, Ta 0.122; Ni3Ta: Ni 0.767, Ta 0.233_ | experimental | [3] Zhou 2018 | Table 4, p. 8, row 5 |  |
-| Phase composition |  | 1473 | fcc(Ni) + Ni3Ta; _fcc(Ni): Ni 0.877, Ta 0.123; Ni3Ta: Ni 0.762, Ta 0.238_ | experimental | [3] Zhou 2018 | Table 4, p. 8, row 7 |  |
-| Phase composition |  | 1473 | fcc(Ni) + Ni3Ta; _fcc(Ni): Ni 0.876, Ta 0.124; Ni3Ta: Ni 0.763, Ta 0.237_ | experimental | [3] Zhou 2018 | Table 4, p. 8, row 6 |  |
-| Phase composition |  | 1473 | μ-NiTa + NiTa2; _μ-NiTa: Ni 0.441, Ta 0.559; NiTa2: Ni 0.324, Ta 0.676_ | experimental | [3] Zhou 2018 | Table 4, p. 8, row 11 |  |
+| Phase composition |  |  | Ni2Ta + μ-NiTa; _Ni2Ta: Ni 0.665, Ta 0.335_ | experimental | [3] Zhou 2018 | Table 3, p. 3, row 6; `ORC-BNJ7ABV7MB` |  |
+| Phase composition |  |  | Ni2Ta + μ-NiTa; _Ni2Ta: Ni 0.667, Ta 0.333_ | experimental | [3] Zhou 2018 | Table 3, p. 3, row 7; `ORC-C6J6GMKSCD` |  |
+| Phase composition |  |  | Ni3Ta + Ni2Ta + μ-NiTa; _Ni3Ta: Ni 0.746, Ta 0.254_ | experimental | [3] Zhou 2018 | Table 3, p. 3, row 5; `ORC-KCURXG5VVR` |  |
+| Phase composition |  |  | Ni3Ta + fcc(Ni); _Ni3Ta: Ni 0.757, Ta 0.243_ | experimental | [3] Zhou 2018 | Table 3, p. 3, row 4; `ORC-5FETEWL4WT` |  |
+| Phase composition |  |  | Ni3Ta + fcc(Ni); _Ni3Ta: Ni 0.765, Ta 0.235_ | experimental | [3] Zhou 2018 | Table 3, p. 3, row 3; `ORC-KSZAYK22U2` |  |
+| Phase composition |  |  | NiTa2 + μ-NiTa; _NiTa2: Ni 0.375, Ta 0.625_ | experimental | [3] Zhou 2018 | Table 3, p. 3, row 11; `ORC-UA54Q666JB` |  |
+| Phase composition |  |  | NiTa2 + μ-NiTa + Ni2Ta; _NiTa2: Ni 0.394, Ta 0.607_ | experimental | [3] Zhou 2018 | Table 3, p. 3, row 10; `ORC-KVNMEE2I4Y` |  |
+| Phase composition |  |  | bcc(Ta) + NiTa2 + μ-NiTa; _bcc(Ta): Ni 0.027, Ta 0.973_ | experimental | [3] Zhou 2018 | Table 3, p. 3, row 12; `ORC-47CMRFCESN` |  |
+| Phase composition |  |  | fcc(Ni); _fcc(Ni): Ni 0.918, Ta 0.082_ | experimental | [3] Zhou 2018 | Table 3, p. 3, row 1; `ORC-H6DPKU642Z` |  |
+| Phase composition |  |  | fcc(Ni) + Ni3Ta; _fcc(Ni): Ni 0.857, Ta 0.143_ | experimental | [3] Zhou 2018 | Table 3, p. 3, row 2; `ORC-KN5BR6JOJY` |  |
+| Phase composition |  |  | μ-NiTa + Ni2Ta; _μ-NiTa: Ni 0.478, Ta 0.522_ | experimental | [3] Zhou 2018 | Table 3, p. 3, row 9; `ORC-IQKO6WDNF7` |  |
+| Phase composition |  |  | μ-NiTa + Ni2Ta; _μ-NiTa: Ni 0.507, Ta 0.493_ | experimental | [3] Zhou 2018 | Table 3, p. 3, row 8; `ORC-MKX5QJKW36` |  |
+| Phase composition |  | 1473 | Ni2Ta + μ-NiTa; _Ni2Ta: Ni 0.66, Ta 0.34; μ-NiTa: Ni 0.482, Ta 0.518_ | experimental | [3] Zhou 2018 | Table 4, p. 8, row 9; `ORC-62HDR4MIQA` |  |
+| Phase composition |  | 1473 | Ni2Ta + μ-NiTa; _Ni2Ta: Ni 0.657, Ta 0.343; μ-NiTa: Ni 0.483, Ta 0.517_ | experimental | [3] Zhou 2018 | Table 4, p. 8, row 10; `ORC-Y3YWRMPINB` |  |
+| Phase composition |  | 1473 | Ni3Ta + Ni2Ta; _Ni3Ta: Ni 0.757, Ta 0.244; Ni2Ta: Ni 0.666, Ta 0.335_ | experimental | [3] Zhou 2018 | Table 4, p. 8, row 8; `ORC-UM7YFXBHG7` |  |
+| Phase composition |  | 1473 | NiTa2 + bcc(Ta); _NiTa2: Ni 0.296, Ta 0.704; bcc(Ta): Ni 0.011, Ta 0.989_ | experimental | [3] Zhou 2018 | Table 4, p. 8, row 12; `ORC-TQ7RFRF74M` |  |
+| Phase composition |  | 1473 | fcc(Ni); _fcc(Ni): Ni 0.881, Ta 0.119_ | experimental | [3] Zhou 2018 | Table 4, p. 8, row 3; `ORC-2HIO3DMG73` |  |
+| Phase composition |  | 1473 | fcc(Ni); _fcc(Ni): Ni 0.902, Ta 0.099_ | experimental | [3] Zhou 2018 | Table 4, p. 8, row 1; `ORC-NEDVJIZEN7` |  |
+| Phase composition |  | 1473 | fcc(Ni); _fcc(Ni): Ni 0.894, Ta 0.106_ | experimental | [3] Zhou 2018 | Table 4, p. 8, row 2; `ORC-UFRCCVX25Y` |  |
+| Phase composition |  | 1473 | fcc(Ni) + Ni3Ta; _fcc(Ni): Ni 0.882, Ta 0.118; Ni3Ta: Ni 0.768, Ta 0.232_ | experimental | [3] Zhou 2018 | Table 4, p. 8, row 4; `ORC-AGBVJUV46K` |  |
+| Phase composition |  | 1473 | fcc(Ni) + Ni3Ta; _fcc(Ni): Ni 0.878, Ta 0.122; Ni3Ta: Ni 0.767, Ta 0.233_ | experimental | [3] Zhou 2018 | Table 4, p. 8, row 5; `ORC-JQHMYIPRDO` |  |
+| Phase composition |  | 1473 | fcc(Ni) + Ni3Ta; _fcc(Ni): Ni 0.877, Ta 0.123; Ni3Ta: Ni 0.762, Ta 0.238_ | experimental | [3] Zhou 2018 | Table 4, p. 8, row 7; `ORC-PRAL5VO5OI` |  |
+| Phase composition |  | 1473 | fcc(Ni) + Ni3Ta; _fcc(Ni): Ni 0.876, Ta 0.124; Ni3Ta: Ni 0.763, Ta 0.237_ | experimental | [3] Zhou 2018 | Table 4, p. 8, row 6; `ORC-U33YZ45D7Y` |  |
+| Phase composition |  | 1473 | μ-NiTa + NiTa2; _μ-NiTa: Ni 0.441, Ta 0.559; NiTa2: Ni 0.324, Ta 0.676_ | experimental | [3] Zhou 2018 | Table 4, p. 8, row 11; `ORC-F3KZN7QJVS` |  |
 
 ## Sources
 
@@ -397,4 +397,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

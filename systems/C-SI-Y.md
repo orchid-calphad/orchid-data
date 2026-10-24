@@ -32,11 +32,11 @@ Table: Enthalpies of formation, C–Si–Y system (5)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| UNKNOWN | [Y2C](https://data.orchid-project.org/compounds/Y2C.html) | 31.8 kJ/mol-atom ± 1.3 | 298.15 | experimental | -28.155 (mp-aaaaabzi) | -28.729 (oqmd-4155) | [1] Xu 2019; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900504-0) | Table 2, p. 3, row 31 |  |
-| Y1.8Si0.2C2.7 |  | -26.6 kJ/mol-atom | 0 | DFT |  |  | [1] Xu 2019 | Table 3, p. 3, row 25 |  |
-| Y15Si9C |  | -70.8 kJ/mol-atom | 0 | DFT |  |  | [1] Xu 2019 | Table 3, p. 3, row 24 |  |
-| Y3Si2C2 |  | -67.14 kJ/mol-atom |  | model |  |  | [1] Xu 2019 | Table 3, p. 3, row 23 |  |
-| Y3Si2C2 |  | -66.86 kJ/mol-atom | 0 | DFT |  |  | [1] Xu 2019 | Table 3, p. 3, row 22 |  |
+| UNKNOWN | [Y2C](https://data.orchid-project.org/compounds/Y2C.html) | 31.8 kJ/mol-atom ± 1.3 | 298.15 | experimental | -28.155 (mp-aaaaabzi) | -28.729 (oqmd-4155) | [1] Xu 2019; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900504-0) | Table 2, p. 3, row 31; `ORC-RBLTNNPVR3.1458d7` |  |
+| Y1.8Si0.2C2.7 |  | -26.6 kJ/mol-atom | 0 | DFT |  |  | [1] Xu 2019 | Table 3, p. 3, row 25; `ORC-IGXZ3PKXEP` |  |
+| Y15Si9C |  | -70.8 kJ/mol-atom | 0 | DFT |  |  | [1] Xu 2019 | Table 3, p. 3, row 24; `ORC-FFDZZDXLP6` |  |
+| Y3Si2C2 |  | -67.14 kJ/mol-atom |  | model |  |  | [1] Xu 2019 | Table 3, p. 3, row 23; `ORC-GOM4CJCEZO` |  |
+| Y3Si2C2 |  | -66.86 kJ/mol-atom | 0 | DFT |  |  | [1] Xu 2019 | Table 3, p. 3, row 22; `ORC-BUO7XSPB2I` |  |
 
 ## Other properties
 
@@ -46,24 +46,24 @@ Table: Crystal structure, C–Si–Y system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 8.272 Å | 298.15 | Y0.9Si0.1C1.35; _alloy: Si 0.042553, Y 0.382979_ | experimental | [1] Xu 2019; _cites Krupka 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990026-5) | Table 1, p. 2, row 52 |  |
-| Lattice a | 14.573 Å | 298.15 | Y15Si9C; _alloy: Si 0.36, Y 0.6_ | experimental | [1] Xu 2019; _cites Wrubl 2011_ [doi](https://doi.org/10.1016/j.jallcom.2011.03.092) | Table 1, p. 2, row 53 |  |
-| Lattice a | 3.846 Å | 298.15 | Y3Si2C2; _alloy: Si 0.285714, Y 0.428571_ | experimental | [1] Xu 2019; _cites Gerdes 1998_ [doi](https://doi.org/10.1006/jssc.1998.7772) | Table 1, p. 2, row 54 |  |
-| Lattice a | 3.846 Å | 298.15 | Y3Si2C2; _alloy: Si 0.285714, Y 0.428571_ | unspecified | [1] Xu 2019; _cites Jeitschko 2001_ [doi](https://doi.org/10.1006/jssc.2000.8917) | Table 1, p. 2, row 55 |  |
-| Lattice a | 8.414 Å | 298.15 | Y5Si3C0.2; _alloy: Si 0.365854, Y 0.609756_ | experimental | [1] Xu 2019; _cites Button 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990028-6) | Table 1, p. 2, row 50 |  |
-| Lattice a | 8.433 Å | 298.15 | Y5Si3C0.2; _alloy: Si 0.365854, Y 0.609756_ | experimental | [1] Xu 2019; _cites Hassen 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901174-9) | Table 1, p. 2, row 51 |  |
-| Lattice b | 8.272 Å | 298.15 | Y0.9Si0.1C1.35; _alloy: Si 0.042553, Y 0.382979_ | experimental | [1] Xu 2019; _cites Krupka 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990026-5) | Table 1, p. 2, row 52 |  |
-| Lattice b | 14.573 Å | 298.15 | Y15Si9C; _alloy: Si 0.36, Y 0.6_ | experimental | [1] Xu 2019; _cites Wrubl 2011_ [doi](https://doi.org/10.1016/j.jallcom.2011.03.092) | Table 1, p. 2, row 53 |  |
-| Lattice b | 15.634 Å | 298.15 | Y3Si2C2; _alloy: Si 0.285714, Y 0.428571_ | experimental | [1] Xu 2019; _cites Gerdes 1998_ [doi](https://doi.org/10.1006/jssc.1998.7772) | Table 1, p. 2, row 54 |  |
-| Lattice b | 15.634 Å | 298.15 | Y3Si2C2; _alloy: Si 0.285714, Y 0.428571_ | unspecified | [1] Xu 2019; _cites Jeitschko 2001_ [doi](https://doi.org/10.1006/jssc.2000.8917) | Table 1, p. 2, row 55 |  |
-| Lattice b | 8.414 Å | 298.15 | Y5Si3C0.2; _alloy: Si 0.365854, Y 0.609756_ | experimental | [1] Xu 2019; _cites Button 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990028-6) | Table 1, p. 2, row 50 |  |
-| Lattice b | 8.433 Å | 298.15 | Y5Si3C0.2; _alloy: Si 0.365854, Y 0.609756_ | experimental | [1] Xu 2019; _cites Hassen 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901174-9) | Table 1, p. 2, row 51 |  |
-| Lattice c | 8.272 Å | 298.15 | Y0.9Si0.1C1.35; _alloy: Si 0.042553, Y 0.382979_ | experimental | [1] Xu 2019; _cites Krupka 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990026-5) | Table 1, p. 2, row 52 |  |
-| Lattice c | 6.404 Å | 298.15 | Y15Si9C; _alloy: Si 0.36, Y 0.6_ | experimental | [1] Xu 2019; _cites Wrubl 2011_ [doi](https://doi.org/10.1016/j.jallcom.2011.03.092) | Table 1, p. 2, row 53 |  |
-| Lattice c | 4.213 Å | 298.15 | Y3Si2C2; _alloy: Si 0.285714, Y 0.428571_ | experimental | [1] Xu 2019; _cites Gerdes 1998_ [doi](https://doi.org/10.1006/jssc.1998.7772) | Table 1, p. 2, row 54 |  |
-| Lattice c | 4.213 Å | 298.15 | Y3Si2C2; _alloy: Si 0.285714, Y 0.428571_ | unspecified | [1] Xu 2019; _cites Jeitschko 2001_ [doi](https://doi.org/10.1006/jssc.2000.8917) | Table 1, p. 2, row 55 |  |
-| Lattice c | 6.369 Å | 298.15 | Y5Si3C0.2; _alloy: Si 0.365854, Y 0.609756_ | experimental | [1] Xu 2019; _cites Button 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990028-6) | Table 1, p. 2, row 50 |  |
-| Lattice c | 6.395 Å | 298.15 | Y5Si3C0.2; _alloy: Si 0.365854, Y 0.609756_ | experimental | [1] Xu 2019; _cites Hassen 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901174-9) | Table 1, p. 2, row 51 |  |
+| Lattice a | 8.272 Å | 298.15 | Y0.9Si0.1C1.35; _alloy: Si 0.042553, Y 0.382979_ | experimental | [1] Xu 2019; _cites Krupka 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990026-5) | Table 1, p. 2, row 52; `ORC-BK2V6OJSXX.f82df4` |  |
+| Lattice a | 14.573 Å | 298.15 | Y15Si9C; _alloy: Si 0.36, Y 0.6_ | experimental | [1] Xu 2019; _cites Wrubl 2011_ [doi](https://doi.org/10.1016/j.jallcom.2011.03.092) | Table 1, p. 2, row 53; `ORC-JLRJ7JRR3G.4df8d9` |  |
+| Lattice a | 3.846 Å | 298.15 | Y3Si2C2; _alloy: Si 0.285714, Y 0.428571_ | experimental | [1] Xu 2019; _cites Gerdes 1998_ [doi](https://doi.org/10.1006/jssc.1998.7772) | Table 1, p. 2, row 54; `ORC-AAQ3MRZ5BR.77fc90` |  |
+| Lattice a | 3.846 Å | 298.15 | Y3Si2C2; _alloy: Si 0.285714, Y 0.428571_ | unspecified | [1] Xu 2019; _cites Jeitschko 2001_ [doi](https://doi.org/10.1006/jssc.2000.8917) | Table 1, p. 2, row 55; `ORC-MFJAH634SP.b66ad9` |  |
+| Lattice a | 8.414 Å | 298.15 | Y5Si3C0.2; _alloy: Si 0.365854, Y 0.609756_ | experimental | [1] Xu 2019; _cites Button 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990028-6) | Table 1, p. 2, row 50; `ORC-7I5PZBO5IA.05b26b` |  |
+| Lattice a | 8.433 Å | 298.15 | Y5Si3C0.2; _alloy: Si 0.365854, Y 0.609756_ | experimental | [1] Xu 2019; _cites Hassen 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901174-9) | Table 1, p. 2, row 51; `ORC-RMKKXNN5G4.d1bd25` |  |
+| Lattice b | 8.272 Å | 298.15 | Y0.9Si0.1C1.35; _alloy: Si 0.042553, Y 0.382979_ | experimental | [1] Xu 2019; _cites Krupka 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990026-5) | Table 1, p. 2, row 52; `ORC-BK2V6OJSXX.946e01` |  |
+| Lattice b | 14.573 Å | 298.15 | Y15Si9C; _alloy: Si 0.36, Y 0.6_ | experimental | [1] Xu 2019; _cites Wrubl 2011_ [doi](https://doi.org/10.1016/j.jallcom.2011.03.092) | Table 1, p. 2, row 53; `ORC-JLRJ7JRR3G.3fc46b` |  |
+| Lattice b | 15.634 Å | 298.15 | Y3Si2C2; _alloy: Si 0.285714, Y 0.428571_ | experimental | [1] Xu 2019; _cites Gerdes 1998_ [doi](https://doi.org/10.1006/jssc.1998.7772) | Table 1, p. 2, row 54; `ORC-AAQ3MRZ5BR.243542` |  |
+| Lattice b | 15.634 Å | 298.15 | Y3Si2C2; _alloy: Si 0.285714, Y 0.428571_ | unspecified | [1] Xu 2019; _cites Jeitschko 2001_ [doi](https://doi.org/10.1006/jssc.2000.8917) | Table 1, p. 2, row 55; `ORC-MFJAH634SP.3a21ae` |  |
+| Lattice b | 8.414 Å | 298.15 | Y5Si3C0.2; _alloy: Si 0.365854, Y 0.609756_ | experimental | [1] Xu 2019; _cites Button 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990028-6) | Table 1, p. 2, row 50; `ORC-7I5PZBO5IA.292cfa` |  |
+| Lattice b | 8.433 Å | 298.15 | Y5Si3C0.2; _alloy: Si 0.365854, Y 0.609756_ | experimental | [1] Xu 2019; _cites Hassen 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901174-9) | Table 1, p. 2, row 51; `ORC-RMKKXNN5G4.3ea3da` |  |
+| Lattice c | 8.272 Å | 298.15 | Y0.9Si0.1C1.35; _alloy: Si 0.042553, Y 0.382979_ | experimental | [1] Xu 2019; _cites Krupka 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990026-5) | Table 1, p. 2, row 52; `ORC-BK2V6OJSXX.d8e985` |  |
+| Lattice c | 6.404 Å | 298.15 | Y15Si9C; _alloy: Si 0.36, Y 0.6_ | experimental | [1] Xu 2019; _cites Wrubl 2011_ [doi](https://doi.org/10.1016/j.jallcom.2011.03.092) | Table 1, p. 2, row 53; `ORC-JLRJ7JRR3G.04901c` |  |
+| Lattice c | 4.213 Å | 298.15 | Y3Si2C2; _alloy: Si 0.285714, Y 0.428571_ | experimental | [1] Xu 2019; _cites Gerdes 1998_ [doi](https://doi.org/10.1006/jssc.1998.7772) | Table 1, p. 2, row 54; `ORC-AAQ3MRZ5BR.817531` |  |
+| Lattice c | 4.213 Å | 298.15 | Y3Si2C2; _alloy: Si 0.285714, Y 0.428571_ | unspecified | [1] Xu 2019; _cites Jeitschko 2001_ [doi](https://doi.org/10.1006/jssc.2000.8917) | Table 1, p. 2, row 55; `ORC-MFJAH634SP.f24ea7` |  |
+| Lattice c | 6.369 Å | 298.15 | Y5Si3C0.2; _alloy: Si 0.365854, Y 0.609756_ | experimental | [1] Xu 2019; _cites Button 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990028-6) | Table 1, p. 2, row 50; `ORC-7I5PZBO5IA.efd23e` |  |
+| Lattice c | 6.395 Å | 298.15 | Y5Si3C0.2; _alloy: Si 0.365854, Y 0.609756_ | experimental | [1] Xu 2019; _cites Hassen 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901174-9) | Table 1, p. 2, row 51; `ORC-RMKKXNN5G4.c3dd94` |  |
 
 ## Sources
 
@@ -106,4 +106,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -14,17 +14,17 @@ Table: Enthalpy of formation of Ga2Y reported in the literature (11)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -74.6 kJ/mol-atom ± 1.5 | Ga2Y | 298.15 | experimental | Emf | [Ga–Y](https://data.orchid-project.org/systems/GA-Y.html) | [1] Idbenali 2013; _cites Meschel 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900599-x) | Table 5, p. 7, row 11 |  |
-| -72.1 kJ/mol-atom ± 1.3 | Ga2Y | 298.15 | experimental | Emf | [Ga–Y](https://data.orchid-project.org/systems/GA-Y.html) | [1] Idbenali 2013; _cites Meschel 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900599-x) | Table 5, p. 7, row 9 |  |
-| -70.9 kJ/mol-atom ± 1.5 | Ga2Y | 298.15 | experimental | Emf | [Ga–Y](https://data.orchid-project.org/systems/GA-Y.html) | [1] Idbenali 2013; _cites Yamshchikov 1979_ | Table 5, p. 7, row 12 |  |
-| -69 kJ/mol-atom | Ga2Y | 298.15 | experimental | Ga Soln. Calo | [Ga–Y](https://data.orchid-project.org/systems/GA-Y.html) | [1] Idbenali 2013; _cites Merker 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990065-c) | Table 5, p. 7, row 8 |  |
-| -68.4 kJ/mol-atom ± 1.3 | Ga2Y | 298.15 | experimental | Emf | [Ga–Y](https://data.orchid-project.org/systems/GA-Y.html) | [1] Idbenali 2013; _cites Yamshchikov 1979_ | Table 5, p. 7, row 10 |  |
-| -68.1 kJ/mol-atom ± 2.3 | Ga2Y | 298.15 | experimental | Dir. Syn. Calo. | [Ga–Y](https://data.orchid-project.org/systems/GA-Y.html) | [1] Idbenali 2013; _cites Meschel 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900599-x) | Table 5, p. 7, row 7 |  |
-| -64.4 kJ/mol-atom ± 2.5 | Ga2Y | 298.15 | experimental | Ga Soln. Calo | [Ga–Y](https://data.orchid-project.org/systems/GA-Y.html) | [1] Idbenali 2013; _cites Babu 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901132-4) | Table 5, p. 7, row 6 |  |
-| -61.8 kJ/mol-atom ± 2.8 | Ga2Y | 298.15 | experimental | Precipitation Cal. | [Ga–Y](https://data.orchid-project.org/systems/GA-Y.html) | [1] Idbenali 2013; _cites Babu 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901132-4) | Table 5, p. 7, row 2 |  |
-| -73.49 kJ/mol-atom | Ga2Y | 298.15 | model |  | [Ga–Y](https://data.orchid-project.org/systems/GA-Y.html) | [1] Idbenali 2013 | Table 5, p. 7, row 4 |  |
-| -73.47 kJ/mol-atom | Ga2Y | 298.15 | model |  | [Ga–Y](https://data.orchid-project.org/systems/GA-Y.html) | [1] Idbenali 2013 | Table 5, p. 7, row 3 |  |
-| -65 kJ/mol-atom | Ga2Y | 298.15 | model |  | [Ga–Y](https://data.orchid-project.org/systems/GA-Y.html) | [1] Idbenali 2013; _cites de Boer FR 1988_ | Table 5, p. 7, row 5 |  |
+| -74.6 kJ/mol-atom ± 1.5 | Ga2Y | 298.15 | experimental | Emf | [Ga–Y](https://data.orchid-project.org/systems/GA-Y.html) | [1] Idbenali 2013; _cites Meschel 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900599-x) | Table 5, p. 7, row 11; `ORC-D62AZ3EOOF` |  |
+| -72.1 kJ/mol-atom ± 1.3 | Ga2Y | 298.15 | experimental | Emf | [Ga–Y](https://data.orchid-project.org/systems/GA-Y.html) | [1] Idbenali 2013; _cites Meschel 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900599-x) | Table 5, p. 7, row 9; `ORC-AK4MEPFDCO` |  |
+| -70.9 kJ/mol-atom ± 1.5 | Ga2Y | 298.15 | experimental | Emf | [Ga–Y](https://data.orchid-project.org/systems/GA-Y.html) | [1] Idbenali 2013; _cites Yamshchikov 1979_ | Table 5, p. 7, row 12; `ORC-XQVVHXIE2P` |  |
+| -69 kJ/mol-atom | Ga2Y | 298.15 | experimental | Ga Soln. Calo | [Ga–Y](https://data.orchid-project.org/systems/GA-Y.html) | [1] Idbenali 2013; _cites Merker 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990065-c) | Table 5, p. 7, row 8; `ORC-EMXATGHEVS` |  |
+| -68.4 kJ/mol-atom ± 1.3 | Ga2Y | 298.15 | experimental | Emf | [Ga–Y](https://data.orchid-project.org/systems/GA-Y.html) | [1] Idbenali 2013; _cites Yamshchikov 1979_ | Table 5, p. 7, row 10; `ORC-L5OSCQ3MBA` |  |
+| -68.1 kJ/mol-atom ± 2.3 | Ga2Y | 298.15 | experimental | Dir. Syn. Calo. | [Ga–Y](https://data.orchid-project.org/systems/GA-Y.html) | [1] Idbenali 2013; _cites Meschel 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900599-x) | Table 5, p. 7, row 7; `ORC-5K3AIJTOR3` |  |
+| -64.4 kJ/mol-atom ± 2.5 | Ga2Y | 298.15 | experimental | Ga Soln. Calo | [Ga–Y](https://data.orchid-project.org/systems/GA-Y.html) | [1] Idbenali 2013; _cites Babu 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901132-4) | Table 5, p. 7, row 6; `ORC-3AMEIA2A2X` |  |
+| -61.8 kJ/mol-atom ± 2.8 | Ga2Y | 298.15 | experimental | Precipitation Cal. | [Ga–Y](https://data.orchid-project.org/systems/GA-Y.html) | [1] Idbenali 2013; _cites Babu 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901132-4) | Table 5, p. 7, row 2; `ORC-HNUQ7TBIW2.63f956` |  |
+| -73.49 kJ/mol-atom | Ga2Y | 298.15 | model |  | [Ga–Y](https://data.orchid-project.org/systems/GA-Y.html) | [1] Idbenali 2013 | Table 5, p. 7, row 4; `ORC-HGBUPAPL5B` |  |
+| -73.47 kJ/mol-atom | Ga2Y | 298.15 | model |  | [Ga–Y](https://data.orchid-project.org/systems/GA-Y.html) | [1] Idbenali 2013 | Table 5, p. 7, row 3; `ORC-T3KIGB7X3X` |  |
+| -65 kJ/mol-atom | Ga2Y | 298.15 | model |  | [Ga–Y](https://data.orchid-project.org/systems/GA-Y.html) | [1] Idbenali 2013; _cites de Boer FR 1988_ | Table 5, p. 7, row 5; `ORC-2X4VVWDTWE` |  |
 
 ### Uncertainty budget
 
@@ -110,4 +110,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

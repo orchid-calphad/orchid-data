@@ -27,11 +27,11 @@ Table: Invariant reactions reported in the literature for the Al–P–Si system
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1403.65 | eutectic: L ! (Si) + SiP + AlP |  | model | [1] Liang 2014 | p. 5 | “Very close to the Si-P binary eutectic L ! (Si) + SiP the ternary eutectic L ! (Si) + SiP + AlP at 1130.5 °C is calculated, where \[P\](Si) = 1.21 wt.% P is still relatively large.” |
-| 850.15 | eutectic: L -> (Al) + (Si) + AlP |  | model | [1] Liang 2014 | p. 8 | “However, an extra ZPF line of the AlP phase appears, shown as the red dashed line between the liquidus and solidus line of (Al) and continuing exactly along the horizontal line at 577 °C above 7 wt.% Si. This entire horizontal line in Fig. 10a represents the cut through the ternary eutectic L ! (Al) + (Si) + AlP four-phase equilibrium.” |
-| 850.15 | eutectic: L ! (Al) + (Si) + AlP |  | model | [1] Liang 2014 | p. 15 | “Based on this, the first consistent and experimentally supported Al-Si-P phase diagram was calculated, including details of the most important ternary eutectic, L ! (Al) + (Si) + AlP, at 577 °C.” |
-| 850.15 | eutectic: L -> (Al) + (Si) |  | model | [1] Liang 2014 | p. 14 | “In the normal simulation all phases are allowed to form, and thus the formation of eutectic (Si) occurs at 577 °C in the L ! (Al) + (Si) reaction with f(Si) = 0.018.” |
-| 850.15 | eutectic: L ! (Al) + (Si) + AlP |  | model | [1] Liang 2014 | p. 5 | “The calculated composition of all solid phases at the ternary eutectic, L ! (Al) + (Si) + AlP, at 577 °C is as follows: \[Si\](Al) = 1.55 wt.% Si, \[P\](Al) = 0.009 ppm P, \[Al\](Si) = 0.0014 wt.% Al, \[P\](Si) = 0.005 ppm P and stoichiometric AlP.” |
+| 1403.65 | eutectic: L ! (Si) + SiP + AlP |  | model | [1] Liang 2014 | p. 5; `ORC-7LVX4ISW3W` | “Very close to the Si-P binary eutectic L ! (Si) + SiP the ternary eutectic L ! (Si) + SiP + AlP at 1130.5 °C is calculated, where \[P\](Si) = 1.21 wt.% P is still relatively large.” |
+| 850.15 | eutectic: L -> (Al) + (Si) + AlP |  | model | [1] Liang 2014 | p. 8; `ORC-3MHB2PKEZY` | “However, an extra ZPF line of the AlP phase appears, shown as the red dashed line between the liquidus and solidus line of (Al) and continuing exactly along the horizontal line at 577 °C above 7 wt.% Si. This entire horizontal line in Fig. 10a represents the cut through the ternary eutectic L ! (Al) + (Si) + AlP four-phase equilibrium.” |
+| 850.15 | eutectic: L ! (Al) + (Si) + AlP |  | model | [1] Liang 2014 | p. 15; `ORC-5E2CCCWSR4` | “Based on this, the first consistent and experimentally supported Al-Si-P phase diagram was calculated, including details of the most important ternary eutectic, L ! (Al) + (Si) + AlP, at 577 °C.” |
+| 850.15 | eutectic: L -> (Al) + (Si) |  | model | [1] Liang 2014 | p. 14; `ORC-5KVSHEFEQ7` | “In the normal simulation all phases are allowed to form, and thus the formation of eutectic (Si) occurs at 577 °C in the L ! (Al) + (Si) reaction with f(Si) = 0.018.” |
+| 850.15 | eutectic: L ! (Al) + (Si) + AlP |  | model | [1] Liang 2014 | p. 5; `ORC-AO7B2JRIMZ` | “The calculated composition of all solid phases at the ternary eutectic, L ! (Al) + (Si) + AlP, at 577 °C is as follows: \[Si\](Al) = 1.55 wt.% Si, \[P\](Al) = 0.009 ppm P, \[Al\](Si) = 0.0014 wt.% Al, \[P\](Si) = 0.005 ppm P and stoichiometric AlP.” |
 
 ## Other properties
 
@@ -41,7 +41,7 @@ Table: Phase transition, Al–P–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 789.15 K | 789.15 | L -> (Al) + AlP | model | [1] Liang 2014 | p. 14 | “This ends at 516 °C, where the extended solidification path hits the metastable extension of the AlP crystallization surface. At this point the calculated residual liquid composition is 19.9 wt.% Si and 2.2 ppm P, which may be compared with Fig. 6.” |
+| Phase transition | 789.15 K | 789.15 | L -> (Al) + AlP | model | [1] Liang 2014 | p. 14; `ORC-CYFWBNDDKQ` | “This ends at 516 °C, where the extended solidification path hits the metastable extension of the AlP crystallization surface. At this point the calculated residual liquid composition is 19.9 wt.% Si and 2.2 ppm P, which may be compared with Fig. 6.” |
 
 ## Sources
 
@@ -84,4 +84,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

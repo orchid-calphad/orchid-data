@@ -29,25 +29,25 @@ Table: Crystal structure, P system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 9.17 Å | 123.15 | γ-P; _alloy: P 1_ | experimental | [1] Liang 2013; _cites Okudera 2005_ [doi](https://doi.org/10.1524/zkri.220.2.259.59137) | Table 1, p. 2, row 4 |  |
-| Lattice a | 11.45 Å | 158.15 | β-P; _alloy: P 1_ | experimental | [1] Liang 2013; _cites Simon 1987_ [doi](https://doi.org/10.1080/03086648708080631) | Table 1, p. 2, row 3 |  |
-| Lattice a | 1851 not_printed ± 3 | 243.15 | α-P; _alloy: P 1_ | experimental | [1] Liang 2013; _cites Corbridge 1952_ | Table 1, p. 2, row 2 |  |
-| Lattice a | 9.21 Å | 298.15 | (P); _alloy: P 1_ | experimental | [2] Chen 2022; _cites Thurn 1969_ [doi](https://doi.org/10.1107/s0567740869001853) | Table I, p. 2, row 12 |  |
-| Lattice a | 3.3136 Å | 298.15 | P(black); _P(black): P 1_ | unspecified | [3] Karakaya 1988; _cites ref. 2_ | Table 3, p. 3, row 4 |  |
-| Lattice a | 11.31 Å | 298.15 | P(red); _P(red): P 1_ | unspecified | [3] Karakaya 1988; _cites ref. 2_ | Table 3, p. 3, row 6 |  |
-| Lattice a | 7.18 Å | 298.15 | P(white); _P(white): P 1_ | unspecified | [3] Karakaya 1988; _cites ref. 2_ | Table 3, p. 3, row 5 |  |
-| Lattice a | 9.21 Å | 298.15 | red-P; _alloy: P 1_ | experimental | [1] Liang 2013; _cites Thurn 1969_ [doi](https://doi.org/10.1107/s0567740869001853) | Table 1, p. 2, row 5 |  |
-| Lattice b | 8.33 Å | 123.15 | γ-P; _alloy: P 1_ | experimental | [1] Liang 2013; _cites Okudera 2005_ [doi](https://doi.org/10.1524/zkri.220.2.259.59137) | Table 1, p. 2, row 4 |  |
-| Lattice b | 5.5 Å | 158.15 | β-P; _alloy: P 1_ | experimental | [1] Liang 2013; _cites Simon 1987_ [doi](https://doi.org/10.1080/03086648708080631) | Table 1, p. 2, row 3 |  |
-| Lattice b | 9.15 Å | 298.15 | (P); _alloy: P 1_ | experimental | [2] Chen 2022; _cites Thurn 1969_ [doi](https://doi.org/10.1107/s0567740869001853) | Table I, p. 2, row 12 |  |
-| Lattice b | 10.478 Å | 298.15 | P(black); _P(black): P 1_ | unspecified | [3] Karakaya 1988; _cites ref. 2_ | Table 3, p. 3, row 4 |  |
-| Lattice b | 9.15 Å | 298.15 | red-P; _alloy: P 1_ | experimental | [1] Liang 2013; _cites Thurn 1969_ [doi](https://doi.org/10.1107/s0567740869001853) | Table 1, p. 2, row 5 |  |
-| Lattice c | 5.43 Å | 123.15 | γ-P; _alloy: P 1_ | experimental | [1] Liang 2013; _cites Okudera 2005_ [doi](https://doi.org/10.1524/zkri.220.2.259.59137) | Table 1, p. 2, row 4 |  |
-| Lattice c | 11.26 Å | 158.15 | β-P; _alloy: P 1_ | experimental | [1] Liang 2013; _cites Simon 1987_ [doi](https://doi.org/10.1080/03086648708080631) | Table 1, p. 2, row 3 |  |
-| Lattice c | 22.6 Å | 298.15 | (P); _alloy: P 1_ | experimental | [2] Chen 2022; _cites Thurn 1969_ [doi](https://doi.org/10.1107/s0567740869001853) | Table I, p. 2, row 12 |  |
-| Lattice c | 4.3763 Å | 298.15 | P(black); _P(black): P 1_ | unspecified | [3] Karakaya 1988; _cites ref. 2_ | Table 3, p. 3, row 4 |  |
-| Lattice c | 4.3763 Å | 298.15 | P(white); _P(white): P 1_ | unspecified | [3] Karakaya 1988; _cites ref. 2_ | Table 3, p. 3, row 5 |  |
-| Lattice c | 22.6 Å | 298.15 | red-P; _alloy: P 1_ | experimental | [1] Liang 2013; _cites Thurn 1969_ [doi](https://doi.org/10.1107/s0567740869001853) | Table 1, p. 2, row 5 |  |
+| Lattice a | 9.17 Å | 123.15 | γ-P; _alloy: P 1_ | experimental | [1] Liang 2013; _cites Okudera 2005_ [doi](https://doi.org/10.1524/zkri.220.2.259.59137) | Table 1, p. 2, row 4; `ORC-ULY4QGAWJY.665758` |  |
+| Lattice a | 11.45 Å | 158.15 | β-P; _alloy: P 1_ | experimental | [1] Liang 2013; _cites Simon 1987_ [doi](https://doi.org/10.1080/03086648708080631) | Table 1, p. 2, row 3; `ORC-6AAXVR4QYL.bf0e0f` |  |
+| Lattice a | 1851 not_printed ± 3 | 243.15 | α-P; _alloy: P 1_ | experimental | [1] Liang 2013; _cites Corbridge 1952_ | Table 1, p. 2, row 2; `ORC-PIDWSQK37K` |  |
+| Lattice a | 9.21 Å | 298.15 | (P); _alloy: P 1_ | experimental | [2] Chen 2022; _cites Thurn 1969_ [doi](https://doi.org/10.1107/s0567740869001853) | Table I, p. 2, row 12; `ORC-I4PPN5HFBH.a75a2f` |  |
+| Lattice a | 3.3136 Å | 298.15 | P(black); _P(black): P 1_ | unspecified | [3] Karakaya 1988; _cites ref. 2_ | Table 3, p. 3, row 4; `ORC-A6OPTW3NHL.eccfe2` |  |
+| Lattice a | 11.31 Å | 298.15 | P(red); _P(red): P 1_ | unspecified | [3] Karakaya 1988; _cites ref. 2_ | Table 3, p. 3, row 6; `ORC-DN33WENJMQ` |  |
+| Lattice a | 7.18 Å | 298.15 | P(white); _P(white): P 1_ | unspecified | [3] Karakaya 1988; _cites ref. 2_ | Table 3, p. 3, row 5; `ORC-BG3WPESFM7.1b626f` |  |
+| Lattice a | 9.21 Å | 298.15 | red-P; _alloy: P 1_ | experimental | [1] Liang 2013; _cites Thurn 1969_ [doi](https://doi.org/10.1107/s0567740869001853) | Table 1, p. 2, row 5; `ORC-JGD75DVYZS.28ee59` |  |
+| Lattice b | 8.33 Å | 123.15 | γ-P; _alloy: P 1_ | experimental | [1] Liang 2013; _cites Okudera 2005_ [doi](https://doi.org/10.1524/zkri.220.2.259.59137) | Table 1, p. 2, row 4; `ORC-ULY4QGAWJY.f13e2d` |  |
+| Lattice b | 5.5 Å | 158.15 | β-P; _alloy: P 1_ | experimental | [1] Liang 2013; _cites Simon 1987_ [doi](https://doi.org/10.1080/03086648708080631) | Table 1, p. 2, row 3; `ORC-6AAXVR4QYL.504c20` |  |
+| Lattice b | 9.15 Å | 298.15 | (P); _alloy: P 1_ | experimental | [2] Chen 2022; _cites Thurn 1969_ [doi](https://doi.org/10.1107/s0567740869001853) | Table I, p. 2, row 12; `ORC-I4PPN5HFBH.65f863` |  |
+| Lattice b | 10.478 Å | 298.15 | P(black); _P(black): P 1_ | unspecified | [3] Karakaya 1988; _cites ref. 2_ | Table 3, p. 3, row 4; `ORC-A6OPTW3NHL.2bf0f0` |  |
+| Lattice b | 9.15 Å | 298.15 | red-P; _alloy: P 1_ | experimental | [1] Liang 2013; _cites Thurn 1969_ [doi](https://doi.org/10.1107/s0567740869001853) | Table 1, p. 2, row 5; `ORC-JGD75DVYZS.1f6f6d` |  |
+| Lattice c | 5.43 Å | 123.15 | γ-P; _alloy: P 1_ | experimental | [1] Liang 2013; _cites Okudera 2005_ [doi](https://doi.org/10.1524/zkri.220.2.259.59137) | Table 1, p. 2, row 4; `ORC-ULY4QGAWJY.ef22ad` |  |
+| Lattice c | 11.26 Å | 158.15 | β-P; _alloy: P 1_ | experimental | [1] Liang 2013; _cites Simon 1987_ [doi](https://doi.org/10.1080/03086648708080631) | Table 1, p. 2, row 3; `ORC-6AAXVR4QYL.24d177` |  |
+| Lattice c | 22.6 Å | 298.15 | (P); _alloy: P 1_ | experimental | [2] Chen 2022; _cites Thurn 1969_ [doi](https://doi.org/10.1107/s0567740869001853) | Table I, p. 2, row 12; `ORC-I4PPN5HFBH.333c27` |  |
+| Lattice c | 4.3763 Å | 298.15 | P(black); _P(black): P 1_ | unspecified | [3] Karakaya 1988; _cites ref. 2_ | Table 3, p. 3, row 4; `ORC-A6OPTW3NHL.88a0d0` |  |
+| Lattice c | 4.3763 Å | 298.15 | P(white); _P(white): P 1_ | unspecified | [3] Karakaya 1988; _cites ref. 2_ | Table 3, p. 3, row 5; `ORC-BG3WPESFM7.f62cd9` |  |
+| Lattice c | 22.6 Å | 298.15 | red-P; _alloy: P 1_ | experimental | [1] Liang 2013; _cites Thurn 1969_ [doi](https://doi.org/10.1107/s0567740869001853) | Table 1, p. 2, row 5; `ORC-JGD75DVYZS.437139` |  |
 
 ## Sources
 
@@ -92,4 +92,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

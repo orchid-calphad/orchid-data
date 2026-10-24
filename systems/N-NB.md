@@ -32,8 +32,8 @@ Table: Invariant reactions reported in the literature for the N–Nb system (2)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2865 | peritectic |  | model | [1] Hallstedt 2009 | p. 2 | “The temperature of the bcc + liquid + Nb2 N invariant equilibrium has changed from 2865 K to 2688 K and its character has shifted from peritectic to eutectic.” |
-| 2688 | eutectic |  | model | [1] Hallstedt 2009 | p. 2 | “The temperature of the bcc + liquid + Nb2 N invariant equilibrium has changed from 2865 K to 2688 K and its character has shifted from peritectic to eutectic.” |
+| 2865 | peritectic |  | model | [1] Hallstedt 2009 | p. 2; `ORC-DUKACSVI6C.0dd343` | “The temperature of the bcc + liquid + Nb2 N invariant equilibrium has changed from 2865 K to 2688 K and its character has shifted from peritectic to eutectic.” |
+| 2688 | eutectic |  | model | [1] Hallstedt 2009 | p. 2; `ORC-DUKACSVI6C.40e66e` | “The temperature of the bcc + liquid + Nb2 N invariant equilibrium has changed from 2865 K to 2688 K and its character has shifted from peritectic to eutectic.” |
 
 ## Other properties
 
@@ -43,13 +43,13 @@ Table: Phase transition, N–Nb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 2303 K | 2303 | NbN + liquid | experimental | [2] Huang 1996; _cites Friederich 1925_ [doi](https://doi.org/10.1002/zaac.19251430121) | p. 1 | “The NbN nitride was found to melt at 2303 K by Friederich and Sitting.\[15\]” |
-| Phase transition | 2473 K | 2473 |  | experimental | [2] Huang 1996; _cites Yu 1974_ | p. 1 | “Levinskiy\[8\] arbitrarily placed the decomposition temperature of NbN at about 2473 K based on the work of Elliott and Komjathy.\[9\]” |
-| Phase transition | 2573 K | 2573 |  | experimental | [2] Huang 1996; _cites Chernyaeva 1990_ [doi](https://doi.org/10.1007/bf00844961) | p. 1 | “Chernyaeva et al.\[16\] cited a NbN decomposition temperature of 2573 K by Samonov.\[17\]” |
-| Phase transition | 2673 K | 2673 | L = bcc + N2 | experimental | [2] Huang 1996; _cites Elliott 1961_ | p. 2 | “The reaction temperature was roughly given as 2673 K, slightly below the melting point of pure niobium, 2686 5 15 K.” |
-| Phase transition | 2742 K | 2742 | Nb + liquid | experimental | [2] Huang 1996 | p. 2 | “(The melting point of Nb is now accepted to be 2742 K.)” |
-| Phase transition | 2743 K | 2743 | liquid | experimental | [2] Huang 1996 | p. 5 | “The temperature of the sample was taken as the melting point of niobium, 2743 K.” |
-| Phase transition | 2858 K | 2858 |  | model | [2] Huang 1996 | p. 7 | “The calculated melting point, 2858 K, is within the experimental uncertainty.” |
+| Phase transition | 2303 K | 2303 | NbN + liquid | experimental | [2] Huang 1996; _cites Friederich 1925_ [doi](https://doi.org/10.1002/zaac.19251430121) | p. 1; `ORC-BOHRONVC6O` | “The NbN nitride was found to melt at 2303 K by Friederich and Sitting.\[15\]” |
+| Phase transition | 2473 K | 2473 |  | experimental | [2] Huang 1996; _cites Yu 1974_ | p. 1; `ORC-RAHBWO4HZ5.e9920c` | “Levinskiy\[8\] arbitrarily placed the decomposition temperature of NbN at about 2473 K based on the work of Elliott and Komjathy.\[9\]” |
+| Phase transition | 2573 K | 2573 |  | experimental | [2] Huang 1996; _cites Chernyaeva 1990_ [doi](https://doi.org/10.1007/bf00844961) | p. 1; `ORC-RAHBWO4HZ5.6a81b0` | “Chernyaeva et al.\[16\] cited a NbN decomposition temperature of 2573 K by Samonov.\[17\]” |
+| Phase transition | 2673 K | 2673 | L = bcc + N2 | experimental | [2] Huang 1996; _cites Elliott 1961_ | p. 2; `ORC-3TTF3LZND7` | “The reaction temperature was roughly given as 2673 K, slightly below the melting point of pure niobium, 2686 5 15 K.” |
+| Phase transition | 2742 K | 2742 | Nb + liquid | experimental | [2] Huang 1996 | p. 2; `ORC-BC7KMSSFBX` | “(The melting point of Nb is now accepted to be 2742 K.)” |
+| Phase transition | 2743 K | 2743 | liquid | experimental | [2] Huang 1996 | p. 5; `ORC-2ABAAXW234` | “The temperature of the sample was taken as the melting point of niobium, 2743 K.” |
+| Phase transition | 2858 K | 2858 |  | model | [2] Huang 1996 | p. 7; `ORC-S422XWKLWP` | “The calculated melting point, 2858 K, is within the experimental uncertainty.” |
 
 ### Heat capacity / entropy / enthalpy (4)
 
@@ -57,10 +57,10 @@ Table: Heat capacity / entropy / enthalpy, N–Nb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: 7S298_ | 37.7 unspecified ± 2 | 298.15 |  | experimental | [2] Huang 1996 | p. 4 | “The estimated entropy at 298 K\[34\] for NbN ranges from 7S298 5 37.7 by Kelley and King\[48\] and 47.7 by Schick\[34\] to 52.7 J/Kzmole of NbN by Kaufman.\[49\]” |
-| Entropy; _printed: 7S298_ | 52.7 J/Kzmole | 298.15 |  | model | [2] Huang 1996; _cites Kaufman 1962_ | p. 4 | “The estimated entropy at 298 K\[34\] for NbN ranges from 7S298 5 37.7 by Kelley and King\[48\] and 47.7 by Schick\[34\] to 52.7 J/Kzmole of NbN by Kaufman.\[49\]” |
-| Entropy; _printed: 7S298_ | 37.7 J/Kzmole | 298.15 |  | model | [2] Huang 1996; _cites Kelley 1961_ | p. 4 | “The estimated entropy at 298 K\[34\] for NbN ranges from 7S298 5 37.7 by Kelley and King\[48\] and 47.7 by Schick\[34\] to 52.7 J/Kzmole of NbN by Kaufman.\[49\]” |
-| Entropy; _printed: 7S298_ | 47.7 J/Kzmole | 298.15 |  | model | [2] Huang 1996; _cites Schick 1966_ | p. 4 | “The estimated entropy at 298 K\[34\] for NbN ranges from 7S298 5 37.7 by Kelley and King\[48\] and 47.7 by Schick\[34\] to 52.7 J/Kzmole of NbN by Kaufman.\[49\]” |
+| Entropy; _printed: 7S298_ | 37.7 unspecified ± 2 | 298.15 |  | experimental | [2] Huang 1996 | p. 4; `ORC-HOSJCOR2SU.14e9e6` | “The estimated entropy at 298 K\[34\] for NbN ranges from 7S298 5 37.7 by Kelley and King\[48\] and 47.7 by Schick\[34\] to 52.7 J/Kzmole of NbN by Kaufman.\[49\]” |
+| Entropy; _printed: 7S298_ | 52.7 J/Kzmole | 298.15 |  | model | [2] Huang 1996; _cites Kaufman 1962_ | p. 4; `ORC-HOSJCOR2SU.2d2fbd` | “The estimated entropy at 298 K\[34\] for NbN ranges from 7S298 5 37.7 by Kelley and King\[48\] and 47.7 by Schick\[34\] to 52.7 J/Kzmole of NbN by Kaufman.\[49\]” |
+| Entropy; _printed: 7S298_ | 37.7 J/Kzmole | 298.15 |  | model | [2] Huang 1996; _cites Kelley 1961_ | p. 4; `ORC-HOSJCOR2SU.82a6d5` | “The estimated entropy at 298 K\[34\] for NbN ranges from 7S298 5 37.7 by Kelley and King\[48\] and 47.7 by Schick\[34\] to 52.7 J/Kzmole of NbN by Kaufman.\[49\]” |
+| Entropy; _printed: 7S298_ | 47.7 J/Kzmole | 298.15 |  | model | [2] Huang 1996; _cites Schick 1966_ | p. 4; `ORC-HOSJCOR2SU.e8020b` | “The estimated entropy at 298 K\[34\] for NbN ranges from 7S298 5 37.7 by Kelley and King\[48\] and 47.7 by Schick\[34\] to 52.7 J/Kzmole of NbN by Kaufman.\[49\]” |
 
 ### Other property (1)
 
@@ -68,7 +68,7 @@ Table: Other property, N–Nb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Other; _printed: D7H_ | 1 unspecified ± 1 | 1643 |  | model | [2] Huang 1996; _cites Schick 1966_ | p. 8 | “Schick\[34\] estimated that the enthalpy of transformation from ε -NbN to d -NbN at 1643 K was D7H 5 1.0 5 1.0 kcal/mole of NbN.” |
+| Other; _printed: D7H_ | 1 unspecified ± 1 | 1643 |  | model | [2] Huang 1996; _cites Schick 1966_ | p. 8; `ORC-IE4SSUD63U` | “Schick\[34\] estimated that the enthalpy of transformation from ε -NbN to d -NbN at 1643 K was D7H 5 1.0 5 1.0 kcal/mole of NbN.” |
 
 ## Sources
 
@@ -123,4 +123,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

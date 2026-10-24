@@ -14,9 +14,9 @@ Table: Enthalpy of formation of BiCe2 reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -81.6 kJ/mol-atom | Ce2Bi | 298.15 | experimental |  | [Bi–Ce](https://data.orchid-project.org/systems/BI-CE.html) | [1] Wang 2017; _cites Borzone 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990067-x) | Table 8, p. 6, row 14 |  |
-| -84 kJ/mol-atom | Ce2Bi |  | model |  | [Bi–Ce](https://data.orchid-project.org/systems/BI-CE.html) | [1] Wang 2017; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 8, p. 6, row 13 |  |
-| -81.421 kJ/mol-atom | Ce2Bi |  | model |  | [Bi–Ce](https://data.orchid-project.org/systems/BI-CE.html) | [1] Wang 2017 | Table 8, p. 6, row 15 |  |
+| -81.6 kJ/mol-atom | Ce2Bi | 298.15 | experimental |  | [Bi–Ce](https://data.orchid-project.org/systems/BI-CE.html) | [1] Wang 2017; _cites Borzone 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990067-x) | Table 8, p. 6, row 14; `ORC-TBUT4TDDGS.00931e` |  |
+| -84 kJ/mol-atom | Ce2Bi |  | model |  | [Bi–Ce](https://data.orchid-project.org/systems/BI-CE.html) | [1] Wang 2017; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 8, p. 6, row 13; `ORC-37QYNVNWGL.423e87` |  |
+| -81.421 kJ/mol-atom | Ce2Bi |  | model |  | [Bi–Ce](https://data.orchid-project.org/systems/BI-CE.html) | [1] Wang 2017 | Table 8, p. 6, row 15; `ORC-WK3XZ5EHJA.69726b` |  |
 
 ### Uncertainty budget
 
@@ -94,4 +94,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

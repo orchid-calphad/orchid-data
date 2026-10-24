@@ -34,7 +34,7 @@ Table: Enthalpies of formation, O–Pr system (1)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| A-Pr2O3 | [Pr2O3](https://data.orchid-project.org/compounds/Pr2O3.html) | -361.98 kJ/mol-atom | 298.15 | model | -360.381 (mp-aaaaaysn) | -345.037 (oqmd-16545) | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 25 |  |
+| A-Pr2O3 | [Pr2O3](https://data.orchid-project.org/compounds/Pr2O3.html) | -361.98 kJ/mol-atom | 298.15 | model | -360.381 (mp-aaaaaysn) | -345.037 (oqmd-16545) | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 25; `ORC-64WTPTGMMD.52446f` |  |
 
 ## Other properties
 
@@ -44,14 +44,14 @@ Table: Phase transition, O–Pr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 2223 K | 2223 | polymorphic: A ⟺ H; _alloy: O 0.6, Pr 0.4_ | experimental | [1] ZINKEVICH 2007; _cites Foex 1966_ | Table 2.1, p. 6, row 25 |  |
-| Phase transition | 2303 K | 2303 | polymorphic: A ⟺ H; _alloy: O 0.6, Pr 0.4_ | experimental | [1] ZINKEVICH 2007; _cites Shevtchenko 1985_ | Table 2.1, p. 6, row 29 |  |
-| Phase transition | 2318 K | 2318 | polymorphic: A ⟺ H; _alloy: O 0.6, Pr 0.4_ | experimental | [1] ZINKEVICH 2007; _cites Tresvyatkii 1971_ | Table 2.1, p. 6, row 27 |  |
-| Phase transition | 2353 K | 2353 | polymorphic: A \<=> H; _alloy: O 0.6, Pr 0.4_ | model | [1] ZINKEVICH 2007 | Table 2.2, p. 8, row 12 |  |
-| Phase transition | 2393 K | 2393 | polymorphic: H ⟺ X; _alloy: O 0.6, Pr 0.4_ | experimental | [1] ZINKEVICH 2007; _cites Tresvyatkii 1971_ | Table 2.1, p. 6, row 28 |  |
-| Phase transition | 2403 K | 2403 | polymorphic: H ⟺ X; _alloy: O 0.6, Pr 0.4_ | experimental | [1] ZINKEVICH 2007; _cites Shevtchenko 1985_ | Table 2.1, p. 6, row 30 |  |
-| Phase transition | 2423 K | 2423 | polymorphic: H ⟺ X; _alloy: O 0.6, Pr 0.4_ | experimental | [1] ZINKEVICH 2007; _cites Foex 1966_ | Table 2.1, p. 6, row 26 |  |
-| Phase transition | 2443 K | 2443 | polymorphic: H \<=> X; _alloy: O 0.6, Pr 0.4_ | model | [1] ZINKEVICH 2007 | Table 2.2, p. 8, row 26 |  |
+| Phase transition | 2223 K | 2223 | polymorphic: A ⟺ H; _alloy: O 0.6, Pr 0.4_ | experimental | [1] ZINKEVICH 2007; _cites Foex 1966_ | Table 2.1, p. 6, row 25; `ORC-QOWBUPNSXG` |  |
+| Phase transition | 2303 K | 2303 | polymorphic: A ⟺ H; _alloy: O 0.6, Pr 0.4_ | experimental | [1] ZINKEVICH 2007; _cites Shevtchenko 1985_ | Table 2.1, p. 6, row 29; `ORC-LJ7VPSJYUJ` |  |
+| Phase transition | 2318 K | 2318 | polymorphic: A ⟺ H; _alloy: O 0.6, Pr 0.4_ | experimental | [1] ZINKEVICH 2007; _cites Tresvyatkii 1971_ | Table 2.1, p. 6, row 27; `ORC-FZ74PK2EYW` |  |
+| Phase transition | 2353 K | 2353 | polymorphic: A \<=> H; _alloy: O 0.6, Pr 0.4_ | model | [1] ZINKEVICH 2007 | Table 2.2, p. 8, row 12; `ORC-G4OR7YPNNZ` |  |
+| Phase transition | 2393 K | 2393 | polymorphic: H ⟺ X; _alloy: O 0.6, Pr 0.4_ | experimental | [1] ZINKEVICH 2007; _cites Tresvyatkii 1971_ | Table 2.1, p. 6, row 28; `ORC-DY7R27IDZT` |  |
+| Phase transition | 2403 K | 2403 | polymorphic: H ⟺ X; _alloy: O 0.6, Pr 0.4_ | experimental | [1] ZINKEVICH 2007; _cites Shevtchenko 1985_ | Table 2.1, p. 6, row 30; `ORC-LPRLEEKM6X` |  |
+| Phase transition | 2423 K | 2423 | polymorphic: H ⟺ X; _alloy: O 0.6, Pr 0.4_ | experimental | [1] ZINKEVICH 2007; _cites Foex 1966_ | Table 2.1, p. 6, row 26; `ORC-A3RB2EQR5A` |  |
+| Phase transition | 2443 K | 2443 | polymorphic: H \<=> X; _alloy: O 0.6, Pr 0.4_ | model | [1] ZINKEVICH 2007 | Table 2.2, p. 8, row 26; `ORC-25VIGXKQZ2` |  |
 
 ### Heat capacity / entropy / enthalpy (1)
 
@@ -59,7 +59,7 @@ Table: Heat capacity / entropy / enthalpy, O–Pr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: °S_ | 152.74 unknown | 298.15 | A-Pr2O3; _alloy: O 0.6, Pr 0.4_ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 25 |  |
+| Entropy; _printed: °S_ | 152.74 unknown | 298.15 | A-Pr2O3; _alloy: O 0.6, Pr 0.4_ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 25; `ORC-64WTPTGMMD.6348a5` |  |
 
 ### Crystal structure (3)
 
@@ -67,9 +67,9 @@ Table: Crystal structure, O–Pr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| lattice molar volume | 46.675 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Pr 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 5 |  |
-| lattice molar volume | 47.545 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Pr 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 5 |  |
-| lattice molar volume | 52.202 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Pr 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 5 |  |
+| lattice molar volume | 46.675 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Pr 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 5; `ORC-7BPDP7IZEV.08a4e5` |  |
+| lattice molar volume | 47.545 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Pr 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 5; `ORC-7BPDP7IZEV.1af1f6` |  |
+| lattice molar volume | 52.202 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Pr 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 5; `ORC-7BPDP7IZEV.e1c894` |  |
 
 ## Sources
 
@@ -123,4 +123,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

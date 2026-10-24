@@ -30,13 +30,13 @@ Table: Heat capacity / entropy / enthalpy, O–Pd system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: Standard entropy_ | 33.74 J/mol (basis unstated)/K ± 0.3 | 298.15 | PdO; _alloy: Pd 0.5_ | model | [1] Laurin 2022; _cites Nell 1996_ [doi](https://doi.org/10.1016/0016-7037%2896%2900115-9) | Table 2, p. 6, row 1 |  |
-| Entropy; _printed: Standard entropy_ | 36.8 J/mol (basis unstated)/K ± 2.1 | 298.15 | PdO; _alloy: Pd 0.5_ | model | [1] Laurin 2022; _cites Kleykamp 1970_ [doi](https://doi.org/10.1524/zpch.1970.71.1_3.142) | Table 2, p. 6, row 2 |  |
-| Entropy; _printed: Standard entropy_ | 33.5 J/mol (basis unstated)/K ± 1.5 | 298.15 | PdO; _alloy: Pd 0.5_ | model | [1] Laurin 2022; _cites De 1980_ | Table 2, p. 6, row 4 |  |
-| Entropy; _printed: Standard entropy_ | 36.5 J/mol (basis unstated)/K ± 4 | 298.15 | PdO; _alloy: Pd 0.5_ | model | [1] Laurin 2022; _cites Khodakovskii 2011_ [doi](https://doi.org/10.1134/s0016702911050053) | Table 2, p. 6, row 5 |  |
-| Entropy; _printed: Standard entropy_ | 37.25 J/mol (basis unstated)/K ± 0.4 | 298.15 | PdO; _alloy: Pd 0.5_ | model | [1] Laurin 2022; _cites Jacob 1999_ [doi](https://doi.org/10.1361/105497199770340545) | Table 2, p. 6, row 7 |  |
-| Entropy; _printed: Standard entropy_ | 36 J/mol (basis unstated)/K ± 1.3 | 298.15 | PdO; _alloy: Pd 0.5_ | model | [1] Laurin 2022; _cites Warner 1967_ [doi](https://doi.org/10.1149/1.2426509) | Table 2, p. 6, row 3 |  |
-| Entropy; _printed: Standard entropy_ | 39.83 J/mol (basis unstated)/K ± 1.1 | 298.15 | PdO; _alloy: Pd 0.5_ | model | [1] Laurin 2022; _cites Pawlas-Foryst 2008_ | Table 2, p. 6, row 6 |  |
+| Entropy; _printed: Standard entropy_ | 33.74 J/mol (basis unstated)/K ± 0.3 | 298.15 | PdO; _alloy: Pd 0.5_ | model | [1] Laurin 2022; _cites Nell 1996_ [doi](https://doi.org/10.1016/0016-7037%2896%2900115-9) | Table 2, p. 6, row 1; `ORC-33WEXNA2HD.5618bb` |  |
+| Entropy; _printed: Standard entropy_ | 36.8 J/mol (basis unstated)/K ± 2.1 | 298.15 | PdO; _alloy: Pd 0.5_ | model | [1] Laurin 2022; _cites Kleykamp 1970_ [doi](https://doi.org/10.1524/zpch.1970.71.1_3.142) | Table 2, p. 6, row 2; `ORC-AP6GCWGHDW.04a7af` |  |
+| Entropy; _printed: Standard entropy_ | 33.5 J/mol (basis unstated)/K ± 1.5 | 298.15 | PdO; _alloy: Pd 0.5_ | model | [1] Laurin 2022; _cites De 1980_ | Table 2, p. 6, row 4; `ORC-B2LCHDV7ZH.679726` |  |
+| Entropy; _printed: Standard entropy_ | 36.5 J/mol (basis unstated)/K ± 4 | 298.15 | PdO; _alloy: Pd 0.5_ | model | [1] Laurin 2022; _cites Khodakovskii 2011_ [doi](https://doi.org/10.1134/s0016702911050053) | Table 2, p. 6, row 5; `ORC-JW4QRZHUHN.accef5` |  |
+| Entropy; _printed: Standard entropy_ | 37.25 J/mol (basis unstated)/K ± 0.4 | 298.15 | PdO; _alloy: Pd 0.5_ | model | [1] Laurin 2022; _cites Jacob 1999_ [doi](https://doi.org/10.1361/105497199770340545) | Table 2, p. 6, row 7; `ORC-PO65FZTTLK.9a4efb` |  |
+| Entropy; _printed: Standard entropy_ | 36 J/mol (basis unstated)/K ± 1.3 | 298.15 | PdO; _alloy: Pd 0.5_ | model | [1] Laurin 2022; _cites Warner 1967_ [doi](https://doi.org/10.1149/1.2426509) | Table 2, p. 6, row 3; `ORC-WSZELL5JNY.c032d2` |  |
+| Entropy; _printed: Standard entropy_ | 39.83 J/mol (basis unstated)/K ± 1.1 | 298.15 | PdO; _alloy: Pd 0.5_ | model | [1] Laurin 2022; _cites Pawlas-Foryst 2008_ | Table 2, p. 6, row 6; `ORC-XRH47O2TBJ.aa945b` |  |
 
 ## Sources
 
@@ -90,4 +90,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

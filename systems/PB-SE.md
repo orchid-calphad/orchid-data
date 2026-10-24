@@ -49,12 +49,12 @@ Table: Invariant reactions reported in the literature for the Pb–Se system (6)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 954 | liq#1 -> liq#2 + PbSe | PbSe: Se 0.5; liq#1: Se 0.76 | experimental | [1] Liu 2012; _cites Nozato 1955_ | Table VII, p. 8, row 3 |  |
-| 951.3 | liq#1 -> liq#2 + PbSe | PbSe: Pb 0.5, Se 0.5; liq#1: Se 0.761 | experimental | [1] Liu 2012; _cites Seidman 1966_ | Table VII, p. 8, row 4 |  |
-| 947.2 | liq#1 -> liq#2 + PbSe | PbSe: Se 0.5; liq#1: Se 0.746 | model | [1] Liu 2012 | Table VII, p. 8, row 5 |  |
-| 600.3 | liq -> (Pb) + PbSe | L: Se 0; (Pb): Se 0; PbSe: Se 0.5 | experimental | [1] Liu 2012; _cites Greenwood 1939_ | Table VII, p. 8, row 1 |  |
-| 600 | liq -> (Pb) + PbSe | L: Se 0; (Pb): Se 0; PbSe: Se 0.5 | model | [1] Liu 2012 | Table VII, p. 8, row 2 |  |
-| 493.9 | liq -> (Se) + PbSe | L: Se 1; (Se): Se 1; PbSe: Se 0.5 | model | [1] Liu 2012 | Table VII, p. 8, row 6 |  |
+| 954 | liq#1 -> liq#2 + PbSe | PbSe: Se 0.5; liq#1: Se 0.76 | experimental | [1] Liu 2012; _cites Nozato 1955_ | Table VII, p. 8, row 3; `ORC-IDWHFMCTFN` |  |
+| 951.3 | liq#1 -> liq#2 + PbSe | PbSe: Pb 0.5, Se 0.5; liq#1: Se 0.761 | experimental | [1] Liu 2012; _cites Seidman 1966_ | Table VII, p. 8, row 4; `ORC-J4LUYHIU7A` |  |
+| 947.2 | liq#1 -> liq#2 + PbSe | PbSe: Se 0.5; liq#1: Se 0.746 | model | [1] Liu 2012 | Table VII, p. 8, row 5; `ORC-ZCA2U4WZRU` |  |
+| 600.3 | liq -> (Pb) + PbSe | L: Se 0; (Pb): Se 0; PbSe: Se 0.5 | experimental | [1] Liu 2012; _cites Greenwood 1939_ | Table VII, p. 8, row 1; `ORC-ITZEYK6PXW` |  |
+| 600 | liq -> (Pb) + PbSe | L: Se 0; (Pb): Se 0; PbSe: Se 0.5 | model | [1] Liu 2012 | Table VII, p. 8, row 2; `ORC-LFK5V5C4H5` |  |
+| 493.9 | liq -> (Se) + PbSe | L: Se 1; (Se): Se 1; PbSe: Se 0.5 | model | [1] Liu 2012 | Table VII, p. 8, row 6; `ORC-M2EI4VODMS` |  |
 
 ## Formation enthalpies
 
@@ -64,13 +64,13 @@ Table: Enthalpies of formation, Pb–Se system (7)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| PbSe |  | -105 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Liu 2012; _cites ref. 36_ | Table IX, p. 8, row 2 |  |
-| PbSe |  | -100.3 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Liu 2012; _cites Shamsuddin 1973_ | Table IX, p. 8, row 6 |  |
-| PbSe |  | -99.78 kJ/mol (basis unstated) |  | model |  |  | [1] Liu 2012 | Table IX, p. 8, row 7 |  |
-| PbSe |  | -99.5 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Liu 2012; _cites ref. 38_ | Table IX, p. 8, row 4 |  |
-| PbSe |  | -99.26 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Liu 2012; _cites Deore 2008_ [doi](https://doi.org/10.2138/am.2008.2752) | Table IX, p. 8, row 1 |  |
-| PbSe |  | -96.3 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Liu 2012; _cites ref. 37_ | Table IX, p. 8, row 3 |  |
-| PbSe |  | -95.1 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Liu 2012; _cites ref. 39_ | Table IX, p. 8, row 5 |  |
+| PbSe |  | -105 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Liu 2012; _cites ref. 36_ | Table IX, p. 8, row 2; `ORC-DI7XAAZ6RK` |  |
+| PbSe |  | -100.3 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Liu 2012; _cites Shamsuddin 1973_ | Table IX, p. 8, row 6; `ORC-FWDRO2OGO3` |  |
+| PbSe |  | -99.78 kJ/mol (basis unstated) |  | model |  |  | [1] Liu 2012 | Table IX, p. 8, row 7; `ORC-6ZCDGVNQPI` |  |
+| PbSe |  | -99.5 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Liu 2012; _cites ref. 38_ | Table IX, p. 8, row 4; `ORC-S2YSJHFXT4` |  |
+| PbSe |  | -99.26 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Liu 2012; _cites Deore 2008_ [doi](https://doi.org/10.2138/am.2008.2752) | Table IX, p. 8, row 1; `ORC-R3YQOY2GEH` |  |
+| PbSe |  | -96.3 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Liu 2012; _cites ref. 37_ | Table IX, p. 8, row 3; `ORC-6UKZRZ5CQG` |  |
+| PbSe |  | -95.1 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Liu 2012; _cites ref. 39_ | Table IX, p. 8, row 5; `ORC-QXMDGYG3G6` |  |
 
 ## Other properties
 
@@ -80,11 +80,11 @@ Table: Phase transition, Pb–Se system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1349 K | 1349 | congruent transformation | experimental | [1] Liu 2012; _cites Nozato 1955_ | Table VIII, p. 8, row 2 |  |
-| Phase transition | 1352 K | 1352 | congruent transformation | model | [1] Liu 2012 | Table VIII, p. 8, row 5 |  |
-| Phase transition | 1353.7 K | 1353.7 | congruent transformation | experimental | [1] Liu 2012; _cites Miller 1966_ | Table VIII, p. 8, row 4 |  |
-| Phase transition | 1353.7 K | 1353.7 | congruent transformation | experimental | [1] Liu 2012; _cites Seidman 1961_ | Table VIII, p. 8, row 3 |  |
-| Phase transition | 1361 K | 1361 | congruent transformation | experimental | [1] Liu 2012; _cites Friedrich 1908_ | Table VIII, p. 8, row 1 |  |
+| Phase transition | 1349 K | 1349 | congruent transformation | experimental | [1] Liu 2012; _cites Nozato 1955_ | Table VIII, p. 8, row 2; `ORC-G3OI52ZBRP` |  |
+| Phase transition | 1352 K | 1352 | congruent transformation | model | [1] Liu 2012 | Table VIII, p. 8, row 5; `ORC-XQ7HNPIZ5A` |  |
+| Phase transition | 1353.7 K | 1353.7 | congruent transformation | experimental | [1] Liu 2012; _cites Miller 1966_ | Table VIII, p. 8, row 4; `ORC-S2VUGEMTFY` |  |
+| Phase transition | 1353.7 K | 1353.7 | congruent transformation | experimental | [1] Liu 2012; _cites Seidman 1961_ | Table VIII, p. 8, row 3; `ORC-UX36OMPVCQ` |  |
+| Phase transition | 1361 K | 1361 | congruent transformation | experimental | [1] Liu 2012; _cites Friedrich 1908_ | Table VIII, p. 8, row 1; `ORC-7MBAOH5X3Q` |  |
 
 ## Sources
 
@@ -149,4 +149,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

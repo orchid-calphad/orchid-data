@@ -90,45 +90,45 @@ Table: Invariant reactions reported in the literature for the Sm–Zn system (39
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1173.15 | eutectic: L -> Sm13Zn58 + Sm2Zn17 | L: Zn 0.855; Sm13Zn58: Zn 0.817; Sm2Zn17: Zn 0.895 | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 5, p. 4, row 7 |  |
-| 1173 | eutectic: L -> Sm13Zn58 + Sm2Zn17 | L: Zn 0.855; Sm13Zn58: Zn 0.816901; Sm2Zn17: Zn 0.894737 | experimental | [2] Jia 2009; _cites Chiotti 1967_ | Table 2, p. 3, row 19 |  |
-| 1171 | eutectic: L -> Sm13Zn58 + Sm2Zn17 | L: Zn 0.842; Sm13Zn58: Zn 0.816901; Sm2Zn17: Zn 0.894737 | model | [2] Jia 2009 | Table 2, p. 3, row 20 |  |
-| 1169.15 | eutectic: L -> Sm13Zn58 + Sm2Zn17 | L: Zn 0.843; Sm13Zn58: Zn 0.817; Sm2Zn17: Zn 0.895 | model | [1] Liu 2009 | Table 5, p. 4, row 8 |  |
-| 1167.15 | eutectic: L -> SmZn + SmZn2 | L: Zn 0.592; SmZn: Zn 0.5; SmZn2: Zn 0.667 | model | [1] Liu 2009 | Table 5, p. 4, row 4 |  |
-| 1163.15 | eutectoid: Sm3Zn22 -> Sm13Zn58 + Sm2Zn17 | Sm3Zn22: Zn 0.88; Sm13Zn58: Zn 0.817; Sm2Zn17: Zn 0.895 | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 5, p. 4, row 15 |  |
-| 1163.15 | eutectic: L -> SmZn + SmZn2 | L: Zn 0.564; SmZn: Zn 0.5; SmZn2: Zn 0.667 | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 5, p. 4, row 3 |  |
-| 1163 | peritectoid: Sm13Zn58 + Sm2Zn17 -> Sm3Zn22 | Sm13Zn58: Zn 0.816901; Sm2Zn17: Zn 0.894737; Sm3Zn22: Zn 0.88 | model | [2] Jia 2009 | Table 2, p. 3, row 24 |  |
-| 1163 | peritectoid: Sm13Zn58 + Sm2Zn17 -> Sm3Zn22 | Sm13Zn58: Zn 0.816901; Sm2Zn17: Zn 0.894737; Sm3Zn22: Zn 0.88 | experimental | [2] Jia 2009; _cites Chiotti 1967_ | Table 2, p. 3, row 23 |  |
-| 1163 | eutectic: L -> SmZn + SmZn2 | L: Zn 0.564; SmZn: Zn 0.5; SmZn2: Zn 0.666667 | experimental | [2] Jia 2009; _cites Chiotti 1967_ | Table 2, p. 3, row 7 |  |
-| 1162.15 | eutectoid: Sm3Zn22 -> Sm13Zn58 + Sm2Zn17 | Sm3Zn22: Zn 0.88; Sm13Zn58: Zn 0.817; Sm2Zn17: Zn 0.895 | model | [1] Liu 2009 | Table 5, p. 4, row 16 |  |
-| 1161 | eutectic: L -> SmZn + SmZn2 | L: Zn 0.581; SmZn: Zn 0.5; SmZn2: Zn 0.666667 | model | [2] Jia 2009 | Table 2, p. 3, row 8 |  |
-| 1143.15 | peritectic: L + Sm13Zn58 -> Sm3Zn11 | Sm13Zn58: Zn 0.817; Sm3Zn11: Zn 0.786 | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 5, p. 4, row 11 |  |
-| 1143.15 | peritectic: L + Sm13Zn58 -> Sm3Zn11 | L: Zn 0.766; Sm13Zn58: Zn 0.817; Sm3Zn11: Zn 0.786 | model | [1] Liu 2009 | Table 5, p. 4, row 12 |  |
-| 1143 | peritectic: L + Sm13Zn58 -> Sm3Zn11 | Sm13Zn58: Zn 0.816901; Sm3Zn11: Zn 0.785714 | experimental | [2] Jia 2009; _cites Chiotti 1967_ | Table 2, p. 3, row 15 |  |
-| 1142 | peritectic: L + Sm13Zn58 -> Sm3Zn11 | L: Zn 0.768; Sm13Zn58: Zn 0.816901; Sm3Zn11: Zn 0.785714 | model | [2] Jia 2009 | Table 2, p. 3, row 16 |  |
-| 1133.15 | peritectic: L -> SmZn2 + SmZn3 | L: Zn 0.751; SmZn2: Zn 0.667; SmZn3: Zn 0.75 | model | [1] Liu 2009 | Table 5, p. 4, row 10 |  |
-| 1133.15 | eutectic: L + Sm3Zn11 -> SmZn3 | L: Zn 0.753; Sm3Zn11: Zn 0.786; SmZn3: Zn 0.75 | model | [1] Liu 2009 | Table 5, p. 4, row 6 |  |
-| 1130 | eutectic: L -> SmZn3 + Sm3Zn11 | L: Zn 0.753; SmZn3: Zn 0.75; Sm3Zn11: Zn 0.785714 | model | [2] Jia 2009 | Table 2, p. 3, row 14 |  |
-| 1130 | peritectic: L + SmZn2 -> SmZn3 | L: Zn 0.753; SmZn2: Zn 0.666667; SmZn3: Zn 0.75 | model | [2] Jia 2009 | Table 2, p. 3, row 12 |  |
-| 1128.15 | peritectic: L -> SmZn2 + SmZn3 | SmZn2: Zn 0.667; SmZn3: Zn 0.75 | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 5, p. 4, row 9 |  |
-| 1128 | peritectic: L + SmZn2 -> SmZn3 | SmZn2: Zn 0.666667; SmZn3: Zn 0.75 | experimental | [2] Jia 2009; _cites Chiotti 1967_ | Table 2, p. 3, row 11 |  |
-| 1123.15 | eutectic: L + Sm3Zn11 -> SmZn3 | L: Zn 0.76; Sm3Zn11: Zn 0.786; SmZn3: Zn 0.75 | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 5, p. 4, row 5 |  |
-| 1123 | eutectic: L -> SmZn3 + Sm3Zn11 | L: Zn 0.76; SmZn3: Zn 0.75; Sm3Zn11: Zn 0.785714 | experimental | [2] Jia 2009; _cites Chiotti 1967_ | Table 2, p. 3, row 13 |  |
-| 1033.15 | peritectic: L + Sm2Zn17 -> SmZn11 | Sm2Zn17: Zn 0.895; SmZn11: Zn 0.917 | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 5, p. 4, row 13 |  |
-| 1033.15 | peritectic: L + Sm2Zn17 -> SmZn11 | L: Zn 0.977; Sm2Zn17: Zn 0.895; SmZn11: Zn 0.917 | model | [1] Liu 2009 | Table 5, p. 4, row 14 |  |
-| 1033 | peritectic: L + Sm2Zn17 -> SmZn11 | Sm2Zn17: Zn 0.894737; SmZn11: Zn 0.916667 | experimental | [2] Jia 2009; _cites Chiotti 1967_ | Table 2, p. 3, row 25 |  |
-| 1033 | peritectic: L + Sm2Zn17 -> SmZn11 | L: Zn 0.979; Sm2Zn17: Zn 0.894737; SmZn11: Zn 0.916667 | model | [2] Jia 2009 | Table 2, p. 3, row 26 |  |
-| 956.15 | eutectic: L -> bcc_A2 + SmZn | L: Zn 0.226; bcc_A2: Zn 0.093; SmZn: Zn 0.5 | model | [1] Liu 2009 | Table 5, p. 4, row 2 |  |
-| 953.15 | eutectic: L -> bcc_A2 + SmZn | L: Zn 0.239; SmZn: Zn 0.5 | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 5, p. 4, row 1 |  |
-| 953 | eutectic: L -> SmZn + Bcc | L: Zn 0.24; SmZn: Zn 0.5 | model | [2] Jia 2009 | Table 2, p. 3, row 2 |  |
-| 953 | eutectic: L -> SmZn + Bcc | L: Zn 0.239; SmZn: Zn 0.5 | experimental | [2] Jia 2009; _cites Chiotti 1967_ | Table 2, p. 3, row 1 |  |
-| 943.15 | eutectoid: hcp + SmZn -> bcc_A2 | SmZn: Zn 0.5 | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 5, p. 4, row 17 |  |
-| 943 | eutectoid: Bcc -> Hcp(Sm) + SmZn | SmZn: Zn 0.5 | experimental | [2] Jia 2009; _cites Chiotti 1967_ | Table 2, p. 3, row 3 |  |
-| 943 | eutectoid: Bcc -> Hcp(Sm) + SmZn | Bcc: Zn 0.0667; SmZn: Zn 0.5 | model | [2] Jia 2009 | Table 2, p. 3, row 4 |  |
-| 935.15 | eutectoid: hcp + SmZn -> bcc_A2 | hcp: Zn 0; SmZn: Zn 0.5; bcc_A2: Zn 0.086 | model | [1] Liu 2009 | Table 5, p. 4, row 18 |  |
-| 693 | eutectic: L -> SmZn11 + Hcp(Zn) | SmZn11: Zn 0.916667 | experimental | [2] Jia 2009; _cites Chiotti 1967_ | Table 2, p. 3, row 29 |  |
-| 693 | eutectic: L -> SmZn11 + Hcp(Zn) | L: Zn 0.0099999; SmZn11: Zn 0.916667 | model | [2] Jia 2009 | Table 2, p. 3, row 30 |  |
-| 615 | eutectoid: Hcp -> Rhom + SmZn | Hcp: Zn 0.005; Rhom: Zn 0; SmZn: Zn 0.5 | model | [2] Jia 2009 | Table 2, p. 3, row 28 |  |
+| 1173.15 | eutectic: L -> Sm13Zn58 + Sm2Zn17 | L: Zn 0.855; Sm13Zn58: Zn 0.817; Sm2Zn17: Zn 0.895 | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 5, p. 4, row 7; `ORC-S3GFBVTHZD` |  |
+| 1173 | eutectic: L -> Sm13Zn58 + Sm2Zn17 | L: Zn 0.855; Sm13Zn58: Zn 0.816901; Sm2Zn17: Zn 0.894737 | experimental | [2] Jia 2009; _cites Chiotti 1967_ | Table 2, p. 3, row 19; `ORC-4J7OIQRCB4` |  |
+| 1171 | eutectic: L -> Sm13Zn58 + Sm2Zn17 | L: Zn 0.842; Sm13Zn58: Zn 0.816901; Sm2Zn17: Zn 0.894737 | model | [2] Jia 2009 | Table 2, p. 3, row 20; `ORC-I6CLYLM5Q7` |  |
+| 1169.15 | eutectic: L -> Sm13Zn58 + Sm2Zn17 | L: Zn 0.843; Sm13Zn58: Zn 0.817; Sm2Zn17: Zn 0.895 | model | [1] Liu 2009 | Table 5, p. 4, row 8; `ORC-DHVUH47CJH` |  |
+| 1167.15 | eutectic: L -> SmZn + SmZn2 | L: Zn 0.592; SmZn: Zn 0.5; SmZn2: Zn 0.667 | model | [1] Liu 2009 | Table 5, p. 4, row 4; `ORC-XETAVV6AUN` |  |
+| 1163.15 | eutectoid: Sm3Zn22 -> Sm13Zn58 + Sm2Zn17 | Sm3Zn22: Zn 0.88; Sm13Zn58: Zn 0.817; Sm2Zn17: Zn 0.895 | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 5, p. 4, row 15; `ORC-AT3N3FAO3F.e1908d` |  |
+| 1163.15 | eutectic: L -> SmZn + SmZn2 | L: Zn 0.564; SmZn: Zn 0.5; SmZn2: Zn 0.667 | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 5, p. 4, row 3; `ORC-AT3N3FAO3F.fd8435` |  |
+| 1163 | peritectoid: Sm13Zn58 + Sm2Zn17 -> Sm3Zn22 | Sm13Zn58: Zn 0.816901; Sm2Zn17: Zn 0.894737; Sm3Zn22: Zn 0.88 | model | [2] Jia 2009 | Table 2, p. 3, row 24; `ORC-DMWQJETJUD` |  |
+| 1163 | peritectoid: Sm13Zn58 + Sm2Zn17 -> Sm3Zn22 | Sm13Zn58: Zn 0.816901; Sm2Zn17: Zn 0.894737; Sm3Zn22: Zn 0.88 | experimental | [2] Jia 2009; _cites Chiotti 1967_ | Table 2, p. 3, row 23; `ORC-HTAA74NPYX` |  |
+| 1163 | eutectic: L -> SmZn + SmZn2 | L: Zn 0.564; SmZn: Zn 0.5; SmZn2: Zn 0.666667 | experimental | [2] Jia 2009; _cites Chiotti 1967_ | Table 2, p. 3, row 7; `ORC-UXUXONUCFQ` |  |
+| 1162.15 | eutectoid: Sm3Zn22 -> Sm13Zn58 + Sm2Zn17 | Sm3Zn22: Zn 0.88; Sm13Zn58: Zn 0.817; Sm2Zn17: Zn 0.895 | model | [1] Liu 2009 | Table 5, p. 4, row 16; `ORC-J6F4Z5ALBT` |  |
+| 1161 | eutectic: L -> SmZn + SmZn2 | L: Zn 0.581; SmZn: Zn 0.5; SmZn2: Zn 0.666667 | model | [2] Jia 2009 | Table 2, p. 3, row 8; `ORC-YXMLFEFZXN` |  |
+| 1143.15 | peritectic: L + Sm13Zn58 -> Sm3Zn11 | Sm13Zn58: Zn 0.817; Sm3Zn11: Zn 0.786 | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 5, p. 4, row 11; `ORC-7XZRCA7JRS` |  |
+| 1143.15 | peritectic: L + Sm13Zn58 -> Sm3Zn11 | L: Zn 0.766; Sm13Zn58: Zn 0.817; Sm3Zn11: Zn 0.786 | model | [1] Liu 2009 | Table 5, p. 4, row 12; `ORC-LMHBKMZ2AG` |  |
+| 1143 | peritectic: L + Sm13Zn58 -> Sm3Zn11 | Sm13Zn58: Zn 0.816901; Sm3Zn11: Zn 0.785714 | experimental | [2] Jia 2009; _cites Chiotti 1967_ | Table 2, p. 3, row 15; `ORC-MMB4K44ZB3` |  |
+| 1142 | peritectic: L + Sm13Zn58 -> Sm3Zn11 | L: Zn 0.768; Sm13Zn58: Zn 0.816901; Sm3Zn11: Zn 0.785714 | model | [2] Jia 2009 | Table 2, p. 3, row 16; `ORC-UKHWXO23RT` |  |
+| 1133.15 | peritectic: L -> SmZn2 + SmZn3 | L: Zn 0.751; SmZn2: Zn 0.667; SmZn3: Zn 0.75 | model | [1] Liu 2009 | Table 5, p. 4, row 10; `ORC-YHQXH7GBQX.809e46` |  |
+| 1133.15 | eutectic: L + Sm3Zn11 -> SmZn3 | L: Zn 0.753; Sm3Zn11: Zn 0.786; SmZn3: Zn 0.75 | model | [1] Liu 2009 | Table 5, p. 4, row 6; `ORC-YHQXH7GBQX.f9d5a8` |  |
+| 1130 | eutectic: L -> SmZn3 + Sm3Zn11 | L: Zn 0.753; SmZn3: Zn 0.75; Sm3Zn11: Zn 0.785714 | model | [2] Jia 2009 | Table 2, p. 3, row 14; `ORC-63HDOXTAKL` |  |
+| 1130 | peritectic: L + SmZn2 -> SmZn3 | L: Zn 0.753; SmZn2: Zn 0.666667; SmZn3: Zn 0.75 | model | [2] Jia 2009 | Table 2, p. 3, row 12; `ORC-RDVXYPR6JC` |  |
+| 1128.15 | peritectic: L -> SmZn2 + SmZn3 | SmZn2: Zn 0.667; SmZn3: Zn 0.75 | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 5, p. 4, row 9; `ORC-F4NPSSH27Y` |  |
+| 1128 | peritectic: L + SmZn2 -> SmZn3 | SmZn2: Zn 0.666667; SmZn3: Zn 0.75 | experimental | [2] Jia 2009; _cites Chiotti 1967_ | Table 2, p. 3, row 11; `ORC-UTK4S6MMSG` |  |
+| 1123.15 | eutectic: L + Sm3Zn11 -> SmZn3 | L: Zn 0.76; Sm3Zn11: Zn 0.786; SmZn3: Zn 0.75 | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 5, p. 4, row 5; `ORC-L7IW6FFBQ7` |  |
+| 1123 | eutectic: L -> SmZn3 + Sm3Zn11 | L: Zn 0.76; SmZn3: Zn 0.75; Sm3Zn11: Zn 0.785714 | experimental | [2] Jia 2009; _cites Chiotti 1967_ | Table 2, p. 3, row 13; `ORC-XWBSVP5EXG` |  |
+| 1033.15 | peritectic: L + Sm2Zn17 -> SmZn11 | Sm2Zn17: Zn 0.895; SmZn11: Zn 0.917 | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 5, p. 4, row 13; `ORC-TX435GMKLV` |  |
+| 1033.15 | peritectic: L + Sm2Zn17 -> SmZn11 | L: Zn 0.977; Sm2Zn17: Zn 0.895; SmZn11: Zn 0.917 | model | [1] Liu 2009 | Table 5, p. 4, row 14; `ORC-YMAIC7F4FK` |  |
+| 1033 | peritectic: L + Sm2Zn17 -> SmZn11 | Sm2Zn17: Zn 0.894737; SmZn11: Zn 0.916667 | experimental | [2] Jia 2009; _cites Chiotti 1967_ | Table 2, p. 3, row 25; `ORC-2H664AFPYU` |  |
+| 1033 | peritectic: L + Sm2Zn17 -> SmZn11 | L: Zn 0.979; Sm2Zn17: Zn 0.894737; SmZn11: Zn 0.916667 | model | [2] Jia 2009 | Table 2, p. 3, row 26; `ORC-VQJ77AKYAE` |  |
+| 956.15 | eutectic: L -> bcc_A2 + SmZn | L: Zn 0.226; bcc_A2: Zn 0.093; SmZn: Zn 0.5 | model | [1] Liu 2009 | Table 5, p. 4, row 2; `ORC-ZA36VL6RKQ` |  |
+| 953.15 | eutectic: L -> bcc_A2 + SmZn | L: Zn 0.239; SmZn: Zn 0.5 | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 5, p. 4, row 1; `ORC-TYIKBOYTX5` |  |
+| 953 | eutectic: L -> SmZn + Bcc | L: Zn 0.24; SmZn: Zn 0.5 | model | [2] Jia 2009 | Table 2, p. 3, row 2; `ORC-5RWZLEZD6E` |  |
+| 953 | eutectic: L -> SmZn + Bcc | L: Zn 0.239; SmZn: Zn 0.5 | experimental | [2] Jia 2009; _cites Chiotti 1967_ | Table 2, p. 3, row 1; `ORC-PBFAXWNAIZ` |  |
+| 943.15 | eutectoid: hcp + SmZn -> bcc_A2 | SmZn: Zn 0.5 | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 5, p. 4, row 17; `ORC-JP4IU6M2IT` |  |
+| 943 | eutectoid: Bcc -> Hcp(Sm) + SmZn | SmZn: Zn 0.5 | experimental | [2] Jia 2009; _cites Chiotti 1967_ | Table 2, p. 3, row 3; `ORC-4MTWVXHER2` |  |
+| 943 | eutectoid: Bcc -> Hcp(Sm) + SmZn | Bcc: Zn 0.0667; SmZn: Zn 0.5 | model | [2] Jia 2009 | Table 2, p. 3, row 4; `ORC-CAC6RRRPFK` |  |
+| 935.15 | eutectoid: hcp + SmZn -> bcc_A2 | hcp: Zn 0; SmZn: Zn 0.5; bcc_A2: Zn 0.086 | model | [1] Liu 2009 | Table 5, p. 4, row 18; `ORC-GNDCIRH5DY` |  |
+| 693 | eutectic: L -> SmZn11 + Hcp(Zn) | SmZn11: Zn 0.916667 | experimental | [2] Jia 2009; _cites Chiotti 1967_ | Table 2, p. 3, row 29; `ORC-JZ2RIEXLNL` |  |
+| 693 | eutectic: L -> SmZn11 + Hcp(Zn) | L: Zn 0.0099999; SmZn11: Zn 0.916667 | model | [2] Jia 2009 | Table 2, p. 3, row 30; `ORC-ZWPVSME4Q7` |  |
+| 615 | eutectoid: Hcp -> Rhom + SmZn | Hcp: Zn 0.005; Rhom: Zn 0; SmZn: Zn 0.5 | model | [2] Jia 2009 | Table 2, p. 3, row 28; `ORC-F47GEAD5CN` |  |
 
 ## Other properties
 
@@ -138,22 +138,22 @@ Table: Phase transition, Sm–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1181 K | 1181 | congruent melting: L -> Sm13Zn58; _L: Zn 0.816901; Sm13Zn58: Zn 0.816901_ | experimental | [2] Jia 2009; _cites Chiotti 1967_ | Table 2, p. 3, row 17 |  |
-| Phase transition | 1181.15 K | 1181.15 | congruent melting: L -> Sm13Zn58; _L: Zn 0.816901; Sm13Zn58: Zn 0.816901_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 5, p. 4, row 23 |  |
-| Phase transition | 1181.15 K | 1181.15 | congruent melting: L -> Sm13Zn58; _L: Zn 0.816901; Sm13Zn58: Zn 0.816901_ | model | [1] Liu 2009 | Table 5, p. 4, row 24 |  |
-| Phase transition | 1184 K | 1184 | congruent melting: L -> Sm13Zn58; _L: Zn 0.816901; Sm13Zn58: Zn 0.816901_ | model | [2] Jia 2009 | Table 2, p. 3, row 18 |  |
-| Phase transition | 1213 K | 1213 | congruent melting: L -> Sm2Zn17; _L: Zn 0.894737; Sm2Zn17: Zn 0.894737_ | experimental | [2] Jia 2009; _cites Chiotti 1967_ | Table 2, p. 3, row 21 |  |
-| Phase transition | 1213.15 K | 1213.15 | congruent melting: L -> Sm2Zn17; _L: Zn 0.894737; Sm2Zn17: Zn 0.894737_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 5, p. 4, row 25 |  |
-| Phase transition | 1213.15 K | 1213.15 | congruent melting: L -> Sm2Zn17; _L: Zn 0.894737; Sm2Zn17: Zn 0.894737_ | model | [1] Liu 2009 | Table 5, p. 4, row 26 |  |
-| Phase transition | 1214.15 K | 1214.15 | congruent melting: L -> SmZn2; _L: Zn 0.666667; SmZn2: Zn 0.666667_ | model | [1] Liu 2009 | Table 5, p. 4, row 22 |  |
-| Phase transition | 1215 K | 1215 | congruent melting: L -> SmZn2; _L: Zn 0.666667; SmZn2: Zn 0.666667_ | experimental | [2] Jia 2009; _cites Chiotti 1967_ | Table 2, p. 3, row 9 |  |
-| Phase transition | 1215.15 K | 1215.15 | congruent melting: L -> SmZn2; _L: Zn 0.666667; SmZn2: Zn 0.666667_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 5, p. 4, row 21 |  |
-| Phase transition | 1220 K | 1220 | congruent melting: L -> Sm2Zn17; _L: Zn 0.894737; Sm2Zn17: Zn 0.894737_ | model | [2] Jia 2009 | Table 2, p. 3, row 22 |  |
-| Phase transition | 1225 K | 1225 | congruent melting: L -> SmZn2; _L: Zn 0.666667; SmZn2: Zn 0.666667_ | model | [2] Jia 2009 | Table 2, p. 3, row 10 |  |
-| Phase transition | 1233 K | 1233 | congruent melting: L -> SmZn; _L: Zn 0.5; SmZn: Zn 0.5_ | experimental | [2] Jia 2009; _cites Chiotti 1967_ | Table 2, p. 3, row 5 |  |
-| Phase transition | 1233 K | 1233 | congruent melting: L -> SmZn; _L: Zn 0.5; SmZn: Zn 0.5_ | model | [2] Jia 2009 | Table 2, p. 3, row 6 |  |
-| Phase transition | 1233.15 K | 1233.15 | congruent melting: L -> SmZn; _L: Zn 0.5; SmZn: Zn 0.5_ | model | [1] Liu 2009 | Table 5, p. 4, row 20 |  |
-| Phase transition | 1233.15 K | 1233.15 | congruent melting: L -> SmZn; _L: Zn 0.5; SmZn: Zn 0.5_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 5, p. 4, row 19 |  |
+| Phase transition | 1181 K | 1181 | congruent melting: L -> Sm13Zn58; _L: Zn 0.816901; Sm13Zn58: Zn 0.816901_ | experimental | [2] Jia 2009; _cites Chiotti 1967_ | Table 2, p. 3, row 17; `ORC-YLRCTIXZJM` |  |
+| Phase transition | 1181.15 K | 1181.15 | congruent melting: L -> Sm13Zn58; _L: Zn 0.816901; Sm13Zn58: Zn 0.816901_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 5, p. 4, row 23; `ORC-6MJS5EJW7I` |  |
+| Phase transition | 1181.15 K | 1181.15 | congruent melting: L -> Sm13Zn58; _L: Zn 0.816901; Sm13Zn58: Zn 0.816901_ | model | [1] Liu 2009 | Table 5, p. 4, row 24; `ORC-HNIELD5SHB` |  |
+| Phase transition | 1184 K | 1184 | congruent melting: L -> Sm13Zn58; _L: Zn 0.816901; Sm13Zn58: Zn 0.816901_ | model | [2] Jia 2009 | Table 2, p. 3, row 18; `ORC-KDLWHU3CWS` |  |
+| Phase transition | 1213 K | 1213 | congruent melting: L -> Sm2Zn17; _L: Zn 0.894737; Sm2Zn17: Zn 0.894737_ | experimental | [2] Jia 2009; _cites Chiotti 1967_ | Table 2, p. 3, row 21; `ORC-TCHUC5XOFP` |  |
+| Phase transition | 1213.15 K | 1213.15 | congruent melting: L -> Sm2Zn17; _L: Zn 0.894737; Sm2Zn17: Zn 0.894737_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 5, p. 4, row 25; `ORC-SONJRKQ2GO` |  |
+| Phase transition | 1213.15 K | 1213.15 | congruent melting: L -> Sm2Zn17; _L: Zn 0.894737; Sm2Zn17: Zn 0.894737_ | model | [1] Liu 2009 | Table 5, p. 4, row 26; `ORC-ZTNBFMG5HB` |  |
+| Phase transition | 1214.15 K | 1214.15 | congruent melting: L -> SmZn2; _L: Zn 0.666667; SmZn2: Zn 0.666667_ | model | [1] Liu 2009 | Table 5, p. 4, row 22; `ORC-L3MRMPAM2P` |  |
+| Phase transition | 1215 K | 1215 | congruent melting: L -> SmZn2; _L: Zn 0.666667; SmZn2: Zn 0.666667_ | experimental | [2] Jia 2009; _cites Chiotti 1967_ | Table 2, p. 3, row 9; `ORC-GVYRZYSADS` |  |
+| Phase transition | 1215.15 K | 1215.15 | congruent melting: L -> SmZn2; _L: Zn 0.666667; SmZn2: Zn 0.666667_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 5, p. 4, row 21; `ORC-CLJY5D42J4` |  |
+| Phase transition | 1220 K | 1220 | congruent melting: L -> Sm2Zn17; _L: Zn 0.894737; Sm2Zn17: Zn 0.894737_ | model | [2] Jia 2009 | Table 2, p. 3, row 22; `ORC-MTYIHXLGN6` |  |
+| Phase transition | 1225 K | 1225 | congruent melting: L -> SmZn2; _L: Zn 0.666667; SmZn2: Zn 0.666667_ | model | [2] Jia 2009 | Table 2, p. 3, row 10; `ORC-BBBK7ZFMYX` |  |
+| Phase transition | 1233 K | 1233 | congruent melting: L -> SmZn; _L: Zn 0.5; SmZn: Zn 0.5_ | experimental | [2] Jia 2009; _cites Chiotti 1967_ | Table 2, p. 3, row 5; `ORC-2STKW4GIDP` |  |
+| Phase transition | 1233 K | 1233 | congruent melting: L -> SmZn; _L: Zn 0.5; SmZn: Zn 0.5_ | model | [2] Jia 2009 | Table 2, p. 3, row 6; `ORC-S7TWPNOTPQ` |  |
+| Phase transition | 1233.15 K | 1233.15 | congruent melting: L -> SmZn; _L: Zn 0.5; SmZn: Zn 0.5_ | model | [1] Liu 2009 | Table 5, p. 4, row 20; `ORC-C6DHK4HGS7` |  |
+| Phase transition | 1233.15 K | 1233.15 | congruent melting: L -> SmZn; _L: Zn 0.5; SmZn: Zn 0.5_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 5, p. 4, row 19; `ORC-KAHALSDKUY` |  |
 
 ### Formation (45)
 
@@ -161,51 +161,51 @@ Table: Formation, Sm–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -28.86 kJ/mol-atom | 773.15 | Sm13Zn58; _alloy: Zn 0.816901_ | model | [1] Liu 2009 | Table 6, p. 6, row 25 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -28.93 kJ/mol-atom | 773.15 | Sm13Zn58; _alloy: Zn 0.816901_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 26 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -22.52 kJ/mol-atom | 773.15 | Sm2Zn17; _alloy: Zn 0.894737_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 38 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -22.46 kJ/mol-atom | 773.15 | Sm2Zn17; _alloy: Zn 0.894737_ | model | [1] Liu 2009 | Table 6, p. 6, row 37 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -30.41 kJ/mol-atom | 773.15 | Sm3Zn11; _alloy: Zn 0.785714_ | model | [1] Liu 2009 | Table 6, p. 6, row 19 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -30.66 kJ/mol-atom | 773.15 | Sm3Zn11; _alloy: Zn 0.785714_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 20 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -23.68 kJ/mol-atom | 773.15 | Sm3Zn22; _alloy: Zn 0.88_ | model | [1] Liu 2009 | Table 6, p. 6, row 31 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -23.96 kJ/mol-atom | 773.15 | Sm3Zn22; _alloy: Zn 0.88_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 32 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -33.28 kJ/mol-atom | 773.15 | SmZn; _alloy: Zn 0.5_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 2 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -33.17 kJ/mol-atom | 773.15 | SmZn; _alloy: Zn 0.5_ | model | [1] Liu 2009 | Table 6, p. 6, row 1 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -19.06 kJ/mol-atom | 773.15 | SmZn11; _alloy: Zn 0.916667_ | model | [1] Liu 2009 | Table 6, p. 6, row 43 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -35.45 kJ/mol-atom | 773.15 | SmZn2; _alloy: Zn 0.666667_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 8 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -35.58 kJ/mol-atom | 773.15 | SmZn2; _alloy: Zn 0.666667_ | model | [1] Liu 2009 | Table 6, p. 6, row 7 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -31.99 kJ/mol-atom | 773.15 | SmZn3; _alloy: Zn 0.75_ | model | [1] Liu 2009 | Table 6, p. 6, row 13 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -32.14 kJ/mol-atom | 773.15 | SmZn3; _alloy: Zn 0.75_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 14 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -25.81 kJ/mol-atom | 973.15 | Sm13Zn58; _alloy: Zn 0.816901_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 28 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -25.89 kJ/mol-atom | 973.15 | Sm13Zn58; _alloy: Zn 0.816901_ | model | [1] Liu 2009 | Table 6, p. 6, row 27 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -19.17 kJ/mol-atom | 973.15 | Sm2Zn17; _alloy: Zn 0.894737_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 40 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -19.34 kJ/mol-atom | 973.15 | Sm2Zn17; _alloy: Zn 0.894737_ | model | [1] Liu 2009 | Table 6, p. 6, row 39 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -27.47 kJ/mol-atom | 973.15 | Sm3Zn11; _alloy: Zn 0.785714_ | model | [1] Liu 2009 | Table 6, p. 6, row 21 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -27.52 kJ/mol-atom | 973.15 | Sm3Zn11; _alloy: Zn 0.785714_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 22 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -20.68 kJ/mol-atom | 973.15 | Sm3Zn22; _alloy: Zn 0.88_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 34 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -20.58 kJ/mol-atom | 973.15 | Sm3Zn22; _alloy: Zn 0.88_ | model | [1] Liu 2009 | Table 6, p. 6, row 33 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -31.35 kJ/mol-atom | 973.15 | SmZn; _alloy: Zn 0.5_ | model | [1] Liu 2009 | Table 6, p. 6, row 3 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -31.2 kJ/mol-atom | 973.15 | SmZn; _alloy: Zn 0.5_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 4 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -15.66 kJ/mol-atom | 973.15 | SmZn11; _alloy: Zn 0.916667_ | model | [1] Liu 2009 | Table 6, p. 6, row 44 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -32.52 kJ/mol-atom | 973.15 | SmZn2; _alloy: Zn 0.666667_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 10 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -32.82 kJ/mol-atom | 973.15 | SmZn2; _alloy: Zn 0.666667_ | model | [1] Liu 2009 | Table 6, p. 6, row 9 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -29.1 kJ/mol-atom | 973.15 | SmZn3; _alloy: Zn 0.75_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 16 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -29.09 kJ/mol-atom | 973.15 | SmZn3; _alloy: Zn 0.75_ | model | [1] Liu 2009 | Table 6, p. 6, row 15 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -22.91 kJ/mol-atom | 1173.15 | Sm13Zn58; _alloy: Zn 0.816901_ | model | [1] Liu 2009 | Table 6, p. 6, row 29 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -22.23 kJ/mol-atom | 1173.15 | Sm13Zn58; _alloy: Zn 0.816901_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 30 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -16.21 kJ/mol-atom | 1173.15 | Sm2Zn17; _alloy: Zn 0.894737_ | model | [1] Liu 2009 | Table 6, p. 6, row 41 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -15.47 kJ/mol-atom | 1173.15 | Sm2Zn17; _alloy: Zn 0.894737_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 42 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -24.53 kJ/mol-atom | 1173.15 | Sm3Zn11; _alloy: Zn 0.785714_ | model | [1] Liu 2009 | Table 6, p. 6, row 23 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -24.12 kJ/mol-atom | 1173.15 | Sm3Zn11; _alloy: Zn 0.785714_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 24 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -17.48 kJ/mol-atom | 1173.15 | Sm3Zn22; _alloy: Zn 0.88_ | model | [1] Liu 2009 | Table 6, p. 6, row 35 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -17.05 kJ/mol-atom | 1173.15 | Sm3Zn22; _alloy: Zn 0.88_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 36 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -29.1 kJ/mol-atom | 1173.15 | SmZn; _alloy: Zn 0.5_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 6 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -29.53 kJ/mol-atom | 1173.15 | SmZn; _alloy: Zn 0.5_ | model | [1] Liu 2009 | Table 6, p. 6, row 5 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -12.26 kJ/mol-atom | 1173.15 | SmZn11; _alloy: Zn 0.916667_ | model | [1] Liu 2009 | Table 6, p. 6, row 45 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -29.31 kJ/mol-atom | 1173.15 | SmZn2; _alloy: Zn 0.666667_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 12 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -30.05 kJ/mol-atom | 1173.15 | SmZn2; _alloy: Zn 0.666667_ | model | [1] Liu 2009 | Table 6, p. 6, row 11 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -25.65 kJ/mol-atom | 1173.15 | SmZn3; _alloy: Zn 0.75_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 18 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -26.19 kJ/mol-atom | 1173.15 | SmZn3; _alloy: Zn 0.75_ | model | [1] Liu 2009 | Table 6, p. 6, row 17 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -28.86 kJ/mol-atom | 773.15 | Sm13Zn58; _alloy: Zn 0.816901_ | model | [1] Liu 2009 | Table 6, p. 6, row 25; `ORC-JXRHPLEM36` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -28.93 kJ/mol-atom | 773.15 | Sm13Zn58; _alloy: Zn 0.816901_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 26; `ORC-ZTYQWQQDBR` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -22.52 kJ/mol-atom | 773.15 | Sm2Zn17; _alloy: Zn 0.894737_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 38; `ORC-MIGPL255DV` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -22.46 kJ/mol-atom | 773.15 | Sm2Zn17; _alloy: Zn 0.894737_ | model | [1] Liu 2009 | Table 6, p. 6, row 37; `ORC-ZRALMGQUAP` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -30.41 kJ/mol-atom | 773.15 | Sm3Zn11; _alloy: Zn 0.785714_ | model | [1] Liu 2009 | Table 6, p. 6, row 19; `ORC-AM4FNWX3PH` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -30.66 kJ/mol-atom | 773.15 | Sm3Zn11; _alloy: Zn 0.785714_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 20; `ORC-SJLG4VVRQL` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -23.68 kJ/mol-atom | 773.15 | Sm3Zn22; _alloy: Zn 0.88_ | model | [1] Liu 2009 | Table 6, p. 6, row 31; `ORC-24ED3AIQG4` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -23.96 kJ/mol-atom | 773.15 | Sm3Zn22; _alloy: Zn 0.88_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 32; `ORC-RPTA4PZEF7` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -33.28 kJ/mol-atom | 773.15 | SmZn; _alloy: Zn 0.5_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 2; `ORC-CSB4QY535P` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -33.17 kJ/mol-atom | 773.15 | SmZn; _alloy: Zn 0.5_ | model | [1] Liu 2009 | Table 6, p. 6, row 1; `ORC-VLXA63HMM7` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -19.06 kJ/mol-atom | 773.15 | SmZn11; _alloy: Zn 0.916667_ | model | [1] Liu 2009 | Table 6, p. 6, row 43; `ORC-G7ECMLRT7C` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -35.45 kJ/mol-atom | 773.15 | SmZn2; _alloy: Zn 0.666667_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 8; `ORC-CCKH2ZC3OC` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -35.58 kJ/mol-atom | 773.15 | SmZn2; _alloy: Zn 0.666667_ | model | [1] Liu 2009 | Table 6, p. 6, row 7; `ORC-TEKSF3K7GX` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -31.99 kJ/mol-atom | 773.15 | SmZn3; _alloy: Zn 0.75_ | model | [1] Liu 2009 | Table 6, p. 6, row 13; `ORC-BIJ2ODK2UW` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -32.14 kJ/mol-atom | 773.15 | SmZn3; _alloy: Zn 0.75_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 14; `ORC-NO76GSQUOM` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -25.81 kJ/mol-atom | 973.15 | Sm13Zn58; _alloy: Zn 0.816901_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 28; `ORC-34PUB3JLDB` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -25.89 kJ/mol-atom | 973.15 | Sm13Zn58; _alloy: Zn 0.816901_ | model | [1] Liu 2009 | Table 6, p. 6, row 27; `ORC-O5KT54OKRJ` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -19.17 kJ/mol-atom | 973.15 | Sm2Zn17; _alloy: Zn 0.894737_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 40; `ORC-ENYC5DGVKJ` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -19.34 kJ/mol-atom | 973.15 | Sm2Zn17; _alloy: Zn 0.894737_ | model | [1] Liu 2009 | Table 6, p. 6, row 39; `ORC-V7WXJBRPST` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -27.47 kJ/mol-atom | 973.15 | Sm3Zn11; _alloy: Zn 0.785714_ | model | [1] Liu 2009 | Table 6, p. 6, row 21; `ORC-75DZMFVH5R` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -27.52 kJ/mol-atom | 973.15 | Sm3Zn11; _alloy: Zn 0.785714_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 22; `ORC-DZZVET53KI` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -20.68 kJ/mol-atom | 973.15 | Sm3Zn22; _alloy: Zn 0.88_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 34; `ORC-32RUX5I6LW` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -20.58 kJ/mol-atom | 973.15 | Sm3Zn22; _alloy: Zn 0.88_ | model | [1] Liu 2009 | Table 6, p. 6, row 33; `ORC-LH4RYKX4SE` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -31.35 kJ/mol-atom | 973.15 | SmZn; _alloy: Zn 0.5_ | model | [1] Liu 2009 | Table 6, p. 6, row 3; `ORC-77MVMBAH4T` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -31.2 kJ/mol-atom | 973.15 | SmZn; _alloy: Zn 0.5_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 4; `ORC-KJUINFJ4PN` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -15.66 kJ/mol-atom | 973.15 | SmZn11; _alloy: Zn 0.916667_ | model | [1] Liu 2009 | Table 6, p. 6, row 44; `ORC-4Z24ZWUXTM` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -32.52 kJ/mol-atom | 973.15 | SmZn2; _alloy: Zn 0.666667_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 10; `ORC-3GSTV6FR7O` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -32.82 kJ/mol-atom | 973.15 | SmZn2; _alloy: Zn 0.666667_ | model | [1] Liu 2009 | Table 6, p. 6, row 9; `ORC-NIQVRNBSM4` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -29.1 kJ/mol-atom | 973.15 | SmZn3; _alloy: Zn 0.75_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 16; `ORC-44DYV436VP` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -29.09 kJ/mol-atom | 973.15 | SmZn3; _alloy: Zn 0.75_ | model | [1] Liu 2009 | Table 6, p. 6, row 15; `ORC-52HDUQEYGM` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -22.91 kJ/mol-atom | 1173.15 | Sm13Zn58; _alloy: Zn 0.816901_ | model | [1] Liu 2009 | Table 6, p. 6, row 29; `ORC-PJNB6TDDQ4` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -22.23 kJ/mol-atom | 1173.15 | Sm13Zn58; _alloy: Zn 0.816901_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 30; `ORC-XHOHAWLLOO` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -16.21 kJ/mol-atom | 1173.15 | Sm2Zn17; _alloy: Zn 0.894737_ | model | [1] Liu 2009 | Table 6, p. 6, row 41; `ORC-7AOJMQEWQC` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -15.47 kJ/mol-atom | 1173.15 | Sm2Zn17; _alloy: Zn 0.894737_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 42; `ORC-T2W7HHQI4L` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -24.53 kJ/mol-atom | 1173.15 | Sm3Zn11; _alloy: Zn 0.785714_ | model | [1] Liu 2009 | Table 6, p. 6, row 23; `ORC-B3F6OCWX5N` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -24.12 kJ/mol-atom | 1173.15 | Sm3Zn11; _alloy: Zn 0.785714_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 24; `ORC-IOXMXKWJEN` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -17.48 kJ/mol-atom | 1173.15 | Sm3Zn22; _alloy: Zn 0.88_ | model | [1] Liu 2009 | Table 6, p. 6, row 35; `ORC-QNMLB4ITNV` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -17.05 kJ/mol-atom | 1173.15 | Sm3Zn22; _alloy: Zn 0.88_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 36; `ORC-RSMAR3WZAH` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -29.1 kJ/mol-atom | 1173.15 | SmZn; _alloy: Zn 0.5_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 6; `ORC-QICZWTTHCR` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -29.53 kJ/mol-atom | 1173.15 | SmZn; _alloy: Zn 0.5_ | model | [1] Liu 2009 | Table 6, p. 6, row 5; `ORC-UOMJKUWJKC` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -12.26 kJ/mol-atom | 1173.15 | SmZn11; _alloy: Zn 0.916667_ | model | [1] Liu 2009 | Table 6, p. 6, row 45; `ORC-K7YIHCKQUN` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -29.31 kJ/mol-atom | 1173.15 | SmZn2; _alloy: Zn 0.666667_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 12; `ORC-3WWXG3KLXW` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -30.05 kJ/mol-atom | 1173.15 | SmZn2; _alloy: Zn 0.666667_ | model | [1] Liu 2009 | Table 6, p. 6, row 11; `ORC-XRFSU3C5TT` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -25.65 kJ/mol-atom | 1173.15 | SmZn3; _alloy: Zn 0.75_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 18; `ORC-5SGYRKTL4Z` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -26.19 kJ/mol-atom | 1173.15 | SmZn3; _alloy: Zn 0.75_ | model | [1] Liu 2009 | Table 6, p. 6, row 17; `ORC-JFDMDLIQSA` |  |
 
 ## Sources
 
@@ -271,4 +271,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

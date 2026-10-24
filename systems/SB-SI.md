@@ -50,10 +50,10 @@ Table: Invariant reactions reported in the literature for the Sb–Si system (4)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 903 | eutectic: L \<-> (Sb) + (Si) | L: Sb 0.997, Si 0.003 | model | [1] Wang 2011; _cites Olesinski 1985_ [doi](https://doi.org/10.1007/bf02869508) | Table 1, p. 2, row 3 |  |
-| 903 | eutectic: L \<-> (Sb) + (Si) | L: Sb 0.997, Si 0.003 | experimental | [1] Wang 2011; _cites Thurmond 1960_ [doi](https://doi.org/10.1002/j.1538-7305.1960.tb03927.x) | Table 1, p. 2, row 2 |  |
-| 903 | eutectic: L \<-> (Sb) + (Si) | L: Sb 0.999, Si 0.001 | experimental | [1] Wang 2011; _cites Williams 1907_ [doi](https://doi.org/10.1002/zaac.19070550102) | Table 1, p. 2, row 1 |  |
-| 903 | eutectic: L \<-> (Sb) + (Si) | L: Sb 0.997, Si 0.003 | model | [1] Wang 2011 | Table 1, p. 2, row 4 |  |
+| 903 | eutectic: L \<-> (Sb) + (Si) | L: Sb 0.997, Si 0.003 | model | [1] Wang 2011; _cites Olesinski 1985_ [doi](https://doi.org/10.1007/bf02869508) | Table 1, p. 2, row 3; `ORC-EMT4VOYXCR` |  |
+| 903 | eutectic: L \<-> (Sb) + (Si) | L: Sb 0.997, Si 0.003 | experimental | [1] Wang 2011; _cites Thurmond 1960_ [doi](https://doi.org/10.1002/j.1538-7305.1960.tb03927.x) | Table 1, p. 2, row 2; `ORC-INIZGECCSE` |  |
+| 903 | eutectic: L \<-> (Sb) + (Si) | L: Sb 0.999, Si 0.001 | experimental | [1] Wang 2011; _cites Williams 1907_ [doi](https://doi.org/10.1002/zaac.19070550102) | Table 1, p. 2, row 1; `ORC-RP4N7KGONU` |  |
+| 903 | eutectic: L \<-> (Sb) + (Si) | L: Sb 0.997, Si 0.003 | model | [1] Wang 2011 | Table 1, p. 2, row 4; `ORC-ZPFK2CJ5D6` |  |
 
 ## Other properties
 
@@ -63,28 +63,28 @@ Table: Phase equilibrium, Sb–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 953.15 | liquid + L; _liquid: Sb 0.995, Si 0.005; L: Sb 0.995, Si 0.005_ | experimental | [2] Olesinski 1985; _cites Girault 1977_ | Table 1, p. 2, row 22 |  |
-| Phase composition |  | 1073.15 | liquid + L; _liquid: Sb 0.9857, Si 0.0143; L: Sb 0.9857, Si 0.0143_ | experimental | [2] Olesinski 1985; _cites ref. 60Thu_ | Table 1, p. 2, row 19 |  |
-| Phase composition |  | 1073.15 | liquid + L; _liquid: Sb 0.9849, Si 0.0151; L: Sb 0.9849, Si 0.0151_ | experimental | [2] Olesinski 1985; _cites ref. 60Thu_ | Table 1, p. 2, row 20 |  |
-| Phase composition |  | 1073.15 | liquid + L; _liquid: Sb 0.985, Si 0.015; L: Sb 0.985, Si 0.015_ | experimental | [2] Olesinski 1985; _cites Girault 1977_ | Table 1, p. 2, row 21 |  |
-| Phase composition |  | 1170.15 | liquid + L; _liquid: Sb 0.9761, Si 0.0239; L: Sb 0.9761, Si 0.0239_ | experimental | [2] Olesinski 1985; _cites ref. 60Thu_ | Table 1, p. 2, row 18 |  |
-| Phase composition |  | 1174.15 | liquid + L; _liquid: Sb 0.9757, Si 0.0243; L: Sb 0.9757, Si 0.0243_ | experimental | [2] Olesinski 1985; _cites ref. 60Thu_ | Table 1, p. 2, row 17 |  |
-| Phase composition |  | 1272.15 | liquid + L; _liquid: Sb 0.9539, Si 0.0461; L: Sb 0.9539, Si 0.0461_ | experimental | [2] Olesinski 1985; _cites ref. 60Thu_ | Table 1, p. 2, row 16 |  |
-| Phase composition |  | 1371.15 | liquid + L; _liquid: Sb 0.9165, Si 0.0835; L: Sb 0.9165, Si 0.0835_ | experimental | [2] Olesinski 1985; _cites ref. 60Thu_ | Table 1, p. 2, row 15 |  |
-| Phase composition |  | 1383.15 | liquid + L; _liquid: Sb 0.887, Si 0.113; L: Sb 0.887, Si 0.113_ | experimental | [2] Olesinski 1985; _cites ref. 07Wil_ | Table 1, p. 2, row 14 |  |
-| Phase composition |  | 1413.15 | liquid + L; _liquid: Sb 0.851, Si 0.149; L: Sb 0.851, Si 0.149_ | experimental | [2] Olesinski 1985; _cites ref. 07Wil_ | Table 1, p. 2, row 13 |  |
-| Phase composition |  | 1473.15 | liquid + L; _liquid: Sb 0.85, Si 0.15; L: Sb 0.85, Si 0.15_ | experimental | [2] Olesinski 1985; _cites ref. 60Thu_ | Table 1, p. 2, row 12 |  |
-| Phase composition |  | 1493.15 | liquid + L; _liquid: Sb 0.788, Si 0.212; L: Sb 0.788, Si 0.212_ | experimental | [2] Olesinski 1985; _cites ref. 07Wil_ | Table 1, p. 2, row 11 |  |
-| Phase composition |  | 1518.15 | liquid + L; _liquid: Sb 0.8, Si 0.2; L: Sb 0.8, Si 0.2_ | experimental | [2] Olesinski 1985; _cites Malmeja 1972_ | Table 1, p. 2, row 10 |  |
-| Phase composition |  | 1521.15 | liquid + L; _liquid: Sb 0.681, Si 0.319; L: Sb 0.681, Si 0.319_ | experimental | [2] Olesinski 1985; _cites ref. 07Wil_ | Table 1, p. 2, row 9 |  |
-| Phase composition |  | 1549.15 | liquid + L; _liquid: Sb 0.487, Si 0.513; L: Sb 0.487, Si 0.513_ | experimental | [2] Olesinski 1985; _cites ref. 07Wil_ | Table 1, p. 2, row 8 |  |
-| Phase composition |  | 1573.15 | liquid + L; _liquid: Sb 0.355, Si 0.645; L: Sb 0.355, Si 0.645_ | experimental | [2] Olesinski 1985; _cites ref. 07Wil_ | Table 1, p. 2, row 7 |  |
-| Phase composition |  | 1583.15 | liquid + L; _liquid: Sb 0.5, Si 0.5; L: Sb 0.5, Si 0.5_ | experimental | [2] Olesinski 1985; _cites Malmeja 1972_ | Table 1, p. 2, row 6 |  |
-| Phase composition |  | 1603.15 | liquid + L; _liquid: Sb 0.262, Si 0.738; L: Sb 0.262, Si 0.738_ | experimental | [2] Olesinski 1985; _cites ref. 07Wil_ | Table 1, p. 2, row 5 |  |
-| Phase composition |  | 1621.15 | liquid + L; _liquid: Sb 0.191, Si 0.809; L: Sb 0.191, Si 0.809_ | experimental | [2] Olesinski 1985; _cites ref. 07Wil_ | Table 1, p. 2, row 4 |  |
-| Phase composition |  | 1658.15 | liquid + L; _liquid: Sb 0.092, Si 0.908; L: Sb 0.092, Si 0.908_ | experimental | [2] Olesinski 1985; _cites ref. 07Wil_ | Table 1, p. 2, row 3 |  |
-| Phase composition |  | 1669.15 | liquid + L; _liquid: Sb 0.056, Si 0.944; L: Sb 0.056, Si 0.944_ | experimental | [2] Olesinski 1985; _cites ref. 07Wil_ | Table 1, p. 2, row 2 |  |
-| Phase composition |  | 1685.15 | liquid + L; _liquid: Sb 0.012, Si 0.988; L: Sb 0.012, Si 0.988_ | experimental | [2] Olesinski 1985; _cites ref. 07Wil_ | Table 1, p. 2, row 1 |  |
+| Phase composition |  | 953.15 | liquid + L; _liquid: Sb 0.995, Si 0.005; L: Sb 0.995, Si 0.005_ | experimental | [2] Olesinski 1985; _cites Girault 1977_ | Table 1, p. 2, row 22; `ORC-4A7TW2ZJ2S` |  |
+| Phase composition |  | 1073.15 | liquid + L; _liquid: Sb 0.9857, Si 0.0143; L: Sb 0.9857, Si 0.0143_ | experimental | [2] Olesinski 1985; _cites ref. 60Thu_ | Table 1, p. 2, row 19; `ORC-2I5YC4A6LS` |  |
+| Phase composition |  | 1073.15 | liquid + L; _liquid: Sb 0.9849, Si 0.0151; L: Sb 0.9849, Si 0.0151_ | experimental | [2] Olesinski 1985; _cites ref. 60Thu_ | Table 1, p. 2, row 20; `ORC-VPKKU4UP6M` |  |
+| Phase composition |  | 1073.15 | liquid + L; _liquid: Sb 0.985, Si 0.015; L: Sb 0.985, Si 0.015_ | experimental | [2] Olesinski 1985; _cites Girault 1977_ | Table 1, p. 2, row 21; `ORC-Y6IXZU5OHL` |  |
+| Phase composition |  | 1170.15 | liquid + L; _liquid: Sb 0.9761, Si 0.0239; L: Sb 0.9761, Si 0.0239_ | experimental | [2] Olesinski 1985; _cites ref. 60Thu_ | Table 1, p. 2, row 18; `ORC-A6HL34PJPZ` |  |
+| Phase composition |  | 1174.15 | liquid + L; _liquid: Sb 0.9757, Si 0.0243; L: Sb 0.9757, Si 0.0243_ | experimental | [2] Olesinski 1985; _cites ref. 60Thu_ | Table 1, p. 2, row 17; `ORC-N3WTH73FT3` |  |
+| Phase composition |  | 1272.15 | liquid + L; _liquid: Sb 0.9539, Si 0.0461; L: Sb 0.9539, Si 0.0461_ | experimental | [2] Olesinski 1985; _cites ref. 60Thu_ | Table 1, p. 2, row 16; `ORC-G2GPM6XIHN` |  |
+| Phase composition |  | 1371.15 | liquid + L; _liquid: Sb 0.9165, Si 0.0835; L: Sb 0.9165, Si 0.0835_ | experimental | [2] Olesinski 1985; _cites ref. 60Thu_ | Table 1, p. 2, row 15; `ORC-VZ6BJBLOY6` |  |
+| Phase composition |  | 1383.15 | liquid + L; _liquid: Sb 0.887, Si 0.113; L: Sb 0.887, Si 0.113_ | experimental | [2] Olesinski 1985; _cites ref. 07Wil_ | Table 1, p. 2, row 14; `ORC-YBC5K3UGA4` |  |
+| Phase composition |  | 1413.15 | liquid + L; _liquid: Sb 0.851, Si 0.149; L: Sb 0.851, Si 0.149_ | experimental | [2] Olesinski 1985; _cites ref. 07Wil_ | Table 1, p. 2, row 13; `ORC-4UHMERRWB3` |  |
+| Phase composition |  | 1473.15 | liquid + L; _liquid: Sb 0.85, Si 0.15; L: Sb 0.85, Si 0.15_ | experimental | [2] Olesinski 1985; _cites ref. 60Thu_ | Table 1, p. 2, row 12; `ORC-WJ3EQRCLMB` |  |
+| Phase composition |  | 1493.15 | liquid + L; _liquid: Sb 0.788, Si 0.212; L: Sb 0.788, Si 0.212_ | experimental | [2] Olesinski 1985; _cites ref. 07Wil_ | Table 1, p. 2, row 11; `ORC-5P7N2P2Z6D` |  |
+| Phase composition |  | 1518.15 | liquid + L; _liquid: Sb 0.8, Si 0.2; L: Sb 0.8, Si 0.2_ | experimental | [2] Olesinski 1985; _cites Malmeja 1972_ | Table 1, p. 2, row 10; `ORC-XIP63ZGJ5I` |  |
+| Phase composition |  | 1521.15 | liquid + L; _liquid: Sb 0.681, Si 0.319; L: Sb 0.681, Si 0.319_ | experimental | [2] Olesinski 1985; _cites ref. 07Wil_ | Table 1, p. 2, row 9; `ORC-ZS5L3JUVBD` |  |
+| Phase composition |  | 1549.15 | liquid + L; _liquid: Sb 0.487, Si 0.513; L: Sb 0.487, Si 0.513_ | experimental | [2] Olesinski 1985; _cites ref. 07Wil_ | Table 1, p. 2, row 8; `ORC-DM7PZNY2B3` |  |
+| Phase composition |  | 1573.15 | liquid + L; _liquid: Sb 0.355, Si 0.645; L: Sb 0.355, Si 0.645_ | experimental | [2] Olesinski 1985; _cites ref. 07Wil_ | Table 1, p. 2, row 7; `ORC-OVT2EVKMKD` |  |
+| Phase composition |  | 1583.15 | liquid + L; _liquid: Sb 0.5, Si 0.5; L: Sb 0.5, Si 0.5_ | experimental | [2] Olesinski 1985; _cites Malmeja 1972_ | Table 1, p. 2, row 6; `ORC-BUHBWCSAUV` |  |
+| Phase composition |  | 1603.15 | liquid + L; _liquid: Sb 0.262, Si 0.738; L: Sb 0.262, Si 0.738_ | experimental | [2] Olesinski 1985; _cites ref. 07Wil_ | Table 1, p. 2, row 5; `ORC-BM5ZYYYAQP` |  |
+| Phase composition |  | 1621.15 | liquid + L; _liquid: Sb 0.191, Si 0.809; L: Sb 0.191, Si 0.809_ | experimental | [2] Olesinski 1985; _cites ref. 07Wil_ | Table 1, p. 2, row 4; `ORC-R35V3FFT6H` |  |
+| Phase composition |  | 1658.15 | liquid + L; _liquid: Sb 0.092, Si 0.908; L: Sb 0.092, Si 0.908_ | experimental | [2] Olesinski 1985; _cites ref. 07Wil_ | Table 1, p. 2, row 3; `ORC-UXP5F2JZQ6` |  |
+| Phase composition |  | 1669.15 | liquid + L; _liquid: Sb 0.056, Si 0.944; L: Sb 0.056, Si 0.944_ | experimental | [2] Olesinski 1985; _cites ref. 07Wil_ | Table 1, p. 2, row 2; `ORC-6GM4ACRUQF` |  |
+| Phase composition |  | 1685.15 | liquid + L; _liquid: Sb 0.012, Si 0.988; L: Sb 0.012, Si 0.988_ | experimental | [2] Olesinski 1985; _cites ref. 07Wil_ | Table 1, p. 2, row 1; `ORC-MJ2M2ATR47` |  |
 
 ## Sources
 
@@ -150,4 +150,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

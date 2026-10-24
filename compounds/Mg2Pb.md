@@ -14,26 +14,26 @@ Table: Enthalpy of formation of Mg2Pb reported in the literature (20)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -11.6747 kJ/mol-atom | Mg2Pb | 0 | DFT | VASP/GGA PBE PAW | [Mg–Pb](https://data.orchid-project.org/systems/MG-PB.html) | [1] Dębski 2021; _cites JARVIS_ | Table 3, p. 4, row 13 |  |
-| -11.674 kJ/mol-atom | Mg2Pb | 0 | DFT | VASP/GGA PBE PAW | [Mg–Pb](https://data.orchid-project.org/systems/MG-PB.html) | [1] Dębski 2021; _cites JARVIS_ | Table 3, p. 4, row 13 |  |
-| -6.13647 kJ/mol-atom | Mg2Pb | 0 | DFT | VASP/GGA PBE PAW | [Mg–Pb](https://data.orchid-project.org/systems/MG-PB.html) | [1] Dębski 2021; _cites Automatic_ | Table 3, p. 4, row 15 |  |
-| -6.136 kJ/mol-atom | Mg2Pb | 0 | DFT | VASP/GGA PBE PAW | [Mg–Pb](https://data.orchid-project.org/systems/MG-PB.html) | [1] Dębski 2021; _cites Automatic_ | Table 3, p. 4, row 15 |  |
-| -6.07858 kJ/mol-atom | Mg2Pb | 0 | DFT | VASP/GGA PBE PAW | [Mg–Pb](https://data.orchid-project.org/systems/MG-PB.html) | [1] Dębski 2021; _cites The_ | Table 3, p. 4, row 14 |  |
-| -6.078 kJ/mol-atom | Mg2Pb | 0 | DFT | VASP/GGA PBE PAW | [Mg–Pb](https://data.orchid-project.org/systems/MG-PB.html) | [1] Dębski 2021; _cites The_ | Table 3, p. 4, row 14 |  |
-| -5.978 kJ/mol-atom | Mg2Pb | 0 | DFT | QE/GGA PBESol | [Mg–Pb](https://data.orchid-project.org/systems/MG-PB.html) | [1] Dębski 2021 | Table 3, p. 4, row 6 |  |
-| -5.97244 kJ/mol-atom | Mg2Pb | 0 | DFT | QE/GGA PBESol | [Mg–Pb](https://data.orchid-project.org/systems/MG-PB.html) | [1] Dębski 2021 | Table 3, p. 4, row 6 |  |
-| -5.9 kJ/mol-atom | Mg2Pb | 0 | DFT |  | [Mg–Pb](https://data.orchid-project.org/systems/MG-PB.html) | [1] Dębski 2021; _cites at 943 K_ | Table 3, p. 4, row 11 |  |
-| -5.89525 kJ/mol-atom | Mg2Pb | 0 | DFT |  | [Mg–Pb](https://data.orchid-project.org/systems/MG-PB.html) | [1] Dębski 2021; _cites at 943 K_ | Table 3, p. 4, row 11 |  |
-| -5.855 kJ/mol-atom | Mg2Pb | 0 | DFT |  | [Mg–Pb](https://data.orchid-project.org/systems/MG-PB.html) | [1] Dębski 2021; _cites Dobovisek 1965_ | Table 3, p. 4, row 9 |  |
-| -5.855 kJ/mol-atom | Mg2Pb | 0 | DFT |  | [Mg–Pb](https://data.orchid-project.org/systems/MG-PB.html) | [1] Dębski 2021; _cites Seith 1937_ | Table 3, p. 4, row 7 |  |
-| -5.84701 kJ/mol-atom | Mg2Pb | 0 | DFT |  | [Mg–Pb](https://data.orchid-project.org/systems/MG-PB.html) | [1] Dębski 2021; _cites Dobovisek 1965_ | Table 3, p. 4, row 9 |  |
-| -5.84701 kJ/mol-atom | Mg2Pb | 0 | DFT |  | [Mg–Pb](https://data.orchid-project.org/systems/MG-PB.html) | [1] Dębski 2021; _cites Seith 1937_ | Table 3, p. 4, row 7 |  |
-| -5.533 kJ/mol-atom | Mg2Pb | 0 | DFT |  | [Mg–Pb](https://data.orchid-project.org/systems/MG-PB.html) | [1] Dębski 2021; _cites Dobovisek 1965_ | Table 3, p. 4, row 10 |  |
-| -5.52861 kJ/mol-atom | Mg2Pb | 0 | DFT |  | [Mg–Pb](https://data.orchid-project.org/systems/MG-PB.html) | [1] Dębski 2021; _cites Dobovisek 1965_ | Table 3, p. 4, row 10 |  |
-| -5.5 kJ/mol-atom | Mg2Pb | 0 | DFT |  | [Mg–Pb](https://data.orchid-project.org/systems/MG-PB.html) | [1] Dębski 2021; _cites Grethe 1959_ | Table 3, p. 4, row 8 |  |
-| -5.49966 kJ/mol-atom | Mg2Pb | 0 | DFT |  | [Mg–Pb](https://data.orchid-project.org/systems/MG-PB.html) | [1] Dębski 2021; _cites Grethe 1959_ | Table 3, p. 4, row 8 |  |
-| -4.24535 kJ/mol-atom | Mg2Pb | 0 | DFT | VASP/GGA PBE PAW | [Mg–Pb](https://data.orchid-project.org/systems/MG-PB.html) | [1] Dębski 2021; _cites Materials_ | Table 3, p. 4, row 12 |  |
-| -4.245 kJ/mol-atom | Mg2Pb | 0 | DFT | VASP/GGA PBE PAW | [Mg–Pb](https://data.orchid-project.org/systems/MG-PB.html) | [1] Dębski 2021; _cites Materials_ | Table 3, p. 4, row 12 |  |
+| -11.6747 kJ/mol-atom | Mg2Pb | 0 | DFT | VASP/GGA PBE PAW | [Mg–Pb](https://data.orchid-project.org/systems/MG-PB.html) | [1] Dębski 2021; _cites JARVIS_ | Table 3, p. 4, row 13; `ORC-BWSJBFCMPP.02d7e8` |  |
+| -11.674 kJ/mol-atom | Mg2Pb | 0 | DFT | VASP/GGA PBE PAW | [Mg–Pb](https://data.orchid-project.org/systems/MG-PB.html) | [1] Dębski 2021; _cites JARVIS_ | Table 3, p. 4, row 13; `ORC-BWSJBFCMPP.a54de9` |  |
+| -6.13647 kJ/mol-atom | Mg2Pb | 0 | DFT | VASP/GGA PBE PAW | [Mg–Pb](https://data.orchid-project.org/systems/MG-PB.html) | [1] Dębski 2021; _cites Automatic_ | Table 3, p. 4, row 15; `ORC-ZUMCL4UJPS.5bc953` |  |
+| -6.136 kJ/mol-atom | Mg2Pb | 0 | DFT | VASP/GGA PBE PAW | [Mg–Pb](https://data.orchid-project.org/systems/MG-PB.html) | [1] Dębski 2021; _cites Automatic_ | Table 3, p. 4, row 15; `ORC-ZUMCL4UJPS.990fb4` |  |
+| -6.07858 kJ/mol-atom | Mg2Pb | 0 | DFT | VASP/GGA PBE PAW | [Mg–Pb](https://data.orchid-project.org/systems/MG-PB.html) | [1] Dębski 2021; _cites The_ | Table 3, p. 4, row 14; `ORC-3UZCHZNEXO.d73652` |  |
+| -6.078 kJ/mol-atom | Mg2Pb | 0 | DFT | VASP/GGA PBE PAW | [Mg–Pb](https://data.orchid-project.org/systems/MG-PB.html) | [1] Dębski 2021; _cites The_ | Table 3, p. 4, row 14; `ORC-3UZCHZNEXO.73fa6b` |  |
+| -5.978 kJ/mol-atom | Mg2Pb | 0 | DFT | QE/GGA PBESol | [Mg–Pb](https://data.orchid-project.org/systems/MG-PB.html) | [1] Dębski 2021 | Table 3, p. 4, row 6; `ORC-MEFBATBWAD.aa99c6` |  |
+| -5.97244 kJ/mol-atom | Mg2Pb | 0 | DFT | QE/GGA PBESol | [Mg–Pb](https://data.orchid-project.org/systems/MG-PB.html) | [1] Dębski 2021 | Table 3, p. 4, row 6; `ORC-MEFBATBWAD.d41c01` |  |
+| -5.9 kJ/mol-atom | Mg2Pb | 0 | DFT |  | [Mg–Pb](https://data.orchid-project.org/systems/MG-PB.html) | [1] Dębski 2021; _cites at 943 K_ | Table 3, p. 4, row 11; `ORC-XSC6EPABZQ.4d8b85` |  |
+| -5.89525 kJ/mol-atom | Mg2Pb | 0 | DFT |  | [Mg–Pb](https://data.orchid-project.org/systems/MG-PB.html) | [1] Dębski 2021; _cites at 943 K_ | Table 3, p. 4, row 11; `ORC-XSC6EPABZQ.56a13f` |  |
+| -5.855 kJ/mol-atom | Mg2Pb | 0 | DFT |  | [Mg–Pb](https://data.orchid-project.org/systems/MG-PB.html) | [1] Dębski 2021; _cites Dobovisek 1965_ | Table 3, p. 4, row 9; `ORC-6NMZMDWEIZ.6c25ee` |  |
+| -5.855 kJ/mol-atom | Mg2Pb | 0 | DFT |  | [Mg–Pb](https://data.orchid-project.org/systems/MG-PB.html) | [1] Dębski 2021; _cites Seith 1937_ | Table 3, p. 4, row 7; `ORC-BRBEV2CMMI.7deb20` |  |
+| -5.84701 kJ/mol-atom | Mg2Pb | 0 | DFT |  | [Mg–Pb](https://data.orchid-project.org/systems/MG-PB.html) | [1] Dębski 2021; _cites Dobovisek 1965_ | Table 3, p. 4, row 9; `ORC-6NMZMDWEIZ.e16ce5` |  |
+| -5.84701 kJ/mol-atom | Mg2Pb | 0 | DFT |  | [Mg–Pb](https://data.orchid-project.org/systems/MG-PB.html) | [1] Dębski 2021; _cites Seith 1937_ | Table 3, p. 4, row 7; `ORC-BRBEV2CMMI.f3b1dd` |  |
+| -5.533 kJ/mol-atom | Mg2Pb | 0 | DFT |  | [Mg–Pb](https://data.orchid-project.org/systems/MG-PB.html) | [1] Dębski 2021; _cites Dobovisek 1965_ | Table 3, p. 4, row 10; `ORC-UN5ZR3DH4R.a5aded` |  |
+| -5.52861 kJ/mol-atom | Mg2Pb | 0 | DFT |  | [Mg–Pb](https://data.orchid-project.org/systems/MG-PB.html) | [1] Dębski 2021; _cites Dobovisek 1965_ | Table 3, p. 4, row 10; `ORC-UN5ZR3DH4R.9ee812` |  |
+| -5.5 kJ/mol-atom | Mg2Pb | 0 | DFT |  | [Mg–Pb](https://data.orchid-project.org/systems/MG-PB.html) | [1] Dębski 2021; _cites Grethe 1959_ | Table 3, p. 4, row 8; `ORC-VASZEU4BTD.47e16d` |  |
+| -5.49966 kJ/mol-atom | Mg2Pb | 0 | DFT |  | [Mg–Pb](https://data.orchid-project.org/systems/MG-PB.html) | [1] Dębski 2021; _cites Grethe 1959_ | Table 3, p. 4, row 8; `ORC-VASZEU4BTD.11e7a0` |  |
+| -4.24535 kJ/mol-atom | Mg2Pb | 0 | DFT | VASP/GGA PBE PAW | [Mg–Pb](https://data.orchid-project.org/systems/MG-PB.html) | [1] Dębski 2021; _cites Materials_ | Table 3, p. 4, row 12; `ORC-52NEUIMXXM.75397e` |  |
+| -4.245 kJ/mol-atom | Mg2Pb | 0 | DFT | VASP/GGA PBE PAW | [Mg–Pb](https://data.orchid-project.org/systems/MG-PB.html) | [1] Dębski 2021; _cites Materials_ | Table 3, p. 4, row 12; `ORC-52NEUIMXXM.67b2a3` |  |
 
 ### Uncertainty budget
 
@@ -115,4 +115,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

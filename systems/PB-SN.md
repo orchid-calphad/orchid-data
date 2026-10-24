@@ -50,9 +50,9 @@ Table: Invariant reactions reported in the literature for the Pb–Sn system (3)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 456.15 | eutectic |  | model | [1] Yoon 1998; _cites Massalski 1991_ | p. 2 | “In the Sn-Pb system, there is also a typical eutectic reaction at 183"C, composed of S-Sn and fee (face-centered-cubic) Pb phases \[8\].” |
-| 456.15 | eutectic |  | experimental | [2] Doi 2006 | p. 1 | “Sn-Ag-Cu alloy has been used as a Pb-free solder, but it has a melting point of 218 °C, which is considerably higher than the 183 °C of conventional Pb-Sn eutectic alloy.” |
-| 456.15 | eutectic |  | experimental | [1] Yoon 1998 | p. 1 | “Many solder alloys are currently available, however, a eutectic 63Sn-37Pb alloy (compositions are all in weight percent, unless specified otherwise) with a melting point of 183°C or a near-eutectic 60Sn-40Pb alloy are used most commonly in electronic packaging due to their unique properties such as good wettability, good time-dependent deformatior, characteristics, good corrosion resistance and r…” |
+| 456.15 | eutectic |  | model | [1] Yoon 1998; _cites Massalski 1991_ | p. 2; `ORC-7CZN2HUWBZ` | “In the Sn-Pb system, there is also a typical eutectic reaction at 183"C, composed of S-Sn and fee (face-centered-cubic) Pb phases \[8\].” |
+| 456.15 | eutectic |  | experimental | [2] Doi 2006 | p. 1; `ORC-EUJDOLOVIX.8bc2bb` | “Sn-Ag-Cu alloy has been used as a Pb-free solder, but it has a melting point of 218 °C, which is considerably higher than the 183 °C of conventional Pb-Sn eutectic alloy.” |
+| 456.15 | eutectic |  | experimental | [1] Yoon 1998 | p. 1; `ORC-PTXU4RWJIO` | “Many solder alloys are currently available, however, a eutectic 63Sn-37Pb alloy (compositions are all in weight percent, unless specified otherwise) with a melting point of 183°C or a near-eutectic 60Sn-40Pb alloy are used most commonly in electronic packaging due to their unique properties such as good wettability, good time-dependent deformatior, characteristics, good corrosion resistance and r…” |
 
 ## Other properties
 
@@ -62,8 +62,8 @@ Table: Phase transition, Pb–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 444 K | 444 | Liquid + (Sn) → (Pb) + ␥ | experimental | [3] David 2004 | p. 4 | “They reported two ternary invariant reactions: Liquid + (Sn) → (Pb) + ␥ at 444 K and Liquid + (Pb) → ␤ + ␥ at 409 K.” |
-| Phase transition | 445.7 K | 445.7 | Liquid + (Sn) → (Pb) + ␥ | model | [3] David 2004 | p. 7 | “The two invariant reactions are calculated with a discrepancy lower than 2 K: Liquid + (Sn) → (Pb) + ␥ at 445.7 K and Liquid + (Pb) → ␤ + ␥ at 407.8 K.” |
+| Phase transition | 444 K | 444 | Liquid + (Sn) → (Pb) + ␥ | experimental | [3] David 2004 | p. 4; `ORC-7G5FK4FZXY` | “They reported two ternary invariant reactions: Liquid + (Sn) → (Pb) + ␥ at 444 K and Liquid + (Pb) → ␤ + ␥ at 409 K.” |
+| Phase transition | 445.7 K | 445.7 | Liquid + (Sn) → (Pb) + ␥ | model | [3] David 2004 | p. 7; `ORC-QDGCVHIORL` | “The two invariant reactions are calculated with a discrepancy lower than 2 K: Liquid + (Sn) → (Pb) + ␥ at 445.7 K and Liquid + (Pb) → ␤ + ␥ at 407.8 K.” |
 
 ## Sources
 
@@ -130,4 +130,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

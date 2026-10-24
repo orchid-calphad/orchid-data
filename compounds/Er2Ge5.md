@@ -14,9 +14,9 @@ Table: Enthalpy of formation of Er2Ge5 reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -59.6 kJ/mol-atom ± 0.9 | Er2Ge5 | 950 | experimental | EMF | [Er–Ge](https://data.orchid-project.org/systems/ER-GE.html) | [1] Achgar 2017; _cites Sidorko 2008_ | Table 5, p. 7, row 34 |  |
-| -65.51 kJ/mol-atom | Er2Ge5 | 950 | model | Optimization | [Er–Ge](https://data.orchid-project.org/systems/ER-GE.html) | [1] Achgar 2017 | Table 5, p. 7, row 36 |  |
-| -65.4 kJ/mol-atom | Er2Ge5 | 950 | model | Optimization | [Er–Ge](https://data.orchid-project.org/systems/ER-GE.html) | [1] Achgar 2017 | Table 5, p. 7, row 35 |  |
+| -59.6 kJ/mol-atom ± 0.9 | Er2Ge5 | 950 | experimental | EMF | [Er–Ge](https://data.orchid-project.org/systems/ER-GE.html) | [1] Achgar 2017; _cites Sidorko 2008_ | Table 5, p. 7, row 34; `ORC-O4EBHRWJPH.a77244` |  |
+| -65.51 kJ/mol-atom | Er2Ge5 | 950 | model | Optimization | [Er–Ge](https://data.orchid-project.org/systems/ER-GE.html) | [1] Achgar 2017 | Table 5, p. 7, row 36; `ORC-I5EQ4TGMRH.6f2ba9` |  |
+| -65.4 kJ/mol-atom | Er2Ge5 | 950 | model | Optimization | [Er–Ge](https://data.orchid-project.org/systems/ER-GE.html) | [1] Achgar 2017 | Table 5, p. 7, row 35; `ORC-5R7H6TC6SX.089502` |  |
 
 ### Uncertainty budget
 
@@ -94,4 +94,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -116,45 +116,45 @@ Table: Invariant reactions reported in the literature for the Hf–Si system (39
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2753.15 | L->Hf3Si2 | L: Si 0.4; Hf3Si2: Hf 0.6, Si 0.4 | experimental | [1] Yang 2003; _cites Brukl 1968_ | Table 3, p. 3, row 21 |  |
-| 2736.15 | L->Hf3Si2 | L: Si 0.4; Hf3Si2: Hf 0.6, Si 0.4 | model | [1] Yang 2003 | Table 3, p. 3, row 20 |  |
-| 2633.15 | L+Hf3Si2->Hf5Si3 | Hf3Si2: Hf 0.6, Si 0.4; Hf5Si3: Hf 0.625, Si 0.375 | experimental | [1] Yang 2003; _cites Brukl 1968_ | Table 3, p. 3, row 7 |  |
-| 2633.15 | peritectic: L + Hf3Si2 ↔ Hf5Si3 |  | experimental | [2] Zhao 2000; _cites Brukl 1968_ | p. 1 | “The upper stability temperature of the Hf5Si3 phase was estimated at 2360 ± 30 °C, based on the incipient melting and collapsing data of Brukl \[1968Bru\]. The incipient melting and collapsing data exhibited a small plateau in the phase diagram while there was an invariant reaction, as shown in Fig. 1. It seems that there was a plateau at about 2360 ± 30 °C in the composition region close to Hf5Si3…” |
-| 2633.15 | peritectic: L + Hf3Si2 -> Hf5Si3 | Hf3Si2: Si 0.4; Hf5Si3: Si 0.375 | model | [2] Zhao 2000 | Table 2, p. 2, row 7 |  |
-| 2630.15 | peritectic: L + Hf3Si2 -> Hf5Si3 | L: Si 0.277; Hf3Si2: Si 0.4; Hf5Si3: Si 0.375 | model | [2] Zhao 2000 | Table 2, p. 2, row 8 |  |
-| 2628.15 | L+Hf3Si2->Hf5Si3 | L: Si 0.303; Hf3Si2: Si 0.4; Hf5Si3: Si 0.375 | model | [1] Yang 2003 | Table 3, p. 3, row 6 |  |
-| 2594.15 | L+Hf3Si2->Hf5Si4 | L: Si 0.509; Hf3Si2: Si 0.4; Hf5Si4: Si 0.444 | model | [1] Yang 2003 | Table 3, p. 3, row 10 |  |
-| 2593.15 | peritectic: Hf3Si2 + L -> Hf5Si4 | Hf3Si2: Si 0.4; Hf5Si4: Si 0.444444 | experimental | [2] Zhao 2000; _cites ref. 68Bru_ | Table 2, p. 2, row 13 |  |
-| 2593.15 | L+Hf3Si2->Hf5Si4 | Hf3Si2: Hf 0.6, Si 0.4; Hf5Si4: Hf 0.555556, Si 0.444444 | experimental | [1] Yang 2003; _cites Brukl 1968_ | Table 3, p. 3, row 11 |  |
-| 2586.15 | peritectic: Hf3Si2 + L -> Hf5Si4 | Hf3Si2: Si 0.4; L: Si 0.546; Hf5Si4: Si 0.444444 | model | [2] Zhao 2000 | Table 2, p. 2, row 14 |  |
-| 2418.15 | L+Hf5Si4->HfSi | L: Si 0.583; Hf5Si4: Si 0.444; HfSi: Si 0.5 | model | [1] Yang 2003 | Table 3, p. 3, row 12 |  |
-| 2415.15 | L+Hf5Si4->HfSi | Hf5Si4: Hf 0.555556, Si 0.444444; HfSi: Hf 0.5, Si 0.5 | experimental | [1] Yang 2003; _cites Brukl 1968_ | Table 3, p. 3, row 13 |  |
-| 2415.15 | peritectic: Hf5Si4 + L -> HfSi | Hf5Si4: Si 0.444444; HfSi: Si 0.5 | experimental | [2] Zhao 2000; _cites ref. 68Bru_ | Table 2, p. 2, row 15 |  |
-| 2406.15 | peritectic: Hf5Si4 + L -> HfSi | Hf5Si4: Si 0.444444; L: Si 0.628; HfSi: Si 0.5 | model | [2] Zhao 2000 | Table 2, p. 2, row 16 |  |
-| 2365.15 | L+Hf5Si3->Hf2Si | L: Si 0.21; Hf5Si3: Si 0.375; Hf2Si: Si 0.333 | model | [1] Yang 2003 | Table 3, p. 3, row 3 |  |
-| 2359.15 | L+Hf5Si3->Hf2Si | L: Si 0.179; Hf5Si3: Si 0.375; Hf2Si: Si 0.333 | model | [1] Yang 2003; _cites Zhao 2000_ [doi](https://doi.org/10.1361/105497100770340408) | Table 3, p. 3, row 4 |  |
-| 2359.15 | peritectic: L + Hf5Si3 -> Hf2Si | L: Si 0.179; Hf5Si3: Si 0.375; Hf2Si: Si 0.333333 | model | [2] Zhao 2000 | Table 2, p. 2, row 6 |  |
-| 2356.15 | L+Hf5Si3->Hf2Si | Hf5Si3: Hf 0.625, Si 0.375; Hf2Si: Hf 0.666667, Si 0.333333 | experimental | [1] Yang 2003; _cites Brukl 1968_ | Table 3, p. 3, row 5 |  |
-| 2356.15 | peritectic: L + Hf5Si3 -> Hf2Si | Hf5Si3: Si 0.375; Hf2Si: Si 0.333333 | experimental | [2] Zhao 2000; _cites ref. 68Bru_ | Table 2, p. 2, row 5 |  |
-| 2198.15 | eutectoid: Hf5Si3 -> Hf2Si + Hf3Si2 | Hf5Si3: Si 0.375; Hf2Si: Si 0.333333; Hf3Si2: Si 0.4 | experimental | [2] Zhao 2000 | Table 2, p. 2, row 9 |  |
-| 2198.15 | Hf5Si3->Hf2Si+Hf3Si2 | Hf5Si3: Si 0.375; Hf2Si: Si 0.333; Hf3Si2: Si 0.4 | model | [1] Yang 2003 | Table 3, p. 3, row 8 |  |
-| 2198.15 | Hf5Si3->Hf2Si+Hf3Si2 | Hf5Si3: Hf 0.625, Si 0.375; Hf2Si: Hf 0.666667, Si 0.333333; Hf3Si2: Si 0.4 | experimental | [1] Yang 2003; _cites Brukl 1968_ | Table 3, p. 3, row 9 |  |
-| 2198.15 | eutectoid: Hf5Si3 ↔ Hf2Si + Hf3Si2 |  | experimental | [2] Zhao 2000 | p. 3 | “Based on the above data, it is clear that the eutectoid reaction, Hf5Si3 ↔ Hf2Si + Hf3Si2, exists at 1925 ± 25 °C.” |
-| 2197.15 | eutectoid: Hf5Si3 -> Hf2Si + Hf3Si2 | Hf5Si3: Si 0.375; Hf2Si: Si 0.333333; Hf3Si2: Si 0.4 | model | [2] Zhao 2000 | Table 2, p. 2, row 10 |  |
-| 2104.15 | L->bcc(Hf)+Hf2Si | L: Si 0.115; Hf2Si: Hf 0.666667, Si 0.333333 | experimental | [1] Yang 2003; _cites Brukl 1968_ | Table 3, p. 3, row 2 |  |
-| 2104.15 | eutectic: L -> bcc (Hf) + Hf2Si | L: Si 0.115; Hf2Si: Si 0.333333 | experimental | [2] Zhao 2000; _cites ref. 68Bru_ | Table 2, p. 2, row 1 |  |
-| 2101.15 | eutectic: L -> bcc (Hf) + Hf2Si | L: Si 0.111; Hf2Si: Si 0.333333 | model | [2] Zhao 2000 | Table 2, p. 2, row 2 |  |
-| 2100.15 | L->bcc(Hf)+Hf2Si | L: Si 0.12; bcc(Hf): Si 0; Hf2Si: Si 0.333 | model | [1] Yang 2003 | Table 3, p. 3, row 1 |  |
-| 2016.15 | peritectoid: Bcc (Hf) + Hf2Si -> hcp (Hf) | Hf2Si: Si 0.333333 | model | [2] Zhao 2000 | Table 2, p. 2, row 4 |  |
-| 2016.15 | peritectoid: Bcc (Hf) + Hf2Si -> hcp (Hf) | Hf2Si: Si 0.333333 | experimental | [2] Zhao 2000; _cites ref. 68Bru_ | Table 2, p. 2, row 3 |  |
-| 1819.15 | peritectic: HfSi + L -> HfSi2 | HfSi: Si 0.5; L: Si 0.808; HfSi2: Si 0.666667 | model | [2] Zhao 2000 | Table 2, p. 2, row 18 |  |
-| 1816.15 | peritectic: HfSi + L -> HfSi2 | HfSi: Si 0.5; HfSi2: Si 0.666667 | experimental | [2] Zhao 2000; _cites ref. 68Bru_ | Table 2, p. 2, row 17 |  |
-| 1816.15 | L+HfSi->HfSi2 | HfSi: Hf 0.5, Si 0.5; HfSi2: Hf 0.333333, Si 0.666667 | experimental | [1] Yang 2003; _cites Brukl 1968_ | Table 3, p. 3, row 15 |  |
-| 1814.15 | L+HfSi->HfSi2 | L: Si 0.762; HfSi: Si 0.5; HfSi2: Si 0.667 | model | [1] Yang 2003 | Table 3, p. 3, row 14 |  |
-| 1603.15 | L->HfSi2+(Si) | L: Si 0.91; HfSi2: Hf 0.333333, Si 0.666667 | experimental | [1] Yang 2003; _cites Brukl 1968_ | Table 3, p. 3, row 17 |  |
-| 1603.15 | eutectic: L -> HfSi2 + diamond_A4 (Si) | L: Si 0.91; HfSi2: Si 0.666667; diamond_A4 (Si): Si 1 | experimental | [2] Zhao 2000; _cites ref. 68Bru_ | Table 2, p. 2, row 19 |  |
-| 1603.15 | L->HfSi2+(Si) | L: Si 0.893; HfSi2: Si 0.667; (Si): Si 1 | model | [1] Yang 2003 | Table 3, p. 3, row 16 |  |
-| 1598.15 | eutectic: L -> HfSi2 + diamond_A4 (Si) | L: Si 0.908; HfSi2: Si 0.666667; diamond_A4 (Si): Si 1 | model | [2] Zhao 2000 | Table 2, p. 2, row 20 |  |
+| 2753.15 | L->Hf3Si2 | L: Si 0.4; Hf3Si2: Hf 0.6, Si 0.4 | experimental | [1] Yang 2003; _cites Brukl 1968_ | Table 3, p. 3, row 21; `ORC-DQXMHMYEPN` |  |
+| 2736.15 | L->Hf3Si2 | L: Si 0.4; Hf3Si2: Hf 0.6, Si 0.4 | model | [1] Yang 2003 | Table 3, p. 3, row 20; `ORC-NM74MT6ONK` |  |
+| 2633.15 | L+Hf3Si2->Hf5Si3 | Hf3Si2: Hf 0.6, Si 0.4; Hf5Si3: Hf 0.625, Si 0.375 | experimental | [1] Yang 2003; _cites Brukl 1968_ | Table 3, p. 3, row 7; `ORC-2CQHYEOYAE` |  |
+| 2633.15 | peritectic: L + Hf3Si2 ↔ Hf5Si3 |  | experimental | [2] Zhao 2000; _cites Brukl 1968_ | p. 1; `ORC-LRWF53FSEB` | “The upper stability temperature of the Hf5Si3 phase was estimated at 2360 ± 30 °C, based on the incipient melting and collapsing data of Brukl \[1968Bru\]. The incipient melting and collapsing data exhibited a small plateau in the phase diagram while there was an invariant reaction, as shown in Fig. 1. It seems that there was a plateau at about 2360 ± 30 °C in the composition region close to Hf5Si3…” |
+| 2633.15 | peritectic: L + Hf3Si2 -> Hf5Si3 | Hf3Si2: Si 0.4; Hf5Si3: Si 0.375 | model | [2] Zhao 2000 | Table 2, p. 2, row 7; `ORC-VHBKKZEWW6` |  |
+| 2630.15 | peritectic: L + Hf3Si2 -> Hf5Si3 | L: Si 0.277; Hf3Si2: Si 0.4; Hf5Si3: Si 0.375 | model | [2] Zhao 2000 | Table 2, p. 2, row 8; `ORC-AVOEOJDPZI` |  |
+| 2628.15 | L+Hf3Si2->Hf5Si3 | L: Si 0.303; Hf3Si2: Si 0.4; Hf5Si3: Si 0.375 | model | [1] Yang 2003 | Table 3, p. 3, row 6; `ORC-WULEIWIIBV` |  |
+| 2594.15 | L+Hf3Si2->Hf5Si4 | L: Si 0.509; Hf3Si2: Si 0.4; Hf5Si4: Si 0.444 | model | [1] Yang 2003 | Table 3, p. 3, row 10; `ORC-RHSO3CYW7P` |  |
+| 2593.15 | peritectic: Hf3Si2 + L -> Hf5Si4 | Hf3Si2: Si 0.4; Hf5Si4: Si 0.444444 | experimental | [2] Zhao 2000; _cites ref. 68Bru_ | Table 2, p. 2, row 13; `ORC-4UOALP6XD3` |  |
+| 2593.15 | L+Hf3Si2->Hf5Si4 | Hf3Si2: Hf 0.6, Si 0.4; Hf5Si4: Hf 0.555556, Si 0.444444 | experimental | [1] Yang 2003; _cites Brukl 1968_ | Table 3, p. 3, row 11; `ORC-DWDYXR6IPF` |  |
+| 2586.15 | peritectic: Hf3Si2 + L -> Hf5Si4 | Hf3Si2: Si 0.4; L: Si 0.546; Hf5Si4: Si 0.444444 | model | [2] Zhao 2000 | Table 2, p. 2, row 14; `ORC-OVXPJMYGV6` |  |
+| 2418.15 | L+Hf5Si4->HfSi | L: Si 0.583; Hf5Si4: Si 0.444; HfSi: Si 0.5 | model | [1] Yang 2003 | Table 3, p. 3, row 12; `ORC-MCVK6PUZ53` |  |
+| 2415.15 | L+Hf5Si4->HfSi | Hf5Si4: Hf 0.555556, Si 0.444444; HfSi: Hf 0.5, Si 0.5 | experimental | [1] Yang 2003; _cites Brukl 1968_ | Table 3, p. 3, row 13; `ORC-7MTHVOCIYL` |  |
+| 2415.15 | peritectic: Hf5Si4 + L -> HfSi | Hf5Si4: Si 0.444444; HfSi: Si 0.5 | experimental | [2] Zhao 2000; _cites ref. 68Bru_ | Table 2, p. 2, row 15; `ORC-H72LOCV5FE` |  |
+| 2406.15 | peritectic: Hf5Si4 + L -> HfSi | Hf5Si4: Si 0.444444; L: Si 0.628; HfSi: Si 0.5 | model | [2] Zhao 2000 | Table 2, p. 2, row 16; `ORC-OTHNIGW3GL` |  |
+| 2365.15 | L+Hf5Si3->Hf2Si | L: Si 0.21; Hf5Si3: Si 0.375; Hf2Si: Si 0.333 | model | [1] Yang 2003 | Table 3, p. 3, row 3; `ORC-2P6V6S2LGP` |  |
+| 2359.15 | L+Hf5Si3->Hf2Si | L: Si 0.179; Hf5Si3: Si 0.375; Hf2Si: Si 0.333 | model | [1] Yang 2003; _cites Zhao 2000_ [doi](https://doi.org/10.1361/105497100770340408) | Table 3, p. 3, row 4; `ORC-5SBTCW5JSK` |  |
+| 2359.15 | peritectic: L + Hf5Si3 -> Hf2Si | L: Si 0.179; Hf5Si3: Si 0.375; Hf2Si: Si 0.333333 | model | [2] Zhao 2000 | Table 2, p. 2, row 6; `ORC-HAMW4VEQLF` |  |
+| 2356.15 | L+Hf5Si3->Hf2Si | Hf5Si3: Hf 0.625, Si 0.375; Hf2Si: Hf 0.666667, Si 0.333333 | experimental | [1] Yang 2003; _cites Brukl 1968_ | Table 3, p. 3, row 5; `ORC-CGUG24XROZ` |  |
+| 2356.15 | peritectic: L + Hf5Si3 -> Hf2Si | Hf5Si3: Si 0.375; Hf2Si: Si 0.333333 | experimental | [2] Zhao 2000; _cites ref. 68Bru_ | Table 2, p. 2, row 5; `ORC-RKDK4PMRKG` |  |
+| 2198.15 | eutectoid: Hf5Si3 -> Hf2Si + Hf3Si2 | Hf5Si3: Si 0.375; Hf2Si: Si 0.333333; Hf3Si2: Si 0.4 | experimental | [2] Zhao 2000 | Table 2, p. 2, row 9; `ORC-CC2JCK7FEQ` |  |
+| 2198.15 | Hf5Si3->Hf2Si+Hf3Si2 | Hf5Si3: Si 0.375; Hf2Si: Si 0.333; Hf3Si2: Si 0.4 | model | [1] Yang 2003 | Table 3, p. 3, row 8; `ORC-EX5PPSA2LA` |  |
+| 2198.15 | Hf5Si3->Hf2Si+Hf3Si2 | Hf5Si3: Hf 0.625, Si 0.375; Hf2Si: Hf 0.666667, Si 0.333333; Hf3Si2: Si 0.4 | experimental | [1] Yang 2003; _cites Brukl 1968_ | Table 3, p. 3, row 9; `ORC-NOCQ4FOP3B` |  |
+| 2198.15 | eutectoid: Hf5Si3 ↔ Hf2Si + Hf3Si2 |  | experimental | [2] Zhao 2000 | p. 3; `ORC-PO4HMQJLBW` | “Based on the above data, it is clear that the eutectoid reaction, Hf5Si3 ↔ Hf2Si + Hf3Si2, exists at 1925 ± 25 °C.” |
+| 2197.15 | eutectoid: Hf5Si3 -> Hf2Si + Hf3Si2 | Hf5Si3: Si 0.375; Hf2Si: Si 0.333333; Hf3Si2: Si 0.4 | model | [2] Zhao 2000 | Table 2, p. 2, row 10; `ORC-RQL2F54TO4` |  |
+| 2104.15 | L->bcc(Hf)+Hf2Si | L: Si 0.115; Hf2Si: Hf 0.666667, Si 0.333333 | experimental | [1] Yang 2003; _cites Brukl 1968_ | Table 3, p. 3, row 2; `ORC-25R37SRK3W` |  |
+| 2104.15 | eutectic: L -> bcc (Hf) + Hf2Si | L: Si 0.115; Hf2Si: Si 0.333333 | experimental | [2] Zhao 2000; _cites ref. 68Bru_ | Table 2, p. 2, row 1; `ORC-AKI5TVHLB7` |  |
+| 2101.15 | eutectic: L -> bcc (Hf) + Hf2Si | L: Si 0.111; Hf2Si: Si 0.333333 | model | [2] Zhao 2000 | Table 2, p. 2, row 2; `ORC-65PMR7I7UG` |  |
+| 2100.15 | L->bcc(Hf)+Hf2Si | L: Si 0.12; bcc(Hf): Si 0; Hf2Si: Si 0.333 | model | [1] Yang 2003 | Table 3, p. 3, row 1; `ORC-FJWGWYT7K5` |  |
+| 2016.15 | peritectoid: Bcc (Hf) + Hf2Si -> hcp (Hf) | Hf2Si: Si 0.333333 | model | [2] Zhao 2000 | Table 2, p. 2, row 4; `ORC-EXIAXQ3DVI` |  |
+| 2016.15 | peritectoid: Bcc (Hf) + Hf2Si -> hcp (Hf) | Hf2Si: Si 0.333333 | experimental | [2] Zhao 2000; _cites ref. 68Bru_ | Table 2, p. 2, row 3; `ORC-VNGYTCEOCN` |  |
+| 1819.15 | peritectic: HfSi + L -> HfSi2 | HfSi: Si 0.5; L: Si 0.808; HfSi2: Si 0.666667 | model | [2] Zhao 2000 | Table 2, p. 2, row 18; `ORC-TGND66FJPY` |  |
+| 1816.15 | peritectic: HfSi + L -> HfSi2 | HfSi: Si 0.5; HfSi2: Si 0.666667 | experimental | [2] Zhao 2000; _cites ref. 68Bru_ | Table 2, p. 2, row 17; `ORC-EWSMTAZE3V` |  |
+| 1816.15 | L+HfSi->HfSi2 | HfSi: Hf 0.5, Si 0.5; HfSi2: Hf 0.333333, Si 0.666667 | experimental | [1] Yang 2003; _cites Brukl 1968_ | Table 3, p. 3, row 15; `ORC-VLFUIXB7CY` |  |
+| 1814.15 | L+HfSi->HfSi2 | L: Si 0.762; HfSi: Si 0.5; HfSi2: Si 0.667 | model | [1] Yang 2003 | Table 3, p. 3, row 14; `ORC-VK76LKTZIN` |  |
+| 1603.15 | L->HfSi2+(Si) | L: Si 0.91; HfSi2: Hf 0.333333, Si 0.666667 | experimental | [1] Yang 2003; _cites Brukl 1968_ | Table 3, p. 3, row 17; `ORC-6RBWCTLYHD` |  |
+| 1603.15 | eutectic: L -> HfSi2 + diamond_A4 (Si) | L: Si 0.91; HfSi2: Si 0.666667; diamond_A4 (Si): Si 1 | experimental | [2] Zhao 2000; _cites ref. 68Bru_ | Table 2, p. 2, row 19; `ORC-II2T7VPYPT` |  |
+| 1603.15 | L->HfSi2+(Si) | L: Si 0.893; HfSi2: Si 0.667; (Si): Si 1 | model | [1] Yang 2003 | Table 3, p. 3, row 16; `ORC-SHNFFIRUSD` |  |
+| 1598.15 | eutectic: L -> HfSi2 + diamond_A4 (Si) | L: Si 0.908; HfSi2: Si 0.666667; diamond_A4 (Si): Si 1 | model | [2] Zhao 2000 | Table 2, p. 2, row 20; `ORC-G53DU67IYP` |  |
 
 ## Formation enthalpies
 
@@ -164,13 +164,13 @@ Table: Enthalpies of formation, Hf–Si system (7)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Hf2Si | [Hf2Si](https://data.orchid-project.org/compounds/Hf2Si.html) | -62.7 kJ/mol-atom | 298.15 | unspecified | -69.475 (mp-aaaaaosg) | -71.646 (oqmd-7793) | [2] Zhao 2000; _cites Samsonov 1980_ [doi](https://doi.org/10.1007/978-1-4684-6099-5) | Table 3, p. 3, row 1 |  |
-| Hf3Si2 | [Hf3Si2](https://data.orchid-project.org/compounds/Hf3Si2.html) | -80 kJ/mol-atom ± 4.7 | 1473 | experimental | -74.298 (mp-aaaaadcz) | -77.301 (oqmd-647083) | [2] Zhao 2000; _cites Topor 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990292-r) | Table 3, p. 3, row 9 |  |
-| Hf5Si3 | [Hf5Si3](https://data.orchid-project.org/compounds/Hf5Si3.html) | -70.2 kJ/mol-atom | 298.15 | unspecified | -69.268 (mp-aaaaaxqb) | -71.886 (oqmd-647084) | [2] Zhao 2000; _cites Samsonov 1980_ [doi](https://doi.org/10.1007/978-1-4684-6099-5) | Table 3, p. 3, row 5 |  |
-| Hf5Si3 | [Hf5Si3](https://data.orchid-project.org/compounds/Hf5Si3.html) | -70.2 kJ/mol-atom ± 3.3 | 298.15 | experimental | -69.268 (mp-aaaaaxqb) | -71.886 (oqmd-647084) | [2] Zhao 2000; _cites Golutvin 1971_ | Table 3, p. 3, row 4 |  |
-| HfSi | [HfSi](https://data.orchid-project.org/compounds/HfSi.html) | -71.1 kJ/mol-atom | 298.15 | unspecified | -75.502 (mp-aaaaaboc) | -79.13 (oqmd-647082) | [2] Zhao 2000; _cites Samsonov 1980_ [doi](https://doi.org/10.1007/978-1-4684-6099-5) | Table 3, p. 3, row 13 |  |
-| HfSi | [HfSi](https://data.orchid-project.org/compounds/HfSi.html) | -71.1 kJ/mol-atom ± 4.6 | 298.15 | experimental | -75.502 (mp-aaaaaboc) | -79.13 (oqmd-647082) | [2] Zhao 2000; _cites Golutvin 1971_ | Table 3, p. 3, row 12 |  |
-| HfSi | [HfSi](https://data.orchid-project.org/compounds/HfSi.html) | -70.9 kJ/mol-atom ± 2 | 1473 | experimental | -75.502 (mp-aaaaaboc) | -79.13 (oqmd-647082) | [2] Zhao 2000; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900747-6) | Table 3, p. 3, row 15 |  |
+| Hf2Si | [Hf2Si](https://data.orchid-project.org/compounds/Hf2Si.html) | -62.7 kJ/mol-atom | 298.15 | unspecified | -69.475 (mp-aaaaaosg) | -71.646 (oqmd-7793) | [2] Zhao 2000; _cites Samsonov 1980_ [doi](https://doi.org/10.1007/978-1-4684-6099-5) | Table 3, p. 3, row 1; `ORC-XMCR6DJ76G` |  |
+| Hf3Si2 | [Hf3Si2](https://data.orchid-project.org/compounds/Hf3Si2.html) | -80 kJ/mol-atom ± 4.7 | 1473 | experimental | -74.298 (mp-aaaaadcz) | -77.301 (oqmd-647083) | [2] Zhao 2000; _cites Topor 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990292-r) | Table 3, p. 3, row 9; `ORC-GVZJCFBURB.d0f825` |  |
+| Hf5Si3 | [Hf5Si3](https://data.orchid-project.org/compounds/Hf5Si3.html) | -70.2 kJ/mol-atom | 298.15 | unspecified | -69.268 (mp-aaaaaxqb) | -71.886 (oqmd-647084) | [2] Zhao 2000; _cites Samsonov 1980_ [doi](https://doi.org/10.1007/978-1-4684-6099-5) | Table 3, p. 3, row 5; `ORC-CH4W63JO64` |  |
+| Hf5Si3 | [Hf5Si3](https://data.orchid-project.org/compounds/Hf5Si3.html) | -70.2 kJ/mol-atom ± 3.3 | 298.15 | experimental | -69.268 (mp-aaaaaxqb) | -71.886 (oqmd-647084) | [2] Zhao 2000; _cites Golutvin 1971_ | Table 3, p. 3, row 4; `ORC-NSLZ5NLCAN.5e930d` |  |
+| HfSi | [HfSi](https://data.orchid-project.org/compounds/HfSi.html) | -71.1 kJ/mol-atom | 298.15 | unspecified | -75.502 (mp-aaaaaboc) | -79.13 (oqmd-647082) | [2] Zhao 2000; _cites Samsonov 1980_ [doi](https://doi.org/10.1007/978-1-4684-6099-5) | Table 3, p. 3, row 13; `ORC-IEUGQ7CJKP` |  |
+| HfSi | [HfSi](https://data.orchid-project.org/compounds/HfSi.html) | -71.1 kJ/mol-atom ± 4.6 | 298.15 | experimental | -75.502 (mp-aaaaaboc) | -79.13 (oqmd-647082) | [2] Zhao 2000; _cites Golutvin 1971_ | Table 3, p. 3, row 12; `ORC-VWFCJHEUZJ.3fa291` |  |
+| HfSi | [HfSi](https://data.orchid-project.org/compounds/HfSi.html) | -70.9 kJ/mol-atom ± 2 | 1473 | experimental | -75.502 (mp-aaaaaboc) | -79.13 (oqmd-647082) | [2] Zhao 2000; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900747-6) | Table 3, p. 3, row 15; `ORC-SYPHVE2N5D.50bf91` |  |
 
 ## Other properties
 
@@ -180,8 +180,8 @@ Table: Phase transition, Hf–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 2753.15 K | 2753.15 | congruent melting: L -> Hf3Si2; _L: Si 0.4; Hf3Si2: Si 0.4_ | model | [2] Zhao 2000 | Table 2, p. 2, row 12 |  |
-| Phase transition | 2753.15 K | 2753.15 | congruent melting: L -> Hf3Si2; _L: Si 0.4; Hf3Si2: Si 0.4_ | experimental | [2] Zhao 2000; _cites ref. 68Bru_ | Table 2, p. 2, row 11 |  |
+| Phase transition | 2753.15 K | 2753.15 | congruent melting: L -> Hf3Si2; _L: Si 0.4; Hf3Si2: Si 0.4_ | model | [2] Zhao 2000 | Table 2, p. 2, row 12; `ORC-AH3TB4CK4N` |  |
+| Phase transition | 2753.15 K | 2753.15 | congruent melting: L -> Hf3Si2; _L: Si 0.4; Hf3Si2: Si 0.4_ | experimental | [2] Zhao 2000; _cites ref. 68Bru_ | Table 2, p. 2, row 11; `ORC-T4PPS65GF3` |  |
 
 ### Phase equilibrium (1)
 
@@ -189,7 +189,7 @@ Table: Phase equilibrium, Hf–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase assemblage |  | 2223.15 | Hf5Si3 + Hf2Si; _alloy: Si 0.35_ | experimental | [2] Zhao 2000 | p. 3 | “The microstructure of the Hf-35at.%Si annealed at 1950 °C consisted mostly of the Hf5Si3 and Hf2Si, as shown in Fig. 2.” |
+| Phase assemblage |  | 2223.15 | Hf5Si3 + Hf2Si; _alloy: Si 0.35_ | experimental | [2] Zhao 2000 | p. 3; `ORC-G7OCTBZQ7T` | “The microstructure of the Hf-35at.%Si annealed at 1950 °C consisted mostly of the Hf5Si3 and Hf2Si, as shown in Fig. 2.” |
 
 ### Crystal structure (14)
 
@@ -197,20 +197,20 @@ Table: Crystal structure, Hf–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 6.889 Å | 298.15 | HfSi; _alloy: Si 0.5_ | unspecified | [2] Zhao 2000; _cites Karpinsky 1969_ | Table 1, p. 2, row 5 |  |
-| Lattice a | 7.844 Å | 298.15 | UNKNOWN; _alloy: Si 0.375_ | unspecified | [2] Zhao 2000; _cites Karpinsky 1969_ | Table 1, p. 2, row 2 |  |
-| Lattice a | 6.988 Å | 298.15 | UNKNOWN; _alloy: Si 0.4_ | unspecified | [2] Zhao 2000; _cites Karpinsky 1969_ | Table 1, p. 2, row 3 |  |
-| Lattice a | 3.672 Å | 298.15 | UNKNOWN; _alloy: Si 0.666667_ | unspecified | [2] Zhao 2000; _cites Karpinsky 1969_ | Table 1, p. 2, row 6 |  |
-| Lattice a | 6.553 Å | 298.15 | UNKNOWN; _alloy: Si 0.333333_ | unspecified | [2] Zhao 2000; _cites Havinga 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990028-8) | Table 1, p. 2, row 1 |  |
-| Lattice a | 7.039 Å | 298.15 | UNKNOWN; _alloy: Si 0.444444_ | unspecified | [2] Zhao 2000; _cites Karpinsky 1969_ | Table 1, p. 2, row 4 |  |
-| Lattice b | 3.772 Å | 298.15 | HfSi; _alloy: Si 0.5_ | unspecified | [2] Zhao 2000; _cites Karpinsky 1969_ | Table 1, p. 2, row 5 |  |
-| Lattice b | 14.57 Å | 298.15 | UNKNOWN; _alloy: Si 0.666667_ | unspecified | [2] Zhao 2000; _cites Karpinsky 1969_ | Table 1, p. 2, row 6 |  |
-| Lattice c | 5.223 Å | 298.15 | HfSi; _alloy: Si 0.5_ | unspecified | [2] Zhao 2000; _cites Karpinsky 1969_ | Table 1, p. 2, row 5 |  |
-| Lattice c | 5.492 Å | 298.15 | UNKNOWN; _alloy: Si 0.375_ | unspecified | [2] Zhao 2000; _cites Karpinsky 1969_ | Table 1, p. 2, row 2 |  |
-| Lattice c | 3.675 Å | 298.15 | UNKNOWN; _alloy: Si 0.4_ | unspecified | [2] Zhao 2000; _cites Karpinsky 1969_ | Table 1, p. 2, row 3 |  |
-| Lattice c | 3.641 Å | 298.15 | UNKNOWN; _alloy: Si 0.666667_ | unspecified | [2] Zhao 2000; _cites Karpinsky 1969_ | Table 1, p. 2, row 6 |  |
-| Lattice c | 5.186 Å | 298.15 | UNKNOWN; _alloy: Si 0.333333_ | unspecified | [2] Zhao 2000; _cites Havinga 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990028-8) | Table 1, p. 2, row 1 |  |
-| Lattice c | 12.83 Å | 298.15 | UNKNOWN; _alloy: Si 0.444444_ | unspecified | [2] Zhao 2000; _cites Karpinsky 1969_ | Table 1, p. 2, row 4 |  |
+| Lattice a | 6.889 Å | 298.15 | HfSi; _alloy: Si 0.5_ | unspecified | [2] Zhao 2000; _cites Karpinsky 1969_ | Table 1, p. 2, row 5; `ORC-JW6RU27GDG.e74c81` |  |
+| Lattice a | 7.844 Å | 298.15 | UNKNOWN; _alloy: Si 0.375_ | unspecified | [2] Zhao 2000; _cites Karpinsky 1969_ | Table 1, p. 2, row 2; `ORC-JBIGLWPGTE.851967` |  |
+| Lattice a | 6.988 Å | 298.15 | UNKNOWN; _alloy: Si 0.4_ | unspecified | [2] Zhao 2000; _cites Karpinsky 1969_ | Table 1, p. 2, row 3; `ORC-N7V7YNMRQS.067a6f` |  |
+| Lattice a | 3.672 Å | 298.15 | UNKNOWN; _alloy: Si 0.666667_ | unspecified | [2] Zhao 2000; _cites Karpinsky 1969_ | Table 1, p. 2, row 6; `ORC-PLBJO2DIH6.8e0087` |  |
+| Lattice a | 6.553 Å | 298.15 | UNKNOWN; _alloy: Si 0.333333_ | unspecified | [2] Zhao 2000; _cites Havinga 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990028-8) | Table 1, p. 2, row 1; `ORC-QURHNRN32W.971e92` |  |
+| Lattice a | 7.039 Å | 298.15 | UNKNOWN; _alloy: Si 0.444444_ | unspecified | [2] Zhao 2000; _cites Karpinsky 1969_ | Table 1, p. 2, row 4; `ORC-TDVCQMAIPA.495127` |  |
+| Lattice b | 3.772 Å | 298.15 | HfSi; _alloy: Si 0.5_ | unspecified | [2] Zhao 2000; _cites Karpinsky 1969_ | Table 1, p. 2, row 5; `ORC-JW6RU27GDG.e67b3c` |  |
+| Lattice b | 14.57 Å | 298.15 | UNKNOWN; _alloy: Si 0.666667_ | unspecified | [2] Zhao 2000; _cites Karpinsky 1969_ | Table 1, p. 2, row 6; `ORC-PLBJO2DIH6.7a5961` |  |
+| Lattice c | 5.223 Å | 298.15 | HfSi; _alloy: Si 0.5_ | unspecified | [2] Zhao 2000; _cites Karpinsky 1969_ | Table 1, p. 2, row 5; `ORC-JW6RU27GDG.d5a4d3` |  |
+| Lattice c | 5.492 Å | 298.15 | UNKNOWN; _alloy: Si 0.375_ | unspecified | [2] Zhao 2000; _cites Karpinsky 1969_ | Table 1, p. 2, row 2; `ORC-JBIGLWPGTE.479c1a` |  |
+| Lattice c | 3.675 Å | 298.15 | UNKNOWN; _alloy: Si 0.4_ | unspecified | [2] Zhao 2000; _cites Karpinsky 1969_ | Table 1, p. 2, row 3; `ORC-N7V7YNMRQS.7ee8eb` |  |
+| Lattice c | 3.641 Å | 298.15 | UNKNOWN; _alloy: Si 0.666667_ | unspecified | [2] Zhao 2000; _cites Karpinsky 1969_ | Table 1, p. 2, row 6; `ORC-PLBJO2DIH6.09b99c` |  |
+| Lattice c | 5.186 Å | 298.15 | UNKNOWN; _alloy: Si 0.333333_ | unspecified | [2] Zhao 2000; _cites Havinga 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990028-8) | Table 1, p. 2, row 1; `ORC-QURHNRN32W.b85c2e` |  |
+| Lattice c | 12.83 Å | 298.15 | UNKNOWN; _alloy: Si 0.444444_ | unspecified | [2] Zhao 2000; _cites Karpinsky 1969_ | Table 1, p. 2, row 4; `ORC-TDVCQMAIPA.74b563` |  |
 
 ## Sources
 
@@ -276,4 +276,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

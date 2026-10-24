@@ -71,20 +71,20 @@ Table: Invariant reactions reported in the literature for the V–Zn system (14)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 943.15 | L + (V) -> V4Zn5 | L: Zn 0.9903; V4Zn5: V 0.444444, Zn 0.555556 | model | [1] Chang 2010 | Table 2, p. 2, row 2 |  |
-| 943.15 | L + (V) -> V4Zn5 | L: Zn 0.9904; V4Zn5: V 0.444444, Zn 0.555556 | experimental | [1] Chang 2010; _cites Chasanov 1963_ | Table 2, p. 2, row 1 |  |
-| 924.15 | peritectic |  | experimental | [2] Wu 2011 | p. 1 | “The peritectic temperatures for two equilibrium phases, V4 Zn5 and VZn3 , were 651 ◦ C and 621 ◦ C, respectively.” |
-| 924.15 | peritectic: (V) + Liq ↔ V4 Zn5 |  | experimental | [2] Wu 2011 | p. 5 | “A thermodynamic reassessment of the V-Zn system was justified based on the new findings made in the present study: (1) It was confirmed that VZn16 was a stable compound; (2) The peritectic reaction temperature of (V) + Liq ↔ V4 Zn5 was determined to be 651 °C, which was significantly lower than a previous report; and (3) The solubility of Zn in V was measured.” |
-| 924.15 | peritectic |  | experimental | [2] Wu 2011 | p. 8 | “(3) The peritectic reaction temperatures for VZn3 and V4 Zn5 were determined to be 621 °C and 651 °C, respectively.” |
-| 896.15 | L + V4Zn5 -> VZn3 | L: Zn 0.9915; V4Zn5: V 0.444444, Zn 0.555556; VZn3: V 0.25, Zn 0.75 | model | [1] Chang 2010 | Table 2, p. 2, row 4 |  |
-| 896.15 | L + V4Zn5 -> VZn3 | L: Zn 0.9915; V4Zn5: V 0.444444, Zn 0.555556; VZn3: V 0.25, Zn 0.75 | experimental | [1] Chang 2010; _cites Chasanov 1963_ | Table 2, p. 2, row 3 |  |
-| 894.15 | peritectic |  | experimental | [2] Wu 2011 | p. 1 | “The peritectic temperatures for two equilibrium phases, V4 Zn5 and VZn3 , were 651 ◦ C and 621 ◦ C, respectively.” |
-| 894.15 | peritectic |  | experimental | [2] Wu 2011 | p. 4 | “It is worth noting that the equilibrium peritectic temperature of VZn3 is 621 °C.” |
-| 894.15 | peritectic |  | experimental | [2] Wu 2011 | p. 8 | “(3) The peritectic reaction temperatures for VZn3 and V4 Zn5 were determined to be 621 °C and 651 °C, respectively.” |
-| 700.15 | peritectic |  | experimental | [2] Wu 2011 | p. 1 | “DTA results indicated that the peritectic temperature for VZn16 was about 427 ◦ C.” |
-| 700.15 | peritectic: VZn3 + Liq. → VZn16 |  | experimental | [2] Wu 2011 | p. 3 | “Therefore, it was believed that the peritectic reaction temperature of VZn3 + Liq. → VZn16 was around 427 °C.” |
-| 691.85 | L -> VZn3 + (Zn) | L: Zn 0.99823; VZn3: V 0.25, Zn 0.75 | model | [1] Chang 2010 | Table 2, p. 2, row 6 |  |
-| 690.45 | L -> VZn3 + (Zn) | L: Zn 0.99828; VZn3: V 0.25, Zn 0.75 | experimental | [1] Chang 2010; _cites Chasanov 1963_ | Table 2, p. 2, row 5 |  |
+| 943.15 | L + (V) -> V4Zn5 | L: Zn 0.9903; V4Zn5: V 0.444444, Zn 0.555556 | model | [1] Chang 2010 | Table 2, p. 2, row 2; `ORC-CQG262CS56` |  |
+| 943.15 | L + (V) -> V4Zn5 | L: Zn 0.9904; V4Zn5: V 0.444444, Zn 0.555556 | experimental | [1] Chang 2010; _cites Chasanov 1963_ | Table 2, p. 2, row 1; `ORC-WCMSVCRESD` |  |
+| 924.15 | peritectic |  | experimental | [2] Wu 2011 | p. 1; `ORC-2QJCB5YYM3.0b6be8` | “The peritectic temperatures for two equilibrium phases, V4 Zn5 and VZn3 , were 651 ◦ C and 621 ◦ C, respectively.” |
+| 924.15 | peritectic: (V) + Liq ↔ V4 Zn5 |  | experimental | [2] Wu 2011 | p. 5; `ORC-HY7P74EI6X` | “A thermodynamic reassessment of the V-Zn system was justified based on the new findings made in the present study: (1) It was confirmed that VZn16 was a stable compound; (2) The peritectic reaction temperature of (V) + Liq ↔ V4 Zn5 was determined to be 651 °C, which was significantly lower than a previous report; and (3) The solubility of Zn in V was measured.” |
+| 924.15 | peritectic |  | experimental | [2] Wu 2011 | p. 8; `ORC-TVOMO756PZ.8f6340` | “(3) The peritectic reaction temperatures for VZn3 and V4 Zn5 were determined to be 621 °C and 651 °C, respectively.” |
+| 896.15 | L + V4Zn5 -> VZn3 | L: Zn 0.9915; V4Zn5: V 0.444444, Zn 0.555556; VZn3: V 0.25, Zn 0.75 | model | [1] Chang 2010 | Table 2, p. 2, row 4; `ORC-FXNGNBRBBO` |  |
+| 896.15 | L + V4Zn5 -> VZn3 | L: Zn 0.9915; V4Zn5: V 0.444444, Zn 0.555556; VZn3: V 0.25, Zn 0.75 | experimental | [1] Chang 2010; _cites Chasanov 1963_ | Table 2, p. 2, row 3; `ORC-LZ5Q64QOLA` |  |
+| 894.15 | peritectic |  | experimental | [2] Wu 2011 | p. 1; `ORC-2QJCB5YYM3.cfd4e3` | “The peritectic temperatures for two equilibrium phases, V4 Zn5 and VZn3 , were 651 ◦ C and 621 ◦ C, respectively.” |
+| 894.15 | peritectic |  | experimental | [2] Wu 2011 | p. 4; `ORC-PGE5TRAMDG` | “It is worth noting that the equilibrium peritectic temperature of VZn3 is 621 °C.” |
+| 894.15 | peritectic |  | experimental | [2] Wu 2011 | p. 8; `ORC-TVOMO756PZ.80827a` | “(3) The peritectic reaction temperatures for VZn3 and V4 Zn5 were determined to be 621 °C and 651 °C, respectively.” |
+| 700.15 | peritectic |  | experimental | [2] Wu 2011 | p. 1; `ORC-33DUNZJZYZ` | “DTA results indicated that the peritectic temperature for VZn16 was about 427 ◦ C.” |
+| 700.15 | peritectic: VZn3 + Liq. → VZn16 |  | experimental | [2] Wu 2011 | p. 3; `ORC-VST2RJVSB4` | “Therefore, it was believed that the peritectic reaction temperature of VZn3 + Liq. → VZn16 was around 427 °C.” |
+| 691.85 | L -> VZn3 + (Zn) | L: Zn 0.99823; VZn3: V 0.25, Zn 0.75 | model | [1] Chang 2010 | Table 2, p. 2, row 6; `ORC-GKSVD3IDTL` |  |
+| 690.45 | L -> VZn3 + (Zn) | L: Zn 0.99828; VZn3: V 0.25, Zn 0.75 | experimental | [1] Chang 2010; _cites Chasanov 1963_ | Table 2, p. 2, row 5; `ORC-D5VNFQECJG` |  |
 
 ## Formation enthalpies
 
@@ -94,7 +94,7 @@ Table: Enthalpies of formation, V–Zn system (1)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | -1.1 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Wu 2011 | p. 7 | “The formation enthalpy of VZn16 was given a small value of -1100 J/mol at 298 K by considering the difficulty of its formation.” |
+| — |  | -1.1 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Wu 2011 | p. 7; `ORC-UVTOKO7X6K` | “The formation enthalpy of VZn16 was given a small value of -1100 J/mol at 298 K by considering the difficulty of its formation.” |
 
 ## Other properties
 
@@ -104,10 +104,10 @@ Table: Phase transition, V–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 894.15 K | 894.15 | VZn3 | experimental | [2] Wu 2011 | p. 3 | “From the DTA test results of some V-Zn alloys with heating rate of 3 °C/min, it can be determined that the transformation temperature for VZn3 is 621 °C, which agrees well with Chasanov's results \[5\].” |
-| Phase transition | 924.15 K | 924.15 | V4Zn5 | experimental | [2] Wu 2011 | p. 3 | “The transformation temperature for V4 Zn5 is 651 °C, which is 18 °C lower than Chasanov's results \[5\].” |
-| Phase transition | 1179.65 K | 1179.65 | Gas + (V) ↔ Liquid | model | [2] Wu 2011 | p. 7 | “According to the calculation, there is one invariant reaction: Gas + (V) ↔ Liquid at 906.5 °C.” |
-| Phase transition | 1193.75 K | 1193.75 | Gas + (V) ↔ Liquid | model | [1] Chang 2010 | p. 4 | “According to the calculation, there is one invariant reaction: Gas + (V) ↔ Liquid at 920.6 ◦ C.” |
+| Phase transition | 894.15 K | 894.15 | VZn3 | experimental | [2] Wu 2011 | p. 3; `ORC-V4PHTIWVRO` | “From the DTA test results of some V-Zn alloys with heating rate of 3 °C/min, it can be determined that the transformation temperature for VZn3 is 621 °C, which agrees well with Chasanov's results \[5\].” |
+| Phase transition | 924.15 K | 924.15 | V4Zn5 | experimental | [2] Wu 2011 | p. 3; `ORC-MP6FZVLTHQ` | “The transformation temperature for V4 Zn5 is 651 °C, which is 18 °C lower than Chasanov's results \[5\].” |
+| Phase transition | 1179.65 K | 1179.65 | Gas + (V) ↔ Liquid | model | [2] Wu 2011 | p. 7; `ORC-RREJOVZYKS` | “According to the calculation, there is one invariant reaction: Gas + (V) ↔ Liquid at 906.5 °C.” |
+| Phase transition | 1193.75 K | 1193.75 | Gas + (V) ↔ Liquid | model | [1] Chang 2010 | p. 4; `ORC-UIQAO6GC44` | “According to the calculation, there is one invariant reaction: Gas + (V) ↔ Liquid at 920.6 ◦ C.” |
 
 ### Crystal structure (9)
 
@@ -115,15 +115,15 @@ Table: Crystal structure, V–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.8872 Å |  | V4Zn5; _alloy: Zn 0.555556_ | unspecified | [1] Chang 2010 | Table 1, p. 2, row 7 |  |
-| Lattice a | 0.3823 Å |  | VZn3; _alloy: Zn 0.75_ | unspecified | [1] Chang 2010 | Table 1, p. 2, row 10 |  |
-| Lattice a | 0.891 Å | 298.15 | V4Zn5; _alloy: Zn 0.555556_ | experimental | [1] Chang 2010; _cites Piotrowski 1965_ | Table 1, p. 2, row 6 |  |
-| Lattice a | 0.891 Å | 298.15 | V4Zn5; _alloy: Zn 0.555556_ | experimental | [1] Chang 2010; _cites Chasanov 1963_ | Table 1, p. 2, row 5 |  |
-| Lattice a | 0.3848 Å | 298.15 | VZn3; _alloy: Zn 0.75_ | experimental | [1] Chang 2010; _cites Chasanov 1963_ | Table 1, p. 2, row 8 |  |
-| Lattice a | 0.3849 Å | 298.15 | VZn3; _alloy: Zn 0.75_ | experimental | [1] Chang 2010; _cites Wendorff 1964_ | Table 1, p. 2, row 9 |  |
-| Lattice c | 0.3196 Å |  | V4Zn5; _alloy: Zn 0.555556_ | unspecified | [1] Chang 2010 | Table 1, p. 2, row 7 |  |
-| Lattice c | 0.322 Å | 298.15 | V4Zn5; _alloy: Zn 0.555556_ | experimental | [1] Chang 2010; _cites Piotrowski 1965_ | Table 1, p. 2, row 6 |  |
-| Lattice c | 0.3227 Å | 298.15 | V4Zn5; _alloy: Zn 0.555556_ | experimental | [1] Chang 2010; _cites Chasanov 1963_ | Table 1, p. 2, row 5 |  |
+| Lattice a | 0.8872 Å |  | V4Zn5; _alloy: Zn 0.555556_ | unspecified | [1] Chang 2010 | Table 1, p. 2, row 7; `ORC-WUV5BQ352M.c6fb94` |  |
+| Lattice a | 0.3823 Å |  | VZn3; _alloy: Zn 0.75_ | unspecified | [1] Chang 2010 | Table 1, p. 2, row 10; `ORC-ECVDXZETCS` |  |
+| Lattice a | 0.891 Å | 298.15 | V4Zn5; _alloy: Zn 0.555556_ | experimental | [1] Chang 2010; _cites Piotrowski 1965_ | Table 1, p. 2, row 6; `ORC-CNFCZI3WBB.b9bc0f` |  |
+| Lattice a | 0.891 Å | 298.15 | V4Zn5; _alloy: Zn 0.555556_ | experimental | [1] Chang 2010; _cites Chasanov 1963_ | Table 1, p. 2, row 5; `ORC-ZUUODL6OSZ.18c2b5` |  |
+| Lattice a | 0.3848 Å | 298.15 | VZn3; _alloy: Zn 0.75_ | experimental | [1] Chang 2010; _cites Chasanov 1963_ | Table 1, p. 2, row 8; `ORC-KPE2ZSVJ2B` |  |
+| Lattice a | 0.3849 Å | 298.15 | VZn3; _alloy: Zn 0.75_ | experimental | [1] Chang 2010; _cites Wendorff 1964_ | Table 1, p. 2, row 9; `ORC-VKSL4JMPLE` |  |
+| Lattice c | 0.3196 Å |  | V4Zn5; _alloy: Zn 0.555556_ | unspecified | [1] Chang 2010 | Table 1, p. 2, row 7; `ORC-WUV5BQ352M.977790` |  |
+| Lattice c | 0.322 Å | 298.15 | V4Zn5; _alloy: Zn 0.555556_ | experimental | [1] Chang 2010; _cites Piotrowski 1965_ | Table 1, p. 2, row 6; `ORC-CNFCZI3WBB.923cbe` |  |
+| Lattice c | 0.3227 Å | 298.15 | V4Zn5; _alloy: Zn 0.555556_ | experimental | [1] Chang 2010; _cites Chasanov 1963_ | Table 1, p. 2, row 5; `ORC-ZUUODL6OSZ.cd9050` |  |
 
 ## Sources
 
@@ -189,4 +189,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

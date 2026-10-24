@@ -68,11 +68,11 @@ Table: Invariant reactions reported in the literature for the Ca–Cu system (5)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1190 | eutectic |  | experimental | [1] Risold 1996; _cites ref. 7_ | p. 2 | “The eutectic reaction L ++ Cu+CaCus was observed at 1190 K \[7lBru\] and 1178 K \[80Kuz\], and both studies agree on a eutectic composition near ZQ, = 0.90 for the liquid.” |
-| 1178 | eutectic |  | experimental | [1] Risold 1996; _cites ref. 80Kuz_ | p. 2 | “The eutectic reaction L ++ Cu+CaCus was observed at 1190 K \[7lBru\] and 1178 K \[80Kuz\], and both studies agree on a eutectic composition near ZQ, = 0.90 for the liquid.” |
-| 840 | peritectic |  | experimental | [1] Risold 1996 | p. 2 | “The other compounds were found by Bruzzone to form peritectically, CaCu at 840 K and CasCu at 761 K.” |
-| 761 | peritectic |  | experimental | [1] Risold 1996 | p. 2 | “The other compounds were found by Bruzzone to form peritectically, CaCu at 840 K and CasCu at 761 K.” |
-| 755 | eutectic |  | experimental | [1] Risold 1996 | p. 2 | “The eutectic reaction involving CazCu and Ca occured at 755 K with the liquid composition of about xoU = 0.24.” |
+| 1190 | eutectic |  | experimental | [1] Risold 1996; _cites ref. 7_ | p. 2; `ORC-H3BAS4FG5K.bf66ac` | “The eutectic reaction L ++ Cu+CaCus was observed at 1190 K \[7lBru\] and 1178 K \[80Kuz\], and both studies agree on a eutectic composition near ZQ, = 0.90 for the liquid.” |
+| 1178 | eutectic |  | experimental | [1] Risold 1996; _cites ref. 80Kuz_ | p. 2; `ORC-H3BAS4FG5K.d0d26d` | “The eutectic reaction L ++ Cu+CaCus was observed at 1190 K \[7lBru\] and 1178 K \[80Kuz\], and both studies agree on a eutectic composition near ZQ, = 0.90 for the liquid.” |
+| 840 | peritectic |  | experimental | [1] Risold 1996 | p. 2; `ORC-BVPUUIFGCQ.d19931` | “The other compounds were found by Bruzzone to form peritectically, CaCu at 840 K and CasCu at 761 K.” |
+| 761 | peritectic |  | experimental | [1] Risold 1996 | p. 2; `ORC-BVPUUIFGCQ.d0e6e3` | “The other compounds were found by Bruzzone to form peritectically, CaCu at 840 K and CasCu at 761 K.” |
+| 755 | eutectic |  | experimental | [1] Risold 1996 | p. 2; `ORC-SGX3IGF3EG` | “The eutectic reaction involving CazCu and Ca occured at 755 K with the liquid composition of about xoU = 0.24.” |
 
 ## Other properties
 
@@ -82,7 +82,7 @@ Table: Phase transition, Ca–Cu system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1223 K | 1223 | congruent melting | experimental | [1] Risold 1996 | p. 2 | “Bruzzone and Kuznetzov et al. report in perfect agreement that CaCus melts congruently at 1223 K.” |
+| Phase transition | 1223 K | 1223 | congruent melting | experimental | [1] Risold 1996 | p. 2; `ORC-N26DQCWJQJ` | “Bruzzone and Kuznetzov et al. report in perfect agreement that CaCus melts congruently at 1223 K.” |
 
 ## Sources
 
@@ -147,4 +147,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

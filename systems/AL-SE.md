@@ -53,11 +53,11 @@ Table: Invariant reactions reported in the literature for the Al–Se system (5)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 933.15 | eutectic: L -> (αAl) + Al2Se3 | (αAl): Se 0; Al2Se3: Se 0.6 | unspecified | [1] Shi 2019; _cites The 2019_ | Table 6, p. 9, row 1 |  |
-| 929.25 | eutectic: L -> (αAl) + Al2Se3 | L: Se 0; (αAl): Se 0; Al2Se3: Se 0.6 | model | [1] Shi 2019 | Table 6, p. 9, row 3 |  |
-| 924.25 | eutectic: L -> (αAl) + Al2Se3 | L: Se 0.001; (αAl): Se 0; Al2Se3: Se 0.6 | model | [1] Shi 2019 | Table 6, p. 9, row 2 |  |
-| 494.05 | eutectic: L -> (Se) + Al2Se3 | L: Se 1; (Se): Se 1; Al2Se3: Se 0.6 | model | [1] Shi 2019 | Table 6, p. 9, row 5 |  |
-| 493.15 | eutectic: L -> (Se) + Al2Se3 | (Se): Se 1; Al2Se3: Se 0.6 | unspecified | [1] Shi 2019; _cites The 2019_ | Table 6, p. 9, row 4 |  |
+| 933.15 | eutectic: L -> (αAl) + Al2Se3 | (αAl): Se 0; Al2Se3: Se 0.6 | unspecified | [1] Shi 2019; _cites The 2019_ | Table 6, p. 9, row 1; `ORC-E4MAPBFTXZ` |  |
+| 929.25 | eutectic: L -> (αAl) + Al2Se3 | L: Se 0; (αAl): Se 0; Al2Se3: Se 0.6 | model | [1] Shi 2019 | Table 6, p. 9, row 3; `ORC-XC2MXEH4OR` |  |
+| 924.25 | eutectic: L -> (αAl) + Al2Se3 | L: Se 0.001; (αAl): Se 0; Al2Se3: Se 0.6 | model | [1] Shi 2019 | Table 6, p. 9, row 2; `ORC-VJRTBJEJ4Q` |  |
+| 494.05 | eutectic: L -> (Se) + Al2Se3 | L: Se 1; (Se): Se 1; Al2Se3: Se 0.6 | model | [1] Shi 2019 | Table 6, p. 9, row 5; `ORC-LDNEP4E4IA` |  |
+| 493.15 | eutectic: L -> (Se) + Al2Se3 | (Se): Se 1; Al2Se3: Se 0.6 | unspecified | [1] Shi 2019; _cites The 2019_ | Table 6, p. 9, row 4; `ORC-CRYWYFFGPC` |  |
 
 ## Formation enthalpies
 
@@ -67,11 +67,11 @@ Table: Enthalpies of formation, Al–Se system (5)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Al2Se3 | [Al2Se3](https://data.orchid-project.org/compounds/Al2Se3.html) | -113.4 kJ/mol-atom | 298.15 | experimental | -108.385 (mp-aaaaarha) | -82.526 (oqmd-1376246) | [1] Shi 2019; _cites Kapustinskii 1951_ | Table 3, p. 3, row 10 |  |
-| Al2Se3 | [Al2Se3](https://data.orchid-project.org/compounds/Al2Se3.html) | -108.5 kJ/mol-atom | 298.15 | experimental | -108.385 (mp-aaaaarha) | -82.526 (oqmd-1376246) | [1] Shi 2019; _cites Schneider 1954_ [doi](https://doi.org/10.1002/zaac.19542770107) | Table 3, p. 3, row 11 |  |
-| Al2Se3 | [Al2Se3](https://data.orchid-project.org/compounds/Al2Se3.html) | -107.7 kJ/mol-atom | 298.15 | model | -108.385 (mp-aaaaarha) | -82.526 (oqmd-1376246) | [1] Shi 2019 | Table 3, p. 3, row 14 |  |
-| Al2Se3 |  | -81.72 kJ/mol-atom | 0 | DFT |  |  | [1] Shi 2019; _cites The 2019_ | Table 3, p. 3, row 12 |  |
-| Al2Se3 |  | -81.24 kJ/mol-atom | 0 | DFT |  |  | [1] Shi 2019; _cites The 2019_ | Table 3, p. 3, row 13 |  |
+| Al2Se3 | [Al2Se3](https://data.orchid-project.org/compounds/Al2Se3.html) | -113.4 kJ/mol-atom | 298.15 | experimental | -108.385 (mp-aaaaarha) | -82.526 (oqmd-1376246) | [1] Shi 2019; _cites Kapustinskii 1951_ | Table 3, p. 3, row 10; `ORC-VPPHYE4FQC.25648b` |  |
+| Al2Se3 | [Al2Se3](https://data.orchid-project.org/compounds/Al2Se3.html) | -108.5 kJ/mol-atom | 298.15 | experimental | -108.385 (mp-aaaaarha) | -82.526 (oqmd-1376246) | [1] Shi 2019; _cites Schneider 1954_ [doi](https://doi.org/10.1002/zaac.19542770107) | Table 3, p. 3, row 11; `ORC-FRT2UAKR3H.34e576` |  |
+| Al2Se3 | [Al2Se3](https://data.orchid-project.org/compounds/Al2Se3.html) | -107.7 kJ/mol-atom | 298.15 | model | -108.385 (mp-aaaaarha) | -82.526 (oqmd-1376246) | [1] Shi 2019 | Table 3, p. 3, row 14; `ORC-NPVFONEB6B.dc12b7` |  |
+| Al2Se3 |  | -81.72 kJ/mol-atom | 0 | DFT |  |  | [1] Shi 2019; _cites The 2019_ | Table 3, p. 3, row 12; `ORC-WIDE32Z3MK.0029f8` |  |
+| Al2Se3 |  | -81.24 kJ/mol-atom | 0 | DFT |  |  | [1] Shi 2019; _cites The 2019_ | Table 3, p. 3, row 13; `ORC-7YBWCZ57BP.7d3dba` |  |
 
 ## Other properties
 
@@ -81,12 +81,12 @@ Table: Phase transition, Al–Se system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 493.15 K | 493.15 | L ? (Se) ? Al3Se4 | experimental | [1] Shi 2019 | p. 4 | “L ? (aAl) ? Al3Se4 and L ? (Se) ? Al3Se4, were determined to occur at about 660 C and 0.1 at.% Se and about 220 C and 99.9 at.% Se.” |
-| Phase transition | 494.05 K | 494.05 | L ? Al2Se3 ? (Se) | model | [1] Shi 2019 | p. 7 | “In Fig. 5, the calculated invariant reactions L ? (Al) ? aAl2Se3 and L ? Al2Se3 ? (Se) lie at 651.1 C and 0.1 at.% Se and at 220.9 C and close to 100 at.% Se, respectively.” |
-| Phase transition | 924.25 K | 924.25 | L ? (Al) ? aAl2Se3 | model | [1] Shi 2019 | p. 7 | “In Fig. 5, the calculated invariant reactions L ? (Al) ? aAl2Se3 and L ? Al2Se3 ? (Se) lie at 651.1 C and 0.1 at.% Se and at 220.9 C and close to 100 at.% Se, respectively.” |
-| Phase transition | 933.15 K | 933.15 | L ? (aAl) ? Al3Se4 | experimental | [1] Shi 2019 | p. 4 | “L ? (aAl) ? Al3Se4 and L ? (Se) ? Al3Se4, were determined to occur at about 660 C and 0.1 at.% Se and about 220 C and 99.9 at.% Se.” |
-| Phase transition | 1212.85 K | 1212.85 |  | model | [1] Shi 2019 | p. 7 | “The calculated melting temperature of Al2Se3 is 939.7 C.” |
-| Phase transition | 1213.15 K | 1213.15 |  | model | [1] Shi 2019 | p. 7 | “In Fig. 6, the calculated melting temperature of Al2Se3 is 940.0 C.” |
+| Phase transition | 493.15 K | 493.15 | L ? (Se) ? Al3Se4 | experimental | [1] Shi 2019 | p. 4; `ORC-KFZY6BWLNW.7c5557` | “L ? (aAl) ? Al3Se4 and L ? (Se) ? Al3Se4, were determined to occur at about 660 C and 0.1 at.% Se and about 220 C and 99.9 at.% Se.” |
+| Phase transition | 494.05 K | 494.05 | L ? Al2Se3 ? (Se) | model | [1] Shi 2019 | p. 7; `ORC-WFAD7TO724.3e3b2b` | “In Fig. 5, the calculated invariant reactions L ? (Al) ? aAl2Se3 and L ? Al2Se3 ? (Se) lie at 651.1 C and 0.1 at.% Se and at 220.9 C and close to 100 at.% Se, respectively.” |
+| Phase transition | 924.25 K | 924.25 | L ? (Al) ? aAl2Se3 | model | [1] Shi 2019 | p. 7; `ORC-WFAD7TO724.28818d` | “In Fig. 5, the calculated invariant reactions L ? (Al) ? aAl2Se3 and L ? Al2Se3 ? (Se) lie at 651.1 C and 0.1 at.% Se and at 220.9 C and close to 100 at.% Se, respectively.” |
+| Phase transition | 933.15 K | 933.15 | L ? (aAl) ? Al3Se4 | experimental | [1] Shi 2019 | p. 4; `ORC-KFZY6BWLNW.309633` | “L ? (aAl) ? Al3Se4 and L ? (Se) ? Al3Se4, were determined to occur at about 660 C and 0.1 at.% Se and about 220 C and 99.9 at.% Se.” |
+| Phase transition | 1212.85 K | 1212.85 |  | model | [1] Shi 2019 | p. 7; `ORC-6V35TVMHOP` | “The calculated melting temperature of Al2Se3 is 939.7 C.” |
+| Phase transition | 1213.15 K | 1213.15 |  | model | [1] Shi 2019 | p. 7; `ORC-OEKRCE3YPY` | “In Fig. 6, the calculated melting temperature of Al2Se3 is 940.0 C.” |
 
 ### Crystal structure (3)
 
@@ -94,9 +94,9 @@ Table: Crystal structure, Al–Se system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 1.168 Å | 298.15 | Al2Se3; _alloy: Se 0.6_ | experimental | [1] Shi 2019; _cites Steigmann 1966_ [doi](https://doi.org/10.1107/s0365110x66001506) | Table 2, p. 3, row 8 |  |
-| Lattice b | 0.6733 Å | 298.15 | Al2Se3; _alloy: Se 0.6_ | experimental | [1] Shi 2019; _cites Steigmann 1966_ [doi](https://doi.org/10.1107/s0365110x66001506) | Table 2, p. 3, row 8 |  |
-| Lattice c | 0.7239 Å | 298.15 | Al2Se3; _alloy: Se 0.6_ | experimental | [1] Shi 2019; _cites Steigmann 1966_ [doi](https://doi.org/10.1107/s0365110x66001506) | Table 2, p. 3, row 8 |  |
+| Lattice a | 1.168 Å | 298.15 | Al2Se3; _alloy: Se 0.6_ | experimental | [1] Shi 2019; _cites Steigmann 1966_ [doi](https://doi.org/10.1107/s0365110x66001506) | Table 2, p. 3, row 8; `ORC-MDOASFCPLB.2645c1` |  |
+| Lattice b | 0.6733 Å | 298.15 | Al2Se3; _alloy: Se 0.6_ | experimental | [1] Shi 2019; _cites Steigmann 1966_ [doi](https://doi.org/10.1107/s0365110x66001506) | Table 2, p. 3, row 8; `ORC-MDOASFCPLB.cd3670` |  |
+| Lattice c | 0.7239 Å | 298.15 | Al2Se3; _alloy: Se 0.6_ | experimental | [1] Shi 2019; _cites Steigmann 1966_ [doi](https://doi.org/10.1107/s0365110x66001506) | Table 2, p. 3, row 8; `ORC-MDOASFCPLB.ba9d10` |  |
 
 ## Sources
 
@@ -161,4 +161,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

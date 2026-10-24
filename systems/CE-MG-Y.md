@@ -28,17 +28,17 @@ Table: Invariant reactions reported in the literature for the Ce–Mg–Y system
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 904.52 | peritectic: L + Mg2Y + (Ce,Y)Mg = CeMg2 |  | model | [1] Gröbner 2010 | Table 2, p. 4, row 1 |  |
-| 892.85 | quasi-peritectic: L + CeMg2 = CeMg3 + Mg2Y |  | model | [1] Gröbner 2010 | Table 2, p. 4, row 2 |  |
-| 883.29 | quasi-peritectic: L + Ce2Mg17 = CeMg12 + Ce5Mg41 |  | model | [1] Gröbner 2010 | Table 2, p. 4, row 3 |  |
-| 834.07 | quasi-peritectic: L + Mg24Y5 = T + Mg2Y |  | model | [1] Gröbner 2010 | Table 2, p. 4, row 4 |  |
-| 829.77 | quasi-peritectic: L + Mg2Y = T + CeMg3 |  | model | [1] Gröbner 2010 | Table 2, p. 4, row 5 |  |
-| 828.54 | quasi-peritectic: L + CeMg3 = T + Ce5Mg41 |  | model | [1] Gröbner 2010 | Table 2, p. 4, row 6 |  |
-| 818.73 | quasi-peritectic: L + Ce5Mg41 = CeMg12 + T |  | model | [1] Gröbner 2010 | Table 2, p. 4, row 7 |  |
-| 817.49 | eutectic: L = Mg24Y5 + CeMg12 + T |  | model | [1] Gröbner 2010 | Table 2, p. 4, row 8 |  |
-| 817.14 | eutectic: L = (Mg) + Mg24Y5 + CeMg12 |  | model | [1] Gröbner 2010 | Table 2, p. 4, row 9 |  |
-| 816.15 | eutectic: L -> (Mg) + Mg24Y5 + CeMg12 |  | experimental | [1] Gröbner 2010; _cites Drits 1981_ | Table 2, p. 4, row 10 |  |
-| 816.15 | eutectic: L = (Mg) + CeMg12 + Mg24Y5 |  | experimental | [1] Gröbner 2010; _cites Drits 1981_ | p. 3 | “They found a eutectic reaction L = (Mg) + CeMg12 + Mg24Y5 at 543 °C.” |
+| 904.52 | peritectic: L + Mg2Y + (Ce,Y)Mg = CeMg2 |  | model | [1] Gröbner 2010 | Table 2, p. 4, row 1; `ORC-WAKT2VOUDX` |  |
+| 892.85 | quasi-peritectic: L + CeMg2 = CeMg3 + Mg2Y |  | model | [1] Gröbner 2010 | Table 2, p. 4, row 2; `ORC-3BQD24SXBX` |  |
+| 883.29 | quasi-peritectic: L + Ce2Mg17 = CeMg12 + Ce5Mg41 |  | model | [1] Gröbner 2010 | Table 2, p. 4, row 3; `ORC-EHT4PYFI3Q` |  |
+| 834.07 | quasi-peritectic: L + Mg24Y5 = T + Mg2Y |  | model | [1] Gröbner 2010 | Table 2, p. 4, row 4; `ORC-WJTW4SMBQQ` |  |
+| 829.77 | quasi-peritectic: L + Mg2Y = T + CeMg3 |  | model | [1] Gröbner 2010 | Table 2, p. 4, row 5; `ORC-WHTNYHSIII` |  |
+| 828.54 | quasi-peritectic: L + CeMg3 = T + Ce5Mg41 |  | model | [1] Gröbner 2010 | Table 2, p. 4, row 6; `ORC-HGN6IBYEG6` |  |
+| 818.73 | quasi-peritectic: L + Ce5Mg41 = CeMg12 + T |  | model | [1] Gröbner 2010 | Table 2, p. 4, row 7; `ORC-PFEKRK2BMO` |  |
+| 817.49 | eutectic: L = Mg24Y5 + CeMg12 + T |  | model | [1] Gröbner 2010 | Table 2, p. 4, row 8; `ORC-6GSROCI62J` |  |
+| 817.14 | eutectic: L = (Mg) + Mg24Y5 + CeMg12 |  | model | [1] Gröbner 2010 | Table 2, p. 4, row 9; `ORC-IRX2HUWDF4` |  |
+| 816.15 | eutectic: L -> (Mg) + Mg24Y5 + CeMg12 |  | experimental | [1] Gröbner 2010; _cites Drits 1981_ | Table 2, p. 4, row 10; `ORC-4U656TN7DC` |  |
+| 816.15 | eutectic: L = (Mg) + CeMg12 + Mg24Y5 |  | experimental | [1] Gröbner 2010; _cites Drits 1981_ | p. 3; `ORC-TWJQHH3VEK` | “They found a eutectic reaction L = (Mg) + CeMg12 + Mg24Y5 at 543 °C.” |
 
 ## Other properties
 
@@ -48,7 +48,7 @@ Table: Phase transition, Ce–Mg–Y system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 818.14 K | 818.14 | other | model | [1] Gröbner 2010 | p. 3 | “Invariant three-phase reactions such as the minimum in L + (Ce,Y)Mg + CeMg2 at 626.8 °C, the maximum in L + Mg24Y5 + T at 560.99 °C, and the shallow maximum in L + Mg24Y5 + CeMg12 at 544.99 °C between the two ternary eutectic invariant reactions E1 and E2 are not included in Table 2.” |
+| Phase transition | 818.14 K | 818.14 | other | model | [1] Gröbner 2010 | p. 3; `ORC-YLTMRYI6HI.a62e35` | “Invariant three-phase reactions such as the minimum in L + (Ce,Y)Mg + CeMg2 at 626.8 °C, the maximum in L + Mg24Y5 + T at 560.99 °C, and the shallow maximum in L + Mg24Y5 + CeMg12 at 544.99 °C between the two ternary eutectic invariant reactions E1 and E2 are not included in Table 2.” |
 
 ## Sources
 
@@ -91,4 +91,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

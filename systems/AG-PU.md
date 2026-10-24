@@ -55,27 +55,27 @@ Table: Invariant reactions reported in the literature for the Ag–Pu system (21
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1253.15 | congruent melting: Liquid#1 -> Ag51Pu14 | Liquid#1: Pu 0.2154; Ag51Pu14: Ag 0.784615, Pu 0.215385 | model | [1] Zhou 2020 | Table 8, p. 11, row 19 |  |
-| 1250.15 | congruent melting: Liquid#1 -> Ag51Pu14 | Liquid#1: Pu 0.2155; Ag51Pu14: Ag 0.784615, Pu 0.215385 | experimental | [1] Zhou 2020; _cites Wood 1970_ [doi](https://doi.org/10.2172/4104255) | Table 8, p. 11, row 20 |  |
-| 1090.15 | peritectic |  | experimental | [1] Zhou 2020; _cites Wood 1970_ [doi](https://doi.org/10.2172/4104255) | p. 5 | “Later, Wood et al.\[46\] reported two stoichiometric compounds, i.e. Ag51Pu14 (melting point 977 C) and Ag2Pu (peritectic formation at 817 C) based on a combination of XRD, thermal analysis and microscope methods.” |
-| 1090.15 | peritectic: Liquid#2 + Ag51Pu14 -> Ag2Pu | Ag51Pu14: Pu 0.2155; Ag2Pu: Pu 0.313 | experimental | [1] Zhou 2020; _cites Wood 1970_ [doi](https://doi.org/10.2172/4104255) | Table 8, p. 11, row 4 |  |
-| 1090.15 | peritectic: Liquid#2 + Ag51Pu14 -> Ag2Pu | Liquid#2: Pu 0.3836; Ag51Pu14: Pu 0.2154; Ag2Pu: Pu 0.3333 | model | [1] Zhou 2020 | Table 8, p. 11, row 3 |  |
-| 1074.15 | eutectic: Liquid#1 -> (Ag) + Ag51Pu14 | Liquid#1: Pu 0.092; Ag51Pu14: Pu 0.2155 | experimental | [1] Zhou 2020; _cites Wood 1970_ [doi](https://doi.org/10.2172/4104255) | Table 8, p. 11, row 2 |  |
-| 1068.15 | monotectic: Liquid#1 -> Liquid#2 + Ag2Pu | Liquid#1: Pu 0.41; Liquid#2: Pu 0.98; Ag2Pu: Pu 0.313; Liquid# 2: Pu 0.98 | experimental | [1] Zhou 2020; _cites Wood 1970_ [doi](https://doi.org/10.2172/4104255) | Table 8, p. 11, row 6 |  |
-| 1066.15 | monotectic: Liquid#1 -> Liquid#2 + Ag2Pu | Liquid#1: Pu 0.4451; Liquid#2: Pu 0.9938; Ag2Pu: Pu 0.3333; Liquid# 2: Pu 0.9938 | model | [1] Zhou 2020 | Table 8, p. 11, row 5 |  |
-| 1062.15 | eutectic: Liquid#1 -> (Ag) + Ag51Pu14 | Liquid#1: Pu 0.0863; (Ag): Pu 0; Ag51Pu14: Pu 0.2154 | model | [1] Zhou 2020 | Table 8, p. 11, row 1 |  |
-| 932.15 | peritectic: Liquid#2 + Ag2Pu -> (εPu) | Ag2Pu: Pu 0.313 | experimental | [1] Zhou 2020; _cites Wood 1970_ [doi](https://doi.org/10.2172/4104255) | Table 8, p. 11, row 8 |  |
-| 932.15 | peritectic: Liquid#2 + Ag2Pu -> (εPu) | Liquid#2: Pu 0.9983; Ag2Pu: Pu 0.3333; (εPu): Pu 0.9903 | model | [1] Zhou 2020 | Table 8, p. 11, row 7 |  |
-| 756.15 | peritectoid: Ag2Pu + (εPu) -> (δ'Pu) | Ag2Pu: Pu 0.313 | experimental | [1] Zhou 2020; _cites Wood 1970_ [doi](https://doi.org/10.2172/4104255) | Table 8, p. 11, row 10 |  |
-| 749.15 | peritectoid: Ag2Pu + (εPu) -> (δ'Pu) | Ag2Pu: Pu 0.3333; (εPu): Pu 0.9976; (δ'Pu): Pu 1 | model | [1] Zhou 2020 | Table 8, p. 11, row 9 |  |
-| 736.15 | peritectoid: Ag2Pu + (δ'Pu) -> (δPu) | Ag2Pu: Ag 0.666667, Pu 0.333333 | experimental | [1] Zhou 2020; _cites Wood 1970_ [doi](https://doi.org/10.2172/4104255) | Table 8, p. 11, row 12 |  |
-| 736.15 | peritectoid: Ag2Pu + (δ'Pu) -> (δPu) | Ag2Pu: Pu 0.3333; (δ'Pu): Pu 1 | model | [1] Zhou 2020 | Table 8, p. 11, row 11 |  |
-| 595.15 | peritectoid: Ag2Pu + (δPu) -> (γPu) | Ag2Pu: Pu 0.3333; (δPu): Pu 0.9994; (γPu): Pu 1 | model | [1] Zhou 2020 | Table 8, p. 11, row 13 |  |
-| 593.15 | peritectoid: Ag2Pu + (δPu) -> (γPu) | Ag2Pu: Pu 0.313 | experimental | [1] Zhou 2020; _cites Wood 1970_ [doi](https://doi.org/10.2172/4104255) | Table 8, p. 11, row 14 |  |
-| 488.15 | peritectoid: Ag2Pu + (γPu) -> (βPu) | Ag2Pu: Pu 0.3333; (γPu): Pu 0.9999; (βPu): Pu 0.9999 | model | [1] Zhou 2020 | Table 8, p. 11, row 15 |  |
-| 488.15 | peritectoid: Ag2Pu + (γPu) -> (βPu) | Ag2Pu: Pu 0.313 | experimental | [1] Zhou 2020; _cites Wood 1970_ [doi](https://doi.org/10.2172/4104255) | Table 8, p. 11, row 16 |  |
-| 398.15 | peritectoid: Ag2Pu + (βPu) -> (αPu) | Ag2Pu: Pu 0.313 | experimental | [1] Zhou 2020; _cites Wood 1970_ [doi](https://doi.org/10.2172/4104255) | Table 8, p. 11, row 18 |  |
-| 398.15 | peritectoid: Ag2Pu + (βPu) -> (αPu) | Ag2Pu: Pu 0.3333; (βPu): Pu 0.9998; (αPu): Pu 1 | model | [1] Zhou 2020 | Table 8, p. 11, row 17 |  |
+| 1253.15 | congruent melting: Liquid#1 -> Ag51Pu14 | Liquid#1: Pu 0.2154; Ag51Pu14: Ag 0.784615, Pu 0.215385 | model | [1] Zhou 2020 | Table 8, p. 11, row 19; `ORC-GYRJXHBGD3` |  |
+| 1250.15 | congruent melting: Liquid#1 -> Ag51Pu14 | Liquid#1: Pu 0.2155; Ag51Pu14: Ag 0.784615, Pu 0.215385 | experimental | [1] Zhou 2020; _cites Wood 1970_ [doi](https://doi.org/10.2172/4104255) | Table 8, p. 11, row 20; `ORC-EMAOWXGRUK` |  |
+| 1090.15 | peritectic |  | experimental | [1] Zhou 2020; _cites Wood 1970_ [doi](https://doi.org/10.2172/4104255) | p. 5; `ORC-2K6FSTSWJN.27c35e` | “Later, Wood et al.\[46\] reported two stoichiometric compounds, i.e. Ag51Pu14 (melting point 977 C) and Ag2Pu (peritectic formation at 817 C) based on a combination of XRD, thermal analysis and microscope methods.” |
+| 1090.15 | peritectic: Liquid#2 + Ag51Pu14 -> Ag2Pu | Ag51Pu14: Pu 0.2155; Ag2Pu: Pu 0.313 | experimental | [1] Zhou 2020; _cites Wood 1970_ [doi](https://doi.org/10.2172/4104255) | Table 8, p. 11, row 4; `ORC-2ZRCBKD4DZ` |  |
+| 1090.15 | peritectic: Liquid#2 + Ag51Pu14 -> Ag2Pu | Liquid#2: Pu 0.3836; Ag51Pu14: Pu 0.2154; Ag2Pu: Pu 0.3333 | model | [1] Zhou 2020 | Table 8, p. 11, row 3; `ORC-RW6AZPKAYO` |  |
+| 1074.15 | eutectic: Liquid#1 -> (Ag) + Ag51Pu14 | Liquid#1: Pu 0.092; Ag51Pu14: Pu 0.2155 | experimental | [1] Zhou 2020; _cites Wood 1970_ [doi](https://doi.org/10.2172/4104255) | Table 8, p. 11, row 2; `ORC-IDUGFOHVU2` |  |
+| 1068.15 | monotectic: Liquid#1 -> Liquid#2 + Ag2Pu | Liquid#1: Pu 0.41; Liquid#2: Pu 0.98; Ag2Pu: Pu 0.313; Liquid# 2: Pu 0.98 | experimental | [1] Zhou 2020; _cites Wood 1970_ [doi](https://doi.org/10.2172/4104255) | Table 8, p. 11, row 6; `ORC-J3XW6FV366` |  |
+| 1066.15 | monotectic: Liquid#1 -> Liquid#2 + Ag2Pu | Liquid#1: Pu 0.4451; Liquid#2: Pu 0.9938; Ag2Pu: Pu 0.3333; Liquid# 2: Pu 0.9938 | model | [1] Zhou 2020 | Table 8, p. 11, row 5; `ORC-RDBZMCOTSK` |  |
+| 1062.15 | eutectic: Liquid#1 -> (Ag) + Ag51Pu14 | Liquid#1: Pu 0.0863; (Ag): Pu 0; Ag51Pu14: Pu 0.2154 | model | [1] Zhou 2020 | Table 8, p. 11, row 1; `ORC-OI4DZZLAGQ` |  |
+| 932.15 | peritectic: Liquid#2 + Ag2Pu -> (εPu) | Ag2Pu: Pu 0.313 | experimental | [1] Zhou 2020; _cites Wood 1970_ [doi](https://doi.org/10.2172/4104255) | Table 8, p. 11, row 8; `ORC-C2I3OGDOHU` |  |
+| 932.15 | peritectic: Liquid#2 + Ag2Pu -> (εPu) | Liquid#2: Pu 0.9983; Ag2Pu: Pu 0.3333; (εPu): Pu 0.9903 | model | [1] Zhou 2020 | Table 8, p. 11, row 7; `ORC-N3F26SUD5S` |  |
+| 756.15 | peritectoid: Ag2Pu + (εPu) -> (δ'Pu) | Ag2Pu: Pu 0.313 | experimental | [1] Zhou 2020; _cites Wood 1970_ [doi](https://doi.org/10.2172/4104255) | Table 8, p. 11, row 10; `ORC-GNZEVDOWOA` |  |
+| 749.15 | peritectoid: Ag2Pu + (εPu) -> (δ'Pu) | Ag2Pu: Pu 0.3333; (εPu): Pu 0.9976; (δ'Pu): Pu 1 | model | [1] Zhou 2020 | Table 8, p. 11, row 9; `ORC-DRZSEUE2P6` |  |
+| 736.15 | peritectoid: Ag2Pu + (δ'Pu) -> (δPu) | Ag2Pu: Ag 0.666667, Pu 0.333333 | experimental | [1] Zhou 2020; _cites Wood 1970_ [doi](https://doi.org/10.2172/4104255) | Table 8, p. 11, row 12; `ORC-SI6CFVCKNH` |  |
+| 736.15 | peritectoid: Ag2Pu + (δ'Pu) -> (δPu) | Ag2Pu: Pu 0.3333; (δ'Pu): Pu 1 | model | [1] Zhou 2020 | Table 8, p. 11, row 11; `ORC-X5UVHDVYX4` |  |
+| 595.15 | peritectoid: Ag2Pu + (δPu) -> (γPu) | Ag2Pu: Pu 0.3333; (δPu): Pu 0.9994; (γPu): Pu 1 | model | [1] Zhou 2020 | Table 8, p. 11, row 13; `ORC-HWBIIVHI6H` |  |
+| 593.15 | peritectoid: Ag2Pu + (δPu) -> (γPu) | Ag2Pu: Pu 0.313 | experimental | [1] Zhou 2020; _cites Wood 1970_ [doi](https://doi.org/10.2172/4104255) | Table 8, p. 11, row 14; `ORC-6AHSY7OP76` |  |
+| 488.15 | peritectoid: Ag2Pu + (γPu) -> (βPu) | Ag2Pu: Pu 0.3333; (γPu): Pu 0.9999; (βPu): Pu 0.9999 | model | [1] Zhou 2020 | Table 8, p. 11, row 15; `ORC-QD6KIMDSKG` |  |
+| 488.15 | peritectoid: Ag2Pu + (γPu) -> (βPu) | Ag2Pu: Pu 0.313 | experimental | [1] Zhou 2020; _cites Wood 1970_ [doi](https://doi.org/10.2172/4104255) | Table 8, p. 11, row 16; `ORC-UUHL5HA6VJ` |  |
+| 398.15 | peritectoid: Ag2Pu + (βPu) -> (αPu) | Ag2Pu: Pu 0.313 | experimental | [1] Zhou 2020; _cites Wood 1970_ [doi](https://doi.org/10.2172/4104255) | Table 8, p. 11, row 18; `ORC-BZEQYRGGEQ` |  |
+| 398.15 | peritectoid: Ag2Pu + (βPu) -> (αPu) | Ag2Pu: Pu 0.3333; (βPu): Pu 0.9998; (αPu): Pu 1 | model | [1] Zhou 2020 | Table 8, p. 11, row 17; `ORC-GXOOPYVAHN` |  |
 
 ## Other properties
 
@@ -85,8 +85,8 @@ Table: Phase transition, Ag–Pu system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1250.15 K | 1250.15 | Ag51Pu14 | experimental | [1] Zhou 2020; _cites Wood 1970_ [doi](https://doi.org/10.2172/4104255) | p. 5 | “Later, Wood et al.\[46\] reported two stoichiometric compounds, i.e. Ag51Pu14 (melting point 977 C) and Ag2Pu (peritectic formation at 817 C) based on a combination of XRD, thermal analysis and microscope methods.” |
-| Phase transition | 1918.15 K | 1918.15 |  | model | [1] Zhou 2020 | p. 10 | “calculated critical point of the liquid miscibility gap locates at 1645 C and 80.6 at.% Pu.” |
+| Phase transition | 1250.15 K | 1250.15 | Ag51Pu14 | experimental | [1] Zhou 2020; _cites Wood 1970_ [doi](https://doi.org/10.2172/4104255) | p. 5; `ORC-2K6FSTSWJN.d05f5b` | “Later, Wood et al.\[46\] reported two stoichiometric compounds, i.e. Ag51Pu14 (melting point 977 C) and Ag2Pu (peritectic formation at 817 C) based on a combination of XRD, thermal analysis and microscope methods.” |
+| Phase transition | 1918.15 K | 1918.15 |  | model | [1] Zhou 2020 | p. 10; `ORC-3WDK6563FI` | “calculated critical point of the liquid miscibility gap locates at 1645 C and 80.6 at.% Pu.” |
 
 ## Sources
 
@@ -151,4 +151,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

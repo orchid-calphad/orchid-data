@@ -30,13 +30,13 @@ Table: Invariant reactions reported in the literature for the F–K–Na system 
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 994 | Liquid = KF + NaF |  | experimental | [1] Zhang 2006; _cites Holm 1965_ [doi](https://doi.org/10.3891/acta.chem.scand.19-0638) | Table 7, p. 9, row 7 |  |
-| 989 | Liquid = KF + NaF |  | experimental | [1] Zhang 2006; _cites Bergman 1943_ | Table 7, p. 9, row 4 |  |
-| 983 | Liquid = KF + NaF |  | experimental | [1] Zhang 2006; _cites Platonov 1946_ | Table 7, p. 9, row 6 |  |
-| 983 | Liquid = KF + NaF |  | experimental | [1] Zhang 2006; _cites Bergman 1942_ | Table 7, p. 9, row 3 |  |
-| 983 | Liquid = KF + NaF |  | experimental | [1] Zhang 2006; _cites Dombrovskafa 1938_ | Table 7, p. 9, row 2 |  |
-| 983 | Liquid = KF + NaF |  | model | [1] Zhang 2006 | Table 7, p. 9, row 1 |  |
-| 972 | Liquid = KF + NaF |  | experimental | [1] Zhang 2006; _cites Kurnakov 1907_ | Table 7, p. 9, row 5 |  |
+| 994 | Liquid = KF + NaF |  | experimental | [1] Zhang 2006; _cites Holm 1965_ [doi](https://doi.org/10.3891/acta.chem.scand.19-0638) | Table 7, p. 9, row 7; `ORC-JNDHTMXLJZ` |  |
+| 989 | Liquid = KF + NaF |  | experimental | [1] Zhang 2006; _cites Bergman 1943_ | Table 7, p. 9, row 4; `ORC-WNW43ZN5P4` |  |
+| 983 | Liquid = KF + NaF |  | experimental | [1] Zhang 2006; _cites Platonov 1946_ | Table 7, p. 9, row 6; `ORC-6GWYUTB5N4` |  |
+| 983 | Liquid = KF + NaF |  | experimental | [1] Zhang 2006; _cites Bergman 1942_ | Table 7, p. 9, row 3; `ORC-A2QFG4WGO5` |  |
+| 983 | Liquid = KF + NaF |  | experimental | [1] Zhang 2006; _cites Dombrovskafa 1938_ | Table 7, p. 9, row 2; `ORC-MCZNZLDNH6` |  |
+| 983 | Liquid = KF + NaF |  | model | [1] Zhang 2006 | Table 7, p. 9, row 1; `ORC-QI5IR6ZYSN` |  |
+| 972 | Liquid = KF + NaF |  | experimental | [1] Zhang 2006; _cites Kurnakov 1907_ | Table 7, p. 9, row 5; `ORC-QM54YCBI3S` |  |
 
 ## Formation enthalpies
 
@@ -46,15 +46,15 @@ Table: Enthalpies of formation, F–K–Na system (9)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| F2 |  | 0 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2006 | Table 2, p. 3, row 21 |  |
-| Halite |  | 9.869 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2006 | Table 2, p. 3, row 35 |  |
-| Halite |  | 19.165 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2006 | Table 2, p. 3, row 36 |  |
-| Halite |  | 24.312 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2006 | Table 2, p. 3, row 37 |  |
-| KNa2 |  | -0.699 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2006 | Table 2, p. 3, row 30 |  |
-| KNa2 | [KNa2](https://data.orchid-project.org/compounds/KNa2.html) | -0.60668 kJ/mol-atom | 298.15 | experimental | 0.954 (mp-aaabgmji) | -7.272 (oqmd-668086) | [1] Zhang 2006; _cites Hultgren 1963_ | Table 2, p. 3, row 31 |  |
-| bcc |  | 1.786 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2006 | Table 2, p. 3, row 32 |  |
-| bcc |  | 2.408 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2006 | Table 2, p. 3, row 34 |  |
-| bcc |  | 2.994 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2006 | Table 2, p. 3, row 33 |  |
+| F2 |  | 0 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2006 | Table 2, p. 3, row 21; `ORC-CWUABOAPHC.13f556` |  |
+| Halite |  | 9.869 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2006 | Table 2, p. 3, row 35; `ORC-KTRPCNRG65.049d0d` |  |
+| Halite |  | 19.165 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2006 | Table 2, p. 3, row 36; `ORC-NIHK37LH2X.094f7b` |  |
+| Halite |  | 24.312 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2006 | Table 2, p. 3, row 37; `ORC-37YQ42FPYZ.95d652` |  |
+| KNa2 |  | -0.699 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2006 | Table 2, p. 3, row 30; `ORC-VIZG72UFCV.d3840a` |  |
+| KNa2 | [KNa2](https://data.orchid-project.org/compounds/KNa2.html) | -0.60668 kJ/mol-atom | 298.15 | experimental | 0.954 (mp-aaabgmji) | -7.272 (oqmd-668086) | [1] Zhang 2006; _cites Hultgren 1963_ | Table 2, p. 3, row 31; `ORC-LEJHJ7QKVU.3c23fa` |  |
+| bcc |  | 1.786 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2006 | Table 2, p. 3, row 32; `ORC-PLZAVIKXC6.864a1c` |  |
+| bcc |  | 2.408 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2006 | Table 2, p. 3, row 34; `ORC-SYTQKWBHES.bf4bfb` |  |
+| bcc |  | 2.994 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2006 | Table 2, p. 3, row 33; `ORC-MSELOGJIE5.90fdff` |  |
 
 ## Other properties
 
@@ -64,16 +64,16 @@ Table: Crystal structure, F–K–Na system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a; _printed: Lattice constant a_ | 3.052 Å | 0 | Halite; _alloy: K 0, Na 0.5_ | DFT | [1] Zhang 2006 | Table 2, p. 3, row 37 |  |
-| Lattice a; _printed: Lattice constant a_ | 3.082 Å | 0 | Halite; _alloy: K 0, Na 0.5_ | DFT | [1] Zhang 2006 | Table 2, p. 3, row 36 |  |
-| Lattice a; _printed: Lattice constant a_ | 2.869 Å | 0 | Halite; _alloy: K 0, Na 0.5_ | DFT | [1] Zhang 2006 | Table 2, p. 3, row 35 |  |
-| Lattice a; _printed: Lattice constant a_ | 7.394 Å | 0 | KNa2; _alloy: Na 0.667_ | DFT | [1] Zhang 2006 | Table 2, p. 3, row 30 |  |
-| Lattice a; _printed: Lattice constant a_ | 7.5 Å |  | KNa2; _alloy: Na 0.667_ | experimental | [1] Zhang 2006; _cites Laves 1943_ | Table 2, p. 3, row 14 |  |
-| Lattice a; _printed: Lattice constant a_ | 5.026 Å | 0 | bcc; _alloy: Na 0.25_ | DFT | [1] Zhang 2006 | Table 2, p. 3, row 32 |  |
-| Lattice a; _printed: Lattice constant a_ | 4.763 Å | 0 | bcc; _alloy: Na 0.5_ | DFT | [1] Zhang 2006 | Table 2, p. 3, row 33 |  |
-| Lattice a; _printed: Lattice constant a_ | 4.508 Å | 0 | bcc; _alloy: Na 0.75_ | DFT | [1] Zhang 2006 | Table 2, p. 3, row 34 |  |
-| Lattice c; _printed: Lattice constant c_ | 12.083 Å | 0 | KNa2; _alloy: Na 0.667_ | DFT | [1] Zhang 2006 | Table 2, p. 3, row 30 |  |
-| Lattice c; _printed: Lattice constant c_ | 12.31 Å |  | KNa2; _alloy: Na 0.667_ | experimental | [1] Zhang 2006; _cites Laves 1943_ | Table 2, p. 3, row 14 |  |
+| Lattice a; _printed: Lattice constant a_ | 3.052 Å | 0 | Halite; _alloy: K 0, Na 0.5_ | DFT | [1] Zhang 2006 | Table 2, p. 3, row 37; `ORC-AWMVKLLL4H` |  |
+| Lattice a; _printed: Lattice constant a_ | 3.082 Å | 0 | Halite; _alloy: K 0, Na 0.5_ | DFT | [1] Zhang 2006 | Table 2, p. 3, row 36; `ORC-D4W3TGOIME` |  |
+| Lattice a; _printed: Lattice constant a_ | 2.869 Å | 0 | Halite; _alloy: K 0, Na 0.5_ | DFT | [1] Zhang 2006 | Table 2, p. 3, row 35; `ORC-HMZUDT57BH` |  |
+| Lattice a; _printed: Lattice constant a_ | 7.394 Å | 0 | KNa2; _alloy: Na 0.667_ | DFT | [1] Zhang 2006 | Table 2, p. 3, row 30; `ORC-CA6ODY6QX2.3383f6` |  |
+| Lattice a; _printed: Lattice constant a_ | 7.5 Å |  | KNa2; _alloy: Na 0.667_ | experimental | [1] Zhang 2006; _cites Laves 1943_ | Table 2, p. 3, row 14; `ORC-JMVBNXNQW2.6ec8d6` |  |
+| Lattice a; _printed: Lattice constant a_ | 5.026 Å | 0 | bcc; _alloy: Na 0.25_ | DFT | [1] Zhang 2006 | Table 2, p. 3, row 32; `ORC-2KGQQC3M2K` |  |
+| Lattice a; _printed: Lattice constant a_ | 4.763 Å | 0 | bcc; _alloy: Na 0.5_ | DFT | [1] Zhang 2006 | Table 2, p. 3, row 33; `ORC-2YR56PTUGJ` |  |
+| Lattice a; _printed: Lattice constant a_ | 4.508 Å | 0 | bcc; _alloy: Na 0.75_ | DFT | [1] Zhang 2006 | Table 2, p. 3, row 34; `ORC-INBPJ3RJR3` |  |
+| Lattice c; _printed: Lattice constant c_ | 12.083 Å | 0 | KNa2; _alloy: Na 0.667_ | DFT | [1] Zhang 2006 | Table 2, p. 3, row 30; `ORC-CA6ODY6QX2.cee42d` |  |
+| Lattice c; _printed: Lattice constant c_ | 12.31 Å |  | KNa2; _alloy: Na 0.667_ | experimental | [1] Zhang 2006; _cites Laves 1943_ | Table 2, p. 3, row 14; `ORC-JMVBNXNQW2.4aabb9` |  |
 
 ## Sources
 
@@ -116,4 +116,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

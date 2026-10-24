@@ -58,16 +58,16 @@ Table: Invariant reactions reported in the literature for the Au–Te system (10
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 725 | eutectic: Liquid = fcc (Au) + AuTe2 | fcc (Au): Te 0; AuTe2: Te 0.666667 | experimental | [1] Wang 2006; _cites Pelabon 1909_ | Table 2, p. 3, row 4 |  |
-| 721 | eutectic: Liquid = fcc (Au) + AuTe2 | fcc (Au): Te 0; AuTe2: Te 0.666667 | experimental | [1] Wang 2006; _cites Bergman 1977_ [doi](https://doi.org/10.1002/bbpc.19770811024) | Table 2, p. 3, row 3 |  |
-| 720 | eutectic: Liquid = fcc (Au) + AuTe2 | fcc (Au): Te 0; AuTe2: Te 0.666667 | experimental | [1] Wang 2006; _cites Pellini 1910_ | Table 2, p. 3, row 2 |  |
-| 718.4 | eutectic: Liquid = fcc (Au) + AuTe2 | fcc (Au): Te 0; AuTe2: Te 0.666667 | model | [1] Wang 2006 | Table 2, p. 3, row 5 |  |
-| 705 | eutectic: Liquid = fcc (Au) + AuTe2 | fcc (Au): Te 0; AuTe2: Te 0.666667 | experimental | [1] Wang 2006; _cites Rose 1908_ | Table 2, p. 3, row 1 |  |
-| 690 | eutectic: Liquid = hex (Te) + AuTe2 | hex (Te): Te 1; AuTe2: Te 0.666667 | experimental | [1] Wang 2006; _cites Bergman 1977_ [doi](https://doi.org/10.1002/bbpc.19770811024) | Table 2, p. 3, row 9 |  |
-| 689.9 | eutectic: Liquid = hex (Te) + AuTe2 | hex (Te): Te 1; AuTe2: Te 0.666667 | model | [1] Wang 2006 | Table 2, p. 3, row 10 |  |
-| 689 | eutectic: Liquid = hex (Te) + AuTe2 | hex (Te): Te 1; AuTe2: Te 0.666667 | experimental | [1] Wang 2006; _cites Pellini 1910_ | Table 2, p. 3, row 8 |  |
-| 688 | eutectic: Liquid = hex (Te) + AuTe2 | hex (Te): Te 1; AuTe2: Te 0.666667 | experimental | [1] Wang 2006; _cites Pelabon 1909_ | Table 2, p. 3, row 7 |  |
-| 670 | eutectic: Liquid = hex (Te) + AuTe2 | hex (Te): Te 1; AuTe2: Te 0.666667 | experimental | [1] Wang 2006; _cites Rose 1908_ | Table 2, p. 3, row 6 |  |
+| 725 | eutectic: Liquid = fcc (Au) + AuTe2 | fcc (Au): Te 0; AuTe2: Te 0.666667 | experimental | [1] Wang 2006; _cites Pelabon 1909_ | Table 2, p. 3, row 4; `ORC-V2FLHU22AM` |  |
+| 721 | eutectic: Liquid = fcc (Au) + AuTe2 | fcc (Au): Te 0; AuTe2: Te 0.666667 | experimental | [1] Wang 2006; _cites Bergman 1977_ [doi](https://doi.org/10.1002/bbpc.19770811024) | Table 2, p. 3, row 3; `ORC-OPSM4OS5Y4` |  |
+| 720 | eutectic: Liquid = fcc (Au) + AuTe2 | fcc (Au): Te 0; AuTe2: Te 0.666667 | experimental | [1] Wang 2006; _cites Pellini 1910_ | Table 2, p. 3, row 2; `ORC-7DGTPIIS7B` |  |
+| 718.4 | eutectic: Liquid = fcc (Au) + AuTe2 | fcc (Au): Te 0; AuTe2: Te 0.666667 | model | [1] Wang 2006 | Table 2, p. 3, row 5; `ORC-66KNT4ZUUD` |  |
+| 705 | eutectic: Liquid = fcc (Au) + AuTe2 | fcc (Au): Te 0; AuTe2: Te 0.666667 | experimental | [1] Wang 2006; _cites Rose 1908_ | Table 2, p. 3, row 1; `ORC-JNAPOEGBV7` |  |
+| 690 | eutectic: Liquid = hex (Te) + AuTe2 | hex (Te): Te 1; AuTe2: Te 0.666667 | experimental | [1] Wang 2006; _cites Bergman 1977_ [doi](https://doi.org/10.1002/bbpc.19770811024) | Table 2, p. 3, row 9; `ORC-GSXMD4IF5F` |  |
+| 689.9 | eutectic: Liquid = hex (Te) + AuTe2 | hex (Te): Te 1; AuTe2: Te 0.666667 | model | [1] Wang 2006 | Table 2, p. 3, row 10; `ORC-U47757QKEJ` |  |
+| 689 | eutectic: Liquid = hex (Te) + AuTe2 | hex (Te): Te 1; AuTe2: Te 0.666667 | experimental | [1] Wang 2006; _cites Pellini 1910_ | Table 2, p. 3, row 8; `ORC-PZBW745NCP` |  |
+| 688 | eutectic: Liquid = hex (Te) + AuTe2 | hex (Te): Te 1; AuTe2: Te 0.666667 | experimental | [1] Wang 2006; _cites Pelabon 1909_ | Table 2, p. 3, row 7; `ORC-72ECS346B7` |  |
+| 670 | eutectic: Liquid = hex (Te) + AuTe2 | hex (Te): Te 1; AuTe2: Te 0.666667 | experimental | [1] Wang 2006; _cites Rose 1908_ | Table 2, p. 3, row 6; `ORC-ZVF7Y2GU5R` |  |
 
 ## Formation enthalpies
 
@@ -77,10 +77,10 @@ Table: Enthalpies of formation, Au–Te system (4)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | -4.74 kJ/mol-atom | 298.15 | experimental |  |  | [1] Wang 2006; _cites Andon 1971_ [doi](https://doi.org/10.1039/j19710001788) | p. 3 | “The data for enthalpy of formation of AuTe2 obtained from vapor pressure measurements by Andon et al. \[21\] and Veale and Barrett \[13\] are -4.74 and -3.91 kJ per mole atoms, respectively, at 298 K.” |
-| — |  | -3.91 kJ/mol-atom | 298.15 | experimental |  |  | [1] Wang 2006; _cites Veale 1967_ [doi](https://doi.org/10.1016/0022-5088%2867%2990110-5) | p. 3 | “The data for enthalpy of formation of AuTe2 obtained from vapor pressure measurements by Andon et al. \[21\] and Veale and Barrett \[13\] are -4.74 and -3.91 kJ per mole atoms, respectively, at 298 K.” |
-| — |  | -3 kJ/mol-atom | 298.15 | experimental |  |  | [1] Wang 2006 | p. 3 | “They obtained the enthalpy of formation of AuTe2 compound at 298 K (-3.0 kJ per mole of atoms) and the enthalpy of fusion (19.1 kJ per mole of atoms).” |
-| — |  | -2.5 kJ/mol-atom | 728 | experimental |  |  | [1] Wang 2006; _cites Bergman 1977_ [doi](https://doi.org/10.1002/bbpc.19770811024) | p. 3 | “The enthalpy of formation of AuTe2 compound at 728 K is -2.5 kJ per mole of atoms and the enthalpy of fusion at 737 K is 18.6 kJ per mole of atoms, which were measured by direct reaction calorimetry \[3\].” |
+| — |  | -4.74 kJ/mol-atom | 298.15 | experimental |  |  | [1] Wang 2006; _cites Andon 1971_ [doi](https://doi.org/10.1039/j19710001788) | p. 3; `ORC-PIT3OT5WS4.0347a2` | “The data for enthalpy of formation of AuTe2 obtained from vapor pressure measurements by Andon et al. \[21\] and Veale and Barrett \[13\] are -4.74 and -3.91 kJ per mole atoms, respectively, at 298 K.” |
+| — |  | -3.91 kJ/mol-atom | 298.15 | experimental |  |  | [1] Wang 2006; _cites Veale 1967_ [doi](https://doi.org/10.1016/0022-5088%2867%2990110-5) | p. 3; `ORC-PIT3OT5WS4.72d95c` | “The data for enthalpy of formation of AuTe2 obtained from vapor pressure measurements by Andon et al. \[21\] and Veale and Barrett \[13\] are -4.74 and -3.91 kJ per mole atoms, respectively, at 298 K.” |
+| — |  | -3 kJ/mol-atom | 298.15 | experimental |  |  | [1] Wang 2006 | p. 3; `ORC-PAHTSG7EPU` | “They obtained the enthalpy of formation of AuTe2 compound at 298 K (-3.0 kJ per mole of atoms) and the enthalpy of fusion (19.1 kJ per mole of atoms).” |
+| — |  | -2.5 kJ/mol-atom | 728 | experimental |  |  | [1] Wang 2006; _cites Bergman 1977_ [doi](https://doi.org/10.1002/bbpc.19770811024) | p. 3; `ORC-7O4F7ARINC.45bbae` | “The enthalpy of formation of AuTe2 compound at 728 K is -2.5 kJ per mole of atoms and the enthalpy of fusion at 737 K is 18.6 kJ per mole of atoms, which were measured by direct reaction calorimetry \[3\].” |
 
 ## Other properties
 
@@ -90,28 +90,28 @@ Table: Phase transition, Au–Te system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 690.25 K | 690.25 | other: 97 at.% Te; _alloy: Au 0.03, Te 0.97_ | experimental | [2] Feutelais 1994 | Table I, p. 1, row 32 |  |
-| Phase transition | 690.35 K | 690.35 | other: 70 at.% Te; _alloy: Au 0.3, Te 0.7_ | experimental | [2] Feutelais 1994 | Table I, p. 1, row 28 |  |
-| Phase transition | 690.45 K | 690.45 | other: 88 at.% Te; _alloy: Au 0.12, Te 0.88_ | experimental | [2] Feutelais 1994 | Table I, p. 1, row 30 |  |
-| Phase transition | 690.45 K | 690.45 | other: 93 at.% Te; _alloy: Au 0.07, Te 0.93_ | experimental | [2] Feutelais 1994 | Table I, p. 1, row 31 |  |
-| Phase transition | 690.65 K | 690.65 | other: 80 at.% Te; _alloy: Au 0.2, Te 0.8_ | experimental | [2] Feutelais 1994 | Table I, p. 1, row 29 |  |
-| Phase transition | 708.15 K | 708.15 | AuTe2 | experimental | [2] Feutelais 1994; _cites Winkler 1964_ | p. 2 | “Later, \[64Win\] pointed out a crystalline transformation of the AuTe 2 compound at 435 ~” |
-| Phase transition | 717.15 K | 717.15 | AuTe2 | experimental | [2] Feutelais 1994; _cites ref. 65Cab_ | p. 2 | “On the same compound, using high temperature X-ray powder diffraction, \[65Cab\] found at 444 ~ on only one occasion a diffraction pattern different from this one obtained at room temperature.” |
-| Phase transition | 720.85 K | 720.85 | other: 38 at.% Te; _alloy: Au 0.62, Te 0.38_ | experimental | [2] Feutelais 1994 | Table I, p. 1, row 18 |  |
-| Phase transition | 720.95 K | 720.95 | other: 43 at.% Te; _alloy: Au 0.57, Te 0.43_ | experimental | [2] Feutelais 1994 | Table I, p. 1, row 19 |  |
-| Phase transition | 720.95 K | 720.95 | other: 54 at.% Te; _alloy: Au 0.46, Te 0.54_ | experimental | [2] Feutelais 1994 | Table I, p. 1, row 22 |  |
-| Phase transition | 721.05 K | 721.05 | other: 50 at.% Te; _alloy: Au 0.5, Te 0.5_ | experimental | [2] Feutelais 1994 | Table I, p. 1, row 20 |  |
-| Phase transition | 721.05 K | 721.05 | other: 53 at.% Te; _alloy: Au 0.47, Te 0.53_ | experimental | [2] Feutelais 1994 | Table I, p. 1, row 21 |  |
-| Phase transition | 721.15 K | 721.15 | other: 55 at.% Te; _alloy: Au 0.45, Te 0.55_ | experimental | [2] Feutelais 1994 | Table I, p. 1, row 23 |  |
-| Phase transition | 721.15 K | 721.15 | other: 60 at.% Te; _alloy: Au 0.4, Te 0.6_ | experimental | [2] Feutelais 1994 | Table I, p. 1, row 25 |  |
-| Phase transition | 721.15 K | 721.15 | other: 63 at.% Te; _alloy: Au 0.37, Te 0.63_ | experimental | [2] Feutelais 1994 | Table I, p. 1, row 26 |  |
-| Phase transition | 721.25 K | 721.25 | other: 57 at.% Te; _alloy: Au 0.43, Te 0.57_ | experimental | [2] Feutelais 1994 | Table I, p. 1, row 24 |  |
-| Phase transition | 725 K | 725 | congruent melting: Liquid = AuTe2; _L: Te 0.666667; AuTe2: Te 0.666667_ | experimental | [1] Wang 2006; _cites Rose 1908_ | Table 2, p. 3, row 12 |  |
-| Phase transition | 736 K | 736 | congruent melting: Liquid = AuTe2; _L: Te 0.666667; AuTe2: Te 0.666667_ | experimental | [1] Wang 2006; _cites Bergman 1977_ [doi](https://doi.org/10.1002/bbpc.19770811024) | Table 2, p. 3, row 13 |  |
-| Phase transition | 736.75 K | 736.75 | congruent transformation | experimental | [2] Feutelais 1994 | p. 2 | “Auo.333Te0.667 a congruent melting point at 463.6 ~” |
-| Phase transition | 736.75 K | 736.75 | congruent transformation: 66.67 at.% Te; _alloy: Au 0.3333, Te 0.6667_ | experimental | [2] Feutelais 1994 | Table I, p. 1, row 27 |  |
-| Phase transition | 737 K | 737 | congruent melting: Liquid = AuTe2; _L: Te 0.666667; AuTe2: Te 0.666667_ | experimental | [1] Wang 2006; _cites Pellini 1910_ | Table 2, p. 3, row 11 |  |
-| Phase transition | 738.4 K | 738.4 | congruent melting: Liquid = AuTe2; _L: Te 0.666667; AuTe2: Te 0.666667_ | model | [1] Wang 2006 | Table 2, p. 3, row 14 |  |
+| Phase transition | 690.25 K | 690.25 | other: 97 at.% Te; _alloy: Au 0.03, Te 0.97_ | experimental | [2] Feutelais 1994 | Table I, p. 1, row 32; `ORC-JAUXGBS6LJ` |  |
+| Phase transition | 690.35 K | 690.35 | other: 70 at.% Te; _alloy: Au 0.3, Te 0.7_ | experimental | [2] Feutelais 1994 | Table I, p. 1, row 28; `ORC-M7FQA2LJAJ` |  |
+| Phase transition | 690.45 K | 690.45 | other: 88 at.% Te; _alloy: Au 0.12, Te 0.88_ | experimental | [2] Feutelais 1994 | Table I, p. 1, row 30; `ORC-V2R7GBQDDZ` |  |
+| Phase transition | 690.45 K | 690.45 | other: 93 at.% Te; _alloy: Au 0.07, Te 0.93_ | experimental | [2] Feutelais 1994 | Table I, p. 1, row 31; `ORC-KWUHYHTMRU` |  |
+| Phase transition | 690.65 K | 690.65 | other: 80 at.% Te; _alloy: Au 0.2, Te 0.8_ | experimental | [2] Feutelais 1994 | Table I, p. 1, row 29; `ORC-ODJXUHHWTV` |  |
+| Phase transition | 708.15 K | 708.15 | AuTe2 | experimental | [2] Feutelais 1994; _cites Winkler 1964_ | p. 2; `ORC-2FBBYYQHEM` | “Later, \[64Win\] pointed out a crystalline transformation of the AuTe 2 compound at 435 ~” |
+| Phase transition | 717.15 K | 717.15 | AuTe2 | experimental | [2] Feutelais 1994; _cites ref. 65Cab_ | p. 2; `ORC-AY36ELOJYJ` | “On the same compound, using high temperature X-ray powder diffraction, \[65Cab\] found at 444 ~ on only one occasion a diffraction pattern different from this one obtained at room temperature.” |
+| Phase transition | 720.85 K | 720.85 | other: 38 at.% Te; _alloy: Au 0.62, Te 0.38_ | experimental | [2] Feutelais 1994 | Table I, p. 1, row 18; `ORC-MHYL44BV3W` |  |
+| Phase transition | 720.95 K | 720.95 | other: 43 at.% Te; _alloy: Au 0.57, Te 0.43_ | experimental | [2] Feutelais 1994 | Table I, p. 1, row 19; `ORC-GV5ETW2UAT` |  |
+| Phase transition | 720.95 K | 720.95 | other: 54 at.% Te; _alloy: Au 0.46, Te 0.54_ | experimental | [2] Feutelais 1994 | Table I, p. 1, row 22; `ORC-FFSK4BLDXK` |  |
+| Phase transition | 721.05 K | 721.05 | other: 50 at.% Te; _alloy: Au 0.5, Te 0.5_ | experimental | [2] Feutelais 1994 | Table I, p. 1, row 20; `ORC-KZXUY4GDW3` |  |
+| Phase transition | 721.05 K | 721.05 | other: 53 at.% Te; _alloy: Au 0.47, Te 0.53_ | experimental | [2] Feutelais 1994 | Table I, p. 1, row 21; `ORC-V7RUGUCIXZ` |  |
+| Phase transition | 721.15 K | 721.15 | other: 55 at.% Te; _alloy: Au 0.45, Te 0.55_ | experimental | [2] Feutelais 1994 | Table I, p. 1, row 23; `ORC-Q2H77WD3ZX` |  |
+| Phase transition | 721.15 K | 721.15 | other: 60 at.% Te; _alloy: Au 0.4, Te 0.6_ | experimental | [2] Feutelais 1994 | Table I, p. 1, row 25; `ORC-BZF7QDX5OD` |  |
+| Phase transition | 721.15 K | 721.15 | other: 63 at.% Te; _alloy: Au 0.37, Te 0.63_ | experimental | [2] Feutelais 1994 | Table I, p. 1, row 26; `ORC-GIKBNR552B` |  |
+| Phase transition | 721.25 K | 721.25 | other: 57 at.% Te; _alloy: Au 0.43, Te 0.57_ | experimental | [2] Feutelais 1994 | Table I, p. 1, row 24; `ORC-PHOYCTGPIY` |  |
+| Phase transition | 725 K | 725 | congruent melting: Liquid = AuTe2; _L: Te 0.666667; AuTe2: Te 0.666667_ | experimental | [1] Wang 2006; _cites Rose 1908_ | Table 2, p. 3, row 12; `ORC-EE6MIHNNIY` |  |
+| Phase transition | 736 K | 736 | congruent melting: Liquid = AuTe2; _L: Te 0.666667; AuTe2: Te 0.666667_ | experimental | [1] Wang 2006; _cites Bergman 1977_ [doi](https://doi.org/10.1002/bbpc.19770811024) | Table 2, p. 3, row 13; `ORC-QYBTXIEXAE` |  |
+| Phase transition | 736.75 K | 736.75 | congruent transformation | experimental | [2] Feutelais 1994 | p. 2; `ORC-6H45XRZAFQ` | “Auo.333Te0.667 a congruent melting point at 463.6 ~” |
+| Phase transition | 736.75 K | 736.75 | congruent transformation: 66.67 at.% Te; _alloy: Au 0.3333, Te 0.6667_ | experimental | [2] Feutelais 1994 | Table I, p. 1, row 27; `ORC-ENLKL7A667` |  |
+| Phase transition | 737 K | 737 | congruent melting: Liquid = AuTe2; _L: Te 0.666667; AuTe2: Te 0.666667_ | experimental | [1] Wang 2006; _cites Pellini 1910_ | Table 2, p. 3, row 11; `ORC-IXK2JBOHZB` |  |
+| Phase transition | 738.4 K | 738.4 | congruent melting: Liquid = AuTe2; _L: Te 0.666667; AuTe2: Te 0.666667_ | model | [1] Wang 2006 | Table 2, p. 3, row 14; `ORC-RZLTQYZPHC` |  |
 
 ### Crystal structure (6)
 
@@ -119,12 +119,12 @@ Table: Crystal structure, Au–Te system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 4.098 Å | 298.15 | Au0.500Te0.500; _alloy: Te 0.5_ | experimental | [2] Feutelais 1994 | Table 3, p. 2, row 4 |  |
-| Lattice a | 4.108 Å | 298.15 | Au0.500Te0.500; _alloy: Te 0.5_ | experimental | [2] Feutelais 1994 | Table 3, p. 2, row 2 |  |
-| Lattice a | 4.095 Å | 298.15 | Au0.500Te0.500; _alloy: Te 0.5_ | experimental | [2] Feutelais 1994 | Table 3, p. 2, row 8 |  |
-| Lattice a | 4.091 Å | 298.15 | Au0.500Te0.500; _alloy: Te 0.5_ | experimental | [2] Feutelais 1994 | Table 3, p. 2, row 10 |  |
-| Lattice a | 4.097 Å | 298.15 | Au0.500Te0.500; _alloy: Te 0.5_ | experimental | [2] Feutelais 1994 | Table 3, p. 2, row 12 |  |
-| Lattice a | 4.099 Å | 298.15 | Au0.500Te0.500; _alloy: Te 0.5_ | experimental | [2] Feutelais 1994 | Table 3, p. 2, row 6 |  |
+| Lattice a | 4.098 Å | 298.15 | Au0.500Te0.500; _alloy: Te 0.5_ | experimental | [2] Feutelais 1994 | Table 3, p. 2, row 4; `ORC-4A43HV2WNV` |  |
+| Lattice a | 4.108 Å | 298.15 | Au0.500Te0.500; _alloy: Te 0.5_ | experimental | [2] Feutelais 1994 | Table 3, p. 2, row 2; `ORC-IQMAJJYWQW` |  |
+| Lattice a | 4.095 Å | 298.15 | Au0.500Te0.500; _alloy: Te 0.5_ | experimental | [2] Feutelais 1994 | Table 3, p. 2, row 8; `ORC-LITTMJK7JB` |  |
+| Lattice a | 4.091 Å | 298.15 | Au0.500Te0.500; _alloy: Te 0.5_ | experimental | [2] Feutelais 1994 | Table 3, p. 2, row 10; `ORC-NFBW5EI7HF` |  |
+| Lattice a | 4.097 Å | 298.15 | Au0.500Te0.500; _alloy: Te 0.5_ | experimental | [2] Feutelais 1994 | Table 3, p. 2, row 12; `ORC-UQDDDJRXQA` |  |
+| Lattice a | 4.099 Å | 298.15 | Au0.500Te0.500; _alloy: Te 0.5_ | experimental | [2] Feutelais 1994 | Table 3, p. 2, row 6; `ORC-VRENDOGBZY` |  |
 
 ### Other property (1)
 
@@ -132,7 +132,7 @@ Table: Other property, Au–Te system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Other; _printed: enthalpy of fusion_ | 18.6 kJ per mole of atoms | 737 |  | experimental | [1] Wang 2006; _cites Bergman 1977_ [doi](https://doi.org/10.1002/bbpc.19770811024) | p. 3 | “The enthalpy of formation of AuTe2 compound at 728 K is -2.5 kJ per mole of atoms and the enthalpy of fusion at 737 K is 18.6 kJ per mole of atoms, which were measured by direct reaction calorimetry \[3\].” |
+| Other; _printed: enthalpy of fusion_ | 18.6 kJ per mole of atoms | 737 |  | experimental | [1] Wang 2006; _cites Bergman 1977_ [doi](https://doi.org/10.1002/bbpc.19770811024) | p. 3; `ORC-7O4F7ARINC.e3248c` | “The enthalpy of formation of AuTe2 compound at 728 K is -2.5 kJ per mole of atoms and the enthalpy of fusion at 737 K is 18.6 kJ per mole of atoms, which were measured by direct reaction calorimetry \[3\].” |
 
 ## Sources
 
@@ -198,4 +198,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

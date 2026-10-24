@@ -30,12 +30,12 @@ Table: Invariant reactions reported in the literature for the C–Ta system (6)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 3749 | TaC + liq + gr | TaC: C 0.49; L: C 0.7; gr: C 1 | model | [1] Frisk 1996 | Table 2, p. 11, row 4 |  |
-| 3718 | TaC + liq + gr | TaC: C 0.5; L: C 0.61; gr: C 1 | experimental | [1] Frisk 1996; _cites Rudy 1966_ | Table 2, p. 11, row 3 |  |
-| 3619 | TaC + Ta2C + liq | TaC: C 0.38; Ta2C: C 0.333333; L: C 0.22 | model | [1] Frisk 1996 | Table 2, p. 11, row 6 |  |
-| 3603 | TaC + Ta2C + liq | TaC: C 0.38; Ta2C: C 0.333333; L: C 0.24 | experimental | [1] Frisk 1996; _cites Rudy 1966_ | Table 2, p. 11, row 5 |  |
-| 3103 | B.c.c. + Ta2C + liq | B.c.c.: C 0.07; Ta2C: C 0.26 | experimental | [1] Frisk 1996; _cites Storms 1967_ | Table 2, p. 11, row 7 |  |
-| 3047 | B.c.c. + Ta2C + liq | B.c.c.: C 0.081; Ta2C: C 0.28 | model | [1] Frisk 1996 | Table 2, p. 11, row 8 |  |
+| 3749 | TaC + liq + gr | TaC: C 0.49; L: C 0.7; gr: C 1 | model | [1] Frisk 1996 | Table 2, p. 11, row 4; `ORC-LO5LGRIY25` |  |
+| 3718 | TaC + liq + gr | TaC: C 0.5; L: C 0.61; gr: C 1 | experimental | [1] Frisk 1996; _cites Rudy 1966_ | Table 2, p. 11, row 3; `ORC-F74WPN53TG` |  |
+| 3619 | TaC + Ta2C + liq | TaC: C 0.38; Ta2C: C 0.333333; L: C 0.22 | model | [1] Frisk 1996 | Table 2, p. 11, row 6; `ORC-7CYN5HXGIU` |  |
+| 3603 | TaC + Ta2C + liq | TaC: C 0.38; Ta2C: C 0.333333; L: C 0.24 | experimental | [1] Frisk 1996; _cites Rudy 1966_ | Table 2, p. 11, row 5; `ORC-ZHRREABRJL` |  |
+| 3103 | B.c.c. + Ta2C + liq | B.c.c.: C 0.07; Ta2C: C 0.26 | experimental | [1] Frisk 1996; _cites Storms 1967_ | Table 2, p. 11, row 7; `ORC-NDXEXJ54VF` |  |
+| 3047 | B.c.c. + Ta2C + liq | B.c.c.: C 0.081; Ta2C: C 0.28 | model | [1] Frisk 1996 | Table 2, p. 11, row 8; `ORC-NXAR3MUBDE` |  |
 
 ## Other properties
 
@@ -45,9 +45,9 @@ Table: Phase transition, C–Ta system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 2273.15 K | 2273.15 | other | experimental | [1] Frisk 1996; _cites Storms 1967_ | p. 2 | “A structure change in Ta2C x has been observed at 2000 °C which is due to an ordering of the C atoms \[7\].” |
-| Phase transition | 4242 K | 4242 | Melting point of TaC; _TaC: C 0.4667; L: C 0.4667_ | model | [1] Frisk 1996 | Table 2, p. 11, row 2 |  |
-| Phase transition | 4256 K | 4256 | Melting point of TaC; _TaC: C 0.47; L: C 0.47_ | experimental | [1] Frisk 1996; _cites Rudy 1966_ | Table 2, p. 11, row 1 |  |
+| Phase transition | 2273.15 K | 2273.15 | other | experimental | [1] Frisk 1996; _cites Storms 1967_ | p. 2; `ORC-K2A4UXLVQP` | “A structure change in Ta2C x has been observed at 2000 °C which is due to an ordering of the C atoms \[7\].” |
+| Phase transition | 4242 K | 4242 | Melting point of TaC; _TaC: C 0.4667; L: C 0.4667_ | model | [1] Frisk 1996 | Table 2, p. 11, row 2; `ORC-XNL7ZMR7K6` |  |
+| Phase transition | 4256 K | 4256 | Melting point of TaC; _TaC: C 0.47; L: C 0.47_ | experimental | [1] Frisk 1996; _cites Rudy 1966_ | Table 2, p. 11, row 1; `ORC-WUXHFFJTAL` |  |
 
 ## Sources
 
@@ -101,4 +101,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

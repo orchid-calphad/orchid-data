@@ -71,29 +71,29 @@ Table: Invariant reactions reported in the literature for the Sm–Sn system (23
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1778.25 | congruent melting: L -> Sm5Sn3 | L: Sn 0.375; Sm5Sn3: Sn 0.375 | model | [1] Liu 2014 | Table 5, p. 6, row 6 |  |
-| 1778.15 | congruent melting: L -> Sm5Sn3 | L: Sn 0.375; Sm5Sn3: Sn 0.375 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 5, p. 6, row 5 |  |
-| 1713.15 | peritectic: L + Sm5Sn3 -> Sm4Sn3 | Sm5Sn3: Sn 0.375; Sm4Sn3: Sn 0.429 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 5, p. 6, row 7 |  |
-| 1712.95 | peritectic: L + Sm5Sn3 -> Sm4Sn3 | L: Sn 0.458; Sm5Sn3: Sn 0.375; Sm4Sn3: Sn 0.429 | model | [1] Liu 2014 | Table 5, p. 6, row 8 |  |
-| 1693.15 | peritectic: L + Sm4Sn3 -> Sm5Sn4 | Sm4Sn3: Sn 0.429; Sm5Sn4: Sn 0.444 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 5, p. 6, row 9 |  |
-| 1692.85 | peritectic: L + Sm4Sn3 -> Sm5Sn4 | L: Sn 0.488; Sm4Sn3: Sn 0.429; Sm5Sn4: Sn 0.444 | model | [1] Liu 2014 | Table 5, p. 6, row 10 |  |
-| 1513.15 | peritectic: L + Sm5Sn4 -> Sm11Sn10 | Sm5Sn4: Sn 0.444; Sm11Sn10: Sn 0.476 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 5, p. 6, row 11 |  |
-| 1511.75 | peritectic: L + Sm5Sn4 -> Sm11Sn10 | L: Sn 0.61; Sm5Sn4: Sn 0.444; Sm11Sn10: Sn 0.476 | model | [1] Liu 2014 | Table 5, p. 6, row 12 |  |
-| 1443.15 | metatectic/catatectic: Sm11Sn10 -> L + Sm5Sn4 | Sm11Sn10: Sn 0.476; L: Sn 0.635; Sm5Sn4: Sn 0.444 | model | [1] Liu 2014 | Table 5, p. 6, row 14 |  |
-| 1443.15 | metatectic/catatectic: Sm11Sn10 -> L + Sm5Sn4 | Sm11Sn10: Sn 0.476; Sm5Sn4: Sn 0.444 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 5, p. 6, row 13 |  |
-| 1378.15 | peritectic: L + Sm5Sn4 -> Sm2Sn3 | Sm5Sn4: Sn 0.444; Sm2Sn3: Sn 0.6 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 5, p. 6, row 15 |  |
-| 1378.15 | peritectic: L + Sm5Sn4 -> Sm2Sn3 | L: Sn 0.656; Sm5Sn4: Sn 0.444; Sm2Sn3: Sn 0.6 | model | [1] Liu 2014 | Table 5, p. 6, row 16 |  |
-| 1366.65 | other: L + Sm2Sn3 -> SmSn2 | L: Sn 0.67; Sm2Sn3: Sn 0.6; SmSn2: Sn 0.667 | model | [1] Liu 2014 | Table 5, p. 6, row 17 |  |
-| 1363.35 | congruent melting: L -> SmSn3 | L: Sn 0.75; SmSn3: Sn 0.75 | model | [1] Liu 2014 | Table 5, p. 6, row 21 |  |
-| 1363.15 | congruent melting: L -> SmSn3 | L: Sn 0.75; SmSn3: Sn 0.75 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 5, p. 6, row 20 |  |
-| 1353.15 | eutectic: L -> SmSn2 + SmSn3 | L: Sn 0.667; SmSn2: Sn 0.67; SmSn3: Sn 0.75 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 5, p. 6, row 18 |  |
-| 1353.05 | eutectic: L -> SmSn2 + SmSn3 | L: Sn 0.667; SmSn2: Sn 0.712; SmSn3: Sn 0.75 | model | [1] Liu 2014 | Table 5, p. 6, row 19 |  |
-| 1189.15 | metatectic/catatectic: (γSm) -> L + (βSm) | (γSm): Sn 0.001; L: Sn 0.105; (βSm): Sn 0 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 5, p. 6, row 1 |  |
-| 1189.15 | metatectic/catatectic: (γSm) -> L + (βSm) | (γSm): Sn 0.001; L: Sn 0.105; (βSm): Sn 0 | model | [1] Liu 2014 | Table 5, p. 6, row 2 |  |
-| 1179.15 | eutectic: L -> (βSm) + Sm5Sn3 | L: Sn 0.11; (βSm): Sn 0; Sm5Sn3: Sn 0.375 | model | [1] Liu 2014 | Table 5, p. 6, row 4 |  |
-| 1179.15 | eutectic: L -> (βSm) + Sm5Sn3 | L: Sn 0.11; (βSm): Sn 0; Sm5Sn3: Sn 0.375 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 5, p. 6, row 3 |  |
-| 504.15 | eutectic: L -> SmSn3 + (Sn) | L: Sn 0.997; SmSn3: Sn 0.75; (Sn): Sn 1 | model | [1] Liu 2014 | Table 5, p. 6, row 23 |  |
-| 502.15 | eutectic: L -> SmSn3 + (Sn) | L: Sn 0.998; SmSn3: Sn 0.75; (Sn): Sn 1 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 5, p. 6, row 22 |  |
+| 1778.25 | congruent melting: L -> Sm5Sn3 | L: Sn 0.375; Sm5Sn3: Sn 0.375 | model | [1] Liu 2014 | Table 5, p. 6, row 6; `ORC-6362WL2CE3` |  |
+| 1778.15 | congruent melting: L -> Sm5Sn3 | L: Sn 0.375; Sm5Sn3: Sn 0.375 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 5, p. 6, row 5; `ORC-OW7I6BDNA6` |  |
+| 1713.15 | peritectic: L + Sm5Sn3 -> Sm4Sn3 | Sm5Sn3: Sn 0.375; Sm4Sn3: Sn 0.429 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 5, p. 6, row 7; `ORC-KJQW73H3BB` |  |
+| 1712.95 | peritectic: L + Sm5Sn3 -> Sm4Sn3 | L: Sn 0.458; Sm5Sn3: Sn 0.375; Sm4Sn3: Sn 0.429 | model | [1] Liu 2014 | Table 5, p. 6, row 8; `ORC-CBNN65IKUM` |  |
+| 1693.15 | peritectic: L + Sm4Sn3 -> Sm5Sn4 | Sm4Sn3: Sn 0.429; Sm5Sn4: Sn 0.444 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 5, p. 6, row 9; `ORC-GW6OVAOJC3` |  |
+| 1692.85 | peritectic: L + Sm4Sn3 -> Sm5Sn4 | L: Sn 0.488; Sm4Sn3: Sn 0.429; Sm5Sn4: Sn 0.444 | model | [1] Liu 2014 | Table 5, p. 6, row 10; `ORC-XEL3H2ZYS6` |  |
+| 1513.15 | peritectic: L + Sm5Sn4 -> Sm11Sn10 | Sm5Sn4: Sn 0.444; Sm11Sn10: Sn 0.476 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 5, p. 6, row 11; `ORC-KBJEUJDWBH` |  |
+| 1511.75 | peritectic: L + Sm5Sn4 -> Sm11Sn10 | L: Sn 0.61; Sm5Sn4: Sn 0.444; Sm11Sn10: Sn 0.476 | model | [1] Liu 2014 | Table 5, p. 6, row 12; `ORC-O6M46IY35P` |  |
+| 1443.15 | metatectic/catatectic: Sm11Sn10 -> L + Sm5Sn4 | Sm11Sn10: Sn 0.476; L: Sn 0.635; Sm5Sn4: Sn 0.444 | model | [1] Liu 2014 | Table 5, p. 6, row 14; `ORC-7UQ4KEJVW7` |  |
+| 1443.15 | metatectic/catatectic: Sm11Sn10 -> L + Sm5Sn4 | Sm11Sn10: Sn 0.476; Sm5Sn4: Sn 0.444 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 5, p. 6, row 13; `ORC-I7CFW7N6EB` |  |
+| 1378.15 | peritectic: L + Sm5Sn4 -> Sm2Sn3 | Sm5Sn4: Sn 0.444; Sm2Sn3: Sn 0.6 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 5, p. 6, row 15; `ORC-OTOYYHVXML` |  |
+| 1378.15 | peritectic: L + Sm5Sn4 -> Sm2Sn3 | L: Sn 0.656; Sm5Sn4: Sn 0.444; Sm2Sn3: Sn 0.6 | model | [1] Liu 2014 | Table 5, p. 6, row 16; `ORC-PCJ54O4YCK` |  |
+| 1366.65 | other: L + Sm2Sn3 -> SmSn2 | L: Sn 0.67; Sm2Sn3: Sn 0.6; SmSn2: Sn 0.667 | model | [1] Liu 2014 | Table 5, p. 6, row 17; `ORC-YYBT75ENVM` |  |
+| 1363.35 | congruent melting: L -> SmSn3 | L: Sn 0.75; SmSn3: Sn 0.75 | model | [1] Liu 2014 | Table 5, p. 6, row 21; `ORC-J74PZC4ATJ` |  |
+| 1363.15 | congruent melting: L -> SmSn3 | L: Sn 0.75; SmSn3: Sn 0.75 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 5, p. 6, row 20; `ORC-PNHBWW4CSJ` |  |
+| 1353.15 | eutectic: L -> SmSn2 + SmSn3 | L: Sn 0.667; SmSn2: Sn 0.67; SmSn3: Sn 0.75 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 5, p. 6, row 18; `ORC-CSBQNLKQBA` |  |
+| 1353.05 | eutectic: L -> SmSn2 + SmSn3 | L: Sn 0.667; SmSn2: Sn 0.712; SmSn3: Sn 0.75 | model | [1] Liu 2014 | Table 5, p. 6, row 19; `ORC-K65KLGG6TZ` |  |
+| 1189.15 | metatectic/catatectic: (γSm) -> L + (βSm) | (γSm): Sn 0.001; L: Sn 0.105; (βSm): Sn 0 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 5, p. 6, row 1; `ORC-GLSG2RYWN2` |  |
+| 1189.15 | metatectic/catatectic: (γSm) -> L + (βSm) | (γSm): Sn 0.001; L: Sn 0.105; (βSm): Sn 0 | model | [1] Liu 2014 | Table 5, p. 6, row 2; `ORC-J7NOAZPC2H` |  |
+| 1179.15 | eutectic: L -> (βSm) + Sm5Sn3 | L: Sn 0.11; (βSm): Sn 0; Sm5Sn3: Sn 0.375 | model | [1] Liu 2014 | Table 5, p. 6, row 4; `ORC-7YDNXRJRBL` |  |
+| 1179.15 | eutectic: L -> (βSm) + Sm5Sn3 | L: Sn 0.11; (βSm): Sn 0; Sm5Sn3: Sn 0.375 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 5, p. 6, row 3; `ORC-QGILT63DUE` |  |
+| 504.15 | eutectic: L -> SmSn3 + (Sn) | L: Sn 0.997; SmSn3: Sn 0.75; (Sn): Sn 1 | model | [1] Liu 2014 | Table 5, p. 6, row 23; `ORC-YL5AYRZKIZ` |  |
+| 502.15 | eutectic: L -> SmSn3 + (Sn) | L: Sn 0.998; SmSn3: Sn 0.75; (Sn): Sn 1 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 5, p. 6, row 22; `ORC-LMYNYB3KUK` |  |
 
 ## Sources
 
@@ -158,4 +158,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

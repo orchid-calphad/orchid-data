@@ -14,15 +14,15 @@ Table: Enthalpy of formation of Ga2Se3 reported in the literature (9)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -92.048 kJ/mol-atom | β-Ga2Se3 | 298.15 | experimental | Calorimetry | [Ga–Se](https://data.orchid-project.org/systems/GA-SE.html) | [1] Zheng 2008; _cites Gadzhiev 1961_ | Table 3, p. 6, row 9 |  |
-| -87.864 kJ/mol-atom | β-Ga2Se3 | 298.15 | experimental | Calorimetry | [Ga–Se](https://data.orchid-project.org/systems/GA-SE.html) | [1] Zheng 2008; _cites Hahn 1956_ [doi](https://doi.org/10.1002/ange.19560681616) | Table 3, p. 6, row 8 |  |
-| -81.7554 kJ/mol-atom | β-Ga2Se3 | 298.15 | experimental | Galvanic Cell | [Ga–Se](https://data.orchid-project.org/systems/GA-SE.html) | [1] Zheng 2008; _cites Mamedov 1969_ | Table 3, p. 6, row 12 |  |
-| -81.002 kJ/mol-atom | β-Ga2Se3 | 298.15 | experimental | Galvanic Cell | [Ga–Se](https://data.orchid-project.org/systems/GA-SE.html) | [1] Zheng 2008; _cites Mamedov 1969_ | Table 3, p. 6, row 12 |  |
-| -75.312 kJ/mol-atom | β-Ga2Se3 | 298.15 | experimental | Calorimetry | [Ga–Se](https://data.orchid-project.org/systems/GA-SE.html) | [1] Zheng 2008; _cites Effendiev 1965_ | Table 3, p. 6, row 10 |  |
-| -73.722 kJ/mol-atom | β-Ga2Se3 | 298.15 | experimental | Calorimetry | [Ga–Se](https://data.orchid-project.org/systems/GA-SE.html) | [1] Zheng 2008; _cites Sharifov 1967_ | Table 3, p. 6, row 11 |  |
-| -81.7554 kJ/mol-atom | β-Ga2Se3 | 298.15 | model | Evaluation | [Ga–Se](https://data.orchid-project.org/systems/GA-SE.html) | [1] Zheng 2008; _cites Barin 1995_ [doi](https://doi.org/10.1002/9783527619825) | Table 3, p. 6, row 14 |  |
-| -81.7554 kJ/mol-atom | β-Ga2Se3 | 298.15 | model | Evaluation | [Ga–Se](https://data.orchid-project.org/systems/GA-SE.html) | [1] Zheng 2008; _cites Mills 1974_ | Table 3, p. 6, row 13 |  |
-| -79.7396 kJ/mol-atom | β-Ga2Se3 | 298.15 | model | Evaluation | [Ga–Se](https://data.orchid-project.org/systems/GA-SE.html) | [1] Zheng 2008 | Table 3, p. 6, row 15 |  |
+| -92.048 kJ/mol-atom | β-Ga2Se3 | 298.15 | experimental | Calorimetry | [Ga–Se](https://data.orchid-project.org/systems/GA-SE.html) | [1] Zheng 2008; _cites Gadzhiev 1961_ | Table 3, p. 6, row 9; `ORC-NCIGGUNDYN` |  |
+| -87.864 kJ/mol-atom | β-Ga2Se3 | 298.15 | experimental | Calorimetry | [Ga–Se](https://data.orchid-project.org/systems/GA-SE.html) | [1] Zheng 2008; _cites Hahn 1956_ [doi](https://doi.org/10.1002/ange.19560681616) | Table 3, p. 6, row 8; `ORC-EUL3YE7EQG` |  |
+| -81.7554 kJ/mol-atom | β-Ga2Se3 | 298.15 | experimental | Galvanic Cell | [Ga–Se](https://data.orchid-project.org/systems/GA-SE.html) | [1] Zheng 2008; _cites Mamedov 1969_ | Table 3, p. 6, row 12; `ORC-DEDGCKX3D7.a196a2` |  |
+| -81.002 kJ/mol-atom | β-Ga2Se3 | 298.15 | experimental | Galvanic Cell | [Ga–Se](https://data.orchid-project.org/systems/GA-SE.html) | [1] Zheng 2008; _cites Mamedov 1969_ | Table 3, p. 6, row 12; `ORC-DEDGCKX3D7.794e48` |  |
+| -75.312 kJ/mol-atom | β-Ga2Se3 | 298.15 | experimental | Calorimetry | [Ga–Se](https://data.orchid-project.org/systems/GA-SE.html) | [1] Zheng 2008; _cites Effendiev 1965_ | Table 3, p. 6, row 10; `ORC-WIBUCVTZDJ` |  |
+| -73.722 kJ/mol-atom | β-Ga2Se3 | 298.15 | experimental | Calorimetry | [Ga–Se](https://data.orchid-project.org/systems/GA-SE.html) | [1] Zheng 2008; _cites Sharifov 1967_ | Table 3, p. 6, row 11; `ORC-V3ZAZTBCJT` |  |
+| -81.7554 kJ/mol-atom | β-Ga2Se3 | 298.15 | model | Evaluation | [Ga–Se](https://data.orchid-project.org/systems/GA-SE.html) | [1] Zheng 2008; _cites Barin 1995_ [doi](https://doi.org/10.1002/9783527619825) | Table 3, p. 6, row 14; `ORC-J3QM73W5JA` |  |
+| -81.7554 kJ/mol-atom | β-Ga2Se3 | 298.15 | model | Evaluation | [Ga–Se](https://data.orchid-project.org/systems/GA-SE.html) | [1] Zheng 2008; _cites Mills 1974_ | Table 3, p. 6, row 13; `ORC-QR4G3S4CQI` |  |
+| -79.7396 kJ/mol-atom | β-Ga2Se3 | 298.15 | model | Evaluation | [Ga–Se](https://data.orchid-project.org/systems/GA-SE.html) | [1] Zheng 2008 | Table 3, p. 6, row 15; `ORC-2A6YM645CJ` |  |
 
 ### Uncertainty budget
 
@@ -106,4 +106,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

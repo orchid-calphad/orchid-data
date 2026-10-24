@@ -32,28 +32,28 @@ Table: Invariant reactions reported in the literature for the B–Cr system (22)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2356.15 | peritectic: L + CrB2 -> Cr3B4 | L: B 0.533; CrB2: B 0.667; Cr3B4: B 0.571 | model | [1] Campbell 2002 | Table 2, p. 3, row 14 |  |
-| 2354.15 | eutectic: L -> CrB + Cr3B4 | L: B 0.529; CrB: B 0.5; Cr3B4: B 0.571 | model | [1] Campbell 2002 | Table 2, p. 3, row 12 |  |
-| 2343.15 | peritectic |  | experimental | [1] Campbell 2002 | p. 5 | “The measured eutectic reaction at 2050 "C and the peritectic reaction at 2070 "C are in reasonable agreement with the calculations: the current calculations overestimate the eutectic temperature by 3 1 degrees and the peritectic temperature by 13 degrees.” |
-| 2343.15 | peritectic: L + CrB2 -> Cr3B4 | L: B 0.56; CrB2: B 0.667; Cr3B4: B 0.571 | experimental | [1] Campbell 2002; _cites ref. 18_ | Table 2, p. 3, row 13 |  |
-| 2323.15 | eutectic |  | experimental | [1] Campbell 2002 | p. 5 | “The measured eutectic reaction at 2050 "C and the peritectic reaction at 2070 "C are in reasonable agreement with the calculations: the current calculations overestimate the eutectic temperature by 3 1 degrees and the peritectic temperature by 13 degrees.” |
-| 2323.15 | eutectic: L -> CrB + Cr3B4 | L: B 0.535; CrB: B 0.5; Cr3B4: B 0.571 | experimental | [1] Campbell 2002; _cites ref. 19_ | Table 2, p. 3, row 11 |  |
-| 2187.15 | peritectic: L + CrB -> Cr5B3 | L: B 0.357; CrB: B 0.5; Cr5B3: B 0.375 | model | [1] Campbell 2002 | Table 2, p. 3, row 8 |  |
-| 2173.15 | peritectic: L + CrB -+ CrsBs |  | model | [1] Campbell 2002 | p. 5 | “The peritectic reactions at 1870 "C (L + CrSBj -+ CrzB) and 1900 "C (L + CrB -+ CrsBs) are in good agreement with the experimental data.” |
-| 2173.15 | peritectic: L + CrB -> Cr5B3 | L: B 0.34; CrB: B 0.5; Cr5B3: B 0.375 | experimental | [1] Campbell 2002; _cites ref. 18_ | Table 2, p. 3, row 7 |  |
-| 2151.15 | peritectic: L + Cr5B3 -> Cr2B | L: B 0.313; Cr5B3: B 0.375; Cr2B: B 0.333 | model | [1] Campbell 2002 | Table 2, p. 3, row 6 |  |
-| 2143.15 | peritectic: L + Cr5B3 -> Cr2B | L: B 0.31; Cr5B3: B 0.375; Cr2B: B 0.333 | experimental | [1] Campbell 2002; _cites ref. 18_ | Table 2, p. 3, row 5 |  |
-| 2143.15 | peritectic: L + CrSBj -+ CrzB |  | model | [1] Campbell 2002 | p. 5 | “The peritectic reactions at 1870 "C (L + CrSBj -+ CrzB) and 1900 "C (L + CrB -+ CrsBs) are in good agreement with the experimental data.” |
-| 2112.15 | eutectic: L -> CrB2 + β(B) | L: B 0.835; CrB2: B 0.667; β(B): B 1 | model | [1] Campbell 2002 | Table 2, p. 3, row 18 |  |
-| 2112.15 | eutectic |  | model | [1] Campbell 2002 | p. 5 | “The eutectic reaction at 1830 "C and the peritectoid reaction at 1500 "C are overestimated in the assessment with a calculated eutectic temperature of 1839 "C and a peritectoid reaction at 1506 "C.” |
-| 2103.15 | eutectic: L -> CrB2 + β(B) | L: B 0.83; CrB2: B 0.667; β(B): B 0.98 | experimental | [1] Campbell 2002; _cites ref. 19_ | Table 2, p. 3, row 17 |  |
-| 2103.15 | eutectic |  | experimental | [1] Campbell 2002 | p. 5 | “The eutectic reaction at 1830 "C and the peritectoid reaction at 1500 "C are overestimated in the assessment with a calculated eutectic temperature of 1839 "C and a peritectoid reaction at 1506 "C.” |
-| 1903.15 | eutectic: L -> BCC(Cr) + Cr2B | L: B 0.135; BCC(Cr): B 0.01; Cr2B: B 0.333 | experimental | [1] Campbell 2002; _cites ref. 19_ | Table 2, p. 3, row 3 |  |
-| 1903.15 | eutectic |  | experimental | [1] Campbell 2002 | p. 5 | “The calculated eutectic reaction at 1605 "C is in reasonable agreement with the experimental eutectic temperature of 1630 "C and the measured liquid composition.” |
-| 1878.15 | eutectic |  | model | [1] Campbell 2002 | p. 5 | “The calculated eutectic reaction at 1605 "C is in reasonable agreement with the experimental eutectic temperature of 1630 "C and the measured liquid composition.” |
-| 1878.15 | eutectic: L -> BCC(Cr) + Cr2B | L: B 0.168; BCC(Cr): B 0.0105; Cr2B: B 0.333 | model | [1] Campbell 2002 | Table 2, p. 3, row 4 |  |
-| 1779.15 | peritectoid: CrB2 + β(B) -> CrB4 | CrB2: B 0.667; β(B): B 1; CrB4: B 0.8 | model | [1] Campbell 2002 | Table 2, p. 3, row 20 |  |
-| 1773.15 | peritectoid: CrB2 + β(B) -> CrB4 | CrB2: B 0.667; β(B): B 1; CrB4: B 0.8 | experimental | [1] Campbell 2002; _cites ref. 21_ | Table 2, p. 3, row 19 |  |
+| 2356.15 | peritectic: L + CrB2 -> Cr3B4 | L: B 0.533; CrB2: B 0.667; Cr3B4: B 0.571 | model | [1] Campbell 2002 | Table 2, p. 3, row 14; `ORC-HBE6QCGFTC` |  |
+| 2354.15 | eutectic: L -> CrB + Cr3B4 | L: B 0.529; CrB: B 0.5; Cr3B4: B 0.571 | model | [1] Campbell 2002 | Table 2, p. 3, row 12; `ORC-AEWJ6C22GJ` |  |
+| 2343.15 | peritectic |  | experimental | [1] Campbell 2002 | p. 5; `ORC-27W4HWUAPZ.3a8c66` | “The measured eutectic reaction at 2050 "C and the peritectic reaction at 2070 "C are in reasonable agreement with the calculations: the current calculations overestimate the eutectic temperature by 3 1 degrees and the peritectic temperature by 13 degrees.” |
+| 2343.15 | peritectic: L + CrB2 -> Cr3B4 | L: B 0.56; CrB2: B 0.667; Cr3B4: B 0.571 | experimental | [1] Campbell 2002; _cites ref. 18_ | Table 2, p. 3, row 13; `ORC-3AW7VWKT5I` |  |
+| 2323.15 | eutectic |  | experimental | [1] Campbell 2002 | p. 5; `ORC-27W4HWUAPZ.a0212c` | “The measured eutectic reaction at 2050 "C and the peritectic reaction at 2070 "C are in reasonable agreement with the calculations: the current calculations overestimate the eutectic temperature by 3 1 degrees and the peritectic temperature by 13 degrees.” |
+| 2323.15 | eutectic: L -> CrB + Cr3B4 | L: B 0.535; CrB: B 0.5; Cr3B4: B 0.571 | experimental | [1] Campbell 2002; _cites ref. 19_ | Table 2, p. 3, row 11; `ORC-C24QL77BII` |  |
+| 2187.15 | peritectic: L + CrB -> Cr5B3 | L: B 0.357; CrB: B 0.5; Cr5B3: B 0.375 | model | [1] Campbell 2002 | Table 2, p. 3, row 8; `ORC-2WOYKDQT4M` |  |
+| 2173.15 | peritectic: L + CrB -+ CrsBs |  | model | [1] Campbell 2002 | p. 5; `ORC-PSVUKDZQ3A.dceda1` | “The peritectic reactions at 1870 "C (L + CrSBj -+ CrzB) and 1900 "C (L + CrB -+ CrsBs) are in good agreement with the experimental data.” |
+| 2173.15 | peritectic: L + CrB -> Cr5B3 | L: B 0.34; CrB: B 0.5; Cr5B3: B 0.375 | experimental | [1] Campbell 2002; _cites ref. 18_ | Table 2, p. 3, row 7; `ORC-QFQVJFLNLN` |  |
+| 2151.15 | peritectic: L + Cr5B3 -> Cr2B | L: B 0.313; Cr5B3: B 0.375; Cr2B: B 0.333 | model | [1] Campbell 2002 | Table 2, p. 3, row 6; `ORC-XHN2IHLD5B` |  |
+| 2143.15 | peritectic: L + Cr5B3 -> Cr2B | L: B 0.31; Cr5B3: B 0.375; Cr2B: B 0.333 | experimental | [1] Campbell 2002; _cites ref. 18_ | Table 2, p. 3, row 5; `ORC-5LIMJWUI33` |  |
+| 2143.15 | peritectic: L + CrSBj -+ CrzB |  | model | [1] Campbell 2002 | p. 5; `ORC-PSVUKDZQ3A.98710a` | “The peritectic reactions at 1870 "C (L + CrSBj -+ CrzB) and 1900 "C (L + CrB -+ CrsBs) are in good agreement with the experimental data.” |
+| 2112.15 | eutectic: L -> CrB2 + β(B) | L: B 0.835; CrB2: B 0.667; β(B): B 1 | model | [1] Campbell 2002 | Table 2, p. 3, row 18; `ORC-7MMBR2WZIJ` |  |
+| 2112.15 | eutectic |  | model | [1] Campbell 2002 | p. 5; `ORC-FOPF26CW6O.fc4eb8` | “The eutectic reaction at 1830 "C and the peritectoid reaction at 1500 "C are overestimated in the assessment with a calculated eutectic temperature of 1839 "C and a peritectoid reaction at 1506 "C.” |
+| 2103.15 | eutectic: L -> CrB2 + β(B) | L: B 0.83; CrB2: B 0.667; β(B): B 0.98 | experimental | [1] Campbell 2002; _cites ref. 19_ | Table 2, p. 3, row 17; `ORC-AHEVRICYJH` |  |
+| 2103.15 | eutectic |  | experimental | [1] Campbell 2002 | p. 5; `ORC-FOPF26CW6O.206038` | “The eutectic reaction at 1830 "C and the peritectoid reaction at 1500 "C are overestimated in the assessment with a calculated eutectic temperature of 1839 "C and a peritectoid reaction at 1506 "C.” |
+| 1903.15 | eutectic: L -> BCC(Cr) + Cr2B | L: B 0.135; BCC(Cr): B 0.01; Cr2B: B 0.333 | experimental | [1] Campbell 2002; _cites ref. 19_ | Table 2, p. 3, row 3; `ORC-256U3FF4KM` |  |
+| 1903.15 | eutectic |  | experimental | [1] Campbell 2002 | p. 5; `ORC-ANO4AZK63C.be4ae4` | “The calculated eutectic reaction at 1605 "C is in reasonable agreement with the experimental eutectic temperature of 1630 "C and the measured liquid composition.” |
+| 1878.15 | eutectic |  | model | [1] Campbell 2002 | p. 5; `ORC-ANO4AZK63C.5b524f` | “The calculated eutectic reaction at 1605 "C is in reasonable agreement with the experimental eutectic temperature of 1630 "C and the measured liquid composition.” |
+| 1878.15 | eutectic: L -> BCC(Cr) + Cr2B | L: B 0.168; BCC(Cr): B 0.0105; Cr2B: B 0.333 | model | [1] Campbell 2002 | Table 2, p. 3, row 4; `ORC-P75LWTQXHF` |  |
+| 1779.15 | peritectoid: CrB2 + β(B) -> CrB4 | CrB2: B 0.667; β(B): B 1; CrB4: B 0.8 | model | [1] Campbell 2002 | Table 2, p. 3, row 20; `ORC-6FGDGE37BY` |  |
+| 1773.15 | peritectoid: CrB2 + β(B) -> CrB4 | CrB2: B 0.667; β(B): B 1; CrB4: B 0.8 | experimental | [1] Campbell 2002; _cites ref. 21_ | Table 2, p. 3, row 19; `ORC-CCWW7NYEWA` |  |
 
 ## Formation enthalpies
 
@@ -63,22 +63,22 @@ Table: Enthalpies of formation, B–Cr system (16)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Cr2B | [Cr2B](https://data.orchid-project.org/compounds/Cr2B.html) | -36 kJ/mol-atom |  | model | -35.874 (mp-aaabgkiy) | -36.091 (oqmd-28322) | [1] Campbell 2002; _cites ref. 41_ | Table 4, p. 6, row 19 |  |
-| Cr2B | [Cr2B](https://data.orchid-project.org/compounds/Cr2B.html) | -30.8 kJ/mol-atom |  | model | -35.874 (mp-aaabgkiy) | -36.091 (oqmd-28322) | [1] Campbell 2002 | Table 4, p. 6, row 14 |  |
-| Cr2B | [Cr2B](https://data.orchid-project.org/compounds/Cr2B.html) | -28.3 kJ/mol-atom |  | model | -35.874 (mp-aaabgkiy) | -36.091 (oqmd-28322) | [1] Campbell 2002; _cites ref. 16_ | Table 4, p. 6, row 9 |  |
-| Cr2B | [Cr2B](https://data.orchid-project.org/compounds/Cr2B.html) | -28.3 kJ/mol-atom |  | model | -35.874 (mp-aaabgkiy) | -36.091 (oqmd-28322) | [1] Campbell 2002; _cites ref. 42_ | Table 4, p. 6, row 4 |  |
-| Cr3B4 | [Cr3B4](https://data.orchid-project.org/compounds/Cr3B4.html) | -43 kJ/mol-atom |  | model | -44.409 (mp-aaaaabif) | -44.171 (oqmd-68007) | [1] Campbell 2002; _cites ref. 41_ | Table 4, p. 6, row 20 |  |
-| Cr3B4 | [Cr3B4](https://data.orchid-project.org/compounds/Cr3B4.html) | -42.9 kJ/mol-atom |  | model | -44.409 (mp-aaaaabif) | -44.171 (oqmd-68007) | [1] Campbell 2002 | Table 4, p. 6, row 15 |  |
-| Cr3B4 | [Cr3B4](https://data.orchid-project.org/compounds/Cr3B4.html) | -40.8 kJ/mol-atom |  | model | -44.409 (mp-aaaaabif) | -44.171 (oqmd-68007) | [1] Campbell 2002; _cites ref. 42_ | Table 4, p. 6, row 5 |  |
-| Cr3B4 | [Cr3B4](https://data.orchid-project.org/compounds/Cr3B4.html) | -40.3 kJ/mol-atom |  | model | -44.409 (mp-aaaaabif) | -44.171 (oqmd-68007) | [1] Campbell 2002; _cites ref. 16_ | Table 4, p. 6, row 10 |  |
-| Cr5B3 | [Cr5B3](https://data.orchid-project.org/compounds/Cr5B3.html) | -40 kJ/mol-atom |  | model | -40.104 (mp-aaaaaxcr) | -40.349 (oqmd-5250) | [1] Campbell 2002; _cites ref. 41_ | Table 4, p. 6, row 18 |  |
-| Cr5B3 | [Cr5B3](https://data.orchid-project.org/compounds/Cr5B3.html) | -36.7 kJ/mol-atom |  | model | -40.104 (mp-aaaaaxcr) | -40.349 (oqmd-5250) | [1] Campbell 2002; _cites ref. 42_ | Table 4, p. 6, row 3 |  |
-| Cr5B3 | [Cr5B3](https://data.orchid-project.org/compounds/Cr5B3.html) | -34.2 kJ/mol-atom |  | model | -40.104 (mp-aaaaaxcr) | -40.349 (oqmd-5250) | [1] Campbell 2002 | Table 4, p. 6, row 13 |  |
-| Cr5B3 | [Cr5B3](https://data.orchid-project.org/compounds/Cr5B3.html) | -31.2 kJ/mol-atom |  | model | -40.104 (mp-aaaaaxcr) | -40.349 (oqmd-5250) | [1] Campbell 2002; _cites ref. 16_ | Table 4, p. 6, row 8 |  |
-| CrB | [CrB](https://data.orchid-project.org/compounds/CrB.html) | -45 kJ/mol-atom |  | model | -50.189 (mp-aaaaaaka) | -49.899 (oqmd-5878) | [1] Campbell 2002; _cites ref. 41_ | Table 4, p. 6, row 17 |  |
-| CrB | [CrB](https://data.orchid-project.org/compounds/CrB.html) | -39.9 kJ/mol-atom |  | model | -50.189 (mp-aaaaaaka) | -49.899 (oqmd-5878) | [1] Campbell 2002; _cites ref. 42_ | Table 4, p. 6, row 2 |  |
-| CrB | [CrB](https://data.orchid-project.org/compounds/CrB.html) | -39.4 kJ/mol-atom |  | model | -50.189 (mp-aaaaaaka) | -49.899 (oqmd-5878) | [1] Campbell 2002; _cites ref. 16_ | Table 4, p. 6, row 7 |  |
-| CrB | [CrB](https://data.orchid-project.org/compounds/CrB.html) | -37.8 kJ/mol-atom |  | model | -50.189 (mp-aaaaaaka) | -49.899 (oqmd-5878) | [1] Campbell 2002 | Table 4, p. 6, row 12 |  |
+| Cr2B | [Cr2B](https://data.orchid-project.org/compounds/Cr2B.html) | -36 kJ/mol-atom |  | model | -35.874 (mp-aaabgkiy) | -36.091 (oqmd-28322) | [1] Campbell 2002; _cites ref. 41_ | Table 4, p. 6, row 19; `ORC-EKZJYRRMRK` |  |
+| Cr2B | [Cr2B](https://data.orchid-project.org/compounds/Cr2B.html) | -30.8 kJ/mol-atom |  | model | -35.874 (mp-aaabgkiy) | -36.091 (oqmd-28322) | [1] Campbell 2002 | Table 4, p. 6, row 14; `ORC-RCF26AYRVH` |  |
+| Cr2B | [Cr2B](https://data.orchid-project.org/compounds/Cr2B.html) | -28.3 kJ/mol-atom |  | model | -35.874 (mp-aaabgkiy) | -36.091 (oqmd-28322) | [1] Campbell 2002; _cites ref. 16_ | Table 4, p. 6, row 9; `ORC-GHOM4ZJYGX` |  |
+| Cr2B | [Cr2B](https://data.orchid-project.org/compounds/Cr2B.html) | -28.3 kJ/mol-atom |  | model | -35.874 (mp-aaabgkiy) | -36.091 (oqmd-28322) | [1] Campbell 2002; _cites ref. 42_ | Table 4, p. 6, row 4; `ORC-TMLAHDWIUM` |  |
+| Cr3B4 | [Cr3B4](https://data.orchid-project.org/compounds/Cr3B4.html) | -43 kJ/mol-atom |  | model | -44.409 (mp-aaaaabif) | -44.171 (oqmd-68007) | [1] Campbell 2002; _cites ref. 41_ | Table 4, p. 6, row 20; `ORC-XHM6YK4ET2` |  |
+| Cr3B4 | [Cr3B4](https://data.orchid-project.org/compounds/Cr3B4.html) | -42.9 kJ/mol-atom |  | model | -44.409 (mp-aaaaabif) | -44.171 (oqmd-68007) | [1] Campbell 2002 | Table 4, p. 6, row 15; `ORC-SCBIVEIJV5` |  |
+| Cr3B4 | [Cr3B4](https://data.orchid-project.org/compounds/Cr3B4.html) | -40.8 kJ/mol-atom |  | model | -44.409 (mp-aaaaabif) | -44.171 (oqmd-68007) | [1] Campbell 2002; _cites ref. 42_ | Table 4, p. 6, row 5; `ORC-DLHACHFXTU` |  |
+| Cr3B4 | [Cr3B4](https://data.orchid-project.org/compounds/Cr3B4.html) | -40.3 kJ/mol-atom |  | model | -44.409 (mp-aaaaabif) | -44.171 (oqmd-68007) | [1] Campbell 2002; _cites ref. 16_ | Table 4, p. 6, row 10; `ORC-4ZOBKVUGY4` |  |
+| Cr5B3 | [Cr5B3](https://data.orchid-project.org/compounds/Cr5B3.html) | -40 kJ/mol-atom |  | model | -40.104 (mp-aaaaaxcr) | -40.349 (oqmd-5250) | [1] Campbell 2002; _cites ref. 41_ | Table 4, p. 6, row 18; `ORC-74CTZL3EC2` |  |
+| Cr5B3 | [Cr5B3](https://data.orchid-project.org/compounds/Cr5B3.html) | -36.7 kJ/mol-atom |  | model | -40.104 (mp-aaaaaxcr) | -40.349 (oqmd-5250) | [1] Campbell 2002; _cites ref. 42_ | Table 4, p. 6, row 3; `ORC-RCJWS34QZ3` |  |
+| Cr5B3 | [Cr5B3](https://data.orchid-project.org/compounds/Cr5B3.html) | -34.2 kJ/mol-atom |  | model | -40.104 (mp-aaaaaxcr) | -40.349 (oqmd-5250) | [1] Campbell 2002 | Table 4, p. 6, row 13; `ORC-MEMYQEJPGA` |  |
+| Cr5B3 | [Cr5B3](https://data.orchid-project.org/compounds/Cr5B3.html) | -31.2 kJ/mol-atom |  | model | -40.104 (mp-aaaaaxcr) | -40.349 (oqmd-5250) | [1] Campbell 2002; _cites ref. 16_ | Table 4, p. 6, row 8; `ORC-GRPOFZ37KA` |  |
+| CrB | [CrB](https://data.orchid-project.org/compounds/CrB.html) | -45 kJ/mol-atom |  | model | -50.189 (mp-aaaaaaka) | -49.899 (oqmd-5878) | [1] Campbell 2002; _cites ref. 41_ | Table 4, p. 6, row 17; `ORC-MQKM5SVA6W` |  |
+| CrB | [CrB](https://data.orchid-project.org/compounds/CrB.html) | -39.9 kJ/mol-atom |  | model | -50.189 (mp-aaaaaaka) | -49.899 (oqmd-5878) | [1] Campbell 2002; _cites ref. 42_ | Table 4, p. 6, row 2; `ORC-H7TCPRJTAI` |  |
+| CrB | [CrB](https://data.orchid-project.org/compounds/CrB.html) | -39.4 kJ/mol-atom |  | model | -50.189 (mp-aaaaaaka) | -49.899 (oqmd-5878) | [1] Campbell 2002; _cites ref. 16_ | Table 4, p. 6, row 7; `ORC-2V5CENY74G` |  |
+| CrB | [CrB](https://data.orchid-project.org/compounds/CrB.html) | -37.8 kJ/mol-atom |  | model | -50.189 (mp-aaaaaaka) | -49.899 (oqmd-5878) | [1] Campbell 2002 | Table 4, p. 6, row 12; `ORC-NYZPIOZUWY` |  |
 
 ## Other properties
 
@@ -88,17 +88,17 @@ Table: Phase transition, B–Cr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1773.15 K | 1773.15 | other | experimental | [1] Campbell 2002 | p. 5 | “The eutectic reaction at 1830 "C and the peritectoid reaction at 1500 "C are overestimated in the assessment with a calculated eutectic temperature of 1839 "C and a peritectoid reaction at 1506 "C.” |
-| Phase transition | 1779.15 K | 1779.15 | other | model | [1] Campbell 2002 | p. 5 | “The eutectic reaction at 1830 "C and the peritectoid reaction at 1500 "C are overestimated in the assessment with a calculated eutectic temperature of 1839 "C and a peritectoid reaction at 1506 "C.” |
-| Phase transition | 2136.15 K | 2136.15 | congruent melting: L -> BCC(Cr); _BCC(Cr): B 0_ | experimental | [1] Campbell 2002; _cites ref. 25_ | Table 2, p. 3, row 1 |  |
-| Phase transition | 2180.15 K | 2180.15 | congruent melting: L -> BCC(Cr); _BCC(Cr): B 0_ | experimental | [1] Campbell 2002; _cites ref. 10_ | Table 2, p. 3, row 2 |  |
-| Phase transition | 2348.15 K | 2348.15 | congruent melting: L -> β(B); _β(B): B 1_ | experimental | [1] Campbell 2002; _cites ref. 10_ | Table 2, p. 3, row 22 |  |
-| Phase transition | 2360.15 K | 2360.15 | congruent melting: L -> CrB; _L: B 0.5; CrB: B 0.5_ | model | [1] Campbell 2002 | Table 2, p. 3, row 10 |  |
-| Phase transition | 2365.15 K | 2365.15 | congruent melting: L -> β(B); _β(B): B 1_ | experimental | [1] Campbell 2002; _cites ref. 26_ | Table 2, p. 3, row 21 |  |
-| Phase transition | 2373.15 K | 2373.15 | congruent melting: L -> CrB; _L: B 0.5; CrB: B 0.5_ | experimental | [1] Campbell 2002; _cites ref. 19_ | Table 2, p. 3, row 9 |  |
-| Phase transition | 2373.15 K | 2373.15 | congruent transformation | experimental | [1] Campbell 2002 | p. 5 | “The calculated congruent melting temperature of CrB is 13 degrees below the measured temperature of 2100 "C.” |
-| Phase transition | 2430.15 K | 2430.15 | congruent melting: L -> CrB2; _L: B 0.667; CrB2: B 0.667_ | model | [1] Campbell 2002 | Table 2, p. 3, row 16 |  |
-| Phase transition | 2473.15 K | 2473.15 | congruent melting: L -> CrB2; _L: B 0.667; CrB2: B 0.667_ | experimental | [1] Campbell 2002; _cites ref. 19_ | Table 2, p. 3, row 15 |  |
+| Phase transition | 1773.15 K | 1773.15 | other | experimental | [1] Campbell 2002 | p. 5; `ORC-FOPF26CW6O.b2c210` | “The eutectic reaction at 1830 "C and the peritectoid reaction at 1500 "C are overestimated in the assessment with a calculated eutectic temperature of 1839 "C and a peritectoid reaction at 1506 "C.” |
+| Phase transition | 1779.15 K | 1779.15 | other | model | [1] Campbell 2002 | p. 5; `ORC-FOPF26CW6O.da9e6b` | “The eutectic reaction at 1830 "C and the peritectoid reaction at 1500 "C are overestimated in the assessment with a calculated eutectic temperature of 1839 "C and a peritectoid reaction at 1506 "C.” |
+| Phase transition | 2136.15 K | 2136.15 | congruent melting: L -> BCC(Cr); _BCC(Cr): B 0_ | experimental | [1] Campbell 2002; _cites ref. 25_ | Table 2, p. 3, row 1; `ORC-SDE34FRBVZ` |  |
+| Phase transition | 2180.15 K | 2180.15 | congruent melting: L -> BCC(Cr); _BCC(Cr): B 0_ | experimental | [1] Campbell 2002; _cites ref. 10_ | Table 2, p. 3, row 2; `ORC-LUU3A322OB` |  |
+| Phase transition | 2348.15 K | 2348.15 | congruent melting: L -> β(B); _β(B): B 1_ | experimental | [1] Campbell 2002; _cites ref. 10_ | Table 2, p. 3, row 22; `ORC-6B3JODICWX` |  |
+| Phase transition | 2360.15 K | 2360.15 | congruent melting: L -> CrB; _L: B 0.5; CrB: B 0.5_ | model | [1] Campbell 2002 | Table 2, p. 3, row 10; `ORC-WRNQUHT3FU` |  |
+| Phase transition | 2365.15 K | 2365.15 | congruent melting: L -> β(B); _β(B): B 1_ | experimental | [1] Campbell 2002; _cites ref. 26_ | Table 2, p. 3, row 21; `ORC-MENK5H3I2Z` |  |
+| Phase transition | 2373.15 K | 2373.15 | congruent melting: L -> CrB; _L: B 0.5; CrB: B 0.5_ | experimental | [1] Campbell 2002; _cites ref. 19_ | Table 2, p. 3, row 9; `ORC-62F65AVF3Q` |  |
+| Phase transition | 2373.15 K | 2373.15 | congruent transformation | experimental | [1] Campbell 2002 | p. 5; `ORC-2VZIQBA3CB` | “The calculated congruent melting temperature of CrB is 13 degrees below the measured temperature of 2100 "C.” |
+| Phase transition | 2430.15 K | 2430.15 | congruent melting: L -> CrB2; _L: B 0.667; CrB2: B 0.667_ | model | [1] Campbell 2002 | Table 2, p. 3, row 16; `ORC-FTX6LCAXGE` |  |
+| Phase transition | 2473.15 K | 2473.15 | congruent melting: L -> CrB2; _L: B 0.667; CrB2: B 0.667_ | experimental | [1] Campbell 2002; _cites ref. 19_ | Table 2, p. 3, row 15; `ORC-HKBLC2K5QR` |  |
 
 ### Crystal structure (31)
 
@@ -106,37 +106,37 @@ Table: Crystal structure, B–Cr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 2.975 Å | 298.15 | CrB; _alloy: B 0.5, Cr 0.5_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 7 |  |
-| Lattice a | 2.969 Å | 298.15 | CrB; _alloy: B 0.5, Cr 0.5_ | experimental | [1] Campbell 2002; _cites ref. 18_ | Table 1, p. 2, row 6 |  |
-| Lattice a | 14.71 Å | 298.15 | UNKNOWN; _alloy: B 0.333333, Cr 0.666667_ | experimental | [1] Campbell 2002; _cites ref. 18_ | Table 1, p. 2, row 1 |  |
-| Lattice a | 14.692 Å | 298.15 | UNKNOWN; _alloy: B 0.333333, Cr 0.666667_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 2 |  |
-| Lattice a | 5.468 Å | 298.15 | UNKNOWN; _alloy: B 0.375, Cr 0.625_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 4 |  |
-| Lattice a | 2.973 Å | 298.15 | UNKNOWN; _alloy: B 0.666667, Cr 0.333333_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 11 |  |
-| Lattice a | 4.74 Å | 298.15 | UNKNOWN; _alloy: B 0.8, Cr 0.2_ | experimental | [1] Campbell 2002; _cites ref. 21_ | Table 1, p. 2, row 12 |  |
-| Lattice a | 2.984 Å | 298.15 | UNKNOWN; _alloy: B 0.571429, Cr 0.428571_ | experimental | [1] Campbell 2002; _cites ref. 18_ | Table 1, p. 2, row 8 |  |
-| Lattice a | 5.46 Å | 298.15 | UNKNOWN; _alloy: B 0.375, Cr 0.625_ | experimental | [1] Campbell 2002; _cites ref. 19_ | Table 1, p. 2, row 5 |  |
-| Lattice a | 2.946 Å | 298.15 | UNKNOWN; _alloy: B 0.571429, Cr 0.428571_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 9 |  |
-| Lattice a | 2.969 Å | 298.15 | UNKNOWN; _alloy: B 0.666667, Cr 0.333333_ | experimental | [1] Campbell 2002; _cites ref. 18_ | Table 1, p. 2, row 10 |  |
-| Lattice a | 5.46 Å | 298.15 | UNKNOWN; _alloy: B 0.375, Cr 0.625_ | experimental | [1] Campbell 2002; _cites ref. 18_ | Table 1, p. 2, row 3 |  |
-| Lattice b | 7.866 Å | 298.15 | CrB; _alloy: B 0.5, Cr 0.5_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 7 |  |
-| Lattice b | 7.858 Å | 298.15 | CrB; _alloy: B 0.5, Cr 0.5_ | experimental | [1] Campbell 2002; _cites ref. 18_ | Table 1, p. 2, row 6 |  |
-| Lattice b | 7.41 Å | 298.15 | UNKNOWN; _alloy: B 0.333333, Cr 0.666667_ | experimental | [1] Campbell 2002; _cites ref. 18_ | Table 1, p. 2, row 1 |  |
-| Lattice b | 7.399 Å | 298.15 | UNKNOWN; _alloy: B 0.333333, Cr 0.666667_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 2 |  |
-| Lattice b | 5.477 Å | 298.15 | UNKNOWN; _alloy: B 0.8, Cr 0.2_ | experimental | [1] Campbell 2002; _cites ref. 21_ | Table 1, p. 2, row 12 |  |
-| Lattice b | 13.02 Å | 298.15 | UNKNOWN; _alloy: B 0.571429, Cr 0.428571_ | experimental | [1] Campbell 2002; _cites ref. 18_ | Table 1, p. 2, row 8 |  |
-| Lattice b | 13.018 Å | 298.15 | UNKNOWN; _alloy: B 0.571429, Cr 0.428571_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 9 |  |
-| Lattice c | 2.934 Å | 298.15 | CrB; _alloy: B 0.5, Cr 0.5_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 7 |  |
-| Lattice c | 2.932 Å | 298.15 | CrB; _alloy: B 0.5, Cr 0.5_ | experimental | [1] Campbell 2002; _cites ref. 18_ | Table 1, p. 2, row 6 |  |
-| Lattice c | 4.25 Å | 298.15 | UNKNOWN; _alloy: B 0.333333, Cr 0.666667_ | experimental | [1] Campbell 2002; _cites ref. 18_ | Table 1, p. 2, row 1 |  |
-| Lattice c | 4.266 Å | 298.15 | UNKNOWN; _alloy: B 0.333333, Cr 0.666667_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 2 |  |
-| Lattice c | 10.089 Å | 298.15 | UNKNOWN; _alloy: B 0.375, Cr 0.625_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 4 |  |
-| Lattice c | 3.07 Å | 298.15 | UNKNOWN; _alloy: B 0.666667, Cr 0.333333_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 11 |  |
-| Lattice c | 2.866 Å | 298.15 | UNKNOWN; _alloy: B 0.8, Cr 0.2_ | experimental | [1] Campbell 2002; _cites ref. 21_ | Table 1, p. 2, row 12 |  |
-| Lattice c | 2.953 Å | 298.15 | UNKNOWN; _alloy: B 0.571429, Cr 0.428571_ | experimental | [1] Campbell 2002; _cites ref. 18_ | Table 1, p. 2, row 8 |  |
-| Lattice c | 10.64 Å | 298.15 | UNKNOWN; _alloy: B 0.375, Cr 0.625_ | experimental | [1] Campbell 2002; _cites ref. 19_ | Table 1, p. 2, row 5 |  |
-| Lattice c | 2.964 Å | 298.15 | UNKNOWN; _alloy: B 0.571429, Cr 0.428571_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 9 |  |
-| Lattice c | 3.066 Å | 298.15 | UNKNOWN; _alloy: B 0.666667, Cr 0.333333_ | experimental | [1] Campbell 2002; _cites ref. 18_ | Table 1, p. 2, row 10 |  |
-| Lattice c | 10.46 Å | 298.15 | UNKNOWN; _alloy: B 0.375, Cr 0.625_ | experimental | [1] Campbell 2002; _cites ref. 18_ | Table 1, p. 2, row 3 |  |
+| Lattice a | 2.975 Å | 298.15 | CrB; _alloy: B 0.5, Cr 0.5_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 7; `ORC-IK5NRFPK6X.434a57` |  |
+| Lattice a | 2.969 Å | 298.15 | CrB; _alloy: B 0.5, Cr 0.5_ | experimental | [1] Campbell 2002; _cites ref. 18_ | Table 1, p. 2, row 6; `ORC-K6IYUZSZV3.00c64b` |  |
+| Lattice a | 14.71 Å | 298.15 | UNKNOWN; _alloy: B 0.333333, Cr 0.666667_ | experimental | [1] Campbell 2002; _cites ref. 18_ | Table 1, p. 2, row 1; `ORC-6L2J6A5HVN.a33d78` |  |
+| Lattice a | 14.692 Å | 298.15 | UNKNOWN; _alloy: B 0.333333, Cr 0.666667_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 2; `ORC-7U6K3FXSGD.d6c2d0` |  |
+| Lattice a | 5.468 Å | 298.15 | UNKNOWN; _alloy: B 0.375, Cr 0.625_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 4; `ORC-7XWJN264J4.c652f9` |  |
+| Lattice a | 2.973 Å | 298.15 | UNKNOWN; _alloy: B 0.666667, Cr 0.333333_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 11; `ORC-BLRMWCPWML.1f9d0a` |  |
+| Lattice a | 4.74 Å | 298.15 | UNKNOWN; _alloy: B 0.8, Cr 0.2_ | experimental | [1] Campbell 2002; _cites ref. 21_ | Table 1, p. 2, row 12; `ORC-DGHU536BLG.b37268` |  |
+| Lattice a | 2.984 Å | 298.15 | UNKNOWN; _alloy: B 0.571429, Cr 0.428571_ | experimental | [1] Campbell 2002; _cites ref. 18_ | Table 1, p. 2, row 8; `ORC-EOCK65NO7X.3ef418` |  |
+| Lattice a | 5.46 Å | 298.15 | UNKNOWN; _alloy: B 0.375, Cr 0.625_ | experimental | [1] Campbell 2002; _cites ref. 19_ | Table 1, p. 2, row 5; `ORC-M27XZ2THFK.b57ed8` |  |
+| Lattice a | 2.946 Å | 298.15 | UNKNOWN; _alloy: B 0.571429, Cr 0.428571_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 9; `ORC-PAWX3UJ3S3.f23036` |  |
+| Lattice a | 2.969 Å | 298.15 | UNKNOWN; _alloy: B 0.666667, Cr 0.333333_ | experimental | [1] Campbell 2002; _cites ref. 18_ | Table 1, p. 2, row 10; `ORC-TTLCDQ4ELJ.1134e4` |  |
+| Lattice a | 5.46 Å | 298.15 | UNKNOWN; _alloy: B 0.375, Cr 0.625_ | experimental | [1] Campbell 2002; _cites ref. 18_ | Table 1, p. 2, row 3; `ORC-X7PPTNKHEP.8eadd5` |  |
+| Lattice b | 7.866 Å | 298.15 | CrB; _alloy: B 0.5, Cr 0.5_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 7; `ORC-IK5NRFPK6X.0e880a` |  |
+| Lattice b | 7.858 Å | 298.15 | CrB; _alloy: B 0.5, Cr 0.5_ | experimental | [1] Campbell 2002; _cites ref. 18_ | Table 1, p. 2, row 6; `ORC-K6IYUZSZV3.34ac45` |  |
+| Lattice b | 7.41 Å | 298.15 | UNKNOWN; _alloy: B 0.333333, Cr 0.666667_ | experimental | [1] Campbell 2002; _cites ref. 18_ | Table 1, p. 2, row 1; `ORC-6L2J6A5HVN.92716b` |  |
+| Lattice b | 7.399 Å | 298.15 | UNKNOWN; _alloy: B 0.333333, Cr 0.666667_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 2; `ORC-7U6K3FXSGD.ef8f94` |  |
+| Lattice b | 5.477 Å | 298.15 | UNKNOWN; _alloy: B 0.8, Cr 0.2_ | experimental | [1] Campbell 2002; _cites ref. 21_ | Table 1, p. 2, row 12; `ORC-DGHU536BLG.859176` |  |
+| Lattice b | 13.02 Å | 298.15 | UNKNOWN; _alloy: B 0.571429, Cr 0.428571_ | experimental | [1] Campbell 2002; _cites ref. 18_ | Table 1, p. 2, row 8; `ORC-EOCK65NO7X.7647d7` |  |
+| Lattice b | 13.018 Å | 298.15 | UNKNOWN; _alloy: B 0.571429, Cr 0.428571_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 9; `ORC-PAWX3UJ3S3.7a9df8` |  |
+| Lattice c | 2.934 Å | 298.15 | CrB; _alloy: B 0.5, Cr 0.5_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 7; `ORC-IK5NRFPK6X.6ea697` |  |
+| Lattice c | 2.932 Å | 298.15 | CrB; _alloy: B 0.5, Cr 0.5_ | experimental | [1] Campbell 2002; _cites ref. 18_ | Table 1, p. 2, row 6; `ORC-K6IYUZSZV3.559d7c` |  |
+| Lattice c | 4.25 Å | 298.15 | UNKNOWN; _alloy: B 0.333333, Cr 0.666667_ | experimental | [1] Campbell 2002; _cites ref. 18_ | Table 1, p. 2, row 1; `ORC-6L2J6A5HVN.50a75d` |  |
+| Lattice c | 4.266 Å | 298.15 | UNKNOWN; _alloy: B 0.333333, Cr 0.666667_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 2; `ORC-7U6K3FXSGD.6839d3` |  |
+| Lattice c | 10.089 Å | 298.15 | UNKNOWN; _alloy: B 0.375, Cr 0.625_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 4; `ORC-7XWJN264J4.b7756d` |  |
+| Lattice c | 3.07 Å | 298.15 | UNKNOWN; _alloy: B 0.666667, Cr 0.333333_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 11; `ORC-BLRMWCPWML.afa732` |  |
+| Lattice c | 2.866 Å | 298.15 | UNKNOWN; _alloy: B 0.8, Cr 0.2_ | experimental | [1] Campbell 2002; _cites ref. 21_ | Table 1, p. 2, row 12; `ORC-DGHU536BLG.533faf` |  |
+| Lattice c | 2.953 Å | 298.15 | UNKNOWN; _alloy: B 0.571429, Cr 0.428571_ | experimental | [1] Campbell 2002; _cites ref. 18_ | Table 1, p. 2, row 8; `ORC-EOCK65NO7X.d49ec2` |  |
+| Lattice c | 10.64 Å | 298.15 | UNKNOWN; _alloy: B 0.375, Cr 0.625_ | experimental | [1] Campbell 2002; _cites ref. 19_ | Table 1, p. 2, row 5; `ORC-M27XZ2THFK.489b8f` |  |
+| Lattice c | 2.964 Å | 298.15 | UNKNOWN; _alloy: B 0.571429, Cr 0.428571_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 9; `ORC-PAWX3UJ3S3.d0a8e2` |  |
+| Lattice c | 3.066 Å | 298.15 | UNKNOWN; _alloy: B 0.666667, Cr 0.333333_ | experimental | [1] Campbell 2002; _cites ref. 18_ | Table 1, p. 2, row 10; `ORC-TTLCDQ4ELJ.346483` |  |
+| Lattice c | 10.46 Å | 298.15 | UNKNOWN; _alloy: B 0.375, Cr 0.625_ | experimental | [1] Campbell 2002; _cites ref. 18_ | Table 1, p. 2, row 3; `ORC-X7PPTNKHEP.a23ad5` |  |
 
 ## Sources
 
@@ -190,4 +190,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

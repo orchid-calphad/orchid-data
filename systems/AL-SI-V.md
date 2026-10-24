@@ -30,18 +30,18 @@ Table: Invariant reactions reported in the literature for the Al–Si–V system
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1247.15 | L + Si3V5 -> Al3V + τ |  | model | [1] Luo 2018 | Table 4, p. 9, row 11 |  |
-| 1235.15 | L + Si3V5 -> Al3V + τ |  | experimental | [1] Luo 2018 | Table 4, p. 9, row 12 |  |
-| 1141.15 | L + τ -> Al3V + Si2V |  | model | [1] Luo 2018 | Table 4, p. 9, row 9 |  |
-| 1138.15 | L + τ -> Al3V + Si2V |  | experimental | [1] Luo 2018 | Table 4, p. 9, row 10 |  |
-| 1016.15 | L + Al3V + Si2V -> Al45V7 |  | model | [1] Luo 2018 | Table 4, p. 9, row 7 |  |
-| 1008.15 | L + Al3V -> Al23V4 + Al45V7 |  | model | [1] Luo 2018 | Table 4, p. 9, row 6 |  |
-| 1004.15 | L + Al3V + Si2V -> Al45V7 |  | experimental | [1] Luo 2018 | Table 4, p. 9, row 8 |  |
-| 925.15 | L + Al21V2 -> Al45V7 + fcc(Al) |  | model | [1] Luo 2018 | Table 4, p. 9, row 5 |  |
-| 915.15 | L + Al45V7 -> fcc(Al) + Si2V |  | model | [1] Luo 2018 | Table 4, p. 9, row 3 |  |
-| 893.15 | L + Al45V7 -> fcc(Al) + Si2V |  | experimental | [1] Luo 2018 | Table 4, p. 9, row 4 |  |
-| 850.15 | L + Si2V -> fcc(Al) + Si |  | model | [1] Luo 2018 | Table 4, p. 9, row 1 |  |
-| 843.15 | L + Si2V -> fcc(Al) + Si |  | experimental | [1] Luo 2018 | Table 4, p. 9, row 2 |  |
+| 1247.15 | L + Si3V5 -> Al3V + τ |  | model | [1] Luo 2018 | Table 4, p. 9, row 11; `ORC-LHGFRP26SE` |  |
+| 1235.15 | L + Si3V5 -> Al3V + τ |  | experimental | [1] Luo 2018 | Table 4, p. 9, row 12; `ORC-6R5D2KI5XN` |  |
+| 1141.15 | L + τ -> Al3V + Si2V |  | model | [1] Luo 2018 | Table 4, p. 9, row 9; `ORC-LPDPH2FKRZ` |  |
+| 1138.15 | L + τ -> Al3V + Si2V |  | experimental | [1] Luo 2018 | Table 4, p. 9, row 10; `ORC-A5XXTVAQ55` |  |
+| 1016.15 | L + Al3V + Si2V -> Al45V7 |  | model | [1] Luo 2018 | Table 4, p. 9, row 7; `ORC-5GEJZGQDIJ` |  |
+| 1008.15 | L + Al3V -> Al23V4 + Al45V7 |  | model | [1] Luo 2018 | Table 4, p. 9, row 6; `ORC-X6IR5ATKXM` |  |
+| 1004.15 | L + Al3V + Si2V -> Al45V7 |  | experimental | [1] Luo 2018 | Table 4, p. 9, row 8; `ORC-6CX2B7YQHT` |  |
+| 925.15 | L + Al21V2 -> Al45V7 + fcc(Al) |  | model | [1] Luo 2018 | Table 4, p. 9, row 5; `ORC-X72RMTOKAE` |  |
+| 915.15 | L + Al45V7 -> fcc(Al) + Si2V |  | model | [1] Luo 2018 | Table 4, p. 9, row 3; `ORC-KSRVTMWITT` |  |
+| 893.15 | L + Al45V7 -> fcc(Al) + Si2V |  | experimental | [1] Luo 2018 | Table 4, p. 9, row 4; `ORC-RF4OPOKABJ` |  |
+| 850.15 | L + Si2V -> fcc(Al) + Si |  | model | [1] Luo 2018 | Table 4, p. 9, row 1; `ORC-S75BNGJCCS` |  |
+| 843.15 | L + Si2V -> fcc(Al) + Si |  | experimental | [1] Luo 2018 | Table 4, p. 9, row 2; `ORC-LXY5O6ONUC` |  |
 
 ## Formation enthalpies
 
@@ -51,8 +51,8 @@ Table: Enthalpies of formation, Al–Si–V system (2)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| τ |  | -52.409 kJ/mol-atom |  | model |  |  | [1] Luo 2018 | Table 3, p. 5, row 26 |  |
-| τ |  | -10.083 kJ/mol-atom |  | model |  |  | [1] Luo 2018 | Table 3, p. 5, row 27 |  |
+| τ |  | -52.409 kJ/mol-atom |  | model |  |  | [1] Luo 2018 | Table 3, p. 5, row 26; `ORC-RDCOTZIPIQ` |  |
+| τ |  | -10.083 kJ/mol-atom |  | model |  |  | [1] Luo 2018 | Table 3, p. 5, row 27; `ORC-7M5BGWY2BX` |  |
 
 ## Other properties
 
@@ -62,13 +62,13 @@ Table: Phase equilibrium, Al–Si–V system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 773.15 | Fcc(Al) + Al45V7 + Si3V5 + Al3V + Si2V; _Fcc(Al): Al 0.987, Si 0.011, V 0.002; Al45V7: Al 0.831, Si 0.035, V 0.134; Si3V5: Al 0.018, Si 0.382, V 0.6; Al3V: Al 0.729, Si 0.016, V 0.254; Si2V: Al 0.09, Si 0.591, V 0.319_ | experimental | [1] Luo 2018 | Table 1, p. 5, row 1 |  |
-| Phase composition |  | 773.15 | Fcc(Al) + Al45V7 + Si3V5 + Si2V; _Fcc(Al): Al 0.988, Si 0.007, V 0.005; Al45V7: Al 0.821, Si 0.041, V 0.137; Si3V5: Al 0.053, Si 0.373, V 0.574; Si2V: Al 0.07, Si 0.607, V 0.323_ | experimental | [1] Luo 2018 | Table 1, p. 5, row 2 |  |
-| Phase composition |  | 773.15 | Fcc(Al) + Si + Si2V + L; _Fcc(Al): Al 0.99, Si 0.008, V 0.002; Si: Al 0.005, Si 0.994, V 0.001; Si2V: Al 0.026, Si 0.64, V 0.334; L: Al 0.975, Si 0.025, V 0_ | experimental | [1] Luo 2018 | Table 1, p. 5, row 4 |  |
-| Phase composition |  | 773.15 | Fcc(Al) + Si2V + L + Al45V7; _Fcc(Al): Al 0.985, Si 0.014, V 0.001; Si2V: Al 0.078, Si 0.597, V 0.325; L: Al 0.988, Si 0.008, V 0.004; Al45V7: Al 0.824, Si 0.04, V 0.136_ | experimental | [1] Luo 2018 | Table 1, p. 5, row 3 |  |
-| Phase composition |  | 1033.15 | Al3V; _Al3V: Al 0.722, Si 0.028, V 0.25_ | experimental | [1] Luo 2018 | Table 2, p. 5, row 1 |  |
-| Phase composition |  | 1123.15 | Al3V; _Al3V: Al 0.729, Si 0.019, V 0.252_ | experimental | [1] Luo 2018 | Table 2, p. 5, row 2 |  |
-| Phase composition |  | 1203.15 | Al3V; _Al3V: Al 0.727, Si 0.024, V 0.249_ | experimental | [1] Luo 2018 | Table 2, p. 5, row 3 |  |
+| Phase composition |  | 773.15 | Fcc(Al) + Al45V7 + Si3V5 + Al3V + Si2V; _Fcc(Al): Al 0.987, Si 0.011, V 0.002; Al45V7: Al 0.831, Si 0.035, V 0.134; Si3V5: Al 0.018, Si 0.382, V 0.6; Al3V: Al 0.729, Si 0.016, V 0.254; Si2V: Al 0.09, Si 0.591, V 0.319_ | experimental | [1] Luo 2018 | Table 1, p. 5, row 1; `ORC-FFHN4JDSMP` |  |
+| Phase composition |  | 773.15 | Fcc(Al) + Al45V7 + Si3V5 + Si2V; _Fcc(Al): Al 0.988, Si 0.007, V 0.005; Al45V7: Al 0.821, Si 0.041, V 0.137; Si3V5: Al 0.053, Si 0.373, V 0.574; Si2V: Al 0.07, Si 0.607, V 0.323_ | experimental | [1] Luo 2018 | Table 1, p. 5, row 2; `ORC-RNAU6XXZ2T` |  |
+| Phase composition |  | 773.15 | Fcc(Al) + Si + Si2V + L; _Fcc(Al): Al 0.99, Si 0.008, V 0.002; Si: Al 0.005, Si 0.994, V 0.001; Si2V: Al 0.026, Si 0.64, V 0.334; L: Al 0.975, Si 0.025, V 0_ | experimental | [1] Luo 2018 | Table 1, p. 5, row 4; `ORC-72NAYJFQNP` |  |
+| Phase composition |  | 773.15 | Fcc(Al) + Si2V + L + Al45V7; _Fcc(Al): Al 0.985, Si 0.014, V 0.001; Si2V: Al 0.078, Si 0.597, V 0.325; L: Al 0.988, Si 0.008, V 0.004; Al45V7: Al 0.824, Si 0.04, V 0.136_ | experimental | [1] Luo 2018 | Table 1, p. 5, row 3; `ORC-I2BVUL7AG6` |  |
+| Phase composition |  | 1033.15 | Al3V; _Al3V: Al 0.722, Si 0.028, V 0.25_ | experimental | [1] Luo 2018 | Table 2, p. 5, row 1; `ORC-MFN7KBMCNZ` |  |
+| Phase composition |  | 1123.15 | Al3V; _Al3V: Al 0.729, Si 0.019, V 0.252_ | experimental | [1] Luo 2018 | Table 2, p. 5, row 2; `ORC-EM5TQ4RMSS` |  |
+| Phase composition |  | 1203.15 | Al3V; _Al3V: Al 0.727, Si 0.024, V 0.249_ | experimental | [1] Luo 2018 | Table 2, p. 5, row 3; `ORC-MMCRF5AX7H` |  |
 
 ### Crystal structure (6)
 
@@ -76,12 +76,12 @@ Table: Crystal structure, Al–Si–V system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a; _printed: a_ | 4.551 Å |  | τ | model | [1] Luo 2018 | Table 3, p. 5, row 26 |  |
-| Lattice a; _printed: a_ | 4.961 Å |  | τ | model | [1] Luo 2018 | Table 3, p. 5, row 27 |  |
-| Lattice b; _printed: b_ | 8.039 Å |  | τ | model | [1] Luo 2018 | Table 3, p. 5, row 26 |  |
-| Lattice b; _printed: b_ | 8.284 Å |  | τ | model | [1] Luo 2018 | Table 3, p. 5, row 27 |  |
-| Lattice c; _printed: c_ | 8.426 Å |  | τ | model | [1] Luo 2018 | Table 3, p. 5, row 26 |  |
-| Lattice c; _printed: c_ | 8.961 Å |  | τ | model | [1] Luo 2018 | Table 3, p. 5, row 27 |  |
+| Lattice a; _printed: a_ | 4.551 Å |  | τ | model | [1] Luo 2018 | Table 3, p. 5, row 26; `ORC-4N4TW7LAUD.0fce66` |  |
+| Lattice a; _printed: a_ | 4.961 Å |  | τ | model | [1] Luo 2018 | Table 3, p. 5, row 27; `ORC-LFK46L3XD3.56b538` |  |
+| Lattice b; _printed: b_ | 8.039 Å |  | τ | model | [1] Luo 2018 | Table 3, p. 5, row 26; `ORC-4N4TW7LAUD.203755` |  |
+| Lattice b; _printed: b_ | 8.284 Å |  | τ | model | [1] Luo 2018 | Table 3, p. 5, row 27; `ORC-LFK46L3XD3.33a0f5` |  |
+| Lattice c; _printed: c_ | 8.426 Å |  | τ | model | [1] Luo 2018 | Table 3, p. 5, row 26; `ORC-4N4TW7LAUD.32d11e` |  |
+| Lattice c; _printed: c_ | 8.961 Å |  | τ | model | [1] Luo 2018 | Table 3, p. 5, row 27; `ORC-LFK46L3XD3.52200a` |  |
 
 ## Sources
 
@@ -124,4 +124,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

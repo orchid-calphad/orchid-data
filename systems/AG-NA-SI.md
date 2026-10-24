@@ -30,10 +30,10 @@ Table: Crystal structure, Ag–Na–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 8.019 Å |  | UNKNOWN; _alloy: Na 0.333333, Si 0_ | DFT | [1] Hao 2012 | Table 1, p. 5, row 10 |  |
-| Lattice a | 4.149 Å |  | UNKNOWN; _alloy: Na 0, Si 0_ | DFT | [1] Hao 2012 | Table 1, p. 5, row 8 |  |
-| Lattice a | 4.085 Å | 298.15 | UNKNOWN; _alloy: Na 0, Si 0_ | experimental | [1] Hao 2012; _cites Spreadborough 1959_ | Table 1, p. 5, row 7 |  |
-| Lattice a | 7.923 Å | 298.15 | UNKNOWN; _alloy: Na 0.333333, Si 0_ | unspecified | [1] Hao 2012; _cites Kienast 2012_ | Table 1, p. 5, row 9 |  |
+| Lattice a | 8.019 Å |  | UNKNOWN; _alloy: Na 0.333333, Si 0_ | DFT | [1] Hao 2012 | Table 1, p. 5, row 10; `ORC-B3IYKX5BW7` |  |
+| Lattice a | 4.149 Å |  | UNKNOWN; _alloy: Na 0, Si 0_ | DFT | [1] Hao 2012 | Table 1, p. 5, row 8; `ORC-JUS2FDGFF3` |  |
+| Lattice a | 4.085 Å | 298.15 | UNKNOWN; _alloy: Na 0, Si 0_ | experimental | [1] Hao 2012; _cites Spreadborough 1959_ | Table 1, p. 5, row 7; `ORC-B76QT27NQU` |  |
+| Lattice a | 7.923 Å | 298.15 | UNKNOWN; _alloy: Na 0.333333, Si 0_ | unspecified | [1] Hao 2012; _cites Kienast 2012_ | Table 1, p. 5, row 9; `ORC-OIO2IBAHQZ` |  |
 
 ## Sources
 
@@ -76,4 +76,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

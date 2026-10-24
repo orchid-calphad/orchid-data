@@ -33,12 +33,12 @@ Table: Invariant reactions reported in the literature for the F–K system (6)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1964 | Gas (P = 3 bar) = liquid | Gas (P = 3 bar): F 0.489; liquid: F 0.489 | model | [1] Zhang 2006 | Table 5, p. 9, row 1 |  |
-| 1131 | Gas (P = 3 bar) = liquid + KF | Gas (P = 3 bar): F 0.9998; liquid: F 0.5; KF: F 0.5 | model | [1] Zhang 2006 | Table 5, p. 9, row 2 |  |
-| 1122 | Liquid 1 = liquid 2 + KF | Liquid 1: F 0.489; liquid 2: F 0.315; KF: F 0.5; L1: F 0.489; L2: F 0.315 | experimental | [1] Zhang 2006; _cites Johnson 1958_ | Table 5, p. 9, row 5 |  |
-| 1122 | Liquid 1 = liquid 2 + KF | KF: F 0.5, K 0.5 | experimental | [1] Zhang 2006; _cites Bredig 1955_ [doi](https://doi.org/10.1021/ja01607a016) | Table 5, p. 9, row 4 |  |
-| 1120 | Liquid 1 = liquid 2 + KF | Liquid 1: F 0.49; liquid 2: F 0.322; KF: F 0.5; L1: F 0.49; L2: F 0.322 | model | [1] Zhang 2006 | Table 5, p. 9, row 3 |  |
-| 337 | Liquid = bcc + KF | Liquid: F 2.500e-5; bcc: F 2.500e-5; KF: F 0.5 | model | [1] Zhang 2006 | Table 5, p. 9, row 6 |  |
+| 1964 | Gas (P = 3 bar) = liquid | Gas (P = 3 bar): F 0.489; liquid: F 0.489 | model | [1] Zhang 2006 | Table 5, p. 9, row 1; `ORC-QFATTPAJGS` |  |
+| 1131 | Gas (P = 3 bar) = liquid + KF | Gas (P = 3 bar): F 0.9998; liquid: F 0.5; KF: F 0.5 | model | [1] Zhang 2006 | Table 5, p. 9, row 2; `ORC-OFVWQG7PPB` |  |
+| 1122 | Liquid 1 = liquid 2 + KF | Liquid 1: F 0.489; liquid 2: F 0.315; KF: F 0.5; L1: F 0.489; L2: F 0.315 | experimental | [1] Zhang 2006; _cites Johnson 1958_ | Table 5, p. 9, row 5; `ORC-V7PNEYH26N` |  |
+| 1122 | Liquid 1 = liquid 2 + KF | KF: F 0.5, K 0.5 | experimental | [1] Zhang 2006; _cites Bredig 1955_ [doi](https://doi.org/10.1021/ja01607a016) | Table 5, p. 9, row 4; `ORC-WRTDGSWCPD` |  |
+| 1120 | Liquid 1 = liquid 2 + KF | Liquid 1: F 0.49; liquid 2: F 0.322; KF: F 0.5; L1: F 0.49; L2: F 0.322 | model | [1] Zhang 2006 | Table 5, p. 9, row 3; `ORC-EGBSTUQSCC` |  |
+| 337 | Liquid = bcc + KF | Liquid: F 2.500e-5; bcc: F 2.500e-5; KF: F 0.5 | model | [1] Zhang 2006 | Table 5, p. 9, row 6; `ORC-54ENQABX2V` |  |
 
 ## Formation enthalpies
 
@@ -48,8 +48,8 @@ Table: Enthalpies of formation, F–K system (2)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| KF | [KF](https://data.orchid-project.org/compounds/KF.html) | -284.305 kJ/mol-atom | 298.15 | experimental | -283.123 (mp-aaaaaarv) | -281.083 (oqmd-1442813) | [1] Zhang 2006; _cites Chase 1998_ | Table 2, p. 3, row 27 |  |
-| KF |  | -264.865 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2006 | Table 2, p. 3, row 26 |  |
+| KF | [KF](https://data.orchid-project.org/compounds/KF.html) | -284.305 kJ/mol-atom | 298.15 | experimental | -283.123 (mp-aaaaaarv) | -281.083 (oqmd-1442813) | [1] Zhang 2006; _cites Chase 1998_ | Table 2, p. 3, row 27; `ORC-XB6YM2SOGE.710880` |  |
+| KF |  | -264.865 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2006 | Table 2, p. 3, row 26; `ORC-QY2GREQUEJ.892b97` |  |
 
 ## Other properties
 
@@ -59,7 +59,7 @@ Table: Phase transition, F–K system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1177 K | 1177 | other | experimental | [1] Zhang 2006 | p. 2 | “The composition of the consolute point was extrapolated to be 44.4 at.% F at 1177 K.” |
+| Phase transition | 1177 K | 1177 | other | experimental | [1] Zhang 2006 | p. 2; `ORC-QY2ZBLLFFT` | “The composition of the consolute point was extrapolated to be 44.4 at.% F at 1177 K.” |
 
 ### Crystal structure (2)
 
@@ -67,8 +67,8 @@ Table: Crystal structure, F–K system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a; _printed: Lattice constant a_ | 5.333 Å |  | KF; _alloy: K 0.5_ | experimental | [1] Zhang 2006; _cites Broch 1929_ [doi](https://doi.org/10.1515/zpch-1929-0314) | Table 2, p. 3, row 8 |  |
-| Lattice a; _printed: Lattice constant a_ | 5.178 Å | 0 | KF; _alloy: K 0.5_ | DFT | [1] Zhang 2006 | Table 2, p. 3, row 26 |  |
+| Lattice a; _printed: Lattice constant a_ | 5.333 Å |  | KF; _alloy: K 0.5_ | experimental | [1] Zhang 2006; _cites Broch 1929_ [doi](https://doi.org/10.1515/zpch-1929-0314) | Table 2, p. 3, row 8; `ORC-56OEO6T4EJ` |  |
+| Lattice a; _printed: Lattice constant a_ | 5.178 Å | 0 | KF; _alloy: K 0.5_ | DFT | [1] Zhang 2006 | Table 2, p. 3, row 26; `ORC-ZKA2TVPO7R` |  |
 
 ## Sources
 
@@ -122,4 +122,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

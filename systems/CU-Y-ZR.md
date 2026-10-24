@@ -28,29 +28,29 @@ Table: Phase equilibrium, Cu–Y–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase assemblage |  |  | Cu10Zr7 + Cu2Y + Cu8Zr3; _alloy: Cu 0.65, Y 0.15, Zr 0.2_ | experimental | [1] He 2009 | Table 2, p. 3, row 2 |  |
-| Phase assemblage |  |  | Cu2Y + CuZr + CuZr2; _alloy: Cu 0.53, Y 0.17, Zr 0.3_ | experimental | [1] He 2009 | Table 2, p. 3, row 1 |  |
-| Phase assemblage |  |  | Cu6–7Y + Cu4Y + Cu51Zr14; _alloy: Cu 0.83, Y 0.12, Zr 0.05_ | experimental | [1] He 2009 | Table 2, p. 3, row 5 |  |
-| Phase assemblage |  |  | Cu6–7Y + Cu9Zr2 + Cu51Zr14; _alloy: Cu 0.83, Y 0.07, Zr 0.1_ | experimental | [1] He 2009 | Table 2, p. 3, row 6 |  |
-| Phase assemblage |  |  | Cu7Y2 + Cu2Y + Cu8Zr3; _alloy: Cu 0.7, Y 0.25, Zr 0.05_ | experimental | [1] He 2009 | Table 2, p. 3, row 3 |  |
-| Phase assemblage |  |  | Cu7Y2 + Cu4Y + Cu51Zr14; _alloy: Cu 0.8, Y 0.1, Zr 0.1_ | experimental | [1] He 2009 | Table 2, p. 3, row 7 |  |
-| Phase assemblage |  |  | Cu7Y2 + Cu4Y + Cu8Zr3; _alloy: Cu 0.77, Y 0.18, Zr 0.05_ | experimental | [1] He 2009 | Table 2, p. 3, row 4 |  |
-| Phase composition |  | 978 | Cu10Zr7 + Cu8Zr3; _Cu10Zr7: Cu 0.587, Y 0, Zr 0.413; Cu8Zr3: Cu 0.727, Y 0, Zr 0.273_ | experimental | [1] He 2009 | Table 3, p. 4, row 14 |  |
-| Phase composition |  | 978 | Cu2Y + Cu10Zr7; _Cu2Y: Cu 0.646, Y 0.327, Zr 0.027; Cu10Zr7: Cu 0.577, Y 0.034, Zr 0.389_ | experimental | [1] He 2009 | Table 3, p. 4, row 7 |  |
-| Phase composition |  | 978 | Cu2Y + Cu8Zr3; _Cu2Y: Cu 0.671, Y 0.327, Zr 0.002; Cu8Zr3: Cu 0.672, Y 0.059, Zr 0.269_ | experimental | [1] He 2009 | Table 3, p. 4, row 13 |  |
-| Phase composition |  | 978 | Cu2Y + CuZr2; _Cu2Y: Cu 0.646, Y 0.327, Zr 0.027; CuZr2: Cu 0.344, Y 0.007, Zr 0.649_ | experimental | [1] He 2009 | Table 3, p. 4, row 8 |  |
-| Phase composition |  | 978 | Cu51Zr14 + Cu6–7Y + Cu6-7Y; _Cu51Zr14: Cu 0.786, Y 0, Zr 0.214; Cu6–7Y: Cu 0.831, Y 0.121, Zr 0.048; Cu6-7Y: Cu 0.831, Y 0.121, Zr 0.048_ | experimental | [1] He 2009 | Table 3, p. 4, row 11 |  |
-| Phase composition |  | 978 | Cu51Zr14 + Cu8Zr3; _Cu51Zr14: Cu 0.778, Y 0, Zr 0.222; Cu8Zr3: Cu 0.741, Y 0, Zr 0.259_ | experimental | [1] He 2009 | Table 3, p. 4, row 10 |  |
-| Phase composition |  | 978 | Cu6–7Y + Cu + Cu6-7Y; _Cu6–7Y: Cu 0.863, Y 0.118, Zr 0.019; Cu: Cu 0.964, Y 0.031, Zr 0.005; Cu6-7Y: Cu 0.863, Y 0.118, Zr 0.019_ | experimental | [1] He 2009 | Table 3, p. 4, row 1 |  |
-| Phase composition |  | 978 | Cu9Zr2 + Cu; _Cu9Zr2: Cu 0.824, Y 0, Zr 0.176; Cu: Cu 1, Y 0, Zr 0_ | experimental | [1] He 2009 | Table 3, p. 4, row 5 |  |
-| Phase composition |  | 978 | Cu9Zr2 + Cu51Zr14; _Cu9Zr2: Cu 0.752, Y 0.061, Zr 0.187; Cu51Zr14: Cu 0.774, Y 0.009, Zr 0.217_ | experimental | [1] He 2009 | Table 3, p. 4, row 4 |  |
-| Phase composition |  | 978 | CuY + Cu2Y; _CuY: Cu 0.524, Y 0.473, Zr 0.003; Cu2Y: Cu 0.662, Y 0.336, Zr 0.002_ | experimental | [1] He 2009 | Table 3, p. 4, row 9 |  |
-| Phase composition |  | 978 | CuY + CuZr2; _CuY: Cu 0.505, Y 0.493, Zr 0.002; CuZr2: Cu 0.347, Y 0, Zr 0.653_ | experimental | [1] He 2009 | Table 3, p. 4, row 16 |  |
-| Phase composition |  | 978 | CuY + Zr; _CuY: Cu 0.493, Y 0.491, Zr 0.016; Zr: Cu 0.012, Y 0, Zr 0.988_ | experimental | [1] He 2009 | Table 3, p. 4, row 15 |  |
-| Phase composition |  | 978 | CuZr + Cu10Zr7; _CuZr: Cu 0.513, Y 0, Zr 0.487; Cu10Zr7: Cu 0.587, Y 0, Zr 0.413_ | experimental | [1] He 2009 | Table 3, p. 4, row 6 |  |
-| Phase composition |  | 978 | CuZr + CuZr2; _CuZr: Cu 0.499, Y 0, Zr 0.501; CuZr2: Cu 0.341, Y 0, Zr 0.659_ | experimental | [1] He 2009 | Table 3, p. 4, row 12 |  |
-| Phase composition |  | 978 | CuZr2 + Zr; _CuZr2: Cu 0.339, Y 0, Zr 0.661; Zr: Cu 0.027, Y 0, Zr 0.973_ | experimental | [1] He 2009 | Table 3, p. 4, row 2 |  |
-| Phase composition |  | 978 | Y + CuY; _Y: Cu 0.024, Y 0.976, Zr 0; CuY: Cu 0.492, Y 0.508, Zr 0_ | experimental | [1] He 2009 | Table 3, p. 4, row 3 |  |
+| Phase assemblage |  |  | Cu10Zr7 + Cu2Y + Cu8Zr3; _alloy: Cu 0.65, Y 0.15, Zr 0.2_ | experimental | [1] He 2009 | Table 2, p. 3, row 2; `ORC-ZGJ3GJDB6J` |  |
+| Phase assemblage |  |  | Cu2Y + CuZr + CuZr2; _alloy: Cu 0.53, Y 0.17, Zr 0.3_ | experimental | [1] He 2009 | Table 2, p. 3, row 1; `ORC-EAN2F5B72E` |  |
+| Phase assemblage |  |  | Cu6–7Y + Cu4Y + Cu51Zr14; _alloy: Cu 0.83, Y 0.12, Zr 0.05_ | experimental | [1] He 2009 | Table 2, p. 3, row 5; `ORC-H6I7FPDQIQ` |  |
+| Phase assemblage |  |  | Cu6–7Y + Cu9Zr2 + Cu51Zr14; _alloy: Cu 0.83, Y 0.07, Zr 0.1_ | experimental | [1] He 2009 | Table 2, p. 3, row 6; `ORC-RSROFI2YF2` |  |
+| Phase assemblage |  |  | Cu7Y2 + Cu2Y + Cu8Zr3; _alloy: Cu 0.7, Y 0.25, Zr 0.05_ | experimental | [1] He 2009 | Table 2, p. 3, row 3; `ORC-YXWJLIWUYJ` |  |
+| Phase assemblage |  |  | Cu7Y2 + Cu4Y + Cu51Zr14; _alloy: Cu 0.8, Y 0.1, Zr 0.1_ | experimental | [1] He 2009 | Table 2, p. 3, row 7; `ORC-RUEUBXIK25` |  |
+| Phase assemblage |  |  | Cu7Y2 + Cu4Y + Cu8Zr3; _alloy: Cu 0.77, Y 0.18, Zr 0.05_ | experimental | [1] He 2009 | Table 2, p. 3, row 4; `ORC-BPYOIQBCPJ` |  |
+| Phase composition |  | 978 | Cu10Zr7 + Cu8Zr3; _Cu10Zr7: Cu 0.587, Y 0, Zr 0.413; Cu8Zr3: Cu 0.727, Y 0, Zr 0.273_ | experimental | [1] He 2009 | Table 3, p. 4, row 14; `ORC-BDATWY54X3` |  |
+| Phase composition |  | 978 | Cu2Y + Cu10Zr7; _Cu2Y: Cu 0.646, Y 0.327, Zr 0.027; Cu10Zr7: Cu 0.577, Y 0.034, Zr 0.389_ | experimental | [1] He 2009 | Table 3, p. 4, row 7; `ORC-45DVOYMNVY` |  |
+| Phase composition |  | 978 | Cu2Y + Cu8Zr3; _Cu2Y: Cu 0.671, Y 0.327, Zr 0.002; Cu8Zr3: Cu 0.672, Y 0.059, Zr 0.269_ | experimental | [1] He 2009 | Table 3, p. 4, row 13; `ORC-ZYHWTATRVL` |  |
+| Phase composition |  | 978 | Cu2Y + CuZr2; _Cu2Y: Cu 0.646, Y 0.327, Zr 0.027; CuZr2: Cu 0.344, Y 0.007, Zr 0.649_ | experimental | [1] He 2009 | Table 3, p. 4, row 8; `ORC-D5OXFVKRSF` |  |
+| Phase composition |  | 978 | Cu51Zr14 + Cu6–7Y + Cu6-7Y; _Cu51Zr14: Cu 0.786, Y 0, Zr 0.214; Cu6–7Y: Cu 0.831, Y 0.121, Zr 0.048; Cu6-7Y: Cu 0.831, Y 0.121, Zr 0.048_ | experimental | [1] He 2009 | Table 3, p. 4, row 11; `ORC-NE7HTN4ISH` |  |
+| Phase composition |  | 978 | Cu51Zr14 + Cu8Zr3; _Cu51Zr14: Cu 0.778, Y 0, Zr 0.222; Cu8Zr3: Cu 0.741, Y 0, Zr 0.259_ | experimental | [1] He 2009 | Table 3, p. 4, row 10; `ORC-5SELK4CIJX` |  |
+| Phase composition |  | 978 | Cu6–7Y + Cu + Cu6-7Y; _Cu6–7Y: Cu 0.863, Y 0.118, Zr 0.019; Cu: Cu 0.964, Y 0.031, Zr 0.005; Cu6-7Y: Cu 0.863, Y 0.118, Zr 0.019_ | experimental | [1] He 2009 | Table 3, p. 4, row 1; `ORC-E2YRPKE25K` |  |
+| Phase composition |  | 978 | Cu9Zr2 + Cu; _Cu9Zr2: Cu 0.824, Y 0, Zr 0.176; Cu: Cu 1, Y 0, Zr 0_ | experimental | [1] He 2009 | Table 3, p. 4, row 5; `ORC-CLJOCYEM4F` |  |
+| Phase composition |  | 978 | Cu9Zr2 + Cu51Zr14; _Cu9Zr2: Cu 0.752, Y 0.061, Zr 0.187; Cu51Zr14: Cu 0.774, Y 0.009, Zr 0.217_ | experimental | [1] He 2009 | Table 3, p. 4, row 4; `ORC-WTAPNIJ3YF` |  |
+| Phase composition |  | 978 | CuY + Cu2Y; _CuY: Cu 0.524, Y 0.473, Zr 0.003; Cu2Y: Cu 0.662, Y 0.336, Zr 0.002_ | experimental | [1] He 2009 | Table 3, p. 4, row 9; `ORC-CI5MTXPFWM` |  |
+| Phase composition |  | 978 | CuY + CuZr2; _CuY: Cu 0.505, Y 0.493, Zr 0.002; CuZr2: Cu 0.347, Y 0, Zr 0.653_ | experimental | [1] He 2009 | Table 3, p. 4, row 16; `ORC-DGIQQKWQ6Z` |  |
+| Phase composition |  | 978 | CuY + Zr; _CuY: Cu 0.493, Y 0.491, Zr 0.016; Zr: Cu 0.012, Y 0, Zr 0.988_ | experimental | [1] He 2009 | Table 3, p. 4, row 15; `ORC-LA26XPH5KG` |  |
+| Phase composition |  | 978 | CuZr + Cu10Zr7; _CuZr: Cu 0.513, Y 0, Zr 0.487; Cu10Zr7: Cu 0.587, Y 0, Zr 0.413_ | experimental | [1] He 2009 | Table 3, p. 4, row 6; `ORC-ZJBU6KNUW6` |  |
+| Phase composition |  | 978 | CuZr + CuZr2; _CuZr: Cu 0.499, Y 0, Zr 0.501; CuZr2: Cu 0.341, Y 0, Zr 0.659_ | experimental | [1] He 2009 | Table 3, p. 4, row 12; `ORC-4DKLWG3TUR` |  |
+| Phase composition |  | 978 | CuZr2 + Zr; _CuZr2: Cu 0.339, Y 0, Zr 0.661; Zr: Cu 0.027, Y 0, Zr 0.973_ | experimental | [1] He 2009 | Table 3, p. 4, row 2; `ORC-Y3BNRU56VG` |  |
+| Phase composition |  | 978 | Y + CuY; _Y: Cu 0.024, Y 0.976, Zr 0; CuY: Cu 0.492, Y 0.508, Zr 0_ | experimental | [1] He 2009 | Table 3, p. 4, row 3; `ORC-PT3A2QASFM` |  |
 
 ## Sources
 
@@ -93,4 +93,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

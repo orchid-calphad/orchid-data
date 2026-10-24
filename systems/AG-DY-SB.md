@@ -26,29 +26,29 @@ Table: Invariant reactions reported in the literature for the Ag–Dy–Sb syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2002.8 | peritectic: L + α\_DySb -> β\_Dy4Sb3 |  | model | [1] Long 2010 | Table 3, p. 5, row 19 |  |
-| 2002.8 | quasi-peritectic: L + α\_DySb -> β\_Dy4Sb3 + L |  | model | [1] Long 2010 | Table 3, p. 5, row 5 |  |
-| 1917.8 | quasi-peritectic: L + β\_Dy4Sb3 -> L + Dy5Sb3 |  | model | [1] Long 2010 | Table 3, p. 5, row 6 |  |
-| 1917.8 | peritectic: L + β\_Dy4Sb3 -> Dy5Sb3 |  | model | [1] Long 2010 | Table 3, p. 5, row 20 |  |
-| 1903 | quasi-peritectic: L + β\_Dy4Sb3 -> Dy5Sb3 + α\_Dy4Sb3 |  | model | [1] Long 2010 | Table 3, p. 5, row 7 |  |
-| 1903 | peritectic: L + β\_Dy4Sb3 + α\_DySb -> α\_Dy4Sb3 |  | model | [1] Long 2010 | Table 3, p. 5, row 21 |  |
-| 1851 | quasi-peritectic: L + Dy5Sb3 -> τ1 + α\_Dy4Sb3 |  | model | [1] Long 2010 | Table 3, p. 5, row 8 |  |
-| 1830.6 | quasi-peritectic: L + Dy5Sb3 -> τ1 + L |  | model | [1] Long 2010 | Table 3, p. 5, row 9 |  |
-| 1830.6 | peritectic: L + Dy5Sb3 -> τ1 |  | model | [1] Long 2010 | Table 3, p. 5, row 22 |  |
-| 1752.4 | quasi-peritectic: L + α\_Dy4Sb3 -> τ1 + α\_DySb |  | model | [1] Long 2010 | Table 3, p. 5, row 10 |  |
-| 1630.1 | quasi-peritectic: L + τ1 -> L + Dy5Sb3 |  | model | [1] Long 2010 | Table 3, p. 5, row 11 |  |
-| 1630.1 | peritectic: L + τ1 -> Dy5Sb3 |  | model | [1] Long 2010 | Table 3, p. 5, row 23 |  |
-| 1372.4 | quasi-peritectic: L + Dy5Sb3 -> τ1 + Hcp(Dy) |  | model | [1] Long 2010 | Table 3, p. 5, row 12 |  |
-| 1245 | quasi-peritectic: L + α\_DySb -> τ1 + Ag2Dy |  | model | [1] Long 2010 | Table 3, p. 5, row 13 |  |
-| 1222.5 | eutectic: L -> τ1 + Ag2Dy + AgDy |  | model | [1] Long 2010 | Table 3, p. 5, row 1 |  |
-| 1182.1 | eutectic: L -> α\_DySb + Ag2Dy + Ag51Dy14 |  | model | [1] Long 2010 | Table 3, p. 5, row 2 |  |
-| 1171.2 | quasi-peritectic: L + τ1 -> AgDy + Hcp(Dy) |  | model | [1] Long 2010 | Table 3, p. 5, row 14 |  |
-| 1074.8 | eutectic: L -> α\_DySb + Ag51Dy14 + Fcc(Ag) |  | model | [1] Long 2010 | Table 3, p. 5, row 3 |  |
-| 974.4 | quasi-peritectic: L + Fcc(Ag) -> α\_DySb + Hcp(Dy) |  | model | [1] Long 2010 | Table 3, p. 5, row 15 |  |
-| 835.5 | quasi-peritectic: L + Hcp(Dy) -> α\_DySb + ε |  | model | [1] Long 2010 | Table 3, p. 5, row 16 |  |
-| 831 | quasi-peritectic: L + α\_DySb -> τ2 + Rho |  | model | [1] Long 2010 | Table 3, p. 5, row 17 |  |
-| 818.1 | quasi-peritectic: L + α\_DySb -> τ2 + ε |  | model | [1] Long 2010 | Table 3, p. 5, row 18 |  |
-| 753.2 | eutectic: L -> τ2 + Rho + ε |  | model | [1] Long 2010 | Table 3, p. 5, row 4 |  |
+| 2002.8 | peritectic: L + α\_DySb -> β\_Dy4Sb3 |  | model | [1] Long 2010 | Table 3, p. 5, row 19; `ORC-ANWNXVBVEC` |  |
+| 2002.8 | quasi-peritectic: L + α\_DySb -> β\_Dy4Sb3 + L |  | model | [1] Long 2010 | Table 3, p. 5, row 5; `ORC-M37TV4OJTD` |  |
+| 1917.8 | quasi-peritectic: L + β\_Dy4Sb3 -> L + Dy5Sb3 |  | model | [1] Long 2010 | Table 3, p. 5, row 6; `ORC-T4ZAOIPZSO` |  |
+| 1917.8 | peritectic: L + β\_Dy4Sb3 -> Dy5Sb3 |  | model | [1] Long 2010 | Table 3, p. 5, row 20; `ORC-US45UMPMEU` |  |
+| 1903 | quasi-peritectic: L + β\_Dy4Sb3 -> Dy5Sb3 + α\_Dy4Sb3 |  | model | [1] Long 2010 | Table 3, p. 5, row 7; `ORC-EYJ3MGYVAR` |  |
+| 1903 | peritectic: L + β\_Dy4Sb3 + α\_DySb -> α\_Dy4Sb3 |  | model | [1] Long 2010 | Table 3, p. 5, row 21; `ORC-LHAFJHM6IL` |  |
+| 1851 | quasi-peritectic: L + Dy5Sb3 -> τ1 + α\_Dy4Sb3 |  | model | [1] Long 2010 | Table 3, p. 5, row 8; `ORC-GB3FMAZEQ5` |  |
+| 1830.6 | quasi-peritectic: L + Dy5Sb3 -> τ1 + L |  | model | [1] Long 2010 | Table 3, p. 5, row 9; `ORC-EIXCDWPHD6` |  |
+| 1830.6 | peritectic: L + Dy5Sb3 -> τ1 |  | model | [1] Long 2010 | Table 3, p. 5, row 22; `ORC-H26LGOMXLG` |  |
+| 1752.4 | quasi-peritectic: L + α\_Dy4Sb3 -> τ1 + α\_DySb |  | model | [1] Long 2010 | Table 3, p. 5, row 10; `ORC-JWR35FUQHI` |  |
+| 1630.1 | quasi-peritectic: L + τ1 -> L + Dy5Sb3 |  | model | [1] Long 2010 | Table 3, p. 5, row 11; `ORC-PX2VXTYIEK` |  |
+| 1630.1 | peritectic: L + τ1 -> Dy5Sb3 |  | model | [1] Long 2010 | Table 3, p. 5, row 23; `ORC-QFPYX2R6IB` |  |
+| 1372.4 | quasi-peritectic: L + Dy5Sb3 -> τ1 + Hcp(Dy) |  | model | [1] Long 2010 | Table 3, p. 5, row 12; `ORC-3DTSD5JHF4` |  |
+| 1245 | quasi-peritectic: L + α\_DySb -> τ1 + Ag2Dy |  | model | [1] Long 2010 | Table 3, p. 5, row 13; `ORC-LI4JGPBRKC` |  |
+| 1222.5 | eutectic: L -> τ1 + Ag2Dy + AgDy |  | model | [1] Long 2010 | Table 3, p. 5, row 1; `ORC-AUPUIZHLBY` |  |
+| 1182.1 | eutectic: L -> α\_DySb + Ag2Dy + Ag51Dy14 |  | model | [1] Long 2010 | Table 3, p. 5, row 2; `ORC-DW3CP3P2GH` |  |
+| 1171.2 | quasi-peritectic: L + τ1 -> AgDy + Hcp(Dy) |  | model | [1] Long 2010 | Table 3, p. 5, row 14; `ORC-SGCNDWBN6P` |  |
+| 1074.8 | eutectic: L -> α\_DySb + Ag51Dy14 + Fcc(Ag) |  | model | [1] Long 2010 | Table 3, p. 5, row 3; `ORC-H3WLWTOTWD` |  |
+| 974.4 | quasi-peritectic: L + Fcc(Ag) -> α\_DySb + Hcp(Dy) |  | model | [1] Long 2010 | Table 3, p. 5, row 15; `ORC-JQQL6BR2PS` |  |
+| 835.5 | quasi-peritectic: L + Hcp(Dy) -> α\_DySb + ε |  | model | [1] Long 2010 | Table 3, p. 5, row 16; `ORC-HQLRFCQM3S` |  |
+| 831 | quasi-peritectic: L + α\_DySb -> τ2 + Rho |  | model | [1] Long 2010 | Table 3, p. 5, row 17; `ORC-FOCKK5MYX2` |  |
+| 818.1 | quasi-peritectic: L + α\_DySb -> τ2 + ε |  | model | [1] Long 2010 | Table 3, p. 5, row 18; `ORC-DD3SOZUX6O` |  |
+| 753.2 | eutectic: L -> τ2 + Rho + ε |  | model | [1] Long 2010 | Table 3, p. 5, row 4; `ORC-HSRGWSBH72` |  |
 
 ## Sources
 
@@ -91,4 +91,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

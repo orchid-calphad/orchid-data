@@ -14,12 +14,12 @@ Table: Enthalpy of formation of AlCo reported in the literature (6)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -60.7 kJ/mol-atom ± 0.5 | B2 | 298.15 | experimental |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [1] Liu 2016; _cites ref. 82_ | Table 4, p. 38, row 3 |  |
-| -59.5 kJ/mol-atom | B2 | 298.15 | experimental |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [1] Liu 2016; _cites ref. 81_ | Table 4, p. 38, row 2 |  |
-| -57.673 kJ/mol-atom | B2 | 298.15 | model |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [1] Liu 2016 | Table 4, p. 38, row 1 |  |
-| -58.46 kJ/mol-atom | BCC_B2, AlCo | 0 | DFT | DFT | [Al–Co](https://data.orchid-project.org/systems/AL-CO.html) | [2] Wang 2017; _cites ref. 22_ | Table 1, p. 36, row 4 |  |
-| -58.37 kJ/mol-atom | BCC_B2, AlCo | 0 | DFT | DFT | [Al–Co](https://data.orchid-project.org/systems/AL-CO.html) | [2] Wang 2017; _cites ref. 21_ | Table 1, p. 36, row 1 |  |
-| -58.18 kJ/mol-atom | BCC_B2, AlCo | 0 | DFT | DFT | [Al–Co](https://data.orchid-project.org/systems/AL-CO.html) | [2] Wang 2017; _cites ref. 23_ | Table 1, p. 36, row 3 |  |
+| -60.7 kJ/mol-atom ± 0.5 | B2 | 298.15 | experimental |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [1] Liu 2016; _cites ref. 82_ | Table 4, p. 38, row 3; `ORC-WVZQPXXYGJ.0d3cd4` |  |
+| -59.5 kJ/mol-atom | B2 | 298.15 | experimental |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [1] Liu 2016; _cites ref. 81_ | Table 4, p. 38, row 2; `ORC-IAB2LXFNOY.55268e` |  |
+| -57.673 kJ/mol-atom | B2 | 298.15 | model |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [1] Liu 2016 | Table 4, p. 38, row 1; `ORC-KVJ737FTEB.64d8f9` |  |
+| -58.46 kJ/mol-atom | BCC_B2, AlCo | 0 | DFT | DFT | [Al–Co](https://data.orchid-project.org/systems/AL-CO.html) | [2] Wang 2017; _cites ref. 22_ | Table 1, p. 36, row 4; `ORC-C22LGJ54LS` |  |
+| -58.37 kJ/mol-atom | BCC_B2, AlCo | 0 | DFT | DFT | [Al–Co](https://data.orchid-project.org/systems/AL-CO.html) | [2] Wang 2017; _cites ref. 21_ | Table 1, p. 36, row 1; `ORC-7DKG7DJ5DH` |  |
+| -58.18 kJ/mol-atom | BCC_B2, AlCo | 0 | DFT | DFT | [Al–Co](https://data.orchid-project.org/systems/AL-CO.html) | [2] Wang 2017; _cites ref. 23_ | Table 1, p. 36, row 3; `ORC-LGTALYPKD6` |  |
 
 ### Uncertainty budget
 
@@ -101,4 +101,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

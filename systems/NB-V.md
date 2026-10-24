@@ -43,14 +43,14 @@ Table: Phase transition, Nb–V system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 653.15 K | 653.15 | other | model | [1] Gao 2018; _cites Molokanov 1977_ | p. 2 | “Moreover, Molokanov et al. \[10\] further predicted that there is a miscibility gap in the solid state, and its critical point is at 380 C and 50 at.% V, which was suspected to be questionable.” |
-| Phase transition | 950.15 K | 950.15 | other | model | [1] Gao 2018 | p. 2 | “When both the constituent strain and the phonon are added, the calculated Tc turns to be 677 C.” |
-| Phase transition | 1077.15 K | 1077.15 | other | model | [1] Gao 2018 | p. 6 | “The minimum point of the congruent melting alloy and the critical point of the miscibility gap are calculated, which are 1867 C at 78 at.% V and 804 C at 50 at.% V, respectively.” |
-| Phase transition | 1250.15 K | 1250.15 | other | model | [1] Gao 2018 | p. 2 | “When the conventional cluster expansion is used, the calculated maximum/critical temperature Tc of the miscibility gap is 977 C.” |
-| Phase transition | 1993.15 K | 1993.15 | congruent transformation | experimental | [1] Gao 2018; _cites Baron 1960_ | p. 1 | “For example, the minimum congruent melting point was determined to be 1810 C and 77 at.% V from Wilhelm et al. \[7\] and 1720 C and 73.2 at.% V from Baron et al. \[8\].” |
-| Phase transition | 2083.15 K | 2083.15 | congruent transformation | experimental | [1] Gao 2018; _cites Wilhelm 1954_ | p. 1 | “For example, the minimum congruent melting point was determined to be 1810 C and 77 at.% V from Wilhelm et al. \[7\] and 1720 C and 73.2 at.% V from Baron et al. \[8\].” |
-| Phase transition | 2133.15 K | 2133.15 | congruent transformation | experimental | [1] Gao 2018; _cites Rudy 1969_ | p. 1 | “In this phase diagram, at 1860 C and 78 at.% V there exists a minimum congruent melting point, and the solid phase is a continuous solid solution consisting of Nb and V in the body centered cubic structure (BCC_A2).” |
-| Phase transition | 2140.15 K | 2140.15 | congruent transformation | model | [1] Gao 2018 | p. 6 | “The minimum point of the congruent melting alloy and the critical point of the miscibility gap are calculated, which are 1867 C at 78 at.% V and 804 C at 50 at.% V, respectively.” |
+| Phase transition | 653.15 K | 653.15 | other | model | [1] Gao 2018; _cites Molokanov 1977_ | p. 2; `ORC-4ZA5HFKJ36` | “Moreover, Molokanov et al. \[10\] further predicted that there is a miscibility gap in the solid state, and its critical point is at 380 C and 50 at.% V, which was suspected to be questionable.” |
+| Phase transition | 950.15 K | 950.15 | other | model | [1] Gao 2018 | p. 2; `ORC-WAGS44HJIX` | “When both the constituent strain and the phonon are added, the calculated Tc turns to be 677 C.” |
+| Phase transition | 1077.15 K | 1077.15 | other | model | [1] Gao 2018 | p. 6; `ORC-IJF7R67V5D.880b79` | “The minimum point of the congruent melting alloy and the critical point of the miscibility gap are calculated, which are 1867 C at 78 at.% V and 804 C at 50 at.% V, respectively.” |
+| Phase transition | 1250.15 K | 1250.15 | other | model | [1] Gao 2018 | p. 2; `ORC-4SHBMFVDFZ` | “When the conventional cluster expansion is used, the calculated maximum/critical temperature Tc of the miscibility gap is 977 C.” |
+| Phase transition | 1993.15 K | 1993.15 | congruent transformation | experimental | [1] Gao 2018; _cites Baron 1960_ | p. 1; `ORC-PG7LKBKZGS.6f31ee` | “For example, the minimum congruent melting point was determined to be 1810 C and 77 at.% V from Wilhelm et al. \[7\] and 1720 C and 73.2 at.% V from Baron et al. \[8\].” |
+| Phase transition | 2083.15 K | 2083.15 | congruent transformation | experimental | [1] Gao 2018; _cites Wilhelm 1954_ | p. 1; `ORC-PG7LKBKZGS.3d34ff` | “For example, the minimum congruent melting point was determined to be 1810 C and 77 at.% V from Wilhelm et al. \[7\] and 1720 C and 73.2 at.% V from Baron et al. \[8\].” |
+| Phase transition | 2133.15 K | 2133.15 | congruent transformation | experimental | [1] Gao 2018; _cites Rudy 1969_ | p. 1; `ORC-EQIJVOAI67` | “In this phase diagram, at 1860 C and 78 at.% V there exists a minimum congruent melting point, and the solid phase is a continuous solid solution consisting of Nb and V in the body centered cubic structure (BCC_A2).” |
+| Phase transition | 2140.15 K | 2140.15 | congruent transformation | model | [1] Gao 2018 | p. 6; `ORC-IJF7R67V5D.5c9c3c` | “The minimum point of the congruent melting alloy and the critical point of the miscibility gap are calculated, which are 1867 C at 78 at.% V and 804 C at 50 at.% V, respectively.” |
 
 ### Phase equilibrium (28)
 
@@ -58,34 +58,34 @@ Table: Phase equilibrium, Nb–V system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 6.220e-4, V 0.999378_ | experimental | [1] Gao 2018 | Table A3, p. 7, row 18 |  |
-| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 5.480e-4, V 0.999452_ | experimental | [1] Gao 2018 | Table A1, p. 7, row 14 |  |
-| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 0.994446, V 0.005554_ | experimental | [1] Gao 2018 | Table A2, p. 7, row 1 |  |
-| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 3.630e-4, V 0.999637_ | experimental | [1] Gao 2018 | Table A2, p. 7, row 16 |  |
-| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 5.180e-4, V 0.999482_ | experimental | [1] Gao 2018 | Table A2, p. 7, row 19 |  |
-| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 0.98376, V 0.01624_ | experimental | [1] Gao 2018 | Table A2, p. 7, row 6 |  |
-| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 4.170e-4, V 0.999583_ | experimental | [1] Gao 2018 | Table A2, p. 7, row 15 |  |
-| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 0.988651, V 0.011349_ | experimental | [1] Gao 2018 | Table A1, p. 7, row 5 |  |
-| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 0.991525, V 0.008475_ | experimental | [1] Gao 2018 | Table A2, p. 7, row 3 |  |
-| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 4.950e-4, V 0.999505_ | experimental | [1] Gao 2018 | Table A3, p. 7, row 20 |  |
-| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 0.002046, V 0.997954_ | experimental | [1] Gao 2018 | Table A2, p. 7, row 13 |  |
-| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 0.262006, V 0.737994_ | experimental | [1] Gao 2018 | Table A3, p. 7, row 11 |  |
-| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 0.993663, V 0.006337_ | experimental | [1] Gao 2018 | Table A3, p. 7, row 2 |  |
-| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 0.716828, V 0.283172_ | experimental | [1] Gao 2018 | Table A3, p. 7, row 10 |  |
-| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 0.030517, V 0.969483_ | experimental | [1] Gao 2018 | Table A2, p. 7, row 12 |  |
-| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 0.963156, V 0.036844_ | experimental | [1] Gao 2018 | Table A1, p. 7, row 8 |  |
-| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 0.99249, V 0.00751_ | experimental | [1] Gao 2018 | Table A3, p. 7, row 4 |  |
-| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 5.160e-4, V 0.999484_ | experimental | [1] Gao 2018 | Table A3, p. 7, row 17 |  |
-| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 0.985822, V 0.014178_ | experimental | [1] Gao 2018 | Table A1, p. 7, row 7 |  |
-| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 0.861876, V 0.138124_ | experimental | [1] Gao 2018 | Table A2, p. 7, row 9 |  |
-| Phase composition |  | 1023.15 | βV; _βV: Nb 0.3599, V 0.6401_ | experimental | [1] Gao 2018 | Table 2, p. 4, row 5 |  |
-| Phase composition |  | 1023.15 | βV; _βV: Nb 0.4137, V 0.5863_ | experimental | [1] Gao 2018 | Table 2, p. 4, row 4 |  |
-| Phase composition |  | 1023.15 | βV; _βV: Nb 0.306, V 0.694_ | experimental | [1] Gao 2018 | Table 2, p. 4, row 6 |  |
-| Phase composition |  | 1023.15 | βV (B) + βNb (G); _βV (B): Nb 0.5812, V 0.4188; βNb (G): Nb 0.6111, V 0.3889_ | experimental | [1] Gao 2018 | Table 2, p. 4, row 8 |  |
-| Phase composition |  | 1023.15 | βV (B) + βNb (G); _βV (B): Nb 0.4287, V 0.5713; βNb (G): Nb 0.6448, V 0.3552_ | experimental | [1] Gao 2018 | Table 2, p. 4, row 7 |  |
-| Phase composition |  | 1023.15 | βV + βNb; _βV: Nb 0.4661, V 0.5339; βNb: Nb 0.5729, V 0.4271_ | experimental | [1] Gao 2018 | Table 2, p. 4, row 2 |  |
-| Phase composition |  | 1023.15 | βV + βNb; _βV: Nb 0.5812, V 0.4188; βNb: Nb 0.6111, V 0.3889_ | experimental | [1] Gao 2018 | Table 2, p. 4, row 1 |  |
-| Phase composition |  | 1023.15 | βV + βNb; _βV: Nb 0.4643, V 0.5357; βNb: Nb 0.5692, V 0.4308_ | experimental | [1] Gao 2018 | Table 2, p. 4, row 3 |  |
+| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 6.220e-4, V 0.999378_ | experimental | [1] Gao 2018 | Table A3, p. 7, row 18; `ORC-2S4HYEDP4C` |  |
+| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 5.480e-4, V 0.999452_ | experimental | [1] Gao 2018 | Table A1, p. 7, row 14; `ORC-4DFL7RZX4M` |  |
+| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 0.994446, V 0.005554_ | experimental | [1] Gao 2018 | Table A2, p. 7, row 1; `ORC-4OI4AFCJNW` |  |
+| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 3.630e-4, V 0.999637_ | experimental | [1] Gao 2018 | Table A2, p. 7, row 16; `ORC-4YKFITEC3D` |  |
+| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 5.180e-4, V 0.999482_ | experimental | [1] Gao 2018 | Table A2, p. 7, row 19; `ORC-52XAZJRHIH` |  |
+| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 0.98376, V 0.01624_ | experimental | [1] Gao 2018 | Table A2, p. 7, row 6; `ORC-6FCFWBOJST` |  |
+| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 4.170e-4, V 0.999583_ | experimental | [1] Gao 2018 | Table A2, p. 7, row 15; `ORC-A6HL6HPLFY` |  |
+| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 0.988651, V 0.011349_ | experimental | [1] Gao 2018 | Table A1, p. 7, row 5; `ORC-AOG7SEOJ43` |  |
+| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 0.991525, V 0.008475_ | experimental | [1] Gao 2018 | Table A2, p. 7, row 3; `ORC-ARWIGFLTMB` |  |
+| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 4.950e-4, V 0.999505_ | experimental | [1] Gao 2018 | Table A3, p. 7, row 20; `ORC-BTBQOCQXMK` |  |
+| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 0.002046, V 0.997954_ | experimental | [1] Gao 2018 | Table A2, p. 7, row 13; `ORC-CAWTMKRGUE` |  |
+| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 0.262006, V 0.737994_ | experimental | [1] Gao 2018 | Table A3, p. 7, row 11; `ORC-CTW7PS4NOC` |  |
+| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 0.993663, V 0.006337_ | experimental | [1] Gao 2018 | Table A3, p. 7, row 2; `ORC-DS46Q52442` |  |
+| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 0.716828, V 0.283172_ | experimental | [1] Gao 2018 | Table A3, p. 7, row 10; `ORC-EKFDWUFA77` |  |
+| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 0.030517, V 0.969483_ | experimental | [1] Gao 2018 | Table A2, p. 7, row 12; `ORC-EL5O5XP6FR` |  |
+| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 0.963156, V 0.036844_ | experimental | [1] Gao 2018 | Table A1, p. 7, row 8; `ORC-F6UDMJ53ZM` |  |
+| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 0.99249, V 0.00751_ | experimental | [1] Gao 2018 | Table A3, p. 7, row 4; `ORC-FBCZ4PJIAY` |  |
+| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 5.160e-4, V 0.999484_ | experimental | [1] Gao 2018 | Table A3, p. 7, row 17; `ORC-GGEE5X25CQ` |  |
+| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 0.985822, V 0.014178_ | experimental | [1] Gao 2018 | Table A1, p. 7, row 7; `ORC-IEJFHZZGVH` |  |
+| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 0.861876, V 0.138124_ | experimental | [1] Gao 2018 | Table A2, p. 7, row 9; `ORC-K24U4O7CKB` |  |
+| Phase composition |  | 1023.15 | βV; _βV: Nb 0.3599, V 0.6401_ | experimental | [1] Gao 2018 | Table 2, p. 4, row 5; `ORC-AVAY6BBQRB` |  |
+| Phase composition |  | 1023.15 | βV; _βV: Nb 0.4137, V 0.5863_ | experimental | [1] Gao 2018 | Table 2, p. 4, row 4; `ORC-TYW5XCMKP5` |  |
+| Phase composition |  | 1023.15 | βV; _βV: Nb 0.306, V 0.694_ | experimental | [1] Gao 2018 | Table 2, p. 4, row 6; `ORC-XBR4KSI53X` |  |
+| Phase composition |  | 1023.15 | βV (B) + βNb (G); _βV (B): Nb 0.5812, V 0.4188; βNb (G): Nb 0.6111, V 0.3889_ | experimental | [1] Gao 2018 | Table 2, p. 4, row 8; `ORC-UAC6H4TAJJ` |  |
+| Phase composition |  | 1023.15 | βV (B) + βNb (G); _βV (B): Nb 0.4287, V 0.5713; βNb (G): Nb 0.6448, V 0.3552_ | experimental | [1] Gao 2018 | Table 2, p. 4, row 7; `ORC-YUHBPV6Y4J` |  |
+| Phase composition |  | 1023.15 | βV + βNb; _βV: Nb 0.4661, V 0.5339; βNb: Nb 0.5729, V 0.4271_ | experimental | [1] Gao 2018 | Table 2, p. 4, row 2; `ORC-2FYRV5SGLU` |  |
+| Phase composition |  | 1023.15 | βV + βNb; _βV: Nb 0.5812, V 0.4188; βNb: Nb 0.6111, V 0.3889_ | experimental | [1] Gao 2018 | Table 2, p. 4, row 1; `ORC-6D45JY4PGG` |  |
+| Phase composition |  | 1023.15 | βV + βNb; _βV: Nb 0.4643, V 0.5357; βNb: Nb 0.5692, V 0.4308_ | experimental | [1] Gao 2018 | Table 2, p. 4, row 3; `ORC-6ZE4J4ICN2` |  |
 
 ## Sources
 
@@ -150,4 +150,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

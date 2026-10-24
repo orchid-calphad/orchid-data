@@ -46,7 +46,7 @@ Table: Enthalpies of formation, Lu–O system (1)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| C-Lu2O3 |  | -1877 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 7 |  |
+| C-Lu2O3 |  | -1877 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 7; `ORC-CBFZPKSCJV.c80a45` |  |
 
 ## Other properties
 
@@ -56,7 +56,7 @@ Table: Phase transition, Lu–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1273 K | 1273 | polymorphic: C ⇒ B; _alloy: Lu 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Hoekstra 1966_ | Table 2.3, p. 10, row 27 |  |
+| Phase transition | 1273 K | 1273 | polymorphic: C ⇒ B; _alloy: Lu 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Hoekstra 1966_ | Table 2.3, p. 10, row 27; `ORC-UKDNHU5F2E` |  |
 
 ### Heat capacity / entropy / enthalpy (8)
 
@@ -64,14 +64,14 @@ Table: Heat capacity / entropy / enthalpy, Lu–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: Δtrs°S_ | 9.654 J mol^-1 K^-1 |  | C-Lu₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 11 |  |
-| Entropy; _printed: Δtrs°S_ | 3.659 J mol^-1 K^-1 |  | C-Lu₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 9 |  |
-| Entropy; _printed: Δtrs°S_ | 14.223 J mol^-1 K^-1 |  | C-Lu₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 12 |  |
-| Entropy; _printed: Δtrs°S_ | 5.27 J mol^-1 K^-1 |  | C-Lu₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 10 |  |
-| Entropy; _printed: ΔS_ | 3.719 J mol−1 K−1 |  | Lu2O3; _alloy: Lu 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Hoekstra 1966_ | Table 5.1, p. 18, row 22 |  |
-| Entropy; _printed: ΔS_ | 3.719 J mol^-1 K^-1 |  | UNKNOWN; _alloy: Lu 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Hoekstra 1966_ | Table 5.1, p. 18, row 22 |  |
-| Entropy; _printed: °S_ | 109.96 J/mol (basis unstated)/K | 298.15 | C-Lu2O3; _alloy: O 0.6_ | unspecified | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 7 |  |
-| Entropy; _printed: Δtrs°S_ | 29.159 J mol^-1 K^-1 | 2763 | C-Lu₂O₃ | unspecified | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 8 |  |
+| Entropy; _printed: Δtrs°S_ | 9.654 J mol^-1 K^-1 |  | C-Lu₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 11; `ORC-OQENQ7QWFX.8dd7df` |  |
+| Entropy; _printed: Δtrs°S_ | 3.659 J mol^-1 K^-1 |  | C-Lu₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 9; `ORC-S4UQWKGTRJ.6440ad` |  |
+| Entropy; _printed: Δtrs°S_ | 14.223 J mol^-1 K^-1 |  | C-Lu₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 12; `ORC-UBJGSL7OI4.1708ac` |  |
+| Entropy; _printed: Δtrs°S_ | 5.27 J mol^-1 K^-1 |  | C-Lu₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 10; `ORC-VLOU4COSWR.b72b5c` |  |
+| Entropy; _printed: ΔS_ | 3.719 J mol−1 K−1 |  | Lu2O3; _alloy: Lu 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Hoekstra 1966_ | Table 5.1, p. 18, row 22; `ORC-2SZCPQFE5A.4ba1d9` |  |
+| Entropy; _printed: ΔS_ | 3.719 J mol^-1 K^-1 |  | UNKNOWN; _alloy: Lu 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Hoekstra 1966_ | Table 5.1, p. 18, row 22; `ORC-2SZCPQFE5A.fc905c` |  |
+| Entropy; _printed: °S_ | 109.96 J/mol (basis unstated)/K | 298.15 | C-Lu2O3; _alloy: O 0.6_ | unspecified | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 7; `ORC-CBFZPKSCJV.8116cf` |  |
+| Entropy; _printed: Δtrs°S_ | 29.159 J mol^-1 K^-1 | 2763 | C-Lu₂O₃ | unspecified | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 8; `ORC-DNCIF3FEYW.d6f630` |  |
 
 ### Crystal structure (3)
 
@@ -79,9 +79,9 @@ Table: Crystal structure, Lu–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| lattice molar volume | 42.225 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Lu 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 17 |  |
-| lattice molar volume | 38.878 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Lu 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 17 |  |
-| lattice molar volume | 38.041 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Lu 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 17 |  |
+| lattice molar volume | 42.225 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Lu 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 17; `ORC-VJZF7ZR5HJ.375a3b` |  |
+| lattice molar volume | 38.878 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Lu 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 17; `ORC-VJZF7ZR5HJ.4c5015` |  |
+| lattice molar volume | 38.041 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Lu 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 17; `ORC-VJZF7ZR5HJ.c510c1` |  |
 
 ### Other property (5)
 
@@ -89,11 +89,11 @@ Table: Other property, Lu–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Transition enthalpy; _printed: Δtrs°H_ | 27000 J mol^-1 |  | C-Lu₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 11 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 16598 J mol^-1 |  | C-Lu₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 9 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 39899 J mol^-1 |  | C-Lu₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 12 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 27106 J mol^-1 |  | C-Lu₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 10 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 80566 J mol^-1 | 2763 | C-Lu₂O₃ | unspecified | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 8 |  |
+| Transition enthalpy; _printed: Δtrs°H_ | 27000 J mol^-1 |  | C-Lu₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 11; `ORC-OQENQ7QWFX.8558b5` |  |
+| Transition enthalpy; _printed: Δtrs°H_ | 16598 J mol^-1 |  | C-Lu₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 9; `ORC-S4UQWKGTRJ.6cc08c` |  |
+| Transition enthalpy; _printed: Δtrs°H_ | 39899 J mol^-1 |  | C-Lu₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 12; `ORC-UBJGSL7OI4.302f2f` |  |
+| Transition enthalpy; _printed: Δtrs°H_ | 27106 J mol^-1 |  | C-Lu₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 10; `ORC-VLOU4COSWR.cdf23c` |  |
+| Transition enthalpy; _printed: Δtrs°H_ | 80566 J mol^-1 | 2763 | C-Lu₂O₃ | unspecified | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 8; `ORC-DNCIF3FEYW.6ed332` |  |
 
 ## Sources
 
@@ -158,4 +158,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

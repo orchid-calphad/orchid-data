@@ -51,7 +51,7 @@ Table: Enthalpies of formation, Nd–O system (1)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| A-Nd2O3 | [Nd2O3](https://data.orchid-project.org/compounds/Nd2O3.html) | -361.38 kJ/mol-atom | 298.15 | model | -364.863 (mp-aaaaabof) | -349.317 (oqmd-30801) | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 31 |  |
+| A-Nd2O3 | [Nd2O3](https://data.orchid-project.org/compounds/Nd2O3.html) | -361.38 kJ/mol-atom | 298.15 | model | -364.863 (mp-aaaaabof) | -349.317 (oqmd-30801) | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 31; `ORC-D6UKKJ6LIS.67cf27` |  |
 
 ## Other properties
 
@@ -61,20 +61,20 @@ Table: Phase transition, Nd–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 2333 K | 2333 | polymorphic: A ⟺ H; _alloy: Nd 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Shevtchenko 1985_ | Table 2.1, p. 6, row 37 |  |
-| Phase transition | 2340 K | 2340 | polymorphic: A ⟺ H; _alloy: Nd 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Adylov 1987_ | Table 2.1, p. 6, row 41 |  |
-| Phase transition | 2373 K | 2373 | polymorphic: A \<=> H; _alloy: Nd 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 2.2, p. 8, row 13 |  |
-| Phase transition | 2373 K | 2373 | polymorphic: A ⟺ H; _alloy: Nd 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Coutures 1976_ | Table 2.1, p. 6, row 33 |  |
-| Phase transition | 2373 K | 2373 | polymorphic: A ⟺ H; _alloy: Nd 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Coutures 1985_ | Table 2.1, p. 6, row 39 |  |
-| Phase transition | 2373 K | 2373 | polymorphic: A ⟺ H; _alloy: Nd 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Foex 1966_ | Table 2.1, p. 6, row 31 |  |
-| Phase transition | 2373 K | 2373 | polymorphic: A ⟺ H; _alloy: Nd 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Tresvyatkii 1971_ | Table 2.1, p. 6, row 35 |  |
-| Phase transition | 2435 K | 2435 | polymorphic: H ⟺ X; _alloy: Nd 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Adylov 1987_ | Table 2.1, p. 6, row 42 |  |
-| Phase transition | 2453 K | 2453 | polymorphic: H ⟺ X; _alloy: Nd 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Shevtchenko 1985_ | Table 2.1, p. 6, row 38 |  |
-| Phase transition | 2473 K | 2473 | polymorphic: H \<=> X; _alloy: Nd 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 2.2, p. 8, row 27 |  |
-| Phase transition | 2473 K | 2473 | polymorphic: H ⟺ X; _alloy: Nd 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Tresvyatkii 1971_ | Table 2.1, p. 6, row 36 |  |
-| Phase transition | 2473 K | 2473 | polymorphic: H ⟺ X; _alloy: Nd 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Coutures 1985_ | Table 2.1, p. 6, row 40 |  |
-| Phase transition | 2473 K | 2473 | polymorphic: H ⟺ X; _alloy: Nd 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Coutures 1976_ | Table 2.1, p. 6, row 34 |  |
-| Phase transition | 2473 K | 2473 | polymorphic: H ⟺ X; _alloy: Nd 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Foex 1966_ | Table 2.1, p. 6, row 32 |  |
+| Phase transition | 2333 K | 2333 | polymorphic: A ⟺ H; _alloy: Nd 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Shevtchenko 1985_ | Table 2.1, p. 6, row 37; `ORC-X55KDYELDU` |  |
+| Phase transition | 2340 K | 2340 | polymorphic: A ⟺ H; _alloy: Nd 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Adylov 1987_ | Table 2.1, p. 6, row 41; `ORC-6QCYRKV2MC` |  |
+| Phase transition | 2373 K | 2373 | polymorphic: A \<=> H; _alloy: Nd 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 2.2, p. 8, row 13; `ORC-IREJG4HPD3` |  |
+| Phase transition | 2373 K | 2373 | polymorphic: A ⟺ H; _alloy: Nd 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Coutures 1976_ | Table 2.1, p. 6, row 33; `ORC-IKMN63ZS4K` |  |
+| Phase transition | 2373 K | 2373 | polymorphic: A ⟺ H; _alloy: Nd 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Coutures 1985_ | Table 2.1, p. 6, row 39; `ORC-IONQQKPD7G` |  |
+| Phase transition | 2373 K | 2373 | polymorphic: A ⟺ H; _alloy: Nd 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Foex 1966_ | Table 2.1, p. 6, row 31; `ORC-W7SVANOPMA` |  |
+| Phase transition | 2373 K | 2373 | polymorphic: A ⟺ H; _alloy: Nd 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Tresvyatkii 1971_ | Table 2.1, p. 6, row 35; `ORC-YZUWZEONNK` |  |
+| Phase transition | 2435 K | 2435 | polymorphic: H ⟺ X; _alloy: Nd 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Adylov 1987_ | Table 2.1, p. 6, row 42; `ORC-PA64XTBD65` |  |
+| Phase transition | 2453 K | 2453 | polymorphic: H ⟺ X; _alloy: Nd 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Shevtchenko 1985_ | Table 2.1, p. 6, row 38; `ORC-66QPX5PDNH` |  |
+| Phase transition | 2473 K | 2473 | polymorphic: H \<=> X; _alloy: Nd 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 2.2, p. 8, row 27; `ORC-AXYCUBFKHE` |  |
+| Phase transition | 2473 K | 2473 | polymorphic: H ⟺ X; _alloy: Nd 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Tresvyatkii 1971_ | Table 2.1, p. 6, row 36; `ORC-5BLKU7TSX3` |  |
+| Phase transition | 2473 K | 2473 | polymorphic: H ⟺ X; _alloy: Nd 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Coutures 1985_ | Table 2.1, p. 6, row 40; `ORC-5SBS4NVC5V` |  |
+| Phase transition | 2473 K | 2473 | polymorphic: H ⟺ X; _alloy: Nd 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Coutures 1976_ | Table 2.1, p. 6, row 34; `ORC-HHJRAWQ2S5` |  |
+| Phase transition | 2473 K | 2473 | polymorphic: H ⟺ X; _alloy: Nd 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Foex 1966_ | Table 2.1, p. 6, row 32; `ORC-OHU5CVTC4O` |  |
 
 ### Heat capacity / entropy / enthalpy (1)
 
@@ -82,7 +82,7 @@ Table: Heat capacity / entropy / enthalpy, Nd–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: °S_ | 157.89 unknown | 298.15 | A-Nd2O3; _alloy: Nd 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 31 |  |
+| Entropy; _printed: °S_ | 157.89 unknown | 298.15 | A-Nd2O3; _alloy: Nd 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 31; `ORC-D6UKKJ6LIS.cdf846` |  |
 
 ### Crystal structure (3)
 
@@ -90,9 +90,9 @@ Table: Crystal structure, Nd–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| lattice molar volume | 51.198 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Nd 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 6 |  |
-| lattice molar volume | 46.796 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Nd 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 6 |  |
-| lattice molar volume | 45.893 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Nd 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 6 |  |
+| lattice molar volume | 51.198 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Nd 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 6; `ORC-YFB3GBBEME.80a56b` |  |
+| lattice molar volume | 46.796 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Nd 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 6; `ORC-YFB3GBBEME.962f50` |  |
+| lattice molar volume | 45.893 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Nd 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 6; `ORC-YFB3GBBEME.b7cdf9` |  |
 
 ## Sources
 
@@ -157,4 +157,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -28,22 +28,22 @@ Table: Enthalpies of formation, Al–Ce–Nd system (16)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Al11RE3 |  | -36.0853 kJ/mol-atom | 0 | DFT |  |  | [1] Gao 2005 | Table I, p. 6, row 2 |  |
-| Al11RE3 |  | -34.6477 kJ/mol-atom | 0 | DFT |  |  | [1] Gao 2005 | Table I, p. 6, row 2 |  |
-| Al2RE |  | -49.5835 kJ/mol-atom | 0 | DFT |  |  | [1] Gao 2005 | Table I, p. 6, row 5 |  |
-| Al2RE |  | -44.5952 kJ/mol-atom | 0 | DFT |  |  | [1] Gao 2005 | Table I, p. 6, row 5 |  |
-| Al4RE |  | -31.4637 kJ/mol-atom | 0 | DFT |  |  | [1] Gao 2005 | Table I, p. 6, row 1 |  |
-| Al4RE |  | -29.148 kJ/mol-atom | 0 | DFT |  |  | [1] Gao 2005 | Table I, p. 6, row 1 |  |
-| AlRE |  | -39.5973 kJ/mol-atom | 0 | DFT |  |  | [1] Gao 2005 | Table I, p. 6, row 6 |  |
-| AlRE |  | -32.5057 kJ/mol-atom | 0 | DFT |  |  | [1] Gao 2005 | Table I, p. 6, row 6 |  |
-| AlRE2 |  | -26.6587 kJ/mol-atom | 0 | DFT |  |  | [1] Gao 2005 | Table I, p. 6, row 7 |  |
-| AlRE2 |  | -21.217 kJ/mol-atom | 0 | DFT |  |  | [1] Gao 2005 | Table I, p. 6, row 7 |  |
-| αAl3RE |  | -40.9192 kJ/mol-atom | 0 | DFT |  |  | [1] Gao 2005 | Table I, p. 6, row 4 |  |
-| αAl3RE |  | -38.7097 kJ/mol-atom | 0 | DFT |  |  | [1] Gao 2005 | Table I, p. 6, row 4 |  |
-| αAlRE3 |  | -26.9289 kJ/mol-atom | 0 | DFT |  |  | [1] Gao 2005 | Table I, p. 6, row 9 |  |
-| αAlRE3 |  | -15.7849 kJ/mol-atom | 0 | DFT |  |  | [1] Gao 2005 | Table I, p. 6, row 9 |  |
-| βAl3RE |  | -38.4492 kJ/mol-atom | 0 | DFT |  |  | [1] Gao 2005 | Table I, p. 6, row 3 |  |
-| βAl3RE |  | -38.0536 kJ/mol-atom | 0 | DFT |  |  | [1] Gao 2005 | Table I, p. 6, row 3 |  |
+| Al11RE3 |  | -36.0853 kJ/mol-atom | 0 | DFT |  |  | [1] Gao 2005 | Table I, p. 6, row 2; `ORC-U67GJ5YAUJ.33a971` |  |
+| Al11RE3 |  | -34.6477 kJ/mol-atom | 0 | DFT |  |  | [1] Gao 2005 | Table I, p. 6, row 2; `ORC-U67GJ5YAUJ.fb198f` |  |
+| Al2RE |  | -49.5835 kJ/mol-atom | 0 | DFT |  |  | [1] Gao 2005 | Table I, p. 6, row 5; `ORC-76ITDXTRXC.714e61` |  |
+| Al2RE |  | -44.5952 kJ/mol-atom | 0 | DFT |  |  | [1] Gao 2005 | Table I, p. 6, row 5; `ORC-76ITDXTRXC.d03f6f` |  |
+| Al4RE |  | -31.4637 kJ/mol-atom | 0 | DFT |  |  | [1] Gao 2005 | Table I, p. 6, row 1; `ORC-TVOH4E4PMG.6f9882` |  |
+| Al4RE |  | -29.148 kJ/mol-atom | 0 | DFT |  |  | [1] Gao 2005 | Table I, p. 6, row 1; `ORC-TVOH4E4PMG.a4b431` |  |
+| AlRE |  | -39.5973 kJ/mol-atom | 0 | DFT |  |  | [1] Gao 2005 | Table I, p. 6, row 6; `ORC-VOAFGQ6JN4.732c04` |  |
+| AlRE |  | -32.5057 kJ/mol-atom | 0 | DFT |  |  | [1] Gao 2005 | Table I, p. 6, row 6; `ORC-VOAFGQ6JN4.c4724e` |  |
+| AlRE2 |  | -26.6587 kJ/mol-atom | 0 | DFT |  |  | [1] Gao 2005 | Table I, p. 6, row 7; `ORC-D2ADVL6I77.74c28b` |  |
+| AlRE2 |  | -21.217 kJ/mol-atom | 0 | DFT |  |  | [1] Gao 2005 | Table I, p. 6, row 7; `ORC-D2ADVL6I77.1d5e87` |  |
+| αAl3RE |  | -40.9192 kJ/mol-atom | 0 | DFT |  |  | [1] Gao 2005 | Table I, p. 6, row 4; `ORC-ZG4ODPHVRN.a19c33` |  |
+| αAl3RE |  | -38.7097 kJ/mol-atom | 0 | DFT |  |  | [1] Gao 2005 | Table I, p. 6, row 4; `ORC-ZG4ODPHVRN.126ced` |  |
+| αAlRE3 |  | -26.9289 kJ/mol-atom | 0 | DFT |  |  | [1] Gao 2005 | Table I, p. 6, row 9; `ORC-YLO7HPNPXN.b9562a` |  |
+| αAlRE3 |  | -15.7849 kJ/mol-atom | 0 | DFT |  |  | [1] Gao 2005 | Table I, p. 6, row 9; `ORC-YLO7HPNPXN.19f86a` |  |
+| βAl3RE |  | -38.4492 kJ/mol-atom | 0 | DFT |  |  | [1] Gao 2005 | Table I, p. 6, row 3; `ORC-ARP2APA4IT.ed7a3b` |  |
+| βAl3RE |  | -38.0536 kJ/mol-atom | 0 | DFT |  |  | [1] Gao 2005 | Table I, p. 6, row 3; `ORC-ARP2APA4IT.3b20a1` |  |
 
 ## Sources
 
@@ -86,4 +86,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

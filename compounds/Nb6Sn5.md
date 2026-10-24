@@ -14,12 +14,12 @@ Table: Enthalpy of formation of Nb6Sn5 reported in the literature (6)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -22 kJ/mol (basis unstated) | Nb6Sn5 | 298.15 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [1] Toffolon 1998; _cites ref. 88Deb_ | Table 2, p. 1, row 1 |  |
-| -22 kJ/mol-atom | Nb0.545Sn0.455 | 298.15 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [2] Toffolon 2002; _cites ref. 1988Deb_ | Table 3, p. 3, row 1 |  |
-| -17.983 kJ/mol-atom | Nb0.545Sn0.455 | 1173 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [2] Toffolon 2002 | Table 3, p. 3, row 4 |  |
-| -14.814 kJ/mol-atom | Nb0.545Sn0.455 | 298.15 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [2] Toffolon 2002 | Table 3, p. 3, row 3 |  |
-| -2.653 kJ/mol (basis unstated) | Nb6Sn5 | 1173 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [1] Toffolon 1998 | Table 2, p. 1, row 2 |  |
-| -2.653 kJ/mol-atom | Nb0.545Sn0.455 | 1173 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [2] Toffolon 2002; _cites Toffolon 2002_ | Table 3, p. 3, row 2 |  |
+| -22 kJ/mol (basis unstated) | Nb6Sn5 | 298.15 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [1] Toffolon 1998; _cites ref. 88Deb_ | Table 2, p. 1, row 1; `ORC-MV6E7ZP3AN` |  |
+| -22 kJ/mol-atom | Nb0.545Sn0.455 | 298.15 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [2] Toffolon 2002; _cites ref. 1988Deb_ | Table 3, p. 3, row 1; `ORC-ZBPRW2LILC` |  |
+| -17.983 kJ/mol-atom | Nb0.545Sn0.455 | 1173 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [2] Toffolon 2002 | Table 3, p. 3, row 4; `ORC-ON3EU26GF3.fa5399` |  |
+| -14.814 kJ/mol-atom | Nb0.545Sn0.455 | 298.15 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [2] Toffolon 2002 | Table 3, p. 3, row 3; `ORC-LBXJWFE6SQ.a741d2` |  |
+| -2.653 kJ/mol (basis unstated) | Nb6Sn5 | 1173 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [1] Toffolon 1998 | Table 2, p. 1, row 2; `ORC-5E65PJKKHL` |  |
+| -2.653 kJ/mol-atom | Nb0.545Sn0.455 | 1173 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [2] Toffolon 2002; _cites Toffolon 2002_ | Table 3, p. 3, row 2; `ORC-NLBIWIH7VB` |  |
 
 ### Uncertainty budget
 
@@ -88,4 +88,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

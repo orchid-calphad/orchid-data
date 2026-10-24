@@ -75,30 +75,30 @@ Table: Enthalpies of formation, Be–Zr system (24)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Zr2Be17 | [Be17Zr2](https://data.orchid-project.org/compounds/Be17Zr2.html) | -32.9 kJ/mol-atom |  | model | -22.891 (mp-aaaaadtw) | -22.616 (oqmd-10914) | [1] Tokunaga 2006 | Table 1, p. 2, row 18 |  |
-| Zr2Be17 |  | -32 kJ/mol-atom | 0 | DFT |  |  | [1] Tokunaga 2006 | Table 1, p. 2, row 16 |  |
-| Zr2Be17 | [Be17Zr2](https://data.orchid-project.org/compounds/Be17Zr2.html) | -28.9 kJ/mol-atom |  | model | -22.891 (mp-aaaaadtw) | -22.616 (oqmd-10914) | [1] Tokunaga 2006; _cites Kaufman 1979_ [doi](https://doi.org/10.1016/0364-5916%2879%2990010-5) | Table 1, p. 2, row 19 |  |
-| Zr2Be17 | [Be17Zr2](https://data.orchid-project.org/compounds/Be17Zr2.html) | -27.1 kJ/mol-atom |  | model | -22.891 (mp-aaaaadtw) | -22.616 (oqmd-10914) | [1] Tokunaga 2006; _cites Saunders 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990001-x) | Table 1, p. 2, row 20 |  |
-| Zr3Be–D03 |  | 12.7 kJ/mol-atom | 0 | DFT |  |  | [1] Tokunaga 2006 | Table 1, p. 2, row 1 |  |
-| ZrBe(CrB) |  | -46.3 kJ/mol-atom | 0 | DFT |  |  | [1] Tokunaga 2006 | Table 1, p. 2, row 26 |  |
-| ZrBe(CrB) | [BeZr](https://data.orchid-project.org/compounds/BeZr.html) | -15 kJ/mol-atom |  | model |  | -9.627 (oqmd-306227) | [1] Tokunaga 2006 | Table 1, p. 2, row 28 |  |
-| ZrBe(CrB) | [BeZr](https://data.orchid-project.org/compounds/BeZr.html) | -10.5 kJ/mol-atom |  | model |  | -9.627 (oqmd-306227) | [1] Tokunaga 2006; _cites Kaufman 1979_ [doi](https://doi.org/10.1016/0364-5916%2879%2990010-5) | Table 1, p. 2, row 29 |  |
-| ZrBe13 | [Be13Zr](https://data.orchid-project.org/compounds/Be13Zr.html) | -29.1 kJ/mol-atom |  | model | -19.111 (mp-aaaabtaz) | -18.81 (oqmd-10913) | [1] Tokunaga 2006; _cites Kaufman 1979_ [doi](https://doi.org/10.1016/0364-5916%2879%2990010-5) | Table 1, p. 2, row 24 |  |
-| ZrBe13 |  | -27.6 kJ/mol-atom | 0 | DFT |  |  | [1] Tokunaga 2006 | Table 1, p. 2, row 21 |  |
-| ZrBe13 | [Be13Zr](https://data.orchid-project.org/compounds/Be13Zr.html) | -26.1 kJ/mol-atom |  | model | -19.111 (mp-aaaabtaz) | -18.81 (oqmd-10913) | [1] Tokunaga 2006 | Table 1, p. 2, row 23 |  |
-| ZrBe13 | [Be13Zr](https://data.orchid-project.org/compounds/Be13Zr.html) | -22.5 kJ/mol-atom |  | model | -19.111 (mp-aaaabtaz) | -18.81 (oqmd-10913) | [1] Tokunaga 2006; _cites Saunders 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990001-x) | Table 1, p. 2, row 25 |  |
-| ZrBe2 | [Be2Zr](https://data.orchid-project.org/compounds/Be2Zr.html) | -28.1 kJ/mol-atom |  | model | -15.816 (mp-aaaaabwe) | -15.517 (oqmd-10911) | [1] Tokunaga 2006 | Table 1, p. 2, row 8 |  |
-| ZrBe2 | [Be2Zr](https://data.orchid-project.org/compounds/Be2Zr.html) | -26.1 kJ/mol-atom |  | model | -15.816 (mp-aaaaabwe) | -15.517 (oqmd-10911) | [1] Tokunaga 2006; _cites Kaufman 1979_ [doi](https://doi.org/10.1016/0364-5916%2879%2990010-5) | Table 1, p. 2, row 9 |  |
-| ZrBe2 |  | -24.6 kJ/mol-atom | 0 | DFT |  |  | [1] Tokunaga 2006 | Table 1, p. 2, row 6 |  |
-| ZrBe2 | [Be2Zr](https://data.orchid-project.org/compounds/Be2Zr.html) | -24 kJ/mol-atom |  | model | -15.816 (mp-aaaaabwe) | -15.517 (oqmd-10911) | [1] Tokunaga 2006; _cites Saunders 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990001-x) | Table 1, p. 2, row 10 |  |
-| ZrBe3–D03 |  | -6.1 kJ/mol-atom | 0 | DFT |  |  | [1] Tokunaga 2006 | Table 1, p. 2, row 5 |  |
-| ZrBe5 | [Be5Zr](https://data.orchid-project.org/compounds/Be5Zr.html) | -33.3 kJ/mol-atom |  | model | -23.262 (mp-aaaaaqrz) | -22.858 (oqmd-10912) | [1] Tokunaga 2006 | Table 1, p. 2, row 13 |  |
-| ZrBe5 |  | -32.3 kJ/mol-atom | 0 | DFT |  |  | [1] Tokunaga 2006 | Table 1, p. 2, row 11 |  |
-| ZrBe5 | [Be5Zr](https://data.orchid-project.org/compounds/Be5Zr.html) | -28.6 kJ/mol-atom |  | model | -23.262 (mp-aaaaaqrz) | -22.858 (oqmd-10912) | [1] Tokunaga 2006; _cites Saunders 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990001-x) | Table 1, p. 2, row 15 |  |
-| ZrBe5 | [Be5Zr](https://data.orchid-project.org/compounds/Be5Zr.html) | -28.4 kJ/mol-atom |  | model | -23.262 (mp-aaaaaqrz) | -22.858 (oqmd-10912) | [1] Tokunaga 2006; _cites Kaufman 1979_ [doi](https://doi.org/10.1016/0364-5916%2879%2990010-5) | Table 1, p. 2, row 14 |  |
-| ZrBe–B2 | [BeZr](https://data.orchid-project.org/compounds/BeZr.html) | -21.4 kJ/mol-atom |  | model |  | -9.627 (oqmd-306227) | [1] Tokunaga 2006 | Table 1, p. 2, row 3 |  |
-| ZrBe–B2 |  | -18.2 kJ/mol-atom | 0 | DFT |  |  | [1] Tokunaga 2006 | Table 1, p. 2, row 2 |  |
-| ZrBe–B32 |  | 51 kJ/mol-atom | 0 | DFT |  |  | [1] Tokunaga 2006 | Table 1, p. 2, row 4 |  |
+| Zr2Be17 | [Be17Zr2](https://data.orchid-project.org/compounds/Be17Zr2.html) | -32.9 kJ/mol-atom |  | model | -22.891 (mp-aaaaadtw) | -22.616 (oqmd-10914) | [1] Tokunaga 2006 | Table 1, p. 2, row 18; `ORC-CRS4ZVXGHT` |  |
+| Zr2Be17 |  | -32 kJ/mol-atom | 0 | DFT |  |  | [1] Tokunaga 2006 | Table 1, p. 2, row 16; `ORC-QRSNONMQ2Y` |  |
+| Zr2Be17 | [Be17Zr2](https://data.orchid-project.org/compounds/Be17Zr2.html) | -28.9 kJ/mol-atom |  | model | -22.891 (mp-aaaaadtw) | -22.616 (oqmd-10914) | [1] Tokunaga 2006; _cites Kaufman 1979_ [doi](https://doi.org/10.1016/0364-5916%2879%2990010-5) | Table 1, p. 2, row 19; `ORC-QXKFLPJPW6` |  |
+| Zr2Be17 | [Be17Zr2](https://data.orchid-project.org/compounds/Be17Zr2.html) | -27.1 kJ/mol-atom |  | model | -22.891 (mp-aaaaadtw) | -22.616 (oqmd-10914) | [1] Tokunaga 2006; _cites Saunders 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990001-x) | Table 1, p. 2, row 20; `ORC-2UCKB5K5RC` |  |
+| Zr3Be–D03 |  | 12.7 kJ/mol-atom | 0 | DFT |  |  | [1] Tokunaga 2006 | Table 1, p. 2, row 1; `ORC-NY3TDN7HTQ` |  |
+| ZrBe(CrB) |  | -46.3 kJ/mol-atom | 0 | DFT |  |  | [1] Tokunaga 2006 | Table 1, p. 2, row 26; `ORC-QXE32257JO` |  |
+| ZrBe(CrB) | [BeZr](https://data.orchid-project.org/compounds/BeZr.html) | -15 kJ/mol-atom |  | model |  | -9.627 (oqmd-306227) | [1] Tokunaga 2006 | Table 1, p. 2, row 28; `ORC-T7HMDMN6QI` |  |
+| ZrBe(CrB) | [BeZr](https://data.orchid-project.org/compounds/BeZr.html) | -10.5 kJ/mol-atom |  | model |  | -9.627 (oqmd-306227) | [1] Tokunaga 2006; _cites Kaufman 1979_ [doi](https://doi.org/10.1016/0364-5916%2879%2990010-5) | Table 1, p. 2, row 29; `ORC-XZ6CB4SQM4` |  |
+| ZrBe13 | [Be13Zr](https://data.orchid-project.org/compounds/Be13Zr.html) | -29.1 kJ/mol-atom |  | model | -19.111 (mp-aaaabtaz) | -18.81 (oqmd-10913) | [1] Tokunaga 2006; _cites Kaufman 1979_ [doi](https://doi.org/10.1016/0364-5916%2879%2990010-5) | Table 1, p. 2, row 24; `ORC-I74ZTJYZIL` |  |
+| ZrBe13 |  | -27.6 kJ/mol-atom | 0 | DFT |  |  | [1] Tokunaga 2006 | Table 1, p. 2, row 21; `ORC-FW5OQK77M4` |  |
+| ZrBe13 | [Be13Zr](https://data.orchid-project.org/compounds/Be13Zr.html) | -26.1 kJ/mol-atom |  | model | -19.111 (mp-aaaabtaz) | -18.81 (oqmd-10913) | [1] Tokunaga 2006 | Table 1, p. 2, row 23; `ORC-KIJNGPFNTJ` |  |
+| ZrBe13 | [Be13Zr](https://data.orchid-project.org/compounds/Be13Zr.html) | -22.5 kJ/mol-atom |  | model | -19.111 (mp-aaaabtaz) | -18.81 (oqmd-10913) | [1] Tokunaga 2006; _cites Saunders 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990001-x) | Table 1, p. 2, row 25; `ORC-O57BO43OT7` |  |
+| ZrBe2 | [Be2Zr](https://data.orchid-project.org/compounds/Be2Zr.html) | -28.1 kJ/mol-atom |  | model | -15.816 (mp-aaaaabwe) | -15.517 (oqmd-10911) | [1] Tokunaga 2006 | Table 1, p. 2, row 8; `ORC-J7QMWDJYYW` |  |
+| ZrBe2 | [Be2Zr](https://data.orchid-project.org/compounds/Be2Zr.html) | -26.1 kJ/mol-atom |  | model | -15.816 (mp-aaaaabwe) | -15.517 (oqmd-10911) | [1] Tokunaga 2006; _cites Kaufman 1979_ [doi](https://doi.org/10.1016/0364-5916%2879%2990010-5) | Table 1, p. 2, row 9; `ORC-BBZX6X3MAU` |  |
+| ZrBe2 |  | -24.6 kJ/mol-atom | 0 | DFT |  |  | [1] Tokunaga 2006 | Table 1, p. 2, row 6; `ORC-DAJOUTIBIG` |  |
+| ZrBe2 | [Be2Zr](https://data.orchid-project.org/compounds/Be2Zr.html) | -24 kJ/mol-atom |  | model | -15.816 (mp-aaaaabwe) | -15.517 (oqmd-10911) | [1] Tokunaga 2006; _cites Saunders 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990001-x) | Table 1, p. 2, row 10; `ORC-7ERUFWJE4K` |  |
+| ZrBe3–D03 |  | -6.1 kJ/mol-atom | 0 | DFT |  |  | [1] Tokunaga 2006 | Table 1, p. 2, row 5; `ORC-4CMMNBT32N` |  |
+| ZrBe5 | [Be5Zr](https://data.orchid-project.org/compounds/Be5Zr.html) | -33.3 kJ/mol-atom |  | model | -23.262 (mp-aaaaaqrz) | -22.858 (oqmd-10912) | [1] Tokunaga 2006 | Table 1, p. 2, row 13; `ORC-7JKQZOYGDV` |  |
+| ZrBe5 |  | -32.3 kJ/mol-atom | 0 | DFT |  |  | [1] Tokunaga 2006 | Table 1, p. 2, row 11; `ORC-QRJCBXDSPJ` |  |
+| ZrBe5 | [Be5Zr](https://data.orchid-project.org/compounds/Be5Zr.html) | -28.6 kJ/mol-atom |  | model | -23.262 (mp-aaaaaqrz) | -22.858 (oqmd-10912) | [1] Tokunaga 2006; _cites Saunders 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990001-x) | Table 1, p. 2, row 15; `ORC-JHKDA7OM2T` |  |
+| ZrBe5 | [Be5Zr](https://data.orchid-project.org/compounds/Be5Zr.html) | -28.4 kJ/mol-atom |  | model | -23.262 (mp-aaaaaqrz) | -22.858 (oqmd-10912) | [1] Tokunaga 2006; _cites Kaufman 1979_ [doi](https://doi.org/10.1016/0364-5916%2879%2990010-5) | Table 1, p. 2, row 14; `ORC-NU2TIQMADR` |  |
+| ZrBe–B2 | [BeZr](https://data.orchid-project.org/compounds/BeZr.html) | -21.4 kJ/mol-atom |  | model |  | -9.627 (oqmd-306227) | [1] Tokunaga 2006 | Table 1, p. 2, row 3; `ORC-LFAQNFQFAQ` |  |
+| ZrBe–B2 |  | -18.2 kJ/mol-atom | 0 | DFT |  |  | [1] Tokunaga 2006 | Table 1, p. 2, row 2; `ORC-GYZWKNVSDU` |  |
+| ZrBe–B32 |  | 51 kJ/mol-atom | 0 | DFT |  |  | [1] Tokunaga 2006 | Table 1, p. 2, row 4; `ORC-EEHEBZIVRY` |  |
 
 ## Sources
 
@@ -163,4 +163,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

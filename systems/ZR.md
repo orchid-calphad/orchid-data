@@ -32,8 +32,8 @@ Table: Invariant reactions reported in the literature for the Zr system (2)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1136 | congruent transformation: β Zr = α Zr |  | unspecified | [1] Subasic 1998; _cites ref. 83Abr_ | Table 1, p. 3, row 16 |  |
-| 1136 | congruent transformation: β Zr = α Zr | α Zr:  | model | [1] Subasic 1998 | Table 1, p. 3, row 15 |  |
+| 1136 | congruent transformation: β Zr = α Zr |  | unspecified | [1] Subasic 1998; _cites ref. 83Abr_ | Table 1, p. 3, row 16; `ORC-OV2WHQRI7K` |  |
+| 1136 | congruent transformation: β Zr = α Zr | α Zr:  | model | [1] Subasic 1998 | Table 1, p. 3, row 15; `ORC-WSVW65TKKZ` |  |
 
 ## Formation enthalpies
 
@@ -43,11 +43,11 @@ Table: Enthalpies of formation, Zr system (5)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| C15 |  | 27.5 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Lu 2017 | Table 2, p. 3, row 10 |  |
-| C36 |  | 23.07 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Lu 2017 | Table 2, p. 3, row 35 |  |
-| hcp-Zr |  | 0 kJ/mol-atom | 0 | DFT |  |  | [3] Zhou 2010 | Table 2, p. 3, row 2 |  |
-| τ1 |  | 16.68 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Lu 2017 | Table 2, p. 3, row 55 |  |
-| τ2 |  | 20.79 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Lu 2017 | Table 2, p. 3, row 22 |  |
+| C15 |  | 27.5 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Lu 2017 | Table 2, p. 3, row 10; `ORC-QQ27TP2NDB` |  |
+| C36 |  | 23.07 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Lu 2017 | Table 2, p. 3, row 35; `ORC-ZBKYRK6FRB` |  |
+| hcp-Zr |  | 0 kJ/mol-atom | 0 | DFT |  |  | [3] Zhou 2010 | Table 2, p. 3, row 2; `ORC-RGTIP2LC4R.8f3744` |  |
+| τ1 |  | 16.68 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Lu 2017 | Table 2, p. 3, row 55; `ORC-HJBBLB6U75` |  |
+| τ2 |  | 20.79 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Lu 2017 | Table 2, p. 3, row 22; `ORC-IEIVZ2BSWR` |  |
 
 ## Other properties
 
@@ -57,17 +57,17 @@ Table: Phase transition, Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1024 K | 1024 | other: Zr-1.0Sn-0.3Nb-0.3Fe-0.1Cr; _alloy: Zr 1_ | model | [4] Lafaye 2021; _cites Dupin 1999_ [doi](https://doi.org/10.1016/s0022-3115%2899%2900125-7) | Table 11, p. 12, row 8 |  |
-| Phase transition | 1053 K | 1053 | other: Zr-1.0Sn-0.3Nb-0.3Fe-0.1Cr; _alloy: Zr 1_ | experimental | [4] Lafaye 2021; _cites Liang 2008_ | Table 11, p. 12, row 3 |  |
-| Phase transition | 1054 K | 1054 | other: Zr-1.0Sn-0.3Nb-0.3Fe-0.1Cr; _alloy: Zr 1_ | model | [4] Lafaye 2021 | Table 11, p. 12, row 5 |  |
-| Phase transition | 1087 K | 1087 | other: Zr-1.0Sn-0.3Nb-0.3Fe-0.1Cr; _alloy: Zr 1_ | experimental | [4] Lafaye 2021; _cites Liang 2008_ | Table 11, p. 12, row 1 |  |
-| Phase transition | 1100 K | 1100 | other: Zr-1.0Sn-0.3Nb-0.3Fe-0.1Cr; _alloy: Zr 1_ | model | [4] Lafaye 2021; _cites Dupin 1999_ [doi](https://doi.org/10.1016/s0022-3115%2899%2900125-7) | Table 11, p. 12, row 7 |  |
-| Phase transition | 1115 K | 1115 | other: Zr-1.0Sn-0.3Nb-0.3Fe-0.1Cr; _alloy: Zr 1_ | model | [4] Lafaye 2021 | Table 11, p. 12, row 4 |  |
-| Phase transition | 1134 K | 1134 | other: Zr-1.0Sn-0.3Nb-0.3Fe-0.1Cr; _alloy: Zr 1_ | experimental | [4] Lafaye 2021; _cites Liang 2008_ | Table 11, p. 12, row 2 |  |
-| Phase transition | 1139 K | 1139 | polymorphic: hcp↔bcc; _alloy: Zr 1_ | model | [5] Mattern 2014; _cites Massalski 1990_ | Table 1, p. 3, row 5 |  |
-| Phase transition | 1139.4 K | 1139.4 | polymorphic: hcp-A3 -> bcc-A2; _hcp-A3: Zr 1; bcc-A2: Zr 1_ | unspecified | [6] Hämäläinen 1998 | Table I, p. 298, row 9 |  |
-| Phase transition | 1178.15 K | 1178.15 | other: Zr; _alloy: Zr 1_ | experimental | [7] Jourdan 2010 | Table 2, p. 4, row 2 |  |
-| Phase transition | 2128 K | 2128 | other: bcc-Zr; _alloy: Zr 1_ | model | [5] Mattern 2014; _cites Massalski 1990_ | Table 1, p. 3, row 4 |  |
+| Phase transition | 1024 K | 1024 | other: Zr-1.0Sn-0.3Nb-0.3Fe-0.1Cr; _alloy: Zr 1_ | model | [4] Lafaye 2021; _cites Dupin 1999_ [doi](https://doi.org/10.1016/s0022-3115%2899%2900125-7) | Table 11, p. 12, row 8; `ORC-SDZ5SPX77W` |  |
+| Phase transition | 1053 K | 1053 | other: Zr-1.0Sn-0.3Nb-0.3Fe-0.1Cr; _alloy: Zr 1_ | experimental | [4] Lafaye 2021; _cites Liang 2008_ | Table 11, p. 12, row 3; `ORC-2C2A4N3S65` |  |
+| Phase transition | 1054 K | 1054 | other: Zr-1.0Sn-0.3Nb-0.3Fe-0.1Cr; _alloy: Zr 1_ | model | [4] Lafaye 2021 | Table 11, p. 12, row 5; `ORC-BAKQLJYHXU` |  |
+| Phase transition | 1087 K | 1087 | other: Zr-1.0Sn-0.3Nb-0.3Fe-0.1Cr; _alloy: Zr 1_ | experimental | [4] Lafaye 2021; _cites Liang 2008_ | Table 11, p. 12, row 1; `ORC-D4ERYCXQHP` |  |
+| Phase transition | 1100 K | 1100 | other: Zr-1.0Sn-0.3Nb-0.3Fe-0.1Cr; _alloy: Zr 1_ | model | [4] Lafaye 2021; _cites Dupin 1999_ [doi](https://doi.org/10.1016/s0022-3115%2899%2900125-7) | Table 11, p. 12, row 7; `ORC-YPXD45HHNX` |  |
+| Phase transition | 1115 K | 1115 | other: Zr-1.0Sn-0.3Nb-0.3Fe-0.1Cr; _alloy: Zr 1_ | model | [4] Lafaye 2021 | Table 11, p. 12, row 4; `ORC-KNV2TUYHRF` |  |
+| Phase transition | 1134 K | 1134 | other: Zr-1.0Sn-0.3Nb-0.3Fe-0.1Cr; _alloy: Zr 1_ | experimental | [4] Lafaye 2021; _cites Liang 2008_ | Table 11, p. 12, row 2; `ORC-LRRNOWZSWS` |  |
+| Phase transition | 1139 K | 1139 | polymorphic: hcp↔bcc; _alloy: Zr 1_ | model | [5] Mattern 2014; _cites Massalski 1990_ | Table 1, p. 3, row 5; `ORC-L44BQ74XQJ` |  |
+| Phase transition | 1139.4 K | 1139.4 | polymorphic: hcp-A3 -> bcc-A2; _hcp-A3: Zr 1; bcc-A2: Zr 1_ | unspecified | [6] Hämäläinen 1998 | Table I, p. 298, row 9; `ORC-I3JJ5YXA7B` |  |
+| Phase transition | 1178.15 K | 1178.15 | other: Zr; _alloy: Zr 1_ | experimental | [7] Jourdan 2010 | Table 2, p. 4, row 2; `ORC-TWVJITEJD2` |  |
+| Phase transition | 2128 K | 2128 | other: bcc-Zr; _alloy: Zr 1_ | model | [5] Mattern 2014; _cites Massalski 1990_ | Table 1, p. 3, row 4; `ORC-GGOMF4YMUW` |  |
 
 ### Crystal structure (49)
 
@@ -75,55 +75,55 @@ Table: Crystal structure, Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.3233 not_printed |  | (αZr); _alloy: Zr 1_ | unspecified | [8] Luo 2014 | Table 3, p. 3, row 34 |  |
-| Lattice a | 0.3571 not_printed |  | (βZr); _alloy: Zr 1_ | unspecified | [8] Luo 2014 | Table 3, p. 3, row 31 |  |
-| Lattice a | 8.249 Å |  | C15; _alloy: Zr 1_ | model | [9] Pavlů 2009 | Table 2, p. 2, row 19 |  |
-| Lattice a; _printed: a_ | 8.26 Å | 0 | C15; _alloy: Zr 1_ | DFT | [2] Lu 2017 | Table 2, p. 3, row 10 |  |
-| Lattice a; _printed: a_ | 5.81 Å | 0 | C36; _alloy: Zr 1_ | DFT | [2] Lu 2017 | Table 2, p. 3, row 35 |  |
-| Lattice a | 5.771 Å |  | C36; _alloy: Zr 1_ | model | [9] Pavlů 2009 | Table 2, p. 2, row 26 |  |
-| Lattice a | 3.2355 Å |  | HCP Zr; _alloy: Zr 1_ | unspecified | [9] Pavlů 2009 | Table 1, p. 2, row 4 |  |
-| Lattice a | 5.759 Å |  | UNKNOWN; _alloy: Zr 1_ | model | [9] Pavlů 2009 | Table 2, p. 2, row 7 |  |
-| Lattice a | 5.771 Å |  | UNKNOWN; _alloy: Zr 1_ | model | [9] Pavlů 2009 | Table 2, p. 2, row 14 |  |
-| Lattice a; _printed: a_ | 13.09 Å | 0 | τ1; _alloy: Zr 1_ | DFT | [2] Lu 2017 | Table 2, p. 3, row 55 |  |
-| Lattice a; _printed: a_ | 5.8 Å | 0 | τ2; _alloy: Zr 1_ | DFT | [2] Lu 2017 | Table 2, p. 3, row 22 |  |
-| Lattice a | 0.3229 not_printed ± 3.000e-4 | 298.15 | (αZr); _alloy: Zr 1_ | experimental | [8] Luo 2014 | Table 3, p. 3, row 35 |  |
-| Lattice a | 3.233 Å | 298.15 | (αZr); _alloy: Zr 1_ | unspecified | [10] Liu 2017; _cites Ellinger 2017_ | Table 2, p. 4, row 8 |  |
-| Lattice a | 3.551 Å | 298.15 | (βZr); _alloy: Zr 1_ | experimental | [10] Liu 2017; _cites Yasohama 1974_ [doi](https://doi.org/10.1143/jpsj.36.1349) | Table 2, p. 4, row 9 |  |
-| Lattice a | 3.2318 Å | 298.15 | HCP Zr; _alloy: Zr 1_ | experimental | [9] Pavlů 2009; _cites Moroni 1993_ [doi](https://doi.org/10.1103/physrevb.47.3255) | Table 1, p. 2, row 3 |  |
-| Lattice a | 3.2317 Å | 298.15 | hcp(Zr); _alloy: Zr 1_ | unspecified | [11] Long 2020 | Table 1, p. 2, row 3 |  |
-| Lattice a | 3.2321 Å | 298.15 | hcp-Zr; _alloy: Zr 1_ | unspecified | [12] Zhao 2012; _cites Finkel 1980_ | Table 1, p. 3, row 2 |  |
-| Lattice a | 3.2316 Å | 866 (\<) | α(HfxZr1-x); _α(HfxZr1-x): Zr 1_ | model | [13] Bittermann 2002; _cites Massalski 1990_ | Table 1, p. 4, row 1 |  |
-| Lattice a | 3.609 Å | 1360.5 | UNKNOWN; _alloy: Zr 1_ | model | [13] Bittermann 2002; _cites Massalski 1990_ | Table 1, p. 4, row 14 |  |
-| Lattice b | 0.3233 not_printed |  | (αZr); _alloy: Zr 1_ | unspecified | [8] Luo 2014 | Table 3, p. 3, row 34 |  |
-| Lattice b | 0.3571 not_printed |  | (βZr); _alloy: Zr 1_ | unspecified | [8] Luo 2014 | Table 3, p. 3, row 31 |  |
-| Lattice b | 0.3229 not_printed ± 3.000e-4 | 298.15 | (αZr); _alloy: Zr 1_ | experimental | [8] Luo 2014 | Table 3, p. 3, row 35 |  |
-| Lattice b | 5.1478 Å | 298.15 | hcp-Zr; _alloy: Zr 1_ | unspecified | [12] Zhao 2012; _cites Finkel 1980_ | Table 1, p. 3, row 2 |  |
-| Lattice c | 0.51696 not_printed |  | (αZr); _alloy: Zr 1_ | unspecified | [8] Luo 2014 | Table 3, p. 3, row 34 |  |
-| Lattice c | 0.3571 not_printed |  | (βZr); _alloy: Zr 1_ | unspecified | [8] Luo 2014 | Table 3, p. 3, row 31 |  |
-| Lattice c; _printed: c_ | 19.15 Å | 0 | C36; _alloy: Zr 1_ | DFT | [2] Lu 2017 | Table 2, p. 3, row 35 |  |
-| Lattice c | 19.224 Å |  | C36; _alloy: Zr 1_ | model | [9] Pavlů 2009 | Table 2, p. 2, row 26 |  |
-| Lattice c | 5.1695 Å |  | HCP Zr; _alloy: Zr 1_ | unspecified | [9] Pavlů 2009 | Table 1, p. 2, row 4 |  |
-| Lattice c | 9.598 Å |  | UNKNOWN; _alloy: Zr 1_ | model | [9] Pavlů 2009 | Table 2, p. 2, row 7 |  |
-| Lattice c | 19.224 Å |  | UNKNOWN; _alloy: Zr 1_ | model | [9] Pavlů 2009 | Table 2, p. 2, row 14 |  |
-| Lattice c; _printed: c_ | 9.54 Å | 0 | τ2; _alloy: Zr 1_ | DFT | [2] Lu 2017 | Table 2, p. 3, row 22 |  |
-| Lattice c | 0.5138 not_printed ± 4.000e-4 | 298.15 | (αZr); _alloy: Zr 1_ | experimental | [8] Luo 2014 | Table 3, p. 3, row 35 |  |
-| Lattice c | 5.152 Å | 298.15 | (αZr); _alloy: Zr 1_ | unspecified | [10] Liu 2017; _cites Ellinger 2017_ | Table 2, p. 4, row 8 |  |
-| Lattice c | 5.1483 Å | 298.15 | HCP Zr; _alloy: Zr 1_ | experimental | [9] Pavlů 2009; _cites Moroni 1993_ [doi](https://doi.org/10.1103/physrevb.47.3255) | Table 1, p. 2, row 3 |  |
-| Lattice c | 5.1475 Å | 298.15 | hcp(Zr); _alloy: Zr 1_ | unspecified | [11] Long 2020 | Table 1, p. 2, row 3 |  |
-| Lattice c | 5.1475 Å | 866 (\<) | α(HfxZr1-x); _α(HfxZr1-x): Zr 1_ | model | [13] Bittermann 2002; _cites Massalski 1990_ | Table 1, p. 4, row 1 |  |
-| lattice 4e z | 0.096 not_printed |  | C36; _alloy: Zr 1_ | model | [9] Pavlů 2009 | Table 2, p. 2, row 26 |  |
-| lattice 4f z 1 | 0.846 not_printed |  | C36; _alloy: Zr 1_ | model | [9] Pavlů 2009 | Table 2, p. 2, row 26 |  |
-| lattice 4f z 2 | 0.133 not_printed |  | C36; _alloy: Zr 1_ | model | [9] Pavlů 2009 | Table 2, p. 2, row 26 |  |
-| lattice 6h x | 0.155 not_printed |  | C36; _alloy: Zr 1_ | model | [9] Pavlů 2009 | Table 2, p. 2, row 26 |  |
-| lattice 6h y | 0.311 not_printed |  | C36; _alloy: Zr 1_ | model | [9] Pavlů 2009 | Table 2, p. 2, row 26 |  |
-| lattice c a | 1.5977 not_printed |  | HCP Zr; _alloy: Zr 1_ | unspecified | [9] Pavlů 2009 | Table 1, p. 2, row 4 |  |
-| lattice c a | 1.593 not_printed | 298.15 | HCP Zr; _alloy: Zr 1_ | experimental | [9] Pavlů 2009; _cites Moroni 1993_ [doi](https://doi.org/10.1103/physrevb.47.3255) | Table 1, p. 2, row 3 |  |
-| lattice v | 2.297 10^7 pm^3 |  | UNKNOWN; _alloy: Zr 1_ | model | [9] Pavlů 2009 | Table 2, p. 2, row 7 |  |
-| lattice v | 2.3106 10^7 pm^3 |  | UNKNOWN; _alloy: Zr 1_ | model | [9] Pavlů 2009 | Table 2, p. 2, row 14 |  |
-| lattice v atom | 2.3386 10^7 pm^3 |  | C15; _alloy: Zr 1_ | model | [9] Pavlů 2009 | Table 2, p. 2, row 19 |  |
-| lattice v atom | 2.3106 10^7 pm^3 |  | C36; _alloy: Zr 1_ | model | [9] Pavlů 2009 | Table 2, p. 2, row 26 |  |
-| lattice v atom | 2.3433 10^7 pm^3 |  | HCP Zr; _alloy: Zr 1_ | unspecified | [9] Pavlů 2009 | Table 1, p. 2, row 4 |  |
-| lattice v atom | 2.32835 10^7 pm^3 | 298.15 | HCP Zr; _alloy: Zr 1_ | experimental | [9] Pavlů 2009; _cites Moroni 1993_ [doi](https://doi.org/10.1103/physrevb.47.3255) | Table 1, p. 2, row 3 |  |
+| Lattice a | 0.3233 not_printed |  | (αZr); _alloy: Zr 1_ | unspecified | [8] Luo 2014 | Table 3, p. 3, row 34; `ORC-4NKBN4CAVM.104d97` |  |
+| Lattice a | 0.3571 not_printed |  | (βZr); _alloy: Zr 1_ | unspecified | [8] Luo 2014 | Table 3, p. 3, row 31; `ORC-MXMROCYXSL.36ced6` |  |
+| Lattice a | 8.249 Å |  | C15; _alloy: Zr 1_ | model | [9] Pavlů 2009 | Table 2, p. 2, row 19; `ORC-7ZT3HYGAKE.081a94` |  |
+| Lattice a; _printed: a_ | 8.26 Å | 0 | C15; _alloy: Zr 1_ | DFT | [2] Lu 2017 | Table 2, p. 3, row 10; `ORC-BKMAHXIPRS` |  |
+| Lattice a; _printed: a_ | 5.81 Å | 0 | C36; _alloy: Zr 1_ | DFT | [2] Lu 2017 | Table 2, p. 3, row 35; `ORC-LULOI67MWR.fb526d` |  |
+| Lattice a | 5.771 Å |  | C36; _alloy: Zr 1_ | model | [9] Pavlů 2009 | Table 2, p. 2, row 26; `ORC-YGZDBO45D2.94d0db` |  |
+| Lattice a | 3.2355 Å |  | HCP Zr; _alloy: Zr 1_ | unspecified | [9] Pavlů 2009 | Table 1, p. 2, row 4; `ORC-UIX4ENGEFN.cd9959` |  |
+| Lattice a | 5.759 Å |  | UNKNOWN; _alloy: Zr 1_ | model | [9] Pavlů 2009 | Table 2, p. 2, row 7; `ORC-5MPBJ2CFQZ.932dce` |  |
+| Lattice a | 5.771 Å |  | UNKNOWN; _alloy: Zr 1_ | model | [9] Pavlů 2009 | Table 2, p. 2, row 14; `ORC-VO33ISJZIY.02bdbf` |  |
+| Lattice a; _printed: a_ | 13.09 Å | 0 | τ1; _alloy: Zr 1_ | DFT | [2] Lu 2017 | Table 2, p. 3, row 55; `ORC-LIH2DMWLAV` |  |
+| Lattice a; _printed: a_ | 5.8 Å | 0 | τ2; _alloy: Zr 1_ | DFT | [2] Lu 2017 | Table 2, p. 3, row 22; `ORC-SVZ6JJNBXM.41bfc7` |  |
+| Lattice a | 0.3229 not_printed ± 3.000e-4 | 298.15 | (αZr); _alloy: Zr 1_ | experimental | [8] Luo 2014 | Table 3, p. 3, row 35; `ORC-H53DIBDY2O.dcca51` |  |
+| Lattice a | 3.233 Å | 298.15 | (αZr); _alloy: Zr 1_ | unspecified | [10] Liu 2017; _cites Ellinger 2017_ | Table 2, p. 4, row 8; `ORC-RNR3QSDNCS.d34bec` |  |
+| Lattice a | 3.551 Å | 298.15 | (βZr); _alloy: Zr 1_ | experimental | [10] Liu 2017; _cites Yasohama 1974_ [doi](https://doi.org/10.1143/jpsj.36.1349) | Table 2, p. 4, row 9; `ORC-JPU73TRGYY` |  |
+| Lattice a | 3.2318 Å | 298.15 | HCP Zr; _alloy: Zr 1_ | experimental | [9] Pavlů 2009; _cites Moroni 1993_ [doi](https://doi.org/10.1103/physrevb.47.3255) | Table 1, p. 2, row 3; `ORC-QFAJAC5WFL.81c0ba` |  |
+| Lattice a | 3.2317 Å | 298.15 | hcp(Zr); _alloy: Zr 1_ | unspecified | [11] Long 2020 | Table 1, p. 2, row 3; `ORC-5DHSVSSTRO.0da60b` |  |
+| Lattice a | 3.2321 Å | 298.15 | hcp-Zr; _alloy: Zr 1_ | unspecified | [12] Zhao 2012; _cites Finkel 1980_ | Table 1, p. 3, row 2; `ORC-U5YXQASQAX.b8d775` |  |
+| Lattice a | 3.2316 Å | 866 (\<) | α(HfxZr1-x); _α(HfxZr1-x): Zr 1_ | model | [13] Bittermann 2002; _cites Massalski 1990_ | Table 1, p. 4, row 1; `ORC-TJ4UGEUBKN.e986d5` |  |
+| Lattice a | 3.609 Å | 1360.5 | UNKNOWN; _alloy: Zr 1_ | model | [13] Bittermann 2002; _cites Massalski 1990_ | Table 1, p. 4, row 14; `ORC-B5QK7W7U7K` |  |
+| Lattice b | 0.3233 not_printed |  | (αZr); _alloy: Zr 1_ | unspecified | [8] Luo 2014 | Table 3, p. 3, row 34; `ORC-4NKBN4CAVM.64b382` |  |
+| Lattice b | 0.3571 not_printed |  | (βZr); _alloy: Zr 1_ | unspecified | [8] Luo 2014 | Table 3, p. 3, row 31; `ORC-MXMROCYXSL.9b6339` |  |
+| Lattice b | 0.3229 not_printed ± 3.000e-4 | 298.15 | (αZr); _alloy: Zr 1_ | experimental | [8] Luo 2014 | Table 3, p. 3, row 35; `ORC-H53DIBDY2O.05e78d` |  |
+| Lattice b | 5.1478 Å | 298.15 | hcp-Zr; _alloy: Zr 1_ | unspecified | [12] Zhao 2012; _cites Finkel 1980_ | Table 1, p. 3, row 2; `ORC-U5YXQASQAX.9e259b` |  |
+| Lattice c | 0.51696 not_printed |  | (αZr); _alloy: Zr 1_ | unspecified | [8] Luo 2014 | Table 3, p. 3, row 34; `ORC-4NKBN4CAVM.a2165b` |  |
+| Lattice c | 0.3571 not_printed |  | (βZr); _alloy: Zr 1_ | unspecified | [8] Luo 2014 | Table 3, p. 3, row 31; `ORC-MXMROCYXSL.26e944` |  |
+| Lattice c; _printed: c_ | 19.15 Å | 0 | C36; _alloy: Zr 1_ | DFT | [2] Lu 2017 | Table 2, p. 3, row 35; `ORC-LULOI67MWR.1302bc` |  |
+| Lattice c | 19.224 Å |  | C36; _alloy: Zr 1_ | model | [9] Pavlů 2009 | Table 2, p. 2, row 26; `ORC-YGZDBO45D2.c594d3` |  |
+| Lattice c | 5.1695 Å |  | HCP Zr; _alloy: Zr 1_ | unspecified | [9] Pavlů 2009 | Table 1, p. 2, row 4; `ORC-UIX4ENGEFN.b81e1c` |  |
+| Lattice c | 9.598 Å |  | UNKNOWN; _alloy: Zr 1_ | model | [9] Pavlů 2009 | Table 2, p. 2, row 7; `ORC-5MPBJ2CFQZ.43a563` |  |
+| Lattice c | 19.224 Å |  | UNKNOWN; _alloy: Zr 1_ | model | [9] Pavlů 2009 | Table 2, p. 2, row 14; `ORC-VO33ISJZIY.cc7187` |  |
+| Lattice c; _printed: c_ | 9.54 Å | 0 | τ2; _alloy: Zr 1_ | DFT | [2] Lu 2017 | Table 2, p. 3, row 22; `ORC-SVZ6JJNBXM.534a71` |  |
+| Lattice c | 0.5138 not_printed ± 4.000e-4 | 298.15 | (αZr); _alloy: Zr 1_ | experimental | [8] Luo 2014 | Table 3, p. 3, row 35; `ORC-H53DIBDY2O.89926e` |  |
+| Lattice c | 5.152 Å | 298.15 | (αZr); _alloy: Zr 1_ | unspecified | [10] Liu 2017; _cites Ellinger 2017_ | Table 2, p. 4, row 8; `ORC-RNR3QSDNCS.881285` |  |
+| Lattice c | 5.1483 Å | 298.15 | HCP Zr; _alloy: Zr 1_ | experimental | [9] Pavlů 2009; _cites Moroni 1993_ [doi](https://doi.org/10.1103/physrevb.47.3255) | Table 1, p. 2, row 3; `ORC-QFAJAC5WFL.d5eec7` |  |
+| Lattice c | 5.1475 Å | 298.15 | hcp(Zr); _alloy: Zr 1_ | unspecified | [11] Long 2020 | Table 1, p. 2, row 3; `ORC-5DHSVSSTRO.151211` |  |
+| Lattice c | 5.1475 Å | 866 (\<) | α(HfxZr1-x); _α(HfxZr1-x): Zr 1_ | model | [13] Bittermann 2002; _cites Massalski 1990_ | Table 1, p. 4, row 1; `ORC-TJ4UGEUBKN.e368e3` |  |
+| lattice 4e z | 0.096 not_printed |  | C36; _alloy: Zr 1_ | model | [9] Pavlů 2009 | Table 2, p. 2, row 26; `ORC-YGZDBO45D2.c52f07` |  |
+| lattice 4f z 1 | 0.846 not_printed |  | C36; _alloy: Zr 1_ | model | [9] Pavlů 2009 | Table 2, p. 2, row 26; `ORC-YGZDBO45D2.30c72a` |  |
+| lattice 4f z 2 | 0.133 not_printed |  | C36; _alloy: Zr 1_ | model | [9] Pavlů 2009 | Table 2, p. 2, row 26; `ORC-YGZDBO45D2.426a7c` |  |
+| lattice 6h x | 0.155 not_printed |  | C36; _alloy: Zr 1_ | model | [9] Pavlů 2009 | Table 2, p. 2, row 26; `ORC-YGZDBO45D2.9fed4e` |  |
+| lattice 6h y | 0.311 not_printed |  | C36; _alloy: Zr 1_ | model | [9] Pavlů 2009 | Table 2, p. 2, row 26; `ORC-YGZDBO45D2.f5d51c` |  |
+| lattice c a | 1.5977 not_printed |  | HCP Zr; _alloy: Zr 1_ | unspecified | [9] Pavlů 2009 | Table 1, p. 2, row 4; `ORC-UIX4ENGEFN.8b44b3` |  |
+| lattice c a | 1.593 not_printed | 298.15 | HCP Zr; _alloy: Zr 1_ | experimental | [9] Pavlů 2009; _cites Moroni 1993_ [doi](https://doi.org/10.1103/physrevb.47.3255) | Table 1, p. 2, row 3; `ORC-QFAJAC5WFL.d25588` |  |
+| lattice v | 2.297 10^7 pm^3 |  | UNKNOWN; _alloy: Zr 1_ | model | [9] Pavlů 2009 | Table 2, p. 2, row 7; `ORC-5MPBJ2CFQZ.9e237e` |  |
+| lattice v | 2.3106 10^7 pm^3 |  | UNKNOWN; _alloy: Zr 1_ | model | [9] Pavlů 2009 | Table 2, p. 2, row 14; `ORC-VO33ISJZIY.c50155` |  |
+| lattice v atom | 2.3386 10^7 pm^3 |  | C15; _alloy: Zr 1_ | model | [9] Pavlů 2009 | Table 2, p. 2, row 19; `ORC-7ZT3HYGAKE.d0b53d` |  |
+| lattice v atom | 2.3106 10^7 pm^3 |  | C36; _alloy: Zr 1_ | model | [9] Pavlů 2009 | Table 2, p. 2, row 26; `ORC-YGZDBO45D2.72355c` |  |
+| lattice v atom | 2.3433 10^7 pm^3 |  | HCP Zr; _alloy: Zr 1_ | unspecified | [9] Pavlů 2009 | Table 1, p. 2, row 4; `ORC-UIX4ENGEFN.3f2880` |  |
+| lattice v atom | 2.32835 10^7 pm^3 | 298.15 | HCP Zr; _alloy: Zr 1_ | experimental | [9] Pavlů 2009; _cites Moroni 1993_ [doi](https://doi.org/10.1103/physrevb.47.3255) | Table 1, p. 2, row 3; `ORC-QFAJAC5WFL.a92d4f` |  |
 
 ## Sources
 
@@ -178,4 +178,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

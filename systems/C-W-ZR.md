@@ -28,16 +28,16 @@ Table: Invariant reactions reported in the literature for the C–W–Zr system 
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 3084.15 | other: e1,min: L = (W,Zr)C + W | L: C 0.191, W 0.594 | model | [1] Zhou 2015 | Table 3, p. 7, row 3 |  |
-| 3073.15 | other: e1,min: L = (W,Zr)C + W | L: C 0.192, W 0.572 | experimental | [1] Zhou 2015; _cites Eremenko 1984_ | Table 3, p. 7, row 4 |  |
-| 3013.15 | eutectic: E1: L = C + (W,Zr)C + WC | L: C 0.458, W 0.514; WC: C 0.5, W 0.5, Zr 0 | experimental | [1] Zhou 2015; _cites Eremenko 1984_ | Table 3, p. 7, row 2 |  |
-| 3010.15 | eutectic: E1: L = C + (W,Zr)C + WC | L: C 0.436, W 0.531; WC: C 0.5, W 0.5, Zr 0 | model | [1] Zhou 2015 | Table 3, p. 7, row 1 |  |
-| 2897.15 | eutectic: E2: L = W2C + (W,Zr)C + W | L: C 0.247, W 0.682 | model | [1] Zhou 2015 | Table 3, p. 7, row 5 |  |
-| 2893.15 | eutectic: E2: L = W2C + (W,Zr)C + W | L: C 0.264, W 0.65 | experimental | [1] Zhou 2015; _cites Eremenko 1984_ | Table 3, p. 7, row 6 |  |
-| 2613.15 | peritectic: P1: L + (W,Zr)C + W = W2Zr | L: C 0.034, W 0.163 | experimental | [1] Zhou 2015; _cites Eremenko 1984_ | Table 3, p. 7, row 8 |  |
-| 2613.15 | peritectic: P1: L + (W,Zr)C + W = W2Zr | L: C 0.044, W 0.334 | model | [1] Zhou 2015 | Table 3, p. 7, row 7 |  |
-| 2013.15 | quasi-peritectic: U1: L + (W,Zr)C = W2Zr + βZr | L: C 0.035, W 0.071 | experimental | [1] Zhou 2015; _cites Eremenko 1984_ | Table 3, p. 7, row 10 |  |
-| 2012.15 | quasi-peritectic: U1: L + (W,Zr)C = W2Zr + βZr | L: C 0.002, W 0.109 | model | [1] Zhou 2015 | Table 3, p. 7, row 9 |  |
+| 3084.15 | other: e1,min: L = (W,Zr)C + W | L: C 0.191, W 0.594 | model | [1] Zhou 2015 | Table 3, p. 7, row 3; `ORC-LWGCPINQ5J` |  |
+| 3073.15 | other: e1,min: L = (W,Zr)C + W | L: C 0.192, W 0.572 | experimental | [1] Zhou 2015; _cites Eremenko 1984_ | Table 3, p. 7, row 4; `ORC-S5LXR2S4D5` |  |
+| 3013.15 | eutectic: E1: L = C + (W,Zr)C + WC | L: C 0.458, W 0.514; WC: C 0.5, W 0.5, Zr 0 | experimental | [1] Zhou 2015; _cites Eremenko 1984_ | Table 3, p. 7, row 2; `ORC-AZT2MKYCTB` |  |
+| 3010.15 | eutectic: E1: L = C + (W,Zr)C + WC | L: C 0.436, W 0.531; WC: C 0.5, W 0.5, Zr 0 | model | [1] Zhou 2015 | Table 3, p. 7, row 1; `ORC-6M4IJRKXIO` |  |
+| 2897.15 | eutectic: E2: L = W2C + (W,Zr)C + W | L: C 0.247, W 0.682 | model | [1] Zhou 2015 | Table 3, p. 7, row 5; `ORC-PCFZQ6OORV` |  |
+| 2893.15 | eutectic: E2: L = W2C + (W,Zr)C + W | L: C 0.264, W 0.65 | experimental | [1] Zhou 2015; _cites Eremenko 1984_ | Table 3, p. 7, row 6; `ORC-RGBNNHHYDZ` |  |
+| 2613.15 | peritectic: P1: L + (W,Zr)C + W = W2Zr | L: C 0.034, W 0.163 | experimental | [1] Zhou 2015; _cites Eremenko 1984_ | Table 3, p. 7, row 8; `ORC-2E6VAR4N4U` |  |
+| 2613.15 | peritectic: P1: L + (W,Zr)C + W = W2Zr | L: C 0.044, W 0.334 | model | [1] Zhou 2015 | Table 3, p. 7, row 7; `ORC-CH5QPJF5OI` |  |
+| 2013.15 | quasi-peritectic: U1: L + (W,Zr)C = W2Zr + βZr | L: C 0.035, W 0.071 | experimental | [1] Zhou 2015; _cites Eremenko 1984_ | Table 3, p. 7, row 10; `ORC-RDFFHBWORA` |  |
+| 2012.15 | quasi-peritectic: U1: L + (W,Zr)C = W2Zr + βZr | L: C 0.002, W 0.109 | model | [1] Zhou 2015 | Table 3, p. 7, row 9; `ORC-Y5WP5AA3HT` |  |
 
 ## Other properties
 
@@ -47,7 +47,7 @@ Table: Phase equilibrium, C–W–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase assemblage |  | 2493.15 | W2Zr; _alloy: C 5.000e-4_ | experimental | [1] Zhou 2015; _cites Savitsky 1977_ | p. 2 | “Savitsky et al. \[39\] also investigated the vertical section with constant C content of ~0.05 at.% and reported the melting temperature of W2Zr to be ~2220 °C.” |
+| Phase assemblage |  | 2493.15 | W2Zr; _alloy: C 5.000e-4_ | experimental | [1] Zhou 2015; _cites Savitsky 1977_ | p. 2; `ORC-EL2NPT3GUJ` | “Savitsky et al. \[39\] also investigated the vertical section with constant C content of ~0.05 at.% and reported the melting temperature of W2Zr to be ~2220 °C.” |
 
 ## Sources
 
@@ -90,4 +90,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

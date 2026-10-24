@@ -150,100 +150,100 @@ Table: Invariant reactions reported in the literature for the Nd–Ni system (94
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1693.15 | Liquid \<-> NdNi5 | Liquid: Nd 0.166667, Ni 0.833333; NdNi5: Nd 0.166667, Ni 0.833333 | experimental | [1] Huang 2005; _cites Pan 1991_ | Table 2, p. 5, row 36 |  |
-| 1678.15 | Liquid \<-> NdNi5 | Liquid: Ni 0.8333; NdNi5: Nd 0.166667, Ni 0.833333 | model | [1] Huang 2005 | Table 2, p. 5, row 35 |  |
-| 1573.15 | Liquid + NdNi5 \<-> Nd2Ni17 | Liquid: Ni 0.91; NdNi5: Nd 0.166667, Ni 0.833333; Nd2Ni17: Nd 0.105263, Ni 0.894737 | experimental | [1] Huang 2005; _cites Pan 1991_ | Table 2, p. 5, row 38 |  |
-| 1563.15 | Liquid \<-> Nd2Ni17 + fcc (Ni) | Liquid: Ni 0.91; Nd2Ni17: Nd 0.105263, Ni 0.894737 | experimental | [1] Huang 2005; _cites Pan 1991_ | Table 2, p. 5, row 40 |  |
-| 1559.15 | Liquid + NdNi5 \<-> Nd2Ni17 | Liquid: Ni 0.9174; NdNi5: Nd 0.166667, Ni 0.833333; Nd2Ni17: Nd 0.105263, Ni 0.894737 | model | [1] Huang 2005 | Table 2, p. 5, row 37 |  |
-| 1558.15 | Liquid \<-> Nd2Ni17 + fcc (Ni) | Liquid: Ni 0.9175; Nd2Ni17: Nd 0.105263, Ni 0.894737 | model | [1] Huang 2005 | Table 2, p. 5, row 39 |  |
-| 1555.15 | Nd2Ni17 \<-> NdNi5 + fcc (Ni) | Nd2Ni17: Nd 0.105263, Ni 0.894737; NdNi5: Nd 0.166667, Ni 0.833333 | experimental | [1] Huang 2005 | Table 2, p. 5, row 42 |  |
-| 1550.15 | Nd2Ni17 \<-> NdNi5 + fcc (Ni) | Nd2Ni17: Nd 0.105263, Ni 0.894737; NdNi5: Nd 0.166667, Ni 0.833333 | model | [1] Huang 2005 | Table 2, p. 5, row 41 |  |
-| 1523.15 | Nd2Ni17 \<-> NdNi5 + fcc (Ni) | Nd2Ni17: Nd 0.105263, Ni 0.894737; NdNi5: Nd 0.166667, Ni 0.833333 | experimental | [1] Huang 2005; _cites Pan 1991_ | Table 2, p. 5, row 43 |  |
-| 1466.15 | Liquid + NdNi5 \<-> βNd2Ni7 | NdNi5: Nd 0.166667, Ni 0.833333; βNd2Ni7: Nd 0.222222, Ni 0.777778 | experimental | [1] Huang 2005 | Table 2, p. 5, row 33 |  |
-| 1464.15 | Liquid + NdNi5 \<-> βNd2Ni7 | Liquid: Ni 0.7213; NdNi5: Nd 0.166667, Ni 0.833333; βNd2Ni7: Nd 0.222222, Ni 0.777778 | model | [1] Huang 2005 | Table 2, p. 5, row 32 |  |
-| 1445.15 | Liquid + NdNi5 \<-> αNd2Ni7 | NdNi5: Nd 0.166667, Ni 0.833333; αNd2Ni7: Nd 0.222222, Ni 0.777778 | experimental | [1] Huang 2005 | Table 2, p. 5, row 29 |  |
-| 1445.15 | αNd2Ni7 \<-> βNd2Ni7 | αNd2Ni7: Nd 0.222222, Ni 0.777778; βNd2Ni7: Nd 0.222222, Ni 0.777778 | experimental | [1] Huang 2005 | Table 2, p. 5, row 31 |  |
-| 1444.15 | αNd2Ni7 \<-> βNd2Ni7 | αNd2Ni7: Nd 0.222222, Ni 0.777778; βNd2Ni7: Nd 0.222222, Ni 0.777778 | model | [1] Huang 2005 | Table 2, p. 5, row 30 |  |
-| 1444.15 | Liquid + NdNi5 \<-> αNd2Ni7 | Liquid: Ni 0.713; NdNi5: Nd 0.166667, Ni 0.833333; αNd2Ni7: Nd 0.222222, Ni 0.777778 | model | [1] Huang 2005 | Table 2, p. 5, row 28 |  |
-| 1407.15 | Liquid + NdNi5 \<-> βNd2Ni7 | Liquid: Ni 0.66; NdNi5: Nd 0.166667, Ni 0.833333; βNd2Ni7: Nd 0.222222, Ni 0.777778 | experimental | [1] Huang 2005; _cites Pan 1991_ | Table 2, p. 5, row 34 |  |
-| 1341.15 | Liquid + αNd2Ni7 \<-> NdNi3 | Liquid: Ni 0.6797; αNd2Ni7: Nd 0.222222, Ni 0.777778; NdNi3: Nd 0.25, Ni 0.75 | model | [1] Huang 2005 | Table 2, p. 5, row 25 |  |
-| 1341.15 | Liquid + αNd2Ni7 \<-> NdNi3 | αNd2Ni7: Nd 0.222222, Ni 0.777778; NdNi3: Nd 0.25, Ni 0.75 | experimental | [1] Huang 2005 | Table 2, p. 5, row 26 |  |
-| 1303.15 | Liquid + αNd2Ni7 \<-> NdNi3 | Liquid: Ni 0.64; αNd2Ni7: Nd 0.222222, Ni 0.777778; NdNi3: Nd 0.25, Ni 0.75 | experimental | [1] Huang 2005; _cites Pan 1991_ | Table 2, p. 5, row 27 |  |
-| 1237.15 | Liquid + NdNi2 \<-> NdNi3 | Liquid: Ni 0.649; NdNi2: Nd 0.333333, Ni 0.666667; NdNi3: Nd 0.25, Ni 0.75 | model | [1] Huang 2005 | Table 2, p. 5, row 22 |  |
-| 1237.15 | Liquid + NdNi2 \<-> NdNi3 | NdNi2: Nd 0.333333, Ni 0.666667; NdNi3: Nd 0.25, Ni 0.75 | experimental | [1] Huang 2005 | Table 2, p. 5, row 23 |  |
-| 1213.15 | Liquid + NdNi2 \<-> NdNi3 | Liquid: Ni 0.63; NdNi2: Nd 0.333333, Ni 0.666667; NdNi3: Nd 0.25, Ni 0.75 | experimental | [1] Huang 2005; _cites Pan 1991_ | Table 2, p. 5, row 24 |  |
-| 1136.15 | Liquid + bcc (Nd) \<-> dhcp (Nd) |  | experimental | [1] Huang 2005; _cites Pan 1991_ | Table 2, p. 5, row 3 |  |
-| 1136 | peritectic: L + bcc(Nd) \<-> dhcp(Nd) |  | experimental | [2] Ye 2023; _cites ref. 84_ | Table 8, p. 16, row 3 |  |
-| 1135 | peritectic: L + bcc(Nd) \<-> dhcp(Nd) | L: Ni 0.072 | model | [2] Ye 2023; _cites ref. 38_ | Table 8, p. 16, row 6 |  |
-| 1128 | peritectic: L + bcc(Nd) \<-> dhcp(Nd) | L: Ni 0.13 | model | [2] Ye 2023; _cites ref. 36_ | Table 8, p. 16, row 5 |  |
-| 1128 | peritectic: L + bcc(Nd) \<-> dhcp(Nd) | L: Ni 0.091 | model | [2] Ye 2023 | Table 8, p. 16, row 7 |  |
-| 1128 | peritectic: L + bcc(Nd) \<-> dhcp(Nd) | L: Ni 0.077 | model | [2] Ye 2023; _cites ref. 37_ | Table 8, p. 16, row 4 |  |
-| 1126.15 | Liquid + bcc (Nd) \<-> dhcp (Nd) | Liquid: Ni 0.1299 | model | [1] Huang 2005 | Table 2, p. 5, row 1 |  |
-| 1126.15 | Liquid + bcc (Nd) \<-> dhcp (Nd) |  | experimental | [1] Huang 2005 | Table 2, p. 5, row 2 |  |
-| 1126 | peritectic: L + bcc(Nd) \<-> dhcp(Nd) |  | experimental | [2] Ye 2023; _cites ref. 35_ | Table 8, p. 16, row 2 |  |
-| 1126 | peritectic: L + bcc(Nd) \<-> dhcp(Nd) | L: Ni 0.13 | model | [2] Ye 2023; _cites ref. 35_ | Table 8, p. 16, row 1 |  |
-| 1096.8 | congruent melting: L \<-> NdNi | L: Ni 0.5; NdNi: Nd 0.5, Ni 0.5 | model | [2] Ye 2023 | Table 8, p. 16, row 47 |  |
-| 1096 | congruent melting: L \<-> NdNi | L: Ni 0.5; NdNi: Nd 0.5, Ni 0.5 | model | [2] Ye 2023; _cites ref. 38_ | Table 8, p. 16, row 46 |  |
-| 1092.15 | Liquid \<-> NdNi | Liquid: Ni 0.5; NdNi: Nd 0.5, Ni 0.5 | model | [1] Huang 2005 | Table 2, p. 5, row 16 |  |
-| 1092.15 | Liquid \<-> NdNi | Liquid: Nd 0.5, Ni 0.5; NdNi: Nd 0.5, Ni 0.5 | experimental | [1] Huang 2005 | Table 2, p. 5, row 17 |  |
-| 1092 | congruent melting: L \<-> NdNi | L: Ni 0.5; NdNi: Nd 0.5, Ni 0.5 | model | [2] Ye 2023; _cites ref. 36_ | Table 8, p. 16, row 45 |  |
-| 1092 | congruent melting: L \<-> NdNi | L: Ni 0.5; NdNi: Nd 0.5, Ni 0.5 | model | [2] Ye 2023; _cites ref. 35_ | Table 8, p. 16, row 40 |  |
-| 1092 | congruent melting: L \<-> NdNi | L: Ni 0.5; NdNi: Nd 0.5, Ni 0.5 | experimental | [2] Ye 2023; _cites ref. 35_ | Table 8, p. 16, row 41 |  |
-| 1090.6 | congruent melting: L \<-> NdNi | L: Ni 0.5; NdNi: Nd 0.5, Ni 0.5 | model | [2] Ye 2023; _cites ref. 34_ | Table 8, p. 16, row 42 |  |
-| 1053.15 | Liquid \<-> NdNi | Liquid: Nd 0.5, Ni 0.5; NdNi: Nd 0.5, Ni 0.5 | experimental | [1] Huang 2005; _cites Pan 1991_ | Table 2, p. 5, row 18 |  |
-| 1053 | congruent melting: L \<-> NdNi | L: Ni 0.5; NdNi: Nd 0.5, Ni 0.5 | experimental | [2] Ye 2023; _cites ref. 84_ | Table 8, p. 16, row 43 |  |
-| 1053 | congruent melting: L \<-> NdNi | L: Ni 0.5; NdNi: Nd 0.5, Ni 0.5 | model | [2] Ye 2023; _cites ref. 37_ | Table 8, p. 16, row 44 |  |
-| 1047.15 | Liquid \<-> NdNi + NdNi2 | Liquid: Ni 0.5654; NdNi: Nd 0.5, Ni 0.5; NdNi2: Nd 0.333333, Ni 0.666667 | model | [1] Huang 2005 | Table 2, p. 5, row 19 |  |
-| 1046.15 | Liquid \<-> NdNi + NdNi2 | NdNi: Nd 0.5, Ni 0.5; NdNi2: Nd 0.333333, Ni 0.666667 | experimental | [1] Huang 2005 | Table 2, p. 5, row 20 |  |
-| 993.15 | Liquid \<-> NdNi + NdNi2 | NdNi: Nd 0.5, Ni 0.5; NdNi2: Nd 0.333333, Ni 0.666667 | experimental | [1] Huang 2005; _cites Pan 1991_ | Table 2, p. 5, row 21 |  |
-| 892.9 | congruent melting: L \<-> Nd3Ni | L: Ni 0.25; Nd3Ni: Nd 0.75, Ni 0.25 | model | [2] Ye 2023 | Table 8, p. 16, row 23 |  |
-| 891.4 | congruent melting: L \<-> Nd3Ni | L: Ni 0.25; Nd3Ni: Nd 0.75, Ni 0.25 | model | [2] Ye 2023; _cites ref. 34_ | Table 8, p. 16, row 18 |  |
-| 891.15 | Liquid \<-> Nd3Ni | Liquid: Nd 0.75, Ni 0.25; Nd3Ni: Nd 0.75, Ni 0.25 | experimental | [1] Huang 2005 | Table 2, p. 5, row 8 |  |
-| 891.15 | Liquid \<-> Nd3Ni | Liquid: Ni 0.0025; Nd3Ni: Nd 0.75, Ni 0.25 | model | [1] Huang 2005 | Table 2, p. 5, row 7 |  |
-| 891 | congruent melting: L \<-> Nd3Ni | L: Ni 0.25; Nd3Ni: Nd 0.75, Ni 0.25 | model | [2] Ye 2023; _cites ref. 36_ | Table 8, p. 16, row 21 |  |
-| 891 | congruent melting: L \<-> Nd3Ni | L: Ni 0.25; Nd3Ni: Nd 0.75, Ni 0.25 | model | [2] Ye 2023; _cites ref. 35_ | Table 8, p. 16, row 17 |  |
-| 891 | congruent melting: L \<-> Nd3Ni | L: Ni 0.25; Nd3Ni: Nd 0.75, Ni 0.25 | experimental | [2] Ye 2023; _cites ref. 35_ | Table 8, p. 16, row 16 |  |
-| 890 | congruent melting: L \<-> Nd3Ni | L: Ni 0.25; Nd3Ni: Nd 0.75, Ni 0.25 | model | [2] Ye 2023; _cites ref. 38_ | Table 8, p. 16, row 22 |  |
-| 887 | eutectic: L \<-> Nd3Ni + dhcp(Nd) | L: Ni 0.213; Nd3Ni: Nd 0.75, Ni 0.25 | model | [2] Ye 2023 | Table 8, p. 16, row 15 |  |
-| 884.15 | eutectic |  | experimental | [1] Huang 2005 | p. 3 | “The temperature of 611 ◦ C for eutectic reaction between Nd3 Ni and dhcp (Nd) is 41 ◦ C higher than that previously reported \[4\].” |
-| 884.15 | Liquid \<-> Nd3Ni + dhcp (Nd) | Nd3Ni: Nd 0.75, Ni 0.25 | experimental | [1] Huang 2005 | Table 2, p. 5, row 5 |  |
-| 884.15 | Liquid \<-> Nd3Ni + dhcp (Nd) | Liquid: Ni 0.2184; Nd3Ni: Nd 0.75, Ni 0.25 | model | [1] Huang 2005 | Table 2, p. 5, row 4 |  |
-| 884.15 | eutectic: liquid ↔ Nd3 Ni + dhcp (Nd) |  | experimental | [1] Huang 2005 | p. 2 | “Fig. 1 shows the DTA trace for Nd-4 at.% Ni alloy, indicating three thermal events at 611, 853 and 960 ◦ C, which correspond to the eutectic reaction liquid ↔ Nd3 Ni + dhcp (Nd), dhcp (Nd) ↔ bcc (Nd) and liquidus curve, respectively.” |
-| 884 | eutectic: L \<-> Nd3Ni + dhcp(Nd) | L: Ni 0.218; Nd3Ni: Nd 0.75, Ni 0.25 | model | [2] Ye 2023; _cites ref. 35_ | Table 8, p. 16, row 8 |  |
-| 884 | eutectic: L \<-> Nd3Ni + dhcp(Nd) | L: Ni 0.218; Nd3Ni: Nd 0.75, Ni 0.25 | model | [2] Ye 2023; _cites ref. 36_ | Table 8, p. 16, row 13 |  |
-| 884 | eutectic: L \<-> Nd3Ni + dhcp(Nd) | Nd3Ni: Nd 0.75, Ni 0.25 | experimental | [2] Ye 2023; _cites ref. 35_ | Table 8, p. 16, row 9 |  |
-| 883 | eutectic: L \<-> Nd3Ni + dhcp(Nd) | L: Ni 0.218; Nd3Ni: Nd 0.75, Ni 0.25 | model | [2] Ye 2023; _cites ref. 38_ | Table 8, p. 16, row 14 |  |
-| 874.1 | eutectic: L \<-> Nd3Ni + dhcp(Nd) | L: Ni 0.193; Nd3Ni: Nd 0.75, Ni 0.25 | model | [2] Ye 2023; _cites ref. 34_ | Table 8, p. 16, row 10 |  |
-| 873.8 | peritectic: L + Nd3Ni \<-> Nd7Ni3 | L: Ni 0.31; Nd3Ni: Nd 0.75, Ni 0.25; Nd7Ni3: Nd 0.7, Ni 0.3 | model | [2] Ye 2023 | Table 8, p. 16, row 31 |  |
-| 871.15 | Liquid + Nd7Ni3 \<-> Nd3Ni | Nd7Ni3: Nd 0.7, Ni 0.3; Nd3Ni: Nd 0.75, Ni 0.25 | experimental | [1] Huang 2005 | Table 2, p. 5, row 11 |  |
-| 871 | peritectic: L + Nd3Ni \<-> Nd7Ni3 | Nd3Ni: Nd 0.75, Ni 0.25; Nd7Ni3: Nd 0.7, Ni 0.3 | experimental | [2] Ye 2023; _cites ref. 35_ | Table 8, p. 16, row 24 |  |
-| 869.15 | Liquid + Nd7Ni3 \<-> Nd3Ni | Liquid: Ni 0.3005; Nd7Ni3: Nd 0.7, Ni 0.3; Nd3Ni: Nd 0.75, Ni 0.25 | model | [1] Huang 2005 | Table 2, p. 5, row 10 |  |
-| 869 | peritectic: L + Nd3Ni \<-> Nd7Ni3 | L: Ni 0.303; Nd3Ni: Nd 0.75, Ni 0.25; Nd7Ni3: Nd 0.7, Ni 0.3 | model | [2] Ye 2023; _cites ref. 38_ | Table 8, p. 16, row 30 |  |
-| 869 | peritectic: L + Nd3Ni \<-> Nd7Ni3 | L: Ni 0.301; Nd3Ni: Nd 0.75, Ni 0.25; Nd7Ni3: Nd 0.7, Ni 0.3 | model | [2] Ye 2023; _cites ref. 36_ | Table 8, p. 16, row 29 |  |
-| 869 | peritectic: L + Nd3Ni \<-> Nd7Ni3 | L: Ni 0.301; Nd3Ni: Nd 0.75, Ni 0.25; Nd7Ni3: Nd 0.7, Ni 0.3 | model | [2] Ye 2023; _cites ref. 35_ | Table 8, p. 16, row 25 |  |
-| 868.6 | peritectic: L + Nd3Ni \<-> Nd7Ni3 | Nd3Ni: Nd 0.75, Ni 0.25; Nd7Ni3: Nd 0.7, Ni 0.3 | model | [2] Ye 2023; _cites ref. 34_ | Table 8, p. 16, row 26 |  |
-| 867.3 | eutectic: L \<-> Nd7Ni3 + NdNi | L: Ni 0.321; Nd7Ni3: Nd 0.7, Ni 0.3; NdNi: Nd 0.5, Ni 0.5 | model | [2] Ye 2023; _cites ref. 34_ | Table 8, p. 16, row 34 |  |
-| 863.15 | Liquid \<-> Nd3Ni | Liquid: Nd 0.75, Ni 0.25; Nd3Ni: Nd 0.75, Ni 0.25 | experimental | [1] Huang 2005; _cites Pan 1991_ | Table 2, p. 5, row 9 |  |
-| 863 | congruent melting: L \<-> Nd3Ni | L: Ni 0.25; Nd3Ni: Nd 0.75, Ni 0.25 | experimental | [2] Ye 2023; _cites ref. 84_ | Table 8, p. 16, row 19 |  |
-| 858.15 | Liquid \<-> Nd7Ni3 + NdNi | Nd7Ni3: Nd 0.7, Ni 0.3; NdNi: Nd 0.5, Ni 0.5 | experimental | [1] Huang 2005 | Table 2, p. 5, row 14 |  |
-| 858.15 | eutectic |  | experimental | [1] Huang 2005 | p. 3 | “During the third heating, the second thermal event has disappeared completely and a tiny peak with an onset at 585 ◦ C has appeared (which is the eutectic reaction between Nd7 Ni3 and NdNi, see Fig. 4).” |
-| 858 | eutectic: L \<-> Nd7Ni3 + NdNi | Nd7Ni3: Nd 0.7, Ni 0.3; NdNi: Nd 0.5, Ni 0.5 | experimental | [2] Ye 2023; _cites ref. 35_ | Table 8, p. 16, row 32 |  |
-| 857.15 | Liquid \<-> Nd7Ni3 + NdNi | Liquid: Ni 0.3381; Nd7Ni3: Nd 0.7, Ni 0.3; NdNi: Nd 0.5, Ni 0.5 | model | [1] Huang 2005 | Table 2, p. 5, row 13 |  |
-| 857 | eutectic: L \<-> Nd7Ni3 + NdNi | L: Ni 0.338; Nd7Ni3: Nd 0.7, Ni 0.3; NdNi: Nd 0.5, Ni 0.5 | model | [2] Ye 2023; _cites ref. 38_ | Table 8, p. 16, row 38 |  |
-| 857 | eutectic: L \<-> Nd7Ni3 + NdNi | L: Ni 0.338; Nd7Ni3: Nd 0.7, Ni 0.3; NdNi: Nd 0.5, Ni 0.5 | model | [2] Ye 2023; _cites ref. 36_ | Table 8, p. 16, row 37 |  |
-| 857 | eutectic: L \<-> Nd7Ni3 + NdNi | L: Ni 0.338; Nd7Ni3: Nd 0.7, Ni 0.3; NdNi: Nd 0.5, Ni 0.5 | model | [2] Ye 2023; _cites ref. 35_ | Table 8, p. 16, row 33 |  |
-| 855.3 | eutectic: L \<-> Nd7Ni3 + NdNi | L: Ni 0.359; Nd7Ni3: Nd 0.7, Ni 0.3; NdNi: Nd 0.5, Ni 0.5 | model | [2] Ye 2023 | Table 8, p. 16, row 39 |  |
-| 855 | congruent melting: L \<-> Nd3Ni | L: Ni 0.25; Nd3Ni: Nd 0.75, Ni 0.25 | model | [2] Ye 2023; _cites ref. 37_ | Table 8, p. 16, row 20 |  |
-| 853 | peritectic: L + Nd3Ni \<-> Nd7Ni3 | Nd3Ni: Nd 0.75, Ni 0.25; Nd7Ni3: Nd 0.7, Ni 0.3 | model | [2] Ye 2023; _cites ref. 37_ | Table 8, p. 16, row 28 |  |
-| 843.15 | Liquid \<-> Nd3Ni + dhcp (Nd) | Liquid: Ni 0.19; Nd3Ni: Nd 0.75, Ni 0.25 | experimental | [1] Huang 2005; _cites Pan 1991_ | Table 2, p. 5, row 6 |  |
-| 843 | eutectic: L \<-> Nd3Ni + dhcp(Nd) | L: Ni 0.19; Nd3Ni: Nd 0.75, Ni 0.25 | experimental | [2] Ye 2023; _cites ref. 84_ | Table 8, p. 16, row 11 |  |
-| 838.15 | Liquid + Nd7Ni3 \<-> Nd3Ni | Nd7Ni3: Nd 0.7, Ni 0.3; Nd3Ni: Nd 0.75, Ni 0.25 | experimental | [1] Huang 2005; _cites Pan 1991_ | Table 2, p. 5, row 12 |  |
-| 838.15 | eutectic |  | experimental | [1] Huang 2005; _cites Pan 1985_ | p. 3 | “The onset temperature (597 ◦ C) for the sharp peak is the same for the alloys with a composition on both sides of the stoichiometric compound Nd7 Ni3 , indicating the nature of the invariant reaction between Nd7 Ni3 and Nd3 Ni is peritectic not the eutectic reaction at 565 ◦ C as reported in Ref. \[4\].” |
-| 838 | peritectic: L + Nd3Ni \<-> Nd7Ni3 | Nd3Ni: Nd 0.75, Ni 0.25; Nd7Ni3: Nd 0.7, Ni 0.3 | experimental | [2] Ye 2023; _cites ref. 84_ | Table 8, p. 16, row 27 |  |
-| 834 | eutectic: L \<-> Nd3Ni + dhcp(Nd) | L: Ni 0.203; Nd3Ni: Nd 0.75, Ni 0.25 | model | [2] Ye 2023; _cites ref. 37_ | Table 8, p. 16, row 12 |  |
-| 813.15 | Liquid \<-> Nd7Ni3 + NdNi | Liquid: Ni 0.35; Nd7Ni3: Nd 0.7, Ni 0.3; NdNi: Nd 0.5, Ni 0.5 | experimental | [1] Huang 2005; _cites Pan 1991_ | Table 2, p. 5, row 15 |  |
-| 813 | eutectic: L \<-> Nd7Ni3 + NdNi | L: Ni 0.35; Nd7Ni3: Nd 0.7, Ni 0.3; NdNi: Nd 0.5, Ni 0.5 | experimental | [2] Ye 2023; _cites ref. 84_ | Table 8, p. 16, row 35 |  |
-| 801 | eutectic: L \<-> Nd7Ni3 + NdNi | L: Ni 0.372; Nd7Ni3: Nd 0.7, Ni 0.3; NdNi: Nd 0.5, Ni 0.5 | model | [2] Ye 2023; _cites ref. 37_ | Table 8, p. 16, row 36 |  |
+| 1693.15 | Liquid \<-> NdNi5 | Liquid: Nd 0.166667, Ni 0.833333; NdNi5: Nd 0.166667, Ni 0.833333 | experimental | [1] Huang 2005; _cites Pan 1991_ | Table 2, p. 5, row 36; `ORC-M45V6ZHITN` |  |
+| 1678.15 | Liquid \<-> NdNi5 | Liquid: Ni 0.8333; NdNi5: Nd 0.166667, Ni 0.833333 | model | [1] Huang 2005 | Table 2, p. 5, row 35; `ORC-6Z6LGYEIHG` |  |
+| 1573.15 | Liquid + NdNi5 \<-> Nd2Ni17 | Liquid: Ni 0.91; NdNi5: Nd 0.166667, Ni 0.833333; Nd2Ni17: Nd 0.105263, Ni 0.894737 | experimental | [1] Huang 2005; _cites Pan 1991_ | Table 2, p. 5, row 38; `ORC-G2Q5OTM3XQ` |  |
+| 1563.15 | Liquid \<-> Nd2Ni17 + fcc (Ni) | Liquid: Ni 0.91; Nd2Ni17: Nd 0.105263, Ni 0.894737 | experimental | [1] Huang 2005; _cites Pan 1991_ | Table 2, p. 5, row 40; `ORC-UFKTWT72IW` |  |
+| 1559.15 | Liquid + NdNi5 \<-> Nd2Ni17 | Liquid: Ni 0.9174; NdNi5: Nd 0.166667, Ni 0.833333; Nd2Ni17: Nd 0.105263, Ni 0.894737 | model | [1] Huang 2005 | Table 2, p. 5, row 37; `ORC-FCZC6TMEFI` |  |
+| 1558.15 | Liquid \<-> Nd2Ni17 + fcc (Ni) | Liquid: Ni 0.9175; Nd2Ni17: Nd 0.105263, Ni 0.894737 | model | [1] Huang 2005 | Table 2, p. 5, row 39; `ORC-ISVPNAMDDO` |  |
+| 1555.15 | Nd2Ni17 \<-> NdNi5 + fcc (Ni) | Nd2Ni17: Nd 0.105263, Ni 0.894737; NdNi5: Nd 0.166667, Ni 0.833333 | experimental | [1] Huang 2005 | Table 2, p. 5, row 42; `ORC-5H4UWBJYVZ` |  |
+| 1550.15 | Nd2Ni17 \<-> NdNi5 + fcc (Ni) | Nd2Ni17: Nd 0.105263, Ni 0.894737; NdNi5: Nd 0.166667, Ni 0.833333 | model | [1] Huang 2005 | Table 2, p. 5, row 41; `ORC-7KXHSWRU5U` |  |
+| 1523.15 | Nd2Ni17 \<-> NdNi5 + fcc (Ni) | Nd2Ni17: Nd 0.105263, Ni 0.894737; NdNi5: Nd 0.166667, Ni 0.833333 | experimental | [1] Huang 2005; _cites Pan 1991_ | Table 2, p. 5, row 43; `ORC-2LD47GPVTC` |  |
+| 1466.15 | Liquid + NdNi5 \<-> βNd2Ni7 | NdNi5: Nd 0.166667, Ni 0.833333; βNd2Ni7: Nd 0.222222, Ni 0.777778 | experimental | [1] Huang 2005 | Table 2, p. 5, row 33; `ORC-P35XU3CXZ5` |  |
+| 1464.15 | Liquid + NdNi5 \<-> βNd2Ni7 | Liquid: Ni 0.7213; NdNi5: Nd 0.166667, Ni 0.833333; βNd2Ni7: Nd 0.222222, Ni 0.777778 | model | [1] Huang 2005 | Table 2, p. 5, row 32; `ORC-BICL3B5UAT` |  |
+| 1445.15 | Liquid + NdNi5 \<-> αNd2Ni7 | NdNi5: Nd 0.166667, Ni 0.833333; αNd2Ni7: Nd 0.222222, Ni 0.777778 | experimental | [1] Huang 2005 | Table 2, p. 5, row 29; `ORC-L4YFZFNIKE` |  |
+| 1445.15 | αNd2Ni7 \<-> βNd2Ni7 | αNd2Ni7: Nd 0.222222, Ni 0.777778; βNd2Ni7: Nd 0.222222, Ni 0.777778 | experimental | [1] Huang 2005 | Table 2, p. 5, row 31; `ORC-PSC573BQM7` |  |
+| 1444.15 | αNd2Ni7 \<-> βNd2Ni7 | αNd2Ni7: Nd 0.222222, Ni 0.777778; βNd2Ni7: Nd 0.222222, Ni 0.777778 | model | [1] Huang 2005 | Table 2, p. 5, row 30; `ORC-3G2G4G7A4D` |  |
+| 1444.15 | Liquid + NdNi5 \<-> αNd2Ni7 | Liquid: Ni 0.713; NdNi5: Nd 0.166667, Ni 0.833333; αNd2Ni7: Nd 0.222222, Ni 0.777778 | model | [1] Huang 2005 | Table 2, p. 5, row 28; `ORC-HU52TFMFQX` |  |
+| 1407.15 | Liquid + NdNi5 \<-> βNd2Ni7 | Liquid: Ni 0.66; NdNi5: Nd 0.166667, Ni 0.833333; βNd2Ni7: Nd 0.222222, Ni 0.777778 | experimental | [1] Huang 2005; _cites Pan 1991_ | Table 2, p. 5, row 34; `ORC-VFHCZOCDXP` |  |
+| 1341.15 | Liquid + αNd2Ni7 \<-> NdNi3 | Liquid: Ni 0.6797; αNd2Ni7: Nd 0.222222, Ni 0.777778; NdNi3: Nd 0.25, Ni 0.75 | model | [1] Huang 2005 | Table 2, p. 5, row 25; `ORC-5JOLG3HGSW` |  |
+| 1341.15 | Liquid + αNd2Ni7 \<-> NdNi3 | αNd2Ni7: Nd 0.222222, Ni 0.777778; NdNi3: Nd 0.25, Ni 0.75 | experimental | [1] Huang 2005 | Table 2, p. 5, row 26; `ORC-WMAEANH5CF` |  |
+| 1303.15 | Liquid + αNd2Ni7 \<-> NdNi3 | Liquid: Ni 0.64; αNd2Ni7: Nd 0.222222, Ni 0.777778; NdNi3: Nd 0.25, Ni 0.75 | experimental | [1] Huang 2005; _cites Pan 1991_ | Table 2, p. 5, row 27; `ORC-XMKEDDA6GM` |  |
+| 1237.15 | Liquid + NdNi2 \<-> NdNi3 | Liquid: Ni 0.649; NdNi2: Nd 0.333333, Ni 0.666667; NdNi3: Nd 0.25, Ni 0.75 | model | [1] Huang 2005 | Table 2, p. 5, row 22; `ORC-5EZELLYZ67` |  |
+| 1237.15 | Liquid + NdNi2 \<-> NdNi3 | NdNi2: Nd 0.333333, Ni 0.666667; NdNi3: Nd 0.25, Ni 0.75 | experimental | [1] Huang 2005 | Table 2, p. 5, row 23; `ORC-J6NUG6RT73` |  |
+| 1213.15 | Liquid + NdNi2 \<-> NdNi3 | Liquid: Ni 0.63; NdNi2: Nd 0.333333, Ni 0.666667; NdNi3: Nd 0.25, Ni 0.75 | experimental | [1] Huang 2005; _cites Pan 1991_ | Table 2, p. 5, row 24; `ORC-3OTNFPZJKU` |  |
+| 1136.15 | Liquid + bcc (Nd) \<-> dhcp (Nd) |  | experimental | [1] Huang 2005; _cites Pan 1991_ | Table 2, p. 5, row 3; `ORC-4HPIJTUEDC` |  |
+| 1136 | peritectic: L + bcc(Nd) \<-> dhcp(Nd) |  | experimental | [2] Ye 2023; _cites ref. 84_ | Table 8, p. 16, row 3; `ORC-JTTO2W5C62` |  |
+| 1135 | peritectic: L + bcc(Nd) \<-> dhcp(Nd) | L: Ni 0.072 | model | [2] Ye 2023; _cites ref. 38_ | Table 8, p. 16, row 6; `ORC-WYK3POWEEC` |  |
+| 1128 | peritectic: L + bcc(Nd) \<-> dhcp(Nd) | L: Ni 0.13 | model | [2] Ye 2023; _cites ref. 36_ | Table 8, p. 16, row 5; `ORC-GW7LI7AQMH` |  |
+| 1128 | peritectic: L + bcc(Nd) \<-> dhcp(Nd) | L: Ni 0.091 | model | [2] Ye 2023 | Table 8, p. 16, row 7; `ORC-ICI6Z7IRSI` |  |
+| 1128 | peritectic: L + bcc(Nd) \<-> dhcp(Nd) | L: Ni 0.077 | model | [2] Ye 2023; _cites ref. 37_ | Table 8, p. 16, row 4; `ORC-PSMU4UXU7X` |  |
+| 1126.15 | Liquid + bcc (Nd) \<-> dhcp (Nd) | Liquid: Ni 0.1299 | model | [1] Huang 2005 | Table 2, p. 5, row 1; `ORC-ETP37TGNBD` |  |
+| 1126.15 | Liquid + bcc (Nd) \<-> dhcp (Nd) |  | experimental | [1] Huang 2005 | Table 2, p. 5, row 2; `ORC-EV6SKKHDJ4` |  |
+| 1126 | peritectic: L + bcc(Nd) \<-> dhcp(Nd) |  | experimental | [2] Ye 2023; _cites ref. 35_ | Table 8, p. 16, row 2; `ORC-5JG4DRV25D` |  |
+| 1126 | peritectic: L + bcc(Nd) \<-> dhcp(Nd) | L: Ni 0.13 | model | [2] Ye 2023; _cites ref. 35_ | Table 8, p. 16, row 1; `ORC-LIHSBZ2WUV` |  |
+| 1096.8 | congruent melting: L \<-> NdNi | L: Ni 0.5; NdNi: Nd 0.5, Ni 0.5 | model | [2] Ye 2023 | Table 8, p. 16, row 47; `ORC-TEOHUH2CBO` |  |
+| 1096 | congruent melting: L \<-> NdNi | L: Ni 0.5; NdNi: Nd 0.5, Ni 0.5 | model | [2] Ye 2023; _cites ref. 38_ | Table 8, p. 16, row 46; `ORC-AM4GVZMVZE` |  |
+| 1092.15 | Liquid \<-> NdNi | Liquid: Ni 0.5; NdNi: Nd 0.5, Ni 0.5 | model | [1] Huang 2005 | Table 2, p. 5, row 16; `ORC-H7CGKBRWIB` |  |
+| 1092.15 | Liquid \<-> NdNi | Liquid: Nd 0.5, Ni 0.5; NdNi: Nd 0.5, Ni 0.5 | experimental | [1] Huang 2005 | Table 2, p. 5, row 17; `ORC-NFVYEQD3JH` |  |
+| 1092 | congruent melting: L \<-> NdNi | L: Ni 0.5; NdNi: Nd 0.5, Ni 0.5 | model | [2] Ye 2023; _cites ref. 36_ | Table 8, p. 16, row 45; `ORC-AO2MVYAJB6` |  |
+| 1092 | congruent melting: L \<-> NdNi | L: Ni 0.5; NdNi: Nd 0.5, Ni 0.5 | model | [2] Ye 2023; _cites ref. 35_ | Table 8, p. 16, row 40; `ORC-BW2XLEUZV5` |  |
+| 1092 | congruent melting: L \<-> NdNi | L: Ni 0.5; NdNi: Nd 0.5, Ni 0.5 | experimental | [2] Ye 2023; _cites ref. 35_ | Table 8, p. 16, row 41; `ORC-LL56PXLNCU` |  |
+| 1090.6 | congruent melting: L \<-> NdNi | L: Ni 0.5; NdNi: Nd 0.5, Ni 0.5 | model | [2] Ye 2023; _cites ref. 34_ | Table 8, p. 16, row 42; `ORC-SP3WRFXTGY` |  |
+| 1053.15 | Liquid \<-> NdNi | Liquid: Nd 0.5, Ni 0.5; NdNi: Nd 0.5, Ni 0.5 | experimental | [1] Huang 2005; _cites Pan 1991_ | Table 2, p. 5, row 18; `ORC-XPRU2Z66M7` |  |
+| 1053 | congruent melting: L \<-> NdNi | L: Ni 0.5; NdNi: Nd 0.5, Ni 0.5 | experimental | [2] Ye 2023; _cites ref. 84_ | Table 8, p. 16, row 43; `ORC-4DOMF2VQ3J` |  |
+| 1053 | congruent melting: L \<-> NdNi | L: Ni 0.5; NdNi: Nd 0.5, Ni 0.5 | model | [2] Ye 2023; _cites ref. 37_ | Table 8, p. 16, row 44; `ORC-CMRSYKUHMU` |  |
+| 1047.15 | Liquid \<-> NdNi + NdNi2 | Liquid: Ni 0.5654; NdNi: Nd 0.5, Ni 0.5; NdNi2: Nd 0.333333, Ni 0.666667 | model | [1] Huang 2005 | Table 2, p. 5, row 19; `ORC-6Q2NKV6OV7` |  |
+| 1046.15 | Liquid \<-> NdNi + NdNi2 | NdNi: Nd 0.5, Ni 0.5; NdNi2: Nd 0.333333, Ni 0.666667 | experimental | [1] Huang 2005 | Table 2, p. 5, row 20; `ORC-GTKRL7CI73` |  |
+| 993.15 | Liquid \<-> NdNi + NdNi2 | NdNi: Nd 0.5, Ni 0.5; NdNi2: Nd 0.333333, Ni 0.666667 | experimental | [1] Huang 2005; _cites Pan 1991_ | Table 2, p. 5, row 21; `ORC-6C7GGYQCSM` |  |
+| 892.9 | congruent melting: L \<-> Nd3Ni | L: Ni 0.25; Nd3Ni: Nd 0.75, Ni 0.25 | model | [2] Ye 2023 | Table 8, p. 16, row 23; `ORC-22NRWL6OGQ` |  |
+| 891.4 | congruent melting: L \<-> Nd3Ni | L: Ni 0.25; Nd3Ni: Nd 0.75, Ni 0.25 | model | [2] Ye 2023; _cites ref. 34_ | Table 8, p. 16, row 18; `ORC-MIHIMH2Q3W` |  |
+| 891.15 | Liquid \<-> Nd3Ni | Liquid: Nd 0.75, Ni 0.25; Nd3Ni: Nd 0.75, Ni 0.25 | experimental | [1] Huang 2005 | Table 2, p. 5, row 8; `ORC-4VVTQTYG4B` |  |
+| 891.15 | Liquid \<-> Nd3Ni | Liquid: Ni 0.0025; Nd3Ni: Nd 0.75, Ni 0.25 | model | [1] Huang 2005 | Table 2, p. 5, row 7; `ORC-IW7SBEXVLM` |  |
+| 891 | congruent melting: L \<-> Nd3Ni | L: Ni 0.25; Nd3Ni: Nd 0.75, Ni 0.25 | model | [2] Ye 2023; _cites ref. 36_ | Table 8, p. 16, row 21; `ORC-D3N37ZKZMS` |  |
+| 891 | congruent melting: L \<-> Nd3Ni | L: Ni 0.25; Nd3Ni: Nd 0.75, Ni 0.25 | model | [2] Ye 2023; _cites ref. 35_ | Table 8, p. 16, row 17; `ORC-SJUILQVKEV` |  |
+| 891 | congruent melting: L \<-> Nd3Ni | L: Ni 0.25; Nd3Ni: Nd 0.75, Ni 0.25 | experimental | [2] Ye 2023; _cites ref. 35_ | Table 8, p. 16, row 16; `ORC-TUT4DNI3A7` |  |
+| 890 | congruent melting: L \<-> Nd3Ni | L: Ni 0.25; Nd3Ni: Nd 0.75, Ni 0.25 | model | [2] Ye 2023; _cites ref. 38_ | Table 8, p. 16, row 22; `ORC-6GBOL5A7XP` |  |
+| 887 | eutectic: L \<-> Nd3Ni + dhcp(Nd) | L: Ni 0.213; Nd3Ni: Nd 0.75, Ni 0.25 | model | [2] Ye 2023 | Table 8, p. 16, row 15; `ORC-DF3RQRR4BF` |  |
+| 884.15 | eutectic |  | experimental | [1] Huang 2005 | p. 3; `ORC-2AILPSCXF7` | “The temperature of 611 ◦ C for eutectic reaction between Nd3 Ni and dhcp (Nd) is 41 ◦ C higher than that previously reported \[4\].” |
+| 884.15 | Liquid \<-> Nd3Ni + dhcp (Nd) | Nd3Ni: Nd 0.75, Ni 0.25 | experimental | [1] Huang 2005 | Table 2, p. 5, row 5; `ORC-I7IZNMXHED` |  |
+| 884.15 | Liquid \<-> Nd3Ni + dhcp (Nd) | Liquid: Ni 0.2184; Nd3Ni: Nd 0.75, Ni 0.25 | model | [1] Huang 2005 | Table 2, p. 5, row 4; `ORC-SIJ4Y4MFHF` |  |
+| 884.15 | eutectic: liquid ↔ Nd3 Ni + dhcp (Nd) |  | experimental | [1] Huang 2005 | p. 2; `ORC-WDHWCIKJPN.aa71ca` | “Fig. 1 shows the DTA trace for Nd-4 at.% Ni alloy, indicating three thermal events at 611, 853 and 960 ◦ C, which correspond to the eutectic reaction liquid ↔ Nd3 Ni + dhcp (Nd), dhcp (Nd) ↔ bcc (Nd) and liquidus curve, respectively.” |
+| 884 | eutectic: L \<-> Nd3Ni + dhcp(Nd) | L: Ni 0.218; Nd3Ni: Nd 0.75, Ni 0.25 | model | [2] Ye 2023; _cites ref. 35_ | Table 8, p. 16, row 8; `ORC-2MCUYHB4Z6` |  |
+| 884 | eutectic: L \<-> Nd3Ni + dhcp(Nd) | L: Ni 0.218; Nd3Ni: Nd 0.75, Ni 0.25 | model | [2] Ye 2023; _cites ref. 36_ | Table 8, p. 16, row 13; `ORC-BPIY442TLG` |  |
+| 884 | eutectic: L \<-> Nd3Ni + dhcp(Nd) | Nd3Ni: Nd 0.75, Ni 0.25 | experimental | [2] Ye 2023; _cites ref. 35_ | Table 8, p. 16, row 9; `ORC-IWOPZQBLJT` |  |
+| 883 | eutectic: L \<-> Nd3Ni + dhcp(Nd) | L: Ni 0.218; Nd3Ni: Nd 0.75, Ni 0.25 | model | [2] Ye 2023; _cites ref. 38_ | Table 8, p. 16, row 14; `ORC-24ZERFZJQQ` |  |
+| 874.1 | eutectic: L \<-> Nd3Ni + dhcp(Nd) | L: Ni 0.193; Nd3Ni: Nd 0.75, Ni 0.25 | model | [2] Ye 2023; _cites ref. 34_ | Table 8, p. 16, row 10; `ORC-FBG5CVJXHN` |  |
+| 873.8 | peritectic: L + Nd3Ni \<-> Nd7Ni3 | L: Ni 0.31; Nd3Ni: Nd 0.75, Ni 0.25; Nd7Ni3: Nd 0.7, Ni 0.3 | model | [2] Ye 2023 | Table 8, p. 16, row 31; `ORC-6XLAGWXR63` |  |
+| 871.15 | Liquid + Nd7Ni3 \<-> Nd3Ni | Nd7Ni3: Nd 0.7, Ni 0.3; Nd3Ni: Nd 0.75, Ni 0.25 | experimental | [1] Huang 2005 | Table 2, p. 5, row 11; `ORC-AU3X7CULTQ` |  |
+| 871 | peritectic: L + Nd3Ni \<-> Nd7Ni3 | Nd3Ni: Nd 0.75, Ni 0.25; Nd7Ni3: Nd 0.7, Ni 0.3 | experimental | [2] Ye 2023; _cites ref. 35_ | Table 8, p. 16, row 24; `ORC-BUGL5Z35QA` |  |
+| 869.15 | Liquid + Nd7Ni3 \<-> Nd3Ni | Liquid: Ni 0.3005; Nd7Ni3: Nd 0.7, Ni 0.3; Nd3Ni: Nd 0.75, Ni 0.25 | model | [1] Huang 2005 | Table 2, p. 5, row 10; `ORC-QGSJGVC3QF` |  |
+| 869 | peritectic: L + Nd3Ni \<-> Nd7Ni3 | L: Ni 0.303; Nd3Ni: Nd 0.75, Ni 0.25; Nd7Ni3: Nd 0.7, Ni 0.3 | model | [2] Ye 2023; _cites ref. 38_ | Table 8, p. 16, row 30; `ORC-52QRLHPEYP` |  |
+| 869 | peritectic: L + Nd3Ni \<-> Nd7Ni3 | L: Ni 0.301; Nd3Ni: Nd 0.75, Ni 0.25; Nd7Ni3: Nd 0.7, Ni 0.3 | model | [2] Ye 2023; _cites ref. 36_ | Table 8, p. 16, row 29; `ORC-S5M6U47BKQ` |  |
+| 869 | peritectic: L + Nd3Ni \<-> Nd7Ni3 | L: Ni 0.301; Nd3Ni: Nd 0.75, Ni 0.25; Nd7Ni3: Nd 0.7, Ni 0.3 | model | [2] Ye 2023; _cites ref. 35_ | Table 8, p. 16, row 25; `ORC-V5DKIHX5IL` |  |
+| 868.6 | peritectic: L + Nd3Ni \<-> Nd7Ni3 | Nd3Ni: Nd 0.75, Ni 0.25; Nd7Ni3: Nd 0.7, Ni 0.3 | model | [2] Ye 2023; _cites ref. 34_ | Table 8, p. 16, row 26; `ORC-FBFCPA3EQC` |  |
+| 867.3 | eutectic: L \<-> Nd7Ni3 + NdNi | L: Ni 0.321; Nd7Ni3: Nd 0.7, Ni 0.3; NdNi: Nd 0.5, Ni 0.5 | model | [2] Ye 2023; _cites ref. 34_ | Table 8, p. 16, row 34; `ORC-NN42OOLLK4` |  |
+| 863.15 | Liquid \<-> Nd3Ni | Liquid: Nd 0.75, Ni 0.25; Nd3Ni: Nd 0.75, Ni 0.25 | experimental | [1] Huang 2005; _cites Pan 1991_ | Table 2, p. 5, row 9; `ORC-NT3C75MECO` |  |
+| 863 | congruent melting: L \<-> Nd3Ni | L: Ni 0.25; Nd3Ni: Nd 0.75, Ni 0.25 | experimental | [2] Ye 2023; _cites ref. 84_ | Table 8, p. 16, row 19; `ORC-SJETTNTINW` |  |
+| 858.15 | Liquid \<-> Nd7Ni3 + NdNi | Nd7Ni3: Nd 0.7, Ni 0.3; NdNi: Nd 0.5, Ni 0.5 | experimental | [1] Huang 2005 | Table 2, p. 5, row 14; `ORC-M74CCA4QAC` |  |
+| 858.15 | eutectic |  | experimental | [1] Huang 2005 | p. 3; `ORC-NXST5DUEJP` | “During the third heating, the second thermal event has disappeared completely and a tiny peak with an onset at 585 ◦ C has appeared (which is the eutectic reaction between Nd7 Ni3 and NdNi, see Fig. 4).” |
+| 858 | eutectic: L \<-> Nd7Ni3 + NdNi | Nd7Ni3: Nd 0.7, Ni 0.3; NdNi: Nd 0.5, Ni 0.5 | experimental | [2] Ye 2023; _cites ref. 35_ | Table 8, p. 16, row 32; `ORC-HA57NNR7FP` |  |
+| 857.15 | Liquid \<-> Nd7Ni3 + NdNi | Liquid: Ni 0.3381; Nd7Ni3: Nd 0.7, Ni 0.3; NdNi: Nd 0.5, Ni 0.5 | model | [1] Huang 2005 | Table 2, p. 5, row 13; `ORC-KKWH6E7NJN` |  |
+| 857 | eutectic: L \<-> Nd7Ni3 + NdNi | L: Ni 0.338; Nd7Ni3: Nd 0.7, Ni 0.3; NdNi: Nd 0.5, Ni 0.5 | model | [2] Ye 2023; _cites ref. 38_ | Table 8, p. 16, row 38; `ORC-4PXJGXDNVP` |  |
+| 857 | eutectic: L \<-> Nd7Ni3 + NdNi | L: Ni 0.338; Nd7Ni3: Nd 0.7, Ni 0.3; NdNi: Nd 0.5, Ni 0.5 | model | [2] Ye 2023; _cites ref. 36_ | Table 8, p. 16, row 37; `ORC-FECBA6OPBC` |  |
+| 857 | eutectic: L \<-> Nd7Ni3 + NdNi | L: Ni 0.338; Nd7Ni3: Nd 0.7, Ni 0.3; NdNi: Nd 0.5, Ni 0.5 | model | [2] Ye 2023; _cites ref. 35_ | Table 8, p. 16, row 33; `ORC-XQYCCHBFPA` |  |
+| 855.3 | eutectic: L \<-> Nd7Ni3 + NdNi | L: Ni 0.359; Nd7Ni3: Nd 0.7, Ni 0.3; NdNi: Nd 0.5, Ni 0.5 | model | [2] Ye 2023 | Table 8, p. 16, row 39; `ORC-GYMOJR4NC2` |  |
+| 855 | congruent melting: L \<-> Nd3Ni | L: Ni 0.25; Nd3Ni: Nd 0.75, Ni 0.25 | model | [2] Ye 2023; _cites ref. 37_ | Table 8, p. 16, row 20; `ORC-AEORKRC2TS` |  |
+| 853 | peritectic: L + Nd3Ni \<-> Nd7Ni3 | Nd3Ni: Nd 0.75, Ni 0.25; Nd7Ni3: Nd 0.7, Ni 0.3 | model | [2] Ye 2023; _cites ref. 37_ | Table 8, p. 16, row 28; `ORC-LIVQBQ6GOV` |  |
+| 843.15 | Liquid \<-> Nd3Ni + dhcp (Nd) | Liquid: Ni 0.19; Nd3Ni: Nd 0.75, Ni 0.25 | experimental | [1] Huang 2005; _cites Pan 1991_ | Table 2, p. 5, row 6; `ORC-CVX7UX4AHP` |  |
+| 843 | eutectic: L \<-> Nd3Ni + dhcp(Nd) | L: Ni 0.19; Nd3Ni: Nd 0.75, Ni 0.25 | experimental | [2] Ye 2023; _cites ref. 84_ | Table 8, p. 16, row 11; `ORC-ZN2AKWJXOH` |  |
+| 838.15 | Liquid + Nd7Ni3 \<-> Nd3Ni | Nd7Ni3: Nd 0.7, Ni 0.3; Nd3Ni: Nd 0.75, Ni 0.25 | experimental | [1] Huang 2005; _cites Pan 1991_ | Table 2, p. 5, row 12; `ORC-OHUPNY542K` |  |
+| 838.15 | eutectic |  | experimental | [1] Huang 2005; _cites Pan 1985_ | p. 3; `ORC-RNJGEHW2W3` | “The onset temperature (597 ◦ C) for the sharp peak is the same for the alloys with a composition on both sides of the stoichiometric compound Nd7 Ni3 , indicating the nature of the invariant reaction between Nd7 Ni3 and Nd3 Ni is peritectic not the eutectic reaction at 565 ◦ C as reported in Ref. \[4\].” |
+| 838 | peritectic: L + Nd3Ni \<-> Nd7Ni3 | Nd3Ni: Nd 0.75, Ni 0.25; Nd7Ni3: Nd 0.7, Ni 0.3 | experimental | [2] Ye 2023; _cites ref. 84_ | Table 8, p. 16, row 27; `ORC-CCHFQ6SR6E` |  |
+| 834 | eutectic: L \<-> Nd3Ni + dhcp(Nd) | L: Ni 0.203; Nd3Ni: Nd 0.75, Ni 0.25 | model | [2] Ye 2023; _cites ref. 37_ | Table 8, p. 16, row 12; `ORC-SSXMBUJ67M` |  |
+| 813.15 | Liquid \<-> Nd7Ni3 + NdNi | Liquid: Ni 0.35; Nd7Ni3: Nd 0.7, Ni 0.3; NdNi: Nd 0.5, Ni 0.5 | experimental | [1] Huang 2005; _cites Pan 1991_ | Table 2, p. 5, row 15; `ORC-FJKJZKNB3P` |  |
+| 813 | eutectic: L \<-> Nd7Ni3 + NdNi | L: Ni 0.35; Nd7Ni3: Nd 0.7, Ni 0.3; NdNi: Nd 0.5, Ni 0.5 | experimental | [2] Ye 2023; _cites ref. 84_ | Table 8, p. 16, row 35; `ORC-CLCWKWTG67` |  |
+| 801 | eutectic: L \<-> Nd7Ni3 + NdNi | L: Ni 0.372; Nd7Ni3: Nd 0.7, Ni 0.3; NdNi: Nd 0.5, Ni 0.5 | model | [2] Ye 2023; _cites ref. 37_ | Table 8, p. 16, row 36; `ORC-XNL6TDO7FW` |  |
 
 ## Other properties
 
@@ -253,13 +253,13 @@ Table: Phase transition, Nd–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1126.15 K | 1126.15 | dhcp (Nd) ↔ bcc (Nd) | experimental | [1] Huang 2005 | p. 2 | “Fig. 1 shows the DTA trace for Nd-4 at.% Ni alloy, indicating three thermal events at 611, 853 and 960 ◦ C, which correspond to the eutectic reaction liquid ↔ Nd3 Ni + dhcp (Nd), dhcp (Nd) ↔ bcc (Nd) and liquidus curve, respectively.” |
-| Phase transition | 1126.15 K | 1126.15 | other: liquid + dhcp (Nd) \<-> bcc (Nd) | experimental | [1] Huang 2005 | p. 3 | “decrease in decomposition temperature at 853 ◦ C of dhcp (Nd) to bcc (Nd) in Nd-4 at.% Ni alloy compared to pure Nd of 863 ◦ C \[21\] indicates that the nature of this invariant reaction is metatectic, liquid + dhcp (Nd) ↔ bcc (Nd).” |
-| Phase transition | 1136.15 K | 1136.15 |  | experimental | [1] Huang 2005; _cites Gschneidner 1986_ [doi](https://doi.org/10.1016/s0168-1273%2886%2908004-2) | p. 3 | “decrease in decomposition temperature at 853 ◦ C of dhcp (Nd) to bcc (Nd) in Nd-4 at.% Ni alloy compared to pure Nd of 863 ◦ C \[21\] indicates that the nature of this invariant reaction is metatectic, liquid + dhcp (Nd) ↔ bcc (Nd).” |
-| Phase transition | 1233.15 K | 1233.15 | other | experimental | [1] Huang 2005 | p. 2 | “Fig. 1 shows the DTA trace for Nd-4 at.% Ni alloy, indicating three thermal events at 611, 853 and 960 ◦ C, which correspond to the eutectic reaction liquid ↔ Nd3 Ni + dhcp (Nd), dhcp (Nd) ↔ bcc (Nd) and liquidus curve, respectively.” |
-| Phase transition | 1523 K | 1523 | other | experimental | [3] Du 1996; _cites ref. 6_ | p. 3 | “The eutectoid decomposition of N&N&, at 1523 K (6) indicates that its entropy and enthalpy must be more positive than the corresponding value of the mixture of NdNis and Ni at the eutectoid temperature.” |
-| Phase transition | 1678.15 K | 1678.15 |  | experimental | [1] Huang 2005 | p. 4 | “The melting point of NdNi5 is 1405 ◦ C which is slightly lower than that (1420 ◦ C) reported in Ref. \[4\].” |
-| Phase transition | 1693.15 K | 1693.15 |  | experimental | [1] Huang 2005; _cites Pan 1985_ | p. 4 | “The melting point of NdNi5 is 1405 ◦ C which is slightly lower than that (1420 ◦ C) reported in Ref. \[4\].” |
+| Phase transition | 1126.15 K | 1126.15 | dhcp (Nd) ↔ bcc (Nd) | experimental | [1] Huang 2005 | p. 2; `ORC-WDHWCIKJPN.77f257` | “Fig. 1 shows the DTA trace for Nd-4 at.% Ni alloy, indicating three thermal events at 611, 853 and 960 ◦ C, which correspond to the eutectic reaction liquid ↔ Nd3 Ni + dhcp (Nd), dhcp (Nd) ↔ bcc (Nd) and liquidus curve, respectively.” |
+| Phase transition | 1126.15 K | 1126.15 | other: liquid + dhcp (Nd) \<-> bcc (Nd) | experimental | [1] Huang 2005 | p. 3; `ORC-GX37FUOVTS.c256a5` | “decrease in decomposition temperature at 853 ◦ C of dhcp (Nd) to bcc (Nd) in Nd-4 at.% Ni alloy compared to pure Nd of 863 ◦ C \[21\] indicates that the nature of this invariant reaction is metatectic, liquid + dhcp (Nd) ↔ bcc (Nd).” |
+| Phase transition | 1136.15 K | 1136.15 |  | experimental | [1] Huang 2005; _cites Gschneidner 1986_ [doi](https://doi.org/10.1016/s0168-1273%2886%2908004-2) | p. 3; `ORC-GX37FUOVTS.3e1014` | “decrease in decomposition temperature at 853 ◦ C of dhcp (Nd) to bcc (Nd) in Nd-4 at.% Ni alloy compared to pure Nd of 863 ◦ C \[21\] indicates that the nature of this invariant reaction is metatectic, liquid + dhcp (Nd) ↔ bcc (Nd).” |
+| Phase transition | 1233.15 K | 1233.15 | other | experimental | [1] Huang 2005 | p. 2; `ORC-WDHWCIKJPN.722182` | “Fig. 1 shows the DTA trace for Nd-4 at.% Ni alloy, indicating three thermal events at 611, 853 and 960 ◦ C, which correspond to the eutectic reaction liquid ↔ Nd3 Ni + dhcp (Nd), dhcp (Nd) ↔ bcc (Nd) and liquidus curve, respectively.” |
+| Phase transition | 1523 K | 1523 | other | experimental | [3] Du 1996; _cites ref. 6_ | p. 3; `ORC-553PFWH6T5` | “The eutectoid decomposition of N&N&, at 1523 K (6) indicates that its entropy and enthalpy must be more positive than the corresponding value of the mixture of NdNis and Ni at the eutectoid temperature.” |
+| Phase transition | 1678.15 K | 1678.15 |  | experimental | [1] Huang 2005 | p. 4; `ORC-BCOD7EFYX2.a7cf53` | “The melting point of NdNi5 is 1405 ◦ C which is slightly lower than that (1420 ◦ C) reported in Ref. \[4\].” |
+| Phase transition | 1693.15 K | 1693.15 |  | experimental | [1] Huang 2005; _cites Pan 1985_ | p. 4; `ORC-BCOD7EFYX2.3cd806` | “The melting point of NdNi5 is 1405 ◦ C which is slightly lower than that (1420 ◦ C) reported in Ref. \[4\].” |
 
 ## Sources
 
@@ -326,4 +326,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -27,7 +27,7 @@ Table: Invariant reactions reported in the literature for the Cu–Sn–Ti syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1100.15 | peritectic |  | experimental | [1] Wang 2011 | p. 2 | “Liquidus surface, CuSnTi was formed by a peritectic reaction at 827 °C” |
+| 1100.15 | peritectic |  | experimental | [1] Wang 2011 | p. 2; `ORC-WTJXQNWNR6` | “Liquidus surface, CuSnTi was formed by a peritectic reaction at 827 °C” |
 
 ## Other properties
 
@@ -37,15 +37,15 @@ Table: Phase equilibrium, Cu–Sn–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase assemblage |  | 1073.15 | fcc(Cu) + Sn3Ti5; _alloy: Sn 0.158, Ti 0.211_ | experimental | [1] Wang 2011 | p. 2 | “Fig. 1 shows a representative backscattered electron (BSE) image of an alloy sample (alloy #1, Cu-15.8 at.% Sn-21.1 at.% Ti) annealed at 800 °C for 760 h. As can be seen, alloy #1 is composed of two different phases. The compositions of the dark phase and the white phase as measured by EPMA are Cu-5.5 at.% Sn-0.8 at.% Ti and Cu-34.3 at.% Sn-52.7 at.% Ti, respectively, corresponding to the fcc(Cu)…” |
-| Phase composition |  | 1073.15 | Sn3Ti5 + Cu4Ti + Cu3Ti2; _Sn3Ti5: Cu 0.134, Sn 0.328, Ti 0.538; Cu4Ti: Cu 0.774, Sn 0.006, Ti 0.22; Cu3Ti2: Cu 0.606, Sn 0.005, Ti 0.389_ | experimental | [1] Wang 2011 | Table 2, p. 4, row 4 |  |
-| Phase composition |  | 1073.15 | Sn3Ti5 + Cu4Ti + fcc(Cu); _Sn3Ti5: Cu 0.116, Sn 0.343, Ti 0.541; Cu4Ti: Cu 0.794, Sn 0.001, Ti 0.205; fcc(Cu): Cu 0.942, Sn 0.004, Ti 0.054_ | experimental | [1] Wang 2011 | Table 2, p. 4, row 3 |  |
-| Phase composition |  | 1073.15 | Sn3Ti5 + SnTi3; _Sn3Ti5: Cu 0.06, Sn 0.355, Ti 0.585; SnTi3: Cu 0.025, Sn 0.234, Ti 0.741_ | experimental | [1] Wang 2011 | Table 2, p. 4, row 7 |  |
-| Phase composition |  | 1073.15 | Sn3Ti5 + SnTi3; _Sn3Ti5: Cu 0.073, Sn 0.349, Ti 0.578; SnTi3: Cu 0.004, Sn 0.263, Ti 0.733_ | experimental | [1] Wang 2011 | Table 2, p. 4, row 6 |  |
-| Phase composition |  | 1073.15 | Sn3Ti5 + SnTi3 + Cu4Ti3; _Sn3Ti5: Cu 0.115, Sn 0.337, Ti 0.548; SnTi3: Cu 0.033, Sn 0.261, Ti 0.706; Cu4Ti3: Cu 0.561, Sn 0.006, Ti 0.433_ | experimental | [1] Wang 2011 | Table 2, p. 4, row 5 |  |
-| Phase composition |  | 1073.15 | Sn3Ti5 + fcc(Cu); _Sn3Ti5: Cu 0.13, Sn 0.343, Ti 0.527; fcc(Cu): Cu 0.937, Sn 0.055, Ti 0.008_ | experimental | [1] Wang 2011 | Table 2, p. 4, row 1 |  |
-| Phase composition |  | 1073.15 | Sn3Ti5 + fcc(Cu); _Sn3Ti5: Cu 0.115, Sn 0.345, Ti 0.54; fcc(Cu): Cu 0.966, Sn 0.022, Ti 0.012_ | experimental | [1] Wang 2011 | Table 2, p. 4, row 2 |  |
-| Phase composition |  | 1073.15 | SnTi3 + CuTi2 + CuTi; _SnTi3: Cu 0.025, Sn 0.234, Ti 0.741; CuTi2: Cu 0.324, Sn 0.01, Ti 0.666; CuTi: Cu 0.49, Sn 0.003, Ti 0.507_ | experimental | [1] Wang 2011 | Table 2, p. 4, row 8 |  |
+| Phase assemblage |  | 1073.15 | fcc(Cu) + Sn3Ti5; _alloy: Sn 0.158, Ti 0.211_ | experimental | [1] Wang 2011 | p. 2; `ORC-FJP2556ZUQ` | “Fig. 1 shows a representative backscattered electron (BSE) image of an alloy sample (alloy #1, Cu-15.8 at.% Sn-21.1 at.% Ti) annealed at 800 °C for 760 h. As can be seen, alloy #1 is composed of two different phases. The compositions of the dark phase and the white phase as measured by EPMA are Cu-5.5 at.% Sn-0.8 at.% Ti and Cu-34.3 at.% Sn-52.7 at.% Ti, respectively, corresponding to the fcc(Cu)…” |
+| Phase composition |  | 1073.15 | Sn3Ti5 + Cu4Ti + Cu3Ti2; _Sn3Ti5: Cu 0.134, Sn 0.328, Ti 0.538; Cu4Ti: Cu 0.774, Sn 0.006, Ti 0.22; Cu3Ti2: Cu 0.606, Sn 0.005, Ti 0.389_ | experimental | [1] Wang 2011 | Table 2, p. 4, row 4; `ORC-5VC3YMYGW5` |  |
+| Phase composition |  | 1073.15 | Sn3Ti5 + Cu4Ti + fcc(Cu); _Sn3Ti5: Cu 0.116, Sn 0.343, Ti 0.541; Cu4Ti: Cu 0.794, Sn 0.001, Ti 0.205; fcc(Cu): Cu 0.942, Sn 0.004, Ti 0.054_ | experimental | [1] Wang 2011 | Table 2, p. 4, row 3; `ORC-OELFQ55TXT` |  |
+| Phase composition |  | 1073.15 | Sn3Ti5 + SnTi3; _Sn3Ti5: Cu 0.06, Sn 0.355, Ti 0.585; SnTi3: Cu 0.025, Sn 0.234, Ti 0.741_ | experimental | [1] Wang 2011 | Table 2, p. 4, row 7; `ORC-NA6SFM3AXT` |  |
+| Phase composition |  | 1073.15 | Sn3Ti5 + SnTi3; _Sn3Ti5: Cu 0.073, Sn 0.349, Ti 0.578; SnTi3: Cu 0.004, Sn 0.263, Ti 0.733_ | experimental | [1] Wang 2011 | Table 2, p. 4, row 6; `ORC-TYPTBUA5QJ` |  |
+| Phase composition |  | 1073.15 | Sn3Ti5 + SnTi3 + Cu4Ti3; _Sn3Ti5: Cu 0.115, Sn 0.337, Ti 0.548; SnTi3: Cu 0.033, Sn 0.261, Ti 0.706; Cu4Ti3: Cu 0.561, Sn 0.006, Ti 0.433_ | experimental | [1] Wang 2011 | Table 2, p. 4, row 5; `ORC-V4SPHPSH4B` |  |
+| Phase composition |  | 1073.15 | Sn3Ti5 + fcc(Cu); _Sn3Ti5: Cu 0.13, Sn 0.343, Ti 0.527; fcc(Cu): Cu 0.937, Sn 0.055, Ti 0.008_ | experimental | [1] Wang 2011 | Table 2, p. 4, row 1; `ORC-7JPBYW4TV6` |  |
+| Phase composition |  | 1073.15 | Sn3Ti5 + fcc(Cu); _Sn3Ti5: Cu 0.115, Sn 0.345, Ti 0.54; fcc(Cu): Cu 0.966, Sn 0.022, Ti 0.012_ | experimental | [1] Wang 2011 | Table 2, p. 4, row 2; `ORC-EBLKRZ2X4C` |  |
+| Phase composition |  | 1073.15 | SnTi3 + CuTi2 + CuTi; _SnTi3: Cu 0.025, Sn 0.234, Ti 0.741; CuTi2: Cu 0.324, Sn 0.01, Ti 0.666; CuTi: Cu 0.49, Sn 0.003, Ti 0.507_ | experimental | [1] Wang 2011 | Table 2, p. 4, row 8; `ORC-3R2F2DP6OO` |  |
 
 ## Sources
 
@@ -88,4 +88,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

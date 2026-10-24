@@ -34,21 +34,21 @@ Table: Enthalpies of formation, Ta system (15)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| A15 |  | 3.0195 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Wang 2019 | Table 2, p. 22, row 4 |  |
-| C14 |  | 9.35 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Pavlů 2009 | Table 3, p. 3, row 5 |  |
-| C14 |  | 9.6703 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Wang 2019 | Table 2, p. 22, row 12 |  |
-| C14 |  | 9.7 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Pavlů 2009; _cites Sluiter 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.09.002) | Table 3, p. 3, row 6 |  |
-| C15 |  | 10.94 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Pavlů 2009 | Table 3, p. 3, row 11 |  |
-| C15 |  | 11.1655 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Wang 2019 | Table 2, p. 22, row 16 |  |
-| C15 |  | 11.2 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Pavlů 2009; _cites Sluiter 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.09.002) | Table 3, p. 3, row 12 |  |
-| C16 |  | 48.1965 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Wang 2019 | Table 2, p. 22, row 20 |  |
-| C36 |  | 10.15 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Pavlů 2009 | Table 3, p. 3, row 15 |  |
-| FCC |  | 23.3493 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Wang 2019 | Table 3, p. 27, row 10 |  |
-| HCP |  | 26.9804 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Wang 2019 | Table 3, p. 27, row 15 |  |
-| Ta |  | 0 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Witusiewicz 2011 | Table 4, p. 10, row 8 |  |
-| Ta13 |  | 10.71 kJ/mol-atom | 0 | DFT |  |  | [4] Rajkumar 2015 | Table 9, p. 6, row 8 |  |
-| UNKNOWN |  | 0 kJ/mol-atom |  | DFT |  |  | [5] Zhou 2009 | Table 6, p. 7, row 6 |  |
-| UNKNOWN |  | 26.23 kJ/mol-atom |  | DFT |  |  | [5] Zhou 2009 | Table 6, p. 7, row 5 |  |
+| A15 |  | 3.0195 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Wang 2019 | Table 2, p. 22, row 4; `ORC-FAXZ25D3ZP` |  |
+| C14 |  | 9.35 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Pavlů 2009 | Table 3, p. 3, row 5; `ORC-UAKXOUMUOL` |  |
+| C14 |  | 9.6703 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Wang 2019 | Table 2, p. 22, row 12; `ORC-HHQPTEKF6U` |  |
+| C14 |  | 9.7 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Pavlů 2009; _cites Sluiter 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.09.002) | Table 3, p. 3, row 6; `ORC-D32WQJRXTD` |  |
+| C15 |  | 10.94 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Pavlů 2009 | Table 3, p. 3, row 11; `ORC-RAXXYU6PRE` |  |
+| C15 |  | 11.1655 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Wang 2019 | Table 2, p. 22, row 16; `ORC-BCYU4AIJ7K` |  |
+| C15 |  | 11.2 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Pavlů 2009; _cites Sluiter 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.09.002) | Table 3, p. 3, row 12; `ORC-JTFLOG5AAD` |  |
+| C16 |  | 48.1965 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Wang 2019 | Table 2, p. 22, row 20; `ORC-EWGKEC5BSC` |  |
+| C36 |  | 10.15 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Pavlů 2009 | Table 3, p. 3, row 15; `ORC-J5F2TMPJDX` |  |
+| FCC |  | 23.3493 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Wang 2019 | Table 3, p. 27, row 10; `ORC-QST3H636V2` |  |
+| HCP |  | 26.9804 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Wang 2019 | Table 3, p. 27, row 15; `ORC-QUYI7AWZWR` |  |
+| Ta |  | 0 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Witusiewicz 2011 | Table 4, p. 10, row 8; `ORC-4BSOU4T3BM.e8599c` |  |
+| Ta13 |  | 10.71 kJ/mol-atom | 0 | DFT |  |  | [4] Rajkumar 2015 | Table 9, p. 6, row 8; `ORC-VPO6TJUC6Z` |  |
+| UNKNOWN |  | 0 kJ/mol-atom |  | DFT |  |  | [5] Zhou 2009 | Table 6, p. 7, row 6; `ORC-B5SO5YS473` |  |
+| UNKNOWN |  | 26.23 kJ/mol-atom |  | DFT |  |  | [5] Zhou 2009 | Table 6, p. 7, row 5; `ORC-JGKUD3RHGN` |  |
 
 ## Other properties
 
@@ -58,8 +58,8 @@ Table: Activity / EMF / Gibbs energy, Ta system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Gibbs energy; _printed: Gm(ω)-Gm(β)_ | 7795 J/mol | 0 | UNKNOWN; _alloy: Ta 1_ | model | [6] Yan 2016 | Table 4, p. 5, row 6 |  |
-| Gibbs energy; _printed: Gm(ω)-Gm(β)_ | 21835 J/mol | 0 | UNKNOWN; _alloy: Ta 1_ | DFT | [6] Yan 2016 | Table 4, p. 5, row 5 |  |
+| Gibbs energy; _printed: Gm(ω)-Gm(β)_ | 7795 J/mol | 0 | UNKNOWN; _alloy: Ta 1_ | model | [6] Yan 2016 | Table 4, p. 5, row 6; `ORC-JOPOITBSUY` |  |
+| Gibbs energy; _printed: Gm(ω)-Gm(β)_ | 21835 J/mol | 0 | UNKNOWN; _alloy: Ta 1_ | DFT | [6] Yan 2016 | Table 4, p. 5, row 5; `ORC-P7H77KKDM6` |  |
 
 ### Crystal structure (28)
 
@@ -67,34 +67,34 @@ Table: Crystal structure, Ta system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 5.45 Å | 0 | C14; _alloy: Ta 1_ | DFT | [2] Pavlů 2009 | Table 2, p. 3, row 3 |  |
-| Lattice a | 7.65 Å | 0 | C15; _alloy: Ta 1_ | DFT | [2] Pavlů 2009 | Table 2, p. 3, row 12 |  |
-| Lattice a | 5.44 Å | 0 | C36; _alloy: Ta 1_ | DFT | [2] Pavlů 2009 | Table 2, p. 3, row 21 |  |
-| Lattice a | 3.31 Å |  | Nonmagnetic BCC Ta; _alloy: Ta 1_ | unspecified | [2] Pavlů 2009 | Table 1, p. 3, row 5 |  |
-| Lattice a | 3.3 Å | 298.15 | Nonmagnetic BCC Ta; _alloy: Ta 1_ | experimental | [2] Pavlů 2009; _cites Villars 1991_ | Table 1, p. 3, row 6 |  |
-| Lattice a | 3.303 Å | 298.15 | UNKNOWN; _alloy: Ta 1_ | model | [7] Broz 2013; _cites Smith 1983_ [doi](https://doi.org/10.1007/bf02868668) | Table 1, p. 3, row 1 |  |
-| Lattice a | 3.328 Å | 298.15 | bcc-Ta; _alloy: Ta 1_ | DFT | [8] Marker 2017 | Table 1, p. 12, row 2 |  |
-| Lattice a | 3.316 Å | 298.15 | bcc-Ta; _alloy: Ta 1_ | DFT | [8] Marker 2017 | Table 1, p. 12, row 1 |  |
-| Lattice a | 3.32 Å | 298.15 | bcc-Ta; _alloy: Ta 1_ | DFT | [8] Marker 2017; _cites ref. 36_ | Table 1, p. 12, row 5 |  |
-| Lattice a | 3.33 Å | 298.15 | bcc-Ta; _alloy: Ta 1_ | DFT | [8] Marker 2017 | Table 1, p. 12, row 3 |  |
-| Lattice a | 3.3 Å | 298.15 | bcc-Ta; _alloy: Ta 1_ | experimental | [8] Marker 2017; _cites ref. 35_ | Table 1, p. 12, row 4 |  |
-| Lattice a | 3.3065 Å | 298.15 | β, (Ta); _alloy: Ta 1_ | model | [3] Witusiewicz 2011; _cites Massalski 1990_ | Table 1, p. 2, row 3 |  |
-| Lattice a | 3.303 Å | 298.15 | β, (Ta), bcc_A2; _alloy: Ta 1_ | experimental | [9] Witusiewicz 2010; _cites 3 vols 1990_ | Table 1, p. 2, row 3 |  |
-| Lattice a | 3.303 Å | 300 | (Ta); _alloy: Ta 1_ | experimental | [7] Broz 2013; _cites Smith 1983_ [doi](https://doi.org/10.1007/bf02868668) | Table 1, p. 3, row 48 |  |
-| Lattice c | 8.68 Å | 0 | C14; _alloy: Ta 1_ | DFT | [2] Pavlů 2009 | Table 2, p. 3, row 3 |  |
-| Lattice c | 17.43 Å | 0 | C36; _alloy: Ta 1_ | DFT | [2] Pavlů 2009 | Table 2, p. 3, row 21 |  |
-| Molar volume; _printed: V_ | 18.241 Å³/atom | 0 | bcc-Ta; _alloy: Ta 1_ | DFT | [8] Marker 2017 | Table 2, p. 13, row 1 |  |
-| Molar volume; _printed: V_ | 18.313 Å³/atom | 0 | bcc-Ta; _alloy: Ta 1_ | DFT | [8] Marker 2017; _cites ref. 36_ | Table 2, p. 13, row 3 |  |
-| Molar volume; _printed: V_ | 17.9685 Å³/atom |  | bcc-Ta; _alloy: Ta 1_ | experimental | [8] Marker 2017; _cites ref. 35_ | Table 2, p. 13, row 2 |  |
-| lattice 2v atom | 3.724 10^7 pm^3 | 0 | C36; _alloy: Ta 1_ | DFT | [2] Pavlů 2009 | Table 2, p. 3, row 21 |  |
-| lattice unspecified axis; _printed: Lattice constant_ | 3.3031 Å |  | Pure Ta; _alloy: Ta 1_ | experimental | [10] Turchi 2005 | Table I, p. 5, row 1 |  |
-| lattice unspecified axis; _printed: Lattice constant_ | 3.2766 Å |  | Pure Ta; _alloy: Ta 1_ | unspecified | [10] Turchi 2005 | Table I, p. 5, row 8 |  |
-| lattice unspecified axis; _printed: Lattice constant_ | 3.3098 Å |  | Pure Ta; _alloy: Ta 1_ | unspecified | [10] Turchi 2005 | Table I, p. 5, row 4 |  |
-| lattice v atom | 1.861 10^7 pm^3 | 0 | C14; _alloy: Ta 1_ | DFT | [2] Pavlů 2009 | Table 2, p. 3, row 3 |  |
-| lattice v atom | 1.862 10^7 pm^3 | 0 | C15; _alloy: Ta 1_ | DFT | [2] Pavlů 2009 | Table 2, p. 3, row 12 |  |
-| volume; _printed: V_ | 18.241 Å3/atom | 0 | bcc-Ta; _alloy: Ta 1_ | DFT | [8] Marker 2017 | Table 2, p. 13, row 1 |  |
-| volume; _printed: V_ | 18.313 Å3/atom | 0 | bcc-Ta; _alloy: Ta 1_ | DFT | [8] Marker 2017; _cites ref. 36_ | Table 2, p. 13, row 3 |  |
-| volume; _printed: V_ | 17.9685 Å3/atom |  | bcc-Ta; _alloy: Ta 1_ | experimental | [8] Marker 2017; _cites ref. 35_ | Table 2, p. 13, row 2 |  |
+| Lattice a | 5.45 Å | 0 | C14; _alloy: Ta 1_ | DFT | [2] Pavlů 2009 | Table 2, p. 3, row 3; `ORC-4XXYGUIOLZ.9a705d` |  |
+| Lattice a | 7.65 Å | 0 | C15; _alloy: Ta 1_ | DFT | [2] Pavlů 2009 | Table 2, p. 3, row 12; `ORC-5I6LGBCPA4.0beb7e` |  |
+| Lattice a | 5.44 Å | 0 | C36; _alloy: Ta 1_ | DFT | [2] Pavlů 2009 | Table 2, p. 3, row 21; `ORC-BVGRL3EJF7.e7eac8` |  |
+| Lattice a | 3.31 Å |  | Nonmagnetic BCC Ta; _alloy: Ta 1_ | unspecified | [2] Pavlů 2009 | Table 1, p. 3, row 5; `ORC-R2GMWHBQ3Y` |  |
+| Lattice a | 3.3 Å | 298.15 | Nonmagnetic BCC Ta; _alloy: Ta 1_ | experimental | [2] Pavlů 2009; _cites Villars 1991_ | Table 1, p. 3, row 6; `ORC-NLDV3GEDW2` |  |
+| Lattice a | 3.303 Å | 298.15 | UNKNOWN; _alloy: Ta 1_ | model | [7] Broz 2013; _cites Smith 1983_ [doi](https://doi.org/10.1007/bf02868668) | Table 1, p. 3, row 1; `ORC-OISNK5Y7LE` |  |
+| Lattice a | 3.328 Å | 298.15 | bcc-Ta; _alloy: Ta 1_ | DFT | [8] Marker 2017 | Table 1, p. 12, row 2; `ORC-AHB4G73OHM` |  |
+| Lattice a | 3.316 Å | 298.15 | bcc-Ta; _alloy: Ta 1_ | DFT | [8] Marker 2017 | Table 1, p. 12, row 1; `ORC-HAZGHBKNKW` |  |
+| Lattice a | 3.32 Å | 298.15 | bcc-Ta; _alloy: Ta 1_ | DFT | [8] Marker 2017; _cites ref. 36_ | Table 1, p. 12, row 5; `ORC-JE4Z4B6NLA` |  |
+| Lattice a | 3.33 Å | 298.15 | bcc-Ta; _alloy: Ta 1_ | DFT | [8] Marker 2017 | Table 1, p. 12, row 3; `ORC-UBEULTGHHB` |  |
+| Lattice a | 3.3 Å | 298.15 | bcc-Ta; _alloy: Ta 1_ | experimental | [8] Marker 2017; _cites ref. 35_ | Table 1, p. 12, row 4; `ORC-VIEQ2RPQ6H` |  |
+| Lattice a | 3.3065 Å | 298.15 | β, (Ta); _alloy: Ta 1_ | model | [3] Witusiewicz 2011; _cites Massalski 1990_ | Table 1, p. 2, row 3; `ORC-BPJKJBTZDY` |  |
+| Lattice a | 3.303 Å | 298.15 | β, (Ta), bcc_A2; _alloy: Ta 1_ | experimental | [9] Witusiewicz 2010; _cites 3 vols 1990_ | Table 1, p. 2, row 3; `ORC-ACT2POQVN5` |  |
+| Lattice a | 3.303 Å | 300 | (Ta); _alloy: Ta 1_ | experimental | [7] Broz 2013; _cites Smith 1983_ [doi](https://doi.org/10.1007/bf02868668) | Table 1, p. 3, row 48; `ORC-P376RUWERR` |  |
+| Lattice c | 8.68 Å | 0 | C14; _alloy: Ta 1_ | DFT | [2] Pavlů 2009 | Table 2, p. 3, row 3; `ORC-4XXYGUIOLZ.cec150` |  |
+| Lattice c | 17.43 Å | 0 | C36; _alloy: Ta 1_ | DFT | [2] Pavlů 2009 | Table 2, p. 3, row 21; `ORC-BVGRL3EJF7.b264aa` |  |
+| Molar volume; _printed: V_ | 18.241 Å³/atom | 0 | bcc-Ta; _alloy: Ta 1_ | DFT | [8] Marker 2017 | Table 2, p. 13, row 1; `ORC-EHW2B6OZS5.11cc87` |  |
+| Molar volume; _printed: V_ | 18.313 Å³/atom | 0 | bcc-Ta; _alloy: Ta 1_ | DFT | [8] Marker 2017; _cites ref. 36_ | Table 2, p. 13, row 3; `ORC-H3CXC36SUB.40916f` |  |
+| Molar volume; _printed: V_ | 17.9685 Å³/atom |  | bcc-Ta; _alloy: Ta 1_ | experimental | [8] Marker 2017; _cites ref. 35_ | Table 2, p. 13, row 2; `ORC-JHB5YWPEUJ.19ee9e` |  |
+| lattice 2v atom | 3.724 10^7 pm^3 | 0 | C36; _alloy: Ta 1_ | DFT | [2] Pavlů 2009 | Table 2, p. 3, row 21; `ORC-BVGRL3EJF7.54b710` |  |
+| lattice unspecified axis; _printed: Lattice constant_ | 3.3031 Å |  | Pure Ta; _alloy: Ta 1_ | experimental | [10] Turchi 2005 | Table I, p. 5, row 1; `ORC-2KOZ7PZT7Q` |  |
+| lattice unspecified axis; _printed: Lattice constant_ | 3.2766 Å |  | Pure Ta; _alloy: Ta 1_ | unspecified | [10] Turchi 2005 | Table I, p. 5, row 8; `ORC-LBWJRR2ZOK` |  |
+| lattice unspecified axis; _printed: Lattice constant_ | 3.3098 Å |  | Pure Ta; _alloy: Ta 1_ | unspecified | [10] Turchi 2005 | Table I, p. 5, row 4; `ORC-VVAJHXFBIL` |  |
+| lattice v atom | 1.861 10^7 pm^3 | 0 | C14; _alloy: Ta 1_ | DFT | [2] Pavlů 2009 | Table 2, p. 3, row 3; `ORC-4XXYGUIOLZ.94268f` |  |
+| lattice v atom | 1.862 10^7 pm^3 | 0 | C15; _alloy: Ta 1_ | DFT | [2] Pavlů 2009 | Table 2, p. 3, row 12; `ORC-5I6LGBCPA4.4bf712` |  |
+| volume; _printed: V_ | 18.241 Å3/atom | 0 | bcc-Ta; _alloy: Ta 1_ | DFT | [8] Marker 2017 | Table 2, p. 13, row 1; `ORC-EHW2B6OZS5.ed3191` |  |
+| volume; _printed: V_ | 18.313 Å3/atom | 0 | bcc-Ta; _alloy: Ta 1_ | DFT | [8] Marker 2017; _cites ref. 36_ | Table 2, p. 13, row 3; `ORC-H3CXC36SUB.d206de` |  |
+| volume; _printed: V_ | 17.9685 Å3/atom |  | bcc-Ta; _alloy: Ta 1_ | experimental | [8] Marker 2017; _cites ref. 35_ | Table 2, p. 13, row 2; `ORC-JHB5YWPEUJ.5e269d` |  |
 
 ### Other property (6)
 
@@ -102,12 +102,12 @@ Table: Other property, Ta system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| bulk modulus; _printed: Bulk modulus_ | 196.1 GPa |  | Pure Ta; _alloy: Ta 1_ | experimental | [10] Turchi 2005 | Table I, p. 5, row 1 |  |
-| bulk modulus; _printed: Bulk modulus_ | 206.4 GPa |  | Pure Ta; _alloy: Ta 1_ | unspecified | [10] Turchi 2005 | Table I, p. 5, row 4 |  |
-| bulk modulus; _printed: Bulk modulus_ | 215.3 GPa |  | Pure Ta; _alloy: Ta 1_ | unspecified | [10] Turchi 2005 | Table I, p. 5, row 8 |  |
-| bulk modulus; _printed: B_ | 193.7 GPa | 0 | bcc-Ta; _alloy: Ta 1_ | DFT | [8] Marker 2017 | Table 2, p. 13, row 1 |  |
-| bulk modulus; _printed: B_ | 195.3 GPa | 0 | bcc-Ta; _alloy: Ta 1_ | DFT | [8] Marker 2017; _cites ref. 36_ | Table 2, p. 13, row 3 |  |
-| bulk modulus; _printed: B_ | 200 GPa |  | bcc-Ta; _alloy: Ta 1_ | experimental | [8] Marker 2017; _cites ref. 35_ | Table 2, p. 13, row 2 |  |
+| bulk modulus; _printed: Bulk modulus_ | 196.1 GPa |  | Pure Ta; _alloy: Ta 1_ | experimental | [10] Turchi 2005 | Table I, p. 5, row 1; `ORC-3ISIFSJV7L` |  |
+| bulk modulus; _printed: Bulk modulus_ | 206.4 GPa |  | Pure Ta; _alloy: Ta 1_ | unspecified | [10] Turchi 2005 | Table I, p. 5, row 4; `ORC-RT3JOYBTI5` |  |
+| bulk modulus; _printed: Bulk modulus_ | 215.3 GPa |  | Pure Ta; _alloy: Ta 1_ | unspecified | [10] Turchi 2005 | Table I, p. 5, row 8; `ORC-WECWOFTM7S` |  |
+| bulk modulus; _printed: B_ | 193.7 GPa | 0 | bcc-Ta; _alloy: Ta 1_ | DFT | [8] Marker 2017 | Table 2, p. 13, row 1; `ORC-EHW2B6OZS5.4f0a5d` |  |
+| bulk modulus; _printed: B_ | 195.3 GPa | 0 | bcc-Ta; _alloy: Ta 1_ | DFT | [8] Marker 2017; _cites ref. 36_ | Table 2, p. 13, row 3; `ORC-H3CXC36SUB.68956d` |  |
+| bulk modulus; _printed: B_ | 200 GPa |  | bcc-Ta; _alloy: Ta 1_ | experimental | [8] Marker 2017; _cites ref. 35_ | Table 2, p. 13, row 2; `ORC-JHB5YWPEUJ.8a227e` |  |
 
 ## Sources
 
@@ -159,4 +159,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

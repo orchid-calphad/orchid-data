@@ -61,34 +61,34 @@ Table: Invariant reactions reported in the literature for the Pd–Ti system (28
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1803 | liq. -> Pd3Ti | L: Ti 0.25; Pd3Ti: Pd 0.75, Ti 0.25 | model | [1] Guo 2011 | Table 3, p. 6, row 5 |  |
-| 1803 | liq. -> Pd3Ti | L: Ti 0.25; Pd3Ti: Pd 0.75, Ti 0.25 | experimental | [1] Guo 2011; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02652177) | Table 3, p. 6, row 6 |  |
-| 1753 | liq. + Pd3Ti -> fcc | L: Ti 0.2; Pd3Ti: Pd 0.75, Ti 0.25; fcc: Ti 0.22 | experimental | [1] Guo 2011; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02652177) | Table 3, p. 6, row 4 |  |
-| 1753 | liq. + Pd3Ti -> fcc | L: Ti 0.2079; Pd3Ti: Pd 0.75, Ti 0.25; fcc: Ti 0.2132 | model | [1] Guo 2011 | Table 3, p. 6, row 3 |  |
-| 1685 | liq. -> Pd2Ti | L: Ti 0.3433; Pd2Ti: Ti 0.3433 | model | [1] Guo 2011 | Table 3, p. 6, row 9 |  |
-| 1673 | liq. -> Pd3Ti + Pd2Ti | L: Ti 0.3227; Pd3Ti: Pd 0.75, Ti 0.25; Pd2Ti: Ti 0.3384 | model | [1] Guo 2011 | Table 3, p. 6, row 7 |  |
-| 1673 | liq. -> fcc | L: Ti 0.15; fcc: Ti 0.15 | experimental | [1] Guo 2011; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02652177) | Table 3, p. 6, row 2 |  |
-| 1673 | liq. -> fcc | L: Ti 0.0953; fcc: Ti 0.0953 | model | [1] Guo 2011 | Table 3, p. 6, row 1 |  |
-| 1673 | liq. -> βPdTi | L: Ti 0.5008; βPdTi: Ti 0.5008 | model | [1] Guo 2011 | Table 3, p. 6, row 14 |  |
-| 1673 | liq. -> Pd3Ti + Pd2Ti | L: Ti 0.35; Pd3Ti: Pd 0.75, Ti 0.25; Pd2Ti: Ti 0.333 | experimental | [1] Guo 2011; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02652177) | Table 3, p. 6, row 8 |  |
-| 1673 | liq. -> βPdTi | L: Ti 0.5; βPdTi: Ti 0.5 | experimental | [1] Guo 2011; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02652177) | Table 3, p. 6, row 15 |  |
-| 1603 | liq. + Pd2Ti -> Pd3Ti2 | L: Ti 0.4022; Pd2Ti: Ti 0.3657; Pd3Ti2: Pd 0.6, Ti 0.4 | model | [1] Guo 2011 | Table 3, p. 6, row 10 |  |
-| 1603 | liq. + Pd2Ti -> Pd3Ti2 | L: Ti 0.41; Pd2Ti: Ti 0.35; Pd3Ti2: Pd 0.6, Ti 0.4 | experimental | [1] Guo 2011; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02652177) | Table 3, p. 6, row 11 |  |
-| 1573 | liq. -> Pd3Ti2 + βPdTi | L: Ti 0.4277; Pd3Ti2: Pd 0.6, Ti 0.4; βPdTi: Ti 0.4439 | model | [1] Guo 2011 | Table 3, p. 6, row 12 |  |
-| 1573 | liq. -> Pd3Ti2 + βPdTi | L: Ti 0.42; Pd3Ti2: Pd 0.6, Ti 0.4; βPdTi: Ti 0.47 | experimental | [1] Guo 2011; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02652177) | Table 3, p. 6, row 13 |  |
-| 1393 | liq. -> bcc | L: Ti 0.6805; bcc: Ti 0.6805 | model | [1] Guo 2011 | Table 3, p. 6, row 16 |  |
-| 1393 | liq. -> bcc | L: Ti 0.68; bcc: Ti 0.68 | experimental | [1] Guo 2011; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02652177) | Table 3, p. 6, row 17 |  |
-| 1233 | βPdTi -> PdTi2 | βPdTi: Ti 0.667; PdTi2: Pd 0.333333, Ti 0.666667 | experimental | [1] Guo 2011; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02652177) | Table 3, p. 6, row 19 |  |
-| 1233 | βPdTi -> PdTi2 | βPdTi: Ti 0.6667; PdTi2: Pd 0.333333, Ti 0.666667 | model | [1] Guo 2011 | Table 3, p. 6, row 18 |  |
-| 963 | bcc + PdTi2 -> PdTi3 | bcc: Ti 0.8545; PdTi2: Pd 0.333333, Ti 0.666667; PdTi3: Pd 0.25, Ti 0.75 | model | [1] Guo 2011 | Table 3, p. 6, row 20 |  |
-| 963 | bcc + PdTi2 -> PdTi3 | bcc: Ti 0.88; PdTi2: Pd 0.333333, Ti 0.666667; PdTi3: Pd 0.25, Ti 0.75 | experimental | [1] Guo 2011; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02652177) | Table 3, p. 6, row 21 |  |
-| 868 | bcc -> PdTi3 + hcp | bcc: Ti 0.911; PdTi3: Pd 0.25, Ti 0.75; hcp: Ti 0.9716 | model | [1] Guo 2011 | Table 3, p. 6, row 22 |  |
-| 868 | bcc -> PdTi3 + hcp | bcc: Ti 0.9; PdTi3: Pd 0.25, Ti 0.75; hcp: Ti 0.99 | experimental | [1] Guo 2011; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02652177) | Table 3, p. 6, row 23 |  |
-| 813 | βPdTi -> αPdTi | βPdTi: Ti 0.4983; αPdTi: Ti 0.4983 | model | [1] Guo 2011 | Table 3, p. 6, row 24 |  |
-| 793 | βPdTi -> Pd3Ti2 + αPdTi | βPdTi: Ti 0.4831; Pd3Ti2: Pd 0.6, Ti 0.4; αPdTi: Ti 0.4875 | model | [1] Guo 2011 | Table 3, p. 6, row 25 |  |
-| 793 | βPdTi -> Pd3Ti2 + αPdTi | βPdTi: Pd 0.5, Ti 0.5; Pd3Ti2: Pd 0.6, Ti 0.4; αPdTi: Pd 0.5, Ti 0.5 | experimental | [1] Guo 2011; _cites Raub 1968_ | Table 3, p. 6, row 26 |  |
-| 783 | βPdTi -> αPdTi + PdTi2 | βPdTi: Pd 0.5, Ti 0.5; αPdTi: Pd 0.5, Ti 0.5; PdTi2: Pd 0.333333, Ti 0.666667 | experimental | [1] Guo 2011; _cites Raub 1968_ | Table 3, p. 6, row 28 |  |
-| 783 | βPdTi -> αPdTi + PdTi2 | βPdTi: Ti 0.5179; αPdTi: Ti 0.5128; PdTi2: Pd 0.333333, Ti 0.666667 | model | [1] Guo 2011 | Table 3, p. 6, row 27 |  |
+| 1803 | liq. -> Pd3Ti | L: Ti 0.25; Pd3Ti: Pd 0.75, Ti 0.25 | model | [1] Guo 2011 | Table 3, p. 6, row 5; `ORC-NIVM5XIAYO` |  |
+| 1803 | liq. -> Pd3Ti | L: Ti 0.25; Pd3Ti: Pd 0.75, Ti 0.25 | experimental | [1] Guo 2011; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02652177) | Table 3, p. 6, row 6; `ORC-TO4AE3MPGD` |  |
+| 1753 | liq. + Pd3Ti -> fcc | L: Ti 0.2; Pd3Ti: Pd 0.75, Ti 0.25; fcc: Ti 0.22 | experimental | [1] Guo 2011; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02652177) | Table 3, p. 6, row 4; `ORC-6I3HKKPBIB` |  |
+| 1753 | liq. + Pd3Ti -> fcc | L: Ti 0.2079; Pd3Ti: Pd 0.75, Ti 0.25; fcc: Ti 0.2132 | model | [1] Guo 2011 | Table 3, p. 6, row 3; `ORC-D66UVJSKMU` |  |
+| 1685 | liq. -> Pd2Ti | L: Ti 0.3433; Pd2Ti: Ti 0.3433 | model | [1] Guo 2011 | Table 3, p. 6, row 9; `ORC-CRM6JXAQH7` |  |
+| 1673 | liq. -> Pd3Ti + Pd2Ti | L: Ti 0.3227; Pd3Ti: Pd 0.75, Ti 0.25; Pd2Ti: Ti 0.3384 | model | [1] Guo 2011 | Table 3, p. 6, row 7; `ORC-4CL5IV7HR4` |  |
+| 1673 | liq. -> fcc | L: Ti 0.15; fcc: Ti 0.15 | experimental | [1] Guo 2011; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02652177) | Table 3, p. 6, row 2; `ORC-CZ2AHL5GME` |  |
+| 1673 | liq. -> fcc | L: Ti 0.0953; fcc: Ti 0.0953 | model | [1] Guo 2011 | Table 3, p. 6, row 1; `ORC-EMFOXBCY7Z` |  |
+| 1673 | liq. -> βPdTi | L: Ti 0.5008; βPdTi: Ti 0.5008 | model | [1] Guo 2011 | Table 3, p. 6, row 14; `ORC-G4BHJMZJNU` |  |
+| 1673 | liq. -> Pd3Ti + Pd2Ti | L: Ti 0.35; Pd3Ti: Pd 0.75, Ti 0.25; Pd2Ti: Ti 0.333 | experimental | [1] Guo 2011; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02652177) | Table 3, p. 6, row 8; `ORC-V5WGWC7DU6` |  |
+| 1673 | liq. -> βPdTi | L: Ti 0.5; βPdTi: Ti 0.5 | experimental | [1] Guo 2011; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02652177) | Table 3, p. 6, row 15; `ORC-YNBOK5LT6M` |  |
+| 1603 | liq. + Pd2Ti -> Pd3Ti2 | L: Ti 0.4022; Pd2Ti: Ti 0.3657; Pd3Ti2: Pd 0.6, Ti 0.4 | model | [1] Guo 2011 | Table 3, p. 6, row 10; `ORC-6NZIQW5YNT` |  |
+| 1603 | liq. + Pd2Ti -> Pd3Ti2 | L: Ti 0.41; Pd2Ti: Ti 0.35; Pd3Ti2: Pd 0.6, Ti 0.4 | experimental | [1] Guo 2011; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02652177) | Table 3, p. 6, row 11; `ORC-RIEM7QSELG` |  |
+| 1573 | liq. -> Pd3Ti2 + βPdTi | L: Ti 0.4277; Pd3Ti2: Pd 0.6, Ti 0.4; βPdTi: Ti 0.4439 | model | [1] Guo 2011 | Table 3, p. 6, row 12; `ORC-G6CXD2667H` |  |
+| 1573 | liq. -> Pd3Ti2 + βPdTi | L: Ti 0.42; Pd3Ti2: Pd 0.6, Ti 0.4; βPdTi: Ti 0.47 | experimental | [1] Guo 2011; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02652177) | Table 3, p. 6, row 13; `ORC-HKMNQMF66W` |  |
+| 1393 | liq. -> bcc | L: Ti 0.6805; bcc: Ti 0.6805 | model | [1] Guo 2011 | Table 3, p. 6, row 16; `ORC-TQBAZVBSPY` |  |
+| 1393 | liq. -> bcc | L: Ti 0.68; bcc: Ti 0.68 | experimental | [1] Guo 2011; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02652177) | Table 3, p. 6, row 17; `ORC-VKX4IKEQWS` |  |
+| 1233 | βPdTi -> PdTi2 | βPdTi: Ti 0.667; PdTi2: Pd 0.333333, Ti 0.666667 | experimental | [1] Guo 2011; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02652177) | Table 3, p. 6, row 19; `ORC-ACAMZCSYR4` |  |
+| 1233 | βPdTi -> PdTi2 | βPdTi: Ti 0.6667; PdTi2: Pd 0.333333, Ti 0.666667 | model | [1] Guo 2011 | Table 3, p. 6, row 18; `ORC-RONB2GHSRK` |  |
+| 963 | bcc + PdTi2 -> PdTi3 | bcc: Ti 0.8545; PdTi2: Pd 0.333333, Ti 0.666667; PdTi3: Pd 0.25, Ti 0.75 | model | [1] Guo 2011 | Table 3, p. 6, row 20; `ORC-DRAO6KSE4Q` |  |
+| 963 | bcc + PdTi2 -> PdTi3 | bcc: Ti 0.88; PdTi2: Pd 0.333333, Ti 0.666667; PdTi3: Pd 0.25, Ti 0.75 | experimental | [1] Guo 2011; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02652177) | Table 3, p. 6, row 21; `ORC-RFGZ3XFQMB` |  |
+| 868 | bcc -> PdTi3 + hcp | bcc: Ti 0.911; PdTi3: Pd 0.25, Ti 0.75; hcp: Ti 0.9716 | model | [1] Guo 2011 | Table 3, p. 6, row 22; `ORC-EKYTETVCNK` |  |
+| 868 | bcc -> PdTi3 + hcp | bcc: Ti 0.9; PdTi3: Pd 0.25, Ti 0.75; hcp: Ti 0.99 | experimental | [1] Guo 2011; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02652177) | Table 3, p. 6, row 23; `ORC-VB4M53OTUQ` |  |
+| 813 | βPdTi -> αPdTi | βPdTi: Ti 0.4983; αPdTi: Ti 0.4983 | model | [1] Guo 2011 | Table 3, p. 6, row 24; `ORC-VAUHCV3KHI` |  |
+| 793 | βPdTi -> Pd3Ti2 + αPdTi | βPdTi: Ti 0.4831; Pd3Ti2: Pd 0.6, Ti 0.4; αPdTi: Ti 0.4875 | model | [1] Guo 2011 | Table 3, p. 6, row 25; `ORC-5AKQJ2OKDP` |  |
+| 793 | βPdTi -> Pd3Ti2 + αPdTi | βPdTi: Pd 0.5, Ti 0.5; Pd3Ti2: Pd 0.6, Ti 0.4; αPdTi: Pd 0.5, Ti 0.5 | experimental | [1] Guo 2011; _cites Raub 1968_ | Table 3, p. 6, row 26; `ORC-H44JOWNFZK` |  |
+| 783 | βPdTi -> αPdTi + PdTi2 | βPdTi: Pd 0.5, Ti 0.5; αPdTi: Pd 0.5, Ti 0.5; PdTi2: Pd 0.333333, Ti 0.666667 | experimental | [1] Guo 2011; _cites Raub 1968_ | Table 3, p. 6, row 28; `ORC-OVMCG44KVM` |  |
+| 783 | βPdTi -> αPdTi + PdTi2 | βPdTi: Ti 0.5179; αPdTi: Ti 0.5128; PdTi2: Pd 0.333333, Ti 0.666667 | model | [1] Guo 2011 | Table 3, p. 6, row 27; `ORC-QSXOBBWCCG` |  |
 
 ## Sources
 
@@ -153,4 +153,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

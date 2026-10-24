@@ -26,20 +26,20 @@ Table: Invariant reactions reported in the literature for the As–Fe–In syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1269 | other: L1 \<-> L2 + AsFe + As2Fe | L: Fe 0.073, In 0.272 | model | [1] Ohno 2009 | Table 4, p. 4, row 14 |  |
-| 1269 | L1 -> L2 + AsFe + As2Fe | L: Fe 0.381, In 0.03 | model | [1] Ohno 2009 | Table 4, p. 4, row 4 |  |
-| 1228 | quasi-peritectic: L1 + AsFe \<-> L2 + AsFe2 | L: Fe 0.011, In 0.747 | model | [1] Ohno 2009 | Table 4, p. 4, row 15 |  |
-| 1228 | quasi-peritectic: L1 + AsFe -> L2 + AsFe2 | L: Fe 0.586, In 0.016 | model | [1] Ohno 2009 | Table 4, p. 4, row 5 |  |
-| 1205 | L -> AsFe + InAs | L: Fe 0.015, In 0.485 | model | [1] Ohno 2009 | Table 4, p. 4, row 6 |  |
-| 1205 | eutectic: L $ AsFe þ InAs |  | model | [1] Ohno 2009 | p. 3 | “The calculated result demonstrates that in this section, the eutectic reaction L $ AsFe þ InAs occurs at 1205 K.” |
-| 1203 | quasi-peritectic: L + AsFe -> As2Fe + InAs | L: Fe 0.018, In 0.435 | model | [1] Ohno 2009 | Table 4, p. 4, row 7 |  |
-| 1174 | L1 -> L2 + As2Fe3 + AsFe2 | L: Fe 0.646, In 0.011 | model | [1] Ohno 2009 | Table 4, p. 4, row 9 |  |
-| 1174 | other: L1 \<-> L2 + As2Fe3 + AsFe2 | L: Fe 0.006, In 0.881 | model | [1] Ohno 2009 | Table 4, p. 4, row 16 |  |
-| 1117 | L1 -> L2 + (δFe) + AsFe2 | L: Fe 0.745, In 0.008 | model | [1] Ohno 2009 | Table 4, p. 4, row 10 |  |
-| 1117 | other: L1 \<-> L2 + (δFe) + AsFe2 | L: Fe 0.006, In 0.983 | model | [1] Ohno 2009 | Table 4, p. 4, row 17 |  |
-| 1095 | quasi-peritectic: L + As2Fe3 -> AsFe + AsFe2 | L: Fe 0.003, In 0.878 | model | [1] Ohno 2009 | Table 4, p. 4, row 11 |  |
-| 1004 | eutectic: L -> As2Fe + αAs + InAs | L: Fe 0.002, In 0.141 | model | [1] Ohno 2009 | Table 4, p. 4, row 12 |  |
-| 717 | quasi-peritectic: L + AsFe -> InAs + AsFe2 | L: In 0.993 | model | [1] Ohno 2009 | Table 4, p. 4, row 13 |  |
+| 1269 | other: L1 \<-> L2 + AsFe + As2Fe | L: Fe 0.073, In 0.272 | model | [1] Ohno 2009 | Table 4, p. 4, row 14; `ORC-FGIPXFWS3A` |  |
+| 1269 | L1 -> L2 + AsFe + As2Fe | L: Fe 0.381, In 0.03 | model | [1] Ohno 2009 | Table 4, p. 4, row 4; `ORC-II3RWZSJZA` |  |
+| 1228 | quasi-peritectic: L1 + AsFe \<-> L2 + AsFe2 | L: Fe 0.011, In 0.747 | model | [1] Ohno 2009 | Table 4, p. 4, row 15; `ORC-46N66LKOGD` |  |
+| 1228 | quasi-peritectic: L1 + AsFe -> L2 + AsFe2 | L: Fe 0.586, In 0.016 | model | [1] Ohno 2009 | Table 4, p. 4, row 5; `ORC-STWMETHSHF` |  |
+| 1205 | L -> AsFe + InAs | L: Fe 0.015, In 0.485 | model | [1] Ohno 2009 | Table 4, p. 4, row 6; `ORC-AVLS3AD362` |  |
+| 1205 | eutectic: L $ AsFe þ InAs |  | model | [1] Ohno 2009 | p. 3; `ORC-RTENDCJUG7` | “The calculated result demonstrates that in this section, the eutectic reaction L $ AsFe þ InAs occurs at 1205 K.” |
+| 1203 | quasi-peritectic: L + AsFe -> As2Fe + InAs | L: Fe 0.018, In 0.435 | model | [1] Ohno 2009 | Table 4, p. 4, row 7; `ORC-7H5DMLPGIG` |  |
+| 1174 | L1 -> L2 + As2Fe3 + AsFe2 | L: Fe 0.646, In 0.011 | model | [1] Ohno 2009 | Table 4, p. 4, row 9; `ORC-5URGQRPYLL` |  |
+| 1174 | other: L1 \<-> L2 + As2Fe3 + AsFe2 | L: Fe 0.006, In 0.881 | model | [1] Ohno 2009 | Table 4, p. 4, row 16; `ORC-Y7TKF7JMDP` |  |
+| 1117 | L1 -> L2 + (δFe) + AsFe2 | L: Fe 0.745, In 0.008 | model | [1] Ohno 2009 | Table 4, p. 4, row 10; `ORC-2ES44QT3AT` |  |
+| 1117 | other: L1 \<-> L2 + (δFe) + AsFe2 | L: Fe 0.006, In 0.983 | model | [1] Ohno 2009 | Table 4, p. 4, row 17; `ORC-7JAT6O6UUW` |  |
+| 1095 | quasi-peritectic: L + As2Fe3 -> AsFe + AsFe2 | L: Fe 0.003, In 0.878 | model | [1] Ohno 2009 | Table 4, p. 4, row 11; `ORC-VL2MPU4FD4` |  |
+| 1004 | eutectic: L -> As2Fe + αAs + InAs | L: Fe 0.002, In 0.141 | model | [1] Ohno 2009 | Table 4, p. 4, row 12; `ORC-7NBNB6ZMV7` |  |
+| 717 | quasi-peritectic: L + AsFe -> InAs + AsFe2 | L: In 0.993 | model | [1] Ohno 2009 | Table 4, p. 4, row 13; `ORC-2CA272WSRV` |  |
 
 ## Sources
 
@@ -82,4 +82,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -56,20 +56,20 @@ Table: Invariant reactions reported in the literature for the Pb–Zn system (14
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 691.1 | L2 -> (Zn) + L1 | L2: Zn 0.997; L1: Zn 0.049 | model | [1] Srivastava 1993 | Table 3, p. 7, row 13 |  |
-| 691 | L2 -> (Zn) + L1 | L2: Zn 0.998; L1: Zn 0.1004 | experimental | [1] Srivastava 1993; _cites ref. 14_ | Table 3, p. 7, row 10 |  |
-| 691 | L2 -> (Zn) + L1 | L2: Zn 0.9973; L1: Zn 0.052 | experimental | [1] Srivastava 1993; _cites ref. 54_ | Table 3, p. 7, row 12 |  |
-| 690.8 | L2 -> (Zn) + L1 | L2: Zn 0.997; L1: Zn 0.06 | experimental | [1] Srivastava 1993; _cites ref. 49_ | Table 3, p. 7, row 11 |  |
-| 591.35 | L1 -> (Zn) + (Pb) | L1: Zn 0.018 | experimental | [1] Srivastava 1993; _cites ref. 54_ | Table 3, p. 7, row 7 |  |
-| 591.2 | L1 -> (Zn) + (Pb) | L1: Zn 0.016 | experimental | [1] Srivastava 1993; _cites ref. 53_ | Table 3, p. 7, row 4 |  |
-| 591.2 | L1 -> (Zn) + (Pb) |  | experimental | [1] Srivastava 1993; _cites ref. 49_ | Table 3, p. 7, row 5 |  |
-| 591 | L1 -> (Zn) + (Pb) | L1: Zn 0.016 | experimental | [1] Srivastava 1993; _cites ref. 15_ | Table 3, p. 7, row 6 |  |
-| 591 | L1 -> (Zn) + (Pb) | L1: Zn 0.022 | experimental | [1] Srivastava 1993; _cites ref. 3_ | Table 3, p. 7, row 1 |  |
-| 590.22 | L1 -> (Zn) + (Pb) | L1: Zn 0.0175 | model | [1] Srivastava 1993 | Table 3, p. 7, row 8 |  |
-| 590 | L1 -> (Zn) + (Pb) | L1: Zn 0.037 | experimental | [1] Srivastava 1993; _cites ref. 14_ | Table 3, p. 7, row 2 |  |
-| 589 | L1 -> (Zn) + (Pb) |  | experimental | [1] Srivastava 1993; _cites ref. 52_ | Table 3, p. 7, row 3 |  |
-| 450 | eutectic |  | experimental | [1] Srivastava 1993; _cites ref. 66_ | p. 9 | “The calculated ternary eutectic is at 440.7 K and Xpb = 0.212, Xzn = 0.062, whereas Levi-Malvano and Ceccarelli 66 give the ternary eutectic at 450 K and Xeb = 0.155, Xzn --- 0.078.” |
-| 440.7 | eutectic |  | model | [1] Srivastava 1993 | p. 9 | “The calculated ternary eutectic is at 440.7 K and Xpb = 0.212, Xzn = 0.062, whereas Levi-Malvano and Ceccarelli 66 give the ternary eutectic at 450 K and Xeb = 0.155, Xzn --- 0.078.” |
+| 691.1 | L2 -> (Zn) + L1 | L2: Zn 0.997; L1: Zn 0.049 | model | [1] Srivastava 1993 | Table 3, p. 7, row 13; `ORC-O63LJV6KUN` |  |
+| 691 | L2 -> (Zn) + L1 | L2: Zn 0.998; L1: Zn 0.1004 | experimental | [1] Srivastava 1993; _cites ref. 14_ | Table 3, p. 7, row 10; `ORC-4LZEZQ3MMK` |  |
+| 691 | L2 -> (Zn) + L1 | L2: Zn 0.9973; L1: Zn 0.052 | experimental | [1] Srivastava 1993; _cites ref. 54_ | Table 3, p. 7, row 12; `ORC-UTY564KIA3` |  |
+| 690.8 | L2 -> (Zn) + L1 | L2: Zn 0.997; L1: Zn 0.06 | experimental | [1] Srivastava 1993; _cites ref. 49_ | Table 3, p. 7, row 11; `ORC-D32CRQPBRB` |  |
+| 591.35 | L1 -> (Zn) + (Pb) | L1: Zn 0.018 | experimental | [1] Srivastava 1993; _cites ref. 54_ | Table 3, p. 7, row 7; `ORC-3TINIWTKOX` |  |
+| 591.2 | L1 -> (Zn) + (Pb) | L1: Zn 0.016 | experimental | [1] Srivastava 1993; _cites ref. 53_ | Table 3, p. 7, row 4; `ORC-JLTKCSHGFA` |  |
+| 591.2 | L1 -> (Zn) + (Pb) |  | experimental | [1] Srivastava 1993; _cites ref. 49_ | Table 3, p. 7, row 5; `ORC-ZJQXIAR6AH` |  |
+| 591 | L1 -> (Zn) + (Pb) | L1: Zn 0.016 | experimental | [1] Srivastava 1993; _cites ref. 15_ | Table 3, p. 7, row 6; `ORC-I5UTHPHYTO` |  |
+| 591 | L1 -> (Zn) + (Pb) | L1: Zn 0.022 | experimental | [1] Srivastava 1993; _cites ref. 3_ | Table 3, p. 7, row 1; `ORC-JR2S56HTCY` |  |
+| 590.22 | L1 -> (Zn) + (Pb) | L1: Zn 0.0175 | model | [1] Srivastava 1993 | Table 3, p. 7, row 8; `ORC-7FUVMFMCBI` |  |
+| 590 | L1 -> (Zn) + (Pb) | L1: Zn 0.037 | experimental | [1] Srivastava 1993; _cites ref. 14_ | Table 3, p. 7, row 2; `ORC-6JTPVUQSZL` |  |
+| 589 | L1 -> (Zn) + (Pb) |  | experimental | [1] Srivastava 1993; _cites ref. 52_ | Table 3, p. 7, row 3; `ORC-RA657XZE6I` |  |
+| 450 | eutectic |  | experimental | [1] Srivastava 1993; _cites ref. 66_ | p. 9; `ORC-2AQ3HFYG42.a53696` | “The calculated ternary eutectic is at 440.7 K and Xpb = 0.212, Xzn = 0.062, whereas Levi-Malvano and Ceccarelli 66 give the ternary eutectic at 450 K and Xeb = 0.155, Xzn --- 0.078.” |
+| 440.7 | eutectic |  | model | [1] Srivastava 1993 | p. 9; `ORC-2AQ3HFYG42.89488f` | “The calculated ternary eutectic is at 440.7 K and Xpb = 0.212, Xzn = 0.062, whereas Levi-Malvano and Ceccarelli 66 give the ternary eutectic at 450 K and Xeb = 0.155, Xzn --- 0.078.” |
 
 ## Sources
 
@@ -134,4 +134,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

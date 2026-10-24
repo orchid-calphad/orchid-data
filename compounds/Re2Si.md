@@ -14,16 +14,16 @@ Table: Enthalpy of formation of Re2Si reported in the literature (10)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -20 kJ/mol-atom | Re2Si | 298.15 | experimental | Elemental effusion | [Re–Si](https://data.orchid-project.org/systems/RE-SI.html) | [1] Shao 2001; _cites Searcy 1953_ [doi](https://doi.org/10.1021/ja01103a017) | Table 1, p. 3, row 1 |  |
-| -20 kJ/mol-atom | Re2Si | 298.15 | experimental | Elemental effusion | [Re–Si](https://data.orchid-project.org/systems/RE-SI.html) | [2] Yang 2010; _cites Searcy 1962_ | Table 2, p. 3, row 1 |  |
-| -12.7 kJ/mol-atom ± 2.5 | Re2Si | 298.15 | experimental | Calorimetry | [Re–Si](https://data.orchid-project.org/systems/RE-SI.html) | [2] Yang 2010; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900747-6) | Table 2, p. 3, row 4 |  |
-| -27 kJ/mol-atom | Re2Si |  | model | Estimation | [Re–Si](https://data.orchid-project.org/systems/RE-SI.html) | [1] Shao 2001; _cites de Boer FR 1989_ | Table 1, p. 3, row 3 |  |
-| -22.7 kJ/mol-atom | Re2Si |  | model | Assessment | [Re–Si](https://data.orchid-project.org/systems/RE-SI.html) | [2] Yang 2010; _cites Shao 2001_ [doi](https://doi.org/10.1016/s0966-9795%2801%2900110-8) | Table 2, p. 3, row 5 |  |
-| -22.7 kJ/mol-atom | Re2Si |  | model | Assessment | [Re–Si](https://data.orchid-project.org/systems/RE-SI.html) | [1] Shao 2001 | Table 1, p. 3, row 4 |  |
-| -22 kJ/mol-atom | Re2Si |  | model | Estimation | [Re–Si](https://data.orchid-project.org/systems/RE-SI.html) | [2] Yang 2010; _cites Boer 1989_ | Table 2, p. 3, row 3 |  |
-| -19.7 kJ/mol-atom | Re2Si |  | model | Assessment | [Re–Si](https://data.orchid-project.org/systems/RE-SI.html) | [1] Shao 2001; _cites Chart 1973_ | Table 1, p. 3, row 2 |  |
-| -19.7 kJ/mol-atom | Re2Si |  | model | Assessment | [Re–Si](https://data.orchid-project.org/systems/RE-SI.html) | [2] Yang 2010; _cites Chart 1973_ | Table 2, p. 3, row 2 |  |
-| -19.367 kJ/mol-atom | Re2Si |  | model | This work | [Re–Si](https://data.orchid-project.org/systems/RE-SI.html) | [2] Yang 2010 | Table 2, p. 3, row 6 |  |
+| -20 kJ/mol-atom | Re2Si | 298.15 | experimental | Elemental effusion | [Re–Si](https://data.orchid-project.org/systems/RE-SI.html) | [1] Shao 2001; _cites Searcy 1953_ [doi](https://doi.org/10.1021/ja01103a017) | Table 1, p. 3, row 1; `ORC-BEDS4AL56C` |  |
+| -20 kJ/mol-atom | Re2Si | 298.15 | experimental | Elemental effusion | [Re–Si](https://data.orchid-project.org/systems/RE-SI.html) | [2] Yang 2010; _cites Searcy 1962_ | Table 2, p. 3, row 1; `ORC-TGOMFDVI6F` |  |
+| -12.7 kJ/mol-atom ± 2.5 | Re2Si | 298.15 | experimental | Calorimetry | [Re–Si](https://data.orchid-project.org/systems/RE-SI.html) | [2] Yang 2010; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900747-6) | Table 2, p. 3, row 4; `ORC-VN47E3AARD.9cef4e` |  |
+| -27 kJ/mol-atom | Re2Si |  | model | Estimation | [Re–Si](https://data.orchid-project.org/systems/RE-SI.html) | [1] Shao 2001; _cites de Boer FR 1989_ | Table 1, p. 3, row 3; `ORC-RPBIKNDS4Q` |  |
+| -22.7 kJ/mol-atom | Re2Si |  | model | Assessment | [Re–Si](https://data.orchid-project.org/systems/RE-SI.html) | [2] Yang 2010; _cites Shao 2001_ [doi](https://doi.org/10.1016/s0966-9795%2801%2900110-8) | Table 2, p. 3, row 5; `ORC-FLO5GRSVGD` |  |
+| -22.7 kJ/mol-atom | Re2Si |  | model | Assessment | [Re–Si](https://data.orchid-project.org/systems/RE-SI.html) | [1] Shao 2001 | Table 1, p. 3, row 4; `ORC-HSMQUVTRQ5` |  |
+| -22 kJ/mol-atom | Re2Si |  | model | Estimation | [Re–Si](https://data.orchid-project.org/systems/RE-SI.html) | [2] Yang 2010; _cites Boer 1989_ | Table 2, p. 3, row 3; `ORC-LUJ7XZ7YH3` |  |
+| -19.7 kJ/mol-atom | Re2Si |  | model | Assessment | [Re–Si](https://data.orchid-project.org/systems/RE-SI.html) | [1] Shao 2001; _cites Chart 1973_ | Table 1, p. 3, row 2; `ORC-B5HZQXACR2` |  |
+| -19.7 kJ/mol-atom | Re2Si |  | model | Assessment | [Re–Si](https://data.orchid-project.org/systems/RE-SI.html) | [2] Yang 2010; _cites Chart 1973_ | Table 2, p. 3, row 2; `ORC-QRHLTLQTBM` |  |
+| -19.367 kJ/mol-atom | Re2Si |  | model | This work | [Re–Si](https://data.orchid-project.org/systems/RE-SI.html) | [2] Yang 2010 | Table 2, p. 3, row 6; `ORC-2QS3QXVB7F` |  |
 
 ### Uncertainty budget
 
@@ -109,4 +109,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

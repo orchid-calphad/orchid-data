@@ -62,27 +62,27 @@ Table: Invariant reactions reported in the literature for the Ge–Pt system (21
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1224 | peritectic: L + Fcc(Pt) -> GePt3 | L: Pt 0.715; GePt3: Pt 0.75 | experimental | [1] Wang 2009; _cites Kresse 1996_ [doi](https://doi.org/10.1103/physrevb.54.11169) | Table 3, p. 6, row 22 |  |
-| 1224 | peritectic: L+(Pt) ↔ GePt3 |  | experimental | [1] Wang 2009; _cites Oya 1987_ | p. 2 | “Moreover, according to Oya and Suzuki \[14\], GePt3 formed via a peritectic reaction, L+(Pt) ↔ GePt3 at 1224 K, with a homogeneity of 22-24 at.% Ge, which was in accordance with the result obtained by Ellner and Predel \[15\].” |
-| 1223 | peritectic: L + Fcc(Pt) -> GePt3 | L: Pt 0.7326; GePt3: Pt 0.75 | model | [1] Wang 2009 | Table 3, p. 6, row 23 |  |
-| 1188 | peritectic: L + Fcc(Pt) -> GePt3 | L: Pt 0.749; GePt3: Pt 0.75 | experimental | [1] Wang 2009; _cites Diaz 2005_ [doi](https://doi.org/10.1016/j.molcata.2004.09.050) | Table 3, p. 6, row 21 |  |
-| 1173 | peritectic: L + GePt -> Ge3Pt2 | L: Pt 0.371; GePt: Pt 0.5; Ge3Pt2: Pt 0.4 | experimental | [1] Wang 2009; _cites Diaz 2005_ [doi](https://doi.org/10.1016/j.molcata.2004.09.050) | Table 3, p. 6, row 7 |  |
-| 1152 | peritectic: L + GePt -> Ge3Pt2 | L: Pt 0.36; GePt: Pt 0.5; Ge3Pt2: Pt 0.4 | experimental | [1] Wang 2009; _cites Kresse 1996_ [doi](https://doi.org/10.1103/physrevb.54.11169) | Table 3, p. 6, row 8 |  |
-| 1151 | peritectic: L + GePt -> Ge3Pt2 | L: Pt 0.3633; GePt: Pt 0.5; Ge3Pt2: Pt 0.4 | model | [1] Wang 2009 | Table 3, p. 6, row 9 |  |
-| 1128 | peritectic: L + Ge3Pt2 -> Ge2Pt | L: Pt 0.319; Ge3Pt2: Pt 0.4; Ge2Pt: Pt 0.333333 | experimental | [1] Wang 2009; _cites Diaz 2005_ [doi](https://doi.org/10.1016/j.molcata.2004.09.050) | Table 3, p. 6, row 4 |  |
-| 1102 | peritectic: L + Ge3Pt2 -> Ge2Pt | L: Pt 0.3018; Ge3Pt2: Pt 0.4; Ge2Pt: Pt 0.333333 | model | [1] Wang 2009 | Table 3, p. 6, row 6 |  |
-| 1101 | peritectic: L + Ge3Pt2 -> Ge2Pt | L: Pt 0.275; Ge3Pt2: Pt 0.4; Ge2Pt: Pt 0.333333 | experimental | [1] Wang 2009; _cites Kresse 1996_ [doi](https://doi.org/10.1103/physrevb.54.11169) | Table 3, p. 6, row 5 |  |
-| 1093 | peritectic: L + GePt -> Ge2Pt3 | L: Pt 0.631; GePt: Pt 0.5; Ge2Pt3: Pt 0.6 | experimental | [1] Wang 2009; _cites Diaz 2005_ [doi](https://doi.org/10.1016/j.molcata.2004.09.050) | Table 3, p. 6, row 13 |  |
-| 1080 | peritectic: L + GePt -> Ge2Pt3 | L: Pt 0.626; GePt: Pt 0.5; Ge2Pt3: Pt 0.6 | experimental | [1] Wang 2009; _cites Kresse 1996_ [doi](https://doi.org/10.1103/physrevb.54.11169) | Table 3, p. 6, row 14 |  |
-| 1076 | peritectic: L + GePt -> Ge2Pt3 | L: Pt 0.6432; GePt: Pt 0.5; Ge2Pt3: Pt 0.6 | model | [1] Wang 2009 | Table 3, p. 6, row 15 |  |
-| 1075 | eutectic: L -> (Ge) + Ge2Pt | L: Pt 0.22; (Ge): Pt 0; Ge2Pt: Pt 0.333333 | experimental | [1] Wang 2009; _cites Diaz 2005_ [doi](https://doi.org/10.1016/j.molcata.2004.09.050) | Table 3, p. 6, row 1 |  |
-| 1068 | peritectic: L + GePt3 -> Ge2Pt3 | L: Pt 0.65; GePt3: Pt 0.75; Ge2Pt3: Pt 0.6 | experimental | [1] Wang 2009; _cites Kresse 1996_ [doi](https://doi.org/10.1103/physrevb.54.11169) | Table 3, p. 6, row 19 |  |
-| 1065 | eutectic: L -> Ge2Pt3 + GePt2 | L: Pt 0.646; Ge2Pt3: Pt 0.6; GePt2: Pt 0.666667 | experimental | [1] Wang 2009; _cites Diaz 2005_ [doi](https://doi.org/10.1016/j.molcata.2004.09.050) | Table 3, p. 6, row 16 |  |
-| 1064 | eutectic: L -> Ge2Pt3 + GePt2 | L: Pt 0.6525; Ge2Pt3: Pt 0.6; GePt2: Pt 0.666667 | model | [1] Wang 2009 | Table 3, p. 6, row 18 |  |
-| 1064 | peritectic: L + GePt3 -> Ge2Pt3 | L: Pt 0.6525; GePt3: Pt 0.75; Ge2Pt3: Pt 0.6 | model | [1] Wang 2009 | Table 3, p. 6, row 20 |  |
-| 1056 | eutectic: L -> Ge2Pt3 + GePt2 | L: Pt 0.635; Ge2Pt3: Pt 0.6; GePt2: Pt 0.666667 | experimental | [1] Wang 2009; _cites Kresse 1996_ [doi](https://doi.org/10.1103/physrevb.54.11169) | Table 3, p. 6, row 17 |  |
-| 1052 | eutectic: L -> (Ge) + Ge2Pt | L: Pt 0.2195; (Ge): Pt 0; Ge2Pt: Pt 0.333333 | model | [1] Wang 2009 | Table 3, p. 6, row 3 |  |
-| 1043 | eutectic: L -> (Ge) + Ge2Pt | L: Pt 0.22; (Ge): Pt 0; Ge2Pt: Pt 0.333333 | experimental | [1] Wang 2009; _cites Kresse 1996_ [doi](https://doi.org/10.1103/physrevb.54.11169) | Table 3, p. 6, row 2 |  |
+| 1224 | peritectic: L + Fcc(Pt) -> GePt3 | L: Pt 0.715; GePt3: Pt 0.75 | experimental | [1] Wang 2009; _cites Kresse 1996_ [doi](https://doi.org/10.1103/physrevb.54.11169) | Table 3, p. 6, row 22; `ORC-FUZECZA6SU` |  |
+| 1224 | peritectic: L+(Pt) ↔ GePt3 |  | experimental | [1] Wang 2009; _cites Oya 1987_ | p. 2; `ORC-IILHWCSP3Q` | “Moreover, according to Oya and Suzuki \[14\], GePt3 formed via a peritectic reaction, L+(Pt) ↔ GePt3 at 1224 K, with a homogeneity of 22-24 at.% Ge, which was in accordance with the result obtained by Ellner and Predel \[15\].” |
+| 1223 | peritectic: L + Fcc(Pt) -> GePt3 | L: Pt 0.7326; GePt3: Pt 0.75 | model | [1] Wang 2009 | Table 3, p. 6, row 23; `ORC-WD5R33MPZL` |  |
+| 1188 | peritectic: L + Fcc(Pt) -> GePt3 | L: Pt 0.749; GePt3: Pt 0.75 | experimental | [1] Wang 2009; _cites Diaz 2005_ [doi](https://doi.org/10.1016/j.molcata.2004.09.050) | Table 3, p. 6, row 21; `ORC-2XGOHRQ74D` |  |
+| 1173 | peritectic: L + GePt -> Ge3Pt2 | L: Pt 0.371; GePt: Pt 0.5; Ge3Pt2: Pt 0.4 | experimental | [1] Wang 2009; _cites Diaz 2005_ [doi](https://doi.org/10.1016/j.molcata.2004.09.050) | Table 3, p. 6, row 7; `ORC-TJBKUZYNF5` |  |
+| 1152 | peritectic: L + GePt -> Ge3Pt2 | L: Pt 0.36; GePt: Pt 0.5; Ge3Pt2: Pt 0.4 | experimental | [1] Wang 2009; _cites Kresse 1996_ [doi](https://doi.org/10.1103/physrevb.54.11169) | Table 3, p. 6, row 8; `ORC-MFUCO5TKZA` |  |
+| 1151 | peritectic: L + GePt -> Ge3Pt2 | L: Pt 0.3633; GePt: Pt 0.5; Ge3Pt2: Pt 0.4 | model | [1] Wang 2009 | Table 3, p. 6, row 9; `ORC-Z6C3ZE7CQC` |  |
+| 1128 | peritectic: L + Ge3Pt2 -> Ge2Pt | L: Pt 0.319; Ge3Pt2: Pt 0.4; Ge2Pt: Pt 0.333333 | experimental | [1] Wang 2009; _cites Diaz 2005_ [doi](https://doi.org/10.1016/j.molcata.2004.09.050) | Table 3, p. 6, row 4; `ORC-OMSCDLH5YY` |  |
+| 1102 | peritectic: L + Ge3Pt2 -> Ge2Pt | L: Pt 0.3018; Ge3Pt2: Pt 0.4; Ge2Pt: Pt 0.333333 | model | [1] Wang 2009 | Table 3, p. 6, row 6; `ORC-KAM36DXHU2` |  |
+| 1101 | peritectic: L + Ge3Pt2 -> Ge2Pt | L: Pt 0.275; Ge3Pt2: Pt 0.4; Ge2Pt: Pt 0.333333 | experimental | [1] Wang 2009; _cites Kresse 1996_ [doi](https://doi.org/10.1103/physrevb.54.11169) | Table 3, p. 6, row 5; `ORC-VU5YE76XDG` |  |
+| 1093 | peritectic: L + GePt -> Ge2Pt3 | L: Pt 0.631; GePt: Pt 0.5; Ge2Pt3: Pt 0.6 | experimental | [1] Wang 2009; _cites Diaz 2005_ [doi](https://doi.org/10.1016/j.molcata.2004.09.050) | Table 3, p. 6, row 13; `ORC-BKDIZJD4JW` |  |
+| 1080 | peritectic: L + GePt -> Ge2Pt3 | L: Pt 0.626; GePt: Pt 0.5; Ge2Pt3: Pt 0.6 | experimental | [1] Wang 2009; _cites Kresse 1996_ [doi](https://doi.org/10.1103/physrevb.54.11169) | Table 3, p. 6, row 14; `ORC-GUEUGAGUT5` |  |
+| 1076 | peritectic: L + GePt -> Ge2Pt3 | L: Pt 0.6432; GePt: Pt 0.5; Ge2Pt3: Pt 0.6 | model | [1] Wang 2009 | Table 3, p. 6, row 15; `ORC-CUK3D2SZ35` |  |
+| 1075 | eutectic: L -> (Ge) + Ge2Pt | L: Pt 0.22; (Ge): Pt 0; Ge2Pt: Pt 0.333333 | experimental | [1] Wang 2009; _cites Diaz 2005_ [doi](https://doi.org/10.1016/j.molcata.2004.09.050) | Table 3, p. 6, row 1; `ORC-VG6AXC2HF4` |  |
+| 1068 | peritectic: L + GePt3 -> Ge2Pt3 | L: Pt 0.65; GePt3: Pt 0.75; Ge2Pt3: Pt 0.6 | experimental | [1] Wang 2009; _cites Kresse 1996_ [doi](https://doi.org/10.1103/physrevb.54.11169) | Table 3, p. 6, row 19; `ORC-LZHRVMSV4A` |  |
+| 1065 | eutectic: L -> Ge2Pt3 + GePt2 | L: Pt 0.646; Ge2Pt3: Pt 0.6; GePt2: Pt 0.666667 | experimental | [1] Wang 2009; _cites Diaz 2005_ [doi](https://doi.org/10.1016/j.molcata.2004.09.050) | Table 3, p. 6, row 16; `ORC-O5662RELRL` |  |
+| 1064 | eutectic: L -> Ge2Pt3 + GePt2 | L: Pt 0.6525; Ge2Pt3: Pt 0.6; GePt2: Pt 0.666667 | model | [1] Wang 2009 | Table 3, p. 6, row 18; `ORC-EAOO4Q5QR5.634704` |  |
+| 1064 | peritectic: L + GePt3 -> Ge2Pt3 | L: Pt 0.6525; GePt3: Pt 0.75; Ge2Pt3: Pt 0.6 | model | [1] Wang 2009 | Table 3, p. 6, row 20; `ORC-EAOO4Q5QR5.9192d5` |  |
+| 1056 | eutectic: L -> Ge2Pt3 + GePt2 | L: Pt 0.635; Ge2Pt3: Pt 0.6; GePt2: Pt 0.666667 | experimental | [1] Wang 2009; _cites Kresse 1996_ [doi](https://doi.org/10.1103/physrevb.54.11169) | Table 3, p. 6, row 17; `ORC-PT5B5LKPON` |  |
+| 1052 | eutectic: L -> (Ge) + Ge2Pt | L: Pt 0.2195; (Ge): Pt 0; Ge2Pt: Pt 0.333333 | model | [1] Wang 2009 | Table 3, p. 6, row 3; `ORC-AC7VNIM2QU` |  |
+| 1043 | eutectic: L -> (Ge) + Ge2Pt | L: Pt 0.22; (Ge): Pt 0; Ge2Pt: Pt 0.333333 | experimental | [1] Wang 2009; _cites Kresse 1996_ [doi](https://doi.org/10.1103/physrevb.54.11169) | Table 3, p. 6, row 2; `ORC-5AR57ZMUQG` |  |
 
 ## Formation enthalpies
 
@@ -92,24 +92,24 @@ Table: Enthalpies of formation, Ge–Pt system (18)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Ge2Pt | [Ge2Pt](https://data.orchid-project.org/compounds/Ge2Pt.html) | -35.88 kJ/mol-atom | 298.15 | model | -32.817 (mp-aaaaachj) | -33.15 (oqmd-8191) | [1] Wang 2009 | Table 1, p. 3, row 3 |  |
-| Ge2Pt |  | -33.68 kJ/mol-atom | 298.15 | DFT |  |  | [1] Wang 2009 | Table 1, p. 3, row 2 |  |
-| Ge2Pt | [Ge2Pt](https://data.orchid-project.org/compounds/Ge2Pt.html) | -32.4 kJ/mol-atom | 298.15 | experimental | -32.817 (mp-aaaaachj) | -33.15 (oqmd-8191) | [1] Wang 2009; _cites Kleppa 1991_ [doi](https://doi.org/10.1016/0925-8388%2891%2990038-w) | Table 1, p. 3, row 1 |  |
-| Ge2Pt3 | [Ge2Pt3](https://data.orchid-project.org/compounds/Ge2Pt3.html) | -42.13 kJ/mol-atom | 298.15 | model | -41.232 (mp-aaaabgbp) | -42.023 (oqmd-32367) | [1] Wang 2009 | Table 1, p. 3, row 6 |  |
-| Ge2Pt3 |  | -41.95 kJ/mol-atom | 298.15 | DFT |  |  | [1] Wang 2009 | Table 1, p. 3, row 5 |  |
-| Ge2Pt3 | [Ge2Pt3](https://data.orchid-project.org/compounds/Ge2Pt3.html) | -41.9 kJ/mol-atom | 298.15 | experimental | -41.232 (mp-aaaabgbp) | -42.023 (oqmd-32367) | [1] Wang 2009; _cites Kleppa 1991_ [doi](https://doi.org/10.1016/0925-8388%2891%2990038-w) | Table 1, p. 3, row 4 |  |
-| Ge3Pt2 | [Ge3Pt2](https://data.orchid-project.org/compounds/Ge3Pt2.html) | -42.4 kJ/mol-atom | 298.15 | experimental | -39.788 (mp-aaabewqt) | -40.315 (oqmd-7905) | [1] Wang 2009; _cites Lbibb 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990056-s) | Table 1, p. 3, row 10 |  |
-| Ge3Pt2 | [Ge3Pt2](https://data.orchid-project.org/compounds/Ge3Pt2.html) | -41.47 kJ/mol-atom | 298.15 | model | -39.788 (mp-aaabewqt) | -40.315 (oqmd-7905) | [1] Wang 2009 | Table 1, p. 3, row 12 |  |
-| Ge3Pt2 |  | -40.54 kJ/mol-atom | 298.15 | DFT |  |  | [1] Wang 2009 | Table 1, p. 3, row 11 |  |
-| GePt |  | -46.34 kJ/mol-atom | 298.15 | DFT |  |  | [1] Wang 2009 | Table 1, p. 3, row 8 |  |
-| GePt | [GePt](https://data.orchid-project.org/compounds/GePt.html) | -45 kJ/mol-atom | 298.15 | experimental | -45.207 (mp-aaabewsu) | -45.839 (oqmd-2258) | [1] Wang 2009; _cites Lbibb 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990056-s) | Table 1, p. 3, row 7 |  |
-| GePt | [GePt](https://data.orchid-project.org/compounds/GePt.html) | -43.9 kJ/mol-atom | 298.15 | model | -45.207 (mp-aaabewsu) | -45.839 (oqmd-2258) | [1] Wang 2009 | Table 1, p. 3, row 9 |  |
-| GePt2 | [GePt2](https://data.orchid-project.org/compounds/GePt2.html) | -38.12 kJ/mol-atom | 298.15 | model | -33.167 (mp-aaaabdrp) | -39.089 (oqmd-1371420) | [1] Wang 2009 | Table 1, p. 3, row 15 |  |
-| GePt2 | [GePt2](https://data.orchid-project.org/compounds/GePt2.html) | -37.3 kJ/mol-atom | 298.15 | experimental | -33.167 (mp-aaaabdrp) | -39.089 (oqmd-1371420) | [1] Wang 2009; _cites Lbibb 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990056-s) | Table 1, p. 3, row 13 |  |
-| GePt2 |  | -34.49 kJ/mol-atom | 298.15 | DFT |  |  | [1] Wang 2009 | Table 1, p. 3, row 14 |  |
-| GePt3 | [GePt3](https://data.orchid-project.org/compounds/GePt3.html) | -32.5 kJ/mol-atom | 298.15 | experimental | -29.939 (mp-aaaaaydn) | -31.572 (oqmd-2169233) | [1] Wang 2009; _cites Lbibb 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990056-s) | Table 1, p. 3, row 16 |  |
-| GePt3 |  | -31.06 kJ/mol-atom | 298.15 | DFT |  |  | [1] Wang 2009 | Table 1, p. 3, row 17 |  |
-| GePt3 | [GePt3](https://data.orchid-project.org/compounds/GePt3.html) | -29.78 kJ/mol-atom | 298.15 | model | -29.939 (mp-aaaaaydn) | -31.572 (oqmd-2169233) | [1] Wang 2009 | Table 1, p. 3, row 18 |  |
+| Ge2Pt | [Ge2Pt](https://data.orchid-project.org/compounds/Ge2Pt.html) | -35.88 kJ/mol-atom | 298.15 | model | -32.817 (mp-aaaaachj) | -33.15 (oqmd-8191) | [1] Wang 2009 | Table 1, p. 3, row 3; `ORC-AQ653W4TWL` |  |
+| Ge2Pt |  | -33.68 kJ/mol-atom | 298.15 | DFT |  |  | [1] Wang 2009 | Table 1, p. 3, row 2; `ORC-BIKZWEGX4N` |  |
+| Ge2Pt | [Ge2Pt](https://data.orchid-project.org/compounds/Ge2Pt.html) | -32.4 kJ/mol-atom | 298.15 | experimental | -32.817 (mp-aaaaachj) | -33.15 (oqmd-8191) | [1] Wang 2009; _cites Kleppa 1991_ [doi](https://doi.org/10.1016/0925-8388%2891%2990038-w) | Table 1, p. 3, row 1; `ORC-37PORBARNP` |  |
+| Ge2Pt3 | [Ge2Pt3](https://data.orchid-project.org/compounds/Ge2Pt3.html) | -42.13 kJ/mol-atom | 298.15 | model | -41.232 (mp-aaaabgbp) | -42.023 (oqmd-32367) | [1] Wang 2009 | Table 1, p. 3, row 6; `ORC-EUD7QOCMOE` |  |
+| Ge2Pt3 |  | -41.95 kJ/mol-atom | 298.15 | DFT |  |  | [1] Wang 2009 | Table 1, p. 3, row 5; `ORC-GYOEW6IWP2` |  |
+| Ge2Pt3 | [Ge2Pt3](https://data.orchid-project.org/compounds/Ge2Pt3.html) | -41.9 kJ/mol-atom | 298.15 | experimental | -41.232 (mp-aaaabgbp) | -42.023 (oqmd-32367) | [1] Wang 2009; _cites Kleppa 1991_ [doi](https://doi.org/10.1016/0925-8388%2891%2990038-w) | Table 1, p. 3, row 4; `ORC-YLJHHX6P2P` |  |
+| Ge3Pt2 | [Ge3Pt2](https://data.orchid-project.org/compounds/Ge3Pt2.html) | -42.4 kJ/mol-atom | 298.15 | experimental | -39.788 (mp-aaabewqt) | -40.315 (oqmd-7905) | [1] Wang 2009; _cites Lbibb 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990056-s) | Table 1, p. 3, row 10; `ORC-XUU5YYA7K7` |  |
+| Ge3Pt2 | [Ge3Pt2](https://data.orchid-project.org/compounds/Ge3Pt2.html) | -41.47 kJ/mol-atom | 298.15 | model | -39.788 (mp-aaabewqt) | -40.315 (oqmd-7905) | [1] Wang 2009 | Table 1, p. 3, row 12; `ORC-B75YUYOURM` |  |
+| Ge3Pt2 |  | -40.54 kJ/mol-atom | 298.15 | DFT |  |  | [1] Wang 2009 | Table 1, p. 3, row 11; `ORC-BHO537M33Q` |  |
+| GePt |  | -46.34 kJ/mol-atom | 298.15 | DFT |  |  | [1] Wang 2009 | Table 1, p. 3, row 8; `ORC-MK4V7ZUI4X` |  |
+| GePt | [GePt](https://data.orchid-project.org/compounds/GePt.html) | -45 kJ/mol-atom | 298.15 | experimental | -45.207 (mp-aaabewsu) | -45.839 (oqmd-2258) | [1] Wang 2009; _cites Lbibb 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990056-s) | Table 1, p. 3, row 7; `ORC-W7XJQSEUHL` |  |
+| GePt | [GePt](https://data.orchid-project.org/compounds/GePt.html) | -43.9 kJ/mol-atom | 298.15 | model | -45.207 (mp-aaabewsu) | -45.839 (oqmd-2258) | [1] Wang 2009 | Table 1, p. 3, row 9; `ORC-3IQU6OUOVS` |  |
+| GePt2 | [GePt2](https://data.orchid-project.org/compounds/GePt2.html) | -38.12 kJ/mol-atom | 298.15 | model | -33.167 (mp-aaaabdrp) | -39.089 (oqmd-1371420) | [1] Wang 2009 | Table 1, p. 3, row 15; `ORC-SFYZHZ6IPS` |  |
+| GePt2 | [GePt2](https://data.orchid-project.org/compounds/GePt2.html) | -37.3 kJ/mol-atom | 298.15 | experimental | -33.167 (mp-aaaabdrp) | -39.089 (oqmd-1371420) | [1] Wang 2009; _cites Lbibb 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990056-s) | Table 1, p. 3, row 13; `ORC-X47OIWORTK` |  |
+| GePt2 |  | -34.49 kJ/mol-atom | 298.15 | DFT |  |  | [1] Wang 2009 | Table 1, p. 3, row 14; `ORC-GAJPQB6A5V` |  |
+| GePt3 | [GePt3](https://data.orchid-project.org/compounds/GePt3.html) | -32.5 kJ/mol-atom | 298.15 | experimental | -29.939 (mp-aaaaaydn) | -31.572 (oqmd-2169233) | [1] Wang 2009; _cites Lbibb 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990056-s) | Table 1, p. 3, row 16; `ORC-J4ZAQE2TNG` |  |
+| GePt3 |  | -31.06 kJ/mol-atom | 298.15 | DFT |  |  | [1] Wang 2009 | Table 1, p. 3, row 17; `ORC-5EXMKJ3TN6` |  |
+| GePt3 | [GePt3](https://data.orchid-project.org/compounds/GePt3.html) | -29.78 kJ/mol-atom | 298.15 | model | -29.939 (mp-aaaaaydn) | -31.572 (oqmd-2169233) | [1] Wang 2009 | Table 1, p. 3, row 18; `ORC-LMLYJGWSXH` |  |
 
 ## Other properties
 
@@ -119,10 +119,10 @@ Table: Phase transition, Ge–Pt system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 948 K | 948 | polymorphic | experimental | [1] Wang 2009; _cites K 1966_ | p. 1 | “It was reported that six intermetallic compounds, Ge2 Pt, Ge3 Pt2 , GePt, Ge2 Pt3 , GePt2 and GePt3 , exist in this system, among which Ge2 Pt3 carries a polymorphic transformation at 948 K \[13\].” |
-| Phase transition | 1340 K | 1340 | congruent melting: L -> GePt; _L: Pt 0.5; GePt: Pt 0.5_ | model | [1] Wang 2009 | Table 3, p. 6, row 12 |  |
-| Phase transition | 1343 K | 1343 | congruent melting: L -> GePt; _L: Pt 0.5; GePt: Pt 0.5_ | experimental | [1] Wang 2009; _cites Kresse 1996_ [doi](https://doi.org/10.1103/physrevb.54.11169) | Table 3, p. 6, row 11 |  |
-| Phase transition | 1348 K | 1348 | congruent melting: L -> GePt; _L: Pt 0.5; GePt: Pt 0.5_ | experimental | [1] Wang 2009; _cites Diaz 2005_ [doi](https://doi.org/10.1016/j.molcata.2004.09.050) | Table 3, p. 6, row 10 |  |
+| Phase transition | 948 K | 948 | polymorphic | experimental | [1] Wang 2009; _cites K 1966_ | p. 1; `ORC-SUNTUYAZSP` | “It was reported that six intermetallic compounds, Ge2 Pt, Ge3 Pt2 , GePt, Ge2 Pt3 , GePt2 and GePt3 , exist in this system, among which Ge2 Pt3 carries a polymorphic transformation at 948 K \[13\].” |
+| Phase transition | 1340 K | 1340 | congruent melting: L -> GePt; _L: Pt 0.5; GePt: Pt 0.5_ | model | [1] Wang 2009 | Table 3, p. 6, row 12; `ORC-HRGBA4BUDA` |  |
+| Phase transition | 1343 K | 1343 | congruent melting: L -> GePt; _L: Pt 0.5; GePt: Pt 0.5_ | experimental | [1] Wang 2009; _cites Kresse 1996_ [doi](https://doi.org/10.1103/physrevb.54.11169) | Table 3, p. 6, row 11; `ORC-5JNVS5UI64` |  |
+| Phase transition | 1348 K | 1348 | congruent melting: L -> GePt; _L: Pt 0.5; GePt: Pt 0.5_ | experimental | [1] Wang 2009; _cites Diaz 2005_ [doi](https://doi.org/10.1016/j.molcata.2004.09.050) | Table 3, p. 6, row 10; `ORC-D3NRC36LLG` |  |
 
 ## Sources
 
@@ -187,4 +187,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

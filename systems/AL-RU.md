@@ -88,10 +88,10 @@ Table: Invariant reactions reported in the literature for the Al–Ru system (4)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1873 | peritectic |  | experimental | [1] Prins 2003 | p. 2 | “Reactions were observed at 1573 and 1873 K and these were assigned to eutectic and peritectic reactions respectively.” |
-| 1676 | peritectic |  | experimental | [1] Prins 2003 | p. 2 | “It was also reported that both RuAls and Ru&lrs melt by peritectic reaction at 996 K and 1676 K respectively, and not congruently as suggested by Obrowski \[19600br\].” |
-| 1573 | eutectic |  | experimental | [1] Prins 2003 | p. 2 | “Reactions were observed at 1573 and 1873 K and these were assigned to eutectic and peritectic reactions respectively.” |
-| 996 | peritectic |  | experimental | [1] Prins 2003 | p. 2 | “It was also reported that both RuAls and Ru&lrs melt by peritectic reaction at 996 K and 1676 K respectively, and not congruently as suggested by Obrowski \[19600br\].” |
+| 1873 | peritectic |  | experimental | [1] Prins 2003 | p. 2; `ORC-3CEIWGJCV4.d08f0d` | “Reactions were observed at 1573 and 1873 K and these were assigned to eutectic and peritectic reactions respectively.” |
+| 1676 | peritectic |  | experimental | [1] Prins 2003 | p. 2; `ORC-RHO7EH3GOP.d32222` | “It was also reported that both RuAls and Ru&lrs melt by peritectic reaction at 996 K and 1676 K respectively, and not congruently as suggested by Obrowski \[19600br\].” |
+| 1573 | eutectic |  | experimental | [1] Prins 2003 | p. 2; `ORC-3CEIWGJCV4.d24bd0` | “Reactions were observed at 1573 and 1873 K and these were assigned to eutectic and peritectic reactions respectively.” |
+| 996 | peritectic |  | experimental | [1] Prins 2003 | p. 2; `ORC-RHO7EH3GOP.6c60c8` | “It was also reported that both RuAls and Ru&lrs melt by peritectic reaction at 996 K and 1676 K respectively, and not congruently as suggested by Obrowski \[19600br\].” |
 
 ## Formation enthalpies
 
@@ -101,21 +101,21 @@ Table: Enthalpies of formation, Al–Ru system (15)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Ru2Al3 | [Al3Ru2](https://data.orchid-project.org/compounds/Al3Ru2.html) | -44.04 kJ/mol-atom |  | model | -68.423 (mp-aaacixse) | -67.533 (oqmd-2168645) | [1] Prins 2003; _cites ref. 1998Wol_ | Table 2, p. 3, row 7 |  |
-| Ru2Al3 | [Al3Ru2](https://data.orchid-project.org/compounds/Al3Ru2.html) | -43.946 kJ/mol-atom |  | model | -68.423 (mp-aaacixse) | -67.533 (oqmd-2168645) | [1] Prins 2003 | Table 2, p. 3, row 8 |  |
-| Ru4Al13 | [Al13Ru4](https://data.orchid-project.org/compounds/Al13Ru4.html) | -38.535 kJ/mol-atom |  | model | -51.776 (mp-aaaabals) | -51.227 (oqmd-54943) | [1] Prins 2003 | Table 2, p. 3, row 4 |  |
-| Ru4Al13 | [Al13Ru4](https://data.orchid-project.org/compounds/Al13Ru4.html) | -30.03 kJ/mol-atom |  | model | -51.776 (mp-aaaabals) | -51.227 (oqmd-54943) | [1] Prins 2003; _cites ref. 1998Wol_ | Table 2, p. 3, row 3 |  |
-| RuAl |  | -95.51 kJ/mol-atom |  | DFT |  |  | [1] Prins 2003; _cites ref. 2002Gar_ | Table 2, p. 3, row 13 |  |
-| RuAl |  | -70.74 kJ/mol-atom |  | DFT |  |  | [1] Prins 2003; _cites ref. 1992Lin_ | Table 2, p. 3, row 11 |  |
-| RuAl | [AlRu](https://data.orchid-project.org/compounds/AlRu.html) | -62.05 kJ/mol-atom ± 3 | 298.15 | experimental | -64.98 (mp-aaabewqb) | -63.946 (oqmd-18193) | [1] Prins 2003; _cites ref. 1992Jun_ | Table 2, p. 3, row 10 |  |
-| RuAl |  | -58.15 kJ/mol-atom |  | DFT |  |  | [1] Prins 2003; _cites ref. 1999Man_ | Table 2, p. 3, row 12 |  |
-| RuAl | [AlRu](https://data.orchid-project.org/compounds/AlRu.html) | -51.126 kJ/mol-atom |  | model | -64.98 (mp-aaabewqb) | -63.946 (oqmd-18193) | [1] Prins 2003 | Table 2, p. 3, row 14 |  |
-| RuAl | [AlRu](https://data.orchid-project.org/compounds/AlRu.html) | -51.057 kJ/mol-atom |  | model | -64.98 (mp-aaabewqb) | -63.946 (oqmd-18193) | [1] Prins 2003 | Table 2, p. 3, row 15 |  |
-| RuAl | [AlRu](https://data.orchid-project.org/compounds/AlRu.html) | -47.32 kJ/mol-atom |  | model | -64.98 (mp-aaabewqb) | -63.946 (oqmd-18193) | [1] Prins 2003; _cites ref. 1998Wol_ | Table 2, p. 3, row 9 |  |
-| RuAl2 | [Al2Ru](https://data.orchid-project.org/compounds/Al2Ru.html) | -45.125 kJ/mol-atom |  | model | -69.357 (mp-aaaaaqdq) | -68.722 (oqmd-10579) | [1] Prins 2003 | Table 2, p. 3, row 6 |  |
-| RuAl2 | [Al2Ru](https://data.orchid-project.org/compounds/Al2Ru.html) | -38.26 kJ/mol-atom |  | model | -69.357 (mp-aaaaaqdq) | -68.722 (oqmd-10579) | [1] Prins 2003; _cites ref. 1998Wol_ | Table 2, p. 3, row 5 |  |
-| RuAl6 | [Al6Ru](https://data.orchid-project.org/compounds/Al6Ru.html) | -22.286 kJ/mol-atom |  | model | -31.78 (mp-aaaaaylt) | -31.352 (oqmd-10580) | [1] Prins 2003 | Table 2, p. 3, row 2 |  |
-| RuAl6 | [Al6Ru](https://data.orchid-project.org/compounds/Al6Ru.html) | -17.93 kJ/mol-atom |  | model | -31.78 (mp-aaaaaylt) | -31.352 (oqmd-10580) | [1] Prins 2003; _cites ref. 1998Wol_ | Table 2, p. 3, row 1 |  |
+| Ru2Al3 | [Al3Ru2](https://data.orchid-project.org/compounds/Al3Ru2.html) | -44.04 kJ/mol-atom |  | model | -68.423 (mp-aaacixse) | -67.533 (oqmd-2168645) | [1] Prins 2003; _cites ref. 1998Wol_ | Table 2, p. 3, row 7; `ORC-2SM3CE2JXD.24074d` |  |
+| Ru2Al3 | [Al3Ru2](https://data.orchid-project.org/compounds/Al3Ru2.html) | -43.946 kJ/mol-atom |  | model | -68.423 (mp-aaacixse) | -67.533 (oqmd-2168645) | [1] Prins 2003 | Table 2, p. 3, row 8; `ORC-7LA3K6YVMH.e71646` |  |
+| Ru4Al13 | [Al13Ru4](https://data.orchid-project.org/compounds/Al13Ru4.html) | -38.535 kJ/mol-atom |  | model | -51.776 (mp-aaaabals) | -51.227 (oqmd-54943) | [1] Prins 2003 | Table 2, p. 3, row 4; `ORC-YHHFD6CYUH.1ecf18` |  |
+| Ru4Al13 | [Al13Ru4](https://data.orchid-project.org/compounds/Al13Ru4.html) | -30.03 kJ/mol-atom |  | model | -51.776 (mp-aaaabals) | -51.227 (oqmd-54943) | [1] Prins 2003; _cites ref. 1998Wol_ | Table 2, p. 3, row 3; `ORC-DGTDRDUALI.4cdd64` |  |
+| RuAl |  | -95.51 kJ/mol-atom |  | DFT |  |  | [1] Prins 2003; _cites ref. 2002Gar_ | Table 2, p. 3, row 13; `ORC-3QIEAET3JG.2dc7e2` |  |
+| RuAl |  | -70.74 kJ/mol-atom |  | DFT |  |  | [1] Prins 2003; _cites ref. 1992Lin_ | Table 2, p. 3, row 11; `ORC-HFEQFZKXYD.438948` |  |
+| RuAl | [AlRu](https://data.orchid-project.org/compounds/AlRu.html) | -62.05 kJ/mol-atom ± 3 | 298.15 | experimental | -64.98 (mp-aaabewqb) | -63.946 (oqmd-18193) | [1] Prins 2003; _cites ref. 1992Jun_ | Table 2, p. 3, row 10; `ORC-3HPITLRFFC.237487` |  |
+| RuAl |  | -58.15 kJ/mol-atom |  | DFT |  |  | [1] Prins 2003; _cites ref. 1999Man_ | Table 2, p. 3, row 12; `ORC-FXJXUG7SQV.72a980` |  |
+| RuAl | [AlRu](https://data.orchid-project.org/compounds/AlRu.html) | -51.126 kJ/mol-atom |  | model | -64.98 (mp-aaabewqb) | -63.946 (oqmd-18193) | [1] Prins 2003 | Table 2, p. 3, row 14; `ORC-2WPP7HJIQN.765b26` |  |
+| RuAl | [AlRu](https://data.orchid-project.org/compounds/AlRu.html) | -51.057 kJ/mol-atom |  | model | -64.98 (mp-aaabewqb) | -63.946 (oqmd-18193) | [1] Prins 2003 | Table 2, p. 3, row 15; `ORC-R4UPGK4EFD.22a0ac` |  |
+| RuAl | [AlRu](https://data.orchid-project.org/compounds/AlRu.html) | -47.32 kJ/mol-atom |  | model | -64.98 (mp-aaabewqb) | -63.946 (oqmd-18193) | [1] Prins 2003; _cites ref. 1998Wol_ | Table 2, p. 3, row 9; `ORC-M34T6UCBNW.bd5e8b` |  |
+| RuAl2 | [Al2Ru](https://data.orchid-project.org/compounds/Al2Ru.html) | -45.125 kJ/mol-atom |  | model | -69.357 (mp-aaaaaqdq) | -68.722 (oqmd-10579) | [1] Prins 2003 | Table 2, p. 3, row 6; `ORC-SBAWWO6MCS.6214aa` |  |
+| RuAl2 | [Al2Ru](https://data.orchid-project.org/compounds/Al2Ru.html) | -38.26 kJ/mol-atom |  | model | -69.357 (mp-aaaaaqdq) | -68.722 (oqmd-10579) | [1] Prins 2003; _cites ref. 1998Wol_ | Table 2, p. 3, row 5; `ORC-OIY2WMDUKA.37dfea` |  |
+| RuAl6 | [Al6Ru](https://data.orchid-project.org/compounds/Al6Ru.html) | -22.286 kJ/mol-atom |  | model | -31.78 (mp-aaaaaylt) | -31.352 (oqmd-10580) | [1] Prins 2003 | Table 2, p. 3, row 2; `ORC-UYU3LRPDNM.af6585` |  |
+| RuAl6 | [Al6Ru](https://data.orchid-project.org/compounds/Al6Ru.html) | -17.93 kJ/mol-atom |  | model | -31.78 (mp-aaaaaylt) | -31.352 (oqmd-10580) | [1] Prins 2003; _cites ref. 1998Wol_ | Table 2, p. 3, row 1; `ORC-GX6L6KB47V.24d8d1` |  |
 
 ## Sources
 
@@ -180,4 +180,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

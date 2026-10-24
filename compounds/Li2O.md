@@ -14,11 +14,11 @@ Table: Enthalpy of formation of Li2O reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -199.301 kJ/mol-atom ± 0.092 | Li2O | 298.15 | experimental | Calorimetry | [Li–O](https://data.orchid-project.org/systems/LI-O.html) | [1] Chang 2011; _cites ref. 21_ | Table 4, p. 5, row 2 |  |
-| -199.16 kJ/mol-atom ± 0.433333 | Li2O | 298.15 | experimental | Calorimetry | [Li–O](https://data.orchid-project.org/systems/LI-O.html) | [1] Chang 2011; _cites ref. 20_ | Table 4, p. 5, row 1 |  |
-| -198.833 kJ/mol-atom ± 0.223333 | Li2O | 298.15 | experimental | Calorimetry | [Li–O](https://data.orchid-project.org/systems/LI-O.html) | [1] Chang 2011; _cites ref. 22_ | Table 4, p. 5, row 3 |  |
-| -199.577 kJ/mol-atom ± 0.7 | Li2O | 298.15 | model | Assessment | [Li–O](https://data.orchid-project.org/systems/LI-O.html) | [1] Chang 2011; _cites This_ | Table 4, p. 5, row 4 |  |
-| -199 kJ/mol-atom | Li2O | 298.15 | model | Calculation | [Li–O](https://data.orchid-project.org/systems/LI-O.html) | [1] Chang 2011 | Table 4, p. 5, row 5 |  |
+| -199.301 kJ/mol-atom ± 0.092 | Li2O | 298.15 | experimental | Calorimetry | [Li–O](https://data.orchid-project.org/systems/LI-O.html) | [1] Chang 2011; _cites ref. 21_ | Table 4, p. 5, row 2; `ORC-AZT4WLCRAM` |  |
+| -199.16 kJ/mol-atom ± 0.433333 | Li2O | 298.15 | experimental | Calorimetry | [Li–O](https://data.orchid-project.org/systems/LI-O.html) | [1] Chang 2011; _cites ref. 20_ | Table 4, p. 5, row 1; `ORC-CLLKMPH32B` |  |
+| -198.833 kJ/mol-atom ± 0.223333 | Li2O | 298.15 | experimental | Calorimetry | [Li–O](https://data.orchid-project.org/systems/LI-O.html) | [1] Chang 2011; _cites ref. 22_ | Table 4, p. 5, row 3; `ORC-ZL6CQL3CB7` |  |
+| -199.577 kJ/mol-atom ± 0.7 | Li2O | 298.15 | model | Assessment | [Li–O](https://data.orchid-project.org/systems/LI-O.html) | [1] Chang 2011; _cites This_ | Table 4, p. 5, row 4; `ORC-AKI6NGQPUL` |  |
+| -199 kJ/mol-atom | Li2O | 298.15 | model | Calculation | [Li–O](https://data.orchid-project.org/systems/LI-O.html) | [1] Chang 2011 | Table 4, p. 5, row 5; `ORC-6MGAPSXOS4` |  |
 
 ### Uncertainty budget
 
@@ -98,4 +98,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

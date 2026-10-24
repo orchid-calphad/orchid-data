@@ -14,15 +14,15 @@ Table: Enthalpy of formation of Cu5Zr reported in the literature (9)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -23.8 kJ/mol-atom | Cu5Zr | 298.15 | experimental |  | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [1] Turchanin 2008; _cites Yamaguchi 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.01.173) | Table 3, p. 10, row 3 |  |
-| -9.624 kJ/mol-atom | Cu5Zr | 1123 | experimental |  | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [1] Turchanin 2008; _cites Zaitsev 2003_ [doi](https://doi.org/10.1023/a:1022372503921) | Table 3, p. 10, row 2 |  |
-| -8.7 kJ/mol-atom | Cu5Zr | 298.15 | experimental |  | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [1] Turchanin 2008; _cites Sommer 1989_ [doi](https://doi.org/10.1515/ijmr-1989-800410) | Table 3, p. 10, row 1 |  |
-| -10.299 kJ/mol-atom | Cu5Zr |  | model |  | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [2] Zeng 1994 | Table 1, p. 1, row 2 |  |
-| -10.286 kJ/mol-atom | Cu5Zr | 1123 | model |  | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [1] Turchanin 2008 | Table 3, p. 10, row 4 |  |
-| -2.20724 kJ/mol-atom | Cu5Zr |  | model |  | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [2] Zeng 1994; _cites Luoma 1991_ | Table 1, p. 1, row 1 |  |
-| -12.52 kJ/mol-atom | Cu5Zr-C15b | 0 | DFT | USPP-GGA | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [3] Zhou 2010; _cites Ghosh 2007_ | Table 2, p. 3, row 5 |  |
-| -11.37 kJ/mol-atom | Cu5Zr-C15b | 0 | DFT | PAW-GGA | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [3] Zhou 2010 | Table 2, p. 3, row 3 |  |
-| -11.25 kJ/mol-atom | Cu5Zr-C15b | 0 | DFT | PAW-GGA | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [3] Zhou 2010; _cites Ghosh 2007_ | Table 2, p. 3, row 4 |  |
+| -23.8 kJ/mol-atom | Cu5Zr | 298.15 | experimental |  | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [1] Turchanin 2008; _cites Yamaguchi 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.01.173) | Table 3, p. 10, row 3; `ORC-NPAODKR3OM` |  |
+| -9.624 kJ/mol-atom | Cu5Zr | 1123 | experimental |  | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [1] Turchanin 2008; _cites Zaitsev 2003_ [doi](https://doi.org/10.1023/a:1022372503921) | Table 3, p. 10, row 2; `ORC-NZAYQW3LOM.274579` |  |
+| -8.7 kJ/mol-atom | Cu5Zr | 298.15 | experimental |  | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [1] Turchanin 2008; _cites Sommer 1989_ [doi](https://doi.org/10.1515/ijmr-1989-800410) | Table 3, p. 10, row 1; `ORC-56OXWXS2EA` |  |
+| -10.299 kJ/mol-atom | Cu5Zr |  | model |  | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [2] Zeng 1994 | Table 1, p. 1, row 2; `ORC-B3EXWSWTHB` |  |
+| -10.286 kJ/mol-atom | Cu5Zr | 1123 | model |  | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [1] Turchanin 2008 | Table 3, p. 10, row 4; `ORC-3GZRZLZSDT.3f5ff6` |  |
+| -2.20724 kJ/mol-atom | Cu5Zr |  | model |  | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [2] Zeng 1994; _cites Luoma 1991_ | Table 1, p. 1, row 1; `ORC-TNYB3K5EAW` |  |
+| -12.52 kJ/mol-atom | Cu5Zr-C15b | 0 | DFT | USPP-GGA | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [3] Zhou 2010; _cites Ghosh 2007_ | Table 2, p. 3, row 5; `ORC-5TCG7OWJVA.7c6741` |  |
+| -11.37 kJ/mol-atom | Cu5Zr-C15b | 0 | DFT | PAW-GGA | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [3] Zhou 2010 | Table 2, p. 3, row 3; `ORC-X6K44ARSYL.86934d` |  |
+| -11.25 kJ/mol-atom | Cu5Zr-C15b | 0 | DFT | PAW-GGA | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [3] Zhou 2010; _cites Ghosh 2007_ | Table 2, p. 3, row 4; `ORC-GVSSGX6BPD.90d914` |  |
 
 ### Uncertainty budget
 
@@ -108,4 +108,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -75,12 +75,12 @@ Table: Invariant reactions reported in the literature for the Cr–Ni system (6)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1618 | eutectic |  | model | [1] Hao 2021 | p. 18 | “The calculated eutectic temperature is 1618 K, which agrees with the reported value in literature \[158,159\].” |
-| 1618 | eutectic |  | experimental | [1] Hao 2021; _cites Jenkins 1937_ | p. 13 | “From Fig. 12, it is obvious that the Cr-Ni phase diagram is characterized by a eutectic reaction that occurs at 1618 K \[158,159\]. The equilibrium composition for the liquid, bcc, and fcc phases are 0.46, 0.38, and 0.50 at.% Ni, respectively \[12\].” |
-| 1613 | liq. + γ' -> γ + β |  | experimental | [2] Dupin 2001; _cites ref. 52Tay_ | Table 2, p. 10, row 2 |  |
-| 1273 | γ + β -> γ' + α |  | experimental | [2] Dupin 2001; _cites ref. 52Tay_ | Table 2, p. 10, row 7 |  |
-| 1263 | γ + β -> γ' + α |  | experimental | [2] Dupin 2001; _cites ref. 82Tu_ | Table 2, p. 10, row 8 |  |
-| 611 | peritectic |  | model | [1] Hao 2021 | p. 13 | “The predicted peritectic temperature (611 K) is in accordance with that evaluated by Nash \[156\].” |
+| 1618 | eutectic |  | model | [1] Hao 2021 | p. 18; `ORC-PJ5A4D3V6I` | “The calculated eutectic temperature is 1618 K, which agrees with the reported value in literature \[158,159\].” |
+| 1618 | eutectic |  | experimental | [1] Hao 2021; _cites Jenkins 1937_ | p. 13; `ORC-SV7H3CNRYS` | “From Fig. 12, it is obvious that the Cr-Ni phase diagram is characterized by a eutectic reaction that occurs at 1618 K \[158,159\]. The equilibrium composition for the liquid, bcc, and fcc phases are 0.46, 0.38, and 0.50 at.% Ni, respectively \[12\].” |
+| 1613 | liq. + γ' -> γ + β |  | experimental | [2] Dupin 2001; _cites ref. 52Tay_ | Table 2, p. 10, row 2; `ORC-EFWCMI7JUR` |  |
+| 1273 | γ + β -> γ' + α |  | experimental | [2] Dupin 2001; _cites ref. 52Tay_ | Table 2, p. 10, row 7; `ORC-NDH2VKFXKW` |  |
+| 1263 | γ + β -> γ' + α |  | experimental | [2] Dupin 2001; _cites ref. 82Tu_ | Table 2, p. 10, row 8; `ORC-4VTB4FD2XH` |  |
+| 611 | peritectic |  | model | [1] Hao 2021 | p. 13; `ORC-AJ4EQOMP2O` | “The predicted peritectic temperature (611 K) is in accordance with that evaluated by Nash \[156\].” |
 
 ## Formation enthalpies
 
@@ -90,14 +90,14 @@ Table: Enthalpies of formation, Cr–Ni system (8)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| B2 | [CrNi](https://data.orchid-project.org/compounds/CrNi.html) | 24.262 kJ/mol-atom | 298.15 | model | 24.772 (mp-aaacrtxk) | 24.862 (oqmd-306955) | [3] Liu 2016 | Table 4, p. 38, row 11 |  |
-| B2-β |  | 20.12 kJ/mol-atom | 0 | DFT |  |  | [3] Liu 2016 | Table 6, p. 40, row 17 |  |
-| L12-γ’ |  | -13.88 kJ/mol-atom | 0 | DFT |  |  | [3] Liu 2016 | Table 7, p. 41, row 16 |  |
-| L12-γ’ |  | -10.03 kJ/mol-atom | 0 | DFT |  |  | [3] Liu 2016 | Table 7, p. 41, row 18 |  |
-| γ' |  | -13.88 kJ/mol-atom | 0 | DFT |  |  | [3] Liu 2016 | Table 7, p. 41, row 16 |  |
-| γ' |  | -10.03 kJ/mol-atom | 0 | DFT |  |  | [3] Liu 2016 | Table 7, p. 41, row 18 |  |
-| γ'-L12 | [CrNi3](https://data.orchid-project.org/compounds/CrNi3.html) | -0.719 kJ/mol-atom | 298.15 | model | -0.568 (mp-aaacfjcg) | -0.58 (oqmd-348114) | [3] Liu 2016 | Table 4, p. 38, row 32 |  |
-| γ'-L12 | [Cr3Ni](https://data.orchid-project.org/compounds/Cr3Ni.html) | 14.291 kJ/mol-atom | 298.15 | model | 14.506 (mp-aaacfjny) | 13.921 (oqmd-344860) | [3] Liu 2016 | Table 4, p. 38, row 31 |  |
+| B2 | [CrNi](https://data.orchid-project.org/compounds/CrNi.html) | 24.262 kJ/mol-atom | 298.15 | model | 24.772 (mp-aaacrtxk) | 24.862 (oqmd-306955) | [3] Liu 2016 | Table 4, p. 38, row 11; `ORC-JE3KL3TAG6.6e3c2e` |  |
+| B2-β |  | 20.12 kJ/mol-atom | 0 | DFT |  |  | [3] Liu 2016 | Table 6, p. 40, row 17; `ORC-4AVGOLDRYY.d5c876` |  |
+| L12-γ’ |  | -13.88 kJ/mol-atom | 0 | DFT |  |  | [3] Liu 2016 | Table 7, p. 41, row 16; `ORC-BJCC23KTCK.cb1de8` |  |
+| L12-γ’ |  | -10.03 kJ/mol-atom | 0 | DFT |  |  | [3] Liu 2016 | Table 7, p. 41, row 18; `ORC-CG6B7EHP2R.be88a2` |  |
+| γ' |  | -13.88 kJ/mol-atom | 0 | DFT |  |  | [3] Liu 2016 | Table 7, p. 41, row 16; `ORC-BJCC23KTCK.568105` |  |
+| γ' |  | -10.03 kJ/mol-atom | 0 | DFT |  |  | [3] Liu 2016 | Table 7, p. 41, row 18; `ORC-CG6B7EHP2R.d87371` |  |
+| γ'-L12 | [CrNi3](https://data.orchid-project.org/compounds/CrNi3.html) | -0.719 kJ/mol-atom | 298.15 | model | -0.568 (mp-aaacfjcg) | -0.58 (oqmd-348114) | [3] Liu 2016 | Table 4, p. 38, row 32; `ORC-IZ6H4R6V52.352a19` |  |
+| γ'-L12 | [Cr3Ni](https://data.orchid-project.org/compounds/Cr3Ni.html) | 14.291 kJ/mol-atom | 298.15 | model | 14.506 (mp-aaacfjny) | 13.921 (oqmd-344860) | [3] Liu 2016 | Table 4, p. 38, row 31; `ORC-CYR5RW36IJ.b01bef` |  |
 
 ## Other properties
 
@@ -107,18 +107,18 @@ Table: Phase transition, Cr–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 257 K | 257 | magnetic | model | [1] Hao 2021 | p. 13 | “Meanwhile, because of the magnetic transition, a Nishizawa horn \[157\] appears at 257 K in Fig. 12.” |
-| Phase transition | 633 K | 633 | magnetic | experimental | [1] Hao 2021; _cites Crangle 1963_ [doi](https://doi.org/10.1098/rspa.1963.0045) | p. 11 | “From the magnetization vs. T curve, Crangle and Hallam \[114\] extrapolated the Curie temperature of fcc Ni as 633 K.” |
-| Phase transition | 807 K | 807 | CrNi2 | model | [1] Hao 2021; _cites Turchi 2006_ | p. 12 | “However, the predicted formation temperatures of the CrNi2 phase (807 K and 820 K in the work \[150\] and \[151\], respectively) are inconsistent due to the difference in the calculated formation energy.” |
-| Phase transition | 820 K | 820 | CrNi2 | model | [1] Hao 2021; _cites Chan 2006_ | p. 12 | “However, the predicted formation temperatures of the CrNi2 phase (807 K and 820 K in the work \[150\] and \[151\], respectively) are inconsistent due to the difference in the calculated formation energy.” |
-| Phase transition | 863 K | 863 | other | model | [1] Hao 2021 | p. 18 | “According to our calculation, the CrNi2 phase forms from a peritectoid reaction at 863 K.” |
-| Phase transition | 1873 K | 1873 |  | experimental | [1] Hao 2021; _cites Umino 1926_ | p. 10 | “The heat capacity data above 1873 K in the study of Umino \[97\] are less reliable since the purity of the sample is low (95.39 wt.%), and the melting point of bcc Cr is highly underestimated (1873 K).” |
-| Phase transition | 1873 K | 1873 | bcc + liquid | experimental | [1] Hao 2021; _cites Umino 1926_ | p. 16 | “These two data points from the work of Umino \[97\] are not reliable since the melting point of Cr was highly underestimated as 1873 K.” |
-| Phase transition | 2136 K | 2136 | bcc + liquid | model | [1] Hao 2021 | p. 8 | “To better reproduce experimental phase equilibria data in Cr-containing binary or even high-order systems during future thermodynamic assessments, the value 2136 K was adopted as the melting point for bcc Cr in this work.” |
-| Phase transition | 2136 K | 2136 | liquid | model | [1] Hao 2021 | p. 16 | “From the calculated lattice stabilities of Cr by the second-generation and third-generation databases, as shown in Fig. 3, it can be observed that the melting point of Cr is changed from 2180 K to 2136 K in this work, based on the reason mentioned in Section 4.1.1.” |
-| Phase transition | 2136 K | 2136 | liquid | experimental | [1] Hao 2021; _cites Hultgren 1973_ | p. 8 | “Therefore, they suggested to adopt a lower value, 2136 K \[37,52\], for the melting point of Cr.” |
-| Phase transition | 2180 K | 2180 | liquid | model | [1] Hao 2021 | p. 16 | “From the calculated lattice stabilities of Cr by the second-generation and third-generation databases, as shown in Fig. 3, it can be observed that the melting point of Cr is changed from 2180 K to 2136 K in this work, based on the reason mentioned in Section 4.1.1.” |
-| Phase transition | 2180 K | 2180 | liquid | experimental | [1] Hao 2021; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | p. 8 | “The SGTE database \[9\] accepted the melting point of Cr to be 2180 K, as recommended by Gurvich et al. \[47\].” |
+| Phase transition | 257 K | 257 | magnetic | model | [1] Hao 2021 | p. 13; `ORC-J5GDEOEL6S` | “Meanwhile, because of the magnetic transition, a Nishizawa horn \[157\] appears at 257 K in Fig. 12.” |
+| Phase transition | 633 K | 633 | magnetic | experimental | [1] Hao 2021; _cites Crangle 1963_ [doi](https://doi.org/10.1098/rspa.1963.0045) | p. 11; `ORC-XJ6BSXJZ4T` | “From the magnetization vs. T curve, Crangle and Hallam \[114\] extrapolated the Curie temperature of fcc Ni as 633 K.” |
+| Phase transition | 807 K | 807 | CrNi2 | model | [1] Hao 2021; _cites Turchi 2006_ | p. 12; `ORC-FWFLDARLZM.fbcce2` | “However, the predicted formation temperatures of the CrNi2 phase (807 K and 820 K in the work \[150\] and \[151\], respectively) are inconsistent due to the difference in the calculated formation energy.” |
+| Phase transition | 820 K | 820 | CrNi2 | model | [1] Hao 2021; _cites Chan 2006_ | p. 12; `ORC-FWFLDARLZM.cef5da` | “However, the predicted formation temperatures of the CrNi2 phase (807 K and 820 K in the work \[150\] and \[151\], respectively) are inconsistent due to the difference in the calculated formation energy.” |
+| Phase transition | 863 K | 863 | other | model | [1] Hao 2021 | p. 18; `ORC-FWWPHXWR5Z` | “According to our calculation, the CrNi2 phase forms from a peritectoid reaction at 863 K.” |
+| Phase transition | 1873 K | 1873 |  | experimental | [1] Hao 2021; _cites Umino 1926_ | p. 10; `ORC-NBHY3W7ARD` | “The heat capacity data above 1873 K in the study of Umino \[97\] are less reliable since the purity of the sample is low (95.39 wt.%), and the melting point of bcc Cr is highly underestimated (1873 K).” |
+| Phase transition | 1873 K | 1873 | bcc + liquid | experimental | [1] Hao 2021; _cites Umino 1926_ | p. 16; `ORC-2M4FWURZF3` | “These two data points from the work of Umino \[97\] are not reliable since the melting point of Cr was highly underestimated as 1873 K.” |
+| Phase transition | 2136 K | 2136 | bcc + liquid | model | [1] Hao 2021 | p. 8; `ORC-O24YICU5WD` | “To better reproduce experimental phase equilibria data in Cr-containing binary or even high-order systems during future thermodynamic assessments, the value 2136 K was adopted as the melting point for bcc Cr in this work.” |
+| Phase transition | 2136 K | 2136 | liquid | model | [1] Hao 2021 | p. 16; `ORC-42HR6B6LUU.0028e2` | “From the calculated lattice stabilities of Cr by the second-generation and third-generation databases, as shown in Fig. 3, it can be observed that the melting point of Cr is changed from 2180 K to 2136 K in this work, based on the reason mentioned in Section 4.1.1.” |
+| Phase transition | 2136 K | 2136 | liquid | experimental | [1] Hao 2021; _cites Hultgren 1973_ | p. 8; `ORC-UWNYLPUNSF` | “Therefore, they suggested to adopt a lower value, 2136 K \[37,52\], for the melting point of Cr.” |
+| Phase transition | 2180 K | 2180 | liquid | model | [1] Hao 2021 | p. 16; `ORC-42HR6B6LUU.3bf076` | “From the calculated lattice stabilities of Cr by the second-generation and third-generation databases, as shown in Fig. 3, it can be observed that the melting point of Cr is changed from 2180 K to 2136 K in this work, based on the reason mentioned in Section 4.1.1.” |
+| Phase transition | 2180 K | 2180 | liquid | experimental | [1] Hao 2021; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | p. 8; `ORC-XBIQHO5JWX` | “The SGTE database \[9\] accepted the melting point of Cr to be 2180 K, as recommended by Gurvich et al. \[47\].” |
 
 ### Formation (6)
 
@@ -126,12 +126,12 @@ Table: Formation, Cr–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy of formation; _printed: ΔfS298_ | 5.925 J/mol-atom/K | 298.15 | B2; _alloy: Cr 0.5, Ni 0.5_ | model | [3] Liu 2016 | Table 4, p. 38, row 11 |  |
-| Entropy of formation; _printed: ΔfS298_ | 2.291 J/mol-atom/K | 298.15 | γ'-L12; _alloy: Cr 0.75, Ni 0.25_ | model | [3] Liu 2016 | Table 4, p. 38, row 31 |  |
-| Entropy of formation; _printed: ΔfS298_ | -1.52 J/mol-atom/K | 298.15 | γ'-L12; _alloy: Cr 0.25, Ni 0.75_ | model | [3] Liu 2016 | Table 4, p. 38, row 32 |  |
-| Gibbs energy of formation; _printed: ΔfG298_ | 22.497 kJ/mol-atom | 298.15 | B2; _alloy: Cr 0.5, Ni 0.5_ | model | [3] Liu 2016 | Table 4, p. 38, row 11 |  |
-| Gibbs energy of formation; _printed: ΔfG298_ | 13.609 kJ/mol-atom | 298.15 | γ'-L12; _alloy: Cr 0.75, Ni 0.25_ | model | [3] Liu 2016 | Table 4, p. 38, row 31 |  |
-| Gibbs energy of formation; _printed: ΔfG298_ | -0.266 kJ/mol-atom | 298.15 | γ'-L12; _alloy: Cr 0.25, Ni 0.75_ | model | [3] Liu 2016 | Table 4, p. 38, row 32 |  |
+| Entropy of formation; _printed: ΔfS298_ | 5.925 J/mol-atom/K | 298.15 | B2; _alloy: Cr 0.5, Ni 0.5_ | model | [3] Liu 2016 | Table 4, p. 38, row 11; `ORC-JE3KL3TAG6.66aaf4` |  |
+| Entropy of formation; _printed: ΔfS298_ | 2.291 J/mol-atom/K | 298.15 | γ'-L12; _alloy: Cr 0.75, Ni 0.25_ | model | [3] Liu 2016 | Table 4, p. 38, row 31; `ORC-CYR5RW36IJ.0c4c49` |  |
+| Entropy of formation; _printed: ΔfS298_ | -1.52 J/mol-atom/K | 298.15 | γ'-L12; _alloy: Cr 0.25, Ni 0.75_ | model | [3] Liu 2016 | Table 4, p. 38, row 32; `ORC-IZ6H4R6V52.890469` |  |
+| Gibbs energy of formation; _printed: ΔfG298_ | 22.497 kJ/mol-atom | 298.15 | B2; _alloy: Cr 0.5, Ni 0.5_ | model | [3] Liu 2016 | Table 4, p. 38, row 11; `ORC-JE3KL3TAG6.643118` |  |
+| Gibbs energy of formation; _printed: ΔfG298_ | 13.609 kJ/mol-atom | 298.15 | γ'-L12; _alloy: Cr 0.75, Ni 0.25_ | model | [3] Liu 2016 | Table 4, p. 38, row 31; `ORC-CYR5RW36IJ.88127f` |  |
+| Gibbs energy of formation; _printed: ΔfG298_ | -0.266 kJ/mol-atom | 298.15 | γ'-L12; _alloy: Cr 0.25, Ni 0.75_ | model | [3] Liu 2016 | Table 4, p. 38, row 32; `ORC-IZ6H4R6V52.4d97a4` |  |
 
 ### Mixing / partial (10)
 
@@ -139,16 +139,16 @@ Table: Mixing / partial, Cr–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: ΔHmix_ | 9.15 kJ/mol-atom | 0 | A2; _alloy: Cr 0.5, Ni 0.5_ | DFT | [3] Liu 2016 | Table 6, p. 40, row 17 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | 10.02 kJ/mol-atom | 0 | A2; _alloy: Cr 0.75, Ni 0.25_ | DFT | [3] Liu 2016 | Table 6, p. 40, row 16 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | 4.98 kJ/mol-atom | 0 | A2; _alloy: Cr 0.25, Ni 0.75_ | DFT | [3] Liu 2016 | Table 6, p. 40, row 18 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | 20.12 kJ/mol-atom | 0 | B2; _alloy: Cr 0.5, Ni 0.5_ | DFT | [3] Liu 2016 | Table 8, p. 42, row 25 |  |
-| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -9.719 kJ/mol-atom |  | fcc; _alloy: Cr 0.5, Ni 0.5_ | DFT | [4] Bracq 2021 | Table 1, p. 4, row 7 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -12.69 kJ/mol-atom | 0 | γ; _alloy: Cr 0.75, Ni 0.25_ | DFT | [3] Liu 2016 | Table 7, p. 41, row 16 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -5.79 kJ/mol-atom | 0 | γ; _alloy: Cr 0.25, Ni 0.75_ | DFT | [3] Liu 2016 | Table 7, p. 41, row 18 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -9.03 kJ/mol-atom | 0 | γ; _alloy: Cr 0.5, Ni 0.5_ | DFT | [3] Liu 2016 | Table 7, p. 41, row 17 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -10.03 kJ/mol-atom | 0 | γ’; _alloy: Cr 0.25, Ni 0.75_ | DFT | [3] Liu 2016 | Table 9, p. 43, row 22 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -13.88 kJ/mol-atom | 0 | γ’; _alloy: Cr 0.75, Ni 0.25_ | DFT | [3] Liu 2016 | Table 9, p. 43, row 27 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 9.15 kJ/mol-atom | 0 | A2; _alloy: Cr 0.5, Ni 0.5_ | DFT | [3] Liu 2016 | Table 6, p. 40, row 17; `ORC-4AVGOLDRYY.862ddc` |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 10.02 kJ/mol-atom | 0 | A2; _alloy: Cr 0.75, Ni 0.25_ | DFT | [3] Liu 2016 | Table 6, p. 40, row 16; `ORC-ECXY5ARLCL` |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 4.98 kJ/mol-atom | 0 | A2; _alloy: Cr 0.25, Ni 0.75_ | DFT | [3] Liu 2016 | Table 6, p. 40, row 18; `ORC-NNQH4SF765` |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 20.12 kJ/mol-atom | 0 | B2; _alloy: Cr 0.5, Ni 0.5_ | DFT | [3] Liu 2016 | Table 8, p. 42, row 25; `ORC-326E3OHRXX` |  |
+| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -9.719 kJ/mol-atom |  | fcc; _alloy: Cr 0.5, Ni 0.5_ | DFT | [4] Bracq 2021 | Table 1, p. 4, row 7; `ORC-NYY5VGMVQQ.0cb658` |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -12.69 kJ/mol-atom | 0 | γ; _alloy: Cr 0.75, Ni 0.25_ | DFT | [3] Liu 2016 | Table 7, p. 41, row 16; `ORC-BJCC23KTCK.7c92d8` |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -5.79 kJ/mol-atom | 0 | γ; _alloy: Cr 0.25, Ni 0.75_ | DFT | [3] Liu 2016 | Table 7, p. 41, row 18; `ORC-CG6B7EHP2R.127230` |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -9.03 kJ/mol-atom | 0 | γ; _alloy: Cr 0.5, Ni 0.5_ | DFT | [3] Liu 2016 | Table 7, p. 41, row 17; `ORC-XYCE5GPHM6` |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -10.03 kJ/mol-atom | 0 | γ’; _alloy: Cr 0.25, Ni 0.75_ | DFT | [3] Liu 2016 | Table 9, p. 43, row 22; `ORC-7BZ4YFYJFR` |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -13.88 kJ/mol-atom | 0 | γ’; _alloy: Cr 0.75, Ni 0.25_ | DFT | [3] Liu 2016 | Table 9, p. 43, row 27; `ORC-BSYOVSRLCW` |  |
 
 ### Crystal structure (3)
 
@@ -156,9 +156,9 @@ Table: Crystal structure, Cr–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Molar volume; _printed: V0_ | 12.175 Å3/atom | 298.15 | B2 CrNi; _alloy: Cr 0.5, Ni 0.5_ | DFT | [3] Liu 2016 | Table 2, p. 36, row 15 |  |
-| Molar volume; _printed: V0_ | 11.44 Å3/atom | 298.15 | γ'-L12 Cr3Ni; _alloy: Cr 0.75, Ni 0.25_ | DFT | [3] Liu 2016 | Table 2, p. 36, row 33 |  |
-| Molar volume; _printed: V0_ | 11.261 Å3/atom | 298.15 | γ'-L12 Ni3Cr; _alloy: Cr 0.25, Ni 0.75_ | DFT | [3] Liu 2016 | Table 2, p. 36, row 34 |  |
+| Molar volume; _printed: V0_ | 12.175 Å3/atom | 298.15 | B2 CrNi; _alloy: Cr 0.5, Ni 0.5_ | DFT | [3] Liu 2016 | Table 2, p. 36, row 15; `ORC-IKVOK7HGUY` |  |
+| Molar volume; _printed: V0_ | 11.44 Å3/atom | 298.15 | γ'-L12 Cr3Ni; _alloy: Cr 0.75, Ni 0.25_ | DFT | [3] Liu 2016 | Table 2, p. 36, row 33; `ORC-D4NDOFFZFN` |  |
+| Molar volume; _printed: V0_ | 11.261 Å3/atom | 298.15 | γ'-L12 Ni3Cr; _alloy: Cr 0.25, Ni 0.75_ | DFT | [3] Liu 2016 | Table 2, p. 36, row 34; `ORC-ZEG2HDHCIO` |  |
 
 ## Sources
 
@@ -226,4 +226,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

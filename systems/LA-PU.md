@@ -54,30 +54,30 @@ Table: Invariant reactions reported in the literature for the La–Pu system (24
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1123.15 | monotectic: L1 -> (γLa) + L2 | L1: Pu 0.229; (γLa): Pu 0.204; L2: Pu 0.956 | model | [1] Liu 2014 | Table 5, p. 6, row 4 |  |
-| 1123.15 | monotectic: L1 -> (γLa) + L2 | L1: Pu 0.23; (γLa): Pu 0.2 | experimental | [1] Liu 2014; _cites Ellinger 1967_ | Table 5, p. 6, row 2 |  |
-| 1123.15 | monotectic: L1 -> (γLa) + L2 | L1: Pu 0.23; (γLa): Pu 0.2; L2: Pu 0.957 | experimental | [1] Liu 2014; _cites Okamoto 2000_ | Table 5, p. 6, row 3 |  |
-| 1119.15 | monotectic: L1 -> (γLa) + L2 | L1: Pu 0.23; (γLa): Pu 0.2 | experimental | [1] Liu 2014; _cites Poole 1960_ | Table 5, p. 6, row 1 |  |
-| 1108.15 | metatectic/catatectic: (γLa) -> L2 + (βLa) | (γLa): Pu 0.197; L2: Pu 0.96; (βLa): Pu 0.193 | model | [1] Liu 2014 | Table 5, p. 6, row 8 |  |
-| 1108.15 | metatectic/catatectic: (γLa) -> L2 + (βLa) | (γLa): Pu 0.2; L2: Pu 0.96; (βLa): Pu 0.191 | experimental | [1] Liu 2014; _cites Okamoto 2000_ | Table 5, p. 6, row 7 |  |
-| 1108.15 | metatectic/catatectic: (γLa) -> L2 + (βLa) | (γLa): Pu 0.2; (βLa): Pu 0.19 | experimental | [1] Liu 2014; _cites Ellinger 1967_ | Table 5, p. 6, row 6 |  |
-| 1106.15 | metatectic/catatectic: (γLa) -> L2 + (βLa) | (γLa): Pu 0.18; (βLa): Pu 0.16 | experimental | [1] Liu 2014; _cites Poole 1960_ | Table 5, p. 6, row 5 |  |
-| 913.15 | eutectic: L2 -> (βLa) + (εPu) | L2: Pu 0.985; (βLa): Pu 0.128; (εPu): Pu 0.988 | experimental | [1] Liu 2014; _cites Okamoto 2000_ | Table 5, p. 6, row 10 |  |
-| 912.15 | eutectic: L2 -> (βLa) + (εPu) | L2: Pu 0.989; (βLa): Pu 0.134; (εPu): Pu 0.99 | model | [1] Liu 2014 | Table 5, p. 6, row 11 |  |
-| 905.15 | eutectic: L2 -> (βLa) + (εPu) |  | experimental | [1] Liu 2014; _cites Ellinger 1967_ | Table 5, p. 6, row 9 |  |
-| 756.15 | eutectoid: (εPu) -> (βLa) + (δ'Pu) | (εPu): Pu 0.997; (βLa): Pu 0.071; (δ'Pu): Pu 0.998 | experimental | [1] Liu 2014; _cites Okamoto 2000_ | Table 5, p. 6, row 13 |  |
-| 754.15 | eutectoid: (εPu) -> (βLa) + (δ'Pu) | (εPu): Pu 0.997; (βLa): Pu 0.078; (δ'Pu): Pu 0.998 | model | [1] Liu 2014 | Table 5, p. 6, row 14 |  |
-| 748.15 | eutectoid: (εPu) -> (βLa) + (δ'Pu) |  | experimental | [1] Liu 2014; _cites Ellinger 1967_ | Table 5, p. 6, row 12 |  |
-| 736.15 | peritectoid: (βLa) + (δ'Pu) -> (δPu) | (βLa): Pu 0.068; (δ'Pu): Pu 0.998 | experimental | [1] Liu 2014; _cites Okamoto 2000_ | Table 5, p. 6, row 22 |  |
-| 736.15 | peritectoid: (βLa) + (δ'Pu) -> (δPu) | (βLa): Pu 0.072; (δ'Pu): Pu 0.998 | model | [1] Liu 2014 | Table 5, p. 6, row 23 |  |
-| 723.15 | peritectoid: (βLa) + (δ'Pu) -> (δPu) |  | experimental | [1] Liu 2014; _cites Ellinger 1967_ | Table 5, p. 6, row 21 |  |
-| 603.15 | eutectoid: (δPu) -> (βLa) + (γPu) |  | experimental | [1] Liu 2014; _cites Ellinger 1967_ | Table 5, p. 6, row 15 |  |
-| 593.15 | eutectoid: (δPu) -> (βLa) + (γPu) | (δPu): Pu 1; (βLa): Pu 0.036; (γPu): Pu 1 | experimental | [1] Liu 2014; _cites Okamoto 2000_ | Table 5, p. 6, row 16 |  |
-| 592.15 | eutectoid: (δPu) -> (βLa) + (γPu) | (δPu): Pu 1; (βLa): Pu 0.035; (γPu): Pu 1 | model | [1] Liu 2014 | Table 5, p. 6, row 17 |  |
-| 488.15 | eutectoid: (γPu) -> (βLa) + (βPu) | (γPu): Pu 1; (βLa): Pu 0.023; (βPu): Pu 1 | experimental | [1] Liu 2014; _cites Okamoto 2000_ | Table 5, p. 6, row 18 |  |
-| 488.15 | eutectoid: (γPu) -> (βLa) + (βPu) | (γPu): Pu 1; (βLa): Pu 0.017; (βPu): Pu 1 | model | [1] Liu 2014 | Table 5, p. 6, row 19 |  |
-| 472.15 | eutectoid: (βLa) -> (αLa) + (βPu) | (βLa): Pu 0.015; (αLa): Pu 0; (βPu): Pu 1 | model | [1] Liu 2014 | Table 5, p. 6, row 20 |  |
-| 472.15 | eutectoid: (bLa) M (aLa) + (bPu) |  | model | [1] Liu 2014 | p. 6 | “A new eutectoid transforming, (bLa) M (aLa) + (bPu), which has not been mentioned in all the literature data, is predicted to take place at 199 °C in this work, and this could be used to assist with further investigation.” |
+| 1123.15 | monotectic: L1 -> (γLa) + L2 | L1: Pu 0.229; (γLa): Pu 0.204; L2: Pu 0.956 | model | [1] Liu 2014 | Table 5, p. 6, row 4; `ORC-GEPY52ECGM` |  |
+| 1123.15 | monotectic: L1 -> (γLa) + L2 | L1: Pu 0.23; (γLa): Pu 0.2 | experimental | [1] Liu 2014; _cites Ellinger 1967_ | Table 5, p. 6, row 2; `ORC-H7XBHXX2GZ` |  |
+| 1123.15 | monotectic: L1 -> (γLa) + L2 | L1: Pu 0.23; (γLa): Pu 0.2; L2: Pu 0.957 | experimental | [1] Liu 2014; _cites Okamoto 2000_ | Table 5, p. 6, row 3; `ORC-MYXCBHJR27` |  |
+| 1119.15 | monotectic: L1 -> (γLa) + L2 | L1: Pu 0.23; (γLa): Pu 0.2 | experimental | [1] Liu 2014; _cites Poole 1960_ | Table 5, p. 6, row 1; `ORC-BJQJ6J7T3R` |  |
+| 1108.15 | metatectic/catatectic: (γLa) -> L2 + (βLa) | (γLa): Pu 0.197; L2: Pu 0.96; (βLa): Pu 0.193 | model | [1] Liu 2014 | Table 5, p. 6, row 8; `ORC-CNFH22OACM` |  |
+| 1108.15 | metatectic/catatectic: (γLa) -> L2 + (βLa) | (γLa): Pu 0.2; L2: Pu 0.96; (βLa): Pu 0.191 | experimental | [1] Liu 2014; _cites Okamoto 2000_ | Table 5, p. 6, row 7; `ORC-CZXIFC2V6L` |  |
+| 1108.15 | metatectic/catatectic: (γLa) -> L2 + (βLa) | (γLa): Pu 0.2; (βLa): Pu 0.19 | experimental | [1] Liu 2014; _cites Ellinger 1967_ | Table 5, p. 6, row 6; `ORC-EX4VMP5OC6` |  |
+| 1106.15 | metatectic/catatectic: (γLa) -> L2 + (βLa) | (γLa): Pu 0.18; (βLa): Pu 0.16 | experimental | [1] Liu 2014; _cites Poole 1960_ | Table 5, p. 6, row 5; `ORC-SWSB5IGWGD` |  |
+| 913.15 | eutectic: L2 -> (βLa) + (εPu) | L2: Pu 0.985; (βLa): Pu 0.128; (εPu): Pu 0.988 | experimental | [1] Liu 2014; _cites Okamoto 2000_ | Table 5, p. 6, row 10; `ORC-5VY6DNJNBE` |  |
+| 912.15 | eutectic: L2 -> (βLa) + (εPu) | L2: Pu 0.989; (βLa): Pu 0.134; (εPu): Pu 0.99 | model | [1] Liu 2014 | Table 5, p. 6, row 11; `ORC-6N6TPEP4NH` |  |
+| 905.15 | eutectic: L2 -> (βLa) + (εPu) |  | experimental | [1] Liu 2014; _cites Ellinger 1967_ | Table 5, p. 6, row 9; `ORC-35LJ2WCXDV` |  |
+| 756.15 | eutectoid: (εPu) -> (βLa) + (δ'Pu) | (εPu): Pu 0.997; (βLa): Pu 0.071; (δ'Pu): Pu 0.998 | experimental | [1] Liu 2014; _cites Okamoto 2000_ | Table 5, p. 6, row 13; `ORC-6SAU74MBA7` |  |
+| 754.15 | eutectoid: (εPu) -> (βLa) + (δ'Pu) | (εPu): Pu 0.997; (βLa): Pu 0.078; (δ'Pu): Pu 0.998 | model | [1] Liu 2014 | Table 5, p. 6, row 14; `ORC-YNUEPDOHGN` |  |
+| 748.15 | eutectoid: (εPu) -> (βLa) + (δ'Pu) |  | experimental | [1] Liu 2014; _cites Ellinger 1967_ | Table 5, p. 6, row 12; `ORC-DWV4CG5Q2U` |  |
+| 736.15 | peritectoid: (βLa) + (δ'Pu) -> (δPu) | (βLa): Pu 0.068; (δ'Pu): Pu 0.998 | experimental | [1] Liu 2014; _cites Okamoto 2000_ | Table 5, p. 6, row 22; `ORC-CKBUUPRJP2` |  |
+| 736.15 | peritectoid: (βLa) + (δ'Pu) -> (δPu) | (βLa): Pu 0.072; (δ'Pu): Pu 0.998 | model | [1] Liu 2014 | Table 5, p. 6, row 23; `ORC-QVE67COCR5` |  |
+| 723.15 | peritectoid: (βLa) + (δ'Pu) -> (δPu) |  | experimental | [1] Liu 2014; _cites Ellinger 1967_ | Table 5, p. 6, row 21; `ORC-F7XKFJ32SC` |  |
+| 603.15 | eutectoid: (δPu) -> (βLa) + (γPu) |  | experimental | [1] Liu 2014; _cites Ellinger 1967_ | Table 5, p. 6, row 15; `ORC-LKQKPAUUZX` |  |
+| 593.15 | eutectoid: (δPu) -> (βLa) + (γPu) | (δPu): Pu 1; (βLa): Pu 0.036; (γPu): Pu 1 | experimental | [1] Liu 2014; _cites Okamoto 2000_ | Table 5, p. 6, row 16; `ORC-IR7BGPI4I4` |  |
+| 592.15 | eutectoid: (δPu) -> (βLa) + (γPu) | (δPu): Pu 1; (βLa): Pu 0.035; (γPu): Pu 1 | model | [1] Liu 2014 | Table 5, p. 6, row 17; `ORC-TFDUQA3EHL` |  |
+| 488.15 | eutectoid: (γPu) -> (βLa) + (βPu) | (γPu): Pu 1; (βLa): Pu 0.023; (βPu): Pu 1 | experimental | [1] Liu 2014; _cites Okamoto 2000_ | Table 5, p. 6, row 18; `ORC-CCFYSC5K6H` |  |
+| 488.15 | eutectoid: (γPu) -> (βLa) + (βPu) | (γPu): Pu 1; (βLa): Pu 0.017; (βPu): Pu 1 | model | [1] Liu 2014 | Table 5, p. 6, row 19; `ORC-YMWOBT24ML` |  |
+| 472.15 | eutectoid: (βLa) -> (αLa) + (βPu) | (βLa): Pu 0.015; (αLa): Pu 0; (βPu): Pu 1 | model | [1] Liu 2014 | Table 5, p. 6, row 20; `ORC-IEPT3ELK3C` |  |
+| 472.15 | eutectoid: (bLa) M (aLa) + (bPu) |  | model | [1] Liu 2014 | p. 6; `ORC-RXYESHOLTR` | “A new eutectoid transforming, (bLa) M (aLa) + (bPu), which has not been mentioned in all the literature data, is predicted to take place at 199 °C in this work, and this could be used to assist with further investigation.” |
 
 ## Other properties
 
@@ -87,7 +87,7 @@ Table: Phase transition, La–Pu system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1108.15 K | 1108.15 | other | experimental | [1] Liu 2014; _cites Ellinger 1967_ | p. 4 | “Ellinger's investigation \[30\] not only denoted that the monotectic reaction, L1 M (cLa) + L2, and the catatectic reaction, (cLa) M L2 + (bLa), occurs at 23 at.% Pu, 850 ± 3 °C and 20 at.% Pu, 835 °C respectively, but also indicated that the solubility of plutonium in (bLa) and (cLa) was approximately 19 and 20 at.% Pu respectively by the thermal, micrographic, and X-ray diffraction techniques.” |
+| Phase transition | 1108.15 K | 1108.15 | other | experimental | [1] Liu 2014; _cites Ellinger 1967_ | p. 4; `ORC-KS74LT7IOT` | “Ellinger's investigation \[30\] not only denoted that the monotectic reaction, L1 M (cLa) + L2, and the catatectic reaction, (cLa) M L2 + (bLa), occurs at 23 at.% Pu, 850 ± 3 °C and 20 at.% Pu, 835 °C respectively, but also indicated that the solubility of plutonium in (bLa) and (cLa) was approximately 19 and 20 at.% Pu respectively by the thermal, micrographic, and X-ray diffraction techniques.” |
 
 ## Sources
 
@@ -152,4 +152,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

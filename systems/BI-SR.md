@@ -66,14 +66,14 @@ Table: Invariant reactions reported in the literature for the Bi–Sr system (8)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1131 | peritectic |  | model | [1] Wang 2014 | p. 5 | “According to the present calculation, the computed peritectic reaction Liquid þ βSr5Bi32SrBi2 is located at 1131 K.” |
-| 1086 | eutectic: Liquid -> Sr2Bi + Sr3Bi2 |  | experimental | [1] Wang 2014 | p. 2 | “Four eutectic reactions, Liquid2 (Bi)þ SrBi3, Liquid2SrBi3 þ SrBi, Liquid2Sr2BiþSr3Bi2 and Liquid2 Sr2Biþ(βSr) and one peritectic reaction LiquidþSr3Bi22SrBi, were determined to be at 535, 855, 1086, 931 and 993 K, respectively.” |
-| 993 | peritectic: Liquid + Sr3Bi2 -> SrBi |  | experimental | [1] Wang 2014 | p. 2 | “Four eutectic reactions, Liquid2 (Bi)þ SrBi3, Liquid2SrBi3 þ SrBi, Liquid2Sr2BiþSr3Bi2 and Liquid2 Sr2Biþ(βSr) and one peritectic reaction LiquidþSr3Bi22SrBi, were determined to be at 535, 855, 1086, 931 and 993 K, respectively.” |
-| 983 | peritectic: Liquidþ αSr3Bi22SrBi |  | experimental | [1] Wang 2014; _cites Zhuravlev 1966_ | p. 2 | “A eutectic reaction Liquid2(Bi)þSrBi3, two peritectic reactions, LiquidþSrBi2SrBi3, and Liquidþ αSr3Bi22SrBi, and a polymorphic transformation αSr3Bi22βSr3Bi2 were reported to be at 533, 833, 983 and 973 K, respectively.” |
-| 931 | eutectic: Liquid -> Sr2Bi + (βSr) |  | experimental | [1] Wang 2014 | p. 2 | “Four eutectic reactions, Liquid2 (Bi)þ SrBi3, Liquid2SrBi3 þ SrBi, Liquid2Sr2BiþSr3Bi2 and Liquid2 Sr2Biþ(βSr) and one peritectic reaction LiquidþSr3Bi22SrBi, were determined to be at 535, 855, 1086, 931 and 993 K, respectively.” |
-| 855 | eutectic: Liquid -> SrBi3 + SrBi |  | experimental | [1] Wang 2014 | p. 2 | “Four eutectic reactions, Liquid2 (Bi)þ SrBi3, Liquid2SrBi3 þ SrBi, Liquid2Sr2BiþSr3Bi2 and Liquid2 Sr2Biþ(βSr) and one peritectic reaction LiquidþSr3Bi22SrBi, were determined to be at 535, 855, 1086, 931 and 993 K, respectively.” |
-| 833 | peritectic: LiquidþSrBi2SrBi3 |  | experimental | [1] Wang 2014; _cites Zhuravlev 1966_ | p. 2 | “A eutectic reaction Liquid2(Bi)þSrBi3, two peritectic reactions, LiquidþSrBi2SrBi3, and Liquidþ αSr3Bi22SrBi, and a polymorphic transformation αSr3Bi22βSr3Bi2 were reported to be at 533, 833, 983 and 973 K, respectively.” |
-| 535 | eutectic: Liquid -> (Bi) + SrBi3 |  | experimental | [1] Wang 2014 | p. 2 | “Four eutectic reactions, Liquid2 (Bi)þ SrBi3, Liquid2SrBi3 þ SrBi, Liquid2Sr2BiþSr3Bi2 and Liquid2 Sr2Biþ(βSr) and one peritectic reaction LiquidþSr3Bi22SrBi, were determined to be at 535, 855, 1086, 931 and 993 K, respectively.” |
+| 1131 | peritectic |  | model | [1] Wang 2014 | p. 5; `ORC-NXU63EX7WL` | “According to the present calculation, the computed peritectic reaction Liquid þ βSr5Bi32SrBi2 is located at 1131 K.” |
+| 1086 | eutectic: Liquid -> Sr2Bi + Sr3Bi2 |  | experimental | [1] Wang 2014 | p. 2; `ORC-OZHCQHBXEI.0b8d01` | “Four eutectic reactions, Liquid2 (Bi)þ SrBi3, Liquid2SrBi3 þ SrBi, Liquid2Sr2BiþSr3Bi2 and Liquid2 Sr2Biþ(βSr) and one peritectic reaction LiquidþSr3Bi22SrBi, were determined to be at 535, 855, 1086, 931 and 993 K, respectively.” |
+| 993 | peritectic: Liquid + Sr3Bi2 -> SrBi |  | experimental | [1] Wang 2014 | p. 2; `ORC-OZHCQHBXEI.3fbd48` | “Four eutectic reactions, Liquid2 (Bi)þ SrBi3, Liquid2SrBi3 þ SrBi, Liquid2Sr2BiþSr3Bi2 and Liquid2 Sr2Biþ(βSr) and one peritectic reaction LiquidþSr3Bi22SrBi, were determined to be at 535, 855, 1086, 931 and 993 K, respectively.” |
+| 983 | peritectic: Liquidþ αSr3Bi22SrBi |  | experimental | [1] Wang 2014; _cites Zhuravlev 1966_ | p. 2; `ORC-5RPDSGKP4W.c42a62` | “A eutectic reaction Liquid2(Bi)þSrBi3, two peritectic reactions, LiquidþSrBi2SrBi3, and Liquidþ αSr3Bi22SrBi, and a polymorphic transformation αSr3Bi22βSr3Bi2 were reported to be at 533, 833, 983 and 973 K, respectively.” |
+| 931 | eutectic: Liquid -> Sr2Bi + (βSr) |  | experimental | [1] Wang 2014 | p. 2; `ORC-OZHCQHBXEI.fb4333` | “Four eutectic reactions, Liquid2 (Bi)þ SrBi3, Liquid2SrBi3 þ SrBi, Liquid2Sr2BiþSr3Bi2 and Liquid2 Sr2Biþ(βSr) and one peritectic reaction LiquidþSr3Bi22SrBi, were determined to be at 535, 855, 1086, 931 and 993 K, respectively.” |
+| 855 | eutectic: Liquid -> SrBi3 + SrBi |  | experimental | [1] Wang 2014 | p. 2; `ORC-OZHCQHBXEI.065039` | “Four eutectic reactions, Liquid2 (Bi)þ SrBi3, Liquid2SrBi3 þ SrBi, Liquid2Sr2BiþSr3Bi2 and Liquid2 Sr2Biþ(βSr) and one peritectic reaction LiquidþSr3Bi22SrBi, were determined to be at 535, 855, 1086, 931 and 993 K, respectively.” |
+| 833 | peritectic: LiquidþSrBi2SrBi3 |  | experimental | [1] Wang 2014; _cites Zhuravlev 1966_ | p. 2; `ORC-5RPDSGKP4W.df09eb` | “A eutectic reaction Liquid2(Bi)þSrBi3, two peritectic reactions, LiquidþSrBi2SrBi3, and Liquidþ αSr3Bi22SrBi, and a polymorphic transformation αSr3Bi22βSr3Bi2 were reported to be at 533, 833, 983 and 973 K, respectively.” |
+| 535 | eutectic: Liquid -> (Bi) + SrBi3 |  | experimental | [1] Wang 2014 | p. 2; `ORC-OZHCQHBXEI.f109ba` | “Four eutectic reactions, Liquid2 (Bi)þ SrBi3, Liquid2SrBi3 þ SrBi, Liquid2Sr2BiþSr3Bi2 and Liquid2 Sr2Biþ(βSr) and one peritectic reaction LiquidþSr3Bi22SrBi, were determined to be at 535, 855, 1086, 931 and 993 K, respectively.” |
 
 ## Formation enthalpies
 
@@ -83,18 +83,18 @@ Table: Enthalpies of formation, Bi–Sr system (12)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Sr11Bi10 |  | -76.19 kJ/mol-atom | 298.15 | DFT |  |  | [1] Wang 2014 | Table 2, p. 3, row 16 |  |
-| Sr11Bi10 | [Bi10Sr11](https://data.orchid-project.org/compounds/Bi10Sr11.html) | -74.06 kJ/mol-atom | 298.15 | model | -82.788 (mp-aaaabsvp) | -84.404 (oqmd-50743) | [1] Wang 2014 | Table 2, p. 3, row 17 |  |
-| Sr2Bi | [BiSr2](https://data.orchid-project.org/compounds/BiSr2.html) | -104 kJ/mol-atom ± 1.67 | 298.15 | experimental | -72.467 (mp-aaaabrvf) | -74.05 (oqmd-7610) | [1] Wang 2014; _cites Shukarev 1956_ | Table 2, p. 3, row 22 |  |
-| Sr2Bi | [BiSr2](https://data.orchid-project.org/compounds/BiSr2.html) | -76.47 kJ/mol-atom | 298.15 | model | -72.467 (mp-aaaabrvf) | -74.05 (oqmd-7610) | [1] Wang 2014 | Table 2, p. 3, row 24 |  |
-| Sr2Bi |  | -73.23 kJ/mol-atom | 298.15 | DFT |  |  | [1] Wang 2014 | Table 2, p. 3, row 23 |  |
-| SrBi3 | [Bi3Sr](https://data.orchid-project.org/compounds/Bi3Sr.html) | -89.87 kJ/mol-atom ± 5.64 | 298.15 | experimental | -42.255 (mp-aaaabigt) | -43.387 (oqmd-10964) | [1] Wang 2014; _cites Shukarev 1956_ | Table 2, p. 3, row 13 |  |
-| SrBi3 |  | -43.22 kJ/mol-atom | 298.15 | DFT |  |  | [1] Wang 2014 | Table 2, p. 3, row 14 |  |
-| SrBi3 | [Bi3Sr](https://data.orchid-project.org/compounds/Bi3Sr.html) | -42.56 kJ/mol-atom | 298.15 | model | -42.255 (mp-aaaabigt) | -43.387 (oqmd-10964) | [1] Wang 2014 | Table 2, p. 3, row 15 |  |
-| αSr5Bi3 |  | -84.51 kJ/mol-atom | 298.15 | DFT |  |  | [1] Wang 2014 | Table 2, p. 3, row 18 |  |
-| αSr5Bi3 | [Bi3Sr5](https://data.orchid-project.org/compounds/Bi3Sr5.html) | -82 kJ/mol-atom | 298.15 | model | -84.259 (mp-aaaabrvg) | -85.527 (oqmd-7612) | [1] Wang 2014 | Table 2, p. 3, row 19 |  |
-| βSr5Bi3 |  | -82.84 kJ/mol-atom | 298.15 | DFT |  |  | [1] Wang 2014 | Table 2, p. 3, row 20 |  |
-| βSr5Bi3 | [Bi3Sr5](https://data.orchid-project.org/compounds/Bi3Sr5.html) | -80 kJ/mol-atom | 298.15 | model | -84.259 (mp-aaaabrvg) | -85.527 (oqmd-7612) | [1] Wang 2014 | Table 2, p. 3, row 21 |  |
+| Sr11Bi10 |  | -76.19 kJ/mol-atom | 298.15 | DFT |  |  | [1] Wang 2014 | Table 2, p. 3, row 16; `ORC-ZONDFOVYCG` |  |
+| Sr11Bi10 | [Bi10Sr11](https://data.orchid-project.org/compounds/Bi10Sr11.html) | -74.06 kJ/mol-atom | 298.15 | model | -82.788 (mp-aaaabsvp) | -84.404 (oqmd-50743) | [1] Wang 2014 | Table 2, p. 3, row 17; `ORC-U2B52HZYDA` |  |
+| Sr2Bi | [BiSr2](https://data.orchid-project.org/compounds/BiSr2.html) | -104 kJ/mol-atom ± 1.67 | 298.15 | experimental | -72.467 (mp-aaaabrvf) | -74.05 (oqmd-7610) | [1] Wang 2014; _cites Shukarev 1956_ | Table 2, p. 3, row 22; `ORC-PLBNKQB3UV.30d7fb` |  |
+| Sr2Bi | [BiSr2](https://data.orchid-project.org/compounds/BiSr2.html) | -76.47 kJ/mol-atom | 298.15 | model | -72.467 (mp-aaaabrvf) | -74.05 (oqmd-7610) | [1] Wang 2014 | Table 2, p. 3, row 24; `ORC-5Z2IK6A66T` |  |
+| Sr2Bi |  | -73.23 kJ/mol-atom | 298.15 | DFT |  |  | [1] Wang 2014 | Table 2, p. 3, row 23; `ORC-YMDVNLOICY` |  |
+| SrBi3 | [Bi3Sr](https://data.orchid-project.org/compounds/Bi3Sr.html) | -89.87 kJ/mol-atom ± 5.64 | 298.15 | experimental | -42.255 (mp-aaaabigt) | -43.387 (oqmd-10964) | [1] Wang 2014; _cites Shukarev 1956_ | Table 2, p. 3, row 13; `ORC-RZUJQBAN5Q.7f536d` |  |
+| SrBi3 |  | -43.22 kJ/mol-atom | 298.15 | DFT |  |  | [1] Wang 2014 | Table 2, p. 3, row 14; `ORC-L3AIFYCQ3W` |  |
+| SrBi3 | [Bi3Sr](https://data.orchid-project.org/compounds/Bi3Sr.html) | -42.56 kJ/mol-atom | 298.15 | model | -42.255 (mp-aaaabigt) | -43.387 (oqmd-10964) | [1] Wang 2014 | Table 2, p. 3, row 15; `ORC-S5NXOFT7MX` |  |
+| αSr5Bi3 |  | -84.51 kJ/mol-atom | 298.15 | DFT |  |  | [1] Wang 2014 | Table 2, p. 3, row 18; `ORC-6SX2WWS4I7` |  |
+| αSr5Bi3 | [Bi3Sr5](https://data.orchid-project.org/compounds/Bi3Sr5.html) | -82 kJ/mol-atom | 298.15 | model | -84.259 (mp-aaaabrvg) | -85.527 (oqmd-7612) | [1] Wang 2014 | Table 2, p. 3, row 19; `ORC-S5ISTLAG6B` |  |
+| βSr5Bi3 |  | -82.84 kJ/mol-atom | 298.15 | DFT |  |  | [1] Wang 2014 | Table 2, p. 3, row 20; `ORC-XEL6WUY3TT` |  |
+| βSr5Bi3 | [Bi3Sr5](https://data.orchid-project.org/compounds/Bi3Sr5.html) | -80 kJ/mol-atom | 298.15 | model | -84.259 (mp-aaaabrvg) | -85.527 (oqmd-7612) | [1] Wang 2014 | Table 2, p. 3, row 21; `ORC-VOULBF6IFJ` |  |
 
 ## Other properties
 
@@ -104,12 +104,12 @@ Table: Phase transition, Bi–Sr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 333 K | 333 | other | model | [2] Hallstedt 2003 | p. 5 | “The transition temperatures at the end compositions were fixed to 400 and 333 K, respectively, after a preliminary optimisation.” |
-| Phase transition | 905 K | 905 | congruent transformation | experimental | [1] Wang 2014 | p. 2 | “SrBi3, Sr3Bi2 and Sr2Bi melt congruently at 905, 1218 and 1131 K, respectively.” |
-| Phase transition | 973 K | 973 | polymorphic: αSr3Bi22βSr3Bi2 | experimental | [1] Wang 2014; _cites Zhuravlev 1966_ | p. 2 | “A eutectic reaction Liquid2(Bi)þSrBi3, two peritectic reactions, LiquidþSrBi2SrBi3, and Liquidþ αSr3Bi22SrBi, and a polymorphic transformation αSr3Bi22βSr3Bi2 were reported to be at 533, 833, 983 and 973 K, respectively.” |
-| Phase transition | 1131 K | 1131 | congruent transformation | experimental | [1] Wang 2014 | p. 2 | “SrBi3, Sr3Bi2 and Sr2Bi melt congruently at 905, 1218 and 1131 K, respectively.” |
-| Phase transition | 1218 K | 1218 |  | model | [1] Wang 2014 | p. 5 | “It is indicated that the melting temperature of the βSr5Bi3 phase is calculated to be 1218 K.” |
-| Phase transition | 1218 K | 1218 | congruent transformation | experimental | [1] Wang 2014 | p. 2 | “SrBi3, Sr3Bi2 and Sr2Bi melt congruently at 905, 1218 and 1131 K, respectively.” |
+| Phase transition | 333 K | 333 | other | model | [2] Hallstedt 2003 | p. 5; `ORC-7C7IUK4GI6` | “The transition temperatures at the end compositions were fixed to 400 and 333 K, respectively, after a preliminary optimisation.” |
+| Phase transition | 905 K | 905 | congruent transformation | experimental | [1] Wang 2014 | p. 2; `ORC-2N7SWTBTZY.29cc24` | “SrBi3, Sr3Bi2 and Sr2Bi melt congruently at 905, 1218 and 1131 K, respectively.” |
+| Phase transition | 973 K | 973 | polymorphic: αSr3Bi22βSr3Bi2 | experimental | [1] Wang 2014; _cites Zhuravlev 1966_ | p. 2; `ORC-5RPDSGKP4W.038368` | “A eutectic reaction Liquid2(Bi)þSrBi3, two peritectic reactions, LiquidþSrBi2SrBi3, and Liquidþ αSr3Bi22SrBi, and a polymorphic transformation αSr3Bi22βSr3Bi2 were reported to be at 533, 833, 983 and 973 K, respectively.” |
+| Phase transition | 1131 K | 1131 | congruent transformation | experimental | [1] Wang 2014 | p. 2; `ORC-2N7SWTBTZY.8c8090` | “SrBi3, Sr3Bi2 and Sr2Bi melt congruently at 905, 1218 and 1131 K, respectively.” |
+| Phase transition | 1218 K | 1218 |  | model | [1] Wang 2014 | p. 5; `ORC-DPEZIUZUDB` | “It is indicated that the melting temperature of the βSr5Bi3 phase is calculated to be 1218 K.” |
+| Phase transition | 1218 K | 1218 | congruent transformation | experimental | [1] Wang 2014 | p. 2; `ORC-2N7SWTBTZY.34804e` | “SrBi3, Sr3Bi2 and Sr2Bi melt congruently at 905, 1218 and 1131 K, respectively.” |
 
 ### Crystal structure (19)
 
@@ -117,25 +117,25 @@ Table: Crystal structure, Bi–Sr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 13.021 Å | 298.15 | Sr11Bi10; _alloy: Sr 0.52381_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 23 |  |
-| Lattice a | 12.765 Å | 298.15 | Sr11Bi10; _alloy: Sr 0.52381_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 22 |  |
-| Lattice a | 5.01 Å | 298.15 | Sr2Bi; _alloy: Sr 0.666667_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 28 |  |
-| Lattice a | 5.06 Å | 298.15 | SrBi3; _alloy: Sr 0.25_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 21 |  |
-| Lattice a | 5.042 Å | 298.15 | SrBi3; _alloy: Sr 0.25_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 20 |  |
-| Lattice a | 9.754 Å | 298.15 | αSr5Bi3; _alloy: Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 25 |  |
-| Lattice a | 9.63 Å | 298.15 | αSr5Bi3; _alloy: Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 24 |  |
-| Lattice a | 13.681 Å | 298.15 | βSr5Bi3; _alloy: Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 27 |  |
-| Lattice a | 13.37 Å | 298.15 | βSr5Bi3; _alloy: Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 26 |  |
-| Lattice b | 10.302 Å | 298.15 | βSr5Bi3; _alloy: Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 27 |  |
-| Lattice b | 10.233 Å | 298.15 | βSr5Bi3; _alloy: Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 26 |  |
-| Lattice c | 18.196 Å | 298.15 | Sr11Bi10; _alloy: Sr 0.52381_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 23 |  |
-| Lattice c | 18.407 Å | 298.15 | Sr11Bi10; _alloy: Sr 0.52381_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 22 |  |
-| Lattice c | 18.091 Å | 298.15 | Sr2Bi; _alloy: Sr 0.666667_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 29 |  |
-| Lattice c | 17.68 Å | 298.15 | Sr2Bi; _alloy: Sr 0.666667_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 28 |  |
-| Lattice c | 7.542 Å | 298.15 | αSr5Bi3; _alloy: Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 25 |  |
-| Lattice c | 7.63 Å | 298.15 | αSr5Bi3; _alloy: Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 24 |  |
-| Lattice c | 8.917 Å | 298.15 | βSr5Bi3; _alloy: Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 27 |  |
-| Lattice c | 8.89 Å | 298.15 | βSr5Bi3; _alloy: Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 26 |  |
+| Lattice a | 13.021 Å | 298.15 | Sr11Bi10; _alloy: Sr 0.52381_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 23; `ORC-5P7BY6SE6A.9aee95` |  |
+| Lattice a | 12.765 Å | 298.15 | Sr11Bi10; _alloy: Sr 0.52381_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 22; `ORC-NGBMW4F3F2.a9f141` |  |
+| Lattice a | 5.01 Å | 298.15 | Sr2Bi; _alloy: Sr 0.666667_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 28; `ORC-P4HD2WZA6D.fb5c9f` |  |
+| Lattice a | 5.06 Å | 298.15 | SrBi3; _alloy: Sr 0.25_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 21; `ORC-4RBIXNE7VS` |  |
+| Lattice a | 5.042 Å | 298.15 | SrBi3; _alloy: Sr 0.25_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 20; `ORC-JA7ZOCW2Z5` |  |
+| Lattice a | 9.754 Å | 298.15 | αSr5Bi3; _alloy: Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 25; `ORC-47YPICPDHQ.953d6f` |  |
+| Lattice a | 9.63 Å | 298.15 | αSr5Bi3; _alloy: Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 24; `ORC-E7YWAJZBGR.b051b5` |  |
+| Lattice a | 13.681 Å | 298.15 | βSr5Bi3; _alloy: Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 27; `ORC-3QDW6CB554.4bebdb` |  |
+| Lattice a | 13.37 Å | 298.15 | βSr5Bi3; _alloy: Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 26; `ORC-UXKTZS56MF.f2044e` |  |
+| Lattice b | 10.302 Å | 298.15 | βSr5Bi3; _alloy: Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 27; `ORC-3QDW6CB554.3119c3` |  |
+| Lattice b | 10.233 Å | 298.15 | βSr5Bi3; _alloy: Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 26; `ORC-UXKTZS56MF.c544ca` |  |
+| Lattice c | 18.196 Å | 298.15 | Sr11Bi10; _alloy: Sr 0.52381_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 23; `ORC-5P7BY6SE6A.cd7e26` |  |
+| Lattice c | 18.407 Å | 298.15 | Sr11Bi10; _alloy: Sr 0.52381_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 22; `ORC-NGBMW4F3F2.0cc330` |  |
+| Lattice c | 18.091 Å | 298.15 | Sr2Bi; _alloy: Sr 0.666667_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 29; `ORC-2T7DWOM3F2` |  |
+| Lattice c | 17.68 Å | 298.15 | Sr2Bi; _alloy: Sr 0.666667_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 28; `ORC-P4HD2WZA6D.f589e6` |  |
+| Lattice c | 7.542 Å | 298.15 | αSr5Bi3; _alloy: Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 25; `ORC-47YPICPDHQ.9e5870` |  |
+| Lattice c | 7.63 Å | 298.15 | αSr5Bi3; _alloy: Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 24; `ORC-E7YWAJZBGR.d630ea` |  |
+| Lattice c | 8.917 Å | 298.15 | βSr5Bi3; _alloy: Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 27; `ORC-3QDW6CB554.64a3b7` |  |
+| Lattice c | 8.89 Å | 298.15 | βSr5Bi3; _alloy: Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 26; `ORC-UXKTZS56MF.48aae1` |  |
 
 ## Sources
 
@@ -201,4 +201,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

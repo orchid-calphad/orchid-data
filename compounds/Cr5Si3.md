@@ -14,13 +14,13 @@ Table: Enthalpy of formation of Cr5Si3 reported in the literature (7)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -41 kJ/mol-atom | Cr5Si3 | 298.15 | experimental |  | [Cr–Si](https://data.orchid-project.org/systems/CR-SI.html) | [1] Coughanowr 1994; _cites ref. 61Gol2_ | Table 6, p. 14, row 5 |  |
-| -33.6 per mol-atom ± 1000 | αCr5Si3 | 298.15 | experimental |  | [Cr–Si](https://data.orchid-project.org/systems/CR-SI.html) | [2] Du 2000; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900528-8) | Table 4, p. 4, row 4 |  |
-| -32.9 kJ/mol-atom | Cr5Si3 |  | model |  | [Cr–Si](https://data.orchid-project.org/systems/CR-SI.html) | [1] Coughanowr 1994 | Table 6, p. 14, row 8 |  |
-| -32.57 kJ/mol-atom | Cr5Si3 |  | model |  | [Cr–Si](https://data.orchid-project.org/systems/CR-SI.html) | [1] Coughanowr 1994 | Table 6, p. 14, row 6 |  |
-| -32.57 per mol-atom | αCr5Si3 | 298.15 | model |  | [Cr–Si](https://data.orchid-project.org/systems/CR-SI.html) | [2] Du 2000; _cites Coughanowr 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990023-x) | Table 4, p. 4, row 6 |  |
-| -32.525 per mol-atom | αCr5Si3 | 298.15 | model |  | [Cr–Si](https://data.orchid-project.org/systems/CR-SI.html) | [2] Du 2000 | Table 4, p. 4, row 5 |  |
-| -32.52 kJ/mol-atom | Cr5Si3 |  | model |  | [Cr–Si](https://data.orchid-project.org/systems/CR-SI.html) | [1] Coughanowr 1994 | Table 6, p. 14, row 7 |  |
+| -41 kJ/mol-atom | Cr5Si3 | 298.15 | experimental |  | [Cr–Si](https://data.orchid-project.org/systems/CR-SI.html) | [1] Coughanowr 1994; _cites ref. 61Gol2_ | Table 6, p. 14, row 5; `ORC-GMA4XV7L4M.3cc978` |  |
+| -33.6 per mol-atom ± 1000 | αCr5Si3 | 298.15 | experimental |  | [Cr–Si](https://data.orchid-project.org/systems/CR-SI.html) | [2] Du 2000; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900528-8) | Table 4, p. 4, row 4; `ORC-PXHGAHXP25.50c7e9` |  |
+| -32.9 kJ/mol-atom | Cr5Si3 |  | model |  | [Cr–Si](https://data.orchid-project.org/systems/CR-SI.html) | [1] Coughanowr 1994 | Table 6, p. 14, row 8; `ORC-6DVBEI2V2B.8033a6` |  |
+| -32.57 kJ/mol-atom | Cr5Si3 |  | model |  | [Cr–Si](https://data.orchid-project.org/systems/CR-SI.html) | [1] Coughanowr 1994 | Table 6, p. 14, row 6; `ORC-I6VUO3QXGV.a545db` |  |
+| -32.57 per mol-atom | αCr5Si3 | 298.15 | model |  | [Cr–Si](https://data.orchid-project.org/systems/CR-SI.html) | [2] Du 2000; _cites Coughanowr 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990023-x) | Table 4, p. 4, row 6; `ORC-JUQKCTZRZ6.f8318d` |  |
+| -32.525 per mol-atom | αCr5Si3 | 298.15 | model |  | [Cr–Si](https://data.orchid-project.org/systems/CR-SI.html) | [2] Du 2000 | Table 4, p. 4, row 5; `ORC-DNJLNZGVNR.134cf5` |  |
+| -32.52 kJ/mol-atom | Cr5Si3 |  | model |  | [Cr–Si](https://data.orchid-project.org/systems/CR-SI.html) | [1] Coughanowr 1994 | Table 6, p. 14, row 7; `ORC-M34I2LXSTR.dada96` |  |
 
 ### Uncertainty budget
 
@@ -103,4 +103,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

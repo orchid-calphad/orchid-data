@@ -26,17 +26,17 @@ Table: Invariant reactions reported in the literature for the Sn–U–Zr system
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1885.15 | L1 + L2 ↔η+ bcc_A2 | L: U 0.061, Zr 0.755 | model | [1] Wang 2021 | Table 4, p. 9, row 1 |  |
-| 1726.15 | L2 + bcc_A2#1↔ η+ bcc_A2#2 | L: U 0.683, Zr 0.314 | model | [1] Wang 2021 | Table 4, p. 9, row 2 |  |
-| 1647.15 | L1 + L2 ↔ U5Sn4 + η | L: U 0.16, Zr 0.206 | model | [1] Wang 2021 | Table 4, p. 9, row 3 |  |
-| 1498.15 | L + U5Sn4↔ USn + η | L: U 0.025, Zr 0.227 | model | [1] Wang 2021 | Table 4, p. 9, row 4 |  |
-| 1400.15 | L + bct_Sn + η↔ ZrSn2 | L: U 0, Zr 0.212 | model | [1] Wang 2021 | Table 4, p. 9, row 5 |  |
-| 1395.15 | L + η↔ ZrSn2 + USn | L: U 0.009, Zr 0.207 | model | [1] Wang 2021 | Table 4, p. 9, row 6 |  |
-| 1389.15 | L + η↔ bcc_A2 + U5Sn4 | L: U 0.967, Zr 0.001 | model | [1] Wang 2021 | Table 4, p. 9, row 7 |  |
-| 1329.15 | L + USn ↔ ZrSn2 + USn2 | L: U 0.006, Zr 0.172 | model | [1] Wang 2021 | Table 4, p. 9, row 8 |  |
-| 1296.15 | L + USn2 ↔ ZrSn2 + U3Sn7 | L: U 0.004, Zr 0.158 | model | [1] Wang 2021 | Table 4, p. 9, row 9 |  |
-| 1269.15 | L + U3Sn7 ↔ USn3 + ZrSn2 | L: U 0.003, Zr 0.147 | model | [1] Wang 2021 | Table 4, p. 9, row 10 |  |
-| 505.15 | L ↔ bct_Sn + USn3 + ZrSn2 | L: U 0, Zr 0 | model | [1] Wang 2021 | Table 4, p. 9, row 11 |  |
+| 1885.15 | L1 + L2 ↔η+ bcc_A2 | L: U 0.061, Zr 0.755 | model | [1] Wang 2021 | Table 4, p. 9, row 1; `ORC-GRWUUESTQB` |  |
+| 1726.15 | L2 + bcc_A2#1↔ η+ bcc_A2#2 | L: U 0.683, Zr 0.314 | model | [1] Wang 2021 | Table 4, p. 9, row 2; `ORC-GSWJOW5WPD` |  |
+| 1647.15 | L1 + L2 ↔ U5Sn4 + η | L: U 0.16, Zr 0.206 | model | [1] Wang 2021 | Table 4, p. 9, row 3; `ORC-IJZFSJSHFB` |  |
+| 1498.15 | L + U5Sn4↔ USn + η | L: U 0.025, Zr 0.227 | model | [1] Wang 2021 | Table 4, p. 9, row 4; `ORC-IAHWCODN4E` |  |
+| 1400.15 | L + bct_Sn + η↔ ZrSn2 | L: U 0, Zr 0.212 | model | [1] Wang 2021 | Table 4, p. 9, row 5; `ORC-NAGQ7HBHTY` |  |
+| 1395.15 | L + η↔ ZrSn2 + USn | L: U 0.009, Zr 0.207 | model | [1] Wang 2021 | Table 4, p. 9, row 6; `ORC-ASYVPIHJAD` |  |
+| 1389.15 | L + η↔ bcc_A2 + U5Sn4 | L: U 0.967, Zr 0.001 | model | [1] Wang 2021 | Table 4, p. 9, row 7; `ORC-VIDMSQKHZ7` |  |
+| 1329.15 | L + USn ↔ ZrSn2 + USn2 | L: U 0.006, Zr 0.172 | model | [1] Wang 2021 | Table 4, p. 9, row 8; `ORC-2FVBKT5LZ5` |  |
+| 1296.15 | L + USn2 ↔ ZrSn2 + U3Sn7 | L: U 0.004, Zr 0.158 | model | [1] Wang 2021 | Table 4, p. 9, row 9; `ORC-D3FHGZVU5J` |  |
+| 1269.15 | L + U3Sn7 ↔ USn3 + ZrSn2 | L: U 0.003, Zr 0.147 | model | [1] Wang 2021 | Table 4, p. 9, row 10; `ORC-HD37SWPK5B` |  |
+| 505.15 | L ↔ bct_Sn + USn3 + ZrSn2 | L: U 0, Zr 0 | model | [1] Wang 2021 | Table 4, p. 9, row 11; `ORC-DGDPYNMLK6` |  |
 
 ## Sources
 
@@ -79,4 +79,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

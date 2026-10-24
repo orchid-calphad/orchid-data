@@ -14,13 +14,13 @@ Table: Enthalpy of formation of SiTa3 reported in the literature (7)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -43.332 kJ/mol-atom | Si0.25Ta0.75 | 2087.5 | experimental | Kundsen eff. Method | [Si–Ta](https://data.orchid-project.org/systems/SI-TA.html) | [1] Drouelle 2013; _cites Myers 1957_ [doi](https://doi.org/10.1021/ja01560a007) | Table 2, p. 2, row 26 |  |
-| -43.3 kJ/mol-atom | Ta3Si |  | model |  | [Si–Ta](https://data.orchid-project.org/systems/SI-TA.html) | [2] Broz 2013; _cites Gorelkin 1971_ | Table 2, p. 6, row 61 |  |
-| -43 kJ/mol-atom | Ta3Si | 0 | model |  | [Si–Ta](https://data.orchid-project.org/systems/SI-TA.html) | [2] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 2, p. 6, row 63 |  |
-| -42.2237 kJ/mol-atom | Si0.25Ta0.75 | 298.15 | model | Optimization | [Si–Ta](https://data.orchid-project.org/systems/SI-TA.html) | [1] Drouelle 2013 | Table 2, p. 2, row 25 |  |
-| -39 kJ/mol-atom | Ta3Si |  | model |  | [Si–Ta](https://data.orchid-project.org/systems/SI-TA.html) | [2] Broz 2013; _cites Eremenko 1975_ | Table 2, p. 6, row 62 |  |
-| -39 kJ/mol-atom | Si0.25Ta0.75 | 298.15 | model | Prediction | [Si–Ta](https://data.orchid-project.org/systems/SI-TA.html) | [1] Drouelle 2013; _cites F 1988_ | Table 2, p. 2, row 24 |  |
-| -43 kJ/mol-atom | Ta3Si | 0 | unspecified |  | [Si–Ta](https://data.orchid-project.org/systems/SI-TA.html) | [2] Broz 2013 | Table 2, p. 6, row 60 |  |
+| -43.332 kJ/mol-atom | Si0.25Ta0.75 | 2087.5 | experimental | Kundsen eff. Method | [Si–Ta](https://data.orchid-project.org/systems/SI-TA.html) | [1] Drouelle 2013; _cites Myers 1957_ [doi](https://doi.org/10.1021/ja01560a007) | Table 2, p. 2, row 26; `ORC-K6GMSBONRZ.72bc9b` |  |
+| -43.3 kJ/mol-atom | Ta3Si |  | model |  | [Si–Ta](https://data.orchid-project.org/systems/SI-TA.html) | [2] Broz 2013; _cites Gorelkin 1971_ | Table 2, p. 6, row 61; `ORC-PP5SXB5CBX.b2c03b` |  |
+| -43 kJ/mol-atom | Ta3Si | 0 | model |  | [Si–Ta](https://data.orchid-project.org/systems/SI-TA.html) | [2] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 2, p. 6, row 63; `ORC-AHNZHZ5XAC.fed5e5` |  |
+| -42.2237 kJ/mol-atom | Si0.25Ta0.75 | 298.15 | model | Optimization | [Si–Ta](https://data.orchid-project.org/systems/SI-TA.html) | [1] Drouelle 2013 | Table 2, p. 2, row 25; `ORC-GDYQLC5AAG.09c37e` |  |
+| -39 kJ/mol-atom | Ta3Si |  | model |  | [Si–Ta](https://data.orchid-project.org/systems/SI-TA.html) | [2] Broz 2013; _cites Eremenko 1975_ | Table 2, p. 6, row 62; `ORC-7ELL3ZKUDM.ed0e6a` |  |
+| -39 kJ/mol-atom | Si0.25Ta0.75 | 298.15 | model | Prediction | [Si–Ta](https://data.orchid-project.org/systems/SI-TA.html) | [1] Drouelle 2013; _cites F 1988_ | Table 2, p. 2, row 24; `ORC-LQUEJVU6EZ.09a473` |  |
+| -43 kJ/mol-atom | Ta3Si | 0 | unspecified |  | [Si–Ta](https://data.orchid-project.org/systems/SI-TA.html) | [2] Broz 2013 | Table 2, p. 6, row 60; `ORC-E5WTKSCT4X.d92315` |  |
 
 ### Uncertainty budget
 
@@ -103,4 +103,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

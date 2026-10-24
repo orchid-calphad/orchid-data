@@ -32,30 +32,30 @@ Table: Enthalpies of formation, Pr system (24)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Cu2R |  | -43.6 kJ/mol (basis unstated) |  | unspecified |  |  | [1] Zhuang 1996; _cites ref. 88Sub4_ | Table 10, p. 13, row 29 |  |
-| Cu2R |  | -31.5 kJ/mol (basis unstated) |  | model |  |  | [1] Zhuang 1996 | Table 10, p. 13, row 30 |  |
-| Cu2R |  | -19.7 kJ/mol (basis unstated) |  | model |  |  | [1] Zhuang 1996 | Table 10, p. 13, row 28 |  |
-| Cu2R |  | -14.5 kJ/mol (basis unstated) |  | unspecified |  |  | [1] Zhuang 1996; _cites ref. 94Fit_ | Table 10, p. 13, row 31 |  |
-| Cu4R |  | -31.5 kJ/mol (basis unstated) |  | model |  |  | [1] Zhuang 1996 | Table 10, p. 13, row 30 |  |
-| Cu4R |  | -27.8 kJ/mol (basis unstated) |  | unspecified |  |  | [1] Zhuang 1996; _cites ref. 88Sub4_ | Table 10, p. 13, row 26 |  |
-| Cu4R |  | -22.2 kJ/mol (basis unstated) |  | model |  |  | [1] Zhuang 1996 | Table 10, p. 13, row 27 |  |
-| Cu4R |  | -15.1 kJ/mol (basis unstated) |  | model |  |  | [1] Zhuang 1996 | Table 10, p. 13, row 25 |  |
-| Cu5R |  | -30.7 kJ/mol (basis unstated) |  | unspecified |  |  | [1] Zhuang 1996; _cites ref. 88Sub4_ | Table 10, p. 13, row 23 |  |
-| Cu5R |  | -18.8 kJ/mol (basis unstated) |  | model |  |  | [1] Zhuang 1996 | Table 10, p. 13, row 24 |  |
-| Cu5R |  | -13.8 kJ/mol (basis unstated) |  | model |  |  | [1] Zhuang 1996 | Table 10, p. 13, row 22 |  |
-| Cu6R |  | -33.6 kJ/mol (basis unstated) |  | unspecified |  |  | [1] Zhuang 1996; _cites ref. 88Sub4_ | Table 10, p. 13, row 19 |  |
-| Cu6R |  | -16.1 kJ/mol (basis unstated) |  | model |  |  | [1] Zhuang 1996 | Table 10, p. 13, row 20 |  |
-| Cu6R |  | -12.7 kJ/mol (basis unstated) |  | model |  |  | [1] Zhuang 1996 | Table 10, p. 13, row 18 |  |
-| Cu6R |  | -11.3 kJ/mol (basis unstated) |  | unspecified |  |  | [1] Zhuang 1996; _cites ref. 94Fit_ | Table 10, p. 13, row 21 |  |
-| CuR |  | -46.7 kJ/mol (basis unstated) |  | unspecified |  |  | [1] Zhuang 1996; _cites ref. 88Sub4_ | Table 10, p. 13, row 33 |  |
-| CuR |  | -31 kJ/mol (basis unstated) |  | model |  |  | [1] Zhuang 1996 | Table 10, p. 13, row 34 |  |
-| CuR |  | -19 kJ/mol (basis unstated) |  | model |  |  | [1] Zhuang 1996 | Table 10, p. 13, row 32 |  |
-| CuR |  | -12.7 kJ/mol (basis unstated) |  | model |  |  | [1] Zhuang 1996 | Table 10, p. 13, row 18 |  |
-| PrMg |  | -12.7 kJ/mol-atom | 298.15 | experimental |  |  | [2] Hampl 2013; _cites ref. 1967Ogr_ | Table 6, p. 10, row 10 |  |
-| PrMg3 |  | -11.5 kJ/mol-atom | 298.15 | experimental |  |  | [2] Hampl 2013; _cites ref. 1933Can_ | Table 6, p. 10, row 9 |  |
-| RMg |  | -17.2 kJ/mol-atom | 298.15 | experimental |  |  | [2] Hampl 2013; _cites ref. 1933Can_ | Table 6, p. 10, row 9 |  |
-| RMg |  | -12.7 kJ/mol-atom | 298.15 | experimental |  |  | [2] Hampl 2013; _cites ref. 1967Ogr_ | Table 6, p. 10, row 10 |  |
-| RMg3 |  | -11.5 kJ/mol-atom | 298.15 | experimental |  |  | [2] Hampl 2013; _cites ref. 1933Can_ | Table 6, p. 10, row 9 |  |
+| Cu2R |  | -43.6 kJ/mol (basis unstated) |  | unspecified |  |  | [1] Zhuang 1996; _cites ref. 88Sub4_ | Table 10, p. 13, row 29; `ORC-JEKCFCRLND` |  |
+| Cu2R |  | -31.5 kJ/mol (basis unstated) |  | model |  |  | [1] Zhuang 1996 | Table 10, p. 13, row 30; `ORC-N5CC3QSU27.9a143e` |  |
+| Cu2R |  | -19.7 kJ/mol (basis unstated) |  | model |  |  | [1] Zhuang 1996 | Table 10, p. 13, row 28; `ORC-BLJUMK6WV4` |  |
+| Cu2R |  | -14.5 kJ/mol (basis unstated) |  | unspecified |  |  | [1] Zhuang 1996; _cites ref. 94Fit_ | Table 10, p. 13, row 31; `ORC-VLJ35MZGIL` |  |
+| Cu4R |  | -31.5 kJ/mol (basis unstated) |  | model |  |  | [1] Zhuang 1996 | Table 10, p. 13, row 30; `ORC-N5CC3QSU27.15de23` |  |
+| Cu4R |  | -27.8 kJ/mol (basis unstated) |  | unspecified |  |  | [1] Zhuang 1996; _cites ref. 88Sub4_ | Table 10, p. 13, row 26; `ORC-T2F5T6ITH5` |  |
+| Cu4R |  | -22.2 kJ/mol (basis unstated) |  | model |  |  | [1] Zhuang 1996 | Table 10, p. 13, row 27; `ORC-WDBUJU32L6` |  |
+| Cu4R |  | -15.1 kJ/mol (basis unstated) |  | model |  |  | [1] Zhuang 1996 | Table 10, p. 13, row 25; `ORC-U2SJBWDZJ6` |  |
+| Cu5R |  | -30.7 kJ/mol (basis unstated) |  | unspecified |  |  | [1] Zhuang 1996; _cites ref. 88Sub4_ | Table 10, p. 13, row 23; `ORC-6YPAAGR5NX` |  |
+| Cu5R |  | -18.8 kJ/mol (basis unstated) |  | model |  |  | [1] Zhuang 1996 | Table 10, p. 13, row 24; `ORC-VLXGSJL66V` |  |
+| Cu5R |  | -13.8 kJ/mol (basis unstated) |  | model |  |  | [1] Zhuang 1996 | Table 10, p. 13, row 22; `ORC-J4LCGSWFCO` |  |
+| Cu6R |  | -33.6 kJ/mol (basis unstated) |  | unspecified |  |  | [1] Zhuang 1996; _cites ref. 88Sub4_ | Table 10, p. 13, row 19; `ORC-X7VJ6SEACL` |  |
+| Cu6R |  | -16.1 kJ/mol (basis unstated) |  | model |  |  | [1] Zhuang 1996 | Table 10, p. 13, row 20; `ORC-XJYVTPU4BB` |  |
+| Cu6R |  | -12.7 kJ/mol (basis unstated) |  | model |  |  | [1] Zhuang 1996 | Table 10, p. 13, row 18; `ORC-CU4EELABUC.71cc49` |  |
+| Cu6R |  | -11.3 kJ/mol (basis unstated) |  | unspecified |  |  | [1] Zhuang 1996; _cites ref. 94Fit_ | Table 10, p. 13, row 21; `ORC-TGH3SU7ADG` |  |
+| CuR |  | -46.7 kJ/mol (basis unstated) |  | unspecified |  |  | [1] Zhuang 1996; _cites ref. 88Sub4_ | Table 10, p. 13, row 33; `ORC-2VZ7P5PQAY` |  |
+| CuR |  | -31 kJ/mol (basis unstated) |  | model |  |  | [1] Zhuang 1996 | Table 10, p. 13, row 34; `ORC-L4COFGD2UI` |  |
+| CuR |  | -19 kJ/mol (basis unstated) |  | model |  |  | [1] Zhuang 1996 | Table 10, p. 13, row 32; `ORC-2JCBDSH3DB` |  |
+| CuR |  | -12.7 kJ/mol (basis unstated) |  | model |  |  | [1] Zhuang 1996 | Table 10, p. 13, row 18; `ORC-CU4EELABUC.f0d20c` |  |
+| PrMg |  | -12.7 kJ/mol-atom | 298.15 | experimental |  |  | [2] Hampl 2013; _cites ref. 1967Ogr_ | Table 6, p. 10, row 10; `ORC-42GLYI5YXY.01504e` |  |
+| PrMg3 |  | -11.5 kJ/mol-atom | 298.15 | experimental |  |  | [2] Hampl 2013; _cites ref. 1933Can_ | Table 6, p. 10, row 9; `ORC-5464M6CAS7.1eba46` |  |
+| RMg |  | -17.2 kJ/mol-atom | 298.15 | experimental |  |  | [2] Hampl 2013; _cites ref. 1933Can_ | Table 6, p. 10, row 9; `ORC-5464M6CAS7.14e105` |  |
+| RMg |  | -12.7 kJ/mol-atom | 298.15 | experimental |  |  | [2] Hampl 2013; _cites ref. 1967Ogr_ | Table 6, p. 10, row 10; `ORC-42GLYI5YXY.9bbd1b` |  |
+| RMg3 |  | -11.5 kJ/mol-atom | 298.15 | experimental |  |  | [2] Hampl 2013; _cites ref. 1933Can_ | Table 6, p. 10, row 9; `ORC-5464M6CAS7.547889` |  |
 
 ## Other properties
 
@@ -65,9 +65,9 @@ Table: Phase transition, Pr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1068 K | 1068 | polymorphic: Pr; _alloy: Pr 1_ | model | [3] Norgren 2000; _cites Saunders 1998_ | Table 1, p. 4, row 4 |  |
-| Phase transition | 1068 K | 1068 | polymorphic: Pr; _alloy: Pr 1_ | model | [3] Norgren 2000; _cites Norgren_ | Table 1, p. 4, row 3 |  |
-| Phase transition | 1073 K | 1073 | polymorphic: Pr; _alloy: Pr 1_ | model | [3] Norgren 2000; _cites Huasen 1995_ | Table 1, p. 4, row 5 |  |
+| Phase transition | 1068 K | 1068 | polymorphic: Pr; _alloy: Pr 1_ | model | [3] Norgren 2000; _cites Saunders 1998_ | Table 1, p. 4, row 4; `ORC-NEDKG3TBPG` |  |
+| Phase transition | 1068 K | 1068 | polymorphic: Pr; _alloy: Pr 1_ | model | [3] Norgren 2000; _cites Norgren_ | Table 1, p. 4, row 3; `ORC-QBJ3L6JPWB` |  |
+| Phase transition | 1073 K | 1073 | polymorphic: Pr; _alloy: Pr 1_ | model | [3] Norgren 2000; _cites Huasen 1995_ | Table 1, p. 4, row 5; `ORC-ZKSNHDO4EN` |  |
 
 ### Crystal structure (7)
 
@@ -75,13 +75,13 @@ Table: Crystal structure, Pr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 4.13 Å |  | (β Pr); _alloy: Pr 1_ | experimental | [4] Peng 2011; _cites Spedding 1961_ [doi](https://doi.org/10.1016/0022-5088%2861%2990003-0) | Table 1, p. 2, row 13 |  |
-| Lattice a | 3.67 Å | 298.15 | (α Pr); _alloy: Pr 1_ | experimental | [4] Peng 2011; _cites Smirnov 1974_ | Table 1, p. 2, row 12 |  |
-| Lattice a | 4.13 Å | 298.15 | UNKNOWN; _alloy: Pr 1_ | unspecified | [5] Wang 2015; _cites ref. 1993Sac_ | Table 1, p. 2, row 7 |  |
-| Lattice a | 3.6721 Å | 298.15 | αPr; _αPr: Pr 1_ | unspecified | [5] Wang 2015; _cites ref. 1965Jos_ | Table 1, p. 2, row 8 |  |
-| Lattice a | 4.13 Å | 298.15 | βPra; _βPra: Pr 1_ | unspecified | [5] Wang 2015; _cites ref. 1993Sac_ | Table 1, p. 2, row 15 |  |
-| Lattice b | 11.8326 Å | 298.15 | αPr; _αPr: Pr 1_ | unspecified | [5] Wang 2015; _cites ref. 1965Jos_ | Table 1, p. 2, row 8 |  |
-| Lattice c | 11.83 Å | 298.15 | (α Pr); _alloy: Pr 1_ | experimental | [4] Peng 2011; _cites Smirnov 1974_ | Table 1, p. 2, row 12 |  |
+| Lattice a | 4.13 Å |  | (β Pr); _alloy: Pr 1_ | experimental | [4] Peng 2011; _cites Spedding 1961_ [doi](https://doi.org/10.1016/0022-5088%2861%2990003-0) | Table 1, p. 2, row 13; `ORC-23BXM67U66` |  |
+| Lattice a | 3.67 Å | 298.15 | (α Pr); _alloy: Pr 1_ | experimental | [4] Peng 2011; _cites Smirnov 1974_ | Table 1, p. 2, row 12; `ORC-FS7MOC24IL.95714a` |  |
+| Lattice a | 4.13 Å | 298.15 | UNKNOWN; _alloy: Pr 1_ | unspecified | [5] Wang 2015; _cites ref. 1993Sac_ | Table 1, p. 2, row 7; `ORC-NX57FOIEHI` |  |
+| Lattice a | 3.6721 Å | 298.15 | αPr; _αPr: Pr 1_ | unspecified | [5] Wang 2015; _cites ref. 1965Jos_ | Table 1, p. 2, row 8; `ORC-2AXYGHCQXN.e4aea4` |  |
+| Lattice a | 4.13 Å | 298.15 | βPra; _βPra: Pr 1_ | unspecified | [5] Wang 2015; _cites ref. 1993Sac_ | Table 1, p. 2, row 15; `ORC-HBQCN63HJU` |  |
+| Lattice b | 11.8326 Å | 298.15 | αPr; _αPr: Pr 1_ | unspecified | [5] Wang 2015; _cites ref. 1965Jos_ | Table 1, p. 2, row 8; `ORC-2AXYGHCQXN.9edbc3` |  |
+| Lattice c | 11.83 Å | 298.15 | (α Pr); _alloy: Pr 1_ | experimental | [4] Peng 2011; _cites Smirnov 1974_ | Table 1, p. 2, row 12; `ORC-FS7MOC24IL.e4f35f` |  |
 
 ## Sources
 
@@ -128,4 +128,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

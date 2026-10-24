@@ -50,12 +50,12 @@ Table: Invariant reactions reported in the literature for the Cu–Pd system (6)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 768 | fcc + Cu3Pd -> 1D-LPS | fcc: Pd 0.2001; Cu3Pd: Pd 0.1785; 1D-LPS: Pd 0.1821 | experimental | [1] Li 2008; _cites Huang 1991_ [doi](https://doi.org/10.1007/bf02663663) | Table 3, p. 6, row 6 |  |
-| 768 | fcc + Cu3Pd -> 1D-LPS | fcc: Pd 0.1894; Cu3Pd: Pd 0.1819; 1D-LPS: Pd 0.1876 | model | [1] Li 2008 | Table 3, p. 6, row 5 |  |
-| 748 | fcc + 1D - LPS -> 2D-LPS | fcc: Pd 0.2212; 1D - LPS: Pd 0.2132; 2D-LPS: Pd 0.2207 | model | [1] Li 2008 | Table 3, p. 6, row 7 |  |
-| 748 | fcc + 1D - LPS -> 2D-LPS | fcc: Pd 0.2231; 1D - LPS: Pd 0.2022; 2D-LPS: Pd 0.2185 | experimental | [1] Li 2008; _cites Huang 1991_ [doi](https://doi.org/10.1007/bf02663663) | Table 3, p. 6, row 8 |  |
-| 673 | fcc -> 2D-LPS + CuPd | fcc: Pd 0.2941; 2D-LPS: Pd 0.2825; CuPd: Pd 0.3426 | model | [1] Li 2008 | Table 3, p. 6, row 9 |  |
-| 673 | fcc -> 2D-LPS + CuPd | fcc: Pd 0.3092; 2D-LPS: Pd 0.3002; CuPd: Pd 0.3525 | experimental | [1] Li 2008; _cites Huang 1991_ [doi](https://doi.org/10.1007/bf02663663) | Table 3, p. 6, row 10 |  |
+| 768 | fcc + Cu3Pd -> 1D-LPS | fcc: Pd 0.2001; Cu3Pd: Pd 0.1785; 1D-LPS: Pd 0.1821 | experimental | [1] Li 2008; _cites Huang 1991_ [doi](https://doi.org/10.1007/bf02663663) | Table 3, p. 6, row 6; `ORC-B2XNSZ2NON` |  |
+| 768 | fcc + Cu3Pd -> 1D-LPS | fcc: Pd 0.1894; Cu3Pd: Pd 0.1819; 1D-LPS: Pd 0.1876 | model | [1] Li 2008 | Table 3, p. 6, row 5; `ORC-B7XUY54RY6` |  |
+| 748 | fcc + 1D - LPS -> 2D-LPS | fcc: Pd 0.2212; 1D - LPS: Pd 0.2132; 2D-LPS: Pd 0.2207 | model | [1] Li 2008 | Table 3, p. 6, row 7; `ORC-N454TAGR7V` |  |
+| 748 | fcc + 1D - LPS -> 2D-LPS | fcc: Pd 0.2231; 1D - LPS: Pd 0.2022; 2D-LPS: Pd 0.2185 | experimental | [1] Li 2008; _cites Huang 1991_ [doi](https://doi.org/10.1007/bf02663663) | Table 3, p. 6, row 8; `ORC-N6LAKSPISP` |  |
+| 673 | fcc -> 2D-LPS + CuPd | fcc: Pd 0.2941; 2D-LPS: Pd 0.2825; CuPd: Pd 0.3426 | model | [1] Li 2008 | Table 3, p. 6, row 9; `ORC-N5FRV636YA` |  |
+| 673 | fcc -> 2D-LPS + CuPd | fcc: Pd 0.3092; 2D-LPS: Pd 0.3002; CuPd: Pd 0.3525 | experimental | [1] Li 2008; _cites Huang 1991_ [doi](https://doi.org/10.1007/bf02663663) | Table 3, p. 6, row 10; `ORC-RMUX4ORLJW` |  |
 
 ## Formation enthalpies
 
@@ -65,7 +65,7 @@ Table: Enthalpies of formation, Cu–Pd system (1)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| CuPd B2 |  | -12.73 kJ/mol-atom | 298.15 | DFT |  |  | [2] Huang 2007 | Table 2, p. 6, row 6 |  |
+| CuPd B2 |  | -12.73 kJ/mol-atom | 298.15 | DFT |  |  | [2] Huang 2007 | Table 2, p. 6, row 6; `ORC-Y5NLBV4GCS.723c94` |  |
 
 ## Other properties
 
@@ -75,11 +75,11 @@ Table: Phase transition, Cu–Pd system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 781 K | 781 | fcc -> Cu3Pd; _fcc: Pd 0.161; Cu3Pd: Pd 0.161_ | model | [1] Li 2008 | Table 3, p. 6, row 3 |  |
-| Phase transition | 781 K | 781 | fcc -> Cu3Pd; _fcc: Pd 0.1582; Cu3Pd: Pd 0.1582_ | experimental | [1] Li 2008; _cites Huang 1991_ [doi](https://doi.org/10.1007/bf02663663) | Table 3, p. 6, row 4 |  |
-| Phase transition | 871 K | 871 | fcc -> CuPd; _fcc: Pd 0.4047; CuPd: Pd 0.4047_ | experimental | [1] Li 2008; _cites Huang 1991_ [doi](https://doi.org/10.1007/bf02663663) | Table 3, p. 6, row 2 |  |
-| Phase transition | 871 K | 871 | fcc -> CuPd; _fcc: Pd 0.407; CuPd: Pd 0.407_ | model | [1] Li 2008 | Table 3, p. 6, row 1 |  |
-| Phase transition | 873.15 K | 873.15 | other | experimental | [2] Huang 2007; _cites Oriani 1962_ [doi](https://doi.org/10.1016/0001-6160%2862%2990102-5) | p. 7 | “According to the experimental enthalpies of formation of the Cu0.60 Pd0.40 alloy \[11\], the order/disorder transformation occurs at 600 ◦ C with practically no enthalpy and entropy” |
+| Phase transition | 781 K | 781 | fcc -> Cu3Pd; _fcc: Pd 0.161; Cu3Pd: Pd 0.161_ | model | [1] Li 2008 | Table 3, p. 6, row 3; `ORC-CGX4RCZ65E` |  |
+| Phase transition | 781 K | 781 | fcc -> Cu3Pd; _fcc: Pd 0.1582; Cu3Pd: Pd 0.1582_ | experimental | [1] Li 2008; _cites Huang 1991_ [doi](https://doi.org/10.1007/bf02663663) | Table 3, p. 6, row 4; `ORC-OWTFUVGVOH` |  |
+| Phase transition | 871 K | 871 | fcc -> CuPd; _fcc: Pd 0.4047; CuPd: Pd 0.4047_ | experimental | [1] Li 2008; _cites Huang 1991_ [doi](https://doi.org/10.1007/bf02663663) | Table 3, p. 6, row 2; `ORC-QZGMAAQ7TP` |  |
+| Phase transition | 871 K | 871 | fcc -> CuPd; _fcc: Pd 0.407; CuPd: Pd 0.407_ | model | [1] Li 2008 | Table 3, p. 6, row 1; `ORC-VMW4QSB4C5` |  |
+| Phase transition | 873.15 K | 873.15 | other | experimental | [2] Huang 2007; _cites Oriani 1962_ [doi](https://doi.org/10.1016/0001-6160%2862%2990102-5) | p. 7; `ORC-3DWOFI7KOZ` | “According to the experimental enthalpies of formation of the Cu0.60 Pd0.40 alloy \[11\], the order/disorder transformation occurs at 600 ◦ C with practically no enthalpy and entropy” |
 
 ### Mixing / partial (1)
 
@@ -87,7 +87,7 @@ Table: Mixing / partial, Cu–Pd system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: enthalpy of mixing_ | -15 unspecified ± 1 | 1600 | liquid | experimental | [2] Huang 2007; _cites Arpshofen 1981_ | p. 7 | “Since the measured enthalpies of mixing of the liquid phase at 1600 K \[15\] are rather scattered, they were not included in the initial parameter optimization. Nevertheless, the model-calculated enthalpy agreed reasonably well with the experimental data. In the final optimization, one value of -15 ± 1 kJ/mol at 50 at.%Pd was included.” |
+| Enthalpy of mixing; _printed: enthalpy of mixing_ | -15 unspecified ± 1 | 1600 | liquid | experimental | [2] Huang 2007; _cites Arpshofen 1981_ | p. 7; `ORC-F5BCYOM3QV` | “Since the measured enthalpies of mixing of the liquid phase at 1600 K \[15\] are rather scattered, they were not included in the initial parameter optimization. Nevertheless, the model-calculated enthalpy agreed reasonably well with the experimental data. In the final optimization, one value of -15 ± 1 kJ/mol at 50 at.%Pd was included.” |
 
 ## Sources
 
@@ -153,4 +153,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

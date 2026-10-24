@@ -14,21 +14,21 @@ Table: Enthalpy of formation of Cr3Ga reported in the literature (15)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -8.56 kJ/mol (basis unstated) | α-Cr3Ga | 1323.15 | experimental | calorimetry | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005 | Table 1, p. 3, row 2 |  |
-| -8.1 kJ/mol (basis unstated) | α-Cr3Ga | 1323.15 | experimental | calorimetry | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005 | Table 1, p. 3, row 2 |  |
-| -8.1 kJ/mol (basis unstated) ± 0.3 | Cr3Ga (α) | 298.15 | experimental | Direct reaction | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005 | Table 4, p. 4, row 4 |  |
-| -7.97 kJ/mol (basis unstated) | α-Cr3Ga | 1323.15 | experimental | calorimetry | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005 | Table 1, p. 3, row 4 |  |
-| -7.76 kJ/mol (basis unstated) | α-Cr3Ga | 1323.15 | experimental | calorimetry | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005 | Table 1, p. 3, row 3 |  |
-| -7.25 kJ/mol (basis unstated) | β-Cr3Ga | 1423.15 | experimental | calorimetry | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005 | Table 2, p. 3, row 1 |  |
-| -7.25 kJ/mol (basis unstated) ± 0.7 | Cr3Ga (β) | 298.15 | experimental | Direct reaction | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005 | Table 4, p. 4, row 6 |  |
-| -3.3 kJ/mol-atom | Cr3Ga | 850 | experimental |  | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [2] Gröbner 1999; _cites Gonchuruk 1981_ | Table 1, p. 2, row 42 |  |
-| -3.3 kJ/mol (basis unstated) | Cr3Ga (α) | 298.15 | experimental | EMF | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005; _cites Goncharuk 1981_ | Table 4, p. 4, row 1 |  |
-| -12 kJ/mol (basis unstated) | Cr3Ga (α) |  | model | Semi-empirical model | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005; _cites Djaballah 1999_ | Table 4, p. 4, row 3 |  |
-| -12 kJ/mol-atom | Cr3Ga | 298.15 | model |  | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [2] Gröbner 1999; _cites F 1988_ | Table 1, p. 2, row 44 |  |
-| -9.75 kJ/mol (basis unstated) | Cr3Ga (α) |  | model | Assessed | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005; _cites Grobner 1999_ [doi](https://doi.org/10.1361/105497199770340608) | Table 4, p. 4, row 2 |  |
-| -9.75 kJ/mol-atom | Cr3Ga | 298.15 | model |  | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [2] Gröbner 1999 | Table 1, p. 2, row 43 |  |
-| -8.24 kJ/mol (basis unstated) | Cr3Ga (α) |  | model | Assessed | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005 | Table 4, p. 4, row 5 |  |
-| -6.98 kJ/mol (basis unstated) | Cr3Ga (β) |  | model | Assessed | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005 | Table 4, p. 4, row 7 |  |
+| -8.56 kJ/mol (basis unstated) | α-Cr3Ga | 1323.15 | experimental | calorimetry | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005 | Table 1, p. 3, row 2; `ORC-CG5RML5MZE.101824` |  |
+| -8.1 kJ/mol (basis unstated) | α-Cr3Ga | 1323.15 | experimental | calorimetry | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005 | Table 1, p. 3, row 2; `ORC-CG5RML5MZE.f69791` |  |
+| -8.1 kJ/mol (basis unstated) ± 0.3 | Cr3Ga (α) | 298.15 | experimental | Direct reaction | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005 | Table 4, p. 4, row 4; `ORC-YGA7IGDSYT.4883a2` |  |
+| -7.97 kJ/mol (basis unstated) | α-Cr3Ga | 1323.15 | experimental | calorimetry | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005 | Table 1, p. 3, row 4; `ORC-BCXMPWE2FO` |  |
+| -7.76 kJ/mol (basis unstated) | α-Cr3Ga | 1323.15 | experimental | calorimetry | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005 | Table 1, p. 3, row 3; `ORC-A4UOZ35KKG` |  |
+| -7.25 kJ/mol (basis unstated) | β-Cr3Ga | 1423.15 | experimental | calorimetry | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005 | Table 2, p. 3, row 1; `ORC-23WTCH5NJA` |  |
+| -7.25 kJ/mol (basis unstated) ± 0.7 | Cr3Ga (β) | 298.15 | experimental | Direct reaction | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005 | Table 4, p. 4, row 6; `ORC-DMAPRTZ5PN.8e7adf` |  |
+| -3.3 kJ/mol-atom | Cr3Ga | 850 | experimental |  | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [2] Gröbner 1999; _cites Gonchuruk 1981_ | Table 1, p. 2, row 42; `ORC-53IIUR4NZJ` |  |
+| -3.3 kJ/mol (basis unstated) | Cr3Ga (α) | 298.15 | experimental | EMF | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005; _cites Goncharuk 1981_ | Table 4, p. 4, row 1; `ORC-QKSWTRNKAC.21cf2d` |  |
+| -12 kJ/mol (basis unstated) | Cr3Ga (α) |  | model | Semi-empirical model | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005; _cites Djaballah 1999_ | Table 4, p. 4, row 3; `ORC-B7HQFH6PTM.f0b169` |  |
+| -12 kJ/mol-atom | Cr3Ga | 298.15 | model |  | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [2] Gröbner 1999; _cites F 1988_ | Table 1, p. 2, row 44; `ORC-HPVWA4L4FN` |  |
+| -9.75 kJ/mol (basis unstated) | Cr3Ga (α) |  | model | Assessed | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005; _cites Grobner 1999_ [doi](https://doi.org/10.1361/105497199770340608) | Table 4, p. 4, row 2; `ORC-M5YUOI26LF.36378e` |  |
+| -9.75 kJ/mol-atom | Cr3Ga | 298.15 | model |  | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [2] Gröbner 1999 | Table 1, p. 2, row 43; `ORC-O4PI5Z75L3` |  |
+| -8.24 kJ/mol (basis unstated) | Cr3Ga (α) |  | model | Assessed | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005 | Table 4, p. 4, row 5; `ORC-IMJ2YHKYO4.557482` |  |
+| -6.98 kJ/mol (basis unstated) | Cr3Ga (β) |  | model | Assessed | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005 | Table 4, p. 4, row 7; `ORC-VXXPI7UC5G.564607` |  |
 
 ### Uncertainty budget
 
@@ -119,4 +119,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

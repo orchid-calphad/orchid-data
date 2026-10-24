@@ -14,10 +14,10 @@ Table: Enthalpy of formation of Al4Cr reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -17.154 kJ/mol-atom | Al4Cr | 298.15 | experimental |  | [Al–Cr](https://data.orchid-project.org/systems/AL-CR.html) | [1] Murray 1998; _cites ref. 60Kub_ | Table 4, p. 6, row 3 |  |
-| -17.15 kJ/mol-atom | Al4Cr | 1273.15 | experimental |  | [Al–Cr](https://data.orchid-project.org/systems/AL-CR.html) | [2] Saunders 1986; _cites ref. 35_ | Table 1, p. 4, row 5 |  |
-| -17.68 kJ/mol-atom | Al4Cr | 1273.15 | model |  | [Al–Cr](https://data.orchid-project.org/systems/AL-CR.html) | [2] Saunders 1986 | Table 1, p. 4, row 6 |  |
-| -17.677 kJ/mol-atom | Al4Cr | 1 | model |  | [Al–Cr–Zr](https://data.orchid-project.org/systems/AL-CR-ZR.html) | [2] Saunders 1986 | Table 4, p. 8, row 3 |  |
+| -17.154 kJ/mol-atom | Al4Cr | 298.15 | experimental |  | [Al–Cr](https://data.orchid-project.org/systems/AL-CR.html) | [1] Murray 1998; _cites ref. 60Kub_ | Table 4, p. 6, row 3; `ORC-BZXA3EXYCO.6ece87` |  |
+| -17.15 kJ/mol-atom | Al4Cr | 1273.15 | experimental |  | [Al–Cr](https://data.orchid-project.org/systems/AL-CR.html) | [2] Saunders 1986; _cites ref. 35_ | Table 1, p. 4, row 5; `ORC-LSLZ6CGKOQ.67d367` |  |
+| -17.68 kJ/mol-atom | Al4Cr | 1273.15 | model |  | [Al–Cr](https://data.orchid-project.org/systems/AL-CR.html) | [2] Saunders 1986 | Table 1, p. 4, row 6; `ORC-SUPC2RDQAU.ccc1a6` |  |
+| -17.677 kJ/mol-atom | Al4Cr | 1 | model |  | [Al–Cr–Zr](https://data.orchid-project.org/systems/AL-CR-ZR.html) | [2] Saunders 1986 | Table 4, p. 8, row 3; `ORC-O47QNOQB5W.0ad22c` |  |
 
 ### Uncertainty budget
 
@@ -96,4 +96,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

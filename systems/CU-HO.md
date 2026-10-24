@@ -89,29 +89,29 @@ Table: Invariant reactions reported in the literature for the Cu–Ho system (23
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1283.15 | congruent melting: L ↔ CuHo | L: Ho 0.5; CuHo: Ho 0.5 | model | [1] Wang 2009 | Table 3, p. 4, row 21 |  |
-| 1283.15 | congruent melting: L ↔ CuHo | L: Ho 0.5; CuHo: Ho 0.5 | experimental | [1] Wang 2009; _cites Subramanian 1994_ | Table 3, p. 4, row 20 |  |
-| 1263.15 | congruent melting: L ↔ Cu9Ho2 | L: Ho 0.182; Cu9Ho2: Ho 0.182 | experimental | [1] Wang 2009; _cites Subramanian 1994_ | Table 3, p. 4, row 8 |  |
-| 1263.15 | congruent melting: L ↔ Cu9Ho2 | L: Ho 0.182; Cu9Ho2: Ho 0.182 | model | [1] Wang 2009 | Table 3, p. 4, row 9 |  |
-| 1258.15 | peritectic: L + Cu9Ho2 ↔ βCu5Ho | L: Ho 0.157; Cu9Ho2: Ho 0.182; βCu5Ho: Ho 0.167 | experimental | [1] Wang 2009; _cites Subramanian 1994_ | Table 3, p. 4, row 4 |  |
-| 1258.15 | peritectic: L + Cu9Ho2 ↔ βCu5Ho | L: Ho 0.164; Cu9Ho2: Ho 0.182; βCu5Ho: Ho 0.167 | model | [1] Wang 2009 | Table 3, p. 4, row 5 |  |
-| 1243.15 | polymorphic: αCu5Ho ↔ βCu5Ho | αCu5Ho: Cu 0.833333, Ho 0.166667; βCu5Ho: Ho 0.167 | experimental | [1] Wang 2009; _cites Subramanian 1994_ | Table 3, p. 4, row 6 |  |
-| 1243.15 | polymorphic: αCu5Ho ↔ βCu5Ho | αCu5Ho: Cu 0.833333, Ho 0.166667; βCu5Ho: Ho 0.167 | model | [1] Wang 2009 | Table 3, p. 4, row 7 |  |
-| 1193.15 | peritectic: L + Cu9Ho2 ↔ Cu7Ho2 | L: Ho 0.26; Cu9Ho2: Ho 0.182; Cu7Ho2: Ho 0.222 | model | [1] Wang 2009 | Table 3, p. 4, row 11 |  |
-| 1193.15 | peritectic: L + Cu9Ho2 ↔ Cu7Ho2 | Cu9Ho2: Ho 0.182; Cu7Ho2: Ho 0.222 | experimental | [1] Wang 2009; _cites Subramanian 1994_ | Table 3, p. 4, row 10 |  |
-| 1188.15 | congruent melting: L ↔ Cu2Ho | L: Ho 0.333; Cu2Ho: Ho 0.333 | experimental | [1] Wang 2009; _cites Subramanian 1994_ | Table 3, p. 4, row 16 |  |
-| 1163.15 | congruent melting: L ↔ Cu2Ho | L: Ho 0.333; Cu2Ho: Ho 0.333 | model | [1] Wang 2009 | Table 3, p. 4, row 17 |  |
-| 1155.15 | eutectic: L ↔ Cu2Ho + CuHo | L: Ho 0.356; Cu2Ho: Ho 0.333; CuHo: Ho 0.5 | model | [1] Wang 2009 | Table 3, p. 4, row 19 |  |
-| 1153.15 | metatectic/catatectic: Cu7Ho2 ↔ L + Cu9Ho2 | Cu7Ho2: Ho 0.222; L: Ho 0.282; Cu9Ho2: Ho 0.182 | model | [1] Wang 2009 | Table 3, p. 4, row 13 |  |
-| 1153.15 | metatectic/catatectic: Cu7Ho2 ↔ L + Cu9Ho2 | Cu7Ho2: Ho 0.222; Cu9Ho2: Ho 0.182 | experimental | [1] Wang 2009; _cites Subramanian 1994_ | Table 3, p. 4, row 12 |  |
-| 1149.15 | eutectic: L ↔ (Cu) + Cu5Ho | L: Ho 0.083; (Cu): Ho 0; Cu5Ho: Ho 0.167 | model | [1] Wang 2009 | Table 3, p. 4, row 3 |  |
-| 1148.15 | eutectic: L ↔ Cu2Ho + CuHo | L: Ho 0.352; Cu2Ho: Ho 0.333; CuHo: Ho 0.5 | experimental | [1] Wang 2009; _cites Subramanian 1994_ | Table 3, p. 4, row 18 |  |
-| 1148.15 | eutectic: L ↔ (Cu) + Cu5Ho | L: Ho 0.095; (Cu): Ho 2.000e-4; Cu5Ho: Ho 0.167 | experimental | [1] Wang 2009; _cites Subramanian 1994_ | Table 3, p. 4, row 2 |  |
-| 1143.15 | eutectic: L ↔ Cu9Ho2 + Cu2Ho | L: Ho 0.314; Cu9Ho2: Ho 0.182; Cu2Ho: Ho 0.333 | experimental | [1] Wang 2009; _cites Subramanian 1994_ | Table 3, p. 4, row 14 |  |
-| 1143.15 | eutectic: L ↔ Cu9Ho2 + Cu2Ho | L: Ho 0.287; Cu9Ho2: Ho 0.182; Cu2Ho: Ho 0.333 | model | [1] Wang 2009 | Table 3, p. 4, row 15 |  |
-| 1137.15 | eutectic: L ↔ (Cu) + Cu5Ho | (Cu): Ho 2.000e-4; Cu5Ho: Cu 0.833333, Ho 0.166667 | experimental | [1] Wang 2009; _cites Wunderlin 1963_ | Table 3, p. 4, row 1 |  |
-| 1103.15 | eutectic: L ↔ CuHo + (Ho) | L: Ho 0.709; CuHo: Ho 0.5; (Ho): Ho 1 | model | [1] Wang 2009 | Table 3, p. 4, row 23 |  |
-| 1103.15 | eutectic: L ↔ CuHo + (Ho) | L: Ho 0.7; CuHo: Ho 0.5; (Ho): Ho 1 | experimental | [1] Wang 2009; _cites Subramanian 1994_ | Table 3, p. 4, row 22 |  |
+| 1283.15 | congruent melting: L ↔ CuHo | L: Ho 0.5; CuHo: Ho 0.5 | model | [1] Wang 2009 | Table 3, p. 4, row 21; `ORC-UB4E5R56I4` |  |
+| 1283.15 | congruent melting: L ↔ CuHo | L: Ho 0.5; CuHo: Ho 0.5 | experimental | [1] Wang 2009; _cites Subramanian 1994_ | Table 3, p. 4, row 20; `ORC-X47AKTGBTZ` |  |
+| 1263.15 | congruent melting: L ↔ Cu9Ho2 | L: Ho 0.182; Cu9Ho2: Ho 0.182 | experimental | [1] Wang 2009; _cites Subramanian 1994_ | Table 3, p. 4, row 8; `ORC-K4IRYVEHPD` |  |
+| 1263.15 | congruent melting: L ↔ Cu9Ho2 | L: Ho 0.182; Cu9Ho2: Ho 0.182 | model | [1] Wang 2009 | Table 3, p. 4, row 9; `ORC-POSHGRQIEY` |  |
+| 1258.15 | peritectic: L + Cu9Ho2 ↔ βCu5Ho | L: Ho 0.157; Cu9Ho2: Ho 0.182; βCu5Ho: Ho 0.167 | experimental | [1] Wang 2009; _cites Subramanian 1994_ | Table 3, p. 4, row 4; `ORC-LUR6H2HZZ5` |  |
+| 1258.15 | peritectic: L + Cu9Ho2 ↔ βCu5Ho | L: Ho 0.164; Cu9Ho2: Ho 0.182; βCu5Ho: Ho 0.167 | model | [1] Wang 2009 | Table 3, p. 4, row 5; `ORC-UI7OJXWI4N` |  |
+| 1243.15 | polymorphic: αCu5Ho ↔ βCu5Ho | αCu5Ho: Cu 0.833333, Ho 0.166667; βCu5Ho: Ho 0.167 | experimental | [1] Wang 2009; _cites Subramanian 1994_ | Table 3, p. 4, row 6; `ORC-67AWKI7PRR` |  |
+| 1243.15 | polymorphic: αCu5Ho ↔ βCu5Ho | αCu5Ho: Cu 0.833333, Ho 0.166667; βCu5Ho: Ho 0.167 | model | [1] Wang 2009 | Table 3, p. 4, row 7; `ORC-LQJBYSNDFS` |  |
+| 1193.15 | peritectic: L + Cu9Ho2 ↔ Cu7Ho2 | L: Ho 0.26; Cu9Ho2: Ho 0.182; Cu7Ho2: Ho 0.222 | model | [1] Wang 2009 | Table 3, p. 4, row 11; `ORC-H5G6KHUOXP` |  |
+| 1193.15 | peritectic: L + Cu9Ho2 ↔ Cu7Ho2 | Cu9Ho2: Ho 0.182; Cu7Ho2: Ho 0.222 | experimental | [1] Wang 2009; _cites Subramanian 1994_ | Table 3, p. 4, row 10; `ORC-PKJGSMD5X2` |  |
+| 1188.15 | congruent melting: L ↔ Cu2Ho | L: Ho 0.333; Cu2Ho: Ho 0.333 | experimental | [1] Wang 2009; _cites Subramanian 1994_ | Table 3, p. 4, row 16; `ORC-SQ5K6NJKNU` |  |
+| 1163.15 | congruent melting: L ↔ Cu2Ho | L: Ho 0.333; Cu2Ho: Ho 0.333 | model | [1] Wang 2009 | Table 3, p. 4, row 17; `ORC-JBY64OBQVV` |  |
+| 1155.15 | eutectic: L ↔ Cu2Ho + CuHo | L: Ho 0.356; Cu2Ho: Ho 0.333; CuHo: Ho 0.5 | model | [1] Wang 2009 | Table 3, p. 4, row 19; `ORC-MPHY7APOQ5` |  |
+| 1153.15 | metatectic/catatectic: Cu7Ho2 ↔ L + Cu9Ho2 | Cu7Ho2: Ho 0.222; L: Ho 0.282; Cu9Ho2: Ho 0.182 | model | [1] Wang 2009 | Table 3, p. 4, row 13; `ORC-APXSVSTWV2` |  |
+| 1153.15 | metatectic/catatectic: Cu7Ho2 ↔ L + Cu9Ho2 | Cu7Ho2: Ho 0.222; Cu9Ho2: Ho 0.182 | experimental | [1] Wang 2009; _cites Subramanian 1994_ | Table 3, p. 4, row 12; `ORC-BRI72DARQU` |  |
+| 1149.15 | eutectic: L ↔ (Cu) + Cu5Ho | L: Ho 0.083; (Cu): Ho 0; Cu5Ho: Ho 0.167 | model | [1] Wang 2009 | Table 3, p. 4, row 3; `ORC-7SVD77A5HZ` |  |
+| 1148.15 | eutectic: L ↔ Cu2Ho + CuHo | L: Ho 0.352; Cu2Ho: Ho 0.333; CuHo: Ho 0.5 | experimental | [1] Wang 2009; _cites Subramanian 1994_ | Table 3, p. 4, row 18; `ORC-6FDMH2EPPD` |  |
+| 1148.15 | eutectic: L ↔ (Cu) + Cu5Ho | L: Ho 0.095; (Cu): Ho 2.000e-4; Cu5Ho: Ho 0.167 | experimental | [1] Wang 2009; _cites Subramanian 1994_ | Table 3, p. 4, row 2; `ORC-TQZICTKU72` |  |
+| 1143.15 | eutectic: L ↔ Cu9Ho2 + Cu2Ho | L: Ho 0.314; Cu9Ho2: Ho 0.182; Cu2Ho: Ho 0.333 | experimental | [1] Wang 2009; _cites Subramanian 1994_ | Table 3, p. 4, row 14; `ORC-5RU6YMQVYQ` |  |
+| 1143.15 | eutectic: L ↔ Cu9Ho2 + Cu2Ho | L: Ho 0.287; Cu9Ho2: Ho 0.182; Cu2Ho: Ho 0.333 | model | [1] Wang 2009 | Table 3, p. 4, row 15; `ORC-SV5GMJLYST` |  |
+| 1137.15 | eutectic: L ↔ (Cu) + Cu5Ho | (Cu): Ho 2.000e-4; Cu5Ho: Cu 0.833333, Ho 0.166667 | experimental | [1] Wang 2009; _cites Wunderlin 1963_ | Table 3, p. 4, row 1; `ORC-4NEYPYS5IP` |  |
+| 1103.15 | eutectic: L ↔ CuHo + (Ho) | L: Ho 0.709; CuHo: Ho 0.5; (Ho): Ho 1 | model | [1] Wang 2009 | Table 3, p. 4, row 23; `ORC-PXEYOETFP3` |  |
+| 1103.15 | eutectic: L ↔ CuHo + (Ho) | L: Ho 0.7; CuHo: Ho 0.5; (Ho): Ho 1 | experimental | [1] Wang 2009; _cites Subramanian 1994_ | Table 3, p. 4, row 22; `ORC-ZMUVCGNUK7` |  |
 
 ## Sources
 
@@ -176,4 +176,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

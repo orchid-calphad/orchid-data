@@ -55,12 +55,12 @@ Table: Enthalpies of formation, Am–O system (6)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Am2O3 |  | -338.54 kJ/mol-atom | 298.15 | model |  |  | [1] Gotcu-Freis 2011 | Table 3, p. 11, row 1 |  |
-| Am2O3 |  | -338.08 kJ/mol-atom ± 1.6 | 298.15 | model |  |  | [1] Gotcu-Freis 2011; _cites Konings_ [doi](https://doi.org/10.1016/j.jct.2011.02.024) | Table 3, p. 11, row 3 |  |
-| Am2O3 |  | -338.08 kJ/mol-atom ± 1.6 | 298.15 | model |  |  | [1] Gotcu-Freis 2011; _cites Silva 2004_ | Table 3, p. 11, row 2 |  |
-| AmO2 |  | -310.767 kJ/mol-atom ± 1 | 298.15 | model |  |  | [1] Gotcu-Freis 2011; _cites Silva 2004_ | Table 3, p. 11, row 5 |  |
-| AmO2 |  | -310.733 kJ/mol-atom ± 1 | 298.15 | model |  |  | [1] Gotcu-Freis 2011; _cites Konings_ [doi](https://doi.org/10.1016/j.jct.2011.02.024) | Table 3, p. 11, row 6 |  |
-| AmO2 |  | -310.567 kJ/mol-atom | 298.15 | model |  |  | [1] Gotcu-Freis 2011 | Table 3, p. 11, row 4 |  |
+| Am2O3 |  | -338.54 kJ/mol-atom | 298.15 | model |  |  | [1] Gotcu-Freis 2011 | Table 3, p. 11, row 1; `ORC-LNQCQBL4XD.879daa` |  |
+| Am2O3 |  | -338.08 kJ/mol-atom ± 1.6 | 298.15 | model |  |  | [1] Gotcu-Freis 2011; _cites Konings_ [doi](https://doi.org/10.1016/j.jct.2011.02.024) | Table 3, p. 11, row 3; `ORC-JIGGTPD4MR.5dbc73` |  |
+| Am2O3 |  | -338.08 kJ/mol-atom ± 1.6 | 298.15 | model |  |  | [1] Gotcu-Freis 2011; _cites Silva 2004_ | Table 3, p. 11, row 2; `ORC-KSROQWV7DC.4a0c9a` |  |
+| AmO2 |  | -310.767 kJ/mol-atom ± 1 | 298.15 | model |  |  | [1] Gotcu-Freis 2011; _cites Silva 2004_ | Table 3, p. 11, row 5; `ORC-5YGWEM6YQK.85d8c5` |  |
+| AmO2 |  | -310.733 kJ/mol-atom ± 1 | 298.15 | model |  |  | [1] Gotcu-Freis 2011; _cites Konings_ [doi](https://doi.org/10.1016/j.jct.2011.02.024) | Table 3, p. 11, row 6; `ORC-G2UTVPMB7W.e51534` |  |
+| AmO2 |  | -310.567 kJ/mol-atom | 298.15 | model |  |  | [1] Gotcu-Freis 2011 | Table 3, p. 11, row 4; `ORC-EGHYRWNFNI.2cd5a1` |  |
 
 ## Other properties
 
@@ -70,10 +70,10 @@ Table: Phase transition, Am–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 620 K | 620 | other | experimental | [2] Epifano 2017; _cites ref. 23_ | p. 3 | “At lower temperatures, the DTA measurements of Sari and Zamorani23 show another phase transition at around 620 K, in the O/Am > 1.7 domain.” |
-| Phase transition | 1315 K | 1315 | other | model | [2] Epifano 2017 | p. 14 | “The temperature stability for this phase was extended here up to 1315 K.” |
-| Phase transition | 2386 K | 2386 | AmO2-x | experimental | [2] Epifano 2017; _cites ref. 25_ | p. 4 | “The values are 2481 ± 15 K for A-Am2O3 and 2386 K for AmO2-x (the O/Am ratio reached during the melting process is unknown).” |
-| Phase transition | 2481 K | 2481 | A-Am2O3 | experimental | [2] Epifano 2017; _cites ref. 25_ | p. 4 | “The values are 2481 ± 15 K for A-Am2O3 and 2386 K for AmO2-x (the O/Am ratio reached during the melting process is unknown).” |
+| Phase transition | 620 K | 620 | other | experimental | [2] Epifano 2017; _cites ref. 23_ | p. 3; `ORC-NTPSFFBZK7` | “At lower temperatures, the DTA measurements of Sari and Zamorani23 show another phase transition at around 620 K, in the O/Am > 1.7 domain.” |
+| Phase transition | 1315 K | 1315 | other | model | [2] Epifano 2017 | p. 14; `ORC-WMT32YLSG2` | “The temperature stability for this phase was extended here up to 1315 K.” |
+| Phase transition | 2386 K | 2386 | AmO2-x | experimental | [2] Epifano 2017; _cites ref. 25_ | p. 4; `ORC-2GWV2QJVBC.f10b0f` | “The values are 2481 ± 15 K for A-Am2O3 and 2386 K for AmO2-x (the O/Am ratio reached during the melting process is unknown).” |
+| Phase transition | 2481 K | 2481 | A-Am2O3 | experimental | [2] Epifano 2017; _cites ref. 25_ | p. 4; `ORC-2GWV2QJVBC.7ff341` | “The values are 2481 ± 15 K for A-Am2O3 and 2386 K for AmO2-x (the O/Am ratio reached during the melting process is unknown).” |
 
 ### Phase equilibrium (3)
 
@@ -81,9 +81,9 @@ Table: Phase equilibrium, Am–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase assemblage |  | 1101.5 | C-AmO1.61+x + A-Am2O3; _alloy: O 0.6_ | experimental | [2] Epifano 2017; _cites ref. 6_ | Table 3, p. 3, row 2 |  |
-| Phase assemblage |  | 1273 | A-Am2O3; _alloy: O 0.6_ | experimental | [2] Epifano 2017; _cites ref. 6_ | Table 3, p. 3, row 4 |  |
-| Phase assemblage |  | 2481 | A-Am2O3 + liquid; _alloy: O 0.6_ | experimental | [2] Epifano 2017; _cites ref. 25_ | Table 3, p. 3, row 13 |  |
+| Phase assemblage |  | 1101.5 | C-AmO1.61+x + A-Am2O3; _alloy: O 0.6_ | experimental | [2] Epifano 2017; _cites ref. 6_ | Table 3, p. 3, row 2; `ORC-CNZP6PLOAR` |  |
+| Phase assemblage |  | 1273 | A-Am2O3; _alloy: O 0.6_ | experimental | [2] Epifano 2017; _cites ref. 6_ | Table 3, p. 3, row 4; `ORC-CCTSW7RFVM` |  |
+| Phase assemblage |  | 2481 | A-Am2O3 + liquid; _alloy: O 0.6_ | experimental | [2] Epifano 2017; _cites ref. 25_ | Table 3, p. 3, row 13; `ORC-ERUWGA2DUG` |  |
 
 ### Heat capacity / entropy / enthalpy (6)
 
@@ -91,12 +91,12 @@ Table: Heat capacity / entropy / enthalpy, Am–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: S°(298.15 K)_ | 26.72 J/mol-atom/K ± 1 | 298.15 | Am2O3; _alloy: O 0.6_ | model | [1] Gotcu-Freis 2011; _cites Konings_ [doi](https://doi.org/10.1016/j.jct.2011.02.024) | Table 3, p. 11, row 3 |  |
-| Entropy; _printed: S°(298.15 K)_ | 32 J/mol-atom/K ± 3 | 298.15 | Am2O3; _alloy: O 0.6_ | model | [1] Gotcu-Freis 2011; _cites Silva 2004_ | Table 3, p. 11, row 2 |  |
-| Entropy; _printed: S°(298.15 K)_ | 27.342 J/mol-atom/K | 298.15 | Am2O3; _alloy: O 0.6_ | model | [1] Gotcu-Freis 2011 | Table 3, p. 11, row 1 |  |
-| Entropy; _printed: S°(298.15 K)_ | 22.3333 J/mol-atom/K ± 3.33333 | 298.15 | AmO2; _alloy: O 0.666667_ | model | [1] Gotcu-Freis 2011; _cites Silva 2004_ | Table 3, p. 11, row 5 |  |
-| Entropy; _printed: S°(298.15 K)_ | 23.3533 J/mol-atom/K | 298.15 | AmO2; _alloy: O 0.666667_ | model | [1] Gotcu-Freis 2011 | Table 3, p. 11, row 4 |  |
-| Entropy; _printed: S°(298.15 K)_ | 25.1667 J/mol-atom/K ± 1.66667 | 298.15 | AmO2; _alloy: O 0.666667_ | model | [1] Gotcu-Freis 2011; _cites Konings_ [doi](https://doi.org/10.1016/j.jct.2011.02.024) | Table 3, p. 11, row 6 |  |
+| Entropy; _printed: S°(298.15 K)_ | 26.72 J/mol-atom/K ± 1 | 298.15 | Am2O3; _alloy: O 0.6_ | model | [1] Gotcu-Freis 2011; _cites Konings_ [doi](https://doi.org/10.1016/j.jct.2011.02.024) | Table 3, p. 11, row 3; `ORC-JIGGTPD4MR.065e7f` |  |
+| Entropy; _printed: S°(298.15 K)_ | 32 J/mol-atom/K ± 3 | 298.15 | Am2O3; _alloy: O 0.6_ | model | [1] Gotcu-Freis 2011; _cites Silva 2004_ | Table 3, p. 11, row 2; `ORC-KSROQWV7DC.2c8bc2` |  |
+| Entropy; _printed: S°(298.15 K)_ | 27.342 J/mol-atom/K | 298.15 | Am2O3; _alloy: O 0.6_ | model | [1] Gotcu-Freis 2011 | Table 3, p. 11, row 1; `ORC-LNQCQBL4XD.8ffd00` |  |
+| Entropy; _printed: S°(298.15 K)_ | 22.3333 J/mol-atom/K ± 3.33333 | 298.15 | AmO2; _alloy: O 0.666667_ | model | [1] Gotcu-Freis 2011; _cites Silva 2004_ | Table 3, p. 11, row 5; `ORC-5YGWEM6YQK.b64feb` |  |
+| Entropy; _printed: S°(298.15 K)_ | 23.3533 J/mol-atom/K | 298.15 | AmO2; _alloy: O 0.666667_ | model | [1] Gotcu-Freis 2011 | Table 3, p. 11, row 4; `ORC-EGHYRWNFNI.e2d357` |  |
+| Entropy; _printed: S°(298.15 K)_ | 25.1667 J/mol-atom/K ± 1.66667 | 298.15 | AmO2; _alloy: O 0.666667_ | model | [1] Gotcu-Freis 2011; _cites Konings_ [doi](https://doi.org/10.1016/j.jct.2011.02.024) | Table 3, p. 11, row 6; `ORC-G2UTVPMB7W.95194b` |  |
 
 ### Activity / EMF / Gibbs energy (2)
 
@@ -104,8 +104,8 @@ Table: Activity / EMF / Gibbs energy, Am–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Chemical potential; _printed: ΔG̅ O2_ | -140 kJ mol-1 | 1500 | AmO2-x + A-Am2O3 | experimental | [2] Epifano 2017 | p. 16 | “Second, the AmO2-x → AmO2-x + A-Am2O3 phase transition was observed at 1500 K by imposing the calculated oxygen potential ΔG̅ O2 ∼ -140 kJ mol-1.” |
-| Vapour pressure; _printed: pO2_ | 2.000e-5 atm | 1500 | A-Am2O3 + AmO2-x | model | [2] Epifano 2017 | p. 6 | “The main goal was to observe the hexagonal sesquioxide AAm2O3 at T = 1500 K. According to the thermodynamic computations, the phase transition should occur at this temperature under pO2 ≈ 2 × 10-5 atm.” |
+| Chemical potential; _printed: ΔG̅ O2_ | -140 kJ mol-1 | 1500 | AmO2-x + A-Am2O3 | experimental | [2] Epifano 2017 | p. 16; `ORC-EOHNA4ISBO` | “Second, the AmO2-x → AmO2-x + A-Am2O3 phase transition was observed at 1500 K by imposing the calculated oxygen potential ΔG̅ O2 ∼ -140 kJ mol-1.” |
+| Vapour pressure; _printed: pO2_ | 2.000e-5 atm | 1500 | A-Am2O3 + AmO2-x | model | [2] Epifano 2017 | p. 6; `ORC-AIW34NOMBI` | “The main goal was to observe the hexagonal sesquioxide AAm2O3 at T = 1500 K. According to the thermodynamic computations, the phase transition should occur at this temperature under pO2 ≈ 2 × 10-5 atm.” |
 
 ### Crystal structure (56)
 
@@ -113,62 +113,62 @@ Table: Crystal structure, Am–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 3.821 Å | 298.15 | A-Am2O3; _alloy: O 0.6_ | experimental | [2] Epifano 2017; _cites ref. 10_ | Table 1, p. 2, row 18 |  |
-| Lattice a | 3.815 Å | 298.15 | A-Am2O3; _alloy: O 0.6_ | experimental | [2] Epifano 2017; _cites ref. 15_ | Table 1, p. 2, row 16 |  |
-| Lattice a | 3.81 Å | 298.15 | A-Am2O3; _alloy: O 0.6_ | experimental | [2] Epifano 2017; _cites ref. 16_ | Table 1, p. 2, row 17 |  |
-| Lattice a | 3.805 Å | 298.15 | A-Am2O3; _alloy: O 0.6_ | experimental | [2] Epifano 2017; _cites ref. 6_ | Table 1, p. 2, row 15 |  |
-| Lattice a | 14.38 Å | 298.15 | B-Am2O3; _alloy: O 0.6_ | experimental | [2] Epifano 2017; _cites ref. 6_ | Table 1, p. 2, row 19 |  |
-| Lattice a | 11.023 Å | 298.15 | C-AmO1.5+x | experimental | [2] Epifano 2017; _cites ref. 15_ | Table 1, p. 2, row 13 |  |
-| Lattice a | 11.02 Å | 298.15 | C-AmO1.5+x | experimental | [2] Epifano 2017; _cites ref. 16_ | Table 1, p. 2, row 14 |  |
-| Lattice a | 11.03 Å ± 0.01 | 298.15 | C-AmO1.5+x | experimental | [2] Epifano 2017; _cites ref. 9_ | Table 1, p. 2, row 11 |  |
-| Lattice a | 11.013 Å | 298.15 | C-AmO1.5+x | experimental | [2] Epifano 2017; _cites ref. 6_ | Table 1, p. 2, row 12 |  |
-| Lattice a | 10.966 Å ± 0.005 | 298.15 | C-AmO1.61+x | experimental | [2] Epifano 2017; _cites ref. 6_ | Table 1, p. 2, row 8 |  |
-| Lattice a | 10.97 Å ± 0.02 | 298.15 | C-AmO1.61+x | experimental | [2] Epifano 2017; _cites ref. 6_ | Table 1, p. 2, row 10 |  |
-| Lattice a | 10.92 Å ± 0.02 | 298.15 | C-AmO1.61+x | experimental | [2] Epifano 2017; _cites ref. 6_ | Table 1, p. 2, row 9 |  |
-| Lattice a | 5.375 Å ± 0.001 | 298.15 | UNKNOWN | experimental | [2] Epifano 2017; _cites ref. 18_ | Table 1, p. 2, row 6 |  |
-| Lattice a | 5.3772 Å ± 4.000e-4 | 298.15 | UNKNOWN | experimental | [2] Epifano 2017; _cites ref. 6_ | Table 1, p. 2, row 2 |  |
-| Lattice a | 5.373 Å ± 0.002 | 298.15 | UNKNOWN | experimental | [2] Epifano 2017; _cites ref. 17_ | Table 1, p. 2, row 5 |  |
-| Lattice a | 5.376 Å ± 0.001 | 298.15 | UNKNOWN | experimental | [2] Epifano 2017; _cites ref. 10_ | Table 1, p. 2, row 7 |  |
-| Lattice a | 5.3724 Å ± 4.000e-4 | 298.15 | UNKNOWN | experimental | [2] Epifano 2017; _cites ref. 15_ | Table 1, p. 2, row 3 |  |
-| Lattice a | 5.3897 Å ± 2.000e-4 | 298.15 | UNKNOWN | experimental | [2] Epifano 2017; _cites ref. 16_ | Table 1, p. 2, row 4 |  |
-| Lattice a | 5.377 Å ± 0.003 | 298.15 | UNKNOWN | experimental | [2] Epifano 2017; _cites ref. 8_ | Table 1, p. 2, row 1 |  |
-| Lattice a | 5.377 Å ± 0.001 | 303 | UNKNOWN | experimental | [2] Epifano 2017 | Table 6, p. 10, row 18 |  |
-| Lattice a | 5.375 Å | 303 | UNKNOWN | experimental | [2] Epifano 2017; _cites ref. 11_ | Table 6, p. 10, row 20 |  |
-| Lattice a | 5.383 Å ± 0.001 | 373 | UNKNOWN | experimental | [2] Epifano 2017 | Table 6, p. 10, row 17 |  |
-| Lattice a | 5.381 Å | 423 | UNKNOWN | experimental | [2] Epifano 2017; _cites ref. 11_ | Table 6, p. 10, row 21 |  |
-| Lattice a | 5.389 Å ± 0.001 | 473 | UNKNOWN | experimental | [2] Epifano 2017 | Table 6, p. 10, row 16 |  |
-| Lattice a | 5.396 Å ± 0.001 | 573 | UNKNOWN | experimental | [2] Epifano 2017 | Table 6, p. 10, row 15 |  |
-| Lattice a | 5.389 Å | 573 | UNKNOWN | experimental | [2] Epifano 2017; _cites ref. 11_ | Table 6, p. 10, row 22 |  |
-| Lattice a | 5.402 Å ± 0.001 | 673 | UNKNOWN | experimental | [2] Epifano 2017 | Table 6, p. 10, row 14 |  |
-| Lattice a | 5.396 Å | 700 | UNKNOWN | experimental | [2] Epifano 2017; _cites ref. 11_ | Table 6, p. 10, row 23 |  |
-| Lattice a | 5.408 Å ± 0.001 | 773 | UNKNOWN | experimental | [2] Epifano 2017 | Table 6, p. 10, row 13 |  |
-| Lattice a | 5.403 Å | 823 | UNKNOWN | experimental | [2] Epifano 2017; _cites ref. 11_ | Table 6, p. 10, row 24 |  |
-| Lattice a | 5.414 Å ± 0.001 | 873 | UNKNOWN | experimental | [2] Epifano 2017 | Table 6, p. 10, row 12 |  |
-| Lattice a | 5.409 Å | 923 | UNKNOWN | experimental | [2] Epifano 2017; _cites ref. 11_ | Table 6, p. 10, row 25 |  |
-| Lattice a | 5.418 Å ± 0.001 | 973 | UNKNOWN | experimental | [2] Epifano 2017 | Table 6, p. 10, row 11 |  |
-| Lattice a | 5.415 Å | 1023 | UNKNOWN | experimental | [2] Epifano 2017; _cites ref. 11_ | Table 6, p. 10, row 26 |  |
-| Lattice a | 5.428 Å ± 0.001 | 1073 | UNKNOWN | experimental | [2] Epifano 2017 | Table 6, p. 10, row 10 |  |
-| Lattice a | 5.421 Å | 1120 | UNKNOWN | experimental | [2] Epifano 2017; _cites ref. 11_ | Table 6, p. 10, row 27 |  |
-| Lattice a | 5.436 Å ± 0.001 | 1173 | UNKNOWN | experimental | [2] Epifano 2017 | Table 6, p. 10, row 9 |  |
-| Lattice a | 5.444 Å ± 0.001 | 1273 | UNKNOWN | experimental | [2] Epifano 2017 | Table 6, p. 10, row 8 |  |
-| Lattice a | 5.455 Å ± 0.001 | 1373 | UNKNOWN | experimental | [2] Epifano 2017 | Table 6, p. 10, row 7 |  |
-| Lattice a | 5.468 Å ± 0.001 | 1473 | UNKNOWN | experimental | [2] Epifano 2017 | Table 6, p. 10, row 6 |  |
-| Lattice a | 5.527 Å ± 0.001 | 1500 | Am2O3; _alloy: O 0.6_ | experimental | [2] Epifano 2017 | Table 6, p. 10, row 19 |  |
-| Lattice a | 5.483 Å ± 0.001 | 1573 | UNKNOWN | experimental | [2] Epifano 2017 | Table 6, p. 10, row 5 |  |
-| Lattice a | 5.497 Å ± 0.001 | 1673 | UNKNOWN | experimental | [2] Epifano 2017 | Table 6, p. 10, row 4 |  |
-| Lattice a | 5.511 Å ± 0.001 | 1773 | UNKNOWN | experimental | [2] Epifano 2017 | Table 6, p. 10, row 3 |  |
-| Lattice a | 5.522 Å ± 0.001 | 1873 | UNKNOWN | experimental | [2] Epifano 2017 | Table 6, p. 10, row 2 |  |
-| Lattice a | 5.527 Å ± 0.001 | 1894 | UNKNOWN | experimental | [2] Epifano 2017 | Table 6, p. 10, row 1 |  |
-| Lattice b | 3.821 Å | 298.15 | A-Am2O3; _alloy: O 0.6_ | experimental | [2] Epifano 2017; _cites ref. 10_ | Table 1, p. 2, row 18 |  |
-| Lattice b | 3.815 Å | 298.15 | A-Am2O3; _alloy: O 0.6_ | experimental | [2] Epifano 2017; _cites ref. 15_ | Table 1, p. 2, row 16 |  |
-| Lattice b | 3.81 Å | 298.15 | A-Am2O3; _alloy: O 0.6_ | experimental | [2] Epifano 2017; _cites ref. 16_ | Table 1, p. 2, row 17 |  |
-| Lattice b | 3.805 Å | 298.15 | A-Am2O3; _alloy: O 0.6_ | experimental | [2] Epifano 2017; _cites ref. 6_ | Table 1, p. 2, row 15 |  |
-| Lattice b | 3.52 Å | 298.15 | B-Am2O3; _alloy: O 0.6_ | experimental | [2] Epifano 2017; _cites ref. 6_ | Table 1, p. 2, row 19 |  |
-| Lattice c | 5.984 Å | 298.15 | A-Am2O3; _alloy: O 0.6_ | experimental | [2] Epifano 2017; _cites ref. 10_ | Table 1, p. 2, row 18 |  |
-| Lattice c | 5.975 Å | 298.15 | A-Am2O3; _alloy: O 0.6_ | experimental | [2] Epifano 2017; _cites ref. 15_ | Table 1, p. 2, row 16 |  |
-| Lattice c | 5.957 Å | 298.15 | A-Am2O3; _alloy: O 0.6_ | experimental | [2] Epifano 2017; _cites ref. 16_ | Table 1, p. 2, row 17 |  |
-| Lattice c | 5.96 Å | 298.15 | A-Am2O3; _alloy: O 0.6_ | experimental | [2] Epifano 2017; _cites ref. 6_ | Table 1, p. 2, row 15 |  |
-| Lattice c | 8.92 Å | 298.15 | B-Am2O3; _alloy: O 0.6_ | experimental | [2] Epifano 2017; _cites ref. 6_ | Table 1, p. 2, row 19 |  |
+| Lattice a | 3.821 Å | 298.15 | A-Am2O3; _alloy: O 0.6_ | experimental | [2] Epifano 2017; _cites ref. 10_ | Table 1, p. 2, row 18; `ORC-5OYTR3N7Y3.c07a78` |  |
+| Lattice a | 3.815 Å | 298.15 | A-Am2O3; _alloy: O 0.6_ | experimental | [2] Epifano 2017; _cites ref. 15_ | Table 1, p. 2, row 16; `ORC-CJ7LMUBUQ6.351657` |  |
+| Lattice a | 3.81 Å | 298.15 | A-Am2O3; _alloy: O 0.6_ | experimental | [2] Epifano 2017; _cites ref. 16_ | Table 1, p. 2, row 17; `ORC-JBYYIXE7ZJ.ae74cd` |  |
+| Lattice a | 3.805 Å | 298.15 | A-Am2O3; _alloy: O 0.6_ | experimental | [2] Epifano 2017; _cites ref. 6_ | Table 1, p. 2, row 15; `ORC-U5GOIKSGUQ.3564c8` |  |
+| Lattice a | 14.38 Å | 298.15 | B-Am2O3; _alloy: O 0.6_ | experimental | [2] Epifano 2017; _cites ref. 6_ | Table 1, p. 2, row 19; `ORC-GQ3SIXRFCA.9b9b81` |  |
+| Lattice a | 11.023 Å | 298.15 | C-AmO1.5+x | experimental | [2] Epifano 2017; _cites ref. 15_ | Table 1, p. 2, row 13; `ORC-35JK3ZC6UM` |  |
+| Lattice a | 11.02 Å | 298.15 | C-AmO1.5+x | experimental | [2] Epifano 2017; _cites ref. 16_ | Table 1, p. 2, row 14; `ORC-53OKSKLM2Z` |  |
+| Lattice a | 11.03 Å ± 0.01 | 298.15 | C-AmO1.5+x | experimental | [2] Epifano 2017; _cites ref. 9_ | Table 1, p. 2, row 11; `ORC-EDBCIVKWMV` |  |
+| Lattice a | 11.013 Å | 298.15 | C-AmO1.5+x | experimental | [2] Epifano 2017; _cites ref. 6_ | Table 1, p. 2, row 12; `ORC-TH6OSCSMJ3` |  |
+| Lattice a | 10.966 Å ± 0.005 | 298.15 | C-AmO1.61+x | experimental | [2] Epifano 2017; _cites ref. 6_ | Table 1, p. 2, row 8; `ORC-7QHLHGAKPM` |  |
+| Lattice a | 10.97 Å ± 0.02 | 298.15 | C-AmO1.61+x | experimental | [2] Epifano 2017; _cites ref. 6_ | Table 1, p. 2, row 10; `ORC-L263OUHYK2` |  |
+| Lattice a | 10.92 Å ± 0.02 | 298.15 | C-AmO1.61+x | experimental | [2] Epifano 2017; _cites ref. 6_ | Table 1, p. 2, row 9; `ORC-RU2EP2CASO` |  |
+| Lattice a | 5.375 Å ± 0.001 | 298.15 | UNKNOWN | experimental | [2] Epifano 2017; _cites ref. 18_ | Table 1, p. 2, row 6; `ORC-22UK5H6NBK` |  |
+| Lattice a | 5.3772 Å ± 4.000e-4 | 298.15 | UNKNOWN | experimental | [2] Epifano 2017; _cites ref. 6_ | Table 1, p. 2, row 2; `ORC-77LD62PRAB` |  |
+| Lattice a | 5.373 Å ± 0.002 | 298.15 | UNKNOWN | experimental | [2] Epifano 2017; _cites ref. 17_ | Table 1, p. 2, row 5; `ORC-J64OVWRIWT` |  |
+| Lattice a | 5.376 Å ± 0.001 | 298.15 | UNKNOWN | experimental | [2] Epifano 2017; _cites ref. 10_ | Table 1, p. 2, row 7; `ORC-N7KP6PZ3JW` |  |
+| Lattice a | 5.3724 Å ± 4.000e-4 | 298.15 | UNKNOWN | experimental | [2] Epifano 2017; _cites ref. 15_ | Table 1, p. 2, row 3; `ORC-Q3DI5FNIIL` |  |
+| Lattice a | 5.3897 Å ± 2.000e-4 | 298.15 | UNKNOWN | experimental | [2] Epifano 2017; _cites ref. 16_ | Table 1, p. 2, row 4; `ORC-UKWSSCGDDT` |  |
+| Lattice a | 5.377 Å ± 0.003 | 298.15 | UNKNOWN | experimental | [2] Epifano 2017; _cites ref. 8_ | Table 1, p. 2, row 1; `ORC-YIP4BP6CIQ` |  |
+| Lattice a | 5.377 Å ± 0.001 | 303 | UNKNOWN | experimental | [2] Epifano 2017 | Table 6, p. 10, row 18; `ORC-4HWANQJBUQ` |  |
+| Lattice a | 5.375 Å | 303 | UNKNOWN | experimental | [2] Epifano 2017; _cites ref. 11_ | Table 6, p. 10, row 20; `ORC-HQPRNF66G7` |  |
+| Lattice a | 5.383 Å ± 0.001 | 373 | UNKNOWN | experimental | [2] Epifano 2017 | Table 6, p. 10, row 17; `ORC-4C4HJTLP2N` |  |
+| Lattice a | 5.381 Å | 423 | UNKNOWN | experimental | [2] Epifano 2017; _cites ref. 11_ | Table 6, p. 10, row 21; `ORC-YCKP6F2YD7` |  |
+| Lattice a | 5.389 Å ± 0.001 | 473 | UNKNOWN | experimental | [2] Epifano 2017 | Table 6, p. 10, row 16; `ORC-R36X5HTFVQ` |  |
+| Lattice a | 5.396 Å ± 0.001 | 573 | UNKNOWN | experimental | [2] Epifano 2017 | Table 6, p. 10, row 15; `ORC-IJLLHSPINY` |  |
+| Lattice a | 5.389 Å | 573 | UNKNOWN | experimental | [2] Epifano 2017; _cites ref. 11_ | Table 6, p. 10, row 22; `ORC-MVFBDJEDDH` |  |
+| Lattice a | 5.402 Å ± 0.001 | 673 | UNKNOWN | experimental | [2] Epifano 2017 | Table 6, p. 10, row 14; `ORC-ZA7UXNQDHD` |  |
+| Lattice a | 5.396 Å | 700 | UNKNOWN | experimental | [2] Epifano 2017; _cites ref. 11_ | Table 6, p. 10, row 23; `ORC-7ZFWSJFICS` |  |
+| Lattice a | 5.408 Å ± 0.001 | 773 | UNKNOWN | experimental | [2] Epifano 2017 | Table 6, p. 10, row 13; `ORC-OFBMFYUT5W` |  |
+| Lattice a | 5.403 Å | 823 | UNKNOWN | experimental | [2] Epifano 2017; _cites ref. 11_ | Table 6, p. 10, row 24; `ORC-OMRPLBTZMS` |  |
+| Lattice a | 5.414 Å ± 0.001 | 873 | UNKNOWN | experimental | [2] Epifano 2017 | Table 6, p. 10, row 12; `ORC-4X73EIBJNF` |  |
+| Lattice a | 5.409 Å | 923 | UNKNOWN | experimental | [2] Epifano 2017; _cites ref. 11_ | Table 6, p. 10, row 25; `ORC-CKL34BYEHG` |  |
+| Lattice a | 5.418 Å ± 0.001 | 973 | UNKNOWN | experimental | [2] Epifano 2017 | Table 6, p. 10, row 11; `ORC-ZOXC7IHIQ2` |  |
+| Lattice a | 5.415 Å | 1023 | UNKNOWN | experimental | [2] Epifano 2017; _cites ref. 11_ | Table 6, p. 10, row 26; `ORC-XMJRPFFCA3` |  |
+| Lattice a | 5.428 Å ± 0.001 | 1073 | UNKNOWN | experimental | [2] Epifano 2017 | Table 6, p. 10, row 10; `ORC-FE4QIJXGGI` |  |
+| Lattice a | 5.421 Å | 1120 | UNKNOWN | experimental | [2] Epifano 2017; _cites ref. 11_ | Table 6, p. 10, row 27; `ORC-XEHN5GIF4A` |  |
+| Lattice a | 5.436 Å ± 0.001 | 1173 | UNKNOWN | experimental | [2] Epifano 2017 | Table 6, p. 10, row 9; `ORC-TO5N7GMP2P` |  |
+| Lattice a | 5.444 Å ± 0.001 | 1273 | UNKNOWN | experimental | [2] Epifano 2017 | Table 6, p. 10, row 8; `ORC-UCRCPM2QPA` |  |
+| Lattice a | 5.455 Å ± 0.001 | 1373 | UNKNOWN | experimental | [2] Epifano 2017 | Table 6, p. 10, row 7; `ORC-CQOQMMDD62` |  |
+| Lattice a | 5.468 Å ± 0.001 | 1473 | UNKNOWN | experimental | [2] Epifano 2017 | Table 6, p. 10, row 6; `ORC-G4VEKRML5P` |  |
+| Lattice a | 5.527 Å ± 0.001 | 1500 | Am2O3; _alloy: O 0.6_ | experimental | [2] Epifano 2017 | Table 6, p. 10, row 19; `ORC-KQIFQQSMIU` |  |
+| Lattice a | 5.483 Å ± 0.001 | 1573 | UNKNOWN | experimental | [2] Epifano 2017 | Table 6, p. 10, row 5; `ORC-OQG377M4VS` |  |
+| Lattice a | 5.497 Å ± 0.001 | 1673 | UNKNOWN | experimental | [2] Epifano 2017 | Table 6, p. 10, row 4; `ORC-4MCO4GRANJ` |  |
+| Lattice a | 5.511 Å ± 0.001 | 1773 | UNKNOWN | experimental | [2] Epifano 2017 | Table 6, p. 10, row 3; `ORC-3XK267HKH5` |  |
+| Lattice a | 5.522 Å ± 0.001 | 1873 | UNKNOWN | experimental | [2] Epifano 2017 | Table 6, p. 10, row 2; `ORC-3N645GT6BZ` |  |
+| Lattice a | 5.527 Å ± 0.001 | 1894 | UNKNOWN | experimental | [2] Epifano 2017 | Table 6, p. 10, row 1; `ORC-SOLNPBXZBX` |  |
+| Lattice b | 3.821 Å | 298.15 | A-Am2O3; _alloy: O 0.6_ | experimental | [2] Epifano 2017; _cites ref. 10_ | Table 1, p. 2, row 18; `ORC-5OYTR3N7Y3.65bcf1` |  |
+| Lattice b | 3.815 Å | 298.15 | A-Am2O3; _alloy: O 0.6_ | experimental | [2] Epifano 2017; _cites ref. 15_ | Table 1, p. 2, row 16; `ORC-CJ7LMUBUQ6.c688c9` |  |
+| Lattice b | 3.81 Å | 298.15 | A-Am2O3; _alloy: O 0.6_ | experimental | [2] Epifano 2017; _cites ref. 16_ | Table 1, p. 2, row 17; `ORC-JBYYIXE7ZJ.7d8c38` |  |
+| Lattice b | 3.805 Å | 298.15 | A-Am2O3; _alloy: O 0.6_ | experimental | [2] Epifano 2017; _cites ref. 6_ | Table 1, p. 2, row 15; `ORC-U5GOIKSGUQ.ddce63` |  |
+| Lattice b | 3.52 Å | 298.15 | B-Am2O3; _alloy: O 0.6_ | experimental | [2] Epifano 2017; _cites ref. 6_ | Table 1, p. 2, row 19; `ORC-GQ3SIXRFCA.a0cf09` |  |
+| Lattice c | 5.984 Å | 298.15 | A-Am2O3; _alloy: O 0.6_ | experimental | [2] Epifano 2017; _cites ref. 10_ | Table 1, p. 2, row 18; `ORC-5OYTR3N7Y3.00dc9c` |  |
+| Lattice c | 5.975 Å | 298.15 | A-Am2O3; _alloy: O 0.6_ | experimental | [2] Epifano 2017; _cites ref. 15_ | Table 1, p. 2, row 16; `ORC-CJ7LMUBUQ6.403819` |  |
+| Lattice c | 5.957 Å | 298.15 | A-Am2O3; _alloy: O 0.6_ | experimental | [2] Epifano 2017; _cites ref. 16_ | Table 1, p. 2, row 17; `ORC-JBYYIXE7ZJ.4a94d7` |  |
+| Lattice c | 5.96 Å | 298.15 | A-Am2O3; _alloy: O 0.6_ | experimental | [2] Epifano 2017; _cites ref. 6_ | Table 1, p. 2, row 15; `ORC-U5GOIKSGUQ.1db1c0` |  |
+| Lattice c | 8.92 Å | 298.15 | B-Am2O3; _alloy: O 0.6_ | experimental | [2] Epifano 2017; _cites ref. 6_ | Table 1, p. 2, row 19; `ORC-GQ3SIXRFCA.082627` |  |
 
 ### Other property (3)
 
@@ -176,9 +176,9 @@ Table: Other property, Am–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Other; _printed: O/Am_ | 1.67 unspecified | 1220 | AmO1.61+x + AmO2-x | experimental | [2] Epifano 2017 | p. 12 | “• A point on the phase boundary between AmO1.61+x and the biphasic region AmO2-x/AmO1.61+x: T = 1220 K and O/Am = 1.67;” |
-| Other; _printed: O/Am_ | 1.67 unspecified | 1220 | C-AmO1.61+x | experimental | [2] Epifano 2017 | p. 11 | “For the phase boundary where the C-AmO1.61+x phase precipitates at 1220 K, the evaluated O/Am ratio is 1.67.” |
-| Other; _printed: O/Am_ | 1.59 unspecified | 1500 | AmO2-x + A-Am2O3 | experimental | [2] Epifano 2017 | p. 12 | “• The point on the phase boundary between AmO2-x and the biphasic region AmO2-x/A-Am2O3: T = 1500 K and O/Am = 1.59;” |
+| Other; _printed: O/Am_ | 1.67 unspecified | 1220 | AmO1.61+x + AmO2-x | experimental | [2] Epifano 2017 | p. 12; `ORC-Q2KEETZPB4.d1d89a` | “• A point on the phase boundary between AmO1.61+x and the biphasic region AmO2-x/AmO1.61+x: T = 1220 K and O/Am = 1.67;” |
+| Other; _printed: O/Am_ | 1.67 unspecified | 1220 | C-AmO1.61+x | experimental | [2] Epifano 2017 | p. 11; `ORC-GFJ3TNIDWA.591882` | “For the phase boundary where the C-AmO1.61+x phase precipitates at 1220 K, the evaluated O/Am ratio is 1.67.” |
+| Other; _printed: O/Am_ | 1.59 unspecified | 1500 | AmO2-x + A-Am2O3 | experimental | [2] Epifano 2017 | p. 12; `ORC-Q2KEETZPB4.409932` | “• The point on the phase boundary between AmO2-x and the biphasic region AmO2-x/A-Am2O3: T = 1500 K and O/Am = 1.59;” |
 
 ## Sources
 
@@ -244,4 +244,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

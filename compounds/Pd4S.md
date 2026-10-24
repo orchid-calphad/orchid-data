@@ -14,11 +14,11 @@ Table: Enthalpy of formation of Pd4S reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -25.74 per mol-atom | Pd4S | 716.5 | experimental |  | [Pd–S](https://data.orchid-project.org/systems/PD-S.html) | [1] Hu 2010; _cites Niwa 1962_ [doi](https://doi.org/10.1246/bcsj.35.1543) | Table 2, p. 2, row 3 |  |
-| -24.328 per mol-atom | Pd4S | 298.15 | experimental |  | [Pd–S](https://data.orchid-project.org/systems/PD-S.html) | [1] Hu 2010; _cites Taylor 1985_ [doi](https://doi.org/10.1007/bf02657499) | Table 2, p. 2, row 2 |  |
-| -19.84 per mol-atom ± 2.24 | Pd4S | 298.15 | experimental | calorimetry | [Pd–S](https://data.orchid-project.org/systems/PD-S.html) | [1] Hu 2010; _cites Zubkov 1998_ [doi](https://doi.org/10.1006/jcht.1997.0328) | Table 2, p. 2, row 1 |  |
-| -12.7 per mol-atom | Pd4S | 298.15 | experimental |  | [Pd–S](https://data.orchid-project.org/systems/PD-S.html) | [1] Hu 2010; _cites Niwa 1962_ [doi](https://doi.org/10.1246/bcsj.35.1543) | Table 2, p. 2, row 4 |  |
-| -22.8 per mol-atom | Pd4S | 0 | DFT | first principles (PBEsol) | [Pd–S](https://data.orchid-project.org/systems/PD-S.html) | [1] Hu 2010 | Table 2, p. 2, row 5 |  |
+| -25.74 per mol-atom | Pd4S | 716.5 | experimental |  | [Pd–S](https://data.orchid-project.org/systems/PD-S.html) | [1] Hu 2010; _cites Niwa 1962_ [doi](https://doi.org/10.1246/bcsj.35.1543) | Table 2, p. 2, row 3; `ORC-C2W6JISBMP.163b5f` |  |
+| -24.328 per mol-atom | Pd4S | 298.15 | experimental |  | [Pd–S](https://data.orchid-project.org/systems/PD-S.html) | [1] Hu 2010; _cites Taylor 1985_ [doi](https://doi.org/10.1007/bf02657499) | Table 2, p. 2, row 2; `ORC-2QKM5XN75S.80269d` |  |
+| -19.84 per mol-atom ± 2.24 | Pd4S | 298.15 | experimental | calorimetry | [Pd–S](https://data.orchid-project.org/systems/PD-S.html) | [1] Hu 2010; _cites Zubkov 1998_ [doi](https://doi.org/10.1006/jcht.1997.0328) | Table 2, p. 2, row 1; `ORC-KKIH2OYVOY.015691` |  |
+| -12.7 per mol-atom | Pd4S | 298.15 | experimental |  | [Pd–S](https://data.orchid-project.org/systems/PD-S.html) | [1] Hu 2010; _cites Niwa 1962_ [doi](https://doi.org/10.1246/bcsj.35.1543) | Table 2, p. 2, row 4; `ORC-PEXVKXTPIT.a450ed` |  |
+| -22.8 per mol-atom | Pd4S | 0 | DFT | first principles (PBEsol) | [Pd–S](https://data.orchid-project.org/systems/PD-S.html) | [1] Hu 2010 | Table 2, p. 2, row 5; `ORC-IRZ5YG6JCN.552710` |  |
 
 ### Uncertainty budget
 
@@ -85,4 +85,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

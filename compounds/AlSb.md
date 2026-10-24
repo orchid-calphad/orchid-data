@@ -14,11 +14,11 @@ Table: Enthalpy of formation of AlSb reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -82 kJ/mol (basis unstated) ± 2.51 | AlSb | 298.15 | experimental | drop calorimetry | [Al–Sb](https://data.orchid-project.org/systems/AL-SB.html) | [1] Balakumar 2005; _cites Lichter 1969_ | Table 5, p. 7, row 4 |  |
-| -96.6 kJ/mol (basis unstated) | AlSb | 298.15 | model | associated solution model | [Al–Sb](https://data.orchid-project.org/systems/AL-SB.html) | [1] Balakumar 2005; _cites Jones 1941_ | Table 5, p. 7, row 1 |  |
-| -84 kJ/mol (basis unstated) | AlSb | 298.15 | model | associated solution model | [Al–Sb](https://data.orchid-project.org/systems/AL-SB.html) | [1] Balakumar 2005; _cites Zajaczkowski 1995_ | Table 5, p. 7, row 3 |  |
-| -81.27 kJ/mol (basis unstated) | AlSb | 298.15 | model |  | [Al–Sb](https://data.orchid-project.org/systems/AL-SB.html) | [1] Balakumar 2005 | Table 5, p. 7, row 5 |  |
-| -73.49 kJ/mol (basis unstated) | AlSb | 298.15 | model | associated solution model | [Al–Sb](https://data.orchid-project.org/systems/AL-SB.html) | [1] Balakumar 2005; _cites Coughanowr 1990_ [doi](https://doi.org/10.1016/0364-5916%2890%2990020-z) | Table 5, p. 7, row 2 |  |
+| -82 kJ/mol (basis unstated) ± 2.51 | AlSb | 298.15 | experimental | drop calorimetry | [Al–Sb](https://data.orchid-project.org/systems/AL-SB.html) | [1] Balakumar 2005; _cites Lichter 1969_ | Table 5, p. 7, row 4; `ORC-MOWA2MD2QK.90e2e1` |  |
+| -96.6 kJ/mol (basis unstated) | AlSb | 298.15 | model | associated solution model | [Al–Sb](https://data.orchid-project.org/systems/AL-SB.html) | [1] Balakumar 2005; _cites Jones 1941_ | Table 5, p. 7, row 1; `ORC-ATLFNG2KIE.69b47b` |  |
+| -84 kJ/mol (basis unstated) | AlSb | 298.15 | model | associated solution model | [Al–Sb](https://data.orchid-project.org/systems/AL-SB.html) | [1] Balakumar 2005; _cites Zajaczkowski 1995_ | Table 5, p. 7, row 3; `ORC-NLPHYGIO3T` |  |
+| -81.27 kJ/mol (basis unstated) | AlSb | 298.15 | model |  | [Al–Sb](https://data.orchid-project.org/systems/AL-SB.html) | [1] Balakumar 2005 | Table 5, p. 7, row 5; `ORC-4ZDXOL6OHZ.63ee1d` |  |
+| -73.49 kJ/mol (basis unstated) | AlSb | 298.15 | model | associated solution model | [Al–Sb](https://data.orchid-project.org/systems/AL-SB.html) | [1] Balakumar 2005; _cites Coughanowr 1990_ [doi](https://doi.org/10.1016/0364-5916%2890%2990020-z) | Table 5, p. 7, row 2; `ORC-JMW4UGZ6PO.3613e9` |  |
 
 ### Uncertainty budget
 
@@ -85,4 +85,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

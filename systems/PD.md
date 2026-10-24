@@ -30,11 +30,11 @@ Table: Crystal structure, Pd system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 3.8902 Å |  | Pd | experimental | [1] Gong 2022; _cites ref. 50_ | Table 3, p. 29, row 2 |  |
-| Lattice a | 3.9309 Å | 0 | Pd | DFT | [1] Gong 2022 | Table 3, p. 29, row 1 |  |
-| volume; _printed: V0_ | 15.3 Å3/atom | 0 | Pd | DFT | [1] Gong 2022 | Table 4, p. 30, row 1 |  |
-| volume; _printed: V0_ | 14.716 Å3/atom |  | Pd | experimental | [1] Gong 2022; _cites ref. 43_ | Table 4, p. 30, row 3 |  |
-| volume; _printed: V0_ | 15.34 Å3/atom | 0 | Pd | DFT | [1] Gong 2022; _cites ref. 43_ | Table 4, p. 30, row 2 |  |
+| Lattice a | 3.8902 Å |  | Pd | experimental | [1] Gong 2022; _cites ref. 50_ | Table 3, p. 29, row 2; `ORC-6SBHNWYFCU.6d1281` |  |
+| Lattice a | 3.9309 Å | 0 | Pd | DFT | [1] Gong 2022 | Table 3, p. 29, row 1; `ORC-ROZV5QFDD7.6f6081` |  |
+| volume; _printed: V0_ | 15.3 Å3/atom | 0 | Pd | DFT | [1] Gong 2022 | Table 4, p. 30, row 1; `ORC-G4TRGY4H2C.c80a2f` |  |
+| volume; _printed: V0_ | 14.716 Å3/atom |  | Pd | experimental | [1] Gong 2022; _cites ref. 43_ | Table 4, p. 30, row 3; `ORC-HOUIIQ43CT.a85159` |  |
+| volume; _printed: V0_ | 15.34 Å3/atom | 0 | Pd | DFT | [1] Gong 2022; _cites ref. 43_ | Table 4, p. 30, row 2; `ORC-QVJ3SE7JKU.c1772e` |  |
 
 ### Other property (3)
 
@@ -42,9 +42,9 @@ Table: Other property, Pd system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| bulk modulus; _printed: B_ | 167.9 GPa | 0 | Pd | DFT | [1] Gong 2022 | Table 4, p. 30, row 1 |  |
-| bulk modulus; _printed: B_ | 195.5 GPa |  | Pd | experimental | [1] Gong 2022; _cites ref. 43_ | Table 4, p. 30, row 3 |  |
-| bulk modulus; _printed: B_ | 163.3 GPa | 0 | Pd | DFT | [1] Gong 2022; _cites ref. 43_ | Table 4, p. 30, row 2 |  |
+| bulk modulus; _printed: B_ | 167.9 GPa | 0 | Pd | DFT | [1] Gong 2022 | Table 4, p. 30, row 1; `ORC-G4TRGY4H2C.678c06` |  |
+| bulk modulus; _printed: B_ | 195.5 GPa |  | Pd | experimental | [1] Gong 2022; _cites ref. 43_ | Table 4, p. 30, row 3; `ORC-HOUIIQ43CT.ed343e` |  |
+| bulk modulus; _printed: B_ | 163.3 GPa | 0 | Pd | DFT | [1] Gong 2022; _cites ref. 43_ | Table 4, p. 30, row 2; `ORC-QVJ3SE7JKU.29088b` |  |
 
 ## Sources
 
@@ -87,4 +87,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

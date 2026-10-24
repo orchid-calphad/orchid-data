@@ -14,13 +14,13 @@ Table: Enthalpy of formation of Na3Sb reported in the literature (7)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -58.5 kJ/mol-atom | Na3Sb(s) | 298.15 | experimental |  | [Na–Sb](https://data.orchid-project.org/systems/NA-SB.html) | [1] Liu 2013; _cites Voronin 1967_ | Table 2, p. 4, row 2 |  |
-| -56.75 kJ/mol-atom | Na3Sb(s) | 298.15 | experimental |  | [Na–Sb](https://data.orchid-project.org/systems/NA-SB.html) | [1] Liu 2013; _cites Voronin 1987_ | Table 2, p. 4, row 3 |  |
-| -53.25 kJ/mol-atom | Na3Sb(s) | 298.15 | experimental |  | [Na–Sb](https://data.orchid-project.org/systems/NA-SB.html) | [1] Liu 2013; _cites Morozova 1959_ | Table 2, p. 4, row 4 |  |
-| -49.25 kJ/mol-atom | Na3Sb(s) | 298.15 | experimental |  | [Na–Sb](https://data.orchid-project.org/systems/NA-SB.html) | [1] Liu 2013; _cites Kubaschewski 1938_ | Table 2, p. 4, row 5 |  |
-| -56.5 kJ/mol-atom | Na3Sb(s) |  | model |  | [Na–Sb](https://data.orchid-project.org/systems/NA-SB.html) | [1] Liu 2013 | Table 2, p. 4, row 1 |  |
-| -1.786 eV | Na3Sb | 0 | DFT | DFT | [Na–Sb](https://data.orchid-project.org/systems/NA-SB.html) | [2] Dreval 2017 | Table 3, p. 7, row 20 |  |
-| -1.784 eV | Na3Sb | 0 | DFT | DFT | [Na–Sb](https://data.orchid-project.org/systems/NA-SB.html) | [2] Dreval 2017 | Table 3, p. 7, row 19 |  |
+| -58.5 kJ/mol-atom | Na3Sb(s) | 298.15 | experimental |  | [Na–Sb](https://data.orchid-project.org/systems/NA-SB.html) | [1] Liu 2013; _cites Voronin 1967_ | Table 2, p. 4, row 2; `ORC-223PF5O6OY.11e76e` |  |
+| -56.75 kJ/mol-atom | Na3Sb(s) | 298.15 | experimental |  | [Na–Sb](https://data.orchid-project.org/systems/NA-SB.html) | [1] Liu 2013; _cites Voronin 1987_ | Table 2, p. 4, row 3; `ORC-FV5NVFPNHC.c25a69` |  |
+| -53.25 kJ/mol-atom | Na3Sb(s) | 298.15 | experimental |  | [Na–Sb](https://data.orchid-project.org/systems/NA-SB.html) | [1] Liu 2013; _cites Morozova 1959_ | Table 2, p. 4, row 4; `ORC-C4RJJYSSQ6.9dc606` |  |
+| -49.25 kJ/mol-atom | Na3Sb(s) | 298.15 | experimental |  | [Na–Sb](https://data.orchid-project.org/systems/NA-SB.html) | [1] Liu 2013; _cites Kubaschewski 1938_ | Table 2, p. 4, row 5; `ORC-TJNKYZVPIG.cde1fb` |  |
+| -56.5 kJ/mol-atom | Na3Sb(s) |  | model |  | [Na–Sb](https://data.orchid-project.org/systems/NA-SB.html) | [1] Liu 2013 | Table 2, p. 4, row 1; `ORC-XHQKMYGYLV.a7c5ca` |  |
+| -1.786 eV | Na3Sb | 0 | DFT | DFT | [Na–Sb](https://data.orchid-project.org/systems/NA-SB.html) | [2] Dreval 2017 | Table 3, p. 7, row 20; `ORC-KKWPGCYOW6` |  |
+| -1.784 eV | Na3Sb | 0 | DFT | DFT | [Na–Sb](https://data.orchid-project.org/systems/NA-SB.html) | [2] Dreval 2017 | Table 3, p. 7, row 19; `ORC-5YMH6CE4GG` |  |
 
 ### Uncertainty budget
 
@@ -103,4 +103,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

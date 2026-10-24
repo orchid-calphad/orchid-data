@@ -34,16 +34,16 @@ Table: Invariant reactions reported in the literature for the Co system (10)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1768 | congruent melting: Co(FCC) \<-> Co(L) | Co(FCC):  | unspecified | [1] Vassilev 2004; _cites Dinsdale 1991_ | Table 3, p. 6, row 1 |  |
-| 695.15 | polymorphic: αCo ↔ εCo | εCo:  | experimental | [2] Liu 2008; _cites Okamoto 2000_ | Table 2, p. 4, row 21 |  |
-| 695.15 | polymorphic: αCo -> εCo | εCo:  | model | [3] Ansara 1991 | Table 1, p. 5, row 13 |  |
-| 695 | polymorphic: (αCo) ↔ (εCo) |  | unspecified | [4] Zhang 2008; _cites Dudkin 1956_ | Table 1, p. 2, row 1 |  |
-| 695 | α-Co -> ε-Co | ε-Co:  | experimental | [5] Golumbfskie 2006; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 2, p. 2, row 2 |  |
-| 695 | α-Co -> ε-Co | ε-Co:  | model | [5] Golumbfskie 2006 | Table 2, p. 2, row 1 |  |
-| 695 | FCC(Co) -> HCP(Co) + FCC(Ag) |  | experimental | [6] Zhu 2009; _cites Karakaya 1986_ [doi](https://doi.org/10.1007/bf02869002) | Table 4, p. 3, row 5 |  |
-| 695 | polymorphic: (αCo) ↔ (εCo) |  | model | [4] Zhang 2008 | Table 1, p. 2, row 2 |  |
-| 694.15 | polymorphic: αCo ↔ εCo | εCo:  | model | [2] Liu 2008 | Table 2, p. 4, row 22 |  |
-| 615 | (αCo) \<=> (Cu) + (εCo) | (αCo): Co 0.905 | experimental | [7] Turchanin 2007; _cites ref. 27_ | Table 1, p. 6, row 13 |  |
+| 1768 | congruent melting: Co(FCC) \<-> Co(L) | Co(FCC):  | unspecified | [1] Vassilev 2004; _cites Dinsdale 1991_ | Table 3, p. 6, row 1; `ORC-R7BQHCQXRN` |  |
+| 695.15 | polymorphic: αCo ↔ εCo | εCo:  | experimental | [2] Liu 2008; _cites Okamoto 2000_ | Table 2, p. 4, row 21; `ORC-QOTTPZW2UI` |  |
+| 695.15 | polymorphic: αCo -> εCo | εCo:  | model | [3] Ansara 1991 | Table 1, p. 5, row 13; `ORC-ZQAU5CDWTC` |  |
+| 695 | polymorphic: (αCo) ↔ (εCo) |  | unspecified | [4] Zhang 2008; _cites Dudkin 1956_ | Table 1, p. 2, row 1; `ORC-EEMFXYMJ7D` |  |
+| 695 | α-Co -> ε-Co | ε-Co:  | experimental | [5] Golumbfskie 2006; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 2, p. 2, row 2; `ORC-EMQ3DPPOQH` |  |
+| 695 | α-Co -> ε-Co | ε-Co:  | model | [5] Golumbfskie 2006 | Table 2, p. 2, row 1; `ORC-FZUF6VPZME` |  |
+| 695 | FCC(Co) -> HCP(Co) + FCC(Ag) |  | experimental | [6] Zhu 2009; _cites Karakaya 1986_ [doi](https://doi.org/10.1007/bf02869002) | Table 4, p. 3, row 5; `ORC-N427UITCUO` |  |
+| 695 | polymorphic: (αCo) ↔ (εCo) |  | model | [4] Zhang 2008 | Table 1, p. 2, row 2; `ORC-ZVRN2RAGZM` |  |
+| 694.15 | polymorphic: αCo ↔ εCo | εCo:  | model | [2] Liu 2008 | Table 2, p. 4, row 22; `ORC-PSBM5BXQU2` |  |
+| 615 | (αCo) \<=> (Cu) + (εCo) | (αCo): Co 0.905 | experimental | [7] Turchanin 2007; _cites ref. 27_ | Table 1, p. 6, row 13; `ORC-HJMSGHXM27` |  |
 
 ## Formation enthalpies
 
@@ -53,9 +53,9 @@ Table: Enthalpies of formation, Co system (3)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| m-(Co,Fe)4Al13 |  | -40.44 kJ/mol-atom |  | DFT |  |  | [8] Ostrowska 2019; _cites Shevchenko 2014_ [doi](https://doi.org/10.1134/s003602441405029x) | Table 2, p. 2, row 6 |  |
-| m-(Co,Fe)4Al13 |  | -37.64 kJ/mol-atom |  | DFT |  |  | [8] Ostrowska 2019; _cites AFLOW_ | Table 2, p. 2, row 7 |  |
-| m-(Co,Fe)4Al13 |  | -37.26 kJ/mol-atom |  | DFT |  |  | [8] Ostrowska 2019; _cites materialsproject_ | Table 2, p. 2, row 5 |  |
+| m-(Co,Fe)4Al13 |  | -40.44 kJ/mol-atom |  | DFT |  |  | [8] Ostrowska 2019; _cites Shevchenko 2014_ [doi](https://doi.org/10.1134/s003602441405029x) | Table 2, p. 2, row 6; `ORC-BOFTHCMKTY` |  |
+| m-(Co,Fe)4Al13 |  | -37.64 kJ/mol-atom |  | DFT |  |  | [8] Ostrowska 2019; _cites AFLOW_ | Table 2, p. 2, row 7; `ORC-EPVZKAS77L` |  |
+| m-(Co,Fe)4Al13 |  | -37.26 kJ/mol-atom |  | DFT |  |  | [8] Ostrowska 2019; _cites materialsproject_ | Table 2, p. 2, row 5; `ORC-AV6E53YJPK` |  |
 
 ## Other properties
 
@@ -65,8 +65,8 @@ Table: Phase transition, Co system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 695 K | 695 | ε-Co + α-Co | model | [9] Chen 2003; _cites Dinsdale 2003_ | p. 1 | “␧-Co (hcp) is stable up to 695 K, at which temperature it transforms to ␣-Co (fcc) \[1991Din\].” |
-| Phase transition | 1150 K | 1150 | magnetic | experimental | [10] Davydov 1999; _cites Takayama 1981_ [doi](https://doi.org/10.2320/matertrans1960.22.315) | p. 2 | “Using x-ray diffraction (XRD) and microprobe analysis, \[81Tak\] detected an abrupt change in the fcc (Co) solvus line at about 1150 K and showed that this anomaly is caused by the magnetic transformation in this phase.” |
+| Phase transition | 695 K | 695 | ε-Co + α-Co | model | [9] Chen 2003; _cites Dinsdale 2003_ | p. 1; `ORC-FSFSFQONKY` | “␧-Co (hcp) is stable up to 695 K, at which temperature it transforms to ␣-Co (fcc) \[1991Din\].” |
+| Phase transition | 1150 K | 1150 | magnetic | experimental | [10] Davydov 1999; _cites Takayama 1981_ [doi](https://doi.org/10.2320/matertrans1960.22.315) | p. 2; `ORC-34QIEUKH66` | “Using x-ray diffraction (XRD) and microprobe analysis, \[81Tak\] detected an abrupt change in the fcc (Co) solvus line at about 1150 K and showed that this anomaly is caused by the magnetic transformation in this phase.” |
 
 ### Mixing / partial (3)
 
@@ -74,9 +74,9 @@ Table: Mixing / partial, Co system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: ΔH^E_ | 0 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 1_ | experimental | [11] Kubišta 2000 | Table 4, p. 4, row 1 |  |
-| Entropy of mixing; _printed: ΔS^E_ | 0 J/mol (basis unstated)/K | 1810.15 | liquid; _alloy: Co 1_ | experimental | [11] Kubišta 2000 | Table 4, p. 4, row 1 |  |
-| Gibbs energy of mixing; _printed: ΔG^E_ | 0 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 1_ | experimental | [11] Kubišta 2000 | Table 4, p. 4, row 1 |  |
+| Enthalpy of mixing; _printed: ΔH^E_ | 0 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 1_ | experimental | [11] Kubišta 2000 | Table 4, p. 4, row 1; `ORC-TR6KLBVTSD.76ad95` |  |
+| Entropy of mixing; _printed: ΔS^E_ | 0 J/mol (basis unstated)/K | 1810.15 | liquid; _alloy: Co 1_ | experimental | [11] Kubišta 2000 | Table 4, p. 4, row 1; `ORC-TR6KLBVTSD.125cc1` |  |
+| Gibbs energy of mixing; _printed: ΔG^E_ | 0 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 1_ | experimental | [11] Kubišta 2000 | Table 4, p. 4, row 1; `ORC-TR6KLBVTSD.be92d6` |  |
 
 ### Activity / EMF / Gibbs energy (1)
 
@@ -84,7 +84,7 @@ Table: Activity / EMF / Gibbs energy, Co system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Gibbs energy; _printed: ΔG°_ | -98862 J/mol | 1873 | liquid Co | experimental | [9] Chen 2003; _cites Fischer 1971_ | Table 7, p. 11, row 4 |  |
+| Gibbs energy; _printed: ΔG°_ | -98862 J/mol | 1873 | liquid Co | experimental | [9] Chen 2003; _cites Fischer 1971_ | Table 7, p. 11, row 4; `ORC-VUIL5KUVVB` |  |
 
 ### Crystal structure (6)
 
@@ -92,12 +92,12 @@ Table: Crystal structure, Co system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 3.544 Å | 298.15 | αCo | model | [12] Cacciamani 2000; _cites Villars 1991_ | Table 1, p. 2, row 2 |  |
-| Lattice a | 2.507 Å | 298.15 | εCo | model | [12] Cacciamani 2000; _cites Villars 1991_ | Table 1, p. 2, row 1 |  |
-| Lattice a | 2.505 Å | 298.15 | εCo | model | [12] Cacciamani 2000; _cites Villars 1991_ | Table 1, p. 2, row 1 |  |
-| Lattice c | 4.089 Å | 298.15 | εCo | model | [12] Cacciamani 2000; _cites Villars 1991_ | Table 1, p. 2, row 1 |  |
-| Lattice c | 4.07 Å | 298.15 | εCo | model | [12] Cacciamani 2000; _cites Villars 1991_ | Table 1, p. 2, row 1 |  |
-| Molar volume; _printed: V0_ | 10.82 Å3/atom | 0 | hcp(Co) | DFT | [13] Zhou 2020 | Table V, p. 12, row 1 |  |
+| Lattice a | 3.544 Å | 298.15 | αCo | model | [12] Cacciamani 2000; _cites Villars 1991_ | Table 1, p. 2, row 2; `ORC-UVEFPHPMDC` |  |
+| Lattice a | 2.507 Å | 298.15 | εCo | model | [12] Cacciamani 2000; _cites Villars 1991_ | Table 1, p. 2, row 1; `ORC-JG7PSBO7MK.148621` |  |
+| Lattice a | 2.505 Å | 298.15 | εCo | model | [12] Cacciamani 2000; _cites Villars 1991_ | Table 1, p. 2, row 1; `ORC-JG7PSBO7MK.3eae46` |  |
+| Lattice c | 4.089 Å | 298.15 | εCo | model | [12] Cacciamani 2000; _cites Villars 1991_ | Table 1, p. 2, row 1; `ORC-JG7PSBO7MK.36df5f` |  |
+| Lattice c | 4.07 Å | 298.15 | εCo | model | [12] Cacciamani 2000; _cites Villars 1991_ | Table 1, p. 2, row 1; `ORC-JG7PSBO7MK.eac3cf` |  |
+| Molar volume; _printed: V0_ | 10.82 Å3/atom | 0 | hcp(Co) | DFT | [13] Zhou 2020 | Table V, p. 12, row 1; `ORC-RSFI3WEZR3` |  |
 
 ## Sources
 
@@ -152,4 +152,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -50,11 +50,11 @@ Table: Invariant reactions reported in the literature for the Ag–Hg system (5)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 549 | fcc + liq ↔ Ag11Hg9 | Ag11Hg9: Hg 0.45 | experimental | [1] Liu 2012; _cites Murphy 1931_ | Table 2, p. 4, row 2 |  |
-| 549 | peritectic: fcc + liquid -> Ag11Hg9 |  | experimental | [1] Liu 2012; _cites Murphy 1931_ | p. 4 | “the peritectic reaction between fcc and liquid to form Ag11 Hg9 , the temperature of which was identified at 549.0 K by Murphy \[5\].” |
-| 548.23 | fcc + liq ↔ Ag11Hg9 | fcc: Hg 0.375; liq: Hg 0.9512; Ag11Hg9: Hg 0.45 | model | [1] Liu 2012 | Table 2, p. 4, row 1 |  |
-| 399.22 | Ag11Hg9 + liq ↔ Ag11Hg15 | Ag11Hg9: Hg 0.9917; Ag11Hg15: Hg 0.576923 | model | [1] Liu 2012 | Table 2, p. 4, row 3 |  |
-| 234.29 | liq ↔ Ag11Hg15 + (Hg) | Ag11Hg15: Hg 0.576923; (Hg): Hg 0.999868 | model | [1] Liu 2012 | Table 2, p. 4, row 4 |  |
+| 549 | fcc + liq ↔ Ag11Hg9 | Ag11Hg9: Hg 0.45 | experimental | [1] Liu 2012; _cites Murphy 1931_ | Table 2, p. 4, row 2; `ORC-LHYCJ2G24M` |  |
+| 549 | peritectic: fcc + liquid -> Ag11Hg9 |  | experimental | [1] Liu 2012; _cites Murphy 1931_ | p. 4; `ORC-T6KJLGLKYN` | “the peritectic reaction between fcc and liquid to form Ag11 Hg9 , the temperature of which was identified at 549.0 K by Murphy \[5\].” |
+| 548.23 | fcc + liq ↔ Ag11Hg9 | fcc: Hg 0.375; liq: Hg 0.9512; Ag11Hg9: Hg 0.45 | model | [1] Liu 2012 | Table 2, p. 4, row 1; `ORC-B5WRW54UZG` |  |
+| 399.22 | Ag11Hg9 + liq ↔ Ag11Hg15 | Ag11Hg9: Hg 0.9917; Ag11Hg15: Hg 0.576923 | model | [1] Liu 2012 | Table 2, p. 4, row 3; `ORC-WWUHWUCDF5` |  |
+| 234.29 | liq ↔ Ag11Hg15 + (Hg) | Ag11Hg15: Hg 0.576923; (Hg): Hg 0.999868 | model | [1] Liu 2012 | Table 2, p. 4, row 4; `ORC-PBWOAB2N6H` |  |
 
 ## Other properties
 
@@ -64,7 +64,7 @@ Table: Phase transition, Ag–Hg system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 544.23 K | 544.23 | fcc + liquid -> Ag11Hg9 | model | [1] Liu 2012 | p. 4 | “As noted, the calculated temperature for this invariant reaction, i.e. 544.23 K, is very close to the value proposed by Murphy \[5\].” |
+| Phase transition | 544.23 K | 544.23 | fcc + liquid -> Ag11Hg9 | model | [1] Liu 2012 | p. 4; `ORC-ET32T33BLQ` | “As noted, the calculated temperature for this invariant reaction, i.e. 544.23 K, is very close to the value proposed by Murphy \[5\].” |
 
 ## Sources
 
@@ -129,4 +129,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

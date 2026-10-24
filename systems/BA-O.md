@@ -51,11 +51,11 @@ Table: Invariant reactions reported in the literature for the Ba–O system (5)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1630 | eutectic: Liquid -> BaO + gas | L: O 0.575; BaO: O 0.506; gas: O 1 | model | [1] Zhou 2005 | Table III, p. 6, row 4 |  |
-| 1350 | peritectic |  | model | [2] Zimmermann 1995 | p. 4 | “In order to keep the data set as simple as possible for this composition range a peritectic temperature of 1350K was assumed.” |
-| 1096 | peritectic: BaO + gas -> BaO2 | BaO: O 0.509; gas: O 1; BaO2: O 0.618 | model | [1] Zhou 2005 | Table III, p. 6, row 6 |  |
-| 1096 | peritectic: BaO + gas -> BaO2 | BaO: O 0.509; gas: O 1; BaO2: O 0.624 | model | [1] Zhou 2005 | Table III, p. 6, row 5 |  |
-| 842 | eutectic: Liquid -> bcc + BaO | L: O 0.1; bcc: O 0; BaO: O 0.5 | model | [1] Zhou 2005 | Table III, p. 6, row 7 |  |
+| 1630 | eutectic: Liquid -> BaO + gas | L: O 0.575; BaO: O 0.506; gas: O 1 | model | [1] Zhou 2005 | Table III, p. 6, row 4; `ORC-5VOTELIQUU.05c48a` |  |
+| 1350 | peritectic |  | model | [2] Zimmermann 1995 | p. 4; `ORC-U3SEWHKYQA` | “In order to keep the data set as simple as possible for this composition range a peritectic temperature of 1350K was assumed.” |
+| 1096 | peritectic: BaO + gas -> BaO2 | BaO: O 0.509; gas: O 1; BaO2: O 0.618 | model | [1] Zhou 2005 | Table III, p. 6, row 6; `ORC-VIJAKKUMXZ.63c195` |  |
+| 1096 | peritectic: BaO + gas -> BaO2 | BaO: O 0.509; gas: O 1; BaO2: O 0.624 | model | [1] Zhou 2005 | Table III, p. 6, row 5; `ORC-VIJAKKUMXZ.d1d903` |  |
+| 842 | eutectic: Liquid -> bcc + BaO | L: O 0.1; bcc: O 0; BaO: O 0.5 | model | [1] Zhou 2005 | Table III, p. 6, row 7; `ORC-NPVYXNYEIF` |  |
 
 ## Formation enthalpies
 
@@ -65,20 +65,20 @@ Table: Enthalpies of formation, Ba–O system (14)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Ba2O2(G) |  | -125.9 kJ/mol-atom | 298.15 | model |  |  | [2] Zimmermann 1995 | Table 2, p. 5, row 9 |  |
-| Ba2O3(G) |  | -100.72 kJ/mol-atom | 298.15 | model |  |  | [2] Zimmermann 1995 | Table 2, p. 5, row 9 |  |
-| BaO |  | -274.03 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Zhou 2005; _cites Hedvall 1918_ | Table I, p. 3, row 2 |  |
-| BaO(G) |  | -60.45 kJ/mol-atom | 298.15 | model |  |  | [2] Zimmermann 1995 | Table 2, p. 5, row 6 |  |
-| BaO(L) |  | -250.138 kJ/mol-atom | 298.15 | model |  |  | [2] Zimmermann 1995 | Table 2, p. 5, row 3 |  |
-| BaO(S) | [BaO](https://data.orchid-project.org/compounds/BaO.html) | -276.68 kJ/mol-atom | 298.15 | model | -272.439 (mp-aaaaabzq) | -259.209 (oqmd-1343705) | [2] Zimmermann 1995 | Table 2, p. 5, row 1 |  |
-| BaO2(S) | [BaO2](https://data.orchid-project.org/compounds/BaO2.html) | -211.9 kJ/mol-atom | 298.15 | model | -209.391 (mp-aaaaabqn) | -205.059 (oqmd-1984787) | [2] Zimmermann 1995 | Table 2, p. 5, row 5 |  |
-| BaO^s |  | -581.83 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Zimmermann 1995; _cites ref. 52Mah_ | Table 1, p. 3, row 4 |  |
-| BaO^s |  | -560.82 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Zimmermann 1995; _cites ref. 23Gun_ | Table 1, p. 3, row 2 |  |
-| BaO^s |  | -556.47 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Zimmermann 1995; _cites ref. 56Zai_ | Table 1, p. 3, row 3 |  |
-| BaO^s |  | -552.71 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Zimmermann 1995; _cites ref. 66Fli_ | Table 1, p. 3, row 5 |  |
-| BaO^s |  | -548.02 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Zimmermann 1995; _cites ref. 73Fit_ | Table 1, p. 3, row 6 |  |
-| BaO^s |  | -548.02 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Zimmermann 1995; _cites ref. 90Cor_ | Table 1, p. 3, row 7 |  |
-| BaO^s |  | -526.5 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Zimmermann 1995; _cites ref. 08For_ | Table 1, p. 3, row 1 |  |
+| Ba2O2(G) |  | -125.9 kJ/mol-atom | 298.15 | model |  |  | [2] Zimmermann 1995 | Table 2, p. 5, row 9; `ORC-4YNEHQ5EIR.2dc640` |  |
+| Ba2O3(G) |  | -100.72 kJ/mol-atom | 298.15 | model |  |  | [2] Zimmermann 1995 | Table 2, p. 5, row 9; `ORC-4YNEHQ5EIR.a11b60` |  |
+| BaO |  | -274.03 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Zhou 2005; _cites Hedvall 1918_ | Table I, p. 3, row 2; `ORC-VUULNG2P7H.06351a` |  |
+| BaO(G) |  | -60.45 kJ/mol-atom | 298.15 | model |  |  | [2] Zimmermann 1995 | Table 2, p. 5, row 6; `ORC-TSAWQE6B7D.67270d` |  |
+| BaO(L) |  | -250.138 kJ/mol-atom | 298.15 | model |  |  | [2] Zimmermann 1995 | Table 2, p. 5, row 3; `ORC-ZTEM7HIHVT.1cef31` |  |
+| BaO(S) | [BaO](https://data.orchid-project.org/compounds/BaO.html) | -276.68 kJ/mol-atom | 298.15 | model | -272.439 (mp-aaaaabzq) | -259.209 (oqmd-1343705) | [2] Zimmermann 1995 | Table 2, p. 5, row 1; `ORC-6UBIDCFIOR.411216` |  |
+| BaO2(S) | [BaO2](https://data.orchid-project.org/compounds/BaO2.html) | -211.9 kJ/mol-atom | 298.15 | model | -209.391 (mp-aaaaabqn) | -205.059 (oqmd-1984787) | [2] Zimmermann 1995 | Table 2, p. 5, row 5; `ORC-FZDHSR2W56.243809` |  |
+| BaO^s |  | -581.83 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Zimmermann 1995; _cites ref. 52Mah_ | Table 1, p. 3, row 4; `ORC-YKJN32MT5L` |  |
+| BaO^s |  | -560.82 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Zimmermann 1995; _cites ref. 23Gun_ | Table 1, p. 3, row 2; `ORC-UMGELNRKO4` |  |
+| BaO^s |  | -556.47 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Zimmermann 1995; _cites ref. 56Zai_ | Table 1, p. 3, row 3; `ORC-FT2GQX5YP6` |  |
+| BaO^s |  | -552.71 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Zimmermann 1995; _cites ref. 66Fli_ | Table 1, p. 3, row 5; `ORC-QN4AUCYWOO` |  |
+| BaO^s |  | -548.02 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Zimmermann 1995; _cites ref. 73Fit_ | Table 1, p. 3, row 6; `ORC-4X2KRBUUIB` |  |
+| BaO^s |  | -548.02 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Zimmermann 1995; _cites ref. 90Cor_ | Table 1, p. 3, row 7; `ORC-RCEC6OJ3SP` |  |
+| BaO^s |  | -526.5 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Zimmermann 1995; _cites ref. 08For_ | Table 1, p. 3, row 1; `ORC-DBGM6GQXAO` |  |
 
 ## Other properties
 
@@ -88,16 +88,16 @@ Table: Phase transition, Ba–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1600 K | 1600 | other | model | [2] Zimmermann 1995; _cites ref. 85Cha_ | p. 4 | “Assuming a glass transition temperature of 1600K \[85Cha\] and Ck=Ci for T \< T,, one obtains the data set for BaOL with Hrg8, !& and C, as given in Table 2 and with Gibbs energy coefficients as given in Table 3.” |
-| Phase transition | 2196 K | 2196 |  | experimental | [2] Zimmermann 1995; _cites ref. 26Sch_ | p. 4 | “The melting point of pure stoichiometric BaO has been measured to be 2196K \[26Sch\], 2273K \[02Moi\] and 2286K \[65Foe\].” |
-| Phase transition | 2197 K | 2197 | liquid | experimental | [1] Zhou 2005; _cites Schriel 1937_ | p. 1 | “For example, Glushko,18 Moissan,19 Foex20 and Schumacher21 measured melting temperatures of 2290, 2273, 2286, and 2197 K, respectively.” |
-| Phase transition | 2273 K | 2273 |  | experimental | [2] Zimmermann 1995; _cites ref. 02Moi_ | p. 4 | “The melting point of pure stoichiometric BaO has been measured to be 2196K \[26Sch\], 2273K \[02Moi\] and 2286K \[65Foe\].” |
-| Phase transition | 2273 K | 2273 | liquid | experimental | [1] Zhou 2005; _cites Foex 1965_ | p. 1 | “For example, Glushko,18 Moissan,19 Foex20 and Schumacher21 measured melting temperatures of 2290, 2273, 2286, and 2197 K, respectively.” |
-| Phase transition | 2286 K | 2286 |  | experimental | [2] Zimmermann 1995; _cites ref. 65Foe_ | p. 4 | “The melting point of pure stoichiometric BaO has been measured to be 2196K \[26Sch\], 2273K \[02Moi\] and 2286K \[65Foe\].” |
-| Phase transition | 2286 K | 2286 | liquid | experimental | [1] Zhou 2005; _cites Schumacher 1926_ | p. 1 | “For example, Glushko,18 Moissan,19 Foex20 and Schumacher21 measured melting temperatures of 2290, 2273, 2286, and 2197 K, respectively.” |
-| Phase transition | 2287 K | 2287 | congruent melting: Liquid -> BaO; _L: O 0.5; BaO: O 0.5_ | model | [1] Zhou 2005 | Table III, p. 6, row 2 |  |
-| Phase transition | 2290 K | 2290 | liquid | experimental | [1] Zhou 2005; _cites Moissan 1902_ | p. 1 | “For example, Glushko,18 Moissan,19 Foex20 and Schumacher21 measured melting temperatures of 2290, 2273, 2286, and 2197 K, respectively.” |
-| Phase transition | 3249 K | 3249 | congruent melting: Gas -> liquid; _Gas: O 0.539; L: O 0.539_ | model | [1] Zhou 2005 | Table III, p. 6, row 1 |  |
+| Phase transition | 1600 K | 1600 | other | model | [2] Zimmermann 1995; _cites ref. 85Cha_ | p. 4; `ORC-S5QMEHUUA3` | “Assuming a glass transition temperature of 1600K \[85Cha\] and Ck=Ci for T \< T,, one obtains the data set for BaOL with Hrg8, !& and C, as given in Table 2 and with Gibbs energy coefficients as given in Table 3.” |
+| Phase transition | 2196 K | 2196 |  | experimental | [2] Zimmermann 1995; _cites ref. 26Sch_ | p. 4; `ORC-LXJYOCK2ZG.a93677` | “The melting point of pure stoichiometric BaO has been measured to be 2196K \[26Sch\], 2273K \[02Moi\] and 2286K \[65Foe\].” |
+| Phase transition | 2197 K | 2197 | liquid | experimental | [1] Zhou 2005; _cites Schriel 1937_ | p. 1; `ORC-K6V2TQFZQZ.eb7d6f` | “For example, Glushko,18 Moissan,19 Foex20 and Schumacher21 measured melting temperatures of 2290, 2273, 2286, and 2197 K, respectively.” |
+| Phase transition | 2273 K | 2273 |  | experimental | [2] Zimmermann 1995; _cites ref. 02Moi_ | p. 4; `ORC-LXJYOCK2ZG.02d38c` | “The melting point of pure stoichiometric BaO has been measured to be 2196K \[26Sch\], 2273K \[02Moi\] and 2286K \[65Foe\].” |
+| Phase transition | 2273 K | 2273 | liquid | experimental | [1] Zhou 2005; _cites Foex 1965_ | p. 1; `ORC-K6V2TQFZQZ.c0f4b7` | “For example, Glushko,18 Moissan,19 Foex20 and Schumacher21 measured melting temperatures of 2290, 2273, 2286, and 2197 K, respectively.” |
+| Phase transition | 2286 K | 2286 |  | experimental | [2] Zimmermann 1995; _cites ref. 65Foe_ | p. 4; `ORC-LXJYOCK2ZG.739ccc` | “The melting point of pure stoichiometric BaO has been measured to be 2196K \[26Sch\], 2273K \[02Moi\] and 2286K \[65Foe\].” |
+| Phase transition | 2286 K | 2286 | liquid | experimental | [1] Zhou 2005; _cites Schumacher 1926_ | p. 1; `ORC-K6V2TQFZQZ.90116d` | “For example, Glushko,18 Moissan,19 Foex20 and Schumacher21 measured melting temperatures of 2290, 2273, 2286, and 2197 K, respectively.” |
+| Phase transition | 2287 K | 2287 | congruent melting: Liquid -> BaO; _L: O 0.5; BaO: O 0.5_ | model | [1] Zhou 2005 | Table III, p. 6, row 2; `ORC-IGD53MEIHM` |  |
+| Phase transition | 2290 K | 2290 | liquid | experimental | [1] Zhou 2005; _cites Moissan 1902_ | p. 1; `ORC-K6V2TQFZQZ.1fb732` | “For example, Glushko,18 Moissan,19 Foex20 and Schumacher21 measured melting temperatures of 2290, 2273, 2286, and 2197 K, respectively.” |
+| Phase transition | 3249 K | 3249 | congruent melting: Gas -> liquid; _Gas: O 0.539; L: O 0.539_ | model | [1] Zhou 2005 | Table III, p. 6, row 1; `ORC-3FGO3YWNY6` |  |
 
 ### Heat capacity / entropy / enthalpy (12)
 
@@ -105,18 +105,18 @@ Table: Heat capacity / entropy / enthalpy, Ba–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: entropy_ | 35.01 J/K/mole of atoms | 298.15 |  | experimental | [1] Zhou 2005; _cites Cordfunke 1994_ | p. 3 | “Its heat capacity, as measured by different authors 32,33,34 using an adiabatic calorimeter, was plotted in Fig. 2, and was used to calculate the entropy32 at 298K to be 35.01 J/K/mole of atoms.” |
-| Entropy; _printed: entropy_ | 29.18 J/K/mole of atoms | 298.15 |  | experimental | [1] Zhou 2005; _cites Gavrichev_ | p. 3 | “The heat capacity of the BaO2 phase was measured by Gavrichev et al.35 by means of a calorimeter (see Fig. 2) and was used to calculate its entropy35 as 29.18 J/K/mole of atoms at 298K.” |
-| Entropy; _printed: S298_ | 89.475 J/mol-atom/K | 298.15 | Ba2O2(G); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 9 |  |
-| Entropy; _printed: S298_ | 71.58 J/mol-atom/K | 298.15 | Ba2O3(G); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 9 |  |
-| Entropy; _printed: Entropy of formation at 298 K_ | 34.99 J/mol (basis unstated)/K | 298.15 | BaO; _alloy: O 0.5_ | model | [1] Zhou 2005 | Table I, p. 3, row 10 |  |
-| Entropy; _printed: Entropy of formation at 298 K_ | 35.01 J/mol (basis unstated)/K | 298.15 | BaO; _alloy: O 0.5_ | experimental | [1] Zhou 2005; _cites Zaitseva 1956_ | Table I, p. 3, row 3 |  |
-| Entropy; _printed: Entropy of formation_ | 35.01 J/mol (basis unstated)/K | 298.15 | BaO; _alloy: O 0.5_ | experimental | [1] Zhou 2005; _cites Hedvall 1918_ | Table I, p. 3, row 2 |  |
-| Entropy; _printed: S298_ | 117.73 J/mol-atom/K | 298.15 | BaO(G); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 6 |  |
-| Entropy; _printed: S298_ | 47.438 J/mol-atom/K | 298.15 | BaO(L); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 3 |  |
-| Entropy; _printed: S298_ | 36.035 J/mol-atom/K | 298.15 | BaO(S); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 1 |  |
-| Entropy; _printed: Entropy of formation_ | 29.18 J/mol (basis unstated)/K | 298.15 | BaO2; _alloy: O 0.666667_ | experimental | [1] Zhou 2005 | Table I, p. 3, row 8 |  |
-| Entropy; _printed: S298_ | 30.9167 J/mol-atom/K | 298.15 | BaO2(S); _alloy: O 0.666667_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 5 |  |
+| Entropy; _printed: entropy_ | 35.01 J/K/mole of atoms | 298.15 |  | experimental | [1] Zhou 2005; _cites Cordfunke 1994_ | p. 3; `ORC-EV4OVDHGTX` | “Its heat capacity, as measured by different authors 32,33,34 using an adiabatic calorimeter, was plotted in Fig. 2, and was used to calculate the entropy32 at 298K to be 35.01 J/K/mole of atoms.” |
+| Entropy; _printed: entropy_ | 29.18 J/K/mole of atoms | 298.15 |  | experimental | [1] Zhou 2005; _cites Gavrichev_ | p. 3; `ORC-S5EXAT6KUE` | “The heat capacity of the BaO2 phase was measured by Gavrichev et al.35 by means of a calorimeter (see Fig. 2) and was used to calculate its entropy35 as 29.18 J/K/mole of atoms at 298K.” |
+| Entropy; _printed: S298_ | 89.475 J/mol-atom/K | 298.15 | Ba2O2(G); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 9; `ORC-4YNEHQ5EIR.5723ae` |  |
+| Entropy; _printed: S298_ | 71.58 J/mol-atom/K | 298.15 | Ba2O3(G); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 9; `ORC-4YNEHQ5EIR.27a3fa` |  |
+| Entropy; _printed: Entropy of formation at 298 K_ | 34.99 J/mol (basis unstated)/K | 298.15 | BaO; _alloy: O 0.5_ | model | [1] Zhou 2005 | Table I, p. 3, row 10; `ORC-UNJ4JE2XVU` |  |
+| Entropy; _printed: Entropy of formation at 298 K_ | 35.01 J/mol (basis unstated)/K | 298.15 | BaO; _alloy: O 0.5_ | experimental | [1] Zhou 2005; _cites Zaitseva 1956_ | Table I, p. 3, row 3; `ORC-V2WKUCX6FJ` |  |
+| Entropy; _printed: Entropy of formation_ | 35.01 J/mol (basis unstated)/K | 298.15 | BaO; _alloy: O 0.5_ | experimental | [1] Zhou 2005; _cites Hedvall 1918_ | Table I, p. 3, row 2; `ORC-VUULNG2P7H.02f999` |  |
+| Entropy; _printed: S298_ | 117.73 J/mol-atom/K | 298.15 | BaO(G); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 6; `ORC-TSAWQE6B7D.162732` |  |
+| Entropy; _printed: S298_ | 47.438 J/mol-atom/K | 298.15 | BaO(L); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 3; `ORC-ZTEM7HIHVT.a25906` |  |
+| Entropy; _printed: S298_ | 36.035 J/mol-atom/K | 298.15 | BaO(S); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 1; `ORC-6UBIDCFIOR.57e037` |  |
+| Entropy; _printed: Entropy of formation_ | 29.18 J/mol (basis unstated)/K | 298.15 | BaO2; _alloy: O 0.666667_ | experimental | [1] Zhou 2005 | Table I, p. 3, row 8; `ORC-DMABJ7FDWX` |  |
+| Entropy; _printed: S298_ | 30.9167 J/mol-atom/K | 298.15 | BaO2(S); _alloy: O 0.666667_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 5; `ORC-FZDHSR2W56.9603d3` |  |
 
 ## Sources
 
@@ -182,4 +182,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

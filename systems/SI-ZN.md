@@ -51,11 +51,11 @@ Table: Invariant reactions reported in the literature for the Si–Zn system (5)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1675 | eutectic: \<Si>-Liq- Vap | Liq: Zn 0.0251 | model | [1] Jacobs 1996 | Table 1, p. 3, row 1 |  |
-| 1189.29 | eutectic: \<Si>-Liq- Vap | Liq: Zn 0.8985 | model | [1] Jacobs 1996 | Table 1, p. 3, row 2 |  |
-| 692.17 | eutectic |  | experimental | [1] Jacobs 1996 | p. 3 | “In order to keep the eutectic point in the system Si-Zn at the position given in Table 1 (T=692.17 K, XZ =0.99906), a value of 100000 J/mol rather then 50000 Jlmol must be introducedfor the first coefficient o Pthe excess Gibbs energy of the Diamond_F4_add phase.” |
-| 692.17 | eutectic: \<Si>-Liq-\<Zn> | Liq: Zn 0.9991 | model | [1] Jacobs 1996 | Table 1, p. 3, row 3 |  |
-| 692.1 | other: Liquid -> diamond + hcp-Zn | L: Zn 1; diamond: Zn 0; hcp-Zn: Zn 1 | model | [2] Hämäläinen 1998 | Table I, p. 295, row 1 |  |
+| 1675 | eutectic: \<Si>-Liq- Vap | Liq: Zn 0.0251 | model | [1] Jacobs 1996 | Table 1, p. 3, row 1; `ORC-FXYPBGXWSJ` |  |
+| 1189.29 | eutectic: \<Si>-Liq- Vap | Liq: Zn 0.8985 | model | [1] Jacobs 1996 | Table 1, p. 3, row 2; `ORC-TLB2UTKZCU` |  |
+| 692.17 | eutectic |  | experimental | [1] Jacobs 1996 | p. 3; `ORC-HGWSV52SPD` | “In order to keep the eutectic point in the system Si-Zn at the position given in Table 1 (T=692.17 K, XZ =0.99906), a value of 100000 J/mol rather then 50000 Jlmol must be introducedfor the first coefficient o Pthe excess Gibbs energy of the Diamond_F4_add phase.” |
+| 692.17 | eutectic: \<Si>-Liq-\<Zn> | Liq: Zn 0.9991 | model | [1] Jacobs 1996 | Table 1, p. 3, row 3; `ORC-ILG6D6JEGL` |  |
+| 692.1 | other: Liquid -> diamond + hcp-Zn | L: Zn 1; diamond: Zn 0; hcp-Zn: Zn 1 | model | [2] Hämäläinen 1998 | Table I, p. 295, row 1; `ORC-ENHV2Z6RFU` |  |
 
 ## Other properties
 
@@ -65,7 +65,7 @@ Table: Phase transition, Si–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1523.15 K | 1523.15 |  | experimental | [3] Liu 2016; _cites Mughal 1969_ | p. 2 | “ZnSiP2 single crystal was synthesized by Mughal and Rayne \[31\], and its melting point is 1523.15 K.” |
+| Phase transition | 1523.15 K | 1523.15 |  | experimental | [3] Liu 2016; _cites Mughal 1969_ | p. 2; `ORC-Z4Q5KSFCP7` | “ZnSiP2 single crystal was synthesized by Mughal and Rayne \[31\], and its melting point is 1523.15 K.” |
 
 ## Sources
 
@@ -132,4 +132,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -55,12 +55,12 @@ Table: Crystal structure, Ge–K system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 11.15 Å |  | Ge46K8; _alloy: K 0.148148_ | unspecified | [1] Wang 2012 | Table 1, p. 3, row 15 |  |
-| Lattice a | 12.97 Å |  | GeK; _alloy: K 0.5_ | unspecified | [1] Wang 2012 | Table 1, p. 3, row 18 |  |
-| Lattice a | 10.66 Å | 298.15 | Ge46K8; _alloy: K 0.148148_ | experimental | [1] Wang 2012; _cites Cros 1970_ [doi](https://doi.org/10.1016/0022-4596%2870%2990053-8) | Table 1, p. 3, row 13 |  |
-| Lattice a | 10.71 Å | 298.15 | Ge46K8; _alloy: K 0.148148_ | experimental | [1] Wang 2012; _cites Gallmeier 1969_ [doi](https://doi.org/10.1515/znb-1969-0603) | Table 1, p. 3, row 14 |  |
-| Lattice a | 6.44 Å | 298.15 | Ge4K; _alloy: K 0.2_ | unspecified | [1] Wang 2012; _cites Potemkin 1989_ | Table 1, p. 3, row 16 |  |
-| Lattice a | 12.78 Å | 298.15 | GeK; _alloy: K 0.5_ | experimental | [1] Wang 2012; _cites Schafer 1961_ [doi](https://doi.org/10.1002/zaac.19613120310) | Table 1, p. 3, row 17 |  |
+| Lattice a | 11.15 Å |  | Ge46K8; _alloy: K 0.148148_ | unspecified | [1] Wang 2012 | Table 1, p. 3, row 15; `ORC-R4Q7WNJTU7` |  |
+| Lattice a | 12.97 Å |  | GeK; _alloy: K 0.5_ | unspecified | [1] Wang 2012 | Table 1, p. 3, row 18; `ORC-IIBW3PYOOH` |  |
+| Lattice a | 10.66 Å | 298.15 | Ge46K8; _alloy: K 0.148148_ | experimental | [1] Wang 2012; _cites Cros 1970_ [doi](https://doi.org/10.1016/0022-4596%2870%2990053-8) | Table 1, p. 3, row 13; `ORC-6HIV77T43Z` |  |
+| Lattice a | 10.71 Å | 298.15 | Ge46K8; _alloy: K 0.148148_ | experimental | [1] Wang 2012; _cites Gallmeier 1969_ [doi](https://doi.org/10.1515/znb-1969-0603) | Table 1, p. 3, row 14; `ORC-Z3PKISVHC4` |  |
+| Lattice a | 6.44 Å | 298.15 | Ge4K; _alloy: K 0.2_ | unspecified | [1] Wang 2012; _cites Potemkin 1989_ | Table 1, p. 3, row 16; `ORC-Q3XBFAQH6Y` |  |
+| Lattice a | 12.78 Å | 298.15 | GeK; _alloy: K 0.5_ | experimental | [1] Wang 2012; _cites Schafer 1961_ [doi](https://doi.org/10.1002/zaac.19613120310) | Table 1, p. 3, row 17; `ORC-F2ECCRARP3` |  |
 
 ## Sources
 
@@ -125,4 +125,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -52,22 +52,22 @@ Table: Invariant reactions reported in the literature for the Ge–Sb system (16
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 865 | eutectic |  | model | [1] Wang 2009; _cites Olesinki 1986_ [doi](https://doi.org/10.1007/bf02868990) | p. 2 | “Olesinki et al. \[15\] recommend the temperature and composition of the eutectic reaction, 865 K and 85.0 at.% Sb, which is accepted in the present work.” |
-| 865 | Liq. -> diamond + rhom | Liq.: Sb 0.775; diamond: Sb 0; rhom: Sb 0.937 | experimental | [2] Liu 2011; _cites Nasir 2009_ [doi](https://doi.org/10.1016/j.jssc.2008.12.009) | Table 2, p. 6, row 7 |  |
-| 865 | eutectic: L -> (Ge) + (Sb) | L: Ge 0.135, Sb 0.865 | experimental | [1] Wang 2009; _cites Ruttewit 1949_ | Table 1, p. 2, row 1 |  |
-| 865 | Liq. -> diamond + rhom | Liq.: Sb 0.865; diamond: Sb 0; rhom: Sb 1 | experimental | [2] Liu 2011; _cites Ruttewit 1940_ [doi](https://doi.org/10.1515/ijmr-1940-320302) | Table 2, p. 6, row 3 |  |
-| 865 | Liq. -> diamond + rhom | Liq.: Sb 0.8249; diamond: Sb 1.000e-4; rhom: Sb 0.9375 | model | [2] Liu 2011 | Table 2, p. 6, row 1 |  |
-| 865 | eutectic |  | experimental | [3] Chewvalier 1989; _cites Stohr 1940_ [doi](https://doi.org/10.1002/zaac.19402440211) | p. 4 | “The eutectic point was located at xsb = 0.83, T = 861 K by Ruttewit and Masing \[25\] and at xsb = 0.87, T = 865 K by Stohr and Klemm \[27\].” |
-| 865 | Liq. -> diamond + rhom | Liq.: Sb 0.855; diamond: Sb 0; rhom: Sb 1 | experimental | [2] Liu 2011; _cites Olesinski 1986_ [doi](https://doi.org/10.1007/bf02868990) | Table 2, p. 6, row 4 |  |
-| 865 | eutectic: L -> (Ge) + (Sb) | L: Ge 0.145, Sb 0.855 | experimental | [1] Wang 2009; _cites Olesinki 1986_ [doi](https://doi.org/10.1007/bf02868990) | Table 1, p. 2, row 3 |  |
-| 861 | eutectic |  | experimental | [3] Chewvalier 1989; _cites Ruttewit 1940_ | p. 4 | “The eutectic point was located at xsb = 0.83, T = 861 K by Ruttewit and Masing \[25\] and at xsb = 0.87, T = 865 K by Stohr and Klemm \[27\].” |
-| 860 | eutectic: L -> (Ge) + (Sb) | L: Ge 0.143, Sb 0.857 | model | [1] Wang 2009 | Table 1, p. 2, row 5 |  |
-| 860 | Liq. -> diamond + rhom | Liq.: Sb 0.857; diamond: Sb 1.000e-4; rhom: Sb 1 | experimental | [2] Liu 2011; _cites Wang 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.06.030) | Table 2, p. 6, row 6 |  |
-| 859 | Liq. -> diamond + rhom | Liq.: Sb 0.832 | experimental | [2] Liu 2011; _cites Stohr 1940_ [doi](https://doi.org/10.1002/zaac.19402440211) | Table 2, p. 6, row 2 |  |
-| 859 | eutectic: L -> (Ge) + (Sb) | L: Ge 0.168, Sb 0.832 | experimental | [1] Wang 2009; _cites Stohr 1940_ | Table 1, p. 2, row 2 |  |
-| 859 | eutectic: L -> (Ge) + (Sb) | L: Ge 0.162, Sb 0.838 | experimental | [1] Wang 2009; _cites Chevalier 1989_ | Table 1, p. 2, row 4 |  |
-| 859 | Liq. -> diamond + rhom | Liq.: Sb 0.838; diamond: Sb 0; rhom: Sb 1 | experimental | [2] Liu 2011; _cites Chevalier 1989_ [doi](https://doi.org/10.1016/0040-6031%2889%2987148-5) | Table 2, p. 6, row 5 |  |
-| 858.5 | eutectic |  | model | [3] Chewvalier 1989 | p. 9 | “The eutectic point was calculated at xoe = 0.162 and T = 858.5 K, which is in good agreement with the experimental data.” |
+| 865 | eutectic |  | model | [1] Wang 2009; _cites Olesinki 1986_ [doi](https://doi.org/10.1007/bf02868990) | p. 2; `ORC-BBQAE7I56W` | “Olesinki et al. \[15\] recommend the temperature and composition of the eutectic reaction, 865 K and 85.0 at.% Sb, which is accepted in the present work.” |
+| 865 | Liq. -> diamond + rhom | Liq.: Sb 0.775; diamond: Sb 0; rhom: Sb 0.937 | experimental | [2] Liu 2011; _cites Nasir 2009_ [doi](https://doi.org/10.1016/j.jssc.2008.12.009) | Table 2, p. 6, row 7; `ORC-BEL6FYIUPH` |  |
+| 865 | eutectic: L -> (Ge) + (Sb) | L: Ge 0.135, Sb 0.865 | experimental | [1] Wang 2009; _cites Ruttewit 1949_ | Table 1, p. 2, row 1; `ORC-CHD5VHGKQY` |  |
+| 865 | Liq. -> diamond + rhom | Liq.: Sb 0.865; diamond: Sb 0; rhom: Sb 1 | experimental | [2] Liu 2011; _cites Ruttewit 1940_ [doi](https://doi.org/10.1515/ijmr-1940-320302) | Table 2, p. 6, row 3; `ORC-DVATTESUZD` |  |
+| 865 | Liq. -> diamond + rhom | Liq.: Sb 0.8249; diamond: Sb 1.000e-4; rhom: Sb 0.9375 | model | [2] Liu 2011 | Table 2, p. 6, row 1; `ORC-HH5SF3OE6G` |  |
+| 865 | eutectic |  | experimental | [3] Chewvalier 1989; _cites Stohr 1940_ [doi](https://doi.org/10.1002/zaac.19402440211) | p. 4; `ORC-KVYMZWXTQD.195ea8` | “The eutectic point was located at xsb = 0.83, T = 861 K by Ruttewit and Masing \[25\] and at xsb = 0.87, T = 865 K by Stohr and Klemm \[27\].” |
+| 865 | Liq. -> diamond + rhom | Liq.: Sb 0.855; diamond: Sb 0; rhom: Sb 1 | experimental | [2] Liu 2011; _cites Olesinski 1986_ [doi](https://doi.org/10.1007/bf02868990) | Table 2, p. 6, row 4; `ORC-LYAA27PGYA` |  |
+| 865 | eutectic: L -> (Ge) + (Sb) | L: Ge 0.145, Sb 0.855 | experimental | [1] Wang 2009; _cites Olesinki 1986_ [doi](https://doi.org/10.1007/bf02868990) | Table 1, p. 2, row 3; `ORC-XOJXRCKCM6` |  |
+| 861 | eutectic |  | experimental | [3] Chewvalier 1989; _cites Ruttewit 1940_ | p. 4; `ORC-KVYMZWXTQD.082b85` | “The eutectic point was located at xsb = 0.83, T = 861 K by Ruttewit and Masing \[25\] and at xsb = 0.87, T = 865 K by Stohr and Klemm \[27\].” |
+| 860 | eutectic: L -> (Ge) + (Sb) | L: Ge 0.143, Sb 0.857 | model | [1] Wang 2009 | Table 1, p. 2, row 5; `ORC-T4UZMRKWCT` |  |
+| 860 | Liq. -> diamond + rhom | Liq.: Sb 0.857; diamond: Sb 1.000e-4; rhom: Sb 1 | experimental | [2] Liu 2011; _cites Wang 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.06.030) | Table 2, p. 6, row 6; `ORC-XFQ33HDSKM` |  |
+| 859 | Liq. -> diamond + rhom | Liq.: Sb 0.832 | experimental | [2] Liu 2011; _cites Stohr 1940_ [doi](https://doi.org/10.1002/zaac.19402440211) | Table 2, p. 6, row 2; `ORC-CKULLKVBR5` |  |
+| 859 | eutectic: L -> (Ge) + (Sb) | L: Ge 0.168, Sb 0.832 | experimental | [1] Wang 2009; _cites Stohr 1940_ | Table 1, p. 2, row 2; `ORC-GOWR4IU5QF` |  |
+| 859 | eutectic: L -> (Ge) + (Sb) | L: Ge 0.162, Sb 0.838 | experimental | [1] Wang 2009; _cites Chevalier 1989_ | Table 1, p. 2, row 4; `ORC-OHT4547RV6` |  |
+| 859 | Liq. -> diamond + rhom | Liq.: Sb 0.838; diamond: Sb 0; rhom: Sb 1 | experimental | [2] Liu 2011; _cites Chevalier 1989_ [doi](https://doi.org/10.1016/0040-6031%2889%2987148-5) | Table 2, p. 6, row 5; `ORC-T6X3LFP4A7` |  |
+| 858.5 | eutectic |  | model | [3] Chewvalier 1989 | p. 9; `ORC-DO3M36RMZ2` | “The eutectic point was calculated at xoe = 0.162 and T = 858.5 K, which is in good agreement with the experimental data.” |
 
 ## Sources
 
@@ -134,4 +134,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

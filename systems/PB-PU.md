@@ -71,23 +71,23 @@ Table: Invariant reactions reported in the literature for the Pb–Pu system (17
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1658.15 | congruent melting: L -> Pb4Pu5 | Pb4Pu5: Pb 0.444 | experimental | [1] Li 2010; _cites Foltyn 1995_ | Table 5, p. 6, row 5 |  |
-| 1658.15 | congruent melting: L -> Pb4Pu5 | Pb4Pu5: Pb 0.444 | model | [1] Li 2010 | Table 5, p. 6, row 6 |  |
-| 1608.15 | peritectic: L + Pb4Pu5 -> Pb3Pu5 | L: Pb 0.357; Pb4Pu5: Pb 0.444; Pb3Pu5: Pb 0.375 | model | [1] Li 2010 | Table 5, p. 6, row 4 |  |
-| 1606.15 | peritectic: L + Pb4Pu5 -> Pb3Pu5 | L: Pb 0.255; Pb4Pu5: Pb 0.444; Pb3Pu5: Pb 0.375 | experimental | [1] Li 2010; _cites Foltyn 1995_ | Table 5, p. 6, row 3 |  |
-| 1462.15 | peritectic: L + Pb4Pu5 -> Pb5Pu4 | L: Pb 0.606; Pb4Pu5: Pb 0.444; Pb5Pu4: Pb 0.582 | model | [1] Li 2010 | Table 5, p. 6, row 8 |  |
-| 1458.15 | peritectic: L + Pb4Pu5 -> Pb5Pu4 | L: Pb 0.575; Pb4Pu5: Pb 0.444; Pb5Pu4: Pb 0.556 | experimental | [1] Li 2010; _cites Foltyn 1995_ | Table 5, p. 6, row 7 |  |
-| 1412.15 | congruent melting: L -> PbPu3 | PbPu3: Pb 0.75 | model | [1] Li 2010 | Table 5, p. 6, row 14 |  |
-| 1411.15 | congruent melting: L -> PbPu3 | PbPu3: Pb 0.75 | experimental | [1] Li 2010; _cites Foltyn 1995_ | Table 5, p. 6, row 13 |  |
-| 1403.15 | peritectic: L + Pb5Pu4 -> βPb2Pu | L: Pb 0.671; Pb5Pu4: Pb 0.594; βPb2Pu: Pb 0.667 | model | [1] Li 2010 | Table 5, p. 6, row 10 |  |
-| 1402.15 | peritectic: L + Pb5Pu4 -> βPb2Pu | L: Pb 0.672; Pb5Pu4: Pb 0.575; βPb2Pu: Pb 0.667 | experimental | [1] Li 2010; _cites Foltyn 1995_ | Table 5, p. 6, row 9 |  |
-| 1402.15 | peritectic: L + Pb5Pu4 -> Pb2Pu |  | experimental | [1] Li 2010 | p. 4 | “The Pb2Pu compound has a solid-state transformation at 1106 °C and is formed at 1129 °C by a peritectic reaction, L + Pb5Pu4 M Pb2Pu.” |
-| 1397.15 | eutectic: L -> βPb2Pu + PbPu3 | L: Pb 0.688; βPb2Pu: Pb 0.667; PbPu3: Pb 0.75 | experimental | [1] Li 2010; _cites Foltyn 1995_ | Table 5, p. 6, row 11 |  |
-| 1394.15 | eutectic: L -> βPb2Pu + PbPu3 | L: Pb 0.701; βPb2Pu: Pb 0.667; PbPu3: Pb 0.75 | model | [1] Li 2010 | Table 5, p. 6, row 12 |  |
-| 1381.15 | polymorphic: αPb2Pu -> βPb2Pu | αPb2Pu: Pb 0.666667, Pu 0.333333; βPb2Pu: Pb 0.667 | model | [1] Li 2010 | Table 5, p. 6, row 16 |  |
-| 1379.15 | polymorphic: αPb2Pu -> βPb2Pu | αPb2Pu: Pb 0.666667, Pu 0.333333; βPb2Pu: Pb 0.667 | experimental | [1] Li 2010; _cites Foltyn 1995_ | Table 5, p. 6, row 15 |  |
-| 1171.15 | peritectic: L + Pb3Pu5 -> PbPu3 | L: Pb 0.009; Pb3Pu5: Pb 0.375; PbPu3: Pb 0.25 | model | [1] Li 2010 | Table 5, p. 6, row 2 |  |
-| 1169.15 | peritectic: L + Pb3Pu5 -> PbPu3 | L: Pb 0.005; Pb3Pu5: Pb 0.375; PbPu3: Pb 0.25 | experimental | [1] Li 2010; _cites Foltyn 1995_ | Table 5, p. 6, row 1 |  |
+| 1658.15 | congruent melting: L -> Pb4Pu5 | Pb4Pu5: Pb 0.444 | experimental | [1] Li 2010; _cites Foltyn 1995_ | Table 5, p. 6, row 5; `ORC-C7MHGZE6KY` |  |
+| 1658.15 | congruent melting: L -> Pb4Pu5 | Pb4Pu5: Pb 0.444 | model | [1] Li 2010 | Table 5, p. 6, row 6; `ORC-YUMVS5QC5K` |  |
+| 1608.15 | peritectic: L + Pb4Pu5 -> Pb3Pu5 | L: Pb 0.357; Pb4Pu5: Pb 0.444; Pb3Pu5: Pb 0.375 | model | [1] Li 2010 | Table 5, p. 6, row 4; `ORC-ZIAIZSVOG6` |  |
+| 1606.15 | peritectic: L + Pb4Pu5 -> Pb3Pu5 | L: Pb 0.255; Pb4Pu5: Pb 0.444; Pb3Pu5: Pb 0.375 | experimental | [1] Li 2010; _cites Foltyn 1995_ | Table 5, p. 6, row 3; `ORC-3TRB7YSYFH` |  |
+| 1462.15 | peritectic: L + Pb4Pu5 -> Pb5Pu4 | L: Pb 0.606; Pb4Pu5: Pb 0.444; Pb5Pu4: Pb 0.582 | model | [1] Li 2010 | Table 5, p. 6, row 8; `ORC-YHBEOEEAJQ` |  |
+| 1458.15 | peritectic: L + Pb4Pu5 -> Pb5Pu4 | L: Pb 0.575; Pb4Pu5: Pb 0.444; Pb5Pu4: Pb 0.556 | experimental | [1] Li 2010; _cites Foltyn 1995_ | Table 5, p. 6, row 7; `ORC-H3GELAID4W` |  |
+| 1412.15 | congruent melting: L -> PbPu3 | PbPu3: Pb 0.75 | model | [1] Li 2010 | Table 5, p. 6, row 14; `ORC-V5HO46LDGL` |  |
+| 1411.15 | congruent melting: L -> PbPu3 | PbPu3: Pb 0.75 | experimental | [1] Li 2010; _cites Foltyn 1995_ | Table 5, p. 6, row 13; `ORC-KAAO3SS7UB` |  |
+| 1403.15 | peritectic: L + Pb5Pu4 -> βPb2Pu | L: Pb 0.671; Pb5Pu4: Pb 0.594; βPb2Pu: Pb 0.667 | model | [1] Li 2010 | Table 5, p. 6, row 10; `ORC-DJW3LCLOG6` |  |
+| 1402.15 | peritectic: L + Pb5Pu4 -> βPb2Pu | L: Pb 0.672; Pb5Pu4: Pb 0.575; βPb2Pu: Pb 0.667 | experimental | [1] Li 2010; _cites Foltyn 1995_ | Table 5, p. 6, row 9; `ORC-SZGSPGH7KB` |  |
+| 1402.15 | peritectic: L + Pb5Pu4 -> Pb2Pu |  | experimental | [1] Li 2010 | p. 4; `ORC-W4DLJVTMUR.14488a` | “The Pb2Pu compound has a solid-state transformation at 1106 °C and is formed at 1129 °C by a peritectic reaction, L + Pb5Pu4 M Pb2Pu.” |
+| 1397.15 | eutectic: L -> βPb2Pu + PbPu3 | L: Pb 0.688; βPb2Pu: Pb 0.667; PbPu3: Pb 0.75 | experimental | [1] Li 2010; _cites Foltyn 1995_ | Table 5, p. 6, row 11; `ORC-LOKGXI6343` |  |
+| 1394.15 | eutectic: L -> βPb2Pu + PbPu3 | L: Pb 0.701; βPb2Pu: Pb 0.667; PbPu3: Pb 0.75 | model | [1] Li 2010 | Table 5, p. 6, row 12; `ORC-A2TQEVXO5D` |  |
+| 1381.15 | polymorphic: αPb2Pu -> βPb2Pu | αPb2Pu: Pb 0.666667, Pu 0.333333; βPb2Pu: Pb 0.667 | model | [1] Li 2010 | Table 5, p. 6, row 16; `ORC-3FNQN2OYGD` |  |
+| 1379.15 | polymorphic: αPb2Pu -> βPb2Pu | αPb2Pu: Pb 0.666667, Pu 0.333333; βPb2Pu: Pb 0.667 | experimental | [1] Li 2010; _cites Foltyn 1995_ | Table 5, p. 6, row 15; `ORC-FAZY3JM63O` |  |
+| 1171.15 | peritectic: L + Pb3Pu5 -> PbPu3 | L: Pb 0.009; Pb3Pu5: Pb 0.375; PbPu3: Pb 0.25 | model | [1] Li 2010 | Table 5, p. 6, row 2; `ORC-G6S2UFBHAO` |  |
+| 1169.15 | peritectic: L + Pb3Pu5 -> PbPu3 | L: Pb 0.005; Pb3Pu5: Pb 0.375; PbPu3: Pb 0.25 | experimental | [1] Li 2010; _cites Foltyn 1995_ | Table 5, p. 6, row 1; `ORC-YKFMGTP4TS` |  |
 
 ## Other properties
 
@@ -97,8 +97,8 @@ Table: Phase transition, Pb–Pu system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1379.15 K | 1379.15 |  | experimental | [1] Li 2010 | p. 4 | “The Pb2Pu compound has a solid-state transformation at 1106 °C and is formed at 1129 °C by a peritectic reaction, L + Pb5Pu4 M Pb2Pu.” |
-| Phase transition | 1658.15 K | 1658.15 |  | experimental | [1] Li 2010; _cites Wood 1969_ [doi](https://doi.org/10.1016/0022-3115%2869%2990071-3) | p. 4 | “The Pb4Pu5 phase has the highest melting point in the Pb-Pu system, located at approximate 1385 °C, also according to the work of Wood et al. \[18\].” |
+| Phase transition | 1379.15 K | 1379.15 |  | experimental | [1] Li 2010 | p. 4; `ORC-W4DLJVTMUR.253f59` | “The Pb2Pu compound has a solid-state transformation at 1106 °C and is formed at 1129 °C by a peritectic reaction, L + Pb5Pu4 M Pb2Pu.” |
+| Phase transition | 1658.15 K | 1658.15 |  | experimental | [1] Li 2010; _cites Wood 1969_ [doi](https://doi.org/10.1016/0022-3115%2869%2990071-3) | p. 4; `ORC-6LCZ4K6B6F` | “The Pb4Pu5 phase has the highest melting point in the Pb-Pu system, located at approximate 1385 °C, also according to the work of Wood et al. \[18\].” |
 
 ## Sources
 
@@ -163,4 +163,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

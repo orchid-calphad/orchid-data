@@ -28,31 +28,31 @@ Table: Enthalpies of formation, Cr–Ni–V system (25)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| sigma |  | -16.217 kJ/mol-atom | 0 | DFT |  |  | [1] Tonyali 2024 | Table 4, p. 5, row 18 |  |
-| sigma |  | -10.582 kJ/mol-atom | 0 | DFT |  |  | [1] Tonyali 2024 | Table 4, p. 5, row 15 |  |
-| sigma |  | -9.811 kJ/mol-atom | 0 | DFT |  |  | [1] Tonyali 2024 | Table 4, p. 5, row 12 |  |
-| sigma |  | -7.469 kJ/mol-atom | 0 | DFT |  |  | [1] Tonyali 2024 | Table 4, p. 5, row 26 |  |
-| sigma |  | -5.147 kJ/mol-atom | 0 | DFT |  |  | [1] Tonyali 2024 | Table 4, p. 5, row 23 |  |
-| sigma |  | -3.164 kJ/mol-atom | 0 | DFT |  |  | [1] Tonyali 2024 | Table 4, p. 5, row 17 |  |
-| sigma |  | -1.635 kJ/mol-atom | 0 | DFT |  |  | [1] Tonyali 2024 | Table 4, p. 5, row 20 |  |
-| sigma |  | -0.347 kJ/mol-atom | 0 | DFT |  |  | [1] Tonyali 2024 | Table 4, p. 5, row 16 |  |
-| sigma |  | 0.89 kJ/mol-atom | 0 | DFT |  |  | [1] Tonyali 2024 | Table 4, p. 5, row 9 |  |
-| sigma |  | 4.072 kJ/mol-atom | 0 | DFT |  |  | [1] Tonyali 2024 | Table 4, p. 5, row 10 |  |
-| sigma |  | 4.503 kJ/mol-atom | 0 | DFT |  |  | [1] Tonyali 2024 | Table 4, p. 5, row 8 |  |
-| sigma |  | 5.085 kJ/mol-atom | 0 | DFT |  |  | [1] Tonyali 2024 | Table 4, p. 5, row 3 |  |
-| sigma |  | 6.437 kJ/mol-atom | 0 | DFT |  |  | [1] Tonyali 2024 | Table 4, p. 5, row 2 |  |
-| sigma |  | 6.775 kJ/mol-atom | 0 | DFT |  |  | [1] Tonyali 2024 | Table 4, p. 5, row 21 |  |
-| sigma |  | 7.876 kJ/mol-atom | 0 | DFT |  |  | [1] Tonyali 2024 | Table 4, p. 5, row 7 |  |
-| sigma |  | 8.54 kJ/mol-atom | 0 | DFT |  |  | [1] Tonyali 2024 | Table 4, p. 5, row 24 |  |
-| sigma |  | 9.299 kJ/mol-atom | 0 | DFT |  |  | [1] Tonyali 2024 | Table 4, p. 5, row 25 |  |
-| sigma |  | 9.394 kJ/mol-atom | 0 | DFT |  |  | [1] Tonyali 2024 | Table 4, p. 5, row 6 |  |
-| sigma |  | 10.175 kJ/mol-atom | 0 | DFT |  |  | [1] Tonyali 2024 | Table 4, p. 5, row 11 |  |
-| sigma |  | 10.516 kJ/mol-atom | 0 | DFT |  |  | [1] Tonyali 2024 | Table 4, p. 5, row 5 |  |
-| sigma |  | 11.912 kJ/mol-atom | 0 | DFT |  |  | [1] Tonyali 2024 | Table 4, p. 5, row 13 |  |
-| sigma |  | 13.67 kJ/mol-atom | 0 | DFT |  |  | [1] Tonyali 2024 | Table 4, p. 5, row 1 |  |
-| sigma |  | 13.863 kJ/mol-atom | 0 | DFT |  |  | [1] Tonyali 2024 | Table 4, p. 5, row 19 |  |
-| sigma |  | 19.448 kJ/mol-atom | 0 | DFT |  |  | [1] Tonyali 2024 | Table 4, p. 5, row 4 |  |
-| sigma |  | 19.817 kJ/mol-atom | 0 | DFT |  |  | [1] Tonyali 2024 | Table 4, p. 5, row 22 |  |
+| sigma |  | -16.217 kJ/mol-atom | 0 | DFT |  |  | [1] Tonyali 2024 | Table 4, p. 5, row 18; `ORC-TM2MLDJOI5` |  |
+| sigma |  | -10.582 kJ/mol-atom | 0 | DFT |  |  | [1] Tonyali 2024 | Table 4, p. 5, row 15; `ORC-34NQIQOAAN` |  |
+| sigma |  | -9.811 kJ/mol-atom | 0 | DFT |  |  | [1] Tonyali 2024 | Table 4, p. 5, row 12; `ORC-5GJB7VMSP3` |  |
+| sigma |  | -7.469 kJ/mol-atom | 0 | DFT |  |  | [1] Tonyali 2024 | Table 4, p. 5, row 26; `ORC-JDNG3BJEQQ` |  |
+| sigma |  | -5.147 kJ/mol-atom | 0 | DFT |  |  | [1] Tonyali 2024 | Table 4, p. 5, row 23; `ORC-GYYKYS5KIK` |  |
+| sigma |  | -3.164 kJ/mol-atom | 0 | DFT |  |  | [1] Tonyali 2024 | Table 4, p. 5, row 17; `ORC-HA44ONS6UD` |  |
+| sigma |  | -1.635 kJ/mol-atom | 0 | DFT |  |  | [1] Tonyali 2024 | Table 4, p. 5, row 20; `ORC-PO7MQ4HJ3G` |  |
+| sigma |  | -0.347 kJ/mol-atom | 0 | DFT |  |  | [1] Tonyali 2024 | Table 4, p. 5, row 16; `ORC-ZRDMM3QZLA` |  |
+| sigma |  | 0.89 kJ/mol-atom | 0 | DFT |  |  | [1] Tonyali 2024 | Table 4, p. 5, row 9; `ORC-OMZXPAVPRT` |  |
+| sigma |  | 4.072 kJ/mol-atom | 0 | DFT |  |  | [1] Tonyali 2024 | Table 4, p. 5, row 10; `ORC-WXUAGSUNJJ` |  |
+| sigma |  | 4.503 kJ/mol-atom | 0 | DFT |  |  | [1] Tonyali 2024 | Table 4, p. 5, row 8; `ORC-INYPUZDKVX` |  |
+| sigma |  | 5.085 kJ/mol-atom | 0 | DFT |  |  | [1] Tonyali 2024 | Table 4, p. 5, row 3; `ORC-ITCTTJ6FHC` |  |
+| sigma |  | 6.437 kJ/mol-atom | 0 | DFT |  |  | [1] Tonyali 2024 | Table 4, p. 5, row 2; `ORC-UYUSLQRDQX` |  |
+| sigma |  | 6.775 kJ/mol-atom | 0 | DFT |  |  | [1] Tonyali 2024 | Table 4, p. 5, row 21; `ORC-TGF5OQ67ZW` |  |
+| sigma |  | 7.876 kJ/mol-atom | 0 | DFT |  |  | [1] Tonyali 2024 | Table 4, p. 5, row 7; `ORC-5QGTRQK6FG` |  |
+| sigma |  | 8.54 kJ/mol-atom | 0 | DFT |  |  | [1] Tonyali 2024 | Table 4, p. 5, row 24; `ORC-5E7CT6M66B` |  |
+| sigma |  | 9.299 kJ/mol-atom | 0 | DFT |  |  | [1] Tonyali 2024 | Table 4, p. 5, row 25; `ORC-LSPBUNGXY4` |  |
+| sigma |  | 9.394 kJ/mol-atom | 0 | DFT |  |  | [1] Tonyali 2024 | Table 4, p. 5, row 6; `ORC-RNEXRU3FAA` |  |
+| sigma |  | 10.175 kJ/mol-atom | 0 | DFT |  |  | [1] Tonyali 2024 | Table 4, p. 5, row 11; `ORC-VGJKOQQ5O3` |  |
+| sigma |  | 10.516 kJ/mol-atom | 0 | DFT |  |  | [1] Tonyali 2024 | Table 4, p. 5, row 5; `ORC-53VL4ZXHDA` |  |
+| sigma |  | 11.912 kJ/mol-atom | 0 | DFT |  |  | [1] Tonyali 2024 | Table 4, p. 5, row 13; `ORC-HAGYDSSLET` |  |
+| sigma |  | 13.67 kJ/mol-atom | 0 | DFT |  |  | [1] Tonyali 2024 | Table 4, p. 5, row 1; `ORC-HWWRNVS3YE` |  |
+| sigma |  | 13.863 kJ/mol-atom | 0 | DFT |  |  | [1] Tonyali 2024 | Table 4, p. 5, row 19; `ORC-H5HFFEJGVY` |  |
+| sigma |  | 19.448 kJ/mol-atom | 0 | DFT |  |  | [1] Tonyali 2024 | Table 4, p. 5, row 4; `ORC-MDB5MNUBUL` |  |
+| sigma |  | 19.817 kJ/mol-atom | 0 | DFT |  |  | [1] Tonyali 2024 | Table 4, p. 5, row 22; `ORC-GPZVARZ3QV` |  |
 
 ## Sources
 
@@ -95,4 +95,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

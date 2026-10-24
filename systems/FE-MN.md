@@ -87,28 +87,28 @@ Table: Invariant reactions reported in the literature for the Fe–Mn system (22
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1748.5 | peritectic: liquid + bcc-A2 -> fcc-A1 | bcc-A2: Mn 0.1; fcc-A1: Mn 0.102; liquid: Mn 0.139 | model | [1] Witusiewicz 2004 | Table 2, p. 3, row 10 |  |
-| 1747 | peritectic: liquid + bcc-A2 -> fcc-A1 | bcc-A2: Mn 0.1; fcc-A1: Mn 0.101; liquid: Mn 0.129 | model | [1] Witusiewicz 2004; _cites ref. 1989Hua_ | Table 2, p. 3, row 9 |  |
-| 1747 | peritectic: liquid + bcc-A2 -> fcc-A1 | bcc-A2: Mn 0.096; fcc-A1: Mn 0.102; liquid: Mn 0.13 | experimental | [1] Witusiewicz 2004; _cites Hellawell 1956_ | Table 2, p. 3, row 7 |  |
-| 1746.8 | peritectic: Liquid + bcc-A2 -> fcc-A1 | L: Mn 0.1; bcc-A2: Mn 0.129; fcc-A1: Mn 0.129 | model | [2] Hämäläinen 1998 | Table I, p. 215, row 3 |  |
-| 1746 | peritectic: liquid + bcc-A2 -> fcc-A1 | bcc-A2: Mn 0.101; fcc-A1: Mn 0.102; liquid: Mn 0.13 | model | [1] Witusiewicz 2004; _cites Huang 1987_ | Table 2, p. 3, row 8 |  |
-| 1509.6 | peritectic: liquid + bcc-A2 -> fcc-A1 | bcc-A2: Mn 0.878; fcc-A1: Mn 0.868; liquid: Mn 0.877 | model | [1] Witusiewicz 2004 | Table 2, p. 3, row 14 |  |
-| 1508 | peritectic: liquid + bcc-A2 -> fcc-A1 | bcc-A2: Mn 0.912; fcc-A1: Mn 0.903; liquid: Mn 0.909 | model | [1] Witusiewicz 2004; _cites Huang 1987_ | Table 2, p. 3, row 12 |  |
-| 1507.2 | peritectic: Liquid + bcc-A2 -> fcc-A1 | L: Mn 0.867; bcc-A2: Mn 0.877; fcc-A1: Mn 0.875 | model | [2] Hämäläinen 1998 | Table I, p. 215, row 4 |  |
-| 1507 | peritectic: liquid + bcc-A2 -> fcc-A1 | bcc-A2: Mn 0.87; fcc-A1: Mn 0.864; liquid: Mn 0.867 | experimental | [1] Witusiewicz 2004; _cites Hellawell 1956_ | Table 2, p. 3, row 11 |  |
-| 1507 | peritectic: liquid + bcc-A2 -> fcc-A1 | bcc-A2: Mn 0.877; fcc-A1: Mn 0.875; liquid: Mn 0.867 | model | [1] Witusiewicz 2004; _cites ref. 1989Hua_ | Table 2, p. 3, row 13 |  |
-| 1433.2 | congruent transformation: fcc-A1 -> cub-A13 | fcc-A1: Mn 0.854; cub-A13: Mn 0.854 | model | [1] Witusiewicz 2004 | Table 2, p. 3, row 18 |  |
-| 1429 | congruent transformation: fcc-A1 -> cub-A13 | fcc-A1: Mn 0.87; cub-A13: Mn 0.87 | experimental | [1] Witusiewicz 2004; _cites Hellawell 1956_ | Table 2, p. 3, row 15 |  |
-| 1429 | congruent transformation: fcc-A1 -> cub-A13 | fcc-A1: Mn 0.864; cub-A13: Mn 0.864 | model | [1] Witusiewicz 2004; _cites ref. 1989Hua_ | Table 2, p. 3, row 17 |  |
-| 1429 | congruent transformation: fcc-A1 -> cub-A13 | fcc-A1: Mn 0.863; cub-A13: Mn 0.863 | model | [1] Witusiewicz 2004; _cites Huang 1987_ | Table 2, p. 3, row 16 |  |
-| 973.5 | eutectoid: cub-A13 -> fcc-A1 + bcc-A12 | cub-A13: Mn 0.67; fcc-A1: Mn 0.592; bcc-A12: Mn 0.679 | model | [1] Witusiewicz 2004 | Table 2, p. 3, row 4 |  |
-| 973.2 | eutectoid: cub-A13 -> fcc-A1 + cbcc-A12 | cub-A13: Mn 0.681; fcc-A1: Mn 0.606; cbcc-A12: Mn 0.69 | model | [2] Hämäläinen 1998 | Table I, p. 215, row 1 |  |
-| 973 | eutectoid: cub-A13 -> fcc-A1 + bcc-A12 | cub-A13: Mn 0.701; fcc-A1: Mn 0.59; bcc-A12: Mn 0.703 | model | [1] Witusiewicz 2004; _cites Huang 1987_ | Table 2, p. 3, row 2 |  |
-| 973 | eutectoid: cub-A13 -> fcc-A1 + bcc-A12 | cub-A13: Mn 0.681; fcc-A1: Mn 0.606; bcc-A12: Mn 0.69 | model | [1] Witusiewicz 2004; _cites ref. 1989Hua_ | Table 2, p. 3, row 3 |  |
-| 973 | eutectoid: cub-A13 -> fcc-A1 + bcc-A12 | cub-A13: Mn 0.66; fcc-A1: Mn 0.62; bcc-A12: Mn 0.68 | experimental | [1] Witusiewicz 2004; _cites Hellawell 1956_ | Table 2, p. 3, row 1 |  |
-| 528 | eutectoid: fcc-A1 -> bcc-A2 + bcc-A12 | fcc-A1: Mn 0.431; bcc-A2: Mn 0.022; bcc-A12: Mn 0.647 | model | [1] Witusiewicz 2004 | Table 2, p. 3, row 6 |  |
-| 521.3 | eutectoid: fcc-A1 -> bcc-A2 + cbcc-A12 | fcc-A1: Mn 0.436; bcc-A2: Mn 0.033; cbcc-A12: Mn 0.659 | model | [2] Hämäläinen 1998 | Table I, p. 215, row 2 |  |
-| 521 | eutectoid: fcc-A1 -> bcc-A2 + bcc-A12 | fcc-A1: Mn 0.436; bcc-A2: Mn 0.033; bcc-A12: Mn 0.659 | model | [1] Witusiewicz 2004; _cites ref. 1989Hua_ | Table 2, p. 3, row 5 |  |
+| 1748.5 | peritectic: liquid + bcc-A2 -> fcc-A1 | bcc-A2: Mn 0.1; fcc-A1: Mn 0.102; liquid: Mn 0.139 | model | [1] Witusiewicz 2004 | Table 2, p. 3, row 10; `ORC-I4I553S3VY` |  |
+| 1747 | peritectic: liquid + bcc-A2 -> fcc-A1 | bcc-A2: Mn 0.1; fcc-A1: Mn 0.101; liquid: Mn 0.129 | model | [1] Witusiewicz 2004; _cites ref. 1989Hua_ | Table 2, p. 3, row 9; `ORC-3WUDKHRSYC` |  |
+| 1747 | peritectic: liquid + bcc-A2 -> fcc-A1 | bcc-A2: Mn 0.096; fcc-A1: Mn 0.102; liquid: Mn 0.13 | experimental | [1] Witusiewicz 2004; _cites Hellawell 1956_ | Table 2, p. 3, row 7; `ORC-WMNQTQD7MA` |  |
+| 1746.8 | peritectic: Liquid + bcc-A2 -> fcc-A1 | L: Mn 0.1; bcc-A2: Mn 0.129; fcc-A1: Mn 0.129 | model | [2] Hämäläinen 1998 | Table I, p. 215, row 3; `ORC-LOQDXUCXPB` |  |
+| 1746 | peritectic: liquid + bcc-A2 -> fcc-A1 | bcc-A2: Mn 0.101; fcc-A1: Mn 0.102; liquid: Mn 0.13 | model | [1] Witusiewicz 2004; _cites Huang 1987_ | Table 2, p. 3, row 8; `ORC-GMUUKYUYZZ` |  |
+| 1509.6 | peritectic: liquid + bcc-A2 -> fcc-A1 | bcc-A2: Mn 0.878; fcc-A1: Mn 0.868; liquid: Mn 0.877 | model | [1] Witusiewicz 2004 | Table 2, p. 3, row 14; `ORC-H6WWEB52US` |  |
+| 1508 | peritectic: liquid + bcc-A2 -> fcc-A1 | bcc-A2: Mn 0.912; fcc-A1: Mn 0.903; liquid: Mn 0.909 | model | [1] Witusiewicz 2004; _cites Huang 1987_ | Table 2, p. 3, row 12; `ORC-35XGF52T5R` |  |
+| 1507.2 | peritectic: Liquid + bcc-A2 -> fcc-A1 | L: Mn 0.867; bcc-A2: Mn 0.877; fcc-A1: Mn 0.875 | model | [2] Hämäläinen 1998 | Table I, p. 215, row 4; `ORC-VJGIMSZ6YR` |  |
+| 1507 | peritectic: liquid + bcc-A2 -> fcc-A1 | bcc-A2: Mn 0.87; fcc-A1: Mn 0.864; liquid: Mn 0.867 | experimental | [1] Witusiewicz 2004; _cites Hellawell 1956_ | Table 2, p. 3, row 11; `ORC-N3X6PQOQWP` |  |
+| 1507 | peritectic: liquid + bcc-A2 -> fcc-A1 | bcc-A2: Mn 0.877; fcc-A1: Mn 0.875; liquid: Mn 0.867 | model | [1] Witusiewicz 2004; _cites ref. 1989Hua_ | Table 2, p. 3, row 13; `ORC-YLAJPNZTHY` |  |
+| 1433.2 | congruent transformation: fcc-A1 -> cub-A13 | fcc-A1: Mn 0.854; cub-A13: Mn 0.854 | model | [1] Witusiewicz 2004 | Table 2, p. 3, row 18; `ORC-PCARZMENHI` |  |
+| 1429 | congruent transformation: fcc-A1 -> cub-A13 | fcc-A1: Mn 0.87; cub-A13: Mn 0.87 | experimental | [1] Witusiewicz 2004; _cites Hellawell 1956_ | Table 2, p. 3, row 15; `ORC-A7CLLFP7HL` |  |
+| 1429 | congruent transformation: fcc-A1 -> cub-A13 | fcc-A1: Mn 0.864; cub-A13: Mn 0.864 | model | [1] Witusiewicz 2004; _cites ref. 1989Hua_ | Table 2, p. 3, row 17; `ORC-KR5AKNV7XJ` |  |
+| 1429 | congruent transformation: fcc-A1 -> cub-A13 | fcc-A1: Mn 0.863; cub-A13: Mn 0.863 | model | [1] Witusiewicz 2004; _cites Huang 1987_ | Table 2, p. 3, row 16; `ORC-ROWZNUNJJM` |  |
+| 973.5 | eutectoid: cub-A13 -> fcc-A1 + bcc-A12 | cub-A13: Mn 0.67; fcc-A1: Mn 0.592; bcc-A12: Mn 0.679 | model | [1] Witusiewicz 2004 | Table 2, p. 3, row 4; `ORC-VHVKO4TFBB` |  |
+| 973.2 | eutectoid: cub-A13 -> fcc-A1 + cbcc-A12 | cub-A13: Mn 0.681; fcc-A1: Mn 0.606; cbcc-A12: Mn 0.69 | model | [2] Hämäläinen 1998 | Table I, p. 215, row 1; `ORC-YKHFTWT2X3` |  |
+| 973 | eutectoid: cub-A13 -> fcc-A1 + bcc-A12 | cub-A13: Mn 0.701; fcc-A1: Mn 0.59; bcc-A12: Mn 0.703 | model | [1] Witusiewicz 2004; _cites Huang 1987_ | Table 2, p. 3, row 2; `ORC-2Y4SR2VRCF` |  |
+| 973 | eutectoid: cub-A13 -> fcc-A1 + bcc-A12 | cub-A13: Mn 0.681; fcc-A1: Mn 0.606; bcc-A12: Mn 0.69 | model | [1] Witusiewicz 2004; _cites ref. 1989Hua_ | Table 2, p. 3, row 3; `ORC-3TPGMMJHF7` |  |
+| 973 | eutectoid: cub-A13 -> fcc-A1 + bcc-A12 | cub-A13: Mn 0.66; fcc-A1: Mn 0.62; bcc-A12: Mn 0.68 | experimental | [1] Witusiewicz 2004; _cites Hellawell 1956_ | Table 2, p. 3, row 1; `ORC-TRH7YM2E6K` |  |
+| 528 | eutectoid: fcc-A1 -> bcc-A2 + bcc-A12 | fcc-A1: Mn 0.431; bcc-A2: Mn 0.022; bcc-A12: Mn 0.647 | model | [1] Witusiewicz 2004 | Table 2, p. 3, row 6; `ORC-NMRROQ7RD4` |  |
+| 521.3 | eutectoid: fcc-A1 -> bcc-A2 + cbcc-A12 | fcc-A1: Mn 0.436; bcc-A2: Mn 0.033; cbcc-A12: Mn 0.659 | model | [2] Hämäläinen 1998 | Table I, p. 215, row 2; `ORC-GDQBXOSCEK` |  |
+| 521 | eutectoid: fcc-A1 -> bcc-A2 + bcc-A12 | fcc-A1: Mn 0.436; bcc-A2: Mn 0.033; bcc-A12: Mn 0.659 | model | [1] Witusiewicz 2004; _cites ref. 1989Hua_ | Table 2, p. 3, row 5; `ORC-QWBXS75U3L` |  |
 
 ## Formation enthalpies
 
@@ -118,12 +118,12 @@ Table: Enthalpies of formation, Fe–Mn system (6)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| C14 Laves FeMn2 |  | 18.636 kJ/mol-atom | 0 | DFT |  |  | [3] Zheng 2022 | Table 4, p. 6, row 11 |  |
-| C14 Laves FeMn2 | [FeMn2](https://data.orchid-project.org/compounds/FeMn2.html) | 18.653 kJ/mol-atom | 298.15 | model |  | 14.765 (oqmd-1449617) | [3] Zheng 2022 | Table 4, p. 6, row 12 |  |
-| C14 Laves MnFe2 |  | 21.311 kJ/mol-atom | 0 | DFT |  |  | [3] Zheng 2022 | Table 4, p. 6, row 13 |  |
-| C14 Laves MnFe2 | [Fe2Mn](https://data.orchid-project.org/compounds/Fe2Mn.html) | 25.409 kJ/mol-atom | 298.15 | model |  | 16.64 (oqmd-1449732) | [3] Zheng 2022 | Table 4, p. 6, row 14 |  |
-| fee |  | -2 kJ/mol (basis unstated) | 1443 | experimental |  |  | [4] Huang 1991; _cites ref. 1_ | p. 4 | “For a SO-50 alloy and with the same structure of pure elements as reference give the following enthalpy of formation of the Fe-Mn states, the experiments alloy (1): -1 kJ/mol for liquid at 1873 K, -2 kJ/mol for fee at 1443 K; of the Fe-V alloy (2): -8.6 kJ/mol for liquid at 1873 K, -5.3 kJ/mol for bee at 1623 K.” |
-| liquid |  | -1 kJ/mol (basis unstated) | 1873 | experimental |  |  | [4] Huang 1991; _cites ref. 1_ | p. 4 | “For a SO-50 alloy and with the same structure of pure elements as reference give the following enthalpy of formation of the Fe-Mn states, the experiments alloy (1): -1 kJ/mol for liquid at 1873 K, -2 kJ/mol for fee at 1443 K; of the Fe-V alloy (2): -8.6 kJ/mol for liquid at 1873 K, -5.3 kJ/mol for bee at 1623 K.” |
+| C14 Laves FeMn2 |  | 18.636 kJ/mol-atom | 0 | DFT |  |  | [3] Zheng 2022 | Table 4, p. 6, row 11; `ORC-EXKNNWDIND.99b2b8` |  |
+| C14 Laves FeMn2 | [FeMn2](https://data.orchid-project.org/compounds/FeMn2.html) | 18.653 kJ/mol-atom | 298.15 | model |  | 14.765 (oqmd-1449617) | [3] Zheng 2022 | Table 4, p. 6, row 12; `ORC-DN4BLS2SBJ.de1cc2` |  |
+| C14 Laves MnFe2 |  | 21.311 kJ/mol-atom | 0 | DFT |  |  | [3] Zheng 2022 | Table 4, p. 6, row 13; `ORC-D4DOUX2AZK.e862ae` |  |
+| C14 Laves MnFe2 | [Fe2Mn](https://data.orchid-project.org/compounds/Fe2Mn.html) | 25.409 kJ/mol-atom | 298.15 | model |  | 16.64 (oqmd-1449732) | [3] Zheng 2022 | Table 4, p. 6, row 14; `ORC-K2V4FKD4V3.934b2d` |  |
+| fee |  | -2 kJ/mol (basis unstated) | 1443 | experimental |  |  | [4] Huang 1991; _cites ref. 1_ | p. 4; `ORC-R3OI6XYIOO.2b2d08` | “For a SO-50 alloy and with the same structure of pure elements as reference give the following enthalpy of formation of the Fe-Mn states, the experiments alloy (1): -1 kJ/mol for liquid at 1873 K, -2 kJ/mol for fee at 1443 K; of the Fe-V alloy (2): -8.6 kJ/mol for liquid at 1873 K, -5.3 kJ/mol for bee at 1623 K.” |
+| liquid |  | -1 kJ/mol (basis unstated) | 1873 | experimental |  |  | [4] Huang 1991; _cites ref. 1_ | p. 4; `ORC-R3OI6XYIOO.0b1488` | “For a SO-50 alloy and with the same structure of pure elements as reference give the following enthalpy of formation of the Fe-Mn states, the experiments alloy (1): -1 kJ/mol for liquid at 1873 K, -2 kJ/mol for fee at 1443 K; of the Fe-V alloy (2): -8.6 kJ/mol for liquid at 1873 K, -5.3 kJ/mol for bee at 1623 K.” |
 
 ## Other properties
 
@@ -133,7 +133,7 @@ Table: Phase transition, Fe–Mn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 577 K | 577 | magnetic | experimental | [5] Kjellqvist 2010 | p. 6 | “The magnetic transition temperature was fixed to the experimental value of 577 K, and the Bohr magneton number, 0b, was used as the optimizing parameter to fit the k-peak in the heat capacity curve.” |
+| Phase transition | 577 K | 577 | magnetic | experimental | [5] Kjellqvist 2010 | p. 6; `ORC-GR2XEQE4S7` | “The magnetic transition temperature was fixed to the experimental value of 577 K, and the Bohr magneton number, 0b, was used as the optimizing parameter to fit the k-peak in the heat capacity curve.” |
 
 ### Mixing / partial (3)
 
@@ -141,9 +141,9 @@ Table: Mixing / partial, Fe–Mn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -3.952 kJ/mol-atom |  | fcc; _alloy: Fe 0.5, Mn 0.5_ | DFT | [6] Bracq 2021 | Table 1, p. 4, row 8 |  |
-| Enthalpy of mixing; _printed: heat of mixing_ | -4900 J/m01 | 1400 |  | experimental | [7] Huang 1989; _cites ref. 24_ | p. 2 | “In the 7 phase, a negative heat of mixing at 1400 K with a minimum of -4900 J/m01 was reported by Kendall et al. (24).” |
-| Enthalpy of mixing; _printed: heat of mixing_ | -3 kJ/mol-atom | 1443 |  | experimental | [7] Huang 1989; _cites ref. 4_ | p. 2 | “Recently, Kubitx et al. (4) determined the heat of mixing at 1443. 1073 and 873 K with a minimum of -3000 J/m01 at 1443 K.” |
+| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -3.952 kJ/mol-atom |  | fcc; _alloy: Fe 0.5, Mn 0.5_ | DFT | [6] Bracq 2021 | Table 1, p. 4, row 8; `ORC-4WQALBOGIS.65ae6d` |  |
+| Enthalpy of mixing; _printed: heat of mixing_ | -4900 J/m01 | 1400 |  | experimental | [7] Huang 1989; _cites ref. 24_ | p. 2; `ORC-IPGZTZRFJK` | “In the 7 phase, a negative heat of mixing at 1400 K with a minimum of -4900 J/m01 was reported by Kendall et al. (24).” |
+| Enthalpy of mixing; _printed: heat of mixing_ | -3 kJ/mol-atom | 1443 |  | experimental | [7] Huang 1989; _cites ref. 4_ | p. 2; `ORC-WQGTHGAW2Z` | “Recently, Kubitx et al. (4) determined the heat of mixing at 1443. 1073 and 873 K with a minimum of -3000 J/m01 at 1443 K.” |
 
 ## Sources
 
@@ -214,4 +214,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

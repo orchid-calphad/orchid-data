@@ -59,9 +59,9 @@ Table: Enthalpies of formation, Ga–Sr system (3)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Ga2Sr |  | -48.32 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 2, p. 3, row 14 |  |
-| Ga4Sr |  | -40.051 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 2, p. 3, row 13 |  |
-| Ga7Sr8 |  | -38.5 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 2, p. 3, row 15 |  |
+| Ga2Sr |  | -48.32 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 2, p. 3, row 14; `ORC-4BXT22MUTL` |  |
+| Ga4Sr |  | -40.051 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 2, p. 3, row 13; `ORC-C5OJI3JH67` |  |
+| Ga7Sr8 |  | -38.5 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 2, p. 3, row 15; `ORC-TXIUCE32NT` |  |
 
 ## Other properties
 
@@ -71,16 +71,16 @@ Table: Crystal structure, Ga–Sr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 4.366 Å | 0 | UNKNOWN; _alloy: Ga 0.666667, Sr 0.333333_ | DFT | [1] Li 2013 | Table 1, p. 2, row 17 |  |
-| Lattice a | 4.5 Å | 0 | UNKNOWN; _alloy: Ga 0.8, Sr 0.2_ | DFT | [1] Li 2013 | Table 1, p. 2, row 15 |  |
-| Lattice a | 12.481 Å | 0 | UNKNOWN; _alloy: Ga 0.466667, Sr 0.533333_ | DFT | [1] Li 2013 | Table 1, p. 2, row 19 |  |
-| Lattice a | 4.345 Å | 298.15 | UNKNOWN; _alloy: Ga 0.666667, Sr 0.333333_ | experimental | [1] Li 2013; _cites Iandelli 1987_ [doi](https://doi.org/10.1016/0022-5088%2887%2990480-2) | Table 1, p. 2, row 16 |  |
-| Lattice a | 12.484 Å | 298.15 | UNKNOWN; _alloy: Ga 0.466667, Sr 0.533333_ | unspecified | [1] Li 2013; _cites Fornasini 1983_ | Table 1, p. 2, row 18 |  |
-| Lattice a | 4.437 Å | 298.15 | UNKNOWN; _alloy: Ga 0.8, Sr 0.2_ | experimental | [1] Li 2013; _cites Bruzzone 1966_ | Table 1, p. 2, row 14 |  |
-| Lattice c | 4.762 Å | 0 | UNKNOWN; _alloy: Ga 0.666667, Sr 0.333333_ | DFT | [1] Li 2013 | Table 1, p. 2, row 17 |  |
-| Lattice c | 10.766 Å | 0 | UNKNOWN; _alloy: Ga 0.8, Sr 0.2_ | DFT | [1] Li 2013 | Table 1, p. 2, row 15 |  |
-| Lattice c | 4.737 Å | 298.15 | UNKNOWN; _alloy: Ga 0.666667, Sr 0.333333_ | experimental | [1] Li 2013; _cites Iandelli 1987_ [doi](https://doi.org/10.1016/0022-5088%2887%2990480-2) | Table 1, p. 2, row 16 |  |
-| Lattice c | 10.7 Å | 298.15 | UNKNOWN; _alloy: Ga 0.8, Sr 0.2_ | experimental | [1] Li 2013; _cites Bruzzone 1966_ | Table 1, p. 2, row 14 |  |
+| Lattice a | 4.366 Å | 0 | UNKNOWN; _alloy: Ga 0.666667, Sr 0.333333_ | DFT | [1] Li 2013 | Table 1, p. 2, row 17; `ORC-2V5JEY3VYG.a0ad3a` |  |
+| Lattice a | 4.5 Å | 0 | UNKNOWN; _alloy: Ga 0.8, Sr 0.2_ | DFT | [1] Li 2013 | Table 1, p. 2, row 15; `ORC-G56JV2FXUI.b1d2a8` |  |
+| Lattice a | 12.481 Å | 0 | UNKNOWN; _alloy: Ga 0.466667, Sr 0.533333_ | DFT | [1] Li 2013 | Table 1, p. 2, row 19; `ORC-WVXZ2DUF2D` |  |
+| Lattice a | 4.345 Å | 298.15 | UNKNOWN; _alloy: Ga 0.666667, Sr 0.333333_ | experimental | [1] Li 2013; _cites Iandelli 1987_ [doi](https://doi.org/10.1016/0022-5088%2887%2990480-2) | Table 1, p. 2, row 16; `ORC-6FD5LO2MFZ.bf3412` |  |
+| Lattice a | 12.484 Å | 298.15 | UNKNOWN; _alloy: Ga 0.466667, Sr 0.533333_ | unspecified | [1] Li 2013; _cites Fornasini 1983_ | Table 1, p. 2, row 18; `ORC-7LJZE6IHQJ` |  |
+| Lattice a | 4.437 Å | 298.15 | UNKNOWN; _alloy: Ga 0.8, Sr 0.2_ | experimental | [1] Li 2013; _cites Bruzzone 1966_ | Table 1, p. 2, row 14; `ORC-FXPBGGHULE.0128f8` |  |
+| Lattice c | 4.762 Å | 0 | UNKNOWN; _alloy: Ga 0.666667, Sr 0.333333_ | DFT | [1] Li 2013 | Table 1, p. 2, row 17; `ORC-2V5JEY3VYG.20c014` |  |
+| Lattice c | 10.766 Å | 0 | UNKNOWN; _alloy: Ga 0.8, Sr 0.2_ | DFT | [1] Li 2013 | Table 1, p. 2, row 15; `ORC-G56JV2FXUI.9fd68c` |  |
+| Lattice c | 4.737 Å | 298.15 | UNKNOWN; _alloy: Ga 0.666667, Sr 0.333333_ | experimental | [1] Li 2013; _cites Iandelli 1987_ [doi](https://doi.org/10.1016/0022-5088%2887%2990480-2) | Table 1, p. 2, row 16; `ORC-6FD5LO2MFZ.1c564a` |  |
+| Lattice c | 10.7 Å | 298.15 | UNKNOWN; _alloy: Ga 0.8, Sr 0.2_ | experimental | [1] Li 2013; _cites Bruzzone 1966_ | Table 1, p. 2, row 14; `ORC-FXPBGGHULE.779cb3` |  |
 
 ## Sources
 
@@ -145,4 +145,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

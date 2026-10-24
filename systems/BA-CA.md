@@ -43,9 +43,9 @@ Table: Phase transition, Ba–Ca system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 878.15 K | 878.15 | other | experimental | [1] Alcock 1986; _cites ref. 49She_ | p. 1 | “The liquidus has a minimum at about 605 ~ and 45.5 at.% Ba.” |
-| Phase transition | 878.15 K | 878.15 | polymorphic | experimental | [1] Alcock 1986; _cites ref. 49She_ | p. 1 | “By X-ray analysis, \[49She\] found three allotropes in pure Ca samples, with the temperatures 335 and 605 ~ for the fcc ~ cph and cph ~ bcc transformations, respectively.” |
-| Phase transition | 1000.15 K | 1000.15 |  | experimental | [1] Alcock 1986; _cites ref. 83Cha_ | p. 1 | “The melting points of pure/3Ca and Ba are 842 and 727 ~ r e s p e c t i v e l y \[83Cha\].” |
+| Phase transition | 878.15 K | 878.15 | other | experimental | [1] Alcock 1986; _cites ref. 49She_ | p. 1; `ORC-XD4UG7JDI2` | “The liquidus has a minimum at about 605 ~ and 45.5 at.% Ba.” |
+| Phase transition | 878.15 K | 878.15 | polymorphic | experimental | [1] Alcock 1986; _cites ref. 49She_ | p. 1; `ORC-BD3LGBCN62` | “By X-ray analysis, \[49She\] found three allotropes in pure Ca samples, with the temperatures 335 and 605 ~ for the fcc ~ cph and cph ~ bcc transformations, respectively.” |
+| Phase transition | 1000.15 K | 1000.15 |  | experimental | [1] Alcock 1986; _cites ref. 83Cha_ | p. 1; `ORC-JXJ3D5M75G` | “The melting points of pure/3Ca and Ba are 842 and 727 ~ r e s p e c t i v e l y \[83Cha\].” |
 
 ### Mixing / partial (9)
 
@@ -53,15 +53,15 @@ Table: Mixing / partial, Ba–Ca system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: Δmix H_ | -1.234 kJ/mol (basis unstated) |  | liquid; _alloy: Ba 0.2, Ca 0.8_ | experimental | [1] Alcock 1986; _cites ref. 74Pre_ | Table 2, p. 3, row 1 |  |
-| Enthalpy of mixing; _printed: Δmix H_ | -2.301 kJ/mol (basis unstated) |  | liquid; _alloy: Ba 0.48, Ca 0.52_ | experimental | [1] Alcock 1986; _cites ref. 74Pre_ | Table 2, p. 3, row 5 |  |
-| Enthalpy of mixing; _printed: Δmix H_ | -1.611 kJ/mol (basis unstated) |  | liquid; _alloy: Ba 0.805, Ca 0.195_ | experimental | [1] Alcock 1986; _cites ref. 74Pre_ | Table 2, p. 3, row 9 |  |
-| Enthalpy of mixing; _printed: Δmix H_ | -2.134 kJ/mol (basis unstated) |  | liquid; _alloy: Ba 0.63, Ca 0.37_ | experimental | [1] Alcock 1986; _cites ref. 74Pre_ | Table 2, p. 3, row 7 |  |
-| Enthalpy of mixing; _printed: Δmix H_ | -2.28 kJ/mol (basis unstated) |  | liquid; _alloy: Ba 0.55, Ca 0.45_ | experimental | [1] Alcock 1986; _cites ref. 74Pre_ | Table 2, p. 3, row 6 |  |
-| Enthalpy of mixing; _printed: Δmix H_ | -1.904 kJ/mol (basis unstated) |  | liquid; _alloy: Ba 0.27, Ca 0.73_ | experimental | [1] Alcock 1986; _cites ref. 74Pre_ | Table 2, p. 3, row 2 |  |
-| Enthalpy of mixing; _printed: Δmix H_ | -1.925 kJ/mol (basis unstated) |  | liquid; _alloy: Ba 0.71, Ca 0.29_ | experimental | [1] Alcock 1986; _cites ref. 74Pre_ | Table 2, p. 3, row 8 |  |
-| Enthalpy of mixing; _printed: Δmix H_ | -2.008 kJ/mol (basis unstated) |  | liquid; _alloy: Ba 0.34, Ca 0.66_ | experimental | [1] Alcock 1986; _cites ref. 74Pre_ | Table 2, p. 3, row 3 |  |
-| Enthalpy of mixing; _printed: Δmix H_ | -2.284 kJ/mol (basis unstated) |  | liquid; _alloy: Ba 0.44, Ca 0.56_ | experimental | [1] Alcock 1986; _cites ref. 74Pre_ | Table 2, p. 3, row 4 |  |
+| Enthalpy of mixing; _printed: Δmix H_ | -1.234 kJ/mol (basis unstated) |  | liquid; _alloy: Ba 0.2, Ca 0.8_ | experimental | [1] Alcock 1986; _cites ref. 74Pre_ | Table 2, p. 3, row 1; `ORC-5P2HZR5AFA` |  |
+| Enthalpy of mixing; _printed: Δmix H_ | -2.301 kJ/mol (basis unstated) |  | liquid; _alloy: Ba 0.48, Ca 0.52_ | experimental | [1] Alcock 1986; _cites ref. 74Pre_ | Table 2, p. 3, row 5; `ORC-6DHPJSDAQH` |  |
+| Enthalpy of mixing; _printed: Δmix H_ | -1.611 kJ/mol (basis unstated) |  | liquid; _alloy: Ba 0.805, Ca 0.195_ | experimental | [1] Alcock 1986; _cites ref. 74Pre_ | Table 2, p. 3, row 9; `ORC-EPMZMCGT3C` |  |
+| Enthalpy of mixing; _printed: Δmix H_ | -2.134 kJ/mol (basis unstated) |  | liquid; _alloy: Ba 0.63, Ca 0.37_ | experimental | [1] Alcock 1986; _cites ref. 74Pre_ | Table 2, p. 3, row 7; `ORC-FUSEK67UD2` |  |
+| Enthalpy of mixing; _printed: Δmix H_ | -2.28 kJ/mol (basis unstated) |  | liquid; _alloy: Ba 0.55, Ca 0.45_ | experimental | [1] Alcock 1986; _cites ref. 74Pre_ | Table 2, p. 3, row 6; `ORC-HXKSKMOEB4` |  |
+| Enthalpy of mixing; _printed: Δmix H_ | -1.904 kJ/mol (basis unstated) |  | liquid; _alloy: Ba 0.27, Ca 0.73_ | experimental | [1] Alcock 1986; _cites ref. 74Pre_ | Table 2, p. 3, row 2; `ORC-LGZ2AIFHDL` |  |
+| Enthalpy of mixing; _printed: Δmix H_ | -1.925 kJ/mol (basis unstated) |  | liquid; _alloy: Ba 0.71, Ca 0.29_ | experimental | [1] Alcock 1986; _cites ref. 74Pre_ | Table 2, p. 3, row 8; `ORC-NCBAL4STC4` |  |
+| Enthalpy of mixing; _printed: Δmix H_ | -2.008 kJ/mol (basis unstated) |  | liquid; _alloy: Ba 0.34, Ca 0.66_ | experimental | [1] Alcock 1986; _cites ref. 74Pre_ | Table 2, p. 3, row 3; `ORC-OQM4PDTFOE` |  |
+| Enthalpy of mixing; _printed: Δmix H_ | -2.284 kJ/mol (basis unstated) |  | liquid; _alloy: Ba 0.44, Ca 0.56_ | experimental | [1] Alcock 1986; _cites ref. 74Pre_ | Table 2, p. 3, row 4; `ORC-PHQB3F3NBQ` |  |
 
 ### Crystal structure (1)
 
@@ -69,7 +69,7 @@ Table: Crystal structure, Ba–Ca system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.581 not_printed | 473.15 | (αCa); _(αCa): Ba 0.3, Ca 0.7_ | unspecified | [1] Alcock 1986; _cites ref. 49She_ | Table 1, p. 2, row 2 |  |
+| Lattice a | 0.581 not_printed | 473.15 | (αCa); _(αCa): Ba 0.3, Ca 0.7_ | unspecified | [1] Alcock 1986; _cites ref. 49She_ | Table 1, p. 2, row 2; `ORC-OAHHFB6UKB` |  |
 
 ## Sources
 
@@ -134,4 +134,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -28,27 +28,27 @@ Table: Crystal structure, H system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 4.2629 Å |  | C222; _alloy: H 0.846_ | model | [1] Ukita 2008 | Table 1, p. 3, row 6 |  |
-| Lattice a | 3.084 Å |  | C222; _alloy: H 0.333_ | model | [1] Ukita 2008 | Table 1, p. 3, row 2 |  |
-| Lattice a | 3.1691 Å |  | Cmc2₁; _alloy: H 0.5_ | model | [1] Ukita 2008 | Table 1, p. 3, row 3 |  |
-| Lattice a | 2.9711 Å |  | I4/mmm; _alloy: H 0.667_ | model | [1] Ukita 2008 | Table 1, p. 3, row 4 |  |
-| Lattice a | 3.789 Å |  | Im3̄m; _alloy: H 0.857_ | model | [1] Ukita 2008 | Table 1, p. 3, row 7 |  |
-| Lattice a | 2.984 Å |  | Im3̄m; _alloy: H 0_ | model | [1] Ukita 2008 | Table 1, p. 3, row 1 |  |
-| Lattice a | 5.0771 Å |  | P1̄; _alloy: H 0.833_ | model | [1] Ukita 2008 | Table 1, p. 3, row 5 |  |
-| Lattice b | 4.2629 Å |  | C222; _alloy: H 0.846_ | model | [1] Ukita 2008 | Table 1, p. 3, row 6 |  |
-| Lattice b | 4.3835 Å |  | C222; _alloy: H 0.333_ | model | [1] Ukita 2008 | Table 1, p. 3, row 2 |  |
-| Lattice b | 4.448 Å |  | Cmc2₁; _alloy: H 0.5_ | model | [1] Ukita 2008 | Table 1, p. 3, row 3 |  |
-| Lattice b | 2.9711 Å |  | I4/mmm; _alloy: H 0.667_ | model | [1] Ukita 2008 | Table 1, p. 3, row 4 |  |
-| Lattice b | 3.789 Å |  | Im3̄m; _alloy: H 0.857_ | model | [1] Ukita 2008 | Table 1, p. 3, row 7 |  |
-| Lattice b | 2.984 Å |  | Im3̄m; _alloy: H 0_ | model | [1] Ukita 2008 | Table 1, p. 3, row 1 |  |
-| Lattice b | 3.0057 Å |  | P1̄; _alloy: H 0.833_ | model | [1] Ukita 2008 | Table 1, p. 3, row 5 |  |
-| Lattice c | 5.7556 Å |  | C222; _alloy: H 0.846_ | model | [1] Ukita 2008 | Table 1, p. 3, row 6 |  |
-| Lattice c | 4.3008 Å |  | C222; _alloy: H 0.333_ | model | [1] Ukita 2008 | Table 1, p. 3, row 2 |  |
-| Lattice c | 4.454 Å |  | Cmc2₁; _alloy: H 0.5_ | model | [1] Ukita 2008 | Table 1, p. 3, row 3 |  |
-| Lattice c | 4.091 Å |  | I4/mmm; _alloy: H 0.667_ | model | [1] Ukita 2008 | Table 1, p. 3, row 4 |  |
-| Lattice c | 3.789 Å |  | Im3̄m; _alloy: H 0.857_ | model | [1] Ukita 2008 | Table 1, p. 3, row 7 |  |
-| Lattice c | 2.984 Å |  | Im3̄m; _alloy: H 0_ | model | [1] Ukita 2008 | Table 1, p. 3, row 1 |  |
-| Lattice c | 3.6621 Å |  | P1̄; _alloy: H 0.833_ | model | [1] Ukita 2008 | Table 1, p. 3, row 5 |  |
+| Lattice a | 4.2629 Å |  | C222; _alloy: H 0.846_ | model | [1] Ukita 2008 | Table 1, p. 3, row 6; `ORC-LUWTGVYK3C.763893` |  |
+| Lattice a | 3.084 Å |  | C222; _alloy: H 0.333_ | model | [1] Ukita 2008 | Table 1, p. 3, row 2; `ORC-Q7SSE4QJKT.8ae73c` |  |
+| Lattice a | 3.1691 Å |  | Cmc2₁; _alloy: H 0.5_ | model | [1] Ukita 2008 | Table 1, p. 3, row 3; `ORC-VH5MPKCSFT.03b0e1` |  |
+| Lattice a | 2.9711 Å |  | I4/mmm; _alloy: H 0.667_ | model | [1] Ukita 2008 | Table 1, p. 3, row 4; `ORC-QAVTT7LZBV.bd7e61` |  |
+| Lattice a | 3.789 Å |  | Im3̄m; _alloy: H 0.857_ | model | [1] Ukita 2008 | Table 1, p. 3, row 7; `ORC-CC2ELG2PGT.33b7f6` |  |
+| Lattice a | 2.984 Å |  | Im3̄m; _alloy: H 0_ | model | [1] Ukita 2008 | Table 1, p. 3, row 1; `ORC-P6DDRN5XOS.64b048` |  |
+| Lattice a | 5.0771 Å |  | P1̄; _alloy: H 0.833_ | model | [1] Ukita 2008 | Table 1, p. 3, row 5; `ORC-WICXTSLG4N.b519be` |  |
+| Lattice b | 4.2629 Å |  | C222; _alloy: H 0.846_ | model | [1] Ukita 2008 | Table 1, p. 3, row 6; `ORC-LUWTGVYK3C.e4c397` |  |
+| Lattice b | 4.3835 Å |  | C222; _alloy: H 0.333_ | model | [1] Ukita 2008 | Table 1, p. 3, row 2; `ORC-Q7SSE4QJKT.9332bc` |  |
+| Lattice b | 4.448 Å |  | Cmc2₁; _alloy: H 0.5_ | model | [1] Ukita 2008 | Table 1, p. 3, row 3; `ORC-VH5MPKCSFT.e537c7` |  |
+| Lattice b | 2.9711 Å |  | I4/mmm; _alloy: H 0.667_ | model | [1] Ukita 2008 | Table 1, p. 3, row 4; `ORC-QAVTT7LZBV.edf52f` |  |
+| Lattice b | 3.789 Å |  | Im3̄m; _alloy: H 0.857_ | model | [1] Ukita 2008 | Table 1, p. 3, row 7; `ORC-CC2ELG2PGT.15c143` |  |
+| Lattice b | 2.984 Å |  | Im3̄m; _alloy: H 0_ | model | [1] Ukita 2008 | Table 1, p. 3, row 1; `ORC-P6DDRN5XOS.6f53c0` |  |
+| Lattice b | 3.0057 Å |  | P1̄; _alloy: H 0.833_ | model | [1] Ukita 2008 | Table 1, p. 3, row 5; `ORC-WICXTSLG4N.59a304` |  |
+| Lattice c | 5.7556 Å |  | C222; _alloy: H 0.846_ | model | [1] Ukita 2008 | Table 1, p. 3, row 6; `ORC-LUWTGVYK3C.6f7c43` |  |
+| Lattice c | 4.3008 Å |  | C222; _alloy: H 0.333_ | model | [1] Ukita 2008 | Table 1, p. 3, row 2; `ORC-Q7SSE4QJKT.6bbf35` |  |
+| Lattice c | 4.454 Å |  | Cmc2₁; _alloy: H 0.5_ | model | [1] Ukita 2008 | Table 1, p. 3, row 3; `ORC-VH5MPKCSFT.a9fb50` |  |
+| Lattice c | 4.091 Å |  | I4/mmm; _alloy: H 0.667_ | model | [1] Ukita 2008 | Table 1, p. 3, row 4; `ORC-QAVTT7LZBV.702857` |  |
+| Lattice c | 3.789 Å |  | Im3̄m; _alloy: H 0.857_ | model | [1] Ukita 2008 | Table 1, p. 3, row 7; `ORC-CC2ELG2PGT.12f402` |  |
+| Lattice c | 2.984 Å |  | Im3̄m; _alloy: H 0_ | model | [1] Ukita 2008 | Table 1, p. 3, row 1; `ORC-P6DDRN5XOS.41d2f7` |  |
+| Lattice c | 3.6621 Å |  | P1̄; _alloy: H 0.833_ | model | [1] Ukita 2008 | Table 1, p. 3, row 5; `ORC-WICXTSLG4N.f8f64c` |  |
 
 ## Sources
 
@@ -91,4 +91,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

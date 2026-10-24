@@ -62,26 +62,26 @@ Table: Invariant reactions reported in the literature for the In–Li system (20
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 907 | Liquid ⇄ InLi | Liquid: In 0.5, Li 0.5; InLi: In 0.5, Li 0.5 | experimental | [1] Gierlotka 2022; _cites Sangster 1991_ [doi](https://doi.org/10.1007/bf02663671) | Table 3, p. 6, row 4 |  |
-| 903 | Liquid ⇄ InLi | Liquid: In 0.5, Li 0.5; InLi: In 0.5, Li 0.5 | experimental | [1] Gierlotka 2022; _cites Thummel 1970_ [doi](https://doi.org/10.1002/zaac.19703760107) | Table 3, p. 6, row 8 |  |
-| 903 | Liquid ⇄ InLi | Liquid: In 0.5, Li 0.5; InLi: In 0.5, Li 0.5 | experimental | [1] Gierlotka 2022; _cites Schneider 1956_ [doi](https://doi.org/10.1002/zaac.19562860302) | Table 3, p. 6, row 7 |  |
-| 902 | Liquid ⇄ InLi | Liquid: In 0.5, Li 0.5; InLi: In 0.5, Li 0.5 | experimental | [1] Gierlotka 2022; _cites Lamprecht 1969_ | Table 3, p. 6, row 6 |  |
-| 898 | Liquid ⇄ InLi | Liquid: In 0.5, Li 0.5; InLi: In 0.5, Li 0.5 | model | [1] Gierlotka 2022 | Table 3, p. 6, row 9 |  |
-| 898 | Liquid ⇄ InLi | Liquid: In 0.5, Li 0.5; InLi: In 0.5, Li 0.5 | experimental | [1] Gierlotka 2022; _cites Grube 1935_ | Table 3, p. 6, row 5 |  |
-| 733 | InLi ⇄ InLi2 | InLi: In 0.5, Li 0.5; InLi2: In 0.333333, Li 0.666667 | experimental | [1] Gierlotka 2022; _cites Sangster 1991_ [doi](https://doi.org/10.1007/bf02663671) | Table 3, p. 6, row 12 |  |
-| 732 | InLi ⇄ InLi2 | InLi: In 0.5, Li 0.5; InLi2: In 0.333333, Li 0.666667 | model | [1] Gierlotka 2022 | Table 3, p. 6, row 13 |  |
-| 673 | InLi+Liquid ⇄ In3Li13 | InLi: In 0.5, Li 0.5; In3Li13: In 0.1875, Li 0.8125 | experimental | [1] Gierlotka 2022; _cites Sangster 1991_ [doi](https://doi.org/10.1007/bf02663671) | Table 3, p. 6, row 15 |  |
-| 668 | InLi+Liquid ⇄ In3Li13 | InLi: In 0.5, Li 0.5; In3Li13: In 0.1875, Li 0.8125 | model | [1] Gierlotka 2022 | Table 3, p. 6, row 16 |  |
-| 647 | InLi ⇄ InLi2+In3Li13 | InLi: In 0.5, Li 0.5; InLi2: In 0.333333, Li 0.666667; In3Li13: In 0.1875, Li 0.8125 | model | [1] Gierlotka 2022 | Table 3, p. 6, row 14 |  |
-| 580 | In3Li13+Liquid ⇄ InLi6 | In3Li13: In 0.1875, Li 0.8125; InLi6: In 0.142857, Li 0.857143 | model | [1] Gierlotka 2022 | Table 3, p. 6, row 17 |  |
-| 573 | InLi+InLi2 ⇄ In2Li3 | InLi: In 0.5, Li 0.5; InLi2: In 0.333333, Li 0.666667; In2Li3: In 0.4, Li 0.6 | model | [1] Gierlotka 2022 | Table 3, p. 6, row 11 |  |
-| 568 | InLi+InLi2 ⇄ In2Li3 | InLi: In 0.5, Li 0.5; InLi2: In 0.333333, Li 0.666667; In2Li3: In 0.4, Li 0.6 | experimental | [1] Gierlotka 2022; _cites Sangster 1991_ [doi](https://doi.org/10.1007/bf02663671) | Table 3, p. 6, row 10 |  |
-| 453.5 | Liquid ⇄ InLi6+(Li) | InLi6: In 0.142857, Li 0.857143 | experimental | [1] Gierlotka 2022; _cites Alexander 1976_ [doi](https://doi.org/10.1139/v76-150) | Table 3, p. 6, row 19 |  |
-| 453 | Liquid ⇄ InLi6+(Li) | InLi6: In 0.142857, Li 0.857143 | model | [1] Gierlotka 2022 | Table 3, p. 6, row 20 |  |
-| 452 | Liquid ⇄ InLi6+(Li) | InLi6: In 0.142857, Li 0.857143 | experimental | [1] Gierlotka 2022; _cites Sangster 1991_ [doi](https://doi.org/10.1007/bf02663671) | Table 3, p. 6, row 18 |  |
-| 432 | Liquid ⇄ (In)+InLi | InLi: In 0.5, Li 0.5 | model | [1] Gierlotka 2022 | Table 3, p. 6, row 3 |  |
-| 432 | Liquid ⇄ (In)+InLi | InLi: In 0.5, Li 0.5 | experimental | [1] Gierlotka 2022; _cites Sangster 1991_ [doi](https://doi.org/10.1007/bf02663671) | Table 3, p. 6, row 1 |  |
-| 431 | Liquid ⇄ (In)+InLi | InLi: In 0.5, Li 0.5 | experimental | [1] Gierlotka 2022; _cites Alexander 1976_ [doi](https://doi.org/10.1139/v76-150) | Table 3, p. 6, row 2 |  |
+| 907 | Liquid ⇄ InLi | Liquid: In 0.5, Li 0.5; InLi: In 0.5, Li 0.5 | experimental | [1] Gierlotka 2022; _cites Sangster 1991_ [doi](https://doi.org/10.1007/bf02663671) | Table 3, p. 6, row 4; `ORC-NGTPWY4BLH` |  |
+| 903 | Liquid ⇄ InLi | Liquid: In 0.5, Li 0.5; InLi: In 0.5, Li 0.5 | experimental | [1] Gierlotka 2022; _cites Thummel 1970_ [doi](https://doi.org/10.1002/zaac.19703760107) | Table 3, p. 6, row 8; `ORC-2ZQOBBWMEX` |  |
+| 903 | Liquid ⇄ InLi | Liquid: In 0.5, Li 0.5; InLi: In 0.5, Li 0.5 | experimental | [1] Gierlotka 2022; _cites Schneider 1956_ [doi](https://doi.org/10.1002/zaac.19562860302) | Table 3, p. 6, row 7; `ORC-QRJDFLJGAT` |  |
+| 902 | Liquid ⇄ InLi | Liquid: In 0.5, Li 0.5; InLi: In 0.5, Li 0.5 | experimental | [1] Gierlotka 2022; _cites Lamprecht 1969_ | Table 3, p. 6, row 6; `ORC-PVNEWIJO5Q` |  |
+| 898 | Liquid ⇄ InLi | Liquid: In 0.5, Li 0.5; InLi: In 0.5, Li 0.5 | model | [1] Gierlotka 2022 | Table 3, p. 6, row 9; `ORC-QIJBBXO653` |  |
+| 898 | Liquid ⇄ InLi | Liquid: In 0.5, Li 0.5; InLi: In 0.5, Li 0.5 | experimental | [1] Gierlotka 2022; _cites Grube 1935_ | Table 3, p. 6, row 5; `ORC-TOBI3JYBHT` |  |
+| 733 | InLi ⇄ InLi2 | InLi: In 0.5, Li 0.5; InLi2: In 0.333333, Li 0.666667 | experimental | [1] Gierlotka 2022; _cites Sangster 1991_ [doi](https://doi.org/10.1007/bf02663671) | Table 3, p. 6, row 12; `ORC-E3JVL55ZWT` |  |
+| 732 | InLi ⇄ InLi2 | InLi: In 0.5, Li 0.5; InLi2: In 0.333333, Li 0.666667 | model | [1] Gierlotka 2022 | Table 3, p. 6, row 13; `ORC-OWJCNHTUB6` |  |
+| 673 | InLi+Liquid ⇄ In3Li13 | InLi: In 0.5, Li 0.5; In3Li13: In 0.1875, Li 0.8125 | experimental | [1] Gierlotka 2022; _cites Sangster 1991_ [doi](https://doi.org/10.1007/bf02663671) | Table 3, p. 6, row 15; `ORC-UR6VAJUZPH` |  |
+| 668 | InLi+Liquid ⇄ In3Li13 | InLi: In 0.5, Li 0.5; In3Li13: In 0.1875, Li 0.8125 | model | [1] Gierlotka 2022 | Table 3, p. 6, row 16; `ORC-DII2PGJLAM` |  |
+| 647 | InLi ⇄ InLi2+In3Li13 | InLi: In 0.5, Li 0.5; InLi2: In 0.333333, Li 0.666667; In3Li13: In 0.1875, Li 0.8125 | model | [1] Gierlotka 2022 | Table 3, p. 6, row 14; `ORC-C76UQYNDSS` |  |
+| 580 | In3Li13+Liquid ⇄ InLi6 | In3Li13: In 0.1875, Li 0.8125; InLi6: In 0.142857, Li 0.857143 | model | [1] Gierlotka 2022 | Table 3, p. 6, row 17; `ORC-FGRG3FVPQP` |  |
+| 573 | InLi+InLi2 ⇄ In2Li3 | InLi: In 0.5, Li 0.5; InLi2: In 0.333333, Li 0.666667; In2Li3: In 0.4, Li 0.6 | model | [1] Gierlotka 2022 | Table 3, p. 6, row 11; `ORC-LPXZPULH2Q` |  |
+| 568 | InLi+InLi2 ⇄ In2Li3 | InLi: In 0.5, Li 0.5; InLi2: In 0.333333, Li 0.666667; In2Li3: In 0.4, Li 0.6 | experimental | [1] Gierlotka 2022; _cites Sangster 1991_ [doi](https://doi.org/10.1007/bf02663671) | Table 3, p. 6, row 10; `ORC-Q65VAPZQXK` |  |
+| 453.5 | Liquid ⇄ InLi6+(Li) | InLi6: In 0.142857, Li 0.857143 | experimental | [1] Gierlotka 2022; _cites Alexander 1976_ [doi](https://doi.org/10.1139/v76-150) | Table 3, p. 6, row 19; `ORC-XC747O673K` |  |
+| 453 | Liquid ⇄ InLi6+(Li) | InLi6: In 0.142857, Li 0.857143 | model | [1] Gierlotka 2022 | Table 3, p. 6, row 20; `ORC-X7SP3H3ZEV` |  |
+| 452 | Liquid ⇄ InLi6+(Li) | InLi6: In 0.142857, Li 0.857143 | experimental | [1] Gierlotka 2022; _cites Sangster 1991_ [doi](https://doi.org/10.1007/bf02663671) | Table 3, p. 6, row 18; `ORC-XXWNYZQFSK` |  |
+| 432 | Liquid ⇄ (In)+InLi | InLi: In 0.5, Li 0.5 | model | [1] Gierlotka 2022 | Table 3, p. 6, row 3; `ORC-II62X2SGFL` |  |
+| 432 | Liquid ⇄ (In)+InLi | InLi: In 0.5, Li 0.5 | experimental | [1] Gierlotka 2022; _cites Sangster 1991_ [doi](https://doi.org/10.1007/bf02663671) | Table 3, p. 6, row 1; `ORC-MEGWAZGGCU` |  |
+| 431 | Liquid ⇄ (In)+InLi | InLi: In 0.5, Li 0.5 | experimental | [1] Gierlotka 2022; _cites Alexander 1976_ [doi](https://doi.org/10.1139/v76-150) | Table 3, p. 6, row 2; `ORC-TZYZYVNMFF` |  |
 
 ## Other properties
 
@@ -91,11 +91,11 @@ Table: Phase transition, In–Li system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 680 K | 680 | other | experimental | [1] Gierlotka 2022; _cites Lamprecht 1969_ | p. 5 | “For example, the liquidus line determined for the concentration xLi equal to 0.2 mole fraction varies from 680 K to 730 K, according to Lamprecht and Crowther \[7\] and Thummel and Klemm \[9\], respectively.” |
-| Phase transition | 730 K | 730 | other | experimental | [1] Gierlotka 2022; _cites Thummel 1970_ [doi](https://doi.org/10.1002/zaac.19703760107) | p. 5 | “For example, the liquidus line determined for the concentration xLi equal to 0.2 mole fraction varies from 680 K to 730 K, according to Lamprecht and Crowther \[7\] and Thummel and Klemm \[9\], respectively.” |
-| Phase transition | 898 K | 898 | congruent transformation | model | [1] Gierlotka 2022 | p. 6 | “The calculated congruent melting occurs at the temperature 898 K and the composition equals 0.544 mole fraction of Li.” |
-| Phase transition | 898 K | 898 | congruent transformation | experimental | [1] Gierlotka 2022; _cites Grube 1935_ | p. 1 | “Grube and Wolf \[6\] measured the congruent melting temperature of the InLi phase at 898 K and determined the liquidus line as well.” |
-| Phase transition | 902 K | 902 |  | experimental | [1] Gierlotka 2022; _cites Lamprecht 1969_ | p. 1 | “Based on the experimental results, they concluded that, in the binary In - Li system, InLi and InLi4 phases exist, and also that the melting temperature of the InLi phase equals 902 K.” |
+| Phase transition | 680 K | 680 | other | experimental | [1] Gierlotka 2022; _cites Lamprecht 1969_ | p. 5; `ORC-CVTO4MM5IF.2cecb8` | “For example, the liquidus line determined for the concentration xLi equal to 0.2 mole fraction varies from 680 K to 730 K, according to Lamprecht and Crowther \[7\] and Thummel and Klemm \[9\], respectively.” |
+| Phase transition | 730 K | 730 | other | experimental | [1] Gierlotka 2022; _cites Thummel 1970_ [doi](https://doi.org/10.1002/zaac.19703760107) | p. 5; `ORC-CVTO4MM5IF.5cd7bc` | “For example, the liquidus line determined for the concentration xLi equal to 0.2 mole fraction varies from 680 K to 730 K, according to Lamprecht and Crowther \[7\] and Thummel and Klemm \[9\], respectively.” |
+| Phase transition | 898 K | 898 | congruent transformation | model | [1] Gierlotka 2022 | p. 6; `ORC-HEH5U24BBZ` | “The calculated congruent melting occurs at the temperature 898 K and the composition equals 0.544 mole fraction of Li.” |
+| Phase transition | 898 K | 898 | congruent transformation | experimental | [1] Gierlotka 2022; _cites Grube 1935_ | p. 1; `ORC-XY7TDUFYJV` | “Grube and Wolf \[6\] measured the congruent melting temperature of the InLi phase at 898 K and determined the liquidus line as well.” |
+| Phase transition | 902 K | 902 |  | experimental | [1] Gierlotka 2022; _cites Lamprecht 1969_ | p. 1; `ORC-QRTYAFMNDB` | “Based on the experimental results, they concluded that, in the binary In - Li system, InLi and InLi4 phases exist, and also that the melting temperature of the InLi phase equals 902 K.” |
 
 ### Phase equilibrium (1)
 
@@ -103,7 +103,7 @@ Table: Phase equilibrium, In–Li system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase assemblage |  | 850 | InLi; _alloy: Li 0.65_ | experimental | [1] Gierlotka 2022; _cites Gasior 1992_ | p. 7 | “Figure 5 displays the calculated activity of lithium in the solid phase at 850 K together with the experimental data obtained by Gąsior and Schwitzgebel \[15\]. As it can be found in the phase diagram (Fig. 1), at the temperature of 850 K, two phases exist: Liquid and InLi. The experimental data shown in Figure 4 exhibit the activity of Li in the solid InLi phase. One can see that the calculation f…” |
+| Phase assemblage |  | 850 | InLi; _alloy: Li 0.65_ | experimental | [1] Gierlotka 2022; _cites Gasior 1992_ | p. 7; `ORC-FS3S5RLJOO.b11fdf` | “Figure 5 displays the calculated activity of lithium in the solid phase at 850 K together with the experimental data obtained by Gąsior and Schwitzgebel \[15\]. As it can be found in the phase diagram (Fig. 1), at the temperature of 850 K, two phases exist: Liquid and InLi. The experimental data shown in Figure 4 exhibit the activity of Li in the solid InLi phase. One can see that the calculation f…” |
 
 ## Sources
 
@@ -168,4 +168,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

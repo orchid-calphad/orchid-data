@@ -35,7 +35,7 @@ Table: Enthalpies of formation, O–Sc system (1)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| C-Sc2O3 | [Sc2O3](https://data.orchid-project.org/compounds/Sc2O3.html) | -381.715 kJ/mol-atom | 298.15 | model | -382.923 (mp-aaaaaaii) | -367.356 (oqmd-4555) | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 1 |  |
+| C-Sc2O3 | [Sc2O3](https://data.orchid-project.org/compounds/Sc2O3.html) | -381.715 kJ/mol-atom | 298.15 | model | -382.923 (mp-aaaaaaii) | -367.356 (oqmd-4555) | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 1; `ORC-4ZKH5RH67R.0afd30` |  |
 
 ## Other properties
 
@@ -45,8 +45,8 @@ Table: Phase transition, O–Sc system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 298.15 K | 298.15 | polymorphic: C ⇒ A; _alloy: O 0.6, Sc 0.4_ | unspecified | [1] ZINKEVICH 2007; _cites Atou 1994_ | Table 2.3, p. 10, row 2 |  |
-| Phase transition | 1273 K | 1273 | polymorphic: C ⇒ B; _alloy: O 0.6, Sc 0.4_ | experimental | [1] ZINKEVICH 2007; _cites Reid 1969_ | Table 2.3, p. 10, row 1 |  |
+| Phase transition | 298.15 K | 298.15 | polymorphic: C ⇒ A; _alloy: O 0.6, Sc 0.4_ | unspecified | [1] ZINKEVICH 2007; _cites Atou 1994_ | Table 2.3, p. 10, row 2; `ORC-5UWAGDJNTI` |  |
+| Phase transition | 1273 K | 1273 | polymorphic: C ⇒ B; _alloy: O 0.6, Sc 0.4_ | experimental | [1] ZINKEVICH 2007; _cites Reid 1969_ | Table 2.3, p. 10, row 1; `ORC-O32YOI4ZS5` |  |
 
 ### Heat capacity / entropy / enthalpy (1)
 
@@ -54,7 +54,7 @@ Table: Heat capacity / entropy / enthalpy, O–Sc system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: °S_ | 77 unknown | 298.15 | C-Sc2O3; _alloy: O 0.6, Sc 0.4_ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 1 |  |
+| Entropy; _printed: °S_ | 77 unknown | 298.15 | C-Sc2O3; _alloy: O 0.6, Sc 0.4_ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 1; `ORC-4ZKH5RH67R.6864ad` |  |
 
 ### Crystal structure (3)
 
@@ -62,9 +62,9 @@ Table: Crystal structure, O–Sc system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| lattice molar volume | 35.911 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Sc 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 1 |  |
-| lattice molar volume | 33.129 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Sc 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 1 |  |
-| lattice molar volume | 31.781 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Sc 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 1 |  |
+| lattice molar volume | 35.911 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Sc 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 1; `ORC-DI2XNZRC2C.33681f` |  |
+| lattice molar volume | 33.129 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Sc 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 1; `ORC-DI2XNZRC2C.48d7ec` |  |
+| lattice molar volume | 31.781 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Sc 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 1; `ORC-DI2XNZRC2C.8fc252` |  |
 
 ## Sources
 
@@ -118,4 +118,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

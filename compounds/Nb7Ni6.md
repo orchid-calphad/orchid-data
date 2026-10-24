@@ -14,16 +14,16 @@ Table: Enthalpy of formation of Nb7Ni6 reported in the literature (10)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -23 kJ/mol-atom | Nb7Ni6 | 298.15 | experimental | Experimental | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [1] Santhy 2015; _cites Hultgren 1973_ | Table 6, p. 4, row 3 |  |
-| -23 kJ/mol-atom ± 3 | Nb7Ni6 | 600.15 | experimental | Experimental | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [1] Santhy 2015; _cites Kubaschewski 2015_ | Table 6, p. 4, row 2 |  |
-| -22.47 kJ/mol-atom ± 2.2 | Nb7Ni6 | 298.15 | experimental | Experimental | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [1] Santhy 2015; _cites Argent 1959_ | Table 6, p. 4, row 1 |  |
-| -22.45 kJ/mol-atom | μ-Nb7Ni6 + µ-Nb7Ni6 | 298.15 | experimental |  | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [2] Sun 2023; _cites Argent 1959_ | Table 6, p. 33, row 5 |  |
-| -20.76 kJ/mol-atom | Nb7Ni6 | 298.15 | model | Miedema | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [1] Santhy 2015; _cites Niessen 1988_ [doi](https://doi.org/10.1016/0921-4526%2888%2990002-6) | Table 6, p. 4, row 4 |  |
-| -22.5 kJ/mol-atom | Nb7Ni6 | 0 | DFT | First-principle | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [1] Santhy 2015 | Table 6, p. 4, row 5 |  |
-| -20.63 kJ/mol-atom | μ-Nb7Ni6 + µ-Nb7Ni6 | 0 | DFT | DFT and phonon calculations | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [2] Sun 2023 | Table 6, p. 33, row 3 |  |
-| -20.5 kJ/mol-atom | μ-Nb7Ni6 + µ-Nb7Ni6 | 0 | DFT | DFT and phonon calculations | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [2] Sun 2023 | Table 6, p. 33, row 4 |  |
-| -20.43 kJ/mol-atom | μ-Nb7Ni6 + µ-Nb7Ni6 | 298.15 | DFT | DFT and phonon calculations | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [2] Sun 2023 | Table 6, p. 33, row 4 |  |
-| -20.38 kJ/mol-atom | μ-Nb7Ni6 + µ-Nb7Ni6 | 298.15 | DFT | DFT and phonon calculations | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [2] Sun 2023 | Table 6, p. 33, row 3 |  |
+| -23 kJ/mol-atom | Nb7Ni6 | 298.15 | experimental | Experimental | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [1] Santhy 2015; _cites Hultgren 1973_ | Table 6, p. 4, row 3; `ORC-GUSR4DRJTM.dce290` |  |
+| -23 kJ/mol-atom ± 3 | Nb7Ni6 | 600.15 | experimental | Experimental | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [1] Santhy 2015; _cites Kubaschewski 2015_ | Table 6, p. 4, row 2; `ORC-V6DVVRGG5E.11e0a4` |  |
+| -22.47 kJ/mol-atom ± 2.2 | Nb7Ni6 | 298.15 | experimental | Experimental | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [1] Santhy 2015; _cites Argent 1959_ | Table 6, p. 4, row 1; `ORC-KNMXYXBOEW.6c652d` |  |
+| -22.45 kJ/mol-atom | μ-Nb7Ni6 + µ-Nb7Ni6 | 298.15 | experimental |  | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [2] Sun 2023; _cites Argent 1959_ | Table 6, p. 33, row 5; `ORC-J7U4WVA25P.53a2b3` |  |
+| -20.76 kJ/mol-atom | Nb7Ni6 | 298.15 | model | Miedema | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [1] Santhy 2015; _cites Niessen 1988_ [doi](https://doi.org/10.1016/0921-4526%2888%2990002-6) | Table 6, p. 4, row 4; `ORC-KD3FJ3WKW4.84d5f6` |  |
+| -22.5 kJ/mol-atom | Nb7Ni6 | 0 | DFT | First-principle | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [1] Santhy 2015 | Table 6, p. 4, row 5; `ORC-LFR5XFEABG.91d157` |  |
+| -20.63 kJ/mol-atom | μ-Nb7Ni6 + µ-Nb7Ni6 | 0 | DFT | DFT and phonon calculations | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [2] Sun 2023 | Table 6, p. 33, row 3; `ORC-KDDHYBPV3V.1f1c2c` |  |
+| -20.5 kJ/mol-atom | μ-Nb7Ni6 + µ-Nb7Ni6 | 0 | DFT | DFT and phonon calculations | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [2] Sun 2023 | Table 6, p. 33, row 4; `ORC-UZM6JPBUE2.c22fe6` |  |
+| -20.43 kJ/mol-atom | μ-Nb7Ni6 + µ-Nb7Ni6 | 298.15 | DFT | DFT and phonon calculations | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [2] Sun 2023 | Table 6, p. 33, row 4; `ORC-UZM6JPBUE2.b2325a` |  |
+| -20.38 kJ/mol-atom | μ-Nb7Ni6 + µ-Nb7Ni6 | 298.15 | DFT | DFT and phonon calculations | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [2] Sun 2023 | Table 6, p. 33, row 3; `ORC-KDDHYBPV3V.9e54ef` |  |
 
 ### Uncertainty budget
 
@@ -109,4 +109,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

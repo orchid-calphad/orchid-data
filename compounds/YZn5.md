@@ -14,9 +14,9 @@ Table: Enthalpy of formation of YZn5 reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -33 kJ/mol-atom ± 2 | YZn5 | 298.15 | experimental |  | [Y–Zn](https://data.orchid-project.org/systems/Y-ZN.html) | [1] Shao 2006; _cites Mason 1976_ [doi](https://doi.org/10.1007/bf02644469) | Table 2, p. 4, row 20 |  |
-| -34.333 kJ/mol-atom | YZn5 |  | model | CALPHAD | [Y–Zn](https://data.orchid-project.org/systems/Y-ZN.html) | [1] Shao 2006 | Table 2, p. 4, row 19 |  |
-| -25 kJ/mol-atom | YZn5 |  | model |  | [Y–Zn](https://data.orchid-project.org/systems/Y-ZN.html) | [1] Shao 2006; _cites F 1988_ | Table 2, p. 4, row 21 |  |
+| -33 kJ/mol-atom ± 2 | YZn5 | 298.15 | experimental |  | [Y–Zn](https://data.orchid-project.org/systems/Y-ZN.html) | [1] Shao 2006; _cites Mason 1976_ [doi](https://doi.org/10.1007/bf02644469) | Table 2, p. 4, row 20; `ORC-TLCAGNUBYU` |  |
+| -34.333 kJ/mol-atom | YZn5 |  | model | CALPHAD | [Y–Zn](https://data.orchid-project.org/systems/Y-ZN.html) | [1] Shao 2006 | Table 2, p. 4, row 19; `ORC-NYHZV35V7G` |  |
+| -25 kJ/mol-atom | YZn5 |  | model |  | [Y–Zn](https://data.orchid-project.org/systems/Y-ZN.html) | [1] Shao 2006; _cites F 1988_ | Table 2, p. 4, row 21; `ORC-6K6WPHOAAR` |  |
 
 ### Uncertainty budget
 
@@ -94,4 +94,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

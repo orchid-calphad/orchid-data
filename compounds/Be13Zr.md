@@ -14,10 +14,10 @@ Table: Enthalpy of formation of Be13Zr reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -29.1 kJ/mol-atom | ZrBe13 |  | model |  | [Be–Zr](https://data.orchid-project.org/systems/BE-ZR.html) | [1] Tokunaga 2006; _cites Kaufman 1979_ [doi](https://doi.org/10.1016/0364-5916%2879%2990010-5) | Table 1, p. 2, row 24 |  |
-| -26.1 kJ/mol-atom | ZrBe13 |  | model |  | [Be–Zr](https://data.orchid-project.org/systems/BE-ZR.html) | [1] Tokunaga 2006 | Table 1, p. 2, row 23 |  |
-| -22.5 kJ/mol-atom | ZrBe13 |  | model |  | [Be–Zr](https://data.orchid-project.org/systems/BE-ZR.html) | [1] Tokunaga 2006; _cites Saunders 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990001-x) | Table 1, p. 2, row 25 |  |
-| -27.6 kJ/mol-atom | ZrBe13 | 0 | DFT | ab initio (FLAPW) | [Be–Zr](https://data.orchid-project.org/systems/BE-ZR.html) | [1] Tokunaga 2006 | Table 1, p. 2, row 21 |  |
+| -29.1 kJ/mol-atom | ZrBe13 |  | model |  | [Be–Zr](https://data.orchid-project.org/systems/BE-ZR.html) | [1] Tokunaga 2006; _cites Kaufman 1979_ [doi](https://doi.org/10.1016/0364-5916%2879%2990010-5) | Table 1, p. 2, row 24; `ORC-I74ZTJYZIL` |  |
+| -26.1 kJ/mol-atom | ZrBe13 |  | model |  | [Be–Zr](https://data.orchid-project.org/systems/BE-ZR.html) | [1] Tokunaga 2006 | Table 1, p. 2, row 23; `ORC-KIJNGPFNTJ` |  |
+| -22.5 kJ/mol-atom | ZrBe13 |  | model |  | [Be–Zr](https://data.orchid-project.org/systems/BE-ZR.html) | [1] Tokunaga 2006; _cites Saunders 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990001-x) | Table 1, p. 2, row 25; `ORC-O57BO43OT7` |  |
+| -27.6 kJ/mol-atom | ZrBe13 | 0 | DFT | ab initio (FLAPW) | [Be–Zr](https://data.orchid-project.org/systems/BE-ZR.html) | [1] Tokunaga 2006 | Table 1, p. 2, row 21; `ORC-FW5OQK77M4` |  |
 
 ### Uncertainty budget
 
@@ -96,4 +96,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

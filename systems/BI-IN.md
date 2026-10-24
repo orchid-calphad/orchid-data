@@ -86,23 +86,23 @@ Table: Invariant reactions reported in the literature for the Bi–In system (17
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 383.15 | congruent melting: BiIn(β)=L | BiIn(β): In 0.5; L: In 0.5 | experimental | [1] Chevalier 1988; _cites ref. 5_ | Table 3, p. 4, row 4 |  |
-| 382.93 | congruent melting: BiIn(β)=L | BiIn(β): In 0.5; L: In 0.5 | model | [1] Chevalier 1988 | Table 3, p. 4, row 3 |  |
-| 382.65 | rho+BiIn(β)=L | BiIn(β): Bi 0.5, In 0.5; L: In 0.473 | experimental | [1] Chevalier 1988; _cites ref. 5_ | Table 3, p. 4, row 2 |  |
-| 382.33 | rho+BiIn(β)=L | BiIn(β): Bi 0.5, In 0.5; L: In 0.475 | model | [1] Chevalier 1988 | Table 3, p. 4, row 1 |  |
-| 365.65 | L+bct(α)\<->fct(α1) | L: In 0.837 | experimental | [1] Chevalier 1988; _cites ref. 7_ | Table 3, p. 4, row 16 |  |
-| 364.02 | L+bct(α)\<->fct(α1) | L: In 0.829 | model | [1] Chevalier 1988 | Table 3, p. 4, row 15 |  |
-| 363 | congruent melting: BiIn2(δ)=L | BiIn2(δ): In 0.666; L: In 0.666 | experimental | [1] Chevalier 1988; _cites ref. 7_ | Table 3, p. 4, row 10 |  |
-| 362.15 | L=BiIn(β)+Bi3In5(γ) | L: In 0.61; BiIn(β): Bi 0.5, In 0.5; Bi3In5(γ): Bi 0.375, In 0.625 | experimental | [1] Chevalier 1988; _cites ref. 5_ | Table 3, p. 4, row 5 |  |
-| 361.84 | L+BiIn(β)=Bi3In5(γ) | L: In 0.65; BiIn(β): Bi 0.5, In 0.5; Bi3In5(γ): Bi 0.375, In 0.625 | model | [1] Chevalier 1988 | Table 3, p. 4, row 6 |  |
-| 361 | L=Bi3In5(γ)+BiIn2(δ) | L: In 0.65; Bi3In5(γ): Bi 0.375, In 0.625; BiIn2(δ): Bi 0.333333, In 0.666667 | experimental | [1] Chevalier 1988; _cites ref. 5_ | Table 3, p. 4, row 8 |  |
-| 360.95 | congruent melting: BiIn2(δ)=L | BiIn2(δ): In 0.666; L: In 0.666 | model | [1] Chevalier 1988 | Table 3, p. 4, row 9 |  |
-| 360.9 | L=Bi3In5(γ)+BiIn2(δ) | L: In 0.663; Bi3In5(γ): Bi 0.375, In 0.625; BiIn2(δ): Bi 0.333333, In 0.666667 | model | [1] Chevalier 1988 | Table 3, p. 4, row 7 |  |
-| 345.15 | BiIn2(δ)+fct(α1)=L | BiIn2(δ): Bi 0.333333, In 0.666667; L: In 0.784; α1: In 0.878 | experimental | [1] Chevalier 1988; _cites ref. 7_ | Table 3, p. 4, row 12 |  |
-| 343.62 | BiIn2(δ)+fct(α1)=L | BiIn2(δ): Bi 0.333333, In 0.666667; L: In 0.784; α1: In 0.872 | model | [1] Chevalier 1988 | Table 3, p. 4, row 11 |  |
-| 343.15 | eutectic: liquid „ (Bi)‡hcp‡ InBi |  | model | [2] Boa 1998; _cites Stel'makh 1974_ | p. 2 | “Bushanov et al. \[8\] determined the composition of the ternary eutectic at 343.15 K (liquid  (Bi)hcp InBi) by describing the liquidus surfaces based on Stel'makh et al. \[4,5\] data, by polynomials of different order using a simplex grid planning.” |
-| 322.15 | BiIn2(δ)+bct(α)=fct(α1) | BiIn2(δ): Bi 0.333333, In 0.666667 | experimental | [1] Chevalier 1988; _cites ref. 7_ | Table 3, p. 4, row 14 |  |
-| 319.52 | BiIn2(δ)+bct(α)=fct(α1) | BiIn2(δ): Bi 0.333333, In 0.666667 | model | [1] Chevalier 1988 | Table 3, p. 4, row 13 |  |
+| 383.15 | congruent melting: BiIn(β)=L | BiIn(β): In 0.5; L: In 0.5 | experimental | [1] Chevalier 1988; _cites ref. 5_ | Table 3, p. 4, row 4; `ORC-XJ4QY3D4BG` |  |
+| 382.93 | congruent melting: BiIn(β)=L | BiIn(β): In 0.5; L: In 0.5 | model | [1] Chevalier 1988 | Table 3, p. 4, row 3; `ORC-AFUSY5HETV` |  |
+| 382.65 | rho+BiIn(β)=L | BiIn(β): Bi 0.5, In 0.5; L: In 0.473 | experimental | [1] Chevalier 1988; _cites ref. 5_ | Table 3, p. 4, row 2; `ORC-FOG4DCGJGN` |  |
+| 382.33 | rho+BiIn(β)=L | BiIn(β): Bi 0.5, In 0.5; L: In 0.475 | model | [1] Chevalier 1988 | Table 3, p. 4, row 1; `ORC-EG6UX6VHPN` |  |
+| 365.65 | L+bct(α)\<->fct(α1) | L: In 0.837 | experimental | [1] Chevalier 1988; _cites ref. 7_ | Table 3, p. 4, row 16; `ORC-QTOH3UZ3LY` |  |
+| 364.02 | L+bct(α)\<->fct(α1) | L: In 0.829 | model | [1] Chevalier 1988 | Table 3, p. 4, row 15; `ORC-N2A3GKHCLR` |  |
+| 363 | congruent melting: BiIn2(δ)=L | BiIn2(δ): In 0.666; L: In 0.666 | experimental | [1] Chevalier 1988; _cites ref. 7_ | Table 3, p. 4, row 10; `ORC-PPS4SKL6HB` |  |
+| 362.15 | L=BiIn(β)+Bi3In5(γ) | L: In 0.61; BiIn(β): Bi 0.5, In 0.5; Bi3In5(γ): Bi 0.375, In 0.625 | experimental | [1] Chevalier 1988; _cites ref. 5_ | Table 3, p. 4, row 5; `ORC-PJJIEVLZTP` |  |
+| 361.84 | L+BiIn(β)=Bi3In5(γ) | L: In 0.65; BiIn(β): Bi 0.5, In 0.5; Bi3In5(γ): Bi 0.375, In 0.625 | model | [1] Chevalier 1988 | Table 3, p. 4, row 6; `ORC-6QB3QLSKBA` |  |
+| 361 | L=Bi3In5(γ)+BiIn2(δ) | L: In 0.65; Bi3In5(γ): Bi 0.375, In 0.625; BiIn2(δ): Bi 0.333333, In 0.666667 | experimental | [1] Chevalier 1988; _cites ref. 5_ | Table 3, p. 4, row 8; `ORC-2B6I2MLXVL` |  |
+| 360.95 | congruent melting: BiIn2(δ)=L | BiIn2(δ): In 0.666; L: In 0.666 | model | [1] Chevalier 1988 | Table 3, p. 4, row 9; `ORC-DIAUCIEVL2` |  |
+| 360.9 | L=Bi3In5(γ)+BiIn2(δ) | L: In 0.663; Bi3In5(γ): Bi 0.375, In 0.625; BiIn2(δ): Bi 0.333333, In 0.666667 | model | [1] Chevalier 1988 | Table 3, p. 4, row 7; `ORC-NTD6GVDSDY` |  |
+| 345.15 | BiIn2(δ)+fct(α1)=L | BiIn2(δ): Bi 0.333333, In 0.666667; L: In 0.784; α1: In 0.878 | experimental | [1] Chevalier 1988; _cites ref. 7_ | Table 3, p. 4, row 12; `ORC-DVGH7KAK6O` |  |
+| 343.62 | BiIn2(δ)+fct(α1)=L | BiIn2(δ): Bi 0.333333, In 0.666667; L: In 0.784; α1: In 0.872 | model | [1] Chevalier 1988 | Table 3, p. 4, row 11; `ORC-HXTVBPNULK` |  |
+| 343.15 | eutectic: liquid „ (Bi)‡hcp‡ InBi |  | model | [2] Boa 1998; _cites Stel'makh 1974_ | p. 2; `ORC-LSDP5ZJSRZ` | “Bushanov et al. \[8\] determined the composition of the ternary eutectic at 343.15 K (liquid  (Bi)hcp InBi) by describing the liquidus surfaces based on Stel'makh et al. \[4,5\] data, by polynomials of different order using a simplex grid planning.” |
+| 322.15 | BiIn2(δ)+bct(α)=fct(α1) | BiIn2(δ): Bi 0.333333, In 0.666667 | experimental | [1] Chevalier 1988; _cites ref. 7_ | Table 3, p. 4, row 14; `ORC-RCLLVYU76O` |  |
+| 319.52 | BiIn2(δ)+bct(α)=fct(α1) | BiIn2(δ): Bi 0.333333, In 0.666667 | model | [1] Chevalier 1988 | Table 3, p. 4, row 13; `ORC-D4ZI4M7ZCZ` |  |
 
 ## Formation enthalpies
 
@@ -112,7 +112,7 @@ Table: Enthalpies of formation, Bi–In system (1)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | -502 unspecified ± 42 | 273 | experimental |  |  | [1] Chevalier 1988; _cites ref. 1141_ | p. 2 | “The heats of formation have been measured by calorimetry by Robinson and Bever 1141 -T=273K ; AH(B)=-753+42 J/g.at ; AH(6) =-502+42 J/g.at-, Boom et al. ; AH(v)=-16952226 J/g.at-; AH(6)=-456? 1151 -T=273K ; AH(B)= -2975 ?251 J/g.at )=-732+63 J/g.at ; AH(y )=-544t63 J/g. 230 J/g.at-, and Singh 1161 -T=273K ; AHH(B at ; AH( 6)=-481?63 J/g.at-.” |
+| — |  | -502 unspecified ± 42 | 273 | experimental |  |  | [1] Chevalier 1988; _cites ref. 1141_ | p. 2; `ORC-LHINNBMUPT.ac0d83` | “The heats of formation have been measured by calorimetry by Robinson and Bever 1141 -T=273K ; AH(B)=-753+42 J/g.at ; AH(6) =-502+42 J/g.at-, Boom et al. ; AH(v)=-16952226 J/g.at-; AH(6)=-456? 1151 -T=273K ; AH(B)= -2975 ?251 J/g.at )=-732+63 J/g.at ; AH(y )=-544t63 J/g. 230 J/g.at-, and Singh 1161 -T=273K ; AHH(B at ; AH( 6)=-481?63 J/g.at-.” |
 
 ## Other properties
 
@@ -122,8 +122,8 @@ Table: Phase transition, Bi–In system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 362.65 K | 362.65 | congruent transformation | model | [2] Boa 1998; _cites Ansara 1986_ | p. 1 | “BiIn, BiIn2 are congruent melting compounds, the corresponding temperatures of fusion being 383.15 and 362.65 K, respectively.” |
-| Phase transition | 383.15 K | 383.15 | congruent transformation | model | [2] Boa 1998; _cites Ansara 1986_ | p. 1 | “BiIn, BiIn2 are congruent melting compounds, the corresponding temperatures of fusion being 383.15 and 362.65 K, respectively.” |
+| Phase transition | 362.65 K | 362.65 | congruent transformation | model | [2] Boa 1998; _cites Ansara 1986_ | p. 1; `ORC-63L5VUNU7Y.ec203b` | “BiIn, BiIn2 are congruent melting compounds, the corresponding temperatures of fusion being 383.15 and 362.65 K, respectively.” |
+| Phase transition | 383.15 K | 383.15 | congruent transformation | model | [2] Boa 1998; _cites Ansara 1986_ | p. 1; `ORC-63L5VUNU7Y.760d6d` | “BiIn, BiIn2 are congruent melting compounds, the corresponding temperatures of fusion being 383.15 and 362.65 K, respectively.” |
 
 ### Model expression (1)
 
@@ -131,7 +131,7 @@ Table: Model expression, Bi–In system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| hm form expression term; _printed: AH(B)_ | -753 unspecified ± 42 |  |  | experimental | [1] Chevalier 1988; _cites ref. 1141_ | p. 2 | “The heats of formation have been measured by calorimetry by Robinson and Bever 1141 -T=273K ; AH(B)=-753+42 J/g.at ; AH(6) =-502+42 J/g.at-, Boom et al. ; AH(v)=-16952226 J/g.at-; AH(6)=-456? 1151 -T=273K ; AH(B)= -2975 ?251 J/g.at )=-732+63 J/g.at ; AH(y )=-544t63 J/g. 230 J/g.at-, and Singh 1161 -T=273K ; AHH(B at ; AH( 6)=-481?63 J/g.at-.” |
+| hm form expression term; _printed: AH(B)_ | -753 unspecified ± 42 |  |  | experimental | [1] Chevalier 1988; _cites ref. 1141_ | p. 2; `ORC-LHINNBMUPT.37ac3d` | “The heats of formation have been measured by calorimetry by Robinson and Bever 1141 -T=273K ; AH(B)=-753+42 J/g.at ; AH(6) =-502+42 J/g.at-, Boom et al. ; AH(v)=-16952226 J/g.at-; AH(6)=-456? 1151 -T=273K ; AH(B)= -2975 ?251 J/g.at )=-732+63 J/g.at ; AH(y )=-544t63 J/g. 230 J/g.at-, and Singh 1161 -T=273K ; AHH(B at ; AH( 6)=-481?63 J/g.at-.” |
 
 ## Sources
 
@@ -197,4 +197,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

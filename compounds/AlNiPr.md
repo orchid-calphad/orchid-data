@@ -14,11 +14,11 @@ Table: Enthalpy of formation of AlNiPr reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -56 kJ/mol-atom ± 3 | NiAlPr | 300 | experimental |  | [Al–Ni–Pr](https://data.orchid-project.org/systems/AL-NI-PR.html) | [1] Liao 2019; _cites Borzone 2003_ | Table 4, p. 6, row 21 |  |
-| -66.97 kJ/mol-atom | NiAlPr |  | model |  | [Al–Ni–Pr](https://data.orchid-project.org/systems/AL-NI-PR.html) | [1] Liao 2019 | Table 4, p. 6, row 22 |  |
-| -62.07 kJ/mol-atom | NiAlPr |  | model |  | [Al–Ni–Pr](https://data.orchid-project.org/systems/AL-NI-PR.html) | [1] Liao 2019 | Table 4, p. 6, row 25 |  |
-| -47.6 kJ/mol-atom | NiAlPr |  | DFT |  | [Al–Ni–Pr](https://data.orchid-project.org/systems/AL-NI-PR.html) | [1] Liao 2019; _cites Kirklin 2015_ | Table 4, p. 6, row 23 |  |
-| -46.54 kJ/mol-atom | NiAlPr |  | DFT |  | [Al–Ni–Pr](https://data.orchid-project.org/systems/AL-NI-PR.html) | [1] Liao 2019; _cites Jain 2013_ | Table 4, p. 6, row 24 |  |
+| -56 kJ/mol-atom ± 3 | NiAlPr | 300 | experimental |  | [Al–Ni–Pr](https://data.orchid-project.org/systems/AL-NI-PR.html) | [1] Liao 2019; _cites Borzone 2003_ | Table 4, p. 6, row 21; `ORC-6FDZV64ILN.5080eb` |  |
+| -66.97 kJ/mol-atom | NiAlPr |  | model |  | [Al–Ni–Pr](https://data.orchid-project.org/systems/AL-NI-PR.html) | [1] Liao 2019 | Table 4, p. 6, row 22; `ORC-LX55FPX3UB` |  |
+| -62.07 kJ/mol-atom | NiAlPr |  | model |  | [Al–Ni–Pr](https://data.orchid-project.org/systems/AL-NI-PR.html) | [1] Liao 2019 | Table 4, p. 6, row 25; `ORC-TJIGRAE3UR` |  |
+| -47.6 kJ/mol-atom | NiAlPr |  | DFT |  | [Al–Ni–Pr](https://data.orchid-project.org/systems/AL-NI-PR.html) | [1] Liao 2019; _cites Kirklin 2015_ | Table 4, p. 6, row 23; `ORC-O26DKNIH2Y` |  |
+| -46.54 kJ/mol-atom | NiAlPr |  | DFT |  | [Al–Ni–Pr](https://data.orchid-project.org/systems/AL-NI-PR.html) | [1] Liao 2019; _cites Jain 2013_ | Table 4, p. 6, row 24; `ORC-ZKV4HLBZE6` |  |
 
 ### Uncertainty budget
 
@@ -85,4 +85,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

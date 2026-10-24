@@ -27,15 +27,15 @@ Table: Invariant reactions reported in the literature for the Al–Fe–P system
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1480.15 | eutectic: L = Fe2P + FeP + AlP | L: P 0.3765 | model | [1] Miettinen 2015 | Table 5, p. 9, row 1 |  |
-| 1414.15 | quasi-peritectic: L + Al5Fe2 = Al13Fe4 + AlP | L: P 0.016 | model | [1] Miettinen 2015 | Table 5, p. 9, row 2 |  |
-| 1405.15 | quasi-peritectic: L + Al5Fe2 = Al2Fe + AlP | L: P 0.0352 | model | [1] Miettinen 2015 | Table 5, p. 9, row 3 |  |
-| 1393.15 | quasi-peritectic: L + Al2Fe = Al5Fe4 + AlP | L: P 0.0517 | model | [1] Miettinen 2015 | Table 5, p. 9, row 4 |  |
-| 1385.15 | quasi-peritectic: L + Al5Fe4 = bcc + AlP | L: P 0.0679 | model | [1] Miettinen 2015 | Table 5, p. 9, row 5 |  |
-| 1306.15 | quasi-peritectic: L + Fe3P = bcc + Fe2P | L: P 0.1827 | model | [1] Miettinen 2015 | Table 5, p. 9, row 6 |  |
-| 1293.15 | quasi-peritectic: L + Fe3P = bcc + Fe2P | L: P 0.183 | experimental | [1] Miettinen 2015; _cites Vogel 1952_ [doi](https://doi.org/10.1002/srin.195200953) | Table 5, p. 9, row 7 |  |
-| 1269.15 | eutectic: L = bcc + AlP + Fe2P | L: P 0.1751 | model | [1] Miettinen 2015 | Table 5, p. 9, row 8 |  |
-| 1268.15 | eutectic: L = bcc + AlP + Fe2P | L: P 0.169 | experimental | [1] Miettinen 2015; _cites Vogel 1952_ [doi](https://doi.org/10.1002/srin.195200953) | Table 5, p. 9, row 9 |  |
+| 1480.15 | eutectic: L = Fe2P + FeP + AlP | L: P 0.3765 | model | [1] Miettinen 2015 | Table 5, p. 9, row 1; `ORC-EWH2YPN64E` |  |
+| 1414.15 | quasi-peritectic: L + Al5Fe2 = Al13Fe4 + AlP | L: P 0.016 | model | [1] Miettinen 2015 | Table 5, p. 9, row 2; `ORC-STNEKQSGTI` |  |
+| 1405.15 | quasi-peritectic: L + Al5Fe2 = Al2Fe + AlP | L: P 0.0352 | model | [1] Miettinen 2015 | Table 5, p. 9, row 3; `ORC-GWEUF4SNIX` |  |
+| 1393.15 | quasi-peritectic: L + Al2Fe = Al5Fe4 + AlP | L: P 0.0517 | model | [1] Miettinen 2015 | Table 5, p. 9, row 4; `ORC-WLYYLISYQ6` |  |
+| 1385.15 | quasi-peritectic: L + Al5Fe4 = bcc + AlP | L: P 0.0679 | model | [1] Miettinen 2015 | Table 5, p. 9, row 5; `ORC-FRROU5R7R2` |  |
+| 1306.15 | quasi-peritectic: L + Fe3P = bcc + Fe2P | L: P 0.1827 | model | [1] Miettinen 2015 | Table 5, p. 9, row 6; `ORC-MT4STLG5Q2` |  |
+| 1293.15 | quasi-peritectic: L + Fe3P = bcc + Fe2P | L: P 0.183 | experimental | [1] Miettinen 2015; _cites Vogel 1952_ [doi](https://doi.org/10.1002/srin.195200953) | Table 5, p. 9, row 7; `ORC-VPKQKGXX5V` |  |
+| 1269.15 | eutectic: L = bcc + AlP + Fe2P | L: P 0.1751 | model | [1] Miettinen 2015 | Table 5, p. 9, row 8; `ORC-7MV6KD4AQS` |  |
+| 1268.15 | eutectic: L = bcc + AlP + Fe2P | L: P 0.169 | experimental | [1] Miettinen 2015; _cites Vogel 1952_ [doi](https://doi.org/10.1002/srin.195200953) | Table 5, p. 9, row 9; `ORC-FX4XP7YZRJ` |  |
 
 ## Sources
 
@@ -78,4 +78,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

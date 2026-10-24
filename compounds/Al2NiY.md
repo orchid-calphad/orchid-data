@@ -14,9 +14,9 @@ Table: Enthalpy of formation of Al2NiY reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -62.8 kJ/mol-atom ± 2.3 | τ7 NiAl2Y | 298.15 | experimental |  | [Al–Ni–Y](https://data.orchid-project.org/systems/AL-NI-Y.html) | [1] Huang 2015; _cites ref. 27_ | Table 3, p. 4, row 16 |  |
-| -65.6 kJ/mol-atom | τ7 NiAl2Y |  | model |  | [Al–Ni–Y](https://data.orchid-project.org/systems/AL-NI-Y.html) | [1] Huang 2015; _cites ref. 25_ | Table 3, p. 4, row 17 |  |
-| -64.3 kJ/mol-atom | τ7 NiAl2Y |  | model |  | [Al–Ni–Y](https://data.orchid-project.org/systems/AL-NI-Y.html) | [1] Huang 2015 | Table 3, p. 4, row 15 |  |
+| -62.8 kJ/mol-atom ± 2.3 | τ7 NiAl2Y | 298.15 | experimental |  | [Al–Ni–Y](https://data.orchid-project.org/systems/AL-NI-Y.html) | [1] Huang 2015; _cites ref. 27_ | Table 3, p. 4, row 16; `ORC-BCJLH5QZP3.d8e17e` |  |
+| -65.6 kJ/mol-atom | τ7 NiAl2Y |  | model |  | [Al–Ni–Y](https://data.orchid-project.org/systems/AL-NI-Y.html) | [1] Huang 2015; _cites ref. 25_ | Table 3, p. 4, row 17; `ORC-3F36TJWVZM.d90e70` |  |
+| -64.3 kJ/mol-atom | τ7 NiAl2Y |  | model |  | [Al–Ni–Y](https://data.orchid-project.org/systems/AL-NI-Y.html) | [1] Huang 2015 | Table 3, p. 4, row 15; `ORC-O77PPQNUJY.f7e85c` |  |
 
 ### Uncertainty budget
 
@@ -81,4 +81,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

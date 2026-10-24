@@ -61,28 +61,28 @@ Table: Invariant reactions reported in the literature for the Cd–Sb system (22
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 728.15 | eutectic: L -> CdSb + (Sb) | L: Sb 0.58; CdSb: Sb 0.5; (Sb): Sb 1 | experimental | [1] Zabdyr 1993; _cites ref. 1_ | Table 1, p. 2, row 18 |  |
-| 726.15 | eutectic: L -> CdSb + (Sb) | L: Sb 0.56; CdSb: Sb 0.5; (Sb): Sb 1 | experimental | [1] Zabdyr 1993; _cites ref. 11_ | Table 1, p. 2, row 22 |  |
-| 724.73 | L \<-> ω-CdSb + (Sb) | L: Sb 0.5937; ω-CdSb: Sb 0.5101; (Sb): Sb 1 | model | [2] Liu 2009 | Table 5, p. 5, row 6 |  |
-| 723.15 | eutectic: L -> CdSb + (Sb) | L: Sb 0.57; CdSb: Sb 0.5; (Sb): Sb 1 | experimental | [1] Zabdyr 1993; _cites ref. 12_ | Table 1, p. 2, row 23 |  |
-| 723.15 | eutectic: L -> CdSb + (Sb) | L: Sb 0.5873; CdSb: Sb 0.5; (Sb): Sb 1 | model | [1] Zabdyr 1993 | Table 1, p. 2, row 25 |  |
-| 723 | L \<-> ω-CdSb + (Sb) | L: Sb 0.5873; ω-CdSb: Sb 0.5; (Sb): Sb 1 | unspecified | [2] Liu 2009; _cites Zabdyr 1993_ [doi](https://doi.org/10.1016/0364-5916%2893%2990005-v) | Table 5, p. 5, row 4 |  |
-| 723 | L \<-> ω-CdSb + (Sb) | ω-CdSb: Sb 0.5; (Sb): Sb 1 | experimental | [2] Liu 2009; _cites Record 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900157-2) | Table 5, p. 5, row 5 |  |
-| 721.15 | eutectic: L -> CdSb + (Sb) | L: Sb 0.589; CdSb: Sb 0.5; (Sb): Sb 1 | model | [1] Zabdyr 1993 | Table 1, p. 2, row 24 |  |
-| 719.15 | eutectic: L -> CdSb + (Sb) | L: Sb 0.589; CdSb: Sb 0.5; (Sb): Sb 1 | experimental | [1] Zabdyr 1993; _cites ref. 9_ | Table 1, p. 2, row 20 |  |
-| 718.15 | eutectic: L -> CdSb + (Sb) | L: Sb 0.57; CdSb: Sb 0.5; (Sb): Sb 0.9985 | experimental | [1] Zabdyr 1993; _cites ref. 10_ | Table 1, p. 2, row 21 |  |
-| 718.15 | eutectic: L -> CdSb + (Sb) | L: Sb 0.58; CdSb: Sb 0.5; (Sb): Sb 1 | experimental | [1] Zabdyr 1993; _cites ref. 2_ | Table 1, p. 2, row 19 |  |
-| 567.74 | L \<-> (Cd) + ω-CdSb | L: Sb 0.085; (Cd): Sb 0.0052; ω-CdSb: Sb 0.5004 | model | [2] Liu 2009 | Table 5, p. 5, row 9 |  |
-| 566.65 | eutectic: L -> (Cd) + CdSb | L: Sb 0.0711; (Cd): Sb 0; CdSb: Sb 0.5 | experimental | [1] Zabdyr 1993; _cites ref. 11_ | Table 1, p. 2, row 6 |  |
-| 566.15 | eutectic: L -> (Cd) + CdSb | L: Sb 0.0791; (Cd): Sb 0; CdSb: Sb 0.5 | model | [1] Zabdyr 1993 | Table 1, p. 2, row 8 |  |
-| 566 | L \<-> (Cd) + ω-CdSb | ω-CdSb: Sb 0.5 | experimental | [2] Liu 2009; _cites Record 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900157-2) | Table 5, p. 5, row 8 |  |
-| 565.15 | eutectic: L -> (Cd) + CdSb | L: Sb 0.0698; (Cd): Sb 0; CdSb: Sb 0.5 | model | [1] Zabdyr 1993 | Table 1, p. 2, row 9 |  |
-| 565.15 | eutectic: L -> (Cd) + CdSb | L: Sb 0.07; (Cd): Sb 0; CdSb: Sb 0.5 | experimental | [1] Zabdyr 1993; _cites ref. 12_ | Table 1, p. 2, row 7 |  |
-| 565.15 | eutectic: L -> (Cd) + CdSb | L: Sb 0.074; (Cd): Sb 0; CdSb: Sb 0.5 | experimental | [1] Zabdyr 1993; _cites ref. 1_ | Table 1, p. 2, row 2 |  |
-| 565.15 | eutectic: L -> (Cd) + CdSb | L: Sb 0.07; (Cd): Sb 0; CdSb: Sb 0.5 | experimental | [1] Zabdyr 1993; _cites ref. 9_ | Table 1, p. 2, row 4 |  |
-| 565 | L \<-> (Cd) + ω-CdSb | L: Sb 0.0698; (Cd): Sb 0; ω-CdSb: Sb 0.5 | unspecified | [2] Liu 2009; _cites Zabdyr 1993_ [doi](https://doi.org/10.1016/0364-5916%2893%2990005-v) | Table 5, p. 5, row 7 |  |
-| 563.15 | eutectic: L -> (Cd) + CdSb | L: Sb 0.07; (Cd): Sb 0; CdSb: Sb 0.5 | experimental | [1] Zabdyr 1993; _cites ref. 2_ | Table 1, p. 2, row 3 |  |
-| 563.15 | eutectic: L -> (Cd) + CdSb | L: Sb 0.07; (Cd): Sb 0; CdSb: Sb 0.5 | experimental | [1] Zabdyr 1993; _cites ref. 10_ | Table 1, p. 2, row 5 |  |
+| 728.15 | eutectic: L -> CdSb + (Sb) | L: Sb 0.58; CdSb: Sb 0.5; (Sb): Sb 1 | experimental | [1] Zabdyr 1993; _cites ref. 1_ | Table 1, p. 2, row 18; `ORC-N6UBMA4OTZ` |  |
+| 726.15 | eutectic: L -> CdSb + (Sb) | L: Sb 0.56; CdSb: Sb 0.5; (Sb): Sb 1 | experimental | [1] Zabdyr 1993; _cites ref. 11_ | Table 1, p. 2, row 22; `ORC-WETSRAUZUA` |  |
+| 724.73 | L \<-> ω-CdSb + (Sb) | L: Sb 0.5937; ω-CdSb: Sb 0.5101; (Sb): Sb 1 | model | [2] Liu 2009 | Table 5, p. 5, row 6; `ORC-JSHD6PULWF` |  |
+| 723.15 | eutectic: L -> CdSb + (Sb) | L: Sb 0.57; CdSb: Sb 0.5; (Sb): Sb 1 | experimental | [1] Zabdyr 1993; _cites ref. 12_ | Table 1, p. 2, row 23; `ORC-3BB7FQFXRU` |  |
+| 723.15 | eutectic: L -> CdSb + (Sb) | L: Sb 0.5873; CdSb: Sb 0.5; (Sb): Sb 1 | model | [1] Zabdyr 1993 | Table 1, p. 2, row 25; `ORC-4D7SUMPAL4` |  |
+| 723 | L \<-> ω-CdSb + (Sb) | L: Sb 0.5873; ω-CdSb: Sb 0.5; (Sb): Sb 1 | unspecified | [2] Liu 2009; _cites Zabdyr 1993_ [doi](https://doi.org/10.1016/0364-5916%2893%2990005-v) | Table 5, p. 5, row 4; `ORC-U26DBLE3BE` |  |
+| 723 | L \<-> ω-CdSb + (Sb) | ω-CdSb: Sb 0.5; (Sb): Sb 1 | experimental | [2] Liu 2009; _cites Record 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900157-2) | Table 5, p. 5, row 5; `ORC-UWLQ7VU7XS` |  |
+| 721.15 | eutectic: L -> CdSb + (Sb) | L: Sb 0.589; CdSb: Sb 0.5; (Sb): Sb 1 | model | [1] Zabdyr 1993 | Table 1, p. 2, row 24; `ORC-X5HJJHT6SI` |  |
+| 719.15 | eutectic: L -> CdSb + (Sb) | L: Sb 0.589; CdSb: Sb 0.5; (Sb): Sb 1 | experimental | [1] Zabdyr 1993; _cites ref. 9_ | Table 1, p. 2, row 20; `ORC-T7BJZ2KB6X` |  |
+| 718.15 | eutectic: L -> CdSb + (Sb) | L: Sb 0.57; CdSb: Sb 0.5; (Sb): Sb 0.9985 | experimental | [1] Zabdyr 1993; _cites ref. 10_ | Table 1, p. 2, row 21; `ORC-224FEW55PK` |  |
+| 718.15 | eutectic: L -> CdSb + (Sb) | L: Sb 0.58; CdSb: Sb 0.5; (Sb): Sb 1 | experimental | [1] Zabdyr 1993; _cites ref. 2_ | Table 1, p. 2, row 19; `ORC-MAR5CH27OP` |  |
+| 567.74 | L \<-> (Cd) + ω-CdSb | L: Sb 0.085; (Cd): Sb 0.0052; ω-CdSb: Sb 0.5004 | model | [2] Liu 2009 | Table 5, p. 5, row 9; `ORC-JK7DMSM6FO` |  |
+| 566.65 | eutectic: L -> (Cd) + CdSb | L: Sb 0.0711; (Cd): Sb 0; CdSb: Sb 0.5 | experimental | [1] Zabdyr 1993; _cites ref. 11_ | Table 1, p. 2, row 6; `ORC-KINSOYQB5I` |  |
+| 566.15 | eutectic: L -> (Cd) + CdSb | L: Sb 0.0791; (Cd): Sb 0; CdSb: Sb 0.5 | model | [1] Zabdyr 1993 | Table 1, p. 2, row 8; `ORC-6ZMGXXCL3Z` |  |
+| 566 | L \<-> (Cd) + ω-CdSb | ω-CdSb: Sb 0.5 | experimental | [2] Liu 2009; _cites Record 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900157-2) | Table 5, p. 5, row 8; `ORC-P2UL3RZSVP` |  |
+| 565.15 | eutectic: L -> (Cd) + CdSb | L: Sb 0.0698; (Cd): Sb 0; CdSb: Sb 0.5 | model | [1] Zabdyr 1993 | Table 1, p. 2, row 9; `ORC-EKBXY5RCVV` |  |
+| 565.15 | eutectic: L -> (Cd) + CdSb | L: Sb 0.07; (Cd): Sb 0; CdSb: Sb 0.5 | experimental | [1] Zabdyr 1993; _cites ref. 12_ | Table 1, p. 2, row 7; `ORC-NYS2NNBHLT` |  |
+| 565.15 | eutectic: L -> (Cd) + CdSb | L: Sb 0.074; (Cd): Sb 0; CdSb: Sb 0.5 | experimental | [1] Zabdyr 1993; _cites ref. 1_ | Table 1, p. 2, row 2; `ORC-OSRRXNTDNO` |  |
+| 565.15 | eutectic: L -> (Cd) + CdSb | L: Sb 0.07; (Cd): Sb 0; CdSb: Sb 0.5 | experimental | [1] Zabdyr 1993; _cites ref. 9_ | Table 1, p. 2, row 4; `ORC-RNNPVRYIEB` |  |
+| 565 | L \<-> (Cd) + ω-CdSb | L: Sb 0.0698; (Cd): Sb 0; ω-CdSb: Sb 0.5 | unspecified | [2] Liu 2009; _cites Zabdyr 1993_ [doi](https://doi.org/10.1016/0364-5916%2893%2990005-v) | Table 5, p. 5, row 7; `ORC-4QE4V5RATG` |  |
+| 563.15 | eutectic: L -> (Cd) + CdSb | L: Sb 0.07; (Cd): Sb 0; CdSb: Sb 0.5 | experimental | [1] Zabdyr 1993; _cites ref. 2_ | Table 1, p. 2, row 3; `ORC-5FLW3C2447` |  |
+| 563.15 | eutectic: L -> (Cd) + CdSb | L: Sb 0.07; (Cd): Sb 0; CdSb: Sb 0.5 | experimental | [1] Zabdyr 1993; _cites ref. 10_ | Table 1, p. 2, row 5; `ORC-B6TEHIRD5C` |  |
 
 ## Other properties
 
@@ -92,25 +92,25 @@ Table: Phase transition, Cd–Sb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 594.11 K | 594.11 | congruent melting: L \<-> (Cd); _L: Sb 0; (Cd): Sb 0_ | experimental | [2] Liu 2009; _cites Adjadj 2007_ [doi](https://doi.org/10.1016/j.jallcom.2006.04.051) | Table 5, p. 5, row 10 |  |
-| Phase transition | 594.258 K | 594.258 | congruent melting: L -> (Cd); _(Cd): Sb 0_ | experimental | [1] Zabdyr 1993; _cites ref. 37_ | Table 1, p. 2, row 1 |  |
-| Phase transition | 670 K | 670 |  | model | [3] Zabdyr 1997 | p. 6 | “Calculated melting points of the metastable phases: Cd,Sb, and Cd,Sb, are 670 K and 688 K, respectively, whereas stable CdSb melts at 729 K.” |
-| Phase transition | 670 K | 670 | congruent transformation | model | [2] Liu 2009; _cites Zabdyr 1997_ [doi](https://doi.org/10.1016/s0364-5916%2897%2900036-9) | p. 2 | “In the calculated metastable phase diagram, the congruent melting points for Cd3 Sb2 and Cd4 Sb3 are 670 K and 688 K respectively.” |
-| Phase transition | 688 K | 688 |  | model | [3] Zabdyr 1997 | p. 6 | “Calculated melting points of the metastable phases: Cd,Sb, and Cd,Sb, are 670 K and 688 K, respectively, whereas stable CdSb melts at 729 K.” |
-| Phase transition | 688 K | 688 | congruent transformation | model | [2] Liu 2009; _cites Zabdyr 1997_ [doi](https://doi.org/10.1016/s0364-5916%2897%2900036-9) | p. 2 | “In the calculated metastable phase diagram, the congruent melting points for Cd3 Sb2 and Cd4 Sb3 are 670 K and 688 K respectively.” |
-| Phase transition | 693.15 K | 693.15 | congruent melting: Cd4Sb3 = liquid | experimental | [1] Zabdyr 1993; _cites ref. 16_ | p. 3 | “The medium superheating (over 5OOOC) cauges the crystallization of Cd4Sb3 congruent phase with melting point at 420 C.” |
-| Phase transition | 728.15 K | 728.15 | congruent melting: L -> CdSb; _L: Sb 0.5; CdSb: Sb 0.5_ | experimental | [1] Zabdyr 1993; _cites ref. 2_ | Table 1, p. 2, row 11 |  |
-| Phase transition | 729 K | 729 |  | model | [3] Zabdyr 1997 | p. 6 | “Calculated melting points of the metastable phases: Cd,Sb, and Cd,Sb, are 670 K and 688 K, respectively, whereas stable CdSb melts at 729 K.” |
-| Phase transition | 729.15 K | 729.15 | congruent melting: L -> CdSb; _L: Sb 0.5; CdSb: Sb 0.5_ | model | [1] Zabdyr 1993 | Table 1, p. 2, row 16 |  |
-| Phase transition | 729.15 K | 729.15 | congruent melting: L -> CdSb; _L: Sb 0.5; CdSb: Sb 0.5_ | experimental | [1] Zabdyr 1993; _cites ref. 10_ | Table 1, p. 2, row 13 |  |
-| Phase transition | 730 K | 730 | L \<-> ω-CdSb; _L: Sb 0.5; ω-CdSb: Sb 0.5_ | experimental | [2] Liu 2009; _cites Record 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900157-2) | Table 5, p. 5, row 2 |  |
-| Phase transition | 730.15 K | 730.15 | congruent melting: L -> CdSb; _L: Sb 0.5; CdSb: Sb 0.5_ | model | [1] Zabdyr 1993 | Table 1, p. 2, row 17 |  |
-| Phase transition | 731.15 K | 731.15 | congruent melting: L -> CdSb; _L: Sb 0.5; CdSb: Sb 0.5_ | experimental | [1] Zabdyr 1993; _cites ref. 9_ | Table 1, p. 2, row 12 |  |
-| Phase transition | 731.15 K | 731.15 | congruent melting: L -> CdSb; _L: Sb 0.5; CdSb: Sb 0.5_ | experimental | [1] Zabdyr 1993; _cites ref. 12_ | Table 1, p. 2, row 15 |  |
-| Phase transition | 732.15 K | 732.15 | congruent melting: L -> CdSb; _L: Sb 0.5; CdSb: Sb 0.5_ | experimental | [1] Zabdyr 1993; _cites ref. 11_ | Table 1, p. 2, row 14 |  |
-| Phase transition | 732.23 K | 732.23 | L \<-> ω-CdSb; _L: Sb 0.5; ω-CdSb: Sb 0.5_ | model | [2] Liu 2009 | Table 5, p. 5, row 3 |  |
-| Phase transition | 738.15 K | 738.15 | congruent melting: L -> CdSb; _L: Sb 0.5; CdSb: Sb 0.5_ | experimental | [1] Zabdyr 1993; _cites ref. 1_ | Table 1, p. 2, row 10 |  |
-| Phase transition | 903.905 K | 903.905 | congruent melting: L -> (Sb); _(Sb): Sb 1_ | experimental | [1] Zabdyr 1993; _cites ref. 37_ | Table 1, p. 2, row 26 |  |
+| Phase transition | 594.11 K | 594.11 | congruent melting: L \<-> (Cd); _L: Sb 0; (Cd): Sb 0_ | experimental | [2] Liu 2009; _cites Adjadj 2007_ [doi](https://doi.org/10.1016/j.jallcom.2006.04.051) | Table 5, p. 5, row 10; `ORC-CRGDCOTEG4` |  |
+| Phase transition | 594.258 K | 594.258 | congruent melting: L -> (Cd); _(Cd): Sb 0_ | experimental | [1] Zabdyr 1993; _cites ref. 37_ | Table 1, p. 2, row 1; `ORC-VJ3PJWIZJQ` |  |
+| Phase transition | 670 K | 670 |  | model | [3] Zabdyr 1997 | p. 6; `ORC-3QXVS2ZWV6.cd8ecf` | “Calculated melting points of the metastable phases: Cd,Sb, and Cd,Sb, are 670 K and 688 K, respectively, whereas stable CdSb melts at 729 K.” |
+| Phase transition | 670 K | 670 | congruent transformation | model | [2] Liu 2009; _cites Zabdyr 1997_ [doi](https://doi.org/10.1016/s0364-5916%2897%2900036-9) | p. 2; `ORC-DHJJBEP3BV.ab3e01` | “In the calculated metastable phase diagram, the congruent melting points for Cd3 Sb2 and Cd4 Sb3 are 670 K and 688 K respectively.” |
+| Phase transition | 688 K | 688 |  | model | [3] Zabdyr 1997 | p. 6; `ORC-3QXVS2ZWV6.b8ad6c` | “Calculated melting points of the metastable phases: Cd,Sb, and Cd,Sb, are 670 K and 688 K, respectively, whereas stable CdSb melts at 729 K.” |
+| Phase transition | 688 K | 688 | congruent transformation | model | [2] Liu 2009; _cites Zabdyr 1997_ [doi](https://doi.org/10.1016/s0364-5916%2897%2900036-9) | p. 2; `ORC-DHJJBEP3BV.1cb41f` | “In the calculated metastable phase diagram, the congruent melting points for Cd3 Sb2 and Cd4 Sb3 are 670 K and 688 K respectively.” |
+| Phase transition | 693.15 K | 693.15 | congruent melting: Cd4Sb3 = liquid | experimental | [1] Zabdyr 1993; _cites ref. 16_ | p. 3; `ORC-IBAJ4NCHDT` | “The medium superheating (over 5OOOC) cauges the crystallization of Cd4Sb3 congruent phase with melting point at 420 C.” |
+| Phase transition | 728.15 K | 728.15 | congruent melting: L -> CdSb; _L: Sb 0.5; CdSb: Sb 0.5_ | experimental | [1] Zabdyr 1993; _cites ref. 2_ | Table 1, p. 2, row 11; `ORC-UQDWUV2HWB` |  |
+| Phase transition | 729 K | 729 |  | model | [3] Zabdyr 1997 | p. 6; `ORC-3QXVS2ZWV6.c9328d` | “Calculated melting points of the metastable phases: Cd,Sb, and Cd,Sb, are 670 K and 688 K, respectively, whereas stable CdSb melts at 729 K.” |
+| Phase transition | 729.15 K | 729.15 | congruent melting: L -> CdSb; _L: Sb 0.5; CdSb: Sb 0.5_ | model | [1] Zabdyr 1993 | Table 1, p. 2, row 16; `ORC-25BWOISZL3` |  |
+| Phase transition | 729.15 K | 729.15 | congruent melting: L -> CdSb; _L: Sb 0.5; CdSb: Sb 0.5_ | experimental | [1] Zabdyr 1993; _cites ref. 10_ | Table 1, p. 2, row 13; `ORC-LNZTXOUTF3` |  |
+| Phase transition | 730 K | 730 | L \<-> ω-CdSb; _L: Sb 0.5; ω-CdSb: Sb 0.5_ | experimental | [2] Liu 2009; _cites Record 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900157-2) | Table 5, p. 5, row 2; `ORC-MKVIEMB2TH` |  |
+| Phase transition | 730.15 K | 730.15 | congruent melting: L -> CdSb; _L: Sb 0.5; CdSb: Sb 0.5_ | model | [1] Zabdyr 1993 | Table 1, p. 2, row 17; `ORC-ZAI6NCYUES` |  |
+| Phase transition | 731.15 K | 731.15 | congruent melting: L -> CdSb; _L: Sb 0.5; CdSb: Sb 0.5_ | experimental | [1] Zabdyr 1993; _cites ref. 9_ | Table 1, p. 2, row 12; `ORC-2CP4F3K3VW` |  |
+| Phase transition | 731.15 K | 731.15 | congruent melting: L -> CdSb; _L: Sb 0.5; CdSb: Sb 0.5_ | experimental | [1] Zabdyr 1993; _cites ref. 12_ | Table 1, p. 2, row 15; `ORC-M4M6AI275Q` |  |
+| Phase transition | 732.15 K | 732.15 | congruent melting: L -> CdSb; _L: Sb 0.5; CdSb: Sb 0.5_ | experimental | [1] Zabdyr 1993; _cites ref. 11_ | Table 1, p. 2, row 14; `ORC-UC3NB7FF5Y` |  |
+| Phase transition | 732.23 K | 732.23 | L \<-> ω-CdSb; _L: Sb 0.5; ω-CdSb: Sb 0.5_ | model | [2] Liu 2009 | Table 5, p. 5, row 3; `ORC-IXQV6I3HNI` |  |
+| Phase transition | 738.15 K | 738.15 | congruent melting: L -> CdSb; _L: Sb 0.5; CdSb: Sb 0.5_ | experimental | [1] Zabdyr 1993; _cites ref. 1_ | Table 1, p. 2, row 10; `ORC-K5RWUGMFCJ` |  |
+| Phase transition | 903.905 K | 903.905 | congruent melting: L -> (Sb); _(Sb): Sb 1_ | experimental | [1] Zabdyr 1993; _cites ref. 37_ | Table 1, p. 2, row 26; `ORC-GXHRSIMMTU` |  |
 
 ## Sources
 
@@ -177,4 +177,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

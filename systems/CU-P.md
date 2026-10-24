@@ -83,7 +83,7 @@ Table: Invariant reactions reported in the literature for the Cu–P system (1)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 863.95 | Liq. + CuP2 -> Cu2P7 | Liq.: P 0.9996; Liquid: P 0.9996 | model | [1] Oikawa 2024 | Table 3, p. 8, row 19 |  |
+| 863.95 | Liq. + CuP2 -> Cu2P7 | Liq.: P 0.9996; Liquid: P 0.9996 | model | [1] Oikawa 2024 | Table 3, p. 8, row 19; `ORC-QBTULDB4L7` |  |
 
 ## Other properties
 
@@ -93,10 +93,10 @@ Table: Phase transition, Cu–P system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 975.57 K | 975.57 | other: Cu-4; _alloy: Cu 0.959, P 0.041_ | experimental | [1] Oikawa 2024 | Table 1, p. 4, row 7 |  |
-| Phase transition | 975.59 K | 975.59 | other: Cu-3; _alloy: Cu 0.9688, P 0.0312_ | experimental | [1] Oikawa 2024 | Table 1, p. 4, row 5 |  |
-| Phase transition | 1134.91 K | 1134.91 | other: Cu-2; _alloy: Cu 0.9804, P 0.0196_ | experimental | [1] Oikawa 2024 | Table 1, p. 4, row 3 |  |
-| Phase transition | 1227.74 K | 1227.74 | other: Cu-1; _alloy: Cu 0.9892, P 0.0108_ | experimental | [1] Oikawa 2024 | Table 1, p. 4, row 1 |  |
+| Phase transition | 975.57 K | 975.57 | other: Cu-4; _alloy: Cu 0.959, P 0.041_ | experimental | [1] Oikawa 2024 | Table 1, p. 4, row 7; `ORC-KV4YUBI53J` |  |
+| Phase transition | 975.59 K | 975.59 | other: Cu-3; _alloy: Cu 0.9688, P 0.0312_ | experimental | [1] Oikawa 2024 | Table 1, p. 4, row 5; `ORC-NTZPYHPWAJ` |  |
+| Phase transition | 1134.91 K | 1134.91 | other: Cu-2; _alloy: Cu 0.9804, P 0.0196_ | experimental | [1] Oikawa 2024 | Table 1, p. 4, row 3; `ORC-GYASHPHK3F` |  |
+| Phase transition | 1227.74 K | 1227.74 | other: Cu-1; _alloy: Cu 0.9892, P 0.0108_ | experimental | [1] Oikawa 2024 | Table 1, p. 4, row 1; `ORC-2Y52YL3EN7` |  |
 
 ### Phase equilibrium (6)
 
@@ -104,12 +104,12 @@ Table: Phase equilibrium, Cu–P system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 823.15 | α + Cu3P; _α: Cu 0.9805, P 0.0195; Cu3P: Cu 0.7475, P 0.2525_ | experimental | [1] Oikawa 2024 | Table 2, p. 7, row 1 |  |
-| Phase composition |  | 873.15 | α + Cu3P; _α: Cu 0.9773, P 0.0227; Cu3P: Cu 0.7464, P 0.2536_ | experimental | [1] Oikawa 2024 | Table 2, p. 7, row 2 |  |
-| Phase composition |  | 1294.25 | other: Cu-4; _liquid: Cu 0.959, P 0.041_ | experimental | [1] Oikawa 2024 | Table 1, p. 4, row 8 |  |
-| Phase composition |  | 1314.95 | other: Cu-3; _liquid: Cu 0.9688, P 0.0312_ | experimental | [1] Oikawa 2024 | Table 1, p. 4, row 6 |  |
-| Phase composition |  | 1336.15 | other: Cu-2; _liquid: Cu 0.9804, P 0.0196_ | experimental | [1] Oikawa 2024 | Table 1, p. 4, row 4 |  |
-| Phase composition |  | 1345.45 | other: Cu-1; _liquid: Cu 0.9892, P 0.0108_ | experimental | [1] Oikawa 2024 | Table 1, p. 4, row 2 |  |
+| Phase composition |  | 823.15 | α + Cu3P; _α: Cu 0.9805, P 0.0195; Cu3P: Cu 0.7475, P 0.2525_ | experimental | [1] Oikawa 2024 | Table 2, p. 7, row 1; `ORC-SNFDRT6DIU` |  |
+| Phase composition |  | 873.15 | α + Cu3P; _α: Cu 0.9773, P 0.0227; Cu3P: Cu 0.7464, P 0.2536_ | experimental | [1] Oikawa 2024 | Table 2, p. 7, row 2; `ORC-CI2VQDJ43G` |  |
+| Phase composition |  | 1294.25 | other: Cu-4; _liquid: Cu 0.959, P 0.041_ | experimental | [1] Oikawa 2024 | Table 1, p. 4, row 8; `ORC-3FGLUUUG3H` |  |
+| Phase composition |  | 1314.95 | other: Cu-3; _liquid: Cu 0.9688, P 0.0312_ | experimental | [1] Oikawa 2024 | Table 1, p. 4, row 6; `ORC-OLW3EAKAC4` |  |
+| Phase composition |  | 1336.15 | other: Cu-2; _liquid: Cu 0.9804, P 0.0196_ | experimental | [1] Oikawa 2024 | Table 1, p. 4, row 4; `ORC-DFRULGJ2P3` |  |
+| Phase composition |  | 1345.45 | other: Cu-1; _liquid: Cu 0.9892, P 0.0108_ | experimental | [1] Oikawa 2024 | Table 1, p. 4, row 2; `ORC-QPJT7ULM6E` |  |
 
 ## Sources
 
@@ -174,4 +174,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

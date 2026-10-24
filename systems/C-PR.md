@@ -31,15 +31,15 @@ Table: Invariant reactions reported in the literature for the C–Pr system (9)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2527.15 | eutectic: L → β PrC2 + (C) |  | model | [1] Peng 2011; _cites Conclusions_ | p. 3 | “In addition, two eutectic reactions were also found in the C-Pr system by Eremenko et al. \[5\], i.e. L → (β Pr) + Pr2 C3 and L → β PrC2 + (C) at 800 ± 4 °C at about 15 at.% C and 2254 ± 6 °C at about 71.5 at.% C, respectively.” |
-| 1818.15 | peritectic: L + β PrC2 → Pr2 C3 |  | model | [1] Peng 2011; _cites Conclusions_ | p. 3 | “Eremenko et al. \[5\] determined the temperature of peritectic reaction (L + β PrC2 → Pr2 C3 ) to be 1545 ± 4 °C at about 50 at.% C, which is in good agreement with the reported temperature (1560 °C) by Kosolapova et al. \[48\].” |
-| 1424.55 | βPrC2 + (C) \<-> αPrC2 | βPrC2: C 0.666; (C): C 1; αPrC2: C 0.6667 | model | [1] Peng 2011 | Table 4, p. 6, row 35 |  |
-| 1424.55 | βPrC2 \<-> Pr2C3 + αPrC2 | βPrC2: C 0.666; Pr2C3: C 0.598; αPrC2: C 0.667 | model | [1] Peng 2011 | Table 4, p. 6, row 33 |  |
-| 1418.15 | βPrC2 \<-> Pr2C3 + αPrC2 |  | experimental | [1] Peng 2011; _cites Conclusions_ | Table 4, p. 6, row 34 |  |
-| 1407.15 | βPrC2 + (C) \<-> αPrC2 |  | experimental | [1] Peng 2011; _cites Conclusions_ | Table 4, p. 6, row 36 |  |
-| 1073.15 | eutectic: L → (β Pr) + Pr2 C3 |  | model | [1] Peng 2011; _cites Conclusions_ | p. 3 | “In addition, two eutectic reactions were also found in the C-Pr system by Eremenko et al. \[5\], i.e. L → (β Pr) + Pr2 C3 and L → β PrC2 + (C) at 800 ± 4 °C at about 15 at.% C and 2254 ± 6 °C at about 71.5 at.% C, respectively.” |
-| 949.05 | (βPr) \<-> Pr2C3 + (αPr) | (βPr): C 0.065; Pr2C3: C 0.548; (αPr): C 0.044 | model | [1] Peng 2011 | Table 4, p. 6, row 29 |  |
-| 948.15 | (βPr) \<-> Pr2C3 + (αPr) | (βPr): C 0.062 | experimental | [1] Peng 2011; _cites Conclusions_ | Table 4, p. 6, row 30 |  |
+| 2527.15 | eutectic: L → β PrC2 + (C) |  | model | [1] Peng 2011; _cites Conclusions_ | p. 3; `ORC-XRVLMF6TR6.53b42f` | “In addition, two eutectic reactions were also found in the C-Pr system by Eremenko et al. \[5\], i.e. L → (β Pr) + Pr2 C3 and L → β PrC2 + (C) at 800 ± 4 °C at about 15 at.% C and 2254 ± 6 °C at about 71.5 at.% C, respectively.” |
+| 1818.15 | peritectic: L + β PrC2 → Pr2 C3 |  | model | [1] Peng 2011; _cites Conclusions_ | p. 3; `ORC-VHY6J42TBY` | “Eremenko et al. \[5\] determined the temperature of peritectic reaction (L + β PrC2 → Pr2 C3 ) to be 1545 ± 4 °C at about 50 at.% C, which is in good agreement with the reported temperature (1560 °C) by Kosolapova et al. \[48\].” |
+| 1424.55 | βPrC2 + (C) \<-> αPrC2 | βPrC2: C 0.666; (C): C 1; αPrC2: C 0.6667 | model | [1] Peng 2011 | Table 4, p. 6, row 35; `ORC-QMA6WVK37P` |  |
+| 1424.55 | βPrC2 \<-> Pr2C3 + αPrC2 | βPrC2: C 0.666; Pr2C3: C 0.598; αPrC2: C 0.667 | model | [1] Peng 2011 | Table 4, p. 6, row 33; `ORC-YP7QNC5SYK` |  |
+| 1418.15 | βPrC2 \<-> Pr2C3 + αPrC2 |  | experimental | [1] Peng 2011; _cites Conclusions_ | Table 4, p. 6, row 34; `ORC-JOIQLD6TYO` |  |
+| 1407.15 | βPrC2 + (C) \<-> αPrC2 |  | experimental | [1] Peng 2011; _cites Conclusions_ | Table 4, p. 6, row 36; `ORC-DKQITHG3MF` |  |
+| 1073.15 | eutectic: L → (β Pr) + Pr2 C3 |  | model | [1] Peng 2011; _cites Conclusions_ | p. 3; `ORC-XRVLMF6TR6.72576e` | “In addition, two eutectic reactions were also found in the C-Pr system by Eremenko et al. \[5\], i.e. L → (β Pr) + Pr2 C3 and L → β PrC2 + (C) at 800 ± 4 °C at about 15 at.% C and 2254 ± 6 °C at about 71.5 at.% C, respectively.” |
+| 949.05 | (βPr) \<-> Pr2C3 + (αPr) | (βPr): C 0.065; Pr2C3: C 0.548; (αPr): C 0.044 | model | [1] Peng 2011 | Table 4, p. 6, row 29; `ORC-Q237GU7XV2` |  |
+| 948.15 | (βPr) \<-> Pr2C3 + (αPr) | (βPr): C 0.062 | experimental | [1] Peng 2011; _cites Conclusions_ | Table 4, p. 6, row 30; `ORC-K4P6AMBF4W` |  |
 
 ## Formation enthalpies
 
@@ -49,9 +49,9 @@ Table: Enthalpies of formation, C–Pr system (3)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Pr2C3 | [Pr2C3](https://data.orchid-project.org/compounds/Pr2C3.html) | -27.9 kJ/mol-atom | 298.15 | experimental | -13.558 (mp-aaaaabah) | -14.229 (oqmd-2191) | [1] Peng 2011; _cites Anderson 1970_ | Table 2, p. 2, row 17 |  |
-| PrC2 | [PrC2](https://data.orchid-project.org/compounds/PrC2.html) | -29.4 kJ/mol-atom ± 1.6 | 298.15 | experimental | -9.857 (mp-aaaaacyt) | -10.23 (oqmd-3666) | [1] Peng 2011; _cites Meschel 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906009-6) | Table 2, p. 2, row 19 |  |
-| PrC2 | [PrC2](https://data.orchid-project.org/compounds/PrC2.html) | -28.2 kJ/mol-atom ± 3.5 | 298.15 | experimental | -9.857 (mp-aaaaacyt) | -10.23 (oqmd-3666) | [1] Peng 2011; _cites Anderson 2011_ | Table 2, p. 2, row 18 |  |
+| Pr2C3 | [Pr2C3](https://data.orchid-project.org/compounds/Pr2C3.html) | -27.9 kJ/mol-atom | 298.15 | experimental | -13.558 (mp-aaaaabah) | -14.229 (oqmd-2191) | [1] Peng 2011; _cites Anderson 1970_ | Table 2, p. 2, row 17; `ORC-4YXXCP5BOU` |  |
+| PrC2 | [PrC2](https://data.orchid-project.org/compounds/PrC2.html) | -29.4 kJ/mol-atom ± 1.6 | 298.15 | experimental | -9.857 (mp-aaaaacyt) | -10.23 (oqmd-3666) | [1] Peng 2011; _cites Meschel 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906009-6) | Table 2, p. 2, row 19; `ORC-BDBRHVUYJC.359ea9` |  |
+| PrC2 | [PrC2](https://data.orchid-project.org/compounds/PrC2.html) | -28.2 kJ/mol-atom ± 3.5 | 298.15 | experimental | -9.857 (mp-aaaaacyt) | -10.23 (oqmd-3666) | [1] Peng 2011; _cites Anderson 2011_ | Table 2, p. 2, row 18; `ORC-JSTSNSJH4Z.19bc6a` |  |
 
 ## Other properties
 
@@ -61,9 +61,9 @@ Table: Crystal structure, C–Pr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 8.59 Å | 298.15 | Pr2C3; _alloy: Pr 0.4_ | experimental | [1] Peng 2011; _cites Atoji 1978_ [doi](https://doi.org/10.1016/0022-4596%2878%2990132-9) | Table 1, p. 2, row 14 |  |
-| Lattice a | 3.85 Å | 298.15 | α PrC2; _alloy: Pr 0.333333_ | experimental | [1] Peng 2011; _cites Atoji 1967_ | Table 1, p. 2, row 15 |  |
-| Lattice c | 6.42 Å | 298.15 | α PrC2; _alloy: Pr 0.333333_ | experimental | [1] Peng 2011; _cites Atoji 1967_ | Table 1, p. 2, row 15 |  |
+| Lattice a | 8.59 Å | 298.15 | Pr2C3; _alloy: Pr 0.4_ | experimental | [1] Peng 2011; _cites Atoji 1978_ [doi](https://doi.org/10.1016/0022-4596%2878%2990132-9) | Table 1, p. 2, row 14; `ORC-YF4L4R5HOI` |  |
+| Lattice a | 3.85 Å | 298.15 | α PrC2; _alloy: Pr 0.333333_ | experimental | [1] Peng 2011; _cites Atoji 1967_ | Table 1, p. 2, row 15; `ORC-Y2WM26KT37.469d75` |  |
+| Lattice c | 6.42 Å | 298.15 | α PrC2; _alloy: Pr 0.333333_ | experimental | [1] Peng 2011; _cites Atoji 1967_ | Table 1, p. 2, row 15; `ORC-Y2WM26KT37.93f370` |  |
 
 ## Sources
 
@@ -117,4 +117,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

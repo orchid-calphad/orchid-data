@@ -26,18 +26,18 @@ Table: Invariant reactions reported in the literature for the Au–In–Sb syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 859.54 | Liquid + DHCP -> HCP_A3 + FCC_1 | L: Au 0.753304, In 0.191076, Sb 0.05562; Liquid: Au 0.753304, In 0.191076, Sb 0.05562 | model | [1] Gierlotka 2013 | Table 4, p. 5, row 1 |  |
-| 662.59 | Liquid + AUIN2 -> Zincblende_B3 + AUIN | L: Au 0.346024, In 0.409752, Sb 0.244223; Liquid: Au 0.346024, In 0.409752, Sb 0.244223 | model | [1] Gierlotka 2013 | Table 4, p. 5, row 2 |  |
-| 653.24 | Liquid -> AUIN + Rhombo_A7 + AUSB2 | L: Au 0.413241, In 0.323105, Sb 0.263654; Liquid: Au 0.413241, In 0.323105, Sb 0.263654 | model | [1] Gierlotka 2013 | Table 4, p. 5, row 3 |  |
-| 652.83 | Liquid -> Zincblende_B8 + AUIN + Rhombo_A7 | L: Au 0.347615, In 0.374901, Sb 0.277484; Liquid: Au 0.347615, In 0.374901, Sb 0.277484 | model | [1] Gierlotka 2013 | Table 4, p. 5, row 4 |  |
-| 649.65 | Liquid + AUIN_GAMMA + AU3IN -> AU7IN3 | L: Au 0.64164, In 0.255092, Sb 0.103267; Liquid: Au 0.64164, In 0.255092, Sb 0.103267 | model | [1] Gierlotka 2013 | Table 4, p. 5, row 5 |  |
-| 639.55 | Liquid + HCP_A3 -> AUSB2 + FCC_A1 | L: Au 0.632018, In 0.037164, Sb 0.330818; Liquid: Au 0.632018, In 0.037164, Sb 0.330818 | model | [1] Gierlotka 2013 | Table 4, p. 5, row 6 |  |
-| 637.67 | Liquid + AUIN_GAMMA -> AUIN_PSI + AU7IN3 | L: Au 0.608235, In 0.293524, Sb 0.098242; Liquid: Au 0.608235, In 0.293524, Sb 0.098242 | model | [1] Gierlotka 2013 | Table 4, p. 5, row 7 |  |
-| 634.17 | Liquid + HCP_A3 -> AU3IN + AUSB2 | L: Au 0.640634, In 0.192175, Sb 0.167191; Liquid: Au 0.640634, In 0.192175, Sb 0.167191 | model | [1] Gierlotka 2013 | Table 4, p. 5, row 8 |  |
-| 628.66 | Liquid -> AU7IN3 + AU3IN + AUSB2 | L: Au 0.626583, In 0.235281, Sb 0.138136; Liquid: Au 0.626583, In 0.235281, Sb 0.138136 | model | [1] Gierlotka 2013 | Table 4, p. 5, row 9 |  |
-| 624.15 | Liquid + AUIN -> AUSB2 + AUIN_PSI | L: Au 0.584999, In 0.289361, Sb 0.12564; Liquid: Au 0.584999, In 0.289361, Sb 0.12564 | model | [1] Gierlotka 2013 | Table 4, p. 5, row 10 |  |
-| 622.34 | Liquid -> AUSB2 + AUIN_PSI + AU7IN3 | L: Au 0.594651, In 0.28371, Sb 0.121639; Liquid: Au 0.594651, In 0.28371, Sb 0.121639 | model | [1] Gierlotka 2013 | Table 4, p. 5, row 11 |  |
-| 427.52 | Liquid -> AUIN2 + Zincblende_B3 + Tetra_A6 | L: Au 8.170e-4, In 0.995283, Sb 0.0039; Liquid: Au 8.170e-4, In 0.995283, Sb 0.0039 | model | [1] Gierlotka 2013 | Table 4, p. 5, row 12 |  |
+| 859.54 | Liquid + DHCP -> HCP_A3 + FCC_1 | L: Au 0.753304, In 0.191076, Sb 0.05562; Liquid: Au 0.753304, In 0.191076, Sb 0.05562 | model | [1] Gierlotka 2013 | Table 4, p. 5, row 1; `ORC-YYAXLXPAVH` |  |
+| 662.59 | Liquid + AUIN2 -> Zincblende_B3 + AUIN | L: Au 0.346024, In 0.409752, Sb 0.244223; Liquid: Au 0.346024, In 0.409752, Sb 0.244223 | model | [1] Gierlotka 2013 | Table 4, p. 5, row 2; `ORC-BQ7O3YXRBG` |  |
+| 653.24 | Liquid -> AUIN + Rhombo_A7 + AUSB2 | L: Au 0.413241, In 0.323105, Sb 0.263654; Liquid: Au 0.413241, In 0.323105, Sb 0.263654 | model | [1] Gierlotka 2013 | Table 4, p. 5, row 3; `ORC-Z2F2BJSU5A` |  |
+| 652.83 | Liquid -> Zincblende_B8 + AUIN + Rhombo_A7 | L: Au 0.347615, In 0.374901, Sb 0.277484; Liquid: Au 0.347615, In 0.374901, Sb 0.277484 | model | [1] Gierlotka 2013 | Table 4, p. 5, row 4; `ORC-5BM2Q6XQKD` |  |
+| 649.65 | Liquid + AUIN_GAMMA + AU3IN -> AU7IN3 | L: Au 0.64164, In 0.255092, Sb 0.103267; Liquid: Au 0.64164, In 0.255092, Sb 0.103267 | model | [1] Gierlotka 2013 | Table 4, p. 5, row 5; `ORC-WC5BVDMQUJ` |  |
+| 639.55 | Liquid + HCP_A3 -> AUSB2 + FCC_A1 | L: Au 0.632018, In 0.037164, Sb 0.330818; Liquid: Au 0.632018, In 0.037164, Sb 0.330818 | model | [1] Gierlotka 2013 | Table 4, p. 5, row 6; `ORC-ZXY2DU7UZ7` |  |
+| 637.67 | Liquid + AUIN_GAMMA -> AUIN_PSI + AU7IN3 | L: Au 0.608235, In 0.293524, Sb 0.098242; Liquid: Au 0.608235, In 0.293524, Sb 0.098242 | model | [1] Gierlotka 2013 | Table 4, p. 5, row 7; `ORC-GAEF7H2U2Z` |  |
+| 634.17 | Liquid + HCP_A3 -> AU3IN + AUSB2 | L: Au 0.640634, In 0.192175, Sb 0.167191; Liquid: Au 0.640634, In 0.192175, Sb 0.167191 | model | [1] Gierlotka 2013 | Table 4, p. 5, row 8; `ORC-ZZCQK3FYUS` |  |
+| 628.66 | Liquid -> AU7IN3 + AU3IN + AUSB2 | L: Au 0.626583, In 0.235281, Sb 0.138136; Liquid: Au 0.626583, In 0.235281, Sb 0.138136 | model | [1] Gierlotka 2013 | Table 4, p. 5, row 9; `ORC-AT7JGMFPN2` |  |
+| 624.15 | Liquid + AUIN -> AUSB2 + AUIN_PSI | L: Au 0.584999, In 0.289361, Sb 0.12564; Liquid: Au 0.584999, In 0.289361, Sb 0.12564 | model | [1] Gierlotka 2013 | Table 4, p. 5, row 10; `ORC-QE2GJLAQX5` |  |
+| 622.34 | Liquid -> AUSB2 + AUIN_PSI + AU7IN3 | L: Au 0.594651, In 0.28371, Sb 0.121639; Liquid: Au 0.594651, In 0.28371, Sb 0.121639 | model | [1] Gierlotka 2013 | Table 4, p. 5, row 11; `ORC-X5VKALP7HU` |  |
+| 427.52 | Liquid -> AUIN2 + Zincblende_B3 + Tetra_A6 | L: Au 8.170e-4, In 0.995283, Sb 0.0039; Liquid: Au 8.170e-4, In 0.995283, Sb 0.0039 | model | [1] Gierlotka 2013 | Table 4, p. 5, row 12; `ORC-6LP57ASW6O` |  |
 
 ## Sources
 
@@ -80,4 +80,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

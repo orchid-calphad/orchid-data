@@ -35,13 +35,13 @@ Table: Enthalpies of formation, Mo system (7)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| A15 |  | 8.582 kJ/mol (basis unstated) | 0 | model |  |  | [1] Fiorani 2024 | Table 5, p. 21, row 16 |  |
-| A15 |  | 8.582 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Fiorani 2024 | Table 5, p. 21, row 15 |  |
-| Mo |  | 0 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Zhou 2005; _cites Wang 2005_ [doi](https://doi.org/10.1016/j.scriptamat.2004.09.007) | Table 2, p. 4, row 26 |  |
-| Mo |  | 39.51 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Zhou 2005 | Table 2, p. 4, row 27 |  |
-| \\sigma |  | 0 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 1 |  |
-| \\sigma |  | 16.1 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 1 |  |
-| χ |  | 26.13 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 5, p. 5, row 1 |  |
+| A15 |  | 8.582 kJ/mol (basis unstated) | 0 | model |  |  | [1] Fiorani 2024 | Table 5, p. 21, row 16; `ORC-AFMBX2EUKB` |  |
+| A15 |  | 8.582 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Fiorani 2024 | Table 5, p. 21, row 15; `ORC-UOMZE7YT7J` |  |
+| Mo |  | 0 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Zhou 2005; _cites Wang 2005_ [doi](https://doi.org/10.1016/j.scriptamat.2004.09.007) | Table 2, p. 4, row 26; `ORC-4SS32G7DVA.fc424f` |  |
+| Mo |  | 39.51 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Zhou 2005 | Table 2, p. 4, row 27; `ORC-232EEQ5WRP.b0acc1` |  |
+| \\sigma |  | 0 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 1; `ORC-ANP55WDND6.c72306` |  |
+| \\sigma |  | 16.1 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 1; `ORC-ANP55WDND6.1b7ef7` |  |
+| χ |  | 26.13 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 5, p. 5, row 1; `ORC-7G54NIOYJL` |  |
 
 ## Other properties
 
@@ -51,20 +51,20 @@ Table: Phase equilibrium, Mo system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 1477.15 | Mo-rich solvus + (Mo); _Mo-rich solvus: Mo 0.945; (Mo): Mo 0.945_ | experimental | [4] Ltd. 1997; _cites ref. 51Ham_ | Table 3, p. 4, row 5 |  |
-| Phase composition |  | 1589.15 | Mo-rich solvus + (Mo); _Mo-rich solvus: Mo 0.932; (Mo): Mo 0.932_ | experimental | [4] Ltd. 1997; _cites ref. 51Ham_ | Table 3, p. 4, row 4 |  |
-| Phase composition |  | 1644.15 | Mo-rich solvus + (Mo); _Mo-rich solvus: Mo 0.926; (Mo): Mo 0.926_ | experimental | [4] Ltd. 1997; _cites ref. 51Ham_ | Table 3, p. 4, row 3 |  |
-| Phase composition |  | 1755.15 | Mo-rich solvus + (Mo); _Mo-rich solvus: Mo 0.902; (Mo): Mo 0.902_ | experimental | [4] Ltd. 1997; _cites ref. 51Ham_ | Table 3, p. 4, row 2 |  |
-| Phase composition |  | 1845.15 | Mo-rich solvus + (Mo); _Mo-rich solvus: Mo 0.892; (Mo): Mo 0.892_ | experimental | [4] Ltd. 1997; _cites ref. 82Shi_ | Table 3, p. 4, row 14 |  |
-| Phase composition |  | 1873.15 | Mo-rich solvus + (Mo); _Mo-rich solvus: Mo 0.882; (Mo): Mo 0.882_ | experimental | [4] Ltd. 1997; _cites ref. 71Rex_ | Table 3, p. 4, row 7 |  |
-| Phase composition |  | 1877.15 | Mo-rich solvus + (Mo); _Mo-rich solvus: Mo 0.886; (Mo): Mo 0.886_ | experimental | [4] Ltd. 1997; _cites ref. 82Shi_ | Table 3, p. 4, row 13 |  |
-| Phase composition |  | 1903.15 | Mo-rich solvus + (Mo); _Mo-rich solvus: Mo 0.881; (Mo): Mo 0.881_ | experimental | [4] Ltd. 1997; _cites ref. 82Shi_ | Table 3, p. 4, row 12 |  |
-| Phase composition |  | 1932.15 | Mo-rich solvus + (Mo); _Mo-rich solvus: Mo 0.877; (Mo): Mo 0.877_ | experimental | [4] Ltd. 1997; _cites ref. 82Shi_ | Table 3, p. 4, row 11 |  |
-| Phase composition |  | 1961.15 | Mo-rich solvus + (Mo); _Mo-rich solvus: Mo 0.87; (Mo): Mo 0.87_ | experimental | [4] Ltd. 1997; _cites ref. 82Shi_ | Table 3, p. 4, row 10 |  |
-| Phase composition |  | 1973.15 | Mo-rich solvus + (Mo); _Mo-rich solvus: Mo 0.863; (Mo): Mo 0.863_ | experimental | [4] Ltd. 1997; _cites ref. 71Rex_ | Table 3, p. 4, row 6 |  |
-| Phase composition |  | 1995.15 | Mo-rich solvus + (Mo); _Mo-rich solvus: Mo 0.867; (Mo): Mo 0.867_ | experimental | [4] Ltd. 1997; _cites ref. 82Shi_ | Table 3, p. 4, row 9 |  |
-| Phase composition |  | 2021.15 | Mo-rich solvus + (Mo); _Mo-rich solvus: Mo 0.862; (Mo): Mo 0.862_ | experimental | [4] Ltd. 1997; _cites ref. 82Shi_ | Table 3, p. 4, row 8 |  |
-| Phase composition |  | 2423.15 | Mo-rich solvus + (Mo); _Mo-rich solvus: Mo 0.795; (Mo): Mo 0.795_ | experimental | [4] Ltd. 1997; _cites ref. 51Ham_ | Table 3, p. 4, row 1 |  |
+| Phase composition |  | 1477.15 | Mo-rich solvus + (Mo); _Mo-rich solvus: Mo 0.945; (Mo): Mo 0.945_ | experimental | [4] Ltd. 1997; _cites ref. 51Ham_ | Table 3, p. 4, row 5; `ORC-OJFKN5X22A` |  |
+| Phase composition |  | 1589.15 | Mo-rich solvus + (Mo); _Mo-rich solvus: Mo 0.932; (Mo): Mo 0.932_ | experimental | [4] Ltd. 1997; _cites ref. 51Ham_ | Table 3, p. 4, row 4; `ORC-UJCGN3YZ4B` |  |
+| Phase composition |  | 1644.15 | Mo-rich solvus + (Mo); _Mo-rich solvus: Mo 0.926; (Mo): Mo 0.926_ | experimental | [4] Ltd. 1997; _cites ref. 51Ham_ | Table 3, p. 4, row 3; `ORC-B2XNRW5ZZL` |  |
+| Phase composition |  | 1755.15 | Mo-rich solvus + (Mo); _Mo-rich solvus: Mo 0.902; (Mo): Mo 0.902_ | experimental | [4] Ltd. 1997; _cites ref. 51Ham_ | Table 3, p. 4, row 2; `ORC-YTFPNYOHEE` |  |
+| Phase composition |  | 1845.15 | Mo-rich solvus + (Mo); _Mo-rich solvus: Mo 0.892; (Mo): Mo 0.892_ | experimental | [4] Ltd. 1997; _cites ref. 82Shi_ | Table 3, p. 4, row 14; `ORC-BVZZHVCN56` |  |
+| Phase composition |  | 1873.15 | Mo-rich solvus + (Mo); _Mo-rich solvus: Mo 0.882; (Mo): Mo 0.882_ | experimental | [4] Ltd. 1997; _cites ref. 71Rex_ | Table 3, p. 4, row 7; `ORC-2OHIQ4OEZB` |  |
+| Phase composition |  | 1877.15 | Mo-rich solvus + (Mo); _Mo-rich solvus: Mo 0.886; (Mo): Mo 0.886_ | experimental | [4] Ltd. 1997; _cites ref. 82Shi_ | Table 3, p. 4, row 13; `ORC-VLQENMTTY6` |  |
+| Phase composition |  | 1903.15 | Mo-rich solvus + (Mo); _Mo-rich solvus: Mo 0.881; (Mo): Mo 0.881_ | experimental | [4] Ltd. 1997; _cites ref. 82Shi_ | Table 3, p. 4, row 12; `ORC-YA2QSOAKEL` |  |
+| Phase composition |  | 1932.15 | Mo-rich solvus + (Mo); _Mo-rich solvus: Mo 0.877; (Mo): Mo 0.877_ | experimental | [4] Ltd. 1997; _cites ref. 82Shi_ | Table 3, p. 4, row 11; `ORC-62TAJE7W7C` |  |
+| Phase composition |  | 1961.15 | Mo-rich solvus + (Mo); _Mo-rich solvus: Mo 0.87; (Mo): Mo 0.87_ | experimental | [4] Ltd. 1997; _cites ref. 82Shi_ | Table 3, p. 4, row 10; `ORC-SDPJXVVDPK` |  |
+| Phase composition |  | 1973.15 | Mo-rich solvus + (Mo); _Mo-rich solvus: Mo 0.863; (Mo): Mo 0.863_ | experimental | [4] Ltd. 1997; _cites ref. 71Rex_ | Table 3, p. 4, row 6; `ORC-5R72GSYW7N` |  |
+| Phase composition |  | 1995.15 | Mo-rich solvus + (Mo); _Mo-rich solvus: Mo 0.867; (Mo): Mo 0.867_ | experimental | [4] Ltd. 1997; _cites ref. 82Shi_ | Table 3, p. 4, row 9; `ORC-UGB2PK6KAW` |  |
+| Phase composition |  | 2021.15 | Mo-rich solvus + (Mo); _Mo-rich solvus: Mo 0.862; (Mo): Mo 0.862_ | experimental | [4] Ltd. 1997; _cites ref. 82Shi_ | Table 3, p. 4, row 8; `ORC-23VHJD4IZ5` |  |
+| Phase composition |  | 2423.15 | Mo-rich solvus + (Mo); _Mo-rich solvus: Mo 0.795; (Mo): Mo 0.795_ | experimental | [4] Ltd. 1997; _cites ref. 51Ham_ | Table 3, p. 4, row 1; `ORC-PDOJNW36V3` |  |
 
 ### Heat capacity / entropy / enthalpy (12)
 
@@ -72,18 +72,18 @@ Table: Heat capacity / entropy / enthalpy, Mo system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Heat content; _printed: Hm(373K)-Hm(273K)_ | 2422 J/mol of atoms |  | UNKNOWN; _alloy: Mo 1_ | model | [5] Frisk 1991 | Table II, p. 8, row 8 |  |
-| Heat content; _printed: Hm(599K)-Hm(273K)_ | 7613 J/mol of atoms |  | UNKNOWN; _alloy: Mo 1_ | model | [5] Frisk 1991 | Table II, p. 8, row 8 |  |
-| Heat content; _printed: Hm(784K)-Hm(273K)_ | 12730 J/mol of atoms |  | UNKNOWN; _alloy: Mo 1_ | model | [5] Frisk 1991 | Table II, p. 8, row 8 |  |
-| Heat content; _printed: Hm(784K)-Hm(273K)_ | 12722 J/mol of atoms |  | UNKNOWN; _alloy: Mo 1_ | experimental | [5] Frisk 1991; _cites Satoh 1938_ | Table II, p. 8, row 7 |  |
-| Heat content; _printed: Hm(599K)-Hm(273K)_ | 7231 J/mol of atoms |  | UNKNOWN; _alloy: Mo 1_ | experimental | [5] Frisk 1991; _cites Satoh 1938_ | Table II, p. 8, row 7 |  |
-| Heat content; _printed: Hm(373K)-Hm(273K)_ | 2126 J/mol of atoms |  | UNKNOWN; _alloy: Mo 1_ | experimental | [5] Frisk 1991; _cites Satoh 1938_ | Table II, p. 8, row 7 |  |
-| Heat content; _printed: Hm(T)-Hm(273K)_ | 2422 J/mol of atoms | 373 | UNKNOWN; _alloy: Mo 1_ | model | [5] Frisk 1991 | Table II, p. 8, row 30 |  |
-| Heat content; _printed: Hm(T)-Hm(273K)_ | 2126 J/mol of atoms | 373 | UNKNOWN; _alloy: Mo 1_ | experimental | [5] Frisk 1991; _cites Satoh 1938_ | Table II, p. 8, row 27 |  |
-| Heat content; _printed: Hm(T)-Hm(273K)_ | 7231 J/mol of atoms | 599 | UNKNOWN; _alloy: Mo 1_ | experimental | [5] Frisk 1991; _cites Satoh 1938_ | Table II, p. 8, row 28 |  |
-| Heat content; _printed: Hm(T)-Hm(273K)_ | 7613 J/mol of atoms | 599 | UNKNOWN; _alloy: Mo 1_ | model | [5] Frisk 1991 | Table II, p. 8, row 31 |  |
-| Heat content; _printed: Hm(T)-Hm(273K)_ | 12722 J/mol of atoms | 784 | UNKNOWN; _alloy: Mo 1_ | experimental | [5] Frisk 1991; _cites Satoh 1938_ | Table II, p. 8, row 29 |  |
-| Heat content; _printed: Hm(T)-Hm(273K)_ | 12730 J/mol of atoms | 784 | UNKNOWN; _alloy: Mo 1_ | model | [5] Frisk 1991 | Table II, p. 8, row 32 |  |
+| Heat content; _printed: Hm(373K)-Hm(273K)_ | 2422 J/mol of atoms |  | UNKNOWN; _alloy: Mo 1_ | model | [5] Frisk 1991 | Table II, p. 8, row 8; `ORC-N5BEGSNYRN.4fe3a7` |  |
+| Heat content; _printed: Hm(599K)-Hm(273K)_ | 7613 J/mol of atoms |  | UNKNOWN; _alloy: Mo 1_ | model | [5] Frisk 1991 | Table II, p. 8, row 8; `ORC-N5BEGSNYRN.857c9d` |  |
+| Heat content; _printed: Hm(784K)-Hm(273K)_ | 12730 J/mol of atoms |  | UNKNOWN; _alloy: Mo 1_ | model | [5] Frisk 1991 | Table II, p. 8, row 8; `ORC-N5BEGSNYRN.8c66ed` |  |
+| Heat content; _printed: Hm(784K)-Hm(273K)_ | 12722 J/mol of atoms |  | UNKNOWN; _alloy: Mo 1_ | experimental | [5] Frisk 1991; _cites Satoh 1938_ | Table II, p. 8, row 7; `ORC-YQGEY2PAIH.76ca81` |  |
+| Heat content; _printed: Hm(599K)-Hm(273K)_ | 7231 J/mol of atoms |  | UNKNOWN; _alloy: Mo 1_ | experimental | [5] Frisk 1991; _cites Satoh 1938_ | Table II, p. 8, row 7; `ORC-YQGEY2PAIH.90d8ec` |  |
+| Heat content; _printed: Hm(373K)-Hm(273K)_ | 2126 J/mol of atoms |  | UNKNOWN; _alloy: Mo 1_ | experimental | [5] Frisk 1991; _cites Satoh 1938_ | Table II, p. 8, row 7; `ORC-YQGEY2PAIH.c00fe2` |  |
+| Heat content; _printed: Hm(T)-Hm(273K)_ | 2422 J/mol of atoms | 373 | UNKNOWN; _alloy: Mo 1_ | model | [5] Frisk 1991 | Table II, p. 8, row 30; `ORC-BPDJ2SOLY3` |  |
+| Heat content; _printed: Hm(T)-Hm(273K)_ | 2126 J/mol of atoms | 373 | UNKNOWN; _alloy: Mo 1_ | experimental | [5] Frisk 1991; _cites Satoh 1938_ | Table II, p. 8, row 27; `ORC-CS4BZE2ELF` |  |
+| Heat content; _printed: Hm(T)-Hm(273K)_ | 7231 J/mol of atoms | 599 | UNKNOWN; _alloy: Mo 1_ | experimental | [5] Frisk 1991; _cites Satoh 1938_ | Table II, p. 8, row 28; `ORC-C6GY4ZLDGI` |  |
+| Heat content; _printed: Hm(T)-Hm(273K)_ | 7613 J/mol of atoms | 599 | UNKNOWN; _alloy: Mo 1_ | model | [5] Frisk 1991 | Table II, p. 8, row 31; `ORC-IWVYX4KX5N` |  |
+| Heat content; _printed: Hm(T)-Hm(273K)_ | 12722 J/mol of atoms | 784 | UNKNOWN; _alloy: Mo 1_ | experimental | [5] Frisk 1991; _cites Satoh 1938_ | Table II, p. 8, row 29; `ORC-2NUOQD7ZVW` |  |
+| Heat content; _printed: Hm(T)-Hm(273K)_ | 12730 J/mol of atoms | 784 | UNKNOWN; _alloy: Mo 1_ | model | [5] Frisk 1991 | Table II, p. 8, row 32; `ORC-VLVSMQKZBZ` |  |
 
 ### Activity / EMF / Gibbs energy (2)
 
@@ -91,8 +91,8 @@ Table: Activity / EMF / Gibbs energy, Mo system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Gibbs energy; _printed: Gm(ω)-Gm(β)_ | 13938 J/mol | 0 | UNKNOWN; _alloy: Mo 1_ | model | [6] Yan 2016 | Table 4, p. 5, row 8 |  |
-| Gibbs energy; _printed: Gm(ω)-Gm(β)_ | 39043 J/mol | 0 | UNKNOWN; _alloy: Mo 1_ | DFT | [6] Yan 2016 | Table 4, p. 5, row 7 |  |
+| Gibbs energy; _printed: Gm(ω)-Gm(β)_ | 13938 J/mol | 0 | UNKNOWN; _alloy: Mo 1_ | model | [6] Yan 2016 | Table 4, p. 5, row 8; `ORC-BXRGXAQOPE` |  |
+| Gibbs energy; _printed: Gm(ω)-Gm(β)_ | 39043 J/mol | 0 | UNKNOWN; _alloy: Mo 1_ | DFT | [6] Yan 2016 | Table 4, p. 5, row 7; `ORC-W3YXZTJKHX` |  |
 
 ### Crystal structure (7)
 
@@ -100,13 +100,13 @@ Table: Crystal structure, Mo system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 3.173 Å |  | Mo; _alloy: Mo 1_ | model | [7] Huang 2020 | Table 1, p. 3, row 12 |  |
-| Lattice a | 3.147 Å | 298.15 | Mo; _alloy: Mo 1_ | experimental | [7] Huang 2020; _cites Michalik 1963_ | Table 1, p. 3, row 11 |  |
-| Lattice a | 3.147 Å | 298.15 | Mo; _Mo: Mo 1_ | unspecified | [4] Ltd. 1997 | Table 5, p. 5, row 9 |  |
-| Lattice b | 3.173 Å |  | Mo; _alloy: Mo 1_ | model | [7] Huang 2020 | Table 1, p. 3, row 12 |  |
-| Lattice b | 3.147 Å | 298.15 | Mo; _alloy: Mo 1_ | experimental | [7] Huang 2020; _cites Michalik 1963_ | Table 1, p. 3, row 11 |  |
-| Lattice c | 3.173 Å |  | Mo; _alloy: Mo 1_ | model | [7] Huang 2020 | Table 1, p. 3, row 12 |  |
-| Lattice c | 3.147 Å | 298.15 | Mo; _alloy: Mo 1_ | experimental | [7] Huang 2020; _cites Michalik 1963_ | Table 1, p. 3, row 11 |  |
+| Lattice a | 3.173 Å |  | Mo; _alloy: Mo 1_ | model | [7] Huang 2020 | Table 1, p. 3, row 12; `ORC-HBAWRNHL2O.c9a845` |  |
+| Lattice a | 3.147 Å | 298.15 | Mo; _alloy: Mo 1_ | experimental | [7] Huang 2020; _cites Michalik 1963_ | Table 1, p. 3, row 11; `ORC-6VOF4QNARJ.02d3c5` |  |
+| Lattice a | 3.147 Å | 298.15 | Mo; _Mo: Mo 1_ | unspecified | [4] Ltd. 1997 | Table 5, p. 5, row 9; `ORC-A4LIGGBNIT` |  |
+| Lattice b | 3.173 Å |  | Mo; _alloy: Mo 1_ | model | [7] Huang 2020 | Table 1, p. 3, row 12; `ORC-HBAWRNHL2O.44b86d` |  |
+| Lattice b | 3.147 Å | 298.15 | Mo; _alloy: Mo 1_ | experimental | [7] Huang 2020; _cites Michalik 1963_ | Table 1, p. 3, row 11; `ORC-6VOF4QNARJ.c39933` |  |
+| Lattice c | 3.173 Å |  | Mo; _alloy: Mo 1_ | model | [7] Huang 2020 | Table 1, p. 3, row 12; `ORC-HBAWRNHL2O.1fcb4f` |  |
+| Lattice c | 3.147 Å | 298.15 | Mo; _alloy: Mo 1_ | experimental | [7] Huang 2020; _cites Michalik 1963_ | Table 1, p. 3, row 11; `ORC-6VOF4QNARJ.f86d6c` |  |
 
 ## Sources
 
@@ -155,4 +155,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

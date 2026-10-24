@@ -14,12 +14,12 @@ Table: Enthalpy of formation of ZrH2 reported in the literature (6)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -56.83 kJ/mol-atom | δ-ZrH2 |  | model |  | [H–Zr](https://data.orchid-project.org/systems/H-ZR.html) | [1] Zhong 2012; _cites Dupin 1999_ [doi](https://doi.org/10.1016/s0022-3115%2899%2900125-7) | Table 3, p. 2, row 4 |  |
-| -56.07 kJ/mol-atom | ε-ZrH2 |  | model |  | [H–Zr](https://data.orchid-project.org/systems/H-ZR.html) | [1] Zhong 2012; _cites Dupin 1999_ [doi](https://doi.org/10.1016/s0022-3115%2899%2900125-7) | Table 3, p. 2, row 2 |  |
-| -54.88 kJ/mol (basis unstated) | ε-ZrH2 |  | model |  | [H–Zr](https://data.orchid-project.org/systems/H-ZR.html) | [2] Ukita 2007 | Table 2, p. 5, row 6 |  |
-| -54 kJ/mol (basis unstated) | δ-ZrH2 |  | model |  | [H–Zr](https://data.orchid-project.org/systems/H-ZR.html) | [2] Ukita 2007 | Table 2, p. 5, row 5 |  |
-| -55.72 kJ/mol-atom | ε-ZrH2 | 0 | DFT | first-principles calculation | [H–Zr](https://data.orchid-project.org/systems/H-ZR.html) | [1] Zhong 2012 | Table 3, p. 2, row 3 |  |
-| -54.76 kJ/mol-atom | δ-ZrH2 | 0 | DFT | first-principles calculation | [H–Zr](https://data.orchid-project.org/systems/H-ZR.html) | [1] Zhong 2012 | Table 3, p. 2, row 5 |  |
+| -56.83 kJ/mol-atom | δ-ZrH2 |  | model |  | [H–Zr](https://data.orchid-project.org/systems/H-ZR.html) | [1] Zhong 2012; _cites Dupin 1999_ [doi](https://doi.org/10.1016/s0022-3115%2899%2900125-7) | Table 3, p. 2, row 4; `ORC-BDQIZ33WUN.1f06ca` |  |
+| -56.07 kJ/mol-atom | ε-ZrH2 |  | model |  | [H–Zr](https://data.orchid-project.org/systems/H-ZR.html) | [1] Zhong 2012; _cites Dupin 1999_ [doi](https://doi.org/10.1016/s0022-3115%2899%2900125-7) | Table 3, p. 2, row 2; `ORC-PY3JZ4K46I.4ace32` |  |
+| -54.88 kJ/mol (basis unstated) | ε-ZrH2 |  | model |  | [H–Zr](https://data.orchid-project.org/systems/H-ZR.html) | [2] Ukita 2007 | Table 2, p. 5, row 6; `ORC-MNJYYK3LRZ.47c537` |  |
+| -54 kJ/mol (basis unstated) | δ-ZrH2 |  | model |  | [H–Zr](https://data.orchid-project.org/systems/H-ZR.html) | [2] Ukita 2007 | Table 2, p. 5, row 5; `ORC-HHIENXB34Z.0c26a1` |  |
+| -55.72 kJ/mol-atom | ε-ZrH2 | 0 | DFT | first-principles calculation | [H–Zr](https://data.orchid-project.org/systems/H-ZR.html) | [1] Zhong 2012 | Table 3, p. 2, row 3; `ORC-7QYEKFSJNB.3dc60f` |  |
+| -54.76 kJ/mol-atom | δ-ZrH2 | 0 | DFT | first-principles calculation | [H–Zr](https://data.orchid-project.org/systems/H-ZR.html) | [1] Zhong 2012 | Table 3, p. 2, row 5; `ORC-36JRTTLT2M.c91987` |  |
 
 ### Uncertainty budget
 
@@ -101,4 +101,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

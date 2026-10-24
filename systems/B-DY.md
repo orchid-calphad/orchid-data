@@ -31,30 +31,30 @@ Table: Invariant reactions reported in the literature for the B–Dy system (24)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2773 | congruent melting: L ↔ DyB4 | L: B 0.8; DyB4: B 0.8, Dy 0.2 | model | [1] Li 2020; _cites ref. 23_ | Table 8, p. 30, row 1 |  |
-| 2767.1 | congruent melting: L ↔ DyB4 | L: B 0.8; DyB4: B 0.8, Dy 0.2 | model | [1] Li 2020 | Table 8, p. 30, row 3 |  |
-| 2749.3 | congruent melting: L ↔ DyB4 | L: B 0.8; DyB4: B 0.8, Dy 0.2 | model | [1] Li 2020; _cites ref. 25_ | Table 8, p. 30, row 2 |  |
-| 2475.9 | peritectic: L + DyB4 ↔ DyB6 | DyB4: B 0.8, Dy 0.2; DyB6: B 0.857143, Dy 0.142857 | model | [1] Li 2020; _cites ref. 25_ | Table 8, p. 30, row 5 |  |
-| 2473 | peritectic: L + DyB4 ↔ DyB6 | L: B 0.88; DyB4: B 0.8, Dy 0.2; DyB6: B 0.857143, Dy 0.142857 | model | [1] Li 2020; _cites ref. 23_ | Table 8, p. 30, row 4 |  |
-| 2472 | peritectic: L + DyB4 ↔ DyB6 | DyB4: B 0.8, Dy 0.2; DyB6: B 0.857143, Dy 0.142857 | experimental | [1] Li 2020; _cites ref. 33_ | Table 8, p. 30, row 6 |  |
-| 2472 | peritectic: L + DyB4 ↔ DyB6 | L: B 0.955; DyB4: B 0.8, Dy 0.2; DyB6: B 0.857143, Dy 0.142857 | model | [1] Li 2020 | Table 8, p. 30, row 7 |  |
-| 2423 | peritectic: L + DyB12 ↔ DyB66 | DyB12: B 0.923077, Dy 0.076923; DyB66: B 0.985075, Dy 0.014925 | experimental | [1] Li 2020; _cites ref. 34_ | Table 8, p. 30, row 12 |  |
-| 2378.8 | peritectic: L + DyB6 ↔ DyB12 | DyB6: B 0.857143, Dy 0.142857; DyB12: B 0.923077, Dy 0.076923 | model | [1] Li 2020; _cites ref. 25_ | Table 8, p. 30, row 9 |  |
-| 2373 | peritectic: L + DyB4 ↔ DyB2 | L: B 0.62; DyB4: B 0.8, Dy 0.2; DyB2: B 0.666667, Dy 0.333333 | model | [1] Li 2020; _cites ref. 23_ | Table 8, p. 30, row 15 |  |
-| 2373 | peritectic: L + DyB6 ↔ DyB12 | L: B 0.93; DyB6: B 0.857143, Dy 0.142857; DyB12: B 0.923077, Dy 0.076923 | model | [1] Li 2020; _cites ref. 23_ | Table 8, p. 30, row 8 |  |
-| 2371.3 | peritectic: L + DyB6 ↔ DyB12 | L: B 0.978; DyB6: B 0.857143, Dy 0.142857; DyB12: B 0.923077, Dy 0.076923 | model | [1] Li 2020 | Table 8, p. 30, row 10 |  |
-| 2369.8 | peritectic: L + DyB4 ↔ DyB2 | L: B 0.515; DyB4: B 0.8, Dy 0.2; DyB2: B 0.666667, Dy 0.333333 | model | [1] Li 2020 | Table 8, p. 30, row 17 |  |
-| 2365 | peritectic: L + DyB12 ↔ DyB66 | L: B 0.979; DyB12: B 0.923077, Dy 0.076923; DyB66: B 0.985075, Dy 0.014925 | model | [1] Li 2020 | Table 8, p. 30, row 14 |  |
-| 2364.1 | peritectic: L + DyB4 ↔ DyB2 | DyB4: B 0.8, Dy 0.2; DyB2: B 0.666667, Dy 0.333333 | model | [1] Li 2020; _cites ref. 25_ | Table 8, p. 30, row 16 |  |
-| 2347 | peritectic: L + DyB12 ↔ DyB66 | DyB12: B 0.923077, Dy 0.076923; DyB66: B 0.985075, Dy 0.014925 | model | [1] Li 2020; _cites ref. 25_ | Table 8, p. 30, row 13 |  |
-| 2346.1 | eutectic: L ↔ DyB66 + β-B | L: B 0.998; DyB66: B 0.985075, Dy 0.014925 | model | [1] Li 2020 | Table 8, p. 30, row 20 |  |
-| 2343 | eutectic: L ↔ DyB66 + β-B | L: B 0.995; DyB66: B 0.985075, Dy 0.014925 | model | [1] Li 2020; _cites ref. 25_ | Table 8, p. 30, row 19 |  |
-| 2298 | peritectic: L + DyB12 ↔ DyB66 | DyB12: B 0.923077, Dy 0.076923; DyB66: B 0.985075, Dy 0.014925 | model | [1] Li 2020; _cites ref. 23_ | Table 8, p. 30, row 11 |  |
-| 1673 | eutectic: L ↔ DyB2 + α-Dy | DyB2: B 0.666667, Dy 0.333333 | model | [1] Li 2020; _cites ref. 23_ | Table 8, p. 30, row 23 |  |
-| 1654 | peritectic: L+ β -Dy ↔α -Dy |  | model | [1] Li 2020; _cites ref. 25_ | Table 8, p. 30, row 21 |  |
-| 1639.7 | peritectic: L+ β -Dy ↔α -Dy | L: B 0.028 | model | [1] Li 2020 | Table 8, p. 30, row 22 |  |
-| 1619.1 | eutectic: L ↔ DyB2 + α-Dy | L: B 0.039; DyB2: B 0.666667, Dy 0.333333 | model | [1] Li 2020; _cites ref. 25_ | Table 8, p. 30, row 24 |  |
-| 1608.7 | eutectic: L ↔ DyB2 + α-Dy | L: B 0.048; DyB2: B 0.666667, Dy 0.333333 | model | [1] Li 2020 | Table 8, p. 30, row 25 |  |
+| 2773 | congruent melting: L ↔ DyB4 | L: B 0.8; DyB4: B 0.8, Dy 0.2 | model | [1] Li 2020; _cites ref. 23_ | Table 8, p. 30, row 1; `ORC-HJVDRNAXWB` |  |
+| 2767.1 | congruent melting: L ↔ DyB4 | L: B 0.8; DyB4: B 0.8, Dy 0.2 | model | [1] Li 2020 | Table 8, p. 30, row 3; `ORC-QG6FXK74BE` |  |
+| 2749.3 | congruent melting: L ↔ DyB4 | L: B 0.8; DyB4: B 0.8, Dy 0.2 | model | [1] Li 2020; _cites ref. 25_ | Table 8, p. 30, row 2; `ORC-PYQOMUOZHP` |  |
+| 2475.9 | peritectic: L + DyB4 ↔ DyB6 | DyB4: B 0.8, Dy 0.2; DyB6: B 0.857143, Dy 0.142857 | model | [1] Li 2020; _cites ref. 25_ | Table 8, p. 30, row 5; `ORC-CHCIZGVC2S` |  |
+| 2473 | peritectic: L + DyB4 ↔ DyB6 | L: B 0.88; DyB4: B 0.8, Dy 0.2; DyB6: B 0.857143, Dy 0.142857 | model | [1] Li 2020; _cites ref. 23_ | Table 8, p. 30, row 4; `ORC-U5HG5L3LTW` |  |
+| 2472 | peritectic: L + DyB4 ↔ DyB6 | DyB4: B 0.8, Dy 0.2; DyB6: B 0.857143, Dy 0.142857 | experimental | [1] Li 2020; _cites ref. 33_ | Table 8, p. 30, row 6; `ORC-EECG4EVOUH` |  |
+| 2472 | peritectic: L + DyB4 ↔ DyB6 | L: B 0.955; DyB4: B 0.8, Dy 0.2; DyB6: B 0.857143, Dy 0.142857 | model | [1] Li 2020 | Table 8, p. 30, row 7; `ORC-QMOS7BWK2R` |  |
+| 2423 | peritectic: L + DyB12 ↔ DyB66 | DyB12: B 0.923077, Dy 0.076923; DyB66: B 0.985075, Dy 0.014925 | experimental | [1] Li 2020; _cites ref. 34_ | Table 8, p. 30, row 12; `ORC-6YDLA75O7T` |  |
+| 2378.8 | peritectic: L + DyB6 ↔ DyB12 | DyB6: B 0.857143, Dy 0.142857; DyB12: B 0.923077, Dy 0.076923 | model | [1] Li 2020; _cites ref. 25_ | Table 8, p. 30, row 9; `ORC-2IZTVX3TH3` |  |
+| 2373 | peritectic: L + DyB4 ↔ DyB2 | L: B 0.62; DyB4: B 0.8, Dy 0.2; DyB2: B 0.666667, Dy 0.333333 | model | [1] Li 2020; _cites ref. 23_ | Table 8, p. 30, row 15; `ORC-4ZKYW2GBFS` |  |
+| 2373 | peritectic: L + DyB6 ↔ DyB12 | L: B 0.93; DyB6: B 0.857143, Dy 0.142857; DyB12: B 0.923077, Dy 0.076923 | model | [1] Li 2020; _cites ref. 23_ | Table 8, p. 30, row 8; `ORC-KSCMBYG4WC` |  |
+| 2371.3 | peritectic: L + DyB6 ↔ DyB12 | L: B 0.978; DyB6: B 0.857143, Dy 0.142857; DyB12: B 0.923077, Dy 0.076923 | model | [1] Li 2020 | Table 8, p. 30, row 10; `ORC-NHNEF3DWP4` |  |
+| 2369.8 | peritectic: L + DyB4 ↔ DyB2 | L: B 0.515; DyB4: B 0.8, Dy 0.2; DyB2: B 0.666667, Dy 0.333333 | model | [1] Li 2020 | Table 8, p. 30, row 17; `ORC-SORNOUZICD` |  |
+| 2365 | peritectic: L + DyB12 ↔ DyB66 | L: B 0.979; DyB12: B 0.923077, Dy 0.076923; DyB66: B 0.985075, Dy 0.014925 | model | [1] Li 2020 | Table 8, p. 30, row 14; `ORC-PFTVKG7ZIN` |  |
+| 2364.1 | peritectic: L + DyB4 ↔ DyB2 | DyB4: B 0.8, Dy 0.2; DyB2: B 0.666667, Dy 0.333333 | model | [1] Li 2020; _cites ref. 25_ | Table 8, p. 30, row 16; `ORC-LVPSCU74DV` |  |
+| 2347 | peritectic: L + DyB12 ↔ DyB66 | DyB12: B 0.923077, Dy 0.076923; DyB66: B 0.985075, Dy 0.014925 | model | [1] Li 2020; _cites ref. 25_ | Table 8, p. 30, row 13; `ORC-36JATRGZO3` |  |
+| 2346.1 | eutectic: L ↔ DyB66 + β-B | L: B 0.998; DyB66: B 0.985075, Dy 0.014925 | model | [1] Li 2020 | Table 8, p. 30, row 20; `ORC-GHVZBKZSL5` |  |
+| 2343 | eutectic: L ↔ DyB66 + β-B | L: B 0.995; DyB66: B 0.985075, Dy 0.014925 | model | [1] Li 2020; _cites ref. 25_ | Table 8, p. 30, row 19; `ORC-LXLR5HYGYV` |  |
+| 2298 | peritectic: L + DyB12 ↔ DyB66 | DyB12: B 0.923077, Dy 0.076923; DyB66: B 0.985075, Dy 0.014925 | model | [1] Li 2020; _cites ref. 23_ | Table 8, p. 30, row 11; `ORC-NSXASOLPMS` |  |
+| 1673 | eutectic: L ↔ DyB2 + α-Dy | DyB2: B 0.666667, Dy 0.333333 | model | [1] Li 2020; _cites ref. 23_ | Table 8, p. 30, row 23; `ORC-WGLGJDNEKJ` |  |
+| 1654 | peritectic: L+ β -Dy ↔α -Dy |  | model | [1] Li 2020; _cites ref. 25_ | Table 8, p. 30, row 21; `ORC-HYOK4P3GQH` |  |
+| 1639.7 | peritectic: L+ β -Dy ↔α -Dy | L: B 0.028 | model | [1] Li 2020 | Table 8, p. 30, row 22; `ORC-ODL22L5YHO` |  |
+| 1619.1 | eutectic: L ↔ DyB2 + α-Dy | L: B 0.039; DyB2: B 0.666667, Dy 0.333333 | model | [1] Li 2020; _cites ref. 25_ | Table 8, p. 30, row 24; `ORC-RYDFNMLADM` |  |
+| 1608.7 | eutectic: L ↔ DyB2 + α-Dy | L: B 0.048; DyB2: B 0.666667, Dy 0.333333 | model | [1] Li 2020 | Table 8, p. 30, row 25; `ORC-WGKQRN5OX2` |  |
 
 ## Formation enthalpies
 
@@ -64,19 +64,19 @@ Table: Enthalpies of formation, B–Dy system (13)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| DyB12 | [DyB12](https://data.orchid-project.org/compounds/DyB12.html) | -24.212 kJ/mol-atom | 298.15 | model | -24.129 (mp-aaackujk) | -24.171 (oqmd-28341) | [1] Li 2020 | Table 2, p. 25, row 25 |  |
-| DyB12 |  | 24.038 kJ/mol-atom | 298.15 | DFT |  |  | [1] Li 2020; _cites ref. 30_ | Table 2, p. 25, row 24 |  |
-| DyB2 | [DyB2](https://data.orchid-project.org/compounds/DyB2.html) | -58.019 kJ/mol-atom | 298.15 | model | -54.16 (mp-aaaaadbd) | -54.212 (oqmd-8332) | [1] Li 2020 | Table 2, p. 25, row 18 |  |
-| DyB2 | [DyB2](https://data.orchid-project.org/compounds/DyB2.html) | -54.44 kJ/mol-atom | 298.15 | experimental | -54.16 (mp-aaaaadbd) | -54.212 (oqmd-8332) | [1] Li 2020; _cites ref. 38_ | Table 2, p. 25, row 15 |  |
-| DyB2 |  | -54.135 kJ/mol-atom | 298.15 | DFT |  |  | [1] Li 2020; _cites ref. 30_ | Table 2, p. 25, row 16 |  |
-| DyB2 |  | -54.038 kJ/mol-atom | 298.15 | DFT |  |  | [1] Li 2020; _cites ref. 31_ | Table 2, p. 25, row 17 |  |
-| DyB2 | [DyB2](https://data.orchid-project.org/compounds/DyB2.html) | -30.2 kJ/mol-atom ± 1.3 | 298.15 | experimental | -54.16 (mp-aaaaadbd) | -54.212 (oqmd-8332) | [1] Li 2020; _cites ref. 37_ | Table 2, p. 25, row 14 |  |
-| DyB4 |  | -57.692 kJ/mol-atom | 298.15 | DFT |  |  | [1] Li 2020; _cites ref. 30_ | Table 2, p. 25, row 19 |  |
-| DyB4 |  | -57.596 kJ/mol-atom | 298.15 | DFT |  |  | [1] Li 2020; _cites ref. 31_ | Table 2, p. 25, row 20 |  |
-| DyB4 | [DyB4](https://data.orchid-project.org/compounds/DyB4.html) | -55.007 kJ/mol-atom | 298.15 | model | -57.547 (mp-aaaaaeap) | -57.764 (oqmd-12458) | [1] Li 2020 | Table 2, p. 25, row 21 |  |
-| DyB6 | [DyB6](https://data.orchid-project.org/compounds/DyB6.html) | -38.94 kJ/mol-atom | 298.15 | model | -38.604 (mp-aaabgisl) | -38.617 (oqmd-19358) | [1] Li 2020 | Table 2, p. 25, row 23 |  |
-| DyB6 |  | -38.558 kJ/mol-atom | 298.15 | DFT |  |  | [1] Li 2020; _cites ref. 31_ | Table 2, p. 25, row 22 |  |
-| DyB66 |  | -4.686 kJ/mol-atom | 298.15 | model |  |  | [1] Li 2020 | Table 2, p. 25, row 26 |  |
+| DyB12 | [DyB12](https://data.orchid-project.org/compounds/DyB12.html) | -24.212 kJ/mol-atom | 298.15 | model | -24.129 (mp-aaackujk) | -24.171 (oqmd-28341) | [1] Li 2020 | Table 2, p. 25, row 25; `ORC-N2YWGYXLIL` |  |
+| DyB12 |  | 24.038 kJ/mol-atom | 298.15 | DFT |  |  | [1] Li 2020; _cites ref. 30_ | Table 2, p. 25, row 24; `ORC-MWS3X4GNQZ` |  |
+| DyB2 | [DyB2](https://data.orchid-project.org/compounds/DyB2.html) | -58.019 kJ/mol-atom | 298.15 | model | -54.16 (mp-aaaaadbd) | -54.212 (oqmd-8332) | [1] Li 2020 | Table 2, p. 25, row 18; `ORC-4RHPQXJ6PD` |  |
+| DyB2 | [DyB2](https://data.orchid-project.org/compounds/DyB2.html) | -54.44 kJ/mol-atom | 298.15 | experimental | -54.16 (mp-aaaaadbd) | -54.212 (oqmd-8332) | [1] Li 2020; _cites ref. 38_ | Table 2, p. 25, row 15; `ORC-RGYHX5NTA6` |  |
+| DyB2 |  | -54.135 kJ/mol-atom | 298.15 | DFT |  |  | [1] Li 2020; _cites ref. 30_ | Table 2, p. 25, row 16; `ORC-IBF5J2DKF2` |  |
+| DyB2 |  | -54.038 kJ/mol-atom | 298.15 | DFT |  |  | [1] Li 2020; _cites ref. 31_ | Table 2, p. 25, row 17; `ORC-W7H4CSTW5Q` |  |
+| DyB2 | [DyB2](https://data.orchid-project.org/compounds/DyB2.html) | -30.2 kJ/mol-atom ± 1.3 | 298.15 | experimental | -54.16 (mp-aaaaadbd) | -54.212 (oqmd-8332) | [1] Li 2020; _cites ref. 37_ | Table 2, p. 25, row 14; `ORC-QXJEHWNYE2` |  |
+| DyB4 |  | -57.692 kJ/mol-atom | 298.15 | DFT |  |  | [1] Li 2020; _cites ref. 30_ | Table 2, p. 25, row 19; `ORC-TENQ3OWTJ4` |  |
+| DyB4 |  | -57.596 kJ/mol-atom | 298.15 | DFT |  |  | [1] Li 2020; _cites ref. 31_ | Table 2, p. 25, row 20; `ORC-L2UMAADW6F` |  |
+| DyB4 | [DyB4](https://data.orchid-project.org/compounds/DyB4.html) | -55.007 kJ/mol-atom | 298.15 | model | -57.547 (mp-aaaaaeap) | -57.764 (oqmd-12458) | [1] Li 2020 | Table 2, p. 25, row 21; `ORC-HMI32WVYYG` |  |
+| DyB6 | [DyB6](https://data.orchid-project.org/compounds/DyB6.html) | -38.94 kJ/mol-atom | 298.15 | model | -38.604 (mp-aaabgisl) | -38.617 (oqmd-19358) | [1] Li 2020 | Table 2, p. 25, row 23; `ORC-ZLCM5EYPHB` |  |
+| DyB6 |  | -38.558 kJ/mol-atom | 298.15 | DFT |  |  | [1] Li 2020; _cites ref. 31_ | Table 2, p. 25, row 22; `ORC-VWHMPRAAJZ` |  |
+| DyB66 |  | -4.686 kJ/mol-atom | 298.15 | model |  |  | [1] Li 2020 | Table 2, p. 25, row 26; `ORC-MHBR4IYGDG` |  |
 
 ## Sources
 
@@ -130,4 +130,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

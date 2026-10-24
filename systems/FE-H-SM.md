@@ -28,7 +28,7 @@ Table: Phase transition, Fe–H–Sm system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1313 K | 1313 | Fe 1 SmH 26x ⇒ Fe 17 Sm 2 1 H 2 | experimental | [1] Zinkevich 2002; _cites Nakamura 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2904904-1) | p. 3 | “The equilibrium temperature of the invariant recombination reaction: Fe 1 SmH 26x ⇒ Fe 17 Sm 2 1 H 2 depends on the hydrogen partial pressure in the gas phase increasing from 923 K for vacuum conditions \[30\] up to 1313 K for 101 325 Pa H 2 \[61\].” |
+| Phase transition | 1313 K | 1313 | Fe 1 SmH 26x ⇒ Fe 17 Sm 2 1 H 2 | experimental | [1] Zinkevich 2002; _cites Nakamura 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2904904-1) | p. 3; `ORC-ENONNBG67V.161966` | “The equilibrium temperature of the invariant recombination reaction: Fe 1 SmH 26x ⇒ Fe 17 Sm 2 1 H 2 depends on the hydrogen partial pressure in the gas phase increasing from 923 K for vacuum conditions \[30\] up to 1313 K for 101 325 Pa H 2 \[61\].” |
 
 ## Sources
 
@@ -71,4 +71,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

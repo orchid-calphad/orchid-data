@@ -63,18 +63,18 @@ Table: Invariant reactions reported in the literature for the Hf–Mn system (12
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1715.74 | βHf -> L + αHf | βHf: Mn 0.0849; L: Mn 0.2185; αHf: Mn 0.0218 | model | [1] Zhou 2012 | Table 5, p. 8, row 1 |  |
-| 1573 | L + HfMn2 -> HfMn | L: Mn 0.24; HfMn2: Mn 0.62; HfMn: Mn 0.5 | model | [1] Zhou 2012; _cites Okamoto 1995_ [doi](https://doi.org/10.1007/bf02645298) | Table 5, p. 8, row 4 |  |
-| 1571.6 | L + HfMn2 -> HfMn | L: Mn 0.2703; HfMn2: Mn 0.6286; HfMn: Mn 0.5 | model | [1] Zhou 2012 | Table 5, p. 8, row 3 |  |
-| 1524.1 | L -> αHf + HfMn | L: Mn 0.2479; αHf: Mn 0.0427; HfMn: Mn 0.5 | model | [1] Zhou 2012 | Table 5, p. 8, row 2 |  |
-| 1524.1 | eutectic: L M aHf + HfMn |  | model | [1] Zhou 2012 | p. 6 | “In the present work, the eutectic reaction of L M aHf + HfMn is calculated at 1524.1 K.” |
-| 1523 | eutectic: L M bHf + HfMn |  | model | [1] Zhou 2012; _cites Okamoto 1995_ [doi](https://doi.org/10.1007/bf02645298) | p. 6 | “If this prediction holds, the bHf in the eutectic reaction of L M bHf + HfMn at 1523 K, which is assessed by Okamoto\[8\] based on DTA results of works,\[10,13\] should be replaced by the aHf.” |
-| 1485 | L -> HfMn2 + δMn | L: Mn 0.96; HfMn2: Mn 0.755; δMn: Mn 0.992 | model | [1] Zhou 2012; _cites Okamoto 1995_ [doi](https://doi.org/10.1007/bf02645298) | Table 5, p. 8, row 8 |  |
-| 1481.01 | L -> HfMn2 + δMn | L: Mn 0.9677; HfMn2: Mn 0.7456; δMn: Mn 0.9846 | model | [1] Zhou 2012 | Table 5, p. 8, row 7 |  |
-| 1413 | HfMn2 + δMn -> βMn | HfMn2: Mn 0.755; δMn: Mn 0.994; βMn: Mn 0.97 | model | [1] Zhou 2012; _cites Okamoto 1995_ [doi](https://doi.org/10.1007/bf02645298) | Table 5, p. 8, row 10 |  |
-| 1411.48 | HfMn2 + δMn -> βMn | HfMn2: Mn 0.7537; δMn: Mn 0.9882; βMn: Mn 0.9819 | model | [1] Zhou 2012 | Table 5, p. 8, row 9 |  |
-| 973.27 | βMn -> αMn + HfMn2 | βMn: Mn 0.998; αMn: Mn 1; HfMn2: Mn 0.7437 | model | [1] Zhou 2012 | Table 5, p. 8, row 13 |  |
-| 973 | βMn -> αMn + HfMn2 | βMn: Mn 0.995; αMn: Mn 0.998; HfMn2: Mn 0.74 | model | [1] Zhou 2012; _cites Okamoto 1995_ [doi](https://doi.org/10.1007/bf02645298) | Table 5, p. 8, row 14 |  |
+| 1715.74 | βHf -> L + αHf | βHf: Mn 0.0849; L: Mn 0.2185; αHf: Mn 0.0218 | model | [1] Zhou 2012 | Table 5, p. 8, row 1; `ORC-YQ4PJOLPP3` |  |
+| 1573 | L + HfMn2 -> HfMn | L: Mn 0.24; HfMn2: Mn 0.62; HfMn: Mn 0.5 | model | [1] Zhou 2012; _cites Okamoto 1995_ [doi](https://doi.org/10.1007/bf02645298) | Table 5, p. 8, row 4; `ORC-7DQMJ54RYZ` |  |
+| 1571.6 | L + HfMn2 -> HfMn | L: Mn 0.2703; HfMn2: Mn 0.6286; HfMn: Mn 0.5 | model | [1] Zhou 2012 | Table 5, p. 8, row 3; `ORC-TYKFLAJBTI` |  |
+| 1524.1 | L -> αHf + HfMn | L: Mn 0.2479; αHf: Mn 0.0427; HfMn: Mn 0.5 | model | [1] Zhou 2012 | Table 5, p. 8, row 2; `ORC-D6OP22YHT4` |  |
+| 1524.1 | eutectic: L M aHf + HfMn |  | model | [1] Zhou 2012 | p. 6; `ORC-NWITJOHQTJ` | “In the present work, the eutectic reaction of L M aHf + HfMn is calculated at 1524.1 K.” |
+| 1523 | eutectic: L M bHf + HfMn |  | model | [1] Zhou 2012; _cites Okamoto 1995_ [doi](https://doi.org/10.1007/bf02645298) | p. 6; `ORC-LDGAFBEMD3` | “If this prediction holds, the bHf in the eutectic reaction of L M bHf + HfMn at 1523 K, which is assessed by Okamoto\[8\] based on DTA results of works,\[10,13\] should be replaced by the aHf.” |
+| 1485 | L -> HfMn2 + δMn | L: Mn 0.96; HfMn2: Mn 0.755; δMn: Mn 0.992 | model | [1] Zhou 2012; _cites Okamoto 1995_ [doi](https://doi.org/10.1007/bf02645298) | Table 5, p. 8, row 8; `ORC-5HPG54XP3L` |  |
+| 1481.01 | L -> HfMn2 + δMn | L: Mn 0.9677; HfMn2: Mn 0.7456; δMn: Mn 0.9846 | model | [1] Zhou 2012 | Table 5, p. 8, row 7; `ORC-THZX45RUZU` |  |
+| 1413 | HfMn2 + δMn -> βMn | HfMn2: Mn 0.755; δMn: Mn 0.994; βMn: Mn 0.97 | model | [1] Zhou 2012; _cites Okamoto 1995_ [doi](https://doi.org/10.1007/bf02645298) | Table 5, p. 8, row 10; `ORC-LXR46TTYT2` |  |
+| 1411.48 | HfMn2 + δMn -> βMn | HfMn2: Mn 0.7537; δMn: Mn 0.9882; βMn: Mn 0.9819 | model | [1] Zhou 2012 | Table 5, p. 8, row 9; `ORC-3HLYU5CEBC` |  |
+| 973.27 | βMn -> αMn + HfMn2 | βMn: Mn 0.998; αMn: Mn 1; HfMn2: Mn 0.7437 | model | [1] Zhou 2012 | Table 5, p. 8, row 13; `ORC-VYKG2H2IFE` |  |
+| 973 | βMn -> αMn + HfMn2 | βMn: Mn 0.995; αMn: Mn 0.998; HfMn2: Mn 0.74 | model | [1] Zhou 2012; _cites Okamoto 1995_ [doi](https://doi.org/10.1007/bf02645298) | Table 5, p. 8, row 14; `ORC-GPJBIVZVEC` |  |
 
 ## Other properties
 
@@ -84,21 +84,21 @@ Table: Phase transition, Hf–Mn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1041.25 K | 1041.25 | eutectoid: Hf–Mn 6–94 | experimental | [2] Brož 2024 | Table 4b, p. 10, row 11 |  |
-| Phase transition | 1041.55 K | 1041.55 | eutectoid: Hf–Mn 4–96 | experimental | [2] Brož 2024 | Table 4b, p. 10, row 8 |  |
-| Phase transition | 1045.65 K | 1045.65 | eutectoid: Hf–Mn 2–98 | experimental | [2] Brož 2024 | Table 4b, p. 10, row 4 |  |
-| Phase transition | 1123 K | 1123 | bHf M aHf + HfMn | model | [1] Zhou 2012; _cites Okamoto 1995_ [doi](https://doi.org/10.1007/bf02645298) | p. 4 | “Alloy 1# (26.12 at.% Mn, annealed at 923 K) was subjected to DTA measurement to examine whether the invariant reaction bHf M aHf + HfMn occurs at 1123 K as accepted by Okamoto.\[8\]” |
-| Phase transition | 1123 K | 1123 | bHf M aHf + HfMn | model | [1] Zhou 2012; _cites Okamoto 1995_ [doi](https://doi.org/10.1007/bf02645298) | p. 8 | “The invariant equilibrium of bHf M aHf + HfMn previously proposed to occur at 1123 K,\[8\] was not observed.” |
-| Phase transition | 1412.35 K | 1412.35 | peritectoid: Hf–Mn 6–94 | experimental | [2] Brož 2024 | Table 4b, p. 10, row 12 |  |
-| Phase transition | 1413.25 K | 1413.25 | peritectoid: Hf–Mn 4–96 | experimental | [2] Brož 2024 | Table 4b, p. 10, row 9 |  |
-| Phase transition | 1413.35 K | 1413.35 | peritectoid: Hf–Mn 2–98 | experimental | [2] Brož 2024 | Table 4b, p. 10, row 5 |  |
-| Phase transition | 1465.85 K | 1465.85 | eutectic: Hf–Mn 2–98 | experimental | [2] Brož 2024 | Table 4b, p. 10, row 6 |  |
-| Phase transition | 1466.55 K | 1466.55 | eutectic: Hf–Mn 4–96 | experimental | [2] Brož 2024 | Table 4b, p. 10, row 10 |  |
-| Phase transition | 1466.55 K | 1466.55 | eutectic: Hf–Mn 6–94 | experimental | [2] Brož 2024 | Table 4b, p. 10, row 13 |  |
-| Phase transition | 1486.55 K | 1486.55 | other: Hf–Mn 2–98 | experimental | [2] Brož 2024 | Table 4b, p. 10, row 7 |  |
-| Phase transition | 1715.74 K | 1715.74 | bHf M L + aHf | model | [1] Zhou 2012 | p. 6 | “mono-phase region extends from the pure Hf side into the Hf-Mn binary system, which disappears at 1715.74 K with 8.49 at.% Mn. Thus a new invariant equilibrium of bHf M L + aHf is thermodynamically predicted.” |
-| Phase transition | 2000.16 K | 2000.16 | L -> HfMn2; _L: Mn 0.6667; HfMn2: Mn 0.6667_ | model | [1] Zhou 2012 | Table 5, p. 8, row 5 |  |
-| Phase transition | 2003 K | 2003 | L -> HfMn2; _L: Mn 0.667; HfMn2: Mn 0.667_ | model | [1] Zhou 2012; _cites Okamoto 1995_ [doi](https://doi.org/10.1007/bf02645298) | Table 5, p. 8, row 6 |  |
+| Phase transition | 1041.25 K | 1041.25 | eutectoid: Hf–Mn 6–94 | experimental | [2] Brož 2024 | Table 4b, p. 10, row 11; `ORC-WLJXUOGSVF` |  |
+| Phase transition | 1041.55 K | 1041.55 | eutectoid: Hf–Mn 4–96 | experimental | [2] Brož 2024 | Table 4b, p. 10, row 8; `ORC-X77J3YHYXB` |  |
+| Phase transition | 1045.65 K | 1045.65 | eutectoid: Hf–Mn 2–98 | experimental | [2] Brož 2024 | Table 4b, p. 10, row 4; `ORC-BBPV3NIBVC` |  |
+| Phase transition | 1123 K | 1123 | bHf M aHf + HfMn | model | [1] Zhou 2012; _cites Okamoto 1995_ [doi](https://doi.org/10.1007/bf02645298) | p. 4; `ORC-FXZXQKVY2E` | “Alloy 1# (26.12 at.% Mn, annealed at 923 K) was subjected to DTA measurement to examine whether the invariant reaction bHf M aHf + HfMn occurs at 1123 K as accepted by Okamoto.\[8\]” |
+| Phase transition | 1123 K | 1123 | bHf M aHf + HfMn | model | [1] Zhou 2012; _cites Okamoto 1995_ [doi](https://doi.org/10.1007/bf02645298) | p. 8; `ORC-SEBKOG7XIF` | “The invariant equilibrium of bHf M aHf + HfMn previously proposed to occur at 1123 K,\[8\] was not observed.” |
+| Phase transition | 1412.35 K | 1412.35 | peritectoid: Hf–Mn 6–94 | experimental | [2] Brož 2024 | Table 4b, p. 10, row 12; `ORC-SIIPB27ZYL` |  |
+| Phase transition | 1413.25 K | 1413.25 | peritectoid: Hf–Mn 4–96 | experimental | [2] Brož 2024 | Table 4b, p. 10, row 9; `ORC-MQU4TP5KMR` |  |
+| Phase transition | 1413.35 K | 1413.35 | peritectoid: Hf–Mn 2–98 | experimental | [2] Brož 2024 | Table 4b, p. 10, row 5; `ORC-6PNGMAJCB6` |  |
+| Phase transition | 1465.85 K | 1465.85 | eutectic: Hf–Mn 2–98 | experimental | [2] Brož 2024 | Table 4b, p. 10, row 6; `ORC-ZJJTHDB7IN` |  |
+| Phase transition | 1466.55 K | 1466.55 | eutectic: Hf–Mn 4–96 | experimental | [2] Brož 2024 | Table 4b, p. 10, row 10; `ORC-EEUBRC6BLD` |  |
+| Phase transition | 1466.55 K | 1466.55 | eutectic: Hf–Mn 6–94 | experimental | [2] Brož 2024 | Table 4b, p. 10, row 13; `ORC-ZBNIEWEWJX` |  |
+| Phase transition | 1486.55 K | 1486.55 | other: Hf–Mn 2–98 | experimental | [2] Brož 2024 | Table 4b, p. 10, row 7; `ORC-K5724PZQQW` |  |
+| Phase transition | 1715.74 K | 1715.74 | bHf M L + aHf | model | [1] Zhou 2012 | p. 6; `ORC-P3RNWMJSJF` | “mono-phase region extends from the pure Hf side into the Hf-Mn binary system, which disappears at 1715.74 K with 8.49 at.% Mn. Thus a new invariant equilibrium of bHf M L + aHf is thermodynamically predicted.” |
+| Phase transition | 2000.16 K | 2000.16 | L -> HfMn2; _L: Mn 0.6667; HfMn2: Mn 0.6667_ | model | [1] Zhou 2012 | Table 5, p. 8, row 5; `ORC-7IKYX74OER` |  |
+| Phase transition | 2003 K | 2003 | L -> HfMn2; _L: Mn 0.667; HfMn2: Mn 0.667_ | model | [1] Zhou 2012; _cites Okamoto 1995_ [doi](https://doi.org/10.1007/bf02645298) | Table 5, p. 8, row 6; `ORC-BUTXONE4MI` |  |
 
 ### Phase equilibrium (1)
 
@@ -106,7 +106,7 @@ Table: Phase equilibrium, Hf–Mn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 1486.55 | other: 2–98; _liquid: Hf 0.016, Mn 0.984_ | experimental | [2] Brož 2024 | Table 4b, p. 10, row 1 |  |
+| Phase composition |  | 1486.55 | other: 2–98; _liquid: Hf 0.016, Mn 0.984_ | experimental | [2] Brož 2024 | Table 4b, p. 10, row 1; `ORC-3KJCNBMBQI` |  |
 
 ### Crystal structure (20)
 
@@ -114,26 +114,26 @@ Table: Crystal structure, Hf–Mn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 11.886 Å | 298.15 | Hf2Mn; _alloy: Mn 0.333333_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 3 |  |
-| Lattice a | 11.7935 Å | 298.15 | Hf3+xMn3-xOy | unspecified | [2] Brož 2024 | Table 1, p. 3, row 5 |  |
-| Lattice a | 11.812 Å | 298.15 | HfMn; _alloy: Mn 0.5_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 4 |  |
-| Lattice a | 5.01242 Å | 298.15 | αHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 10 |  |
-| Lattice a | 4.956 Å | 298.15 | αHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 8 |  |
-| Lattice a | 4.96 Å | 298.15 | αHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 7 |  |
-| Lattice a | 4.9464 Å | 298.15 | αHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 9 |  |
-| Lattice a | 5.016 Å | 298.15 | βHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 11 |  |
-| Lattice a | 0.49849 not_printed ± 2.000e-5 | 300 | UNKNOWN; _alloy: Hf 0.339, Mn 0.661_ | experimental | [2] Brož 2024 | Table 2, p. 4, row 1 |  |
-| Lattice a | 5.007 Å | 1730 (\<) | αHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 6 |  |
-| Lattice a | 3.1949 Å | 1743 (\<) | (αHf); _alloy: Mn 0_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 1 |  |
-| Lattice a | 3.615 Å | 1987 | UNKNOWN; _alloy: Mn 0_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 2 |  |
-| Lattice b | 0.49849 not_printed ± 2.000e-5 | 300 | UNKNOWN; _alloy: Hf 0.339, Mn 0.661_ | experimental | [2] Brož 2024 | Table 2, p. 4, row 1 |  |
-| Lattice c | 8.23508 Å | 298.15 | αHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 10 |  |
-| Lattice c | 8.122 Å | 298.15 | αHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 8 |  |
-| Lattice c | 8.147 Å | 298.15 | αHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 7 |  |
-| Lattice c | 8.0964 Å | 298.15 | αHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 9 |  |
-| Lattice c | 16.367 Å | 298.15 | βHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 11 |  |
-| Lattice c | 0.81987 not_printed ± 2.000e-5 | 300 | UNKNOWN; _alloy: Hf 0.339, Mn 0.661_ | experimental | [2] Brož 2024 | Table 2, p. 4, row 1 |  |
-| Lattice c | 8.236 Å | 1730 (\<) | αHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 6 |  |
+| Lattice a | 11.886 Å | 298.15 | Hf2Mn; _alloy: Mn 0.333333_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 3; `ORC-V33BHSQR5J` |  |
+| Lattice a | 11.7935 Å | 298.15 | Hf3+xMn3-xOy | unspecified | [2] Brož 2024 | Table 1, p. 3, row 5; `ORC-CGJRN47RVD` |  |
+| Lattice a | 11.812 Å | 298.15 | HfMn; _alloy: Mn 0.5_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 4; `ORC-Y6X76HSUFA` |  |
+| Lattice a | 5.01242 Å | 298.15 | αHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 10; `ORC-24CLTWBNZR.16377e` |  |
+| Lattice a | 4.956 Å | 298.15 | αHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 8; `ORC-7PZWQQAQ35.339a42` |  |
+| Lattice a | 4.96 Å | 298.15 | αHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 7; `ORC-BEF5EZPIVV.2fbafc` |  |
+| Lattice a | 4.9464 Å | 298.15 | αHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 9; `ORC-KRGOBA7JPX.ec4f75` |  |
+| Lattice a | 5.016 Å | 298.15 | βHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 11; `ORC-ZCCHNB7Q37.ba3518` |  |
+| Lattice a | 0.49849 not_printed ± 2.000e-5 | 300 | UNKNOWN; _alloy: Hf 0.339, Mn 0.661_ | experimental | [2] Brož 2024 | Table 2, p. 4, row 1; `ORC-EY55RW5MJB.5b2ec5` |  |
+| Lattice a | 5.007 Å | 1730 (\<) | αHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 6; `ORC-7D3LKG2P63.a03134` |  |
+| Lattice a | 3.1949 Å | 1743 (\<) | (αHf); _alloy: Mn 0_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 1; `ORC-GEOY6RH5TL` |  |
+| Lattice a | 3.615 Å | 1987 | UNKNOWN; _alloy: Mn 0_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 2; `ORC-SA47A4S3NM` |  |
+| Lattice b | 0.49849 not_printed ± 2.000e-5 | 300 | UNKNOWN; _alloy: Hf 0.339, Mn 0.661_ | experimental | [2] Brož 2024 | Table 2, p. 4, row 1; `ORC-EY55RW5MJB.05b428` |  |
+| Lattice c | 8.23508 Å | 298.15 | αHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 10; `ORC-24CLTWBNZR.308f7f` |  |
+| Lattice c | 8.122 Å | 298.15 | αHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 8; `ORC-7PZWQQAQ35.d126a3` |  |
+| Lattice c | 8.147 Å | 298.15 | αHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 7; `ORC-BEF5EZPIVV.a33a5b` |  |
+| Lattice c | 8.0964 Å | 298.15 | αHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 9; `ORC-KRGOBA7JPX.8decd6` |  |
+| Lattice c | 16.367 Å | 298.15 | βHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 11; `ORC-ZCCHNB7Q37.0dc36b` |  |
+| Lattice c | 0.81987 not_printed ± 2.000e-5 | 300 | UNKNOWN; _alloy: Hf 0.339, Mn 0.661_ | experimental | [2] Brož 2024 | Table 2, p. 4, row 1; `ORC-EY55RW5MJB.7fbfcd` |  |
+| Lattice c | 8.236 Å | 1730 (\<) | αHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 6; `ORC-7D3LKG2P63.a3af44` |  |
 
 ## Sources
 
@@ -199,4 +199,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

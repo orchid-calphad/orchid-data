@@ -69,8 +69,8 @@ Table: Invariant reactions reported in the literature for the Fe–Pr system (2)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1359 | eutectic: liq. → fcc(Fe) + Pr2Fe14B + Pr1.1Fe4B4 |  | experimental | [1] Chen 2020 | p. 14 | “On the heating curve of the alloy #1, the peak at 1359 K is corresponding to the eutectic reaction of liq. → fcc(Fe) + Pr2Fe14B + Pr1.1Fe4B4 at the Fe-rich part.” |
-| 1358 | eutectic: liq. → fcc(Fe) + Pr2Fe14B + Pr1.1Fe4B4 |  | experimental | [1] Chen 2020 | p. 14 | “The eutectic temperature of liq. → fcc(Fe) + Pr2Fe14B + Pr1.1Fe4B4 was set as 1358 K by averaging the obtained temperatures of the two” |
+| 1359 | eutectic: liq. → fcc(Fe) + Pr2Fe14B + Pr1.1Fe4B4 |  | experimental | [1] Chen 2020 | p. 14; `ORC-2KGHLQUXHM` | “On the heating curve of the alloy #1, the peak at 1359 K is corresponding to the eutectic reaction of liq. → fcc(Fe) + Pr2Fe14B + Pr1.1Fe4B4 at the Fe-rich part.” |
+| 1358 | eutectic: liq. → fcc(Fe) + Pr2Fe14B + Pr1.1Fe4B4 |  | experimental | [1] Chen 2020 | p. 14; `ORC-RVN2OH3C3P` | “The eutectic temperature of liq. → fcc(Fe) + Pr2Fe14B + Pr1.1Fe4B4 was set as 1358 K by averaging the obtained temperatures of the two” |
 
 ## Sources
 
@@ -135,4 +135,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

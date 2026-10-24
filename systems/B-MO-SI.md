@@ -28,7 +28,7 @@ Table: Phase transition, B–Mo–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 2400 K | 2400 |  | model | [1] Yang 2005 | p. 2 | “Based on the cooling curves of Mo0.625Si0.125B0.25 and Mo0.72Si0.1B0.18, Schneibel et al. \[12\] estimated that the melting temperature of T2 is about 2400 K and the final freezing of the alloys in the Mo-rich region is about 2200 K.” |
+| Phase transition | 2400 K | 2400 |  | model | [1] Yang 2005 | p. 2; `ORC-OFF6JMAM3C.c4b9f8` | “Based on the cooling curves of Mo0.625Si0.125B0.25 and Mo0.72Si0.1B0.18, Schneibel et al. \[12\] estimated that the melting temperature of T2 is about 2400 K and the final freezing of the alloys in the Mo-rich region is about 2200 K.” |
 
 ## Sources
 
@@ -71,4 +71,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

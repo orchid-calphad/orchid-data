@@ -32,11 +32,11 @@ Table: Enthalpies of formation, C–Ni system (5)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Ni3C |  | 26.3 kJ/mol (basis unstated) | 0 | unspecified |  |  | [1] Oikawa 2022; _cites Nishitani 1985_ [doi](https://doi.org/10.1007/bf00720526) | Table 4, p. 9, row 3 |  |
-| Ni3C |  | 33.2 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Oikawa 2022 | Table 4, p. 9, row 5 |  |
-| Ni3C |  | 38.5 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Oikawa 2022; _cites Roth 1929_ [doi](https://doi.org/10.1002/ange.19290424102) | Table 4, p. 9, row 1 |  |
-| Ni3C |  | 39.5 kJ/mol (basis unstated) | 0 | model |  |  | [1] Oikawa 2022; _cites Gibson 2010_ [doi](https://doi.org/10.1088/0953-8984/22/44/445503) | Table 4, p. 9, row 2 |  |
-| Ni3C |  | 40.2 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Oikawa 2022; _cites Gabriel 1988_ | Table 4, p. 9, row 4 |  |
+| Ni3C |  | 26.3 kJ/mol (basis unstated) | 0 | unspecified |  |  | [1] Oikawa 2022; _cites Nishitani 1985_ [doi](https://doi.org/10.1007/bf00720526) | Table 4, p. 9, row 3; `ORC-SYRLMVBFEC` |  |
+| Ni3C |  | 33.2 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Oikawa 2022 | Table 4, p. 9, row 5; `ORC-QSATOEEC7V` |  |
+| Ni3C |  | 38.5 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Oikawa 2022; _cites Roth 1929_ [doi](https://doi.org/10.1002/ange.19290424102) | Table 4, p. 9, row 1; `ORC-U2U5OS77XA` |  |
+| Ni3C |  | 39.5 kJ/mol (basis unstated) | 0 | model |  |  | [1] Oikawa 2022; _cites Gibson 2010_ [doi](https://doi.org/10.1088/0953-8984/22/44/445503) | Table 4, p. 9, row 2; `ORC-QY66R5VMDZ` |  |
+| Ni3C |  | 40.2 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Oikawa 2022; _cites Gabriel 1988_ | Table 4, p. 9, row 4; `ORC-3P3RXICTZK` |  |
 
 ## Other properties
 
@@ -46,12 +46,12 @@ Table: Formation, C–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Gibbs energy of formation; _printed: Formation energy_ | 29.8 kJ/mol (basis unstated) | 500.15 | Ni3C; _alloy: Ni 0.75_ | experimental | [1] Oikawa 2022; _cites Browning 1952_ [doi](https://doi.org/10.1021/ja01127a021) | Table 4, p. 9, row 6 |  |
-| Gibbs energy of formation; _printed: Formation energy_ | 25.6 kJ/mol (basis unstated) | 500.15 | Ni3C; _alloy: Ni 0.75_ | model | [1] Oikawa 2022; _cites Gabriel 1987_ [doi](https://doi.org/10.1016/0364-5916%2887%2990039-3) | Table 4, p. 9, row 8 |  |
-| Gibbs energy of formation; _printed: Formation energy_ | 25.3 kJ/mol (basis unstated) | 500.15 | Ni3C; _alloy: Ni 0.75_ | unspecified | [1] Oikawa 2022 | Table 4, p. 9, row 10 |  |
-| Gibbs energy of formation; _printed: Formation energy_ | 23.1 kJ/mol (basis unstated) | 600.15 | Ni3C; _alloy: Ni 0.75_ | model | [1] Oikawa 2022; _cites Gabriel 1987_ [doi](https://doi.org/10.1016/0364-5916%2887%2990039-3) | Table 4, p. 9, row 9 |  |
-| Gibbs energy of formation; _printed: Formation energy_ | 24.1 kJ/mol (basis unstated) | 600.15 | Ni3C; _alloy: Ni 0.75_ | unspecified | [1] Oikawa 2022 | Table 4, p. 9, row 11 |  |
-| Gibbs energy of formation; _printed: Formation energy_ | 19.4 kJ/mol (basis unstated) | 600.15 | Ni3C; _alloy: Ni 0.75_ | experimental | [1] Oikawa 2022; _cites Browning 1952_ [doi](https://doi.org/10.1021/ja01127a021) | Table 4, p. 9, row 7 |  |
+| Gibbs energy of formation; _printed: Formation energy_ | 29.8 kJ/mol (basis unstated) | 500.15 | Ni3C; _alloy: Ni 0.75_ | experimental | [1] Oikawa 2022; _cites Browning 1952_ [doi](https://doi.org/10.1021/ja01127a021) | Table 4, p. 9, row 6; `ORC-KTQFQBVSOX` |  |
+| Gibbs energy of formation; _printed: Formation energy_ | 25.6 kJ/mol (basis unstated) | 500.15 | Ni3C; _alloy: Ni 0.75_ | model | [1] Oikawa 2022; _cites Gabriel 1987_ [doi](https://doi.org/10.1016/0364-5916%2887%2990039-3) | Table 4, p. 9, row 8; `ORC-MQVMDEQTYG` |  |
+| Gibbs energy of formation; _printed: Formation energy_ | 25.3 kJ/mol (basis unstated) | 500.15 | Ni3C; _alloy: Ni 0.75_ | unspecified | [1] Oikawa 2022 | Table 4, p. 9, row 10; `ORC-UTXBXBGZK2` |  |
+| Gibbs energy of formation; _printed: Formation energy_ | 23.1 kJ/mol (basis unstated) | 600.15 | Ni3C; _alloy: Ni 0.75_ | model | [1] Oikawa 2022; _cites Gabriel 1987_ [doi](https://doi.org/10.1016/0364-5916%2887%2990039-3) | Table 4, p. 9, row 9; `ORC-26SKABOKNL` |  |
+| Gibbs energy of formation; _printed: Formation energy_ | 24.1 kJ/mol (basis unstated) | 600.15 | Ni3C; _alloy: Ni 0.75_ | unspecified | [1] Oikawa 2022 | Table 4, p. 9, row 11; `ORC-GG47FAYLL3` |  |
+| Gibbs energy of formation; _printed: Formation energy_ | 19.4 kJ/mol (basis unstated) | 600.15 | Ni3C; _alloy: Ni 0.75_ | experimental | [1] Oikawa 2022; _cites Browning 1952_ [doi](https://doi.org/10.1021/ja01127a021) | Table 4, p. 9, row 7; `ORC-RJ2KCXJRAM` |  |
 
 ## Sources
 
@@ -105,4 +105,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

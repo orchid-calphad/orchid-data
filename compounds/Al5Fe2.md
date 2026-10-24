@@ -14,9 +14,9 @@ Table: Enthalpy of formation of Al5Fe2 reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -30.5 kJ/mol-atom ± 1.7 | η-Al5Fe2 | 298.15 | experimental | solution calorimetry | [Al–Fe](https://data.orchid-project.org/systems/AL-FE.html) | [1] Ilatovskaia 2023; _cites Lukas 2007_ | Table 3, p. 6, row 1 |  |
-| -23.5 kJ/mol-atom | η-Al5Fe2 | 298.15 | model |  | [Al–Fe](https://data.orchid-project.org/systems/AL-FE.html) | [1] Ilatovskaia 2023 | Table 3, p. 6, row 4 |  |
-| -23.09 kJ/mol-atom | η-Al5Fe2 | 298.15 | model |  | [Al–Fe](https://data.orchid-project.org/systems/AL-FE.html) | [1] Ilatovskaia 2023; _cites Zienert 2018_ [doi](https://doi.org/10.1016/j.jallcom.2018.01.316) | Table 3, p. 6, row 3 |  |
+| -30.5 kJ/mol-atom ± 1.7 | η-Al5Fe2 | 298.15 | experimental | solution calorimetry | [Al–Fe](https://data.orchid-project.org/systems/AL-FE.html) | [1] Ilatovskaia 2023; _cites Lukas 2007_ | Table 3, p. 6, row 1; `ORC-JS5IF7RCC7.1c3822` |  |
+| -23.5 kJ/mol-atom | η-Al5Fe2 | 298.15 | model |  | [Al–Fe](https://data.orchid-project.org/systems/AL-FE.html) | [1] Ilatovskaia 2023 | Table 3, p. 6, row 4; `ORC-7PZ4D5IAFZ.6ab1ca` |  |
+| -23.09 kJ/mol-atom | η-Al5Fe2 | 298.15 | model |  | [Al–Fe](https://data.orchid-project.org/systems/AL-FE.html) | [1] Ilatovskaia 2023; _cites Zienert 2018_ [doi](https://doi.org/10.1016/j.jallcom.2018.01.316) | Table 3, p. 6, row 3; `ORC-OB2DGUQYZ2.616026` |  |
 
 ### Uncertainty budget
 
@@ -81,4 +81,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

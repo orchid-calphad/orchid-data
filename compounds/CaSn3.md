@@ -14,12 +14,12 @@ Table: Enthalpy of formation of CaSn3 reported in the literature (6)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -44.98 kJ/mol-atom ± 4.2 | CaSn3 | 298.15 | experimental |  | [Ca–Sn](https://data.orchid-project.org/systems/CA-SN.html) | [1] OHNO 2006; _cites Kubaschewski 1949_ | Table 3, p. 5, row 29 |  |
-| -38.6 kJ/mol-atom ± 0.8 | CaSn3 | 298.15 | experimental |  | [Ca–Sn](https://data.orchid-project.org/systems/CA-SN.html) | [1] OHNO 2006; _cites Bouirden 1984_ | Table 3, p. 5, row 30 |  |
-| -39.3495 kJ/mol-atom | CaSn3 | 298.15 | model | Calphad | [Ca–Sn](https://data.orchid-project.org/systems/CA-SN.html) | [1] OHNO 2006 | Table 3, p. 5, row 33 |  |
-| -38.688 kJ/mol-atom | CaSn3 | 298.15 | model | Calphad | [Ca–Sn](https://data.orchid-project.org/systems/CA-SN.html) | [1] OHNO 2006 | Table 3, p. 5, row 34 |  |
-| -37.7225 kJ/mol-atom | CaSn3 | 298.15 | model | Calphad | [Ca–Sn](https://data.orchid-project.org/systems/CA-SN.html) | [1] OHNO 2006; _cites Cartigny 2005_ | Table 3, p. 5, row 32 |  |
-| -40.9388 kJ/mol-atom | CaSn3 | 298.15 | DFT | First-principles | [Ca–Sn](https://data.orchid-project.org/systems/CA-SN.html) | [1] OHNO 2006 | Table 3, p. 5, row 31 |  |
+| -44.98 kJ/mol-atom ± 4.2 | CaSn3 | 298.15 | experimental |  | [Ca–Sn](https://data.orchid-project.org/systems/CA-SN.html) | [1] OHNO 2006; _cites Kubaschewski 1949_ | Table 3, p. 5, row 29; `ORC-76XCA5T7TG` |  |
+| -38.6 kJ/mol-atom ± 0.8 | CaSn3 | 298.15 | experimental |  | [Ca–Sn](https://data.orchid-project.org/systems/CA-SN.html) | [1] OHNO 2006; _cites Bouirden 1984_ | Table 3, p. 5, row 30; `ORC-LOEFJGND7S` |  |
+| -39.3495 kJ/mol-atom | CaSn3 | 298.15 | model | Calphad | [Ca–Sn](https://data.orchid-project.org/systems/CA-SN.html) | [1] OHNO 2006 | Table 3, p. 5, row 33; `ORC-A6YYGSS3RQ` |  |
+| -38.688 kJ/mol-atom | CaSn3 | 298.15 | model | Calphad | [Ca–Sn](https://data.orchid-project.org/systems/CA-SN.html) | [1] OHNO 2006 | Table 3, p. 5, row 34; `ORC-RHYOJMTKQZ` |  |
+| -37.7225 kJ/mol-atom | CaSn3 | 298.15 | model | Calphad | [Ca–Sn](https://data.orchid-project.org/systems/CA-SN.html) | [1] OHNO 2006; _cites Cartigny 2005_ | Table 3, p. 5, row 32; `ORC-MJHY3SQIM3` |  |
+| -40.9388 kJ/mol-atom | CaSn3 | 298.15 | DFT | First-principles | [Ca–Sn](https://data.orchid-project.org/systems/CA-SN.html) | [1] OHNO 2006 | Table 3, p. 5, row 31; `ORC-KBPGMXAKUM` |  |
 
 ### Uncertainty budget
 
@@ -100,4 +100,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

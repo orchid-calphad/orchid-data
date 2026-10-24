@@ -151,114 +151,114 @@ Table: Invariant reactions reported in the literature for the Al–Y system (108
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1763.15 | L \<=> Al2Y | L: Y 0.333; Al2Y: Al 0.666667, Y 0.333333 | experimental | [1] Liu 2006; _cites Liu 2006_ | Table 2, p. 3, row 13 |  |
-| 1763.15 | L \<=> Al2Y | L: Y 0.333; Al2Y: Al 0.666667, Y 0.333333 | model | [1] Liu 2006 | Table 2, p. 3, row 16 |  |
-| 1763 | Liquid \<-> Al2Y | Liquid: Y 0.333; Al2Y: Al 0.666667, Y 0.333333 | model | [2] Hu 2018; _cites Liu 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.06.078) | Table 7, p. 10, row 20 |  |
-| 1763 | Liquid \<-> Al2Y | Liquid: Y 0.333; Al2Y: Al 0.666667, Y 0.333333 | model | [2] Hu 2018; _cites Liu 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.06.078) | Table 7, p. 10, row 16 |  |
-| 1763 | Liquid \<-> Al2Y | Liquid: Y 0.333; Al2Y: Al 0.666667, Y 0.333333 | model | [2] Hu 2018 | Table 7, p. 10, row 21 |  |
-| 1758.15 | L \<=> Al2Y | L: Y 0.333; Al2Y: Al 0.666667, Y 0.333333 | experimental | [1] Liu 2006; _cites Snyder 1960_ | Table 2, p. 3, row 14 |  |
-| 1758 | Liquid \<-> Al2Y | Liquid: Y 0.333; Al2Y: Al 0.666667, Y 0.333333 | model | [2] Hu 2018; _cites Snyder 1960_ | Table 7, p. 10, row 17 |  |
-| 1752 | bcc_Y \<-> Liquid + hcp_Y | Liquid: Y 0.979 | model | [2] Hu 2018; _cites Liu 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.06.078) | Table 7, p. 10, row 53 |  |
-| 1751.99 | (βY) \<=> (αY), L | L: Y 0.9792 | model | [1] Liu 2006 | Table 2, p. 3, row 37 |  |
-| 1751 | bcc_Y \<-> Liquid + hcp_Y | Liquid: Y 0.978 | model | [2] Hu 2018; _cites Shakhshir 2006_ [doi](https://doi.org/10.1361/154770306x109782) | Table 7, p. 10, row 52 |  |
-| 1751 | Liquid \<-> Al2Y | Liquid: Y 0.333; Al2Y: Al 0.666667, Y 0.333333 | model | [2] Hu 2018; _cites Shakhshir 2006_ [doi](https://doi.org/10.1361/154770306x109782) | Table 7, p. 10, row 19 |  |
-| 1751 | bcc_Y \<-> Liquid + hcp_Y | Liquid: Y 0.979 | model | [2] Hu 2018 | Table 7, p. 10, row 54 |  |
-| 1728.15 | L \<=> Al2Y | L: Y 0.333; Al2Y: Al 0.666667, Y 0.333333 | experimental | [1] Liu 2006; _cites Lundin 1961_ | Table 2, p. 3, row 15 |  |
-| 1728 | Liquid \<-> Al2Y | Liquid: Y 0.333; Al2Y: Al 0.666667, Y 0.333333 | model | [2] Hu 2018; _cites Lundin 1961_ | Table 7, p. 10, row 18 |  |
-| 1628.15 | peritectic |  | experimental | [3] Shakhshir 2006; _cites Lundin 1961_ | p. 2 | “Their results are in general agreement with Snyder\[14\] except in the following points: the solid solubility of Y in Al was less than 0.1 wt.% at the eutectic temperature and the YAl3 peritectic reaction takes place at 1355 °C instead of 980 °C as reported by Snyder,\[14\] knowing that the accuracy of the reported temperature by Lundin et al.\[15\] was ±10 °C.” |
-| 1628.15 | L + Al2Y \<=> βAl3Y | L: Y 0.23; Al2Y: Al 0.666667, Y 0.333333; βAl3Y: Al 0.75, Y 0.25 | experimental | [1] Liu 2006; _cites Lundin 1961_ | Table 2, p. 3, row 11 |  |
-| 1628.15 | peritectic |  | experimental | [3] Shakhshir 2006; _cites Savitskii 1976_ | p. 2 | “Savitiskii et al.\[13\] were the first to investigate the Al-Y system using metallographic and thermoanalytical measurements. They reported the formation of the peritectic intermetallic compound Y2Al5 at 1355 °C.” |
-| 1628 | Liquid + Al2Y \<-> βAl3Y | Liquid: Y 0.23; Al2Y: Al 0.666667, Y 0.333333; βAl3Y: Al 0.75, Y 0.25 | model | [2] Hu 2018; _cites Lundin 1961_ | Table 7, p. 10, row 12 |  |
-| 1438.15 | L + Al2Y \<=> AlY | Al2Y: Al 0.666667, Y 0.333333; AlY: Al 0.5, Y 0.5 | experimental | [1] Liu 2006; _cites Lundin 1961_ | Table 2, p. 3, row 19 |  |
-| 1438 | Liquid + Al2Y \<-> AlY | Al2Y: Al 0.666667, Y 0.333333; AlY: Al 0.5, Y 0.5 | model | [2] Hu 2018; _cites Lundin 1961_ | Table 7, p. 10, row 24 |  |
-| 1411.15 | L + Al2Y \<=> AlY | Al2Y: Al 0.666667, Y 0.333333; AlY: Al 0.5, Y 0.5 | experimental | [1] Liu 2006; _cites Liu 2006_ | Table 2, p. 3, row 17 |  |
-| 1411 | Liquid + Al2Y \<-> AlY | Al2Y: Al 0.666667, Y 0.333333; AlY: Al 0.5, Y 0.5 | model | [2] Hu 2018; _cites Liu 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.06.078) | Table 7, p. 10, row 22 |  |
-| 1410.15 | L + Al2Y \<=> AlY | L: Y 0.511; Al2Y: Al 0.666667, Y 0.333333; AlY: Al 0.5, Y 0.5 | model | [1] Liu 2006 | Table 2, p. 3, row 20 |  |
-| 1410 | Liquid + Al2Y \<-> AlY | Liquid: Y 0.511; Al2Y: Al 0.666667, Y 0.333333; AlY: Al 0.5, Y 0.5 | model | [2] Hu 2018; _cites Liu 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.06.078) | Table 7, p. 10, row 26 |  |
-| 1406 | Liquid + Al2Y \<-> AlY | Liquid: Y 0.501; Al2Y: Al 0.666667, Y 0.333333; AlY: Al 0.5, Y 0.5 | model | [2] Hu 2018 | Table 7, p. 10, row 27 |  |
-| 1403.15 | L + Al2Y \<=> AlY | L: Y 0.52; Al2Y: Al 0.666667, Y 0.333333; AlY: Al 0.5, Y 0.5 | experimental | [1] Liu 2006; _cites Snyder 1960_ | Table 2, p. 3, row 18 |  |
-| 1403.15 | peritectic |  | experimental | [3] Shakhshir 2006 | p. 2 | “The peritectic reactions for Al3Y, Al2Y, and AlY2 take place at 980, 1130, and 985 °C, respectively.” |
-| 1403 | Liquid + Al2Y \<-> AlY | Liquid: Y 0.52; Al2Y: Al 0.666667, Y 0.333333; AlY: Al 0.5, Y 0.5 | model | [2] Hu 2018; _cites Snyder 1960_ | Table 7, p. 10, row 23 |  |
-| 1403 | Liquid + Al2Y \<-> AlY | Liquid: Y 0.521; Al2Y: Al 0.666667, Y 0.333333; AlY: Al 0.5, Y 0.5 | model | [2] Hu 2018; _cites Shakhshir 2006_ [doi](https://doi.org/10.1361/154770306x109782) | Table 7, p. 10, row 25 |  |
-| 1382 | Liquid \<-> Al2Y3 | Liquid: Y 0.6; Al2Y3: Al 0.4, Y 0.6 | model | [2] Hu 2018 | Table 7, p. 10, row 39 |  |
-| 1378.15 | L \<=> Al2Y3 | L: Y 0.6; Al2Y3: Al 0.4, Y 0.6 | experimental | [1] Liu 2006; _cites Liu 2006_ | Table 2, p. 3, row 25 |  |
-| 1378 | Liquid \<-> Al2Y3 | Liquid: Y 0.6; Al2Y3: Al 0.4, Y 0.6 | model | [2] Hu 2018; _cites Liu 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.06.078) | Table 7, p. 10, row 34 |  |
-| 1377.15 | L \<=> Al2Y3 | L: Y 0.6; Al2Y3: Al 0.4, Y 0.6 | model | [1] Liu 2006 | Table 2, p. 3, row 28 |  |
-| 1377 | Liquid \<-> Al2Y3 | Liquid: Y 0.6; Al2Y3: Al 0.4, Y 0.6 | model | [2] Hu 2018; _cites Liu 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.06.078) | Table 7, p. 10, row 38 |  |
-| 1373.15 | L \<=> Al2Y3 | L: Y 0.6; Al2Y3: Al 0.4, Y 0.6 | experimental | [1] Liu 2006; _cites Snyder 1960_ | Table 2, p. 3, row 26 |  |
-| 1373 | Liquid \<-> Al2Y3 | Liquid: Y 0.6; Al2Y3: Al 0.4, Y 0.6 | model | [2] Hu 2018; _cites Snyder 1960_ | Table 7, p. 10, row 35 |  |
-| 1367.15 | L \<=> Al2Y3 | L: Y 0.6; Al2Y3: Al 0.4, Y 0.6 | experimental | [1] Liu 2006; _cites Lundin 1961_ | Table 2, p. 3, row 27 |  |
-| 1367 | Liquid \<-> Al2Y3 | Liquid: Y 0.6; Al2Y3: Al 0.4, Y 0.6 | model | [2] Hu 2018; _cites Lundin 1961_ | Table 7, p. 10, row 36 |  |
-| 1365 | Liquid \<-> Al2Y3 | Liquid: Y 0.6; Al2Y3: Al 0.4, Y 0.6 | model | [2] Hu 2018; _cites Shakhshir 2006_ [doi](https://doi.org/10.1361/154770306x109782) | Table 7, p. 10, row 37 |  |
-| 1361.15 | eutectic: L ↔ Al2Y3 + AlY |  | experimental | [3] Shakhshir 2006 | p. 2 | “Further, the eutectic reaction L ↔ Al2Y3 + AlY takes place at 1088 °C.” |
-| 1361.15 | L \<=> AlY + Al2Y3 | L: Y 0.58; AlY: Al 0.5, Y 0.5; Al2Y3: Al 0.4, Y 0.6 | experimental | [1] Liu 2006; _cites Snyder 1960_ | Table 2, p. 3, row 22 |  |
-| 1361 | Liquid \<-> AlY + Al2Y3 | Liquid: Y 0.58; AlY: Al 0.5, Y 0.5; Al2Y3: Al 0.4, Y 0.6 | model | [2] Hu 2018; _cites Snyder 1960_ | Table 7, p. 10, row 29 |  |
-| 1359 | Liquid \<-> AlY + Al2Y3 | Liquid: Y 0.573; AlY: Al 0.5, Y 0.5; Al2Y3: Al 0.4, Y 0.6 | model | [2] Hu 2018; _cites Shakhshir 2006_ [doi](https://doi.org/10.1361/154770306x109782) | Table 7, p. 10, row 31 |  |
-| 1359 | AlY + Al3Y5 + Al2Y3/Al3Y5 + Al2Y3 |  | model | [2] Hu 2018 | Table 5, p. 6, row 73 |  |
-| 1358.15 | L \<=> AlY + Al2Y3 | L: Y 0.57; AlY: Al 0.5, Y 0.5; Al2Y3: Al 0.4, Y 0.6 | experimental | [1] Liu 2006; _cites Lundin 1961_ | Table 2, p. 3, row 23 |  |
-| 1358 | Liquid \<-> AlY + Al2Y3 | Liquid: Y 0.57; AlY: Al 0.5, Y 0.5; Al2Y3: Al 0.4, Y 0.6 | model | [2] Hu 2018; _cites Lundin 1961_ | Table 7, p. 10, row 30 |  |
-| 1356.15 | L \<=> AlY + Al2Y3 | L: Y 0.562; AlY: Al 0.5, Y 0.5; Al2Y3: Al 0.4, Y 0.6 | model | [1] Liu 2006 | Table 2, p. 3, row 24 |  |
-| 1356 | Liquid \<-> AlY + Al2Y3 | Liquid: Y 0.562; AlY: Al 0.5, Y 0.5; Al2Y3: Al 0.4, Y 0.6 | model | [2] Hu 2018; _cites Liu 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.06.078) | Table 7, p. 10, row 32 |  |
-| 1354.15 | L \<=> AlY + Al2Y3 | AlY: Al 0.5, Y 0.5; Al2Y3: Al 0.4, Y 0.6 | experimental | [1] Liu 2006; _cites Liu 2006_ | Table 2, p. 3, row 21 |  |
-| 1354 | Liquid \<-> AlY + Al2Y3 | AlY: Al 0.5, Y 0.5; Al2Y3: Al 0.4, Y 0.6 | model | [2] Hu 2018; _cites Liu 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.06.078) | Table 7, p. 10, row 28 |  |
-| 1353 | Liquid \<-> AlY + Al2Y3 | Liquid: Y 0.557; AlY: Al 0.5, Y 0.5; Al2Y3: Al 0.4, Y 0.6 | model | [2] Hu 2018 | Table 7, p. 10, row 33 |  |
-| 1308.15 | L + Al2Y3 \<=> AlY2 | L: Y 0.7; Al2Y3: Al 0.4, Y 0.6; AlY2: Al 0.333333, Y 0.666667 | experimental | [1] Liu 2006; _cites Lundin 1961_ | Table 2, p. 3, row 31 |  |
-| 1308 | Liquid + Al2Y3 \<-> AlY2 | Liquid: Y 0.7; Al2Y3: Al 0.4, Y 0.6; AlY2: Al 0.333333, Y 0.666667 | model | [2] Hu 2018; _cites Lundin 1961_ | Table 7, p. 10, row 42 |  |
-| 1261 | AlY + Al3Y5 + Al2Y3/Al3Y5 + Al2Y3 |  | experimental | [2] Hu 2018 | Table 5, p. 6, row 72 |  |
-| 1258.15 | peritectic |  | experimental | [3] Shakhshir 2006 | p. 2 | “The peritectic reactions for Al3Y, Al2Y, and AlY2 take place at 980, 1130, and 985 °C, respectively.” |
-| 1258.15 | L + Al2Y3 \<=> AlY2 | L: Y 0.75; Al2Y3: Al 0.4, Y 0.6; AlY2: Al 0.333333, Y 0.666667 | experimental | [1] Liu 2006; _cites Snyder 1960_ | Table 2, p. 3, row 30 |  |
-| 1258 | Liquid + Al2Y3 \<-> AlY2 | Liquid: Y 0.75; Al2Y3: Al 0.4, Y 0.6; AlY2: Al 0.333333, Y 0.666667 | model | [2] Hu 2018; _cites Snyder 1960_ | Table 7, p. 10, row 41 |  |
-| 1258 | Liquid + Al2Y3 \<-> AlY2 | Liquid: Y 0.697; Al2Y3: Al 0.4, Y 0.6; AlY2: Al 0.333333, Y 0.666667 | model | [2] Hu 2018 | Table 7, p. 10, row 45 |  |
-| 1257 | Liquid + Al2Y3 \<-> AlY2 | Liquid: Y 0.727; Al2Y3: Al 0.4, Y 0.6; AlY2: Al 0.333333, Y 0.666667 | model | [2] Hu 2018; _cites Shakhshir 2006_ [doi](https://doi.org/10.1361/154770306x109782) | Table 7, p. 10, row 43 |  |
-| 1257 | Liquid + Al2Y \<-> βAl3Y | Liquid: Y 0.112; Al2Y: Al 0.666667, Y 0.333333; βAl3Y: Al 0.75, Y 0.25 | model | [2] Hu 2018; _cites Shakhshir 2006_ [doi](https://doi.org/10.1361/154770306x109782) | Table 7, p. 10, row 13 |  |
-| 1253.15 | L + Al2Y \<=> βAl3Y | Al2Y: Al 0.666667, Y 0.333333; βAl3Y: Al 0.75, Y 0.25 | experimental | [1] Liu 2006; _cites Liu 2006_ | Table 2, p. 3, row 9 |  |
-| 1253.15 | L + Al2Y \<=> βAl3Y | L: Y 0.117; Al2Y: Al 0.666667, Y 0.333333; βAl3Y: Al 0.75, Y 0.25 | experimental | [1] Liu 2006; _cites Snyder 1960_ | Table 2, p. 3, row 10 |  |
-| 1253.15 | L + Al2Y \<=> βAl3Y | L: Y 0.1262; Al2Y: Al 0.666667, Y 0.333333; βAl3Y: Al 0.75, Y 0.25 | model | [1] Liu 2006 | Table 2, p. 3, row 12 |  |
-| 1253.15 | peritectic |  | experimental | [3] Shakhshir 2006 | p. 2 | “The peritectic reactions for Al3Y, Al2Y, and AlY2 take place at 980, 1130, and 985 °C, respectively.” |
-| 1253 | Liquid + Al2Y \<-> βAl3Y | Liquid: Y 0.126; Al2Y: Al 0.666667, Y 0.333333; βAl3Y: Al 0.75, Y 0.25 | model | [2] Hu 2018; _cites Liu 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.06.078) | Table 7, p. 10, row 14 |  |
-| 1253 | Liquid + Al2Y \<-> βAl3Y | Al2Y: Al 0.666667, Y 0.333333; βAl3Y: Al 0.75, Y 0.25 | model | [2] Hu 2018; _cites Liu 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.06.078) | Table 7, p. 10, row 10 |  |
-| 1253 | Liquid + Al2Y \<-> βAl3Y | Liquid: Y 0.117; Al2Y: Al 0.666667, Y 0.333333; βAl3Y: Al 0.75, Y 0.25 | model | [2] Hu 2018; _cites Snyder 1960_ | Table 7, p. 10, row 11 |  |
-| 1251.15 | L + Al2Y3 \<=> AlY2 | L: Y 0.7076; Al2Y3: Al 0.4, Y 0.6; AlY2: Al 0.333333, Y 0.666667 | model | [1] Liu 2006 | Table 2, p. 3, row 32 |  |
-| 1251 | Liquid + Al2Y \<-> βAl3Y | Liquid: Y 0.124; Al2Y: Al 0.666667, Y 0.333333; βAl3Y: Al 0.75, Y 0.25 | model | [2] Hu 2018 | Table 7, p. 10, row 15 |  |
-| 1251 | Liquid + Al2Y3 \<-> AlY2 | Liquid: Y 0.708; Al2Y3: Al 0.4, Y 0.6; AlY2: Al 0.333333, Y 0.666667 | model | [2] Hu 2018; _cites Liu 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.06.078) | Table 7, p. 10, row 44 |  |
-| 1250.15 | L + Al2Y3 \<=> AlY2 | Al2Y3: Al 0.4, Y 0.6; AlY2: Al 0.333333, Y 0.666667 | experimental | [1] Liu 2006; _cites Liu 2006_ | Table 2, p. 3, row 29 |  |
-| 1250 | Liquid + Al2Y3 \<-> AlY2 | Al2Y3: Al 0.4, Y 0.6; AlY2: Al 0.333333, Y 0.666667 | model | [2] Hu 2018; _cites Liu 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.06.078) | Table 7, p. 10, row 40 |  |
-| 1250 | Liquid \<-> AlY2 + hcp_Y | Liquid: Y 0.736; AlY2: Al 0.333333, Y 0.666667 | model | [2] Hu 2018; _cites Shakhshir 2006_ [doi](https://doi.org/10.1361/154770306x109782) | Table 7, p. 10, row 49 |  |
-| 1243.15 | L \<=> AlY2 + (αY) | AlY2: Al 0.333333, Y 0.666667 | experimental | [1] Liu 2006; _cites Lundin 1961_ | Table 2, p. 3, row 35 |  |
-| 1243 | Liquid \<-> AlY2 + hcp_Y | AlY2: Al 0.333333, Y 0.666667 | model | [2] Hu 2018; _cites Lundin 1961_ | Table 7, p. 10, row 48 |  |
-| 1233.15 | L \<=> AlY2 + (αY) | L: Y 0.753; AlY2: Al 0.333333, Y 0.666667 | experimental | [1] Liu 2006; _cites Snyder 1960_ | Table 2, p. 3, row 34 |  |
-| 1233.15 | eutectic |  | experimental | [3] Shakhshir 2006 | p. 2 | “In this work, it was found that the eutectic reactions in the Al-rich and Y-rich regions take place at 640 and 960 °C, respectively.” |
-| 1233 | Liquid \<-> AlY2 + hcp_Y | Liquid: Y 0.753; AlY2: Al 0.333333, Y 0.666667 | model | [2] Hu 2018; _cites Snyder 1960_ | Table 7, p. 10, row 47 |  |
-| 1228.15 | L \<=> AlY2 + (αY) | L: Y 0.75; AlY2: Al 0.333333, Y 0.666667 | experimental | [1] Liu 2006; _cites Liu 2006_ | Table 2, p. 3, row 33 |  |
-| 1228 | Liquid \<-> AlY2 + hcp_Y | Liquid: Y 0.75; AlY2: Al 0.333333, Y 0.666667 | model | [2] Hu 2018; _cites Liu 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.06.078) | Table 7, p. 10, row 46 |  |
-| 1227.15 | L \<=> AlY2 + (αY) | L: Y 0.737; AlY2: Al 0.333333, Y 0.666667 | model | [1] Liu 2006 | Table 2, p. 3, row 36 |  |
-| 1227 | Liquid \<-> AlY2 + hcp_Y | Liquid: Y 0.737; AlY2: Al 0.333333, Y 0.666667 | model | [2] Hu 2018; _cites Liu 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.06.078) | Table 7, p. 10, row 50 |  |
-| 1219 | Liquid \<-> AlY2 + hcp_Y | Liquid: Y 0.738; AlY2: Al 0.333333, Y 0.666667 | model | [2] Hu 2018 | Table 7, p. 10, row 51 |  |
-| 974 | Al2Y + βAl3Y/Al2Y + αAl3Y + βAl3Y |  | model | [2] Hu 2018 | Table 5, p. 6, row 43 |  |
-| 967 | Al2Y + αAl3Y + βAl3Y/Al2Y + αAl3Y |  | model | [2] Hu 2018 | Table 5, p. 6, row 44 |  |
-| 923.15 | L \<=> (Al) + αAl3Y | L: Y 0.033; αAl3Y: Al 0.75, Y 0.25 | experimental | [1] Liu 2006; _cites Lundin 1961_ | Table 2, p. 3, row 3 |  |
-| 923 | Liquid \<-> fcc_Al + αAl3Y | Liquid: Y 0.033; αAl3Y: Al 0.75, Y 0.25 | model | [2] Hu 2018; _cites Lundin 1961_ | Table 7, p. 10, row 3 |  |
-| 919 | βAl3Y \<-> αAl3Y | βAl3Y: Al 0.75, Y 0.25; αAl3Y: Al 0.75, Y 0.25 | model | [2] Hu 2018 | Table 7, p. 10, row 9 |  |
-| 917.15 | βAl3Y \<=> αAl3Y, L, Al2Y | βAl3Y: Al 0.75, Y 0.25; αAl3Y: Al 0.75, Y 0.25; Al2Y: Al 0.666667, Y 0.333333 | experimental | [1] Liu 2006; _cites Snyder 1960_ | Table 2, p. 3, row 7 |  |
-| 917.15 | βAl3Y \<=> αAl3Y, L, Al2Y | βAl3Y: Al 0.75, Y 0.25; αAl3Y: Al 0.75, Y 0.25; Al2Y: Al 0.666667, Y 0.333333 | model | [1] Liu 2006 | Table 2, p. 3, row 8 |  |
-| 917 | βAl3Y \<-> αAl3Y | βAl3Y: Al 0.75, Y 0.25; αAl3Y: Al 0.75, Y 0.25 | model | [2] Hu 2018; _cites Liu 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.06.078) | Table 7, p. 10, row 8 |  |
-| 917 | βAl3Y \<-> αAl3Y | βAl3Y: Al 0.75, Y 0.25; αAl3Y: Al 0.75, Y 0.25 | model | [2] Hu 2018; _cites Snyder 1960_ | Table 7, p. 10, row 7 |  |
-| 913.15 | L \<=> (Al) + αAl3Y | L: Y 0.029; αAl3Y: Al 0.75, Y 0.25 | experimental | [1] Liu 2006; _cites Snyder 1960_ | Table 2, p. 3, row 2 |  |
-| 913.15 | eutectic |  | experimental | [3] Shakhshir 2006 | p. 2 | “In this work, it was found that the eutectic reactions in the Al-rich and Y-rich regions take place at 640 and 960 °C, respectively.” |
-| 913 | Liquid \<-> fcc_Al + αAl3Y | Liquid: Y 0.029; αAl3Y: Al 0.75, Y 0.25 | model | [2] Hu 2018; _cites Snyder 1960_ | Table 7, p. 10, row 2 |  |
-| 911.15 | L \<=> (Al) + αAl3Y | L: Y 0.03; αAl3Y: Al 0.75, Y 0.25 | experimental | [1] Liu 2006; _cites Drits 1969_ | Table 2, p. 3, row 4 |  |
-| 910.15 | L \<=> (Al) + αAl3Y | L: Y 0.0296; αAl3Y: Al 0.75, Y 0.25 | model | [1] Liu 2006 | Table 2, p. 3, row 6 |  |
-| 910.15 | eutectic |  | experimental | [1] Liu 2006; _cites Kononenko 1990_ | p. 2 | “By the combined use of DTA, metallography, and XRD techniques, Kononenko and Golubev \[13\] reported liquidus in the most Alrich side and found the Al-rich eutectic point to be at 637 ◦ C and 3.1 at.% Y.” |
-| 910.15 | L \<=> (Al) + αAl3Y | αAl3Y: Al 0.75, Y 0.25 | experimental | [1] Liu 2006; _cites Liu 2006_ | Table 2, p. 3, row 1 |  |
-| 910.15 | L \<=> (Al) + αAl3Y | L: Y 0.03; αAl3Y: Al 0.75, Y 0.25 | experimental | [1] Liu 2006; _cites Kononenko 1990_ | Table 2, p. 3, row 5 |  |
-| 910 | Liquid \<-> fcc_Al + αAl3Y | αAl3Y: Al 0.75, Y 0.25 | model | [2] Hu 2018; _cites Liu 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.06.078) | Table 7, p. 10, row 1 |  |
-| 910 | Liquid \<-> fcc_Al + αAl3Y | Liquid: Y 0.03; αAl3Y: Al 0.75, Y 0.25 | model | [2] Hu 2018; _cites Liu 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.06.078) | Table 7, p. 10, row 5 |  |
-| 908 | Liquid \<-> fcc_Al + αAl3Y | Liquid: Y 0.032; αAl3Y: Al 0.75, Y 0.25 | model | [2] Hu 2018 | Table 7, p. 10, row 6 |  |
-| 906 | Liquid \<-> fcc_Al + αAl3Y | Liquid: Y 0.032; αAl3Y: Al 0.75, Y 0.25 | model | [2] Hu 2018; _cites Shakhshir 2006_ [doi](https://doi.org/10.1361/154770306x109782) | Table 7, p. 10, row 4 |  |
-| 843 | Al2Y3 + Al3Y5/Al2Y3 + Al3Y5 + AlY2 |  | model | [2] Hu 2018 | Table 5, p. 6, row 74 |  |
-| 813 | Al2Y3 + Al3Y5 + AlY2/Al2Y3 + AlY2 |  | model | [2] Hu 2018 | Table 5, p. 6, row 75 |  |
-| 805 | AlY2 + Al3Y5/AlY2 + Al3Y5 + Al2Y3 |  | model | [2] Hu 2018 | Table 5, p. 6, row 93 |  |
-| 798 | AlY2 + Al3Y5 + Al2Y3/AlY2 + Al2Y3 |  | model | [2] Hu 2018 | Table 5, p. 6, row 94 |  |
+| 1763.15 | L \<=> Al2Y | L: Y 0.333; Al2Y: Al 0.666667, Y 0.333333 | experimental | [1] Liu 2006; _cites Liu 2006_ | Table 2, p. 3, row 13; `ORC-AFKEEXQP2V` |  |
+| 1763.15 | L \<=> Al2Y | L: Y 0.333; Al2Y: Al 0.666667, Y 0.333333 | model | [1] Liu 2006 | Table 2, p. 3, row 16; `ORC-AKCI5MVO4N` |  |
+| 1763 | Liquid \<-> Al2Y | Liquid: Y 0.333; Al2Y: Al 0.666667, Y 0.333333 | model | [2] Hu 2018; _cites Liu 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.06.078) | Table 7, p. 10, row 20; `ORC-2MGWHAYPRC` |  |
+| 1763 | Liquid \<-> Al2Y | Liquid: Y 0.333; Al2Y: Al 0.666667, Y 0.333333 | model | [2] Hu 2018; _cites Liu 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.06.078) | Table 7, p. 10, row 16; `ORC-6K2KUZOPRE` |  |
+| 1763 | Liquid \<-> Al2Y | Liquid: Y 0.333; Al2Y: Al 0.666667, Y 0.333333 | model | [2] Hu 2018 | Table 7, p. 10, row 21; `ORC-V3LE3GB4QX` |  |
+| 1758.15 | L \<=> Al2Y | L: Y 0.333; Al2Y: Al 0.666667, Y 0.333333 | experimental | [1] Liu 2006; _cites Snyder 1960_ | Table 2, p. 3, row 14; `ORC-NYCVNLUJPX` |  |
+| 1758 | Liquid \<-> Al2Y | Liquid: Y 0.333; Al2Y: Al 0.666667, Y 0.333333 | model | [2] Hu 2018; _cites Snyder 1960_ | Table 7, p. 10, row 17; `ORC-3WOLIVIVOP` |  |
+| 1752 | bcc_Y \<-> Liquid + hcp_Y | Liquid: Y 0.979 | model | [2] Hu 2018; _cites Liu 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.06.078) | Table 7, p. 10, row 53; `ORC-P7A2JFJ3VG` |  |
+| 1751.99 | (βY) \<=> (αY), L | L: Y 0.9792 | model | [1] Liu 2006 | Table 2, p. 3, row 37; `ORC-JLHL2SEXNV` |  |
+| 1751 | bcc_Y \<-> Liquid + hcp_Y | Liquid: Y 0.978 | model | [2] Hu 2018; _cites Shakhshir 2006_ [doi](https://doi.org/10.1361/154770306x109782) | Table 7, p. 10, row 52; `ORC-3LIIPWGPZJ` |  |
+| 1751 | Liquid \<-> Al2Y | Liquid: Y 0.333; Al2Y: Al 0.666667, Y 0.333333 | model | [2] Hu 2018; _cites Shakhshir 2006_ [doi](https://doi.org/10.1361/154770306x109782) | Table 7, p. 10, row 19; `ORC-BNI2CYFCRA` |  |
+| 1751 | bcc_Y \<-> Liquid + hcp_Y | Liquid: Y 0.979 | model | [2] Hu 2018 | Table 7, p. 10, row 54; `ORC-P63AYLCFPK` |  |
+| 1728.15 | L \<=> Al2Y | L: Y 0.333; Al2Y: Al 0.666667, Y 0.333333 | experimental | [1] Liu 2006; _cites Lundin 1961_ | Table 2, p. 3, row 15; `ORC-EQ2BEMBZI6` |  |
+| 1728 | Liquid \<-> Al2Y | Liquid: Y 0.333; Al2Y: Al 0.666667, Y 0.333333 | model | [2] Hu 2018; _cites Lundin 1961_ | Table 7, p. 10, row 18; `ORC-WWTZVVUGEG` |  |
+| 1628.15 | peritectic |  | experimental | [3] Shakhshir 2006; _cites Lundin 1961_ | p. 2; `ORC-3FPYYBFQT3` | “Their results are in general agreement with Snyder\[14\] except in the following points: the solid solubility of Y in Al was less than 0.1 wt.% at the eutectic temperature and the YAl3 peritectic reaction takes place at 1355 °C instead of 980 °C as reported by Snyder,\[14\] knowing that the accuracy of the reported temperature by Lundin et al.\[15\] was ±10 °C.” |
+| 1628.15 | L + Al2Y \<=> βAl3Y | L: Y 0.23; Al2Y: Al 0.666667, Y 0.333333; βAl3Y: Al 0.75, Y 0.25 | experimental | [1] Liu 2006; _cites Lundin 1961_ | Table 2, p. 3, row 11; `ORC-7JOVEIATCG` |  |
+| 1628.15 | peritectic |  | experimental | [3] Shakhshir 2006; _cites Savitskii 1976_ | p. 2; `ORC-NGTBVV4W4K` | “Savitiskii et al.\[13\] were the first to investigate the Al-Y system using metallographic and thermoanalytical measurements. They reported the formation of the peritectic intermetallic compound Y2Al5 at 1355 °C.” |
+| 1628 | Liquid + Al2Y \<-> βAl3Y | Liquid: Y 0.23; Al2Y: Al 0.666667, Y 0.333333; βAl3Y: Al 0.75, Y 0.25 | model | [2] Hu 2018; _cites Lundin 1961_ | Table 7, p. 10, row 12; `ORC-PT3LSMEZ4P` |  |
+| 1438.15 | L + Al2Y \<=> AlY | Al2Y: Al 0.666667, Y 0.333333; AlY: Al 0.5, Y 0.5 | experimental | [1] Liu 2006; _cites Lundin 1961_ | Table 2, p. 3, row 19; `ORC-BHYSA4SYD6` |  |
+| 1438 | Liquid + Al2Y \<-> AlY | Al2Y: Al 0.666667, Y 0.333333; AlY: Al 0.5, Y 0.5 | model | [2] Hu 2018; _cites Lundin 1961_ | Table 7, p. 10, row 24; `ORC-ROVHMDM6Z4` |  |
+| 1411.15 | L + Al2Y \<=> AlY | Al2Y: Al 0.666667, Y 0.333333; AlY: Al 0.5, Y 0.5 | experimental | [1] Liu 2006; _cites Liu 2006_ | Table 2, p. 3, row 17; `ORC-DI5Y6FFLVP` |  |
+| 1411 | Liquid + Al2Y \<-> AlY | Al2Y: Al 0.666667, Y 0.333333; AlY: Al 0.5, Y 0.5 | model | [2] Hu 2018; _cites Liu 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.06.078) | Table 7, p. 10, row 22; `ORC-ZZKPKAMRVE` |  |
+| 1410.15 | L + Al2Y \<=> AlY | L: Y 0.511; Al2Y: Al 0.666667, Y 0.333333; AlY: Al 0.5, Y 0.5 | model | [1] Liu 2006 | Table 2, p. 3, row 20; `ORC-4HQOEE5JVC` |  |
+| 1410 | Liquid + Al2Y \<-> AlY | Liquid: Y 0.511; Al2Y: Al 0.666667, Y 0.333333; AlY: Al 0.5, Y 0.5 | model | [2] Hu 2018; _cites Liu 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.06.078) | Table 7, p. 10, row 26; `ORC-TD2U2HRYNL` |  |
+| 1406 | Liquid + Al2Y \<-> AlY | Liquid: Y 0.501; Al2Y: Al 0.666667, Y 0.333333; AlY: Al 0.5, Y 0.5 | model | [2] Hu 2018 | Table 7, p. 10, row 27; `ORC-QEWTG5ZTBV` |  |
+| 1403.15 | L + Al2Y \<=> AlY | L: Y 0.52; Al2Y: Al 0.666667, Y 0.333333; AlY: Al 0.5, Y 0.5 | experimental | [1] Liu 2006; _cites Snyder 1960_ | Table 2, p. 3, row 18; `ORC-5T2SNKLSSM` |  |
+| 1403.15 | peritectic |  | experimental | [3] Shakhshir 2006 | p. 2; `ORC-HAXQLYQ2O2.6dbee6` | “The peritectic reactions for Al3Y, Al2Y, and AlY2 take place at 980, 1130, and 985 °C, respectively.” |
+| 1403 | Liquid + Al2Y \<-> AlY | Liquid: Y 0.52; Al2Y: Al 0.666667, Y 0.333333; AlY: Al 0.5, Y 0.5 | model | [2] Hu 2018; _cites Snyder 1960_ | Table 7, p. 10, row 23; `ORC-7PNCJNCI4I` |  |
+| 1403 | Liquid + Al2Y \<-> AlY | Liquid: Y 0.521; Al2Y: Al 0.666667, Y 0.333333; AlY: Al 0.5, Y 0.5 | model | [2] Hu 2018; _cites Shakhshir 2006_ [doi](https://doi.org/10.1361/154770306x109782) | Table 7, p. 10, row 25; `ORC-LDBMXQYTE6` |  |
+| 1382 | Liquid \<-> Al2Y3 | Liquid: Y 0.6; Al2Y3: Al 0.4, Y 0.6 | model | [2] Hu 2018 | Table 7, p. 10, row 39; `ORC-YTTJEPS44K` |  |
+| 1378.15 | L \<=> Al2Y3 | L: Y 0.6; Al2Y3: Al 0.4, Y 0.6 | experimental | [1] Liu 2006; _cites Liu 2006_ | Table 2, p. 3, row 25; `ORC-QZ57Z74VPU` |  |
+| 1378 | Liquid \<-> Al2Y3 | Liquid: Y 0.6; Al2Y3: Al 0.4, Y 0.6 | model | [2] Hu 2018; _cites Liu 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.06.078) | Table 7, p. 10, row 34; `ORC-CERHNXLA5C` |  |
+| 1377.15 | L \<=> Al2Y3 | L: Y 0.6; Al2Y3: Al 0.4, Y 0.6 | model | [1] Liu 2006 | Table 2, p. 3, row 28; `ORC-QZXAQ2PGR4` |  |
+| 1377 | Liquid \<-> Al2Y3 | Liquid: Y 0.6; Al2Y3: Al 0.4, Y 0.6 | model | [2] Hu 2018; _cites Liu 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.06.078) | Table 7, p. 10, row 38; `ORC-GLB5JBWWMN` |  |
+| 1373.15 | L \<=> Al2Y3 | L: Y 0.6; Al2Y3: Al 0.4, Y 0.6 | experimental | [1] Liu 2006; _cites Snyder 1960_ | Table 2, p. 3, row 26; `ORC-6VBLZ6PUZH` |  |
+| 1373 | Liquid \<-> Al2Y3 | Liquid: Y 0.6; Al2Y3: Al 0.4, Y 0.6 | model | [2] Hu 2018; _cites Snyder 1960_ | Table 7, p. 10, row 35; `ORC-SSIL6MOYQ7` |  |
+| 1367.15 | L \<=> Al2Y3 | L: Y 0.6; Al2Y3: Al 0.4, Y 0.6 | experimental | [1] Liu 2006; _cites Lundin 1961_ | Table 2, p. 3, row 27; `ORC-QPJD6FUXSB` |  |
+| 1367 | Liquid \<-> Al2Y3 | Liquid: Y 0.6; Al2Y3: Al 0.4, Y 0.6 | model | [2] Hu 2018; _cites Lundin 1961_ | Table 7, p. 10, row 36; `ORC-7FWKOOZHCB` |  |
+| 1365 | Liquid \<-> Al2Y3 | Liquid: Y 0.6; Al2Y3: Al 0.4, Y 0.6 | model | [2] Hu 2018; _cites Shakhshir 2006_ [doi](https://doi.org/10.1361/154770306x109782) | Table 7, p. 10, row 37; `ORC-HWMWEQWWNS` |  |
+| 1361.15 | eutectic: L ↔ Al2Y3 + AlY |  | experimental | [3] Shakhshir 2006 | p. 2; `ORC-CB2SCFCOMK` | “Further, the eutectic reaction L ↔ Al2Y3 + AlY takes place at 1088 °C.” |
+| 1361.15 | L \<=> AlY + Al2Y3 | L: Y 0.58; AlY: Al 0.5, Y 0.5; Al2Y3: Al 0.4, Y 0.6 | experimental | [1] Liu 2006; _cites Snyder 1960_ | Table 2, p. 3, row 22; `ORC-QZ7S6IHEBX` |  |
+| 1361 | Liquid \<-> AlY + Al2Y3 | Liquid: Y 0.58; AlY: Al 0.5, Y 0.5; Al2Y3: Al 0.4, Y 0.6 | model | [2] Hu 2018; _cites Snyder 1960_ | Table 7, p. 10, row 29; `ORC-IK3UG4QYJN` |  |
+| 1359 | Liquid \<-> AlY + Al2Y3 | Liquid: Y 0.573; AlY: Al 0.5, Y 0.5; Al2Y3: Al 0.4, Y 0.6 | model | [2] Hu 2018; _cites Shakhshir 2006_ [doi](https://doi.org/10.1361/154770306x109782) | Table 7, p. 10, row 31; `ORC-64I6QD347T` |  |
+| 1359 | AlY + Al3Y5 + Al2Y3/Al3Y5 + Al2Y3 |  | model | [2] Hu 2018 | Table 5, p. 6, row 73; `ORC-ODK7CJBQNV` |  |
+| 1358.15 | L \<=> AlY + Al2Y3 | L: Y 0.57; AlY: Al 0.5, Y 0.5; Al2Y3: Al 0.4, Y 0.6 | experimental | [1] Liu 2006; _cites Lundin 1961_ | Table 2, p. 3, row 23; `ORC-COZDIIMUF5` |  |
+| 1358 | Liquid \<-> AlY + Al2Y3 | Liquid: Y 0.57; AlY: Al 0.5, Y 0.5; Al2Y3: Al 0.4, Y 0.6 | model | [2] Hu 2018; _cites Lundin 1961_ | Table 7, p. 10, row 30; `ORC-CKB74AZ7V5` |  |
+| 1356.15 | L \<=> AlY + Al2Y3 | L: Y 0.562; AlY: Al 0.5, Y 0.5; Al2Y3: Al 0.4, Y 0.6 | model | [1] Liu 2006 | Table 2, p. 3, row 24; `ORC-WQTQQXKBC6` |  |
+| 1356 | Liquid \<-> AlY + Al2Y3 | Liquid: Y 0.562; AlY: Al 0.5, Y 0.5; Al2Y3: Al 0.4, Y 0.6 | model | [2] Hu 2018; _cites Liu 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.06.078) | Table 7, p. 10, row 32; `ORC-2TE2WLXKL4` |  |
+| 1354.15 | L \<=> AlY + Al2Y3 | AlY: Al 0.5, Y 0.5; Al2Y3: Al 0.4, Y 0.6 | experimental | [1] Liu 2006; _cites Liu 2006_ | Table 2, p. 3, row 21; `ORC-U4W6YP6OMU` |  |
+| 1354 | Liquid \<-> AlY + Al2Y3 | AlY: Al 0.5, Y 0.5; Al2Y3: Al 0.4, Y 0.6 | model | [2] Hu 2018; _cites Liu 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.06.078) | Table 7, p. 10, row 28; `ORC-NX5YKM2TIO` |  |
+| 1353 | Liquid \<-> AlY + Al2Y3 | Liquid: Y 0.557; AlY: Al 0.5, Y 0.5; Al2Y3: Al 0.4, Y 0.6 | model | [2] Hu 2018 | Table 7, p. 10, row 33; `ORC-MNMXWSM6NC` |  |
+| 1308.15 | L + Al2Y3 \<=> AlY2 | L: Y 0.7; Al2Y3: Al 0.4, Y 0.6; AlY2: Al 0.333333, Y 0.666667 | experimental | [1] Liu 2006; _cites Lundin 1961_ | Table 2, p. 3, row 31; `ORC-VXHRWZ7NWP` |  |
+| 1308 | Liquid + Al2Y3 \<-> AlY2 | Liquid: Y 0.7; Al2Y3: Al 0.4, Y 0.6; AlY2: Al 0.333333, Y 0.666667 | model | [2] Hu 2018; _cites Lundin 1961_ | Table 7, p. 10, row 42; `ORC-3KCAINNEOD` |  |
+| 1261 | AlY + Al3Y5 + Al2Y3/Al3Y5 + Al2Y3 |  | experimental | [2] Hu 2018 | Table 5, p. 6, row 72; `ORC-7XDO56YZYL` |  |
+| 1258.15 | peritectic |  | experimental | [3] Shakhshir 2006 | p. 2; `ORC-HAXQLYQ2O2.17d91b` | “The peritectic reactions for Al3Y, Al2Y, and AlY2 take place at 980, 1130, and 985 °C, respectively.” |
+| 1258.15 | L + Al2Y3 \<=> AlY2 | L: Y 0.75; Al2Y3: Al 0.4, Y 0.6; AlY2: Al 0.333333, Y 0.666667 | experimental | [1] Liu 2006; _cites Snyder 1960_ | Table 2, p. 3, row 30; `ORC-IRTJIKHDMG` |  |
+| 1258 | Liquid + Al2Y3 \<-> AlY2 | Liquid: Y 0.75; Al2Y3: Al 0.4, Y 0.6; AlY2: Al 0.333333, Y 0.666667 | model | [2] Hu 2018; _cites Snyder 1960_ | Table 7, p. 10, row 41; `ORC-GLP5XHRNDR` |  |
+| 1258 | Liquid + Al2Y3 \<-> AlY2 | Liquid: Y 0.697; Al2Y3: Al 0.4, Y 0.6; AlY2: Al 0.333333, Y 0.666667 | model | [2] Hu 2018 | Table 7, p. 10, row 45; `ORC-NFICE6MWOY` |  |
+| 1257 | Liquid + Al2Y3 \<-> AlY2 | Liquid: Y 0.727; Al2Y3: Al 0.4, Y 0.6; AlY2: Al 0.333333, Y 0.666667 | model | [2] Hu 2018; _cites Shakhshir 2006_ [doi](https://doi.org/10.1361/154770306x109782) | Table 7, p. 10, row 43; `ORC-FNUYHPIUUB` |  |
+| 1257 | Liquid + Al2Y \<-> βAl3Y | Liquid: Y 0.112; Al2Y: Al 0.666667, Y 0.333333; βAl3Y: Al 0.75, Y 0.25 | model | [2] Hu 2018; _cites Shakhshir 2006_ [doi](https://doi.org/10.1361/154770306x109782) | Table 7, p. 10, row 13; `ORC-NHKRDCIAKQ` |  |
+| 1253.15 | L + Al2Y \<=> βAl3Y | Al2Y: Al 0.666667, Y 0.333333; βAl3Y: Al 0.75, Y 0.25 | experimental | [1] Liu 2006; _cites Liu 2006_ | Table 2, p. 3, row 9; `ORC-3KYBOBM2WX` |  |
+| 1253.15 | L + Al2Y \<=> βAl3Y | L: Y 0.117; Al2Y: Al 0.666667, Y 0.333333; βAl3Y: Al 0.75, Y 0.25 | experimental | [1] Liu 2006; _cites Snyder 1960_ | Table 2, p. 3, row 10; `ORC-FG44VYM7SC` |  |
+| 1253.15 | L + Al2Y \<=> βAl3Y | L: Y 0.1262; Al2Y: Al 0.666667, Y 0.333333; βAl3Y: Al 0.75, Y 0.25 | model | [1] Liu 2006 | Table 2, p. 3, row 12; `ORC-FPHD4WWOAJ` |  |
+| 1253.15 | peritectic |  | experimental | [3] Shakhshir 2006 | p. 2; `ORC-HAXQLYQ2O2.6fdac1` | “The peritectic reactions for Al3Y, Al2Y, and AlY2 take place at 980, 1130, and 985 °C, respectively.” |
+| 1253 | Liquid + Al2Y \<-> βAl3Y | Liquid: Y 0.126; Al2Y: Al 0.666667, Y 0.333333; βAl3Y: Al 0.75, Y 0.25 | model | [2] Hu 2018; _cites Liu 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.06.078) | Table 7, p. 10, row 14; `ORC-7KIIBW2UUQ` |  |
+| 1253 | Liquid + Al2Y \<-> βAl3Y | Al2Y: Al 0.666667, Y 0.333333; βAl3Y: Al 0.75, Y 0.25 | model | [2] Hu 2018; _cites Liu 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.06.078) | Table 7, p. 10, row 10; `ORC-IECJYETYRY` |  |
+| 1253 | Liquid + Al2Y \<-> βAl3Y | Liquid: Y 0.117; Al2Y: Al 0.666667, Y 0.333333; βAl3Y: Al 0.75, Y 0.25 | model | [2] Hu 2018; _cites Snyder 1960_ | Table 7, p. 10, row 11; `ORC-UO5RU6S7RS` |  |
+| 1251.15 | L + Al2Y3 \<=> AlY2 | L: Y 0.7076; Al2Y3: Al 0.4, Y 0.6; AlY2: Al 0.333333, Y 0.666667 | model | [1] Liu 2006 | Table 2, p. 3, row 32; `ORC-2PX5OVXT74` |  |
+| 1251 | Liquid + Al2Y \<-> βAl3Y | Liquid: Y 0.124; Al2Y: Al 0.666667, Y 0.333333; βAl3Y: Al 0.75, Y 0.25 | model | [2] Hu 2018 | Table 7, p. 10, row 15; `ORC-B7ZKPMC36K` |  |
+| 1251 | Liquid + Al2Y3 \<-> AlY2 | Liquid: Y 0.708; Al2Y3: Al 0.4, Y 0.6; AlY2: Al 0.333333, Y 0.666667 | model | [2] Hu 2018; _cites Liu 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.06.078) | Table 7, p. 10, row 44; `ORC-QFGVIXMP6I` |  |
+| 1250.15 | L + Al2Y3 \<=> AlY2 | Al2Y3: Al 0.4, Y 0.6; AlY2: Al 0.333333, Y 0.666667 | experimental | [1] Liu 2006; _cites Liu 2006_ | Table 2, p. 3, row 29; `ORC-X4DIZ25YRX` |  |
+| 1250 | Liquid + Al2Y3 \<-> AlY2 | Al2Y3: Al 0.4, Y 0.6; AlY2: Al 0.333333, Y 0.666667 | model | [2] Hu 2018; _cites Liu 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.06.078) | Table 7, p. 10, row 40; `ORC-PE4STTO5RH` |  |
+| 1250 | Liquid \<-> AlY2 + hcp_Y | Liquid: Y 0.736; AlY2: Al 0.333333, Y 0.666667 | model | [2] Hu 2018; _cites Shakhshir 2006_ [doi](https://doi.org/10.1361/154770306x109782) | Table 7, p. 10, row 49; `ORC-Q7NX44FWUT` |  |
+| 1243.15 | L \<=> AlY2 + (αY) | AlY2: Al 0.333333, Y 0.666667 | experimental | [1] Liu 2006; _cites Lundin 1961_ | Table 2, p. 3, row 35; `ORC-QSOQ3P2VSV` |  |
+| 1243 | Liquid \<-> AlY2 + hcp_Y | AlY2: Al 0.333333, Y 0.666667 | model | [2] Hu 2018; _cites Lundin 1961_ | Table 7, p. 10, row 48; `ORC-BFZXO242XL` |  |
+| 1233.15 | L \<=> AlY2 + (αY) | L: Y 0.753; AlY2: Al 0.333333, Y 0.666667 | experimental | [1] Liu 2006; _cites Snyder 1960_ | Table 2, p. 3, row 34; `ORC-GVKMK57T46` |  |
+| 1233.15 | eutectic |  | experimental | [3] Shakhshir 2006 | p. 2; `ORC-XYM7IGRMPD.78c41a` | “In this work, it was found that the eutectic reactions in the Al-rich and Y-rich regions take place at 640 and 960 °C, respectively.” |
+| 1233 | Liquid \<-> AlY2 + hcp_Y | Liquid: Y 0.753; AlY2: Al 0.333333, Y 0.666667 | model | [2] Hu 2018; _cites Snyder 1960_ | Table 7, p. 10, row 47; `ORC-KFVEIKHUNO` |  |
+| 1228.15 | L \<=> AlY2 + (αY) | L: Y 0.75; AlY2: Al 0.333333, Y 0.666667 | experimental | [1] Liu 2006; _cites Liu 2006_ | Table 2, p. 3, row 33; `ORC-FI4TP67IZ7` |  |
+| 1228 | Liquid \<-> AlY2 + hcp_Y | Liquid: Y 0.75; AlY2: Al 0.333333, Y 0.666667 | model | [2] Hu 2018; _cites Liu 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.06.078) | Table 7, p. 10, row 46; `ORC-AH5VHZJH6K` |  |
+| 1227.15 | L \<=> AlY2 + (αY) | L: Y 0.737; AlY2: Al 0.333333, Y 0.666667 | model | [1] Liu 2006 | Table 2, p. 3, row 36; `ORC-2KNNBFVJVS` |  |
+| 1227 | Liquid \<-> AlY2 + hcp_Y | Liquid: Y 0.737; AlY2: Al 0.333333, Y 0.666667 | model | [2] Hu 2018; _cites Liu 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.06.078) | Table 7, p. 10, row 50; `ORC-KRZWUROY5I` |  |
+| 1219 | Liquid \<-> AlY2 + hcp_Y | Liquid: Y 0.738; AlY2: Al 0.333333, Y 0.666667 | model | [2] Hu 2018 | Table 7, p. 10, row 51; `ORC-YWUAIXQGZI` |  |
+| 974 | Al2Y + βAl3Y/Al2Y + αAl3Y + βAl3Y |  | model | [2] Hu 2018 | Table 5, p. 6, row 43; `ORC-GSWYDBMDW6` |  |
+| 967 | Al2Y + αAl3Y + βAl3Y/Al2Y + αAl3Y |  | model | [2] Hu 2018 | Table 5, p. 6, row 44; `ORC-QNRXL6GF52` |  |
+| 923.15 | L \<=> (Al) + αAl3Y | L: Y 0.033; αAl3Y: Al 0.75, Y 0.25 | experimental | [1] Liu 2006; _cites Lundin 1961_ | Table 2, p. 3, row 3; `ORC-5DTY75GKEV` |  |
+| 923 | Liquid \<-> fcc_Al + αAl3Y | Liquid: Y 0.033; αAl3Y: Al 0.75, Y 0.25 | model | [2] Hu 2018; _cites Lundin 1961_ | Table 7, p. 10, row 3; `ORC-DRUCIWJSVA` |  |
+| 919 | βAl3Y \<-> αAl3Y | βAl3Y: Al 0.75, Y 0.25; αAl3Y: Al 0.75, Y 0.25 | model | [2] Hu 2018 | Table 7, p. 10, row 9; `ORC-KEL6MLKP6X` |  |
+| 917.15 | βAl3Y \<=> αAl3Y, L, Al2Y | βAl3Y: Al 0.75, Y 0.25; αAl3Y: Al 0.75, Y 0.25; Al2Y: Al 0.666667, Y 0.333333 | experimental | [1] Liu 2006; _cites Snyder 1960_ | Table 2, p. 3, row 7; `ORC-3WTGGRIQZT` |  |
+| 917.15 | βAl3Y \<=> αAl3Y, L, Al2Y | βAl3Y: Al 0.75, Y 0.25; αAl3Y: Al 0.75, Y 0.25; Al2Y: Al 0.666667, Y 0.333333 | model | [1] Liu 2006 | Table 2, p. 3, row 8; `ORC-CKPZWEU2UE` |  |
+| 917 | βAl3Y \<-> αAl3Y | βAl3Y: Al 0.75, Y 0.25; αAl3Y: Al 0.75, Y 0.25 | model | [2] Hu 2018; _cites Liu 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.06.078) | Table 7, p. 10, row 8; `ORC-AWXFTGL7HV` |  |
+| 917 | βAl3Y \<-> αAl3Y | βAl3Y: Al 0.75, Y 0.25; αAl3Y: Al 0.75, Y 0.25 | model | [2] Hu 2018; _cites Snyder 1960_ | Table 7, p. 10, row 7; `ORC-O4AB22LPGO` |  |
+| 913.15 | L \<=> (Al) + αAl3Y | L: Y 0.029; αAl3Y: Al 0.75, Y 0.25 | experimental | [1] Liu 2006; _cites Snyder 1960_ | Table 2, p. 3, row 2; `ORC-4FWQVHUBOH` |  |
+| 913.15 | eutectic |  | experimental | [3] Shakhshir 2006 | p. 2; `ORC-XYM7IGRMPD.484c23` | “In this work, it was found that the eutectic reactions in the Al-rich and Y-rich regions take place at 640 and 960 °C, respectively.” |
+| 913 | Liquid \<-> fcc_Al + αAl3Y | Liquid: Y 0.029; αAl3Y: Al 0.75, Y 0.25 | model | [2] Hu 2018; _cites Snyder 1960_ | Table 7, p. 10, row 2; `ORC-237JQCXG6M` |  |
+| 911.15 | L \<=> (Al) + αAl3Y | L: Y 0.03; αAl3Y: Al 0.75, Y 0.25 | experimental | [1] Liu 2006; _cites Drits 1969_ | Table 2, p. 3, row 4; `ORC-C5HX5BSR6P` |  |
+| 910.15 | L \<=> (Al) + αAl3Y | L: Y 0.0296; αAl3Y: Al 0.75, Y 0.25 | model | [1] Liu 2006 | Table 2, p. 3, row 6; `ORC-AVYFYNQI2H` |  |
+| 910.15 | eutectic |  | experimental | [1] Liu 2006; _cites Kononenko 1990_ | p. 2; `ORC-HTJTHJBEGI` | “By the combined use of DTA, metallography, and XRD techniques, Kononenko and Golubev \[13\] reported liquidus in the most Alrich side and found the Al-rich eutectic point to be at 637 ◦ C and 3.1 at.% Y.” |
+| 910.15 | L \<=> (Al) + αAl3Y | αAl3Y: Al 0.75, Y 0.25 | experimental | [1] Liu 2006; _cites Liu 2006_ | Table 2, p. 3, row 1; `ORC-TORGS5AALD` |  |
+| 910.15 | L \<=> (Al) + αAl3Y | L: Y 0.03; αAl3Y: Al 0.75, Y 0.25 | experimental | [1] Liu 2006; _cites Kononenko 1990_ | Table 2, p. 3, row 5; `ORC-Z2UQKH2M7F` |  |
+| 910 | Liquid \<-> fcc_Al + αAl3Y | αAl3Y: Al 0.75, Y 0.25 | model | [2] Hu 2018; _cites Liu 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.06.078) | Table 7, p. 10, row 1; `ORC-A2OVD2CFZF` |  |
+| 910 | Liquid \<-> fcc_Al + αAl3Y | Liquid: Y 0.03; αAl3Y: Al 0.75, Y 0.25 | model | [2] Hu 2018; _cites Liu 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.06.078) | Table 7, p. 10, row 5; `ORC-XXKXQOFP5K` |  |
+| 908 | Liquid \<-> fcc_Al + αAl3Y | Liquid: Y 0.032; αAl3Y: Al 0.75, Y 0.25 | model | [2] Hu 2018 | Table 7, p. 10, row 6; `ORC-UKIEYJPMLD` |  |
+| 906 | Liquid \<-> fcc_Al + αAl3Y | Liquid: Y 0.032; αAl3Y: Al 0.75, Y 0.25 | model | [2] Hu 2018; _cites Shakhshir 2006_ [doi](https://doi.org/10.1361/154770306x109782) | Table 7, p. 10, row 4; `ORC-Z7VPBJHNEU` |  |
+| 843 | Al2Y3 + Al3Y5/Al2Y3 + Al3Y5 + AlY2 |  | model | [2] Hu 2018 | Table 5, p. 6, row 74; `ORC-4MLI2FGHV2` |  |
+| 813 | Al2Y3 + Al3Y5 + AlY2/Al2Y3 + AlY2 |  | model | [2] Hu 2018 | Table 5, p. 6, row 75; `ORC-32OYWWPWTJ` |  |
+| 805 | AlY2 + Al3Y5/AlY2 + Al3Y5 + Al2Y3 |  | model | [2] Hu 2018 | Table 5, p. 6, row 93; `ORC-BTMEWKJ3Y6` |  |
+| 798 | AlY2 + Al3Y5 + Al2Y3/AlY2 + Al2Y3 |  | model | [2] Hu 2018 | Table 5, p. 6, row 94; `ORC-CEOJBISKOS` |  |
 
 ## Formation enthalpies
 
@@ -268,18 +268,18 @@ Table: Enthalpies of formation, Al–Y system (12)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Y2Al | [AlY2](https://data.orchid-project.org/compounds/AlY2.html) | -35 kJ/mol-atom |  | model | -30.364 (mp-aaaaaqpy) | -30.446 (oqmd-10610) | [4] Gröbner 1995 | Table 1, p. 2, row 14 |  |
-| Y3Al2 | [Al2Y3](https://data.orchid-project.org/compounds/Al2Y3.html) | -40 kJ/mol-atom | 298.15 | experimental | -34.207 (mp-aaaaaytf) | -34.421 (oqmd-27977) | [4] Gröbner 1995; _cites Meschel 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990280-z) | Table 1, p. 2, row 11 |  |
-| Y3Al2 | [Al2Y3](https://data.orchid-project.org/compounds/Al2Y3.html) | -40 kJ/mol-atom |  | model | -34.207 (mp-aaaaaytf) | -34.421 (oqmd-27977) | [4] Gröbner 1995 | Table 1, p. 2, row 12 |  |
-| Y5Al3 | [Al3Y5](https://data.orchid-project.org/compounds/Al3Y5.html) | -38 kJ/mol-atom |  | model | -28.525 (mp-aaacpbsg) | -28.827 (oqmd-689961) | [4] Gröbner 1995 | Table 1, p. 2, row 13 |  |
-| YAl | [AlY](https://data.orchid-project.org/compounds/AlY.html) | -87.8 kJ/mol-atom | 298.15 | experimental | -40.364 (mp-aaaaaqpw) | -42.255 (oqmd-1782622) | [4] Gröbner 1995; _cites Snyder 1960_ | Table 1, p. 2, row 5 |  |
-| YAl | [AlY](https://data.orchid-project.org/compounds/AlY.html) | -45 kJ/mol-atom |  | model | -40.364 (mp-aaaaaqpw) | -42.255 (oqmd-1782622) | [4] Gröbner 1995 | Table 1, p. 2, row 6 |  |
-| YAl2 | [Al2Y](https://data.orchid-project.org/compounds/Al2Y.html) | -80.9 kJ/mol-atom | 298.15 | experimental | -51.266 (mp-aaaaadli) | -51.513 (oqmd-10612) | [4] Gröbner 1995; _cites Snyder 1960_ | Table 1, p. 2, row 3 |  |
-| YAl2 | [Al2Y](https://data.orchid-project.org/compounds/Al2Y.html) | -50.4 kJ/mol-atom |  | model | -51.266 (mp-aaaaadli) | -51.513 (oqmd-10612) | [4] Gröbner 1995 | Table 1, p. 2, row 4 |  |
-| YAl2 | [Al2Y](https://data.orchid-project.org/compounds/Al2Y.html) | -50.4 kJ/mol-atom | 298.15 | experimental | -51.266 (mp-aaaaadli) | -51.513 (oqmd-10612) | [4] Gröbner 1995; _cites Jung 1991_ [doi](https://doi.org/10.1016/0925-8388%2891%2990039-x) | Table 1, p. 2, row 9 |  |
-| YAl3 | [Al3Y](https://data.orchid-project.org/compounds/Al3Y.html) | -47.5 kJ/mol-atom |  | model | -42.248 (mp-aaabxgjn) | -42.348 (oqmd-321899) | [4] Gröbner 1995 | Table 1, p. 2, row 2 |  |
-| YAl3 | [Al3Y](https://data.orchid-project.org/compounds/Al3Y.html) | -47.5 kJ/mol-atom | 763 | experimental | -42.248 (mp-aaabxgjn) | -42.348 (oqmd-321899) | [4] Gröbner 1995; _cites F 1988_ | Table 1, p. 2, row 7 |  |
-| YAl3 | [Al3Y](https://data.orchid-project.org/compounds/Al3Y.html) | -47.1 kJ/mol-atom | 298.15 | experimental | -42.248 (mp-aaabxgjn) | -42.348 (oqmd-321899) | [4] Gröbner 1995; _cites Snyder 1960_ | Table 1, p. 2, row 1 |  |
+| Y2Al | [AlY2](https://data.orchid-project.org/compounds/AlY2.html) | -35 kJ/mol-atom |  | model | -30.364 (mp-aaaaaqpy) | -30.446 (oqmd-10610) | [4] Gröbner 1995 | Table 1, p. 2, row 14; `ORC-CQA6HQEN4F` |  |
+| Y3Al2 | [Al2Y3](https://data.orchid-project.org/compounds/Al2Y3.html) | -40 kJ/mol-atom | 298.15 | experimental | -34.207 (mp-aaaaaytf) | -34.421 (oqmd-27977) | [4] Gröbner 1995; _cites Meschel 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990280-z) | Table 1, p. 2, row 11; `ORC-KKEXC563ZY` |  |
+| Y3Al2 | [Al2Y3](https://data.orchid-project.org/compounds/Al2Y3.html) | -40 kJ/mol-atom |  | model | -34.207 (mp-aaaaaytf) | -34.421 (oqmd-27977) | [4] Gröbner 1995 | Table 1, p. 2, row 12; `ORC-W5THGLIZBR` |  |
+| Y5Al3 | [Al3Y5](https://data.orchid-project.org/compounds/Al3Y5.html) | -38 kJ/mol-atom |  | model | -28.525 (mp-aaacpbsg) | -28.827 (oqmd-689961) | [4] Gröbner 1995 | Table 1, p. 2, row 13; `ORC-7QJXF54B3H` |  |
+| YAl | [AlY](https://data.orchid-project.org/compounds/AlY.html) | -87.8 kJ/mol-atom | 298.15 | experimental | -40.364 (mp-aaaaaqpw) | -42.255 (oqmd-1782622) | [4] Gröbner 1995; _cites Snyder 1960_ | Table 1, p. 2, row 5; `ORC-SCKM72LREJ` |  |
+| YAl | [AlY](https://data.orchid-project.org/compounds/AlY.html) | -45 kJ/mol-atom |  | model | -40.364 (mp-aaaaaqpw) | -42.255 (oqmd-1782622) | [4] Gröbner 1995 | Table 1, p. 2, row 6; `ORC-EJPJJQTXNY` |  |
+| YAl2 | [Al2Y](https://data.orchid-project.org/compounds/Al2Y.html) | -80.9 kJ/mol-atom | 298.15 | experimental | -51.266 (mp-aaaaadli) | -51.513 (oqmd-10612) | [4] Gröbner 1995; _cites Snyder 1960_ | Table 1, p. 2, row 3; `ORC-DDUCGWQENM` |  |
+| YAl2 | [Al2Y](https://data.orchid-project.org/compounds/Al2Y.html) | -50.4 kJ/mol-atom |  | model | -51.266 (mp-aaaaadli) | -51.513 (oqmd-10612) | [4] Gröbner 1995 | Table 1, p. 2, row 4; `ORC-ICIJ63MKRI` |  |
+| YAl2 | [Al2Y](https://data.orchid-project.org/compounds/Al2Y.html) | -50.4 kJ/mol-atom | 298.15 | experimental | -51.266 (mp-aaaaadli) | -51.513 (oqmd-10612) | [4] Gröbner 1995; _cites Jung 1991_ [doi](https://doi.org/10.1016/0925-8388%2891%2990039-x) | Table 1, p. 2, row 9; `ORC-MMSUJPXEYZ` |  |
+| YAl3 | [Al3Y](https://data.orchid-project.org/compounds/Al3Y.html) | -47.5 kJ/mol-atom |  | model | -42.248 (mp-aaabxgjn) | -42.348 (oqmd-321899) | [4] Gröbner 1995 | Table 1, p. 2, row 2; `ORC-LJLNPMYVSM` |  |
+| YAl3 | [Al3Y](https://data.orchid-project.org/compounds/Al3Y.html) | -47.5 kJ/mol-atom | 763 | experimental | -42.248 (mp-aaabxgjn) | -42.348 (oqmd-321899) | [4] Gröbner 1995; _cites F 1988_ | Table 1, p. 2, row 7; `ORC-QQHP64NZUS` |  |
+| YAl3 | [Al3Y](https://data.orchid-project.org/compounds/Al3Y.html) | -47.1 kJ/mol-atom | 298.15 | experimental | -42.248 (mp-aaabxgjn) | -42.348 (oqmd-321899) | [4] Gröbner 1995; _cites Snyder 1960_ | Table 1, p. 2, row 1; `ORC-7X7QCYYHAV` |  |
 
 ## Other properties
 
@@ -289,17 +289,17 @@ Table: Phase transition, Al–Y system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 887.15 K | 887.15 | other | model | [3] Shakhshir 2006 | p. 12 | “However, this was evaluated as 614 °C in the current work, which is in good agreement with Smith et al.\[38\]” |
-| Phase transition | 906.15 K | 906.15 | other | experimental | [3] Shakhshir 2006; _cites Drits 1979_ | p. 12 | “This is due to the high melting point of ␧-phase (633 °C) reported by Drits et al.\[47\]” |
-| Phase transition | 917.15 K | 917.15 | αAl3 Y = βAl3 Y | experimental | [1] Liu 2006 | p. 4 | “At the transition temperature 917.15 K between αAl3 Y and βAl3 Y, the Gibbs energies of these two phases are equal.” |
-| Phase transition | 918.15 K | 918.15 | Al3Y | experimental | [3] Shakhshir 2006; _cites Bailey 1967_ [doi](https://doi.org/10.1107/s0365110x67003603) | p. 3 | “A transformation of Al3Y from ␣ to ␤ was noticed by Bailey\[23\] at 645 °C; however, the two different phases ␣ and ␤ were not confirmed by Raggio et al.,\[24\] or by Lingmin et al.\[20\]” |
-| Phase transition | 1053.15 K | 1053.15 | other | experimental | [3] Shakhshir 2006; _cites Kh 1990_ | p. 11 | “However, the calculated melting point of this compound is 1085 °C, which is much higher than ∼780 °C obtained by Odinaev and Ganiev.\[11\]” |
-| Phase transition | 1358.15 K | 1358.15 | other | model | [3] Shakhshir 2006 | p. 11 | “However, the calculated melting point of this compound is 1085 °C, which is much higher than ∼780 °C obtained by Odinaev and Ganiev.\[11\]” |
-| Phase transition | 1373.15 K | 1373.15 | congruent melting | experimental | [3] Shakhshir 2006; _cites Snyder 1960_ | p. 2 | “He reported, with ±5 °C accuracy, the liquidus, two congruent compounds Al2Y and Al2Y3, which melt at 1485 and 1100 °C, respectively, and three incongruent melting compounds Al3Y, AlY, and AlY2.” |
-| Phase transition | 1748.15 K | 1748.15 | other | experimental | [3] Shakhshir 2006 | p. 5 | “This discrepancy is probably caused by the difficulty in obtaining accurate measurements in this region, due to the existence of the high melting Al2Y compound (Tm ⳱ 1475 °C).” |
-| Phase transition | 1751.15 K | 1751.15 | polymorphic: ␣ ↔ ␤ | experimental | [3] Shakhshir 2006 | p. 2 | “They reported that ␤Y phase melts at 1522 °C and yttrium undergoes an ␣ ↔ ␤ allotropic phase transformation at 1478 °C.” |
-| Phase transition | 1758.15 K | 1758.15 | congruent melting | experimental | [3] Shakhshir 2006; _cites Snyder 1960_ | p. 2 | “He reported, with ±5 °C accuracy, the liquidus, two congruent compounds Al2Y and Al2Y3, which melt at 1485 and 1100 °C, respectively, and three incongruent melting compounds Al3Y, AlY, and AlY2.” |
-| Phase transition | 1795.15 K | 1795.15 | ␤Y | experimental | [3] Shakhshir 2006 | p. 2 | “They reported that ␤Y phase melts at 1522 °C and yttrium undergoes an ␣ ↔ ␤ allotropic phase transformation at 1478 °C.” |
+| Phase transition | 887.15 K | 887.15 | other | model | [3] Shakhshir 2006 | p. 12; `ORC-GO35IK3Q7S.d6e57f` | “However, this was evaluated as 614 °C in the current work, which is in good agreement with Smith et al.\[38\]” |
+| Phase transition | 906.15 K | 906.15 | other | experimental | [3] Shakhshir 2006; _cites Drits 1979_ | p. 12; `ORC-GO35IK3Q7S.1c4934` | “This is due to the high melting point of ␧-phase (633 °C) reported by Drits et al.\[47\]” |
+| Phase transition | 917.15 K | 917.15 | αAl3 Y = βAl3 Y | experimental | [1] Liu 2006 | p. 4; `ORC-TI3BA3ZOX3` | “At the transition temperature 917.15 K between αAl3 Y and βAl3 Y, the Gibbs energies of these two phases are equal.” |
+| Phase transition | 918.15 K | 918.15 | Al3Y | experimental | [3] Shakhshir 2006; _cites Bailey 1967_ [doi](https://doi.org/10.1107/s0365110x67003603) | p. 3; `ORC-CI2PAKKM7J` | “A transformation of Al3Y from ␣ to ␤ was noticed by Bailey\[23\] at 645 °C; however, the two different phases ␣ and ␤ were not confirmed by Raggio et al.,\[24\] or by Lingmin et al.\[20\]” |
+| Phase transition | 1053.15 K | 1053.15 | other | experimental | [3] Shakhshir 2006; _cites Kh 1990_ | p. 11; `ORC-CGBUWE7BNO.1acce1` | “However, the calculated melting point of this compound is 1085 °C, which is much higher than ∼780 °C obtained by Odinaev and Ganiev.\[11\]” |
+| Phase transition | 1358.15 K | 1358.15 | other | model | [3] Shakhshir 2006 | p. 11; `ORC-CGBUWE7BNO.4f8c3f` | “However, the calculated melting point of this compound is 1085 °C, which is much higher than ∼780 °C obtained by Odinaev and Ganiev.\[11\]” |
+| Phase transition | 1373.15 K | 1373.15 | congruent melting | experimental | [3] Shakhshir 2006; _cites Snyder 1960_ | p. 2; `ORC-FKR7T4JSFI.34522c` | “He reported, with ±5 °C accuracy, the liquidus, two congruent compounds Al2Y and Al2Y3, which melt at 1485 and 1100 °C, respectively, and three incongruent melting compounds Al3Y, AlY, and AlY2.” |
+| Phase transition | 1748.15 K | 1748.15 | other | experimental | [3] Shakhshir 2006 | p. 5; `ORC-RZJAHN6MNT` | “This discrepancy is probably caused by the difficulty in obtaining accurate measurements in this region, due to the existence of the high melting Al2Y compound (Tm ⳱ 1475 °C).” |
+| Phase transition | 1751.15 K | 1751.15 | polymorphic: ␣ ↔ ␤ | experimental | [3] Shakhshir 2006 | p. 2; `ORC-UCZBBNVMSY.92b48e` | “They reported that ␤Y phase melts at 1522 °C and yttrium undergoes an ␣ ↔ ␤ allotropic phase transformation at 1478 °C.” |
+| Phase transition | 1758.15 K | 1758.15 | congruent melting | experimental | [3] Shakhshir 2006; _cites Snyder 1960_ | p. 2; `ORC-FKR7T4JSFI.e416eb` | “He reported, with ±5 °C accuracy, the liquidus, two congruent compounds Al2Y and Al2Y3, which melt at 1485 and 1100 °C, respectively, and three incongruent melting compounds Al3Y, AlY, and AlY2.” |
+| Phase transition | 1795.15 K | 1795.15 | ␤Y | experimental | [3] Shakhshir 2006 | p. 2; `ORC-UCZBBNVMSY.31d486` | “They reported that ␤Y phase melts at 1522 °C and yttrium undergoes an ␣ ↔ ␤ allotropic phase transformation at 1478 °C.” |
 
 ### Crystal structure (31)
 
@@ -307,37 +307,37 @@ Table: Crystal structure, Al–Y system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 7.8611 Å | 298.15 | Al2Y; _alloy: Y 0.333333_ | unspecified | [5] Zhang 2009 | Table 1, p. 2, row 4 |  |
-| Lattice a | 7.8611 Å | 298.15 | Al2Y; _alloy: Y 0.333333_ | model | [2] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 12 |  |
-| Lattice a | 8.2411 Å | 298.15 | Al2Y3; _alloy: Y 0.6_ | unspecified | [5] Zhang 2009 | Table 1, p. 2, row 6 |  |
-| Lattice a | 8.239 Å | 298.15 | Al2Y3; _alloy: Y 0.6_ | model | [2] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 14 |  |
-| Lattice a | 6.1884 Å | 298.15 | Al3Y_H; _alloy: Y 0.25_ | unspecified | [5] Zhang 2009 | Table 1, p. 2, row 2 |  |
-| Lattice a | 6.276 Å | 298.15 | Al3Y_L; _alloy: Y 0.25_ | unspecified | [5] Zhang 2009 | Table 1, p. 2, row 3 |  |
-| Lattice a | 3.884 Å | 298.15 | AlY; _alloy: Y 0.5_ | model | [2] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 13 |  |
-| Lattice a | 3.884 Å | 298.15 | AlY; _alloy: Y 0.5_ | unspecified | [5] Zhang 2009 | Table 1, p. 2, row 5 |  |
-| Lattice a | 6.59 Å | 298.15 | AlY2; _alloy: Y 0.666667_ | model | [2] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 15 |  |
-| Lattice a | 6.54 Å | 298.15 | AlY2; _alloy: Y 0.666667_ | unspecified | [5] Zhang 2009 | Table 1, p. 2, row 7 |  |
-| Lattice a | 6.276 Å | 298.15 | αAl3Y; _alloy: Y 0.25_ | model | [2] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 10 |  |
-| Lattice a | 6.204 Å | 298.15 | βAl3Y; _alloy: Y 0.25_ | model | [2] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 11 |  |
-| Lattice b | 7.8611 Å | 298.15 | Al2Y; _alloy: Y 0.333333_ | model | [2] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 12 |  |
-| Lattice b | 8.239 Å | 298.15 | Al2Y3; _alloy: Y 0.6_ | model | [2] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 14 |  |
-| Lattice b | 11.522 Å | 298.15 | AlY; _alloy: Y 0.5_ | model | [2] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 13 |  |
-| Lattice b | 11.522 Å | 298.15 | AlY; _alloy: Y 0.5_ | unspecified | [5] Zhang 2009 | Table 1, p. 2, row 5 |  |
-| Lattice b | 5.12 Å | 298.15 | AlY2; _alloy: Y 0.666667_ | model | [2] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 15 |  |
-| Lattice b | 5.08 Å | 298.15 | AlY2; _alloy: Y 0.666667_ | unspecified | [5] Zhang 2009 | Table 1, p. 2, row 7 |  |
-| Lattice b | 6.276 Å | 298.15 | αAl3Y; _alloy: Y 0.25_ | model | [2] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 10 |  |
-| Lattice b | 6.204 Å | 298.15 | βAl3Y; _alloy: Y 0.25_ | model | [2] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 11 |  |
-| Lattice c | 7.8611 Å | 298.15 | Al2Y; _alloy: Y 0.333333_ | model | [2] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 12 |  |
-| Lattice c | 7.6411 Å | 298.15 | Al2Y3; _alloy: Y 0.6_ | unspecified | [5] Zhang 2009 | Table 1, p. 2, row 6 |  |
-| Lattice c | 7.648 Å | 298.15 | Al2Y3; _alloy: Y 0.6_ | model | [2] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 14 |  |
-| Lattice c | 21.094 Å | 298.15 | Al3Y_H; _alloy: Y 0.25_ | unspecified | [5] Zhang 2009 | Table 1, p. 2, row 2 |  |
-| Lattice c | 4.582 Å | 298.15 | Al3Y_L; _alloy: Y 0.25_ | unspecified | [5] Zhang 2009 | Table 1, p. 2, row 3 |  |
-| Lattice c | 4.385 Å | 298.15 | AlY; _alloy: Y 0.5_ | model | [2] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 13 |  |
-| Lattice c | 4.385 Å | 298.15 | AlY; _alloy: Y 0.5_ | unspecified | [5] Zhang 2009 | Table 1, p. 2, row 5 |  |
-| Lattice c | 9.3 Å | 298.15 | AlY2; _alloy: Y 0.666667_ | model | [2] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 15 |  |
-| Lattice c | 9.4 Å | 298.15 | AlY2; _alloy: Y 0.666667_ | unspecified | [5] Zhang 2009 | Table 1, p. 2, row 7 |  |
-| Lattice c | 4.582 Å | 298.15 | αAl3Y; _alloy: Y 0.25_ | model | [2] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 10 |  |
-| Lattice c | 21.184 Å | 298.15 | βAl3Y; _alloy: Y 0.25_ | model | [2] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 11 |  |
+| Lattice a | 7.8611 Å | 298.15 | Al2Y; _alloy: Y 0.333333_ | unspecified | [5] Zhang 2009 | Table 1, p. 2, row 4; `ORC-ULR754LJPG` |  |
+| Lattice a | 7.8611 Å | 298.15 | Al2Y; _alloy: Y 0.333333_ | model | [2] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 12; `ORC-YGNHGCLBUU.03812a` |  |
+| Lattice a | 8.2411 Å | 298.15 | Al2Y3; _alloy: Y 0.6_ | unspecified | [5] Zhang 2009 | Table 1, p. 2, row 6; `ORC-5JXUUNXKTD.289358` |  |
+| Lattice a | 8.239 Å | 298.15 | Al2Y3; _alloy: Y 0.6_ | model | [2] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 14; `ORC-JL2YJXQBLL.5a4cf9` |  |
+| Lattice a | 6.1884 Å | 298.15 | Al3Y_H; _alloy: Y 0.25_ | unspecified | [5] Zhang 2009 | Table 1, p. 2, row 2; `ORC-7IKZTF2JJ4.d74c69` |  |
+| Lattice a | 6.276 Å | 298.15 | Al3Y_L; _alloy: Y 0.25_ | unspecified | [5] Zhang 2009 | Table 1, p. 2, row 3; `ORC-NR5Y6BSMJQ.ed972f` |  |
+| Lattice a | 3.884 Å | 298.15 | AlY; _alloy: Y 0.5_ | model | [2] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 13; `ORC-2JLQG76GXN.a2a0bc` |  |
+| Lattice a | 3.884 Å | 298.15 | AlY; _alloy: Y 0.5_ | unspecified | [5] Zhang 2009 | Table 1, p. 2, row 5; `ORC-UQCMLZSCIA.8cbb43` |  |
+| Lattice a | 6.59 Å | 298.15 | AlY2; _alloy: Y 0.666667_ | model | [2] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 15; `ORC-STRBFULEKJ.9820db` |  |
+| Lattice a | 6.54 Å | 298.15 | AlY2; _alloy: Y 0.666667_ | unspecified | [5] Zhang 2009 | Table 1, p. 2, row 7; `ORC-W3W75KGG37.d65bd2` |  |
+| Lattice a | 6.276 Å | 298.15 | αAl3Y; _alloy: Y 0.25_ | model | [2] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 10; `ORC-6QY4AVZRZK.c31463` |  |
+| Lattice a | 6.204 Å | 298.15 | βAl3Y; _alloy: Y 0.25_ | model | [2] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 11; `ORC-RXLH53VIGJ.fb8998` |  |
+| Lattice b | 7.8611 Å | 298.15 | Al2Y; _alloy: Y 0.333333_ | model | [2] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 12; `ORC-YGNHGCLBUU.782122` |  |
+| Lattice b | 8.239 Å | 298.15 | Al2Y3; _alloy: Y 0.6_ | model | [2] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 14; `ORC-JL2YJXQBLL.569a54` |  |
+| Lattice b | 11.522 Å | 298.15 | AlY; _alloy: Y 0.5_ | model | [2] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 13; `ORC-2JLQG76GXN.a9aeca` |  |
+| Lattice b | 11.522 Å | 298.15 | AlY; _alloy: Y 0.5_ | unspecified | [5] Zhang 2009 | Table 1, p. 2, row 5; `ORC-UQCMLZSCIA.cf4a9b` |  |
+| Lattice b | 5.12 Å | 298.15 | AlY2; _alloy: Y 0.666667_ | model | [2] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 15; `ORC-STRBFULEKJ.b3fe65` |  |
+| Lattice b | 5.08 Å | 298.15 | AlY2; _alloy: Y 0.666667_ | unspecified | [5] Zhang 2009 | Table 1, p. 2, row 7; `ORC-W3W75KGG37.63bafd` |  |
+| Lattice b | 6.276 Å | 298.15 | αAl3Y; _alloy: Y 0.25_ | model | [2] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 10; `ORC-6QY4AVZRZK.90f83a` |  |
+| Lattice b | 6.204 Å | 298.15 | βAl3Y; _alloy: Y 0.25_ | model | [2] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 11; `ORC-RXLH53VIGJ.1d46eb` |  |
+| Lattice c | 7.8611 Å | 298.15 | Al2Y; _alloy: Y 0.333333_ | model | [2] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 12; `ORC-YGNHGCLBUU.94e77c` |  |
+| Lattice c | 7.6411 Å | 298.15 | Al2Y3; _alloy: Y 0.6_ | unspecified | [5] Zhang 2009 | Table 1, p. 2, row 6; `ORC-5JXUUNXKTD.cd14a1` |  |
+| Lattice c | 7.648 Å | 298.15 | Al2Y3; _alloy: Y 0.6_ | model | [2] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 14; `ORC-JL2YJXQBLL.684874` |  |
+| Lattice c | 21.094 Å | 298.15 | Al3Y_H; _alloy: Y 0.25_ | unspecified | [5] Zhang 2009 | Table 1, p. 2, row 2; `ORC-7IKZTF2JJ4.79f182` |  |
+| Lattice c | 4.582 Å | 298.15 | Al3Y_L; _alloy: Y 0.25_ | unspecified | [5] Zhang 2009 | Table 1, p. 2, row 3; `ORC-NR5Y6BSMJQ.549abe` |  |
+| Lattice c | 4.385 Å | 298.15 | AlY; _alloy: Y 0.5_ | model | [2] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 13; `ORC-2JLQG76GXN.c452d4` |  |
+| Lattice c | 4.385 Å | 298.15 | AlY; _alloy: Y 0.5_ | unspecified | [5] Zhang 2009 | Table 1, p. 2, row 5; `ORC-UQCMLZSCIA.671c11` |  |
+| Lattice c | 9.3 Å | 298.15 | AlY2; _alloy: Y 0.666667_ | model | [2] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 15; `ORC-STRBFULEKJ.ca0850` |  |
+| Lattice c | 9.4 Å | 298.15 | AlY2; _alloy: Y 0.666667_ | unspecified | [5] Zhang 2009 | Table 1, p. 2, row 7; `ORC-W3W75KGG37.12efea` |  |
+| Lattice c | 4.582 Å | 298.15 | αAl3Y; _alloy: Y 0.25_ | model | [2] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 10; `ORC-6QY4AVZRZK.cd8083` |  |
+| Lattice c | 21.184 Å | 298.15 | βAl3Y; _alloy: Y 0.25_ | model | [2] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 11; `ORC-RXLH53VIGJ.b713fa` |  |
 
 ## Sources
 
@@ -406,4 +406,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

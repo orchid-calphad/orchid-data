@@ -71,62 +71,62 @@ Table: Invariant reactions reported in the literature for the Cu–Fe system (56
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1764 | δ + liq -> γ | δ: Cu 0.064; γ: Cu 0.076; liq: Cu 0.116 | unspecified | [1] Chen 1995; _cites Chuang 1995_ | Table II, p. 6, row 6 |  |
-| 1764 | L + δ ↔ γ | L: Fe 0.884; δ: Fe 0.936 | model | [2] Turchanin 2003; _cites Chuang_ | Table 2, p. 5, row 7 |  |
-| 1761 | L + δ ↔ γ |  | experimental | [2] Turchanin 2003; _cites Amara 2003_ | Table 2, p. 5, row 4 |  |
-| 1760 | L + δ ↔ γ | L: Fe 0.896; δ: Fe 0.942 | model | [2] Turchanin 2003 | Table 2, p. 5, row 9 |  |
-| 1759 | L + δ ↔ γ | L: Fe 0.902 | experimental | [2] Turchanin 2003; _cites Maddocks 1936_ | Table 2, p. 5, row 1 |  |
-| 1759 | δ + liq -> γ | δ: Cu 0.063; γ: Cu 0.073; liq: Cu 0.108 | model | [1] Chen 1995 | Table II, p. 6, row 7 |  |
-| 1759 | δ + liq -> γ | liq: Cu 0.098 | experimental | [1] Chen 1995; _cites Maddocks 1936_ | Table II, p. 6, row 1 |  |
-| 1759 | L + δ ↔ γ | L: Fe 0.892; δ: Fe 0.937 | model | [2] Turchanin 2003; _cites Chen 1995_ [doi](https://doi.org/10.1007/bf02664678) | Table 2, p. 5, row 8 |  |
-| 1755 | δ + liq -> γ | δ: Cu 0.061; γ: Cu 0.066; liq: Cu 0.1 | experimental | [1] Chen 1995; _cites Oelsen 1961_ | Table II, p. 6, row 3 |  |
-| 1755 | L + δ ↔ γ | L: Fe 0.9; δ: Fe 0.939 | experimental | [2] Turchanin 2003; _cites Oelsen 1961_ | Table 2, p. 5, row 3 |  |
-| 1753 | δ + liq -> γ | liq: Cu 0.098 | experimental | [1] Chen 1995; _cites Hellawell 1957_ [doi](https://doi.org/10.1098/rsta.1957.0004) | Table II, p. 6, row 2 |  |
-| 1753 | δ + liq -> γ | δ: Cu 0.066; γ: Cu 0.08; liq: Cu 0.127 | unspecified | [1] Chen 1995; _cites Kubaschewski 1977_ | Table II, p. 6, row 4 |  |
-| 1753 | L + δ ↔ γ | L: Fe 0.873; δ: Fe 0.934 | model | [2] Turchanin 2003; _cites Kubaschewski 1977_ | Table 2, p. 5, row 5 |  |
-| 1753 | L + δ ↔ γ | L: Fe 0.902 | experimental | [2] Turchanin 2003; _cites ref. 1943And_ | Table 2, p. 5, row 2 |  |
-| 1752 | δ + liq -> γ | δ: Cu 0.063; γ: Cu 0.075; liq: Cu 0.124 | unspecified | [1] Chen 1995; _cites Hasebe 1980_ [doi](https://doi.org/10.1016/0364-5916%2880%2990026-7) | Table II, p. 6, row 5 |  |
-| 1752 | L + δ ↔ γ | L: Fe 0.876; δ: Fe 0.937 | model | [2] Turchanin 2003; _cites Hasebe 1980_ [doi](https://doi.org/10.1016/0364-5916%2880%2990026-7) | Table 2, p. 5, row 6 |  |
-| 1698 | monotectic |  | model | [2] Turchanin 2003 | p. 10 | “Our calculated invariant monotectic equilibrium occurs at 1698 K and corresponds to a minimum mol fraction of iron in ␦-phase of 0.91.” |
-| 1698 | L2 ↔ L1 + δ | L2: Fe 0.591; L1: Fe 0.49; δ: Fe 0.912 | model | [2] Turchanin 2003 | Table 2, p. 5, row 30 |  |
-| 1405 | L1 + L2 ↔ ε | L1: Fe 0.22 | experimental | [2] Turchanin 2003; _cites Amara 2003_ | Table 2, p. 5, row 31 |  |
-| 1380 | L1 + L2 ↔ ε | L1: Fe 0.058; L2: Fe 0.931; ε: Fe 0.127 | model | [2] Turchanin 2003 | Table 2, p. 5, row 32 |  |
-| 1371 | γ + liq -> ε | γ: Cu 0.076; ε: Cu 0.952; liq: Cu 0.965 | unspecified | [1] Chen 1995; _cites Chuang 1995_ | Table II, p. 6, row 13 |  |
-| 1371 | L + γ ↔ ε | L: Fe 0.035; γ: Fe 0.924; ε: Fe 0.048 | model | [2] Turchanin 2003; _cites Chuang_ | Table 2, p. 5, row 16 |  |
-| 1369 | L + γ ↔ ε |  | experimental | [2] Turchanin 2003; _cites Maddocks 1936_ | Table 2, p. 5, row 10 |  |
-| 1369 | L + γ ↔ ε | L: Fe 0.032; γ: Fe 0.929; ε: Fe 0.045 | experimental | [2] Turchanin 2003; _cites Oelsen 1961_ | Table 2, p. 5, row 12 |  |
-| 1369 | L + γ ↔ ε | L: Fe 0.032; γ: Fe 0.91; ε: Fe 0.05 | model | [2] Turchanin 2003; _cites Hasebe 1980_ [doi](https://doi.org/10.1016/0364-5916%2880%2990026-7) | Table 2, p. 5, row 15 |  |
-| 1369 | γ + liq -> ε | γ: Cu 0.09; ε: Cu 0.95; liq: Cu 0.968 | unspecified | [1] Chen 1995; _cites Hasebe 1980_ [doi](https://doi.org/10.1016/0364-5916%2880%2990026-7) | Table II, p. 6, row 12 |  |
-| 1369 | γ + liq -> ε | ε: Cu 0.952; liq: Cu 0.961 | unspecified | [1] Chen 1995; _cites Kubaschewski 1977_ | Table II, p. 6, row 11 |  |
-| 1369 | L + γ ↔ ε | L: Fe 0.039; ε: Fe 0.048 | model | [2] Turchanin 2003; _cites Kubaschewski 1977_ | Table 2, p. 5, row 14 |  |
-| 1369 | L + γ ↔ ε | L: Fe 0.032; γ: Fe 0.925; ε: Fe 0.045 | model | [2] Turchanin 2003; _cites Chen 1995_ [doi](https://doi.org/10.1007/bf02664678) | Table 2, p. 5, row 17 |  |
-| 1369 | γ + liq -> ε | γ: Cu 0.071; ε: Cu 0.955; liq: Cu 0.968 | experimental | [1] Chen 1995; _cites Oelsen 1961_ | Table II, p. 6, row 10 |  |
-| 1369 | γ + liq -> ε | γ: Cu 0.075; ε: Cu 0.955; liq: Cu 0.968 | model | [1] Chen 1995 | Table II, p. 6, row 14 |  |
-| 1369 | γ + liq -> ε |  | experimental | [1] Chen 1995; _cites Maddocks 1936_ | Table II, p. 6, row 8 |  |
-| 1368 | L + γ ↔ ε | L: Fe 0.035; γ: Fe 0.924; ε: Fe 0.05 | model | [2] Turchanin 2003 | Table 2, p. 5, row 18 |  |
-| 1366 | L + γ ↔ ε |  | experimental | [2] Turchanin 2003; _cites Amara 2003_ | Table 2, p. 5, row 13 |  |
-| 1363 | L + γ ↔ ε |  | experimental | [2] Turchanin 2003; _cites Hellawell 1957_ [doi](https://doi.org/10.1098/rsta.1957.0004) | Table 2, p. 5, row 11 |  |
-| 1363 | γ + liq -> ε |  | experimental | [1] Chen 1995; _cites Hellawell 1957_ [doi](https://doi.org/10.1098/rsta.1957.0004) | Table II, p. 6, row 9 |  |
-| 1139 | γ -> α + ε | α: Cu 0.019 | experimental | [1] Chen 1995; _cites Qureshi 1961_ | Table II, p. 6, row 17 |  |
-| 1139 | γ ↔ ε + α | α: Fe 0.981 | experimental | [2] Turchanin 2003; _cites Qureshi 1961_ | Table 2, p. 5, row 21 |  |
-| 1131 | γ -> α + ε | α: Cu 0.018 | experimental | [1] Chen 1995; _cites Salje 1978_ | Table II, p. 6, row 19 |  |
-| 1131 | γ ↔ ε + α | α: Fe 0.982 | experimental | [2] Turchanin 2003; _cites Salje 1978_ | Table 2, p. 5, row 23 |  |
-| 1126 | γ ↔ ε + α | γ: Fe 0.973; ε: Fe 0.014; α: Fe 0.982 | model | [2] Turchanin 2003; _cites Hasebe 1980_ [doi](https://doi.org/10.1016/0364-5916%2880%2990026-7) | Table 2, p. 5, row 26 |  |
-| 1126 | γ -> α + ε | γ: Cu 0.027; α: Cu 0.018; ε: Cu 0.986 | unspecified | [1] Chen 1995; _cites Hasebe 1980_ [doi](https://doi.org/10.1016/0364-5916%2880%2990026-7) | Table II, p. 6, row 21 |  |
-| 1124 | γ -> α + ε | γ: Cu 0.018; α: Cu 0.012; ε: Cu 0.985 | experimental | [1] Chen 1995; _cites Oelsen 1961_ | Table II, p. 6, row 15 |  |
-| 1124 | γ ↔ ε + α | γ: Fe 0.982; ε: Fe 0.015; α: Fe 0.988 | experimental | [2] Turchanin 2003; _cites Oelsen 1961_ | Table 2, p. 5, row 20 |  |
-| 1124 | γ -> α + ε | γ: Cu 0.018 | unspecified | [1] Chen 1995; _cites Kubaschewski 1977_ | Table II, p. 6, row 20 |  |
-| 1124 | γ ↔ ε + α | γ: Fe 0.977 | experimental | [2] Turchanin 2003; _cites Speich 1966_ | Table 2, p. 5, row 22 |  |
-| 1124 | γ -> α + ε | γ: Cu 0.023 | experimental | [1] Chen 1995; _cites Speich 1966_ | Table II, p. 6, row 18 |  |
-| 1122 | γ ↔ ε + α | γ: Fe 0.974; ε: Fe 0.013; α: Fe 0.983 | model | [2] Turchanin 2003; _cites Chen 1995_ [doi](https://doi.org/10.1007/bf02664678) | Table 2, p. 5, row 28 |  |
-| 1122 | γ -> α + ε | γ: Cu 0.026; α: Cu 0.017; ε: Cu 0.987 | model | [1] Chen 1995 | Table II, p. 6, row 23 |  |
-| 1120 | γ ↔ ε + α | γ: Fe 0.975; ε: Fe 0.01; α: Fe 0.984 | model | [2] Turchanin 2003 | Table 2, p. 5, row 29 |  |
-| 1118 | γ -> α + ε | γ: Cu 0.028; α: Cu 0.021; ε: Cu 0.987 | unspecified | [1] Chen 1995; _cites Chuang 1995_ | Table II, p. 6, row 22 |  |
-| 1118 | γ ↔ ε + α | γ: Fe 0.972; ε: Fe 0.013; α: Fe 0.979 | model | [2] Turchanin 2003; _cites Chuang_ | Table 2, p. 5, row 27 |  |
-| 1115 | γ ↔ ε + α |  | experimental | [2] Turchanin 2003; _cites Amara 2003_ | Table 2, p. 5, row 24 |  |
-| 1115 | γ ↔ ε + α |  | experimental | [2] Turchanin 2003; _cites Wreidt 1960_ | Table 2, p. 5, row 19 |  |
-| 1115 | γ -> α + ε |  | experimental | [1] Chen 1995; _cites Wriedt 1960_ | Table II, p. 6, row 16 |  |
-| 124 | γ ↔ ε + α | γ: Fe 0.982 | model | [2] Turchanin 2003; _cites Kubaschewski 1977_ | Table 2, p. 5, row 25 |  |
+| 1764 | δ + liq -> γ | δ: Cu 0.064; γ: Cu 0.076; liq: Cu 0.116 | unspecified | [1] Chen 1995; _cites Chuang 1995_ | Table II, p. 6, row 6; `ORC-25CN4DFUQ6` |  |
+| 1764 | L + δ ↔ γ | L: Fe 0.884; δ: Fe 0.936 | model | [2] Turchanin 2003; _cites Chuang_ | Table 2, p. 5, row 7; `ORC-F4RNRFI6PD` |  |
+| 1761 | L + δ ↔ γ |  | experimental | [2] Turchanin 2003; _cites Amara 2003_ | Table 2, p. 5, row 4; `ORC-F22TI5R6RH` |  |
+| 1760 | L + δ ↔ γ | L: Fe 0.896; δ: Fe 0.942 | model | [2] Turchanin 2003 | Table 2, p. 5, row 9; `ORC-45FZQNFU3H` |  |
+| 1759 | L + δ ↔ γ | L: Fe 0.902 | experimental | [2] Turchanin 2003; _cites Maddocks 1936_ | Table 2, p. 5, row 1; `ORC-2UA2H7BGYD` |  |
+| 1759 | δ + liq -> γ | δ: Cu 0.063; γ: Cu 0.073; liq: Cu 0.108 | model | [1] Chen 1995 | Table II, p. 6, row 7; `ORC-BB6YTMD6Z2` |  |
+| 1759 | δ + liq -> γ | liq: Cu 0.098 | experimental | [1] Chen 1995; _cites Maddocks 1936_ | Table II, p. 6, row 1; `ORC-UQRGNA253D` |  |
+| 1759 | L + δ ↔ γ | L: Fe 0.892; δ: Fe 0.937 | model | [2] Turchanin 2003; _cites Chen 1995_ [doi](https://doi.org/10.1007/bf02664678) | Table 2, p. 5, row 8; `ORC-XXYXAAU4YZ` |  |
+| 1755 | δ + liq -> γ | δ: Cu 0.061; γ: Cu 0.066; liq: Cu 0.1 | experimental | [1] Chen 1995; _cites Oelsen 1961_ | Table II, p. 6, row 3; `ORC-RAH3VCR3R4` |  |
+| 1755 | L + δ ↔ γ | L: Fe 0.9; δ: Fe 0.939 | experimental | [2] Turchanin 2003; _cites Oelsen 1961_ | Table 2, p. 5, row 3; `ORC-SBXQP53DHK` |  |
+| 1753 | δ + liq -> γ | liq: Cu 0.098 | experimental | [1] Chen 1995; _cites Hellawell 1957_ [doi](https://doi.org/10.1098/rsta.1957.0004) | Table II, p. 6, row 2; `ORC-JBI2BVKWNA` |  |
+| 1753 | δ + liq -> γ | δ: Cu 0.066; γ: Cu 0.08; liq: Cu 0.127 | unspecified | [1] Chen 1995; _cites Kubaschewski 1977_ | Table II, p. 6, row 4; `ORC-OH6Y2U3SYE` |  |
+| 1753 | L + δ ↔ γ | L: Fe 0.873; δ: Fe 0.934 | model | [2] Turchanin 2003; _cites Kubaschewski 1977_ | Table 2, p. 5, row 5; `ORC-PCN4JTG4GX` |  |
+| 1753 | L + δ ↔ γ | L: Fe 0.902 | experimental | [2] Turchanin 2003; _cites ref. 1943And_ | Table 2, p. 5, row 2; `ORC-WOZUQFXXPM` |  |
+| 1752 | δ + liq -> γ | δ: Cu 0.063; γ: Cu 0.075; liq: Cu 0.124 | unspecified | [1] Chen 1995; _cites Hasebe 1980_ [doi](https://doi.org/10.1016/0364-5916%2880%2990026-7) | Table II, p. 6, row 5; `ORC-AWBDJ7RF6S` |  |
+| 1752 | L + δ ↔ γ | L: Fe 0.876; δ: Fe 0.937 | model | [2] Turchanin 2003; _cites Hasebe 1980_ [doi](https://doi.org/10.1016/0364-5916%2880%2990026-7) | Table 2, p. 5, row 6; `ORC-FXHFEZIXHN` |  |
+| 1698 | monotectic |  | model | [2] Turchanin 2003 | p. 10; `ORC-A2EN7YDVBC` | “Our calculated invariant monotectic equilibrium occurs at 1698 K and corresponds to a minimum mol fraction of iron in ␦-phase of 0.91.” |
+| 1698 | L2 ↔ L1 + δ | L2: Fe 0.591; L1: Fe 0.49; δ: Fe 0.912 | model | [2] Turchanin 2003 | Table 2, p. 5, row 30; `ORC-J3EY5VEKBS` |  |
+| 1405 | L1 + L2 ↔ ε | L1: Fe 0.22 | experimental | [2] Turchanin 2003; _cites Amara 2003_ | Table 2, p. 5, row 31; `ORC-MF6CEDDQ54` |  |
+| 1380 | L1 + L2 ↔ ε | L1: Fe 0.058; L2: Fe 0.931; ε: Fe 0.127 | model | [2] Turchanin 2003 | Table 2, p. 5, row 32; `ORC-4V5ZG6K44X` |  |
+| 1371 | γ + liq -> ε | γ: Cu 0.076; ε: Cu 0.952; liq: Cu 0.965 | unspecified | [1] Chen 1995; _cites Chuang 1995_ | Table II, p. 6, row 13; `ORC-5TLRF5NOCO` |  |
+| 1371 | L + γ ↔ ε | L: Fe 0.035; γ: Fe 0.924; ε: Fe 0.048 | model | [2] Turchanin 2003; _cites Chuang_ | Table 2, p. 5, row 16; `ORC-C3TYKQ45JG` |  |
+| 1369 | L + γ ↔ ε |  | experimental | [2] Turchanin 2003; _cites Maddocks 1936_ | Table 2, p. 5, row 10; `ORC-2T4E6ZRX6I` |  |
+| 1369 | L + γ ↔ ε | L: Fe 0.032; γ: Fe 0.929; ε: Fe 0.045 | experimental | [2] Turchanin 2003; _cites Oelsen 1961_ | Table 2, p. 5, row 12; `ORC-3TIYUDMLQV` |  |
+| 1369 | L + γ ↔ ε | L: Fe 0.032; γ: Fe 0.91; ε: Fe 0.05 | model | [2] Turchanin 2003; _cites Hasebe 1980_ [doi](https://doi.org/10.1016/0364-5916%2880%2990026-7) | Table 2, p. 5, row 15; `ORC-ACBQMLYTVT` |  |
+| 1369 | γ + liq -> ε | γ: Cu 0.09; ε: Cu 0.95; liq: Cu 0.968 | unspecified | [1] Chen 1995; _cites Hasebe 1980_ [doi](https://doi.org/10.1016/0364-5916%2880%2990026-7) | Table II, p. 6, row 12; `ORC-AGYEXWUQPJ` |  |
+| 1369 | γ + liq -> ε | ε: Cu 0.952; liq: Cu 0.961 | unspecified | [1] Chen 1995; _cites Kubaschewski 1977_ | Table II, p. 6, row 11; `ORC-CYYCLVQMRY` |  |
+| 1369 | L + γ ↔ ε | L: Fe 0.039; ε: Fe 0.048 | model | [2] Turchanin 2003; _cites Kubaschewski 1977_ | Table 2, p. 5, row 14; `ORC-EWGJG4XPC2` |  |
+| 1369 | L + γ ↔ ε | L: Fe 0.032; γ: Fe 0.925; ε: Fe 0.045 | model | [2] Turchanin 2003; _cites Chen 1995_ [doi](https://doi.org/10.1007/bf02664678) | Table 2, p. 5, row 17; `ORC-FVTGIEVHHF` |  |
+| 1369 | γ + liq -> ε | γ: Cu 0.071; ε: Cu 0.955; liq: Cu 0.968 | experimental | [1] Chen 1995; _cites Oelsen 1961_ | Table II, p. 6, row 10; `ORC-LEG5BEKCBT` |  |
+| 1369 | γ + liq -> ε | γ: Cu 0.075; ε: Cu 0.955; liq: Cu 0.968 | model | [1] Chen 1995 | Table II, p. 6, row 14; `ORC-TJOBNHLS6M` |  |
+| 1369 | γ + liq -> ε |  | experimental | [1] Chen 1995; _cites Maddocks 1936_ | Table II, p. 6, row 8; `ORC-YMPIJLSF44` |  |
+| 1368 | L + γ ↔ ε | L: Fe 0.035; γ: Fe 0.924; ε: Fe 0.05 | model | [2] Turchanin 2003 | Table 2, p. 5, row 18; `ORC-KNA3II3OJP` |  |
+| 1366 | L + γ ↔ ε |  | experimental | [2] Turchanin 2003; _cites Amara 2003_ | Table 2, p. 5, row 13; `ORC-KZCASMAKAY` |  |
+| 1363 | L + γ ↔ ε |  | experimental | [2] Turchanin 2003; _cites Hellawell 1957_ [doi](https://doi.org/10.1098/rsta.1957.0004) | Table 2, p. 5, row 11; `ORC-EBP3KAVXFV` |  |
+| 1363 | γ + liq -> ε |  | experimental | [1] Chen 1995; _cites Hellawell 1957_ [doi](https://doi.org/10.1098/rsta.1957.0004) | Table II, p. 6, row 9; `ORC-POC4LB6SKP` |  |
+| 1139 | γ -> α + ε | α: Cu 0.019 | experimental | [1] Chen 1995; _cites Qureshi 1961_ | Table II, p. 6, row 17; `ORC-6CFQRQ4WBU` |  |
+| 1139 | γ ↔ ε + α | α: Fe 0.981 | experimental | [2] Turchanin 2003; _cites Qureshi 1961_ | Table 2, p. 5, row 21; `ORC-X7JZXIG76L` |  |
+| 1131 | γ -> α + ε | α: Cu 0.018 | experimental | [1] Chen 1995; _cites Salje 1978_ | Table II, p. 6, row 19; `ORC-J2QBDNNTL6` |  |
+| 1131 | γ ↔ ε + α | α: Fe 0.982 | experimental | [2] Turchanin 2003; _cites Salje 1978_ | Table 2, p. 5, row 23; `ORC-PTSYDHF5HB` |  |
+| 1126 | γ ↔ ε + α | γ: Fe 0.973; ε: Fe 0.014; α: Fe 0.982 | model | [2] Turchanin 2003; _cites Hasebe 1980_ [doi](https://doi.org/10.1016/0364-5916%2880%2990026-7) | Table 2, p. 5, row 26; `ORC-TL4GP4ODRZ` |  |
+| 1126 | γ -> α + ε | γ: Cu 0.027; α: Cu 0.018; ε: Cu 0.986 | unspecified | [1] Chen 1995; _cites Hasebe 1980_ [doi](https://doi.org/10.1016/0364-5916%2880%2990026-7) | Table II, p. 6, row 21; `ORC-V4UIJOKMUV` |  |
+| 1124 | γ -> α + ε | γ: Cu 0.018; α: Cu 0.012; ε: Cu 0.985 | experimental | [1] Chen 1995; _cites Oelsen 1961_ | Table II, p. 6, row 15; `ORC-GNYNZCA7KM` |  |
+| 1124 | γ ↔ ε + α | γ: Fe 0.982; ε: Fe 0.015; α: Fe 0.988 | experimental | [2] Turchanin 2003; _cites Oelsen 1961_ | Table 2, p. 5, row 20; `ORC-I34MOXHQHM` |  |
+| 1124 | γ -> α + ε | γ: Cu 0.018 | unspecified | [1] Chen 1995; _cites Kubaschewski 1977_ | Table II, p. 6, row 20; `ORC-M6A2GDKGTQ` |  |
+| 1124 | γ ↔ ε + α | γ: Fe 0.977 | experimental | [2] Turchanin 2003; _cites Speich 1966_ | Table 2, p. 5, row 22; `ORC-PVM7GVBASE` |  |
+| 1124 | γ -> α + ε | γ: Cu 0.023 | experimental | [1] Chen 1995; _cites Speich 1966_ | Table II, p. 6, row 18; `ORC-QNIVGGKABJ` |  |
+| 1122 | γ ↔ ε + α | γ: Fe 0.974; ε: Fe 0.013; α: Fe 0.983 | model | [2] Turchanin 2003; _cites Chen 1995_ [doi](https://doi.org/10.1007/bf02664678) | Table 2, p. 5, row 28; `ORC-FXZRBBKT6X` |  |
+| 1122 | γ -> α + ε | γ: Cu 0.026; α: Cu 0.017; ε: Cu 0.987 | model | [1] Chen 1995 | Table II, p. 6, row 23; `ORC-IG7MGJONGX` |  |
+| 1120 | γ ↔ ε + α | γ: Fe 0.975; ε: Fe 0.01; α: Fe 0.984 | model | [2] Turchanin 2003 | Table 2, p. 5, row 29; `ORC-RFZERKA3TR` |  |
+| 1118 | γ -> α + ε | γ: Cu 0.028; α: Cu 0.021; ε: Cu 0.987 | unspecified | [1] Chen 1995; _cites Chuang 1995_ | Table II, p. 6, row 22; `ORC-5VU5KBZQNO` |  |
+| 1118 | γ ↔ ε + α | γ: Fe 0.972; ε: Fe 0.013; α: Fe 0.979 | model | [2] Turchanin 2003; _cites Chuang_ | Table 2, p. 5, row 27; `ORC-YG5I42OKJL` |  |
+| 1115 | γ ↔ ε + α |  | experimental | [2] Turchanin 2003; _cites Amara 2003_ | Table 2, p. 5, row 24; `ORC-BC4HVMYCOB` |  |
+| 1115 | γ ↔ ε + α |  | experimental | [2] Turchanin 2003; _cites Wreidt 1960_ | Table 2, p. 5, row 19; `ORC-LPMU6YRC6I` |  |
+| 1115 | γ -> α + ε |  | experimental | [1] Chen 1995; _cites Wriedt 1960_ | Table II, p. 6, row 16; `ORC-OROCZNYYRG` |  |
+| 124 | γ ↔ ε + α | γ: Fe 0.982 | model | [2] Turchanin 2003; _cites Kubaschewski 1977_ | Table 2, p. 5, row 25; `ORC-JDO4C5PYSM` |  |
 
 ## Other properties
 
@@ -136,16 +136,16 @@ Table: Phase transition, Cu–Fe system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1380 K | 1380 | L1 + L2 ↔ ␧ | model | [2] Turchanin 2003 | p. 10 | “Figure 11 also displays the computed metastable invariant equilibrium L1 + L2 ↔ ␧, detected experimentally in \[1999Ama\]. According to our modeling, the temperature of this equilibrium is 1380 K.” |
-| Phase transition | 1405 K | 1405 | other: L1 + L2 → ␧ | experimental | [2] Turchanin 2003; _cites Amara 2003_ | p. 5 | “Besides metastable liquid immiscibility with a critical point at 1704 K and xFe ⳱ 0.53, metastable crystallization L → ␦ in the range of compositions 0.43 ⱕ xFe ⱕ 0.96 and a metastable syntactic transformation L1 + L2 → ␧ at 1405 K were established.” |
-| Phase transition | 1690 K | 1690 | other | model | [2] Turchanin 2003 | p. 8 | “Presently calculated coordinates of the retrograde point are 1690 K at xFe ⳱ 0.865.” |
-| Phase transition | 1694 K | 1694 |  | model | [1] Chen 1995 | p. 8 | “According to the present assessment, the consolute point of the miscibility gap is at Xc, = 0.43 and T,. = 1694 K.” |
-| Phase transition | 1696 K | 1696 | other | experimental | [2] Turchanin 2003; _cites Nakagawa 1958_ [doi](https://doi.org/10.1016/0001-6160%2858%2990061-0) | p. 5 | “Thus, in \[1958Nak\] liquid immiscibility with a critical point at 1696 K and xFe ⳱ 0.56 was established by measuring the magnetic susceptibility of supercooled melts and by microscopic analysis of quenched samples.” |
-| Phase transition | 1698 K | 1698 |  | model | [1] Chen 1995 | p. 7 | “Our calculated retrograde point is at Xc, = 0.13 and T = 1698 K.” |
-| Phase transition | 1701 K | 1701 | other | model | [2] Turchanin 2003 | p. 9 | “The upper critical point was found to be at 1701 K and xFe ⳱ 0.548.” |
-| Phase transition | 1704 K | 1704 | other | experimental | [2] Turchanin 2003; _cites Amara 2003_ | p. 5 | “Besides metastable liquid immiscibility with a critical point at 1704 K and xFe ⳱ 0.53, metastable crystallization L → ␦ in the range of compositions 0.43 ⱕ xFe ⱕ 0.96 and a metastable syntactic transformation L1 + L2 → ␧ at 1405 K were established.” |
-| Phase transition | 1750 K | 1750 | other | model | [3] Stechauner 2015 | p. 7 | “Keeping in mind that the closed expression in Tc represents only an approximation, we finally adopt a value of Tc = 1750 K in our simulations, as it delivers best agreement and consistency to experimental data over a large range of temperatures and compositions and it is sufficiently close to the estimated value of 1840 K.” |
-| Phase transition | 1840 K | 1840 | other | model | [3] Stechauner 2015 | p. 6 | “In the attempt to get a reasonable estimate for Tc, we carry out a stepped equilibrium calculation to follow the phase boundary of the Fe-Cu miscibility gap as a function of chemical composition (Fig. 8). Tc can then be read from the maximum temperature of the phase boundary with a value of 1840 K.” |
+| Phase transition | 1380 K | 1380 | L1 + L2 ↔ ␧ | model | [2] Turchanin 2003 | p. 10; `ORC-VGJKAHK77F` | “Figure 11 also displays the computed metastable invariant equilibrium L1 + L2 ↔ ␧, detected experimentally in \[1999Ama\]. According to our modeling, the temperature of this equilibrium is 1380 K.” |
+| Phase transition | 1405 K | 1405 | other: L1 + L2 → ␧ | experimental | [2] Turchanin 2003; _cites Amara 2003_ | p. 5; `ORC-ZRU2GKYXBZ.e841f6` | “Besides metastable liquid immiscibility with a critical point at 1704 K and xFe ⳱ 0.53, metastable crystallization L → ␦ in the range of compositions 0.43 ⱕ xFe ⱕ 0.96 and a metastable syntactic transformation L1 + L2 → ␧ at 1405 K were established.” |
+| Phase transition | 1690 K | 1690 | other | model | [2] Turchanin 2003 | p. 8; `ORC-OOU3BQMGXZ` | “Presently calculated coordinates of the retrograde point are 1690 K at xFe ⳱ 0.865.” |
+| Phase transition | 1694 K | 1694 |  | model | [1] Chen 1995 | p. 8; `ORC-QO6GV7EIXP` | “According to the present assessment, the consolute point of the miscibility gap is at Xc, = 0.43 and T,. = 1694 K.” |
+| Phase transition | 1696 K | 1696 | other | experimental | [2] Turchanin 2003; _cites Nakagawa 1958_ [doi](https://doi.org/10.1016/0001-6160%2858%2990061-0) | p. 5; `ORC-3HEKD4ZNGR` | “Thus, in \[1958Nak\] liquid immiscibility with a critical point at 1696 K and xFe ⳱ 0.56 was established by measuring the magnetic susceptibility of supercooled melts and by microscopic analysis of quenched samples.” |
+| Phase transition | 1698 K | 1698 |  | model | [1] Chen 1995 | p. 7; `ORC-CEWMTLJ5ZD` | “Our calculated retrograde point is at Xc, = 0.13 and T = 1698 K.” |
+| Phase transition | 1701 K | 1701 | other | model | [2] Turchanin 2003 | p. 9; `ORC-TI6P3GUEJR` | “The upper critical point was found to be at 1701 K and xFe ⳱ 0.548.” |
+| Phase transition | 1704 K | 1704 | other | experimental | [2] Turchanin 2003; _cites Amara 2003_ | p. 5; `ORC-ZRU2GKYXBZ.b5be7f` | “Besides metastable liquid immiscibility with a critical point at 1704 K and xFe ⳱ 0.53, metastable crystallization L → ␦ in the range of compositions 0.43 ⱕ xFe ⱕ 0.96 and a metastable syntactic transformation L1 + L2 → ␧ at 1405 K were established.” |
+| Phase transition | 1750 K | 1750 | other | model | [3] Stechauner 2015 | p. 7; `ORC-GEELMZ5SIA` | “Keeping in mind that the closed expression in Tc represents only an approximation, we finally adopt a value of Tc = 1750 K in our simulations, as it delivers best agreement and consistency to experimental data over a large range of temperatures and compositions and it is sufficiently close to the estimated value of 1840 K.” |
+| Phase transition | 1840 K | 1840 | other | model | [3] Stechauner 2015 | p. 6; `ORC-E4B5L3ZBB5` | “In the attempt to get a reasonable estimate for Tc, we carry out a stepped equilibrium calculation to follow the phase boundary of the Fe-Cu miscibility gap as a function of chemical composition (Fig. 8). Tc can then be read from the maximum temperature of the phase boundary with a value of 1840 K.” |
 
 ### Mixing / partial (42)
 
@@ -153,48 +153,48 @@ Table: Mixing / partial, Cu–Fe system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: ⌬H_ | 11.8 kJ/mol (basis unstated) | 1673 |  | model | [2] Turchanin 2003 | p. 8 | “According to the present thermodynamic model of the melt, enthalpies of mixing are temperature dependent (Fig. 2), with the maximum in ⌬H predicted as 11.0 kJ mol-1 at xFe ⳱ 0.45 at 1873 K, and 11.8 kJ mol-1 at the same composition at 1673 K.” |
-| Enthalpy of mixing; _printed: ΔH_ | 2.9 kJ/mol (basis unstated) ± 0.1 | 1673 | liquid; _alloy: Cu 0.95, Fe 0.05_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 2 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 5.3 kJ/mol (basis unstated) ± 0.2 | 1673 | liquid; _alloy: Cu 0.9, Fe 0.1_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 3 |  |
-| Enthalpy of mixing; _printed: ⌬H_ | 11 kJ/mol (basis unstated) | 1873 |  | model | [2] Turchanin 2003 | p. 8 | “According to the present thermodynamic model of the melt, enthalpies of mixing are temperature dependent (Fig. 2), with the maximum in ⌬H predicted as 11.0 kJ mol-1 at xFe ⳱ 0.45 at 1873 K, and 11.8 kJ mol-1 at the same composition at 1673 K.” |
-| Enthalpy of mixing; _printed: ⌬H_ | 10.8 unspecified ± 0.7 | 1873 |  | experimental | [2] Turchanin 2003 | p. 2 | “Those measurements were carried out at 1873 K and covered the whole range of concentrations. As can be seen from Fig. 1, our results are in good agreement with the data of \[1967Woo, 1971Toz, 1981Yas\]. Thus, according to our work, ⌬H reaches a maximum value of 10.8 ± 0.7 kJ mol-1 at xCu ⳱ 0.43.” |
-| Enthalpy of mixing; _printed: ΔH_ | 3.3 kJ/mol (basis unstated) ± 0.3 | 1873 | liquid; _alloy: Cu 0.1, Fe 0.9_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 13 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 10.8 kJ/mol (basis unstated) ± 0.6 | 1873 | liquid; _alloy: Cu 0.6, Fe 0.4_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 8 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 6 kJ/mol (basis unstated) ± 0.5 | 1873 | liquid; _alloy: Cu 0.2, Fe 0.8_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 12 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 8.1 kJ/mol (basis unstated) ± 0.6 | 1873 | liquid; _alloy: Cu 0.3, Fe 0.7_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 11 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 5 kJ/mol (basis unstated) ± 0.2 | 1873 | liquid; _alloy: Cu 0.9, Fe 0.1_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 5 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 8.2 kJ/mol (basis unstated) ± 0.3 | 1873 | liquid; _alloy: Cu 0.8, Fe 0.2_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 6 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 10.6 kJ/mol (basis unstated) ± 0.9 | 1873 | liquid; _alloy: Cu 0.5, Fe 0.5_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 9 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 9.7 kJ/mol (basis unstated) ± 0.8 | 1873 | liquid; _alloy: Cu 0.4, Fe 0.6_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 10 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 10.1 kJ/mol (basis unstated) ± 0.4 | 1873 | liquid; _alloy: Cu 0.7, Fe 0.3_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 7 |  |
-| Partial enthalpy; _printed: ΔH̄Cu_ | 0.24 kJ/mol (basis unstated) ± 0.07 | 1673 | liquid; _alloy: Cu 0.95, Fe 0.05_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 2 |  |
-| Partial enthalpy; _printed: ΔH̄Fe_ | 53.4 kJ/mol (basis unstated) ± 2.5 | 1673 | liquid; _alloy: Cu 0.95, Fe 0.05_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 2 |  |
-| Partial enthalpy; _printed: ΔH̄Cu_ | 0 kJ/mol (basis unstated) | 1673 | liquid; _alloy: Cu 1, Fe 0_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 1 |  |
-| Partial enthalpy; _printed: ΔH̄Fe_ | 62.7 kJ/mol (basis unstated) ± 2.8 | 1673 | liquid; _alloy: Cu 1, Fe 0_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 1 |  |
-| Partial enthalpy; _printed: ΔH̄Cu_ | 0.91 kJ/mol (basis unstated) ± 0.4 | 1673 | liquid; _alloy: Cu 0.9, Fe 0.1_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 3 |  |
-| Partial enthalpy; _printed: ΔH̄Fe_ | 45.1 kJ/mol (basis unstated) ± 3 | 1673 | liquid; _alloy: Cu 0.9, Fe 0.1_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 3 |  |
-| Partial enthalpy; _printed: ΔH̄Fe_ | 0.3 kJ/mol (basis unstated) ± 0.03 | 1873 | liquid; _alloy: Cu 0.1, Fe 0.9_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 13 |  |
-| Partial enthalpy; _printed: ΔH̄Cu_ | 30.3 kJ/mol (basis unstated) ± 2.8 | 1873 | liquid; _alloy: Cu 0.1, Fe 0.9_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 13 |  |
-| Partial enthalpy; _printed: ΔH̄Cu_ | 4.8 kJ/mol (basis unstated) ± 0.4 | 1873 | liquid; _alloy: Cu 0.6, Fe 0.4_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 8 |  |
-| Partial enthalpy; _printed: ΔH̄Fe_ | 12.3 kJ/mol (basis unstated) ± 1 | 1873 | liquid; _alloy: Cu 0.6, Fe 0.4_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 8 |  |
-| Partial enthalpy; _printed: ΔH̄Fe_ | 59.4 kJ/mol (basis unstated) ± 3.3 | 1873 | liquid; _alloy: Cu 1, Fe 0_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 4 |  |
-| Partial enthalpy; _printed: ΔH̄Cu_ | 0 kJ/mol (basis unstated) | 1873 | liquid; _alloy: Cu 1, Fe 0_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 4 |  |
-| Partial enthalpy; _printed: ΔH̄Fe_ | 1.2 kJ/mol (basis unstated) ± 0.1 | 1873 | liquid; _alloy: Cu 0.2, Fe 0.8_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 12 |  |
-| Partial enthalpy; _printed: ΔH̄Cu_ | 25.3 kJ/mol (basis unstated) ± 1.9 | 1873 | liquid; _alloy: Cu 0.2, Fe 0.8_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 12 |  |
-| Partial enthalpy; _printed: ΔH̄Cu_ | 21.1 kJ/mol (basis unstated) ± 1.5 | 1873 | liquid; _alloy: Cu 0.3, Fe 0.7_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 11 |  |
-| Partial enthalpy; _printed: ΔH̄Fe_ | 2.6 kJ/mol (basis unstated) ± 0.3 | 1873 | liquid; _alloy: Cu 0.3, Fe 0.7_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 11 |  |
-| Partial enthalpy; _printed: ΔH̄Fe_ | 41.4 kJ/mol (basis unstated) ± 1.9 | 1873 | liquid; _alloy: Cu 0.9, Fe 0.1_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 5 |  |
-| Partial enthalpy; _printed: ΔH̄Cu_ | 0.9 kJ/mol (basis unstated) ± 0.02 | 1873 | liquid; _alloy: Cu 0.9, Fe 0.1_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 5 |  |
-| Partial enthalpy; _printed: ΔH̄Cu_ | 3.2 kJ/mol (basis unstated) ± 0.1 | 1873 | liquid; _alloy: Cu 0.8, Fe 0.2_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 6 |  |
-| Partial enthalpy; _printed: ΔH̄Fe_ | 28.2 kJ/mol (basis unstated) ± 1.2 | 1873 | liquid; _alloy: Cu 0.8, Fe 0.2_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 6 |  |
-| Partial enthalpy; _printed: ΔH̄Fe_ | 7.8 kJ/mol (basis unstated) ± 0.9 | 1873 | liquid; _alloy: Cu 0.5, Fe 0.5_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 9 |  |
-| Partial enthalpy; _printed: ΔH̄Cu_ | 13.5 kJ/mol (basis unstated) ± 0.9 | 1873 | liquid; _alloy: Cu 0.5, Fe 0.5_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 9 |  |
-| Partial enthalpy; _printed: ΔH̄Cu_ | 17.2 kJ/mol (basis unstated) ± 1.2 | 1873 | liquid; _alloy: Cu 0.4, Fe 0.6_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 10 |  |
-| Partial enthalpy; _printed: ΔH̄Fe_ | 4.7 kJ/mol (basis unstated) ± 0.5 | 1873 | liquid; _alloy: Cu 0.4, Fe 0.6_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 10 |  |
-| Partial enthalpy; _printed: ΔH̄Fe_ | 18.8 kJ/mol (basis unstated) ± 1 | 1873 | liquid; _alloy: Cu 0.7, Fe 0.3_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 7 |  |
-| Partial enthalpy; _printed: ΔH̄Cu_ | 6.3 kJ/mol (basis unstated) ± 0.2 | 1873 | liquid; _alloy: Cu 0.7, Fe 0.3_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 7 |  |
-| Partial enthalpy; _printed: ΔH̄Fe_ | 0 kJ/mol (basis unstated) | 1873 | liquid; _alloy: Cu 0, Fe 1_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 14 |  |
-| Partial enthalpy; _printed: ΔH̄Cu_ | 36.6 kJ/mol (basis unstated) ± 3.9 | 1873 | liquid; _alloy: Cu 0, Fe 1_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 14 |  |
+| Enthalpy of mixing; _printed: ⌬H_ | 11.8 kJ/mol (basis unstated) | 1673 |  | model | [2] Turchanin 2003 | p. 8; `ORC-DH3ATFPXK5.4efda4` | “According to the present thermodynamic model of the melt, enthalpies of mixing are temperature dependent (Fig. 2), with the maximum in ⌬H predicted as 11.0 kJ mol-1 at xFe ⳱ 0.45 at 1873 K, and 11.8 kJ mol-1 at the same composition at 1673 K.” |
+| Enthalpy of mixing; _printed: ΔH_ | 2.9 kJ/mol (basis unstated) ± 0.1 | 1673 | liquid; _alloy: Cu 0.95, Fe 0.05_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 2; `ORC-DDA27NGI55.ad7691` |  |
+| Enthalpy of mixing; _printed: ΔH_ | 5.3 kJ/mol (basis unstated) ± 0.2 | 1673 | liquid; _alloy: Cu 0.9, Fe 0.1_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 3; `ORC-WYNAPYA4VO.0d9787` |  |
+| Enthalpy of mixing; _printed: ⌬H_ | 11 kJ/mol (basis unstated) | 1873 |  | model | [2] Turchanin 2003 | p. 8; `ORC-DH3ATFPXK5.518b99` | “According to the present thermodynamic model of the melt, enthalpies of mixing are temperature dependent (Fig. 2), with the maximum in ⌬H predicted as 11.0 kJ mol-1 at xFe ⳱ 0.45 at 1873 K, and 11.8 kJ mol-1 at the same composition at 1673 K.” |
+| Enthalpy of mixing; _printed: ⌬H_ | 10.8 unspecified ± 0.7 | 1873 |  | experimental | [2] Turchanin 2003 | p. 2; `ORC-YU7VNVJ4CK` | “Those measurements were carried out at 1873 K and covered the whole range of concentrations. As can be seen from Fig. 1, our results are in good agreement with the data of \[1967Woo, 1971Toz, 1981Yas\]. Thus, according to our work, ⌬H reaches a maximum value of 10.8 ± 0.7 kJ mol-1 at xCu ⳱ 0.43.” |
+| Enthalpy of mixing; _printed: ΔH_ | 3.3 kJ/mol (basis unstated) ± 0.3 | 1873 | liquid; _alloy: Cu 0.1, Fe 0.9_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 13; `ORC-44KA5Y6RME.9c8f8f` |  |
+| Enthalpy of mixing; _printed: ΔH_ | 10.8 kJ/mol (basis unstated) ± 0.6 | 1873 | liquid; _alloy: Cu 0.6, Fe 0.4_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 8; `ORC-5VI6D5YC6U.f5d907` |  |
+| Enthalpy of mixing; _printed: ΔH_ | 6 kJ/mol (basis unstated) ± 0.5 | 1873 | liquid; _alloy: Cu 0.2, Fe 0.8_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 12; `ORC-D2BIIK5NMB.8de995` |  |
+| Enthalpy of mixing; _printed: ΔH_ | 8.1 kJ/mol (basis unstated) ± 0.6 | 1873 | liquid; _alloy: Cu 0.3, Fe 0.7_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 11; `ORC-EG55AZHIDW.3544e6` |  |
+| Enthalpy of mixing; _printed: ΔH_ | 5 kJ/mol (basis unstated) ± 0.2 | 1873 | liquid; _alloy: Cu 0.9, Fe 0.1_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 5; `ORC-F4MVLTQQNN.6dc261` |  |
+| Enthalpy of mixing; _printed: ΔH_ | 8.2 kJ/mol (basis unstated) ± 0.3 | 1873 | liquid; _alloy: Cu 0.8, Fe 0.2_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 6; `ORC-JXLEWG6E2Q.0d62a4` |  |
+| Enthalpy of mixing; _printed: ΔH_ | 10.6 kJ/mol (basis unstated) ± 0.9 | 1873 | liquid; _alloy: Cu 0.5, Fe 0.5_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 9; `ORC-PT55LLN2A6.199949` |  |
+| Enthalpy of mixing; _printed: ΔH_ | 9.7 kJ/mol (basis unstated) ± 0.8 | 1873 | liquid; _alloy: Cu 0.4, Fe 0.6_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 10; `ORC-TF54ICYWXC.df52c2` |  |
+| Enthalpy of mixing; _printed: ΔH_ | 10.1 kJ/mol (basis unstated) ± 0.4 | 1873 | liquid; _alloy: Cu 0.7, Fe 0.3_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 7; `ORC-TVVS53NP2A.5ea75b` |  |
+| Partial enthalpy; _printed: ΔH̄Cu_ | 0.24 kJ/mol (basis unstated) ± 0.07 | 1673 | liquid; _alloy: Cu 0.95, Fe 0.05_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 2; `ORC-DDA27NGI55.9e5622` |  |
+| Partial enthalpy; _printed: ΔH̄Fe_ | 53.4 kJ/mol (basis unstated) ± 2.5 | 1673 | liquid; _alloy: Cu 0.95, Fe 0.05_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 2; `ORC-DDA27NGI55.e847d4` |  |
+| Partial enthalpy; _printed: ΔH̄Cu_ | 0 kJ/mol (basis unstated) | 1673 | liquid; _alloy: Cu 1, Fe 0_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 1; `ORC-TXBDHTVQ6B.185251` |  |
+| Partial enthalpy; _printed: ΔH̄Fe_ | 62.7 kJ/mol (basis unstated) ± 2.8 | 1673 | liquid; _alloy: Cu 1, Fe 0_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 1; `ORC-TXBDHTVQ6B.5116e9` |  |
+| Partial enthalpy; _printed: ΔH̄Cu_ | 0.91 kJ/mol (basis unstated) ± 0.4 | 1673 | liquid; _alloy: Cu 0.9, Fe 0.1_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 3; `ORC-WYNAPYA4VO.0b3a8e` |  |
+| Partial enthalpy; _printed: ΔH̄Fe_ | 45.1 kJ/mol (basis unstated) ± 3 | 1673 | liquid; _alloy: Cu 0.9, Fe 0.1_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 3; `ORC-WYNAPYA4VO.a806c4` |  |
+| Partial enthalpy; _printed: ΔH̄Fe_ | 0.3 kJ/mol (basis unstated) ± 0.03 | 1873 | liquid; _alloy: Cu 0.1, Fe 0.9_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 13; `ORC-44KA5Y6RME.4ff88e` |  |
+| Partial enthalpy; _printed: ΔH̄Cu_ | 30.3 kJ/mol (basis unstated) ± 2.8 | 1873 | liquid; _alloy: Cu 0.1, Fe 0.9_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 13; `ORC-44KA5Y6RME.c0d784` |  |
+| Partial enthalpy; _printed: ΔH̄Cu_ | 4.8 kJ/mol (basis unstated) ± 0.4 | 1873 | liquid; _alloy: Cu 0.6, Fe 0.4_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 8; `ORC-5VI6D5YC6U.1964a0` |  |
+| Partial enthalpy; _printed: ΔH̄Fe_ | 12.3 kJ/mol (basis unstated) ± 1 | 1873 | liquid; _alloy: Cu 0.6, Fe 0.4_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 8; `ORC-5VI6D5YC6U.ad7040` |  |
+| Partial enthalpy; _printed: ΔH̄Fe_ | 59.4 kJ/mol (basis unstated) ± 3.3 | 1873 | liquid; _alloy: Cu 1, Fe 0_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 4; `ORC-BVC43B4VRA.22a5a2` |  |
+| Partial enthalpy; _printed: ΔH̄Cu_ | 0 kJ/mol (basis unstated) | 1873 | liquid; _alloy: Cu 1, Fe 0_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 4; `ORC-BVC43B4VRA.9d5895` |  |
+| Partial enthalpy; _printed: ΔH̄Fe_ | 1.2 kJ/mol (basis unstated) ± 0.1 | 1873 | liquid; _alloy: Cu 0.2, Fe 0.8_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 12; `ORC-D2BIIK5NMB.54e389` |  |
+| Partial enthalpy; _printed: ΔH̄Cu_ | 25.3 kJ/mol (basis unstated) ± 1.9 | 1873 | liquid; _alloy: Cu 0.2, Fe 0.8_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 12; `ORC-D2BIIK5NMB.590073` |  |
+| Partial enthalpy; _printed: ΔH̄Cu_ | 21.1 kJ/mol (basis unstated) ± 1.5 | 1873 | liquid; _alloy: Cu 0.3, Fe 0.7_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 11; `ORC-EG55AZHIDW.2ab36b` |  |
+| Partial enthalpy; _printed: ΔH̄Fe_ | 2.6 kJ/mol (basis unstated) ± 0.3 | 1873 | liquid; _alloy: Cu 0.3, Fe 0.7_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 11; `ORC-EG55AZHIDW.588d16` |  |
+| Partial enthalpy; _printed: ΔH̄Fe_ | 41.4 kJ/mol (basis unstated) ± 1.9 | 1873 | liquid; _alloy: Cu 0.9, Fe 0.1_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 5; `ORC-F4MVLTQQNN.8b9f62` |  |
+| Partial enthalpy; _printed: ΔH̄Cu_ | 0.9 kJ/mol (basis unstated) ± 0.02 | 1873 | liquid; _alloy: Cu 0.9, Fe 0.1_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 5; `ORC-F4MVLTQQNN.e58fcc` |  |
+| Partial enthalpy; _printed: ΔH̄Cu_ | 3.2 kJ/mol (basis unstated) ± 0.1 | 1873 | liquid; _alloy: Cu 0.8, Fe 0.2_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 6; `ORC-JXLEWG6E2Q.da96a2` |  |
+| Partial enthalpy; _printed: ΔH̄Fe_ | 28.2 kJ/mol (basis unstated) ± 1.2 | 1873 | liquid; _alloy: Cu 0.8, Fe 0.2_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 6; `ORC-JXLEWG6E2Q.dffc15` |  |
+| Partial enthalpy; _printed: ΔH̄Fe_ | 7.8 kJ/mol (basis unstated) ± 0.9 | 1873 | liquid; _alloy: Cu 0.5, Fe 0.5_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 9; `ORC-PT55LLN2A6.1f2ba3` |  |
+| Partial enthalpy; _printed: ΔH̄Cu_ | 13.5 kJ/mol (basis unstated) ± 0.9 | 1873 | liquid; _alloy: Cu 0.5, Fe 0.5_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 9; `ORC-PT55LLN2A6.c880f6` |  |
+| Partial enthalpy; _printed: ΔH̄Cu_ | 17.2 kJ/mol (basis unstated) ± 1.2 | 1873 | liquid; _alloy: Cu 0.4, Fe 0.6_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 10; `ORC-TF54ICYWXC.539da1` |  |
+| Partial enthalpy; _printed: ΔH̄Fe_ | 4.7 kJ/mol (basis unstated) ± 0.5 | 1873 | liquid; _alloy: Cu 0.4, Fe 0.6_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 10; `ORC-TF54ICYWXC.d77b90` |  |
+| Partial enthalpy; _printed: ΔH̄Fe_ | 18.8 kJ/mol (basis unstated) ± 1 | 1873 | liquid; _alloy: Cu 0.7, Fe 0.3_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 7; `ORC-TVVS53NP2A.010b3a` |  |
+| Partial enthalpy; _printed: ΔH̄Cu_ | 6.3 kJ/mol (basis unstated) ± 0.2 | 1873 | liquid; _alloy: Cu 0.7, Fe 0.3_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 7; `ORC-TVVS53NP2A.7db28a` |  |
+| Partial enthalpy; _printed: ΔH̄Fe_ | 0 kJ/mol (basis unstated) | 1873 | liquid; _alloy: Cu 0, Fe 1_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 14; `ORC-UAPYVGKOWO.43ce5d` |  |
+| Partial enthalpy; _printed: ΔH̄Cu_ | 36.6 kJ/mol (basis unstated) ± 3.9 | 1873 | liquid; _alloy: Cu 0, Fe 1_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 14; `ORC-UAPYVGKOWO.9db5fc` |  |
 
 ### Heat capacity / entropy / enthalpy (2)
 
@@ -202,8 +202,8 @@ Table: Heat capacity / entropy / enthalpy, Cu–Fe system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Heat capacity; _printed: CEP_ | 4.8 unspecified ± 1 | 1673 |  | experimental | [2] Turchanin 2003; _cites Wilde 1997_ | p. 5 | “For a sample of nearly equiatomic composition, CEP is 4.8 ± 1.0 J K-1 mol-1 at 1673 K and 9.6 ± 1.0 J K-1 mol-1 at 1723 K.” |
-| Heat capacity; _printed: CEP_ | 9.6 unspecified ± 1 | 1723 |  | experimental | [2] Turchanin 2003; _cites Wilde 1997_ | p. 5 | “For a sample of nearly equiatomic composition, CEP is 4.8 ± 1.0 J K-1 mol-1 at 1673 K and 9.6 ± 1.0 J K-1 mol-1 at 1723 K.” |
+| Heat capacity; _printed: CEP_ | 4.8 unspecified ± 1 | 1673 |  | experimental | [2] Turchanin 2003; _cites Wilde 1997_ | p. 5; `ORC-CP2C4DS5WP.4f88ba` | “For a sample of nearly equiatomic composition, CEP is 4.8 ± 1.0 J K-1 mol-1 at 1673 K and 9.6 ± 1.0 J K-1 mol-1 at 1723 K.” |
+| Heat capacity; _printed: CEP_ | 9.6 unspecified ± 1 | 1723 |  | experimental | [2] Turchanin 2003; _cites Wilde 1997_ | p. 5; `ORC-CP2C4DS5WP.98a5de` | “For a sample of nearly equiatomic composition, CEP is 4.8 ± 1.0 J K-1 mol-1 at 1673 K and 9.6 ± 1.0 J K-1 mol-1 at 1723 K.” |
 
 ## Sources
 
@@ -270,4 +270,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

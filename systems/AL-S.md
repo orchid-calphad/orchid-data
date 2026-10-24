@@ -56,26 +56,26 @@ Table: Invariant reactions reported in the literature for the Al–S system (20)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1333.15 | syntectic: L1 + L2 -> AlS | L2: S 0.51; AlS: S 0.5 | experimental | [1] Shi 2019; _cites Sharma 1987_ [doi](https://doi.org/10.1007/bf02873197) | Table 5, p. 8, row 4 |  |
-| 1333.05 | syntectic: L1 + L2 -> AlS | L1: S 0.041; L2: S 0.548; AlS: S 0.5 | model | [1] Shi 2019 | Table 5, p. 8, row 6 |  |
-| 1331.45 | syntectic: L1 + L2 -> AlS | L1: S 0; L2: S 0.543; AlS: S 0.5 | model | [1] Shi 2019 | Table 5, p. 8, row 5 |  |
-| 1325.75 | eutectic: L1 -> AlS + γAl2S3 | L1: S 0.557; AlS: S 0.5; γAl2S3: S 0.6 | model | [1] Shi 2019 | Table 5, p. 8, row 9 |  |
-| 1325.75 | eutectic: L1 -> AlS + γAl2S3 | L1: S 0.553; AlS: S 0.5; γAl2S3: S 0.6 | model | [1] Shi 2019 | Table 5, p. 8, row 8 |  |
-| 1313.15 | eutectic: L1 -> AlS + γAl2S3 | L1: S 0.56; AlS: S 0.5; γAl2S3: S 0.59 | experimental | [1] Shi 2019; _cites Sharma 1987_ [doi](https://doi.org/10.1007/bf02873197) | Table 5, p. 8, row 7 |  |
-| 1313.15 | eutectic: L2? AlS ? cAl2S3 |  | experimental | [1] Shi 2019; _cites Forland 1974_ | p. 2 | “Two eutectic reactions, L1 ? (Al) ? aAl2S3 and L2? AlS ? cAl2S3, were reported at 660 C and 0.02 at.% S and 1040 C and 56.0 at.% S, respectively.” |
-| 1284.75 | metatectic/catatectic: AlS -> L1 + γAl2S3 | AlS: S 0.5; L1: S 0; γAl2S3: S 0.6 | model | [1] Shi 2019 | Table 5, p. 8, row 11 |  |
-| 1284.65 | metatectic/catatectic: AlS -> L1 + γAl2S3 | AlS: S 0.5; L1: S 0.026; γAl2S3: S 0.6 | model | [1] Shi 2019 | Table 5, p. 8, row 12 |  |
-| 1283.15 | metatectic/catatectic: AlS -> L1 + γAl2S3 | AlS: S 0.5 | experimental | [1] Shi 2019; _cites Sharma 1987_ [doi](https://doi.org/10.1007/bf02873197) | Table 5, p. 8, row 10 |  |
-| 1263.45 | monotectic: L2 -> γAl2S3 + L3 | L2: S 0.707; γAl2S3: S 0.6; L3: S 1 | model | [1] Shi 2019 | Table 5, p. 8, row 14 |  |
-| 1246.15 | monotectic: L2 -> γAl2S3 + L3 | γAl2S3: Al 0.4, S 0.6 | experimental | [1] Shi 2019; _cites Flahaut 1951_ | Table 5, p. 8, row 13 |  |
-| 1243.75 | monotectic: L2 -> γAl2S3 + L3 | L2: S 0.636; γAl2S3: S 0.6; L3: S 1 | model | [1] Shi 2019 | Table 5, p. 8, row 15 |  |
-| 933.65 | eutectic: L1 -> (Al) + αAl2S3 | L1: S 0; (Al): S 0; αAl2S3: S 0.6 | model | [1] Shi 2019 | Table 5, p. 8, row 2 |  |
-| 933.15 | eutectic: L1 ? (Al) ? aAl2S3 |  | experimental | [1] Shi 2019; _cites Forland 1974_ | p. 2 | “Two eutectic reactions, L1 ? (Al) ? aAl2S3 and L2? AlS ? cAl2S3, were reported at 660 C and 0.02 at.% S and 1040 C and 56.0 at.% S, respectively.” |
-| 933.15 | eutectic: L1 -> (Al) + αAl2S3 | (Al): S 0; αAl2S3: S 0.6 | experimental | [1] Shi 2019; _cites Sharma 1987_ [doi](https://doi.org/10.1007/bf02873197) | Table 5, p. 8, row 1 |  |
-| 388.35 | eutectic: L3 -> αAl2S3 + (βS) | L3: S 1; αAl2S3: S 0.6; (βS): S 1 | model | [1] Shi 2019 | Table 5, p. 8, row 18 |  |
-| 388.15 | eutectic: L3 -> αAl2S3 + (βS) | L3: S 1; αAl2S3: S 0.6; (βS): S 1 | experimental | [1] Shi 2019; _cites Flahaut 1951_ | Table 5, p. 8, row 16 |  |
-| 368.65 | eutectoid: (βS) -> αAl2S3 + (αS) | (βS): S 1; αAl2S3: S 0.6; (αS): S 1 | experimental | [1] Shi 2019; _cites Flahaut 1951_ | Table 5, p. 8, row 19 |  |
-| 368.45 | eutectoid: (βS) -> αAl2S3 + (αS) | (βS): S 1; αAl2S3: S 0.6; (αS): S 1 | model | [1] Shi 2019 | Table 5, p. 8, row 20 |  |
+| 1333.15 | syntectic: L1 + L2 -> AlS | L2: S 0.51; AlS: S 0.5 | experimental | [1] Shi 2019; _cites Sharma 1987_ [doi](https://doi.org/10.1007/bf02873197) | Table 5, p. 8, row 4; `ORC-U4JRZDO3NW` |  |
+| 1333.05 | syntectic: L1 + L2 -> AlS | L1: S 0.041; L2: S 0.548; AlS: S 0.5 | model | [1] Shi 2019 | Table 5, p. 8, row 6; `ORC-5HAHHSOKIP` |  |
+| 1331.45 | syntectic: L1 + L2 -> AlS | L1: S 0; L2: S 0.543; AlS: S 0.5 | model | [1] Shi 2019 | Table 5, p. 8, row 5; `ORC-IS2NX5V6Y4` |  |
+| 1325.75 | eutectic: L1 -> AlS + γAl2S3 | L1: S 0.557; AlS: S 0.5; γAl2S3: S 0.6 | model | [1] Shi 2019 | Table 5, p. 8, row 9; `ORC-AF45PU3UPZ` |  |
+| 1325.75 | eutectic: L1 -> AlS + γAl2S3 | L1: S 0.553; AlS: S 0.5; γAl2S3: S 0.6 | model | [1] Shi 2019 | Table 5, p. 8, row 8; `ORC-QSY5LMOJ7H` |  |
+| 1313.15 | eutectic: L1 -> AlS + γAl2S3 | L1: S 0.56; AlS: S 0.5; γAl2S3: S 0.59 | experimental | [1] Shi 2019; _cites Sharma 1987_ [doi](https://doi.org/10.1007/bf02873197) | Table 5, p. 8, row 7; `ORC-HMZQJQ6XHU` |  |
+| 1313.15 | eutectic: L2? AlS ? cAl2S3 |  | experimental | [1] Shi 2019; _cites Forland 1974_ | p. 2; `ORC-QTSOFOKOQP.5062a0` | “Two eutectic reactions, L1 ? (Al) ? aAl2S3 and L2? AlS ? cAl2S3, were reported at 660 C and 0.02 at.% S and 1040 C and 56.0 at.% S, respectively.” |
+| 1284.75 | metatectic/catatectic: AlS -> L1 + γAl2S3 | AlS: S 0.5; L1: S 0; γAl2S3: S 0.6 | model | [1] Shi 2019 | Table 5, p. 8, row 11; `ORC-RJH2OMNHJC` |  |
+| 1284.65 | metatectic/catatectic: AlS -> L1 + γAl2S3 | AlS: S 0.5; L1: S 0.026; γAl2S3: S 0.6 | model | [1] Shi 2019 | Table 5, p. 8, row 12; `ORC-NAW5DYXICF` |  |
+| 1283.15 | metatectic/catatectic: AlS -> L1 + γAl2S3 | AlS: S 0.5 | experimental | [1] Shi 2019; _cites Sharma 1987_ [doi](https://doi.org/10.1007/bf02873197) | Table 5, p. 8, row 10; `ORC-5BQZ6UGTLD` |  |
+| 1263.45 | monotectic: L2 -> γAl2S3 + L3 | L2: S 0.707; γAl2S3: S 0.6; L3: S 1 | model | [1] Shi 2019 | Table 5, p. 8, row 14; `ORC-IHAH26NI3U` |  |
+| 1246.15 | monotectic: L2 -> γAl2S3 + L3 | γAl2S3: Al 0.4, S 0.6 | experimental | [1] Shi 2019; _cites Flahaut 1951_ | Table 5, p. 8, row 13; `ORC-QJZIJTAZXP` |  |
+| 1243.75 | monotectic: L2 -> γAl2S3 + L3 | L2: S 0.636; γAl2S3: S 0.6; L3: S 1 | model | [1] Shi 2019 | Table 5, p. 8, row 15; `ORC-U3ASOKR6P2` |  |
+| 933.65 | eutectic: L1 -> (Al) + αAl2S3 | L1: S 0; (Al): S 0; αAl2S3: S 0.6 | model | [1] Shi 2019 | Table 5, p. 8, row 2; `ORC-LPZVKY6W7T` |  |
+| 933.15 | eutectic: L1 ? (Al) ? aAl2S3 |  | experimental | [1] Shi 2019; _cites Forland 1974_ | p. 2; `ORC-QTSOFOKOQP.e74a92` | “Two eutectic reactions, L1 ? (Al) ? aAl2S3 and L2? AlS ? cAl2S3, were reported at 660 C and 0.02 at.% S and 1040 C and 56.0 at.% S, respectively.” |
+| 933.15 | eutectic: L1 -> (Al) + αAl2S3 | (Al): S 0; αAl2S3: S 0.6 | experimental | [1] Shi 2019; _cites Sharma 1987_ [doi](https://doi.org/10.1007/bf02873197) | Table 5, p. 8, row 1; `ORC-R4NOADPNJ3` |  |
+| 388.35 | eutectic: L3 -> αAl2S3 + (βS) | L3: S 1; αAl2S3: S 0.6; (βS): S 1 | model | [1] Shi 2019 | Table 5, p. 8, row 18; `ORC-VUEVQZTASJ` |  |
+| 388.15 | eutectic: L3 -> αAl2S3 + (βS) | L3: S 1; αAl2S3: S 0.6; (βS): S 1 | experimental | [1] Shi 2019; _cites Flahaut 1951_ | Table 5, p. 8, row 16; `ORC-WRGUM72Y3M` |  |
+| 368.65 | eutectoid: (βS) -> αAl2S3 + (αS) | (βS): S 1; αAl2S3: S 0.6; (αS): S 1 | experimental | [1] Shi 2019; _cites Flahaut 1951_ | Table 5, p. 8, row 19; `ORC-AWTV56IQF6` |  |
+| 368.45 | eutectoid: (βS) -> αAl2S3 + (αS) | (βS): S 1; αAl2S3: S 0.6; (αS): S 1 | model | [1] Shi 2019 | Table 5, p. 8, row 20; `ORC-FIEIXMCI5E` |  |
 
 ## Formation enthalpies
 
@@ -85,15 +85,15 @@ Table: Enthalpies of formation, Al–S system (9)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| AlS | [AlS](https://data.orchid-project.org/compounds/AlS.html) | -132.5 kJ/mol-atom ± 20 | 298.15 | experimental |  | -98.741 (oqmd-1971261) | [1] Shi 2019; _cites Mills 1974_ | Table 3, p. 3, row 1 |  |
-| αAl2S3 | [Al2S3](https://data.orchid-project.org/compounds/Al2S3.html) | -144.6 kJ/mol-atom | 298.15 | experimental | -131.06 (mp-aaaaadyc) | -118.658 (oqmd-27954) | [1] Shi 2019; _cites Mills 1974_ | Table 3, p. 3, row 5 |  |
-| αAl2S3 |  | -140.7 kJ/mol-atom | 0 | DFT |  |  | [1] Shi 2019; _cites The 2019_ | Table 3, p. 3, row 4 |  |
-| αAl2S3 | [Al2S3](https://data.orchid-project.org/compounds/Al2S3.html) | -130.2 kJ/mol-atom | 298.15 | experimental | -131.06 (mp-aaaaadyc) | -118.658 (oqmd-27954) | [1] Shi 2019; _cites Ferrante 1981_ | Table 3, p. 3, row 2 |  |
-| αAl2S3 | [Al2S3](https://data.orchid-project.org/compounds/Al2S3.html) | -130.2 kJ/mol-atom | 298.15 | model | -131.06 (mp-aaaaadyc) | -118.658 (oqmd-27954) | [1] Shi 2019 | Table 3, p. 3, row 6 |  |
-| αAl2S3 |  | -118.9 kJ/mol-atom | 0 | DFT |  |  | [1] Shi 2019; _cites The 2019_ | Table 3, p. 3, row 3 |  |
-| γAl2S3 |  | -136.8 kJ/mol-atom | 0 | DFT |  |  | [1] Shi 2019; _cites The 2019_ | Table 3, p. 3, row 8 |  |
-| γAl2S3 |  | -115.2 kJ/mol-atom | 0 | DFT |  |  | [1] Shi 2019; _cites The 2019_ | Table 3, p. 3, row 7 |  |
-| γAl2S3 | [Al2S3](https://data.orchid-project.org/compounds/Al2S3.html) | -107.9 kJ/mol-atom | 298.15 | model | -131.06 (mp-aaaaadyc) | -118.658 (oqmd-27954) | [1] Shi 2019 | Table 3, p. 3, row 9 |  |
+| AlS | [AlS](https://data.orchid-project.org/compounds/AlS.html) | -132.5 kJ/mol-atom ± 20 | 298.15 | experimental |  | -98.741 (oqmd-1971261) | [1] Shi 2019; _cites Mills 1974_ | Table 3, p. 3, row 1; `ORC-7SBPQFGW5H.5910f2` |  |
+| αAl2S3 | [Al2S3](https://data.orchid-project.org/compounds/Al2S3.html) | -144.6 kJ/mol-atom | 298.15 | experimental | -131.06 (mp-aaaaadyc) | -118.658 (oqmd-27954) | [1] Shi 2019; _cites Mills 1974_ | Table 3, p. 3, row 5; `ORC-MXY27VG2FT.35e026` |  |
+| αAl2S3 |  | -140.7 kJ/mol-atom | 0 | DFT |  |  | [1] Shi 2019; _cites The 2019_ | Table 3, p. 3, row 4; `ORC-S36YOYLXR7.6bf559` |  |
+| αAl2S3 | [Al2S3](https://data.orchid-project.org/compounds/Al2S3.html) | -130.2 kJ/mol-atom | 298.15 | experimental | -131.06 (mp-aaaaadyc) | -118.658 (oqmd-27954) | [1] Shi 2019; _cites Ferrante 1981_ | Table 3, p. 3, row 2; `ORC-KSTU4ZV3C3.e1f504` |  |
+| αAl2S3 | [Al2S3](https://data.orchid-project.org/compounds/Al2S3.html) | -130.2 kJ/mol-atom | 298.15 | model | -131.06 (mp-aaaaadyc) | -118.658 (oqmd-27954) | [1] Shi 2019 | Table 3, p. 3, row 6; `ORC-OC7R34WB7X.208a84` |  |
+| αAl2S3 |  | -118.9 kJ/mol-atom | 0 | DFT |  |  | [1] Shi 2019; _cites The 2019_ | Table 3, p. 3, row 3; `ORC-GH4YEVZ3WU.284aaa` |  |
+| γAl2S3 |  | -136.8 kJ/mol-atom | 0 | DFT |  |  | [1] Shi 2019; _cites The 2019_ | Table 3, p. 3, row 8; `ORC-6WFVIRWNBJ.e382ef` |  |
+| γAl2S3 |  | -115.2 kJ/mol-atom | 0 | DFT |  |  | [1] Shi 2019; _cites The 2019_ | Table 3, p. 3, row 7; `ORC-DUVADSEON4.f24261` |  |
+| γAl2S3 | [Al2S3](https://data.orchid-project.org/compounds/Al2S3.html) | -107.9 kJ/mol-atom | 298.15 | model | -131.06 (mp-aaaaadyc) | -118.658 (oqmd-27954) | [1] Shi 2019 | Table 3, p. 3, row 9; `ORC-UYRWMCR4NY.d5a44d` |  |
 
 ## Other properties
 
@@ -103,10 +103,10 @@ Table: Phase transition, Al–S system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 368.65 K | 368.65 | (bS) ? aAl2S3 ? (aS) | experimental | [1] Shi 2019; _cites Sharma 1987_ [doi](https://doi.org/10.1007/bf02873197) | p. 2 | “They also determined the invariant reaction temperatures of L3? aAl2S3 ? (bS) and (bS) ? aAl2S3 ? (aS) to be about 115 C and \* 100 at.% S and 95.5 C and \* 100 at.% S, respectively.\[15\]” |
-| Phase transition | 388.15 K | 388.15 | L3? aAl2S3 ? (bS) | model | [1] Shi 2019; _cites Sharma 1987_ [doi](https://doi.org/10.1007/bf02873197) | p. 2 | “They also determined the invariant reaction temperatures of L3? aAl2S3 ? (bS) and (bS) ? aAl2S3 ? (aS) to be about 115 C and \* 100 at.% S and 95.5 C and \* 100 at.% S, respectively.\[15\]” |
-| Phase transition | 1283.15 K | 1283.15 | other: AlS ? L1 ? cAl2S3 | experimental | [1] Shi 2019 | p. 2 | “The catatectic reaction of AlS ? L1 ? cAl2S3 was determined to be at 1010 C and 50.0 at.% S.” |
-| Phase transition | 1333.15 K | 1333.15 | other: L1 ? L2 ? AlS | experimental | [1] Shi 2019 | p. 2 | “The syntectic point of the reaction L1 ? L2 ? AlS was determined to be at 1060 C and 50 at.% S.” |
+| Phase transition | 368.65 K | 368.65 | (bS) ? aAl2S3 ? (aS) | experimental | [1] Shi 2019; _cites Sharma 1987_ [doi](https://doi.org/10.1007/bf02873197) | p. 2; `ORC-LIP2UOEUZI.b95ed1` | “They also determined the invariant reaction temperatures of L3? aAl2S3 ? (bS) and (bS) ? aAl2S3 ? (aS) to be about 115 C and \* 100 at.% S and 95.5 C and \* 100 at.% S, respectively.\[15\]” |
+| Phase transition | 388.15 K | 388.15 | L3? aAl2S3 ? (bS) | model | [1] Shi 2019; _cites Sharma 1987_ [doi](https://doi.org/10.1007/bf02873197) | p. 2; `ORC-LIP2UOEUZI.7cf2f9` | “They also determined the invariant reaction temperatures of L3? aAl2S3 ? (bS) and (bS) ? aAl2S3 ? (aS) to be about 115 C and \* 100 at.% S and 95.5 C and \* 100 at.% S, respectively.\[15\]” |
+| Phase transition | 1283.15 K | 1283.15 | other: AlS ? L1 ? cAl2S3 | experimental | [1] Shi 2019 | p. 2; `ORC-2GBRIPXXPF` | “The catatectic reaction of AlS ? L1 ? cAl2S3 was determined to be at 1010 C and 50.0 at.% S.” |
+| Phase transition | 1333.15 K | 1333.15 | other: L1 ? L2 ? AlS | experimental | [1] Shi 2019 | p. 2; `ORC-OOAL2CGUWK` | “The syntectic point of the reaction L1 ? L2 ? AlS was determined to be at 1060 C and 50 at.% S.” |
 
 ### Crystal structure (4)
 
@@ -114,10 +114,10 @@ Table: Crystal structure, Al–S system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.6423 Å | 298.15 | αAl2S3; _alloy: S 0.6_ | experimental | [1] Shi 2019; _cites Flahaut 1952_ | Table 2, p. 3, row 4 |  |
-| Lattice a | 0.647 Å | 298.15 | γAl2S3; _alloy: S 0.6_ | experimental | [1] Shi 2019; _cites Flahaut 1952_ | Table 2, p. 3, row 5 |  |
-| Lattice c | 1.783 Å | 298.15 | αAl2S3; _alloy: S 0.6_ | experimental | [1] Shi 2019; _cites Flahaut 1952_ | Table 2, p. 3, row 4 |  |
-| Lattice c | 1.727 Å | 298.15 | γAl2S3; _alloy: S 0.6_ | experimental | [1] Shi 2019; _cites Flahaut 1952_ | Table 2, p. 3, row 5 |  |
+| Lattice a | 0.6423 Å | 298.15 | αAl2S3; _alloy: S 0.6_ | experimental | [1] Shi 2019; _cites Flahaut 1952_ | Table 2, p. 3, row 4; `ORC-3U33DTECM6.cd7e9a` |  |
+| Lattice a | 0.647 Å | 298.15 | γAl2S3; _alloy: S 0.6_ | experimental | [1] Shi 2019; _cites Flahaut 1952_ | Table 2, p. 3, row 5; `ORC-YDXO3MV3KU.26ae8d` |  |
+| Lattice c | 1.783 Å | 298.15 | αAl2S3; _alloy: S 0.6_ | experimental | [1] Shi 2019; _cites Flahaut 1952_ | Table 2, p. 3, row 4; `ORC-3U33DTECM6.5b6ca5` |  |
+| Lattice c | 1.727 Å | 298.15 | γAl2S3; _alloy: S 0.6_ | experimental | [1] Shi 2019; _cites Flahaut 1952_ | Table 2, p. 3, row 5; `ORC-YDXO3MV3KU.f23dd0` |  |
 
 ## Sources
 
@@ -182,4 +182,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

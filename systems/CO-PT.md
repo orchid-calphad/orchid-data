@@ -58,9 +58,9 @@ Table: Enthalpies of formation, Co–Pt system (3)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| CoPt |  | -13.6 per mol-atom ± 0.7 | 914 | experimental |  |  | [1] Kim 2011; _cites Oriani 1962_ [doi](https://doi.org/10.1016/0001-6160%2862%2990102-5) | Table 2, p. 3, row 16 |  |
-| CoPt | [CoPt](https://data.orchid-project.org/compounds/CoPt.html) | -12.265 kJ/mol-atom | 914 | model | -8.269 (mp-aaaaabkn) | -9.462 (oqmd-29449) | [1] Kim 2011 | Table 2, p. 3, row 15 |  |
-| CoPt3 |  | -12.8 per mol-atom ± 1.63 | 914 | experimental |  |  | [1] Kim 2011; _cites Oriani 1962_ [doi](https://doi.org/10.1016/0001-6160%2862%2990102-5) | Table 2, p. 3, row 16 |  |
+| CoPt |  | -13.6 per mol-atom ± 0.7 | 914 | experimental |  |  | [1] Kim 2011; _cites Oriani 1962_ [doi](https://doi.org/10.1016/0001-6160%2862%2990102-5) | Table 2, p. 3, row 16; `ORC-GIYTSCDO2K.8b23fd` |  |
+| CoPt | [CoPt](https://data.orchid-project.org/compounds/CoPt.html) | -12.265 kJ/mol-atom | 914 | model | -8.269 (mp-aaaaabkn) | -9.462 (oqmd-29449) | [1] Kim 2011 | Table 2, p. 3, row 15; `ORC-SM7S5KGROG` |  |
+| CoPt3 |  | -12.8 per mol-atom ± 1.63 | 914 | experimental |  |  | [1] Kim 2011; _cites Oriani 1962_ [doi](https://doi.org/10.1016/0001-6160%2862%2990102-5) | Table 2, p. 3, row 16; `ORC-GIYTSCDO2K.e42b94` |  |
 
 ## Other properties
 
@@ -70,9 +70,9 @@ Table: Phase transition, Co–Pt system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 822 K | 822 | Co3Pt | model | [1] Kim 2011 | p. 5 | “Co3 Pt is predicted to be stable up to about 822 K.” |
-| Phase transition | 840 K | 840 | congruent transformation | experimental | [1] Kim 2011; _cites Inden 1983_ | p. 5 | “This behavior is similar to that measured by Inden \[25\] with a congruent temperature of approximately 840 K.” |
-| Phase transition | 1104 K | 1104 | other | experimental | [1] Kim 2011 | p. 6 | “The calculated LRO parameter for L10 according to Eq. (12) is plotted in Fig. 9 along with the experimental data \[24\] with the temperature normalized by the order/disorder transition temperature of the L10 CoPt phase of 1104 K, showing a good agreement.” |
+| Phase transition | 822 K | 822 | Co3Pt | model | [1] Kim 2011 | p. 5; `ORC-MVXAE2DJ6I` | “Co3 Pt is predicted to be stable up to about 822 K.” |
+| Phase transition | 840 K | 840 | congruent transformation | experimental | [1] Kim 2011; _cites Inden 1983_ | p. 5; `ORC-2GN6RCBU3A` | “This behavior is similar to that measured by Inden \[25\] with a congruent temperature of approximately 840 K.” |
+| Phase transition | 1104 K | 1104 | other | experimental | [1] Kim 2011 | p. 6; `ORC-RIRD4VLSIT` | “The calculated LRO parameter for L10 according to Eq. (12) is plotted in Fig. 9 along with the experimental data \[24\] with the temperature normalized by the order/disorder transition temperature of the L10 CoPt phase of 1104 K, showing a good agreement.” |
 
 ### Mixing / partial (1)
 
@@ -80,7 +80,7 @@ Table: Mixing / partial, Co–Pt system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: ΔHmix_ | -8.651 kJ/mol-atom | 300 | Co3Pt; _alloy: Pt 0.25_ | model | [1] Kim 2011 | Table 2, p. 3, row 17 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -8.651 kJ/mol-atom | 300 | Co3Pt; _alloy: Pt 0.25_ | model | [1] Kim 2011 | Table 2, p. 3, row 17; `ORC-LBIEX7D7TT` |  |
 
 ### Crystal structure (10)
 
@@ -88,16 +88,16 @@ Table: Crystal structure, Co–Pt system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a; _printed: a_ | 3.654 Å |  | Co3Pt; _alloy: Pt 0.25_ | model | [1] Kim 2011 | Table 2, p. 3, row 1 |  |
-| Lattice a; _printed: a_ | 3.664 Å |  | Co3Pt; _alloy: Pt 0.25_ | experimental | [1] Kim 2011; _cites Capitan 1999_ [doi](https://doi.org/10.1107/s0021889899009887) | Table 2, p. 3, row 2 |  |
-| Lattice a; _printed: a_ | 3.806 Å |  | CoPt; _alloy: Pt 0.5_ | experimental | [1] Kim 2011; _cites Galanakis 2000_ [doi](https://doi.org/10.1103/physrevb.62.6475) | Table 2, p. 3, row 3 |  |
-| Lattice a; _printed: a_ | 3.809 Å |  | CoPt; _alloy: Pt 0.5_ | model | [1] Kim 2011 | Table 2, p. 3, row 1 |  |
-| Lattice a; _printed: a_ | 3.811 Å |  | CoPt; _alloy: Pt 0.5_ | experimental | [1] Kim 2011; _cites Capitan 1999_ [doi](https://doi.org/10.1107/s0021889899009887) | Table 2, p. 3, row 2 |  |
-| Lattice a; _printed: a_ | 3.885 Å |  | CoPt3; _alloy: Pt 0.75_ | model | [1] Kim 2011 | Table 2, p. 3, row 1 |  |
-| Lattice a; _printed: a_ | 3.857 Å |  | CoPt3; _alloy: Pt 0.75_ | experimental | [1] Kim 2011; _cites Capitan 1999_ [doi](https://doi.org/10.1107/s0021889899009887) | Table 2, p. 3, row 2 |  |
-| Lattice c; _printed: c_ | 3.708 Å |  | CoPt; _alloy: Pt 0.5_ | model | [1] Kim 2011 | Table 2, p. 3, row 4 |  |
-| Lattice c; _printed: c_ | 3.684 Å |  | CoPt; _alloy: Pt 0.5_ | experimental | [1] Kim 2011; _cites Galanakis 2000_ [doi](https://doi.org/10.1103/physrevb.62.6475) | Table 2, p. 3, row 6 |  |
-| Lattice c; _printed: c_ | 3.694 Å |  | CoPt; _alloy: Pt 0.5_ | experimental | [1] Kim 2011; _cites Leroux 1988_ | Table 2, p. 3, row 5 |  |
+| Lattice a; _printed: a_ | 3.654 Å |  | Co3Pt; _alloy: Pt 0.25_ | model | [1] Kim 2011 | Table 2, p. 3, row 1; `ORC-V27RV5CYCF.db7e95` |  |
+| Lattice a; _printed: a_ | 3.664 Å |  | Co3Pt; _alloy: Pt 0.25_ | experimental | [1] Kim 2011; _cites Capitan 1999_ [doi](https://doi.org/10.1107/s0021889899009887) | Table 2, p. 3, row 2; `ORC-XUMWTQJRL4.cccfc6` |  |
+| Lattice a; _printed: a_ | 3.806 Å |  | CoPt; _alloy: Pt 0.5_ | experimental | [1] Kim 2011; _cites Galanakis 2000_ [doi](https://doi.org/10.1103/physrevb.62.6475) | Table 2, p. 3, row 3; `ORC-JHEHM3DFYG` |  |
+| Lattice a; _printed: a_ | 3.809 Å |  | CoPt; _alloy: Pt 0.5_ | model | [1] Kim 2011 | Table 2, p. 3, row 1; `ORC-V27RV5CYCF.4fde13` |  |
+| Lattice a; _printed: a_ | 3.811 Å |  | CoPt; _alloy: Pt 0.5_ | experimental | [1] Kim 2011; _cites Capitan 1999_ [doi](https://doi.org/10.1107/s0021889899009887) | Table 2, p. 3, row 2; `ORC-XUMWTQJRL4.784e91` |  |
+| Lattice a; _printed: a_ | 3.885 Å |  | CoPt3; _alloy: Pt 0.75_ | model | [1] Kim 2011 | Table 2, p. 3, row 1; `ORC-V27RV5CYCF.4ba2a2` |  |
+| Lattice a; _printed: a_ | 3.857 Å |  | CoPt3; _alloy: Pt 0.75_ | experimental | [1] Kim 2011; _cites Capitan 1999_ [doi](https://doi.org/10.1107/s0021889899009887) | Table 2, p. 3, row 2; `ORC-XUMWTQJRL4.b745c8` |  |
+| Lattice c; _printed: c_ | 3.708 Å |  | CoPt; _alloy: Pt 0.5_ | model | [1] Kim 2011 | Table 2, p. 3, row 4; `ORC-DMUHJZNF4E` |  |
+| Lattice c; _printed: c_ | 3.684 Å |  | CoPt; _alloy: Pt 0.5_ | experimental | [1] Kim 2011; _cites Galanakis 2000_ [doi](https://doi.org/10.1103/physrevb.62.6475) | Table 2, p. 3, row 6; `ORC-FVDHWTECZC` |  |
+| Lattice c; _printed: c_ | 3.694 Å |  | CoPt; _alloy: Pt 0.5_ | experimental | [1] Kim 2011; _cites Leroux 1988_ | Table 2, p. 3, row 5; `ORC-VNZGPGSBDD` |  |
 
 ### Other property (1)
 
@@ -105,7 +105,7 @@ Table: Other property, Co–Pt system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Other; _printed: enthalpy of transformation_ | -3.303 kJ/mol-atom | 783 | L10 + fcc | model | [1] Kim 2011 | p. 5 | “The calculated enthalpy for the disordered fcc phase to L10 transformation in CoPt compound at 783 K from the current modeling is -3.303 kJ/mol-atom which is also in a good agreement with the experimental data (-3.1 ± 0.2 kJ/mol-atom) in the literature \[16\].” |
+| Other; _printed: enthalpy of transformation_ | -3.303 kJ/mol-atom | 783 | L10 + fcc | model | [1] Kim 2011 | p. 5; `ORC-K6TT5TWMWV.025c14` | “The calculated enthalpy for the disordered fcc phase to L10 transformation in CoPt compound at 783 K from the current modeling is -3.303 kJ/mol-atom which is also in a good agreement with the experimental data (-3.1 ± 0.2 kJ/mol-atom) in the literature \[16\].” |
 
 ## Sources
 
@@ -170,4 +170,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

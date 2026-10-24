@@ -53,8 +53,8 @@ Table: Invariant reactions reported in the literature for the Al–O system (2)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2326.09 | Al2O3(l) = Al(l) + Al2O3(cor) | Al2O3(l): O 0.59973; Al(l): O 7.557e-4 | unspecified | [1] Taylor 1992 | Table 2, p. 7, row 2 |  |
-| 933.47 | Al(l) = Al(fcc) + Al2O3(cor) | Al(l): O 7.051e-7 | unspecified | [1] Taylor 1992 | Table 2, p. 7, row 1 |  |
+| 2326.09 | Al2O3(l) = Al(l) + Al2O3(cor) | Al2O3(l): O 0.59973; Al(l): O 7.557e-4 | unspecified | [1] Taylor 1992 | Table 2, p. 7, row 2; `ORC-6D4BOW3LW2` |  |
+| 933.47 | Al(l) = Al(fcc) + Al2O3(cor) | Al(l): O 7.051e-7 | unspecified | [1] Taylor 1992 | Table 2, p. 7, row 1; `ORC-IC45UJPHPY` |  |
 
 ## Formation enthalpies
 
@@ -64,10 +64,10 @@ Table: Enthalpies of formation, Al–O system (4)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Al2O3 | [Al2O3](https://data.orchid-project.org/compounds/Al2O3.html) | -335.14 kJ/mol-atom |  | model | -330.611 (mp-aaaaabrz) | -315.03 (oqmd-1234774) | [2] Li 2023 | Table 5, p. 6, row 2 |  |
-| Al2O3 |  | -329.86 kJ/mol-atom |  | DFT |  |  | [2] Li 2023 | Table 3, p. 5, row 6 |  |
-| Al2O3 |  | -313.44 kJ/mol-atom |  | DFT |  |  | [2] Li 2023 | Table 3, p. 5, row 5 |  |
-| Al2O3 |  | -294.24 kJ/mol-atom | 0 | DFT |  |  | [2] Li 2023 | Table 3, p. 5, row 4 |  |
+| Al2O3 | [Al2O3](https://data.orchid-project.org/compounds/Al2O3.html) | -335.14 kJ/mol-atom |  | model | -330.611 (mp-aaaaabrz) | -315.03 (oqmd-1234774) | [2] Li 2023 | Table 5, p. 6, row 2; `ORC-ICQKAAHCS5.36fae6` |  |
+| Al2O3 |  | -329.86 kJ/mol-atom |  | DFT |  |  | [2] Li 2023 | Table 3, p. 5, row 6; `ORC-WQ7X22XGIW` |  |
+| Al2O3 |  | -313.44 kJ/mol-atom |  | DFT |  |  | [2] Li 2023 | Table 3, p. 5, row 5; `ORC-7BS5ZO4VHO` |  |
+| Al2O3 |  | -294.24 kJ/mol-atom | 0 | DFT |  |  | [2] Li 2023 | Table 3, p. 5, row 4; `ORC-ZAYQDGB5A5` |  |
 
 ## Other properties
 
@@ -77,11 +77,11 @@ Table: Phase transition, Al–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 933.47 K | 933.47 |  | experimental | [1] Taylor 1992; _cites ref. 89_ | p. 4 | “The properties of pun Al were taken from the SGTR element unary data compiled by Dinsdale (89DIN. 91DfN) and for pure AlsO, from the SGTE substance database (86DIN', 87ANS/SUN). These data yield melting points of 933.47 and 2327 K respectively.” |
-| Phase transition | 2327 K | 2327 |  | experimental | [1] Taylor 1992; _cites ref. 86_ | p. 4 | “The properties of pun Al were taken from the SGTR element unary data compiled by Dinsdale (89DIN. 91DfN) and for pure AlsO, from the SGTE substance database (86DIN', 87ANS/SUN). These data yield melting points of 933.47 and 2327 K respectively.” |
-| Phase transition | 2327 K | 2327 | Al2O3(l) = Al2O3(cor); _Al2O3(l): O 0.6_ | unspecified | [1] Taylor 1992 | Table 2, p. 7, row 4 |  |
-| Phase transition | 2327 K | 2327 | congruent transformation | experimental | [1] Taylor 1992; _cites ref. 85_ | p. 2 | “The phase diagtam is charactctised by a compound AhO, which melts congruently at 2327 K and crystalliscs in the corundum structum (sapphire).” |
-| Phase transition | 2329 K | 2329 |  | model | [2] Li 2023 | p. 6 | “The melting point of Al2O3 calculated in the present work was 2329 K.” |
+| Phase transition | 933.47 K | 933.47 |  | experimental | [1] Taylor 1992; _cites ref. 89_ | p. 4; `ORC-4XTNHUP66F.f35eef` | “The properties of pun Al were taken from the SGTR element unary data compiled by Dinsdale (89DIN. 91DfN) and for pure AlsO, from the SGTE substance database (86DIN', 87ANS/SUN). These data yield melting points of 933.47 and 2327 K respectively.” |
+| Phase transition | 2327 K | 2327 |  | experimental | [1] Taylor 1992; _cites ref. 86_ | p. 4; `ORC-4XTNHUP66F.ffab83` | “The properties of pun Al were taken from the SGTR element unary data compiled by Dinsdale (89DIN. 91DfN) and for pure AlsO, from the SGTE substance database (86DIN', 87ANS/SUN). These data yield melting points of 933.47 and 2327 K respectively.” |
+| Phase transition | 2327 K | 2327 | Al2O3(l) = Al2O3(cor); _Al2O3(l): O 0.6_ | unspecified | [1] Taylor 1992 | Table 2, p. 7, row 4; `ORC-GKXME72JEU` |  |
+| Phase transition | 2327 K | 2327 | congruent transformation | experimental | [1] Taylor 1992; _cites ref. 85_ | p. 2; `ORC-DTCEPEZIHL` | “The phase diagtam is charactctised by a compound AhO, which melts congruently at 2327 K and crystalliscs in the corundum structum (sapphire).” |
+| Phase transition | 2329 K | 2329 |  | model | [2] Li 2023 | p. 6; `ORC-BTY7W5KRBQ` | “The melting point of Al2O3 calculated in the present work was 2329 K.” |
 
 ### Heat capacity / entropy / enthalpy (2)
 
@@ -89,8 +89,8 @@ Table: Heat capacity / entropy / enthalpy, Al–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: Standard entropy_ | 50.7 J/mol (basis unstated)/K |  | Al2O3; _alloy: O 0.6_ | model | [2] Li 2023 | Table 5, p. 6, row 2 |  |
-| Heat capacity; _printed: Heat capacity at 298.15 K_ | 15.38 J/mol-atom/K | 298.15 | Al2O3; _alloy: O 0.6_ | model | [2] Li 2023 | Table 5, p. 6, row 2 |  |
+| Entropy; _printed: Standard entropy_ | 50.7 J/mol (basis unstated)/K |  | Al2O3; _alloy: O 0.6_ | model | [2] Li 2023 | Table 5, p. 6, row 2; `ORC-ICQKAAHCS5.bbed37` |  |
+| Heat capacity; _printed: Heat capacity at 298.15 K_ | 15.38 J/mol-atom/K | 298.15 | Al2O3; _alloy: O 0.6_ | model | [2] Li 2023 | Table 5, p. 6, row 2; `ORC-ICQKAAHCS5.a62835` |  |
 
 ## Sources
 
@@ -156,4 +156,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

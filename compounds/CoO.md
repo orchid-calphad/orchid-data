@@ -14,13 +14,13 @@ Table: Enthalpy of formation of CoO reported in the literature (7)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -120.29 kJ/mol-atom | CoO | 298.15 | experimental | Bomb Calorimetry | [Co–O](https://data.orchid-project.org/systems/CO-O.html) | [1] Chen 2003; _cites Mixter 1910_ [doi](https://doi.org/10.2475/ajs.s4-30.177.193) | Table 5, p. 10, row 1 |  |
-| -120.29 kJ/mol-atom | CoO | 298.15 | experimental | Bomb Calorimetry | [Co–O](https://data.orchid-project.org/systems/CO-O.html) | [1] Chen 2003; _cites Roth 1931_ [doi](https://doi.org/10.1002/zaac.19311950125) | Table 5, p. 10, row 2 |  |
-| -119.45 kJ/mol-atom | CoO | 298.15 | experimental | Bomb Calorimetry | [Co–O](https://data.orchid-project.org/systems/CO-O.html) | [1] Chen 2003; _cites Boyle 1954_ [doi](https://doi.org/10.1021/ja01643a072) | Table 5, p. 10, row 3 |  |
-| -118.97 kJ/mol-atom | CoO | 298.15 | model | Assessed | [Co–O](https://data.orchid-project.org/systems/CO-O.html) | [1] Chen 2003; _cites Wagman 1969_ | Table 5, p. 10, row 4 |  |
-| -118.85 kJ/mol-atom | CoO | 298.15 | model | Assessed | [Co–O](https://data.orchid-project.org/systems/CO-O.html) | [1] Chen 2003; _cites Chase 1985_ | Table 5, p. 10, row 6 |  |
-| -118.75 kJ/mol-atom | CoO | 298.15 | model | Assessed | [Co–O](https://data.orchid-project.org/systems/CO-O.html) | [1] Chen 2003; _cites Cyr 1981_ [doi](https://doi.org/10.1021/je00025a030) | Table 5, p. 10, row 5 |  |
-| -118.43 kJ/mol-atom | CoO | 298.15 | model | Assessed | [Co–O](https://data.orchid-project.org/systems/CO-O.html) | [1] Chen 2003 | Table 5, p. 10, row 7 |  |
+| -120.29 kJ/mol-atom | CoO | 298.15 | experimental | Bomb Calorimetry | [Co–O](https://data.orchid-project.org/systems/CO-O.html) | [1] Chen 2003; _cites Mixter 1910_ [doi](https://doi.org/10.2475/ajs.s4-30.177.193) | Table 5, p. 10, row 1; `ORC-PDP2R4RQRL` |  |
+| -120.29 kJ/mol-atom | CoO | 298.15 | experimental | Bomb Calorimetry | [Co–O](https://data.orchid-project.org/systems/CO-O.html) | [1] Chen 2003; _cites Roth 1931_ [doi](https://doi.org/10.1002/zaac.19311950125) | Table 5, p. 10, row 2; `ORC-YY6S4JS6II` |  |
+| -119.45 kJ/mol-atom | CoO | 298.15 | experimental | Bomb Calorimetry | [Co–O](https://data.orchid-project.org/systems/CO-O.html) | [1] Chen 2003; _cites Boyle 1954_ [doi](https://doi.org/10.1021/ja01643a072) | Table 5, p. 10, row 3; `ORC-V546TAYISH` |  |
+| -118.97 kJ/mol-atom | CoO | 298.15 | model | Assessed | [Co–O](https://data.orchid-project.org/systems/CO-O.html) | [1] Chen 2003; _cites Wagman 1969_ | Table 5, p. 10, row 4; `ORC-MT6IPPMHOI.77ac43` |  |
+| -118.85 kJ/mol-atom | CoO | 298.15 | model | Assessed | [Co–O](https://data.orchid-project.org/systems/CO-O.html) | [1] Chen 2003; _cites Chase 1985_ | Table 5, p. 10, row 6; `ORC-CWHCU6KGXD.7fb507` |  |
+| -118.75 kJ/mol-atom | CoO | 298.15 | model | Assessed | [Co–O](https://data.orchid-project.org/systems/CO-O.html) | [1] Chen 2003; _cites Cyr 1981_ [doi](https://doi.org/10.1021/je00025a030) | Table 5, p. 10, row 5; `ORC-WHMXOZSXAH` |  |
+| -118.43 kJ/mol-atom | CoO | 298.15 | model | Assessed | [Co–O](https://data.orchid-project.org/systems/CO-O.html) | [1] Chen 2003 | Table 5, p. 10, row 7; `ORC-6CA7FA2MAK.f62029` |  |
 
 ### Uncertainty budget
 
@@ -102,4 +102,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

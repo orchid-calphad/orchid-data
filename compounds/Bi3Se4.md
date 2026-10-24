@@ -14,11 +14,11 @@ Table: Enthalpy of formation of Bi3Se4 reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -29.214 kJ/mol-atom | Bi3Se4 | 298.15 | experimental | EMF | [Bi–Se](https://data.orchid-project.org/systems/BI-SE.html) | [1] Zhou 2024; _cites Hasanova 2021_ [doi](https://doi.org/10.1007/s11837-021-04621-1) | Table 3, p. 5, row 65 |  |
-| -29.22 kJ/mol-atom | Bi3Se4 | 298.15 | model | CALPHAD | [Bi–Se](https://data.orchid-project.org/systems/BI-SE.html) | [1] Zhou 2024 | Table 3, p. 5, row 69 |  |
-| -60.4 kJ/mol-atom | Bi3Se4 | 0 | DFT | First-principles | [Bi–Se](https://data.orchid-project.org/systems/BI-SE.html) | [1] Zhou 2024; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table 3, p. 5, row 66 |  |
-| -32.632 kJ/mol-atom | Bi3Se4 | 0 | DFT | First-principles | [Bi–Se](https://data.orchid-project.org/systems/BI-SE.html) | [1] Zhou 2024 | Table 3, p. 5, row 68 |  |
-| -30.586 kJ/mol-atom | Bi3Se4 | 0 | DFT | First-principles | [Bi–Se](https://data.orchid-project.org/systems/BI-SE.html) | [1] Zhou 2024; _cites Saal 2013_ [doi](https://doi.org/10.1007/s11837-013-0755-4) | Table 3, p. 5, row 67 |  |
+| -29.214 kJ/mol-atom | Bi3Se4 | 298.15 | experimental | EMF | [Bi–Se](https://data.orchid-project.org/systems/BI-SE.html) | [1] Zhou 2024; _cites Hasanova 2021_ [doi](https://doi.org/10.1007/s11837-021-04621-1) | Table 3, p. 5, row 65; `ORC-GIJFGAPNZN` |  |
+| -29.22 kJ/mol-atom | Bi3Se4 | 298.15 | model | CALPHAD | [Bi–Se](https://data.orchid-project.org/systems/BI-SE.html) | [1] Zhou 2024 | Table 3, p. 5, row 69; `ORC-7PPATXKJRJ` |  |
+| -60.4 kJ/mol-atom | Bi3Se4 | 0 | DFT | First-principles | [Bi–Se](https://data.orchid-project.org/systems/BI-SE.html) | [1] Zhou 2024; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table 3, p. 5, row 66; `ORC-2EEPT3JBDQ` |  |
+| -32.632 kJ/mol-atom | Bi3Se4 | 0 | DFT | First-principles | [Bi–Se](https://data.orchid-project.org/systems/BI-SE.html) | [1] Zhou 2024 | Table 3, p. 5, row 68; `ORC-7FK7WU3QYT` |  |
+| -30.586 kJ/mol-atom | Bi3Se4 | 0 | DFT | First-principles | [Bi–Se](https://data.orchid-project.org/systems/BI-SE.html) | [1] Zhou 2024; _cites Saal 2013_ [doi](https://doi.org/10.1007/s11837-013-0755-4) | Table 3, p. 5, row 67; `ORC-YL7UEXIVMJ` |  |
 
 ### Uncertainty budget
 
@@ -98,4 +98,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

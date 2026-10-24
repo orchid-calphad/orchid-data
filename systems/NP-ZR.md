@@ -71,20 +71,20 @@ Table: Invariant reactions reported in the literature for the Np–Zr system (14
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 903 | eutectic: L -> γ-Np + β-Zr | L: Zr 0.15 | experimental | [1] Bajaj 2011; _cites Okamoto 2000_ | Table 3, p. 5, row 1 |  |
-| 883 | eutectoid: β-Zr -> γ-Np + α-Zr | β-Zr: Zr 0.83 | experimental | [1] Bajaj 2011; _cites Okamoto 2000_ | Table 3, p. 5, row 3 |  |
-| 882 | eutectic: L -> γ-Np + β-Zr | L: Zr 0.08 | model | [1] Bajaj 2011 | Table 3, p. 5, row 2 |  |
-| 852.3 | eutectoid: β-Zr -> γ-Np + α-Zr | β-Zr: Zr 0.86 | model | [1] Bajaj 2011 | Table 3, p. 5, row 4 |  |
-| 852.2 | peritectoid: γ-Np + α-Zr -> δ-NpZr2 (Model 1) | γ-Np: Zr 0.73; δ-NpZr2: Zr 0.666667 | model | [1] Bajaj 2011 | Table 3, p. 5, row 6 |  |
-| 843.5 | peritectoid: γ-Np + α-Zr -> δ-NpZr2 (Model 2) | γ-Np: Zr 0.79; δ-NpZr2: Zr 0.666667 | model | [1] Bajaj 2011 | Table 3, p. 5, row 8 |  |
-| 838.5 | eutectoid: γ-Np -> β-Np + δ-NpZr2 | γ-Np: Zr 0.03; δ-NpZr2: Zr 0.666667 | model | [1] Bajaj 2011 | Table 3, p. 5, row 10 |  |
-| 823 | peritectoid: γ-Np + α-Zr -> δ-NpZr2 (Model 2) | γ-Np: Zr 0.7; δ-NpZr2: Zr 0.666667 | experimental | [1] Bajaj 2011; _cites Okamoto 2000_ | Table 3, p. 5, row 7 |  |
-| 823 | peritectoid: γ-Np + α-Zr -> δ-NpZr2 (Model 1) | γ-Np: Zr 0.7; δ-NpZr2: Zr 0.666667 | experimental | [1] Bajaj 2011; _cites Okamoto 2000_ | Table 3, p. 5, row 5 |  |
-| 803 | eutectoid: γ-Np -> β-Np + δ-NpZr2 | γ-Np: Zr 0.03; δ-NpZr2: Zr 0.666667 | experimental | [1] Bajaj 2011; _cites Okamoto 2000_ | Table 3, p. 5, row 9 |  |
-| 588 | peritectoid: β-Np + δ-NpZr2 -> θ-Np4Zr | δ-NpZr2: Zr 0.666667; θ-Np4Zr: Zr 0.2 | experimental | [1] Bajaj 2011; _cites Okamoto 2000_ | Table 3, p. 5, row 11 |  |
-| 585.5 | peritectoid: β-Np + δ-NpZr2 -> θ-Np4Zr | δ-NpZr2: Zr 0.666667; θ-Np4Zr: Zr 0.2 | model | [1] Bajaj 2011 | Table 3, p. 5, row 12 |  |
-| 553 | eutectoid: β-Np -> α-Np + θ-Np4Zr | β-Np: Zr 0.015; θ-Np4Zr: Zr 0.2 | experimental | [1] Bajaj 2011; _cites Okamoto 2000_ | Table 3, p. 5, row 13 |  |
-| 551 | eutectoid: β-Np -> α-Np + θ-Np4Zr | β-Np: Zr 0.015; θ-Np4Zr: Zr 0.2 | model | [1] Bajaj 2011 | Table 3, p. 5, row 14 |  |
+| 903 | eutectic: L -> γ-Np + β-Zr | L: Zr 0.15 | experimental | [1] Bajaj 2011; _cites Okamoto 2000_ | Table 3, p. 5, row 1; `ORC-TVWJ6IA6OK` |  |
+| 883 | eutectoid: β-Zr -> γ-Np + α-Zr | β-Zr: Zr 0.83 | experimental | [1] Bajaj 2011; _cites Okamoto 2000_ | Table 3, p. 5, row 3; `ORC-NCLGQ46KXF` |  |
+| 882 | eutectic: L -> γ-Np + β-Zr | L: Zr 0.08 | model | [1] Bajaj 2011 | Table 3, p. 5, row 2; `ORC-2PW7IJB5EV` |  |
+| 852.3 | eutectoid: β-Zr -> γ-Np + α-Zr | β-Zr: Zr 0.86 | model | [1] Bajaj 2011 | Table 3, p. 5, row 4; `ORC-EQ36JSLD4R` |  |
+| 852.2 | peritectoid: γ-Np + α-Zr -> δ-NpZr2 (Model 1) | γ-Np: Zr 0.73; δ-NpZr2: Zr 0.666667 | model | [1] Bajaj 2011 | Table 3, p. 5, row 6; `ORC-YLOBNGIJI4` |  |
+| 843.5 | peritectoid: γ-Np + α-Zr -> δ-NpZr2 (Model 2) | γ-Np: Zr 0.79; δ-NpZr2: Zr 0.666667 | model | [1] Bajaj 2011 | Table 3, p. 5, row 8; `ORC-QDSGF2SIGC` |  |
+| 838.5 | eutectoid: γ-Np -> β-Np + δ-NpZr2 | γ-Np: Zr 0.03; δ-NpZr2: Zr 0.666667 | model | [1] Bajaj 2011 | Table 3, p. 5, row 10; `ORC-U2EESFV27R` |  |
+| 823 | peritectoid: γ-Np + α-Zr -> δ-NpZr2 (Model 2) | γ-Np: Zr 0.7; δ-NpZr2: Zr 0.666667 | experimental | [1] Bajaj 2011; _cites Okamoto 2000_ | Table 3, p. 5, row 7; `ORC-2Y2VLCSVQ4` |  |
+| 823 | peritectoid: γ-Np + α-Zr -> δ-NpZr2 (Model 1) | γ-Np: Zr 0.7; δ-NpZr2: Zr 0.666667 | experimental | [1] Bajaj 2011; _cites Okamoto 2000_ | Table 3, p. 5, row 5; `ORC-FTRPXSONO2` |  |
+| 803 | eutectoid: γ-Np -> β-Np + δ-NpZr2 | γ-Np: Zr 0.03; δ-NpZr2: Zr 0.666667 | experimental | [1] Bajaj 2011; _cites Okamoto 2000_ | Table 3, p. 5, row 9; `ORC-DGH6BEPXRS` |  |
+| 588 | peritectoid: β-Np + δ-NpZr2 -> θ-Np4Zr | δ-NpZr2: Zr 0.666667; θ-Np4Zr: Zr 0.2 | experimental | [1] Bajaj 2011; _cites Okamoto 2000_ | Table 3, p. 5, row 11; `ORC-JXS2TUYSFZ` |  |
+| 585.5 | peritectoid: β-Np + δ-NpZr2 -> θ-Np4Zr | δ-NpZr2: Zr 0.666667; θ-Np4Zr: Zr 0.2 | model | [1] Bajaj 2011 | Table 3, p. 5, row 12; `ORC-SSY6M2JZVD` |  |
+| 553 | eutectoid: β-Np -> α-Np + θ-Np4Zr | β-Np: Zr 0.015; θ-Np4Zr: Zr 0.2 | experimental | [1] Bajaj 2011; _cites Okamoto 2000_ | Table 3, p. 5, row 13; `ORC-A2IUZRD7UF` |  |
+| 551 | eutectoid: β-Np -> α-Np + θ-Np4Zr | β-Np: Zr 0.015; θ-Np4Zr: Zr 0.2 | model | [1] Bajaj 2011 | Table 3, p. 5, row 14; `ORC-YLGWVMHHQL` |  |
 
 ## Other properties
 
@@ -94,10 +94,10 @@ Table: Phase transition, Np–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 823 K | 823 | other | experimental | [2] Xiong 2014; _cites Okamoto 1996_ [doi](https://doi.org/10.1016/0925-8388%2895%2902009-8) | p. 2 | “Okamoto et al. \[14\] also estimated the decomposition temperature of the d phase to be around 823 K.” |
-| Phase transition | 823.15 K | 823.15 | other | experimental | [1] Bajaj 2011; _cites Okamoto 1996_ [doi](https://doi.org/10.1016/0925-8388%2895%2902009-8) | p. 2 | “A decomposition temperature of 550 °C was assigned and it was concluded that this phase formed from c-Np and a-Zr.” |
-| Phase transition | 912.15 K | 912.15 |  | experimental | [1] Bajaj 2011; _cites Freeman 1984_ | p. 1 | “The melting points of Np, Pu and U are relatively low for nuclear fuel applications (Tfus\[Np\] = 639 °C, Tfus\[Pu\] = 640 °C, Tfus\[U\] = 1135 °C \[3,4\]) which could pose a limitation to their use.” |
-| Phase transition | 1408.15 K | 1408.15 |  | experimental | [1] Bajaj 2011; _cites Freeman 1984_ | p. 1 | “The melting points of Np, Pu and U are relatively low for nuclear fuel applications (Tfus\[Np\] = 639 °C, Tfus\[Pu\] = 640 °C, Tfus\[U\] = 1135 °C \[3,4\]) which could pose a limitation to their use.” |
+| Phase transition | 823 K | 823 | other | experimental | [2] Xiong 2014; _cites Okamoto 1996_ [doi](https://doi.org/10.1016/0925-8388%2895%2902009-8) | p. 2; `ORC-GQIO2XZ3R5` | “Okamoto et al. \[14\] also estimated the decomposition temperature of the d phase to be around 823 K.” |
+| Phase transition | 823.15 K | 823.15 | other | experimental | [1] Bajaj 2011; _cites Okamoto 1996_ [doi](https://doi.org/10.1016/0925-8388%2895%2902009-8) | p. 2; `ORC-H5DGOWCIK7` | “A decomposition temperature of 550 °C was assigned and it was concluded that this phase formed from c-Np and a-Zr.” |
+| Phase transition | 912.15 K | 912.15 |  | experimental | [1] Bajaj 2011; _cites Freeman 1984_ | p. 1; `ORC-DQ5VMT4ZUH.f685d6` | “The melting points of Np, Pu and U are relatively low for nuclear fuel applications (Tfus\[Np\] = 639 °C, Tfus\[Pu\] = 640 °C, Tfus\[U\] = 1135 °C \[3,4\]) which could pose a limitation to their use.” |
+| Phase transition | 1408.15 K | 1408.15 |  | experimental | [1] Bajaj 2011; _cites Freeman 1984_ | p. 1; `ORC-DQ5VMT4ZUH.7a8326` | “The melting points of Np, Pu and U are relatively low for nuclear fuel applications (Tfus\[Np\] = 639 °C, Tfus\[Pu\] = 640 °C, Tfus\[U\] = 1135 °C \[3,4\]) which could pose a limitation to their use.” |
 
 ## Sources
 
@@ -163,4 +163,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

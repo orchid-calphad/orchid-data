@@ -56,16 +56,16 @@ Table: Invariant reactions reported in the literature for the Mg–Tl system (10
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 678.5 | Liquid -> hcp + Mg5Tl2 | Liquid: Tl 0.242; hcp: Tl 0.161; Mg5Tl2: Tl 0.285714 | model | [1] Liu 2008 | Table 2, p. 4, row 1 |  |
-| 678.3 | Liquid -> hcp + Mg5Tl2 | Liquid: Tl 0.25; hcp: Tl 0.154; Mg5Tl2: Tl 0.285714 | experimental | [1] Liu 2008; _cites Hume-Rothery 1938_ | Table 2, p. 4, row 2 |  |
-| 665 | Liquid + Mg5Tl2 -> Mg2Tl | Liquid: Tl 0.343; Mg5Tl2: Tl 0.285714; Mg2Tl: Tl 0.333333 | experimental | [1] Liu 2008; _cites Grube 1934_ [doi](https://doi.org/10.1002/bbpc.19340400213) | Table 2, p. 4, row 6 |  |
-| 664.5 | Liquid + Mg5Tl2 -> Mg2Tl | Liquid: Tl 0.361; Mg5Tl2: Tl 0.285714; Mg2Tl: Tl 0.333333 | model | [1] Liu 2008 | Table 2, p. 4, row 5 |  |
-| 626 | Liquid -> Mg2Tl + MgTl | Liquid: Tl 0.425; Mg2Tl: Tl 0.333333; MgTl: Tl 0.5 | experimental | [1] Liu 2008; _cites Grube 1934_ [doi](https://doi.org/10.1002/bbpc.19340400213) | Table 2, p. 4, row 8 |  |
-| 624.8 | Liquid -> Mg2Tl + MgTl | Liquid: Tl 0.448; Mg2Tl: Tl 0.333333; MgTl: Tl 0.5 | model | [1] Liu 2008 | Table 2, p. 4, row 7 |  |
-| 477.4 | Liquid -> MgTl + bcc | Liquid: Tl 0.813; MgTl: Tl 0.5; bcc: Tl 0.959 | model | [1] Liu 2008 | Table 2, p. 4, row 11 |  |
-| 475 | Liquid -> MgTl + bcc | Liquid: Tl 0.8; MgTl: Tl 0.5; bcc: Tl 0.952 | experimental | [1] Liu 2008; _cites Grube 1934_ [doi](https://doi.org/10.1002/bbpc.19340400213) | Table 2, p. 4, row 12 |  |
-| 433 | bcc -> MgTl + hcp | bcc: Tl 0.95; MgTl: Tl 0.5; hcp: Tl 0.97 | experimental | [1] Liu 2008; _cites Grube 1905_ | Table 2, p. 4, row 14 |  |
-| 432.2 | bcc -> MgTl + hcp | bcc: Tl 0.971; MgTl: Tl 0.5; hcp: Tl 0.979 | model | [1] Liu 2008 | Table 2, p. 4, row 13 |  |
+| 678.5 | Liquid -> hcp + Mg5Tl2 | Liquid: Tl 0.242; hcp: Tl 0.161; Mg5Tl2: Tl 0.285714 | model | [1] Liu 2008 | Table 2, p. 4, row 1; `ORC-VTLMXLNWCA` |  |
+| 678.3 | Liquid -> hcp + Mg5Tl2 | Liquid: Tl 0.25; hcp: Tl 0.154; Mg5Tl2: Tl 0.285714 | experimental | [1] Liu 2008; _cites Hume-Rothery 1938_ | Table 2, p. 4, row 2; `ORC-65E6743DSU` |  |
+| 665 | Liquid + Mg5Tl2 -> Mg2Tl | Liquid: Tl 0.343; Mg5Tl2: Tl 0.285714; Mg2Tl: Tl 0.333333 | experimental | [1] Liu 2008; _cites Grube 1934_ [doi](https://doi.org/10.1002/bbpc.19340400213) | Table 2, p. 4, row 6; `ORC-QEEJS66DAT` |  |
+| 664.5 | Liquid + Mg5Tl2 -> Mg2Tl | Liquid: Tl 0.361; Mg5Tl2: Tl 0.285714; Mg2Tl: Tl 0.333333 | model | [1] Liu 2008 | Table 2, p. 4, row 5; `ORC-5F7XKXR5Y6` |  |
+| 626 | Liquid -> Mg2Tl + MgTl | Liquid: Tl 0.425; Mg2Tl: Tl 0.333333; MgTl: Tl 0.5 | experimental | [1] Liu 2008; _cites Grube 1934_ [doi](https://doi.org/10.1002/bbpc.19340400213) | Table 2, p. 4, row 8; `ORC-UQYJNC7XHV` |  |
+| 624.8 | Liquid -> Mg2Tl + MgTl | Liquid: Tl 0.448; Mg2Tl: Tl 0.333333; MgTl: Tl 0.5 | model | [1] Liu 2008 | Table 2, p. 4, row 7; `ORC-QN3E2HU5GX` |  |
+| 477.4 | Liquid -> MgTl + bcc | Liquid: Tl 0.813; MgTl: Tl 0.5; bcc: Tl 0.959 | model | [1] Liu 2008 | Table 2, p. 4, row 11; `ORC-WAPK2DALS6` |  |
+| 475 | Liquid -> MgTl + bcc | Liquid: Tl 0.8; MgTl: Tl 0.5; bcc: Tl 0.952 | experimental | [1] Liu 2008; _cites Grube 1934_ [doi](https://doi.org/10.1002/bbpc.19340400213) | Table 2, p. 4, row 12; `ORC-XCLW642NPM` |  |
+| 433 | bcc -> MgTl + hcp | bcc: Tl 0.95; MgTl: Tl 0.5; hcp: Tl 0.97 | experimental | [1] Liu 2008; _cites Grube 1905_ | Table 2, p. 4, row 14; `ORC-7UCAOOIHZJ` |  |
+| 432.2 | bcc -> MgTl + hcp | bcc: Tl 0.971; MgTl: Tl 0.5; hcp: Tl 0.979 | model | [1] Liu 2008 | Table 2, p. 4, row 13; `ORC-3SX7WBH7I5` |  |
 
 ## Formation enthalpies
 
@@ -75,7 +75,7 @@ Table: Enthalpies of formation, Mg–Tl system (1)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | -24.3 unspecified ± 4.2 | 600 | experimental |  |  | [1] Liu 2008; _cites Kubaschewski 1941_ | p. 2 | “The only value reported for the enthalpy of formation of MgTl is -24.3 ± 4.2 kJ/mol atoms \[11\], which was determined at 600 K by an adiabatic high-temperature calorimeter with all the starting materials having a purity of 99.96%.” |
+| — |  | -24.3 unspecified ± 4.2 | 600 | experimental |  |  | [1] Liu 2008; _cites Kubaschewski 1941_ | p. 2; `ORC-IRPNLJYZSC` | “The only value reported for the enthalpy of formation of MgTl is -24.3 ± 4.2 kJ/mol atoms \[11\], which was determined at 600 K by an adiabatic high-temperature calorimeter with all the starting materials having a purity of 99.96%.” |
 
 ## Other properties
 
@@ -85,10 +85,10 @@ Table: Phase transition, Mg–Tl system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 631 K | 631 | Liquid -> MgTl; _Liquid: Tl 0.5; MgTl: Tl 0.5_ | experimental | [1] Liu 2008; _cites Grube 1934_ [doi](https://doi.org/10.1002/bbpc.19340400213) | Table 2, p. 4, row 10 |  |
-| Phase transition | 631.9 K | 631.9 | Liquid -> MgTl; _Liquid: Tl 0.5; MgTl: Tl 0.5_ | model | [1] Liu 2008 | Table 2, p. 4, row 9 |  |
-| Phase transition | 686 K | 686 | Mg5Tl2 -> liquid; _Mg5Tl2: Tl 0.285714; liquid: Tl 0.285714_ | experimental | [1] Liu 2008; _cites Grube 1934_ [doi](https://doi.org/10.1002/bbpc.19340400213) | Table 2, p. 4, row 4 |  |
-| Phase transition | 687.5 K | 687.5 | Mg5Tl2 -> liquid; _Mg5Tl2: Tl 0.285714; liquid: Tl 0.285714_ | model | [1] Liu 2008 | Table 2, p. 4, row 3 |  |
+| Phase transition | 631 K | 631 | Liquid -> MgTl; _Liquid: Tl 0.5; MgTl: Tl 0.5_ | experimental | [1] Liu 2008; _cites Grube 1934_ [doi](https://doi.org/10.1002/bbpc.19340400213) | Table 2, p. 4, row 10; `ORC-VJLJP7RKDF` |  |
+| Phase transition | 631.9 K | 631.9 | Liquid -> MgTl; _Liquid: Tl 0.5; MgTl: Tl 0.5_ | model | [1] Liu 2008 | Table 2, p. 4, row 9; `ORC-ROX3BABETO` |  |
+| Phase transition | 686 K | 686 | Mg5Tl2 -> liquid; _Mg5Tl2: Tl 0.285714; liquid: Tl 0.285714_ | experimental | [1] Liu 2008; _cites Grube 1934_ [doi](https://doi.org/10.1002/bbpc.19340400213) | Table 2, p. 4, row 4; `ORC-IVQFK3G3GP` |  |
+| Phase transition | 687.5 K | 687.5 | Mg5Tl2 -> liquid; _Mg5Tl2: Tl 0.285714; liquid: Tl 0.285714_ | model | [1] Liu 2008 | Table 2, p. 4, row 3; `ORC-DI7XODJH4J` |  |
 
 ## Sources
 
@@ -153,4 +153,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

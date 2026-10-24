@@ -34,7 +34,7 @@ Table: Enthalpies of formation, Cr system (1)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| sigma CrCrCrCrCr |  | 12.1 kJ/mol-atom | 0 | DFT |  |  | [1] Palumbo 2010 | Table 1, p. 4, row 1 |  |
+| sigma CrCrCrCrCr |  | 12.1 kJ/mol-atom | 0 | DFT |  |  | [1] Palumbo 2010 | Table 1, p. 4, row 1; `ORC-7V5ZKCLAPY.1099e3` |  |
 
 ## Other properties
 
@@ -44,10 +44,10 @@ Table: Phase transition, Cr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 2136 K | 2136 |  | model | [2] He 2024; _cites Xiong 2010_ [doi](https://doi.org/10.1080/10408431003788472) | p. 8 | “Therefore, they suggested to adopt a lower value (2136 K) for future Calphad assessment and that value was adopted for the 3rd generation descriptions.” |
-| Phase transition | 2136.15 K | 2136.15 | Cr | experimental | [3] Campbell 2002; _cites ref. 25_ | p. 5 | “The calculated m elting temperature o f 1907 'C for c hromium i s 4 4 degrees h igher t hart the melting temperature 1863 "C \[25\], which is used in most phase diagram evaluations.” |
-| Phase transition | 2180 K | 2180 |  | model | [2] He 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | p. 8 | “In the SGTE database,\[23\] the melting point of Cr was accepted to be 2180 K which was later found to be too high by Xiong et al.\[59\] when modelling binaries, such as Fe-Cr and Cr-C.” |
-| Phase transition | 2180.15 K | 2180.15 | Cr | model | [3] Campbell 2002 | p. 5 | “The calculated m elting temperature o f 1907 'C for c hromium i s 4 4 degrees h igher t hart the melting temperature 1863 "C \[25\], which is used in most phase diagram evaluations.” |
+| Phase transition | 2136 K | 2136 |  | model | [2] He 2024; _cites Xiong 2010_ [doi](https://doi.org/10.1080/10408431003788472) | p. 8; `ORC-K3GMAJC6LM` | “Therefore, they suggested to adopt a lower value (2136 K) for future Calphad assessment and that value was adopted for the 3rd generation descriptions.” |
+| Phase transition | 2136.15 K | 2136.15 | Cr | experimental | [3] Campbell 2002; _cites ref. 25_ | p. 5; `ORC-NNYXAMJFVK.98cb54` | “The calculated m elting temperature o f 1907 'C for c hromium i s 4 4 degrees h igher t hart the melting temperature 1863 "C \[25\], which is used in most phase diagram evaluations.” |
+| Phase transition | 2180 K | 2180 |  | model | [2] He 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | p. 8; `ORC-DN663ILFT7` | “In the SGTE database,\[23\] the melting point of Cr was accepted to be 2180 K which was later found to be too high by Xiong et al.\[59\] when modelling binaries, such as Fe-Cr and Cr-C.” |
+| Phase transition | 2180.15 K | 2180.15 | Cr | model | [3] Campbell 2002 | p. 5; `ORC-NNYXAMJFVK.0ddcc2` | “The calculated m elting temperature o f 1907 'C for c hromium i s 4 4 degrees h igher t hart the melting temperature 1863 "C \[25\], which is used in most phase diagram evaluations.” |
 
 ### Activity / EMF / Gibbs energy (10)
 
@@ -55,16 +55,16 @@ Table: Activity / EMF / Gibbs energy, Cr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | BCC_A2; _alloy: Cr 1_ | model | [4] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 27 |  |
-| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | BCC_A2; _alloy: Cr 1_ | model | [4] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 27 |  |
-| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | -1564.84 J/mol | 0 | FCC_A1; _alloy: Cr 1_ | model | [4] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 21 |  |
-| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | -1564.84 J/mol | 0 | FCC_A1; _alloy: Cr 1_ | model | [4] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 21 |  |
-| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | -1564.84 J/mol | 0 | HCP_A3; _alloy: Cr 1_ | model | [4] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 33 |  |
-| Gibbs energy; _printed: ΔG^φ\_Para_ | 4438 J/mol |  | HCP_A3; _alloy: Cr 1_ | model | [4] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 33 |  |
-| Gibbs energy; _printed: ΔG_Para^o_ | 4438 J/mol |  | HCP_A3; _alloy: Cr 1_ | model | [4] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 33 |  |
-| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | -1564.84 J/mol | 0 | HCP_A3; _alloy: Cr 1_ | model | [4] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 33 |  |
-| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | σ; _alloy: Cr 1_ | model | [4] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 38 |  |
-| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | σ; _alloy: Cr 1_ | model | [4] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 38 |  |
+| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | BCC_A2; _alloy: Cr 1_ | model | [4] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 27; `ORC-H3HH6NVPVD.15e3a1` |  |
+| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | BCC_A2; _alloy: Cr 1_ | model | [4] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 27; `ORC-H3HH6NVPVD.c91825` |  |
+| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | -1564.84 J/mol | 0 | FCC_A1; _alloy: Cr 1_ | model | [4] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 21; `ORC-4E33YTCOLE.44f7c1` |  |
+| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | -1564.84 J/mol | 0 | FCC_A1; _alloy: Cr 1_ | model | [4] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 21; `ORC-4E33YTCOLE.8add46` |  |
+| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | -1564.84 J/mol | 0 | HCP_A3; _alloy: Cr 1_ | model | [4] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 33; `ORC-C72V6YY4LZ.4126aa` |  |
+| Gibbs energy; _printed: ΔG^φ\_Para_ | 4438 J/mol |  | HCP_A3; _alloy: Cr 1_ | model | [4] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 33; `ORC-C72V6YY4LZ.4d5e3b` |  |
+| Gibbs energy; _printed: ΔG_Para^o_ | 4438 J/mol |  | HCP_A3; _alloy: Cr 1_ | model | [4] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 33; `ORC-C72V6YY4LZ.b2cc23` |  |
+| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | -1564.84 J/mol | 0 | HCP_A3; _alloy: Cr 1_ | model | [4] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 33; `ORC-C72V6YY4LZ.e1b5aa` |  |
+| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | σ; _alloy: Cr 1_ | model | [4] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 38; `ORC-HOWGJUNNOA.252f74` |  |
+| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | σ; _alloy: Cr 1_ | model | [4] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 38; `ORC-HOWGJUNNOA.4d814f` |  |
 
 ### Crystal structure (13)
 
@@ -72,19 +72,19 @@ Table: Crystal structure, Cr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 2.8548 Å |  | BCC Cr | unspecified | [5] Pavlů 2009 | Table 1, p. 2, row 2 |  |
-| Lattice a; _printed: a_ | 8.749 Å | 0 | sigma CrCrCrCrCr; _alloy: Cr 1_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 1 |  |
-| Lattice a | 2.885 Å | 298.15 | (Cr); _alloy: Cr 1_ | model | [6] Hu 2013; _cites Massalski 1996_ | Table 3, p. 4, row 2 |  |
-| Lattice a | 2.8787 Å | 298.15 | BCC Cr | experimental | [5] Pavlů 2009; _cites Villars 1991_ | Table 1, p. 2, row 1 |  |
-| Lattice a | 2.8848 Å | 298.15 | Cr; _Cr: Cr 1_ | unspecified | [7] Murray 1998; _cites ref. 2_ | Table 3, p. 5, row 9 |  |
-| Lattice a | 2.884 Å | 2179.95 (\<) | (Cr); _alloy: Cr 1_ | unspecified | [8] Cao 2013; _cites http://crystdb_ | Table 1, p. 2, row 4 |  |
-| Lattice c | 2.8548 Å |  | BCC Cr | unspecified | [5] Pavlů 2009 | Table 1, p. 2, row 2 |  |
-| Lattice c; _printed: c_ | 4.561 Å | 0 | sigma CrCrCrCrCr; _alloy: Cr 1_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 1 |  |
-| Lattice c | 2.8787 Å | 298.15 | BCC Cr | experimental | [5] Pavlů 2009; _cites Villars 1991_ | Table 1, p. 2, row 1 |  |
-| lattice c a | 1 not_printed |  | BCC Cr | unspecified | [5] Pavlů 2009 | Table 1, p. 2, row 2 |  |
-| lattice c a | 1 not_printed | 298.15 | BCC Cr | experimental | [5] Pavlů 2009; _cites Villars 1991_ | Table 1, p. 2, row 1 |  |
-| lattice v atom | 1.16327 10^7 pm^3 |  | BCC Cr | unspecified | [5] Pavlů 2009 | Table 1, p. 2, row 2 |  |
-| lattice v atom | 1.19281 10^7 pm^3 | 298.15 | BCC Cr | experimental | [5] Pavlů 2009; _cites Villars 1991_ | Table 1, p. 2, row 1 |  |
+| Lattice a | 2.8548 Å |  | BCC Cr | unspecified | [5] Pavlů 2009 | Table 1, p. 2, row 2; `ORC-B3UBOFHLWK.c82748` |  |
+| Lattice a; _printed: a_ | 8.749 Å | 0 | sigma CrCrCrCrCr; _alloy: Cr 1_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 1; `ORC-TJDAAFC5ZY.0ce2e0` |  |
+| Lattice a | 2.885 Å | 298.15 | (Cr); _alloy: Cr 1_ | model | [6] Hu 2013; _cites Massalski 1996_ | Table 3, p. 4, row 2; `ORC-VU7TT46FJQ.6144ae` |  |
+| Lattice a | 2.8787 Å | 298.15 | BCC Cr | experimental | [5] Pavlů 2009; _cites Villars 1991_ | Table 1, p. 2, row 1; `ORC-7KJWLHDZBE.3184eb` |  |
+| Lattice a | 2.8848 Å | 298.15 | Cr; _Cr: Cr 1_ | unspecified | [7] Murray 1998; _cites ref. 2_ | Table 3, p. 5, row 9; `ORC-Z4D6J33AMK` |  |
+| Lattice a | 2.884 Å | 2179.95 (\<) | (Cr); _alloy: Cr 1_ | unspecified | [8] Cao 2013; _cites http://crystdb_ | Table 1, p. 2, row 4; `ORC-WXLLWDWLQX` |  |
+| Lattice c | 2.8548 Å |  | BCC Cr | unspecified | [5] Pavlů 2009 | Table 1, p. 2, row 2; `ORC-B3UBOFHLWK.83384b` |  |
+| Lattice c; _printed: c_ | 4.561 Å | 0 | sigma CrCrCrCrCr; _alloy: Cr 1_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 1; `ORC-TJDAAFC5ZY.c8916d` |  |
+| Lattice c | 2.8787 Å | 298.15 | BCC Cr | experimental | [5] Pavlů 2009; _cites Villars 1991_ | Table 1, p. 2, row 1; `ORC-7KJWLHDZBE.401a1e` |  |
+| lattice c a | 1 not_printed |  | BCC Cr | unspecified | [5] Pavlů 2009 | Table 1, p. 2, row 2; `ORC-B3UBOFHLWK.744b0f` |  |
+| lattice c a | 1 not_printed | 298.15 | BCC Cr | experimental | [5] Pavlů 2009; _cites Villars 1991_ | Table 1, p. 2, row 1; `ORC-7KJWLHDZBE.416200` |  |
+| lattice v atom | 1.16327 10^7 pm^3 |  | BCC Cr | unspecified | [5] Pavlů 2009 | Table 1, p. 2, row 2; `ORC-B3UBOFHLWK.1b81d9` |  |
+| lattice v atom | 1.19281 10^7 pm^3 | 298.15 | BCC Cr | experimental | [5] Pavlů 2009; _cites Villars 1991_ | Table 1, p. 2, row 1; `ORC-7KJWLHDZBE.85c41e` |  |
 
 ## Sources
 
@@ -134,4 +134,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

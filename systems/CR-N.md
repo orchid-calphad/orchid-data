@@ -49,10 +49,10 @@ Table: Enthalpies of formation, Cr–N system (4)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| CrN | [CrN](https://data.orchid-project.org/compounds/CrN.html) | -58.6 kJ/mol-atom |  | model | -66.723 (mp-aaacpjap) | -59.652 (oqmd-1229033) | [1] Frisk 1991; _cites Chase 1985_ | Table I, p. 6, row 6 |  |
-| CrN | [CrN](https://data.orchid-project.org/compounds/CrN.html) | -57.3 kJ/mol-atom |  | model | -66.723 (mp-aaacpjap) | -59.652 (oqmd-1229033) | [1] Frisk 1991 | Table I, p. 6, row 8 |  |
-| ε(Cr2N) | [Cr2N](https://data.orchid-project.org/compounds/Cr2N.html) | -43.1 kJ/mol-atom | 298.15 | model | -48.833 (mp-aaaaamzs) | -43.69 (oqmd-12301) | [1] Frisk 1991 | Table I, p. 6, row 7 |  |
-| ε(Cr2N) | [Cr2N](https://data.orchid-project.org/compounds/Cr2N.html) | 41.8 kJ/mol-atom | 298.15 | model | -48.833 (mp-aaaaamzs) | -43.69 (oqmd-12301) | [1] Frisk 1991; _cites Chase 1985_ | Table I, p. 6, row 5 |  |
+| CrN | [CrN](https://data.orchid-project.org/compounds/CrN.html) | -58.6 kJ/mol-atom |  | model | -66.723 (mp-aaacpjap) | -59.652 (oqmd-1229033) | [1] Frisk 1991; _cites Chase 1985_ | Table I, p. 6, row 6; `ORC-UEW4XK4I2V` |  |
+| CrN | [CrN](https://data.orchid-project.org/compounds/CrN.html) | -57.3 kJ/mol-atom |  | model | -66.723 (mp-aaacpjap) | -59.652 (oqmd-1229033) | [1] Frisk 1991 | Table I, p. 6, row 8; `ORC-JPD7Y6YZHI` |  |
+| ε(Cr2N) | [Cr2N](https://data.orchid-project.org/compounds/Cr2N.html) | -43.1 kJ/mol-atom | 298.15 | model | -48.833 (mp-aaaaamzs) | -43.69 (oqmd-12301) | [1] Frisk 1991 | Table I, p. 6, row 7; `ORC-X5DNFQO4Z2` |  |
+| ε(Cr2N) | [Cr2N](https://data.orchid-project.org/compounds/Cr2N.html) | 41.8 kJ/mol-atom | 298.15 | model | -48.833 (mp-aaaaamzs) | -43.69 (oqmd-12301) | [1] Frisk 1991; _cites Chase 1985_ | Table I, p. 6, row 5; `ORC-E4DHBOCKS5` |  |
 
 ## Other properties
 
@@ -62,8 +62,8 @@ Table: Formation, Cr–N system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy of formation; _printed: Entropy of Formation_ | -42.6 J/mol-atom/K | 298.15 | CrN; _alloy: N 0.5_ | model | [1] Frisk 1991 | Table I, p. 6, row 11 |  |
-| Entropy of formation; _printed: Entropy of Formation_ | -25.7 J/mol-atom/K | 298.15 | ε(Cr2N); _alloy: N 0.333333_ | model | [1] Frisk 1991 | Table I, p. 6, row 10 |  |
+| Entropy of formation; _printed: Entropy of Formation_ | -42.6 J/mol-atom/K | 298.15 | CrN; _alloy: N 0.5_ | model | [1] Frisk 1991 | Table I, p. 6, row 11; `ORC-LLLEMUND23` |  |
+| Entropy of formation; _printed: Entropy of Formation_ | -25.7 J/mol-atom/K | 298.15 | ε(Cr2N); _alloy: N 0.333333_ | model | [1] Frisk 1991 | Table I, p. 6, row 10; `ORC-XOXS4E4OI6` |  |
 
 ## Sources
 
@@ -128,4 +128,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

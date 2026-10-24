@@ -14,11 +14,11 @@ Table: Enthalpy of formation of Si4Y5 reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -93 kJ/mol-atom ± 5.5 | Y5Si4 | 298.15 | experimental |  | [Si–Y](https://data.orchid-project.org/systems/SI-Y.html) | [1] Xu 2019; _cites Polotskaya 1997_ [doi](https://doi.org/10.1007/bf02676225) | Table 2, p. 3, row 15 |  |
-| -81.222 kJ/mol-atom | Y5Si4 |  | model |  | [Si–Y](https://data.orchid-project.org/systems/SI-Y.html) | [1] Xu 2019; _cites Shukla 2009_ [doi](https://doi.org/10.3139/146.110003) | Table 2, p. 3, row 16 |  |
-| -76.67 kJ/mol-atom | Y5Si4 |  | model | CALPHAD | [Si–Y](https://data.orchid-project.org/systems/SI-Y.html) | [1] Xu 2019 | Table 3, p. 3, row 4 |  |
-| -65.15 kJ/mol-atom | Y5Si4 |  | model |  | [Si–Y](https://data.orchid-project.org/systems/SI-Y.html) | [1] Xu 2019; _cites Ran 1989_ | Table 2, p. 3, row 17 |  |
-| -75.09 kJ/mol-atom | Y5Si4 | 0 | DFT | First principles | [Si–Y](https://data.orchid-project.org/systems/SI-Y.html) | [1] Xu 2019 | Table 3, p. 3, row 3 |  |
+| -93 kJ/mol-atom ± 5.5 | Y5Si4 | 298.15 | experimental |  | [Si–Y](https://data.orchid-project.org/systems/SI-Y.html) | [1] Xu 2019; _cites Polotskaya 1997_ [doi](https://doi.org/10.1007/bf02676225) | Table 2, p. 3, row 15; `ORC-3KKWBH2XDZ.b64d86` |  |
+| -81.222 kJ/mol-atom | Y5Si4 |  | model |  | [Si–Y](https://data.orchid-project.org/systems/SI-Y.html) | [1] Xu 2019; _cites Shukla 2009_ [doi](https://doi.org/10.3139/146.110003) | Table 2, p. 3, row 16; `ORC-O4VSQBSGLF.2aea17` |  |
+| -76.67 kJ/mol-atom | Y5Si4 |  | model | CALPHAD | [Si–Y](https://data.orchid-project.org/systems/SI-Y.html) | [1] Xu 2019 | Table 3, p. 3, row 4; `ORC-ZR6D4A3ZJQ` |  |
+| -65.15 kJ/mol-atom | Y5Si4 |  | model |  | [Si–Y](https://data.orchid-project.org/systems/SI-Y.html) | [1] Xu 2019; _cites Ran 1989_ | Table 2, p. 3, row 17; `ORC-OFWJAMR2XL.124240` |  |
+| -75.09 kJ/mol-atom | Y5Si4 | 0 | DFT | First principles | [Si–Y](https://data.orchid-project.org/systems/SI-Y.html) | [1] Xu 2019 | Table 3, p. 3, row 3; `ORC-3F4IKD7X5A` |  |
 
 ### Uncertainty budget
 
@@ -98,4 +98,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

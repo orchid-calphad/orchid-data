@@ -106,25 +106,25 @@ Table: Invariant reactions reported in the literature for the Cu–La system (19
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1147 | liq.+f.c.c.(Cu)->Cu37La3 | L: La 0.0873; Cu37La3: La 0.075 | model | [1] Du 1999 | Table 2, p. 4, row 1 |  |
-| 1146 | liq.+f.c.c.(Cu)->Cu37La3 | L: La 0.088; Cu37La3: La 0.075 | experimental | [1] Du 1999; _cites Meyer-Liautaud 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990308-x) | Table 2, p. 4, row 2 |  |
-| 1138 | liq.->Cu6La+f.c.c.(Cu) | L: La 0.009; Cu6La: La 0.142857 | experimental | [1] Du 1999; _cites Cirafici 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990104-7) | Table 2, p. 4, row 5 |  |
-| 1137 | liq.->Cu6La+f.c.c.(Cu) | L: La 0.009; Cu6La: La 0.142857 | experimental | [1] Du 1999; _cites Meyer-Liautaud 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990308-x) | Table 2, p. 4, row 4 |  |
-| 1135 | liq.->Cu37La3+βCu6La | L: La 0.0963; Cu37La3: La 0.075; βCu6La: La 0.142857 | model | [1] Du 1999 | Table 2, p. 4, row 3 |  |
-| 1093 | Cu37La3->f.c.c.(Cu)+βCu6La | Cu37La3: La 0.075; βCu6La: La 0.142857 | experimental | [1] Du 1999; _cites Meyer-Liautaud 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990308-x) | Table 2, p. 4, row 7 |  |
-| 1093 | Cu37La3->f.c.c.(Cu)+βCu6La | Cu37La3: La 0.075; βCu6La: La 0.142857 | model | [1] Du 1999 | Table 2, p. 4, row 6 |  |
-| 1078 | liq.+Cu6La->Cu5La | L: La 0.218; Cu6La: La 0.142857; Cu5La: La 0.166667 | experimental | [1] Du 1999; _cites Cirafici 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990104-7) | Table 2, p. 4, row 15 |  |
-| 1073 | liq.+Cu6La->Cu5La | L: La 0.22; Cu6La: La 0.142857; Cu5La: La 0.166667 | experimental | [1] Du 1999; _cites Meyer-Liautaud 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990308-x) | Table 2, p. 4, row 14 |  |
-| 1073 | liq.+βCu6La->Cu5La | L: La 0.2175; βCu6La: La 0.142857; Cu5La: La 0.166667 | model | [1] Du 1999 | Table 2, p. 4, row 13 |  |
-| 1018 | liq.->Cu2La+Cu5La | L: La 0.245; Cu2La: La 0.333333; Cu5La: La 0.166667 | experimental | [1] Du 1999; _cites Cirafici 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990104-7) | Table 2, p. 4, row 20 |  |
-| 1016 | liq.+Cu5La->Cu4La | L: La 0.251; Cu5La: La 0.166667; Cu4La: La 0.2 | experimental | [1] Du 1999; _cites Meyer-Liautaud 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990308-x) | Table 2, p. 4, row 17 |  |
-| 1015 | liq.+Cu5La->Cu4La | L: La 0.2418; Cu5La: La 0.166667; Cu4La: La 0.2 | model | [1] Du 1999 | Table 2, p. 4, row 16 |  |
-| 1011 | liq.->Cu2La+Cu4La | L: La 0.2446; Cu2La: La 0.333333; Cu4La: La 0.2 | model | [1] Du 1999 | Table 2, p. 4, row 18 |  |
-| 1008 | liq.->Cu2La+Cu4La | L: La 0.255; Cu2La: La 0.333333; Cu4La: La 0.2 | experimental | [1] Du 1999; _cites Meyer-Liautaud 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990308-x) | Table 2, p. 4, row 19 |  |
-| 798 | liq.+Cu2La->CuLa | L: La 0.5909; Cu2La: La 0.333333; CuLa: La 0.5 | model | [1] Du 1999 | Table 2, p. 4, row 23 |  |
-| 798 | liq.+Cu2La->CuLa | L: La 0.6; Cu2La: La 0.333333; CuLa: La 0.5 | experimental | [1] Du 1999; _cites Cirafici 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990104-7) | Table 2, p. 4, row 24 |  |
-| 748 | liq.->CuLa+f.c.c.(La) | L: La 0.712; CuLa: La 0.5 | model | [1] Du 1999 | Table 2, p. 4, row 25 |  |
-| 748 | liq.->CuLa+f.c.c.(La) | L: La 0.71; CuLa: La 0.5 | experimental | [1] Du 1999; _cites Cirafici 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990104-7) | Table 2, p. 4, row 26 |  |
+| 1147 | liq.+f.c.c.(Cu)->Cu37La3 | L: La 0.0873; Cu37La3: La 0.075 | model | [1] Du 1999 | Table 2, p. 4, row 1; `ORC-B64FX5USEF` |  |
+| 1146 | liq.+f.c.c.(Cu)->Cu37La3 | L: La 0.088; Cu37La3: La 0.075 | experimental | [1] Du 1999; _cites Meyer-Liautaud 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990308-x) | Table 2, p. 4, row 2; `ORC-ZTHOHZL5YS` |  |
+| 1138 | liq.->Cu6La+f.c.c.(Cu) | L: La 0.009; Cu6La: La 0.142857 | experimental | [1] Du 1999; _cites Cirafici 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990104-7) | Table 2, p. 4, row 5; `ORC-4Y5W7XI6DU` |  |
+| 1137 | liq.->Cu6La+f.c.c.(Cu) | L: La 0.009; Cu6La: La 0.142857 | experimental | [1] Du 1999; _cites Meyer-Liautaud 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990308-x) | Table 2, p. 4, row 4; `ORC-WB3HMYGUFX` |  |
+| 1135 | liq.->Cu37La3+βCu6La | L: La 0.0963; Cu37La3: La 0.075; βCu6La: La 0.142857 | model | [1] Du 1999 | Table 2, p. 4, row 3; `ORC-FQTVUVC5IZ` |  |
+| 1093 | Cu37La3->f.c.c.(Cu)+βCu6La | Cu37La3: La 0.075; βCu6La: La 0.142857 | experimental | [1] Du 1999; _cites Meyer-Liautaud 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990308-x) | Table 2, p. 4, row 7; `ORC-DMUJXCANBC` |  |
+| 1093 | Cu37La3->f.c.c.(Cu)+βCu6La | Cu37La3: La 0.075; βCu6La: La 0.142857 | model | [1] Du 1999 | Table 2, p. 4, row 6; `ORC-MJLEJWTDM3` |  |
+| 1078 | liq.+Cu6La->Cu5La | L: La 0.218; Cu6La: La 0.142857; Cu5La: La 0.166667 | experimental | [1] Du 1999; _cites Cirafici 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990104-7) | Table 2, p. 4, row 15; `ORC-UKHSEQQDLO` |  |
+| 1073 | liq.+Cu6La->Cu5La | L: La 0.22; Cu6La: La 0.142857; Cu5La: La 0.166667 | experimental | [1] Du 1999; _cites Meyer-Liautaud 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990308-x) | Table 2, p. 4, row 14; `ORC-B2DTOT4RAV` |  |
+| 1073 | liq.+βCu6La->Cu5La | L: La 0.2175; βCu6La: La 0.142857; Cu5La: La 0.166667 | model | [1] Du 1999 | Table 2, p. 4, row 13; `ORC-G6OTAP4MY4` |  |
+| 1018 | liq.->Cu2La+Cu5La | L: La 0.245; Cu2La: La 0.333333; Cu5La: La 0.166667 | experimental | [1] Du 1999; _cites Cirafici 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990104-7) | Table 2, p. 4, row 20; `ORC-3Q4JZHC3BG` |  |
+| 1016 | liq.+Cu5La->Cu4La | L: La 0.251; Cu5La: La 0.166667; Cu4La: La 0.2 | experimental | [1] Du 1999; _cites Meyer-Liautaud 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990308-x) | Table 2, p. 4, row 17; `ORC-2OHSMM6M3D` |  |
+| 1015 | liq.+Cu5La->Cu4La | L: La 0.2418; Cu5La: La 0.166667; Cu4La: La 0.2 | model | [1] Du 1999 | Table 2, p. 4, row 16; `ORC-IB4GMMKTMQ` |  |
+| 1011 | liq.->Cu2La+Cu4La | L: La 0.2446; Cu2La: La 0.333333; Cu4La: La 0.2 | model | [1] Du 1999 | Table 2, p. 4, row 18; `ORC-5DWXLCYRIT` |  |
+| 1008 | liq.->Cu2La+Cu4La | L: La 0.255; Cu2La: La 0.333333; Cu4La: La 0.2 | experimental | [1] Du 1999; _cites Meyer-Liautaud 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990308-x) | Table 2, p. 4, row 19; `ORC-7QPOR5YGDL` |  |
+| 798 | liq.+Cu2La->CuLa | L: La 0.5909; Cu2La: La 0.333333; CuLa: La 0.5 | model | [1] Du 1999 | Table 2, p. 4, row 23; `ORC-5JC6ALTQ7J` |  |
+| 798 | liq.+Cu2La->CuLa | L: La 0.6; Cu2La: La 0.333333; CuLa: La 0.5 | experimental | [1] Du 1999; _cites Cirafici 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990104-7) | Table 2, p. 4, row 24; `ORC-LV5B26WHBP` |  |
+| 748 | liq.->CuLa+f.c.c.(La) | L: La 0.712; CuLa: La 0.5 | model | [1] Du 1999 | Table 2, p. 4, row 25; `ORC-BXQMNPA3Z4` |  |
+| 748 | liq.->CuLa+f.c.c.(La) | L: La 0.71; CuLa: La 0.5 | experimental | [1] Du 1999; _cites Cirafici 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990104-7) | Table 2, p. 4, row 26; `ORC-CD3BGC4MOK` |  |
 
 ## Other properties
 
@@ -134,15 +134,15 @@ Table: Phase transition, Cu–La system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 500 K | 500 | αCu6La->βCu6La; _αCu6La: La 0.142857; βCu6La: La 0.142857_ | model | [1] Du 1999 | Table 2, p. 4, row 11 |  |
-| Phase transition | 500 K | 500 | αCu6La->βCu6La; _αCu6La: La 0.142857; βCu6La: La 0.142857_ | experimental | [1] Du 1999; _cites Yamada 1987_ [doi](https://doi.org/10.1143/jpsj.56.3553) | Table 2, p. 4, row 12 |  |
-| Phase transition | 1102 K | 1102 | Cu2La | experimental | [1] Du 1999; _cites Qi 1989_ | p. 4 | “Fig. 6a and b presents the enthalpies and entropies of fusion of two compounds Cu 2 La and Cu 6 La at their melting temperature 1102 and 1194 K with the experimental data \[11-14\], respectively.” |
-| Phase transition | 1102 K | 1102 | liq.->Cu2La; _L: La 0.3333; Cu2La: La 0.333333_ | model | [1] Du 1999 | Table 2, p. 4, row 21 |  |
-| Phase transition | 1103 K | 1103 | liq.->Cu2La; _L: La 0.3333; Cu2La: La 0.333333_ | experimental | [1] Du 1999; _cites Cirafici 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990104-7) | Table 2, p. 4, row 22 |  |
-| Phase transition | 1178 K | 1178 | liq.->Cu6La; _L: La 0.1429; Cu6La: La 0.142857_ | experimental | [1] Du 1999; _cites Cirafici 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990104-7) | Table 2, p. 4, row 10 |  |
-| Phase transition | 1193 K | 1193 | liq.->Cu6La; _L: La 0.1429; Cu6La: La 0.142857_ | experimental | [1] Du 1999; _cites Meyer-Liautaud 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990308-x) | Table 2, p. 4, row 9 |  |
-| Phase transition | 1194 K | 1194 | Cu6La | experimental | [1] Du 1999; _cites Qi 1989_ | p. 4 | “Fig. 6a and b presents the enthalpies and entropies of fusion of two compounds Cu 2 La and Cu 6 La at their melting temperature 1102 and 1194 K with the experimental data \[11-14\], respectively.” |
-| Phase transition | 1194 K | 1194 | liq.->βCu6La; _L: La 0.1429; βCu6La: La 0.142857_ | model | [1] Du 1999 | Table 2, p. 4, row 8 |  |
+| Phase transition | 500 K | 500 | αCu6La->βCu6La; _αCu6La: La 0.142857; βCu6La: La 0.142857_ | model | [1] Du 1999 | Table 2, p. 4, row 11; `ORC-AVKMYG6Y3F` |  |
+| Phase transition | 500 K | 500 | αCu6La->βCu6La; _αCu6La: La 0.142857; βCu6La: La 0.142857_ | experimental | [1] Du 1999; _cites Yamada 1987_ [doi](https://doi.org/10.1143/jpsj.56.3553) | Table 2, p. 4, row 12; `ORC-R5BFMI2GFV` |  |
+| Phase transition | 1102 K | 1102 | Cu2La | experimental | [1] Du 1999; _cites Qi 1989_ | p. 4; `ORC-LMQXVTLAQE.2b8018` | “Fig. 6a and b presents the enthalpies and entropies of fusion of two compounds Cu 2 La and Cu 6 La at their melting temperature 1102 and 1194 K with the experimental data \[11-14\], respectively.” |
+| Phase transition | 1102 K | 1102 | liq.->Cu2La; _L: La 0.3333; Cu2La: La 0.333333_ | model | [1] Du 1999 | Table 2, p. 4, row 21; `ORC-UUDHCNMPIW` |  |
+| Phase transition | 1103 K | 1103 | liq.->Cu2La; _L: La 0.3333; Cu2La: La 0.333333_ | experimental | [1] Du 1999; _cites Cirafici 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990104-7) | Table 2, p. 4, row 22; `ORC-GZ2DDATDCA` |  |
+| Phase transition | 1178 K | 1178 | liq.->Cu6La; _L: La 0.1429; Cu6La: La 0.142857_ | experimental | [1] Du 1999; _cites Cirafici 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990104-7) | Table 2, p. 4, row 10; `ORC-5VTRAA6MUA` |  |
+| Phase transition | 1193 K | 1193 | liq.->Cu6La; _L: La 0.1429; Cu6La: La 0.142857_ | experimental | [1] Du 1999; _cites Meyer-Liautaud 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990308-x) | Table 2, p. 4, row 9; `ORC-C4FL427XF6` |  |
+| Phase transition | 1194 K | 1194 | Cu6La | experimental | [1] Du 1999; _cites Qi 1989_ | p. 4; `ORC-LMQXVTLAQE.03169b` | “Fig. 6a and b presents the enthalpies and entropies of fusion of two compounds Cu 2 La and Cu 6 La at their melting temperature 1102 and 1194 K with the experimental data \[11-14\], respectively.” |
+| Phase transition | 1194 K | 1194 | liq.->βCu6La; _L: La 0.1429; βCu6La: La 0.142857_ | model | [1] Du 1999 | Table 2, p. 4, row 8; `ORC-SEQYYPBNR2` |  |
 
 ### Crystal structure (12)
 
@@ -150,18 +150,18 @@ Table: Crystal structure, Cu–La system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 8.165 Å |  | β-LaCu6; _alloy: La 0.142857_ | unspecified | [2] An 2012 | Table 2, p. 5, row 23 |  |
-| Lattice a | 7.543 Å | 298.15 | LaCu; _alloy: La 0.5_ | unspecified | [2] An 2012 | Table 2, p. 5, row 16 |  |
-| Lattice a | 4.346 Å | 298.15 | LaCu2; _alloy: La 0.333333_ | unspecified | [2] An 2012 | Table 2, p. 5, row 17 |  |
-| Lattice a | 5.189 Å | 298.15 | LaCu5; _alloy: La 0.166667_ | unspecified | [2] An 2012 | Table 2, p. 5, row 19 |  |
-| Lattice a | 5.143 Å | 298.15 | α-LaCu6; _alloy: La 0.142857_ | unspecified | [2] An 2012 | Table 2, p. 5, row 18 |  |
-| Lattice a | 5.1467 Å | 298.15 | α-LaCu6; _alloy: La 0.142857_ | unspecified | [2] An 2012 | Table 2, p. 5, row 22 |  |
-| Lattice c | 10.23 Å |  | β-LaCu6; _alloy: La 0.142857_ | unspecified | [2] An 2012 | Table 2, p. 5, row 23 |  |
-| Lattice c | 5.724 Å | 298.15 | LaCu; _alloy: La 0.5_ | unspecified | [2] An 2012 | Table 2, p. 5, row 16 |  |
-| Lattice c | 3.807 Å | 298.15 | LaCu2; _alloy: La 0.333333_ | unspecified | [2] An 2012 | Table 2, p. 5, row 17 |  |
-| Lattice c | 4.107 Å | 298.15 | LaCu5; _alloy: La 0.166667_ | unspecified | [2] An 2012 | Table 2, p. 5, row 19 |  |
-| Lattice c | 8.144 Å | 298.15 | α-LaCu6; _alloy: La 0.142857_ | unspecified | [2] An 2012 | Table 2, p. 5, row 18 |  |
-| Lattice c | 8.146 Å | 298.15 | α-LaCu6; _alloy: La 0.142857_ | unspecified | [2] An 2012 | Table 2, p. 5, row 22 |  |
+| Lattice a | 8.165 Å |  | β-LaCu6; _alloy: La 0.142857_ | unspecified | [2] An 2012 | Table 2, p. 5, row 23; `ORC-7XX53RIUOG.d3d98a` |  |
+| Lattice a | 7.543 Å | 298.15 | LaCu; _alloy: La 0.5_ | unspecified | [2] An 2012 | Table 2, p. 5, row 16; `ORC-VOHOHJGSJP.6fbe6a` |  |
+| Lattice a | 4.346 Å | 298.15 | LaCu2; _alloy: La 0.333333_ | unspecified | [2] An 2012 | Table 2, p. 5, row 17; `ORC-AIYU6PMPDY.78e267` |  |
+| Lattice a | 5.189 Å | 298.15 | LaCu5; _alloy: La 0.166667_ | unspecified | [2] An 2012 | Table 2, p. 5, row 19; `ORC-DPILLA3VWW.df5fb0` |  |
+| Lattice a | 5.143 Å | 298.15 | α-LaCu6; _alloy: La 0.142857_ | unspecified | [2] An 2012 | Table 2, p. 5, row 18; `ORC-V4FFAYWTEB.20b5a5` |  |
+| Lattice a | 5.1467 Å | 298.15 | α-LaCu6; _alloy: La 0.142857_ | unspecified | [2] An 2012 | Table 2, p. 5, row 22; `ORC-Y7X6SAMFWQ.ed1b0d` |  |
+| Lattice c | 10.23 Å |  | β-LaCu6; _alloy: La 0.142857_ | unspecified | [2] An 2012 | Table 2, p. 5, row 23; `ORC-7XX53RIUOG.248a76` |  |
+| Lattice c | 5.724 Å | 298.15 | LaCu; _alloy: La 0.5_ | unspecified | [2] An 2012 | Table 2, p. 5, row 16; `ORC-VOHOHJGSJP.f6b154` |  |
+| Lattice c | 3.807 Å | 298.15 | LaCu2; _alloy: La 0.333333_ | unspecified | [2] An 2012 | Table 2, p. 5, row 17; `ORC-AIYU6PMPDY.ef98f8` |  |
+| Lattice c | 4.107 Å | 298.15 | LaCu5; _alloy: La 0.166667_ | unspecified | [2] An 2012 | Table 2, p. 5, row 19; `ORC-DPILLA3VWW.8c7038` |  |
+| Lattice c | 8.144 Å | 298.15 | α-LaCu6; _alloy: La 0.142857_ | unspecified | [2] An 2012 | Table 2, p. 5, row 18; `ORC-V4FFAYWTEB.d3943a` |  |
+| Lattice c | 8.146 Å | 298.15 | α-LaCu6; _alloy: La 0.142857_ | unspecified | [2] An 2012 | Table 2, p. 5, row 22; `ORC-Y7X6SAMFWQ.2c054e` |  |
 
 ## Sources
 
@@ -227,4 +227,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

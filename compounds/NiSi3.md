@@ -14,10 +14,10 @@ Table: Enthalpy of formation of NiSi3 reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -8.61 kJ/mol-atom | NiSi3–L12 | 0 | model | CALPHAD | [Ni–Si](https://data.orchid-project.org/systems/NI-SI.html) | [1] Yuan 2012; _cites Du 1999_ [doi](https://doi.org/10.1007/s11661-999-0249-8) | Table 2, p. 4, row 10 |  |
-| 22.867 kJ/mol-atom | NiSi3–L12 | 0 | model | FP | [Ni–Si](https://data.orchid-project.org/systems/NI-SI.html) | [1] Yuan 2012; _cites Connetable 2011_ [doi](https://doi.org/10.1016/j.jallcom.2010.10.118) | Table 1, p. 4, row 9 |  |
-| 20.6 kJ/mol-atom | Si3Ni(L12) | 0 | DFT | Ab initio | [Ni–Si](https://data.orchid-project.org/systems/NI-SI.html) | [2] Tokunaga 2004; _cites Tokunaga 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900049-x) | Table 2, p. 3, row 5 |  |
-| 22.881 kJ/mol-atom | NiSi3–L12 | 0 | unspecified | FP | [Ni–Si](https://data.orchid-project.org/systems/NI-SI.html) | [1] Yuan 2012 | Table 1, p. 4, row 8 |  |
+| -8.61 kJ/mol-atom | NiSi3–L12 | 0 | model | CALPHAD | [Ni–Si](https://data.orchid-project.org/systems/NI-SI.html) | [1] Yuan 2012; _cites Du 1999_ [doi](https://doi.org/10.1007/s11661-999-0249-8) | Table 2, p. 4, row 10; `ORC-CRSOXW3NYP` |  |
+| 22.867 kJ/mol-atom | NiSi3–L12 | 0 | model | FP | [Ni–Si](https://data.orchid-project.org/systems/NI-SI.html) | [1] Yuan 2012; _cites Connetable 2011_ [doi](https://doi.org/10.1016/j.jallcom.2010.10.118) | Table 1, p. 4, row 9; `ORC-5I3O2KIKI2` |  |
+| 20.6 kJ/mol-atom | Si3Ni(L12) | 0 | DFT | Ab initio | [Ni–Si](https://data.orchid-project.org/systems/NI-SI.html) | [2] Tokunaga 2004; _cites Tokunaga 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900049-x) | Table 2, p. 3, row 5; `ORC-XDWJDYUZTW.10c24e` |  |
+| 22.881 kJ/mol-atom | NiSi3–L12 | 0 | unspecified | FP | [Ni–Si](https://data.orchid-project.org/systems/NI-SI.html) | [1] Yuan 2012 | Table 1, p. 4, row 8; `ORC-4T6VX6QXBT` |  |
 
 ### Uncertainty budget
 
@@ -96,4 +96,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

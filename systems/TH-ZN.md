@@ -55,23 +55,23 @@ Table: Invariant reactions reported in the literature for the Th–Zn system (17
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1633.15 | metatectic/catatectic: βTh ↔ αTh + L | βTh: Zn 0; αTh: Zn 0 | experimental | [1] Li 2010; _cites Okamoto 2000_ | Table 5, p. 5, row 1 |  |
-| 1631.65 | metatectic/catatectic: βTh ↔ αTh + L | βTh: Zn 0.0022; αTh: Zn 0.002; L: Zn 0.148 | model | [1] Li 2010 | Table 5, p. 5, row 2 |  |
-| 1318.15 | eutectic: L M ThZn4+ Th2Zn17 |  | experimental | [1] Li 2010 | p. 3 | “Five eutectic reactions of the L M aTh + Th2Zn, L M ThZn2+ ThZn4, L M ThZn4+ Th2Zn17, L M Th2Zn + ThZn2 and L M Th2Zn17 + Zn exist in this system with the following eutectic temperatures and Zn atom percentages: 1040 °C and 30.5 at.% Zn, 945 °C and 48.6 at.% Zn, 1045 °C and 74.4 at.% Zn, 995 °C and 86.8 at.% Zn, 419.58 °C and 0 at.% Zn.” |
-| 1318.15 | eutectic: L ↔ ThZn2 + ThZn4 | L: Zn 0.744; ThZn2: Zn 0.667; ThZn4: Zn 0.8 | experimental | [1] Li 2010; _cites Okamoto 2000_ | Table 5, p. 5, row 5 |  |
-| 1317.15 | eutectic: L ↔ αTh + Th2Zn | L: Zn 0.281; αTh: Zn 0.0014; Th2Zn: Zn 0.333 | model | [1] Li 2010 | Table 5, p. 5, row 4 |  |
-| 1314.15 | eutectic: L ↔ ThZn2 + ThZn4 | L: Zn 0.74; ThZn2: Zn 0.667; ThZn4: Zn 0.8 | model | [1] Li 2010 | Table 5, p. 5, row 6 |  |
-| 1313.15 | eutectic: L M aTh + Th2Zn |  | experimental | [1] Li 2010 | p. 3 | “Five eutectic reactions of the L M aTh + Th2Zn, L M ThZn2+ ThZn4, L M ThZn4+ Th2Zn17, L M Th2Zn + ThZn2 and L M Th2Zn17 + Zn exist in this system with the following eutectic temperatures and Zn atom percentages: 1040 °C and 30.5 at.% Zn, 945 °C and 48.6 at.% Zn, 1045 °C and 74.4 at.% Zn, 995 °C and 86.8 at.% Zn, 419.58 °C and 0 at.% Zn.” |
-| 1313.15 | eutectic: L ↔ αTh + Th2Zn | L: Zn 0.305; αTh: Zn 0; Th2Zn: Zn 0.333 | experimental | [1] Li 2010; _cites Okamoto 2000_ | Table 5, p. 5, row 3 |  |
-| 1272.15 | eutectic: L ↔ ThZn4 + Th2Zn17 | L: Zn 0.867; ThZn4: Zn 0.8; Th2Zn17: Zn 0.895 | model | [1] Li 2010 | Table 5, p. 5, row 8 |  |
-| 1268.15 | eutectic: L M Th2Zn + ThZn2 |  | experimental | [1] Li 2010 | p. 3 | “Five eutectic reactions of the L M aTh + Th2Zn, L M ThZn2+ ThZn4, L M ThZn4+ Th2Zn17, L M Th2Zn + ThZn2 and L M Th2Zn17 + Zn exist in this system with the following eutectic temperatures and Zn atom percentages: 1040 °C and 30.5 at.% Zn, 945 °C and 48.6 at.% Zn, 1045 °C and 74.4 at.% Zn, 995 °C and 86.8 at.% Zn, 419.58 °C and 0 at.% Zn.” |
-| 1268.15 | eutectic: L ↔ ThZn4 + Th2Zn17 | L: Zn 0.868; ThZn4: Zn 0.8; Th2Zn17: Zn 0.895 | experimental | [1] Li 2010; _cites Okamoto 2000_ | Table 5, p. 5, row 7 |  |
-| 1218.15 | eutectic: L ↔ Th2Zn + ThZn2 | L: Zn 0.486; Th2Zn: Zn 0.333; ThZn2: Zn 0.667 | experimental | [1] Li 2010; _cites Okamoto 2000_ | Table 5, p. 5, row 9 |  |
-| 1218.15 | eutectic: L M ThZn2+ ThZn4 |  | experimental | [1] Li 2010 | p. 3 | “Five eutectic reactions of the L M aTh + Th2Zn, L M ThZn2+ ThZn4, L M ThZn4+ Th2Zn17, L M Th2Zn + ThZn2 and L M Th2Zn17 + Zn exist in this system with the following eutectic temperatures and Zn atom percentages: 1040 °C and 30.5 at.% Zn, 945 °C and 48.6 at.% Zn, 1045 °C and 74.4 at.% Zn, 995 °C and 86.8 at.% Zn, 419.58 °C and 0 at.% Zn.” |
-| 1218.15 | eutectic: L ↔ Th2Zn + ThZn2 | L: Zn 0.499; Th2Zn: Zn 0.333; ThZn2: Zn 0.667 | model | [1] Li 2010 | Table 5, p. 5, row 10 |  |
-| 692.73 | eutectic: L M Th2Zn17 + Zn |  | experimental | [1] Li 2010 | p. 3 | “Five eutectic reactions of the L M aTh + Th2Zn, L M ThZn2+ ThZn4, L M ThZn4+ Th2Zn17, L M Th2Zn + ThZn2 and L M Th2Zn17 + Zn exist in this system with the following eutectic temperatures and Zn atom percentages: 1040 °C and 30.5 at.% Zn, 945 °C and 48.6 at.% Zn, 1045 °C and 74.4 at.% Zn, 995 °C and 86.8 at.% Zn, 419.58 °C and 0 at.% Zn.” |
-| 692.73 | eutectic: L ↔ Th2Zn17 + (Zn) | L: Zn 1; Th2Zn17: Zn 0.895; (Zn): Zn 1 | experimental | [1] Li 2010; _cites Okamoto 2000_ | Table 5, p. 5, row 11 |  |
-| 692.67 | eutectic: L ↔ Th2Zn17 + (Zn) | L: Zn 1; Th2Zn17: Zn 0.895; (Zn): Zn 1 | model | [1] Li 2010 | Table 5, p. 5, row 12 |  |
+| 1633.15 | metatectic/catatectic: βTh ↔ αTh + L | βTh: Zn 0; αTh: Zn 0 | experimental | [1] Li 2010; _cites Okamoto 2000_ | Table 5, p. 5, row 1; `ORC-R6WD6A7N4Z` |  |
+| 1631.65 | metatectic/catatectic: βTh ↔ αTh + L | βTh: Zn 0.0022; αTh: Zn 0.002; L: Zn 0.148 | model | [1] Li 2010 | Table 5, p. 5, row 2; `ORC-SWE37Y727D` |  |
+| 1318.15 | eutectic: L M ThZn4+ Th2Zn17 |  | experimental | [1] Li 2010 | p. 3; `ORC-FT7MNS6HTF.b645aa` | “Five eutectic reactions of the L M aTh + Th2Zn, L M ThZn2+ ThZn4, L M ThZn4+ Th2Zn17, L M Th2Zn + ThZn2 and L M Th2Zn17 + Zn exist in this system with the following eutectic temperatures and Zn atom percentages: 1040 °C and 30.5 at.% Zn, 945 °C and 48.6 at.% Zn, 1045 °C and 74.4 at.% Zn, 995 °C and 86.8 at.% Zn, 419.58 °C and 0 at.% Zn.” |
+| 1318.15 | eutectic: L ↔ ThZn2 + ThZn4 | L: Zn 0.744; ThZn2: Zn 0.667; ThZn4: Zn 0.8 | experimental | [1] Li 2010; _cites Okamoto 2000_ | Table 5, p. 5, row 5; `ORC-P2YUPH3MFA` |  |
+| 1317.15 | eutectic: L ↔ αTh + Th2Zn | L: Zn 0.281; αTh: Zn 0.0014; Th2Zn: Zn 0.333 | model | [1] Li 2010 | Table 5, p. 5, row 4; `ORC-J6AUAHCLVA` |  |
+| 1314.15 | eutectic: L ↔ ThZn2 + ThZn4 | L: Zn 0.74; ThZn2: Zn 0.667; ThZn4: Zn 0.8 | model | [1] Li 2010 | Table 5, p. 5, row 6; `ORC-OHF7AWRJAW` |  |
+| 1313.15 | eutectic: L M aTh + Th2Zn |  | experimental | [1] Li 2010 | p. 3; `ORC-FT7MNS6HTF.0a9473` | “Five eutectic reactions of the L M aTh + Th2Zn, L M ThZn2+ ThZn4, L M ThZn4+ Th2Zn17, L M Th2Zn + ThZn2 and L M Th2Zn17 + Zn exist in this system with the following eutectic temperatures and Zn atom percentages: 1040 °C and 30.5 at.% Zn, 945 °C and 48.6 at.% Zn, 1045 °C and 74.4 at.% Zn, 995 °C and 86.8 at.% Zn, 419.58 °C and 0 at.% Zn.” |
+| 1313.15 | eutectic: L ↔ αTh + Th2Zn | L: Zn 0.305; αTh: Zn 0; Th2Zn: Zn 0.333 | experimental | [1] Li 2010; _cites Okamoto 2000_ | Table 5, p. 5, row 3; `ORC-LEFJKJZUMH` |  |
+| 1272.15 | eutectic: L ↔ ThZn4 + Th2Zn17 | L: Zn 0.867; ThZn4: Zn 0.8; Th2Zn17: Zn 0.895 | model | [1] Li 2010 | Table 5, p. 5, row 8; `ORC-7JWQ46HZL4` |  |
+| 1268.15 | eutectic: L M Th2Zn + ThZn2 |  | experimental | [1] Li 2010 | p. 3; `ORC-FT7MNS6HTF.efd887` | “Five eutectic reactions of the L M aTh + Th2Zn, L M ThZn2+ ThZn4, L M ThZn4+ Th2Zn17, L M Th2Zn + ThZn2 and L M Th2Zn17 + Zn exist in this system with the following eutectic temperatures and Zn atom percentages: 1040 °C and 30.5 at.% Zn, 945 °C and 48.6 at.% Zn, 1045 °C and 74.4 at.% Zn, 995 °C and 86.8 at.% Zn, 419.58 °C and 0 at.% Zn.” |
+| 1268.15 | eutectic: L ↔ ThZn4 + Th2Zn17 | L: Zn 0.868; ThZn4: Zn 0.8; Th2Zn17: Zn 0.895 | experimental | [1] Li 2010; _cites Okamoto 2000_ | Table 5, p. 5, row 7; `ORC-XCO2JBLDXC` |  |
+| 1218.15 | eutectic: L ↔ Th2Zn + ThZn2 | L: Zn 0.486; Th2Zn: Zn 0.333; ThZn2: Zn 0.667 | experimental | [1] Li 2010; _cites Okamoto 2000_ | Table 5, p. 5, row 9; `ORC-3S4T4SOGL5` |  |
+| 1218.15 | eutectic: L M ThZn2+ ThZn4 |  | experimental | [1] Li 2010 | p. 3; `ORC-FT7MNS6HTF.7753c8` | “Five eutectic reactions of the L M aTh + Th2Zn, L M ThZn2+ ThZn4, L M ThZn4+ Th2Zn17, L M Th2Zn + ThZn2 and L M Th2Zn17 + Zn exist in this system with the following eutectic temperatures and Zn atom percentages: 1040 °C and 30.5 at.% Zn, 945 °C and 48.6 at.% Zn, 1045 °C and 74.4 at.% Zn, 995 °C and 86.8 at.% Zn, 419.58 °C and 0 at.% Zn.” |
+| 1218.15 | eutectic: L ↔ Th2Zn + ThZn2 | L: Zn 0.499; Th2Zn: Zn 0.333; ThZn2: Zn 0.667 | model | [1] Li 2010 | Table 5, p. 5, row 10; `ORC-QMJSVSJ7KC` |  |
+| 692.73 | eutectic: L M Th2Zn17 + Zn |  | experimental | [1] Li 2010 | p. 3; `ORC-FT7MNS6HTF.90d595` | “Five eutectic reactions of the L M aTh + Th2Zn, L M ThZn2+ ThZn4, L M ThZn4+ Th2Zn17, L M Th2Zn + ThZn2 and L M Th2Zn17 + Zn exist in this system with the following eutectic temperatures and Zn atom percentages: 1040 °C and 30.5 at.% Zn, 945 °C and 48.6 at.% Zn, 1045 °C and 74.4 at.% Zn, 995 °C and 86.8 at.% Zn, 419.58 °C and 0 at.% Zn.” |
+| 692.73 | eutectic: L ↔ Th2Zn17 + (Zn) | L: Zn 1; Th2Zn17: Zn 0.895; (Zn): Zn 1 | experimental | [1] Li 2010; _cites Okamoto 2000_ | Table 5, p. 5, row 11; `ORC-LY56RUN6DT` |  |
+| 692.67 | eutectic: L ↔ Th2Zn17 + (Zn) | L: Zn 1; Th2Zn17: Zn 0.895; (Zn): Zn 1 | model | [1] Li 2010 | Table 5, p. 5, row 12; `ORC-BBRGVZNYB3` |  |
 
 ## Other properties
 
@@ -81,18 +81,18 @@ Table: Phase transition, Th–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1287.15 K | 1287.15 | congruent melting: L ↔ Th2Zn17; _L: Zn 0.895; Th2Zn17: Zn 0.895_ | model | [1] Li 2010 | Table 5, p. 5, row 20 |  |
-| Phase transition | 1288.15 K | 1288.15 | Th2Zn17 | experimental | [1] Li 2010 | p. 3 | “and vapor pressure method, and found that the melting points of these compounds (Th2Zn, ThZn2, ThZn4 and Th2Zn17) under constrained vapor conditions were 1055 °C, 1105 °C, 1095 °C and 1015 °C, respectively.” |
-| Phase transition | 1288.15 K | 1288.15 | congruent melting: L ↔ Th2Zn17; _L: Zn 0.895; Th2Zn17: Zn 0.895_ | experimental | [1] Li 2010; _cites Okamoto 2000_ | Table 5, p. 5, row 19 |  |
-| Phase transition | 1325.15 K | 1325.15 | congruent melting: L ↔ Th2Zn; _L: Zn 0.333; Th2Zn: Zn 0.333_ | model | [1] Li 2010 | Table 5, p. 5, row 14 |  |
-| Phase transition | 1328.15 K | 1328.15 | Th2Zn | experimental | [1] Li 2010 | p. 3 | “and vapor pressure method, and found that the melting points of these compounds (Th2Zn, ThZn2, ThZn4 and Th2Zn17) under constrained vapor conditions were 1055 °C, 1105 °C, 1095 °C and 1015 °C, respectively.” |
-| Phase transition | 1328.15 K | 1328.15 | congruent melting: L ↔ Th2Zn; _L: Zn 0.333; Th2Zn: Zn 0.333_ | experimental | [1] Li 2010; _cites Okamoto 2000_ | Table 5, p. 5, row 13 |  |
-| Phase transition | 1368.15 K | 1368.15 | ThZn4 | experimental | [1] Li 2010 | p. 3 | “and vapor pressure method, and found that the melting points of these compounds (Th2Zn, ThZn2, ThZn4 and Th2Zn17) under constrained vapor conditions were 1055 °C, 1105 °C, 1095 °C and 1015 °C, respectively.” |
-| Phase transition | 1368.15 K | 1368.15 | congruent melting: L ↔ ThZn4; _L: Zn 0.8; ThZn4: Zn 0.8_ | experimental | [1] Li 2010; _cites Okamoto 2000_ | Table 5, p. 5, row 17 |  |
-| Phase transition | 1371.15 K | 1371.15 | congruent melting: L ↔ ThZn4; _L: Zn 0.8; ThZn4: Zn 0.8_ | model | [1] Li 2010 | Table 5, p. 5, row 18 |  |
-| Phase transition | 1378.15 K | 1378.15 | ThZn2 | experimental | [1] Li 2010 | p. 3 | “and vapor pressure method, and found that the melting points of these compounds (Th2Zn, ThZn2, ThZn4 and Th2Zn17) under constrained vapor conditions were 1055 °C, 1105 °C, 1095 °C and 1015 °C, respectively.” |
-| Phase transition | 1378.15 K | 1378.15 | congruent melting: L ↔ ThZn2; _L: Zn 0.667; ThZn2: Zn 0.667_ | experimental | [1] Li 2010; _cites Okamoto 2000_ | Table 5, p. 5, row 15 |  |
-| Phase transition | 1378.15 K | 1378.15 | congruent melting: L ↔ ThZn2; _L: Zn 0.667; ThZn2: Zn 0.667_ | model | [1] Li 2010 | Table 5, p. 5, row 16 |  |
+| Phase transition | 1287.15 K | 1287.15 | congruent melting: L ↔ Th2Zn17; _L: Zn 0.895; Th2Zn17: Zn 0.895_ | model | [1] Li 2010 | Table 5, p. 5, row 20; `ORC-OGY26RIX7Q` |  |
+| Phase transition | 1288.15 K | 1288.15 | Th2Zn17 | experimental | [1] Li 2010 | p. 3; `ORC-M4L3FRY6J2.1fe39d` | “and vapor pressure method, and found that the melting points of these compounds (Th2Zn, ThZn2, ThZn4 and Th2Zn17) under constrained vapor conditions were 1055 °C, 1105 °C, 1095 °C and 1015 °C, respectively.” |
+| Phase transition | 1288.15 K | 1288.15 | congruent melting: L ↔ Th2Zn17; _L: Zn 0.895; Th2Zn17: Zn 0.895_ | experimental | [1] Li 2010; _cites Okamoto 2000_ | Table 5, p. 5, row 19; `ORC-JM3VFHLSE6` |  |
+| Phase transition | 1325.15 K | 1325.15 | congruent melting: L ↔ Th2Zn; _L: Zn 0.333; Th2Zn: Zn 0.333_ | model | [1] Li 2010 | Table 5, p. 5, row 14; `ORC-EHWSJCBEQR` |  |
+| Phase transition | 1328.15 K | 1328.15 | Th2Zn | experimental | [1] Li 2010 | p. 3; `ORC-M4L3FRY6J2.0568a7` | “and vapor pressure method, and found that the melting points of these compounds (Th2Zn, ThZn2, ThZn4 and Th2Zn17) under constrained vapor conditions were 1055 °C, 1105 °C, 1095 °C and 1015 °C, respectively.” |
+| Phase transition | 1328.15 K | 1328.15 | congruent melting: L ↔ Th2Zn; _L: Zn 0.333; Th2Zn: Zn 0.333_ | experimental | [1] Li 2010; _cites Okamoto 2000_ | Table 5, p. 5, row 13; `ORC-DPETP37WBP` |  |
+| Phase transition | 1368.15 K | 1368.15 | ThZn4 | experimental | [1] Li 2010 | p. 3; `ORC-M4L3FRY6J2.05918b` | “and vapor pressure method, and found that the melting points of these compounds (Th2Zn, ThZn2, ThZn4 and Th2Zn17) under constrained vapor conditions were 1055 °C, 1105 °C, 1095 °C and 1015 °C, respectively.” |
+| Phase transition | 1368.15 K | 1368.15 | congruent melting: L ↔ ThZn4; _L: Zn 0.8; ThZn4: Zn 0.8_ | experimental | [1] Li 2010; _cites Okamoto 2000_ | Table 5, p. 5, row 17; `ORC-X5KN3DHDMR` |  |
+| Phase transition | 1371.15 K | 1371.15 | congruent melting: L ↔ ThZn4; _L: Zn 0.8; ThZn4: Zn 0.8_ | model | [1] Li 2010 | Table 5, p. 5, row 18; `ORC-R7XMZFNNCE` |  |
+| Phase transition | 1378.15 K | 1378.15 | ThZn2 | experimental | [1] Li 2010 | p. 3; `ORC-M4L3FRY6J2.a4daea` | “and vapor pressure method, and found that the melting points of these compounds (Th2Zn, ThZn2, ThZn4 and Th2Zn17) under constrained vapor conditions were 1055 °C, 1105 °C, 1095 °C and 1015 °C, respectively.” |
+| Phase transition | 1378.15 K | 1378.15 | congruent melting: L ↔ ThZn2; _L: Zn 0.667; ThZn2: Zn 0.667_ | experimental | [1] Li 2010; _cites Okamoto 2000_ | Table 5, p. 5, row 15; `ORC-SN56SGEWHZ` |  |
+| Phase transition | 1378.15 K | 1378.15 | congruent melting: L ↔ ThZn2; _L: Zn 0.667; ThZn2: Zn 0.667_ | model | [1] Li 2010 | Table 5, p. 5, row 16; `ORC-VOM72MNU4O` |  |
 
 ## Sources
 
@@ -157,4 +157,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

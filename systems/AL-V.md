@@ -160,12 +160,12 @@ Table: Invariant reactions reported in the literature for the Al–V system (6)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1932.7 | peritectic: Liquid + bcc-A2 -> Al8V5 | bcc-A2: V 0.471; Al8V5: V 0.384; Liquid: V 0.376 | unspecified | [1] Hämäläinen 1998 | Table I, p. 112, row 6 |  |
-| 1640.1 | peritectic: Liquid + Al8V5 -> AlM-D0\*22 | Al8V5: V 0.384; AlM-D0\*22: V 0.25; Liquid: V 0.167 | unspecified | [1] Hämäläinen 1998 | Table I, p. 112, row 5 |  |
-| 1007.3 | peritectic: Liquid + AlM-D0\*22 -> Al23V4 | AlM-D0\*22: V 0.25; Al23V4: V 0.148; Liquid: V 0.003 | unspecified | [1] Hämäläinen 1998 | Table I, p. 112, row 1 |  |
-| 969 | peritectic: Liquid + Al23V4 -> Al7V | Al23V4: V 0.148; Al7V: V 0.125; Liquid: V 0.002 | unspecified | [1] Hämäläinen 1998 | Table I, p. 112, row 2 |  |
-| 945.2 | peritectic: Liquid + Al7V -> Al10V | Al7V: V 0.125; Al10V: V 0.091; Liquid: V 0.001 | unspecified | [1] Hämäläinen 1998 | Table I, p. 112, row 3 |  |
-| 935.3 | peritectic: Liquid + Al10V -> fcc-Al | Al10V: V 0.091; fcc-Al: V 0.001; Liquid: V 0 | unspecified | [1] Hämäläinen 1998 | Table I, p. 112, row 4 |  |
+| 1932.7 | peritectic: Liquid + bcc-A2 -> Al8V5 | bcc-A2: V 0.471; Al8V5: V 0.384; Liquid: V 0.376 | unspecified | [1] Hämäläinen 1998 | Table I, p. 112, row 6; `ORC-MV7TR6QIPZ` |  |
+| 1640.1 | peritectic: Liquid + Al8V5 -> AlM-D0\*22 | Al8V5: V 0.384; AlM-D0\*22: V 0.25; Liquid: V 0.167 | unspecified | [1] Hämäläinen 1998 | Table I, p. 112, row 5; `ORC-C2NWLRIUQG` |  |
+| 1007.3 | peritectic: Liquid + AlM-D0\*22 -> Al23V4 | AlM-D0\*22: V 0.25; Al23V4: V 0.148; Liquid: V 0.003 | unspecified | [1] Hämäläinen 1998 | Table I, p. 112, row 1; `ORC-ZVUWTSOIGH` |  |
+| 969 | peritectic: Liquid + Al23V4 -> Al7V | Al23V4: V 0.148; Al7V: V 0.125; Liquid: V 0.002 | unspecified | [1] Hämäläinen 1998 | Table I, p. 112, row 2; `ORC-TV2ECWDGTT` |  |
+| 945.2 | peritectic: Liquid + Al7V -> Al10V | Al7V: V 0.125; Al10V: V 0.091; Liquid: V 0.001 | unspecified | [1] Hämäläinen 1998 | Table I, p. 112, row 3; `ORC-OFXA2PC3VC` |  |
+| 935.3 | peritectic: Liquid + Al10V -> fcc-Al | Al10V: V 0.091; fcc-Al: V 0.001; Liquid: V 0 | unspecified | [1] Hämäläinen 1998 | Table I, p. 112, row 4; `ORC-STKOBJPAXW` |  |
 
 ## Formation enthalpies
 
@@ -175,23 +175,23 @@ Table: Enthalpies of formation, Al–V system (17)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Al3V | [Al3V](https://data.orchid-project.org/compounds/Al3V.html) | -27.8 kJ/mol-atom | 298.15 | experimental | -27.874 (mp-aaaaadug) | -27.24 (oqmd-10604) | [2] Luo 2018; _cites Meschel 1994_ | Table 3, p. 5, row 13 |  |
-| Al3V |  | -26.91 kJ/mol-atom |  | DFT |  |  | [2] Luo 2018; _cites ref. 21_ | Table 3, p. 5, row 12 |  |
-| Al3V | [Al3V](https://data.orchid-project.org/compounds/Al3V.html) | 1.194 kJ/mol-atom |  | model | -27.874 (mp-aaaaadug) | -27.24 (oqmd-10604) | [2] Luo 2018 | Table 3, p. 5, row 14 |  |
-| Al45V7 |  | -13.94 kJ/mol-atom |  | DFT |  |  | [2] Luo 2018; _cites ref. 21_ | Table 3, p. 5, row 1 |  |
-| Al45V7 | [Al45V7](https://data.orchid-project.org/compounds/Al45V7.html) | -12.9 kJ/mol-atom |  | model | -14.721 (mp-aaabgidb) | -14.588 (oqmd-54964) | [2] Luo 2018; _cites Gong 2004_ [doi](https://doi.org/10.3139/146.018057) | Table 3, p. 5, row 2 |  |
-| Al45V7 | [Al45V7](https://data.orchid-project.org/compounds/Al45V7.html) | 3.4272 kJ/mol-atom |  | model | -14.721 (mp-aaabgidb) | -14.588 (oqmd-54964) | [2] Luo 2018 | Table 3, p. 5, row 3 |  |
-| Al8V5 | [Al8V5](https://data.orchid-project.org/compounds/Al8V5.html) | -34 kJ/mol-atom | 298.15 | experimental | -21.333 (mp-aaacrxsd) | -6.349 (oqmd-1486473) | [2] Luo 2018; _cites Meschel 1994_ | Table 3, p. 5, row 7 |  |
-| Al8V5 | [Al8V5](https://data.orchid-project.org/compounds/Al8V5.html) | -22.557 kJ/mol-atom |  | model | -21.333 (mp-aaacrxsd) | -6.349 (oqmd-1486473) | [2] Luo 2018 | Table 3, p. 5, row 10 |  |
-| Al8V5 | [Al8V5](https://data.orchid-project.org/compounds/Al8V5.html) | -20.269 kJ/mol-atom |  | model | -21.333 (mp-aaacrxsd) | -6.349 (oqmd-1486473) | [2] Luo 2018 | Table 3, p. 5, row 11 |  |
-| Al8V5 |  | -19.39 kJ/mol-atom |  | DFT |  |  | [2] Luo 2018; _cites ref. 21_ | Table 3, p. 5, row 5 |  |
-| Al8V5 | [Al8V5](https://data.orchid-project.org/compounds/Al8V5.html) | -19.03 kJ/mol-atom |  | model | -21.333 (mp-aaacrxsd) | -6.349 (oqmd-1486473) | [2] Luo 2018 | Table 3, p. 5, row 9 |  |
-| Al8V5 |  | -18.19 kJ/mol-atom |  | DFT |  |  | [2] Luo 2018; _cites ref. 21_ | Table 3, p. 5, row 6 |  |
-| Al8V5 |  | -18.18 kJ/mol-atom |  | DFT |  |  | [2] Luo 2018; _cites ref. 21_ | Table 3, p. 5, row 8 |  |
-| Al8V5 |  | -12.65 kJ/mol-atom |  | DFT |  |  | [2] Luo 2018; _cites ref. 21_ | Table 3, p. 5, row 4 |  |
-| V3Al A15 |  | -13.03 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Berche 2018 | Table 1, p. 4, row 5 |  |
-| V3Al A2 |  | -9.97 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Berche 2018 | Table 1, p. 4, row 6 |  |
-| V3Al D03 |  | -9.13 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Berche 2018 | Table 1, p. 4, row 7 |  |
+| Al3V | [Al3V](https://data.orchid-project.org/compounds/Al3V.html) | -27.8 kJ/mol-atom | 298.15 | experimental | -27.874 (mp-aaaaadug) | -27.24 (oqmd-10604) | [2] Luo 2018; _cites Meschel 1994_ | Table 3, p. 5, row 13; `ORC-SRULXM6ONT` |  |
+| Al3V |  | -26.91 kJ/mol-atom |  | DFT |  |  | [2] Luo 2018; _cites ref. 21_ | Table 3, p. 5, row 12; `ORC-XMO2TGI4S3` |  |
+| Al3V | [Al3V](https://data.orchid-project.org/compounds/Al3V.html) | 1.194 kJ/mol-atom |  | model | -27.874 (mp-aaaaadug) | -27.24 (oqmd-10604) | [2] Luo 2018 | Table 3, p. 5, row 14; `ORC-IBVD2A4HP4` |  |
+| Al45V7 |  | -13.94 kJ/mol-atom |  | DFT |  |  | [2] Luo 2018; _cites ref. 21_ | Table 3, p. 5, row 1; `ORC-S2AO4ARLVV` |  |
+| Al45V7 | [Al45V7](https://data.orchid-project.org/compounds/Al45V7.html) | -12.9 kJ/mol-atom |  | model | -14.721 (mp-aaabgidb) | -14.588 (oqmd-54964) | [2] Luo 2018; _cites Gong 2004_ [doi](https://doi.org/10.3139/146.018057) | Table 3, p. 5, row 2; `ORC-SOMR4662IA` |  |
+| Al45V7 | [Al45V7](https://data.orchid-project.org/compounds/Al45V7.html) | 3.4272 kJ/mol-atom |  | model | -14.721 (mp-aaabgidb) | -14.588 (oqmd-54964) | [2] Luo 2018 | Table 3, p. 5, row 3; `ORC-DMIDUOBAKE` |  |
+| Al8V5 | [Al8V5](https://data.orchid-project.org/compounds/Al8V5.html) | -34 kJ/mol-atom | 298.15 | experimental | -21.333 (mp-aaacrxsd) | -6.349 (oqmd-1486473) | [2] Luo 2018; _cites Meschel 1994_ | Table 3, p. 5, row 7; `ORC-32J4O2DDG6` |  |
+| Al8V5 | [Al8V5](https://data.orchid-project.org/compounds/Al8V5.html) | -22.557 kJ/mol-atom |  | model | -21.333 (mp-aaacrxsd) | -6.349 (oqmd-1486473) | [2] Luo 2018 | Table 3, p. 5, row 10; `ORC-7Q525HXRWT` |  |
+| Al8V5 | [Al8V5](https://data.orchid-project.org/compounds/Al8V5.html) | -20.269 kJ/mol-atom |  | model | -21.333 (mp-aaacrxsd) | -6.349 (oqmd-1486473) | [2] Luo 2018 | Table 3, p. 5, row 11; `ORC-MX6HXD236P` |  |
+| Al8V5 |  | -19.39 kJ/mol-atom |  | DFT |  |  | [2] Luo 2018; _cites ref. 21_ | Table 3, p. 5, row 5; `ORC-4YOQWHMSI6` |  |
+| Al8V5 | [Al8V5](https://data.orchid-project.org/compounds/Al8V5.html) | -19.03 kJ/mol-atom |  | model | -21.333 (mp-aaacrxsd) | -6.349 (oqmd-1486473) | [2] Luo 2018 | Table 3, p. 5, row 9; `ORC-FUZUXKJXM6` |  |
+| Al8V5 |  | -18.19 kJ/mol-atom |  | DFT |  |  | [2] Luo 2018; _cites ref. 21_ | Table 3, p. 5, row 6; `ORC-7FC26Y65SS` |  |
+| Al8V5 |  | -18.18 kJ/mol-atom |  | DFT |  |  | [2] Luo 2018; _cites ref. 21_ | Table 3, p. 5, row 8; `ORC-XANB3HVNAZ` |  |
+| Al8V5 |  | -12.65 kJ/mol-atom |  | DFT |  |  | [2] Luo 2018; _cites ref. 21_ | Table 3, p. 5, row 4; `ORC-ZG3J7RSXT2` |  |
+| V3Al A15 |  | -13.03 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Berche 2018 | Table 1, p. 4, row 5; `ORC-R7ON4U6EA6.eeb1b4` |  |
+| V3Al A2 |  | -9.97 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Berche 2018 | Table 1, p. 4, row 6; `ORC-P23NAL7KHR.fe1340` |  |
+| V3Al D03 |  | -9.13 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Berche 2018 | Table 1, p. 4, row 7; `ORC-3DVK63XIC4.b65938` |  |
 
 ## Other properties
 
@@ -201,7 +201,7 @@ Table: Phase transition, Al–V system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 910 K | 910 | congruent transformation | model | [3] Berche 2018 | p. 6 | “The A15 phase is transformed congruently into the A2 phase at 910 K and at 77.6 at.% of V.” |
+| Phase transition | 910 K | 910 | congruent transformation | model | [3] Berche 2018 | p. 6; `ORC-ONUVWK7XD3` | “The A15 phase is transformed congruently into the A2 phase at 910 K and at 77.6 at.% of V.” |
 
 ### Crystal structure (19)
 
@@ -209,25 +209,25 @@ Table: Crystal structure, Al–V system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a; _printed: a_ | 3.641 Å |  | Al3V; _alloy: V 0.25_ | model | [2] Luo 2018 | Table 3, p. 5, row 14 |  |
-| Lattice a; _printed: a_ | 3.769 Å |  | Al3V; _alloy: V 0.25_ | DFT | [2] Luo 2018; _cites ref. 21_ | Table 3, p. 5, row 12 |  |
-| Lattice a; _printed: a_ | 11.105 Å |  | Al45V7; _alloy: V 0.134615_ | DFT | [2] Luo 2018; _cites ref. 21_ | Table 3, p. 5, row 1 |  |
-| Lattice a; _printed: a_ | 10.265 Å |  | Al45V7; _alloy: V 0.134615_ | model | [2] Luo 2018 | Table 3, p. 5, row 3 |  |
-| Lattice a; _printed: a_ | 8.834 Å |  | Al8V5; _alloy: V 0.384615_ | model | [2] Luo 2018 | Table 3, p. 5, row 11 |  |
-| Lattice a; _printed: a_ | 9.343 Å |  | Al8V5; _alloy: V 0.384615_ | DFT | [2] Luo 2018; _cites ref. 21_ | Table 3, p. 5, row 4 |  |
-| Lattice a; _printed: a_ | 9.295 Å |  | Al8V5; _alloy: V 0.384615_ | DFT | [2] Luo 2018; _cites ref. 21_ | Table 3, p. 5, row 5 |  |
-| Lattice a; _printed: a_ | 9.137 Å |  | Al8V5; _alloy: V 0.384615_ | DFT | [2] Luo 2018; _cites ref. 21_ | Table 3, p. 5, row 8 |  |
-| Lattice a; _printed: a_ | 9.145 Å |  | Al8V5; _alloy: V 0.384615_ | model | [2] Luo 2018 | Table 3, p. 5, row 9 |  |
-| Lattice a; _printed: a_ | 9.165 Å |  | Al8V5; _alloy: V 0.384615_ | DFT | [2] Luo 2018; _cites ref. 21_ | Table 3, p. 5, row 6 |  |
-| Lattice a; _printed: a_ | 8.902 Å |  | Al8V5; _alloy: V 0.384615_ | model | [2] Luo 2018 | Table 3, p. 5, row 10 |  |
-| Lattice a; _printed: a_ | 4.8086 Å | 0 | V3Al A15; _alloy: V 0.75_ | DFT | [3] Berche 2018 | Table 1, p. 4, row 5 |  |
-| Lattice a; _printed: a_ | 3.0336 Å | 0 | V3Al A2; _alloy: V 0.75_ | DFT | [3] Berche 2018 | Table 1, p. 4, row 6 |  |
-| Lattice a; _printed: a_ | 6.0539 Å | 0 | V3Al D03; _alloy: V 0.75_ | DFT | [3] Berche 2018 | Table 1, p. 4, row 7 |  |
-| Lattice b; _printed: b_ | 7.611 Å |  | Al45V7; _alloy: V 0.134615_ | DFT | [2] Luo 2018; _cites ref. 21_ | Table 3, p. 5, row 1 |  |
-| Lattice c; _printed: c_ | 7.921 Å |  | Al3V; _alloy: V 0.25_ | model | [2] Luo 2018 | Table 3, p. 5, row 14 |  |
-| Lattice c; _printed: c_ | 8.313 Å |  | Al3V; _alloy: V 0.25_ | DFT | [2] Luo 2018; _cites ref. 21_ | Table 3, p. 5, row 12 |  |
-| Lattice c; _printed: c_ | 11.084 Å |  | Al45V7; _alloy: V 0.134615_ | DFT | [2] Luo 2018; _cites ref. 21_ | Table 3, p. 5, row 1 |  |
-| Lattice c; _printed: c_ | 11.31 Å |  | Al45V7; _alloy: V 0.134615_ | model | [2] Luo 2018 | Table 3, p. 5, row 3 |  |
+| Lattice a; _printed: a_ | 3.641 Å |  | Al3V; _alloy: V 0.25_ | model | [2] Luo 2018 | Table 3, p. 5, row 14; `ORC-FIXGX2BSS6.2bc2de` |  |
+| Lattice a; _printed: a_ | 3.769 Å |  | Al3V; _alloy: V 0.25_ | DFT | [2] Luo 2018; _cites ref. 21_ | Table 3, p. 5, row 12; `ORC-VOKBEACMRK.0c8c73` |  |
+| Lattice a; _printed: a_ | 11.105 Å |  | Al45V7; _alloy: V 0.134615_ | DFT | [2] Luo 2018; _cites ref. 21_ | Table 3, p. 5, row 1; `ORC-EMDGS3IMSD.5822be` |  |
+| Lattice a; _printed: a_ | 10.265 Å |  | Al45V7; _alloy: V 0.134615_ | model | [2] Luo 2018 | Table 3, p. 5, row 3; `ORC-LGFPL43TZG.1e0482` |  |
+| Lattice a; _printed: a_ | 8.834 Å |  | Al8V5; _alloy: V 0.384615_ | model | [2] Luo 2018 | Table 3, p. 5, row 11; `ORC-3J4GCY3ST2` |  |
+| Lattice a; _printed: a_ | 9.343 Å |  | Al8V5; _alloy: V 0.384615_ | DFT | [2] Luo 2018; _cites ref. 21_ | Table 3, p. 5, row 4; `ORC-4ZJGEXF4WH` |  |
+| Lattice a; _printed: a_ | 9.295 Å |  | Al8V5; _alloy: V 0.384615_ | DFT | [2] Luo 2018; _cites ref. 21_ | Table 3, p. 5, row 5; `ORC-CCXNMDG7S2` |  |
+| Lattice a; _printed: a_ | 9.137 Å |  | Al8V5; _alloy: V 0.384615_ | DFT | [2] Luo 2018; _cites ref. 21_ | Table 3, p. 5, row 8; `ORC-NS3ANXUOXJ` |  |
+| Lattice a; _printed: a_ | 9.145 Å |  | Al8V5; _alloy: V 0.384615_ | model | [2] Luo 2018 | Table 3, p. 5, row 9; `ORC-SKAUAUEBM6` |  |
+| Lattice a; _printed: a_ | 9.165 Å |  | Al8V5; _alloy: V 0.384615_ | DFT | [2] Luo 2018; _cites ref. 21_ | Table 3, p. 5, row 6; `ORC-XC27PMVX3M` |  |
+| Lattice a; _printed: a_ | 8.902 Å |  | Al8V5; _alloy: V 0.384615_ | model | [2] Luo 2018 | Table 3, p. 5, row 10; `ORC-ZDFUMLQT5Y` |  |
+| Lattice a; _printed: a_ | 4.8086 Å | 0 | V3Al A15; _alloy: V 0.75_ | DFT | [3] Berche 2018 | Table 1, p. 4, row 5; `ORC-XL2JV6KW3Y.db975e` |  |
+| Lattice a; _printed: a_ | 3.0336 Å | 0 | V3Al A2; _alloy: V 0.75_ | DFT | [3] Berche 2018 | Table 1, p. 4, row 6; `ORC-VSLA5NPIVU.e6dc59` |  |
+| Lattice a; _printed: a_ | 6.0539 Å | 0 | V3Al D03; _alloy: V 0.75_ | DFT | [3] Berche 2018 | Table 1, p. 4, row 7; `ORC-IGTBOAP5IK.fae699` |  |
+| Lattice b; _printed: b_ | 7.611 Å |  | Al45V7; _alloy: V 0.134615_ | DFT | [2] Luo 2018; _cites ref. 21_ | Table 3, p. 5, row 1; `ORC-EMDGS3IMSD.72886e` |  |
+| Lattice c; _printed: c_ | 7.921 Å |  | Al3V; _alloy: V 0.25_ | model | [2] Luo 2018 | Table 3, p. 5, row 14; `ORC-FIXGX2BSS6.6081c1` |  |
+| Lattice c; _printed: c_ | 8.313 Å |  | Al3V; _alloy: V 0.25_ | DFT | [2] Luo 2018; _cites ref. 21_ | Table 3, p. 5, row 12; `ORC-VOKBEACMRK.e1ceed` |  |
+| Lattice c; _printed: c_ | 11.084 Å |  | Al45V7; _alloy: V 0.134615_ | DFT | [2] Luo 2018; _cites ref. 21_ | Table 3, p. 5, row 1; `ORC-EMDGS3IMSD.15aa26` |  |
+| Lattice c; _printed: c_ | 11.31 Å |  | Al45V7; _alloy: V 0.134615_ | model | [2] Luo 2018 | Table 3, p. 5, row 3; `ORC-LGFPL43TZG.da236a` |  |
 
 ## Sources
 
@@ -294,4 +294,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

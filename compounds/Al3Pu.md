@@ -14,9 +14,9 @@ Table: Enthalpy of formation of Al3Pu reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -174.3 kJ/mol (basis unstated) | PuAl3-9H |  | model |  | [Al–Pu](https://data.orchid-project.org/systems/AL-PU.html) | [1] Sedmidubský 2010 | Table 2, p. 3, row 8 |  |
-| -172.4 kJ/mol (basis unstated) | PuAl3-6H |  | model |  | [Al–Pu](https://data.orchid-project.org/systems/AL-PU.html) | [1] Sedmidubský 2010 | Table 2, p. 3, row 7 |  |
-| -169.1 kJ/mol (basis unstated) | PuAl3-3H |  | model |  | [Al–Pu](https://data.orchid-project.org/systems/AL-PU.html) | [1] Sedmidubský 2010 | Table 2, p. 3, row 6 |  |
+| -174.3 kJ/mol (basis unstated) | PuAl3-9H |  | model |  | [Al–Pu](https://data.orchid-project.org/systems/AL-PU.html) | [1] Sedmidubský 2010 | Table 2, p. 3, row 8; `ORC-UWUMCL7YBH.160896` |  |
+| -172.4 kJ/mol (basis unstated) | PuAl3-6H |  | model |  | [Al–Pu](https://data.orchid-project.org/systems/AL-PU.html) | [1] Sedmidubský 2010 | Table 2, p. 3, row 7; `ORC-B5J3INFT6T.2f7e5c` |  |
+| -169.1 kJ/mol (basis unstated) | PuAl3-3H |  | model |  | [Al–Pu](https://data.orchid-project.org/systems/AL-PU.html) | [1] Sedmidubský 2010 | Table 2, p. 3, row 6; `ORC-TUZYUF2AN2.3d97c6` |  |
 
 ### Uncertainty budget
 
@@ -81,4 +81,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

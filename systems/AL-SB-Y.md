@@ -28,18 +28,18 @@ Table: Invariant reactions reported in the literature for the Al–Sb–Y system
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2058.73 | quasi-peritectic: Liquid + Sb3Y4 -> SbY + Sb3Y5 |  | model | [1] Zhang 2009 | Table 5, p. 5, row 5 |  |
-| 1511.33 | quasi-peritectic: Liquid + SbY -> Al2Y + Sb3Y5 |  | model | [1] Zhang 2009 | Table 5, p. 5, row 9 |  |
-| 1498.24 | eutectic: Liquid -> Hcp-Y + Sb3Y5 + SbY3 |  | model | [1] Zhang 2009 | Table 5, p. 5, row 2 |  |
-| 1409.63 | quasi-peritectic: Liquid + Al2Y -> Sb3Y5 + AlY |  | model | [1] Zhang 2009 | Table 5, p. 5, row 10 |  |
-| 1356.3 | eutectic: Liquid -> AlY + Al2Y3 + Sb3Y5 |  | model | [1] Zhang 2009 | Table 5, p. 5, row 4 |  |
-| 1253.86 | quasi-peritectic: Liquid + Al2Y3 -> Sb3Y5 + AlY2 |  | model | [1] Zhang 2009 | Table 5, p. 5, row 11 |  |
-| 1233.14 | quasi-peritectic: Liquid + Al2Y -> Al3Y_H + SbY |  | model | [1] Zhang 2009 | Table 5, p. 5, row 6 |  |
-| 1229.63 | quasi-peritectic: Liquid + Sb3Y5 -> AlY2 + Hcp-Y |  | model | [1] Zhang 2009 | Table 5, p. 5, row 12 |  |
-| 915.58 | quasi-peritectic: Liquid + Al3Y_H -> Al3Y_L + SbY |  | model | [1] Zhang 2009 | Table 5, p. 5, row 8 |  |
-| 915.54 | quasi-peritectic: Liquid + AlSb -> Fcc-Al + SbY |  | model | [1] Zhang 2009 | Table 5, p. 5, row 7 |  |
-| 908.06 | eutectic: Liquid -> Fcc-Al + Al3Y_L + SbY |  | model | [1] Zhang 2009 | Table 5, p. 5, row 3 |  |
-| 887.1 | eutectic: Liquid -> Rhom-Sb + AlSb + SbY |  | model | [1] Zhang 2009 | Table 5, p. 5, row 1 |  |
+| 2058.73 | quasi-peritectic: Liquid + Sb3Y4 -> SbY + Sb3Y5 |  | model | [1] Zhang 2009 | Table 5, p. 5, row 5; `ORC-PUMBGVFLE2` |  |
+| 1511.33 | quasi-peritectic: Liquid + SbY -> Al2Y + Sb3Y5 |  | model | [1] Zhang 2009 | Table 5, p. 5, row 9; `ORC-BILGHSECI5` |  |
+| 1498.24 | eutectic: Liquid -> Hcp-Y + Sb3Y5 + SbY3 |  | model | [1] Zhang 2009 | Table 5, p. 5, row 2; `ORC-CUB6Y26LAX` |  |
+| 1409.63 | quasi-peritectic: Liquid + Al2Y -> Sb3Y5 + AlY |  | model | [1] Zhang 2009 | Table 5, p. 5, row 10; `ORC-OM2D7EUE4G` |  |
+| 1356.3 | eutectic: Liquid -> AlY + Al2Y3 + Sb3Y5 |  | model | [1] Zhang 2009 | Table 5, p. 5, row 4; `ORC-OUQRGJ7P2M` |  |
+| 1253.86 | quasi-peritectic: Liquid + Al2Y3 -> Sb3Y5 + AlY2 |  | model | [1] Zhang 2009 | Table 5, p. 5, row 11; `ORC-GIP6KASUMC` |  |
+| 1233.14 | quasi-peritectic: Liquid + Al2Y -> Al3Y_H + SbY |  | model | [1] Zhang 2009 | Table 5, p. 5, row 6; `ORC-IAQIXMV4EX` |  |
+| 1229.63 | quasi-peritectic: Liquid + Sb3Y5 -> AlY2 + Hcp-Y |  | model | [1] Zhang 2009 | Table 5, p. 5, row 12; `ORC-XKL4UWBNEF` |  |
+| 915.58 | quasi-peritectic: Liquid + Al3Y_H -> Al3Y_L + SbY |  | model | [1] Zhang 2009 | Table 5, p. 5, row 8; `ORC-XCXI7X3RXI` |  |
+| 915.54 | quasi-peritectic: Liquid + AlSb -> Fcc-Al + SbY |  | model | [1] Zhang 2009 | Table 5, p. 5, row 7; `ORC-IUBG5JR6KB` |  |
+| 908.06 | eutectic: Liquid -> Fcc-Al + Al3Y_L + SbY |  | model | [1] Zhang 2009 | Table 5, p. 5, row 3; `ORC-25JJPXAWDZ` |  |
+| 887.1 | eutectic: Liquid -> Rhom-Sb + AlSb + SbY |  | model | [1] Zhang 2009 | Table 5, p. 5, row 1; `ORC-ISGACJ4YMD` |  |
 
 ## Other properties
 
@@ -49,30 +49,30 @@ Table: Phase equilibrium, Al–Sb–Y system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase assemblage |  | 800 | Al + Al3Y + SbY; _alloy: Al 0.55, Sb 0.15, Y 0.3_ | experimental | [1] Zhang 2009 | Table 4, p. 5, row 1 |  |
-| Phase assemblage |  | 800 | Al + Al3YL + SbY; _alloy: Al 0.55, Sb 0.15, Y 0.3_ | model | [1] Zhang 2009 | Table 4, p. 5, row 2 |  |
-| Phase assemblage |  | 800 | Al + AlSb + SbY; _alloy: Al 0.54, Sb 0.3, Y 0.16_ | model | [1] Zhang 2009 | Table 4, p. 5, row 4 |  |
-| Phase assemblage |  | 800 | Al + AlSb + SbY; _alloy: Al 0.54, Sb 0.3, Y 0.16_ | experimental | [1] Zhang 2009 | Table 4, p. 5, row 3 |  |
-| Phase assemblage |  | 800 | Al2Y3 + AlY2 + Sb3Y5; _alloy: Al 0.3, Sb 0.05, Y 0.65_ | model | [1] Zhang 2009 | Table 4, p. 5, row 16 |  |
-| Phase assemblage |  | 800 | Al2Y3 + AlY3 + Sb3Y5; _alloy: Al 0.3, Sb 0.05, Y 0.65_ | experimental | [1] Zhang 2009 | Table 4, p. 5, row 15 |  |
-| Phase assemblage |  | 800 | AlY + Al2Y + Sb3Y5; _alloy: Al 0.47, Sb 0.03, Y 0.5_ | model | [1] Zhang 2009 | Table 4, p. 5, row 20 |  |
-| Phase assemblage |  | 800 | AlY + Al2Y + Sb3Y5; _alloy: Al 0.47, Sb 0.03, Y 0.5_ | experimental | [1] Zhang 2009 | Table 4, p. 5, row 19 |  |
-| Phase assemblage |  | 800 | AlY + Al2Y3 + Sb3Y5; _alloy: Al 0.37, Sb 0.03, Y 0.6_ | model | [1] Zhang 2009 | Table 4, p. 5, row 18 |  |
-| Phase assemblage |  | 800 | AlY + Al2Y3 + Sb3Y5; _alloy: Al 0.37, Sb 0.03, Y 0.6_ | experimental | [1] Zhang 2009 | Table 4, p. 5, row 17 |  |
-| Phase assemblage |  | 800 | AlY2 + Y + Sb3Y5; _alloy: Al 0.2, Sb 0.05, Y 0.75_ | model | [1] Zhang 2009 | Table 4, p. 5, row 14 |  |
-| Phase assemblage |  | 800 | AlY3 + Y + Sb3Y5; _alloy: Al 0.2, Sb 0.05, Y 0.75_ | experimental | [1] Zhang 2009 | Table 4, p. 5, row 13 |  |
-| Phase assemblage |  | 800 | Sb + AlSb + SbY; _alloy: Al 0.15, Sb 0.55, Y 0.3_ | experimental | [1] Zhang 2009 | Table 4, p. 5, row 5 |  |
-| Phase assemblage |  | 800 | Sb + AlSb + SbY; _alloy: Al 0.15, Sb 0.55, Y 0.3_ | model | [1] Zhang 2009 | Table 4, p. 5, row 6 |  |
-| Phase assemblage |  | 800 | Sb3Y5 + SbY3; _alloy: Al 0.06, Sb 0.29, Y 0.65_ | experimental | [1] Zhang 2009 | Table 4, p. 5, row 9 |  |
-| Phase assemblage |  | 800 | Sb3Y5 + SbY3; _alloy: Al 0.06, Sb 0.29, Y 0.65_ | model | [1] Zhang 2009 | Table 4, p. 5, row 10 |  |
-| Phase assemblage |  | 800 | SbY + Al2Y + Al3Y; _alloy: Al 0.48, Sb 0.15, Y 0.37_ | experimental | [1] Zhang 2009 | Table 4, p. 5, row 23 |  |
-| Phase assemblage |  | 800 | SbY + Al2Y + Al3YL; _alloy: Al 0.48, Sb 0.15, Y 0.37_ | model | [1] Zhang 2009 | Table 4, p. 5, row 24 |  |
-| Phase assemblage |  | 800 | SbY + Al2Y + Sb3Y5; _alloy: Al 0.35, Sb 0.15, Y 0.5_ | experimental | [1] Zhang 2009 | Table 4, p. 5, row 21 |  |
-| Phase assemblage |  | 800 | SbY + Al2Y + Sb3Y5; _alloy: Al 0.35, Sb 0.15, Y 0.5_ | model | [1] Zhang 2009 | Table 4, p. 5, row 22 |  |
-| Phase assemblage |  | 800 | SbY + Sb3Y5; _alloy: Al 0.06, Sb 0.36, Y 0.58_ | experimental | [1] Zhang 2009 | Table 4, p. 5, row 7 |  |
-| Phase assemblage |  | 800 | SbY + Sb3Y5; _alloy: Al 0.06, Sb 0.36, Y 0.58_ | model | [1] Zhang 2009 | Table 4, p. 5, row 8 |  |
-| Phase assemblage |  | 800 | Y + Sb3Y5 + SbY3; _alloy: Al 0.1, Sb 0.1, Y 0.8_ | model | [1] Zhang 2009 | Table 4, p. 5, row 12 |  |
-| Phase assemblage |  | 800 | Y + Sb3Y5 + SbY3; _alloy: Al 0.1, Sb 0.1, Y 0.8_ | experimental | [1] Zhang 2009 | Table 4, p. 5, row 11 |  |
+| Phase assemblage |  | 800 | Al + Al3Y + SbY; _alloy: Al 0.55, Sb 0.15, Y 0.3_ | experimental | [1] Zhang 2009 | Table 4, p. 5, row 1; `ORC-G7M32BHKN3` |  |
+| Phase assemblage |  | 800 | Al + Al3YL + SbY; _alloy: Al 0.55, Sb 0.15, Y 0.3_ | model | [1] Zhang 2009 | Table 4, p. 5, row 2; `ORC-CCTIZ6C3ZN` |  |
+| Phase assemblage |  | 800 | Al + AlSb + SbY; _alloy: Al 0.54, Sb 0.3, Y 0.16_ | model | [1] Zhang 2009 | Table 4, p. 5, row 4; `ORC-BBXGWLPIGP` |  |
+| Phase assemblage |  | 800 | Al + AlSb + SbY; _alloy: Al 0.54, Sb 0.3, Y 0.16_ | experimental | [1] Zhang 2009 | Table 4, p. 5, row 3; `ORC-ZJ46RSFWNA` |  |
+| Phase assemblage |  | 800 | Al2Y3 + AlY2 + Sb3Y5; _alloy: Al 0.3, Sb 0.05, Y 0.65_ | model | [1] Zhang 2009 | Table 4, p. 5, row 16; `ORC-SDHU4KYW4L` |  |
+| Phase assemblage |  | 800 | Al2Y3 + AlY3 + Sb3Y5; _alloy: Al 0.3, Sb 0.05, Y 0.65_ | experimental | [1] Zhang 2009 | Table 4, p. 5, row 15; `ORC-2OXMZG2FNJ` |  |
+| Phase assemblage |  | 800 | AlY + Al2Y + Sb3Y5; _alloy: Al 0.47, Sb 0.03, Y 0.5_ | model | [1] Zhang 2009 | Table 4, p. 5, row 20; `ORC-BU34ZALXL4` |  |
+| Phase assemblage |  | 800 | AlY + Al2Y + Sb3Y5; _alloy: Al 0.47, Sb 0.03, Y 0.5_ | experimental | [1] Zhang 2009 | Table 4, p. 5, row 19; `ORC-JBGMXMNJ5G` |  |
+| Phase assemblage |  | 800 | AlY + Al2Y3 + Sb3Y5; _alloy: Al 0.37, Sb 0.03, Y 0.6_ | model | [1] Zhang 2009 | Table 4, p. 5, row 18; `ORC-L23PFTKU22` |  |
+| Phase assemblage |  | 800 | AlY + Al2Y3 + Sb3Y5; _alloy: Al 0.37, Sb 0.03, Y 0.6_ | experimental | [1] Zhang 2009 | Table 4, p. 5, row 17; `ORC-TLDUJXE47I` |  |
+| Phase assemblage |  | 800 | AlY2 + Y + Sb3Y5; _alloy: Al 0.2, Sb 0.05, Y 0.75_ | model | [1] Zhang 2009 | Table 4, p. 5, row 14; `ORC-66HPG64MD4` |  |
+| Phase assemblage |  | 800 | AlY3 + Y + Sb3Y5; _alloy: Al 0.2, Sb 0.05, Y 0.75_ | experimental | [1] Zhang 2009 | Table 4, p. 5, row 13; `ORC-3ZNP6SG5R7` |  |
+| Phase assemblage |  | 800 | Sb + AlSb + SbY; _alloy: Al 0.15, Sb 0.55, Y 0.3_ | experimental | [1] Zhang 2009 | Table 4, p. 5, row 5; `ORC-OJMVROT6EA` |  |
+| Phase assemblage |  | 800 | Sb + AlSb + SbY; _alloy: Al 0.15, Sb 0.55, Y 0.3_ | model | [1] Zhang 2009 | Table 4, p. 5, row 6; `ORC-QUNMHYO3TW` |  |
+| Phase assemblage |  | 800 | Sb3Y5 + SbY3; _alloy: Al 0.06, Sb 0.29, Y 0.65_ | experimental | [1] Zhang 2009 | Table 4, p. 5, row 9; `ORC-DDVTYVRGAP` |  |
+| Phase assemblage |  | 800 | Sb3Y5 + SbY3; _alloy: Al 0.06, Sb 0.29, Y 0.65_ | model | [1] Zhang 2009 | Table 4, p. 5, row 10; `ORC-Z2QR5XZ22F` |  |
+| Phase assemblage |  | 800 | SbY + Al2Y + Al3Y; _alloy: Al 0.48, Sb 0.15, Y 0.37_ | experimental | [1] Zhang 2009 | Table 4, p. 5, row 23; `ORC-UFC7T6HQTW` |  |
+| Phase assemblage |  | 800 | SbY + Al2Y + Al3YL; _alloy: Al 0.48, Sb 0.15, Y 0.37_ | model | [1] Zhang 2009 | Table 4, p. 5, row 24; `ORC-V6LSNKMHNS` |  |
+| Phase assemblage |  | 800 | SbY + Al2Y + Sb3Y5; _alloy: Al 0.35, Sb 0.15, Y 0.5_ | experimental | [1] Zhang 2009 | Table 4, p. 5, row 21; `ORC-XYIL4DCIYZ` |  |
+| Phase assemblage |  | 800 | SbY + Al2Y + Sb3Y5; _alloy: Al 0.35, Sb 0.15, Y 0.5_ | model | [1] Zhang 2009 | Table 4, p. 5, row 22; `ORC-Y5COHHDC6O` |  |
+| Phase assemblage |  | 800 | SbY + Sb3Y5; _alloy: Al 0.06, Sb 0.36, Y 0.58_ | experimental | [1] Zhang 2009 | Table 4, p. 5, row 7; `ORC-2OHHKTNUO6` |  |
+| Phase assemblage |  | 800 | SbY + Sb3Y5; _alloy: Al 0.06, Sb 0.36, Y 0.58_ | model | [1] Zhang 2009 | Table 4, p. 5, row 8; `ORC-FVENQINKNU` |  |
+| Phase assemblage |  | 800 | Y + Sb3Y5 + SbY3; _alloy: Al 0.1, Sb 0.1, Y 0.8_ | model | [1] Zhang 2009 | Table 4, p. 5, row 12; `ORC-WG2T642TSC` |  |
+| Phase assemblage |  | 800 | Y + Sb3Y5 + SbY3; _alloy: Al 0.1, Sb 0.1, Y 0.8_ | experimental | [1] Zhang 2009 | Table 4, p. 5, row 11; `ORC-X2IOJWGPNG` |  |
 
 ## Sources
 
@@ -115,4 +115,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

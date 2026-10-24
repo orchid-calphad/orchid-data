@@ -64,7 +64,7 @@ Table: Invariant reactions reported in the literature for the Ca–H system (1)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 688 | eutectoid: bCa / aCa þ g |  | model | [1] Wang 2011 | p. 6 | “It is seen clearly that the present calculations can well describe most of the experimental results excluding the Ca-rich side near to the eutectoid reaction bCa / aCa þ g occurring at 688 K which exhibits somewhat disagreement with what was proposed to be aCa / g þ bCa at 722 K by Peterson \[7\].” |
+| 688 | eutectoid: bCa / aCa þ g |  | model | [1] Wang 2011 | p. 6; `ORC-LNHSFJBG5Y.0c0923` | “It is seen clearly that the present calculations can well describe most of the experimental results excluding the Ca-rich side near to the eutectoid reaction bCa / aCa þ g occurring at 688 K which exhibits somewhat disagreement with what was proposed to be aCa / g þ bCa at 722 K by Peterson \[7\].” |
 
 ## Formation enthalpies
 
@@ -74,16 +74,16 @@ Table: Enthalpies of formation, Ca–H system (10)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| UNKNOWN |  | -208 kJ/mol (basis unstated) | 1093 | experimental |  |  | [1] Wang 2011; _cites Johnson 1939_ [doi](https://doi.org/10.1021/ja01871a026) | Table 1, p. 3, row 3 |  |
-| UNKNOWN |  | -188 kJ/mol (basis unstated) | 1093 | experimental |  |  | [1] Wang 2011; _cites Treadwell 1820_ | Table 1, p. 3, row 2 |  |
-| UNKNOWN |  | -184 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Wang 2011; _cites Mueller 1968_ | Table 1, p. 3, row 5 |  |
-| UNKNOWN |  | -183.6 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Wang 2011; _cites Lide 2002_ | Table 1, p. 3, row 6 |  |
-| UNKNOWN |  | -172.1 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Wang 2011; _cites Wolverton 2007_ [doi](https://doi.org/10.1103/physrevb.75.064101) | Table 1, p. 3, row 4 |  |
-| UNKNOWN |  | -172 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Wang 2011; _cites Wolverton 2004_ [doi](https://doi.org/10.1103/physrevb.69.144109) | Table 1, p. 3, row 7 |  |
-| UNKNOWN |  | -170.2 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Wang 2011; _cites Mueller 1968_ | Table 1, p. 3, row 5 |  |
-| UNKNOWN |  | -167.3 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Wang 2011 | Table 1, p. 3, row 1 |  |
-| UNKNOWN |  | -162.9 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Wang 2011 | Table 1, p. 3, row 1 |  |
-| UNKNOWN |  | -161.1 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Wang 2011; _cites Wolverton 2007_ [doi](https://doi.org/10.1103/physrevb.75.064101) | Table 1, p. 3, row 4 |  |
+| UNKNOWN |  | -208 kJ/mol (basis unstated) | 1093 | experimental |  |  | [1] Wang 2011; _cites Johnson 1939_ [doi](https://doi.org/10.1021/ja01871a026) | Table 1, p. 3, row 3; `ORC-3POTPGMTRO` |  |
+| UNKNOWN |  | -188 kJ/mol (basis unstated) | 1093 | experimental |  |  | [1] Wang 2011; _cites Treadwell 1820_ | Table 1, p. 3, row 2; `ORC-BYEUSIRE5A` |  |
+| UNKNOWN |  | -184 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Wang 2011; _cites Mueller 1968_ | Table 1, p. 3, row 5; `ORC-2PWBRWN2NQ.91ce80` |  |
+| UNKNOWN |  | -183.6 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Wang 2011; _cites Lide 2002_ | Table 1, p. 3, row 6; `ORC-FNYHN7DC65` |  |
+| UNKNOWN |  | -172.1 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Wang 2011; _cites Wolverton 2007_ [doi](https://doi.org/10.1103/physrevb.75.064101) | Table 1, p. 3, row 4; `ORC-OSD4XXYUXX.90f83d` |  |
+| UNKNOWN |  | -172 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Wang 2011; _cites Wolverton 2004_ [doi](https://doi.org/10.1103/physrevb.69.144109) | Table 1, p. 3, row 7; `ORC-OG33NNLVSQ` |  |
+| UNKNOWN |  | -170.2 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Wang 2011; _cites Mueller 1968_ | Table 1, p. 3, row 5; `ORC-2PWBRWN2NQ.de869b` |  |
+| UNKNOWN |  | -167.3 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Wang 2011 | Table 1, p. 3, row 1; `ORC-QJI7MFDWDD.ac1821` |  |
+| UNKNOWN |  | -162.9 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Wang 2011 | Table 1, p. 3, row 1; `ORC-QJI7MFDWDD.b13078` |  |
+| UNKNOWN |  | -161.1 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Wang 2011; _cites Wolverton 2007_ [doi](https://doi.org/10.1103/physrevb.75.064101) | Table 1, p. 3, row 4; `ORC-OSD4XXYUXX.ca94c0` |  |
 
 ## Other properties
 
@@ -93,13 +93,13 @@ Table: Phase transition, Ca–H system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 721.15 K | 721.15 | polymorphic: fcc (aCa) to bcc (bCa) | experimental | [1] Wang 2011; _cites Peterson 1961_ [doi](https://doi.org/10.1021/j100828a034) | p. 2 | “Pure calcium was reported by Smith \[13\] to undergo an allotropic transformation of fcc (aCa) to bcc (bCa) at 464 C, which accords well with what was determined to be 448 C by Peterson \[7\].” |
-| Phase transition | 722 K | 722 | other: aCa / g þ bCa | experimental | [1] Wang 2011; _cites Peterson 1961_ [doi](https://doi.org/10.1021/j100828a034) | p. 6 | “It is seen clearly that the present calculations can well describe most of the experimental results excluding the Ca-rich side near to the eutectoid reaction bCa / aCa þ g occurring at 688 K which exhibits somewhat disagreement with what was proposed to be aCa / g þ bCa at 722 K by Peterson \[7\].” |
-| Phase transition | 737.15 K | 737.15 | polymorphic: fcc (aCa) to bcc (bCa) | experimental | [1] Wang 2011; _cites Smith 1956_ [doi](https://doi.org/10.1149/1.2430364) | p. 2 | “Pure calcium was reported by Smith \[13\] to undergo an allotropic transformation of fcc (aCa) to bcc (bCa) at 464 C, which accords well with what was determined to be 448 C by Peterson \[7\].” |
-| Phase transition | 1053 K | 1053 |  | experimental | [1] Wang 2011; _cites Peterson 1961_ [doi](https://doi.org/10.1021/j100828a034) | p. 1 | “There is little report on the physical and chemical behavior of CaH2 compound, the only acquired detail supported by Peterson \[7\] shows that aCaH2 undergoes a phase transformation of aCaH2 / bCaH2 at about 1053 K, while no relative information is available on the phase stability range of bCaH2.” |
-| Phase transition | 1053.15 K | 1053.15 | polymorphic | experimental | [1] Wang 2011; _cites Peterson 1961_ [doi](https://doi.org/10.1021/j100828a034) | p. 2 | “The later experimental results \[7\] showed that an allotropic transformation of aCaH2 (Pnma) to bCaH2 happens at 780 C, while no structural information has been available on the high temperature bCaH2 phase until now.” |
-| Phase transition | 1257 K | 1257 | other: CaH2 -> liquid Ca + H2 | model | [1] Wang 2011 | p. 7 | “The complete CaeH phase diagram calculated at 1 atm in Fig. 4 shows that CaH2 decomposed to liquid Ca and H2 at 1257 K.” |
-| Phase transition | 1268 K | 1268 | liquid / bCaH2 þ liquid | model | [1] Wang 2011 | p. 7 | “It takes on singular features with the miscibility gap in the liquid phase of which composition range spans about 41.5e99.7 mol % CaH2 and an invariant reaction of liquid / bCaH2 þ liquid at 1268 K.” |
+| Phase transition | 721.15 K | 721.15 | polymorphic: fcc (aCa) to bcc (bCa) | experimental | [1] Wang 2011; _cites Peterson 1961_ [doi](https://doi.org/10.1021/j100828a034) | p. 2; `ORC-R65AT5SYYV.d95498` | “Pure calcium was reported by Smith \[13\] to undergo an allotropic transformation of fcc (aCa) to bcc (bCa) at 464 C, which accords well with what was determined to be 448 C by Peterson \[7\].” |
+| Phase transition | 722 K | 722 | other: aCa / g þ bCa | experimental | [1] Wang 2011; _cites Peterson 1961_ [doi](https://doi.org/10.1021/j100828a034) | p. 6; `ORC-LNHSFJBG5Y.35d019` | “It is seen clearly that the present calculations can well describe most of the experimental results excluding the Ca-rich side near to the eutectoid reaction bCa / aCa þ g occurring at 688 K which exhibits somewhat disagreement with what was proposed to be aCa / g þ bCa at 722 K by Peterson \[7\].” |
+| Phase transition | 737.15 K | 737.15 | polymorphic: fcc (aCa) to bcc (bCa) | experimental | [1] Wang 2011; _cites Smith 1956_ [doi](https://doi.org/10.1149/1.2430364) | p. 2; `ORC-R65AT5SYYV.9956db` | “Pure calcium was reported by Smith \[13\] to undergo an allotropic transformation of fcc (aCa) to bcc (bCa) at 464 C, which accords well with what was determined to be 448 C by Peterson \[7\].” |
+| Phase transition | 1053 K | 1053 |  | experimental | [1] Wang 2011; _cites Peterson 1961_ [doi](https://doi.org/10.1021/j100828a034) | p. 1; `ORC-CGSD7HR63I` | “There is little report on the physical and chemical behavior of CaH2 compound, the only acquired detail supported by Peterson \[7\] shows that aCaH2 undergoes a phase transformation of aCaH2 / bCaH2 at about 1053 K, while no relative information is available on the phase stability range of bCaH2.” |
+| Phase transition | 1053.15 K | 1053.15 | polymorphic | experimental | [1] Wang 2011; _cites Peterson 1961_ [doi](https://doi.org/10.1021/j100828a034) | p. 2; `ORC-ZATRD4VHOW` | “The later experimental results \[7\] showed that an allotropic transformation of aCaH2 (Pnma) to bCaH2 happens at 780 C, while no structural information has been available on the high temperature bCaH2 phase until now.” |
+| Phase transition | 1257 K | 1257 | other: CaH2 -> liquid Ca + H2 | model | [1] Wang 2011 | p. 7; `ORC-RLS4REZ3QR` | “The complete CaeH phase diagram calculated at 1 atm in Fig. 4 shows that CaH2 decomposed to liquid Ca and H2 at 1257 K.” |
+| Phase transition | 1268 K | 1268 | liquid / bCaH2 þ liquid | model | [1] Wang 2011 | p. 7; `ORC-D2NUCKQUNF` | “It takes on singular features with the miscibility gap in the liquid phase of which composition range spans about 41.5e99.7 mol % CaH2 and an invariant reaction of liquid / bCaH2 þ liquid at 1268 K.” |
 
 ### Crystal structure (13)
 
@@ -107,19 +107,19 @@ Table: Crystal structure, Ca–H system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 5.157 Å | 0 | CaH; _alloy: H 0.5_ | DFT | [1] Wang 2011 | Table 3, p. 5, row 6 |  |
-| Lattice a | 4.366 Å | 0 | CaH1.5; _alloy: H 0.6_ | DFT | [1] Wang 2011 | Table 3, p. 5, row 7 |  |
-| Lattice a | 5.92 Å |  | αCaH2; _alloy: H 0.666667_ | experimental | [1] Wang 2011 | Table 3, p. 5, row 8 |  |
-| Lattice a | 5.92 Å | 0 | αCaH2; _alloy: H 0.666667_ | DFT | [1] Wang 2011 | Table 3, p. 5, row 1 |  |
-| Lattice a | 5.445 Å |  | βCaH2; _alloy: H 0.666667_ | experimental | [1] Wang 2011 | Table 3, p. 5, row 10 |  |
-| Lattice a | 5.445 Å | 0 | βCaH2; _alloy: H 0.666667_ | DFT | [1] Wang 2011 | Table 3, p. 5, row 3 |  |
-| Lattice a | 5.948 Å | 298.15 | αCaH2; _alloy: H 0.666667_ | experimental | [1] Wang 2011 | Table 3, p. 5, row 2 |  |
-| Lattice b | 3.582 Å |  | αCaH2; _alloy: H 0.666667_ | experimental | [1] Wang 2011 | Table 3, p. 5, row 8 |  |
-| Lattice b | 3.582 Å | 0 | αCaH2; _alloy: H 0.666667_ | DFT | [1] Wang 2011 | Table 3, p. 5, row 1 |  |
-| Lattice b | 3.607 Å | 298.15 | αCaH2; _alloy: H 0.666667_ | experimental | [1] Wang 2011 | Table 3, p. 5, row 2 |  |
-| Lattice c | 6.788 Å |  | αCaH2; _alloy: H 0.666667_ | experimental | [1] Wang 2011 | Table 3, p. 5, row 8 |  |
-| Lattice c | 6.788 Å | 0 | αCaH2; _alloy: H 0.666667_ | DFT | [1] Wang 2011 | Table 3, p. 5, row 1 |  |
-| Lattice c | 6.852 Å | 298.15 | αCaH2; _alloy: H 0.666667_ | experimental | [1] Wang 2011 | Table 3, p. 5, row 2 |  |
+| Lattice a | 5.157 Å | 0 | CaH; _alloy: H 0.5_ | DFT | [1] Wang 2011 | Table 3, p. 5, row 6; `ORC-4OBURPEJHB.1eb9e1` |  |
+| Lattice a | 4.366 Å | 0 | CaH1.5; _alloy: H 0.6_ | DFT | [1] Wang 2011 | Table 3, p. 5, row 7; `ORC-EHXJTRBR5X.6e9d05` |  |
+| Lattice a | 5.92 Å |  | αCaH2; _alloy: H 0.666667_ | experimental | [1] Wang 2011 | Table 3, p. 5, row 8; `ORC-GEUCIZHLYB.44ddf2` |  |
+| Lattice a | 5.92 Å | 0 | αCaH2; _alloy: H 0.666667_ | DFT | [1] Wang 2011 | Table 3, p. 5, row 1; `ORC-ZCEZF5R5ZC.a16bcd` |  |
+| Lattice a | 5.445 Å |  | βCaH2; _alloy: H 0.666667_ | experimental | [1] Wang 2011 | Table 3, p. 5, row 10; `ORC-G2KOGAXGEL` |  |
+| Lattice a | 5.445 Å | 0 | βCaH2; _alloy: H 0.666667_ | DFT | [1] Wang 2011 | Table 3, p. 5, row 3; `ORC-P4SNM5BOZY` |  |
+| Lattice a | 5.948 Å | 298.15 | αCaH2; _alloy: H 0.666667_ | experimental | [1] Wang 2011 | Table 3, p. 5, row 2; `ORC-KOUTXA2QR7.330e59` |  |
+| Lattice b | 3.582 Å |  | αCaH2; _alloy: H 0.666667_ | experimental | [1] Wang 2011 | Table 3, p. 5, row 8; `ORC-GEUCIZHLYB.93051b` |  |
+| Lattice b | 3.582 Å | 0 | αCaH2; _alloy: H 0.666667_ | DFT | [1] Wang 2011 | Table 3, p. 5, row 1; `ORC-ZCEZF5R5ZC.421a8e` |  |
+| Lattice b | 3.607 Å | 298.15 | αCaH2; _alloy: H 0.666667_ | experimental | [1] Wang 2011 | Table 3, p. 5, row 2; `ORC-KOUTXA2QR7.755e28` |  |
+| Lattice c | 6.788 Å |  | αCaH2; _alloy: H 0.666667_ | experimental | [1] Wang 2011 | Table 3, p. 5, row 8; `ORC-GEUCIZHLYB.026556` |  |
+| Lattice c | 6.788 Å | 0 | αCaH2; _alloy: H 0.666667_ | DFT | [1] Wang 2011 | Table 3, p. 5, row 1; `ORC-ZCEZF5R5ZC.882ec9` |  |
+| Lattice c | 6.852 Å | 298.15 | αCaH2; _alloy: H 0.666667_ | experimental | [1] Wang 2011 | Table 3, p. 5, row 2; `ORC-KOUTXA2QR7.67d9e1` |  |
 
 ## Sources
 
@@ -184,4 +184,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

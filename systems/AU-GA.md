@@ -103,115 +103,115 @@ Table: Invariant reactions reported in the literature for the Au–Ga system (10
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 764 | congruent melting: L -> AuGa2 | L: Ga 0.667; AuGa2: Au 0.333333, Ga 0.666667 | model | [1] Wang 2011 | Table 2, p. 6, row 29 |  |
-| 764 | liq. -> AuGa2 | liq.: Ga 0.667; AuGa2: Ga 0.667 | experimental | [2] Liu 2010; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 2, p. 5, row 26 |  |
-| 764 | congruent melting: L -> AuGa2 | L: Ga 0.667; AuGa2: Au 0.333333, Ga 0.666667 | model | [1] Wang 2011; _cites Liu 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.08.044) | Table 2, p. 6, row 28 |  |
-| 764 | liq. -> AuGa2 | liq.: Ga 0.6667; AuGa2: Ga 0.6667 | model | [2] Liu 2010 | Table 2, p. 5, row 25 |  |
-| 764 | congruent melting: L -> AuGa2 | L: Ga 0.667; AuGa2: Au 0.333333, Ga 0.666667 | experimental | [1] Wang 2011; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 2, p. 6, row 27 |  |
-| 735 | congruent melting: L -> AuGa | L: Ga 0.5; AuGa: Au 0.5, Ga 0.5 | model | [1] Wang 2011; _cites Liu 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.08.044) | Table 2, p. 6, row 22 |  |
-| 735 | congruent melting: L -> AuGa | L: Ga 0.5; AuGa: Au 0.5, Ga 0.5 | experimental | [1] Wang 2011; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 2, p. 6, row 21 |  |
-| 734 | liq. -> AuGa | liq.: Ga 0.5; AuGa: Ga 0.5 | experimental | [2] Liu 2010; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 2, p. 5, row 22 |  |
-| 734 | liq. -> AuGa | liq.: Ga 0.5; AuGa: Ga 0.5 | model | [2] Liu 2010 | Table 2, p. 5, row 21 |  |
-| 732 | congruent melting: L -> AuGa | L: Ga 0.5; AuGa: Au 0.5, Ga 0.5 | model | [1] Wang 2011 | Table 2, p. 6, row 23 |  |
-| 727 | eutectic: L -> AuGa + AuGa2 | L: Ga 0.546; AuGa: Au 0.5, Ga 0.5; AuGa2: Au 0.333333, Ga 0.666667 | model | [1] Wang 2011; _cites Liu 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.08.044) | Table 2, p. 6, row 25 |  |
-| 727 | eutectic: L -> AuGa + AuGa2 | AuGa: Ga 0.5; AuGa2: Ga 0.666667 | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Liu 2011_ [doi](https://doi.org/10.1016/j.jallcom.2010.08.044) | Table 4, p. 9, row 37 |  |
-| 727 | liq. -> AuGa + AuGa2 | liq.: Ga 0.5462; AuGa: Ga 0.5; AuGa2: Ga 0.6667 | model | [2] Liu 2010 | Table 2, p. 5, row 23 |  |
-| 726 | eutectic: L -> AuGa + AuGa2 | AuGa: Ga 0.5; AuGa2: Ga 0.666667 | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Wang 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.10.009) | Table 4, p. 9, row 38 |  |
-| 726 | eutectic: L -> AuGa + AuGa2 | L: Ga 0.543; AuGa: Au 0.5, Ga 0.5; AuGa2: Au 0.333333, Ga 0.666667 | model | [1] Wang 2011 | Table 2, p. 6, row 26 |  |
-| 724 | eutectic: L -> AuGa + AuGa2 | AuGa: Ga 0.5; AuGa2: Ga 0.666667 | model | [3] Jendrzejczyk-Handzlik 2017 | Table 4, p. 9, row 39 |  |
-| 722 | liq. -> AuGa + AuGa2 | liq.: Ga 0.555; AuGa: Ga 0.5; AuGa2: Ga 0.667 | experimental | [2] Liu 2010; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 2, p. 5, row 24 |  |
-| 722 | eutectic: L -> AuGa + AuGa2 | L: Ga 0.555; AuGa: Au 0.5, Ga 0.5; AuGa2: Au 0.333333, Ga 0.666667 | experimental | [1] Wang 2011; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 2, p. 6, row 24 |  |
-| 722 | eutectic: L -> AuGa + AuGa2 | AuGa: Ga 0.5; AuGa2: Ga 0.666667 | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 4, p. 9, row 36 |  |
-| 697 | peritectic: L + fcc(Au) -> D024 | D024: Ga 0.111111 | experimental | [3] Jendrzejczyk-Handzlik 2017 | Table 4, p. 9, row 5 |  |
-| 696 | peritectic: L ? fcc(Au) ? a-Au7Ga2 |  | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Mouani 1995_ [doi](https://doi.org/10.1016/0925-8388%2895%2901606-6) | p. 3 | “They reported temperature of the peritectic reaction L ? fcc(Au) ? a-Au7Ga2 to be 696 K.” |
-| 696 | peritectic: liquid + fcc → ␣Au7 Ga |  | experimental | [2] Liu 2010; _cites Mouani 1995_ [doi](https://doi.org/10.1016/0925-8388%2895%2901606-6) | p. 6 | “In the present work, the phase relation and transformation temperatures based on the phase diagram of the Au-Ga system determined by Cooke and Hume-Rothery \[10\], the temperature of the peritectic reaction liquid + fcc → ␣Au7 Ga at 696 K \[17\] were adopted.” |
-| 696 | peritectic: L + fcc(Au) -> D024 | D024: Ga 0.111111 | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Liu 2011_ [doi](https://doi.org/10.1016/j.jallcom.2010.08.044) | Table 4, p. 9, row 3 |  |
-| 696 | peritectic: L + fcc(Au) -> D024 | L: Ga 0.213; D024: Au 0.888889, Ga 0.111111 | model | [1] Wang 2011; _cites Liu 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.08.044) | Table 2, p. 6, row 3 |  |
-| 696 | peritectic: liquid + fcc → ␣Au7 Ga |  | experimental | [2] Liu 2010; _cites Mouani 1995_ [doi](https://doi.org/10.1016/0925-8388%2895%2901606-6) | p. 1 | “Comparison with the results of Cooke et al. \[10\], the main difference is the temperature of the peritectic reaction liquid + fcc → ␣Au7 Ga, which is 696 K \[17\] instead of 688 K \[10\].” |
-| 696 | peritectic: L + fcc(Au) -> D024 | D024: Ga 0.111111 | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Mouani 1995_ [doi](https://doi.org/10.1016/0925-8388%2895%2901606-6) | Table 4, p. 9, row 2 |  |
-| 696 | peritectic: L + fcc(Au) ↔ D024 |  | experimental | [1] Wang 2011 | p. 2 | “The temperature of the peritectic reaction, L + fcc(Au) ↔ D024 at 696 K is different from the previously measured value (688 K) of Cooke and Hume-Rothery \[19\].” |
-| 696 | liq. + fcc(Au) -> αAu7Ga | liq.: Ga 0.228; fcc(Au): Ga 0.124; αAu7Ga: Ga 0.138 | experimental | [2] Liu 2010; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 2, p. 5, row 2 |  |
-| 696 | peritectic: L + fcc(Au) -> D024 | D024: Au 0.888889, Ga 0.111111 | experimental | [1] Wang 2011; _cites Mouani 1995_ [doi](https://doi.org/10.1016/0925-8388%2895%2901606-6) | Table 2, p. 6, row 2 |  |
-| 696 | liq. + fcc(Au) -> αAu7Ga | liq.: Ga 0.2129; fcc(Au): Ga 0.1222; αAu7Ga: Ga 0.135 | model | [2] Liu 2010 | Table 2, p. 5, row 1 |  |
-| 693 | peritectic: L + fcc(Au) -> D024 | D024: Ga 0.111111 | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Wang 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.10.009) | Table 4, p. 9, row 4 |  |
-| 693 | peritectic: L + fcc(Au) -> D024 | L: Ga 0.236; D024: Au 0.888889, Ga 0.111111 | model | [1] Wang 2011 | Table 2, p. 6, row 4 |  |
-| 690 | peritectic: L + fcc(Au) -> D024 | D024: Ga 0.111111 | model | [3] Jendrzejczyk-Handzlik 2017 | Table 4, p. 9, row 6 |  |
-| 688 | peritectic: L + fcc(Au) -> D024 | D024: Ga 0.111111 | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 4, p. 9, row 1 |  |
-| 688 | peritectic: liquid + fcc → ␣Au7 Ga |  | experimental | [2] Liu 2010; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | p. 1 | “Comparison with the results of Cooke et al. \[10\], the main difference is the temperature of the peritectic reaction liquid + fcc → ␣Au7 Ga, which is 696 K \[17\] instead of 688 K \[10\].” |
-| 688 | peritectic: L + fcc(Au) -> D024 | L: Ga 0.228; D024: Au 0.888889, Ga 0.111111 | experimental | [1] Wang 2011; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 2, p. 6, row 1 |  |
-| 688 | peritectic: L + fcc(Au) ↔ D024 |  | experimental | [1] Wang 2011; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | p. 2 | “The temperature of the peritectic reaction, L + fcc(Au) ↔ D024 at 696 K is different from the previously measured value (688 K) of Cooke and Hume-Rothery \[19\].” |
-| 684 | peritectic: L + D024 -> β-Au7Ga2 | D024: Ga 0.111111; β-Au7Ga2: Ga 0.222222 | experimental | [3] Jendrzejczyk-Handzlik 2017 | Table 4, p. 9, row 11 |  |
-| 683 | liq. + αAu7Ga -> βAu7Ga2 | liq.: Ga 0.2185; αAu7Ga: Ga 0.1369; βAu7Ga2: Ga 0.2021 | model | [2] Liu 2010 | Table 2, p. 5, row 3 |  |
-| 683 | peritectic: L + D024 -> β-Au7Ga2 | D024: Au 0.888889, Ga 0.111111; β-Au7Ga2: Au 0.7895, Ga 0.2105 | experimental | [1] Wang 2011; _cites Mouani 1995_ [doi](https://doi.org/10.1016/0925-8388%2895%2901606-6) | Table 2, p. 6, row 6 |  |
-| 683 | peritectic: L + D024 -> β-Au7Ga2 | L: Ga 0.219; D024: Au 0.888889, Ga 0.111111; β-Au7Ga2: Au 0.7895, Ga 0.2105 | experimental | [1] Wang 2011; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 2, p. 6, row 7 |  |
-| 683 | liq. + αAu7Ga -> βAu7Ga2 | liq.: Ga 0.231; αAu7Ga: Ga 0.142; βAu7Ga2: Ga 0.205 | experimental | [2] Liu 2010; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 2, p. 5, row 4 |  |
-| 683 | peritectic: L + D024 -> β-Au7Ga2 | D024: Ga 0.111111; β-Au7Ga2: Ga 0.222222 | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 4, p. 9, row 7 |  |
-| 683 | peritectic: L + D024 -> β-Au7Ga2 | D024: Ga 0.111111; β-Au7Ga2: Ga 0.222222 | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Liu 2011_ [doi](https://doi.org/10.1016/j.jallcom.2010.08.044) | Table 4, p. 9, row 9 |  |
-| 683 | peritectic: L + D024 -> β-Au7Ga2 | D024: Ga 0.111111; β-Au7Ga2: Ga 0.222222 | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Mouani 1995_ [doi](https://doi.org/10.1016/0925-8388%2895%2901606-6) | Table 4, p. 9, row 8 |  |
-| 683 | peritectic: L + D024 -> β-Au7Ga2 | L: Ga 0.231; D024: Au 0.888889, Ga 0.111111; β-Au7Ga2: Au 0.7895, Ga 0.2105 | experimental | [1] Wang 2011; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 2, p. 6, row 5 |  |
-| 682.8 | peritectic |  | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | p. 8 | “AuGa has a structure of the MnP(B31)-type,\[11,14,31\] AuGa2 has isotypic CaF2(C1)-type structure,\[38,41,50\] b-Au7Ga2 has a hexagonal structure\[39,41\] and extends from \*20.4 to 22.1 at.% Ga,\[17,36\] b'-Au7Ga2 is formed peritectically at 682.8 K and exists unchanged down to room temperature.” |
-| 682.8 | peritectic |  | experimental | [2] Liu 2010; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | p. 4 | “The compound ␤ Au7 Ga2 is formed peritectically at 682.8 K and exists unchanged down to room temperature, which has an orthorhombic structure \[10\] and has a homogeneity range of 21.3-24.8 at.% Ga \[10,16,17\].” |
-| 679 | peritectic: L + D024 -> β-Au7Ga2 | D024: Ga 0.111111; β-Au7Ga2: Ga 0.222222 | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Wang 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.10.009) | Table 4, p. 9, row 10 |  |
-| 679 | peritectic: L + D024 -> β-Au7Ga2 | L: Ga 0.241; D024: Au 0.888889, Ga 0.111111; β-Au7Ga2: Au 0.7895, Ga 0.2105 | model | [1] Wang 2011 | Table 2, p. 6, row 8 |  |
-| 678 | peritectic: L + D024 -> β-Au7Ga2 | D024: Ga 0.111111; β-Au7Ga2: Ga 0.222222 | model | [3] Jendrzejczyk-Handzlik 2017 | Table 4, p. 9, row 12 |  |
-| 648 | peritectic: L + β-Au7Ga2 -> β'-Au7Ga2 | β-Au7Ga2: Ga 0.222222; β'-Au7Ga2: Ga 0.222222 | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 4, p. 9, row 13 |  |
-| 648 | peritectic: L + β-Au7Ga2 -> β′-Au7Ga2 | L: Ga 0.265; β-Au7Ga2: Au 0.7895, Ga 0.2105 | experimental | [1] Wang 2011; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 2, p. 6, row 9 |  |
-| 648 | peritectic: L + β-Au7Ga2 -> β′-Au7Ga2 | L: Ga 0.279; β-Au7Ga2: Au 0.7895, Ga 0.2105 | model | [1] Wang 2011; _cites Liu 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.08.044) | Table 2, p. 6, row 10 |  |
-| 648 | liq. + βAu7Ga2 -> β'Au7Ga2 | liq.: Ga 0.2789; βAu7Ga2: Ga 0.2206 | model | [2] Liu 2010 | Table 2, p. 5, row 9 |  |
-| 648 | peritectic: L + β-Au7Ga2 -> β'-Au7Ga2 | β-Au7Ga2: Ga 0.222222; β'-Au7Ga2: Ga 0.222222 | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Liu 2011_ [doi](https://doi.org/10.1016/j.jallcom.2010.08.044) | Table 4, p. 9, row 14 |  |
-| 648 | liq. + βAu7Ga2 -> β'Au7Ga2 | liq.: Ga 0.265; βAu7Ga2: Ga 0.221; β'Au7Ga2: Ga 0.231; β′Au7Ga2: Ga 0.231 | experimental | [2] Liu 2010; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 2, p. 5, row 10 |  |
-| 648 | peritectic: L + β-Au7Ga2 -> β'-Au7Ga2 | β-Au7Ga2: Ga 0.222222; β'-Au7Ga2: Ga 0.222222 | model | [3] Jendrzejczyk-Handzlik 2017 | Table 4, p. 9, row 17 |  |
-| 647 | peritectic: L + β-Au7Ga2 -> β'-Au7Ga2 | β-Au7Ga2: Ga 0.222222; β'-Au7Ga2: Ga 0.222222 | experimental | [3] Jendrzejczyk-Handzlik 2017 | Table 4, p. 9, row 16 |  |
-| 644 | peritectic: L + β-Au7Ga2 -> β'-Au7Ga2 | β-Au7Ga2: Ga 0.222222; β'-Au7Ga2: Ga 0.222222 | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Wang 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.10.009) | Table 4, p. 9, row 15 |  |
-| 644 | peritectic: L + β-Au7Ga2 -> β′-Au7Ga2 | L: Ga 0.28; β-Au7Ga2: Au 0.7895, Ga 0.2105 | model | [1] Wang 2011 | Table 2, p. 6, row 11 |  |
-| 624 | congruent melting: L -> γ-Au7Ga3 | L: Ga 0.3; γ-Au7Ga3: Au 0.7, Ga 0.3 | model | [1] Wang 2011 | Table 2, p. 6, row 17 |  |
-| 623 | eutectic: L -> γ-Au7Ga3 + β′-Au7Ga2 | L: Ga 0.299; γ-Au7Ga3: Au 0.7, Ga 0.3; β′-Au7Ga2: Au 0.7895, Ga 0.2105 | model | [1] Wang 2011 | Table 2, p. 6, row 14 |  |
-| 623 | congruent melting: L -> γ-Au7Ga3 | L: Au 0.7, Ga 0.3; γ-Au7Ga3: Au 0.7, Ga 0.3 | experimental | [1] Wang 2011; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 2, p. 6, row 15 |  |
-| 623 | eutectic: L -> γ-Au7Ga3 + β'-Au7Ga2 | γ-Au7Ga3: Ga 0.3; β'-Au7Ga2: Ga 0.222222 | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Wang 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.10.009) | Table 4, p. 9, row 20 |  |
-| 622 | eutectic: L -> γ-Au7Ga3 + β′-Au7Ga2 | L: Ga 0.308; γ-Au7Ga3: Au 0.7, Ga 0.3; β′-Au7Ga2: Au 0.7895, Ga 0.2105 | model | [1] Wang 2011; _cites Liu 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.08.044) | Table 2, p. 6, row 13 |  |
-| 622 | eutectic: L -> γ-Au7Ga3 + β'-Au7Ga2 | γ-Au7Ga3: Ga 0.3; β'-Au7Ga2: Ga 0.222222 | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Liu 2011_ [doi](https://doi.org/10.1016/j.jallcom.2010.08.044) | Table 4, p. 9, row 19 |  |
-| 622 | liq. -> γAu7Ga3 | liq.: Ga 0.3086; γAu7Ga3: Ga 0.3086 | model | [2] Liu 2010 | Table 2, p. 5, row 15 |  |
-| 622 | liq. -> γAu7Ga3 | liq.: Ga 0.305; γAu7Ga3: Ga 0.305 | experimental | [2] Liu 2010; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 2, p. 5, row 16 |  |
-| 622 | congruent melting: L -> γ-Au7Ga3 | L: Ga 0.309; γ-Au7Ga3: Au 0.7, Ga 0.3 | model | [1] Wang 2011; _cites Liu 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.08.044) | Table 2, p. 6, row 16 |  |
-| 622 | liq. -> β'Au7Ga2 + γAu7Ga3 | liq.: Ga 0.3079; β'Au7Ga2: Ga 0.2313; γAu7Ga3: Ga 0.3087 | model | [2] Liu 2010 | Table 2, p. 5, row 11 |  |
-| 621 | αAu7Ga -> fcc(Au) + βAu7Ga2 | αAu7Ga: Ga 0.106; fcc(Au): Ga 0.128; βAu7Ga2: Ga 0.204 | experimental | [2] Liu 2010; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 2, p. 5, row 6 |  |
-| 621 | αAu7Ga -> fcc(Au) + βAu7Ga2 | αAu7Ga: Ga 0.1304; fcc(Au): Ga 0.1067; βAu7Ga2: Ga 0.2016 | model | [2] Liu 2010 | Table 2, p. 5, row 5 |  |
-| 621 | eutectoid: D024 -> fcc(Au) + β-Au7Ga2 | D024: Au 0.888889, Ga 0.111111; β-Au7Ga2: Au 0.7895, Ga 0.2105 | experimental | [1] Wang 2011; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 2, p. 6, row 33 |  |
-| 621 | eutectoid: D024 -> fcc(Au) + β-Au7Ga2 | D024: Au 0.888889, Ga 0.111111; β-Au7Ga2: Au 0.7895, Ga 0.2105 | model | [1] Wang 2011 | Table 2, p. 6, row 35 |  |
-| 621 | eutectoid: D024 -> fcc(Au) + β-Au7Ga2 | D024: Au 0.888889, Ga 0.111111; β-Au7Ga2: Au 0.7895, Ga 0.2105 | model | [1] Wang 2011; _cites Liu 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.08.044) | Table 2, p. 6, row 34 |  |
-| 621 | eutectic: L -> γ-Au7Ga3 + β'-Au7Ga2 | γ-Au7Ga3: Ga 0.3; β'-Au7Ga2: Ga 0.222222 | model | [3] Jendrzejczyk-Handzlik 2017 | Table 4, p. 9, row 22 |  |
-| 620 | eutectic: L -> γ-Au7Ga3 + β'-Au7Ga2 | γ-Au7Ga3: Ga 0.3; β'-Au7Ga2: Ga 0.222222 | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 4, p. 9, row 18 |  |
-| 620 | liq. -> β'Au7Ga2 + γAu7Ga3 | liq.: Ga 0.285; β'Au7Ga2: Ga 0.248; γAu7Ga3: Ga 0.298 | experimental | [2] Liu 2010; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 2, p. 5, row 12 |  |
-| 620 | eutectic: L -> γ-Au7Ga3 + β′-Au7Ga2 | L: Ga 0.298; γ-Au7Ga3: Au 0.7, Ga 0.3; β′-Au7Ga2: Au 0.7895, Ga 0.2105 | experimental | [1] Wang 2011; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 2, p. 6, row 12 |  |
-| 620 | eutectic: L -> γ-Au7Ga3 + β'-Au7Ga2 | γ-Au7Ga3: Ga 0.3; β'-Au7Ga2: Ga 0.222222 | experimental | [3] Jendrzejczyk-Handzlik 2017 | Table 4, p. 9, row 21 |  |
-| 619 | eutectic: L -> γ-Au7Ga3 + AuGa | γ-Au7Ga3: Ga 0.3; AuGa: Ga 0.5 | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Liu 2011_ [doi](https://doi.org/10.1016/j.jallcom.2010.08.044) | Table 4, p. 9, row 28 |  |
-| 619 | eutectic: L -> γ-Au7Ga3 + AuGa | L: Ga 0.336; γ-Au7Ga3: Au 0.7, Ga 0.3; AuGa: Au 0.5, Ga 0.5 | model | [1] Wang 2011; _cites Liu 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.08.044) | Table 2, p. 6, row 19 |  |
-| 619 | eutectic: L -> γ-Au7Ga3 + AuGa | L: Ga 0.33; γ-Au7Ga3: Au 0.7, Ga 0.3; AuGa: Au 0.5, Ga 0.5 | model | [1] Wang 2011 | Table 2, p. 6, row 20 |  |
-| 619 | eutectic: L -> γ-Au7Ga3 + AuGa | γ-Au7Ga3: Ga 0.3; AuGa: Ga 0.5 | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Wang 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.10.009) | Table 4, p. 9, row 29 |  |
-| 619 | liq. -> γAu7Ga3 + AuGa | liq.: Ga 0.3362; γAu7Ga3: Ga 0.3195; AuGa: Ga 0.5 | model | [2] Liu 2010 | Table 2, p. 5, row 13 |  |
-| 613 | eutectic: L -> γ-Au7Ga3 + AuGa | L: Ga 0.336; γ-Au7Ga3: Au 0.7, Ga 0.3; AuGa: Au 0.5, Ga 0.5 | experimental | [1] Wang 2011; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 2, p. 6, row 18 |  |
-| 613 | eutectic: L -> γ-Au7Ga3 + AuGa | γ-Au7Ga3: Ga 0.3; AuGa: Ga 0.5 | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 4, p. 9, row 27 |  |
-| 613 | eutectic: L -> γ-Au7Ga3 + AuGa | γ-Au7Ga3: Ga 0.3; AuGa: Ga 0.5 | experimental | [3] Jendrzejczyk-Handzlik 2017 | Table 4, p. 9, row 30 |  |
-| 613 | eutectic: L -> γ-Au7Ga3 + AuGa | γ-Au7Ga3: Ga 0.3; AuGa: Ga 0.5 | model | [3] Jendrzejczyk-Handzlik 2017 | Table 4, p. 9, row 31 |  |
-| 612 | liq. -> γAu7Ga3 + AuGa | liq.: Ga 0.336; γAu7Ga3: Ga 0.31; AuGa: Ga 0.5 | experimental | [2] Liu 2010; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 2, p. 5, row 14 |  |
-| 559 | γAu7Ga3 -> AuGa + γ'Au7Ga3 | γAu7Ga3: Au 0.7, Ga 0.3; AuGa: Au 0.5, Ga 0.5 | experimental | [2] Liu 2010; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 2, p. 5, row 20 |  |
-| 559 | γAu7Ga3 -> AuGa + γ'Au7Ga3 | γAu7Ga3: Ga 0.3147; AuGa: Ga 0.5 | model | [2] Liu 2010 | Table 2, p. 5, row 19 |  |
-| 557 | eutectoid: β-Au7Ga2 -> fcc(Au) + β′-Au7Ga2 | β-Au7Ga2: Au 0.7895, Ga 0.2105 | model | [1] Wang 2011 | Table 2, p. 6, row 38 |  |
-| 555 | eutectoid: β-Au7Ga2 -> fcc(Au) + β′-Au7Ga2 | β-Au7Ga2: Au 0.7895, Ga 0.2105 | experimental | [1] Wang 2011; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 2, p. 6, row 36 |  |
-| 555 | eutectoid: β-Au7Ga2 -> fcc(Au) + β′-Au7Ga2 | β-Au7Ga2: Au 0.7895, Ga 0.2105 | model | [1] Wang 2011; _cites Liu 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.08.044) | Table 2, p. 6, row 37 |  |
-| 555 | βAu7Ga2 -> fcc(Au) + β'Au7Ga2 | βAu7Ga2: Ga 0.205; fcc(Au): Ga 0.085; β'Au7Ga2: Ga 0.213; β′Au7Ga2: Ga 0.213 | experimental | [2] Liu 2010; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 2, p. 5, row 8 |  |
-| 555 | βAu7Ga2 -> fcc(Au) + β'Au7Ga2 | βAu7Ga2: Ga 0.2038; fcc(Au): Ga 0.0898 | model | [2] Liu 2010 | Table 2, p. 5, row 7 |  |
-| 547 | γAu7Ga3 -> β'Au7Ga2 + γ'Au7Ga3 | γAu7Ga3: Ga 0.3048; β'Au7Ga2: Ga 0.2273 | model | [2] Liu 2010 | Table 2, p. 5, row 17 |  |
-| 547 | γAu7Ga3 -> β'Au7Ga2 + γ'Au7Ga3 | γAu7Ga3: Au 0.7, Ga 0.3; β'Au7Ga2: Au 0.777778, Ga 0.222222 | experimental | [2] Liu 2010; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 2, p. 5, row 18 |  |
-| 303 | liq. -> AuGa2 + orth. (Ga) | liq.: Ga 0.9992; AuGa2: Ga 0.6667; orth. (Ga): Ga 0.9999 | model | [2] Liu 2010 | Table 2, p. 5, row 27 |  |
-| 303 | eutectic: L -> AuGa2 + (Ga) | L: Ga 1; AuGa2: Au 0.333333, Ga 0.666667 | experimental | [1] Wang 2011; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 2, p. 6, row 30 |  |
-| 303 | eutectic: L -> AuGa2 + (Ga) | L: Ga 0.999; AuGa2: Au 0.333333, Ga 0.666667 | model | [1] Wang 2011; _cites Liu 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.08.044) | Table 2, p. 6, row 31 |  |
-| 303 | eutectic: L -> AuGa2 + (Ga) | AuGa2: Ga 0.666667; (Ga): Ga 1 | model | [3] Jendrzejczyk-Handzlik 2017 | Table 4, p. 9, row 47 |  |
-| 303 | liq. -> AuGa2 + orth. (Ga) | liq.: Ga 1; AuGa2: Ga 0.667; orth. (Ga): Ga 1 | experimental | [2] Liu 2010; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 2, p. 5, row 28 |  |
-| 303 | eutectic: L -> AuGa2 + (Ga) | AuGa2: Ga 0.666667; (Ga): Ga 1 | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 4, p. 9, row 44 |  |
-| 303 | eutectic: L -> AuGa2 + (Ga) | AuGa2: Ga 0.666667; (Ga): Ga 1 | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Wang 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.10.009) | Table 4, p. 9, row 46 |  |
-| 303 | eutectic: L -> AuGa2 + (Ga) | L: Ga 0.99998; AuGa2: Au 0.333333, Ga 0.666667 | model | [1] Wang 2011 | Table 2, p. 6, row 32 |  |
-| 303 | eutectic: L -> AuGa2 + (Ga) | AuGa2: Ga 0.666667; (Ga): Ga 1 | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Liu 2011_ [doi](https://doi.org/10.1016/j.jallcom.2010.08.044) | Table 4, p. 9, row 45 |  |
+| 764 | congruent melting: L -> AuGa2 | L: Ga 0.667; AuGa2: Au 0.333333, Ga 0.666667 | model | [1] Wang 2011 | Table 2, p. 6, row 29; `ORC-BY4AX66EZC` |  |
+| 764 | liq. -> AuGa2 | liq.: Ga 0.667; AuGa2: Ga 0.667 | experimental | [2] Liu 2010; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 2, p. 5, row 26; `ORC-G5MXIQHTNS` |  |
+| 764 | congruent melting: L -> AuGa2 | L: Ga 0.667; AuGa2: Au 0.333333, Ga 0.666667 | model | [1] Wang 2011; _cites Liu 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.08.044) | Table 2, p. 6, row 28; `ORC-RXOSE2HCHO` |  |
+| 764 | liq. -> AuGa2 | liq.: Ga 0.6667; AuGa2: Ga 0.6667 | model | [2] Liu 2010 | Table 2, p. 5, row 25; `ORC-VMLG7KOXYJ` |  |
+| 764 | congruent melting: L -> AuGa2 | L: Ga 0.667; AuGa2: Au 0.333333, Ga 0.666667 | experimental | [1] Wang 2011; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 2, p. 6, row 27; `ORC-VPAC5TENXL` |  |
+| 735 | congruent melting: L -> AuGa | L: Ga 0.5; AuGa: Au 0.5, Ga 0.5 | model | [1] Wang 2011; _cites Liu 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.08.044) | Table 2, p. 6, row 22; `ORC-N3ITQUOL32` |  |
+| 735 | congruent melting: L -> AuGa | L: Ga 0.5; AuGa: Au 0.5, Ga 0.5 | experimental | [1] Wang 2011; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 2, p. 6, row 21; `ORC-TQKS5UWUSJ` |  |
+| 734 | liq. -> AuGa | liq.: Ga 0.5; AuGa: Ga 0.5 | experimental | [2] Liu 2010; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 2, p. 5, row 22; `ORC-I2FGOM24DL` |  |
+| 734 | liq. -> AuGa | liq.: Ga 0.5; AuGa: Ga 0.5 | model | [2] Liu 2010 | Table 2, p. 5, row 21; `ORC-LEBM7Q7JX3` |  |
+| 732 | congruent melting: L -> AuGa | L: Ga 0.5; AuGa: Au 0.5, Ga 0.5 | model | [1] Wang 2011 | Table 2, p. 6, row 23; `ORC-GF2Y3O2TQT` |  |
+| 727 | eutectic: L -> AuGa + AuGa2 | L: Ga 0.546; AuGa: Au 0.5, Ga 0.5; AuGa2: Au 0.333333, Ga 0.666667 | model | [1] Wang 2011; _cites Liu 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.08.044) | Table 2, p. 6, row 25; `ORC-45LZHZ3JQ4` |  |
+| 727 | eutectic: L -> AuGa + AuGa2 | AuGa: Ga 0.5; AuGa2: Ga 0.666667 | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Liu 2011_ [doi](https://doi.org/10.1016/j.jallcom.2010.08.044) | Table 4, p. 9, row 37; `ORC-6UHWOVA7BV` |  |
+| 727 | liq. -> AuGa + AuGa2 | liq.: Ga 0.5462; AuGa: Ga 0.5; AuGa2: Ga 0.6667 | model | [2] Liu 2010 | Table 2, p. 5, row 23; `ORC-V3GDUG42IB` |  |
+| 726 | eutectic: L -> AuGa + AuGa2 | AuGa: Ga 0.5; AuGa2: Ga 0.666667 | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Wang 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.10.009) | Table 4, p. 9, row 38; `ORC-4AJWMIU53N` |  |
+| 726 | eutectic: L -> AuGa + AuGa2 | L: Ga 0.543; AuGa: Au 0.5, Ga 0.5; AuGa2: Au 0.333333, Ga 0.666667 | model | [1] Wang 2011 | Table 2, p. 6, row 26; `ORC-HHUB6IIHHE` |  |
+| 724 | eutectic: L -> AuGa + AuGa2 | AuGa: Ga 0.5; AuGa2: Ga 0.666667 | model | [3] Jendrzejczyk-Handzlik 2017 | Table 4, p. 9, row 39; `ORC-DA27PMCHI4` |  |
+| 722 | liq. -> AuGa + AuGa2 | liq.: Ga 0.555; AuGa: Ga 0.5; AuGa2: Ga 0.667 | experimental | [2] Liu 2010; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 2, p. 5, row 24; `ORC-DXTGOWBTNL` |  |
+| 722 | eutectic: L -> AuGa + AuGa2 | L: Ga 0.555; AuGa: Au 0.5, Ga 0.5; AuGa2: Au 0.333333, Ga 0.666667 | experimental | [1] Wang 2011; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 2, p. 6, row 24; `ORC-GW7DWZINNC` |  |
+| 722 | eutectic: L -> AuGa + AuGa2 | AuGa: Ga 0.5; AuGa2: Ga 0.666667 | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 4, p. 9, row 36; `ORC-L2LXZERJ3K` |  |
+| 697 | peritectic: L + fcc(Au) -> D024 | D024: Ga 0.111111 | experimental | [3] Jendrzejczyk-Handzlik 2017 | Table 4, p. 9, row 5; `ORC-2O2LPCUEJ5` |  |
+| 696 | peritectic: L ? fcc(Au) ? a-Au7Ga2 |  | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Mouani 1995_ [doi](https://doi.org/10.1016/0925-8388%2895%2901606-6) | p. 3; `ORC-36FX6QYOJ3` | “They reported temperature of the peritectic reaction L ? fcc(Au) ? a-Au7Ga2 to be 696 K.” |
+| 696 | peritectic: liquid + fcc → ␣Au7 Ga |  | experimental | [2] Liu 2010; _cites Mouani 1995_ [doi](https://doi.org/10.1016/0925-8388%2895%2901606-6) | p. 6; `ORC-3WRHQ3T4OP` | “In the present work, the phase relation and transformation temperatures based on the phase diagram of the Au-Ga system determined by Cooke and Hume-Rothery \[10\], the temperature of the peritectic reaction liquid + fcc → ␣Au7 Ga at 696 K \[17\] were adopted.” |
+| 696 | peritectic: L + fcc(Au) -> D024 | D024: Ga 0.111111 | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Liu 2011_ [doi](https://doi.org/10.1016/j.jallcom.2010.08.044) | Table 4, p. 9, row 3; `ORC-DYBPZTO7XA` |  |
+| 696 | peritectic: L + fcc(Au) -> D024 | L: Ga 0.213; D024: Au 0.888889, Ga 0.111111 | model | [1] Wang 2011; _cites Liu 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.08.044) | Table 2, p. 6, row 3; `ORC-EBNNYJFX2E` |  |
+| 696 | peritectic: liquid + fcc → ␣Au7 Ga |  | experimental | [2] Liu 2010; _cites Mouani 1995_ [doi](https://doi.org/10.1016/0925-8388%2895%2901606-6) | p. 1; `ORC-FPKDPQNCC7.f62cf0` | “Comparison with the results of Cooke et al. \[10\], the main difference is the temperature of the peritectic reaction liquid + fcc → ␣Au7 Ga, which is 696 K \[17\] instead of 688 K \[10\].” |
+| 696 | peritectic: L + fcc(Au) -> D024 | D024: Ga 0.111111 | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Mouani 1995_ [doi](https://doi.org/10.1016/0925-8388%2895%2901606-6) | Table 4, p. 9, row 2; `ORC-HQVDZAVH5Q` |  |
+| 696 | peritectic: L + fcc(Au) ↔ D024 |  | experimental | [1] Wang 2011 | p. 2; `ORC-PIOTMWVSQB.8c6fd8` | “The temperature of the peritectic reaction, L + fcc(Au) ↔ D024 at 696 K is different from the previously measured value (688 K) of Cooke and Hume-Rothery \[19\].” |
+| 696 | liq. + fcc(Au) -> αAu7Ga | liq.: Ga 0.228; fcc(Au): Ga 0.124; αAu7Ga: Ga 0.138 | experimental | [2] Liu 2010; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 2, p. 5, row 2; `ORC-UO6H2FBUUX` |  |
+| 696 | peritectic: L + fcc(Au) -> D024 | D024: Au 0.888889, Ga 0.111111 | experimental | [1] Wang 2011; _cites Mouani 1995_ [doi](https://doi.org/10.1016/0925-8388%2895%2901606-6) | Table 2, p. 6, row 2; `ORC-XQXBFI36QP` |  |
+| 696 | liq. + fcc(Au) -> αAu7Ga | liq.: Ga 0.2129; fcc(Au): Ga 0.1222; αAu7Ga: Ga 0.135 | model | [2] Liu 2010 | Table 2, p. 5, row 1; `ORC-ZVZKPWP3FP` |  |
+| 693 | peritectic: L + fcc(Au) -> D024 | D024: Ga 0.111111 | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Wang 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.10.009) | Table 4, p. 9, row 4; `ORC-GZCUU4YHHM` |  |
+| 693 | peritectic: L + fcc(Au) -> D024 | L: Ga 0.236; D024: Au 0.888889, Ga 0.111111 | model | [1] Wang 2011 | Table 2, p. 6, row 4; `ORC-IRTZRNQKXY` |  |
+| 690 | peritectic: L + fcc(Au) -> D024 | D024: Ga 0.111111 | model | [3] Jendrzejczyk-Handzlik 2017 | Table 4, p. 9, row 6; `ORC-TUR67H2FIQ` |  |
+| 688 | peritectic: L + fcc(Au) -> D024 | D024: Ga 0.111111 | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 4, p. 9, row 1; `ORC-25VBOIBYDT` |  |
+| 688 | peritectic: liquid + fcc → ␣Au7 Ga |  | experimental | [2] Liu 2010; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | p. 1; `ORC-FPKDPQNCC7.3aa723` | “Comparison with the results of Cooke et al. \[10\], the main difference is the temperature of the peritectic reaction liquid + fcc → ␣Au7 Ga, which is 696 K \[17\] instead of 688 K \[10\].” |
+| 688 | peritectic: L + fcc(Au) -> D024 | L: Ga 0.228; D024: Au 0.888889, Ga 0.111111 | experimental | [1] Wang 2011; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 2, p. 6, row 1; `ORC-IEIPXFIN2F` |  |
+| 688 | peritectic: L + fcc(Au) ↔ D024 |  | experimental | [1] Wang 2011; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | p. 2; `ORC-PIOTMWVSQB.599ff0` | “The temperature of the peritectic reaction, L + fcc(Au) ↔ D024 at 696 K is different from the previously measured value (688 K) of Cooke and Hume-Rothery \[19\].” |
+| 684 | peritectic: L + D024 -> β-Au7Ga2 | D024: Ga 0.111111; β-Au7Ga2: Ga 0.222222 | experimental | [3] Jendrzejczyk-Handzlik 2017 | Table 4, p. 9, row 11; `ORC-3L3NVAP4BG` |  |
+| 683 | liq. + αAu7Ga -> βAu7Ga2 | liq.: Ga 0.2185; αAu7Ga: Ga 0.1369; βAu7Ga2: Ga 0.2021 | model | [2] Liu 2010 | Table 2, p. 5, row 3; `ORC-2L3BNWCXIU` |  |
+| 683 | peritectic: L + D024 -> β-Au7Ga2 | D024: Au 0.888889, Ga 0.111111; β-Au7Ga2: Au 0.7895, Ga 0.2105 | experimental | [1] Wang 2011; _cites Mouani 1995_ [doi](https://doi.org/10.1016/0925-8388%2895%2901606-6) | Table 2, p. 6, row 6; `ORC-7ZQFF5RQKK` |  |
+| 683 | peritectic: L + D024 -> β-Au7Ga2 | L: Ga 0.219; D024: Au 0.888889, Ga 0.111111; β-Au7Ga2: Au 0.7895, Ga 0.2105 | experimental | [1] Wang 2011; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 2, p. 6, row 7; `ORC-TXAMIHEZ34` |  |
+| 683 | liq. + αAu7Ga -> βAu7Ga2 | liq.: Ga 0.231; αAu7Ga: Ga 0.142; βAu7Ga2: Ga 0.205 | experimental | [2] Liu 2010; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 2, p. 5, row 4; `ORC-UK2LCCIZGZ` |  |
+| 683 | peritectic: L + D024 -> β-Au7Ga2 | D024: Ga 0.111111; β-Au7Ga2: Ga 0.222222 | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 4, p. 9, row 7; `ORC-USEV7QELCQ` |  |
+| 683 | peritectic: L + D024 -> β-Au7Ga2 | D024: Ga 0.111111; β-Au7Ga2: Ga 0.222222 | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Liu 2011_ [doi](https://doi.org/10.1016/j.jallcom.2010.08.044) | Table 4, p. 9, row 9; `ORC-VH5P2COX2T` |  |
+| 683 | peritectic: L + D024 -> β-Au7Ga2 | D024: Ga 0.111111; β-Au7Ga2: Ga 0.222222 | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Mouani 1995_ [doi](https://doi.org/10.1016/0925-8388%2895%2901606-6) | Table 4, p. 9, row 8; `ORC-W4SIOXCY2P` |  |
+| 683 | peritectic: L + D024 -> β-Au7Ga2 | L: Ga 0.231; D024: Au 0.888889, Ga 0.111111; β-Au7Ga2: Au 0.7895, Ga 0.2105 | experimental | [1] Wang 2011; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 2, p. 6, row 5; `ORC-YI3E4J6PK7` |  |
+| 682.8 | peritectic |  | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | p. 8; `ORC-OGGZWWAXOJ` | “AuGa has a structure of the MnP(B31)-type,\[11,14,31\] AuGa2 has isotypic CaF2(C1)-type structure,\[38,41,50\] b-Au7Ga2 has a hexagonal structure\[39,41\] and extends from \*20.4 to 22.1 at.% Ga,\[17,36\] b'-Au7Ga2 is formed peritectically at 682.8 K and exists unchanged down to room temperature.” |
+| 682.8 | peritectic |  | experimental | [2] Liu 2010; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | p. 4; `ORC-VXYQMHDXGD` | “The compound ␤ Au7 Ga2 is formed peritectically at 682.8 K and exists unchanged down to room temperature, which has an orthorhombic structure \[10\] and has a homogeneity range of 21.3-24.8 at.% Ga \[10,16,17\].” |
+| 679 | peritectic: L + D024 -> β-Au7Ga2 | D024: Ga 0.111111; β-Au7Ga2: Ga 0.222222 | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Wang 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.10.009) | Table 4, p. 9, row 10; `ORC-6RP35VZBJG` |  |
+| 679 | peritectic: L + D024 -> β-Au7Ga2 | L: Ga 0.241; D024: Au 0.888889, Ga 0.111111; β-Au7Ga2: Au 0.7895, Ga 0.2105 | model | [1] Wang 2011 | Table 2, p. 6, row 8; `ORC-ATMFHSUAWH` |  |
+| 678 | peritectic: L + D024 -> β-Au7Ga2 | D024: Ga 0.111111; β-Au7Ga2: Ga 0.222222 | model | [3] Jendrzejczyk-Handzlik 2017 | Table 4, p. 9, row 12; `ORC-EWUTJQQS7T` |  |
+| 648 | peritectic: L + β-Au7Ga2 -> β'-Au7Ga2 | β-Au7Ga2: Ga 0.222222; β'-Au7Ga2: Ga 0.222222 | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 4, p. 9, row 13; `ORC-ABSB5IR5IX` |  |
+| 648 | peritectic: L + β-Au7Ga2 -> β′-Au7Ga2 | L: Ga 0.265; β-Au7Ga2: Au 0.7895, Ga 0.2105 | experimental | [1] Wang 2011; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 2, p. 6, row 9; `ORC-GQ5TLXCRU3` |  |
+| 648 | peritectic: L + β-Au7Ga2 -> β′-Au7Ga2 | L: Ga 0.279; β-Au7Ga2: Au 0.7895, Ga 0.2105 | model | [1] Wang 2011; _cites Liu 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.08.044) | Table 2, p. 6, row 10; `ORC-I66I2U5SCM` |  |
+| 648 | liq. + βAu7Ga2 -> β'Au7Ga2 | liq.: Ga 0.2789; βAu7Ga2: Ga 0.2206 | model | [2] Liu 2010 | Table 2, p. 5, row 9; `ORC-RQWU2JMIDS` |  |
+| 648 | peritectic: L + β-Au7Ga2 -> β'-Au7Ga2 | β-Au7Ga2: Ga 0.222222; β'-Au7Ga2: Ga 0.222222 | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Liu 2011_ [doi](https://doi.org/10.1016/j.jallcom.2010.08.044) | Table 4, p. 9, row 14; `ORC-SW6DGO2LHV` |  |
+| 648 | liq. + βAu7Ga2 -> β'Au7Ga2 | liq.: Ga 0.265; βAu7Ga2: Ga 0.221; β'Au7Ga2: Ga 0.231; β′Au7Ga2: Ga 0.231 | experimental | [2] Liu 2010; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 2, p. 5, row 10; `ORC-V5CY6LOL2J` |  |
+| 648 | peritectic: L + β-Au7Ga2 -> β'-Au7Ga2 | β-Au7Ga2: Ga 0.222222; β'-Au7Ga2: Ga 0.222222 | model | [3] Jendrzejczyk-Handzlik 2017 | Table 4, p. 9, row 17; `ORC-YAIXXYLXMM.e479cf` |  |
+| 647 | peritectic: L + β-Au7Ga2 -> β'-Au7Ga2 | β-Au7Ga2: Ga 0.222222; β'-Au7Ga2: Ga 0.222222 | experimental | [3] Jendrzejczyk-Handzlik 2017 | Table 4, p. 9, row 16; `ORC-Q2IZRIN26O` |  |
+| 644 | peritectic: L + β-Au7Ga2 -> β'-Au7Ga2 | β-Au7Ga2: Ga 0.222222; β'-Au7Ga2: Ga 0.222222 | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Wang 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.10.009) | Table 4, p. 9, row 15; `ORC-JWKNB4BTL5` |  |
+| 644 | peritectic: L + β-Au7Ga2 -> β′-Au7Ga2 | L: Ga 0.28; β-Au7Ga2: Au 0.7895, Ga 0.2105 | model | [1] Wang 2011 | Table 2, p. 6, row 11; `ORC-SQXYWZKFS2` |  |
+| 624 | congruent melting: L -> γ-Au7Ga3 | L: Ga 0.3; γ-Au7Ga3: Au 0.7, Ga 0.3 | model | [1] Wang 2011 | Table 2, p. 6, row 17; `ORC-AJEIPD2MAH` |  |
+| 623 | eutectic: L -> γ-Au7Ga3 + β′-Au7Ga2 | L: Ga 0.299; γ-Au7Ga3: Au 0.7, Ga 0.3; β′-Au7Ga2: Au 0.7895, Ga 0.2105 | model | [1] Wang 2011 | Table 2, p. 6, row 14; `ORC-C5Q2RJ3VRZ` |  |
+| 623 | congruent melting: L -> γ-Au7Ga3 | L: Au 0.7, Ga 0.3; γ-Au7Ga3: Au 0.7, Ga 0.3 | experimental | [1] Wang 2011; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 2, p. 6, row 15; `ORC-LKQA7ODMWA` |  |
+| 623 | eutectic: L -> γ-Au7Ga3 + β'-Au7Ga2 | γ-Au7Ga3: Ga 0.3; β'-Au7Ga2: Ga 0.222222 | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Wang 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.10.009) | Table 4, p. 9, row 20; `ORC-SFCLYFBQSD` |  |
+| 622 | eutectic: L -> γ-Au7Ga3 + β′-Au7Ga2 | L: Ga 0.308; γ-Au7Ga3: Au 0.7, Ga 0.3; β′-Au7Ga2: Au 0.7895, Ga 0.2105 | model | [1] Wang 2011; _cites Liu 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.08.044) | Table 2, p. 6, row 13; `ORC-FK73WE43EE` |  |
+| 622 | eutectic: L -> γ-Au7Ga3 + β'-Au7Ga2 | γ-Au7Ga3: Ga 0.3; β'-Au7Ga2: Ga 0.222222 | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Liu 2011_ [doi](https://doi.org/10.1016/j.jallcom.2010.08.044) | Table 4, p. 9, row 19; `ORC-FPNTS7EAAI` |  |
+| 622 | liq. -> γAu7Ga3 | liq.: Ga 0.3086; γAu7Ga3: Ga 0.3086 | model | [2] Liu 2010 | Table 2, p. 5, row 15; `ORC-K5SCWO4O44` |  |
+| 622 | liq. -> γAu7Ga3 | liq.: Ga 0.305; γAu7Ga3: Ga 0.305 | experimental | [2] Liu 2010; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 2, p. 5, row 16; `ORC-MAPVCQ4XGH` |  |
+| 622 | congruent melting: L -> γ-Au7Ga3 | L: Ga 0.309; γ-Au7Ga3: Au 0.7, Ga 0.3 | model | [1] Wang 2011; _cites Liu 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.08.044) | Table 2, p. 6, row 16; `ORC-MRPJNEJ5SP` |  |
+| 622 | liq. -> β'Au7Ga2 + γAu7Ga3 | liq.: Ga 0.3079; β'Au7Ga2: Ga 0.2313; γAu7Ga3: Ga 0.3087 | model | [2] Liu 2010 | Table 2, p. 5, row 11; `ORC-ZTLJQIGB5U` |  |
+| 621 | αAu7Ga -> fcc(Au) + βAu7Ga2 | αAu7Ga: Ga 0.106; fcc(Au): Ga 0.128; βAu7Ga2: Ga 0.204 | experimental | [2] Liu 2010; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 2, p. 5, row 6; `ORC-A7TF6NU4LK` |  |
+| 621 | αAu7Ga -> fcc(Au) + βAu7Ga2 | αAu7Ga: Ga 0.1304; fcc(Au): Ga 0.1067; βAu7Ga2: Ga 0.2016 | model | [2] Liu 2010 | Table 2, p. 5, row 5; `ORC-QA32XAKM43` |  |
+| 621 | eutectoid: D024 -> fcc(Au) + β-Au7Ga2 | D024: Au 0.888889, Ga 0.111111; β-Au7Ga2: Au 0.7895, Ga 0.2105 | experimental | [1] Wang 2011; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 2, p. 6, row 33; `ORC-S33N3G465Y` |  |
+| 621 | eutectoid: D024 -> fcc(Au) + β-Au7Ga2 | D024: Au 0.888889, Ga 0.111111; β-Au7Ga2: Au 0.7895, Ga 0.2105 | model | [1] Wang 2011 | Table 2, p. 6, row 35; `ORC-Y6EOY3B4BM` |  |
+| 621 | eutectoid: D024 -> fcc(Au) + β-Au7Ga2 | D024: Au 0.888889, Ga 0.111111; β-Au7Ga2: Au 0.7895, Ga 0.2105 | model | [1] Wang 2011; _cites Liu 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.08.044) | Table 2, p. 6, row 34; `ORC-ZDN4NI6GVP` |  |
+| 621 | eutectic: L -> γ-Au7Ga3 + β'-Au7Ga2 | γ-Au7Ga3: Ga 0.3; β'-Au7Ga2: Ga 0.222222 | model | [3] Jendrzejczyk-Handzlik 2017 | Table 4, p. 9, row 22; `ORC-ZJSBFI5ZK2` |  |
+| 620 | eutectic: L -> γ-Au7Ga3 + β'-Au7Ga2 | γ-Au7Ga3: Ga 0.3; β'-Au7Ga2: Ga 0.222222 | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 4, p. 9, row 18; `ORC-7NLCZXOMOZ` |  |
+| 620 | liq. -> β'Au7Ga2 + γAu7Ga3 | liq.: Ga 0.285; β'Au7Ga2: Ga 0.248; γAu7Ga3: Ga 0.298 | experimental | [2] Liu 2010; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 2, p. 5, row 12; `ORC-DLWWPOUFZ4` |  |
+| 620 | eutectic: L -> γ-Au7Ga3 + β′-Au7Ga2 | L: Ga 0.298; γ-Au7Ga3: Au 0.7, Ga 0.3; β′-Au7Ga2: Au 0.7895, Ga 0.2105 | experimental | [1] Wang 2011; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 2, p. 6, row 12; `ORC-JL643V624L` |  |
+| 620 | eutectic: L -> γ-Au7Ga3 + β'-Au7Ga2 | γ-Au7Ga3: Ga 0.3; β'-Au7Ga2: Ga 0.222222 | experimental | [3] Jendrzejczyk-Handzlik 2017 | Table 4, p. 9, row 21; `ORC-SZ3ZN2DO4U.196b31` |  |
+| 619 | eutectic: L -> γ-Au7Ga3 + AuGa | γ-Au7Ga3: Ga 0.3; AuGa: Ga 0.5 | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Liu 2011_ [doi](https://doi.org/10.1016/j.jallcom.2010.08.044) | Table 4, p. 9, row 28; `ORC-25IUVY6HKK` |  |
+| 619 | eutectic: L -> γ-Au7Ga3 + AuGa | L: Ga 0.336; γ-Au7Ga3: Au 0.7, Ga 0.3; AuGa: Au 0.5, Ga 0.5 | model | [1] Wang 2011; _cites Liu 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.08.044) | Table 2, p. 6, row 19; `ORC-H4KGH4EXXW` |  |
+| 619 | eutectic: L -> γ-Au7Ga3 + AuGa | L: Ga 0.33; γ-Au7Ga3: Au 0.7, Ga 0.3; AuGa: Au 0.5, Ga 0.5 | model | [1] Wang 2011 | Table 2, p. 6, row 20; `ORC-NJATG5V4IS` |  |
+| 619 | eutectic: L -> γ-Au7Ga3 + AuGa | γ-Au7Ga3: Ga 0.3; AuGa: Ga 0.5 | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Wang 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.10.009) | Table 4, p. 9, row 29; `ORC-QZ5DPDXINY` |  |
+| 619 | liq. -> γAu7Ga3 + AuGa | liq.: Ga 0.3362; γAu7Ga3: Ga 0.3195; AuGa: Ga 0.5 | model | [2] Liu 2010 | Table 2, p. 5, row 13; `ORC-ZETYTAT4QQ` |  |
+| 613 | eutectic: L -> γ-Au7Ga3 + AuGa | L: Ga 0.336; γ-Au7Ga3: Au 0.7, Ga 0.3; AuGa: Au 0.5, Ga 0.5 | experimental | [1] Wang 2011; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 2, p. 6, row 18; `ORC-K3DVKJV7QB` |  |
+| 613 | eutectic: L -> γ-Au7Ga3 + AuGa | γ-Au7Ga3: Ga 0.3; AuGa: Ga 0.5 | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 4, p. 9, row 27; `ORC-OTZTWMNEI2` |  |
+| 613 | eutectic: L -> γ-Au7Ga3 + AuGa | γ-Au7Ga3: Ga 0.3; AuGa: Ga 0.5 | experimental | [3] Jendrzejczyk-Handzlik 2017 | Table 4, p. 9, row 30; `ORC-SQCB22U2T7.8ffcd2` |  |
+| 613 | eutectic: L -> γ-Au7Ga3 + AuGa | γ-Au7Ga3: Ga 0.3; AuGa: Ga 0.5 | model | [3] Jendrzejczyk-Handzlik 2017 | Table 4, p. 9, row 31; `ORC-SQCB22U2T7.b0b936` |  |
+| 612 | liq. -> γAu7Ga3 + AuGa | liq.: Ga 0.336; γAu7Ga3: Ga 0.31; AuGa: Ga 0.5 | experimental | [2] Liu 2010; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 2, p. 5, row 14; `ORC-6IW6KPFEKZ` |  |
+| 559 | γAu7Ga3 -> AuGa + γ'Au7Ga3 | γAu7Ga3: Au 0.7, Ga 0.3; AuGa: Au 0.5, Ga 0.5 | experimental | [2] Liu 2010; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 2, p. 5, row 20; `ORC-TAVVGCFGU2` |  |
+| 559 | γAu7Ga3 -> AuGa + γ'Au7Ga3 | γAu7Ga3: Ga 0.3147; AuGa: Ga 0.5 | model | [2] Liu 2010 | Table 2, p. 5, row 19; `ORC-ZZ3BHFCWJW` |  |
+| 557 | eutectoid: β-Au7Ga2 -> fcc(Au) + β′-Au7Ga2 | β-Au7Ga2: Au 0.7895, Ga 0.2105 | model | [1] Wang 2011 | Table 2, p. 6, row 38; `ORC-YBWLIQN22F` |  |
+| 555 | eutectoid: β-Au7Ga2 -> fcc(Au) + β′-Au7Ga2 | β-Au7Ga2: Au 0.7895, Ga 0.2105 | experimental | [1] Wang 2011; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 2, p. 6, row 36; `ORC-ALOKIR4643` |  |
+| 555 | eutectoid: β-Au7Ga2 -> fcc(Au) + β′-Au7Ga2 | β-Au7Ga2: Au 0.7895, Ga 0.2105 | model | [1] Wang 2011; _cites Liu 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.08.044) | Table 2, p. 6, row 37; `ORC-E2OYSWGS2Z` |  |
+| 555 | βAu7Ga2 -> fcc(Au) + β'Au7Ga2 | βAu7Ga2: Ga 0.205; fcc(Au): Ga 0.085; β'Au7Ga2: Ga 0.213; β′Au7Ga2: Ga 0.213 | experimental | [2] Liu 2010; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 2, p. 5, row 8; `ORC-RYUUEYHUMK` |  |
+| 555 | βAu7Ga2 -> fcc(Au) + β'Au7Ga2 | βAu7Ga2: Ga 0.2038; fcc(Au): Ga 0.0898 | model | [2] Liu 2010 | Table 2, p. 5, row 7; `ORC-XMSHJDAZXU` |  |
+| 547 | γAu7Ga3 -> β'Au7Ga2 + γ'Au7Ga3 | γAu7Ga3: Ga 0.3048; β'Au7Ga2: Ga 0.2273 | model | [2] Liu 2010 | Table 2, p. 5, row 17; `ORC-7EBZVPCTFT` |  |
+| 547 | γAu7Ga3 -> β'Au7Ga2 + γ'Au7Ga3 | γAu7Ga3: Au 0.7, Ga 0.3; β'Au7Ga2: Au 0.777778, Ga 0.222222 | experimental | [2] Liu 2010; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 2, p. 5, row 18; `ORC-7VJCRO5M7F` |  |
+| 303 | liq. -> AuGa2 + orth. (Ga) | liq.: Ga 0.9992; AuGa2: Ga 0.6667; orth. (Ga): Ga 0.9999 | model | [2] Liu 2010 | Table 2, p. 5, row 27; `ORC-5WRMCAJODI` |  |
+| 303 | eutectic: L -> AuGa2 + (Ga) | L: Ga 1; AuGa2: Au 0.333333, Ga 0.666667 | experimental | [1] Wang 2011; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 2, p. 6, row 30; `ORC-BKM47VDDS7` |  |
+| 303 | eutectic: L -> AuGa2 + (Ga) | L: Ga 0.999; AuGa2: Au 0.333333, Ga 0.666667 | model | [1] Wang 2011; _cites Liu 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.08.044) | Table 2, p. 6, row 31; `ORC-ERSALDBCFK` |  |
+| 303 | eutectic: L -> AuGa2 + (Ga) | AuGa2: Ga 0.666667; (Ga): Ga 1 | model | [3] Jendrzejczyk-Handzlik 2017 | Table 4, p. 9, row 47; `ORC-IZ6CJVVHHZ.fb37a0` |  |
+| 303 | liq. -> AuGa2 + orth. (Ga) | liq.: Ga 1; AuGa2: Ga 0.667; orth. (Ga): Ga 1 | experimental | [2] Liu 2010; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 2, p. 5, row 28; `ORC-KBLQBNYNBA` |  |
+| 303 | eutectic: L -> AuGa2 + (Ga) | AuGa2: Ga 0.666667; (Ga): Ga 1 | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 4, p. 9, row 44; `ORC-Q4X6L76TUB` |  |
+| 303 | eutectic: L -> AuGa2 + (Ga) | AuGa2: Ga 0.666667; (Ga): Ga 1 | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Wang 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.10.009) | Table 4, p. 9, row 46; `ORC-SAZ4KN3KIN` |  |
+| 303 | eutectic: L -> AuGa2 + (Ga) | L: Ga 0.99998; AuGa2: Au 0.333333, Ga 0.666667 | model | [1] Wang 2011 | Table 2, p. 6, row 32; `ORC-SCFBW3IE4H` |  |
+| 303 | eutectic: L -> AuGa2 + (Ga) | AuGa2: Ga 0.666667; (Ga): Ga 1 | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Liu 2011_ [doi](https://doi.org/10.1016/j.jallcom.2010.08.044) | Table 4, p. 9, row 45; `ORC-W7T2P32PFN` |  |
 
 ## Other properties
 
@@ -221,20 +221,20 @@ Table: Phase transition, Au–Ga system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 555 K | 555 | other | experimental | [1] Wang 2011; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | p. 2 | “β -Au7 Ga2 and γ -Au7 Ga3 decompose at 555 K and 547-559 K, respectively, while β ′ -Au7 Ga2 and γ ′ -Au7 Ga3 are stable down to room temperature.” |
-| Phase transition | 621 K | 621 | congruent melting: L -> γ-Au7Ga3; _L: Ga 0.3; γ-Au7Ga3: Ga 0.3_ | model | [3] Jendrzejczyk-Handzlik 2017 | Table 4, p. 9, row 26 |  |
-| Phase transition | 622 K | 622 | congruent melting: L -> γ-Au7Ga3; _L: Ga 0.3; γ-Au7Ga3: Ga 0.3_ | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Liu 2011_ [doi](https://doi.org/10.1016/j.jallcom.2010.08.044) | Table 4, p. 9, row 24 |  |
-| Phase transition | 623 K | 623 | congruent melting: L -> γ-Au7Ga3; _L: Ga 0.3; γ-Au7Ga3: Ga 0.3_ | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 4, p. 9, row 23 |  |
-| Phase transition | 624 K | 624 | congruent melting: L -> γ-Au7Ga3; _L: Ga 0.3; γ-Au7Ga3: Ga 0.3_ | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Wang 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.10.009) | Table 4, p. 9, row 25 |  |
-| Phase transition | 688 K | 688 | L ? fcc(Au) ? a-Au7Ga2 | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | p. 3 | “The temperature of this invariant reaction is different from the result of Cooke and Hume-Rothery\[36\] which is 688 K.” |
-| Phase transition | 732 K | 732 | congruent melting: L -> AuGa; _L: Ga 0.5; AuGa: Ga 0.5_ | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Wang 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.10.009) | Table 4, p. 9, row 34 |  |
-| Phase transition | 734 K | 734 | congruent melting: L -> AuGa; _L: Ga 0.5; AuGa: Ga 0.5_ | model | [3] Jendrzejczyk-Handzlik 2017 | Table 4, p. 9, row 35 |  |
-| Phase transition | 735 K | 735 | congruent melting: L -> AuGa; _L: Ga 0.5; AuGa: Ga 0.5_ | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 4, p. 9, row 32 |  |
-| Phase transition | 735 K | 735 | congruent melting: L -> AuGa; _L: Ga 0.5; AuGa: Ga 0.5_ | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Liu 2011_ [doi](https://doi.org/10.1016/j.jallcom.2010.08.044) | Table 4, p. 9, row 33 |  |
-| Phase transition | 764 K | 764 | congruent melting: L -> AuGa2; _L: Ga 0.666667; AuGa2: Ga 0.666667_ | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 4, p. 9, row 40 |  |
-| Phase transition | 764 K | 764 | congruent melting: L -> AuGa2; _L: Ga 0.666667; AuGa2: Ga 0.666667_ | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Wang 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.10.009) | Table 4, p. 9, row 42 |  |
-| Phase transition | 764 K | 764 | congruent melting: L -> AuGa2; _L: Ga 0.666667; AuGa2: Ga 0.666667_ | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Liu 2011_ [doi](https://doi.org/10.1016/j.jallcom.2010.08.044) | Table 4, p. 9, row 41 |  |
-| Phase transition | 764 K | 764 | congruent melting: L -> AuGa2; _L: Ga 0.666667; AuGa2: Ga 0.666667_ | model | [3] Jendrzejczyk-Handzlik 2017 | Table 4, p. 9, row 43 |  |
+| Phase transition | 555 K | 555 | other | experimental | [1] Wang 2011; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | p. 2; `ORC-VEDEEWKPQC` | “β -Au7 Ga2 and γ -Au7 Ga3 decompose at 555 K and 547-559 K, respectively, while β ′ -Au7 Ga2 and γ ′ -Au7 Ga3 are stable down to room temperature.” |
+| Phase transition | 621 K | 621 | congruent melting: L -> γ-Au7Ga3; _L: Ga 0.3; γ-Au7Ga3: Ga 0.3_ | model | [3] Jendrzejczyk-Handzlik 2017 | Table 4, p. 9, row 26; `ORC-GVBGDBUZP2` |  |
+| Phase transition | 622 K | 622 | congruent melting: L -> γ-Au7Ga3; _L: Ga 0.3; γ-Au7Ga3: Ga 0.3_ | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Liu 2011_ [doi](https://doi.org/10.1016/j.jallcom.2010.08.044) | Table 4, p. 9, row 24; `ORC-B2JJA5CNB7` |  |
+| Phase transition | 623 K | 623 | congruent melting: L -> γ-Au7Ga3; _L: Ga 0.3; γ-Au7Ga3: Ga 0.3_ | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 4, p. 9, row 23; `ORC-VEOKT2NVJA` |  |
+| Phase transition | 624 K | 624 | congruent melting: L -> γ-Au7Ga3; _L: Ga 0.3; γ-Au7Ga3: Ga 0.3_ | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Wang 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.10.009) | Table 4, p. 9, row 25; `ORC-IDYSLPLQWL` |  |
+| Phase transition | 688 K | 688 | L ? fcc(Au) ? a-Au7Ga2 | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | p. 3; `ORC-YADRQ5O63W` | “The temperature of this invariant reaction is different from the result of Cooke and Hume-Rothery\[36\] which is 688 K.” |
+| Phase transition | 732 K | 732 | congruent melting: L -> AuGa; _L: Ga 0.5; AuGa: Ga 0.5_ | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Wang 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.10.009) | Table 4, p. 9, row 34; `ORC-RU5Z7ZL5LD` |  |
+| Phase transition | 734 K | 734 | congruent melting: L -> AuGa; _L: Ga 0.5; AuGa: Ga 0.5_ | model | [3] Jendrzejczyk-Handzlik 2017 | Table 4, p. 9, row 35; `ORC-ZO5H2U4IPD` |  |
+| Phase transition | 735 K | 735 | congruent melting: L -> AuGa; _L: Ga 0.5; AuGa: Ga 0.5_ | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 4, p. 9, row 32; `ORC-NRTGHHRKUQ` |  |
+| Phase transition | 735 K | 735 | congruent melting: L -> AuGa; _L: Ga 0.5; AuGa: Ga 0.5_ | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Liu 2011_ [doi](https://doi.org/10.1016/j.jallcom.2010.08.044) | Table 4, p. 9, row 33; `ORC-VF6WZVLX52` |  |
+| Phase transition | 764 K | 764 | congruent melting: L -> AuGa2; _L: Ga 0.666667; AuGa2: Ga 0.666667_ | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 4, p. 9, row 40; `ORC-D5IBQFHSCX` |  |
+| Phase transition | 764 K | 764 | congruent melting: L -> AuGa2; _L: Ga 0.666667; AuGa2: Ga 0.666667_ | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Wang 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.10.009) | Table 4, p. 9, row 42; `ORC-EG2SNQUOWT` |  |
+| Phase transition | 764 K | 764 | congruent melting: L -> AuGa2; _L: Ga 0.666667; AuGa2: Ga 0.666667_ | experimental | [3] Jendrzejczyk-Handzlik 2017; _cites Liu 2011_ [doi](https://doi.org/10.1016/j.jallcom.2010.08.044) | Table 4, p. 9, row 41; `ORC-GE3TE3S7TL` |  |
+| Phase transition | 764 K | 764 | congruent melting: L -> AuGa2; _L: Ga 0.666667; AuGa2: Ga 0.666667_ | model | [3] Jendrzejczyk-Handzlik 2017 | Table 4, p. 9, row 43; `ORC-GY2CLTRZRQ.c7ed3c` |  |
 
 ### Activity / EMF / Gibbs energy (5)
 
@@ -242,11 +242,11 @@ Table: Activity / EMF / Gibbs energy, Au–Ga system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| EMF; _printed: A_ | 0.325 V |  | UNKNOWN; _alloy: Au 0.6, Ga 0.4_ | experimental | [3] Jendrzejczyk-Handzlik 2017 | Table 1, p. 5, row 4 |  |
-| EMF; _printed: A_ | 0.427 V |  | UNKNOWN; _alloy: Au 0.4, Ga 0.6_ | experimental | [3] Jendrzejczyk-Handzlik 2017 | Table 1, p. 5, row 3 |  |
-| EMF; _printed: A_ | 0.47 V |  | UNKNOWN; _alloy: Au 0.2, Ga 0.8_ | experimental | [3] Jendrzejczyk-Handzlik 2017 | Table 1, p. 5, row 2 |  |
-| EMF; _printed: A_ | 0.486 V |  | UNKNOWN; _alloy: Au 0, Ga 1_ | experimental | [3] Jendrzejczyk-Handzlik 2017 | Table 1, p. 5, row 1 |  |
-| EMF; _printed: A_ | 0.186 V |  | UNKNOWN; _alloy: Au 0.8, Ga 0.2_ | experimental | [3] Jendrzejczyk-Handzlik 2017 | Table 1, p. 5, row 5 |  |
+| EMF; _printed: A_ | 0.325 V |  | UNKNOWN; _alloy: Au 0.6, Ga 0.4_ | experimental | [3] Jendrzejczyk-Handzlik 2017 | Table 1, p. 5, row 4; `ORC-KFZPEP2WTX` |  |
+| EMF; _printed: A_ | 0.427 V |  | UNKNOWN; _alloy: Au 0.4, Ga 0.6_ | experimental | [3] Jendrzejczyk-Handzlik 2017 | Table 1, p. 5, row 3; `ORC-RLXNM7TNIW` |  |
+| EMF; _printed: A_ | 0.47 V |  | UNKNOWN; _alloy: Au 0.2, Ga 0.8_ | experimental | [3] Jendrzejczyk-Handzlik 2017 | Table 1, p. 5, row 2; `ORC-W633VL6X2E` |  |
+| EMF; _printed: A_ | 0.486 V |  | UNKNOWN; _alloy: Au 0, Ga 1_ | experimental | [3] Jendrzejczyk-Handzlik 2017 | Table 1, p. 5, row 1; `ORC-YDPJB4BSWI` |  |
+| EMF; _printed: A_ | 0.186 V |  | UNKNOWN; _alloy: Au 0.8, Ga 0.2_ | experimental | [3] Jendrzejczyk-Handzlik 2017 | Table 1, p. 5, row 5; `ORC-YE2AE5HI7S` |  |
 
 ### Crystal structure (3)
 
@@ -254,9 +254,9 @@ Table: Crystal structure, Au–Ga system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 7.7258 Å |  | Au7Ga2-HT | model | [4] Ghasemi 2014; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 1, p. 2, row 6 |  |
-| Lattice a | 6.0758 Å | 298.15 | AuGa2; _alloy: Ga 0.666667_ | experimental | [4] Ghasemi 2014; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 1, p. 2, row 10 |  |
-| Lattice c | 8.7413 Å |  | Au7Ga2-HT | model | [4] Ghasemi 2014; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 1, p. 2, row 6 |  |
+| Lattice a | 7.7258 Å |  | Au7Ga2-HT | model | [4] Ghasemi 2014; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 1, p. 2, row 6; `ORC-L2LJ747QCK.67d581` |  |
+| Lattice a | 6.0758 Å | 298.15 | AuGa2; _alloy: Ga 0.666667_ | experimental | [4] Ghasemi 2014; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 1, p. 2, row 10; `ORC-6GTHP7RPCQ` |  |
+| Lattice c | 8.7413 Å |  | Au7Ga2-HT | model | [4] Ghasemi 2014; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 1, p. 2, row 6; `ORC-L2LJ747QCK.16e430` |  |
 
 ## Sources
 
@@ -324,4 +324,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

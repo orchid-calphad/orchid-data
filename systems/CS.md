@@ -30,22 +30,22 @@ Table: Crystal structure, Cs system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 6.117 Å | 0 | Cs | DFT | [1] Lee 2010 | Table 1, p. 2, row 1 |  |
-| Lattice a | 5.74 Å |  | Cs; _Cs: Cs 1_ | model | [2] Djaballah 2015 | Table 1, p. 2, row 17 |  |
-| Lattice a | 6.122 Å |  | Cs | DFT | [1] Lee 2010; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.actamat.2004.02.014) | Table 1, p. 2, row 3 |  |
-| Lattice a | 6.13 Å |  | Cs; _Cs: Cs 1_ | model | [2] Djaballah 2015 | Table 1, p. 2, row 16 |  |
-| Lattice a | 6.067 not_printed ± 0.002 |  | Cs | experimental | [1] Lee 2010; _cites Barrett 1956_ [doi](https://doi.org/10.1107/s0365110x56001790) | Table 1, p. 2, row 2 |  |
-| Lattice a | 6.141 Å | 298.15 | (Cs); _(Cs): Cs 1_ | model | [3] Thi 2015; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 2, p. 4, row 1 |  |
-| Lattice a | 6.067 Å | 298.15 | Cs; _Cs: Cs 1_ | model | [2] Djaballah 2015; _cites Barrett 1956_ [doi](https://doi.org/10.1107/s0365110x56001790) | Table 1, p. 2, row 15 |  |
-| Lattice b | 5.74 Å |  | Cs; _Cs: Cs 1_ | model | [2] Djaballah 2015 | Table 1, p. 2, row 17 |  |
-| Lattice b | 6.13 Å |  | Cs; _Cs: Cs 1_ | model | [2] Djaballah 2015 | Table 1, p. 2, row 16 |  |
-| Lattice b | 6.067 Å | 298.15 | Cs; _Cs: Cs 1_ | model | [2] Djaballah 2015; _cites Barrett 1956_ [doi](https://doi.org/10.1107/s0365110x56001790) | Table 1, p. 2, row 15 |  |
-| Lattice c | 6.117 Å | 0 | Cs | DFT | [1] Lee 2010 | Table 1, p. 2, row 1 |  |
-| Lattice c | 5.74 Å |  | Cs; _Cs: Cs 1_ | model | [2] Djaballah 2015 | Table 1, p. 2, row 17 |  |
-| Lattice c | 6.122 Å |  | Cs | DFT | [1] Lee 2010; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.actamat.2004.02.014) | Table 1, p. 2, row 3 |  |
-| Lattice c | 6.13 Å |  | Cs; _Cs: Cs 1_ | model | [2] Djaballah 2015 | Table 1, p. 2, row 16 |  |
-| Lattice c | 6.067 not_printed ± 0.002 |  | Cs | experimental | [1] Lee 2010; _cites Barrett 1956_ [doi](https://doi.org/10.1107/s0365110x56001790) | Table 1, p. 2, row 2 |  |
-| Lattice c | 6.067 Å | 298.15 | Cs; _Cs: Cs 1_ | model | [2] Djaballah 2015; _cites Barrett 1956_ [doi](https://doi.org/10.1107/s0365110x56001790) | Table 1, p. 2, row 15 |  |
+| Lattice a | 6.117 Å | 0 | Cs | DFT | [1] Lee 2010 | Table 1, p. 2, row 1; `ORC-FCQF4YFXFZ.e02dc4` |  |
+| Lattice a | 5.74 Å |  | Cs; _Cs: Cs 1_ | model | [2] Djaballah 2015 | Table 1, p. 2, row 17; `ORC-GDRJ6WRICH.4f671a` |  |
+| Lattice a | 6.122 Å |  | Cs | DFT | [1] Lee 2010; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.actamat.2004.02.014) | Table 1, p. 2, row 3; `ORC-OGQ7AOZYMR.0e9e96` |  |
+| Lattice a | 6.13 Å |  | Cs; _Cs: Cs 1_ | model | [2] Djaballah 2015 | Table 1, p. 2, row 16; `ORC-PC27AX2U6K.daa12d` |  |
+| Lattice a | 6.067 not_printed ± 0.002 |  | Cs | experimental | [1] Lee 2010; _cites Barrett 1956_ [doi](https://doi.org/10.1107/s0365110x56001790) | Table 1, p. 2, row 2; `ORC-QJO5VDU4WQ.cc30b3` |  |
+| Lattice a | 6.141 Å | 298.15 | (Cs); _(Cs): Cs 1_ | model | [3] Thi 2015; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 2, p. 4, row 1; `ORC-HGGBVRQMFA` |  |
+| Lattice a | 6.067 Å | 298.15 | Cs; _Cs: Cs 1_ | model | [2] Djaballah 2015; _cites Barrett 1956_ [doi](https://doi.org/10.1107/s0365110x56001790) | Table 1, p. 2, row 15; `ORC-XMTFAGIQWZ.331e03` |  |
+| Lattice b | 5.74 Å |  | Cs; _Cs: Cs 1_ | model | [2] Djaballah 2015 | Table 1, p. 2, row 17; `ORC-GDRJ6WRICH.fb96d9` |  |
+| Lattice b | 6.13 Å |  | Cs; _Cs: Cs 1_ | model | [2] Djaballah 2015 | Table 1, p. 2, row 16; `ORC-PC27AX2U6K.655e31` |  |
+| Lattice b | 6.067 Å | 298.15 | Cs; _Cs: Cs 1_ | model | [2] Djaballah 2015; _cites Barrett 1956_ [doi](https://doi.org/10.1107/s0365110x56001790) | Table 1, p. 2, row 15; `ORC-XMTFAGIQWZ.81284d` |  |
+| Lattice c | 6.117 Å | 0 | Cs | DFT | [1] Lee 2010 | Table 1, p. 2, row 1; `ORC-FCQF4YFXFZ.8cb889` |  |
+| Lattice c | 5.74 Å |  | Cs; _Cs: Cs 1_ | model | [2] Djaballah 2015 | Table 1, p. 2, row 17; `ORC-GDRJ6WRICH.d46d8f` |  |
+| Lattice c | 6.122 Å |  | Cs | DFT | [1] Lee 2010; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.actamat.2004.02.014) | Table 1, p. 2, row 3; `ORC-OGQ7AOZYMR.e0f5ed` |  |
+| Lattice c | 6.13 Å |  | Cs; _Cs: Cs 1_ | model | [2] Djaballah 2015 | Table 1, p. 2, row 16; `ORC-PC27AX2U6K.7be404` |  |
+| Lattice c | 6.067 not_printed ± 0.002 |  | Cs | experimental | [1] Lee 2010; _cites Barrett 1956_ [doi](https://doi.org/10.1107/s0365110x56001790) | Table 1, p. 2, row 2; `ORC-QJO5VDU4WQ.d04bd7` |  |
+| Lattice c | 6.067 Å | 298.15 | Cs; _Cs: Cs 1_ | model | [2] Djaballah 2015; _cites Barrett 1956_ [doi](https://doi.org/10.1107/s0365110x56001790) | Table 1, p. 2, row 15; `ORC-XMTFAGIQWZ.1b06b3` |  |
 
 ## Sources
 
@@ -90,4 +90,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

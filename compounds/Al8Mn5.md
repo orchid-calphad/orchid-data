@@ -14,14 +14,14 @@ Table: Enthalpy of formation of Al8Mn5 reported in the literature (8)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -22.01 kJ/mol-atom ± 1.05 | Al8Mn5 | 298.15 | experimental |  | [Al–Mn](https://data.orchid-project.org/systems/AL-MN.html) | [1] Liu 1999; _cites Kubaschewski 1960_ [doi](https://doi.org/10.1039/tf9605600473) | Table 4, p. 12, row 12 |  |
-| -22.01 kJ/mol-atom | Al8Mn5 | 298.15 | experimental |  | [Al–Mn](https://data.orchid-project.org/systems/AL-MN.html) | [2] Jansson 1992; _cites Kubaschewski 1960_ [doi](https://doi.org/10.1039/tf9605600473) | Table II, p. 4, row 8 |  |
-| -20.71 kJ/mol-atom ± 1.05 | Al8Mn5 | 298.15 | experimental |  | [Al–Mn](https://data.orchid-project.org/systems/AL-MN.html) | [1] Liu 1999; _cites Kubaschewski 1960_ [doi](https://doi.org/10.1039/tf9605600473) | Table 4, p. 12, row 12 |  |
-| -20.71 kJ/mol-atom | Al8Mn5 | 298.15 | experimental |  | [Al–Mn](https://data.orchid-project.org/systems/AL-MN.html) | [2] Jansson 1992; _cites Kubaschewski 1960_ [doi](https://doi.org/10.1039/tf9605600473) | Table II, p. 4, row 9 |  |
-| -20.71 kJ/mol-atom ± 1.05 | Al8Mn5(b) | 298.15 | experimental |  | [Al–Mn](https://data.orchid-project.org/systems/AL-MN.html) | [1] Liu 1999; _cites Kubaschewski 1960_ [doi](https://doi.org/10.1039/tf9605600473) | Table 4, p. 12, row 13 |  |
-| -25.82 kJ/mol-atom | Al8Mn5 |  | model |  | [Al–Mn](https://data.orchid-project.org/systems/AL-MN.html) | [1] Liu 1999 | Table 4, p. 12, row 10 |  |
-| -23.74 kJ/mol-atom | Al8Mn5 |  | model |  | [Al–Mn](https://data.orchid-project.org/systems/AL-MN.html) | [2] Jansson 1992 | Table II, p. 4, row 16 |  |
-| -23.74 kJ/mol-atom | Al8Mn5 |  | model |  | [Al–Mn](https://data.orchid-project.org/systems/AL-MN.html) | [1] Liu 1999; _cites Jansson 1992_ [doi](https://doi.org/10.1007/bf02646113) | Table 4, p. 12, row 11 |  |
+| -22.01 kJ/mol-atom ± 1.05 | Al8Mn5 | 298.15 | experimental |  | [Al–Mn](https://data.orchid-project.org/systems/AL-MN.html) | [1] Liu 1999; _cites Kubaschewski 1960_ [doi](https://doi.org/10.1039/tf9605600473) | Table 4, p. 12, row 12; `ORC-GW6JIXCRKE.4493dc` |  |
+| -22.01 kJ/mol-atom | Al8Mn5 | 298.15 | experimental |  | [Al–Mn](https://data.orchid-project.org/systems/AL-MN.html) | [2] Jansson 1992; _cites Kubaschewski 1960_ [doi](https://doi.org/10.1039/tf9605600473) | Table II, p. 4, row 8; `ORC-VWD37FHGVB` |  |
+| -20.71 kJ/mol-atom ± 1.05 | Al8Mn5 | 298.15 | experimental |  | [Al–Mn](https://data.orchid-project.org/systems/AL-MN.html) | [1] Liu 1999; _cites Kubaschewski 1960_ [doi](https://doi.org/10.1039/tf9605600473) | Table 4, p. 12, row 12; `ORC-GW6JIXCRKE.fdd407` |  |
+| -20.71 kJ/mol-atom | Al8Mn5 | 298.15 | experimental |  | [Al–Mn](https://data.orchid-project.org/systems/AL-MN.html) | [2] Jansson 1992; _cites Kubaschewski 1960_ [doi](https://doi.org/10.1039/tf9605600473) | Table II, p. 4, row 9; `ORC-MD7EO45O5I` |  |
+| -20.71 kJ/mol-atom ± 1.05 | Al8Mn5(b) | 298.15 | experimental |  | [Al–Mn](https://data.orchid-project.org/systems/AL-MN.html) | [1] Liu 1999; _cites Kubaschewski 1960_ [doi](https://doi.org/10.1039/tf9605600473) | Table 4, p. 12, row 13; `ORC-QIFWUAYUXL` |  |
+| -25.82 kJ/mol-atom | Al8Mn5 |  | model |  | [Al–Mn](https://data.orchid-project.org/systems/AL-MN.html) | [1] Liu 1999 | Table 4, p. 12, row 10; `ORC-AZYZCOIVQU.40a18a` |  |
+| -23.74 kJ/mol-atom | Al8Mn5 |  | model |  | [Al–Mn](https://data.orchid-project.org/systems/AL-MN.html) | [2] Jansson 1992 | Table II, p. 4, row 16; `ORC-4NFWTMJ6RL` |  |
+| -23.74 kJ/mol-atom | Al8Mn5 |  | model |  | [Al–Mn](https://data.orchid-project.org/systems/AL-MN.html) | [1] Liu 1999; _cites Jansson 1992_ [doi](https://doi.org/10.1007/bf02646113) | Table 4, p. 12, row 11; `ORC-GFWBDW2EDT.26ec24` |  |
 
 ### Uncertainty budget
 
@@ -105,4 +105,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

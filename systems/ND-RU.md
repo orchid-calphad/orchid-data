@@ -30,9 +30,9 @@ Table: Invariant reactions reported in the literature for the Nd–Ru system (3)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1155 | eutectic |  | model | [1] Kardellass 2023 | p. 17 | “A consistent thermodynamic assessment could not be obtained to agree with both temperature and composition for the Liq Nd5Ru3 ? Nd7Ru3 eutectic reaction calculated at (1155 K; 33.28 at.% Ru) with the quadratic model, and (1148 K; 33.96 at.% Ru) with a combined model instead of (1128 K; 34.00 at.% Ru) as reported by Ref 23.” |
-| 1148 | eutectic |  | model | [1] Kardellass 2023 | p. 17 | “A consistent thermodynamic assessment could not be obtained to agree with both temperature and composition for the Liq Nd5Ru3 ? Nd7Ru3 eutectic reaction calculated at (1155 K; 33.28 at.% Ru) with the quadratic model, and (1148 K; 33.96 at.% Ru) with a combined model instead of (1128 K; 34.00 at.% Ru) as reported by Ref 23.” |
-| 1128 | eutectic |  | experimental | [1] Kardellass 2023; _cites Palenzona 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990186-n) | p. 17 | “A consistent thermodynamic assessment could not be obtained to agree with both temperature and composition for the Liq Nd5Ru3 ? Nd7Ru3 eutectic reaction calculated at (1155 K; 33.28 at.% Ru) with the quadratic model, and (1148 K; 33.96 at.% Ru) with a combined model instead of (1128 K; 34.00 at.% Ru) as reported by Ref 23.” |
+| 1155 | eutectic |  | model | [1] Kardellass 2023 | p. 17; `ORC-54UGFG7HGJ.b42436` | “A consistent thermodynamic assessment could not be obtained to agree with both temperature and composition for the Liq Nd5Ru3 ? Nd7Ru3 eutectic reaction calculated at (1155 K; 33.28 at.% Ru) with the quadratic model, and (1148 K; 33.96 at.% Ru) with a combined model instead of (1128 K; 34.00 at.% Ru) as reported by Ref 23.” |
+| 1148 | eutectic |  | model | [1] Kardellass 2023 | p. 17; `ORC-54UGFG7HGJ.b93588` | “A consistent thermodynamic assessment could not be obtained to agree with both temperature and composition for the Liq Nd5Ru3 ? Nd7Ru3 eutectic reaction calculated at (1155 K; 33.28 at.% Ru) with the quadratic model, and (1148 K; 33.96 at.% Ru) with a combined model instead of (1128 K; 34.00 at.% Ru) as reported by Ref 23.” |
+| 1128 | eutectic |  | experimental | [1] Kardellass 2023; _cites Palenzona 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990186-n) | p. 17; `ORC-54UGFG7HGJ.f56e28` | “A consistent thermodynamic assessment could not be obtained to agree with both temperature and composition for the Liq Nd5Ru3 ? Nd7Ru3 eutectic reaction calculated at (1155 K; 33.28 at.% Ru) with the quadratic model, and (1148 K; 33.96 at.% Ru) with a combined model instead of (1128 K; 34.00 at.% Ru) as reported by Ref 23.” |
 
 ## Other properties
 
@@ -42,8 +42,8 @@ Table: Phase transition, Nd–Ru system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1134 K | 1134 |  | model | [1] Kardellass 2023 | p. 17 | “The temperature description for this reaction is much better using the exponential model (1134 K; 33.56 at.% Ru).” |
-| Phase transition | 1136 K | 1136 | polymorphic | model | [1] Kardellass 2023 | p. 20 | “The (aNd) (bNd) allotropic transition was well reproduced at temperature 1136 K and 7 at.% Ru.” |
+| Phase transition | 1134 K | 1134 |  | model | [1] Kardellass 2023 | p. 17; `ORC-53FCKZKXYU` | “The temperature description for this reaction is much better using the exponential model (1134 K; 33.56 at.% Ru).” |
+| Phase transition | 1136 K | 1136 | polymorphic | model | [1] Kardellass 2023 | p. 20; `ORC-ZJN3FUBN5Z` | “The (aNd) (bNd) allotropic transition was well reproduced at temperature 1136 K and 7 at.% Ru.” |
 
 ## Sources
 
@@ -97,4 +97,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

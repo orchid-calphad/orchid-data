@@ -51,12 +51,12 @@ Table: Invariant reactions reported in the literature for the Ca–Li system (6)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 643.15 | βCa = αCa + liquid | βCa: Li 0.09; αCa: Li 0.08; liquid: Li 0.43 | experimental | [1] Gröbner 2002; _cites Bale 1987_ [doi](https://doi.org/10.1007/bf02873196) | Table 1, p. 2, row 1 |  |
-| 642.65 | βCa = αCa + liquid | βCa: Li 0.086; αCa: Li 0.066; liquid: Li 0.435 | model | [1] Gröbner 2002 | Table 1, p. 2, row 2 |  |
-| 506.55 | Liquid = αCa + CaLi2 | αCa: Li 0.096; CaLi2: Li 0.6667; Liquid: Li 0.571 | model | [1] Gröbner 2002 | Table 1, p. 2, row 4 |  |
-| 503.15 | Liquid = αCa + CaLi2 | αCa: Li 0.105; CaLi2: Li 0.6667; Liquid: Li 0.59 | experimental | [1] Gröbner 2002; _cites Bale 1987_ [doi](https://doi.org/10.1007/bf02873196) | Table 1, p. 2, row 3 |  |
-| 418.15 | Liquid = CaLi2 + (Li) | CaLi2: Li 0.6667; (Li): Li 0.987; Liquid: Li 0.932 | model | [1] Gröbner 2002 | Table 1, p. 2, row 6 |  |
-| 414.15 | Liquid = CaLi2 + (Li) | CaLi2: Li 0.6667; (Li): Li 0.98; Liquid: Li 0.92 | experimental | [1] Gröbner 2002; _cites Bale 1987_ [doi](https://doi.org/10.1007/bf02873196) | Table 1, p. 2, row 5 |  |
+| 643.15 | βCa = αCa + liquid | βCa: Li 0.09; αCa: Li 0.08; liquid: Li 0.43 | experimental | [1] Gröbner 2002; _cites Bale 1987_ [doi](https://doi.org/10.1007/bf02873196) | Table 1, p. 2, row 1; `ORC-74ZISW3DST` |  |
+| 642.65 | βCa = αCa + liquid | βCa: Li 0.086; αCa: Li 0.066; liquid: Li 0.435 | model | [1] Gröbner 2002 | Table 1, p. 2, row 2; `ORC-CFFIWGCX6V` |  |
+| 506.55 | Liquid = αCa + CaLi2 | αCa: Li 0.096; CaLi2: Li 0.6667; Liquid: Li 0.571 | model | [1] Gröbner 2002 | Table 1, p. 2, row 4; `ORC-U6JN55NWD3` |  |
+| 503.15 | Liquid = αCa + CaLi2 | αCa: Li 0.105; CaLi2: Li 0.6667; Liquid: Li 0.59 | experimental | [1] Gröbner 2002; _cites Bale 1987_ [doi](https://doi.org/10.1007/bf02873196) | Table 1, p. 2, row 3; `ORC-SAN4RXU25Q` |  |
+| 418.15 | Liquid = CaLi2 + (Li) | CaLi2: Li 0.6667; (Li): Li 0.987; Liquid: Li 0.932 | model | [1] Gröbner 2002 | Table 1, p. 2, row 6; `ORC-KFHQVSIBMQ` |  |
+| 414.15 | Liquid = CaLi2 + (Li) | CaLi2: Li 0.6667; (Li): Li 0.98; Liquid: Li 0.92 | experimental | [1] Gröbner 2002; _cites Bale 1987_ [doi](https://doi.org/10.1007/bf02873196) | Table 1, p. 2, row 5; `ORC-WXIRJKKLXQ` |  |
 
 ## Formation enthalpies
 
@@ -66,8 +66,8 @@ Table: Enthalpies of formation, Ca–Li system (2)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| CaLi2 |  | -4.5 kJ/mol (basis unstated) ± 1.6 | 298.15 | experimental |  |  | [1] Gröbner 2002 | Table 2, p. 3, row 1 |  |
-| CaLi2 |  | -3.89 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Gröbner 2002 | Table 2, p. 3, row 2 |  |
+| CaLi2 |  | -4.5 kJ/mol (basis unstated) ± 1.6 | 298.15 | experimental |  |  | [1] Gröbner 2002 | Table 2, p. 3, row 1; `ORC-CFC6RUPTP5` |  |
+| CaLi2 |  | -3.89 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Gröbner 2002 | Table 2, p. 3, row 2; `ORC-IPLMBPCTHB` |  |
 
 ## Sources
 
@@ -132,4 +132,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

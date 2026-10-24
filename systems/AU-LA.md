@@ -66,16 +66,16 @@ Table: Invariant reactions reported in the literature for the Au–La system (10
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1421 | L \<=> βAuLa + Au2La | L: La 0.373; βAuLa: La 0.5; Au2La: La 0.333333 | experimental | [1] Dong 2011; _cites Massalski 1990_ | Table 3, p. 4, row 11 |  |
-| 1419 | L \<=> βAuLa + Au2La | L: La 0.395; βAuLa: La 0.5; Au2La: La 0.333333 | model | [1] Dong 2011 | Table 3, p. 4, row 12 |  |
-| 1402 | L \<=> Au2La + Au51La14 | L: La 0.269; Au2La: La 0.333333; Au51La14: La 0.215385 | model | [1] Dong 2011 | Table 3, p. 4, row 14 |  |
-| 1327 | L \<=> Au2La + Au51La14 | L: La 0.31; Au2La: La 0.333333; Au51La14: La 0.215385 | experimental | [1] Dong 2011; _cites Massalski 1990_ | Table 3, p. 4, row 13 |  |
-| 1175 | L + Au51La14 \<=> Au6La | L: La 0.116; Au51La14: La 0.215385; Au6La: La 0.142857 | model | [1] Dong 2011 | Table 3, p. 4, row 18 |  |
-| 1054 | L \<=> Au6La + Au(fcc) | L: La 0.066; Au6La: La 0.142857 | model | [1] Dong 2011 | Table 3, p. 4, row 15 |  |
-| 941 | L + βAuLa \<=> AuLa2 | L: La 0.758; βAuLa: La 0.5; AuLa2: La 0.666667 | model | [1] Dong 2011 | Table 3, p. 4, row 10 |  |
-| 938 | L + βAuLa \<=> AuLa2 | L: La 0.751; βAuLa: La 0.5; AuLa2: La 0.666667 | experimental | [1] Dong 2011; _cites Massalski 1990_ | Table 3, p. 4, row 9 |  |
-| 834 | L \<=> La(fcc) + AuLa2 | L: La 0.84; AuLa2: La 0.666667 | experimental | [1] Dong 2011; _cites Massalski 1990_ | Table 3, p. 4, row 1 |  |
-| 827 | L \<=> La(fcc) + AuLa2 | L: La 0.834; AuLa2: La 0.666667 | model | [1] Dong 2011 | Table 3, p. 4, row 2 |  |
+| 1421 | L \<=> βAuLa + Au2La | L: La 0.373; βAuLa: La 0.5; Au2La: La 0.333333 | experimental | [1] Dong 2011; _cites Massalski 1990_ | Table 3, p. 4, row 11; `ORC-5JXNBF4W4O` |  |
+| 1419 | L \<=> βAuLa + Au2La | L: La 0.395; βAuLa: La 0.5; Au2La: La 0.333333 | model | [1] Dong 2011 | Table 3, p. 4, row 12; `ORC-EJ2IYGFPQ7` |  |
+| 1402 | L \<=> Au2La + Au51La14 | L: La 0.269; Au2La: La 0.333333; Au51La14: La 0.215385 | model | [1] Dong 2011 | Table 3, p. 4, row 14; `ORC-262KIKFYMN` |  |
+| 1327 | L \<=> Au2La + Au51La14 | L: La 0.31; Au2La: La 0.333333; Au51La14: La 0.215385 | experimental | [1] Dong 2011; _cites Massalski 1990_ | Table 3, p. 4, row 13; `ORC-DB27BWTXM2` |  |
+| 1175 | L + Au51La14 \<=> Au6La | L: La 0.116; Au51La14: La 0.215385; Au6La: La 0.142857 | model | [1] Dong 2011 | Table 3, p. 4, row 18; `ORC-X3Q77M45ML` |  |
+| 1054 | L \<=> Au6La + Au(fcc) | L: La 0.066; Au6La: La 0.142857 | model | [1] Dong 2011 | Table 3, p. 4, row 15; `ORC-3UPRGTADY2` |  |
+| 941 | L + βAuLa \<=> AuLa2 | L: La 0.758; βAuLa: La 0.5; AuLa2: La 0.666667 | model | [1] Dong 2011 | Table 3, p. 4, row 10; `ORC-OC5GEJFTSR` |  |
+| 938 | L + βAuLa \<=> AuLa2 | L: La 0.751; βAuLa: La 0.5; AuLa2: La 0.666667 | experimental | [1] Dong 2011; _cites Massalski 1990_ | Table 3, p. 4, row 9; `ORC-JYQJZXLGVI` |  |
+| 834 | L \<=> La(fcc) + AuLa2 | L: La 0.84; AuLa2: La 0.666667 | experimental | [1] Dong 2011; _cites Massalski 1990_ | Table 3, p. 4, row 1; `ORC-KDXZBM4AYY` |  |
+| 827 | L \<=> La(fcc) + AuLa2 | L: La 0.834; AuLa2: La 0.666667 | model | [1] Dong 2011 | Table 3, p. 4, row 2; `ORC-LXQPSRVONX` |  |
 
 ## Formation enthalpies
 
@@ -85,12 +85,12 @@ Table: Enthalpies of formation, Au–La system (6)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Au2La |  | -81.5 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2011 | Table 1, p. 3, row 7 |  |
-| Au51La14 | [Au51La14](https://data.orchid-project.org/compounds/Au51La14.html) | -57.9 kJ/mol-atom ± 1.9 | 298.15 | experimental | -64.007 (mp-aaacrqeg) |  | [1] Dong 2011 | Table 1, p. 3, row 9 |  |
-| AuLa2 |  | -56.6 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2011 | Table 1, p. 3, row 1 |  |
-| AuLa6 |  | -45.1 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2011 | Table 1, p. 3, row 11 |  |
-| αAuLa |  | -82 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2011 | Table 1, p. 3, row 3 |  |
-| βAuLa |  | -82.5 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2011 | Table 1, p. 3, row 5 |  |
+| Au2La |  | -81.5 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2011 | Table 1, p. 3, row 7; `ORC-M7JVPQSGME.53fdbe` |  |
+| Au51La14 | [Au51La14](https://data.orchid-project.org/compounds/Au51La14.html) | -57.9 kJ/mol-atom ± 1.9 | 298.15 | experimental | -64.007 (mp-aaacrqeg) |  | [1] Dong 2011 | Table 1, p. 3, row 9; `ORC-FGXMOAZRUE.72a03f` |  |
+| AuLa2 |  | -56.6 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2011 | Table 1, p. 3, row 1; `ORC-MSSDVLYGNI.2003ff` |  |
+| AuLa6 |  | -45.1 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2011 | Table 1, p. 3, row 11; `ORC-5B5ZMEUOXD.9dd7b4` |  |
+| αAuLa |  | -82 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2011 | Table 1, p. 3, row 3; `ORC-25SJ3HS3UY.68bc59` |  |
+| βAuLa |  | -82.5 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2011 | Table 1, p. 3, row 5; `ORC-HQD2ACWTYR.1c9c87` |  |
 
 ## Other properties
 
@@ -100,16 +100,16 @@ Table: Phase transition, Au–La system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 933 K | 933 | βAuLa \<=> αAuLa; _βAuLa: La 0.5; αAuLa: La 0.5_ | model | [1] Dong 2011 | Table 3, p. 4, row 17 |  |
-| Phase transition | 933 K | 933 | βAuLa \<=> αAuLa; _βAuLa: La 0.5; αAuLa: La 0.5_ | experimental | [1] Dong 2011; _cites Massalski 1990_ | Table 3, p. 4, row 16 |  |
-| Phase transition | 1063 K | 1063 | L ↔ Au(fcc) + Au6 La | model | [1] Dong 2011 | p. 5 | “peratures of the similar invariable reactions in other gold-rear earth system (Table 4 lists those data) and by considering the size ratio as well as the structure of the rear earth elements, temperatures of 1173 K for the L + Au51 La14 ↔ Au6 La reaction and 1063 K for the L ↔ Au(fcc) + Au6 La reaction were employed in this work.” |
-| Phase transition | 1173 K | 1173 | L + Au51 La14 ↔ Au6 La | model | [1] Dong 2011 | p. 5 | “peratures of the similar invariable reactions in other gold-rear earth system (Table 4 lists those data) and by considering the size ratio as well as the structure of the rear earth elements, temperatures of 1173 K for the L + Au51 La14 ↔ Au6 La reaction and 1063 K for the L ↔ Au(fcc) + Au6 La reaction were employed in this work.” |
-| Phase transition | 1477 K | 1477 | L \<=> Au51La14; _L: La 0.215385; Au51La14: La 0.215385_ | model | [1] Dong 2011 | Table 3, p. 4, row 8 |  |
-| Phase transition | 1477 K | 1477 | L \<=> Au51La14; _L: La 0.215; Au51La14: La 0.215385_ | experimental | [1] Dong 2011; _cites Massalski 1990_ | Table 3, p. 4, row 7 |  |
-| Phase transition | 1487 K | 1487 | L \<=> Au2La; _L: La 0.333; Au2La: La 0.333333_ | experimental | [1] Dong 2011; _cites Massalski 1990_ | Table 3, p. 4, row 5 |  |
-| Phase transition | 1490 K | 1490 | L \<=> Au2La; _L: La 0.333333; Au2La: La 0.333333_ | model | [1] Dong 2011 | Table 3, p. 4, row 6 |  |
-| Phase transition | 1596 K | 1596 | L \<=> βAuLa; _L: La 0.5; βAuLa: La 0.5_ | model | [1] Dong 2011 | Table 3, p. 4, row 4 |  |
-| Phase transition | 1598 K | 1598 | L \<=> βAuLa; _L: La 0.5; βAuLa: La 0.5_ | experimental | [1] Dong 2011; _cites Massalski 1990_ | Table 3, p. 4, row 3 |  |
+| Phase transition | 933 K | 933 | βAuLa \<=> αAuLa; _βAuLa: La 0.5; αAuLa: La 0.5_ | model | [1] Dong 2011 | Table 3, p. 4, row 17; `ORC-JGFL7KBCC5` |  |
+| Phase transition | 933 K | 933 | βAuLa \<=> αAuLa; _βAuLa: La 0.5; αAuLa: La 0.5_ | experimental | [1] Dong 2011; _cites Massalski 1990_ | Table 3, p. 4, row 16; `ORC-M7FFTSDFAQ` |  |
+| Phase transition | 1063 K | 1063 | L ↔ Au(fcc) + Au6 La | model | [1] Dong 2011 | p. 5; `ORC-R47FFFYNZV.db976f` | “peratures of the similar invariable reactions in other gold-rear earth system (Table 4 lists those data) and by considering the size ratio as well as the structure of the rear earth elements, temperatures of 1173 K for the L + Au51 La14 ↔ Au6 La reaction and 1063 K for the L ↔ Au(fcc) + Au6 La reaction were employed in this work.” |
+| Phase transition | 1173 K | 1173 | L + Au51 La14 ↔ Au6 La | model | [1] Dong 2011 | p. 5; `ORC-R47FFFYNZV.ab5cec` | “peratures of the similar invariable reactions in other gold-rear earth system (Table 4 lists those data) and by considering the size ratio as well as the structure of the rear earth elements, temperatures of 1173 K for the L + Au51 La14 ↔ Au6 La reaction and 1063 K for the L ↔ Au(fcc) + Au6 La reaction were employed in this work.” |
+| Phase transition | 1477 K | 1477 | L \<=> Au51La14; _L: La 0.215385; Au51La14: La 0.215385_ | model | [1] Dong 2011 | Table 3, p. 4, row 8; `ORC-FO2IG6KTA2` |  |
+| Phase transition | 1477 K | 1477 | L \<=> Au51La14; _L: La 0.215; Au51La14: La 0.215385_ | experimental | [1] Dong 2011; _cites Massalski 1990_ | Table 3, p. 4, row 7; `ORC-OZ2VOZ3L7K` |  |
+| Phase transition | 1487 K | 1487 | L \<=> Au2La; _L: La 0.333; Au2La: La 0.333333_ | experimental | [1] Dong 2011; _cites Massalski 1990_ | Table 3, p. 4, row 5; `ORC-NRRKCQ6STC` |  |
+| Phase transition | 1490 K | 1490 | L \<=> Au2La; _L: La 0.333333; Au2La: La 0.333333_ | model | [1] Dong 2011 | Table 3, p. 4, row 6; `ORC-IRSSSWWTX2` |  |
+| Phase transition | 1596 K | 1596 | L \<=> βAuLa; _L: La 0.5; βAuLa: La 0.5_ | model | [1] Dong 2011 | Table 3, p. 4, row 4; `ORC-NDJF46HGO5` |  |
+| Phase transition | 1598 K | 1598 | L \<=> βAuLa; _L: La 0.5; βAuLa: La 0.5_ | experimental | [1] Dong 2011; _cites Massalski 1990_ | Table 3, p. 4, row 3; `ORC-RJ6WI76HBZ` |  |
 
 ### Crystal structure (19)
 
@@ -117,25 +117,25 @@ Table: Crystal structure, Au–La system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a; _printed: a_ | 4.7 Å |  | Au2La; _alloy: La 0.333333_ | DFT | [1] Dong 2011; _cites McMasters 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990125-1) | Table 1, p. 3, row 8 |  |
-| Lattice a; _printed: Lattice parameter a_ | 4.7 Å | 0 | Au2La; _alloy: La 0.333333_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 7 |  |
-| Lattice a; _printed: a_ | 12.87 Å |  | Au51La14; _alloy: La 0.215385_ | DFT | [1] Dong 2011; _cites McMasters 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990125-1) | Table 1, p. 3, row 10 |  |
-| Lattice a; _printed: a_ | 7.397 Å | 0 | AuLa2; _alloy: La 0.666667_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 1 |  |
-| Lattice a; _printed: a_ | 7.52 Å |  | αAuLa; _alloy: La 0.5_ | DFT | [1] Dong 2011; _cites McMasters 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990125-1) | Table 1, p. 3, row 4 |  |
-| Lattice a; _printed: Lattice parameter a_ | 7.52 Å | 0 | αAuLa; _alloy: La 0.5_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 3 |  |
-| Lattice a; _printed: a_ | 3.95 Å |  | βAuLa; _alloy: La 0.5_ | DFT | [1] Dong 2011; _cites McMasters 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990125-1) | Table 1, p. 3, row 6 |  |
-| Lattice a; _printed: a_ | 3.95 Å | 0 | βAuLa; _alloy: La 0.5_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 5 |  |
-| Lattice b; _printed: b_ | 7.295 Å |  | Au2La; _alloy: La 0.333333_ | DFT | [1] Dong 2011; _cites McMasters 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990125-1) | Table 1, p. 3, row 8 |  |
-| Lattice b; _printed: b_ | 7.295 Å | 0 | Au2La; _alloy: La 0.333333_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 7 |  |
-| Lattice b; _printed: b_ | 4.69 Å |  | αAuLa; _alloy: La 0.5_ | DFT | [1] Dong 2011; _cites McMasters 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990125-1) | Table 1, p. 3, row 4 |  |
-| Lattice b; _printed: Lattice parameter b_ | 4.69 Å | 0 | αAuLa; _alloy: La 0.5_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 3 |  |
-| Lattice b; _printed: b_ | 11.2 Å |  | βAuLa; _alloy: La 0.5_ | DFT | [1] Dong 2011; _cites McMasters 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990125-1) | Table 1, p. 3, row 6 |  |
-| Lattice b; _printed: b_ | 11.2 Å | 0 | βAuLa; _alloy: La 0.5_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 5 |  |
-| Lattice c; _printed: Lattice parameter c_ | 8.155 Å | 0 | Au2La; _alloy: La 0.333333_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 7 |  |
-| Lattice c; _printed: c_ | 9.388 Å |  | Au51La14; _alloy: La 0.215385_ | DFT | [1] Dong 2011; _cites McMasters 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990125-1) | Table 1, p. 3, row 10 |  |
-| Lattice c; _printed: c_ | 9.41 Å | 0 | AuLa2; _alloy: La 0.666667_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 1 |  |
-| Lattice c; _printed: Lattice parameter c_ | 5.96 Å | 0 | αAuLa; _alloy: La 0.5_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 3 |  |
-| Lattice c; _printed: c_ | 4.78 Å | 0 | βAuLa; _alloy: La 0.5_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 5 |  |
+| Lattice a; _printed: a_ | 4.7 Å |  | Au2La; _alloy: La 0.333333_ | DFT | [1] Dong 2011; _cites McMasters 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990125-1) | Table 1, p. 3, row 8; `ORC-5DBB3LE7SY.ee104b` |  |
+| Lattice a; _printed: Lattice parameter a_ | 4.7 Å | 0 | Au2La; _alloy: La 0.333333_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 7; `ORC-VKRICDEU5Q.144378` |  |
+| Lattice a; _printed: a_ | 12.87 Å |  | Au51La14; _alloy: La 0.215385_ | DFT | [1] Dong 2011; _cites McMasters 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990125-1) | Table 1, p. 3, row 10; `ORC-D6SZZ5OYMZ.110fc1` |  |
+| Lattice a; _printed: a_ | 7.397 Å | 0 | AuLa2; _alloy: La 0.666667_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 1; `ORC-ER6PTUS7DN.d6ec64` |  |
+| Lattice a; _printed: a_ | 7.52 Å |  | αAuLa; _alloy: La 0.5_ | DFT | [1] Dong 2011; _cites McMasters 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990125-1) | Table 1, p. 3, row 4; `ORC-C3W6COYE2Y.077d59` |  |
+| Lattice a; _printed: Lattice parameter a_ | 7.52 Å | 0 | αAuLa; _alloy: La 0.5_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 3; `ORC-JZHNWAGYTU.6ecd5b` |  |
+| Lattice a; _printed: a_ | 3.95 Å |  | βAuLa; _alloy: La 0.5_ | DFT | [1] Dong 2011; _cites McMasters 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990125-1) | Table 1, p. 3, row 6; `ORC-ATJBR547E5.3e2e8a` |  |
+| Lattice a; _printed: a_ | 3.95 Å | 0 | βAuLa; _alloy: La 0.5_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 5; `ORC-TZSDYPRQO6.452983` |  |
+| Lattice b; _printed: b_ | 7.295 Å |  | Au2La; _alloy: La 0.333333_ | DFT | [1] Dong 2011; _cites McMasters 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990125-1) | Table 1, p. 3, row 8; `ORC-5DBB3LE7SY.8e25a7` |  |
+| Lattice b; _printed: b_ | 7.295 Å | 0 | Au2La; _alloy: La 0.333333_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 7; `ORC-VKRICDEU5Q.c2e12c` |  |
+| Lattice b; _printed: b_ | 4.69 Å |  | αAuLa; _alloy: La 0.5_ | DFT | [1] Dong 2011; _cites McMasters 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990125-1) | Table 1, p. 3, row 4; `ORC-C3W6COYE2Y.f05377` |  |
+| Lattice b; _printed: Lattice parameter b_ | 4.69 Å | 0 | αAuLa; _alloy: La 0.5_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 3; `ORC-JZHNWAGYTU.c28c5f` |  |
+| Lattice b; _printed: b_ | 11.2 Å |  | βAuLa; _alloy: La 0.5_ | DFT | [1] Dong 2011; _cites McMasters 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990125-1) | Table 1, p. 3, row 6; `ORC-ATJBR547E5.8474ff` |  |
+| Lattice b; _printed: b_ | 11.2 Å | 0 | βAuLa; _alloy: La 0.5_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 5; `ORC-TZSDYPRQO6.c0b009` |  |
+| Lattice c; _printed: Lattice parameter c_ | 8.155 Å | 0 | Au2La; _alloy: La 0.333333_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 7; `ORC-VKRICDEU5Q.d78df5` |  |
+| Lattice c; _printed: c_ | 9.388 Å |  | Au51La14; _alloy: La 0.215385_ | DFT | [1] Dong 2011; _cites McMasters 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990125-1) | Table 1, p. 3, row 10; `ORC-D6SZZ5OYMZ.1b1363` |  |
+| Lattice c; _printed: c_ | 9.41 Å | 0 | AuLa2; _alloy: La 0.666667_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 1; `ORC-ER6PTUS7DN.2ba83b` |  |
+| Lattice c; _printed: Lattice parameter c_ | 5.96 Å | 0 | αAuLa; _alloy: La 0.5_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 3; `ORC-JZHNWAGYTU.9f7404` |  |
+| Lattice c; _printed: c_ | 4.78 Å | 0 | βAuLa; _alloy: La 0.5_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 5; `ORC-TZSDYPRQO6.b31c36` |  |
 
 ## Sources
 
@@ -200,4 +200,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -58,42 +58,42 @@ Table: Invariant reactions reported in the literature for the Ni–Pb system (36
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1833.9 | critical point: L -> L1+L2 | L: Pb 0.317 | model | [1] Wang 2000 | Table 3, p. 17, row 3 |  |
-| 1833.9 | critical point: L -> L1 + L2 | L: Pb 0.32 | model | [2] Kainulainen 2010; _cites Wang 2000_ [doi](https://doi.org/10.1016/s0364-5916%2800%2900020-1) | Table 2, p. 4, row 2 |  |
-| 1833.9 | critical point: LIQUID -> LIQUID#1+LIQUID#2 | LIQUID: Pb 0.317 | model | [3] Vaajamo 2013; _cites Wang 2000_ [doi](https://doi.org/10.1016/s0364-5916%2800%2900020-1) | Table 4, p. 6, row 2 |  |
-| 1828.2 | critical point: L -> L1+L2 |  | unspecified | [1] Wang 2000; _cites ref. 91Nas_ | Table 3, p. 17, row 2 |  |
-| 1828 | critical point: L -> L1 + L2 | L: Pb 0.29 | model | [2] Kainulainen 2010; _cites Nash 1987_ [doi](https://doi.org/10.1007/bf02874918) | Table 2, p. 4, row 1 |  |
-| 1824 | critical point: LIQUID -> LIQUID#1+LIQUID#2 | LIQUID: Pb 0.294 | model | [3] Vaajamo 2013; _cites Ghosh 1999_ [doi](https://doi.org/10.1007/s11661-999-0085-x) | Table 4, p. 6, row 1 |  |
-| 1824 | critical point: L -> L1 + L2 | L: Pb 0.29 | model | [2] Kainulainen 2010; _cites Ghosh 1999_ [doi](https://doi.org/10.1007/s11661-999-0085-x) | Table 2, p. 4, row 3 |  |
-| 1823.2 | critical point: L -> L1+L2 |  | experimental | [1] Wang 2000; _cites ref. 60Mil_ | Table 3, p. 17, row 1 |  |
-| 1804.8 | critical point: LIQUID -> LIQUID#1+LIQUID#2 | LIQUID: Pb 0.2723 | model | [3] Vaajamo 2013; _cites Kainulainen 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.08.001) | Table 4, p. 6, row 3 |  |
-| 1804.76 | critical point: L -> L1 + L2 | L: Pb 0.2723 | model | [2] Kainulainen 2010 | Table 2, p. 4, row 4 |  |
-| 1781.8 | critical point: LIQUID -> LIQUID#1+LIQUID#2 | LIQUID: Pb 0.2679 | model | [3] Vaajamo 2013 | Table 4, p. 6, row 4 |  |
-| 1626.5 | monotectic: LIQUID#1 -> LIQUID#2+FCC_A1#1 | LIQUID#1: Pb 0.11911; LIQUID#2: Pb 0.5965; FCC_A1#1: Pb 0.00128 | model | [3] Vaajamo 2013; _cites Kainulainen 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.08.001) | Table 4, p. 6, row 7 |  |
-| 1626.5 | monotectic |  | model | [2] Kainulainen 2010 | p. 1 | “The monotectic equilibrium was calculated between the fcc nickel solution at 0.13 at.% Pb, the nickel-rich end of the liquid miscibility gap at 11.91 at.% Pb and its lead-rich end at 59.65 at.% Pb at a temperature 1626.5 K.” |
-| 1626.47 | monotectic |  | model | [2] Kainulainen 2010 | p. 3 | “According to the optimization, the monotectic temperature is 1626.47 K and the eutectic temperature is 598.32 K.” |
-| 1626.47 | monotectic: L1 -> L2 + (Ni) | L1: Pb 0.1191; L2: Pb 0.5965; (Ni): Pb 0.0013 | model | [2] Kainulainen 2010 | Table 2, p. 4, row 8 |  |
-| 1618.9 | monotectic: LIQUID#1 -> LIQUID#2+FCC_A1#1 | LIQUID#1: Pb 0.12857; LIQUID#2: Pb 0.58721; FCC_A1#1: Pb 0.00154 | model | [3] Vaajamo 2013 | Table 4, p. 6, row 8 |  |
-| 1614 | monotectic: L1 -> L2 + (Ni) | L1: Pb 0.14; L2: Pb 0.53; (Ni): Pb 0.01 | model | [2] Kainulainen 2010; _cites Ghosh 1999_ [doi](https://doi.org/10.1007/s11661-999-0085-x) | Table 2, p. 4, row 7 |  |
-| 1614 | monotectic: LIQUID#1 -> LIQUID#2+FCC_A1#1 | LIQUID#1: Pb 0.1412; LIQUID#2: Pb 0.5323; FCC_A1#1: Pb 0.0077 | model | [3] Vaajamo 2013; _cites Ghosh 1999_ [doi](https://doi.org/10.1007/s11661-999-0085-x) | Table 4, p. 6, row 5 |  |
-| 1613.3 | monotectic: L1 -> L2 + (Ni) | L1: Pb 0.14; L2: Pb 0.6; (Ni): Pb 0.01 | model | [2] Kainulainen 2010; _cites Wang 2000_ [doi](https://doi.org/10.1016/s0364-5916%2800%2900020-1) | Table 2, p. 4, row 6 |  |
-| 1613.3 | monotectic: L1 -> L2+(Ni) | L1: Pb 0.136; L2: Pb 0.6; (Ni): Pb 0.0105 | model | [1] Wang 2000 | Table 3, p. 17, row 5 |  |
-| 1613.3 | monotectic: LIQUID#1 -> LIQUID#2+FCC_A1#1 | LIQUID#1: Pb 0.136; LIQUID#2: Pb 0.6; FCC_A1#1: Pb 0.0105 | model | [3] Vaajamo 2013; _cites Wang 2000_ [doi](https://doi.org/10.1016/s0364-5916%2800%2900020-1) | Table 4, p. 6, row 6 |  |
-| 1613.2 | monotectic: L1 -> L2+(Ni) | L1: Pb 0.116; L2: Pb 0.57; (Ni): Pb 0.01 | unspecified | [1] Wang 2000; _cites ref. 91Nas_ | Table 3, p. 17, row 4 |  |
-| 1613.15 | monotectic: L1 -> L2 + (Ni) | L1: Pb 0.12; L2: Pb 0.57; (Ni): Pb 0.01 | model | [2] Kainulainen 2010; _cites Nash 1987_ [doi](https://doi.org/10.1007/bf02874918) | Table 2, p. 4, row 5 |  |
-| 599.6 | eutectic: L2 -> (Ni) + (Pb) | L2: Pb 1; (Ni): Pb 0; (Pb): Pb 1 | model | [2] Kainulainen 2010; _cites Ghosh 1999_ [doi](https://doi.org/10.1007/s11661-999-0085-x) | Table 2, p. 4, row 11 |  |
-| 599.6 | eutectic: LIQUID#2 -> FCC_A1#1+FCC_A1#2 | LIQUID#2: Pb 0.9971; FCC_A1#1: Pb 0.0049; FCC_A1#2: Pb 0.9989 | model | [3] Vaajamo 2013; _cites Ghosh 1999_ [doi](https://doi.org/10.1007/s11661-999-0085-x) | Table 4, p. 6, row 9 |  |
-| 599.5 | eutectic: L2 -> (Ni) + (Pb) | L2: Pb 1; (Ni): Pb 0.55; (Pb): Pb 1 | model | [2] Kainulainen 2010; _cites Wang 2000_ [doi](https://doi.org/10.1016/s0364-5916%2800%2900020-1) | Table 2, p. 4, row 10 |  |
-| 599.5 | eutectic: LIQUID#2 -> FCC_A1#1+FCC_A1#2 | LIQUID#2: Pb 0.9974; FCC_A1#1: Pb 0.0055; FCC_A1#2: Pb 0.9992 | model | [3] Vaajamo 2013; _cites Wang 2000_ [doi](https://doi.org/10.1016/s0364-5916%2800%2900020-1) | Table 4, p. 6, row 10 |  |
-| 599.5 | eutectic: L2 -> (Ni)+(Pb) | L2: Pb 0.9974; (Ni): Pb 0.0055; (Pb): Pb 0.9992 | model | [1] Wang 2000 | Table 3, p. 17, row 7 |  |
-| 598.32 | eutectic |  | model | [2] Kainulainen 2010 | p. 3 | “According to the optimization, the monotectic temperature is 1626.47 K and the eutectic temperature is 598.32 K.” |
-| 598.32 | eutectic: L2 -> (Ni) + (Pb) | L2: Pb 1; (Ni): Pb 2.000e-4; (Pb): Pb 0.99976 | model | [2] Kainulainen 2010 | Table 2, p. 4, row 12 |  |
-| 598.3 | eutectic: LIQUID#2 -> FCC_A1#1+FCC_A1#2 | LIQUID#2: Pb 0.99624; FCC_A1#1: Pb 2.100e-4; FCC_A1#2: Pb 0.99976 | model | [3] Vaajamo 2013; _cites Kainulainen 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.08.001) | Table 4, p. 6, row 11 |  |
-| 598.3 | eutectic |  | model | [2] Kainulainen 2010 | p. 1 | “The eutectic equilibrium was calculated between an fcc nickel solution containing 0.02 at.% Pb, the eutectic liquid at 99.62 at.% Pb and a lead-rich fcc solution containing 99.98 at.% Pb at a temperature 598.3 K.” |
-| 598.2 | eutectic: LIQUID#2 -> FCC_A1#1+FCC_A1#2 | LIQUID#2: Pb 0.996; FCC_A1#1: Pb 0; FCC_A1#2: Pb 0.99977 | model | [3] Vaajamo 2013 | Table 4, p. 6, row 12 |  |
-| 597.2 | eutectic: L2 -> (Ni)+(Pb) | L2: Pb 0.995; (Ni): Pb 0.01; (Pb): Pb 0.998 | unspecified | [1] Wang 2000; _cites ref. 91Nas_ | Table 3, p. 17, row 6 |  |
-| 597.15 | eutectic: L2 -> (Ni) + (Pb) | L2: Pb 1; (Ni): Pb 0.01; (Pb): Pb 1 | model | [2] Kainulainen 2010; _cites Nash 1987_ [doi](https://doi.org/10.1007/bf02874918) | Table 2, p. 4, row 9 |  |
-| 597 | eutectic |  | experimental | [2] Kainulainen 2010; _cites Pelzel 1955_ | p. 2 | “Pelzel \[14\] found 0.38 at.% Ni to be an eutectic composition at 597 K in the Pb-Ni system.” |
+| 1833.9 | critical point: L -> L1+L2 | L: Pb 0.317 | model | [1] Wang 2000 | Table 3, p. 17, row 3; `ORC-4AB7YHJOKV` |  |
+| 1833.9 | critical point: L -> L1 + L2 | L: Pb 0.32 | model | [2] Kainulainen 2010; _cites Wang 2000_ [doi](https://doi.org/10.1016/s0364-5916%2800%2900020-1) | Table 2, p. 4, row 2; `ORC-F65BLEVMEX` |  |
+| 1833.9 | critical point: LIQUID -> LIQUID#1+LIQUID#2 | LIQUID: Pb 0.317 | model | [3] Vaajamo 2013; _cites Wang 2000_ [doi](https://doi.org/10.1016/s0364-5916%2800%2900020-1) | Table 4, p. 6, row 2; `ORC-K7JHXO6FDJ` |  |
+| 1828.2 | critical point: L -> L1+L2 |  | unspecified | [1] Wang 2000; _cites ref. 91Nas_ | Table 3, p. 17, row 2; `ORC-DLMTA6WZ2P` |  |
+| 1828 | critical point: L -> L1 + L2 | L: Pb 0.29 | model | [2] Kainulainen 2010; _cites Nash 1987_ [doi](https://doi.org/10.1007/bf02874918) | Table 2, p. 4, row 1; `ORC-EREXE3EV5E` |  |
+| 1824 | critical point: LIQUID -> LIQUID#1+LIQUID#2 | LIQUID: Pb 0.294 | model | [3] Vaajamo 2013; _cites Ghosh 1999_ [doi](https://doi.org/10.1007/s11661-999-0085-x) | Table 4, p. 6, row 1; `ORC-B5KBFDLXL2` |  |
+| 1824 | critical point: L -> L1 + L2 | L: Pb 0.29 | model | [2] Kainulainen 2010; _cites Ghosh 1999_ [doi](https://doi.org/10.1007/s11661-999-0085-x) | Table 2, p. 4, row 3; `ORC-TG36NXAN5B` |  |
+| 1823.2 | critical point: L -> L1+L2 |  | experimental | [1] Wang 2000; _cites ref. 60Mil_ | Table 3, p. 17, row 1; `ORC-FVCQDRMTUP` |  |
+| 1804.8 | critical point: LIQUID -> LIQUID#1+LIQUID#2 | LIQUID: Pb 0.2723 | model | [3] Vaajamo 2013; _cites Kainulainen 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.08.001) | Table 4, p. 6, row 3; `ORC-SYNAMWO7BD` |  |
+| 1804.76 | critical point: L -> L1 + L2 | L: Pb 0.2723 | model | [2] Kainulainen 2010 | Table 2, p. 4, row 4; `ORC-F4IMNI2A2K` |  |
+| 1781.8 | critical point: LIQUID -> LIQUID#1+LIQUID#2 | LIQUID: Pb 0.2679 | model | [3] Vaajamo 2013 | Table 4, p. 6, row 4; `ORC-DQABHVDFJL` |  |
+| 1626.5 | monotectic: LIQUID#1 -> LIQUID#2+FCC_A1#1 | LIQUID#1: Pb 0.11911; LIQUID#2: Pb 0.5965; FCC_A1#1: Pb 0.00128 | model | [3] Vaajamo 2013; _cites Kainulainen 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.08.001) | Table 4, p. 6, row 7; `ORC-3T2JK6RJWT` |  |
+| 1626.5 | monotectic |  | model | [2] Kainulainen 2010 | p. 1; `ORC-QFFOEG6SD5` | “The monotectic equilibrium was calculated between the fcc nickel solution at 0.13 at.% Pb, the nickel-rich end of the liquid miscibility gap at 11.91 at.% Pb and its lead-rich end at 59.65 at.% Pb at a temperature 1626.5 K.” |
+| 1626.47 | monotectic |  | model | [2] Kainulainen 2010 | p. 3; `ORC-5J43PPNAUX.32bda2` | “According to the optimization, the monotectic temperature is 1626.47 K and the eutectic temperature is 598.32 K.” |
+| 1626.47 | monotectic: L1 -> L2 + (Ni) | L1: Pb 0.1191; L2: Pb 0.5965; (Ni): Pb 0.0013 | model | [2] Kainulainen 2010 | Table 2, p. 4, row 8; `ORC-UPMVTIFPFQ` |  |
+| 1618.9 | monotectic: LIQUID#1 -> LIQUID#2+FCC_A1#1 | LIQUID#1: Pb 0.12857; LIQUID#2: Pb 0.58721; FCC_A1#1: Pb 0.00154 | model | [3] Vaajamo 2013 | Table 4, p. 6, row 8; `ORC-N3HRGUYEZF` |  |
+| 1614 | monotectic: L1 -> L2 + (Ni) | L1: Pb 0.14; L2: Pb 0.53; (Ni): Pb 0.01 | model | [2] Kainulainen 2010; _cites Ghosh 1999_ [doi](https://doi.org/10.1007/s11661-999-0085-x) | Table 2, p. 4, row 7; `ORC-BLWHJDR4H7` |  |
+| 1614 | monotectic: LIQUID#1 -> LIQUID#2+FCC_A1#1 | LIQUID#1: Pb 0.1412; LIQUID#2: Pb 0.5323; FCC_A1#1: Pb 0.0077 | model | [3] Vaajamo 2013; _cites Ghosh 1999_ [doi](https://doi.org/10.1007/s11661-999-0085-x) | Table 4, p. 6, row 5; `ORC-RVJNLBMFDO` |  |
+| 1613.3 | monotectic: L1 -> L2 + (Ni) | L1: Pb 0.14; L2: Pb 0.6; (Ni): Pb 0.01 | model | [2] Kainulainen 2010; _cites Wang 2000_ [doi](https://doi.org/10.1016/s0364-5916%2800%2900020-1) | Table 2, p. 4, row 6; `ORC-MMK6I4NYIC` |  |
+| 1613.3 | monotectic: L1 -> L2+(Ni) | L1: Pb 0.136; L2: Pb 0.6; (Ni): Pb 0.0105 | model | [1] Wang 2000 | Table 3, p. 17, row 5; `ORC-SZOENG7B7U` |  |
+| 1613.3 | monotectic: LIQUID#1 -> LIQUID#2+FCC_A1#1 | LIQUID#1: Pb 0.136; LIQUID#2: Pb 0.6; FCC_A1#1: Pb 0.0105 | model | [3] Vaajamo 2013; _cites Wang 2000_ [doi](https://doi.org/10.1016/s0364-5916%2800%2900020-1) | Table 4, p. 6, row 6; `ORC-VVRUIFOIRE` |  |
+| 1613.2 | monotectic: L1 -> L2+(Ni) | L1: Pb 0.116; L2: Pb 0.57; (Ni): Pb 0.01 | unspecified | [1] Wang 2000; _cites ref. 91Nas_ | Table 3, p. 17, row 4; `ORC-OTG47KCXBV` |  |
+| 1613.15 | monotectic: L1 -> L2 + (Ni) | L1: Pb 0.12; L2: Pb 0.57; (Ni): Pb 0.01 | model | [2] Kainulainen 2010; _cites Nash 1987_ [doi](https://doi.org/10.1007/bf02874918) | Table 2, p. 4, row 5; `ORC-JC4E5EXRB3` |  |
+| 599.6 | eutectic: L2 -> (Ni) + (Pb) | L2: Pb 1; (Ni): Pb 0; (Pb): Pb 1 | model | [2] Kainulainen 2010; _cites Ghosh 1999_ [doi](https://doi.org/10.1007/s11661-999-0085-x) | Table 2, p. 4, row 11; `ORC-7PZRUM2SRW` |  |
+| 599.6 | eutectic: LIQUID#2 -> FCC_A1#1+FCC_A1#2 | LIQUID#2: Pb 0.9971; FCC_A1#1: Pb 0.0049; FCC_A1#2: Pb 0.9989 | model | [3] Vaajamo 2013; _cites Ghosh 1999_ [doi](https://doi.org/10.1007/s11661-999-0085-x) | Table 4, p. 6, row 9; `ORC-MU3DJ3DPMG` |  |
+| 599.5 | eutectic: L2 -> (Ni) + (Pb) | L2: Pb 1; (Ni): Pb 0.55; (Pb): Pb 1 | model | [2] Kainulainen 2010; _cites Wang 2000_ [doi](https://doi.org/10.1016/s0364-5916%2800%2900020-1) | Table 2, p. 4, row 10; `ORC-24ZT6PG4QU` |  |
+| 599.5 | eutectic: LIQUID#2 -> FCC_A1#1+FCC_A1#2 | LIQUID#2: Pb 0.9974; FCC_A1#1: Pb 0.0055; FCC_A1#2: Pb 0.9992 | model | [3] Vaajamo 2013; _cites Wang 2000_ [doi](https://doi.org/10.1016/s0364-5916%2800%2900020-1) | Table 4, p. 6, row 10; `ORC-74WASYHSC3` |  |
+| 599.5 | eutectic: L2 -> (Ni)+(Pb) | L2: Pb 0.9974; (Ni): Pb 0.0055; (Pb): Pb 0.9992 | model | [1] Wang 2000 | Table 3, p. 17, row 7; `ORC-KZSRRJE3FA` |  |
+| 598.32 | eutectic |  | model | [2] Kainulainen 2010 | p. 3; `ORC-5J43PPNAUX.4ed2f7` | “According to the optimization, the monotectic temperature is 1626.47 K and the eutectic temperature is 598.32 K.” |
+| 598.32 | eutectic: L2 -> (Ni) + (Pb) | L2: Pb 1; (Ni): Pb 2.000e-4; (Pb): Pb 0.99976 | model | [2] Kainulainen 2010 | Table 2, p. 4, row 12; `ORC-T3DASGCKU4` |  |
+| 598.3 | eutectic: LIQUID#2 -> FCC_A1#1+FCC_A1#2 | LIQUID#2: Pb 0.99624; FCC_A1#1: Pb 2.100e-4; FCC_A1#2: Pb 0.99976 | model | [3] Vaajamo 2013; _cites Kainulainen 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.08.001) | Table 4, p. 6, row 11; `ORC-4E5BHRAQRL` |  |
+| 598.3 | eutectic |  | model | [2] Kainulainen 2010 | p. 1; `ORC-B63IYH4YYS` | “The eutectic equilibrium was calculated between an fcc nickel solution containing 0.02 at.% Pb, the eutectic liquid at 99.62 at.% Pb and a lead-rich fcc solution containing 99.98 at.% Pb at a temperature 598.3 K.” |
+| 598.2 | eutectic: LIQUID#2 -> FCC_A1#1+FCC_A1#2 | LIQUID#2: Pb 0.996; FCC_A1#1: Pb 0; FCC_A1#2: Pb 0.99977 | model | [3] Vaajamo 2013 | Table 4, p. 6, row 12; `ORC-UDHARUDUKK` |  |
+| 597.2 | eutectic: L2 -> (Ni)+(Pb) | L2: Pb 0.995; (Ni): Pb 0.01; (Pb): Pb 0.998 | unspecified | [1] Wang 2000; _cites ref. 91Nas_ | Table 3, p. 17, row 6; `ORC-5PXCY64ND5` |  |
+| 597.15 | eutectic: L2 -> (Ni) + (Pb) | L2: Pb 1; (Ni): Pb 0.01; (Pb): Pb 1 | model | [2] Kainulainen 2010; _cites Nash 1987_ [doi](https://doi.org/10.1007/bf02874918) | Table 2, p. 4, row 9; `ORC-3ZKSYKR6K3` |  |
+| 597 | eutectic |  | experimental | [2] Kainulainen 2010; _cites Pelzel 1955_ | p. 2; `ORC-M7UT2JT5XD` | “Pelzel \[14\] found 0.38 at.% Ni to be an eutectic composition at 597 K in the Pb-Ni system.” |
 
 ## Other properties
 
@@ -103,20 +103,20 @@ Table: Phase transition, Ni–Pb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 600.612 K | 600.612 |  | model | [3] Vaajamo 2013; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | p. 1 | “According to the SGTE Pure Element Transition Data \[6,7\], the melting point for pure Fe is 1810.94 K, for pure Ni 1728.30 K, and for pure Pb 600.612 K.” |
-| Phase transition | 600.612 K | 600.612 |  | experimental | [3] Vaajamo 2013; _cites Preston-Thomas 1976_ | p. 1 | “According to IPTS-68 \[8\] and ITS-90 \[9\] the freezing point of lead and nickel are 600.612 K and 1727.973 K, respectively.” |
-| Phase transition | 600.612 K | 600.612 |  | model | [2] Kainulainen 2010; _cites MTDATAphase_ | p. 2 | “According to \[9\] the melting point for pure nickel is 1728.30 K and for pure lead is 600.612 K.” |
-| Phase transition | 600.652 K | 600.652 |  | experimental | [2] Kainulainen 2010; _cites Preston-Thomas 1976_ | p. 2 | “The freezing point by IPTS68 \[10\] for lead is 600.652 K and for nickel is 1728 K.” |
-| Phase transition | 1626 K | 1626 | other | model | [4] Gossé 2014 | p. 4 | “The monotectic reaction is calculated at 1626 K and the temperature of the critical point of the liquid miscibility gap is 1805 K.” |
-| Phase transition | 1727.97 K | 1727.97 |  | experimental | [3] Vaajamo 2013; _cites Preston-Thomas 1976_ | p. 1 | “According to IPTS-68 \[8\] and ITS-90 \[9\] the freezing point of lead and nickel are 600.612 K and 1727.973 K, respectively.” |
-| Phase transition | 1728 K | 1728 |  | experimental | [2] Kainulainen 2010; _cites Preston-Thomas 1976_ | p. 2 | “The freezing point by IPTS68 \[10\] for lead is 600.652 K and for nickel is 1728 K.” |
-| Phase transition | 1728.3 K | 1728.3 |  | model | [3] Vaajamo 2013; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | p. 1 | “According to the SGTE Pure Element Transition Data \[6,7\], the melting point for pure Fe is 1810.94 K, for pure Ni 1728.30 K, and for pure Pb 600.612 K.” |
-| Phase transition | 1728.3 K | 1728.3 |  | model | [2] Kainulainen 2010; _cites MTDATAphase_ | p. 2 | “According to \[9\] the melting point for pure nickel is 1728.30 K and for pure lead is 600.612 K.” |
-| Phase transition | 1757.15 K | 1757.15 |  | experimental | [2] Kainulainen 2010; _cites Hansen 1958_ | p. 2 | “Hansen \[5\] noted that Portevin \[11\] used higher melting point (1757.15 K) for nickel and necessary correlation was made to Portevin's data points.” |
-| Phase transition | 1804.76 K | 1804.76 |  | model | [2] Kainulainen 2010 | p. 3 | “The upper consolute point of the liquid miscibility gap is located at 27.23 at.% Pb at a temperature of 1804.76 K.” |
-| Phase transition | 1804.8 K | 1804.8 |  | model | [2] Kainulainen 2010 | p. 1 | “The upper consolute point of the liquid miscibility gap was calculated to be at 1804.8 K at 27.23 at.% Pb.” |
-| Phase transition | 1805 K | 1805 | other | model | [4] Gossé 2014 | p. 4 | “The monotectic reaction is calculated at 1626 K and the temperature of the critical point of the liquid miscibility gap is 1805 K.” |
-| Phase transition | 2022 K | 2022 | other | experimental | [3] Vaajamo 2013 | p. 1 | “Lead has a high vapour pressure and its boiling point at 1 atm is 2022 K.” |
+| Phase transition | 600.612 K | 600.612 |  | model | [3] Vaajamo 2013; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | p. 1; `ORC-6MHDV33PHE.6a2f6e` | “According to the SGTE Pure Element Transition Data \[6,7\], the melting point for pure Fe is 1810.94 K, for pure Ni 1728.30 K, and for pure Pb 600.612 K.” |
+| Phase transition | 600.612 K | 600.612 |  | experimental | [3] Vaajamo 2013; _cites Preston-Thomas 1976_ | p. 1; `ORC-IOBTQUYB5A.2c67a4` | “According to IPTS-68 \[8\] and ITS-90 \[9\] the freezing point of lead and nickel are 600.612 K and 1727.973 K, respectively.” |
+| Phase transition | 600.612 K | 600.612 |  | model | [2] Kainulainen 2010; _cites MTDATAphase_ | p. 2; `ORC-XK7SEBR5RD.455d6c` | “According to \[9\] the melting point for pure nickel is 1728.30 K and for pure lead is 600.612 K.” |
+| Phase transition | 600.652 K | 600.652 |  | experimental | [2] Kainulainen 2010; _cites Preston-Thomas 1976_ | p. 2; `ORC-P4QRL75TAX.3a6acf` | “The freezing point by IPTS68 \[10\] for lead is 600.652 K and for nickel is 1728 K.” |
+| Phase transition | 1626 K | 1626 | other | model | [4] Gossé 2014 | p. 4; `ORC-VWK4LAQHPA.b4a5c9` | “The monotectic reaction is calculated at 1626 K and the temperature of the critical point of the liquid miscibility gap is 1805 K.” |
+| Phase transition | 1727.97 K | 1727.97 |  | experimental | [3] Vaajamo 2013; _cites Preston-Thomas 1976_ | p. 1; `ORC-IOBTQUYB5A.5e6427` | “According to IPTS-68 \[8\] and ITS-90 \[9\] the freezing point of lead and nickel are 600.612 K and 1727.973 K, respectively.” |
+| Phase transition | 1728 K | 1728 |  | experimental | [2] Kainulainen 2010; _cites Preston-Thomas 1976_ | p. 2; `ORC-P4QRL75TAX.5dc201` | “The freezing point by IPTS68 \[10\] for lead is 600.652 K and for nickel is 1728 K.” |
+| Phase transition | 1728.3 K | 1728.3 |  | model | [3] Vaajamo 2013; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | p. 1; `ORC-6MHDV33PHE.fd0000` | “According to the SGTE Pure Element Transition Data \[6,7\], the melting point for pure Fe is 1810.94 K, for pure Ni 1728.30 K, and for pure Pb 600.612 K.” |
+| Phase transition | 1728.3 K | 1728.3 |  | model | [2] Kainulainen 2010; _cites MTDATAphase_ | p. 2; `ORC-XK7SEBR5RD.dd2632` | “According to \[9\] the melting point for pure nickel is 1728.30 K and for pure lead is 600.612 K.” |
+| Phase transition | 1757.15 K | 1757.15 |  | experimental | [2] Kainulainen 2010; _cites Hansen 1958_ | p. 2; `ORC-WVYCLJUGRW` | “Hansen \[5\] noted that Portevin \[11\] used higher melting point (1757.15 K) for nickel and necessary correlation was made to Portevin's data points.” |
+| Phase transition | 1804.76 K | 1804.76 |  | model | [2] Kainulainen 2010 | p. 3; `ORC-VM24C62OJS` | “The upper consolute point of the liquid miscibility gap is located at 27.23 at.% Pb at a temperature of 1804.76 K.” |
+| Phase transition | 1804.8 K | 1804.8 |  | model | [2] Kainulainen 2010 | p. 1; `ORC-A37FPDWOZK` | “The upper consolute point of the liquid miscibility gap was calculated to be at 1804.8 K at 27.23 at.% Pb.” |
+| Phase transition | 1805 K | 1805 | other | model | [4] Gossé 2014 | p. 4; `ORC-VWK4LAQHPA.c271e0` | “The monotectic reaction is calculated at 1626 K and the temperature of the critical point of the liquid miscibility gap is 1805 K.” |
+| Phase transition | 2022 K | 2022 | other | experimental | [3] Vaajamo 2013 | p. 1; `ORC-E2MSBOBG3K` | “Lead has a high vapour pressure and its boiling point at 1 atm is 2022 K.” |
 
 ## Sources
 
@@ -184,4 +184,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -27,7 +27,7 @@ Table: Invariant reactions reported in the literature for the Ag–In–Sn syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 387.15 | eutectic |  | experimental | [1] Korhonen 1998; _cites Artaki 1995_ [doi](https://doi.org/10.1108/eb037896) | p. 9 | “A similar extra peak has also been reported34 for a commercial Sn-In-Ag solder. The DSC graph showed a very sharp peak at about 114°C, due to melting at the eutectic temperature, and another peak with a maximum at the liquidus temperature.” |
+| 387.15 | eutectic |  | experimental | [1] Korhonen 1998; _cites Artaki 1995_ [doi](https://doi.org/10.1108/eb037896) | p. 9; `ORC-7AH2T2YW4B` | “A similar extra peak has also been reported34 for a commercial Sn-In-Ag solder. The DSC graph showed a very sharp peak at about 114°C, due to melting at the eutectic temperature, and another peak with a maximum at the liquidus temperature.” |
 
 ## Other properties
 
@@ -37,12 +37,12 @@ Table: Phase transition, Ag–In–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 399.15 K | 399.15 | other: 4,4b; _alloy: In 0.5_ | experimental | [1] Korhonen 1998 | Table IV, p. 8, row 4 |  |
-| Phase transition | 423.15 K | 423.15 | other: 2 | experimental | [1] Korhonen 1998 | Table IV, p. 8, row 2 |  |
-| Phase transition | 449.15 K | 449.15 | other: 6 | experimental | [1] Korhonen 1998 | Table IV, p. 8, row 6 |  |
-| Phase transition | 463.15 K | 463.15 | other: 1, 1b | experimental | [1] Korhonen 1998 | Table IV, p. 8, row 1 |  |
-| Phase transition | 478.15 K | 478.15 | other: 3 | experimental | [1] Korhonen 1998 | Table IV, p. 8, row 3 |  |
-| Phase transition | 480.15 K | 480.15 | other: 5 | experimental | [1] Korhonen 1998 | Table IV, p. 8, row 5 |  |
+| Phase transition | 399.15 K | 399.15 | other: 4,4b; _alloy: In 0.5_ | experimental | [1] Korhonen 1998 | Table IV, p. 8, row 4; `ORC-P2PXE2ZV6X` |  |
+| Phase transition | 423.15 K | 423.15 | other: 2 | experimental | [1] Korhonen 1998 | Table IV, p. 8, row 2; `ORC-DHCLHDQE2N` |  |
+| Phase transition | 449.15 K | 449.15 | other: 6 | experimental | [1] Korhonen 1998 | Table IV, p. 8, row 6; `ORC-X72KVHTNLB` |  |
+| Phase transition | 463.15 K | 463.15 | other: 1, 1b | experimental | [1] Korhonen 1998 | Table IV, p. 8, row 1; `ORC-G2QKNPJWYN` |  |
+| Phase transition | 478.15 K | 478.15 | other: 3 | experimental | [1] Korhonen 1998 | Table IV, p. 8, row 3; `ORC-JT45VEKNZF` |  |
+| Phase transition | 480.15 K | 480.15 | other: 5 | experimental | [1] Korhonen 1998 | Table IV, p. 8, row 5; `ORC-VBJPTPXIDO` |  |
 
 ## Sources
 
@@ -85,4 +85,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

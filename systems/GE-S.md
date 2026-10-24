@@ -53,7 +53,7 @@ Table: Invariant reactions reported in the literature for the Ge–S system (1)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 381.1 | eutectic: L→GeS2+(S) | L: S 0.995; GeS2: S 0.667; (S): S 1 | model | [1] Chen 2022 | Table III, p. 4, row 30 |  |
+| 381.1 | eutectic: L→GeS2+(S) | L: S 0.995; GeS2: S 0.667; (S): S 1 | model | [1] Chen 2022 | Table III, p. 4, row 30; `ORC-OVN5WROWMV` |  |
 
 ## Formation enthalpies
 
@@ -63,24 +63,24 @@ Table: Enthalpies of formation, Ge–S system (18)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| GeS2 | [GeS2](https://data.orchid-project.org/compounds/GeS2.html) | -69.55 kJ/mol-atom | 0 | model | -64.065 (mp-aaabgpmi) | -50.116 (oqmd-2017) | [1] Chen 2022; _cites ref. 36_ | Table II, p. 3, row 45 |  |
-| GeS2 | [GeS2](https://data.orchid-project.org/compounds/GeS2.html) | -52.3 kJ/mol-atom ± 4.3 | 298.15 | experimental | -64.065 (mp-aaabgpmi) | -50.116 (oqmd-2017) | [1] Chen 2022; _cites ref. 60_ | Table II, p. 3, row 42 |  |
-| GeS2 | [GeS2](https://data.orchid-project.org/compounds/GeS2.html) | -50.03 kJ/mol-atom | 0 | model | -64.065 (mp-aaabgpmi) | -50.116 (oqmd-2017) | [1] Chen 2022; _cites Saal 2013_ | Table II, p. 3, row 44 |  |
-| GeS2 | [GeS2](https://data.orchid-project.org/compounds/GeS2.html) | -50 kJ/mol-atom ± 6.7 | 298.15 | experimental | -64.065 (mp-aaabgpmi) | -50.116 (oqmd-2017) | [1] Chen 2022; _cites ref. 64_ | Table II, p. 3, row 43 |  |
-| GeS2 | [GeS2](https://data.orchid-project.org/compounds/GeS2.html) | -48.733 kJ/mol-atom | 298.15 | model | -64.065 (mp-aaabgpmi) | -50.116 (oqmd-2017) | [1] Chen 2022 | Table II, p. 3, row 47 |  |
-| GeS2 | [GeS2](https://data.orchid-project.org/compounds/GeS2.html) | -45.91 kJ/mol-atom | 298.15 | model | -64.065 (mp-aaabgpmi) | -50.116 (oqmd-2017) | [1] Chen 2022; _cites ref. 63_ | Table II, p. 3, row 41 |  |
-| GeS2 | [GeS2](https://data.orchid-project.org/compounds/GeS2.html) | -42.6 kJ/mol-atom ± 0.4 | 298.15 | experimental | -64.065 (mp-aaabgpmi) | -50.116 (oqmd-2017) | [1] Chen 2022; _cites ref. 66_ | Table II, p. 3, row 39 |  |
-| GeS2 | [GeS2](https://data.orchid-project.org/compounds/GeS2.html) | -41.6 kJ/mol-atom ± 0.9 | 298.15 | experimental | -64.065 (mp-aaabgpmi) | -50.116 (oqmd-2017) | [1] Chen 2022; _cites ref. 65_ | Table II, p. 3, row 40 |  |
-| GeS2 | [GeS2](https://data.orchid-project.org/compounds/GeS2.html) | -31.88 kJ/mol-atom | 0 | unspecified | -64.065 (mp-aaabgpmi) | -50.116 (oqmd-2017) | [1] Chen 2022 | Table II, p. 3, row 46 |  |
-| αGeS | [GeS](https://data.orchid-project.org/compounds/GeS.html) | -56.42 kJ/mol-atom | 0 | model | -48.403 (mp-aaaaadig) | -38.311 (oqmd-1877) | [1] Chen 2022; _cites ref. 36_ | Table II, p. 3, row 36 |  |
-| αGeS | [GeS](https://data.orchid-project.org/compounds/GeS.html) | -38.27 kJ/mol-atom | 0 | model | -48.403 (mp-aaaaadig) | -38.311 (oqmd-1877) | [1] Chen 2022; _cites Saal 2013_ | Table II, p. 3, row 35 |  |
-| αGeS | [GeS](https://data.orchid-project.org/compounds/GeS.html) | -38.1 kJ/mol-atom ± 4.2 | 298.15 | experimental | -48.403 (mp-aaaaadig) | -38.311 (oqmd-1877) | [1] Chen 2022; _cites ref. 59_ | Table II, p. 3, row 30 |  |
-| αGeS | [GeS](https://data.orchid-project.org/compounds/GeS.html) | -38.1 kJ/mol-atom ± 2.1 | 298.15 | experimental | -48.403 (mp-aaaaadig) | -38.311 (oqmd-1877) | [1] Chen 2022; _cites ref. 60_ | Table II, p. 3, row 33 |  |
-| αGeS | [GeS](https://data.orchid-project.org/compounds/GeS.html) | -37.7 kJ/mol-atom ± 1.5 | 298.15 | experimental | -48.403 (mp-aaaaadig) | -38.311 (oqmd-1877) | [1] Chen 2022; _cites ref. 61_ | Table II, p. 3, row 34 |  |
-| αGeS | [GeS](https://data.orchid-project.org/compounds/GeS.html) | -37.172 kJ/mol-atom | 298.15 | model | -48.403 (mp-aaaaadig) | -38.311 (oqmd-1877) | [1] Chen 2022 | Table II, p. 3, row 38 |  |
-| αGeS | [GeS](https://data.orchid-project.org/compounds/GeS.html) | -30.6 kJ/mol-atom ± 0.6 | 298.15 | experimental | -48.403 (mp-aaaaadig) | -38.311 (oqmd-1877) | [1] Chen 2022; _cites ref. 62_ | Table II, p. 3, row 31 |  |
-| αGeS | [GeS](https://data.orchid-project.org/compounds/GeS.html) | -29.96 kJ/mol-atom | 298.15 | model | -48.403 (mp-aaaaadig) | -38.311 (oqmd-1877) | [1] Chen 2022; _cites ref. 63_ | Table II, p. 3, row 32 |  |
-| αGeS | [GeS](https://data.orchid-project.org/compounds/GeS.html) | -24.6 kJ/mol-atom | 0 | unspecified | -48.403 (mp-aaaaadig) | -38.311 (oqmd-1877) | [1] Chen 2022 | Table II, p. 3, row 37 |  |
+| GeS2 | [GeS2](https://data.orchid-project.org/compounds/GeS2.html) | -69.55 kJ/mol-atom | 0 | model | -64.065 (mp-aaabgpmi) | -50.116 (oqmd-2017) | [1] Chen 2022; _cites ref. 36_ | Table II, p. 3, row 45; `ORC-37ZYCFUMUL.a312d4` |  |
+| GeS2 | [GeS2](https://data.orchid-project.org/compounds/GeS2.html) | -52.3 kJ/mol-atom ± 4.3 | 298.15 | experimental | -64.065 (mp-aaabgpmi) | -50.116 (oqmd-2017) | [1] Chen 2022; _cites ref. 60_ | Table II, p. 3, row 42; `ORC-4TF6HMXWH2.3852a2` |  |
+| GeS2 | [GeS2](https://data.orchid-project.org/compounds/GeS2.html) | -50.03 kJ/mol-atom | 0 | model | -64.065 (mp-aaabgpmi) | -50.116 (oqmd-2017) | [1] Chen 2022; _cites Saal 2013_ | Table II, p. 3, row 44; `ORC-M7S7BYQTFF.7d7343` |  |
+| GeS2 | [GeS2](https://data.orchid-project.org/compounds/GeS2.html) | -50 kJ/mol-atom ± 6.7 | 298.15 | experimental | -64.065 (mp-aaabgpmi) | -50.116 (oqmd-2017) | [1] Chen 2022; _cites ref. 64_ | Table II, p. 3, row 43; `ORC-U6SKC776SP.f248ff` |  |
+| GeS2 | [GeS2](https://data.orchid-project.org/compounds/GeS2.html) | -48.733 kJ/mol-atom | 298.15 | model | -64.065 (mp-aaabgpmi) | -50.116 (oqmd-2017) | [1] Chen 2022 | Table II, p. 3, row 47; `ORC-TXLKM4EHRC.8d4e0d` |  |
+| GeS2 | [GeS2](https://data.orchid-project.org/compounds/GeS2.html) | -45.91 kJ/mol-atom | 298.15 | model | -64.065 (mp-aaabgpmi) | -50.116 (oqmd-2017) | [1] Chen 2022; _cites ref. 63_ | Table II, p. 3, row 41; `ORC-L4Z2KBX534.30941a` |  |
+| GeS2 | [GeS2](https://data.orchid-project.org/compounds/GeS2.html) | -42.6 kJ/mol-atom ± 0.4 | 298.15 | experimental | -64.065 (mp-aaabgpmi) | -50.116 (oqmd-2017) | [1] Chen 2022; _cites ref. 66_ | Table II, p. 3, row 39; `ORC-FQ6A25FGYJ.232cbd` |  |
+| GeS2 | [GeS2](https://data.orchid-project.org/compounds/GeS2.html) | -41.6 kJ/mol-atom ± 0.9 | 298.15 | experimental | -64.065 (mp-aaabgpmi) | -50.116 (oqmd-2017) | [1] Chen 2022; _cites ref. 65_ | Table II, p. 3, row 40; `ORC-SGPWYVDIGH.92a463` |  |
+| GeS2 | [GeS2](https://data.orchid-project.org/compounds/GeS2.html) | -31.88 kJ/mol-atom | 0 | unspecified | -64.065 (mp-aaabgpmi) | -50.116 (oqmd-2017) | [1] Chen 2022 | Table II, p. 3, row 46; `ORC-2O5LFMT42I.b500e1` |  |
+| αGeS | [GeS](https://data.orchid-project.org/compounds/GeS.html) | -56.42 kJ/mol-atom | 0 | model | -48.403 (mp-aaaaadig) | -38.311 (oqmd-1877) | [1] Chen 2022; _cites ref. 36_ | Table II, p. 3, row 36; `ORC-QC4TRWPUT7.b6296e` |  |
+| αGeS | [GeS](https://data.orchid-project.org/compounds/GeS.html) | -38.27 kJ/mol-atom | 0 | model | -48.403 (mp-aaaaadig) | -38.311 (oqmd-1877) | [1] Chen 2022; _cites Saal 2013_ | Table II, p. 3, row 35; `ORC-LBIO4HHJD6.356d98` |  |
+| αGeS | [GeS](https://data.orchid-project.org/compounds/GeS.html) | -38.1 kJ/mol-atom ± 4.2 | 298.15 | experimental | -48.403 (mp-aaaaadig) | -38.311 (oqmd-1877) | [1] Chen 2022; _cites ref. 59_ | Table II, p. 3, row 30; `ORC-LDBZTNBWDG.bc7419` |  |
+| αGeS | [GeS](https://data.orchid-project.org/compounds/GeS.html) | -38.1 kJ/mol-atom ± 2.1 | 298.15 | experimental | -48.403 (mp-aaaaadig) | -38.311 (oqmd-1877) | [1] Chen 2022; _cites ref. 60_ | Table II, p. 3, row 33; `ORC-Y4ING52MDV.8ae466` |  |
+| αGeS | [GeS](https://data.orchid-project.org/compounds/GeS.html) | -37.7 kJ/mol-atom ± 1.5 | 298.15 | experimental | -48.403 (mp-aaaaadig) | -38.311 (oqmd-1877) | [1] Chen 2022; _cites ref. 61_ | Table II, p. 3, row 34; `ORC-DWH4MP7WIT.6f902c` |  |
+| αGeS | [GeS](https://data.orchid-project.org/compounds/GeS.html) | -37.172 kJ/mol-atom | 298.15 | model | -48.403 (mp-aaaaadig) | -38.311 (oqmd-1877) | [1] Chen 2022 | Table II, p. 3, row 38; `ORC-DOSOBVOIUF.22cbc6` |  |
+| αGeS | [GeS](https://data.orchid-project.org/compounds/GeS.html) | -30.6 kJ/mol-atom ± 0.6 | 298.15 | experimental | -48.403 (mp-aaaaadig) | -38.311 (oqmd-1877) | [1] Chen 2022; _cites ref. 62_ | Table II, p. 3, row 31; `ORC-MS57O4PWNI.0e7348` |  |
+| αGeS | [GeS](https://data.orchid-project.org/compounds/GeS.html) | -29.96 kJ/mol-atom | 298.15 | model | -48.403 (mp-aaaaadig) | -38.311 (oqmd-1877) | [1] Chen 2022; _cites ref. 63_ | Table II, p. 3, row 32; `ORC-AOOE4WBZ55.539a1b` |  |
+| αGeS | [GeS](https://data.orchid-project.org/compounds/GeS.html) | -24.6 kJ/mol-atom | 0 | unspecified | -48.403 (mp-aaaaadig) | -38.311 (oqmd-1877) | [1] Chen 2022 | Table II, p. 3, row 37; `ORC-AE6RBHXQHI.d5de65` |  |
 
 ## Other properties
 
@@ -90,12 +90,12 @@ Table: Crystal structure, Ge–S system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 6.808 Å | 298.15 | GeS2; _alloy: Ge 0.333333, S 0.666667_ | experimental | [1] Chen 2022; _cites Dittmar 1975_ [doi](https://doi.org/10.1107/s0567740875006851) | Table I, p. 2, row 11 |  |
-| Lattice a | 4.306 Å | 298.15 | αGeS; _alloy: Ge 0.5, S 0.5_ | experimental | [1] Chen 2022; _cites Wiedemeier 1977_ [doi](https://doi.org/10.1002/zaac.19774310134) | Table I, p. 2, row 10 |  |
-| Lattice b | 16.284 Å | 298.15 | GeS2; _alloy: Ge 0.333333, S 0.666667_ | experimental | [1] Chen 2022; _cites Dittmar 1975_ [doi](https://doi.org/10.1107/s0567740875006851) | Table I, p. 2, row 11 |  |
-| Lattice b | 3.653 Å | 298.15 | αGeS; _alloy: Ge 0.5, S 0.5_ | experimental | [1] Chen 2022; _cites Wiedemeier 1977_ [doi](https://doi.org/10.1002/zaac.19774310134) | Table I, p. 2, row 10 |  |
-| Lattice c | 11.698 Å | 298.15 | GeS2; _alloy: Ge 0.333333, S 0.666667_ | experimental | [1] Chen 2022; _cites Dittmar 1975_ [doi](https://doi.org/10.1107/s0567740875006851) | Table I, p. 2, row 11 |  |
-| Lattice c | 10.449 Å | 298.15 | αGeS; _alloy: Ge 0.5, S 0.5_ | experimental | [1] Chen 2022; _cites Wiedemeier 1977_ [doi](https://doi.org/10.1002/zaac.19774310134) | Table I, p. 2, row 10 |  |
+| Lattice a | 6.808 Å | 298.15 | GeS2; _alloy: Ge 0.333333, S 0.666667_ | experimental | [1] Chen 2022; _cites Dittmar 1975_ [doi](https://doi.org/10.1107/s0567740875006851) | Table I, p. 2, row 11; `ORC-PKQPWHQUDA.f11864` |  |
+| Lattice a | 4.306 Å | 298.15 | αGeS; _alloy: Ge 0.5, S 0.5_ | experimental | [1] Chen 2022; _cites Wiedemeier 1977_ [doi](https://doi.org/10.1002/zaac.19774310134) | Table I, p. 2, row 10; `ORC-U2E4FTFLHB.0408d2` |  |
+| Lattice b | 16.284 Å | 298.15 | GeS2; _alloy: Ge 0.333333, S 0.666667_ | experimental | [1] Chen 2022; _cites Dittmar 1975_ [doi](https://doi.org/10.1107/s0567740875006851) | Table I, p. 2, row 11; `ORC-PKQPWHQUDA.f6fa61` |  |
+| Lattice b | 3.653 Å | 298.15 | αGeS; _alloy: Ge 0.5, S 0.5_ | experimental | [1] Chen 2022; _cites Wiedemeier 1977_ [doi](https://doi.org/10.1002/zaac.19774310134) | Table I, p. 2, row 10; `ORC-U2E4FTFLHB.5dcd52` |  |
+| Lattice c | 11.698 Å | 298.15 | GeS2; _alloy: Ge 0.333333, S 0.666667_ | experimental | [1] Chen 2022; _cites Dittmar 1975_ [doi](https://doi.org/10.1107/s0567740875006851) | Table I, p. 2, row 11; `ORC-PKQPWHQUDA.057653` |  |
+| Lattice c | 10.449 Å | 298.15 | αGeS; _alloy: Ge 0.5, S 0.5_ | experimental | [1] Chen 2022; _cites Wiedemeier 1977_ [doi](https://doi.org/10.1002/zaac.19774310134) | Table I, p. 2, row 10; `ORC-U2E4FTFLHB.63e4ef` |  |
 
 ## Sources
 
@@ -160,4 +160,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

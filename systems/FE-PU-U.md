@@ -28,12 +28,12 @@ Table: Phase equilibrium, Fe–Pu–U system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 923 | Fe(Pu, U)6 + β-U; _Fe(Pu, U)6: Fe 0.123, Pu 0.117, U 0.76; β-U: Fe 0.002, Pu 0.234, U 0.765_ | experimental | [1] Kurata 2001 | Table 2, p. 4, row 2 |  |
-| Phase composition |  | 923 | Fe(Pu, U)6 + η-(Pu, U); _Fe(Pu, U)6: Fe 0.137, Pu 0.164, U 0.699; η-(Pu, U): Fe 0.007, Pu 0.361, U 0.632_ | experimental | [1] Kurata 2001 | Table 2, p. 4, row 1 |  |
-| Phase composition |  | 923 | Fe2(Pu, U) + Fe(Pu, U)6; _Fe2(Pu, U): Fe 0.646, Pu 0.033, U 0.321; Fe(Pu, U)6: Fe 0.153, Pu 0.061, U 0.786_ | experimental | [1] Kurata 2001 | Table 2, p. 4, row 3 |  |
-| Phase composition |  | 923 | Liquid; _Liquid: Fe 0.178, Pu 0.822, U 0_ | experimental | [1] Kurata 2001 | Table 2, p. 4, row 7 |  |
-| Phase composition |  | 923 | Liquid + Fe2(Pu, U); _Liquid: Fe 0.207, Pu 0.702, U 0.091; Fe2(Pu, U): Fe 0.663, Pu 0.045, U 0.292_ | experimental | [1] Kurata 2001 | Table 2, p. 4, row 5 |  |
-| Phase composition |  | 923 | Liquid + Fe2(Pu, U); _Liquid: Fe 0.161, Pu 0.379, U 0.459; Fe2(Pu, U): Fe 0.619, Pu 0.381, U 0_ | experimental | [1] Kurata 2001 | Table 2, p. 4, row 6 |  |
+| Phase composition |  | 923 | Fe(Pu, U)6 + β-U; _Fe(Pu, U)6: Fe 0.123, Pu 0.117, U 0.76; β-U: Fe 0.002, Pu 0.234, U 0.765_ | experimental | [1] Kurata 2001 | Table 2, p. 4, row 2; `ORC-VLJR546JJ3` |  |
+| Phase composition |  | 923 | Fe(Pu, U)6 + η-(Pu, U); _Fe(Pu, U)6: Fe 0.137, Pu 0.164, U 0.699; η-(Pu, U): Fe 0.007, Pu 0.361, U 0.632_ | experimental | [1] Kurata 2001 | Table 2, p. 4, row 1; `ORC-TVEI2U7T45` |  |
+| Phase composition |  | 923 | Fe2(Pu, U) + Fe(Pu, U)6; _Fe2(Pu, U): Fe 0.646, Pu 0.033, U 0.321; Fe(Pu, U)6: Fe 0.153, Pu 0.061, U 0.786_ | experimental | [1] Kurata 2001 | Table 2, p. 4, row 3; `ORC-O3FYORKPLG` |  |
+| Phase composition |  | 923 | Liquid; _Liquid: Fe 0.178, Pu 0.822, U 0_ | experimental | [1] Kurata 2001 | Table 2, p. 4, row 7; `ORC-45J3YAWVOO` |  |
+| Phase composition |  | 923 | Liquid + Fe2(Pu, U); _Liquid: Fe 0.207, Pu 0.702, U 0.091; Fe2(Pu, U): Fe 0.663, Pu 0.045, U 0.292_ | experimental | [1] Kurata 2001 | Table 2, p. 4, row 5; `ORC-C6XX4Z6KXC` |  |
+| Phase composition |  | 923 | Liquid + Fe2(Pu, U); _Liquid: Fe 0.161, Pu 0.379, U 0.459; Fe2(Pu, U): Fe 0.619, Pu 0.381, U 0_ | experimental | [1] Kurata 2001 | Table 2, p. 4, row 6; `ORC-WLMVPKZMPL` |  |
 
 ## Sources
 
@@ -76,4 +76,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

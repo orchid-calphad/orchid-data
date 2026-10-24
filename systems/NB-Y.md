@@ -48,7 +48,7 @@ Table: Invariant reactions reported in the literature for the Nb–Y system (1)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1743.15 | eutectic |  | model | [1] Mattern 2008; _cites Palenzona 1991_ [doi](https://doi.org/10.1007/bf02645717) | p. 7 | “Using regular and subregular interaction parameters for the liquid phase, it was possible to obtain a good fit of the eutectic and monotectic temperatures, 1470 ± 10 C and 2400 C, respectively.\[16\]” |
+| 1743.15 | eutectic |  | model | [1] Mattern 2008; _cites Palenzona 1991_ [doi](https://doi.org/10.1007/bf02645717) | p. 7; `ORC-2XETEZWOYC.516897` | “Using regular and subregular interaction parameters for the liquid phase, it was possible to obtain a good fit of the eutectic and monotectic temperatures, 1470 ± 10 C and 2400 C, respectively.\[16\]” |
 
 ## Other properties
 
@@ -58,8 +58,8 @@ Table: Phase transition, Nb–Y system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1751.15 K | 1751.15 | polymorphic | model | [1] Mattern 2008; _cites Palenzona 1991_ [doi](https://doi.org/10.1007/bf02645717) | p. 7 | “The calculated solid solubilities of Y in Nb and vice versa are around 0.1 at.% in agreement with experimental reports,\[16\] while niobium has virtually no effect on the temperature of polymorphic cph M bcc transformation in yttrium metal (1478 C).” |
-| Phase transition | 2673.15 K | 2673.15 | other | model | [1] Mattern 2008; _cites Palenzona 1991_ [doi](https://doi.org/10.1007/bf02645717) | p. 7 | “Using regular and subregular interaction parameters for the liquid phase, it was possible to obtain a good fit of the eutectic and monotectic temperatures, 1470 ± 10 C and 2400 C, respectively.\[16\]” |
+| Phase transition | 1751.15 K | 1751.15 | polymorphic | model | [1] Mattern 2008; _cites Palenzona 1991_ [doi](https://doi.org/10.1007/bf02645717) | p. 7; `ORC-TIJAPKI4MF` | “The calculated solid solubilities of Y in Nb and vice versa are around 0.1 at.% in agreement with experimental reports,\[16\] while niobium has virtually no effect on the temperature of polymorphic cph M bcc transformation in yttrium metal (1478 C).” |
+| Phase transition | 2673.15 K | 2673.15 | other | model | [1] Mattern 2008; _cites Palenzona 1991_ [doi](https://doi.org/10.1007/bf02645717) | p. 7; `ORC-2XETEZWOYC.af8ae2` | “Using regular and subregular interaction parameters for the liquid phase, it was possible to obtain a good fit of the eutectic and monotectic temperatures, 1470 ± 10 C and 2400 C, respectively.\[16\]” |
 
 ## Sources
 
@@ -124,4 +124,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

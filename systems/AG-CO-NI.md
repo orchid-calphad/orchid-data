@@ -28,25 +28,25 @@ Table: Phase equilibrium, Ag–Co–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 1373 | Liquid + fcc; _Liquid: Ag 0.9981, Co 3.000e-4, Ni 0.0016; fcc: Ag 4.000e-4, Co 0.5001, Ni 0.4995_ | experimental | [1] Deng 2021 | Table 1, p. 4, row 9 |  |
-| Phase composition |  | 1373 | Liquid + fcc; _Liquid: Ag 0.9958, Co 3.000e-4, Ni 0.0039; fcc: Ag 6.000e-4, Co 0.2, Ni 0.7994_ | experimental | [1] Deng 2021 | Table 1, p. 4, row 8 |  |
-| Phase composition |  | 1373 | Liquid + fcc; _Liquid: Co 4.000e-4; fcc: Co 0.9999_ | experimental | [1] Deng 2021 | Table 1, p. 4, row 1 |  |
-| Phase composition |  | 1373 | Liquid + fcc; _Liquid: Ag 0.9987, Co 4.000e-4, Ni 9.000e-4; fcc: Ag 5.000e-4, Co 0.7998, Ni 0.1997_ | experimental | [1] Deng 2021 | Table 1, p. 4, row 10 |  |
-| Phase composition |  | 1473 | Liquid + fcc; _Liquid: Co 0.001; fcc: Co 0.9999_ | experimental | [1] Deng 2021 | Table 1, p. 4, row 2 |  |
-| Phase composition |  | 1573 | Liquid + fcc; _Liquid: Ag 0.9937, Co 0.0025, Ni 0.0038; fcc: Ag 7.000e-4, Co 0.8002, Ni 0.1991_ | experimental | [1] Deng 2021 | Table 1, p. 4, row 13 |  |
-| Phase composition |  | 1573 | Liquid + fcc; _Liquid: Ag 0.988, Co 9.000e-4, Ni 0.0111; fcc: Ag 0.0014, Co 0.1995, Ni 0.7991_ | experimental | [1] Deng 2021 | Table 1, p. 4, row 11 |  |
-| Phase composition |  | 1573 | Liquid + fcc; _Liquid: Co 0.002; fcc: Co 0.9998_ | experimental | [1] Deng 2021 | Table 1, p. 4, row 3 |  |
-| Phase composition |  | 1573 | Liquid + fcc; _Liquid: Ag 0.9881, Co 0.0016, Ni 0.0103; fcc: Ag 6.000e-4, Co 0.4998, Ni 0.4996_ | experimental | [1] Deng 2021 | Table 1, p. 4, row 12 |  |
-| Phase composition |  | 1673 | Liquid + fcc; _Liquid: Co 0.0059; fcc: Co 0.9999_ | experimental | [1] Deng 2021 | Table 1, p. 4, row 4 |  |
-| Phase composition |  | 1773 | Liquid 1 + Liquid 2; _Liquid 1: Ag 0.9692, Co 0.0093, Ni 0.0215; Liquid 2: Ag 0.0116, Co 0.5016, Ni 0.4868_ | experimental | [1] Deng 2021 | Table 1, p. 4, row 15 |  |
-| Phase composition |  | 1773 | Liquid 1 + Liquid 2; _Liquid 1: Ag 0.9723, Co 0.015, Ni 0.0127; Liquid 2: Ag 0.0088, Co 0.7967, Ni 0.1945_ | experimental | [1] Deng 2021 | Table 1, p. 4, row 16 |  |
-| Phase composition |  | 1773 | Liquid 1 + Liquid 2; _Liquid 1: Co 0.0138; Liquid 2: Co 0.9952_ | experimental | [1] Deng 2021 | Table 1, p. 4, row 5 |  |
-| Phase composition |  | 1773 | Liquid 1 + Liquid 2; _Liquid 1: Ag 0.9529, Co 0.0033, Ni 0.0438; Liquid 2: Ag 0.0234, Co 0.2026, Ni 0.774_ | experimental | [1] Deng 2021 | Table 1, p. 4, row 14 |  |
-| Phase composition |  | 1823 | Liquid 1 + Liquid 2; _Liquid 1: Co 0.021; Liquid 2: Co 0.9949_ | experimental | [1] Deng 2021 | Table 1, p. 4, row 6 |  |
-| Phase composition |  | 1873 | Liquid 1 + Liquid 2; _Liquid 1: Co 0.0246; Liquid 2: Co 0.994_ | experimental | [1] Deng 2021 | Table 1, p. 4, row 7 |  |
-| Phase composition |  | 1873 | Liquid 1 + Liquid 2; _Liquid 1: Ag 0.9431, Co 0.005, Ni 0.0519; Liquid 2: Ag 0.0281, Co 0.1994, Ni 0.7725_ | experimental | [1] Deng 2021 | Table 1, p. 4, row 17 |  |
-| Phase composition |  | 1873 | Liquid 1 + Liquid 2; _Liquid 1: Ag 0.9565, Co 0.0112, Ni 0.0323; Liquid 2: Ag 0.0163, Co 0.4995, Ni 0.4842_ | experimental | [1] Deng 2021 | Table 1, p. 4, row 18 |  |
-| Phase composition |  | 1873 | Liquid 1 + Liquid 2; _Liquid 1: Ag 0.9698, Co 0.0169, Ni 0.0133; Liquid 2: Ag 0.0105, Co 0.7961, Ni 0.1934_ | experimental | [1] Deng 2021 | Table 1, p. 4, row 19 |  |
+| Phase composition |  | 1373 | Liquid + fcc; _Liquid: Ag 0.9981, Co 3.000e-4, Ni 0.0016; fcc: Ag 4.000e-4, Co 0.5001, Ni 0.4995_ | experimental | [1] Deng 2021 | Table 1, p. 4, row 9; `ORC-G4UXNBTXDT` |  |
+| Phase composition |  | 1373 | Liquid + fcc; _Liquid: Ag 0.9958, Co 3.000e-4, Ni 0.0039; fcc: Ag 6.000e-4, Co 0.2, Ni 0.7994_ | experimental | [1] Deng 2021 | Table 1, p. 4, row 8; `ORC-NW7EA4OJIO` |  |
+| Phase composition |  | 1373 | Liquid + fcc; _Liquid: Co 4.000e-4; fcc: Co 0.9999_ | experimental | [1] Deng 2021 | Table 1, p. 4, row 1; `ORC-RM4G3WDVJ3` |  |
+| Phase composition |  | 1373 | Liquid + fcc; _Liquid: Ag 0.9987, Co 4.000e-4, Ni 9.000e-4; fcc: Ag 5.000e-4, Co 0.7998, Ni 0.1997_ | experimental | [1] Deng 2021 | Table 1, p. 4, row 10; `ORC-ZWUIUVELHV` |  |
+| Phase composition |  | 1473 | Liquid + fcc; _Liquid: Co 0.001; fcc: Co 0.9999_ | experimental | [1] Deng 2021 | Table 1, p. 4, row 2; `ORC-OSWZWEZ76R` |  |
+| Phase composition |  | 1573 | Liquid + fcc; _Liquid: Ag 0.9937, Co 0.0025, Ni 0.0038; fcc: Ag 7.000e-4, Co 0.8002, Ni 0.1991_ | experimental | [1] Deng 2021 | Table 1, p. 4, row 13; `ORC-ENQ7ROO37B` |  |
+| Phase composition |  | 1573 | Liquid + fcc; _Liquid: Ag 0.988, Co 9.000e-4, Ni 0.0111; fcc: Ag 0.0014, Co 0.1995, Ni 0.7991_ | experimental | [1] Deng 2021 | Table 1, p. 4, row 11; `ORC-QOJVISWJ45` |  |
+| Phase composition |  | 1573 | Liquid + fcc; _Liquid: Co 0.002; fcc: Co 0.9998_ | experimental | [1] Deng 2021 | Table 1, p. 4, row 3; `ORC-RZIEECBGRC` |  |
+| Phase composition |  | 1573 | Liquid + fcc; _Liquid: Ag 0.9881, Co 0.0016, Ni 0.0103; fcc: Ag 6.000e-4, Co 0.4998, Ni 0.4996_ | experimental | [1] Deng 2021 | Table 1, p. 4, row 12; `ORC-WIJ7YDDWSY` |  |
+| Phase composition |  | 1673 | Liquid + fcc; _Liquid: Co 0.0059; fcc: Co 0.9999_ | experimental | [1] Deng 2021 | Table 1, p. 4, row 4; `ORC-STD6NZMBMF` |  |
+| Phase composition |  | 1773 | Liquid 1 + Liquid 2; _Liquid 1: Ag 0.9692, Co 0.0093, Ni 0.0215; Liquid 2: Ag 0.0116, Co 0.5016, Ni 0.4868_ | experimental | [1] Deng 2021 | Table 1, p. 4, row 15; `ORC-6G4J4PAQQ3` |  |
+| Phase composition |  | 1773 | Liquid 1 + Liquid 2; _Liquid 1: Ag 0.9723, Co 0.015, Ni 0.0127; Liquid 2: Ag 0.0088, Co 0.7967, Ni 0.1945_ | experimental | [1] Deng 2021 | Table 1, p. 4, row 16; `ORC-EV5FZOBYWX` |  |
+| Phase composition |  | 1773 | Liquid 1 + Liquid 2; _Liquid 1: Co 0.0138; Liquid 2: Co 0.9952_ | experimental | [1] Deng 2021 | Table 1, p. 4, row 5; `ORC-JFM2RRG6VA` |  |
+| Phase composition |  | 1773 | Liquid 1 + Liquid 2; _Liquid 1: Ag 0.9529, Co 0.0033, Ni 0.0438; Liquid 2: Ag 0.0234, Co 0.2026, Ni 0.774_ | experimental | [1] Deng 2021 | Table 1, p. 4, row 14; `ORC-WMR6W2EFUQ` |  |
+| Phase composition |  | 1823 | Liquid 1 + Liquid 2; _Liquid 1: Co 0.021; Liquid 2: Co 0.9949_ | experimental | [1] Deng 2021 | Table 1, p. 4, row 6; `ORC-UEHORB5GKP` |  |
+| Phase composition |  | 1873 | Liquid 1 + Liquid 2; _Liquid 1: Co 0.0246; Liquid 2: Co 0.994_ | experimental | [1] Deng 2021 | Table 1, p. 4, row 7; `ORC-3HTMITDZDS` |  |
+| Phase composition |  | 1873 | Liquid 1 + Liquid 2; _Liquid 1: Ag 0.9431, Co 0.005, Ni 0.0519; Liquid 2: Ag 0.0281, Co 0.1994, Ni 0.7725_ | experimental | [1] Deng 2021 | Table 1, p. 4, row 17; `ORC-DQJKPXUC5T` |  |
+| Phase composition |  | 1873 | Liquid 1 + Liquid 2; _Liquid 1: Ag 0.9565, Co 0.0112, Ni 0.0323; Liquid 2: Ag 0.0163, Co 0.4995, Ni 0.4842_ | experimental | [1] Deng 2021 | Table 1, p. 4, row 18; `ORC-XI4CDJH2QD` |  |
+| Phase composition |  | 1873 | Liquid 1 + Liquid 2; _Liquid 1: Ag 0.9698, Co 0.0169, Ni 0.0133; Liquid 2: Ag 0.0105, Co 0.7961, Ni 0.1934_ | experimental | [1] Deng 2021 | Table 1, p. 4, row 19; `ORC-XOULMTKWN4` |  |
 
 ## Sources
 
@@ -89,4 +89,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

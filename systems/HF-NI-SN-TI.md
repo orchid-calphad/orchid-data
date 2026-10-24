@@ -30,26 +30,26 @@ Table: Enthalpies of formation, Hf–Ni–Sn–Ti system (20)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Full Heusler |  | -58.2 kJ/mol-atom |  | model |  |  | [1] Berche 2016 | Table 4, p. 5, row 14 |  |
-| Full Heusler |  | -55.5 kJ/mol-atom | 0 | DFT |  |  | [1] Berche 2016 | Table 4, p. 5, row 13 |  |
-| Full Heusler |  | -52 kJ/mol-atom |  | model |  |  | [1] Berche 2016 | Table 4, p. 5, row 8 |  |
-| Full Heusler |  | -48.62 kJ/mol-atom | 0 | DFT |  |  | [1] Berche 2016 | Table 4, p. 5, row 7 |  |
-| Full Heusler |  | -45.6 kJ/mol-atom |  | DFT |  |  | [1] Berche 2016; _cites Berche 2016_ [doi](https://doi.org/10.1016/j.calphad.2016.06.002) | Table 4, p. 5, row 12 |  |
-| Full Heusler |  | -43.21 kJ/mol-atom |  | DFT |  |  | [1] Berche 2016; _cites Berche 2016_ [doi](https://doi.org/10.1016/j.calphad.2016.06.002) | Table 4, p. 5, row 6 |  |
-| Full Heusler |  | -13 kJ/mol-atom |  | model |  |  | [1] Berche 2016 | Table 4, p. 5, row 11 |  |
-| Full Heusler |  | -12.84 kJ/mol-atom | 0 | DFT |  |  | [1] Berche 2016 | Table 4, p. 5, row 10 |  |
-| Full Heusler |  | -8.14 kJ/mol-atom |  | DFT |  |  | [1] Berche 2016; _cites Berche 2016_ [doi](https://doi.org/10.1016/j.calphad.2016.06.002) | Table 4, p. 5, row 9 |  |
-| Full-D8_8 |  | -43 kJ/mol-atom |  | model |  |  | [1] Berche 2016 | Table 4, p. 5, row 16 |  |
-| Full-D8_8 |  | -41.67 kJ/mol-atom | 0 | DFT |  |  | [1] Berche 2016 | Table 4, p. 5, row 15 |  |
-| Half Heusler |  | -62.6 kJ/mol-atom | 298.15 | experimental |  |  | [1] Berche 2016; _cites Yin 2015_ [doi](https://doi.org/10.1016/j.jct.2015.07.016) | Table 4, p. 5, row 4 |  |
-| Half Heusler |  | -61.93 kJ/mol-atom | 0 | DFT |  |  | [1] Berche 2016 | Table 4, p. 5, row 3 |  |
-| Half Heusler |  | -57 kJ/mol-atom |  | model |  |  | [1] Berche 2016 | Table 4, p. 5, row 5 |  |
-| Half Heusler |  | -52.79 kJ/mol-atom |  | DFT |  |  | [1] Berche 2016; _cites Berche 2016_ [doi](https://doi.org/10.1016/j.calphad.2016.06.002) | Table 4, p. 5, row 1 |  |
-| Half Heusler |  | -52.6 kJ/mol-atom | 298.15 | experimental |  |  | [1] Berche 2016; _cites Yin 2015_ [doi](https://doi.org/10.1016/j.jct.2015.07.016) | Table 4, p. 5, row 2 |  |
-| X6Ni1.5+xSn1.5-x |  | -37.15 kJ/mol-atom | 0 | DFT |  |  | [1] Berche 2016 | Table 4, p. 5, row 20 |  |
-| X6Ni1.5+xSn1.5-x |  | -37 kJ/mol-atom |  | model |  |  | [1] Berche 2016 | Table 4, p. 5, row 18 |  |
-| X6Ni1.5+xSn1.5-x |  | -22.97 kJ/mol-atom | 0 | DFT |  |  | [1] Berche 2016 | Table 4, p. 5, row 17 |  |
-| X6Ni1.5+xSn1.5-x |  | -8.89 kJ/mol-atom | 0 | DFT |  |  | [1] Berche 2016 | Table 4, p. 5, row 19 |  |
+| Full Heusler |  | -58.2 kJ/mol-atom |  | model |  |  | [1] Berche 2016 | Table 4, p. 5, row 14; `ORC-H4A45HVWMD` |  |
+| Full Heusler |  | -55.5 kJ/mol-atom | 0 | DFT |  |  | [1] Berche 2016 | Table 4, p. 5, row 13; `ORC-FG6X525IHQ` |  |
+| Full Heusler |  | -52 kJ/mol-atom |  | model |  |  | [1] Berche 2016 | Table 4, p. 5, row 8; `ORC-I3GOK32POC` |  |
+| Full Heusler |  | -48.62 kJ/mol-atom | 0 | DFT |  |  | [1] Berche 2016 | Table 4, p. 5, row 7; `ORC-NGEHWBPLUM` |  |
+| Full Heusler |  | -45.6 kJ/mol-atom |  | DFT |  |  | [1] Berche 2016; _cites Berche 2016_ [doi](https://doi.org/10.1016/j.calphad.2016.06.002) | Table 4, p. 5, row 12; `ORC-KI2WNSCROM` |  |
+| Full Heusler |  | -43.21 kJ/mol-atom |  | DFT |  |  | [1] Berche 2016; _cites Berche 2016_ [doi](https://doi.org/10.1016/j.calphad.2016.06.002) | Table 4, p. 5, row 6; `ORC-SSIWLYC4R7` |  |
+| Full Heusler |  | -13 kJ/mol-atom |  | model |  |  | [1] Berche 2016 | Table 4, p. 5, row 11; `ORC-ECTLA2OOER` |  |
+| Full Heusler |  | -12.84 kJ/mol-atom | 0 | DFT |  |  | [1] Berche 2016 | Table 4, p. 5, row 10; `ORC-7UA3IEJ6OA` |  |
+| Full Heusler |  | -8.14 kJ/mol-atom |  | DFT |  |  | [1] Berche 2016; _cites Berche 2016_ [doi](https://doi.org/10.1016/j.calphad.2016.06.002) | Table 4, p. 5, row 9; `ORC-EZUXYKK4AH` |  |
+| Full-D8_8 |  | -43 kJ/mol-atom |  | model |  |  | [1] Berche 2016 | Table 4, p. 5, row 16; `ORC-OBMGI4HR3Z` |  |
+| Full-D8_8 |  | -41.67 kJ/mol-atom | 0 | DFT |  |  | [1] Berche 2016 | Table 4, p. 5, row 15; `ORC-L3LQHMJ2H4` |  |
+| Half Heusler |  | -62.6 kJ/mol-atom | 298.15 | experimental |  |  | [1] Berche 2016; _cites Yin 2015_ [doi](https://doi.org/10.1016/j.jct.2015.07.016) | Table 4, p. 5, row 4; `ORC-NH33G5Z6P4` |  |
+| Half Heusler |  | -61.93 kJ/mol-atom | 0 | DFT |  |  | [1] Berche 2016 | Table 4, p. 5, row 3; `ORC-DIMBQ75YIR` |  |
+| Half Heusler |  | -57 kJ/mol-atom |  | model |  |  | [1] Berche 2016 | Table 4, p. 5, row 5; `ORC-FSIFRE2XEU` |  |
+| Half Heusler |  | -52.79 kJ/mol-atom |  | DFT |  |  | [1] Berche 2016; _cites Berche 2016_ [doi](https://doi.org/10.1016/j.calphad.2016.06.002) | Table 4, p. 5, row 1; `ORC-O7MGDXUWZS` |  |
+| Half Heusler |  | -52.6 kJ/mol-atom | 298.15 | experimental |  |  | [1] Berche 2016; _cites Yin 2015_ [doi](https://doi.org/10.1016/j.jct.2015.07.016) | Table 4, p. 5, row 2; `ORC-32Z3QDQQE4` |  |
+| X6Ni1.5+xSn1.5-x |  | -37.15 kJ/mol-atom | 0 | DFT |  |  | [1] Berche 2016 | Table 4, p. 5, row 20; `ORC-MCPTH5GCJG` |  |
+| X6Ni1.5+xSn1.5-x |  | -37 kJ/mol-atom |  | model |  |  | [1] Berche 2016 | Table 4, p. 5, row 18; `ORC-A625GKBAZS` |  |
+| X6Ni1.5+xSn1.5-x |  | -22.97 kJ/mol-atom | 0 | DFT |  |  | [1] Berche 2016 | Table 4, p. 5, row 17; `ORC-NG7QCW4ZDZ` |  |
+| X6Ni1.5+xSn1.5-x |  | -8.89 kJ/mol-atom | 0 | DFT |  |  | [1] Berche 2016 | Table 4, p. 5, row 19; `ORC-7Y6MU734EV` |  |
 
 ## Sources
 
@@ -92,4 +92,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -52,9 +52,9 @@ Table: Phase transition, Co–Mn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 540 K | 540 | fcc | experimental | [1] Huang 1989; _cites Femandez_ | p. 2 | “The fee Mn is p~arnagne~~ in its stable range, but an ~tife~o~gn~ic transition at T~=540 K has been proposed (6).” |
-| Phase transition | 580 K | 580 | magnetic | experimental | [1] Huang 1989; _cites Femandez_ | p. 2 | “As to the bee phase, TC=1450 K for Co (5) and TN=580 K for Mn (6) were adopted.” |
-| Phase transition | 1450 K | 1450 | magnetic | experimental | [1] Huang 1989; _cites Fernllndez 1987_ | p. 2 | “As to the bee phase, TC=1450 K for Co (5) and TN=580 K for Mn (6) were adopted.” |
+| Phase transition | 540 K | 540 | fcc | experimental | [1] Huang 1989; _cites Femandez_ | p. 2; `ORC-2T3KPT72TE` | “The fee Mn is p~arnagne~~ in its stable range, but an ~tife~o~gn~ic transition at T~=540 K has been proposed (6).” |
+| Phase transition | 580 K | 580 | magnetic | experimental | [1] Huang 1989; _cites Femandez_ | p. 2; `ORC-4L2OSZXAZ7.25b284` | “As to the bee phase, TC=1450 K for Co (5) and TN=580 K for Mn (6) were adopted.” |
+| Phase transition | 1450 K | 1450 | magnetic | experimental | [1] Huang 1989; _cites Fernllndez 1987_ | p. 2; `ORC-4L2OSZXAZ7.e09587` | “As to the bee phase, TC=1450 K for Co (5) and TN=580 K for Mn (6) were adopted.” |
 
 ### Mixing / partial (1)
 
@@ -62,7 +62,7 @@ Table: Mixing / partial, Co–Mn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: ΔmixH^SQS_ | 3.193 kJ/mol-atom |  | fcc; _alloy: Co 0.5, Mn 0.5_ | DFT | [2] Bracq 2021 | Table 1, p. 4, row 3 |  |
+| Enthalpy of mixing; _printed: ΔmixH^SQS_ | 3.193 kJ/mol-atom |  | fcc; _alloy: Co 0.5, Mn 0.5_ | DFT | [2] Bracq 2021 | Table 1, p. 4, row 3; `ORC-SX7ZTH7UF5.7014b4` |  |
 
 ## Sources
 
@@ -128,4 +128,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

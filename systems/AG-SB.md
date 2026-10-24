@@ -58,19 +58,19 @@ Table: Invariant reactions reported in the literature for the Ag–Sb system (13
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 975.7 | L + α \<-> ζ | L: Sb 0.169; α: Sb 0.072; ζ: Sb 0.085 | experimental | [1] Zoro 2007; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02671976) | Table 1, p. 2, row 3 |  |
-| 974.5 | L + α \<-> ζ | L: Sb 0.1632; α: Sb 0.0636; ζ: Sb 0.0879 | unspecified | [1] Zoro 2007; _cites Oh 1996_ [doi](https://doi.org/10.1016/0925-8388%2895%2902191-4) | Table 1, p. 2, row 2 |  |
-| 967.7 | L + α \<-> ζ | L: Sb 0.1608; α: Sb 0.0543; ζ: Sb 0.08 | model | [1] Zoro 2007 | Table 1, p. 2, row 1 |  |
-| 835.6 | L + ζ \<-> ε | L: Sb 0.2767; ζ: Sb 0.1527; ε: Sb 0.2201 | unspecified | [1] Zoro 2007; _cites Oh 1996_ [doi](https://doi.org/10.1016/0925-8388%2895%2902191-4) | Table 1, p. 2, row 5 |  |
-| 835.2 | L + ζ \<-> ε | L: Sb 0.25; ζ: Sb 0.164; ε: Sb 0.211 | experimental | [1] Zoro 2007; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02671976) | Table 1, p. 2, row 6 |  |
-| 829.5 | peritectic |  | model | [1] Zoro 2007 | p. 1 | “The calculated liquid compositions obtained for the peritectic reaction at 829.5 K and the eutectic reaction are compromise values between those of Okamoto\[9\] and Oh\[8\], (Table 1).” |
-| 829.5 | L + ζ \<-> ε | L: Sb 0.2651; ζ: Sb 0.1381; ε: Sb 0.2167 | model | [1] Zoro 2007 | Table 1, p. 2, row 4 |  |
-| 758.2 | L \<-> ε + (Sb) | L: Sb 0.41; ε: Sb 0.25; (Sb): Sb 1 | experimental | [1] Zoro 2007; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02671976) | Table 1, p. 2, row 9 |  |
-| 755.8 | L \<-> ε + (Sb) | L: Sb 0.4231; ε: Sb 0.2717; (Sb): Sb 1 | model | [1] Zoro 2007 | Table 1, p. 2, row 7 |  |
-| 753.2 | L \<-> ε + (Sb) | L: Sb 0.4361; ε: Sb 0.2557; (Sb): Sb 1 | unspecified | [1] Zoro 2007; _cites Oh 1996_ [doi](https://doi.org/10.1016/0925-8388%2895%2902191-4) | Table 1, p. 2, row 8 |  |
-| 663.1 | eutectic |  | model | [1] Zoro 2007 | p. 7 | “However, a small maximum of temperature then exists on the valleys: e2 (630.7 K)-max. (664.3 K)-E2 (663.1 K) and E1 (661.8 K)-max. (667.9 K)-E2 (663.1 K) and both reactions remain eutectic.” |
-| 661.8 | eutectic |  | model | [1] Zoro 2007 | p. 7 | “However, a small maximum of temperature then exists on the valleys: e2 (630.7 K)-max. (664.3 K)-E2 (663.1 K) and E1 (661.8 K)-max. (667.9 K)-E2 (663.1 K) and both reactions remain eutectic.” |
-| 630.7 | eutectic |  | model | [1] Zoro 2007 | p. 7 | “However, a small maximum of temperature then exists on the valleys: e2 (630.7 K)-max. (664.3 K)-E2 (663.1 K) and E1 (661.8 K)-max. (667.9 K)-E2 (663.1 K) and both reactions remain eutectic.” |
+| 975.7 | L + α \<-> ζ | L: Sb 0.169; α: Sb 0.072; ζ: Sb 0.085 | experimental | [1] Zoro 2007; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02671976) | Table 1, p. 2, row 3; `ORC-6IM7WQUJBI` |  |
+| 974.5 | L + α \<-> ζ | L: Sb 0.1632; α: Sb 0.0636; ζ: Sb 0.0879 | unspecified | [1] Zoro 2007; _cites Oh 1996_ [doi](https://doi.org/10.1016/0925-8388%2895%2902191-4) | Table 1, p. 2, row 2; `ORC-QVE2XSARTE` |  |
+| 967.7 | L + α \<-> ζ | L: Sb 0.1608; α: Sb 0.0543; ζ: Sb 0.08 | model | [1] Zoro 2007 | Table 1, p. 2, row 1; `ORC-GGCGZD6NTS` |  |
+| 835.6 | L + ζ \<-> ε | L: Sb 0.2767; ζ: Sb 0.1527; ε: Sb 0.2201 | unspecified | [1] Zoro 2007; _cites Oh 1996_ [doi](https://doi.org/10.1016/0925-8388%2895%2902191-4) | Table 1, p. 2, row 5; `ORC-QC6PWDXROD` |  |
+| 835.2 | L + ζ \<-> ε | L: Sb 0.25; ζ: Sb 0.164; ε: Sb 0.211 | experimental | [1] Zoro 2007; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02671976) | Table 1, p. 2, row 6; `ORC-4OOFBCGA7E` |  |
+| 829.5 | peritectic |  | model | [1] Zoro 2007 | p. 1; `ORC-C5ELK6F5MK` | “The calculated liquid compositions obtained for the peritectic reaction at 829.5 K and the eutectic reaction are compromise values between those of Okamoto\[9\] and Oh\[8\], (Table 1).” |
+| 829.5 | L + ζ \<-> ε | L: Sb 0.2651; ζ: Sb 0.1381; ε: Sb 0.2167 | model | [1] Zoro 2007 | Table 1, p. 2, row 4; `ORC-G5O4F6SD7P` |  |
+| 758.2 | L \<-> ε + (Sb) | L: Sb 0.41; ε: Sb 0.25; (Sb): Sb 1 | experimental | [1] Zoro 2007; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02671976) | Table 1, p. 2, row 9; `ORC-A6RB3GXHQQ` |  |
+| 755.8 | L \<-> ε + (Sb) | L: Sb 0.4231; ε: Sb 0.2717; (Sb): Sb 1 | model | [1] Zoro 2007 | Table 1, p. 2, row 7; `ORC-FT3VSI2Q5Y` |  |
+| 753.2 | L \<-> ε + (Sb) | L: Sb 0.4361; ε: Sb 0.2557; (Sb): Sb 1 | unspecified | [1] Zoro 2007; _cites Oh 1996_ [doi](https://doi.org/10.1016/0925-8388%2895%2902191-4) | Table 1, p. 2, row 8; `ORC-UCPAA337O7` |  |
+| 663.1 | eutectic |  | model | [1] Zoro 2007 | p. 7; `ORC-3WUUUCKMBW.c0d625` | “However, a small maximum of temperature then exists on the valleys: e2 (630.7 K)-max. (664.3 K)-E2 (663.1 K) and E1 (661.8 K)-max. (667.9 K)-E2 (663.1 K) and both reactions remain eutectic.” |
+| 661.8 | eutectic |  | model | [1] Zoro 2007 | p. 7; `ORC-3WUUUCKMBW.39f543` | “However, a small maximum of temperature then exists on the valleys: e2 (630.7 K)-max. (664.3 K)-E2 (663.1 K) and E1 (661.8 K)-max. (667.9 K)-E2 (663.1 K) and both reactions remain eutectic.” |
+| 630.7 | eutectic |  | model | [1] Zoro 2007 | p. 7; `ORC-3WUUUCKMBW.91a8d3` | “However, a small maximum of temperature then exists on the valleys: e2 (630.7 K)-max. (664.3 K)-E2 (663.1 K) and E1 (661.8 K)-max. (667.9 K)-E2 (663.1 K) and both reactions remain eutectic.” |
 
 ## Other properties
 
@@ -80,10 +80,10 @@ Table: Phase transition, Ag–Sb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 663.6 K | 663.6 |  | model | [1] Zoro 2007 | p. 7 | “A slight change in the value of the optimized enthalpy term (noted as a) of the thermodynamic parameter G:Ag:Sb: of the phase (Ag,Au)Sb2 (a decrease from 2641.1228 (see Table 3) to 1400 J/mol) moves the order of occurrence of the U2 (E1) and U3 (E2) reactions, respectively, at 663.7 and 663.6 K.” |
-| Phase transition | 663.7 K | 663.7 |  | model | [1] Zoro 2007 | p. 7 | “A slight change in the value of the optimized enthalpy term (noted as a) of the thermodynamic parameter G:Ag:Sb: of the phase (Ag,Au)Sb2 (a decrease from 2641.1228 (see Table 3) to 1400 J/mol) moves the order of occurrence of the U2 (E1) and U3 (E2) reactions, respectively, at 663.7 and 663.6 K.” |
-| Phase transition | 664.7 K | 664.7 |  | model | [1] Zoro 2007 | p. 7 | “When the change in a is somewhat larger (a = 150 J/mol), U2 occurs at 668.3 K and U3 at 664.7 K.” |
-| Phase transition | 668.3 K | 668.3 |  | model | [1] Zoro 2007 | p. 7 | “When the change in a is somewhat larger (a = 150 J/mol), U2 occurs at 668.3 K and U3 at 664.7 K.” |
+| Phase transition | 663.6 K | 663.6 |  | model | [1] Zoro 2007 | p. 7; `ORC-QSWG2AEJSZ.fe5336` | “A slight change in the value of the optimized enthalpy term (noted as a) of the thermodynamic parameter G:Ag:Sb: of the phase (Ag,Au)Sb2 (a decrease from 2641.1228 (see Table 3) to 1400 J/mol) moves the order of occurrence of the U2 (E1) and U3 (E2) reactions, respectively, at 663.7 and 663.6 K.” |
+| Phase transition | 663.7 K | 663.7 |  | model | [1] Zoro 2007 | p. 7; `ORC-QSWG2AEJSZ.da5c6d` | “A slight change in the value of the optimized enthalpy term (noted as a) of the thermodynamic parameter G:Ag:Sb: of the phase (Ag,Au)Sb2 (a decrease from 2641.1228 (see Table 3) to 1400 J/mol) moves the order of occurrence of the U2 (E1) and U3 (E2) reactions, respectively, at 663.7 and 663.6 K.” |
+| Phase transition | 664.7 K | 664.7 |  | model | [1] Zoro 2007 | p. 7; `ORC-XFKROW35GC.2769b3` | “When the change in a is somewhat larger (a = 150 J/mol), U2 occurs at 668.3 K and U3 at 664.7 K.” |
+| Phase transition | 668.3 K | 668.3 |  | model | [1] Zoro 2007 | p. 7; `ORC-XFKROW35GC.e0c69e` | “When the change in a is somewhat larger (a = 150 J/mol), U2 occurs at 668.3 K and U3 at 664.7 K.” |
 
 ## Sources
 
@@ -148,4 +148,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

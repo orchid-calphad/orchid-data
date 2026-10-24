@@ -14,16 +14,16 @@ Table: Enthalpy of formation of NbSn2 reported in the literature (10)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -18.21 kJ/mol (basis unstated) ± 0.81 | NbSn2 | 860 | experimental | Electromotive force | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [1] Toffolon 1998; _cites ref. 75Mal_ | Table 3, p. 2, row 1 |  |
-| -18.21 kJ/mol (basis unstated) ± 0.81 | NbSn2 | 860 | experimental | Electromotive force | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [2] Toffolon 2002; _cites Malets 1975_ | Table 4, p. 3, row 1 |  |
-| -20.143 kJ/mol-atom | NbSn2 | 860 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [2] Toffolon 2002 | Table 4, p. 3, row 6 |  |
-| -17.585 kJ/mol (basis unstated) | NbSn2 | 298.15 | model | Optimization | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [1] Toffolon 1998 | Table 3, p. 2, row 4 |  |
-| -17.585 kJ/mol-atom | NbSn2 | 860 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [2] Toffolon 2002; _cites Toffolon 2002_ | Table 4, p. 3, row 3 |  |
-| -17.585 kJ/mol (basis unstated) | NbSn2 | 860 | model | Optimization | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [1] Toffolon 1998 | Table 3, p. 2, row 3 |  |
-| -17.585 kJ/mol-atom | NbSn2 | 298.15 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [2] Toffolon 2002; _cites Toffolon 2002_ | Table 4, p. 3, row 4 |  |
-| -16 kJ/mol-atom | NbSn2 | 298.15 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [2] Toffolon 2002; _cites ref. 1988Deb_ | Table 4, p. 3, row 2 |  |
-| -16 kJ/mol (basis unstated) | NbSn2 | 298.15 | model | Calculation | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [1] Toffolon 1998; _cites ref. 88Deb_ | Table 3, p. 2, row 2 |  |
-| -15.495 kJ/mol-atom | NbSn2 | 298.15 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [2] Toffolon 2002 | Table 4, p. 3, row 5 |  |
+| -18.21 kJ/mol (basis unstated) ± 0.81 | NbSn2 | 860 | experimental | Electromotive force | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [1] Toffolon 1998; _cites ref. 75Mal_ | Table 3, p. 2, row 1; `ORC-335XCHRYQ6.9eb0d3` |  |
+| -18.21 kJ/mol (basis unstated) ± 0.81 | NbSn2 | 860 | experimental | Electromotive force | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [2] Toffolon 2002; _cites Malets 1975_ | Table 4, p. 3, row 1; `ORC-G3OKTMFFXI.f4b893` |  |
+| -20.143 kJ/mol-atom | NbSn2 | 860 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [2] Toffolon 2002 | Table 4, p. 3, row 6; `ORC-DA4UJZRUD6.2a2bf8` |  |
+| -17.585 kJ/mol (basis unstated) | NbSn2 | 298.15 | model | Optimization | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [1] Toffolon 1998 | Table 3, p. 2, row 4; `ORC-BUDOYS2MUA.2ba084` |  |
+| -17.585 kJ/mol-atom | NbSn2 | 860 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [2] Toffolon 2002; _cites Toffolon 2002_ | Table 4, p. 3, row 3; `ORC-IC3QIP7RFN.18bd22` |  |
+| -17.585 kJ/mol (basis unstated) | NbSn2 | 860 | model | Optimization | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [1] Toffolon 1998 | Table 3, p. 2, row 3; `ORC-MQRQD3JY45.50a9e3` |  |
+| -17.585 kJ/mol-atom | NbSn2 | 298.15 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [2] Toffolon 2002; _cites Toffolon 2002_ | Table 4, p. 3, row 4; `ORC-QKHPA7LXXH.5c7ba3` |  |
+| -16 kJ/mol-atom | NbSn2 | 298.15 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [2] Toffolon 2002; _cites ref. 1988Deb_ | Table 4, p. 3, row 2; `ORC-5FUVGBB4MQ` |  |
+| -16 kJ/mol (basis unstated) | NbSn2 | 298.15 | model | Calculation | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [1] Toffolon 1998; _cites ref. 88Deb_ | Table 3, p. 2, row 2; `ORC-DZ3ZTVIBAB.87bc18` |  |
+| -15.495 kJ/mol-atom | NbSn2 | 298.15 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [2] Toffolon 2002 | Table 4, p. 3, row 5; `ORC-AH2TKUTPIK.31a70e` |  |
 
 ### Uncertainty budget
 
@@ -109,4 +109,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

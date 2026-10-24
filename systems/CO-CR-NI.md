@@ -28,18 +28,18 @@ Table: Mixing / partial, Co–Cr–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: ΔHmix_ | 11.95 kJ/mol-atom | 0 | A2; _alloy: Co 0.25, Cr 0.5, Ni 0.25_ | DFT | [1] Liu 2016 | Table 6, p. 40, row 28 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | 8.03 kJ/mol-atom | 0 | A2; _alloy: Co 0.25, Cr 0.25, Ni 0.5_ | DFT | [1] Liu 2016 | Table 6, p. 40, row 29 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | 0.86 kJ/mol-atom | 0 | A2; _alloy: Co 0.5, Cr 0.25, Ni 0.25_ | DFT | [1] Liu 2016 | Table 6, p. 40, row 27 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | 10.8 kJ/mol-atom | 0 | B2; _alloy: Co 0.5, Cr 0.25, Ni 0.25_ | DFT | [1] Liu 2016 | Table 8, p. 42, row 20 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | 17.62 kJ/mol-atom | 0 | B2; _alloy: Co 0.25, Cr 0.5, Ni 0.25_ | DFT | [1] Liu 2016 | Table 8, p. 42, row 23 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | 16.02 kJ/mol-atom | 0 | B2; _alloy: Co 0.25, Cr 0.25, Ni 0.5_ | DFT | [1] Liu 2016 | Table 8, p. 42, row 26 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -3.2 kJ/mol-atom | 0 | γ; _alloy: Co 0.5, Cr 0.25, Ni 0.25_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 27 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -5.04 kJ/mol-atom | 0 | γ; _alloy: Co 0.25, Cr 0.25, Ni 0.5_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 29 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -8.14 kJ/mol-atom | 0 | γ; _alloy: Co 0.25, Cr 0.5, Ni 0.25_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 28 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -5.64 kJ/mol-atom | 0 | γ’; _alloy: Co 0.25, Cr 0.375, Ni 0.375_ | DFT | [1] Liu 2016 | Table 9, p. 43, row 20 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -3.87 kJ/mol-atom | 0 | γ’; _alloy: Co 0.375, Cr 0.25, Ni 0.375_ | DFT | [1] Liu 2016 | Table 9, p. 43, row 23 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -5.61 kJ/mol-atom | 0 | γ’; _alloy: Co 0.375, Cr 0.375, Ni 0.25_ | DFT | [1] Liu 2016 | Table 9, p. 43, row 26 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 11.95 kJ/mol-atom | 0 | A2; _alloy: Co 0.25, Cr 0.5, Ni 0.25_ | DFT | [1] Liu 2016 | Table 6, p. 40, row 28; `ORC-DES3Y567OU` |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 8.03 kJ/mol-atom | 0 | A2; _alloy: Co 0.25, Cr 0.25, Ni 0.5_ | DFT | [1] Liu 2016 | Table 6, p. 40, row 29; `ORC-GEKREDAI23` |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 0.86 kJ/mol-atom | 0 | A2; _alloy: Co 0.5, Cr 0.25, Ni 0.25_ | DFT | [1] Liu 2016 | Table 6, p. 40, row 27; `ORC-X7EHOUKTPD` |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 10.8 kJ/mol-atom | 0 | B2; _alloy: Co 0.5, Cr 0.25, Ni 0.25_ | DFT | [1] Liu 2016 | Table 8, p. 42, row 20; `ORC-32GMQ4UZPY` |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 17.62 kJ/mol-atom | 0 | B2; _alloy: Co 0.25, Cr 0.5, Ni 0.25_ | DFT | [1] Liu 2016 | Table 8, p. 42, row 23; `ORC-DOSQLG6EWU` |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 16.02 kJ/mol-atom | 0 | B2; _alloy: Co 0.25, Cr 0.25, Ni 0.5_ | DFT | [1] Liu 2016 | Table 8, p. 42, row 26; `ORC-S77VZEGXQ3` |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -3.2 kJ/mol-atom | 0 | γ; _alloy: Co 0.5, Cr 0.25, Ni 0.25_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 27; `ORC-FCRRH4IFTR` |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -5.04 kJ/mol-atom | 0 | γ; _alloy: Co 0.25, Cr 0.25, Ni 0.5_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 29; `ORC-MRYCPD3MGU` |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -8.14 kJ/mol-atom | 0 | γ; _alloy: Co 0.25, Cr 0.5, Ni 0.25_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 28; `ORC-WSKLBJ7O6R` |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -5.64 kJ/mol-atom | 0 | γ’; _alloy: Co 0.25, Cr 0.375, Ni 0.375_ | DFT | [1] Liu 2016 | Table 9, p. 43, row 20; `ORC-BZVTAKWUEV` |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -3.87 kJ/mol-atom | 0 | γ’; _alloy: Co 0.375, Cr 0.25, Ni 0.375_ | DFT | [1] Liu 2016 | Table 9, p. 43, row 23; `ORC-EAJVUJJ3L3` |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -5.61 kJ/mol-atom | 0 | γ’; _alloy: Co 0.375, Cr 0.375, Ni 0.25_ | DFT | [1] Liu 2016 | Table 9, p. 43, row 26; `ORC-YFI3VYJ3UQ` |  |
 
 ## Sources
 
@@ -82,4 +82,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

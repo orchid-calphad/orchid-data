@@ -14,13 +14,13 @@ Table: Enthalpy of formation of UO2 reported in the literature (7)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -361.637 kJ/mol-atom ± 0.278933 | UO2 | 298.15 | experimental |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002; _cites Rand 1978_ | Table 10, p. 8, row 3 |  |
-| -361.637 kJ/mol-atom | UO2 | 298.15 | experimental |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002; _cites Cordfunke 1988_ | Table 10, p. 8, row 4 |  |
-| -361.637 kJ/mol-atom ± 0.278933 | UO2 | 298.15 | experimental |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002; _cites Huber 1969_ [doi](https://doi.org/10.1016/0021-9614%2869%2990046-9) | Table 10, p. 8, row 1 |  |
-| -361.219 kJ/mol-atom ± 0.8368 | UO2 | 298.15 | experimental |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002; _cites Rand 1963_ | Table 10, p. 8, row 2 |  |
-| -361.667 kJ/mol-atom ± 0.333 | UO2 (s) | 298.15 | model |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [2] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 2 |  |
-| -361.637 kJ/mol-atom | UO2 | 298.15 | model |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002 | Table 10, p. 8, row 5 |  |
-| -361.374 kJ/mol-atom | UO2 (s) | 298.15 | model |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [2] Guéneau 2002 | Table 4, p. 9, row 1 |  |
+| -361.637 kJ/mol-atom ± 0.278933 | UO2 | 298.15 | experimental |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002; _cites Rand 1978_ | Table 10, p. 8, row 3; `ORC-RWSO6GJ6PB.39ba8c` |  |
+| -361.637 kJ/mol-atom | UO2 | 298.15 | experimental |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002; _cites Cordfunke 1988_ | Table 10, p. 8, row 4; `ORC-T4WJT4BQP5.4c7213` |  |
+| -361.637 kJ/mol-atom ± 0.278933 | UO2 | 298.15 | experimental |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002; _cites Huber 1969_ [doi](https://doi.org/10.1016/0021-9614%2869%2990046-9) | Table 10, p. 8, row 1; `ORC-XB7LFM5ZC5` |  |
+| -361.219 kJ/mol-atom ± 0.8368 | UO2 | 298.15 | experimental |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002; _cites Rand 1963_ | Table 10, p. 8, row 2; `ORC-R46T3CX36D` |  |
+| -361.667 kJ/mol-atom ± 0.333 | UO2 (s) | 298.15 | model |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [2] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 2; `ORC-KGDWLXXJ7L.b8eb71` |  |
+| -361.637 kJ/mol-atom | UO2 | 298.15 | model |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002 | Table 10, p. 8, row 5; `ORC-E4WJ4DM2JX.eeaeb6` |  |
+| -361.374 kJ/mol-atom | UO2 (s) | 298.15 | model |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [2] Guéneau 2002 | Table 4, p. 9, row 1; `ORC-WJS56OFWF2.db26d2` |  |
 
 ### Uncertainty budget
 
@@ -103,4 +103,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -80,31 +80,31 @@ Table: Invariant reactions reported in the literature for the Mg–Sr system (25
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 962 | Liquid = Mg2Sr | Liquid: Sr 0.3333; Mg2Sr: Sr 0.3333 | experimental | [1] Zhong 2006; _cites Brown 1973_ | Table 4, p. 6, row 20 |  |
-| 953 | Liquid = Mg2Sr | Liquid: Sr 0.3333; Mg2Sr: Sr 0.3333 | experimental | [1] Zhong 2006; _cites Ray 1947_ | Table 4, p. 6, row 19 |  |
-| 953 | Liquid = Mg2Sr | Liquid: Sr 0.3333; Mg2Sr: Sr 0.3333 | experimental | [1] Zhong 2006; _cites Klemm 1947_ [doi](https://doi.org/10.1002/zaac.19472550102) | Table 4, p. 6, row 18 |  |
-| 951 | Liquid = Mg2Sr | Liquid: Sr 0.3334; Mg2Sr: Sr 0.3334 | model | [1] Zhong 2006 | Table 4, p. 6, row 17 |  |
-| 881 | Liquid + Mg23Sr6 = Mg38Sr9 | Liquid: Sr 0.191; Mg23Sr6: Sr 0.3333; Mg38Sr9: Sr 0.25 | experimental | [1] Zhong 2006; _cites Ray 1947_ | Table 4, p. 6, row 13 |  |
-| 881 | Liquid + Mg2Sr = Mg23Sr6 | Liquid: Sr 0.1911; Mg2Sr: Sr 0.3333; Mg23Sr6: Sr 0.25 | experimental | [1] Zhong 2006; _cites Ray 1947_ | Table 4, p. 6, row 16 |  |
-| 879.5 | Liquid = Mg17Sr2 | Liquid: Sr 0.1053; Mg17Sr2: Sr 0.1053 | experimental | [1] Zhong 2006; _cites Brown 1973_ | Table 4, p. 6, row 7 |  |
-| 879 | Liquid = Mg17Sr2 | Liquid: Sr 0.1053; Mg17Sr2: Sr 0.1053 | model | [1] Zhong 2006 | Table 4, p. 6, row 6 |  |
-| 876 | Liquid + Mg2Sr = Mg23Sr6 | Liquid: Sr 0.1923; Mg2Sr: Sr 0.3285; Mg23Sr6: Sr 0.2069 | model | [1] Zhong 2006 | Table 4, p. 6, row 15 |  |
-| 876 | Liquid + Mg23Sr6 = Mg38Sr9 | Liquid: Sr 0.1936; Mg23Sr6: Sr 0.3333; Mg38Sr9: Sr 0.2069 | experimental | [1] Zhong 2006; _cites Brown 1973_ | Table 4, p. 6, row 14 |  |
-| 872 | Liquid + Mg23Sr6 = Mg38Sr9 | Liquid: Sr 0.1914; Mg23Sr6: Sr 0.2069; Mg38Sr9: Sr 0.1915 | model | [1] Zhong 2006 | Table 4, p. 6, row 10 |  |
-| 872 | Liquid + Mg23Sr6 = Mg38Sr9 | Liquid: Sr 0.1744; Mg23Sr6: Sr 0.25; Mg38Sr9: Sr 0.1818 | experimental | [1] Zhong 2006; _cites Ray 1947_ | Table 4, p. 6, row 12 |  |
-| 871 | Liquid + Mg23Sr6 = Mg38Sr9 | Liquid: Sr 0.175; Mg23Sr6: Sr 0.3333; Mg38Sr9: Sr 0.2 | experimental | [1] Zhong 2006; _cites Klemm 1947_ [doi](https://doi.org/10.1002/zaac.19472550102) | Table 4, p. 6, row 11 |  |
-| 866 | Liquid = Mg17Sr2 + Mg38Sr9 | Liquid: Sr 0.1526; Mg17Sr2: Sr 0.1053; Mg38Sr9: Sr 0.1915 | model | [1] Zhong 2006 | Table 4, p. 6, row 8 |  |
-| 865 | Liquid = Mg17Sr2 + Mg38Sr9 | Liquid: Sr 0.1506; Mg17Sr2: Sr 0.1; Mg38Sr9: Sr 0.1818 | experimental | [1] Zhong 2006; _cites Ray 1947_ | Table 4, p. 6, row 9 |  |
-| 861 | Liquid = hcp-Mg + Mg17Sr2 | Liquid: Sr 0.0585; hcp-Mg: Sr 0.001; Mg17Sr2: Sr 0.1053 | model | [1] Zhong 2006 | Table 4, p. 6, row 1 |  |
-| 859 | Liquid = hcp-Mg + Mg17Sr2 | Liquid: Sr 0.06; hcp-Mg: Sr 3.000e-4; Mg17Sr2: Sr 0.1 | experimental | [1] Zhong 2006; _cites Ray 1947_ | Table 4, p. 6, row 4 |  |
-| 858 | Liquid = hcp-Mg + Mg17Sr2 | Liquid: Sr 0.0645; hcp-Mg: Sr 0.001; Mg17Sr2: Sr 0.1053 | experimental | [1] Zhong 2006; _cites Brown 1973_ | Table 4, p. 6, row 5 |  |
-| 858 | Liquid = hcp-Mg + Mg17Sr2 | Liquid: Sr 0.06; hcp-Mg: Sr 0; Mg17Sr2: Sr 0.1 | experimental | [1] Zhong 2006; _cites Klemm 1947_ [doi](https://doi.org/10.1002/zaac.19472550102) | Table 4, p. 6, row 3 |  |
-| 855 | Liquid = hcp-Mg + Mg17Sr2 | Liquid: Sr 0.059; hcp-Mg: Sr 0; Mg17Sr2: Sr 0.1 | experimental | [1] Zhong 2006; _cites Vosskhuler 1939_ | Table 4, p. 6, row 2 |  |
-| 717 | eutectic |  | model | [1] Zhong 2006 | p. 7 | “The predicted lowest ternary eutectic temperature is 717 K.” |
-| 711 | Liquid = Mg2Sr + fcc-Al | Liquid: Sr 0.65; Mg2Sr: Sr 0.3333; fcc-Al: Sr 1 | experimental | [1] Zhong 2006; _cites Klemm 1947_ [doi](https://doi.org/10.1002/zaac.19472550102) | Table 4, p. 6, row 22 |  |
-| 700 | Liquid = Mg2Sr + fcc-Al | Liquid: Sr 0.6929; Mg2Sr: Sr 0.3387; fcc-Al: Sr 0.9978 | model | [1] Zhong 2006 | Table 4, p. 6, row 21 |  |
-| 699 | Liquid = Mg2Sr + fcc-Al | Liquid: Sr 0.7; Mg2Sr: Sr 0.3333; fcc-Al: Sr 0.855 | experimental | [1] Zhong 2006; _cites Ray 1947_ | Table 4, p. 6, row 23 |  |
-| 699 | Liquid = Mg2Sr + fcc-Al | Liquid: Sr 0.704; Mg2Sr: Sr 0.3333; fcc-Al: Sr 0.937 | experimental | [1] Zhong 2006; _cites Brown 1973_ | Table 4, p. 6, row 24 |  |
+| 962 | Liquid = Mg2Sr | Liquid: Sr 0.3333; Mg2Sr: Sr 0.3333 | experimental | [1] Zhong 2006; _cites Brown 1973_ | Table 4, p. 6, row 20; `ORC-5SW4TJTDHR` |  |
+| 953 | Liquid = Mg2Sr | Liquid: Sr 0.3333; Mg2Sr: Sr 0.3333 | experimental | [1] Zhong 2006; _cites Ray 1947_ | Table 4, p. 6, row 19; `ORC-LQUHDVORTX` |  |
+| 953 | Liquid = Mg2Sr | Liquid: Sr 0.3333; Mg2Sr: Sr 0.3333 | experimental | [1] Zhong 2006; _cites Klemm 1947_ [doi](https://doi.org/10.1002/zaac.19472550102) | Table 4, p. 6, row 18; `ORC-ZDQGZCW53U` |  |
+| 951 | Liquid = Mg2Sr | Liquid: Sr 0.3334; Mg2Sr: Sr 0.3334 | model | [1] Zhong 2006 | Table 4, p. 6, row 17; `ORC-NTDZED7ZFV` |  |
+| 881 | Liquid + Mg23Sr6 = Mg38Sr9 | Liquid: Sr 0.191; Mg23Sr6: Sr 0.3333; Mg38Sr9: Sr 0.25 | experimental | [1] Zhong 2006; _cites Ray 1947_ | Table 4, p. 6, row 13; `ORC-JBZAMVC7NG` |  |
+| 881 | Liquid + Mg2Sr = Mg23Sr6 | Liquid: Sr 0.1911; Mg2Sr: Sr 0.3333; Mg23Sr6: Sr 0.25 | experimental | [1] Zhong 2006; _cites Ray 1947_ | Table 4, p. 6, row 16; `ORC-Q2O3ENRF4N` |  |
+| 879.5 | Liquid = Mg17Sr2 | Liquid: Sr 0.1053; Mg17Sr2: Sr 0.1053 | experimental | [1] Zhong 2006; _cites Brown 1973_ | Table 4, p. 6, row 7; `ORC-UK3NX2ANGW` |  |
+| 879 | Liquid = Mg17Sr2 | Liquid: Sr 0.1053; Mg17Sr2: Sr 0.1053 | model | [1] Zhong 2006 | Table 4, p. 6, row 6; `ORC-4HQPPTBW74` |  |
+| 876 | Liquid + Mg2Sr = Mg23Sr6 | Liquid: Sr 0.1923; Mg2Sr: Sr 0.3285; Mg23Sr6: Sr 0.2069 | model | [1] Zhong 2006 | Table 4, p. 6, row 15; `ORC-NEBL2BINBX` |  |
+| 876 | Liquid + Mg23Sr6 = Mg38Sr9 | Liquid: Sr 0.1936; Mg23Sr6: Sr 0.3333; Mg38Sr9: Sr 0.2069 | experimental | [1] Zhong 2006; _cites Brown 1973_ | Table 4, p. 6, row 14; `ORC-WO2P6MPGGL` |  |
+| 872 | Liquid + Mg23Sr6 = Mg38Sr9 | Liquid: Sr 0.1914; Mg23Sr6: Sr 0.2069; Mg38Sr9: Sr 0.1915 | model | [1] Zhong 2006 | Table 4, p. 6, row 10; `ORC-ENUFJ7R5YV` |  |
+| 872 | Liquid + Mg23Sr6 = Mg38Sr9 | Liquid: Sr 0.1744; Mg23Sr6: Sr 0.25; Mg38Sr9: Sr 0.1818 | experimental | [1] Zhong 2006; _cites Ray 1947_ | Table 4, p. 6, row 12; `ORC-JZFB3IPIHT` |  |
+| 871 | Liquid + Mg23Sr6 = Mg38Sr9 | Liquid: Sr 0.175; Mg23Sr6: Sr 0.3333; Mg38Sr9: Sr 0.2 | experimental | [1] Zhong 2006; _cites Klemm 1947_ [doi](https://doi.org/10.1002/zaac.19472550102) | Table 4, p. 6, row 11; `ORC-LIP6S3APPR` |  |
+| 866 | Liquid = Mg17Sr2 + Mg38Sr9 | Liquid: Sr 0.1526; Mg17Sr2: Sr 0.1053; Mg38Sr9: Sr 0.1915 | model | [1] Zhong 2006 | Table 4, p. 6, row 8; `ORC-EO3VLWTEKB` |  |
+| 865 | Liquid = Mg17Sr2 + Mg38Sr9 | Liquid: Sr 0.1506; Mg17Sr2: Sr 0.1; Mg38Sr9: Sr 0.1818 | experimental | [1] Zhong 2006; _cites Ray 1947_ | Table 4, p. 6, row 9; `ORC-ODR4JVYHCD` |  |
+| 861 | Liquid = hcp-Mg + Mg17Sr2 | Liquid: Sr 0.0585; hcp-Mg: Sr 0.001; Mg17Sr2: Sr 0.1053 | model | [1] Zhong 2006 | Table 4, p. 6, row 1; `ORC-TXOTSSGECE` |  |
+| 859 | Liquid = hcp-Mg + Mg17Sr2 | Liquid: Sr 0.06; hcp-Mg: Sr 3.000e-4; Mg17Sr2: Sr 0.1 | experimental | [1] Zhong 2006; _cites Ray 1947_ | Table 4, p. 6, row 4; `ORC-5BSM57YEG6` |  |
+| 858 | Liquid = hcp-Mg + Mg17Sr2 | Liquid: Sr 0.0645; hcp-Mg: Sr 0.001; Mg17Sr2: Sr 0.1053 | experimental | [1] Zhong 2006; _cites Brown 1973_ | Table 4, p. 6, row 5; `ORC-BWXRKIAJNC` |  |
+| 858 | Liquid = hcp-Mg + Mg17Sr2 | Liquid: Sr 0.06; hcp-Mg: Sr 0; Mg17Sr2: Sr 0.1 | experimental | [1] Zhong 2006; _cites Klemm 1947_ [doi](https://doi.org/10.1002/zaac.19472550102) | Table 4, p. 6, row 3; `ORC-RJYV6FSFQK` |  |
+| 855 | Liquid = hcp-Mg + Mg17Sr2 | Liquid: Sr 0.059; hcp-Mg: Sr 0; Mg17Sr2: Sr 0.1 | experimental | [1] Zhong 2006; _cites Vosskhuler 1939_ | Table 4, p. 6, row 2; `ORC-BYU4UZ2LVX` |  |
+| 717 | eutectic |  | model | [1] Zhong 2006 | p. 7; `ORC-OTJ65OUJMD` | “The predicted lowest ternary eutectic temperature is 717 K.” |
+| 711 | Liquid = Mg2Sr + fcc-Al | Liquid: Sr 0.65; Mg2Sr: Sr 0.3333; fcc-Al: Sr 1 | experimental | [1] Zhong 2006; _cites Klemm 1947_ [doi](https://doi.org/10.1002/zaac.19472550102) | Table 4, p. 6, row 22; `ORC-NBTSWB3JLH` |  |
+| 700 | Liquid = Mg2Sr + fcc-Al | Liquid: Sr 0.6929; Mg2Sr: Sr 0.3387; fcc-Al: Sr 0.9978 | model | [1] Zhong 2006 | Table 4, p. 6, row 21; `ORC-TTKRGFTTSD` |  |
+| 699 | Liquid = Mg2Sr + fcc-Al | Liquid: Sr 0.7; Mg2Sr: Sr 0.3333; fcc-Al: Sr 0.855 | experimental | [1] Zhong 2006; _cites Ray 1947_ | Table 4, p. 6, row 23; `ORC-3AAZIHPBEH` |  |
+| 699 | Liquid = Mg2Sr + fcc-Al | Liquid: Sr 0.704; Mg2Sr: Sr 0.3333; fcc-Al: Sr 0.937 | experimental | [1] Zhong 2006; _cites Brown 1973_ | Table 4, p. 6, row 24; `ORC-JBFFWKWVE2` |  |
 
 ## Formation enthalpies
 
@@ -114,12 +114,12 @@ Table: Enthalpies of formation, Mg–Sr system (6)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Mg17Sr2 | [Mg17Sr2](https://data.orchid-project.org/compounds/Mg17Sr2.html) | -4.7963 kJ/mol-atom | 0 | unspecified | -2.741 (mp-aaaaabqy) | -4.846 (oqmd-90157) | [1] Zhong 2006 | Table 2, p. 4, row 2 |  |
-| Mg23Sr6 | [Mg23Sr6](https://data.orchid-project.org/compounds/Mg23Sr6.html) | -7.7392 kJ/mol-atom | 0 | unspecified | -6.786 (mp-aaaabtny) | -7.661 (oqmd-17656) | [1] Zhong 2006 | Table 2, p. 4, row 4 |  |
-| Mg2Sr-C14 | [Mg2Sr](https://data.orchid-project.org/compounds/Mg2Sr.html) | -10.6189 kJ/mol-atom | 0 | unspecified | -7.73 (mp-aaaaaduy) | -10.194 (oqmd-30729) | [1] Zhong 2006 | Table 2, p. 4, row 14 |  |
-| Mg2Sr-C14 | [Mg2Sr](https://data.orchid-project.org/compounds/Mg2Sr.html) | -7.117 kJ/mol-atom | 298.15 | experimental | -7.73 (mp-aaaaaduy) | -10.194 (oqmd-30729) | [1] Zhong 2006; _cites King 1964_ [doi](https://doi.org/10.1016/0001-6160%2864%2990056-2) | Table 2, p. 4, row 15 |  |
-| Mg38Sr9 | [Mg38Sr9](https://data.orchid-project.org/compounds/Mg38Sr9.html) | -6.2742 kJ/mol-atom | 0 | unspecified | -5.716 (mp-aaaabtnz) | -6.185 (oqmd-684928) | [1] Zhong 2006 | Table 2, p. 4, row 3 |  |
-| Sr2Mg-C14 | [MgSr2](https://data.orchid-project.org/compounds/MgSr2.html) | 36.4176 kJ/mol-atom | 0 | unspecified | 9.104 (mp-aaackgug) | 7.951 (oqmd-290200) | [1] Zhong 2006 | Table 2, p. 4, row 19 |  |
+| Mg17Sr2 | [Mg17Sr2](https://data.orchid-project.org/compounds/Mg17Sr2.html) | -4.7963 kJ/mol-atom | 0 | unspecified | -2.741 (mp-aaaaabqy) | -4.846 (oqmd-90157) | [1] Zhong 2006 | Table 2, p. 4, row 2; `ORC-IUACYKCWZO.702541` |  |
+| Mg23Sr6 | [Mg23Sr6](https://data.orchid-project.org/compounds/Mg23Sr6.html) | -7.7392 kJ/mol-atom | 0 | unspecified | -6.786 (mp-aaaabtny) | -7.661 (oqmd-17656) | [1] Zhong 2006 | Table 2, p. 4, row 4; `ORC-COIHR6CHDK.0ccd76` |  |
+| Mg2Sr-C14 | [Mg2Sr](https://data.orchid-project.org/compounds/Mg2Sr.html) | -10.6189 kJ/mol-atom | 0 | unspecified | -7.73 (mp-aaaaaduy) | -10.194 (oqmd-30729) | [1] Zhong 2006 | Table 2, p. 4, row 14; `ORC-5MBMUIYGMG.35491a` |  |
+| Mg2Sr-C14 | [Mg2Sr](https://data.orchid-project.org/compounds/Mg2Sr.html) | -7.117 kJ/mol-atom | 298.15 | experimental | -7.73 (mp-aaaaaduy) | -10.194 (oqmd-30729) | [1] Zhong 2006; _cites King 1964_ [doi](https://doi.org/10.1016/0001-6160%2864%2990056-2) | Table 2, p. 4, row 15; `ORC-X6RKWWBHUK.a2b5b9` |  |
+| Mg38Sr9 | [Mg38Sr9](https://data.orchid-project.org/compounds/Mg38Sr9.html) | -6.2742 kJ/mol-atom | 0 | unspecified | -5.716 (mp-aaaabtnz) | -6.185 (oqmd-684928) | [1] Zhong 2006 | Table 2, p. 4, row 3; `ORC-7FWS62Q6L4.772f26` |  |
+| Sr2Mg-C14 | [MgSr2](https://data.orchid-project.org/compounds/MgSr2.html) | 36.4176 kJ/mol-atom | 0 | unspecified | 9.104 (mp-aaackgug) | 7.951 (oqmd-290200) | [1] Zhong 2006 | Table 2, p. 4, row 19; `ORC-J4C54RBMBL.c06885` |  |
 
 ## Other properties
 
@@ -129,15 +129,15 @@ Table: Crystal structure, Mg–Sr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a; _printed: a (=b)_ | 10.469 Å | 0 | Mg17Sr2; _alloy: Mg 0.894737, Sr 0.105263_ | unspecified | [1] Zhong 2006 | Table 2, p. 4, row 2 |  |
-| Lattice a; _printed: a_ | 14.869 Å | 0 | Mg23Sr6; _alloy: Mg 0.793103, Sr 0.206897_ | unspecified | [1] Zhong 2006 | Table 2, p. 4, row 4 |  |
-| Lattice a; _printed: a_ | 6.465 Å | 0 | Mg2Sr-C14; _alloy: Mg 0.666667, Sr 0.333333_ | unspecified | [1] Zhong 2006 | Table 2, p. 4, row 14 |  |
-| Lattice a; _printed: a (=b)_ | 10.506 Å | 0 | Mg38Sr9; _alloy: Mg 0.808511, Sr 0.191489_ | unspecified | [1] Zhong 2006 | Table 2, p. 4, row 3 |  |
-| Lattice a; _printed: a (=b)_ | 7.424 Å | 0 | Sr2Mg-C14; _alloy: Mg 0.333333, Sr 0.666667_ | unspecified | [1] Zhong 2006 | Table 2, p. 4, row 19 |  |
-| Lattice c; _printed: c_ | 10.3 Å | 0 | Mg17Sr2; _alloy: Mg 0.894737, Sr 0.105263_ | unspecified | [1] Zhong 2006 | Table 2, p. 4, row 2 |  |
-| Lattice c; _printed: c_ | 10.387 Å | 0 | Mg2Sr-C14; _alloy: Mg 0.666667, Sr 0.333333_ | unspecified | [1] Zhong 2006 | Table 2, p. 4, row 14 |  |
-| Lattice c; _printed: c_ | 27.882 Å | 0 | Mg38Sr9; _alloy: Mg 0.808511, Sr 0.191489_ | unspecified | [1] Zhong 2006 | Table 2, p. 4, row 3 |  |
-| Lattice c; _printed: c_ | 11.635 Å | 0 | Sr2Mg-C14; _alloy: Mg 0.333333, Sr 0.666667_ | unspecified | [1] Zhong 2006 | Table 2, p. 4, row 19 |  |
+| Lattice a; _printed: a (=b)_ | 10.469 Å | 0 | Mg17Sr2; _alloy: Mg 0.894737, Sr 0.105263_ | unspecified | [1] Zhong 2006 | Table 2, p. 4, row 2; `ORC-CWLUNU7G6V.6e372c` |  |
+| Lattice a; _printed: a_ | 14.869 Å | 0 | Mg23Sr6; _alloy: Mg 0.793103, Sr 0.206897_ | unspecified | [1] Zhong 2006 | Table 2, p. 4, row 4; `ORC-G4TV2772HL.9a93be` |  |
+| Lattice a; _printed: a_ | 6.465 Å | 0 | Mg2Sr-C14; _alloy: Mg 0.666667, Sr 0.333333_ | unspecified | [1] Zhong 2006 | Table 2, p. 4, row 14; `ORC-O5EAOHGYAG.67647a` |  |
+| Lattice a; _printed: a (=b)_ | 10.506 Å | 0 | Mg38Sr9; _alloy: Mg 0.808511, Sr 0.191489_ | unspecified | [1] Zhong 2006 | Table 2, p. 4, row 3; `ORC-DTOF6T5AQO.732aa5` |  |
+| Lattice a; _printed: a (=b)_ | 7.424 Å | 0 | Sr2Mg-C14; _alloy: Mg 0.333333, Sr 0.666667_ | unspecified | [1] Zhong 2006 | Table 2, p. 4, row 19; `ORC-2WOR57XGWY.359c60` |  |
+| Lattice c; _printed: c_ | 10.3 Å | 0 | Mg17Sr2; _alloy: Mg 0.894737, Sr 0.105263_ | unspecified | [1] Zhong 2006 | Table 2, p. 4, row 2; `ORC-CWLUNU7G6V.390b33` |  |
+| Lattice c; _printed: c_ | 10.387 Å | 0 | Mg2Sr-C14; _alloy: Mg 0.666667, Sr 0.333333_ | unspecified | [1] Zhong 2006 | Table 2, p. 4, row 14; `ORC-O5EAOHGYAG.5f1b2d` |  |
+| Lattice c; _printed: c_ | 27.882 Å | 0 | Mg38Sr9; _alloy: Mg 0.808511, Sr 0.191489_ | unspecified | [1] Zhong 2006 | Table 2, p. 4, row 3; `ORC-DTOF6T5AQO.ab01ca` |  |
+| Lattice c; _printed: c_ | 11.635 Å | 0 | Sr2Mg-C14; _alloy: Mg 0.333333, Sr 0.666667_ | unspecified | [1] Zhong 2006 | Table 2, p. 4, row 19; `ORC-2WOR57XGWY.416465` |  |
 
 ## Sources
 
@@ -202,4 +202,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

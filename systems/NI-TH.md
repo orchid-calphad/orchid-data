@@ -67,38 +67,38 @@ Table: Invariant reactions reported in the literature for the Ni–Th system (32
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1803.15 | congruent melting: L -> ThNi5 | L: Ni 0.833; ThNi5: Ni 0.833333, Th 0.166667 | experimental | [1] Wang 2009; _cites Santandrea 1988_ [doi](https://doi.org/10.1007/bf02881873) | Table 5, p. 5, row 24 |  |
-| 1783.15 | congruent melting: L -> ThNi5 | L: Ni 0.833; ThNi5: Ni 0.833333, Th 0.166667 | model | [1] Wang 2009 | Table 5, p. 5, row 26 |  |
-| 1783.15 | congruent melting: L -> ThNi5 | L: Ni 0.833; ThNi5: Ni 0.833333, Th 0.166667 | experimental | [1] Wang 2009; _cites Okamoto 1991_ [doi](https://doi.org/10.1007/bf02645711) | Table 5, p. 5, row 25 |  |
-| 1624.15 | peritectic: L + ThNi5 -> Th2Ni19 | L: Ni 0.905; ThNi5: Ni 0.86; Th2Ni19: Ni 0.905 | model | [1] Wang 2009 | Table 5, p. 5, row 29 |  |
-| 1623.15 | peritectic: L + ThNi5 -> Th2Ni19 | L: Ni 0.915; ThNi5: Ni 0.86; Th2Ni19: Ni 0.8947 | experimental | [1] Wang 2009; _cites Santandrea 1988_ [doi](https://doi.org/10.1007/bf02881873) | Table 5, p. 5, row 27 |  |
-| 1585.15 | eutectic: L -> Th2Ni19 + (Ni) | L: Ni 0.94; Th2Ni19: Ni 0.8947; (Ni): Ni 1 | experimental | [1] Wang 2009; _cites Santandrea 1988_ [doi](https://doi.org/10.1007/bf02881873) | Table 5, p. 5, row 30 |  |
-| 1583.15 | peritectic: L + ThNi5 -> Th2Ni19 | L: Ni 0.92; ThNi5: Ni 0.86; Th2Ni19: Ni 0.905 | experimental | [1] Wang 2009; _cites Okamoto 1991_ [doi](https://doi.org/10.1007/bf02645711) | Table 5, p. 5, row 28 |  |
-| 1578.15 | eutectic: L -> Th2Ni19 + (Ni) | L: Ni 0.96; Th2Ni19: Ni 0.905; (Ni): Ni 1 | experimental | [1] Wang 2009; _cites Okamoto 1991_ [doi](https://doi.org/10.1007/bf02645711) | Table 5, p. 5, row 31 |  |
-| 1568.15 | eutectic: L -> Th2Ni19 + (Ni) | L: Ni 0.945; Th2Ni19: Ni 0.905; (Ni): Ni 1 | model | [1] Wang 2009 | Table 5, p. 5, row 32 |  |
-| 1518.15 | peritectic: L + αThNi -> Th2Ni7 | L: Ni 0.74; αThNi: Ni 0.833; Th2Ni7: Ni 0.778 | experimental | [1] Wang 2009; _cites Okamoto 1991_ [doi](https://doi.org/10.1007/bf02645711) | Table 5, p. 5, row 20 |  |
-| 1516.15 | peritectic: L + αThNi -> Th2Ni7 | L: Ni 0.738; αThNi: Ni 0.833; Th2Ni7: Ni 0.778 | model | [1] Wang 2009 | Table 5, p. 5, row 21 |  |
-| 1470.15 | polymorphic: αTh2Ni7 -> βTh2Ni7 | αTh2Ni7: Ni 0.778; βTh2Ni7: Ni 0.777778, Th 0.222222 | model | [1] Wang 2009 | Table 5, p. 5, row 23 |  |
-| 1468.15 | polymorphic: αTh2Ni7 -> βTh2Ni7 | αTh2Ni7: Ni 0.778; βTh2Ni7: Ni 0.777778, Th 0.222222 | experimental | [1] Wang 2009; _cites Okamoto 1991_ [doi](https://doi.org/10.1007/bf02645711) | Table 5, p. 5, row 22 |  |
-| 1463.15 | congruent melting: L -> ThNi | L: Ni 0.5; ThNi: Ni 0.5, Th 0.5 | experimental | [1] Wang 2009; _cites Okamoto 1991_ [doi](https://doi.org/10.1007/bf02645711) | Table 5, p. 5, row 9 |  |
-| 1463.15 | congruent melting: L -> ThNi | L: Ni 0.5; ThNi: Ni 0.5, Th 0.5 | model | [1] Wang 2009 | Table 5, p. 5, row 10 |  |
-| 1460.15 | congruent melting: L -> ThNi | L: Ni 0.5; ThNi: Ni 0.5, Th 0.5 | experimental | [1] Wang 2009; _cites Santandrea 1988_ [doi](https://doi.org/10.1007/bf02881873) | Table 5, p. 5, row 8 |  |
-| 1348.15 | congruent melting: L -> Th4Ni7 | L: Ni 0.636; Th4Ni7: Ni 0.636364, Th 0.363636 | experimental | [1] Wang 2009; _cites Okamoto 1991_ [doi](https://doi.org/10.1007/bf02645711) | Table 5, p. 5, row 13 |  |
-| 1346.15 | congruent melting: L -> Th4Ni7 | L: Ni 0.636; Th4Ni7: Ni 0.636364, Th 0.363636 | model | [1] Wang 2009 | Table 5, p. 5, row 14 |  |
-| 1335.15 | eutectic: L -> (αTh) + Th7Ni3 | L: Ni 0.27; (αTh): Ni 0; Th7Ni3: Ni 0.3 | experimental | [1] Wang 2009; _cites Santandrea 1988_ [doi](https://doi.org/10.1007/bf02881873) | Table 5, p. 5, row 3 |  |
-| 1323.15 | peritectic: L + Th4Ni7 -> ThNi2 | L: Ni 0.68; Th4Ni7: Ni 0.636; ThNi2: Ni 0.667 | experimental | [1] Wang 2009; _cites Okamoto 1991_ [doi](https://doi.org/10.1007/bf02645711) | Table 5, p. 5, row 15 |  |
-| 1319.15 | peritectic: L + Th4Ni7 -> ThNi2 | L: Ni 0.666; Th4Ni7: Ni 0.636; ThNi2: Ni 0.667 | model | [1] Wang 2009 | Table 5, p. 5, row 16 |  |
-| 1313.15 | congruent melting: L -> Th7Ni3 | L: Ni 0.3; Th7Ni3: Ni 0.3, Th 0.7 | experimental | [1] Wang 2009; _cites Santandrea 1988_ [doi](https://doi.org/10.1007/bf02881873) | Table 5, p. 5, row 1 |  |
-| 1313.15 | congruent melting: L -> Th7Ni3 | L: Ni 0.3; Th7Ni3: Ni 0.3, Th 0.7 | model | [1] Wang 2009 | Table 5, p. 5, row 2 |  |
-| 1310.15 | eutectic: L -> ThNi2 + αTh2Ni7 | L: Ni 0.69; ThNi2: Ni 0.655; αTh2Ni7: Ni 0.8 | experimental | [1] Wang 2009; _cites Santandrea 1988_ [doi](https://doi.org/10.1007/bf02881873) | Table 5, p. 5, row 17 |  |
-| 1303.15 | eutectic: L -> ThNi2 + αTh2Ni7 | L: Ni 0.692; ThNi2: Ni 0.667; αTh2Ni7: Ni 0.778 | model | [1] Wang 2009 | Table 5, p. 5, row 19 |  |
-| 1298.15 | eutectic: L -> ThNi + Th4Ni7 | L: Ni 0.58; ThNi: Ni 0.5; Th4Ni7: Ni 0.636 | experimental | [1] Wang 2009; _cites Okamoto 1991_ [doi](https://doi.org/10.1007/bf02645711) | Table 5, p. 5, row 11 |  |
-| 1298.15 | eutectic: L -> ThNi + Th4Ni7 | L: Ni 0.592; ThNi: Ni 0.5; Th4Ni7: Ni 0.636 | model | [1] Wang 2009 | Table 5, p. 5, row 12 |  |
-| 1293.15 | eutectic: L -> ThNi2 + αTh2Ni7 | L: Ni 0.7; ThNi2: Ni 0.667; αTh2Ni7: Ni 0.778 | experimental | [1] Wang 2009; _cites Okamoto 1991_ [doi](https://doi.org/10.1007/bf02645711) | Table 5, p. 5, row 18 |  |
-| 1284.15 | eutectic: L -> Th7Ni3 + ThNi | L: Ni 0.36; Th7Ni3: Ni 0.3; ThNi: Ni 0.5 | model | [1] Wang 2009 | Table 5, p. 5, row 7 |  |
-| 1283.15 | eutectic: L -> Th7Ni3 + ThNi | L: Ni 0.35; Th7Ni3: Ni 0.3; ThNi: Ni 0.5 | experimental | [1] Wang 2009; _cites Okamoto 1991_ [doi](https://doi.org/10.1007/bf02645711) | Table 5, p. 5, row 6 |  |
-| 1280.15 | eutectic: L -> (αTh) + Th7Ni3 | L: Ni 0.222; (αTh): Ni 0; Th7Ni3: Ni 0.3 | model | [1] Wang 2009 | Table 5, p. 5, row 5 |  |
-| 1273.15 | eutectic: L -> (αTh) + Th7Ni3 | L: Ni 0.2; (αTh): Ni 0; Th7Ni3: Ni 0.3 | experimental | [1] Wang 2009; _cites Okamoto 1991_ [doi](https://doi.org/10.1007/bf02645711) | Table 5, p. 5, row 4 |  |
+| 1803.15 | congruent melting: L -> ThNi5 | L: Ni 0.833; ThNi5: Ni 0.833333, Th 0.166667 | experimental | [1] Wang 2009; _cites Santandrea 1988_ [doi](https://doi.org/10.1007/bf02881873) | Table 5, p. 5, row 24; `ORC-GB2KDIUWAM` |  |
+| 1783.15 | congruent melting: L -> ThNi5 | L: Ni 0.833; ThNi5: Ni 0.833333, Th 0.166667 | model | [1] Wang 2009 | Table 5, p. 5, row 26; `ORC-RMHWISAB6I` |  |
+| 1783.15 | congruent melting: L -> ThNi5 | L: Ni 0.833; ThNi5: Ni 0.833333, Th 0.166667 | experimental | [1] Wang 2009; _cites Okamoto 1991_ [doi](https://doi.org/10.1007/bf02645711) | Table 5, p. 5, row 25; `ORC-UNTIUEMBFH` |  |
+| 1624.15 | peritectic: L + ThNi5 -> Th2Ni19 | L: Ni 0.905; ThNi5: Ni 0.86; Th2Ni19: Ni 0.905 | model | [1] Wang 2009 | Table 5, p. 5, row 29; `ORC-TANCAHN3L3` |  |
+| 1623.15 | peritectic: L + ThNi5 -> Th2Ni19 | L: Ni 0.915; ThNi5: Ni 0.86; Th2Ni19: Ni 0.8947 | experimental | [1] Wang 2009; _cites Santandrea 1988_ [doi](https://doi.org/10.1007/bf02881873) | Table 5, p. 5, row 27; `ORC-7LSDBTXWHK` |  |
+| 1585.15 | eutectic: L -> Th2Ni19 + (Ni) | L: Ni 0.94; Th2Ni19: Ni 0.8947; (Ni): Ni 1 | experimental | [1] Wang 2009; _cites Santandrea 1988_ [doi](https://doi.org/10.1007/bf02881873) | Table 5, p. 5, row 30; `ORC-TUBBLV7KRP` |  |
+| 1583.15 | peritectic: L + ThNi5 -> Th2Ni19 | L: Ni 0.92; ThNi5: Ni 0.86; Th2Ni19: Ni 0.905 | experimental | [1] Wang 2009; _cites Okamoto 1991_ [doi](https://doi.org/10.1007/bf02645711) | Table 5, p. 5, row 28; `ORC-QPFG3EH5Y4` |  |
+| 1578.15 | eutectic: L -> Th2Ni19 + (Ni) | L: Ni 0.96; Th2Ni19: Ni 0.905; (Ni): Ni 1 | experimental | [1] Wang 2009; _cites Okamoto 1991_ [doi](https://doi.org/10.1007/bf02645711) | Table 5, p. 5, row 31; `ORC-7YZACNBUBH` |  |
+| 1568.15 | eutectic: L -> Th2Ni19 + (Ni) | L: Ni 0.945; Th2Ni19: Ni 0.905; (Ni): Ni 1 | model | [1] Wang 2009 | Table 5, p. 5, row 32; `ORC-LMQB6PS7TJ` |  |
+| 1518.15 | peritectic: L + αThNi -> Th2Ni7 | L: Ni 0.74; αThNi: Ni 0.833; Th2Ni7: Ni 0.778 | experimental | [1] Wang 2009; _cites Okamoto 1991_ [doi](https://doi.org/10.1007/bf02645711) | Table 5, p. 5, row 20; `ORC-OLVP5ELE3G` |  |
+| 1516.15 | peritectic: L + αThNi -> Th2Ni7 | L: Ni 0.738; αThNi: Ni 0.833; Th2Ni7: Ni 0.778 | model | [1] Wang 2009 | Table 5, p. 5, row 21; `ORC-TCDDTXRPBI` |  |
+| 1470.15 | polymorphic: αTh2Ni7 -> βTh2Ni7 | αTh2Ni7: Ni 0.778; βTh2Ni7: Ni 0.777778, Th 0.222222 | model | [1] Wang 2009 | Table 5, p. 5, row 23; `ORC-4PWCD2DVTE` |  |
+| 1468.15 | polymorphic: αTh2Ni7 -> βTh2Ni7 | αTh2Ni7: Ni 0.778; βTh2Ni7: Ni 0.777778, Th 0.222222 | experimental | [1] Wang 2009; _cites Okamoto 1991_ [doi](https://doi.org/10.1007/bf02645711) | Table 5, p. 5, row 22; `ORC-B5Z3S6JFM4` |  |
+| 1463.15 | congruent melting: L -> ThNi | L: Ni 0.5; ThNi: Ni 0.5, Th 0.5 | experimental | [1] Wang 2009; _cites Okamoto 1991_ [doi](https://doi.org/10.1007/bf02645711) | Table 5, p. 5, row 9; `ORC-QVDLNXAXH4` |  |
+| 1463.15 | congruent melting: L -> ThNi | L: Ni 0.5; ThNi: Ni 0.5, Th 0.5 | model | [1] Wang 2009 | Table 5, p. 5, row 10; `ORC-WK3GBIMNMR` |  |
+| 1460.15 | congruent melting: L -> ThNi | L: Ni 0.5; ThNi: Ni 0.5, Th 0.5 | experimental | [1] Wang 2009; _cites Santandrea 1988_ [doi](https://doi.org/10.1007/bf02881873) | Table 5, p. 5, row 8; `ORC-JT6Q6XP6I5` |  |
+| 1348.15 | congruent melting: L -> Th4Ni7 | L: Ni 0.636; Th4Ni7: Ni 0.636364, Th 0.363636 | experimental | [1] Wang 2009; _cites Okamoto 1991_ [doi](https://doi.org/10.1007/bf02645711) | Table 5, p. 5, row 13; `ORC-3UUA246DIC` |  |
+| 1346.15 | congruent melting: L -> Th4Ni7 | L: Ni 0.636; Th4Ni7: Ni 0.636364, Th 0.363636 | model | [1] Wang 2009 | Table 5, p. 5, row 14; `ORC-AZJP4DNRWP` |  |
+| 1335.15 | eutectic: L -> (αTh) + Th7Ni3 | L: Ni 0.27; (αTh): Ni 0; Th7Ni3: Ni 0.3 | experimental | [1] Wang 2009; _cites Santandrea 1988_ [doi](https://doi.org/10.1007/bf02881873) | Table 5, p. 5, row 3; `ORC-DJMZQBMQMH` |  |
+| 1323.15 | peritectic: L + Th4Ni7 -> ThNi2 | L: Ni 0.68; Th4Ni7: Ni 0.636; ThNi2: Ni 0.667 | experimental | [1] Wang 2009; _cites Okamoto 1991_ [doi](https://doi.org/10.1007/bf02645711) | Table 5, p. 5, row 15; `ORC-UFLINWKL4O` |  |
+| 1319.15 | peritectic: L + Th4Ni7 -> ThNi2 | L: Ni 0.666; Th4Ni7: Ni 0.636; ThNi2: Ni 0.667 | model | [1] Wang 2009 | Table 5, p. 5, row 16; `ORC-GAD5SZ7YV7` |  |
+| 1313.15 | congruent melting: L -> Th7Ni3 | L: Ni 0.3; Th7Ni3: Ni 0.3, Th 0.7 | experimental | [1] Wang 2009; _cites Santandrea 1988_ [doi](https://doi.org/10.1007/bf02881873) | Table 5, p. 5, row 1; `ORC-3HG6DC3TIQ` |  |
+| 1313.15 | congruent melting: L -> Th7Ni3 | L: Ni 0.3; Th7Ni3: Ni 0.3, Th 0.7 | model | [1] Wang 2009 | Table 5, p. 5, row 2; `ORC-4NGW7YNRDI` |  |
+| 1310.15 | eutectic: L -> ThNi2 + αTh2Ni7 | L: Ni 0.69; ThNi2: Ni 0.655; αTh2Ni7: Ni 0.8 | experimental | [1] Wang 2009; _cites Santandrea 1988_ [doi](https://doi.org/10.1007/bf02881873) | Table 5, p. 5, row 17; `ORC-QCZECDEWIL` |  |
+| 1303.15 | eutectic: L -> ThNi2 + αTh2Ni7 | L: Ni 0.692; ThNi2: Ni 0.667; αTh2Ni7: Ni 0.778 | model | [1] Wang 2009 | Table 5, p. 5, row 19; `ORC-TVK3J2GAJX` |  |
+| 1298.15 | eutectic: L -> ThNi + Th4Ni7 | L: Ni 0.58; ThNi: Ni 0.5; Th4Ni7: Ni 0.636 | experimental | [1] Wang 2009; _cites Okamoto 1991_ [doi](https://doi.org/10.1007/bf02645711) | Table 5, p. 5, row 11; `ORC-Q2H5KAKLJL` |  |
+| 1298.15 | eutectic: L -> ThNi + Th4Ni7 | L: Ni 0.592; ThNi: Ni 0.5; Th4Ni7: Ni 0.636 | model | [1] Wang 2009 | Table 5, p. 5, row 12; `ORC-ZDYIUUMZ3S` |  |
+| 1293.15 | eutectic: L -> ThNi2 + αTh2Ni7 | L: Ni 0.7; ThNi2: Ni 0.667; αTh2Ni7: Ni 0.778 | experimental | [1] Wang 2009; _cites Okamoto 1991_ [doi](https://doi.org/10.1007/bf02645711) | Table 5, p. 5, row 18; `ORC-STAYQKFJBI` |  |
+| 1284.15 | eutectic: L -> Th7Ni3 + ThNi | L: Ni 0.36; Th7Ni3: Ni 0.3; ThNi: Ni 0.5 | model | [1] Wang 2009 | Table 5, p. 5, row 7; `ORC-U67MG6VXA4` |  |
+| 1283.15 | eutectic: L -> Th7Ni3 + ThNi | L: Ni 0.35; Th7Ni3: Ni 0.3; ThNi: Ni 0.5 | experimental | [1] Wang 2009; _cites Okamoto 1991_ [doi](https://doi.org/10.1007/bf02645711) | Table 5, p. 5, row 6; `ORC-OVGRTCAMOY` |  |
+| 1280.15 | eutectic: L -> (αTh) + Th7Ni3 | L: Ni 0.222; (αTh): Ni 0; Th7Ni3: Ni 0.3 | model | [1] Wang 2009 | Table 5, p. 5, row 5; `ORC-HNAG6JITPV` |  |
+| 1273.15 | eutectic: L -> (αTh) + Th7Ni3 | L: Ni 0.2; (αTh): Ni 0; Th7Ni3: Ni 0.3 | experimental | [1] Wang 2009; _cites Okamoto 1991_ [doi](https://doi.org/10.1007/bf02645711) | Table 5, p. 5, row 4; `ORC-JVMGKPWSSH` |  |
 
 ## Sources
 
@@ -163,4 +163,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -62,18 +62,18 @@ Table: Invariant reactions reported in the literature for the Ag–La system (12
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1133 | Liq.+Ag51La14->Ag2La | L: La 0.353; Ag51La14: La 0.215385; Ag2La: La 0.333333 | experimental | [1] Li 2000; _cites Delfino 1974_ [doi](https://doi.org/10.1515/ijmr-1974-651210) | Table 2, p. 3, row 8 |  |
-| 1127 | Liq.+Ag51La14->Ag2La | L: La 0.336; Ag51La14: La 0.215385; Ag2La: La 0.333333 | model | [1] Li 2000 | Table 2, p. 3, row 7 |  |
-| 1099 | Liq.+Ag51La14->Ag5La | L: La 0.104; Ag51La14: La 0.215385; Ag5La: La 0.166667 | model | [1] Li 2000 | Table 2, p. 3, row 12 |  |
-| 1098 | Liq.+Ag51La14->Ag5La | L: La 0.14; Ag51La14: La 0.215385; Ag5La: La 0.166667 | experimental | [1] Li 2000; _cites Delfino 1974_ [doi](https://doi.org/10.1515/ijmr-1974-651210) | Table 2, p. 3, row 13 |  |
-| 1093 | Liq.+Ag51La14->Ag5La | L: La 0.1189; Ag51La14: La 0.215385; Ag5La: La 0.166667 | unspecified | [1] Li 2000; _cites Heumann 1982_ [doi](https://doi.org/10.1515/ijmr-1982-730308) | Table 2, p. 3, row 14 |  |
-| 1080 | Liq.->Ag2La+AgLa | L: La 0.405; Ag2La: La 0.333333; AgLa: La 0.5 | model | [1] Li 2000 | Table 2, p. 3, row 5 |  |
-| 1073 | Liq.->Ag2La+AgLa | L: La 0.43; Ag2La: La 0.333333; AgLa: La 0.5 | experimental | [1] Li 2000; _cites Delfino 1974_ [doi](https://doi.org/10.1515/ijmr-1974-651210) | Table 2, p. 3, row 6 |  |
-| 1063 | Liq.->Ag+Ag5La | L: La 0.1; Ag5La: La 0.166667 | unspecified | [1] Li 2000; _cites Heumann 1982_ [doi](https://doi.org/10.1515/ijmr-1982-730308) | Table 2, p. 3, row 17 |  |
-| 1063 | Liq.->Ag+Ag5La | L: La 0.1; Ag5La: La 0.166667 | experimental | [1] Li 2000; _cites Delfino 1974_ [doi](https://doi.org/10.1515/ijmr-1974-651210) | Table 2, p. 3, row 16 |  |
-| 1059 | Liq.->Ag+Ag5La | L: La 0.081; Ag5La: La 0.166667 | model | [1] Li 2000 | Table 2, p. 3, row 15 |  |
-| 808 | Liq.->AgLa+β-La | L: La 0.765; AgLa: La 0.5 | experimental | [1] Li 2000; _cites Delfino 1974_ [doi](https://doi.org/10.1515/ijmr-1974-651210) | Table 2, p. 3, row 2 |  |
-| 802.6 | Liq.->AgLa+β-La | L: La 0.76; AgLa: La 0.5 | model | [1] Li 2000 | Table 2, p. 3, row 1 |  |
+| 1133 | Liq.+Ag51La14->Ag2La | L: La 0.353; Ag51La14: La 0.215385; Ag2La: La 0.333333 | experimental | [1] Li 2000; _cites Delfino 1974_ [doi](https://doi.org/10.1515/ijmr-1974-651210) | Table 2, p. 3, row 8; `ORC-3OISFC6WUF` |  |
+| 1127 | Liq.+Ag51La14->Ag2La | L: La 0.336; Ag51La14: La 0.215385; Ag2La: La 0.333333 | model | [1] Li 2000 | Table 2, p. 3, row 7; `ORC-Q5LLTQS6OO` |  |
+| 1099 | Liq.+Ag51La14->Ag5La | L: La 0.104; Ag51La14: La 0.215385; Ag5La: La 0.166667 | model | [1] Li 2000 | Table 2, p. 3, row 12; `ORC-JU5BC7VTQ4` |  |
+| 1098 | Liq.+Ag51La14->Ag5La | L: La 0.14; Ag51La14: La 0.215385; Ag5La: La 0.166667 | experimental | [1] Li 2000; _cites Delfino 1974_ [doi](https://doi.org/10.1515/ijmr-1974-651210) | Table 2, p. 3, row 13; `ORC-BET5DOMNDZ` |  |
+| 1093 | Liq.+Ag51La14->Ag5La | L: La 0.1189; Ag51La14: La 0.215385; Ag5La: La 0.166667 | unspecified | [1] Li 2000; _cites Heumann 1982_ [doi](https://doi.org/10.1515/ijmr-1982-730308) | Table 2, p. 3, row 14; `ORC-6DVCJHCDWJ` |  |
+| 1080 | Liq.->Ag2La+AgLa | L: La 0.405; Ag2La: La 0.333333; AgLa: La 0.5 | model | [1] Li 2000 | Table 2, p. 3, row 5; `ORC-IAILMWL6S4` |  |
+| 1073 | Liq.->Ag2La+AgLa | L: La 0.43; Ag2La: La 0.333333; AgLa: La 0.5 | experimental | [1] Li 2000; _cites Delfino 1974_ [doi](https://doi.org/10.1515/ijmr-1974-651210) | Table 2, p. 3, row 6; `ORC-FRY6FSPN7A` |  |
+| 1063 | Liq.->Ag+Ag5La | L: La 0.1; Ag5La: La 0.166667 | unspecified | [1] Li 2000; _cites Heumann 1982_ [doi](https://doi.org/10.1515/ijmr-1982-730308) | Table 2, p. 3, row 17; `ORC-6GXQ3SRSF3` |  |
+| 1063 | Liq.->Ag+Ag5La | L: La 0.1; Ag5La: La 0.166667 | experimental | [1] Li 2000; _cites Delfino 1974_ [doi](https://doi.org/10.1515/ijmr-1974-651210) | Table 2, p. 3, row 16; `ORC-73NLLUBU5X` |  |
+| 1059 | Liq.->Ag+Ag5La | L: La 0.081; Ag5La: La 0.166667 | model | [1] Li 2000 | Table 2, p. 3, row 15; `ORC-DHB3QNX3Y6` |  |
+| 808 | Liq.->AgLa+β-La | L: La 0.765; AgLa: La 0.5 | experimental | [1] Li 2000; _cites Delfino 1974_ [doi](https://doi.org/10.1515/ijmr-1974-651210) | Table 2, p. 3, row 2; `ORC-WBSKE66K4B` |  |
+| 802.6 | Liq.->AgLa+β-La | L: La 0.76; AgLa: La 0.5 | model | [1] Li 2000 | Table 2, p. 3, row 1; `ORC-XTRY2MYQNT` |  |
 
 ## Other properties
 
@@ -83,11 +83,11 @@ Table: Phase transition, Ag–La system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1148 K | 1148 | Liq.->AgLa; _L: La 0.5; AgLa: La 0.5_ | model | [1] Li 2000 | Table 2, p. 3, row 3 |  |
-| Phase transition | 1153 K | 1153 | Liq.->AgLa; _L: La 0.5; AgLa: La 0.5_ | experimental | [1] Li 2000; _cites Delfino 1974_ [doi](https://doi.org/10.1515/ijmr-1974-651210) | Table 2, p. 3, row 4 |  |
-| Phase transition | 1273 K | 1273 | Liq.->Ag51La14; _L: La 0.215385; Ag51La14: La 0.215385_ | experimental | [1] Li 2000; _cites Delfino 1974_ [doi](https://doi.org/10.1515/ijmr-1974-651210) | Table 2, p. 3, row 10 |  |
-| Phase transition | 1273 K | 1273 | Liq.->Ag51La14; _L: La 0.215385; Ag51La14: La 0.215385_ | model | [1] Li 2000 | Table 2, p. 3, row 9 |  |
-| Phase transition | 1283 K | 1283 | Liq.->Ag51La14; _L: La 0.215385; Ag51La14: La 0.215385_ | unspecified | [1] Li 2000; _cites Heumann 1982_ [doi](https://doi.org/10.1515/ijmr-1982-730308) | Table 2, p. 3, row 11 |  |
+| Phase transition | 1148 K | 1148 | Liq.->AgLa; _L: La 0.5; AgLa: La 0.5_ | model | [1] Li 2000 | Table 2, p. 3, row 3; `ORC-HZESWCQRAO` |  |
+| Phase transition | 1153 K | 1153 | Liq.->AgLa; _L: La 0.5; AgLa: La 0.5_ | experimental | [1] Li 2000; _cites Delfino 1974_ [doi](https://doi.org/10.1515/ijmr-1974-651210) | Table 2, p. 3, row 4; `ORC-72U4KSDXRC` |  |
+| Phase transition | 1273 K | 1273 | Liq.->Ag51La14; _L: La 0.215385; Ag51La14: La 0.215385_ | experimental | [1] Li 2000; _cites Delfino 1974_ [doi](https://doi.org/10.1515/ijmr-1974-651210) | Table 2, p. 3, row 10; `ORC-Q2TXDL34MG` |  |
+| Phase transition | 1273 K | 1273 | Liq.->Ag51La14; _L: La 0.215385; Ag51La14: La 0.215385_ | model | [1] Li 2000 | Table 2, p. 3, row 9; `ORC-RIT374AVUI` |  |
+| Phase transition | 1283 K | 1283 | Liq.->Ag51La14; _L: La 0.215385; Ag51La14: La 0.215385_ | unspecified | [1] Li 2000; _cites Heumann 1982_ [doi](https://doi.org/10.1515/ijmr-1982-730308) | Table 2, p. 3, row 11; `ORC-HE2ZM6VG2E` |  |
 
 ## Sources
 
@@ -152,4 +152,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

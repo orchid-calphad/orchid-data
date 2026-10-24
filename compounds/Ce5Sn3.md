@@ -14,13 +14,13 @@ Table: Enthalpy of formation of Ce5Sn3 reported in the literature (7)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -75.3 kJ/mol-atom ± 4.2 | αCe5Sn3 | 300 | experimental | calorimetry | [Ce–Sn](https://data.orchid-project.org/systems/CE-SN.html) | [1] Dong 2013; _cites Borsese 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990230-1) | Table 4, p. 4, row 26 |  |
-| -73.22 kJ/mol-atom ± 4.2 | αCe5Sn3 | 300 | experimental | calorimetry | [Ce–Sn](https://data.orchid-project.org/systems/CE-SN.html) | [1] Dong 2013; _cites Borzone 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990070-4) | Table 4, p. 4, row 24 |  |
-| -75 kJ/mol-atom | αCe5Sn3 | 300 | model |  | [Ce–Sn](https://data.orchid-project.org/systems/CE-SN.html) | [1] Dong 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990313-8) | Table 4, p. 4, row 25 |  |
-| -70.03 kJ/mol-atom | βCe5Sn3 | 289 | model |  | [Ce–Sn](https://data.orchid-project.org/systems/CE-SN.html) | [1] Dong 2013 | Table 4, p. 4, row 22 |  |
-| -73.794 kJ/mol-atom | Ce5Sn3 | 0 | DFT | first-principles calculation | [Ce–Sn](https://data.orchid-project.org/systems/CE-SN.html) | [2] Li 2013 | Table 1, p. 3, row 4 |  |
-| -65.89 kJ/mol-atom | αCe5Sn3 | 0 | DFT |  | [Ce–Sn](https://data.orchid-project.org/systems/CE-SN.html) | [1] Dong 2013 | Table 4, p. 4, row 23 |  |
-| -65.34 kJ/mol-atom | βCe5Sn3 | 0 | DFT |  | [Ce–Sn](https://data.orchid-project.org/systems/CE-SN.html) | [1] Dong 2013 | Table 4, p. 4, row 21 |  |
+| -75.3 kJ/mol-atom ± 4.2 | αCe5Sn3 | 300 | experimental | calorimetry | [Ce–Sn](https://data.orchid-project.org/systems/CE-SN.html) | [1] Dong 2013; _cites Borsese 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990230-1) | Table 4, p. 4, row 26; `ORC-G6QHUH56Q5.ee0279` |  |
+| -73.22 kJ/mol-atom ± 4.2 | αCe5Sn3 | 300 | experimental | calorimetry | [Ce–Sn](https://data.orchid-project.org/systems/CE-SN.html) | [1] Dong 2013; _cites Borzone 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990070-4) | Table 4, p. 4, row 24; `ORC-AYJPC2CH5K.6180bf` |  |
+| -75 kJ/mol-atom | αCe5Sn3 | 300 | model |  | [Ce–Sn](https://data.orchid-project.org/systems/CE-SN.html) | [1] Dong 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990313-8) | Table 4, p. 4, row 25; `ORC-BML4MFFMVF.a7cf54` |  |
+| -70.03 kJ/mol-atom | βCe5Sn3 | 289 | model |  | [Ce–Sn](https://data.orchid-project.org/systems/CE-SN.html) | [1] Dong 2013 | Table 4, p. 4, row 22; `ORC-CNLEMJDWFK.600ddd` |  |
+| -73.794 kJ/mol-atom | Ce5Sn3 | 0 | DFT | first-principles calculation | [Ce–Sn](https://data.orchid-project.org/systems/CE-SN.html) | [2] Li 2013 | Table 1, p. 3, row 4; `ORC-O3F3RP4QBF.344797` |  |
+| -65.89 kJ/mol-atom | αCe5Sn3 | 0 | DFT |  | [Ce–Sn](https://data.orchid-project.org/systems/CE-SN.html) | [1] Dong 2013 | Table 4, p. 4, row 23; `ORC-BPRP4CLZO4.b6fba4` |  |
+| -65.34 kJ/mol-atom | βCe5Sn3 | 0 | DFT |  | [Ce–Sn](https://data.orchid-project.org/systems/CE-SN.html) | [1] Dong 2013 | Table 4, p. 4, row 21; `ORC-FH2P475A2P.41459f` |  |
 
 ### Uncertainty budget
 
@@ -103,4 +103,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

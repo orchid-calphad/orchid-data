@@ -54,13 +54,13 @@ Table: Invariant reactions reported in the literature for the Pb–Sb system (7)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 526.15 | eutectic: L = fcc(Pb) + rhombo(Sb) |  | experimental | [1] Hassam 2009; _cites Othani 1995_ | Table 4, p. 4, row 3 |  |
-| 525.39 | eutectic: L = fcc(Pb) + rhombo(Sb) | L: Sb 0.171 | model | [1] Hassam 2009 | Table 4, p. 4, row 5 |  |
-| 525.3 | eutectic |  | experimental | [1] Hassam 2009 | p. 3 | “From these results the eutectic point is measured at XSb = 0.1675 ± 0.0003 and T = 525.3 ± 0.5 K.” |
-| 525.29 | eutectic: L = fcc(Pb) + rhombo(Sb) | L: Sb 0.1675 | experimental | [1] Hassam 2009 | Table 4, p. 4, row 4 |  |
-| 525.15 | eutectic: L = fcc(Pb) + rhombo(Sb) | L: Sb 0.175 | experimental | [1] Hassam 2009; _cites Redlich 1948_ | Table 4, p. 4, row 1 |  |
-| 524.85 | eutectic: L = fcc(Pb) + rhombo(Sb) | L: Sb 0.175 | model | [1] Hassam 2009; _cites Ashtakala 1981_ [doi](https://doi.org/10.1007/bf02873711) | Table 4, p. 4, row 2 |  |
-| 524.85 | eutectic |  | model | [1] Hassam 2009 | p. 1 | “The calculated eutectic composition and temperature are 17.5 at.% Sb and 524.85 K, respectively.” |
+| 526.15 | eutectic: L = fcc(Pb) + rhombo(Sb) |  | experimental | [1] Hassam 2009; _cites Othani 1995_ | Table 4, p. 4, row 3; `ORC-YIGLAV3CVT` |  |
+| 525.39 | eutectic: L = fcc(Pb) + rhombo(Sb) | L: Sb 0.171 | model | [1] Hassam 2009 | Table 4, p. 4, row 5; `ORC-TC2Y67IY3X` |  |
+| 525.3 | eutectic |  | experimental | [1] Hassam 2009 | p. 3; `ORC-GYA67CHAUO` | “From these results the eutectic point is measured at XSb = 0.1675 ± 0.0003 and T = 525.3 ± 0.5 K.” |
+| 525.29 | eutectic: L = fcc(Pb) + rhombo(Sb) | L: Sb 0.1675 | experimental | [1] Hassam 2009 | Table 4, p. 4, row 4; `ORC-ZP5LFSX4EV` |  |
+| 525.15 | eutectic: L = fcc(Pb) + rhombo(Sb) | L: Sb 0.175 | experimental | [1] Hassam 2009; _cites Redlich 1948_ | Table 4, p. 4, row 1; `ORC-NNKFRRYWUM` |  |
+| 524.85 | eutectic: L = fcc(Pb) + rhombo(Sb) | L: Sb 0.175 | model | [1] Hassam 2009; _cites Ashtakala 1981_ [doi](https://doi.org/10.1007/bf02873711) | Table 4, p. 4, row 2; `ORC-Q3KMYNVTU7` |  |
+| 524.85 | eutectic |  | model | [1] Hassam 2009 | p. 1; `ORC-UIJQ56WIQ4` | “The calculated eutectic composition and temperature are 17.5 at.% Sb and 524.85 K, respectively.” |
 
 ## Other properties
 
@@ -70,15 +70,15 @@ Table: Phase transition, Pb–Sb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 525.3 K | 525.3 | eutectic: X_Pb=0.600 X_Sb=0.400; _alloy: Pb 0.6, Sb 0.4_ | experimental | [1] Hassam 2009 | Table 2, p. 2, row 12 |  |
-| Phase transition | 525.3 K | 525.3 | eutectic: X_Pb=0.700 X_Sb=0.300; _alloy: Pb 0.7, Sb 0.3_ | experimental | [1] Hassam 2009 | Table 2, p. 2, row 11 |  |
-| Phase transition | 525.3 K | 525.3 | eutectic: X_Pb=0.800 X_Sb=0.200; _alloy: Pb 0.8, Sb 0.2_ | experimental | [1] Hassam 2009 | Table 2, p. 2, row 10 |  |
-| Phase transition | 525.3 K | 525.3 | eutectic: X_Pb=0.900 X_Sb=0.100; _alloy: Pb 0.9, Sb 0.1_ | experimental | [1] Hassam 2009 | Table 2, p. 2, row 8 |  |
-| Phase transition | 525.3 K | 525.3 | eutectic: X_Pb=0.930 X_Sb=0.070; _alloy: Pb 0.93, Sb 0.07_ | experimental | [1] Hassam 2009 | Table 2, p. 2, row 7 |  |
-| Phase transition | 525.4 K | 525.4 | eutectic: X_Pb=0.850 X_Sb=0.150; _alloy: Pb 0.85, Sb 0.15_ | experimental | [1] Hassam 2009 | Table 2, p. 2, row 9 |  |
-| Phase transition | 526.15 K | 526.15 | eutectic; _alloy: Pb 0.810497, Sb 0.189503_ | experimental | [2] Ohtani 1995 | Table 4, p. 6, row 2 |  |
-| Phase transition | 527.15 K | 527.15 | eutectic; _alloy: Pb 0.660729, Sb 0.339271_ | experimental | [2] Ohtani 1995 | Table 4, p. 6, row 4 |  |
-| Phase transition | 571.4 K | 571.4 | other | experimental | [1] Hassam 2009 | Table 2, p. 2, row 1 |  |
+| Phase transition | 525.3 K | 525.3 | eutectic: X_Pb=0.600 X_Sb=0.400; _alloy: Pb 0.6, Sb 0.4_ | experimental | [1] Hassam 2009 | Table 2, p. 2, row 12; `ORC-74ZNLZ7IWY` |  |
+| Phase transition | 525.3 K | 525.3 | eutectic: X_Pb=0.700 X_Sb=0.300; _alloy: Pb 0.7, Sb 0.3_ | experimental | [1] Hassam 2009 | Table 2, p. 2, row 11; `ORC-FYAG3XNYP6` |  |
+| Phase transition | 525.3 K | 525.3 | eutectic: X_Pb=0.800 X_Sb=0.200; _alloy: Pb 0.8, Sb 0.2_ | experimental | [1] Hassam 2009 | Table 2, p. 2, row 10; `ORC-ORVAXIMHNZ` |  |
+| Phase transition | 525.3 K | 525.3 | eutectic: X_Pb=0.900 X_Sb=0.100; _alloy: Pb 0.9, Sb 0.1_ | experimental | [1] Hassam 2009 | Table 2, p. 2, row 8; `ORC-5AH7N7WS2A` |  |
+| Phase transition | 525.3 K | 525.3 | eutectic: X_Pb=0.930 X_Sb=0.070; _alloy: Pb 0.93, Sb 0.07_ | experimental | [1] Hassam 2009 | Table 2, p. 2, row 7; `ORC-VQBOYQK7GF` |  |
+| Phase transition | 525.4 K | 525.4 | eutectic: X_Pb=0.850 X_Sb=0.150; _alloy: Pb 0.85, Sb 0.15_ | experimental | [1] Hassam 2009 | Table 2, p. 2, row 9; `ORC-NRHO2NTT4T` |  |
+| Phase transition | 526.15 K | 526.15 | eutectic; _alloy: Pb 0.810497, Sb 0.189503_ | experimental | [2] Ohtani 1995 | Table 4, p. 6, row 2; `ORC-4SOQLCCENV` |  |
+| Phase transition | 527.15 K | 527.15 | eutectic; _alloy: Pb 0.660729, Sb 0.339271_ | experimental | [2] Ohtani 1995 | Table 4, p. 6, row 4; `ORC-7DKYPS7SRJ` |  |
+| Phase transition | 571.4 K | 571.4 | other | experimental | [1] Hassam 2009 | Table 2, p. 2, row 1; `ORC-KUT4EQCEV4` |  |
 
 ### Phase equilibrium (7)
 
@@ -86,13 +86,13 @@ Table: Phase equilibrium, Pb–Sb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 536.9 | other; _liquid: Pb 0.85, Sb 0.15_ | experimental | [1] Hassam 2009 | Table 2, p. 2, row 3 |  |
-| Phase composition |  | 552.15 | other; _liquid: Pb 0.810497, Sb 0.189503_ | experimental | [2] Ohtani 1995 | Table 4, p. 6, row 1 |  |
-| Phase composition |  | 558.15 | other; _liquid: Pb 0.660729, Sb 0.339271_ | experimental | [2] Ohtani 1995 | Table 4, p. 6, row 3 |  |
-| Phase composition |  | 558.5 | other; _liquid: Pb 0.9, Sb 0.1_ | experimental | [1] Hassam 2009 | Table 2, p. 2, row 2 |  |
-| Phase composition |  | 558.7 | other; _liquid: Pb 0.8, Sb 0.2_ | experimental | [1] Hassam 2009 | Table 2, p. 2, row 4 |  |
-| Phase composition |  | 635.2 | other; _liquid: Pb 0.7, Sb 0.3_ | experimental | [1] Hassam 2009 | Table 2, p. 2, row 5 |  |
-| Phase composition |  | 673.2 | other; _liquid: Pb 0.6, Sb 0.4_ | experimental | [1] Hassam 2009 | Table 2, p. 2, row 6 |  |
+| Phase composition |  | 536.9 | other; _liquid: Pb 0.85, Sb 0.15_ | experimental | [1] Hassam 2009 | Table 2, p. 2, row 3; `ORC-AGDYNRSQTA` |  |
+| Phase composition |  | 552.15 | other; _liquid: Pb 0.810497, Sb 0.189503_ | experimental | [2] Ohtani 1995 | Table 4, p. 6, row 1; `ORC-Y22PE4U6ZM` |  |
+| Phase composition |  | 558.15 | other; _liquid: Pb 0.660729, Sb 0.339271_ | experimental | [2] Ohtani 1995 | Table 4, p. 6, row 3; `ORC-FSAPXIQZ5N` |  |
+| Phase composition |  | 558.5 | other; _liquid: Pb 0.9, Sb 0.1_ | experimental | [1] Hassam 2009 | Table 2, p. 2, row 2; `ORC-VFNHJTKKEH` |  |
+| Phase composition |  | 558.7 | other; _liquid: Pb 0.8, Sb 0.2_ | experimental | [1] Hassam 2009 | Table 2, p. 2, row 4; `ORC-XXU7S3OJV4` |  |
+| Phase composition |  | 635.2 | other; _liquid: Pb 0.7, Sb 0.3_ | experimental | [1] Hassam 2009 | Table 2, p. 2, row 5; `ORC-S45KZJ6CZK` |  |
+| Phase composition |  | 673.2 | other; _liquid: Pb 0.6, Sb 0.4_ | experimental | [1] Hassam 2009 | Table 2, p. 2, row 6; `ORC-UNFYY3ETTY` |  |
 
 ### Mixing / partial (6)
 
@@ -100,12 +100,12 @@ Table: Mixing / partial, Pb–Sb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: ΔmixHm_ | -0.0511 kJ/mol (basis unstated) | 973 | liquid; _alloy: Pb 0.405, Sb 0.595_ | experimental | [1] Hassam 2009 | Table 1, p. 2, row 6 |  |
-| Enthalpy of mixing; _printed: ΔmixHm_ | -0.0515 kJ/mol (basis unstated) | 973 | liquid; _alloy: Pb 0.797, Sb 0.203_ | experimental | [1] Hassam 2009 | Table 1, p. 2, row 1 |  |
-| Enthalpy of mixing; _printed: ΔmixHm_ | -0.0512 kJ/mol (basis unstated) | 973 | liquid; _alloy: Pb 0.405, Sb 0.595_ | experimental | [1] Hassam 2009 | Table 1, p. 2, row 5 |  |
-| Enthalpy of mixing; _printed: ΔmixHm_ | -0.0689 kJ/mol (basis unstated) | 973 | liquid; _alloy: Pb 0.55, Sb 0.45_ | experimental | [1] Hassam 2009 | Table 1, p. 2, row 4 |  |
-| Enthalpy of mixing; _printed: ΔmixHm_ | -0.064 kJ/mol (basis unstated) | 973 | liquid; _alloy: Pb 0.7017, Sb 0.2983_ | experimental | [1] Hassam 2009 | Table 1, p. 2, row 3 |  |
-| Enthalpy of mixing; _printed: ΔmixHm_ | -0.0429 kJ/mol (basis unstated) | 973 | liquid; _alloy: Pb 0.7825, Sb 0.2175_ | experimental | [1] Hassam 2009 | Table 1, p. 2, row 2 |  |
+| Enthalpy of mixing; _printed: ΔmixHm_ | -0.0511 kJ/mol (basis unstated) | 973 | liquid; _alloy: Pb 0.405, Sb 0.595_ | experimental | [1] Hassam 2009 | Table 1, p. 2, row 6; `ORC-BMWWJCUB4L` |  |
+| Enthalpy of mixing; _printed: ΔmixHm_ | -0.0515 kJ/mol (basis unstated) | 973 | liquid; _alloy: Pb 0.797, Sb 0.203_ | experimental | [1] Hassam 2009 | Table 1, p. 2, row 1; `ORC-FCJYVLTR3P` |  |
+| Enthalpy of mixing; _printed: ΔmixHm_ | -0.0512 kJ/mol (basis unstated) | 973 | liquid; _alloy: Pb 0.405, Sb 0.595_ | experimental | [1] Hassam 2009 | Table 1, p. 2, row 5; `ORC-HMJ6427JVG` |  |
+| Enthalpy of mixing; _printed: ΔmixHm_ | -0.0689 kJ/mol (basis unstated) | 973 | liquid; _alloy: Pb 0.55, Sb 0.45_ | experimental | [1] Hassam 2009 | Table 1, p. 2, row 4; `ORC-QSJYLSZ6OS` |  |
+| Enthalpy of mixing; _printed: ΔmixHm_ | -0.064 kJ/mol (basis unstated) | 973 | liquid; _alloy: Pb 0.7017, Sb 0.2983_ | experimental | [1] Hassam 2009 | Table 1, p. 2, row 3; `ORC-RSAO4SNQQE` |  |
+| Enthalpy of mixing; _printed: ΔmixHm_ | -0.0429 kJ/mol (basis unstated) | 973 | liquid; _alloy: Pb 0.7825, Sb 0.2175_ | experimental | [1] Hassam 2009 | Table 1, p. 2, row 2; `ORC-XQ4LFELGEQ` |  |
 
 ## Sources
 
@@ -171,4 +171,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

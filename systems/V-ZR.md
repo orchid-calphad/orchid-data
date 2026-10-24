@@ -70,53 +70,53 @@ Table: Invariant reactions reported in the literature for the V–Zr system (47)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2013 | bcc-V + liquid -> V2Zr | bcc-V: Zr 0.02; V2Zr: V 0.666667, Zr 0.333333 | experimental | [1] Zhao 2012; _cites Rostoker 1954_ | Table 4, p. 5, row 4 |  |
-| 1633 | Liquid -> V2Zr + bcc-Zr | V2Zr: V 0.666667, Zr 0.333333 | experimental | [1] Zhao 2012; _cites Rostoker 1954_ | Table 4, p. 5, row 10 |  |
-| 1597.15 | peritectic: L + bcc_A2 -> C15-Laves |  | model | [2] Servant 2005 | Table 4, p. 5, row 2 |  |
-| 1592.15 | peritectic: L + bcc_A2 -> C15-Laves |  | model | [2] Servant 2005 | Table 5, p. 6, row 2 |  |
-| 1586.15 | peritectic: L + bcc_A2 -> C15-Laves |  | model | [2] Servant 2005 | Table 5, p. 6, row 1 |  |
-| 1586 | bcc-V + liquid -> V2Zr | bcc-V: Zr 0.049; liquid: Zr 0.478; V2Zr: Zr 0.335 | model | [1] Zhao 2012; _cites Servant 2005_ [doi](https://doi.org/10.1007/s11669-005-0056-x) | Table 4, p. 5, row 6 |  |
-| 1573.15 | peritectic: L + bcc_A2 -> C15-Laves |  | experimental | [2] Servant 2005; _cites Smith 1990_ | Table 5, p. 6, row 3 |  |
-| 1573.15 | peritectic |  | experimental | [2] Servant 2005 | p. 2 | “This system contains only one intermediate-phase V2Zr that forms peritectically at 1300 °C.” |
-| 1573.15 | peritectic: L + bcc_A2 -> C15-Laves |  | experimental | [2] Servant 2005; _cites Williams 1955_ [doi](https://doi.org/10.1007/bf03377505) | Table 5, p. 6, row 5 |  |
-| 1573.15 | peritectic: L + bcc_A2 -> C15-Laves |  | experimental | [2] Servant 2005; _cites Smith 1990_ | Table 4, p. 5, row 3 |  |
-| 1573.15 | peritectic: L + bcc_A2 -> C15-Laves |  | experimental | [2] Servant 2005; _cites Williams 1955_ [doi](https://doi.org/10.1007/bf03377505) | Table 4, p. 5, row 4 |  |
-| 1573 | bcc-V + liquid -> V2Zr | bcc-V: Zr 0.0571; liquid: Zr 0.479; V2Zr: Zr 0.3396 | model | [1] Zhao 2012 | Table 4, p. 5, row 1 |  |
-| 1573 | bcc-V + liquid -> V2Zr | V2Zr: V 0.666667, Zr 0.333333 | experimental | [1] Zhao 2012; _cites Williams 1955_ | Table 4, p. 5, row 3 |  |
-| 1573 | bcc-V + liquid -> V2Zr | bcc-V: Zr 0.05; liquid: Zr 0.48; V2Zr: Zr 0.333 | experimental | [1] Zhao 2012; _cites Massalski 1990_ | Table 4, p. 5, row 2 |  |
-| 1572.15 | peritectic: L + bcc_A2 -> C15-Laves |  | model | [2] Servant 2005 | Table 4, p. 5, row 1 |  |
-| 1553 | bcc-V + liquid -> V2Zr | bcc-V: Zr 0.046; liquid: Zr 0.4941; V2Zr: Zr 0.3333 | model | [1] Zhao 2012; _cites COST507 1998_ | Table 4, p. 5, row 5 |  |
-| 1552.85 | peritectic: L + bcc_A2 -> C15-Laves |  | experimental | [2] Servant 2005; _cites Korb 1998_ | Table 4, p. 5, row 5 |  |
-| 1552.7 | peritectic: bcc-A2 +Liquid -> V2Zr | bcc-A2: Zr 0.046; Liquid: Zr 0.494; V2Zr: Zr 0.333 | unspecified | [3] Hämäläinen 1998 | Table I, p. 320, row 1 |  |
-| 1538.15 | eutectic: L -> C15-Laves + bcc_A2 |  | experimental | [2] Servant 2005; _cites Smith 1990_ | Table 4, p. 5, row 8 |  |
-| 1538.15 | eutectic: L -> C15-Laves + bcc_A2 |  | experimental | [2] Servant 2005; _cites Smith 1990_ | Table 5, p. 6, row 8 |  |
-| 1538 | Liquid -> V2Zr + bcc-Zr | Liquid: Zr 0.57; V2Zr: Zr 0.35; bcc-Zr: Zr 0.835 | experimental | [1] Zhao 2012; _cites Massalski 1990_ | Table 4, p. 5, row 8 |  |
-| 1538 | Liquid -> V2Zr + bcc-Zr | Liquid: Zr 0.5482; V2Zr: Zr 0.3435; bcc-Zr: Zr 0.8313 | model | [1] Zhao 2012 | Table 4, p. 5, row 7 |  |
-| 1529.15 | eutectic: L -> C15-Laves + bcc_A2 |  | model | [2] Servant 2005 | Table 4, p. 5, row 6 |  |
-| 1528.15 | eutectic: L -> C15-Laves + bcc_A2 |  | model | [2] Servant 2005 | Table 4, p. 5, row 7 |  |
-| 1526.15 | eutectic: L -> C15-Laves + bcc_A2 |  | model | [2] Servant 2005 | Table 5, p. 6, row 7 |  |
-| 1525.15 | eutectic: L -> C15-Laves + bcc_A2 |  | model | [2] Servant 2005 | Table 5, p. 6, row 6 |  |
-| 1525 | Liquid -> V2Zr + bcc-Zr | Liquid: Zr 0.561; V2Zr: Zr 0.352; bcc-Zr: Zr 0.831 | model | [1] Zhao 2012; _cites Servant 2005_ [doi](https://doi.org/10.1007/s11669-005-0056-x) | Table 4, p. 5, row 12 |  |
-| 1510.35 | eutectic: L -> C15-Laves + bcc_A2 |  | experimental | [2] Servant 2005; _cites Korb 1998_ | Table 4, p. 5, row 10 |  |
-| 1510.2 | eutectic: Liquid -> V2Zr + bcc-A2 | Liquid: Zr 0.548; V2Zr: Zr 0.333; bcc-A2: Zr 0.839 | unspecified | [3] Hämäläinen 1998 | Table I, p. 320, row 2 |  |
-| 1510 | Liquid -> V2Zr + bcc-Zr | Liquid: Zr 0.5477; V2Zr: Zr 0.3333; bcc-Zr: Zr 0.8393 | model | [1] Zhao 2012; _cites COST507 1998_ | Table 4, p. 5, row 11 |  |
-| 1503 | Liquid -> V2Zr + bcc-Zr | V2Zr: V 0.666667, Zr 0.333333 | experimental | [1] Zhao 2012; _cites Williams 1955_ | Table 4, p. 5, row 9 |  |
-| 1500.15 | eutectic: L -> C15-Laves + bcc_A2 |  | experimental | [2] Servant 2005; _cites Williams 1955_ [doi](https://doi.org/10.1007/bf03377505) | Table 5, p. 6, row 9 |  |
-| 1500.15 | eutectic: L -> C15-Laves + bcc_A2 |  | experimental | [2] Servant 2005; _cites Williams 1955_ [doi](https://doi.org/10.1007/bf03377505) | Table 4, p. 5, row 9 |  |
-| 1063.05 | eutectoid: bcc_A2 -> C15-Laves + cph_A3 |  | experimental | [2] Servant 2005; _cites Korb 1998_ | Table 4, p. 5, row 15 |  |
-| 1063 | bcc-Zr -> V2Zr + hcp-Zr | bcc-Zr: Zr 0.9273; V2Zr: Zr 0.3333; hcp-Zr: Zr 0.9592 | model | [1] Zhao 2012; _cites COST507 1998_ | Table 4, p. 5, row 16 |  |
-| 1062.9 | eutectoid: bcc-A2 -> V2Zr + hcp-A3 | bcc-A2: Zr 0.927; V2Zr: Zr 0.333; hcp-A3: Zr 0.959 | unspecified | [3] Hämäläinen 1998 | Table I, p. 320, row 3 |  |
-| 1053.15 | eutectoid: bcc_A2 -> C15-Laves + cph_A3 |  | experimental | [2] Servant 2005; _cites Williams 1955_ [doi](https://doi.org/10.1007/bf03377505) | Table 5, p. 6, row 13 |  |
-| 1053.15 | eutectoid: bcc_A2 -> C15-Laves + cph_A3 |  | experimental | [2] Servant 2005; _cites Williams 1955_ [doi](https://doi.org/10.1007/bf03377505) | Table 4, p. 5, row 14 |  |
-| 1050.15 | eutectoid: bcc_A2 -> C15-Laves + cph_A3 |  | experimental | [2] Servant 2005; _cites Smith 1990_ | Table 4, p. 5, row 13 |  |
-| 1050 | bcc-Zr -> V2Zr + hcp-Zr | bcc-Zr: Zr 0.914; V2Zr: Zr 0.345; hcp-Zr: Zr 0.99 | experimental | [1] Zhao 2012; _cites Massalski 1990_ | Table 4, p. 5, row 14 |  |
-| 1050 | bcc-Zr -> V2Zr + hcp-Zr | V2Zr: V 0.666667, Zr 0.333333 | experimental | [1] Zhao 2012; _cites Williams 1955_ | Table 4, p. 5, row 15 |  |
-| 1050 | bcc-Zr -> V2Zr + hcp-Zr | bcc-Zr: Zr 0.9287; V2Zr: Zr 0.3496; hcp-Zr: Zr 0.9968 | model | [1] Zhao 2012 | Table 4, p. 5, row 13 |  |
-| 1046.15 | eutectoid: bcc_A2 -> C15-Laves + cph_A3 |  | model | [2] Servant 2005 | Table 5, p. 6, row 10 |  |
-| 1046 | bcc-Zr -> V2Zr + hcp-Zr | bcc-Zr: Zr 0.922; V2Zr: Zr 0.343; hcp-Zr: Zr 0.969 | model | [1] Zhao 2012; _cites Servant 2005_ [doi](https://doi.org/10.1007/s11669-005-0056-x) | Table 4, p. 5, row 17 |  |
-| 1044.15 | eutectoid: bcc_A2 -> C15-Laves + cph_A3 |  | experimental | [2] Servant 2005; _cites Smith 1990_ | Table 5, p. 6, row 12 |  |
-| 1044.15 | eutectoid: bcc_A2 -> C15-Laves + cph_A3 |  | model | [2] Servant 2005 | Table 5, p. 6, row 11 |  |
-| 1043.15 | eutectoid: bcc_A2 -> C15-Laves + cph_A3 |  | model | [2] Servant 2005 | Table 4, p. 5, row 11 |  |
+| 2013 | bcc-V + liquid -> V2Zr | bcc-V: Zr 0.02; V2Zr: V 0.666667, Zr 0.333333 | experimental | [1] Zhao 2012; _cites Rostoker 1954_ | Table 4, p. 5, row 4; `ORC-ULSH5LEJOG` |  |
+| 1633 | Liquid -> V2Zr + bcc-Zr | V2Zr: V 0.666667, Zr 0.333333 | experimental | [1] Zhao 2012; _cites Rostoker 1954_ | Table 4, p. 5, row 10; `ORC-5RZOOWLSVM` |  |
+| 1597.15 | peritectic: L + bcc_A2 -> C15-Laves |  | model | [2] Servant 2005 | Table 4, p. 5, row 2; `ORC-VYYKXSP2A5` |  |
+| 1592.15 | peritectic: L + bcc_A2 -> C15-Laves |  | model | [2] Servant 2005 | Table 5, p. 6, row 2; `ORC-IEMCZ5RXWV` |  |
+| 1586.15 | peritectic: L + bcc_A2 -> C15-Laves |  | model | [2] Servant 2005 | Table 5, p. 6, row 1; `ORC-2HBO2S2HTO` |  |
+| 1586 | bcc-V + liquid -> V2Zr | bcc-V: Zr 0.049; liquid: Zr 0.478; V2Zr: Zr 0.335 | model | [1] Zhao 2012; _cites Servant 2005_ [doi](https://doi.org/10.1007/s11669-005-0056-x) | Table 4, p. 5, row 6; `ORC-H25DNSPGCO` |  |
+| 1573.15 | peritectic: L + bcc_A2 -> C15-Laves |  | experimental | [2] Servant 2005; _cites Smith 1990_ | Table 5, p. 6, row 3; `ORC-5KR7X2KGWY` |  |
+| 1573.15 | peritectic |  | experimental | [2] Servant 2005 | p. 2; `ORC-AA65IUMGXJ` | “This system contains only one intermediate-phase V2Zr that forms peritectically at 1300 °C.” |
+| 1573.15 | peritectic: L + bcc_A2 -> C15-Laves |  | experimental | [2] Servant 2005; _cites Williams 1955_ [doi](https://doi.org/10.1007/bf03377505) | Table 5, p. 6, row 5; `ORC-AX4O3CZXXR` |  |
+| 1573.15 | peritectic: L + bcc_A2 -> C15-Laves |  | experimental | [2] Servant 2005; _cites Smith 1990_ | Table 4, p. 5, row 3; `ORC-UB4RENO5KA` |  |
+| 1573.15 | peritectic: L + bcc_A2 -> C15-Laves |  | experimental | [2] Servant 2005; _cites Williams 1955_ [doi](https://doi.org/10.1007/bf03377505) | Table 4, p. 5, row 4; `ORC-UJ24ZLLW2D` |  |
+| 1573 | bcc-V + liquid -> V2Zr | bcc-V: Zr 0.0571; liquid: Zr 0.479; V2Zr: Zr 0.3396 | model | [1] Zhao 2012 | Table 4, p. 5, row 1; `ORC-E5NB7NV56M` |  |
+| 1573 | bcc-V + liquid -> V2Zr | V2Zr: V 0.666667, Zr 0.333333 | experimental | [1] Zhao 2012; _cites Williams 1955_ | Table 4, p. 5, row 3; `ORC-FAPGRPATPS` |  |
+| 1573 | bcc-V + liquid -> V2Zr | bcc-V: Zr 0.05; liquid: Zr 0.48; V2Zr: Zr 0.333 | experimental | [1] Zhao 2012; _cites Massalski 1990_ | Table 4, p. 5, row 2; `ORC-UXETQF7AOQ` |  |
+| 1572.15 | peritectic: L + bcc_A2 -> C15-Laves |  | model | [2] Servant 2005 | Table 4, p. 5, row 1; `ORC-LU5QXXLHS6` |  |
+| 1553 | bcc-V + liquid -> V2Zr | bcc-V: Zr 0.046; liquid: Zr 0.4941; V2Zr: Zr 0.3333 | model | [1] Zhao 2012; _cites COST507 1998_ | Table 4, p. 5, row 5; `ORC-323GQJNG64` |  |
+| 1552.85 | peritectic: L + bcc_A2 -> C15-Laves |  | experimental | [2] Servant 2005; _cites Korb 1998_ | Table 4, p. 5, row 5; `ORC-DVMHHQP6CK` |  |
+| 1552.7 | peritectic: bcc-A2 +Liquid -> V2Zr | bcc-A2: Zr 0.046; Liquid: Zr 0.494; V2Zr: Zr 0.333 | unspecified | [3] Hämäläinen 1998 | Table I, p. 320, row 1; `ORC-GBXFYBDOMX` |  |
+| 1538.15 | eutectic: L -> C15-Laves + bcc_A2 |  | experimental | [2] Servant 2005; _cites Smith 1990_ | Table 4, p. 5, row 8; `ORC-4WAM6ZQXP3` |  |
+| 1538.15 | eutectic: L -> C15-Laves + bcc_A2 |  | experimental | [2] Servant 2005; _cites Smith 1990_ | Table 5, p. 6, row 8; `ORC-PHW64TLRX4` |  |
+| 1538 | Liquid -> V2Zr + bcc-Zr | Liquid: Zr 0.57; V2Zr: Zr 0.35; bcc-Zr: Zr 0.835 | experimental | [1] Zhao 2012; _cites Massalski 1990_ | Table 4, p. 5, row 8; `ORC-374Q2XDWHY` |  |
+| 1538 | Liquid -> V2Zr + bcc-Zr | Liquid: Zr 0.5482; V2Zr: Zr 0.3435; bcc-Zr: Zr 0.8313 | model | [1] Zhao 2012 | Table 4, p. 5, row 7; `ORC-LION3OY2TO` |  |
+| 1529.15 | eutectic: L -> C15-Laves + bcc_A2 |  | model | [2] Servant 2005 | Table 4, p. 5, row 6; `ORC-CQTT6JG2OL` |  |
+| 1528.15 | eutectic: L -> C15-Laves + bcc_A2 |  | model | [2] Servant 2005 | Table 4, p. 5, row 7; `ORC-5IU2EB74ZD` |  |
+| 1526.15 | eutectic: L -> C15-Laves + bcc_A2 |  | model | [2] Servant 2005 | Table 5, p. 6, row 7; `ORC-JBJZT4IUSZ` |  |
+| 1525.15 | eutectic: L -> C15-Laves + bcc_A2 |  | model | [2] Servant 2005 | Table 5, p. 6, row 6; `ORC-APDX4R3J25` |  |
+| 1525 | Liquid -> V2Zr + bcc-Zr | Liquid: Zr 0.561; V2Zr: Zr 0.352; bcc-Zr: Zr 0.831 | model | [1] Zhao 2012; _cites Servant 2005_ [doi](https://doi.org/10.1007/s11669-005-0056-x) | Table 4, p. 5, row 12; `ORC-AWFGBX5Q6P` |  |
+| 1510.35 | eutectic: L -> C15-Laves + bcc_A2 |  | experimental | [2] Servant 2005; _cites Korb 1998_ | Table 4, p. 5, row 10; `ORC-ELAXWDYCDW` |  |
+| 1510.2 | eutectic: Liquid -> V2Zr + bcc-A2 | Liquid: Zr 0.548; V2Zr: Zr 0.333; bcc-A2: Zr 0.839 | unspecified | [3] Hämäläinen 1998 | Table I, p. 320, row 2; `ORC-AAYUZHYTXP` |  |
+| 1510 | Liquid -> V2Zr + bcc-Zr | Liquid: Zr 0.5477; V2Zr: Zr 0.3333; bcc-Zr: Zr 0.8393 | model | [1] Zhao 2012; _cites COST507 1998_ | Table 4, p. 5, row 11; `ORC-M3ITH3YOSH` |  |
+| 1503 | Liquid -> V2Zr + bcc-Zr | V2Zr: V 0.666667, Zr 0.333333 | experimental | [1] Zhao 2012; _cites Williams 1955_ | Table 4, p. 5, row 9; `ORC-3KQZCHQIIT` |  |
+| 1500.15 | eutectic: L -> C15-Laves + bcc_A2 |  | experimental | [2] Servant 2005; _cites Williams 1955_ [doi](https://doi.org/10.1007/bf03377505) | Table 5, p. 6, row 9; `ORC-SH4IUFQRXE` |  |
+| 1500.15 | eutectic: L -> C15-Laves + bcc_A2 |  | experimental | [2] Servant 2005; _cites Williams 1955_ [doi](https://doi.org/10.1007/bf03377505) | Table 4, p. 5, row 9; `ORC-VI6O7NOACV` |  |
+| 1063.05 | eutectoid: bcc_A2 -> C15-Laves + cph_A3 |  | experimental | [2] Servant 2005; _cites Korb 1998_ | Table 4, p. 5, row 15; `ORC-HVA4YK2NGG` |  |
+| 1063 | bcc-Zr -> V2Zr + hcp-Zr | bcc-Zr: Zr 0.9273; V2Zr: Zr 0.3333; hcp-Zr: Zr 0.9592 | model | [1] Zhao 2012; _cites COST507 1998_ | Table 4, p. 5, row 16; `ORC-SHBNWBXMYS` |  |
+| 1062.9 | eutectoid: bcc-A2 -> V2Zr + hcp-A3 | bcc-A2: Zr 0.927; V2Zr: Zr 0.333; hcp-A3: Zr 0.959 | unspecified | [3] Hämäläinen 1998 | Table I, p. 320, row 3; `ORC-KAQRTQ2ZP6` |  |
+| 1053.15 | eutectoid: bcc_A2 -> C15-Laves + cph_A3 |  | experimental | [2] Servant 2005; _cites Williams 1955_ [doi](https://doi.org/10.1007/bf03377505) | Table 5, p. 6, row 13; `ORC-AFVBECTPQ7` |  |
+| 1053.15 | eutectoid: bcc_A2 -> C15-Laves + cph_A3 |  | experimental | [2] Servant 2005; _cites Williams 1955_ [doi](https://doi.org/10.1007/bf03377505) | Table 4, p. 5, row 14; `ORC-EKQ2ELDZ6E` |  |
+| 1050.15 | eutectoid: bcc_A2 -> C15-Laves + cph_A3 |  | experimental | [2] Servant 2005; _cites Smith 1990_ | Table 4, p. 5, row 13; `ORC-QPQOWBZQUS` |  |
+| 1050 | bcc-Zr -> V2Zr + hcp-Zr | bcc-Zr: Zr 0.914; V2Zr: Zr 0.345; hcp-Zr: Zr 0.99 | experimental | [1] Zhao 2012; _cites Massalski 1990_ | Table 4, p. 5, row 14; `ORC-FDSTJ5UFVJ` |  |
+| 1050 | bcc-Zr -> V2Zr + hcp-Zr | V2Zr: V 0.666667, Zr 0.333333 | experimental | [1] Zhao 2012; _cites Williams 1955_ | Table 4, p. 5, row 15; `ORC-HJM7PK3IFD` |  |
+| 1050 | bcc-Zr -> V2Zr + hcp-Zr | bcc-Zr: Zr 0.9287; V2Zr: Zr 0.3496; hcp-Zr: Zr 0.9968 | model | [1] Zhao 2012 | Table 4, p. 5, row 13; `ORC-TGFQRAQIDV` |  |
+| 1046.15 | eutectoid: bcc_A2 -> C15-Laves + cph_A3 |  | model | [2] Servant 2005 | Table 5, p. 6, row 10; `ORC-UBP55LJ3OI` |  |
+| 1046 | bcc-Zr -> V2Zr + hcp-Zr | bcc-Zr: Zr 0.922; V2Zr: Zr 0.343; hcp-Zr: Zr 0.969 | model | [1] Zhao 2012; _cites Servant 2005_ [doi](https://doi.org/10.1007/s11669-005-0056-x) | Table 4, p. 5, row 17; `ORC-YBULJUR7CU` |  |
+| 1044.15 | eutectoid: bcc_A2 -> C15-Laves + cph_A3 |  | experimental | [2] Servant 2005; _cites Smith 1990_ | Table 5, p. 6, row 12; `ORC-DIY2TW4MCV` |  |
+| 1044.15 | eutectoid: bcc_A2 -> C15-Laves + cph_A3 |  | model | [2] Servant 2005 | Table 5, p. 6, row 11; `ORC-IKTPUQ45QO` |  |
+| 1043.15 | eutectoid: bcc_A2 -> C15-Laves + cph_A3 |  | model | [2] Servant 2005 | Table 4, p. 5, row 11; `ORC-PCK2TEOFRW.9083bb` |  |
 
 ## Formation enthalpies
 
@@ -126,9 +126,9 @@ Table: Enthalpies of formation, V–Zr system (3)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Laves |  | -5.181 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Servant 2005 | Table 1, p. 2, row 10 |  |
-| Laves |  | -4.786 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Servant 2005 | Table 1, p. 2, row 8 |  |
-| Laves phase |  | -4.681 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Servant 2005 | Table 1, p. 2, row 9 |  |
+| Laves |  | -5.181 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Servant 2005 | Table 1, p. 2, row 10; `ORC-ZWYT4YPA26.0b964f` |  |
+| Laves |  | -4.786 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Servant 2005 | Table 1, p. 2, row 8; `ORC-OQVJV6RD5B.791636` |  |
+| Laves phase |  | -4.681 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Servant 2005 | Table 1, p. 2, row 9; `ORC-NMB7WZBG6U.931a31` |  |
 
 ## Other properties
 
@@ -138,9 +138,9 @@ Table: Mixing / partial, V–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: ΔHmelting_ | -4.204 kJ/mol (basis unstated) | 298.15 | liquid; _alloy: V 0.5, Zr 0.5_ | model | [2] Servant 2005 | Table 1, p. 2, row 9 |  |
-| Enthalpy of mixing; _printed: ΔHmelting_ | -4.35 kJ/mol (basis unstated) | 298.15 | liquid; _alloy: V 0.5, Zr 0.5_ | model | [2] Servant 2005 | Table 1, p. 2, row 8 |  |
-| Enthalpy of mixing; _printed: ΔHmelting_ | -3.92 kJ/mol (basis unstated) | 298.15 | liquid; _alloy: V 0.5, Zr 0.5_ | model | [2] Servant 2005 | Table 1, p. 2, row 10 |  |
+| Enthalpy of mixing; _printed: ΔHmelting_ | -4.204 kJ/mol (basis unstated) | 298.15 | liquid; _alloy: V 0.5, Zr 0.5_ | model | [2] Servant 2005 | Table 1, p. 2, row 9; `ORC-NMB7WZBG6U.fb2c91` |  |
+| Enthalpy of mixing; _printed: ΔHmelting_ | -4.35 kJ/mol (basis unstated) | 298.15 | liquid; _alloy: V 0.5, Zr 0.5_ | model | [2] Servant 2005 | Table 1, p. 2, row 8; `ORC-OQVJV6RD5B.d43fab` |  |
+| Enthalpy of mixing; _printed: ΔHmelting_ | -3.92 kJ/mol (basis unstated) | 298.15 | liquid; _alloy: V 0.5, Zr 0.5_ | model | [2] Servant 2005 | Table 1, p. 2, row 10; `ORC-ZWYT4YPA26.bb4d27` |  |
 
 ### Crystal structure (1)
 
@@ -148,7 +148,7 @@ Table: Crystal structure, V–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 7.45 Å | 298.15 | V2Zr; _alloy: Zr 0.333333_ | unspecified | [1] Zhao 2012; _cites Finkel 1980_ | Table 1, p. 3, row 3 |  |
+| Lattice a | 7.45 Å | 298.15 | V2Zr; _alloy: Zr 0.333333_ | unspecified | [1] Zhao 2012; _cites Finkel 1980_ | Table 1, p. 3, row 3; `ORC-DWHSTV4WBD` |  |
 
 ## Sources
 
@@ -215,4 +215,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

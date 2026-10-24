@@ -14,13 +14,13 @@ Table: Enthalpy of formation of PbSe reported in the literature (7)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -105 kJ/mol (basis unstated) | PbSe | 298.15 | experimental | Oxygen vessel calorimetry | [Pb–Se](https://data.orchid-project.org/systems/PB-SE.html) | [1] Liu 2012; _cites ref. 36_ | Table IX, p. 8, row 2 |  |
-| -100.3 kJ/mol (basis unstated) | PbSe | 298.15 | experimental | EMF measurements | [Pb–Se](https://data.orchid-project.org/systems/PB-SE.html) | [1] Liu 2012; _cites Shamsuddin 1973_ | Table IX, p. 8, row 6 |  |
-| -99.5 kJ/mol (basis unstated) | PbSe | 298.15 | experimental | EMF measurements | [Pb–Se](https://data.orchid-project.org/systems/PB-SE.html) | [1] Liu 2012; _cites ref. 38_ | Table IX, p. 8, row 4 |  |
-| -99.26 kJ/mol (basis unstated) | PbSe | 298.15 | experimental | Oxide melt drop solution calorimetry | [Pb–Se](https://data.orchid-project.org/systems/PB-SE.html) | [1] Liu 2012; _cites Deore 2008_ [doi](https://doi.org/10.2138/am.2008.2752) | Table IX, p. 8, row 1 |  |
-| -96.3 kJ/mol (basis unstated) | PbSe | 298.15 | experimental | Direct combination drop calorimetry | [Pb–Se](https://data.orchid-project.org/systems/PB-SE.html) | [1] Liu 2012; _cites ref. 37_ | Table IX, p. 8, row 3 |  |
-| -95.1 kJ/mol (basis unstated) | PbSe | 298.15 | experimental | EMF measurements | [Pb–Se](https://data.orchid-project.org/systems/PB-SE.html) | [1] Liu 2012; _cites ref. 39_ | Table IX, p. 8, row 5 |  |
-| -99.78 kJ/mol (basis unstated) | PbSe |  | model | Calculated | [Pb–Se](https://data.orchid-project.org/systems/PB-SE.html) | [1] Liu 2012 | Table IX, p. 8, row 7 |  |
+| -105 kJ/mol (basis unstated) | PbSe | 298.15 | experimental | Oxygen vessel calorimetry | [Pb–Se](https://data.orchid-project.org/systems/PB-SE.html) | [1] Liu 2012; _cites ref. 36_ | Table IX, p. 8, row 2; `ORC-DI7XAAZ6RK` |  |
+| -100.3 kJ/mol (basis unstated) | PbSe | 298.15 | experimental | EMF measurements | [Pb–Se](https://data.orchid-project.org/systems/PB-SE.html) | [1] Liu 2012; _cites Shamsuddin 1973_ | Table IX, p. 8, row 6; `ORC-FWDRO2OGO3` |  |
+| -99.5 kJ/mol (basis unstated) | PbSe | 298.15 | experimental | EMF measurements | [Pb–Se](https://data.orchid-project.org/systems/PB-SE.html) | [1] Liu 2012; _cites ref. 38_ | Table IX, p. 8, row 4; `ORC-S2YSJHFXT4` |  |
+| -99.26 kJ/mol (basis unstated) | PbSe | 298.15 | experimental | Oxide melt drop solution calorimetry | [Pb–Se](https://data.orchid-project.org/systems/PB-SE.html) | [1] Liu 2012; _cites Deore 2008_ [doi](https://doi.org/10.2138/am.2008.2752) | Table IX, p. 8, row 1; `ORC-R3YQOY2GEH` |  |
+| -96.3 kJ/mol (basis unstated) | PbSe | 298.15 | experimental | Direct combination drop calorimetry | [Pb–Se](https://data.orchid-project.org/systems/PB-SE.html) | [1] Liu 2012; _cites ref. 37_ | Table IX, p. 8, row 3; `ORC-6UKZRZ5CQG` |  |
+| -95.1 kJ/mol (basis unstated) | PbSe | 298.15 | experimental | EMF measurements | [Pb–Se](https://data.orchid-project.org/systems/PB-SE.html) | [1] Liu 2012; _cites ref. 39_ | Table IX, p. 8, row 5; `ORC-QXMDGYG3G6` |  |
+| -99.78 kJ/mol (basis unstated) | PbSe |  | model | Calculated | [Pb–Se](https://data.orchid-project.org/systems/PB-SE.html) | [1] Liu 2012 | Table IX, p. 8, row 7; `ORC-6ZCDGVNQPI` |  |
 
 ### Uncertainty budget
 
@@ -89,4 +89,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

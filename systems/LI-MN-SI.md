@@ -30,15 +30,15 @@ Table: Phase equilibrium, Li–Mn–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase assemblage |  | 423.15 | Li12Si7 + Mn11Si19 + (Si); _alloy: Li 0.25, Mn 0.15, Si 0.6_ | experimental | [1] Long 2018 | Table 2, p. 2, row 1 |  |
-| Phase assemblage |  | 423.15 | Li12Si7 + Mn11Si19 + MnSi; _alloy: Li 0.2, Mn 0.3, Si 0.5_ | experimental | [1] Long 2018 | Table 2, p. 2, row 2 |  |
-| Phase assemblage |  | 423.15 | Mn3Si + Mn9Si2 + Li22Si5; _alloy: Li 0.3, Mn 0.5, Si 0.2_ | experimental | [1] Long 2018 | Table 2, p. 2, row 5 |  |
-| Phase assemblage |  | 423.15 | Mn5Si3 + Li7Si3 + Li13Si4; _alloy: Li 0.5, Mn 0.2, Si 0.3_ | experimental | [1] Long 2018 | Table 2, p. 2, row 4 |  |
-| Phase assemblage |  | 423.15 | Mn5Si3 + Mn3Si + Li22Si5; _alloy: Li 0.35, Mn 0.4, Si 0.25_ | experimental | [1] Long 2018 | Table 2, p. 2, row 6 |  |
-| Phase assemblage |  | 423.15 | Mn5Si3 + MnSi + Li7Si3; _alloy: Li 0.26, Mn 0.35, Si 0.39_ | experimental | [1] Long 2018 | Table 2, p. 2, row 3 |  |
-| Phase assemblage |  | 423.15 | Mn6Si + (Li) + (αMn); _alloy: Li 0.4, Mn 0.55, Si 0.05_ | experimental | [1] Long 2018 | Table 2, p. 2, row 9 |  |
-| Phase assemblage |  | 423.15 | Mn6Si + Li22Si5 + (Li); _alloy: Li 0.46, Mn 0.4, Si 0.14_ | experimental | [1] Long 2018 | Table 2, p. 2, row 8 |  |
-| Phase assemblage |  | 423.15 | Mn9Si2 + Mn6Si + Li22Si5; _alloy: Li 0.23, Mn 0.6, Si 0.17_ | experimental | [1] Long 2018 | Table 2, p. 2, row 7 |  |
+| Phase assemblage |  | 423.15 | Li12Si7 + Mn11Si19 + (Si); _alloy: Li 0.25, Mn 0.15, Si 0.6_ | experimental | [1] Long 2018 | Table 2, p. 2, row 1; `ORC-B4YX2ECD7D` |  |
+| Phase assemblage |  | 423.15 | Li12Si7 + Mn11Si19 + MnSi; _alloy: Li 0.2, Mn 0.3, Si 0.5_ | experimental | [1] Long 2018 | Table 2, p. 2, row 2; `ORC-7VMNBZHQUP` |  |
+| Phase assemblage |  | 423.15 | Mn3Si + Mn9Si2 + Li22Si5; _alloy: Li 0.3, Mn 0.5, Si 0.2_ | experimental | [1] Long 2018 | Table 2, p. 2, row 5; `ORC-46PSXHXGUE` |  |
+| Phase assemblage |  | 423.15 | Mn5Si3 + Li7Si3 + Li13Si4; _alloy: Li 0.5, Mn 0.2, Si 0.3_ | experimental | [1] Long 2018 | Table 2, p. 2, row 4; `ORC-NCKNUBIIMO` |  |
+| Phase assemblage |  | 423.15 | Mn5Si3 + Mn3Si + Li22Si5; _alloy: Li 0.35, Mn 0.4, Si 0.25_ | experimental | [1] Long 2018 | Table 2, p. 2, row 6; `ORC-3L5AHRGCA5` |  |
+| Phase assemblage |  | 423.15 | Mn5Si3 + MnSi + Li7Si3; _alloy: Li 0.26, Mn 0.35, Si 0.39_ | experimental | [1] Long 2018 | Table 2, p. 2, row 3; `ORC-QLGXMMLL3K` |  |
+| Phase assemblage |  | 423.15 | Mn6Si + (Li) + (αMn); _alloy: Li 0.4, Mn 0.55, Si 0.05_ | experimental | [1] Long 2018 | Table 2, p. 2, row 9; `ORC-WW5RXJJ4ZB` |  |
+| Phase assemblage |  | 423.15 | Mn6Si + Li22Si5 + (Li); _alloy: Li 0.46, Mn 0.4, Si 0.14_ | experimental | [1] Long 2018 | Table 2, p. 2, row 8; `ORC-5E5KYILNXZ` |  |
+| Phase assemblage |  | 423.15 | Mn9Si2 + Mn6Si + Li22Si5; _alloy: Li 0.23, Mn 0.6, Si 0.17_ | experimental | [1] Long 2018 | Table 2, p. 2, row 7; `ORC-R6MIYJXLT2` |  |
 
 ### Crystal structure (1)
 
@@ -46,7 +46,7 @@ Table: Crystal structure, Li–Mn–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 3.51 Å | 298.15 | (Li); _alloy: Mn 0, Si 0_ | model | [1] Long 2018; _cites Okamoto 1990_ [doi](https://doi.org/10.1007/bf03029305) | Table 1, p. 2, row 2 |  |
+| Lattice a | 3.51 Å | 298.15 | (Li); _alloy: Mn 0, Si 0_ | model | [1] Long 2018; _cites Okamoto 1990_ [doi](https://doi.org/10.1007/bf03029305) | Table 1, p. 2, row 2; `ORC-PVVXJW5IHB` |  |
 
 ## Sources
 
@@ -89,4 +89,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

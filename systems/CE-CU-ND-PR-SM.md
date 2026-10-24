@@ -29,24 +29,24 @@ Table: Enthalpies of formation, Ce–Cu–Nd–Pr–Sm system (18)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Cu2R |  | -36 kJ/mol (basis unstated) |  | unspecified |  |  | [1] Zhuang 1996; _cites ref. 88Sub3_ | Table 10, p. 13, row 12 |  |
-| Cu2R |  | -30.9 kJ/mol (basis unstated) |  | model |  |  | [1] Zhuang 1996 | Table 10, p. 13, row 13 |  |
-| Cu2R |  | -14.8 kJ/mol (basis unstated) |  | model |  |  | [1] Zhuang 1996 | Table 10, p. 13, row 11 |  |
-| Cu2R |  | -14.8 kJ/mol (basis unstated) |  | unspecified |  |  | [1] Zhuang 1996; _cites ref. 94Fit_ | Table 10, p. 13, row 14 |  |
-| Cu4R |  | -21.9 kJ/mol (basis unstated) |  | model |  |  | [1] Zhuang 1996 | Table 10, p. 13, row 10 |  |
-| Cu4R |  | -16.4 kJ/mol (basis unstated) |  | unspecified |  |  | [1] Zhuang 1996; _cites ref. 88Sub3_ | Table 10, p. 13, row 9 |  |
-| Cu4R |  | -12.4 kJ/mol (basis unstated) |  | model |  |  | [1] Zhuang 1996 | Table 10, p. 13, row 8 |  |
-| Cu5R |  | -20.5 kJ/mol (basis unstated) |  | unspecified |  |  | [1] Zhuang 1996; _cites ref. 88Sub3_ | Table 10, p. 13, row 6 |  |
-| Cu5R |  | -18.6 kJ/mol (basis unstated) |  | model |  |  | [1] Zhuang 1996 | Table 10, p. 13, row 7 |  |
-| Cu5R |  | -11.5 kJ/mol (basis unstated) |  | model |  |  | [1] Zhuang 1996 | Table 10, p. 13, row 5 |  |
-| Cu6R |  | -20.3 kJ/mol (basis unstated) |  | unspecified |  |  | [1] Zhuang 1996; _cites ref. 88Sub3_ | Table 10, p. 13, row 2 |  |
-| Cu6R |  | -16 kJ/mol (basis unstated) |  | model |  |  | [1] Zhuang 1996 | Table 10, p. 13, row 3 |  |
-| Cu6R |  | -12.7 kJ/mol (basis unstated) |  | model |  |  | [1] Zhuang 1996 | Table 10, p. 13, row 15 |  |
-| Cu6R |  | -10.1 kJ/mol (basis unstated) |  | model |  |  | [1] Zhuang 1996 | Table 10, p. 13, row 1 |  |
-| Cu6R |  | -10.1 kJ/mol (basis unstated) |  | unspecified |  |  | [1] Zhuang 1996; _cites ref. 94Fit_ | Table 10, p. 13, row 4 |  |
-| CuR |  | -32.6 kJ/mol (basis unstated) |  | unspecified |  |  | [1] Zhuang 1996; _cites ref. 88Sub3_ | Table 10, p. 13, row 16 |  |
-| CuR |  | -30.1 kJ/mol (basis unstated) |  | model |  |  | [1] Zhuang 1996 | Table 10, p. 13, row 17 |  |
-| CuR |  | -12.7 kJ/mol (basis unstated) |  | model |  |  | [1] Zhuang 1996 | Table 10, p. 13, row 15 |  |
+| Cu2R |  | -36 kJ/mol (basis unstated) |  | unspecified |  |  | [1] Zhuang 1996; _cites ref. 88Sub3_ | Table 10, p. 13, row 12; `ORC-G6UZNDXXRT` |  |
+| Cu2R |  | -30.9 kJ/mol (basis unstated) |  | model |  |  | [1] Zhuang 1996 | Table 10, p. 13, row 13; `ORC-W3VW4REHYJ` |  |
+| Cu2R |  | -14.8 kJ/mol (basis unstated) |  | model |  |  | [1] Zhuang 1996 | Table 10, p. 13, row 11; `ORC-232VUJ6DNX` |  |
+| Cu2R |  | -14.8 kJ/mol (basis unstated) |  | unspecified |  |  | [1] Zhuang 1996; _cites ref. 94Fit_ | Table 10, p. 13, row 14; `ORC-MIY3BYARDU` |  |
+| Cu4R |  | -21.9 kJ/mol (basis unstated) |  | model |  |  | [1] Zhuang 1996 | Table 10, p. 13, row 10; `ORC-JEWZ4BEQXT` |  |
+| Cu4R |  | -16.4 kJ/mol (basis unstated) |  | unspecified |  |  | [1] Zhuang 1996; _cites ref. 88Sub3_ | Table 10, p. 13, row 9; `ORC-4A4EL2AEHY` |  |
+| Cu4R |  | -12.4 kJ/mol (basis unstated) |  | model |  |  | [1] Zhuang 1996 | Table 10, p. 13, row 8; `ORC-4AVZOAT2ZN` |  |
+| Cu5R |  | -20.5 kJ/mol (basis unstated) |  | unspecified |  |  | [1] Zhuang 1996; _cites ref. 88Sub3_ | Table 10, p. 13, row 6; `ORC-Q3AHDWSZDE` |  |
+| Cu5R |  | -18.6 kJ/mol (basis unstated) |  | model |  |  | [1] Zhuang 1996 | Table 10, p. 13, row 7; `ORC-TQ6VAIDV4Z` |  |
+| Cu5R |  | -11.5 kJ/mol (basis unstated) |  | model |  |  | [1] Zhuang 1996 | Table 10, p. 13, row 5; `ORC-5OT2NXQPCJ` |  |
+| Cu6R |  | -20.3 kJ/mol (basis unstated) |  | unspecified |  |  | [1] Zhuang 1996; _cites ref. 88Sub3_ | Table 10, p. 13, row 2; `ORC-C2ACUVFH3P` |  |
+| Cu6R |  | -16 kJ/mol (basis unstated) |  | model |  |  | [1] Zhuang 1996 | Table 10, p. 13, row 3; `ORC-EQTPBLHAYD` |  |
+| Cu6R |  | -12.7 kJ/mol (basis unstated) |  | model |  |  | [1] Zhuang 1996 | Table 10, p. 13, row 15; `ORC-WAMJI6QFYO.16c222` |  |
+| Cu6R |  | -10.1 kJ/mol (basis unstated) |  | model |  |  | [1] Zhuang 1996 | Table 10, p. 13, row 1; `ORC-4ANBZJ53MU` |  |
+| Cu6R |  | -10.1 kJ/mol (basis unstated) |  | unspecified |  |  | [1] Zhuang 1996; _cites ref. 94Fit_ | Table 10, p. 13, row 4; `ORC-YEGXOO2TPJ` |  |
+| CuR |  | -32.6 kJ/mol (basis unstated) |  | unspecified |  |  | [1] Zhuang 1996; _cites ref. 88Sub3_ | Table 10, p. 13, row 16; `ORC-TO6HVOW5QA` |  |
+| CuR |  | -30.1 kJ/mol (basis unstated) |  | model |  |  | [1] Zhuang 1996 | Table 10, p. 13, row 17; `ORC-NGF4T6FNB7` |  |
+| CuR |  | -12.7 kJ/mol (basis unstated) |  | model |  |  | [1] Zhuang 1996 | Table 10, p. 13, row 15; `ORC-WAMJI6QFYO.0931de` |  |
 
 ## Sources
 
@@ -89,4 +89,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -33,21 +33,21 @@ Table: Phase transition, Te–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1290 K | 1290 | congruent transformation: Experimental, this work | experimental | [1] Feutelais 1997 | Table 2, p. 2, row 14 |  |
-| Phase transition | 1290 K | 1290 | congruent transformation: \[63Kul\] | experimental | [1] Feutelais 1997; _cites Kulwicki 1963_ | Table 2, p. 2, row 5 |  |
-| Phase transition | 1290 K | 1290 | congruent transformation: \[70Nar\] | experimental | [1] Feutelais 1997; _cites Narita 1970_ [doi](https://doi.org/10.1143/jjap.9.1278) | Table 2, p. 2, row 10 |  |
-| Phase transition | 1295 K | 1295 | congruent transformation: \[64Car\] | experimental | [1] Feutelais 1997; _cites Carides 1964_ [doi](https://doi.org/10.1016/0038-1098%2864%2990365-5) | Table 2, p. 2, row 6 |  |
-| Phase transition | 1295 K | 1295 | congruent transformation: \[72Vig\] | experimental | [1] Feutelais 1997; _cites Vigdorovich 1972_ | Table 2, p. 2, row 11 |  |
-| Phase transition | 1300 K | 1300 | congruent transformation: \[61Mas\] | experimental | [1] Feutelais 1997; _cites Mason 1961_ | Table 2, p. 2, row 4 |  |
-| Phase transition | 1303.5 K | 1303.5 | congruent transformation: \[67Sys\] | experimental | [1] Feutelais 1997; _cites Sysoev 1967_ | Table 2, p. 2, row 9 |  |
-| Phase transition | 1512.15 K | 1512.15 | congruent transformation: \[60Kru\] | experimental | [1] Feutelais 1997; _cites Krucheanu 1960_ | Table 2, p. 2, row 2 |  |
-| Phase transition | 1512.15 K | 1512.15 | congruent transformation: \[61Aig\] | experimental | [1] Feutelais 1997; _cites Aigrain 1961_ | Table 2, p. 2, row 3 |  |
-| Phase transition | 1515.15 K | 1515.15 | congruent transformation: \[12Kob\] | experimental | [1] Feutelais 1997; _cites Kobayashi 1912_ | Table 2, p. 2, row 1 |  |
-| Phase transition | 1523.15 K | 1523.15 | congruent transformation: \[64Gro\] | experimental | [1] Feutelais 1997; _cites Gromakov 1964_ | Table 2, p. 2, row 7 |  |
-| Phase transition | 1563.15 K | 1563.15 | congruent transformation: \[65Fis\] | experimental | [1] Feutelais 1997; _cites ref. 65Fis_ | Table 2, p. 2, row 8 |  |
-| Phase transition | 1570.15 K | 1570.15 | congruent transformation: Calculated, this work | model | [1] Feutelais 1997 | Table 2, p. 2, row 15 |  |
-| Phase transition | 1571.15 K | 1571.15 | congruent transformation: \[74Ger\] | experimental | [1] Feutelais 1997; _cites Ya 1974_ | Table 2, p. 2, row 12 |  |
-| Phase transition | 1571.15 K | 1571.15 | congruent transformation: \[90Nas, 92Nas\] | experimental | [1] Feutelais 1997; _cites Nasar 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990317-d) | Table 2, p. 2, row 13 |  |
+| Phase transition | 1290 K | 1290 | congruent transformation: Experimental, this work | experimental | [1] Feutelais 1997 | Table 2, p. 2, row 14; `ORC-EOFN22IC5Y` |  |
+| Phase transition | 1290 K | 1290 | congruent transformation: \[63Kul\] | experimental | [1] Feutelais 1997; _cites Kulwicki 1963_ | Table 2, p. 2, row 5; `ORC-TEAXTX6Q74` |  |
+| Phase transition | 1290 K | 1290 | congruent transformation: \[70Nar\] | experimental | [1] Feutelais 1997; _cites Narita 1970_ [doi](https://doi.org/10.1143/jjap.9.1278) | Table 2, p. 2, row 10; `ORC-ALYP7DHAVK` |  |
+| Phase transition | 1295 K | 1295 | congruent transformation: \[64Car\] | experimental | [1] Feutelais 1997; _cites Carides 1964_ [doi](https://doi.org/10.1016/0038-1098%2864%2990365-5) | Table 2, p. 2, row 6; `ORC-FE3KIFAEEB` |  |
+| Phase transition | 1295 K | 1295 | congruent transformation: \[72Vig\] | experimental | [1] Feutelais 1997; _cites Vigdorovich 1972_ | Table 2, p. 2, row 11; `ORC-LWQDXEY5GU` |  |
+| Phase transition | 1300 K | 1300 | congruent transformation: \[61Mas\] | experimental | [1] Feutelais 1997; _cites Mason 1961_ | Table 2, p. 2, row 4; `ORC-737ITZG4BW` |  |
+| Phase transition | 1303.5 K | 1303.5 | congruent transformation: \[67Sys\] | experimental | [1] Feutelais 1997; _cites Sysoev 1967_ | Table 2, p. 2, row 9; `ORC-ZTL6ZEEWA4` |  |
+| Phase transition | 1512.15 K | 1512.15 | congruent transformation: \[60Kru\] | experimental | [1] Feutelais 1997; _cites Krucheanu 1960_ | Table 2, p. 2, row 2; `ORC-KMU35FO7HY` |  |
+| Phase transition | 1512.15 K | 1512.15 | congruent transformation: \[61Aig\] | experimental | [1] Feutelais 1997; _cites Aigrain 1961_ | Table 2, p. 2, row 3; `ORC-R2UQUFFHUY` |  |
+| Phase transition | 1515.15 K | 1515.15 | congruent transformation: \[12Kob\] | experimental | [1] Feutelais 1997; _cites Kobayashi 1912_ | Table 2, p. 2, row 1; `ORC-ETXSVPOH66` |  |
+| Phase transition | 1523.15 K | 1523.15 | congruent transformation: \[64Gro\] | experimental | [1] Feutelais 1997; _cites Gromakov 1964_ | Table 2, p. 2, row 7; `ORC-ZLJ74WQNTL` |  |
+| Phase transition | 1563.15 K | 1563.15 | congruent transformation: \[65Fis\] | experimental | [1] Feutelais 1997; _cites ref. 65Fis_ | Table 2, p. 2, row 8; `ORC-FORG2O7JJD` |  |
+| Phase transition | 1570.15 K | 1570.15 | congruent transformation: Calculated, this work | model | [1] Feutelais 1997 | Table 2, p. 2, row 15; `ORC-F2VHBNMJVL` |  |
+| Phase transition | 1571.15 K | 1571.15 | congruent transformation: \[74Ger\] | experimental | [1] Feutelais 1997; _cites Ya 1974_ | Table 2, p. 2, row 12; `ORC-554QN72YGR` |  |
+| Phase transition | 1571.15 K | 1571.15 | congruent transformation: \[90Nas, 92Nas\] | experimental | [1] Feutelais 1997; _cites Nasar 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990317-d) | Table 2, p. 2, row 13; `ORC-BCUUS4JI7A` |  |
 
 ### Phase equilibrium (8)
 
@@ -55,14 +55,14 @@ Table: Phase equilibrium, Te–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 449 | other; _liquid: Te 0.8, Zn 0.2_ | experimental | [1] Feutelais 1997 | Table 1, p. 2, row 6 |  |
-| Phase composition |  | 811.9 | other; _liquid: Te 0.4, Zn 0.6_ | experimental | [1] Feutelais 1997 | Table 1, p. 2, row 4 |  |
-| Phase composition |  | 812.75 | other; _liquid: Te 0.38, Zn 0.62_ | experimental | [1] Feutelais 1997 | Table 1, p. 2, row 3 |  |
-| Phase composition |  | 812.85 | other; _liquid: Te 0.32, Zn 0.68_ | experimental | [1] Feutelais 1997 | Table 1, p. 2, row 2 |  |
-| Phase composition |  | 812.95 | other; _liquid: Te 0.2, Zn 0.8_ | experimental | [1] Feutelais 1997 | Table 1, p. 2, row 1 |  |
-| Phase composition |  | 1290 | other; _liquid: Te 0.5, Zn 0.5_ | experimental | [1] Feutelais 1997 | Table 1, p. 2, row 5 |  |
-| Phase composition |  | 1478.15 | other; _liquid: Te 0.4, Zn 0.6_ | experimental | [1] Feutelais 1997 | Table 1, p. 2, row 8 |  |
-| Phase composition |  | 1480.15 | other; _liquid: Te 0.2, Zn 0.8_ | experimental | [1] Feutelais 1997 | Table 1, p. 2, row 7 |  |
+| Phase composition |  | 449 | other; _liquid: Te 0.8, Zn 0.2_ | experimental | [1] Feutelais 1997 | Table 1, p. 2, row 6; `ORC-FMG43J7RA2` |  |
+| Phase composition |  | 811.9 | other; _liquid: Te 0.4, Zn 0.6_ | experimental | [1] Feutelais 1997 | Table 1, p. 2, row 4; `ORC-C4XXFWCGEJ` |  |
+| Phase composition |  | 812.75 | other; _liquid: Te 0.38, Zn 0.62_ | experimental | [1] Feutelais 1997 | Table 1, p. 2, row 3; `ORC-TI672BJITT` |  |
+| Phase composition |  | 812.85 | other; _liquid: Te 0.32, Zn 0.68_ | experimental | [1] Feutelais 1997 | Table 1, p. 2, row 2; `ORC-2G3VRFM6PV` |  |
+| Phase composition |  | 812.95 | other; _liquid: Te 0.2, Zn 0.8_ | experimental | [1] Feutelais 1997 | Table 1, p. 2, row 1; `ORC-6F73EV4LO6` |  |
+| Phase composition |  | 1290 | other; _liquid: Te 0.5, Zn 0.5_ | experimental | [1] Feutelais 1997 | Table 1, p. 2, row 5; `ORC-FIS6W7U2Y3` |  |
+| Phase composition |  | 1478.15 | other; _liquid: Te 0.4, Zn 0.6_ | experimental | [1] Feutelais 1997 | Table 1, p. 2, row 8; `ORC-3VISAA4G4G` |  |
+| Phase composition |  | 1480.15 | other; _liquid: Te 0.2, Zn 0.8_ | experimental | [1] Feutelais 1997 | Table 1, p. 2, row 7; `ORC-ROGPKDK5DL` |  |
 
 ### Heat capacity / entropy / enthalpy (1)
 
@@ -70,7 +70,7 @@ Table: Heat capacity / entropy / enthalpy, Te–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Heat capacity; _printed: heat capacity_ | 24.85 unspecified | 298.15 |  | experimental | [1] Feutelais 1997; _cites Mills 1974_ | p. 10 | “The calculated heat capacity for Te0.sZn0.5 (T = 298 K) is 25.40 J/mol 9K in agreement with the value 24.85 J/mol 9 K proposed by \[74Mil\].” |
+| Heat capacity; _printed: heat capacity_ | 24.85 unspecified | 298.15 |  | experimental | [1] Feutelais 1997; _cites Mills 1974_ | p. 10; `ORC-KQ5WYHRLCS` | “The calculated heat capacity for Te0.sZn0.5 (T = 298 K) is 25.40 J/mol 9K in agreement with the value 24.85 J/mol 9 K proposed by \[74Mil\].” |
 
 ## Sources
 
@@ -124,4 +124,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

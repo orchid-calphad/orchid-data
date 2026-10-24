@@ -14,11 +14,11 @@ Table: Enthalpy of formation of Si2U reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -43.89 kJ/mol-atom ± 4.18 | USi2 | 298.15 | experimental | Activity meas | [Si–U](https://data.orchid-project.org/systems/SI-U.html) | [1] Berche 2009; _cites Alcock 1962_ | Table 2, p. 2, row 8 |  |
-| -43.47 kJ/mol-atom ± 0.42 | USi2 | 298.15 | experimental | Direct comb. calorimetry | [Si–U](https://data.orchid-project.org/systems/SI-U.html) | [1] Berche 2009; _cites Gross 1962_ | Table 2, p. 2, row 6 |  |
-| -42.64 kJ/mol-atom ± 1.25 | USi2 | 298.15 | experimental | Te calorimetry | [Si–U](https://data.orchid-project.org/systems/SI-U.html) | [1] Berche 2009; _cites Gross 1962_ | Table 2, p. 2, row 7 |  |
-| -43.33 kJ/mol-atom | USi2 | 298.15 | model | Modelling | [Si–U](https://data.orchid-project.org/systems/SI-U.html) | [1] Berche 2009 | Table 2, p. 2, row 10 |  |
-| -43.19 kJ/mol-atom | USi2 | 298.15 | model | Estimation | [Si–U](https://data.orchid-project.org/systems/SI-U.html) | [1] Berche 2009; _cites Rand 2009_ | Table 2, p. 2, row 9 |  |
+| -43.89 kJ/mol-atom ± 4.18 | USi2 | 298.15 | experimental | Activity meas | [Si–U](https://data.orchid-project.org/systems/SI-U.html) | [1] Berche 2009; _cites Alcock 1962_ | Table 2, p. 2, row 8; `ORC-ZBLVBWLP4M` |  |
+| -43.47 kJ/mol-atom ± 0.42 | USi2 | 298.15 | experimental | Direct comb. calorimetry | [Si–U](https://data.orchid-project.org/systems/SI-U.html) | [1] Berche 2009; _cites Gross 1962_ | Table 2, p. 2, row 6; `ORC-Q6OGIGUYRX` |  |
+| -42.64 kJ/mol-atom ± 1.25 | USi2 | 298.15 | experimental | Te calorimetry | [Si–U](https://data.orchid-project.org/systems/SI-U.html) | [1] Berche 2009; _cites Gross 1962_ | Table 2, p. 2, row 7; `ORC-PN7BWE5QAM` |  |
+| -43.33 kJ/mol-atom | USi2 | 298.15 | model | Modelling | [Si–U](https://data.orchid-project.org/systems/SI-U.html) | [1] Berche 2009 | Table 2, p. 2, row 10; `ORC-MOW2QYXAY7` |  |
+| -43.19 kJ/mol-atom | USi2 | 298.15 | model | Estimation | [Si–U](https://data.orchid-project.org/systems/SI-U.html) | [1] Berche 2009; _cites Rand 2009_ | Table 2, p. 2, row 9; `ORC-M32IV77OLV` |  |
 
 ### Uncertainty budget
 
@@ -98,4 +98,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

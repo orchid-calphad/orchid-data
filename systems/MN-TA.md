@@ -62,17 +62,17 @@ Table: Crystal structure, Mn–Ta system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 4.91376 Å ± 4.000e-5 | 298.15 | Ta0.9Mn2.1; _alloy: Mn 0.57, Ta 0.43_ | experimental | [1] Yan 2021 | Table 3, p. 9, row 3 |  |
-| Lattice a | 11.4546 Å ± 1.000e-4 | 298.15 | Ta2.78Mn3.22O0.33; _alloy: Mn 0.57, Ta 0.43_ | experimental | [1] Yan 2021 | Table 3, p. 9, row 4 |  |
-| Lattice a | 11.4088 Å ± 3.000e-4 | 298.15 | Ta2.84Mn3.16O0.23; _alloy: Mn 0.57, Ta 0.43_ | experimental | [1] Yan 2021 | Table 3, p. 9, row 6 |  |
-| Lattice a | 11.2859 Å ± 2.000e-4 | 298.15 | Ta3.01Mn2.99O0.13; _alloy: Mn 0.57, Ta 0.43_ | experimental | [1] Yan 2021 | Table 3, p. 9, row 7 |  |
-| Lattice a | 4.868 Å ± 1.000e-4 | 298.15 | TaMn2; _alloy: Mn 0.57, Ta 0.43_ | experimental | [1] Yan 2021 | Table 3, p. 9, row 5 |  |
-| Lattice a | 4.87077 Å ± 7.000e-5 | 300 | Ta(TaxMn1−x)2; _alloy: Ta 0.666667_ | experimental | [1] Yan 2021 | Table 1, p. 5, row 1 |  |
-| Lattice b | 4.87077 Å ± 7.000e-5 | 300 | Ta(TaxMn1−x)2; _alloy: Ta 0.666667_ | experimental | [1] Yan 2021 | Table 1, p. 5, row 1 |  |
-| Lattice c | 8.03961 Å ± 8.000e-5 | 298.15 | Ta0.9Mn2.1; _alloy: Mn 0.57, Ta 0.43_ | experimental | [1] Yan 2021 | Table 3, p. 9, row 3 |  |
-| Lattice c | 7.9713 Å ± 2.000e-4 | 298.15 | TaMn2; _alloy: Mn 0.57, Ta 0.43_ | experimental | [1] Yan 2021 | Table 3, p. 9, row 5 |  |
-| Lattice c | 7.97175 Å ± 1.100e-4 | 300 | Ta(TaxMn1−x)2; _alloy: Ta 0.666667_ | experimental | [1] Yan 2021 | Table 1, p. 5, row 1 |  |
-| lattice a b | 0.487077 nm ± 7.000e-6 | 300 | Ta(TaxMn1−x)2; _alloy: Ta 0.666667_ | experimental | [1] Yan 2021 | Table 1, p. 5, row 1 |  |
+| Lattice a | 4.91376 Å ± 4.000e-5 | 298.15 | Ta0.9Mn2.1; _alloy: Mn 0.57, Ta 0.43_ | experimental | [1] Yan 2021 | Table 3, p. 9, row 3; `ORC-SHMEUCLDWU.1a72a0` |  |
+| Lattice a | 11.4546 Å ± 1.000e-4 | 298.15 | Ta2.78Mn3.22O0.33; _alloy: Mn 0.57, Ta 0.43_ | experimental | [1] Yan 2021 | Table 3, p. 9, row 4; `ORC-5HMHLPMTIL.061757` |  |
+| Lattice a | 11.4088 Å ± 3.000e-4 | 298.15 | Ta2.84Mn3.16O0.23; _alloy: Mn 0.57, Ta 0.43_ | experimental | [1] Yan 2021 | Table 3, p. 9, row 6; `ORC-ABC7LA4JBU.1b66e6` |  |
+| Lattice a | 11.2859 Å ± 2.000e-4 | 298.15 | Ta3.01Mn2.99O0.13; _alloy: Mn 0.57, Ta 0.43_ | experimental | [1] Yan 2021 | Table 3, p. 9, row 7; `ORC-KOFO5B57LW.babca6` |  |
+| Lattice a | 4.868 Å ± 1.000e-4 | 298.15 | TaMn2; _alloy: Mn 0.57, Ta 0.43_ | experimental | [1] Yan 2021 | Table 3, p. 9, row 5; `ORC-VRANWT7OS7.67aee4` |  |
+| Lattice a | 4.87077 Å ± 7.000e-5 | 300 | Ta(TaxMn1−x)2; _alloy: Ta 0.666667_ | experimental | [1] Yan 2021 | Table 1, p. 5, row 1; `ORC-U4EJCSBYBU.1f6572` |  |
+| Lattice b | 4.87077 Å ± 7.000e-5 | 300 | Ta(TaxMn1−x)2; _alloy: Ta 0.666667_ | experimental | [1] Yan 2021 | Table 1, p. 5, row 1; `ORC-U4EJCSBYBU.ec28f3` |  |
+| Lattice c | 8.03961 Å ± 8.000e-5 | 298.15 | Ta0.9Mn2.1; _alloy: Mn 0.57, Ta 0.43_ | experimental | [1] Yan 2021 | Table 3, p. 9, row 3; `ORC-SHMEUCLDWU.313541` |  |
+| Lattice c | 7.9713 Å ± 2.000e-4 | 298.15 | TaMn2; _alloy: Mn 0.57, Ta 0.43_ | experimental | [1] Yan 2021 | Table 3, p. 9, row 5; `ORC-VRANWT7OS7.2c0f68` |  |
+| Lattice c | 7.97175 Å ± 1.100e-4 | 300 | Ta(TaxMn1−x)2; _alloy: Ta 0.666667_ | experimental | [1] Yan 2021 | Table 1, p. 5, row 1; `ORC-U4EJCSBYBU.52c58c` |  |
+| lattice a b | 0.487077 nm ± 7.000e-6 | 300 | Ta(TaxMn1−x)2; _alloy: Ta 0.666667_ | experimental | [1] Yan 2021 | Table 1, p. 5, row 1; `ORC-U4EJCSBYBU.343c2e` |  |
 
 ## Sources
 
@@ -137,4 +137,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

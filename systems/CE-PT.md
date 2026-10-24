@@ -65,36 +65,36 @@ Table: Invariant reactions reported in the literature for the Ce–Pt system (30
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2044.15 | congruent melting: L -> CePt5 | L: Pt 0.795; CePt5: Pt 0.795 | model | [1] Liu 2011 | Table 3, p. 4, row 2 |  |
-| 2043.15 | congruent melting: L -> CePt5 | L: Pt 0.795; CePt5: Pt 0.795 | experimental | [1] Liu 2011; _cites Janghorban 2010_ [doi](https://doi.org/10.1016/j.intermet.2010.07.012) | Table 3, p. 4, row 1 |  |
-| 2024.15 | congruent melting: L -> CePt2 | L: Pt 0.73; CePt2: Pt 0.73 | model | [1] Liu 2011 | Table 3, p. 4, row 4 |  |
-| 2023.15 | congruent melting: L -> CePt2 | L: Pt 0.75; CePt2: Pt 0.75 | experimental | [1] Liu 2011; _cites Janghorban 2010_ [doi](https://doi.org/10.1016/j.intermet.2010.07.012) | Table 3, p. 4, row 3 |  |
-| 1997.44 | peritectic: L + CePt5 -> CePtx | L: Pt 0.795; CePt5: Pt 0.833; CePtx: Pt 0.82 | model | [1] Liu 2011 | Table 3, p. 4, row 6 |  |
-| 1997.15 | peritectic: L + CePt5 -> CePtx | CePt5: Pt 0.833; CePtx: Pt 0.82 | experimental | [1] Liu 2011; _cites Janghorban 2010_ [doi](https://doi.org/10.1016/j.intermet.2010.07.012) | Table 3, p. 4, row 5 |  |
-| 1961.15 | eutectic: L -> CePt2 + CePtx | L: Pt 0.775; CePt2: Pt 0.752; CePtx: Pt 0.82 | experimental | [1] Liu 2011; _cites Janghorban 2010_ [doi](https://doi.org/10.1016/j.intermet.2010.07.012) | Table 3, p. 4, row 7 |  |
-| 1960.98 | eutectic: L -> CePt2 + CePtx | L: Pt 0.779; CePt2: Pt 0.752; CePtx: Pt 0.82 | model | [1] Liu 2011 | Table 3, p. 4, row 8 |  |
-| 1848.15 | eutectic: L ↔ CePt5 + (Pt) |  | experimental | [1] Liu 2011; _cites Voronova 1983_ | p. 1 | “Regarding to the information on phase equilibria and phase transformations, Vronova et al. \[13\] reported that the temperature of the eutectic reaction (L ↔ CePt5 + (Pt)) and its eutectic point are 1575 °C and 92 at.% Pt, respectively.” |
-| 1802.15 | eutectic: L -> CePt5 + (Pt) | L: Pt 0.92; CePt5: Pt 0.833; (Pt): Pt 1 | experimental | [1] Liu 2011; _cites Janghorban 2010_ [doi](https://doi.org/10.1016/j.intermet.2010.07.012) | Table 3, p. 4, row 9 |  |
-| 1802.13 | eutectic: L -> CePt5 + (Pt) | L: Pt 0.924; CePt5: Pt 0.833; (Pt): Pt 1 | model | [1] Liu 2011 | Table 3, p. 4, row 10 |  |
-| 1790.15 | congruent melting: L -> CePt | L: Pt 0.5; CePt: Pt 0.5 | model | [1] Liu 2011 | Table 3, p. 4, row 12 |  |
-| 1790.15 | congruent melting: L -> CePt | L: Pt 0.5; CePt: Pt 0.5 | experimental | [1] Liu 2011; _cites Janghorban 2010_ [doi](https://doi.org/10.1016/j.intermet.2010.07.012) | Table 3, p. 4, row 11 |  |
-| 1632.33 | eutectic: L -> CePt + Ce3Pt4 | L: Pt 0.57; CePt: Pt 0.5; Ce3Pt4: Pt 0.5714 | model | [1] Liu 2011 | Table 3, p. 4, row 14 |  |
-| 1632.15 | eutectic: L -> CePt + Ce3Pt4 | CePt: Pt 0.5; Ce3Pt4: Pt 0.5714 | experimental | [1] Liu 2011; _cites Janghorban 2010_ [doi](https://doi.org/10.1016/j.intermet.2010.07.012) | Table 3, p. 4, row 13 |  |
-| 1584.15 | eutectic: L -> Ce3Pt4 + CePt2 | L: Pt 0.59; Ce3Pt4: Pt 0.5714; CePt2: Pt 0.667 | experimental | [1] Liu 2011; _cites Janghorban 2010_ [doi](https://doi.org/10.1016/j.intermet.2010.07.012) | Table 3, p. 4, row 15 |  |
-| 1584.07 | eutectic: L -> Ce3Pt4 + CePt2 | L: Pt 0.606; Ce3Pt4: Pt 0.5714; CePt2: Pt 0.667 | model | [1] Liu 2011 | Table 3, p. 4, row 16 |  |
-| 1348.15 | peritectic: L + CePt -> Ce5Pt4 | L: Pt 0.365; CePt: Pt 0.5; Ce5Pt4: Pt 0.444 | model | [1] Liu 2011 | Table 3, p. 4, row 18 |  |
-| 1348.15 | peritectic: L + CePt -> Ce5Pt4 | L: Pt 0.37; CePt: Pt 0.5; Ce5Pt4: Pt 0.444 | experimental | [1] Liu 2011; _cites Janghorban 2010_ [doi](https://doi.org/10.1016/j.intermet.2010.07.012) | Table 3, p. 4, row 17 |  |
-| 1285.15 | peritectic: L + Ce5Pt4 -> Ce3Pt2 | L: Pt 0.36; Ce5Pt4: Pt 0.444; Ce3Pt2: Pt 0.4 | experimental | [1] Liu 2011; _cites Janghorban 2010_ [doi](https://doi.org/10.1016/j.intermet.2010.07.012) | Table 3, p. 4, row 19 |  |
-| 1285.15 | peritectic: L + Ce5Pt4 -> Ce3Pt2 | L: Pt 0.347; Ce5Pt4: Pt 0.444; Ce3Pt2: Pt 0.4 | model | [1] Liu 2011 | Table 3, p. 4, row 20 |  |
-| 1209.15 | peritectic: L + Ce3Pt2 -> Ce5Pt3 | Ce3Pt2: Pt 0.4; Ce5Pt3: Pt 0.382 | experimental | [1] Liu 2011; _cites Janghorban 2010_ [doi](https://doi.org/10.1016/j.intermet.2010.07.012) | Table 3, p. 4, row 21 |  |
-| 1209.15 | peritectic: L + Ce3Pt2 -> Ce5Pt3 | L: Pt 0.313; Ce3Pt2: Pt 0.4; Ce5Pt3: Pt 0.382 | model | [1] Liu 2011 | Table 3, p. 4, row 22 |  |
-| 1134.15 | peritectic: L + Ce5Pt3 -> Ce7Pt3 | L: Pt 0.279; Ce5Pt3: Pt 0.375; Ce7Pt3: Pt 0.3 | model | [1] Liu 2011 | Table 3, p. 4, row 24 |  |
-| 1134.15 | peritectic: L + Ce5Pt3 -> Ce7Pt3 | Ce5Pt3: Pt 0.375; Ce7Pt3: Pt 0.3 | experimental | [1] Liu 2011; _cites Janghorban 2010_ [doi](https://doi.org/10.1016/j.intermet.2010.07.012) | Table 3, p. 4, row 23 |  |
-| 1077.15 | eutectoid: Ce5Pt4 -> Ce3Pt2 + CePt | Ce5Pt4: Pt 0.444; Ce3Pt2: Pt 0.4; CePt: Pt 0.5 | model | [1] Liu 2011 | Table 3, p. 4, row 26 |  |
-| 987.15 | eutectoid: (δCe) -> L + (γCe) |  | experimental | [1] Liu 2011; _cites Janghorban 2010_ [doi](https://doi.org/10.1016/j.intermet.2010.07.012) | Table 3, p. 4, row 27 |  |
-| 987.05 | eutectoid: (δCe) -> L + (γCe) | (δCe): Pt 0.011; L: Pt 0.07; (γCe): Pt 0.008 | model | [1] Liu 2011 | Table 3, p. 4, row 28 |  |
-| 922.15 | eutectic: L -> (γCe) + Ce7Pt3 | L: Pt 0.115; (γCe): Pt 0.012; Ce7Pt3: Pt 0.3 | model | [1] Liu 2011 | Table 3, p. 4, row 30 |  |
-| 922.15 | eutectic: L -> (γCe) + Ce7Pt3 | L: Pt 0.115; (γCe): Pt 0.01; Ce7Pt3: Pt 0.3 | experimental | [1] Liu 2011; _cites Janghorban 2010_ [doi](https://doi.org/10.1016/j.intermet.2010.07.012) | Table 3, p. 4, row 29 |  |
+| 2044.15 | congruent melting: L -> CePt5 | L: Pt 0.795; CePt5: Pt 0.795 | model | [1] Liu 2011 | Table 3, p. 4, row 2; `ORC-L433SC4LRE` |  |
+| 2043.15 | congruent melting: L -> CePt5 | L: Pt 0.795; CePt5: Pt 0.795 | experimental | [1] Liu 2011; _cites Janghorban 2010_ [doi](https://doi.org/10.1016/j.intermet.2010.07.012) | Table 3, p. 4, row 1; `ORC-33M3LBEVDL` |  |
+| 2024.15 | congruent melting: L -> CePt2 | L: Pt 0.73; CePt2: Pt 0.73 | model | [1] Liu 2011 | Table 3, p. 4, row 4; `ORC-E66PWUDJ7A` |  |
+| 2023.15 | congruent melting: L -> CePt2 | L: Pt 0.75; CePt2: Pt 0.75 | experimental | [1] Liu 2011; _cites Janghorban 2010_ [doi](https://doi.org/10.1016/j.intermet.2010.07.012) | Table 3, p. 4, row 3; `ORC-NHBVALGYJL` |  |
+| 1997.44 | peritectic: L + CePt5 -> CePtx | L: Pt 0.795; CePt5: Pt 0.833; CePtx: Pt 0.82 | model | [1] Liu 2011 | Table 3, p. 4, row 6; `ORC-7DMOVBMU2J` |  |
+| 1997.15 | peritectic: L + CePt5 -> CePtx | CePt5: Pt 0.833; CePtx: Pt 0.82 | experimental | [1] Liu 2011; _cites Janghorban 2010_ [doi](https://doi.org/10.1016/j.intermet.2010.07.012) | Table 3, p. 4, row 5; `ORC-YHGDUIKZRW` |  |
+| 1961.15 | eutectic: L -> CePt2 + CePtx | L: Pt 0.775; CePt2: Pt 0.752; CePtx: Pt 0.82 | experimental | [1] Liu 2011; _cites Janghorban 2010_ [doi](https://doi.org/10.1016/j.intermet.2010.07.012) | Table 3, p. 4, row 7; `ORC-GCVQFTG3V4` |  |
+| 1960.98 | eutectic: L -> CePt2 + CePtx | L: Pt 0.779; CePt2: Pt 0.752; CePtx: Pt 0.82 | model | [1] Liu 2011 | Table 3, p. 4, row 8; `ORC-XQ4B7NRV52` |  |
+| 1848.15 | eutectic: L ↔ CePt5 + (Pt) |  | experimental | [1] Liu 2011; _cites Voronova 1983_ | p. 1; `ORC-VJTAW4T2TD` | “Regarding to the information on phase equilibria and phase transformations, Vronova et al. \[13\] reported that the temperature of the eutectic reaction (L ↔ CePt5 + (Pt)) and its eutectic point are 1575 °C and 92 at.% Pt, respectively.” |
+| 1802.15 | eutectic: L -> CePt5 + (Pt) | L: Pt 0.92; CePt5: Pt 0.833; (Pt): Pt 1 | experimental | [1] Liu 2011; _cites Janghorban 2010_ [doi](https://doi.org/10.1016/j.intermet.2010.07.012) | Table 3, p. 4, row 9; `ORC-TK3GE5YH4O` |  |
+| 1802.13 | eutectic: L -> CePt5 + (Pt) | L: Pt 0.924; CePt5: Pt 0.833; (Pt): Pt 1 | model | [1] Liu 2011 | Table 3, p. 4, row 10; `ORC-RLOCLUU6NQ` |  |
+| 1790.15 | congruent melting: L -> CePt | L: Pt 0.5; CePt: Pt 0.5 | model | [1] Liu 2011 | Table 3, p. 4, row 12; `ORC-CSWFQXXQGG` |  |
+| 1790.15 | congruent melting: L -> CePt | L: Pt 0.5; CePt: Pt 0.5 | experimental | [1] Liu 2011; _cites Janghorban 2010_ [doi](https://doi.org/10.1016/j.intermet.2010.07.012) | Table 3, p. 4, row 11; `ORC-P2XP35SQPV` |  |
+| 1632.33 | eutectic: L -> CePt + Ce3Pt4 | L: Pt 0.57; CePt: Pt 0.5; Ce3Pt4: Pt 0.5714 | model | [1] Liu 2011 | Table 3, p. 4, row 14; `ORC-PB3DQVZFF6` |  |
+| 1632.15 | eutectic: L -> CePt + Ce3Pt4 | CePt: Pt 0.5; Ce3Pt4: Pt 0.5714 | experimental | [1] Liu 2011; _cites Janghorban 2010_ [doi](https://doi.org/10.1016/j.intermet.2010.07.012) | Table 3, p. 4, row 13; `ORC-HA6NOHRJET` |  |
+| 1584.15 | eutectic: L -> Ce3Pt4 + CePt2 | L: Pt 0.59; Ce3Pt4: Pt 0.5714; CePt2: Pt 0.667 | experimental | [1] Liu 2011; _cites Janghorban 2010_ [doi](https://doi.org/10.1016/j.intermet.2010.07.012) | Table 3, p. 4, row 15; `ORC-SNM7FXSIM7` |  |
+| 1584.07 | eutectic: L -> Ce3Pt4 + CePt2 | L: Pt 0.606; Ce3Pt4: Pt 0.5714; CePt2: Pt 0.667 | model | [1] Liu 2011 | Table 3, p. 4, row 16; `ORC-JIWVPG7DFC` |  |
+| 1348.15 | peritectic: L + CePt -> Ce5Pt4 | L: Pt 0.365; CePt: Pt 0.5; Ce5Pt4: Pt 0.444 | model | [1] Liu 2011 | Table 3, p. 4, row 18; `ORC-DTOKFS3AU7` |  |
+| 1348.15 | peritectic: L + CePt -> Ce5Pt4 | L: Pt 0.37; CePt: Pt 0.5; Ce5Pt4: Pt 0.444 | experimental | [1] Liu 2011; _cites Janghorban 2010_ [doi](https://doi.org/10.1016/j.intermet.2010.07.012) | Table 3, p. 4, row 17; `ORC-RVCAYTTKDS` |  |
+| 1285.15 | peritectic: L + Ce5Pt4 -> Ce3Pt2 | L: Pt 0.36; Ce5Pt4: Pt 0.444; Ce3Pt2: Pt 0.4 | experimental | [1] Liu 2011; _cites Janghorban 2010_ [doi](https://doi.org/10.1016/j.intermet.2010.07.012) | Table 3, p. 4, row 19; `ORC-EOEUYUCAQ5` |  |
+| 1285.15 | peritectic: L + Ce5Pt4 -> Ce3Pt2 | L: Pt 0.347; Ce5Pt4: Pt 0.444; Ce3Pt2: Pt 0.4 | model | [1] Liu 2011 | Table 3, p. 4, row 20; `ORC-V44HOELYZY` |  |
+| 1209.15 | peritectic: L + Ce3Pt2 -> Ce5Pt3 | Ce3Pt2: Pt 0.4; Ce5Pt3: Pt 0.382 | experimental | [1] Liu 2011; _cites Janghorban 2010_ [doi](https://doi.org/10.1016/j.intermet.2010.07.012) | Table 3, p. 4, row 21; `ORC-BM7TIHMDV2` |  |
+| 1209.15 | peritectic: L + Ce3Pt2 -> Ce5Pt3 | L: Pt 0.313; Ce3Pt2: Pt 0.4; Ce5Pt3: Pt 0.382 | model | [1] Liu 2011 | Table 3, p. 4, row 22; `ORC-ERZYRQYO7W` |  |
+| 1134.15 | peritectic: L + Ce5Pt3 -> Ce7Pt3 | L: Pt 0.279; Ce5Pt3: Pt 0.375; Ce7Pt3: Pt 0.3 | model | [1] Liu 2011 | Table 3, p. 4, row 24; `ORC-RRTY2RKQQ5` |  |
+| 1134.15 | peritectic: L + Ce5Pt3 -> Ce7Pt3 | Ce5Pt3: Pt 0.375; Ce7Pt3: Pt 0.3 | experimental | [1] Liu 2011; _cites Janghorban 2010_ [doi](https://doi.org/10.1016/j.intermet.2010.07.012) | Table 3, p. 4, row 23; `ORC-VOZFHB5CG5` |  |
+| 1077.15 | eutectoid: Ce5Pt4 -> Ce3Pt2 + CePt | Ce5Pt4: Pt 0.444; Ce3Pt2: Pt 0.4; CePt: Pt 0.5 | model | [1] Liu 2011 | Table 3, p. 4, row 26; `ORC-TCQICNMVKV` |  |
+| 987.15 | eutectoid: (δCe) -> L + (γCe) |  | experimental | [1] Liu 2011; _cites Janghorban 2010_ [doi](https://doi.org/10.1016/j.intermet.2010.07.012) | Table 3, p. 4, row 27; `ORC-ODLZNDDKRG` |  |
+| 987.05 | eutectoid: (δCe) -> L + (γCe) | (δCe): Pt 0.011; L: Pt 0.07; (γCe): Pt 0.008 | model | [1] Liu 2011 | Table 3, p. 4, row 28; `ORC-IVR7C6VPBI` |  |
+| 922.15 | eutectic: L -> (γCe) + Ce7Pt3 | L: Pt 0.115; (γCe): Pt 0.012; Ce7Pt3: Pt 0.3 | model | [1] Liu 2011 | Table 3, p. 4, row 30; `ORC-JQT6PM4PA6` |  |
+| 922.15 | eutectic: L -> (γCe) + Ce7Pt3 | L: Pt 0.115; (γCe): Pt 0.01; Ce7Pt3: Pt 0.3 | experimental | [1] Liu 2011; _cites Janghorban 2010_ [doi](https://doi.org/10.1016/j.intermet.2010.07.012) | Table 3, p. 4, row 29; `ORC-ZP7VXJ22DB` |  |
 
 ## Sources
 
@@ -159,4 +159,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -29,31 +29,31 @@ Table: Invariant reactions reported in the literature for the B–Bi–La system
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2325.15 | Liquid = LaB6 + (B) | Liquid: B 0.95; LaB6: B 0.85714 | experimental | [1] Tang 2013; _cites Storms 2013_ | Table 4, p. 6, row 4 |  |
-| 2325.05 | Liquid = LaB6 + (B) | Liquid: B 0.98; LaB6: B 0.85714; (B): B 1 | model | [1] Tang 2013 | Table 4, p. 6, row 6 |  |
-| 2322.65 | Liquid = LaB6 + (B) | Liquid: B 0.9838; LaB6: B 0.85714 | model | [1] Tang 2013 | Table 4, p. 6, row 5 |  |
-| 2075.95 | Liquid + LaB6 = LaB4 | Liquid: B 0.5519; LaB6: B 0.85714; LaB4: B 0.8 | model | [1] Tang 2013 | Table 4, p. 6, row 12 |  |
-| 2074.95 | Liquid + LaB6 = LaB4 | Liquid: B 0.5847; LaB6: B 0.85714; LaB4: B 0.8 | model | [1] Tang 2013 | Table 4, p. 6, row 11 |  |
-| 2073.15 | Liquid + LaB6 = LaB4 | Liquid: B 0.667; LaB6: B 0.85714; LaB4: B 0.8 | experimental | [1] Tang 2013; _cites Storms 2013_ | Table 4, p. 6, row 10 |  |
-| 1888.15 | Liquid + La4Bi3 = LaBi | La4Bi3: Bi 0.4286; LaBi: Bi 0.5 | experimental | [1] Tang 2013; _cites Nomura 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990007-8) | Table 4, p. 6, row 31 |  |
-| 1884.85 | Liquid + La4Bi3 = LaBi | Liquid: Bi 0.5045; La4Bi3: Bi 0.4286; LaBi: Bi 0.5 | model | [1] Tang 2013 | Table 4, p. 6, row 33 |  |
-| 1861.85 | Liquid + La4Bi3 = LaBi | Liquid: Bi 0.5007; La4Bi3: Bi 0.4286; LaBi: Bi 0.5 | model | [1] Tang 2013 | Table 4, p. 6, row 32 |  |
-| 1623.15 | Liquid + La4Bi3 = La5Bi3 | La4Bi3: Bi 0.4286; La5Bi3: Bi 0.375 | experimental | [1] Tang 2013; _cites Nomura 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990007-8) | Table 4, p. 6, row 25 |  |
-| 1620.45 | Liquid + La4Bi3 = La5Bi3 | Liquid: Bi 0.2854; La4Bi3: Bi 0.4286; La5Bi3: Bi 0.375 | model | [1] Tang 2013 | Table 4, p. 6, row 27 |  |
-| 1619.45 | Liquid + La4Bi3 = La5Bi3 | Liquid: Bi 0.2692; La4Bi3: Bi 0.4286; La5Bi3: Bi 0.375 | model | [1] Tang 2013 | Table 4, p. 6, row 26 |  |
-| 1525.15 | Liquid + La5Bi3 = La2Bi | La5Bi3: Bi 0.375; La2Bi: Bi 0.3333 | experimental | [1] Tang 2013; _cites Nomura 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990007-8) | Table 4, p. 6, row 22 |  |
-| 1524.75 | Liquid + La5Bi3 = La2Bi | Liquid: Bi 0.2615; La5Bi3: Bi 0.375; La2Bi: Bi 0.3333 | model | [1] Tang 2013 | Table 4, p. 6, row 24 |  |
-| 1522.35 | Liquid + La5Bi3 = La2Bi | Liquid: Bi 0.2362; La5Bi3: Bi 0.375; La2Bi: Bi 0.3333 | model | [1] Tang 2013 | Table 4, p. 6, row 23 |  |
-| 1210.15 | Liquid + LaBi = LaBi2 | Liquid: Bi 0.7535; LaBi: Bi 0.5; LaBi2: Bi 0.6667 | model | [1] Tang 2013 | Table 4, p. 6, row 35 |  |
-| 1209.95 | Liquid + LaBi = LaBi2 | Liquid: Bi 0.711; LaBi: Bi 0.5; LaBi2: Bi 0.6667 | model | [1] Tang 2013 | Table 4, p. 6, row 36 |  |
-| 1205.15 | Liquid + LaBi = LaBi2 | LaBi: Bi 0.5; LaBi2: Bi 0.6667 | experimental | [1] Tang 2013; _cites Nomura 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990007-8) | Table 4, p. 6, row 34 |  |
-| 1193.05 | Liquid = LaB4 +Bcc(La) | Liquid: B 1.000e-4; LaB4: B 0.8; Bcc(La): B 0 | model | [1] Tang 2013 | Table 4, p. 6, row 15 |  |
-| 1192.85 | Liquid = LaB4 +Bcc(La) | Liquid: B 2.000e-4; LaB4: B 0.8; Bcc(La): B 0 | model | [1] Tang 2013 | Table 4, p. 6, row 14 |  |
-| 1191.15 | Liquid = LaB4 +Bcc(La) | Liquid: B 0.001; LaB4: B 0.8 | experimental | [1] Tang 2013; _cites Johnson 1961_ [doi](https://doi.org/10.1021/j100824a004) | Table 4, p. 6, row 13 |  |
-| 1098.25 | Liquid = Bcc(La) + La2Bi | Liquid: Bi 0.0868; Bcc(La): Bi 0.0205; La2Bi: Bi 0.3333 | model | [1] Tang 2013 | Table 4, p. 6, row 20 |  |
-| 1098.05 | Liquid = Bcc(La) + La2Bi | Liquid: Bi 0.0866; Bcc(La): Bi 0.0197; La2Bi: Bi 0.3333 | model | [1] Tang 2013 | Table 4, p. 6, row 21 |  |
-| 1093.15 | Liquid = Bcc(La) + La2Bi | La2Bi: Bi 0.3333 | experimental | [1] Tang 2013; _cites Nomura 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990007-8) | Table 4, p. 6, row 19 |  |
-| 544.55 | Liquid = LaBi2 + (Bi) | LaBi2: Bi 0.6667 | experimental | [1] Tang 2013; _cites Nomura 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990007-8) | Table 4, p. 6, row 37 |  |
+| 2325.15 | Liquid = LaB6 + (B) | Liquid: B 0.95; LaB6: B 0.85714 | experimental | [1] Tang 2013; _cites Storms 2013_ | Table 4, p. 6, row 4; `ORC-H4HN7XAT3H` |  |
+| 2325.05 | Liquid = LaB6 + (B) | Liquid: B 0.98; LaB6: B 0.85714; (B): B 1 | model | [1] Tang 2013 | Table 4, p. 6, row 6; `ORC-QBUKYXDVXG` |  |
+| 2322.65 | Liquid = LaB6 + (B) | Liquid: B 0.9838; LaB6: B 0.85714 | model | [1] Tang 2013 | Table 4, p. 6, row 5; `ORC-Z3N34ALP2B` |  |
+| 2075.95 | Liquid + LaB6 = LaB4 | Liquid: B 0.5519; LaB6: B 0.85714; LaB4: B 0.8 | model | [1] Tang 2013 | Table 4, p. 6, row 12; `ORC-JVETXK3SFU` |  |
+| 2074.95 | Liquid + LaB6 = LaB4 | Liquid: B 0.5847; LaB6: B 0.85714; LaB4: B 0.8 | model | [1] Tang 2013 | Table 4, p. 6, row 11; `ORC-IEDXHYZRZG` |  |
+| 2073.15 | Liquid + LaB6 = LaB4 | Liquid: B 0.667; LaB6: B 0.85714; LaB4: B 0.8 | experimental | [1] Tang 2013; _cites Storms 2013_ | Table 4, p. 6, row 10; `ORC-LHJBZD4DTZ` |  |
+| 1888.15 | Liquid + La4Bi3 = LaBi | La4Bi3: Bi 0.4286; LaBi: Bi 0.5 | experimental | [1] Tang 2013; _cites Nomura 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990007-8) | Table 4, p. 6, row 31; `ORC-7IYNDC5HF5` |  |
+| 1884.85 | Liquid + La4Bi3 = LaBi | Liquid: Bi 0.5045; La4Bi3: Bi 0.4286; LaBi: Bi 0.5 | model | [1] Tang 2013 | Table 4, p. 6, row 33; `ORC-BQ2L3ZPQR4` |  |
+| 1861.85 | Liquid + La4Bi3 = LaBi | Liquid: Bi 0.5007; La4Bi3: Bi 0.4286; LaBi: Bi 0.5 | model | [1] Tang 2013 | Table 4, p. 6, row 32; `ORC-LQLQENXNCT` |  |
+| 1623.15 | Liquid + La4Bi3 = La5Bi3 | La4Bi3: Bi 0.4286; La5Bi3: Bi 0.375 | experimental | [1] Tang 2013; _cites Nomura 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990007-8) | Table 4, p. 6, row 25; `ORC-5KUFWXTVPI` |  |
+| 1620.45 | Liquid + La4Bi3 = La5Bi3 | Liquid: Bi 0.2854; La4Bi3: Bi 0.4286; La5Bi3: Bi 0.375 | model | [1] Tang 2013 | Table 4, p. 6, row 27; `ORC-PIYDHALGOS` |  |
+| 1619.45 | Liquid + La4Bi3 = La5Bi3 | Liquid: Bi 0.2692; La4Bi3: Bi 0.4286; La5Bi3: Bi 0.375 | model | [1] Tang 2013 | Table 4, p. 6, row 26; `ORC-NYMR6WG5ON` |  |
+| 1525.15 | Liquid + La5Bi3 = La2Bi | La5Bi3: Bi 0.375; La2Bi: Bi 0.3333 | experimental | [1] Tang 2013; _cites Nomura 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990007-8) | Table 4, p. 6, row 22; `ORC-MENGFR66ID` |  |
+| 1524.75 | Liquid + La5Bi3 = La2Bi | Liquid: Bi 0.2615; La5Bi3: Bi 0.375; La2Bi: Bi 0.3333 | model | [1] Tang 2013 | Table 4, p. 6, row 24; `ORC-R6XKE3FPAY` |  |
+| 1522.35 | Liquid + La5Bi3 = La2Bi | Liquid: Bi 0.2362; La5Bi3: Bi 0.375; La2Bi: Bi 0.3333 | model | [1] Tang 2013 | Table 4, p. 6, row 23; `ORC-DKS24UANW3` |  |
+| 1210.15 | Liquid + LaBi = LaBi2 | Liquid: Bi 0.7535; LaBi: Bi 0.5; LaBi2: Bi 0.6667 | model | [1] Tang 2013 | Table 4, p. 6, row 35; `ORC-URAJXDUUO3` |  |
+| 1209.95 | Liquid + LaBi = LaBi2 | Liquid: Bi 0.711; LaBi: Bi 0.5; LaBi2: Bi 0.6667 | model | [1] Tang 2013 | Table 4, p. 6, row 36; `ORC-FQ5SMHPX63` |  |
+| 1205.15 | Liquid + LaBi = LaBi2 | LaBi: Bi 0.5; LaBi2: Bi 0.6667 | experimental | [1] Tang 2013; _cites Nomura 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990007-8) | Table 4, p. 6, row 34; `ORC-3LBM6SZGMF` |  |
+| 1193.05 | Liquid = LaB4 +Bcc(La) | Liquid: B 1.000e-4; LaB4: B 0.8; Bcc(La): B 0 | model | [1] Tang 2013 | Table 4, p. 6, row 15; `ORC-GSKAUECNCH` |  |
+| 1192.85 | Liquid = LaB4 +Bcc(La) | Liquid: B 2.000e-4; LaB4: B 0.8; Bcc(La): B 0 | model | [1] Tang 2013 | Table 4, p. 6, row 14; `ORC-FVVXGI2RY5` |  |
+| 1191.15 | Liquid = LaB4 +Bcc(La) | Liquid: B 0.001; LaB4: B 0.8 | experimental | [1] Tang 2013; _cites Johnson 1961_ [doi](https://doi.org/10.1021/j100824a004) | Table 4, p. 6, row 13; `ORC-RJ7PKKMNNJ` |  |
+| 1098.25 | Liquid = Bcc(La) + La2Bi | Liquid: Bi 0.0868; Bcc(La): Bi 0.0205; La2Bi: Bi 0.3333 | model | [1] Tang 2013 | Table 4, p. 6, row 20; `ORC-LW4BHXWLGN` |  |
+| 1098.05 | Liquid = Bcc(La) + La2Bi | Liquid: Bi 0.0866; Bcc(La): Bi 0.0197; La2Bi: Bi 0.3333 | model | [1] Tang 2013 | Table 4, p. 6, row 21; `ORC-EIVKMEP32V` |  |
+| 1093.15 | Liquid = Bcc(La) + La2Bi | La2Bi: Bi 0.3333 | experimental | [1] Tang 2013; _cites Nomura 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990007-8) | Table 4, p. 6, row 19; `ORC-RMEB2UTVUX` |  |
+| 544.55 | Liquid = LaBi2 + (Bi) | LaBi2: Bi 0.6667 | experimental | [1] Tang 2013; _cites Nomura 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990007-8) | Table 4, p. 6, row 37; `ORC-JQY3LNE3MO` |  |
 
 ## Other properties
 
@@ -63,10 +63,10 @@ Table: Crystal structure, B–Bi–La system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 5.052 Å | 0 | (αB); _alloy: Bi 0, La 0_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 8 |  |
-| Lattice a | 5.057 Å |  | (αB); _alloy: Bi 0, La 0_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 7 |  |
-| Lattice a | 10.12 Å | 0 | (βB); _alloy: Bi 0, La 0_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 10 |  |
-| Lattice a | 10.17 Å |  | (βB); _alloy: Bi 0, La 0_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 9 |  |
+| Lattice a | 5.052 Å | 0 | (αB); _alloy: Bi 0, La 0_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 8; `ORC-BBTGKMRWD6` |  |
+| Lattice a | 5.057 Å |  | (αB); _alloy: Bi 0, La 0_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 7; `ORC-U3JY23FUZS` |  |
+| Lattice a | 10.12 Å | 0 | (βB); _alloy: Bi 0, La 0_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 10; `ORC-JLAXUZ32XT` |  |
+| Lattice a | 10.17 Å |  | (βB); _alloy: Bi 0, La 0_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 9; `ORC-ZPJQMOWHKQ` |  |
 
 ## Sources
 
@@ -109,4 +109,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

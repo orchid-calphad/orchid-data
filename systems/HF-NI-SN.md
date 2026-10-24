@@ -30,33 +30,33 @@ Table: Invariant reactions reported in the literature for the Hf–Ni–Sn syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1426.2 | quasi-peritectic: Half + D88 -> liquid + D88 |  | model | [1] Berche 2016 | Table 5, p. 6, row 1 |  |
-| 1410.2 | eutectic: Liquid -> D88 + C40 + Half |  | model | [1] Berche 2016 | Table 5, p. 6, row 2 |  |
-| 1405.3 | quasi-peritectic: D88 + BCC_A2 -> Liquid + HCP_A3 |  | model | [1] Berche 2016 | Table 5, p. 6, row 3 |  |
-| 1276.8 | quasi-peritectic: Liquid + Half -> D88 + Hf2Ni2Sn |  | model | [1] Berche 2016 | Table 5, p. 6, row 4 |  |
-| 1262.3 | quasi-peritectic: Liquid + B_HfNi -> Hf2Ni2Sn + Ni11Hf9 |  | model | [1] Berche 2016 | Table 5, p. 6, row 5 |  |
-| 1237.2 | quasi-peritectic: Liquid + Half -> Heusler + Hf2Ni2Sn |  | model | [1] Berche 2016 | Table 5, p. 6, row 6 |  |
-| 1212.1 | quasi-peritectic: Liquid + Hf2Ni2Sn -> B_HfNi + D88 |  | model | [1] Berche 2016 | Table 5, p. 6, row 7 |  |
-| 1201.7 | quasi-peritectic: Liquid + Ni11Hf9 -> Hf2Ni2Sn + Ni10Hf7 |  | model | [1] Berche 2016 | Table 5, p. 6, row 8 |  |
-| 1199.6 | quasi-peritectic: Liquid + β-HfNi3 -> α-HfNi3 + Ni7Hf2 |  | model | [1] Berche 2016 | Table 5, p. 6, row 9 |  |
-| 1199.6 | quasi-peritectic: Liquid + β-HfNi3 -> α-HfNi3 + Ni21Hf8 |  | model | [1] Berche 2016 | Table 5, p. 6, row 10 |  |
-| 1192.9 | quasi-peritectic: Liquid + Hf2Ni2Sn -> Heusler + Ni10Hf7 |  | model | [1] Berche 2016 | Table 5, p. 6, row 11 |  |
-| 1152.5 | eutectic: Liquid -> Heusler + α-HfNi3 + Ni7Hf2 |  | model | [1] Berche 2016 | Table 5, p. 6, row 12 |  |
-| 1150 | peritectic: Liquid + C16 + β-HfNi -> B33 |  | model | [1] Berche 2016 | Table 5, p. 6, row 14 |  |
-| 1150 | other: β-HfNi -> Liquid + D88 + B33 |  | model | [1] Berche 2016 | Table 5, p. 6, row 13 |  |
-| 1143.1 | other: Ni21Hf8 -> Liquid + Hf3Ni7 + α-HfNi3 |  | model | [1] Berche 2016 | Table 5, p. 6, row 15 |  |
-| 1139.2 | peritectic: Liquid + D88 + C16 -> Hf6Ni1.5Sn1.5 |  | model | [1] Berche 2016 | Table 5, p. 6, row 16 |  |
-| 1138.7 | quasi-peritectic: Liquid + D88 -> Hf6Ni1.5Sn1.5 + HCP_A3 |  | model | [1] Berche 2016 | Table 5, p. 6, row 17 |  |
-| 1138.4 | eutectic: Liquid -> C16 + Hf6Ni1.5Sn1.5 + HCP_A3 |  | model | [1] Berche 2016 | Table 5, p. 6, row 18 |  |
-| 1135.3 | eutectic: Liquid -> D88 + B33 + C16 |  | model | [1] Berche 2016 | Table 5, p. 6, row 19 |  |
-| 1134.6 | quasi-peritectic: Liquid + α-HfNi3 -> Heusler + Hf3Ni7 |  | model | [1] Berche 2016 | Table 5, p. 6, row 20 |  |
-| 1120.6 | eutectic: Liquid -> Heusler + Ni10Hf7 + Hf3Ni7 |  | model | [1] Berche 2016 | Table 5, p. 6, row 21 |  |
-| 1095.4 | eutectic: Liquid -> Ni7Hf2 + Ni3Sn2_HT + D03 |  | model | [1] Berche 2016 | Table 5, p. 6, row 22 |  |
-| 1091.9 | quasi-peritectic: Liquid + Ni7Hf2 -> D03 + C15B |  | model | [1] Berche 2016 | Table 5, p. 6, row 23 |  |
-| 1078.2 | eutectic: Liquid -> D03 + C15B + FCC_A1 |  | model | [1] Berche 2016 | Table 5, p. 6, row 24 |  |
-| 1069.8 | eutectic: Liquid -> Heusler + Ni7Hf2 + Ni3Sn2_HT |  | model | [1] Berche 2016 | Table 5, p. 6, row 25 |  |
-| 950.2 | quasi-peritectic: Liquid + Heusler -> Ni3Sn2_HT + Half |  | model | [1] Berche 2016 | Table 5, p. 6, row 26 |  |
-| 794.5 | quasi-peritectic: Liquid + Ni3Sn2_HT -> Ni3Sn4 + Half |  | model | [1] Berche 2016 | Table 5, p. 6, row 27 |  |
+| 1426.2 | quasi-peritectic: Half + D88 -> liquid + D88 |  | model | [1] Berche 2016 | Table 5, p. 6, row 1; `ORC-2YCYJJK67Z` |  |
+| 1410.2 | eutectic: Liquid -> D88 + C40 + Half |  | model | [1] Berche 2016 | Table 5, p. 6, row 2; `ORC-U2UDZOZ7SY` |  |
+| 1405.3 | quasi-peritectic: D88 + BCC_A2 -> Liquid + HCP_A3 |  | model | [1] Berche 2016 | Table 5, p. 6, row 3; `ORC-P5LY4DFAJA` |  |
+| 1276.8 | quasi-peritectic: Liquid + Half -> D88 + Hf2Ni2Sn |  | model | [1] Berche 2016 | Table 5, p. 6, row 4; `ORC-6LBN5BV23U` |  |
+| 1262.3 | quasi-peritectic: Liquid + B_HfNi -> Hf2Ni2Sn + Ni11Hf9 |  | model | [1] Berche 2016 | Table 5, p. 6, row 5; `ORC-UMVW56Z6LM` |  |
+| 1237.2 | quasi-peritectic: Liquid + Half -> Heusler + Hf2Ni2Sn |  | model | [1] Berche 2016 | Table 5, p. 6, row 6; `ORC-SPSSQ23MZ2` |  |
+| 1212.1 | quasi-peritectic: Liquid + Hf2Ni2Sn -> B_HfNi + D88 |  | model | [1] Berche 2016 | Table 5, p. 6, row 7; `ORC-6PWXYF7L6C` |  |
+| 1201.7 | quasi-peritectic: Liquid + Ni11Hf9 -> Hf2Ni2Sn + Ni10Hf7 |  | model | [1] Berche 2016 | Table 5, p. 6, row 8; `ORC-MJJYJ2UDJQ` |  |
+| 1199.6 | quasi-peritectic: Liquid + β-HfNi3 -> α-HfNi3 + Ni7Hf2 |  | model | [1] Berche 2016 | Table 5, p. 6, row 9; `ORC-N4MASVACNU` |  |
+| 1199.6 | quasi-peritectic: Liquid + β-HfNi3 -> α-HfNi3 + Ni21Hf8 |  | model | [1] Berche 2016 | Table 5, p. 6, row 10; `ORC-SDI6S6UB5C` |  |
+| 1192.9 | quasi-peritectic: Liquid + Hf2Ni2Sn -> Heusler + Ni10Hf7 |  | model | [1] Berche 2016 | Table 5, p. 6, row 11; `ORC-Z74TDBHKSK` |  |
+| 1152.5 | eutectic: Liquid -> Heusler + α-HfNi3 + Ni7Hf2 |  | model | [1] Berche 2016 | Table 5, p. 6, row 12; `ORC-CDFIV7WHP4` |  |
+| 1150 | peritectic: Liquid + C16 + β-HfNi -> B33 |  | model | [1] Berche 2016 | Table 5, p. 6, row 14; `ORC-4T6OWGCFJW` |  |
+| 1150 | other: β-HfNi -> Liquid + D88 + B33 |  | model | [1] Berche 2016 | Table 5, p. 6, row 13; `ORC-UIFVHSGPSA` |  |
+| 1143.1 | other: Ni21Hf8 -> Liquid + Hf3Ni7 + α-HfNi3 |  | model | [1] Berche 2016 | Table 5, p. 6, row 15; `ORC-PHOOP2ZLOQ` |  |
+| 1139.2 | peritectic: Liquid + D88 + C16 -> Hf6Ni1.5Sn1.5 |  | model | [1] Berche 2016 | Table 5, p. 6, row 16; `ORC-MI7ZLRC5IX` |  |
+| 1138.7 | quasi-peritectic: Liquid + D88 -> Hf6Ni1.5Sn1.5 + HCP_A3 |  | model | [1] Berche 2016 | Table 5, p. 6, row 17; `ORC-54O7Z747FS` |  |
+| 1138.4 | eutectic: Liquid -> C16 + Hf6Ni1.5Sn1.5 + HCP_A3 |  | model | [1] Berche 2016 | Table 5, p. 6, row 18; `ORC-4YDD5ARRCS` |  |
+| 1135.3 | eutectic: Liquid -> D88 + B33 + C16 |  | model | [1] Berche 2016 | Table 5, p. 6, row 19; `ORC-PQAHBHV4P5` |  |
+| 1134.6 | quasi-peritectic: Liquid + α-HfNi3 -> Heusler + Hf3Ni7 |  | model | [1] Berche 2016 | Table 5, p. 6, row 20; `ORC-EMLNW2G6KR` |  |
+| 1120.6 | eutectic: Liquid -> Heusler + Ni10Hf7 + Hf3Ni7 |  | model | [1] Berche 2016 | Table 5, p. 6, row 21; `ORC-QRCY4O37I2` |  |
+| 1095.4 | eutectic: Liquid -> Ni7Hf2 + Ni3Sn2_HT + D03 |  | model | [1] Berche 2016 | Table 5, p. 6, row 22; `ORC-CBVHX7OLBK` |  |
+| 1091.9 | quasi-peritectic: Liquid + Ni7Hf2 -> D03 + C15B |  | model | [1] Berche 2016 | Table 5, p. 6, row 23; `ORC-ASAVDM3ZYP` |  |
+| 1078.2 | eutectic: Liquid -> D03 + C15B + FCC_A1 |  | model | [1] Berche 2016 | Table 5, p. 6, row 24; `ORC-MMOI3IW5OD` |  |
+| 1069.8 | eutectic: Liquid -> Heusler + Ni7Hf2 + Ni3Sn2_HT |  | model | [1] Berche 2016 | Table 5, p. 6, row 25; `ORC-XJ5DHMWUUM` |  |
+| 950.2 | quasi-peritectic: Liquid + Heusler -> Ni3Sn2_HT + Half |  | model | [1] Berche 2016 | Table 5, p. 6, row 26; `ORC-STLO2JJK6Q` |  |
+| 794.5 | quasi-peritectic: Liquid + Ni3Sn2_HT -> Ni3Sn4 + Half |  | model | [1] Berche 2016 | Table 5, p. 6, row 27; `ORC-WJBP26CDAF` |  |
 
 ## Formation enthalpies
 
@@ -66,13 +66,13 @@ Table: Enthalpies of formation, Hf–Ni–Sn system (7)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| HfNi2Sn |  | 77.4 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 3 |  |
-| HfNi2Sn |  | 152.2 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 4 |  |
-| HfNi2Sn |  | 270 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 9 |  |
-| HfNiSn |  | 292.1 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 3 |  |
-| HfNiSn |  | 352 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 4 |  |
-| HfNiSn |  | 362.1 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 10 |  |
-| HfNiSn |  | 438.4 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 9 |  |
+| HfNi2Sn |  | 77.4 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 3; `ORC-OQGVR2JUYV.565251` |  |
+| HfNi2Sn |  | 152.2 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 4; `ORC-KKAFA5BPXA.e7e82a` |  |
+| HfNi2Sn |  | 270 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 9; `ORC-D7CNPHBOMT.56e35a` |  |
+| HfNiSn |  | 292.1 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 3; `ORC-OQGVR2JUYV.ab8d0d` |  |
+| HfNiSn |  | 352 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 4; `ORC-KKAFA5BPXA.d41ae7` |  |
+| HfNiSn |  | 362.1 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 10; `ORC-LBCEJBDSO4.8cd541` |  |
+| HfNiSn |  | 438.4 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 9; `ORC-D7CNPHBOMT.20e621` |  |
 
 ## Other properties
 
@@ -82,9 +82,9 @@ Table: Phase transition, Hf–Ni–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1760 K | 1760 | congruent transformation | experimental | [1] Berche 2016; _cites Jung 2010_ [doi](https://doi.org/10.1016/j.jallcom.2009.09.139) | p. 4 | “Isothermal sections have been published at 870 K for HfNi-Sn by Stadnyk et al. \[23\] and DTA analyses of HfNiSn have been published by Jung et al. \[32\]. According to this study, the phase has a congruent melting at 1760 K.” |
-| Phase transition | 1760 K | 1760 | other | experimental | [1] Berche 2016; _cites Jung 2010_ [doi](https://doi.org/10.1016/j.jallcom.2009.09.139) | p. 5 | “The melting point of HfNiSn (Fig. 3c) is assessed at 1780 K which is in agreement with the 1760 K measured by Jung et al. \[32\].” |
-| Phase transition | 1780 K | 1780 | other | model | [1] Berche 2016 | p. 5 | “The melting point of HfNiSn (Fig. 3c) is assessed at 1780 K which is in agreement with the 1760 K measured by Jung et al. \[32\].” |
+| Phase transition | 1760 K | 1760 | congruent transformation | experimental | [1] Berche 2016; _cites Jung 2010_ [doi](https://doi.org/10.1016/j.jallcom.2009.09.139) | p. 4; `ORC-DOHIVWV2S5` | “Isothermal sections have been published at 870 K for HfNi-Sn by Stadnyk et al. \[23\] and DTA analyses of HfNiSn have been published by Jung et al. \[32\]. According to this study, the phase has a congruent melting at 1760 K.” |
+| Phase transition | 1760 K | 1760 | other | experimental | [1] Berche 2016; _cites Jung 2010_ [doi](https://doi.org/10.1016/j.jallcom.2009.09.139) | p. 5; `ORC-SXWGBS4LY4.755221` | “The melting point of HfNiSn (Fig. 3c) is assessed at 1780 K which is in agreement with the 1760 K measured by Jung et al. \[32\].” |
+| Phase transition | 1780 K | 1780 | other | model | [1] Berche 2016 | p. 5; `ORC-SXWGBS4LY4.40c4eb` | “The melting point of HfNiSn (Fig. 3c) is assessed at 1780 K which is in agreement with the 1760 K measured by Jung et al. \[32\].” |
 
 ## Sources
 
@@ -127,4 +127,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

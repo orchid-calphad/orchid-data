@@ -34,17 +34,17 @@ Table: Enthalpies of formation, O–Sr system (11)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| SrO |  | -643 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Risold 1996; _cites ref. 93Ono_ | Table 3, p. 4, row 3 |  |
-| SrO |  | -604.3 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Risold 1996; _cites Mah 1963_ | Table 3, p. 4, row 2 |  |
-| SrO |  | -595 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Risold 1996; _cites ref. 93Ono_ | Table 3, p. 4, row 4 |  |
-| SrO |  | -592.15 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Risold 1996 | Table 3, p. 4, row 7 |  |
-| SrO |  | -592.15 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Risold 1996; _cites ref. 90Cor_ | Table 3, p. 4, row 1 |  |
-| SrO |  | -592.04 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Risold 1996; _cites Chase 1985_ | Table 3, p. 4, row 5 |  |
-| SrO |  | -591.01 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Risold 1996; _cites ref. 94_ | Table 3, p. 4, row 6 |  |
-| SrO2 |  | -636 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Risold 1996 | Table 4, p. 4, row 4 |  |
-| SrO2 |  | -635 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Risold 1996; _cites M_ | Table 4, p. 4, row 1 |  |
-| SrO2 |  | -633 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Risold 1996; _cites ref. 94_ | Table 4, p. 4, row 3 |  |
-| SrO2 |  | -631 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Risold 1996; _cites Vedeneev_ | Table 4, p. 4, row 2 |  |
+| SrO |  | -643 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Risold 1996; _cites ref. 93Ono_ | Table 3, p. 4, row 3; `ORC-VSDUSBJZQX` |  |
+| SrO |  | -604.3 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Risold 1996; _cites Mah 1963_ | Table 3, p. 4, row 2; `ORC-DJGRCWP2VD` |  |
+| SrO |  | -595 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Risold 1996; _cites ref. 93Ono_ | Table 3, p. 4, row 4; `ORC-BDJN7MCYVE` |  |
+| SrO |  | -592.15 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Risold 1996 | Table 3, p. 4, row 7; `ORC-53GBR4CZAV` |  |
+| SrO |  | -592.15 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Risold 1996; _cites ref. 90Cor_ | Table 3, p. 4, row 1; `ORC-LZQRI7PQAG` |  |
+| SrO |  | -592.04 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Risold 1996; _cites Chase 1985_ | Table 3, p. 4, row 5; `ORC-KPLXIURRCH` |  |
+| SrO |  | -591.01 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Risold 1996; _cites ref. 94_ | Table 3, p. 4, row 6; `ORC-UFAUFXD4T5` |  |
+| SrO2 |  | -636 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Risold 1996 | Table 4, p. 4, row 4; `ORC-C7M6RPVFGD` |  |
+| SrO2 |  | -635 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Risold 1996; _cites M_ | Table 4, p. 4, row 1; `ORC-P6SW3WEVOB` |  |
+| SrO2 |  | -633 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Risold 1996; _cites ref. 94_ | Table 4, p. 4, row 3; `ORC-MKRSVUMGWL` |  |
+| SrO2 |  | -631 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Risold 1996; _cites Vedeneev_ | Table 4, p. 4, row 2; `ORC-3TI3ZFL7LI` |  |
 
 ## Other properties
 
@@ -54,14 +54,14 @@ Table: Phase transition, O–Sr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 488 K | 488 | other | experimental | [1] Risold 1996; _cites Brewer 1953_ [doi](https://doi.org/10.1021/cr60161a001) | p. 2 | “In many thermodynamic tables the decomposition temperature of SrOz is given at 488 K in 1 atm 0s with reference to Brewer \[53Bre\] who does not give a reference for this datum, but it seems most probable that it originates from Blumenthal.” |
-| Phase transition | 2703 K | 2703 | congruent melting: \[26Sch\]; _alloy: Sr 0.5_ | experimental | [1] Risold 1996; _cites ref. 26Sch_ | Table 1, p. 4, row 1 |  |
-| Phase transition | 2805 K | 2805 | congruent melting: \[85Irg\]; _alloy: Sr 0.5_ | experimental | [1] Risold 1996; _cites Properties 1985_ | Table 1, p. 4, row 2 |  |
-| Phase transition | 2805 K | 2805 | congruent melting: \[94SGT\]; _alloy: Sr 0.5_ | model | [1] Risold 1996; _cites ref. 94_ | Table 1, p. 4, row 6 |  |
-| Phase transition | 2870 K | 2870 | congruent melting: This work; _alloy: Sr 0.5_ | unspecified | [1] Risold 1996 | Table 1, p. 4, row 7 |  |
-| Phase transition | 2872 K | 2872 | congruent melting: \[69Nog\]; _alloy: Sr 0.5_ | experimental | [1] Risold 1996; _cites Noguchi 1969_ | Table 1, p. 4, row 3 |  |
-| Phase transition | 2938 K | 2938 | congruent melting: \[65Foe\]; _alloy: Sr 0.5_ | experimental | [1] Risold 1996; _cites Foex 1965_ [doi](https://doi.org/10.1016/0038-092x%2865%2990162-3) | Table 1, p. 4, row 4 |  |
-| Phase transition | 2938 K | 2938 | congruent melting: \[85Cha\]; _alloy: Sr 0.5_ | model | [1] Risold 1996; _cites Chase 1985_ | Table 1, p. 4, row 5 |  |
+| Phase transition | 488 K | 488 | other | experimental | [1] Risold 1996; _cites Brewer 1953_ [doi](https://doi.org/10.1021/cr60161a001) | p. 2; `ORC-UK5R57KOU3` | “In many thermodynamic tables the decomposition temperature of SrOz is given at 488 K in 1 atm 0s with reference to Brewer \[53Bre\] who does not give a reference for this datum, but it seems most probable that it originates from Blumenthal.” |
+| Phase transition | 2703 K | 2703 | congruent melting: \[26Sch\]; _alloy: Sr 0.5_ | experimental | [1] Risold 1996; _cites ref. 26Sch_ | Table 1, p. 4, row 1; `ORC-5G2VQ2DKPW` |  |
+| Phase transition | 2805 K | 2805 | congruent melting: \[85Irg\]; _alloy: Sr 0.5_ | experimental | [1] Risold 1996; _cites Properties 1985_ | Table 1, p. 4, row 2; `ORC-H4VPNPPXZV` |  |
+| Phase transition | 2805 K | 2805 | congruent melting: \[94SGT\]; _alloy: Sr 0.5_ | model | [1] Risold 1996; _cites ref. 94_ | Table 1, p. 4, row 6; `ORC-VTORQEQ7FX` |  |
+| Phase transition | 2870 K | 2870 | congruent melting: This work; _alloy: Sr 0.5_ | unspecified | [1] Risold 1996 | Table 1, p. 4, row 7; `ORC-2GLEK3S24V` |  |
+| Phase transition | 2872 K | 2872 | congruent melting: \[69Nog\]; _alloy: Sr 0.5_ | experimental | [1] Risold 1996; _cites Noguchi 1969_ | Table 1, p. 4, row 3; `ORC-V2PUOMAGGR` |  |
+| Phase transition | 2938 K | 2938 | congruent melting: \[65Foe\]; _alloy: Sr 0.5_ | experimental | [1] Risold 1996; _cites Foex 1965_ [doi](https://doi.org/10.1016/0038-092x%2865%2990162-3) | Table 1, p. 4, row 4; `ORC-27DX77GOCD` |  |
+| Phase transition | 2938 K | 2938 | congruent melting: \[85Cha\]; _alloy: Sr 0.5_ | model | [1] Risold 1996; _cites Chase 1985_ | Table 1, p. 4, row 5; `ORC-QJ2Z6J2JJ4` |  |
 
 ### Heat capacity / entropy / enthalpy (6)
 
@@ -69,12 +69,12 @@ Table: Heat capacity / entropy / enthalpy, O–Sr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: S^298_ | 55.56 J/mol (basis unstated)/K | 298.15 | SrO; _alloy: Sr 0.5_ | unspecified | [1] Risold 1996; _cites ref. 94_ | Table 2, p. 4, row 5 |  |
-| Entropy; _printed: S^298_ | 53.63 J/mol (basis unstated)/K | 298.15 | SrO; _alloy: Sr 0.5_ | experimental | [1] Risold 1996; _cites Cordfunke_ [doi](https://doi.org/10.1016/0021-9614%2890%2990188-v) | Table 2, p. 4, row 3 |  |
-| Entropy; _printed: S^298_ | 54.4 J/mol (basis unstated)/K | 298.15 | SrO; _alloy: Sr 0.5_ | experimental | [1] Risold 1996; _cites Anderson 1935_ [doi](https://doi.org/10.1021/ja01306a012) | Table 2, p. 4, row 1 |  |
-| Entropy; _printed: S^298_ | 53.58 J/mol (basis unstated)/K | 298.15 | SrO; _alloy: Sr 0.5_ | unspecified | [1] Risold 1996 | Table 2, p. 4, row 6 |  |
-| Entropy; _printed: S^298_ | 55.52 J/mol (basis unstated)/K | 298.15 | SrO; _alloy: Sr 0.5_ | unspecified | [1] Risold 1996; _cites Chase 1985_ | Table 2, p. 4, row 4 |  |
-| Entropy; _printed: S^298_ | 55.52 J/mol (basis unstated)/K | 298.15 | SrO; _alloy: Sr 0.5_ | experimental | [1] Risold 1996; _cites Gmelin 1969_ [doi](https://doi.org/10.1515/zna-1969-1120) | Table 2, p. 4, row 2 |  |
+| Entropy; _printed: S^298_ | 55.56 J/mol (basis unstated)/K | 298.15 | SrO; _alloy: Sr 0.5_ | unspecified | [1] Risold 1996; _cites ref. 94_ | Table 2, p. 4, row 5; `ORC-3PA7P2PCHY` |  |
+| Entropy; _printed: S^298_ | 53.63 J/mol (basis unstated)/K | 298.15 | SrO; _alloy: Sr 0.5_ | experimental | [1] Risold 1996; _cites Cordfunke_ [doi](https://doi.org/10.1016/0021-9614%2890%2990188-v) | Table 2, p. 4, row 3; `ORC-7AIBLLA4ZF` |  |
+| Entropy; _printed: S^298_ | 54.4 J/mol (basis unstated)/K | 298.15 | SrO; _alloy: Sr 0.5_ | experimental | [1] Risold 1996; _cites Anderson 1935_ [doi](https://doi.org/10.1021/ja01306a012) | Table 2, p. 4, row 1; `ORC-JVB3SV62QQ` |  |
+| Entropy; _printed: S^298_ | 53.58 J/mol (basis unstated)/K | 298.15 | SrO; _alloy: Sr 0.5_ | unspecified | [1] Risold 1996 | Table 2, p. 4, row 6; `ORC-OI7HQ2WKOQ` |  |
+| Entropy; _printed: S^298_ | 55.52 J/mol (basis unstated)/K | 298.15 | SrO; _alloy: Sr 0.5_ | unspecified | [1] Risold 1996; _cites Chase 1985_ | Table 2, p. 4, row 4; `ORC-R4OTIX3PR5` |  |
+| Entropy; _printed: S^298_ | 55.52 J/mol (basis unstated)/K | 298.15 | SrO; _alloy: Sr 0.5_ | experimental | [1] Risold 1996; _cites Gmelin 1969_ [doi](https://doi.org/10.1515/zna-1969-1120) | Table 2, p. 4, row 2; `ORC-V4IXN2I672` |  |
 
 ## Sources
 
@@ -128,4 +128,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -83,14 +83,14 @@ Table: Invariant reactions reported in the literature for the Ni–P system (8)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1399 | βNi5P2 + liquid = δNi12P5 | βNi5P2: P 0.286; liquid: P 0.311; δNi12P5: P 0.294 | unspecified | [1] Shim 1999 | Table 2, p. 4, row 9 |  |
-| 1398 | βNi5P2 + liquid = δNi12P5 | βNi5P2: P 0.285714; δNi12P5: P 0.294118 | experimental | [1] Shim 1999; _cites Lee 1991_ | Table 2, p. 4, row 10 |  |
-| 1373 | Liquid = δNi12P5 + Ni2P | Liquid: P 0.31; δNi12P5: P 0.294118; Ni2P: P 0.333333 | experimental | [1] Shim 1999; _cites Lee 1991_ | Table 2, p. 4, row 14 |  |
-| 1368 | Liquid = δNi12P5 + Ni2P | Liquid: P 0.32; δNi12P5: P 0.294; Ni2P: P 0.333 | unspecified | [1] Shim 1999 | Table 2, p. 4, row 13 |  |
-| 1244 | Liquid + αNi5P2 = Ni3P | Liquid: P 0.23; αNi5P2: P 0.286; Ni3P: P 0.25 | unspecified | [1] Shim 1999 | Table 2, p. 4, row 3 |  |
-| 1243 | Liquid + αNi5P2 = Ni3P | Liquid: P 0.235; αNi5P2: P 0.285714; Ni3P: P 0.25 | experimental | [1] Shim 1999; _cites Lee 1991_ | Table 2, p. 4, row 4 |  |
-| 1143 | Liquid = f.c.c. + Ni3P | Liquid: P 0.19; f.c.c.: P 0.0032; Ni3P: P 0.25 | experimental | [1] Shim 1999; _cites Lee 1991_ | Table 2, p. 4, row 2 |  |
-| 1141 | Liquid = f.c.c. + Ni3P | Liquid: P 0.19; f.c.c.: P 0.0032; Ni3P: P 0.25 | unspecified | [1] Shim 1999 | Table 2, p. 4, row 1 |  |
+| 1399 | βNi5P2 + liquid = δNi12P5 | βNi5P2: P 0.286; liquid: P 0.311; δNi12P5: P 0.294 | unspecified | [1] Shim 1999 | Table 2, p. 4, row 9; `ORC-Q5V53SLFGH` |  |
+| 1398 | βNi5P2 + liquid = δNi12P5 | βNi5P2: P 0.285714; δNi12P5: P 0.294118 | experimental | [1] Shim 1999; _cites Lee 1991_ | Table 2, p. 4, row 10; `ORC-ERFH5F6LN7` |  |
+| 1373 | Liquid = δNi12P5 + Ni2P | Liquid: P 0.31; δNi12P5: P 0.294118; Ni2P: P 0.333333 | experimental | [1] Shim 1999; _cites Lee 1991_ | Table 2, p. 4, row 14; `ORC-V2MSZ62OFR` |  |
+| 1368 | Liquid = δNi12P5 + Ni2P | Liquid: P 0.32; δNi12P5: P 0.294; Ni2P: P 0.333 | unspecified | [1] Shim 1999 | Table 2, p. 4, row 13; `ORC-PNTNS3RVRD` |  |
+| 1244 | Liquid + αNi5P2 = Ni3P | Liquid: P 0.23; αNi5P2: P 0.286; Ni3P: P 0.25 | unspecified | [1] Shim 1999 | Table 2, p. 4, row 3; `ORC-MVLVMO6LNX` |  |
+| 1243 | Liquid + αNi5P2 = Ni3P | Liquid: P 0.235; αNi5P2: P 0.285714; Ni3P: P 0.25 | experimental | [1] Shim 1999; _cites Lee 1991_ | Table 2, p. 4, row 4; `ORC-2ZHZOFPIAP` |  |
+| 1143 | Liquid = f.c.c. + Ni3P | Liquid: P 0.19; f.c.c.: P 0.0032; Ni3P: P 0.25 | experimental | [1] Shim 1999; _cites Lee 1991_ | Table 2, p. 4, row 2; `ORC-ZNROLEKQYW` |  |
+| 1141 | Liquid = f.c.c. + Ni3P | Liquid: P 0.19; f.c.c.: P 0.0032; Ni3P: P 0.25 | unspecified | [1] Shim 1999 | Table 2, p. 4, row 1; `ORC-GSRKYMTSYE` |  |
 
 ## Other properties
 
@@ -100,15 +100,15 @@ Table: Phase transition, Ni–P system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 618 K | 618 | other | experimental | [1] Shim 1999; _cites Chen 1974_ [doi](https://doi.org/10.1016/0001-6160%2874%2990112-6) | p. 4 | “In the present work, EH for Ni-P alloys has been approximated at 29 900 J / mol, assuming T g for the Ni-P system is 618 K (3458C) reported by Chen \[30\].” |
-| Phase transition | 1273 K | 1273 | δNi12P5 = γNi12P5; _δNi12P5: P 0.294118; γNi12P5: P 0.294118_ | experimental | [1] Shim 1999; _cites Lee 1991_ | Table 2, p. 4, row 12 |  |
-| Phase transition | 1273 K | 1273 | δNi12P5 = γNi12P5; _δNi12P5: P 0.294; γNi12P5: P 0.294118_ | unspecified | [1] Shim 1999 | Table 2, p. 4, row 11 |  |
-| Phase transition | 1298 K | 1298 | βNi5P2 = αNi5P2; _βNi5P2: P 0.285714; αNi5P2: P 0.285714_ | experimental | [1] Shim 1999; _cites Lee 1991_ | Table 2, p. 4, row 8 |  |
-| Phase transition | 1298 K | 1298 | βNi5P2 = αNi5P2; _βNi5P2: P 0.286; αNi5P2: P 0.285714_ | unspecified | [1] Shim 1999 | Table 2, p. 4, row 7 |  |
-| Phase transition | 1383 K | 1383 | Liquid = Ni2P; _Ni2P: P 0.333_ | experimental | [1] Shim 1999; _cites Lee 1991_ | Table 2, p. 4, row 16 |  |
-| Phase transition | 1387 K | 1387 | Liquid = Ni2P; _Ni2P: P 0.333_ | unspecified | [1] Shim 1999 | Table 2, p. 4, row 15 |  |
-| Phase transition | 1443 K | 1443 | Liquid = βNi5P2; _βNi5P2: P 0.285714_ | experimental | [1] Shim 1999; _cites Lee 1991_ | Table 2, p. 4, row 6 |  |
-| Phase transition | 1446 K | 1446 | Liquid = βNi5P2; _βNi5P2: P 0.286_ | unspecified | [1] Shim 1999 | Table 2, p. 4, row 5 |  |
+| Phase transition | 618 K | 618 | other | experimental | [1] Shim 1999; _cites Chen 1974_ [doi](https://doi.org/10.1016/0001-6160%2874%2990112-6) | p. 4; `ORC-YQHHSDOKK6` | “In the present work, EH for Ni-P alloys has been approximated at 29 900 J / mol, assuming T g for the Ni-P system is 618 K (3458C) reported by Chen \[30\].” |
+| Phase transition | 1273 K | 1273 | δNi12P5 = γNi12P5; _δNi12P5: P 0.294118; γNi12P5: P 0.294118_ | experimental | [1] Shim 1999; _cites Lee 1991_ | Table 2, p. 4, row 12; `ORC-2AP7TXUZXR` |  |
+| Phase transition | 1273 K | 1273 | δNi12P5 = γNi12P5; _δNi12P5: P 0.294; γNi12P5: P 0.294118_ | unspecified | [1] Shim 1999 | Table 2, p. 4, row 11; `ORC-CM6ZVLMXXS` |  |
+| Phase transition | 1298 K | 1298 | βNi5P2 = αNi5P2; _βNi5P2: P 0.285714; αNi5P2: P 0.285714_ | experimental | [1] Shim 1999; _cites Lee 1991_ | Table 2, p. 4, row 8; `ORC-6E6Q5DGXEX` |  |
+| Phase transition | 1298 K | 1298 | βNi5P2 = αNi5P2; _βNi5P2: P 0.286; αNi5P2: P 0.285714_ | unspecified | [1] Shim 1999 | Table 2, p. 4, row 7; `ORC-IXLB34BAHF` |  |
+| Phase transition | 1383 K | 1383 | Liquid = Ni2P; _Ni2P: P 0.333_ | experimental | [1] Shim 1999; _cites Lee 1991_ | Table 2, p. 4, row 16; `ORC-JE3HLJHKSW` |  |
+| Phase transition | 1387 K | 1387 | Liquid = Ni2P; _Ni2P: P 0.333_ | unspecified | [1] Shim 1999 | Table 2, p. 4, row 15; `ORC-7S6E5DMVHG` |  |
+| Phase transition | 1443 K | 1443 | Liquid = βNi5P2; _βNi5P2: P 0.285714_ | experimental | [1] Shim 1999; _cites Lee 1991_ | Table 2, p. 4, row 6; `ORC-RCFDW6R5GX` |  |
+| Phase transition | 1446 K | 1446 | Liquid = βNi5P2; _βNi5P2: P 0.286_ | unspecified | [1] Shim 1999 | Table 2, p. 4, row 5; `ORC-SKPZDSMB7Y` |  |
 
 ## Sources
 
@@ -173,4 +173,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

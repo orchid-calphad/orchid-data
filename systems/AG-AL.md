@@ -79,37 +79,37 @@ Table: Invariant reactions reported in the literature for the Ag–Al system (31
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1053 | peritectic: (Ag) + Liquid -> β | (Ag): Al 0.178; L: Al 0.212; β: Al 0.207 | experimental | [1] Witusiewicz 2004; _cites Hansen 1958_ | Table 7, p. 8, row 1 |  |
-| 1053 | peritectic: (Ag) + Liquid -> β | (Ag): Al 0.184; L: Al 0.213; β: Al 0.206 | unspecified | [1] Witusiewicz 2004 | Table 7, p. 8, row 4 |  |
-| 1053 | peritectic: (Ag) + liq -> β | (Ag): Al 0.178; L: Al 0.212; β: Al 0.207 | experimental | [2] Spencer 1987; _cites Hansen 1969_ | Table 3, p. 11, row 1 |  |
-| 1051 | peritectic: (Ag) + Liquid -> β | (Ag): Al 0.164; L: Al 0.231; β: Al 0.208 | model | [1] Witusiewicz 2004; _cites S-S 1995_ | Table 7, p. 8, row 3 |  |
-| 1050 | peritectic: (Ag) + Liquid -> β | (Ag): Al 0.177; L: Al 0.225; β: Al 0.217 | model | [1] Witusiewicz 2004; _cites Spencer 1987_ | Table 7, p. 8, row 2 |  |
-| 1050 | peritectic: (Ag) + liq -> β | (Ag): Al 0.177; L: Al 0.225; β: Al 0.212 | model | [2] Spencer 1987 | Table 3, p. 11, row 2 |  |
-| 1003 | eutectic: Liquid -> β + ζ | L: Al 0.316; β: Al 0.279; ζ: Al 0.328 | model | [1] Witusiewicz 2004; _cites S-S 1995_ | Table 7, p. 8, row 7 |  |
-| 1001 | peritectic: Liquid + β -> ζ | L: Al 0.324; β: Al 0.292; ζ: Al 0.322 | unspecified | [1] Witusiewicz 2004 | Table 7, p. 8, row 8 |  |
-| 1000 | peritectic: Liquid + β -> ζ | L: Al 0.333; β: Al 0.297; ζ: Al 0.326 | model | [1] Witusiewicz 2004; _cites Spencer 1987_ | Table 7, p. 8, row 6 |  |
-| 1000 | peritectic: Liquid + β -> ζ | L: Al 0.33; β: Al 0.3; ζ: Al 0.32 | experimental | [1] Witusiewicz 2004; _cites Hansen 1958_ | Table 7, p. 8, row 5 |  |
-| 1000 | peritectic: β + liq -> ζ | β: Al 0.297; L: Al 0.333; ζ: Al 0.326 | model | [2] Spencer 1987 | Table 3, p. 11, row 4 |  |
-| 1000 | peritectic: β + liq -> ζ | β: Al 0.3; L: Al 0.33; ζ: Al 0.32 | experimental | [2] Spencer 1987; _cites Hansen 1969_ | Table 3, p. 11, row 3 |  |
-| 883 | peritectoid: β + (Ag) -> ζ | β: Al 0.232; (Ag): Al 0.201; ζ: Al 0.231 | unspecified | [1] Witusiewicz 2004 | Table 7, p. 8, row 18 |  |
-| 883 | peritectoid: β + (Ag) -> ζ | β: Al 0.238; (Ag): Al 0.203; ζ: Al 0.235 | experimental | [1] Witusiewicz 2004; _cites Hansen 1958_ | Table 7, p. 8, row 15 |  |
-| 883 | peritectoid: (Ag) + β -> ζ | (Ag): Al 0.203; β: Al 0.238; ζ: Al 0.235 | experimental | [2] Spencer 1987; _cites Hansen 1969_ | Table 3, p. 11, row 7 |  |
-| 881 | peritectoid: β + (Ag) -> ζ | β: Al 0.235; (Ag): Al 0.193; ζ: Al 0.23 | model | [1] Witusiewicz 2004; _cites S-S 1995_ | Table 7, p. 8, row 17 |  |
-| 870 | eutectoid: β -> (Ag) + ζ | β: Al 0.234; (Ag): Al 0.21; ζ: Al 0.239 | model | [1] Witusiewicz 2004; _cites Spencer 1987_ | Table 7, p. 8, row 16 |  |
-| 870 | eutectoid: β -> (Ag) + ζ | β: Al 0.234; (Ag): Al 0.21; ζ: Al 0.239 | model | [2] Spencer 1987 | Table 3, p. 11, row 8 |  |
-| 840 | eutectic: Liquid -> ζ + (Al) | L: Al 0.656; ζ: Al 0.413; (Al): Al 0.742 | model | [1] Witusiewicz 2004; _cites S-S 1995_ | Table 7, p. 8, row 12 |  |
-| 839 | eutectic: Liquid -> ζ + (Al) | L: Al 0.67; ζ: Al 0.42; (Al): Al 0.762 | experimental | [1] Witusiewicz 2004; _cites Hansen 1958_ | Table 7, p. 8, row 9 |  |
-| 839 | eutectic: Liquid -> ζ + (Al) | L: Al 0.67; ζ: Al 0.391; (Al): Al 0.73 | unspecified | [1] Witusiewicz 2004 | Table 7, p. 8, row 14 |  |
-| 839 | eutectic: liq -> ζ + (Al) | L: Al 0.67; ζ: Al 0.42; (Al): Al 0.762 | experimental | [2] Spencer 1987; _cites Hansen 1969_ | Table 3, p. 11, row 5 |  |
-| 838 | eutectic: liq -> ζ + (Al) | L: Al 0.673; ζ: Al 0.419; (Al): Al 0.764 | model | [2] Spencer 1987 | Table 3, p. 11, row 6 |  |
-| 838 | eutectic: Liquid -> ζ + (Al) | L: Al 0.667; ζ: Al 0.39; (Al): Al 0.73 | experimental | [1] Witusiewicz 2004 | Table 7, p. 8, row 10 |  |
-| 838 | eutectic: Liquid -> ζ + (Al) | L: Al 0.673; ζ: Al 0.419; (Al): Al 0.764 | model | [1] Witusiewicz 2004; _cites Spencer 1987_ | Table 7, p. 8, row 11 |  |
-| 731 | peritectoid: (Ag) + ζ -> µ | (Ag): Al 0.192; ζ: Al 0.234; µ: Al 0.223 | model | [1] Witusiewicz 2004; _cites S-S 1995_ | Table 7, p. 8, row 21 |  |
-| 729 | peritectoid: (Ag) + ζ -> µ | (Ag): Al 0.209; ζ: Al 0.249; µ: Al 0.231 | model | [1] Witusiewicz 2004; _cites Spencer 1987_ | Table 7, p. 8, row 20 |  |
-| 729 | peritectoid: (Ag) + ζ -> μ | (Ag): Al 0.209; ζ: Al 0.249; μ: Al 0.231 | model | [2] Spencer 1987 | Table 3, p. 11, row 10 |  |
-| 728 | peritectoid: (Ag) + ζ -> μ | (Ag): Al 0.199; ζ: Al 0.238; μ: Al 0.232 | experimental | [2] Spencer 1987; _cites Hansen 1969_ | Table 3, p. 11, row 9 |  |
-| 728 | peritectoid: (Ag) + ζ -> µ | (Ag): Al 0.199; ζ: Al 0.238; µ: Al 0.232 | experimental | [1] Witusiewicz 2004; _cites Hansen 1958_ | Table 7, p. 8, row 19 |  |
-| 728 | peritectoid: (Ag) + ζ -> µ | (Ag): Al 0.193; ζ: Al 0.242; µ: Al 0.233 | unspecified | [1] Witusiewicz 2004 | Table 7, p. 8, row 22 |  |
+| 1053 | peritectic: (Ag) + Liquid -> β | (Ag): Al 0.178; L: Al 0.212; β: Al 0.207 | experimental | [1] Witusiewicz 2004; _cites Hansen 1958_ | Table 7, p. 8, row 1; `ORC-243NHKDVGC` |  |
+| 1053 | peritectic: (Ag) + Liquid -> β | (Ag): Al 0.184; L: Al 0.213; β: Al 0.206 | unspecified | [1] Witusiewicz 2004 | Table 7, p. 8, row 4; `ORC-O4AONCNA7K` |  |
+| 1053 | peritectic: (Ag) + liq -> β | (Ag): Al 0.178; L: Al 0.212; β: Al 0.207 | experimental | [2] Spencer 1987; _cites Hansen 1969_ | Table 3, p. 11, row 1; `ORC-XWGGGF223Y` |  |
+| 1051 | peritectic: (Ag) + Liquid -> β | (Ag): Al 0.164; L: Al 0.231; β: Al 0.208 | model | [1] Witusiewicz 2004; _cites S-S 1995_ | Table 7, p. 8, row 3; `ORC-3EJAZUYDER` |  |
+| 1050 | peritectic: (Ag) + Liquid -> β | (Ag): Al 0.177; L: Al 0.225; β: Al 0.217 | model | [1] Witusiewicz 2004; _cites Spencer 1987_ | Table 7, p. 8, row 2; `ORC-2LWKYMAZAF` |  |
+| 1050 | peritectic: (Ag) + liq -> β | (Ag): Al 0.177; L: Al 0.225; β: Al 0.212 | model | [2] Spencer 1987 | Table 3, p. 11, row 2; `ORC-XWL7IAB77L` |  |
+| 1003 | eutectic: Liquid -> β + ζ | L: Al 0.316; β: Al 0.279; ζ: Al 0.328 | model | [1] Witusiewicz 2004; _cites S-S 1995_ | Table 7, p. 8, row 7; `ORC-QBD5DVDUT7` |  |
+| 1001 | peritectic: Liquid + β -> ζ | L: Al 0.324; β: Al 0.292; ζ: Al 0.322 | unspecified | [1] Witusiewicz 2004 | Table 7, p. 8, row 8; `ORC-TYORW5SPIA` |  |
+| 1000 | peritectic: Liquid + β -> ζ | L: Al 0.333; β: Al 0.297; ζ: Al 0.326 | model | [1] Witusiewicz 2004; _cites Spencer 1987_ | Table 7, p. 8, row 6; `ORC-LX2RTIAH7P` |  |
+| 1000 | peritectic: Liquid + β -> ζ | L: Al 0.33; β: Al 0.3; ζ: Al 0.32 | experimental | [1] Witusiewicz 2004; _cites Hansen 1958_ | Table 7, p. 8, row 5; `ORC-QONZXTYQJR` |  |
+| 1000 | peritectic: β + liq -> ζ | β: Al 0.297; L: Al 0.333; ζ: Al 0.326 | model | [2] Spencer 1987 | Table 3, p. 11, row 4; `ORC-S3A5FGMB7C` |  |
+| 1000 | peritectic: β + liq -> ζ | β: Al 0.3; L: Al 0.33; ζ: Al 0.32 | experimental | [2] Spencer 1987; _cites Hansen 1969_ | Table 3, p. 11, row 3; `ORC-SGL3MTF5EH` |  |
+| 883 | peritectoid: β + (Ag) -> ζ | β: Al 0.232; (Ag): Al 0.201; ζ: Al 0.231 | unspecified | [1] Witusiewicz 2004 | Table 7, p. 8, row 18; `ORC-KGGS4IQ6SP` |  |
+| 883 | peritectoid: β + (Ag) -> ζ | β: Al 0.238; (Ag): Al 0.203; ζ: Al 0.235 | experimental | [1] Witusiewicz 2004; _cites Hansen 1958_ | Table 7, p. 8, row 15; `ORC-T5NUSXFWFL` |  |
+| 883 | peritectoid: (Ag) + β -> ζ | (Ag): Al 0.203; β: Al 0.238; ζ: Al 0.235 | experimental | [2] Spencer 1987; _cites Hansen 1969_ | Table 3, p. 11, row 7; `ORC-WF2C56PEMB` |  |
+| 881 | peritectoid: β + (Ag) -> ζ | β: Al 0.235; (Ag): Al 0.193; ζ: Al 0.23 | model | [1] Witusiewicz 2004; _cites S-S 1995_ | Table 7, p. 8, row 17; `ORC-YO7CUHXDTG` |  |
+| 870 | eutectoid: β -> (Ag) + ζ | β: Al 0.234; (Ag): Al 0.21; ζ: Al 0.239 | model | [1] Witusiewicz 2004; _cites Spencer 1987_ | Table 7, p. 8, row 16; `ORC-5JJZIZW6B4` |  |
+| 870 | eutectoid: β -> (Ag) + ζ | β: Al 0.234; (Ag): Al 0.21; ζ: Al 0.239 | model | [2] Spencer 1987 | Table 3, p. 11, row 8; `ORC-BPGGVE3QGN` |  |
+| 840 | eutectic: Liquid -> ζ + (Al) | L: Al 0.656; ζ: Al 0.413; (Al): Al 0.742 | model | [1] Witusiewicz 2004; _cites S-S 1995_ | Table 7, p. 8, row 12; `ORC-R7NDXXKYDW` |  |
+| 839 | eutectic: Liquid -> ζ + (Al) | L: Al 0.67; ζ: Al 0.42; (Al): Al 0.762 | experimental | [1] Witusiewicz 2004; _cites Hansen 1958_ | Table 7, p. 8, row 9; `ORC-AR6QJ2C7M4` |  |
+| 839 | eutectic: Liquid -> ζ + (Al) | L: Al 0.67; ζ: Al 0.391; (Al): Al 0.73 | unspecified | [1] Witusiewicz 2004 | Table 7, p. 8, row 14; `ORC-LDG6MIS277.02a2bd` |  |
+| 839 | eutectic: liq -> ζ + (Al) | L: Al 0.67; ζ: Al 0.42; (Al): Al 0.762 | experimental | [2] Spencer 1987; _cites Hansen 1969_ | Table 3, p. 11, row 5; `ORC-TOTSGOQCNM` |  |
+| 838 | eutectic: liq -> ζ + (Al) | L: Al 0.673; ζ: Al 0.419; (Al): Al 0.764 | model | [2] Spencer 1987 | Table 3, p. 11, row 6; `ORC-LK7DZFMMLA` |  |
+| 838 | eutectic: Liquid -> ζ + (Al) | L: Al 0.667; ζ: Al 0.39; (Al): Al 0.73 | experimental | [1] Witusiewicz 2004 | Table 7, p. 8, row 10; `ORC-LSPWJMZAVQ` |  |
+| 838 | eutectic: Liquid -> ζ + (Al) | L: Al 0.673; ζ: Al 0.419; (Al): Al 0.764 | model | [1] Witusiewicz 2004; _cites Spencer 1987_ | Table 7, p. 8, row 11; `ORC-WEOG2D2QIU` |  |
+| 731 | peritectoid: (Ag) + ζ -> µ | (Ag): Al 0.192; ζ: Al 0.234; µ: Al 0.223 | model | [1] Witusiewicz 2004; _cites S-S 1995_ | Table 7, p. 8, row 21; `ORC-UWCQ2KCCKJ` |  |
+| 729 | peritectoid: (Ag) + ζ -> µ | (Ag): Al 0.209; ζ: Al 0.249; µ: Al 0.231 | model | [1] Witusiewicz 2004; _cites Spencer 1987_ | Table 7, p. 8, row 20; `ORC-ASKZCPPJ5Q` |  |
+| 729 | peritectoid: (Ag) + ζ -> μ | (Ag): Al 0.209; ζ: Al 0.249; μ: Al 0.231 | model | [2] Spencer 1987 | Table 3, p. 11, row 10; `ORC-URUFJ7ZS75` |  |
+| 728 | peritectoid: (Ag) + ζ -> μ | (Ag): Al 0.199; ζ: Al 0.238; μ: Al 0.232 | experimental | [2] Spencer 1987; _cites Hansen 1969_ | Table 3, p. 11, row 9; `ORC-46V4FZTKZN` |  |
+| 728 | peritectoid: (Ag) + ζ -> µ | (Ag): Al 0.199; ζ: Al 0.238; µ: Al 0.232 | experimental | [1] Witusiewicz 2004; _cites Hansen 1958_ | Table 7, p. 8, row 19; `ORC-GIZCPPFHRG` |  |
+| 728 | peritectoid: (Ag) + ζ -> µ | (Ag): Al 0.193; ζ: Al 0.242; µ: Al 0.233 | unspecified | [1] Witusiewicz 2004 | Table 7, p. 8, row 22; `ORC-HJVHHELWHC` |  |
 
 ## Other properties
 
@@ -119,9 +119,9 @@ Table: Phase transition, Ag–Al system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 875 K | 875 |  | experimental | [2] Spencer 1987 | p. 2 | “An interesting feature of the Ag--A1 phase diagram is the direct transformation of the hcp ~ phase into the bcc/~ phase at a composition close to 25 at.% A1 and a temperature of about 875 K.” |
-| Phase transition | 875 K | 875 | congruent transformation: β -> ζ; _β: Al 0.25; ζ: Al 0.25_ | experimental | [1] Witusiewicz 2004; _cites Hume-Rothery 1940_ | Table 7, p. 8, row 23 |  |
-| Phase transition | 881 K | 881 | congruent transformation: β -> ζ; _β: Al 0.245; ζ: Al 0.245_ | unspecified | [1] Witusiewicz 2004 | Table 7, p. 8, row 24 |  |
+| Phase transition | 875 K | 875 |  | experimental | [2] Spencer 1987 | p. 2; `ORC-NTRGLCV7ZQ` | “An interesting feature of the Ag--A1 phase diagram is the direct transformation of the hcp ~ phase into the bcc/~ phase at a composition close to 25 at.% A1 and a temperature of about 875 K.” |
+| Phase transition | 875 K | 875 | congruent transformation: β -> ζ; _β: Al 0.25; ζ: Al 0.25_ | experimental | [1] Witusiewicz 2004; _cites Hume-Rothery 1940_ | Table 7, p. 8, row 23; `ORC-7ZH5DXQQ6X` |  |
+| Phase transition | 881 K | 881 | congruent transformation: β -> ζ; _β: Al 0.245; ζ: Al 0.245_ | unspecified | [1] Witusiewicz 2004 | Table 7, p. 8, row 24; `ORC-CHHZ7YENEW` |  |
 
 ### Phase equilibrium (5)
 
@@ -129,11 +129,11 @@ Table: Phase equilibrium, Ag–Al system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 590.15 | ζ; _ζ: Ag 0.6192, Al 0.3808_ | experimental | [1] Witusiewicz 2004 | Table 1, p. 2, row 1 |  |
-| Phase composition |  | 673.15 | (Al) + ζ; _(Al): Ag 0.0225, Al 0.9775; ζ: Ag 0.6274, Al 0.3726_ | experimental | [1] Witusiewicz 2004 | Table 1, p. 2, row 3 |  |
-| Phase composition |  | 773.15 | (Al) + ζ; _(Al): Ag 0.1527, Al 0.8473; ζ: Ag 0.6148, Al 0.3852_ | experimental | [1] Witusiewicz 2004 | Table 1, p. 2, row 2 |  |
-| Phase composition |  | 773.15 | (Al) + ζ; _(Al): Ag 0.08183, Al 0.91817; ζ: Ag 0.6176, Al 0.3824_ | experimental | [1] Witusiewicz 2004 | Table 1, p. 2, row 4 |  |
-| Phase composition |  | 838.15 | (Al) + ζ; _(Al): Ag 0.2647, Al 0.7353; ζ: Ag 0.6129, Al 0.3871_ | experimental | [1] Witusiewicz 2004 | Table 1, p. 2, row 5 |  |
+| Phase composition |  | 590.15 | ζ; _ζ: Ag 0.6192, Al 0.3808_ | experimental | [1] Witusiewicz 2004 | Table 1, p. 2, row 1; `ORC-RZXYDDJGWB` |  |
+| Phase composition |  | 673.15 | (Al) + ζ; _(Al): Ag 0.0225, Al 0.9775; ζ: Ag 0.6274, Al 0.3726_ | experimental | [1] Witusiewicz 2004 | Table 1, p. 2, row 3; `ORC-WVAPGR2J45` |  |
+| Phase composition |  | 773.15 | (Al) + ζ; _(Al): Ag 0.1527, Al 0.8473; ζ: Ag 0.6148, Al 0.3852_ | experimental | [1] Witusiewicz 2004 | Table 1, p. 2, row 2; `ORC-F4DJ7DOQNP` |  |
+| Phase composition |  | 773.15 | (Al) + ζ; _(Al): Ag 0.08183, Al 0.91817; ζ: Ag 0.6176, Al 0.3824_ | experimental | [1] Witusiewicz 2004 | Table 1, p. 2, row 4; `ORC-ZGQGJIXIDX` |  |
+| Phase composition |  | 838.15 | (Al) + ζ; _(Al): Ag 0.2647, Al 0.7353; ζ: Ag 0.6129, Al 0.3871_ | experimental | [1] Witusiewicz 2004 | Table 1, p. 2, row 5; `ORC-BO2F5FB2NK` |  |
 
 ### Mixing / partial (55)
 
@@ -141,61 +141,61 @@ Table: Mixing / partial, Ag–Al system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: ΔH_ | 0.075 kJ/mol (basis unstated) | 1257 | liquid; _alloy: Ag 0.01119, Al 0.98881_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 33 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -1.102 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.241, Al 0.759_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 21 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -2.757 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.4178, Al 0.5822_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 28 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -2.774 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.8798, Al 0.1202_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 4 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -0.002 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.0215, Al 0.9785_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 14 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -4.765 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.6667, Al 0.3333_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 9 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -1.917 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.3212, Al 0.6788_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 23 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 0.009 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.0405, Al 0.9595_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 15 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -2.891 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.432, Al 0.568_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 30 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -4.765 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.7502, Al 0.2498_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 7 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -1.796 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.3094, Al 0.6906_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 24 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -2.285 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.3609, Al 0.6391_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 26 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -2.063 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.3376, Al 0.6624_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 25 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -0.325 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.1428, Al 0.8572_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 19 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -0.804 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.1965, Al 0.8035_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 20 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -0.372 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.1504, Al 0.8496_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 18 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -4.906 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.7099, Al 0.2901_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 8 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -4.787 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.6715, Al 0.3285_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 10 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -0.049 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.0694, Al 0.9306_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 16 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -0.182 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.1133, Al 0.8867_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 17 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -1.455 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.9394, Al 0.0606_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 3 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -1.41 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.2772, Al 0.7228_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 22 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -4.571 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.7829, Al 0.2171_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 6 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -2.574 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.3941, Al 0.6059_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 27 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -2.652 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.4043, Al 0.5957_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 29 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -3.688 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.8375, Al 0.1625_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 5 |  |
-| Partial enthalpy; _printed: ΔH̄i_ | 0 kJ/mol (basis unstated) | 1257 | liquid; _alloy: Ag 0, Al 1_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 32 |  |
-| Partial enthalpy; _printed: ΔH̄i_ | 6.268 kJ/mol (basis unstated) | 1257 | liquid; _alloy: Ag 0.01119, Al 0.98881_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 33 |  |
-| Partial enthalpy; _printed: ΔH̄i_ | -6.54 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.241, Al 0.759_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 21 |  |
-| Partial enthalpy; _printed: ΔH̄i_ | -7.76 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.4178, Al 0.5822_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 28 |  |
-| Partial enthalpy; _printed: ΔH̄i_ | -23.06 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.8798, Al 0.1202_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 4 |  |
-| Partial enthalpy; _printed: ΔH̄i_ | 0.86 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.0215, Al 0.9785_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 14 |  |
-| Partial enthalpy; _printed: ΔH̄i_ | -3.49 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.6667, Al 0.3333_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 9 |  |
-| Partial enthalpy; _printed: ΔH̄i_ | -10.35 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.3212, Al 0.6788_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 23 |  |
-| Partial enthalpy; _printed: ΔH̄i_ | 0 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0, Al 1_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 12 |  |
-| Partial enthalpy; _printed: ΔH̄i_ | 0 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 1, Al 0_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 2 |  |
-| Partial enthalpy; _printed: ΔH̄i_ | 0.97 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.0405, Al 0.9595_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 15 |  |
-| Partial enthalpy; _printed: ΔH̄i_ | -8.38 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.432, Al 0.568_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 30 |  |
-| Partial enthalpy; _printed: ΔH̄i_ | -9.84 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.7502, Al 0.2498_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 7 |  |
-| Partial enthalpy; _printed: ΔH̄i_ | 1.58 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.3094, Al 0.6906_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 24 |  |
-| Partial enthalpy; _printed: ΔH̄i_ | -8.78 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.3609, Al 0.6391_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 26 |  |
-| Partial enthalpy; _printed: ΔH̄i_ | -8.8 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.3376, Al 0.6624_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 25 |  |
-| Partial enthalpy; _printed: ΔH̄i_ | 0.52 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.1428, Al 0.8572_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 19 |  |
-| Partial enthalpy; _printed: ΔH̄i_ | -8.06 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.1965, Al 0.8035_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 20 |  |
-| Partial enthalpy; _printed: ΔH̄i_ | -4.57 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.1504, Al 0.8496_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 18 |  |
-| Partial enthalpy; _printed: ΔH̄i_ | -8.15 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.7099, Al 0.2901_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 8 |  |
-| Partial enthalpy; _printed: ΔH̄i_ | -6.17 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.6715, Al 0.3285_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 10 |  |
-| Partial enthalpy; _printed: ΔH̄i_ | -1.47 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.0694, Al 0.9306_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 16 |  |
-| Partial enthalpy; _printed: ΔH̄i_ | -2.44 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.1133, Al 0.8867_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 17 |  |
-| Partial enthalpy; _printed: ΔH̄i_ | -24.49 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.9394, Al 0.0606_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 3 |  |
-| Partial enthalpy; _printed: ΔH̄i_ | -7.96 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.2772, Al 0.7228_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 22 |  |
-| Partial enthalpy; _printed: ΔH̄i_ | -18.02 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.7829, Al 0.2171_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 6 |  |
-| Partial enthalpy; _printed: ΔH̄i_ | -8.49 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.3941, Al 0.6059_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 27 |  |
-| Partial enthalpy; _printed: ΔH̄i_ | 0.84 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.4043, Al 0.5957_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 29 |  |
-| Partial enthalpy; _printed: ΔH̄i_ | -22.35 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.8375, Al 0.1625_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 5 |  |
+| Enthalpy of mixing; _printed: ΔH_ | 0.075 kJ/mol (basis unstated) | 1257 | liquid; _alloy: Ag 0.01119, Al 0.98881_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 33; `ORC-OUFFZ4NUT6.dddf79` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -1.102 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.241, Al 0.759_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 21; `ORC-2O4JUH27VB.b662f4` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -2.757 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.4178, Al 0.5822_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 28; `ORC-2TX7LFD3MI.cb130d` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -2.774 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.8798, Al 0.1202_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 4; `ORC-3I6VR6ZDAU.b6b8e8` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -0.002 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.0215, Al 0.9785_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 14; `ORC-3MQYJ52Q7A.d8b724` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -4.765 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.6667, Al 0.3333_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 9; `ORC-3XTZIFYB7M.ff15e7` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -1.917 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.3212, Al 0.6788_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 23; `ORC-6UT22CYEGJ.9ea29f` |  |
+| Enthalpy of mixing; _printed: ΔH_ | 0.009 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.0405, Al 0.9595_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 15; `ORC-E3HWG773UQ.d51db9` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -2.891 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.432, Al 0.568_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 30; `ORC-EBF4OI2QO5.bb0e15` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -4.765 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.7502, Al 0.2498_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 7; `ORC-EYFSFUAOVH.8de409` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -1.796 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.3094, Al 0.6906_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 24; `ORC-GRNVJBZUX6.d70c6a` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -2.285 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.3609, Al 0.6391_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 26; `ORC-J34CQRFRYX.757c44` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -2.063 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.3376, Al 0.6624_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 25; `ORC-JJXTGT5WZG.5a0ce9` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -0.325 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.1428, Al 0.8572_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 19; `ORC-JZHLVSS7DQ.e32bda` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -0.804 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.1965, Al 0.8035_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 20; `ORC-N3SLK5V6IG.6c88e2` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -0.372 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.1504, Al 0.8496_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 18; `ORC-ND2S3K6D7B.a912bf` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -4.906 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.7099, Al 0.2901_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 8; `ORC-ONHTONOTXV.d850b1` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -4.787 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.6715, Al 0.3285_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 10; `ORC-OSHJJERJUE.c2bed0` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -0.049 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.0694, Al 0.9306_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 16; `ORC-RHYNPE2UN5.ebca2d` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -0.182 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.1133, Al 0.8867_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 17; `ORC-RNTCHNYGJO.0e2266` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -1.455 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.9394, Al 0.0606_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 3; `ORC-SQTEOVU3NE.3ea98c` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -1.41 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.2772, Al 0.7228_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 22; `ORC-XIYJYCCKVM.906e3b` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -4.571 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.7829, Al 0.2171_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 6; `ORC-XL3EPH2WPK.d5301e` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -2.574 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.3941, Al 0.6059_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 27; `ORC-Y36OVWBV23.ed8574` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -2.652 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.4043, Al 0.5957_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 29; `ORC-Y4RGPLOXQI.3890cc` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -3.688 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.8375, Al 0.1625_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 5; `ORC-YFE2RMPEYL.6a45e4` |  |
+| Partial enthalpy; _printed: ΔH̄i_ | 0 kJ/mol (basis unstated) | 1257 | liquid; _alloy: Ag 0, Al 1_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 32; `ORC-B4KB6D5M4Q.430eea` |  |
+| Partial enthalpy; _printed: ΔH̄i_ | 6.268 kJ/mol (basis unstated) | 1257 | liquid; _alloy: Ag 0.01119, Al 0.98881_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 33; `ORC-OUFFZ4NUT6.fa142c` |  |
+| Partial enthalpy; _printed: ΔH̄i_ | -6.54 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.241, Al 0.759_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 21; `ORC-2O4JUH27VB.82b4ac` |  |
+| Partial enthalpy; _printed: ΔH̄i_ | -7.76 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.4178, Al 0.5822_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 28; `ORC-2TX7LFD3MI.6d8435` |  |
+| Partial enthalpy; _printed: ΔH̄i_ | -23.06 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.8798, Al 0.1202_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 4; `ORC-3I6VR6ZDAU.8500d6` |  |
+| Partial enthalpy; _printed: ΔH̄i_ | 0.86 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.0215, Al 0.9785_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 14; `ORC-3MQYJ52Q7A.c4babd` |  |
+| Partial enthalpy; _printed: ΔH̄i_ | -3.49 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.6667, Al 0.3333_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 9; `ORC-3XTZIFYB7M.a287eb` |  |
+| Partial enthalpy; _printed: ΔH̄i_ | -10.35 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.3212, Al 0.6788_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 23; `ORC-6UT22CYEGJ.577e03` |  |
+| Partial enthalpy; _printed: ΔH̄i_ | 0 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0, Al 1_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 12; `ORC-A457RLOQUZ.aefe52` |  |
+| Partial enthalpy; _printed: ΔH̄i_ | 0 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 1, Al 0_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 2; `ORC-D4UB6MT7XP.d34adf` |  |
+| Partial enthalpy; _printed: ΔH̄i_ | 0.97 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.0405, Al 0.9595_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 15; `ORC-E3HWG773UQ.4ad25a` |  |
+| Partial enthalpy; _printed: ΔH̄i_ | -8.38 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.432, Al 0.568_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 30; `ORC-EBF4OI2QO5.511f72` |  |
+| Partial enthalpy; _printed: ΔH̄i_ | -9.84 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.7502, Al 0.2498_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 7; `ORC-EYFSFUAOVH.6e6c5d` |  |
+| Partial enthalpy; _printed: ΔH̄i_ | 1.58 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.3094, Al 0.6906_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 24; `ORC-GRNVJBZUX6.a2f228` |  |
+| Partial enthalpy; _printed: ΔH̄i_ | -8.78 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.3609, Al 0.6391_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 26; `ORC-J34CQRFRYX.f24645` |  |
+| Partial enthalpy; _printed: ΔH̄i_ | -8.8 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.3376, Al 0.6624_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 25; `ORC-JJXTGT5WZG.8b2f2f` |  |
+| Partial enthalpy; _printed: ΔH̄i_ | 0.52 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.1428, Al 0.8572_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 19; `ORC-JZHLVSS7DQ.97b8c6` |  |
+| Partial enthalpy; _printed: ΔH̄i_ | -8.06 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.1965, Al 0.8035_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 20; `ORC-N3SLK5V6IG.0fd009` |  |
+| Partial enthalpy; _printed: ΔH̄i_ | -4.57 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.1504, Al 0.8496_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 18; `ORC-ND2S3K6D7B.055d54` |  |
+| Partial enthalpy; _printed: ΔH̄i_ | -8.15 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.7099, Al 0.2901_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 8; `ORC-ONHTONOTXV.9fd12a` |  |
+| Partial enthalpy; _printed: ΔH̄i_ | -6.17 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.6715, Al 0.3285_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 10; `ORC-OSHJJERJUE.8c8e33` |  |
+| Partial enthalpy; _printed: ΔH̄i_ | -1.47 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.0694, Al 0.9306_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 16; `ORC-RHYNPE2UN5.9793eb` |  |
+| Partial enthalpy; _printed: ΔH̄i_ | -2.44 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.1133, Al 0.8867_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 17; `ORC-RNTCHNYGJO.04a6dd` |  |
+| Partial enthalpy; _printed: ΔH̄i_ | -24.49 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.9394, Al 0.0606_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 3; `ORC-SQTEOVU3NE.afb847` |  |
+| Partial enthalpy; _printed: ΔH̄i_ | -7.96 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.2772, Al 0.7228_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 22; `ORC-XIYJYCCKVM.8da3c5` |  |
+| Partial enthalpy; _printed: ΔH̄i_ | -18.02 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.7829, Al 0.2171_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 6; `ORC-XL3EPH2WPK.f69353` |  |
+| Partial enthalpy; _printed: ΔH̄i_ | -8.49 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.3941, Al 0.6059_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 27; `ORC-Y36OVWBV23.64b0fb` |  |
+| Partial enthalpy; _printed: ΔH̄i_ | 0.84 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.4043, Al 0.5957_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 29; `ORC-Y4RGPLOXQI.63560c` |  |
+| Partial enthalpy; _printed: ΔH̄i_ | -22.35 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.8375, Al 0.1625_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 5; `ORC-YFE2RMPEYL.9ed313` |  |
 
 ### Other property (1)
 
@@ -203,7 +203,7 @@ Table: Other property, Ag–Al system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Other; _printed: transformation enthalpy_ | 1008 J/g-atom | 875 |  | model | [2] Spencer 1987 | p. 10 | “transformation enthalpy ~ ~/~ (875 K) obtained from the evaluation for an alloy of composition XA1= 0.245 is 1 008J/g-atom.” |
+| Other; _printed: transformation enthalpy_ | 1008 J/g-atom | 875 |  | model | [2] Spencer 1987 | p. 10; `ORC-432IKDX533` | “transformation enthalpy ~ ~/~ (875 K) obtained from the evaluation for an alloy of composition XA1= 0.245 is 1 008J/g-atom.” |
 
 ## Sources
 
@@ -269,4 +269,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

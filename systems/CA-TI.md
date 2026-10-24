@@ -51,13 +51,13 @@ Table: Invariant reactions reported in the literature for the Ca–Ti system (7)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1938.15 | monotectic: Liquid'' = Liquid' + bTi |  | model | [1] Hampl 2015 | p. 5 | “The monotectic reaction Liquid00 = Liquid0 ? bTi calculated at 1665 °C will therefore not occur at a pressure of 1 bar; instead, at 1500 °C the reaction Gas (10-5 at.% Ti) ? bTi = Liquid (0.29 at.% Ti) occurs at 1 bar, and the two-phase equilibrium Gas ? bTi is adjoining from 1500 to 1666 °C.” |
-| 1938.15 | L'' = L' + βTi | L'': Ti 0.99577; L': Ti 0.00423; βTi: Ti 0.99691 | model | [1] Hampl 2015 | Table 3, p. 5, row 1 |  |
-| 1156.15 | L' + βTi = αTi | L': Ti 3.200e-4; βTi: Ti 0.99992 | model | [1] Hampl 2015 | Table 3, p. 5, row 2 |  |
-| 1156.15 | peritectic: L0 + bTi = aTi |  | model | [1] Hampl 2015 | p. 5 | “The Ca solubility in aTi is higher than in bTi, producing the peritectic transformation type, L0 ? bTi = aTi, at 883 °C.” |
-| 1115.15 | L' = βCa + αTi | L': Ti 2.600e-4; βCa: Ti 6.000e-5; αTi: Ti 0.99963 | model | [1] Hampl 2015 | Table 3, p. 5, row 3 |  |
-| 1115.15 | eutectic |  | model | [1] Hampl 2015 | p. 5 | “Using a simplified, temperature independent, interaction = 75,000 J/mol, produces essentially parameter, L0;liquid Ca;Ti the same calculated solubility values from the eutectic at 842 °C up to about 900 °C, also reproducing the experimental data from \[6\] in that range.” |
-| 716.15 | eutectic: βCa = αCa (+αTi) | αTi: Ti 0.99999 | model | [1] Hampl 2015 | Table 3, p. 5, row 4 |  |
+| 1938.15 | monotectic: Liquid'' = Liquid' + bTi |  | model | [1] Hampl 2015 | p. 5; `ORC-6QQ73VQHO6.1dbcec` | “The monotectic reaction Liquid00 = Liquid0 ? bTi calculated at 1665 °C will therefore not occur at a pressure of 1 bar; instead, at 1500 °C the reaction Gas (10-5 at.% Ti) ? bTi = Liquid (0.29 at.% Ti) occurs at 1 bar, and the two-phase equilibrium Gas ? bTi is adjoining from 1500 to 1666 °C.” |
+| 1938.15 | L'' = L' + βTi | L'': Ti 0.99577; L': Ti 0.00423; βTi: Ti 0.99691 | model | [1] Hampl 2015 | Table 3, p. 5, row 1; `ORC-DB4CHVBPYB` |  |
+| 1156.15 | L' + βTi = αTi | L': Ti 3.200e-4; βTi: Ti 0.99992 | model | [1] Hampl 2015 | Table 3, p. 5, row 2; `ORC-ICEYYVA3IO` |  |
+| 1156.15 | peritectic: L0 + bTi = aTi |  | model | [1] Hampl 2015 | p. 5; `ORC-RK3QRUFDGR` | “The Ca solubility in aTi is higher than in bTi, producing the peritectic transformation type, L0 ? bTi = aTi, at 883 °C.” |
+| 1115.15 | L' = βCa + αTi | L': Ti 2.600e-4; βCa: Ti 6.000e-5; αTi: Ti 0.99963 | model | [1] Hampl 2015 | Table 3, p. 5, row 3; `ORC-4ER4RGW7YR` |  |
+| 1115.15 | eutectic |  | model | [1] Hampl 2015 | p. 5; `ORC-7B66TMT7QS` | “Using a simplified, temperature independent, interaction = 75,000 J/mol, produces essentially parameter, L0;liquid Ca;Ti the same calculated solubility values from the eutectic at 842 °C up to about 900 °C, also reproducing the experimental data from \[6\] in that range.” |
+| 716.15 | eutectic: βCa = αCa (+αTi) | αTi: Ti 0.99999 | model | [1] Hampl 2015 | Table 3, p. 5, row 4; `ORC-3ULKGJMJQ4` |  |
 
 ## Other properties
 
@@ -67,10 +67,10 @@ Table: Phase transition, Ca–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1773.15 K | 1773.15 | Gas + bTi = Liquid | model | [1] Hampl 2015 | p. 5 | “The monotectic reaction Liquid00 = Liquid0 ? bTi calculated at 1665 °C will therefore not occur at a pressure of 1 bar; instead, at 1500 °C the reaction Gas (10-5 at.% Ti) ? bTi = Liquid (0.29 at.% Ti) occurs at 1 bar, and the two-phase equilibrium Gas ? bTi is adjoining from 1500 to 1666 °C.” |
-| Phase transition | 1926.15 K | 1926.15 | other | model | [1] Hampl 2015 | p. 5 | “For that parameter setting, the monotectic temperature is lower, 1653 °C, compared to the value of 1665 °C in the finally assessed diagram using the value of L0;liquid = (50,000 ? 20T) J/mol.” |
-| Phase transition | 1938.15 K | 1938.15 | other | model | [1] Hampl 2015 | p. 5 | “For that parameter setting, the monotectic temperature is lower, 1653 °C, compared to the value of 1665 °C in the finally assessed diagram using the value of L0;liquid = (50,000 ? 20T) J/mol.” |
-| Phase transition | 1941.15 K | 1941.15 |  | experimental | [1] Hampl 2015 | p. 10 | “The consistent thermodynamic calculation reveals that a wide liquid miscibility gap must exist between Ca- and Ti-rich melts above the monotectic reaction, close to the melting point of Ti at 1668 °C.” |
+| Phase transition | 1773.15 K | 1773.15 | Gas + bTi = Liquid | model | [1] Hampl 2015 | p. 5; `ORC-6QQ73VQHO6.4588c3` | “The monotectic reaction Liquid00 = Liquid0 ? bTi calculated at 1665 °C will therefore not occur at a pressure of 1 bar; instead, at 1500 °C the reaction Gas (10-5 at.% Ti) ? bTi = Liquid (0.29 at.% Ti) occurs at 1 bar, and the two-phase equilibrium Gas ? bTi is adjoining from 1500 to 1666 °C.” |
+| Phase transition | 1926.15 K | 1926.15 | other | model | [1] Hampl 2015 | p. 5; `ORC-H466JPHAQL.4d06f6` | “For that parameter setting, the monotectic temperature is lower, 1653 °C, compared to the value of 1665 °C in the finally assessed diagram using the value of L0;liquid = (50,000 ? 20T) J/mol.” |
+| Phase transition | 1938.15 K | 1938.15 | other | model | [1] Hampl 2015 | p. 5; `ORC-H466JPHAQL.c14b13` | “For that parameter setting, the monotectic temperature is lower, 1653 °C, compared to the value of 1665 °C in the finally assessed diagram using the value of L0;liquid = (50,000 ? 20T) J/mol.” |
+| Phase transition | 1941.15 K | 1941.15 |  | experimental | [1] Hampl 2015 | p. 10; `ORC-J7MKCIYGVM` | “The consistent thermodynamic calculation reveals that a wide liquid miscibility gap must exist between Ca- and Ti-rich melts above the monotectic reaction, close to the melting point of Ti at 1668 °C.” |
 
 ## Sources
 
@@ -135,4 +135,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

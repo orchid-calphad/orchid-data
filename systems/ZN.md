@@ -33,15 +33,15 @@ Table: Invariant reactions reported in the literature for the Zn system (9)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 693.15 | congruent melting: L -> hcp - Zn | L: Zn 1 | model | [1] Liu 2008 | Table 3, p. 5, row 44 |  |
-| 693.15 | congruent melting: L -> hcp - Zn | L: Zn 1 | experimental | [1] Liu 2008; _cites Mason 1976_ [doi](https://doi.org/10.1007/bf02644469) | Table 3, p. 5, row 46 |  |
-| 692.73 | congruent melting: Zn(s) ↔ Zn(L) |  | model | [2] Vassilev 2004 | Table 4, p. 7, row 2 |  |
-| 692.73 | congruent melting: Zn(s) ↔ Zn(L) |  | experimental | [2] Vassilev 2004 | Table 4, p. 7, row 1 |  |
-| 692.73 | congruent melting: Zn(s) \<-> Zn(L) | Zn: Zn 1 | unspecified | [2] Vassilev 2004; _cites Dinsdale 1991_ | Table 3, p. 6, row 22 |  |
-| 692.73 | congruent melting: L -> hcp - Zn | L: Zn 1 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 3, p. 5, row 47 |  |
-| 692.65 | congruent melting: Zn(s) \<-> Zn(L) | Zn: Zn 1 | unspecified | [2] Vassilev 2004; _cites ref. 1993Bar_ | Table 3, p. 6, row 21 |  |
-| 692.15 | congruent melting: L -> hcp - Zn | L: Zn 1 | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 3, p. 5, row 45 |  |
-| 691 | L2 -> (Zn) + L1 | L2: Zn 0.997 | experimental | [3] Srivastava 1993; _cites ref. 3_ | Table 3, p. 7, row 9 |  |
+| 693.15 | congruent melting: L -> hcp - Zn | L: Zn 1 | model | [1] Liu 2008 | Table 3, p. 5, row 44; `ORC-ANTZ7U3TFC` |  |
+| 693.15 | congruent melting: L -> hcp - Zn | L: Zn 1 | experimental | [1] Liu 2008; _cites Mason 1976_ [doi](https://doi.org/10.1007/bf02644469) | Table 3, p. 5, row 46; `ORC-SGSVALC3TA` |  |
+| 692.73 | congruent melting: Zn(s) ↔ Zn(L) |  | model | [2] Vassilev 2004 | Table 4, p. 7, row 2; `ORC-IRO3P6TFBX` |  |
+| 692.73 | congruent melting: Zn(s) ↔ Zn(L) |  | experimental | [2] Vassilev 2004 | Table 4, p. 7, row 1; `ORC-N3HPIPFGPB` |  |
+| 692.73 | congruent melting: Zn(s) \<-> Zn(L) | Zn: Zn 1 | unspecified | [2] Vassilev 2004; _cites Dinsdale 1991_ | Table 3, p. 6, row 22; `ORC-UIWCTIA6N5` |  |
+| 692.73 | congruent melting: L -> hcp - Zn | L: Zn 1 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 3, p. 5, row 47; `ORC-W4ZOHSNJR6` |  |
+| 692.65 | congruent melting: Zn(s) \<-> Zn(L) | Zn: Zn 1 | unspecified | [2] Vassilev 2004; _cites ref. 1993Bar_ | Table 3, p. 6, row 21; `ORC-VAQMMPYXBK` |  |
+| 692.15 | congruent melting: L -> hcp - Zn | L: Zn 1 | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 3, p. 5, row 45; `ORC-KP2GNLYSVG` |  |
+| 691 | L2 -> (Zn) + L1 | L2: Zn 0.997 | experimental | [3] Srivastava 1993; _cites ref. 3_ | Table 3, p. 7, row 9; `ORC-TTWDHPJZS3` |  |
 
 ## Other properties
 
@@ -51,9 +51,9 @@ Table: Phase transition, Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 692 K | 692 | congruent melting: L -> Zn; _L: Zn 1; Zn: Zn 1_ | experimental | [4] Li 2007; _cites Izard 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900008-1) | Table 2, p. 3, row 48 |  |
-| Phase transition | 692.58 K | 692.58 | congruent melting: L \<-> (Zn); _L: Zn 1; (Zn): Zn 1_ | experimental | [5] Liu 2009; _cites Adjadj 2007_ [doi](https://doi.org/10.1016/j.jallcom.2006.04.051) | Table 6, p. 5, row 1 |  |
-| Phase transition | 703.15 K | 703.15 | Solubility in the liquid phase; _L: Zn 0.995_ | experimental | [6] Reumont 2003 | Table 1, p. 3, row 3 |  |
+| Phase transition | 692 K | 692 | congruent melting: L -> Zn; _L: Zn 1; Zn: Zn 1_ | experimental | [4] Li 2007; _cites Izard 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900008-1) | Table 2, p. 3, row 48; `ORC-K44E3IP52V` |  |
+| Phase transition | 692.58 K | 692.58 | congruent melting: L \<-> (Zn); _L: Zn 1; (Zn): Zn 1_ | experimental | [5] Liu 2009; _cites Adjadj 2007_ [doi](https://doi.org/10.1016/j.jallcom.2006.04.051) | Table 6, p. 5, row 1; `ORC-ENW7KJARKK` |  |
+| Phase transition | 703.15 K | 703.15 | Solubility in the liquid phase; _L: Zn 0.995_ | experimental | [6] Reumont 2003 | Table 1, p. 3, row 3; `ORC-QPX3DY2O2E` |  |
 
 ### Activity / EMF / Gibbs energy (175)
 
@@ -61,181 +61,181 @@ Table: Activity / EMF / Gibbs energy, Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| EMF; _printed: emf_ | 0.645 mV | 668 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 174 |  |
-| EMF; _printed: emf_ | 0.63 mV | 668 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 171 |  |
-| EMF; _printed: emf_ | 0.62 mV | 668 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 172 |  |
-| EMF; _printed: emf_ | 0.64 mV | 668 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 175 |  |
-| EMF; _printed: emf_ | 0.77 mV | 668 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 173 |  |
-| EMF; _printed: emf_ | 0.77 mV | 672.6 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 168 |  |
-| EMF; _printed: emf_ | 0.65 mV | 672.6 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 169 |  |
-| EMF; _printed: emf_ | 0.62 mV | 672.6 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 167 |  |
-| EMF; _printed: emf_ | 0.64 mV | 672.6 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 170 |  |
-| EMF; _printed: emf_ | 0.64 mV | 672.6 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 166 |  |
-| EMF; _printed: emf_ | 0.66 mV | 677.5 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 165 |  |
-| EMF; _printed: emf_ | 0.63 mV | 677.5 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 162 |  |
-| EMF; _printed: emf_ | 0.64 mV | 677.5 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 161 |  |
-| EMF; _printed: emf_ | 0.66 mV | 677.5 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 164 |  |
-| EMF; _printed: emf_ | 0.78 mV | 677.5 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 163 |  |
-| EMF; _printed: emf_ | 0.65 mV | 682.2 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 157 |  |
-| EMF; _printed: emf_ | 0.645 mV | 682.2 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 156 |  |
-| EMF; _printed: emf_ | 0.68 mV | 682.2 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 159 |  |
-| EMF; _printed: emf_ | 0.79 mV | 682.2 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 158 |  |
-| EMF; _printed: emf_ | 0.685 mV | 682.2 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 160 |  |
-| EMF; _printed: emf_ | 0.65 mV | 687.2 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 154 |  |
-| EMF; _printed: emf_ | 0.67 mV | 687.2 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 152 |  |
-| EMF; _printed: emf_ | 0.71 mV | 687.2 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 155 |  |
-| EMF; _printed: emf_ | 0.8 mV | 687.2 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 153 |  |
-| EMF; _printed: emf_ | 0.65 mV | 687.2 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 151 |  |
-| EMF; _printed: emf_ | 0.78 mV | 692 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 148 |  |
-| EMF; _printed: emf_ | 0.63 mV | 692 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 146 |  |
-| EMF; _printed: emf_ | 0.7 mV | 692 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 150 |  |
-| EMF; _printed: emf_ | 0.665 mV | 692 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 147 |  |
-| EMF; _printed: emf_ | 0.67 mV | 692 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 149 |  |
-| EMF; _printed: emf_ | 0.6 mV | 698 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 145 |  |
-| EMF; _printed: emf_ | 0.6 mV | 698 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 142 |  |
-| EMF; _printed: emf_ | 0.6 mV | 698 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 143 |  |
-| EMF; _printed: emf_ | 0.6 mV | 698 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 144 |  |
-| EMF; _printed: emf_ | 0.6 mV | 698 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 141 |  |
-| EMF; _printed: emf_ | 0.71 mV | 701.2 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 137 |  |
-| EMF; _printed: emf_ | 0.67 mV | 701.2 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 138 |  |
-| EMF; _printed: emf_ | 0.6 mV | 701.2 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 140 |  |
-| EMF; _printed: emf_ | 0.6 mV | 701.2 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 139 |  |
-| EMF; _printed: emf_ | 0.585 mV | 701.2 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 136 |  |
-| EMF; _printed: emf_ | 0.65 mV | 706.2 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 135 |  |
-| EMF; _printed: emf_ | 0.7 mV | 706.2 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 133 |  |
-| EMF; _printed: emf_ | 0.76 mV | 706.2 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 132 |  |
-| EMF; _printed: emf_ | 0.63 mV | 706.2 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 131 |  |
-| EMF; _printed: emf_ | 0.645 mV | 706.2 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 134 |  |
-| EMF; _printed: emf_ | 0.775 mV | 710.8 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 127 |  |
-| EMF; _printed: emf_ | 0.69 mV | 710.8 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 129 |  |
-| EMF; _printed: emf_ | 0.74 mV | 710.8 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 128 |  |
-| EMF; _printed: emf_ | 0.68 mV | 710.8 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 130 |  |
-| EMF; _printed: emf_ | 0.68 mV | 710.8 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 126 |  |
-| EMF; _printed: emf_ | 0.74 mV | 715.2 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 124 |  |
-| EMF; _printed: emf_ | 0.87 mV | 715.2 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 122 |  |
-| EMF; _printed: emf_ | 0.73 mV | 715.2 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 125 |  |
-| EMF; _printed: emf_ | 0.795 mV | 715.2 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 123 |  |
-| EMF; _printed: emf_ | 0.7 mV | 715.2 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 121 |  |
-| EMF; _printed: emf_ | 0.845 mV | 720.4 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 118 |  |
-| EMF; _printed: emf_ | 0.77 mV | 720.4 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 120 |  |
-| EMF; _printed: emf_ | 0.92 mV | 720.4 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 117 |  |
-| EMF; _printed: emf_ | 0.79 mV | 720.4 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 119 |  |
-| EMF; _printed: emf_ | 0.71 mV | 720.4 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 116 |  |
-| EMF; _printed: emf_ | 0.71 mV | 725.2 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 111 |  |
-| EMF; _printed: emf_ | 0.97 mV | 725.2 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 112 |  |
-| EMF; _printed: emf_ | 0.87 mV | 725.2 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 114 |  |
-| EMF; _printed: emf_ | 0.9 mV | 725.2 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 113 |  |
-| EMF; _printed: emf_ | 0.82 mV | 725.2 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 115 |  |
-| EMF; _printed: emf_ | 1.01 mV | 730 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 107 |  |
-| EMF; _printed: emf_ | 0.96 mV | 730 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 108 |  |
-| EMF; _printed: emf_ | 0.72 mV | 730 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 106 |  |
-| EMF; _printed: emf_ | 0.87 mV | 730 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 110 |  |
-| EMF; _printed: emf_ | 0.89 mV | 730 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 109 |  |
-| EMF; _printed: emf_ | 1.05 mV | 734.7 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 102 |  |
-| EMF; _printed: emf_ | 1.02 mV | 734.7 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 103 |  |
-| EMF; _printed: emf_ | 0.72 mV | 734.7 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 101 |  |
-| EMF; _printed: emf_ | 0.95 mV | 734.7 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 104 |  |
-| EMF; _printed: emf_ | 0.92 mV | 734.7 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 105 |  |
-| EMF; _printed: emf_ | 1.08 mV | 739.6 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 98 |  |
-| EMF; _printed: emf_ | 0.96 mV | 739.6 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 100 |  |
-| EMF; _printed: emf_ | 1 mV | 739.6 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 99 |  |
-| EMF; _printed: emf_ | 0.73 mV | 739.6 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 96 |  |
-| EMF; _printed: emf_ | 1.09 mV | 739.6 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 97 |  |
-| EMF; _printed: emf_ | 1.05 mV | 744.6 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 95 |  |
-| EMF; _printed: emf_ | 1.08 mV | 744.6 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 94 |  |
-| EMF; _printed: emf_ | 1.155 mV | 744.6 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 93 |  |
-| EMF; _printed: emf_ | 1.22 mV | 744.6 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 92 |  |
-| EMF; _printed: emf_ | 0.73 mV | 744.6 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 91 |  |
-| EMF; _printed: emf_ | 1.28 mV | 749.4 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 87 |  |
-| EMF; _printed: emf_ | 1.23 mV | 749.4 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 88 |  |
-| EMF; _printed: emf_ | 1.12 mV | 749.4 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 90 |  |
-| EMF; _printed: emf_ | 1.16 mV | 749.4 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 89 |  |
-| EMF; _printed: emf_ | 0.74 mV | 749.4 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 86 |  |
-| EMF; _printed: emf_ | 1.34 mV | 754.1 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 82 |  |
-| EMF; _printed: emf_ | 1.3 mV | 754.1 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 83 |  |
-| EMF; _printed: emf_ | 1.23 mV | 754.1 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 84 |  |
-| EMF; _printed: emf_ | 1.19 mV | 754.1 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 85 |  |
-| EMF; _printed: emf_ | 0.74 mV | 754.1 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 81 |  |
-| EMF; _printed: emf_ | 0.75 mV | 758.9 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 76 |  |
-| EMF; _printed: emf_ | 1.4 mV | 758.9 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 77 |  |
-| EMF; _printed: emf_ | 1.32 mV | 758.9 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 79 |  |
-| EMF; _printed: emf_ | 1.27 mV | 758.9 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 80 |  |
-| EMF; _printed: emf_ | 1.38 mV | 758.9 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 78 |  |
-| EMF; _printed: emf_ | 1.35 mV | 764 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 75 |  |
-| EMF; _printed: emf_ | 0.76 mV | 764 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 71 |  |
-| EMF; _printed: emf_ | 1.46 mV | 764 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 73 |  |
-| EMF; _printed: emf_ | 1.46 mV | 764 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 72 |  |
-| EMF; _printed: emf_ | 1.39 mV | 764 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 74 |  |
-| EMF; _printed: emf_ | 1.52 mV | 768.5 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 67 |  |
-| EMF; _printed: emf_ | 1.5 mV | 768.5 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 69 |  |
-| EMF; _printed: emf_ | 1.56 mV | 768.5 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 68 |  |
-| EMF; _printed: emf_ | 1.45 mV | 768.5 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 70 |  |
-| EMF; _printed: emf_ | 0.77 mV | 768.5 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 66 |  |
-| EMF; _printed: emf_ | 0.78 mV | 773.3 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 61 |  |
-| EMF; _printed: emf_ | 1.58 mV | 773.3 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 64 |  |
-| EMF; _printed: emf_ | 1.51 mV | 773.3 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 62 |  |
-| EMF; _printed: emf_ | 1.65 mV | 773.3 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 63 |  |
-| EMF; _printed: emf_ | 1.54 mV | 773.3 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 65 |  |
-| EMF; _printed: emf_ | 0.79 mV | 778.1 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 56 |  |
-| EMF; _printed: emf_ | 1.52 mV | 778.1 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 57 |  |
-| EMF; _printed: emf_ | 1.645 mV | 778.1 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 60 |  |
-| EMF; _printed: emf_ | 1.68 mV | 778.1 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 59 |  |
-| EMF; _printed: emf_ | 1.75 mV | 778.1 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 58 |  |
-| EMF; _printed: emf_ | 0.79 mV | 782.9 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 51 |  |
-| EMF; _printed: emf_ | 1.53 mV | 782.9 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 52 |  |
-| EMF; _printed: emf_ | 1.75 mV | 782.9 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 55 |  |
-| EMF; _printed: emf_ | 1.77 mV | 782.9 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 54 |  |
-| EMF; _printed: emf_ | 1.85 mV | 782.9 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 53 |  |
-| EMF; _printed: emf_ | 1.54 mV | 787.6 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 47 |  |
-| EMF; _printed: emf_ | 1.85 mV | 787.6 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 50 |  |
-| EMF; _printed: emf_ | 1.9 mV | 787.6 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 49 |  |
-| EMF; _printed: emf_ | 1.96 mV | 787.6 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 48 |  |
-| EMF; _printed: emf_ | 0.8 mV | 787.6 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 46 |  |
-| EMF; _printed: emf_ | 1.92 mV | 792.5 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 45 |  |
-| EMF; _printed: emf_ | 2.08 mV | 792.5 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 43 |  |
-| EMF; _printed: emf_ | 2.06 mV | 792.5 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 44 |  |
-| EMF; _printed: emf_ | 1.555 mV | 792.5 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 42 |  |
-| EMF; _printed: emf_ | 0.81 mV | 792.5 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 41 |  |
-| EMF; _printed: emf_ | 1.56 mV | 797.4 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 37 |  |
-| EMF; _printed: emf_ | 2.2 mV | 797.4 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 38 |  |
-| EMF; _printed: emf_ | 0.82 mV | 797.4 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 36 |  |
-| EMF; _printed: emf_ | 2.03 mV | 797.4 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 40 |  |
-| EMF; _printed: emf_ | 2.15 mV | 797.4 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 39 |  |
-| EMF; _printed: emf_ | 1.57 mV | 802.1 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 32 |  |
-| EMF; _printed: emf_ | 2.33 mV | 802.1 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 33 |  |
-| EMF; _printed: emf_ | 0.83 mV | 802.1 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 31 |  |
-| EMF; _printed: emf_ | 2.19 mV | 802.1 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 35 |  |
-| EMF; _printed: emf_ | 2.27 mV | 802.1 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 34 |  |
-| EMF; _printed: emf_ | 1.57 mV | 807 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 27 |  |
-| EMF; _printed: emf_ | 2.5 mV | 807 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 28 |  |
-| EMF; _printed: emf_ | 2.35 mV | 807 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 30 |  |
-| EMF; _printed: emf_ | 0.84 mV | 807 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 26 |  |
-| EMF; _printed: emf_ | 2.44 mV | 807 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 29 |  |
-| EMF; _printed: emf_ | 0.85 mV | 811.7 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 21 |  |
-| EMF; _printed: emf_ | 2.58 mV | 811.7 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 24 |  |
-| EMF; _printed: emf_ | 1.58 mV | 811.7 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 22 |  |
-| EMF; _printed: emf_ | 2.52 mV | 811.7 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 23 |  |
-| EMF; _printed: emf_ | 2.49 mV | 811.7 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 25 |  |
-| EMF; _printed: emf_ | 1.59 mV | 816.5 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 17 |  |
-| EMF; _printed: emf_ | 2.73 mV | 816.5 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 19 |  |
-| EMF; _printed: emf_ | 2.53 mV | 816.5 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 18 |  |
-| EMF; _printed: emf_ | 2.66 mV | 816.5 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 20 |  |
-| EMF; _printed: emf_ | 0.855 mV | 816.5 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 16 |  |
-| EMF; _printed: emf_ | 2.82 mV | 821.4 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 15 |  |
-| EMF; _printed: emf_ | 1.6 mV | 821.4 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 12 |  |
-| EMF; _printed: emf_ | 0.86 mV | 821.4 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 11 |  |
-| EMF; _printed: emf_ | 2.55 mV | 821.4 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 13 |  |
-| EMF; _printed: emf_ | 2.88 mV | 821.4 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 14 |  |
-| EMF; _printed: emf_ | 1.61 mV | 825.7 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 7 |  |
-| EMF; _printed: emf_ | 2.56 mV | 825.7 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 8 |  |
-| EMF; _printed: emf_ | 2.985 mV | 825.7 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 10 |  |
-| EMF; _printed: emf_ | 0.875 mV | 825.7 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 6 |  |
-| EMF; _printed: emf_ | 3.04 mV | 825.7 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 9 |  |
-| EMF; _printed: emf_ | 1.61 mV | 830.7 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 2 |  |
-| EMF; _printed: emf_ | 0.89 mV | 830.7 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 1 |  |
-| EMF; _printed: emf_ | 3.18 mV | 830.7 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 5 |  |
-| EMF; _printed: emf_ | 3.22 mV | 830.7 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 4 |  |
-| EMF; _printed: emf_ | 2.58 mV | 830.7 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 3 |  |
+| EMF; _printed: emf_ | 0.645 mV | 668 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 174; `ORC-BTJPW7T3GM` |  |
+| EMF; _printed: emf_ | 0.63 mV | 668 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 171; `ORC-DT6DC442FF` |  |
+| EMF; _printed: emf_ | 0.62 mV | 668 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 172; `ORC-GB4XTSHQVE` |  |
+| EMF; _printed: emf_ | 0.64 mV | 668 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 175; `ORC-GDIHNXP7FM` |  |
+| EMF; _printed: emf_ | 0.77 mV | 668 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 173; `ORC-ORN4VAJGDE` |  |
+| EMF; _printed: emf_ | 0.77 mV | 672.6 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 168; `ORC-6N2HIO4SDO` |  |
+| EMF; _printed: emf_ | 0.65 mV | 672.6 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 169; `ORC-FDSH3CWV2K` |  |
+| EMF; _printed: emf_ | 0.62 mV | 672.6 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 167; `ORC-JH76GROWPE` |  |
+| EMF; _printed: emf_ | 0.64 mV | 672.6 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 170; `ORC-YLON3IJ7IB` |  |
+| EMF; _printed: emf_ | 0.64 mV | 672.6 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 166; `ORC-ZB7AHVRP7F` |  |
+| EMF; _printed: emf_ | 0.66 mV | 677.5 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 165; `ORC-5BZKZNTTLY` |  |
+| EMF; _printed: emf_ | 0.63 mV | 677.5 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 162; `ORC-CCTBCLRU2N` |  |
+| EMF; _printed: emf_ | 0.64 mV | 677.5 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 161; `ORC-CJ6KJ3QPZA` |  |
+| EMF; _printed: emf_ | 0.66 mV | 677.5 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 164; `ORC-GRV4WG7A4Q` |  |
+| EMF; _printed: emf_ | 0.78 mV | 677.5 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 163; `ORC-TSQYV66J54` |  |
+| EMF; _printed: emf_ | 0.65 mV | 682.2 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 157; `ORC-3S24CIADHW` |  |
+| EMF; _printed: emf_ | 0.645 mV | 682.2 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 156; `ORC-4MWGQI2QHV` |  |
+| EMF; _printed: emf_ | 0.68 mV | 682.2 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 159; `ORC-LKUSFTT65T` |  |
+| EMF; _printed: emf_ | 0.79 mV | 682.2 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 158; `ORC-P3GJTFQBXT` |  |
+| EMF; _printed: emf_ | 0.685 mV | 682.2 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 160; `ORC-PSRY2OL4NC` |  |
+| EMF; _printed: emf_ | 0.65 mV | 687.2 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 154; `ORC-3UCR5DV7JL` |  |
+| EMF; _printed: emf_ | 0.67 mV | 687.2 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 152; `ORC-5F3WSNUZUU` |  |
+| EMF; _printed: emf_ | 0.71 mV | 687.2 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 155; `ORC-GM4B4P5DBI` |  |
+| EMF; _printed: emf_ | 0.8 mV | 687.2 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 153; `ORC-GOMYIXPALR` |  |
+| EMF; _printed: emf_ | 0.65 mV | 687.2 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 151; `ORC-HBNZDXQRMZ` |  |
+| EMF; _printed: emf_ | 0.78 mV | 692 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 148; `ORC-DFIHEG53XO` |  |
+| EMF; _printed: emf_ | 0.63 mV | 692 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 146; `ORC-I766ENL4X5` |  |
+| EMF; _printed: emf_ | 0.7 mV | 692 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 150; `ORC-OVUTHZJE7F` |  |
+| EMF; _printed: emf_ | 0.665 mV | 692 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 147; `ORC-QAPOJIRYVJ` |  |
+| EMF; _printed: emf_ | 0.67 mV | 692 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 149; `ORC-YDWVNSA3RE` |  |
+| EMF; _printed: emf_ | 0.6 mV | 698 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 145; `ORC-FKUVVGYTV4` |  |
+| EMF; _printed: emf_ | 0.6 mV | 698 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 142; `ORC-N3WJFAZJ36` |  |
+| EMF; _printed: emf_ | 0.6 mV | 698 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 143; `ORC-QGP7UBSXCX` |  |
+| EMF; _printed: emf_ | 0.6 mV | 698 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 144; `ORC-R4KUGAG5QX` |  |
+| EMF; _printed: emf_ | 0.6 mV | 698 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 141; `ORC-WD3QP3OXZW` |  |
+| EMF; _printed: emf_ | 0.71 mV | 701.2 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 137; `ORC-3IVK6N2JSO` |  |
+| EMF; _printed: emf_ | 0.67 mV | 701.2 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 138; `ORC-AFZWK374WC` |  |
+| EMF; _printed: emf_ | 0.6 mV | 701.2 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 140; `ORC-C5S6FTOIWM` |  |
+| EMF; _printed: emf_ | 0.6 mV | 701.2 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 139; `ORC-L3BEUM6LX2` |  |
+| EMF; _printed: emf_ | 0.585 mV | 701.2 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 136; `ORC-X3M52QLE7L` |  |
+| EMF; _printed: emf_ | 0.65 mV | 706.2 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 135; `ORC-AGVI5RERYT` |  |
+| EMF; _printed: emf_ | 0.7 mV | 706.2 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 133; `ORC-JU7RTQM5FS` |  |
+| EMF; _printed: emf_ | 0.76 mV | 706.2 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 132; `ORC-PLOB52DBU6` |  |
+| EMF; _printed: emf_ | 0.63 mV | 706.2 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 131; `ORC-SCVRGNBLPU` |  |
+| EMF; _printed: emf_ | 0.645 mV | 706.2 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 134; `ORC-XZ6BYW53F2` |  |
+| EMF; _printed: emf_ | 0.775 mV | 710.8 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 127; `ORC-3F7F7JZXXB` |  |
+| EMF; _printed: emf_ | 0.69 mV | 710.8 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 129; `ORC-B65HWIBKPQ` |  |
+| EMF; _printed: emf_ | 0.74 mV | 710.8 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 128; `ORC-EVZ2MHMOVL` |  |
+| EMF; _printed: emf_ | 0.68 mV | 710.8 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 130; `ORC-KMN62NEFVQ` |  |
+| EMF; _printed: emf_ | 0.68 mV | 710.8 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 126; `ORC-UN2BTZVEGZ` |  |
+| EMF; _printed: emf_ | 0.74 mV | 715.2 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 124; `ORC-ARDG2SXUIA` |  |
+| EMF; _printed: emf_ | 0.87 mV | 715.2 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 122; `ORC-E2IA3ZIPKS` |  |
+| EMF; _printed: emf_ | 0.73 mV | 715.2 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 125; `ORC-G3PFHOPMDK` |  |
+| EMF; _printed: emf_ | 0.795 mV | 715.2 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 123; `ORC-JGIE2RHZ7A` |  |
+| EMF; _printed: emf_ | 0.7 mV | 715.2 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 121; `ORC-N2KJN6XJNX` |  |
+| EMF; _printed: emf_ | 0.845 mV | 720.4 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 118; `ORC-4OHTND7LGA` |  |
+| EMF; _printed: emf_ | 0.77 mV | 720.4 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 120; `ORC-CWU46LRGRE` |  |
+| EMF; _printed: emf_ | 0.92 mV | 720.4 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 117; `ORC-K456U4X4RX` |  |
+| EMF; _printed: emf_ | 0.79 mV | 720.4 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 119; `ORC-QX6LVQWQAO` |  |
+| EMF; _printed: emf_ | 0.71 mV | 720.4 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 116; `ORC-VOZKORH7DC` |  |
+| EMF; _printed: emf_ | 0.71 mV | 725.2 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 111; `ORC-7NYNHBQPDU` |  |
+| EMF; _printed: emf_ | 0.97 mV | 725.2 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 112; `ORC-F74UGRHH2H` |  |
+| EMF; _printed: emf_ | 0.87 mV | 725.2 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 114; `ORC-G23I4BKQHG` |  |
+| EMF; _printed: emf_ | 0.9 mV | 725.2 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 113; `ORC-Q5RBYH456J` |  |
+| EMF; _printed: emf_ | 0.82 mV | 725.2 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 115; `ORC-VJ6PPCPMJA` |  |
+| EMF; _printed: emf_ | 1.01 mV | 730 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 107; `ORC-3VVDPODYVI` |  |
+| EMF; _printed: emf_ | 0.96 mV | 730 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 108; `ORC-7BPWN723VM` |  |
+| EMF; _printed: emf_ | 0.72 mV | 730 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 106; `ORC-LHEQN6TP2H` |  |
+| EMF; _printed: emf_ | 0.87 mV | 730 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 110; `ORC-WST5LXCDAY` |  |
+| EMF; _printed: emf_ | 0.89 mV | 730 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 109; `ORC-Y3XI6CMU7X` |  |
+| EMF; _printed: emf_ | 1.05 mV | 734.7 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 102; `ORC-CROT3PMO2G` |  |
+| EMF; _printed: emf_ | 1.02 mV | 734.7 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 103; `ORC-HDYYYQ6NV4` |  |
+| EMF; _printed: emf_ | 0.72 mV | 734.7 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 101; `ORC-J37MRS3EFC` |  |
+| EMF; _printed: emf_ | 0.95 mV | 734.7 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 104; `ORC-OMXOYFC42K` |  |
+| EMF; _printed: emf_ | 0.92 mV | 734.7 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 105; `ORC-TNEMWU533F` |  |
+| EMF; _printed: emf_ | 1.08 mV | 739.6 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 98; `ORC-5FLHTBG3CX` |  |
+| EMF; _printed: emf_ | 0.96 mV | 739.6 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 100; `ORC-BDND2A7LKK` |  |
+| EMF; _printed: emf_ | 1 mV | 739.6 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 99; `ORC-FYS7ASZFPK` |  |
+| EMF; _printed: emf_ | 0.73 mV | 739.6 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 96; `ORC-L6TGBFOGVZ` |  |
+| EMF; _printed: emf_ | 1.09 mV | 739.6 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 97; `ORC-NHVWC4EZFZ` |  |
+| EMF; _printed: emf_ | 1.05 mV | 744.6 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 95; `ORC-6JM3MV2LW7` |  |
+| EMF; _printed: emf_ | 1.08 mV | 744.6 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 94; `ORC-6NGCJWXZUK` |  |
+| EMF; _printed: emf_ | 1.155 mV | 744.6 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 93; `ORC-GZCMKIL2XT` |  |
+| EMF; _printed: emf_ | 1.22 mV | 744.6 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 92; `ORC-KECDTAGAET` |  |
+| EMF; _printed: emf_ | 0.73 mV | 744.6 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 91; `ORC-NXCGBFMG66` |  |
+| EMF; _printed: emf_ | 1.28 mV | 749.4 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 87; `ORC-CNBBWJMGDY` |  |
+| EMF; _printed: emf_ | 1.23 mV | 749.4 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 88; `ORC-HM4HGNEQXN` |  |
+| EMF; _printed: emf_ | 1.12 mV | 749.4 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 90; `ORC-IEBNBK3BIY` |  |
+| EMF; _printed: emf_ | 1.16 mV | 749.4 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 89; `ORC-O6ZO2ZG2B6` |  |
+| EMF; _printed: emf_ | 0.74 mV | 749.4 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 86; `ORC-P4CPUNIOUB` |  |
+| EMF; _printed: emf_ | 1.34 mV | 754.1 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 82; `ORC-5A3FB3SBN3` |  |
+| EMF; _printed: emf_ | 1.3 mV | 754.1 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 83; `ORC-MUDUGHBN4F` |  |
+| EMF; _printed: emf_ | 1.23 mV | 754.1 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 84; `ORC-MUG2EJUTS2` |  |
+| EMF; _printed: emf_ | 1.19 mV | 754.1 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 85; `ORC-RN7KKM7PQJ` |  |
+| EMF; _printed: emf_ | 0.74 mV | 754.1 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 81; `ORC-STJTHRVWC4` |  |
+| EMF; _printed: emf_ | 0.75 mV | 758.9 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 76; `ORC-2E5WTQ7AYE` |  |
+| EMF; _printed: emf_ | 1.4 mV | 758.9 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 77; `ORC-44RMWU4EUC` |  |
+| EMF; _printed: emf_ | 1.32 mV | 758.9 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 79; `ORC-J5ALP7OUXL` |  |
+| EMF; _printed: emf_ | 1.27 mV | 758.9 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 80; `ORC-TVCZONNZXA` |  |
+| EMF; _printed: emf_ | 1.38 mV | 758.9 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 78; `ORC-ZAPFADVKFH` |  |
+| EMF; _printed: emf_ | 1.35 mV | 764 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 75; `ORC-3AXTYXJJ7M` |  |
+| EMF; _printed: emf_ | 0.76 mV | 764 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 71; `ORC-B7DZIZS3BV` |  |
+| EMF; _printed: emf_ | 1.46 mV | 764 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 73; `ORC-BBVEMCDNWA` |  |
+| EMF; _printed: emf_ | 1.46 mV | 764 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 72; `ORC-M55GB7LMN5` |  |
+| EMF; _printed: emf_ | 1.39 mV | 764 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 74; `ORC-Z2RGE5ROA6` |  |
+| EMF; _printed: emf_ | 1.52 mV | 768.5 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 67; `ORC-5XFYQ373KI` |  |
+| EMF; _printed: emf_ | 1.5 mV | 768.5 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 69; `ORC-EHGIYYG2HJ` |  |
+| EMF; _printed: emf_ | 1.56 mV | 768.5 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 68; `ORC-J2CPAXCGKN` |  |
+| EMF; _printed: emf_ | 1.45 mV | 768.5 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 70; `ORC-LSWWFL7O2R` |  |
+| EMF; _printed: emf_ | 0.77 mV | 768.5 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 66; `ORC-SALBNPHWGG` |  |
+| EMF; _printed: emf_ | 0.78 mV | 773.3 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 61; `ORC-DFWHRROME6` |  |
+| EMF; _printed: emf_ | 1.58 mV | 773.3 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 64; `ORC-G52GFRT7XR` |  |
+| EMF; _printed: emf_ | 1.51 mV | 773.3 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 62; `ORC-I3JX3PFTGM` |  |
+| EMF; _printed: emf_ | 1.65 mV | 773.3 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 63; `ORC-MCK4Y6Y4NL` |  |
+| EMF; _printed: emf_ | 1.54 mV | 773.3 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 65; `ORC-PKDUZGIXLC` |  |
+| EMF; _printed: emf_ | 0.79 mV | 778.1 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 56; `ORC-6LFJ5EQJ4R` |  |
+| EMF; _printed: emf_ | 1.52 mV | 778.1 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 57; `ORC-JV7JHKAU72` |  |
+| EMF; _printed: emf_ | 1.645 mV | 778.1 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 60; `ORC-LVTPGELHC2` |  |
+| EMF; _printed: emf_ | 1.68 mV | 778.1 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 59; `ORC-OWU5TKUBSQ` |  |
+| EMF; _printed: emf_ | 1.75 mV | 778.1 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 58; `ORC-QUYY2N2WGY` |  |
+| EMF; _printed: emf_ | 0.79 mV | 782.9 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 51; `ORC-36FN7ZI5HT` |  |
+| EMF; _printed: emf_ | 1.53 mV | 782.9 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 52; `ORC-7N2744YDWF` |  |
+| EMF; _printed: emf_ | 1.75 mV | 782.9 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 55; `ORC-FOVH3LQQ4O` |  |
+| EMF; _printed: emf_ | 1.77 mV | 782.9 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 54; `ORC-HGDWJBN6KE` |  |
+| EMF; _printed: emf_ | 1.85 mV | 782.9 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 53; `ORC-PPKFXCJVSE` |  |
+| EMF; _printed: emf_ | 1.54 mV | 787.6 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 47; `ORC-E2LVAFV62N` |  |
+| EMF; _printed: emf_ | 1.85 mV | 787.6 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 50; `ORC-FOKQLYIEXJ` |  |
+| EMF; _printed: emf_ | 1.9 mV | 787.6 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 49; `ORC-GEFISYWMFN` |  |
+| EMF; _printed: emf_ | 1.96 mV | 787.6 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 48; `ORC-LAT6WFVZPA` |  |
+| EMF; _printed: emf_ | 0.8 mV | 787.6 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 46; `ORC-RDZNG5APIZ` |  |
+| EMF; _printed: emf_ | 1.92 mV | 792.5 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 45; `ORC-5PQZHQ227D` |  |
+| EMF; _printed: emf_ | 2.08 mV | 792.5 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 43; `ORC-7VXPEAV3RC` |  |
+| EMF; _printed: emf_ | 2.06 mV | 792.5 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 44; `ORC-BIV3TZNV5I` |  |
+| EMF; _printed: emf_ | 1.555 mV | 792.5 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 42; `ORC-GNZYBOHLQK` |  |
+| EMF; _printed: emf_ | 0.81 mV | 792.5 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 41; `ORC-PFSB74HCA2` |  |
+| EMF; _printed: emf_ | 1.56 mV | 797.4 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 37; `ORC-2D2CJVCNYU` |  |
+| EMF; _printed: emf_ | 2.2 mV | 797.4 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 38; `ORC-4QXTTLI43C` |  |
+| EMF; _printed: emf_ | 0.82 mV | 797.4 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 36; `ORC-64W74TAEB2` |  |
+| EMF; _printed: emf_ | 2.03 mV | 797.4 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 40; `ORC-FN2ML4PNC5` |  |
+| EMF; _printed: emf_ | 2.15 mV | 797.4 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 39; `ORC-PYKOEXTBSB` |  |
+| EMF; _printed: emf_ | 1.57 mV | 802.1 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 32; `ORC-7JQXP4LAWJ` |  |
+| EMF; _printed: emf_ | 2.33 mV | 802.1 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 33; `ORC-BBSP3JJL6L` |  |
+| EMF; _printed: emf_ | 0.83 mV | 802.1 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 31; `ORC-NNNP6OMDVS` |  |
+| EMF; _printed: emf_ | 2.19 mV | 802.1 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 35; `ORC-WQD4Z6U2IZ` |  |
+| EMF; _printed: emf_ | 2.27 mV | 802.1 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 34; `ORC-ZXRRTBYEOI` |  |
+| EMF; _printed: emf_ | 1.57 mV | 807 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 27; `ORC-6DCPY5MFFL` |  |
+| EMF; _printed: emf_ | 2.5 mV | 807 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 28; `ORC-HRXUVNVIHO` |  |
+| EMF; _printed: emf_ | 2.35 mV | 807 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 30; `ORC-MZJFNVMYQF` |  |
+| EMF; _printed: emf_ | 0.84 mV | 807 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 26; `ORC-X2GMYQYOHV` |  |
+| EMF; _printed: emf_ | 2.44 mV | 807 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 29; `ORC-ZIZJ2C3IRI` |  |
+| EMF; _printed: emf_ | 0.85 mV | 811.7 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 21; `ORC-6Q5N25RVJP` |  |
+| EMF; _printed: emf_ | 2.58 mV | 811.7 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 24; `ORC-E2TYKBDRDI` |  |
+| EMF; _printed: emf_ | 1.58 mV | 811.7 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 22; `ORC-K4MR6FNHC7` |  |
+| EMF; _printed: emf_ | 2.52 mV | 811.7 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 23; `ORC-NRWKJHZ5V4` |  |
+| EMF; _printed: emf_ | 2.49 mV | 811.7 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 25; `ORC-SQ55TX6KLF` |  |
+| EMF; _printed: emf_ | 1.59 mV | 816.5 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 17; `ORC-7KWVUNOMRA` |  |
+| EMF; _printed: emf_ | 2.73 mV | 816.5 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 19; `ORC-DHPNMFK4AB` |  |
+| EMF; _printed: emf_ | 2.53 mV | 816.5 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 18; `ORC-FSPJPINPFN` |  |
+| EMF; _printed: emf_ | 2.66 mV | 816.5 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 20; `ORC-PA5GUWZJZJ` |  |
+| EMF; _printed: emf_ | 0.855 mV | 816.5 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 16; `ORC-ZU2MCY3XVM` |  |
+| EMF; _printed: emf_ | 2.82 mV | 821.4 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 15; `ORC-6Z44KBKT46` |  |
+| EMF; _printed: emf_ | 1.6 mV | 821.4 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 12; `ORC-7GYADGHFTX` |  |
+| EMF; _printed: emf_ | 0.86 mV | 821.4 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 11; `ORC-QALFYDGSGM` |  |
+| EMF; _printed: emf_ | 2.55 mV | 821.4 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 13; `ORC-TRPT7A7Y3K` |  |
+| EMF; _printed: emf_ | 2.88 mV | 821.4 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 14; `ORC-YQO63XPJ2I` |  |
+| EMF; _printed: emf_ | 1.61 mV | 825.7 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 7; `ORC-AZONT2LHPL` |  |
+| EMF; _printed: emf_ | 2.56 mV | 825.7 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 8; `ORC-EOJAXKT7GA` |  |
+| EMF; _printed: emf_ | 2.985 mV | 825.7 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 10; `ORC-KUZMXCVPZM` |  |
+| EMF; _printed: emf_ | 0.875 mV | 825.7 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 6; `ORC-WS6W6QTPXE` |  |
+| EMF; _printed: emf_ | 3.04 mV | 825.7 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 9; `ORC-XYBMWJTYED` |  |
+| EMF; _printed: emf_ | 1.61 mV | 830.7 | UNKNOWN; _alloy: Zn 0.96_ | experimental | [7] David 2003 | Table 2, p. 2, row 2; `ORC-44I7O26KYC` |  |
+| EMF; _printed: emf_ | 0.89 mV | 830.7 | UNKNOWN; _alloy: Zn 0.98_ | experimental | [7] David 2003 | Table 2, p. 2, row 1; `ORC-47IDW3WUD3` |  |
+| EMF; _printed: emf_ | 3.18 mV | 830.7 | UNKNOWN; _alloy: Zn 0.9_ | experimental | [7] David 2003 | Table 2, p. 2, row 5; `ORC-AIULYB3IQK` |  |
+| EMF; _printed: emf_ | 3.22 mV | 830.7 | UNKNOWN; _alloy: Zn 0.92_ | experimental | [7] David 2003 | Table 2, p. 2, row 4; `ORC-BTNSZGFIO3` |  |
+| EMF; _printed: emf_ | 2.58 mV | 830.7 | UNKNOWN; _alloy: Zn 0.94_ | experimental | [7] David 2003 | Table 2, p. 2, row 3; `ORC-YBIBOV4VTQ` |  |
 
 ### Crystal structure (19)
 
@@ -243,25 +243,25 @@ Table: Crystal structure, Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.2668 Å |  | (Zn); _alloy: Zn 1_ | unspecified | [8] Chang 2010 | Table 1, p. 2, row 4 |  |
-| Lattice a | 2.665 Å |  | Zn; _alloy: Zn 1_ | experimental | [9] Tang 2012; _cites Brown 1965_ | Table 1, p. 4, row 6 |  |
-| Lattice a | 2.634 Å | 0 | Zn; _alloy: Zn 1_ | DFT | [9] Tang 2012 | Table 1, p. 4, row 5 |  |
-| Lattice a | 2.6594 Å |  | Zn; _alloy: Zn 1_ | experimental | [10] Gong 2022; _cites ref. 51_ | Table 3, p. 29, row 4 |  |
-| Lattice a | 2.6426 Å | 0 | Zn; _alloy: Zn 1_ | DFT | [10] Gong 2022 | Table 3, p. 29, row 3 |  |
-| Lattice a | 2.6535 Å | 291.15 | Zn; _Zn: Zn 1_ | unspecified | [11] Dutkiewicz 1990; _cites ref. 65Dav_ | Table 4, p. 4, row 6 |  |
-| Lattice a | 0.26646 Å | 298.15 | (Zn); _alloy: Zn 1_ | model | [8] Chang 2010; _cites Villars 1991_ | Table 1, p. 2, row 3 |  |
-| Lattice c | 0.50158 Å |  | (Zn); _alloy: Zn 1_ | unspecified | [8] Chang 2010 | Table 1, p. 2, row 4 |  |
-| Lattice c | 4.945 Å |  | Zn; _alloy: Zn 1_ | experimental | [9] Tang 2012; _cites Brown 1965_ | Table 1, p. 4, row 6 |  |
-| Lattice c | 5.142 Å | 0 | Zn; _alloy: Zn 1_ | DFT | [9] Tang 2012 | Table 1, p. 4, row 5 |  |
-| Lattice c | 4.9328 Å |  | Zn; _alloy: Zn 1_ | experimental | [10] Gong 2022; _cites ref. 51_ | Table 3, p. 29, row 4 |  |
-| Lattice c | 5.0268 Å | 0 | Zn; _alloy: Zn 1_ | DFT | [10] Gong 2022 | Table 3, p. 29, row 3 |  |
-| Lattice c | 4.9251 Å | 291.15 | Zn; _Zn: Zn 1_ | unspecified | [11] Dutkiewicz 1990; _cites ref. 65Dav_ | Table 4, p. 4, row 6 |  |
-| Lattice c | 0.49641 Å | 298.15 | (Zn); _alloy: Zn 1_ | model | [8] Chang 2010; _cites Villars 1991_ | Table 1, p. 2, row 3 |  |
-| Molar volume; _printed: VX at 723 K_ | 9.98 10^-6 m^3/mol | 693 | UNKNOWN; _alloy: Zn 1_ | model | [12] Doi 2006; _cites Tanaka 1994_ [doi](https://doi.org/10.1002/srin.199400921) | Table 7, p. 10, row 3 |  |
-| Molar volume; _printed: Vm,X_ | 9.94 10^-6 m^3/mol | 693 | UNKNOWN; _alloy: Zn 1_ | model | [12] Doi 2006; _cites Tanaka 1994_ [doi](https://doi.org/10.1002/srin.199400921) | Table 7, p. 10, row 3 |  |
-| volume; _printed: V0_ | 15.185 Å3/atom |  | Zn; _alloy: Zn 1_ | experimental | [10] Gong 2022; _cites ref. 43_ | Table 4, p. 30, row 6 |  |
-| volume; _printed: V0_ | 15.491 Å3/atom | 0 | Zn; _alloy: Zn 1_ | DFT | [10] Gong 2022; _cites ref. 43_ | Table 4, p. 30, row 5 |  |
-| volume; _printed: V0_ | 15.336 Å3/atom | 0 | Zn; _alloy: Zn 1_ | DFT | [10] Gong 2022 | Table 4, p. 30, row 4 |  |
+| Lattice a | 0.2668 Å |  | (Zn); _alloy: Zn 1_ | unspecified | [8] Chang 2010 | Table 1, p. 2, row 4; `ORC-BCFEKKOL63.8fcb4e` |  |
+| Lattice a | 2.665 Å |  | Zn; _alloy: Zn 1_ | experimental | [9] Tang 2012; _cites Brown 1965_ | Table 1, p. 4, row 6; `ORC-UQXCLTNGJR.78ab28` |  |
+| Lattice a | 2.634 Å | 0 | Zn; _alloy: Zn 1_ | DFT | [9] Tang 2012 | Table 1, p. 4, row 5; `ORC-UXEEEAGE56.2b6292` |  |
+| Lattice a | 2.6594 Å |  | Zn; _alloy: Zn 1_ | experimental | [10] Gong 2022; _cites ref. 51_ | Table 3, p. 29, row 4; `ORC-XC5YN2ONJ3.06c4cb` |  |
+| Lattice a | 2.6426 Å | 0 | Zn; _alloy: Zn 1_ | DFT | [10] Gong 2022 | Table 3, p. 29, row 3; `ORC-ZGCPMHB342.3a1892` |  |
+| Lattice a | 2.6535 Å | 291.15 | Zn; _Zn: Zn 1_ | unspecified | [11] Dutkiewicz 1990; _cites ref. 65Dav_ | Table 4, p. 4, row 6; `ORC-W6WIBAJMEI.9f142c` |  |
+| Lattice a | 0.26646 Å | 298.15 | (Zn); _alloy: Zn 1_ | model | [8] Chang 2010; _cites Villars 1991_ | Table 1, p. 2, row 3; `ORC-4ZBVWU5F4I.f65da1` |  |
+| Lattice c | 0.50158 Å |  | (Zn); _alloy: Zn 1_ | unspecified | [8] Chang 2010 | Table 1, p. 2, row 4; `ORC-BCFEKKOL63.9a8308` |  |
+| Lattice c | 4.945 Å |  | Zn; _alloy: Zn 1_ | experimental | [9] Tang 2012; _cites Brown 1965_ | Table 1, p. 4, row 6; `ORC-UQXCLTNGJR.f14334` |  |
+| Lattice c | 5.142 Å | 0 | Zn; _alloy: Zn 1_ | DFT | [9] Tang 2012 | Table 1, p. 4, row 5; `ORC-UXEEEAGE56.d416ac` |  |
+| Lattice c | 4.9328 Å |  | Zn; _alloy: Zn 1_ | experimental | [10] Gong 2022; _cites ref. 51_ | Table 3, p. 29, row 4; `ORC-XC5YN2ONJ3.434d93` |  |
+| Lattice c | 5.0268 Å | 0 | Zn; _alloy: Zn 1_ | DFT | [10] Gong 2022 | Table 3, p. 29, row 3; `ORC-ZGCPMHB342.60aa4c` |  |
+| Lattice c | 4.9251 Å | 291.15 | Zn; _Zn: Zn 1_ | unspecified | [11] Dutkiewicz 1990; _cites ref. 65Dav_ | Table 4, p. 4, row 6; `ORC-W6WIBAJMEI.9fcee4` |  |
+| Lattice c | 0.49641 Å | 298.15 | (Zn); _alloy: Zn 1_ | model | [8] Chang 2010; _cites Villars 1991_ | Table 1, p. 2, row 3; `ORC-4ZBVWU5F4I.cf080e` |  |
+| Molar volume; _printed: VX at 723 K_ | 9.98 10^-6 m^3/mol | 693 | UNKNOWN; _alloy: Zn 1_ | model | [12] Doi 2006; _cites Tanaka 1994_ [doi](https://doi.org/10.1002/srin.199400921) | Table 7, p. 10, row 3; `ORC-BBSZGAHZ7B.8ea17d` |  |
+| Molar volume; _printed: Vm,X_ | 9.94 10^-6 m^3/mol | 693 | UNKNOWN; _alloy: Zn 1_ | model | [12] Doi 2006; _cites Tanaka 1994_ [doi](https://doi.org/10.1002/srin.199400921) | Table 7, p. 10, row 3; `ORC-BBSZGAHZ7B.fee6c0` |  |
+| volume; _printed: V0_ | 15.185 Å3/atom |  | Zn; _alloy: Zn 1_ | experimental | [10] Gong 2022; _cites ref. 43_ | Table 4, p. 30, row 6; `ORC-4G7IEAWFVU.54c06b` |  |
+| volume; _printed: V0_ | 15.491 Å3/atom | 0 | Zn; _alloy: Zn 1_ | DFT | [10] Gong 2022; _cites ref. 43_ | Table 4, p. 30, row 5; `ORC-4RPAEUYDDW.cb0992` |  |
+| volume; _printed: V0_ | 15.336 Å3/atom | 0 | Zn; _alloy: Zn 1_ | DFT | [10] Gong 2022 | Table 4, p. 30, row 4; `ORC-KXOQKMERLJ.996397` |  |
 
 ### Other property (3)
 
@@ -269,9 +269,9 @@ Table: Other property, Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| bulk modulus; _printed: B_ | 73.2 GPa |  | Zn; _alloy: Zn 1_ | experimental | [10] Gong 2022; _cites ref. 43_ | Table 4, p. 30, row 6 |  |
-| bulk modulus; _printed: B_ | 58.6 GPa | 0 | Zn; _alloy: Zn 1_ | DFT | [10] Gong 2022; _cites ref. 43_ | Table 4, p. 30, row 5 |  |
-| bulk modulus; _printed: B_ | 57.5 GPa | 0 | Zn; _alloy: Zn 1_ | DFT | [10] Gong 2022 | Table 4, p. 30, row 4 |  |
+| bulk modulus; _printed: B_ | 73.2 GPa |  | Zn; _alloy: Zn 1_ | experimental | [10] Gong 2022; _cites ref. 43_ | Table 4, p. 30, row 6; `ORC-4G7IEAWFVU.b7bb63` |  |
+| bulk modulus; _printed: B_ | 58.6 GPa | 0 | Zn; _alloy: Zn 1_ | DFT | [10] Gong 2022; _cites ref. 43_ | Table 4, p. 30, row 5; `ORC-4RPAEUYDDW.c68682` |  |
+| bulk modulus; _printed: B_ | 57.5 GPa | 0 | Zn; _alloy: Zn 1_ | DFT | [10] Gong 2022 | Table 4, p. 30, row 4; `ORC-KXOQKMERLJ.91ef7f` |  |
 
 ## Sources
 
@@ -325,4 +325,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

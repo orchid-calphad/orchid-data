@@ -32,9 +32,9 @@ Table: Invariant reactions reported in the literature for the Sr system (3)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 820.15 | polymorphic: (αSr)->(βSr) |  | model | [1] Wang 2003 | Table 1, p. 2, row 33 |  |
-| 820.15 | polymorphic: (αSr)->(βSr) |  | model | [1] Wang 2003; _cites Du 2002_ | Table 1, p. 2, row 32 |  |
-| 820.15 | polymorphic: (αSr)->(βSr) |  | experimental | [1] Wang 2003; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 1, p. 2, row 31 |  |
+| 820.15 | polymorphic: (αSr)->(βSr) |  | model | [1] Wang 2003 | Table 1, p. 2, row 33; `ORC-HTGIJOIXOZ` |  |
+| 820.15 | polymorphic: (αSr)->(βSr) |  | model | [1] Wang 2003; _cites Du 2002_ | Table 1, p. 2, row 32; `ORC-K6HKOY7T7R` |  |
+| 820.15 | polymorphic: (αSr)->(βSr) |  | experimental | [1] Wang 2003; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 1, p. 2, row 31; `ORC-RCXSMG3P2T` |  |
 
 ## Formation enthalpies
 
@@ -44,8 +44,8 @@ Table: Enthalpies of formation, Sr system (2)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Sr2Sr-C14 |  | 7.2511 kJ/mol-atom | 0 | unspecified |  |  | [2] Zhong 2006 | Table 2, p. 4, row 21 |  |
-| fcc-Sr |  | 0 kJ/mol-atom | 0 | unspecified |  |  | [2] Zhong 2006 | Table 2, p. 4, row 23 |  |
+| Sr2Sr-C14 |  | 7.2511 kJ/mol-atom | 0 | unspecified |  |  | [2] Zhong 2006 | Table 2, p. 4, row 21; `ORC-RQ55AFCRKN.717e35` |  |
+| fcc-Sr |  | 0 kJ/mol-atom | 0 | unspecified |  |  | [2] Zhong 2006 | Table 2, p. 4, row 23; `ORC-DOEYMK3VQU.b8835b` |  |
 
 ## Other properties
 
@@ -55,24 +55,24 @@ Table: Crystal structure, Sr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a; _printed: a_ | 7.814 Å | 0 | Sr2Sr-C14; _alloy: Sr 1_ | unspecified | [2] Zhong 2006 | Table 2, p. 4, row 21 |  |
-| Lattice a | 4.745 Å | 0 | UNKNOWN; _alloy: Sr 1_ | DFT | [3] Li 2013 | Table 1, p. 2, row 11 |  |
-| Lattice a | 6.027 Å | 0 | UNKNOWN; _alloy: Sr 1_ | DFT | [3] Li 2013 | Table 1, p. 2, row 9 |  |
-| Lattice a; _printed: a (=b=c)_ | 5.996 Å | 0 | fcc-Sr; _alloy: Sr 1_ | unspecified | [2] Zhong 2006 | Table 2, p. 4, row 23 |  |
-| Lattice a | 6.084 Å | 273.5 | fcc (αSr); _fcc (αSr): _ | unspecified | [4] Smith 1988; _cites ref. 2_ | Table I, p. 2, row 3 |  |
-| Lattice a | 6.023 Å | 298.15 | (αSr); _alloy: Sr 1_ | unspecified | [5] Wang 2014 | Table 1, p. 2, row 4 |  |
-| Lattice a | 6.076 Å | 298.15 | (αSr); _alloy: Sr 1_ | unspecified | [5] Wang 2014 | Table 1, p. 2, row 3 |  |
-| Lattice a | 4.87 Å | 298.15 | (βSr); _alloy: Sr 1_ | unspecified | [5] Wang 2014 | Table 1, p. 2, row 5 |  |
-| Lattice a | 6.082 Å | 298.15 | UNKNOWN; _alloy: Sr 1_ | experimental | [3] Li 2013; _cites Bruzzone 1966_ | Table 1, p. 2, row 8 |  |
-| Lattice a | 4.84 Å | 298.15 | UNKNOWN; _alloy: Sr 1_ | experimental | [3] Li 2013; _cites Wang 1962_ [doi](https://doi.org/10.1021/j100817a015) | Table 1, p. 2, row 10 |  |
-| Lattice a | 6.028 Å | 298.15 | fcc-Sr; _alloy: Sr 1_ | DFT | [6] Zhou 2014 | Table 2, p. 4, row 9 |  |
-| Lattice a | 6.084 Å | 298.15 | fcc-Sr; _alloy: Sr 1_ | experimental | [6] Zhou 2014; _cites Villars 2004_ [doi](https://doi.org/10.4028/www.scientific.net/msf.443-444.357) | Table 2, p. 4, row 7 |  |
-| Lattice a | 4.87 Å | 658 | bcc (βSr); _bcc (βSr): _ | unspecified | [4] Smith 1988; _cites ref. 2_ | Table I, p. 2, row 4 |  |
-| Lattice a | 6.084 Å | 820 (\<) | UNKNOWN; _alloy: Sr 1_ | model | [7] Chen 2012; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 2, p. 2, row 6 |  |
-| Lattice a | 4.87 Å | 1050 (\<) | UNKNOWN; _alloy: Sr 1_ | model | [7] Chen 2012; _cites Massalski 1986_ | Table 2, p. 2, row 7 |  |
-| Lattice c; _printed: c_ | 12.84 Å | 0 | Sr2Sr-C14; _alloy: Sr 1_ | unspecified | [2] Zhong 2006 | Table 2, p. 4, row 21 |  |
-| volume; _printed: V_ | 54.54 Å3/atom | 0 | fcc-Sr; _alloy: Sr 1_ | model | [6] Zhou 2014 | Table 3, p. 4, row 5 |  |
-| volume; _printed: V_ | 56.3 Å3/atom |  | fcc-Sr; _alloy: Sr 1_ | experimental | [6] Zhou 2014; _cites Anderson 1990_ [doi](https://doi.org/10.1103/physrevb.41.3329) | Table 3, p. 4, row 6 |  |
+| Lattice a; _printed: a_ | 7.814 Å | 0 | Sr2Sr-C14; _alloy: Sr 1_ | unspecified | [2] Zhong 2006 | Table 2, p. 4, row 21; `ORC-Y36R4BP6LS.769570` |  |
+| Lattice a | 4.745 Å | 0 | UNKNOWN; _alloy: Sr 1_ | DFT | [3] Li 2013 | Table 1, p. 2, row 11; `ORC-L6FGRFDWTW` |  |
+| Lattice a | 6.027 Å | 0 | UNKNOWN; _alloy: Sr 1_ | DFT | [3] Li 2013 | Table 1, p. 2, row 9; `ORC-NQIJXF4SO6` |  |
+| Lattice a; _printed: a (=b=c)_ | 5.996 Å | 0 | fcc-Sr; _alloy: Sr 1_ | unspecified | [2] Zhong 2006 | Table 2, p. 4, row 23; `ORC-KZM2BXSYZE.ab157e` |  |
+| Lattice a | 6.084 Å | 273.5 | fcc (αSr); _fcc (αSr): _ | unspecified | [4] Smith 1988; _cites ref. 2_ | Table I, p. 2, row 3; `ORC-26VKSVNYGV` |  |
+| Lattice a | 6.023 Å | 298.15 | (αSr); _alloy: Sr 1_ | unspecified | [5] Wang 2014 | Table 1, p. 2, row 4; `ORC-2GGDVSH3QM` |  |
+| Lattice a | 6.076 Å | 298.15 | (αSr); _alloy: Sr 1_ | unspecified | [5] Wang 2014 | Table 1, p. 2, row 3; `ORC-7552A6G3HS` |  |
+| Lattice a | 4.87 Å | 298.15 | (βSr); _alloy: Sr 1_ | unspecified | [5] Wang 2014 | Table 1, p. 2, row 5; `ORC-LUOFKSTRRS` |  |
+| Lattice a | 6.082 Å | 298.15 | UNKNOWN; _alloy: Sr 1_ | experimental | [3] Li 2013; _cites Bruzzone 1966_ | Table 1, p. 2, row 8; `ORC-75JN34S2BB` |  |
+| Lattice a | 4.84 Å | 298.15 | UNKNOWN; _alloy: Sr 1_ | experimental | [3] Li 2013; _cites Wang 1962_ [doi](https://doi.org/10.1021/j100817a015) | Table 1, p. 2, row 10; `ORC-DUBGCTFS72` |  |
+| Lattice a | 6.028 Å | 298.15 | fcc-Sr; _alloy: Sr 1_ | DFT | [6] Zhou 2014 | Table 2, p. 4, row 9; `ORC-2AVZ42W4M3` |  |
+| Lattice a | 6.084 Å | 298.15 | fcc-Sr; _alloy: Sr 1_ | experimental | [6] Zhou 2014; _cites Villars 2004_ [doi](https://doi.org/10.4028/www.scientific.net/msf.443-444.357) | Table 2, p. 4, row 7; `ORC-PMIZ3GUNQP` |  |
+| Lattice a | 4.87 Å | 658 | bcc (βSr); _bcc (βSr): _ | unspecified | [4] Smith 1988; _cites ref. 2_ | Table I, p. 2, row 4; `ORC-Y2WBEPJKEB` |  |
+| Lattice a | 6.084 Å | 820 (\<) | UNKNOWN; _alloy: Sr 1_ | model | [7] Chen 2012; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 2, p. 2, row 6; `ORC-UB4M26JPCB` |  |
+| Lattice a | 4.87 Å | 1050 (\<) | UNKNOWN; _alloy: Sr 1_ | model | [7] Chen 2012; _cites Massalski 1986_ | Table 2, p. 2, row 7; `ORC-XPUENI5DLN` |  |
+| Lattice c; _printed: c_ | 12.84 Å | 0 | Sr2Sr-C14; _alloy: Sr 1_ | unspecified | [2] Zhong 2006 | Table 2, p. 4, row 21; `ORC-Y36R4BP6LS.b23930` |  |
+| volume; _printed: V_ | 54.54 Å3/atom | 0 | fcc-Sr; _alloy: Sr 1_ | model | [6] Zhou 2014 | Table 3, p. 4, row 5; `ORC-3AHMXPM4R5.647914` |  |
+| volume; _printed: V_ | 56.3 Å3/atom |  | fcc-Sr; _alloy: Sr 1_ | experimental | [6] Zhou 2014; _cites Anderson 1990_ [doi](https://doi.org/10.1103/physrevb.41.3329) | Table 3, p. 4, row 6; `ORC-LUXDAUMY2C.39bf98` |  |
 
 ### Other property (2)
 
@@ -80,8 +80,8 @@ Table: Other property, Sr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| bulk modulus; _printed: B_ | 11.443 GPa | 0 | fcc-Sr; _alloy: Sr 1_ | model | [6] Zhou 2014 | Table 3, p. 4, row 5 |  |
-| bulk modulus; _printed: B_ | 11.88 GPa |  | fcc-Sr; _alloy: Sr 1_ | experimental | [6] Zhou 2014; _cites Anderson 1990_ [doi](https://doi.org/10.1103/physrevb.41.3329) | Table 3, p. 4, row 6 |  |
+| bulk modulus; _printed: B_ | 11.443 GPa | 0 | fcc-Sr; _alloy: Sr 1_ | model | [6] Zhou 2014 | Table 3, p. 4, row 5; `ORC-3AHMXPM4R5.6eec5a` |  |
+| bulk modulus; _printed: B_ | 11.88 GPa |  | fcc-Sr; _alloy: Sr 1_ | experimental | [6] Zhou 2014; _cites Anderson 1990_ [doi](https://doi.org/10.1103/physrevb.41.3329) | Table 3, p. 4, row 6; `ORC-LUXDAUMY2C.00c599` |  |
 
 ## Sources
 
@@ -130,4 +130,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

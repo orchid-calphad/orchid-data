@@ -26,13 +26,13 @@ Table: Invariant reactions reported in the literature for the Ge–Ru–Sn syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1615 | quasi-peritectic: L + βRu2Ge3 -> Ru2Sn3 + RuGe |  | model | [1] Long 2012 | Table 5, p. 8, row 1 |  |
-| 1607 | eutectic: L -> hcp(Ru) + Ru2Sn3 + RuGe |  | model | [1] Long 2012 | Table 5, p. 8, row 2 |  |
-| 1173 | quasi-peritectic: L + Ru2Sn3 -> βRu2Ge3 + Ru3Sn7 |  | model | [1] Long 2012 | Table 5, p. 8, row 3 |  |
-| 859 | quasi-peritectic: βRu2Ge3 + Diamond(Ge) -> L + αRu2Ge3 |  | model | [1] Long 2012 | Table 5, p. 8, row 5 |  |
-| 838 | quasi-peritectic: L + βRu2Ge3 -> αRu2Ge3 + Ru3Sn7 |  | model | [1] Long 2012 | Table 5, p. 8, row 4 |  |
-| 505 | quasi-peritectic: L + Ru3Sn7 -> αRu2Ge3 + bct(Sn) |  | model | [1] Long 2012 | Table 5, p. 8, row 6 |  |
-| 504 | quasi-peritectic: L + αRu2Ge3 -> bct(Sn) + Diamond(Ge) |  | model | [1] Long 2012 | Table 5, p. 8, row 7 |  |
+| 1615 | quasi-peritectic: L + βRu2Ge3 -> Ru2Sn3 + RuGe |  | model | [1] Long 2012 | Table 5, p. 8, row 1; `ORC-6JBJSI3PM3` |  |
+| 1607 | eutectic: L -> hcp(Ru) + Ru2Sn3 + RuGe |  | model | [1] Long 2012 | Table 5, p. 8, row 2; `ORC-CXREAJBFVJ` |  |
+| 1173 | quasi-peritectic: L + Ru2Sn3 -> βRu2Ge3 + Ru3Sn7 |  | model | [1] Long 2012 | Table 5, p. 8, row 3; `ORC-ZKW6ZV6R54` |  |
+| 859 | quasi-peritectic: βRu2Ge3 + Diamond(Ge) -> L + αRu2Ge3 |  | model | [1] Long 2012 | Table 5, p. 8, row 5; `ORC-QDLZQO3NKH` |  |
+| 838 | quasi-peritectic: L + βRu2Ge3 -> αRu2Ge3 + Ru3Sn7 |  | model | [1] Long 2012 | Table 5, p. 8, row 4; `ORC-CCF4OWCX6G` |  |
+| 505 | quasi-peritectic: L + Ru3Sn7 -> αRu2Ge3 + bct(Sn) |  | model | [1] Long 2012 | Table 5, p. 8, row 6; `ORC-VY6PXBDZQC` |  |
+| 504 | quasi-peritectic: L + αRu2Ge3 -> bct(Sn) + Diamond(Ge) |  | model | [1] Long 2012 | Table 5, p. 8, row 7; `ORC-OPSSQBDVXV` |  |
 
 ## Sources
 
@@ -75,4 +75,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

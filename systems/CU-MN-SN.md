@@ -28,38 +28,38 @@ Table: Phase equilibrium, Cu–Mn–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 823.15 | Bcc + Cu4MnSn; _Bcc: Cu 0.494, Mn 0.253, Sn 0.253; Cu4MnSn: Cu 0.66, Mn 0.174, Sn 0.166_ | experimental | [1] Liu 2004 | Table IV, p. 6, row 31 |  |
-| Phase composition |  | 823.15 | Bcc + Cu4MnSn; _Bcc: Sn 0.131; Cu4MnSn: Cu 0.669, Mn 0.165, Sn 0.166_ | experimental | [1] Liu 2004 | Table IV, p. 6, row 23 |  |
-| Phase composition |  | 823.15 | Bcc + Cu4MnSn; _Bcc: Cu 0.558, Mn 0.19, Sn 0.252; Cu4MnSn: Cu 0.66, Mn 0.174, Sn 0.166_ | experimental | [1] Liu 2004 | Table IV, p. 6, row 19 |  |
-| Phase composition |  | 823.15 | Bcc + Cu4MnSn; _Bcc: Cu 0.687, Mn 0.067, Sn 0.246; Cu4MnSn: Cu 0.665, Mn 0.165, Sn 0.17_ | experimental | [1] Liu 2004 | Table IV, p. 6, row 21 |  |
-| Phase composition |  | 823.15 | Fcc + Bcc; _Fcc: Cu 0.875, Mn 0.047, Sn 0.078; Bcc: Cu 0.81, Mn 0.055, Sn 0.135_ | experimental | [1] Liu 2004 | Table IV, p. 6, row 17 |  |
-| Phase composition |  | 823.15 | Fcc + Cu4MnSn; _Fcc: Cu 0.868, Mn 0.075, Sn 0.057; Cu4MnSn: Cu 0.679, Mn 0.169, Sn 0.152_ | experimental | [1] Liu 2004 | Table IV, p. 6, row 18 |  |
-| Phase composition |  | 823.15 | Fcc + Cu4MnSn; _Fcc: Cu 0.764, Mn 0.207, Sn 0.029; Cu4MnSn: Cu 0.659, Mn 0.183, Sn 0.158_ | experimental | [1] Liu 2004 | Table IV, p. 6, row 22 |  |
-| Phase composition |  | 823.15 | Fcc + Cu4MnSn; _Fcc: Cu 0.872, Mn 0.063, Sn 0.065; Cu4MnSn: Cu 0.675, Mn 0.163, Sn 0.162_ | experimental | [1] Liu 2004 | Table IV, p. 6, row 32 |  |
-| Phase composition |  | 823.15 | Fcc + Cu4MnSn; _Fcc: Cu 0.835, Mn 0.127, Sn 0.038; Cu4MnSn: Cu 0.679, Mn 0.169, Sn 0.152_ | experimental | [1] Liu 2004 | Table IV, p. 6, row 20 |  |
-| Phase composition |  | 873.15 | Bcc + Cu4MnSn; _Bcc: Cu 0.779, Mn 0.086, Sn 0.135; Cu4MnSn: Cu 0.667, Mn 0.168, Sn 0.165_ | experimental | [1] Liu 2004 | Table IV, p. 6, row 16 |  |
-| Phase composition |  | 873.15 | Bcc + Cu4MnSn; _Bcc: Cu 0.797, Mn 0.099, Sn 0.104; Cu4MnSn: Cu 0.669, Mn 0.166, Sn 0.165_ | experimental | [1] Liu 2004 | Table IV, p. 6, row 30 |  |
-| Phase composition |  | 873.15 | Bcc + Cu4MnSn; _Bcc: Cu 0.766, Mn 0.122, Sn 0.112; Cu4MnSn: Cu 0.666, Mn 0.17, Sn 0.164_ | experimental | [1] Liu 2004 | Table IV, p. 6, row 13 |  |
-| Phase composition |  | 873.15 | Fcc + Bcc; _Fcc: Cu 0.877, Mn 0.047, Sn 0.076; Bcc: Cu 0.812, Mn 0.055, Sn 0.133_ | experimental | [1] Liu 2004 | Table IV, p. 6, row 11 |  |
-| Phase composition |  | 873.15 | Fcc + Bcc; _Fcc: Cu 0.846, Mn 0.091, Sn 0.063; Bcc: Cu 0.778, Mn 0.102, Sn 0.12_ | experimental | [1] Liu 2004 | Table IV, p. 6, row 14 |  |
-| Phase composition |  | 873.15 | Fcc + Bcc; _Fcc: Cu 0.736, Mn 0.228, Sn 0.036; Bcc: Cu 0.672, Mn 0.244, Sn 0.084_ | experimental | [1] Liu 2004 | Table IV, p. 6, row 28 |  |
-| Phase composition |  | 873.15 | Fcc + Cu4MnSn; _Fcc: Cu 0.833, Mn 0.111, Sn 0.056; Cu4MnSn: Cu 0.669, Mn 0.168, Sn 0.163_ | experimental | [1] Liu 2004 | Table IV, p. 6, row 15 |  |
-| Phase composition |  | 873.15 | Fcc + Cu4MnSn; _Fcc: Cu 0.831, Mn 0.112, Sn 0.057; Cu4MnSn: Cu 0.667, Mn 0.17, Sn 0.163_ | experimental | [1] Liu 2004 | Table IV, p. 6, row 12 |  |
-| Phase composition |  | 873.15 | Fcc + Cu4MnSn; _Fcc: Cu 0.816, Mn 0.132, Sn 0.052; Cu4MnSn: Cu 0.664, Mn 0.174, Sn 0.162_ | experimental | [1] Liu 2004 | Table IV, p. 6, row 29 |  |
-| Phase composition |  | 923.15 | Bcc (A2/B2 transition); _Bcc (A2/B2 transition): Cu 0.748, Mn 0.148, Sn 0.104_ | experimental | [1] Liu 2004 | Table IV, p. 6, row 9 |  |
-| Phase composition |  | 923.15 | Bcc (A2/B2 transition); _Bcc (A2/B2 transition): Cu 0.805, Mn 0.045, Sn 0.15_ | experimental | [1] Liu 2004 | Table IV, p. 6, row 6 |  |
-| Phase composition |  | 923.15 | Bcc + Cu4MnSn; _Bcc: Cu 0.628, Mn 0.246, Sn 0.126; Cu4MnSn: Cu 0.67, Mn 0.17, Sn 0.16_ | experimental | [1] Liu 2004 | Table IV, p. 6, row 26 |  |
-| Phase composition |  | 923.15 | Bcc + Cu4MnSn; _Bcc: Cu 0.563, Mn 0.228, Sn 0.209; Cu4MnSn: Cu 0.661, Mn 0.176, Sn 0.163_ | experimental | [1] Liu 2004 | Table IV, p. 6, row 8 |  |
-| Phase composition |  | 923.15 | Fcc + Bcc; _Fcc: Cu 0.847, Mn 0.089, Sn 0.064; Bcc: Cu 0.783, Mn 0.101, Sn 0.116_ | experimental | [1] Liu 2004 | Table IV, p. 6, row 10 |  |
-| Phase composition |  | 923.15 | Fcc + Bcc; _Fcc: Sn 0.073; Bcc: Cu 0.818, Mn 0.054, Sn 0.128_ | experimental | [1] Liu 2004 | Table IV, p. 6, row 7 |  |
-| Phase composition |  | 923.15 | Fcc + Bcc; _Fcc: Cu 0.787, Mn 0.135, Sn 0.078; Bcc: Cu 0.837, Mn 0.031, Sn 0.132_ | experimental | [1] Liu 2004 | Table IV, p. 6, row 27 |  |
-| Phase composition |  | 963.15 | Bcc (A2/B2 transition); _Bcc (A2/B2 transition): Sn 0.155_ | experimental | [1] Liu 2004 | Table IV, p. 6, row 5 |  |
-| Phase composition |  | 973.15 | Bcc (A2/B2 transition); _Bcc (A2/B2 transition): Cu 0.766, Mn 0.074, Sn 0.16_ | experimental | [1] Liu 2004 | Table IV, p. 6, row 3 |  |
-| Phase composition |  | 973.15 | Bcc (A2/B2 transition); _Bcc (A2/B2 transition): Cu 0.755, Mn 0.1, Sn 0.145_ | experimental | [1] Liu 2004 | Table IV, p. 6, row 24 |  |
-| Phase composition |  | 973.15 | Bcc (A2/B2 transition); _Bcc (A2/B2 transition): Cu 0.799, Mn 0.049, Sn 0.152_ | experimental | [1] Liu 2004 | Table IV, p. 6, row 1 |  |
-| Phase composition |  | 973.15 | Fcc + Bcc; _Fcc: Cu 0.822, Mn 0.136, Sn 0.042; Bcc: Cu 0.754, Mn 0.147, Sn 0.099_ | experimental | [1] Liu 2004 | Table IV, p. 6, row 25 |  |
-| Phase composition |  | 973.15 | Fcc + Bcc; _Fcc: Cu 0.853, Mn 0.089, Sn 0.058; Bcc: Cu 0.79, Mn 0.099, Sn 0.111_ | experimental | [1] Liu 2004 | Table IV, p. 6, row 4 |  |
-| Phase composition |  | 973.15 | Fcc + Bcc; _Fcc: Cu 0.884, Mn 0.047, Sn 0.069; Bcc: Cu 0.828, Mn 0.051, Sn 0.121_ | experimental | [1] Liu 2004 | Table IV, p. 6, row 2 |  |
+| Phase composition |  | 823.15 | Bcc + Cu4MnSn; _Bcc: Cu 0.494, Mn 0.253, Sn 0.253; Cu4MnSn: Cu 0.66, Mn 0.174, Sn 0.166_ | experimental | [1] Liu 2004 | Table IV, p. 6, row 31; `ORC-3XYZDRJXLA` |  |
+| Phase composition |  | 823.15 | Bcc + Cu4MnSn; _Bcc: Sn 0.131; Cu4MnSn: Cu 0.669, Mn 0.165, Sn 0.166_ | experimental | [1] Liu 2004 | Table IV, p. 6, row 23; `ORC-5GCWOZYSHR` |  |
+| Phase composition |  | 823.15 | Bcc + Cu4MnSn; _Bcc: Cu 0.558, Mn 0.19, Sn 0.252; Cu4MnSn: Cu 0.66, Mn 0.174, Sn 0.166_ | experimental | [1] Liu 2004 | Table IV, p. 6, row 19; `ORC-CFB5DKSXCJ` |  |
+| Phase composition |  | 823.15 | Bcc + Cu4MnSn; _Bcc: Cu 0.687, Mn 0.067, Sn 0.246; Cu4MnSn: Cu 0.665, Mn 0.165, Sn 0.17_ | experimental | [1] Liu 2004 | Table IV, p. 6, row 21; `ORC-U7NUZTXOGY` |  |
+| Phase composition |  | 823.15 | Fcc + Bcc; _Fcc: Cu 0.875, Mn 0.047, Sn 0.078; Bcc: Cu 0.81, Mn 0.055, Sn 0.135_ | experimental | [1] Liu 2004 | Table IV, p. 6, row 17; `ORC-TNYCGNNZ3C` |  |
+| Phase composition |  | 823.15 | Fcc + Cu4MnSn; _Fcc: Cu 0.868, Mn 0.075, Sn 0.057; Cu4MnSn: Cu 0.679, Mn 0.169, Sn 0.152_ | experimental | [1] Liu 2004 | Table IV, p. 6, row 18; `ORC-JTK4IIBNOQ` |  |
+| Phase composition |  | 823.15 | Fcc + Cu4MnSn; _Fcc: Cu 0.764, Mn 0.207, Sn 0.029; Cu4MnSn: Cu 0.659, Mn 0.183, Sn 0.158_ | experimental | [1] Liu 2004 | Table IV, p. 6, row 22; `ORC-LXQBG7JRAW` |  |
+| Phase composition |  | 823.15 | Fcc + Cu4MnSn; _Fcc: Cu 0.872, Mn 0.063, Sn 0.065; Cu4MnSn: Cu 0.675, Mn 0.163, Sn 0.162_ | experimental | [1] Liu 2004 | Table IV, p. 6, row 32; `ORC-MFS2C6TB6I` |  |
+| Phase composition |  | 823.15 | Fcc + Cu4MnSn; _Fcc: Cu 0.835, Mn 0.127, Sn 0.038; Cu4MnSn: Cu 0.679, Mn 0.169, Sn 0.152_ | experimental | [1] Liu 2004 | Table IV, p. 6, row 20; `ORC-ZJ67BEW6O6` |  |
+| Phase composition |  | 873.15 | Bcc + Cu4MnSn; _Bcc: Cu 0.779, Mn 0.086, Sn 0.135; Cu4MnSn: Cu 0.667, Mn 0.168, Sn 0.165_ | experimental | [1] Liu 2004 | Table IV, p. 6, row 16; `ORC-CXAKHHRFA3` |  |
+| Phase composition |  | 873.15 | Bcc + Cu4MnSn; _Bcc: Cu 0.797, Mn 0.099, Sn 0.104; Cu4MnSn: Cu 0.669, Mn 0.166, Sn 0.165_ | experimental | [1] Liu 2004 | Table IV, p. 6, row 30; `ORC-L5PLWD2WEP` |  |
+| Phase composition |  | 873.15 | Bcc + Cu4MnSn; _Bcc: Cu 0.766, Mn 0.122, Sn 0.112; Cu4MnSn: Cu 0.666, Mn 0.17, Sn 0.164_ | experimental | [1] Liu 2004 | Table IV, p. 6, row 13; `ORC-MWI7MEJ5BL` |  |
+| Phase composition |  | 873.15 | Fcc + Bcc; _Fcc: Cu 0.877, Mn 0.047, Sn 0.076; Bcc: Cu 0.812, Mn 0.055, Sn 0.133_ | experimental | [1] Liu 2004 | Table IV, p. 6, row 11; `ORC-HIGT3SM5YW` |  |
+| Phase composition |  | 873.15 | Fcc + Bcc; _Fcc: Cu 0.846, Mn 0.091, Sn 0.063; Bcc: Cu 0.778, Mn 0.102, Sn 0.12_ | experimental | [1] Liu 2004 | Table IV, p. 6, row 14; `ORC-RXK6LIACXJ` |  |
+| Phase composition |  | 873.15 | Fcc + Bcc; _Fcc: Cu 0.736, Mn 0.228, Sn 0.036; Bcc: Cu 0.672, Mn 0.244, Sn 0.084_ | experimental | [1] Liu 2004 | Table IV, p. 6, row 28; `ORC-SXLMTLTDN4` |  |
+| Phase composition |  | 873.15 | Fcc + Cu4MnSn; _Fcc: Cu 0.833, Mn 0.111, Sn 0.056; Cu4MnSn: Cu 0.669, Mn 0.168, Sn 0.163_ | experimental | [1] Liu 2004 | Table IV, p. 6, row 15; `ORC-4ZIKKEG35B` |  |
+| Phase composition |  | 873.15 | Fcc + Cu4MnSn; _Fcc: Cu 0.831, Mn 0.112, Sn 0.057; Cu4MnSn: Cu 0.667, Mn 0.17, Sn 0.163_ | experimental | [1] Liu 2004 | Table IV, p. 6, row 12; `ORC-5EAOJDEKPA` |  |
+| Phase composition |  | 873.15 | Fcc + Cu4MnSn; _Fcc: Cu 0.816, Mn 0.132, Sn 0.052; Cu4MnSn: Cu 0.664, Mn 0.174, Sn 0.162_ | experimental | [1] Liu 2004 | Table IV, p. 6, row 29; `ORC-FCNEU5MVLM` |  |
+| Phase composition |  | 923.15 | Bcc (A2/B2 transition); _Bcc (A2/B2 transition): Cu 0.748, Mn 0.148, Sn 0.104_ | experimental | [1] Liu 2004 | Table IV, p. 6, row 9; `ORC-AZKBU3ENHQ` |  |
+| Phase composition |  | 923.15 | Bcc (A2/B2 transition); _Bcc (A2/B2 transition): Cu 0.805, Mn 0.045, Sn 0.15_ | experimental | [1] Liu 2004 | Table IV, p. 6, row 6; `ORC-ZLJCBVVHE6` |  |
+| Phase composition |  | 923.15 | Bcc + Cu4MnSn; _Bcc: Cu 0.628, Mn 0.246, Sn 0.126; Cu4MnSn: Cu 0.67, Mn 0.17, Sn 0.16_ | experimental | [1] Liu 2004 | Table IV, p. 6, row 26; `ORC-RQKCKP333T` |  |
+| Phase composition |  | 923.15 | Bcc + Cu4MnSn; _Bcc: Cu 0.563, Mn 0.228, Sn 0.209; Cu4MnSn: Cu 0.661, Mn 0.176, Sn 0.163_ | experimental | [1] Liu 2004 | Table IV, p. 6, row 8; `ORC-YQDZAC4U3K` |  |
+| Phase composition |  | 923.15 | Fcc + Bcc; _Fcc: Cu 0.847, Mn 0.089, Sn 0.064; Bcc: Cu 0.783, Mn 0.101, Sn 0.116_ | experimental | [1] Liu 2004 | Table IV, p. 6, row 10; `ORC-52CRSZEV32` |  |
+| Phase composition |  | 923.15 | Fcc + Bcc; _Fcc: Sn 0.073; Bcc: Cu 0.818, Mn 0.054, Sn 0.128_ | experimental | [1] Liu 2004 | Table IV, p. 6, row 7; `ORC-5ZFWJNBIXP` |  |
+| Phase composition |  | 923.15 | Fcc + Bcc; _Fcc: Cu 0.787, Mn 0.135, Sn 0.078; Bcc: Cu 0.837, Mn 0.031, Sn 0.132_ | experimental | [1] Liu 2004 | Table IV, p. 6, row 27; `ORC-XUODHMN5QR` |  |
+| Phase composition |  | 963.15 | Bcc (A2/B2 transition); _Bcc (A2/B2 transition): Sn 0.155_ | experimental | [1] Liu 2004 | Table IV, p. 6, row 5; `ORC-25CX6UOMNA` |  |
+| Phase composition |  | 973.15 | Bcc (A2/B2 transition); _Bcc (A2/B2 transition): Cu 0.766, Mn 0.074, Sn 0.16_ | experimental | [1] Liu 2004 | Table IV, p. 6, row 3; `ORC-GEN2YFYOES` |  |
+| Phase composition |  | 973.15 | Bcc (A2/B2 transition); _Bcc (A2/B2 transition): Cu 0.755, Mn 0.1, Sn 0.145_ | experimental | [1] Liu 2004 | Table IV, p. 6, row 24; `ORC-KH4AQTF7FS` |  |
+| Phase composition |  | 973.15 | Bcc (A2/B2 transition); _Bcc (A2/B2 transition): Cu 0.799, Mn 0.049, Sn 0.152_ | experimental | [1] Liu 2004 | Table IV, p. 6, row 1; `ORC-TOCHS4NOQE` |  |
+| Phase composition |  | 973.15 | Fcc + Bcc; _Fcc: Cu 0.822, Mn 0.136, Sn 0.042; Bcc: Cu 0.754, Mn 0.147, Sn 0.099_ | experimental | [1] Liu 2004 | Table IV, p. 6, row 25; `ORC-J7PK5BHPSS` |  |
+| Phase composition |  | 973.15 | Fcc + Bcc; _Fcc: Cu 0.853, Mn 0.089, Sn 0.058; Bcc: Cu 0.79, Mn 0.099, Sn 0.111_ | experimental | [1] Liu 2004 | Table IV, p. 6, row 4; `ORC-LBW7E7T3C4` |  |
+| Phase composition |  | 973.15 | Fcc + Bcc; _Fcc: Cu 0.884, Mn 0.047, Sn 0.069; Bcc: Cu 0.828, Mn 0.051, Sn 0.121_ | experimental | [1] Liu 2004 | Table IV, p. 6, row 2; `ORC-VHJXPNMIYK` |  |
 
 ## Sources
 
@@ -102,4 +102,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

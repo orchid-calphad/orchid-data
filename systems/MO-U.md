@@ -67,17 +67,17 @@ Table: Invariant reactions reported in the literature for the Mo–U system (11)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1575 | Liquid + (Mo) -> (γ-U) | L: U 0.722; (Mo): U 0.009; (γ-U): U 0.563 | model | [1] Berche 2011 | Table 3, p. 6, row 1 |  |
-| 1557 | peritectic: L + Mo -> BCC_A2 | L: U 0.713; Mo: U 0.009; BCC_A2: U 0.582 | model | [2] Zhang 2010 | Table 3, p. 6, row 2 |  |
-| 1557 | peritectic: L + Mo -> BCC_A2 | L: U 0.7; Mo: U 0.61 | experimental | [2] Zhang 2010; _cites Ackermann 1977_ [doi](https://doi.org/10.1016/0022-3115%2877%2990078-2) | Table 3, p. 6, row 1 |  |
-| 913 | eutectoid: tetr_U -> BCC_A2 + ort_A20 | tetr_U: U 0.969; BCC_A2: U 0.979; ort_A20: U 0.874 | model | [2] Zhang 2010 | Table 3, p. 6, row 8 |  |
-| 912 | eutectoid: tetr_U -> BCC_A2 + ort_A20 | tetr_U: U 0.895 | experimental | [2] Zhang 2010; _cites Dwight 1960_ [doi](https://doi.org/10.1016/0022-3115%2860%2990028-3) | Table 3, p. 6, row 7 |  |
-| 854 | eutectoid: BCC_A2 -> Mo + MoU2 | BCC_A2: U 0.581; Mo: U 0.001; MoU2: U 0.667 | model | [2] Zhang 2010 | Table 3, p. 6, row 4 |  |
-| 853 | eutectoid: BCC_A2 -> Mo + MoU2 | MoU2: U 0.667 | experimental | [2] Zhang 2010; _cites Massalski 1990_ | Table 3, p. 6, row 3 |  |
-| 842 | (Mo) + (γ-U) -> MoU2 | (Mo): U 0; (γ-U): U 0.689; MoU2: U 0.667 | model | [1] Berche 2011 | Table 3, p. 6, row 3 |  |
-| 838 | eutectoid: BCC_A2 -> MoU2 + ort_A20 | BCC_A2: U 0.775; MoU2: U 0.666667 | experimental | [2] Zhang 2010; _cites Dwight 1960_ [doi](https://doi.org/10.1016/0022-3115%2860%2990028-3) | Table 3, p. 6, row 5 |  |
-| 829 | eutectoid: BCC_A2 -> MoU2 + ort_A20 | BCC_A2: U 0.789; MoU2: U 0.667; ort_A20: U 0.961 | model | [2] Zhang 2010 | Table 3, p. 6, row 6 |  |
-| 828 | (γ-U) -> (α-U) + MoU2 | (γ-U): U 0.763; (α-U): U 0.999; MoU2: U 0.667 | model | [1] Berche 2011 | Table 3, p. 6, row 4 |  |
+| 1575 | Liquid + (Mo) -> (γ-U) | L: U 0.722; (Mo): U 0.009; (γ-U): U 0.563 | model | [1] Berche 2011 | Table 3, p. 6, row 1; `ORC-SQUIGMVSG2` |  |
+| 1557 | peritectic: L + Mo -> BCC_A2 | L: U 0.713; Mo: U 0.009; BCC_A2: U 0.582 | model | [2] Zhang 2010 | Table 3, p. 6, row 2; `ORC-J3XSGPZZHV` |  |
+| 1557 | peritectic: L + Mo -> BCC_A2 | L: U 0.7; Mo: U 0.61 | experimental | [2] Zhang 2010; _cites Ackermann 1977_ [doi](https://doi.org/10.1016/0022-3115%2877%2990078-2) | Table 3, p. 6, row 1; `ORC-PSK2CNZVFS` |  |
+| 913 | eutectoid: tetr_U -> BCC_A2 + ort_A20 | tetr_U: U 0.969; BCC_A2: U 0.979; ort_A20: U 0.874 | model | [2] Zhang 2010 | Table 3, p. 6, row 8; `ORC-NRV6R25DPL` |  |
+| 912 | eutectoid: tetr_U -> BCC_A2 + ort_A20 | tetr_U: U 0.895 | experimental | [2] Zhang 2010; _cites Dwight 1960_ [doi](https://doi.org/10.1016/0022-3115%2860%2990028-3) | Table 3, p. 6, row 7; `ORC-5SVXZS7EQE` |  |
+| 854 | eutectoid: BCC_A2 -> Mo + MoU2 | BCC_A2: U 0.581; Mo: U 0.001; MoU2: U 0.667 | model | [2] Zhang 2010 | Table 3, p. 6, row 4; `ORC-PDHLVK6HI4` |  |
+| 853 | eutectoid: BCC_A2 -> Mo + MoU2 | MoU2: U 0.667 | experimental | [2] Zhang 2010; _cites Massalski 1990_ | Table 3, p. 6, row 3; `ORC-3337Y6TZ2B` |  |
+| 842 | (Mo) + (γ-U) -> MoU2 | (Mo): U 0; (γ-U): U 0.689; MoU2: U 0.667 | model | [1] Berche 2011 | Table 3, p. 6, row 3; `ORC-AR2KO4OV5C` |  |
+| 838 | eutectoid: BCC_A2 -> MoU2 + ort_A20 | BCC_A2: U 0.775; MoU2: U 0.666667 | experimental | [2] Zhang 2010; _cites Dwight 1960_ [doi](https://doi.org/10.1016/0022-3115%2860%2990028-3) | Table 3, p. 6, row 5; `ORC-QKYIVWYMJG` |  |
+| 829 | eutectoid: BCC_A2 -> MoU2 + ort_A20 | BCC_A2: U 0.789; MoU2: U 0.667; ort_A20: U 0.961 | model | [2] Zhang 2010 | Table 3, p. 6, row 6; `ORC-BWXNIO7U5X` |  |
+| 828 | (γ-U) -> (α-U) + MoU2 | (γ-U): U 0.763; (α-U): U 0.999; MoU2: U 0.667 | model | [1] Berche 2011 | Table 3, p. 6, row 4; `ORC-3QAZYHGGSB` |  |
 
 ## Other properties
 
@@ -87,8 +87,8 @@ Table: Phase transition, Mo–U system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 875 K | 875 | congruent transformation: MoU2 -> BCC_A2; _MoU2: U 0.667_ | unspecified | [2] Zhang 2010; _cites Brewer 1980_ | Table 3, p. 6, row 9 |  |
-| Phase transition | 875 K | 875 | congruent transformation: MoU2 -> BCC_A2; _MoU2: U 0.667_ | model | [2] Zhang 2010 | Table 3, p. 6, row 10 |  |
+| Phase transition | 875 K | 875 | congruent transformation: MoU2 -> BCC_A2; _MoU2: U 0.667_ | unspecified | [2] Zhang 2010; _cites Brewer 1980_ | Table 3, p. 6, row 9; `ORC-CSNIS6RDMR` |  |
+| Phase transition | 875 K | 875 | congruent transformation: MoU2 -> BCC_A2; _MoU2: U 0.667_ | model | [2] Zhang 2010 | Table 3, p. 6, row 10; `ORC-PW2W2WZSU6` |  |
 
 ## Sources
 
@@ -154,4 +154,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

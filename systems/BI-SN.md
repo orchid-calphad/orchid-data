@@ -55,8 +55,8 @@ Table: Invariant reactions reported in the literature for the Bi–Sn system (2)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 412.15 | eutectic |  | model | [1] Yoon 1998; _cites Massalski 1991_ | p. 2 | “The Sn-Bi system which is composed of two primary phases at room temperatures, bet (bodycentered-tetragonal)-Sn (P-Sn, from now on) and rhombohedral Bi, is a typical single eutectic alloy, at 139°C \[8\].” |
-| 411.15 | eutectic: L = (Bi) + (Sn) |  | experimental | [2] Hu 2022 | p. 7 | “The matrix comprises two phases, one white Bi-rich phase and another Sn-rich phase with corrosion pits which resulted from the solidification of a liquid phase through a binary eutectic reaction, L = (Bi) + (Sn) at 138 °C.” |
+| 412.15 | eutectic |  | model | [1] Yoon 1998; _cites Massalski 1991_ | p. 2; `ORC-AFFM6EG6VU` | “The Sn-Bi system which is composed of two primary phases at room temperatures, bet (bodycentered-tetragonal)-Sn (P-Sn, from now on) and rhombohedral Bi, is a typical single eutectic alloy, at 139°C \[8\].” |
+| 411.15 | eutectic: L = (Bi) + (Sn) |  | experimental | [2] Hu 2022 | p. 7; `ORC-PZBSCC5S4W` | “The matrix comprises two phases, one white Bi-rich phase and another Sn-rich phase with corrosion pits which resulted from the solidification of a liquid phase through a binary eutectic reaction, L = (Bi) + (Sn) at 138 °C.” |
 
 ## Sources
 
@@ -122,4 +122,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

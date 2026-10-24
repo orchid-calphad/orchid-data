@@ -14,9 +14,9 @@ Table: Enthalpy of formation of HoTe reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -162 kJ/mol-atom | HoTe | 298.15 | model | Miedema model | [Ho–Te](https://data.orchid-project.org/systems/HO-TE.html) | [1] Ghamri 2013; _cites Eichler 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990596-c) | Table 2, p. 3, row 1 |  |
-| -152.99 kJ/mol-atom | HoTe | 298.15 | model | CALPHAD | [Ho–Te](https://data.orchid-project.org/systems/HO-TE.html) | [1] Ghamri 2013 | Table 2, p. 3, row 3 |  |
-| -153.449 kJ/mol-atom | HoTe | 298.15 | DFT | ab initio method | [Ho–Te](https://data.orchid-project.org/systems/HO-TE.html) | [1] Ghamri 2013 | Table 2, p. 3, row 2 |  |
+| -162 kJ/mol-atom | HoTe | 298.15 | model | Miedema model | [Ho–Te](https://data.orchid-project.org/systems/HO-TE.html) | [1] Ghamri 2013; _cites Eichler 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990596-c) | Table 2, p. 3, row 1; `ORC-24WFUXDUS5` |  |
+| -152.99 kJ/mol-atom | HoTe | 298.15 | model | CALPHAD | [Ho–Te](https://data.orchid-project.org/systems/HO-TE.html) | [1] Ghamri 2013 | Table 2, p. 3, row 3; `ORC-XDVTA73MKL` |  |
+| -153.449 kJ/mol-atom | HoTe | 298.15 | DFT | ab initio method | [Ho–Te](https://data.orchid-project.org/systems/HO-TE.html) | [1] Ghamri 2013 | Table 2, p. 3, row 2; `ORC-PJVVYNUBB3` |  |
 
 ### Uncertainty budget
 
@@ -94,4 +94,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

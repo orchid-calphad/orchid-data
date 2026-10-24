@@ -28,20 +28,20 @@ Table: Invariant reactions reported in the literature for the B–Cr–Ni system
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1531.15 | eutectic: L -> Cr2B+bcc(Cr)+fcc(Ni) | L: B 0.043, Cr 0.579 | experimental | [1] Campbell 2002; _cites ref. 31_ | Table 5, p. 8, row 7 |  |
-| 1495.15 | eutectic: L -> Cr2B+bcc(Cr)+fcc(Ni) | L: B 0.0936, Cr 0.572 | model | [1] Campbell 2002 | Table 5, p. 8, row 8 |  |
-| 1493.15 | L + Cr2B -> Cr5B3+fcc(Ni) | L: B 0.123, Cr 0.353; Cr5B3: B 0.375, Cr 0.625, Ni 0 | experimental | [1] Campbell 2002; _cites ref. 31_ | Table 5, p. 8, row 13 |  |
-| 1453.15 | L + Cr2B -> Cr5B3+fcc(Ni) | L: B 0.15, Cr 0.321; Cr5B3: B 0.375, Cr 0.625, Ni 0 | model | [1] Campbell 2002 | Table 5, p. 8, row 14 |  |
-| 1400.15 | quasi-peritectic: L + Cr5B3 -> CrB + Ni3B | L: B 0.268, Cr 0.0473; Cr5B3: B 0.375, Cr 0.625, Ni 0 | model | [1] Campbell 2002 | Table 5, p. 8, row 11 |  |
-| 1397.15 | quasi-peritectic: L + Cr3B4 -> CrB + Ni3B | L: B 0.285, Cr 0.0371 | model | [1] Campbell 2002 | Table 5, p. 8, row 12 |  |
-| 1378.15 | eutectic: L -> Cr3B4+Ni2B+Ni3B | L: B 0.316, Cr 0.0121 | model | [1] Campbell 2002 | Table 5, p. 8, row 1 |  |
-| 1376.15 | eutectic: L -> CrB+Ni2B+Ni3B | L: B 0.316, Cr 0.0154 | model | [1] Campbell 2002 | Table 5, p. 8, row 3 |  |
-| 1373.15 | eutectic: L -> Cr5B3+Ni3B+fcc(Ni) | L: B 0.193, Cr 0.132; Cr5B3: B 0.375, Cr 0.625, Ni 0 | model | [1] Campbell 2002 | Table 5, p. 8, row 4 |  |
-| 1369.15 | eutectic: L -> CrB+Ni2B+Ni3B | L: B 0.356, Cr 0.147 | experimental | [1] Campbell 2002; _cites ref. 31_ | Table 5, p. 8, row 2 |  |
-| 1369.15 | quasi-peritectic: L + Cr5B3 -> CrB + fcc(Ni) | L: B 0.173, Cr 0.212; Cr5B3: B 0.375, Cr 0.625, Ni 0 | experimental | [1] Campbell 2002; _cites ref. 31_ | Table 5, p. 8, row 9 |  |
-| 1353.15 | eutectic: L -> CrB+Ni3B+fcc(Ni) | L: B 0.187, Cr 0.222 | model | [1] Campbell 2002 | Table 5, p. 8, row 6 |  |
-| 1323.15 | eutectic: L -> CrB+Ni3B+fcc(Ni) | L: B 0.183, Cr 0.161 | experimental | [1] Campbell 2002; _cites ref. 31_ | Table 5, p. 8, row 5 |  |
-| 738.15 | quasi-peritectic: L + Cr5B3 -> CrB + fcc(Ni) | L: B 0.243, Cr 0.0013; Cr5B3: B 0.375, Cr 0.625, Ni 0 | model | [1] Campbell 2002 | Table 5, p. 8, row 10 |  |
+| 1531.15 | eutectic: L -> Cr2B+bcc(Cr)+fcc(Ni) | L: B 0.043, Cr 0.579 | experimental | [1] Campbell 2002; _cites ref. 31_ | Table 5, p. 8, row 7; `ORC-XYEVPJVXCO` |  |
+| 1495.15 | eutectic: L -> Cr2B+bcc(Cr)+fcc(Ni) | L: B 0.0936, Cr 0.572 | model | [1] Campbell 2002 | Table 5, p. 8, row 8; `ORC-K4BPYF452H` |  |
+| 1493.15 | L + Cr2B -> Cr5B3+fcc(Ni) | L: B 0.123, Cr 0.353; Cr5B3: B 0.375, Cr 0.625, Ni 0 | experimental | [1] Campbell 2002; _cites ref. 31_ | Table 5, p. 8, row 13; `ORC-5F75BD5R3T` |  |
+| 1453.15 | L + Cr2B -> Cr5B3+fcc(Ni) | L: B 0.15, Cr 0.321; Cr5B3: B 0.375, Cr 0.625, Ni 0 | model | [1] Campbell 2002 | Table 5, p. 8, row 14; `ORC-72WXGU33VJ` |  |
+| 1400.15 | quasi-peritectic: L + Cr5B3 -> CrB + Ni3B | L: B 0.268, Cr 0.0473; Cr5B3: B 0.375, Cr 0.625, Ni 0 | model | [1] Campbell 2002 | Table 5, p. 8, row 11; `ORC-BRO5IAC6OF` |  |
+| 1397.15 | quasi-peritectic: L + Cr3B4 -> CrB + Ni3B | L: B 0.285, Cr 0.0371 | model | [1] Campbell 2002 | Table 5, p. 8, row 12; `ORC-A425VZMT6T` |  |
+| 1378.15 | eutectic: L -> Cr3B4+Ni2B+Ni3B | L: B 0.316, Cr 0.0121 | model | [1] Campbell 2002 | Table 5, p. 8, row 1; `ORC-3QAHXRZKGZ` |  |
+| 1376.15 | eutectic: L -> CrB+Ni2B+Ni3B | L: B 0.316, Cr 0.0154 | model | [1] Campbell 2002 | Table 5, p. 8, row 3; `ORC-HNIGYBG6EI` |  |
+| 1373.15 | eutectic: L -> Cr5B3+Ni3B+fcc(Ni) | L: B 0.193, Cr 0.132; Cr5B3: B 0.375, Cr 0.625, Ni 0 | model | [1] Campbell 2002 | Table 5, p. 8, row 4; `ORC-4BAGUREYVC` |  |
+| 1369.15 | eutectic: L -> CrB+Ni2B+Ni3B | L: B 0.356, Cr 0.147 | experimental | [1] Campbell 2002; _cites ref. 31_ | Table 5, p. 8, row 2; `ORC-JFFGOB4FRB` |  |
+| 1369.15 | quasi-peritectic: L + Cr5B3 -> CrB + fcc(Ni) | L: B 0.173, Cr 0.212; Cr5B3: B 0.375, Cr 0.625, Ni 0 | experimental | [1] Campbell 2002; _cites ref. 31_ | Table 5, p. 8, row 9; `ORC-X3LMNDELZH` |  |
+| 1353.15 | eutectic: L -> CrB+Ni3B+fcc(Ni) | L: B 0.187, Cr 0.222 | model | [1] Campbell 2002 | Table 5, p. 8, row 6; `ORC-ML2R66U5GN` |  |
+| 1323.15 | eutectic: L -> CrB+Ni3B+fcc(Ni) | L: B 0.183, Cr 0.161 | experimental | [1] Campbell 2002; _cites ref. 31_ | Table 5, p. 8, row 5; `ORC-QYMCTHCV2A` |  |
+| 738.15 | quasi-peritectic: L + Cr5B3 -> CrB + fcc(Ni) | L: B 0.243, Cr 0.0013; Cr5B3: B 0.375, Cr 0.625, Ni 0 | model | [1] Campbell 2002 | Table 5, p. 8, row 10; `ORC-CUF3BBENE6` |  |
 
 ## Other properties
 
@@ -51,18 +51,18 @@ Table: Crystal structure, B–Cr–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 2.971 Å | 298.15 | UNKNOWN; _alloy: B 0.545455, Cr 0.181818, Ni 0.272727_ | experimental | [1] Campbell 2002; _cites ref. 23_ | Table 1, p. 2, row 18 |  |
-| Lattice a | 3.034 Å | 298.15 | UNKNOWN; _alloy: B 0.6, Cr 0.3, Ni 0.1_ | experimental | [1] Campbell 2002; _cites ref. 23_ | Table 1, p. 2, row 16 |  |
-| Lattice a | 3.008 Å | 298.15 | UNKNOWN; _alloy: B 0.6, Cr 0.3, Ni 0.1_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 17 |  |
-| Lattice a | 2.931 Å | 298.15 | UNKNOWN; _alloy: B 0.545455, Cr 0.181818, Ni 0.272727_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 19 |  |
-| Lattice b | 20.34 Å | 298.15 | UNKNOWN; _alloy: B 0.545455, Cr 0.181818, Ni 0.272727_ | experimental | [1] Campbell 2002; _cites ref. 23_ | Table 1, p. 2, row 18 |  |
-| Lattice b | 18.11 Å | 298.15 | UNKNOWN; _alloy: B 0.6, Cr 0.3, Ni 0.1_ | experimental | [1] Campbell 2002; _cites ref. 23_ | Table 1, p. 2, row 16 |  |
-| Lattice b | 17.705 Å | 298.15 | UNKNOWN; _alloy: B 0.6, Cr 0.3, Ni 0.1_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 17 |  |
-| Lattice b | 20.631 Å | 298.15 | UNKNOWN; _alloy: B 0.545455, Cr 0.181818, Ni 0.272727_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 19 |  |
-| Lattice c | 3.011 Å | 298.15 | UNKNOWN; _alloy: B 0.545455, Cr 0.181818, Ni 0.272727_ | experimental | [1] Campbell 2002; _cites ref. 23_ | Table 1, p. 2, row 18 |  |
-| Lattice c | 2.956 Å | 298.15 | UNKNOWN; _alloy: B 0.6, Cr 0.3, Ni 0.1_ | experimental | [1] Campbell 2002; _cites ref. 23_ | Table 1, p. 2, row 16 |  |
-| Lattice c | 2.956 Å | 298.15 | UNKNOWN; _alloy: B 0.6, Cr 0.3, Ni 0.1_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 17 |  |
-| Lattice c | 2.977 Å | 298.15 | UNKNOWN; _alloy: B 0.545455, Cr 0.181818, Ni 0.272727_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 19 |  |
+| Lattice a | 2.971 Å | 298.15 | UNKNOWN; _alloy: B 0.545455, Cr 0.181818, Ni 0.272727_ | experimental | [1] Campbell 2002; _cites ref. 23_ | Table 1, p. 2, row 18; `ORC-5LR7SFF4SQ.d310d7` |  |
+| Lattice a | 3.034 Å | 298.15 | UNKNOWN; _alloy: B 0.6, Cr 0.3, Ni 0.1_ | experimental | [1] Campbell 2002; _cites ref. 23_ | Table 1, p. 2, row 16; `ORC-DESG27IJOG.0ad313` |  |
+| Lattice a | 3.008 Å | 298.15 | UNKNOWN; _alloy: B 0.6, Cr 0.3, Ni 0.1_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 17; `ORC-OZKF7L2WLZ.53e9bc` |  |
+| Lattice a | 2.931 Å | 298.15 | UNKNOWN; _alloy: B 0.545455, Cr 0.181818, Ni 0.272727_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 19; `ORC-PNDH6RAO2V.53f6ee` |  |
+| Lattice b | 20.34 Å | 298.15 | UNKNOWN; _alloy: B 0.545455, Cr 0.181818, Ni 0.272727_ | experimental | [1] Campbell 2002; _cites ref. 23_ | Table 1, p. 2, row 18; `ORC-5LR7SFF4SQ.86a079` |  |
+| Lattice b | 18.11 Å | 298.15 | UNKNOWN; _alloy: B 0.6, Cr 0.3, Ni 0.1_ | experimental | [1] Campbell 2002; _cites ref. 23_ | Table 1, p. 2, row 16; `ORC-DESG27IJOG.2890ca` |  |
+| Lattice b | 17.705 Å | 298.15 | UNKNOWN; _alloy: B 0.6, Cr 0.3, Ni 0.1_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 17; `ORC-OZKF7L2WLZ.de32bc` |  |
+| Lattice b | 20.631 Å | 298.15 | UNKNOWN; _alloy: B 0.545455, Cr 0.181818, Ni 0.272727_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 19; `ORC-PNDH6RAO2V.9af95e` |  |
+| Lattice c | 3.011 Å | 298.15 | UNKNOWN; _alloy: B 0.545455, Cr 0.181818, Ni 0.272727_ | experimental | [1] Campbell 2002; _cites ref. 23_ | Table 1, p. 2, row 18; `ORC-5LR7SFF4SQ.0aabb5` |  |
+| Lattice c | 2.956 Å | 298.15 | UNKNOWN; _alloy: B 0.6, Cr 0.3, Ni 0.1_ | experimental | [1] Campbell 2002; _cites ref. 23_ | Table 1, p. 2, row 16; `ORC-DESG27IJOG.8fff2c` |  |
+| Lattice c | 2.956 Å | 298.15 | UNKNOWN; _alloy: B 0.6, Cr 0.3, Ni 0.1_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 17; `ORC-OZKF7L2WLZ.ff642b` |  |
+| Lattice c | 2.977 Å | 298.15 | UNKNOWN; _alloy: B 0.545455, Cr 0.181818, Ni 0.272727_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 19; `ORC-PNDH6RAO2V.ea73c1` |  |
 
 ## Sources
 
@@ -105,4 +105,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

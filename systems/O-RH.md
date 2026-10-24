@@ -30,11 +30,11 @@ Table: Invariant reactions reported in the literature for the O–Rh system (5)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2196 | eutectic: Liquid -> (Rh)-FCC + Gas |  | model | [1] Gossé 2018 | Table 4, p. 7, row 1 |  |
-| 1422 | peritectic: (Rh)-FCC + Gas -> Rh2O3 |  | model | [1] Gossé 2018 | Table 4, p. 7, row 2 |  |
-| 1403 | peritectic: (Rh)-FCC + Gas -> Rh2O3 |  | experimental | [1] Gossé 2018; _cites Muller 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990070-2) | Table 4, p. 7, row 3 |  |
-| 1033 | peritectoid: (Rh)-FCC + Rh2O3 -> RhO2 |  | model | [1] Gossé 2018 | Table 4, p. 7, row 4 |  |
-| 1023 | peritectoid: (Rh)-FCC + Rh2O3 -> RhO2 |  | experimental | [1] Gossé 2018; _cites Muller 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990070-2) | Table 4, p. 7, row 5 |  |
+| 2196 | eutectic: Liquid -> (Rh)-FCC + Gas |  | model | [1] Gossé 2018 | Table 4, p. 7, row 1; `ORC-2HODHHYF7I` |  |
+| 1422 | peritectic: (Rh)-FCC + Gas -> Rh2O3 |  | model | [1] Gossé 2018 | Table 4, p. 7, row 2; `ORC-5UWVXJQ5HX` |  |
+| 1403 | peritectic: (Rh)-FCC + Gas -> Rh2O3 |  | experimental | [1] Gossé 2018; _cites Muller 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990070-2) | Table 4, p. 7, row 3; `ORC-NSIZ72DU2G` |  |
+| 1033 | peritectoid: (Rh)-FCC + Rh2O3 -> RhO2 |  | model | [1] Gossé 2018 | Table 4, p. 7, row 4; `ORC-U2XJPOLBLV` |  |
+| 1023 | peritectoid: (Rh)-FCC + Rh2O3 -> RhO2 |  | experimental | [1] Gossé 2018; _cites Muller 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990070-2) | Table 4, p. 7, row 5; `ORC-HBVYP6PWME` |  |
 
 ## Formation enthalpies
 
@@ -44,13 +44,13 @@ Table: Enthalpies of formation, O–Rh system (7)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Rh2O3 |  | -451.9 kJ/mol (basis unstated) ± 16.7 | 1045 | experimental |  |  | [1] Gossé 2018; _cites Kleykamp 1969_ [doi](https://doi.org/10.1524/zpch.1969.67.4_6.277) | Table 1, p. 3, row 2 |  |
-| Rh2O3 |  | -405.96 kJ/mol (basis unstated) ± 1.15 | 1107.5 | experimental |  |  | [1] Gossé 2018; _cites Nell 1997_ [doi](https://doi.org/10.1016/s0016-7037%2897%2900209-3) | Table 1, p. 3, row 6 |  |
-| Rh2O3 |  | -405.53 kJ/mol (basis unstated) ± 0.26 | 1273 | experimental |  |  | [1] Gossé 2018; _cites Jacob 1994_ [doi](https://doi.org/10.1007/bf02665468) | Table 1, p. 3, row 7 |  |
-| Rh2O3 |  | -387.586 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Gossé 2018; _cites Bayer 1976_ [doi](https://doi.org/10.1016/0040-6031%2876%2980009-3) | Table 1, p. 3, row 1 |  |
-| Rh2O3 |  | -360 kJ/mol (basis unstated) ± 3 | 1016 | experimental |  |  | [1] Gossé 2018; _cites Mallika 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990079-7) | Table 1, p. 3, row 3 |  |
-| Rh2O3 |  | -340.72 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Gossé 2018; _cites Schmahl 1964_ [doi](https://doi.org/10.1524/zpch.1964.41.1_2.078) | Table 1, p. 3, row 5 |  |
-| Rh2O3 |  | -338.21 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Gossé 2018; _cites Tagirov 1975_ | Table 1, p. 3, row 4 |  |
+| Rh2O3 |  | -451.9 kJ/mol (basis unstated) ± 16.7 | 1045 | experimental |  |  | [1] Gossé 2018; _cites Kleykamp 1969_ [doi](https://doi.org/10.1524/zpch.1969.67.4_6.277) | Table 1, p. 3, row 2; `ORC-VWU4ETVKZY.9da55e` |  |
+| Rh2O3 |  | -405.96 kJ/mol (basis unstated) ± 1.15 | 1107.5 | experimental |  |  | [1] Gossé 2018; _cites Nell 1997_ [doi](https://doi.org/10.1016/s0016-7037%2897%2900209-3) | Table 1, p. 3, row 6; `ORC-CAD5FGQZGF.55d477` |  |
+| Rh2O3 |  | -405.53 kJ/mol (basis unstated) ± 0.26 | 1273 | experimental |  |  | [1] Gossé 2018; _cites Jacob 1994_ [doi](https://doi.org/10.1007/bf02665468) | Table 1, p. 3, row 7; `ORC-FPE7VVABYU.62e620` |  |
+| Rh2O3 |  | -387.586 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Gossé 2018; _cites Bayer 1976_ [doi](https://doi.org/10.1016/0040-6031%2876%2980009-3) | Table 1, p. 3, row 1; `ORC-73NZNABS5Q` |  |
+| Rh2O3 |  | -360 kJ/mol (basis unstated) ± 3 | 1016 | experimental |  |  | [1] Gossé 2018; _cites Mallika 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990079-7) | Table 1, p. 3, row 3; `ORC-4ZBNK6ET3L.40da5e` |  |
+| Rh2O3 |  | -340.72 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Gossé 2018; _cites Schmahl 1964_ [doi](https://doi.org/10.1524/zpch.1964.41.1_2.078) | Table 1, p. 3, row 5; `ORC-2SFDDBKJJV` |  |
+| Rh2O3 |  | -338.21 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Gossé 2018; _cites Tagirov 1975_ | Table 1, p. 3, row 4; `ORC-ILHSIAGOM5` |  |
 
 ## Sources
 
@@ -104,4 +104,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

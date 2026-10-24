@@ -30,9 +30,9 @@ Table: Invariant reactions reported in the literature for the As–Pb system (3)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 565.64 | eutectic |  | model | [1] Rannikko 1993 | p. 6 | “The eutectic point was calculated to be located at "T = 565.64K (292.5"C) with an arsenic concentration in the melt of 'xAs= 6.64 at.%.” |
-| 565.15 | eutectic |  | model | [1] Rannikko 1993; _cites ref. 20_ | p. 7 | “Calculating the eutectic point in this way he estimated for the As-Pb system, "t = 292°C and eras = 11.15 at.%.” |
-| 561.15 | eutectic |  | experimental | [1] Rannikko 1993; _cites Heike 1914_ | p. 7 | “Hansen and Anderko \[lo\] have incorrectly referred the arsenic content at the eutectic point reported by Heike \[15\], giving eras = 7.4 f 0.5 at.% at "t = 288°C.” |
+| 565.64 | eutectic |  | model | [1] Rannikko 1993 | p. 6; `ORC-BWOBWS5AGK` | “The eutectic point was calculated to be located at "T = 565.64K (292.5"C) with an arsenic concentration in the melt of 'xAs= 6.64 at.%.” |
+| 565.15 | eutectic |  | model | [1] Rannikko 1993; _cites ref. 20_ | p. 7; `ORC-YIMC3ET5B2` | “Calculating the eutectic point in this way he estimated for the As-Pb system, "t = 292°C and eras = 11.15 at.%.” |
+| 561.15 | eutectic |  | experimental | [1] Rannikko 1993; _cites Heike 1914_ | p. 7; `ORC-WTTA2EU45B` | “Hansen and Anderko \[lo\] have incorrectly referred the arsenic content at the eutectic point reported by Heike \[15\], giving eras = 7.4 f 0.5 at.% at "t = 288°C.” |
 
 ## Other properties
 
@@ -42,9 +42,9 @@ Table: Phase transition, As–Pb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 600.65 K | 600.65 |  | model | [1] Rannikko 1993; _cites Melting 1981_ | p. 3 | “Pure lead metals at 600.65 K \[7\] and solidifies in an fee lattice \[S\].” |
-| Phase transition | 887 K | 887 | other | experimental | [1] Rannikko 1993 | p. 3 | “The crystal structure of pure arsenic is rhombohedral; at 1 atm it sublimates at 887 K forming a complex atmosphere of arsenic polymers, As,(g) with II = l-4.” |
-| Phase transition | 1090 K | 1090 |  | model | [1] Rannikko 1993; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | p. 3 | “The melting point of arsenic is 1090 K at 35.8 atm \[8,9\].” |
+| Phase transition | 600.65 K | 600.65 |  | model | [1] Rannikko 1993; _cites Melting 1981_ | p. 3; `ORC-MYF3ARK5PB` | “Pure lead metals at 600.65 K \[7\] and solidifies in an fee lattice \[S\].” |
+| Phase transition | 887 K | 887 | other | experimental | [1] Rannikko 1993 | p. 3; `ORC-R4TBZC4LMY` | “The crystal structure of pure arsenic is rhombohedral; at 1 atm it sublimates at 887 K forming a complex atmosphere of arsenic polymers, As,(g) with II = l-4.” |
+| Phase transition | 1090 K | 1090 |  | model | [1] Rannikko 1993; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | p. 3; `ORC-3SHB2IQB5B` | “The melting point of arsenic is 1090 K at 35.8 atm \[8,9\].” |
 
 ## Sources
 
@@ -98,4 +98,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

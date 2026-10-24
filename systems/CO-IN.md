@@ -52,16 +52,16 @@ Table: Invariant reactions reported in the literature for the Co–In system (10
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1776.5 | critical point: liq -> liq1 + liq2 | liq1: In 0.7 | model | [1] Boa 2001 | Table 4, p. 4, row 2 |  |
-| 1770 | critical point: liq -> liq1 + liq2 | liq1: In 0.65 | experimental | [1] Boa 2001; _cites Bros 1996_ [doi](https://doi.org/10.1016/0925-8388%2895%2901948-0) | Table 4, p. 4, row 1 |  |
-| 1559.15 | monotectic: liq1 -> (αCo) + liq2 | liq1: In 0.23 | experimental | [1] Boa 2001; _cites Schiibel 1970_ | Table 4, p. 4, row 3 |  |
-| 1558.2 | monotectic: liq1 -> (αCo) + liq2 | liq1: In 0.232 | model | [1] Boa 2001 | Table 4, p. 4, row 4 |  |
-| 824.31 | peritectic: (αCo) + liq2 -> CoIn2 | liq2: In 0.986; CoIn2: In 0.666667 | model | [1] Boa 2001 | Table 4, p. 4, row 6 |  |
-| 823 | peritectic: (αCo) + liq2 -> CoIn2 | CoIn2: In 0.666667 | experimental | [1] Boa 2001; _cites Schiibel 1970_ | Table 4, p. 4, row 5 |  |
-| 764.78 | peritectic: CoIn2 + liq2 -> CoIn3 | CoIn2: In 0.666667; liq2: In 0.9993; CoIn3: In 0.75 | model | [1] Boa 2001 | Table 4, p. 4, row 8 |  |
-| 763.15 | peritectic: CoIn2 + liq2 -> CoIn3 | CoIn2: In 0.666667; CoIn3: In 0.75 | experimental | [1] Boa 2001; _cites Schiibel 1970_ | Table 4, p. 4, row 7 |  |
-| 429.78 | eutectic: liq2 -> CoIn3 + In | liq2: In 0.9999; CoIn3: In 0.75; In: In 1 | model | [1] Boa 2001 | Table 4, p. 4, row 10 |  |
-| 429.15 | eutectic: liq2 -> CoIn3 + In | CoIn3: In 0.75; In: In 1 | experimental | [1] Boa 2001; _cites Schiibel 1970_ | Table 4, p. 4, row 9 |  |
+| 1776.5 | critical point: liq -> liq1 + liq2 | liq1: In 0.7 | model | [1] Boa 2001 | Table 4, p. 4, row 2; `ORC-OZRHYYGRV2` |  |
+| 1770 | critical point: liq -> liq1 + liq2 | liq1: In 0.65 | experimental | [1] Boa 2001; _cites Bros 1996_ [doi](https://doi.org/10.1016/0925-8388%2895%2901948-0) | Table 4, p. 4, row 1; `ORC-LL3YMDEZD6` |  |
+| 1559.15 | monotectic: liq1 -> (αCo) + liq2 | liq1: In 0.23 | experimental | [1] Boa 2001; _cites Schiibel 1970_ | Table 4, p. 4, row 3; `ORC-PC3PBCAMLE` |  |
+| 1558.2 | monotectic: liq1 -> (αCo) + liq2 | liq1: In 0.232 | model | [1] Boa 2001 | Table 4, p. 4, row 4; `ORC-27CIR5RTOU` |  |
+| 824.31 | peritectic: (αCo) + liq2 -> CoIn2 | liq2: In 0.986; CoIn2: In 0.666667 | model | [1] Boa 2001 | Table 4, p. 4, row 6; `ORC-YIATSK3WPB` |  |
+| 823 | peritectic: (αCo) + liq2 -> CoIn2 | CoIn2: In 0.666667 | experimental | [1] Boa 2001; _cites Schiibel 1970_ | Table 4, p. 4, row 5; `ORC-EOW3F37WSA` |  |
+| 764.78 | peritectic: CoIn2 + liq2 -> CoIn3 | CoIn2: In 0.666667; liq2: In 0.9993; CoIn3: In 0.75 | model | [1] Boa 2001 | Table 4, p. 4, row 8; `ORC-ZSF3XEW2WJ` |  |
+| 763.15 | peritectic: CoIn2 + liq2 -> CoIn3 | CoIn2: In 0.666667; CoIn3: In 0.75 | experimental | [1] Boa 2001; _cites Schiibel 1970_ | Table 4, p. 4, row 7; `ORC-DYMLMITXFU` |  |
+| 429.78 | eutectic: liq2 -> CoIn3 + In | liq2: In 0.9999; CoIn3: In 0.75; In: In 1 | model | [1] Boa 2001 | Table 4, p. 4, row 10; `ORC-6HQPOYJKU4` |  |
+| 429.15 | eutectic: liq2 -> CoIn3 + In | CoIn3: In 0.75; In: In 1 | experimental | [1] Boa 2001; _cites Schiibel 1970_ | Table 4, p. 4, row 9; `ORC-FYZBLIQOHC` |  |
 
 ## Sources
 
@@ -126,4 +126,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

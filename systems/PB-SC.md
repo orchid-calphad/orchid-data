@@ -53,8 +53,8 @@ Table: Invariant reactions reported in the literature for the Pb–Sc system (2)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1563.15 | peritectic |  | experimental | [1] Iddaoudi 2014; _cites Palenzona 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906014-2) | p. 2 | “For the Sc5Pb3 compound a congruent melting was determined at 1700 °C, while for the Sc6Pb5 compound a peritectic formation was reported, at 1290 °C.” |
-| 1469.15 | eutectic: Liq M Sc5Pb3 + (aSc) |  | model | [1] Iddaoudi 2014 | p. 5 | “For the Sc-rich part of this system we suggested the eutectic reaction of Liq M Sc5Pb3 + (aSc) at 1196 °C and the catatectic reaction Liq + aSc) M (bSc) at 1272 °C according to the literature data of Dy-rich part of Dy-Pb system and presented in Fig. 5.” |
+| 1563.15 | peritectic |  | experimental | [1] Iddaoudi 2014; _cites Palenzona 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906014-2) | p. 2; `ORC-WDHTUH7YHL.7ce1e3` | “For the Sc5Pb3 compound a congruent melting was determined at 1700 °C, while for the Sc6Pb5 compound a peritectic formation was reported, at 1290 °C.” |
+| 1469.15 | eutectic: Liq M Sc5Pb3 + (aSc) |  | model | [1] Iddaoudi 2014 | p. 5; `ORC-HFHBLUAO3K.a4d38c` | “For the Sc-rich part of this system we suggested the eutectic reaction of Liq M Sc5Pb3 + (aSc) at 1196 °C and the catatectic reaction Liq + aSc) M (bSc) at 1272 °C according to the literature data of Dy-rich part of Dy-Pb system and presented in Fig. 5.” |
 
 ## Other properties
 
@@ -64,8 +64,8 @@ Table: Phase transition, Pb–Sc system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1545.15 K | 1545.15 | other: Liq + aSc) M (bSc) | model | [1] Iddaoudi 2014 | p. 5 | “For the Sc-rich part of this system we suggested the eutectic reaction of Liq M Sc5Pb3 + (aSc) at 1196 °C and the catatectic reaction Liq + aSc) M (bSc) at 1272 °C according to the literature data of Dy-rich part of Dy-Pb system and presented in Fig. 5.” |
-| Phase transition | 1973.15 K | 1973.15 | congruent transformation | experimental | [1] Iddaoudi 2014; _cites Palenzona 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906014-2) | p. 2 | “For the Sc5Pb3 compound a congruent melting was determined at 1700 °C, while for the Sc6Pb5 compound a peritectic formation was reported, at 1290 °C.” |
+| Phase transition | 1545.15 K | 1545.15 | other: Liq + aSc) M (bSc) | model | [1] Iddaoudi 2014 | p. 5; `ORC-HFHBLUAO3K.fa9a09` | “For the Sc-rich part of this system we suggested the eutectic reaction of Liq M Sc5Pb3 + (aSc) at 1196 °C and the catatectic reaction Liq + aSc) M (bSc) at 1272 °C according to the literature data of Dy-rich part of Dy-Pb system and presented in Fig. 5.” |
+| Phase transition | 1973.15 K | 1973.15 | congruent transformation | experimental | [1] Iddaoudi 2014; _cites Palenzona 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906014-2) | p. 2; `ORC-WDHTUH7YHL.df1714` | “For the Sc5Pb3 compound a congruent melting was determined at 1700 °C, while for the Sc6Pb5 compound a peritectic formation was reported, at 1290 °C.” |
 
 ## Sources
 
@@ -130,4 +130,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -14,17 +14,17 @@ Table: Enthalpy of formation of GeSe2 reported in the literature (11)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -38 kJ/mol-atom ± 5.7 | αGeSe2 | 298.15 | experimental | Torsion effusion measurements | [Ge–Se](https://data.orchid-project.org/systems/GE-SE.html) | [1] Chen 2022; _cites ref. 52_ | Table II, p. 3, row 21 |  |
-| -34.3 kJ/mol-atom ± 0.6 | αGeSe2 | 298.15 | experimental | Fluorine combination calorimetry | [Ge–Se](https://data.orchid-project.org/systems/GE-SE.html) | [1] Chen 2022; _cites ref. 53_ | Table II, p. 3, row 19 |  |
-| -30.3 kJ/mol-atom ± 2.8 | αGeSe2 | 298.15 | experimental | Knudsen's measurements | [Ge–Se](https://data.orchid-project.org/systems/GE-SE.html) | [1] Chen 2022; _cites ref. 49_ | Table II, p. 3, row 22 |  |
-| -28.13 kJ/mol-atom ± 0.6 | αGeSe2 | 298.15 | experimental | Drop calorimetry | [Ge–Se](https://data.orchid-project.org/systems/GE-SE.html) | [1] Chen 2022; _cites ref. 54_ | Table II, p. 3, row 18 |  |
-| -24.7 kJ/mol-atom ± 9.1 | αGeSe2 | 298.15 | experimental | DTA | [Ge–Se](https://data.orchid-project.org/systems/GE-SE.html) | [1] Chen 2022; _cites ref. 55_ | Table II, p. 3, row 17 |  |
-| -34.4 kJ/mol-atom | αGeSe2 | 298.15 | model | Statistical mechanical | [Ge–Se](https://data.orchid-project.org/systems/GE-SE.html) | [1] Chen 2022; _cites ref. 48_ | Table II, p. 3, row 20 |  |
-| -24.9 kJ/mol-atom | αGeSe2 | 0 | model | First–principles | [Ge–Se](https://data.orchid-project.org/systems/GE-SE.html) | [1] Chen 2022; _cites Saal 2013_ | Table II, p. 3, row 24 |  |
-| -23.28 kJ/mol-atom | αGeSe2 | 0 | model | First–principles | [Ge–Se](https://data.orchid-project.org/systems/GE-SE.html) | [1] Chen 2022; _cites ref. 36_ | Table II, p. 3, row 25 |  |
-| -22.957 kJ/mol-atom | αGeSe2 | 298.15 | model | CALPHAD | [Ge–Se](https://data.orchid-project.org/systems/GE-SE.html) | [1] Chen 2022 | Table II, p. 3, row 27 |  |
-| -15.07 kJ/mol-atom | αGeSe2 | 298.15 | model | Theoretical | [Ge–Se](https://data.orchid-project.org/systems/GE-SE.html) | [1] Chen 2022; _cites ref. 50_ | Table II, p. 3, row 23 |  |
-| -25.8 kJ/mol-atom | αGeSe2 | 0 | unspecified | First–principles | [Ge–Se](https://data.orchid-project.org/systems/GE-SE.html) | [1] Chen 2022 | Table II, p. 3, row 26 |  |
+| -38 kJ/mol-atom ± 5.7 | αGeSe2 | 298.15 | experimental | Torsion effusion measurements | [Ge–Se](https://data.orchid-project.org/systems/GE-SE.html) | [1] Chen 2022; _cites ref. 52_ | Table II, p. 3, row 21; `ORC-PXPFOAZ35U.576687` |  |
+| -34.3 kJ/mol-atom ± 0.6 | αGeSe2 | 298.15 | experimental | Fluorine combination calorimetry | [Ge–Se](https://data.orchid-project.org/systems/GE-SE.html) | [1] Chen 2022; _cites ref. 53_ | Table II, p. 3, row 19; `ORC-Q3HE3MVOKA.63033f` |  |
+| -30.3 kJ/mol-atom ± 2.8 | αGeSe2 | 298.15 | experimental | Knudsen's measurements | [Ge–Se](https://data.orchid-project.org/systems/GE-SE.html) | [1] Chen 2022; _cites ref. 49_ | Table II, p. 3, row 22; `ORC-TPO2BAR2LI.dfe21d` |  |
+| -28.13 kJ/mol-atom ± 0.6 | αGeSe2 | 298.15 | experimental | Drop calorimetry | [Ge–Se](https://data.orchid-project.org/systems/GE-SE.html) | [1] Chen 2022; _cites ref. 54_ | Table II, p. 3, row 18; `ORC-6WBSLIA4HF.bcc9cd` |  |
+| -24.7 kJ/mol-atom ± 9.1 | αGeSe2 | 298.15 | experimental | DTA | [Ge–Se](https://data.orchid-project.org/systems/GE-SE.html) | [1] Chen 2022; _cites ref. 55_ | Table II, p. 3, row 17; `ORC-M6NSW2QH2K.eaaaa0` |  |
+| -34.4 kJ/mol-atom | αGeSe2 | 298.15 | model | Statistical mechanical | [Ge–Se](https://data.orchid-project.org/systems/GE-SE.html) | [1] Chen 2022; _cites ref. 48_ | Table II, p. 3, row 20; `ORC-T2US6YJT5E.2e4667` |  |
+| -24.9 kJ/mol-atom | αGeSe2 | 0 | model | First–principles | [Ge–Se](https://data.orchid-project.org/systems/GE-SE.html) | [1] Chen 2022; _cites Saal 2013_ | Table II, p. 3, row 24; `ORC-ZNLBDQHISX.359afd` |  |
+| -23.28 kJ/mol-atom | αGeSe2 | 0 | model | First–principles | [Ge–Se](https://data.orchid-project.org/systems/GE-SE.html) | [1] Chen 2022; _cites ref. 36_ | Table II, p. 3, row 25; `ORC-RPCKA4ZWRK.873b2f` |  |
+| -22.957 kJ/mol-atom | αGeSe2 | 298.15 | model | CALPHAD | [Ge–Se](https://data.orchid-project.org/systems/GE-SE.html) | [1] Chen 2022 | Table II, p. 3, row 27; `ORC-KHQHYOG3HB.de9183` |  |
+| -15.07 kJ/mol-atom | αGeSe2 | 298.15 | model | Theoretical | [Ge–Se](https://data.orchid-project.org/systems/GE-SE.html) | [1] Chen 2022; _cites ref. 50_ | Table II, p. 3, row 23; `ORC-6J4CERAXQQ.6afc23` |  |
+| -25.8 kJ/mol-atom | αGeSe2 | 0 | unspecified | First–principles | [Ge–Se](https://data.orchid-project.org/systems/GE-SE.html) | [1] Chen 2022 | Table II, p. 3, row 26; `ORC-YXGI5R22BT.b8c0cc` |  |
 
 ### Uncertainty budget
 
@@ -110,4 +110,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

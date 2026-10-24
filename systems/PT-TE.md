@@ -60,18 +60,18 @@ Table: Invariant reactions reported in the literature for the Pt–Te system (12
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1423 | liquid -> PtTe2 | liquid: Te 0.6667; PtTe2: Pt 0.333333, Te 0.666667 | model | [1] Guo 2015 | Table III, p. 6, row 7 |  |
-| 1423 | liquid -> PtTe2 | liquid: Te 0.667; PtTe2: Pt 0.333333, Te 0.666667 | experimental | [1] Guo 2015; _cites Kim 1996_ [doi](https://doi.org/10.1007/bf03025941) | Table III, p. 6, row 8 |  |
-| 1290 | liquid + PtTe2 -> Pt3Te4 | liquid: Te 0.5208; PtTe2: Pt 0.333333, Te 0.666667; Pt3Te4: Pt 0.428571, Te 0.571429 | model | [1] Guo 2015 | Table III, p. 6, row 5 |  |
-| 1273 | liquid + PtTe2 -> Pt3Te4 | liquid: Te 0.164; PtTe2: Pt 0.333333, Te 0.666667; Pt3Te4: Pt 0.428571, Te 0.571429 | experimental | [1] Guo 2015; _cites Kim 1996_ [doi](https://doi.org/10.1007/bf03025941) | Table III, p. 6, row 6 |  |
-| 1208 | liquid + Pt3Te4 -> PtTe | liquid: Te 0.4342; Pt3Te4: Pt 0.428571, Te 0.571429; PtTe: Pt 0.5, Te 0.5 | model | [1] Guo 2015 | Table III, p. 6, row 3 |  |
-| 1208 | liquid + Pt3Te4 -> PtTe | Pt3Te4: Pt 0.428571, Te 0.571429; PtTe: Pt 0.5, Te 0.5 | experimental | [1] Guo 2015; _cites Kim 1996_ [doi](https://doi.org/10.1007/bf03025941) | Table III, p. 6, row 4 |  |
-| 1146 | liquid -> fcc(Pt) + PtTe | liquid: Te 0.363; PtTe: Pt 0.5, Te 0.5 | model | [1] Guo 2015 | Table III, p. 6, row 1 |  |
-| 1143 | liquid -> fcc(Pt) + PtTe | liquid: Te 0.4; PtTe: Pt 0.5, Te 0.5 | experimental | [1] Guo 2015; _cites Kim 1996_ [doi](https://doi.org/10.1007/bf03025941) | Table III, p. 6, row 2 |  |
-| 954 | PtTe2 + Pt3Te4 -> Pt2Te3 | PtTe2: Pt 0.333333, Te 0.666667; Pt3Te4: Pt 0.428571, Te 0.571429; Pt2Te3: Pt 0.4, Te 0.6 | model | [1] Guo 2015 | Table III, p. 6, row 9 |  |
-| 923 | PtTe2 + Pt3Te4 -> Pt2Te3 | PtTe2: Pt 0.333333, Te 0.666667; Pt3Te4: Pt 0.428571, Te 0.571429; Pt2Te3: Pt 0.4, Te 0.6 | experimental | [1] Guo 2015; _cites Kim 1996_ [doi](https://doi.org/10.1007/bf03025941) | Table III, p. 6, row 10 |  |
-| 722 | liquid -> PtTe2 + hex(Te) | liquid: Te 1; PtTe2: Pt 0.333333, Te 0.666667 | experimental | [1] Guo 2015; _cites Kim 1996_ [doi](https://doi.org/10.1007/bf03025941) | Table III, p. 6, row 12 |  |
-| 720 | liquid -> PtTe2 + hex(Te) | liquid: Te 0.9957; PtTe2: Pt 0.333333, Te 0.666667 | model | [1] Guo 2015 | Table III, p. 6, row 11 |  |
+| 1423 | liquid -> PtTe2 | liquid: Te 0.6667; PtTe2: Pt 0.333333, Te 0.666667 | model | [1] Guo 2015 | Table III, p. 6, row 7; `ORC-3Q6JS64W5E` |  |
+| 1423 | liquid -> PtTe2 | liquid: Te 0.667; PtTe2: Pt 0.333333, Te 0.666667 | experimental | [1] Guo 2015; _cites Kim 1996_ [doi](https://doi.org/10.1007/bf03025941) | Table III, p. 6, row 8; `ORC-UOVUUI7B2U` |  |
+| 1290 | liquid + PtTe2 -> Pt3Te4 | liquid: Te 0.5208; PtTe2: Pt 0.333333, Te 0.666667; Pt3Te4: Pt 0.428571, Te 0.571429 | model | [1] Guo 2015 | Table III, p. 6, row 5; `ORC-XHSDHATOE2` |  |
+| 1273 | liquid + PtTe2 -> Pt3Te4 | liquid: Te 0.164; PtTe2: Pt 0.333333, Te 0.666667; Pt3Te4: Pt 0.428571, Te 0.571429 | experimental | [1] Guo 2015; _cites Kim 1996_ [doi](https://doi.org/10.1007/bf03025941) | Table III, p. 6, row 6; `ORC-I5EY4YOWES` |  |
+| 1208 | liquid + Pt3Te4 -> PtTe | liquid: Te 0.4342; Pt3Te4: Pt 0.428571, Te 0.571429; PtTe: Pt 0.5, Te 0.5 | model | [1] Guo 2015 | Table III, p. 6, row 3; `ORC-UJJCJ2AK4M` |  |
+| 1208 | liquid + Pt3Te4 -> PtTe | Pt3Te4: Pt 0.428571, Te 0.571429; PtTe: Pt 0.5, Te 0.5 | experimental | [1] Guo 2015; _cites Kim 1996_ [doi](https://doi.org/10.1007/bf03025941) | Table III, p. 6, row 4; `ORC-WICAADE4PO` |  |
+| 1146 | liquid -> fcc(Pt) + PtTe | liquid: Te 0.363; PtTe: Pt 0.5, Te 0.5 | model | [1] Guo 2015 | Table III, p. 6, row 1; `ORC-5DOMZATYP7` |  |
+| 1143 | liquid -> fcc(Pt) + PtTe | liquid: Te 0.4; PtTe: Pt 0.5, Te 0.5 | experimental | [1] Guo 2015; _cites Kim 1996_ [doi](https://doi.org/10.1007/bf03025941) | Table III, p. 6, row 2; `ORC-AFL2HVIQSX` |  |
+| 954 | PtTe2 + Pt3Te4 -> Pt2Te3 | PtTe2: Pt 0.333333, Te 0.666667; Pt3Te4: Pt 0.428571, Te 0.571429; Pt2Te3: Pt 0.4, Te 0.6 | model | [1] Guo 2015 | Table III, p. 6, row 9; `ORC-XWDN7LK6SE` |  |
+| 923 | PtTe2 + Pt3Te4 -> Pt2Te3 | PtTe2: Pt 0.333333, Te 0.666667; Pt3Te4: Pt 0.428571, Te 0.571429; Pt2Te3: Pt 0.4, Te 0.6 | experimental | [1] Guo 2015; _cites Kim 1996_ [doi](https://doi.org/10.1007/bf03025941) | Table III, p. 6, row 10; `ORC-F77WYCHRYQ` |  |
+| 722 | liquid -> PtTe2 + hex(Te) | liquid: Te 1; PtTe2: Pt 0.333333, Te 0.666667 | experimental | [1] Guo 2015; _cites Kim 1996_ [doi](https://doi.org/10.1007/bf03025941) | Table III, p. 6, row 12; `ORC-TB2KDDZEOU` |  |
+| 720 | liquid -> PtTe2 + hex(Te) | liquid: Te 0.9957; PtTe2: Pt 0.333333, Te 0.666667 | model | [1] Guo 2015 | Table III, p. 6, row 11; `ORC-N556VEO4BU` |  |
 
 ## Other properties
 
@@ -81,15 +81,15 @@ Table: Crystal structure, Pt–Te system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| lattice v | 23.345 Å3/atom |  | UNKNOWN; _alloy: Te 0.6_ | experimental | [1] Guo 2015; _cites Kim 1999_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900948-7) | Table I, p. 3, row 10 |  |
-| lattice v | 25.8098 Å3/atom | 0 | UNKNOWN; _alloy: Te 0.666667_ | DFT | [1] Guo 2015 | Table I, p. 3, row 11 |  |
-| lattice v | 23.8074 Å3/atom | 0 | UNKNOWN; _alloy: Te 0.5_ | DFT | [1] Guo 2015 | Table I, p. 3, row 5 |  |
-| lattice v | 23.6667 Å3/atom |  | UNKNOWN; _alloy: Te 0.666667_ | experimental | [1] Guo 2015; _cites Soulard 2005_ [doi](https://doi.org/10.1016/j.jssc.2005.04.008) | Table I, p. 3, row 12 |  |
-| lattice v | 22.3875 Å3/atom |  | UNKNOWN; _alloy: Te 0.5_ | experimental | [1] Guo 2015; _cites Kim 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902709-0) | Table I, p. 3, row 6 |  |
-| lattice v | 25.0268 Å3/atom | 0 | UNKNOWN; _alloy: Te 0.6_ | DFT | [1] Guo 2015 | Table I, p. 3, row 9 |  |
-| lattice v | 23.2929 Å3/atom |  | UNKNOWN; _alloy: Te 0.571429_ | experimental | [1] Guo 2015; _cites Kim 1999_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900948-7) | Table I, p. 3, row 8 |  |
-| lattice v | 24.5621 Å3/atom | 0 | UNKNOWN; _alloy: Te 0.571429_ | DFT | [1] Guo 2015 | Table I, p. 3, row 7 |  |
-| lattice v | 15.09 Å3/atom |  | UNKNOWN; _alloy: Te 0_ | experimental | [1] Guo 2015; _cites Perdew 1996_ [doi](https://doi.org/10.1103/physrevlett.77.3865) | Table I, p. 3, row 2 |  |
+| lattice v | 23.345 Å3/atom |  | UNKNOWN; _alloy: Te 0.6_ | experimental | [1] Guo 2015; _cites Kim 1999_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900948-7) | Table I, p. 3, row 10; `ORC-74ZZKBNZMJ` |  |
+| lattice v | 25.8098 Å3/atom | 0 | UNKNOWN; _alloy: Te 0.666667_ | DFT | [1] Guo 2015 | Table I, p. 3, row 11; `ORC-GZMSLOMMCS` |  |
+| lattice v | 23.8074 Å3/atom | 0 | UNKNOWN; _alloy: Te 0.5_ | DFT | [1] Guo 2015 | Table I, p. 3, row 5; `ORC-PQ4S4D4IOI` |  |
+| lattice v | 23.6667 Å3/atom |  | UNKNOWN; _alloy: Te 0.666667_ | experimental | [1] Guo 2015; _cites Soulard 2005_ [doi](https://doi.org/10.1016/j.jssc.2005.04.008) | Table I, p. 3, row 12; `ORC-QL65BKQX3O` |  |
+| lattice v | 22.3875 Å3/atom |  | UNKNOWN; _alloy: Te 0.5_ | experimental | [1] Guo 2015; _cites Kim 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902709-0) | Table I, p. 3, row 6; `ORC-R2N6L3HJAJ` |  |
+| lattice v | 25.0268 Å3/atom | 0 | UNKNOWN; _alloy: Te 0.6_ | DFT | [1] Guo 2015 | Table I, p. 3, row 9; `ORC-RABUBOAJCQ` |  |
+| lattice v | 23.2929 Å3/atom |  | UNKNOWN; _alloy: Te 0.571429_ | experimental | [1] Guo 2015; _cites Kim 1999_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900948-7) | Table I, p. 3, row 8; `ORC-RGNKWYMLLV` |  |
+| lattice v | 24.5621 Å3/atom | 0 | UNKNOWN; _alloy: Te 0.571429_ | DFT | [1] Guo 2015 | Table I, p. 3, row 7; `ORC-RNO2PDHAPX` |  |
+| lattice v | 15.09 Å3/atom |  | UNKNOWN; _alloy: Te 0_ | experimental | [1] Guo 2015; _cites Perdew 1996_ [doi](https://doi.org/10.1103/physrevlett.77.3865) | Table I, p. 3, row 2; `ORC-Y6RLDJSXKM` |  |
 
 ## Sources
 
@@ -154,4 +154,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

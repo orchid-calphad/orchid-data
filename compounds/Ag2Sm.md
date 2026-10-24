@@ -14,10 +14,10 @@ Table: Enthalpy of formation of Ag2Sm reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -24.1 kJ/mol-atom ± 2.4 | αAg2Sm | 298.15 | experimental | HTDSC | [Ag–Sm](https://data.orchid-project.org/systems/AG-SM.html) | [1] Zhou 2020; _cites Meschel 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.07.069) | Table 7, p. 10, row 7 |  |
-| -40 kJ/mol-atom | αAg2Sm | 298.15 | model | Evaluation | [Ag–Sm](https://data.orchid-project.org/systems/AG-SM.html) | [1] Zhou 2020; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 7, p. 10, row 6 |  |
-| -25.6 kJ/mol-atom | αAg2Sm | 298.15 | model | CALPHAD | [Ag–Sm](https://data.orchid-project.org/systems/AG-SM.html) | [1] Zhou 2020 | Table 7, p. 10, row 9 |  |
-| -23.5 kJ/mol-atom | αAg2Sm | 298.15 | unspecified | IAS | [Ag–Sm](https://data.orchid-project.org/systems/AG-SM.html) | [1] Zhou 2020; _cites Sudavtsova 2014_ [doi](https://doi.org/10.1134/s0036024414020265) | Table 7, p. 10, row 8 |  |
+| -24.1 kJ/mol-atom ± 2.4 | αAg2Sm | 298.15 | experimental | HTDSC | [Ag–Sm](https://data.orchid-project.org/systems/AG-SM.html) | [1] Zhou 2020; _cites Meschel 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.07.069) | Table 7, p. 10, row 7; `ORC-EXIRIZR2RB.b18a79` |  |
+| -40 kJ/mol-atom | αAg2Sm | 298.15 | model | Evaluation | [Ag–Sm](https://data.orchid-project.org/systems/AG-SM.html) | [1] Zhou 2020; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 7, p. 10, row 6; `ORC-WC3XNVU74N` |  |
+| -25.6 kJ/mol-atom | αAg2Sm | 298.15 | model | CALPHAD | [Ag–Sm](https://data.orchid-project.org/systems/AG-SM.html) | [1] Zhou 2020 | Table 7, p. 10, row 9; `ORC-6XUVFUZE74` |  |
+| -23.5 kJ/mol-atom | αAg2Sm | 298.15 | unspecified | IAS | [Ag–Sm](https://data.orchid-project.org/systems/AG-SM.html) | [1] Zhou 2020; _cites Sudavtsova 2014_ [doi](https://doi.org/10.1134/s0036024414020265) | Table 7, p. 10, row 8; `ORC-7Q4KCPDDL2` |  |
 
 ### Uncertainty budget
 
@@ -95,4 +95,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -92,22 +92,22 @@ Table: Invariant reactions reported in the literature for the Mo–Ni system (16
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1619 | Liquid + bcc -> δ-NiMo | δ-NiMo: Ni 0.5 | experimental | [1] Zhou 2005; _cites Grube 1938_ | Table 4, p. 8, row 3 |  |
-| 1618 | Liquid + bcc -> δ-NiMo | L: Ni 0.624; bcc: Ni 0.018; δ-NiMo: Ni 0.473 | model | [1] Zhou 2005 | Table 4, p. 8, row 1 |  |
-| 1577 | Liquid -> δ-NiMo + fcc | L: Ni 0.662; δ-NiMo: Ni 0.521; fcc: Ni 0.729 | model | [1] Zhou 2005 | Table 4, p. 8, row 4 |  |
-| 1574 | Liquid -> δ-NiMo + fcc | δ-NiMo: Ni 0.5 | experimental | [1] Zhou 2005; _cites Grube 1938_ | Table 4, p. 8, row 6 |  |
-| 1201 | fcc + δ-NiMo -> Ni3Mo | fcc: Ni 0.785; δ-NiMo: Ni 0.518; Ni3Mo: Ni 0.752 | model | [1] Zhou 2005 | Table 4, p. 8, row 7 |  |
-| 1200 | fcc + δ-NiMo -> Ni3Mo | δ-NiMo: Ni 0.5; Ni3Mo: Ni 0.75 | experimental | [1] Zhou 2005; _cites Grube 1938_ | Table 4, p. 8, row 9 |  |
-| 1198 | fcc + δ-NiMo -> Ni3Mo | fcc: Ni 0.786; δ-NiMo: Ni 0.518; Ni3Mo: Ni 0.76 | model | [1] Zhou 2005 | Table 4, p. 8, row 8 |  |
-| 1151 | fcc + Ni3Mo -> Ni4Mo | fcc: Ni 0.808; Ni3Mo: Ni 0.756; Ni4Mo: Ni 0.8 | model | [1] Zhou 2005 | Table 4, p. 8, row 10 |  |
-| 1150 | fcc + Ni3Mo -> Ni4Mo | fcc: Ni 0.81; Ni3Mo: Ni 0.764; Ni4Mo: Ni 0.8 | model | [1] Zhou 2005 | Table 4, p. 8, row 11 |  |
-| 1148 | fcc + Ni3Mo -> Ni4Mo | Ni3Mo: Ni 0.75; Ni4Mo: Ni 0.8 | experimental | [1] Zhou 2005; _cites Grube 1938_ | Table 4, p. 8, row 12 |  |
-| 1040 | δ-NiMo + Ni3Mo -> Ni2Mo | δ-NiMo: Ni 0.514; Ni3Mo: Ni 0.758; Ni2Mo: Ni 0.667 | model | [1] Zhou 2005 | Table 4, p. 8, row 14 |  |
-| 1035 | δ-NiMo + Ni3Mo -> Ni2Mo | δ-NiMo: Ni 0.513; Ni3Mo: Ni 0.752; Ni2Mo: Ni 0.667 | model | [1] Zhou 2005 | Table 4, p. 8, row 13 |  |
-| 1033 | δ-NiMo + Ni3Mo -> Ni2Mo | δ-NiMo: Ni 0.5; Ni3Mo: Ni 0.75; Ni2Mo: Ni 0.666667 | experimental | [1] Zhou 2005; _cites Pearson 1981_ | Table 4, p. 8, row 15 |  |
-| 631 | δ-NiMo -> bcc + Ni2Mo | δ-NiMo: Ni 0.498; bcc: Ni 0; Ni2Mo: Ni 0.667 | model | [1] Zhou 2005 | Table 4, p. 8, row 19 |  |
-| 557 | fcc + Ni4Mo -> Ni8Mo | fcc: Ni 0.98; Ni4Mo: Ni 0.8; Ni8Mo: Ni 0.889 | model | [1] Zhou 2005 | Table 4, p. 8, row 16 |  |
-| 555 | fcc + Ni4Mo -> Ni8Mo | Ni4Mo: Ni 0.8; Ni8Mo: Ni 0.888889 | experimental | [1] Zhou 2005; _cites Mayer 1985_ [doi](https://doi.org/10.1002/pssa.2210900209) | Table 4, p. 8, row 18 |  |
+| 1619 | Liquid + bcc -> δ-NiMo | δ-NiMo: Ni 0.5 | experimental | [1] Zhou 2005; _cites Grube 1938_ | Table 4, p. 8, row 3; `ORC-DMJM7LOFWH` |  |
+| 1618 | Liquid + bcc -> δ-NiMo | L: Ni 0.624; bcc: Ni 0.018; δ-NiMo: Ni 0.473 | model | [1] Zhou 2005 | Table 4, p. 8, row 1; `ORC-6PA2GIJ7SC.67da2a` |  |
+| 1577 | Liquid -> δ-NiMo + fcc | L: Ni 0.662; δ-NiMo: Ni 0.521; fcc: Ni 0.729 | model | [1] Zhou 2005 | Table 4, p. 8, row 4; `ORC-LDE6QX7GNQ.49e033` |  |
+| 1574 | Liquid -> δ-NiMo + fcc | δ-NiMo: Ni 0.5 | experimental | [1] Zhou 2005; _cites Grube 1938_ | Table 4, p. 8, row 6; `ORC-BWLZD6UVPF` |  |
+| 1201 | fcc + δ-NiMo -> Ni3Mo | fcc: Ni 0.785; δ-NiMo: Ni 0.518; Ni3Mo: Ni 0.752 | model | [1] Zhou 2005 | Table 4, p. 8, row 7; `ORC-SU2XD5A56H` |  |
+| 1200 | fcc + δ-NiMo -> Ni3Mo | δ-NiMo: Ni 0.5; Ni3Mo: Ni 0.75 | experimental | [1] Zhou 2005; _cites Grube 1938_ | Table 4, p. 8, row 9; `ORC-U7KEZAT5XW` |  |
+| 1198 | fcc + δ-NiMo -> Ni3Mo | fcc: Ni 0.786; δ-NiMo: Ni 0.518; Ni3Mo: Ni 0.76 | model | [1] Zhou 2005 | Table 4, p. 8, row 8; `ORC-C5OUVBA45M` |  |
+| 1151 | fcc + Ni3Mo -> Ni4Mo | fcc: Ni 0.808; Ni3Mo: Ni 0.756; Ni4Mo: Ni 0.8 | model | [1] Zhou 2005 | Table 4, p. 8, row 10; `ORC-HCREABA2FE` |  |
+| 1150 | fcc + Ni3Mo -> Ni4Mo | fcc: Ni 0.81; Ni3Mo: Ni 0.764; Ni4Mo: Ni 0.8 | model | [1] Zhou 2005 | Table 4, p. 8, row 11; `ORC-24V5RHFCMJ` |  |
+| 1148 | fcc + Ni3Mo -> Ni4Mo | Ni3Mo: Ni 0.75; Ni4Mo: Ni 0.8 | experimental | [1] Zhou 2005; _cites Grube 1938_ | Table 4, p. 8, row 12; `ORC-DF3OWFIU6S` |  |
+| 1040 | δ-NiMo + Ni3Mo -> Ni2Mo | δ-NiMo: Ni 0.514; Ni3Mo: Ni 0.758; Ni2Mo: Ni 0.667 | model | [1] Zhou 2005 | Table 4, p. 8, row 14; `ORC-OJVRDR7A2F` |  |
+| 1035 | δ-NiMo + Ni3Mo -> Ni2Mo | δ-NiMo: Ni 0.513; Ni3Mo: Ni 0.752; Ni2Mo: Ni 0.667 | model | [1] Zhou 2005 | Table 4, p. 8, row 13; `ORC-NJGOGTMALK` |  |
+| 1033 | δ-NiMo + Ni3Mo -> Ni2Mo | δ-NiMo: Ni 0.5; Ni3Mo: Ni 0.75; Ni2Mo: Ni 0.666667 | experimental | [1] Zhou 2005; _cites Pearson 1981_ | Table 4, p. 8, row 15; `ORC-2D75SXGO3T` |  |
+| 631 | δ-NiMo -> bcc + Ni2Mo | δ-NiMo: Ni 0.498; bcc: Ni 0; Ni2Mo: Ni 0.667 | model | [1] Zhou 2005 | Table 4, p. 8, row 19; `ORC-SWG2227MEP.59bafe` |  |
+| 557 | fcc + Ni4Mo -> Ni8Mo | fcc: Ni 0.98; Ni4Mo: Ni 0.8; Ni8Mo: Ni 0.889 | model | [1] Zhou 2005 | Table 4, p. 8, row 16; `ORC-GDYA2ZF5DC.920477` |  |
+| 555 | fcc + Ni4Mo -> Ni8Mo | Ni4Mo: Ni 0.8; Ni8Mo: Ni 0.888889 | experimental | [1] Zhou 2005; _cites Mayer 1985_ [doi](https://doi.org/10.1002/pssa.2210900209) | Table 4, p. 8, row 18; `ORC-X33ZTZK2XE` |  |
 
 ## Formation enthalpies
 
@@ -117,46 +117,46 @@ Table: Enthalpies of formation, Mo–Ni system (40)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Ni₀.₂₅Mo₀.₇₅ |  | -4.063 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 31 |  |
-| Ni₀.₂₅Mo₀.₇₅ |  | 9.145 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 28 |  |
-| Ni₀.₅₀Mo₀.₅₀ |  | -6.405 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 32 |  |
-| Ni₀.₅₀Mo₀.₅₀ |  | 10.45 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 29 |  |
-| Ni₀.₇₅Mo₀.₂₅ |  | -4.663 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 33 |  |
-| Ni₀.₇₅Mo₀.₂₅ |  | 5.083 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 30 |  |
-| Ni₂Mo |  | -8.34 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Zhou 2005; _cites Wang 2005_ [doi](https://doi.org/10.1016/j.scriptamat.2004.09.007) | Table 2, p. 4, row 40 |  |
-| Ni₃Mo |  | -8.54 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Zhou 2005; _cites Wang 2005_ [doi](https://doi.org/10.1016/j.scriptamat.2004.09.007) | Table 2, p. 4, row 42 |  |
-| Ni₃Mo |  | 2.84 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 44 |  |
-| Ni₃Mo |  | 17.06 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 43 |  |
-| Ni₃Mo |  | 42.65 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 41 |  |
-| Ni₄Mo |  | -7.55 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Zhou 2005; _cites Wang 2005_ [doi](https://doi.org/10.1016/j.scriptamat.2004.09.007) | Table 2, p. 4, row 45 |  |
-| Ni₈Mo |  | -4.44 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Zhou 2005; _cites Wang 2005_ [doi](https://doi.org/10.1016/j.scriptamat.2004.09.007) | Table 2, p. 4, row 46 |  |
-| UNKNOWN |  | -8.54 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005; _cites Wang 2005_ [doi](https://doi.org/10.1016/j.scriptamat.2004.09.007) | Table 2, p. 4, row 42 |  |
-| UNKNOWN |  | -8.34 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005; _cites Wang 2005_ [doi](https://doi.org/10.1016/j.scriptamat.2004.09.007) | Table 2, p. 4, row 40 |  |
-| UNKNOWN |  | -7.55 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005; _cites Wang 2005_ [doi](https://doi.org/10.1016/j.scriptamat.2004.09.007) | Table 2, p. 4, row 45 |  |
-| UNKNOWN |  | -6.405 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 32 |  |
-| UNKNOWN |  | -4.663 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 33 |  |
-| UNKNOWN |  | -4.49 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005; _cites Wang 2005_ [doi](https://doi.org/10.1016/j.scriptamat.2004.09.007) | Table 2, p. 4, row 35 |  |
-| UNKNOWN |  | -4.44 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005; _cites Wang 2005_ [doi](https://doi.org/10.1016/j.scriptamat.2004.09.007) | Table 2, p. 4, row 46 |  |
-| UNKNOWN |  | -4.063 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 31 |  |
-| UNKNOWN |  | -2.8 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 36 |  |
-| UNKNOWN |  | -2.24 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 34 |  |
-| UNKNOWN |  | -0.89 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 37 |  |
-| UNKNOWN |  | -0.1 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 38 |  |
-| UNKNOWN |  | 0 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005; _cites Wang 2005_ [doi](https://doi.org/10.1016/j.scriptamat.2004.09.007) | Table 2, p. 4, row 26 |  |
-| UNKNOWN |  | 1.98 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 39 |  |
-| UNKNOWN |  | 2.84 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 44 |  |
-| UNKNOWN |  | 5.083 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 30 |  |
-| UNKNOWN |  | 9.145 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 28 |  |
-| UNKNOWN |  | 10.45 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 29 |  |
-| UNKNOWN |  | 17.06 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 43 |  |
-| UNKNOWN |  | 39.51 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 27 |  |
-| UNKNOWN |  | 42.65 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 41 |  |
-| δ-NiMo |  | -4.49 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Zhou 2005; _cites Wang 2005_ [doi](https://doi.org/10.1016/j.scriptamat.2004.09.007) | Table 2, p. 4, row 35 |  |
-| δ-NiMo |  | -2.8 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 36 |  |
-| δ-NiMo |  | -2.24 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 34 |  |
-| δ-NiMo |  | -0.89 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 37 |  |
-| δ-NiMo |  | -0.1 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 38 |  |
-| δ-NiMo |  | 1.98 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 39 |  |
+| Ni₀.₂₅Mo₀.₇₅ |  | -4.063 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 31; `ORC-A2Y4PR2MEY.eacdb2` |  |
+| Ni₀.₂₅Mo₀.₇₅ |  | 9.145 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 28; `ORC-24P4ZIWOWV.695764` |  |
+| Ni₀.₅₀Mo₀.₅₀ |  | -6.405 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 32; `ORC-BE5RUGJH4N.d312ce` |  |
+| Ni₀.₅₀Mo₀.₅₀ |  | 10.45 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 29; `ORC-MZU67UQKLF.638a01` |  |
+| Ni₀.₇₅Mo₀.₂₅ |  | -4.663 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 33; `ORC-27CKX4VFJC.854b5f` |  |
+| Ni₀.₇₅Mo₀.₂₅ |  | 5.083 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 30; `ORC-2LAKYBCOYE.74c6b0` |  |
+| Ni₂Mo |  | -8.34 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Zhou 2005; _cites Wang 2005_ [doi](https://doi.org/10.1016/j.scriptamat.2004.09.007) | Table 2, p. 4, row 40; `ORC-XBXAS7ODAS.c06f33` |  |
+| Ni₃Mo |  | -8.54 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Zhou 2005; _cites Wang 2005_ [doi](https://doi.org/10.1016/j.scriptamat.2004.09.007) | Table 2, p. 4, row 42; `ORC-IUGTOAH2WK.4feca7` |  |
+| Ni₃Mo |  | 2.84 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 44; `ORC-WMXOYFTBYL.8d7e51` |  |
+| Ni₃Mo |  | 17.06 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 43; `ORC-RXNDKRKMZ6.1e4830` |  |
+| Ni₃Mo |  | 42.65 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 41; `ORC-EESI7CPK4A.b47cb5` |  |
+| Ni₄Mo |  | -7.55 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Zhou 2005; _cites Wang 2005_ [doi](https://doi.org/10.1016/j.scriptamat.2004.09.007) | Table 2, p. 4, row 45; `ORC-6UJLVI53GL.b3b7f9` |  |
+| Ni₈Mo |  | -4.44 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Zhou 2005; _cites Wang 2005_ [doi](https://doi.org/10.1016/j.scriptamat.2004.09.007) | Table 2, p. 4, row 46; `ORC-JXG2SLOUIY.216e02` |  |
+| UNKNOWN |  | -8.54 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005; _cites Wang 2005_ [doi](https://doi.org/10.1016/j.scriptamat.2004.09.007) | Table 2, p. 4, row 42; `ORC-IUGTOAH2WK.d16e7a` |  |
+| UNKNOWN |  | -8.34 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005; _cites Wang 2005_ [doi](https://doi.org/10.1016/j.scriptamat.2004.09.007) | Table 2, p. 4, row 40; `ORC-XBXAS7ODAS.432a17` |  |
+| UNKNOWN |  | -7.55 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005; _cites Wang 2005_ [doi](https://doi.org/10.1016/j.scriptamat.2004.09.007) | Table 2, p. 4, row 45; `ORC-6UJLVI53GL.a2fd88` |  |
+| UNKNOWN |  | -6.405 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 32; `ORC-BE5RUGJH4N.feed25` |  |
+| UNKNOWN |  | -4.663 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 33; `ORC-27CKX4VFJC.9e8911` |  |
+| UNKNOWN |  | -4.49 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005; _cites Wang 2005_ [doi](https://doi.org/10.1016/j.scriptamat.2004.09.007) | Table 2, p. 4, row 35; `ORC-RDISTNJK7T.1a81ea` |  |
+| UNKNOWN |  | -4.44 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005; _cites Wang 2005_ [doi](https://doi.org/10.1016/j.scriptamat.2004.09.007) | Table 2, p. 4, row 46; `ORC-JXG2SLOUIY.29e526` |  |
+| UNKNOWN |  | -4.063 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 31; `ORC-A2Y4PR2MEY.e9d22f` |  |
+| UNKNOWN |  | -2.8 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 36; `ORC-53SXQSON2H.28b793` |  |
+| UNKNOWN |  | -2.24 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 34; `ORC-EPSGJXOM64.68a7d0` |  |
+| UNKNOWN |  | -0.89 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 37; `ORC-BNPBVC42CD.1f2ca1` |  |
+| UNKNOWN |  | -0.1 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 38; `ORC-MT2XVTSPC4.72c37f` |  |
+| UNKNOWN |  | 0 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005; _cites Wang 2005_ [doi](https://doi.org/10.1016/j.scriptamat.2004.09.007) | Table 2, p. 4, row 26; `ORC-4SS32G7DVA.4979e1` |  |
+| UNKNOWN |  | 1.98 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 39; `ORC-XMIVKB2HUB.ec7c05` |  |
+| UNKNOWN |  | 2.84 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 44; `ORC-WMXOYFTBYL.0735a0` |  |
+| UNKNOWN |  | 5.083 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 30; `ORC-2LAKYBCOYE.9e85b5` |  |
+| UNKNOWN |  | 9.145 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 28; `ORC-24P4ZIWOWV.f41011` |  |
+| UNKNOWN |  | 10.45 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 29; `ORC-MZU67UQKLF.523a78` |  |
+| UNKNOWN |  | 17.06 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 43; `ORC-RXNDKRKMZ6.866930` |  |
+| UNKNOWN |  | 39.51 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 27; `ORC-232EEQ5WRP.f8f6d8` |  |
+| UNKNOWN |  | 42.65 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 41; `ORC-EESI7CPK4A.e9e1f6` |  |
+| δ-NiMo |  | -4.49 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Zhou 2005; _cites Wang 2005_ [doi](https://doi.org/10.1016/j.scriptamat.2004.09.007) | Table 2, p. 4, row 35; `ORC-RDISTNJK7T.4d9a5f` |  |
+| δ-NiMo |  | -2.8 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 36; `ORC-53SXQSON2H.37a71e` |  |
+| δ-NiMo |  | -2.24 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 34; `ORC-EPSGJXOM64.a84a0b` |  |
+| δ-NiMo |  | -0.89 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 37; `ORC-BNPBVC42CD.22aa42` |  |
+| δ-NiMo |  | -0.1 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 38; `ORC-MT2XVTSPC4.8f86db` |  |
+| δ-NiMo |  | 1.98 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 39; `ORC-XMIVKB2HUB.ad1175` |  |
 
 ## Other properties
 
@@ -166,16 +166,16 @@ Table: Phase transition, Mo–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 317 K | 317 | other: Ni4Mo = fcc(Ni) + Ni3Mo | model | [2] Cui 1999 | p. 4 | “In addition, Ni4Mo is assumed to decompose into fcc(Ni) and Ni3Mo at about 317 K in the assessment by Frisk, which is unreasonable without any direct experimental information.” |
-| Phase transition | 1141 K | 1141 | other | experimental | [3] Frisk 1990; _cites CasseItou 1964_ | p. 4 | “In agreement with their work and refs.2 and 9, the decomposition temperature of the p phase was placed at 1141K.” |
-| Phase transition | 1400 K | 1400 | bcc þ fcc 4 L12 þ NiMo | experimental | [4] Peng 2016; _cites Miracle 1984_ [doi](https://doi.org/10.1007/bf02644971) | p. 3 | “Yoshizawa et al. \[42\] also reported the temperature of invariant reaction U3: bcc þ fcc 4 L12 þ NiMo to be ~1468 K, which is considerably higher than that determined later by Wakashima et al. \[24\] (~1403 K), Miracle et al. \[27\](1400 ± 2 K) and Maslenkov et al. \[29\] (1403 ± 5 K).” |
-| Phase transition | 1403 K | 1403 | bcc þ fcc 4 L12 þ NiMo | experimental | [4] Peng 2016; _cites Wakashima 1983_ [doi](https://doi.org/10.1016/0001-6160%2883%2990139-6) | p. 3 | “Yoshizawa et al. \[42\] also reported the temperature of invariant reaction U3: bcc þ fcc 4 L12 þ NiMo to be ~1468 K, which is considerably higher than that determined later by Wakashima et al. \[24\] (~1403 K), Miracle et al. \[27\](1400 ± 2 K) and Maslenkov et al. \[29\] (1403 ± 5 K).” |
-| Phase transition | 1468 K | 1468 | bcc þ fcc 4 L12 þ NiMo | experimental | [4] Peng 2016; _cites Yoshizawa 1981_ [doi](https://doi.org/10.1016/0036-9748%2881%2990164-2) | p. 3 | “Yoshizawa et al. \[42\] also reported the temperature of invariant reaction U3: bcc þ fcc 4 L12 þ NiMo to be ~1468 K, which is considerably higher than that determined later by Wakashima et al. \[24\] (~1403 K), Miracle et al. \[27\](1400 ± 2 K) and Maslenkov et al. \[29\] (1403 ± 5 K).” |
-| Phase transition | 1503.15 K | 1503.15 | L + (Mo,V) = (Ni) + σ | experimental | [5] Pan 2018; _cites Prima 1980_ | p. 3 | “The liquidus projection in the ternary system is dominated by two liquid transition reactions: L + δ = (Ni) + (Mo,V) at 1290 °C and L + (Mo,V) = (Ni) + σ at 1230 °C \[44\].” |
-| Phase transition | 1563.15 K | 1563.15 | L + δ = (Ni) + (Mo,V) | experimental | [5] Pan 2018; _cites Prima 1980_ | p. 3 | “The liquidus projection in the ternary system is dominated by two liquid transition reactions: L + δ = (Ni) + (Mo,V) at 1290 °C and L + (Mo,V) = (Ni) + σ at 1230 °C \[44\].” |
-| Phase transition | 1583 K | 1583 | Liquid þ NiMo 4 bcc þ fcc | experimental | [4] Peng 2016; _cites Maslenkov 1986_ | p. 3 | “This temperature was later confirmed by Maslenkov et al. \[10,11\] as 1583 ± 10 K.” |
-| Phase transition | 1585 K | 1585 | Liquid þ NiMo 4 bcc þ fcc | experimental | [4] Peng 2016; _cites Yoshizawa 1981_ [doi](https://doi.org/10.1016/0036-9748%2881%2990164-2) | p. 3 | “Yoshizawa et al. \[42\] firstly reported the temperature of the invariant reaction U2: Liquid þ NiMo 4 bcc þ fcc as ~1585 K.” |
-| Phase transition | 1900 K | 1900 | other | experimental | [6] Morishita 2001; _cites Takagi 1987_ | p. 1 | “The ternary intermetallic compound, NiMo 2 B 2 has a high incongruent melting point about 1900 K, high hardness and corrosion resistance against hydrochloric and hydrosulfuric acid aqueous solution.” |
+| Phase transition | 317 K | 317 | other: Ni4Mo = fcc(Ni) + Ni3Mo | model | [2] Cui 1999 | p. 4; `ORC-VGV3OIAKOL` | “In addition, Ni4Mo is assumed to decompose into fcc(Ni) and Ni3Mo at about 317 K in the assessment by Frisk, which is unreasonable without any direct experimental information.” |
+| Phase transition | 1141 K | 1141 | other | experimental | [3] Frisk 1990; _cites CasseItou 1964_ | p. 4; `ORC-SISIVSKPA2` | “In agreement with their work and refs.2 and 9, the decomposition temperature of the p phase was placed at 1141K.” |
+| Phase transition | 1400 K | 1400 | bcc þ fcc 4 L12 þ NiMo | experimental | [4] Peng 2016; _cites Miracle 1984_ [doi](https://doi.org/10.1007/bf02644971) | p. 3; `ORC-5IIPJEAVH6.95cc4c` | “Yoshizawa et al. \[42\] also reported the temperature of invariant reaction U3: bcc þ fcc 4 L12 þ NiMo to be ~1468 K, which is considerably higher than that determined later by Wakashima et al. \[24\] (~1403 K), Miracle et al. \[27\](1400 ± 2 K) and Maslenkov et al. \[29\] (1403 ± 5 K).” |
+| Phase transition | 1403 K | 1403 | bcc þ fcc 4 L12 þ NiMo | experimental | [4] Peng 2016; _cites Wakashima 1983_ [doi](https://doi.org/10.1016/0001-6160%2883%2990139-6) | p. 3; `ORC-5IIPJEAVH6.4569e7` | “Yoshizawa et al. \[42\] also reported the temperature of invariant reaction U3: bcc þ fcc 4 L12 þ NiMo to be ~1468 K, which is considerably higher than that determined later by Wakashima et al. \[24\] (~1403 K), Miracle et al. \[27\](1400 ± 2 K) and Maslenkov et al. \[29\] (1403 ± 5 K).” |
+| Phase transition | 1468 K | 1468 | bcc þ fcc 4 L12 þ NiMo | experimental | [4] Peng 2016; _cites Yoshizawa 1981_ [doi](https://doi.org/10.1016/0036-9748%2881%2990164-2) | p. 3; `ORC-5IIPJEAVH6.c7618d` | “Yoshizawa et al. \[42\] also reported the temperature of invariant reaction U3: bcc þ fcc 4 L12 þ NiMo to be ~1468 K, which is considerably higher than that determined later by Wakashima et al. \[24\] (~1403 K), Miracle et al. \[27\](1400 ± 2 K) and Maslenkov et al. \[29\] (1403 ± 5 K).” |
+| Phase transition | 1503.15 K | 1503.15 | L + (Mo,V) = (Ni) + σ | experimental | [5] Pan 2018; _cites Prima 1980_ | p. 3; `ORC-PKVBU4UXFS.9f7b33` | “The liquidus projection in the ternary system is dominated by two liquid transition reactions: L + δ = (Ni) + (Mo,V) at 1290 °C and L + (Mo,V) = (Ni) + σ at 1230 °C \[44\].” |
+| Phase transition | 1563.15 K | 1563.15 | L + δ = (Ni) + (Mo,V) | experimental | [5] Pan 2018; _cites Prima 1980_ | p. 3; `ORC-PKVBU4UXFS.9854b4` | “The liquidus projection in the ternary system is dominated by two liquid transition reactions: L + δ = (Ni) + (Mo,V) at 1290 °C and L + (Mo,V) = (Ni) + σ at 1230 °C \[44\].” |
+| Phase transition | 1583 K | 1583 | Liquid þ NiMo 4 bcc þ fcc | experimental | [4] Peng 2016; _cites Maslenkov 1986_ | p. 3; `ORC-AHMTDZLM3X` | “This temperature was later confirmed by Maslenkov et al. \[10,11\] as 1583 ± 10 K.” |
+| Phase transition | 1585 K | 1585 | Liquid þ NiMo 4 bcc þ fcc | experimental | [4] Peng 2016; _cites Yoshizawa 1981_ [doi](https://doi.org/10.1016/0036-9748%2881%2990164-2) | p. 3; `ORC-IUPFBNCNKH` | “Yoshizawa et al. \[42\] firstly reported the temperature of the invariant reaction U2: Liquid þ NiMo 4 bcc þ fcc as ~1585 K.” |
+| Phase transition | 1900 K | 1900 | other | experimental | [6] Morishita 2001; _cites Takagi 1987_ | p. 1; `ORC-RLAXZ3QYRO` | “The ternary intermetallic compound, NiMo 2 B 2 has a high incongruent melting point about 1900 K, high hardness and corrosion resistance against hydrochloric and hydrosulfuric acid aqueous solution.” |
 
 ## Sources
 
@@ -245,4 +245,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

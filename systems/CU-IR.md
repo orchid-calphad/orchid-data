@@ -52,30 +52,30 @@ Table: Phase equilibrium, Cu–Ir system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 773.15 | (Cu) + (Ir); _(Cu): Cu 0.994, Ir 0.006; (Ir): Cu 0.001, Ir 0.999_ | model | [1] Chakrabarti 1987 | Table 1, p. 2, row 24 |  |
-| Phase composition |  | 973.15 | (Cu); _(Cu): Cu 0.969, Ir 0.031_ | experimental | [1] Chakrabarti 1987; _cites ref. 69Rau_ | Table 1, p. 2, row 10 |  |
-| Phase composition |  | 973.15 | (Cu) + (Ir); _(Cu): Cu 0.981, Ir 0.019; (Ir): Cu 0.005, Ir 0.995_ | model | [1] Chakrabarti 1987 | Table 1, p. 2, row 23 |  |
-| Phase composition |  | 1073.15 | (Cu) + (Ir); _(Cu): Cu 0.972, Ir 0.028; (Ir): Cu 0.008, Ir 0.992_ | model | [1] Chakrabarti 1987 | Table 1, p. 2, row 22 |  |
-| Phase composition |  | 1073.15 | (Ir); _(Ir): Cu 0.014, Ir 0.986_ | experimental | [1] Chakrabarti 1987; _cites ref. 69Rau_ | Table 1, p. 2, row 9 |  |
-| Phase composition |  | 1133.15 | (Cu); _(Cu): Cu 0.945, Ir 0.055_ | experimental | [1] Chakrabarti 1987; _cites ref. 69Rau_ | Table 1, p. 2, row 8 |  |
-| Phase composition |  | 1173.15 | (Cu) + (Ir); _(Cu): Cu 0.959, Ir 0.041; (Ir): Cu 0.013, Ir 0.987_ | model | [1] Chakrabarti 1987 | Table 1, p. 2, row 21 |  |
-| Phase composition |  | 1293.15 | (Cu); _(Cu): Cu 0.935, Ir 0.065_ | experimental | [1] Chakrabarti 1987; _cites ref. 69Rau_ | Table 1, p. 2, row 7 |  |
-| Phase composition |  | 1358.02 | Liquidus + Solidus + L + (Cu); _Liquidus: Cu 1, Ir 0; Solidus: Cu 1, Ir 0; L: Cu 1, Ir 0; (Cu): Cu 1, Ir 0_ | unspecified | [1] Chakrabarti 1987 | Table 1, p. 2, row 2 |  |
-| Phase composition |  | 1363.15 | (Ir); _(Ir): Cu 0.03, Ir 0.97_ | experimental | [1] Chakrabarti 1987; _cites ref. 69Rau_ | Table 1, p. 2, row 6 |  |
-| Phase composition |  | 1373.15 | (Cu) + (Ir); _(Cu): Cu 0.927, Ir 0.073; (Ir): Cu 0.027, Ir 0.973_ | model | [1] Chakrabarti 1987 | Table 1, p. 2, row 20 |  |
-| Phase composition |  | 1411.15 | (Cu) + (Ir); _(Cu): Cu 0.92, Ir 0.08; (Ir): Cu 0.03, Ir 0.97_ | model | [1] Chakrabarti 1987 | Table 1, p. 2, row 19 |  |
-| Phase composition |  | 1411.15 | Liquidus + Solidus + L + (Ir); _Liquidus: Cu 0.96, Ir 0.04; Solidus: Cu 0.03, Ir 0.97; L: Cu 0.96, Ir 0.04; (Ir): Cu 0.03, Ir 0.97_ | model | [1] Chakrabarti 1987 | Table 1, p. 2, row 18 |  |
-| Phase composition |  | 1473.15 | Liquidus + Solidus + L + (Ir); _Liquidus: Cu 0.95, Ir 0.05; Solidus: Cu 0.034, Ir 0.966; L: Cu 0.95, Ir 0.05; (Ir): Cu 0.034, Ir 0.966_ | model | [1] Chakrabarti 1987 | Table 1, p. 2, row 17 |  |
-| Phase composition |  | 1473.15 | Solidus + (Ir); _Solidus: Cu 0.032, Ir 0.968; (Ir): Cu 0.032, Ir 0.968_ | experimental | [1] Chakrabarti 1987; _cites ref. 69Rau_ | Table 1, p. 2, row 5 |  |
-| Phase composition |  | 1673.15 | Liquidus + Solidus + L + (Ir); _Liquidus: Cu 0.905, Ir 0.095; Solidus: Cu 0.046, Ir 0.954; L: Cu 0.905, Ir 0.095; (Ir): Cu 0.046, Ir 0.954_ | model | [1] Chakrabarti 1987 | Table 1, p. 2, row 16 |  |
-| Phase composition |  | 1673.15 | Solidus + (Ir); _Solidus: Cu 0.051, Ir 0.949; (Ir): Cu 0.051, Ir 0.949_ | experimental | [1] Chakrabarti 1987; _cites ref. 69Rau_ | Table 1, p. 2, row 4 |  |
-| Phase composition |  | 1873.15 | Liquidus + Solidus + L + (Ir); _Liquidus: Cu 0.827, Ir 0.173; Solidus: Cu 0.057, Ir 0.943; L: Cu 0.827, Ir 0.173; (Ir): Cu 0.057, Ir 0.943_ | model | [1] Chakrabarti 1987 | Table 1, p. 2, row 15 |  |
-| Phase composition |  | 1873.15 | Solidus + (Ir); _Solidus: Cu 0.073, Ir 0.927; (Ir): Cu 0.073, Ir 0.927_ | experimental | [1] Chakrabarti 1987; _cites ref. 69Rau_ | Table 1, p. 2, row 3 |  |
-| Phase composition |  | 2073.15 | Liquidus + Solidus + L + (Ir); _Liquidus: Cu 0.678, Ir 0.322; Solidus: Cu 0.063, Ir 0.937; L: Cu 0.678, Ir 0.322; (Ir): Cu 0.063, Ir 0.937_ | model | [1] Chakrabarti 1987 | Table 1, p. 2, row 14 |  |
-| Phase composition |  | 2273.15 | Liquidus + Solidus + L + (Ir); _Liquidus: Cu 0.39, Ir 0.61; Solidus: Cu 0.057, Ir 0.943; L: Cu 0.39, Ir 0.61; (Ir): Cu 0.057, Ir 0.943_ | model | [1] Chakrabarti 1987 | Table 1, p. 2, row 13 |  |
-| Phase composition |  | 2473.15 | Liquidus + Solidus + L + (Ir); _Liquidus: Cu 0.171, Ir 0.829; Solidus: Cu 0.037, Ir 0.963; L: Cu 0.171, Ir 0.829; (Ir): Cu 0.037, Ir 0.963_ | model | [1] Chakrabarti 1987 | Table 1, p. 2, row 12 |  |
-| Phase composition |  | 2673.15 | Liquidus + Solidus + L + (Ir); _Liquidus: Cu 0.028, Ir 0.972; Solidus: Cu 0.007, Ir 0.993; L: Cu 0.028, Ir 0.972; (Ir): Cu 0.007, Ir 0.993_ | model | [1] Chakrabarti 1987 | Table 1, p. 2, row 11 |  |
-| Phase composition |  | 2720.15 | Liquidus + Solidus + L + (Ir); _Liquidus: Cu 0, Ir 1; Solidus: Cu 0, Ir 1; L: Cu 0, Ir 1; (Ir): Cu 0, Ir 1_ | unspecified | [1] Chakrabarti 1987 | Table 1, p. 2, row 1 |  |
+| Phase composition |  | 773.15 | (Cu) + (Ir); _(Cu): Cu 0.994, Ir 0.006; (Ir): Cu 0.001, Ir 0.999_ | model | [1] Chakrabarti 1987 | Table 1, p. 2, row 24; `ORC-OUDOQBTBHC` |  |
+| Phase composition |  | 973.15 | (Cu); _(Cu): Cu 0.969, Ir 0.031_ | experimental | [1] Chakrabarti 1987; _cites ref. 69Rau_ | Table 1, p. 2, row 10; `ORC-4HWVLUMAXZ` |  |
+| Phase composition |  | 973.15 | (Cu) + (Ir); _(Cu): Cu 0.981, Ir 0.019; (Ir): Cu 0.005, Ir 0.995_ | model | [1] Chakrabarti 1987 | Table 1, p. 2, row 23; `ORC-ZPWPUKQCNR` |  |
+| Phase composition |  | 1073.15 | (Cu) + (Ir); _(Cu): Cu 0.972, Ir 0.028; (Ir): Cu 0.008, Ir 0.992_ | model | [1] Chakrabarti 1987 | Table 1, p. 2, row 22; `ORC-5ZPVA2YKPA` |  |
+| Phase composition |  | 1073.15 | (Ir); _(Ir): Cu 0.014, Ir 0.986_ | experimental | [1] Chakrabarti 1987; _cites ref. 69Rau_ | Table 1, p. 2, row 9; `ORC-J27BTO2SVV` |  |
+| Phase composition |  | 1133.15 | (Cu); _(Cu): Cu 0.945, Ir 0.055_ | experimental | [1] Chakrabarti 1987; _cites ref. 69Rau_ | Table 1, p. 2, row 8; `ORC-VZ5DADP3MH` |  |
+| Phase composition |  | 1173.15 | (Cu) + (Ir); _(Cu): Cu 0.959, Ir 0.041; (Ir): Cu 0.013, Ir 0.987_ | model | [1] Chakrabarti 1987 | Table 1, p. 2, row 21; `ORC-3MZ2M76GOQ` |  |
+| Phase composition |  | 1293.15 | (Cu); _(Cu): Cu 0.935, Ir 0.065_ | experimental | [1] Chakrabarti 1987; _cites ref. 69Rau_ | Table 1, p. 2, row 7; `ORC-Z6BGS3A4JO` |  |
+| Phase composition |  | 1358.02 | Liquidus + Solidus + L + (Cu); _Liquidus: Cu 1, Ir 0; Solidus: Cu 1, Ir 0; L: Cu 1, Ir 0; (Cu): Cu 1, Ir 0_ | unspecified | [1] Chakrabarti 1987 | Table 1, p. 2, row 2; `ORC-PMXKHU53ZR` |  |
+| Phase composition |  | 1363.15 | (Ir); _(Ir): Cu 0.03, Ir 0.97_ | experimental | [1] Chakrabarti 1987; _cites ref. 69Rau_ | Table 1, p. 2, row 6; `ORC-7IJSBCIG6I` |  |
+| Phase composition |  | 1373.15 | (Cu) + (Ir); _(Cu): Cu 0.927, Ir 0.073; (Ir): Cu 0.027, Ir 0.973_ | model | [1] Chakrabarti 1987 | Table 1, p. 2, row 20; `ORC-ZQ46XDCVMN` |  |
+| Phase composition |  | 1411.15 | (Cu) + (Ir); _(Cu): Cu 0.92, Ir 0.08; (Ir): Cu 0.03, Ir 0.97_ | model | [1] Chakrabarti 1987 | Table 1, p. 2, row 19; `ORC-WPQXXOXYV3` |  |
+| Phase composition |  | 1411.15 | Liquidus + Solidus + L + (Ir); _Liquidus: Cu 0.96, Ir 0.04; Solidus: Cu 0.03, Ir 0.97; L: Cu 0.96, Ir 0.04; (Ir): Cu 0.03, Ir 0.97_ | model | [1] Chakrabarti 1987 | Table 1, p. 2, row 18; `ORC-HIZM2WFJKD` |  |
+| Phase composition |  | 1473.15 | Liquidus + Solidus + L + (Ir); _Liquidus: Cu 0.95, Ir 0.05; Solidus: Cu 0.034, Ir 0.966; L: Cu 0.95, Ir 0.05; (Ir): Cu 0.034, Ir 0.966_ | model | [1] Chakrabarti 1987 | Table 1, p. 2, row 17; `ORC-ZNB72WTJHN` |  |
+| Phase composition |  | 1473.15 | Solidus + (Ir); _Solidus: Cu 0.032, Ir 0.968; (Ir): Cu 0.032, Ir 0.968_ | experimental | [1] Chakrabarti 1987; _cites ref. 69Rau_ | Table 1, p. 2, row 5; `ORC-XNKQF4LQY4` |  |
+| Phase composition |  | 1673.15 | Liquidus + Solidus + L + (Ir); _Liquidus: Cu 0.905, Ir 0.095; Solidus: Cu 0.046, Ir 0.954; L: Cu 0.905, Ir 0.095; (Ir): Cu 0.046, Ir 0.954_ | model | [1] Chakrabarti 1987 | Table 1, p. 2, row 16; `ORC-OLXHF46SYF` |  |
+| Phase composition |  | 1673.15 | Solidus + (Ir); _Solidus: Cu 0.051, Ir 0.949; (Ir): Cu 0.051, Ir 0.949_ | experimental | [1] Chakrabarti 1987; _cites ref. 69Rau_ | Table 1, p. 2, row 4; `ORC-Q5OFOI4XUS` |  |
+| Phase composition |  | 1873.15 | Liquidus + Solidus + L + (Ir); _Liquidus: Cu 0.827, Ir 0.173; Solidus: Cu 0.057, Ir 0.943; L: Cu 0.827, Ir 0.173; (Ir): Cu 0.057, Ir 0.943_ | model | [1] Chakrabarti 1987 | Table 1, p. 2, row 15; `ORC-P45PTYU3UA` |  |
+| Phase composition |  | 1873.15 | Solidus + (Ir); _Solidus: Cu 0.073, Ir 0.927; (Ir): Cu 0.073, Ir 0.927_ | experimental | [1] Chakrabarti 1987; _cites ref. 69Rau_ | Table 1, p. 2, row 3; `ORC-NB7BELGORK` |  |
+| Phase composition |  | 2073.15 | Liquidus + Solidus + L + (Ir); _Liquidus: Cu 0.678, Ir 0.322; Solidus: Cu 0.063, Ir 0.937; L: Cu 0.678, Ir 0.322; (Ir): Cu 0.063, Ir 0.937_ | model | [1] Chakrabarti 1987 | Table 1, p. 2, row 14; `ORC-OMCFLHGZMD` |  |
+| Phase composition |  | 2273.15 | Liquidus + Solidus + L + (Ir); _Liquidus: Cu 0.39, Ir 0.61; Solidus: Cu 0.057, Ir 0.943; L: Cu 0.39, Ir 0.61; (Ir): Cu 0.057, Ir 0.943_ | model | [1] Chakrabarti 1987 | Table 1, p. 2, row 13; `ORC-WKPTUPCXD5` |  |
+| Phase composition |  | 2473.15 | Liquidus + Solidus + L + (Ir); _Liquidus: Cu 0.171, Ir 0.829; Solidus: Cu 0.037, Ir 0.963; L: Cu 0.171, Ir 0.829; (Ir): Cu 0.037, Ir 0.963_ | model | [1] Chakrabarti 1987 | Table 1, p. 2, row 12; `ORC-NDNKH35CV3` |  |
+| Phase composition |  | 2673.15 | Liquidus + Solidus + L + (Ir); _Liquidus: Cu 0.028, Ir 0.972; Solidus: Cu 0.007, Ir 0.993; L: Cu 0.028, Ir 0.972; (Ir): Cu 0.007, Ir 0.993_ | model | [1] Chakrabarti 1987 | Table 1, p. 2, row 11; `ORC-ZMRVSRET6N` |  |
+| Phase composition |  | 2720.15 | Liquidus + Solidus + L + (Ir); _Liquidus: Cu 0, Ir 1; Solidus: Cu 0, Ir 1; L: Cu 0, Ir 1; (Ir): Cu 0, Ir 1_ | unspecified | [1] Chakrabarti 1987 | Table 1, p. 2, row 1; `ORC-DHCC2ZAHFH` |  |
 
 ### Activity / EMF / Gibbs energy (1)
 
@@ -83,7 +83,7 @@ Table: Activity / EMF / Gibbs energy, Cu–Ir system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Gibbs energy; _printed: G (L)_ | -0.59 kJ/mol | 1273.15 |  | model | [1] Chakrabarti 1987 | p. 4 | “The corresponding integral molar Gibbs energy G (L) (based on pure liquid Cu and pure liquid Ir as standard states), estimated at 1000 ~ is -0.59 kJ/mol.” |
+| Gibbs energy; _printed: G (L)_ | -0.59 kJ/mol | 1273.15 |  | model | [1] Chakrabarti 1987 | p. 4; `ORC-D7L4OHIBUO` | “The corresponding integral molar Gibbs energy G (L) (based on pure liquid Cu and pure liquid Ir as standard states), estimated at 1000 ~ is -0.59 kJ/mol.” |
 
 ### Crystal structure (8)
 
@@ -91,14 +91,14 @@ Table: Crystal structure, Cu–Ir system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 3.836 Å | 1073.15 | (Ir); _alloy: Cu 0.6, Ir 0.4_ | unspecified | [1] Chakrabarti 1987; _cites ref. 69Rau_ | Table 3, p. 3, row 7 |  |
-| Lattice a | 3.623 Å | 1133.15 | (Cu); _alloy: Cu 0.97, Ir 0.03_ | unspecified | [1] Chakrabarti 1987; _cites ref. 69Rau_ | Table 3, p. 3, row 3 |  |
-| Lattice a | 3.625 Å | 1133.15 | (Cu); _alloy: Cu 0.96, Ir 0.04_ | unspecified | [1] Chakrabarti 1987; _cites ref. 69Rau_ | Table 3, p. 3, row 4 |  |
-| Lattice a | 3.629 Å | 1133.15 | (Cu); _alloy: Cu 0.95, Ir 0.05_ | unspecified | [1] Chakrabarti 1987; _cites ref. 69Rau_ | Table 3, p. 3, row 5 |  |
-| Lattice a | 3.621 Å | 1133.15 | (Cu); _alloy: Cu 0.98, Ir 0.02_ | unspecified | [1] Chakrabarti 1987; _cites ref. 69Rau_ | Table 3, p. 3, row 2 |  |
-| Lattice a | 3.832 Å | 1473.15 | (Ir); _alloy: Cu 0.4, Ir 0.6_ | unspecified | [1] Chakrabarti 1987; _cites ref. 69Rau_ | Table 3, p. 3, row 8 |  |
-| Lattice a | 3.828 Å | 1673.15 | (Ir); _alloy: Cu 0.4, Ir 0.6_ | unspecified | [1] Chakrabarti 1987; _cites ref. 69Rau_ | Table 3, p. 3, row 9 |  |
-| Lattice a | 3.823 Å | 1873.15 | (Ir); _alloy: Cu 0.4, Ir 0.6_ | unspecified | [1] Chakrabarti 1987; _cites ref. 69Rau_ | Table 3, p. 3, row 10 |  |
+| Lattice a | 3.836 Å | 1073.15 | (Ir); _alloy: Cu 0.6, Ir 0.4_ | unspecified | [1] Chakrabarti 1987; _cites ref. 69Rau_ | Table 3, p. 3, row 7; `ORC-NIPMWOLYZL` |  |
+| Lattice a | 3.623 Å | 1133.15 | (Cu); _alloy: Cu 0.97, Ir 0.03_ | unspecified | [1] Chakrabarti 1987; _cites ref. 69Rau_ | Table 3, p. 3, row 3; `ORC-DSPUPU2MKL` |  |
+| Lattice a | 3.625 Å | 1133.15 | (Cu); _alloy: Cu 0.96, Ir 0.04_ | unspecified | [1] Chakrabarti 1987; _cites ref. 69Rau_ | Table 3, p. 3, row 4; `ORC-HZCX7NTWJW` |  |
+| Lattice a | 3.629 Å | 1133.15 | (Cu); _alloy: Cu 0.95, Ir 0.05_ | unspecified | [1] Chakrabarti 1987; _cites ref. 69Rau_ | Table 3, p. 3, row 5; `ORC-JQB4AARVXP` |  |
+| Lattice a | 3.621 Å | 1133.15 | (Cu); _alloy: Cu 0.98, Ir 0.02_ | unspecified | [1] Chakrabarti 1987; _cites ref. 69Rau_ | Table 3, p. 3, row 2; `ORC-VEDWTCD66G` |  |
+| Lattice a | 3.832 Å | 1473.15 | (Ir); _alloy: Cu 0.4, Ir 0.6_ | unspecified | [1] Chakrabarti 1987; _cites ref. 69Rau_ | Table 3, p. 3, row 8; `ORC-MVRDNDZNXN` |  |
+| Lattice a | 3.828 Å | 1673.15 | (Ir); _alloy: Cu 0.4, Ir 0.6_ | unspecified | [1] Chakrabarti 1987; _cites ref. 69Rau_ | Table 3, p. 3, row 9; `ORC-SCFDWEJTWO` |  |
+| Lattice a | 3.823 Å | 1873.15 | (Ir); _alloy: Cu 0.4, Ir 0.6_ | unspecified | [1] Chakrabarti 1987; _cites ref. 69Rau_ | Table 3, p. 3, row 10; `ORC-CE2KKKHIOL` |  |
 
 ## Sources
 
@@ -163,4 +163,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

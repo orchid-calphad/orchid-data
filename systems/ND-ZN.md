@@ -143,93 +143,93 @@ Table: Invariant reactions reported in the literature for the Nd–Zn system (87
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1255 | congruent melting: L -> Nd2Zn17 | L: Zn 0.895; Nd2Zn17: Nd 0.105263, Zn 0.894737 | model | [1] Qi 2008 | Table 2, p. 3, row 21 |  |
-| 1254 | congruent melting: L -> Nd2Zn17 | L: Nd 0.105263, Zn 0.894737; Nd2Zn17: Nd 0.105263, Zn 0.894737 | experimental | [1] Qi 2008; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 2, p. 3, row 22 |  |
-| 1225 | L + Nd2Zn17 -> Nd3Zn22 | L: Zn 0.853; Nd2Zn17: Nd 0.105263, Zn 0.894737; Nd3Zn22: Nd 0.12, Zn 0.88 | model | [2] Qi 2011 | Table 3, p. 5, row 2 |  |
-| 1224 | peritectic: L + Nd2Zn17 -> Nd3Zn22 | L: Zn 0.853; Nd2Zn17: Nd 0.105263, Zn 0.894737; Nd3Zn22: Nd 0.12, Zn 0.88 | model | [1] Qi 2008 | Table 2, p. 3, row 19 |  |
-| 1223.15 | peritectic: L + Nd2Zn17 -> Nd3Zn22 | L: Zn 0.85; Nd2Zn17: Zn 0.895; Nd3Zn22: Zn 0.88 | model | [3] Liu 2009 | Table 7, p. 6, row 12 |  |
-| 1223.15 | peritectic: L + Nd2Zn17 -> Nd3Zn22 | Nd2Zn17: Zn 0.895; Nd3Zn22: Zn 0.88 | experimental | [3] Liu 2009; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 7, p. 6, row 11 |  |
-| 1223 | peritectic: L + Nd2Zn17 -> Nd3Zn22 | Nd2Zn17: Nd 0.105263, Zn 0.894737; Nd3Zn22: Nd 0.12, Zn 0.88 | experimental | [1] Qi 2008; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 2, p. 3, row 20 |  |
-| 1223 | L + Nd2Zn17 -> Nd3Zn22 | Nd2Zn17: Nd 0.105263, Zn 0.894737; Nd3Zn22: Nd 0.12, Zn 0.88 | experimental | [2] Qi 2011; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 3, p. 5, row 1 |  |
-| 1223 | Liq. + Nd2Zn17 -> Nd3Zn22 | Liq.: Zn 0.867; Nd2Zn17: Zn 0.894737; Nd3Zn22: Zn 0.88 | experimental | [4] Li 2008; _cites Chiotti 1972_ [doi](https://doi.org/10.1007/bf02652860) | Table 1, p. 2, row 20 |  |
-| 1198 | congruent melting: L -> NdZn2 | L: Zn 0.667; NdZn2: Nd 0.333333, Zn 0.666667 | model | [1] Qi 2008 | Table 2, p. 3, row 9 |  |
-| 1198 | congruent melting: L -> NdZn2 | L: Nd 0.333333, Zn 0.666667; NdZn2: Nd 0.333333, Zn 0.666667 | experimental | [1] Qi 2008; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 2, p. 3, row 10 |  |
-| 1196 | congruent melting: L -> NdZn | L: Nd 0.5, Zn 0.5; NdZn: Nd 0.5, Zn 0.5 | experimental | [1] Qi 2008; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 2, p. 3, row 6 |  |
-| 1195 | congruent melting: L -> NdZn | L: Zn 0.5; NdZn: Nd 0.5, Zn 0.5 | model | [1] Qi 2008 | Table 2, p. 3, row 5 |  |
-| 1176.15 | peritectic: L + Nd3Zn22 -> Nd13Zn58 | L: Zn 0.814; Nd3Zn22: Zn 0.88; Nd13Zn58: Zn 0.817 | model | [3] Liu 2009 | Table 7, p. 6, row 10 |  |
-| 1175.15 | peritectic: L + Nd3Zn22 -> Nd13Zn58 | Nd3Zn22: Zn 0.88; Nd13Zn58: Zn 0.817 | experimental | [3] Liu 2009; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 7, p. 6, row 9 |  |
-| 1175 | L -> Nd13Zn58 + Nd3Zn22 | Nd13Zn58: Nd 0.183099, Zn 0.816901; Nd3Zn22: Nd 0.12, Zn 0.88 | experimental | [2] Qi 2011; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 3, p. 5, row 3 |  |
-| 1175 | Liq. + Nd3Zn22 -> Nd13Zn58 | Liq.: Zn 0.802; Nd3Zn22: Zn 0.88; Nd13Zn58: Zn 0.816901 | experimental | [4] Li 2008; _cites Chiotti 1972_ [doi](https://doi.org/10.1007/bf02652860) | Table 1, p. 2, row 18 |  |
-| 1175 | peritectic: L + Nd3Zn22 -> Nd13Zn58 | Nd3Zn22: Nd 0.12, Zn 0.88; Nd13Zn58: Nd 0.183099, Zn 0.816901 | experimental | [1] Qi 2008; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 2, p. 3, row 18 |  |
-| 1174 | L -> Nd13Zn58 + Nd3Zn22 | L: Zn 0.818; Nd13Zn58: Nd 0.183099, Zn 0.816901; Nd3Zn22: Nd 0.12, Zn 0.88 | model | [2] Qi 2011 | Table 3, p. 5, row 4 |  |
-| 1174 | peritectic: L + Nd3Zn22 -> Nd13Zn58 | L: Zn 0.818; Nd3Zn22: Nd 0.12, Zn 0.88; Nd13Zn58: Nd 0.183099, Zn 0.816901 | model | [1] Qi 2008 | Table 2, p. 3, row 17 |  |
-| 1174 | Liq. + Nd3Zn22 -> Nd13Zn58 | Liq.: Zn 0.802; Nd3Zn22: Zn 0.88; Nd13Zn58: Zn 0.816901 | model | [4] Li 2008 | Table 1, p. 2, row 17 |  |
-| 1143.15 | peritectic: L + Nd13Zn58 -> Nd3Zn11 | Nd13Zn58: Zn 0.817; Nd3Zn11: Zn 0.786 | experimental | [3] Liu 2009; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 7, p. 6, row 7 |  |
-| 1143.15 | peritectic: L + Nd13Zn58 -> Nd3Zn11 | L: Zn 0.766; Nd13Zn58: Zn 0.817; Nd3Zn11: Zn 0.786 | model | [3] Liu 2009 | Table 7, p. 6, row 8 |  |
-| 1143 | L + Nd13Zn58 -> Nd3Zn11 | Nd13Zn58: Nd 0.183099, Zn 0.816901; Nd3Zn11: Nd 0.214286, Zn 0.785714 | experimental | [2] Qi 2011; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 3, p. 5, row 7 |  |
-| 1143 | Liq. + Nd13Zn58 -> Nd3Zn11 | Liq.: Zn 0.759; Nd13Zn58: Zn 0.816901; Nd3Zn11: Zn 0.785714 | experimental | [4] Li 2008; _cites Chiotti 1972_ [doi](https://doi.org/10.1007/bf02652860) | Table 1, p. 2, row 16 |  |
-| 1143 | Liq. -> NdZn + NdZn2 | Liq.: Zn 0.588; NdZn: Zn 0.5; NdZn2: Zn 0.666667 | model | [4] Li 2008 | Table 1, p. 2, row 7 |  |
-| 1143 | peritectic: L + Nd13Zn58 -> Nd3Zn11 | Nd13Zn58: Nd 0.183099, Zn 0.816901; Nd3Zn11: Nd 0.214286, Zn 0.785714 | experimental | [1] Qi 2008; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 2, p. 3, row 16 |  |
-| 1142 | Liq. + Nd13Zn58 -> Nd3Zn11 | Liq.: Zn 0.759; Nd13Zn58: Zn 0.816901; Nd3Zn11: Zn 0.785714 | model | [4] Li 2008 | Table 1, p. 2, row 15 |  |
-| 1142 | L -> NdZn(B2) + NdZn2 | L: Zn 0.582; NdZn2: Nd 0.333333, Zn 0.666667 | model | [2] Qi 2011 | Table 3, p. 5, row 6 |  |
-| 1141.15 | eutectic: L -> NdZn + NdZn2 | L: Zn 0.575; NdZn: Zn 0.5; NdZn2: Zn 0.667 | experimental | [3] Liu 2009; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 7, p. 6, row 3 |  |
-| 1141 | L + Nd13Zn58 -> Nd3Zn11 | L: Zn 0.769; Nd13Zn58: Nd 0.183099, Zn 0.816901; Nd3Zn11: Nd 0.214286, Zn 0.785714 | model | [2] Qi 2011 | Table 3, p. 5, row 8 |  |
-| 1141 | peritectic: L + Nd13Zn58 -> Nd3Zn11 | L: Zn 0.768; Nd13Zn58: Nd 0.183099, Zn 0.816901; Nd3Zn11: Nd 0.214286, Zn 0.785714 | model | [1] Qi 2008 | Table 2, p. 3, row 15 |  |
-| 1141 | eutectic: Liq. → NdZn + NdZn2 |  | experimental | [4] Li 2008; _cites Chiotti 1972_ [doi](https://doi.org/10.1007/bf02652860) | p. 2 | “The eutectic reaction, Liq. → NdZn + NdZn2 , occurs at 1141 K, 57.5 at.% Zn.” |
-| 1141 | eutectic: L -> NdZn + NdZn2 | L: Zn 0.575; NdZn: Nd 0.5, Zn 0.5; NdZn2: Nd 0.333333, Zn 0.666667 | experimental | [1] Qi 2008; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 2, p. 3, row 8 |  |
-| 1141 | eutectic: L -> NdZn + NdZn2 | L: Zn 0.581; NdZn: Nd 0.5, Zn 0.5; NdZn2: Nd 0.333333, Zn 0.666667 | model | [1] Qi 2008 | Table 2, p. 3, row 7 |  |
-| 1141 | L -> NdZn(B2) + NdZn2 | L: Zn 0.575; NdZn2: Nd 0.333333, Zn 0.666667 | experimental | [2] Qi 2011; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 3, p. 5, row 5 |  |
-| 1141 | Liq. -> NdZn + NdZn2 | Liq.: Zn 0.575; NdZn: Zn 0.5; NdZn2: Zn 0.666667 | experimental | [4] Li 2008; _cites Chiotti 1972_ [doi](https://doi.org/10.1007/bf02652860) | Table 1, p. 2, row 8 |  |
-| 1140.15 | eutectic: L -> NdZn + NdZn2 | L: Zn 0.585; NdZn: Zn 0.5; NdZn2: Zn 0.667 | model | [3] Liu 2009 | Table 7, p. 6, row 4 |  |
-| 1134 | Liq. -> NdZn2 + Nd3Zn11 | Liq.: Zn 0.746; NdZn2: Zn 0.666667; Nd3Zn11: Zn 0.785714 | model | [4] Li 2008 | Table 1, p. 2, row 11 |  |
-| 1128.15 | eutectic: L -> NdZn2 + Nd3Zn11 | L: Zn 0.745; NdZn2: Zn 0.667; Nd3Zn11: Zn 0.786 | model | [3] Liu 2009 | Table 7, p. 6, row 6 |  |
-| 1128 | L -> NdZn2 + Nd3Zn11 | L: Zn 0.748; NdZn2: Nd 0.333333, Zn 0.666667; Nd3Zn11: Nd 0.214286, Zn 0.785714 | model | [2] Qi 2011 | Table 3, p. 5, row 10 |  |
-| 1127.15 | eutectic: L -> NdZn2 + Nd3Zn11 | L: Zn 0.737; NdZn2: Zn 0.667; Nd3Zn11: Zn 0.786 | experimental | [3] Liu 2009; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 7, p. 6, row 5 |  |
-| 1127 | Liq. + Nd2Zn17 -> Nd3Zn22 | Liq.: Zn 0.851; Nd2Zn17: Zn 0.894737; Nd3Zn22: Zn 0.88 | model | [4] Li 2008 | Table 1, p. 2, row 19 |  |
-| 1127 | eutectic: L -> NdZn2 + Nd3Zn11 | L: Zn 0.748; NdZn2: Nd 0.333333, Zn 0.666667; Nd3Zn11: Nd 0.214286, Zn 0.785714 | model | [1] Qi 2008 | Table 2, p. 3, row 11 |  |
-| 1127 | Liq. -> NdZn2 + Nd3Zn11 | Liq.: Zn 0.737; NdZn2: Zn 0.666667; Nd3Zn11: Zn 0.785714 | experimental | [4] Li 2008; _cites Chiotti 1972_ [doi](https://doi.org/10.1007/bf02652860) | Table 1, p. 2, row 12 |  |
-| 1127 | eutectic: Liq. → NdZn2 + Nd3 Zn11 |  | experimental | [4] Li 2008 | p. 2 | “The eutectic reaction, Liq. → NdZn2 + Nd3 Zn11 , occurs at 1127 K, 73.7 at.% Zn.” |
-| 1127 | eutectic: L -> NdZn2 + Nd3Zn11 | L: Zn 0.737; NdZn2: Nd 0.333333, Zn 0.666667; Nd3Zn11: Nd 0.214286, Zn 0.785714 | experimental | [1] Qi 2008; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 2, p. 3, row 12 |  |
-| 1127 | L -> NdZn2 + Nd3Zn11 | L: Zn 0.737; NdZn2: Nd 0.333333, Zn 0.666667; Nd3Zn11: Nd 0.214286, Zn 0.785714 | experimental | [2] Qi 2011; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 3, p. 5, row 9 |  |
-| 1122.15 | eutectoid: NdZn3 -> NdZn2 + Nd3Zn11 | NdZn3: Zn 0.75; NdZn2: Zn 0.667; Nd3Zn11: Zn 0.786 | experimental | [3] Liu 2009; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 7, p. 6, row 15 |  |
-| 1122 | NdZn2 + Nd3Zn11 -> NdZn3 | NdZn2: Nd 0.333333, Zn 0.666667; Nd3Zn11: Nd 0.214286, Zn 0.785714; NdZn3: Nd 0.25, Zn 0.75 | experimental | [2] Qi 2011; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 3, p. 5, row 11 |  |
-| 1122 | NdZn2 + Nd3Zn11 -> NdZn3 | NdZn2: Zn 0.666667; Nd3Zn11: Zn 0.785714; NdZn3: Zn 0.75 | model | [4] Li 2008 | Table 1, p. 2, row 13 |  |
-| 1122 | peritectoid: NdZn2 + Nd3Zn11 -> NdZn3 | NdZn2: Nd 0.333333, Zn 0.666667; Nd3Zn11: Nd 0.214286, Zn 0.785714; NdZn3: Nd 0.25, Zn 0.75 | model | [1] Qi 2008 | Table 2, p. 3, row 13 |  |
-| 1122 | NdZn2 + Nd3Zn11 -> NdZn3 | NdZn2: Nd 0.333333, Zn 0.666667; Nd3Zn11: Nd 0.214286, Zn 0.785714; NdZn3: Nd 0.25, Zn 0.75 | model | [2] Qi 2011 | Table 3, p. 5, row 12 |  |
-| 1122 | NdZn2 + Nd3Zn11 -> NdZn3 | NdZn2: Zn 0.666667; Nd3Zn11: Zn 0.785714; NdZn3: Zn 0.75 | experimental | [4] Li 2008; _cites Chiotti 1972_ [doi](https://doi.org/10.1007/bf02652860) | Table 1, p. 2, row 14 |  |
-| 1122 | peritectoid: NdZn2 + Nd3Zn11 -> NdZn3 | NdZn2: Nd 0.333333, Zn 0.666667; Nd3Zn11: Nd 0.214286, Zn 0.785714; NdZn3: Nd 0.25, Zn 0.75 | experimental | [1] Qi 2008; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 2, p. 3, row 14 |  |
-| 1116.15 | eutectoid: NdZn3 -> NdZn2 + Nd3Zn11 | NdZn3: Zn 0.75; NdZn2: Zn 0.667; Nd3Zn11: Zn 0.786 | model | [3] Liu 2009 | Table 7, p. 6, row 16 |  |
-| 1057 | L + Nd2Zn17 -> NdZn11_H | L: Zn 0.98; Nd2Zn17: Nd 0.105263, Zn 0.894737; NdZn11_H: Nd 0.083333, Zn 0.916667 | model | [2] Qi 2011 | Table 3, p. 5, row 14 |  |
-| 1055 | Liq. + Nd2Zn17 -> NdZn11 | Liq.: Zn 0.99; Nd2Zn17: Zn 0.894737; NdZn11: Zn 0.916667 | model | [4] Li 2008 | Table 1, p. 2, row 23 |  |
-| 1053 | peritectic: L + Nd2Zn17 -> NdZn11 -H | Nd2Zn17: Nd 0.105263, Zn 0.894737; NdZn11 -H: Nd 0.083333, Zn 0.916667 | experimental | [1] Qi 2008; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 2, p. 3, row 24 |  |
-| 1053 | L + Nd2Zn17 -> NdZn11_H | Nd2Zn17: Nd 0.105263, Zn 0.894737; NdZn11_H: Nd 0.083333, Zn 0.916667 | experimental | [2] Qi 2011; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 3, p. 5, row 13 |  |
-| 1052 | peritectic: L + Nd2Zn17 -> NdZn11 -H | L: Zn 0.98; Nd2Zn17: Nd 0.105263, Zn 0.894737; NdZn11 -H: Nd 0.083333, Zn 0.916667 | model | [1] Qi 2008 | Table 2, p. 3, row 23 |  |
-| 1037.15 | peritectic: L + Nd2Zn17 -> NdZn11 | L: Zn 0.985; Nd2Zn17: Zn 0.895; NdZn11: Zn 0.917 | model | [3] Liu 2009 | Table 7, p. 6, row 13 |  |
-| 1003 (>) | Liq. + Nd2Zn17 -> NdZn11 | Nd2Zn17: Zn 0.894737; NdZn11: Zn 0.916667 | experimental | [4] Li 2008; _cites Chiotti 1972_ [doi](https://doi.org/10.1007/bf02652860) | Table 1, p. 2, row 24 |  |
-| 903.2 | eutectic: L -> bcc + NdZn | L: Zn 0.2226; NdZn: Nd 0.5, Zn 0.5 | model | [1] Qi 2008 | Table 2, p. 3, row 1 |  |
-| 903.15 | eutectic: L -> bcc_A2 + NdZn | L: Zn 0.231; NdZn: Zn 0.5 | experimental | [3] Liu 2009; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 7, p. 6, row 1 |  |
-| 903 | eutectic: Liq. → ␤-Nd(bcc) + NdZn |  | experimental | [4] Li 2008; _cites Chiotti 1972_ [doi](https://doi.org/10.1007/bf02652860) | p. 2 | “The eutectic reaction, Liq. → ␤-Nd(bcc) + NdZn, occurs at 903 K, 23.1 at.% Zn.” |
-| 903 | eutectic: L -> bcc + NdZn | L: Zn 0.23; NdZn: Nd 0.5, Zn 0.5 | experimental | [1] Qi 2008; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 2, p. 3, row 2 |  |
-| 903 | Liq. -> β-Nd(bcc) + NdZn | Liq.: Zn 0.231; NdZn: Zn 0.5 | experimental | [4] Li 2008; _cites Chiotti 1972_ [doi](https://doi.org/10.1007/bf02652860) | Table 1, p. 2, row 4 |  |
-| 903 | L -> NdZn(B2) + BCC-A2 | L: Zn 0.23 | experimental | [2] Qi 2011; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 3, p. 5, row 15 |  |
-| 902.15 | eutectic: L -> bcc_A2 + NdZn | L: Zn 0.23; bcc_A2: Zn 0.1; NdZn: Zn 0.5 | model | [3] Liu 2009 | Table 7, p. 6, row 2 |  |
-| 902 | L -> NdZn(B2) + BCC-A2 | L: Zn 0.223 | model | [2] Qi 2011 | Table 3, p. 5, row 16 |  |
-| 901.5 | Liq. -> β-Nd(bcc) + NdZn | Liq.: Zn 0.235; NdZn: Zn 0.5 | model | [4] Li 2008 | Table 1, p. 2, row 3 |  |
-| 895.5 | β-Nd(bcc) -> α-Nd(dhcp) + NdZn | β-Nd(bcc): Zn 0.086; α-Nd(dhcp): Zn 0; NdZn: Zn 0.5 | model | [4] Li 2008 | Table 1, p. 2, row 1 |  |
-| 895.15 | eutectoid: dhcp + NdZn -> bcc_A2 | NdZn: Zn 0.5; bcc_A2: Zn 0.084 | experimental | [3] Liu 2009; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 7, p. 6, row 17 |  |
-| 895 | BCC_A2 -> NdZn(B2) + DHCP |  | experimental | [2] Qi 2011; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 3, p. 5, row 17 |  |
-| 895 | β-Nd(bcc) -> α-Nd(dhcp) + NdZn | β-Nd(bcc): Zn 0.084; α-Nd(dhcp): Zn 0; NdZn: Zn 0.5 | experimental | [4] Li 2008; _cites Chiotti 1972_ [doi](https://doi.org/10.1007/bf02652860) | Table 1, p. 2, row 2 |  |
-| 895 | eutectoid: bcc -> dhcp + NdZn | NdZn: Nd 0.5, Zn 0.5 | experimental | [1] Qi 2008; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 2, p. 3, row 4 |  |
-| 893.5 | eutectoid: bcc -> dhcp + NdZn | NdZn: Nd 0.5, Zn 0.5 | model | [1] Qi 2008 | Table 2, p. 3, row 3 |  |
-| 893 | BCC_A2 -> NdZn(B2) + DHCP |  | model | [2] Qi 2011 | Table 3, p. 5, row 18 |  |
-| 892.15 | eutectoid: dhcp + NdZn -> bcc_A2 | dhcp: Zn 0.004; NdZn: Zn 0.5; bcc_A2: Zn 0.096 | model | [3] Liu 2009 | Table 7, p. 6, row 18 |  |
-| 815 | polymorphic: NdZn11 -H -> NdZn11 -L | NdZn11 -H: Nd 0.083333, Zn 0.916667; NdZn11 -L: Nd 0.083333, Zn 0.916667; L: Zn 0.9167 | model | [1] Qi 2008 | Table 2, p. 3, row 25 |  |
-| 813 | polymorphic: NdZn11 -H -> NdZn11 -L | NdZn11 -H: Nd 0.083333, Zn 0.916667; NdZn11 -L: Nd 0.083333, Zn 0.916667 | experimental | [1] Qi 2008; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 2, p. 3, row 26 |  |
-| 798 | eutectic |  | experimental | [2] Qi 2011; _cites Drits 1971_ | p. 3 | “Drits et al. \[30\] showed that there is a pseudo-binary eutectic reaction on the vertical section from the Mg solid solution to the 3 compound. It occurs at 798 K and the eutectic point is at 31 wt.% Nd, 10 wt.% Zn.” |
-| 693 | peritectic: L + NdZn11 -L -> hcp(Zn) | L: Zn 1; NdZn11 -L: Nd 0.083333, Zn 0.916667 | experimental | [1] Qi 2008; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 2, p. 3, row 28 |  |
-| 693 | L + NdZn11-L -> HCP_Zn | L: Zn 0.01; NdZn11-L: Nd 0.083333, Zn 0.916667 | experimental | [2] Qi 2011; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 3, p. 5, row 19 |  |
-| 693 | L + NdZn11-L -> HCP_Zn | L: Zn 0.999; NdZn11-L: Nd 0.083333, Zn 0.916667 | model | [2] Qi 2011 | Table 3, p. 5, row 20 |  |
-| 692.7 | peritectic: L + NdZn11 -L -> hcp(Zn) | L: Zn 0.9999; NdZn11 -L: Nd 0.083333, Zn 0.916667 | model | [1] Qi 2008 | Table 2, p. 3, row 27 |  |
+| 1255 | congruent melting: L -> Nd2Zn17 | L: Zn 0.895; Nd2Zn17: Nd 0.105263, Zn 0.894737 | model | [1] Qi 2008 | Table 2, p. 3, row 21; `ORC-WO2K7TP343` |  |
+| 1254 | congruent melting: L -> Nd2Zn17 | L: Nd 0.105263, Zn 0.894737; Nd2Zn17: Nd 0.105263, Zn 0.894737 | experimental | [1] Qi 2008; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 2, p. 3, row 22; `ORC-CO4KVWHIXL` |  |
+| 1225 | L + Nd2Zn17 -> Nd3Zn22 | L: Zn 0.853; Nd2Zn17: Nd 0.105263, Zn 0.894737; Nd3Zn22: Nd 0.12, Zn 0.88 | model | [2] Qi 2011 | Table 3, p. 5, row 2; `ORC-BDIBM3V6UY` |  |
+| 1224 | peritectic: L + Nd2Zn17 -> Nd3Zn22 | L: Zn 0.853; Nd2Zn17: Nd 0.105263, Zn 0.894737; Nd3Zn22: Nd 0.12, Zn 0.88 | model | [1] Qi 2008 | Table 2, p. 3, row 19; `ORC-H5J3GOBCNA` |  |
+| 1223.15 | peritectic: L + Nd2Zn17 -> Nd3Zn22 | L: Zn 0.85; Nd2Zn17: Zn 0.895; Nd3Zn22: Zn 0.88 | model | [3] Liu 2009 | Table 7, p. 6, row 12; `ORC-QVVXHEIYRD` |  |
+| 1223.15 | peritectic: L + Nd2Zn17 -> Nd3Zn22 | Nd2Zn17: Zn 0.895; Nd3Zn22: Zn 0.88 | experimental | [3] Liu 2009; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 7, p. 6, row 11; `ORC-Z74IRGIH2C` |  |
+| 1223 | peritectic: L + Nd2Zn17 -> Nd3Zn22 | Nd2Zn17: Nd 0.105263, Zn 0.894737; Nd3Zn22: Nd 0.12, Zn 0.88 | experimental | [1] Qi 2008; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 2, p. 3, row 20; `ORC-2X76UB4MIC` |  |
+| 1223 | L + Nd2Zn17 -> Nd3Zn22 | Nd2Zn17: Nd 0.105263, Zn 0.894737; Nd3Zn22: Nd 0.12, Zn 0.88 | experimental | [2] Qi 2011; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 3, p. 5, row 1; `ORC-FXEUD2YHFN` |  |
+| 1223 | Liq. + Nd2Zn17 -> Nd3Zn22 | Liq.: Zn 0.867; Nd2Zn17: Zn 0.894737; Nd3Zn22: Zn 0.88 | experimental | [4] Li 2008; _cites Chiotti 1972_ [doi](https://doi.org/10.1007/bf02652860) | Table 1, p. 2, row 20; `ORC-X5J65EMZ23` |  |
+| 1198 | congruent melting: L -> NdZn2 | L: Zn 0.667; NdZn2: Nd 0.333333, Zn 0.666667 | model | [1] Qi 2008 | Table 2, p. 3, row 9; `ORC-J3UXKKXACI` |  |
+| 1198 | congruent melting: L -> NdZn2 | L: Nd 0.333333, Zn 0.666667; NdZn2: Nd 0.333333, Zn 0.666667 | experimental | [1] Qi 2008; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 2, p. 3, row 10; `ORC-OTBFQQ6KPK` |  |
+| 1196 | congruent melting: L -> NdZn | L: Nd 0.5, Zn 0.5; NdZn: Nd 0.5, Zn 0.5 | experimental | [1] Qi 2008; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 2, p. 3, row 6; `ORC-ZNS4HCYR53` |  |
+| 1195 | congruent melting: L -> NdZn | L: Zn 0.5; NdZn: Nd 0.5, Zn 0.5 | model | [1] Qi 2008 | Table 2, p. 3, row 5; `ORC-VIAUFP3CUK` |  |
+| 1176.15 | peritectic: L + Nd3Zn22 -> Nd13Zn58 | L: Zn 0.814; Nd3Zn22: Zn 0.88; Nd13Zn58: Zn 0.817 | model | [3] Liu 2009 | Table 7, p. 6, row 10; `ORC-6SUJIXEXEI` |  |
+| 1175.15 | peritectic: L + Nd3Zn22 -> Nd13Zn58 | Nd3Zn22: Zn 0.88; Nd13Zn58: Zn 0.817 | experimental | [3] Liu 2009; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 7, p. 6, row 9; `ORC-3U2CAD5NBX` |  |
+| 1175 | L -> Nd13Zn58 + Nd3Zn22 | Nd13Zn58: Nd 0.183099, Zn 0.816901; Nd3Zn22: Nd 0.12, Zn 0.88 | experimental | [2] Qi 2011; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 3, p. 5, row 3; `ORC-4FEEAI4KSW` |  |
+| 1175 | Liq. + Nd3Zn22 -> Nd13Zn58 | Liq.: Zn 0.802; Nd3Zn22: Zn 0.88; Nd13Zn58: Zn 0.816901 | experimental | [4] Li 2008; _cites Chiotti 1972_ [doi](https://doi.org/10.1007/bf02652860) | Table 1, p. 2, row 18; `ORC-LG2BNXB4YE` |  |
+| 1175 | peritectic: L + Nd3Zn22 -> Nd13Zn58 | Nd3Zn22: Nd 0.12, Zn 0.88; Nd13Zn58: Nd 0.183099, Zn 0.816901 | experimental | [1] Qi 2008; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 2, p. 3, row 18; `ORC-W6BH4FZULU` |  |
+| 1174 | L -> Nd13Zn58 + Nd3Zn22 | L: Zn 0.818; Nd13Zn58: Nd 0.183099, Zn 0.816901; Nd3Zn22: Nd 0.12, Zn 0.88 | model | [2] Qi 2011 | Table 3, p. 5, row 4; `ORC-2F2BDHMP3U` |  |
+| 1174 | peritectic: L + Nd3Zn22 -> Nd13Zn58 | L: Zn 0.818; Nd3Zn22: Nd 0.12, Zn 0.88; Nd13Zn58: Nd 0.183099, Zn 0.816901 | model | [1] Qi 2008 | Table 2, p. 3, row 17; `ORC-5ED4IHZV3Z` |  |
+| 1174 | Liq. + Nd3Zn22 -> Nd13Zn58 | Liq.: Zn 0.802; Nd3Zn22: Zn 0.88; Nd13Zn58: Zn 0.816901 | model | [4] Li 2008 | Table 1, p. 2, row 17; `ORC-QQLJMOGLPX` |  |
+| 1143.15 | peritectic: L + Nd13Zn58 -> Nd3Zn11 | Nd13Zn58: Zn 0.817; Nd3Zn11: Zn 0.786 | experimental | [3] Liu 2009; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 7, p. 6, row 7; `ORC-EX4MIBHQKW` |  |
+| 1143.15 | peritectic: L + Nd13Zn58 -> Nd3Zn11 | L: Zn 0.766; Nd13Zn58: Zn 0.817; Nd3Zn11: Zn 0.786 | model | [3] Liu 2009 | Table 7, p. 6, row 8; `ORC-SW5T6KHUVA` |  |
+| 1143 | L + Nd13Zn58 -> Nd3Zn11 | Nd13Zn58: Nd 0.183099, Zn 0.816901; Nd3Zn11: Nd 0.214286, Zn 0.785714 | experimental | [2] Qi 2011; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 3, p. 5, row 7; `ORC-BUXGDQO5YZ` |  |
+| 1143 | Liq. + Nd13Zn58 -> Nd3Zn11 | Liq.: Zn 0.759; Nd13Zn58: Zn 0.816901; Nd3Zn11: Zn 0.785714 | experimental | [4] Li 2008; _cites Chiotti 1972_ [doi](https://doi.org/10.1007/bf02652860) | Table 1, p. 2, row 16; `ORC-KAEHGF7H4X` |  |
+| 1143 | Liq. -> NdZn + NdZn2 | Liq.: Zn 0.588; NdZn: Zn 0.5; NdZn2: Zn 0.666667 | model | [4] Li 2008 | Table 1, p. 2, row 7; `ORC-SLO2E6GH6U` |  |
+| 1143 | peritectic: L + Nd13Zn58 -> Nd3Zn11 | Nd13Zn58: Nd 0.183099, Zn 0.816901; Nd3Zn11: Nd 0.214286, Zn 0.785714 | experimental | [1] Qi 2008; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 2, p. 3, row 16; `ORC-VSMRRA2BYR` |  |
+| 1142 | Liq. + Nd13Zn58 -> Nd3Zn11 | Liq.: Zn 0.759; Nd13Zn58: Zn 0.816901; Nd3Zn11: Zn 0.785714 | model | [4] Li 2008 | Table 1, p. 2, row 15; `ORC-OMGLOE7LAS` |  |
+| 1142 | L -> NdZn(B2) + NdZn2 | L: Zn 0.582; NdZn2: Nd 0.333333, Zn 0.666667 | model | [2] Qi 2011 | Table 3, p. 5, row 6; `ORC-YBMN3VJCOJ` |  |
+| 1141.15 | eutectic: L -> NdZn + NdZn2 | L: Zn 0.575; NdZn: Zn 0.5; NdZn2: Zn 0.667 | experimental | [3] Liu 2009; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 7, p. 6, row 3; `ORC-MBC7DDTAUH` |  |
+| 1141 | L + Nd13Zn58 -> Nd3Zn11 | L: Zn 0.769; Nd13Zn58: Nd 0.183099, Zn 0.816901; Nd3Zn11: Nd 0.214286, Zn 0.785714 | model | [2] Qi 2011 | Table 3, p. 5, row 8; `ORC-E6CH4UQSVW` |  |
+| 1141 | peritectic: L + Nd13Zn58 -> Nd3Zn11 | L: Zn 0.768; Nd13Zn58: Nd 0.183099, Zn 0.816901; Nd3Zn11: Nd 0.214286, Zn 0.785714 | model | [1] Qi 2008 | Table 2, p. 3, row 15; `ORC-JP2MX47FKD` |  |
+| 1141 | eutectic: Liq. → NdZn + NdZn2 |  | experimental | [4] Li 2008; _cites Chiotti 1972_ [doi](https://doi.org/10.1007/bf02652860) | p. 2; `ORC-M5QNKPA4DA` | “The eutectic reaction, Liq. → NdZn + NdZn2 , occurs at 1141 K, 57.5 at.% Zn.” |
+| 1141 | eutectic: L -> NdZn + NdZn2 | L: Zn 0.575; NdZn: Nd 0.5, Zn 0.5; NdZn2: Nd 0.333333, Zn 0.666667 | experimental | [1] Qi 2008; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 2, p. 3, row 8; `ORC-MJFPZIVIQR` |  |
+| 1141 | eutectic: L -> NdZn + NdZn2 | L: Zn 0.581; NdZn: Nd 0.5, Zn 0.5; NdZn2: Nd 0.333333, Zn 0.666667 | model | [1] Qi 2008 | Table 2, p. 3, row 7; `ORC-NY6IRCD4YS` |  |
+| 1141 | L -> NdZn(B2) + NdZn2 | L: Zn 0.575; NdZn2: Nd 0.333333, Zn 0.666667 | experimental | [2] Qi 2011; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 3, p. 5, row 5; `ORC-OWWLCKAQ6W` |  |
+| 1141 | Liq. -> NdZn + NdZn2 | Liq.: Zn 0.575; NdZn: Zn 0.5; NdZn2: Zn 0.666667 | experimental | [4] Li 2008; _cites Chiotti 1972_ [doi](https://doi.org/10.1007/bf02652860) | Table 1, p. 2, row 8; `ORC-QPUADU4WWS` |  |
+| 1140.15 | eutectic: L -> NdZn + NdZn2 | L: Zn 0.585; NdZn: Zn 0.5; NdZn2: Zn 0.667 | model | [3] Liu 2009 | Table 7, p. 6, row 4; `ORC-AFUOICYXFB` |  |
+| 1134 | Liq. -> NdZn2 + Nd3Zn11 | Liq.: Zn 0.746; NdZn2: Zn 0.666667; Nd3Zn11: Zn 0.785714 | model | [4] Li 2008 | Table 1, p. 2, row 11; `ORC-6AT6QN47UD` |  |
+| 1128.15 | eutectic: L -> NdZn2 + Nd3Zn11 | L: Zn 0.745; NdZn2: Zn 0.667; Nd3Zn11: Zn 0.786 | model | [3] Liu 2009 | Table 7, p. 6, row 6; `ORC-YHDMI6UZIN` |  |
+| 1128 | L -> NdZn2 + Nd3Zn11 | L: Zn 0.748; NdZn2: Nd 0.333333, Zn 0.666667; Nd3Zn11: Nd 0.214286, Zn 0.785714 | model | [2] Qi 2011 | Table 3, p. 5, row 10; `ORC-AVRCQLPQM6` |  |
+| 1127.15 | eutectic: L -> NdZn2 + Nd3Zn11 | L: Zn 0.737; NdZn2: Zn 0.667; Nd3Zn11: Zn 0.786 | experimental | [3] Liu 2009; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 7, p. 6, row 5; `ORC-JGSQPYZUMJ` |  |
+| 1127 | Liq. + Nd2Zn17 -> Nd3Zn22 | Liq.: Zn 0.851; Nd2Zn17: Zn 0.894737; Nd3Zn22: Zn 0.88 | model | [4] Li 2008 | Table 1, p. 2, row 19; `ORC-GETF2UXR77` |  |
+| 1127 | eutectic: L -> NdZn2 + Nd3Zn11 | L: Zn 0.748; NdZn2: Nd 0.333333, Zn 0.666667; Nd3Zn11: Nd 0.214286, Zn 0.785714 | model | [1] Qi 2008 | Table 2, p. 3, row 11; `ORC-I2ALTPIWRY` |  |
+| 1127 | Liq. -> NdZn2 + Nd3Zn11 | Liq.: Zn 0.737; NdZn2: Zn 0.666667; Nd3Zn11: Zn 0.785714 | experimental | [4] Li 2008; _cites Chiotti 1972_ [doi](https://doi.org/10.1007/bf02652860) | Table 1, p. 2, row 12; `ORC-NTB4QZINFE` |  |
+| 1127 | eutectic: Liq. → NdZn2 + Nd3 Zn11 |  | experimental | [4] Li 2008 | p. 2; `ORC-SNJXBOHNHQ` | “The eutectic reaction, Liq. → NdZn2 + Nd3 Zn11 , occurs at 1127 K, 73.7 at.% Zn.” |
+| 1127 | eutectic: L -> NdZn2 + Nd3Zn11 | L: Zn 0.737; NdZn2: Nd 0.333333, Zn 0.666667; Nd3Zn11: Nd 0.214286, Zn 0.785714 | experimental | [1] Qi 2008; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 2, p. 3, row 12; `ORC-ZEYDBTUY3O` |  |
+| 1127 | L -> NdZn2 + Nd3Zn11 | L: Zn 0.737; NdZn2: Nd 0.333333, Zn 0.666667; Nd3Zn11: Nd 0.214286, Zn 0.785714 | experimental | [2] Qi 2011; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 3, p. 5, row 9; `ORC-ZQ5VMBAYE2` |  |
+| 1122.15 | eutectoid: NdZn3 -> NdZn2 + Nd3Zn11 | NdZn3: Zn 0.75; NdZn2: Zn 0.667; Nd3Zn11: Zn 0.786 | experimental | [3] Liu 2009; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 7, p. 6, row 15; `ORC-XQBZJX2MN5` |  |
+| 1122 | NdZn2 + Nd3Zn11 -> NdZn3 | NdZn2: Nd 0.333333, Zn 0.666667; Nd3Zn11: Nd 0.214286, Zn 0.785714; NdZn3: Nd 0.25, Zn 0.75 | experimental | [2] Qi 2011; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 3, p. 5, row 11; `ORC-74W52O34ZC` |  |
+| 1122 | NdZn2 + Nd3Zn11 -> NdZn3 | NdZn2: Zn 0.666667; Nd3Zn11: Zn 0.785714; NdZn3: Zn 0.75 | model | [4] Li 2008 | Table 1, p. 2, row 13; `ORC-BZJGREJAT3` |  |
+| 1122 | peritectoid: NdZn2 + Nd3Zn11 -> NdZn3 | NdZn2: Nd 0.333333, Zn 0.666667; Nd3Zn11: Nd 0.214286, Zn 0.785714; NdZn3: Nd 0.25, Zn 0.75 | model | [1] Qi 2008 | Table 2, p. 3, row 13; `ORC-HDNJCJEKV2` |  |
+| 1122 | NdZn2 + Nd3Zn11 -> NdZn3 | NdZn2: Nd 0.333333, Zn 0.666667; Nd3Zn11: Nd 0.214286, Zn 0.785714; NdZn3: Nd 0.25, Zn 0.75 | model | [2] Qi 2011 | Table 3, p. 5, row 12; `ORC-IYNLECNPR6` |  |
+| 1122 | NdZn2 + Nd3Zn11 -> NdZn3 | NdZn2: Zn 0.666667; Nd3Zn11: Zn 0.785714; NdZn3: Zn 0.75 | experimental | [4] Li 2008; _cites Chiotti 1972_ [doi](https://doi.org/10.1007/bf02652860) | Table 1, p. 2, row 14; `ORC-N4HIHTXAR3` |  |
+| 1122 | peritectoid: NdZn2 + Nd3Zn11 -> NdZn3 | NdZn2: Nd 0.333333, Zn 0.666667; Nd3Zn11: Nd 0.214286, Zn 0.785714; NdZn3: Nd 0.25, Zn 0.75 | experimental | [1] Qi 2008; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 2, p. 3, row 14; `ORC-WHURHGS24W` |  |
+| 1116.15 | eutectoid: NdZn3 -> NdZn2 + Nd3Zn11 | NdZn3: Zn 0.75; NdZn2: Zn 0.667; Nd3Zn11: Zn 0.786 | model | [3] Liu 2009 | Table 7, p. 6, row 16; `ORC-CT7R23W2XK` |  |
+| 1057 | L + Nd2Zn17 -> NdZn11_H | L: Zn 0.98; Nd2Zn17: Nd 0.105263, Zn 0.894737; NdZn11_H: Nd 0.083333, Zn 0.916667 | model | [2] Qi 2011 | Table 3, p. 5, row 14; `ORC-IP7B6S5T4G` |  |
+| 1055 | Liq. + Nd2Zn17 -> NdZn11 | Liq.: Zn 0.99; Nd2Zn17: Zn 0.894737; NdZn11: Zn 0.916667 | model | [4] Li 2008 | Table 1, p. 2, row 23; `ORC-4TI342JIYO` |  |
+| 1053 | peritectic: L + Nd2Zn17 -> NdZn11 -H | Nd2Zn17: Nd 0.105263, Zn 0.894737; NdZn11 -H: Nd 0.083333, Zn 0.916667 | experimental | [1] Qi 2008; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 2, p. 3, row 24; `ORC-3SW7WMZNBN` |  |
+| 1053 | L + Nd2Zn17 -> NdZn11_H | Nd2Zn17: Nd 0.105263, Zn 0.894737; NdZn11_H: Nd 0.083333, Zn 0.916667 | experimental | [2] Qi 2011; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 3, p. 5, row 13; `ORC-NZ6NYJ5SAX` |  |
+| 1052 | peritectic: L + Nd2Zn17 -> NdZn11 -H | L: Zn 0.98; Nd2Zn17: Nd 0.105263, Zn 0.894737; NdZn11 -H: Nd 0.083333, Zn 0.916667 | model | [1] Qi 2008 | Table 2, p. 3, row 23; `ORC-3X75A4TBLY` |  |
+| 1037.15 | peritectic: L + Nd2Zn17 -> NdZn11 | L: Zn 0.985; Nd2Zn17: Zn 0.895; NdZn11: Zn 0.917 | model | [3] Liu 2009 | Table 7, p. 6, row 13; `ORC-7IOA7R4MOM.263558` |  |
+| 1003 (>) | Liq. + Nd2Zn17 -> NdZn11 | Nd2Zn17: Zn 0.894737; NdZn11: Zn 0.916667 | experimental | [4] Li 2008; _cites Chiotti 1972_ [doi](https://doi.org/10.1007/bf02652860) | Table 1, p. 2, row 24; `ORC-X2W27SOURW` |  |
+| 903.2 | eutectic: L -> bcc + NdZn | L: Zn 0.2226; NdZn: Nd 0.5, Zn 0.5 | model | [1] Qi 2008 | Table 2, p. 3, row 1; `ORC-CW2ECZBXXL` |  |
+| 903.15 | eutectic: L -> bcc_A2 + NdZn | L: Zn 0.231; NdZn: Zn 0.5 | experimental | [3] Liu 2009; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 7, p. 6, row 1; `ORC-72ENHO2MXH` |  |
+| 903 | eutectic: Liq. → ␤-Nd(bcc) + NdZn |  | experimental | [4] Li 2008; _cites Chiotti 1972_ [doi](https://doi.org/10.1007/bf02652860) | p. 2; `ORC-A2ERNI3NGP` | “The eutectic reaction, Liq. → ␤-Nd(bcc) + NdZn, occurs at 903 K, 23.1 at.% Zn.” |
+| 903 | eutectic: L -> bcc + NdZn | L: Zn 0.23; NdZn: Nd 0.5, Zn 0.5 | experimental | [1] Qi 2008; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 2, p. 3, row 2; `ORC-FQA2FHLZ6F` |  |
+| 903 | Liq. -> β-Nd(bcc) + NdZn | Liq.: Zn 0.231; NdZn: Zn 0.5 | experimental | [4] Li 2008; _cites Chiotti 1972_ [doi](https://doi.org/10.1007/bf02652860) | Table 1, p. 2, row 4; `ORC-IKKZFSH7NA` |  |
+| 903 | L -> NdZn(B2) + BCC-A2 | L: Zn 0.23 | experimental | [2] Qi 2011; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 3, p. 5, row 15; `ORC-JHNRYRTPOY` |  |
+| 902.15 | eutectic: L -> bcc_A2 + NdZn | L: Zn 0.23; bcc_A2: Zn 0.1; NdZn: Zn 0.5 | model | [3] Liu 2009 | Table 7, p. 6, row 2; `ORC-H576YPOKVM` |  |
+| 902 | L -> NdZn(B2) + BCC-A2 | L: Zn 0.223 | model | [2] Qi 2011 | Table 3, p. 5, row 16; `ORC-PVOA6BKWVC` |  |
+| 901.5 | Liq. -> β-Nd(bcc) + NdZn | Liq.: Zn 0.235; NdZn: Zn 0.5 | model | [4] Li 2008 | Table 1, p. 2, row 3; `ORC-32Q3QZHZAF` |  |
+| 895.5 | β-Nd(bcc) -> α-Nd(dhcp) + NdZn | β-Nd(bcc): Zn 0.086; α-Nd(dhcp): Zn 0; NdZn: Zn 0.5 | model | [4] Li 2008 | Table 1, p. 2, row 1; `ORC-ORYW2JKT3D` |  |
+| 895.15 | eutectoid: dhcp + NdZn -> bcc_A2 | NdZn: Zn 0.5; bcc_A2: Zn 0.084 | experimental | [3] Liu 2009; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 7, p. 6, row 17; `ORC-5S4EP6ETX3` |  |
+| 895 | BCC_A2 -> NdZn(B2) + DHCP |  | experimental | [2] Qi 2011; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 3, p. 5, row 17; `ORC-H3WMXSDKMZ` |  |
+| 895 | β-Nd(bcc) -> α-Nd(dhcp) + NdZn | β-Nd(bcc): Zn 0.084; α-Nd(dhcp): Zn 0; NdZn: Zn 0.5 | experimental | [4] Li 2008; _cites Chiotti 1972_ [doi](https://doi.org/10.1007/bf02652860) | Table 1, p. 2, row 2; `ORC-ZT6Y4OLB62` |  |
+| 895 | eutectoid: bcc -> dhcp + NdZn | NdZn: Nd 0.5, Zn 0.5 | experimental | [1] Qi 2008; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 2, p. 3, row 4; `ORC-ZYKETIRH7T` |  |
+| 893.5 | eutectoid: bcc -> dhcp + NdZn | NdZn: Nd 0.5, Zn 0.5 | model | [1] Qi 2008 | Table 2, p. 3, row 3; `ORC-CPFNGXN5NO` |  |
+| 893 | BCC_A2 -> NdZn(B2) + DHCP |  | model | [2] Qi 2011 | Table 3, p. 5, row 18; `ORC-LODNLVUBZB` |  |
+| 892.15 | eutectoid: dhcp + NdZn -> bcc_A2 | dhcp: Zn 0.004; NdZn: Zn 0.5; bcc_A2: Zn 0.096 | model | [3] Liu 2009 | Table 7, p. 6, row 18; `ORC-UCXU2UMJVR` |  |
+| 815 | polymorphic: NdZn11 -H -> NdZn11 -L | NdZn11 -H: Nd 0.083333, Zn 0.916667; NdZn11 -L: Nd 0.083333, Zn 0.916667; L: Zn 0.9167 | model | [1] Qi 2008 | Table 2, p. 3, row 25; `ORC-XCXS7SMODF` |  |
+| 813 | polymorphic: NdZn11 -H -> NdZn11 -L | NdZn11 -H: Nd 0.083333, Zn 0.916667; NdZn11 -L: Nd 0.083333, Zn 0.916667 | experimental | [1] Qi 2008; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 2, p. 3, row 26; `ORC-C7SZSMZXAG` |  |
+| 798 | eutectic |  | experimental | [2] Qi 2011; _cites Drits 1971_ | p. 3; `ORC-W6HFQ6FZIV` | “Drits et al. \[30\] showed that there is a pseudo-binary eutectic reaction on the vertical section from the Mg solid solution to the 3 compound. It occurs at 798 K and the eutectic point is at 31 wt.% Nd, 10 wt.% Zn.” |
+| 693 | peritectic: L + NdZn11 -L -> hcp(Zn) | L: Zn 1; NdZn11 -L: Nd 0.083333, Zn 0.916667 | experimental | [1] Qi 2008; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 2, p. 3, row 28; `ORC-7WTV5G6IHS` |  |
+| 693 | L + NdZn11-L -> HCP_Zn | L: Zn 0.01; NdZn11-L: Nd 0.083333, Zn 0.916667 | experimental | [2] Qi 2011; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 3, p. 5, row 19; `ORC-DENO2AIUZK` |  |
+| 693 | L + NdZn11-L -> HCP_Zn | L: Zn 0.999; NdZn11-L: Nd 0.083333, Zn 0.916667 | model | [2] Qi 2011 | Table 3, p. 5, row 20; `ORC-NFVFLGNN47` |  |
+| 692.7 | peritectic: L + NdZn11 -L -> hcp(Zn) | L: Zn 0.9999; NdZn11 -L: Nd 0.083333, Zn 0.916667 | model | [1] Qi 2008 | Table 2, p. 3, row 27; `ORC-QCMWQU5TCA` |  |
 
 ## Other properties
 
@@ -239,27 +239,27 @@ Table: Phase transition, Nd–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 895 K | 895 | other: ␤-Nd(bcc) → ␣-Nd(dhcp) + NdZn | experimental | [4] Li 2008 | p. 2 | “The eutectoid reaction, ␤-Nd(bcc) → ␣-Nd(dhcp) + NdZn, occurs at 895 K, 8.4 at.% Zn.” |
-| Phase transition | 1055 K | 1055 | Liq. + Nd2 Zn17 → NdZn11 | model | [4] Li 2008 | p. 3 | “The calculated temperature of invariant reaction, Liq. + Nd2 Zn17 → NdZn11 , is 1055 K.” |
-| Phase transition | 1130.15 K | 1130.15 |  | model | [1] Qi 2008; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | p. 4 | “However, according to the SGTE database \[25\] the melting temperature of pure neodymium is 1016 ◦ C and the ␣ ↔ ␤ transformation temperature is 857 ◦ C.” |
-| Phase transition | 1135.15 K | 1135.15 |  | experimental | [1] Qi 2008; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | p. 4 | “The reported melting temperature of pure neodymium by Mason and Chitti \[20\] is 1021 ◦ C and the ␣ ↔ ␤ transformation temperature is 862 ◦ C.” |
-| Phase transition | 1194 K | 1194 | Liq. -> NdZn2; _Liq.: Zn 0.666667; NdZn2: Zn 0.666667_ | model | [4] Li 2008 | Table 1, p. 2, row 9 |  |
-| Phase transition | 1195 K | 1195 | Liq. -> NdZn; _Liq.: Zn 0.5; NdZn: Zn 0.5_ | model | [4] Li 2008 | Table 1, p. 2, row 5 |  |
-| Phase transition | 1196 K | 1196 | Liq. -> NdZn; _Liq.: Zn 0.5; NdZn: Zn 0.5_ | experimental | [4] Li 2008; _cites Chiotti 1972_ [doi](https://doi.org/10.1007/bf02652860) | Table 1, p. 2, row 6 |  |
-| Phase transition | 1196 K | 1196 | congruent transformation | experimental | [4] Li 2008; _cites Chiotti 1972_ [doi](https://doi.org/10.1007/bf02652860) | p. 2 | “In the diagram of Chiotti and Mason \[14\], NdZn, NdZn2 and Nd2 Zn17 melt congruently, respectively, at the temperature 1196, 1198 and 1254 K.” |
-| Phase transition | 1196.15 K | 1196.15 | congruent melting: L -> NdZn; _L: Zn 0.5; NdZn: Zn 0.5_ | experimental | [3] Liu 2009; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 7, p. 6, row 19 |  |
-| Phase transition | 1196.15 K | 1196.15 | congruent melting: L -> NdZn; _L: Zn 0.5; NdZn: Zn 0.5_ | model | [3] Liu 2009 | Table 7, p. 6, row 20 |  |
-| Phase transition | 1198 K | 1198 | Liq. -> NdZn2; _Liq.: Zn 0.666667; NdZn2: Zn 0.666667_ | experimental | [4] Li 2008; _cites Chiotti 1972_ [doi](https://doi.org/10.1007/bf02652860) | Table 1, p. 2, row 10 |  |
-| Phase transition | 1198 K | 1198 | congruent transformation | experimental | [4] Li 2008; _cites Chiotti 1972_ [doi](https://doi.org/10.1007/bf02652860) | p. 2 | “In the diagram of Chiotti and Mason \[14\], NdZn, NdZn2 and Nd2 Zn17 melt congruently, respectively, at the temperature 1196, 1198 and 1254 K.” |
-| Phase transition | 1199.15 K | 1199.15 | congruent melting: L -> NdZn2; _L: Zn 0.666667; NdZn2: Zn 0.666667_ | model | [3] Liu 2009 | Table 7, p. 6, row 22 |  |
-| Phase transition | 1199.15 K | 1199.15 | congruent melting: L -> NdZn2; _L: Zn 0.666667; NdZn2: Zn 0.666667_ | experimental | [3] Liu 2009; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 7, p. 6, row 21 |  |
-| Phase transition | 1250 K | 1250 | Liq. -> Nd2Zn17; _Liq.: Zn 0.894737; Nd2Zn17: Zn 0.894737_ | model | [4] Li 2008 | Table 1, p. 2, row 21 |  |
-| Phase transition | 1254 K | 1254 | Liq. -> Nd2Zn17; _Liq.: Zn 0.894737; Nd2Zn17: Zn 0.894737_ | experimental | [4] Li 2008; _cites Chiotti 1972_ [doi](https://doi.org/10.1007/bf02652860) | Table 1, p. 2, row 22 |  |
-| Phase transition | 1254 K | 1254 | congruent transformation | experimental | [4] Li 2008; _cites Chiotti 1972_ [doi](https://doi.org/10.1007/bf02652860) | p. 2 | “In the diagram of Chiotti and Mason \[14\], NdZn, NdZn2 and Nd2 Zn17 melt congruently, respectively, at the temperature 1196, 1198 and 1254 K.” |
-| Phase transition | 1254.15 K | 1254.15 | congruent melting: L -> Nd2Zn17; _L: Zn 0.894737; Nd2Zn17: Zn 0.894737_ | model | [3] Liu 2009 | Table 7, p. 6, row 24 |  |
-| Phase transition | 1254.15 K | 1254.15 | congruent melting: L -> Nd2Zn17; _L: Zn 0.894737; Nd2Zn17: Zn 0.894737_ | experimental | [3] Liu 2009; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 7, p. 6, row 23 |  |
-| Phase transition | 1289.15 K | 1289.15 |  | model | [1] Qi 2008; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | p. 4 | “However, according to the SGTE database \[25\] the melting temperature of pure neodymium is 1016 ◦ C and the ␣ ↔ ␤ transformation temperature is 857 ◦ C.” |
-| Phase transition | 1294.15 K | 1294.15 |  | experimental | [1] Qi 2008; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | p. 4 | “The reported melting temperature of pure neodymium by Mason and Chitti \[20\] is 1021 ◦ C and the ␣ ↔ ␤ transformation temperature is 862 ◦ C.” |
+| Phase transition | 895 K | 895 | other: ␤-Nd(bcc) → ␣-Nd(dhcp) + NdZn | experimental | [4] Li 2008 | p. 2; `ORC-6QM5FZ77IQ` | “The eutectoid reaction, ␤-Nd(bcc) → ␣-Nd(dhcp) + NdZn, occurs at 895 K, 8.4 at.% Zn.” |
+| Phase transition | 1055 K | 1055 | Liq. + Nd2 Zn17 → NdZn11 | model | [4] Li 2008 | p. 3; `ORC-EIVS6VD3WH` | “The calculated temperature of invariant reaction, Liq. + Nd2 Zn17 → NdZn11 , is 1055 K.” |
+| Phase transition | 1130.15 K | 1130.15 |  | model | [1] Qi 2008; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | p. 4; `ORC-4ZTABSVJEK.b13156` | “However, according to the SGTE database \[25\] the melting temperature of pure neodymium is 1016 ◦ C and the ␣ ↔ ␤ transformation temperature is 857 ◦ C.” |
+| Phase transition | 1135.15 K | 1135.15 |  | experimental | [1] Qi 2008; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | p. 4; `ORC-GFKEVKBEI6.1c48b0` | “The reported melting temperature of pure neodymium by Mason and Chitti \[20\] is 1021 ◦ C and the ␣ ↔ ␤ transformation temperature is 862 ◦ C.” |
+| Phase transition | 1194 K | 1194 | Liq. -> NdZn2; _Liq.: Zn 0.666667; NdZn2: Zn 0.666667_ | model | [4] Li 2008 | Table 1, p. 2, row 9; `ORC-S3Z7HGJUVB` |  |
+| Phase transition | 1195 K | 1195 | Liq. -> NdZn; _Liq.: Zn 0.5; NdZn: Zn 0.5_ | model | [4] Li 2008 | Table 1, p. 2, row 5; `ORC-L5KDTFR5LE` |  |
+| Phase transition | 1196 K | 1196 | Liq. -> NdZn; _Liq.: Zn 0.5; NdZn: Zn 0.5_ | experimental | [4] Li 2008; _cites Chiotti 1972_ [doi](https://doi.org/10.1007/bf02652860) | Table 1, p. 2, row 6; `ORC-GXBB22VEXJ` |  |
+| Phase transition | 1196 K | 1196 | congruent transformation | experimental | [4] Li 2008; _cites Chiotti 1972_ [doi](https://doi.org/10.1007/bf02652860) | p. 2; `ORC-EFDEAYK2ZC.ad838f` | “In the diagram of Chiotti and Mason \[14\], NdZn, NdZn2 and Nd2 Zn17 melt congruently, respectively, at the temperature 1196, 1198 and 1254 K.” |
+| Phase transition | 1196.15 K | 1196.15 | congruent melting: L -> NdZn; _L: Zn 0.5; NdZn: Zn 0.5_ | experimental | [3] Liu 2009; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 7, p. 6, row 19; `ORC-TZVHFNXORM` |  |
+| Phase transition | 1196.15 K | 1196.15 | congruent melting: L -> NdZn; _L: Zn 0.5; NdZn: Zn 0.5_ | model | [3] Liu 2009 | Table 7, p. 6, row 20; `ORC-ZBRNWRGCZP` |  |
+| Phase transition | 1198 K | 1198 | Liq. -> NdZn2; _Liq.: Zn 0.666667; NdZn2: Zn 0.666667_ | experimental | [4] Li 2008; _cites Chiotti 1972_ [doi](https://doi.org/10.1007/bf02652860) | Table 1, p. 2, row 10; `ORC-BRSMVMPLJT` |  |
+| Phase transition | 1198 K | 1198 | congruent transformation | experimental | [4] Li 2008; _cites Chiotti 1972_ [doi](https://doi.org/10.1007/bf02652860) | p. 2; `ORC-EFDEAYK2ZC.1dead4` | “In the diagram of Chiotti and Mason \[14\], NdZn, NdZn2 and Nd2 Zn17 melt congruently, respectively, at the temperature 1196, 1198 and 1254 K.” |
+| Phase transition | 1199.15 K | 1199.15 | congruent melting: L -> NdZn2; _L: Zn 0.666667; NdZn2: Zn 0.666667_ | model | [3] Liu 2009 | Table 7, p. 6, row 22; `ORC-BIIZQPPAVL` |  |
+| Phase transition | 1199.15 K | 1199.15 | congruent melting: L -> NdZn2; _L: Zn 0.666667; NdZn2: Zn 0.666667_ | experimental | [3] Liu 2009; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 7, p. 6, row 21; `ORC-YMUZMI26J2` |  |
+| Phase transition | 1250 K | 1250 | Liq. -> Nd2Zn17; _Liq.: Zn 0.894737; Nd2Zn17: Zn 0.894737_ | model | [4] Li 2008 | Table 1, p. 2, row 21; `ORC-SMIYMLY74L` |  |
+| Phase transition | 1254 K | 1254 | Liq. -> Nd2Zn17; _Liq.: Zn 0.894737; Nd2Zn17: Zn 0.894737_ | experimental | [4] Li 2008; _cites Chiotti 1972_ [doi](https://doi.org/10.1007/bf02652860) | Table 1, p. 2, row 22; `ORC-EW23BALU5L` |  |
+| Phase transition | 1254 K | 1254 | congruent transformation | experimental | [4] Li 2008; _cites Chiotti 1972_ [doi](https://doi.org/10.1007/bf02652860) | p. 2; `ORC-EFDEAYK2ZC.00d48b` | “In the diagram of Chiotti and Mason \[14\], NdZn, NdZn2 and Nd2 Zn17 melt congruently, respectively, at the temperature 1196, 1198 and 1254 K.” |
+| Phase transition | 1254.15 K | 1254.15 | congruent melting: L -> Nd2Zn17; _L: Zn 0.894737; Nd2Zn17: Zn 0.894737_ | model | [3] Liu 2009 | Table 7, p. 6, row 24; `ORC-3Y5MQBYWBZ` |  |
+| Phase transition | 1254.15 K | 1254.15 | congruent melting: L -> Nd2Zn17; _L: Zn 0.894737; Nd2Zn17: Zn 0.894737_ | experimental | [3] Liu 2009; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 7, p. 6, row 23; `ORC-6LKX44QCGR` |  |
+| Phase transition | 1289.15 K | 1289.15 |  | model | [1] Qi 2008; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | p. 4; `ORC-4ZTABSVJEK.8562c3` | “However, according to the SGTE database \[25\] the melting temperature of pure neodymium is 1016 ◦ C and the ␣ ↔ ␤ transformation temperature is 857 ◦ C.” |
+| Phase transition | 1294.15 K | 1294.15 |  | experimental | [1] Qi 2008; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | p. 4; `ORC-GFKEVKBEI6.829a30` | “The reported melting temperature of pure neodymium by Mason and Chitti \[20\] is 1021 ◦ C and the ␣ ↔ ␤ transformation temperature is 862 ◦ C.” |
 
 ### Formation (48)
 
@@ -267,54 +267,54 @@ Table: Formation, Nd–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -28.17 kJ/mol-atom | 773.15 | Nd13Zn58; _alloy: Zn 0.816901_ | model | [3] Liu 2009 | Table 8, p. 6, row 25 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -28.44 kJ/mol-atom | 773.15 | Nd13Zn58; _alloy: Zn 0.816901_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 26 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -22.74 kJ/mol-atom | 773.15 | Nd2Zn17; _alloy: Zn 0.894737_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 38 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -22.97 kJ/mol-atom | 773.15 | Nd2Zn17; _alloy: Zn 0.894737_ | model | [3] Liu 2009 | Table 8, p. 6, row 37 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -30.01 kJ/mol-atom | 773.15 | Nd3Zn11; _alloy: Zn 0.785714_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 20 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -29.63 kJ/mol-atom | 773.15 | Nd3Zn11; _alloy: Zn 0.785714_ | model | [3] Liu 2009 | Table 8, p. 6, row 19 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -24.43 kJ/mol-atom | 773.15 | Nd3Zn22; _alloy: Zn 0.88_ | model | [3] Liu 2009 | Table 8, p. 6, row 31 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -24.45 kJ/mol-atom | 773.15 | Nd3Zn22; _alloy: Zn 0.88_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 32 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -30.93 kJ/mol-atom | 773.15 | NdZn; _alloy: Zn 0.5_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 2 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -30.93 kJ/mol-atom | 773.15 | NdZn; _alloy: Zn 0.5_ | model | [3] Liu 2009 | Table 8, p. 6, row 1 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -18.98 kJ/mol-atom | 773.15 | NdZn11; _alloy: Zn 0.916667_ | model | [3] Liu 2009 | Table 8, p. 6, row 43 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -18.44 kJ/mol-atom | 773.15 | NdZn11; _alloy: Zn 0.916667_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 44 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -33.26 kJ/mol-atom | 773.15 | NdZn2; _alloy: Zn 0.666667_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 8 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -33.21 kJ/mol-atom | 773.15 | NdZn2; _alloy: Zn 0.666667_ | model | [3] Liu 2009 | Table 8, p. 6, row 7 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -30.72 kJ/mol-atom | 773.15 | NdZn3; _alloy: Zn 0.75_ | model | [3] Liu 2009 | Table 8, p. 6, row 13 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -31.11 kJ/mol-atom | 773.15 | NdZn3; _alloy: Zn 0.75_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 14 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -24.66 kJ/mol-atom | 973.15 | Nd13Zn58; _alloy: Zn 0.816901_ | model | [3] Liu 2009 | Table 8, p. 6, row 27 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -24.98 kJ/mol-atom | 973.15 | Nd13Zn58; _alloy: Zn 0.816901_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 28 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -19.11 kJ/mol-atom | 973.15 | Nd2Zn17; _alloy: Zn 0.894737_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 40 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -19.39 kJ/mol-atom | 973.15 | Nd2Zn17; _alloy: Zn 0.894737_ | model | [3] Liu 2009 | Table 8, p. 6, row 39 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -26.55 kJ/mol-atom | 973.15 | Nd3Zn11; _alloy: Zn 0.785714_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 22 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -26.11 kJ/mol-atom | 973.15 | Nd3Zn11; _alloy: Zn 0.785714_ | model | [3] Liu 2009 | Table 8, p. 6, row 21 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -20.73 kJ/mol-atom | 973.15 | Nd3Zn22; _alloy: Zn 0.88_ | model | [3] Liu 2009 | Table 8, p. 6, row 33 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -20.69 kJ/mol-atom | 973.15 | Nd3Zn22; _alloy: Zn 0.88_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 34 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -28.8 kJ/mol-atom | 973.15 | NdZn; _alloy: Zn 0.5_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 4 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -28.79 kJ/mol-atom | 973.15 | NdZn; _alloy: Zn 0.5_ | model | [3] Liu 2009 | Table 8, p. 6, row 3 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -14.91 kJ/mol-atom | 973.15 | NdZn11; _alloy: Zn 0.916667_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 46 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -26.11 kJ/mol-atom | 973.15 | NdZn11; _alloy: Zn 0.916667_ | model | [3] Liu 2009 | Table 8, p. 6, row 45 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -30.36 kJ/mol-atom | 973.15 | NdZn2; _alloy: Zn 0.666667_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 10 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -30.29 kJ/mol-atom | 973.15 | NdZn2; _alloy: Zn 0.666667_ | model | [3] Liu 2009 | Table 8, p. 6, row 9 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -27.38 kJ/mol-atom | 973.15 | NdZn3; _alloy: Zn 0.75_ | model | [3] Liu 2009 | Table 8, p. 6, row 15 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -27.81 kJ/mol-atom | 973.15 | NdZn3; _alloy: Zn 0.75_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 16 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -21.51 kJ/mol-atom | 1173.15 | Nd13Zn58; _alloy: Zn 0.816901_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 30 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -21.14 kJ/mol-atom | 1173.15 | Nd13Zn58; _alloy: Zn 0.816901_ | model | [3] Liu 2009 | Table 8, p. 6, row 29 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -15.48 kJ/mol-atom | 1173.15 | Nd2Zn17; _alloy: Zn 0.894737_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 42 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -15.8 kJ/mol-atom | 1173.15 | Nd2Zn17; _alloy: Zn 0.894737_ | model | [3] Liu 2009 | Table 8, p. 6, row 41 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -23.09 kJ/mol-atom | 1173.15 | Nd3Zn11; _alloy: Zn 0.785714_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 24 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -22.6 kJ/mol-atom | 1173.15 | Nd3Zn11; _alloy: Zn 0.785714_ | model | [3] Liu 2009 | Table 8, p. 6, row 23 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -17.02 kJ/mol-atom | 1173.15 | Nd3Zn22; _alloy: Zn 0.88_ | model | [3] Liu 2009 | Table 8, p. 6, row 35 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -16.93 kJ/mol-atom | 1173.15 | Nd3Zn22; _alloy: Zn 0.88_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 36 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -26.66 kJ/mol-atom | 1173.15 | NdZn; _alloy: Zn 0.5_ | model | [3] Liu 2009 | Table 8, p. 6, row 5 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -26.67 kJ/mol-atom | 1173.15 | NdZn; _alloy: Zn 0.5_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 6 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -12.16 kJ/mol-atom | 1173.15 | NdZn11; _alloy: Zn 0.916667_ | model | [3] Liu 2009 | Table 8, p. 6, row 47 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -11.38 kJ/mol-atom | 1173.15 | NdZn11; _alloy: Zn 0.916667_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 48 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -27.45 kJ/mol-atom | 1173.15 | NdZn2; _alloy: Zn 0.666667_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 12 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -27.37 kJ/mol-atom | 1173.15 | NdZn2; _alloy: Zn 0.666667_ | model | [3] Liu 2009 | Table 8, p. 6, row 11 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -24.51 kJ/mol-atom | 1173.15 | NdZn3; _alloy: Zn 0.75_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 18 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -24.03 kJ/mol-atom | 1173.15 | NdZn3; _alloy: Zn 0.75_ | model | [3] Liu 2009 | Table 8, p. 6, row 17 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -28.17 kJ/mol-atom | 773.15 | Nd13Zn58; _alloy: Zn 0.816901_ | model | [3] Liu 2009 | Table 8, p. 6, row 25; `ORC-34NJ7IVMGM` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -28.44 kJ/mol-atom | 773.15 | Nd13Zn58; _alloy: Zn 0.816901_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 26; `ORC-K2QCSVOTRD` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -22.74 kJ/mol-atom | 773.15 | Nd2Zn17; _alloy: Zn 0.894737_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 38; `ORC-CKSZCOWR27` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -22.97 kJ/mol-atom | 773.15 | Nd2Zn17; _alloy: Zn 0.894737_ | model | [3] Liu 2009 | Table 8, p. 6, row 37; `ORC-QIP7XNAVL6` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -30.01 kJ/mol-atom | 773.15 | Nd3Zn11; _alloy: Zn 0.785714_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 20; `ORC-IAC6RDXQYL` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -29.63 kJ/mol-atom | 773.15 | Nd3Zn11; _alloy: Zn 0.785714_ | model | [3] Liu 2009 | Table 8, p. 6, row 19; `ORC-YE63CMSAZ3` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -24.43 kJ/mol-atom | 773.15 | Nd3Zn22; _alloy: Zn 0.88_ | model | [3] Liu 2009 | Table 8, p. 6, row 31; `ORC-7SSZSPJAR7` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -24.45 kJ/mol-atom | 773.15 | Nd3Zn22; _alloy: Zn 0.88_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 32; `ORC-W4A6Z3CVZQ` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -30.93 kJ/mol-atom | 773.15 | NdZn; _alloy: Zn 0.5_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 2; `ORC-DHFHJXYE6K` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -30.93 kJ/mol-atom | 773.15 | NdZn; _alloy: Zn 0.5_ | model | [3] Liu 2009 | Table 8, p. 6, row 1; `ORC-VMM3CWR5TY` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -18.98 kJ/mol-atom | 773.15 | NdZn11; _alloy: Zn 0.916667_ | model | [3] Liu 2009 | Table 8, p. 6, row 43; `ORC-5FRBQPDSHV` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -18.44 kJ/mol-atom | 773.15 | NdZn11; _alloy: Zn 0.916667_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 44; `ORC-KDVU6VQ47C` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -33.26 kJ/mol-atom | 773.15 | NdZn2; _alloy: Zn 0.666667_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 8; `ORC-3JVNQE5B23` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -33.21 kJ/mol-atom | 773.15 | NdZn2; _alloy: Zn 0.666667_ | model | [3] Liu 2009 | Table 8, p. 6, row 7; `ORC-IN3LKQCHCS` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -30.72 kJ/mol-atom | 773.15 | NdZn3; _alloy: Zn 0.75_ | model | [3] Liu 2009 | Table 8, p. 6, row 13; `ORC-NDH2KNQ5XV` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -31.11 kJ/mol-atom | 773.15 | NdZn3; _alloy: Zn 0.75_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 14; `ORC-SGI7ACYPEG` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -24.66 kJ/mol-atom | 973.15 | Nd13Zn58; _alloy: Zn 0.816901_ | model | [3] Liu 2009 | Table 8, p. 6, row 27; `ORC-3EM5GAF3DL` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -24.98 kJ/mol-atom | 973.15 | Nd13Zn58; _alloy: Zn 0.816901_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 28; `ORC-VUJTPRAOJY` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -19.11 kJ/mol-atom | 973.15 | Nd2Zn17; _alloy: Zn 0.894737_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 40; `ORC-7BIOCWCKPS` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -19.39 kJ/mol-atom | 973.15 | Nd2Zn17; _alloy: Zn 0.894737_ | model | [3] Liu 2009 | Table 8, p. 6, row 39; `ORC-XJO7ADYMXJ` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -26.55 kJ/mol-atom | 973.15 | Nd3Zn11; _alloy: Zn 0.785714_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 22; `ORC-KWF4CVF4JV` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -26.11 kJ/mol-atom | 973.15 | Nd3Zn11; _alloy: Zn 0.785714_ | model | [3] Liu 2009 | Table 8, p. 6, row 21; `ORC-RUPNO3JE5V` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -20.73 kJ/mol-atom | 973.15 | Nd3Zn22; _alloy: Zn 0.88_ | model | [3] Liu 2009 | Table 8, p. 6, row 33; `ORC-LE3JCRIOAG` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -20.69 kJ/mol-atom | 973.15 | Nd3Zn22; _alloy: Zn 0.88_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 34; `ORC-QCPK3FIRBC` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -28.8 kJ/mol-atom | 973.15 | NdZn; _alloy: Zn 0.5_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 4; `ORC-MZ5UATJ747` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -28.79 kJ/mol-atom | 973.15 | NdZn; _alloy: Zn 0.5_ | model | [3] Liu 2009 | Table 8, p. 6, row 3; `ORC-XLXFVSOO42` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -14.91 kJ/mol-atom | 973.15 | NdZn11; _alloy: Zn 0.916667_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 46; `ORC-BXJ4QZGWMU` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -26.11 kJ/mol-atom | 973.15 | NdZn11; _alloy: Zn 0.916667_ | model | [3] Liu 2009 | Table 8, p. 6, row 45; `ORC-X3OH7OCIZG` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -30.36 kJ/mol-atom | 973.15 | NdZn2; _alloy: Zn 0.666667_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 10; `ORC-6CSAUODHKB` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -30.29 kJ/mol-atom | 973.15 | NdZn2; _alloy: Zn 0.666667_ | model | [3] Liu 2009 | Table 8, p. 6, row 9; `ORC-ZLTOSWZMJA` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -27.38 kJ/mol-atom | 973.15 | NdZn3; _alloy: Zn 0.75_ | model | [3] Liu 2009 | Table 8, p. 6, row 15; `ORC-KLSUSL76QD` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -27.81 kJ/mol-atom | 973.15 | NdZn3; _alloy: Zn 0.75_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 16; `ORC-X464TN5H34` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -21.51 kJ/mol-atom | 1173.15 | Nd13Zn58; _alloy: Zn 0.816901_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 30; `ORC-5S524GOI3E` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -21.14 kJ/mol-atom | 1173.15 | Nd13Zn58; _alloy: Zn 0.816901_ | model | [3] Liu 2009 | Table 8, p. 6, row 29; `ORC-VYSSNJYYW4` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -15.48 kJ/mol-atom | 1173.15 | Nd2Zn17; _alloy: Zn 0.894737_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 42; `ORC-B2EKXUYWTF` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -15.8 kJ/mol-atom | 1173.15 | Nd2Zn17; _alloy: Zn 0.894737_ | model | [3] Liu 2009 | Table 8, p. 6, row 41; `ORC-P46RZFQ4HM` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -23.09 kJ/mol-atom | 1173.15 | Nd3Zn11; _alloy: Zn 0.785714_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 24; `ORC-NAJNSOPOZH` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -22.6 kJ/mol-atom | 1173.15 | Nd3Zn11; _alloy: Zn 0.785714_ | model | [3] Liu 2009 | Table 8, p. 6, row 23; `ORC-XSUORKUHC6` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -17.02 kJ/mol-atom | 1173.15 | Nd3Zn22; _alloy: Zn 0.88_ | model | [3] Liu 2009 | Table 8, p. 6, row 35; `ORC-SB3O3IPYK3` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -16.93 kJ/mol-atom | 1173.15 | Nd3Zn22; _alloy: Zn 0.88_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 36; `ORC-TQ7SUM7POQ` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -26.66 kJ/mol-atom | 1173.15 | NdZn; _alloy: Zn 0.5_ | model | [3] Liu 2009 | Table 8, p. 6, row 5; `ORC-5ZGK4MQEM7` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -26.67 kJ/mol-atom | 1173.15 | NdZn; _alloy: Zn 0.5_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 6; `ORC-PXOL3HMSSA` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -12.16 kJ/mol-atom | 1173.15 | NdZn11; _alloy: Zn 0.916667_ | model | [3] Liu 2009 | Table 8, p. 6, row 47; `ORC-3CBE4D6CRQ` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -11.38 kJ/mol-atom | 1173.15 | NdZn11; _alloy: Zn 0.916667_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 48; `ORC-NHAXCP7Q64` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -27.45 kJ/mol-atom | 1173.15 | NdZn2; _alloy: Zn 0.666667_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 12; `ORC-2ATZQOQRCH` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -27.37 kJ/mol-atom | 1173.15 | NdZn2; _alloy: Zn 0.666667_ | model | [3] Liu 2009 | Table 8, p. 6, row 11; `ORC-2W4GMUGTX6` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -24.51 kJ/mol-atom | 1173.15 | NdZn3; _alloy: Zn 0.75_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 18; `ORC-B4M5M7NQAG` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -24.03 kJ/mol-atom | 1173.15 | NdZn3; _alloy: Zn 0.75_ | model | [3] Liu 2009 | Table 8, p. 6, row 17; `ORC-MEFO4N6ZIO` |  |
 
 ## Sources
 
@@ -382,4 +382,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

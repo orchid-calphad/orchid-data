@@ -14,12 +14,12 @@ Table: Enthalpy of formation of Ge3Y2 reported in the literature (6)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -84.1 kJ/mol-atom ± 3.7 | Ge1.5Y-HT | 870 | experimental | EMF | [Ge–Y](https://data.orchid-project.org/systems/GE-Y.html) | [1] Idbenali 2013; _cites Polotskaya 1996_ [doi](https://doi.org/10.1007/bf01328840) | Table 4, p. 5, row 7 |  |
-| -77.8 kJ/mol-atom ± 3.4 | Ge1.5Y-LT | 870 | experimental | EMF | [Ge–Y](https://data.orchid-project.org/systems/GE-Y.html) | [1] Idbenali 2013; _cites Polotskaya 1996_ [doi](https://doi.org/10.1007/bf01328840) | Table 4, p. 5, row 4 |  |
-| -84.785 kJ/mol-atom | Ge1.5Y-LT | 298.15 | model | Optimization | [Ge–Y](https://data.orchid-project.org/systems/GE-Y.html) | [1] Idbenali 2013 | Table 4, p. 5, row 6 |  |
-| -83.025 kJ/mol-atom | Ge1.5Y-HT | 2985 | model | Optimization | [Ge–Y](https://data.orchid-project.org/systems/GE-Y.html) | [1] Idbenali 2013 | Table 4, p. 5, row 9 |  |
-| -69.664 kJ/mol-atom | Ge1.5Y-LT | 870 | model | Optimization | [Ge–Y](https://data.orchid-project.org/systems/GE-Y.html) | [1] Idbenali 2013 | Table 4, p. 5, row 5 |  |
-| -67.903 kJ/mol-atom | Ge1.5Y-HT | 870 | model | Optimization | [Ge–Y](https://data.orchid-project.org/systems/GE-Y.html) | [1] Idbenali 2013 | Table 4, p. 5, row 8 |  |
+| -84.1 kJ/mol-atom ± 3.7 | Ge1.5Y-HT | 870 | experimental | EMF | [Ge–Y](https://data.orchid-project.org/systems/GE-Y.html) | [1] Idbenali 2013; _cites Polotskaya 1996_ [doi](https://doi.org/10.1007/bf01328840) | Table 4, p. 5, row 7; `ORC-RI6VYY37IO` |  |
+| -77.8 kJ/mol-atom ± 3.4 | Ge1.5Y-LT | 870 | experimental | EMF | [Ge–Y](https://data.orchid-project.org/systems/GE-Y.html) | [1] Idbenali 2013; _cites Polotskaya 1996_ [doi](https://doi.org/10.1007/bf01328840) | Table 4, p. 5, row 4; `ORC-H3B5YMIPGG` |  |
+| -84.785 kJ/mol-atom | Ge1.5Y-LT | 298.15 | model | Optimization | [Ge–Y](https://data.orchid-project.org/systems/GE-Y.html) | [1] Idbenali 2013 | Table 4, p. 5, row 6; `ORC-6UUQPNTJHT` |  |
+| -83.025 kJ/mol-atom | Ge1.5Y-HT | 2985 | model | Optimization | [Ge–Y](https://data.orchid-project.org/systems/GE-Y.html) | [1] Idbenali 2013 | Table 4, p. 5, row 9; `ORC-RST5NCXGI2` |  |
+| -69.664 kJ/mol-atom | Ge1.5Y-LT | 870 | model | Optimization | [Ge–Y](https://data.orchid-project.org/systems/GE-Y.html) | [1] Idbenali 2013 | Table 4, p. 5, row 5; `ORC-JYO2UHLPL5` |  |
+| -67.903 kJ/mol-atom | Ge1.5Y-HT | 870 | model | Optimization | [Ge–Y](https://data.orchid-project.org/systems/GE-Y.html) | [1] Idbenali 2013 | Table 4, p. 5, row 8; `ORC-ZDYRZRBR74` |  |
 
 ### Uncertainty budget
 
@@ -99,4 +99,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

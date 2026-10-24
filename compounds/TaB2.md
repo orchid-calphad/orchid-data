@@ -14,11 +14,11 @@ Table: Enthalpy of formation of TaB2 reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -64.9 kJ/mol-atom | TaB2 | 298.15 | experimental |  | [B–Ta](https://data.orchid-project.org/systems/B-TA.html) | [1] OuYang 2017; _cites Kirpichev 1979_ | Table 1, p. 4, row 17 |  |
-| -62.9 kJ/mol-atom | TaB2 | 298.15 | experimental |  | [B–Ta](https://data.orchid-project.org/systems/B-TA.html) | [1] OuYang 2017; _cites Johnson 1967_ [doi](https://doi.org/10.1021/je60035a034) | Table 1, p. 4, row 18 |  |
-| -53.3 kJ/mol-atom | TaB2 | 298.15 | experimental |  | [B–Ta](https://data.orchid-project.org/systems/B-TA.html) | [1] OuYang 2017; _cites Meschel 1993_ [doi](https://doi.org/10.1007/bf02656515) | Table 1, p. 4, row 19 |  |
-| -67.7 kJ/mol-atom | TaB2 | 0 | DFT |  | [B–Ta](https://data.orchid-project.org/systems/B-TA.html) | [1] OuYang 2017; _cites Zhang 2015_ [doi](https://doi.org/10.1016/j.jallcom.2015.01.144) | Table 1, p. 4, row 16 |  |
-| -64.062 kJ/mol-atom | TaB2 | 0 | DFT |  | [B–Ta](https://data.orchid-project.org/systems/B-TA.html) | [1] OuYang 2017 | Table 1, p. 4, row 14 |  |
+| -64.9 kJ/mol-atom | TaB2 | 298.15 | experimental |  | [B–Ta](https://data.orchid-project.org/systems/B-TA.html) | [1] OuYang 2017; _cites Kirpichev 1979_ | Table 1, p. 4, row 17; `ORC-ENOMSME5IX` |  |
+| -62.9 kJ/mol-atom | TaB2 | 298.15 | experimental |  | [B–Ta](https://data.orchid-project.org/systems/B-TA.html) | [1] OuYang 2017; _cites Johnson 1967_ [doi](https://doi.org/10.1021/je60035a034) | Table 1, p. 4, row 18; `ORC-PTU6CIJMOI` |  |
+| -53.3 kJ/mol-atom | TaB2 | 298.15 | experimental |  | [B–Ta](https://data.orchid-project.org/systems/B-TA.html) | [1] OuYang 2017; _cites Meschel 1993_ [doi](https://doi.org/10.1007/bf02656515) | Table 1, p. 4, row 19; `ORC-NWHOAUO467` |  |
+| -67.7 kJ/mol-atom | TaB2 | 0 | DFT |  | [B–Ta](https://data.orchid-project.org/systems/B-TA.html) | [1] OuYang 2017; _cites Zhang 2015_ [doi](https://doi.org/10.1016/j.jallcom.2015.01.144) | Table 1, p. 4, row 16; `ORC-5RNKJUQLXV` |  |
+| -64.062 kJ/mol-atom | TaB2 | 0 | DFT |  | [B–Ta](https://data.orchid-project.org/systems/B-TA.html) | [1] OuYang 2017 | Table 1, p. 4, row 14; `ORC-FHP5CO6FS6` |  |
 
 ### Uncertainty budget
 
@@ -98,4 +98,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

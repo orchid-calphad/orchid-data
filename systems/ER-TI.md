@@ -47,7 +47,7 @@ Table: Invariant reactions reported in the literature for the Er–Ti system (1)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1587.15 | eutectic: Liquid $ (Er) ? (bTi) |  | model | [1] Yao 2018 | p. 6 | “As can be seen from Fig. 2 and Table 2, the calculated eutectic point of reaction Liquid $ (Er) ? (bTi) lies at 1314 °C and 29.0 at.% Ti and the calculated peritectoid point of reaction (Er) ? (bTi) $ (aTi) is located at 888 °C and 0.4 at.% Ti, which agree well with the literature's reported ones.\[16\]” |
+| 1587.15 | eutectic: Liquid $ (Er) ? (bTi) |  | model | [1] Yao 2018 | p. 6; `ORC-HIZNGBSJWV.22aa9b` | “As can be seen from Fig. 2 and Table 2, the calculated eutectic point of reaction Liquid $ (Er) ? (bTi) lies at 1314 °C and 29.0 at.% Ti and the calculated peritectoid point of reaction (Er) ? (bTi) $ (aTi) is located at 888 °C and 0.4 at.% Ti, which agree well with the literature's reported ones.\[16\]” |
 
 ## Other properties
 
@@ -57,8 +57,8 @@ Table: Phase transition, Er–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1161.15 K | 1161.15 | other: (Er) ? (bTi) $ (aTi) | model | [1] Yao 2018 | p. 6 | “As can be seen from Fig. 2 and Table 2, the calculated eutectic point of reaction Liquid $ (Er) ? (bTi) lies at 1314 °C and 29.0 at.% Ti and the calculated peritectoid point of reaction (Er) ? (bTi) $ (aTi) is located at 888 °C and 0.4 at.% Ti, which agree well with the literature's reported ones.\[16\]” |
-| Phase transition | 1593.15 K | 1593.15 | Liquid $ (Er) ? (bTi) | experimental | [1] Yao 2018; _cites Love 1960_ | p. 6 | “Due to the limited experimental data from the literature, the invariant reaction Liquid $ (Er) ? (bTi) at 1320 ± 20 °C and 26 at.% Ti reported by Love\[16\] is considered to be reliable in this work.” |
+| Phase transition | 1161.15 K | 1161.15 | other: (Er) ? (bTi) $ (aTi) | model | [1] Yao 2018 | p. 6; `ORC-HIZNGBSJWV.e4bed5` | “As can be seen from Fig. 2 and Table 2, the calculated eutectic point of reaction Liquid $ (Er) ? (bTi) lies at 1314 °C and 29.0 at.% Ti and the calculated peritectoid point of reaction (Er) ? (bTi) $ (aTi) is located at 888 °C and 0.4 at.% Ti, which agree well with the literature's reported ones.\[16\]” |
+| Phase transition | 1593.15 K | 1593.15 | Liquid $ (Er) ? (bTi) | experimental | [1] Yao 2018; _cites Love 1960_ | p. 6; `ORC-MIVMPRMJ4K` | “Due to the limited experimental data from the literature, the invariant reaction Liquid $ (Er) ? (bTi) at 1320 ± 20 °C and 26 at.% Ti reported by Love\[16\] is considered to be reliable in this work.” |
 
 ## Sources
 
@@ -123,4 +123,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

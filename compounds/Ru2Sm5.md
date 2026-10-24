@@ -14,13 +14,13 @@ Table: Enthalpy of formation of Ru2Sm5 reported in the literature (7)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -39.9781 kJ/mol-atom | Sm5Ru2 |  | model | Optimization LM | [Ru–Sm](https://data.orchid-project.org/systems/RU-SM.html) | [1] Kardellass 2023 | Table 3, p. 9, row 78 |  |
-| -30.4526 kJ/mol-atom | Sm5Ru2 |  | model | Miedema’s model | [Ru–Sm](https://data.orchid-project.org/systems/RU-SM.html) | [1] Kardellass 2023; _cites De 2014_ | Table 3, p. 9, row 81 |  |
-| -25.9792 kJ/mol-atom | Sm5Ru2 |  | model | Modified Miedema’s model | [Ru–Sm](https://data.orchid-project.org/systems/RU-SM.html) | [1] Kardellass 2023; _cites Zhang 2007_ [doi](https://doi.org/10.1016/j.cplett.2007.06.031) | Table 3, p. 9, row 82 |  |
-| -23.4727 kJ/mol-atom | Sm5Ru2 |  | model | Optimization EM | [Ru–Sm](https://data.orchid-project.org/systems/RU-SM.html) | [1] Kardellass 2023 | Table 3, p. 9, row 79 |  |
-| -23.457 kJ/mol-atom | Sm5Ru2 |  | model | Optimization CM | [Ru–Sm](https://data.orchid-project.org/systems/RU-SM.html) | [1] Kardellass 2023 | Table 3, p. 9, row 80 |  |
-| -25.922 kJ/mol-atom | Sm5Ru2 |  | DFT | Ab-initio | [Ru–Sm](https://data.orchid-project.org/systems/RU-SM.html) | [1] Kardellass 2023; _cites Ceder 2010_ | Table 3, p. 9, row 83 |  |
-| -25.055 kJ/mol-atom | Sm5Ru2 | 0 | DFT | Ab-initio | [Ru–Sm](https://data.orchid-project.org/systems/RU-SM.html) | [1] Kardellass 2023; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table 3, p. 9, row 84 |  |
+| -39.9781 kJ/mol-atom | Sm5Ru2 |  | model | Optimization LM | [Ru–Sm](https://data.orchid-project.org/systems/RU-SM.html) | [1] Kardellass 2023 | Table 3, p. 9, row 78; `ORC-74JU6DILO3.9d337a` |  |
+| -30.4526 kJ/mol-atom | Sm5Ru2 |  | model | Miedema’s model | [Ru–Sm](https://data.orchid-project.org/systems/RU-SM.html) | [1] Kardellass 2023; _cites De 2014_ | Table 3, p. 9, row 81; `ORC-QOHYAYU3GR.0d6c3c` |  |
+| -25.9792 kJ/mol-atom | Sm5Ru2 |  | model | Modified Miedema’s model | [Ru–Sm](https://data.orchid-project.org/systems/RU-SM.html) | [1] Kardellass 2023; _cites Zhang 2007_ [doi](https://doi.org/10.1016/j.cplett.2007.06.031) | Table 3, p. 9, row 82; `ORC-CVP5R76BSQ.9a9f98` |  |
+| -23.4727 kJ/mol-atom | Sm5Ru2 |  | model | Optimization EM | [Ru–Sm](https://data.orchid-project.org/systems/RU-SM.html) | [1] Kardellass 2023 | Table 3, p. 9, row 79; `ORC-TTLWOXA2W7.1d2c8c` |  |
+| -23.457 kJ/mol-atom | Sm5Ru2 |  | model | Optimization CM | [Ru–Sm](https://data.orchid-project.org/systems/RU-SM.html) | [1] Kardellass 2023 | Table 3, p. 9, row 80; `ORC-VJOZLSO733.b7fc7e` |  |
+| -25.922 kJ/mol-atom | Sm5Ru2 |  | DFT | Ab-initio | [Ru–Sm](https://data.orchid-project.org/systems/RU-SM.html) | [1] Kardellass 2023; _cites Ceder 2010_ | Table 3, p. 9, row 83; `ORC-XNXRGZDCD2.7e7a73` |  |
+| -25.055 kJ/mol-atom | Sm5Ru2 | 0 | DFT | Ab-initio | [Ru–Sm](https://data.orchid-project.org/systems/RU-SM.html) | [1] Kardellass 2023; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table 3, p. 9, row 84; `ORC-DMLJAIZQH7.323d48` |  |
 
 ### Uncertainty budget
 
@@ -102,4 +102,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

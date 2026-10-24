@@ -66,8 +66,8 @@ Table: Invariant reactions reported in the literature for the W–Zr system (2)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 3063.15 | eutectic: L = ZrC + W |  | experimental | [1] Zhou 2015; _cites Savitsky 1977_ | p. 2 | “Using XRD, metallography, and optical pyrometry, Zakharov et al. \[38\] and Savitsky et al. \[39\] investigated the ZrC-W vertical section and measured the maximum point of the eutectic reaction L = ZrC + W at 2620 °C and 2790 °C, respectively.” |
-| 2893.15 | eutectic: L = ZrC + W |  | experimental | [1] Zhou 2015; _cites Zakharov 1974_ | p. 2 | “Using XRD, metallography, and optical pyrometry, Zakharov et al. \[38\] and Savitsky et al. \[39\] investigated the ZrC-W vertical section and measured the maximum point of the eutectic reaction L = ZrC + W at 2620 °C and 2790 °C, respectively.” |
+| 3063.15 | eutectic: L = ZrC + W |  | experimental | [1] Zhou 2015; _cites Savitsky 1977_ | p. 2; `ORC-LW4OWNHO3F.80eb0c` | “Using XRD, metallography, and optical pyrometry, Zakharov et al. \[38\] and Savitsky et al. \[39\] investigated the ZrC-W vertical section and measured the maximum point of the eutectic reaction L = ZrC + W at 2620 °C and 2790 °C, respectively.” |
+| 2893.15 | eutectic: L = ZrC + W |  | experimental | [1] Zhou 2015; _cites Zakharov 1974_ | p. 2; `ORC-LW4OWNHO3F.1897ee` | “Using XRD, metallography, and optical pyrometry, Zakharov et al. \[38\] and Savitsky et al. \[39\] investigated the ZrC-W vertical section and measured the maximum point of the eutectic reaction L = ZrC + W at 2620 °C and 2790 °C, respectively.” |
 
 ## Other properties
 
@@ -77,11 +77,11 @@ Table: Phase transition, W–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 2013.15 K | 2013.15 | L = (W,Zr)C + βZr + W2Zr | experimental | [1] Zhou 2015; _cites Eremenko 1984_ | p. 2 | “They also reported the invariant equilibria of L + C = (W,Zr)C + WC at 2740 °C, L+(W,Zr)C + W = W2Zr at 2340 °C, and L = (W,Zr)C + βZr + W2Zr at 1740 °C.” |
-| Phase transition | 2483.15 K | 2483.15 | L + W = W2Zr | model | [1] Zhou 2015; _cites Guo 2014_ [doi](https://doi.org/10.3139/146.111125) | p. 2 | “The reaction temperature of L+(W,Zr)C + W = W2Zr (2340 °C) is much higher than that of L + W = W2Zr in the W-Zr binary system (2210 °C) \[33\].” |
-| Phase transition | 2613.15 K | 2613.15 | L+(W,Zr)C + W = W2Zr | experimental | [1] Zhou 2015; _cites Eremenko 1984_ | p. 2 | “They also reported the invariant equilibria of L + C = (W,Zr)C + WC at 2740 °C, L+(W,Zr)C + W = W2Zr at 2340 °C, and L = (W,Zr)C + βZr + W2Zr at 1740 °C.” |
-| Phase transition | 3013.15 K | 3013.15 | other: L + C = (W,Zr)C + WC | experimental | [1] Zhou 2015; _cites Eremenko 1984_ | p. 2 | “They also reported the invariant equilibria of L + C = (W,Zr)C + WC at 2740 °C, L+(W,Zr)C + W = W2Zr at 2340 °C, and L = (W,Zr)C + βZr + W2Zr at 1740 °C.” |
-| Phase transition | 3073.15 K | 3073.15 | L = ZrC + W | experimental | [1] Zhou 2015 | p. 2 | “According to their studies, the maximum point of the L = ZrC + W reaction is at 2800 °C, which is consistent with the result by Savitsky et al. \[39\].” |
+| Phase transition | 2013.15 K | 2013.15 | L = (W,Zr)C + βZr + W2Zr | experimental | [1] Zhou 2015; _cites Eremenko 1984_ | p. 2; `ORC-I2JLXYR2KM.a17a66` | “They also reported the invariant equilibria of L + C = (W,Zr)C + WC at 2740 °C, L+(W,Zr)C + W = W2Zr at 2340 °C, and L = (W,Zr)C + βZr + W2Zr at 1740 °C.” |
+| Phase transition | 2483.15 K | 2483.15 | L + W = W2Zr | model | [1] Zhou 2015; _cites Guo 2014_ [doi](https://doi.org/10.3139/146.111125) | p. 2; `ORC-FZBFFXMCVB` | “The reaction temperature of L+(W,Zr)C + W = W2Zr (2340 °C) is much higher than that of L + W = W2Zr in the W-Zr binary system (2210 °C) \[33\].” |
+| Phase transition | 2613.15 K | 2613.15 | L+(W,Zr)C + W = W2Zr | experimental | [1] Zhou 2015; _cites Eremenko 1984_ | p. 2; `ORC-I2JLXYR2KM.15e626` | “They also reported the invariant equilibria of L + C = (W,Zr)C + WC at 2740 °C, L+(W,Zr)C + W = W2Zr at 2340 °C, and L = (W,Zr)C + βZr + W2Zr at 1740 °C.” |
+| Phase transition | 3013.15 K | 3013.15 | other: L + C = (W,Zr)C + WC | experimental | [1] Zhou 2015; _cites Eremenko 1984_ | p. 2; `ORC-I2JLXYR2KM.34e6c0` | “They also reported the invariant equilibria of L + C = (W,Zr)C + WC at 2740 °C, L+(W,Zr)C + W = W2Zr at 2340 °C, and L = (W,Zr)C + βZr + W2Zr at 1740 °C.” |
+| Phase transition | 3073.15 K | 3073.15 | L = ZrC + W | experimental | [1] Zhou 2015 | p. 2; `ORC-6N2AN5IKWP` | “According to their studies, the maximum point of the L = ZrC + W reaction is at 2800 °C, which is consistent with the result by Savitsky et al. \[39\].” |
 
 ## Sources
 
@@ -146,4 +146,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

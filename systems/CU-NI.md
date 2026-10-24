@@ -46,8 +46,8 @@ Table: Invariant reactions reported in the literature for the Cu–Ni system (2)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1386 | peritectic |  | model | [1] Turchanin 2007 | p. 10 | “The peritectic temperature that we calculated is 1386 K, which practically coincides with the data from \[27, 28\].” |
-| 1385 | peritectic |  | experimental | [1] Turchanin 2007; _cites ref. 27_ | p. 5 | “The peritectic temperature of 1385 K found in \[27\] completely agrees with the value from \[28\].” |
+| 1386 | peritectic |  | model | [1] Turchanin 2007 | p. 10; `ORC-VMXMF2FO5Q` | “The peritectic temperature that we calculated is 1386 K, which practically coincides with the data from \[27, 28\].” |
+| 1385 | peritectic |  | experimental | [1] Turchanin 2007; _cites ref. 27_ | p. 5; `ORC-235OYCPLPY` | “The peritectic temperature of 1385 K found in \[27\] completely agrees with the value from \[28\].” |
 
 ## Formation enthalpies
 
@@ -57,7 +57,7 @@ Table: Enthalpies of formation, Cu–Ni system (1)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | 2.26 kJ/mol (basis unstated) | 1000 | experimental |  |  | [2] Srikanth 1989 | p. 2 | “Kubaschewski et al.ll obtained a value of 2260 J mol-1 for the enthalpy of formation of equiatomic Cu-Ni solution at 1000 K by means of an adiabatic reaction calorimeter.” |
+| — |  | 2.26 kJ/mol (basis unstated) | 1000 | experimental |  |  | [2] Srikanth 1989 | p. 2; `ORC-74AANJCECH` | “Kubaschewski et al.ll obtained a value of 2260 J mol-1 for the enthalpy of formation of equiatomic Cu-Ni solution at 1000 K by means of an adiabatic reaction calorimeter.” |
 
 ## Other properties
 
@@ -67,9 +67,9 @@ Table: Phase transition, Cu–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 690 K | 690 | other | model | [2] Srikanth 1989 | p. 9 | “The critical point in the present evaluation is located at XNi = 0·67 and T;; = 690 K.” |
-| Phase transition | 698 K | 698 | other | model | [1] Turchanin 2007 | p. 9 | “According to our calculations, this is a peritectoid transformation that occurs at 698 K.” |
-| Phase transition | 714 K | 714 |  | model | [1] Turchanin 2007; _cites ref. 12_ | p. 7 | “In particular, the transformation temperature is 714 K, as reported in \[12\].” |
+| Phase transition | 690 K | 690 | other | model | [2] Srikanth 1989 | p. 9; `ORC-CETWRJW6BS` | “The critical point in the present evaluation is located at XNi = 0·67 and T;; = 690 K.” |
+| Phase transition | 698 K | 698 | other | model | [1] Turchanin 2007 | p. 9; `ORC-RXSAGKVAML` | “According to our calculations, this is a peritectoid transformation that occurs at 698 K.” |
+| Phase transition | 714 K | 714 |  | model | [1] Turchanin 2007; _cites ref. 12_ | p. 7; `ORC-WSS5C4DHLP` | “In particular, the transformation temperature is 714 K, as reported in \[12\].” |
 
 ### Mixing / partial (3)
 
@@ -77,9 +77,9 @@ Table: Mixing / partial, Cu–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: enthalpy of mixing_ | 1.59 kJ/mol (basis unstated) | 1113 |  | experimental | [2] Srikanth 1989; _cites ref. 10_ | p. 2 | “Oriani and Murphy10 used a differential solution calorimeter using liquid tin as the solvent to measure enthalpy of mixing in solid Cu-Ni alloys at 1113 K. Their study gives a maximum value of 1590 J mol-1 at XNi '" 0·7.” |
-| Enthalpy of mixing; _printed: ~Hmax_ | 8 kJ/mol (basis unstated) | 1773 |  | experimental | [2] Srikanth 1989; _cites EL'KHASAN 1966_ | p. 7 | “El'Khasan et ai.39 report high exothermic values for the enthalpy of mixing (~Hmax= 8 kJ mol-1) at 1773 K and their results are not compatible with other calorimetric studies.” |
-| Partial enthalpy; _printed: ∞ ΔH Co_ | 42 kJ/mol (basis unstated) ± 2.4 | 1385 |  | experimental | [1] Turchanin 2007; _cites ref. 19_ | p. 2 | “The above results are in agreement with \[19\], which established the first enthalpy of cobalt mixing ∞ ΔH Co = 42.0 ± 2.4 kJ/mole at 1385 K using a high-temperature Tian-Calvet calorimeter.” |
+| Enthalpy of mixing; _printed: enthalpy of mixing_ | 1.59 kJ/mol (basis unstated) | 1113 |  | experimental | [2] Srikanth 1989; _cites ref. 10_ | p. 2; `ORC-ZUKXROJ45A` | “Oriani and Murphy10 used a differential solution calorimeter using liquid tin as the solvent to measure enthalpy of mixing in solid Cu-Ni alloys at 1113 K. Their study gives a maximum value of 1590 J mol-1 at XNi '" 0·7.” |
+| Enthalpy of mixing; _printed: ~Hmax_ | 8 kJ/mol (basis unstated) | 1773 |  | experimental | [2] Srikanth 1989; _cites EL'KHASAN 1966_ | p. 7; `ORC-XQUQ7SAMDG` | “El'Khasan et ai.39 report high exothermic values for the enthalpy of mixing (~Hmax= 8 kJ mol-1) at 1773 K and their results are not compatible with other calorimetric studies.” |
+| Partial enthalpy; _printed: ∞ ΔH Co_ | 42 kJ/mol (basis unstated) ± 2.4 | 1385 |  | experimental | [1] Turchanin 2007; _cites ref. 19_ | p. 2; `ORC-74OQIYYQLF` | “The above results are in agreement with \[19\], which established the first enthalpy of cobalt mixing ∞ ΔH Co = 42.0 ± 2.4 kJ/mole at 1385 K using a high-temperature Tian-Calvet calorimeter.” |
 
 ### Activity / EMF / Gibbs energy (28)
 
@@ -87,34 +87,34 @@ Table: Activity / EMF / Gibbs energy, Cu–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Activity Cu; _printed: aCu_ | 0.5141 1 | 1000 | UNKNOWN; _alloy: Cu 0.2, Ni 0.8_ | experimental | [2] Srikanth 1989 | Table 1, p. 4, row 8 |  |
-| Activity Cu; _printed: aCu_ | 0.7926 1 | 1000 | UNKNOWN; _alloy: Cu 0.7, Ni 0.3_ | experimental | [2] Srikanth 1989 | Table 1, p. 4, row 3 |  |
-| Activity Cu; _printed: aCu_ | 0.8463 1 | 1000 | UNKNOWN; _alloy: Cu 0.8, Ni 0.2_ | experimental | [2] Srikanth 1989 | Table 1, p. 4, row 2 |  |
-| Activity Cu; _printed: aCu_ | 0.9128 1 | 1000 | UNKNOWN; _alloy: Cu 0.9, Ni 0.1_ | experimental | [2] Srikanth 1989 | Table 1, p. 4, row 1 |  |
-| Activity Cu; _printed: aCu_ | 0.5873 1 | 1000 | UNKNOWN; _alloy: Cu 0.3, Ni 0.7_ | experimental | [2] Srikanth 1989 | Table 1, p. 4, row 7 |  |
-| Activity Cu; _printed: aCu_ | 0.6391 1 | 1000 | UNKNOWN; _alloy: Cu 0.4, Ni 0.6_ | experimental | [2] Srikanth 1989 | Table 1, p. 4, row 6 |  |
-| Activity Cu; _printed: aCu_ | 0.3649 1 | 1000 | UNKNOWN; _alloy: Cu 0.1, Ni 0.9_ | experimental | [2] Srikanth 1989 | Table 1, p. 4, row 9 |  |
-| Activity Cu; _printed: aCu_ | 0.6856 1 | 1000 | UNKNOWN; _alloy: Cu 0.5, Ni 0.5_ | experimental | [2] Srikanth 1989 | Table 1, p. 4, row 5 |  |
-| Activity Cu; _printed: aCu_ | 0.7376 1 | 1000 | UNKNOWN; _alloy: Cu 0.6, Ni 0.4_ | experimental | [2] Srikanth 1989 | Table 1, p. 4, row 4 |  |
-| Activity Ni; _printed: aNi_ | 0.8686 1 | 1000 | UNKNOWN; _alloy: Cu 0.2, Ni 0.8_ | experimental | [2] Srikanth 1989 | Table 1, p. 4, row 8 |  |
-| Activity Ni; _printed: aNi_ | 0.5985 1 | 1000 | UNKNOWN; _alloy: Cu 0.7, Ni 0.3_ | experimental | [2] Srikanth 1989 | Table 1, p. 4, row 3 |  |
-| Activity Ni; _printed: aNi_ | 0.4894 1 | 1000 | UNKNOWN; _alloy: Cu 0.8, Ni 0.2_ | experimental | [2] Srikanth 1989 | Table 1, p. 4, row 2 |  |
-| Activity Ni; _printed: aNi_ | 0.3103 1 | 1000 | UNKNOWN; _alloy: Cu 0.9, Ni 0.1_ | experimental | [2] Srikanth 1989 | Table 1, p. 4, row 1 |  |
-| Activity Ni; _printed: aNi_ | 0.8322 1 | 1000 | UNKNOWN; _alloy: Cu 0.3, Ni 0.7_ | experimental | [2] Srikanth 1989 | Table 1, p. 4, row 7 |  |
-| Activity Ni; _printed: aNi_ | 0.7953 1 | 1000 | UNKNOWN; _alloy: Cu 0.4, Ni 0.6_ | experimental | [2] Srikanth 1989 | Table 1, p. 4, row 6 |  |
-| Activity Ni; _printed: aNi_ | 0.9185 1 | 1000 | UNKNOWN; _alloy: Cu 0.1, Ni 0.9_ | experimental | [2] Srikanth 1989 | Table 1, p. 4, row 9 |  |
-| Activity Ni; _printed: aNi_ | 0.7506 1 | 1000 | UNKNOWN; _alloy: Cu 0.5, Ni 0.5_ | experimental | [2] Srikanth 1989 | Table 1, p. 4, row 5 |  |
-| Activity Ni; _printed: aNi_ | 0.6856 1 | 1000 | UNKNOWN; _alloy: Cu 0.6, Ni 0.4_ | experimental | [2] Srikanth 1989 | Table 1, p. 4, row 4 |  |
-| EMF; _printed: E_ | 6.1 mV | 1000 | UNKNOWN; _alloy: Cu 0.2, Ni 0.8_ | experimental | [2] Srikanth 1989 | Table 1, p. 4, row 8 |  |
-| EMF; _printed: E_ | 22.1 mV | 1000 | UNKNOWN; _alloy: Cu 0.7, Ni 0.3_ | experimental | [2] Srikanth 1989 | Table 1, p. 4, row 3 |  |
-| EMF; _printed: E_ | 30.8 mV | 1000 | UNKNOWN; _alloy: Cu 0.8, Ni 0.2_ | experimental | [2] Srikanth 1989 | Table 1, p. 4, row 2 |  |
-| EMF; _printed: E_ | 50.5 mV | 1000 | UNKNOWN; _alloy: Cu 0.9, Ni 0.1_ | experimental | [2] Srikanth 1989 | Table 1, p. 4, row 1 |  |
-| EMF; _printed: E_ | 7.9 mV | 1000 | UNKNOWN; _alloy: Cu 0.3, Ni 0.7_ | experimental | [2] Srikanth 1989 | Table 1, p. 4, row 7 |  |
-| EMF; _printed: E_ | 9.9 mV | 1000 | UNKNOWN; _alloy: Cu 0.4, Ni 0.6_ | experimental | [2] Srikanth 1989 | Table 1, p. 4, row 6 |  |
-| EMF; _printed: E_ | 3.7 mV | 1000 | UNKNOWN; _alloy: Cu 0.1, Ni 0.9_ | experimental | [2] Srikanth 1989 | Table 1, p. 4, row 9 |  |
-| EMF; _printed: E_ | 12.4 mV | 1000 | UNKNOWN; _alloy: Cu 0.5, Ni 0.5_ | experimental | [2] Srikanth 1989 | Table 1, p. 4, row 5 |  |
-| EMF; _printed: E_ | 16.3 mV | 1000 | UNKNOWN; _alloy: Cu 0.6, Ni 0.4_ | experimental | [2] Srikanth 1989 | Table 1, p. 4, row 4 |  |
-| Gibbs energy; _printed: ΔfG°(CuI) - ΔfG°(0.5NiI2)_ | 39 kJ mol-1 | 1000 |  | experimental | [2] Srikanth 1989; _cites KUBASCHEWSKI 1979_ | p. 6 | “Since the standard Gibbs' energies of formation of CuI and 0'5NiI2 differ by only 39 kJ mol-1 (Ref. 30) at 1000 K, it is possible that their measurements may be affected by the displacement reaction Ni(alloy) + 2Cu + ~ Nj2+ + 2Cu(alloy)” |
+| Activity Cu; _printed: aCu_ | 0.5141 1 | 1000 | UNKNOWN; _alloy: Cu 0.2, Ni 0.8_ | experimental | [2] Srikanth 1989 | Table 1, p. 4, row 8; `ORC-5MEPERYJCL.8faa72` |  |
+| Activity Cu; _printed: aCu_ | 0.7926 1 | 1000 | UNKNOWN; _alloy: Cu 0.7, Ni 0.3_ | experimental | [2] Srikanth 1989 | Table 1, p. 4, row 3; `ORC-5XYQJEMZ2N.0bc5e1` |  |
+| Activity Cu; _printed: aCu_ | 0.8463 1 | 1000 | UNKNOWN; _alloy: Cu 0.8, Ni 0.2_ | experimental | [2] Srikanth 1989 | Table 1, p. 4, row 2; `ORC-7Q5B7KK6BM.b409e7` |  |
+| Activity Cu; _printed: aCu_ | 0.9128 1 | 1000 | UNKNOWN; _alloy: Cu 0.9, Ni 0.1_ | experimental | [2] Srikanth 1989 | Table 1, p. 4, row 1; `ORC-C3DI5KDVRN.aae52a` |  |
+| Activity Cu; _printed: aCu_ | 0.5873 1 | 1000 | UNKNOWN; _alloy: Cu 0.3, Ni 0.7_ | experimental | [2] Srikanth 1989 | Table 1, p. 4, row 7; `ORC-M3GPQTXI67.3fbee9` |  |
+| Activity Cu; _printed: aCu_ | 0.6391 1 | 1000 | UNKNOWN; _alloy: Cu 0.4, Ni 0.6_ | experimental | [2] Srikanth 1989 | Table 1, p. 4, row 6; `ORC-NLCSWJRWJL.d62675` |  |
+| Activity Cu; _printed: aCu_ | 0.3649 1 | 1000 | UNKNOWN; _alloy: Cu 0.1, Ni 0.9_ | experimental | [2] Srikanth 1989 | Table 1, p. 4, row 9; `ORC-OVBISCQRR3.0d531c` |  |
+| Activity Cu; _printed: aCu_ | 0.6856 1 | 1000 | UNKNOWN; _alloy: Cu 0.5, Ni 0.5_ | experimental | [2] Srikanth 1989 | Table 1, p. 4, row 5; `ORC-SXW2H2R4L3.e76519` |  |
+| Activity Cu; _printed: aCu_ | 0.7376 1 | 1000 | UNKNOWN; _alloy: Cu 0.6, Ni 0.4_ | experimental | [2] Srikanth 1989 | Table 1, p. 4, row 4; `ORC-ZR6JQH755A.9414f6` |  |
+| Activity Ni; _printed: aNi_ | 0.8686 1 | 1000 | UNKNOWN; _alloy: Cu 0.2, Ni 0.8_ | experimental | [2] Srikanth 1989 | Table 1, p. 4, row 8; `ORC-5MEPERYJCL.657690` |  |
+| Activity Ni; _printed: aNi_ | 0.5985 1 | 1000 | UNKNOWN; _alloy: Cu 0.7, Ni 0.3_ | experimental | [2] Srikanth 1989 | Table 1, p. 4, row 3; `ORC-5XYQJEMZ2N.4317bb` |  |
+| Activity Ni; _printed: aNi_ | 0.4894 1 | 1000 | UNKNOWN; _alloy: Cu 0.8, Ni 0.2_ | experimental | [2] Srikanth 1989 | Table 1, p. 4, row 2; `ORC-7Q5B7KK6BM.68ac20` |  |
+| Activity Ni; _printed: aNi_ | 0.3103 1 | 1000 | UNKNOWN; _alloy: Cu 0.9, Ni 0.1_ | experimental | [2] Srikanth 1989 | Table 1, p. 4, row 1; `ORC-C3DI5KDVRN.f5319d` |  |
+| Activity Ni; _printed: aNi_ | 0.8322 1 | 1000 | UNKNOWN; _alloy: Cu 0.3, Ni 0.7_ | experimental | [2] Srikanth 1989 | Table 1, p. 4, row 7; `ORC-M3GPQTXI67.ae8b5d` |  |
+| Activity Ni; _printed: aNi_ | 0.7953 1 | 1000 | UNKNOWN; _alloy: Cu 0.4, Ni 0.6_ | experimental | [2] Srikanth 1989 | Table 1, p. 4, row 6; `ORC-NLCSWJRWJL.fc62d0` |  |
+| Activity Ni; _printed: aNi_ | 0.9185 1 | 1000 | UNKNOWN; _alloy: Cu 0.1, Ni 0.9_ | experimental | [2] Srikanth 1989 | Table 1, p. 4, row 9; `ORC-OVBISCQRR3.2d4099` |  |
+| Activity Ni; _printed: aNi_ | 0.7506 1 | 1000 | UNKNOWN; _alloy: Cu 0.5, Ni 0.5_ | experimental | [2] Srikanth 1989 | Table 1, p. 4, row 5; `ORC-SXW2H2R4L3.a951e6` |  |
+| Activity Ni; _printed: aNi_ | 0.6856 1 | 1000 | UNKNOWN; _alloy: Cu 0.6, Ni 0.4_ | experimental | [2] Srikanth 1989 | Table 1, p. 4, row 4; `ORC-ZR6JQH755A.03d344` |  |
+| EMF; _printed: E_ | 6.1 mV | 1000 | UNKNOWN; _alloy: Cu 0.2, Ni 0.8_ | experimental | [2] Srikanth 1989 | Table 1, p. 4, row 8; `ORC-5MEPERYJCL.337fc2` |  |
+| EMF; _printed: E_ | 22.1 mV | 1000 | UNKNOWN; _alloy: Cu 0.7, Ni 0.3_ | experimental | [2] Srikanth 1989 | Table 1, p. 4, row 3; `ORC-5XYQJEMZ2N.07f833` |  |
+| EMF; _printed: E_ | 30.8 mV | 1000 | UNKNOWN; _alloy: Cu 0.8, Ni 0.2_ | experimental | [2] Srikanth 1989 | Table 1, p. 4, row 2; `ORC-7Q5B7KK6BM.ff0a8e` |  |
+| EMF; _printed: E_ | 50.5 mV | 1000 | UNKNOWN; _alloy: Cu 0.9, Ni 0.1_ | experimental | [2] Srikanth 1989 | Table 1, p. 4, row 1; `ORC-C3DI5KDVRN.d13afb` |  |
+| EMF; _printed: E_ | 7.9 mV | 1000 | UNKNOWN; _alloy: Cu 0.3, Ni 0.7_ | experimental | [2] Srikanth 1989 | Table 1, p. 4, row 7; `ORC-M3GPQTXI67.f0fd88` |  |
+| EMF; _printed: E_ | 9.9 mV | 1000 | UNKNOWN; _alloy: Cu 0.4, Ni 0.6_ | experimental | [2] Srikanth 1989 | Table 1, p. 4, row 6; `ORC-NLCSWJRWJL.0619bb` |  |
+| EMF; _printed: E_ | 3.7 mV | 1000 | UNKNOWN; _alloy: Cu 0.1, Ni 0.9_ | experimental | [2] Srikanth 1989 | Table 1, p. 4, row 9; `ORC-OVBISCQRR3.5a6146` |  |
+| EMF; _printed: E_ | 12.4 mV | 1000 | UNKNOWN; _alloy: Cu 0.5, Ni 0.5_ | experimental | [2] Srikanth 1989 | Table 1, p. 4, row 5; `ORC-SXW2H2R4L3.0c666f` |  |
+| EMF; _printed: E_ | 16.3 mV | 1000 | UNKNOWN; _alloy: Cu 0.6, Ni 0.4_ | experimental | [2] Srikanth 1989 | Table 1, p. 4, row 4; `ORC-ZR6JQH755A.c9f27e` |  |
+| Gibbs energy; _printed: ΔfG°(CuI) - ΔfG°(0.5NiI2)_ | 39 kJ mol-1 | 1000 |  | experimental | [2] Srikanth 1989; _cites KUBASCHEWSKI 1979_ | p. 6; `ORC-UNMFYHKB64` | “Since the standard Gibbs' energies of formation of CuI and 0'5NiI2 differ by only 39 kJ mol-1 (Ref. 30) at 1000 K, it is possible that their measurements may be affected by the displacement reaction Ni(alloy) + 2Cu + ~ Nj2+ + 2Cu(alloy)” |
 
 ## Sources
 
@@ -180,4 +180,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -62,11 +62,11 @@ Table: Invariant reactions reported in the literature for the Cd–Pu system (5)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1073 | peritectic |  | experimental | [1] Kurata 2001 | p. 2 | “The peritectic temperatures of Cd11Pu, Cd6Pu, and Cd4Pu were 683, 1003, and 1073 K, respectively.” |
-| 1003 | peritectic |  | experimental | [1] Kurata 2001 | p. 2 | “The peritectic temperatures of Cd11Pu, Cd6Pu, and Cd4Pu were 683, 1003, and 1073 K, respectively.” |
-| 683 | peritectic |  | experimental | [1] Kurata 2001 | p. 2 | “The peritectic temperatures of Cd11Pu, Cd6Pu, and Cd4Pu were 683, 1003, and 1073 K, respectively.” |
-| 679 | peritectic |  | experimental | [1] Kurata 2001 | p. 2 | “The Cd11Pu decomposed peritectically at 679 K.” |
-| 670 | peritectic |  | model | [1] Kurata 2001 | p. 7 | “A discontinuity is observed in the Np and Pu curves at approximately 750 and 670 K, respectively. This corresponds to the peritectic temperature.” |
+| 1073 | peritectic |  | experimental | [1] Kurata 2001 | p. 2; `ORC-MTQNUASFIP.8fb915` | “The peritectic temperatures of Cd11Pu, Cd6Pu, and Cd4Pu were 683, 1003, and 1073 K, respectively.” |
+| 1003 | peritectic |  | experimental | [1] Kurata 2001 | p. 2; `ORC-MTQNUASFIP.bc0f51` | “The peritectic temperatures of Cd11Pu, Cd6Pu, and Cd4Pu were 683, 1003, and 1073 K, respectively.” |
+| 683 | peritectic |  | experimental | [1] Kurata 2001 | p. 2; `ORC-MTQNUASFIP.482d08` | “The peritectic temperatures of Cd11Pu, Cd6Pu, and Cd4Pu were 683, 1003, and 1073 K, respectively.” |
+| 679 | peritectic |  | experimental | [1] Kurata 2001 | p. 2; `ORC-GMP2BTR5QA` | “The Cd11Pu decomposed peritectically at 679 K.” |
+| 670 | peritectic |  | model | [1] Kurata 2001 | p. 7; `ORC-EI2R22BAAN.deb943` | “A discontinuity is observed in the Np and Pu curves at approximately 750 and 670 K, respectively. This corresponds to the peritectic temperature.” |
 
 ## Other properties
 
@@ -76,17 +76,17 @@ Table: Phase transition, Cd–Pu system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 669 K | 669 |  | experimental | [1] Kurata 2001 | p. 8 | “Since the decomposition temperatures of the Cd11M-type compound are 748 and 669 K for the U-Cd and Pu-Cd binary subsystems, respectively, the calculations were carried out at 668 and 718 K.” |
-| Phase transition | 669 K | 669 | Cd11Pu | model | [1] Kurata 2001 | Table 3, p. 5, row 3 |  |
-| Phase transition | 672 K | 672 | Cd11Pu | experimental | [1] Kurata 2001; _cites Johnson 1966_ | Table 3, p. 5, row 2 |  |
-| Phase transition | 683 K | 683 | Cd11Pu | experimental | [1] Kurata 2001; _cites Massalski 1990_ | Table 3, p. 5, row 1 |  |
-| Phase transition | 1003 K | 1003 | Cd6Pu | experimental | [1] Kurata 2001; _cites Massalski 1990_ | Table 3, p. 5, row 4 |  |
-| Phase transition | 1004 K | 1004 | Cd6Pu | model | [1] Kurata 2001 | Table 3, p. 5, row 5 |  |
-| Phase transition | 1073 K | 1073 | Cd4Pu | experimental | [1] Kurata 2001; _cites Massalski 1990_ | Table 3, p. 5, row 6 |  |
-| Phase transition | 1073 K | 1073 | Cd4Pu | model | [1] Kurata 2001 | Table 3, p. 5, row 7 |  |
-| Phase transition | 1218 K | 1218 | Cd2Pu | experimental | [1] Kurata 2001; _cites Massalski 1990_ | Table 3, p. 5, row 8 |  |
-| Phase transition | 1218 K | 1218 | Cd2Pu | model | [1] Kurata 2001 | Table 3, p. 5, row 9 |  |
-| Phase transition | 1218 K | 1218 | congruent transformation | experimental | [1] Kurata 2001 | p. 2 | “The Cd2Pu decomposed congruently at 1218 K.” |
+| Phase transition | 669 K | 669 |  | experimental | [1] Kurata 2001 | p. 8; `ORC-T6LRZBVUPH` | “Since the decomposition temperatures of the Cd11M-type compound are 748 and 669 K for the U-Cd and Pu-Cd binary subsystems, respectively, the calculations were carried out at 668 and 718 K.” |
+| Phase transition | 669 K | 669 | Cd11Pu | model | [1] Kurata 2001 | Table 3, p. 5, row 3; `ORC-GXDBUE5NKF` |  |
+| Phase transition | 672 K | 672 | Cd11Pu | experimental | [1] Kurata 2001; _cites Johnson 1966_ | Table 3, p. 5, row 2; `ORC-LODQYOPZM5` |  |
+| Phase transition | 683 K | 683 | Cd11Pu | experimental | [1] Kurata 2001; _cites Massalski 1990_ | Table 3, p. 5, row 1; `ORC-5UX35FJS2G` |  |
+| Phase transition | 1003 K | 1003 | Cd6Pu | experimental | [1] Kurata 2001; _cites Massalski 1990_ | Table 3, p. 5, row 4; `ORC-KM3HDUET5Q` |  |
+| Phase transition | 1004 K | 1004 | Cd6Pu | model | [1] Kurata 2001 | Table 3, p. 5, row 5; `ORC-CNCCUBGELQ` |  |
+| Phase transition | 1073 K | 1073 | Cd4Pu | experimental | [1] Kurata 2001; _cites Massalski 1990_ | Table 3, p. 5, row 6; `ORC-LCRI52MFPB` |  |
+| Phase transition | 1073 K | 1073 | Cd4Pu | model | [1] Kurata 2001 | Table 3, p. 5, row 7; `ORC-WBZH3I3YEN` |  |
+| Phase transition | 1218 K | 1218 | Cd2Pu | experimental | [1] Kurata 2001; _cites Massalski 1990_ | Table 3, p. 5, row 8; `ORC-DYR7TVOIGB` |  |
+| Phase transition | 1218 K | 1218 | Cd2Pu | model | [1] Kurata 2001 | Table 3, p. 5, row 9; `ORC-UD3LPQKB4S` |  |
+| Phase transition | 1218 K | 1218 | congruent transformation | experimental | [1] Kurata 2001 | p. 2; `ORC-AKEVZZB7DK` | “The Cd2Pu decomposed congruently at 1218 K.” |
 
 ## Sources
 
@@ -151,4 +151,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

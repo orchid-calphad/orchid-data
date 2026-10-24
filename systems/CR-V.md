@@ -44,9 +44,9 @@ Table: Phase transition, Cr–V system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 310 K | 310 | magnetic | experimental | [1] Smith 1982; _cites Bolef 1963_ [doi](https://doi.org/10.1103/physrev.129.1063) | p. 3 | “Pure Cr is antiferromagnetic with a Ndel temperature near 310 K \[63Bol, 61Bac\].” |
-| Phase transition | 2023.15 K | 2023.15 | other | experimental | [1] Smith 1982; _cites Carlson 1959_ | p. 1 | “The e a r l i e s t i n v e s t i g a t i o n , by Carlson et al. \[59Car\], was done w i t h c o m p a r a t i v e l y poor q u a l i t y m e t a l (99.7 wt.% V and 99 + wt.% Cr) and, even t h o u g h t h e melting points of t h a t i n v e s t i g a t i o n are low because of the low purity, the d a t a indicate a m i n i m u m in the m e l t i n g of V-Cr alloys n e a r 70 at.% Cr and 1750 ~” |
-| Phase transition | 2068.15 K | 2068.15 | other | experimental | [1] Smith 1982; _cites Yu 1971_ | p. 1 | “The t h i r d investigation, by Kocherzhinskii and S h i s h k i n \[71Koc\], a g a i n r e p o r t e d a m e l t i n g m i n i m u m , b u t on t h e o t h e r side of t h e s y s t e m n e a r 25 at.% Cr a n d 1795 ~” |
+| Phase transition | 310 K | 310 | magnetic | experimental | [1] Smith 1982; _cites Bolef 1963_ [doi](https://doi.org/10.1103/physrev.129.1063) | p. 3; `ORC-QOQCEPH2IP` | “Pure Cr is antiferromagnetic with a Ndel temperature near 310 K \[63Bol, 61Bac\].” |
+| Phase transition | 2023.15 K | 2023.15 | other | experimental | [1] Smith 1982; _cites Carlson 1959_ | p. 1; `ORC-EL2DQLTADO` | “The e a r l i e s t i n v e s t i g a t i o n , by Carlson et al. \[59Car\], was done w i t h c o m p a r a t i v e l y poor q u a l i t y m e t a l (99.7 wt.% V and 99 + wt.% Cr) and, even t h o u g h t h e melting points of t h a t i n v e s t i g a t i o n are low because of the low purity, the d a t a indicate a m i n i m u m in the m e l t i n g of V-Cr alloys n e a r 70 at.% Cr and 1750 ~” |
+| Phase transition | 2068.15 K | 2068.15 | other | experimental | [1] Smith 1982; _cites Yu 1971_ | p. 1; `ORC-KDWFHIEUW3` | “The t h i r d investigation, by Kocherzhinskii and S h i s h k i n \[71Koc\], a g a i n r e p o r t e d a m e l t i n g m i n i m u m , b u t on t h e o t h e r side of t h e s y s t e m n e a r 25 at.% Cr a n d 1795 ~” |
 
 ### Heat capacity / entropy / enthalpy (12)
 
@@ -54,18 +54,18 @@ Table: Heat capacity / entropy / enthalpy, Cr–V system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: S'298_ | 24.5 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Cr 0.95, V 0.05_ | experimental | [1] Smith 1982; _cites ref. 66Sch_ | Table I, p. 4, row 6 |  |
-| Entropy; _printed: S'298_ | 24.1 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Cr 0.74, V 0.26_ | experimental | [1] Smith 1982; _cites ref. 66Sch_ | Table I, p. 4, row 3 |  |
-| Entropy; _printed: S'298_ | 23.3 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Cr 0.8, V 0.2_ | experimental | [1] Smith 1982; _cites ref. 66Sch_ | Table I, p. 4, row 4 |  |
-| Entropy; _printed: S'298_ | 21.8 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Cr 0.9, V 0.1_ | experimental | [1] Smith 1982; _cites ref. 66Sch_ | Table I, p. 4, row 5 |  |
-| Entropy; _printed: S'298_ | 30.6 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Cr 0.23, V 0.77_ | experimental | [1] Smith 1982; _cites ref. 66Sch_ | Table I, p. 4, row 1 |  |
-| Entropy; _printed: S'298_ | 26.7 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Cr 0.5, V 0.5_ | experimental | [1] Smith 1982; _cites ref. 66Sch_ | Table I, p. 4, row 2 |  |
-| Heat capacity; _printed: Cp, 298_ | 23.58 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Cr 0.95, V 0.05_ | experimental | [1] Smith 1982; _cites ref. 66Sch_ | Table I, p. 4, row 6 |  |
-| Heat capacity; _printed: Cp, 298_ | 23.35 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Cr 0.74, V 0.26_ | experimental | [1] Smith 1982; _cites ref. 66Sch_ | Table I, p. 4, row 3 |  |
-| Heat capacity; _printed: Cp, 298_ | 23.56 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Cr 0.8, V 0.2_ | experimental | [1] Smith 1982; _cites ref. 66Sch_ | Table I, p. 4, row 4 |  |
-| Heat capacity; _printed: Cp, 298_ | 23.11 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Cr 0.9, V 0.1_ | experimental | [1] Smith 1982; _cites ref. 66Sch_ | Table I, p. 4, row 5 |  |
-| Heat capacity; _printed: Cp, 298_ | 25.13 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Cr 0.23, V 0.77_ | experimental | [1] Smith 1982; _cites ref. 66Sch_ | Table I, p. 4, row 1 |  |
-| Heat capacity; _printed: Cp, 298_ | 24.48 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Cr 0.5, V 0.5_ | experimental | [1] Smith 1982; _cites ref. 66Sch_ | Table I, p. 4, row 2 |  |
+| Entropy; _printed: S'298_ | 24.5 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Cr 0.95, V 0.05_ | experimental | [1] Smith 1982; _cites ref. 66Sch_ | Table I, p. 4, row 6; `ORC-CVGPP2EES2.902166` |  |
+| Entropy; _printed: S'298_ | 24.1 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Cr 0.74, V 0.26_ | experimental | [1] Smith 1982; _cites ref. 66Sch_ | Table I, p. 4, row 3; `ORC-EPYUWME3S2.4b91f9` |  |
+| Entropy; _printed: S'298_ | 23.3 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Cr 0.8, V 0.2_ | experimental | [1] Smith 1982; _cites ref. 66Sch_ | Table I, p. 4, row 4; `ORC-HLSQ32LD7W.813e3a` |  |
+| Entropy; _printed: S'298_ | 21.8 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Cr 0.9, V 0.1_ | experimental | [1] Smith 1982; _cites ref. 66Sch_ | Table I, p. 4, row 5; `ORC-HRCXWJ5ASY.680328` |  |
+| Entropy; _printed: S'298_ | 30.6 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Cr 0.23, V 0.77_ | experimental | [1] Smith 1982; _cites ref. 66Sch_ | Table I, p. 4, row 1; `ORC-MFUTBPJ73V.a91205` |  |
+| Entropy; _printed: S'298_ | 26.7 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Cr 0.5, V 0.5_ | experimental | [1] Smith 1982; _cites ref. 66Sch_ | Table I, p. 4, row 2; `ORC-NKAWVPI72A.406946` |  |
+| Heat capacity; _printed: Cp, 298_ | 23.58 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Cr 0.95, V 0.05_ | experimental | [1] Smith 1982; _cites ref. 66Sch_ | Table I, p. 4, row 6; `ORC-CVGPP2EES2.280500` |  |
+| Heat capacity; _printed: Cp, 298_ | 23.35 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Cr 0.74, V 0.26_ | experimental | [1] Smith 1982; _cites ref. 66Sch_ | Table I, p. 4, row 3; `ORC-EPYUWME3S2.d891c2` |  |
+| Heat capacity; _printed: Cp, 298_ | 23.56 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Cr 0.8, V 0.2_ | experimental | [1] Smith 1982; _cites ref. 66Sch_ | Table I, p. 4, row 4; `ORC-HLSQ32LD7W.9589eb` |  |
+| Heat capacity; _printed: Cp, 298_ | 23.11 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Cr 0.9, V 0.1_ | experimental | [1] Smith 1982; _cites ref. 66Sch_ | Table I, p. 4, row 5; `ORC-HRCXWJ5ASY.fb9198` |  |
+| Heat capacity; _printed: Cp, 298_ | 25.13 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Cr 0.23, V 0.77_ | experimental | [1] Smith 1982; _cites ref. 66Sch_ | Table I, p. 4, row 1; `ORC-MFUTBPJ73V.867731` |  |
+| Heat capacity; _printed: Cp, 298_ | 24.48 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Cr 0.5, V 0.5_ | experimental | [1] Smith 1982; _cites ref. 66Sch_ | Table I, p. 4, row 2; `ORC-NKAWVPI72A.a2b053` |  |
 
 ## Sources
 
@@ -130,4 +130,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

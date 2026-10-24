@@ -14,14 +14,14 @@ Table: Enthalpy of formation of Fe2Hf reported in the literature (8)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -39.4 kJ/mol-atom ± 4.3 | Fe2Hf-HT | 1723 | experimental | Calorimetry | [Fe–Hf](https://data.orchid-project.org/systems/FE-HF.html) | [1] Idbenali 2008; _cites Gachon 1992_ [doi](https://doi.org/10.1007/bf02665763) | Table 2, p. 3, row 1 |  |
-| -12.3 kJ/mol-atom ± 1.1 | Fe2Hf-HT | 1373 | experimental | Calorimetry | [Fe–Hf](https://data.orchid-project.org/systems/FE-HF.html) | [1] Idbenali 2008; _cites Meschel 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.08.006) | Table 2, p. 3, row 4 |  |
-| -40.33 kJ/mol-atom | Fe2Hf-HT | 1723 | model | Optimization | [Fe–Hf](https://data.orchid-project.org/systems/FE-HF.html) | [1] Idbenali 2008 | Table 2, p. 3, row 5 |  |
-| -39.86 kJ/mol-atom | Fe2Hf-LT | 1460 | model | Optimization | [Fe–Hf](https://data.orchid-project.org/systems/FE-HF.html) | [1] Idbenali 2008 | Table 2, p. 3, row 7 |  |
-| -39.847 kJ/mol-atom | Fe2Hf-LT | 1480 | model | Optimization | [Fe–Hf](https://data.orchid-project.org/systems/FE-HF.html) | [1] Idbenali 2008 | Table 2, p. 3, row 6 |  |
-| -34.525 kJ/mol-atom | Fe2Hf-LT | 298.15 | model | Optimization | [Fe–Hf](https://data.orchid-project.org/systems/FE-HF.html) | [1] Idbenali 2008 | Table 2, p. 3, row 8 |  |
-| -28 kJ/mol-atom | Fe2Hf-HT | 298.15 | model | Prediction | [Fe–Hf](https://data.orchid-project.org/systems/FE-HF.html) | [1] Idbenali 2008; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 2, p. 3, row 3 |  |
-| -25 kJ/mol-atom | Fe2Hf-HT |  | model | Calculation | [Fe–Hf](https://data.orchid-project.org/systems/FE-HF.html) | [1] Idbenali 2008; _cites Colinet 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990032-x) | Table 2, p. 3, row 2 |  |
+| -39.4 kJ/mol-atom ± 4.3 | Fe2Hf-HT | 1723 | experimental | Calorimetry | [Fe–Hf](https://data.orchid-project.org/systems/FE-HF.html) | [1] Idbenali 2008; _cites Gachon 1992_ [doi](https://doi.org/10.1007/bf02665763) | Table 2, p. 3, row 1; `ORC-U33KIRTKYB` |  |
+| -12.3 kJ/mol-atom ± 1.1 | Fe2Hf-HT | 1373 | experimental | Calorimetry | [Fe–Hf](https://data.orchid-project.org/systems/FE-HF.html) | [1] Idbenali 2008; _cites Meschel 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.08.006) | Table 2, p. 3, row 4; `ORC-QJ56PUEUMY` |  |
+| -40.33 kJ/mol-atom | Fe2Hf-HT | 1723 | model | Optimization | [Fe–Hf](https://data.orchid-project.org/systems/FE-HF.html) | [1] Idbenali 2008 | Table 2, p. 3, row 5; `ORC-33R32KVOQ6` |  |
+| -39.86 kJ/mol-atom | Fe2Hf-LT | 1460 | model | Optimization | [Fe–Hf](https://data.orchid-project.org/systems/FE-HF.html) | [1] Idbenali 2008 | Table 2, p. 3, row 7; `ORC-2635SW7ZRV` |  |
+| -39.847 kJ/mol-atom | Fe2Hf-LT | 1480 | model | Optimization | [Fe–Hf](https://data.orchid-project.org/systems/FE-HF.html) | [1] Idbenali 2008 | Table 2, p. 3, row 6; `ORC-PKTL5ELOYF` |  |
+| -34.525 kJ/mol-atom | Fe2Hf-LT | 298.15 | model | Optimization | [Fe–Hf](https://data.orchid-project.org/systems/FE-HF.html) | [1] Idbenali 2008 | Table 2, p. 3, row 8; `ORC-VV7IHGPMSC` |  |
+| -28 kJ/mol-atom | Fe2Hf-HT | 298.15 | model | Prediction | [Fe–Hf](https://data.orchid-project.org/systems/FE-HF.html) | [1] Idbenali 2008; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 2, p. 3, row 3; `ORC-P4EXKTIHXS` |  |
+| -25 kJ/mol-atom | Fe2Hf-HT |  | model | Calculation | [Fe–Hf](https://data.orchid-project.org/systems/FE-HF.html) | [1] Idbenali 2008; _cites Colinet 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990032-x) | Table 2, p. 3, row 2; `ORC-TNJW5QELWK` |  |
 
 ### Uncertainty budget
 
@@ -104,4 +104,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

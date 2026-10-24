@@ -26,23 +26,23 @@ Table: Invariant reactions reported in the literature for the B–Fe–Mo system
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2606.94 | peritectic: L+MoB+MoB2-x -> τ4 | MoB: B 0.5, Fe 0, Mo 0.5 | unspecified | [1] Takahashi 2020 | Table 3, p. 9, row 1 |  |
-| 2486.54 | peritectic: L+τ4+MoB -> τ3 | MoB: B 0.5, Fe 0, Mo 0.5 | unspecified | [1] Takahashi 2020 | Table 3, p. 9, row 2 |  |
-| 2316.66 | quasi-peritectic: L+MoB2-x -> τ4+Mo2B4 |  | unspecified | [1] Takahashi 2020 | Table 3, p. 9, row 3 |  |
-| 1912.98 | quasi-peritectic: L+MoB -> τ3+τ2 | MoB: B 0.5, Fe 0, Mo 0.5 | unspecified | [1] Takahashi 2020 | Table 3, p. 9, row 4 |  |
-| 1892.07 | quasi-peritectic: L+τ3 -> τ2+τ4 |  | unspecified | [1] Takahashi 2020 | Table 3, p. 9, row 5 |  |
-| 1845.35 | quasi-peritectic: L+Mo2B4 -> (βB)+τ4 |  | unspecified | [1] Takahashi 2020 | Table 3, p. 9, row 6 |  |
-| 1815.61 | quasi-peritectic: L+τ4 -> FeB+τ2 |  | unspecified | [1] Takahashi 2020 | Table 3, p. 9, row 7 |  |
-| 1767.67 | eutectic: L -> (βB)+FeB+τ4 |  | unspecified | [1] Takahashi 2020 | Table 3, p. 9, row 8 |  |
-| 1674.31 | quasi-peritectic: L+Mo2B -> (αMo)+τ2 |  | unspecified | [1] Takahashi 2020 | Table 3, p. 9, row 9 |  |
-| 1664.93 | quasi-peritectic: L+(αFe) -> σ+τ2 |  | unspecified | [1] Takahashi 2020 | Table 3, p. 9, row 11 |  |
-| 1643.62 | peritectic: L+R+σ -> μ |  | unspecified | [1] Takahashi 2020 | Table 3, p. 9, row 10 |  |
-| 1630.9 | quasi-peritectic: L+σ -> μ+τ2 |  | unspecified | [1] Takahashi 2020 | Table 3, p. 9, row 12 |  |
-| 1595.21 | quasi-peritectic: L+FeB -> Fe2B+τ2 |  | unspecified | [1] Takahashi 2020 | Table 3, p. 9, row 16 |  |
-| 1574.23 | quasi-peritectic: L+μ -> τ2+R |  | unspecified | [1] Takahashi 2020 | Table 3, p. 9, row 13 |  |
-| 1536.77 | eutectic: L -> (δFe)+τ2+R |  | unspecified | [1] Takahashi 2020 | Table 3, p. 9, row 14 |  |
-| 1459.66 | quasi-peritectic: L+(δFe) -> (γFe)+τ2 |  | unspecified | [1] Takahashi 2020 | Table 3, p. 9, row 15 |  |
-| 1411.92 | eutectic: L -> (γFe)+Fe2B+τ2 |  | unspecified | [1] Takahashi 2020 | Table 3, p. 9, row 17 |  |
+| 2606.94 | peritectic: L+MoB+MoB2-x -> τ4 | MoB: B 0.5, Fe 0, Mo 0.5 | unspecified | [1] Takahashi 2020 | Table 3, p. 9, row 1; `ORC-OOTS5455WS` |  |
+| 2486.54 | peritectic: L+τ4+MoB -> τ3 | MoB: B 0.5, Fe 0, Mo 0.5 | unspecified | [1] Takahashi 2020 | Table 3, p. 9, row 2; `ORC-4B5KG653OQ` |  |
+| 2316.66 | quasi-peritectic: L+MoB2-x -> τ4+Mo2B4 |  | unspecified | [1] Takahashi 2020 | Table 3, p. 9, row 3; `ORC-TO7PXF3JJM` |  |
+| 1912.98 | quasi-peritectic: L+MoB -> τ3+τ2 | MoB: B 0.5, Fe 0, Mo 0.5 | unspecified | [1] Takahashi 2020 | Table 3, p. 9, row 4; `ORC-7SYUJF2YYN` |  |
+| 1892.07 | quasi-peritectic: L+τ3 -> τ2+τ4 |  | unspecified | [1] Takahashi 2020 | Table 3, p. 9, row 5; `ORC-O2CXQWU62V` |  |
+| 1845.35 | quasi-peritectic: L+Mo2B4 -> (βB)+τ4 |  | unspecified | [1] Takahashi 2020 | Table 3, p. 9, row 6; `ORC-SGR27YIIK3` |  |
+| 1815.61 | quasi-peritectic: L+τ4 -> FeB+τ2 |  | unspecified | [1] Takahashi 2020 | Table 3, p. 9, row 7; `ORC-KVVNCBP6EG` |  |
+| 1767.67 | eutectic: L -> (βB)+FeB+τ4 |  | unspecified | [1] Takahashi 2020 | Table 3, p. 9, row 8; `ORC-Q5I6JSN52V` |  |
+| 1674.31 | quasi-peritectic: L+Mo2B -> (αMo)+τ2 |  | unspecified | [1] Takahashi 2020 | Table 3, p. 9, row 9; `ORC-FVSWCB5MCL` |  |
+| 1664.93 | quasi-peritectic: L+(αFe) -> σ+τ2 |  | unspecified | [1] Takahashi 2020 | Table 3, p. 9, row 11; `ORC-3FQRVZV327` |  |
+| 1643.62 | peritectic: L+R+σ -> μ |  | unspecified | [1] Takahashi 2020 | Table 3, p. 9, row 10; `ORC-V3NTSBBKLG` |  |
+| 1630.9 | quasi-peritectic: L+σ -> μ+τ2 |  | unspecified | [1] Takahashi 2020 | Table 3, p. 9, row 12; `ORC-EME3YAN7UK` |  |
+| 1595.21 | quasi-peritectic: L+FeB -> Fe2B+τ2 |  | unspecified | [1] Takahashi 2020 | Table 3, p. 9, row 16; `ORC-GUQ3BEFSF7` |  |
+| 1574.23 | quasi-peritectic: L+μ -> τ2+R |  | unspecified | [1] Takahashi 2020 | Table 3, p. 9, row 13; `ORC-RNP5ZTFUBY` |  |
+| 1536.77 | eutectic: L -> (δFe)+τ2+R |  | unspecified | [1] Takahashi 2020 | Table 3, p. 9, row 14; `ORC-VBH6EWSZHK` |  |
+| 1459.66 | quasi-peritectic: L+(δFe) -> (γFe)+τ2 |  | unspecified | [1] Takahashi 2020 | Table 3, p. 9, row 15; `ORC-IEELMPCGG7` |  |
+| 1411.92 | eutectic: L -> (γFe)+Fe2B+τ2 |  | unspecified | [1] Takahashi 2020 | Table 3, p. 9, row 17; `ORC-K665IAEVKC` |  |
 
 ## Sources
 
@@ -85,4 +85,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

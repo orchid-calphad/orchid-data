@@ -118,42 +118,42 @@ Table: Invariant reactions reported in the literature for the Sn–Zr system (36
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2265 | congruent melting: η \<-> Liq | η: Sn 0.398 | unspecified | [1] Pérez 2008 | Table 5, p. 8, row 12 |  |
-| 2263 | congruent melting: η \<-> Liq | η: Sn 0.412 | unspecified | [1] Pérez 2008; _cites Kwon 1990_ [doi](https://doi.org/10.1021/cm00007a005) | Table 5, p. 8, row 11 |  |
-| 2261 | congruent melting: L = Zr5Sn3 | L: Sn 0.375, Zr 0.625; Zr5Sn3: Sn 0.375, Zr 0.625 | unspecified | [2] Subasic 1998; _cites ref. 83Abr_ | Table 1, p. 3, row 12 |  |
-| 2260 | congruent melting: L = Zr5Sn3 | Zr5Sn3: Sn 0.4 | model | [2] Subasic 1998 | Table 1, p. 3, row 11 |  |
-| 2258 | congruent melting: η \<-> Liq | η: Sn 0.375 | experimental | [1] Pérez 2008; _cites McPherson 1953_ | Table 5, p. 8, row 10 |  |
-| 2245 | congruent melting: Liquid -> Sn3Zr5 | Liquid: Zr 0.625; Sn3Zr5: Zr 0.625 | unspecified | [3] Hämäläinen 1998 | Table I, p. 308, row 6 |  |
-| 2128 | congruent melting: L = β Zr | β Zr: Sn 0 | model | [2] Subasic 1998 | Table 1, p. 3, row 13 |  |
-| 2128 | congruent melting: L = β Zr |  | unspecified | [2] Subasic 1998; _cites ref. 83Abr_ | Table 1, p. 3, row 14 |  |
-| 1868.5 | eutectic: Liquid -> bcc-A2 + Sn3Zr5 | Liquid: Zr 0.892; bcc-A2: Zr 0.844; Sn3Zr5: Zr 0.625 | unspecified | [3] Hämäläinen 1998 | Table I, p. 308, row 1 |  |
-| 1865 | eutectic: L = β Zr + Zr5Sn3 | Zr5Sn3: Sn 0.375, Zr 0.625 | unspecified | [2] Subasic 1998; _cites ref. 83Abr_ | Table 1, p. 3, row 2 |  |
-| 1863 | eutectic: Liq \<-> βZr + η | Liq: Sn 0.191; βZr: Sn 0.17; η: Sn 0.375 | experimental | [1] Pérez 2008; _cites McPherson 1953_ | Table 5, p. 8, row 1 |  |
-| 1859 | eutectic: Liq \<-> βZr + η | Liq: Sn 0.19; βZr: Sn 0.171; η: Sn 0.381 | unspecified | [1] Pérez 2008 | Table 5, p. 8, row 2 |  |
-| 1793 | eutectic: L = β Zr + Zr5Sn3 | L: Sn 0.191; β Zr: Sn 0.17; Zr5Sn3: Sn 0.4 | model | [2] Subasic 1998 | Table 1, p. 3, row 1 |  |
-| 1600 | peritectoid: β Zr + Zr5Sn3 = Zr4Sn | Zr5Sn3: Sn 0.375, Zr 0.625; Zr4Sn: Sn 0.2, Zr 0.8 | unspecified | [2] Subasic 1998; _cites ref. 83Abr_ | Table 1, p. 3, row 4 |  |
-| 1598 | peritectoid: βZr + η \<-> A15 | βZr: Sn 0.12; η: Sn 0.375; A15: Sn 0.2 | experimental | [1] Pérez 2008; _cites McPherson 1953_ | Table 5, p. 8, row 3 |  |
-| 1596 | peritectoid: βZr + η \<-> A15 | βZr: Sn 0.121; η: Sn 0.376; A15: Sn 0.205 | unspecified | [1] Pérez 2008 | Table 5, p. 8, row 4 |  |
-| 1595.5 | peritectoid: bcc-A2 + Sn3Zr5 -> SnZr4 | bcc-A2: Zr 0.891; Sn3Zr5: Zr 0.625; SnZr4: Zr 0.8 | unspecified | [3] Hämäläinen 1998 | Table I, p. 308, row 2 |  |
-| 1593 | peritectoid: β Zr + Zr5Sn3 = Zr4Sn | β Zr: Sn 0.118; Zr5Sn3: Sn 0.4; Zr4Sn: Sn 0.2 | model | [2] Subasic 1998 | Table 1, p. 3, row 3 |  |
-| 1433.3 | peritectoid: Liquid + Sn3Zr5 -> Sn2Zr | Liquid: Zr 0.189; Sn3Zr5: Zr 0.625; Sn2Zr: Zr 0.333 | unspecified | [3] Hämäläinen 1998 | Table I, p. 308, row 4 |  |
-| 1415 | peritectic: Zr5Sn3 + L = ZrSn2 | Zr5Sn3: Sn 0.375, Zr 0.625; ZrSn2: Sn 0.666667, Zr 0.333333 | unspecified | [2] Subasic 1998; _cites ref. 83Abr_ | Table 1, p. 3, row 6 |  |
-| 1413 | peritectic: η + Liq \<-> ZrSn2 | η: Sn 0.367; Liq: Sn 0.7896; ZrSn2: Sn 0.667 | experimental | [1] Pérez 2008; _cites McPherson 1953_ | Table 5, p. 8, row 8 |  |
-| 1412 | peritectic: Zr5Sn3 + L = ZrSn2 | Zr5Sn3: Sn 0.4; L: Sn 0.79; ZrSn2: Sn 0.666 | model | [2] Subasic 1998 | Table 1, p. 3, row 5 |  |
-| 1400 | peritectic: η + Liq \<-> ZrSn2 | η: Sn 0.443; Liq: Sn 0.7876; ZrSn2: Sn 0.667 | unspecified | [1] Pérez 2008 | Table 5, p. 8, row 9 |  |
-| 1255 | peritectoid: β Zr + Zr4Sn = α Zr | Zr4Sn: Sn 0.2, Zr 0.8 | unspecified | [2] Subasic 1998; _cites ref. 83Abr_ | Table 1, p. 3, row 8 |  |
-| 1254 | peritectoid: bcc-A2 + SnZr4 -> hcp-A3 | bcc-A2: Zr 0.968; SnZr4: Zr 0.8; hcp-A3: Zr 0.941 | unspecified | [3] Hämäläinen 1998 | Table I, p. 308, row 3 |  |
-| 1253 | peritectoid: βZr + A15 \<-> αZr | βZr: Sn 0.051; A15: Sn 0.2; αZr: Sn 0.071 | experimental | [1] Pérez 2008; _cites McPherson 1953_ | Table 5, p. 8, row 5 |  |
-| 1252 | peritectoid: β Zr + Zr4Sn = α Zr | β Zr: Sn 0.049; Zr4Sn: Sn 0.2; α Zr: Sn 0.073 | model | [2] Subasic 1998 | Table 1, p. 3, row 7 |  |
-| 1216 | peritectoid: βZr + A15 ↔ αZr |  | experimental | [1] Pérez 2008 | p. 9 | “- The temperature of the peritectoid reaction βZr + A15 ↔ αZr was measured at 1216 K, 40 K below the previously reported values.” |
-| 1216 | peritectoid: βZr + A15 \<-> αZr | βZr: Sn 0.045; A15: Sn 0.195; αZr: Sn 0.065 | unspecified | [1] Pérez 2008 | Table 5, p. 8, row 7 |  |
-| 1216 | peritectoid: βZr + A15 \<-> αZr | A15: Sn 0.2, Zr 0.8 | experimental | [1] Pérez 2008 | Table 5, p. 8, row 6 |  |
-| 1216 | peritectoid: A15 + βZr ↔ αZr |  | experimental | [1] Pérez 2008 | p. 5 | “However, we used the temperature of the peritectoid reaction A15 + βZr ↔ αZr determined in the present work, 1216 ± 5 K, which is 40◦ lower than the value reported in Ref. \[1\] and adopted in previous assessments.” |
-| 505 | congruent melting: L = β Sn |  | unspecified | [2] Subasic 1998; _cites ref. 83Abr_ | Table 1, p. 3, row 18 |  |
-| 504 | eutectic: L = ZrSn2 + β Sn | ZrSn2: Sn 0.666667, Zr 0.333333 | unspecified | [2] Subasic 1998; _cites ref. 83Abr_ | Table 1, p. 3, row 10 |  |
-| 503 | congruent melting: L = β Sn | β Sn: Sn 1 | model | [2] Subasic 1998 | Table 1, p. 3, row 17 |  |
-| 503 | eutectic: L = ZrSn2 + β Sn | ZrSn2: Sn 0.666; β Sn: Sn 1 | model | [2] Subasic 1998 | Table 1, p. 3, row 9 |  |
-| 502 | eutectic: Liquid -> Sn2Zr + bct-A5 | Liquid: Zr 0.0056; Sn2Zr: Zr 0.333; bct-A5: Zr 0 | unspecified | [3] Hämäläinen 1998 | Table I, p. 308, row 5 |  |
+| 2265 | congruent melting: η \<-> Liq | η: Sn 0.398 | unspecified | [1] Pérez 2008 | Table 5, p. 8, row 12; `ORC-FNFMMC7KDI` |  |
+| 2263 | congruent melting: η \<-> Liq | η: Sn 0.412 | unspecified | [1] Pérez 2008; _cites Kwon 1990_ [doi](https://doi.org/10.1021/cm00007a005) | Table 5, p. 8, row 11; `ORC-TRX7YOWFIR` |  |
+| 2261 | congruent melting: L = Zr5Sn3 | L: Sn 0.375, Zr 0.625; Zr5Sn3: Sn 0.375, Zr 0.625 | unspecified | [2] Subasic 1998; _cites ref. 83Abr_ | Table 1, p. 3, row 12; `ORC-LT6Q6VROMX` |  |
+| 2260 | congruent melting: L = Zr5Sn3 | Zr5Sn3: Sn 0.4 | model | [2] Subasic 1998 | Table 1, p. 3, row 11; `ORC-GK4OKD2FDP` |  |
+| 2258 | congruent melting: η \<-> Liq | η: Sn 0.375 | experimental | [1] Pérez 2008; _cites McPherson 1953_ | Table 5, p. 8, row 10; `ORC-VW47UG4E2T` |  |
+| 2245 | congruent melting: Liquid -> Sn3Zr5 | Liquid: Zr 0.625; Sn3Zr5: Zr 0.625 | unspecified | [3] Hämäläinen 1998 | Table I, p. 308, row 6; `ORC-EVQOCKYJL7` |  |
+| 2128 | congruent melting: L = β Zr | β Zr: Sn 0 | model | [2] Subasic 1998 | Table 1, p. 3, row 13; `ORC-ISEHRRQSBR` |  |
+| 2128 | congruent melting: L = β Zr |  | unspecified | [2] Subasic 1998; _cites ref. 83Abr_ | Table 1, p. 3, row 14; `ORC-SSJUME7TJC` |  |
+| 1868.5 | eutectic: Liquid -> bcc-A2 + Sn3Zr5 | Liquid: Zr 0.892; bcc-A2: Zr 0.844; Sn3Zr5: Zr 0.625 | unspecified | [3] Hämäläinen 1998 | Table I, p. 308, row 1; `ORC-QU644NHWJB` |  |
+| 1865 | eutectic: L = β Zr + Zr5Sn3 | Zr5Sn3: Sn 0.375, Zr 0.625 | unspecified | [2] Subasic 1998; _cites ref. 83Abr_ | Table 1, p. 3, row 2; `ORC-I2F56TW6OY` |  |
+| 1863 | eutectic: Liq \<-> βZr + η | Liq: Sn 0.191; βZr: Sn 0.17; η: Sn 0.375 | experimental | [1] Pérez 2008; _cites McPherson 1953_ | Table 5, p. 8, row 1; `ORC-P5JMFHPF5A` |  |
+| 1859 | eutectic: Liq \<-> βZr + η | Liq: Sn 0.19; βZr: Sn 0.171; η: Sn 0.381 | unspecified | [1] Pérez 2008 | Table 5, p. 8, row 2; `ORC-4RCTNTS4CX` |  |
+| 1793 | eutectic: L = β Zr + Zr5Sn3 | L: Sn 0.191; β Zr: Sn 0.17; Zr5Sn3: Sn 0.4 | model | [2] Subasic 1998 | Table 1, p. 3, row 1; `ORC-J3IYSCUJF7` |  |
+| 1600 | peritectoid: β Zr + Zr5Sn3 = Zr4Sn | Zr5Sn3: Sn 0.375, Zr 0.625; Zr4Sn: Sn 0.2, Zr 0.8 | unspecified | [2] Subasic 1998; _cites ref. 83Abr_ | Table 1, p. 3, row 4; `ORC-Q3MLW5CSMA` |  |
+| 1598 | peritectoid: βZr + η \<-> A15 | βZr: Sn 0.12; η: Sn 0.375; A15: Sn 0.2 | experimental | [1] Pérez 2008; _cites McPherson 1953_ | Table 5, p. 8, row 3; `ORC-B4P5DPUCI7` |  |
+| 1596 | peritectoid: βZr + η \<-> A15 | βZr: Sn 0.121; η: Sn 0.376; A15: Sn 0.205 | unspecified | [1] Pérez 2008 | Table 5, p. 8, row 4; `ORC-HIXTATI7VJ` |  |
+| 1595.5 | peritectoid: bcc-A2 + Sn3Zr5 -> SnZr4 | bcc-A2: Zr 0.891; Sn3Zr5: Zr 0.625; SnZr4: Zr 0.8 | unspecified | [3] Hämäläinen 1998 | Table I, p. 308, row 2; `ORC-KEUUNKG25W` |  |
+| 1593 | peritectoid: β Zr + Zr5Sn3 = Zr4Sn | β Zr: Sn 0.118; Zr5Sn3: Sn 0.4; Zr4Sn: Sn 0.2 | model | [2] Subasic 1998 | Table 1, p. 3, row 3; `ORC-QK5FQWGLKL` |  |
+| 1433.3 | peritectoid: Liquid + Sn3Zr5 -> Sn2Zr | Liquid: Zr 0.189; Sn3Zr5: Zr 0.625; Sn2Zr: Zr 0.333 | unspecified | [3] Hämäläinen 1998 | Table I, p. 308, row 4; `ORC-CJBMDYCRRS` |  |
+| 1415 | peritectic: Zr5Sn3 + L = ZrSn2 | Zr5Sn3: Sn 0.375, Zr 0.625; ZrSn2: Sn 0.666667, Zr 0.333333 | unspecified | [2] Subasic 1998; _cites ref. 83Abr_ | Table 1, p. 3, row 6; `ORC-IYMZPKKEDE` |  |
+| 1413 | peritectic: η + Liq \<-> ZrSn2 | η: Sn 0.367; Liq: Sn 0.7896; ZrSn2: Sn 0.667 | experimental | [1] Pérez 2008; _cites McPherson 1953_ | Table 5, p. 8, row 8; `ORC-A37RID3FIJ` |  |
+| 1412 | peritectic: Zr5Sn3 + L = ZrSn2 | Zr5Sn3: Sn 0.4; L: Sn 0.79; ZrSn2: Sn 0.666 | model | [2] Subasic 1998 | Table 1, p. 3, row 5; `ORC-ALJOFWWF55` |  |
+| 1400 | peritectic: η + Liq \<-> ZrSn2 | η: Sn 0.443; Liq: Sn 0.7876; ZrSn2: Sn 0.667 | unspecified | [1] Pérez 2008 | Table 5, p. 8, row 9; `ORC-73VCUSHMO3` |  |
+| 1255 | peritectoid: β Zr + Zr4Sn = α Zr | Zr4Sn: Sn 0.2, Zr 0.8 | unspecified | [2] Subasic 1998; _cites ref. 83Abr_ | Table 1, p. 3, row 8; `ORC-J3GQPADJ3O` |  |
+| 1254 | peritectoid: bcc-A2 + SnZr4 -> hcp-A3 | bcc-A2: Zr 0.968; SnZr4: Zr 0.8; hcp-A3: Zr 0.941 | unspecified | [3] Hämäläinen 1998 | Table I, p. 308, row 3; `ORC-WP2FWRCFXC` |  |
+| 1253 | peritectoid: βZr + A15 \<-> αZr | βZr: Sn 0.051; A15: Sn 0.2; αZr: Sn 0.071 | experimental | [1] Pérez 2008; _cites McPherson 1953_ | Table 5, p. 8, row 5; `ORC-XHHHIMHDEM` |  |
+| 1252 | peritectoid: β Zr + Zr4Sn = α Zr | β Zr: Sn 0.049; Zr4Sn: Sn 0.2; α Zr: Sn 0.073 | model | [2] Subasic 1998 | Table 1, p. 3, row 7; `ORC-6GNT6TICU5` |  |
+| 1216 | peritectoid: βZr + A15 ↔ αZr |  | experimental | [1] Pérez 2008 | p. 9; `ORC-3WB7FAYAD7` | “- The temperature of the peritectoid reaction βZr + A15 ↔ αZr was measured at 1216 K, 40 K below the previously reported values.” |
+| 1216 | peritectoid: βZr + A15 \<-> αZr | βZr: Sn 0.045; A15: Sn 0.195; αZr: Sn 0.065 | unspecified | [1] Pérez 2008 | Table 5, p. 8, row 7; `ORC-5RJERXXUFV` |  |
+| 1216 | peritectoid: βZr + A15 \<-> αZr | A15: Sn 0.2, Zr 0.8 | experimental | [1] Pérez 2008 | Table 5, p. 8, row 6; `ORC-7ERMFCRLO5` |  |
+| 1216 | peritectoid: A15 + βZr ↔ αZr |  | experimental | [1] Pérez 2008 | p. 5; `ORC-TUPLY75HXB` | “However, we used the temperature of the peritectoid reaction A15 + βZr ↔ αZr determined in the present work, 1216 ± 5 K, which is 40◦ lower than the value reported in Ref. \[1\] and adopted in previous assessments.” |
+| 505 | congruent melting: L = β Sn |  | unspecified | [2] Subasic 1998; _cites ref. 83Abr_ | Table 1, p. 3, row 18; `ORC-IKIJQ763SQ` |  |
+| 504 | eutectic: L = ZrSn2 + β Sn | ZrSn2: Sn 0.666667, Zr 0.333333 | unspecified | [2] Subasic 1998; _cites ref. 83Abr_ | Table 1, p. 3, row 10; `ORC-4GJVC6THQJ` |  |
+| 503 | congruent melting: L = β Sn | β Sn: Sn 1 | model | [2] Subasic 1998 | Table 1, p. 3, row 17; `ORC-RNQ32FOXFS` |  |
+| 503 | eutectic: L = ZrSn2 + β Sn | ZrSn2: Sn 0.666; β Sn: Sn 1 | model | [2] Subasic 1998 | Table 1, p. 3, row 9; `ORC-YYT2ZW5FR2` |  |
+| 502 | eutectic: Liquid -> Sn2Zr + bct-A5 | Liquid: Zr 0.0056; Sn2Zr: Zr 0.333; bct-A5: Zr 0 | unspecified | [3] Hämäläinen 1998 | Table I, p. 308, row 5; `ORC-UNHBHIVLVQ` |  |
 
 ## Formation enthalpies
 
@@ -163,26 +163,26 @@ Table: Enthalpies of formation, Sn–Zr system (20)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| (Zr4Sn)a |  | -58.898 kJ/mol (basis unstated) |  | model |  |  | [1] Pérez 2008; _cites Dupin 1999_ [doi](https://doi.org/10.1016/s0022-3115%2899%2900125-7) | Table 4, p. 8, row 4 |  |
-| (Zr4Sn)a |  | -48.082 kJ/mol (basis unstated) |  | model |  |  | [1] Pérez 2008; _cites De 1988_ | Table 4, p. 8, row 5 |  |
-| (Zr4Sn)a |  | -42.667 kJ/mol (basis unstated) |  | model |  |  | [1] Pérez 2008 | Table 4, p. 8, row 3 |  |
-| (Zr4Sn)a |  | -38.292 kJ/mol (basis unstated) |  | model |  |  | [1] Pérez 2008; _cites Baykov 2006_ [doi](https://doi.org/10.1016/j.scriptamat.2006.04.047) | Table 4, p. 8, row 2 |  |
-| (Zr4Sn)a |  | -29.94 kJ/mol (basis unstated) |  | model |  |  | [1] Pérez 2008; _cites Baykov 2006_ [doi](https://doi.org/10.1016/j.scriptamat.2006.04.047) | Table 4, p. 8, row 1 |  |
-| Zr5Sn3 |  | -81.551 kJ/mol (basis unstated) | 1473 | model |  |  | [1] Pérez 2008; _cites Dupin 1999_ [doi](https://doi.org/10.1016/s0022-3115%2899%2900125-7) | Table 4, p. 8, row 9 |  |
-| Zr5Sn3 |  | -80.96 kJ/mol (basis unstated) | 1473 | model |  |  | [1] Pérez 2008; _cites De 1988_ | Table 4, p. 8, row 11 |  |
-| Zr5Sn3 |  | -74.345 kJ/mol (basis unstated) | 1473 | model |  |  | [1] Pérez 2008 | Table 4, p. 8, row 8 |  |
-| Zr5Sn3 |  | -71.2 kJ/mol (basis unstated) | 1473 | experimental |  |  | [1] Pérez 2008; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900467-x) | Table 4, p. 8, row 10 |  |
-| Zr5Sn3 |  | -71.2 kJ/mol (basis unstated) | 1473 | model |  |  | [1] Pérez 2008; _cites Baykov 2006_ [doi](https://doi.org/10.1016/j.scriptamat.2006.04.047) | Table 4, p. 8, row 7 |  |
-| Zr5Sn3 |  | -55.67 kJ/mol (basis unstated) | 1473 | model |  |  | [1] Pérez 2008; _cites Baykov 2006_ [doi](https://doi.org/10.1016/j.scriptamat.2006.04.047) | Table 4, p. 8, row 6 |  |
-| Zr5Sn4 |  | -85.989 kJ/mol (basis unstated) |  | model |  |  | [1] Pérez 2008; _cites De 1988_ | Table 4, p. 8, row 15 |  |
-| Zr5Sn4 |  | -79.115 kJ/mol (basis unstated) |  | model |  |  | [1] Pérez 2008 | Table 4, p. 8, row 14 |  |
-| Zr5Sn4 |  | -74.806 kJ/mol (basis unstated) |  | model |  |  | [1] Pérez 2008; _cites Baykov 2006_ [doi](https://doi.org/10.1016/j.scriptamat.2006.04.047) | Table 4, p. 8, row 13 |  |
-| Zr5Sn4 |  | -58.49 kJ/mol (basis unstated) |  | model |  |  | [1] Pérez 2008; _cites Baykov 2006_ [doi](https://doi.org/10.1016/j.scriptamat.2006.04.047) | Table 4, p. 8, row 12 |  |
-| ZrSn2 |  | -72.639 kJ/mol (basis unstated) |  | model |  |  | [1] Pérez 2008; _cites Dupin 1999_ [doi](https://doi.org/10.1016/s0022-3115%2899%2900125-7) | Table 4, p. 8, row 19 |  |
-| ZrSn2 |  | -67.37 kJ/mol (basis unstated) |  | model |  |  | [1] Pérez 2008; _cites De 1988_ | Table 4, p. 8, row 20 |  |
-| ZrSn2 |  | -56.27 kJ/mol (basis unstated) |  | model |  |  | [1] Pérez 2008 | Table 4, p. 8, row 18 |  |
-| ZrSn2 |  | -54.874 kJ/mol (basis unstated) |  | model |  |  | [1] Pérez 2008; _cites Baykov 2006_ [doi](https://doi.org/10.1016/j.scriptamat.2006.04.047) | Table 4, p. 8, row 17 |  |
-| ZrSn2 |  | -42.905 kJ/mol (basis unstated) |  | model |  |  | [1] Pérez 2008; _cites Baykov 2006_ [doi](https://doi.org/10.1016/j.scriptamat.2006.04.047) | Table 4, p. 8, row 16 |  |
+| (Zr4Sn)a |  | -58.898 kJ/mol (basis unstated) |  | model |  |  | [1] Pérez 2008; _cites Dupin 1999_ [doi](https://doi.org/10.1016/s0022-3115%2899%2900125-7) | Table 4, p. 8, row 4; `ORC-FSL5FOSBCR.f52d44` |  |
+| (Zr4Sn)a |  | -48.082 kJ/mol (basis unstated) |  | model |  |  | [1] Pérez 2008; _cites De 1988_ | Table 4, p. 8, row 5; `ORC-X4IOTSULJI.bd8667` |  |
+| (Zr4Sn)a |  | -42.667 kJ/mol (basis unstated) |  | model |  |  | [1] Pérez 2008 | Table 4, p. 8, row 3; `ORC-DJF6Q4DPMX.8b50c3` |  |
+| (Zr4Sn)a |  | -38.292 kJ/mol (basis unstated) |  | model |  |  | [1] Pérez 2008; _cites Baykov 2006_ [doi](https://doi.org/10.1016/j.scriptamat.2006.04.047) | Table 4, p. 8, row 2; `ORC-FDCHLOAN23.9167b1` |  |
+| (Zr4Sn)a |  | -29.94 kJ/mol (basis unstated) |  | model |  |  | [1] Pérez 2008; _cites Baykov 2006_ [doi](https://doi.org/10.1016/j.scriptamat.2006.04.047) | Table 4, p. 8, row 1; `ORC-LAIODVVQT2.130586` |  |
+| Zr5Sn3 |  | -81.551 kJ/mol (basis unstated) | 1473 | model |  |  | [1] Pérez 2008; _cites Dupin 1999_ [doi](https://doi.org/10.1016/s0022-3115%2899%2900125-7) | Table 4, p. 8, row 9; `ORC-646VZ5S726` |  |
+| Zr5Sn3 |  | -80.96 kJ/mol (basis unstated) | 1473 | model |  |  | [1] Pérez 2008; _cites De 1988_ | Table 4, p. 8, row 11; `ORC-CCZMEPW74H` |  |
+| Zr5Sn3 |  | -74.345 kJ/mol (basis unstated) | 1473 | model |  |  | [1] Pérez 2008 | Table 4, p. 8, row 8; `ORC-GY23XUYBU6` |  |
+| Zr5Sn3 |  | -71.2 kJ/mol (basis unstated) | 1473 | experimental |  |  | [1] Pérez 2008; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900467-x) | Table 4, p. 8, row 10; `ORC-XIHUVFQ73L` |  |
+| Zr5Sn3 |  | -71.2 kJ/mol (basis unstated) | 1473 | model |  |  | [1] Pérez 2008; _cites Baykov 2006_ [doi](https://doi.org/10.1016/j.scriptamat.2006.04.047) | Table 4, p. 8, row 7; `ORC-XX76GCTWTB` |  |
+| Zr5Sn3 |  | -55.67 kJ/mol (basis unstated) | 1473 | model |  |  | [1] Pérez 2008; _cites Baykov 2006_ [doi](https://doi.org/10.1016/j.scriptamat.2006.04.047) | Table 4, p. 8, row 6; `ORC-2VWXQTCZE4` |  |
+| Zr5Sn4 |  | -85.989 kJ/mol (basis unstated) |  | model |  |  | [1] Pérez 2008; _cites De 1988_ | Table 4, p. 8, row 15; `ORC-7JUSQKW62W` |  |
+| Zr5Sn4 |  | -79.115 kJ/mol (basis unstated) |  | model |  |  | [1] Pérez 2008 | Table 4, p. 8, row 14; `ORC-XG4MRQPDRC` |  |
+| Zr5Sn4 |  | -74.806 kJ/mol (basis unstated) |  | model |  |  | [1] Pérez 2008; _cites Baykov 2006_ [doi](https://doi.org/10.1016/j.scriptamat.2006.04.047) | Table 4, p. 8, row 13; `ORC-22DVUVCEH2` |  |
+| Zr5Sn4 |  | -58.49 kJ/mol (basis unstated) |  | model |  |  | [1] Pérez 2008; _cites Baykov 2006_ [doi](https://doi.org/10.1016/j.scriptamat.2006.04.047) | Table 4, p. 8, row 12; `ORC-F6ATHOEPCQ` |  |
+| ZrSn2 |  | -72.639 kJ/mol (basis unstated) |  | model |  |  | [1] Pérez 2008; _cites Dupin 1999_ [doi](https://doi.org/10.1016/s0022-3115%2899%2900125-7) | Table 4, p. 8, row 19; `ORC-Q5BEK3HVLD` |  |
+| ZrSn2 |  | -67.37 kJ/mol (basis unstated) |  | model |  |  | [1] Pérez 2008; _cites De 1988_ | Table 4, p. 8, row 20; `ORC-GQITYEIYCW` |  |
+| ZrSn2 |  | -56.27 kJ/mol (basis unstated) |  | model |  |  | [1] Pérez 2008 | Table 4, p. 8, row 18; `ORC-BI2ZYYPNU3` |  |
+| ZrSn2 |  | -54.874 kJ/mol (basis unstated) |  | model |  |  | [1] Pérez 2008; _cites Baykov 2006_ [doi](https://doi.org/10.1016/j.scriptamat.2006.04.047) | Table 4, p. 8, row 17; `ORC-LPYPKL4BBL` |  |
+| ZrSn2 |  | -42.905 kJ/mol (basis unstated) |  | model |  |  | [1] Pérez 2008; _cites Baykov 2006_ [doi](https://doi.org/10.1016/j.scriptamat.2006.04.047) | Table 4, p. 8, row 16; `ORC-MCTPON6QTP` |  |
 
 ## Other properties
 
@@ -192,9 +192,9 @@ Table: Phase transition, Sn–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 505 K | 505 |  | experimental | [2] Subasic 1998 | p. 2 | “The diamond (A4) modification of tin, here denoted a-Sn, is stable below 286 K, and body - centered tetragonal (A5). here denoted P-Sn, is stable up to melting point which is 505 K.” |
-| Phase transition | 2128 K | 2128 |  | experimental | [2] Subasic 1998 | p. 2 | “The high temperature form p-Zr is stable to the melting point of zirconium, which is 2128 K.” |
-| Phase transition | 2263 K | 2263 | congruent transformation | experimental | [1] Pérez 2008; _cites Kwon 1992_ [doi](https://doi.org/10.1021/cm00019a035) | p. 2 | “The phase melts congruently at 2263 K and x = 0.3.” |
+| Phase transition | 505 K | 505 |  | experimental | [2] Subasic 1998 | p. 2; `ORC-NTW4KLUGEN.7d4984` | “The diamond (A4) modification of tin, here denoted a-Sn, is stable below 286 K, and body - centered tetragonal (A5). here denoted P-Sn, is stable up to melting point which is 505 K.” |
+| Phase transition | 2128 K | 2128 |  | experimental | [2] Subasic 1998 | p. 2; `ORC-AAFDO4EZYI` | “The high temperature form p-Zr is stable to the melting point of zirconium, which is 2128 K.” |
+| Phase transition | 2263 K | 2263 | congruent transformation | experimental | [1] Pérez 2008; _cites Kwon 1992_ [doi](https://doi.org/10.1021/cm00019a035) | p. 2; `ORC-JWYEFRBSWB` | “The phase melts congruently at 2263 K and x = 0.3.” |
 
 ### Phase equilibrium (5)
 
@@ -202,11 +202,11 @@ Table: Phase equilibrium, Sn–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 1273 | A15 + η; _A15: Sn 0.19, Zr 0.81; η: Sn 0.358, Zr 0.642_ | experimental | [1] Pérez 2008 | Table 1, p. 3, row 2 |  |
-| Phase composition |  | 1273 | A15 + η + αZr; _A15: Sn 0.188, Zr 0.812; η: Sn 0.353, Zr 0.647_ | experimental | [1] Pérez 2008 | Table 1, p. 3, row 1 |  |
-| Phase composition |  | 1273 | η + ZrSn2; _η: Sn 0.444, Zr 0.556_ | experimental | [1] Pérez 2008 | Table 1, p. 3, row 5 |  |
-| Phase composition |  | 1273 | η(Sn poor) + η(Sn rich); _η(Sn rich): Sn 0.412, Zr 0.588_ | experimental | [1] Pérez 2008 | Table 1, p. 3, row 4 |  |
-| Phase composition |  | 1873 | η; _η: Sn 0.392, Zr 0.608_ | experimental | [1] Pérez 2008 | Table 1, p. 3, row 3 |  |
+| Phase composition |  | 1273 | A15 + η; _A15: Sn 0.19, Zr 0.81; η: Sn 0.358, Zr 0.642_ | experimental | [1] Pérez 2008 | Table 1, p. 3, row 2; `ORC-CRT7O4DQ5G` |  |
+| Phase composition |  | 1273 | A15 + η + αZr; _A15: Sn 0.188, Zr 0.812; η: Sn 0.353, Zr 0.647_ | experimental | [1] Pérez 2008 | Table 1, p. 3, row 1; `ORC-MIWLM5LWVF` |  |
+| Phase composition |  | 1273 | η + ZrSn2; _η: Sn 0.444, Zr 0.556_ | experimental | [1] Pérez 2008 | Table 1, p. 3, row 5; `ORC-XSZQP43L3G` |  |
+| Phase composition |  | 1273 | η(Sn poor) + η(Sn rich); _η(Sn rich): Sn 0.412, Zr 0.588_ | experimental | [1] Pérez 2008 | Table 1, p. 3, row 4; `ORC-SK5Q7VXUCU` |  |
+| Phase composition |  | 1873 | η; _η: Sn 0.392, Zr 0.608_ | experimental | [1] Pérez 2008 | Table 1, p. 3, row 3; `ORC-TGLBZPNHOF` |  |
 
 ### Mixing / partial (2)
 
@@ -214,8 +214,8 @@ Table: Mixing / partial, Sn–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Partial enthalpy; _printed: partial enthalpy of mixing_ | -114.47 kJ/mol (basis unstated) | 1873 |  | experimental | [1] Pérez 2008; _cites Valishev 1992_ | p. 5 | “The values of the partial enthalpy of mixing in Sn rich alloys measured by calorimetry at 1873 K decreases from -6503 J/mol at 0.58 at.% Zr to -114 470 J/mol at 31.6 at.% Zr after Valishev et al. \[15\].” |
-| Partial enthalpy; _printed: partial enthalpy of mixing_ | -6.503 kJ/mol (basis unstated) | 1873 |  | experimental | [1] Pérez 2008; _cites Valishev 1992_ | p. 5 | “The values of the partial enthalpy of mixing in Sn rich alloys measured by calorimetry at 1873 K decreases from -6503 J/mol at 0.58 at.% Zr to -114 470 J/mol at 31.6 at.% Zr after Valishev et al. \[15\].” |
+| Partial enthalpy; _printed: partial enthalpy of mixing_ | -114.47 kJ/mol (basis unstated) | 1873 |  | experimental | [1] Pérez 2008; _cites Valishev 1992_ | p. 5; `ORC-B7IOJ4VFKQ.535ce9` | “The values of the partial enthalpy of mixing in Sn rich alloys measured by calorimetry at 1873 K decreases from -6503 J/mol at 0.58 at.% Zr to -114 470 J/mol at 31.6 at.% Zr after Valishev et al. \[15\].” |
+| Partial enthalpy; _printed: partial enthalpy of mixing_ | -6.503 kJ/mol (basis unstated) | 1873 |  | experimental | [1] Pérez 2008; _cites Valishev 1992_ | p. 5; `ORC-B7IOJ4VFKQ.d49d14` | “The values of the partial enthalpy of mixing in Sn rich alloys measured by calorimetry at 1873 K decreases from -6503 J/mol at 0.58 at.% Zr to -114 470 J/mol at 31.6 at.% Zr after Valishev et al. \[15\].” |
 
 ### Crystal structure (2)
 
@@ -223,8 +223,8 @@ Table: Crystal structure, Sn–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| site fractional coordinates |  | 298.15 | A15 | unspecified | [1] Pérez 2008 | Table 2, p. 4, row 8 |  |
-| site fractional coordinates |  | 298.15 | A15 | unspecified | [1] Pérez 2008 | Table 2, p. 4, row 7 |  |
+| site fractional coordinates |  | 298.15 | A15 | unspecified | [1] Pérez 2008 | Table 2, p. 4, row 8; `ORC-6FZCZWEVT2` |  |
+| site fractional coordinates |  | 298.15 | A15 | unspecified | [1] Pérez 2008 | Table 2, p. 4, row 7; `ORC-D4I7F7HYJA` |  |
 
 ## Sources
 
@@ -291,4 +291,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

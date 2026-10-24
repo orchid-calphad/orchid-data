@@ -65,18 +65,18 @@ Table: Enthalpies of formation, Ru–Sm system (12)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Sm44Ru25 |  | -45.3075 kJ/mol-atom |  | model |  |  | [1] Kardellass 2023 | Table 3, p. 9, row 85 |  |
-| Sm44Ru25 |  | -38.4054 kJ/mol-atom |  | model |  |  | [1] Kardellass 2023; _cites De 2014_ | Table 3, p. 9, row 88 |  |
-| Sm44Ru25 |  | -30.9578 kJ/mol-atom |  | model |  |  | [1] Kardellass 2023; _cites Zhang 2007_ [doi](https://doi.org/10.1016/j.cplett.2007.06.031) | Table 3, p. 9, row 89 |  |
-| Sm44Ru25 |  | -26.291 kJ/mol-atom |  | model |  |  | [1] Kardellass 2023 | Table 3, p. 9, row 86 |  |
-| Sm44Ru25 |  | -25.8035 kJ/mol-atom |  | model |  |  | [1] Kardellass 2023 | Table 3, p. 9, row 87 |  |
-| Sm5Ru2 | [Ru2Sm5](https://data.orchid-project.org/compounds/Ru2Sm5.html) | -39.9781 kJ/mol-atom |  | model | -25.912 (mp-aaackvjr) | -25.094 (oqmd-1484187) | [1] Kardellass 2023 | Table 3, p. 9, row 78 |  |
-| Sm5Ru2 | [Ru2Sm5](https://data.orchid-project.org/compounds/Ru2Sm5.html) | -30.4526 kJ/mol-atom |  | model | -25.912 (mp-aaackvjr) | -25.094 (oqmd-1484187) | [1] Kardellass 2023; _cites De 2014_ | Table 3, p. 9, row 81 |  |
-| Sm5Ru2 | [Ru2Sm5](https://data.orchid-project.org/compounds/Ru2Sm5.html) | -25.9792 kJ/mol-atom |  | model | -25.912 (mp-aaackvjr) | -25.094 (oqmd-1484187) | [1] Kardellass 2023; _cites Zhang 2007_ [doi](https://doi.org/10.1016/j.cplett.2007.06.031) | Table 3, p. 9, row 82 |  |
-| Sm5Ru2 |  | -25.922 kJ/mol-atom |  | DFT |  |  | [1] Kardellass 2023; _cites Ceder 2010_ | Table 3, p. 9, row 83 |  |
-| Sm5Ru2 |  | -25.055 kJ/mol-atom | 0 | DFT |  |  | [1] Kardellass 2023; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table 3, p. 9, row 84 |  |
-| Sm5Ru2 | [Ru2Sm5](https://data.orchid-project.org/compounds/Ru2Sm5.html) | -23.4727 kJ/mol-atom |  | model | -25.912 (mp-aaackvjr) | -25.094 (oqmd-1484187) | [1] Kardellass 2023 | Table 3, p. 9, row 79 |  |
-| Sm5Ru2 | [Ru2Sm5](https://data.orchid-project.org/compounds/Ru2Sm5.html) | -23.457 kJ/mol-atom |  | model | -25.912 (mp-aaackvjr) | -25.094 (oqmd-1484187) | [1] Kardellass 2023 | Table 3, p. 9, row 80 |  |
+| Sm44Ru25 |  | -45.3075 kJ/mol-atom |  | model |  |  | [1] Kardellass 2023 | Table 3, p. 9, row 85; `ORC-6PLARWNRET.34499b` |  |
+| Sm44Ru25 |  | -38.4054 kJ/mol-atom |  | model |  |  | [1] Kardellass 2023; _cites De 2014_ | Table 3, p. 9, row 88; `ORC-APPFXI4VPH.802580` |  |
+| Sm44Ru25 |  | -30.9578 kJ/mol-atom |  | model |  |  | [1] Kardellass 2023; _cites Zhang 2007_ [doi](https://doi.org/10.1016/j.cplett.2007.06.031) | Table 3, p. 9, row 89; `ORC-6SWIJKOHCH.487823` |  |
+| Sm44Ru25 |  | -26.291 kJ/mol-atom |  | model |  |  | [1] Kardellass 2023 | Table 3, p. 9, row 86; `ORC-PGJN7MUDVG.4128e1` |  |
+| Sm44Ru25 |  | -25.8035 kJ/mol-atom |  | model |  |  | [1] Kardellass 2023 | Table 3, p. 9, row 87; `ORC-735MTIGYC2.19131f` |  |
+| Sm5Ru2 | [Ru2Sm5](https://data.orchid-project.org/compounds/Ru2Sm5.html) | -39.9781 kJ/mol-atom |  | model | -25.912 (mp-aaackvjr) | -25.094 (oqmd-1484187) | [1] Kardellass 2023 | Table 3, p. 9, row 78; `ORC-74JU6DILO3.9d337a` |  |
+| Sm5Ru2 | [Ru2Sm5](https://data.orchid-project.org/compounds/Ru2Sm5.html) | -30.4526 kJ/mol-atom |  | model | -25.912 (mp-aaackvjr) | -25.094 (oqmd-1484187) | [1] Kardellass 2023; _cites De 2014_ | Table 3, p. 9, row 81; `ORC-QOHYAYU3GR.0d6c3c` |  |
+| Sm5Ru2 | [Ru2Sm5](https://data.orchid-project.org/compounds/Ru2Sm5.html) | -25.9792 kJ/mol-atom |  | model | -25.912 (mp-aaackvjr) | -25.094 (oqmd-1484187) | [1] Kardellass 2023; _cites Zhang 2007_ [doi](https://doi.org/10.1016/j.cplett.2007.06.031) | Table 3, p. 9, row 82; `ORC-CVP5R76BSQ.9a9f98` |  |
+| Sm5Ru2 |  | -25.922 kJ/mol-atom |  | DFT |  |  | [1] Kardellass 2023; _cites Ceder 2010_ | Table 3, p. 9, row 83; `ORC-XNXRGZDCD2.7e7a73` |  |
+| Sm5Ru2 |  | -25.055 kJ/mol-atom | 0 | DFT |  |  | [1] Kardellass 2023; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table 3, p. 9, row 84; `ORC-DMLJAIZQH7.323d48` |  |
+| Sm5Ru2 | [Ru2Sm5](https://data.orchid-project.org/compounds/Ru2Sm5.html) | -23.4727 kJ/mol-atom |  | model | -25.912 (mp-aaackvjr) | -25.094 (oqmd-1484187) | [1] Kardellass 2023 | Table 3, p. 9, row 79; `ORC-TTLWOXA2W7.1d2c8c` |  |
+| Sm5Ru2 | [Ru2Sm5](https://data.orchid-project.org/compounds/Ru2Sm5.html) | -23.457 kJ/mol-atom |  | model | -25.912 (mp-aaackvjr) | -25.094 (oqmd-1484187) | [1] Kardellass 2023 | Table 3, p. 9, row 80; `ORC-VJOZLSO733.b7fc7e` |  |
 
 ## Other properties
 
@@ -86,18 +86,18 @@ Table: Formation, Ru–Sm system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy of formation; _printed: ΔSf_ | -0.41058 J/mol-atom/K |  | Sm44Ru25; _alloy: Ru 0.362319, Sm 0.637681_ | model | [1] Kardellass 2023 | Table 3, p. 9, row 85 |  |
-| Entropy of formation; _printed: ΔSf_ | -0.16443 J/mol-atom/K |  | Sm44Ru25; _alloy: Ru 0.362319, Sm 0.637681_ | model | [1] Kardellass 2023 | Table 3, p. 9, row 87 |  |
-| Entropy of formation; _printed: ΔSf_ | -0.11085 J/mol-atom/K |  | Sm44Ru25; _alloy: Ru 0.362319, Sm 0.637681_ | model | [1] Kardellass 2023 | Table 3, p. 9, row 86 |  |
-| Entropy of formation; _printed: ΔSf_ | -0.6238 J/mol-atom/K |  | Sm5Ru2; _alloy: Ru 0.285714, Sm 0.714286_ | model | [1] Kardellass 2023 | Table 3, p. 9, row 78 |  |
-| Entropy of formation; _printed: ΔSf_ | -0.01077 J/mol-atom/K |  | Sm5Ru2; _alloy: Ru 0.285714, Sm 0.714286_ | model | [1] Kardellass 2023 | Table 3, p. 9, row 79 |  |
-| Entropy of formation; _printed: ΔSf_ | -6.900e-4 J/mol-atom/K |  | Sm5Ru2; _alloy: Ru 0.285714, Sm 0.714286_ | model | [1] Kardellass 2023 | Table 3, p. 9, row 80 |  |
-| Gibbs energy of formation; _printed: ΔGf_ | -25.6391 kJ/mol-atom |  | Sm44Ru25; _alloy: Ru 0.362319, Sm 0.637681_ | model | [1] Kardellass 2023 | Table 3, p. 9, row 87 |  |
-| Gibbs energy of formation; _printed: ΔGf_ | -39.3543 kJ/mol-atom |  | Sm5Ru2; _alloy: Ru 0.285714, Sm 0.714286_ | model | [1] Kardellass 2023 | Table 3, p. 9, row 78 |  |
-| Gibbs energy of formation; _printed: ΔGf_ | -23.4619 kJ/mol-atom |  | Sm5Ru2; _alloy: Ru 0.285714, Sm 0.714286_ | model | [1] Kardellass 2023 | Table 3, p. 9, row 79 |  |
-| Gibbs energy of formation; _printed: ΔGf_ | -23.4563 kJ/mol-atom |  | Sm5Ru2; _alloy: Ru 0.285714, Sm 0.714286_ | model | [1] Kardellass 2023 | Table 3, p. 9, row 80 |  |
-| Gibbs energy of formation; _printed: ΔGf at 1000 K_ | -44.8969 kJ/mol-atom | 1000 | Sm44Ru25; _alloy: Ru 0.362319, Sm 0.637681_ | model | [1] Kardellass 2023 | Table 3, p. 9, row 85 |  |
-| Gibbs energy of formation; _printed: ΔGf at 1000 K_ | -26.1801 kJ/mol-atom | 1000 | Sm44Ru25; _alloy: Ru 0.362319, Sm 0.637681_ | model | [1] Kardellass 2023 | Table 3, p. 9, row 86 |  |
+| Entropy of formation; _printed: ΔSf_ | -0.41058 J/mol-atom/K |  | Sm44Ru25; _alloy: Ru 0.362319, Sm 0.637681_ | model | [1] Kardellass 2023 | Table 3, p. 9, row 85; `ORC-6PLARWNRET.56630a` |  |
+| Entropy of formation; _printed: ΔSf_ | -0.16443 J/mol-atom/K |  | Sm44Ru25; _alloy: Ru 0.362319, Sm 0.637681_ | model | [1] Kardellass 2023 | Table 3, p. 9, row 87; `ORC-735MTIGYC2.375cf1` |  |
+| Entropy of formation; _printed: ΔSf_ | -0.11085 J/mol-atom/K |  | Sm44Ru25; _alloy: Ru 0.362319, Sm 0.637681_ | model | [1] Kardellass 2023 | Table 3, p. 9, row 86; `ORC-PGJN7MUDVG.2ca064` |  |
+| Entropy of formation; _printed: ΔSf_ | -0.6238 J/mol-atom/K |  | Sm5Ru2; _alloy: Ru 0.285714, Sm 0.714286_ | model | [1] Kardellass 2023 | Table 3, p. 9, row 78; `ORC-74JU6DILO3.628824` |  |
+| Entropy of formation; _printed: ΔSf_ | -0.01077 J/mol-atom/K |  | Sm5Ru2; _alloy: Ru 0.285714, Sm 0.714286_ | model | [1] Kardellass 2023 | Table 3, p. 9, row 79; `ORC-TTLWOXA2W7.412c31` |  |
+| Entropy of formation; _printed: ΔSf_ | -6.900e-4 J/mol-atom/K |  | Sm5Ru2; _alloy: Ru 0.285714, Sm 0.714286_ | model | [1] Kardellass 2023 | Table 3, p. 9, row 80; `ORC-VJOZLSO733.c4b149` |  |
+| Gibbs energy of formation; _printed: ΔGf_ | -25.6391 kJ/mol-atom |  | Sm44Ru25; _alloy: Ru 0.362319, Sm 0.637681_ | model | [1] Kardellass 2023 | Table 3, p. 9, row 87; `ORC-735MTIGYC2.331f1d` |  |
+| Gibbs energy of formation; _printed: ΔGf_ | -39.3543 kJ/mol-atom |  | Sm5Ru2; _alloy: Ru 0.285714, Sm 0.714286_ | model | [1] Kardellass 2023 | Table 3, p. 9, row 78; `ORC-74JU6DILO3.5e0f06` |  |
+| Gibbs energy of formation; _printed: ΔGf_ | -23.4619 kJ/mol-atom |  | Sm5Ru2; _alloy: Ru 0.285714, Sm 0.714286_ | model | [1] Kardellass 2023 | Table 3, p. 9, row 79; `ORC-TTLWOXA2W7.0448bf` |  |
+| Gibbs energy of formation; _printed: ΔGf_ | -23.4563 kJ/mol-atom |  | Sm5Ru2; _alloy: Ru 0.285714, Sm 0.714286_ | model | [1] Kardellass 2023 | Table 3, p. 9, row 80; `ORC-VJOZLSO733.ac7acd` |  |
+| Gibbs energy of formation; _printed: ΔGf at 1000 K_ | -44.8969 kJ/mol-atom | 1000 | Sm44Ru25; _alloy: Ru 0.362319, Sm 0.637681_ | model | [1] Kardellass 2023 | Table 3, p. 9, row 85; `ORC-6PLARWNRET.00fe47` |  |
+| Gibbs energy of formation; _printed: ΔGf at 1000 K_ | -26.1801 kJ/mol-atom | 1000 | Sm44Ru25; _alloy: Ru 0.362319, Sm 0.637681_ | model | [1] Kardellass 2023 | Table 3, p. 9, row 86; `ORC-PGJN7MUDVG.dc30e2` |  |
 
 ### Crystal structure (3)
 
@@ -105,9 +105,9 @@ Table: Crystal structure, Ru–Sm system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 7.33 Å | 298.15 | Sm3Ru; _alloy: Ru 0.25, Sm 0.75_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 20 |  |
-| Lattice b | 9.508 Å | 298.15 | Sm3Ru; _alloy: Ru 0.25, Sm 0.75_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 20 |  |
-| Lattice c | 6.361 Å | 298.15 | Sm3Ru; _alloy: Ru 0.25, Sm 0.75_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 20 |  |
+| Lattice a | 7.33 Å | 298.15 | Sm3Ru; _alloy: Ru 0.25, Sm 0.75_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 20; `ORC-5AK6DFQQ74.751dc5` |  |
+| Lattice b | 9.508 Å | 298.15 | Sm3Ru; _alloy: Ru 0.25, Sm 0.75_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 20; `ORC-5AK6DFQQ74.33bbbc` |  |
+| Lattice c | 6.361 Å | 298.15 | Sm3Ru; _alloy: Ru 0.25, Sm 0.75_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 20; `ORC-5AK6DFQQ74.8f06b7` |  |
 
 ## Sources
 
@@ -172,4 +172,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

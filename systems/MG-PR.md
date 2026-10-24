@@ -88,85 +88,85 @@ Table: Invariant reactions reported in the literature for the Mg–Pr system (79
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1093.15 | Liquid = PrMg3 | Liquid: Mg 0.75, Pr 0.25; PrMg3: Mg 0.75, Pr 0.25 | experimental | [1] Wang 2015; _cites Saccone 1993_ [doi](https://doi.org/10.1016/0966-9795%2893%2990010-s) | Table 3, p. 4, row 15 |  |
-| 1063.15 | Liquid = PrMg3 | Liquid: Mg 0.75, Pr 0.25; PrMg3: Mg 0.75, Pr 0.25 | experimental | [1] Wang 2015; _cites Rokhlin 2003_ | Table 3, p. 4, row 16 |  |
-| 1063.15 | Liquid = PrMg3 | Liquid: Mg 0.75, Pr 0.25; PrMg3: Mg 0.75, Pr 0.25 | model | [1] Wang 2015 | Table 3, p. 4, row 18 |  |
-| 1062.75 | Liquid = PrMg3 | Liquid: Mg 0.75, Pr 0.25; PrMg3: Mg 0.75, Pr 0.25 | model | [1] Wang 2015; _cites Guo 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.05.007) | Table 3, p. 4, row 17 |  |
-| 1043.15 | Liquid = PrMg | Liquid: Mg 0.5, Pr 0.5; PrMg: Mg 0.5, Pr 0.5 | experimental | [1] Wang 2015; _cites Saccone 1993_ [doi](https://doi.org/10.1016/0966-9795%2893%2990010-s) | Table 3, p. 4, row 33 |  |
-| 1038.15 | Liquid = PrMg | Liquid: Mg 0.5, Pr 0.5; PrMg: Mg 0.5, Pr 0.5 | experimental | [1] Wang 2015; _cites Rokhlin 2003_ | Table 3, p. 4, row 34 |  |
-| 1038.05 | Liquid = PrMg | Liquid: Mg 0.5, Pr 0.5; PrMg: Mg 0.5, Pr 0.5 | model | [1] Wang 2015; _cites Guo 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.05.007) | Table 3, p. 4, row 35 |  |
-| 1035.85 | Liquid = PrMg | Liquid: Mg 0.5, Pr 0.5; PrMg: Mg 0.5, Pr 0.5 | model | [1] Wang 2015 | Table 3, p. 4, row 36 |  |
-| 1023.15 | Liquid + PrMg3 = PrMg2 | PrMg3: Mg 0.75, Pr 0.25; PrMg2: Mg 0.666667, Pr 0.333333 | experimental | [1] Wang 2015; _cites Saccone 1993_ [doi](https://doi.org/10.1016/0966-9795%2893%2990010-s) | Table 3, p. 4, row 19 |  |
-| 1018.15 | Liquid = PrMg + βPr | PrMg: Mg 0.5, Pr 0.5 | experimental | [1] Wang 2015; _cites Saccone 1993_ [doi](https://doi.org/10.1016/0966-9795%2893%2990010-s) | Table 3, p. 4, row 37 |  |
-| 1013.15 | Liquid + PrMg3 = PrMg2 | PrMg3: Mg 0.75, Pr 0.25; PrMg2: Mg 0.666667, Pr 0.333333 | experimental | [1] Wang 2015; _cites Rokhlin 2003_ | Table 3, p. 4, row 20 |  |
-| 1013 | liq. + Mg3Pr -> Mg2Pr | liq.: Pr 0.3464; Mg3Pr: Pr 0.2495; Mg2Pr: Pr 0.333333 | model | [2] Guo 2005 | Table 2, p. 5, row 9 |  |
-| 1013 | liq. + Mg3Pr -> Mg2Pr | liq.: Pr 0.391; Mg3Pr: Pr 0.25; Mg2Pr: Pr 0.333333 | experimental | [2] Guo 2005; _cites Saccone 1993_ [doi](https://doi.org/10.1016/0966-9795%2893%2990010-s) | Table 2, p. 5, row 10 |  |
-| 1013 | liq. + Mg3Pr -> Mg2Pr | L: Pr 0.3479; Mg3Pr: Pr 0.2495; Mg2Pr: Pr 0.333333 | model | [3] Guo 2008 | Table 2, p. 5, row 9 |  |
-| 1013 | liq. + Mg3Pr -> Mg2Pr | L: Pr 0.391; Mg3Pr: Pr 0.25; Mg2Pr: Pr 0.333333 | experimental | [3] Guo 2008; _cites Saccone 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901377-3) | Table 2, p. 5, row 10 |  |
-| 1012.85 | Liquid + PrMg3 = PrMg2 | PrMg3: Mg 0.75, Pr 0.25; PrMg2: Mg 0.666667, Pr 0.333333 | model | [1] Wang 2015 | Table 3, p. 4, row 23 |  |
-| 1012.55 | Liquid + PrMg3 = PrMg2 | PrMg3: Mg 0.75, Pr 0.25; PrMg2: Mg 0.666667, Pr 0.333333 | model | [1] Wang 2015; _cites Guo 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.05.007) | Table 3, p. 4, row 21 |  |
-| 1011.15 | Liquid + PrMg3 = PrMg2 | PrMg3: Mg 0.75, Pr 0.25; PrMg2: Mg 0.666667, Pr 0.333333 | model | [1] Wang 2015; _cites Kang 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.05.005) | Table 3, p. 4, row 22 |  |
-| 1010.85 | Liquid = PrMg + βPr | PrMg: Mg 0.5, Pr 0.5 | model | [1] Wang 2015 | Table 3, p. 4, row 41 |  |
-| 1008.15 | Liquid = PrMg + βPr | PrMg: Mg 0.5, Pr 0.5 | experimental | [1] Wang 2015; _cites Rokhlin 2003_ | Table 3, p. 4, row 38 |  |
-| 1008 | liq. -> bcc(Pr) + MgPr | liq.: Pr 0.6; bcc(Pr): Pr 0.669; MgPr: Pr 0.528 | experimental | [2] Guo 2005; _cites Saccone 1993_ [doi](https://doi.org/10.1016/0966-9795%2893%2990010-s) | Table 2, p. 5, row 18 |  |
-| 1008 | liq. -> bcc(Pr) + MgPr | L: Pr 0.6097; bcc(Pr): Pr 0.6602; MgPr: Pr 0.5249 | model | [3] Guo 2008 | Table 2, p. 5, row 1 |  |
-| 1008 | liq. -> bcc(Pr) + MgPr | L: Pr 0.6; bcc(Pr): Pr 0.669; MgPr: Pr 0.528 | experimental | [3] Guo 2008; _cites Saccone 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901377-3) | Table 2, p. 5, row 2 |  |
-| 1008 | liq. -> bcc(Pr) + MgPr | liq.: Pr 0.601; bcc(Pr): Pr 0.6418; MgPr: Pr 0.5136 | model | [2] Guo 2005 | Table 2, p. 5, row 17 |  |
-| 1007.85 | Liquid = PrMg + βPr | PrMg: Mg 0.5, Pr 0.5 | model | [1] Wang 2015; _cites Guo 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.05.007) | Table 3, p. 4, row 39 |  |
-| 1006.15 | Liquid = PrMg + βPr | PrMg: Mg 0.5, Pr 0.5 | model | [1] Wang 2015; _cites Kang 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.05.005) | Table 3, p. 4, row 40 |  |
-| 1003.15 | Liquid = PrMg + PrMg2 | PrMg: Mg 0.5, Pr 0.5; PrMg2: Mg 0.666667, Pr 0.333333 | experimental | [1] Wang 2015; _cites Saccone 1993_ [doi](https://doi.org/10.1016/0966-9795%2893%2990010-s) | Table 3, p. 4, row 24 |  |
-| 998.45 | Liquid = PrMg + PrMg2 | PrMg: Mg 0.5, Pr 0.5; PrMg2: Mg 0.666667, Pr 0.333333 | model | [1] Wang 2015 | Table 3, p. 4, row 27 |  |
-| 998.25 | Liquid = PrMg + PrMg2 | PrMg: Mg 0.5, Pr 0.5; PrMg2: Mg 0.666667, Pr 0.333333 | model | [1] Wang 2015; _cites Guo 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.05.007) | Table 3, p. 4, row 26 |  |
-| 998.15 | Liquid = PrMg + PrMg2 | PrMg: Mg 0.5, Pr 0.5; PrMg2: Mg 0.666667, Pr 0.333333 | experimental | [1] Wang 2015; _cites Rokhlin 2003_ | Table 3, p. 4, row 25 |  |
-| 998 | liq -> MgPr + Mg2Pr | liq: Pr 0.405; MgPr: Pr 0.46; Mg2Pr: Pr 0.333333 | experimental | [2] Guo 2005; _cites Saccone 1993_ [doi](https://doi.org/10.1016/0966-9795%2893%2990010-s) | Table 2, p. 5, row 14 |  |
-| 998 | liq -> MgPr + Mg2Pr | liq: Pr 0.3822; MgPr: Pr 0.4734; Mg2Pr: Pr 0.333333 | model | [2] Guo 2005 | Table 2, p. 5, row 13 |  |
-| 998 | liq -> MgPr + Mg2Pr | L: Pr 0.405; MgPr: Pr 0.46; Mg2Pr: Pr 0.333333 | experimental | [3] Guo 2008; _cites Saccone 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901377-3) | Table 2, p. 5, row 8 |  |
-| 998 | liq -> MgPr + Mg2Pr | L: Pr 0.3828; MgPr: Pr 0.4618; Mg2Pr: Pr 0.333333 | model | [3] Guo 2008 | Table 2, p. 5, row 7 |  |
-| 953.15 | Mg2Pr = PrMg + PrMg3 | Mg2Pr: Mg 0.666667, Pr 0.333333; PrMg: Mg 0.5, Pr 0.5; PrMg3: Mg 0.75, Pr 0.25 | experimental | [1] Wang 2015; _cites Saccone 1993_ [doi](https://doi.org/10.1016/0966-9795%2893%2990010-s) | Table 3, p. 4, row 28 |  |
-| 943.15 | Mg2Pr = PrMg + PrMg3 | Mg2Pr: Mg 0.666667, Pr 0.333333; PrMg: Mg 0.5, Pr 0.5; PrMg3: Mg 0.75, Pr 0.25 | experimental | [1] Wang 2015; _cites Rokhlin 2003_ | Table 3, p. 4, row 29 |  |
-| 943.15 | Mg2Pr = PrMg + PrMg3 | Mg2Pr: Mg 0.666667, Pr 0.333333; PrMg: Mg 0.5, Pr 0.5; PrMg3: Mg 0.75, Pr 0.25 | model | [1] Wang 2015; _cites Guo 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.05.007) | Table 3, p. 4, row 30 |  |
-| 943 | Mg2Pr -> Mg3Pr + MgPr | Mg2Pr: Pr 0.333333; Mg3Pr: Pr 0.25; MgPr: Pr 0.475 | experimental | [2] Guo 2005; _cites Saccone 1993_ [doi](https://doi.org/10.1016/0966-9795%2893%2990010-s) | Table 2, p. 5, row 12 |  |
-| 943 | Mg2Pr -> Mg3Pr + MgPr | Mg2Pr: Pr 0.333333; Mg3Pr: Pr 0.2498; MgPr: Pr 0.4688 | model | [3] Guo 2008 | Table 2, p. 5, row 13 |  |
-| 943 | Mg2Pr -> Mg3Pr + MgPr | Mg2Pr: Pr 0.333333; Mg3Pr: Pr 0.25; MgPr: Pr 0.475 | experimental | [3] Guo 2008; _cites Saccone 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901377-3) | Table 2, p. 5, row 14 |  |
-| 943 | Mg2Pr -> Mg3Pr + MgPr | Mg2Pr: Pr 0.333333; Mg3Pr: Pr 0.2498; MgPr: Pr 0.4744 | model | [2] Guo 2005 | Table 2, p. 5, row 11 |  |
-| 942.75 | Mg2Pr = PrMg + PrMg3 | Mg2Pr: Mg 0.666667, Pr 0.333333; PrMg: Mg 0.5, Pr 0.5; PrMg3: Mg 0.75, Pr 0.25 | model | [1] Wang 2015 | Table 3, p. 4, row 32 |  |
-| 939.15 | Mg2Pr = PrMg + PrMg3 | Mg2Pr: Mg 0.666667, Pr 0.333333; PrMg: Mg 0.5, Pr 0.5; PrMg3: Mg 0.75, Pr 0.25 | model | [1] Wang 2015; _cites Kang 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.05.005) | Table 3, p. 4, row 31 |  |
-| 866.15 | Liquid + PrMg3 = Pr5Mg41 | PrMg3: Mg 0.75, Pr 0.25; Pr5Mg41: Mg 0.891304, Pr 0.108696 | model | [1] Wang 2015; _cites Kang 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.05.005) | Table 3, p. 4, row 13 |  |
-| 865.15 | Liquid + PrMg3 = Pr5Mg41 | PrMg3: Mg 0.75, Pr 0.25; Pr5Mg41: Mg 0.891304, Pr 0.108696 | experimental | [1] Wang 2015; _cites Saccone 1993_ [doi](https://doi.org/10.1016/0966-9795%2893%2990010-s) | Table 3, p. 4, row 10 |  |
-| 863.15 | Liquid + PrMg3 = Pr5Mg41 | PrMg3: Mg 0.75, Pr 0.25; Pr5Mg41: Mg 0.891304, Pr 0.108696 | experimental | [1] Wang 2015; _cites Rokhlin 2003_ | Table 3, p. 4, row 11 |  |
-| 862.95 | Liquid + PrMg3 = Pr5Mg41 | PrMg3: Mg 0.75, Pr 0.25; Pr5Mg41: Mg 0.891304, Pr 0.108696 | model | [1] Wang 2015 | Table 3, p. 4, row 14 |  |
-| 853.15 | Liquid + Pr5Mg41 = PrMg12 | Pr5Mg41: Mg 0.891304, Pr 0.108696; PrMg12: Mg 0.923077, Pr 0.076923 | experimental | [1] Wang 2015; _cites Rokhlin 2003_ | Table 3, p. 4, row 7 |  |
-| 852.75 | Liquid + Pr5Mg41 = PrMg12 | Pr5Mg41: Mg 0.891304, Pr 0.108696; PrMg12: Mg 0.923077, Pr 0.076923 | model | [1] Wang 2015 | Table 3, p. 4, row 9 |  |
-| 849.95 | Liquid + PrMg3 = Pr5Mg41 | PrMg3: Mg 0.75, Pr 0.25; Pr5Mg41: Mg 0.891304, Pr 0.108696 | model | [1] Wang 2015; _cites Guo 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.05.007) | Table 3, p. 4, row 12 |  |
-| 849.85 | Liquid = (Mg) + PrMg12 | PrMg12: Mg 0.923077, Pr 0.076923 | model | [1] Wang 2015 | Table 3, p. 4, row 5 |  |
-| 849.85 | eutectic |  | model | [1] Wang 2015 | p. 3 | “the presently calculated eutectic compositions are 5.80 at.% Pr (26.31 wt.% Pr) for Liquid, 0.24 at.% Pr (1.36 wt.% Pr) for (Mg), and 7.69 at.% Pr (32.57 wt.% Pr) for stoichiometric PrMg12 at 576.7 °C.” |
-| 848.15 | Liquid = (Mg) + PrMg12 | PrMg12: Mg 0.923077, Pr 0.076923 | experimental | [1] Wang 2015; _cites Rokhlin 2003_ | Table 3, p. 4, row 2 |  |
-| 848 | liq. + Mg3Pr -> Mg41Pr5 | L: Pr 0.084; Mg3Pr: Pr 0.18; Mg41Pr5: Pr 0.108696 | experimental | [3] Guo 2008; _cites Saccone 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901377-3) | Table 2, p. 5, row 16 |  |
-| 848 | liq. + Mg3Pr -> Mg41Pr5 | L: Pr 0.0811; Mg3Pr: Pr 0.2194; Mg41Pr5: Pr 0.108696 | model | [3] Guo 2008 | Table 2, p. 5, row 15 |  |
-| 847.15 | Liquid = (Mg) + PrMg12 | PrMg12: Mg 0.923077, Pr 0.076923 | model | [1] Wang 2015; _cites Kang 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.05.005) | Table 3, p. 4, row 4 |  |
-| 844 | liq. + Mg3Pr -> Mg41Pr5 | liq.: Pr 0.084; Mg3Pr: Pr 0.18; Mg41Pr5: Pr 0.111 | experimental | [2] Guo 2005; _cites Saccone 1993_ [doi](https://doi.org/10.1016/0966-9795%2893%2990010-s) | Table 2, p. 5, row 6 |  |
-| 844 | liq. + Mg3Pr -> Mg41Pr5 | liq.: Pr 0.0825; Mg3Pr: Pr 0.1799; Mg41Pr5: Pr 0.1075 | model | [2] Guo 2005 | Table 2, p. 5, row 5 |  |
-| 843.15 | Liquid + Pr5Mg41 = PrMg12 | Pr5Mg41: Mg 0.891304, Pr 0.108696; PrMg12: Mg 0.923077, Pr 0.076923 | experimental | [1] Wang 2015; _cites Saccone 1993_ [doi](https://doi.org/10.1016/0966-9795%2893%2990010-s) | Table 3, p. 4, row 6 |  |
-| 840 | liq. + Mg41Pr5 -> Mg12Pr | liq.: Pr 0.074; Mg41Pr5: Pr 0.102; Mg12Pr: Pr 0.0769231 | experimental | [2] Guo 2005; _cites Saccone 1993_ [doi](https://doi.org/10.1016/0966-9795%2893%2990010-s) | Table 2, p. 5, row 4 |  |
-| 840 | liq. + Mg41Pr5 -> Mg12Pr | liq.: Pr 0.0764; Mg41Pr5: Pr 0.1072; Mg12Pr: Pr 0.0769231 | model | [2] Guo 2005 | Table 2, p. 5, row 3 |  |
-| 838.15 | Liquid = (Mg) + PrMg12 | PrMg12: Mg 0.923077, Pr 0.076923 | experimental | [1] Wang 2015; _cites Saccone 1993_ [doi](https://doi.org/10.1016/0966-9795%2893%2990010-s) | Table 3, p. 4, row 1 |  |
-| 838 | liq. + Mg41Pr5 -> Mg12Pr | L: Pr 0.0676; Mg41Pr5: Pr 0.108696; Mg12Pr: Pr 0.0769231 | model | [3] Guo 2008 | Table 2, p. 5, row 17 |  |
-| 838 | liq. -> hcp(Mg) + Mg12Pr | liq.: Pr 0.0654; hcp(Mg): Pr 0.0014; Mg12Pr: Pr 0.0769231 | model | [2] Guo 2005 | Table 2, p. 5, row 1 |  |
-| 838 | liq. + Mg41Pr5 -> Mg12Pr | L: Pr 0.074; Mg41Pr5: Pr 0.108696; Mg12Pr: Pr 0.0769231 | experimental | [3] Guo 2008; _cites Saccone 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901377-3) | Table 2, p. 5, row 18 |  |
-| 837.45 | Liquid + Pr5Mg41 = PrMg12 | Pr5Mg41: Mg 0.891304, Pr 0.108696; PrMg12: Mg 0.923077, Pr 0.076923 | model | [1] Wang 2015; _cites Guo 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.05.007) | Table 3, p. 4, row 8 |  |
-| 837.05 | Liquid = (Mg) + PrMg12 | PrMg12: Mg 0.923077, Pr 0.076923 | model | [1] Wang 2015; _cites Guo 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.05.007) | Table 3, p. 4, row 3 |  |
-| 837 | liq. -> hcp(Mg) + Mg12Pr | L: Pr 0.066; hcp(Mg): Pr 6.000e-4; Mg12Pr: Pr 0.0769231 | model | [3] Guo 2008 | Table 2, p. 5, row 19 |  |
-| 833 | liq. -> hcp(Mg) + Mg12Pr | L: Pr 0.05; hcp(Mg): Pr 0.001; Mg12Pr: Pr 0.0769231 | experimental | [3] Guo 2008; _cites Saccone 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901377-3) | Table 2, p. 5, row 20 |  |
-| 833 | liq. -> hcp(Mg) + Mg12Pr | liq.: Pr 0.05; hcp(Mg): Pr 0.001; Mg12Pr: Pr 0.0769231 | experimental | [2] Guo 2005; _cites Saccone 1993_ [doi](https://doi.org/10.1016/0966-9795%2893%2990010-s) | Table 2, p. 5, row 2 |  |
-| 802.15 | βPr = PrMg + αPr | PrMg: Mg 0.5, Pr 0.5 | model | [1] Wang 2015; _cites Kang 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.05.005) | Table 3, p. 4, row 45 |  |
-| 783.15 | βPr = PrMg + αPr | PrMg: Mg 0.5, Pr 0.5 | experimental | [1] Wang 2015; _cites Rokhlin 2003_ | Table 3, p. 4, row 43 |  |
-| 783.15 | βPr = PrMg + αPr | PrMg: Mg 0.5, Pr 0.5 | model | [1] Wang 2015; _cites Guo 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.05.007) | Table 3, p. 4, row 44 |  |
-| 783 | bcc(Pr) -> MgPr + dhcp(Pr) | bcc(Pr): Pr 0.8097; MgPr: Pr 0.5274; dhcp(Pr): Pr 0.9279 | model | [3] Guo 2008 | Table 2, p. 5, row 3 |  |
-| 783 | bcc(Pr) -> MgPr + dhcp(Pr) | bcc(Pr): Pr 0.805; MgPr: Pr 0.508; dhcp(Pr): Pr 0.895 | experimental | [3] Guo 2008; _cites Saccone 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901377-3) | Table 2, p. 5, row 4 |  |
-| 783 | bcc(Pr) -> MgPr + dhcp(Pr) | bcc(Pr): Pr 0.805; MgPr: Pr 0.508; dhcp(Pr): Pr 0.895 | experimental | [2] Guo 2005; _cites Saccone 1993_ [doi](https://doi.org/10.1016/0966-9795%2893%2990010-s) | Table 2, p. 5, row 20 |  |
-| 783 | bcc(Pr) -> MgPr + dhcp(Pr) | bcc(Pr): Pr 0.8065; MgPr: Pr 0.5226; dhcp(Pr): Pr 0.9135 | model | [2] Guo 2005 | Table 2, p. 5, row 19 |  |
-| 782.65 | βPr = PrMg + αPr | PrMg: Mg 0.5, Pr 0.5 | model | [1] Wang 2015 | Table 3, p. 4, row 46 |  |
-| 773.15 | βPr = PrMg + αPr | PrMg: Mg 0.5, Pr 0.5 | experimental | [1] Wang 2015; _cites Saccone 1993_ [doi](https://doi.org/10.1016/0966-9795%2893%2990010-s) | Table 3, p. 4, row 42 |  |
+| 1093.15 | Liquid = PrMg3 | Liquid: Mg 0.75, Pr 0.25; PrMg3: Mg 0.75, Pr 0.25 | experimental | [1] Wang 2015; _cites Saccone 1993_ [doi](https://doi.org/10.1016/0966-9795%2893%2990010-s) | Table 3, p. 4, row 15; `ORC-633HMZSPJZ` |  |
+| 1063.15 | Liquid = PrMg3 | Liquid: Mg 0.75, Pr 0.25; PrMg3: Mg 0.75, Pr 0.25 | experimental | [1] Wang 2015; _cites Rokhlin 2003_ | Table 3, p. 4, row 16; `ORC-DRCHUJERFS` |  |
+| 1063.15 | Liquid = PrMg3 | Liquid: Mg 0.75, Pr 0.25; PrMg3: Mg 0.75, Pr 0.25 | model | [1] Wang 2015 | Table 3, p. 4, row 18; `ORC-WBR2NTPIY2` |  |
+| 1062.75 | Liquid = PrMg3 | Liquid: Mg 0.75, Pr 0.25; PrMg3: Mg 0.75, Pr 0.25 | model | [1] Wang 2015; _cites Guo 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.05.007) | Table 3, p. 4, row 17; `ORC-AM2NK3HNNR` |  |
+| 1043.15 | Liquid = PrMg | Liquid: Mg 0.5, Pr 0.5; PrMg: Mg 0.5, Pr 0.5 | experimental | [1] Wang 2015; _cites Saccone 1993_ [doi](https://doi.org/10.1016/0966-9795%2893%2990010-s) | Table 3, p. 4, row 33; `ORC-ERNH72RJGY` |  |
+| 1038.15 | Liquid = PrMg | Liquid: Mg 0.5, Pr 0.5; PrMg: Mg 0.5, Pr 0.5 | experimental | [1] Wang 2015; _cites Rokhlin 2003_ | Table 3, p. 4, row 34; `ORC-U6UI4KVCAB` |  |
+| 1038.05 | Liquid = PrMg | Liquid: Mg 0.5, Pr 0.5; PrMg: Mg 0.5, Pr 0.5 | model | [1] Wang 2015; _cites Guo 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.05.007) | Table 3, p. 4, row 35; `ORC-HF7LN6XVAX` |  |
+| 1035.85 | Liquid = PrMg | Liquid: Mg 0.5, Pr 0.5; PrMg: Mg 0.5, Pr 0.5 | model | [1] Wang 2015 | Table 3, p. 4, row 36; `ORC-MQZ65RBABL` |  |
+| 1023.15 | Liquid + PrMg3 = PrMg2 | PrMg3: Mg 0.75, Pr 0.25; PrMg2: Mg 0.666667, Pr 0.333333 | experimental | [1] Wang 2015; _cites Saccone 1993_ [doi](https://doi.org/10.1016/0966-9795%2893%2990010-s) | Table 3, p. 4, row 19; `ORC-XQ7V7UXGOU` |  |
+| 1018.15 | Liquid = PrMg + βPr | PrMg: Mg 0.5, Pr 0.5 | experimental | [1] Wang 2015; _cites Saccone 1993_ [doi](https://doi.org/10.1016/0966-9795%2893%2990010-s) | Table 3, p. 4, row 37; `ORC-WTLQ63DOVD` |  |
+| 1013.15 | Liquid + PrMg3 = PrMg2 | PrMg3: Mg 0.75, Pr 0.25; PrMg2: Mg 0.666667, Pr 0.333333 | experimental | [1] Wang 2015; _cites Rokhlin 2003_ | Table 3, p. 4, row 20; `ORC-CRXHDWJAAH` |  |
+| 1013 | liq. + Mg3Pr -> Mg2Pr | liq.: Pr 0.3464; Mg3Pr: Pr 0.2495; Mg2Pr: Pr 0.333333 | model | [2] Guo 2005 | Table 2, p. 5, row 9; `ORC-BETMPRBMYF` |  |
+| 1013 | liq. + Mg3Pr -> Mg2Pr | liq.: Pr 0.391; Mg3Pr: Pr 0.25; Mg2Pr: Pr 0.333333 | experimental | [2] Guo 2005; _cites Saccone 1993_ [doi](https://doi.org/10.1016/0966-9795%2893%2990010-s) | Table 2, p. 5, row 10; `ORC-EIC4M5SE6A` |  |
+| 1013 | liq. + Mg3Pr -> Mg2Pr | L: Pr 0.3479; Mg3Pr: Pr 0.2495; Mg2Pr: Pr 0.333333 | model | [3] Guo 2008 | Table 2, p. 5, row 9; `ORC-FGDGACXSBE` |  |
+| 1013 | liq. + Mg3Pr -> Mg2Pr | L: Pr 0.391; Mg3Pr: Pr 0.25; Mg2Pr: Pr 0.333333 | experimental | [3] Guo 2008; _cites Saccone 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901377-3) | Table 2, p. 5, row 10; `ORC-UTW4ZZTDKR` |  |
+| 1012.85 | Liquid + PrMg3 = PrMg2 | PrMg3: Mg 0.75, Pr 0.25; PrMg2: Mg 0.666667, Pr 0.333333 | model | [1] Wang 2015 | Table 3, p. 4, row 23; `ORC-A4J4JMZWT4` |  |
+| 1012.55 | Liquid + PrMg3 = PrMg2 | PrMg3: Mg 0.75, Pr 0.25; PrMg2: Mg 0.666667, Pr 0.333333 | model | [1] Wang 2015; _cites Guo 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.05.007) | Table 3, p. 4, row 21; `ORC-L2B5M742L2` |  |
+| 1011.15 | Liquid + PrMg3 = PrMg2 | PrMg3: Mg 0.75, Pr 0.25; PrMg2: Mg 0.666667, Pr 0.333333 | model | [1] Wang 2015; _cites Kang 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.05.005) | Table 3, p. 4, row 22; `ORC-PM2TXXVGSP` |  |
+| 1010.85 | Liquid = PrMg + βPr | PrMg: Mg 0.5, Pr 0.5 | model | [1] Wang 2015 | Table 3, p. 4, row 41; `ORC-77SV54ABRS` |  |
+| 1008.15 | Liquid = PrMg + βPr | PrMg: Mg 0.5, Pr 0.5 | experimental | [1] Wang 2015; _cites Rokhlin 2003_ | Table 3, p. 4, row 38; `ORC-PC2IAKFUBO` |  |
+| 1008 | liq. -> bcc(Pr) + MgPr | liq.: Pr 0.6; bcc(Pr): Pr 0.669; MgPr: Pr 0.528 | experimental | [2] Guo 2005; _cites Saccone 1993_ [doi](https://doi.org/10.1016/0966-9795%2893%2990010-s) | Table 2, p. 5, row 18; `ORC-G5FRFYVYHV` |  |
+| 1008 | liq. -> bcc(Pr) + MgPr | L: Pr 0.6097; bcc(Pr): Pr 0.6602; MgPr: Pr 0.5249 | model | [3] Guo 2008 | Table 2, p. 5, row 1; `ORC-KUKLA6TRIE` |  |
+| 1008 | liq. -> bcc(Pr) + MgPr | L: Pr 0.6; bcc(Pr): Pr 0.669; MgPr: Pr 0.528 | experimental | [3] Guo 2008; _cites Saccone 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901377-3) | Table 2, p. 5, row 2; `ORC-SIT6WR7HS7` |  |
+| 1008 | liq. -> bcc(Pr) + MgPr | liq.: Pr 0.601; bcc(Pr): Pr 0.6418; MgPr: Pr 0.5136 | model | [2] Guo 2005 | Table 2, p. 5, row 17; `ORC-V2OW6TLBQD` |  |
+| 1007.85 | Liquid = PrMg + βPr | PrMg: Mg 0.5, Pr 0.5 | model | [1] Wang 2015; _cites Guo 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.05.007) | Table 3, p. 4, row 39; `ORC-ESUOOXI4NA` |  |
+| 1006.15 | Liquid = PrMg + βPr | PrMg: Mg 0.5, Pr 0.5 | model | [1] Wang 2015; _cites Kang 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.05.005) | Table 3, p. 4, row 40; `ORC-INY7KKCXVU` |  |
+| 1003.15 | Liquid = PrMg + PrMg2 | PrMg: Mg 0.5, Pr 0.5; PrMg2: Mg 0.666667, Pr 0.333333 | experimental | [1] Wang 2015; _cites Saccone 1993_ [doi](https://doi.org/10.1016/0966-9795%2893%2990010-s) | Table 3, p. 4, row 24; `ORC-LCVN4YE7Z7` |  |
+| 998.45 | Liquid = PrMg + PrMg2 | PrMg: Mg 0.5, Pr 0.5; PrMg2: Mg 0.666667, Pr 0.333333 | model | [1] Wang 2015 | Table 3, p. 4, row 27; `ORC-J23WOZG722` |  |
+| 998.25 | Liquid = PrMg + PrMg2 | PrMg: Mg 0.5, Pr 0.5; PrMg2: Mg 0.666667, Pr 0.333333 | model | [1] Wang 2015; _cites Guo 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.05.007) | Table 3, p. 4, row 26; `ORC-JW3X33FQI4` |  |
+| 998.15 | Liquid = PrMg + PrMg2 | PrMg: Mg 0.5, Pr 0.5; PrMg2: Mg 0.666667, Pr 0.333333 | experimental | [1] Wang 2015; _cites Rokhlin 2003_ | Table 3, p. 4, row 25; `ORC-664XMG7IAN` |  |
+| 998 | liq -> MgPr + Mg2Pr | liq: Pr 0.405; MgPr: Pr 0.46; Mg2Pr: Pr 0.333333 | experimental | [2] Guo 2005; _cites Saccone 1993_ [doi](https://doi.org/10.1016/0966-9795%2893%2990010-s) | Table 2, p. 5, row 14; `ORC-B7WJZ7FJZZ` |  |
+| 998 | liq -> MgPr + Mg2Pr | liq: Pr 0.3822; MgPr: Pr 0.4734; Mg2Pr: Pr 0.333333 | model | [2] Guo 2005 | Table 2, p. 5, row 13; `ORC-PILMGMAXOG` |  |
+| 998 | liq -> MgPr + Mg2Pr | L: Pr 0.405; MgPr: Pr 0.46; Mg2Pr: Pr 0.333333 | experimental | [3] Guo 2008; _cites Saccone 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901377-3) | Table 2, p. 5, row 8; `ORC-RAJ7KGK6DN` |  |
+| 998 | liq -> MgPr + Mg2Pr | L: Pr 0.3828; MgPr: Pr 0.4618; Mg2Pr: Pr 0.333333 | model | [3] Guo 2008 | Table 2, p. 5, row 7; `ORC-TBQHFDU4FD` |  |
+| 953.15 | Mg2Pr = PrMg + PrMg3 | Mg2Pr: Mg 0.666667, Pr 0.333333; PrMg: Mg 0.5, Pr 0.5; PrMg3: Mg 0.75, Pr 0.25 | experimental | [1] Wang 2015; _cites Saccone 1993_ [doi](https://doi.org/10.1016/0966-9795%2893%2990010-s) | Table 3, p. 4, row 28; `ORC-DBEUGDS56C` |  |
+| 943.15 | Mg2Pr = PrMg + PrMg3 | Mg2Pr: Mg 0.666667, Pr 0.333333; PrMg: Mg 0.5, Pr 0.5; PrMg3: Mg 0.75, Pr 0.25 | experimental | [1] Wang 2015; _cites Rokhlin 2003_ | Table 3, p. 4, row 29; `ORC-SMONBKR3E4` |  |
+| 943.15 | Mg2Pr = PrMg + PrMg3 | Mg2Pr: Mg 0.666667, Pr 0.333333; PrMg: Mg 0.5, Pr 0.5; PrMg3: Mg 0.75, Pr 0.25 | model | [1] Wang 2015; _cites Guo 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.05.007) | Table 3, p. 4, row 30; `ORC-VRLFTJZCI7` |  |
+| 943 | Mg2Pr -> Mg3Pr + MgPr | Mg2Pr: Pr 0.333333; Mg3Pr: Pr 0.25; MgPr: Pr 0.475 | experimental | [2] Guo 2005; _cites Saccone 1993_ [doi](https://doi.org/10.1016/0966-9795%2893%2990010-s) | Table 2, p. 5, row 12; `ORC-23JJIPMELC` |  |
+| 943 | Mg2Pr -> Mg3Pr + MgPr | Mg2Pr: Pr 0.333333; Mg3Pr: Pr 0.2498; MgPr: Pr 0.4688 | model | [3] Guo 2008 | Table 2, p. 5, row 13; `ORC-BQFX6KK2HN` |  |
+| 943 | Mg2Pr -> Mg3Pr + MgPr | Mg2Pr: Pr 0.333333; Mg3Pr: Pr 0.25; MgPr: Pr 0.475 | experimental | [3] Guo 2008; _cites Saccone 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901377-3) | Table 2, p. 5, row 14; `ORC-PKQJWAQ7XL` |  |
+| 943 | Mg2Pr -> Mg3Pr + MgPr | Mg2Pr: Pr 0.333333; Mg3Pr: Pr 0.2498; MgPr: Pr 0.4744 | model | [2] Guo 2005 | Table 2, p. 5, row 11; `ORC-ZMQXMW3XUU` |  |
+| 942.75 | Mg2Pr = PrMg + PrMg3 | Mg2Pr: Mg 0.666667, Pr 0.333333; PrMg: Mg 0.5, Pr 0.5; PrMg3: Mg 0.75, Pr 0.25 | model | [1] Wang 2015 | Table 3, p. 4, row 32; `ORC-QTFELY4M3R` |  |
+| 939.15 | Mg2Pr = PrMg + PrMg3 | Mg2Pr: Mg 0.666667, Pr 0.333333; PrMg: Mg 0.5, Pr 0.5; PrMg3: Mg 0.75, Pr 0.25 | model | [1] Wang 2015; _cites Kang 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.05.005) | Table 3, p. 4, row 31; `ORC-6H5SOEQLGG` |  |
+| 866.15 | Liquid + PrMg3 = Pr5Mg41 | PrMg3: Mg 0.75, Pr 0.25; Pr5Mg41: Mg 0.891304, Pr 0.108696 | model | [1] Wang 2015; _cites Kang 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.05.005) | Table 3, p. 4, row 13; `ORC-QKAVQPHRW3` |  |
+| 865.15 | Liquid + PrMg3 = Pr5Mg41 | PrMg3: Mg 0.75, Pr 0.25; Pr5Mg41: Mg 0.891304, Pr 0.108696 | experimental | [1] Wang 2015; _cites Saccone 1993_ [doi](https://doi.org/10.1016/0966-9795%2893%2990010-s) | Table 3, p. 4, row 10; `ORC-2ITE5JPES3` |  |
+| 863.15 | Liquid + PrMg3 = Pr5Mg41 | PrMg3: Mg 0.75, Pr 0.25; Pr5Mg41: Mg 0.891304, Pr 0.108696 | experimental | [1] Wang 2015; _cites Rokhlin 2003_ | Table 3, p. 4, row 11; `ORC-UBCXLGI7OY` |  |
+| 862.95 | Liquid + PrMg3 = Pr5Mg41 | PrMg3: Mg 0.75, Pr 0.25; Pr5Mg41: Mg 0.891304, Pr 0.108696 | model | [1] Wang 2015 | Table 3, p. 4, row 14; `ORC-IOIXHHYEVN` |  |
+| 853.15 | Liquid + Pr5Mg41 = PrMg12 | Pr5Mg41: Mg 0.891304, Pr 0.108696; PrMg12: Mg 0.923077, Pr 0.076923 | experimental | [1] Wang 2015; _cites Rokhlin 2003_ | Table 3, p. 4, row 7; `ORC-GUVL6D3ZAL` |  |
+| 852.75 | Liquid + Pr5Mg41 = PrMg12 | Pr5Mg41: Mg 0.891304, Pr 0.108696; PrMg12: Mg 0.923077, Pr 0.076923 | model | [1] Wang 2015 | Table 3, p. 4, row 9; `ORC-AFSX7PYKYT` |  |
+| 849.95 | Liquid + PrMg3 = Pr5Mg41 | PrMg3: Mg 0.75, Pr 0.25; Pr5Mg41: Mg 0.891304, Pr 0.108696 | model | [1] Wang 2015; _cites Guo 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.05.007) | Table 3, p. 4, row 12; `ORC-7LJHCYHGVC` |  |
+| 849.85 | Liquid = (Mg) + PrMg12 | PrMg12: Mg 0.923077, Pr 0.076923 | model | [1] Wang 2015 | Table 3, p. 4, row 5; `ORC-5SWI74YEPZ` |  |
+| 849.85 | eutectic |  | model | [1] Wang 2015 | p. 3; `ORC-UHVJOYTPZS` | “the presently calculated eutectic compositions are 5.80 at.% Pr (26.31 wt.% Pr) for Liquid, 0.24 at.% Pr (1.36 wt.% Pr) for (Mg), and 7.69 at.% Pr (32.57 wt.% Pr) for stoichiometric PrMg12 at 576.7 °C.” |
+| 848.15 | Liquid = (Mg) + PrMg12 | PrMg12: Mg 0.923077, Pr 0.076923 | experimental | [1] Wang 2015; _cites Rokhlin 2003_ | Table 3, p. 4, row 2; `ORC-SRDSU2HB63` |  |
+| 848 | liq. + Mg3Pr -> Mg41Pr5 | L: Pr 0.084; Mg3Pr: Pr 0.18; Mg41Pr5: Pr 0.108696 | experimental | [3] Guo 2008; _cites Saccone 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901377-3) | Table 2, p. 5, row 16; `ORC-GZIIGO346Z` |  |
+| 848 | liq. + Mg3Pr -> Mg41Pr5 | L: Pr 0.0811; Mg3Pr: Pr 0.2194; Mg41Pr5: Pr 0.108696 | model | [3] Guo 2008 | Table 2, p. 5, row 15; `ORC-LNNDTRNU4H` |  |
+| 847.15 | Liquid = (Mg) + PrMg12 | PrMg12: Mg 0.923077, Pr 0.076923 | model | [1] Wang 2015; _cites Kang 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.05.005) | Table 3, p. 4, row 4; `ORC-WRVZNEIX6I` |  |
+| 844 | liq. + Mg3Pr -> Mg41Pr5 | liq.: Pr 0.084; Mg3Pr: Pr 0.18; Mg41Pr5: Pr 0.111 | experimental | [2] Guo 2005; _cites Saccone 1993_ [doi](https://doi.org/10.1016/0966-9795%2893%2990010-s) | Table 2, p. 5, row 6; `ORC-DUVJZFPTS5` |  |
+| 844 | liq. + Mg3Pr -> Mg41Pr5 | liq.: Pr 0.0825; Mg3Pr: Pr 0.1799; Mg41Pr5: Pr 0.1075 | model | [2] Guo 2005 | Table 2, p. 5, row 5; `ORC-OP76CU4NL4` |  |
+| 843.15 | Liquid + Pr5Mg41 = PrMg12 | Pr5Mg41: Mg 0.891304, Pr 0.108696; PrMg12: Mg 0.923077, Pr 0.076923 | experimental | [1] Wang 2015; _cites Saccone 1993_ [doi](https://doi.org/10.1016/0966-9795%2893%2990010-s) | Table 3, p. 4, row 6; `ORC-H23CRMUAGR` |  |
+| 840 | liq. + Mg41Pr5 -> Mg12Pr | liq.: Pr 0.074; Mg41Pr5: Pr 0.102; Mg12Pr: Pr 0.0769231 | experimental | [2] Guo 2005; _cites Saccone 1993_ [doi](https://doi.org/10.1016/0966-9795%2893%2990010-s) | Table 2, p. 5, row 4; `ORC-SXO5GVSI3H` |  |
+| 840 | liq. + Mg41Pr5 -> Mg12Pr | liq.: Pr 0.0764; Mg41Pr5: Pr 0.1072; Mg12Pr: Pr 0.0769231 | model | [2] Guo 2005 | Table 2, p. 5, row 3; `ORC-XFJ6HL2GF7` |  |
+| 838.15 | Liquid = (Mg) + PrMg12 | PrMg12: Mg 0.923077, Pr 0.076923 | experimental | [1] Wang 2015; _cites Saccone 1993_ [doi](https://doi.org/10.1016/0966-9795%2893%2990010-s) | Table 3, p. 4, row 1; `ORC-PX3B6GCJBZ` |  |
+| 838 | liq. + Mg41Pr5 -> Mg12Pr | L: Pr 0.0676; Mg41Pr5: Pr 0.108696; Mg12Pr: Pr 0.0769231 | model | [3] Guo 2008 | Table 2, p. 5, row 17; `ORC-5DG3X3XS4I` |  |
+| 838 | liq. -> hcp(Mg) + Mg12Pr | liq.: Pr 0.0654; hcp(Mg): Pr 0.0014; Mg12Pr: Pr 0.0769231 | model | [2] Guo 2005 | Table 2, p. 5, row 1; `ORC-OASZ63UPHU` |  |
+| 838 | liq. + Mg41Pr5 -> Mg12Pr | L: Pr 0.074; Mg41Pr5: Pr 0.108696; Mg12Pr: Pr 0.0769231 | experimental | [3] Guo 2008; _cites Saccone 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901377-3) | Table 2, p. 5, row 18; `ORC-R6QKGEOFKP` |  |
+| 837.45 | Liquid + Pr5Mg41 = PrMg12 | Pr5Mg41: Mg 0.891304, Pr 0.108696; PrMg12: Mg 0.923077, Pr 0.076923 | model | [1] Wang 2015; _cites Guo 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.05.007) | Table 3, p. 4, row 8; `ORC-JTVUCRPYLJ` |  |
+| 837.05 | Liquid = (Mg) + PrMg12 | PrMg12: Mg 0.923077, Pr 0.076923 | model | [1] Wang 2015; _cites Guo 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.05.007) | Table 3, p. 4, row 3; `ORC-XOLGLGUJDP` |  |
+| 837 | liq. -> hcp(Mg) + Mg12Pr | L: Pr 0.066; hcp(Mg): Pr 6.000e-4; Mg12Pr: Pr 0.0769231 | model | [3] Guo 2008 | Table 2, p. 5, row 19; `ORC-Y2KKQONBUE` |  |
+| 833 | liq. -> hcp(Mg) + Mg12Pr | L: Pr 0.05; hcp(Mg): Pr 0.001; Mg12Pr: Pr 0.0769231 | experimental | [3] Guo 2008; _cites Saccone 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901377-3) | Table 2, p. 5, row 20; `ORC-I4RBNXXJYH` |  |
+| 833 | liq. -> hcp(Mg) + Mg12Pr | liq.: Pr 0.05; hcp(Mg): Pr 0.001; Mg12Pr: Pr 0.0769231 | experimental | [2] Guo 2005; _cites Saccone 1993_ [doi](https://doi.org/10.1016/0966-9795%2893%2990010-s) | Table 2, p. 5, row 2; `ORC-PBDJI4WXEF` |  |
+| 802.15 | βPr = PrMg + αPr | PrMg: Mg 0.5, Pr 0.5 | model | [1] Wang 2015; _cites Kang 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.05.005) | Table 3, p. 4, row 45; `ORC-UHJQKPLJ4C` |  |
+| 783.15 | βPr = PrMg + αPr | PrMg: Mg 0.5, Pr 0.5 | experimental | [1] Wang 2015; _cites Rokhlin 2003_ | Table 3, p. 4, row 43; `ORC-LM5XTJDZNK` |  |
+| 783.15 | βPr = PrMg + αPr | PrMg: Mg 0.5, Pr 0.5 | model | [1] Wang 2015; _cites Guo 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.05.007) | Table 3, p. 4, row 44; `ORC-TEI7U75KXN` |  |
+| 783 | bcc(Pr) -> MgPr + dhcp(Pr) | bcc(Pr): Pr 0.8097; MgPr: Pr 0.5274; dhcp(Pr): Pr 0.9279 | model | [3] Guo 2008 | Table 2, p. 5, row 3; `ORC-4HA7OZ4OIH` |  |
+| 783 | bcc(Pr) -> MgPr + dhcp(Pr) | bcc(Pr): Pr 0.805; MgPr: Pr 0.508; dhcp(Pr): Pr 0.895 | experimental | [3] Guo 2008; _cites Saccone 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901377-3) | Table 2, p. 5, row 4; `ORC-GQGAKX3LPP` |  |
+| 783 | bcc(Pr) -> MgPr + dhcp(Pr) | bcc(Pr): Pr 0.805; MgPr: Pr 0.508; dhcp(Pr): Pr 0.895 | experimental | [2] Guo 2005; _cites Saccone 1993_ [doi](https://doi.org/10.1016/0966-9795%2893%2990010-s) | Table 2, p. 5, row 20; `ORC-LEXJE2Y2H3` |  |
+| 783 | bcc(Pr) -> MgPr + dhcp(Pr) | bcc(Pr): Pr 0.8065; MgPr: Pr 0.5226; dhcp(Pr): Pr 0.9135 | model | [2] Guo 2005 | Table 2, p. 5, row 19; `ORC-LGT6B43KGE` |  |
+| 782.65 | βPr = PrMg + αPr | PrMg: Mg 0.5, Pr 0.5 | model | [1] Wang 2015 | Table 3, p. 4, row 46; `ORC-PCX5D47WSY` |  |
+| 773.15 | βPr = PrMg + αPr | PrMg: Mg 0.5, Pr 0.5 | experimental | [1] Wang 2015; _cites Saccone 1993_ [doi](https://doi.org/10.1016/0966-9795%2893%2990010-s) | Table 3, p. 4, row 42; `ORC-ZBYV5GVHVC` |  |
 
 ## Other properties
 
@@ -176,21 +176,21 @@ Table: Phase transition, Mg–Pr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 848.15 K | 848.15 |  | experimental | [1] Wang 2015; _cites Bochvar 1971_ | p. 3 | “The temperature agrees well with the accepted experimental value of 575 °C \[14,18\].” |
-| Phase transition | 848.15 K | 848.15 | Liquid + PrMg3 = Pr5Mg41 | experimental | [1] Wang 2015; _cites Saccone 1993_ [doi](https://doi.org/10.1016/0966-9795%2893%2990010-s) | p. 3 | “Liquid + PrMg3 = Pr5Mg41 is 592 °C, very close to the value of 590 °C given by Ref. \[18\], whereas only the cooling signal temperature, 575 °C, is found as assessed value in the phase diagram \[15\].” |
-| Phase transition | 863.15 K | 863.15 | Liquid + PrMg3 = Pr5Mg41 | model | [1] Wang 2015; _cites Rokhlin 2003_ | p. 3 | “Liquid + PrMg3 = Pr5Mg41 is 592 °C, very close to the value of 590 °C given by Ref. \[18\], whereas only the cooling signal temperature, 575 °C, is found as assessed value in the phase diagram \[15\].” |
-| Phase transition | 865.15 K | 865.15 | Liquid + PrMg3 = Pr5Mg41 | model | [1] Wang 2015 | p. 3 | “Liquid + PrMg3 = Pr5Mg41 is 592 °C, very close to the value of 590 °C given by Ref. \[18\], whereas only the cooling signal temperature, 575 °C, is found as assessed value in the phase diagram \[15\].” |
-| Phase transition | 934.15 K | 934.15 |  | experimental | [1] Wang 2015; _cites Canneri 1933_ | p. 1 | “The measured melting points of Mg (661 °C) and Pr (932 °C) show that the starting Mg material was of low purity.” |
-| Phase transition | 948.15 K | 948.15 | Liquid = (Mg) + PrMg12 | model | [1] Wang 2015; _cites Rokhlin 2003_ | p. 3 | “For example, the reported liquid composition \[18\] for the invariant reaction Liquid = (Mg) + PrMg12 was extrapolated by the (Mg) liquidus and the invariant reaction temperature, 675 °C, and labeled as 4.64 at.% Pr (22 wt.% Pr) \[18\].” |
-| Phase transition | 1038 K | 1038 | liq. -> MgPr; _liq.: Pr 0.4915; MgPr: Pr 0.4915_ | model | [2] Guo 2005 | Table 2, p. 5, row 15 |  |
-| Phase transition | 1038 K | 1038 | liq. -> MgPr; _liq.: Pr 0.5; MgPr: Pr 0.5_ | experimental | [2] Guo 2005; _cites Saccone 1993_ [doi](https://doi.org/10.1016/0966-9795%2893%2990010-s) | Table 2, p. 5, row 16 |  |
-| Phase transition | 1038 K | 1038 | liq. -> MgPr; _L: Pr 0.5; MgPr: Pr 0.5_ | experimental | [3] Guo 2008; _cites Saccone 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901377-3) | Table 2, p. 5, row 6 |  |
-| Phase transition | 1038 K | 1038 | liq. -> MgPr; _L: Pr 0.497; MgPr: Pr 0.497_ | model | [3] Guo 2008 | Table 2, p. 5, row 5 |  |
-| Phase transition | 1063 K | 1063 | liq. -> Mg3Pr; _L: Pr 0.2471; Mg3Pr: Pr 0.2471_ | model | [3] Guo 2008 | Table 2, p. 5, row 11 |  |
-| Phase transition | 1063 K | 1063 | liq. -> Mg3Pr; _L: Pr 0.248; Mg3Pr: Pr 0.248_ | experimental | [3] Guo 2008; _cites Saccone 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901377-3) | Table 2, p. 5, row 12 |  |
-| Phase transition | 1063 K | 1063 | liq. -> Mg3Pr; _liq.: Pr 0.2467; Mg3Pr: Pr 0.2467_ | model | [2] Guo 2005 | Table 2, p. 5, row 7 |  |
-| Phase transition | 1063 K | 1063 | liq. -> Mg3Pr; _liq.: Pr 0.248; Mg3Pr: Pr 0.248_ | experimental | [2] Guo 2005; _cites Saccone 1993_ [doi](https://doi.org/10.1016/0966-9795%2893%2990010-s) | Table 2, p. 5, row 8 |  |
-| Phase transition | 1205.15 K | 1205.15 |  | experimental | [1] Wang 2015; _cites Canneri 1933_ | p. 1 | “The measured melting points of Mg (661 °C) and Pr (932 °C) show that the starting Mg material was of low purity.” |
+| Phase transition | 848.15 K | 848.15 |  | experimental | [1] Wang 2015; _cites Bochvar 1971_ | p. 3; `ORC-SITGHDQIRL` | “The temperature agrees well with the accepted experimental value of 575 °C \[14,18\].” |
+| Phase transition | 848.15 K | 848.15 | Liquid + PrMg3 = Pr5Mg41 | experimental | [1] Wang 2015; _cites Saccone 1993_ [doi](https://doi.org/10.1016/0966-9795%2893%2990010-s) | p. 3; `ORC-SPUFZWJ432.ff7620` | “Liquid + PrMg3 = Pr5Mg41 is 592 °C, very close to the value of 590 °C given by Ref. \[18\], whereas only the cooling signal temperature, 575 °C, is found as assessed value in the phase diagram \[15\].” |
+| Phase transition | 863.15 K | 863.15 | Liquid + PrMg3 = Pr5Mg41 | model | [1] Wang 2015; _cites Rokhlin 2003_ | p. 3; `ORC-SPUFZWJ432.33ab5f` | “Liquid + PrMg3 = Pr5Mg41 is 592 °C, very close to the value of 590 °C given by Ref. \[18\], whereas only the cooling signal temperature, 575 °C, is found as assessed value in the phase diagram \[15\].” |
+| Phase transition | 865.15 K | 865.15 | Liquid + PrMg3 = Pr5Mg41 | model | [1] Wang 2015 | p. 3; `ORC-SPUFZWJ432.fd97e8` | “Liquid + PrMg3 = Pr5Mg41 is 592 °C, very close to the value of 590 °C given by Ref. \[18\], whereas only the cooling signal temperature, 575 °C, is found as assessed value in the phase diagram \[15\].” |
+| Phase transition | 934.15 K | 934.15 |  | experimental | [1] Wang 2015; _cites Canneri 1933_ | p. 1; `ORC-6FBXK3DUWF.407341` | “The measured melting points of Mg (661 °C) and Pr (932 °C) show that the starting Mg material was of low purity.” |
+| Phase transition | 948.15 K | 948.15 | Liquid = (Mg) + PrMg12 | model | [1] Wang 2015; _cites Rokhlin 2003_ | p. 3; `ORC-3YIXS7BMFS` | “For example, the reported liquid composition \[18\] for the invariant reaction Liquid = (Mg) + PrMg12 was extrapolated by the (Mg) liquidus and the invariant reaction temperature, 675 °C, and labeled as 4.64 at.% Pr (22 wt.% Pr) \[18\].” |
+| Phase transition | 1038 K | 1038 | liq. -> MgPr; _liq.: Pr 0.4915; MgPr: Pr 0.4915_ | model | [2] Guo 2005 | Table 2, p. 5, row 15; `ORC-2P4AG66UBY` |  |
+| Phase transition | 1038 K | 1038 | liq. -> MgPr; _liq.: Pr 0.5; MgPr: Pr 0.5_ | experimental | [2] Guo 2005; _cites Saccone 1993_ [doi](https://doi.org/10.1016/0966-9795%2893%2990010-s) | Table 2, p. 5, row 16; `ORC-6MTH2WHFS5` |  |
+| Phase transition | 1038 K | 1038 | liq. -> MgPr; _L: Pr 0.5; MgPr: Pr 0.5_ | experimental | [3] Guo 2008; _cites Saccone 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901377-3) | Table 2, p. 5, row 6; `ORC-MCJSG2CKMS` |  |
+| Phase transition | 1038 K | 1038 | liq. -> MgPr; _L: Pr 0.497; MgPr: Pr 0.497_ | model | [3] Guo 2008 | Table 2, p. 5, row 5; `ORC-U4227B4SE3` |  |
+| Phase transition | 1063 K | 1063 | liq. -> Mg3Pr; _L: Pr 0.2471; Mg3Pr: Pr 0.2471_ | model | [3] Guo 2008 | Table 2, p. 5, row 11; `ORC-APYWYWO2YE` |  |
+| Phase transition | 1063 K | 1063 | liq. -> Mg3Pr; _L: Pr 0.248; Mg3Pr: Pr 0.248_ | experimental | [3] Guo 2008; _cites Saccone 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901377-3) | Table 2, p. 5, row 12; `ORC-CDSMNUHGY4` |  |
+| Phase transition | 1063 K | 1063 | liq. -> Mg3Pr; _liq.: Pr 0.2467; Mg3Pr: Pr 0.2467_ | model | [2] Guo 2005 | Table 2, p. 5, row 7; `ORC-D26RLKTRMD` |  |
+| Phase transition | 1063 K | 1063 | liq. -> Mg3Pr; _liq.: Pr 0.248; Mg3Pr: Pr 0.248_ | experimental | [2] Guo 2005; _cites Saccone 1993_ [doi](https://doi.org/10.1016/0966-9795%2893%2990010-s) | Table 2, p. 5, row 8; `ORC-DCIP72K3Q6` |  |
+| Phase transition | 1205.15 K | 1205.15 |  | experimental | [1] Wang 2015; _cites Canneri 1933_ | p. 1; `ORC-6FBXK3DUWF.293f3e` | “The measured melting points of Mg (661 °C) and Pr (932 °C) show that the starting Mg material was of low purity.” |
 
 ### Crystal structure (11)
 
@@ -198,17 +198,17 @@ Table: Crystal structure, Mg–Pr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 3.2094 Å | 298.15 | Mg; _Mg: Mg 0.99703, Pr 0.00297_ | unspecified | [1] Wang 2015 | Table 1, p. 2, row 1 |  |
-| Lattice a | 1.475 Å | 298.15 | Pr5Mg41; _Pr5Mg41: Mg 0.891, Pr 0.109_ | unspecified | [1] Wang 2015; _cites ref. 1993Sac_ | Table 1, p. 2, row 3 |  |
-| Lattice a | 3.898 Å | 298.15 | PrMg; _PrMg: Mg 0.47, Pr 0.53_ | unspecified | [1] Wang 2015; _cites ref. 1993Sac_ | Table 1, p. 2, row 13 |  |
-| Lattice a | 10.34 Å | 298.15 | PrMg12; _PrMg12: Mg 0.923, Pr 0.077_ | unspecified | [1] Wang 2015; _cites ref. 1993Sac_ | Table 1, p. 2, row 2 |  |
-| Lattice a | 8.689 Å | 298.15 | PrMg2a; _PrMg2a: Mg 0.667, Pr 0.333_ | unspecified | [1] Wang 2015; _cites ref. 1993Sac_ | Table 1, p. 2, row 5 |  |
-| Lattice a | 7.43 Å | 298.15 | PrMg3; _alloy: Pr 0.25_ | unspecified | [1] Wang 2015; _cites ref. 1993Sac_ | Table 1, p. 2, row 4 |  |
-| Lattice a | 3.898 Å | 298.15 | UNKNOWN; _alloy: Pr 0.5_ | unspecified | [1] Wang 2015; _cites ref. 1993Sac_ | Table 1, p. 2, row 6 |  |
-| Lattice c | 5.2107 Å | 298.15 | Mg; _Mg: Mg 0.99703, Pr 0.00297_ | unspecified | [1] Wang 2015 | Table 1, p. 2, row 1 |  |
-| Lattice c | 1.041 Å | 298.15 | Pr5Mg41; _Pr5Mg41: Mg 0.891, Pr 0.109_ | unspecified | [1] Wang 2015; _cites ref. 1993Sac_ | Table 1, p. 2, row 3 |  |
-| Lattice c | 5.98 Å | 298.15 | PrMg12; _PrMg12: Mg 0.923, Pr 0.077_ | unspecified | [1] Wang 2015; _cites ref. 1993Sac_ | Table 1, p. 2, row 2 |  |
-| Lattice c | 7.411 Å | 298.15 | PrMg3; _alloy: Pr 0.25_ | unspecified | [1] Wang 2015; _cites ref. 1993Sac_ | Table 1, p. 2, row 4 |  |
+| Lattice a | 3.2094 Å | 298.15 | Mg; _Mg: Mg 0.99703, Pr 0.00297_ | unspecified | [1] Wang 2015 | Table 1, p. 2, row 1; `ORC-EAA4RP2SWZ.a7f555` |  |
+| Lattice a | 1.475 Å | 298.15 | Pr5Mg41; _Pr5Mg41: Mg 0.891, Pr 0.109_ | unspecified | [1] Wang 2015; _cites ref. 1993Sac_ | Table 1, p. 2, row 3; `ORC-A3TCJEWBPM.f39085` |  |
+| Lattice a | 3.898 Å | 298.15 | PrMg; _PrMg: Mg 0.47, Pr 0.53_ | unspecified | [1] Wang 2015; _cites ref. 1993Sac_ | Table 1, p. 2, row 13; `ORC-UTP5R5OXAI` |  |
+| Lattice a | 10.34 Å | 298.15 | PrMg12; _PrMg12: Mg 0.923, Pr 0.077_ | unspecified | [1] Wang 2015; _cites ref. 1993Sac_ | Table 1, p. 2, row 2; `ORC-EH2FSQFM5H.6173bc` |  |
+| Lattice a | 8.689 Å | 298.15 | PrMg2a; _PrMg2a: Mg 0.667, Pr 0.333_ | unspecified | [1] Wang 2015; _cites ref. 1993Sac_ | Table 1, p. 2, row 5; `ORC-NTYVB2W74Y` |  |
+| Lattice a | 7.43 Å | 298.15 | PrMg3; _alloy: Pr 0.25_ | unspecified | [1] Wang 2015; _cites ref. 1993Sac_ | Table 1, p. 2, row 4; `ORC-BMPIP3QKMY.d68ba2` |  |
+| Lattice a | 3.898 Å | 298.15 | UNKNOWN; _alloy: Pr 0.5_ | unspecified | [1] Wang 2015; _cites ref. 1993Sac_ | Table 1, p. 2, row 6; `ORC-S2KYZBV7AC` |  |
+| Lattice c | 5.2107 Å | 298.15 | Mg; _Mg: Mg 0.99703, Pr 0.00297_ | unspecified | [1] Wang 2015 | Table 1, p. 2, row 1; `ORC-EAA4RP2SWZ.444401` |  |
+| Lattice c | 1.041 Å | 298.15 | Pr5Mg41; _Pr5Mg41: Mg 0.891, Pr 0.109_ | unspecified | [1] Wang 2015; _cites ref. 1993Sac_ | Table 1, p. 2, row 3; `ORC-A3TCJEWBPM.cd8a24` |  |
+| Lattice c | 5.98 Å | 298.15 | PrMg12; _PrMg12: Mg 0.923, Pr 0.077_ | unspecified | [1] Wang 2015; _cites ref. 1993Sac_ | Table 1, p. 2, row 2; `ORC-EH2FSQFM5H.f6f2e1` |  |
+| Lattice c | 7.411 Å | 298.15 | PrMg3; _alloy: Pr 0.25_ | unspecified | [1] Wang 2015; _cites ref. 1993Sac_ | Table 1, p. 2, row 4; `ORC-BMPIP3QKMY.5dff60` |  |
 
 ## Sources
 
@@ -275,4 +275,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

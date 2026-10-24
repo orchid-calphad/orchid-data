@@ -45,8 +45,8 @@ Table: Invariant reactions reported in the literature for the Ho–Tb system (2)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1735 | peritectic |  | experimental | [1] Norgren 2000; _cites Spedding 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990126-4) | p. 3 | “The calculated peritectic temperature is 1730 K compared to 1735 K reported by Spedding et al.\[8\] (Table 2).” |
-| 1730 | peritectic |  | model | [1] Norgren 2000 | p. 3 | “The calculated peritectic temperature is 1730 K compared to 1735 K reported by Spedding et al.\[8\] (Table 2).” |
+| 1735 | peritectic |  | experimental | [1] Norgren 2000; _cites Spedding 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990126-4) | p. 3; `ORC-QE2XC2LXQX.e7b635` | “The calculated peritectic temperature is 1730 K compared to 1735 K reported by Spedding et al.\[8\] (Table 2).” |
+| 1730 | peritectic |  | model | [1] Norgren 2000 | p. 3; `ORC-QE2XC2LXQX.3ffe6c` | “The calculated peritectic temperature is 1730 K compared to 1735 K reported by Spedding et al.\[8\] (Table 2).” |
 
 ## Sources
 
@@ -111,4 +111,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

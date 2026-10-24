@@ -14,9 +14,9 @@ Table: Enthalpy of formation of Pd3S reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -27.317 per mol-atom | Pd3S | 298.15 | experimental |  | [Pd–S](https://data.orchid-project.org/systems/PD-S.html) | [1] Hu 2010; _cites Taylor 1985_ [doi](https://doi.org/10.1007/bf02657499) | Table 2, p. 2, row 7 |  |
-| -24.125 per mol-atom ± 2.625 | Pd3S | 298.15 | experimental | calorimetry | [Pd–S](https://data.orchid-project.org/systems/PD-S.html) | [1] Hu 2010; _cites Zubkov 1998_ [doi](https://doi.org/10.1006/jcht.1997.0328) | Table 2, p. 2, row 6 |  |
-| -25.4 per mol-atom | Pd3S | 0 | DFT | first principles (PBEsol) | [Pd–S](https://data.orchid-project.org/systems/PD-S.html) | [1] Hu 2010 | Table 2, p. 2, row 8 |  |
+| -27.317 per mol-atom | Pd3S | 298.15 | experimental |  | [Pd–S](https://data.orchid-project.org/systems/PD-S.html) | [1] Hu 2010; _cites Taylor 1985_ [doi](https://doi.org/10.1007/bf02657499) | Table 2, p. 2, row 7; `ORC-G7ARZFL2LR.52039a` |  |
+| -24.125 per mol-atom ± 2.625 | Pd3S | 298.15 | experimental | calorimetry | [Pd–S](https://data.orchid-project.org/systems/PD-S.html) | [1] Hu 2010; _cites Zubkov 1998_ [doi](https://doi.org/10.1006/jcht.1997.0328) | Table 2, p. 2, row 6; `ORC-OVVEBYDVFJ.3102a7` |  |
+| -25.4 per mol-atom | Pd3S | 0 | DFT | first principles (PBEsol) | [Pd–S](https://data.orchid-project.org/systems/PD-S.html) | [1] Hu 2010 | Table 2, p. 2, row 8; `ORC-CNWAO6MNIZ.a55c5e` |  |
 
 ### Uncertainty budget
 
@@ -81,4 +81,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

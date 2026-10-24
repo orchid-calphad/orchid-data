@@ -28,29 +28,29 @@ Table: Invariant reactions reported in the literature for the Au–Bi–Sb syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 740 | peritectic: L + (Sb) -> AuSb2 | L: Au 0.345 | model | [1] Wang 2007; _cites Liu 2003_ [doi](https://doi.org/10.1007/s11664-003-0240-x) | Table I, p. 3, row 18 |  |
-| 651 | peritectic: L + (Au) -> Au2Bi | L: Bi 0.681 | model | [1] Wang 2007 | Table I, p. 3, row 7 |  |
-| 651 | peritectic: L + (Au) -> Au2Bi | L: Bi 0.666 | unspecified | [1] Wang 2007; _cites Evans 1983_ | Table I, p. 3, row 3 |  |
-| 651 | peritectic: L + (Au) -> Au2Bi |  | experimental | [1] Wang 2007; _cites Zoro 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.02.012) | Table I, p. 3, row 4 |  |
-| 647.8 | peritectic: L + (Au) -> Au2Bi | L: Bi 0.667 | model | [1] Wang 2007; _cites Chevalier 1988_ [doi](https://doi.org/10.1016/0040-6031%2888%2987046-1) | Table I, p. 3, row 6 |  |
-| 646 | peritectic: L + (Au) -> Au2Bi | L: Bi 0.68 | experimental | [1] Wang 2007; _cites Gather 1975_ | Table I, p. 3, row 2 |  |
-| 644 | peritectic: L + (Au) -> Au2Bi | L: Bi 0.678 | experimental | [1] Wang 2007; _cites Okamoto 1983_ [doi](https://doi.org/10.1007/bf02868093) | Table I, p. 3, row 5 |  |
-| 644 | peritectic: L + (Au) -> Au2Bi | L: Bi 0.669 | experimental | [1] Wang 2007; _cites Nathans 1962_ [doi](https://doi.org/10.1021/j100816a043) | Table I, p. 3, row 1 |  |
-| 626 | eutectic: L -> (Au) + AuSb2 | L: Au 0.634 | model | [1] Wang 2007; _cites Liu 2003_ [doi](https://doi.org/10.1007/s11664-003-0240-x) | Table I, p. 3, row 19 |  |
-| 562 | quasi-peritectic: L + (Au) -> Au2Bi + AuSb2 | L: Au 0.455, Bi 0.336 | model | [1] Wang 2007 | Table I, p. 3, row 21 |  |
-| 561 | quasi-peritectic: L + (Au) -> Au2Bi + AuSb2 | L: Au 0.49, Bi 0.28 | unspecified | [1] Wang 2007; _cites Gather 1981_ | Table I, p. 3, row 20 |  |
-| 515.1 | eutectic: L -> Au2Bi + (Bi) |  | experimental | [1] Wang 2007; _cites Zoro 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.02.012) | Table I, p. 3, row 11 |  |
-| 514.4 | eutectic: L -> Au2Bi + (Bi) | L: Bi 0.868 | model | [1] Wang 2007; _cites Chevalier 1988_ [doi](https://doi.org/10.1016/0040-6031%2888%2987046-1) | Table I, p. 3, row 13 |  |
-| 514.1 | eutectic: L -> Au2Bi + (Bi) | L: Bi 0.868 | experimental | [1] Wang 2007; _cites Nathans 1962_ [doi](https://doi.org/10.1021/j100816a043) | Table I, p. 3, row 8 |  |
-| 514 | eutectic: L -> Au2Bi + (Bi) | L: Bi 0.85 | experimental | [1] Wang 2007; _cites Gather 1975_ | Table I, p. 3, row 9 |  |
-| 514 | eutectic: L -> Au2Bi + (Bi) | L: Bi 0.863 | experimental | [1] Wang 2007; _cites Okamoto 1983_ [doi](https://doi.org/10.1007/bf02868093) | Table I, p. 3, row 12 |  |
-| 514 | eutectic: L -> Au2Bi + (Bi) | L: Bi 0.864 | unspecified | [1] Wang 2007; _cites Evans 1983_ | Table I, p. 3, row 10 |  |
-| 512.9 | eutectic: L -> Au2Bi + (Bi) | L: Bi 0.867 | model | [1] Wang 2007 | Table I, p. 3, row 14 |  |
-| 512 | eutectic: L -> Au2Bi + AuSb2 + (Bi) | L: Au 0.167, Bi 0.787 | model | [1] Wang 2007 | Table I, p. 3, row 23 |  |
-| 511 | eutectic: L -> Au2Bi + AuSb2 + (Bi) | L: Au 0.183, Bi 0.735 | unspecified | [1] Wang 2007; _cites Gather 1981_ | Table I, p. 3, row 22 |  |
-| 389 | Au2Bi -> (Au) + (Bi) | L: Bi 0.333 | experimental | [1] Wang 2007; _cites Okamoto 1983_ [doi](https://doi.org/10.1007/bf02868093) | Table I, p. 3, row 16 |  |
-| 382.7 | Au2Bi -> (Au) + (Bi) | L: Bi 0.333 | model | [1] Wang 2007; _cites Chevalier 1988_ [doi](https://doi.org/10.1016/0040-6031%2888%2987046-1) | Table I, p. 3, row 15 |  |
-| 375 | Au2Bi -> (Au) + (Bi) | L: Bi 0.333 | model | [1] Wang 2007 | Table I, p. 3, row 17 |  |
+| 740 | peritectic: L + (Sb) -> AuSb2 | L: Au 0.345 | model | [1] Wang 2007; _cites Liu 2003_ [doi](https://doi.org/10.1007/s11664-003-0240-x) | Table I, p. 3, row 18; `ORC-OUWECVFEJE` |  |
+| 651 | peritectic: L + (Au) -> Au2Bi | L: Bi 0.681 | model | [1] Wang 2007 | Table I, p. 3, row 7; `ORC-HGEOIAKUYI` |  |
+| 651 | peritectic: L + (Au) -> Au2Bi | L: Bi 0.666 | unspecified | [1] Wang 2007; _cites Evans 1983_ | Table I, p. 3, row 3; `ORC-IZQS6DAZVA` |  |
+| 651 | peritectic: L + (Au) -> Au2Bi |  | experimental | [1] Wang 2007; _cites Zoro 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.02.012) | Table I, p. 3, row 4; `ORC-RZBO3O76V6` |  |
+| 647.8 | peritectic: L + (Au) -> Au2Bi | L: Bi 0.667 | model | [1] Wang 2007; _cites Chevalier 1988_ [doi](https://doi.org/10.1016/0040-6031%2888%2987046-1) | Table I, p. 3, row 6; `ORC-RR2DSZMLO7` |  |
+| 646 | peritectic: L + (Au) -> Au2Bi | L: Bi 0.68 | experimental | [1] Wang 2007; _cites Gather 1975_ | Table I, p. 3, row 2; `ORC-44E5O73NLR` |  |
+| 644 | peritectic: L + (Au) -> Au2Bi | L: Bi 0.678 | experimental | [1] Wang 2007; _cites Okamoto 1983_ [doi](https://doi.org/10.1007/bf02868093) | Table I, p. 3, row 5; `ORC-3BKFP3WZK7` |  |
+| 644 | peritectic: L + (Au) -> Au2Bi | L: Bi 0.669 | experimental | [1] Wang 2007; _cites Nathans 1962_ [doi](https://doi.org/10.1021/j100816a043) | Table I, p. 3, row 1; `ORC-CB3JM57L36` |  |
+| 626 | eutectic: L -> (Au) + AuSb2 | L: Au 0.634 | model | [1] Wang 2007; _cites Liu 2003_ [doi](https://doi.org/10.1007/s11664-003-0240-x) | Table I, p. 3, row 19; `ORC-AZXTAONSWA` |  |
+| 562 | quasi-peritectic: L + (Au) -> Au2Bi + AuSb2 | L: Au 0.455, Bi 0.336 | model | [1] Wang 2007 | Table I, p. 3, row 21; `ORC-TTYTDGTIPW` |  |
+| 561 | quasi-peritectic: L + (Au) -> Au2Bi + AuSb2 | L: Au 0.49, Bi 0.28 | unspecified | [1] Wang 2007; _cites Gather 1981_ | Table I, p. 3, row 20; `ORC-XSB5UG4HSW` |  |
+| 515.1 | eutectic: L -> Au2Bi + (Bi) |  | experimental | [1] Wang 2007; _cites Zoro 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.02.012) | Table I, p. 3, row 11; `ORC-PXVFRUJALA` |  |
+| 514.4 | eutectic: L -> Au2Bi + (Bi) | L: Bi 0.868 | model | [1] Wang 2007; _cites Chevalier 1988_ [doi](https://doi.org/10.1016/0040-6031%2888%2987046-1) | Table I, p. 3, row 13; `ORC-SW64LZT7NC` |  |
+| 514.1 | eutectic: L -> Au2Bi + (Bi) | L: Bi 0.868 | experimental | [1] Wang 2007; _cites Nathans 1962_ [doi](https://doi.org/10.1021/j100816a043) | Table I, p. 3, row 8; `ORC-5GWQM6J3S7` |  |
+| 514 | eutectic: L -> Au2Bi + (Bi) | L: Bi 0.85 | experimental | [1] Wang 2007; _cites Gather 1975_ | Table I, p. 3, row 9; `ORC-DGPQFCGELJ` |  |
+| 514 | eutectic: L -> Au2Bi + (Bi) | L: Bi 0.863 | experimental | [1] Wang 2007; _cites Okamoto 1983_ [doi](https://doi.org/10.1007/bf02868093) | Table I, p. 3, row 12; `ORC-S76NKSJZKC` |  |
+| 514 | eutectic: L -> Au2Bi + (Bi) | L: Bi 0.864 | unspecified | [1] Wang 2007; _cites Evans 1983_ | Table I, p. 3, row 10; `ORC-WGKG6X5YZ5` |  |
+| 512.9 | eutectic: L -> Au2Bi + (Bi) | L: Bi 0.867 | model | [1] Wang 2007 | Table I, p. 3, row 14; `ORC-AL6KRMCS63` |  |
+| 512 | eutectic: L -> Au2Bi + AuSb2 + (Bi) | L: Au 0.167, Bi 0.787 | model | [1] Wang 2007 | Table I, p. 3, row 23; `ORC-NPXVOP743K` |  |
+| 511 | eutectic: L -> Au2Bi + AuSb2 + (Bi) | L: Au 0.183, Bi 0.735 | unspecified | [1] Wang 2007; _cites Gather 1981_ | Table I, p. 3, row 22; `ORC-XDRTNNIHE6` |  |
+| 389 | Au2Bi -> (Au) + (Bi) | L: Bi 0.333 | experimental | [1] Wang 2007; _cites Okamoto 1983_ [doi](https://doi.org/10.1007/bf02868093) | Table I, p. 3, row 16; `ORC-K5Y2XXIE5D` |  |
+| 382.7 | Au2Bi -> (Au) + (Bi) | L: Bi 0.333 | model | [1] Wang 2007; _cites Chevalier 1988_ [doi](https://doi.org/10.1016/0040-6031%2888%2987046-1) | Table I, p. 3, row 15; `ORC-NUXEEVT2LL` |  |
+| 375 | Au2Bi -> (Au) + (Bi) | L: Bi 0.333 | model | [1] Wang 2007 | Table I, p. 3, row 17; `ORC-BUQ3KKAEEA` |  |
 
 ## Sources
 
@@ -93,4 +93,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

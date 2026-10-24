@@ -47,9 +47,9 @@ Table: Phase transition, Os–Pt system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 3306 K | 3306 |  | experimental | [1] Joubert 2021 | p. 4 | “We stick to the SGTE description with a melting point at 3306 K while Arblaster \[52\] and Burakowsky et al. \[47\] think it is the value for impure Os and propose a higher value around 3400 K.” |
-| Phase transition | 3400 K | 3400 |  | model | [1] Joubert 2021; _cites ref. 47_ | p. 4 | “We stick to the SGTE description with a melting point at 3306 K while Arblaster \[52\] and Burakowsky et al. \[47\] think it is the value for impure Os and propose a higher value around 3400 K.” |
-| Phase transition | 5200 K | 5200 | hcp + fcc | model | [1] Joubert 2021 | p. 7 | “It is shown that, according to the SGTE database, fcc Os is stable over hcp at 5200 K.” |
+| Phase transition | 3306 K | 3306 |  | experimental | [1] Joubert 2021 | p. 4; `ORC-42C7MS3OYL.b49695` | “We stick to the SGTE description with a melting point at 3306 K while Arblaster \[52\] and Burakowsky et al. \[47\] think it is the value for impure Os and propose a higher value around 3400 K.” |
+| Phase transition | 3400 K | 3400 |  | model | [1] Joubert 2021; _cites ref. 47_ | p. 4; `ORC-42C7MS3OYL.ff0e02` | “We stick to the SGTE description with a melting point at 3306 K while Arblaster \[52\] and Burakowsky et al. \[47\] think it is the value for impure Os and propose a higher value around 3400 K.” |
+| Phase transition | 5200 K | 5200 | hcp + fcc | model | [1] Joubert 2021 | p. 7; `ORC-TIG2FOHHTW` | “It is shown that, according to the SGTE database, fcc Os is stable over hcp at 5200 K.” |
 
 ## Sources
 
@@ -114,4 +114,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

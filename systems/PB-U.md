@@ -62,21 +62,21 @@ Table: Invariant reactions reported in the literature for the Pb–U system (15)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2758.15 | critical point: L -> L1 + L2 | L: U 0.795 | model | [1] Li 2010 | Table 3, p. 4, row 16 |  |
-| 1556.15 | syntectic: L1 + L2 -> PbU | L1: U 0.38; L2: U 0.972; PbU: U 0.5 | model | [1] Li 2010 | Table 3, p. 4, row 8 |  |
-| 1553.15 | syntectic: L1 + L2 -> PbU | L1: U 0.37; L2: U 0.985; PbU: U 0.5 | experimental | [1] Li 2010; _cites Sheldon 1995_ | Table 3, p. 4, row 7 |  |
-| 1493.15 | congruent melting: L -> Pb3U | L: U 0.25; Pb3U: U 0.25 | experimental | [1] Li 2010; _cites Sheldon 1995_ | Table 3, p. 4, row 3 |  |
-| 1491.15 | congruent melting: L -> Pb3U | L: U 0.25; Pb3U: U 0.25 | model | [1] Li 2010 | Table 3, p. 4, row 4 |  |
-| 1486.15 | eutectic: L -> Pb3U + PbU | L: U 0.286; Pb3U: U 0.25; PbU: U 0.5 | model | [1] Li 2010 | Table 3, p. 4, row 6 |  |
-| 1483.15 | eutectic: L -> Pb3U + PbU | L: U 0.272; Pb3U: U 0.25; PbU: U 0.5 | experimental | [1] Li 2010; _cites Sheldon 1995_ | Table 3, p. 4, row 5 |  |
-| 1399.15 | eutectic: L -> Pb–U + γU | L: U 0.991; Pb–U: U 0.5; γU: U 0.996 | model | [1] Li 2010 | Table 3, p. 4, row 10 |  |
-| 1398.15 | eutectic: L -> Pb–U + γU | L: U 0.995; Pb–U: U 0.5; γU: U 1 | experimental | [1] Li 2010; _cites Sheldon 1995_ | Table 3, p. 4, row 9 |  |
-| 1038.15 | eutectoid: γU -> βU + PbU | γU: U 1; βU: U 1; PbU: U 0.5 | experimental | [1] Li 2010; _cites Sheldon 1995_ | Table 3, p. 4, row 11 |  |
-| 1037.15 | eutectoid: γU -> βU + PbU | γU: U 0.99; βU: U 0.995; PbU: U 0.5 | model | [1] Li 2010 | Table 3, p. 4, row 12 |  |
-| 923.15 | eutectoid: βU -> αU + PbU | βU: U 0.992; αU: U 0.999; PbU: U 0.5 | model | [1] Li 2010 | Table 3, p. 4, row 14 |  |
-| 918.15 | eutectoid: βU -> αU + PbU | βU: U 1; αU: U 1; PbU: U 0.5 | experimental | [1] Li 2010; _cites Sheldon 1995_ | Table 3, p. 4, row 13 |  |
-| 600.15 | eutectic: L -> (Pb) + Pb3U | L: U 0; (Pb): U 0; Pb3U: U 0.25 | model | [1] Li 2010 | Table 3, p. 4, row 2 |  |
-| 598.15 | eutectic: L -> (Pb) + Pb3U | L: U 0; (Pb): U 0; Pb3U: U 0.25 | experimental | [1] Li 2010; _cites Sheldon 1995_ | Table 3, p. 4, row 1 |  |
+| 2758.15 | critical point: L -> L1 + L2 | L: U 0.795 | model | [1] Li 2010 | Table 3, p. 4, row 16; `ORC-7QUAY5VWY2` |  |
+| 1556.15 | syntectic: L1 + L2 -> PbU | L1: U 0.38; L2: U 0.972; PbU: U 0.5 | model | [1] Li 2010 | Table 3, p. 4, row 8; `ORC-SUBHOEK34F` |  |
+| 1553.15 | syntectic: L1 + L2 -> PbU | L1: U 0.37; L2: U 0.985; PbU: U 0.5 | experimental | [1] Li 2010; _cites Sheldon 1995_ | Table 3, p. 4, row 7; `ORC-BDJ5YGNZN6` |  |
+| 1493.15 | congruent melting: L -> Pb3U | L: U 0.25; Pb3U: U 0.25 | experimental | [1] Li 2010; _cites Sheldon 1995_ | Table 3, p. 4, row 3; `ORC-S7QXBVSNP2` |  |
+| 1491.15 | congruent melting: L -> Pb3U | L: U 0.25; Pb3U: U 0.25 | model | [1] Li 2010 | Table 3, p. 4, row 4; `ORC-OIHMX7J4RI` |  |
+| 1486.15 | eutectic: L -> Pb3U + PbU | L: U 0.286; Pb3U: U 0.25; PbU: U 0.5 | model | [1] Li 2010 | Table 3, p. 4, row 6; `ORC-KMWBK5KDYY` |  |
+| 1483.15 | eutectic: L -> Pb3U + PbU | L: U 0.272; Pb3U: U 0.25; PbU: U 0.5 | experimental | [1] Li 2010; _cites Sheldon 1995_ | Table 3, p. 4, row 5; `ORC-DUQIZ53CNP` |  |
+| 1399.15 | eutectic: L -> Pb–U + γU | L: U 0.991; Pb–U: U 0.5; γU: U 0.996 | model | [1] Li 2010 | Table 3, p. 4, row 10; `ORC-HHQJSDYIZG` |  |
+| 1398.15 | eutectic: L -> Pb–U + γU | L: U 0.995; Pb–U: U 0.5; γU: U 1 | experimental | [1] Li 2010; _cites Sheldon 1995_ | Table 3, p. 4, row 9; `ORC-PSS3EMOXOU` |  |
+| 1038.15 | eutectoid: γU -> βU + PbU | γU: U 1; βU: U 1; PbU: U 0.5 | experimental | [1] Li 2010; _cites Sheldon 1995_ | Table 3, p. 4, row 11; `ORC-PJUPZMYD4G` |  |
+| 1037.15 | eutectoid: γU -> βU + PbU | γU: U 0.99; βU: U 0.995; PbU: U 0.5 | model | [1] Li 2010 | Table 3, p. 4, row 12; `ORC-ZYBJDNLO4G` |  |
+| 923.15 | eutectoid: βU -> αU + PbU | βU: U 0.992; αU: U 0.999; PbU: U 0.5 | model | [1] Li 2010 | Table 3, p. 4, row 14; `ORC-3YKENMUKCC` |  |
+| 918.15 | eutectoid: βU -> αU + PbU | βU: U 1; αU: U 1; PbU: U 0.5 | experimental | [1] Li 2010; _cites Sheldon 1995_ | Table 3, p. 4, row 13; `ORC-7EJXLC4WWS` |  |
+| 600.15 | eutectic: L -> (Pb) + Pb3U | L: U 0; (Pb): U 0; Pb3U: U 0.25 | model | [1] Li 2010 | Table 3, p. 4, row 2; `ORC-FFWTKV45VI` |  |
+| 598.15 | eutectic: L -> (Pb) + Pb3U | L: U 0; (Pb): U 0; Pb3U: U 0.25 | experimental | [1] Li 2010; _cites Sheldon 1995_ | Table 3, p. 4, row 1; `ORC-VLEFU5VY7N` |  |
 
 ## Sources
 
@@ -141,4 +141,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

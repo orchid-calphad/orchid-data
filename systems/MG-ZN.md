@@ -122,41 +122,41 @@ Table: Invariant reactions reported in the literature for the Mg–Zn system (35
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 864 | congruent melting: Liquid -> MgZn2 | Liquid: Zn 0.667; MgZn2: Zn 0.667 | unspecified | [1] Hämäläinen 1998 | Table I, p. 248, row 5 |  |
-| 691 | peritectic: L+Laves_C14 -> Mg2Zn3 | L: Zn 0.362; Mg2Zn3: Zn 0.6 | model | [2] Yuan 2014 | Table 1, p. 4, row 7 |  |
-| 689 | peritectic: L+Laves_C14 -> Mg2Zn3 | L: Zn 0.35; Mg2Zn3: Zn 0.6 | experimental | [2] Yuan 2014; _cites Massalski 2014_ | Table 1, p. 4, row 8 |  |
-| 689 | Liquid + MgZn2 -> Mg2Zn3 | Liquid: Zn 0.356; MgZn2: Zn 0.661; Mg2Zn3: Zn 0.6 | model | [3] Niu 2010; _cites Liang 1998_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900458-9) | Table 3, p. 3, row 2 |  |
-| 689 | Liquid + MgZn2 -> Mg2Zn3 | Liquid: Zn 0.356; MgZn2: Zn 0.661; Mg2Zn3: Zn 0.6 | model | [3] Niu 2010 | Table 3, p. 3, row 1 |  |
-| 688.9 | peritectic: Liquid + Laves-C14 -> Mg2Zn3 | Liquid: Zn 0.356; Laves-C14: Zn 0.661; Mg2Zn3: Zn 0.6 | unspecified | [1] Hämäläinen 1998 | Table I, p. 248, row 4 |  |
-| 654.4 | Liquid + MgZn2 -> Mg2Zn11 | Liquid: Zn 0.913; MgZn2: Zn 0.67; Mg2Zn11: Zn 0.846 | model | [3] Niu 2010 | Table 3, p. 3, row 3 |  |
-| 654.4 | peritectic: Liquid + Laves-C14 -> Mg2Zn11 | Liquid: Zn 0.913; Laves-C14: Zn 0.661; Mg2Zn11: Zn 0.846 | unspecified | [1] Hämäläinen 1998 | Table I, p. 248, row 6 |  |
-| 654 | peritectic: L+Laves_C14 -> Mg2Zn11 | L: Zn 0.91; Mg2Zn11: Zn 0.846154 | experimental | [2] Yuan 2014; _cites Massalski 2014_ | Table 1, p. 4, row 12 |  |
-| 654 | Liquid + MgZn2 -> Mg2Zn11 | Liquid: Zn 0.913; MgZn2: Zn 0.67; Mg2Zn11: Zn 0.846 | model | [3] Niu 2010; _cites Liang 1998_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900458-9) | Table 3, p. 3, row 4 |  |
-| 653 | peritectic: L+Laves_C14 -> Mg2Zn11 | L: Zn 0.912; Mg2Zn11: Zn 0.846154 | model | [2] Yuan 2014 | Table 1, p. 4, row 11 |  |
-| 640.4 | Liquid -> Mg2Zn11 + hcp_A3 | Liquid: Zn 0.93; Mg2Zn11: Zn 0.846; hcp_A3: Zn 0.997 | model | [3] Niu 2010 | Table 3, p. 3, row 5 |  |
-| 640.4 | Liquid -> Mg2Zn11 + hcp_A3 | Liquid: Zn 0.93; Mg2Zn11: Zn 0.846; hcp_A3: Zn 0.997 | model | [3] Niu 2010; _cites Liang 1998_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900458-9) | Table 3, p. 3, row 6 |  |
-| 640 | eutectic: L -> Mg2Zn11+(Zn) | L: Zn 0.929; Mg2Zn11: Zn 0.846154 | model | [2] Yuan 2014 | Table 1, p. 4, row 13 |  |
-| 637.3 | eutectic: Liquid -> Mg2Zn11 + hcp-A3 | Liquid: Zn 0.926; Mg2Zn11: Zn 0.846; hcp-A3: Zn 0.997 | unspecified | [1] Hämäläinen 1998 | Table I, p. 248, row 7 |  |
-| 637 | eutectic: L -> Mg2Zn11+(Zn) | L: Zn 0.92; Mg2Zn11: Zn 0.846154 | experimental | [2] Yuan 2014; _cites Massalski 2014_ | Table 1, p. 4, row 14 |  |
-| 620.2 | Liquid + Mg2Zn3 -> MgZn | Liquid: Zn 0.296; Mg2Zn3: Zn 0.6; MgZn: Zn 0.52 | model | [3] Niu 2010 | Table 3, p. 3, row 7 |  |
-| 620.2 | Liquid + Mg2Zn3 -> MgZn | Liquid: Zn 0.296; Mg2Zn3: Zn 0.6; MgZn: Zn 0.52 | model | [3] Niu 2010; _cites Liang 1998_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900458-9) | Table 3, p. 3, row 8 |  |
-| 620.1 | peritectic: Liquid + Mg2Zn3 -> MgZn | Liquid: Zn 0.196; Mg2Zn3: Zn 0.6; MgZn: Zn 0.52 | unspecified | [1] Hämäläinen 1998 | Table I, p. 248, row 3 |  |
-| 619 | peritectic: L+Mg2Zn3 -> Mg12Zn13 | L: Zn 0.3; Mg2Zn3: Zn 0.6; Mg12Zn13: Zn 0.52 | model | [2] Yuan 2014 | Table 1, p. 4, row 5 |  |
-| 617.82 | eutectic: L -> (Mg) + Mg12Zn13 + Mg51Zn20 | L: Mg 0.7145, Zn 0.2852 | unspecified | [4] Hayashi 2020 | Table 3, p. 9, row 2 |  |
-| 614.2 | Liquid + hcp_A3 -> Mg7Zn3 | Liquid: Zn 0.29; hcp_A3: Zn 0.034; Mg7Zn3: Zn 0.282 | model | [3] Niu 2010 | Table 3, p. 3, row 11 |  |
-| 614.2 | Liquid + hcp_A3 -> Mg7Zn3 | Liquid: Zn 0.29; hcp_A3: Zn 0.03; Mg7Zn3: Zn 0.282 | model | [3] Niu 2010; _cites Liang 1998_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900458-9) | Table 3, p. 3, row 12 |  |
-| 614.1 | Liquid -> Mg7Zn3 + MgZn | Liquid: Zn 0.29; Mg7Zn3: Zn 0.282; MgZn: Zn 0.52 | model | [3] Niu 2010; _cites Liang 1998_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900458-9) | Table 3, p. 3, row 10 |  |
-| 614.1 | eutectic: Liquid -> Mg51Zn20 + MgZn | Liquid: Zn 0.281; Mg51Zn20: Zn 0.29; MgZn: Zn 0.52 | unspecified | [1] Hämäläinen 1998 | Table I, p. 248, row 2 |  |
-| 614.1 | peritectic: Liquid + hcp-A3 -> Mg51Zn20 | Liquid: Zn 0.295; hcp-A3: Zn 0.029; Mg51Zn20: Zn 0.289 | unspecified | [1] Hämäläinen 1998 | Table I, p. 248, row 1 |  |
-| 614.1 | Liquid -> Mg7Zn3 + MgZn | Liquid: Zn 0.29; Mg7Zn3: Zn 0.282; MgZn: Zn 0.52 | model | [3] Niu 2010 | Table 3, p. 3, row 9 |  |
-| 614 | eutectic: L -> hcp(Mg) + MgZn + Mg7Zn3 | L: Mg 0.7097, Zn 0.2896 | model | [5] Meng 2010 | Table 3, p. 4, row 12 |  |
-| 613.9 | Liquid -> MgZn + hcp_A3 | Liquid: Zn 0.29; MgZn: Zn 0.52; hcp_A3: Zn 0.034 | model | [3] Niu 2010 | Table 3, p. 3, row 13 |  |
-| 613.6 | Liquid -> MgZn + hcp_A3 | Liquid: Zn 0.29; MgZn: Zn 0.52; hcp_A3: Zn 0.03 | model | [3] Niu 2010; _cites Liang 1998_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900458-9) | Table 3, p. 3, row 14 |  |
-| 612.1 | peritectic: L+(Mg) -> Mg51Zn20 | L: Zn 0.282; Mg51Zn20: Zn 0.28169 | model | [2] Yuan 2014 | Table 1, p. 4, row 1 |  |
-| 612 | eutectic: L -> Mg51Zn20+Mg12Zn13 | L: Zn 0.293; Mg51Zn20: Zn 0.28169; Mg12Zn13: Zn 0.52 | model | [2] Yuan 2014 | Table 1, p. 4, row 3 |  |
-| 598.5 | Mg7Zn3 -> hcp_A3 + MgZn | Mg7Zn3: Zn 0.282; hcp_A3: Zn 0.03; MgZn: Zn 0.52 | model | [3] Niu 2010 | Table 3, p. 3, row 15 |  |
-| 598.2 | Mg7Zn3 -> hcp_A3 + MgZn | Mg7Zn3: Zn 0.282; hcp_A3: Zn 0.027; MgZn: Zn 0.52 | model | [3] Niu 2010; _cites Liang 1998_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900458-9) | Table 3, p. 3, row 16 |  |
-| 598.1 | eutectoid: Mg51Zn20 -> hcp-A3 + MgZn | Mg51Zn20: Zn 0.282; hcp-A3: Zn 0.027; MgZn: Zn 0.52 | unspecified | [1] Hämäläinen 1998 | Table I, p. 248, row 8 |  |
+| 864 | congruent melting: Liquid -> MgZn2 | Liquid: Zn 0.667; MgZn2: Zn 0.667 | unspecified | [1] Hämäläinen 1998 | Table I, p. 248, row 5; `ORC-HIWOLOLM4U` |  |
+| 691 | peritectic: L+Laves_C14 -> Mg2Zn3 | L: Zn 0.362; Mg2Zn3: Zn 0.6 | model | [2] Yuan 2014 | Table 1, p. 4, row 7; `ORC-MP23CA4KRO` |  |
+| 689 | peritectic: L+Laves_C14 -> Mg2Zn3 | L: Zn 0.35; Mg2Zn3: Zn 0.6 | experimental | [2] Yuan 2014; _cites Massalski 2014_ | Table 1, p. 4, row 8; `ORC-FKI32Z4NSK` |  |
+| 689 | Liquid + MgZn2 -> Mg2Zn3 | Liquid: Zn 0.356; MgZn2: Zn 0.661; Mg2Zn3: Zn 0.6 | model | [3] Niu 2010; _cites Liang 1998_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900458-9) | Table 3, p. 3, row 2; `ORC-I6JHDDO4SD` |  |
+| 689 | Liquid + MgZn2 -> Mg2Zn3 | Liquid: Zn 0.356; MgZn2: Zn 0.661; Mg2Zn3: Zn 0.6 | model | [3] Niu 2010 | Table 3, p. 3, row 1; `ORC-LYITDZNRDT` |  |
+| 688.9 | peritectic: Liquid + Laves-C14 -> Mg2Zn3 | Liquid: Zn 0.356; Laves-C14: Zn 0.661; Mg2Zn3: Zn 0.6 | unspecified | [1] Hämäläinen 1998 | Table I, p. 248, row 4; `ORC-M6WC4DVLNU` |  |
+| 654.4 | Liquid + MgZn2 -> Mg2Zn11 | Liquid: Zn 0.913; MgZn2: Zn 0.67; Mg2Zn11: Zn 0.846 | model | [3] Niu 2010 | Table 3, p. 3, row 3; `ORC-34EV5VDW3C` |  |
+| 654.4 | peritectic: Liquid + Laves-C14 -> Mg2Zn11 | Liquid: Zn 0.913; Laves-C14: Zn 0.661; Mg2Zn11: Zn 0.846 | unspecified | [1] Hämäläinen 1998 | Table I, p. 248, row 6; `ORC-LQR7DQNMY7` |  |
+| 654 | peritectic: L+Laves_C14 -> Mg2Zn11 | L: Zn 0.91; Mg2Zn11: Zn 0.846154 | experimental | [2] Yuan 2014; _cites Massalski 2014_ | Table 1, p. 4, row 12; `ORC-I3RUBD5DMA` |  |
+| 654 | Liquid + MgZn2 -> Mg2Zn11 | Liquid: Zn 0.913; MgZn2: Zn 0.67; Mg2Zn11: Zn 0.846 | model | [3] Niu 2010; _cites Liang 1998_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900458-9) | Table 3, p. 3, row 4; `ORC-PG7E546RZC` |  |
+| 653 | peritectic: L+Laves_C14 -> Mg2Zn11 | L: Zn 0.912; Mg2Zn11: Zn 0.846154 | model | [2] Yuan 2014 | Table 1, p. 4, row 11; `ORC-3FPR6HQMV7` |  |
+| 640.4 | Liquid -> Mg2Zn11 + hcp_A3 | Liquid: Zn 0.93; Mg2Zn11: Zn 0.846; hcp_A3: Zn 0.997 | model | [3] Niu 2010 | Table 3, p. 3, row 5; `ORC-KREYZSLHUO` |  |
+| 640.4 | Liquid -> Mg2Zn11 + hcp_A3 | Liquid: Zn 0.93; Mg2Zn11: Zn 0.846; hcp_A3: Zn 0.997 | model | [3] Niu 2010; _cites Liang 1998_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900458-9) | Table 3, p. 3, row 6; `ORC-LBZPO6HLI7` |  |
+| 640 | eutectic: L -> Mg2Zn11+(Zn) | L: Zn 0.929; Mg2Zn11: Zn 0.846154 | model | [2] Yuan 2014 | Table 1, p. 4, row 13; `ORC-Q62Z3HYGF3` |  |
+| 637.3 | eutectic: Liquid -> Mg2Zn11 + hcp-A3 | Liquid: Zn 0.926; Mg2Zn11: Zn 0.846; hcp-A3: Zn 0.997 | unspecified | [1] Hämäläinen 1998 | Table I, p. 248, row 7; `ORC-FJZYXFSZBG` |  |
+| 637 | eutectic: L -> Mg2Zn11+(Zn) | L: Zn 0.92; Mg2Zn11: Zn 0.846154 | experimental | [2] Yuan 2014; _cites Massalski 2014_ | Table 1, p. 4, row 14; `ORC-F7EMNZHXLC` |  |
+| 620.2 | Liquid + Mg2Zn3 -> MgZn | Liquid: Zn 0.296; Mg2Zn3: Zn 0.6; MgZn: Zn 0.52 | model | [3] Niu 2010 | Table 3, p. 3, row 7; `ORC-Q4Z62ZHHD5` |  |
+| 620.2 | Liquid + Mg2Zn3 -> MgZn | Liquid: Zn 0.296; Mg2Zn3: Zn 0.6; MgZn: Zn 0.52 | model | [3] Niu 2010; _cites Liang 1998_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900458-9) | Table 3, p. 3, row 8; `ORC-WR2NBGJ6HW` |  |
+| 620.1 | peritectic: Liquid + Mg2Zn3 -> MgZn | Liquid: Zn 0.196; Mg2Zn3: Zn 0.6; MgZn: Zn 0.52 | unspecified | [1] Hämäläinen 1998 | Table I, p. 248, row 3; `ORC-MMQZJ4DRSM` |  |
+| 619 | peritectic: L+Mg2Zn3 -> Mg12Zn13 | L: Zn 0.3; Mg2Zn3: Zn 0.6; Mg12Zn13: Zn 0.52 | model | [2] Yuan 2014 | Table 1, p. 4, row 5; `ORC-YPNGXFLWI2` |  |
+| 617.82 | eutectic: L -> (Mg) + Mg12Zn13 + Mg51Zn20 | L: Mg 0.7145, Zn 0.2852 | unspecified | [4] Hayashi 2020 | Table 3, p. 9, row 2; `ORC-NBRVVV4QMA` |  |
+| 614.2 | Liquid + hcp_A3 -> Mg7Zn3 | Liquid: Zn 0.29; hcp_A3: Zn 0.034; Mg7Zn3: Zn 0.282 | model | [3] Niu 2010 | Table 3, p. 3, row 11; `ORC-R6YTPSCEK7` |  |
+| 614.2 | Liquid + hcp_A3 -> Mg7Zn3 | Liquid: Zn 0.29; hcp_A3: Zn 0.03; Mg7Zn3: Zn 0.282 | model | [3] Niu 2010; _cites Liang 1998_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900458-9) | Table 3, p. 3, row 12; `ORC-VDWCQCQUXL` |  |
+| 614.1 | Liquid -> Mg7Zn3 + MgZn | Liquid: Zn 0.29; Mg7Zn3: Zn 0.282; MgZn: Zn 0.52 | model | [3] Niu 2010; _cites Liang 1998_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900458-9) | Table 3, p. 3, row 10; `ORC-6XBOV5D5PR` |  |
+| 614.1 | eutectic: Liquid -> Mg51Zn20 + MgZn | Liquid: Zn 0.281; Mg51Zn20: Zn 0.29; MgZn: Zn 0.52 | unspecified | [1] Hämäläinen 1998 | Table I, p. 248, row 2; `ORC-MQ4UTC3G77` |  |
+| 614.1 | peritectic: Liquid + hcp-A3 -> Mg51Zn20 | Liquid: Zn 0.295; hcp-A3: Zn 0.029; Mg51Zn20: Zn 0.289 | unspecified | [1] Hämäläinen 1998 | Table I, p. 248, row 1; `ORC-P2ATEY2IEY` |  |
+| 614.1 | Liquid -> Mg7Zn3 + MgZn | Liquid: Zn 0.29; Mg7Zn3: Zn 0.282; MgZn: Zn 0.52 | model | [3] Niu 2010 | Table 3, p. 3, row 9; `ORC-SXXKCITRLY` |  |
+| 614 | eutectic: L -> hcp(Mg) + MgZn + Mg7Zn3 | L: Mg 0.7097, Zn 0.2896 | model | [5] Meng 2010 | Table 3, p. 4, row 12; `ORC-BXAPWM5KZU` |  |
+| 613.9 | Liquid -> MgZn + hcp_A3 | Liquid: Zn 0.29; MgZn: Zn 0.52; hcp_A3: Zn 0.034 | model | [3] Niu 2010 | Table 3, p. 3, row 13; `ORC-NJWB5ELDLC` |  |
+| 613.6 | Liquid -> MgZn + hcp_A3 | Liquid: Zn 0.29; MgZn: Zn 0.52; hcp_A3: Zn 0.03 | model | [3] Niu 2010; _cites Liang 1998_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900458-9) | Table 3, p. 3, row 14; `ORC-NAOFIXJWLB` |  |
+| 612.1 | peritectic: L+(Mg) -> Mg51Zn20 | L: Zn 0.282; Mg51Zn20: Zn 0.28169 | model | [2] Yuan 2014 | Table 1, p. 4, row 1; `ORC-7JLGUDFDMP` |  |
+| 612 | eutectic: L -> Mg51Zn20+Mg12Zn13 | L: Zn 0.293; Mg51Zn20: Zn 0.28169; Mg12Zn13: Zn 0.52 | model | [2] Yuan 2014 | Table 1, p. 4, row 3; `ORC-6CR5CDEYRU` |  |
+| 598.5 | Mg7Zn3 -> hcp_A3 + MgZn | Mg7Zn3: Zn 0.282; hcp_A3: Zn 0.03; MgZn: Zn 0.52 | model | [3] Niu 2010 | Table 3, p. 3, row 15; `ORC-YIJ77G4DGB` |  |
+| 598.2 | Mg7Zn3 -> hcp_A3 + MgZn | Mg7Zn3: Zn 0.282; hcp_A3: Zn 0.027; MgZn: Zn 0.52 | model | [3] Niu 2010; _cites Liang 1998_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900458-9) | Table 3, p. 3, row 16; `ORC-L7YYBQNU2V` |  |
+| 598.1 | eutectoid: Mg51Zn20 -> hcp-A3 + MgZn | Mg51Zn20: Zn 0.282; hcp-A3: Zn 0.027; MgZn: Zn 0.52 | unspecified | [1] Hämäläinen 1998 | Table I, p. 248, row 8; `ORC-7UCZDWNYAO` |  |
 
 ## Other properties
 
@@ -166,9 +166,9 @@ Table: Phase transition, Mg–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 581.5 K | 581.5 | other | model | [3] Niu 2010 | p. 3 | “The calculated critical temperatures of the miscibility gaps are 581.5 K for the Mg-Zn system and 790.6 K for the Mg-Nd system.” |
-| Phase transition | 857 K | 857 | congruent melting: L -> Laves_C14; _L: Zn 0.666; Laves_C14: Zn 0.666_ | model | [2] Yuan 2014 | Table 1, p. 4, row 9 |  |
-| Phase transition | 861 K | 861 | congruent melting: L -> Laves_C14; _L: Zn 0.67; Laves_C14: Zn 0.67_ | experimental | [2] Yuan 2014; _cites Massalski 2014_ | Table 1, p. 4, row 10 |  |
+| Phase transition | 581.5 K | 581.5 | other | model | [3] Niu 2010 | p. 3; `ORC-NHMBBXE6BZ.b2e006` | “The calculated critical temperatures of the miscibility gaps are 581.5 K for the Mg-Zn system and 790.6 K for the Mg-Nd system.” |
+| Phase transition | 857 K | 857 | congruent melting: L -> Laves_C14; _L: Zn 0.666; Laves_C14: Zn 0.666_ | model | [2] Yuan 2014 | Table 1, p. 4, row 9; `ORC-FFQZFM6LZN` |  |
+| Phase transition | 861 K | 861 | congruent melting: L -> Laves_C14; _L: Zn 0.67; Laves_C14: Zn 0.67_ | experimental | [2] Yuan 2014; _cites Massalski 2014_ | Table 1, p. 4, row 10; `ORC-G4EP7FXOH4` |  |
 
 ### Crystal structure (25)
 
@@ -176,31 +176,31 @@ Table: Crystal structure, Mg–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 8.55 Å | 298.15 | Mg2Zn11; _alloy: Mg 0.153846, Zn 0.846154_ | model | [6] Gröbner 2015; _cites Cao 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.08.004) | Table 5, p. 10, row 9 |  |
-| Lattice a | 8.55 Å | 298.15 | Mg2Zn11; _alloy: Zn 0.846154_ | unspecified | [7] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 17 |  |
-| Lattice a | 25.96 Å | 298.15 | Mg2Zn3; _alloy: Mg 0.4, Zn 0.6_ | model | [6] Gröbner 2015; _cites Schmid-Fetzer 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.01.006) | Table 5, p. 10, row 7 |  |
-| Lattice a | 25.96 Å | 298.15 | Mg2Zn3; _alloy: Zn 0.6_ | unspecified | [7] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 15 |  |
-| Lattice a | 14.08 Å | 298.15 | Mg5Zn2; _alloy: Mg 0.714286, Zn 0.285714_ | model | [6] Gröbner 2015; _cites Cao 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.08.004) | Table 5, p. 10, row 5 |  |
-| Lattice a | 14.08 Å | 298.15 | Mg7Zn3 (Mg51Zn20) | unspecified | [7] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 13 |  |
-| Lattice a | 16.1 Å | 298.15 | MgZn; _alloy: Mg 0.5, Zn 0.5_ | experimental | [6] Gröbner 2015; _cites Chiotti 1965_ | Table 5, p. 10, row 6 |  |
-| Lattice a | 5.253 Å | 298.15 | MgZn2; _alloy: Mg 0.333333, Zn 0.666667_ | model | [6] Gröbner 2015; _cites Cao 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.08.004) | Table 5, p. 10, row 8 |  |
-| Lattice a | 5.253 Å | 298.15 | MgZn2; _alloy: Zn 0.666667_ | unspecified | [7] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 16 |  |
-| Lattice b | 14.28 Å | 298.15 | Mg2Zn3; _alloy: Mg 0.4, Zn 0.6_ | model | [6] Gröbner 2015; _cites Schmid-Fetzer 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.01.006) | Table 5, p. 10, row 7 |  |
-| Lattice b | 14.28 Å | 298.15 | Mg2Zn3; _alloy: Zn 0.6_ | unspecified | [7] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 15 |  |
-| Lattice b | 14.49 Å | 298.15 | Mg5Zn2; _alloy: Mg 0.714286, Zn 0.285714_ | model | [6] Gröbner 2015; _cites Cao 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.08.004) | Table 5, p. 10, row 5 |  |
-| Lattice b | 14.49 Å | 298.15 | Mg7Zn3 (Mg51Zn20) | unspecified | [7] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 13 |  |
-| Lattice b | 25.79 Å | 298.15 | MgZn; _alloy: Mg 0.5, Zn 0.5_ | experimental | [6] Gröbner 2015; _cites Chiotti 1965_ | Table 5, p. 10, row 6 |  |
-| Lattice c | 5.24 Å | 298.15 | Mg2Zn3; _alloy: Mg 0.4, Zn 0.6_ | model | [6] Gröbner 2015; _cites Schmid-Fetzer 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.01.006) | Table 5, p. 10, row 7 |  |
-| Lattice c | 5.24 Å | 298.15 | Mg2Zn3; _alloy: Zn 0.6_ | unspecified | [7] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 15 |  |
-| Lattice c | 14.03 Å | 298.15 | Mg5Zn2; _alloy: Mg 0.714286, Zn 0.285714_ | model | [6] Gröbner 2015; _cites Cao 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.08.004) | Table 5, p. 10, row 5 |  |
-| Lattice c | 14.03 Å | 298.15 | Mg7Zn3 (Mg51Zn20) | unspecified | [7] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 13 |  |
-| Lattice c | 8.8 Å | 298.15 | MgZn; _alloy: Mg 0.5, Zn 0.5_ | experimental | [6] Gröbner 2015; _cites Chiotti 1965_ | Table 5, p. 10, row 6 |  |
-| Lattice c | 8.568 Å | 298.15 | MgZn2; _alloy: Mg 0.333333, Zn 0.666667_ | model | [6] Gröbner 2015; _cites Cao 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.08.004) | Table 5, p. 10, row 8 |  |
-| Lattice c | 8.568 Å | 298.15 | MgZn2; _alloy: Zn 0.666667_ | unspecified | [7] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 16 |  |
-| lattice gamma | 102.5 ° | 298.15 | Mg2Zn3; _alloy: Zn 0.6_ | unspecified | [7] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 15 |  |
-| lattice gamma | 120 ° | 298.15 | MgZn2; _alloy: Zn 0.666667_ | unspecified | [7] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 16 |  |
-| lattice unspecified angle | 102.5 ° | 298.15 | Mg2Zn3; _alloy: Mg 0.4, Zn 0.6_ | model | [6] Gröbner 2015; _cites Schmid-Fetzer 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.01.006) | Table 5, p. 10, row 7 |  |
-| lattice unspecified angle | 112.4 ° | 298.15 | MgZn; _alloy: Mg 0.5, Zn 0.5_ | experimental | [6] Gröbner 2015; _cites Chiotti 1965_ | Table 5, p. 10, row 6 |  |
+| Lattice a | 8.55 Å | 298.15 | Mg2Zn11; _alloy: Mg 0.153846, Zn 0.846154_ | model | [6] Gröbner 2015; _cites Cao 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.08.004) | Table 5, p. 10, row 9; `ORC-LTID24QGJ5` |  |
+| Lattice a | 8.55 Å | 298.15 | Mg2Zn11; _alloy: Zn 0.846154_ | unspecified | [7] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 17; `ORC-V3L4DATWJJ` |  |
+| Lattice a | 25.96 Å | 298.15 | Mg2Zn3; _alloy: Mg 0.4, Zn 0.6_ | model | [6] Gröbner 2015; _cites Schmid-Fetzer 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.01.006) | Table 5, p. 10, row 7; `ORC-6465MUUTKV.6c8598` |  |
+| Lattice a | 25.96 Å | 298.15 | Mg2Zn3; _alloy: Zn 0.6_ | unspecified | [7] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 15; `ORC-RFOD25YGFH.ed638f` |  |
+| Lattice a | 14.08 Å | 298.15 | Mg5Zn2; _alloy: Mg 0.714286, Zn 0.285714_ | model | [6] Gröbner 2015; _cites Cao 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.08.004) | Table 5, p. 10, row 5; `ORC-ULIDJTSBOJ.b7300c` |  |
+| Lattice a | 14.08 Å | 298.15 | Mg7Zn3 (Mg51Zn20) | unspecified | [7] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 13; `ORC-SOHOJQWKJP.a6ec42` |  |
+| Lattice a | 16.1 Å | 298.15 | MgZn; _alloy: Mg 0.5, Zn 0.5_ | experimental | [6] Gröbner 2015; _cites Chiotti 1965_ | Table 5, p. 10, row 6; `ORC-MTGQ6LAEKC.6db3c3` |  |
+| Lattice a | 5.253 Å | 298.15 | MgZn2; _alloy: Mg 0.333333, Zn 0.666667_ | model | [6] Gröbner 2015; _cites Cao 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.08.004) | Table 5, p. 10, row 8; `ORC-2MVZLAPBSZ.bcc094` |  |
+| Lattice a | 5.253 Å | 298.15 | MgZn2; _alloy: Zn 0.666667_ | unspecified | [7] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 16; `ORC-COMVL2FOSP.d6f56d` |  |
+| Lattice b | 14.28 Å | 298.15 | Mg2Zn3; _alloy: Mg 0.4, Zn 0.6_ | model | [6] Gröbner 2015; _cites Schmid-Fetzer 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.01.006) | Table 5, p. 10, row 7; `ORC-6465MUUTKV.233bad` |  |
+| Lattice b | 14.28 Å | 298.15 | Mg2Zn3; _alloy: Zn 0.6_ | unspecified | [7] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 15; `ORC-RFOD25YGFH.bd3560` |  |
+| Lattice b | 14.49 Å | 298.15 | Mg5Zn2; _alloy: Mg 0.714286, Zn 0.285714_ | model | [6] Gröbner 2015; _cites Cao 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.08.004) | Table 5, p. 10, row 5; `ORC-ULIDJTSBOJ.1c2d24` |  |
+| Lattice b | 14.49 Å | 298.15 | Mg7Zn3 (Mg51Zn20) | unspecified | [7] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 13; `ORC-SOHOJQWKJP.492d6a` |  |
+| Lattice b | 25.79 Å | 298.15 | MgZn; _alloy: Mg 0.5, Zn 0.5_ | experimental | [6] Gröbner 2015; _cites Chiotti 1965_ | Table 5, p. 10, row 6; `ORC-MTGQ6LAEKC.e85fce` |  |
+| Lattice c | 5.24 Å | 298.15 | Mg2Zn3; _alloy: Mg 0.4, Zn 0.6_ | model | [6] Gröbner 2015; _cites Schmid-Fetzer 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.01.006) | Table 5, p. 10, row 7; `ORC-6465MUUTKV.403533` |  |
+| Lattice c | 5.24 Å | 298.15 | Mg2Zn3; _alloy: Zn 0.6_ | unspecified | [7] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 15; `ORC-RFOD25YGFH.02c338` |  |
+| Lattice c | 14.03 Å | 298.15 | Mg5Zn2; _alloy: Mg 0.714286, Zn 0.285714_ | model | [6] Gröbner 2015; _cites Cao 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.08.004) | Table 5, p. 10, row 5; `ORC-ULIDJTSBOJ.2ef5b9` |  |
+| Lattice c | 14.03 Å | 298.15 | Mg7Zn3 (Mg51Zn20) | unspecified | [7] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 13; `ORC-SOHOJQWKJP.684de6` |  |
+| Lattice c | 8.8 Å | 298.15 | MgZn; _alloy: Mg 0.5, Zn 0.5_ | experimental | [6] Gröbner 2015; _cites Chiotti 1965_ | Table 5, p. 10, row 6; `ORC-MTGQ6LAEKC.2cbbab` |  |
+| Lattice c | 8.568 Å | 298.15 | MgZn2; _alloy: Mg 0.333333, Zn 0.666667_ | model | [6] Gröbner 2015; _cites Cao 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.08.004) | Table 5, p. 10, row 8; `ORC-2MVZLAPBSZ.dae0f7` |  |
+| Lattice c | 8.568 Å | 298.15 | MgZn2; _alloy: Zn 0.666667_ | unspecified | [7] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 16; `ORC-COMVL2FOSP.0a548b` |  |
+| lattice gamma | 102.5 ° | 298.15 | Mg2Zn3; _alloy: Zn 0.6_ | unspecified | [7] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 15; `ORC-RFOD25YGFH.e4e81c` |  |
+| lattice gamma | 120 ° | 298.15 | MgZn2; _alloy: Zn 0.666667_ | unspecified | [7] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 16; `ORC-COMVL2FOSP.44542b` |  |
+| lattice unspecified angle | 102.5 ° | 298.15 | Mg2Zn3; _alloy: Mg 0.4, Zn 0.6_ | model | [6] Gröbner 2015; _cites Schmid-Fetzer 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.01.006) | Table 5, p. 10, row 7; `ORC-6465MUUTKV.f96e3f` |  |
+| lattice unspecified angle | 112.4 ° | 298.15 | MgZn; _alloy: Mg 0.5, Zn 0.5_ | experimental | [6] Gröbner 2015; _cites Chiotti 1965_ | Table 5, p. 10, row 6; `ORC-MTGQ6LAEKC.7822ff` |  |
 
 ## Sources
 
@@ -271,4 +271,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

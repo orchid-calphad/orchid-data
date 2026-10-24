@@ -28,15 +28,15 @@ Table: Crystal structure, Np system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 6.663 Å | 293 | α-Np | unspecified | [1] Smith 2016; _cites Lemire 2001_ | Table 1, p. 2, row 1 |  |
-| Lattice a | 4.897 Å | 586 | β-Np | unspecified | [1] Smith 2016; _cites Lemire 2001_ | Table 1, p. 2, row 2 |  |
-| Lattice a | 3.518 Å | 873 | γ-Np | unspecified | [1] Smith 2016; _cites Lemire 2001_ | Table 1, p. 2, row 3 |  |
-| Lattice b | 4.723 Å | 293 | α-Np | unspecified | [1] Smith 2016; _cites Lemire 2001_ | Table 1, p. 2, row 1 |  |
-| Lattice c | 4.887 Å | 293 | α-Np | unspecified | [1] Smith 2016; _cites Lemire 2001_ | Table 1, p. 2, row 1 |  |
-| Lattice c | 3.388 Å | 586 | β-Np | unspecified | [1] Smith 2016; _cites Lemire 2001_ | Table 1, p. 2, row 2 |  |
-| Molar volume; _printed: V_ | 12.16 cm^3 mol^-1 |  | B.c.c.; _alloy: Np 1_ | unspecified | [2] Ogawa 1993 | Table 1, p. 2, row 5 |  |
-| Molar volume; _printed: V_ | 12.16 cm^3 mol^-1 |  | F.c.c.; _alloy: Np 1_ | unspecified | [2] Ogawa 1993 | Table 1, p. 2, row 6 |  |
-| Molar volume; _printed: V_ | 13.1 cm^3 mol^-1 |  | Liquid; _alloy: Np 1_ | unspecified | [2] Ogawa 1993 | Table 1, p. 2, row 4 |  |
+| Lattice a | 6.663 Å | 293 | α-Np | unspecified | [1] Smith 2016; _cites Lemire 2001_ | Table 1, p. 2, row 1; `ORC-7OBOB3EITQ.ccb2b2` |  |
+| Lattice a | 4.897 Å | 586 | β-Np | unspecified | [1] Smith 2016; _cites Lemire 2001_ | Table 1, p. 2, row 2; `ORC-4EN2VZ2N57.c89f55` |  |
+| Lattice a | 3.518 Å | 873 | γ-Np | unspecified | [1] Smith 2016; _cites Lemire 2001_ | Table 1, p. 2, row 3; `ORC-VVFSK2FLSK` |  |
+| Lattice b | 4.723 Å | 293 | α-Np | unspecified | [1] Smith 2016; _cites Lemire 2001_ | Table 1, p. 2, row 1; `ORC-7OBOB3EITQ.198982` |  |
+| Lattice c | 4.887 Å | 293 | α-Np | unspecified | [1] Smith 2016; _cites Lemire 2001_ | Table 1, p. 2, row 1; `ORC-7OBOB3EITQ.e19306` |  |
+| Lattice c | 3.388 Å | 586 | β-Np | unspecified | [1] Smith 2016; _cites Lemire 2001_ | Table 1, p. 2, row 2; `ORC-4EN2VZ2N57.786275` |  |
+| Molar volume; _printed: V_ | 12.16 cm^3 mol^-1 |  | B.c.c.; _alloy: Np 1_ | unspecified | [2] Ogawa 1993 | Table 1, p. 2, row 5; `ORC-DSLM6WAGJB` |  |
+| Molar volume; _printed: V_ | 12.16 cm^3 mol^-1 |  | F.c.c.; _alloy: Np 1_ | unspecified | [2] Ogawa 1993 | Table 1, p. 2, row 6; `ORC-2QIKQXT4WM` |  |
+| Molar volume; _printed: V_ | 13.1 cm^3 mol^-1 |  | Liquid; _alloy: Np 1_ | unspecified | [2] Ogawa 1993 | Table 1, p. 2, row 4; `ORC-GRHLEBOOAS` |  |
 
 ## Sources
 
@@ -80,4 +80,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

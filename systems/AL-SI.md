@@ -59,13 +59,13 @@ Table: Invariant reactions reported in the literature for the Al–Si system (7)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 878.45 | eutectic |  | model | [1] Liang 2014 | p. 6 | “For alloy #1, AlP starts precipitating at 605.3 °C, point C in Fig. 6;” |
-| 850.15 | eutectic |  | model | [1] Liang 2014 | p. 2 | “The calculated Al-Si eutectic temperature (577 °C) and liquid composition (12.5 wt.% Si (12.1 at.% Si)), and the solid solubility of Si in the (Al) phase, are in good agreement with the data from the original work in 1980 \[23\] and a later extensive review of experimental data in Ref. \[35\] and other experimental results \[2\].” |
-| 850.15 | eutectic |  | experimental | [2] Kroupa 2024 | p. 3 | “The composition of the eutectic point is Al-12.2 at.% Si, and the eutectic temperature is 577 C (Fig. 3).” |
-| 850.15 | eutectic |  | experimental | [1] Liang 2014 | p. 13 | “In all these alloys potent AlP nucleants appear before eutectic (Si) at 577 °C.” |
-| 850.15 | eutectic |  | experimental | [1] Liang 2014 | p. 12 | “Equilibrium eutectic temperature TE = 577 °C.” |
-| 850.15 | eutectic |  | model | [1] Liang 2014 | p. 6 | “The detailed calculation carried out with Pandat reveals that the binary eutectic temperature is 577.000 °C, while the ternary eutectic temperature is 576.997 °C.” |
-| 850.147 | eutectic |  | model | [1] Liang 2014 | p. 6 | “The detailed calculation carried out with Pandat reveals that the binary eutectic temperature is 577.000 °C, while the ternary eutectic temperature is 576.997 °C.” |
+| 878.45 | eutectic |  | model | [1] Liang 2014 | p. 6; `ORC-ZCUAZDYNU3` | “For alloy #1, AlP starts precipitating at 605.3 °C, point C in Fig. 6;” |
+| 850.15 | eutectic |  | model | [1] Liang 2014 | p. 2; `ORC-2QEGFORRUZ` | “The calculated Al-Si eutectic temperature (577 °C) and liquid composition (12.5 wt.% Si (12.1 at.% Si)), and the solid solubility of Si in the (Al) phase, are in good agreement with the data from the original work in 1980 \[23\] and a later extensive review of experimental data in Ref. \[35\] and other experimental results \[2\].” |
+| 850.15 | eutectic |  | experimental | [2] Kroupa 2024 | p. 3; `ORC-7QB7W6MFUX` | “The composition of the eutectic point is Al-12.2 at.% Si, and the eutectic temperature is 577 C (Fig. 3).” |
+| 850.15 | eutectic |  | experimental | [1] Liang 2014 | p. 13; `ORC-BZVWEJMNRD` | “In all these alloys potent AlP nucleants appear before eutectic (Si) at 577 °C.” |
+| 850.15 | eutectic |  | experimental | [1] Liang 2014 | p. 12; `ORC-V7HLN6ZDCP.d515ec` | “Equilibrium eutectic temperature TE = 577 °C.” |
+| 850.15 | eutectic |  | model | [1] Liang 2014 | p. 6; `ORC-XJCAZM2CX2.5fdbb7` | “The detailed calculation carried out with Pandat reveals that the binary eutectic temperature is 577.000 °C, while the ternary eutectic temperature is 576.997 °C.” |
+| 850.147 | eutectic |  | model | [1] Liang 2014 | p. 6; `ORC-XJCAZM2CX2.456fd3` | “The detailed calculation carried out with Pandat reveals that the binary eutectic temperature is 577.000 °C, while the ternary eutectic temperature is 576.997 °C.” |
 
 ## Other properties
 
@@ -75,10 +75,10 @@ Table: Phase transition, Al–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 850.15 K | 850.15 |  | model | [1] Liang 2014 | p. 7 | “For alloy #2, both (Si) and AlP seemingly form at 577 °C.” |
-| Phase transition | 852.15 K | 852.15 |  | experimental | [1] Liang 2014; _cites Kato 1997_ | p. 12 | “b TE set to be 579 °C based on the reported experimental value at high P alloys in the same study \[59\].” |
-| Phase transition | 889.65 K | 889.65 |  | model | [1] Liang 2014 | p. 6 | “For both alloys, primary (Al) starts to form at 616.5 °C, which corresponds to the points A and B in Fig. 6.” |
-| Phase transition | 1141.15 K | 1141.15 | Al3 V + Si2 V → L + ␶ | model | [3] Luo 2018 | p. 9 | “It presented at 868 ◦ C through reaction of Al3 V + Si2 V → L + ␶, which was verified by DSC and SEM results.” |
+| Phase transition | 850.15 K | 850.15 |  | model | [1] Liang 2014 | p. 7; `ORC-FFOXMOEL3I` | “For alloy #2, both (Si) and AlP seemingly form at 577 °C.” |
+| Phase transition | 852.15 K | 852.15 |  | experimental | [1] Liang 2014; _cites Kato 1997_ | p. 12; `ORC-V7HLN6ZDCP.55fc54` | “b TE set to be 579 °C based on the reported experimental value at high P alloys in the same study \[59\].” |
+| Phase transition | 889.65 K | 889.65 |  | model | [1] Liang 2014 | p. 6; `ORC-NT5O3XF53Z` | “For both alloys, primary (Al) starts to form at 616.5 °C, which corresponds to the points A and B in Fig. 6.” |
+| Phase transition | 1141.15 K | 1141.15 | Al3 V + Si2 V → L + ␶ | model | [3] Luo 2018 | p. 9; `ORC-VHPE4TM3SI` | “It presented at 868 ◦ C through reaction of Al3 V + Si2 V → L + ␶, which was verified by DSC and SEM results.” |
 
 ## Sources
 
@@ -145,4 +145,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

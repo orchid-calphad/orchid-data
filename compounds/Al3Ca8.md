@@ -14,15 +14,15 @@ Table: Enthalpy of formation of Al3Ca8 reported in the literature (9)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -13.7 kJ/mol-atom ± 1.3 | Al3Ca8 | 298.15 | experimental | Experiment | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [1] Ozturk 2005; _cites Kevorkov 2001_ | Table IV, p. 5, row 45 |  |
-| -13.7 kJ/mol-atom ± 1.3 | Al3Ca8 | 298.15 | experimental | Dissolution Calorimetry | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [2] ISLAM 2005; _cites ref. 26_ | Table V, p. 9, row 12 |  |
-| -15.63 kJ/mol-atom | Al3Ca8 | 298.15 | model | Calculated in this work | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [2] ISLAM 2005 | Table V, p. 9, row 14 |  |
-| -14 kJ/mol-atom | Al3Ca8 |  | model | thermodynamic evaluation | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [1] Ozturk 2005; _cites Kevorkov 2001_ | Table IV, p. 5, row 43 |  |
-| -14 kJ/mol-atom | Al3Ca8 | 800 | model | Assessed | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [2] ISLAM 2005; _cites ref. 26_ | Table V, p. 9, row 13 |  |
-| -12.83 kJ/mol-atom | Al3Ca8 |  | model | thermodynamic evaluation | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [1] Ozturk 2005; _cites Ozturk 2002_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901713-3) | Table IV, p. 5, row 42 |  |
-| -18.705 kJ/mol-atom | Al3Ca8 | 0 | DFT | VASP | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [1] Ozturk 2005 | Table IV, p. 5, row 41 |  |
-| -18.301 kJ/mol-atom | Al3Ca8 | 0 | DFT | VASP | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [1] Ozturk 2005 | Table IV, p. 5, row 40 |  |
-| -17.679 kJ/mol-atom | Al3Ca8 | 0 | DFT | thermodynamic evaluation | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [1] Ozturk 2005 | Table IV, p. 5, row 44 |  |
+| -13.7 kJ/mol-atom ± 1.3 | Al3Ca8 | 298.15 | experimental | Experiment | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [1] Ozturk 2005; _cites Kevorkov 2001_ | Table IV, p. 5, row 45; `ORC-DJDAA52VRM.636ac4` |  |
+| -13.7 kJ/mol-atom ± 1.3 | Al3Ca8 | 298.15 | experimental | Dissolution Calorimetry | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [2] ISLAM 2005; _cites ref. 26_ | Table V, p. 9, row 12; `ORC-SS77NMX7TQ` |  |
+| -15.63 kJ/mol-atom | Al3Ca8 | 298.15 | model | Calculated in this work | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [2] ISLAM 2005 | Table V, p. 9, row 14; `ORC-3VEUOFIRK3.855431` |  |
+| -14 kJ/mol-atom | Al3Ca8 |  | model | thermodynamic evaluation | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [1] Ozturk 2005; _cites Kevorkov 2001_ | Table IV, p. 5, row 43; `ORC-WNYDTZA554.005e21` |  |
+| -14 kJ/mol-atom | Al3Ca8 | 800 | model | Assessed | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [2] ISLAM 2005; _cites ref. 26_ | Table V, p. 9, row 13; `ORC-Z2ONGEH2AN.a3e0a0` |  |
+| -12.83 kJ/mol-atom | Al3Ca8 |  | model | thermodynamic evaluation | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [1] Ozturk 2005; _cites Ozturk 2002_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901713-3) | Table IV, p. 5, row 42; `ORC-QW3V5BNQH2.d895ef` |  |
+| -18.705 kJ/mol-atom | Al3Ca8 | 0 | DFT | VASP | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [1] Ozturk 2005 | Table IV, p. 5, row 41; `ORC-EFRE3KLDTL.1688b1` |  |
+| -18.301 kJ/mol-atom | Al3Ca8 | 0 | DFT | VASP | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [1] Ozturk 2005 | Table IV, p. 5, row 40; `ORC-H5Q7XJZTLL.130450` |  |
+| -17.679 kJ/mol-atom | Al3Ca8 | 0 | DFT | thermodynamic evaluation | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [1] Ozturk 2005 | Table IV, p. 5, row 44; `ORC-LJMIPJOCL3.e94931` |  |
 
 ### Uncertainty budget
 
@@ -107,4 +107,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -27,15 +27,15 @@ Table: Invariant reactions reported in the literature for the Ag–Au–Pb syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 524.5 | quasi-peritectic: L + Au2Pb = α + AuPb2 | L: Au 0.2597, Pb 0.7367 | model | [1] Hassam 2010 | Table 4, p. 7, row 3 |  |
-| 522 | quasi-peritectic: L + Au2Pb = α + AuPb2 | L: Au 0.261, Pb 0.7337 | experimental | [1] Hassam 2010; _cites Hassam 1995_ [doi](https://doi.org/10.1016/0040-6031%2894%2902203-z) | Table 4, p. 7, row 2 |  |
-| 493.7 | quasi-peritectic: L + AuPb2 = α + AuPb3 | L: Au 0.1739, Pb 0.8218 | model | [1] Hassam 2010 | Table 4, p. 7, row 6 |  |
-| 491 | quasi-peritectic: L + AuPb2 = α + AuPb3 | L: Au 0.1861, Pb 0.8091 | experimental | [1] Hassam 2010; _cites Hassam 1995_ [doi](https://doi.org/10.1016/0040-6031%2894%2902203-z) | Table 4, p. 7, row 5 |  |
-| 491 | quasi-peritectic: L + Au2Pb = α + AuPb2 |  | experimental | [1] Hassam 2010; _cites Bros 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990166-5) | Table 4, p. 7, row 1 |  |
-| 487 | quasi-peritectic: L + AuPb2 = α + AuPb3 |  | experimental | [1] Hassam 2010; _cites Bros 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990166-5) | Table 4, p. 7, row 4 |  |
-| 486.2 | eutectic: L = (Pb) + α + AuPb3 | L: Au 0.1519, Pb 0.8436 | model | [1] Hassam 2010 | Table 4, p. 7, row 9 |  |
-| 485 | eutectic: L = (Pb) + α + AuPb3 | L: Au 0.1696, Pb 0.8253 | experimental | [1] Hassam 2010; _cites Hassam 1995_ [doi](https://doi.org/10.1016/0040-6031%2894%2902203-z) | Table 4, p. 7, row 8 |  |
-| 482.5 | eutectic: L = (Pb) + α + AuPb3 |  | experimental | [1] Hassam 2010; _cites Bros 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990166-5) | Table 4, p. 7, row 7 |  |
+| 524.5 | quasi-peritectic: L + Au2Pb = α + AuPb2 | L: Au 0.2597, Pb 0.7367 | model | [1] Hassam 2010 | Table 4, p. 7, row 3; `ORC-4KETHEGXID` |  |
+| 522 | quasi-peritectic: L + Au2Pb = α + AuPb2 | L: Au 0.261, Pb 0.7337 | experimental | [1] Hassam 2010; _cites Hassam 1995_ [doi](https://doi.org/10.1016/0040-6031%2894%2902203-z) | Table 4, p. 7, row 2; `ORC-V2QI4WXYR6` |  |
+| 493.7 | quasi-peritectic: L + AuPb2 = α + AuPb3 | L: Au 0.1739, Pb 0.8218 | model | [1] Hassam 2010 | Table 4, p. 7, row 6; `ORC-ZJN7XOUJRU` |  |
+| 491 | quasi-peritectic: L + AuPb2 = α + AuPb3 | L: Au 0.1861, Pb 0.8091 | experimental | [1] Hassam 2010; _cites Hassam 1995_ [doi](https://doi.org/10.1016/0040-6031%2894%2902203-z) | Table 4, p. 7, row 5; `ORC-JMIW7GEDDR` |  |
+| 491 | quasi-peritectic: L + Au2Pb = α + AuPb2 |  | experimental | [1] Hassam 2010; _cites Bros 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990166-5) | Table 4, p. 7, row 1; `ORC-RZUK4S4WKD` |  |
+| 487 | quasi-peritectic: L + AuPb2 = α + AuPb3 |  | experimental | [1] Hassam 2010; _cites Bros 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990166-5) | Table 4, p. 7, row 4; `ORC-TB5LKDT7XE` |  |
+| 486.2 | eutectic: L = (Pb) + α + AuPb3 | L: Au 0.1519, Pb 0.8436 | model | [1] Hassam 2010 | Table 4, p. 7, row 9; `ORC-EZMJ2FEETO` |  |
+| 485 | eutectic: L = (Pb) + α + AuPb3 | L: Au 0.1696, Pb 0.8253 | experimental | [1] Hassam 2010; _cites Hassam 1995_ [doi](https://doi.org/10.1016/0040-6031%2894%2902203-z) | Table 4, p. 7, row 8; `ORC-W7OSPEZENL` |  |
+| 482.5 | eutectic: L = (Pb) + α + AuPb3 |  | experimental | [1] Hassam 2010; _cites Bros 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990166-5) | Table 4, p. 7, row 7; `ORC-EMAPTQOBZG` |  |
 
 ## Sources
 
@@ -78,4 +78,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

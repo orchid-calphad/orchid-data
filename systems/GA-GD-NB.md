@@ -27,38 +27,38 @@ Table: Invariant reactions reported in the literature for the Ga–Gd–Nb syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2871.15 | monotectic: L ↔ L2 + (Nb) | L: Nb 0.00898 | model | [1] Tamim 2023 | Table 1, p. 7, row 43 |  |
-| 2406.15 | peritectic: L + (Nb) ↔ GaNb3 | L: Nb 0.74; (Nb): Nb 0.81 | experimental | [1] Tamim 2023; _cites Okamoto 1990_ | Table 1, p. 7, row 15 |  |
-| 2385.15 | peritectic: L + (Nb) ↔ GaNb3 | L: Nb 0.77; (Nb): Nb 0.84 | model | [1] Tamim 2023 | Table 1, p. 7, row 16 |  |
-| 2309.15 | eutectic: L ↔ GaNb3 + Ga3Nb5 | L: Nb 0.7277 | model | [1] Tamim 2023 | Table 1, p. 7, row 14 |  |
-| 2286.15 | eutectic: L ↔ GaNb3 + Ga3Nb5 | L: Nb 0.69 | experimental | [1] Tamim 2023; _cites Okamoto 1990_ | Table 1, p. 7, row 13 |  |
-| 2087.15 | peritectic: L + Ga3Nb5 ↔ °Ga4Nb5 | L: Nb 0.39 | model | [1] Tamim 2023 | Table 1, p. 7, row 2 |  |
-| 2086.15 | peritectic: L + Ga3Nb5 ↔ °Ga4Nb5 | L: Nb 0.43 | experimental | [1] Tamim 2023; _cites Okamoto 1990_ | Table 1, p. 7, row 1 |  |
-| 1846.15 | peritectic: L°+°Ga4Nb5°↔°Ga5Nb4 | L: Nb 0.162 | experimental | [1] Tamim 2023; _cites Okamoto 1990_ | Table 1, p. 7, row 3 |  |
-| 1839.15 | eutectic: L +↔ (αGd) + (βNb) | L: Nb 9.500e-5 | model | [1] Tamim 2023 | Table 1, p. 7, row 44 |  |
-| 1837.15 | peritectic: L°+°Ga4Nb5°↔°Ga5Nb4 | L: Nb 0.15 | model | [1] Tamim 2023 | Table 1, p. 7, row 4 |  |
-| 1831.15 | peritectic: L°+°Ga5Nb4°↔°ht_Ga4Nb | L: Nb 0.134 | experimental | [1] Tamim 2023; _cites Okamoto 1990_ | Table 1, p. 7, row 5 |  |
-| 1803.15 | peritectic: L°+°Ga5Nb4°↔°ht_Ga4Nb | L: Nb 0.1145 | model | [1] Tamim 2023 | Table 1, p. 7, row 6 |  |
-| 1781.15 | metatectic/catatectic: L + (αGd) ↔ (βGd) | L: Gd 0.0095 | experimental | [1] Tamim 2023; _cites Palenzona 1990_ [doi](https://doi.org/10.1007/bf02841585) | Table 1, p. 7, row 37 |  |
-| 1781.15 | metatectic/catatectic: L + (αGd) ↔ (βGd) | L: Gd 0.00969 | model | [1] Tamim 2023 | Table 1, p. 7, row 38 |  |
-| 1751.15 | other: ht_Ga4Nb°↔°L+°Ga13Nb5 | L: Nb 7.500e-4 | experimental | [1] Tamim 2023; _cites Okamoto 1990_ | Table 1, p. 7, row 7 |  |
-| 1741.15 | peritectic: L + Ga2Gd ↔ GaGd | L: Gd 0.0055 | experimental | [1] Tamim 2023; _cites Palenzona 1990_ [doi](https://doi.org/10.1007/bf02841585) | Table 1, p. 7, row 29 |  |
-| 1736.15 | other: ht_Ga4Nb°↔°L+°Ga13Nb5 | L: Nb 5.500e-4 | model | [1] Tamim 2023 | Table 1, p. 7, row 8 |  |
-| 1731.15 | peritectic: L + Ga2Gd ↔ GaGd | L: Gd 0.00536 | model | [1] Tamim 2023 | Table 1, p. 7, row 30 |  |
-| 1666.15 | peritectic: L + Ga13Nb5 ↔ Ga3Nb | L: Nb 0.045 | experimental | [1] Tamim 2023; _cites Okamoto 1990_ | Table 1, p. 7, row 9 |  |
-| 1666.15 | peritectic: L + Ga13Nb5 ↔ Ga3Nb | L: Nb 0.031 | model | [1] Tamim 2023 | Table 1, p. 7, row 10 |  |
-| 1648.15 | peritectic: L + GaGd ↔ Ga2Gd3 | L: Gd 0.00628 | model | [1] Tamim 2023 | Table 1, p. 7, row 32 |  |
-| 1646.15 | peritectic: L + GaGd ↔ Ga2Gd3 | L: Gd 0.00615 | experimental | [1] Tamim 2023; _cites Palenzona 1990_ [doi](https://doi.org/10.1007/bf02841585) | Table 1, p. 7, row 31 |  |
-| 1637.15 | peritectic: L + Ga2Gd3 ↔ Ga3Gd5 | L: Gd 0.00656 | model | [1] Tamim 2023 | Table 1, p. 7, row 34 |  |
-| 1636.15 | peritectic: L + Ga2Gd3 ↔ Ga3Gd5 | L: Gd 0.0064 | experimental | [1] Tamim 2023; _cites Palenzona 1990_ [doi](https://doi.org/10.1007/bf02841585) | Table 1, p. 7, row 33 |  |
-| 1396.15 | eutectic: L ↔ Ga3Gd5 + (αGd) | L: Gd 0.008 | experimental | [1] Tamim 2023; _cites Palenzona 1990_ [doi](https://doi.org/10.1007/bf02841585) | Table 1, p. 7, row 35 |  |
-| 1370.15 | eutectic: L ↔ Ga3Gd5 + (αGd) | L: Gd 0.0085 | model | [1] Tamim 2023 | Table 1, p. 7, row 36 |  |
-| 679.15 | peritectic: L + Ga2Gd ↔ Ga6Gd | L: Gd 4.000e-5 | experimental | [1] Tamim 2023; _cites Palenzona 1990_ [doi](https://doi.org/10.1007/bf02841585) | Table 1, p. 7, row 25 |  |
-| 670.15 | peritectic: L + Ga2Gd ↔ Ga6Gd | L: Gd 5.000e-6 | model | [1] Tamim 2023 | Table 1, p. 7, row 26 |  |
-| 576.15 | peritectic: L+ Ga3Nb ↔ (Ga) | L: Nb 0 | model | [1] Tamim 2023 | Table 1, p. 7, row 20 |  |
-| 576.15 | peritectic: L+ Ga3Nb ↔ (Ga) |  | experimental | [1] Tamim 2023; _cites Okamoto 1990_ | Table 1, p. 7, row 19 |  |
-| 576.15 | eutectic: L + (Ga)↔ Ga6Gd | L: Gd 0 | model | [1] Tamim 2023 | Table 1, p. 7, row 24 |  |
-| 575.15 | eutectic: L + (Ga)↔ Ga6Gd | L: Gd 1.000e-5 | experimental | [1] Tamim 2023; _cites Palenzona 1990_ [doi](https://doi.org/10.1007/bf02841585) | Table 1, p. 7, row 23 |  |
+| 2871.15 | monotectic: L ↔ L2 + (Nb) | L: Nb 0.00898 | model | [1] Tamim 2023 | Table 1, p. 7, row 43; `ORC-KHOI7GFCA2` |  |
+| 2406.15 | peritectic: L + (Nb) ↔ GaNb3 | L: Nb 0.74; (Nb): Nb 0.81 | experimental | [1] Tamim 2023; _cites Okamoto 1990_ | Table 1, p. 7, row 15; `ORC-VTEHNHHMLW` |  |
+| 2385.15 | peritectic: L + (Nb) ↔ GaNb3 | L: Nb 0.77; (Nb): Nb 0.84 | model | [1] Tamim 2023 | Table 1, p. 7, row 16; `ORC-OIFGVKJ62B` |  |
+| 2309.15 | eutectic: L ↔ GaNb3 + Ga3Nb5 | L: Nb 0.7277 | model | [1] Tamim 2023 | Table 1, p. 7, row 14; `ORC-S37RX3ZWYJ` |  |
+| 2286.15 | eutectic: L ↔ GaNb3 + Ga3Nb5 | L: Nb 0.69 | experimental | [1] Tamim 2023; _cites Okamoto 1990_ | Table 1, p. 7, row 13; `ORC-W4LUXZVGVI` |  |
+| 2087.15 | peritectic: L + Ga3Nb5 ↔ °Ga4Nb5 | L: Nb 0.39 | model | [1] Tamim 2023 | Table 1, p. 7, row 2; `ORC-D6JTUF3DWC` |  |
+| 2086.15 | peritectic: L + Ga3Nb5 ↔ °Ga4Nb5 | L: Nb 0.43 | experimental | [1] Tamim 2023; _cites Okamoto 1990_ | Table 1, p. 7, row 1; `ORC-BCQ6VBONAY` |  |
+| 1846.15 | peritectic: L°+°Ga4Nb5°↔°Ga5Nb4 | L: Nb 0.162 | experimental | [1] Tamim 2023; _cites Okamoto 1990_ | Table 1, p. 7, row 3; `ORC-GBLJ4MFCRQ` |  |
+| 1839.15 | eutectic: L +↔ (αGd) + (βNb) | L: Nb 9.500e-5 | model | [1] Tamim 2023 | Table 1, p. 7, row 44; `ORC-FMJCKISNNH` |  |
+| 1837.15 | peritectic: L°+°Ga4Nb5°↔°Ga5Nb4 | L: Nb 0.15 | model | [1] Tamim 2023 | Table 1, p. 7, row 4; `ORC-IFMXZ7PPZC` |  |
+| 1831.15 | peritectic: L°+°Ga5Nb4°↔°ht_Ga4Nb | L: Nb 0.134 | experimental | [1] Tamim 2023; _cites Okamoto 1990_ | Table 1, p. 7, row 5; `ORC-HDW2VKRU2E` |  |
+| 1803.15 | peritectic: L°+°Ga5Nb4°↔°ht_Ga4Nb | L: Nb 0.1145 | model | [1] Tamim 2023 | Table 1, p. 7, row 6; `ORC-QQZ2HCEWQX` |  |
+| 1781.15 | metatectic/catatectic: L + (αGd) ↔ (βGd) | L: Gd 0.0095 | experimental | [1] Tamim 2023; _cites Palenzona 1990_ [doi](https://doi.org/10.1007/bf02841585) | Table 1, p. 7, row 37; `ORC-7DFYUPFHAE` |  |
+| 1781.15 | metatectic/catatectic: L + (αGd) ↔ (βGd) | L: Gd 0.00969 | model | [1] Tamim 2023 | Table 1, p. 7, row 38; `ORC-W3TESJTRJY` |  |
+| 1751.15 | other: ht_Ga4Nb°↔°L+°Ga13Nb5 | L: Nb 7.500e-4 | experimental | [1] Tamim 2023; _cites Okamoto 1990_ | Table 1, p. 7, row 7; `ORC-JLW6GM42OL` |  |
+| 1741.15 | peritectic: L + Ga2Gd ↔ GaGd | L: Gd 0.0055 | experimental | [1] Tamim 2023; _cites Palenzona 1990_ [doi](https://doi.org/10.1007/bf02841585) | Table 1, p. 7, row 29; `ORC-BI4W7FODOS` |  |
+| 1736.15 | other: ht_Ga4Nb°↔°L+°Ga13Nb5 | L: Nb 5.500e-4 | model | [1] Tamim 2023 | Table 1, p. 7, row 8; `ORC-XQW5CNQVHS` |  |
+| 1731.15 | peritectic: L + Ga2Gd ↔ GaGd | L: Gd 0.00536 | model | [1] Tamim 2023 | Table 1, p. 7, row 30; `ORC-3DZJN6BNOK` |  |
+| 1666.15 | peritectic: L + Ga13Nb5 ↔ Ga3Nb | L: Nb 0.045 | experimental | [1] Tamim 2023; _cites Okamoto 1990_ | Table 1, p. 7, row 9; `ORC-CBL3SM5BTS` |  |
+| 1666.15 | peritectic: L + Ga13Nb5 ↔ Ga3Nb | L: Nb 0.031 | model | [1] Tamim 2023 | Table 1, p. 7, row 10; `ORC-RG4VXHSJRE` |  |
+| 1648.15 | peritectic: L + GaGd ↔ Ga2Gd3 | L: Gd 0.00628 | model | [1] Tamim 2023 | Table 1, p. 7, row 32; `ORC-VO7C2TFI4E` |  |
+| 1646.15 | peritectic: L + GaGd ↔ Ga2Gd3 | L: Gd 0.00615 | experimental | [1] Tamim 2023; _cites Palenzona 1990_ [doi](https://doi.org/10.1007/bf02841585) | Table 1, p. 7, row 31; `ORC-COLBVNZHJU` |  |
+| 1637.15 | peritectic: L + Ga2Gd3 ↔ Ga3Gd5 | L: Gd 0.00656 | model | [1] Tamim 2023 | Table 1, p. 7, row 34; `ORC-P2YIEG3QGW` |  |
+| 1636.15 | peritectic: L + Ga2Gd3 ↔ Ga3Gd5 | L: Gd 0.0064 | experimental | [1] Tamim 2023; _cites Palenzona 1990_ [doi](https://doi.org/10.1007/bf02841585) | Table 1, p. 7, row 33; `ORC-GPDHL4GCLJ` |  |
+| 1396.15 | eutectic: L ↔ Ga3Gd5 + (αGd) | L: Gd 0.008 | experimental | [1] Tamim 2023; _cites Palenzona 1990_ [doi](https://doi.org/10.1007/bf02841585) | Table 1, p. 7, row 35; `ORC-WZ3YVOMVU3` |  |
+| 1370.15 | eutectic: L ↔ Ga3Gd5 + (αGd) | L: Gd 0.0085 | model | [1] Tamim 2023 | Table 1, p. 7, row 36; `ORC-CIZHRQDPZP` |  |
+| 679.15 | peritectic: L + Ga2Gd ↔ Ga6Gd | L: Gd 4.000e-5 | experimental | [1] Tamim 2023; _cites Palenzona 1990_ [doi](https://doi.org/10.1007/bf02841585) | Table 1, p. 7, row 25; `ORC-FGCWZM2MRX` |  |
+| 670.15 | peritectic: L + Ga2Gd ↔ Ga6Gd | L: Gd 5.000e-6 | model | [1] Tamim 2023 | Table 1, p. 7, row 26; `ORC-IPSQLOWCWE` |  |
+| 576.15 | peritectic: L+ Ga3Nb ↔ (Ga) | L: Nb 0 | model | [1] Tamim 2023 | Table 1, p. 7, row 20; `ORC-37EKT2H3SZ` |  |
+| 576.15 | peritectic: L+ Ga3Nb ↔ (Ga) |  | experimental | [1] Tamim 2023; _cites Okamoto 1990_ | Table 1, p. 7, row 19; `ORC-A57EVXV3IR` |  |
+| 576.15 | eutectic: L + (Ga)↔ Ga6Gd | L: Gd 0 | model | [1] Tamim 2023 | Table 1, p. 7, row 24; `ORC-TQJP7PT7NL` |  |
+| 575.15 | eutectic: L + (Ga)↔ Ga6Gd | L: Gd 1.000e-5 | experimental | [1] Tamim 2023; _cites Palenzona 1990_ [doi](https://doi.org/10.1007/bf02841585) | Table 1, p. 7, row 23; `ORC-ZJY54STYPL` |  |
 
 ## Sources
 
@@ -101,4 +101,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

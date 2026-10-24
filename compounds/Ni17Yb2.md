@@ -14,15 +14,15 @@ Table: Enthalpy of formation of Ni17Yb2 reported in the literature (9)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -17 kJ/mol-atom ± 0.1 | Ni17Yb2 | 990 | experimental | Effusion and EMF | [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html) | [1] Kardellass 2016; _cites Di 2002_ [doi](https://doi.org/10.1021/jp0142785) | Table 2, p. 5, row 5 |  |
-| -14.8 kJ/mol-atom | Ni17Yb2 | 298.15 | experimental | Calorimetry | [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html) | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 2, p. 5, row 4 |  |
-| -13.9 unknown ± 0.3 | Yb2Ni17 | 298.15 | experimental | XRD, KE method | [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html) | [2] Hu 2017; _cites Buschow 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990082-3) | Table 3, p. 26, row 9 |  |
-| -13.9 kJ/mol-atom ± 0.3 | Ni17Yb2 | 298.15 | experimental | Vapor pressure | [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html) | [1] Kardellass 2016; _cites Brutti 2002_ [doi](https://doi.org/10.1361/105497102770332207) | Table 2, p. 5, row 2 |  |
-| -13.15 kJ/mol-atom | Ni17Yb2 | 298.15 | model | Optimization | [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html) | [1] Kardellass 2016 | Table 2, p. 5, row 3 |  |
-| -13.15 kJ/mol-atom | Ni17Yb2 | 298.15 | model | Optimization | [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html) | [1] Kardellass 2016 | Table 4, p. 7, row 1 |  |
-| -12.7 kJ/mol-atom | Ni17Yb2 | 298.15 | model | Prediction | [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html) | [1] Kardellass 2016; _cites De 1988_ | Table 2, p. 5, row 1 |  |
-| -12.4 kJ/mol-atom | Yb2Ni17 | 0 | DFT | FP PBE | [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html) | [2] Hu 2017 | Table 3, p. 26, row 12 |  |
-| -12.4 unknown | Yb2Ni17 | 0 | DFT | FP PBE | [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html) | [2] Hu 2017 | Table 3, p. 26, row 12 |  |
+| -17 kJ/mol-atom ± 0.1 | Ni17Yb2 | 990 | experimental | Effusion and EMF | [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html) | [1] Kardellass 2016; _cites Di 2002_ [doi](https://doi.org/10.1021/jp0142785) | Table 2, p. 5, row 5; `ORC-3NOZAMJ6QA.ec7216` |  |
+| -14.8 kJ/mol-atom | Ni17Yb2 | 298.15 | experimental | Calorimetry | [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html) | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 2, p. 5, row 4; `ORC-T6WAJSN2ID.b71772` |  |
+| -13.9 unknown ± 0.3 | Yb2Ni17 | 298.15 | experimental | XRD, KE method | [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html) | [2] Hu 2017; _cites Buschow 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990082-3) | Table 3, p. 26, row 9; `ORC-OT56BOWFTM` |  |
+| -13.9 kJ/mol-atom ± 0.3 | Ni17Yb2 | 298.15 | experimental | Vapor pressure | [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html) | [1] Kardellass 2016; _cites Brutti 2002_ [doi](https://doi.org/10.1361/105497102770332207) | Table 2, p. 5, row 2; `ORC-QE7M3FV2JX.2483a3` |  |
+| -13.15 kJ/mol-atom | Ni17Yb2 | 298.15 | model | Optimization | [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html) | [1] Kardellass 2016 | Table 2, p. 5, row 3; `ORC-4KUVCAKG6H.7fd733` |  |
+| -13.15 kJ/mol-atom | Ni17Yb2 | 298.15 | model | Optimization | [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html) | [1] Kardellass 2016 | Table 4, p. 7, row 1; `ORC-PRBMETDZP5.66c793` |  |
+| -12.7 kJ/mol-atom | Ni17Yb2 | 298.15 | model | Prediction | [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html) | [1] Kardellass 2016; _cites De 1988_ | Table 2, p. 5, row 1; `ORC-MO2BMAX3LJ.9aa63f` |  |
+| -12.4 kJ/mol-atom | Yb2Ni17 | 0 | DFT | FP PBE | [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html) | [2] Hu 2017 | Table 3, p. 26, row 12; `ORC-CWWQ6APNAQ.3dfbb3` |  |
+| -12.4 unknown | Yb2Ni17 | 0 | DFT | FP PBE | [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html) | [2] Hu 2017 | Table 3, p. 26, row 12; `ORC-CWWQ6APNAQ.478709` |  |
 
 ### Uncertainty budget
 
@@ -106,4 +106,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

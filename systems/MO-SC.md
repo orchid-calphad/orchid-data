@@ -47,10 +47,10 @@ Table: Invariant reactions reported in the literature for the Mo–Sc system (4)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1643.15 | eutectic: L -> (Mo) + bSc |  | model | [1] Wang 2015; _cites Massalski 1996_ | p. 2 | “The Sc-Mo phase diagram consisted of three solid solution phases ((Mo), aSc and bSc phases) is mainly based on the work of Massalski,\[15\] who indicated a eutectic reaction (L (89.5 at.% Sc) M (Mo) (0.2 at.% Sc) + bSc (98.5 at.% Sc) at 1370 ± 50 °C) and a eutectoid reaction (bSc (98.5 at.% Sc) M (Cr) (0.2 at.% Sc) + aSc (99.5 at.% Sc) at 1330 °C).” |
-| 1603.15 | eutectoid: bSc -> (Cr) + aSc |  | model | [1] Wang 2015; _cites Massalski 1996_ | p. 2 | “The Sc-Mo phase diagram consisted of three solid solution phases ((Mo), aSc and bSc phases) is mainly based on the work of Massalski,\[15\] who indicated a eutectic reaction (L (89.5 at.% Sc) M (Mo) (0.2 at.% Sc) + bSc (98.5 at.% Sc) at 1370 ± 50 °C) and a eutectoid reaction (bSc (98.5 at.% Sc) M (Cr) (0.2 at.% Sc) + aSc (99.5 at.% Sc) at 1330 °C).” |
-| 1603.15 | βSc -> (Mo) + αSc | βSc: Sc 0.985; (Mo): Sc 0.002; αSc: Sc 0.995 | experimental | [1] Wang 2015; _cites Massalski 1996_ | Table 1, p. 3, row 13 |  |
-| 1603.05 | βSc -> (Mo) + αSc | βSc: Sc 0.985; (Mo): Sc 0.002; αSc: Sc 0.998 | model | [1] Wang 2015 | Table 1, p. 3, row 14 |  |
+| 1643.15 | eutectic: L -> (Mo) + bSc |  | model | [1] Wang 2015; _cites Massalski 1996_ | p. 2; `ORC-N4GD5GUA4I.8d74d7` | “The Sc-Mo phase diagram consisted of three solid solution phases ((Mo), aSc and bSc phases) is mainly based on the work of Massalski,\[15\] who indicated a eutectic reaction (L (89.5 at.% Sc) M (Mo) (0.2 at.% Sc) + bSc (98.5 at.% Sc) at 1370 ± 50 °C) and a eutectoid reaction (bSc (98.5 at.% Sc) M (Cr) (0.2 at.% Sc) + aSc (99.5 at.% Sc) at 1330 °C).” |
+| 1603.15 | eutectoid: bSc -> (Cr) + aSc |  | model | [1] Wang 2015; _cites Massalski 1996_ | p. 2; `ORC-N4GD5GUA4I.b50a79` | “The Sc-Mo phase diagram consisted of three solid solution phases ((Mo), aSc and bSc phases) is mainly based on the work of Massalski,\[15\] who indicated a eutectic reaction (L (89.5 at.% Sc) M (Mo) (0.2 at.% Sc) + bSc (98.5 at.% Sc) at 1370 ± 50 °C) and a eutectoid reaction (bSc (98.5 at.% Sc) M (Cr) (0.2 at.% Sc) + aSc (99.5 at.% Sc) at 1330 °C).” |
+| 1603.15 | βSc -> (Mo) + αSc | βSc: Sc 0.985; (Mo): Sc 0.002; αSc: Sc 0.995 | experimental | [1] Wang 2015; _cites Massalski 1996_ | Table 1, p. 3, row 13; `ORC-QNUR52HQN2` |  |
+| 1603.05 | βSc -> (Mo) + αSc | βSc: Sc 0.985; (Mo): Sc 0.002; αSc: Sc 0.998 | model | [1] Wang 2015 | Table 1, p. 3, row 14; `ORC-ZVNTSFNFLZ` |  |
 
 ## Other properties
 
@@ -60,8 +60,8 @@ Table: Mixing / partial, Mo–Sc system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: enthalpy of mixing_ | 11 kJ/mol (basis unstated) | 2973.15 | liquid; _alloy: Mo 0.5, Sc 0.5_ | model | [1] Wang 2015; _cites F 1988_ | Table 3, p. 3, row 5 |  |
-| Enthalpy of mixing; _printed: enthalpy of mixing_ | 10.86 kJ/mol (basis unstated) | 2973.15 | liquid; _alloy: Mo 0.5, Sc 0.5_ | model | [1] Wang 2015 | Table 3, p. 3, row 6 |  |
+| Enthalpy of mixing; _printed: enthalpy of mixing_ | 11 kJ/mol (basis unstated) | 2973.15 | liquid; _alloy: Mo 0.5, Sc 0.5_ | model | [1] Wang 2015; _cites F 1988_ | Table 3, p. 3, row 5; `ORC-CP2OCOK64F` |  |
+| Enthalpy of mixing; _printed: enthalpy of mixing_ | 10.86 kJ/mol (basis unstated) | 2973.15 | liquid; _alloy: Mo 0.5, Sc 0.5_ | model | [1] Wang 2015 | Table 3, p. 3, row 6; `ORC-X62NFTDN7G` |  |
 
 ## Sources
 
@@ -126,4 +126,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

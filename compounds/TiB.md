@@ -14,17 +14,17 @@ Table: Enthalpy of formation of TiB reported in the literature (11)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -160.247 kJ/mol (basis unstated) | TiB | 298.15 | experimental |  | [B–Ti](https://data.orchid-project.org/systems/B-TI.html) | [1] Ma 2004; _cites Schissel 1962_ [doi](https://doi.org/10.1021/j100814a027) | Table 3, p. 4, row 5 |  |
-| -82.5 kJ/mol-atom | TiB |  | model |  | [B–Ti](https://data.orchid-project.org/systems/B-TI.html) | [2] Nakama 2009; _cites Witusiewicz 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.02.030) | Table 4, p. 7, row 29 |  |
-| -82.5 kJ/mol (basis unstated) | TiB |  | model |  | [B–Ti](https://data.orchid-project.org/systems/B-TI.html) | [2] Nakama 2009; _cites Witusiewicz 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.02.030) | Table 3, p. 6, row 2 |  |
-| -69.3 kJ/mol-atom | TiB |  | model |  | [B–Ti](https://data.orchid-project.org/systems/B-TI.html) | [2] Nakama 2009; _cites Witusiewicz 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.02.030) | Table 4, p. 7, row 22 |  |
-| -83 kJ/mol (basis unstated) | TiB | 0 | DFT | First principles | [B–Ti](https://data.orchid-project.org/systems/B-TI.html) | [2] Nakama 2009 | Table 3, p. 6, row 1 |  |
-| -83 kJ/mol-atom | TiB | 0 | DFT | First principles | [B–Ti](https://data.orchid-project.org/systems/B-TI.html) | [2] Nakama 2009 | Table 4, p. 7, row 28 |  |
-| -82.9 kJ/mol-atom | TiB | 0 | DFT | First principles | [B–Ti](https://data.orchid-project.org/systems/B-TI.html) | [2] Nakama 2009 | Table 4, p. 7, row 26 |  |
-| -82.7 kJ/mol-atom | TiB | 0 | DFT | First principles | [B–Ti](https://data.orchid-project.org/systems/B-TI.html) | [2] Nakama 2009 | Table 4, p. 7, row 25 |  |
-| -82 kJ/mol-atom | TiB | 0 | DFT | First principles | [B–Ti](https://data.orchid-project.org/systems/B-TI.html) | [2] Nakama 2009 | Table 4, p. 7, row 24 |  |
-| -80.1 kJ/mol-atom | TiB | 0 | DFT | First principles | [B–Ti](https://data.orchid-project.org/systems/B-TI.html) | [2] Nakama 2009 | Table 4, p. 7, row 23 |  |
-| -78.7 kJ/mol-atom | TiB | 0 | DFT | First principles | [B–Ti](https://data.orchid-project.org/systems/B-TI.html) | [2] Nakama 2009 | Table 4, p. 7, row 21 |  |
+| -160.247 kJ/mol (basis unstated) | TiB | 298.15 | experimental |  | [B–Ti](https://data.orchid-project.org/systems/B-TI.html) | [1] Ma 2004; _cites Schissel 1962_ [doi](https://doi.org/10.1021/j100814a027) | Table 3, p. 4, row 5; `ORC-ZTR7ID22BV.05fe67` |  |
+| -82.5 kJ/mol-atom | TiB |  | model |  | [B–Ti](https://data.orchid-project.org/systems/B-TI.html) | [2] Nakama 2009; _cites Witusiewicz 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.02.030) | Table 4, p. 7, row 29; `ORC-S2SIA7TXDA.4e3392` |  |
+| -82.5 kJ/mol (basis unstated) | TiB |  | model |  | [B–Ti](https://data.orchid-project.org/systems/B-TI.html) | [2] Nakama 2009; _cites Witusiewicz 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.02.030) | Table 3, p. 6, row 2; `ORC-W35PXIC447.61e21d` |  |
+| -69.3 kJ/mol-atom | TiB |  | model |  | [B–Ti](https://data.orchid-project.org/systems/B-TI.html) | [2] Nakama 2009; _cites Witusiewicz 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.02.030) | Table 4, p. 7, row 22; `ORC-4JLAHREL2Q.f9232e` |  |
+| -83 kJ/mol (basis unstated) | TiB | 0 | DFT | First principles | [B–Ti](https://data.orchid-project.org/systems/B-TI.html) | [2] Nakama 2009 | Table 3, p. 6, row 1; `ORC-4POSDLSGAJ.844407` |  |
+| -83 kJ/mol-atom | TiB | 0 | DFT | First principles | [B–Ti](https://data.orchid-project.org/systems/B-TI.html) | [2] Nakama 2009 | Table 4, p. 7, row 28; `ORC-N3YFVM7YFG.9eacc9` |  |
+| -82.9 kJ/mol-atom | TiB | 0 | DFT | First principles | [B–Ti](https://data.orchid-project.org/systems/B-TI.html) | [2] Nakama 2009 | Table 4, p. 7, row 26; `ORC-3M5ZMARNTY.1756d8` |  |
+| -82.7 kJ/mol-atom | TiB | 0 | DFT | First principles | [B–Ti](https://data.orchid-project.org/systems/B-TI.html) | [2] Nakama 2009 | Table 4, p. 7, row 25; `ORC-IA7FZJZHY3.0fd3bc` |  |
+| -82 kJ/mol-atom | TiB | 0 | DFT | First principles | [B–Ti](https://data.orchid-project.org/systems/B-TI.html) | [2] Nakama 2009 | Table 4, p. 7, row 24; `ORC-3RAC37UJEL.3de74e` |  |
+| -80.1 kJ/mol-atom | TiB | 0 | DFT | First principles | [B–Ti](https://data.orchid-project.org/systems/B-TI.html) | [2] Nakama 2009 | Table 4, p. 7, row 23; `ORC-Y75WZBY7HI.9d5adc` |  |
+| -78.7 kJ/mol-atom | TiB | 0 | DFT | First principles | [B–Ti](https://data.orchid-project.org/systems/B-TI.html) | [2] Nakama 2009 | Table 4, p. 7, row 21; `ORC-GSTJZW4TCT.1b308d` |  |
 
 ### Uncertainty budget
 
@@ -111,4 +111,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

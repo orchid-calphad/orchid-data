@@ -50,11 +50,11 @@ Table: Enthalpies of formation, Ga–O system (5)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| UNKNOWN |  | -1092 kJ/mol (basis unstated) ± 2 | 298.15 | experimental |  |  | [1] Zinkevich 2004; _cites Reznitskii 1979_ | Table VI, p. 6, row 4 |  |
-| UNKNOWN |  | -1084 kJ/mol (basis unstated) ± 4 | 298.15 | experimental |  |  | [1] Zinkevich 2004; _cites Klemm 1936_ | Table VI, p. 6, row 2 |  |
-| UNKNOWN |  | -1082 kJ/mol (basis unstated) ± 2 | 298.15 | experimental |  |  | [1] Zinkevich 2004; _cites Mah 1962_ | Table VI, p. 6, row 3 |  |
-| UNKNOWN |  | -1080.4 kJ/mol (basis unstated) |  | model |  |  | [1] Zinkevich 2004 | Table VI, p. 6, row 5 |  |
-| UNKNOWN |  | -1070 kJ/mol (basis unstated) ± 4 | 298.15 | experimental |  |  | [1] Zinkevich 2004; _cites Roth 1932_ [doi](https://doi.org/10.1515/zpch-1932-15902) | Table VI, p. 6, row 1 |  |
+| UNKNOWN |  | -1092 kJ/mol (basis unstated) ± 2 | 298.15 | experimental |  |  | [1] Zinkevich 2004; _cites Reznitskii 1979_ | Table VI, p. 6, row 4; `ORC-F4LZLYVL2I` |  |
+| UNKNOWN |  | -1084 kJ/mol (basis unstated) ± 4 | 298.15 | experimental |  |  | [1] Zinkevich 2004; _cites Klemm 1936_ | Table VI, p. 6, row 2; `ORC-D7K5KS7XED` |  |
+| UNKNOWN |  | -1082 kJ/mol (basis unstated) ± 2 | 298.15 | experimental |  |  | [1] Zinkevich 2004; _cites Mah 1962_ | Table VI, p. 6, row 3; `ORC-3VQZEK7RF2` |  |
+| UNKNOWN |  | -1080.4 kJ/mol (basis unstated) |  | model |  |  | [1] Zinkevich 2004 | Table VI, p. 6, row 5; `ORC-3JGJ34H2N6` |  |
+| UNKNOWN |  | -1070 kJ/mol (basis unstated) ± 4 | 298.15 | experimental |  |  | [1] Zinkevich 2004; _cites Roth 1932_ [doi](https://doi.org/10.1515/zpch-1932-15902) | Table VI, p. 6, row 1; `ORC-HD7KSONWFS` |  |
 
 ## Other properties
 
@@ -64,7 +64,7 @@ Table: Phase transition, Ga–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1800 K | 1800 | other | model | [1] Zinkevich 2004 | p. 7 | “At low pressures, the oxygen solubility in liquid gallium is greatly decreased, whereas ␤-Ga2O3 sublimates at ⬃1800 K (Fig. 5).” |
+| Phase transition | 1800 K | 1800 | other | model | [1] Zinkevich 2004 | p. 7; `ORC-CDVBEPVG3M` | “At low pressures, the oxygen solubility in liquid gallium is greatly decreased, whereas ␤-Ga2O3 sublimates at ⬃1800 K (Fig. 5).” |
 
 ### Heat capacity / entropy / enthalpy (3)
 
@@ -72,9 +72,9 @@ Table: Heat capacity / entropy / enthalpy, Ga–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: S_ | 85 J/mol (basis unstated)/K ± 0.4 | 298.15 | β-Ga2O3; _alloy: O 0.6_ | experimental | [1] Zinkevich 2004; _cites Pankratz 1963_ | Table V, p. 6, row 2 |  |
-| Entropy; _printed: S_ | 84.6 J/mol (basis unstated)/K ± 0.4 | 298.15 | β-Ga2O3; _alloy: O 0.6_ | experimental | [1] Zinkevich 2004; _cites King 1958_ | Table V, p. 6, row 1 |  |
-| Entropy; _printed: S_ | 84.83 J/mol (basis unstated)/K | 298.15 | β-Ga2O3; _alloy: O 0.6_ | model | [1] Zinkevich 2004 | Table V, p. 6, row 3 |  |
+| Entropy; _printed: S_ | 85 J/mol (basis unstated)/K ± 0.4 | 298.15 | β-Ga2O3; _alloy: O 0.6_ | experimental | [1] Zinkevich 2004; _cites Pankratz 1963_ | Table V, p. 6, row 2; `ORC-43DNJ4T4KW.34193b` |  |
+| Entropy; _printed: S_ | 84.6 J/mol (basis unstated)/K ± 0.4 | 298.15 | β-Ga2O3; _alloy: O 0.6_ | experimental | [1] Zinkevich 2004; _cites King 1958_ | Table V, p. 6, row 1; `ORC-4ULCHTVZO7.6d7638` |  |
+| Entropy; _printed: S_ | 84.83 J/mol (basis unstated)/K | 298.15 | β-Ga2O3; _alloy: O 0.6_ | model | [1] Zinkevich 2004 | Table V, p. 6, row 3; `ORC-5FBDJQB2XX.1ff5f9` |  |
 
 ### Crystal structure (8)
 
@@ -82,14 +82,14 @@ Table: Crystal structure, Ga–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 12.214 Å ± 0.003 |  | β-Ga2O3; _β-Ga2O3: Ga 0.4, O 0.6_ | model | [1] Zinkevich 2004; _cites Ahman 1996_ | Table I, p. 2, row 2 |  |
-| Lattice a | 4.9791 Å ± 6.000e-4 | 298.15 | α-Ga2O3†; _α-Ga2O3†: Ga 0.4, O 0.6_ | experimental | [1] Zinkevich 2004; _cites Prewitt 1969_ | Table I, p. 2, row 1 |  |
-| Lattice a | 8.22 Å | 298.15 | γ-Ga2O3†; _γ-Ga2O3†: Ga 0.4, O 0.6_ | experimental | [1] Zinkevich 2004; _cites Pohl 1968_ | Table I, p. 2, row 3 |  |
-| Lattice a | 10 Å | 298.15 | δ-Ga2O3†; _δ-Ga2O3†: Ga 0.4, O 0.6_ | experimental | [1] Zinkevich 2004; _cites Roy 1952_ | Table I, p. 2, row 4 |  |
-| Lattice b | 3.0371 Å ± 9.000e-4 |  | β-Ga2O3; _β-Ga2O3: Ga 0.4, O 0.6_ | model | [1] Zinkevich 2004; _cites Ahman 1996_ | Table I, p. 2, row 2 |  |
-| Lattice c | 5.7981 Å ± 9.000e-4 |  | β-Ga2O3; _β-Ga2O3: Ga 0.4, O 0.6_ | model | [1] Zinkevich 2004; _cites Ahman 1996_ | Table I, p. 2, row 2 |  |
-| Lattice c | 13.437 Å ± 0.004 | 298.15 | α-Ga2O3†; _α-Ga2O3†: Ga 0.4, O 0.6_ | experimental | [1] Zinkevich 2004; _cites Prewitt 1969_ | Table I, p. 2, row 1 |  |
-| lattice beta | 103.83 deg ± 0.02 |  | β-Ga2O3; _β-Ga2O3: Ga 0.4, O 0.6_ | model | [1] Zinkevich 2004; _cites Ahman 1996_ | Table I, p. 2, row 2 |  |
+| Lattice a | 12.214 Å ± 0.003 |  | β-Ga2O3; _β-Ga2O3: Ga 0.4, O 0.6_ | model | [1] Zinkevich 2004; _cites Ahman 1996_ | Table I, p. 2, row 2; `ORC-NDUML5HN24.2a9678` |  |
+| Lattice a | 4.9791 Å ± 6.000e-4 | 298.15 | α-Ga2O3†; _α-Ga2O3†: Ga 0.4, O 0.6_ | experimental | [1] Zinkevich 2004; _cites Prewitt 1969_ | Table I, p. 2, row 1; `ORC-TOOWEALUJ4.141e98` |  |
+| Lattice a | 8.22 Å | 298.15 | γ-Ga2O3†; _γ-Ga2O3†: Ga 0.4, O 0.6_ | experimental | [1] Zinkevich 2004; _cites Pohl 1968_ | Table I, p. 2, row 3; `ORC-HJOUNMUYUV` |  |
+| Lattice a | 10 Å | 298.15 | δ-Ga2O3†; _δ-Ga2O3†: Ga 0.4, O 0.6_ | experimental | [1] Zinkevich 2004; _cites Roy 1952_ | Table I, p. 2, row 4; `ORC-N4WO2GE5JP` |  |
+| Lattice b | 3.0371 Å ± 9.000e-4 |  | β-Ga2O3; _β-Ga2O3: Ga 0.4, O 0.6_ | model | [1] Zinkevich 2004; _cites Ahman 1996_ | Table I, p. 2, row 2; `ORC-NDUML5HN24.86a0ca` |  |
+| Lattice c | 5.7981 Å ± 9.000e-4 |  | β-Ga2O3; _β-Ga2O3: Ga 0.4, O 0.6_ | model | [1] Zinkevich 2004; _cites Ahman 1996_ | Table I, p. 2, row 2; `ORC-NDUML5HN24.2f6bef` |  |
+| Lattice c | 13.437 Å ± 0.004 | 298.15 | α-Ga2O3†; _α-Ga2O3†: Ga 0.4, O 0.6_ | experimental | [1] Zinkevich 2004; _cites Prewitt 1969_ | Table I, p. 2, row 1; `ORC-TOOWEALUJ4.a764b1` |  |
+| lattice beta | 103.83 deg ± 0.02 |  | β-Ga2O3; _β-Ga2O3: Ga 0.4, O 0.6_ | model | [1] Zinkevich 2004; _cites Ahman 1996_ | Table I, p. 2, row 2; `ORC-NDUML5HN24.5b2a20` |  |
 
 ## Sources
 
@@ -154,4 +154,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

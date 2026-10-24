@@ -29,18 +29,18 @@ Table: Invariant reactions reported in the literature for the B–Er system (12)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2633.15 | congruent melting: L ↔ B4Er | B4Er: B 0.8 | model | [1] Wang 2012 | Table 4, p. 5, row 6 |  |
-| 2633.15 | congruent melting: L ↔ B4Er | B4Er: B 0.8 | experimental | [1] Wang 2012; _cites Liao 1996_ [doi](https://doi.org/10.1007/bf02665558) | Table 4, p. 5, row 5 |  |
-| 2458.15 | peritectic: L +B4Er ↔ B2Er | L: B 0.65; B4Er: B 0.8; B2Er: B 0.667 | experimental | [1] Wang 2012; _cites Liao 1996_ [doi](https://doi.org/10.1007/bf02665558) | Table 4, p. 5, row 3 |  |
-| 2457.15 | peritectic: L +B4Er ↔ B2Er | L: B 0.643; B4Er: B 0.8; B2Er: B 0.667 | model | [1] Wang 2012 | Table 4, p. 5, row 4 |  |
-| 2356.15 | peritectic: L + B4Er ↔ B12Er | L: B 0.925; B4Er: B 0.8; B12Er: B 0.923 | model | [1] Wang 2012 | Table 4, p. 5, row 8 |  |
-| 2356.15 | peritectic: L + B4Er ↔ B12Er | L: B 0.93; B4Er: B 0.8; B12Er: B 0.923 | experimental | [1] Wang 2012; _cites Liao 1996_ [doi](https://doi.org/10.1007/bf02665558) | Table 4, p. 5, row 7 |  |
-| 2343.15 | congruent melting: L ↔ B66Er | B66Er: B 0.985 | model | [1] Wang 2012 | Table 4, p. 5, row 12 |  |
-| 2343.15 | congruent melting: L ↔ B66Er | B66Er: B 0.985 | experimental | [1] Wang 2012; _cites Liao 1996_ [doi](https://doi.org/10.1007/bf02665558) | Table 4, p. 5, row 11 |  |
-| 2325.15 | eutectic: L ↔ B12Er + B66Er | L: B 0.96; B12Er: B 0.923; B66Er: B 0.985 | model | [1] Wang 2012 | Table 4, p. 5, row 10 |  |
-| 2288.15 | eutectic: L ↔ B12Er + B66Er | L: B 0.97; B12Er: B 0.923; B66Er: B 0.985 | experimental | [1] Wang 2012; _cites Liao 1996_ [doi](https://doi.org/10.1007/bf02665558) | Table 4, p. 5, row 9 |  |
-| 1773.15 | eutectic: L ↔ (Er) + B2Er | L: B 0.01; (Er): B 0; B2Er: B 0.667 | experimental | [1] Wang 2012; _cites Liao 1996_ [doi](https://doi.org/10.1007/bf02665558) | Table 4, p. 5, row 1 |  |
-| 1770.15 | eutectic: L ↔ (Er) + B2Er | L: B 0.029; (Er): B 0; B2Er: B 0.667 | model | [1] Wang 2012 | Table 4, p. 5, row 2 |  |
+| 2633.15 | congruent melting: L ↔ B4Er | B4Er: B 0.8 | model | [1] Wang 2012 | Table 4, p. 5, row 6; `ORC-3H6R3CHWSF` |  |
+| 2633.15 | congruent melting: L ↔ B4Er | B4Er: B 0.8 | experimental | [1] Wang 2012; _cites Liao 1996_ [doi](https://doi.org/10.1007/bf02665558) | Table 4, p. 5, row 5; `ORC-B623TK3C3S` |  |
+| 2458.15 | peritectic: L +B4Er ↔ B2Er | L: B 0.65; B4Er: B 0.8; B2Er: B 0.667 | experimental | [1] Wang 2012; _cites Liao 1996_ [doi](https://doi.org/10.1007/bf02665558) | Table 4, p. 5, row 3; `ORC-5ZFGGFRF4K` |  |
+| 2457.15 | peritectic: L +B4Er ↔ B2Er | L: B 0.643; B4Er: B 0.8; B2Er: B 0.667 | model | [1] Wang 2012 | Table 4, p. 5, row 4; `ORC-QBAHC33XZQ` |  |
+| 2356.15 | peritectic: L + B4Er ↔ B12Er | L: B 0.925; B4Er: B 0.8; B12Er: B 0.923 | model | [1] Wang 2012 | Table 4, p. 5, row 8; `ORC-2ZHUXULRRU` |  |
+| 2356.15 | peritectic: L + B4Er ↔ B12Er | L: B 0.93; B4Er: B 0.8; B12Er: B 0.923 | experimental | [1] Wang 2012; _cites Liao 1996_ [doi](https://doi.org/10.1007/bf02665558) | Table 4, p. 5, row 7; `ORC-SMLIJ5GQGD` |  |
+| 2343.15 | congruent melting: L ↔ B66Er | B66Er: B 0.985 | model | [1] Wang 2012 | Table 4, p. 5, row 12; `ORC-5GQUTDII3P` |  |
+| 2343.15 | congruent melting: L ↔ B66Er | B66Er: B 0.985 | experimental | [1] Wang 2012; _cites Liao 1996_ [doi](https://doi.org/10.1007/bf02665558) | Table 4, p. 5, row 11; `ORC-AVKXD6EAMO` |  |
+| 2325.15 | eutectic: L ↔ B12Er + B66Er | L: B 0.96; B12Er: B 0.923; B66Er: B 0.985 | model | [1] Wang 2012 | Table 4, p. 5, row 10; `ORC-7BSGKAJKSK` |  |
+| 2288.15 | eutectic: L ↔ B12Er + B66Er | L: B 0.97; B12Er: B 0.923; B66Er: B 0.985 | experimental | [1] Wang 2012; _cites Liao 1996_ [doi](https://doi.org/10.1007/bf02665558) | Table 4, p. 5, row 9; `ORC-JGU3E3G7JM` |  |
+| 1773.15 | eutectic: L ↔ (Er) + B2Er | L: B 0.01; (Er): B 0; B2Er: B 0.667 | experimental | [1] Wang 2012; _cites Liao 1996_ [doi](https://doi.org/10.1007/bf02665558) | Table 4, p. 5, row 1; `ORC-CG55YNFOXH` |  |
+| 1770.15 | eutectic: L ↔ (Er) + B2Er | L: B 0.029; (Er): B 0; B2Er: B 0.667 | model | [1] Wang 2012 | Table 4, p. 5, row 2; `ORC-P7AK6D7LJX` |  |
 
 ## Sources
 
@@ -94,4 +94,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

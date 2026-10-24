@@ -30,13 +30,13 @@ Table: Enthalpies of formation, Ni–Sn–Ti system (7)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| TiNi2Sn |  | 77 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 3 |  |
-| TiNi2Sn |  | 89 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 4 |  |
-| TiNi2Sn |  | 240.5 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 9 |  |
-| TiNiSn |  | 183.7 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 10 |  |
-| TiNiSn |  | 286.1 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 3 |  |
-| TiNiSn |  | 307.6 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 4 |  |
-| TiNiSn |  | 375.5 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 9 |  |
+| TiNi2Sn |  | 77 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 3; `ORC-OQGVR2JUYV.5e7f85` |  |
+| TiNi2Sn |  | 89 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 4; `ORC-KKAFA5BPXA.637556` |  |
+| TiNi2Sn |  | 240.5 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 9; `ORC-D7CNPHBOMT.782a18` |  |
+| TiNiSn |  | 183.7 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 10; `ORC-LBCEJBDSO4.ff4204` |  |
+| TiNiSn |  | 286.1 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 3; `ORC-OQGVR2JUYV.7b8dbc` |  |
+| TiNiSn |  | 307.6 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 4; `ORC-KKAFA5BPXA.76a075` |  |
+| TiNiSn |  | 375.5 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 9; `ORC-D7CNPHBOMT.870887` |  |
 
 ## Other properties
 
@@ -46,7 +46,7 @@ Table: Phase transition, Ni–Sn–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1400 K | 1400 | other | experimental | [1] Berche 2016 | p. 4 | “In Ti-Ni-Sn, the most stable phase is the Heusler and the half decomposes around 1400 K.” |
+| Phase transition | 1400 K | 1400 | other | experimental | [1] Berche 2016 | p. 4; `ORC-CIPFBHD377` | “In Ti-Ni-Sn, the most stable phase is the Heusler and the half decomposes around 1400 K.” |
 
 ## Sources
 
@@ -89,4 +89,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

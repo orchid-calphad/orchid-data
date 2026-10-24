@@ -14,13 +14,13 @@ Table: Enthalpy of formation of AlRu reported in the literature (7)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -62.05 kJ/mol-atom ± 3 | RuAl | 298.15 | experimental | calorimetry | [Al–Ru](https://data.orchid-project.org/systems/AL-RU.html) | [1] Prins 2003; _cites ref. 1992Jun_ | Table 2, p. 3, row 10 |  |
-| -51.126 kJ/mol-atom | RuAl |  | model |  | [Al–Ru](https://data.orchid-project.org/systems/AL-RU.html) | [1] Prins 2003 | Table 2, p. 3, row 14 |  |
-| -51.057 kJ/mol-atom | RuAl |  | model |  | [Al–Ru](https://data.orchid-project.org/systems/AL-RU.html) | [1] Prins 2003 | Table 2, p. 3, row 15 |  |
-| -47.32 kJ/mol-atom | RuAl |  | model |  | [Al–Ru](https://data.orchid-project.org/systems/AL-RU.html) | [1] Prins 2003; _cites ref. 1998Wol_ | Table 2, p. 3, row 9 |  |
-| -95.51 kJ/mol-atom | RuAl |  | DFT | ab initio | [Al–Ru](https://data.orchid-project.org/systems/AL-RU.html) | [1] Prins 2003; _cites ref. 2002Gar_ | Table 2, p. 3, row 13 |  |
-| -70.74 kJ/mol-atom | RuAl |  | DFT | ab initio | [Al–Ru](https://data.orchid-project.org/systems/AL-RU.html) | [1] Prins 2003; _cites ref. 1992Lin_ | Table 2, p. 3, row 11 |  |
-| -58.15 kJ/mol-atom | RuAl |  | DFT | ab initio | [Al–Ru](https://data.orchid-project.org/systems/AL-RU.html) | [1] Prins 2003; _cites ref. 1999Man_ | Table 2, p. 3, row 12 |  |
+| -62.05 kJ/mol-atom ± 3 | RuAl | 298.15 | experimental | calorimetry | [Al–Ru](https://data.orchid-project.org/systems/AL-RU.html) | [1] Prins 2003; _cites ref. 1992Jun_ | Table 2, p. 3, row 10; `ORC-3HPITLRFFC.237487` |  |
+| -51.126 kJ/mol-atom | RuAl |  | model |  | [Al–Ru](https://data.orchid-project.org/systems/AL-RU.html) | [1] Prins 2003 | Table 2, p. 3, row 14; `ORC-2WPP7HJIQN.765b26` |  |
+| -51.057 kJ/mol-atom | RuAl |  | model |  | [Al–Ru](https://data.orchid-project.org/systems/AL-RU.html) | [1] Prins 2003 | Table 2, p. 3, row 15; `ORC-R4UPGK4EFD.22a0ac` |  |
+| -47.32 kJ/mol-atom | RuAl |  | model |  | [Al–Ru](https://data.orchid-project.org/systems/AL-RU.html) | [1] Prins 2003; _cites ref. 1998Wol_ | Table 2, p. 3, row 9; `ORC-M34T6UCBNW.bd5e8b` |  |
+| -95.51 kJ/mol-atom | RuAl |  | DFT | ab initio | [Al–Ru](https://data.orchid-project.org/systems/AL-RU.html) | [1] Prins 2003; _cites ref. 2002Gar_ | Table 2, p. 3, row 13; `ORC-3QIEAET3JG.2dc7e2` |  |
+| -70.74 kJ/mol-atom | RuAl |  | DFT | ab initio | [Al–Ru](https://data.orchid-project.org/systems/AL-RU.html) | [1] Prins 2003; _cites ref. 1992Lin_ | Table 2, p. 3, row 11; `ORC-HFEQFZKXYD.438948` |  |
+| -58.15 kJ/mol-atom | RuAl |  | DFT | ab initio | [Al–Ru](https://data.orchid-project.org/systems/AL-RU.html) | [1] Prins 2003; _cites ref. 1999Man_ | Table 2, p. 3, row 12; `ORC-FXJXUG7SQV.72a980` |  |
 
 ### Uncertainty budget
 
@@ -102,4 +102,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

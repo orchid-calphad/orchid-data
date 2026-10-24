@@ -72,36 +72,36 @@ Table: Invariant reactions reported in the literature for the Ge–Y system (30)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2218 | Ge4Y5 -> Liq + Ge3Y5 | Ge4Y5: Y 0.555556; L: Y 0.552; Ge3Y5: Y 0.625 | experimental | [1] Idbenali 2013; _cites Schmidt 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990008-2) | Table 3, p. 4, row 19 |  |
-| 2214 | Ge4Y5 -> Liq + Ge3Y5 | Ge4Y5: Y 0.555556; L: Y 0.572; Ge3Y5: Y 0.625 | model | [1] Idbenali 2013 | Table 3, p. 4, row 20 |  |
-| 2173 | Ge10Y11 -> Liq + Ge4Y5 | Ge10Y11: Y 0.52381; L: Y 0.498; Ge4Y5: Y 0.555556 | experimental | [1] Idbenali 2013; _cites Schmidt 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990008-2) | Table 3, p. 4, row 17 |  |
-| 2157 | Ge10Y11 -> Liq + Ge4Y5 | Ge10Y11: Y 0.52381; L: Y 0.477; Ge4Y5: Y 0.555556 | model | [1] Idbenali 2013 | Table 3, p. 4, row 18 |  |
-| 2003 | GeY -> Liq + Ge10Y11 | GeY: Y 0.5; L: Y 0.396; Ge10Y11: Y 0.52381 | model | [1] Idbenali 2013 | Table 3, p. 4, row 16 |  |
-| 2003 | GeY -> Liq + Ge10Y11 | GeY: Y 0.5; L: Y 0.44; Ge10Y11: Y 0.52381 | experimental | [1] Idbenali 2013; _cites Schmidt 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990008-2) | Table 3, p. 4, row 15 |  |
-| 1736 | HCP -> BCC + Liq | L: Y 0.973 | model | [1] Idbenali 2013 | Table 3, p. 4, row 26 |  |
-| 1733 | Ge1.5Y-HT -> GeY + Liq | Ge1.5Y-HT: Y 0.4; GeY: Y 0.5; L: Y 0.314 | model | [1] Idbenali 2013 | Table 3, p. 4, row 14 |  |
-| 1733 | HCP -> BCC + Liq | L: Y 0.97 | experimental | [1] Idbenali 2013; _cites Schmidt 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990008-2) | Table 3, p. 4, row 25 |  |
-| 1732 | Ge1.5Y-HT -> GeY + Liq | Ge1.5Y-HT: Y 0.4; GeY: Y 0.5; L: Y 0.384 | experimental | [1] Idbenali 2013; _cites Schmidt 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990008-2) | Table 3, p. 4, row 13 |  |
-| 1707 | Ge1.5Y-HT + Liq -> Ge1.5Y-LT | Ge1.5Y-HT: Y 0.4; L: Y 0.491; Ge1.5Y-LT: Y 0.4 | model | [1] Idbenali 2013 | Table 3, p. 4, row 28 |  |
-| 1707 | Ge1.5Y-HT + GeY -> Ge1.5Y-LT | Ge1.5Y-HT: Y 0.303; GeY: Y 0.5; Ge1.5Y-LT: Y 0.4 | model | [1] Idbenali 2013 | Table 3, p. 4, row 30 |  |
-| 1703 | Ge1.5Y-HT + Liq -> Ge1.5Y-LT | Ge1.5Y-HT: Y 0.4; L: Y 0.366; Ge1.5Y-LT: Y 0.4 | experimental | [1] Idbenali 2013; _cites Schmidt 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990008-2) | Table 3, p. 4, row 27 |  |
-| 1703 | Ge1.5Y-HT + GeY -> Ge1.5Y-LT | Ge1.5Y-HT: Y 0.384; GeY: Y 0.5; Ge1.5Y-LT: Y 0.4 | experimental | [1] Idbenali 2013; _cites Schmidt 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990008-2) | Table 3, p. 4, row 29 |  |
-| 1553 | Liq -> HCP + Ge3Y5 | L: Y 0.88; Ge3Y5: Y 0.625 | experimental | [1] Idbenali 2013; _cites Schmidt 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990008-2) | Table 3, p. 4, row 23 |  |
-| 1553 | eutectic |  | experimental | [1] Idbenali 2013 | p. 1 | “The maximum solubility of Ge in (Y) is below 1.0 at% at the eutectic temperature (1553 K) and \*0.3 at% at 1073 K.” |
-| 1550 | Liq -> HCP + Ge3Y5 | L: Y 0.905; Ge3Y5: Y 0.625 | model | [1] Idbenali 2013 | Table 3, p. 4, row 24 |  |
-| 1181 | Ge5Y3 -> Liq + Ge1.5Y-LT | Ge5Y3: Y 0.375; L: Y 0.164; Ge1.5Y-LT: Y 0.4 | experimental | [1] Idbenali 2013; _cites Schmidt 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990008-2) | Table 3, p. 4, row 11 |  |
-| 1177 | Ge5Y3 -> Liq + Ge1.5Y-LT | Ge5Y3: Y 0.375; L: Y 0.161; Ge1.5Y-LT: Y 0.4 | model | [1] Idbenali 2013 | Table 3, p. 4, row 12 |  |
-| 1163 | Ge2Y -> Liq + Ge5Y3 | Ge2Y: Y 0.333333; L: Y 0.152; Ge5Y3: Y 0.375 | experimental | [1] Idbenali 2013; _cites Schmidt 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990008-2) | Table 3, p. 4, row 9 |  |
-| 1150 | Ge2Y -> Liq + Ge5Y3 | Ge2Y: Y 0.333333; L: Y 0.155; Ge5Y3: Y 0.375 | model | [1] Idbenali 2013 | Table 3, p. 4, row 10 |  |
-| 1133 | Ge7Y2 -> Ge2Y + Liq | Ge7Y2: Y 0.222222; Ge2Y: Y 0.333333; L: Y 0.142 | experimental | [1] Idbenali 2013; _cites Schmidt 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990008-2) | Table 3, p. 4, row 7 |  |
-| 1132 | Ge7Y2 -> Ge2Y + Liq | Ge7Y2: Y 0.222222; Ge2Y: Y 0.333333; L: Y 0.15 | model | [1] Idbenali 2013 | Table 3, p. 4, row 8 |  |
-| 1113 | (Ge) + Ge7Y2 -> Liq | (Ge): Y 0; Ge7Y2: Y 0.222222; L: Y 0.137 | model | [1] Idbenali 2013 | Table 3, p. 4, row 2 |  |
-| 1093 | eutectic |  | experimental | [1] Idbenali 2013 | p. 1 | “The maximum solubility of Y in (Ge) is \\0.5 at% at the eutectic temperature (1093 K) and almost zero at 873 K.” |
-| 1093 | (Ge) + Ge7Y2 -> Liq | (Ge): Y 0; Ge7Y2: Y 0.222222; L: Y 0.119 | experimental | [1] Idbenali 2013; _cites Schmidt 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990008-2) | Table 3, p. 4, row 1 |  |
-| 1033 | Ge7Y2 -> Ge2Y + (Ge) | Ge7Y2: Y 0.222222; Ge2Y: Y 0.333333; (Ge): Y 0 | experimental | [1] Idbenali 2013; _cites Schmidt 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990008-2) | Table 3, p. 4, row 5 |  |
-| 1031 | Ge7Y2 -> Ge2Y + (Ge) | Ge7Y2: Y 0.222222; Ge2Y: Y 0.333333; (Ge): Y 0 | model | [1] Idbenali 2013 | Table 3, p. 4, row 6 |  |
-| 985 | (Ge) + Ge5Y3 -> Ge2Y | (Ge): Y 0; Ge5Y3: Y 0.375; Ge2Y: Y 0.333333 | experimental | [1] Idbenali 2013; _cites Schmidt 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990008-2) | Table 3, p. 4, row 3 |  |
-| 982 | (Ge) + Ge5Y3 -> Ge2Y | (Ge): Y 0; Ge5Y3: Y 0.375; Ge2Y: Y 0.333333 | model | [1] Idbenali 2013 | Table 3, p. 4, row 4 |  |
+| 2218 | Ge4Y5 -> Liq + Ge3Y5 | Ge4Y5: Y 0.555556; L: Y 0.552; Ge3Y5: Y 0.625 | experimental | [1] Idbenali 2013; _cites Schmidt 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990008-2) | Table 3, p. 4, row 19; `ORC-7A3HZXXEBP` |  |
+| 2214 | Ge4Y5 -> Liq + Ge3Y5 | Ge4Y5: Y 0.555556; L: Y 0.572; Ge3Y5: Y 0.625 | model | [1] Idbenali 2013 | Table 3, p. 4, row 20; `ORC-NNQG4QO7EA` |  |
+| 2173 | Ge10Y11 -> Liq + Ge4Y5 | Ge10Y11: Y 0.52381; L: Y 0.498; Ge4Y5: Y 0.555556 | experimental | [1] Idbenali 2013; _cites Schmidt 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990008-2) | Table 3, p. 4, row 17; `ORC-UMF4PSAIZD` |  |
+| 2157 | Ge10Y11 -> Liq + Ge4Y5 | Ge10Y11: Y 0.52381; L: Y 0.477; Ge4Y5: Y 0.555556 | model | [1] Idbenali 2013 | Table 3, p. 4, row 18; `ORC-7SHH3PSWFL` |  |
+| 2003 | GeY -> Liq + Ge10Y11 | GeY: Y 0.5; L: Y 0.396; Ge10Y11: Y 0.52381 | model | [1] Idbenali 2013 | Table 3, p. 4, row 16; `ORC-5ZKSD3NCGF` |  |
+| 2003 | GeY -> Liq + Ge10Y11 | GeY: Y 0.5; L: Y 0.44; Ge10Y11: Y 0.52381 | experimental | [1] Idbenali 2013; _cites Schmidt 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990008-2) | Table 3, p. 4, row 15; `ORC-XTDVNMGJHL` |  |
+| 1736 | HCP -> BCC + Liq | L: Y 0.973 | model | [1] Idbenali 2013 | Table 3, p. 4, row 26; `ORC-WMCYDU4NPO` |  |
+| 1733 | Ge1.5Y-HT -> GeY + Liq | Ge1.5Y-HT: Y 0.4; GeY: Y 0.5; L: Y 0.314 | model | [1] Idbenali 2013 | Table 3, p. 4, row 14; `ORC-3PPBHHZ3N6` |  |
+| 1733 | HCP -> BCC + Liq | L: Y 0.97 | experimental | [1] Idbenali 2013; _cites Schmidt 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990008-2) | Table 3, p. 4, row 25; `ORC-XYHIQJUE2R` |  |
+| 1732 | Ge1.5Y-HT -> GeY + Liq | Ge1.5Y-HT: Y 0.4; GeY: Y 0.5; L: Y 0.384 | experimental | [1] Idbenali 2013; _cites Schmidt 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990008-2) | Table 3, p. 4, row 13; `ORC-TYZD4RLALQ` |  |
+| 1707 | Ge1.5Y-HT + Liq -> Ge1.5Y-LT | Ge1.5Y-HT: Y 0.4; L: Y 0.491; Ge1.5Y-LT: Y 0.4 | model | [1] Idbenali 2013 | Table 3, p. 4, row 28; `ORC-FSSPIHBCFH` |  |
+| 1707 | Ge1.5Y-HT + GeY -> Ge1.5Y-LT | Ge1.5Y-HT: Y 0.303; GeY: Y 0.5; Ge1.5Y-LT: Y 0.4 | model | [1] Idbenali 2013 | Table 3, p. 4, row 30; `ORC-WAFP7PTHPL` |  |
+| 1703 | Ge1.5Y-HT + Liq -> Ge1.5Y-LT | Ge1.5Y-HT: Y 0.4; L: Y 0.366; Ge1.5Y-LT: Y 0.4 | experimental | [1] Idbenali 2013; _cites Schmidt 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990008-2) | Table 3, p. 4, row 27; `ORC-223JF5SMDC` |  |
+| 1703 | Ge1.5Y-HT + GeY -> Ge1.5Y-LT | Ge1.5Y-HT: Y 0.384; GeY: Y 0.5; Ge1.5Y-LT: Y 0.4 | experimental | [1] Idbenali 2013; _cites Schmidt 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990008-2) | Table 3, p. 4, row 29; `ORC-JZGVORVATA` |  |
+| 1553 | Liq -> HCP + Ge3Y5 | L: Y 0.88; Ge3Y5: Y 0.625 | experimental | [1] Idbenali 2013; _cites Schmidt 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990008-2) | Table 3, p. 4, row 23; `ORC-KOIDVHK3EJ` |  |
+| 1553 | eutectic |  | experimental | [1] Idbenali 2013 | p. 1; `ORC-YHL3IRC5KO` | “The maximum solubility of Ge in (Y) is below 1.0 at% at the eutectic temperature (1553 K) and \*0.3 at% at 1073 K.” |
+| 1550 | Liq -> HCP + Ge3Y5 | L: Y 0.905; Ge3Y5: Y 0.625 | model | [1] Idbenali 2013 | Table 3, p. 4, row 24; `ORC-DJZWAR26PV` |  |
+| 1181 | Ge5Y3 -> Liq + Ge1.5Y-LT | Ge5Y3: Y 0.375; L: Y 0.164; Ge1.5Y-LT: Y 0.4 | experimental | [1] Idbenali 2013; _cites Schmidt 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990008-2) | Table 3, p. 4, row 11; `ORC-ANW2VSXSZF` |  |
+| 1177 | Ge5Y3 -> Liq + Ge1.5Y-LT | Ge5Y3: Y 0.375; L: Y 0.161; Ge1.5Y-LT: Y 0.4 | model | [1] Idbenali 2013 | Table 3, p. 4, row 12; `ORC-4GB6AEOCRR` |  |
+| 1163 | Ge2Y -> Liq + Ge5Y3 | Ge2Y: Y 0.333333; L: Y 0.152; Ge5Y3: Y 0.375 | experimental | [1] Idbenali 2013; _cites Schmidt 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990008-2) | Table 3, p. 4, row 9; `ORC-JUVDUPRXXM` |  |
+| 1150 | Ge2Y -> Liq + Ge5Y3 | Ge2Y: Y 0.333333; L: Y 0.155; Ge5Y3: Y 0.375 | model | [1] Idbenali 2013 | Table 3, p. 4, row 10; `ORC-5EMKOVTXWZ` |  |
+| 1133 | Ge7Y2 -> Ge2Y + Liq | Ge7Y2: Y 0.222222; Ge2Y: Y 0.333333; L: Y 0.142 | experimental | [1] Idbenali 2013; _cites Schmidt 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990008-2) | Table 3, p. 4, row 7; `ORC-LH4J25DVW3` |  |
+| 1132 | Ge7Y2 -> Ge2Y + Liq | Ge7Y2: Y 0.222222; Ge2Y: Y 0.333333; L: Y 0.15 | model | [1] Idbenali 2013 | Table 3, p. 4, row 8; `ORC-PRD7BQDVUP` |  |
+| 1113 | (Ge) + Ge7Y2 -> Liq | (Ge): Y 0; Ge7Y2: Y 0.222222; L: Y 0.137 | model | [1] Idbenali 2013 | Table 3, p. 4, row 2; `ORC-NFCTOUWI5H` |  |
+| 1093 | eutectic |  | experimental | [1] Idbenali 2013 | p. 1; `ORC-VELIZNFUAO` | “The maximum solubility of Y in (Ge) is \\0.5 at% at the eutectic temperature (1093 K) and almost zero at 873 K.” |
+| 1093 | (Ge) + Ge7Y2 -> Liq | (Ge): Y 0; Ge7Y2: Y 0.222222; L: Y 0.119 | experimental | [1] Idbenali 2013; _cites Schmidt 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990008-2) | Table 3, p. 4, row 1; `ORC-YARWBXQ6SC` |  |
+| 1033 | Ge7Y2 -> Ge2Y + (Ge) | Ge7Y2: Y 0.222222; Ge2Y: Y 0.333333; (Ge): Y 0 | experimental | [1] Idbenali 2013; _cites Schmidt 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990008-2) | Table 3, p. 4, row 5; `ORC-RGRXIZAJOF` |  |
+| 1031 | Ge7Y2 -> Ge2Y + (Ge) | Ge7Y2: Y 0.222222; Ge2Y: Y 0.333333; (Ge): Y 0 | model | [1] Idbenali 2013 | Table 3, p. 4, row 6; `ORC-4ADVCGE7LW` |  |
+| 985 | (Ge) + Ge5Y3 -> Ge2Y | (Ge): Y 0; Ge5Y3: Y 0.375; Ge2Y: Y 0.333333 | experimental | [1] Idbenali 2013; _cites Schmidt 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990008-2) | Table 3, p. 4, row 3; `ORC-KBKWXR2YTC` |  |
+| 982 | (Ge) + Ge5Y3 -> Ge2Y | (Ge): Y 0; Ge5Y3: Y 0.375; Ge2Y: Y 0.333333 | model | [1] Idbenali 2013 | Table 3, p. 4, row 4; `ORC-OCBH7TSOPU` |  |
 
 ## Formation enthalpies
 
@@ -111,29 +111,29 @@ Table: Enthalpies of formation, Ge–Y system (23)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Ge1.5Y-HT | [Ge3Y2](https://data.orchid-project.org/compounds/Ge3Y2.html) | -84.1 kJ/mol-atom ± 3.7 | 870 | experimental | -48.013 (mp-aaacreze) |  | [1] Idbenali 2013; _cites Polotskaya 1996_ [doi](https://doi.org/10.1007/bf01328840) | Table 4, p. 5, row 7 |  |
-| Ge1.5Y-HT | [Ge3Y2](https://data.orchid-project.org/compounds/Ge3Y2.html) | -83.025 kJ/mol-atom | 2985 | model | -48.013 (mp-aaacreze) |  | [1] Idbenali 2013 | Table 4, p. 5, row 9 |  |
-| Ge1.5Y-HT | [Ge3Y2](https://data.orchid-project.org/compounds/Ge3Y2.html) | -67.903 kJ/mol-atom | 870 | model | -48.013 (mp-aaacreze) |  | [1] Idbenali 2013 | Table 4, p. 5, row 8 |  |
-| Ge1.5Y-LT | [Ge3Y2](https://data.orchid-project.org/compounds/Ge3Y2.html) | -84.785 kJ/mol-atom | 298.15 | model | -48.013 (mp-aaacreze) |  | [1] Idbenali 2013 | Table 4, p. 5, row 6 |  |
-| Ge1.5Y-LT | [Ge3Y2](https://data.orchid-project.org/compounds/Ge3Y2.html) | -77.8 kJ/mol-atom ± 3.4 | 870 | experimental | -48.013 (mp-aaacreze) |  | [1] Idbenali 2013; _cites Polotskaya 1996_ [doi](https://doi.org/10.1007/bf01328840) | Table 4, p. 5, row 4 |  |
-| Ge1.5Y-LT | [Ge3Y2](https://data.orchid-project.org/compounds/Ge3Y2.html) | -69.664 kJ/mol-atom | 870 | model | -48.013 (mp-aaacreze) |  | [1] Idbenali 2013 | Table 4, p. 5, row 5 |  |
-| Ge10Y11 | [Ge10Y11](https://data.orchid-project.org/compounds/Ge10Y11.html) | -104.82 kJ/mol-atom | 298.15 | model | -84.382 (mp-aaacqssw) |  | [1] Idbenali 2013 | Table 4, p. 5, row 16 |  |
-| Ge10Y11 | [Ge10Y11](https://data.orchid-project.org/compounds/Ge10Y11.html) | -100.5 kJ/mol-atom ± 5.2 | 870 | experimental | -84.382 (mp-aaacqssw) |  | [1] Idbenali 2013; _cites Polotskaya 1996_ [doi](https://doi.org/10.1007/bf01328840) | Table 4, p. 5, row 14 |  |
-| Ge10Y11 | [Ge10Y11](https://data.orchid-project.org/compounds/Ge10Y11.html) | -89.461 kJ/mol-atom | 870 | model | -84.382 (mp-aaacqssw) |  | [1] Idbenali 2013 | Table 4, p. 5, row 15 |  |
-| Ge2Y | [Ge2Y](https://data.orchid-project.org/compounds/Ge2Y.html) | -69.577 kJ/mol-atom | 298.15 | model | -51.377 (mp-aaaaapcv) | -59.996 (oqmd-1795069) | [1] Idbenali 2013 | Table 4, p. 5, row 2 |  |
-| Ge3Y5 | [Ge3Y5](https://data.orchid-project.org/compounds/Ge3Y5.html) | -109.7 kJ/mol-atom ± 5.7 | 298.15 | experimental | -80.391 (mp-aaaabagt) | -80.471 (oqmd-10313) | [1] Idbenali 2013; _cites Jung 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990237-x) | Table 4, p. 5, row 20 |  |
-| Ge3Y5 | [Ge3Y5](https://data.orchid-project.org/compounds/Ge3Y5.html) | -107.41 kJ/mol-atom | 298.15 | model | -80.391 (mp-aaaabagt) | -80.471 (oqmd-10313) | [1] Idbenali 2013 | Table 4, p. 5, row 23 |  |
-| Ge3Y5 | [Ge3Y5](https://data.orchid-project.org/compounds/Ge3Y5.html) | -91.861 kJ/mol-atom | 870 | model | -80.391 (mp-aaaabagt) | -80.471 (oqmd-10313) | [1] Idbenali 2013 | Table 4, p. 5, row 22 |  |
-| Ge3Y5 | [Ge3Y5](https://data.orchid-project.org/compounds/Ge3Y5.html) | -89.8 kJ/mol-atom ± 5 | 298.15 | experimental | -80.391 (mp-aaaabagt) | -80.471 (oqmd-10313) | [1] Idbenali 2013; _cites Safonov 1985_ | Table 4, p. 5, row 21 |  |
-| Ge4Y5 | [Ge4Y5](https://data.orchid-project.org/compounds/Ge4Y5.html) | -109.55 kJ/mol-atom | 298.15 | model | -84.954 (mp-aaaaattw) | -85.431 (oqmd-124138) | [1] Idbenali 2013 | Table 4, p. 5, row 19 |  |
-| Ge4Y5 | [Ge4Y5](https://data.orchid-project.org/compounds/Ge4Y5.html) | -102.5 kJ/mol-atom ± 5.5 | 870 | experimental | -84.954 (mp-aaaaattw) | -85.431 (oqmd-124138) | [1] Idbenali 2013; _cites Polotskaya 1996_ [doi](https://doi.org/10.1007/bf01328840) | Table 4, p. 5, row 17 |  |
-| Ge4Y5 | [Ge4Y5](https://data.orchid-project.org/compounds/Ge4Y5.html) | -94.131 kJ/mol-atom | 870 | model | -84.954 (mp-aaaaattw) | -85.431 (oqmd-124138) | [1] Idbenali 2013 | Table 4, p. 5, row 18 |  |
-| Ge5Y3 | [Ge5Y3](https://data.orchid-project.org/compounds/Ge5Y3.html) | -79.834 kJ/mol-atom | 298.15 | model | -69.583 (mp-aaaaazik) | -69.416 (oqmd-1795285) | [1] Idbenali 2013 | Table 4, p. 5, row 3 |  |
-| Ge7Y2 |  | -42.349 kJ/mol-atom | 298.15 | model |  |  | [1] Idbenali 2013 | Table 4, p. 5, row 1 |  |
-| GeY | [GeY](https://data.orchid-project.org/compounds/GeY.html) | -108.8 kJ/mol-atom |  | model | -86.308 (mp-aaaaaotn) | -86.397 (oqmd-7938) | [1] Idbenali 2013; _cites Miedema 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990180-6) | Table 4, p. 5, row 24 |  |
-| GeY | [GeY](https://data.orchid-project.org/compounds/GeY.html) | -101.53 kJ/mol-atom | 298.15 | model | -86.308 (mp-aaaaaotn) | -86.397 (oqmd-7938) | [1] Idbenali 2013 | Table 4, p. 5, row 13 |  |
-| GeY | [GeY](https://data.orchid-project.org/compounds/GeY.html) | -98 kJ/mol-atom ± 4.9 | 870 | experimental | -86.308 (mp-aaaaaotn) | -86.397 (oqmd-7938) | [1] Idbenali 2013; _cites Polotskaya 1996_ [doi](https://doi.org/10.1007/bf01328840) | Table 4, p. 5, row 10 |  |
-| GeY | [GeY](https://data.orchid-project.org/compounds/GeY.html) | -86.218 kJ/mol-atom | 870 | model | -86.308 (mp-aaaaaotn) | -86.397 (oqmd-7938) | [1] Idbenali 2013 | Table 4, p. 5, row 12 |  |
+| Ge1.5Y-HT | [Ge3Y2](https://data.orchid-project.org/compounds/Ge3Y2.html) | -84.1 kJ/mol-atom ± 3.7 | 870 | experimental | -48.013 (mp-aaacreze) |  | [1] Idbenali 2013; _cites Polotskaya 1996_ [doi](https://doi.org/10.1007/bf01328840) | Table 4, p. 5, row 7; `ORC-RI6VYY37IO` |  |
+| Ge1.5Y-HT | [Ge3Y2](https://data.orchid-project.org/compounds/Ge3Y2.html) | -83.025 kJ/mol-atom | 2985 | model | -48.013 (mp-aaacreze) |  | [1] Idbenali 2013 | Table 4, p. 5, row 9; `ORC-RST5NCXGI2` |  |
+| Ge1.5Y-HT | [Ge3Y2](https://data.orchid-project.org/compounds/Ge3Y2.html) | -67.903 kJ/mol-atom | 870 | model | -48.013 (mp-aaacreze) |  | [1] Idbenali 2013 | Table 4, p. 5, row 8; `ORC-ZDYRZRBR74` |  |
+| Ge1.5Y-LT | [Ge3Y2](https://data.orchid-project.org/compounds/Ge3Y2.html) | -84.785 kJ/mol-atom | 298.15 | model | -48.013 (mp-aaacreze) |  | [1] Idbenali 2013 | Table 4, p. 5, row 6; `ORC-6UUQPNTJHT` |  |
+| Ge1.5Y-LT | [Ge3Y2](https://data.orchid-project.org/compounds/Ge3Y2.html) | -77.8 kJ/mol-atom ± 3.4 | 870 | experimental | -48.013 (mp-aaacreze) |  | [1] Idbenali 2013; _cites Polotskaya 1996_ [doi](https://doi.org/10.1007/bf01328840) | Table 4, p. 5, row 4; `ORC-H3B5YMIPGG` |  |
+| Ge1.5Y-LT | [Ge3Y2](https://data.orchid-project.org/compounds/Ge3Y2.html) | -69.664 kJ/mol-atom | 870 | model | -48.013 (mp-aaacreze) |  | [1] Idbenali 2013 | Table 4, p. 5, row 5; `ORC-JYO2UHLPL5` |  |
+| Ge10Y11 | [Ge10Y11](https://data.orchid-project.org/compounds/Ge10Y11.html) | -104.82 kJ/mol-atom | 298.15 | model | -84.382 (mp-aaacqssw) |  | [1] Idbenali 2013 | Table 4, p. 5, row 16; `ORC-EHMM7EL32N` |  |
+| Ge10Y11 | [Ge10Y11](https://data.orchid-project.org/compounds/Ge10Y11.html) | -100.5 kJ/mol-atom ± 5.2 | 870 | experimental | -84.382 (mp-aaacqssw) |  | [1] Idbenali 2013; _cites Polotskaya 1996_ [doi](https://doi.org/10.1007/bf01328840) | Table 4, p. 5, row 14; `ORC-MTOZX36FPH` |  |
+| Ge10Y11 | [Ge10Y11](https://data.orchid-project.org/compounds/Ge10Y11.html) | -89.461 kJ/mol-atom | 870 | model | -84.382 (mp-aaacqssw) |  | [1] Idbenali 2013 | Table 4, p. 5, row 15; `ORC-7EU2G5GVD7` |  |
+| Ge2Y | [Ge2Y](https://data.orchid-project.org/compounds/Ge2Y.html) | -69.577 kJ/mol-atom | 298.15 | model | -51.377 (mp-aaaaapcv) | -59.996 (oqmd-1795069) | [1] Idbenali 2013 | Table 4, p. 5, row 2; `ORC-LM3SEYWDWH` |  |
+| Ge3Y5 | [Ge3Y5](https://data.orchid-project.org/compounds/Ge3Y5.html) | -109.7 kJ/mol-atom ± 5.7 | 298.15 | experimental | -80.391 (mp-aaaabagt) | -80.471 (oqmd-10313) | [1] Idbenali 2013; _cites Jung 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990237-x) | Table 4, p. 5, row 20; `ORC-UUJZLVGK7T` |  |
+| Ge3Y5 | [Ge3Y5](https://data.orchid-project.org/compounds/Ge3Y5.html) | -107.41 kJ/mol-atom | 298.15 | model | -80.391 (mp-aaaabagt) | -80.471 (oqmd-10313) | [1] Idbenali 2013 | Table 4, p. 5, row 23; `ORC-4XWIOXD3WU` |  |
+| Ge3Y5 | [Ge3Y5](https://data.orchid-project.org/compounds/Ge3Y5.html) | -91.861 kJ/mol-atom | 870 | model | -80.391 (mp-aaaabagt) | -80.471 (oqmd-10313) | [1] Idbenali 2013 | Table 4, p. 5, row 22; `ORC-XKKEQRSSPL` |  |
+| Ge3Y5 | [Ge3Y5](https://data.orchid-project.org/compounds/Ge3Y5.html) | -89.8 kJ/mol-atom ± 5 | 298.15 | experimental | -80.391 (mp-aaaabagt) | -80.471 (oqmd-10313) | [1] Idbenali 2013; _cites Safonov 1985_ | Table 4, p. 5, row 21; `ORC-TDHGQYIQM4` |  |
+| Ge4Y5 | [Ge4Y5](https://data.orchid-project.org/compounds/Ge4Y5.html) | -109.55 kJ/mol-atom | 298.15 | model | -84.954 (mp-aaaaattw) | -85.431 (oqmd-124138) | [1] Idbenali 2013 | Table 4, p. 5, row 19; `ORC-NMVAH6A2GI` |  |
+| Ge4Y5 | [Ge4Y5](https://data.orchid-project.org/compounds/Ge4Y5.html) | -102.5 kJ/mol-atom ± 5.5 | 870 | experimental | -84.954 (mp-aaaaattw) | -85.431 (oqmd-124138) | [1] Idbenali 2013; _cites Polotskaya 1996_ [doi](https://doi.org/10.1007/bf01328840) | Table 4, p. 5, row 17; `ORC-4MD2AAB5KO` |  |
+| Ge4Y5 | [Ge4Y5](https://data.orchid-project.org/compounds/Ge4Y5.html) | -94.131 kJ/mol-atom | 870 | model | -84.954 (mp-aaaaattw) | -85.431 (oqmd-124138) | [1] Idbenali 2013 | Table 4, p. 5, row 18; `ORC-C2ZVNJP6SL` |  |
+| Ge5Y3 | [Ge5Y3](https://data.orchid-project.org/compounds/Ge5Y3.html) | -79.834 kJ/mol-atom | 298.15 | model | -69.583 (mp-aaaaazik) | -69.416 (oqmd-1795285) | [1] Idbenali 2013 | Table 4, p. 5, row 3; `ORC-6KXKK3WIMC` |  |
+| Ge7Y2 |  | -42.349 kJ/mol-atom | 298.15 | model |  |  | [1] Idbenali 2013 | Table 4, p. 5, row 1; `ORC-NYPXCWFX6I` |  |
+| GeY | [GeY](https://data.orchid-project.org/compounds/GeY.html) | -108.8 kJ/mol-atom |  | model | -86.308 (mp-aaaaaotn) | -86.397 (oqmd-7938) | [1] Idbenali 2013; _cites Miedema 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990180-6) | Table 4, p. 5, row 24; `ORC-3QPZJHNZRO` |  |
+| GeY | [GeY](https://data.orchid-project.org/compounds/GeY.html) | -101.53 kJ/mol-atom | 298.15 | model | -86.308 (mp-aaaaaotn) | -86.397 (oqmd-7938) | [1] Idbenali 2013 | Table 4, p. 5, row 13; `ORC-BY7MFNZSRG` |  |
+| GeY | [GeY](https://data.orchid-project.org/compounds/GeY.html) | -98 kJ/mol-atom ± 4.9 | 870 | experimental | -86.308 (mp-aaaaaotn) | -86.397 (oqmd-7938) | [1] Idbenali 2013; _cites Polotskaya 1996_ [doi](https://doi.org/10.1007/bf01328840) | Table 4, p. 5, row 10; `ORC-DQG43PSM63` |  |
+| GeY | [GeY](https://data.orchid-project.org/compounds/GeY.html) | -86.218 kJ/mol-atom | 870 | model | -86.308 (mp-aaaaaotn) | -86.397 (oqmd-7938) | [1] Idbenali 2013 | Table 4, p. 5, row 12; `ORC-UOWIL6JQNK` |  |
 
 ## Other properties
 
@@ -143,15 +143,15 @@ Table: Phase transition, Ge–Y system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1093 K | 1093 | (Ge) ? Ge7Y2 , Liq | experimental | [1] Idbenali 2013; _cites Schmidt 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990008-2) | p. 4 | “The temperature of invariant reactions fits well the experiments \[1\] except both the temperature of the invariant reaction: (Ge) ? Ge7Y2 , Liq (calculated 1113 K, measured 1093 K) and Ge10Y11 , Liq ? Ge4Y5 (calculated 2157 K, measured 2173 K).” |
-| Phase transition | 1113 K | 1113 | (Ge) ? Ge7Y2 , Liq | model | [1] Idbenali 2013 | p. 4 | “The temperature of invariant reactions fits well the experiments \[1\] except both the temperature of the invariant reaction: (Ge) ? Ge7Y2 , Liq (calculated 1113 K, measured 1093 K) and Ge10Y11 , Liq ? Ge4Y5 (calculated 2157 K, measured 2173 K).” |
-| Phase transition | 1703 K | 1703 | polymorphic | experimental | [1] Idbenali 2013; _cites Schmidt 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990008-2) | p. 1 | “A polymorphic transition (Ge1.5Y_LT , Ge1.5Y_HT) was determined at 1703 K for Ge1.5Y in \[1\].” |
-| Phase transition | 1710 K | 1710 | polymorphic | model | [1] Idbenali 2013 | p. 4 | “It is necessary to use all the digits of the optimized parameters listed in Table 3 for the calculation of the polymorphic transition temperature between the polytypes at T = 1710 K.” |
-| Phase transition | 2157 K | 2157 | Ge10Y11 , Liq ? Ge4Y5 | model | [1] Idbenali 2013 | p. 4 | “The temperature of invariant reactions fits well the experiments \[1\] except both the temperature of the invariant reaction: (Ge) ? Ge7Y2 , Liq (calculated 1113 K, measured 1093 K) and Ge10Y11 , Liq ? Ge4Y5 (calculated 2157 K, measured 2173 K).” |
-| Phase transition | 2173 K | 2173 | Ge10Y11 , Liq ? Ge4Y5 | experimental | [1] Idbenali 2013; _cites Schmidt 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990008-2) | p. 4 | “The temperature of invariant reactions fits well the experiments \[1\] except both the temperature of the invariant reaction: (Ge) ? Ge7Y2 , Liq (calculated 1113 K, measured 1093 K) and Ge10Y11 , Liq ? Ge4Y5 (calculated 2157 K, measured 2173 K).” |
-| Phase transition | 2238 K | 2238 | Ge3Y5 -> Liq; _Ge3Y5: Y 0.625; L: Y 0.625_ | experimental | [1] Idbenali 2013; _cites Schmidt 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990008-2) | Table 3, p. 4, row 21 |  |
-| Phase transition | 2238 K | 2238 | congruent melting | experimental | [1] Idbenali 2013 | p. 1 | “For the Ge3Y5 compound, a congruent melting was determined at 2238 K; for the Ge4Y5, Ge10Y11, GeY, Ge1.5Y-LT, Ge1.5Y-HT, Ge5Y3, Ge2Y and Ge7Y2 compounds, a peritectic formation was reported, respectively, at 2218, 2173, 2003, 1733, 1183, 1153, and 1133 K see Fig. 1.” |
-| Phase transition | 2241 K | 2241 | Ge3Y5 -> Liq; _Ge3Y5: Y 0.625; L: Y 0.625_ | model | [1] Idbenali 2013 | Table 3, p. 4, row 22 |  |
+| Phase transition | 1093 K | 1093 | (Ge) ? Ge7Y2 , Liq | experimental | [1] Idbenali 2013; _cites Schmidt 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990008-2) | p. 4; `ORC-WNPOC655LB.f68cf8` | “The temperature of invariant reactions fits well the experiments \[1\] except both the temperature of the invariant reaction: (Ge) ? Ge7Y2 , Liq (calculated 1113 K, measured 1093 K) and Ge10Y11 , Liq ? Ge4Y5 (calculated 2157 K, measured 2173 K).” |
+| Phase transition | 1113 K | 1113 | (Ge) ? Ge7Y2 , Liq | model | [1] Idbenali 2013 | p. 4; `ORC-WNPOC655LB.718062` | “The temperature of invariant reactions fits well the experiments \[1\] except both the temperature of the invariant reaction: (Ge) ? Ge7Y2 , Liq (calculated 1113 K, measured 1093 K) and Ge10Y11 , Liq ? Ge4Y5 (calculated 2157 K, measured 2173 K).” |
+| Phase transition | 1703 K | 1703 | polymorphic | experimental | [1] Idbenali 2013; _cites Schmidt 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990008-2) | p. 1; `ORC-4L3NPVJBXE` | “A polymorphic transition (Ge1.5Y_LT , Ge1.5Y_HT) was determined at 1703 K for Ge1.5Y in \[1\].” |
+| Phase transition | 1710 K | 1710 | polymorphic | model | [1] Idbenali 2013 | p. 4; `ORC-HAIIVAVCC7` | “It is necessary to use all the digits of the optimized parameters listed in Table 3 for the calculation of the polymorphic transition temperature between the polytypes at T = 1710 K.” |
+| Phase transition | 2157 K | 2157 | Ge10Y11 , Liq ? Ge4Y5 | model | [1] Idbenali 2013 | p. 4; `ORC-WNPOC655LB.a0adbb` | “The temperature of invariant reactions fits well the experiments \[1\] except both the temperature of the invariant reaction: (Ge) ? Ge7Y2 , Liq (calculated 1113 K, measured 1093 K) and Ge10Y11 , Liq ? Ge4Y5 (calculated 2157 K, measured 2173 K).” |
+| Phase transition | 2173 K | 2173 | Ge10Y11 , Liq ? Ge4Y5 | experimental | [1] Idbenali 2013; _cites Schmidt 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990008-2) | p. 4; `ORC-WNPOC655LB.4c3a69` | “The temperature of invariant reactions fits well the experiments \[1\] except both the temperature of the invariant reaction: (Ge) ? Ge7Y2 , Liq (calculated 1113 K, measured 1093 K) and Ge10Y11 , Liq ? Ge4Y5 (calculated 2157 K, measured 2173 K).” |
+| Phase transition | 2238 K | 2238 | Ge3Y5 -> Liq; _Ge3Y5: Y 0.625; L: Y 0.625_ | experimental | [1] Idbenali 2013; _cites Schmidt 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990008-2) | Table 3, p. 4, row 21; `ORC-MQ5F46FIIT` |  |
+| Phase transition | 2238 K | 2238 | congruent melting | experimental | [1] Idbenali 2013 | p. 1; `ORC-EPGGORAZO3` | “For the Ge3Y5 compound, a congruent melting was determined at 2238 K; for the Ge4Y5, Ge10Y11, GeY, Ge1.5Y-LT, Ge1.5Y-HT, Ge5Y3, Ge2Y and Ge7Y2 compounds, a peritectic formation was reported, respectively, at 2218, 2173, 2003, 1733, 1183, 1153, and 1133 K see Fig. 1.” |
+| Phase transition | 2241 K | 2241 | Ge3Y5 -> Liq; _Ge3Y5: Y 0.625; L: Y 0.625_ | model | [1] Idbenali 2013 | Table 3, p. 4, row 22; `ORC-ILFIJBPG6Q` |  |
 
 ## Sources
 
@@ -216,4 +216,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

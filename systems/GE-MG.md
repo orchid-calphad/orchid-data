@@ -61,10 +61,10 @@ Table: Enthalpies of formation, Ge–Mg system (4)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | -115.37 unspecified ± 0.25 | 298.15 | experimental |  |  | [1] Islam 2006; _cites Beardmore 1966_ | p. 5 | “They found that the heat of formation of Mg2 Ge at 298 K from the solid elements is -104.23 ± 1.26 kJ, whereas Beardmore et al. \[30\] reported the same as -115.37 ± 0.25 kJ, showing a disagreement between the two values.” |
-| — |  | -104.23 unspecified ± 1.26 | 298.15 | experimental |  |  | [1] Islam 2006 | p. 5 | “They found that the heat of formation of Mg2 Ge at 298 K from the solid elements is -104.23 ± 1.26 kJ, whereas Beardmore et al. \[30\] reported the same as -115.37 ± 0.25 kJ, showing a disagreement between the two values.” |
-| Mg2Ge | [GeMg2](https://data.orchid-project.org/compounds/GeMg2.html) | -39.3728 kJ/mol-atom | 298.15 | model | -25.946 (mp-aaaaaaps) | -26.833 (oqmd-646873) | [1] Islam 2006 | Table 3, p. 5, row 6 |  |
-| Mg2Ge | [GeMg2](https://data.orchid-project.org/compounds/GeMg2.html) | -38.409 kJ/mol-atom ± 0.0837 | 273 | experimental | -25.946 (mp-aaaaaaps) | -26.833 (oqmd-646873) | [1] Islam 2006; _cites Bever 1964_ | Table 3, p. 5, row 4 |  |
+| — |  | -115.37 unspecified ± 0.25 | 298.15 | experimental |  |  | [1] Islam 2006; _cites Beardmore 1966_ | p. 5; `ORC-OW7BGO2K5U.a495c1` | “They found that the heat of formation of Mg2 Ge at 298 K from the solid elements is -104.23 ± 1.26 kJ, whereas Beardmore et al. \[30\] reported the same as -115.37 ± 0.25 kJ, showing a disagreement between the two values.” |
+| — |  | -104.23 unspecified ± 1.26 | 298.15 | experimental |  |  | [1] Islam 2006 | p. 5; `ORC-OW7BGO2K5U.d7667b` | “They found that the heat of formation of Mg2 Ge at 298 K from the solid elements is -104.23 ± 1.26 kJ, whereas Beardmore et al. \[30\] reported the same as -115.37 ± 0.25 kJ, showing a disagreement between the two values.” |
+| Mg2Ge | [GeMg2](https://data.orchid-project.org/compounds/GeMg2.html) | -39.3728 kJ/mol-atom | 298.15 | model | -25.946 (mp-aaaaaaps) | -26.833 (oqmd-646873) | [1] Islam 2006 | Table 3, p. 5, row 6; `ORC-CHNOD5UYR2` |  |
+| Mg2Ge | [GeMg2](https://data.orchid-project.org/compounds/GeMg2.html) | -38.409 kJ/mol-atom ± 0.0837 | 273 | experimental | -25.946 (mp-aaaaaaps) | -26.833 (oqmd-646873) | [1] Islam 2006; _cites Bever 1964_ | Table 3, p. 5, row 4; `ORC-DY5S7B6XOQ` |  |
 
 ## Sources
 
@@ -129,4 +129,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

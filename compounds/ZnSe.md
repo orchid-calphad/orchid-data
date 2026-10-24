@@ -14,11 +14,11 @@ Table: Enthalpy of formation of ZnSe reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -196.6 kJ/mol (basis unstated) | ZnSe | 298.15 | experimental |  | [Se–Zn](https://data.orchid-project.org/systems/SE-ZN.html) | [1] Chen 2014; _cites Wosten 1962_ [doi](https://doi.org/10.1021/j100813a010) | Table 7, p. 6, row 2 |  |
-| -177.6 kJ/mol (basis unstated) | ZnSe | 298.15 | experimental |  | [Se–Zn](https://data.orchid-project.org/systems/SE-ZN.html) | [1] Chen 2014; _cites Nasar 1990_ | Table 7, p. 6, row 5 |  |
-| -164.4 kJ/mol (basis unstated) | ZnSe | 298.15 | experimental |  | [Se–Zn](https://data.orchid-project.org/systems/SE-ZN.html) | [1] Chen 2014; _cites Goldfinger 1963_ [doi](https://doi.org/10.1039/tf9635902851) | Table 7, p. 6, row 3 |  |
-| -163.2 kJ/mol (basis unstated) | ZnSe | 298.15 | experimental |  | [Se–Zn](https://data.orchid-project.org/systems/SE-ZN.html) | [1] Chen 2014; _cites Terpilowski 1967_ | Table 7, p. 6, row 4 |  |
-| -175.9 kJ/mol (basis unstated) | ZnSe |  | model |  | [Se–Zn](https://data.orchid-project.org/systems/SE-ZN.html) | [1] Chen 2014 | Table 7, p. 6, row 1 |  |
+| -196.6 kJ/mol (basis unstated) | ZnSe | 298.15 | experimental |  | [Se–Zn](https://data.orchid-project.org/systems/SE-ZN.html) | [1] Chen 2014; _cites Wosten 1962_ [doi](https://doi.org/10.1021/j100813a010) | Table 7, p. 6, row 2; `ORC-WIONV62Y24` |  |
+| -177.6 kJ/mol (basis unstated) | ZnSe | 298.15 | experimental |  | [Se–Zn](https://data.orchid-project.org/systems/SE-ZN.html) | [1] Chen 2014; _cites Nasar 1990_ | Table 7, p. 6, row 5; `ORC-YYVEZCDIFR.d6e0bb` |  |
+| -164.4 kJ/mol (basis unstated) | ZnSe | 298.15 | experimental |  | [Se–Zn](https://data.orchid-project.org/systems/SE-ZN.html) | [1] Chen 2014; _cites Goldfinger 1963_ [doi](https://doi.org/10.1039/tf9635902851) | Table 7, p. 6, row 3; `ORC-LSHCIH5DVC` |  |
+| -163.2 kJ/mol (basis unstated) | ZnSe | 298.15 | experimental |  | [Se–Zn](https://data.orchid-project.org/systems/SE-ZN.html) | [1] Chen 2014; _cites Terpilowski 1967_ | Table 7, p. 6, row 4; `ORC-PL4IY5FTMK.f97c79` |  |
+| -175.9 kJ/mol (basis unstated) | ZnSe |  | model |  | [Se–Zn](https://data.orchid-project.org/systems/SE-ZN.html) | [1] Chen 2014 | Table 7, p. 6, row 1; `ORC-BAZXX5ZPR6.469b6d` |  |
 
 ### Uncertainty budget
 
@@ -85,4 +85,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

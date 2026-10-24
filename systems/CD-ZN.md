@@ -48,9 +48,9 @@ Table: Invariant reactions reported in the literature for the Cd–Zn system (3)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 539 | L \<-> (Zn) + (Cd) |  | experimental | [1] Liu 2009; _cites Record 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900157-2) | Table 6, p. 5, row 4 |  |
-| 538 | L \<-> (Zn) + (Cd) | L: Zn 0.2596; (Zn): Zn 0.9885; (Cd): Zn 0.0453 | experimental | [1] Liu 2009; _cites Adjadj 2007_ [doi](https://doi.org/10.1016/j.jallcom.2006.04.051) | Table 6, p. 5, row 3 |  |
-| 537.54 | L \<-> (Zn) + (Cd) | L: Zn 0.2585; (Zn): Zn 0.9905; (Cd): Zn 0.0418 | model | [1] Liu 2009 | Table 6, p. 5, row 5 |  |
+| 539 | L \<-> (Zn) + (Cd) |  | experimental | [1] Liu 2009; _cites Record 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900157-2) | Table 6, p. 5, row 4; `ORC-L5SNBDQFES` |  |
+| 538 | L \<-> (Zn) + (Cd) | L: Zn 0.2596; (Zn): Zn 0.9885; (Cd): Zn 0.0453 | experimental | [1] Liu 2009; _cites Adjadj 2007_ [doi](https://doi.org/10.1016/j.jallcom.2006.04.051) | Table 6, p. 5, row 3; `ORC-E2L74G2RSS` |  |
+| 537.54 | L \<-> (Zn) + (Cd) | L: Zn 0.2585; (Zn): Zn 0.9905; (Cd): Zn 0.0418 | model | [1] Liu 2009 | Table 6, p. 5, row 5; `ORC-HC2LU7EPLJ` |  |
 
 ## Other properties
 
@@ -60,7 +60,7 @@ Table: Phase transition, Cd–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 594.11 K | 594.11 | congruent melting: L \<-> (Cd); _L: Zn 0; (Cd): Zn 0_ | experimental | [1] Liu 2009; _cites Adjadj 2007_ [doi](https://doi.org/10.1016/j.jallcom.2006.04.051) | Table 6, p. 5, row 2 |  |
+| Phase transition | 594.11 K | 594.11 | congruent melting: L \<-> (Cd); _L: Zn 0; (Cd): Zn 0_ | experimental | [1] Liu 2009; _cites Adjadj 2007_ [doi](https://doi.org/10.1016/j.jallcom.2006.04.051) | Table 6, p. 5, row 2; `ORC-ZDMTFSCUJN` |  |
 
 ## Sources
 
@@ -125,4 +125,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

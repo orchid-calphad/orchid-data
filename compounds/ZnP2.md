@@ -14,13 +14,13 @@ Table: Enthalpy of formation of ZnP2 reported in the literature (7)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -42.4667 kJ/mol-atom ± 2.5 | ZnP2 | 298.15 | experimental |  | [P–Zn](https://data.orchid-project.org/systems/P-ZN.html) | [1] Tu 2009; _cites Sirota 1975_ | Table 3, p. 4, row 11 |  |
-| -126.85 kJ/mol (basis unstated) | ZnP2 | 298.15 | model |  | [P–Zn](https://data.orchid-project.org/systems/P-ZN.html) | [2] Ghasemi 2019; _cites Tu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.10.003) | Table 2, p. 3, row 12 |  |
-| -126.85 kJ/mol (basis unstated) | ZnP2 | 298.15 | model |  | [P–Zn](https://data.orchid-project.org/systems/P-ZN.html) | [3] Liu 2016; _cites Tu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.10.003) | Table 4, p. 6, row 9 |  |
-| -92.9282 kJ/mol (basis unstated) | ZnP2 | 298.15 | model |  | [P–Zn](https://data.orchid-project.org/systems/P-ZN.html) | [2] Ghasemi 2019; _cites Liu 2016_ [doi](https://doi.org/10.1016/j.surfcoat.2016.01.016) | Table 2, p. 3, row 11 |  |
-| -92.9282 kJ/mol (basis unstated) | ZnP2 | 298.15 | model |  | [P–Zn](https://data.orchid-project.org/systems/P-ZN.html) | [3] Liu 2016 | Table 4, p. 6, row 7 |  |
-| -42.2833 kJ/mol-atom | ZnP2 | 298.15 | model |  | [P–Zn](https://data.orchid-project.org/systems/P-ZN.html) | [1] Tu 2009 | Table 3, p. 4, row 12 |  |
-| -127.4 kJ/mol (basis unstated) ± 7.5 | ZnP2 | 298.15 | unspecified |  | [P–Zn](https://data.orchid-project.org/systems/P-ZN.html) | [3] Liu 2016; _cites Sirota 2016_ | Table 4, p. 6, row 8 |  |
+| -42.4667 kJ/mol-atom ± 2.5 | ZnP2 | 298.15 | experimental |  | [P–Zn](https://data.orchid-project.org/systems/P-ZN.html) | [1] Tu 2009; _cites Sirota 1975_ | Table 3, p. 4, row 11; `ORC-4SHUHIJJW6.377490` |  |
+| -126.85 kJ/mol (basis unstated) | ZnP2 | 298.15 | model |  | [P–Zn](https://data.orchid-project.org/systems/P-ZN.html) | [2] Ghasemi 2019; _cites Tu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.10.003) | Table 2, p. 3, row 12; `ORC-ESKOWRUNAQ.709e33` |  |
+| -126.85 kJ/mol (basis unstated) | ZnP2 | 298.15 | model |  | [P–Zn](https://data.orchid-project.org/systems/P-ZN.html) | [3] Liu 2016; _cites Tu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.10.003) | Table 4, p. 6, row 9; `ORC-RLYENHSAFJ.3d5e89` |  |
+| -92.9282 kJ/mol (basis unstated) | ZnP2 | 298.15 | model |  | [P–Zn](https://data.orchid-project.org/systems/P-ZN.html) | [2] Ghasemi 2019; _cites Liu 2016_ [doi](https://doi.org/10.1016/j.surfcoat.2016.01.016) | Table 2, p. 3, row 11; `ORC-7KEWLE76DK.bca2c5` |  |
+| -92.9282 kJ/mol (basis unstated) | ZnP2 | 298.15 | model |  | [P–Zn](https://data.orchid-project.org/systems/P-ZN.html) | [3] Liu 2016 | Table 4, p. 6, row 7; `ORC-X6TLIXEJC7.7cb926` |  |
+| -42.2833 kJ/mol-atom | ZnP2 | 298.15 | model |  | [P–Zn](https://data.orchid-project.org/systems/P-ZN.html) | [1] Tu 2009 | Table 3, p. 4, row 12; `ORC-VFY4NS7T2I.e4abf5` |  |
+| -127.4 kJ/mol (basis unstated) ± 7.5 | ZnP2 | 298.15 | unspecified |  | [P–Zn](https://data.orchid-project.org/systems/P-ZN.html) | [3] Liu 2016; _cites Sirota 2016_ | Table 4, p. 6, row 8; `ORC-JYRTJOGZSD.e1dffe` |  |
 
 ### Uncertainty budget
 
@@ -104,4 +104,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

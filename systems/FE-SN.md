@@ -108,51 +108,51 @@ Table: Invariant reactions reported in the literature for the Fe–Sn system (45
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1413.15 | Liquid#1 = BCC_A2 + Liquid#2 |  | experimental | [1] Huang 2010; _cites Isaac 1907_ | Table 1, p. 3, row 7 |  |
-| 1407.15 | Liquid#1 = BCC_A2 + Liquid#2 |  | experimental | [1] Huang 2010; _cites Hari 1996_ [doi](https://doi.org/10.1016/s0364-5916%2896%2900021-1) | Table 1, p. 3, row 6 |  |
-| 1403.15 | Liquid#1 = BCC_A2 + Liquid#2 |  | experimental | [1] Huang 2010; _cites Okamoto 1991_ | Table 1, p. 3, row 5 |  |
-| 1403.15 | Liquid#1 = BCC_A2 + Liquid#2 |  | experimental | [1] Huang 2010; _cites Kubaschewski 1982_ | Table 1, p. 3, row 4 |  |
-| 1401.15 | Liquid#1 = BCC_A2 + Liquid#2 |  | experimental | [1] Huang 2010; _cites Mills 1964_ | Table 1, p. 3, row 3 |  |
-| 1396.05 | Liquid#1 = BCC_A2 + Liquid#2 | Liquid#1: Sn 0.312; BCC_A2: Sn 0.083; Liquid#2: Sn 0.811 | model | [1] Huang 2010 | Table 1, p. 3, row 1 |  |
-| 1381.15 | Liquid#1 = BCC_A2 + Liquid#2 |  | experimental | [1] Huang 2010; _cites Edwards 1931_ | Table 1, p. 3, row 2 |  |
-| 1183.15 | BCC_A2 + Liquid = Fe5Sn3 | Fe5Sn3: Sn 0.375 | experimental | [1] Huang 2010; _cites Treheux 1974_ | Table 1, p. 3, row 11 |  |
-| 1183.15 | BCC_A2 + Liquid = Fe5Sn3 | Fe5Sn3: Sn 0.375 | experimental | [1] Huang 2010; _cites Fedorenko 1977_ | Table 1, p. 3, row 12 |  |
-| 1174.25 | BCC_A2 + Liquid = Fe5Sn3 | BCC_A2: Sn 0.081; Liquid: Sn 0.929; Fe5Sn3: Sn 0.375 | model | [1] Huang 2010 | Table 1, p. 3, row 8 |  |
-| 1168.15 | BCC_A2 + Liquid = Fe5Sn3 | Fe5Sn3: Sn 0.375 | experimental | [1] Huang 2010; _cites Hari 1996_ [doi](https://doi.org/10.1016/s0364-5916%2896%2900021-1) | Table 1, p. 3, row 10 |  |
-| 1166.15 | BCC_A2 + Liquid = Fe5Sn3 | Fe5Sn3: Sn 0.375 | experimental | [1] Huang 2010; _cites Isaac 1907_ | Table 1, p. 3, row 9 |  |
-| 1080.15 | Fe5Sn3 + Liquid = Fe3Sn2 | Fe5Sn3: Sn 0.375; Fe3Sn2: Sn 0.4 | experimental | [1] Huang 2010; _cites Hari 1996_ [doi](https://doi.org/10.1016/s0364-5916%2896%2900021-1) | Table 1, p. 3, row 17 |  |
-| 1079.15 | Fe5Sn3 + Liquid = Fe3Sn2 | Fe5Sn3: Sn 0.375; Fe3Sn2: Sn 0.4 | experimental | [1] Huang 2010; _cites Treheux 1974_ | Table 1, p. 3, row 15 |  |
-| 1079.15 | Fe5Sn3 + Liquid = Fe3Sn2 | Fe5Sn3: Sn 0.375; Fe3Sn2: Sn 0.4 | experimental | [1] Huang 2010; _cites Fedorenko 1977_ | Table 1, p. 3, row 16 |  |
-| 1074.95 | Fe5Sn3 + Liquid = Fe3Sn2 | Fe5Sn3: Sn 0.375; Liquid: Sn 0.967; Fe3Sn2: Sn 0.4 | model | [1] Huang 2010 | Table 1, p. 3, row 13 |  |
-| 1072.15 | Fe5Sn3 + Liquid = Fe3Sn2 | Fe5Sn3: Sn 0.375; Fe3Sn2: Sn 0.4 | experimental | [1] Huang 2010; _cites Singh 1986_ [doi](https://doi.org/10.1007/bf01730231) | Table 1, p. 3, row 14 |  |
-| 1055.15 | Fe5Sn3 = BCC_A2 + Fe3Sn2 | Fe5Sn3: Sn 0.375; Fe3Sn2: Sn 0.4 | experimental | [1] Huang 2010; _cites Treheux 1974_ | Table 1, p. 3, row 21 |  |
-| 1046.55 | Fe5Sn3 = BCC_A2 + Fe3Sn2 | Fe5Sn3: Sn 0.375; BCC_A2: Sn 0.051; Fe3Sn2: Sn 0.4 | model | [1] Huang 2010 | Table 1, p. 3, row 18 |  |
-| 1043.15 | Fe3Sn2 + Liquid = FeSn | Fe3Sn2: Sn 0.4; FeSn: Sn 0.5 | experimental | [1] Huang 2010; _cites Fedorenko 1977_ | Table 1, p. 3, row 26 |  |
-| 1043.15 | Fe3Sn2 + Liquid = FeSn | Fe3Sn2: Sn 0.4; FeSn: Sn 0.5 | experimental | [1] Huang 2010; _cites Treheux 1974_ | Table 1, p. 3, row 25 |  |
-| 1041.15 | Fe5Sn3 = BCC_A2 + Fe3Sn2 | Fe5Sn3: Sn 0.375; Fe3Sn2: Sn 0.4 | experimental | [1] Huang 2010; _cites Hari 1996_ [doi](https://doi.org/10.1016/s0364-5916%2896%2900021-1) | Table 1, p. 3, row 20 |  |
-| 1038.15 | Fe5Sn3 = BCC_A2 + Fe3Sn2 | Fe5Sn3: Sn 0.375; Fe3Sn2: Sn 0.4 | experimental | [1] Huang 2010; _cites Fedorenko 1977_ | Table 1, p. 3, row 19 |  |
-| 1034.15 | Fe3Sn2 + Liquid = FeSn | Fe3Sn2: Sn 0.4; FeSn: Sn 0.5 | experimental | [1] Huang 2010; _cites Hari 1996_ [doi](https://doi.org/10.1016/s0364-5916%2896%2900021-1) | Table 1, p. 3, row 24 |  |
-| 1024.85 | Fe3Sn2 + Liquid = FeSn | Fe3Sn2: Sn 0.4; Liquid: Sn 0.98; FeSn: Sn 0.5 | model | [1] Huang 2010 | Table 1, p. 3, row 22 |  |
-| 1013.15 | Fe3Sn2 + Liquid = FeSn | Fe3Sn2: Sn 0.4; FeSn: Sn 0.5 | experimental | [1] Huang 2010; _cites Kubaschewski 1982_ | Table 1, p. 3, row 23 |  |
-| 880.15 | Fe3Sn2 = BCC_A2 + FeSn | Fe3Sn2: Sn 0.4; FeSn: Sn 0.5 | experimental | [1] Huang 2010; _cites Fedorenko 1977_ | Table 1, p. 3, row 31 |  |
-| 880.15 | Fe3Sn2 = BCC_A2 + FeSn | Fe3Sn2: Sn 0.4; FeSn: Sn 0.5 | experimental | [1] Huang 2010; _cites Hari 1996_ [doi](https://doi.org/10.1016/s0364-5916%2896%2900021-1) | Table 1, p. 3, row 32 |  |
-| 880.15 | Fe3Sn2 = BCC_A2 + FeSn | Fe3Sn2: Sn 0.4; FeSn: Sn 0.5 | experimental | [1] Huang 2010; _cites Treheux 1974_ | Table 1, p. 3, row 30 |  |
-| 875.05 | Fe3Sn2 = BCC_A2 + FeSn | Fe3Sn2: Sn 0.4; BCC_A2: Sn 0.017; FeSn: Sn 0.5 | model | [1] Huang 2010 | Table 1, p. 3, row 27 |  |
-| 873.15 | Fe3Sn2 = BCC_A2 + FeSn | Fe3Sn2: Sn 0.4; FeSn: Sn 0.5 | experimental | [1] Huang 2010; _cites Kubaschewski 1982_ | Table 1, p. 3, row 29 |  |
-| 870.15 | Fe3Sn2 = BCC_A2 + FeSn | Fe3Sn2: Sn 0.4; FeSn: Sn 0.5 | experimental | [1] Huang 2010; _cites Singh 1986_ [doi](https://doi.org/10.1007/bf01730231) | Table 1, p. 3, row 28 |  |
-| 786.15 | FeSn + Liquid = FeSn2 | FeSn: Sn 0.5; FeSn2: Sn 0.666667 | experimental | [1] Huang 2010; _cites Fedorenko 1977_ | Table 1, p. 3, row 38 |  |
-| 786.15 | FeSn + Liquid = FeSn2 | FeSn: Sn 0.5; FeSn2: Sn 0.666667 | experimental | [1] Huang 2010; _cites Treheux 1974_ | Table 1, p. 3, row 37 |  |
-| 786.15 | FeSn + Liquid = FeSn2 | FeSn: Sn 0.5; FeSn2: Sn 0.666667 | experimental | [1] Huang 2010; _cites Hari 1996_ [doi](https://doi.org/10.1016/s0364-5916%2896%2900021-1) | Table 1, p. 3, row 39 |  |
-| 775.55 | FeSn + Liquid = FeSn2 | FeSn: Sn 0.5; Liquid: Sn 0.999; FeSn2: Sn 0.666 | model | [1] Huang 2010 | Table 1, p. 3, row 33 |  |
-| 769.15 | FeSn + Liquid = FeSn2 | FeSn: Sn 0.5; FeSn2: Sn 0.666667 | experimental | [1] Huang 2010; _cites Kubaschewski 1982_ | Table 1, p. 3, row 36 |  |
-| 769.15 | FeSn + Liquid = FeSn2 | FeSn: Sn 0.5; FeSn2: Sn 0.666667 | experimental | [1] Huang 2010; _cites Isaac 1907_ | Table 1, p. 3, row 34 |  |
-| 769.15 | FeSn + Liquid = FeSn2 | FeSn: Sn 0.5; FeSn2: Sn 0.666667 | experimental | [1] Huang 2010; _cites Edwards 1931_ | Table 1, p. 3, row 35 |  |
-| 505.15 | Liquid = FeSn2 + BCT_A5 | FeSn2: Sn 0.666667; BCT_A5: Sn 1 | experimental | [1] Huang 2010; _cites Treheux 1974_ | Table 1, p. 3, row 42 |  |
-| 505.15 | Liquid = FeSn2 + BCT_A5 | FeSn2: Sn 0.666667; BCT_A5: Sn 1 | experimental | [1] Huang 2010; _cites Connolly 1975_ [doi](https://doi.org/10.1016/0001-6160%2875%2990039-5) | Table 1, p. 3, row 43 |  |
-| 505.15 | Liquid = FeSn2 + BCT_A5 | FeSn2: Sn 0.666667; BCT_A5: Sn 1 | experimental | [1] Huang 2010; _cites Hari 1996_ [doi](https://doi.org/10.1016/s0364-5916%2896%2900021-1) | Table 1, p. 3, row 45 |  |
-| 505.15 | Liquid = FeSn2 + BCT_A5 | FeSn2: Sn 0.666667; BCT_A5: Sn 1 | experimental | [1] Huang 2010; _cites Fedorenko 1977_ | Table 1, p. 3, row 44 |  |
-| 505.05 | Liquid = FeSn2 + BCT_A5 | Liquid: Sn 0.999; FeSn2: Sn 0.666; BCT_A5: Sn 1 | model | [1] Huang 2010 | Table 1, p. 3, row 40 |  |
-| 501.15 | Liquid = FeSn2 + BCT_A5 | FeSn2: Sn 0.666667; BCT_A5: Sn 1 | experimental | [1] Huang 2010; _cites Isaac 1907_ | Table 1, p. 3, row 41 |  |
+| 1413.15 | Liquid#1 = BCC_A2 + Liquid#2 |  | experimental | [1] Huang 2010; _cites Isaac 1907_ | Table 1, p. 3, row 7; `ORC-2YIXDDVVWX` |  |
+| 1407.15 | Liquid#1 = BCC_A2 + Liquid#2 |  | experimental | [1] Huang 2010; _cites Hari 1996_ [doi](https://doi.org/10.1016/s0364-5916%2896%2900021-1) | Table 1, p. 3, row 6; `ORC-BEVGH6MRLP` |  |
+| 1403.15 | Liquid#1 = BCC_A2 + Liquid#2 |  | experimental | [1] Huang 2010; _cites Okamoto 1991_ | Table 1, p. 3, row 5; `ORC-PLNQRXD2EA` |  |
+| 1403.15 | Liquid#1 = BCC_A2 + Liquid#2 |  | experimental | [1] Huang 2010; _cites Kubaschewski 1982_ | Table 1, p. 3, row 4; `ORC-RAXPA57WLC` |  |
+| 1401.15 | Liquid#1 = BCC_A2 + Liquid#2 |  | experimental | [1] Huang 2010; _cites Mills 1964_ | Table 1, p. 3, row 3; `ORC-NOFXBYXYW7` |  |
+| 1396.05 | Liquid#1 = BCC_A2 + Liquid#2 | Liquid#1: Sn 0.312; BCC_A2: Sn 0.083; Liquid#2: Sn 0.811 | model | [1] Huang 2010 | Table 1, p. 3, row 1; `ORC-SUHCECF5IG` |  |
+| 1381.15 | Liquid#1 = BCC_A2 + Liquid#2 |  | experimental | [1] Huang 2010; _cites Edwards 1931_ | Table 1, p. 3, row 2; `ORC-NSR7LS6EMF` |  |
+| 1183.15 | BCC_A2 + Liquid = Fe5Sn3 | Fe5Sn3: Sn 0.375 | experimental | [1] Huang 2010; _cites Treheux 1974_ | Table 1, p. 3, row 11; `ORC-4GTLOLVA76` |  |
+| 1183.15 | BCC_A2 + Liquid = Fe5Sn3 | Fe5Sn3: Sn 0.375 | experimental | [1] Huang 2010; _cites Fedorenko 1977_ | Table 1, p. 3, row 12; `ORC-OOZ6Q2DFCZ` |  |
+| 1174.25 | BCC_A2 + Liquid = Fe5Sn3 | BCC_A2: Sn 0.081; Liquid: Sn 0.929; Fe5Sn3: Sn 0.375 | model | [1] Huang 2010 | Table 1, p. 3, row 8; `ORC-O2DSLPAWAR` |  |
+| 1168.15 | BCC_A2 + Liquid = Fe5Sn3 | Fe5Sn3: Sn 0.375 | experimental | [1] Huang 2010; _cites Hari 1996_ [doi](https://doi.org/10.1016/s0364-5916%2896%2900021-1) | Table 1, p. 3, row 10; `ORC-O54DP23IJR` |  |
+| 1166.15 | BCC_A2 + Liquid = Fe5Sn3 | Fe5Sn3: Sn 0.375 | experimental | [1] Huang 2010; _cites Isaac 1907_ | Table 1, p. 3, row 9; `ORC-P26YSMXX7H` |  |
+| 1080.15 | Fe5Sn3 + Liquid = Fe3Sn2 | Fe5Sn3: Sn 0.375; Fe3Sn2: Sn 0.4 | experimental | [1] Huang 2010; _cites Hari 1996_ [doi](https://doi.org/10.1016/s0364-5916%2896%2900021-1) | Table 1, p. 3, row 17; `ORC-D2P5EU5SIK` |  |
+| 1079.15 | Fe5Sn3 + Liquid = Fe3Sn2 | Fe5Sn3: Sn 0.375; Fe3Sn2: Sn 0.4 | experimental | [1] Huang 2010; _cites Treheux 1974_ | Table 1, p. 3, row 15; `ORC-LMRCRHGGOB` |  |
+| 1079.15 | Fe5Sn3 + Liquid = Fe3Sn2 | Fe5Sn3: Sn 0.375; Fe3Sn2: Sn 0.4 | experimental | [1] Huang 2010; _cites Fedorenko 1977_ | Table 1, p. 3, row 16; `ORC-PMP6D3YGAY` |  |
+| 1074.95 | Fe5Sn3 + Liquid = Fe3Sn2 | Fe5Sn3: Sn 0.375; Liquid: Sn 0.967; Fe3Sn2: Sn 0.4 | model | [1] Huang 2010 | Table 1, p. 3, row 13; `ORC-TNI6T2KXNV` |  |
+| 1072.15 | Fe5Sn3 + Liquid = Fe3Sn2 | Fe5Sn3: Sn 0.375; Fe3Sn2: Sn 0.4 | experimental | [1] Huang 2010; _cites Singh 1986_ [doi](https://doi.org/10.1007/bf01730231) | Table 1, p. 3, row 14; `ORC-RONCBEMJQZ` |  |
+| 1055.15 | Fe5Sn3 = BCC_A2 + Fe3Sn2 | Fe5Sn3: Sn 0.375; Fe3Sn2: Sn 0.4 | experimental | [1] Huang 2010; _cites Treheux 1974_ | Table 1, p. 3, row 21; `ORC-GQDZ6UGI5H` |  |
+| 1046.55 | Fe5Sn3 = BCC_A2 + Fe3Sn2 | Fe5Sn3: Sn 0.375; BCC_A2: Sn 0.051; Fe3Sn2: Sn 0.4 | model | [1] Huang 2010 | Table 1, p. 3, row 18; `ORC-DCBSKGCE33` |  |
+| 1043.15 | Fe3Sn2 + Liquid = FeSn | Fe3Sn2: Sn 0.4; FeSn: Sn 0.5 | experimental | [1] Huang 2010; _cites Fedorenko 1977_ | Table 1, p. 3, row 26; `ORC-4CDIOO4FKX` |  |
+| 1043.15 | Fe3Sn2 + Liquid = FeSn | Fe3Sn2: Sn 0.4; FeSn: Sn 0.5 | experimental | [1] Huang 2010; _cites Treheux 1974_ | Table 1, p. 3, row 25; `ORC-XTHJQ5TZN6` |  |
+| 1041.15 | Fe5Sn3 = BCC_A2 + Fe3Sn2 | Fe5Sn3: Sn 0.375; Fe3Sn2: Sn 0.4 | experimental | [1] Huang 2010; _cites Hari 1996_ [doi](https://doi.org/10.1016/s0364-5916%2896%2900021-1) | Table 1, p. 3, row 20; `ORC-YX4ZWSMQ3E` |  |
+| 1038.15 | Fe5Sn3 = BCC_A2 + Fe3Sn2 | Fe5Sn3: Sn 0.375; Fe3Sn2: Sn 0.4 | experimental | [1] Huang 2010; _cites Fedorenko 1977_ | Table 1, p. 3, row 19; `ORC-7CW5XVRYSI` |  |
+| 1034.15 | Fe3Sn2 + Liquid = FeSn | Fe3Sn2: Sn 0.4; FeSn: Sn 0.5 | experimental | [1] Huang 2010; _cites Hari 1996_ [doi](https://doi.org/10.1016/s0364-5916%2896%2900021-1) | Table 1, p. 3, row 24; `ORC-SUMFDKSHCM` |  |
+| 1024.85 | Fe3Sn2 + Liquid = FeSn | Fe3Sn2: Sn 0.4; Liquid: Sn 0.98; FeSn: Sn 0.5 | model | [1] Huang 2010 | Table 1, p. 3, row 22; `ORC-WQSBWXD67O` |  |
+| 1013.15 | Fe3Sn2 + Liquid = FeSn | Fe3Sn2: Sn 0.4; FeSn: Sn 0.5 | experimental | [1] Huang 2010; _cites Kubaschewski 1982_ | Table 1, p. 3, row 23; `ORC-NHK6K7M2YH` |  |
+| 880.15 | Fe3Sn2 = BCC_A2 + FeSn | Fe3Sn2: Sn 0.4; FeSn: Sn 0.5 | experimental | [1] Huang 2010; _cites Fedorenko 1977_ | Table 1, p. 3, row 31; `ORC-4NUHZVSBKN` |  |
+| 880.15 | Fe3Sn2 = BCC_A2 + FeSn | Fe3Sn2: Sn 0.4; FeSn: Sn 0.5 | experimental | [1] Huang 2010; _cites Hari 1996_ [doi](https://doi.org/10.1016/s0364-5916%2896%2900021-1) | Table 1, p. 3, row 32; `ORC-RFPXNRM5KW` |  |
+| 880.15 | Fe3Sn2 = BCC_A2 + FeSn | Fe3Sn2: Sn 0.4; FeSn: Sn 0.5 | experimental | [1] Huang 2010; _cites Treheux 1974_ | Table 1, p. 3, row 30; `ORC-VWBQDEGXSV` |  |
+| 875.05 | Fe3Sn2 = BCC_A2 + FeSn | Fe3Sn2: Sn 0.4; BCC_A2: Sn 0.017; FeSn: Sn 0.5 | model | [1] Huang 2010 | Table 1, p. 3, row 27; `ORC-JL2OCAHTKZ` |  |
+| 873.15 | Fe3Sn2 = BCC_A2 + FeSn | Fe3Sn2: Sn 0.4; FeSn: Sn 0.5 | experimental | [1] Huang 2010; _cites Kubaschewski 1982_ | Table 1, p. 3, row 29; `ORC-VGVJKKFYS2` |  |
+| 870.15 | Fe3Sn2 = BCC_A2 + FeSn | Fe3Sn2: Sn 0.4; FeSn: Sn 0.5 | experimental | [1] Huang 2010; _cites Singh 1986_ [doi](https://doi.org/10.1007/bf01730231) | Table 1, p. 3, row 28; `ORC-3JSDZ5LBIB` |  |
+| 786.15 | FeSn + Liquid = FeSn2 | FeSn: Sn 0.5; FeSn2: Sn 0.666667 | experimental | [1] Huang 2010; _cites Fedorenko 1977_ | Table 1, p. 3, row 38; `ORC-ALCYRH2ZFP` |  |
+| 786.15 | FeSn + Liquid = FeSn2 | FeSn: Sn 0.5; FeSn2: Sn 0.666667 | experimental | [1] Huang 2010; _cites Treheux 1974_ | Table 1, p. 3, row 37; `ORC-IO63HJ52E5` |  |
+| 786.15 | FeSn + Liquid = FeSn2 | FeSn: Sn 0.5; FeSn2: Sn 0.666667 | experimental | [1] Huang 2010; _cites Hari 1996_ [doi](https://doi.org/10.1016/s0364-5916%2896%2900021-1) | Table 1, p. 3, row 39; `ORC-RHSQO5B2DL` |  |
+| 775.55 | FeSn + Liquid = FeSn2 | FeSn: Sn 0.5; Liquid: Sn 0.999; FeSn2: Sn 0.666 | model | [1] Huang 2010 | Table 1, p. 3, row 33; `ORC-6LIM7XZPZF` |  |
+| 769.15 | FeSn + Liquid = FeSn2 | FeSn: Sn 0.5; FeSn2: Sn 0.666667 | experimental | [1] Huang 2010; _cites Kubaschewski 1982_ | Table 1, p. 3, row 36; `ORC-CHGXEZTZEX` |  |
+| 769.15 | FeSn + Liquid = FeSn2 | FeSn: Sn 0.5; FeSn2: Sn 0.666667 | experimental | [1] Huang 2010; _cites Isaac 1907_ | Table 1, p. 3, row 34; `ORC-FUNK6KUKBT` |  |
+| 769.15 | FeSn + Liquid = FeSn2 | FeSn: Sn 0.5; FeSn2: Sn 0.666667 | experimental | [1] Huang 2010; _cites Edwards 1931_ | Table 1, p. 3, row 35; `ORC-GPG7MSSQW5` |  |
+| 505.15 | Liquid = FeSn2 + BCT_A5 | FeSn2: Sn 0.666667; BCT_A5: Sn 1 | experimental | [1] Huang 2010; _cites Treheux 1974_ | Table 1, p. 3, row 42; `ORC-O5NN6EYMCY` |  |
+| 505.15 | Liquid = FeSn2 + BCT_A5 | FeSn2: Sn 0.666667; BCT_A5: Sn 1 | experimental | [1] Huang 2010; _cites Connolly 1975_ [doi](https://doi.org/10.1016/0001-6160%2875%2990039-5) | Table 1, p. 3, row 43; `ORC-PA3B47JTS3` |  |
+| 505.15 | Liquid = FeSn2 + BCT_A5 | FeSn2: Sn 0.666667; BCT_A5: Sn 1 | experimental | [1] Huang 2010; _cites Hari 1996_ [doi](https://doi.org/10.1016/s0364-5916%2896%2900021-1) | Table 1, p. 3, row 45; `ORC-SWOKAS3ZBE` |  |
+| 505.15 | Liquid = FeSn2 + BCT_A5 | FeSn2: Sn 0.666667; BCT_A5: Sn 1 | experimental | [1] Huang 2010; _cites Fedorenko 1977_ | Table 1, p. 3, row 44; `ORC-XVQ6DBCVTC` |  |
+| 505.05 | Liquid = FeSn2 + BCT_A5 | Liquid: Sn 0.999; FeSn2: Sn 0.666; BCT_A5: Sn 1 | model | [1] Huang 2010 | Table 1, p. 3, row 40; `ORC-FBDS52CZUP` |  |
+| 501.15 | Liquid = FeSn2 + BCT_A5 | FeSn2: Sn 0.666667; BCT_A5: Sn 1 | experimental | [1] Huang 2010; _cites Isaac 1907_ | Table 1, p. 3, row 41; `ORC-FNSYAP5B3P` |  |
 
 ## Formation enthalpies
 
@@ -162,8 +162,8 @@ Table: Enthalpies of formation, Fe–Sn system (2)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Fe5Sn3 | [Fe5Sn3](https://data.orchid-project.org/compounds/Fe5Sn3.html) | 2.79 kJ/mol-atom |  | model |  | 18.263 (oqmd-1277778) | [2] Lafaye 2020 | Table 2, p. 4, row 8 |  |
-| Fe5Sn3 |  | 2.79 kJ/mol-atom | 0 | DFT |  |  | [2] Lafaye 2020 | Table 2, p. 4, row 7 |  |
+| Fe5Sn3 | [Fe5Sn3](https://data.orchid-project.org/compounds/Fe5Sn3.html) | 2.79 kJ/mol-atom |  | model |  | 18.263 (oqmd-1277778) | [2] Lafaye 2020 | Table 2, p. 4, row 8; `ORC-PWHXDJDPFF` |  |
+| Fe5Sn3 |  | 2.79 kJ/mol-atom | 0 | DFT |  |  | [2] Lafaye 2020 | Table 2, p. 4, row 7; `ORC-XBP6ZIX4UV` |  |
 
 ## Other properties
 
@@ -173,18 +173,18 @@ Table: Activity / EMF / Gibbs energy, Fe–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Gibbs energy; _printed: Gibbs energy (const)_ | -27790 J/ mole of atoms |  | FeSn; _alloy: Sn 0.5_ | experimental | [3] Kumar 1996; _cites ref. 78Ere_ | Table 4, p. 7, row 3 |  |
-| Gibbs energy; _printed: Gibbs energy (T)_ | 23.65 J/ mole of atoms |  | FeSn; _alloy: Sn 0.5_ | experimental | [3] Kumar 1996; _cites ref. 78Ere_ | Table 4, p. 7, row 3 |  |
-| Gibbs energy; _printed: Gibbs energy (T)_ | 20.334 J/ mole of atoms |  | FeSn; _alloy: Sn 0.5_ | experimental | [3] Kumar 1996; _cites Zabyr 1984_ | Table 4, p. 7, row 2 |  |
-| Gibbs energy; _printed: Gibbs energy (const)_ | -21142 J/ mole of atoms |  | FeSn; _alloy: Sn 0.5_ | experimental | [3] Kumar 1996; _cites Zabyr 1984_ | Table 4, p. 7, row 2 |  |
-| Gibbs energy; _printed: Gibbs energy (const)_ | -23013 J/ mole of atoms |  | FeSn; _alloy: Sn 0.5_ | model | [3] Kumar 1996 | Table 4, p. 7, row 1 |  |
-| Gibbs energy; _printed: Gibbs energy (T)_ | 19.702 J/ mole of atoms |  | FeSn; _alloy: Sn 0.5_ | model | [3] Kumar 1996 | Table 4, p. 7, row 1 |  |
-| Gibbs energy; _printed: Gibbs energy (const)_ | -27624 J/ mole of atoms |  | FeSn2; _alloy: Sn 0.666667_ | model | [3] Kumar 1996 | Table 4, p. 7, row 4 |  |
-| Gibbs energy; _printed: Gibbs energy (T)_ | 28.803 J/ mole of atoms |  | FeSn2; _alloy: Sn 0.666667_ | model | [3] Kumar 1996 | Table 4, p. 7, row 4 |  |
-| Gibbs energy; _printed: Gibbs energy (T)_ | 30.52 J/ mole of atoms |  | FeSn2; _alloy: Sn 0.666667_ | experimental | [3] Kumar 1996; _cites ref. 78Ere_ | Table 4, p. 7, row 6 |  |
-| Gibbs energy; _printed: Gibbs energy (const)_ | -24140 J/ mole of atoms |  | FeSn2; _alloy: Sn 0.666667_ | experimental | [3] Kumar 1996; _cites ref. 78Ere_ | Table 4, p. 7, row 6 |  |
-| Gibbs energy; _printed: Gibbs energy (T)_ | 28.368 J/ mole of atoms |  | FeSn2; _alloy: Sn 0.666667_ | experimental | [3] Kumar 1996; _cites Zabyr 1984_ | Table 4, p. 7, row 5 |  |
-| Gibbs energy; _printed: Gibbs energy (const)_ | -27916 J/ mole of atoms |  | FeSn2; _alloy: Sn 0.666667_ | experimental | [3] Kumar 1996; _cites Zabyr 1984_ | Table 4, p. 7, row 5 |  |
+| Gibbs energy; _printed: Gibbs energy (const)_ | -27790 J/ mole of atoms |  | FeSn; _alloy: Sn 0.5_ | experimental | [3] Kumar 1996; _cites ref. 78Ere_ | Table 4, p. 7, row 3; `ORC-KMP2SZ5CUU.28d04e` |  |
+| Gibbs energy; _printed: Gibbs energy (T)_ | 23.65 J/ mole of atoms |  | FeSn; _alloy: Sn 0.5_ | experimental | [3] Kumar 1996; _cites ref. 78Ere_ | Table 4, p. 7, row 3; `ORC-KMP2SZ5CUU.9a525b` |  |
+| Gibbs energy; _printed: Gibbs energy (T)_ | 20.334 J/ mole of atoms |  | FeSn; _alloy: Sn 0.5_ | experimental | [3] Kumar 1996; _cites Zabyr 1984_ | Table 4, p. 7, row 2; `ORC-L2XQNXFHWI.9e8422` |  |
+| Gibbs energy; _printed: Gibbs energy (const)_ | -21142 J/ mole of atoms |  | FeSn; _alloy: Sn 0.5_ | experimental | [3] Kumar 1996; _cites Zabyr 1984_ | Table 4, p. 7, row 2; `ORC-L2XQNXFHWI.bb3fe9` |  |
+| Gibbs energy; _printed: Gibbs energy (const)_ | -23013 J/ mole of atoms |  | FeSn; _alloy: Sn 0.5_ | model | [3] Kumar 1996 | Table 4, p. 7, row 1; `ORC-STIDF6SN6I.0cefc6` |  |
+| Gibbs energy; _printed: Gibbs energy (T)_ | 19.702 J/ mole of atoms |  | FeSn; _alloy: Sn 0.5_ | model | [3] Kumar 1996 | Table 4, p. 7, row 1; `ORC-STIDF6SN6I.30549f` |  |
+| Gibbs energy; _printed: Gibbs energy (const)_ | -27624 J/ mole of atoms |  | FeSn2; _alloy: Sn 0.666667_ | model | [3] Kumar 1996 | Table 4, p. 7, row 4; `ORC-AVQJPIZEIW.035cf5` |  |
+| Gibbs energy; _printed: Gibbs energy (T)_ | 28.803 J/ mole of atoms |  | FeSn2; _alloy: Sn 0.666667_ | model | [3] Kumar 1996 | Table 4, p. 7, row 4; `ORC-AVQJPIZEIW.e9f8d1` |  |
+| Gibbs energy; _printed: Gibbs energy (T)_ | 30.52 J/ mole of atoms |  | FeSn2; _alloy: Sn 0.666667_ | experimental | [3] Kumar 1996; _cites ref. 78Ere_ | Table 4, p. 7, row 6; `ORC-GUBXGHAJKS.0d7d39` |  |
+| Gibbs energy; _printed: Gibbs energy (const)_ | -24140 J/ mole of atoms |  | FeSn2; _alloy: Sn 0.666667_ | experimental | [3] Kumar 1996; _cites ref. 78Ere_ | Table 4, p. 7, row 6; `ORC-GUBXGHAJKS.889d22` |  |
+| Gibbs energy; _printed: Gibbs energy (T)_ | 28.368 J/ mole of atoms |  | FeSn2; _alloy: Sn 0.666667_ | experimental | [3] Kumar 1996; _cites Zabyr 1984_ | Table 4, p. 7, row 5; `ORC-RGO66BRZOJ.a4637d` |  |
+| Gibbs energy; _printed: Gibbs energy (const)_ | -27916 J/ mole of atoms |  | FeSn2; _alloy: Sn 0.666667_ | experimental | [3] Kumar 1996; _cites Zabyr 1984_ | Table 4, p. 7, row 5; `ORC-RGO66BRZOJ.fdac72` |  |
 
 ## Sources
 
@@ -251,4 +251,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

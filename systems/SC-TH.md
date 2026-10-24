@@ -46,9 +46,9 @@ Table: Invariant reactions reported in the literature for the Sc–Th system (3)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1423.15 | eutectoid: (βSc, βTh) -> αTh + αSc | (βSc, βTh): Th 0.367; αTh: Th 0.29; αSc: Th 0.212 | model | [1] Liu 2009 | Table 7, p. 6, row 7 |  |
-| 1423.15 | eutectoid: (βSc, βTh) -> αTh + αSc | (βSc, βTh): Th 0.34; αTh: Th 0.2 | experimental | [1] Liu 2009; _cites Terekhov 1990_ | Table 7, p. 6, row 5 |  |
-| 1273.15 | eutectoid: (βSc, βTh) -> αTh + αSc | (βSc, βTh): Th 0.5 | experimental | [1] Liu 2009; _cites Badayeva 1969_ | Table 7, p. 6, row 6 |  |
+| 1423.15 | eutectoid: (βSc, βTh) -> αTh + αSc | (βSc, βTh): Th 0.367; αTh: Th 0.29; αSc: Th 0.212 | model | [1] Liu 2009 | Table 7, p. 6, row 7; `ORC-ATT4AQO2HS` |  |
+| 1423.15 | eutectoid: (βSc, βTh) -> αTh + αSc | (βSc, βTh): Th 0.34; αTh: Th 0.2 | experimental | [1] Liu 2009; _cites Terekhov 1990_ | Table 7, p. 6, row 5; `ORC-X56UUT365T` |  |
+| 1273.15 | eutectoid: (βSc, βTh) -> αTh + αSc | (βSc, βTh): Th 0.5 | experimental | [1] Liu 2009; _cites Badayeva 1969_ | Table 7, p. 6, row 6; `ORC-5MZRWOGBW2` |  |
 
 ## Other properties
 
@@ -58,10 +58,10 @@ Table: Phase transition, Sc–Th system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1814.15 K | 1814.15 | congruent melting: L -> βSc; _βSc: Th 0_ | model | [1] Liu 2009 | Table 7, p. 6, row 2 |  |
-| Phase transition | 1814.15 K | 1814.15 | congruent melting: L -> βSc; _βSc: Th 0_ | experimental | [1] Liu 2009; _cites Okamoto 1991_ | Table 7, p. 6, row 1 |  |
-| Phase transition | 2028.15 K | 2028.15 | congruent melting: L -> βTh; _βTh: Th 1_ | model | [1] Liu 2009 | Table 7, p. 6, row 9 |  |
-| Phase transition | 2028.15 K | 2028.15 | congruent melting: L -> βTh; _βTh: Th 1_ | experimental | [1] Liu 2009; _cites Okamoto 1991_ | Table 7, p. 6, row 8 |  |
+| Phase transition | 1814.15 K | 1814.15 | congruent melting: L -> βSc; _βSc: Th 0_ | model | [1] Liu 2009 | Table 7, p. 6, row 2; `ORC-LWKRFG3ZSC` |  |
+| Phase transition | 1814.15 K | 1814.15 | congruent melting: L -> βSc; _βSc: Th 0_ | experimental | [1] Liu 2009; _cites Okamoto 1991_ | Table 7, p. 6, row 1; `ORC-SW3RQATGSY` |  |
+| Phase transition | 2028.15 K | 2028.15 | congruent melting: L -> βTh; _βTh: Th 1_ | model | [1] Liu 2009 | Table 7, p. 6, row 9; `ORC-CIMGXE2JHD` |  |
+| Phase transition | 2028.15 K | 2028.15 | congruent melting: L -> βTh; _βTh: Th 1_ | experimental | [1] Liu 2009; _cites Okamoto 1991_ | Table 7, p. 6, row 8; `ORC-OWSKLFHNI6` |  |
 
 ## Sources
 
@@ -126,4 +126,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

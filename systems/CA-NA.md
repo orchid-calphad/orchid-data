@@ -48,10 +48,10 @@ Table: Invariant reactions reported in the literature for the Ca–Na system (4)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 983.9 | monotectic: Liquid1 -> bcc(Ca) + liquid2 | Liquid1: Na 0.221; bcc(Ca): Na 0.102; liquid2: Na 0.959 | model | [1] Zhang 2003 | Table 2, p. 3, row 1 |  |
-| 983 | Liquid1 -> bcc(Ca) + liquid2 | Liquid1: Na 0.221; liquid2: Na 0.959 | experimental | [1] Zhang 2003; _cites Rinck 1931_ | Table 2, p. 3, row 2 |  |
-| 707.3 | Bcc(Ca) -> fcc(Ca) + liquid2 | Bcc(Ca): Na 0.00563; liquid2: Na 0.995 | model | [1] Zhang 2003 | Table 2, p. 3, row 3 |  |
-| 370.9 | eutectic: Liquid2 -> fcc(Ca) + bcc(Na) | Liquid2: Na 0.99998; fcc(Ca): Na 5.200e-5; bcc(Na): Na 0.99999 | model | [1] Zhang 2003 | Table 2, p. 3, row 4 |  |
+| 983.9 | monotectic: Liquid1 -> bcc(Ca) + liquid2 | Liquid1: Na 0.221; bcc(Ca): Na 0.102; liquid2: Na 0.959 | model | [1] Zhang 2003 | Table 2, p. 3, row 1; `ORC-HRO73SOOT2` |  |
+| 983 | Liquid1 -> bcc(Ca) + liquid2 | Liquid1: Na 0.221; liquid2: Na 0.959 | experimental | [1] Zhang 2003; _cites Rinck 1931_ | Table 2, p. 3, row 2; `ORC-H3DMMHFPD4` |  |
+| 707.3 | Bcc(Ca) -> fcc(Ca) + liquid2 | Bcc(Ca): Na 0.00563; liquid2: Na 0.995 | model | [1] Zhang 2003 | Table 2, p. 3, row 3; `ORC-UPCHZ4556T` |  |
+| 370.9 | eutectic: Liquid2 -> fcc(Ca) + bcc(Na) | Liquid2: Na 0.99998; fcc(Ca): Na 5.200e-5; bcc(Na): Na 0.99999 | model | [1] Zhang 2003 | Table 2, p. 3, row 4; `ORC-RW4RAHC6Q4` |  |
 
 ## Sources
 
@@ -116,4 +116,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

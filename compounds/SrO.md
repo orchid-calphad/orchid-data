@@ -14,13 +14,13 @@ Table: Enthalpy of formation of SrO reported in the literature (7)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -643 kJ/mol (basis unstated) | SrO | 298.15 | experimental | activity data 2nd law | [O–Sr](https://data.orchid-project.org/systems/O-SR.html) | [1] Risold 1996; _cites ref. 93Ono_ | Table 3, p. 4, row 3 |  |
-| -604.3 kJ/mol (basis unstated) | SrO | 298.15 | experimental | combustion cal. | [O–Sr](https://data.orchid-project.org/systems/O-SR.html) | [1] Risold 1996; _cites Mah 1963_ | Table 3, p. 4, row 2 |  |
-| -595 kJ/mol (basis unstated) | SrO | 298.15 | experimental | activity data 3rd law | [O–Sr](https://data.orchid-project.org/systems/O-SR.html) | [1] Risold 1996; _cites ref. 93Ono_ | Table 3, p. 4, row 4 |  |
-| -592.15 kJ/mol (basis unstated) | SrO | 298.15 | experimental | solution cal. | [O–Sr](https://data.orchid-project.org/systems/O-SR.html) | [1] Risold 1996; _cites ref. 90Cor_ | Table 3, p. 4, row 1 |  |
-| -592.15 kJ/mol (basis unstated) | SrO | 298.15 | unspecified |  | [O–Sr](https://data.orchid-project.org/systems/O-SR.html) | [1] Risold 1996 | Table 3, p. 4, row 7 |  |
-| -592.04 kJ/mol (basis unstated) | SrO | 298.15 | unspecified |  | [O–Sr](https://data.orchid-project.org/systems/O-SR.html) | [1] Risold 1996; _cites Chase 1985_ | Table 3, p. 4, row 5 |  |
-| -591.01 kJ/mol (basis unstated) | SrO | 298.15 | unspecified |  | [O–Sr](https://data.orchid-project.org/systems/O-SR.html) | [1] Risold 1996; _cites ref. 94_ | Table 3, p. 4, row 6 |  |
+| -643 kJ/mol (basis unstated) | SrO | 298.15 | experimental | activity data 2nd law | [O–Sr](https://data.orchid-project.org/systems/O-SR.html) | [1] Risold 1996; _cites ref. 93Ono_ | Table 3, p. 4, row 3; `ORC-VSDUSBJZQX` |  |
+| -604.3 kJ/mol (basis unstated) | SrO | 298.15 | experimental | combustion cal. | [O–Sr](https://data.orchid-project.org/systems/O-SR.html) | [1] Risold 1996; _cites Mah 1963_ | Table 3, p. 4, row 2; `ORC-DJGRCWP2VD` |  |
+| -595 kJ/mol (basis unstated) | SrO | 298.15 | experimental | activity data 3rd law | [O–Sr](https://data.orchid-project.org/systems/O-SR.html) | [1] Risold 1996; _cites ref. 93Ono_ | Table 3, p. 4, row 4; `ORC-BDJN7MCYVE` |  |
+| -592.15 kJ/mol (basis unstated) | SrO | 298.15 | experimental | solution cal. | [O–Sr](https://data.orchid-project.org/systems/O-SR.html) | [1] Risold 1996; _cites ref. 90Cor_ | Table 3, p. 4, row 1; `ORC-LZQRI7PQAG` |  |
+| -592.15 kJ/mol (basis unstated) | SrO | 298.15 | unspecified |  | [O–Sr](https://data.orchid-project.org/systems/O-SR.html) | [1] Risold 1996 | Table 3, p. 4, row 7; `ORC-53GBR4CZAV` |  |
+| -592.04 kJ/mol (basis unstated) | SrO | 298.15 | unspecified |  | [O–Sr](https://data.orchid-project.org/systems/O-SR.html) | [1] Risold 1996; _cites Chase 1985_ | Table 3, p. 4, row 5; `ORC-KPLXIURRCH` |  |
+| -591.01 kJ/mol (basis unstated) | SrO | 298.15 | unspecified |  | [O–Sr](https://data.orchid-project.org/systems/O-SR.html) | [1] Risold 1996; _cites ref. 94_ | Table 3, p. 4, row 6; `ORC-UFAUFXD4T5` |  |
 
 ### Uncertainty budget
 
@@ -89,4 +89,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

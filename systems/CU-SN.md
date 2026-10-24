@@ -242,75 +242,75 @@ Table: Invariant reactions reported in the literature for the Cu–Sn system (69
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1072.15 | Fcc-bcc-liquid | Fcc: Sn 0.079; bcc: Sn 0.124; L: Sn 0.162 | model | [1] Miettinen 2002 | Table IV, p. 6, row 3 |  |
-| 1071.15 | Fcc-bcc-liquid | Fcc: Sn 0.077; bcc: Sn 0.131; L: Sn 0.155 | experimental | [1] Miettinen 2002; _cites Raynor 1994_ | Table IV, p. 6, row 1 |  |
-| 1071 | peritectic: α + L \<-> β | α: Sn 0.077; L: Sn 0.155; β: Sn 0.131 | model | [2] Li 2013; _cites Saunders 1994_ | Table 2, p. 6, row 1 |  |
-| 1071 | peritectic: α + L \<-> β | α: Sn 0.086; L: Sn 0.158; β: Sn 0.144 | model | [2] Li 2013 | Table 2, p. 6, row 3 |  |
-| 1071 | peritectic: α + L \<-> β | α: Sn 0.077; L: Sn 0.15; β: Sn 0.126 | experimental | [2] Li 2013 | Table 2, p. 6, row 2 |  |
-| 1070.15 | Fcc-bcc-liquid | Fcc: Sn 0.08; bcc: Sn 0.124; L: Sn 0.162 | model | [1] Miettinen 2002; _cites Shim 1996_ [doi](https://doi.org/10.1515/ijmr-1996-870310) | Table IV, p. 6, row 2 |  |
-| 1040 | peritectic: β + L \<-> γ |  | model | [2] Li 2013 | Table 2, p. 6, row 6 |  |
-| 1031 | peritectic: β + L \<-> γ | β: Sn 0.161; L: Sn 0.187; γ: Sn 0.161 | experimental | [2] Li 2013 | Table 2, p. 6, row 5 |  |
-| 1030.15 | Bcc-γ-liquid | Bcc: Sn 0.149; γ: Sn 0.175; L: Sn 0.203 | model | [1] Miettinen 2002 | Table IV, p. 6, row 6 |  |
-| 1030.15 | Bcc-γ-liquid | Bcc: Sn 0.152; γ: Sn 0.167; L: Sn 0.21 | model | [1] Miettinen 2002; _cites Shim 1996_ [doi](https://doi.org/10.1515/ijmr-1996-870310) | Table IV, p. 6, row 5 |  |
-| 1028.15 | Bcc-γ-liquid | Bcc: Sn 0.158; γ: Sn 0.165; L: Sn 0.191 | experimental | [1] Miettinen 2002; _cites Raynor 1994_ | Table IV, p. 6, row 4 |  |
-| 1028 | peritectic: β + L \<-> γ | β: Sn 0.158; L: Sn 0.191; γ: Sn 0.165 | model | [2] Li 2013; _cites Saunders 1994_ | Table 2, p. 6, row 4 |  |
-| 922 | metatectic/catatectic: γ \<-> ε + L | γ: Sn 0.29; ε: Sn 0.259; L: Sn 0.431 | experimental | [2] Li 2013 | Table 2, p. 6, row 10 |  |
-| 921 | metatectic/catatectic: γ \<-> ε + L | γ: Sn 0.276; ε: Sn 0.25; L: Sn 0.413 | model | [2] Li 2013 | Table 2, p. 6, row 11 |  |
-| 914 | peritectoid: γ + ε \<-> ζ | γ: Sn 0.22; ε: Sn 0.245; ζ: Sn 0.226 | experimental | [2] Li 2013 | Table 2, p. 6, row 13 |  |
-| 914 | peritectoid: γ + ε \<-> ζ | γ: Sn 0.219; ε: Sn 0.25; ζ: Sn 0.231 | model | [2] Li 2013 | Table 2, p. 6, row 14 |  |
-| 913.15 | γ-ε-liquid | γ: Sn 0.259; ε: Sn 0.279; L: Sn 0.431 | experimental | [1] Miettinen 2002; _cites Raynor 1994_ | Table IV, p. 6, row 13 |  |
-| 913.15 | γ-ζ-ε | γ: Sn 0.218; ζ: Sn 0.225; ε: Sn 0.245 | experimental | [1] Miettinen 2002; _cites Raynor 1994_ | Table IV, p. 6, row 10 |  |
-| 913.15 | γ-ζ-ε | γ: Sn 0.219; ζ: Sn 0.231; ε: Sn 0.25 | model | [1] Miettinen 2002 | Table IV, p. 6, row 12 |  |
-| 913.15 | γ-ζ-ε | γ: Sn 0.217; ζ: Sn 0.231; ε: Sn 0.25 | model | [1] Miettinen 2002; _cites Shim 1996_ [doi](https://doi.org/10.1515/ijmr-1996-870310) | Table IV, p. 6, row 11 |  |
-| 913 | peritectoid: γ + ε \<-> ζ | γ: Sn 0.218; ε: Sn 0.245; ζ: Sn 0.225 | model | [2] Li 2013; _cites Saunders 1994_ | Table 2, p. 6, row 12 |  |
-| 913 | metatectic/catatectic: γ \<-> ε + L | γ: Sn 0.279; ε: Sn 0.259; L: Sn 0.431 | model | [2] Li 2013; _cites Saunders 1994_ | Table 2, p. 6, row 9 |  |
-| 912.15 | γ-ε-liquid | γ: Sn 0.25; ε: Sn 0.279; L: Sn 0.41 | model | [1] Miettinen 2002 | Table IV, p. 6, row 15 |  |
-| 912.15 | γ-ε-liquid | γ: Sn 0.25; ε: Sn 0.282; L: Sn 0.425 | model | [1] Miettinen 2002; _cites Shim 1996_ [doi](https://doi.org/10.1515/ijmr-1996-870310) | Table IV, p. 6, row 14 |  |
-| 892 | eutectoid: β \<-> α + γ |  | model | [2] Li 2013 | Table 2, p. 6, row 20 |  |
-| 876 | peritectoid: γ + ζ \<-> δ | γ: Sn 0.203; ζ: Sn 0.216; δ: Sn 0.205 | experimental | [2] Li 2013 | Table 2, p. 6, row 16 |  |
-| 874 | peritectoid: γ + ζ \<-> δ | γ: Sn 0.2; ζ: Sn 0.231; δ: Sn 0.212 | model | [2] Li 2013 | Table 2, p. 6, row 17 |  |
-| 863.15 | γ-δ-ζ | γ: Sn 0.198; δ: Sn 0.203; ζ: Sn 0.209 | experimental | [1] Miettinen 2002; _cites Raynor 1994_ | Table IV, p. 6, row 16 |  |
-| 863.15 | γ-δ-ζ | γ: Sn 0.197; δ: Sn 0.211; ζ: Sn 0.225 | model | [1] Miettinen 2002; _cites Shim 1996_ [doi](https://doi.org/10.1515/ijmr-1996-870310) | Table IV, p. 6, row 17 |  |
-| 863 | peritectoid: γ + ζ \<-> δ | γ: Sn 0.198; ζ: Sn 0.209; δ: Sn 0.203 | model | [2] Li 2013; _cites Saunders 1994_ | Table 2, p. 6, row 15 |  |
-| 862 | eutectoid: ζ \<-> δ + ε | ζ: Sn 0.243; δ: Sn 0.21; ε: Sn 0.245 | experimental | [2] Li 2013 | Table 2, p. 6, row 22 |  |
-| 862 | eutectoid: ζ \<-> δ + ε | ζ: Sn 0.231; δ: Sn 0.212; ε: Sn 0.25 | model | [2] Li 2013 | Table 2, p. 6, row 23 |  |
-| 859.15 | Fcc-bcc-γ | Fcc: Sn 0.091; bcc: Sn 0.149; γ: Sn 0.154 | experimental | [1] Miettinen 2002; _cites Raynor 1994_ | Table IV, p. 6, row 19 |  |
-| 859.15 | Fcc-bcc-γ | Fcc: Sn 0.089; bcc: Sn 0.144; γ: Sn 0.16 | model | [1] Miettinen 2002 | Table IV, p. 6, row 21 |  |
-| 859.15 | γ-δ-ζ | γ: Sn 0.196; δ: Sn 0.211; ζ: Sn 0.225 | model | [1] Miettinen 2002 | Table IV, p. 6, row 18 |  |
-| 859.15 | Fcc-bcc-γ | Fcc: Sn 0.089; bcc: Sn 0.144; γ: Sn 0.159 | model | [1] Miettinen 2002; _cites Shim 1996_ [doi](https://doi.org/10.1515/ijmr-1996-870310) | Table IV, p. 6, row 20 |  |
-| 859 | eutectoid: β \<-> α + γ | β: Sn 0.149; α: Sn 0.091; γ: Sn 0.16 | model | [2] Li 2013; _cites Saunders 1994_ | Table 2, p. 6, row 18 |  |
-| 856.15 | δ-ζ-ε | δ: Sn 0.211; ζ: Sn 0.225; ε: Sn 0.25 | model | [1] Miettinen 2002 | Table IV, p. 6, row 24 |  |
-| 856.15 | δ-ζ-ε | δ: Sn 0.211; ζ: Sn 0.225; ε: Sn 0.25 | model | [1] Miettinen 2002; _cites Shim 1996_ [doi](https://doi.org/10.1515/ijmr-1996-870310) | Table IV, p. 6, row 23 |  |
-| 855.15 | δ-ζ-ε | δ: Sn 0.208; ζ: Sn 0.217; ε: Sn 0.245 | experimental | [1] Miettinen 2002; _cites Raynor 1994_ | Table IV, p. 6, row 22 |  |
-| 855 | eutectoid: ζ \<-> δ + ε | ζ: Sn 0.217; δ: Sn 0.208; ε: Sn 0.245 | model | [2] Li 2013; _cites Saunders 1994_ | Table 2, p. 6, row 21 |  |
-| 839 | eutectoid: β \<-> α + γ | β: Sn 0.165; α: Sn 0.091; γ: Sn 0.165 | experimental | [2] Li 2013 | Table 2, p. 6, row 19 |  |
-| 793.15 | Fcc-γ-δ | Fcc: Sn 0.087; γ: Sn 0.168; δ: Sn 0.211 | model | [1] Miettinen 2002; _cites Shim 1996_ [doi](https://doi.org/10.1515/ijmr-1996-870310) | Table IV, p. 6, row 26 |  |
-| 793.15 | Fcc-γ-δ | Fcc: Sn 0.087; γ: Sn 0.165; δ: Sn 0.211 | model | [1] Miettinen 2002 | Table IV, p. 6, row 27 |  |
-| 793.15 | Fcc-γ-δ | Fcc: Sn 0.091; γ: Sn 0.165; δ: Sn 0.204 | experimental | [1] Miettinen 2002; _cites Raynor 1994_ | Table IV, p. 6, row 25 |  |
-| 793 | eutectoid: γ \<-> α + δ | γ: Sn 0.165; α: Sn 0.091; δ: Sn 0.204 | model | [2] Li 2013; _cites Saunders 1994_ | Table 2, p. 6, row 24 |  |
-| 791 | eutectoid: γ \<-> α + δ | γ: Sn 0.17; α: Sn 0.091; δ: Sn 0.212 | model | [2] Li 2013 | Table 2, p. 6, row 26 |  |
-| 791 | eutectoid: γ \<-> α + δ | γ: Sn 0.175; α: Sn 0.091; δ: Sn 0.206 | experimental | [2] Li 2013 | Table 2, p. 6, row 25 |  |
-| 688.15 | Liquid-ε-η | L: Sn 0.869; ε: Sn 0.25; η: Sn 0.455 | model | [1] Miettinen 2002; _cites Shim 1996_ [doi](https://doi.org/10.1515/ijmr-1996-870310) | Table IV, p. 6, row 29 |  |
-| 688.15 | Liquid-ε-η | L: Sn 0.873; ε: Sn 0.25; η: Sn 0.455 | model | [1] Miettinen 2002 | Table IV, p. 6, row 30 |  |
-| 688.15 | Liquid-ε-η | L: Sn 0.867; ε: Sn 0.249; η: Sn 0.435 | experimental | [1] Miettinen 2002; _cites Raynor 1994_ | Table IV, p. 6, row 28 |  |
-| 688 | peritectoid: ε + L \<-> η | ε: Sn 0.249; L: Sn 0.867; η: Sn 0.435 | model | [2] Li 2013; _cites Saunders 1994_ | Table 2, p. 6, row 27 |  |
-| 685 | peritectoid: ε + L \<-> η | ε: Sn 0.25; L: Sn 0.868; η: Sn 0.455 | model | [2] Li 2013 | Table 2, p. 6, row 29 |  |
-| 681 | peritectoid: ε + L \<-> η | ε: Sn 0.253; L: Sn 0.867; η: Sn 0.446 | experimental | [2] Li 2013 | Table 2, p. 6, row 28 |  |
-| 625 | eutectoid: δ \<-> α + ε | δ: Sn 0.212; α: Sn 0.062; ε: Sn 0.25 | model | [2] Li 2013 | Table 2, p. 6, row 31 |  |
-| 623.15 | Fcc-δ-ε | Fcc: Sn 0.056; δ: Sn 0.211; ε: Sn 0.25 | model | [1] Miettinen 2002; _cites Shim 1996_ [doi](https://doi.org/10.1515/ijmr-1996-870310) | Table IV, p. 6, row 32 |  |
-| 623.15 | Fcc-δ-ε | Fcc: Sn 0.056; δ: Sn 0.211; ε: Sn 0.25 | model | [1] Miettinen 2002 | Table IV, p. 6, row 33 |  |
-| 623.15 | Fcc-δ-ε | Fcc: Sn 0.062; δ: Sn 0.205; ε: Sn 0.245 | experimental | [1] Miettinen 2002; _cites Raynor 1994_ | Table IV, p. 6, row 31 |  |
-| 623 | eutectoid: δ \<-> α + ε | δ: Sn 0.205; α: Sn 0.062; ε: Sn 0.245 | model | [2] Li 2013; _cites Saunders 1994_ | Table 2, p. 6, row 30 |  |
-| 500.15 | eutectic |  | model | [3] Moon 2000; _cites Massalski 1990_ | p. 10 | “Various evaluations of the experimental data of the Cu-Sn binary system agree on the temperature (227°C) for the Sn-rich eutectic but give two different compositions: 0.9 wt.% Cu and 0.7 wt.% Cu in the two editions of Binary Alloy Phase Diagrams.19” |
-| 500.15 | Liquid-η-Sn | L: Sn 0.983; η: Sn 0.455; Sn: Sn 1 | model | [1] Miettinen 2002 | Table IV, p. 6, row 36 |  |
-| 500.15 | Liquid-η-Sn | L: Sn 0.987; η: Sn 0.455; Sn: Sn 1 | experimental | [1] Miettinen 2002; _cites Raynor 1994_ | Table IV, p. 6, row 34 |  |
-| 500.15 | Liquid-η-Sn | L: Sn 0.984; η: Sn 0.455; Sn: Sn 1 | model | [1] Miettinen 2002; _cites Shim 1996_ [doi](https://doi.org/10.1515/ijmr-1996-870310) | Table IV, p. 6, row 35 |  |
-| 500 | eutectic: L \<-> η + (Sn) | L: Sn 0.987; η: Sn 0.455; (Sn): Sn 1 | model | [2] Li 2013; _cites Saunders 1994_ | Table 2, p. 6, row 32 |  |
-| 498 | eutectic: L \<-> η + (Sn) | L: Sn 0.979; η: Sn 0.455; (Sn): Sn 0.999 | model | [2] Li 2013 | Table 2, p. 6, row 33 |  |
-| 462 | peritectoid: ε + η \<-> η' | η: Sn 0.454545; η': Sn 0.455 | model | [2] Li 2013; _cites Saunders 1994_ | Table 2, p. 6, row 34 |  |
-| 461 | peritectoid: ε + η \<-> η' | ε: Sn 0.25; η: Sn 0.455; η': Sn 0.454 | model | [2] Li 2013 | Table 2, p. 6, row 35 |  |
-| 461 | eutectoid: η \<-> η' + (Sn) | η: Sn 0.454545; η': Sn 0.455 | model | [2] Li 2013; _cites Saunders 1994_ | Table 2, p. 6, row 36 |  |
-| 459 | eutectoid: η \<-> η' + (Sn) | η: Sn 0.455; η': Sn 0.455; (Sn): Sn 1 | model | [2] Li 2013 | Table 2, p. 6, row 37 |  |
+| 1072.15 | Fcc-bcc-liquid | Fcc: Sn 0.079; bcc: Sn 0.124; L: Sn 0.162 | model | [1] Miettinen 2002 | Table IV, p. 6, row 3; `ORC-YUJD2QNYPK` |  |
+| 1071.15 | Fcc-bcc-liquid | Fcc: Sn 0.077; bcc: Sn 0.131; L: Sn 0.155 | experimental | [1] Miettinen 2002; _cites Raynor 1994_ | Table IV, p. 6, row 1; `ORC-RCUI47LTAX` |  |
+| 1071 | peritectic: α + L \<-> β | α: Sn 0.077; L: Sn 0.155; β: Sn 0.131 | model | [2] Li 2013; _cites Saunders 1994_ | Table 2, p. 6, row 1; `ORC-NT5GXNXETX` |  |
+| 1071 | peritectic: α + L \<-> β | α: Sn 0.086; L: Sn 0.158; β: Sn 0.144 | model | [2] Li 2013 | Table 2, p. 6, row 3; `ORC-PPADZ72HVX` |  |
+| 1071 | peritectic: α + L \<-> β | α: Sn 0.077; L: Sn 0.15; β: Sn 0.126 | experimental | [2] Li 2013 | Table 2, p. 6, row 2; `ORC-ZWOCYFQVHU` |  |
+| 1070.15 | Fcc-bcc-liquid | Fcc: Sn 0.08; bcc: Sn 0.124; L: Sn 0.162 | model | [1] Miettinen 2002; _cites Shim 1996_ [doi](https://doi.org/10.1515/ijmr-1996-870310) | Table IV, p. 6, row 2; `ORC-6CEUUSEW3F` |  |
+| 1040 | peritectic: β + L \<-> γ |  | model | [2] Li 2013 | Table 2, p. 6, row 6; `ORC-UUWR5NOB27` |  |
+| 1031 | peritectic: β + L \<-> γ | β: Sn 0.161; L: Sn 0.187; γ: Sn 0.161 | experimental | [2] Li 2013 | Table 2, p. 6, row 5; `ORC-D3Y5HHGAEN` |  |
+| 1030.15 | Bcc-γ-liquid | Bcc: Sn 0.149; γ: Sn 0.175; L: Sn 0.203 | model | [1] Miettinen 2002 | Table IV, p. 6, row 6; `ORC-7F3CZ5D42T` |  |
+| 1030.15 | Bcc-γ-liquid | Bcc: Sn 0.152; γ: Sn 0.167; L: Sn 0.21 | model | [1] Miettinen 2002; _cites Shim 1996_ [doi](https://doi.org/10.1515/ijmr-1996-870310) | Table IV, p. 6, row 5; `ORC-S4Q7NSG54N` |  |
+| 1028.15 | Bcc-γ-liquid | Bcc: Sn 0.158; γ: Sn 0.165; L: Sn 0.191 | experimental | [1] Miettinen 2002; _cites Raynor 1994_ | Table IV, p. 6, row 4; `ORC-DC655CDVSG` |  |
+| 1028 | peritectic: β + L \<-> γ | β: Sn 0.158; L: Sn 0.191; γ: Sn 0.165 | model | [2] Li 2013; _cites Saunders 1994_ | Table 2, p. 6, row 4; `ORC-V23FWKI6QI` |  |
+| 922 | metatectic/catatectic: γ \<-> ε + L | γ: Sn 0.29; ε: Sn 0.259; L: Sn 0.431 | experimental | [2] Li 2013 | Table 2, p. 6, row 10; `ORC-M2IJOXVV35` |  |
+| 921 | metatectic/catatectic: γ \<-> ε + L | γ: Sn 0.276; ε: Sn 0.25; L: Sn 0.413 | model | [2] Li 2013 | Table 2, p. 6, row 11; `ORC-L2CZYSB2YV` |  |
+| 914 | peritectoid: γ + ε \<-> ζ | γ: Sn 0.22; ε: Sn 0.245; ζ: Sn 0.226 | experimental | [2] Li 2013 | Table 2, p. 6, row 13; `ORC-OQ7EZMOE6J` |  |
+| 914 | peritectoid: γ + ε \<-> ζ | γ: Sn 0.219; ε: Sn 0.25; ζ: Sn 0.231 | model | [2] Li 2013 | Table 2, p. 6, row 14; `ORC-QW2U2ZY5SK` |  |
+| 913.15 | γ-ε-liquid | γ: Sn 0.259; ε: Sn 0.279; L: Sn 0.431 | experimental | [1] Miettinen 2002; _cites Raynor 1994_ | Table IV, p. 6, row 13; `ORC-G2A2IB6XOL` |  |
+| 913.15 | γ-ζ-ε | γ: Sn 0.218; ζ: Sn 0.225; ε: Sn 0.245 | experimental | [1] Miettinen 2002; _cites Raynor 1994_ | Table IV, p. 6, row 10; `ORC-RC23HBHO6E` |  |
+| 913.15 | γ-ζ-ε | γ: Sn 0.219; ζ: Sn 0.231; ε: Sn 0.25 | model | [1] Miettinen 2002 | Table IV, p. 6, row 12; `ORC-YG6VPWF27S` |  |
+| 913.15 | γ-ζ-ε | γ: Sn 0.217; ζ: Sn 0.231; ε: Sn 0.25 | model | [1] Miettinen 2002; _cites Shim 1996_ [doi](https://doi.org/10.1515/ijmr-1996-870310) | Table IV, p. 6, row 11; `ORC-YKPFQXVNER` |  |
+| 913 | peritectoid: γ + ε \<-> ζ | γ: Sn 0.218; ε: Sn 0.245; ζ: Sn 0.225 | model | [2] Li 2013; _cites Saunders 1994_ | Table 2, p. 6, row 12; `ORC-YFUG34FOAY` |  |
+| 913 | metatectic/catatectic: γ \<-> ε + L | γ: Sn 0.279; ε: Sn 0.259; L: Sn 0.431 | model | [2] Li 2013; _cites Saunders 1994_ | Table 2, p. 6, row 9; `ORC-ZNHUMG4RT5` |  |
+| 912.15 | γ-ε-liquid | γ: Sn 0.25; ε: Sn 0.279; L: Sn 0.41 | model | [1] Miettinen 2002 | Table IV, p. 6, row 15; `ORC-442CGXCSXZ` |  |
+| 912.15 | γ-ε-liquid | γ: Sn 0.25; ε: Sn 0.282; L: Sn 0.425 | model | [1] Miettinen 2002; _cites Shim 1996_ [doi](https://doi.org/10.1515/ijmr-1996-870310) | Table IV, p. 6, row 14; `ORC-LXK76BEMAJ` |  |
+| 892 | eutectoid: β \<-> α + γ |  | model | [2] Li 2013 | Table 2, p. 6, row 20; `ORC-XWAICZWDIE` |  |
+| 876 | peritectoid: γ + ζ \<-> δ | γ: Sn 0.203; ζ: Sn 0.216; δ: Sn 0.205 | experimental | [2] Li 2013 | Table 2, p. 6, row 16; `ORC-WWC7PUXCXT` |  |
+| 874 | peritectoid: γ + ζ \<-> δ | γ: Sn 0.2; ζ: Sn 0.231; δ: Sn 0.212 | model | [2] Li 2013 | Table 2, p. 6, row 17; `ORC-IX4B3NSIAK` |  |
+| 863.15 | γ-δ-ζ | γ: Sn 0.198; δ: Sn 0.203; ζ: Sn 0.209 | experimental | [1] Miettinen 2002; _cites Raynor 1994_ | Table IV, p. 6, row 16; `ORC-5VIJ7J7CVD` |  |
+| 863.15 | γ-δ-ζ | γ: Sn 0.197; δ: Sn 0.211; ζ: Sn 0.225 | model | [1] Miettinen 2002; _cites Shim 1996_ [doi](https://doi.org/10.1515/ijmr-1996-870310) | Table IV, p. 6, row 17; `ORC-NMOIQPFL5B` |  |
+| 863 | peritectoid: γ + ζ \<-> δ | γ: Sn 0.198; ζ: Sn 0.209; δ: Sn 0.203 | model | [2] Li 2013; _cites Saunders 1994_ | Table 2, p. 6, row 15; `ORC-JONUCSMPXX` |  |
+| 862 | eutectoid: ζ \<-> δ + ε | ζ: Sn 0.243; δ: Sn 0.21; ε: Sn 0.245 | experimental | [2] Li 2013 | Table 2, p. 6, row 22; `ORC-2YEBZ4EDKU` |  |
+| 862 | eutectoid: ζ \<-> δ + ε | ζ: Sn 0.231; δ: Sn 0.212; ε: Sn 0.25 | model | [2] Li 2013 | Table 2, p. 6, row 23; `ORC-ZHGXMYRBCC` |  |
+| 859.15 | Fcc-bcc-γ | Fcc: Sn 0.091; bcc: Sn 0.149; γ: Sn 0.154 | experimental | [1] Miettinen 2002; _cites Raynor 1994_ | Table IV, p. 6, row 19; `ORC-36ON32FBOO` |  |
+| 859.15 | Fcc-bcc-γ | Fcc: Sn 0.089; bcc: Sn 0.144; γ: Sn 0.16 | model | [1] Miettinen 2002 | Table IV, p. 6, row 21; `ORC-RBBCVAPFKX.130876` |  |
+| 859.15 | γ-δ-ζ | γ: Sn 0.196; δ: Sn 0.211; ζ: Sn 0.225 | model | [1] Miettinen 2002 | Table IV, p. 6, row 18; `ORC-RBBCVAPFKX.4a6c18` |  |
+| 859.15 | Fcc-bcc-γ | Fcc: Sn 0.089; bcc: Sn 0.144; γ: Sn 0.159 | model | [1] Miettinen 2002; _cites Shim 1996_ [doi](https://doi.org/10.1515/ijmr-1996-870310) | Table IV, p. 6, row 20; `ORC-TNANNIDSL5` |  |
+| 859 | eutectoid: β \<-> α + γ | β: Sn 0.149; α: Sn 0.091; γ: Sn 0.16 | model | [2] Li 2013; _cites Saunders 1994_ | Table 2, p. 6, row 18; `ORC-KGPKFVXYAL` |  |
+| 856.15 | δ-ζ-ε | δ: Sn 0.211; ζ: Sn 0.225; ε: Sn 0.25 | model | [1] Miettinen 2002 | Table IV, p. 6, row 24; `ORC-4NDX3SJKG3` |  |
+| 856.15 | δ-ζ-ε | δ: Sn 0.211; ζ: Sn 0.225; ε: Sn 0.25 | model | [1] Miettinen 2002; _cites Shim 1996_ [doi](https://doi.org/10.1515/ijmr-1996-870310) | Table IV, p. 6, row 23; `ORC-GPSS4CDV3B` |  |
+| 855.15 | δ-ζ-ε | δ: Sn 0.208; ζ: Sn 0.217; ε: Sn 0.245 | experimental | [1] Miettinen 2002; _cites Raynor 1994_ | Table IV, p. 6, row 22; `ORC-U5DFG7BXTZ` |  |
+| 855 | eutectoid: ζ \<-> δ + ε | ζ: Sn 0.217; δ: Sn 0.208; ε: Sn 0.245 | model | [2] Li 2013; _cites Saunders 1994_ | Table 2, p. 6, row 21; `ORC-RL3YYS4TZP` |  |
+| 839 | eutectoid: β \<-> α + γ | β: Sn 0.165; α: Sn 0.091; γ: Sn 0.165 | experimental | [2] Li 2013 | Table 2, p. 6, row 19; `ORC-VORUVLYXNK` |  |
+| 793.15 | Fcc-γ-δ | Fcc: Sn 0.087; γ: Sn 0.168; δ: Sn 0.211 | model | [1] Miettinen 2002; _cites Shim 1996_ [doi](https://doi.org/10.1515/ijmr-1996-870310) | Table IV, p. 6, row 26; `ORC-AFLFHATM3C` |  |
+| 793.15 | Fcc-γ-δ | Fcc: Sn 0.087; γ: Sn 0.165; δ: Sn 0.211 | model | [1] Miettinen 2002 | Table IV, p. 6, row 27; `ORC-OKXCVRMXZW` |  |
+| 793.15 | Fcc-γ-δ | Fcc: Sn 0.091; γ: Sn 0.165; δ: Sn 0.204 | experimental | [1] Miettinen 2002; _cites Raynor 1994_ | Table IV, p. 6, row 25; `ORC-ZV7P52AFLA` |  |
+| 793 | eutectoid: γ \<-> α + δ | γ: Sn 0.165; α: Sn 0.091; δ: Sn 0.204 | model | [2] Li 2013; _cites Saunders 1994_ | Table 2, p. 6, row 24; `ORC-3OIPQEZZUW` |  |
+| 791 | eutectoid: γ \<-> α + δ | γ: Sn 0.17; α: Sn 0.091; δ: Sn 0.212 | model | [2] Li 2013 | Table 2, p. 6, row 26; `ORC-OJ6OH43GOZ` |  |
+| 791 | eutectoid: γ \<-> α + δ | γ: Sn 0.175; α: Sn 0.091; δ: Sn 0.206 | experimental | [2] Li 2013 | Table 2, p. 6, row 25; `ORC-SPZGU7U272` |  |
+| 688.15 | Liquid-ε-η | L: Sn 0.869; ε: Sn 0.25; η: Sn 0.455 | model | [1] Miettinen 2002; _cites Shim 1996_ [doi](https://doi.org/10.1515/ijmr-1996-870310) | Table IV, p. 6, row 29; `ORC-MEPRC3SCWT` |  |
+| 688.15 | Liquid-ε-η | L: Sn 0.873; ε: Sn 0.25; η: Sn 0.455 | model | [1] Miettinen 2002 | Table IV, p. 6, row 30; `ORC-RIX6K5NUVP` |  |
+| 688.15 | Liquid-ε-η | L: Sn 0.867; ε: Sn 0.249; η: Sn 0.435 | experimental | [1] Miettinen 2002; _cites Raynor 1994_ | Table IV, p. 6, row 28; `ORC-ZC2Q5QDWJR` |  |
+| 688 | peritectoid: ε + L \<-> η | ε: Sn 0.249; L: Sn 0.867; η: Sn 0.435 | model | [2] Li 2013; _cites Saunders 1994_ | Table 2, p. 6, row 27; `ORC-5Q4Z4K4WPB` |  |
+| 685 | peritectoid: ε + L \<-> η | ε: Sn 0.25; L: Sn 0.868; η: Sn 0.455 | model | [2] Li 2013 | Table 2, p. 6, row 29; `ORC-VEK5U3CFRZ` |  |
+| 681 | peritectoid: ε + L \<-> η | ε: Sn 0.253; L: Sn 0.867; η: Sn 0.446 | experimental | [2] Li 2013 | Table 2, p. 6, row 28; `ORC-CEBLLGC2QC` |  |
+| 625 | eutectoid: δ \<-> α + ε | δ: Sn 0.212; α: Sn 0.062; ε: Sn 0.25 | model | [2] Li 2013 | Table 2, p. 6, row 31; `ORC-7VRLWFW7UB` |  |
+| 623.15 | Fcc-δ-ε | Fcc: Sn 0.056; δ: Sn 0.211; ε: Sn 0.25 | model | [1] Miettinen 2002; _cites Shim 1996_ [doi](https://doi.org/10.1515/ijmr-1996-870310) | Table IV, p. 6, row 32; `ORC-AYJ4FASZVV` |  |
+| 623.15 | Fcc-δ-ε | Fcc: Sn 0.056; δ: Sn 0.211; ε: Sn 0.25 | model | [1] Miettinen 2002 | Table IV, p. 6, row 33; `ORC-KNJOINWPN5` |  |
+| 623.15 | Fcc-δ-ε | Fcc: Sn 0.062; δ: Sn 0.205; ε: Sn 0.245 | experimental | [1] Miettinen 2002; _cites Raynor 1994_ | Table IV, p. 6, row 31; `ORC-PQRL42YYBC` |  |
+| 623 | eutectoid: δ \<-> α + ε | δ: Sn 0.205; α: Sn 0.062; ε: Sn 0.245 | model | [2] Li 2013; _cites Saunders 1994_ | Table 2, p. 6, row 30; `ORC-QXFZQW2VFC` |  |
+| 500.15 | eutectic |  | model | [3] Moon 2000; _cites Massalski 1990_ | p. 10; `ORC-FUGZU2UPIY.4d9f2d` | “Various evaluations of the experimental data of the Cu-Sn binary system agree on the temperature (227°C) for the Sn-rich eutectic but give two different compositions: 0.9 wt.% Cu and 0.7 wt.% Cu in the two editions of Binary Alloy Phase Diagrams.19” |
+| 500.15 | Liquid-η-Sn | L: Sn 0.983; η: Sn 0.455; Sn: Sn 1 | model | [1] Miettinen 2002 | Table IV, p. 6, row 36; `ORC-H7BEJ3NQKG` |  |
+| 500.15 | Liquid-η-Sn | L: Sn 0.987; η: Sn 0.455; Sn: Sn 1 | experimental | [1] Miettinen 2002; _cites Raynor 1994_ | Table IV, p. 6, row 34; `ORC-QPVGLARUSI` |  |
+| 500.15 | Liquid-η-Sn | L: Sn 0.984; η: Sn 0.455; Sn: Sn 1 | model | [1] Miettinen 2002; _cites Shim 1996_ [doi](https://doi.org/10.1515/ijmr-1996-870310) | Table IV, p. 6, row 35; `ORC-UKKLFQGRE4` |  |
+| 500 | eutectic: L \<-> η + (Sn) | L: Sn 0.987; η: Sn 0.455; (Sn): Sn 1 | model | [2] Li 2013; _cites Saunders 1994_ | Table 2, p. 6, row 32; `ORC-QCXNYHQXTQ` |  |
+| 498 | eutectic: L \<-> η + (Sn) | L: Sn 0.979; η: Sn 0.455; (Sn): Sn 0.999 | model | [2] Li 2013 | Table 2, p. 6, row 33; `ORC-DSQDSNGGVV` |  |
+| 462 | peritectoid: ε + η \<-> η' | η: Sn 0.454545; η': Sn 0.455 | model | [2] Li 2013; _cites Saunders 1994_ | Table 2, p. 6, row 34; `ORC-QQJWXAXP6L` |  |
+| 461 | peritectoid: ε + η \<-> η' | ε: Sn 0.25; η: Sn 0.455; η': Sn 0.454 | model | [2] Li 2013 | Table 2, p. 6, row 35; `ORC-W7PQRTC5DG` |  |
+| 461 | eutectoid: η \<-> η' + (Sn) | η: Sn 0.454545; η': Sn 0.455 | model | [2] Li 2013; _cites Saunders 1994_ | Table 2, p. 6, row 36; `ORC-ZF4OBX3ZRH` |  |
+| 459 | eutectoid: η \<-> η' + (Sn) | η: Sn 0.455; η': Sn 0.455; (Sn): Sn 1 | model | [2] Li 2013 | Table 2, p. 6, row 37; `ORC-GZVUIBRKGT` |  |
 
 ## Formation enthalpies
 
@@ -320,20 +320,20 @@ Table: Enthalpies of formation, Cu–Sn system (14)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| δ (Cu41Sn11) | [Cu41Sn11](https://data.orchid-project.org/compounds/Cu41Sn11.html) | -6.116 kJ/mol-atom | 723 | model | 1.696 (mp-aaacrbeg) |  | [2] Li 2013 | Table 3, p. 8, row 4 |  |
-| δ (Cu41Sn11) | [Cu41Sn11](https://data.orchid-project.org/compounds/Cu41Sn11.html) | -5.7 kJ/mol-atom | 298.15 | experimental | 1.696 (mp-aaacrbeg) |  | [2] Li 2013; _cites Flandorfer 2007_ [doi](https://doi.org/10.1016/j.tca.2007.04.004) | Table 3, p. 8, row 3 |  |
-| δ (Cu41Sn11) | [Cu41Sn11](https://data.orchid-project.org/compounds/Cu41Sn11.html) | -5.205 kJ/mol-atom | 723 | experimental | 1.696 (mp-aaacrbeg) |  | [2] Li 2013; _cites Hultgren 1973_ | Table 3, p. 8, row 2 |  |
-| δ (Cu41Sn11) | [Cu41Sn11](https://data.orchid-project.org/compounds/Cu41Sn11.html) | -4.99 kJ/mol-atom | 723 | experimental | 1.696 (mp-aaacrbeg) |  | [2] Li 2013; _cites Kleppa 1956_ [doi](https://doi.org/10.1021/j150541a003) | Table 3, p. 8, row 1 |  |
-| ε (Cu3Sn) | [Cu3Sn](https://data.orchid-project.org/compounds/Cu3Sn.html) | -8.368 kJ/mol-atom | 293 | experimental | 0.024 (mp-aaaaatli) | -2.629 (oqmd-2046398) | [2] Li 2013; _cites Biltz 1924_ [doi](https://doi.org/10.1002/zaac.19241340104) | Table 3, p. 8, row 5 |  |
-| ε (Cu3Sn) | [Cu3Sn](https://data.orchid-project.org/compounds/Cu3Sn.html) | -8.2 kJ/mol-atom | 298.15 | experimental | 0.024 (mp-aaaaatli) | -2.629 (oqmd-2046398) | [2] Li 2013; _cites Flandorfer 2007_ [doi](https://doi.org/10.1016/j.tca.2007.04.004) | Table 3, p. 8, row 9 |  |
-| ε (Cu3Sn) | [Cu3Sn](https://data.orchid-project.org/compounds/Cu3Sn.html) | -8.113 kJ/mol-atom | 723 | model | 0.024 (mp-aaaaatli) | -2.629 (oqmd-2046398) | [2] Li 2013 | Table 3, p. 8, row 10 |  |
-| ε (Cu3Sn) | [Cu3Sn](https://data.orchid-project.org/compounds/Cu3Sn.html) | -7.824 kJ/mol-atom | 273 | experimental | 0.024 (mp-aaaaatli) | -2.629 (oqmd-2046398) | [2] Li 2013; _cites Cohen 1954_ | Table 3, p. 8, row 6 |  |
-| ε (Cu3Sn) | [Cu3Sn](https://data.orchid-project.org/compounds/Cu3Sn.html) | -7.777 kJ/mol-atom | 723 | experimental | 0.024 (mp-aaaaatli) | -2.629 (oqmd-2046398) | [2] Li 2013; _cites Kleppa 1956_ [doi](https://doi.org/10.1021/j150541a003) | Table 3, p. 8, row 7 |  |
-| ε (Cu3Sn) | [Cu3Sn](https://data.orchid-project.org/compounds/Cu3Sn.html) | -7.531 kJ/mol-atom | 723 | experimental | 0.024 (mp-aaaaatli) | -2.629 (oqmd-2046398) | [2] Li 2013; _cites Hultgren 1973_ | Table 3, p. 8, row 8 |  |
-| η (Cu6Sn5_H) | [Cu6Sn5](https://data.orchid-project.org/compounds/Cu6Sn5.html) | -6.6 kJ/mol-atom | 298.15 | model | -1.267 (mp-aaaaabvl) | -5.877 (oqmd-18303) | [2] Li 2013 | Table 3, p. 8, row 14 |  |
-| η (Cu6Sn5_H) | [Cu6Sn5](https://data.orchid-project.org/compounds/Cu6Sn5.html) | -6.1 kJ/mol-atom | 298.15 | experimental | -1.267 (mp-aaaaabvl) | -5.877 (oqmd-18303) | [2] Li 2013; _cites Flandorfer 2007_ [doi](https://doi.org/10.1016/j.tca.2007.04.004) | Table 3, p. 8, row 13 |  |
-| η' (Cu6Sn5_L) | [Cu6Sn5](https://data.orchid-project.org/compounds/Cu6Sn5.html) | -7.13 kJ/mol-atom | 273 | model | -1.267 (mp-aaaaabvl) | -5.877 (oqmd-18303) | [2] Li 2013 | Table 3, p. 8, row 12 |  |
-| η′ (Cu6Sn5_L) | [Cu6Sn5](https://data.orchid-project.org/compounds/Cu6Sn5.html) | -7.033 kJ/mol-atom | 273 | experimental | -1.267 (mp-aaaaabvl) | -5.877 (oqmd-18303) | [2] Li 2013; _cites Gangulee 1973_ [doi](https://doi.org/10.1007/bf02643268) | Table 3, p. 8, row 11 |  |
+| δ (Cu41Sn11) | [Cu41Sn11](https://data.orchid-project.org/compounds/Cu41Sn11.html) | -6.116 kJ/mol-atom | 723 | model | 1.696 (mp-aaacrbeg) |  | [2] Li 2013 | Table 3, p. 8, row 4; `ORC-ICTETVOAFE` |  |
+| δ (Cu41Sn11) | [Cu41Sn11](https://data.orchid-project.org/compounds/Cu41Sn11.html) | -5.7 kJ/mol-atom | 298.15 | experimental | 1.696 (mp-aaacrbeg) |  | [2] Li 2013; _cites Flandorfer 2007_ [doi](https://doi.org/10.1016/j.tca.2007.04.004) | Table 3, p. 8, row 3; `ORC-BZ2XTPWVKN` |  |
+| δ (Cu41Sn11) | [Cu41Sn11](https://data.orchid-project.org/compounds/Cu41Sn11.html) | -5.205 kJ/mol-atom | 723 | experimental | 1.696 (mp-aaacrbeg) |  | [2] Li 2013; _cites Hultgren 1973_ | Table 3, p. 8, row 2; `ORC-XMQX5DVICF` |  |
+| δ (Cu41Sn11) | [Cu41Sn11](https://data.orchid-project.org/compounds/Cu41Sn11.html) | -4.99 kJ/mol-atom | 723 | experimental | 1.696 (mp-aaacrbeg) |  | [2] Li 2013; _cites Kleppa 1956_ [doi](https://doi.org/10.1021/j150541a003) | Table 3, p. 8, row 1; `ORC-TVSABOSBAW` |  |
+| ε (Cu3Sn) | [Cu3Sn](https://data.orchid-project.org/compounds/Cu3Sn.html) | -8.368 kJ/mol-atom | 293 | experimental | 0.024 (mp-aaaaatli) | -2.629 (oqmd-2046398) | [2] Li 2013; _cites Biltz 1924_ [doi](https://doi.org/10.1002/zaac.19241340104) | Table 3, p. 8, row 5; `ORC-MU5BC7WIKG` |  |
+| ε (Cu3Sn) | [Cu3Sn](https://data.orchid-project.org/compounds/Cu3Sn.html) | -8.2 kJ/mol-atom | 298.15 | experimental | 0.024 (mp-aaaaatli) | -2.629 (oqmd-2046398) | [2] Li 2013; _cites Flandorfer 2007_ [doi](https://doi.org/10.1016/j.tca.2007.04.004) | Table 3, p. 8, row 9; `ORC-H7SZMN4I55` |  |
+| ε (Cu3Sn) | [Cu3Sn](https://data.orchid-project.org/compounds/Cu3Sn.html) | -8.113 kJ/mol-atom | 723 | model | 0.024 (mp-aaaaatli) | -2.629 (oqmd-2046398) | [2] Li 2013 | Table 3, p. 8, row 10; `ORC-GJK3AQYWRW` |  |
+| ε (Cu3Sn) | [Cu3Sn](https://data.orchid-project.org/compounds/Cu3Sn.html) | -7.824 kJ/mol-atom | 273 | experimental | 0.024 (mp-aaaaatli) | -2.629 (oqmd-2046398) | [2] Li 2013; _cites Cohen 1954_ | Table 3, p. 8, row 6; `ORC-WGXLH6NIDN` |  |
+| ε (Cu3Sn) | [Cu3Sn](https://data.orchid-project.org/compounds/Cu3Sn.html) | -7.777 kJ/mol-atom | 723 | experimental | 0.024 (mp-aaaaatli) | -2.629 (oqmd-2046398) | [2] Li 2013; _cites Kleppa 1956_ [doi](https://doi.org/10.1021/j150541a003) | Table 3, p. 8, row 7; `ORC-W6EBAPUDE2` |  |
+| ε (Cu3Sn) | [Cu3Sn](https://data.orchid-project.org/compounds/Cu3Sn.html) | -7.531 kJ/mol-atom | 723 | experimental | 0.024 (mp-aaaaatli) | -2.629 (oqmd-2046398) | [2] Li 2013; _cites Hultgren 1973_ | Table 3, p. 8, row 8; `ORC-ICLIQQQEVE` |  |
+| η (Cu6Sn5_H) | [Cu6Sn5](https://data.orchid-project.org/compounds/Cu6Sn5.html) | -6.6 kJ/mol-atom | 298.15 | model | -1.267 (mp-aaaaabvl) | -5.877 (oqmd-18303) | [2] Li 2013 | Table 3, p. 8, row 14; `ORC-VSGDM37AYX` |  |
+| η (Cu6Sn5_H) | [Cu6Sn5](https://data.orchid-project.org/compounds/Cu6Sn5.html) | -6.1 kJ/mol-atom | 298.15 | experimental | -1.267 (mp-aaaaabvl) | -5.877 (oqmd-18303) | [2] Li 2013; _cites Flandorfer 2007_ [doi](https://doi.org/10.1016/j.tca.2007.04.004) | Table 3, p. 8, row 13; `ORC-JWABTMIMVE` |  |
+| η' (Cu6Sn5_L) | [Cu6Sn5](https://data.orchid-project.org/compounds/Cu6Sn5.html) | -7.13 kJ/mol-atom | 273 | model | -1.267 (mp-aaaaabvl) | -5.877 (oqmd-18303) | [2] Li 2013 | Table 3, p. 8, row 12; `ORC-77B5M2I2C6.36f0d3` |  |
+| η′ (Cu6Sn5_L) | [Cu6Sn5](https://data.orchid-project.org/compounds/Cu6Sn5.html) | -7.033 kJ/mol-atom | 273 | experimental | -1.267 (mp-aaaaabvl) | -5.877 (oqmd-18303) | [2] Li 2013; _cites Gangulee 1973_ [doi](https://doi.org/10.1007/bf02643268) | Table 3, p. 8, row 11; `ORC-56BYOR4HWG.87c2a1` |  |
 
 ## Other properties
 
@@ -343,33 +343,33 @@ Table: Phase transition, Cu–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 624.15 K | 624.15 | other | model | [4] Dong 2014; _cites Li 2013_ [doi](https://doi.org/10.1016/j.intermet.2012.10.010) | p. 2 | “Furthermore, the parameter of Cu41Sn11 was modified on the basis of the work of \[12\], since the decomposition temperature of Cu41Sn11 was estimated to be at 351 °C in \[12\] while this phase was found to be unstable lower than 380 °C in Au-Cu-Sn ternary system \[16\].” |
-| Phase transition | 653.15 K | 653.15 | other | experimental | [4] Dong 2014; _cites Karlsen 1992_ [doi](https://doi.org/10.3891/acta.chem.scand.46-0147) | p. 8 | “The thermodynamic parameters of Cu41Sn11 were adapted to fit the experimentally determined decomposition temperature \[16\], i.e. 380 °C, instead of the temperature (i.e. at around 350 °C) adopted in the previous assessment papers \[7-12\].” |
-| Phase transition | 787.15 K | 787.15 | other: First-Order Transition; _alloy: Cu 0.801, Sn 0.199_ | experimental | [5] Liu 2004 | Table II, p. 5, row 12 |  |
-| Phase transition | 787.15 K | 787.15 | other: First-Order Transition; _alloy: Cu 0.831, Sn 0.169_ | experimental | [5] Liu 2004 | Table II, p. 5, row 8 |  |
-| Phase transition | 788.15 K | 788.15 | other: First-Order Transition; _alloy: Cu 0.847, Sn 0.153_ | experimental | [5] Liu 2004 | Table II, p. 5, row 4 |  |
-| Phase transition | 788.15 K | 788.15 | other: First-Order Transition; _alloy: Cu 0.88, Sn 0.12_ | experimental | [5] Liu 2004 | Table II, p. 5, row 2 |  |
-| Phase transition | 788.15 K | 788.15 | other: ␥ (D03) 4 ␣(fcc) ⫹ ␦ | experimental | [5] Liu 2004 | p. 5 | “In order to confirm the absence of the ␤ 4 ␣ ⫹ ␥ reaction, a DSC experiment for the Cu-12 at. pct Sn alloy was carried out, and the DSC result is shown in Figure 5, in which two endothermic peaks with different characteristics are observed at 515 °C and 574 °C, respectively. It is seen that the peak at 515 °C has the feature of an invariant reaction and corresponds to the invariant reaction ␥ (D0…” |
-| Phase transition | 847.15 K | 847.15 | other | experimental | [5] Liu 2004 | p. 5 | “In order to confirm the absence of the ␤ 4 ␣ ⫹ ␥ reaction, a DSC experiment for the Cu-12 at. pct Sn alloy was carried out, and the DSC result is shown in Figure 5, in which two endothermic peaks with different characteristics are observed at 515 °C and 574 °C, respectively. It is seen that the peak at 515 °C has the feature of an invariant reaction and corresponds to the invariant reaction ␥ (D0…” |
-| Phase transition | 847.15 K | 847.15 | other: B2/D0_3 Second-Order Transition; _alloy: Cu 0.88, Sn 0.12_ | experimental | [5] Liu 2004 | Table II, p. 5, row 1 |  |
-| Phase transition | 848.15 K | 848.15 | other: First-Order Transition; _alloy: Cu 0.831, Sn 0.169_ | experimental | [5] Liu 2004 | Table II, p. 5, row 9 |  |
-| Phase transition | 893.15 K | 893.15 | other: First-Order Transition; _alloy: Cu 0.801, Sn 0.199_ | experimental | [5] Liu 2004 | Table II, p. 5, row 13 |  |
-| Phase transition | 922.15 K | 922.15 |  | model | [5] Liu 2004 | p. 4 | “Figure 3 shows the DSC trace for the Cu-16.9 at. pct Sn alloy. An endothermic peak is observed at 649 °C, which is deduced to be the B2/D03 ordering-transition temperature on the basis of following corroborating evidences.” |
-| Phase transition | 922.15 K | 922.15 | other: B2/D0_3 Second-Order Transition; _alloy: Cu 0.831, Sn 0.169_ | experimental | [5] Liu 2004 | Table II, p. 5, row 7 |  |
-| Phase transition | 923.15 K | 923.15 | other: First-Order Transition; _alloy: Cu 0.777, Sn 0.223_ | experimental | [5] Liu 2004 | Table II, p. 5, row 16 |  |
-| Phase transition | 941.15 K | 941.15 | γ-ε; _γ: Sn 0.25; ε: Sn 0.25_ | model | [1] Miettinen 2002 | Table IV, p. 6, row 9 |  |
-| Phase transition | 945 K | 945 | congruent transformation: γ \<-> ε; _γ: Sn 0.25; ε: Sn 0.25_ | model | [2] Li 2013 | Table 2, p. 6, row 8 |  |
-| Phase transition | 949 K | 949 | congruent transformation: γ \<-> ε; _γ: Sn 0.25; ε: Sn 0.25_ | model | [2] Li 2013; _cites Saunders 1994_ | Table 2, p. 6, row 7 |  |
-| Phase transition | 949.15 K | 949.15 | γ-ε; _γ: Sn 0.25; ε: Sn 0.25_ | experimental | [1] Miettinen 2002; _cites Raynor 1994_ | Table IV, p. 6, row 7 |  |
-| Phase transition | 950.15 K | 950.15 | γ-ε; _γ: Sn 0.25; ε: Sn 0.25_ | model | [1] Miettinen 2002; _cites Shim 1996_ [doi](https://doi.org/10.1515/ijmr-1996-870310) | Table IV, p. 6, row 8 |  |
-| Phase transition | 972.15 K | 972.15 | other: B2/D0_3 Second-Order Transition; _alloy: Cu 0.801, Sn 0.199_ | experimental | [5] Liu 2004 | Table II, p. 5, row 11 |  |
-| Phase transition | 984.15 K | 984.15 | other: B2/D0_3 Second-Order Transition; _alloy: Cu 0.777, Sn 0.223_ | experimental | [5] Liu 2004 | Table II, p. 5, row 15 |  |
-| Phase transition | 1000 K | 1000 | other | experimental | [2] Li 2013 | p. 6 | “The experimentally determined liquidus curve has a kink at approximately 1000 K, which could not be reproduced in the current optimization.” |
-| Phase transition | 1013.15 K | 1013.15 | other: First-Order Transition; _alloy: Cu 0.777, Sn 0.223_ | experimental | [5] Liu 2004 | Table II, p. 5, row 17 |  |
-| Phase transition | 1038.15 K | 1038.15 | other: First-Order Transition; _alloy: Cu 0.801, Sn 0.199_ | experimental | [5] Liu 2004 | Table II, p. 5, row 14 |  |
-| Phase transition | 1063.15 K | 1063.15 | other: First-Order Transition; _alloy: Cu 0.831, Sn 0.169_ | experimental | [5] Liu 2004 | Table II, p. 5, row 10 |  |
-| Phase transition | 1072.15 K | 1072.15 | other: First-Order Transition; _alloy: Cu 0.847, Sn 0.153_ | experimental | [5] Liu 2004 | Table II, p. 5, row 5 |  |
-| Phase transition | 5070 K | 5070 | other | model | [2] Li 2013 | p. 7 | “The Sn-rich part of the metastable bcc phase is dominated by a large miscibility gap with the consolute point at about 5070 K at 84 at.% Sn.” |
+| Phase transition | 624.15 K | 624.15 | other | model | [4] Dong 2014; _cites Li 2013_ [doi](https://doi.org/10.1016/j.intermet.2012.10.010) | p. 2; `ORC-PKIB65PYVH` | “Furthermore, the parameter of Cu41Sn11 was modified on the basis of the work of \[12\], since the decomposition temperature of Cu41Sn11 was estimated to be at 351 °C in \[12\] while this phase was found to be unstable lower than 380 °C in Au-Cu-Sn ternary system \[16\].” |
+| Phase transition | 653.15 K | 653.15 | other | experimental | [4] Dong 2014; _cites Karlsen 1992_ [doi](https://doi.org/10.3891/acta.chem.scand.46-0147) | p. 8; `ORC-7R7RRQ23CZ` | “The thermodynamic parameters of Cu41Sn11 were adapted to fit the experimentally determined decomposition temperature \[16\], i.e. 380 °C, instead of the temperature (i.e. at around 350 °C) adopted in the previous assessment papers \[7-12\].” |
+| Phase transition | 787.15 K | 787.15 | other: First-Order Transition; _alloy: Cu 0.801, Sn 0.199_ | experimental | [5] Liu 2004 | Table II, p. 5, row 12; `ORC-ETABS6WJCZ` |  |
+| Phase transition | 787.15 K | 787.15 | other: First-Order Transition; _alloy: Cu 0.831, Sn 0.169_ | experimental | [5] Liu 2004 | Table II, p. 5, row 8; `ORC-YGEEW5K2OF` |  |
+| Phase transition | 788.15 K | 788.15 | other: First-Order Transition; _alloy: Cu 0.847, Sn 0.153_ | experimental | [5] Liu 2004 | Table II, p. 5, row 4; `ORC-2MK25M24I3` |  |
+| Phase transition | 788.15 K | 788.15 | other: First-Order Transition; _alloy: Cu 0.88, Sn 0.12_ | experimental | [5] Liu 2004 | Table II, p. 5, row 2; `ORC-E6O74B5MZL` |  |
+| Phase transition | 788.15 K | 788.15 | other: ␥ (D03) 4 ␣(fcc) ⫹ ␦ | experimental | [5] Liu 2004 | p. 5; `ORC-LYX4J6JIJ4.caf3ac` | “In order to confirm the absence of the ␤ 4 ␣ ⫹ ␥ reaction, a DSC experiment for the Cu-12 at. pct Sn alloy was carried out, and the DSC result is shown in Figure 5, in which two endothermic peaks with different characteristics are observed at 515 °C and 574 °C, respectively. It is seen that the peak at 515 °C has the feature of an invariant reaction and corresponds to the invariant reaction ␥ (D0…” |
+| Phase transition | 847.15 K | 847.15 | other | experimental | [5] Liu 2004 | p. 5; `ORC-LYX4J6JIJ4.b0ea4f` | “In order to confirm the absence of the ␤ 4 ␣ ⫹ ␥ reaction, a DSC experiment for the Cu-12 at. pct Sn alloy was carried out, and the DSC result is shown in Figure 5, in which two endothermic peaks with different characteristics are observed at 515 °C and 574 °C, respectively. It is seen that the peak at 515 °C has the feature of an invariant reaction and corresponds to the invariant reaction ␥ (D0…” |
+| Phase transition | 847.15 K | 847.15 | other: B2/D0_3 Second-Order Transition; _alloy: Cu 0.88, Sn 0.12_ | experimental | [5] Liu 2004 | Table II, p. 5, row 1; `ORC-4NY6XLHCKU` |  |
+| Phase transition | 848.15 K | 848.15 | other: First-Order Transition; _alloy: Cu 0.831, Sn 0.169_ | experimental | [5] Liu 2004 | Table II, p. 5, row 9; `ORC-JIADXPNRX2` |  |
+| Phase transition | 893.15 K | 893.15 | other: First-Order Transition; _alloy: Cu 0.801, Sn 0.199_ | experimental | [5] Liu 2004 | Table II, p. 5, row 13; `ORC-2Y3EUV7LCL` |  |
+| Phase transition | 922.15 K | 922.15 |  | model | [5] Liu 2004 | p. 4; `ORC-4VZTZCIF6R` | “Figure 3 shows the DSC trace for the Cu-16.9 at. pct Sn alloy. An endothermic peak is observed at 649 °C, which is deduced to be the B2/D03 ordering-transition temperature on the basis of following corroborating evidences.” |
+| Phase transition | 922.15 K | 922.15 | other: B2/D0_3 Second-Order Transition; _alloy: Cu 0.831, Sn 0.169_ | experimental | [5] Liu 2004 | Table II, p. 5, row 7; `ORC-ARQWIEGYRH` |  |
+| Phase transition | 923.15 K | 923.15 | other: First-Order Transition; _alloy: Cu 0.777, Sn 0.223_ | experimental | [5] Liu 2004 | Table II, p. 5, row 16; `ORC-ZC6QBGYZF7` |  |
+| Phase transition | 941.15 K | 941.15 | γ-ε; _γ: Sn 0.25; ε: Sn 0.25_ | model | [1] Miettinen 2002 | Table IV, p. 6, row 9; `ORC-2UBJRQHYNG` |  |
+| Phase transition | 945 K | 945 | congruent transformation: γ \<-> ε; _γ: Sn 0.25; ε: Sn 0.25_ | model | [2] Li 2013 | Table 2, p. 6, row 8; `ORC-BJSD6SA7UJ` |  |
+| Phase transition | 949 K | 949 | congruent transformation: γ \<-> ε; _γ: Sn 0.25; ε: Sn 0.25_ | model | [2] Li 2013; _cites Saunders 1994_ | Table 2, p. 6, row 7; `ORC-LIM2JQJRB4` |  |
+| Phase transition | 949.15 K | 949.15 | γ-ε; _γ: Sn 0.25; ε: Sn 0.25_ | experimental | [1] Miettinen 2002; _cites Raynor 1994_ | Table IV, p. 6, row 7; `ORC-7OPMC4CQIO` |  |
+| Phase transition | 950.15 K | 950.15 | γ-ε; _γ: Sn 0.25; ε: Sn 0.25_ | model | [1] Miettinen 2002; _cites Shim 1996_ [doi](https://doi.org/10.1515/ijmr-1996-870310) | Table IV, p. 6, row 8; `ORC-A5ZG6UYITF` |  |
+| Phase transition | 972.15 K | 972.15 | other: B2/D0_3 Second-Order Transition; _alloy: Cu 0.801, Sn 0.199_ | experimental | [5] Liu 2004 | Table II, p. 5, row 11; `ORC-F3XXSQAASS` |  |
+| Phase transition | 984.15 K | 984.15 | other: B2/D0_3 Second-Order Transition; _alloy: Cu 0.777, Sn 0.223_ | experimental | [5] Liu 2004 | Table II, p. 5, row 15; `ORC-3O5TJGGWGH` |  |
+| Phase transition | 1000 K | 1000 | other | experimental | [2] Li 2013 | p. 6; `ORC-OXXN6OM64F` | “The experimentally determined liquidus curve has a kink at approximately 1000 K, which could not be reproduced in the current optimization.” |
+| Phase transition | 1013.15 K | 1013.15 | other: First-Order Transition; _alloy: Cu 0.777, Sn 0.223_ | experimental | [5] Liu 2004 | Table II, p. 5, row 17; `ORC-WC2BWTVRJV` |  |
+| Phase transition | 1038.15 K | 1038.15 | other: First-Order Transition; _alloy: Cu 0.801, Sn 0.199_ | experimental | [5] Liu 2004 | Table II, p. 5, row 14; `ORC-M433MHINUY` |  |
+| Phase transition | 1063.15 K | 1063.15 | other: First-Order Transition; _alloy: Cu 0.831, Sn 0.169_ | experimental | [5] Liu 2004 | Table II, p. 5, row 10; `ORC-BG3MZPOCHI` |  |
+| Phase transition | 1072.15 K | 1072.15 | other: First-Order Transition; _alloy: Cu 0.847, Sn 0.153_ | experimental | [5] Liu 2004 | Table II, p. 5, row 5; `ORC-LQR2XTEO26` |  |
+| Phase transition | 5070 K | 5070 | other | model | [2] Li 2013 | p. 7; `ORC-GB2DJ6YSAX` | “The Sn-rich part of the metastable bcc phase is dominated by a large miscibility gap with the consolute point at about 5070 K at 84 at.% Sn.” |
 
 ### Phase equilibrium (4)
 
@@ -377,10 +377,10 @@ Table: Phase equilibrium, Cu–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 873.15 | α(fcc) + β(bcc); _α(fcc): Cu 0.914, Sn 0.086; β(bcc): Cu 0.858, Sn 0.142_ | experimental | [5] Liu 2004 | Table III, p. 5, row 4 |  |
-| Phase composition |  | 923.15 | A2/B2 + α(fcc) + β(bcc); _A2/B2: Cu 0.847, Sn 0.153; α(fcc): Cu 0.915, Sn 0.085; β(bcc): Cu 0.862, Sn 0.138_ | experimental | [5] Liu 2004 | Table III, p. 5, row 3 |  |
-| Phase composition |  | 973.15 | A2/B2 + β(bcc) + Liquid + α(fcc); _A2/B2: Cu 0.848, Sn 0.152; β(bcc): Cu 0.869, Sn 0.131; Liquid: Cu 0.658, Sn 0.342; α(fcc): Cu 0.922, Sn 0.078_ | experimental | [5] Liu 2004 | Table III, p. 5, row 2 |  |
-| Phase composition |  | 1003.15 | A2/B2 + β(bcc) + Liquid; _A2/B2: Cu 0.837, Sn 0.163; β(bcc): Cu 0.772, Sn 0.228; Liquid: Cu 0.721, Sn 0.279_ | experimental | [5] Liu 2004 | Table III, p. 5, row 1 |  |
+| Phase composition |  | 873.15 | α(fcc) + β(bcc); _α(fcc): Cu 0.914, Sn 0.086; β(bcc): Cu 0.858, Sn 0.142_ | experimental | [5] Liu 2004 | Table III, p. 5, row 4; `ORC-V6A6ATF67N` |  |
+| Phase composition |  | 923.15 | A2/B2 + α(fcc) + β(bcc); _A2/B2: Cu 0.847, Sn 0.153; α(fcc): Cu 0.915, Sn 0.085; β(bcc): Cu 0.862, Sn 0.138_ | experimental | [5] Liu 2004 | Table III, p. 5, row 3; `ORC-VMBVTOLOHH` |  |
+| Phase composition |  | 973.15 | A2/B2 + β(bcc) + Liquid + α(fcc); _A2/B2: Cu 0.848, Sn 0.152; β(bcc): Cu 0.869, Sn 0.131; Liquid: Cu 0.658, Sn 0.342; α(fcc): Cu 0.922, Sn 0.078_ | experimental | [5] Liu 2004 | Table III, p. 5, row 2; `ORC-2JVWMZ4RBA` |  |
+| Phase composition |  | 1003.15 | A2/B2 + β(bcc) + Liquid; _A2/B2: Cu 0.837, Sn 0.163; β(bcc): Cu 0.772, Sn 0.228; Liquid: Cu 0.721, Sn 0.279_ | experimental | [5] Liu 2004 | Table III, p. 5, row 1; `ORC-I457SMBNSE` |  |
 
 ## Sources
 
@@ -449,4 +449,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

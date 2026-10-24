@@ -53,9 +53,9 @@ Table: Invariant reactions reported in the literature for the Bi–Cr system (3)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2095 | monotectic |  | model | [1] Gossé 2014 | p. 4 | “The monotectic reaction is calculated at 2095 K and the critical point of the liquid miscibility gap is 3091 K for a 67 at.% Cr composition (Fig. 2(a)).” |
-| 544.55 | Liquid#2=(Cr)+(Bi) | Liquid#2: Bi 0.999; (Cr): Bi 0; (Bi): Bi 1 | model | [2] Cao 2013 | Table 3, p. 5, row 19 |  |
-| 544.15 | Liquid#2=(Cr)+(Bi) | Liquid#2: Bi 1; (Cr): Bi 0; (Bi): Bi 1 | experimental | [2] Cao 2013; _cites Williams 1907_ | Table 3, p. 5, row 18 |  |
+| 2095 | monotectic |  | model | [1] Gossé 2014 | p. 4; `ORC-S6TYEGOXAG.be7a05` | “The monotectic reaction is calculated at 2095 K and the critical point of the liquid miscibility gap is 3091 K for a 67 at.% Cr composition (Fig. 2(a)).” |
+| 544.55 | Liquid#2=(Cr)+(Bi) | Liquid#2: Bi 0.999; (Cr): Bi 0; (Bi): Bi 1 | model | [2] Cao 2013 | Table 3, p. 5, row 19; `ORC-ADHC4G744P` |  |
+| 544.15 | Liquid#2=(Cr)+(Bi) | Liquid#2: Bi 1; (Cr): Bi 0; (Bi): Bi 1 | experimental | [2] Cao 2013; _cites Williams 1907_ | Table 3, p. 5, row 18; `ORC-QGF3SKU55U` |  |
 
 ## Other properties
 
@@ -65,8 +65,8 @@ Table: Phase transition, Bi–Cr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1826.15 K | 1826.15 | Liquid#2 = (Cr) + (Bi) | experimental | [2] Cao 2013; _cites Williams 1907_ | p. 2 | “at 268 °C and Liquid#2 = (Cr) + (Bi) at 1553 °C were investigated by Williams \[24\] via continuous cooling of melting alloys of Bi and Cr.” |
-| Phase transition | 3091 K | 3091 | other | model | [1] Gossé 2014 | p. 4 | “The monotectic reaction is calculated at 2095 K and the critical point of the liquid miscibility gap is 3091 K for a 67 at.% Cr composition (Fig. 2(a)).” |
+| Phase transition | 1826.15 K | 1826.15 | Liquid#2 = (Cr) + (Bi) | experimental | [2] Cao 2013; _cites Williams 1907_ | p. 2; `ORC-WKU5UANIDU` | “at 268 °C and Liquid#2 = (Cr) + (Bi) at 1553 °C were investigated by Williams \[24\] via continuous cooling of melting alloys of Bi and Cr.” |
+| Phase transition | 3091 K | 3091 | other | model | [1] Gossé 2014 | p. 4; `ORC-S6TYEGOXAG.40accd` | “The monotectic reaction is calculated at 2095 K and the critical point of the liquid miscibility gap is 3091 K for a 67 at.% Cr composition (Fig. 2(a)).” |
 
 ## Sources
 
@@ -132,4 +132,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

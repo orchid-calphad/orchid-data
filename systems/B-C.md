@@ -66,12 +66,12 @@ Table: Invariant reactions reported in the literature for the B–C system (6)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2663.4 | eutectic: Liquid -> B4C + graphite | Liquid: C 0.292; B4C: C 0.195; graphite: C 0.977 | unspecified | [1] Hämäläinen 1998 | Table I, p. 135, row 1 |  |
-| 2648 | Liquid -> B4+xC + Graphite | Liquid: C 0.29; B4+xC: C 0.188 | model | [2] Saengdeejing 2012 | Table 5, p. 7, row 3 |  |
-| 2648 | Liquid -> B4+xC + Graphite | Liquid: C 0.29; B4+xC: C 0.199 | experimental | [2] Saengdeejing 2012; _cites Elliott 1961_ | Table 5, p. 7, row 4 |  |
-| 2408 | Liquid + B4+xC -> β-boron | Liquid: C 9.000e-4; B4+xC: C 0.089 | model | [2] Saengdeejing 2012 | Table 5, p. 7, row 5 |  |
-| 2375.9 | peritectic: Liquid + B4C -> β-rhombo-B | Liquid: C 0.0056; B4C: C 0.099; β-rhombo-B: C 0.01 | unspecified | [1] Hämäläinen 1998 | Table I, p. 135, row 2 |  |
-| 2348 | Liquid + B4+xC -> β-boron | Liquid: C 0.001; B4+xC: C 0.095 | experimental | [2] Saengdeejing 2012; _cites Elliott 1961_ | Table 5, p. 7, row 6 |  |
+| 2663.4 | eutectic: Liquid -> B4C + graphite | Liquid: C 0.292; B4C: C 0.195; graphite: C 0.977 | unspecified | [1] Hämäläinen 1998 | Table I, p. 135, row 1; `ORC-LBFRY4UJD7` |  |
+| 2648 | Liquid -> B4+xC + Graphite | Liquid: C 0.29; B4+xC: C 0.188 | model | [2] Saengdeejing 2012 | Table 5, p. 7, row 3; `ORC-64EQZUCCV7` |  |
+| 2648 | Liquid -> B4+xC + Graphite | Liquid: C 0.29; B4+xC: C 0.199 | experimental | [2] Saengdeejing 2012; _cites Elliott 1961_ | Table 5, p. 7, row 4; `ORC-7UE3TNKHJS` |  |
+| 2408 | Liquid + B4+xC -> β-boron | Liquid: C 9.000e-4; B4+xC: C 0.089 | model | [2] Saengdeejing 2012 | Table 5, p. 7, row 5; `ORC-6DWVK2TAIP` |  |
+| 2375.9 | peritectic: Liquid + B4C -> β-rhombo-B | Liquid: C 0.0056; B4C: C 0.099; β-rhombo-B: C 0.01 | unspecified | [1] Hämäläinen 1998 | Table I, p. 135, row 2; `ORC-6JDFTI4I66` |  |
+| 2348 | Liquid + B4+xC -> β-boron | Liquid: C 0.001; B4+xC: C 0.095 | experimental | [2] Saengdeejing 2012; _cites Elliott 1961_ | Table 5, p. 7, row 6; `ORC-RXWLLA3JMR` |  |
 
 ## Other properties
 
@@ -81,12 +81,12 @@ Table: Phase transition, B–C system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1388 K | 1388 | a-boron = b-boron | DFT | [2] Saengdeejing 2012; _cites Shang 2007_ [doi](https://doi.org/10.1103/physrevb.75.092101) | p. 2 | “Using density functional theory, Shang et al. \[20\] showed that a-boron is more stable than bboron at low temperatures in the defect-free structure and predicted the a to b transition temperature at 1388 K.” |
-| Phase transition | 2348.15 K | 2348.15 |  | experimental | [3] Rogl 2014 | p. 1 | “Relative to the thermodynamically accepted melting point of pure ßB (TM 1⁄42075 1C), the calculated reaction isotherm is determined at 2100.6 1C, a peritectic point at 0.75 at% C and a maximum solid solubility of 1.43 at% C in (ßB) at reaction temperature.” |
-| Phase transition | 2720 K | 2720 | Liquid -> B4+xC; _Liquid: C 0.2; B4+xC: C 0.2_ | model | [2] Saengdeejing 2012 | Table 5, p. 7, row 1 |  |
-| Phase transition | 2723 K | 2723 | Liquid -> B4+xC; _Liquid: C 0.2; B4+xC: C 0.2_ | experimental | [2] Saengdeejing 2012; _cites Beauvy 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990067-x) | Table 5, p. 7, row 2 |  |
-| Phase transition | 2723 K | 2723 | congruent transformation | experimental | [2] Saengdeejing 2012; _cites Beauvy 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990067-x) | p. 2 | “Beauvy \[15\] reported 21.6 ± 0.8 at.% C solubility at the C-rich end and the congruent melting point of B4+xC to be about 18.2 at.% C at 2723 K.” |
-| Phase transition | 2725.3 K | 2725.3 | congruent melting: B4C -> Liquid; _B4C: C 0.184; Liquid: C 0.184_ | unspecified | [1] Hämäläinen 1998 | Table I, p. 135, row 3 |  |
+| Phase transition | 1388 K | 1388 | a-boron = b-boron | DFT | [2] Saengdeejing 2012; _cites Shang 2007_ [doi](https://doi.org/10.1103/physrevb.75.092101) | p. 2; `ORC-U7XUCPVTBF` | “Using density functional theory, Shang et al. \[20\] showed that a-boron is more stable than bboron at low temperatures in the defect-free structure and predicted the a to b transition temperature at 1388 K.” |
+| Phase transition | 2348.15 K | 2348.15 |  | experimental | [3] Rogl 2014 | p. 1; `ORC-TKLZBK6U3B` | “Relative to the thermodynamically accepted melting point of pure ßB (TM 1⁄42075 1C), the calculated reaction isotherm is determined at 2100.6 1C, a peritectic point at 0.75 at% C and a maximum solid solubility of 1.43 at% C in (ßB) at reaction temperature.” |
+| Phase transition | 2720 K | 2720 | Liquid -> B4+xC; _Liquid: C 0.2; B4+xC: C 0.2_ | model | [2] Saengdeejing 2012 | Table 5, p. 7, row 1; `ORC-JVYRD6JHKY` |  |
+| Phase transition | 2723 K | 2723 | Liquid -> B4+xC; _Liquid: C 0.2; B4+xC: C 0.2_ | experimental | [2] Saengdeejing 2012; _cites Beauvy 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990067-x) | Table 5, p. 7, row 2; `ORC-JNDQIDI6F5` |  |
+| Phase transition | 2723 K | 2723 | congruent transformation | experimental | [2] Saengdeejing 2012; _cites Beauvy 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990067-x) | p. 2; `ORC-P4WRPFLR3Y` | “Beauvy \[15\] reported 21.6 ± 0.8 at.% C solubility at the C-rich end and the congruent melting point of B4+xC to be about 18.2 at.% C at 2723 K.” |
+| Phase transition | 2725.3 K | 2725.3 | congruent melting: B4C -> Liquid; _B4C: C 0.184; Liquid: C 0.184_ | unspecified | [1] Hämäläinen 1998 | Table I, p. 135, row 3; `ORC-OZ7EZTSIAG` |  |
 
 ### Crystal structure (16)
 
@@ -94,22 +94,22 @@ Table: Crystal structure, B–C system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 5.607 Å | 298.15 | B4C; _alloy: C 0.2_ | experimental | [4] Duschanek 1995; _cites ref. 85Vil_ | Table 3, p. 5, row 35 |  |
-| Lattice a | 5.651 Å | 298.15 | B4C; _alloy: C 0.2_ | unspecified | [4] Duschanek 1995; _cites ref. 85Vil_ | Table 3, p. 4, row 62 |  |
-| Lattice a | 5.651 Å | 298.15 | B4C; _alloy: C 0.2_ | experimental | [4] Duschanek 1995; _cites ref. 85Vil_ | Table 3, p. 5, row 34 |  |
-| Lattice a | 5.607 Å | 298.15 | B4C; _alloy: C 0.2_ | unspecified | [4] Duschanek 1995; _cites ref. 85Vil_ | Table 3, p. 4, row 63 |  |
-| Lattice a | 5.597 Å | 2673.15 | B4C; _alloy: C 0.2_ | unspecified | [4] Duschanek 1995; _cites ref. 86Ord_ | Table 3, p. 4, row 65 |  |
-| Lattice a | 5.597 Å | 2673.15 | B4C; _alloy: C 0.2_ | experimental | [4] Duschanek 1995; _cites ref. 86Ord_ | Table 3, p. 5, row 37 |  |
-| Lattice a | 5.598 Å | 2723.15 | B4C; _alloy: C 0.2_ | unspecified | [4] Duschanek 1995; _cites ref. 86Ord_ | Table 3, p. 4, row 64 |  |
-| Lattice a | 5.598 Å | 2723.15 | B4C; _alloy: C 0.2_ | experimental | [4] Duschanek 1995; _cites ref. 86Ord_ | Table 3, p. 5, row 36 |  |
-| Lattice c | 12.095 Å | 298.15 | B4C; _alloy: C 0.2_ | experimental | [4] Duschanek 1995; _cites ref. 85Vil_ | Table 3, p. 5, row 35 |  |
-| Lattice c | 12.196 Å | 298.15 | B4C; _alloy: C 0.2_ | unspecified | [4] Duschanek 1995; _cites ref. 85Vil_ | Table 3, p. 4, row 62 |  |
-| Lattice c | 12.196 Å | 298.15 | B4C; _alloy: C 0.2_ | experimental | [4] Duschanek 1995; _cites ref. 85Vil_ | Table 3, p. 5, row 34 |  |
-| Lattice c | 12.095 Å | 298.15 | B4C; _alloy: C 0.2_ | unspecified | [4] Duschanek 1995; _cites ref. 85Vil_ | Table 3, p. 4, row 63 |  |
-| Lattice c | 12.12 Å | 2673.15 | B4C; _alloy: C 0.2_ | unspecified | [4] Duschanek 1995; _cites ref. 86Ord_ | Table 3, p. 4, row 65 |  |
-| Lattice c | 12.12 Å | 2673.15 | B4C; _alloy: C 0.2_ | experimental | [4] Duschanek 1995; _cites ref. 86Ord_ | Table 3, p. 5, row 37 |  |
-| Lattice c | 12.12 Å | 2723.15 | B4C; _alloy: C 0.2_ | unspecified | [4] Duschanek 1995; _cites ref. 86Ord_ | Table 3, p. 4, row 64 |  |
-| Lattice c | 12.12 Å | 2723.15 | B4C; _alloy: C 0.2_ | experimental | [4] Duschanek 1995; _cites ref. 86Ord_ | Table 3, p. 5, row 36 |  |
+| Lattice a | 5.607 Å | 298.15 | B4C; _alloy: C 0.2_ | experimental | [4] Duschanek 1995; _cites ref. 85Vil_ | Table 3, p. 5, row 35; `ORC-AO3JM4ZEZM.6e2d0d` |  |
+| Lattice a | 5.651 Å | 298.15 | B4C; _alloy: C 0.2_ | unspecified | [4] Duschanek 1995; _cites ref. 85Vil_ | Table 3, p. 4, row 62; `ORC-MTMFR6I63I.6f3052` |  |
+| Lattice a | 5.651 Å | 298.15 | B4C; _alloy: C 0.2_ | experimental | [4] Duschanek 1995; _cites ref. 85Vil_ | Table 3, p. 5, row 34; `ORC-SZIZTPTTWN.ff1661` |  |
+| Lattice a | 5.607 Å | 298.15 | B4C; _alloy: C 0.2_ | unspecified | [4] Duschanek 1995; _cites ref. 85Vil_ | Table 3, p. 4, row 63; `ORC-XHD6DQJZD4.814a2d` |  |
+| Lattice a | 5.597 Å | 2673.15 | B4C; _alloy: C 0.2_ | unspecified | [4] Duschanek 1995; _cites ref. 86Ord_ | Table 3, p. 4, row 65; `ORC-6CCWXLQMAL.f0cfe5` |  |
+| Lattice a | 5.597 Å | 2673.15 | B4C; _alloy: C 0.2_ | experimental | [4] Duschanek 1995; _cites ref. 86Ord_ | Table 3, p. 5, row 37; `ORC-72Y2KESO4L.872f98` |  |
+| Lattice a | 5.598 Å | 2723.15 | B4C; _alloy: C 0.2_ | unspecified | [4] Duschanek 1995; _cites ref. 86Ord_ | Table 3, p. 4, row 64; `ORC-64OHLSRZU2.46d451` |  |
+| Lattice a | 5.598 Å | 2723.15 | B4C; _alloy: C 0.2_ | experimental | [4] Duschanek 1995; _cites ref. 86Ord_ | Table 3, p. 5, row 36; `ORC-EUNUBNNAXI.c61d82` |  |
+| Lattice c | 12.095 Å | 298.15 | B4C; _alloy: C 0.2_ | experimental | [4] Duschanek 1995; _cites ref. 85Vil_ | Table 3, p. 5, row 35; `ORC-AO3JM4ZEZM.9996e7` |  |
+| Lattice c | 12.196 Å | 298.15 | B4C; _alloy: C 0.2_ | unspecified | [4] Duschanek 1995; _cites ref. 85Vil_ | Table 3, p. 4, row 62; `ORC-MTMFR6I63I.ee7ae3` |  |
+| Lattice c | 12.196 Å | 298.15 | B4C; _alloy: C 0.2_ | experimental | [4] Duschanek 1995; _cites ref. 85Vil_ | Table 3, p. 5, row 34; `ORC-SZIZTPTTWN.9c9213` |  |
+| Lattice c | 12.095 Å | 298.15 | B4C; _alloy: C 0.2_ | unspecified | [4] Duschanek 1995; _cites ref. 85Vil_ | Table 3, p. 4, row 63; `ORC-XHD6DQJZD4.b0714e` |  |
+| Lattice c | 12.12 Å | 2673.15 | B4C; _alloy: C 0.2_ | unspecified | [4] Duschanek 1995; _cites ref. 86Ord_ | Table 3, p. 4, row 65; `ORC-6CCWXLQMAL.8c0847` |  |
+| Lattice c | 12.12 Å | 2673.15 | B4C; _alloy: C 0.2_ | experimental | [4] Duschanek 1995; _cites ref. 86Ord_ | Table 3, p. 5, row 37; `ORC-72Y2KESO4L.b6b90c` |  |
+| Lattice c | 12.12 Å | 2723.15 | B4C; _alloy: C 0.2_ | unspecified | [4] Duschanek 1995; _cites ref. 86Ord_ | Table 3, p. 4, row 64; `ORC-64OHLSRZU2.8dd958` |  |
+| Lattice c | 12.12 Å | 2723.15 | B4C; _alloy: C 0.2_ | experimental | [4] Duschanek 1995; _cites ref. 86Ord_ | Table 3, p. 5, row 36; `ORC-EUNUBNNAXI.dfbda1` |  |
 
 ## Sources
 
@@ -177,4 +177,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

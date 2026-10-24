@@ -133,50 +133,50 @@ Table: Invariant reactions reported in the literature for the Ca–Ga system (44
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1253.15 | CaGa2 + Liquid -> Ca25Ga59 | CaGa2: Ga 0.667; L: Ga 0.71; Ca25Ga59: Ga 0.702 | experimental | [1] Li 2013; _cites Bruzzone 1966_ | Table 6, p. 8, row 13 |  |
-| 1253.15 | CaGa2 + Liquid -> Ca25Ga59 | CaGa2: Ga 0.693; L: Ga 0.711; Ca25Ga59: Ga 0.702 | model | [1] Li 2013 | Table 6, p. 8, row 14 |  |
-| 1253.15 | CaGa2 + L -> Ca25Ga39 | CaGa2: Ga 0.667; L: Ga 0.71; Ca25Ga39: Ga 0.702 | experimental | [2] Wang 2007; _cites Bruzzone 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990171-9) | Table 3, p. 4, row 16 |  |
-| 1253.15 | peritectic |  | experimental | [2] Wang 2007 | p. 2 | “The peritectic temperatures of 980 ◦ C and 930 ◦ C have been tentatively assigned to CaGa2+x and Ca3 Ga8 , respectively.” |
-| 1242.15 | peritectic |  | model | [2] Wang 2007 | p. 4 | “It is to be noted that the peritectic temperatures of Ca25 Ga59 and Ca3 Ga8 were not determined by any experimental work, then the calculated values of 969 ◦ C and 893 ◦ C were obtained” |
-| 1242.15 | CaGa2 + L -> Ca25Ga39 | CaGa2: Ga 0.667; L: Ga 0.713; Ca25Ga39: Ga 0.702 | model | [2] Wang 2007 | Table 3, p. 4, row 15 |  |
-| 1203.15 | Ca25Ga39 + L -> Ca3Ga8 | Ca25Ga39: Ga 0.702; L: Ga 0.73; Ca3Ga8: Ga 0.727 | experimental | [2] Wang 2007; _cites Bruzzone 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990171-9) | Table 3, p. 4, row 18 |  |
-| 1203.15 | peritectic |  | experimental | [2] Wang 2007 | p. 2 | “The peritectic temperatures of 980 ◦ C and 930 ◦ C have been tentatively assigned to CaGa2+x and Ca3 Ga8 , respectively.” |
-| 1203.15 | Ca25Ga59 + Liquid -> Ca3Ga8 | Ca25Ga59: Ga 0.702; L: Ga 0.73; Ca3Ga8: Ga 0.727 | experimental | [1] Li 2013; _cites Bruzzone 1966_ | Table 6, p. 8, row 15 |  |
-| 1198.15 | Ca25Ga59 + Liquid -> Ca3Ga8 | Ca25Ga59: Ga 0.777; L: Ga 0.78; Ca3Ga8: Ga 0.727 | model | [1] Li 2013 | Table 6, p. 8, row 16 |  |
-| 1166.15 | peritectic |  | model | [2] Wang 2007 | p. 4 | “It is to be noted that the peritectic temperatures of Ca25 Ga59 and Ca3 Ga8 were not determined by any experimental work, then the calculated values of 969 ◦ C and 893 ◦ C were obtained” |
-| 1166.15 | Ca25Ga39 + L -> Ca3Ga8 | Ca25Ga39: Ga 0.702; L: Ga 0.781; Ca3Ga8: Ga 0.727 | model | [2] Wang 2007 | Table 3, p. 4, row 17 |  |
-| 1147.15 | Liquid + CaGa2 -> Ca3Ga5 | L: Ga 0.554; CaGa2: Ga 0.667; Ca3Ga5: Ga 0.625 | model | [1] Li 2013 | Table 6, p. 8, row 12 |  |
-| 1146.15 | L + CaGa2 -> Ca3Ga5 | L: Ga 0.555; CaGa2: Ga 0.667; Ca3Ga5: Ga 0.625 | model | [2] Wang 2007 | Table 3, p. 4, row 11 |  |
-| 1146.15 | L + CaGa2 -> Ca3Ga5 | L: Ga 0.527; CaGa2: Ga 0.667; Ca3Ga5: Ga 0.625 | experimental | [2] Wang 2007; _cites Bruzzone 1966_ | Table 3, p. 4, row 12 |  |
-| 1146.15 | Liquid + CaGa2 -> Ca3Ga5 | L: Ga 0.527; CaGa2: Ga 0.667; Ca3Ga5: Ga 0.625 | experimental | [1] Li 2013; _cites Bruzzone 1966_ | Table 6, p. 8, row 11 |  |
-| 1091.15 | Liquid + Ca3Ga5 -> CaGa | L: Ga 0.516; Ca3Ga5: Ga 0.625; CaGa: Ga 0.5 | model | [1] Li 2013 | Table 6, p. 8, row 10 |  |
-| 1068.15 | L + Ca3Ga5 -> CaGa | L: Ga 0.453; Ca3Ga5: Ga 0.625; CaGa: Ga 0.5 | experimental | [2] Wang 2007; _cites Bruzzone 1966_ | Table 3, p. 4, row 10 |  |
-| 1068.15 | Liquid + Ca3Ga5 -> CaGa | L: Ga 0.453; Ca3Ga5: Ga 0.625; CaGa: Ga 0.5 | experimental | [1] Li 2013; _cites Bruzzone 1966_ | Table 6, p. 8, row 9 |  |
-| 1066.15 | L + Ca3Ga5 -> CaGa | L: Ga 0.499; Ca3Ga5: Ga 0.625; CaGa: Ga 0.5 | model | [2] Wang 2007 | Table 3, p. 4, row 9 |  |
-| 1024.15 | Ca3Ga8 + L -> CaGa4 | Ca3Ga8: Ga 0.727; L: Ga 0.842; CaGa4: Ga 0.8 | model | [2] Wang 2007 | Table 3, p. 4, row 19 |  |
-| 1023.15 | Ca3Ga8 + Liquid -> CaGa4 | Ca3Ga8: Ga 0.727; L: Ga 0.83; CaGa4: Ga 0.8 | experimental | [1] Li 2013; _cites Bruzzone 1966_ | Table 6, p. 8, row 17 |  |
-| 1023.15 | Ca3Ga8 + L -> CaGa4 | Ca3Ga8: Ga 0.727; L: Ga 0.83; CaGa4: Ga 0.8 | experimental | [2] Wang 2007; _cites Bruzzone 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990171-9) | Table 3, p. 4, row 20 |  |
-| 1022.15 | Ca3Ga8 + Liquid -> CaGa4 | Ca3Ga8: Ga 0.865; L: Ga 0.872; CaGa4: Ga 0.8 | model | [1] Li 2013 | Table 6, p. 8, row 18 |  |
-| 934.15 | Liquid + CaGa -> Ca11Ga7 | L: Ga 0.351; CaGa: Ga 0.5; Ca11Ga7: Ga 0.389 | model | [1] Li 2013 | Table 6, p. 8, row 8 |  |
-| 913.15 | L + CaGa -> Ca11Ga7 | L: Ga 0.277; CaGa: Ga 0.5; Ca11Ga7: Ga 0.389 | experimental | [2] Wang 2007; _cites Bruzzone 1966_ | Table 3, p. 4, row 8 |  |
-| 913.15 | Liquid + CaGa -> Ca11Ga7 | L: Ga 0.277; CaGa: Ga 0.5; Ca11Ga7: Ga 0.389 | experimental | [1] Li 2013; _cites Bruzzone 1966_ | Table 6, p. 8, row 7 |  |
-| 910.15 | L + CaGa -> Ca11Ga7 | L: Ga 0.299; CaGa: Ga 0.5; Ca11Ga7: Ga 0.389 | model | [2] Wang 2007 | Table 3, p. 4, row 7 |  |
-| 886.15 | Liquid + Ca11Ga7 -> Ca5Ga3 | L: Ga 0.3; Ca11Ga7: Ga 0.389; Ca5Ga3: Ga 0.375 | model | [1] Li 2013 | Table 6, p. 8, row 6 |  |
-| 883.15 | L + Ca11Ga7 -> Ca5Ga3 | L: Ga 0.247; Ca11Ga7: Ga 0.389; Ca5Ga3: Ga 0.375 | experimental | [2] Wang 2007; _cites Bruzzone 1966_ | Table 3, p. 4, row 6 |  |
-| 883.15 | Liquid + Ca11Ga7 -> Ca5Ga3 | L: Ga 0.247; Ca11Ga7: Ga 0.389; Ca5Ga3: Ga 0.375 | experimental | [1] Li 2013; _cites Bruzzone 1966_ | Table 6, p. 8, row 5 |  |
-| 879.15 | L + Ca11Ga7 -> Ca5Ga3 | L: Ga 0.259; Ca11Ga7: Ga 0.389; Ca5Ga3: Ga 0.375 | model | [2] Wang 2007 | Table 3, p. 4, row 5 |  |
-| 824.15 | Liquid + Ca5Ga3 ↔ Ca28Ga11 | Liquid: Ga 0.255; Ca5Ga3: Ga 0.375; Ca28Ga11: Ga 0.282 | model | [1] Li 2013 | Table 6, p. 8, row 4 |  |
-| 820.15 | L + Ca5Ga3 -> Ca28Ga11 | L: Ga 0.201; Ca5Ga3: Ga 0.375; Ca28Ga11: Ga 0.282 | model | [2] Wang 2007 | Table 3, p. 4, row 3 |  |
-| 818.15 | Liquid + Ca5Ga3 ↔ Ca28Ga11 | Liquid: Ga 0.2; Ca5Ga3: Ga 0.375; Ca28Ga11: Ga 0.282 | experimental | [1] Li 2013; _cites Bruzzone 1966_ | Table 6, p. 8, row 3 |  |
-| 818.15 | L + Ca5Ga3 -> Ca28Ga11 | L: Ga 0.2; Ca5Ga3: Ga 0.375; Ca28Ga11: Ga 0.282 | experimental | [2] Wang 2007; _cites Bruzzone 1966_ | Table 3, p. 4, row 4 |  |
-| 787.15 | L -> Ca + Ca28Ga11 | L: Ga 0.161; Ca: Ga 0; Ca28Ga11: Ga 0.282 | model | [2] Wang 2007 | Table 3, p. 4, row 1 |  |
-| 785.15 | Liquid -> (Ca) + Ga28Ca11 | L: Ga 0.161; (Ca): Ga 0; Ga28Ca11: Ga 0.282 | experimental | [1] Li 2013; _cites Bruzzone 1966_ | Table 6, p. 8, row 1 |  |
-| 785.15 | L -> Ca + Ca28Ga11 | L: Ga 0.161; Ca: Ga 0; Ca28Ga11: Ga 0.282 | experimental | [2] Wang 2007; _cites Bruzzone 1966_ | Table 3, p. 4, row 2 |  |
-| 773.15 | Liquid -> (Ca) + Ga28Ca11 | L: Ga 0.186; (Ca): Ga 0; Ga28Ca11: Ga 0.282 | model | [1] Li 2013 | Table 6, p. 8, row 2 |  |
-| 303.15 | Liquid -> CaGa4 + (Ga) | L: Ga 1; CaGa4: Ga 0.8; (Ga): Ga 1 | model | [1] Li 2013 | Table 6, p. 8, row 20 |  |
-| 302.15 | Liquid -> CaGa4 + (Ga) | L: Ga 0.994; CaGa4: Ga 0.8; (Ga): Ga 1 | experimental | [1] Li 2013; _cites Bruzzone 1966_ | Table 6, p. 8, row 19 |  |
-| 302.15 | L -> CaGa4 + Ga | L: Ga 0.994; CaGa4: Ga 0.8; Ga: Ga 1 | experimental | [2] Wang 2007; _cites Bruzzone 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990171-9) | Table 3, p. 4, row 22 |  |
-| 301.85 | L -> CaGa4 + Ga | L: Ga 0.994; CaGa4: Ga 0.8; Ga: Ga 1 | model | [2] Wang 2007 | Table 3, p. 4, row 21 |  |
+| 1253.15 | CaGa2 + Liquid -> Ca25Ga59 | CaGa2: Ga 0.667; L: Ga 0.71; Ca25Ga59: Ga 0.702 | experimental | [1] Li 2013; _cites Bruzzone 1966_ | Table 6, p. 8, row 13; `ORC-GECI4WTX65` |  |
+| 1253.15 | CaGa2 + Liquid -> Ca25Ga59 | CaGa2: Ga 0.693; L: Ga 0.711; Ca25Ga59: Ga 0.702 | model | [1] Li 2013 | Table 6, p. 8, row 14; `ORC-NVXTWFYB7P` |  |
+| 1253.15 | CaGa2 + L -> Ca25Ga39 | CaGa2: Ga 0.667; L: Ga 0.71; Ca25Ga39: Ga 0.702 | experimental | [2] Wang 2007; _cites Bruzzone 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990171-9) | Table 3, p. 4, row 16; `ORC-PTTMNAJRVR` |  |
+| 1253.15 | peritectic |  | experimental | [2] Wang 2007 | p. 2; `ORC-RQ7BACQYM7.231e2f` | “The peritectic temperatures of 980 ◦ C and 930 ◦ C have been tentatively assigned to CaGa2+x and Ca3 Ga8 , respectively.” |
+| 1242.15 | peritectic |  | model | [2] Wang 2007 | p. 4; `ORC-RZE2U5TWZP.dec908` | “It is to be noted that the peritectic temperatures of Ca25 Ga59 and Ca3 Ga8 were not determined by any experimental work, then the calculated values of 969 ◦ C and 893 ◦ C were obtained” |
+| 1242.15 | CaGa2 + L -> Ca25Ga39 | CaGa2: Ga 0.667; L: Ga 0.713; Ca25Ga39: Ga 0.702 | model | [2] Wang 2007 | Table 3, p. 4, row 15; `ORC-Z5JOLAXO5O` |  |
+| 1203.15 | Ca25Ga39 + L -> Ca3Ga8 | Ca25Ga39: Ga 0.702; L: Ga 0.73; Ca3Ga8: Ga 0.727 | experimental | [2] Wang 2007; _cites Bruzzone 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990171-9) | Table 3, p. 4, row 18; `ORC-C74BZUFMFG` |  |
+| 1203.15 | peritectic |  | experimental | [2] Wang 2007 | p. 2; `ORC-RQ7BACQYM7.d7425b` | “The peritectic temperatures of 980 ◦ C and 930 ◦ C have been tentatively assigned to CaGa2+x and Ca3 Ga8 , respectively.” |
+| 1203.15 | Ca25Ga59 + Liquid -> Ca3Ga8 | Ca25Ga59: Ga 0.702; L: Ga 0.73; Ca3Ga8: Ga 0.727 | experimental | [1] Li 2013; _cites Bruzzone 1966_ | Table 6, p. 8, row 15; `ORC-V77BKUENQW` |  |
+| 1198.15 | Ca25Ga59 + Liquid -> Ca3Ga8 | Ca25Ga59: Ga 0.777; L: Ga 0.78; Ca3Ga8: Ga 0.727 | model | [1] Li 2013 | Table 6, p. 8, row 16; `ORC-JRLF5TMQS5` |  |
+| 1166.15 | peritectic |  | model | [2] Wang 2007 | p. 4; `ORC-RZE2U5TWZP.9e1470` | “It is to be noted that the peritectic temperatures of Ca25 Ga59 and Ca3 Ga8 were not determined by any experimental work, then the calculated values of 969 ◦ C and 893 ◦ C were obtained” |
+| 1166.15 | Ca25Ga39 + L -> Ca3Ga8 | Ca25Ga39: Ga 0.702; L: Ga 0.781; Ca3Ga8: Ga 0.727 | model | [2] Wang 2007 | Table 3, p. 4, row 17; `ORC-SWL2CHJZPJ` |  |
+| 1147.15 | Liquid + CaGa2 -> Ca3Ga5 | L: Ga 0.554; CaGa2: Ga 0.667; Ca3Ga5: Ga 0.625 | model | [1] Li 2013 | Table 6, p. 8, row 12; `ORC-537AG2FAZO` |  |
+| 1146.15 | L + CaGa2 -> Ca3Ga5 | L: Ga 0.555; CaGa2: Ga 0.667; Ca3Ga5: Ga 0.625 | model | [2] Wang 2007 | Table 3, p. 4, row 11; `ORC-HMPBOZGEVJ` |  |
+| 1146.15 | L + CaGa2 -> Ca3Ga5 | L: Ga 0.527; CaGa2: Ga 0.667; Ca3Ga5: Ga 0.625 | experimental | [2] Wang 2007; _cites Bruzzone 1966_ | Table 3, p. 4, row 12; `ORC-JYUNJNULU7` |  |
+| 1146.15 | Liquid + CaGa2 -> Ca3Ga5 | L: Ga 0.527; CaGa2: Ga 0.667; Ca3Ga5: Ga 0.625 | experimental | [1] Li 2013; _cites Bruzzone 1966_ | Table 6, p. 8, row 11; `ORC-PEURB6RRCT` |  |
+| 1091.15 | Liquid + Ca3Ga5 -> CaGa | L: Ga 0.516; Ca3Ga5: Ga 0.625; CaGa: Ga 0.5 | model | [1] Li 2013 | Table 6, p. 8, row 10; `ORC-KPZ2KER47Z` |  |
+| 1068.15 | L + Ca3Ga5 -> CaGa | L: Ga 0.453; Ca3Ga5: Ga 0.625; CaGa: Ga 0.5 | experimental | [2] Wang 2007; _cites Bruzzone 1966_ | Table 3, p. 4, row 10; `ORC-HOE2WKKDK5` |  |
+| 1068.15 | Liquid + Ca3Ga5 -> CaGa | L: Ga 0.453; Ca3Ga5: Ga 0.625; CaGa: Ga 0.5 | experimental | [1] Li 2013; _cites Bruzzone 1966_ | Table 6, p. 8, row 9; `ORC-ZMR6ALOSEQ` |  |
+| 1066.15 | L + Ca3Ga5 -> CaGa | L: Ga 0.499; Ca3Ga5: Ga 0.625; CaGa: Ga 0.5 | model | [2] Wang 2007 | Table 3, p. 4, row 9; `ORC-XY4UC3GS72` |  |
+| 1024.15 | Ca3Ga8 + L -> CaGa4 | Ca3Ga8: Ga 0.727; L: Ga 0.842; CaGa4: Ga 0.8 | model | [2] Wang 2007 | Table 3, p. 4, row 19; `ORC-UNM6HBSUGE` |  |
+| 1023.15 | Ca3Ga8 + Liquid -> CaGa4 | Ca3Ga8: Ga 0.727; L: Ga 0.83; CaGa4: Ga 0.8 | experimental | [1] Li 2013; _cites Bruzzone 1966_ | Table 6, p. 8, row 17; `ORC-NJJHLHKVHQ` |  |
+| 1023.15 | Ca3Ga8 + L -> CaGa4 | Ca3Ga8: Ga 0.727; L: Ga 0.83; CaGa4: Ga 0.8 | experimental | [2] Wang 2007; _cites Bruzzone 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990171-9) | Table 3, p. 4, row 20; `ORC-WJ2HBQHTZC` |  |
+| 1022.15 | Ca3Ga8 + Liquid -> CaGa4 | Ca3Ga8: Ga 0.865; L: Ga 0.872; CaGa4: Ga 0.8 | model | [1] Li 2013 | Table 6, p. 8, row 18; `ORC-OMA57NKNZE` |  |
+| 934.15 | Liquid + CaGa -> Ca11Ga7 | L: Ga 0.351; CaGa: Ga 0.5; Ca11Ga7: Ga 0.389 | model | [1] Li 2013 | Table 6, p. 8, row 8; `ORC-UZRXN6WLOH` |  |
+| 913.15 | L + CaGa -> Ca11Ga7 | L: Ga 0.277; CaGa: Ga 0.5; Ca11Ga7: Ga 0.389 | experimental | [2] Wang 2007; _cites Bruzzone 1966_ | Table 3, p. 4, row 8; `ORC-V2KZLOS7AA` |  |
+| 913.15 | Liquid + CaGa -> Ca11Ga7 | L: Ga 0.277; CaGa: Ga 0.5; Ca11Ga7: Ga 0.389 | experimental | [1] Li 2013; _cites Bruzzone 1966_ | Table 6, p. 8, row 7; `ORC-WPI5GZEGJV` |  |
+| 910.15 | L + CaGa -> Ca11Ga7 | L: Ga 0.299; CaGa: Ga 0.5; Ca11Ga7: Ga 0.389 | model | [2] Wang 2007 | Table 3, p. 4, row 7; `ORC-I5SXRCMR44` |  |
+| 886.15 | Liquid + Ca11Ga7 -> Ca5Ga3 | L: Ga 0.3; Ca11Ga7: Ga 0.389; Ca5Ga3: Ga 0.375 | model | [1] Li 2013 | Table 6, p. 8, row 6; `ORC-DHU6AIMOFO` |  |
+| 883.15 | L + Ca11Ga7 -> Ca5Ga3 | L: Ga 0.247; Ca11Ga7: Ga 0.389; Ca5Ga3: Ga 0.375 | experimental | [2] Wang 2007; _cites Bruzzone 1966_ | Table 3, p. 4, row 6; `ORC-4PPGHBZPRO` |  |
+| 883.15 | Liquid + Ca11Ga7 -> Ca5Ga3 | L: Ga 0.247; Ca11Ga7: Ga 0.389; Ca5Ga3: Ga 0.375 | experimental | [1] Li 2013; _cites Bruzzone 1966_ | Table 6, p. 8, row 5; `ORC-KAHD2TT4JB` |  |
+| 879.15 | L + Ca11Ga7 -> Ca5Ga3 | L: Ga 0.259; Ca11Ga7: Ga 0.389; Ca5Ga3: Ga 0.375 | model | [2] Wang 2007 | Table 3, p. 4, row 5; `ORC-RWTKQE6KE7` |  |
+| 824.15 | Liquid + Ca5Ga3 ↔ Ca28Ga11 | Liquid: Ga 0.255; Ca5Ga3: Ga 0.375; Ca28Ga11: Ga 0.282 | model | [1] Li 2013 | Table 6, p. 8, row 4; `ORC-5HASW26NFC` |  |
+| 820.15 | L + Ca5Ga3 -> Ca28Ga11 | L: Ga 0.201; Ca5Ga3: Ga 0.375; Ca28Ga11: Ga 0.282 | model | [2] Wang 2007 | Table 3, p. 4, row 3; `ORC-TVGZBG22GA` |  |
+| 818.15 | Liquid + Ca5Ga3 ↔ Ca28Ga11 | Liquid: Ga 0.2; Ca5Ga3: Ga 0.375; Ca28Ga11: Ga 0.282 | experimental | [1] Li 2013; _cites Bruzzone 1966_ | Table 6, p. 8, row 3; `ORC-FNL47U4F4B` |  |
+| 818.15 | L + Ca5Ga3 -> Ca28Ga11 | L: Ga 0.2; Ca5Ga3: Ga 0.375; Ca28Ga11: Ga 0.282 | experimental | [2] Wang 2007; _cites Bruzzone 1966_ | Table 3, p. 4, row 4; `ORC-LLI3LRVBJM` |  |
+| 787.15 | L -> Ca + Ca28Ga11 | L: Ga 0.161; Ca: Ga 0; Ca28Ga11: Ga 0.282 | model | [2] Wang 2007 | Table 3, p. 4, row 1; `ORC-TNZPLNMLAD` |  |
+| 785.15 | Liquid -> (Ca) + Ga28Ca11 | L: Ga 0.161; (Ca): Ga 0; Ga28Ca11: Ga 0.282 | experimental | [1] Li 2013; _cites Bruzzone 1966_ | Table 6, p. 8, row 1; `ORC-HHDYZ54BTY` |  |
+| 785.15 | L -> Ca + Ca28Ga11 | L: Ga 0.161; Ca: Ga 0; Ca28Ga11: Ga 0.282 | experimental | [2] Wang 2007; _cites Bruzzone 1966_ | Table 3, p. 4, row 2; `ORC-HNM53CFIEB` |  |
+| 773.15 | Liquid -> (Ca) + Ga28Ca11 | L: Ga 0.186; (Ca): Ga 0; Ga28Ca11: Ga 0.282 | model | [1] Li 2013 | Table 6, p. 8, row 2; `ORC-TH5Q7VD4UC` |  |
+| 303.15 | Liquid -> CaGa4 + (Ga) | L: Ga 1; CaGa4: Ga 0.8; (Ga): Ga 1 | model | [1] Li 2013 | Table 6, p. 8, row 20; `ORC-NZ2XL3IR2I` |  |
+| 302.15 | Liquid -> CaGa4 + (Ga) | L: Ga 0.994; CaGa4: Ga 0.8; (Ga): Ga 1 | experimental | [1] Li 2013; _cites Bruzzone 1966_ | Table 6, p. 8, row 19; `ORC-TKQKT2ZQFG` |  |
+| 302.15 | L -> CaGa4 + Ga | L: Ga 0.994; CaGa4: Ga 0.8; Ga: Ga 1 | experimental | [2] Wang 2007; _cites Bruzzone 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990171-9) | Table 3, p. 4, row 22; `ORC-UREZRIKSN3` |  |
+| 301.85 | L -> CaGa4 + Ga | L: Ga 0.994; CaGa4: Ga 0.8; Ga: Ga 1 | model | [2] Wang 2007 | Table 3, p. 4, row 21; `ORC-OBWRE3CYMS` |  |
 
 ## Formation enthalpies
 
@@ -186,20 +186,20 @@ Table: Enthalpies of formation, Ca–Ga system (14)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | -38.8 kJ/mol-atom ± 4.8 | 298.15 | experimental |  |  | [2] Wang 2007; _cites Reddy 1999_ [doi](https://doi.org/10.1007/s11663-999-0079-5) | p. 2 | “The enthalpies of formation at 25 ◦ C for the intermetallic compounds CaGa4 , Ca3 Ga8 and CaGa2 , with reference to α-Ca and solid gallium, were first experimentally determined by high-temperature liquid gallium solution calorimetric measurement to be -24.9 ± 4.9 kJ/mol atom, -25.4 ± 2.4 kJ/mol atom and -38.8 ± 4.8 kJ/mol atom, respectively.” |
-| — |  | -25.4 kJ/mol-atom ± 2.4 | 298.15 | experimental |  |  | [2] Wang 2007; _cites Reddy 1999_ [doi](https://doi.org/10.1007/s11663-999-0079-5) | p. 2 | “The enthalpies of formation at 25 ◦ C for the intermetallic compounds CaGa4 , Ca3 Ga8 and CaGa2 , with reference to α-Ca and solid gallium, were first experimentally determined by high-temperature liquid gallium solution calorimetric measurement to be -24.9 ± 4.9 kJ/mol atom, -25.4 ± 2.4 kJ/mol atom and -38.8 ± 4.8 kJ/mol atom, respectively.” |
-| — |  | -24.9 kJ/mol-atom ± 4.9 | 298.15 | experimental |  |  | [2] Wang 2007; _cites Reddy 1999_ [doi](https://doi.org/10.1007/s11663-999-0079-5) | p. 2 | “The enthalpies of formation at 25 ◦ C for the intermetallic compounds CaGa4 , Ca3 Ga8 and CaGa2 , with reference to α-Ca and solid gallium, were first experimentally determined by high-temperature liquid gallium solution calorimetric measurement to be -24.9 ± 4.9 kJ/mol atom, -25.4 ± 2.4 kJ/mol atom and -38.8 ± 4.8 kJ/mol atom, respectively.” |
-| Ca11Ga7 |  | -37.258 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 2, p. 3, row 3 |  |
-| Ca28Ga11 |  | -29.826 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 2, p. 3, row 1 |  |
-| Ca3Ga5 |  | -48.725 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 2, p. 3, row 5 |  |
-| Ca3Ga8 |  | -41.02 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 2, p. 3, row 9 |  |
-| Ca3Ga8 | [Ca3Ga8](https://data.orchid-project.org/compounds/Ca3Ga8.html) | -25.4 kJ/mol-atom ± 2.4 | 298.15 | experimental | -42.173 (mp-aaaaasrb) | -42.5 (oqmd-18922) | [1] Li 2013; _cites Reddy 1999_ [doi](https://doi.org/10.1007/s11663-999-0079-5) | Table 2, p. 3, row 10 |  |
-| Ca5Ga3 |  | -35.868 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 2, p. 3, row 2 |  |
-| CaGa |  | -44.545 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 2, p. 3, row 4 |  |
-| CaGa2 |  | -49.254 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 2, p. 3, row 6 |  |
-| CaGa2 | [CaGa2](https://data.orchid-project.org/compounds/CaGa2.html) | -38.8 kJ/mol-atom ± 4.8 |  | unspecified | -50.078 (mp-aaaaaqsa) | -50.802 (oqmd-28952) | [1] Li 2013 | Table 2, p. 3, row 7 |  |
-| CaGa4 |  | -34.155 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 2, p. 3, row 11 |  |
-| CaGa4 | [CaGa4](https://data.orchid-project.org/compounds/CaGa4.html) | -24.9 kJ/mol-atom ± 4.9 | 298.15 | experimental | -35.27 (mp-aaaaacya) | -35.178 (oqmd-647536) | [1] Li 2013; _cites Reddy 1999_ [doi](https://doi.org/10.1007/s11663-999-0079-5) | Table 2, p. 3, row 12 |  |
+| — |  | -38.8 kJ/mol-atom ± 4.8 | 298.15 | experimental |  |  | [2] Wang 2007; _cites Reddy 1999_ [doi](https://doi.org/10.1007/s11663-999-0079-5) | p. 2; `ORC-3BYNFYTFJO.772f08` | “The enthalpies of formation at 25 ◦ C for the intermetallic compounds CaGa4 , Ca3 Ga8 and CaGa2 , with reference to α-Ca and solid gallium, were first experimentally determined by high-temperature liquid gallium solution calorimetric measurement to be -24.9 ± 4.9 kJ/mol atom, -25.4 ± 2.4 kJ/mol atom and -38.8 ± 4.8 kJ/mol atom, respectively.” |
+| — |  | -25.4 kJ/mol-atom ± 2.4 | 298.15 | experimental |  |  | [2] Wang 2007; _cites Reddy 1999_ [doi](https://doi.org/10.1007/s11663-999-0079-5) | p. 2; `ORC-3BYNFYTFJO.da57b0` | “The enthalpies of formation at 25 ◦ C for the intermetallic compounds CaGa4 , Ca3 Ga8 and CaGa2 , with reference to α-Ca and solid gallium, were first experimentally determined by high-temperature liquid gallium solution calorimetric measurement to be -24.9 ± 4.9 kJ/mol atom, -25.4 ± 2.4 kJ/mol atom and -38.8 ± 4.8 kJ/mol atom, respectively.” |
+| — |  | -24.9 kJ/mol-atom ± 4.9 | 298.15 | experimental |  |  | [2] Wang 2007; _cites Reddy 1999_ [doi](https://doi.org/10.1007/s11663-999-0079-5) | p. 2; `ORC-3BYNFYTFJO.65148c` | “The enthalpies of formation at 25 ◦ C for the intermetallic compounds CaGa4 , Ca3 Ga8 and CaGa2 , with reference to α-Ca and solid gallium, were first experimentally determined by high-temperature liquid gallium solution calorimetric measurement to be -24.9 ± 4.9 kJ/mol atom, -25.4 ± 2.4 kJ/mol atom and -38.8 ± 4.8 kJ/mol atom, respectively.” |
+| Ca11Ga7 |  | -37.258 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 2, p. 3, row 3; `ORC-COLKEQBGBT` |  |
+| Ca28Ga11 |  | -29.826 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 2, p. 3, row 1; `ORC-CDK5HRN7PY` |  |
+| Ca3Ga5 |  | -48.725 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 2, p. 3, row 5; `ORC-6ZQ74D3DYJ` |  |
+| Ca3Ga8 |  | -41.02 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 2, p. 3, row 9; `ORC-NCX5Y3DQWW` |  |
+| Ca3Ga8 | [Ca3Ga8](https://data.orchid-project.org/compounds/Ca3Ga8.html) | -25.4 kJ/mol-atom ± 2.4 | 298.15 | experimental | -42.173 (mp-aaaaasrb) | -42.5 (oqmd-18922) | [1] Li 2013; _cites Reddy 1999_ [doi](https://doi.org/10.1007/s11663-999-0079-5) | Table 2, p. 3, row 10; `ORC-U7SQ5PKPFH` |  |
+| Ca5Ga3 |  | -35.868 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 2, p. 3, row 2; `ORC-K43JKGNFKH` |  |
+| CaGa |  | -44.545 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 2, p. 3, row 4; `ORC-LN6NCSB6YN` |  |
+| CaGa2 |  | -49.254 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 2, p. 3, row 6; `ORC-VBAP5HNV4N` |  |
+| CaGa2 | [CaGa2](https://data.orchid-project.org/compounds/CaGa2.html) | -38.8 kJ/mol-atom ± 4.8 |  | unspecified | -50.078 (mp-aaaaaqsa) | -50.802 (oqmd-28952) | [1] Li 2013 | Table 2, p. 3, row 7; `ORC-53XSRTOSR5.17a713` |  |
+| CaGa4 |  | -34.155 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 2, p. 3, row 11; `ORC-F4ZS4D6HHL` |  |
+| CaGa4 | [CaGa4](https://data.orchid-project.org/compounds/CaGa4.html) | -24.9 kJ/mol-atom ± 4.9 | 298.15 | experimental | -35.27 (mp-aaaaacya) | -35.178 (oqmd-647536) | [1] Li 2013; _cites Reddy 1999_ [doi](https://doi.org/10.1007/s11663-999-0079-5) | Table 2, p. 3, row 12; `ORC-QMQ3M6MTQ2` |  |
 
 ## Other properties
 
@@ -209,13 +209,13 @@ Table: Phase transition, Ca–Ga system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 883.15 K | 883.15 | L + Ca11 Ga7 ↔ Ca5 Ga3 | experimental | [2] Wang 2007; _cites Bruzzone 1966_ | p. 4 | “A satisfactory agreement is obtained between the calculated and experimental data with the largest difference of 4 ◦ C, where the data of \[17\] was at 610 ◦ C on the invariant equilibrium of L + Ca11 Ga7 ↔ Ca5 Ga3 .” |
-| Phase transition | 1259.15 K | 1259.15 | Liquid -> CaGa2; _L: Ga 0.667; CaGa2: Ga 0.667_ | model | [1] Li 2013 | Table 6, p. 8, row 22 |  |
-| Phase transition | 1263.15 K | 1263.15 | L -> CaGa2; _L: Ga 0.667; CaGa2: Ga 0.667_ | experimental | [2] Wang 2007; _cites Bruzzone 1966_ | Table 3, p. 4, row 14 |  |
-| Phase transition | 1263.15 K | 1263.15 | Liquid -> CaGa2; _L: Ga 0.667; CaGa2: Ga 0.667_ | experimental | [1] Li 2013; _cites Bruzzone 1966_ | Table 6, p. 8, row 21 |  |
-| Phase transition | 1263.15 K | 1263.15 | congruent transformation | experimental | [2] Wang 2007 | p. 2 | “CaGa2 remains the only phase with a congruent melting point at 990 ◦ C.” |
-| Phase transition | 1264.15 K | 1264.15 | L -> CaGa2; _L: Ga 0.667; CaGa2: Ga 0.667_ | model | [2] Wang 2007 | Table 3, p. 4, row 13 |  |
-| Phase transition | 1264.15 K | 1264.15 | congruent transformation | model | [2] Wang 2007 | p. 4 | “The calculated congruent-melting point of the CaGa2 phase is 991 ◦ C, which fits well with the work of Bruzzone \[17\].” |
+| Phase transition | 883.15 K | 883.15 | L + Ca11 Ga7 ↔ Ca5 Ga3 | experimental | [2] Wang 2007; _cites Bruzzone 1966_ | p. 4; `ORC-HI5NJR7HFI` | “A satisfactory agreement is obtained between the calculated and experimental data with the largest difference of 4 ◦ C, where the data of \[17\] was at 610 ◦ C on the invariant equilibrium of L + Ca11 Ga7 ↔ Ca5 Ga3 .” |
+| Phase transition | 1259.15 K | 1259.15 | Liquid -> CaGa2; _L: Ga 0.667; CaGa2: Ga 0.667_ | model | [1] Li 2013 | Table 6, p. 8, row 22; `ORC-EG6KWWRH2M` |  |
+| Phase transition | 1263.15 K | 1263.15 | L -> CaGa2; _L: Ga 0.667; CaGa2: Ga 0.667_ | experimental | [2] Wang 2007; _cites Bruzzone 1966_ | Table 3, p. 4, row 14; `ORC-OWZOPVPXJQ` |  |
+| Phase transition | 1263.15 K | 1263.15 | Liquid -> CaGa2; _L: Ga 0.667; CaGa2: Ga 0.667_ | experimental | [1] Li 2013; _cites Bruzzone 1966_ | Table 6, p. 8, row 21; `ORC-VJAVCTKNX3` |  |
+| Phase transition | 1263.15 K | 1263.15 | congruent transformation | experimental | [2] Wang 2007 | p. 2; `ORC-ATTCBO7477` | “CaGa2 remains the only phase with a congruent melting point at 990 ◦ C.” |
+| Phase transition | 1264.15 K | 1264.15 | L -> CaGa2; _L: Ga 0.667; CaGa2: Ga 0.667_ | model | [2] Wang 2007 | Table 3, p. 4, row 13; `ORC-NC7JIU6VD7` |  |
+| Phase transition | 1264.15 K | 1264.15 | congruent transformation | model | [2] Wang 2007 | p. 4; `ORC-HLOUQJH7BH` | “The calculated congruent-melting point of the CaGa2 phase is 991 ◦ C, which fits well with the work of Bruzzone \[17\].” |
 
 ### Crystal structure (39)
 
@@ -223,45 +223,45 @@ Table: Crystal structure, Ca–Ga system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 6.173 Å | 0 | UNKNOWN; _alloy: Ca 0.2, Ga 0.8_ | DFT | [1] Li 2013 | Table 1, p. 2, row 43 |  |
-| Lattice a | 4.45 Å | 0 | UNKNOWN; _alloy: Ca 0.375, Ga 0.625_ | DFT | [1] Li 2013 | Table 1, p. 2, row 37 |  |
-| Lattice a | 7.92 Å | 0 | UNKNOWN; _alloy: Ca 0.625, Ga 0.375_ | DFT | [1] Li 2013 | Table 1, p. 2, row 33 |  |
-| Lattice a | 4.187 Å | 0 | UNKNOWN; _alloy: Ca 0.5, Ga 0.5_ | DFT | [1] Li 2013 | Table 1, p. 2, row 35 |  |
-| Lattice a | 16.072 Å | 0 | UNKNOWN; _alloy: Ca 0.611111, Ga 0.388889_ | DFT | [1] Li 2013 | Table 1, p. 2, row 31 |  |
-| Lattice a | 4.301 Å | 0 | UNKNOWN; _alloy: Ca 0.272727, Ga 0.727273_ | DFT | [1] Li 2013 | Table 1, p. 2, row 41 |  |
-| Lattice a | 4.451 Å | 0 | UNKNOWN; _alloy: Ca 0.333333, Ga 0.666667_ | DFT | [1] Li 2013 | Table 1, p. 2, row 39 |  |
-| Lattice a | 5.551 Å | 0 | UNKNOWN; _alloy: Ca 0.717949, Ga 0.282051_ | DFT | [1] Li 2013 | Table 1, p. 2, row 29 |  |
-| Lattice a | 6.184 Å | 298.15 | UNKNOWN; _alloy: Ca 0.2, Ga 0.8_ | unspecified | [1] Li 2013; _cites He 1989_ | Table 1, p. 2, row 42 |  |
-| Lattice a | 4.463 Å | 298.15 | UNKNOWN; _alloy: Ca 0.375, Ga 0.625_ | unspecified | [1] Li 2013; _cites Cordier 1986_ [doi](https://doi.org/10.1002/zaac.19865390805) | Table 1, p. 2, row 36 |  |
-| Lattice a | 16.109 Å | 298.15 | UNKNOWN; _alloy: Ca 0.611111, Ga 0.388889_ | experimental | [1] Li 2013; _cites Fornasini 1989_ [doi](https://doi.org/10.1524/zkri.1989.187.1-2.111) | Table 1, p. 2, row 30 |  |
-| Lattice a | 5.324 Å | 298.15 | UNKNOWN; _alloy: Ca 0.717949, Ga 0.282051_ | unspecified | [1] Li 2013; _cites Fornasini 1986_ | Table 1, p. 2, row 28 |  |
-| Lattice a | 7.954 Å | 298.15 | UNKNOWN; _alloy: Ca 0.625, Ga 0.375_ | experimental | [1] Li 2013; _cites Bruzzone 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990089-9) | Table 1, p. 2, row 32 |  |
-| Lattice a | 4.323 Å | 298.15 | UNKNOWN; _alloy: Ca 0.272727, Ga 0.727273_ | unspecified | [1] Li 2013; _cites Bruzzone 1988_ | Table 1, p. 2, row 40 |  |
-| Lattice a | 4.467 Å | 298.15 | UNKNOWN; _alloy: Ca 0.333333, Ga 0.666667_ | experimental | [1] Li 2013; _cites Bruzzone 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990171-9) | Table 1, p. 2, row 38 |  |
-| Lattice a | 4.191 Å | 298.15 | UNKNOWN; _alloy: Ca 0.5, Ga 0.5_ | experimental | [1] Li 2013; _cites Merlo 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990195-5) | Table 1, p. 2, row 34 |  |
-| Lattice a | 4.315 Å | 298.15 | UNKNOWN; _alloy: Ca 0.297619, Ga 0.702381_ | experimental | [1] Li 2013; _cites Bruzzone 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990171-9) | Table 1, p. 2, row 44 |  |
-| Lattice b | 6.131 Å | 0 | UNKNOWN; _alloy: Ca 0.2, Ga 0.8_ | DFT | [1] Li 2013 | Table 1, p. 2, row 43 |  |
-| Lattice b | 10.821 Å | 0 | UNKNOWN; _alloy: Ca 0.375, Ga 0.625_ | DFT | [1] Li 2013 | Table 1, p. 2, row 37 |  |
-| Lattice b | 11.48 Å | 0 | UNKNOWN; _alloy: Ca 0.5, Ga 0.5_ | DFT | [1] Li 2013 | Table 1, p. 2, row 35 |  |
-| Lattice b | 7.5 Å | 0 | UNKNOWN; _alloy: Ca 0.717949, Ga 0.282051_ | DFT | [1] Li 2013 | Table 1, p. 2, row 29 |  |
-| Lattice b | 6.132 Å | 298.15 | UNKNOWN; _alloy: Ca 0.2, Ga 0.8_ | unspecified | [1] Li 2013; _cites He 1989_ | Table 1, p. 2, row 42 |  |
-| Lattice b | 10.799 Å | 298.15 | UNKNOWN; _alloy: Ca 0.375, Ga 0.625_ | unspecified | [1] Li 2013; _cites Cordier 1986_ [doi](https://doi.org/10.1002/zaac.19865390805) | Table 1, p. 2, row 36 |  |
-| Lattice b | 7.488 Å | 298.15 | UNKNOWN; _alloy: Ca 0.717949, Ga 0.282051_ | unspecified | [1] Li 2013; _cites Fornasini 1986_ | Table 1, p. 2, row 28 |  |
-| Lattice b | 11.457 Å | 298.15 | UNKNOWN; _alloy: Ca 0.5, Ga 0.5_ | experimental | [1] Li 2013; _cites Merlo 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990195-5) | Table 1, p. 2, row 34 |  |
-| Lattice c | 6.104 Å | 0 | UNKNOWN; _alloy: Ca 0.2, Ga 0.8_ | DFT | [1] Li 2013 | Table 1, p. 2, row 43 |  |
-| Lattice c | 15.003 Å | 0 | UNKNOWN; _alloy: Ca 0.375, Ga 0.625_ | DFT | [1] Li 2013 | Table 1, p. 2, row 37 |  |
-| Lattice c | 15.072 Å | 0 | UNKNOWN; _alloy: Ca 0.625, Ga 0.375_ | DFT | [1] Li 2013 | Table 1, p. 2, row 33 |  |
-| Lattice c | 4.362 Å | 0 | UNKNOWN; _alloy: Ca 0.5, Ga 0.5_ | DFT | [1] Li 2013 | Table 1, p. 2, row 35 |  |
-| Lattice c | 25.86 Å | 0 | UNKNOWN; _alloy: Ca 0.272727, Ga 0.727273_ | DFT | [1] Li 2013 | Table 1, p. 2, row 41 |  |
-| Lattice c | 7.411 Å | 0 | UNKNOWN; _alloy: Ca 0.333333, Ga 0.666667_ | DFT | [1] Li 2013 | Table 1, p. 2, row 39 |  |
-| Lattice c | 31.237 Å | 0 | UNKNOWN; _alloy: Ca 0.717949, Ga 0.282051_ | DFT | [1] Li 2013 | Table 1, p. 2, row 29 |  |
-| Lattice c | 6.12 Å | 298.15 | UNKNOWN; _alloy: Ca 0.2, Ga 0.8_ | unspecified | [1] Li 2013; _cites He 1989_ | Table 1, p. 2, row 42 |  |
-| Lattice c | 15.025 Å | 298.15 | UNKNOWN; _alloy: Ca 0.375, Ga 0.625_ | unspecified | [1] Li 2013; _cites Cordier 1986_ [doi](https://doi.org/10.1002/zaac.19865390805) | Table 1, p. 2, row 36 |  |
-| Lattice c | 31.064 Å | 298.15 | UNKNOWN; _alloy: Ca 0.717949, Ga 0.282051_ | unspecified | [1] Li 2013; _cites Fornasini 1986_ | Table 1, p. 2, row 28 |  |
-| Lattice c | 15.084 Å | 298.15 | UNKNOWN; _alloy: Ca 0.625, Ga 0.375_ | experimental | [1] Li 2013; _cites Bruzzone 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990089-9) | Table 1, p. 2, row 32 |  |
-| Lattice c | 25.843 Å | 298.15 | UNKNOWN; _alloy: Ca 0.272727, Ga 0.727273_ | unspecified | [1] Li 2013; _cites Bruzzone 1988_ | Table 1, p. 2, row 40 |  |
-| Lattice c | 7.393 Å | 298.15 | UNKNOWN; _alloy: Ca 0.333333, Ga 0.666667_ | experimental | [1] Li 2013; _cites Bruzzone 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990171-9) | Table 1, p. 2, row 38 |  |
-| Lattice c | 4.387 Å | 298.15 | UNKNOWN; _alloy: Ca 0.5, Ga 0.5_ | experimental | [1] Li 2013; _cites Merlo 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990195-5) | Table 1, p. 2, row 34 |  |
+| Lattice a | 6.173 Å | 0 | UNKNOWN; _alloy: Ca 0.2, Ga 0.8_ | DFT | [1] Li 2013 | Table 1, p. 2, row 43; `ORC-236FMJJ33C.e2cd59` |  |
+| Lattice a | 4.45 Å | 0 | UNKNOWN; _alloy: Ca 0.375, Ga 0.625_ | DFT | [1] Li 2013 | Table 1, p. 2, row 37; `ORC-3VUFTVNMO4.5d8555` |  |
+| Lattice a | 7.92 Å | 0 | UNKNOWN; _alloy: Ca 0.625, Ga 0.375_ | DFT | [1] Li 2013 | Table 1, p. 2, row 33; `ORC-FORCWB7K2E.7ca18b` |  |
+| Lattice a | 4.187 Å | 0 | UNKNOWN; _alloy: Ca 0.5, Ga 0.5_ | DFT | [1] Li 2013 | Table 1, p. 2, row 35; `ORC-MQG6GQPQ7J.9c9379` |  |
+| Lattice a | 16.072 Å | 0 | UNKNOWN; _alloy: Ca 0.611111, Ga 0.388889_ | DFT | [1] Li 2013 | Table 1, p. 2, row 31; `ORC-MW43XBXCSW` |  |
+| Lattice a | 4.301 Å | 0 | UNKNOWN; _alloy: Ca 0.272727, Ga 0.727273_ | DFT | [1] Li 2013 | Table 1, p. 2, row 41; `ORC-S7LIGMX7OH.3c5160` |  |
+| Lattice a | 4.451 Å | 0 | UNKNOWN; _alloy: Ca 0.333333, Ga 0.666667_ | DFT | [1] Li 2013 | Table 1, p. 2, row 39; `ORC-VAMWJSPZ6A.17dfe2` |  |
+| Lattice a | 5.551 Å | 0 | UNKNOWN; _alloy: Ca 0.717949, Ga 0.282051_ | DFT | [1] Li 2013 | Table 1, p. 2, row 29; `ORC-WDCXO2IOHK.9c1a2f` |  |
+| Lattice a | 6.184 Å | 298.15 | UNKNOWN; _alloy: Ca 0.2, Ga 0.8_ | unspecified | [1] Li 2013; _cites He 1989_ | Table 1, p. 2, row 42; `ORC-2CBGHBDZNQ.f6c6e9` |  |
+| Lattice a | 4.463 Å | 298.15 | UNKNOWN; _alloy: Ca 0.375, Ga 0.625_ | unspecified | [1] Li 2013; _cites Cordier 1986_ [doi](https://doi.org/10.1002/zaac.19865390805) | Table 1, p. 2, row 36; `ORC-6TILKVVYSC.d0b043` |  |
+| Lattice a | 16.109 Å | 298.15 | UNKNOWN; _alloy: Ca 0.611111, Ga 0.388889_ | experimental | [1] Li 2013; _cites Fornasini 1989_ [doi](https://doi.org/10.1524/zkri.1989.187.1-2.111) | Table 1, p. 2, row 30; `ORC-KOK6RY6YJT` |  |
+| Lattice a | 5.324 Å | 298.15 | UNKNOWN; _alloy: Ca 0.717949, Ga 0.282051_ | unspecified | [1] Li 2013; _cites Fornasini 1986_ | Table 1, p. 2, row 28; `ORC-NFEWP6LSMU.a325f0` |  |
+| Lattice a | 7.954 Å | 298.15 | UNKNOWN; _alloy: Ca 0.625, Ga 0.375_ | experimental | [1] Li 2013; _cites Bruzzone 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990089-9) | Table 1, p. 2, row 32; `ORC-NTYQ5HO3DG.6dd1a2` |  |
+| Lattice a | 4.323 Å | 298.15 | UNKNOWN; _alloy: Ca 0.272727, Ga 0.727273_ | unspecified | [1] Li 2013; _cites Bruzzone 1988_ | Table 1, p. 2, row 40; `ORC-NXE2QPGVVI.2aa201` |  |
+| Lattice a | 4.467 Å | 298.15 | UNKNOWN; _alloy: Ca 0.333333, Ga 0.666667_ | experimental | [1] Li 2013; _cites Bruzzone 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990171-9) | Table 1, p. 2, row 38; `ORC-UPZ6Z5R5E7.c3f38a` |  |
+| Lattice a | 4.191 Å | 298.15 | UNKNOWN; _alloy: Ca 0.5, Ga 0.5_ | experimental | [1] Li 2013; _cites Merlo 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990195-5) | Table 1, p. 2, row 34; `ORC-WCU2NWVZ2V.1d5877` |  |
+| Lattice a | 4.315 Å | 298.15 | UNKNOWN; _alloy: Ca 0.297619, Ga 0.702381_ | experimental | [1] Li 2013; _cites Bruzzone 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990171-9) | Table 1, p. 2, row 44; `ORC-YHT7A77NIK` |  |
+| Lattice b | 6.131 Å | 0 | UNKNOWN; _alloy: Ca 0.2, Ga 0.8_ | DFT | [1] Li 2013 | Table 1, p. 2, row 43; `ORC-236FMJJ33C.6abfe6` |  |
+| Lattice b | 10.821 Å | 0 | UNKNOWN; _alloy: Ca 0.375, Ga 0.625_ | DFT | [1] Li 2013 | Table 1, p. 2, row 37; `ORC-3VUFTVNMO4.414a1c` |  |
+| Lattice b | 11.48 Å | 0 | UNKNOWN; _alloy: Ca 0.5, Ga 0.5_ | DFT | [1] Li 2013 | Table 1, p. 2, row 35; `ORC-MQG6GQPQ7J.503a07` |  |
+| Lattice b | 7.5 Å | 0 | UNKNOWN; _alloy: Ca 0.717949, Ga 0.282051_ | DFT | [1] Li 2013 | Table 1, p. 2, row 29; `ORC-WDCXO2IOHK.cd1d01` |  |
+| Lattice b | 6.132 Å | 298.15 | UNKNOWN; _alloy: Ca 0.2, Ga 0.8_ | unspecified | [1] Li 2013; _cites He 1989_ | Table 1, p. 2, row 42; `ORC-2CBGHBDZNQ.e27072` |  |
+| Lattice b | 10.799 Å | 298.15 | UNKNOWN; _alloy: Ca 0.375, Ga 0.625_ | unspecified | [1] Li 2013; _cites Cordier 1986_ [doi](https://doi.org/10.1002/zaac.19865390805) | Table 1, p. 2, row 36; `ORC-6TILKVVYSC.1d3f6c` |  |
+| Lattice b | 7.488 Å | 298.15 | UNKNOWN; _alloy: Ca 0.717949, Ga 0.282051_ | unspecified | [1] Li 2013; _cites Fornasini 1986_ | Table 1, p. 2, row 28; `ORC-NFEWP6LSMU.1e5a09` |  |
+| Lattice b | 11.457 Å | 298.15 | UNKNOWN; _alloy: Ca 0.5, Ga 0.5_ | experimental | [1] Li 2013; _cites Merlo 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990195-5) | Table 1, p. 2, row 34; `ORC-WCU2NWVZ2V.9df06f` |  |
+| Lattice c | 6.104 Å | 0 | UNKNOWN; _alloy: Ca 0.2, Ga 0.8_ | DFT | [1] Li 2013 | Table 1, p. 2, row 43; `ORC-236FMJJ33C.0a5175` |  |
+| Lattice c | 15.003 Å | 0 | UNKNOWN; _alloy: Ca 0.375, Ga 0.625_ | DFT | [1] Li 2013 | Table 1, p. 2, row 37; `ORC-3VUFTVNMO4.5e2be8` |  |
+| Lattice c | 15.072 Å | 0 | UNKNOWN; _alloy: Ca 0.625, Ga 0.375_ | DFT | [1] Li 2013 | Table 1, p. 2, row 33; `ORC-FORCWB7K2E.c986aa` |  |
+| Lattice c | 4.362 Å | 0 | UNKNOWN; _alloy: Ca 0.5, Ga 0.5_ | DFT | [1] Li 2013 | Table 1, p. 2, row 35; `ORC-MQG6GQPQ7J.2195a9` |  |
+| Lattice c | 25.86 Å | 0 | UNKNOWN; _alloy: Ca 0.272727, Ga 0.727273_ | DFT | [1] Li 2013 | Table 1, p. 2, row 41; `ORC-S7LIGMX7OH.320f7b` |  |
+| Lattice c | 7.411 Å | 0 | UNKNOWN; _alloy: Ca 0.333333, Ga 0.666667_ | DFT | [1] Li 2013 | Table 1, p. 2, row 39; `ORC-VAMWJSPZ6A.6745d6` |  |
+| Lattice c | 31.237 Å | 0 | UNKNOWN; _alloy: Ca 0.717949, Ga 0.282051_ | DFT | [1] Li 2013 | Table 1, p. 2, row 29; `ORC-WDCXO2IOHK.9177dd` |  |
+| Lattice c | 6.12 Å | 298.15 | UNKNOWN; _alloy: Ca 0.2, Ga 0.8_ | unspecified | [1] Li 2013; _cites He 1989_ | Table 1, p. 2, row 42; `ORC-2CBGHBDZNQ.726990` |  |
+| Lattice c | 15.025 Å | 298.15 | UNKNOWN; _alloy: Ca 0.375, Ga 0.625_ | unspecified | [1] Li 2013; _cites Cordier 1986_ [doi](https://doi.org/10.1002/zaac.19865390805) | Table 1, p. 2, row 36; `ORC-6TILKVVYSC.368f3e` |  |
+| Lattice c | 31.064 Å | 298.15 | UNKNOWN; _alloy: Ca 0.717949, Ga 0.282051_ | unspecified | [1] Li 2013; _cites Fornasini 1986_ | Table 1, p. 2, row 28; `ORC-NFEWP6LSMU.d5ac60` |  |
+| Lattice c | 15.084 Å | 298.15 | UNKNOWN; _alloy: Ca 0.625, Ga 0.375_ | experimental | [1] Li 2013; _cites Bruzzone 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990089-9) | Table 1, p. 2, row 32; `ORC-NTYQ5HO3DG.051086` |  |
+| Lattice c | 25.843 Å | 298.15 | UNKNOWN; _alloy: Ca 0.272727, Ga 0.727273_ | unspecified | [1] Li 2013; _cites Bruzzone 1988_ | Table 1, p. 2, row 40; `ORC-NXE2QPGVVI.4c4aab` |  |
+| Lattice c | 7.393 Å | 298.15 | UNKNOWN; _alloy: Ca 0.333333, Ga 0.666667_ | experimental | [1] Li 2013; _cites Bruzzone 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990171-9) | Table 1, p. 2, row 38; `ORC-UPZ6Z5R5E7.169783` |  |
+| Lattice c | 4.387 Å | 298.15 | UNKNOWN; _alloy: Ca 0.5, Ga 0.5_ | experimental | [1] Li 2013; _cites Merlo 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990195-5) | Table 1, p. 2, row 34; `ORC-WCU2NWVZ2V.d5d171` |  |
 
 ## Sources
 
@@ -327,4 +327,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

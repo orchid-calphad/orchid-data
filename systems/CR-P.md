@@ -53,7 +53,7 @@ Table: Invariant reactions reported in the literature for the Cr–P system (1)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1645.15 | eutectic |  | model | [1] Miettinen 1999 | p. 4 | “'Gcrp = 2'Gcrbcc+ oGpwhite-p -159530+5T gave a low solubility of phosphorus in the bee phase (O.OOSwt%at Here, the bee interaction parameter, Lc,,rbCC, the calculated eutectic temperature of 1372'C) which agrees reasonably well with the "very slow" solubility suggested by experimental studies (6,7).” |
+| 1645.15 | eutectic |  | model | [1] Miettinen 1999 | p. 4; `ORC-YSJBG7JW4S` | “'Gcrp = 2'Gcrbcc+ oGpwhite-p -159530+5T gave a low solubility of phosphorus in the bee phase (O.OOSwt%at Here, the bee interaction parameter, Lc,,rbCC, the calculated eutectic temperature of 1372'C) which agrees reasonably well with the "very slow" solubility suggested by experimental studies (6,7).” |
 
 ## Other properties
 
@@ -63,8 +63,8 @@ Table: Activity / EMF / Gibbs energy, Cr–P system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Gibbs energy | -150 kJ/mol | 1920.15 | Cr2P | model | [1] Miettinen 1999 | p. 4 | “After making the necessary change of reference state of pure phosphorus from gaseous phase (5) to white-P (21), a certain Gibbs energy function was obtained for Crr.ss5Pi.ro5yielding a value of about -159 kJ/mol at 1647'C (calculated melting point of Cr2P) whereas Eq.(9) yields a value of about -150 kJ/mol for Cr2P at the same temperature.” |
-| Gibbs energy | -159 kJ/mol | 1920.15 | Crr.ss5Pi.ro5 | model | [1] Miettinen 1999; _cites AI 1998_ | p. 4 | “After making the necessary change of reference state of pure phosphorus from gaseous phase (5) to white-P (21), a certain Gibbs energy function was obtained for Crr.ss5Pi.ro5yielding a value of about -159 kJ/mol at 1647'C (calculated melting point of Cr2P) whereas Eq.(9) yields a value of about -150 kJ/mol for Cr2P at the same temperature.” |
+| Gibbs energy | -150 kJ/mol | 1920.15 | Cr2P | model | [1] Miettinen 1999 | p. 4; `ORC-CF25SFD6FI.90c67e` | “After making the necessary change of reference state of pure phosphorus from gaseous phase (5) to white-P (21), a certain Gibbs energy function was obtained for Crr.ss5Pi.ro5yielding a value of about -159 kJ/mol at 1647'C (calculated melting point of Cr2P) whereas Eq.(9) yields a value of about -150 kJ/mol for Cr2P at the same temperature.” |
+| Gibbs energy | -159 kJ/mol | 1920.15 | Crr.ss5Pi.ro5 | model | [1] Miettinen 1999; _cites AI 1998_ | p. 4; `ORC-CF25SFD6FI.5afe24` | “After making the necessary change of reference state of pure phosphorus from gaseous phase (5) to white-P (21), a certain Gibbs energy function was obtained for Crr.ss5Pi.ro5yielding a value of about -159 kJ/mol at 1647'C (calculated melting point of Cr2P) whereas Eq.(9) yields a value of about -150 kJ/mol for Cr2P at the same temperature.” |
 
 ## Sources
 
@@ -129,4 +129,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -56,22 +56,22 @@ Table: Invariant reactions reported in the literature for the Ni–Te system (16
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1277.7 | eutectic: Liq -> FCC + β1 | β1: Te 0.5 | model | [1] Arvhult 2019; _cites Lee 1990_ | Table 7, p. 13, row 4 |  |
-| 1271 | eutectic: Liq -> FCC + β1 | L: Te 0.3277; FCC: Te 7.000e-5; β1: Te 0.371 | model | [1] Arvhult 2019 | Table 7, p. 13, row 3 |  |
-| 1153.4 | peritectic: β1 + Liq -> γ2 | β1: Te 0.4337; L: Te 0.4887; γ2: Te 0.4595 | model | [1] Arvhult 2019 | Table 7, p. 13, row 9 |  |
-| 1153.2 | peritectic: β1 + Liq -> γ2 | β1: Te 0.5; γ2: Te 0.459459 | model | [1] Arvhult 2019; _cites Lee 1990_ | Table 7, p. 13, row 10 |  |
-| 1147.9 | eutectic: Liq -> γ2 + δ | L: Te 0.495; γ2: Te 0.4595; δ: Te 0.5286 | model | [1] Arvhult 2019 | Table 7, p. 13, row 15 |  |
-| 1146.2 | eutectic: Liq -> γ2 + δ | γ2: Te 0.459459; δ: Te 0.5 | model | [1] Arvhult 2019; _cites Lee 1990_ | Table 7, p. 13, row 16 |  |
-| 1052.8 | eutectoid: β1 -> β2 + γ2 | β1: Te 0.4182; β2: Te 0.4115; γ2: Te 0.4595 | model | [1] Arvhult 2019 | Table 7, p. 13, row 11 |  |
-| 1048.2 | eutectoid: β1 -> β2 + γ2 | β1: Te 0.5; β2: Te 0.5; γ2: Te 0.459459 | model | [1] Arvhult 2019; _cites Lee 1990_ | Table 7, p. 13, row 12 |  |
-| 1015.7 | peritectoid: β2 + γ2 -> γ1 | β2: Te 0.5; γ2: Te 0.459459; γ1: Te 0.434783 | model | [1] Arvhult 2019; _cites Lee 1990_ | Table 7, p. 13, row 14 |  |
-| 1012 | peritectoid: β2 + γ2 -> γ1 | β2: Te 0.412; γ2: Te 0.4595; γ1: Te 0.4348 | model | [1] Arvhult 2019 | Table 7, p. 13, row 13 |  |
-| 1004.7 | eutectoid: β1 -> FCC + β2 | β1: Te 0.5; β2: Te 0.5 | model | [1] Arvhult 2019; _cites Lee 1990_ | Table 7, p. 13, row 8 |  |
-| 1004.6 | eutectoid: β1 -> FCC + β2 | β1: Te 0.3744; FCC: Te 1.000e-5; β2: Te 0.3945 | model | [1] Arvhult 2019 | Table 7, p. 13, row 7 |  |
-| 963.2 | eutectoid: γ2 -> γ1 + δ | γ2: Te 0.459459; γ1: Te 0.434783; δ: Te 0.5 | model | [1] Arvhult 2019; _cites Lee 1990_ | Table 7, p. 13, row 18 |  |
-| 962.2 | eutectoid: γ2 -> γ1 + δ | γ2: Te 0.4595; γ1: Te 0.4348; δ: Te 0.5203 | model | [1] Arvhult 2019 | Table 7, p. 13, row 17 |  |
-| 721.7 | eutectic: Liq -> δ + Te – A8 | δ: Te 0.5; Te – A8: Te 1 | model | [1] Arvhult 2019; _cites Lee 1990_ | Table 7, p. 13, row 22 |  |
-| 720.9 | eutectic: Liq -> δ + Te – A8 | L: Te 0.9932; δ: Te 0.6671; Te – A8: Te 1 | model | [1] Arvhult 2019 | Table 7, p. 13, row 21 |  |
+| 1277.7 | eutectic: Liq -> FCC + β1 | β1: Te 0.5 | model | [1] Arvhult 2019; _cites Lee 1990_ | Table 7, p. 13, row 4; `ORC-WQ37BC7RNL` |  |
+| 1271 | eutectic: Liq -> FCC + β1 | L: Te 0.3277; FCC: Te 7.000e-5; β1: Te 0.371 | model | [1] Arvhult 2019 | Table 7, p. 13, row 3; `ORC-DOXGXRPHDF` |  |
+| 1153.4 | peritectic: β1 + Liq -> γ2 | β1: Te 0.4337; L: Te 0.4887; γ2: Te 0.4595 | model | [1] Arvhult 2019 | Table 7, p. 13, row 9; `ORC-R7OPUMRFBR` |  |
+| 1153.2 | peritectic: β1 + Liq -> γ2 | β1: Te 0.5; γ2: Te 0.459459 | model | [1] Arvhult 2019; _cites Lee 1990_ | Table 7, p. 13, row 10; `ORC-2KPTSDQ5Z5` |  |
+| 1147.9 | eutectic: Liq -> γ2 + δ | L: Te 0.495; γ2: Te 0.4595; δ: Te 0.5286 | model | [1] Arvhult 2019 | Table 7, p. 13, row 15; `ORC-O6WKERRIDP` |  |
+| 1146.2 | eutectic: Liq -> γ2 + δ | γ2: Te 0.459459; δ: Te 0.5 | model | [1] Arvhult 2019; _cites Lee 1990_ | Table 7, p. 13, row 16; `ORC-5JHC6F4NVF` |  |
+| 1052.8 | eutectoid: β1 -> β2 + γ2 | β1: Te 0.4182; β2: Te 0.4115; γ2: Te 0.4595 | model | [1] Arvhult 2019 | Table 7, p. 13, row 11; `ORC-FXFEB47GUF` |  |
+| 1048.2 | eutectoid: β1 -> β2 + γ2 | β1: Te 0.5; β2: Te 0.5; γ2: Te 0.459459 | model | [1] Arvhult 2019; _cites Lee 1990_ | Table 7, p. 13, row 12; `ORC-OUFOPZ5WNC` |  |
+| 1015.7 | peritectoid: β2 + γ2 -> γ1 | β2: Te 0.5; γ2: Te 0.459459; γ1: Te 0.434783 | model | [1] Arvhult 2019; _cites Lee 1990_ | Table 7, p. 13, row 14; `ORC-PMXXAXB536` |  |
+| 1012 | peritectoid: β2 + γ2 -> γ1 | β2: Te 0.412; γ2: Te 0.4595; γ1: Te 0.4348 | model | [1] Arvhult 2019 | Table 7, p. 13, row 13; `ORC-C442NO2LXB` |  |
+| 1004.7 | eutectoid: β1 -> FCC + β2 | β1: Te 0.5; β2: Te 0.5 | model | [1] Arvhult 2019; _cites Lee 1990_ | Table 7, p. 13, row 8; `ORC-YCKX4BGDLH` |  |
+| 1004.6 | eutectoid: β1 -> FCC + β2 | β1: Te 0.3744; FCC: Te 1.000e-5; β2: Te 0.3945 | model | [1] Arvhult 2019 | Table 7, p. 13, row 7; `ORC-G43KKYW7ZL` |  |
+| 963.2 | eutectoid: γ2 -> γ1 + δ | γ2: Te 0.459459; γ1: Te 0.434783; δ: Te 0.5 | model | [1] Arvhult 2019; _cites Lee 1990_ | Table 7, p. 13, row 18; `ORC-6Z33HXMKGM` |  |
+| 962.2 | eutectoid: γ2 -> γ1 + δ | γ2: Te 0.4595; γ1: Te 0.4348; δ: Te 0.5203 | model | [1] Arvhult 2019 | Table 7, p. 13, row 17; `ORC-DU43UCCDUY` |  |
+| 721.7 | eutectic: Liq -> δ + Te – A8 | δ: Te 0.5; Te – A8: Te 1 | model | [1] Arvhult 2019; _cites Lee 1990_ | Table 7, p. 13, row 22; `ORC-YJ7TYYQ2MV` |  |
+| 720.9 | eutectic: Liq -> δ + Te – A8 | L: Te 0.9932; δ: Te 0.6671; Te – A8: Te 1 | model | [1] Arvhult 2019 | Table 7, p. 13, row 21; `ORC-BD4BEKWGHZ` |  |
 
 ## Other properties
 
@@ -81,13 +81,13 @@ Table: Phase transition, Ni–Te system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 350 K | 350 | other | experimental | [1] Arvhult 2019 | p. 8 | “Figure 6 shows for 57.1 at.% Te a bump in CP at around 350 K; this was not modeled but the general slope of the data is satisfactory.” |
-| Phase transition | 1057.8 K | 1057.8 | congruent transformation: β1 -> β2; _β1: Te 0.4077; β2: Te 0.4077_ | model | [1] Arvhult 2019 | Table 7, p. 13, row 5 |  |
-| Phase transition | 1063.2 K | 1063.2 | congruent transformation: β1 -> β2; _β1: Te 0.5; β2: Te 0.5_ | model | [1] Arvhult 2019; _cites Lee 1990_ | Table 7, p. 13, row 6 |  |
-| Phase transition | 1172.8 K | 1172.8 | congruent melting: Liq -> δ; _L: Te 0.5687; δ: Te 0.5687_ | model | [1] Arvhult 2019 | Table 7, p. 13, row 19 |  |
-| Phase transition | 1173.7 K | 1173.7 | congruent melting: Liq -> δ; _L: Te 0.5; δ: Te 0.5_ | model | [1] Arvhult 2019; _cites Lee 1990_ | Table 7, p. 13, row 20 |  |
-| Phase transition | 1294.7 K | 1294.7 | congruent melting: Liq -> β1; _L: Te 0.5; β1: Te 0.5_ | model | [1] Arvhult 2019; _cites Lee 1990_ | Table 7, p. 13, row 2 |  |
-| Phase transition | 1295.17 K | 1295.17 | congruent melting: Liq -> β1; _L: Te 0.3814; β1: Te 0.3814_ | model | [1] Arvhult 2019 | Table 7, p. 13, row 1 |  |
+| Phase transition | 350 K | 350 | other | experimental | [1] Arvhult 2019 | p. 8; `ORC-FLCQIDA3M5` | “Figure 6 shows for 57.1 at.% Te a bump in CP at around 350 K; this was not modeled but the general slope of the data is satisfactory.” |
+| Phase transition | 1057.8 K | 1057.8 | congruent transformation: β1 -> β2; _β1: Te 0.4077; β2: Te 0.4077_ | model | [1] Arvhult 2019 | Table 7, p. 13, row 5; `ORC-3KJNTOTTI6` |  |
+| Phase transition | 1063.2 K | 1063.2 | congruent transformation: β1 -> β2; _β1: Te 0.5; β2: Te 0.5_ | model | [1] Arvhult 2019; _cites Lee 1990_ | Table 7, p. 13, row 6; `ORC-A5FZNHYXWW` |  |
+| Phase transition | 1172.8 K | 1172.8 | congruent melting: Liq -> δ; _L: Te 0.5687; δ: Te 0.5687_ | model | [1] Arvhult 2019 | Table 7, p. 13, row 19; `ORC-5UJDP64EOJ` |  |
+| Phase transition | 1173.7 K | 1173.7 | congruent melting: Liq -> δ; _L: Te 0.5; δ: Te 0.5_ | model | [1] Arvhult 2019; _cites Lee 1990_ | Table 7, p. 13, row 20; `ORC-COZMOGDAEG` |  |
+| Phase transition | 1294.7 K | 1294.7 | congruent melting: Liq -> β1; _L: Te 0.5; β1: Te 0.5_ | model | [1] Arvhult 2019; _cites Lee 1990_ | Table 7, p. 13, row 2; `ORC-EVKDH5MJLY` |  |
+| Phase transition | 1295.17 K | 1295.17 | congruent melting: Liq -> β1; _L: Te 0.3814; β1: Te 0.3814_ | model | [1] Arvhult 2019 | Table 7, p. 13, row 1; `ORC-HRM7GFOVQD` |  |
 
 ### Crystal structure (24)
 
@@ -95,30 +95,30 @@ Table: Crystal structure, Ni–Te system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 3.88 Å | 0 | UNKNOWN; _alloy: Te 0.333333_ | DFT | [1] Arvhult 2019 | Table 5, p. 7, row 1 |  |
-| Lattice a | 3.75 Å | 0 | UNKNOWN; _alloy: Te 0.5_ | DFT | [1] Arvhult 2019 | Table 5, p. 7, row 2 |  |
-| Lattice a | 3.78 Å |  | UNKNOWN; _alloy: Te 0_ | experimental | [1] Arvhult 2019; _cites Gulay 2004_ | Table 5, p. 7, row 3 |  |
-| Lattice a | 3.99 Å |  | β2 (ht) | unspecified | [1] Arvhult 2019; _cites Kok 1965_ [doi](https://doi.org/10.1002/recl.19650841208) | Table 1, p. 3, row 4 |  |
-| Lattice a | 11.44 Å | 298.15 | UNKNOWN | experimental | [1] Arvhult 2019; _cites Stevels 1969_ | Table 1, p. 3, row 3 |  |
-| Lattice a | 5.71 Å | 298.15 | β1 | experimental | [1] Arvhult 2019; _cites Stevels 1969_ | Table 1, p. 3, row 2 |  |
-| Lattice a | 7.54 Å | 298.15 | β2 (hn) | experimental | [1] Arvhult 2019; _cites Gulay 2004_ | Table 1, p. 3, row 5 |  |
-| Lattice a | 7.54 Å | 298.15 | β2 (ln) | experimental | [1] Arvhult 2019; _cites Gulay 2004_ | Table 1, p. 3, row 6 |  |
-| Lattice a | 12.38 Å | 298.15 | γ1 | experimental | [1] Arvhult 2019; _cites Gulay 2007_ [doi](https://doi.org/10.1107/s1600536807050568) | Table 1, p. 3, row 9 |  |
-| Lattice a | 3.86 Å | 298.15 | δ | experimental | [1] Arvhult 2019; _cites Noren 2001_ [doi](https://doi.org/10.1006/jssc.2001.9309) | Table 1, p. 3, row 8 |  |
-| Lattice a | 3.97 Å | 298.15 | δ | experimental | [1] Arvhult 2019; _cites Noren 2001_ [doi](https://doi.org/10.1006/jssc.2001.9309) | Table 1, p. 3, row 7 |  |
-| Lattice b | 3.79 Å | 298.15 | β2 (hn) | experimental | [1] Arvhult 2019; _cites Gulay 2004_ | Table 1, p. 3, row 5 |  |
-| Lattice b | 3.79 Å | 298.15 | β2 (ln) | experimental | [1] Arvhult 2019; _cites Gulay 2004_ | Table 1, p. 3, row 6 |  |
-| Lattice b | 3.92 Å | 298.15 | γ1 | experimental | [1] Arvhult 2019; _cites Gulay 2007_ [doi](https://doi.org/10.1107/s1600536807050568) | Table 1, p. 3, row 9 |  |
-| Lattice c | 6.02 Å | 0 | UNKNOWN; _alloy: Te 0.333333_ | DFT | [1] Arvhult 2019 | Table 5, p. 7, row 1 |  |
-| Lattice c | 6.03 Å | 0 | UNKNOWN; _alloy: Te 0.5_ | DFT | [1] Arvhult 2019 | Table 5, p. 7, row 2 |  |
-| Lattice c | 6.06 Å |  | UNKNOWN; _alloy: Te 0_ | experimental | [1] Arvhult 2019; _cites Gulay 2004_ | Table 5, p. 7, row 3 |  |
-| Lattice c | 6.09 Å |  | β2 (ht) | unspecified | [1] Arvhult 2019; _cites Kok 1965_ [doi](https://doi.org/10.1002/recl.19650841208) | Table 1, p. 3, row 4 |  |
-| Lattice c | 6.09 Å | 298.15 | β2 (hn) | experimental | [1] Arvhult 2019; _cites Gulay 2004_ | Table 1, p. 3, row 5 |  |
-| Lattice c | 6.06 Å | 298.15 | β2 (ln) | experimental | [1] Arvhult 2019; _cites Gulay 2004_ | Table 1, p. 3, row 6 |  |
-| Lattice c | 6.88 Å | 298.15 | γ1 | experimental | [1] Arvhult 2019; _cites Gulay 2007_ [doi](https://doi.org/10.1107/s1600536807050568) | Table 1, p. 3, row 9 |  |
-| Lattice c | 5.26 Å | 298.15 | δ | experimental | [1] Arvhult 2019; _cites Noren 2001_ [doi](https://doi.org/10.1006/jssc.2001.9309) | Table 1, p. 3, row 8 |  |
-| Lattice c | 5.36 Å | 298.15 | δ | experimental | [1] Arvhult 2019; _cites Noren 2001_ [doi](https://doi.org/10.1006/jssc.2001.9309) | Table 1, p. 3, row 7 |  |
-| lattice beta | 91.16 ° | 298.15 | β2 (hn) | experimental | [1] Arvhult 2019; _cites Gulay 2004_ | Table 1, p. 3, row 5 |  |
+| Lattice a | 3.88 Å | 0 | UNKNOWN; _alloy: Te 0.333333_ | DFT | [1] Arvhult 2019 | Table 5, p. 7, row 1; `ORC-726HILDOSB.efd217` |  |
+| Lattice a | 3.75 Å | 0 | UNKNOWN; _alloy: Te 0.5_ | DFT | [1] Arvhult 2019 | Table 5, p. 7, row 2; `ORC-TTOX2SIJ7U.fcaca1` |  |
+| Lattice a | 3.78 Å |  | UNKNOWN; _alloy: Te 0_ | experimental | [1] Arvhult 2019; _cites Gulay 2004_ | Table 5, p. 7, row 3; `ORC-W7T7AW4XSM.ead475` |  |
+| Lattice a | 3.99 Å |  | β2 (ht) | unspecified | [1] Arvhult 2019; _cites Kok 1965_ [doi](https://doi.org/10.1002/recl.19650841208) | Table 1, p. 3, row 4; `ORC-6YTPR3EHRL.f30975` |  |
+| Lattice a | 11.44 Å | 298.15 | UNKNOWN | experimental | [1] Arvhult 2019; _cites Stevels 1969_ | Table 1, p. 3, row 3; `ORC-MBUWY5KVVY` |  |
+| Lattice a | 5.71 Å | 298.15 | β1 | experimental | [1] Arvhult 2019; _cites Stevels 1969_ | Table 1, p. 3, row 2; `ORC-ZHD2RWRYMB` |  |
+| Lattice a | 7.54 Å | 298.15 | β2 (hn) | experimental | [1] Arvhult 2019; _cites Gulay 2004_ | Table 1, p. 3, row 5; `ORC-OAEFRJBBB5.8a97da` |  |
+| Lattice a | 7.54 Å | 298.15 | β2 (ln) | experimental | [1] Arvhult 2019; _cites Gulay 2004_ | Table 1, p. 3, row 6; `ORC-SAIKEUAXJJ.8b492c` |  |
+| Lattice a | 12.38 Å | 298.15 | γ1 | experimental | [1] Arvhult 2019; _cites Gulay 2007_ [doi](https://doi.org/10.1107/s1600536807050568) | Table 1, p. 3, row 9; `ORC-FHLGQ3ARDB.770658` |  |
+| Lattice a | 3.86 Å | 298.15 | δ | experimental | [1] Arvhult 2019; _cites Noren 2001_ [doi](https://doi.org/10.1006/jssc.2001.9309) | Table 1, p. 3, row 8; `ORC-LZPYKRX7JW.043bbc` |  |
+| Lattice a | 3.97 Å | 298.15 | δ | experimental | [1] Arvhult 2019; _cites Noren 2001_ [doi](https://doi.org/10.1006/jssc.2001.9309) | Table 1, p. 3, row 7; `ORC-RSX6VP3FKH.19efd9` |  |
+| Lattice b | 3.79 Å | 298.15 | β2 (hn) | experimental | [1] Arvhult 2019; _cites Gulay 2004_ | Table 1, p. 3, row 5; `ORC-OAEFRJBBB5.aa66de` |  |
+| Lattice b | 3.79 Å | 298.15 | β2 (ln) | experimental | [1] Arvhult 2019; _cites Gulay 2004_ | Table 1, p. 3, row 6; `ORC-SAIKEUAXJJ.ddb9b5` |  |
+| Lattice b | 3.92 Å | 298.15 | γ1 | experimental | [1] Arvhult 2019; _cites Gulay 2007_ [doi](https://doi.org/10.1107/s1600536807050568) | Table 1, p. 3, row 9; `ORC-FHLGQ3ARDB.3a7288` |  |
+| Lattice c | 6.02 Å | 0 | UNKNOWN; _alloy: Te 0.333333_ | DFT | [1] Arvhult 2019 | Table 5, p. 7, row 1; `ORC-726HILDOSB.e9b768` |  |
+| Lattice c | 6.03 Å | 0 | UNKNOWN; _alloy: Te 0.5_ | DFT | [1] Arvhult 2019 | Table 5, p. 7, row 2; `ORC-TTOX2SIJ7U.4c7528` |  |
+| Lattice c | 6.06 Å |  | UNKNOWN; _alloy: Te 0_ | experimental | [1] Arvhult 2019; _cites Gulay 2004_ | Table 5, p. 7, row 3; `ORC-W7T7AW4XSM.1ce789` |  |
+| Lattice c | 6.09 Å |  | β2 (ht) | unspecified | [1] Arvhult 2019; _cites Kok 1965_ [doi](https://doi.org/10.1002/recl.19650841208) | Table 1, p. 3, row 4; `ORC-6YTPR3EHRL.c87a56` |  |
+| Lattice c | 6.09 Å | 298.15 | β2 (hn) | experimental | [1] Arvhult 2019; _cites Gulay 2004_ | Table 1, p. 3, row 5; `ORC-OAEFRJBBB5.daf46f` |  |
+| Lattice c | 6.06 Å | 298.15 | β2 (ln) | experimental | [1] Arvhult 2019; _cites Gulay 2004_ | Table 1, p. 3, row 6; `ORC-SAIKEUAXJJ.9af731` |  |
+| Lattice c | 6.88 Å | 298.15 | γ1 | experimental | [1] Arvhult 2019; _cites Gulay 2007_ [doi](https://doi.org/10.1107/s1600536807050568) | Table 1, p. 3, row 9; `ORC-FHLGQ3ARDB.0352e0` |  |
+| Lattice c | 5.26 Å | 298.15 | δ | experimental | [1] Arvhult 2019; _cites Noren 2001_ [doi](https://doi.org/10.1006/jssc.2001.9309) | Table 1, p. 3, row 8; `ORC-LZPYKRX7JW.aed12f` |  |
+| Lattice c | 5.36 Å | 298.15 | δ | experimental | [1] Arvhult 2019; _cites Noren 2001_ [doi](https://doi.org/10.1006/jssc.2001.9309) | Table 1, p. 3, row 7; `ORC-RSX6VP3FKH.57b364` |  |
+| lattice beta | 91.16 ° | 298.15 | β2 (hn) | experimental | [1] Arvhult 2019; _cites Gulay 2004_ | Table 1, p. 3, row 5; `ORC-OAEFRJBBB5.f2b0b4` |  |
 
 ## Sources
 
@@ -183,4 +183,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

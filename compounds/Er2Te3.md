@@ -14,13 +14,13 @@ Table: Enthalpy of formation of Er2Te3 reported in the literature (7)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -164.44 kJ/mol-atom ± 16.7 | Er2Te3 | 298.15 | experimental | EMF | [Er–Te](https://data.orchid-project.org/systems/ER-TE.html) | [1] Bennoui 2022; _cites Vassiliev 1980_ | Table 2, p. 5, row 34 |  |
-| -158.62 kJ/mol-atom ± 2.5 | Er2Te3 | 298.15 | experimental | EMF | [Er–Te](https://data.orchid-project.org/systems/ER-TE.html) | [1] Bennoui 2022; _cites Imamaliyeva 2020_ [doi](https://doi.org/10.15330/pcss.21.2.312-318) | Table 2, p. 5, row 35 |  |
-| -159.1 kJ/mol-atom ± 10 | Er2Te3 |  | model | Predicted | [Er–Te](https://data.orchid-project.org/systems/ER-TE.html) | [1] Bennoui 2022; _cites Vassiliev 2016_ [doi](https://doi.org/10.1016/j.electacta.2016.11.075) | Table 2, p. 5, row 33 |  |
-| -136.475 kJ/mol-atom | Er2Te3 |  | model | CALPHAD | [Er–Te](https://data.orchid-project.org/systems/ER-TE.html) | [1] Bennoui 2022 | Table 2, p. 5, row 30 |  |
-| -157.965 kJ/mol-atom | Er2Te3 | 0 | DFT | DFT | [Er–Te](https://data.orchid-project.org/systems/ER-TE.html) | [1] Bennoui 2022; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table 2, p. 5, row 32 |  |
-| -133.951 kJ/mol-atom | Er2Te3 | 0 | DFT | DFT | [Er–Te](https://data.orchid-project.org/systems/ER-TE.html) | [1] Bennoui 2022; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table 2, p. 5, row 31 |  |
-| -133.731 kJ/mol-atom | Er2Te3 | 0 | DFT | DFT | [Er–Te](https://data.orchid-project.org/systems/ER-TE.html) | [1] Bennoui 2022 | Table 2, p. 5, row 29 |  |
+| -164.44 kJ/mol-atom ± 16.7 | Er2Te3 | 298.15 | experimental | EMF | [Er–Te](https://data.orchid-project.org/systems/ER-TE.html) | [1] Bennoui 2022; _cites Vassiliev 1980_ | Table 2, p. 5, row 34; `ORC-FW6AN2OQ2Q` |  |
+| -158.62 kJ/mol-atom ± 2.5 | Er2Te3 | 298.15 | experimental | EMF | [Er–Te](https://data.orchid-project.org/systems/ER-TE.html) | [1] Bennoui 2022; _cites Imamaliyeva 2020_ [doi](https://doi.org/10.15330/pcss.21.2.312-318) | Table 2, p. 5, row 35; `ORC-SHIMGAGZXU` |  |
+| -159.1 kJ/mol-atom ± 10 | Er2Te3 |  | model | Predicted | [Er–Te](https://data.orchid-project.org/systems/ER-TE.html) | [1] Bennoui 2022; _cites Vassiliev 2016_ [doi](https://doi.org/10.1016/j.electacta.2016.11.075) | Table 2, p. 5, row 33; `ORC-QBCE3JMSZB` |  |
+| -136.475 kJ/mol-atom | Er2Te3 |  | model | CALPHAD | [Er–Te](https://data.orchid-project.org/systems/ER-TE.html) | [1] Bennoui 2022 | Table 2, p. 5, row 30; `ORC-4CZFWXX4DI` |  |
+| -157.965 kJ/mol-atom | Er2Te3 | 0 | DFT | DFT | [Er–Te](https://data.orchid-project.org/systems/ER-TE.html) | [1] Bennoui 2022; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table 2, p. 5, row 32; `ORC-SC3LCWNFYX` |  |
+| -133.951 kJ/mol-atom | Er2Te3 | 0 | DFT | DFT | [Er–Te](https://data.orchid-project.org/systems/ER-TE.html) | [1] Bennoui 2022; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table 2, p. 5, row 31; `ORC-HPKJF6GDPI` |  |
+| -133.731 kJ/mol-atom | Er2Te3 | 0 | DFT | DFT | [Er–Te](https://data.orchid-project.org/systems/ER-TE.html) | [1] Bennoui 2022 | Table 2, p. 5, row 29; `ORC-JUOO7MQ5EN` |  |
 
 ### Uncertainty budget
 
@@ -102,4 +102,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

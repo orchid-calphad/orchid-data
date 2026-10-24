@@ -14,9 +14,9 @@ Table: Enthalpy of formation of Ge3Tm5 reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -91.3 kJ/mol-atom ± 1.9 | Tm5Ge3 | 298.15 | experimental | Experimental | [Ge–Tm](https://data.orchid-project.org/systems/GE-TM.html) | [1] Achgar 2018; _cites Meschel 1999_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900017-1) | Table 2, p. 5, row 2 |  |
-| -84.32 kJ/mol-atom | Tm5Ge3 |  | model | Optimization | [Ge–Tm](https://data.orchid-project.org/systems/GE-TM.html) | [1] Achgar 2018 | Table 2, p. 5, row 1 |  |
-| -74.42 kJ/mol-atom | Tm5Ge3 |  | model | Prediction | [Ge–Tm](https://data.orchid-project.org/systems/GE-TM.html) | [1] Achgar 2018; _cites Debski 2014_ [doi](https://doi.org/10.2478/amm-2014-0228) | Table 2, p. 5, row 3 |  |
+| -91.3 kJ/mol-atom ± 1.9 | Tm5Ge3 | 298.15 | experimental | Experimental | [Ge–Tm](https://data.orchid-project.org/systems/GE-TM.html) | [1] Achgar 2018; _cites Meschel 1999_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900017-1) | Table 2, p. 5, row 2; `ORC-E3YJFJC3ML` |  |
+| -84.32 kJ/mol-atom | Tm5Ge3 |  | model | Optimization | [Ge–Tm](https://data.orchid-project.org/systems/GE-TM.html) | [1] Achgar 2018 | Table 2, p. 5, row 1; `ORC-B2FS36LCAZ.86e698` |  |
+| -74.42 kJ/mol-atom | Tm5Ge3 |  | model | Prediction | [Ge–Tm](https://data.orchid-project.org/systems/GE-TM.html) | [1] Achgar 2018; _cites Debski 2014_ [doi](https://doi.org/10.2478/amm-2014-0228) | Table 2, p. 5, row 3; `ORC-DF7PIANUIP.baf606` |  |
 
 ### Uncertainty budget
 
@@ -94,4 +94,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

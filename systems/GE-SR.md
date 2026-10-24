@@ -59,23 +59,23 @@ Table: Invariant reactions reported in the literature for the Ge–Sr system (17
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1463.15 | L -> GeSr2 | L: Sr 0.667; GeSr2: Ge 0.333333, Sr 0.666667 | model | [1] Du 2009 | Table 4, p. 3, row 14 |  |
-| 1463.15 | L -> GeSr2 | L: Sr 0.667; GeSr2: Ge 0.333333, Sr 0.666667 | experimental | [1] Du 2009; _cites Palenzona 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.189) | Table 4, p. 3, row 13 |  |
-| 1453.15 | L -> GeSr | L: Sr 0.5; GeSr: Ge 0.5, Sr 0.5 | experimental | [1] Du 2009; _cites Palenzona 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.189) | Table 4, p. 3, row 7 |  |
-| 1450.15 | L -> GeSr | L: Sr 0.5; GeSr: Ge 0.5, Sr 0.5 | model | [1] Du 2009 | Table 4, p. 3, row 8 |  |
-| 1433.15 | L + GeSr2 -> Ge3Sr5 | L: Sr 0.615; GeSr2: Ge 0.333333, Sr 0.666667; Ge3Sr5: Ge 0.375, Sr 0.625 | experimental | [1] Du 2009; _cites Palenzona 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.189) | Table 4, p. 3, row 11 |  |
-| 1431.15 | L + GeSr2 -> Ge3Sr5 | L: Sr 0.618; GeSr2: Ge 0.333333, Sr 0.666667; Ge3Sr5: Ge 0.375, Sr 0.625 | model | [1] Du 2009 | Table 4, p. 3, row 12 |  |
-| 1374.15 | L -> GeSr + Ge3Sr5 | L: Sr 0.568; GeSr: Ge 0.5, Sr 0.5; Ge3Sr5: Ge 0.375, Sr 0.625 | model | [1] Du 2009 | Table 4, p. 3, row 10 |  |
-| 1373.15 | L -> GeSr + Ge3Sr5 | L: Sr 0.58; GeSr: Ge 0.5, Sr 0.5; Ge3Sr5: Ge 0.375, Sr 0.625 | experimental | [1] Du 2009; _cites Palenzona 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.189) | Table 4, p. 3, row 9 |  |
-| 1288.15 | L -> Ge2Sr | L: Sr 0.333; Ge2Sr: Ge 0.666667, Sr 0.333333 | experimental | [1] Du 2009; _cites Palenzona 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.189) | Table 4, p. 3, row 3 |  |
-| 1284.15 | L -> Ge2Sr | L: Sr 0.333; Ge2Sr: Ge 0.666667, Sr 0.333333 | model | [1] Du 2009 | Table 4, p. 3, row 4 |  |
-| 1258.15 | peritectic: L + Ge2 Sr ↔ Ge1.85 Sr |  | experimental | [1] Du 2009; _cites Palenzona 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.189) | p. 2 | “In the Ge-Sr phase diagram presented by Palenzona and Pani \[3\], the phase Ge1.85 Sr is tentatively suggested to be stable in an extremely narrow temperature range, being formed via a peritectic reaction L + Ge2 Sr ↔ Ge1.85 Sr at about 985 ◦ C.” |
-| 1243.15 | L -> Ge2Sr + GeSr | L: Sr 0.389; Ge2Sr: Ge 0.666667, Sr 0.333333; GeSr: Ge 0.5, Sr 0.5 | model | [1] Du 2009 | Table 4, p. 3, row 6 |  |
-| 1238.15 | L -> Ge2Sr + GeSr | L: Sr 0.39; Ge2Sr: Ge 0.666667, Sr 0.333333; GeSr: Ge 0.5, Sr 0.5 | experimental | [1] Du 2009; _cites Palenzona 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.189) | Table 4, p. 3, row 5 |  |
-| 1029.15 | L -> (Ge) + Ge2Sr | L: Sr 0.175; Ge2Sr: Ge 0.666667, Sr 0.333333 | model | [1] Du 2009 | Table 4, p. 3, row 2 |  |
-| 1028.15 | L -> (Ge) + Ge2Sr | L: Sr 0.16; Ge2Sr: Ge 0.666667, Sr 0.333333 | experimental | [1] Du 2009; _cites Palenzona 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.189) | Table 4, p. 3, row 1 |  |
-| 1015.15 | L -> GeSr2 + (βSr) | L: Sr 0.958; GeSr2: Ge 0.333333, Sr 0.666667 | model | [1] Du 2009 | Table 4, p. 3, row 16 |  |
-| 1013.15 | L -> GeSr2 + (βSr) | L: Sr 0.95; GeSr2: Ge 0.333333, Sr 0.666667 | experimental | [1] Du 2009; _cites Palenzona 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.189) | Table 4, p. 3, row 15 |  |
+| 1463.15 | L -> GeSr2 | L: Sr 0.667; GeSr2: Ge 0.333333, Sr 0.666667 | model | [1] Du 2009 | Table 4, p. 3, row 14; `ORC-C5PLSVRFUM` |  |
+| 1463.15 | L -> GeSr2 | L: Sr 0.667; GeSr2: Ge 0.333333, Sr 0.666667 | experimental | [1] Du 2009; _cites Palenzona 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.189) | Table 4, p. 3, row 13; `ORC-XV4IG5YAJT` |  |
+| 1453.15 | L -> GeSr | L: Sr 0.5; GeSr: Ge 0.5, Sr 0.5 | experimental | [1] Du 2009; _cites Palenzona 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.189) | Table 4, p. 3, row 7; `ORC-GV5YQNSD4L` |  |
+| 1450.15 | L -> GeSr | L: Sr 0.5; GeSr: Ge 0.5, Sr 0.5 | model | [1] Du 2009 | Table 4, p. 3, row 8; `ORC-DG5J23QYEW` |  |
+| 1433.15 | L + GeSr2 -> Ge3Sr5 | L: Sr 0.615; GeSr2: Ge 0.333333, Sr 0.666667; Ge3Sr5: Ge 0.375, Sr 0.625 | experimental | [1] Du 2009; _cites Palenzona 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.189) | Table 4, p. 3, row 11; `ORC-7HFQNWQSSS` |  |
+| 1431.15 | L + GeSr2 -> Ge3Sr5 | L: Sr 0.618; GeSr2: Ge 0.333333, Sr 0.666667; Ge3Sr5: Ge 0.375, Sr 0.625 | model | [1] Du 2009 | Table 4, p. 3, row 12; `ORC-QZUFH3N46S` |  |
+| 1374.15 | L -> GeSr + Ge3Sr5 | L: Sr 0.568; GeSr: Ge 0.5, Sr 0.5; Ge3Sr5: Ge 0.375, Sr 0.625 | model | [1] Du 2009 | Table 4, p. 3, row 10; `ORC-KLOLNSHMJQ` |  |
+| 1373.15 | L -> GeSr + Ge3Sr5 | L: Sr 0.58; GeSr: Ge 0.5, Sr 0.5; Ge3Sr5: Ge 0.375, Sr 0.625 | experimental | [1] Du 2009; _cites Palenzona 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.189) | Table 4, p. 3, row 9; `ORC-L6VZ3IKK4E` |  |
+| 1288.15 | L -> Ge2Sr | L: Sr 0.333; Ge2Sr: Ge 0.666667, Sr 0.333333 | experimental | [1] Du 2009; _cites Palenzona 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.189) | Table 4, p. 3, row 3; `ORC-XJ5UE756FX` |  |
+| 1284.15 | L -> Ge2Sr | L: Sr 0.333; Ge2Sr: Ge 0.666667, Sr 0.333333 | model | [1] Du 2009 | Table 4, p. 3, row 4; `ORC-EOG64B3LIU` |  |
+| 1258.15 | peritectic: L + Ge2 Sr ↔ Ge1.85 Sr |  | experimental | [1] Du 2009; _cites Palenzona 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.189) | p. 2; `ORC-6EBZD7VG2A` | “In the Ge-Sr phase diagram presented by Palenzona and Pani \[3\], the phase Ge1.85 Sr is tentatively suggested to be stable in an extremely narrow temperature range, being formed via a peritectic reaction L + Ge2 Sr ↔ Ge1.85 Sr at about 985 ◦ C.” |
+| 1243.15 | L -> Ge2Sr + GeSr | L: Sr 0.389; Ge2Sr: Ge 0.666667, Sr 0.333333; GeSr: Ge 0.5, Sr 0.5 | model | [1] Du 2009 | Table 4, p. 3, row 6; `ORC-AOP3DBWNVS` |  |
+| 1238.15 | L -> Ge2Sr + GeSr | L: Sr 0.39; Ge2Sr: Ge 0.666667, Sr 0.333333; GeSr: Ge 0.5, Sr 0.5 | experimental | [1] Du 2009; _cites Palenzona 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.189) | Table 4, p. 3, row 5; `ORC-V5KY6WUQYW` |  |
+| 1029.15 | L -> (Ge) + Ge2Sr | L: Sr 0.175; Ge2Sr: Ge 0.666667, Sr 0.333333 | model | [1] Du 2009 | Table 4, p. 3, row 2; `ORC-D3ODAEORFE` |  |
+| 1028.15 | L -> (Ge) + Ge2Sr | L: Sr 0.16; Ge2Sr: Ge 0.666667, Sr 0.333333 | experimental | [1] Du 2009; _cites Palenzona 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.189) | Table 4, p. 3, row 1; `ORC-J4EWRSQBHO` |  |
+| 1015.15 | L -> GeSr2 + (βSr) | L: Sr 0.958; GeSr2: Ge 0.333333, Sr 0.666667 | model | [1] Du 2009 | Table 4, p. 3, row 16; `ORC-Z434L3NWEP` |  |
+| 1013.15 | L -> GeSr2 + (βSr) | L: Sr 0.95; GeSr2: Ge 0.333333, Sr 0.666667 | experimental | [1] Du 2009; _cites Palenzona 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.189) | Table 4, p. 3, row 15; `ORC-6MRK2ZPUOE` |  |
 
 ## Other properties
 
@@ -85,7 +85,7 @@ Table: Phase transition, Ge–Sr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1201.85 K | 1201.85 | other: Ge3Sr5 = GeSr + GeSr2 | model | [1] Du 2009 | p. 3 | “The present calculations indicate that Ge3 Sr5 decomposes into GeSr and GeSr2 at 928.7 ◦ C.” |
+| Phase transition | 1201.85 K | 1201.85 | other: Ge3Sr5 = GeSr + GeSr2 | model | [1] Du 2009 | p. 3; `ORC-FHSWQFKFPR` | “The present calculations indicate that Ge3 Sr5 decomposes into GeSr and GeSr2 at 928.7 ◦ C.” |
 
 ### Crystal structure (22)
 
@@ -93,28 +93,28 @@ Table: Crystal structure, Ge–Sr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 8.912 Å |  | Ge2Sr; _alloy: Sr 0.333333_ | model | [1] Du 2009 | Table 1, p. 2, row 2 |  |
-| Lattice a | 8.172 Å |  | Ge3Sr5; _alloy: Sr 0.625_ | model | [1] Du 2009 | Table 1, p. 2, row 6 |  |
-| Lattice a | 4.847 Å |  | GeSr; _alloy: Sr 0.5_ | model | [1] Du 2009 | Table 1, p. 2, row 4 |  |
-| Lattice a | 8.185 Å |  | GeSr2; _alloy: Sr 0.666667_ | model | [1] Du 2009 | Table 1, p. 2, row 8 |  |
-| Lattice a | 8.752 Å ± 0.006 | 298.15 | Ge2Sr; _alloy: Sr 0.333333_ | experimental | [1] Du 2009; _cites Palenzona 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.189) | Table 1, p. 2, row 1 |  |
-| Lattice a | 8.181 Å ± 0.001 | 298.15 | Ge3Sr5; _alloy: Sr 0.625_ | experimental | [1] Du 2009; _cites Palenzona 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.189) | Table 1, p. 2, row 5 |  |
-| Lattice a | 4.827 Å ± 0.002 | 298.15 | GeSr; _alloy: Sr 0.5_ | experimental | [1] Du 2009; _cites Palenzona 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.189) | Table 1, p. 2, row 3 |  |
-| Lattice a | 8.179 Å ± 0.003 | 298.15 | GeSr2; _alloy: Sr 0.666667_ | experimental | [1] Du 2009; _cites Palenzona 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.189) | Table 1, p. 2, row 7 |  |
-| Lattice b | 6.596 Å |  | Ge2Sr; _alloy: Sr 0.333333_ | model | [1] Du 2009 | Table 1, p. 2, row 2 |  |
-| Lattice b | 11.531 Å |  | GeSr; _alloy: Sr 0.5_ | model | [1] Du 2009 | Table 1, p. 2, row 4 |  |
-| Lattice b | 5.197 Å |  | GeSr2; _alloy: Sr 0.666667_ | model | [1] Du 2009 | Table 1, p. 2, row 8 |  |
-| Lattice b | 6.586 Å ± 0.003 | 298.15 | Ge2Sr; _alloy: Sr 0.333333_ | experimental | [1] Du 2009; _cites Palenzona 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.189) | Table 1, p. 2, row 1 |  |
-| Lattice b | 11.386 Å ± 0.003 | 298.15 | GeSr; _alloy: Sr 0.5_ | experimental | [1] Du 2009; _cites Palenzona 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.189) | Table 1, p. 2, row 3 |  |
-| Lattice b | 5.176 Å ± 0.002 | 298.15 | GeSr2; _alloy: Sr 0.666667_ | experimental | [1] Du 2009; _cites Palenzona 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.189) | Table 1, p. 2, row 7 |  |
-| Lattice c | 11.236 Å |  | Ge2Sr; _alloy: Sr 0.333333_ | model | [1] Du 2009 | Table 1, p. 2, row 2 |  |
-| Lattice c | 15.98 Å |  | Ge3Sr5; _alloy: Sr 0.625_ | model | [1] Du 2009 | Table 1, p. 2, row 6 |  |
-| Lattice c | 4.22 Å |  | GeSr; _alloy: Sr 0.5_ | model | [1] Du 2009 | Table 1, p. 2, row 4 |  |
-| Lattice c | 9.682 Å |  | GeSr2; _alloy: Sr 0.666667_ | model | [1] Du 2009 | Table 1, p. 2, row 8 |  |
-| Lattice c | 11.238 Å ± 0.005 | 298.15 | Ge2Sr; _alloy: Sr 0.333333_ | experimental | [1] Du 2009; _cites Palenzona 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.189) | Table 1, p. 2, row 1 |  |
-| Lattice c | 15.779 Å ± 0.005 | 298.15 | Ge3Sr5; _alloy: Sr 0.625_ | experimental | [1] Du 2009; _cites Palenzona 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.189) | Table 1, p. 2, row 5 |  |
-| Lattice c | 4.178 Å ± 0.001 | 298.15 | GeSr; _alloy: Sr 0.5_ | experimental | [1] Du 2009; _cites Palenzona 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.189) | Table 1, p. 2, row 3 |  |
-| Lattice c | 9.62 Å ± 0.005 | 298.15 | GeSr2; _alloy: Sr 0.666667_ | experimental | [1] Du 2009; _cites Palenzona 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.189) | Table 1, p. 2, row 7 |  |
+| Lattice a | 8.912 Å |  | Ge2Sr; _alloy: Sr 0.333333_ | model | [1] Du 2009 | Table 1, p. 2, row 2; `ORC-IEJ7NWEIWO.d2b4e5` |  |
+| Lattice a | 8.172 Å |  | Ge3Sr5; _alloy: Sr 0.625_ | model | [1] Du 2009 | Table 1, p. 2, row 6; `ORC-5M3MCCV3TV.90ec19` |  |
+| Lattice a | 4.847 Å |  | GeSr; _alloy: Sr 0.5_ | model | [1] Du 2009 | Table 1, p. 2, row 4; `ORC-3MUWZES2TC.0996d5` |  |
+| Lattice a | 8.185 Å |  | GeSr2; _alloy: Sr 0.666667_ | model | [1] Du 2009 | Table 1, p. 2, row 8; `ORC-UG4R34ZH72.5923ba` |  |
+| Lattice a | 8.752 Å ± 0.006 | 298.15 | Ge2Sr; _alloy: Sr 0.333333_ | experimental | [1] Du 2009; _cites Palenzona 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.189) | Table 1, p. 2, row 1; `ORC-UQQH4SD2VV.253bd9` |  |
+| Lattice a | 8.181 Å ± 0.001 | 298.15 | Ge3Sr5; _alloy: Sr 0.625_ | experimental | [1] Du 2009; _cites Palenzona 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.189) | Table 1, p. 2, row 5; `ORC-J6QVJJNOTD.f9005c` |  |
+| Lattice a | 4.827 Å ± 0.002 | 298.15 | GeSr; _alloy: Sr 0.5_ | experimental | [1] Du 2009; _cites Palenzona 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.189) | Table 1, p. 2, row 3; `ORC-E727H7APJ2.4362a3` |  |
+| Lattice a | 8.179 Å ± 0.003 | 298.15 | GeSr2; _alloy: Sr 0.666667_ | experimental | [1] Du 2009; _cites Palenzona 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.189) | Table 1, p. 2, row 7; `ORC-4Y2HVVAIZ5.48ee11` |  |
+| Lattice b | 6.596 Å |  | Ge2Sr; _alloy: Sr 0.333333_ | model | [1] Du 2009 | Table 1, p. 2, row 2; `ORC-IEJ7NWEIWO.873c93` |  |
+| Lattice b | 11.531 Å |  | GeSr; _alloy: Sr 0.5_ | model | [1] Du 2009 | Table 1, p. 2, row 4; `ORC-3MUWZES2TC.2edc92` |  |
+| Lattice b | 5.197 Å |  | GeSr2; _alloy: Sr 0.666667_ | model | [1] Du 2009 | Table 1, p. 2, row 8; `ORC-UG4R34ZH72.4343ac` |  |
+| Lattice b | 6.586 Å ± 0.003 | 298.15 | Ge2Sr; _alloy: Sr 0.333333_ | experimental | [1] Du 2009; _cites Palenzona 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.189) | Table 1, p. 2, row 1; `ORC-UQQH4SD2VV.cd0c41` |  |
+| Lattice b | 11.386 Å ± 0.003 | 298.15 | GeSr; _alloy: Sr 0.5_ | experimental | [1] Du 2009; _cites Palenzona 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.189) | Table 1, p. 2, row 3; `ORC-E727H7APJ2.75a540` |  |
+| Lattice b | 5.176 Å ± 0.002 | 298.15 | GeSr2; _alloy: Sr 0.666667_ | experimental | [1] Du 2009; _cites Palenzona 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.189) | Table 1, p. 2, row 7; `ORC-4Y2HVVAIZ5.a525fe` |  |
+| Lattice c | 11.236 Å |  | Ge2Sr; _alloy: Sr 0.333333_ | model | [1] Du 2009 | Table 1, p. 2, row 2; `ORC-IEJ7NWEIWO.6dfd1a` |  |
+| Lattice c | 15.98 Å |  | Ge3Sr5; _alloy: Sr 0.625_ | model | [1] Du 2009 | Table 1, p. 2, row 6; `ORC-5M3MCCV3TV.35af53` |  |
+| Lattice c | 4.22 Å |  | GeSr; _alloy: Sr 0.5_ | model | [1] Du 2009 | Table 1, p. 2, row 4; `ORC-3MUWZES2TC.f10e6c` |  |
+| Lattice c | 9.682 Å |  | GeSr2; _alloy: Sr 0.666667_ | model | [1] Du 2009 | Table 1, p. 2, row 8; `ORC-UG4R34ZH72.01de2d` |  |
+| Lattice c | 11.238 Å ± 0.005 | 298.15 | Ge2Sr; _alloy: Sr 0.333333_ | experimental | [1] Du 2009; _cites Palenzona 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.189) | Table 1, p. 2, row 1; `ORC-UQQH4SD2VV.aa53ef` |  |
+| Lattice c | 15.779 Å ± 0.005 | 298.15 | Ge3Sr5; _alloy: Sr 0.625_ | experimental | [1] Du 2009; _cites Palenzona 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.189) | Table 1, p. 2, row 5; `ORC-J6QVJJNOTD.80d2db` |  |
+| Lattice c | 4.178 Å ± 0.001 | 298.15 | GeSr; _alloy: Sr 0.5_ | experimental | [1] Du 2009; _cites Palenzona 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.189) | Table 1, p. 2, row 3; `ORC-E727H7APJ2.9a5fdf` |  |
+| Lattice c | 9.62 Å ± 0.005 | 298.15 | GeSr2; _alloy: Sr 0.666667_ | experimental | [1] Du 2009; _cites Palenzona 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.189) | Table 1, p. 2, row 7; `ORC-4Y2HVVAIZ5.9c55fe` |  |
 
 ## Sources
 
@@ -179,4 +179,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

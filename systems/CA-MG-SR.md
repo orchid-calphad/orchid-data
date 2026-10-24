@@ -29,10 +29,10 @@ Table: Invariant reactions reported in the literature for the Ca–Mg–Sr syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 859.5 | L + Mg23Sr6 = C14 + Mg38Sr9 | L: Ca 0.0195, Sr 0.161 | model | [1] Zhong 2006 | Table 5, p. 6, row 1 |  |
-| 841.9 | L + Mg38Sr9 = C14 + Mg17Sr2 | L: Ca 0.036, Sr 0.1308 | model | [1] Zhong 2006 | Table 5, p. 6, row 2 |  |
-| 783.9 | L = C14 + Mg17Sr2 + hcp | L: Ca 0.0843, Sr 0.0275 | model | [1] Zhong 2006 | Table 5, p. 6, row 3 |  |
-| 717 | L = C14 + fcc + bcc | L: Ca 0.6923, Sr 0.0153 | model | [1] Zhong 2006 | Table 5, p. 6, row 4 |  |
+| 859.5 | L + Mg23Sr6 = C14 + Mg38Sr9 | L: Ca 0.0195, Sr 0.161 | model | [1] Zhong 2006 | Table 5, p. 6, row 1; `ORC-FARFJCLI2V` |  |
+| 841.9 | L + Mg38Sr9 = C14 + Mg17Sr2 | L: Ca 0.036, Sr 0.1308 | model | [1] Zhong 2006 | Table 5, p. 6, row 2; `ORC-AP6QBQXIZA` |  |
+| 783.9 | L = C14 + Mg17Sr2 + hcp | L: Ca 0.0843, Sr 0.0275 | model | [1] Zhong 2006 | Table 5, p. 6, row 3; `ORC-NNWXKQ6A3Z` |  |
+| 717 | L = C14 + fcc + bcc | L: Ca 0.6923, Sr 0.0153 | model | [1] Zhong 2006 | Table 5, p. 6, row 4; `ORC-D2PKLLQML5` |  |
 
 ## Formation enthalpies
 
@@ -42,7 +42,7 @@ Table: Enthalpies of formation, Ca–Mg–Sr system (1)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Ca2Ca-C14 |  | 8.1768 kJ/mol-atom | 0 | unspecified |  |  | [1] Zhong 2006 | Table 2, p. 4, row 17 |  |
+| Ca2Ca-C14 |  | 8.1768 kJ/mol-atom | 0 | unspecified |  |  | [1] Zhong 2006 | Table 2, p. 4, row 17; `ORC-LC4IA5W53Y.07bd23` |  |
 
 ## Other properties
 
@@ -52,8 +52,8 @@ Table: Crystal structure, Ca–Mg–Sr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a; _printed: a (=b)_ | 7.141 Å | 0 | Ca2Ca-C14; _alloy: Mg 0, Sr 0_ | unspecified | [1] Zhong 2006 | Table 2, p. 4, row 17 |  |
-| Lattice c; _printed: c_ | 11.699 Å | 0 | Ca2Ca-C14; _alloy: Mg 0, Sr 0_ | unspecified | [1] Zhong 2006 | Table 2, p. 4, row 17 |  |
+| Lattice a; _printed: a (=b)_ | 7.141 Å | 0 | Ca2Ca-C14; _alloy: Mg 0, Sr 0_ | unspecified | [1] Zhong 2006 | Table 2, p. 4, row 17; `ORC-NB2GTHKNSF.a1f0b8` |  |
+| Lattice c; _printed: c_ | 11.699 Å | 0 | Ca2Ca-C14; _alloy: Mg 0, Sr 0_ | unspecified | [1] Zhong 2006 | Table 2, p. 4, row 17; `ORC-NB2GTHKNSF.3d858f` |  |
 
 ## Sources
 
@@ -96,4 +96,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

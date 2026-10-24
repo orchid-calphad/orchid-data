@@ -48,8 +48,8 @@ Table: Phase transition, Ti–V system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1881 K | 1881 | congruent melting: bcc-A2 -> Liquid; _bcc-A2: V 0.333; Liquid: V 0.333_ | model | [1] Hämäläinen 1998 | Table I, p. 314, row 1 |  |
-| Phase transition | 1881 K | 1881 | other | experimental | [2] Ghosh 2002; _cites Rudy 1969_ | p. 3 | “The liquidus and solidus have a minima at 31 at.% V and 1881 ± 5 K \[1969Rud, 1975Col\].” |
+| Phase transition | 1881 K | 1881 | congruent melting: bcc-A2 -> Liquid; _bcc-A2: V 0.333; Liquid: V 0.333_ | model | [1] Hämäläinen 1998 | Table I, p. 314, row 1; `ORC-GXWRGMKGYN` |  |
+| Phase transition | 1881 K | 1881 | other | experimental | [2] Ghosh 2002; _cites Rudy 1969_ | p. 3; `ORC-3R7NSM54SW` | “The liquidus and solidus have a minima at 31 at.% V and 1881 ± 5 K \[1969Rud, 1975Col\].” |
 
 ### Crystal structure (12)
 
@@ -57,18 +57,18 @@ Table: Crystal structure, Ti–V system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 3.252 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 3 |  |
-| Lattice a | 3.259 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 3 |  |
-| Lattice a | 4.115 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 4 |  |
-| Lattice a | 4.109 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 4 |  |
-| Lattice a | 2.939 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 1 |  |
-| Lattice a | 2.933 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 1 |  |
-| Lattice a | 4.577 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 2 |  |
-| Lattice a | 4.572 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 2 |  |
-| Lattice c | 4.641 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 1 |  |
-| Lattice c | 4.657 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 1 |  |
-| Lattice c | 2.828 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 2 |  |
-| Lattice c | 2.829 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 2 |  |
+| Lattice a | 3.252 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 3; `ORC-7N2ST4T2MQ.014bd6` |  |
+| Lattice a | 3.259 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 3; `ORC-7N2ST4T2MQ.218c4c` |  |
+| Lattice a | 4.115 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 4; `ORC-QHAVP7W2SP.2c513d` |  |
+| Lattice a | 4.109 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 4; `ORC-QHAVP7W2SP.5e0e21` |  |
+| Lattice a | 2.939 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 1; `ORC-SYZ6GS4H6N.0f3a6e` |  |
+| Lattice a | 2.933 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 1; `ORC-SYZ6GS4H6N.3de565` |  |
+| Lattice a | 4.577 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 2; `ORC-VHTELAZM4X.602a6e` |  |
+| Lattice a | 4.572 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 2; `ORC-VHTELAZM4X.fbaef0` |  |
+| Lattice c | 4.641 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 1; `ORC-SYZ6GS4H6N.7dcc0a` |  |
+| Lattice c | 4.657 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 1; `ORC-SYZ6GS4H6N.d0303d` |  |
+| Lattice c | 2.828 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 2; `ORC-VHTELAZM4X.5344b3` |  |
+| Lattice c | 2.829 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 2; `ORC-VHTELAZM4X.b57911` |  |
 
 ## Sources
 
@@ -135,4 +135,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

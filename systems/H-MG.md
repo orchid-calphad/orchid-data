@@ -31,18 +31,18 @@ Table: Invariant reactions reported in the literature for the H–Mg system (12)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 922.8 | L \<-> (Mg)+gas | (Mg): H 7.200e-4 | model | [1] Zeng 1999 | Table 5, p. 9, row 1 |  |
-| 922.6 | L \<-> (Mg)+gas | (Mg): H 6.400e-4 | experimental | [1] Zeng 1999; _cites ref. 7_ | Table 5, p. 9, row 2 |  |
-| 834 | (Mg)+gas \<-> MgH2 | (Mg): H 0.093; MgH2: H 0.666667 | experimental | [1] Zeng 1999; _cites ref. 10_ | Table 5, p. 9, row 11 |  |
-| 832 | (Mg)+gas \<-> MgH2 | (Mg): H 0.00806; MgH2: H 0.666667 | model | [1] Zeng 1999 | Table 5, p. 9, row 10 |  |
-| 803 | eutectic |  | experimental | [1] Zeng 1999; _cites ref. 7_ | p. 2 | “A sketchy temperature!com! position isobar at 0999 bar was constructed with one eutectic invariant at 803 K and one peritectic at 742 K ð7Ł\[” |
-| 700 | (Mg)+gas \<-> MgH2 | (Mg): H 0.00169; MgH2: H 0.666667 | model | [1] Zeng 1999 | Table 5, p. 9, row 8 |  |
-| 700 | (Mg)+gas \<-> MgH2 | MgH2: H 0.666667 | experimental | [1] Zeng 1999; _cites ref. 10_ | Table 5, p. 9, row 9 |  |
-| 590 | (Mg)+gas \<-> MgH2 | MgH2: H 0.666667 | experimental | [1] Zeng 1999; _cites ref. 29_ | Table 5, p. 9, row 5 |  |
-| 575 | (Mg)+gas \<-> MgH2 | MgH2: H 0.666667 | experimental | [1] Zeng 1999; _cites ref. 21_ | Table 5, p. 9, row 6 |  |
-| 573 | (Mg)+gas \<-> MgH2 | MgH2: H 0.666667 | experimental | [1] Zeng 1999; _cites ref. 19_ | Table 5, p. 9, row 7 |  |
-| 561 | (Mg)+gas \<-> MgH2 | (Mg): H 1.900e-4; MgH2: H 0.666667 | experimental | [1] Zeng 1999; _cites ref. 7_ | Table 5, p. 9, row 4 |  |
-| 560.7 | (Mg)+gas \<-> MgH2 | (Mg): H 1.600e-4; MgH2: H 0.666667 | model | [1] Zeng 1999 | Table 5, p. 9, row 3 |  |
+| 922.8 | L \<-> (Mg)+gas | (Mg): H 7.200e-4 | model | [1] Zeng 1999 | Table 5, p. 9, row 1; `ORC-EEFMEHG2CD` |  |
+| 922.6 | L \<-> (Mg)+gas | (Mg): H 6.400e-4 | experimental | [1] Zeng 1999; _cites ref. 7_ | Table 5, p. 9, row 2; `ORC-OXR24U3IMP` |  |
+| 834 | (Mg)+gas \<-> MgH2 | (Mg): H 0.093; MgH2: H 0.666667 | experimental | [1] Zeng 1999; _cites ref. 10_ | Table 5, p. 9, row 11; `ORC-LXVYHSSKWY` |  |
+| 832 | (Mg)+gas \<-> MgH2 | (Mg): H 0.00806; MgH2: H 0.666667 | model | [1] Zeng 1999 | Table 5, p. 9, row 10; `ORC-GEVPSFODYL` |  |
+| 803 | eutectic |  | experimental | [1] Zeng 1999; _cites ref. 7_ | p. 2; `ORC-VEVWAID73X.e0875e` | “A sketchy temperature!com! position isobar at 0999 bar was constructed with one eutectic invariant at 803 K and one peritectic at 742 K ð7Ł\[” |
+| 700 | (Mg)+gas \<-> MgH2 | (Mg): H 0.00169; MgH2: H 0.666667 | model | [1] Zeng 1999 | Table 5, p. 9, row 8; `ORC-ESTW6OWQLS` |  |
+| 700 | (Mg)+gas \<-> MgH2 | MgH2: H 0.666667 | experimental | [1] Zeng 1999; _cites ref. 10_ | Table 5, p. 9, row 9; `ORC-KICF2LSGB5` |  |
+| 590 | (Mg)+gas \<-> MgH2 | MgH2: H 0.666667 | experimental | [1] Zeng 1999; _cites ref. 29_ | Table 5, p. 9, row 5; `ORC-CWZ4KJT65X` |  |
+| 575 | (Mg)+gas \<-> MgH2 | MgH2: H 0.666667 | experimental | [1] Zeng 1999; _cites ref. 21_ | Table 5, p. 9, row 6; `ORC-TYGI4A3PCZ` |  |
+| 573 | (Mg)+gas \<-> MgH2 | MgH2: H 0.666667 | experimental | [1] Zeng 1999; _cites ref. 19_ | Table 5, p. 9, row 7; `ORC-EVS53OYXVC` |  |
+| 561 | (Mg)+gas \<-> MgH2 | (Mg): H 1.900e-4; MgH2: H 0.666667 | experimental | [1] Zeng 1999; _cites ref. 7_ | Table 5, p. 9, row 4; `ORC-VEEYJ2R4WP` |  |
+| 560.7 | (Mg)+gas \<-> MgH2 | (Mg): H 1.600e-4; MgH2: H 0.666667 | model | [1] Zeng 1999 | Table 5, p. 9, row 3; `ORC-CHYYLHWP3V` |  |
 
 ## Other properties
 
@@ -52,7 +52,7 @@ Table: Phase transition, H–Mg system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 503 K | 503 | other: reaction (2) | model | [2] Palumbo 2007 | p. 7 | “On further heating at 1 bar, reaction (2) is predicted to occur at 503 K, while a melting range of 724-744 K is calculated (Fig. 5(a)).” |
+| Phase transition | 503 K | 503 | other: reaction (2) | model | [2] Palumbo 2007 | p. 7; `ORC-N7YACK22YK` | “On further heating at 1 bar, reaction (2) is predicted to occur at 503 K, while a melting range of 724-744 K is calculated (Fig. 5(a)).” |
 
 ### Mixing / partial (7)
 
@@ -60,13 +60,13 @@ Table: Mixing / partial, H–Mg system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Partial enthalpy; _printed: ΔH°_ | 21.06 kJ/mol-H | 668 | cph | experimental | [1] Zeng 1999; _cites ref. 24_ | Table 0, p. 4, row 1 |  |
-| Partial enthalpy; _printed: ΔH°_ | 58 unknown ± 5 | 723 | cph | experimental | [1] Zeng 1999; _cites ref. 20_ | Table 0, p. 4, row 4 |  |
-| Partial enthalpy; _printed: ΔH°_ | 51.76 unknown ± 16.63 | 773 | cph | experimental | [1] Zeng 1999; _cites ref. 10_ | Table 0, p. 4, row 5 |  |
-| Partial enthalpy; _printed: ΔH°_ | 24.4 unknown ± 1.2 | 776 | cph | experimental | [1] Zeng 1999; _cites ref. 25_ | Table 0, p. 4, row 3 |  |
-| Partial enthalpy; _printed: ΔH°_ | 20 unknown ± 0.4 | 796.5 | cph | experimental | [1] Zeng 1999; _cites ref. 8_ | Table 0, p. 4, row 2 |  |
-| Partial enthalpy; _printed: ΔH°_ | 25.16 kJ/mol-H | 976 | Liquid | experimental | [1] Zeng 1999; _cites ref. 24_ | Table 0, p. 4, row 6 |  |
-| Partial enthalpy; _printed: ΔH°_ | 16.7 unknown ± 0.3 | 978.5 | Liquid | experimental | [1] Zeng 1999; _cites ref. 8_ | Table 0, p. 4, row 7 |  |
+| Partial enthalpy; _printed: ΔH°_ | 21.06 kJ/mol-H | 668 | cph | experimental | [1] Zeng 1999; _cites ref. 24_ | Table 0, p. 4, row 1; `ORC-EW7X3N2QKY` |  |
+| Partial enthalpy; _printed: ΔH°_ | 58 unknown ± 5 | 723 | cph | experimental | [1] Zeng 1999; _cites ref. 20_ | Table 0, p. 4, row 4; `ORC-PNUQJYIKWA` |  |
+| Partial enthalpy; _printed: ΔH°_ | 51.76 unknown ± 16.63 | 773 | cph | experimental | [1] Zeng 1999; _cites ref. 10_ | Table 0, p. 4, row 5; `ORC-UZGUZEDWQT` |  |
+| Partial enthalpy; _printed: ΔH°_ | 24.4 unknown ± 1.2 | 776 | cph | experimental | [1] Zeng 1999; _cites ref. 25_ | Table 0, p. 4, row 3; `ORC-LGKEV2ZCOJ` |  |
+| Partial enthalpy; _printed: ΔH°_ | 20 unknown ± 0.4 | 796.5 | cph | experimental | [1] Zeng 1999; _cites ref. 8_ | Table 0, p. 4, row 2; `ORC-7RRDPPY2SZ` |  |
+| Partial enthalpy; _printed: ΔH°_ | 25.16 kJ/mol-H | 976 | Liquid | experimental | [1] Zeng 1999; _cites ref. 24_ | Table 0, p. 4, row 6; `ORC-5UMAAAWGTJ` |  |
+| Partial enthalpy; _printed: ΔH°_ | 16.7 unknown ± 0.3 | 978.5 | Liquid | experimental | [1] Zeng 1999; _cites ref. 8_ | Table 0, p. 4, row 7; `ORC-F5UODIDQA2` |  |
 
 ## Sources
 
@@ -121,4 +121,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

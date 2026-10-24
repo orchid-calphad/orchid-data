@@ -14,10 +14,10 @@ Table: Enthalpy of formation of GeRu reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -31.2 kJ/mol-atom ± 3.3 | RuGe | 298.15 | experimental | Vapor pressure | [Ge–Ru](https://data.orchid-project.org/systems/GE-RU.html) | [1] Long 2009; _cites Jung 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990238-y) | Table 4, p. 3, row 1 |  |
-| -28.7 kJ/mol-atom ± 1.3 | RuGe | 1173 | experimental | Direct reaction calorimetry | [Ge–Ru](https://data.orchid-project.org/systems/GE-RU.html) | [1] Long 2009; _cites Ciccioli 1998_ [doi](https://doi.org/10.1002/bbpc.19981020936) | Table 4, p. 3, row 3 |  |
-| -28.4 kJ/mol-atom | RuGe | 1473 | experimental | High-temperature calorimetry | [Ge–Ru](https://data.orchid-project.org/systems/GE-RU.html) | [1] Long 2009; _cites Kuntz 1997_ [doi](https://doi.org/10.1006/jssc.1997.7508) | Table 4, p. 3, row 2 |  |
-| -31.241 kJ/mol-atom | RuGe | 298.15 | model | Assessment | [Ge–Ru](https://data.orchid-project.org/systems/GE-RU.html) | [1] Long 2009 | Table 4, p. 3, row 4 |  |
+| -31.2 kJ/mol-atom ± 3.3 | RuGe | 298.15 | experimental | Vapor pressure | [Ge–Ru](https://data.orchid-project.org/systems/GE-RU.html) | [1] Long 2009; _cites Jung 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990238-y) | Table 4, p. 3, row 1; `ORC-MI7CWGNH5B` |  |
+| -28.7 kJ/mol-atom ± 1.3 | RuGe | 1173 | experimental | Direct reaction calorimetry | [Ge–Ru](https://data.orchid-project.org/systems/GE-RU.html) | [1] Long 2009; _cites Ciccioli 1998_ [doi](https://doi.org/10.1002/bbpc.19981020936) | Table 4, p. 3, row 3; `ORC-SGVABQ3OXJ` |  |
+| -28.4 kJ/mol-atom | RuGe | 1473 | experimental | High-temperature calorimetry | [Ge–Ru](https://data.orchid-project.org/systems/GE-RU.html) | [1] Long 2009; _cites Kuntz 1997_ [doi](https://doi.org/10.1006/jssc.1997.7508) | Table 4, p. 3, row 2; `ORC-BYM4C224GT` |  |
+| -31.241 kJ/mol-atom | RuGe | 298.15 | model | Assessment | [Ge–Ru](https://data.orchid-project.org/systems/GE-RU.html) | [1] Long 2009 | Table 4, p. 3, row 4; `ORC-HPMJ57MGDU` |  |
 
 ### Uncertainty budget
 
@@ -96,4 +96,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

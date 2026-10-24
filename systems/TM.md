@@ -32,7 +32,7 @@ Table: Invariant reactions reported in the literature for the Tm system (1)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1793.15 | metatectic/catatectic: L + (betaTm) \<-> (alphaTm) | L: Tm 1; (betaTm): Tm 1; (alphaTm): Tm 1 | experimental | [1] Kardellass 2014; _cites Okamoto 1993_ | Table 8, p. 10, row 31 |  |
+| 1793.15 | metatectic/catatectic: L + (betaTm) \<-> (alphaTm) | L: Tm 1; (betaTm): Tm 1; (alphaTm): Tm 1 | experimental | [1] Kardellass 2014; _cites Okamoto 1993_ | Table 8, p. 10, row 31; `ORC-YBDVSEZUML` |  |
 
 ## Formation enthalpies
 
@@ -42,8 +42,8 @@ Table: Enthalpies of formation, Tm system (2)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Tm (fcc) |  | -2.68 kJ/mol-atom | 0 | DFT |  |  | [2] Dong 2012; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.05.002) | Table 1, p. 2, row 34 |  |
-| Tm (fcc) |  | -2.68 kJ/mol-atom | 0 | DFT |  |  | [2] Dong 2012 | Table 1, p. 2, row 33 |  |
+| Tm (fcc) |  | -2.68 kJ/mol-atom | 0 | DFT |  |  | [2] Dong 2012; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.05.002) | Table 1, p. 2, row 34; `ORC-4PDQOWDB7L.0dddc7` |  |
+| Tm (fcc) |  | -2.68 kJ/mol-atom | 0 | DFT |  |  | [2] Dong 2012 | Table 1, p. 2, row 33; `ORC-UXELG6XSUA.0127a1` |  |
 
 ## Other properties
 
@@ -53,9 +53,9 @@ Table: Phase transition, Tm system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1793.15 K | 1793.15 | polymorphic: alphaTm \<-> betaTm; _alphaTm: Tm 1; betaTm: Tm 1_ | experimental | [1] Kardellass 2014; _cites Okamoto 1993_ | Table 8, p. 10, row 32 |  |
-| Phase transition | 1818.15 K | 1818.15 | congruent melting: L \<-> (betaTm); _L: Tm 1; (betaTm): Tm 1_ | model | [1] Kardellass 2014 | Table 8, p. 10, row 34 |  |
-| Phase transition | 1818.15 K | 1818.15 | congruent melting: L \<-> (betaTm); _L: Tm 1; (betaTm): Tm 1_ | experimental | [1] Kardellass 2014; _cites Okamoto 1993_ | Table 8, p. 10, row 33 |  |
+| Phase transition | 1793.15 K | 1793.15 | polymorphic: alphaTm \<-> betaTm; _alphaTm: Tm 1; betaTm: Tm 1_ | experimental | [1] Kardellass 2014; _cites Okamoto 1993_ | Table 8, p. 10, row 32; `ORC-NPSN6M7YIT` |  |
+| Phase transition | 1818.15 K | 1818.15 | congruent melting: L \<-> (betaTm); _L: Tm 1; (betaTm): Tm 1_ | model | [1] Kardellass 2014 | Table 8, p. 10, row 34; `ORC-SEUL57R272.aadaf2` |  |
+| Phase transition | 1818.15 K | 1818.15 | congruent melting: L \<-> (betaTm); _L: Tm 1; (betaTm): Tm 1_ | experimental | [1] Kardellass 2014; _cites Okamoto 1993_ | Table 8, p. 10, row 33; `ORC-SRAZMVNSWA` |  |
 
 ### Crystal structure (7)
 
@@ -63,13 +63,13 @@ Table: Crystal structure, Tm system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 3.558 Å |  | Tm; _Tm: Tm 1_ | model | [3] Djaballah 2015 | Table 1, p. 2, row 23 |  |
-| Lattice a | 3.536 Å | 298.15 | Tm; _Tm: Tm 1_ | unspecified | [3] Djaballah 2015; _cites Daou 1983_ [doi](https://doi.org/10.1088/0305-4608/13/6/007) | Table 1, p. 2, row 22 |  |
-| Lattice a; _printed: a_ | 4.918 Å | 298.15 | Tm (fcc); _alloy: Tm 1_ | model | [2] Dong 2012 | Table 1, p. 2, row 35 |  |
-| Lattice b | 3.558 Å |  | Tm; _Tm: Tm 1_ | model | [3] Djaballah 2015 | Table 1, p. 2, row 23 |  |
-| Lattice b | 3.536 Å | 298.15 | Tm; _Tm: Tm 1_ | unspecified | [3] Djaballah 2015; _cites Daou 1983_ [doi](https://doi.org/10.1088/0305-4608/13/6/007) | Table 1, p. 2, row 22 |  |
-| Lattice c | 5.523 Å |  | Tm; _Tm: Tm 1_ | model | [3] Djaballah 2015 | Table 1, p. 2, row 23 |  |
-| Lattice c | 5.556 Å | 298.15 | Tm; _Tm: Tm 1_ | unspecified | [3] Djaballah 2015; _cites Daou 1983_ [doi](https://doi.org/10.1088/0305-4608/13/6/007) | Table 1, p. 2, row 22 |  |
+| Lattice a | 3.558 Å |  | Tm; _Tm: Tm 1_ | model | [3] Djaballah 2015 | Table 1, p. 2, row 23; `ORC-BV5CW33UWI.19ee63` |  |
+| Lattice a | 3.536 Å | 298.15 | Tm; _Tm: Tm 1_ | unspecified | [3] Djaballah 2015; _cites Daou 1983_ [doi](https://doi.org/10.1088/0305-4608/13/6/007) | Table 1, p. 2, row 22; `ORC-6TIBJYEHKE.8f1a50` |  |
+| Lattice a; _printed: a_ | 4.918 Å | 298.15 | Tm (fcc); _alloy: Tm 1_ | model | [2] Dong 2012 | Table 1, p. 2, row 35; `ORC-3VOTSAARLF` |  |
+| Lattice b | 3.558 Å |  | Tm; _Tm: Tm 1_ | model | [3] Djaballah 2015 | Table 1, p. 2, row 23; `ORC-BV5CW33UWI.3cd058` |  |
+| Lattice b | 3.536 Å | 298.15 | Tm; _Tm: Tm 1_ | unspecified | [3] Djaballah 2015; _cites Daou 1983_ [doi](https://doi.org/10.1088/0305-4608/13/6/007) | Table 1, p. 2, row 22; `ORC-6TIBJYEHKE.c4536e` |  |
+| Lattice c | 5.523 Å |  | Tm; _Tm: Tm 1_ | model | [3] Djaballah 2015 | Table 1, p. 2, row 23; `ORC-BV5CW33UWI.94da6a` |  |
+| Lattice c | 5.556 Å | 298.15 | Tm; _Tm: Tm 1_ | unspecified | [3] Djaballah 2015; _cites Daou 1983_ [doi](https://doi.org/10.1088/0305-4608/13/6/007) | Table 1, p. 2, row 22; `ORC-6TIBJYEHKE.642566` |  |
 
 ## Sources
 
@@ -114,4 +114,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

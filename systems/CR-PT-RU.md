@@ -26,13 +26,13 @@ Table: Invariant reactions reported in the literature for the Cr–Pt–Ru syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2400.75 | eutectic: L -> (Pt) + (Ru) | L: Ru 0.735; (Pt): Ru 0.726; (Ru): Ru 0.809 | unspecified | [1] WATSON 2006 | Table 1, p. 3, row 21 |  |
-| 1884.15 | eutectic: L -> (Cr) + (Ru) | L: Ru 0.372; (Cr): Ru 0.329; (Ru): Ru 0.485 | unspecified | [1] WATSON 2006 | Table 1, p. 3, row 12 |  |
-| 1883.15 | eutectic: L -> (Cr) + (Ru) | L: Ru 0.37; (Cr): Ru 0.32; (Ru): Ru 0.48 | unspecified | [1] WATSON 2006; _cites ref. 3_ | Table 1, p. 3, row 11 |  |
-| 1838.15 | eutectic: L -> Cr3Pt + (Cr) | L: Pt 0.14; Cr3Pt: Pt 0.17; (Cr): Pt 0.06 | unspecified | [1] WATSON 2006; _cites ref. 6_ | Table 1, p. 3, row 5 |  |
-| 1821.15 | eutectic: L -> Cr3Pt + (Pt) | L: Pt 0.25; Cr3Pt: Pt 0.205; (Pt): Pt 0.28 | unspecified | [1] WATSON 2006; _cites ref. 6_ | Table 1, p. 3, row 7 |  |
-| 1803.15 | eutectic: L -> Cr3Pt + (Pt) | L: Pt 0.24; Cr3Pt: Pt 0.2; (Pt): Pt 0.29 | unspecified | [1] WATSON 2006; _cites ref. 5_ | Table 1, p. 3, row 6 |  |
-| 1773.15 | eutectic: L -> Cr3Pt + (Cr) | L: Pt 0.13; Cr3Pt: Pt 0.17; (Cr): Pt 0.13 | unspecified | [1] WATSON 2006; _cites ref. 5_ | Table 1, p. 3, row 4 |  |
+| 2400.75 | eutectic: L -> (Pt) + (Ru) | L: Ru 0.735; (Pt): Ru 0.726; (Ru): Ru 0.809 | unspecified | [1] WATSON 2006 | Table 1, p. 3, row 21; `ORC-SPBIG2CAGG` |  |
+| 1884.15 | eutectic: L -> (Cr) + (Ru) | L: Ru 0.372; (Cr): Ru 0.329; (Ru): Ru 0.485 | unspecified | [1] WATSON 2006 | Table 1, p. 3, row 12; `ORC-MD2C5B4II7` |  |
+| 1883.15 | eutectic: L -> (Cr) + (Ru) | L: Ru 0.37; (Cr): Ru 0.32; (Ru): Ru 0.48 | unspecified | [1] WATSON 2006; _cites ref. 3_ | Table 1, p. 3, row 11; `ORC-JGNCEMHIIJ` |  |
+| 1838.15 | eutectic: L -> Cr3Pt + (Cr) | L: Pt 0.14; Cr3Pt: Pt 0.17; (Cr): Pt 0.06 | unspecified | [1] WATSON 2006; _cites ref. 6_ | Table 1, p. 3, row 5; `ORC-6XCRLQOPEW` |  |
+| 1821.15 | eutectic: L -> Cr3Pt + (Pt) | L: Pt 0.25; Cr3Pt: Pt 0.205; (Pt): Pt 0.28 | unspecified | [1] WATSON 2006; _cites ref. 6_ | Table 1, p. 3, row 7; `ORC-CTUNJSFKBS` |  |
+| 1803.15 | eutectic: L -> Cr3Pt + (Pt) | L: Pt 0.24; Cr3Pt: Pt 0.2; (Pt): Pt 0.29 | unspecified | [1] WATSON 2006; _cites ref. 5_ | Table 1, p. 3, row 6; `ORC-QQCKQATOJQ` |  |
+| 1773.15 | eutectic: L -> Cr3Pt + (Cr) | L: Pt 0.13; Cr3Pt: Pt 0.17; (Cr): Pt 0.13 | unspecified | [1] WATSON 2006; _cites ref. 5_ | Table 1, p. 3, row 4; `ORC-I45U2TTEZF` |  |
 
 ## Sources
 
@@ -75,4 +75,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

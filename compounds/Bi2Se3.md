@@ -14,18 +14,18 @@ Table: Enthalpy of formation of Bi2Se3 reported in the literature (12)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -30.653 kJ/mol-atom | Bi2Se3 | 298.15 | experimental | Calorimetry | [Bi–Se](https://data.orchid-project.org/systems/BI-SE.html) | [1] Zhou 2024; _cites Stolyarova 1990_ | Table 3, p. 5, row 92 |  |
-| -30.5 kJ/mol-atom | Bi2Se3 | 298.15 | experimental | Calorimetry | [Bi–Se](https://data.orchid-project.org/systems/BI-SE.html) | [1] Zhou 2024; _cites Andreeva 1965_ | Table 3, p. 5, row 95 |  |
-| -29 kJ/mol-atom ± 0.8 | Bi2Se3 | 298.15 | experimental | EMF | [Bi–Se](https://data.orchid-project.org/systems/BI-SE.html) | [1] Zhou 2024; _cites Sidorko 2008_ [doi](https://doi.org/10.1007/s11106-008-9009-3) | Table 3, p. 5, row 99 |  |
-| -28.5 kJ/mol-atom ± 0.4 | Bi2Se3 | 298.15 | experimental | EMF | [Bi–Se](https://data.orchid-project.org/systems/BI-SE.html) | [1] Zhou 2024; _cites Vasilev 1968_ | Table 3, p. 5, row 97 |  |
-| -28.4 kJ/mol-atom ± 1.2 | Bi2Se3 | 298.15 | experimental | Vapour pressure measurements | [Bi–Se](https://data.orchid-project.org/systems/BI-SE.html) | [1] Zhou 2024; _cites Boncheva-Mladenova 1968_ | Table 3, p. 5, row 96 |  |
-| -28.03 kJ/mol-atom ± 0.13 | Bi2Se3 | 298.15 | experimental | Calorimetry | [Bi–Se](https://data.orchid-project.org/systems/BI-SE.html) | [1] Zhou 2024; _cites Howlett 1964_ | Table 3, p. 5, row 94 |  |
-| -27.92 kJ/mol-atom | Bi2Se3 | 298.15 | experimental | EMF | [Bi–Se](https://data.orchid-project.org/systems/BI-SE.html) | [1] Zhou 2024; _cites Hasanova 2021_ [doi](https://doi.org/10.1007/s11837-021-04621-1) | Table 3, p. 5, row 88 |  |
-| -27.1 kJ/mol-atom ± 1.2 | Bi2Se3 | 298.15 | experimental | Calorimetry | [Bi–Se](https://data.orchid-project.org/systems/BI-SE.html) | [1] Zhou 2024; _cites Bros 1976_ | Table 3, p. 5, row 98 |  |
-| -11.63 kJ/mol-atom ± 1.23 | Bi2Se3 | 298.15 | experimental | Vapour pressure measurements | [Bi–Se](https://data.orchid-project.org/systems/BI-SE.html) | [1] Zhou 2024; _cites Gattow 1955_ [doi](https://doi.org/10.1002/ange.19550671118) | Table 3, p. 5, row 93 |  |
-| -66.479 kJ/mol-atom | Bi2Se3 | 0 | DFT | First-principles | [Bi–Se](https://data.orchid-project.org/systems/BI-SE.html) | [1] Zhou 2024; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table 3, p. 5, row 89 |  |
-| -39.764 kJ/mol-atom | Bi2Se3 | 0 | DFT | First-principles | [Bi–Se](https://data.orchid-project.org/systems/BI-SE.html) | [1] Zhou 2024 | Table 3, p. 5, row 91 |  |
-| -37.437 kJ/mol-atom | Bi2Se3 | 0 | DFT | First-principles | [Bi–Se](https://data.orchid-project.org/systems/BI-SE.html) | [1] Zhou 2024; _cites Saal 2013_ [doi](https://doi.org/10.1007/s11837-013-0755-4) | Table 3, p. 5, row 90 |  |
+| -30.653 kJ/mol-atom | Bi2Se3 | 298.15 | experimental | Calorimetry | [Bi–Se](https://data.orchid-project.org/systems/BI-SE.html) | [1] Zhou 2024; _cites Stolyarova 1990_ | Table 3, p. 5, row 92; `ORC-OSTGUIVUJJ` |  |
+| -30.5 kJ/mol-atom | Bi2Se3 | 298.15 | experimental | Calorimetry | [Bi–Se](https://data.orchid-project.org/systems/BI-SE.html) | [1] Zhou 2024; _cites Andreeva 1965_ | Table 3, p. 5, row 95; `ORC-JCDHIBDUDI` |  |
+| -29 kJ/mol-atom ± 0.8 | Bi2Se3 | 298.15 | experimental | EMF | [Bi–Se](https://data.orchid-project.org/systems/BI-SE.html) | [1] Zhou 2024; _cites Sidorko 2008_ [doi](https://doi.org/10.1007/s11106-008-9009-3) | Table 3, p. 5, row 99; `ORC-4JY6KXJ5BR` |  |
+| -28.5 kJ/mol-atom ± 0.4 | Bi2Se3 | 298.15 | experimental | EMF | [Bi–Se](https://data.orchid-project.org/systems/BI-SE.html) | [1] Zhou 2024; _cites Vasilev 1968_ | Table 3, p. 5, row 97; `ORC-F2UXTZXH6C` |  |
+| -28.4 kJ/mol-atom ± 1.2 | Bi2Se3 | 298.15 | experimental | Vapour pressure measurements | [Bi–Se](https://data.orchid-project.org/systems/BI-SE.html) | [1] Zhou 2024; _cites Boncheva-Mladenova 1968_ | Table 3, p. 5, row 96; `ORC-EABY7UHW54` |  |
+| -28.03 kJ/mol-atom ± 0.13 | Bi2Se3 | 298.15 | experimental | Calorimetry | [Bi–Se](https://data.orchid-project.org/systems/BI-SE.html) | [1] Zhou 2024; _cites Howlett 1964_ | Table 3, p. 5, row 94; `ORC-MARLO5EQFN` |  |
+| -27.92 kJ/mol-atom | Bi2Se3 | 298.15 | experimental | EMF | [Bi–Se](https://data.orchid-project.org/systems/BI-SE.html) | [1] Zhou 2024; _cites Hasanova 2021_ [doi](https://doi.org/10.1007/s11837-021-04621-1) | Table 3, p. 5, row 88; `ORC-T72I2OG4J2` |  |
+| -27.1 kJ/mol-atom ± 1.2 | Bi2Se3 | 298.15 | experimental | Calorimetry | [Bi–Se](https://data.orchid-project.org/systems/BI-SE.html) | [1] Zhou 2024; _cites Bros 1976_ | Table 3, p. 5, row 98; `ORC-ILRXOJWE56` |  |
+| -11.63 kJ/mol-atom ± 1.23 | Bi2Se3 | 298.15 | experimental | Vapour pressure measurements | [Bi–Se](https://data.orchid-project.org/systems/BI-SE.html) | [1] Zhou 2024; _cites Gattow 1955_ [doi](https://doi.org/10.1002/ange.19550671118) | Table 3, p. 5, row 93; `ORC-JCVUNKRB5B` |  |
+| -66.479 kJ/mol-atom | Bi2Se3 | 0 | DFT | First-principles | [Bi–Se](https://data.orchid-project.org/systems/BI-SE.html) | [1] Zhou 2024; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table 3, p. 5, row 89; `ORC-QQOHUOXWAB` |  |
+| -39.764 kJ/mol-atom | Bi2Se3 | 0 | DFT | First-principles | [Bi–Se](https://data.orchid-project.org/systems/BI-SE.html) | [1] Zhou 2024 | Table 3, p. 5, row 91; `ORC-RLXLRHKT2M` |  |
+| -37.437 kJ/mol-atom | Bi2Se3 | 0 | DFT | First-principles | [Bi–Se](https://data.orchid-project.org/systems/BI-SE.html) | [1] Zhou 2024; _cites Saal 2013_ [doi](https://doi.org/10.1007/s11837-013-0755-4) | Table 3, p. 5, row 90; `ORC-F6WPSSDUDS` |  |
 
 ### Uncertainty budget
 
@@ -112,4 +112,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

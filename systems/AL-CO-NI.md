@@ -30,7 +30,7 @@ Table: Phase transition, Al–Co–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1632.15 K | 1632.15 | L + c¢ = > b + c | model | [1] Zhu 2014 | p. 15 | “The c¢ phase has a small primary phase region and an invariant reaction L + c¢ = > b + c occurs at 1359 C.” |
+| Phase transition | 1632.15 K | 1632.15 | L + c¢ = > b + c | model | [1] Zhu 2014 | p. 15; `ORC-TQAFRKUYIN` | “The c¢ phase has a small primary phase region and an invariant reaction L + c¢ = > b + c occurs at 1359 C.” |
 
 ### Mixing / partial (12)
 
@@ -38,18 +38,18 @@ Table: Mixing / partial, Al–Co–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: ΔHmix_ | -23.59 kJ/mol-atom | 0 | A2; _alloy: Al 0.25, Co 0.25, Ni 0.5_ | DFT | [2] Liu 2016 | Table 6, p. 40, row 25 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -20.43 kJ/mol-atom | 0 | A2; _alloy: Al 0.25, Co 0.5, Ni 0.25_ | DFT | [2] Liu 2016 | Table 6, p. 40, row 24 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -25.81 kJ/mol-atom | 0 | A2; _alloy: Al 0.5, Co 0.25, Ni 0.25_ | DFT | [2] Liu 2016 | Table 6, p. 40, row 23 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -26.94 kJ/mol-atom | 0 | B2; _alloy: Al 0.25, Co 0.5, Ni 0.25_ | DFT | [2] Liu 2016 | Table 8, p. 42, row 14 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -68.64 kJ/mol-atom | 0 | B2; _alloy: Al 0.5, Co 0.25, Ni 0.25_ | DFT | [2] Liu 2016 | Table 8, p. 42, row 11 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -33.61 kJ/mol-atom | 0 | B2; _alloy: Al 0.25, Co 0.25, Ni 0.5_ | DFT | [2] Liu 2016 | Table 8, p. 42, row 17 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -17.13 kJ/mol-atom | 0 | γ; _alloy: Al 0.25, Co 0.5, Ni 0.25_ | DFT | [2] Liu 2016 | Table 7, p. 41, row 24 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -21.68 kJ/mol-atom | 0 | γ; _alloy: Al 0.25, Co 0.25, Ni 0.5_ | DFT | [2] Liu 2016 | Table 7, p. 41, row 25 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -21.66 kJ/mol-atom | 0 | γ; _alloy: Al 0.5, Co 0.25, Ni 0.25_ | DFT | [2] Liu 2016 | Table 7, p. 41, row 23 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -25.03 kJ/mol-atom | 0 | γ’; _alloy: Al 0.375, Co 0.375, Ni 0.25_ | DFT | [2] Liu 2016 | Table 9, p. 43, row 17 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -29.84 kJ/mol-atom | 0 | γ’; _alloy: Al 0.25, Co 0.375, Ni 0.375_ | DFT | [2] Liu 2016 | Table 9, p. 43, row 11 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -28.12 kJ/mol-atom | 0 | γ’; _alloy: Al 0.375, Co 0.25, Ni 0.375_ | DFT | [2] Liu 2016 | Table 9, p. 43, row 14 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -23.59 kJ/mol-atom | 0 | A2; _alloy: Al 0.25, Co 0.25, Ni 0.5_ | DFT | [2] Liu 2016 | Table 6, p. 40, row 25; `ORC-3D4W5TGD42` |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -20.43 kJ/mol-atom | 0 | A2; _alloy: Al 0.25, Co 0.5, Ni 0.25_ | DFT | [2] Liu 2016 | Table 6, p. 40, row 24; `ORC-7GQJDWDHJQ` |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -25.81 kJ/mol-atom | 0 | A2; _alloy: Al 0.5, Co 0.25, Ni 0.25_ | DFT | [2] Liu 2016 | Table 6, p. 40, row 23; `ORC-RNMZLTA3EG` |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -26.94 kJ/mol-atom | 0 | B2; _alloy: Al 0.25, Co 0.5, Ni 0.25_ | DFT | [2] Liu 2016 | Table 8, p. 42, row 14; `ORC-74RBDPJKYV` |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -68.64 kJ/mol-atom | 0 | B2; _alloy: Al 0.5, Co 0.25, Ni 0.25_ | DFT | [2] Liu 2016 | Table 8, p. 42, row 11; `ORC-WT7PXP52PW` |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -33.61 kJ/mol-atom | 0 | B2; _alloy: Al 0.25, Co 0.25, Ni 0.5_ | DFT | [2] Liu 2016 | Table 8, p. 42, row 17; `ORC-Z7PJJFOXX3` |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -17.13 kJ/mol-atom | 0 | γ; _alloy: Al 0.25, Co 0.5, Ni 0.25_ | DFT | [2] Liu 2016 | Table 7, p. 41, row 24; `ORC-56UQQ3KDZU` |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -21.68 kJ/mol-atom | 0 | γ; _alloy: Al 0.25, Co 0.25, Ni 0.5_ | DFT | [2] Liu 2016 | Table 7, p. 41, row 25; `ORC-MZSAEGOTBR` |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -21.66 kJ/mol-atom | 0 | γ; _alloy: Al 0.5, Co 0.25, Ni 0.25_ | DFT | [2] Liu 2016 | Table 7, p. 41, row 23; `ORC-P4ZSEXFBEG` |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -25.03 kJ/mol-atom | 0 | γ’; _alloy: Al 0.375, Co 0.375, Ni 0.25_ | DFT | [2] Liu 2016 | Table 9, p. 43, row 17; `ORC-HRT7A33QUN` |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -29.84 kJ/mol-atom | 0 | γ’; _alloy: Al 0.25, Co 0.375, Ni 0.375_ | DFT | [2] Liu 2016 | Table 9, p. 43, row 11; `ORC-XMHR27DSFK` |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -28.12 kJ/mol-atom | 0 | γ’; _alloy: Al 0.375, Co 0.25, Ni 0.375_ | DFT | [2] Liu 2016 | Table 9, p. 43, row 14; `ORC-ZRJTZFU5YP` |  |
 
 ## Sources
 
@@ -93,4 +93,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

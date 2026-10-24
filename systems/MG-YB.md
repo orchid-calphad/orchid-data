@@ -49,12 +49,12 @@ Table: Invariant reactions reported in the literature for the Mg–Yb system (6)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 782 | liq. -> Mg2Yb + hcp(Mg) | liq.: Yb 0.107; Mg2Yb: Yb 0.293; hcp(Mg): Yb 0.012 | experimental | [1] Guo 2006; _cites Mcmasters 1965_ [doi](https://doi.org/10.1016/0022-5088%2865%2990063-9) | Table 4, p. 7, row 2 |  |
-| 782 | liq. -> Mg2Yb + hcp(Mg) | liq.: Yb 0.1029; Mg2Yb: Yb 0.2945; hcp(Mg): Yb 0.006 | model | [1] Guo 2006 | Table 4, p. 7, row 1 |  |
-| 769 | liq. -> bcc(Yb) + Mg2Yb | liq.: Yb 0.6745; bcc(Yb): Yb 0.9097; Mg2Yb: Yb 0.3622 | model | [1] Guo 2006 | Table 4, p. 7, row 5 |  |
-| 769 | liq. -> bcc(Yb) + Mg2Yb | liq.: Yb 0.685; bcc(Yb): Yb 0.917; Mg2Yb: Yb 0.362 | experimental | [1] Guo 2006; _cites Mcmasters 1965_ [doi](https://doi.org/10.1016/0022-5088%2865%2990063-9) | Table 4, p. 7, row 6 |  |
-| 720 | bcc(Yb) -> fcc(Yb) + Mg2Yb | bcc(Yb): Yb 0.92; fcc(Yb): Yb 0.961; Mg2Yb: Yb 0.36 | experimental | [1] Guo 2006; _cites Mcmasters 1965_ [doi](https://doi.org/10.1016/0022-5088%2865%2990063-9) | Table 4, p. 7, row 8 |  |
-| 720 | bcc(Yb) -> fcc(Yb) + Mg2Yb | bcc(Yb): Yb 0.9299; fcc(Yb): Yb 0.9621; Mg2Yb: Yb 0.3606 | model | [1] Guo 2006 | Table 4, p. 7, row 7 |  |
+| 782 | liq. -> Mg2Yb + hcp(Mg) | liq.: Yb 0.107; Mg2Yb: Yb 0.293; hcp(Mg): Yb 0.012 | experimental | [1] Guo 2006; _cites Mcmasters 1965_ [doi](https://doi.org/10.1016/0022-5088%2865%2990063-9) | Table 4, p. 7, row 2; `ORC-DZVEU7UJ2W` |  |
+| 782 | liq. -> Mg2Yb + hcp(Mg) | liq.: Yb 0.1029; Mg2Yb: Yb 0.2945; hcp(Mg): Yb 0.006 | model | [1] Guo 2006 | Table 4, p. 7, row 1; `ORC-SCQK7IN75P` |  |
+| 769 | liq. -> bcc(Yb) + Mg2Yb | liq.: Yb 0.6745; bcc(Yb): Yb 0.9097; Mg2Yb: Yb 0.3622 | model | [1] Guo 2006 | Table 4, p. 7, row 5; `ORC-5LCAGXPYUQ` |  |
+| 769 | liq. -> bcc(Yb) + Mg2Yb | liq.: Yb 0.685; bcc(Yb): Yb 0.917; Mg2Yb: Yb 0.362 | experimental | [1] Guo 2006; _cites Mcmasters 1965_ [doi](https://doi.org/10.1016/0022-5088%2865%2990063-9) | Table 4, p. 7, row 6; `ORC-C23DZY6BZS` |  |
+| 720 | bcc(Yb) -> fcc(Yb) + Mg2Yb | bcc(Yb): Yb 0.92; fcc(Yb): Yb 0.961; Mg2Yb: Yb 0.36 | experimental | [1] Guo 2006; _cites Mcmasters 1965_ [doi](https://doi.org/10.1016/0022-5088%2865%2990063-9) | Table 4, p. 7, row 8; `ORC-CBRU6DAJQW` |  |
+| 720 | bcc(Yb) -> fcc(Yb) + Mg2Yb | bcc(Yb): Yb 0.9299; fcc(Yb): Yb 0.9621; Mg2Yb: Yb 0.3606 | model | [1] Guo 2006 | Table 4, p. 7, row 7; `ORC-NFC47RKOIU` |  |
 
 ## Other properties
 
@@ -64,8 +64,8 @@ Table: Phase transition, Mg–Yb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 991 K | 991 | liq. -> Mg2Yb; _liq.: Yb 0.334; Mg2Yb: Yb 0.334_ | model | [1] Guo 2006 | Table 4, p. 7, row 3 |  |
-| Phase transition | 991 K | 991 | liq. -> Mg2Yb; _liq.: Yb 0.33; Mg2Yb: Yb 0.33_ | experimental | [1] Guo 2006; _cites Mcmasters 1965_ [doi](https://doi.org/10.1016/0022-5088%2865%2990063-9) | Table 4, p. 7, row 4 |  |
+| Phase transition | 991 K | 991 | liq. -> Mg2Yb; _liq.: Yb 0.334; Mg2Yb: Yb 0.334_ | model | [1] Guo 2006 | Table 4, p. 7, row 3; `ORC-HOGSQNU5T6` |  |
+| Phase transition | 991 K | 991 | liq. -> Mg2Yb; _liq.: Yb 0.33; Mg2Yb: Yb 0.33_ | experimental | [1] Guo 2006; _cites Mcmasters 1965_ [doi](https://doi.org/10.1016/0022-5088%2865%2990063-9) | Table 4, p. 7, row 4; `ORC-LELZKKBXNS` |  |
 
 ## Sources
 
@@ -130,4 +130,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

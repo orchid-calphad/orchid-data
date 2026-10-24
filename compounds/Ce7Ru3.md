@@ -14,18 +14,18 @@ Table: Enthalpy of formation of Ce7Ru3 reported in the literature (12)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -28.425 kJ/mol-atom | Ce7Ru3 |  | model | Calculation II | [Ce–Ru](https://data.orchid-project.org/systems/CE-RU.html) | [1] Kardellass 2023; _cites Selhaoui 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900125-x) | Table 3, p. 9, row 24 |  |
-| -28.3098 kJ/mol-atom | Ce7Ru3 |  | model | Miedema’s model | [Ce–Ru](https://data.orchid-project.org/systems/CE-RU.html) | [1] Kardellass 2023; _cites De 2014_ | Table 3, p. 9, row 25 |  |
-| -23.3098 kJ/mol-atom | Ce7Ru3 |  | model | Modified Miedema’s model | [Ce–Ru](https://data.orchid-project.org/systems/CE-RU.html) | [1] Kardellass 2023; _cites Zhang 2007_ [doi](https://doi.org/10.1016/j.cplett.2007.06.031) | Table 3, p. 9, row 31 |  |
-| -23.1605 kJ/mol-atom | Ce7Ru3 |  | model | Optimization LM | [Ce–Ru](https://data.orchid-project.org/systems/CE-RU.html) | [1] Kardellass 2023 | Table 3, p. 9, row 20 |  |
-| -22.882 kJ/mol-atom | Ce7Ru3 |  | model | Calculation I | [Ce–Ru](https://data.orchid-project.org/systems/CE-RU.html) | [1] Kardellass 2023; _cites Selhaoui 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900125-x) | Table 3, p. 9, row 23 |  |
-| -21.3837 kJ/mol-atom | Ce7Ru3 |  | model | Optimization CM | [Ce–Ru](https://data.orchid-project.org/systems/CE-RU.html) | [1] Kardellass 2023 | Table 3, p. 9, row 22 |  |
-| -17.8141 kJ/mol-atom | Ce7Ru3 |  | model | Optimization EM | [Ce–Ru](https://data.orchid-project.org/systems/CE-RU.html) | [1] Kardellass 2023 | Table 3, p. 9, row 21 |  |
-| -26.4186 kJ/mol-atom | Ce7Ru3 | 0 | DFT | Ab-initio (No-magnetic) | [Ce–Ru](https://data.orchid-project.org/systems/CE-RU.html) | [1] Kardellass 2023 | Table 3, p. 9, row 27 |  |
-| -26.3241 kJ/mol-atom | Ce7Ru3 | 0 | DFT | Ab-initio (Magnetic) | [Ce–Ru](https://data.orchid-project.org/systems/CE-RU.html) | [1] Kardellass 2023 | Table 3, p. 9, row 26 |  |
-| -26.2954 kJ/mol-atom | Ce7Ru3 |  | DFT | Ab-initio | [Ce–Ru](https://data.orchid-project.org/systems/CE-RU.html) | [1] Kardellass 2023; _cites Oses 2018_ [doi](https://doi.org/10.1021/acs.jcim.8b00393) | Table 3, p. 9, row 30 |  |
-| -26.22 kJ/mol-atom | Ce7Ru3 |  | DFT | Ab-initio | [Ce–Ru](https://data.orchid-project.org/systems/CE-RU.html) | [1] Kardellass 2023; _cites Ceder 2010_ | Table 3, p. 9, row 28 |  |
-| -12.4356 kJ/mol-atom | Ce7Ru3 | 0 | DFT | Ab-initio | [Ce–Ru](https://data.orchid-project.org/systems/CE-RU.html) | [1] Kardellass 2023; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table 3, p. 9, row 29 |  |
+| -28.425 kJ/mol-atom | Ce7Ru3 |  | model | Calculation II | [Ce–Ru](https://data.orchid-project.org/systems/CE-RU.html) | [1] Kardellass 2023; _cites Selhaoui 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900125-x) | Table 3, p. 9, row 24; `ORC-MO254WUMM4.0767f1` |  |
+| -28.3098 kJ/mol-atom | Ce7Ru3 |  | model | Miedema’s model | [Ce–Ru](https://data.orchid-project.org/systems/CE-RU.html) | [1] Kardellass 2023; _cites De 2014_ | Table 3, p. 9, row 25; `ORC-HDCXAWRQ5S.77c13f` |  |
+| -23.3098 kJ/mol-atom | Ce7Ru3 |  | model | Modified Miedema’s model | [Ce–Ru](https://data.orchid-project.org/systems/CE-RU.html) | [1] Kardellass 2023; _cites Zhang 2007_ [doi](https://doi.org/10.1016/j.cplett.2007.06.031) | Table 3, p. 9, row 31; `ORC-E7PK3NT5H2.b2ad26` |  |
+| -23.1605 kJ/mol-atom | Ce7Ru3 |  | model | Optimization LM | [Ce–Ru](https://data.orchid-project.org/systems/CE-RU.html) | [1] Kardellass 2023 | Table 3, p. 9, row 20; `ORC-6Q36JYCSJN.3ba988` |  |
+| -22.882 kJ/mol-atom | Ce7Ru3 |  | model | Calculation I | [Ce–Ru](https://data.orchid-project.org/systems/CE-RU.html) | [1] Kardellass 2023; _cites Selhaoui 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900125-x) | Table 3, p. 9, row 23; `ORC-N5RB2AHMFG.54da91` |  |
+| -21.3837 kJ/mol-atom | Ce7Ru3 |  | model | Optimization CM | [Ce–Ru](https://data.orchid-project.org/systems/CE-RU.html) | [1] Kardellass 2023 | Table 3, p. 9, row 22; `ORC-ELZ4V7PWAT.1b4932` |  |
+| -17.8141 kJ/mol-atom | Ce7Ru3 |  | model | Optimization EM | [Ce–Ru](https://data.orchid-project.org/systems/CE-RU.html) | [1] Kardellass 2023 | Table 3, p. 9, row 21; `ORC-3LROBZR2AI.73e76d` |  |
+| -26.4186 kJ/mol-atom | Ce7Ru3 | 0 | DFT | Ab-initio (No-magnetic) | [Ce–Ru](https://data.orchid-project.org/systems/CE-RU.html) | [1] Kardellass 2023 | Table 3, p. 9, row 27; `ORC-BSFBCVBOS3.abf9b9` |  |
+| -26.3241 kJ/mol-atom | Ce7Ru3 | 0 | DFT | Ab-initio (Magnetic) | [Ce–Ru](https://data.orchid-project.org/systems/CE-RU.html) | [1] Kardellass 2023 | Table 3, p. 9, row 26; `ORC-HJMFZA2XRU.9d6e31` |  |
+| -26.2954 kJ/mol-atom | Ce7Ru3 |  | DFT | Ab-initio | [Ce–Ru](https://data.orchid-project.org/systems/CE-RU.html) | [1] Kardellass 2023; _cites Oses 2018_ [doi](https://doi.org/10.1021/acs.jcim.8b00393) | Table 3, p. 9, row 30; `ORC-C4T6WTSM5O.9647e3` |  |
+| -26.22 kJ/mol-atom | Ce7Ru3 |  | DFT | Ab-initio | [Ce–Ru](https://data.orchid-project.org/systems/CE-RU.html) | [1] Kardellass 2023; _cites Ceder 2010_ | Table 3, p. 9, row 28; `ORC-DYLFXQYHI3.76f322` |  |
+| -12.4356 kJ/mol-atom | Ce7Ru3 | 0 | DFT | Ab-initio | [Ce–Ru](https://data.orchid-project.org/systems/CE-RU.html) | [1] Kardellass 2023; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table 3, p. 9, row 29; `ORC-SC5DZ4F3LQ.9fde3e` |  |
 
 ### Uncertainty budget
 
@@ -112,4 +112,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

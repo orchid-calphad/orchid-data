@@ -30,23 +30,23 @@ Table: Invariant reactions reported in the literature for the As–U system (17)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2978.15 | congruent melting: L ↔ AsU | L: U 0.5; AsU: U 0.5 | unspecified | [1] Wang 2013; _cites Benz 1968_ [doi](https://doi.org/10.1149/1.2411157) | Table 5, p. 5, row 16 |  |
-| 2978.15 | congruent melting: L ↔ AsU | L: U 0.5; AsU: U 0.5 | model | [1] Wang 2013 | Table 5, p. 5, row 17 |  |
-| 1773.15 | peritectic: L + AsU ↔ As4U3 | AsU: U 0.5; As4U3: U 0.429 | experimental | [1] Wang 2013; _cites Massalski 1990_ | Table 5, p. 5, row 9 |  |
-| 1772.15 | peritectic: L + AsU ↔ As4U3 | L: U 0.018; AsU: U 0.5; As4U3: U 0.429 | model | [1] Wang 2013 | Table 5, p. 5, row 10 |  |
-| 1398.15 | eutectic: L ↔ AsU + (γU) | L: U 0.995; AsU: U 0.5; (γU): U 0.999 | model | [1] Wang 2013 | Table 5, p. 5, row 5 |  |
-| 1398.15 | eutectic: L ↔ AsU + (γU) | AsU: U 0.5; (γU): U 1 | experimental | [1] Wang 2013; _cites Massalski 1990_ | Table 5, p. 5, row 4 |  |
-| 1398.15 | eutectic: L ↔ AsU + (γU) | AsU: U 0.5; (γU): U 1 | experimental | [1] Wang 2013; _cites Benz 1968_ [doi](https://doi.org/10.1149/1.2411157) | Table 5, p. 5, row 3 |  |
-| 1273.15 | peritectic: L + As4U3 ↔ As2U | L: U 0.002; As4U3: U 0.429; As2U: U 0.333 | model | [1] Wang 2013 | Table 5, p. 5, row 12 |  |
-| 1273.15 | peritectic: L + As4U3 ↔ As2U | As4U3: U 0.429; As2U: U 0.333 | experimental | [1] Wang 2013; _cites Massalski 1990_ | Table 5, p. 5, row 11 |  |
-| 1090.15 | eutectic: L ↔ (As) + As2U | (As): U 0; As2U: U 0.333 | experimental | [1] Wang 2013; _cites Massalski 1990_ | Table 5, p. 5, row 1 |  |
-| 1090.15 | eutectic: L ↔ (As) + As2U | L: U 4.000e-4; (As): U 0; As2U: U 0.333 | model | [1] Wang 2013 | Table 5, p. 5, row 2 |  |
-| 1049.15 | eutectoid: (γU) ↔ AsU + (βU) | (γU): U 1; AsU: U 0.5; (βU): U 1 | experimental | [1] Wang 2013; _cites Massalski 1990_ | Table 5, p. 5, row 7 |  |
-| 1049.15 | eutectoid: (γU) ↔ AsU + (βU) | (γU): U 1; AsU: U 0.5; (βU): U 1 | model | [1] Wang 2013 | Table 5, p. 5, row 8 |  |
-| 1048.15 | eutectoid: (γU) ↔ AsU + (βU) | (γU): U 1; AsU: U 0.5; (βU): U 1 | experimental | [1] Wang 2013; _cites Benz 1968_ [doi](https://doi.org/10.1149/1.2411157) | Table 5, p. 5, row 6 |  |
-| 942.15 | peritectoid: AsU + (βU) ↔ (αU) | AsU: U 0.5; (βU): U 1; (αU): U 1 | model | [1] Wang 2013 | Table 5, p. 5, row 15 |  |
-| 941.15 | peritectoid: AsU + (βU) ↔ (αU) | AsU: U 0.5; (βU): U 1; (αU): U 1 | experimental | [1] Wang 2013; _cites Massalski 1990_ | Table 5, p. 5, row 14 |  |
-| 938.15 | peritectoid: AsU + (βU) ↔ (αU) | AsU: U 0.5; (βU): U 1; (αU): U 1 | experimental | [1] Wang 2013; _cites Benz 1968_ [doi](https://doi.org/10.1149/1.2411157) | Table 5, p. 5, row 13 |  |
+| 2978.15 | congruent melting: L ↔ AsU | L: U 0.5; AsU: U 0.5 | unspecified | [1] Wang 2013; _cites Benz 1968_ [doi](https://doi.org/10.1149/1.2411157) | Table 5, p. 5, row 16; `ORC-LO4RKRZBCX` |  |
+| 2978.15 | congruent melting: L ↔ AsU | L: U 0.5; AsU: U 0.5 | model | [1] Wang 2013 | Table 5, p. 5, row 17; `ORC-ZH3O5VNVJN` |  |
+| 1773.15 | peritectic: L + AsU ↔ As4U3 | AsU: U 0.5; As4U3: U 0.429 | experimental | [1] Wang 2013; _cites Massalski 1990_ | Table 5, p. 5, row 9; `ORC-NIVESK4DG4` |  |
+| 1772.15 | peritectic: L + AsU ↔ As4U3 | L: U 0.018; AsU: U 0.5; As4U3: U 0.429 | model | [1] Wang 2013 | Table 5, p. 5, row 10; `ORC-AGPKW4ZLAH` |  |
+| 1398.15 | eutectic: L ↔ AsU + (γU) | L: U 0.995; AsU: U 0.5; (γU): U 0.999 | model | [1] Wang 2013 | Table 5, p. 5, row 5; `ORC-BF5ITK75VX` |  |
+| 1398.15 | eutectic: L ↔ AsU + (γU) | AsU: U 0.5; (γU): U 1 | experimental | [1] Wang 2013; _cites Massalski 1990_ | Table 5, p. 5, row 4; `ORC-HBQOZXV5KD` |  |
+| 1398.15 | eutectic: L ↔ AsU + (γU) | AsU: U 0.5; (γU): U 1 | experimental | [1] Wang 2013; _cites Benz 1968_ [doi](https://doi.org/10.1149/1.2411157) | Table 5, p. 5, row 3; `ORC-NRKGNTF2T4` |  |
+| 1273.15 | peritectic: L + As4U3 ↔ As2U | L: U 0.002; As4U3: U 0.429; As2U: U 0.333 | model | [1] Wang 2013 | Table 5, p. 5, row 12; `ORC-3ZZPRXRT3M` |  |
+| 1273.15 | peritectic: L + As4U3 ↔ As2U | As4U3: U 0.429; As2U: U 0.333 | experimental | [1] Wang 2013; _cites Massalski 1990_ | Table 5, p. 5, row 11; `ORC-PDRJWDTPPX` |  |
+| 1090.15 | eutectic: L ↔ (As) + As2U | (As): U 0; As2U: U 0.333 | experimental | [1] Wang 2013; _cites Massalski 1990_ | Table 5, p. 5, row 1; `ORC-5SK2IRGHLS` |  |
+| 1090.15 | eutectic: L ↔ (As) + As2U | L: U 4.000e-4; (As): U 0; As2U: U 0.333 | model | [1] Wang 2013 | Table 5, p. 5, row 2; `ORC-6IHJ4BPRRW` |  |
+| 1049.15 | eutectoid: (γU) ↔ AsU + (βU) | (γU): U 1; AsU: U 0.5; (βU): U 1 | experimental | [1] Wang 2013; _cites Massalski 1990_ | Table 5, p. 5, row 7; `ORC-HCHAPSNJWM` |  |
+| 1049.15 | eutectoid: (γU) ↔ AsU + (βU) | (γU): U 1; AsU: U 0.5; (βU): U 1 | model | [1] Wang 2013 | Table 5, p. 5, row 8; `ORC-VJUJX3S6W7` |  |
+| 1048.15 | eutectoid: (γU) ↔ AsU + (βU) | (γU): U 1; AsU: U 0.5; (βU): U 1 | experimental | [1] Wang 2013; _cites Benz 1968_ [doi](https://doi.org/10.1149/1.2411157) | Table 5, p. 5, row 6; `ORC-YAEFCZ7HFL` |  |
+| 942.15 | peritectoid: AsU + (βU) ↔ (αU) | AsU: U 0.5; (βU): U 1; (αU): U 1 | model | [1] Wang 2013 | Table 5, p. 5, row 15; `ORC-J47I43FP7E` |  |
+| 941.15 | peritectoid: AsU + (βU) ↔ (αU) | AsU: U 0.5; (βU): U 1; (αU): U 1 | experimental | [1] Wang 2013; _cites Massalski 1990_ | Table 5, p. 5, row 14; `ORC-4FKR5PRIBA` |  |
+| 938.15 | peritectoid: AsU + (βU) ↔ (αU) | AsU: U 0.5; (βU): U 1; (αU): U 1 | experimental | [1] Wang 2013; _cites Benz 1968_ [doi](https://doi.org/10.1149/1.2411157) | Table 5, p. 5, row 13; `ORC-OFAJMYUFUF` |  |
 
 ## Sources
 
@@ -100,4 +100,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

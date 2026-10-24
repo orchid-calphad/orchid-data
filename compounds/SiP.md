@@ -14,15 +14,15 @@ Table: Enthalpy of formation of SiP reported in the literature (9)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -246.525 kJ/mol (basis unstated) | SiP(s) |  | model |  | [P–Si](https://data.orchid-project.org/systems/P-SI.html) | [1] Favre 2024; _cites ref. 11_ | Table 3, p. 35, row 1 |  |
-| -147.253 kJ/mol (basis unstated) | SiP(s) |  | model |  | [P–Si](https://data.orchid-project.org/systems/P-SI.html) | [1] Favre 2024; _cites ref. 11_ | Table 3, p. 35, row 2 |  |
-| -66.425 kJ/mol (basis unstated) | SiP(s) |  | model |  | [P–Si](https://data.orchid-project.org/systems/P-SI.html) | [1] Favre 2024 | Table 3, p. 35, row 3 |  |
-| -31.65 kJ/mol-atom | SiP | 298.15 | model | Calphad | [P–Si](https://data.orchid-project.org/systems/P-SI.html) | [2] Liang 2014 | Table 5, p. 8, row 7 |  |
-| -31.65 kJ/mol-atom | SiP | 298.15 | model | Calphad | [P–Si](https://data.orchid-project.org/systems/P-SI.html) | [2] Liang 2014; _cites ref. 2012Jun_ | Table 5, p. 8, row 6 |  |
-| -31.61 kJ/mol-atom | SiP | 298.15 | model | Calculated | [P–Si](https://data.orchid-project.org/systems/P-SI.html) | [2] Liang 2014; _cites ref. 2011Aru_ | Table 5, p. 8, row 5 |  |
-| -39.52 kJ/mol-atom | SiP | 298.15 | unspecified | Derived | [P–Si](https://data.orchid-project.org/systems/P-SI.html) | [2] Liang 2014; _cites ref. 1938Bil_ | Table 5, p. 8, row 3 |  |
-| -37.6 kJ/mol-atom | SiP | 298.15 | unspecified | Derived | [P–Si](https://data.orchid-project.org/systems/P-SI.html) | [2] Liang 2014; _cites ref. 1976Kor_ | Table 5, p. 8, row 4 |  |
-| -30.95 kJ/mol-atom | SiP | 298.15 | unspecified | Reviewed | [P–Si](https://data.orchid-project.org/systems/P-SI.html) | [2] Liang 2014; _cites ref. 1977Bar_ | Table 5, p. 8, row 2 |  |
+| -246.525 kJ/mol (basis unstated) | SiP(s) |  | model |  | [P–Si](https://data.orchid-project.org/systems/P-SI.html) | [1] Favre 2024; _cites ref. 11_ | Table 3, p. 35, row 1; `ORC-GBOLDEHYJP.a19123` |  |
+| -147.253 kJ/mol (basis unstated) | SiP(s) |  | model |  | [P–Si](https://data.orchid-project.org/systems/P-SI.html) | [1] Favre 2024; _cites ref. 11_ | Table 3, p. 35, row 2; `ORC-YTEX2VAE7M.5f63f9` |  |
+| -66.425 kJ/mol (basis unstated) | SiP(s) |  | model |  | [P–Si](https://data.orchid-project.org/systems/P-SI.html) | [1] Favre 2024 | Table 3, p. 35, row 3; `ORC-L7YZYDWIKI.c9e067` |  |
+| -31.65 kJ/mol-atom | SiP | 298.15 | model | Calphad | [P–Si](https://data.orchid-project.org/systems/P-SI.html) | [2] Liang 2014 | Table 5, p. 8, row 7; `ORC-ID3HWJIUPV.6e54b8` |  |
+| -31.65 kJ/mol-atom | SiP | 298.15 | model | Calphad | [P–Si](https://data.orchid-project.org/systems/P-SI.html) | [2] Liang 2014; _cites ref. 2012Jun_ | Table 5, p. 8, row 6; `ORC-ZCELURSFSI.3c97fc` |  |
+| -31.61 kJ/mol-atom | SiP | 298.15 | model | Calculated | [P–Si](https://data.orchid-project.org/systems/P-SI.html) | [2] Liang 2014; _cites ref. 2011Aru_ | Table 5, p. 8, row 5; `ORC-53YAL3Y255.04280c` |  |
+| -39.52 kJ/mol-atom | SiP | 298.15 | unspecified | Derived | [P–Si](https://data.orchid-project.org/systems/P-SI.html) | [2] Liang 2014; _cites ref. 1938Bil_ | Table 5, p. 8, row 3; `ORC-2XRUHNMQ2N.7d5e7f` |  |
+| -37.6 kJ/mol-atom | SiP | 298.15 | unspecified | Derived | [P–Si](https://data.orchid-project.org/systems/P-SI.html) | [2] Liang 2014; _cites ref. 1976Kor_ | Table 5, p. 8, row 4; `ORC-MP6G43JR7T.b71241` |  |
+| -30.95 kJ/mol-atom | SiP | 298.15 | unspecified | Reviewed | [P–Si](https://data.orchid-project.org/systems/P-SI.html) | [2] Liang 2014; _cites ref. 1977Bar_ | Table 5, p. 8, row 2; `ORC-JQBKPARQEG.6cb2a5` |  |
 
 ### Uncertainty budget
 
@@ -107,4 +107,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -108,32 +108,32 @@ Table: Invariant reactions reported in the literature for the Ni–V system (26)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1553.15 | L + bcc-(V) = σ | L: V 0.615; bcc-(V): V 0.76; σ: V 0.67 | experimental | [1] Pan 2018; _cites Stevens 1970_ [doi](https://doi.org/10.1007/bf02900242) | Table 3, p. 6, row 4 |  |
-| 1553 | peritectic: L + bcc -> σ | L: V 0.615; bcc: V 0.76; σ: V 0.67 | experimental | [2] Kabanova 2010; _cites Smith 1982_ | Table 1, p. 3, row 3 |  |
-| 1551 | peritectic: L + bcc -> σ | L: V 0.6118; bcc: V 0.7643; σ: V 0.649 | model | [2] Kabanova 2010 | Table 1, p. 3, row 4 |  |
-| 1549.15 | L + bcc-(V) = σ | L: V 0.629; bcc-(V): V 0.76; σ: V 0.68 | model | [1] Pan 2018 | Table 3, p. 6, row 3 |  |
-| 1477.15 | L = fcc-(Ni) + σ | L: V 0.506; fcc-(Ni): V 0.427; σ: V 0.556 | model | [1] Pan 2018 | Table 3, p. 6, row 1 |  |
-| 1476.5 | eutectic: L -> fcc + σ | L: V 0.485; fcc: V 0.4305; σ: V 0.5901 | model | [2] Kabanova 2010 | Table 1, p. 3, row 2 |  |
-| 1475.15 | L = fcc-(Ni) + σ | L: V 0.51; fcc-(Ni): V 0.43; σ: V 0.55 | experimental | [1] Pan 2018; _cites Stevens 1970_ [doi](https://doi.org/10.1007/bf02900242) | Table 3, p. 6, row 2 |  |
-| 1475 | eutectic: L -> fcc + σ | L: V 0.512; fcc: V 0.43; σ: V 0.56 | experimental | [2] Kabanova 2010; _cites Smith 1982_ | Table 1, p. 3, row 1 |  |
-| 1475 | eutectic |  | model | [2] Kabanova 2010; _cites Smith 1982_ | p. 1 | “The eutectic temperature was 1473 ± 5 K, which agreed well with the published data (1475 K) \[1\].” |
-| 1473 | eutectic |  | experimental | [2] Kabanova 2010 | p. 1 | “The eutectic temperature was 1473 ± 5 K, which agreed well with the published data (1475 K) \[1\].” |
-| 1325.15 | fcc-(Ni) = Ni3V | fcc-(Ni): V 0.247; Ni3V: V 0.247 | model | [1] Pan 2018 | Table 3, p. 6, row 11 |  |
-| 1318.15 | fcc-(Ni) = Ni3V | fcc-(Ni): V 0.25; Ni3V: V 0.25 | experimental | [1] Pan 2018; _cites Stevens 1970_ [doi](https://doi.org/10.1007/bf02900242) | Table 3, p. 6, row 12 |  |
-| 1206.15 | fcc-(Ni) = Ni2V | fcc-(Ni): V 0.333; Ni2V: V 0.333 | model | [1] Pan 2018 | Table 3, p. 6, row 13 |  |
-| 1195.15 | fcc-(Ni) = Ni2V | fcc-(Ni): V 0.333; Ni2V: V 0.333 | experimental | [1] Pan 2018; _cites Stevens 1970_ [doi](https://doi.org/10.1007/bf02900242) | Table 3, p. 6, row 14 |  |
-| 1183 | eutectoid: fcc -> Ni3V + Ni2V | fcc: V 0.323; Ni3V: V 0.283; Ni2V: V 0.333 | model | [2] Kabanova 2010 | Table 1, p. 3, row 10 |  |
-| 1181.15 | fcc-(Ni) = Ni3V + Ni2V | fcc-(Ni): V 0.325; Ni3V: V 0.285; Ni2V: V 0.33 | experimental | [1] Pan 2018; _cites Stevens 1970_ [doi](https://doi.org/10.1007/bf02900242) | Table 3, p. 6, row 6 |  |
-| 1181 | eutectoid: fcc -> Ni3V + Ni2V | fcc: V 0.325; Ni3V: V 0.285; Ni2V: V 0.33 | experimental | [2] Kabanova 2010; _cites Smith 1982_ | Table 1, p. 3, row 9 |  |
-| 1178.5 | eutectoid: fcc -> Ni2V + σ | fcc: V 0.3675; Ni2V: V 0.333; σ: V 0.5732 | model | [2] Kabanova 2010 | Table 1, p. 3, row 12 |  |
-| 1177.15 | fcc-(Ni) = Ni3V + Ni2V | fcc-(Ni): V 0.31; Ni3V: V 0.267; Ni2V: V 0.333 | model | [1] Pan 2018 | Table 3, p. 6, row 5 |  |
-| 1175 | peritectoid: σ + bcc -> NiV3 | σ: V 0.7274; bcc: V 0.892; NiV3: V 0.75 | model | [2] Kabanova 2010 | Table 1, p. 3, row 14 |  |
-| 1173.15 | σ + bcc-(V) = Ni2V7 | σ: V 0.735; bcc-(V): V 0.895; Ni2V7: V 0.778 | experimental | [1] Pan 2018; _cites Stevens 1970_ [doi](https://doi.org/10.1007/bf02900242) | Table 3, p. 6, row 10 |  |
-| 1173.15 | σ + bcc-(V) = Ni2V7 | σ: V 0.742; bcc-(V): V 0.895; Ni2V7: V 0.778 | model | [1] Pan 2018 | Table 3, p. 6, row 9 |  |
-| 1173 | peritectoid: σ + bcc -> NiV3 | σ: V 0.735; bcc: V 0.895; NiV3: V 0.778 | experimental | [2] Kabanova 2010; _cites Smith 1982_ | Table 1, p. 3, row 13 |  |
-| 1163.15 | fcc-(Ni) = Ni2V + σ | fcc-(Ni): V 0.385; Ni2V: V 0.33; σ: V 0.55 | experimental | [1] Pan 2018; _cites Stevens 1970_ [doi](https://doi.org/10.1007/bf02900242) | Table 3, p. 6, row 8 |  |
-| 1163 | eutectoid: fcc -> Ni2V + σ | fcc: V 0.365; Ni2V: V 0.33; σ: V 0.56 | experimental | [2] Kabanova 2010; _cites Smith 1982_ | Table 1, p. 3, row 11 |  |
-| 1155.15 | fcc-(Ni) = Ni2V + σ | fcc-(Ni): V 0.367; Ni2V: V 0.333; σ: V 0.532 | model | [1] Pan 2018 | Table 3, p. 6, row 7 |  |
+| 1553.15 | L + bcc-(V) = σ | L: V 0.615; bcc-(V): V 0.76; σ: V 0.67 | experimental | [1] Pan 2018; _cites Stevens 1970_ [doi](https://doi.org/10.1007/bf02900242) | Table 3, p. 6, row 4; `ORC-HBCTFF5ZLQ` |  |
+| 1553 | peritectic: L + bcc -> σ | L: V 0.615; bcc: V 0.76; σ: V 0.67 | experimental | [2] Kabanova 2010; _cites Smith 1982_ | Table 1, p. 3, row 3; `ORC-DSLO4NHYM6` |  |
+| 1551 | peritectic: L + bcc -> σ | L: V 0.6118; bcc: V 0.7643; σ: V 0.649 | model | [2] Kabanova 2010 | Table 1, p. 3, row 4; `ORC-RPVRKUGIFL` |  |
+| 1549.15 | L + bcc-(V) = σ | L: V 0.629; bcc-(V): V 0.76; σ: V 0.68 | model | [1] Pan 2018 | Table 3, p. 6, row 3; `ORC-VTMXFPKBOS` |  |
+| 1477.15 | L = fcc-(Ni) + σ | L: V 0.506; fcc-(Ni): V 0.427; σ: V 0.556 | model | [1] Pan 2018 | Table 3, p. 6, row 1; `ORC-WGEF5IGN36` |  |
+| 1476.5 | eutectic: L -> fcc + σ | L: V 0.485; fcc: V 0.4305; σ: V 0.5901 | model | [2] Kabanova 2010 | Table 1, p. 3, row 2; `ORC-QA3YQPWCMJ` |  |
+| 1475.15 | L = fcc-(Ni) + σ | L: V 0.51; fcc-(Ni): V 0.43; σ: V 0.55 | experimental | [1] Pan 2018; _cites Stevens 1970_ [doi](https://doi.org/10.1007/bf02900242) | Table 3, p. 6, row 2; `ORC-B6YVKBTZ3D` |  |
+| 1475 | eutectic: L -> fcc + σ | L: V 0.512; fcc: V 0.43; σ: V 0.56 | experimental | [2] Kabanova 2010; _cites Smith 1982_ | Table 1, p. 3, row 1; `ORC-EGVUQZDK3E` |  |
+| 1475 | eutectic |  | model | [2] Kabanova 2010; _cites Smith 1982_ | p. 1; `ORC-URZJO6NSEC.7bc347` | “The eutectic temperature was 1473 ± 5 K, which agreed well with the published data (1475 K) \[1\].” |
+| 1473 | eutectic |  | experimental | [2] Kabanova 2010 | p. 1; `ORC-URZJO6NSEC.26b510` | “The eutectic temperature was 1473 ± 5 K, which agreed well with the published data (1475 K) \[1\].” |
+| 1325.15 | fcc-(Ni) = Ni3V | fcc-(Ni): V 0.247; Ni3V: V 0.247 | model | [1] Pan 2018 | Table 3, p. 6, row 11; `ORC-BFY3MGL34E` |  |
+| 1318.15 | fcc-(Ni) = Ni3V | fcc-(Ni): V 0.25; Ni3V: V 0.25 | experimental | [1] Pan 2018; _cites Stevens 1970_ [doi](https://doi.org/10.1007/bf02900242) | Table 3, p. 6, row 12; `ORC-IBCB6YQA4C` |  |
+| 1206.15 | fcc-(Ni) = Ni2V | fcc-(Ni): V 0.333; Ni2V: V 0.333 | model | [1] Pan 2018 | Table 3, p. 6, row 13; `ORC-WCOZ45EXGR` |  |
+| 1195.15 | fcc-(Ni) = Ni2V | fcc-(Ni): V 0.333; Ni2V: V 0.333 | experimental | [1] Pan 2018; _cites Stevens 1970_ [doi](https://doi.org/10.1007/bf02900242) | Table 3, p. 6, row 14; `ORC-OJMQOWS65J` |  |
+| 1183 | eutectoid: fcc -> Ni3V + Ni2V | fcc: V 0.323; Ni3V: V 0.283; Ni2V: V 0.333 | model | [2] Kabanova 2010 | Table 1, p. 3, row 10; `ORC-KWYUZZDNOH` |  |
+| 1181.15 | fcc-(Ni) = Ni3V + Ni2V | fcc-(Ni): V 0.325; Ni3V: V 0.285; Ni2V: V 0.33 | experimental | [1] Pan 2018; _cites Stevens 1970_ [doi](https://doi.org/10.1007/bf02900242) | Table 3, p. 6, row 6; `ORC-IUK6CMJWXK` |  |
+| 1181 | eutectoid: fcc -> Ni3V + Ni2V | fcc: V 0.325; Ni3V: V 0.285; Ni2V: V 0.33 | experimental | [2] Kabanova 2010; _cites Smith 1982_ | Table 1, p. 3, row 9; `ORC-M4SF572YK5` |  |
+| 1178.5 | eutectoid: fcc -> Ni2V + σ | fcc: V 0.3675; Ni2V: V 0.333; σ: V 0.5732 | model | [2] Kabanova 2010 | Table 1, p. 3, row 12; `ORC-J34FOYHTEB` |  |
+| 1177.15 | fcc-(Ni) = Ni3V + Ni2V | fcc-(Ni): V 0.31; Ni3V: V 0.267; Ni2V: V 0.333 | model | [1] Pan 2018 | Table 3, p. 6, row 5; `ORC-WOYYWSOK7L` |  |
+| 1175 | peritectoid: σ + bcc -> NiV3 | σ: V 0.7274; bcc: V 0.892; NiV3: V 0.75 | model | [2] Kabanova 2010 | Table 1, p. 3, row 14; `ORC-L62EEFJDOS` |  |
+| 1173.15 | σ + bcc-(V) = Ni2V7 | σ: V 0.735; bcc-(V): V 0.895; Ni2V7: V 0.778 | experimental | [1] Pan 2018; _cites Stevens 1970_ [doi](https://doi.org/10.1007/bf02900242) | Table 3, p. 6, row 10; `ORC-7WVO7SSUEE` |  |
+| 1173.15 | σ + bcc-(V) = Ni2V7 | σ: V 0.742; bcc-(V): V 0.895; Ni2V7: V 0.778 | model | [1] Pan 2018 | Table 3, p. 6, row 9; `ORC-VLXIOFCYQZ` |  |
+| 1173 | peritectoid: σ + bcc -> NiV3 | σ: V 0.735; bcc: V 0.895; NiV3: V 0.778 | experimental | [2] Kabanova 2010; _cites Smith 1982_ | Table 1, p. 3, row 13; `ORC-AIWNWDESMP` |  |
+| 1163.15 | fcc-(Ni) = Ni2V + σ | fcc-(Ni): V 0.385; Ni2V: V 0.33; σ: V 0.55 | experimental | [1] Pan 2018; _cites Stevens 1970_ [doi](https://doi.org/10.1007/bf02900242) | Table 3, p. 6, row 8; `ORC-ELFCZCVIHW` |  |
+| 1163 | eutectoid: fcc -> Ni2V + σ | fcc: V 0.365; Ni2V: V 0.33; σ: V 0.56 | experimental | [2] Kabanova 2010; _cites Smith 1982_ | Table 1, p. 3, row 11; `ORC-HGHZJVTEYU` |  |
+| 1155.15 | fcc-(Ni) = Ni2V + σ | fcc-(Ni): V 0.367; Ni2V: V 0.333; σ: V 0.532 | model | [1] Pan 2018 | Table 3, p. 6, row 7; `ORC-VD2Y7VU7RE` |  |
 
 ## Other properties
 
@@ -143,14 +143,14 @@ Table: Phase transition, Ni–V system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 291 K | 291 |  | model | [1] Pan 2018 | p. 6 | “According to the present calculation, there are phase decompositions of the Ni2V phase at 291 K and a phase separation of the liquid phase at 6011 K, as can be seen in Fig. 2.” |
-| Phase transition | 1192 K | 1192 | other: fcc -> Ni2V; _fcc: V 0.333; Ni2V: V 0.333_ | model | [2] Kabanova 2010 | Table 1, p. 3, row 8 |  |
-| Phase transition | 1195 K | 1195 | fcc + Ni3V | model | [2] Kabanova 2010; _cites Smith 1982_ | p. 3 | “The Ni3V phase was, however, exper imentally ascertained to be formed in the Ni-V sys tem by the ordering of fcc solid solution based on nickel at 1195 K \[1\].” |
-| Phase transition | 1195 K | 1195 | other: fcc -> Ni2V; _fcc: V 0.333; Ni2V: V 0.333_ | experimental | [2] Kabanova 2010; _cites Smith 1982_ | Table 1, p. 3, row 7 |  |
-| Phase transition | 1303.5 K | 1303.5 | other: fcc -> Ni3V; _fcc: V 0.258; Ni3V: V 0.258_ | model | [2] Kabanova 2010 | Table 1, p. 3, row 6 |  |
-| Phase transition | 1318 K | 1318 | other: fcc -> Ni3V; _fcc: V 0.25; Ni3V: V 0.25_ | experimental | [2] Kabanova 2010; _cites Smith 1982_ | Table 1, p. 3, row 5 |  |
-| Phase transition | 1714.15 K | 1714.15 | other | experimental | [1] Pan 2018; _cites Stevens 1970_ [doi](https://doi.org/10.1007/bf02900242) | p. 5 | “For the bcc-(V) solidus, the data point at 82.2 at.% V and 1441 °C \[5\] did not fit well.” |
-| Phase transition | 6011 K | 6011 | phase separation of the liquid phase | model | [1] Pan 2018 | p. 6 | “According to the present calculation, there are phase decompositions of the Ni2V phase at 291 K and a phase separation of the liquid phase at 6011 K, as can be seen in Fig. 2.” |
+| Phase transition | 291 K | 291 |  | model | [1] Pan 2018 | p. 6; `ORC-JMHYAAYNJH.24a0f9` | “According to the present calculation, there are phase decompositions of the Ni2V phase at 291 K and a phase separation of the liquid phase at 6011 K, as can be seen in Fig. 2.” |
+| Phase transition | 1192 K | 1192 | other: fcc -> Ni2V; _fcc: V 0.333; Ni2V: V 0.333_ | model | [2] Kabanova 2010 | Table 1, p. 3, row 8; `ORC-V6UDF2BZC7` |  |
+| Phase transition | 1195 K | 1195 | fcc + Ni3V | model | [2] Kabanova 2010; _cites Smith 1982_ | p. 3; `ORC-RFYH23QDFR` | “The Ni3V phase was, however, exper imentally ascertained to be formed in the Ni-V sys tem by the ordering of fcc solid solution based on nickel at 1195 K \[1\].” |
+| Phase transition | 1195 K | 1195 | other: fcc -> Ni2V; _fcc: V 0.333; Ni2V: V 0.333_ | experimental | [2] Kabanova 2010; _cites Smith 1982_ | Table 1, p. 3, row 7; `ORC-BJJKZUSUAW` |  |
+| Phase transition | 1303.5 K | 1303.5 | other: fcc -> Ni3V; _fcc: V 0.258; Ni3V: V 0.258_ | model | [2] Kabanova 2010 | Table 1, p. 3, row 6; `ORC-MHQHHYNQWB` |  |
+| Phase transition | 1318 K | 1318 | other: fcc -> Ni3V; _fcc: V 0.25; Ni3V: V 0.25_ | experimental | [2] Kabanova 2010; _cites Smith 1982_ | Table 1, p. 3, row 5; `ORC-Z5KYKA5F65` |  |
+| Phase transition | 1714.15 K | 1714.15 | other | experimental | [1] Pan 2018; _cites Stevens 1970_ [doi](https://doi.org/10.1007/bf02900242) | p. 5; `ORC-67U4M2T73R` | “For the bcc-(V) solidus, the data point at 82.2 at.% V and 1441 °C \[5\] did not fit well.” |
+| Phase transition | 6011 K | 6011 | phase separation of the liquid phase | model | [1] Pan 2018 | p. 6; `ORC-JMHYAAYNJH.750f39` | “According to the present calculation, there are phase decompositions of the Ni2V phase at 291 K and a phase separation of the liquid phase at 6011 K, as can be seen in Fig. 2.” |
 
 ## Sources
 
@@ -216,4 +216,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

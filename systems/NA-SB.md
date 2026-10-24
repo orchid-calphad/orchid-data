@@ -55,11 +55,11 @@ Table: Invariant reactions reported in the literature for the Na–Sb system (5)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 710 | liq -> Na3Sb + NaSb | liq: Sb 0.45; Na3Sb: Sb 0.25; NaSb: Sb 0.5 | model | [1] Liu 2013 | Table 3, p. 5, row 6 |  |
-| 708 | liq -> Na3Sb + NaSb | liq: Sb 0.45; Na3Sb: Sb 0.25; NaSb: Sb 0.5 | experimental | [1] Liu 2013; _cites Mathewson 1906_ [doi](https://doi.org/10.1002/zaac.19060500118) | Table 3, p. 5, row 7 |  |
-| 672 | liq -> NaSb + Sb | liq: Sb 0.6; NaSb: Sb 0.5; Sb: Sb 1 | model | [1] Liu 2013 | Table 3, p. 5, row 11 |  |
-| 370.9 | liq -> Na + Na3Sb | Na3Sb: Sb 0.25 | model | [1] Liu 2013 | Table 3, p. 5, row 1 |  |
-| 370.8 | liq -> Na + Na3Sb | Na3Sb: Sb 0.25 | experimental | [1] Liu 2013; _cites Mathewson 1906_ [doi](https://doi.org/10.1002/zaac.19060500118) | Table 3, p. 5, row 2 |  |
+| 710 | liq -> Na3Sb + NaSb | liq: Sb 0.45; Na3Sb: Sb 0.25; NaSb: Sb 0.5 | model | [1] Liu 2013 | Table 3, p. 5, row 6; `ORC-6MF7VBSZHP` |  |
+| 708 | liq -> Na3Sb + NaSb | liq: Sb 0.45; Na3Sb: Sb 0.25; NaSb: Sb 0.5 | experimental | [1] Liu 2013; _cites Mathewson 1906_ [doi](https://doi.org/10.1002/zaac.19060500118) | Table 3, p. 5, row 7; `ORC-LCRHBBDJ2O` |  |
+| 672 | liq -> NaSb + Sb | liq: Sb 0.6; NaSb: Sb 0.5; Sb: Sb 1 | model | [1] Liu 2013 | Table 3, p. 5, row 11; `ORC-R26HPNQO2C` |  |
+| 370.9 | liq -> Na + Na3Sb | Na3Sb: Sb 0.25 | model | [1] Liu 2013 | Table 3, p. 5, row 1; `ORC-LGIAXUY4NK` |  |
+| 370.8 | liq -> Na + Na3Sb | Na3Sb: Sb 0.25 | experimental | [1] Liu 2013; _cites Mathewson 1906_ [doi](https://doi.org/10.1002/zaac.19060500118) | Table 3, p. 5, row 2; `ORC-WULJG5LCBS` |  |
 
 ## Formation enthalpies
 
@@ -69,28 +69,28 @@ Table: Enthalpies of formation, Na–Sb system (22)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Na3Sb |  | -1.786 eV | 0 | DFT |  |  | [2] Dreval 2017 | Table 3, p. 7, row 20 |  |
-| Na3Sb |  | -1.784 eV | 0 | DFT |  |  | [2] Dreval 2017 | Table 3, p. 7, row 19 |  |
-| Na3Sb(s) | [Na3Sb](https://data.orchid-project.org/compounds/Na3Sb.html) | -58.5 kJ/mol-atom | 298.15 | experimental | -45.951 (mp-aaaaalua) | -50.428 (oqmd-5156) | [1] Liu 2013; _cites Voronin 1967_ | Table 2, p. 4, row 2 |  |
-| Na3Sb(s) | [Na3Sb](https://data.orchid-project.org/compounds/Na3Sb.html) | -56.75 kJ/mol-atom | 298.15 | experimental | -45.951 (mp-aaaaalua) | -50.428 (oqmd-5156) | [1] Liu 2013; _cites Voronin 1987_ | Table 2, p. 4, row 3 |  |
-| Na3Sb(s) | [Na3Sb](https://data.orchid-project.org/compounds/Na3Sb.html) | -56.5 kJ/mol-atom |  | model | -45.951 (mp-aaaaalua) | -50.428 (oqmd-5156) | [1] Liu 2013 | Table 2, p. 4, row 1 |  |
-| Na3Sb(s) | [Na3Sb](https://data.orchid-project.org/compounds/Na3Sb.html) | -53.25 kJ/mol-atom | 298.15 | experimental | -45.951 (mp-aaaaalua) | -50.428 (oqmd-5156) | [1] Liu 2013; _cites Morozova 1959_ | Table 2, p. 4, row 4 |  |
-| Na3Sb(s) | [Na3Sb](https://data.orchid-project.org/compounds/Na3Sb.html) | -49.25 kJ/mol-atom | 298.15 | experimental | -45.951 (mp-aaaaalua) | -50.428 (oqmd-5156) | [1] Liu 2013; _cites Kubaschewski 1938_ | Table 2, p. 4, row 5 |  |
-| NaSb |  | -0.679 eV | 0 | DFT |  |  | [2] Dreval 2017 | Table 3, p. 7, row 21 |  |
-| NaSb |  | -0.663 eV | 0 | DFT |  |  | [2] Dreval 2017 | Table 3, p. 7, row 22 |  |
-| NaSb(s) | [NaSb](https://data.orchid-project.org/compounds/NaSb.html) | -37.5 kJ/mol-atom |  | model | -40.415 (mp-aaaaalto) | -37.498 (oqmd-5018) | [1] Liu 2013 | Table 2, p. 4, row 6 |  |
-| NaSb(s) | [NaSb](https://data.orchid-project.org/compounds/NaSb.html) | -36 kJ/mol-atom | 298.15 | experimental | -40.415 (mp-aaaaalto) | -37.498 (oqmd-5018) | [1] Liu 2013; _cites Voronin 1987_ | Table 2, p. 4, row 8 |  |
-| NaSb(s) | [NaSb](https://data.orchid-project.org/compounds/NaSb.html) | -35 kJ/mol-atom | 298.15 | experimental | -40.415 (mp-aaaaalto) | -37.498 (oqmd-5018) | [1] Liu 2013; _cites Voronin 1967_ | Table 2, p. 4, row 7 |  |
-| NaSb(s) | [NaSb](https://data.orchid-project.org/compounds/NaSb.html) | -33 kJ/mol-atom | 298.15 | experimental | -40.415 (mp-aaaaalto) | -37.498 (oqmd-5018) | [1] Liu 2013; _cites Kubaschewski 1938_ | Table 2, p. 4, row 9 |  |
-| UNKNOWN |  | -234 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Liu 2013; _cites Voronin 1967_ | Table 2, p. 4, row 2 |  |
-| UNKNOWN |  | -227 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Liu 2013; _cites Voronin 1987_ | Table 2, p. 4, row 3 |  |
-| UNKNOWN |  | -226 kJ/mol (basis unstated) |  | model |  |  | [1] Liu 2013 | Table 2, p. 4, row 1 |  |
-| UNKNOWN |  | -213 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Liu 2013; _cites Morozova 1959_ | Table 2, p. 4, row 4 |  |
-| UNKNOWN |  | -197 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Liu 2013; _cites Kubaschewski 1938_ | Table 2, p. 4, row 5 |  |
-| UNKNOWN |  | -75 kJ/mol (basis unstated) |  | model |  |  | [1] Liu 2013 | Table 2, p. 4, row 6 |  |
-| UNKNOWN |  | -72 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Liu 2013; _cites Voronin 1987_ | Table 2, p. 4, row 8 |  |
-| UNKNOWN |  | -70 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Liu 2013; _cites Voronin 1967_ | Table 2, p. 4, row 7 |  |
-| UNKNOWN |  | -66 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Liu 2013; _cites Kubaschewski 1938_ | Table 2, p. 4, row 9 |  |
+| Na3Sb |  | -1.786 eV | 0 | DFT |  |  | [2] Dreval 2017 | Table 3, p. 7, row 20; `ORC-KKWPGCYOW6` |  |
+| Na3Sb |  | -1.784 eV | 0 | DFT |  |  | [2] Dreval 2017 | Table 3, p. 7, row 19; `ORC-5YMH6CE4GG` |  |
+| Na3Sb(s) | [Na3Sb](https://data.orchid-project.org/compounds/Na3Sb.html) | -58.5 kJ/mol-atom | 298.15 | experimental | -45.951 (mp-aaaaalua) | -50.428 (oqmd-5156) | [1] Liu 2013; _cites Voronin 1967_ | Table 2, p. 4, row 2; `ORC-223PF5O6OY.11e76e` |  |
+| Na3Sb(s) | [Na3Sb](https://data.orchid-project.org/compounds/Na3Sb.html) | -56.75 kJ/mol-atom | 298.15 | experimental | -45.951 (mp-aaaaalua) | -50.428 (oqmd-5156) | [1] Liu 2013; _cites Voronin 1987_ | Table 2, p. 4, row 3; `ORC-FV5NVFPNHC.c25a69` |  |
+| Na3Sb(s) | [Na3Sb](https://data.orchid-project.org/compounds/Na3Sb.html) | -56.5 kJ/mol-atom |  | model | -45.951 (mp-aaaaalua) | -50.428 (oqmd-5156) | [1] Liu 2013 | Table 2, p. 4, row 1; `ORC-XHQKMYGYLV.a7c5ca` |  |
+| Na3Sb(s) | [Na3Sb](https://data.orchid-project.org/compounds/Na3Sb.html) | -53.25 kJ/mol-atom | 298.15 | experimental | -45.951 (mp-aaaaalua) | -50.428 (oqmd-5156) | [1] Liu 2013; _cites Morozova 1959_ | Table 2, p. 4, row 4; `ORC-C4RJJYSSQ6.9dc606` |  |
+| Na3Sb(s) | [Na3Sb](https://data.orchid-project.org/compounds/Na3Sb.html) | -49.25 kJ/mol-atom | 298.15 | experimental | -45.951 (mp-aaaaalua) | -50.428 (oqmd-5156) | [1] Liu 2013; _cites Kubaschewski 1938_ | Table 2, p. 4, row 5; `ORC-TJNKYZVPIG.cde1fb` |  |
+| NaSb |  | -0.679 eV | 0 | DFT |  |  | [2] Dreval 2017 | Table 3, p. 7, row 21; `ORC-Q554IN4K7G` |  |
+| NaSb |  | -0.663 eV | 0 | DFT |  |  | [2] Dreval 2017 | Table 3, p. 7, row 22; `ORC-JLANE57MRZ` |  |
+| NaSb(s) | [NaSb](https://data.orchid-project.org/compounds/NaSb.html) | -37.5 kJ/mol-atom |  | model | -40.415 (mp-aaaaalto) | -37.498 (oqmd-5018) | [1] Liu 2013 | Table 2, p. 4, row 6; `ORC-6YTEU4I4S2.6827e9` |  |
+| NaSb(s) | [NaSb](https://data.orchid-project.org/compounds/NaSb.html) | -36 kJ/mol-atom | 298.15 | experimental | -40.415 (mp-aaaaalto) | -37.498 (oqmd-5018) | [1] Liu 2013; _cites Voronin 1987_ | Table 2, p. 4, row 8; `ORC-KVO7ORMPOA.8a3797` |  |
+| NaSb(s) | [NaSb](https://data.orchid-project.org/compounds/NaSb.html) | -35 kJ/mol-atom | 298.15 | experimental | -40.415 (mp-aaaaalto) | -37.498 (oqmd-5018) | [1] Liu 2013; _cites Voronin 1967_ | Table 2, p. 4, row 7; `ORC-XJW3GTXV3N.969e7f` |  |
+| NaSb(s) | [NaSb](https://data.orchid-project.org/compounds/NaSb.html) | -33 kJ/mol-atom | 298.15 | experimental | -40.415 (mp-aaaaalto) | -37.498 (oqmd-5018) | [1] Liu 2013; _cites Kubaschewski 1938_ | Table 2, p. 4, row 9; `ORC-2PS7PBSDCO.3dc764` |  |
+| UNKNOWN |  | -234 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Liu 2013; _cites Voronin 1967_ | Table 2, p. 4, row 2; `ORC-223PF5O6OY.1c077d` |  |
+| UNKNOWN |  | -227 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Liu 2013; _cites Voronin 1987_ | Table 2, p. 4, row 3; `ORC-FV5NVFPNHC.56e9c9` |  |
+| UNKNOWN |  | -226 kJ/mol (basis unstated) |  | model |  |  | [1] Liu 2013 | Table 2, p. 4, row 1; `ORC-XHQKMYGYLV.50cfbf` |  |
+| UNKNOWN |  | -213 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Liu 2013; _cites Morozova 1959_ | Table 2, p. 4, row 4; `ORC-C4RJJYSSQ6.56bfa4` |  |
+| UNKNOWN |  | -197 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Liu 2013; _cites Kubaschewski 1938_ | Table 2, p. 4, row 5; `ORC-TJNKYZVPIG.c35d52` |  |
+| UNKNOWN |  | -75 kJ/mol (basis unstated) |  | model |  |  | [1] Liu 2013 | Table 2, p. 4, row 6; `ORC-6YTEU4I4S2.167c5a` |  |
+| UNKNOWN |  | -72 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Liu 2013; _cites Voronin 1987_ | Table 2, p. 4, row 8; `ORC-KVO7ORMPOA.268fff` |  |
+| UNKNOWN |  | -70 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Liu 2013; _cites Voronin 1967_ | Table 2, p. 4, row 7; `ORC-XJW3GTXV3N.8b0e5f` |  |
+| UNKNOWN |  | -66 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Liu 2013; _cites Kubaschewski 1938_ | Table 2, p. 4, row 9; `ORC-2PS7PBSDCO.2aa15a` |  |
 
 ## Other properties
 
@@ -100,20 +100,20 @@ Table: Phase transition, Na–Sb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 723 K | 723 | NaSb | experimental | [1] Liu 2013; _cites Redslob 1982_ [doi](https://doi.org/10.1515/zna-1982-0612) | p. 2 | “In addition, the melting temperature of NaSb was also reported by Redslob et al. \[10\] as 723 K, who utilized electrical conductivity measurements.” |
-| Phase transition | 723 K | 723 | congruent transformation | experimental | [2] Dreval 2017; _cites Redslob 1982_ | p. 9 | “In the course of the optimization, it also became clear that the value of 723 K reported in Ref. \[30\] for the congruent melting of NaSb compound is not reliable, since a better fit to this temperature simultaneously results in a worse description of the conjugated invariant reactions.” |
-| Phase transition | 723 K | 723 | liq -> NaSb; _liq: Sb 0.5; NaSb: Sb 0.5_ | experimental | [1] Liu 2013; _cites Redslob 1982_ [doi](https://doi.org/10.1515/zna-1982-0612) | Table 3, p. 5, row 10 |  |
-| Phase transition | 738 K | 738 | congruent transformation | model | [1] Liu 2013; _cites Sangster 1993_ [doi](https://doi.org/10.1007/bf02667822) | p. 1 | “According to the assessed phase diagram, two intermetallic phases can be identified, i.e. Na3 Sb and NaSb. Such two intermetallics melt congruently around 1130 and 738 K, respectively.” |
-| Phase transition | 738 K | 738 | congruent transformation | experimental | [1] Liu 2013; _cites Ugai 1961_ | p. 2 | “The congruent melting temperatures of Na3 Sb and NaSb were measured by Ugai \[9\] with thermal analysis, the results of which are 1132 and 738 K, respectively.” |
-| Phase transition | 738 K | 738 | liq -> NaSb; _liq: Sb 0.5; NaSb: Sb 0.5_ | experimental | [1] Liu 2013; _cites Mathewson 1906_ [doi](https://doi.org/10.1002/zaac.19060500118) | Table 3, p. 5, row 9 |  |
-| Phase transition | 739 K | 739 | congruent transformation | model | [2] Dreval 2017 | p. 9 | “According to our calculations, the congruent melting point of the NaSb compound is 739 K, which is only by 1 K higher than the value reported in Refs. \[27,28\].” |
-| Phase transition | 739 K | 739 | liq -> NaSb; _liq: Sb 0.5; NaSb: Sb 0.5_ | model | [1] Liu 2013 | Table 3, p. 5, row 8 |  |
-| Phase transition | 745 K | 745 |  | model | [2] Dreval 2017; _cites Liu 2013_ | p. 9 | “The temperature calculated by Liu et al. \[10\] is equal to 745 K.” |
-| Phase transition | 1130 K | 1130 | congruent transformation | model | [1] Liu 2013; _cites Sangster 1993_ [doi](https://doi.org/10.1007/bf02667822) | p. 1 | “According to the assessed phase diagram, two intermetallic phases can be identified, i.e. Na3 Sb and NaSb. Such two intermetallics melt congruently around 1130 and 738 K, respectively.” |
-| Phase transition | 1130 K | 1130 | liq -> Na3Sb; _liq: Sb 0.25; Na3Sb: Sb 0.25_ | experimental | [1] Liu 2013; _cites Mathewson 1906_ [doi](https://doi.org/10.1002/zaac.19060500118) | Table 3, p. 5, row 4 |  |
-| Phase transition | 1131 K | 1131 | liq -> Na3Sb; _liq: Sb 0.25; Na3Sb: Sb 0.25_ | model | [1] Liu 2013 | Table 3, p. 5, row 3 |  |
-| Phase transition | 1132 K | 1132 | congruent transformation | experimental | [1] Liu 2013; _cites Ugai 1961_ | p. 2 | “The congruent melting temperatures of Na3 Sb and NaSb were measured by Ugai \[9\] with thermal analysis, the results of which are 1132 and 738 K, respectively.” |
-| Phase transition | 1132 K | 1132 | liq -> Na3Sb; _liq: Sb 0.25; Na3Sb: Sb 0.25_ | experimental | [1] Liu 2013; _cites Ugai 1961_ | Table 3, p. 5, row 5 |  |
+| Phase transition | 723 K | 723 | NaSb | experimental | [1] Liu 2013; _cites Redslob 1982_ [doi](https://doi.org/10.1515/zna-1982-0612) | p. 2; `ORC-EKN73ITCC6` | “In addition, the melting temperature of NaSb was also reported by Redslob et al. \[10\] as 723 K, who utilized electrical conductivity measurements.” |
+| Phase transition | 723 K | 723 | congruent transformation | experimental | [2] Dreval 2017; _cites Redslob 1982_ | p. 9; `ORC-KGJQ4JUE3H` | “In the course of the optimization, it also became clear that the value of 723 K reported in Ref. \[30\] for the congruent melting of NaSb compound is not reliable, since a better fit to this temperature simultaneously results in a worse description of the conjugated invariant reactions.” |
+| Phase transition | 723 K | 723 | liq -> NaSb; _liq: Sb 0.5; NaSb: Sb 0.5_ | experimental | [1] Liu 2013; _cites Redslob 1982_ [doi](https://doi.org/10.1515/zna-1982-0612) | Table 3, p. 5, row 10; `ORC-MRN3627EJW` |  |
+| Phase transition | 738 K | 738 | congruent transformation | model | [1] Liu 2013; _cites Sangster 1993_ [doi](https://doi.org/10.1007/bf02667822) | p. 1; `ORC-4P3GXWASWF.bd6187` | “According to the assessed phase diagram, two intermetallic phases can be identified, i.e. Na3 Sb and NaSb. Such two intermetallics melt congruently around 1130 and 738 K, respectively.” |
+| Phase transition | 738 K | 738 | congruent transformation | experimental | [1] Liu 2013; _cites Ugai 1961_ | p. 2; `ORC-MVQCBSQ6MP.8113ad` | “The congruent melting temperatures of Na3 Sb and NaSb were measured by Ugai \[9\] with thermal analysis, the results of which are 1132 and 738 K, respectively.” |
+| Phase transition | 738 K | 738 | liq -> NaSb; _liq: Sb 0.5; NaSb: Sb 0.5_ | experimental | [1] Liu 2013; _cites Mathewson 1906_ [doi](https://doi.org/10.1002/zaac.19060500118) | Table 3, p. 5, row 9; `ORC-LGOEP2TIPN` |  |
+| Phase transition | 739 K | 739 | congruent transformation | model | [2] Dreval 2017 | p. 9; `ORC-B6QI3LEUBG` | “According to our calculations, the congruent melting point of the NaSb compound is 739 K, which is only by 1 K higher than the value reported in Refs. \[27,28\].” |
+| Phase transition | 739 K | 739 | liq -> NaSb; _liq: Sb 0.5; NaSb: Sb 0.5_ | model | [1] Liu 2013 | Table 3, p. 5, row 8; `ORC-QZFFSHWY3J` |  |
+| Phase transition | 745 K | 745 |  | model | [2] Dreval 2017; _cites Liu 2013_ | p. 9; `ORC-2XXPSTHRP6` | “The temperature calculated by Liu et al. \[10\] is equal to 745 K.” |
+| Phase transition | 1130 K | 1130 | congruent transformation | model | [1] Liu 2013; _cites Sangster 1993_ [doi](https://doi.org/10.1007/bf02667822) | p. 1; `ORC-4P3GXWASWF.539ee0` | “According to the assessed phase diagram, two intermetallic phases can be identified, i.e. Na3 Sb and NaSb. Such two intermetallics melt congruently around 1130 and 738 K, respectively.” |
+| Phase transition | 1130 K | 1130 | liq -> Na3Sb; _liq: Sb 0.25; Na3Sb: Sb 0.25_ | experimental | [1] Liu 2013; _cites Mathewson 1906_ [doi](https://doi.org/10.1002/zaac.19060500118) | Table 3, p. 5, row 4; `ORC-7ZAAHHTD2W` |  |
+| Phase transition | 1131 K | 1131 | liq -> Na3Sb; _liq: Sb 0.25; Na3Sb: Sb 0.25_ | model | [1] Liu 2013 | Table 3, p. 5, row 3; `ORC-ULU3S5YLX4` |  |
+| Phase transition | 1132 K | 1132 | congruent transformation | experimental | [1] Liu 2013; _cites Ugai 1961_ | p. 2; `ORC-MVQCBSQ6MP.3aed2f` | “The congruent melting temperatures of Na3 Sb and NaSb were measured by Ugai \[9\] with thermal analysis, the results of which are 1132 and 738 K, respectively.” |
+| Phase transition | 1132 K | 1132 | liq -> Na3Sb; _liq: Sb 0.25; Na3Sb: Sb 0.25_ | experimental | [1] Liu 2013; _cites Ugai 1961_ | Table 3, p. 5, row 5; `ORC-RBB2SVM4UM` |  |
 
 ### Formation (12)
 
@@ -121,18 +121,18 @@ Table: Formation, Na–Sb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy of formation; _printed: Entropies of formation_ | -9.775 J/mol-atom/K |  | Na3Sb(s); _alloy: Sb 0.25_ | model | [1] Liu 2013 | Table 2, p. 4, row 1 |  |
-| Entropy of formation; _printed: Entropies of formation_ | -2.315 J/mol-atom/K |  | NaSb(s); _alloy: Sb 0.5_ | model | [1] Liu 2013 | Table 2, p. 4, row 6 |  |
-| Entropy of formation; _printed: Entropies of formation_ | -4.63 J/mol (basis unstated)/K |  | UNKNOWN | model | [1] Liu 2013 | Table 2, p. 4, row 6 |  |
-| Entropy of formation; _printed: Entropies of formation_ | -39.1 J/mol (basis unstated)/K |  | UNKNOWN | model | [1] Liu 2013 | Table 2, p. 4, row 1 |  |
-| Entropy of formation; _printed: Entropies of formation_ | -23 J/mol-atom/K | 298.15 | Na3Sb(s); _alloy: Sb 0.25_ | experimental | [1] Liu 2013; _cites Voronin 1967_ | Table 2, p. 4, row 2 |  |
-| Entropy of formation; _printed: Entropies of formation_ | -15 J/mol-atom/K | 298.15 | Na3Sb(s); _alloy: Sb 0.25_ | experimental | [1] Liu 2013; _cites Voronin 1987_ | Table 2, p. 4, row 3 |  |
-| Entropy of formation; _printed: Entropies of formation_ | -8.5 J/mol-atom/K | 298.15 | NaSb(s); _alloy: Sb 0.5_ | experimental | [1] Liu 2013; _cites Voronin 1987_ | Table 2, p. 4, row 8 |  |
-| Entropy of formation; _printed: Entropies of formation_ | -3.5 J/mol-atom/K | 298.15 | NaSb(s); _alloy: Sb 0.5_ | experimental | [1] Liu 2013; _cites Voronin 1967_ | Table 2, p. 4, row 7 |  |
-| Entropy of formation; _printed: Entropies of formation_ | -92 J/mol (basis unstated)/K | 298.15 | UNKNOWN | experimental | [1] Liu 2013; _cites Voronin 1967_ | Table 2, p. 4, row 2 |  |
-| Entropy of formation; _printed: Entropies of formation_ | -60 J/mol (basis unstated)/K | 298.15 | UNKNOWN | experimental | [1] Liu 2013; _cites Voronin 1987_ | Table 2, p. 4, row 3 |  |
-| Entropy of formation; _printed: Entropies of formation_ | -17 J/mol (basis unstated)/K | 298.15 | UNKNOWN | experimental | [1] Liu 2013; _cites Voronin 1987_ | Table 2, p. 4, row 8 |  |
-| Entropy of formation; _printed: Entropies of formation_ | -7 J/mol (basis unstated)/K | 298.15 | UNKNOWN | experimental | [1] Liu 2013; _cites Voronin 1967_ | Table 2, p. 4, row 7 |  |
+| Entropy of formation; _printed: Entropies of formation_ | -9.775 J/mol-atom/K |  | Na3Sb(s); _alloy: Sb 0.25_ | model | [1] Liu 2013 | Table 2, p. 4, row 1; `ORC-XHQKMYGYLV.22e266` |  |
+| Entropy of formation; _printed: Entropies of formation_ | -2.315 J/mol-atom/K |  | NaSb(s); _alloy: Sb 0.5_ | model | [1] Liu 2013 | Table 2, p. 4, row 6; `ORC-6YTEU4I4S2.0522e8` |  |
+| Entropy of formation; _printed: Entropies of formation_ | -4.63 J/mol (basis unstated)/K |  | UNKNOWN | model | [1] Liu 2013 | Table 2, p. 4, row 6; `ORC-6YTEU4I4S2.353392` |  |
+| Entropy of formation; _printed: Entropies of formation_ | -39.1 J/mol (basis unstated)/K |  | UNKNOWN | model | [1] Liu 2013 | Table 2, p. 4, row 1; `ORC-XHQKMYGYLV.a291bc` |  |
+| Entropy of formation; _printed: Entropies of formation_ | -23 J/mol-atom/K | 298.15 | Na3Sb(s); _alloy: Sb 0.25_ | experimental | [1] Liu 2013; _cites Voronin 1967_ | Table 2, p. 4, row 2; `ORC-223PF5O6OY.2b063d` |  |
+| Entropy of formation; _printed: Entropies of formation_ | -15 J/mol-atom/K | 298.15 | Na3Sb(s); _alloy: Sb 0.25_ | experimental | [1] Liu 2013; _cites Voronin 1987_ | Table 2, p. 4, row 3; `ORC-FV5NVFPNHC.faa6bc` |  |
+| Entropy of formation; _printed: Entropies of formation_ | -8.5 J/mol-atom/K | 298.15 | NaSb(s); _alloy: Sb 0.5_ | experimental | [1] Liu 2013; _cites Voronin 1987_ | Table 2, p. 4, row 8; `ORC-KVO7ORMPOA.c78448` |  |
+| Entropy of formation; _printed: Entropies of formation_ | -3.5 J/mol-atom/K | 298.15 | NaSb(s); _alloy: Sb 0.5_ | experimental | [1] Liu 2013; _cites Voronin 1967_ | Table 2, p. 4, row 7; `ORC-XJW3GTXV3N.6745a7` |  |
+| Entropy of formation; _printed: Entropies of formation_ | -92 J/mol (basis unstated)/K | 298.15 | UNKNOWN | experimental | [1] Liu 2013; _cites Voronin 1967_ | Table 2, p. 4, row 2; `ORC-223PF5O6OY.1aa2e4` |  |
+| Entropy of formation; _printed: Entropies of formation_ | -60 J/mol (basis unstated)/K | 298.15 | UNKNOWN | experimental | [1] Liu 2013; _cites Voronin 1987_ | Table 2, p. 4, row 3; `ORC-FV5NVFPNHC.265823` |  |
+| Entropy of formation; _printed: Entropies of formation_ | -17 J/mol (basis unstated)/K | 298.15 | UNKNOWN | experimental | [1] Liu 2013; _cites Voronin 1987_ | Table 2, p. 4, row 8; `ORC-KVO7ORMPOA.eb8198` |  |
+| Entropy of formation; _printed: Entropies of formation_ | -7 J/mol (basis unstated)/K | 298.15 | UNKNOWN | experimental | [1] Liu 2013; _cites Voronin 1967_ | Table 2, p. 4, row 7; `ORC-XJW3GTXV3N.5665f6` |  |
 
 ### Heat capacity / entropy / enthalpy (12)
 
@@ -140,18 +140,18 @@ Table: Heat capacity / entropy / enthalpy, Na–Sb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Heat capacity; _printed: Cp_ | 51.9 J/mol (basis unstated)/K | 298.15 | Na3Sb; _alloy: Sb 0.25_ | model | [2] Dreval 2017; _cites Thermo-calc 2015_ | Table 7, p. 11, row 1 |  |
-| Heat capacity; _printed: Cp_ | 103.69 J/mol (basis unstated)/K | 298.15 | NaSb; _alloy: Sb 0.5_ | model | [2] Dreval 2017; _cites Thermo-calc 2015_ | Table 7, p. 11, row 7 |  |
-| Heat capacity; _printed: Cp_ | 51.94 J/mol (basis unstated)/K | 300 | Na3Sb; _alloy: Sb 0.25_ | model | [2] Dreval 2017; _cites Thermo-calc 2015_ | Table 7, p. 11, row 2 |  |
-| Heat capacity; _printed: Cp_ | 53.94 J/mol (basis unstated)/K | 400 | Na3Sb; _alloy: Sb 0.25_ | model | [2] Dreval 2017; _cites Thermo-calc 2015_ | Table 7, p. 11, row 3 |  |
-| Heat capacity; _printed: Cp_ | 105.84 J/mol (basis unstated)/K | 400 | NaSb; _alloy: Sb 0.5_ | model | [2] Dreval 2017; _cites Thermo-calc 2015_ | Table 7, p. 11, row 8 |  |
-| Heat capacity; _printed: Cp_ | 55.94 J/mol (basis unstated)/K | 500 | Na3Sb; _alloy: Sb 0.25_ | model | [2] Dreval 2017; _cites Thermo-calc 2015_ | Table 7, p. 11, row 4 |  |
-| Heat capacity; _printed: Cp_ | 57.94 J/mol (basis unstated)/K | 600 | Na3Sb; _alloy: Sb 0.25_ | model | [2] Dreval 2017; _cites Thermo-calc 2015_ | Table 7, p. 11, row 5 |  |
-| Heat capacity; _printed: Cp_ | 110.06 J/mol (basis unstated)/K | 600 | NaSb; _alloy: Sb 0.5_ | model | [2] Dreval 2017; _cites Thermo-calc 2015_ | Table 7, p. 11, row 9 |  |
-| Heat capacity; _printed: Cp_ | 59.94 J/mol (basis unstated)/K | 700 | Na3Sb; _alloy: Sb 0.25_ | model | [2] Dreval 2017; _cites Thermo-calc 2015_ | Table 7, p. 11, row 6 |  |
-| Heat capacity; _printed: Cp_ | 114.27 J/mol (basis unstated)/K | 800 | NaSb; _alloy: Sb 0.5_ | model | [2] Dreval 2017; _cites Thermo-calc 2015_ | Table 7, p. 11, row 10 |  |
-| Heat capacity; _printed: Cp_ | 118.49 J/mol (basis unstated)/K | 1000 | NaSb; _alloy: Sb 0.5_ | model | [2] Dreval 2017; _cites Thermo-calc 2015_ | Table 7, p. 11, row 11 |  |
-| Heat capacity; _printed: Cp_ | 120.6 J/mol (basis unstated)/K | 1100 | NaSb; _alloy: Sb 0.5_ | model | [2] Dreval 2017; _cites Thermo-calc 2015_ | Table 7, p. 11, row 12 |  |
+| Heat capacity; _printed: Cp_ | 51.9 J/mol (basis unstated)/K | 298.15 | Na3Sb; _alloy: Sb 0.25_ | model | [2] Dreval 2017; _cites Thermo-calc 2015_ | Table 7, p. 11, row 1; `ORC-V2EG24K2US` |  |
+| Heat capacity; _printed: Cp_ | 103.69 J/mol (basis unstated)/K | 298.15 | NaSb; _alloy: Sb 0.5_ | model | [2] Dreval 2017; _cites Thermo-calc 2015_ | Table 7, p. 11, row 7; `ORC-X2QV4SSD7Z` |  |
+| Heat capacity; _printed: Cp_ | 51.94 J/mol (basis unstated)/K | 300 | Na3Sb; _alloy: Sb 0.25_ | model | [2] Dreval 2017; _cites Thermo-calc 2015_ | Table 7, p. 11, row 2; `ORC-TEYZHOEHZS` |  |
+| Heat capacity; _printed: Cp_ | 53.94 J/mol (basis unstated)/K | 400 | Na3Sb; _alloy: Sb 0.25_ | model | [2] Dreval 2017; _cites Thermo-calc 2015_ | Table 7, p. 11, row 3; `ORC-2O7EBJHZR2` |  |
+| Heat capacity; _printed: Cp_ | 105.84 J/mol (basis unstated)/K | 400 | NaSb; _alloy: Sb 0.5_ | model | [2] Dreval 2017; _cites Thermo-calc 2015_ | Table 7, p. 11, row 8; `ORC-3MQ25YINHE` |  |
+| Heat capacity; _printed: Cp_ | 55.94 J/mol (basis unstated)/K | 500 | Na3Sb; _alloy: Sb 0.25_ | model | [2] Dreval 2017; _cites Thermo-calc 2015_ | Table 7, p. 11, row 4; `ORC-HN2ULAU3L6` |  |
+| Heat capacity; _printed: Cp_ | 57.94 J/mol (basis unstated)/K | 600 | Na3Sb; _alloy: Sb 0.25_ | model | [2] Dreval 2017; _cites Thermo-calc 2015_ | Table 7, p. 11, row 5; `ORC-NLMKBYLKNX` |  |
+| Heat capacity; _printed: Cp_ | 110.06 J/mol (basis unstated)/K | 600 | NaSb; _alloy: Sb 0.5_ | model | [2] Dreval 2017; _cites Thermo-calc 2015_ | Table 7, p. 11, row 9; `ORC-IWR5KQV4EN` |  |
+| Heat capacity; _printed: Cp_ | 59.94 J/mol (basis unstated)/K | 700 | Na3Sb; _alloy: Sb 0.25_ | model | [2] Dreval 2017; _cites Thermo-calc 2015_ | Table 7, p. 11, row 6; `ORC-63MQWCJFF7` |  |
+| Heat capacity; _printed: Cp_ | 114.27 J/mol (basis unstated)/K | 800 | NaSb; _alloy: Sb 0.5_ | model | [2] Dreval 2017; _cites Thermo-calc 2015_ | Table 7, p. 11, row 10; `ORC-ZDAWWLKKF7` |  |
+| Heat capacity; _printed: Cp_ | 118.49 J/mol (basis unstated)/K | 1000 | NaSb; _alloy: Sb 0.5_ | model | [2] Dreval 2017; _cites Thermo-calc 2015_ | Table 7, p. 11, row 11; `ORC-FGINXHYIUN` |  |
+| Heat capacity; _printed: Cp_ | 120.6 J/mol (basis unstated)/K | 1100 | NaSb; _alloy: Sb 0.5_ | model | [2] Dreval 2017; _cites Thermo-calc 2015_ | Table 7, p. 11, row 12; `ORC-LT7BRAC237` |  |
 
 ## Sources
 
@@ -217,4 +217,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

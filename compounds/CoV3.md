@@ -14,10 +14,10 @@ Table: Enthalpy of formation of CoV3 reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -18.9595 kJ/mol-atom | CoV3 | 0 | DFT | DFT | [Co–V](https://data.orchid-project.org/systems/CO-V.html) | [1] Wang 2020 | Table 2, p. 20, row 19 |  |
-| -2.6519 kJ/mol-atom | CoV3 | 0 | DFT | DFT | [Co–V](https://data.orchid-project.org/systems/CO-V.html) | [1] Wang 2020 | Table 2, p. 20, row 18 |  |
-| 4.642 kJ/mol-atom | CoV3 | 0 | DFT | DFT | [Co–V](https://data.orchid-project.org/systems/CO-V.html) | [1] Wang 2020 | Table 2, p. 20, row 20 |  |
-| 9.1849 kJ/mol-atom | CoV3 | 0 | DFT | DFT | [Co–V](https://data.orchid-project.org/systems/CO-V.html) | [1] Wang 2020 | Table 2, p. 20, row 17 |  |
+| -18.9595 kJ/mol-atom | CoV3 | 0 | DFT | DFT | [Co–V](https://data.orchid-project.org/systems/CO-V.html) | [1] Wang 2020 | Table 2, p. 20, row 19; `ORC-4T2NOFYF4Y` |  |
+| -2.6519 kJ/mol-atom | CoV3 | 0 | DFT | DFT | [Co–V](https://data.orchid-project.org/systems/CO-V.html) | [1] Wang 2020 | Table 2, p. 20, row 18; `ORC-YO25DK7EV4` |  |
+| 4.642 kJ/mol-atom | CoV3 | 0 | DFT | DFT | [Co–V](https://data.orchid-project.org/systems/CO-V.html) | [1] Wang 2020 | Table 2, p. 20, row 20; `ORC-3SRRMHKM5B` |  |
+| 9.1849 kJ/mol-atom | CoV3 | 0 | DFT | DFT | [Co–V](https://data.orchid-project.org/systems/CO-V.html) | [1] Wang 2020 | Table 2, p. 20, row 17; `ORC-RACHXT46RW` |  |
 
 ### Uncertainty budget
 
@@ -83,4 +83,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

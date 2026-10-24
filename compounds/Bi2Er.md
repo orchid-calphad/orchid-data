@@ -14,28 +14,28 @@ Table: Enthalpy of formation of Bi2Er reported in the literature (22)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -59 kJ/mol-atom | ErBi2 |  | model | Miedema model | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Bennoui 2022; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 2, p. 5, row 3 |  |
-| -53.528 kJ/mol-atom | ErBi2 |  | model | CALPHAD | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Bennoui 2022 | Table 2, p. 5, row 2 |  |
-| -48.2365 kJ/mol-atom | ErBi2 (NdAs2-type) | 0 | model |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Bennoui 2022 | Table 3, p. 6, row 19 |  |
-| -47.7533 kJ/mol-atom | ErBi2 (SmSb2-type) | 0 | model |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Bennoui 2022 | Table 3, p. 6, row 18 |  |
-| -45.9664 kJ/mol-atom | ErBi2 (CaSb2-type) | 0 | model |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Bennoui 2022 | Table 3, p. 6, row 17 |  |
-| -45.2102 kJ/mol-atom | ErBi2 (ErSn2-type) | 0 | model |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Bennoui 2022 | Table 3, p. 6, row 16 |  |
-| -45.1803 kJ/mol-atom | ErBi2 (Co2Si-type) | 0 | model |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Bennoui 2022 | Table 3, p. 6, row 15 |  |
-| -43.6048 kJ/mol-atom | ErBi2 (LaAs2-type) | 0 | model |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Bennoui 2022 | Table 3, p. 6, row 14 |  |
-| -43.2532 kJ/mol-atom | ErBi2 (ErTe2-type) | 0 | model |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Bennoui 2022 | Table 3, p. 6, row 13 |  |
-| -38.4406 kJ/mol-atom | ErBi2 (Al2Cu-type) | 0 | model |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Bennoui 2022 | Table 3, p. 6, row 12 |  |
-| -35.9422 kJ/mol-atom | ErBi2 (AuTe2-type) | 0 | model |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Bennoui 2022 | Table 3, p. 6, row 11 |  |
-| -33.6478 kJ/mol-atom | ErBi2 (MoSi2-type) | 0 | model |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Bennoui 2022 | Table 3, p. 6, row 10 |  |
-| -25.414 kJ/mol-atom | ErBi2 (FeS2-type) | 0 | model |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Bennoui 2022 | Table 3, p. 6, row 9 |  |
-| -25.1344 kJ/mol-atom | ErBi2 (Fe2P-type) | 0 | model |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Bennoui 2022 | Table 3, p. 6, row 8 |  |
-| -23.4701 kJ/mol-atom | ErBi2 (MoS2-type) | 0 | model |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Bennoui 2022 | Table 3, p. 6, row 7 |  |
-| -23.1992 kJ/mol-atom | ErBi2 (CoSi2-type) | 0 | model |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Bennoui 2022 | Table 3, p. 6, row 6 |  |
-| -21.1173 kJ/mol-atom | ErBi2 (Ag2Se-type) | 0 | model |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Bennoui 2022 | Table 3, p. 6, row 5 |  |
-| -16.5698 kJ/mol-atom | ErBi2 (ErSb2-type) | 0 | model |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Bennoui 2022 | Table 3, p. 6, row 4 |  |
-| -15.4151 kJ/mol-atom | ErBi2 (FeS2-type) | 0 | model |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Bennoui 2022 | Table 3, p. 6, row 3 |  |
-| 15.2241 kJ/mol-atom | ErBi2 (MoS2-type) | 0 | model |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Bennoui 2022 | Table 3, p. 6, row 2 |  |
-| 39.6679 kJ/mol-atom | ErBi2 (CdI2-type) | 0 | model |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Bennoui 2022 | Table 3, p. 6, row 1 |  |
-| -45.237 kJ/mol-atom | ErBi2 | 0 | DFT | DFT | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Bennoui 2022 | Table 2, p. 5, row 1 |  |
+| -59 kJ/mol-atom | ErBi2 |  | model | Miedema model | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Bennoui 2022; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 2, p. 5, row 3; `ORC-B4YW6VQB2Q` |  |
+| -53.528 kJ/mol-atom | ErBi2 |  | model | CALPHAD | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Bennoui 2022 | Table 2, p. 5, row 2; `ORC-A2M3U4FPBD` |  |
+| -48.2365 kJ/mol-atom | ErBi2 (NdAs2-type) | 0 | model |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Bennoui 2022 | Table 3, p. 6, row 19; `ORC-YREA7LF56F.58970b` |  |
+| -47.7533 kJ/mol-atom | ErBi2 (SmSb2-type) | 0 | model |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Bennoui 2022 | Table 3, p. 6, row 18; `ORC-QFM5YOHCMB.7da6f4` |  |
+| -45.9664 kJ/mol-atom | ErBi2 (CaSb2-type) | 0 | model |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Bennoui 2022 | Table 3, p. 6, row 17; `ORC-PI4ZPT7CTE.d7bbce` |  |
+| -45.2102 kJ/mol-atom | ErBi2 (ErSn2-type) | 0 | model |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Bennoui 2022 | Table 3, p. 6, row 16; `ORC-RNQLUP2DQ2.750eda` |  |
+| -45.1803 kJ/mol-atom | ErBi2 (Co2Si-type) | 0 | model |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Bennoui 2022 | Table 3, p. 6, row 15; `ORC-74E3X52I5V.051343` |  |
+| -43.6048 kJ/mol-atom | ErBi2 (LaAs2-type) | 0 | model |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Bennoui 2022 | Table 3, p. 6, row 14; `ORC-UFI35ARGNT.33d659` |  |
+| -43.2532 kJ/mol-atom | ErBi2 (ErTe2-type) | 0 | model |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Bennoui 2022 | Table 3, p. 6, row 13; `ORC-5EJ2FPR4WK.65e58d` |  |
+| -38.4406 kJ/mol-atom | ErBi2 (Al2Cu-type) | 0 | model |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Bennoui 2022 | Table 3, p. 6, row 12; `ORC-FDHWA2ZJZ2.162694` |  |
+| -35.9422 kJ/mol-atom | ErBi2 (AuTe2-type) | 0 | model |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Bennoui 2022 | Table 3, p. 6, row 11; `ORC-CX5BIIX36H.fe3002` |  |
+| -33.6478 kJ/mol-atom | ErBi2 (MoSi2-type) | 0 | model |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Bennoui 2022 | Table 3, p. 6, row 10; `ORC-NLXQVFAVSW.def94e` |  |
+| -25.414 kJ/mol-atom | ErBi2 (FeS2-type) | 0 | model |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Bennoui 2022 | Table 3, p. 6, row 9; `ORC-GEYUFNWOTH.d937cf` |  |
+| -25.1344 kJ/mol-atom | ErBi2 (Fe2P-type) | 0 | model |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Bennoui 2022 | Table 3, p. 6, row 8; `ORC-W3SWCX6L7M.00c7b5` |  |
+| -23.4701 kJ/mol-atom | ErBi2 (MoS2-type) | 0 | model |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Bennoui 2022 | Table 3, p. 6, row 7; `ORC-PMTDM2PKPR.365482` |  |
+| -23.1992 kJ/mol-atom | ErBi2 (CoSi2-type) | 0 | model |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Bennoui 2022 | Table 3, p. 6, row 6; `ORC-2YZ6I2ZUQR.aa9069` |  |
+| -21.1173 kJ/mol-atom | ErBi2 (Ag2Se-type) | 0 | model |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Bennoui 2022 | Table 3, p. 6, row 5; `ORC-EU6UM5CD5I.82e8c9` |  |
+| -16.5698 kJ/mol-atom | ErBi2 (ErSb2-type) | 0 | model |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Bennoui 2022 | Table 3, p. 6, row 4; `ORC-BSP5HVTKXE.5b5e32` |  |
+| -15.4151 kJ/mol-atom | ErBi2 (FeS2-type) | 0 | model |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Bennoui 2022 | Table 3, p. 6, row 3; `ORC-O5HWMT2XBK.6b6e69` |  |
+| 15.2241 kJ/mol-atom | ErBi2 (MoS2-type) | 0 | model |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Bennoui 2022 | Table 3, p. 6, row 2; `ORC-EKJ27B36M7.ea7c62` |  |
+| 39.6679 kJ/mol-atom | ErBi2 (CdI2-type) | 0 | model |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Bennoui 2022 | Table 3, p. 6, row 1; `ORC-JGZ6JOX4UO.9c10e5` |  |
+| -45.237 kJ/mol-atom | ErBi2 | 0 | DFT | DFT | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Bennoui 2022 | Table 2, p. 5, row 1; `ORC-T73W2Q7GQU` |  |
 
 ### Uncertainty budget
 
@@ -133,4 +133,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

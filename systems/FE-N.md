@@ -74,7 +74,7 @@ Table: Invariant reactions reported in the literature for the Fe–N system (1)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1654 | peritectic |  | model | [1] Göhring 2016 | p. 7 | “Including the thermodynamic description of the liquid Fe-N phase from Reference 21 peritectic melting of e is predicted in the binary Fe-N system at 1654 K METALLURGICAL AND MATERIALS TRANSACTIONS A (1381 C).” |
+| 1654 | peritectic |  | model | [1] Göhring 2016 | p. 7; `ORC-AYAK4LM7V3` | “Including the thermodynamic description of the liquid Fe-N phase from Reference 21 peritectic melting of e is predicted in the binary Fe-N system at 1654 K METALLURGICAL AND MATERIALS TRANSACTIONS A (1381 C).” |
 
 ## Other properties
 
@@ -84,9 +84,9 @@ Table: Phase transition, Fe–N system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 763 K | 763 | magnetic | experimental | [1] Göhring 2016; _cites Wriedt 1987_ | p. 4 | “The c0 phase shows ferromagnetic ordering with a somewhat concentration-dependent Curie temperature around 763 K (490 C).\[12\]” |
-| Phase transition | 839 K | 839 | other: a + e -> c0 + h | model | [1] Göhring 2016 | p. 8 | “The temperature of the transitional reaction U2 as calculated using the dataset from the present work \[839 K (566 C)\] is only slightly below the value of the temperature for this reaction as determined experimentally \[842 ± 2 K (569 ± 2 C)\].\[53\]” |
-| Phase transition | 855 K | 855 | other | model | [1] Göhring 2016 | p. 12 | “The present thermodynamic description predicts that a small miscibility gap occurs in e below approximately 855 K (582 C) close to the line connecting Fe2 N and Fe2 C.” |
+| Phase transition | 763 K | 763 | magnetic | experimental | [1] Göhring 2016; _cites Wriedt 1987_ | p. 4; `ORC-5MV45CMSUD` | “The c0 phase shows ferromagnetic ordering with a somewhat concentration-dependent Curie temperature around 763 K (490 C).\[12\]” |
+| Phase transition | 839 K | 839 | other: a + e -> c0 + h | model | [1] Göhring 2016 | p. 8; `ORC-7QPJ2F2CDP` | “The temperature of the transitional reaction U2 as calculated using the dataset from the present work \[839 K (566 C)\] is only slightly below the value of the temperature for this reaction as determined experimentally \[842 ± 2 K (569 ± 2 C)\].\[53\]” |
+| Phase transition | 855 K | 855 | other | model | [1] Göhring 2016 | p. 12; `ORC-BD5T5VKETS` | “The present thermodynamic description predicts that a small miscibility gap occurs in e below approximately 855 K (582 C) close to the line connecting Fe2 N and Fe2 C.” |
 
 ## Sources
 
@@ -151,4 +151,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -29,24 +29,24 @@ Table: Invariant reactions reported in the literature for the Ca–In–Sb syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1152.95 | Liquid + Ca11Sb10 ↔ Ca5Sb3 | Liquid: Ca 0.72; Ca11Sb10: Ca 0.5238; Ca5Sb3: Ca 0.625 | model | [1] Qin 2015 | Table 5, p. 5, row 19 |  |
-| 1150.15 | Liquid + Ca11Sb10 ↔ Ca5Sb3 | Liquid: Ca 0.74; Ca11Sb10: Ca 0.5238; Ca5Sb3: Ca 0.625 | experimental | [1] Qin 2015; _cites Bouhajib 1999_ [doi](https://doi.org/10.1515/htmp.1999.18.3.151) | Table 5, p. 5, row 20 |  |
-| 1113.15 | Liquid + Ca5Sb3 ↔ Ca2Sb | Liquid: Ca 0.78; Ca5Sb3: Ca 0.625; Ca2Sb: Ca 0.667 | experimental | [1] Qin 2015; _cites Bouhajib 1999_ [doi](https://doi.org/10.1515/htmp.1999.18.3.151) | Table 5, p. 5, row 18 |  |
-| 1108.55 | Liquid + Ca5Sb3 ↔ Ca2Sb | Liquid: Ca 0.75; Ca5Sb3: Ca 0.625; Ca2Sb: Ca 0.667 | model | [1] Qin 2015 | Table 5, p. 5, row 17 |  |
-| 1056.15 | Liquid ↔ CaIn + CaIn2 | Liquid: Ca 0.41; CaIn: Ca 0.5; CaIn2: Ca 0.3333 | experimental | [1] Qin 2015; _cites Bruzzone 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990081-5) | Table 5, p. 5, row 6 |  |
-| 1051.25 | Liquid ↔ CaIn + CaIn2 | Liquid: Ca 0.4031; CaIn: Ca 0.5; CaIn2: Ca 0.3333 | model | [1] Qin 2015 | Table 5, p. 5, row 5 |  |
-| 938.05 | Liquid ↔ Ca8In3 + CaIn | Liquid: Ca 0.6374; Ca8In3: Ca 0.7273; CaIn: Ca 0.5 | model | [1] Qin 2015 | Table 5, p. 5, row 3 |  |
-| 933.65 | Liquid ↔ (βCa) + Ca2Sb | Liquid: Ca 0.874; (βCa): Ca 1; Ca2Sb: Ca 0.667 | model | [1] Qin 2015 | Table 5, p. 5, row 15 |  |
-| 933.15 | Liquid ↔ (βCa) + Ca2Sb | Liquid: Ca 0.875; (βCa): Ca 1; Ca2Sb: Ca 0.667 | experimental | [1] Qin 2015; _cites Bouhajib 1999_ [doi](https://doi.org/10.1515/htmp.1999.18.3.151) | Table 5, p. 5, row 16 |  |
-| 933.15 | Liquid ↔ Ca8In3 + CaIn | Liquid: Ca 0.645; Ca8In3: Ca 0.75; CaIn: Ca 0.5 | experimental | [1] Qin 2015; _cites Bruzzone 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990081-5) | Table 5, p. 5, row 4 |  |
-| 909.25 | Liquid + Ca11Sb10 ↔ CaSb2 | Liquid: Ca 0.234; Ca11Sb10: Ca 0.5238; CaSb2: Ca 0.3333 | model | [1] Qin 2015 | Table 5, p. 5, row 21 |  |
-| 907.95 | Liquid ↔ (βCa) + Ca8In3 | Liquid: Ca 0.853; (βCa): Ca 1; Ca8In3: Ca 0.7273 | model | [1] Qin 2015 | Table 5, p. 5, row 1 |  |
-| 906.15 | Liquid + Ca11Sb10 ↔ CaSb2 | Liquid: Ca 0.22; Ca11Sb10: Ca 0.5238; CaSb2: Ca 0.3333 | experimental | [1] Qin 2015; _cites Poizeau 2012_ [doi](https://doi.org/10.1016/j.electacta.2012.04.139) | Table 5, p. 5, row 22 |  |
-| 905.15 | Liquid ↔ (βCa) + Ca8In3 | Liquid: Ca 0.875; (βCa): Ca 1; Ca8In3: Ca 0.75 | experimental | [1] Qin 2015; _cites Bruzzone 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990081-5) | Table 5, p. 5, row 2 |  |
-| 860.15 | Liquid ↔ CaSb2 + (Sb) | Liquid: Ca 0.16; CaSb2: Ca 0.3333; (Sb): Ca 0 | experimental | [1] Qin 2015; _cites Bouhajib 1999_ [doi](https://doi.org/10.1515/htmp.1999.18.3.151) | Table 5, p. 5, row 24 |  |
-| 855.15 | Liquid ↔ CaSb2 + (Sb) | Liquid: Ca 0.159; CaSb2: Ca 0.3333; (Sb): Ca 0 | model | [1] Qin 2015 | Table 5, p. 5, row 23 |  |
-| 429.15 | Liquid ↔ CaIn2 + (In) | Liquid: Ca 0; CaIn2: Ca 0.3333; (In): Ca 0 | experimental | [1] Qin 2015; _cites Bruzzone 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990081-5) | Table 5, p. 5, row 8 |  |
-| 428.15 | Liquid ↔ CaIn2 + (In) | Liquid: Ca 1.000e-4; CaIn2: Ca 0.3333; (In): Ca 0 | model | [1] Qin 2015 | Table 5, p. 5, row 7 |  |
+| 1152.95 | Liquid + Ca11Sb10 ↔ Ca5Sb3 | Liquid: Ca 0.72; Ca11Sb10: Ca 0.5238; Ca5Sb3: Ca 0.625 | model | [1] Qin 2015 | Table 5, p. 5, row 19; `ORC-L7MKUM6LG4` |  |
+| 1150.15 | Liquid + Ca11Sb10 ↔ Ca5Sb3 | Liquid: Ca 0.74; Ca11Sb10: Ca 0.5238; Ca5Sb3: Ca 0.625 | experimental | [1] Qin 2015; _cites Bouhajib 1999_ [doi](https://doi.org/10.1515/htmp.1999.18.3.151) | Table 5, p. 5, row 20; `ORC-GLP6FIJZFE` |  |
+| 1113.15 | Liquid + Ca5Sb3 ↔ Ca2Sb | Liquid: Ca 0.78; Ca5Sb3: Ca 0.625; Ca2Sb: Ca 0.667 | experimental | [1] Qin 2015; _cites Bouhajib 1999_ [doi](https://doi.org/10.1515/htmp.1999.18.3.151) | Table 5, p. 5, row 18; `ORC-AISAXZZXTO` |  |
+| 1108.55 | Liquid + Ca5Sb3 ↔ Ca2Sb | Liquid: Ca 0.75; Ca5Sb3: Ca 0.625; Ca2Sb: Ca 0.667 | model | [1] Qin 2015 | Table 5, p. 5, row 17; `ORC-IMIHDGL4BI` |  |
+| 1056.15 | Liquid ↔ CaIn + CaIn2 | Liquid: Ca 0.41; CaIn: Ca 0.5; CaIn2: Ca 0.3333 | experimental | [1] Qin 2015; _cites Bruzzone 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990081-5) | Table 5, p. 5, row 6; `ORC-KD7NXXEOQC` |  |
+| 1051.25 | Liquid ↔ CaIn + CaIn2 | Liquid: Ca 0.4031; CaIn: Ca 0.5; CaIn2: Ca 0.3333 | model | [1] Qin 2015 | Table 5, p. 5, row 5; `ORC-SGN2WEUYQ3` |  |
+| 938.05 | Liquid ↔ Ca8In3 + CaIn | Liquid: Ca 0.6374; Ca8In3: Ca 0.7273; CaIn: Ca 0.5 | model | [1] Qin 2015 | Table 5, p. 5, row 3; `ORC-HVOUVJ44RR` |  |
+| 933.65 | Liquid ↔ (βCa) + Ca2Sb | Liquid: Ca 0.874; (βCa): Ca 1; Ca2Sb: Ca 0.667 | model | [1] Qin 2015 | Table 5, p. 5, row 15; `ORC-USD5EDCCDM` |  |
+| 933.15 | Liquid ↔ (βCa) + Ca2Sb | Liquid: Ca 0.875; (βCa): Ca 1; Ca2Sb: Ca 0.667 | experimental | [1] Qin 2015; _cites Bouhajib 1999_ [doi](https://doi.org/10.1515/htmp.1999.18.3.151) | Table 5, p. 5, row 16; `ORC-EQJYNCXGRX` |  |
+| 933.15 | Liquid ↔ Ca8In3 + CaIn | Liquid: Ca 0.645; Ca8In3: Ca 0.75; CaIn: Ca 0.5 | experimental | [1] Qin 2015; _cites Bruzzone 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990081-5) | Table 5, p. 5, row 4; `ORC-Z3LPS6VBKV` |  |
+| 909.25 | Liquid + Ca11Sb10 ↔ CaSb2 | Liquid: Ca 0.234; Ca11Sb10: Ca 0.5238; CaSb2: Ca 0.3333 | model | [1] Qin 2015 | Table 5, p. 5, row 21; `ORC-PLOKWBAXA4` |  |
+| 907.95 | Liquid ↔ (βCa) + Ca8In3 | Liquid: Ca 0.853; (βCa): Ca 1; Ca8In3: Ca 0.7273 | model | [1] Qin 2015 | Table 5, p. 5, row 1; `ORC-JR72WRV5TL` |  |
+| 906.15 | Liquid + Ca11Sb10 ↔ CaSb2 | Liquid: Ca 0.22; Ca11Sb10: Ca 0.5238; CaSb2: Ca 0.3333 | experimental | [1] Qin 2015; _cites Poizeau 2012_ [doi](https://doi.org/10.1016/j.electacta.2012.04.139) | Table 5, p. 5, row 22; `ORC-2FWFSV5ZN4` |  |
+| 905.15 | Liquid ↔ (βCa) + Ca8In3 | Liquid: Ca 0.875; (βCa): Ca 1; Ca8In3: Ca 0.75 | experimental | [1] Qin 2015; _cites Bruzzone 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990081-5) | Table 5, p. 5, row 2; `ORC-KPPEINXNHW` |  |
+| 860.15 | Liquid ↔ CaSb2 + (Sb) | Liquid: Ca 0.16; CaSb2: Ca 0.3333; (Sb): Ca 0 | experimental | [1] Qin 2015; _cites Bouhajib 1999_ [doi](https://doi.org/10.1515/htmp.1999.18.3.151) | Table 5, p. 5, row 24; `ORC-XJ7QXZ5TFL` |  |
+| 855.15 | Liquid ↔ CaSb2 + (Sb) | Liquid: Ca 0.159; CaSb2: Ca 0.3333; (Sb): Ca 0 | model | [1] Qin 2015 | Table 5, p. 5, row 23; `ORC-G6RZND3MW7` |  |
+| 429.15 | Liquid ↔ CaIn2 + (In) | Liquid: Ca 0; CaIn2: Ca 0.3333; (In): Ca 0 | experimental | [1] Qin 2015; _cites Bruzzone 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990081-5) | Table 5, p. 5, row 8; `ORC-I4S7VIEZ4R` |  |
+| 428.15 | Liquid ↔ CaIn2 + (In) | Liquid: Ca 1.000e-4; CaIn2: Ca 0.3333; (In): Ca 0 | model | [1] Qin 2015 | Table 5, p. 5, row 7; `ORC-IXZ3KDR5TE` |  |
 
 ## Formation enthalpies
 
@@ -56,7 +56,7 @@ Table: Enthalpies of formation, Ca–In–Sb system (1)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| UNKNOWN |  | -86 per mol-atom ± 6 | 1078 | experimental |  |  | [1] Qin 2015; _cites Bouhajib 1999_ [doi](https://doi.org/10.1515/htmp.1999.18.3.151) | Table 3, p. 3, row 9 |  |
+| UNKNOWN |  | -86 per mol-atom ± 6 | 1078 | experimental |  |  | [1] Qin 2015; _cites Bouhajib 1999_ [doi](https://doi.org/10.1515/htmp.1999.18.3.151) | Table 3, p. 3, row 9; `ORC-JMPRIJBETK.faf9b2` |  |
 
 ## Other properties
 
@@ -66,9 +66,9 @@ Table: Crystal structure, Ca–In–Sb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 55.18 Å |  | (αCa); _alloy: In 0, Sb 0_ | model | [1] Qin 2015 | Table 1, p. 2, row 3 |  |
-| Lattice a | 55.82 Å | 298.15 | (αCa); _alloy: In 0, Sb 0_ | experimental | [1] Qin 2015; _cites Bruzzone 1966_ | Table 1, p. 2, row 2 |  |
-| Lattice a | 44.8 Å | 298.15 | (βCa); _alloy: In 0, Sb 0_ | experimental | [1] Qin 2015; _cites Bernstein 1959_ [doi](https://doi.org/10.1107/s0365110x59001268) | Table 1, p. 2, row 1 |  |
+| Lattice a | 55.18 Å |  | (αCa); _alloy: In 0, Sb 0_ | model | [1] Qin 2015 | Table 1, p. 2, row 3; `ORC-QPJCLH7VPF` |  |
+| Lattice a | 55.82 Å | 298.15 | (αCa); _alloy: In 0, Sb 0_ | experimental | [1] Qin 2015; _cites Bruzzone 1966_ | Table 1, p. 2, row 2; `ORC-3KDQIXI77A` |  |
+| Lattice a | 44.8 Å | 298.15 | (βCa); _alloy: In 0, Sb 0_ | experimental | [1] Qin 2015; _cites Bernstein 1959_ [doi](https://doi.org/10.1107/s0365110x59001268) | Table 1, p. 2, row 1; `ORC-T4GXI4ZJS7` |  |
 
 ## Sources
 
@@ -111,4 +111,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

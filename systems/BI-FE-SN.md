@@ -28,12 +28,12 @@ Table: Phase equilibrium, Bi–Fe–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase assemblage |  | 663.15 | FeSn + FeSn2 + Liquid; _alloy: Bi 0.0227477, Fe 0.408602, Sn 0.56865_ | experimental | [1] Huang 2010 | Table 3, p. 4, row 1 |  |
-| Phase assemblage |  | 663.15 | FeSn + Liquid; _alloy: Bi 0.466658, Fe 0.0563324, Sn 0.47701_ | experimental | [1] Huang 2010 | Table 3, p. 4, row 5 |  |
-| Phase assemblage |  | 663.15 | FeSn2 + Liquid; _alloy: Bi 0.0859377, Fe 0.107197, Sn 0.806865_ | experimental | [1] Huang 2010 | Table 3, p. 4, row 3 |  |
-| Phase assemblage |  | 773.15 | FeSn + Liquid; _alloy: Bi 0.466658, Fe 0.0563324, Sn 0.47701_ | experimental | [1] Huang 2010 | Table 3, p. 4, row 6 |  |
-| Phase assemblage |  | 773.15 | FeSn + Liquid; _alloy: Bi 0.0859377, Fe 0.107197, Sn 0.806865_ | experimental | [1] Huang 2010 | Table 3, p. 4, row 4 |  |
-| Phase assemblage |  | 773.15 | FeSn + Liquid; _alloy: Bi 0.0227477, Fe 0.408602, Sn 0.56865_ | experimental | [1] Huang 2010 | Table 3, p. 4, row 2 |  |
+| Phase assemblage |  | 663.15 | FeSn + FeSn2 + Liquid; _alloy: Bi 0.0227477, Fe 0.408602, Sn 0.56865_ | experimental | [1] Huang 2010 | Table 3, p. 4, row 1; `ORC-HJUI5GAIEE` |  |
+| Phase assemblage |  | 663.15 | FeSn + Liquid; _alloy: Bi 0.466658, Fe 0.0563324, Sn 0.47701_ | experimental | [1] Huang 2010 | Table 3, p. 4, row 5; `ORC-YILR3N7PK5` |  |
+| Phase assemblage |  | 663.15 | FeSn2 + Liquid; _alloy: Bi 0.0859377, Fe 0.107197, Sn 0.806865_ | experimental | [1] Huang 2010 | Table 3, p. 4, row 3; `ORC-35RELBJVHU` |  |
+| Phase assemblage |  | 773.15 | FeSn + Liquid; _alloy: Bi 0.466658, Fe 0.0563324, Sn 0.47701_ | experimental | [1] Huang 2010 | Table 3, p. 4, row 6; `ORC-HMLRGRNSZH` |  |
+| Phase assemblage |  | 773.15 | FeSn + Liquid; _alloy: Bi 0.0859377, Fe 0.107197, Sn 0.806865_ | experimental | [1] Huang 2010 | Table 3, p. 4, row 4; `ORC-PSAIZVDCIL` |  |
+| Phase assemblage |  | 773.15 | FeSn + Liquid; _alloy: Bi 0.0227477, Fe 0.408602, Sn 0.56865_ | experimental | [1] Huang 2010 | Table 3, p. 4, row 2; `ORC-ZQ2OKV3OAM` |  |
 
 ## Sources
 
@@ -76,4 +76,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -53,20 +53,20 @@ Table: Invariant reactions reported in the literature for the Cr–Y system (14)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2033.15 | L1 -> L2 + Cr | L1: Y 0.0936; L2: Y 0.5771 | experimental | [1] Chan 2009; _cites Terekhova 1961_ | Table 4, p. 9, row 1 |  |
-| 2033.15 | L1 -> L2 + Cr | L1: Y 0.09; L2: Y 0.58 | unspecified | [1] Chan 2009; _cites Venkatraman 1985_ [doi](https://doi.org/10.1007/bf02869503) | Table 4, p. 9, row 2 |  |
-| 2020.15 | L1 -> L2 + Cr | L1: Y 0.185; L2: Y 0.552; Cr: Y 5.000e-4 | model | [1] Chan 2009 | Table 4, p. 9, row 4 |  |
-| 2013.15 | L1 -> L2 + Cr | L1: Y 0.109; L2: Y 0.611 | experimental | [1] Chan 2009; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02645392) | Table 4, p. 9, row 3 |  |
-| 1751.15 | βY -> L2 + αY | L2: Y 0.981 | experimental | [1] Chan 2009; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02645392) | Table 4, p. 9, row 5 |  |
-| 1738.15 | βY -> L2 + αY | βY: Y 0.998; L2: Y 0.971; αY: Y 0.996 | model | [1] Chan 2009 | Table 4, p. 9, row 6 |  |
-| 1603.15 | L2 -> Cr + αY | L2: Y 0.8 | unspecified | [1] Chan 2009; _cites Venkatraman 1985_ [doi](https://doi.org/10.1007/bf02869503) | Table 4, p. 9, row 8 |  |
-| 1603.15 | eutectic |  | model | [1] Chan 2009; _cites Venkatraman 1985_ [doi](https://doi.org/10.1007/bf02869503) | p. 2 | “However, the phase diagram with a miscibility gap by Venkatraman and Neumann\[15\] suggests that the eutectic temperature is 1330 °C ± 25 °C with a eutectic composition of 80 at.% Y.” |
-| 1602.15 | eutectic |  | model | [1] Chan 2009 | p. 7 | “Further, the eutectic point is highest for Cr-Y (about 1329 °C), while it is lowest for Cr-Ce (about 781 °C).” |
-| 1602.15 | L2 -> Cr + αY | L2: Y 0.871; Cr: Y 2.000e-4; αY: Y 0.993 | model | [1] Chan 2009 | Table 4, p. 9, row 11 |  |
-| 1588.15 | eutectic |  | experimental | [1] Chan 2009; _cites Terekhova 1961_ | p. 2 | “According to Terekhova et al.,\[14\] the monotectic temperature is 1760 °C ± 25 °C, monotectic composition is at 9.36 at.% Y, eutectic temperature is 1315 °C ± 7 °C and eutectic composition is at 79.65 at.% Y.” |
-| 1588.15 | L2 -> Cr + αY | L2: Y 0.7965 | experimental | [1] Chan 2009; _cites Terekhova 1961_ | Table 4, p. 9, row 7 |  |
-| 1573.15 | L2 -> Cr + αY | L2: Y 0.859 | experimental | [1] Chan 2009; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02645392) | Table 4, p. 9, row 10 |  |
-| 1510.15 | L2 -> Cr + αY | L2: Y 0.84633 | unspecified | [1] Chan 2009; _cites Terekhova 1990_ | Table 4, p. 9, row 9 |  |
+| 2033.15 | L1 -> L2 + Cr | L1: Y 0.0936; L2: Y 0.5771 | experimental | [1] Chan 2009; _cites Terekhova 1961_ | Table 4, p. 9, row 1; `ORC-IRQIVRHLJA` |  |
+| 2033.15 | L1 -> L2 + Cr | L1: Y 0.09; L2: Y 0.58 | unspecified | [1] Chan 2009; _cites Venkatraman 1985_ [doi](https://doi.org/10.1007/bf02869503) | Table 4, p. 9, row 2; `ORC-PWFB36X4OG` |  |
+| 2020.15 | L1 -> L2 + Cr | L1: Y 0.185; L2: Y 0.552; Cr: Y 5.000e-4 | model | [1] Chan 2009 | Table 4, p. 9, row 4; `ORC-F5QK6DPJUQ` |  |
+| 2013.15 | L1 -> L2 + Cr | L1: Y 0.109; L2: Y 0.611 | experimental | [1] Chan 2009; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02645392) | Table 4, p. 9, row 3; `ORC-LS3BHMGEFG` |  |
+| 1751.15 | βY -> L2 + αY | L2: Y 0.981 | experimental | [1] Chan 2009; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02645392) | Table 4, p. 9, row 5; `ORC-ETJESYUL5C` |  |
+| 1738.15 | βY -> L2 + αY | βY: Y 0.998; L2: Y 0.971; αY: Y 0.996 | model | [1] Chan 2009 | Table 4, p. 9, row 6; `ORC-XCHGBHC225` |  |
+| 1603.15 | L2 -> Cr + αY | L2: Y 0.8 | unspecified | [1] Chan 2009; _cites Venkatraman 1985_ [doi](https://doi.org/10.1007/bf02869503) | Table 4, p. 9, row 8; `ORC-MFV22D4RNS` |  |
+| 1603.15 | eutectic |  | model | [1] Chan 2009; _cites Venkatraman 1985_ [doi](https://doi.org/10.1007/bf02869503) | p. 2; `ORC-UTMPXW53EX` | “However, the phase diagram with a miscibility gap by Venkatraman and Neumann\[15\] suggests that the eutectic temperature is 1330 °C ± 25 °C with a eutectic composition of 80 at.% Y.” |
+| 1602.15 | eutectic |  | model | [1] Chan 2009 | p. 7; `ORC-77B6K2K7XW.931340` | “Further, the eutectic point is highest for Cr-Y (about 1329 °C), while it is lowest for Cr-Ce (about 781 °C).” |
+| 1602.15 | L2 -> Cr + αY | L2: Y 0.871; Cr: Y 2.000e-4; αY: Y 0.993 | model | [1] Chan 2009 | Table 4, p. 9, row 11; `ORC-O6G33XSFZM` |  |
+| 1588.15 | eutectic |  | experimental | [1] Chan 2009; _cites Terekhova 1961_ | p. 2; `ORC-GAF2DQXAWI.b4f150` | “According to Terekhova et al.,\[14\] the monotectic temperature is 1760 °C ± 25 °C, monotectic composition is at 9.36 at.% Y, eutectic temperature is 1315 °C ± 7 °C and eutectic composition is at 79.65 at.% Y.” |
+| 1588.15 | L2 -> Cr + αY | L2: Y 0.7965 | experimental | [1] Chan 2009; _cites Terekhova 1961_ | Table 4, p. 9, row 7; `ORC-Z3IVAWCYJC` |  |
+| 1573.15 | L2 -> Cr + αY | L2: Y 0.859 | experimental | [1] Chan 2009; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02645392) | Table 4, p. 9, row 10; `ORC-CU4GS335HG` |  |
+| 1510.15 | L2 -> Cr + αY | L2: Y 0.84633 | unspecified | [1] Chan 2009; _cites Terekhova 1990_ | Table 4, p. 9, row 9; `ORC-ZKYQMEAYQS` |  |
 
 ## Other properties
 
@@ -76,8 +76,8 @@ Table: Phase transition, Cr–Y system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 2033.15 K | 2033.15 | other | experimental | [1] Chan 2009; _cites Terekhova 1961_ | p. 2 | “According to Terekhova et al.,\[14\] the monotectic temperature is 1760 °C ± 25 °C, monotectic composition is at 9.36 at.% Y, eutectic temperature is 1315 °C ± 7 °C and eutectic composition is at 79.65 at.% Y.” |
-| Phase transition | 2170.15 K | 2170.15 | other | model | [1] Chan 2009 | p. 7 | “It is the smallest for Cr-Y system and the critical point is about 1897 °C.” |
+| Phase transition | 2033.15 K | 2033.15 | other | experimental | [1] Chan 2009; _cites Terekhova 1961_ | p. 2; `ORC-GAF2DQXAWI.dc5377` | “According to Terekhova et al.,\[14\] the monotectic temperature is 1760 °C ± 25 °C, monotectic composition is at 9.36 at.% Y, eutectic temperature is 1315 °C ± 7 °C and eutectic composition is at 79.65 at.% Y.” |
+| Phase transition | 2170.15 K | 2170.15 | other | model | [1] Chan 2009 | p. 7; `ORC-BPYQ5WJ4C4` | “It is the smallest for Cr-Y system and the critical point is about 1897 °C.” |
 
 ## Sources
 
@@ -142,4 +142,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

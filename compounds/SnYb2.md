@@ -14,10 +14,10 @@ Table: Enthalpy of formation of SnYb2 reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -63.305 kJ/mol-atom | Yb2Sn |  | model | Calphad | [Sn–Yb](https://data.orchid-project.org/systems/SN-YB.html) | [1] Kali-Ali 2017 | Table 2, p. 4, row 12 |  |
-| -62.898 kJ/mol-atom | Yb2Sn |  | model | Calphad | [Sn–Yb](https://data.orchid-project.org/systems/SN-YB.html) | [1] Kali-Ali 2017 | Table 2, p. 4, row 11 |  |
-| -57.56 kJ/mol-atom | Yb2Sn |  | model | Calphad | [Sn–Yb](https://data.orchid-project.org/systems/SN-YB.html) | [1] Kali-Ali 2017; _cites Idbenali 2011_ [doi](https://doi.org/10.1007/s10973-010-1082-4) | Table 2, p. 4, row 13 |  |
-| -63.299 kJ/mol-atom | Yb2Sn | 0 | DFT | Ab-initio | [Sn–Yb](https://data.orchid-project.org/systems/SN-YB.html) | [1] Kali-Ali 2017 | Table 2, p. 4, row 10 |  |
+| -63.305 kJ/mol-atom | Yb2Sn |  | model | Calphad | [Sn–Yb](https://data.orchid-project.org/systems/SN-YB.html) | [1] Kali-Ali 2017 | Table 2, p. 4, row 12; `ORC-S7RE5UKPXU.195a62` |  |
+| -62.898 kJ/mol-atom | Yb2Sn |  | model | Calphad | [Sn–Yb](https://data.orchid-project.org/systems/SN-YB.html) | [1] Kali-Ali 2017 | Table 2, p. 4, row 11; `ORC-LKMHCO7JU4.58199d` |  |
+| -57.56 kJ/mol-atom | Yb2Sn |  | model | Calphad | [Sn–Yb](https://data.orchid-project.org/systems/SN-YB.html) | [1] Kali-Ali 2017; _cites Idbenali 2011_ [doi](https://doi.org/10.1007/s10973-010-1082-4) | Table 2, p. 4, row 13; `ORC-KQ7DQSJNQK.28ef63` |  |
+| -63.299 kJ/mol-atom | Yb2Sn | 0 | DFT | Ab-initio | [Sn–Yb](https://data.orchid-project.org/systems/SN-YB.html) | [1] Kali-Ali 2017 | Table 2, p. 4, row 10; `ORC-BTDNBB6AGY.d1e116` |  |
 
 ### Uncertainty budget
 
@@ -95,4 +95,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

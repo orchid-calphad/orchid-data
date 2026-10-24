@@ -14,8 +14,8 @@ Table: Enthalpy of formation of Si3Yb5 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -48.3 kJ/mol-atom ± 3.6 | Yb5Si3 | 298.15 | experimental |  | [Si–Yb](https://data.orchid-project.org/systems/SI-YB.html) | [1] Brutti 2005; _cites Brutti 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900152-3) | Table 6, p. 7, row 2 |  |
-| -49.8 kJ/mol-atom | Yb5Si3 | 298.15 | model |  | [Si–Yb](https://data.orchid-project.org/systems/SI-YB.html) | [1] Brutti 2005 | Table 6, p. 7, row 1 |  |
+| -48.3 kJ/mol-atom ± 3.6 | Yb5Si3 | 298.15 | experimental |  | [Si–Yb](https://data.orchid-project.org/systems/SI-YB.html) | [1] Brutti 2005; _cites Brutti 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900152-3) | Table 6, p. 7, row 2; `ORC-5JLYA7TSHI.2c4fd9` |  |
+| -49.8 kJ/mol-atom | Yb5Si3 | 298.15 | model |  | [Si–Yb](https://data.orchid-project.org/systems/SI-YB.html) | [1] Brutti 2005 | Table 6, p. 7, row 1; `ORC-7R5RIVEM5Z.d2992b` |  |
 
 ### Uncertainty budget
 
@@ -91,4 +91,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

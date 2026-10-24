@@ -68,30 +68,30 @@ Table: Invariant reactions reported in the literature for the Fe–Th system (24
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1811.15 | congruent melting: L -> δFe | L: Th 0 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 4, p. 5, row 1 |  |
-| 1810.65 | congruent melting: L -> δFe | L: Th 0 | model | [1] Wang 2008 | Table 4, p. 5, row 2 |  |
-| 1735.55 | congruent melting: L -> Fe17Th2 | L: Th 0.105; Fe17Th2: Fe 0.894737, Th 0.105263 | model | [1] Wang 2008 | Table 4, p. 5, row 10 |  |
-| 1735.15 | congruent melting: L -> Fe17Th2 | L: Th 0.105; Fe17Th2: Fe 0.894737, Th 0.105263 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 4, p. 5, row 9 |  |
-| 1685.45 | eutectic: L -> (αFe) + Fe17Th2 | L: Th 0.0484; (αFe): Fe 0.777778, Th 0.222222; Fe17Th2: Fe 0.894737, Th 0.105263 | model | [1] Wang 2008 | Table 4, p. 5, row 8 |  |
-| 1685.15 | eutectic: L -> (αFe) + Fe17Th2 | L: Th 0.05; (αFe): Fe 0.777778, Th 0.222222; Fe17Th2: Fe 0.894737, Th 0.105263 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 4, p. 5, row 7 |  |
-| 1667.45 | polymorphic: δFe -> γFe | L: Th 0 | model | [1] Wang 2008 | Table 4, p. 5, row 4 |  |
-| 1667.15 | polymorphic: δFe -> γFe | L: Th 0 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 4, p. 5, row 3 |  |
-| 1643.15 | peritectic: L + Fe17Th2 -> Fe5Th | L: Th 0.2; Fe17Th2: Fe 0.894737, Th 0.105263; Fe5Th: Fe 0.833333, Th 0.166667 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 4, p. 5, row 11 |  |
-| 1642.25 | peritectic: L + Fe17Th2 -> Fe5Th | L: Th 0.2052; Fe17Th2: Fe 0.894737, Th 0.105263; Fe5Th: Fe 0.833333, Th 0.166667 | model | [1] Wang 2008 | Table 4, p. 5, row 12 |  |
-| 1633.25 | polymorphic: βTh -> αTh | αTh: Fe 0.777778, Th 0.222222; L: Th 1 | model | [1] Wang 2008 | Table 4, p. 5, row 26 |  |
-| 1633.15 | polymorphic: βTh -> αTh | αTh: Fe 0.777778, Th 0.222222; L: Th 1 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 4, p. 5, row 25 |  |
-| 1483.15 | peritectic: L + Fe5Th -> βFe7Th2 | L: Th 0.3; Fe5Th: Fe 0.833333, Th 0.166667; βFe7Th2: Fe 0.777778, Th 0.222222 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 4, p. 5, row 13 |  |
-| 1482.85 | peritectic: L + Fe5Th -> βFe7Th2 | L: Th 0.3371; Fe5Th: Fe 0.833333, Th 0.166667; βFe7Th2: Fe 0.777778, Th 0.222222 | model | [1] Wang 2008 | Table 4, p. 5, row 14 |  |
-| 1458.15 | polymorphic: βFe7Th2 -> αFe7Th2 | βFe7Th2: Fe 0.777778, Th 0.222222; αFe7Th2: Fe 0.777778, Th 0.222222 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 4, p. 5, row 15 |  |
-| 1457.45 | polymorphic: βFe7Th2 -> αFe7Th2 | βFe7Th2: Fe 0.777778, Th 0.222222; αFe7Th2: Fe 0.777778, Th 0.222222 | model | [1] Wang 2008 | Table 4, p. 5, row 16 |  |
-| 1373.25 | peritectic: L + aFe7Th2 -> Fe3Th | L: Th 0.4135; aFe7Th2: Fe 0.777778, Th 0.222222; Fe3Th: Fe 0.75, Th 0.25 | model | [1] Wang 2008 | Table 4, p. 5, row 18 |  |
-| 1373.15 | peritectic: L + aFe7Th2 -> Fe3Th | L: Th 0.41; aFe7Th2: Fe 0.777778, Th 0.222222; Fe3Th: Fe 0.75, Th 0.25 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 4, p. 5, row 17 |  |
-| 1213.15 | peritectic: L + (αTh) -> Fe3Th7 | L: Th 0.69; (αTh): Fe 0.777778, Th 0.222222; Fe3Th7: Fe 0.3, Th 0.7 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 4, p. 5, row 21 |  |
-| 1212.65 | peritectic: L + (αTh) -> Fe3Th7 | L: Th 0.6985; (αTh): Fe 0.777778, Th 0.222222; Fe3Th7: Fe 0.3, Th 0.7 | model | [1] Wang 2008 | Table 4, p. 5, row 22 |  |
-| 1185.15 | polymorphic: γFe -> αFe | αFe: Fe 0.777778, Th 0.222222; L: Th 0 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 4, p. 5, row 5 |  |
-| 1184.85 | polymorphic: γFe -> αFe | αFe: Fe 0.777778, Th 0.222222; L: Th 0 | model | [1] Wang 2008 | Table 4, p. 5, row 6 |  |
-| 1127.95 | eutectic: L -> Fe3Th + Fe3Th7 | L: Th 0.5624; Fe3Th: Fe 0.75, Th 0.25; Fe3Th7: Fe 0.3, Th 0.7 | model | [1] Wang 2008 | Table 4, p. 5, row 20 |  |
-| 1123.15 | eutectic: L -> Fe3Th + Fe3Th7 | L: Th 0.54; Fe3Th: Fe 0.75, Th 0.25; Fe3Th7: Fe 0.3, Th 0.7 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 4, p. 5, row 19 |  |
+| 1811.15 | congruent melting: L -> δFe | L: Th 0 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 4, p. 5, row 1; `ORC-ECGF73OX7A` |  |
+| 1810.65 | congruent melting: L -> δFe | L: Th 0 | model | [1] Wang 2008 | Table 4, p. 5, row 2; `ORC-6XNKIEHIAA` |  |
+| 1735.55 | congruent melting: L -> Fe17Th2 | L: Th 0.105; Fe17Th2: Fe 0.894737, Th 0.105263 | model | [1] Wang 2008 | Table 4, p. 5, row 10; `ORC-WWOSTO7ZZX` |  |
+| 1735.15 | congruent melting: L -> Fe17Th2 | L: Th 0.105; Fe17Th2: Fe 0.894737, Th 0.105263 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 4, p. 5, row 9; `ORC-LPK5RV6R5F` |  |
+| 1685.45 | eutectic: L -> (αFe) + Fe17Th2 | L: Th 0.0484; (αFe): Fe 0.777778, Th 0.222222; Fe17Th2: Fe 0.894737, Th 0.105263 | model | [1] Wang 2008 | Table 4, p. 5, row 8; `ORC-5TB2LMJY75` |  |
+| 1685.15 | eutectic: L -> (αFe) + Fe17Th2 | L: Th 0.05; (αFe): Fe 0.777778, Th 0.222222; Fe17Th2: Fe 0.894737, Th 0.105263 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 4, p. 5, row 7; `ORC-WUGRNNLA63` |  |
+| 1667.45 | polymorphic: δFe -> γFe | L: Th 0 | model | [1] Wang 2008 | Table 4, p. 5, row 4; `ORC-C5CZFIJVE5` |  |
+| 1667.15 | polymorphic: δFe -> γFe | L: Th 0 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 4, p. 5, row 3; `ORC-3TSR5JUPVU` |  |
+| 1643.15 | peritectic: L + Fe17Th2 -> Fe5Th | L: Th 0.2; Fe17Th2: Fe 0.894737, Th 0.105263; Fe5Th: Fe 0.833333, Th 0.166667 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 4, p. 5, row 11; `ORC-HUSLRHINJZ` |  |
+| 1642.25 | peritectic: L + Fe17Th2 -> Fe5Th | L: Th 0.2052; Fe17Th2: Fe 0.894737, Th 0.105263; Fe5Th: Fe 0.833333, Th 0.166667 | model | [1] Wang 2008 | Table 4, p. 5, row 12; `ORC-LFM2TGCHCR` |  |
+| 1633.25 | polymorphic: βTh -> αTh | αTh: Fe 0.777778, Th 0.222222; L: Th 1 | model | [1] Wang 2008 | Table 4, p. 5, row 26; `ORC-RP6U4ZKGV2` |  |
+| 1633.15 | polymorphic: βTh -> αTh | αTh: Fe 0.777778, Th 0.222222; L: Th 1 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 4, p. 5, row 25; `ORC-MZJCLZ2I2V` |  |
+| 1483.15 | peritectic: L + Fe5Th -> βFe7Th2 | L: Th 0.3; Fe5Th: Fe 0.833333, Th 0.166667; βFe7Th2: Fe 0.777778, Th 0.222222 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 4, p. 5, row 13; `ORC-767F3GUQPI` |  |
+| 1482.85 | peritectic: L + Fe5Th -> βFe7Th2 | L: Th 0.3371; Fe5Th: Fe 0.833333, Th 0.166667; βFe7Th2: Fe 0.777778, Th 0.222222 | model | [1] Wang 2008 | Table 4, p. 5, row 14; `ORC-X5NE2YSM6C` |  |
+| 1458.15 | polymorphic: βFe7Th2 -> αFe7Th2 | βFe7Th2: Fe 0.777778, Th 0.222222; αFe7Th2: Fe 0.777778, Th 0.222222 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 4, p. 5, row 15; `ORC-GMCJE6WTAP` |  |
+| 1457.45 | polymorphic: βFe7Th2 -> αFe7Th2 | βFe7Th2: Fe 0.777778, Th 0.222222; αFe7Th2: Fe 0.777778, Th 0.222222 | model | [1] Wang 2008 | Table 4, p. 5, row 16; `ORC-J3XM33USOS` |  |
+| 1373.25 | peritectic: L + aFe7Th2 -> Fe3Th | L: Th 0.4135; aFe7Th2: Fe 0.777778, Th 0.222222; Fe3Th: Fe 0.75, Th 0.25 | model | [1] Wang 2008 | Table 4, p. 5, row 18; `ORC-IYQGGBAI6Q` |  |
+| 1373.15 | peritectic: L + aFe7Th2 -> Fe3Th | L: Th 0.41; aFe7Th2: Fe 0.777778, Th 0.222222; Fe3Th: Fe 0.75, Th 0.25 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 4, p. 5, row 17; `ORC-IOJLM54IOD` |  |
+| 1213.15 | peritectic: L + (αTh) -> Fe3Th7 | L: Th 0.69; (αTh): Fe 0.777778, Th 0.222222; Fe3Th7: Fe 0.3, Th 0.7 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 4, p. 5, row 21; `ORC-T5ASGMAACG` |  |
+| 1212.65 | peritectic: L + (αTh) -> Fe3Th7 | L: Th 0.6985; (αTh): Fe 0.777778, Th 0.222222; Fe3Th7: Fe 0.3, Th 0.7 | model | [1] Wang 2008 | Table 4, p. 5, row 22; `ORC-VTHVOVREHI` |  |
+| 1185.15 | polymorphic: γFe -> αFe | αFe: Fe 0.777778, Th 0.222222; L: Th 0 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 4, p. 5, row 5; `ORC-SQ6YO7VLYK` |  |
+| 1184.85 | polymorphic: γFe -> αFe | αFe: Fe 0.777778, Th 0.222222; L: Th 0 | model | [1] Wang 2008 | Table 4, p. 5, row 6; `ORC-F5ON4Q4XJR` |  |
+| 1127.95 | eutectic: L -> Fe3Th + Fe3Th7 | L: Th 0.5624; Fe3Th: Fe 0.75, Th 0.25; Fe3Th7: Fe 0.3, Th 0.7 | model | [1] Wang 2008 | Table 4, p. 5, row 20; `ORC-JMDAGHUQC3` |  |
+| 1123.15 | eutectic: L -> Fe3Th + Fe3Th7 | L: Th 0.54; Fe3Th: Fe 0.75, Th 0.25; Fe3Th7: Fe 0.3, Th 0.7 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 4, p. 5, row 19; `ORC-XP4GJUJE6P` |  |
 
 ## Other properties
 
@@ -101,39 +101,39 @@ Table: Formation, Fe–Th system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Gibbs energy of formation; _printed: ΔfG_ | -9.877 per mol-atom | 973 | Fe17Th2; _alloy: Th 0.105263_ | model | [1] Wang 2008 | Table 5, p. 5, row 2 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -7.664 per mol-atom ± 0.168 | 973 | Fe17Th2; _alloy: Th 0.105263_ | experimental | [1] Wang 2008; _cites Skelton 1973_ [doi](https://doi.org/10.1007/bf02645589) | Table 5, p. 5, row 1 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -12.6 per mol-atom ± 0.42 | 973 | Fe3Th; _alloy: Th 0.25_ | experimental | [1] Wang 2008; _cites Skelton 1973_ [doi](https://doi.org/10.1007/bf02645589) | Table 5, p. 5, row 22 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -13.306 per mol-atom | 973 | Fe3Th; _alloy: Th 0.25_ | model | [1] Wang 2008 | Table 5, p. 5, row 23 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -8.396 per mol-atom | 973 | Fe3Th7; _alloy: Th 0.7_ | model | [1] Wang 2008 | Table 5, p. 5, row 29 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -6.72 per mol-atom ± 1.134 | 973 | Fe3Th7; _alloy: Th 0.7_ | experimental | [1] Wang 2008; _cites Skelton 1973_ [doi](https://doi.org/10.1007/bf02645589) | Table 5, p. 5, row 28 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -10.962 per mol-atom ± 0.252 | 973 | Fe5Th; _alloy: Th 0.166667_ | experimental | [1] Wang 2008; _cites Skelton 1973_ [doi](https://doi.org/10.1007/bf02645589) | Table 5, p. 5, row 7 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -12.361 per mol-atom | 973 | Fe5Th; _alloy: Th 0.166667_ | model | [1] Wang 2008 | Table 5, p. 5, row 8 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -13.186 per mol-atom | 973 | αFe7Th2; _alloy: Th 0.222222_ | model | [1] Wang 2008 | Table 5, p. 5, row 14 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -11.97 per mol-atom ± 0.378 | 973 | αFe7Th2; _alloy: Th 0.222222_ | experimental | [1] Wang 2008; _cites Skelton 1973_ [doi](https://doi.org/10.1007/bf02645589) | Table 5, p. 5, row 13 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -10.673 per mol-atom | 973 | βFe7Th2; _alloy: Th 0.222222_ | model | [1] Wang 2008 | Table 5, p. 5, row 19 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -9.867 per mol-atom | 1000 | Fe17Th2; _alloy: Th 0.105263_ | model | [1] Wang 2008 | Table 5, p. 5, row 6 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -8.046 per mol-atom | 1000 | Fe17Th2; _alloy: Th 0.105263_ | experimental | [1] Wang 2008; _cites Chiotti 1981_ | Table 5, p. 5, row 5 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -12.878 per mol-atom | 1000 | Fe3Th; _alloy: Th 0.25_ | experimental | [1] Wang 2008; _cites Chiotti 1981_ | Table 5, p. 5, row 26 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -13.29 per mol-atom | 1000 | Fe3Th; _alloy: Th 0.25_ | model | [1] Wang 2008 | Table 5, p. 5, row 27 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -7.004 per mol-atom | 1000 | Fe3Th7; _alloy: Th 0.7_ | experimental | [1] Wang 2008; _cites Chiotti 1981_ | Table 5, p. 5, row 32 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -8.363 per mol-atom | 1000 | Fe3Th7; _alloy: Th 0.7_ | model | [1] Wang 2008 | Table 5, p. 5, row 33 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -12.351 per mol-atom | 1000 | Fe5Th; _alloy: Th 0.166667_ | model | [1] Wang 2008 | Table 5, p. 5, row 12 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -11.234 per mol-atom | 1000 | Fe5Th; _alloy: Th 0.166667_ | experimental | [1] Wang 2008; _cites Chiotti 1981_ | Table 5, p. 5, row 11 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -13.17 per mol-atom | 1000 | αFe7Th2; _alloy: Th 0.222222_ | model | [1] Wang 2008 | Table 5, p. 5, row 18 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -12.447 per mol-atom | 1000 | αFe7Th2; _alloy: Th 0.222222_ | experimental | [1] Wang 2008; _cites Chiotti 1981_ | Table 5, p. 5, row 17 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -10.797 per mol-atom | 1000 | βFe7Th2; _alloy: Th 0.222222_ | model | [1] Wang 2008 | Table 5, p. 5, row 21 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -9.823 per mol-atom | 1123 | Fe17Th2; _alloy: Th 0.105263_ | model | [1] Wang 2008 | Table 5, p. 5, row 4 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -6.888 per mol-atom ± 0.168 | 1123 | Fe17Th2; _alloy: Th 0.105263_ | experimental | [1] Wang 2008; _cites Skelton 1973_ [doi](https://doi.org/10.1007/bf02645589) | Table 5, p. 5, row 3 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -13.215 per mol-atom | 1123 | Fe3Th; _alloy: Th 0.25_ | model | [1] Wang 2008 | Table 5, p. 5, row 25 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -10.71 per mol-atom ± 0.462 | 1123 | Fe3Th; _alloy: Th 0.25_ | experimental | [1] Wang 2008; _cites Skelton 1973_ [doi](https://doi.org/10.1007/bf02645589) | Table 5, p. 5, row 24 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -6.972 per mol-atom ± 1.176 | 1123 | Fe3Th7; _alloy: Th 0.7_ | experimental | [1] Wang 2008; _cites Skelton 1973_ [doi](https://doi.org/10.1007/bf02645589) | Table 5, p. 5, row 30 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -8.212 per mol-atom | 1123 | Fe3Th7; _alloy: Th 0.7_ | model | [1] Wang 2008 | Table 5, p. 5, row 31 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -12.308 per mol-atom | 1123 | Fe5Th; _alloy: Th 0.166667_ | model | [1] Wang 2008 | Table 5, p. 5, row 10 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -9.702 per mol-atom ± 0.252 | 1123 | Fe5Th; _alloy: Th 0.166667_ | experimental | [1] Wang 2008; _cites Skelton 1973_ [doi](https://doi.org/10.1007/bf02645589) | Table 5, p. 5, row 9 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -13.097 per mol-atom | 1123 | αFe7Th2; _alloy: Th 0.222222_ | model | [1] Wang 2008 | Table 5, p. 5, row 16 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -10.29 per mol-atom ± 0.42 | 1123 | αFe7Th2; _alloy: Th 0.222222_ | experimental | [1] Wang 2008; _cites Skelton 1973_ [doi](https://doi.org/10.1007/bf02645589) | Table 5, p. 5, row 15 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -11.363 per mol-atom | 1123 | βFe7Th2; _alloy: Th 0.222222_ | model | [1] Wang 2008 | Table 5, p. 5, row 20 |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -9.877 per mol-atom | 973 | Fe17Th2; _alloy: Th 0.105263_ | model | [1] Wang 2008 | Table 5, p. 5, row 2; `ORC-MBFGWKTBWX` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -7.664 per mol-atom ± 0.168 | 973 | Fe17Th2; _alloy: Th 0.105263_ | experimental | [1] Wang 2008; _cites Skelton 1973_ [doi](https://doi.org/10.1007/bf02645589) | Table 5, p. 5, row 1; `ORC-UWAGJVMCXK` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -12.6 per mol-atom ± 0.42 | 973 | Fe3Th; _alloy: Th 0.25_ | experimental | [1] Wang 2008; _cites Skelton 1973_ [doi](https://doi.org/10.1007/bf02645589) | Table 5, p. 5, row 22; `ORC-BRJPF6YJWO` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -13.306 per mol-atom | 973 | Fe3Th; _alloy: Th 0.25_ | model | [1] Wang 2008 | Table 5, p. 5, row 23; `ORC-GOU7RYR7K2` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -8.396 per mol-atom | 973 | Fe3Th7; _alloy: Th 0.7_ | model | [1] Wang 2008 | Table 5, p. 5, row 29; `ORC-KLZX3QDP4W` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -6.72 per mol-atom ± 1.134 | 973 | Fe3Th7; _alloy: Th 0.7_ | experimental | [1] Wang 2008; _cites Skelton 1973_ [doi](https://doi.org/10.1007/bf02645589) | Table 5, p. 5, row 28; `ORC-TZA4MB5WNN` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -10.962 per mol-atom ± 0.252 | 973 | Fe5Th; _alloy: Th 0.166667_ | experimental | [1] Wang 2008; _cites Skelton 1973_ [doi](https://doi.org/10.1007/bf02645589) | Table 5, p. 5, row 7; `ORC-DXSSP7CZWQ` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -12.361 per mol-atom | 973 | Fe5Th; _alloy: Th 0.166667_ | model | [1] Wang 2008 | Table 5, p. 5, row 8; `ORC-Q25RBNEWAS` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -13.186 per mol-atom | 973 | αFe7Th2; _alloy: Th 0.222222_ | model | [1] Wang 2008 | Table 5, p. 5, row 14; `ORC-F36BZCCISB` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -11.97 per mol-atom ± 0.378 | 973 | αFe7Th2; _alloy: Th 0.222222_ | experimental | [1] Wang 2008; _cites Skelton 1973_ [doi](https://doi.org/10.1007/bf02645589) | Table 5, p. 5, row 13; `ORC-TC6UMOJOG7` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -10.673 per mol-atom | 973 | βFe7Th2; _alloy: Th 0.222222_ | model | [1] Wang 2008 | Table 5, p. 5, row 19; `ORC-NIOWR2AO65` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -9.867 per mol-atom | 1000 | Fe17Th2; _alloy: Th 0.105263_ | model | [1] Wang 2008 | Table 5, p. 5, row 6; `ORC-VQRZAMD4TI` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -8.046 per mol-atom | 1000 | Fe17Th2; _alloy: Th 0.105263_ | experimental | [1] Wang 2008; _cites Chiotti 1981_ | Table 5, p. 5, row 5; `ORC-WKOGO32CNJ` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -12.878 per mol-atom | 1000 | Fe3Th; _alloy: Th 0.25_ | experimental | [1] Wang 2008; _cites Chiotti 1981_ | Table 5, p. 5, row 26; `ORC-7BVLVAKNXK` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -13.29 per mol-atom | 1000 | Fe3Th; _alloy: Th 0.25_ | model | [1] Wang 2008 | Table 5, p. 5, row 27; `ORC-AXDVCTGMI4` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -7.004 per mol-atom | 1000 | Fe3Th7; _alloy: Th 0.7_ | experimental | [1] Wang 2008; _cites Chiotti 1981_ | Table 5, p. 5, row 32; `ORC-INJATKMIHN` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -8.363 per mol-atom | 1000 | Fe3Th7; _alloy: Th 0.7_ | model | [1] Wang 2008 | Table 5, p. 5, row 33; `ORC-Q4MCVEM6KR` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -12.351 per mol-atom | 1000 | Fe5Th; _alloy: Th 0.166667_ | model | [1] Wang 2008 | Table 5, p. 5, row 12; `ORC-WHH5KKV6DD` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -11.234 per mol-atom | 1000 | Fe5Th; _alloy: Th 0.166667_ | experimental | [1] Wang 2008; _cites Chiotti 1981_ | Table 5, p. 5, row 11; `ORC-WHWJRR2JVT` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -13.17 per mol-atom | 1000 | αFe7Th2; _alloy: Th 0.222222_ | model | [1] Wang 2008 | Table 5, p. 5, row 18; `ORC-O37OR3GEUO` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -12.447 per mol-atom | 1000 | αFe7Th2; _alloy: Th 0.222222_ | experimental | [1] Wang 2008; _cites Chiotti 1981_ | Table 5, p. 5, row 17; `ORC-S4AIOI3Y6A` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -10.797 per mol-atom | 1000 | βFe7Th2; _alloy: Th 0.222222_ | model | [1] Wang 2008 | Table 5, p. 5, row 21; `ORC-NWZZXPQTSB` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -9.823 per mol-atom | 1123 | Fe17Th2; _alloy: Th 0.105263_ | model | [1] Wang 2008 | Table 5, p. 5, row 4; `ORC-HLMIME47VV` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -6.888 per mol-atom ± 0.168 | 1123 | Fe17Th2; _alloy: Th 0.105263_ | experimental | [1] Wang 2008; _cites Skelton 1973_ [doi](https://doi.org/10.1007/bf02645589) | Table 5, p. 5, row 3; `ORC-NU3CZKIV27` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -13.215 per mol-atom | 1123 | Fe3Th; _alloy: Th 0.25_ | model | [1] Wang 2008 | Table 5, p. 5, row 25; `ORC-QQZB5SZWSC` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -10.71 per mol-atom ± 0.462 | 1123 | Fe3Th; _alloy: Th 0.25_ | experimental | [1] Wang 2008; _cites Skelton 1973_ [doi](https://doi.org/10.1007/bf02645589) | Table 5, p. 5, row 24; `ORC-TGZ63S3NPN` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -6.972 per mol-atom ± 1.176 | 1123 | Fe3Th7; _alloy: Th 0.7_ | experimental | [1] Wang 2008; _cites Skelton 1973_ [doi](https://doi.org/10.1007/bf02645589) | Table 5, p. 5, row 30; `ORC-QXZ4HAGLGT` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -8.212 per mol-atom | 1123 | Fe3Th7; _alloy: Th 0.7_ | model | [1] Wang 2008 | Table 5, p. 5, row 31; `ORC-YGGKRG2Z57` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -12.308 per mol-atom | 1123 | Fe5Th; _alloy: Th 0.166667_ | model | [1] Wang 2008 | Table 5, p. 5, row 10; `ORC-DWVXNLFVKW` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -9.702 per mol-atom ± 0.252 | 1123 | Fe5Th; _alloy: Th 0.166667_ | experimental | [1] Wang 2008; _cites Skelton 1973_ [doi](https://doi.org/10.1007/bf02645589) | Table 5, p. 5, row 9; `ORC-FZHQIZWX7O` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -13.097 per mol-atom | 1123 | αFe7Th2; _alloy: Th 0.222222_ | model | [1] Wang 2008 | Table 5, p. 5, row 16; `ORC-6XOBMOVTC2` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -10.29 per mol-atom ± 0.42 | 1123 | αFe7Th2; _alloy: Th 0.222222_ | experimental | [1] Wang 2008; _cites Skelton 1973_ [doi](https://doi.org/10.1007/bf02645589) | Table 5, p. 5, row 15; `ORC-FDODJGRUW4` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -11.363 per mol-atom | 1123 | βFe7Th2; _alloy: Th 0.222222_ | model | [1] Wang 2008 | Table 5, p. 5, row 20; `ORC-IJNHDLUFMM` |  |
 
 ## Sources
 
@@ -198,4 +198,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

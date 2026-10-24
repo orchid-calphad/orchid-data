@@ -29,21 +29,21 @@ Table: Invariant reactions reported in the literature for the C–Fe–N system 
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 952 | quasi-peritectic: U1, γ + θ ⇌ α + ε |  | model | [1] Göhring 2016; _cites Kunze 1996_ | Table IV, p. 9, row 4 |  |
-| 873 | quasi-peritectic: U1, γ + θ ⇌ α + ε |  | model | [1] Göhring 2016 | Table IV, p. 9, row 2 |  |
-| 868 | quasi-peritectic: U1, γ + θ ⇌ α + ε |  | experimental | [1] Göhring 2016; _cites Woehrle 2016_ [doi](https://doi.org/10.3139/146.111341) | Table IV, p. 9, row 1 |  |
-| 867 | quasi-peritectic: U1, γ + θ ⇌ α + ε |  | model | [1] Göhring 2016; _cites Du 1993_ [doi](https://doi.org/10.1007/bf02667880) | Table IV, p. 9, row 3 |  |
-| 859 | eutectic: E1, γ ⇌ α + γ′ + ε |  | model | [1] Göhring 2016; _cites Du 1993_ [doi](https://doi.org/10.1007/bf02667880) | Table IV, p. 9, row 7 |  |
-| 857 | eutectic: E1, γ ⇌ α + γ′ + ε |  | model | [1] Göhring 2016 | Table IV, p. 9, row 6 |  |
-| 857 | eutectic: E1, γ ⇌ α + γ′ + ε |  | model | [1] Göhring 2016; _cites Kunze 1996_ | Table IV, p. 9, row 8 |  |
-| 853 | eutectic: E1, γ ⇌ α + γ′ + ε |  | experimental | [1] Göhring 2016; _cites Woehrle 2016_ [doi](https://doi.org/10.3139/146.111341) | Table IV, p. 9, row 5 |  |
-| 842 | quasi-peritectic: U2, α + ε ⇌ γ′ + θ |  | experimental | [1] Göhring 2016; _cites Gohring 2016_ [doi](https://doi.org/10.1016/j.calphad.2015.10.014) | Table IV, p. 9, row 9 |  |
-| 840 | eutectic: E2, ε ⇌ γ′ + θ |  | experimental | [1] Göhring 2016; _cites Gohring 2016_ [doi](https://doi.org/10.1016/j.calphad.2015.10.014) | Table IV, p. 9, row 12 |  |
-| 840 | eutectic: e4, ε ⇌ α + γ′ + θ |  | experimental | [1] Göhring 2016; _cites Gohring 2016_ [doi](https://doi.org/10.1016/j.calphad.2015.10.014) | Table IV, p. 9, row 14 |  |
-| 839 | quasi-peritectic: U2, α + ε ⇌ γ′ + θ |  | model | [1] Göhring 2016 | Table IV, p. 9, row 10 |  |
-| 833 | eutectic: E2, ε ⇌ γ′ + θ |  | model | [1] Göhring 2016; _cites Kunze 1996_ | Table IV, p. 9, row 13 |  |
-| 825 | eutectic: e4, ε ⇌ α + γ′ + θ |  | model | [1] Göhring 2016; _cites Kunze 1996_ | Table IV, p. 9, row 15 |  |
-| 783 | quasi-peritectic: U2, α + ε ⇌ γ′ + θ |  | model | [1] Göhring 2016; _cites Du 1993_ [doi](https://doi.org/10.1007/bf02667880) | Table IV, p. 9, row 11 |  |
+| 952 | quasi-peritectic: U1, γ + θ ⇌ α + ε |  | model | [1] Göhring 2016; _cites Kunze 1996_ | Table IV, p. 9, row 4; `ORC-7U33MBNG5R` |  |
+| 873 | quasi-peritectic: U1, γ + θ ⇌ α + ε |  | model | [1] Göhring 2016 | Table IV, p. 9, row 2; `ORC-KMDNN2Q4HA` |  |
+| 868 | quasi-peritectic: U1, γ + θ ⇌ α + ε |  | experimental | [1] Göhring 2016; _cites Woehrle 2016_ [doi](https://doi.org/10.3139/146.111341) | Table IV, p. 9, row 1; `ORC-ZRKMJHH2TF` |  |
+| 867 | quasi-peritectic: U1, γ + θ ⇌ α + ε |  | model | [1] Göhring 2016; _cites Du 1993_ [doi](https://doi.org/10.1007/bf02667880) | Table IV, p. 9, row 3; `ORC-L64ZVSAX5K` |  |
+| 859 | eutectic: E1, γ ⇌ α + γ′ + ε |  | model | [1] Göhring 2016; _cites Du 1993_ [doi](https://doi.org/10.1007/bf02667880) | Table IV, p. 9, row 7; `ORC-EHGKGNYIE7` |  |
+| 857 | eutectic: E1, γ ⇌ α + γ′ + ε |  | model | [1] Göhring 2016 | Table IV, p. 9, row 6; `ORC-ADWVL2ULR7` |  |
+| 857 | eutectic: E1, γ ⇌ α + γ′ + ε |  | model | [1] Göhring 2016; _cites Kunze 1996_ | Table IV, p. 9, row 8; `ORC-DJ2NNGKXL2` |  |
+| 853 | eutectic: E1, γ ⇌ α + γ′ + ε |  | experimental | [1] Göhring 2016; _cites Woehrle 2016_ [doi](https://doi.org/10.3139/146.111341) | Table IV, p. 9, row 5; `ORC-GP327YK6EY` |  |
+| 842 | quasi-peritectic: U2, α + ε ⇌ γ′ + θ |  | experimental | [1] Göhring 2016; _cites Gohring 2016_ [doi](https://doi.org/10.1016/j.calphad.2015.10.014) | Table IV, p. 9, row 9; `ORC-JZMF23ZFTC` |  |
+| 840 | eutectic: E2, ε ⇌ γ′ + θ |  | experimental | [1] Göhring 2016; _cites Gohring 2016_ [doi](https://doi.org/10.1016/j.calphad.2015.10.014) | Table IV, p. 9, row 12; `ORC-7K55V3XDC4` |  |
+| 840 | eutectic: e4, ε ⇌ α + γ′ + θ |  | experimental | [1] Göhring 2016; _cites Gohring 2016_ [doi](https://doi.org/10.1016/j.calphad.2015.10.014) | Table IV, p. 9, row 14; `ORC-YNLH4734BZ` |  |
+| 839 | quasi-peritectic: U2, α + ε ⇌ γ′ + θ |  | model | [1] Göhring 2016 | Table IV, p. 9, row 10; `ORC-GI2V2QO35E` |  |
+| 833 | eutectic: E2, ε ⇌ γ′ + θ |  | model | [1] Göhring 2016; _cites Kunze 1996_ | Table IV, p. 9, row 13; `ORC-224WLVFNYB` |  |
+| 825 | eutectic: e4, ε ⇌ α + γ′ + θ |  | model | [1] Göhring 2016; _cites Kunze 1996_ | Table IV, p. 9, row 15; `ORC-TA336HK62F` |  |
+| 783 | quasi-peritectic: U2, α + ε ⇌ γ′ + θ |  | model | [1] Göhring 2016; _cites Du 1993_ [doi](https://doi.org/10.1007/bf02667880) | Table IV, p. 9, row 11; `ORC-SRKGAA4YQB` |  |
 
 ## Other properties
 
@@ -53,25 +53,25 @@ Table: Phase equilibrium, C–Fe–N system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 1323 | γ; _γ: C 0.0245, Fe 0.90031, N 0.075189_ | unspecified | [1] Göhring 2016 | Table V, p. 10, row 2 |  |
-| Phase composition |  | 1323 | γ; _γ: C 0.024339, Fe 0.892179, N 0.083482_ | experimental | [1] Göhring 2016; _cites Schenck 1963_ | Table V, p. 10, row 1 |  |
-| Phase composition |  | 1373 | γ; _γ: C 0.018886, Fe 0.898302, N 0.082812_ | experimental | [1] Göhring 2016; _cites Schenck 1963_ | Table V, p. 10, row 3 |  |
-| Phase composition |  | 1373 | γ; _γ: C 0.031972, Fe 0.890532, N 0.077496_ | experimental | [1] Göhring 2016; _cites Schenck 1963_ | Table V, p. 10, row 5 |  |
-| Phase composition |  | 1373 | γ; _γ: C 0.032237, Fe 0.900682, N 0.067081_ | unspecified | [1] Göhring 2016 | Table V, p. 10, row 6 |  |
-| Phase composition |  | 1373 | γ; _γ: C 0.019001, Fe 0.905828, N 0.075171_ | unspecified | [1] Göhring 2016 | Table V, p. 10, row 4 |  |
-| Phase composition |  | 1423 | γ; _γ: C 0.032494, Fe 0.89418, N 0.073326_ | experimental | [1] Göhring 2016; _cites Schenck 1963_ | Table V, p. 10, row 11 |  |
-| Phase composition |  | 1423 | γ; _γ: C 0.032719, Fe 0.902677, N 0.064604_ | unspecified | [1] Göhring 2016 | Table V, p. 10, row 14 |  |
-| Phase composition |  | 1423 | γ; _γ: C 0.021626, Fe 0.907906, N 0.070468_ | unspecified | [1] Göhring 2016 | Table V, p. 10, row 10 |  |
-| Phase composition |  | 1423 | γ; _γ: C 0.018617, Fe 0.908989, N 0.072394_ | unspecified | [1] Göhring 2016 | Table V, p. 10, row 8 |  |
-| Phase composition |  | 1423 | γ; _γ: C 0.032548, Fe 0.896208, N 0.071244_ | experimental | [1] Göhring 2016; _cites Schenck 1963_ | Table V, p. 10, row 13 |  |
-| Phase composition |  | 1423 | γ; _γ: C 0.018498, Fe 0.901083, N 0.080418_ | experimental | [1] Göhring 2016; _cites Schenck 1963_ | Table V, p. 10, row 7 |  |
-| Phase composition |  | 1423 | γ; _γ: C 0.021459, Fe 0.898312, N 0.080229_ | experimental | [1] Göhring 2016; _cites Schenck 1963_ | Table V, p. 10, row 9 |  |
-| Phase composition |  | 1473 | γ; _γ: C 0.021524, Fe 0.902063, N 0.076412_ | experimental | [1] Göhring 2016; _cites Schenck 1963_ | Table V, p. 10, row 17 |  |
-| Phase composition |  | 1473 | γ; _γ: C 0.033437, Fe 0.897455, N 0.069108_ | experimental | [1] Göhring 2016; _cites Schenck 1963_ | Table V, p. 10, row 19 |  |
-| Phase composition |  | 1473 | γ; _γ: C 0.021662, Fe 0.909981, N 0.068357_ | unspecified | [1] Göhring 2016 | Table V, p. 10, row 18 |  |
-| Phase composition |  | 1473 | γ; _γ: C 0.019945, Fe 0.910899, N 0.069155_ | unspecified | [1] Göhring 2016 | Table V, p. 10, row 16 |  |
-| Phase composition |  | 1473 | γ; _γ: C 0.033623, Fe 0.904279, N 0.062098_ | unspecified | [1] Göhring 2016 | Table V, p. 10, row 20 |  |
-| Phase composition |  | 1473 | γ; _γ: C 0.019824, Fe 0.903312, N 0.076864_ | experimental | [1] Göhring 2016; _cites Schenck 1963_ | Table V, p. 10, row 15 |  |
+| Phase composition |  | 1323 | γ; _γ: C 0.0245, Fe 0.90031, N 0.075189_ | unspecified | [1] Göhring 2016 | Table V, p. 10, row 2; `ORC-7V7UJ6Z5IN` |  |
+| Phase composition |  | 1323 | γ; _γ: C 0.024339, Fe 0.892179, N 0.083482_ | experimental | [1] Göhring 2016; _cites Schenck 1963_ | Table V, p. 10, row 1; `ORC-C6IGKQFSST` |  |
+| Phase composition |  | 1373 | γ; _γ: C 0.018886, Fe 0.898302, N 0.082812_ | experimental | [1] Göhring 2016; _cites Schenck 1963_ | Table V, p. 10, row 3; `ORC-CKSLNVVXU7` |  |
+| Phase composition |  | 1373 | γ; _γ: C 0.031972, Fe 0.890532, N 0.077496_ | experimental | [1] Göhring 2016; _cites Schenck 1963_ | Table V, p. 10, row 5; `ORC-MXXY3EZUP6` |  |
+| Phase composition |  | 1373 | γ; _γ: C 0.032237, Fe 0.900682, N 0.067081_ | unspecified | [1] Göhring 2016 | Table V, p. 10, row 6; `ORC-OTWLNY57Y7` |  |
+| Phase composition |  | 1373 | γ; _γ: C 0.019001, Fe 0.905828, N 0.075171_ | unspecified | [1] Göhring 2016 | Table V, p. 10, row 4; `ORC-UTOFLXLYAV` |  |
+| Phase composition |  | 1423 | γ; _γ: C 0.032494, Fe 0.89418, N 0.073326_ | experimental | [1] Göhring 2016; _cites Schenck 1963_ | Table V, p. 10, row 11; `ORC-3PPONYIGML` |  |
+| Phase composition |  | 1423 | γ; _γ: C 0.032719, Fe 0.902677, N 0.064604_ | unspecified | [1] Göhring 2016 | Table V, p. 10, row 14; `ORC-CM2RSO7FGS` |  |
+| Phase composition |  | 1423 | γ; _γ: C 0.021626, Fe 0.907906, N 0.070468_ | unspecified | [1] Göhring 2016 | Table V, p. 10, row 10; `ORC-GO6YYP2FQF` |  |
+| Phase composition |  | 1423 | γ; _γ: C 0.018617, Fe 0.908989, N 0.072394_ | unspecified | [1] Göhring 2016 | Table V, p. 10, row 8; `ORC-LJKKHJC4QC` |  |
+| Phase composition |  | 1423 | γ; _γ: C 0.032548, Fe 0.896208, N 0.071244_ | experimental | [1] Göhring 2016; _cites Schenck 1963_ | Table V, p. 10, row 13; `ORC-MMUOCA34KM` |  |
+| Phase composition |  | 1423 | γ; _γ: C 0.018498, Fe 0.901083, N 0.080418_ | experimental | [1] Göhring 2016; _cites Schenck 1963_ | Table V, p. 10, row 7; `ORC-XSLOUME4A6` |  |
+| Phase composition |  | 1423 | γ; _γ: C 0.021459, Fe 0.898312, N 0.080229_ | experimental | [1] Göhring 2016; _cites Schenck 1963_ | Table V, p. 10, row 9; `ORC-ZSRYROQSOU` |  |
+| Phase composition |  | 1473 | γ; _γ: C 0.021524, Fe 0.902063, N 0.076412_ | experimental | [1] Göhring 2016; _cites Schenck 1963_ | Table V, p. 10, row 17; `ORC-3HR6Z4AJO4` |  |
+| Phase composition |  | 1473 | γ; _γ: C 0.033437, Fe 0.897455, N 0.069108_ | experimental | [1] Göhring 2016; _cites Schenck 1963_ | Table V, p. 10, row 19; `ORC-5A62MARMDJ` |  |
+| Phase composition |  | 1473 | γ; _γ: C 0.021662, Fe 0.909981, N 0.068357_ | unspecified | [1] Göhring 2016 | Table V, p. 10, row 18; `ORC-5UOHQUZODY` |  |
+| Phase composition |  | 1473 | γ; _γ: C 0.019945, Fe 0.910899, N 0.069155_ | unspecified | [1] Göhring 2016 | Table V, p. 10, row 16; `ORC-JNVJM6OMI5` |  |
+| Phase composition |  | 1473 | γ; _γ: C 0.033623, Fe 0.904279, N 0.062098_ | unspecified | [1] Göhring 2016 | Table V, p. 10, row 20; `ORC-RSN5MDBDBX` |  |
+| Phase composition |  | 1473 | γ; _γ: C 0.019824, Fe 0.903312, N 0.076864_ | experimental | [1] Göhring 2016; _cites Schenck 1963_ | Table V, p. 10, row 15; `ORC-SEUNXTXM52` |  |
 
 ## Sources
 
@@ -114,4 +114,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -29,18 +29,18 @@ Table: Invariant reactions reported in the literature for the Gd–Li–Mg syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1101.15 | quasi-peritectic: L′ + (αGd) = (βGd) + L | L′: Gd 0.56, Mg 0.16; L: Gd 0.05, Mg 0.077; liquid: Gd 0.05, Mg 0.077 | model | [1] Kevorkov 2001 | Table 4, p. 6, row 1 |  |
-| 1083.15 | other: L′ = L + GdMg | L′: Gd 0.363, Mg 0.381; L: Gd 0.061, Mg 0.233; L': Gd 0.363, Mg 0.381 | model | [1] Kevorkov 2001 | Table 4, p. 6, row 2 |  |
-| 1064.15 | eutectic: L′ = L + (βGd) + GdMg |  | experimental | [1] Kevorkov 2001 | Table 4, p. 6, row 3 |  |
-| 1064.15 | eutectic: L′ = L + (βGd) + GdMg | L′: Gd 0.561, Mg 0.294; L: Gd 0.049, Mg 0.152; liquid: Gd 0.049, Mg 0.152 | model | [1] Kevorkov 2001 | Table 4, p. 6, row 4 |  |
-| 1025.15 | other: (L′, L) + GdMg | liquid: Gd 0.127, Mg 0.48; (L′, L): Gd 0.127, Mg 0.48 | model | [1] Kevorkov 2001 | Table 4, p. 6, row 5 |  |
-| 980.15 | eutectic: (βGd) = L + (αGd) + GdMg | L: Gd 0.024, Mg 0.089; liquid: Gd 0.024, Mg 0.089 | model | [1] Kevorkov 2001 | Table 4, p. 6, row 7 |  |
-| 968.15 | eutectic: (βGd) = L + (αGd) + GdMg |  | experimental | [1] Kevorkov 2001 | Table 4, p. 6, row 6 |  |
-| 849.15 | quasi-peritectic: L + (Li) = GdMg3 + (Mg) | L: Gd 0.056, Mg 0.841; liquid: Gd 0.056, Mg 0.841 | model | [1] Kevorkov 2001 | Table 4, p. 6, row 8 |  |
-| 847.15 | eutectic: L = GdMg5 + GdMg3 + (Mg) | L: Gd 0.073, Mg 0.893; liquid: Gd 0.073, Mg 0.893 | model | [1] Kevorkov 2001 | Table 4, p. 6, row 9 |  |
-| 747.15 | quasi-peritectic: L + GdMg3 = GdMg2 + (Li) | L: Gd 0.002, Mg 0.38; liquid: Gd 0.002, Mg 0.38 | model | [1] Kevorkov 2001 | Table 4, p. 6, row 10 |  |
-| 654.15 | quasi-peritectic: L + GdMg2 = GdMg + (Li) | L: Gd 3.000e-4, Mg 0.267; liquid: Gd 3.000e-4, Mg 0.267 | model | [1] Kevorkov 2001 | Table 4, p. 6, row 11 |  |
-| 454.15 | quasi-peritectic: L + GdMg = (αGd) + (Li) | L: Gd 0.001, Mg 3.000e-5; liquid: Gd 0.001, Mg 3.000e-5 | model | [1] Kevorkov 2001 | Table 4, p. 6, row 12 |  |
+| 1101.15 | quasi-peritectic: L′ + (αGd) = (βGd) + L | L′: Gd 0.56, Mg 0.16; L: Gd 0.05, Mg 0.077; liquid: Gd 0.05, Mg 0.077 | model | [1] Kevorkov 2001 | Table 4, p. 6, row 1; `ORC-IKCDOYDHE2` |  |
+| 1083.15 | other: L′ = L + GdMg | L′: Gd 0.363, Mg 0.381; L: Gd 0.061, Mg 0.233; L': Gd 0.363, Mg 0.381 | model | [1] Kevorkov 2001 | Table 4, p. 6, row 2; `ORC-I5CWLS25WQ` |  |
+| 1064.15 | eutectic: L′ = L + (βGd) + GdMg |  | experimental | [1] Kevorkov 2001 | Table 4, p. 6, row 3; `ORC-IXWY45LMXG` |  |
+| 1064.15 | eutectic: L′ = L + (βGd) + GdMg | L′: Gd 0.561, Mg 0.294; L: Gd 0.049, Mg 0.152; liquid: Gd 0.049, Mg 0.152 | model | [1] Kevorkov 2001 | Table 4, p. 6, row 4; `ORC-K4TYTX6BHM` |  |
+| 1025.15 | other: (L′, L) + GdMg | liquid: Gd 0.127, Mg 0.48; (L′, L): Gd 0.127, Mg 0.48 | model | [1] Kevorkov 2001 | Table 4, p. 6, row 5; `ORC-ZKVBKFBXG5` |  |
+| 980.15 | eutectic: (βGd) = L + (αGd) + GdMg | L: Gd 0.024, Mg 0.089; liquid: Gd 0.024, Mg 0.089 | model | [1] Kevorkov 2001 | Table 4, p. 6, row 7; `ORC-3I2TDQZOJU` |  |
+| 968.15 | eutectic: (βGd) = L + (αGd) + GdMg |  | experimental | [1] Kevorkov 2001 | Table 4, p. 6, row 6; `ORC-CWUVNYTYSF` |  |
+| 849.15 | quasi-peritectic: L + (Li) = GdMg3 + (Mg) | L: Gd 0.056, Mg 0.841; liquid: Gd 0.056, Mg 0.841 | model | [1] Kevorkov 2001 | Table 4, p. 6, row 8; `ORC-VWHKQJNDUB` |  |
+| 847.15 | eutectic: L = GdMg5 + GdMg3 + (Mg) | L: Gd 0.073, Mg 0.893; liquid: Gd 0.073, Mg 0.893 | model | [1] Kevorkov 2001 | Table 4, p. 6, row 9; `ORC-WGIOLQYKH5` |  |
+| 747.15 | quasi-peritectic: L + GdMg3 = GdMg2 + (Li) | L: Gd 0.002, Mg 0.38; liquid: Gd 0.002, Mg 0.38 | model | [1] Kevorkov 2001 | Table 4, p. 6, row 10; `ORC-PLOTJWHITM` |  |
+| 654.15 | quasi-peritectic: L + GdMg2 = GdMg + (Li) | L: Gd 3.000e-4, Mg 0.267; liquid: Gd 3.000e-4, Mg 0.267 | model | [1] Kevorkov 2001 | Table 4, p. 6, row 11; `ORC-X44X7TT3UE` |  |
+| 454.15 | quasi-peritectic: L + GdMg = (αGd) + (Li) | L: Gd 0.001, Mg 3.000e-5; liquid: Gd 0.001, Mg 3.000e-5 | model | [1] Kevorkov 2001 | Table 4, p. 6, row 12; `ORC-QGFUIAAVD7` |  |
 
 ## Other properties
 
@@ -50,14 +50,14 @@ Table: Phase transition, Gd–Li–Mg system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 960.15 K | 960.15 | (βGd) = L + (αGd) + GdMg; _alloy: Gd 0.41, Li 0.3, Mg 0.29_ | experimental | [1] Kevorkov 2001 | Table 3, p. 3, row 9 |  |
-| Phase transition | 968.15 K | 968.15 | (βGd) = L + (αGd) + GdMg; _alloy: Gd 0.41, Li 0.3, Mg 0.29_ | experimental | [1] Kevorkov 2001 | Table 3, p. 3, row 8 |  |
-| Phase transition | 1064.15 K | 1064.15 | L′ = L + (βGd) + GdMg; _alloy: Gd 0.41, Li 0.3, Mg 0.29_ | experimental | [1] Kevorkov 2001 | Table 3, p. 3, row 7 |  |
-| Phase transition | 1065.15 K | 1065.15 | L′ = L + (βGd) + GdMg; _alloy: Gd 0.41, Li 0.3, Mg 0.29_ | experimental | [1] Kevorkov 2001 | Table 3, p. 3, row 6 |  |
-| Phase transition | 1114.15 K | 1114.15 | ? (small peak); _alloy: Gd 0.41, Li 0.3, Mg 0.29_ | experimental | [1] Kevorkov 2001 | Table 3, p. 3, row 4 |  |
-| Phase transition | 1118.15 K | 1118.15 | ? (small peak); _alloy: Gd 0.41, Li 0.3, Mg 0.29_ | experimental | [1] Kevorkov 2001 | Table 3, p. 3, row 3 |  |
-| Phase transition | 1119.15 K | 1119.15 | L/L + L' (small peak); _alloy: Gd 0.41, Li 0.3, Mg 0.29_ | experimental | [1] Kevorkov 2001 | Table 3, p. 3, row 2 |  |
-| Phase transition | 1125.15 K | 1125.15 | L/L + L' (small peak); _alloy: Gd 0.41, Li 0.3, Mg 0.29_ | experimental | [1] Kevorkov 2001 | Table 3, p. 3, row 1 |  |
+| Phase transition | 960.15 K | 960.15 | (βGd) = L + (αGd) + GdMg; _alloy: Gd 0.41, Li 0.3, Mg 0.29_ | experimental | [1] Kevorkov 2001 | Table 3, p. 3, row 9; `ORC-4T3KOFMX7K` |  |
+| Phase transition | 968.15 K | 968.15 | (βGd) = L + (αGd) + GdMg; _alloy: Gd 0.41, Li 0.3, Mg 0.29_ | experimental | [1] Kevorkov 2001 | Table 3, p. 3, row 8; `ORC-YPGQADRXZK` |  |
+| Phase transition | 1064.15 K | 1064.15 | L′ = L + (βGd) + GdMg; _alloy: Gd 0.41, Li 0.3, Mg 0.29_ | experimental | [1] Kevorkov 2001 | Table 3, p. 3, row 7; `ORC-FDDHC3COX7` |  |
+| Phase transition | 1065.15 K | 1065.15 | L′ = L + (βGd) + GdMg; _alloy: Gd 0.41, Li 0.3, Mg 0.29_ | experimental | [1] Kevorkov 2001 | Table 3, p. 3, row 6; `ORC-22QBLAGLZY` |  |
+| Phase transition | 1114.15 K | 1114.15 | ? (small peak); _alloy: Gd 0.41, Li 0.3, Mg 0.29_ | experimental | [1] Kevorkov 2001 | Table 3, p. 3, row 4; `ORC-BNSANRKQ4G` |  |
+| Phase transition | 1118.15 K | 1118.15 | ? (small peak); _alloy: Gd 0.41, Li 0.3, Mg 0.29_ | experimental | [1] Kevorkov 2001 | Table 3, p. 3, row 3; `ORC-UGKHMYLUSZ` |  |
+| Phase transition | 1119.15 K | 1119.15 | L/L + L' (small peak); _alloy: Gd 0.41, Li 0.3, Mg 0.29_ | experimental | [1] Kevorkov 2001 | Table 3, p. 3, row 2; `ORC-NMICHHLNYC` |  |
+| Phase transition | 1125.15 K | 1125.15 | L/L + L' (small peak); _alloy: Gd 0.41, Li 0.3, Mg 0.29_ | experimental | [1] Kevorkov 2001 | Table 3, p. 3, row 1; `ORC-77AZGDFRX4` |  |
 
 ### Crystal structure (3)
 
@@ -65,9 +65,9 @@ Table: Crystal structure, Gd–Li–Mg system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.3807 not_printed ± 1.000e-4 | 298.15 | Gd (Mg0.9, Li0.1); _alloy: Li 0.05, Mg 0.45_ | experimental | [1] Kevorkov 2001 | Table 2, p. 3, row 3 |  |
-| Lattice a | 0.8562 not_printed ± 5.000e-4 | 298.15 | Gd (Mg1.9, Li0.09); _alloy: Li 0.0301, Mg 0.635452_ | experimental | [1] Kevorkov 2001 | Table 2, p. 3, row 6 |  |
-| Lattice a | 0.7305 not_printed ± 2.000e-4 | 298.15 | Gd (Mg2.8, Li0.2); _alloy: Li 0.05, Mg 0.7_ | experimental | [1] Kevorkov 2001 | Table 2, p. 3, row 9 |  |
+| Lattice a | 0.3807 not_printed ± 1.000e-4 | 298.15 | Gd (Mg0.9, Li0.1); _alloy: Li 0.05, Mg 0.45_ | experimental | [1] Kevorkov 2001 | Table 2, p. 3, row 3; `ORC-6WNGCA7CSL` |  |
+| Lattice a | 0.8562 not_printed ± 5.000e-4 | 298.15 | Gd (Mg1.9, Li0.09); _alloy: Li 0.0301, Mg 0.635452_ | experimental | [1] Kevorkov 2001 | Table 2, p. 3, row 6; `ORC-YMDSU6BMSW` |  |
+| Lattice a | 0.7305 not_printed ± 2.000e-4 | 298.15 | Gd (Mg2.8, Li0.2); _alloy: Li 0.05, Mg 0.7_ | experimental | [1] Kevorkov 2001 | Table 2, p. 3, row 9; `ORC-IAWL46CZFL` |  |
 
 ## Sources
 
@@ -110,4 +110,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

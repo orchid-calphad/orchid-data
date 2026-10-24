@@ -14,13 +14,13 @@ Table: Enthalpy of formation of Cr5Ga6 reported in the literature (7)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -4.7 kJ/mol-atom | Cr5Ga6 | 850 | experimental |  | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Gröbner 1999; _cites Gonchuruk 1981_ | Table 1, p. 2, row 47 |  |
-| -4.7 kJ/mol (basis unstated) | Cr5Ga6 | 298.15 | experimental | EMF | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [2] Belgacem-Bouzida 2005; _cites Goncharuk 1981_ | Table 4, p. 4, row 10 |  |
-| -15.15 kJ/mol-atom | Cr5Ga6 | 298.15 | model |  | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Gröbner 1999 | Table 1, p. 2, row 48 |  |
-| -15.15 kJ/mol (basis unstated) | Cr5Ga6 |  | model | Assessed | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [2] Belgacem-Bouzida 2005; _cites Grobner 1999_ [doi](https://doi.org/10.1361/105497199770340608) | Table 4, p. 4, row 11 |  |
-| -15 kJ/mol (basis unstated) | Cr5Ga6 |  | model | Semi-empirical model | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [2] Belgacem-Bouzida 2005; _cites Djaballah 1999_ | Table 4, p. 4, row 12 |  |
-| -15 kJ/mol-atom | Cr5Ga6 | 298.15 | model |  | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Gröbner 1999; _cites F 1988_ | Table 1, p. 2, row 49 |  |
-| -12.31 kJ/mol (basis unstated) | Cr5Ga6 |  | model | Assessed | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [2] Belgacem-Bouzida 2005 | Table 4, p. 4, row 13 |  |
+| -4.7 kJ/mol-atom | Cr5Ga6 | 850 | experimental |  | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Gröbner 1999; _cites Gonchuruk 1981_ | Table 1, p. 2, row 47; `ORC-KLXBROIIET` |  |
+| -4.7 kJ/mol (basis unstated) | Cr5Ga6 | 298.15 | experimental | EMF | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [2] Belgacem-Bouzida 2005; _cites Goncharuk 1981_ | Table 4, p. 4, row 10; `ORC-ZXJAILDJIL.35d9e5` |  |
+| -15.15 kJ/mol-atom | Cr5Ga6 | 298.15 | model |  | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Gröbner 1999 | Table 1, p. 2, row 48; `ORC-WVUHLIPTRD` |  |
+| -15.15 kJ/mol (basis unstated) | Cr5Ga6 |  | model | Assessed | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [2] Belgacem-Bouzida 2005; _cites Grobner 1999_ [doi](https://doi.org/10.1361/105497199770340608) | Table 4, p. 4, row 11; `ORC-Y6TCZY3IMC.285f2c` |  |
+| -15 kJ/mol (basis unstated) | Cr5Ga6 |  | model | Semi-empirical model | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [2] Belgacem-Bouzida 2005; _cites Djaballah 1999_ | Table 4, p. 4, row 12; `ORC-CI6UGP7Q7R.0aa357` |  |
+| -15 kJ/mol-atom | Cr5Ga6 | 298.15 | model |  | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Gröbner 1999; _cites F 1988_ | Table 1, p. 2, row 49; `ORC-VY6XNWUGCN` |  |
+| -12.31 kJ/mol (basis unstated) | Cr5Ga6 |  | model | Assessed | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [2] Belgacem-Bouzida 2005 | Table 4, p. 4, row 13; `ORC-BOASBF7OYK.46886a` |  |
 
 ### Uncertainty budget
 
@@ -90,4 +90,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

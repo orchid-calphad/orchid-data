@@ -94,32 +94,32 @@ Table: Invariant reactions reported in the literature for the Co–La system (26
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1548.15 | peritectic: L + fcc (Co) -> Co13La | L: Co 0.81; fcc (Co): Co 0.999; Co13La: Co 0.929 | experimental | [1] Wang 2008; _cites Ray 1974_ | Table 2, p. 5, row 2 |  |
-| 1458.15 | peritectic: L + fcc (Co) -> Co13La | L: Co 0.803; fcc (Co): Co 0.999; Co13La: Co 0.929 | experimental | [1] Wang 2008; _cites Buschow 1967_ | Table 2, p. 5, row 1 |  |
-| 1458.15 | peritectic: L + fcc (Co) -> Co13La | L: Co 0.789; fcc (Co): Co 0.999; Co13La: Co 0.929 | model | [1] Wang 2008 | Table 2, p. 5, row 3 |  |
-| 1397.15 | peritectic: L + Co13La -> Co5La | L: Co 0.73; Co13La: Co 0.929; Co5La: Co 0.834 | experimental | [1] Wang 2008; _cites Ray 1974_ | Table 2, p. 5, row 5 |  |
-| 1363.15 | peritectic: L + Co13La -> Co5La | L: Co 0.699; Co13La: Co 0.929; Co5La: Co 0.834 | model | [1] Wang 2008 | Table 2, p. 5, row 6 |  |
-| 1363.15 | peritectic: L + Co13La -> Co5La | L: Co 0.717; Co13La: Co 0.929; Co5La: Co 0.834 | experimental | [1] Wang 2008; _cites Buschow 1967_ | Table 2, p. 5, row 4 |  |
-| 1141.15 | peritectic: L + Co5La -> Co19La5 | L: Co 0.557; Co5La: Co 0.834; Co19La5: Co 0.791 | model | [1] Wang 2008 | Table 2, p. 5, row 8 |  |
-| 1141.15 | peritectic: L + Co5La -> Co19La5 | L: Co 0.552; Co5La: Co 0.834; Co19La5: Co 0.791 | experimental | [1] Wang 2008; _cites Ray 1974_ | Table 2, p. 5, row 7 |  |
-| 1116.15 | peritectic: L + Co19La5 -> Co7La2 | L: Co 0.543; Co19La5: Co 0.791; Co7La2: Co 0.778 | experimental | [1] Wang 2008; _cites Ray 1974_ | Table 2, p. 5, row 10 |  |
-| 1073.15 | peritectic: L + Co19La5 -> Co7La2 | L: Co 0.528; Co19La5: Co 0.791; Co7La2: Co 0.778 | experimental | [1] Wang 2008; _cites Buschow 1967_ | Table 2, p. 5, row 9 |  |
-| 1073.15 | peritectic: L + Co19La5 -> Co7La2 | L: Co 0.523; Co19La5: Co 0.791; Co7La2: Co 0.778 | model | [1] Wang 2008 | Table 2, p. 5, row 11 |  |
-| 1000.15 | peritectic: L + Co7La2 -> Co3La2 | L: Co 0.495; Co7La2: Co 0.778; Co3La2: Co 0.6 | experimental | [1] Wang 2008; _cites Ray 1974_ | Table 2, p. 5, row 13 |  |
-| 968.15 | peritectic: L + Co7La2 -> Co3La2 | L: Co 0.481; Co7La2: Co 0.778; Co3La2: Co 0.6 | experimental | [1] Wang 2008; _cites Buschow 1967_ | Table 2, p. 5, row 12 |  |
-| 968.15 | peritectic: L + Co7La2 -> Co3La2 | L: Co 0.476; Co7La2: Co 0.778; Co3La2: Co 0.6 | model | [1] Wang 2008 | Table 2, p. 5, row 14 |  |
-| 869.15 | peritectic: L + Co3La2 -> Co23La27 | L: Co 0.375; Co3La2: Co 0.6; Co23La27: Co 0.46 | experimental | [1] Wang 2008; _cites Ray 1974_ | Table 2, p. 5, row 16 |  |
-| 843.15 | peritectic: L + Co3La2 -> Co23La27 | L: Co 0.376; Co3La2: Co 0.6; Co23La27: Co 0.46 | model | [1] Wang 2008 | Table 2, p. 5, row 17 |  |
-| 843.15 | peritectic: L + Co3La2 -> Co23La27 | L: Co 0.357; Co3La2: Co 0.6; Co23La27: Co 0.46 | experimental | [1] Wang 2008; _cites Buschow 1967_ | Table 2, p. 5, row 15 |  |
-| 818.15 | congruent melting: L -> CoLa3 | CoLa3: Co 0.25 | experimental | [1] Wang 2008; _cites Ray 1974_ | Table 2, p. 5, row 25 |  |
-| 818.15 | congruent melting: L -> CoLa3 | CoLa3: Co 0.25 | experimental | [1] Wang 2008; _cites Buschow 1967_ | Table 2, p. 5, row 24 |  |
-| 816.15 | congruent melting: L -> CoLa3 | CoLa3: Co 0.25 | model | [1] Wang 2008 | Table 2, p. 5, row 26 |  |
-| 796.15 | eutectic: L -> Co23La27 + CoLa3 | L: Co 0.315; Co23La27: Co 0.46; CoLa3: Co 0.25 | model | [1] Wang 2008 | Table 2, p. 5, row 20 |  |
-| 794.15 | eutectic: L -> fcc (La) + CoLa3 | L: Co 0.187; fcc (La): Co 0.001; CoLa3: Co 0.25 | model | [1] Wang 2008 | Table 2, p. 5, row 23 |  |
-| 793.15 | eutectic: L -> fcc (La) + CoLa3 | L: Co 0.2; fcc (La): Co 0.001; CoLa3: Co 0.25 | experimental | [1] Wang 2008; _cites Ray 1974_ | Table 2, p. 5, row 22 |  |
-| 793.15 | eutectic: L -> fcc (La) + CoLa3 | L: Co 0.205; fcc (La): Co 0.001; CoLa3: Co 0.25 | experimental | [1] Wang 2008; _cites Buschow 1967_ | Table 2, p. 5, row 21 |  |
-| 773.15 | eutectic: L -> Co23La27 + CoLa3 | L: Co 0.31; Co23La27: Co 0.46; CoLa3: Co 0.25 | experimental | [1] Wang 2008; _cites Ray 1974_ | Table 2, p. 5, row 19 |  |
-| 773.15 | eutectic: L -> Co23La27 + CoLa3 | L: Co 0.306; Co23La27: Co 0.46; CoLa3: Co 0.25 | experimental | [1] Wang 2008; _cites Buschow 1967_ | Table 2, p. 5, row 18 |  |
+| 1548.15 | peritectic: L + fcc (Co) -> Co13La | L: Co 0.81; fcc (Co): Co 0.999; Co13La: Co 0.929 | experimental | [1] Wang 2008; _cites Ray 1974_ | Table 2, p. 5, row 2; `ORC-YZ4QTD5KLM` |  |
+| 1458.15 | peritectic: L + fcc (Co) -> Co13La | L: Co 0.803; fcc (Co): Co 0.999; Co13La: Co 0.929 | experimental | [1] Wang 2008; _cites Buschow 1967_ | Table 2, p. 5, row 1; `ORC-K753X6U3BZ` |  |
+| 1458.15 | peritectic: L + fcc (Co) -> Co13La | L: Co 0.789; fcc (Co): Co 0.999; Co13La: Co 0.929 | model | [1] Wang 2008 | Table 2, p. 5, row 3; `ORC-NCBOUWR7ML` |  |
+| 1397.15 | peritectic: L + Co13La -> Co5La | L: Co 0.73; Co13La: Co 0.929; Co5La: Co 0.834 | experimental | [1] Wang 2008; _cites Ray 1974_ | Table 2, p. 5, row 5; `ORC-7RXKD7BQIU` |  |
+| 1363.15 | peritectic: L + Co13La -> Co5La | L: Co 0.699; Co13La: Co 0.929; Co5La: Co 0.834 | model | [1] Wang 2008 | Table 2, p. 5, row 6; `ORC-HPURPBRLPS` |  |
+| 1363.15 | peritectic: L + Co13La -> Co5La | L: Co 0.717; Co13La: Co 0.929; Co5La: Co 0.834 | experimental | [1] Wang 2008; _cites Buschow 1967_ | Table 2, p. 5, row 4; `ORC-LAODRSLFQ4` |  |
+| 1141.15 | peritectic: L + Co5La -> Co19La5 | L: Co 0.557; Co5La: Co 0.834; Co19La5: Co 0.791 | model | [1] Wang 2008 | Table 2, p. 5, row 8; `ORC-PVZ2DTYJEV` |  |
+| 1141.15 | peritectic: L + Co5La -> Co19La5 | L: Co 0.552; Co5La: Co 0.834; Co19La5: Co 0.791 | experimental | [1] Wang 2008; _cites Ray 1974_ | Table 2, p. 5, row 7; `ORC-YSUQYNQJHH` |  |
+| 1116.15 | peritectic: L + Co19La5 -> Co7La2 | L: Co 0.543; Co19La5: Co 0.791; Co7La2: Co 0.778 | experimental | [1] Wang 2008; _cites Ray 1974_ | Table 2, p. 5, row 10; `ORC-VOYRCTOKCT` |  |
+| 1073.15 | peritectic: L + Co19La5 -> Co7La2 | L: Co 0.528; Co19La5: Co 0.791; Co7La2: Co 0.778 | experimental | [1] Wang 2008; _cites Buschow 1967_ | Table 2, p. 5, row 9; `ORC-5JL2P6MO4L` |  |
+| 1073.15 | peritectic: L + Co19La5 -> Co7La2 | L: Co 0.523; Co19La5: Co 0.791; Co7La2: Co 0.778 | model | [1] Wang 2008 | Table 2, p. 5, row 11; `ORC-ZCDO7UBL57` |  |
+| 1000.15 | peritectic: L + Co7La2 -> Co3La2 | L: Co 0.495; Co7La2: Co 0.778; Co3La2: Co 0.6 | experimental | [1] Wang 2008; _cites Ray 1974_ | Table 2, p. 5, row 13; `ORC-74LFDQHVA4` |  |
+| 968.15 | peritectic: L + Co7La2 -> Co3La2 | L: Co 0.481; Co7La2: Co 0.778; Co3La2: Co 0.6 | experimental | [1] Wang 2008; _cites Buschow 1967_ | Table 2, p. 5, row 12; `ORC-577KIHDCG6` |  |
+| 968.15 | peritectic: L + Co7La2 -> Co3La2 | L: Co 0.476; Co7La2: Co 0.778; Co3La2: Co 0.6 | model | [1] Wang 2008 | Table 2, p. 5, row 14; `ORC-PESOAXZ2P7` |  |
+| 869.15 | peritectic: L + Co3La2 -> Co23La27 | L: Co 0.375; Co3La2: Co 0.6; Co23La27: Co 0.46 | experimental | [1] Wang 2008; _cites Ray 1974_ | Table 2, p. 5, row 16; `ORC-2MFXZ56DKA` |  |
+| 843.15 | peritectic: L + Co3La2 -> Co23La27 | L: Co 0.376; Co3La2: Co 0.6; Co23La27: Co 0.46 | model | [1] Wang 2008 | Table 2, p. 5, row 17; `ORC-4DIFLCO2K4` |  |
+| 843.15 | peritectic: L + Co3La2 -> Co23La27 | L: Co 0.357; Co3La2: Co 0.6; Co23La27: Co 0.46 | experimental | [1] Wang 2008; _cites Buschow 1967_ | Table 2, p. 5, row 15; `ORC-EK5CGJR3Y5` |  |
+| 818.15 | congruent melting: L -> CoLa3 | CoLa3: Co 0.25 | experimental | [1] Wang 2008; _cites Ray 1974_ | Table 2, p. 5, row 25; `ORC-YK2BMPBJPF` |  |
+| 818.15 | congruent melting: L -> CoLa3 | CoLa3: Co 0.25 | experimental | [1] Wang 2008; _cites Buschow 1967_ | Table 2, p. 5, row 24; `ORC-ZIKWHQKKIS` |  |
+| 816.15 | congruent melting: L -> CoLa3 | CoLa3: Co 0.25 | model | [1] Wang 2008 | Table 2, p. 5, row 26; `ORC-Y2EER4UPG5` |  |
+| 796.15 | eutectic: L -> Co23La27 + CoLa3 | L: Co 0.315; Co23La27: Co 0.46; CoLa3: Co 0.25 | model | [1] Wang 2008 | Table 2, p. 5, row 20; `ORC-XVL5NOYOMJ` |  |
+| 794.15 | eutectic: L -> fcc (La) + CoLa3 | L: Co 0.187; fcc (La): Co 0.001; CoLa3: Co 0.25 | model | [1] Wang 2008 | Table 2, p. 5, row 23; `ORC-UN73IOAS4D` |  |
+| 793.15 | eutectic: L -> fcc (La) + CoLa3 | L: Co 0.2; fcc (La): Co 0.001; CoLa3: Co 0.25 | experimental | [1] Wang 2008; _cites Ray 1974_ | Table 2, p. 5, row 22; `ORC-JMBPFQFJBW` |  |
+| 793.15 | eutectic: L -> fcc (La) + CoLa3 | L: Co 0.205; fcc (La): Co 0.001; CoLa3: Co 0.25 | experimental | [1] Wang 2008; _cites Buschow 1967_ | Table 2, p. 5, row 21; `ORC-QKPPA544QU` |  |
+| 773.15 | eutectic: L -> Co23La27 + CoLa3 | L: Co 0.31; Co23La27: Co 0.46; CoLa3: Co 0.25 | experimental | [1] Wang 2008; _cites Ray 1974_ | Table 2, p. 5, row 19; `ORC-CVDB2BVSQK` |  |
+| 773.15 | eutectic: L -> Co23La27 + CoLa3 | L: Co 0.306; Co23La27: Co 0.46; CoLa3: Co 0.25 | experimental | [1] Wang 2008; _cites Buschow 1967_ | Table 2, p. 5, row 18; `ORC-GPZXIPQTBN` |  |
 
 ## Sources
 
@@ -184,4 +184,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

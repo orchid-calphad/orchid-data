@@ -14,12 +14,12 @@ Table: Enthalpy of formation of Fe17Tm2 reported in the literature (6)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -4.17 kJ/mol-atom ± 0.04 | Fe17Tm2 | 959 | experimental | EMF | [Fe–Tm](https://data.orchid-project.org/systems/FE-TM.html) | [1] Kardellass 2014; _cites Gozzi 2007_ [doi](https://doi.org/10.1021/je7003353) | Table 3, p. 4, row 2 |  |
-| -2.35 kJ/mol-atom | Fe17Tm2 | 298.15 | model | Optimization | [Fe–Tm](https://data.orchid-project.org/systems/FE-TM.html) | [1] Kardellass 2014; _cites Konar 2012_ | Table 3, p. 4, row 4 |  |
-| -2.22 kJ/mol-atom | Fe17Tm2 | 298.15 | model | Prediction | [Fe–Tm](https://data.orchid-project.org/systems/FE-TM.html) | [1] Kardellass 2014; _cites Kardellass 2013_ | Table 3, p. 4, row 1 |  |
-| -2 kJ/mol-atom | Fe17Tm2 | 298.15 | model | Prediction | [Fe–Tm](https://data.orchid-project.org/systems/FE-TM.html) | [1] Kardellass 2014; _cites De 1988_ | Table 3, p. 4, row 3 |  |
-| -0.113 kJ/mol-atom | Fe17Tm2 | 298.15 | model | Optimization | [Fe–Tm](https://data.orchid-project.org/systems/FE-TM.html) | [1] Kardellass 2014 | Table 3, p. 4, row 6 |  |
-| 0.2 kJ/mol-atom | Fe17Tm2 | 298.15 | model | Optimization | [Fe–Tm](https://data.orchid-project.org/systems/FE-TM.html) | [1] Kardellass 2014 | Table 3, p. 4, row 5 |  |
+| -4.17 kJ/mol-atom ± 0.04 | Fe17Tm2 | 959 | experimental | EMF | [Fe–Tm](https://data.orchid-project.org/systems/FE-TM.html) | [1] Kardellass 2014; _cites Gozzi 2007_ [doi](https://doi.org/10.1021/je7003353) | Table 3, p. 4, row 2; `ORC-TF32XM44CY.465c75` |  |
+| -2.35 kJ/mol-atom | Fe17Tm2 | 298.15 | model | Optimization | [Fe–Tm](https://data.orchid-project.org/systems/FE-TM.html) | [1] Kardellass 2014; _cites Konar 2012_ | Table 3, p. 4, row 4; `ORC-V2RQFASPYZ.cdf845` |  |
+| -2.22 kJ/mol-atom | Fe17Tm2 | 298.15 | model | Prediction | [Fe–Tm](https://data.orchid-project.org/systems/FE-TM.html) | [1] Kardellass 2014; _cites Kardellass 2013_ | Table 3, p. 4, row 1; `ORC-VYOR75JX5X.184713` |  |
+| -2 kJ/mol-atom | Fe17Tm2 | 298.15 | model | Prediction | [Fe–Tm](https://data.orchid-project.org/systems/FE-TM.html) | [1] Kardellass 2014; _cites De 1988_ | Table 3, p. 4, row 3; `ORC-XUFQXPK4YJ.334d59` |  |
+| -0.113 kJ/mol-atom | Fe17Tm2 | 298.15 | model | Optimization | [Fe–Tm](https://data.orchid-project.org/systems/FE-TM.html) | [1] Kardellass 2014 | Table 3, p. 4, row 6; `ORC-KVZPQN4KHH.a611a9` |  |
+| 0.2 kJ/mol-atom | Fe17Tm2 | 298.15 | model | Optimization | [Fe–Tm](https://data.orchid-project.org/systems/FE-TM.html) | [1] Kardellass 2014 | Table 3, p. 4, row 5; `ORC-H4NKUXML7D.b09f14` |  |
 
 ### Uncertainty budget
 
@@ -100,4 +100,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

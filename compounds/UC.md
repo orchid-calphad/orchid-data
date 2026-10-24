@@ -14,17 +14,17 @@ Table: Enthalpy of formation of UC reported in the literature (11)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -48.534 kJ/mol-atom | C0.500U0.500 | 298.15 | experimental |  | [C–U](https://data.orchid-project.org/systems/C-U.html) | [1] Chevalier 2001; _cites Storms 1967_ [doi](https://doi.org/10.1016/b978-1-4832-3070-2.50004-5) | Table 21, p. 17, row 7 |  |
-| -48.534 kJ/mol-atom ± 2.092 | C0.500U0.500 | 298.15 | experimental |  | [C–U](https://data.orchid-project.org/systems/C-U.html) | [1] Chevalier 2001; _cites Hultgren 1973_ | Table 21, p. 17, row 9 |  |
-| -48.534 kJ/mol-atom | UC | 298.15 | experimental |  | [C–U](https://data.orchid-project.org/systems/C-U.html) | [1] Chevalier 2001; _cites Storms 1965_ | Table 21, p. 17, row 6 |  |
-| -47.488 kJ/mol-atom ± 0.628 | C0.500U0.500 | 298.15 | experimental |  | [C–U](https://data.orchid-project.org/systems/C-U.html) | [1] Chevalier 2001; _cites Tetenbaum 1971_ [doi](https://doi.org/10.1016/0022-3115%2871%2990121-8) | Table 21, p. 17, row 8 |  |
-| -46.861 kJ/mol-atom | C0.500U0.500 | 298.15 | experimental |  | [C–U](https://data.orchid-project.org/systems/C-U.html) | [1] Chevalier 2001; _cites Vozella 1964_ | Table 21, p. 17, row 4 |  |
-| -43.932 kJ/mol-atom ± 2.092 | UC | 298.15 | experimental |  | [C–U](https://data.orchid-project.org/systems/C-U.html) | [1] Chevalier 2001; _cites Farr 1959_ [doi](https://doi.org/10.1021/j150579a030) | Table 21, p. 17, row 1 |  |
-| -41.422 kJ/mol-atom | UC | 298.15 | experimental |  | [C–U](https://data.orchid-project.org/systems/C-U.html) | [1] Chevalier 2001; _cites Droege 1959_ | Table 21, p. 17, row 2 |  |
-| -35.146 kJ/mol-atom | UC | 298.15 | experimental |  | [C–U](https://data.orchid-project.org/systems/C-U.html) | [1] Chevalier 2001; _cites Robinson 1964_ | Table 21, p. 17, row 5 |  |
-| -34.727 kJ/mol-atom | C0.500U0.500 | 298.15 | experimental |  | [C–U](https://data.orchid-project.org/systems/C-U.html) | [1] Chevalier 2001; _cites Alcock 1962_ | Table 21, p. 17, row 3 |  |
-| -48.534 kJ/mol-atom | C0.500U0.500(fcc_B1, δ) | 298.15 | model |  | [C–U](https://data.orchid-project.org/systems/C-U.html) | [1] Chevalier 2001 | Table 34, p. 28, row 1 |  |
-| -48.534 kJ/mol-atom | C0.500U0.500 | 298.15 | model |  | [C–U](https://data.orchid-project.org/systems/C-U.html) | [1] Chevalier 2001 | Table 21, p. 17, row 10 |  |
+| -48.534 kJ/mol-atom | C0.500U0.500 | 298.15 | experimental |  | [C–U](https://data.orchid-project.org/systems/C-U.html) | [1] Chevalier 2001; _cites Storms 1967_ [doi](https://doi.org/10.1016/b978-1-4832-3070-2.50004-5) | Table 21, p. 17, row 7; `ORC-7NYE2G6FHN.acbd39` |  |
+| -48.534 kJ/mol-atom ± 2.092 | C0.500U0.500 | 298.15 | experimental |  | [C–U](https://data.orchid-project.org/systems/C-U.html) | [1] Chevalier 2001; _cites Hultgren 1973_ | Table 21, p. 17, row 9; `ORC-B67LEUD767.24c645` |  |
+| -48.534 kJ/mol-atom | UC | 298.15 | experimental |  | [C–U](https://data.orchid-project.org/systems/C-U.html) | [1] Chevalier 2001; _cites Storms 1965_ | Table 21, p. 17, row 6; `ORC-N3WRTWYLYG.53767b` |  |
+| -47.488 kJ/mol-atom ± 0.628 | C0.500U0.500 | 298.15 | experimental |  | [C–U](https://data.orchid-project.org/systems/C-U.html) | [1] Chevalier 2001; _cites Tetenbaum 1971_ [doi](https://doi.org/10.1016/0022-3115%2871%2990121-8) | Table 21, p. 17, row 8; `ORC-FTQTR7ALWZ.02b0d4` |  |
+| -46.861 kJ/mol-atom | C0.500U0.500 | 298.15 | experimental |  | [C–U](https://data.orchid-project.org/systems/C-U.html) | [1] Chevalier 2001; _cites Vozella 1964_ | Table 21, p. 17, row 4; `ORC-LWYUALS5RO.8cd5ea` |  |
+| -43.932 kJ/mol-atom ± 2.092 | UC | 298.15 | experimental |  | [C–U](https://data.orchid-project.org/systems/C-U.html) | [1] Chevalier 2001; _cites Farr 1959_ [doi](https://doi.org/10.1021/j150579a030) | Table 21, p. 17, row 1; `ORC-OZSIMP67VN.9c5fc2` |  |
+| -41.422 kJ/mol-atom | UC | 298.15 | experimental |  | [C–U](https://data.orchid-project.org/systems/C-U.html) | [1] Chevalier 2001; _cites Droege 1959_ | Table 21, p. 17, row 2; `ORC-MNSGFN7TUF.62673d` |  |
+| -35.146 kJ/mol-atom | UC | 298.15 | experimental |  | [C–U](https://data.orchid-project.org/systems/C-U.html) | [1] Chevalier 2001; _cites Robinson 1964_ | Table 21, p. 17, row 5; `ORC-P43WX2TIGN.28230e` |  |
+| -34.727 kJ/mol-atom | C0.500U0.500 | 298.15 | experimental |  | [C–U](https://data.orchid-project.org/systems/C-U.html) | [1] Chevalier 2001; _cites Alcock 1962_ | Table 21, p. 17, row 3; `ORC-T7MNBZZVXK.2b6e43` |  |
+| -48.534 kJ/mol-atom | C0.500U0.500(fcc_B1, δ) | 298.15 | model |  | [C–U](https://data.orchid-project.org/systems/C-U.html) | [1] Chevalier 2001 | Table 34, p. 28, row 1; `ORC-2Z5YUBCJLO.378a2d` |  |
+| -48.534 kJ/mol-atom | C0.500U0.500 | 298.15 | model |  | [C–U](https://data.orchid-project.org/systems/C-U.html) | [1] Chevalier 2001 | Table 21, p. 17, row 10; `ORC-TY4CSBSDDO.64ba3e` |  |
 
 ### Uncertainty budget
 
@@ -110,4 +110,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

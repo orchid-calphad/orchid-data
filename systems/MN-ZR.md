@@ -73,13 +73,13 @@ Table: Invariant reactions reported in the literature for the Mn–Zr system (7)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1730 | congruent melting: Mn2Zr -> Liquid | Mn2Zr: Zr 0.345; Liquid: Zr 0.345 | unspecified | [1] Hämäläinen 1998 | Table I, p. 263, row 7 |  |
-| 1424.1 | eutectic: Liquid -> Mn2Zr + bcc-A2 | Liquid: Zr 0.694; Mn2Zr: Zr 0.535; bcc-A2: Zr 0.911 | unspecified | [1] Hämäläinen 1998 | Table I, p. 263, row 5 |  |
-| 1421.9 | eutectic: Liquid -> bcc-A2 + Mn2Zr | Liquid: Zr 0.071; bcc-A2: Zr 0.018; Mn2Zr: Zr 0.236 | unspecified | [1] Hämäläinen 1998 | Table I, p. 263, row 1 |  |
-| 1359.1 | metatectic/catatectic: fcc-A1 -> bcc-A2 + cub-A13 | fcc-A1: Zr 3.000e-4; bcc-A2: Zr 2.000e-4; cub-A13: Zr 0.0062 | unspecified | [1] Hämäläinen 1998 | Table I, p. 263, row 3 |  |
-| 1334.5 | eutectoid: bcc-A2 -> + cub-A13 + Mn2Zr | bcc-A2: Zr 0.012; cub-A13: Zr 0; Mn2Zr: Zr 0.213 | unspecified | [1] Hämäläinen 1998 | Table I, p. 263, row 2 |  |
-| 1075.4 | eutectoid: bcc-A2 -> Mn2Zr + hcp-A3 | bcc-A2: Zr 0.971; Mn2Zr: Zr 0.54; hcp-A3: Zr 0.998 | unspecified | [1] Hämäläinen 1998 | Table I, p. 263, row 6 |  |
-| 980.1 | other: cub-A13 -> cbcc-A12 + Mn2Zr | cub-A13: Zr 0; cbcc-A12: Zr 0; Mn2Zr: Zr 0.179 | unspecified | [1] Hämäläinen 1998 | Table I, p. 263, row 4 |  |
+| 1730 | congruent melting: Mn2Zr -> Liquid | Mn2Zr: Zr 0.345; Liquid: Zr 0.345 | unspecified | [1] Hämäläinen 1998 | Table I, p. 263, row 7; `ORC-R5XNQAQFWK` |  |
+| 1424.1 | eutectic: Liquid -> Mn2Zr + bcc-A2 | Liquid: Zr 0.694; Mn2Zr: Zr 0.535; bcc-A2: Zr 0.911 | unspecified | [1] Hämäläinen 1998 | Table I, p. 263, row 5; `ORC-RQGGDTXMUL` |  |
+| 1421.9 | eutectic: Liquid -> bcc-A2 + Mn2Zr | Liquid: Zr 0.071; bcc-A2: Zr 0.018; Mn2Zr: Zr 0.236 | unspecified | [1] Hämäläinen 1998 | Table I, p. 263, row 1; `ORC-2P5VZFU3QI` |  |
+| 1359.1 | metatectic/catatectic: fcc-A1 -> bcc-A2 + cub-A13 | fcc-A1: Zr 3.000e-4; bcc-A2: Zr 2.000e-4; cub-A13: Zr 0.0062 | unspecified | [1] Hämäläinen 1998 | Table I, p. 263, row 3; `ORC-36HJAUHSOR` |  |
+| 1334.5 | eutectoid: bcc-A2 -> + cub-A13 + Mn2Zr | bcc-A2: Zr 0.012; cub-A13: Zr 0; Mn2Zr: Zr 0.213 | unspecified | [1] Hämäläinen 1998 | Table I, p. 263, row 2; `ORC-CSZC4TM7AP` |  |
+| 1075.4 | eutectoid: bcc-A2 -> Mn2Zr + hcp-A3 | bcc-A2: Zr 0.971; Mn2Zr: Zr 0.54; hcp-A3: Zr 0.998 | unspecified | [1] Hämäläinen 1998 | Table I, p. 263, row 6; `ORC-2OJQFOOWFC` |  |
+| 980.1 | other: cub-A13 -> cbcc-A12 + Mn2Zr | cub-A13: Zr 0; cbcc-A12: Zr 0; Mn2Zr: Zr 0.179 | unspecified | [1] Hämäläinen 1998 | Table I, p. 263, row 4; `ORC-3UMRFOAIRZ` |  |
 
 ## Sources
 
@@ -144,4 +144,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

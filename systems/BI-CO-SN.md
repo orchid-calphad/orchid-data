@@ -28,12 +28,12 @@ Table: Invariant reactions reported in the literature for the Bi–Co–Sn syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1210.5 | quasi-peritectic: L + FCC_A1 -> L + Co3Sn2 | L: Bi 0.270395, Co 0.399977, Sn 0.329628 | model | [1] Hu 2022 | Table 6, p. 18, row 1 |  |
-| 1059.03 | quasi-peritectic: L + Co3Sn2 -> L + CoSn | L: Bi 0.427373, Co 0.115851, Sn 0.456776 | model | [1] Hu 2022 | Table 6, p. 18, row 2 |  |
-| 544.33 | quasi-peritectic: L + Co3Sn2 -> CoSn + RHOMBO_A7 | L: Bi 0.998867, Co 0, Sn 0.001133 | model | [1] Hu 2022 | Table 6, p. 18, row 3 |  |
-| 482.92 | quasi-peritectic: L + CoSn -> CoSn2 + RHOMBO_A7 | L: Bi 0.696868, Co 0, Sn 0.303132 | model | [1] Hu 2022 | Table 6, p. 18, row 4 |  |
-| 430.59 | quasi-peritectic: L + CoSn2 -> CoSn3 + RHOMBO_A7 | L: Bi 0.463808, Co 2.000e-6, Sn 0.536189 | model | [1] Hu 2022 | Table 6, p. 18, row 5 |  |
-| 411.55 | eutectic: L -> CoSn3 + RHOMBO_A7 + BCT_A5 | L: Bi 0.388626, Co 8.000e-6, Sn 0.611366 | model | [1] Hu 2022 | Table 6, p. 18, row 6 |  |
+| 1210.5 | quasi-peritectic: L + FCC_A1 -> L + Co3Sn2 | L: Bi 0.270395, Co 0.399977, Sn 0.329628 | model | [1] Hu 2022 | Table 6, p. 18, row 1; `ORC-4DHG77VDC2` |  |
+| 1059.03 | quasi-peritectic: L + Co3Sn2 -> L + CoSn | L: Bi 0.427373, Co 0.115851, Sn 0.456776 | model | [1] Hu 2022 | Table 6, p. 18, row 2; `ORC-VKPEU6XHWA` |  |
+| 544.33 | quasi-peritectic: L + Co3Sn2 -> CoSn + RHOMBO_A7 | L: Bi 0.998867, Co 0, Sn 0.001133 | model | [1] Hu 2022 | Table 6, p. 18, row 3; `ORC-EH6XBJNFMV` |  |
+| 482.92 | quasi-peritectic: L + CoSn -> CoSn2 + RHOMBO_A7 | L: Bi 0.696868, Co 0, Sn 0.303132 | model | [1] Hu 2022 | Table 6, p. 18, row 4; `ORC-XVFPSS4V46` |  |
+| 430.59 | quasi-peritectic: L + CoSn2 -> CoSn3 + RHOMBO_A7 | L: Bi 0.463808, Co 2.000e-6, Sn 0.536189 | model | [1] Hu 2022 | Table 6, p. 18, row 5; `ORC-IDTLPBZW5L` |  |
+| 411.55 | eutectic: L -> CoSn3 + RHOMBO_A7 + BCT_A5 | L: Bi 0.388626, Co 8.000e-6, Sn 0.611366 | model | [1] Hu 2022 | Table 6, p. 18, row 6; `ORC-SXTSZEUF4J` |  |
 
 ## Other properties
 
@@ -43,15 +43,15 @@ Table: Phase equilibrium, Bi–Co–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 523.15 | CoSn + αCo3Sn2; _CoSn: Bi 0.004, Co 0.493, Sn 0.503; αCo3Sn2: Bi 0.004, Co 0.595, Sn 0.401_ | experimental | [1] Hu 2022 | Table 2, p. 5, row 7 |  |
-| Phase composition |  | 523.15 | CoSn + αCo3Sn2 + (Bi); _CoSn: Bi 0, Co 0.499, Sn 0.501; αCo3Sn2: Bi 0.002, Co 0.593, Sn 0.405; (Bi): Bi 0.977, Co 0.009, Sn 0.014_ | experimental | [1] Hu 2022 | Table 2, p. 5, row 3 |  |
-| Phase composition |  | 523.15 | CoSn + αCo3Sn2 + (Bi); _CoSn: Bi 0.005, Co 0.496, Sn 0.499; αCo3Sn2: Bi 0, Co 0.584, Sn 0.416; (Bi): Bi 0.982, Co 0.009, Sn 0.009_ | experimental | [1] Hu 2022 | Table 2, p. 5, row 2 |  |
-| Phase composition |  | 523.15 | CoSn2 + CoSn + L; _CoSn2: Bi 0.001, Co 0.332, Sn 0.667; CoSn: Bi 0.001, Co 0.496, Sn 0.503; L: Bi 0.886, Co 0.008, Sn 0.106_ | experimental | [1] Hu 2022 | Table 2, p. 5, row 4 |  |
-| Phase composition |  | 523.15 | CoSn2 + CoSn + L; _L: Bi 0.889, Co 0.01, Sn 0.101_ | experimental | [1] Hu 2022 | Table 2, p. 5, row 8 |  |
-| Phase composition |  | 523.15 | CoSn2 + CoSn + L; _CoSn2: Bi 0.001, Co 0.335, Sn 0.664; CoSn: Bi 0.003, Co 0.492, Sn 0.505; L: Bi 0.889, Co 0.01, Sn 0.101_ | experimental | [1] Hu 2022 | Table 2, p. 5, row 5 |  |
-| Phase composition |  | 523.15 | CoSn3 + CoSn2 + L; _CoSn3: Bi 0.001, Co 0.246, Sn 0.753; CoSn2: Bi 0.001, Co 0.33, Sn 0.669; L: Bi 0.53, Co 0.014, Sn 0.456_ | experimental | [1] Hu 2022 | Table 2, p. 5, row 6 |  |
-| Phase composition |  | 523.15 | αCo3Sn2 + (Bi) + εCo; _αCo3Sn2: Bi 0.001, Co 0.596, Sn 0.403; (Bi): Bi 0.992, Co 0.004, Sn 0.004; εCo: Bi 0.001, Co 0.988, Sn 0.011_ | experimental | [1] Hu 2022 | Table 2, p. 5, row 1 |  |
-| Phase composition |  | 723.15 | αCo3Sn2 + L; _αCo3Sn2: Bi 0.003, Co 0.595, Sn 0.402; L: Bi 0.972, Co 0.013, Sn 0.015_ | experimental | [1] Hu 2022 | Table 3, p. 9, row 1 |  |
+| Phase composition |  | 523.15 | CoSn + αCo3Sn2; _CoSn: Bi 0.004, Co 0.493, Sn 0.503; αCo3Sn2: Bi 0.004, Co 0.595, Sn 0.401_ | experimental | [1] Hu 2022 | Table 2, p. 5, row 7; `ORC-Q6T3T243AL` |  |
+| Phase composition |  | 523.15 | CoSn + αCo3Sn2 + (Bi); _CoSn: Bi 0, Co 0.499, Sn 0.501; αCo3Sn2: Bi 0.002, Co 0.593, Sn 0.405; (Bi): Bi 0.977, Co 0.009, Sn 0.014_ | experimental | [1] Hu 2022 | Table 2, p. 5, row 3; `ORC-5QXKDQD3ES` |  |
+| Phase composition |  | 523.15 | CoSn + αCo3Sn2 + (Bi); _CoSn: Bi 0.005, Co 0.496, Sn 0.499; αCo3Sn2: Bi 0, Co 0.584, Sn 0.416; (Bi): Bi 0.982, Co 0.009, Sn 0.009_ | experimental | [1] Hu 2022 | Table 2, p. 5, row 2; `ORC-HSQ5QT3JDR` |  |
+| Phase composition |  | 523.15 | CoSn2 + CoSn + L; _CoSn2: Bi 0.001, Co 0.332, Sn 0.667; CoSn: Bi 0.001, Co 0.496, Sn 0.503; L: Bi 0.886, Co 0.008, Sn 0.106_ | experimental | [1] Hu 2022 | Table 2, p. 5, row 4; `ORC-42AZNRKV7F` |  |
+| Phase composition |  | 523.15 | CoSn2 + CoSn + L; _L: Bi 0.889, Co 0.01, Sn 0.101_ | experimental | [1] Hu 2022 | Table 2, p. 5, row 8; `ORC-6CTFE77I3C` |  |
+| Phase composition |  | 523.15 | CoSn2 + CoSn + L; _CoSn2: Bi 0.001, Co 0.335, Sn 0.664; CoSn: Bi 0.003, Co 0.492, Sn 0.505; L: Bi 0.889, Co 0.01, Sn 0.101_ | experimental | [1] Hu 2022 | Table 2, p. 5, row 5; `ORC-G7DSE7A7G3` |  |
+| Phase composition |  | 523.15 | CoSn3 + CoSn2 + L; _CoSn3: Bi 0.001, Co 0.246, Sn 0.753; CoSn2: Bi 0.001, Co 0.33, Sn 0.669; L: Bi 0.53, Co 0.014, Sn 0.456_ | experimental | [1] Hu 2022 | Table 2, p. 5, row 6; `ORC-ACSFKIXSXZ` |  |
+| Phase composition |  | 523.15 | αCo3Sn2 + (Bi) + εCo; _αCo3Sn2: Bi 0.001, Co 0.596, Sn 0.403; (Bi): Bi 0.992, Co 0.004, Sn 0.004; εCo: Bi 0.001, Co 0.988, Sn 0.011_ | experimental | [1] Hu 2022 | Table 2, p. 5, row 1; `ORC-RCMTJQFTUS` |  |
+| Phase composition |  | 723.15 | αCo3Sn2 + L; _αCo3Sn2: Bi 0.003, Co 0.595, Sn 0.402; L: Bi 0.972, Co 0.013, Sn 0.015_ | experimental | [1] Hu 2022 | Table 3, p. 9, row 1; `ORC-LVFITR3O52` |  |
 
 ## Sources
 
@@ -94,4 +94,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

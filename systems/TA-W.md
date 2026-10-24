@@ -53,8 +53,8 @@ Table: Enthalpies of formation, Ta–W system (2)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Ordered B2 TaW |  | -17 kJ/mol (basis unstated) | 0 | unspecified |  |  | [1] Turchi 2005 | Table I, p. 5, row 11 |  |
-| Ordered B2 TaW |  | -10.5 kJ/mol (basis unstated) | 0 | unspecified |  |  | [1] Turchi 2005 | Table I, p. 5, row 7 |  |
+| Ordered B2 TaW |  | -17 kJ/mol (basis unstated) | 0 | unspecified |  |  | [1] Turchi 2005 | Table I, p. 5, row 11; `ORC-AJZYTLURER.127c6f` |  |
+| Ordered B2 TaW |  | -10.5 kJ/mol (basis unstated) | 0 | unspecified |  |  | [1] Turchi 2005 | Table I, p. 5, row 7; `ORC-XRYQDS2Q22.cef74d` |  |
 
 ## Other properties
 
@@ -64,13 +64,13 @@ Table: Phase transition, Ta–W system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 360 K | 360 | other: TaW; _alloy: Ta 0.5, W 0.5_ | model | [2] Zhang 2022; _cites Blum 2005_ | Table 3, p. 10, row 12 |  |
-| Phase transition | 573 K | 573 | other: TaW; _alloy: Ta 0.5, W 0.5_ | model | [2] Zhang 2022 | Table 3, p. 10, row 10 |  |
-| Phase transition | 575 K | 575 | other: TaW; _alloy: Ta 0.5, W 0.5_ | model | [2] Zhang 2022; _cites Wang 2022_ | Table 3, p. 10, row 11 |  |
-| Phase transition | 920 K | 920 | other: TaW; _alloy: Ta 0.5, W 0.5_ | model | [2] Zhang 2022; _cites Sigli 1988_ [doi](https://doi.org/10.1016/0001-6160%2888%2990012-0) | Table 3, p. 10, row 14 |  |
-| Phase transition | 1000 K | 1000 | other | model | [3] Kaufman 2001 | p. 1 | “These later results predict B2 ordering for the bee-based Ta-W system with a maximum ordering temperature near 1000 K at 43 at.% Ta.” |
-| Phase transition | 1000 K | 1000 | other: TaW; _alloy: Ta 0.5, W 0.5_ | model | [2] Zhang 2022; _cites Turchi 2005_ [doi](https://doi.org/10.1103/physrevb.71.094206) | Table 3, p. 10, row 13 |  |
-| Phase transition | 1000 K | 1000 | other: TaW; _alloy: Ta 0.5, W 0.5_ | model | [2] Zhang 2022; _cites Jindo 2008_ [doi](https://doi.org/10.1016/j.jallcom.2006.12.163) | Table 3, p. 10, row 15 |  |
+| Phase transition | 360 K | 360 | other: TaW; _alloy: Ta 0.5, W 0.5_ | model | [2] Zhang 2022; _cites Blum 2005_ | Table 3, p. 10, row 12; `ORC-HYPXM3MXBC` |  |
+| Phase transition | 573 K | 573 | other: TaW; _alloy: Ta 0.5, W 0.5_ | model | [2] Zhang 2022 | Table 3, p. 10, row 10; `ORC-OT55LHZ4KU` |  |
+| Phase transition | 575 K | 575 | other: TaW; _alloy: Ta 0.5, W 0.5_ | model | [2] Zhang 2022; _cites Wang 2022_ | Table 3, p. 10, row 11; `ORC-V67ZVMZMCS` |  |
+| Phase transition | 920 K | 920 | other: TaW; _alloy: Ta 0.5, W 0.5_ | model | [2] Zhang 2022; _cites Sigli 1988_ [doi](https://doi.org/10.1016/0001-6160%2888%2990012-0) | Table 3, p. 10, row 14; `ORC-4DVDG52LCC` |  |
+| Phase transition | 1000 K | 1000 | other | model | [3] Kaufman 2001 | p. 1; `ORC-VNCNYGVZM4` | “These later results predict B2 ordering for the bee-based Ta-W system with a maximum ordering temperature near 1000 K at 43 at.% Ta.” |
+| Phase transition | 1000 K | 1000 | other: TaW; _alloy: Ta 0.5, W 0.5_ | model | [2] Zhang 2022; _cites Turchi 2005_ [doi](https://doi.org/10.1103/physrevb.71.094206) | Table 3, p. 10, row 13; `ORC-5BTOWE72ZW` |  |
+| Phase transition | 1000 K | 1000 | other: TaW; _alloy: Ta 0.5, W 0.5_ | model | [2] Zhang 2022; _cites Jindo 2008_ [doi](https://doi.org/10.1016/j.jallcom.2006.12.163) | Table 3, p. 10, row 15; `ORC-DUVZET3SRP` |  |
 
 ### Crystal structure (2)
 
@@ -78,8 +78,8 @@ Table: Crystal structure, Ta–W system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| lattice unspecified axis; _printed: Lattice constant_ | 3.2421 Å |  | Ordered B2 TaW; _alloy: Ta 0.5, W 0.5_ | unspecified | [1] Turchi 2005 | Table I, p. 5, row 7 |  |
-| lattice unspecified axis; _printed: Lattice constant_ | 3.2203 Å |  | Ordered B2 TaW; _alloy: Ta 0.5, W 0.5_ | unspecified | [1] Turchi 2005 | Table I, p. 5, row 11 |  |
+| lattice unspecified axis; _printed: Lattice constant_ | 3.2421 Å |  | Ordered B2 TaW; _alloy: Ta 0.5, W 0.5_ | unspecified | [1] Turchi 2005 | Table I, p. 5, row 7; `ORC-KYFE6MWQR3` |  |
+| lattice unspecified axis; _printed: Lattice constant_ | 3.2203 Å |  | Ordered B2 TaW; _alloy: Ta 0.5, W 0.5_ | unspecified | [1] Turchi 2005 | Table I, p. 5, row 11; `ORC-X5R4ENKSDE` |  |
 
 ### Other property (2)
 
@@ -87,8 +87,8 @@ Table: Other property, Ta–W system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| bulk modulus; _printed: Bulk modulus_ | 276.8 GPa |  | Ordered B2 TaW; _alloy: Ta 0.5, W 0.5_ | unspecified | [1] Turchi 2005 | Table I, p. 5, row 11 |  |
-| bulk modulus; _printed: Bulk modulus_ | 255.8 GPa |  | Ordered B2 TaW; _alloy: Ta 0.5, W 0.5_ | unspecified | [1] Turchi 2005 | Table I, p. 5, row 7 |  |
+| bulk modulus; _printed: Bulk modulus_ | 276.8 GPa |  | Ordered B2 TaW; _alloy: Ta 0.5, W 0.5_ | unspecified | [1] Turchi 2005 | Table I, p. 5, row 11; `ORC-AJZYTLURER.4b6207` |  |
+| bulk modulus; _printed: Bulk modulus_ | 255.8 GPa |  | Ordered B2 TaW; _alloy: Ta 0.5, W 0.5_ | unspecified | [1] Turchi 2005 | Table I, p. 5, row 7; `ORC-XRYQDS2Q22.b72b98` |  |
 
 ## Sources
 
@@ -155,4 +155,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

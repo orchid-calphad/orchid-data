@@ -40,12 +40,12 @@ Table: Activity / EMF / Gibbs energy, Cu–Rh system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| EMF; _printed: Emf(E)_ | 13.3 mV | 1200 | UNKNOWN; _alloy: Cu 0.259, Rh 0.741_ | experimental | [1] Priya 2000 | Table 1, p. 3, row 7 |  |
-| EMF; _printed: Emf(E)_ | 15 mV | 1225 | UNKNOWN; _alloy: Cu 0.259, Rh 0.741_ | experimental | [1] Priya 2000 | Table 1, p. 3, row 8 |  |
-| EMF; _printed: Emf(E)_ | 16.9 mV | 1250 | UNKNOWN; _alloy: Cu 0.259, Rh 0.741_ | experimental | [1] Priya 2000 | Table 1, p. 3, row 9 |  |
-| EMF; _printed: Emf(E)_ | 18.8 mV | 1273 | UNKNOWN; _alloy: Cu 0.259, Rh 0.741_ | experimental | [1] Priya 2000 | Table 1, p. 3, row 10 |  |
-| EMF; _printed: Emf(E)_ | 21.3 mV | 1300 | UNKNOWN; _alloy: Cu 0.259, Rh 0.741_ | experimental | [1] Priya 2000 | Table 1, p. 3, row 11 |  |
-| EMF; _printed: Emf(E)_ | 23.8 mV | 1325 | UNKNOWN; _alloy: Cu 0.259, Rh 0.741_ | experimental | [1] Priya 2000 | Table 1, p. 3, row 12 |  |
+| EMF; _printed: Emf(E)_ | 13.3 mV | 1200 | UNKNOWN; _alloy: Cu 0.259, Rh 0.741_ | experimental | [1] Priya 2000 | Table 1, p. 3, row 7; `ORC-ZVT2BMYZYB` |  |
+| EMF; _printed: Emf(E)_ | 15 mV | 1225 | UNKNOWN; _alloy: Cu 0.259, Rh 0.741_ | experimental | [1] Priya 2000 | Table 1, p. 3, row 8; `ORC-THN45QZSEQ` |  |
+| EMF; _printed: Emf(E)_ | 16.9 mV | 1250 | UNKNOWN; _alloy: Cu 0.259, Rh 0.741_ | experimental | [1] Priya 2000 | Table 1, p. 3, row 9; `ORC-YUY257VTVV` |  |
+| EMF; _printed: Emf(E)_ | 18.8 mV | 1273 | UNKNOWN; _alloy: Cu 0.259, Rh 0.741_ | experimental | [1] Priya 2000 | Table 1, p. 3, row 10; `ORC-P2GOYEEEYO` |  |
+| EMF; _printed: Emf(E)_ | 21.3 mV | 1300 | UNKNOWN; _alloy: Cu 0.259, Rh 0.741_ | experimental | [1] Priya 2000 | Table 1, p. 3, row 11; `ORC-Z6DBXECAEZ` |  |
+| EMF; _printed: Emf(E)_ | 23.8 mV | 1325 | UNKNOWN; _alloy: Cu 0.259, Rh 0.741_ | experimental | [1] Priya 2000 | Table 1, p. 3, row 12; `ORC-VFYQ5KVHW7` |  |
 
 ## Sources
 
@@ -110,4 +110,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

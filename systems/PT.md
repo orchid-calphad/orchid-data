@@ -30,8 +30,8 @@ Table: Invariant reactions reported in the literature for the Pt system (2)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2042.15 | congruent melting: L -> (Pt) | L: Pt 1; (Pt): Pt 1 | experimental | [1] Wang 2008; _cites Smith 1989_ | Table 5, p. 5, row 21 |  |
-| 2042.15 | congruent melting: L -> (Pt) | L: Pt 1; (Pt): Pt 1 | model | [1] Wang 2008 | Table 5, p. 5, row 22 |  |
+| 2042.15 | congruent melting: L -> (Pt) | L: Pt 1; (Pt): Pt 1 | experimental | [1] Wang 2008; _cites Smith 1989_ | Table 5, p. 5, row 21; `ORC-2CN6T72VQO` |  |
+| 2042.15 | congruent melting: L -> (Pt) | L: Pt 1; (Pt): Pt 1 | model | [1] Wang 2008 | Table 5, p. 5, row 22; `ORC-MN7UEM5WJL` |  |
 
 ## Formation enthalpies
 
@@ -41,8 +41,8 @@ Table: Enthalpies of formation, Pt system (2)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| A15 |  | 24.663 kJ/mol (basis unstated) | 0 | model |  |  | [2] Fiorani 2024 | Table 5, p. 21, row 22 |  |
-| A15 |  | 24.663 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Fiorani 2024 | Table 5, p. 21, row 21 |  |
+| A15 |  | 24.663 kJ/mol (basis unstated) | 0 | model |  |  | [2] Fiorani 2024 | Table 5, p. 21, row 22; `ORC-Y2CZAGTW5H` |  |
+| A15 |  | 24.663 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Fiorani 2024 | Table 5, p. 21, row 21; `ORC-ZKHLZH2VGK` |  |
 
 ## Other properties
 
@@ -52,15 +52,15 @@ Table: Crystal structure, Pt system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 3.97 Å |  | Pt; _alloy: Pt 1_ | model | [3] Long 2009; _cites Haglund 1993_ [doi](https://doi.org/10.1103/physrevb.48.11685) | Table 1, p. 2, row 3 |  |
-| Lattice a | 3.9854 Å | 0 | Pt; _alloy: Pt 1_ | DFT | [3] Long 2009 | Table 1, p. 2, row 1 |  |
-| Lattice a | 3.985 Å |  | Pt; _alloy: Pt 1_ | model | [3] Long 2009; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.05.002) | Table 1, p. 2, row 2 |  |
-| Lattice a | 3.923 Å |  | fcc; _alloy: Pt 1_ | model | [4] Kim 2011 | Table 1, p. 2, row 12 |  |
-| Lattice a | 3.964 Å |  | fcc; _alloy: Pt 1_ | model | [4] Kim 2011 | Table 1, p. 2, row 10 |  |
-| Lattice a | 3.985 Å |  | fcc; _alloy: Pt 1_ | model | [4] Kim 2011 | Table 1, p. 2, row 11 |  |
-| Lattice a | 3.913 Å | 1403.15 | (Pt); _(Pt): Pt 1_ | experimental | [5] Karakaya 1987; _cites ref. 43Sch_ | Table 4, p. 4, row 9 |  |
-| lattice unspecified axis | 3.913 Å | 1403.15 | (Pt); _(Pt): Pt 1_ | experimental | [5] Karakaya 1987; _cites ref. 43Sch_ | Table 4, p. 4, row 9 |  |
-| lattice v | 15.5927 Å3/atom | 0 | Pt | DFT | [6] Guo 2015 | Table I, p. 3, row 1 |  |
+| Lattice a | 3.97 Å |  | Pt; _alloy: Pt 1_ | model | [3] Long 2009; _cites Haglund 1993_ [doi](https://doi.org/10.1103/physrevb.48.11685) | Table 1, p. 2, row 3; `ORC-HBADJ75DVW` |  |
+| Lattice a | 3.9854 Å | 0 | Pt; _alloy: Pt 1_ | DFT | [3] Long 2009 | Table 1, p. 2, row 1; `ORC-MFFS3RYO4X` |  |
+| Lattice a | 3.985 Å |  | Pt; _alloy: Pt 1_ | model | [3] Long 2009; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.05.002) | Table 1, p. 2, row 2; `ORC-SV7TKIGFDW` |  |
+| Lattice a | 3.923 Å |  | fcc; _alloy: Pt 1_ | model | [4] Kim 2011 | Table 1, p. 2, row 12; `ORC-3GNI5RXPNO` |  |
+| Lattice a | 3.964 Å |  | fcc; _alloy: Pt 1_ | model | [4] Kim 2011 | Table 1, p. 2, row 10; `ORC-BWFDKQ36EJ` |  |
+| Lattice a | 3.985 Å |  | fcc; _alloy: Pt 1_ | model | [4] Kim 2011 | Table 1, p. 2, row 11; `ORC-I5LDEJYYSS` |  |
+| Lattice a | 3.913 Å | 1403.15 | (Pt); _(Pt): Pt 1_ | experimental | [5] Karakaya 1987; _cites ref. 43Sch_ | Table 4, p. 4, row 9; `ORC-JSILAMNBID.c52810` |  |
+| lattice unspecified axis | 3.913 Å | 1403.15 | (Pt); _(Pt): Pt 1_ | experimental | [5] Karakaya 1987; _cites ref. 43Sch_ | Table 4, p. 4, row 9; `ORC-JSILAMNBID.d4f47d` |  |
+| lattice v | 15.5927 Å3/atom | 0 | Pt | DFT | [6] Guo 2015 | Table I, p. 3, row 1; `ORC-SFNVBQUBSR` |  |
 
 ## Sources
 
@@ -108,4 +108,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

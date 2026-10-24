@@ -58,18 +58,18 @@ Table: Invariant reactions reported in the literature for the Ca–Ni system (12
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1478.9 | congruent melting: Liquid -> CaNi5 | L: Ni 0.834; CaNi5: Ca 0.166667, Ni 0.833333 | model | [1] Islam 2005 | Table 5, p. 8, row 12 |  |
-| 1477.3 | congruent melting: Liquid -> CaNi5 | L: Ni 0.832; CaNi5: Ca 0.166667, Ni 0.833333 | experimental | [1] Islam 2005; _cites Notin 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990338-k) | Table 5, p. 8, row 11 |  |
-| 1460.1 | eutectic: Liquid -> Ni-fcc + CaNi5 | L: Ni 0.877; CaNi5: Ca 0.166667, Ni 0.833333 | model | [1] Islam 2005 | Table 5, p. 8, row 4 |  |
-| 1459 | eutectic: Liquid -> Ni-fcc + CaNi5 | L: Ni 0.88; CaNi5: Ca 0.166667, Ni 0.833333 | experimental | [1] Islam 2005; _cites Notin 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990338-k) | Table 5, p. 8, row 3 |  |
-| 1400.2 | peritectic: Liquid + CaNi5 -> Ca2Ni7 | L: Ni 0.715; CaNi5: Ca 0.166667, Ni 0.833333; Ca2Ni7: Ca 0.222222, Ni 0.777778 | model | [1] Islam 2005 | Table 5, p. 8, row 10 |  |
-| 1400.1 | peritectic: Liquid + CaNi5 -> Ca2Ni7 | L: Ni 0.715; CaNi5: Ca 0.166667, Ni 0.833333; Ca2Ni7: Ca 0.222222, Ni 0.777778 | experimental | [1] Islam 2005; _cites Notin 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990338-k) | Table 5, p. 8, row 9 |  |
-| 1287.2 | peritectic: Liquid + Ca2Ni7 -> CaNi3 | L: Ni 0.541; Ca2Ni7: Ca 0.222222, Ni 0.777778; CaNi3: Ca 0.25, Ni 0.75 | experimental | [1] Islam 2005; _cites Notin 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990338-k) | Table 5, p. 8, row 7 |  |
-| 1280.1 | peritectic: Liquid + Ca2Ni7 -> CaNi3 | L: Ni 0.561; Ca2Ni7: Ca 0.222222, Ni 0.777778; CaNi3: Ca 0.25, Ni 0.75 | model | [1] Islam 2005 | Table 5, p. 8, row 8 |  |
-| 1145 | peritectic: Liquid + CaNi3 -> CaNi2 | L: Ni 0.378; CaNi3: Ca 0.25, Ni 0.75; CaNi2: Ca 0.333333, Ni 0.666667 | model | [1] Islam 2005 | Table 5, p. 8, row 6 |  |
-| 1138.6 | peritectic: Liquid + CaNi3 -> CaNi2 | L: Ni 0.39; CaNi3: Ca 0.25, Ni 0.75; CaNi2: Ca 0.333333, Ni 0.666667 | experimental | [1] Islam 2005; _cites Notin 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990338-k) | Table 5, p. 8, row 5 |  |
-| 900 | eutectic: Liquid -> Ca-bcc + CaNi2 | L: Ni 0.17; CaNi2: Ca 0.333333, Ni 0.666667 | model | [1] Islam 2005 | Table 5, p. 8, row 2 |  |
-| 896 | eutectic: Liquid -> Ca-bcc + CaNi2 | L: Ni 0.16; CaNi2: Ca 0.333333, Ni 0.666667 | experimental | [1] Islam 2005; _cites Notin 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990338-k) | Table 5, p. 8, row 1 |  |
+| 1478.9 | congruent melting: Liquid -> CaNi5 | L: Ni 0.834; CaNi5: Ca 0.166667, Ni 0.833333 | model | [1] Islam 2005 | Table 5, p. 8, row 12; `ORC-PLULDJPPNT` |  |
+| 1477.3 | congruent melting: Liquid -> CaNi5 | L: Ni 0.832; CaNi5: Ca 0.166667, Ni 0.833333 | experimental | [1] Islam 2005; _cites Notin 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990338-k) | Table 5, p. 8, row 11; `ORC-XPD5HYLSUG` |  |
+| 1460.1 | eutectic: Liquid -> Ni-fcc + CaNi5 | L: Ni 0.877; CaNi5: Ca 0.166667, Ni 0.833333 | model | [1] Islam 2005 | Table 5, p. 8, row 4; `ORC-3CDOYTSYFB` |  |
+| 1459 | eutectic: Liquid -> Ni-fcc + CaNi5 | L: Ni 0.88; CaNi5: Ca 0.166667, Ni 0.833333 | experimental | [1] Islam 2005; _cites Notin 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990338-k) | Table 5, p. 8, row 3; `ORC-CA7CTOTQON` |  |
+| 1400.2 | peritectic: Liquid + CaNi5 -> Ca2Ni7 | L: Ni 0.715; CaNi5: Ca 0.166667, Ni 0.833333; Ca2Ni7: Ca 0.222222, Ni 0.777778 | model | [1] Islam 2005 | Table 5, p. 8, row 10; `ORC-AKC6UZLJ7N` |  |
+| 1400.1 | peritectic: Liquid + CaNi5 -> Ca2Ni7 | L: Ni 0.715; CaNi5: Ca 0.166667, Ni 0.833333; Ca2Ni7: Ca 0.222222, Ni 0.777778 | experimental | [1] Islam 2005; _cites Notin 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990338-k) | Table 5, p. 8, row 9; `ORC-OX3T7S5XBU` |  |
+| 1287.2 | peritectic: Liquid + Ca2Ni7 -> CaNi3 | L: Ni 0.541; Ca2Ni7: Ca 0.222222, Ni 0.777778; CaNi3: Ca 0.25, Ni 0.75 | experimental | [1] Islam 2005; _cites Notin 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990338-k) | Table 5, p. 8, row 7; `ORC-DVKCOTROFL` |  |
+| 1280.1 | peritectic: Liquid + Ca2Ni7 -> CaNi3 | L: Ni 0.561; Ca2Ni7: Ca 0.222222, Ni 0.777778; CaNi3: Ca 0.25, Ni 0.75 | model | [1] Islam 2005 | Table 5, p. 8, row 8; `ORC-QC7FB3INRH` |  |
+| 1145 | peritectic: Liquid + CaNi3 -> CaNi2 | L: Ni 0.378; CaNi3: Ca 0.25, Ni 0.75; CaNi2: Ca 0.333333, Ni 0.666667 | model | [1] Islam 2005 | Table 5, p. 8, row 6; `ORC-JX46BSBBGH` |  |
+| 1138.6 | peritectic: Liquid + CaNi3 -> CaNi2 | L: Ni 0.39; CaNi3: Ca 0.25, Ni 0.75; CaNi2: Ca 0.333333, Ni 0.666667 | experimental | [1] Islam 2005; _cites Notin 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990338-k) | Table 5, p. 8, row 5; `ORC-JXXQHDKJJJ` |  |
+| 900 | eutectic: Liquid -> Ca-bcc + CaNi2 | L: Ni 0.17; CaNi2: Ca 0.333333, Ni 0.666667 | model | [1] Islam 2005 | Table 5, p. 8, row 2; `ORC-UI2SZDIN44` |  |
+| 896 | eutectic: Liquid -> Ca-bcc + CaNi2 | L: Ni 0.16; CaNi2: Ca 0.333333, Ni 0.666667 | experimental | [1] Islam 2005; _cites Notin 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990338-k) | Table 5, p. 8, row 1; `ORC-2TWIVR6ARN` |  |
 
 ## Other properties
 
@@ -79,9 +79,9 @@ Table: Formation, Ca–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Gibbs energy of formation; _printed: ΔGf_ | -6.59501 kJ/mol-atom | 1050 | CaNi2; _alloy: Ni 0.666667_ | model | [1] Islam 2005 | Table 7, p. 11, row 1 |  |
-| Gibbs energy of formation; _printed: ΔGf_ | -6.48746 kJ/mol-atom | 1200 | CaNi2; _alloy: Ni 0.666667_ | model | [1] Islam 2005 | Table 7, p. 11, row 5 |  |
-| Gibbs energy of formation; _printed: ΔGf_ | -6.37991 kJ/mol-atom | 1350 | CaNi2; _alloy: Ni 0.666667_ | model | [1] Islam 2005 | Table 7, p. 11, row 9 |  |
+| Gibbs energy of formation; _printed: ΔGf_ | -6.59501 kJ/mol-atom | 1050 | CaNi2; _alloy: Ni 0.666667_ | model | [1] Islam 2005 | Table 7, p. 11, row 1; `ORC-U2ZLSNIXS3` |  |
+| Gibbs energy of formation; _printed: ΔGf_ | -6.48746 kJ/mol-atom | 1200 | CaNi2; _alloy: Ni 0.666667_ | model | [1] Islam 2005 | Table 7, p. 11, row 5; `ORC-GYEKQJCVZS` |  |
+| Gibbs energy of formation; _printed: ΔGf_ | -6.37991 kJ/mol-atom | 1350 | CaNi2; _alloy: Ni 0.666667_ | model | [1] Islam 2005 | Table 7, p. 11, row 9; `ORC-7K2I55LORW` |  |
 
 ## Sources
 
@@ -146,4 +146,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -48,7 +48,7 @@ Table: Phase transition, Li–Sc system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 453.15 K | 453.15 | Liquid#1 + (aSc) = (bLi) | experimental | [1] Bu 2012 | p. 1 | “One is Liquid#2 = Liquid#1 + (aSc) occurring at 970 °C and 58.3 at.% Sc for the Liquid#2 and another one is Liquid#1 + (aSc) = (bLi) occurring at 180 °C and 0.07 at.% Sc for the Liquid#1.” |
+| Phase transition | 453.15 K | 453.15 | Liquid#1 + (aSc) = (bLi) | experimental | [1] Bu 2012 | p. 1; `ORC-MZOVSBPM2X` | “One is Liquid#2 = Liquid#1 + (aSc) occurring at 970 °C and 58.3 at.% Sc for the Liquid#2 and another one is Liquid#1 + (aSc) = (bLi) occurring at 180 °C and 0.07 at.% Sc for the Liquid#1.” |
 
 ## Sources
 
@@ -113,4 +113,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

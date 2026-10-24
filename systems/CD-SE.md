@@ -51,10 +51,10 @@ Table: Invariant reactions reported in the literature for the Cd–Se system (4)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1269 | liq#1 -> liq#2 + CdSe | CdSe: Se 0.5; liq#1: Se 0.66 | model | [1] Liu 2012 | Table II, p. 5, row 3 |  |
-| 1264 | liq#1 -> liq#2 + CdSe | CdSe: Se 0.5; liq#2: Se 0.99 | experimental | [1] Liu 2012; _cites Reisman 1962_ [doi](https://doi.org/10.1021/j100817a032) | Table II, p. 5, row 2 |  |
-| 594 | liq -> (Cd) + CdSe | CdSe: Se 0.5 | model | [1] Liu 2012 | Table II, p. 5, row 1 |  |
-| 494 | liq -> (Se) + CdSe | CdSe: Se 0.5 | model | [1] Liu 2012 | Table II, p. 5, row 4 |  |
+| 1269 | liq#1 -> liq#2 + CdSe | CdSe: Se 0.5; liq#1: Se 0.66 | model | [1] Liu 2012 | Table II, p. 5, row 3; `ORC-67VLHVKABL` |  |
+| 1264 | liq#1 -> liq#2 + CdSe | CdSe: Se 0.5; liq#2: Se 0.99 | experimental | [1] Liu 2012; _cites Reisman 1962_ [doi](https://doi.org/10.1021/j100817a032) | Table II, p. 5, row 2; `ORC-OW3AC6L3JY` |  |
+| 594 | liq -> (Cd) + CdSe | CdSe: Se 0.5 | model | [1] Liu 2012 | Table II, p. 5, row 1; `ORC-ZD6WHJM3N2` |  |
+| 494 | liq -> (Se) + CdSe | CdSe: Se 0.5 | model | [1] Liu 2012 | Table II, p. 5, row 4; `ORC-HJYGERKVNM` |  |
 
 ## Formation enthalpies
 
@@ -64,16 +64,16 @@ Table: Enthalpies of formation, Cd–Se system (10)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| CdSe |  | -158 kJ/mol (basis unstated) |  | unspecified |  |  | [1] Liu 2012 | Table IV, p. 6, row 4 |  |
-| CdSe |  | -147.7 kJ/mol (basis unstated) |  | unspecified |  |  | [1] Liu 2012 | Table IV, p. 6, row 12 |  |
-| CdSe |  | -147.03 kJ/mol (basis unstated) |  | unspecified |  |  | [1] Liu 2012 | Table IV, p. 6, row 20 |  |
-| CdSe |  | -144.1 kJ/mol (basis unstated) |  | unspecified |  |  | [1] Liu 2012 | Table IV, p. 6, row 10 |  |
-| CdSe |  | -142.6 kJ/mol (basis unstated) |  | unspecified |  |  | [1] Liu 2012 | Table IV, p. 6, row 14 |  |
-| CdSe |  | -141.96 kJ/mol (basis unstated) |  | unspecified |  |  | [1] Liu 2012 | Table IV, p. 6, row 18 |  |
-| CdSe |  | -139.4 kJ/mol (basis unstated) |  | unspecified |  |  | [1] Liu 2012 | Table IV, p. 6, row 2 |  |
-| CdSe |  | -139 kJ/mol (basis unstated) |  | unspecified |  |  | [1] Liu 2012 | Table IV, p. 6, row 6 |  |
-| CdSe |  | -136.6 kJ/mol (basis unstated) |  | unspecified |  |  | [1] Liu 2012 | Table IV, p. 6, row 8 |  |
-| CdSe |  | -136.5 kJ/mol (basis unstated) |  | unspecified |  |  | [1] Liu 2012 | Table IV, p. 6, row 16 |  |
+| CdSe |  | -158 kJ/mol (basis unstated) |  | unspecified |  |  | [1] Liu 2012 | Table IV, p. 6, row 4; `ORC-U77DCFJJXM` |  |
+| CdSe |  | -147.7 kJ/mol (basis unstated) |  | unspecified |  |  | [1] Liu 2012 | Table IV, p. 6, row 12; `ORC-NYT4TPRAML` |  |
+| CdSe |  | -147.03 kJ/mol (basis unstated) |  | unspecified |  |  | [1] Liu 2012 | Table IV, p. 6, row 20; `ORC-T5QPPKLLNM` |  |
+| CdSe |  | -144.1 kJ/mol (basis unstated) |  | unspecified |  |  | [1] Liu 2012 | Table IV, p. 6, row 10; `ORC-7QHMYWY5BQ` |  |
+| CdSe |  | -142.6 kJ/mol (basis unstated) |  | unspecified |  |  | [1] Liu 2012 | Table IV, p. 6, row 14; `ORC-7QOGUI4NIN` |  |
+| CdSe |  | -141.96 kJ/mol (basis unstated) |  | unspecified |  |  | [1] Liu 2012 | Table IV, p. 6, row 18; `ORC-5HSZE5HCB3` |  |
+| CdSe |  | -139.4 kJ/mol (basis unstated) |  | unspecified |  |  | [1] Liu 2012 | Table IV, p. 6, row 2; `ORC-BMR5ABNU54` |  |
+| CdSe |  | -139 kJ/mol (basis unstated) |  | unspecified |  |  | [1] Liu 2012 | Table IV, p. 6, row 6; `ORC-TPT5553RGC` |  |
+| CdSe |  | -136.6 kJ/mol (basis unstated) |  | unspecified |  |  | [1] Liu 2012 | Table IV, p. 6, row 8; `ORC-QOI7PORHP3` |  |
+| CdSe |  | -136.5 kJ/mol (basis unstated) |  | unspecified |  |  | [1] Liu 2012 | Table IV, p. 6, row 16; `ORC-DVOBHR6CUM` |  |
 
 ## Other properties
 
@@ -83,11 +83,11 @@ Table: Phase equilibrium, Cd–Se system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 1512 | congruent melting; _liquid: Se 0.5; CdSe: Se 0.5_ | experimental | [1] Liu 2012; _cites Reisman 1962_ [doi](https://doi.org/10.1021/j100817a032) | Table III, p. 5, row 1 |  |
-| Phase composition |  | 1531 | congruent melting; _liquid: Se 0.5; CdSe: Se 0.5_ | experimental | [1] Liu 2012; _cites Mason 1961_ | Table III, p. 5, row 4 |  |
-| Phase composition |  | 1537 | congruent melting; _liquid: Se 0.5; CdSe: Se 0.5_ | experimental | [1] Liu 2012; _cites Sysoev 1967_ | Table III, p. 5, row 2 |  |
-| Phase composition |  | 1538 | congruent melting; _liquid: Se 0.5; CdSe: Se 0.5_ | unspecified | [1] Liu 2012 | Table III, p. 5, row 5 |  |
-| Phase composition |  | 1623 | congruent melting; _liquid: Se 0.5; CdSe: Se 0.5_ | experimental | [1] Liu 2012; _cites Chikashige 1917_ | Table III, p. 5, row 3 |  |
+| Phase composition |  | 1512 | congruent melting; _liquid: Se 0.5; CdSe: Se 0.5_ | experimental | [1] Liu 2012; _cites Reisman 1962_ [doi](https://doi.org/10.1021/j100817a032) | Table III, p. 5, row 1; `ORC-4DAEJJG5PC` |  |
+| Phase composition |  | 1531 | congruent melting; _liquid: Se 0.5; CdSe: Se 0.5_ | experimental | [1] Liu 2012; _cites Mason 1961_ | Table III, p. 5, row 4; `ORC-DZEWUW6MZ4` |  |
+| Phase composition |  | 1537 | congruent melting; _liquid: Se 0.5; CdSe: Se 0.5_ | experimental | [1] Liu 2012; _cites Sysoev 1967_ | Table III, p. 5, row 2; `ORC-Z7ZAWVFTH2` |  |
+| Phase composition |  | 1538 | congruent melting; _liquid: Se 0.5; CdSe: Se 0.5_ | unspecified | [1] Liu 2012 | Table III, p. 5, row 5; `ORC-FXUH7Q3EOX` |  |
+| Phase composition |  | 1623 | congruent melting; _liquid: Se 0.5; CdSe: Se 0.5_ | experimental | [1] Liu 2012; _cites Chikashige 1917_ | Table III, p. 5, row 3; `ORC-IHBKOGO4S4` |  |
 
 ### Heat capacity / entropy / enthalpy (3)
 
@@ -95,9 +95,9 @@ Table: Heat capacity / entropy / enthalpy, Cd–Se system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: Standard entropy S298_ | 78.2 J/mol (basis unstated)/K | 298.15 | CdSe; _alloy: Se 0.5_ | model | [1] Liu 2012 | Table V, p. 6, row 3 |  |
-| Entropy; _printed: Standard entropy S298_ | 97.02 J/mol (basis unstated)/K | 298.15 | CdSe; _alloy: Se 0.5_ | experimental | [1] Liu 2012; _cites Goldfinger 1963_ [doi](https://doi.org/10.1039/tf9635902851) | Table V, p. 6, row 2 |  |
-| Entropy; _printed: Standard entropy S298_ | 78.12 J/mol (basis unstated)/K | 298.15 | CdSe; _alloy: Se 0.5_ | experimental | [1] Liu 2012; _cites Wosten 1961_ [doi](https://doi.org/10.1021/j100828a008) | Table V, p. 6, row 1 |  |
+| Entropy; _printed: Standard entropy S298_ | 78.2 J/mol (basis unstated)/K | 298.15 | CdSe; _alloy: Se 0.5_ | model | [1] Liu 2012 | Table V, p. 6, row 3; `ORC-6Z2D6LKE4Z` |  |
+| Entropy; _printed: Standard entropy S298_ | 97.02 J/mol (basis unstated)/K | 298.15 | CdSe; _alloy: Se 0.5_ | experimental | [1] Liu 2012; _cites Goldfinger 1963_ [doi](https://doi.org/10.1039/tf9635902851) | Table V, p. 6, row 2; `ORC-7S2GVCWCMF` |  |
+| Entropy; _printed: Standard entropy S298_ | 78.12 J/mol (basis unstated)/K | 298.15 | CdSe; _alloy: Se 0.5_ | experimental | [1] Liu 2012; _cites Wosten 1961_ [doi](https://doi.org/10.1021/j100828a008) | Table V, p. 6, row 1; `ORC-AVOZNGF5OH` |  |
 
 ## Sources
 
@@ -162,4 +162,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

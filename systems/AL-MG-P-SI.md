@@ -28,19 +28,19 @@ Table: Phase transition, Al–Mg–P–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 841.25 K | 841.25 | eutectic: Al–7Si–0.3Mg; _alloy: Mg 0.0471865, Si 0.952814_ | experimental | [1] Liang 2014; _cites Ludwig 2013_ [doi](https://doi.org/10.1007/s11661-013-1945-y) | Table 4, p. 12, row 11 |  |
-| Phase transition | 843.15 K | 843.15 | eutectic: Al–7Si–0.3Mg; _alloy: Mg 0.0471865, Si 0.952814_ | experimental | [1] Liang 2014; _cites Kim 2000_ [doi](https://doi.org/10.1179/026708300101507785) | Table 4, p. 12, row 15 |  |
-| Phase transition | 845.25 K | 845.25 | eutectic: Al–7Si; _alloy: Si 1_ | experimental | [1] Liang 2014; _cites Ludwig 2013_ [doi](https://doi.org/10.1007/s11661-013-1945-y) | Table 4, p. 12, row 6 |  |
-| Phase transition | 845.65 K | 845.65 | eutectic: Al–7Si; _alloy: Si 1_ | experimental | [1] Liang 2014; _cites Ludwig 2013_ [doi](https://doi.org/10.1007/s11661-013-1945-y) | Table 4, p. 12, row 7 |  |
-| Phase transition | 846.25 K | 846.25 | eutectic: Al–10Si; _alloy: Si 1_ | experimental | [1] Liang 2014; _cites McDonald 2004_ [doi](https://doi.org/10.1016/j.actamat.2004.05.043) | Table 4, p. 12, row 22 |  |
-| Phase transition | 846.55 K | 846.55 | eutectic: Al–7Si–0.3Mg; _alloy: Mg 0.0471865, Si 0.952814_ | experimental | [1] Liang 2014; _cites Ludwig 2013_ [doi](https://doi.org/10.1007/s11661-013-1945-y) | Table 4, p. 12, row 12 |  |
-| Phase transition | 847.15 K | 847.15 | eutectic: Al–10Si; _alloy: Si 1_ | experimental | [1] Liang 2014; _cites Kato 1997_ | Table 4, p. 12, row 18 |  |
-| Phase transition | 847.15 K | 847.15 | eutectic: Al–7Si–0.3Mg; _alloy: Mg 0.0471865, Si 0.952814_ | experimental | [1] Liang 2014; _cites Kim 2000_ [doi](https://doi.org/10.1179/026708300101507785) | Table 4, p. 12, row 16 |  |
-| Phase transition | 849.05 K | 849.05 | eutectic: Al–7Si; _alloy: Si 1_ | experimental | [1] Liang 2014; _cites Ludwig 2013_ [doi](https://doi.org/10.1007/s11661-013-1945-y) | Table 4, p. 12, row 8 |  |
-| Phase transition | 850.05 K | 850.05 | eutectic: Al–7Si; _alloy: Si 1_ | experimental | [1] Liang 2014; _cites Ludwig 2013_ [doi](https://doi.org/10.1007/s11661-013-1945-y) | Table 4, p. 12, row 10 |  |
-| Phase transition | 850.85 K | 850.85 | eutectic: Al–10Si; _alloy: Si 1_ | experimental | [1] Liang 2014; _cites McDonald 2004_ [doi](https://doi.org/10.1016/j.actamat.2004.05.043) | Table 4, p. 12, row 23 |  |
-| Phase transition | 851.15 K | 851.15 | eutectic: Al–10Si; _alloy: Si 1_ | experimental | [1] Liang 2014; _cites Kato 1997_ | Table 4, p. 12, row 20 |  |
-| Phase transition | 852.15 K | 852.15 | eutectic: Al–10Si; _alloy: Si 1_ | experimental | [1] Liang 2014; _cites Kato 1997_ | Table 4, p. 12, row 21 |  |
+| Phase transition | 841.25 K | 841.25 | eutectic: Al–7Si–0.3Mg; _alloy: Mg 0.0471865, Si 0.952814_ | experimental | [1] Liang 2014; _cites Ludwig 2013_ [doi](https://doi.org/10.1007/s11661-013-1945-y) | Table 4, p. 12, row 11; `ORC-LJ3C5KB7GB` |  |
+| Phase transition | 843.15 K | 843.15 | eutectic: Al–7Si–0.3Mg; _alloy: Mg 0.0471865, Si 0.952814_ | experimental | [1] Liang 2014; _cites Kim 2000_ [doi](https://doi.org/10.1179/026708300101507785) | Table 4, p. 12, row 15; `ORC-SEPXLIGKZW` |  |
+| Phase transition | 845.25 K | 845.25 | eutectic: Al–7Si; _alloy: Si 1_ | experimental | [1] Liang 2014; _cites Ludwig 2013_ [doi](https://doi.org/10.1007/s11661-013-1945-y) | Table 4, p. 12, row 6; `ORC-MN7QNJNLMY` |  |
+| Phase transition | 845.65 K | 845.65 | eutectic: Al–7Si; _alloy: Si 1_ | experimental | [1] Liang 2014; _cites Ludwig 2013_ [doi](https://doi.org/10.1007/s11661-013-1945-y) | Table 4, p. 12, row 7; `ORC-PC6EERXA3R` |  |
+| Phase transition | 846.25 K | 846.25 | eutectic: Al–10Si; _alloy: Si 1_ | experimental | [1] Liang 2014; _cites McDonald 2004_ [doi](https://doi.org/10.1016/j.actamat.2004.05.043) | Table 4, p. 12, row 22; `ORC-GLJBSG2BWI` |  |
+| Phase transition | 846.55 K | 846.55 | eutectic: Al–7Si–0.3Mg; _alloy: Mg 0.0471865, Si 0.952814_ | experimental | [1] Liang 2014; _cites Ludwig 2013_ [doi](https://doi.org/10.1007/s11661-013-1945-y) | Table 4, p. 12, row 12; `ORC-KAQGQKB3VJ` |  |
+| Phase transition | 847.15 K | 847.15 | eutectic: Al–10Si; _alloy: Si 1_ | experimental | [1] Liang 2014; _cites Kato 1997_ | Table 4, p. 12, row 18; `ORC-XKORTL3H5L` |  |
+| Phase transition | 847.15 K | 847.15 | eutectic: Al–7Si–0.3Mg; _alloy: Mg 0.0471865, Si 0.952814_ | experimental | [1] Liang 2014; _cites Kim 2000_ [doi](https://doi.org/10.1179/026708300101507785) | Table 4, p. 12, row 16; `ORC-7BV7ER5ILZ` |  |
+| Phase transition | 849.05 K | 849.05 | eutectic: Al–7Si; _alloy: Si 1_ | experimental | [1] Liang 2014; _cites Ludwig 2013_ [doi](https://doi.org/10.1007/s11661-013-1945-y) | Table 4, p. 12, row 8; `ORC-PBIVAED5GH` |  |
+| Phase transition | 850.05 K | 850.05 | eutectic: Al–7Si; _alloy: Si 1_ | experimental | [1] Liang 2014; _cites Ludwig 2013_ [doi](https://doi.org/10.1007/s11661-013-1945-y) | Table 4, p. 12, row 10; `ORC-KKC4GOBHSQ` |  |
+| Phase transition | 850.85 K | 850.85 | eutectic: Al–10Si; _alloy: Si 1_ | experimental | [1] Liang 2014; _cites McDonald 2004_ [doi](https://doi.org/10.1016/j.actamat.2004.05.043) | Table 4, p. 12, row 23; `ORC-2ZOXFFNNA5` |  |
+| Phase transition | 851.15 K | 851.15 | eutectic: Al–10Si; _alloy: Si 1_ | experimental | [1] Liang 2014; _cites Kato 1997_ | Table 4, p. 12, row 20; `ORC-HIYFDRRKHJ` |  |
+| Phase transition | 852.15 K | 852.15 | eutectic: Al–10Si; _alloy: Si 1_ | experimental | [1] Liang 2014; _cites Kato 1997_ | Table 4, p. 12, row 21; `ORC-4RBXZWBFYH` |  |
 
 ## Sources
 
@@ -83,4 +83,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

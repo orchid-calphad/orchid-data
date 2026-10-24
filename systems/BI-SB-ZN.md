@@ -27,25 +27,25 @@ Table: Invariant reactions reported in the literature for the Bi–Sb–Zn syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 810.41 | other: β-Zn9Sb7 + β-Zn3Sb2 ↔ L + α-Zn9Sb7 | L: Bi 0.1313, Zn 0.4783 | model | [1] Zhang 2022 | Table 9, p. 15, row 1 |  |
-| 806.65 | quasi-peritectic: L + β-Zn9Sb7 ↔ α-Zn9Sb7 + SbZn | L: Bi 0.1415, Zn 0.4421 | model | [1] Zhang 2022 | Table 9, p. 15, row 3 |  |
-| 801.01 | peritectic: δ-Zn4Sb3 + SbZn ↔ L + γ-Zn6Sb5 |  | model | [1] Zhang 2022; _cites Minic 2010_ [doi](https://doi.org/10.1016/j.matchemphys.2010.02.078) | Table 9, p. 15, row 2 |  |
-| 795.32 | peritectic: L + β-Zn3Sb2 + α-Zn9Sb7 ↔ β-Zn13Sb10 | L: Bi 0.1963, Zn 0.4545 | model | [1] Zhang 2022 | Table 9, p. 15, row 4 |  |
-| 785.12 | quasi-peritectic: L + α-Zn9Sb7 ↔ β-Zn13Sb10 + SbZn | L: Bi 0.2469, Zn 0.3991 | model | [1] Zhang 2022 | Table 9, p. 15, row 6 |  |
-| 764.91 | L + δ-Zn4Sb3 + γ-Zn6Sb5 ↔ ε-Zn4Sb3 |  | model | [1] Zhang 2022; _cites Minic 2010_ [doi](https://doi.org/10.1016/j.matchemphys.2010.02.078) | Table 9, p. 15, row 5 |  |
-| 764.56 | L + γ-Zn6Sb5 ↔ ε-Zn4Sb3 + SbZn |  | model | [1] Zhang 2022; _cites Minic 2010_ [doi](https://doi.org/10.1016/j.matchemphys.2010.02.078) | Table 9, p. 15, row 7 |  |
-| 712.64 | L + ζ-Zn6Sb4 ↔ ε-Zn4Sb3 + η-Zn3Sb2 |  | model | [1] Zhang 2022; _cites Minic 2010_ [doi](https://doi.org/10.1016/j.matchemphys.2010.02.078) | Table 9, p. 15, row 9 |  |
-| 705.74 | quasi-peritectic: L + β-Zn3Sb2 ↔ β-Zn13Sb10 + α-Zn3Sb2 | L: Bi 0.41, Zn 0.4741 | model | [1] Zhang 2022 | Table 9, p. 15, row 8 |  |
-| 684.75 | eutectic: L ↔ L2 + Hcp(Zn) + α-Zn3Sb2 | L: Bi 0.0093, Zn 0.9712 | model | [1] Zhang 2022 | Table 9, p. 15, row 10 |  |
-| 684.75 | quasi-peritectic: L + L2 ↔ Hcp(Zn) + α-Zn3Sb2 |  | model | [1] Zhang 2022 | Table 9, p. 15, row 12 |  |
-| 683.91 | L + L2 ↔ Hcp(Zn) + α-Zn3Sb2 |  | model | [1] Zhang 2022; _cites Minic 2010_ [doi](https://doi.org/10.1016/j.matchemphys.2010.02.078) | Table 9, p. 15, row 13 |  |
-| 683.91 | L ↔ L2 + Hcp(Zn) + α-Zn3Sb2 |  | model | [1] Zhang 2022; _cites Minic 2010_ [doi](https://doi.org/10.1016/j.matchemphys.2010.02.078) | Table 9, p. 15, row 11 |  |
-| 677.83 | quasi-peritectic: L + α-Zn3Sb2 ↔ β-Zn13Sb10 + Hcp(Zn) | L: Bi 0.2898, Zn 0.6185 | model | [1] Zhang 2022 | Table 9, p. 15, row 14 |  |
-| 537.19 | L + SbZn ↔ β-Zn13Sb10 + Rho(Sb) |  | model | [1] Zhang 2022 | Table 9, p. 15, row 16 |  |
-| 536.15 | quasi-peritectic: L + SbZn ↔ β-Zn13Sb10 + Rho(Sb) |  | experimental | [1] Zhang 2022; _cites Minic 2010_ [doi](https://doi.org/10.1016/j.matchemphys.2010.02.078) | Table 9, p. 15, row 15 |  |
-| 531.23 | L + SbZn ↔ ε-Zn4Sb3 + Rho(Sb) |  | model | [1] Zhang 2022; _cites Minic 2010_ [doi](https://doi.org/10.1016/j.matchemphys.2010.02.078) | Table 9, p. 15, row 17 |  |
-| 527.93 | quasi-peritectic: L + ε-Zn4Sb3 ↔ Hcp(Zn) + Rho(Sb) |  | model | [1] Zhang 2022; _cites Minic 2010_ [doi](https://doi.org/10.1016/j.matchemphys.2010.02.078) | Table 9, p. 15, row 19 |  |
-| 527.64 | eutectic: L ↔ β-Zn13Sb10 + Rho(Sb) + Hcp(Zn) |  | model | [1] Zhang 2022 | Table 9, p. 15, row 18 |  |
+| 810.41 | other: β-Zn9Sb7 + β-Zn3Sb2 ↔ L + α-Zn9Sb7 | L: Bi 0.1313, Zn 0.4783 | model | [1] Zhang 2022 | Table 9, p. 15, row 1; `ORC-ZQUZ6U7RJ7` |  |
+| 806.65 | quasi-peritectic: L + β-Zn9Sb7 ↔ α-Zn9Sb7 + SbZn | L: Bi 0.1415, Zn 0.4421 | model | [1] Zhang 2022 | Table 9, p. 15, row 3; `ORC-J4XXGMYMX6` |  |
+| 801.01 | peritectic: δ-Zn4Sb3 + SbZn ↔ L + γ-Zn6Sb5 |  | model | [1] Zhang 2022; _cites Minic 2010_ [doi](https://doi.org/10.1016/j.matchemphys.2010.02.078) | Table 9, p. 15, row 2; `ORC-ASDTBAQUMI` |  |
+| 795.32 | peritectic: L + β-Zn3Sb2 + α-Zn9Sb7 ↔ β-Zn13Sb10 | L: Bi 0.1963, Zn 0.4545 | model | [1] Zhang 2022 | Table 9, p. 15, row 4; `ORC-2VBWHGGZ36` |  |
+| 785.12 | quasi-peritectic: L + α-Zn9Sb7 ↔ β-Zn13Sb10 + SbZn | L: Bi 0.2469, Zn 0.3991 | model | [1] Zhang 2022 | Table 9, p. 15, row 6; `ORC-CLKJPSUH36` |  |
+| 764.91 | L + δ-Zn4Sb3 + γ-Zn6Sb5 ↔ ε-Zn4Sb3 |  | model | [1] Zhang 2022; _cites Minic 2010_ [doi](https://doi.org/10.1016/j.matchemphys.2010.02.078) | Table 9, p. 15, row 5; `ORC-TG2VXN4IOZ` |  |
+| 764.56 | L + γ-Zn6Sb5 ↔ ε-Zn4Sb3 + SbZn |  | model | [1] Zhang 2022; _cites Minic 2010_ [doi](https://doi.org/10.1016/j.matchemphys.2010.02.078) | Table 9, p. 15, row 7; `ORC-SNP63JLELN` |  |
+| 712.64 | L + ζ-Zn6Sb4 ↔ ε-Zn4Sb3 + η-Zn3Sb2 |  | model | [1] Zhang 2022; _cites Minic 2010_ [doi](https://doi.org/10.1016/j.matchemphys.2010.02.078) | Table 9, p. 15, row 9; `ORC-T3XM3FZTM3` |  |
+| 705.74 | quasi-peritectic: L + β-Zn3Sb2 ↔ β-Zn13Sb10 + α-Zn3Sb2 | L: Bi 0.41, Zn 0.4741 | model | [1] Zhang 2022 | Table 9, p. 15, row 8; `ORC-MKXIWAKCNE` |  |
+| 684.75 | eutectic: L ↔ L2 + Hcp(Zn) + α-Zn3Sb2 | L: Bi 0.0093, Zn 0.9712 | model | [1] Zhang 2022 | Table 9, p. 15, row 10; `ORC-DFRKFG5MA6` |  |
+| 684.75 | quasi-peritectic: L + L2 ↔ Hcp(Zn) + α-Zn3Sb2 |  | model | [1] Zhang 2022 | Table 9, p. 15, row 12; `ORC-UFWYYSGGYR` |  |
+| 683.91 | L + L2 ↔ Hcp(Zn) + α-Zn3Sb2 |  | model | [1] Zhang 2022; _cites Minic 2010_ [doi](https://doi.org/10.1016/j.matchemphys.2010.02.078) | Table 9, p. 15, row 13; `ORC-O3FZJDM2D2` |  |
+| 683.91 | L ↔ L2 + Hcp(Zn) + α-Zn3Sb2 |  | model | [1] Zhang 2022; _cites Minic 2010_ [doi](https://doi.org/10.1016/j.matchemphys.2010.02.078) | Table 9, p. 15, row 11; `ORC-X2TFQPX6CJ` |  |
+| 677.83 | quasi-peritectic: L + α-Zn3Sb2 ↔ β-Zn13Sb10 + Hcp(Zn) | L: Bi 0.2898, Zn 0.6185 | model | [1] Zhang 2022 | Table 9, p. 15, row 14; `ORC-LWDETZBVAM` |  |
+| 537.19 | L + SbZn ↔ β-Zn13Sb10 + Rho(Sb) |  | model | [1] Zhang 2022 | Table 9, p. 15, row 16; `ORC-B3RZT6PWPK` |  |
+| 536.15 | quasi-peritectic: L + SbZn ↔ β-Zn13Sb10 + Rho(Sb) |  | experimental | [1] Zhang 2022; _cites Minic 2010_ [doi](https://doi.org/10.1016/j.matchemphys.2010.02.078) | Table 9, p. 15, row 15; `ORC-2C4YECUZ2A` |  |
+| 531.23 | L + SbZn ↔ ε-Zn4Sb3 + Rho(Sb) |  | model | [1] Zhang 2022; _cites Minic 2010_ [doi](https://doi.org/10.1016/j.matchemphys.2010.02.078) | Table 9, p. 15, row 17; `ORC-RGBPBUASES` |  |
+| 527.93 | quasi-peritectic: L + ε-Zn4Sb3 ↔ Hcp(Zn) + Rho(Sb) |  | model | [1] Zhang 2022; _cites Minic 2010_ [doi](https://doi.org/10.1016/j.matchemphys.2010.02.078) | Table 9, p. 15, row 19; `ORC-5BC2TC5Y2T` |  |
+| 527.64 | eutectic: L ↔ β-Zn13Sb10 + Rho(Sb) + Hcp(Zn) |  | model | [1] Zhang 2022 | Table 9, p. 15, row 18; `ORC-YG2KLQ67C5` |  |
 
 ## Sources
 
@@ -88,4 +88,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

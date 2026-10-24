@@ -61,8 +61,8 @@ Table: Invariant reactions reported in the literature for the Cr–O system (2)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1973 | peritectic |  | model | [1] Povoden 2006 | p. 8 | “At a mole fraction of oxygen >0.497 it decomposes in a peritectic reaction at 1973 K that forms Cr2O3 and liquid.” |
-| 1938 | eutectic |  | model | [1] Povoden 2006 | p. 8 | “For the monotectic temperature of the reaction of Cr (bcc) and liquid, the present authors calculate 2117 K, and for the eutectic one gets 1938 K at a mole fraction of oxygen of 0.497.” |
+| 1973 | peritectic |  | model | [1] Povoden 2006 | p. 8; `ORC-GNLVENDC3L` | “At a mole fraction of oxygen >0.497 it decomposes in a peritectic reaction at 1973 K that forms Cr2O3 and liquid.” |
+| 1938 | eutectic |  | model | [1] Povoden 2006 | p. 8; `ORC-B5PNSHH53C.f96283` | “For the monotectic temperature of the reaction of Cr (bcc) and liquid, the present authors calculate 2117 K, and for the eutectic one gets 1938 K at a mole fraction of oxygen of 0.497.” |
 
 ## Other properties
 
@@ -72,13 +72,13 @@ Table: Phase transition, Cr–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 305.5 K | 305.5 | magnetic | experimental | [1] Povoden 2006 | p. 3 | “Eskolaite shows an antiferromagnetic to paramagnetic transition at 305.5 K.” |
-| Phase transition | 1918 K | 1918 | other: Cr2O3 + Cr + 1⁄2 O2 → Cr3O4 | model | [1] Povoden 2006 | p. 8 | “Cr3O4 is formed at 1918 K by a eutectoid reaction Cr2O3 + Cr + 1⁄2 O2 → Cr3O4.” |
-| Phase transition | 2117 K | 2117 | other | model | [1] Povoden 2006 | p. 8 | “For the monotectic temperature of the reaction of Cr (bcc) and liquid, the present authors calculate 2117 K, and for the eutectic one gets 1938 K at a mole fraction of oxygen of 0.497.” |
-| Phase transition | 2539 K | 2539 | other | model | [1] Povoden 2006 | p. 8 | “The calculated liquidus temperature of eskolaite in air is 2539 K, in good agreement with the measurement from Bunting.\[7\]” |
-| Phase transition | 2543 K | 2543 | other | experimental | [1] Povoden 2006; _cites Bunting 1931_ | p. 3 | “Their calculated liquidus temperature of Cr2O3 in air is 2571.16 K, which is in good agreement with an early finding by Bunting\[7\] who measured 2543 ± 25 K.” |
-| Phase transition | 2571.16 K | 2571.16 | other | model | [1] Povoden 2006 | p. 3 | “Their calculated liquidus temperature of Cr2O3 in air is 2571.16 K, which is in good agreement with an early finding by Bunting\[7\] who measured 2543 ± 25 K.” |
-| Phase transition | 2603 K | 2603 |  | experimental | [1] Povoden 2006; _cites McNally 1961_ | p. 1 | “McNally\[6\] measured a melting temperature of 2603 K in air using an induction furnace.” |
+| Phase transition | 305.5 K | 305.5 | magnetic | experimental | [1] Povoden 2006 | p. 3; `ORC-7LADEUDZEX` | “Eskolaite shows an antiferromagnetic to paramagnetic transition at 305.5 K.” |
+| Phase transition | 1918 K | 1918 | other: Cr2O3 + Cr + 1⁄2 O2 → Cr3O4 | model | [1] Povoden 2006 | p. 8; `ORC-JTS3YFGBFT` | “Cr3O4 is formed at 1918 K by a eutectoid reaction Cr2O3 + Cr + 1⁄2 O2 → Cr3O4.” |
+| Phase transition | 2117 K | 2117 | other | model | [1] Povoden 2006 | p. 8; `ORC-B5PNSHH53C.cc0e10` | “For the monotectic temperature of the reaction of Cr (bcc) and liquid, the present authors calculate 2117 K, and for the eutectic one gets 1938 K at a mole fraction of oxygen of 0.497.” |
+| Phase transition | 2539 K | 2539 | other | model | [1] Povoden 2006 | p. 8; `ORC-B5PNSHH53C.c1bc07` | “The calculated liquidus temperature of eskolaite in air is 2539 K, in good agreement with the measurement from Bunting.\[7\]” |
+| Phase transition | 2543 K | 2543 | other | experimental | [1] Povoden 2006; _cites Bunting 1931_ | p. 3; `ORC-22JWIFLKKA.e40b08` | “Their calculated liquidus temperature of Cr2O3 in air is 2571.16 K, which is in good agreement with an early finding by Bunting\[7\] who measured 2543 ± 25 K.” |
+| Phase transition | 2571.16 K | 2571.16 | other | model | [1] Povoden 2006 | p. 3; `ORC-22JWIFLKKA.f980e8` | “Their calculated liquidus temperature of Cr2O3 in air is 2571.16 K, which is in good agreement with an early finding by Bunting\[7\] who measured 2543 ± 25 K.” |
+| Phase transition | 2603 K | 2603 |  | experimental | [1] Povoden 2006; _cites McNally 1961_ | p. 1; `ORC-WPRS6SAVFC` | “McNally\[6\] measured a melting temperature of 2603 K in air using an induction furnace.” |
 
 ## Sources
 
@@ -143,4 +143,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

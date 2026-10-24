@@ -55,19 +55,19 @@ Table: Invariant reactions reported in the literature for the Ag–Ni system (13
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2460 | G + L2 -> L1 | G: Ni 0.0158; L2: Ni 0.8199; L1: Ni 0.1904 | model | [1] Rajkumar 2017 | Table III, p. 7, row 1 |  |
-| 1708.15 | eutectic: L1 -> fcc (Ni) + L2 | L1: Ag 0.03; fcc (Ni): Ag 0.01; L2: Ag 0.9611 | experimental | [2] Liu 2008; _cites Sinoleton 1991_ | Table II, p. 3, row 1 |  |
-| 1708.15 | eutectic: L1 -> fcc (Ni) + L2 | L1: Ag 0.031; fcc (Ni): Ag 0.014; L2: Ag 0.958 | model | [2] Liu 2008 | Table II, p. 3, row 2 |  |
-| 1708 | L2 -> L1 + (Ni) | L2: Ni 0.9836; L1: Ni 0.0386; (Ni): Ni 0.9992 | model | [1] Rajkumar 2017 | Table III, p. 7, row 2 |  |
-| 1708 | monotectic |  | experimental | [1] Rajkumar 2017; _cites Singleton 1987_ [doi](https://doi.org/10.1007/bf02873194) | p. 3 | “The monotectic at 1708 K6 is taken as internal reference.” |
-| 1234 | L1 -> (Ag) + (Ni) | L1: Ni 0.0051; (Ag): Ni 0.0038; (Ni): Ni 0.9999 | model | [1] Rajkumar 2017 | Table III, p. 7, row 3 |  |
-| 1233.15 | eutectic: L -> fcc (Ni) + fcc (Ag) |  | model | [2] Liu 2008; _cites Sinoleton 1991_ | p. 2 | “There is a eutectic reaction \[L fi fcc (Ni) + fcc (Ag)\] at 960C and a monotectic reaction \[L1 fi fcc (Ni) + L2\] at 1435C.” |
-| 1233.15 | monotectic: L -> fcc (Ni) + fcc (Ag) | L: Ag 0.9968; fcc (Ag): Ag 0.998 | experimental | [2] Liu 2008; _cites Sinoleton 1991_ | Table II, p. 3, row 3 |  |
-| 1233 | eutectic |  | experimental | [1] Rajkumar 2017; _cites Singleton 1987_ [doi](https://doi.org/10.1007/bf02873194) | p. 4 | “The eutectic temperature measured in the present work (average, 1229 K) is in accordance with the value (1233 K) reported by Singleton and Nash.6” |
-| 1232.15 | monotectic: L -> fcc (Ni) + fcc (Ag) | L: Ag 0.995; fcc (Ni): Ag 0.0045; fcc (Ag): Ag 0.998 | model | [2] Liu 2008 | Table II, p. 3, row 4 |  |
-| 1231 | eutectic |  | experimental | [1] Rajkumar 2017 | p. 4 | “According to the heating curve, the eutectic reaction temperature measured is 1228 K, 1231 K, 1228 K for Ag-20 at.%, 50 at.% and 80 at.% Ni respectively.” |
-| 1229 | eutectic |  | experimental | [1] Rajkumar 2017 | p. 4 | “The eutectic temperature measured in the present work (average, 1229 K) is in accordance with the value (1233 K) reported by Singleton and Nash.6” |
-| 1228 | eutectic |  | experimental | [1] Rajkumar 2017 | p. 4 | “According to the heating curve, the eutectic reaction temperature measured is 1228 K, 1231 K, 1228 K for Ag-20 at.%, 50 at.% and 80 at.% Ni respectively.” |
+| 2460 | G + L2 -> L1 | G: Ni 0.0158; L2: Ni 0.8199; L1: Ni 0.1904 | model | [1] Rajkumar 2017 | Table III, p. 7, row 1; `ORC-ZWW2KGKXJZ` |  |
+| 1708.15 | eutectic: L1 -> fcc (Ni) + L2 | L1: Ag 0.03; fcc (Ni): Ag 0.01; L2: Ag 0.9611 | experimental | [2] Liu 2008; _cites Sinoleton 1991_ | Table II, p. 3, row 1; `ORC-ANAJ7HFOBG` |  |
+| 1708.15 | eutectic: L1 -> fcc (Ni) + L2 | L1: Ag 0.031; fcc (Ni): Ag 0.014; L2: Ag 0.958 | model | [2] Liu 2008 | Table II, p. 3, row 2; `ORC-YMICACAANB` |  |
+| 1708 | L2 -> L1 + (Ni) | L2: Ni 0.9836; L1: Ni 0.0386; (Ni): Ni 0.9992 | model | [1] Rajkumar 2017 | Table III, p. 7, row 2; `ORC-NQQH6UHVQL` |  |
+| 1708 | monotectic |  | experimental | [1] Rajkumar 2017; _cites Singleton 1987_ [doi](https://doi.org/10.1007/bf02873194) | p. 3; `ORC-YI7SJ56SEY` | “The monotectic at 1708 K6 is taken as internal reference.” |
+| 1234 | L1 -> (Ag) + (Ni) | L1: Ni 0.0051; (Ag): Ni 0.0038; (Ni): Ni 0.9999 | model | [1] Rajkumar 2017 | Table III, p. 7, row 3; `ORC-L3FAZXVINP` |  |
+| 1233.15 | eutectic: L -> fcc (Ni) + fcc (Ag) |  | model | [2] Liu 2008; _cites Sinoleton 1991_ | p. 2; `ORC-3ZZCA2XVBT.255411` | “There is a eutectic reaction \[L fi fcc (Ni) + fcc (Ag)\] at 960C and a monotectic reaction \[L1 fi fcc (Ni) + L2\] at 1435C.” |
+| 1233.15 | monotectic: L -> fcc (Ni) + fcc (Ag) | L: Ag 0.9968; fcc (Ag): Ag 0.998 | experimental | [2] Liu 2008; _cites Sinoleton 1991_ | Table II, p. 3, row 3; `ORC-Z6AYM4OAC7` |  |
+| 1233 | eutectic |  | experimental | [1] Rajkumar 2017; _cites Singleton 1987_ [doi](https://doi.org/10.1007/bf02873194) | p. 4; `ORC-7LLUIVYRKL.3f3ed9` | “The eutectic temperature measured in the present work (average, 1229 K) is in accordance with the value (1233 K) reported by Singleton and Nash.6” |
+| 1232.15 | monotectic: L -> fcc (Ni) + fcc (Ag) | L: Ag 0.995; fcc (Ni): Ag 0.0045; fcc (Ag): Ag 0.998 | model | [2] Liu 2008 | Table II, p. 3, row 4; `ORC-CYJUQMWWTM` |  |
+| 1231 | eutectic |  | experimental | [1] Rajkumar 2017 | p. 4; `ORC-ERFAHNALYO.b15ba9` | “According to the heating curve, the eutectic reaction temperature measured is 1228 K, 1231 K, 1228 K for Ag-20 at.%, 50 at.% and 80 at.% Ni respectively.” |
+| 1229 | eutectic |  | experimental | [1] Rajkumar 2017 | p. 4; `ORC-7LLUIVYRKL.9d6c09` | “The eutectic temperature measured in the present work (average, 1229 K) is in accordance with the value (1233 K) reported by Singleton and Nash.6” |
+| 1228 | eutectic |  | experimental | [1] Rajkumar 2017 | p. 4; `ORC-ERFAHNALYO.615bb5` | “According to the heating curve, the eutectic reaction temperature measured is 1228 K, 1231 K, 1228 K for Ag-20 at.%, 50 at.% and 80 at.% Ni respectively.” |
 
 ## Other properties
 
@@ -77,13 +77,13 @@ Table: Phase transition, Ag–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1708.15 K | 1708.15 | other: L1 -> fcc (Ni) + L2 | model | [2] Liu 2008; _cites Sinoleton 1991_ | p. 2 | “There is a eutectic reaction \[L fi fcc (Ni) + fcc (Ag)\] at 960C and a monotectic reaction \[L1 fi fcc (Ni) + L2\] at 1435C.” |
-| Phase transition | 2442 K | 2442 |  | experimental | [1] Rajkumar 2017 | p. 4 | “The measured temperature (average of two values) was 2442 K, 2624 K and 2451 K for Ag-20 at.%, 50 at.%, and 80 at.% Ni, respectively.” |
-| Phase transition | 2451 K | 2451 |  | experimental | [1] Rajkumar 2017 | p. 4 | “The measured temperature (average of two values) was 2442 K, 2624 K and 2451 K for Ag-20 at.%, 50 at.%, and 80 at.% Ni, respectively.” |
-| Phase transition | 2624 K | 2624 |  | experimental | [1] Rajkumar 2017 | p. 4 | “The measured temperature (average of two values) was 2442 K, 2624 K and 2451 K for Ag-20 at.%, 50 at.%, and 80 at.% Ni, respectively.” |
-| Phase transition | 2753 K | 2753 | other | model | [1] Rajkumar 2017 | p. 6 | “According to the present Gibbs energy model parameters, the liquid critical temperature (Tc) is 2753 K at Ag-50 at.% Ni and the Tc of metastable (Ag,Ni) is 5173 K at Ag-65 at.% Ni.” |
-| Phase transition | 4000 K | 4000 | other | model | [1] Rajkumar 2017; _cites Colinet 1998_ | p. 6 | “The Tc of the liquid is in accordance with the present experimental measurement, whereas the Tc of (Ag,Ni) is higher than the value calculated by Colinet and Pasturel (Tc 4000 K18).” |
-| Phase transition | 5173 K | 5173 | other | model | [1] Rajkumar 2017 | p. 6 | “According to the present Gibbs energy model parameters, the liquid critical temperature (Tc) is 2753 K at Ag-50 at.% Ni and the Tc of metastable (Ag,Ni) is 5173 K at Ag-65 at.% Ni.” |
+| Phase transition | 1708.15 K | 1708.15 | other: L1 -> fcc (Ni) + L2 | model | [2] Liu 2008; _cites Sinoleton 1991_ | p. 2; `ORC-3ZZCA2XVBT.2c104e` | “There is a eutectic reaction \[L fi fcc (Ni) + fcc (Ag)\] at 960C and a monotectic reaction \[L1 fi fcc (Ni) + L2\] at 1435C.” |
+| Phase transition | 2442 K | 2442 |  | experimental | [1] Rajkumar 2017 | p. 4; `ORC-AZ6QQAX5CJ.4ac78e` | “The measured temperature (average of two values) was 2442 K, 2624 K and 2451 K for Ag-20 at.%, 50 at.%, and 80 at.% Ni, respectively.” |
+| Phase transition | 2451 K | 2451 |  | experimental | [1] Rajkumar 2017 | p. 4; `ORC-AZ6QQAX5CJ.909ad6` | “The measured temperature (average of two values) was 2442 K, 2624 K and 2451 K for Ag-20 at.%, 50 at.%, and 80 at.% Ni, respectively.” |
+| Phase transition | 2624 K | 2624 |  | experimental | [1] Rajkumar 2017 | p. 4; `ORC-AZ6QQAX5CJ.60255e` | “The measured temperature (average of two values) was 2442 K, 2624 K and 2451 K for Ag-20 at.%, 50 at.%, and 80 at.% Ni, respectively.” |
+| Phase transition | 2753 K | 2753 | other | model | [1] Rajkumar 2017 | p. 6; `ORC-OHAFLWXY6D.f3176a` | “According to the present Gibbs energy model parameters, the liquid critical temperature (Tc) is 2753 K at Ag-50 at.% Ni and the Tc of metastable (Ag,Ni) is 5173 K at Ag-65 at.% Ni.” |
+| Phase transition | 4000 K | 4000 | other | model | [1] Rajkumar 2017; _cites Colinet 1998_ | p. 6; `ORC-GMVI6P3QJ7` | “The Tc of the liquid is in accordance with the present experimental measurement, whereas the Tc of (Ag,Ni) is higher than the value calculated by Colinet and Pasturel (Tc 4000 K18).” |
+| Phase transition | 5173 K | 5173 | other | model | [1] Rajkumar 2017 | p. 6; `ORC-OHAFLWXY6D.6f895f` | “According to the present Gibbs energy model parameters, the liquid critical temperature (Tc) is 2753 K at Ag-50 at.% Ni and the Tc of metastable (Ag,Ni) is 5173 K at Ag-65 at.% Ni.” |
 
 ### Phase equilibrium (2)
 
@@ -91,8 +91,8 @@ Table: Phase equilibrium, Ag–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 1023 | (Ni) + (Ag); _(Ni): Ag 0.0121, Ni 0.9879; (Ag): Ag 0.9879, Ni 0.0121_ | experimental | [1] Rajkumar 2017 | Table II, p. 3, row 5 |  |
-| Phase composition |  | 1473 | L1 + (Ni); _L1: Ag 0.9771, Ni 0.0229; (Ni): Ag 0.0024, Ni 0.9976_ | experimental | [1] Rajkumar 2017 | Table II, p. 3, row 4 |  |
+| Phase composition |  | 1023 | (Ni) + (Ag); _(Ni): Ag 0.0121, Ni 0.9879; (Ag): Ag 0.9879, Ni 0.0121_ | experimental | [1] Rajkumar 2017 | Table II, p. 3, row 5; `ORC-IMMB7R3YHC` |  |
+| Phase composition |  | 1473 | L1 + (Ni); _L1: Ag 0.9771, Ni 0.0229; (Ni): Ag 0.0024, Ni 0.9976_ | experimental | [1] Rajkumar 2017 | Table II, p. 3, row 4; `ORC-Y34QJQ4CT7` |  |
 
 ### Mixing / partial (2)
 
@@ -100,8 +100,8 @@ Table: Mixing / partial, Ag–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: enthalpy of mixing_ | 13.5 kJ/mol (basis unstated) | 1773 |  | experimental | [1] Rajkumar 2017; _cites Saeed 2006_ [doi](https://doi.org/10.1557/jmr.2006.0157) | p. 5 | “The enthalpy of mixing of the liquid at 1773 K by Saeed et al.20 shows a kink at about 4.5 and 98.5 at.% Ni which confirms the immiscibility. These experimental values were fitted by Saeed et al.20 to give a maximum value of +13.5 kJ mol1 at Ag-60 at.% Ni.” |
-| Enthalpy of mixing; _printed: enthalpy of mixing_ | 16.77 kJ/mol (basis unstated) | 1773 |  | model | [1] Rajkumar 2017 | p. 5 | “In the present work, the enthalpy of mixing of Ag-59.9 at.% Ni at 1773 K is maximum with a value of 16.77 kJ mol1.” |
+| Enthalpy of mixing; _printed: enthalpy of mixing_ | 13.5 kJ/mol (basis unstated) | 1773 |  | experimental | [1] Rajkumar 2017; _cites Saeed 2006_ [doi](https://doi.org/10.1557/jmr.2006.0157) | p. 5; `ORC-3GHR27LY5E` | “The enthalpy of mixing of the liquid at 1773 K by Saeed et al.20 shows a kink at about 4.5 and 98.5 at.% Ni which confirms the immiscibility. These experimental values were fitted by Saeed et al.20 to give a maximum value of +13.5 kJ mol1 at Ag-60 at.% Ni.” |
+| Enthalpy of mixing; _printed: enthalpy of mixing_ | 16.77 kJ/mol (basis unstated) | 1773 |  | model | [1] Rajkumar 2017 | p. 5; `ORC-SYLS5ZCRUG` | “In the present work, the enthalpy of mixing of Ag-59.9 at.% Ni at 1773 K is maximum with a value of 16.77 kJ mol1.” |
 
 ## Sources
 
@@ -167,4 +167,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

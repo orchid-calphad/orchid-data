@@ -14,11 +14,11 @@ Table: Enthalpy of formation of Pd4Yb3 reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -73 kJ/mol-atom ± 3 | Pd4Yb3 | 1029.5 | experimental | KEML/KEMS\* | [Pd–Yb](https://data.orchid-project.org/systems/PD-YB.html) | [1] Kardellass 2020; _cites Ciccioli 2016_ [doi](https://doi.org/10.1016/j.tca.2016.01.004) | Table 3, p. 5, row 42 |  |
-| -92.562 kJ/mol-atom | Pd4Yb3 | 298.15 | model | Prediction | [Pd–Yb](https://data.orchid-project.org/systems/PD-YB.html) | [1] Kardellass 2020; _cites De 2014_ | Table 3, p. 5, row 41 |  |
-| -77.2289 kJ/mol-atom | Pd4Yb3 | 298.15 | model | Optimization R-K | [Pd–Yb](https://data.orchid-project.org/systems/PD-YB.html) | [1] Kardellass 2020 | Table 3, p. 5, row 39 |  |
-| -71.5898 kJ/mol-atom | Pd4Yb3 | 298.15 | model | Optimization K | [Pd–Yb](https://data.orchid-project.org/systems/PD-YB.html) | [1] Kardellass 2020 | Table 3, p. 5, row 40 |  |
-| -81.181 kJ/mol-atom | Pd4Yb3 | 298.15 | DFT | Ab-initio | [Pd–Yb](https://data.orchid-project.org/systems/PD-YB.html) | [1] Kardellass 2020 | Table 3, p. 5, row 43 |  |
+| -73 kJ/mol-atom ± 3 | Pd4Yb3 | 1029.5 | experimental | KEML/KEMS\* | [Pd–Yb](https://data.orchid-project.org/systems/PD-YB.html) | [1] Kardellass 2020; _cites Ciccioli 2016_ [doi](https://doi.org/10.1016/j.tca.2016.01.004) | Table 3, p. 5, row 42; `ORC-VB6CVFR7WW.001943` |  |
+| -92.562 kJ/mol-atom | Pd4Yb3 | 298.15 | model | Prediction | [Pd–Yb](https://data.orchid-project.org/systems/PD-YB.html) | [1] Kardellass 2020; _cites De 2014_ | Table 3, p. 5, row 41; `ORC-NVK4N4RJ56.3ad385` |  |
+| -77.2289 kJ/mol-atom | Pd4Yb3 | 298.15 | model | Optimization R-K | [Pd–Yb](https://data.orchid-project.org/systems/PD-YB.html) | [1] Kardellass 2020 | Table 3, p. 5, row 39; `ORC-SEUD7B3ZHR.59d2d8` |  |
+| -71.5898 kJ/mol-atom | Pd4Yb3 | 298.15 | model | Optimization K | [Pd–Yb](https://data.orchid-project.org/systems/PD-YB.html) | [1] Kardellass 2020 | Table 3, p. 5, row 40; `ORC-2BWYVN4H3Z.06488a` |  |
+| -81.181 kJ/mol-atom | Pd4Yb3 | 298.15 | DFT | Ab-initio | [Pd–Yb](https://data.orchid-project.org/systems/PD-YB.html) | [1] Kardellass 2020 | Table 3, p. 5, row 43; `ORC-Q4PQK4ROGY.655aa7` |  |
 
 ### Uncertainty budget
 
@@ -97,4 +97,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

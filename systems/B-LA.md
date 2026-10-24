@@ -31,9 +31,9 @@ Table: Invariant reactions reported in the literature for the B–La system (3)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2280.15 | LaB6 + (B) = LaB9 | LaB6: B 0.85714; LaB9: B 0.9 | experimental | [1] Tang 2013; _cites Storms 2013_ | Table 4, p. 6, row 7 |  |
-| 2278.85 | LaB6 + (B) = LaB9 | LaB6: B 0.85714; (B): B 1; LaB9: B 0.9 | model | [1] Tang 2013 | Table 4, p. 6, row 8 |  |
-| 2276.05 | LaB6 + (B) = LaB9 | LaB6: B 0.85714; (B): B 1; LaB9: B 0.9 | model | [1] Tang 2013 | Table 4, p. 6, row 9 |  |
+| 2280.15 | LaB6 + (B) = LaB9 | LaB6: B 0.85714; LaB9: B 0.9 | experimental | [1] Tang 2013; _cites Storms 2013_ | Table 4, p. 6, row 7; `ORC-PKQ2VUGFLY` |  |
+| 2278.85 | LaB6 + (B) = LaB9 | LaB6: B 0.85714; (B): B 1; LaB9: B 0.9 | model | [1] Tang 2013 | Table 4, p. 6, row 8; `ORC-QZIYLUPZ6J` |  |
+| 2276.05 | LaB6 + (B) = LaB9 | LaB6: B 0.85714; (B): B 1; LaB9: B 0.9 | model | [1] Tang 2013 | Table 4, p. 6, row 9; `ORC-ICE2UIX6CV` |  |
 
 ## Other properties
 
@@ -43,12 +43,12 @@ Table: Crystal structure, B–La system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 7.31 Å | 0 | LaB4; _alloy: La 0.2_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 14 |  |
-| Lattice a | 7.325 Å |  | LaB4; _alloy: La 0.2_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 13 |  |
-| Lattice a | 4.151 Å |  | LaB6; _alloy: La 0.142857_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 15 |  |
-| Lattice a | 4.155 Å | 0 | LaB6; _alloy: La 0.142857_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 16 |  |
-| Lattice c | 4.184 Å | 0 | LaB4; _alloy: La 0.2_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 14 |  |
-| Lattice c | 4.181 Å |  | LaB4; _alloy: La 0.2_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 13 |  |
+| Lattice a | 7.31 Å | 0 | LaB4; _alloy: La 0.2_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 14; `ORC-EGUAPUGFXB.1eaea0` |  |
+| Lattice a | 7.325 Å |  | LaB4; _alloy: La 0.2_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 13; `ORC-SNGOMQACSW.eadd51` |  |
+| Lattice a | 4.151 Å |  | LaB6; _alloy: La 0.142857_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 15; `ORC-6P5ERHEPQJ` |  |
+| Lattice a | 4.155 Å | 0 | LaB6; _alloy: La 0.142857_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 16; `ORC-UVIAMENLTP` |  |
+| Lattice c | 4.184 Å | 0 | LaB4; _alloy: La 0.2_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 14; `ORC-EGUAPUGFXB.00b9e5` |  |
+| Lattice c | 4.181 Å |  | LaB4; _alloy: La 0.2_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 13; `ORC-SNGOMQACSW.246406` |  |
 
 ## Sources
 
@@ -102,4 +102,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

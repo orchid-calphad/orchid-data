@@ -61,24 +61,24 @@ Table: Invariant reactions reported in the literature for the Cu–Th system (18
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1328.15 | congruent melting: L -> Cu6Th | L: Th 0.1429; Cu6Th: Cu 0.857143, Th 0.142857 | experimental | [1] Wang 2008; _cites Schiltz 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990128-7) | Table 3, p. 3, row 11 |  |
-| 1327.75 | congruent melting: L -> Cu6Th | L: Th 0.1429; Cu6Th: Cu 0.857143, Th 0.142857 | model | [1] Wang 2008 | Table 3, p. 3, row 12 |  |
-| 1325.15 | congruent melting: L -> Cu3.6Th | L: Th 0.2174; Cu3.6Th: Cu 0.782609, Th 0.217391 | experimental | [1] Wang 2008; _cites Schiltz 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990128-7) | Table 3, p. 3, row 13 |  |
-| 1325.05 | congruent melting: L -> Cu3.6Th | L: Th 0.2174; Cu3.6Th: Cu 0.782609, Th 0.217391 | model | [1] Wang 2008 | Table 3, p. 3, row 14 |  |
-| 1293.35 | eutectic: L -> Cu6Th + Cu3.6Th | L: Th 0.186; Cu6Th: Cu 0.857143, Th 0.142857; Cu3.6Th: Cu 0.782609, Th 0.217391 | model | [1] Wang 2008 | Table 3, p. 3, row 4 |  |
-| 1293.15 | eutectic: L -> Cu6Th + Cu3.6Th | L: Th 0.18; Cu6Th: Cu 0.857143, Th 0.142857; Cu3.6Th: Cu 0.782609, Th 0.217391 | experimental | [1] Wang 2008; _cites Schiltz 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990128-7) | Table 3, p. 3, row 3 |  |
-| 1288.15 | congruent melting: L -> Cu2Th | L: Th 0.3333; Cu2Th: Cu 0.666667, Th 0.333333 | experimental | [1] Wang 2008; _cites Schiltz 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990128-7) | Table 3, p. 3, row 15 |  |
-| 1288.15 | congruent melting: L -> Cu2Th | L: Th 0.3333; Cu2Th: Cu 0.666667, Th 0.333333 | model | [1] Wang 2008 | Table 3, p. 3, row 16 |  |
-| 1280.15 | congruent melting: L -> CuTh2 | L: Th 0.6667; CuTh2: Cu 0.333333, Th 0.666667 | experimental | [1] Wang 2008; _cites Schiltz 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990128-7) | Table 3, p. 3, row 17 |  |
-| 1277.95 | congruent melting: L -> CuTh2 | L: Th 0.6667; CuTh2: Cu 0.333333, Th 0.666667 | model | [1] Wang 2008 | Table 3, p. 3, row 18 |  |
-| 1275.05 | eutectic: L -> CuTh2 + (αTh) | L: Th 0.702; CuTh2: Cu 0.333333, Th 0.666667 | model | [1] Wang 2008 | Table 3, p. 3, row 10 |  |
-| 1273.15 | eutectic: L -> CuTh2 + (αTh) | L: Th 0.7; CuTh2: Cu 0.333333, Th 0.666667 | experimental | [1] Wang 2008; _cites Schiltz 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990128-7) | Table 3, p. 3, row 9 |  |
-| 1257.75 | eutectic: L -> Cu3.6Th + Cu2Th | L: Th 0.265; Cu3.6Th: Cu 0.782609, Th 0.217391; Cu2Th: Cu 0.666667, Th 0.333333 | model | [1] Wang 2008 | Table 3, p. 3, row 6 |  |
-| 1253.15 | eutectic: L -> Cu3.6Th + Cu2Th | L: Th 0.26; Cu3.6Th: Cu 0.782609, Th 0.217391; Cu2Th: Cu 0.666667, Th 0.333333 | experimental | [1] Wang 2008; _cites Schiltz 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990128-7) | Table 3, p. 3, row 5 |  |
-| 1208.15 | eutectic: L -> (Cu) + Cu6Th | L: Th 0.07; Cu6Th: Cu 0.857143, Th 0.142857 | experimental | [1] Wang 2008; _cites Schiltz 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990128-7) | Table 3, p. 3, row 1 |  |
-| 1206.05 | eutectic: L -> (Cu) + Cu6Th | L: Th 0.074; Cu6Th: Cu 0.857143, Th 0.142857 | model | [1] Wang 2008 | Table 3, p. 3, row 2 |  |
-| 1157.75 | eutectic: L -> Cu2Th + CuTh2 | L: Th 0.488; Cu2Th: Cu 0.666667, Th 0.333333; CuTh2: Cu 0.333333, Th 0.666667 | model | [1] Wang 2008 | Table 3, p. 3, row 8 |  |
-| 1153.15 | eutectic: L -> Cu2Th + CuTh2 | L: Th 0.49; Cu2Th: Cu 0.666667, Th 0.333333; CuTh2: Cu 0.333333, Th 0.666667 | experimental | [1] Wang 2008; _cites Schiltz 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990128-7) | Table 3, p. 3, row 7 |  |
+| 1328.15 | congruent melting: L -> Cu6Th | L: Th 0.1429; Cu6Th: Cu 0.857143, Th 0.142857 | experimental | [1] Wang 2008; _cites Schiltz 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990128-7) | Table 3, p. 3, row 11; `ORC-UCX55U43L2` |  |
+| 1327.75 | congruent melting: L -> Cu6Th | L: Th 0.1429; Cu6Th: Cu 0.857143, Th 0.142857 | model | [1] Wang 2008 | Table 3, p. 3, row 12; `ORC-FN3GW7C4P7` |  |
+| 1325.15 | congruent melting: L -> Cu3.6Th | L: Th 0.2174; Cu3.6Th: Cu 0.782609, Th 0.217391 | experimental | [1] Wang 2008; _cites Schiltz 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990128-7) | Table 3, p. 3, row 13; `ORC-XJMVF7XKTJ` |  |
+| 1325.05 | congruent melting: L -> Cu3.6Th | L: Th 0.2174; Cu3.6Th: Cu 0.782609, Th 0.217391 | model | [1] Wang 2008 | Table 3, p. 3, row 14; `ORC-VKQJA4XHWH` |  |
+| 1293.35 | eutectic: L -> Cu6Th + Cu3.6Th | L: Th 0.186; Cu6Th: Cu 0.857143, Th 0.142857; Cu3.6Th: Cu 0.782609, Th 0.217391 | model | [1] Wang 2008 | Table 3, p. 3, row 4; `ORC-6RHW52RLHM` |  |
+| 1293.15 | eutectic: L -> Cu6Th + Cu3.6Th | L: Th 0.18; Cu6Th: Cu 0.857143, Th 0.142857; Cu3.6Th: Cu 0.782609, Th 0.217391 | experimental | [1] Wang 2008; _cites Schiltz 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990128-7) | Table 3, p. 3, row 3; `ORC-LI5YQBZHML` |  |
+| 1288.15 | congruent melting: L -> Cu2Th | L: Th 0.3333; Cu2Th: Cu 0.666667, Th 0.333333 | experimental | [1] Wang 2008; _cites Schiltz 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990128-7) | Table 3, p. 3, row 15; `ORC-HJJ72KHFXD` |  |
+| 1288.15 | congruent melting: L -> Cu2Th | L: Th 0.3333; Cu2Th: Cu 0.666667, Th 0.333333 | model | [1] Wang 2008 | Table 3, p. 3, row 16; `ORC-S5XSFX6YAS` |  |
+| 1280.15 | congruent melting: L -> CuTh2 | L: Th 0.6667; CuTh2: Cu 0.333333, Th 0.666667 | experimental | [1] Wang 2008; _cites Schiltz 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990128-7) | Table 3, p. 3, row 17; `ORC-JAOEBNECMQ` |  |
+| 1277.95 | congruent melting: L -> CuTh2 | L: Th 0.6667; CuTh2: Cu 0.333333, Th 0.666667 | model | [1] Wang 2008 | Table 3, p. 3, row 18; `ORC-QJXZ3NXSKL` |  |
+| 1275.05 | eutectic: L -> CuTh2 + (αTh) | L: Th 0.702; CuTh2: Cu 0.333333, Th 0.666667 | model | [1] Wang 2008 | Table 3, p. 3, row 10; `ORC-6JQQDSVT3P` |  |
+| 1273.15 | eutectic: L -> CuTh2 + (αTh) | L: Th 0.7; CuTh2: Cu 0.333333, Th 0.666667 | experimental | [1] Wang 2008; _cites Schiltz 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990128-7) | Table 3, p. 3, row 9; `ORC-UV76NRLPDL` |  |
+| 1257.75 | eutectic: L -> Cu3.6Th + Cu2Th | L: Th 0.265; Cu3.6Th: Cu 0.782609, Th 0.217391; Cu2Th: Cu 0.666667, Th 0.333333 | model | [1] Wang 2008 | Table 3, p. 3, row 6; `ORC-UJJVVXO5TH` |  |
+| 1253.15 | eutectic: L -> Cu3.6Th + Cu2Th | L: Th 0.26; Cu3.6Th: Cu 0.782609, Th 0.217391; Cu2Th: Cu 0.666667, Th 0.333333 | experimental | [1] Wang 2008; _cites Schiltz 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990128-7) | Table 3, p. 3, row 5; `ORC-4O5YN5EQ4I` |  |
+| 1208.15 | eutectic: L -> (Cu) + Cu6Th | L: Th 0.07; Cu6Th: Cu 0.857143, Th 0.142857 | experimental | [1] Wang 2008; _cites Schiltz 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990128-7) | Table 3, p. 3, row 1; `ORC-55ZLXSYLKE` |  |
+| 1206.05 | eutectic: L -> (Cu) + Cu6Th | L: Th 0.074; Cu6Th: Cu 0.857143, Th 0.142857 | model | [1] Wang 2008 | Table 3, p. 3, row 2; `ORC-T2J2BZITO7` |  |
+| 1157.75 | eutectic: L -> Cu2Th + CuTh2 | L: Th 0.488; Cu2Th: Cu 0.666667, Th 0.333333; CuTh2: Cu 0.333333, Th 0.666667 | model | [1] Wang 2008 | Table 3, p. 3, row 8; `ORC-WGO3JXRSMK` |  |
+| 1153.15 | eutectic: L -> Cu2Th + CuTh2 | L: Th 0.49; Cu2Th: Cu 0.666667, Th 0.333333; CuTh2: Cu 0.333333, Th 0.666667 | experimental | [1] Wang 2008; _cites Schiltz 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990128-7) | Table 3, p. 3, row 7; `ORC-WEUO74BUUC` |  |
 
 ## Sources
 
@@ -143,4 +143,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

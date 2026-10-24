@@ -88,34 +88,34 @@ Table: Invariant reactions reported in the literature for the Al–Pr system (28
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1519.15 | Liq + Al2Pr -> β\_Al11Pr3 | L: Pr 0.1894; Al2Pr: Al 0.666667, Pr 0.333333; β\_Al11Pr3: Al 0.785714, Pr 0.214286 | model | [1] Liao 2019 | Table 3, p. 6, row 4 |  |
-| 1518.15 | Liq + Al2Pr -> β\_Al11Pr3 | Al2Pr: Al 0.666667, Pr 0.333333; β\_Al11Pr3: Al 0.785714, Pr 0.214286 | model | [1] Liao 2019; _cites Yin 2001_ | Table 3, p. 6, row 5 |  |
-| 1513.15 | Liq + Al2Pr -> β\_Al11Pr3 | L: Pr 0.205; Al2Pr: Al 0.666667, Pr 0.333333; β\_Al11Pr3: Al 0.785714, Pr 0.214286 | experimental | [1] Liao 2019; _cites Buschow 1966_ | Table 3, p. 6, row 6 |  |
-| 1348.15 | β\_Al11Pr3 + Al2Pr -> Al3Pr | β\_Al11Pr3: Al 0.785714, Pr 0.214286; Al2Pr: Al 0.666667, Pr 0.333333; Al3Pr: Al 0.75, Pr 0.25 | experimental | [1] Liao 2019; _cites Buschow 1966_ | Table 3, p. 6, row 8 |  |
-| 1348.15 | β\_Al11Pr3 + Al2Pr -> Al3Pr | β\_Al11Pr3: Al 0.785714, Pr 0.214286; Al2Pr: Al 0.666667, Pr 0.333333; Al3Pr: Al 0.75, Pr 0.25 | model | [1] Liao 2019 | Table 3, p. 6, row 7 |  |
-| 1238.15 | Liq + β\_Al11Pr3 -> α\_Al11Pr3 | L: Pr 0.075; β\_Al11Pr3: Al 0.785714, Pr 0.214286; α\_Al11Pr3: Al 0.785714, Pr 0.214286 | model | [1] Liao 2019 | Table 3, p. 6, row 14 |  |
-| 1238.15 | β\_Al11Pr3 -> Al3Pr + α\_Al11Pr3 | β\_Al11Pr3: Al 0.785714, Pr 0.214286; Al3Pr: Al 0.75, Pr 0.25; α\_Al11Pr3: Al 0.785714, Pr 0.214286 | model | [1] Liao 2019 | Table 3, p. 6, row 12 |  |
-| 1238.15 | β\_Al11Pr3 -> Al3Pr + α\_Al11Pr3 | β\_Al11Pr3: Al 0.785714, Pr 0.214286; Al3Pr: Al 0.75, Pr 0.25; α\_Al11Pr3: Al 0.785714, Pr 0.214286 | experimental | [1] Liao 2019; _cites Buschow 1966_ | Table 3, p. 6, row 13 |  |
-| 1238.15 | Liq + β\_Al11Pr3 -> α\_Al11Pr3 | L: Pr 0.2142; β\_Al11Pr3: Al 0.785714, Pr 0.214286; α\_Al11Pr3: Al 0.785714, Pr 0.214286 | experimental | [1] Liao 2019; _cites Buschow 1966_ | Table 3, p. 6, row 15 |  |
-| 1178.15 | Liq + Al2Pr -> AlPr | L: Pr 0.66; Al2Pr: Al 0.666667, Pr 0.333333; AlPr: Al 0.5, Pr 0.5 | experimental | [1] Liao 2019; _cites Buschow 1966_ | Table 3, p. 6, row 11 |  |
-| 1172.15 | Liq + Al2Pr -> AlPr | Al2Pr: Al 0.666667, Pr 0.333333; AlPr: Al 0.5, Pr 0.5 | model | [1] Liao 2019; _cites Yin 2001_ | Table 3, p. 6, row 10 |  |
-| 1172.15 | Liq + Al2Pr -> AlPr | L: Pr 0.6441; Al2Pr: Al 0.666667, Pr 0.333333; AlPr: Al 0.5, Pr 0.5 | model | [1] Liao 2019 | Table 3, p. 6, row 9 |  |
-| 1012.15 | Liq + AlPr -> AlPr2 | L: Pr 0.7; AlPr: Al 0.5, Pr 0.5; AlPr2: Al 0.333333, Pr 0.666667 | experimental | [1] Liao 2019; _cites Saccone 1996_ | Table 3, p. 6, row 19 |  |
-| 1012.15 | Liq + AlPr -> AlPr2 | L: Pr 0.7041; AlPr: Al 0.5, Pr 0.5; AlPr2: Al 0.333333, Pr 0.666667 | model | [1] Liao 2019 | Table 3, p. 6, row 16 |  |
-| 1012.15 | Liq + AlPr -> AlPr2 | L: Pr 0.678; AlPr: Al 0.5, Pr 0.5; AlPr2: Al 0.333333, Pr 0.666667 | experimental | [1] Liao 2019; _cites Buschow 1966_ | Table 3, p. 6, row 18 |  |
-| 1008.15 | Liq + AlPr -> AlPr2 | AlPr: Al 0.5, Pr 0.5; AlPr2: Al 0.333333, Pr 0.666667 | model | [1] Liao 2019; _cites Yin 2001_ | Table 3, p. 6, row 17 |  |
-| 958.15 | Liq + AlPr2 -> AlPr3 | L: Pr 0.76; AlPr2: Al 0.333333, Pr 0.666667; AlPr3: Al 0.25, Pr 0.75 | experimental | [1] Liao 2019; _cites Saccone 1996_ | Table 3, p. 6, row 22 |  |
-| 957.15 | Liq + AlPr2 -> AlPr3 | AlPr2: Al 0.333333, Pr 0.666667; AlPr3: Al 0.25, Pr 0.75 | model | [1] Liao 2019; _cites Yin 2001_ | Table 3, p. 6, row 21 |  |
-| 957.15 | Liq + AlPr2 -> AlPr3 | L: Pr 0.7602; AlPr2: Al 0.333333, Pr 0.666667; AlPr3: Al 0.25, Pr 0.75 | model | [1] Liao 2019 | Table 3, p. 6, row 20 |  |
-| 924.15 | Liq -> AlPr3 + bcc | L: Pr 0.8141; AlPr3: Al 0.25, Pr 0.75 | model | [1] Liao 2019 | Table 3, p. 6, row 23 |  |
-| 924.15 | Liq -> AlPr3 + bcc | AlPr3: Al 0.25, Pr 0.75 | model | [1] Liao 2019; _cites Yin 2001_ | Table 3, p. 6, row 24 |  |
-| 923.15 | Liq -> AlPr3 + bcc | L: Pr 0.825; AlPr3: Al 0.25, Pr 0.75 | experimental | [1] Liao 2019; _cites Saccone 1996_ | Table 3, p. 6, row 25 |  |
-| 913.15 | Liq -> fcc + α\_Al11Pr3 | L: Pr 0.05; α\_Al11Pr3: Al 0.785714, Pr 0.214286 | experimental | [1] Liao 2019; _cites Buschow 1966_ | Table 3, p. 6, row 3 |  |
-| 912.15 | Liq -> fcc + α\_Al11Pr3 | L: Pr 0.02054; α\_Al11Pr3: Al 0.785714, Pr 0.214286 | model | [1] Liao 2019 | Table 3, p. 6, row 1 |  |
-| 912.15 | Liq -> fcc + α\_Al11Pr3 | α\_Al11Pr3: Al 0.785714, Pr 0.214286 | model | [1] Liao 2019; _cites Yin 2001_ | Table 3, p. 6, row 2 |  |
-| 895.15 | bcc -> AlPr3 + dhcp | AlPr3: Al 0.25, Pr 0.75 | model | [1] Liao 2019 | Table 3, p. 6, row 26 |  |
-| 893.15 | bcc -> AlPr3 + dhcp | AlPr3: Al 0.25, Pr 0.75 | experimental | [1] Liao 2019; _cites Saccone 1996_ | Table 3, p. 6, row 28 |  |
-| 892.15 | bcc -> AlPr3 + dhcp | AlPr3: Al 0.25, Pr 0.75 | model | [1] Liao 2019; _cites Yin 2001_ | Table 3, p. 6, row 27 |  |
+| 1519.15 | Liq + Al2Pr -> β\_Al11Pr3 | L: Pr 0.1894; Al2Pr: Al 0.666667, Pr 0.333333; β\_Al11Pr3: Al 0.785714, Pr 0.214286 | model | [1] Liao 2019 | Table 3, p. 6, row 4; `ORC-2M5RK4C7DW` |  |
+| 1518.15 | Liq + Al2Pr -> β\_Al11Pr3 | Al2Pr: Al 0.666667, Pr 0.333333; β\_Al11Pr3: Al 0.785714, Pr 0.214286 | model | [1] Liao 2019; _cites Yin 2001_ | Table 3, p. 6, row 5; `ORC-JRATDHKV2B` |  |
+| 1513.15 | Liq + Al2Pr -> β\_Al11Pr3 | L: Pr 0.205; Al2Pr: Al 0.666667, Pr 0.333333; β\_Al11Pr3: Al 0.785714, Pr 0.214286 | experimental | [1] Liao 2019; _cites Buschow 1966_ | Table 3, p. 6, row 6; `ORC-6ECHB2HR7C` |  |
+| 1348.15 | β\_Al11Pr3 + Al2Pr -> Al3Pr | β\_Al11Pr3: Al 0.785714, Pr 0.214286; Al2Pr: Al 0.666667, Pr 0.333333; Al3Pr: Al 0.75, Pr 0.25 | experimental | [1] Liao 2019; _cites Buschow 1966_ | Table 3, p. 6, row 8; `ORC-6YYR2L3X2J` |  |
+| 1348.15 | β\_Al11Pr3 + Al2Pr -> Al3Pr | β\_Al11Pr3: Al 0.785714, Pr 0.214286; Al2Pr: Al 0.666667, Pr 0.333333; Al3Pr: Al 0.75, Pr 0.25 | model | [1] Liao 2019 | Table 3, p. 6, row 7; `ORC-GGGGKRCR76` |  |
+| 1238.15 | Liq + β\_Al11Pr3 -> α\_Al11Pr3 | L: Pr 0.075; β\_Al11Pr3: Al 0.785714, Pr 0.214286; α\_Al11Pr3: Al 0.785714, Pr 0.214286 | model | [1] Liao 2019 | Table 3, p. 6, row 14; `ORC-3M4BCXFJOI` |  |
+| 1238.15 | β\_Al11Pr3 -> Al3Pr + α\_Al11Pr3 | β\_Al11Pr3: Al 0.785714, Pr 0.214286; Al3Pr: Al 0.75, Pr 0.25; α\_Al11Pr3: Al 0.785714, Pr 0.214286 | model | [1] Liao 2019 | Table 3, p. 6, row 12; `ORC-NSEHQHQYZQ` |  |
+| 1238.15 | β\_Al11Pr3 -> Al3Pr + α\_Al11Pr3 | β\_Al11Pr3: Al 0.785714, Pr 0.214286; Al3Pr: Al 0.75, Pr 0.25; α\_Al11Pr3: Al 0.785714, Pr 0.214286 | experimental | [1] Liao 2019; _cites Buschow 1966_ | Table 3, p. 6, row 13; `ORC-TAHR7EKQVA` |  |
+| 1238.15 | Liq + β\_Al11Pr3 -> α\_Al11Pr3 | L: Pr 0.2142; β\_Al11Pr3: Al 0.785714, Pr 0.214286; α\_Al11Pr3: Al 0.785714, Pr 0.214286 | experimental | [1] Liao 2019; _cites Buschow 1966_ | Table 3, p. 6, row 15; `ORC-UQIKSCUWVO` |  |
+| 1178.15 | Liq + Al2Pr -> AlPr | L: Pr 0.66; Al2Pr: Al 0.666667, Pr 0.333333; AlPr: Al 0.5, Pr 0.5 | experimental | [1] Liao 2019; _cites Buschow 1966_ | Table 3, p. 6, row 11; `ORC-SXX4VIMDHM` |  |
+| 1172.15 | Liq + Al2Pr -> AlPr | Al2Pr: Al 0.666667, Pr 0.333333; AlPr: Al 0.5, Pr 0.5 | model | [1] Liao 2019; _cites Yin 2001_ | Table 3, p. 6, row 10; `ORC-EQOINLBI2W` |  |
+| 1172.15 | Liq + Al2Pr -> AlPr | L: Pr 0.6441; Al2Pr: Al 0.666667, Pr 0.333333; AlPr: Al 0.5, Pr 0.5 | model | [1] Liao 2019 | Table 3, p. 6, row 9; `ORC-GNF53ZSZBN` |  |
+| 1012.15 | Liq + AlPr -> AlPr2 | L: Pr 0.7; AlPr: Al 0.5, Pr 0.5; AlPr2: Al 0.333333, Pr 0.666667 | experimental | [1] Liao 2019; _cites Saccone 1996_ | Table 3, p. 6, row 19; `ORC-GZCYVCR4CW` |  |
+| 1012.15 | Liq + AlPr -> AlPr2 | L: Pr 0.7041; AlPr: Al 0.5, Pr 0.5; AlPr2: Al 0.333333, Pr 0.666667 | model | [1] Liao 2019 | Table 3, p. 6, row 16; `ORC-MDTGJMNL6R` |  |
+| 1012.15 | Liq + AlPr -> AlPr2 | L: Pr 0.678; AlPr: Al 0.5, Pr 0.5; AlPr2: Al 0.333333, Pr 0.666667 | experimental | [1] Liao 2019; _cites Buschow 1966_ | Table 3, p. 6, row 18; `ORC-PFFYHFPQJC` |  |
+| 1008.15 | Liq + AlPr -> AlPr2 | AlPr: Al 0.5, Pr 0.5; AlPr2: Al 0.333333, Pr 0.666667 | model | [1] Liao 2019; _cites Yin 2001_ | Table 3, p. 6, row 17; `ORC-TDZWQGWCTM` |  |
+| 958.15 | Liq + AlPr2 -> AlPr3 | L: Pr 0.76; AlPr2: Al 0.333333, Pr 0.666667; AlPr3: Al 0.25, Pr 0.75 | experimental | [1] Liao 2019; _cites Saccone 1996_ | Table 3, p. 6, row 22; `ORC-FOJFHCUXDM` |  |
+| 957.15 | Liq + AlPr2 -> AlPr3 | AlPr2: Al 0.333333, Pr 0.666667; AlPr3: Al 0.25, Pr 0.75 | model | [1] Liao 2019; _cites Yin 2001_ | Table 3, p. 6, row 21; `ORC-B26OZRIB5H` |  |
+| 957.15 | Liq + AlPr2 -> AlPr3 | L: Pr 0.7602; AlPr2: Al 0.333333, Pr 0.666667; AlPr3: Al 0.25, Pr 0.75 | model | [1] Liao 2019 | Table 3, p. 6, row 20; `ORC-QOARUCG5AS` |  |
+| 924.15 | Liq -> AlPr3 + bcc | L: Pr 0.8141; AlPr3: Al 0.25, Pr 0.75 | model | [1] Liao 2019 | Table 3, p. 6, row 23; `ORC-F5I3DK4G2M` |  |
+| 924.15 | Liq -> AlPr3 + bcc | AlPr3: Al 0.25, Pr 0.75 | model | [1] Liao 2019; _cites Yin 2001_ | Table 3, p. 6, row 24; `ORC-H4F43WDNJE` |  |
+| 923.15 | Liq -> AlPr3 + bcc | L: Pr 0.825; AlPr3: Al 0.25, Pr 0.75 | experimental | [1] Liao 2019; _cites Saccone 1996_ | Table 3, p. 6, row 25; `ORC-BHOFAUIX7L` |  |
+| 913.15 | Liq -> fcc + α\_Al11Pr3 | L: Pr 0.05; α\_Al11Pr3: Al 0.785714, Pr 0.214286 | experimental | [1] Liao 2019; _cites Buschow 1966_ | Table 3, p. 6, row 3; `ORC-ROBJPIT7VI` |  |
+| 912.15 | Liq -> fcc + α\_Al11Pr3 | L: Pr 0.02054; α\_Al11Pr3: Al 0.785714, Pr 0.214286 | model | [1] Liao 2019 | Table 3, p. 6, row 1; `ORC-QGVUENDT64` |  |
+| 912.15 | Liq -> fcc + α\_Al11Pr3 | α\_Al11Pr3: Al 0.785714, Pr 0.214286 | model | [1] Liao 2019; _cites Yin 2001_ | Table 3, p. 6, row 2; `ORC-XFIREO477D` |  |
+| 895.15 | bcc -> AlPr3 + dhcp | AlPr3: Al 0.25, Pr 0.75 | model | [1] Liao 2019 | Table 3, p. 6, row 26; `ORC-44V7AYRAFJ` |  |
+| 893.15 | bcc -> AlPr3 + dhcp | AlPr3: Al 0.25, Pr 0.75 | experimental | [1] Liao 2019; _cites Saccone 1996_ | Table 3, p. 6, row 28; `ORC-4SY2LAVS3G` |  |
+| 892.15 | bcc -> AlPr3 + dhcp | AlPr3: Al 0.25, Pr 0.75 | model | [1] Liao 2019; _cites Yin 2001_ | Table 3, p. 6, row 27; `ORC-Q7OOOOWFVW` |  |
 
 ## Other properties
 
@@ -125,7 +125,7 @@ Table: Phase transition, Al–Pr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1238.15 K | 1238.15 | polymorphic | experimental | [1] Liao 2019; _cites Buschow 1966_ | p. 3 | “Buschow et al \[19\] first determined the entire composition by metallography, thermal analysis and x-ray diffractometry, and found four solution phases (liquid, fcc, bcc and dhcp) and six intermetallic compounds (Al4Pr, Al3Pr, Al2Pr, AlPr, AlPr2 and AlPr3), including an allotropic transformation α\_Al4Pr/β\_Al4Pr at 965 °C.” |
+| Phase transition | 1238.15 K | 1238.15 | polymorphic | experimental | [1] Liao 2019; _cites Buschow 1966_ | p. 3; `ORC-CGTPEVZVLJ` | “Buschow et al \[19\] first determined the entire composition by metallography, thermal analysis and x-ray diffractometry, and found four solution phases (liquid, fcc, bcc and dhcp) and six intermetallic compounds (Al4Pr, Al3Pr, Al2Pr, AlPr, AlPr2 and AlPr3), including an allotropic transformation α\_Al4Pr/β\_Al4Pr at 965 °C.” |
 
 ## Sources
 
@@ -190,4 +190,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

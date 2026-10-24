@@ -53,19 +53,19 @@ Table: Invariant reactions reported in the literature for the Li–Te system (13
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1085.2 | L2 -> L1 + Li2Te | L2: Te 0.24; L1: Te 0.075; Li2Te: Te 0.333 | experimental | [1] Yu 2022; _cites Cunningham 1973_ [doi](https://doi.org/10.1149/1.2403448) | Table 6, p. 16, row 8 |  |
-| 1082.9 | L2 -> L1 + Li2Te | L2: Te 0.184; L1: Te 0.05; Li2Te: Te 0.333 | model | [1] Yu 2022 | Table 6, p. 16, row 7 |  |
-| 722.7 | L -> LiTe3 + Li2Te | L: Te 0.609; LiTe3: Te 0.75; Li2Te: Te 0.333 | model | [1] Yu 2022 | Table 6, p. 16, row 5 |  |
-| 721.7 | L -> LiTe3 + Li2Te | L: Te 0.64; LiTe3: Te 0.75; Li2Te: Te 0.333 | experimental | [1] Yu 2022; _cites Cunningham 1973_ [doi](https://doi.org/10.1149/1.2403448) | Table 6, p. 16, row 6 |  |
-| 721.7 | eutectic |  | experimental | [1] Yu 2022; _cites Cunningham 1973_ [doi](https://doi.org/10.1149/1.2403448) | p. 4 | “There are three eutectic reactions: L ? (Li) ? Li2Te, L ? (Te) ? LiTe3, and L ? LiTe3 ? Li2Te occurring at about 453.1, 696.3 and 721.7 K, respectively.” |
-| 696.9 | L -> (Te) + LiTe3 | L: Te 0.884; (Te): Te 1; LiTe3: Te 0.75 | model | [1] Yu 2022 | Table 6, p. 16, row 3 |  |
-| 696.3 | L -> (Te) + LiTe3 | L: Te 0.895; (Te): Te 1; LiTe3: Te 0.75 | experimental | [1] Yu 2022; _cites Cunningham 1973_ [doi](https://doi.org/10.1149/1.2403448) | Table 6, p. 16, row 4 |  |
-| 696.3 | eutectic |  | experimental | [1] Yu 2022; _cites Cunningham 1973_ [doi](https://doi.org/10.1149/1.2403448) | p. 4 | “There are three eutectic reactions: L ? (Li) ? Li2Te, L ? (Te) ? LiTe3, and L ? LiTe3 ? Li2Te occurring at about 453.1, 696.3 and 721.7 K, respectively.” |
-| 577 | LiTe3 -> (Te) + Li2Te | LiTe3: Te 0.75; (Te): Te 1; Li2Te: Te 0.333 | model | [1] Yu 2022; _cites Sangster 1992_ [doi](https://doi.org/10.1007/bf02667559) | Table 6, p. 16, row 14 |  |
-| 575.1 | LiTe3 -> (Te) + Li2Te | LiTe3: Te 0.75; (Te): Te 1; Li2Te: Te 0.333 | model | [1] Yu 2022 | Table 6, p. 16, row 13 |  |
-| 453.6 | L -> (Li) + Li2Te | L: Te 0; (Li): Te 0; Li2Te: Te 0.333 | model | [1] Yu 2022 | Table 6, p. 16, row 1 |  |
-| 453.1 | eutectic |  | experimental | [1] Yu 2022; _cites Cunningham 1973_ [doi](https://doi.org/10.1149/1.2403448) | p. 4 | “There are three eutectic reactions: L ? (Li) ? Li2Te, L ? (Te) ? LiTe3, and L ? LiTe3 ? Li2Te occurring at about 453.1, 696.3 and 721.7 K, respectively.” |
-| 453.1 | L -> (Li) + Li2Te | L: Te 0; (Li): Te 0; Li2Te: Te 0.333 | experimental | [1] Yu 2022; _cites Cunningham 1973_ [doi](https://doi.org/10.1149/1.2403448) | Table 6, p. 16, row 2 |  |
+| 1085.2 | L2 -> L1 + Li2Te | L2: Te 0.24; L1: Te 0.075; Li2Te: Te 0.333 | experimental | [1] Yu 2022; _cites Cunningham 1973_ [doi](https://doi.org/10.1149/1.2403448) | Table 6, p. 16, row 8; `ORC-LJ32BOKFPN` |  |
+| 1082.9 | L2 -> L1 + Li2Te | L2: Te 0.184; L1: Te 0.05; Li2Te: Te 0.333 | model | [1] Yu 2022 | Table 6, p. 16, row 7; `ORC-EXWHRCKHCV` |  |
+| 722.7 | L -> LiTe3 + Li2Te | L: Te 0.609; LiTe3: Te 0.75; Li2Te: Te 0.333 | model | [1] Yu 2022 | Table 6, p. 16, row 5; `ORC-L34BY4YTIL` |  |
+| 721.7 | L -> LiTe3 + Li2Te | L: Te 0.64; LiTe3: Te 0.75; Li2Te: Te 0.333 | experimental | [1] Yu 2022; _cites Cunningham 1973_ [doi](https://doi.org/10.1149/1.2403448) | Table 6, p. 16, row 6; `ORC-BYUJJZRN7H` |  |
+| 721.7 | eutectic |  | experimental | [1] Yu 2022; _cites Cunningham 1973_ [doi](https://doi.org/10.1149/1.2403448) | p. 4; `ORC-IJ3PS7MU7I.6a89d6` | “There are three eutectic reactions: L ? (Li) ? Li2Te, L ? (Te) ? LiTe3, and L ? LiTe3 ? Li2Te occurring at about 453.1, 696.3 and 721.7 K, respectively.” |
+| 696.9 | L -> (Te) + LiTe3 | L: Te 0.884; (Te): Te 1; LiTe3: Te 0.75 | model | [1] Yu 2022 | Table 6, p. 16, row 3; `ORC-NZYZ7Q4OPU` |  |
+| 696.3 | L -> (Te) + LiTe3 | L: Te 0.895; (Te): Te 1; LiTe3: Te 0.75 | experimental | [1] Yu 2022; _cites Cunningham 1973_ [doi](https://doi.org/10.1149/1.2403448) | Table 6, p. 16, row 4; `ORC-ABCB7QIFLI` |  |
+| 696.3 | eutectic |  | experimental | [1] Yu 2022; _cites Cunningham 1973_ [doi](https://doi.org/10.1149/1.2403448) | p. 4; `ORC-IJ3PS7MU7I.27d736` | “There are three eutectic reactions: L ? (Li) ? Li2Te, L ? (Te) ? LiTe3, and L ? LiTe3 ? Li2Te occurring at about 453.1, 696.3 and 721.7 K, respectively.” |
+| 577 | LiTe3 -> (Te) + Li2Te | LiTe3: Te 0.75; (Te): Te 1; Li2Te: Te 0.333 | model | [1] Yu 2022; _cites Sangster 1992_ [doi](https://doi.org/10.1007/bf02667559) | Table 6, p. 16, row 14; `ORC-FRVQROY4FH` |  |
+| 575.1 | LiTe3 -> (Te) + Li2Te | LiTe3: Te 0.75; (Te): Te 1; Li2Te: Te 0.333 | model | [1] Yu 2022 | Table 6, p. 16, row 13; `ORC-2AWBJQKDL3` |  |
+| 453.6 | L -> (Li) + Li2Te | L: Te 0; (Li): Te 0; Li2Te: Te 0.333 | model | [1] Yu 2022 | Table 6, p. 16, row 1; `ORC-4X3KTVELRO` |  |
+| 453.1 | eutectic |  | experimental | [1] Yu 2022; _cites Cunningham 1973_ [doi](https://doi.org/10.1149/1.2403448) | p. 4; `ORC-IJ3PS7MU7I.2a7976` | “There are three eutectic reactions: L ? (Li) ? Li2Te, L ? (Te) ? LiTe3, and L ? LiTe3 ? Li2Te occurring at about 453.1, 696.3 and 721.7 K, respectively.” |
+| 453.1 | L -> (Li) + Li2Te | L: Te 0; (Li): Te 0; Li2Te: Te 0.333 | experimental | [1] Yu 2022; _cites Cunningham 1973_ [doi](https://doi.org/10.1149/1.2403448) | Table 6, p. 16, row 2; `ORC-W7OAHGL4AP` |  |
 
 ## Formation enthalpies
 
@@ -75,11 +75,11 @@ Table: Enthalpies of formation, Li–Te system (5)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Li2Te | [Li2Te](https://data.orchid-project.org/compounds/Li2Te.html) | -118.949 kJ/mol-atom | 298.15 | model | -113.668 (mp-aaaaadti) | -100.679 (oqmd-11316) | [1] Yu 2022 | Table 2, p. 5, row 18 |  |
-| Li2Te |  | -115.667 kJ/mol-atom | 0 | DFT |  |  | [1] Yu 2022; _cites Morachevskii 2022_ | Table 2, p. 5, row 15 |  |
-| Li2Te |  | -113.61 kJ/mol-atom | 0 | DFT |  |  | [1] Yu 2022; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table 2, p. 5, row 17 |  |
-| Li2Te |  | -100.59 kJ/mol-atom | 0 | DFT |  |  | [1] Yu 2022; _cites Saal 2013_ [doi](https://doi.org/10.1007/s11837-013-0755-4) | Table 2, p. 5, row 16 |  |
-| Li2Te |  | -100.012 kJ/mol-atom | 0 | DFT |  |  | [1] Yu 2022 | Table 2, p. 5, row 14 |  |
+| Li2Te | [Li2Te](https://data.orchid-project.org/compounds/Li2Te.html) | -118.949 kJ/mol-atom | 298.15 | model | -113.668 (mp-aaaaadti) | -100.679 (oqmd-11316) | [1] Yu 2022 | Table 2, p. 5, row 18; `ORC-3FHXFANSEL` |  |
+| Li2Te |  | -115.667 kJ/mol-atom | 0 | DFT |  |  | [1] Yu 2022; _cites Morachevskii 2022_ | Table 2, p. 5, row 15; `ORC-PJVN7M5AQ4` |  |
+| Li2Te |  | -113.61 kJ/mol-atom | 0 | DFT |  |  | [1] Yu 2022; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table 2, p. 5, row 17; `ORC-TOR6JTQIQ5` |  |
+| Li2Te |  | -100.59 kJ/mol-atom | 0 | DFT |  |  | [1] Yu 2022; _cites Saal 2013_ [doi](https://doi.org/10.1007/s11837-013-0755-4) | Table 2, p. 5, row 16; `ORC-S2GCYHQKVS` |  |
+| Li2Te |  | -100.012 kJ/mol-atom | 0 | DFT |  |  | [1] Yu 2022 | Table 2, p. 5, row 14; `ORC-FTLZK7Z4TL` |  |
 
 ## Other properties
 
@@ -89,12 +89,12 @@ Table: Phase transition, Li–Te system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 577 K | 577 | other | experimental | [1] Yu 2022; _cites Valentine 1977_ [doi](https://doi.org/10.1107/s0567740877006141) | p. 4 | “Valentine et al.\[89\] and Hitch et al.\[90\] reported LiTe3 decomposition at 577 K.” |
-| Phase transition | 732.7 K | 732.7 | L -> LiTe3; _L: Te 0.75; LiTe3: Te 0.75_ | model | [1] Yu 2022 | Table 6, p. 16, row 11 |  |
-| Phase transition | 733 K | 733 | L -> LiTe3; _L: Te 0.75; LiTe3: Te 0.75_ | experimental | [1] Yu 2022; _cites Cunningham 1973_ [doi](https://doi.org/10.1149/1.2403448) | Table 6, p. 16, row 12 |  |
-| Phase transition | 1085.2 K | 1085.2 | other | experimental | [1] Yu 2022 | p. 4 | “In addition, there is a monotectic reactions: L2 ? L1 ? Li2Te occurring at 1085.2 K.” |
-| Phase transition | 1468.2 K | 1468.2 | L -> Li2Te; _L: Te 0.333; Li2Te: Te 0.333_ | model | [1] Yu 2022 | Table 6, p. 16, row 9 |  |
-| Phase transition | 1472 K | 1472 | L -> Li2Te; _L: Te 0.333; Li2Te: Te 0.333_ | experimental | [1] Yu 2022; _cites Cunningham 1973_ [doi](https://doi.org/10.1149/1.2403448) | Table 6, p. 16, row 10 |  |
+| Phase transition | 577 K | 577 | other | experimental | [1] Yu 2022; _cites Valentine 1977_ [doi](https://doi.org/10.1107/s0567740877006141) | p. 4; `ORC-BMAOOQ2VDB` | “Valentine et al.\[89\] and Hitch et al.\[90\] reported LiTe3 decomposition at 577 K.” |
+| Phase transition | 732.7 K | 732.7 | L -> LiTe3; _L: Te 0.75; LiTe3: Te 0.75_ | model | [1] Yu 2022 | Table 6, p. 16, row 11; `ORC-GQOM6UFZ4L` |  |
+| Phase transition | 733 K | 733 | L -> LiTe3; _L: Te 0.75; LiTe3: Te 0.75_ | experimental | [1] Yu 2022; _cites Cunningham 1973_ [doi](https://doi.org/10.1149/1.2403448) | Table 6, p. 16, row 12; `ORC-QFLM5Z5AVL` |  |
+| Phase transition | 1085.2 K | 1085.2 | other | experimental | [1] Yu 2022 | p. 4; `ORC-7JCHU5EZQY` | “In addition, there is a monotectic reactions: L2 ? L1 ? Li2Te occurring at 1085.2 K.” |
+| Phase transition | 1468.2 K | 1468.2 | L -> Li2Te; _L: Te 0.333; Li2Te: Te 0.333_ | model | [1] Yu 2022 | Table 6, p. 16, row 9; `ORC-VFH3W56XIH` |  |
+| Phase transition | 1472 K | 1472 | L -> Li2Te; _L: Te 0.333; Li2Te: Te 0.333_ | experimental | [1] Yu 2022; _cites Cunningham 1973_ [doi](https://doi.org/10.1149/1.2403448) | Table 6, p. 16, row 10; `ORC-CA37ENEZCO` |  |
 
 ### Crystal structure (3)
 
@@ -102,9 +102,9 @@ Table: Crystal structure, Li–Te system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.652 Å | 298.15 | Li2Te; _alloy: Li 0.666667, Te 0.333333_ | model | [1] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 22 |  |
-| Lattice a | 0.871 Å | 298.15 | LiTe3; _alloy: Li 0.25, Te 0.75_ | model | [1] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 23 |  |
-| Lattice c | 2.135 Å | 298.15 | LiTe3; _alloy: Li 0.25, Te 0.75_ | model | [1] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 23 |  |
+| Lattice a | 0.652 Å | 298.15 | Li2Te; _alloy: Li 0.666667, Te 0.333333_ | model | [1] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 22; `ORC-TNG6SCPIM5` |  |
+| Lattice a | 0.871 Å | 298.15 | LiTe3; _alloy: Li 0.25, Te 0.75_ | model | [1] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 23; `ORC-X65AGFPNYE.19529d` |  |
+| Lattice c | 2.135 Å | 298.15 | LiTe3; _alloy: Li 0.25, Te 0.75_ | model | [1] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 23; `ORC-X65AGFPNYE.b14198` |  |
 
 ## Sources
 
@@ -169,4 +169,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -14,17 +14,17 @@ Table: Enthalpy of formation of PtSn reported in the literature (11)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -74 kJ/mol-atom | PtSn | 1354.15 | experimental |  | [Pt–Sn](https://data.orchid-project.org/systems/PT-SN.html) | [1] Cui 2021; _cites Anres 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900682-3) | Table 5, p. 10, row 10 |  |
-| -61.8 kJ/mol-atom | PtSn | 298.15 | experimental |  | [Pt–Sn](https://data.orchid-project.org/systems/PT-SN.html) | [1] Cui 2021; _cites Zhou 2009_ [doi](https://doi.org/10.1016/j.commatsci.2009.04.044) | Table 5, p. 10, row 15 |  |
-| -58.8 kJ/mol-atom | PtSn | 298.15 | experimental |  | [Pt–Sn](https://data.orchid-project.org/systems/PT-SN.html) | [1] Cui 2021; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900467-x) | Table 5, p. 10, row 13 |  |
-| -58.6 kJ/mol-atom | PtSn | 298.15 | experimental |  | [Pt–Sn](https://data.orchid-project.org/systems/PT-SN.html) | [1] Cui 2021; _cites Ferro 1973_ | Table 5, p. 10, row 14 |  |
-| -58.4 kJ/mol-atom | PtSn | 298.15 | experimental |  | [Pt–Sn](https://data.orchid-project.org/systems/PT-SN.html) | [1] Cui 2021; _cites Colinet 2016_ [doi](https://doi.org/10.1016/j.calphad.2016.05.001) | Table 5, p. 10, row 16 |  |
-| -74.2 kJ/mol-atom | PtSn | 1354.15 | model |  | [Pt–Sn](https://data.orchid-project.org/systems/PT-SN.html) | [1] Cui 2021 | Table 5, p. 10, row 8 |  |
-| -74 kJ/mol-atom | PtSn | 1354.15 | model |  | [Pt–Sn](https://data.orchid-project.org/systems/PT-SN.html) | [1] Cui 2021 | Table 5, p. 10, row 9 |  |
-| -58.9466 kJ/mol-atom | PtSn |  | model |  | [Pt–Sn](https://data.orchid-project.org/systems/PT-SN.html) | [2] Hu 2022 | Table 9, p. 10, row 2 |  |
-| -58.944 kJ/mol-atom | PtSn |  | model |  | [Pt–Sn](https://data.orchid-project.org/systems/PT-SN.html) | [2] Hu 2022 | Table 9, p. 10, row 2 |  |
-| -58.7 kJ/mol-atom | PtSn | 298.15 | model |  | [Pt–Sn](https://data.orchid-project.org/systems/PT-SN.html) | [1] Cui 2021 | Table 5, p. 10, row 11 |  |
-| -58.5 kJ/mol-atom | PtSn | 298.15 | model |  | [Pt–Sn](https://data.orchid-project.org/systems/PT-SN.html) | [1] Cui 2021 | Table 5, p. 10, row 12 |  |
+| -74 kJ/mol-atom | PtSn | 1354.15 | experimental |  | [Pt–Sn](https://data.orchid-project.org/systems/PT-SN.html) | [1] Cui 2021; _cites Anres 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900682-3) | Table 5, p. 10, row 10; `ORC-7BLRFYPELH` |  |
+| -61.8 kJ/mol-atom | PtSn | 298.15 | experimental |  | [Pt–Sn](https://data.orchid-project.org/systems/PT-SN.html) | [1] Cui 2021; _cites Zhou 2009_ [doi](https://doi.org/10.1016/j.commatsci.2009.04.044) | Table 5, p. 10, row 15; `ORC-AFAH6QGRJ2` |  |
+| -58.8 kJ/mol-atom | PtSn | 298.15 | experimental |  | [Pt–Sn](https://data.orchid-project.org/systems/PT-SN.html) | [1] Cui 2021; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900467-x) | Table 5, p. 10, row 13; `ORC-ZZ437YPDST` |  |
+| -58.6 kJ/mol-atom | PtSn | 298.15 | experimental |  | [Pt–Sn](https://data.orchid-project.org/systems/PT-SN.html) | [1] Cui 2021; _cites Ferro 1973_ | Table 5, p. 10, row 14; `ORC-CXG4JUUZUX` |  |
+| -58.4 kJ/mol-atom | PtSn | 298.15 | experimental |  | [Pt–Sn](https://data.orchid-project.org/systems/PT-SN.html) | [1] Cui 2021; _cites Colinet 2016_ [doi](https://doi.org/10.1016/j.calphad.2016.05.001) | Table 5, p. 10, row 16; `ORC-SO7S3UWQX3` |  |
+| -74.2 kJ/mol-atom | PtSn | 1354.15 | model |  | [Pt–Sn](https://data.orchid-project.org/systems/PT-SN.html) | [1] Cui 2021 | Table 5, p. 10, row 8; `ORC-XNIV7NZWXM` |  |
+| -74 kJ/mol-atom | PtSn | 1354.15 | model |  | [Pt–Sn](https://data.orchid-project.org/systems/PT-SN.html) | [1] Cui 2021 | Table 5, p. 10, row 9; `ORC-TI4LDG5LQM` |  |
+| -58.9466 kJ/mol-atom | PtSn |  | model |  | [Pt–Sn](https://data.orchid-project.org/systems/PT-SN.html) | [2] Hu 2022 | Table 9, p. 10, row 2; `ORC-4BCCJZK3NB.48bbc7` |  |
+| -58.944 kJ/mol-atom | PtSn |  | model |  | [Pt–Sn](https://data.orchid-project.org/systems/PT-SN.html) | [2] Hu 2022 | Table 9, p. 10, row 2; `ORC-4BCCJZK3NB.8c730a` |  |
+| -58.7 kJ/mol-atom | PtSn | 298.15 | model |  | [Pt–Sn](https://data.orchid-project.org/systems/PT-SN.html) | [1] Cui 2021 | Table 5, p. 10, row 11; `ORC-AZ4I7RTXPT` |  |
+| -58.5 kJ/mol-atom | PtSn | 298.15 | model |  | [Pt–Sn](https://data.orchid-project.org/systems/PT-SN.html) | [1] Cui 2021 | Table 5, p. 10, row 12; `ORC-HJEB3CEWOJ` |  |
 
 ### Uncertainty budget
 
@@ -111,4 +111,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

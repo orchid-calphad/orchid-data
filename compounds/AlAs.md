@@ -14,10 +14,10 @@ Table: Enthalpy of formation of AlAs reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -74.1 kJ/mol (basis unstated) ± 6.5 | Al0.5As0.5(c) | 298.15 | experimental | solution calorimetry | [Al–As](https://data.orchid-project.org/systems/AL-AS.html) | [1] Ansara 1984; _cites ref. 40_ | Table V, p. 8, row 1 |  |
-| -60.37 kJ/mol (basis unstated) ± 0.63 | Al0.5As0.5(c) | 298.15 | experimental | Mass spectrometry | [Al–As](https://data.orchid-project.org/systems/AL-AS.html) | [1] Ansara 1984; _cites ref. 14_ | Table V, p. 8, row 3 |  |
-| -58.2 kJ/mol (basis unstated) ± 1.2 | Al0.5As0.5(c) | 298.15 | experimental | Sn solution calorimetry | [Al–As](https://data.orchid-project.org/systems/AL-AS.html) | [1] Ansara 1984; _cites ref. 38_ | Table V, p. 8, row 2 |  |
-| -31 kJ/mol (basis unstated) ± 3.5 | Al0.5As0.5(c) | 298.15 | experimental | Mass spectrometry and Knudsen effusion | [Al–As](https://data.orchid-project.org/systems/AL-AS.html) | [1] Ansara 1984; _cites ref. 41_ | Table V, p. 8, row 4 |  |
+| -74.1 kJ/mol (basis unstated) ± 6.5 | Al0.5As0.5(c) | 298.15 | experimental | solution calorimetry | [Al–As](https://data.orchid-project.org/systems/AL-AS.html) | [1] Ansara 1984; _cites ref. 40_ | Table V, p. 8, row 1; `ORC-TPCHL4IPZ3.12ad36` |  |
+| -60.37 kJ/mol (basis unstated) ± 0.63 | Al0.5As0.5(c) | 298.15 | experimental | Mass spectrometry | [Al–As](https://data.orchid-project.org/systems/AL-AS.html) | [1] Ansara 1984; _cites ref. 14_ | Table V, p. 8, row 3; `ORC-IFH5NT34DE.3c3c1e` |  |
+| -58.2 kJ/mol (basis unstated) ± 1.2 | Al0.5As0.5(c) | 298.15 | experimental | Sn solution calorimetry | [Al–As](https://data.orchid-project.org/systems/AL-AS.html) | [1] Ansara 1984; _cites ref. 38_ | Table V, p. 8, row 2; `ORC-7IUYZXQGF3.1efe92` |  |
+| -31 kJ/mol (basis unstated) ± 3.5 | Al0.5As0.5(c) | 298.15 | experimental | Mass spectrometry and Knudsen effusion | [Al–As](https://data.orchid-project.org/systems/AL-AS.html) | [1] Ansara 1984; _cites ref. 41_ | Table V, p. 8, row 4; `ORC-3LBVASEB5P.33b988` |  |
 
 ### Uncertainty budget
 
@@ -83,4 +83,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

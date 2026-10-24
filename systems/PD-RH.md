@@ -45,13 +45,13 @@ Table: Phase transition, Pd–Rh system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1183 K | 1183 |  | model | [1] Gossé 2016; _cites Gurler 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990291-t) | p. 5 | “This temperature is slightly higher than the electrical resistivity results by Shield and Williams \[32\] and the 1183 K calculated value by Gürler et al. \[24\].” |
-| Phase transition | 1204 K | 1204 |  | model | [1] Gossé 2016 | p. 5 | “The use of all the experimental data led to a critical point at 53.6 at.% Rh in good accordance with \[30,32,36\]. The critical temperature is calculated at 1204 K.” |
-| Phase transition | 1827.8 K | 1827.8 | other | experimental | [1] Gossé 2016 | Table 4, p. 5, row 1 |  |
-| Phase transition | 1832.8 K | 1832.8 | other; _alloy: Pd 0.9646, Rh 0.0354_ | experimental | [1] Gossé 2016 | Table 4, p. 5, row 2 |  |
-| Phase transition | 1833.3 K | 1833.3 | other; _alloy: Pd 0.9456, Rh 0.0544_ | experimental | [1] Gossé 2016 | Table 4, p. 5, row 3 |  |
-| Phase transition | 1842.2 K | 1842.2 | other; _alloy: Pd 0.8961, Rh 0.1039_ | experimental | [1] Gossé 2016 | Table 4, p. 5, row 4 |  |
-| Phase transition | 1878.6 K | 1878.6 | other; _alloy: Pd 0.7583, Rh 0.2417_ | experimental | [1] Gossé 2016 | Table 4, p. 5, row 5 |  |
+| Phase transition | 1183 K | 1183 |  | model | [1] Gossé 2016; _cites Gurler 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990291-t) | p. 5; `ORC-OB5BIAAUBO` | “This temperature is slightly higher than the electrical resistivity results by Shield and Williams \[32\] and the 1183 K calculated value by Gürler et al. \[24\].” |
+| Phase transition | 1204 K | 1204 |  | model | [1] Gossé 2016 | p. 5; `ORC-V3HEFIP2KL` | “The use of all the experimental data led to a critical point at 53.6 at.% Rh in good accordance with \[30,32,36\]. The critical temperature is calculated at 1204 K.” |
+| Phase transition | 1827.8 K | 1827.8 | other | experimental | [1] Gossé 2016 | Table 4, p. 5, row 1; `ORC-BQLBQ2V3WG` |  |
+| Phase transition | 1832.8 K | 1832.8 | other; _alloy: Pd 0.9646, Rh 0.0354_ | experimental | [1] Gossé 2016 | Table 4, p. 5, row 2; `ORC-X6MP3IDCXD` |  |
+| Phase transition | 1833.3 K | 1833.3 | other; _alloy: Pd 0.9456, Rh 0.0544_ | experimental | [1] Gossé 2016 | Table 4, p. 5, row 3; `ORC-ZNLMQ4RPXM` |  |
+| Phase transition | 1842.2 K | 1842.2 | other; _alloy: Pd 0.8961, Rh 0.1039_ | experimental | [1] Gossé 2016 | Table 4, p. 5, row 4; `ORC-MCIQ7TS4H7` |  |
+| Phase transition | 1878.6 K | 1878.6 | other; _alloy: Pd 0.7583, Rh 0.2417_ | experimental | [1] Gossé 2016 | Table 4, p. 5, row 5; `ORC-PZ7YFCO6EH` |  |
 
 ### Mixing / partial (10)
 
@@ -59,16 +59,16 @@ Table: Mixing / partial, Pd–Rh system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | 6.44 kJ/mol (basis unstated) | 0 | FCC; _alloy: Pd 0.5, Rh 0.5_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 3 |  |
-| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | 4.7264 kJ/mol (basis unstated) | 0 | FCC; _alloy: Pd 0.25, Rh 0.75_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 2 |  |
-| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | 1.1741 kJ/mol (basis unstated) | 0 | FCC; _alloy: Pd 0.94, Rh 0.06_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 5 |  |
-| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | 4.955 kJ/mol (basis unstated) | 0 | FCC; _alloy: Pd 0.75, Rh 0.25_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 4 |  |
-| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | 1.9837 kJ/mol (basis unstated) | 0 | FCC; _alloy: Pd 0.06, Rh 0.94_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 1 |  |
-| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | 6.2174 kJ/mol (basis unstated) | 0 | HCP; _alloy: Pd 0.5, Rh 0.5_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 3 |  |
-| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | 4.9894 kJ/mol (basis unstated) | 0 | HCP; _alloy: Pd 0.25, Rh 0.75_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 2 |  |
-| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | 1.0935 kJ/mol (basis unstated) | 0 | HCP; _alloy: Pd 0.94, Rh 0.06_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 5 |  |
-| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | 4.8144 kJ/mol (basis unstated) | 0 | HCP; _alloy: Pd 0.75, Rh 0.25_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 4 |  |
-| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | 2.4254 kJ/mol (basis unstated) | 0 | HCP; _alloy: Pd 0.06, Rh 0.94_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 1 |  |
+| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | 6.44 kJ/mol (basis unstated) | 0 | FCC; _alloy: Pd 0.5, Rh 0.5_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 3; `ORC-A5UMGTIJAE.d6ab24` |  |
+| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | 4.7264 kJ/mol (basis unstated) | 0 | FCC; _alloy: Pd 0.25, Rh 0.75_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 2; `ORC-KRHGVLQXOF.44526e` |  |
+| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | 1.1741 kJ/mol (basis unstated) | 0 | FCC; _alloy: Pd 0.94, Rh 0.06_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 5; `ORC-LV2AFUH62W.0c7dee` |  |
+| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | 4.955 kJ/mol (basis unstated) | 0 | FCC; _alloy: Pd 0.75, Rh 0.25_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 4; `ORC-X34N6A5POE.22b313` |  |
+| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | 1.9837 kJ/mol (basis unstated) | 0 | FCC; _alloy: Pd 0.06, Rh 0.94_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 1; `ORC-XKPDM3PNWF.d468d2` |  |
+| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | 6.2174 kJ/mol (basis unstated) | 0 | HCP; _alloy: Pd 0.5, Rh 0.5_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 3; `ORC-A5UMGTIJAE.e0d545` |  |
+| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | 4.9894 kJ/mol (basis unstated) | 0 | HCP; _alloy: Pd 0.25, Rh 0.75_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 2; `ORC-KRHGVLQXOF.82c122` |  |
+| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | 1.0935 kJ/mol (basis unstated) | 0 | HCP; _alloy: Pd 0.94, Rh 0.06_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 5; `ORC-LV2AFUH62W.09652c` |  |
+| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | 4.8144 kJ/mol (basis unstated) | 0 | HCP; _alloy: Pd 0.75, Rh 0.25_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 4; `ORC-X34N6A5POE.e6360b` |  |
+| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | 2.4254 kJ/mol (basis unstated) | 0 | HCP; _alloy: Pd 0.06, Rh 0.94_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 1; `ORC-XKPDM3PNWF.b64c84` |  |
 
 ## Sources
 
@@ -133,4 +133,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

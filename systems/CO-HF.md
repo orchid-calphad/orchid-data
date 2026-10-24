@@ -85,39 +85,39 @@ Table: Invariant reactions reported in the literature for the Co–Hf system (33
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1943.15 | congruent melting: Liquid -> Co2Hf | Liquid: Hf 0.3333; Co2Hf: Hf 0.3333 | experimental | [1] Lu 2015; _cites Svechnikov 1969_ | Table 3, p. 6, row 3 |  |
-| 1913.15 | congruent melting: Liquid -> CoHf | Liquid: Hf 0.5; CoHf: Hf 0.5 | experimental | [1] Lu 2015; _cites Svechnikov 1969_ | Table 3, p. 6, row 1 |  |
-| 1898.15 | congruent melting: Liquid -> CoHf | Liquid: Hf 0.4956; CoHf: Hf 0.4956 | model | [1] Lu 2015 | Table 3, p. 6, row 2 |  |
-| 1896.15 | congruent melting: Liquid -> Co2Hf | Liquid: Hf 0.3345; Co2Hf: Hf 0.3345 | model | [1] Lu 2015 | Table 3, p. 6, row 5 |  |
-| 1893.15 | congruent melting: Liquid -> Co2Hf | Liquid: Hf 0.3333; Co2Hf: Hf 0.3333 | experimental | [1] Lu 2015; _cites Buschow 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990111-x) | Table 3, p. 6, row 4 |  |
-| 1839.15 | eutectic: Liquid -> Co2Hf + CoHf | Liquid: Hf 0.4153; Co2Hf: Hf 0.3468; CoHf: Hf 0.4821 | model | [1] Lu 2015 | Table 3, p. 6, row 7 |  |
-| 1823.15 | eutectic: Liquid -> Co2Hf + CoHf | Liquid: Hf 0.435; Co2Hf: Hf 0.375; CoHf: Hf 0.49 | experimental | [1] Lu 2015; _cites Svechnikov 1969_ | Table 3, p. 6, row 6 |  |
-| 1823.15 | eutectic: L $ Co2Hf + CoHf |  | experimental | [1] Lu 2015; _cites Svechnikov 1969_ | p. 2 | “CoHf was claimed to melt congruently at 1640 C, and a eutectic reaction, L $ Co2Hf + CoHf, was reported at 1550 C by Svechnikov et al. \[14\].” |
-| 1823.15 | eutectic: Liquid -> Co2Hf + CoHf | Liquid: Hf 0.4191; Co2Hf: Hf 0.3428; CoHf: Hf 0.4716 | experimental | [1] Lu 2015; _cites Lu 2015_ [doi](https://doi.org/10.1016/j.jallcom.2014.11.206) | Table 3, p. 6, row 8 |  |
-| 1623.15 | peritectic: Liquid + Co2Hf -> Co23Hf6 | Co2Hf: Co 0.666667, Hf 0.333333; Co23Hf6: Co 0.793103, Hf 0.206897 | experimental | [1] Lu 2015; _cites Svechnikov 1969_ | Table 3, p. 6, row 10 |  |
-| 1623.15 | peritectic: Liquid + Co2Hf -> Co23Hf6 | Liquid: Hf 0.135; Co2Hf: Hf 0.27; Co23Hf6: Co 0.793103, Hf 0.206897 | experimental | [1] Lu 2015; _cites Buschow 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990111-x) | Table 3, p. 6, row 9 |  |
-| 1600.15 | peritectic: Liquid + Co2Hf -> Co23Hf6 | Liquid: Hf 0.1454; Co2Hf: Hf 0.2501; Co23Hf6: Hf 0.2069 | model | [1] Lu 2015 | Table 3, p. 6, row 12 |  |
-| 1599.15 | peritectic: Liquid + Co2Hf -> Co23Hf6 | Co2Hf: Co 0.666667, Hf 0.333333; Co23Hf6: Co 0.793103, Hf 0.206897 | experimental | [1] Lu 2015; _cites Lu 2015_ [doi](https://doi.org/10.1016/j.jallcom.2014.11.206) | Table 3, p. 6, row 11 |  |
-| 1588.15 | peritectic: L + CoHf $ CoHf2 |  | experimental | [1] Lu 2015; _cites Lu 2015_ [doi](https://doi.org/10.1016/j.jallcom.2014.11.206) | p. 2 | “According to the experimental observations, CoHf2 was confirmed to melt through a peritectic reaction L + CoHf $ CoHf2 around 1315 C, but the eutectic composition for the reaction L $ CoHf2 + (bHf) was modified to be around 71.5 at.% Hf.” |
-| 1588.15 | peritectic: Liquid + CoHf -> CoHf2 | Liquid: Hf 0.84; CoHf: Hf 0.505; CoHf2: Hf 0.71 | experimental | [1] Lu 2015; _cites Svechnikov 1969_ | Table 3, p. 6, row 13 |  |
-| 1585.95 | peritectic: Liquid + CoHf -> CoHf2 | Liquid: Hf 0.69; CoHf: Co 0.5, Hf 0.5; CoHf2: Co 0.333333, Hf 0.666667 | experimental | [1] Lu 2015; _cites Lu 2015_ [doi](https://doi.org/10.1016/j.jallcom.2014.11.206) | Table 3, p. 6, row 14 |  |
-| 1580.15 | peritectic: Liquid + CoHf -> CoHf2 | Liquid: Hf 0.6795; CoHf: Hf 0.5141; CoHf2: Hf 0.6594 | model | [1] Lu 2015 | Table 3, p. 6, row 15 |  |
-| 1553.15 | eutectic: Liquid -> (αCo) + Co11Hf2 | Liquid: Hf 0.11; (αCo): Hf 0.015; Co11Hf2: Co 0.846154, Hf 0.153846 | experimental | [1] Lu 2015; _cites Svechnikov 1969_ | Table 3, p. 6, row 22 |  |
-| 1551.15 | eutectic: Liquid -> CoHf2 + (βHf) | Liquid: Hf 0.7191; CoHf2: Hf 0.6772; (βHf): Hf 0.8747 | model | [1] Lu 2015 | Table 3, p. 6, row 18 |  |
-| 1548.15 | peritectic: Liquid + Co23Hf6 -> Co11Hf2 | Co23Hf6: Co 0.793103, Hf 0.206897; Co11Hf2: Co 0.846154, Hf 0.153846 | experimental | [1] Lu 2015; _cites Buschow 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990111-x) | Table 3, p. 6, row 19 |  |
-| 1546.15 | peritectic: Liquid + Co23Hf6 -> Co11Hf2 | Liquid: Hf 0.1161; Co23Hf6: Hf 0.2069; Co11Hf2: Hf 0.1538 | model | [1] Lu 2015 | Table 3, p. 6, row 21 |  |
-| 1546.15 | peritectic: Liquid + Co23Hf6 -> Co11Hf2 | Co23Hf6: Co 0.793103, Hf 0.206897; Co11Hf2: Co 0.846154, Hf 0.153846 | experimental | [1] Lu 2015; _cites Lu 2015_ [doi](https://doi.org/10.1016/j.jallcom.2014.11.206) | Table 3, p. 6, row 20 |  |
-| 1544.25 | eutectic: Liquid -> CoHf2 + (βHf) | Liquid: Hf 0.715; CoHf2: Co 0.333333, Hf 0.666667 | experimental | [1] Lu 2015; _cites Lu 2015_ [doi](https://doi.org/10.1016/j.jallcom.2014.11.206) | Table 3, p. 6, row 17 |  |
-| 1543.15 | eutectic: Liquid -> CoHf2 + (βHf) | Liquid: Hf 0.86; CoHf2: Hf 0.74; (βHf): Hf 0.95 | experimental | [1] Lu 2015; _cites Svechnikov 1969_ | Table 3, p. 6, row 16 |  |
-| 1518.45 | eutectic: Liquid -> (αCo) + Co11Hf2 | Liquid: Hf 0.0965; Co11Hf2: Hf 0.1538 | experimental | [1] Lu 2015; _cites Lu 2015_ [doi](https://doi.org/10.1016/j.jallcom.2014.11.206) | Table 3, p. 6, row 24 |  |
-| 1517.15 | eutectic: Liquid -> (αCo) + Co11Hf2 | Liquid: Hf 0.0944; (αCo): Hf 0; Co11Hf2: Hf 0.1538 | model | [1] Lu 2015 | Table 3, p. 6, row 25 |  |
-| 1503.15 | eutectic: Liquid -> (αCo) + Co11Hf2 | Co11Hf2: Co 0.846154, Hf 0.153846 | experimental | [1] Lu 2015; _cites Buschow 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990111-x) | Table 3, p. 6, row 23 |  |
-| 1477.15 | eutectoid: (βHf) -> CoHf2 + (αHf) | (βHf): Hf 0.8862; CoHf2: Hf 0.6804; (αHf): Hf 0.9778 | model | [1] Lu 2015 | Table 3, p. 6, row 27 |  |
-| 1473.15 | eutectoid: (βHf) -> CoHf2 + (αHf) | (βHf): Hf 0.96; CoHf2: Hf 0.74; (αHf): Hf 0.99 | experimental | [1] Lu 2015; _cites Svechnikov 1969_ | Table 3, p. 6, row 26 |  |
-| 923.15 | eutectoid: Co11Hf2 -> (αCo) + Co23Hf6 | Co11Hf2: Co 0.846154, Hf 0.153846; Co23Hf6: Co 0.793103, Hf 0.206897 | experimental | [1] Lu 2015; _cites Lu 2015_ [doi](https://doi.org/10.1016/j.jallcom.2014.11.206) | Table 3, p. 6, row 28 |  |
-| 923.15 | eutectoid: Co11Hf2 -> (αCo) + Co23Hf6 | Co11Hf2: Hf 0.1538; (αCo): Hf 0; Co23Hf6: Hf 0.2069 | model | [1] Lu 2015 | Table 3, p. 6, row 29 |  |
-| 694.15 | eutectoid: (αCo) -> (εCo) + Co23Hf6 | (αCo): Hf 0; (εCo): Hf 0; Co23Hf6: Hf 0.2069 | model | [1] Lu 2015 | Table 3, p. 6, row 31 |  |
-| 673.15 | eutectoid: (αCo) -> (εCo) + Co23Hf6 | (αCo): Hf 0.005; (εCo): Hf 0.004; Co23Hf6: Co 0.793103, Hf 0.206897 | model | [1] Lu 2015; _cites Svechnikov 1969_ | Table 3, p. 6, row 30 |  |
+| 1943.15 | congruent melting: Liquid -> Co2Hf | Liquid: Hf 0.3333; Co2Hf: Hf 0.3333 | experimental | [1] Lu 2015; _cites Svechnikov 1969_ | Table 3, p. 6, row 3; `ORC-ZEDGSLJILU` |  |
+| 1913.15 | congruent melting: Liquid -> CoHf | Liquid: Hf 0.5; CoHf: Hf 0.5 | experimental | [1] Lu 2015; _cites Svechnikov 1969_ | Table 3, p. 6, row 1; `ORC-IU6PFGEIVW` |  |
+| 1898.15 | congruent melting: Liquid -> CoHf | Liquid: Hf 0.4956; CoHf: Hf 0.4956 | model | [1] Lu 2015 | Table 3, p. 6, row 2; `ORC-6T6QTTWVAY` |  |
+| 1896.15 | congruent melting: Liquid -> Co2Hf | Liquid: Hf 0.3345; Co2Hf: Hf 0.3345 | model | [1] Lu 2015 | Table 3, p. 6, row 5; `ORC-35DLF5MYUO` |  |
+| 1893.15 | congruent melting: Liquid -> Co2Hf | Liquid: Hf 0.3333; Co2Hf: Hf 0.3333 | experimental | [1] Lu 2015; _cites Buschow 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990111-x) | Table 3, p. 6, row 4; `ORC-MGBTQCAY2J` |  |
+| 1839.15 | eutectic: Liquid -> Co2Hf + CoHf | Liquid: Hf 0.4153; Co2Hf: Hf 0.3468; CoHf: Hf 0.4821 | model | [1] Lu 2015 | Table 3, p. 6, row 7; `ORC-GDJVHZXDML` |  |
+| 1823.15 | eutectic: Liquid -> Co2Hf + CoHf | Liquid: Hf 0.435; Co2Hf: Hf 0.375; CoHf: Hf 0.49 | experimental | [1] Lu 2015; _cites Svechnikov 1969_ | Table 3, p. 6, row 6; `ORC-AKOGIQ4W7J` |  |
+| 1823.15 | eutectic: L $ Co2Hf + CoHf |  | experimental | [1] Lu 2015; _cites Svechnikov 1969_ | p. 2; `ORC-RT6XBNAU25.63b86f` | “CoHf was claimed to melt congruently at 1640 C, and a eutectic reaction, L $ Co2Hf + CoHf, was reported at 1550 C by Svechnikov et al. \[14\].” |
+| 1823.15 | eutectic: Liquid -> Co2Hf + CoHf | Liquid: Hf 0.4191; Co2Hf: Hf 0.3428; CoHf: Hf 0.4716 | experimental | [1] Lu 2015; _cites Lu 2015_ [doi](https://doi.org/10.1016/j.jallcom.2014.11.206) | Table 3, p. 6, row 8; `ORC-ZPOUPIEDC2` |  |
+| 1623.15 | peritectic: Liquid + Co2Hf -> Co23Hf6 | Co2Hf: Co 0.666667, Hf 0.333333; Co23Hf6: Co 0.793103, Hf 0.206897 | experimental | [1] Lu 2015; _cites Svechnikov 1969_ | Table 3, p. 6, row 10; `ORC-EW6NAKCDIL` |  |
+| 1623.15 | peritectic: Liquid + Co2Hf -> Co23Hf6 | Liquid: Hf 0.135; Co2Hf: Hf 0.27; Co23Hf6: Co 0.793103, Hf 0.206897 | experimental | [1] Lu 2015; _cites Buschow 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990111-x) | Table 3, p. 6, row 9; `ORC-XHVSLO6ASH` |  |
+| 1600.15 | peritectic: Liquid + Co2Hf -> Co23Hf6 | Liquid: Hf 0.1454; Co2Hf: Hf 0.2501; Co23Hf6: Hf 0.2069 | model | [1] Lu 2015 | Table 3, p. 6, row 12; `ORC-KHTBVXPD3I` |  |
+| 1599.15 | peritectic: Liquid + Co2Hf -> Co23Hf6 | Co2Hf: Co 0.666667, Hf 0.333333; Co23Hf6: Co 0.793103, Hf 0.206897 | experimental | [1] Lu 2015; _cites Lu 2015_ [doi](https://doi.org/10.1016/j.jallcom.2014.11.206) | Table 3, p. 6, row 11; `ORC-JS2A7AZIT2` |  |
+| 1588.15 | peritectic: L + CoHf $ CoHf2 |  | experimental | [1] Lu 2015; _cites Lu 2015_ [doi](https://doi.org/10.1016/j.jallcom.2014.11.206) | p. 2; `ORC-GREKJO7LRU` | “According to the experimental observations, CoHf2 was confirmed to melt through a peritectic reaction L + CoHf $ CoHf2 around 1315 C, but the eutectic composition for the reaction L $ CoHf2 + (bHf) was modified to be around 71.5 at.% Hf.” |
+| 1588.15 | peritectic: Liquid + CoHf -> CoHf2 | Liquid: Hf 0.84; CoHf: Hf 0.505; CoHf2: Hf 0.71 | experimental | [1] Lu 2015; _cites Svechnikov 1969_ | Table 3, p. 6, row 13; `ORC-RAZRYUCKXW` |  |
+| 1585.95 | peritectic: Liquid + CoHf -> CoHf2 | Liquid: Hf 0.69; CoHf: Co 0.5, Hf 0.5; CoHf2: Co 0.333333, Hf 0.666667 | experimental | [1] Lu 2015; _cites Lu 2015_ [doi](https://doi.org/10.1016/j.jallcom.2014.11.206) | Table 3, p. 6, row 14; `ORC-T7LRTPMNAB` |  |
+| 1580.15 | peritectic: Liquid + CoHf -> CoHf2 | Liquid: Hf 0.6795; CoHf: Hf 0.5141; CoHf2: Hf 0.6594 | model | [1] Lu 2015 | Table 3, p. 6, row 15; `ORC-22SQ6YPT35` |  |
+| 1553.15 | eutectic: Liquid -> (αCo) + Co11Hf2 | Liquid: Hf 0.11; (αCo): Hf 0.015; Co11Hf2: Co 0.846154, Hf 0.153846 | experimental | [1] Lu 2015; _cites Svechnikov 1969_ | Table 3, p. 6, row 22; `ORC-QDOL3WCUJN` |  |
+| 1551.15 | eutectic: Liquid -> CoHf2 + (βHf) | Liquid: Hf 0.7191; CoHf2: Hf 0.6772; (βHf): Hf 0.8747 | model | [1] Lu 2015 | Table 3, p. 6, row 18; `ORC-NAYBBV4KGO` |  |
+| 1548.15 | peritectic: Liquid + Co23Hf6 -> Co11Hf2 | Co23Hf6: Co 0.793103, Hf 0.206897; Co11Hf2: Co 0.846154, Hf 0.153846 | experimental | [1] Lu 2015; _cites Buschow 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990111-x) | Table 3, p. 6, row 19; `ORC-RPOLJXEGEP` |  |
+| 1546.15 | peritectic: Liquid + Co23Hf6 -> Co11Hf2 | Liquid: Hf 0.1161; Co23Hf6: Hf 0.2069; Co11Hf2: Hf 0.1538 | model | [1] Lu 2015 | Table 3, p. 6, row 21; `ORC-4HLAFMPKIH` |  |
+| 1546.15 | peritectic: Liquid + Co23Hf6 -> Co11Hf2 | Co23Hf6: Co 0.793103, Hf 0.206897; Co11Hf2: Co 0.846154, Hf 0.153846 | experimental | [1] Lu 2015; _cites Lu 2015_ [doi](https://doi.org/10.1016/j.jallcom.2014.11.206) | Table 3, p. 6, row 20; `ORC-LMSWLTNSJE` |  |
+| 1544.25 | eutectic: Liquid -> CoHf2 + (βHf) | Liquid: Hf 0.715; CoHf2: Co 0.333333, Hf 0.666667 | experimental | [1] Lu 2015; _cites Lu 2015_ [doi](https://doi.org/10.1016/j.jallcom.2014.11.206) | Table 3, p. 6, row 17; `ORC-FK3FXGM5JN` |  |
+| 1543.15 | eutectic: Liquid -> CoHf2 + (βHf) | Liquid: Hf 0.86; CoHf2: Hf 0.74; (βHf): Hf 0.95 | experimental | [1] Lu 2015; _cites Svechnikov 1969_ | Table 3, p. 6, row 16; `ORC-VHCQZTAUSI` |  |
+| 1518.45 | eutectic: Liquid -> (αCo) + Co11Hf2 | Liquid: Hf 0.0965; Co11Hf2: Hf 0.1538 | experimental | [1] Lu 2015; _cites Lu 2015_ [doi](https://doi.org/10.1016/j.jallcom.2014.11.206) | Table 3, p. 6, row 24; `ORC-B2EPO62MWO` |  |
+| 1517.15 | eutectic: Liquid -> (αCo) + Co11Hf2 | Liquid: Hf 0.0944; (αCo): Hf 0; Co11Hf2: Hf 0.1538 | model | [1] Lu 2015 | Table 3, p. 6, row 25; `ORC-JQE4QPEQJO` |  |
+| 1503.15 | eutectic: Liquid -> (αCo) + Co11Hf2 | Co11Hf2: Co 0.846154, Hf 0.153846 | experimental | [1] Lu 2015; _cites Buschow 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990111-x) | Table 3, p. 6, row 23; `ORC-IMUPPNBMKL` |  |
+| 1477.15 | eutectoid: (βHf) -> CoHf2 + (αHf) | (βHf): Hf 0.8862; CoHf2: Hf 0.6804; (αHf): Hf 0.9778 | model | [1] Lu 2015 | Table 3, p. 6, row 27; `ORC-EZ77JD3VZ6` |  |
+| 1473.15 | eutectoid: (βHf) -> CoHf2 + (αHf) | (βHf): Hf 0.96; CoHf2: Hf 0.74; (αHf): Hf 0.99 | experimental | [1] Lu 2015; _cites Svechnikov 1969_ | Table 3, p. 6, row 26; `ORC-HX7R2VVRTA` |  |
+| 923.15 | eutectoid: Co11Hf2 -> (αCo) + Co23Hf6 | Co11Hf2: Co 0.846154, Hf 0.153846; Co23Hf6: Co 0.793103, Hf 0.206897 | experimental | [1] Lu 2015; _cites Lu 2015_ [doi](https://doi.org/10.1016/j.jallcom.2014.11.206) | Table 3, p. 6, row 28; `ORC-PA4DI6ACBQ` |  |
+| 923.15 | eutectoid: Co11Hf2 -> (αCo) + Co23Hf6 | Co11Hf2: Hf 0.1538; (αCo): Hf 0; Co23Hf6: Hf 0.2069 | model | [1] Lu 2015 | Table 3, p. 6, row 29; `ORC-SVQWU6DGXX` |  |
+| 694.15 | eutectoid: (αCo) -> (εCo) + Co23Hf6 | (αCo): Hf 0; (εCo): Hf 0; Co23Hf6: Hf 0.2069 | model | [1] Lu 2015 | Table 3, p. 6, row 31; `ORC-235TZPEZVS` |  |
+| 673.15 | eutectoid: (αCo) -> (εCo) + Co23Hf6 | (αCo): Hf 0.005; (εCo): Hf 0.004; Co23Hf6: Co 0.793103, Hf 0.206897 | model | [1] Lu 2015; _cites Svechnikov 1969_ | Table 3, p. 6, row 30; `ORC-BBEKWRTYHC` |  |
 
 ## Formation enthalpies
 
@@ -127,14 +127,14 @@ Table: Enthalpies of formation, Co–Hf system (8)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Co2Hf | [Co2Hf](https://data.orchid-project.org/compounds/Co2Hf.html) | -48 kJ/mol-atom | 298.15 | model | -35.622 (mp-aaaaadlx) | -36.917 (oqmd-1795641) | [2] Bratberg 2006 | Table 6, p. 5, row 15 |  |
-| Co2Hf | [Co2Hf](https://data.orchid-project.org/compounds/Co2Hf.html) | -48 kJ/mol-atom | 298.15 | model | -35.622 (mp-aaaaadlx) | -36.917 (oqmd-1795641) | [2] Bratberg 2006; _cites Miedema 1998_ | Table 6, p. 5, row 14 |  |
-| Co2Hf | [Co2Hf](https://data.orchid-project.org/compounds/Co2Hf.html) | -39.4 kJ/mol-atom | 298.15 | experimental | -35.622 (mp-aaaaadlx) | -36.917 (oqmd-1795641) | [2] Bratberg 2006; _cites Binary 1986_ | Table 6, p. 5, row 13 |  |
-| CoHf | [CoHf](https://data.orchid-project.org/compounds/CoHf.html) | -52 kJ/mol-atom | 298.15 | model | -38.703 (mp-aaacipkv) | -41.963 (oqmd-1375082) | [2] Bratberg 2006 | Table 6, p. 5, row 12 |  |
-| CoHf | [CoHf](https://data.orchid-project.org/compounds/CoHf.html) | -51 kJ/mol-atom | 298.15 | model | -38.703 (mp-aaacipkv) | -41.963 (oqmd-1375082) | [2] Bratberg 2006; _cites Miedema 1998_ | Table 6, p. 5, row 11 |  |
-| CoHf | [CoHf](https://data.orchid-project.org/compounds/CoHf.html) | -42.8 kJ/mol-atom | 298.15 | experimental | -38.703 (mp-aaacipkv) | -41.963 (oqmd-1375082) | [2] Bratberg 2006; _cites Binary 1986_ | Table 6, p. 5, row 10 |  |
-| CoHf2 | [CoHf2](https://data.orchid-project.org/compounds/CoHf2.html) | -43 kJ/mol-atom | 298.15 | model | -28.174 (mp-aaacptpp) | -30.133 (oqmd-1365971) | [2] Bratberg 2006 | Table 6, p. 5, row 17 |  |
-| CoHf2 | [CoHf2](https://data.orchid-project.org/compounds/CoHf2.html) | -38 kJ/mol-atom | 298.15 | model | -28.174 (mp-aaacptpp) | -30.133 (oqmd-1365971) | [2] Bratberg 2006; _cites Miedema 1998_ | Table 6, p. 5, row 16 |  |
+| Co2Hf | [Co2Hf](https://data.orchid-project.org/compounds/Co2Hf.html) | -48 kJ/mol-atom | 298.15 | model | -35.622 (mp-aaaaadlx) | -36.917 (oqmd-1795641) | [2] Bratberg 2006 | Table 6, p. 5, row 15; `ORC-JAO7SGVJIH` |  |
+| Co2Hf | [Co2Hf](https://data.orchid-project.org/compounds/Co2Hf.html) | -48 kJ/mol-atom | 298.15 | model | -35.622 (mp-aaaaadlx) | -36.917 (oqmd-1795641) | [2] Bratberg 2006; _cites Miedema 1998_ | Table 6, p. 5, row 14; `ORC-QJGQN6SFAQ` |  |
+| Co2Hf | [Co2Hf](https://data.orchid-project.org/compounds/Co2Hf.html) | -39.4 kJ/mol-atom | 298.15 | experimental | -35.622 (mp-aaaaadlx) | -36.917 (oqmd-1795641) | [2] Bratberg 2006; _cites Binary 1986_ | Table 6, p. 5, row 13; `ORC-P3SQGPNU5N` |  |
+| CoHf | [CoHf](https://data.orchid-project.org/compounds/CoHf.html) | -52 kJ/mol-atom | 298.15 | model | -38.703 (mp-aaacipkv) | -41.963 (oqmd-1375082) | [2] Bratberg 2006 | Table 6, p. 5, row 12; `ORC-LSAZDS65MQ` |  |
+| CoHf | [CoHf](https://data.orchid-project.org/compounds/CoHf.html) | -51 kJ/mol-atom | 298.15 | model | -38.703 (mp-aaacipkv) | -41.963 (oqmd-1375082) | [2] Bratberg 2006; _cites Miedema 1998_ | Table 6, p. 5, row 11; `ORC-IJOXMXLLFY` |  |
+| CoHf | [CoHf](https://data.orchid-project.org/compounds/CoHf.html) | -42.8 kJ/mol-atom | 298.15 | experimental | -38.703 (mp-aaacipkv) | -41.963 (oqmd-1375082) | [2] Bratberg 2006; _cites Binary 1986_ | Table 6, p. 5, row 10; `ORC-O6X5MU3NOA` |  |
+| CoHf2 | [CoHf2](https://data.orchid-project.org/compounds/CoHf2.html) | -43 kJ/mol-atom | 298.15 | model | -28.174 (mp-aaacptpp) | -30.133 (oqmd-1365971) | [2] Bratberg 2006 | Table 6, p. 5, row 17; `ORC-EEXA43TSPZ` |  |
+| CoHf2 | [CoHf2](https://data.orchid-project.org/compounds/CoHf2.html) | -38 kJ/mol-atom | 298.15 | model | -28.174 (mp-aaacptpp) | -30.133 (oqmd-1365971) | [2] Bratberg 2006; _cites Miedema 1998_ | Table 6, p. 5, row 16; `ORC-N5HZ3J43KZ` |  |
 
 ## Other properties
 
@@ -144,14 +144,14 @@ Table: Phase transition, Co–Hf system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 593.15 K | 593.15 | other | experimental | [1] Lu 2015; _cites Ivanovic 1995_ [doi](https://doi.org/10.1007/bf00349909) | p. 3 | “By means of DTA, Ivanovic et al. \[20\] measured the specific heat of CoHf2 in the temperature range of 2-467 C. It first increases from 27 to 31 J/mole-atoms-K, and then a pronounced drop starts around 320 C. This deviation was supposed to be associated with the second order diffuse transition and attributed to the contribution of defect arising preferentially around the 16c position of the NiTi2-…” |
-| Phase transition | 758.15 K | 758.15 | other | experimental | [1] Lu 2015; _cites Buschow 1979_ [doi](https://doi.org/10.1063/1.325724) | p. 8 | “technique and DSC, Buschow and Beekmans \[10\] prepared three Co-Hf amorphous alloys, Co91Hf9, Co40Hf60 and Co22Hf78 (at.%) and measured the crystallization temperatures (Tx) to be 555, 550 and 485 C, respectively.” |
-| Phase transition | 800.15 K | 800.15 | other | experimental | [1] Lu 2015; _cites Politis 1988_ [doi](https://doi.org/10.1524/zpch.1988.157.part_1.209) | p. 9 | “Therefore, the glass transition temperature of Co-Hf amorphous alloys was approximated to be 527 C (800 K) according to the measurements by Politis \[9\].” |
-| Phase transition | 823.15 K | 823.15 | other | experimental | [1] Lu 2015; _cites Buschow 1979_ [doi](https://doi.org/10.1063/1.325724) | p. 8 | “technique and DSC, Buschow and Beekmans \[10\] prepared three Co-Hf amorphous alloys, Co91Hf9, Co40Hf60 and Co22Hf78 (at.%) and measured the crystallization temperatures (Tx) to be 555, 550 and 485 C, respectively.” |
-| Phase transition | 828.15 K | 828.15 | other | experimental | [1] Lu 2015; _cites Buschow 1979_ [doi](https://doi.org/10.1063/1.325724) | p. 8 | “technique and DSC, Buschow and Beekmans \[10\] prepared three Co-Hf amorphous alloys, Co91Hf9, Co40Hf60 and Co22Hf78 (at.%) and measured the crystallization temperatures (Tx) to be 555, 550 and 485 C, respectively.” |
-| Phase transition | 1893.15 K | 1893.15 |  | experimental | [1] Lu 2015; _cites Buschow 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990111-x) | p. 2 | “The melting point of Co2Hf was reported to be 1670 and 1620 C by Svechnikov et al. \[14\] and Buschow et al. \[12\], respectively.” |
-| Phase transition | 1913.15 K | 1913.15 | congruent transformation | experimental | [1] Lu 2015; _cites Svechnikov 1969_ | p. 2 | “CoHf was claimed to melt congruently at 1640 C, and a eutectic reaction, L $ Co2Hf + CoHf, was reported at 1550 C by Svechnikov et al. \[14\].” |
-| Phase transition | 1943.15 K | 1943.15 |  | experimental | [1] Lu 2015; _cites Svechnikov 1969_ | p. 2 | “The melting point of Co2Hf was reported to be 1670 and 1620 C by Svechnikov et al. \[14\] and Buschow et al. \[12\], respectively.” |
+| Phase transition | 593.15 K | 593.15 | other | experimental | [1] Lu 2015; _cites Ivanovic 1995_ [doi](https://doi.org/10.1007/bf00349909) | p. 3; `ORC-RGKHK25N7R` | “By means of DTA, Ivanovic et al. \[20\] measured the specific heat of CoHf2 in the temperature range of 2-467 C. It first increases from 27 to 31 J/mole-atoms-K, and then a pronounced drop starts around 320 C. This deviation was supposed to be associated with the second order diffuse transition and attributed to the contribution of defect arising preferentially around the 16c position of the NiTi2-…” |
+| Phase transition | 758.15 K | 758.15 | other | experimental | [1] Lu 2015; _cites Buschow 1979_ [doi](https://doi.org/10.1063/1.325724) | p. 8; `ORC-LAFY26DCDB.b93f10` | “technique and DSC, Buschow and Beekmans \[10\] prepared three Co-Hf amorphous alloys, Co91Hf9, Co40Hf60 and Co22Hf78 (at.%) and measured the crystallization temperatures (Tx) to be 555, 550 and 485 C, respectively.” |
+| Phase transition | 800.15 K | 800.15 | other | experimental | [1] Lu 2015; _cites Politis 1988_ [doi](https://doi.org/10.1524/zpch.1988.157.part_1.209) | p. 9; `ORC-EVELWGXQ7A` | “Therefore, the glass transition temperature of Co-Hf amorphous alloys was approximated to be 527 C (800 K) according to the measurements by Politis \[9\].” |
+| Phase transition | 823.15 K | 823.15 | other | experimental | [1] Lu 2015; _cites Buschow 1979_ [doi](https://doi.org/10.1063/1.325724) | p. 8; `ORC-LAFY26DCDB.d9d62b` | “technique and DSC, Buschow and Beekmans \[10\] prepared three Co-Hf amorphous alloys, Co91Hf9, Co40Hf60 and Co22Hf78 (at.%) and measured the crystallization temperatures (Tx) to be 555, 550 and 485 C, respectively.” |
+| Phase transition | 828.15 K | 828.15 | other | experimental | [1] Lu 2015; _cites Buschow 1979_ [doi](https://doi.org/10.1063/1.325724) | p. 8; `ORC-LAFY26DCDB.8e0478` | “technique and DSC, Buschow and Beekmans \[10\] prepared three Co-Hf amorphous alloys, Co91Hf9, Co40Hf60 and Co22Hf78 (at.%) and measured the crystallization temperatures (Tx) to be 555, 550 and 485 C, respectively.” |
+| Phase transition | 1893.15 K | 1893.15 |  | experimental | [1] Lu 2015; _cites Buschow 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990111-x) | p. 2; `ORC-OIJOKKICAO.a2d619` | “The melting point of Co2Hf was reported to be 1670 and 1620 C by Svechnikov et al. \[14\] and Buschow et al. \[12\], respectively.” |
+| Phase transition | 1913.15 K | 1913.15 | congruent transformation | experimental | [1] Lu 2015; _cites Svechnikov 1969_ | p. 2; `ORC-RT6XBNAU25.9a31cc` | “CoHf was claimed to melt congruently at 1640 C, and a eutectic reaction, L $ Co2Hf + CoHf, was reported at 1550 C by Svechnikov et al. \[14\].” |
+| Phase transition | 1943.15 K | 1943.15 |  | experimental | [1] Lu 2015; _cites Svechnikov 1969_ | p. 2; `ORC-OIJOKKICAO.293640` | “The melting point of Co2Hf was reported to be 1670 and 1620 C by Svechnikov et al. \[14\] and Buschow et al. \[12\], respectively.” |
 
 ### Heat capacity / entropy / enthalpy (20)
 
@@ -159,26 +159,26 @@ Table: Heat capacity / entropy / enthalpy, Co–Hf system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Heat content; _printed: Heat contents_ | 8.0099 kJ/mole atoms ± 0.29 | 586.85 | CoHf2; _alloy: Hf 0.666667_ | experimental | [1] Lu 2015 | Table 4, p. 8, row 11 |  |
-| Heat content; _printed: Heat contents_ | 9.9867 kJ/mole atoms ± 2.32 | 587.75 | Co2Hf; _alloy: Hf 0.333333_ | experimental | [1] Lu 2015 | Table 4, p. 8, row 1 |  |
-| Heat content; _printed: Heat contents_ | 11.0297 kJ/mole atoms ± 0.34 | 688.91 | Co2Hf; _alloy: Hf 0.333333_ | experimental | [1] Lu 2015 | Table 4, p. 8, row 2 |  |
-| Heat content; _printed: Heat contents_ | 10.7868 kJ/mole atoms ± 0.56 | 689.08 | CoHf2; _alloy: Hf 0.666667_ | experimental | [1] Lu 2015 | Table 4, p. 8, row 12 |  |
-| Heat content; _printed: Heat contents_ | 13.9756 kJ/mole atoms ± 0.33 | 790.7 | Co2Hf; _alloy: Hf 0.333333_ | experimental | [1] Lu 2015 | Table 4, p. 8, row 3 |  |
-| Heat content; _printed: Heat contents_ | 13.7901 kJ/mole atoms ± 1.1 | 790.82 | CoHf2; _alloy: Hf 0.666667_ | experimental | [1] Lu 2015 | Table 4, p. 8, row 13 |  |
-| Heat content; _printed: Heat contents_ | 17.2277 kJ/mole atoms ± 0.22 | 891.83 | Co2Hf; _alloy: Hf 0.333333_ | experimental | [1] Lu 2015 | Table 4, p. 8, row 4 |  |
-| Heat content; _printed: Heat contents_ | 17.3985 kJ/mole atoms ± 1.81 | 892.09 | CoHf2; _alloy: Hf 0.666667_ | experimental | [1] Lu 2015 | Table 4, p. 8, row 14 |  |
-| Heat content; _printed: Heat contents_ | 19.7983 kJ/mole atoms ± 0.81 | 993.43 | Co2Hf; _alloy: Hf 0.333333_ | experimental | [1] Lu 2015 | Table 4, p. 8, row 5 |  |
-| Heat content; _printed: Heat contents_ | 19.8192 kJ/mole atoms ± 1.32 | 993.54 | CoHf2; _alloy: Hf 0.666667_ | experimental | [1] Lu 2015 | Table 4, p. 8, row 15 |  |
-| Heat content; _printed: Heat contents_ | 23.6661 kJ/mole atoms ± 1.32 | 1094.71 | Co2Hf; _alloy: Hf 0.333333_ | experimental | [1] Lu 2015 | Table 4, p. 8, row 6 |  |
-| Heat content; _printed: Heat contents_ | 22.2907 kJ/mole atoms ± 0.91 | 1094.94 | CoHf2; _alloy: Hf 0.666667_ | experimental | [1] Lu 2015 | Table 4, p. 8, row 16 |  |
-| Heat content; _printed: Heat contents_ | 25.5361 kJ/mole atoms ± 1.21 | 1196.19 | CoHf2; _alloy: Hf 0.666667_ | experimental | [1] Lu 2015 | Table 4, p. 8, row 17 |  |
-| Heat content; _printed: Heat contents_ | 26.2749 kJ/mole atoms ± 0.89 | 1196.37 | Co2Hf; _alloy: Hf 0.333333_ | experimental | [1] Lu 2015 | Table 4, p. 8, row 7 |  |
-| Heat content; _printed: Heat contents_ | 30.8695 kJ/mole atoms ± 3.44 | 1297.96 | Co2Hf; _alloy: Hf 0.333333_ | experimental | [1] Lu 2015 | Table 4, p. 8, row 8 |  |
-| Heat content; _printed: Heat contents_ | 31.5859 kJ/mole atoms ± 1.48 | 1298.01 | CoHf2; _alloy: Hf 0.666667_ | experimental | [1] Lu 2015 | Table 4, p. 8, row 18 |  |
-| Heat content; _printed: Heat contents_ | 35.7274 kJ/mole atoms ± 2.61 | 1399.82 | CoHf2; _alloy: Hf 0.666667_ | experimental | [1] Lu 2015 | Table 4, p. 8, row 19 |  |
-| Heat content; _printed: Heat contents_ | 33.4084 kJ/mole atoms ± 1.04 | 1400.27 | Co2Hf; _alloy: Hf 0.333333_ | experimental | [1] Lu 2015 | Table 4, p. 8, row 9 |  |
-| Heat content; _printed: Heat contents_ | 36.8657 kJ/mole atoms ± 1.52 | 1502.28 | CoHf2; _alloy: Hf 0.666667_ | experimental | [1] Lu 2015 | Table 4, p. 8, row 20 |  |
-| Heat content; _printed: Heat contents_ | 36.1185 kJ/mole atoms ± 1.88 | 1502.32 | Co2Hf; _alloy: Hf 0.333333_ | experimental | [1] Lu 2015 | Table 4, p. 8, row 10 |  |
+| Heat content; _printed: Heat contents_ | 8.0099 kJ/mole atoms ± 0.29 | 586.85 | CoHf2; _alloy: Hf 0.666667_ | experimental | [1] Lu 2015 | Table 4, p. 8, row 11; `ORC-4ADSQHHIT7` |  |
+| Heat content; _printed: Heat contents_ | 9.9867 kJ/mole atoms ± 2.32 | 587.75 | Co2Hf; _alloy: Hf 0.333333_ | experimental | [1] Lu 2015 | Table 4, p. 8, row 1; `ORC-C3DSWWNC5F` |  |
+| Heat content; _printed: Heat contents_ | 11.0297 kJ/mole atoms ± 0.34 | 688.91 | Co2Hf; _alloy: Hf 0.333333_ | experimental | [1] Lu 2015 | Table 4, p. 8, row 2; `ORC-25IU2O276I` |  |
+| Heat content; _printed: Heat contents_ | 10.7868 kJ/mole atoms ± 0.56 | 689.08 | CoHf2; _alloy: Hf 0.666667_ | experimental | [1] Lu 2015 | Table 4, p. 8, row 12; `ORC-B4IY4PDXNA` |  |
+| Heat content; _printed: Heat contents_ | 13.9756 kJ/mole atoms ± 0.33 | 790.7 | Co2Hf; _alloy: Hf 0.333333_ | experimental | [1] Lu 2015 | Table 4, p. 8, row 3; `ORC-U2VC3AZN4J` |  |
+| Heat content; _printed: Heat contents_ | 13.7901 kJ/mole atoms ± 1.1 | 790.82 | CoHf2; _alloy: Hf 0.666667_ | experimental | [1] Lu 2015 | Table 4, p. 8, row 13; `ORC-RJIOMJYA4Q` |  |
+| Heat content; _printed: Heat contents_ | 17.2277 kJ/mole atoms ± 0.22 | 891.83 | Co2Hf; _alloy: Hf 0.333333_ | experimental | [1] Lu 2015 | Table 4, p. 8, row 4; `ORC-KTXDHHPZVG` |  |
+| Heat content; _printed: Heat contents_ | 17.3985 kJ/mole atoms ± 1.81 | 892.09 | CoHf2; _alloy: Hf 0.666667_ | experimental | [1] Lu 2015 | Table 4, p. 8, row 14; `ORC-IYVLBY24P3` |  |
+| Heat content; _printed: Heat contents_ | 19.7983 kJ/mole atoms ± 0.81 | 993.43 | Co2Hf; _alloy: Hf 0.333333_ | experimental | [1] Lu 2015 | Table 4, p. 8, row 5; `ORC-NFLYKFAHAL` |  |
+| Heat content; _printed: Heat contents_ | 19.8192 kJ/mole atoms ± 1.32 | 993.54 | CoHf2; _alloy: Hf 0.666667_ | experimental | [1] Lu 2015 | Table 4, p. 8, row 15; `ORC-TSR6EDN66I` |  |
+| Heat content; _printed: Heat contents_ | 23.6661 kJ/mole atoms ± 1.32 | 1094.71 | Co2Hf; _alloy: Hf 0.333333_ | experimental | [1] Lu 2015 | Table 4, p. 8, row 6; `ORC-DFBPUGMFWO` |  |
+| Heat content; _printed: Heat contents_ | 22.2907 kJ/mole atoms ± 0.91 | 1094.94 | CoHf2; _alloy: Hf 0.666667_ | experimental | [1] Lu 2015 | Table 4, p. 8, row 16; `ORC-M42YJZ3SE7` |  |
+| Heat content; _printed: Heat contents_ | 25.5361 kJ/mole atoms ± 1.21 | 1196.19 | CoHf2; _alloy: Hf 0.666667_ | experimental | [1] Lu 2015 | Table 4, p. 8, row 17; `ORC-3YND6GAMEY` |  |
+| Heat content; _printed: Heat contents_ | 26.2749 kJ/mole atoms ± 0.89 | 1196.37 | Co2Hf; _alloy: Hf 0.333333_ | experimental | [1] Lu 2015 | Table 4, p. 8, row 7; `ORC-CYLEFQ7KEU` |  |
+| Heat content; _printed: Heat contents_ | 30.8695 kJ/mole atoms ± 3.44 | 1297.96 | Co2Hf; _alloy: Hf 0.333333_ | experimental | [1] Lu 2015 | Table 4, p. 8, row 8; `ORC-MVP3W323X3` |  |
+| Heat content; _printed: Heat contents_ | 31.5859 kJ/mole atoms ± 1.48 | 1298.01 | CoHf2; _alloy: Hf 0.666667_ | experimental | [1] Lu 2015 | Table 4, p. 8, row 18; `ORC-HSBQV5NPGV` |  |
+| Heat content; _printed: Heat contents_ | 35.7274 kJ/mole atoms ± 2.61 | 1399.82 | CoHf2; _alloy: Hf 0.666667_ | experimental | [1] Lu 2015 | Table 4, p. 8, row 19; `ORC-R2POTK2OCV` |  |
+| Heat content; _printed: Heat contents_ | 33.4084 kJ/mole atoms ± 1.04 | 1400.27 | Co2Hf; _alloy: Hf 0.333333_ | experimental | [1] Lu 2015 | Table 4, p. 8, row 9; `ORC-LZ3J6SRLZF` |  |
+| Heat content; _printed: Heat contents_ | 36.8657 kJ/mole atoms ± 1.52 | 1502.28 | CoHf2; _alloy: Hf 0.666667_ | experimental | [1] Lu 2015 | Table 4, p. 8, row 20; `ORC-OLCEX5N5A5` |  |
+| Heat content; _printed: Heat contents_ | 36.1185 kJ/mole atoms ± 1.88 | 1502.32 | Co2Hf; _alloy: Hf 0.333333_ | experimental | [1] Lu 2015 | Table 4, p. 8, row 10; `ORC-2FT4QM4G67` |  |
 
 ### Other property (1)
 
@@ -186,7 +186,7 @@ Table: Other property, Co–Hf system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Other; _printed: crystallization heat_ | 9 kJ/mole-atoms | 776.15 |  | experimental | [1] Lu 2015; _cites Jansson 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990160-6) | p. 8 | “Using the same methods, Jansson and Nygren \[8\] reported the Tx of a Co33Hf67 (at.%) alloy to be 503 C with a crystallization heat of 9.0 kJ/mole-atoms.” |
+| Other; _printed: crystallization heat_ | 9 kJ/mole-atoms | 776.15 |  | experimental | [1] Lu 2015; _cites Jansson 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990160-6) | p. 8; `ORC-EIY3LJLHEJ` | “Using the same methods, Jansson and Nygren \[8\] reported the Tx of a Co33Hf67 (at.%) alloy to be 503 C with a crystallization heat of 9.0 kJ/mole-atoms.” |
 
 ## Sources
 
@@ -252,4 +252,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

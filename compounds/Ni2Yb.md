@@ -14,13 +14,13 @@ Table: Enthalpy of formation of Ni2Yb reported in the literature (7)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -32 kJ/mol-atom ± 4.6 | Ni2Yb | 298.15 | experimental | Vapor pressure | [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html) | [1] Kardellass 2016; _cites Brutti 2002_ [doi](https://doi.org/10.1361/105497102770332207) | Table 2, p. 5, row 17 |  |
-| -30 kJ/mol-atom | Ni2Yb | 298.15 | experimental | Calorimetry | [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html) | [1] Kardellass 2016; _cites Brutti 2002_ [doi](https://doi.org/10.1361/105497102770332207) | Table 2, p. 5, row 16 |  |
-| -23.3 kJ/mol-atom | Ni2Yb | 298.15 | experimental | Calorimetry | [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html) | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 2, p. 5, row 19 |  |
-| -37.6 kJ/mol-atom | YbNi2 | 298.15 | model |  | [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html) | [2] Hu 2017 | p. 17 | “The enthalpy of formation of the YbNi2 phase at 298K is predicted to be -37.6 kJ/mol-atom, which is more negative than the experimental values reported by Brutti et al. \[13\], but very close to the lower bound of the measurement uncertainty.” |
-| -33.6 kJ/mol-atom | Ni2Yb | 298.15 | model | Prediction | [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html) | [1] Kardellass 2016; _cites De 1988_ | Table 2, p. 5, row 15 |  |
-| -22.7 kJ/mol-atom | Ni2Yb | 298.15 | model | Optimization | [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html) | [1] Kardellass 2016 | Table 4, p. 7, row 8 |  |
-| -22.07 kJ/mol-atom | Ni2Yb | 298.15 | model | Optimization | [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html) | [1] Kardellass 2016 | Table 2, p. 5, row 18 |  |
+| -32 kJ/mol-atom ± 4.6 | Ni2Yb | 298.15 | experimental | Vapor pressure | [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html) | [1] Kardellass 2016; _cites Brutti 2002_ [doi](https://doi.org/10.1361/105497102770332207) | Table 2, p. 5, row 17; `ORC-2VYYLCJG6B.35b188` |  |
+| -30 kJ/mol-atom | Ni2Yb | 298.15 | experimental | Calorimetry | [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html) | [1] Kardellass 2016; _cites Brutti 2002_ [doi](https://doi.org/10.1361/105497102770332207) | Table 2, p. 5, row 16; `ORC-5DLLBJSKHU.19c63a` |  |
+| -23.3 kJ/mol-atom | Ni2Yb | 298.15 | experimental | Calorimetry | [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html) | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 2, p. 5, row 19; `ORC-ATWHHONLGM.3eeafe` |  |
+| -37.6 kJ/mol-atom | YbNi2 | 298.15 | model |  | [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html) | [2] Hu 2017 | p. 17; `ORC-IEZCL25UPS` | “The enthalpy of formation of the YbNi2 phase at 298K is predicted to be -37.6 kJ/mol-atom, which is more negative than the experimental values reported by Brutti et al. \[13\], but very close to the lower bound of the measurement uncertainty.” |
+| -33.6 kJ/mol-atom | Ni2Yb | 298.15 | model | Prediction | [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html) | [1] Kardellass 2016; _cites De 1988_ | Table 2, p. 5, row 15; `ORC-HJU5LZ4HSN.200f67` |  |
+| -22.7 kJ/mol-atom | Ni2Yb | 298.15 | model | Optimization | [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html) | [1] Kardellass 2016 | Table 4, p. 7, row 8; `ORC-5PEWL6ZHNP.aaf201` |  |
+| -22.07 kJ/mol-atom | Ni2Yb | 298.15 | model | Optimization | [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html) | [1] Kardellass 2016 | Table 2, p. 5, row 18; `ORC-YMDZIWYML2.fa394a` |  |
 
 ### Uncertainty budget
 
@@ -102,4 +102,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

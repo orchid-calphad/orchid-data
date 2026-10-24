@@ -63,20 +63,20 @@ Table: Invariant reactions reported in the literature for the Sb–Y system (14)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2393 | peritectic: L + SbY -> Sb3Y4 | SbY: Y 0.5; Sb3Y4: Y 0.571429 | experimental | [1] Zhang 2009; _cites Schmidt 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990045-7) | Table 3, p. 4, row 11 |  |
-| 2389 | peritectic: L + SbY -> Sb3Y4 | L: Y 0.614; SbY: Y 0.5; Sb3Y4: Y 0.571429 | model | [1] Zhang 2009 | Table 3, p. 4, row 12 |  |
-| 1970 | peritectic: L + Sb3Y4 -> Sb3Y5 | L: Y 0.714; Sb3Y4: Y 0.571429; Sb3Y5: Y 0.625 | model | [1] Zhang 2009 | Table 3, p. 4, row 8 |  |
-| 1963 | peritectic: L + Sb3Y4 -> Sb3Y5 | Sb3Y4: Y 0.571429; Sb3Y5: Y 0.625 | experimental | [1] Zhang 2009; _cites Schmidt 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990045-7) | Table 3, p. 4, row 7 |  |
-| 1937 | eutectoid: Sb3Y4 -> Sb3Y5 + SbY | Sb3Y4: Y 0.571429; Sb3Y5: Y 0.625; SbY: Y 0.5 | model | [1] Zhang 2009 | Table 3, p. 4, row 10 |  |
-| 1933 | eutectoid: Sb3Y4 -> Sb3Y5 + SbY | Sb3Y4: Y 0.571429; Sb3Y5: Y 0.625; SbY: Y 0.5 | experimental | [1] Zhang 2009; _cites Schmidt 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990045-7) | Table 3, p. 4, row 9 |  |
-| 1735 | eutectoid: Bcc_Y \<-> L + Hcp_Y |  | experimental | [1] Zhang 2009; _cites Schmidt 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990045-7) | Table 3, p. 4, row 1 |  |
-| 1730 | eutectoid: Bcc_Y \<-> L + Hcp_Y | L: Y 0.947 | model | [1] Zhang 2009 | Table 3, p. 4, row 2 |  |
-| 1515 | peritectic: L + Sb3Y5 -> SbY3 | L: Y 0.852; Sb3Y5: Y 0.625; SbY3: Y 0.75 | model | [1] Zhang 2009 | Table 3, p. 4, row 6 |  |
-| 1513 | peritectic: L + Sb3Y5 -> SbY3 | Sb3Y5: Y 0.625; SbY3: Y 0.75 | experimental | [1] Zhang 2009; _cites Schmidt 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990045-7) | Table 3, p. 4, row 5 |  |
-| 1499 | eutectic: L \<-> Hcp_Y + SbY3 | L: Y 0.836; SbY3: Y 0.75 | model | [1] Zhang 2009 | Table 3, p. 4, row 4 |  |
-| 1493 | eutectic: L \<-> Hcp_Y + SbY3 | L: Y 0.855; SbY3: Y 0.75 | experimental | [1] Zhang 2009; _cites Schmidt 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990045-7) | Table 3, p. 4, row 3 |  |
-| 902 | eutectic: L -> SbY + Rhom.Sb | SbY: Y 0.5; Rhom.Sb: Y 0 | experimental | [1] Zhang 2009; _cites Schmidt 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990045-7) | Table 3, p. 4, row 15 |  |
-| 897 | eutectic: L -> SbY + Rhom.Sb | L: Y 0.029; SbY: Y 0.5; Rhom.Sb: Y 0 | model | [1] Zhang 2009 | Table 3, p. 4, row 16 |  |
+| 2393 | peritectic: L + SbY -> Sb3Y4 | SbY: Y 0.5; Sb3Y4: Y 0.571429 | experimental | [1] Zhang 2009; _cites Schmidt 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990045-7) | Table 3, p. 4, row 11; `ORC-GUXESYBVYJ` |  |
+| 2389 | peritectic: L + SbY -> Sb3Y4 | L: Y 0.614; SbY: Y 0.5; Sb3Y4: Y 0.571429 | model | [1] Zhang 2009 | Table 3, p. 4, row 12; `ORC-23AM4OQXJJ` |  |
+| 1970 | peritectic: L + Sb3Y4 -> Sb3Y5 | L: Y 0.714; Sb3Y4: Y 0.571429; Sb3Y5: Y 0.625 | model | [1] Zhang 2009 | Table 3, p. 4, row 8; `ORC-G4QC5Y7VUD` |  |
+| 1963 | peritectic: L + Sb3Y4 -> Sb3Y5 | Sb3Y4: Y 0.571429; Sb3Y5: Y 0.625 | experimental | [1] Zhang 2009; _cites Schmidt 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990045-7) | Table 3, p. 4, row 7; `ORC-JV5ZRJQE4U` |  |
+| 1937 | eutectoid: Sb3Y4 -> Sb3Y5 + SbY | Sb3Y4: Y 0.571429; Sb3Y5: Y 0.625; SbY: Y 0.5 | model | [1] Zhang 2009 | Table 3, p. 4, row 10; `ORC-4NSPH6A23X` |  |
+| 1933 | eutectoid: Sb3Y4 -> Sb3Y5 + SbY | Sb3Y4: Y 0.571429; Sb3Y5: Y 0.625; SbY: Y 0.5 | experimental | [1] Zhang 2009; _cites Schmidt 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990045-7) | Table 3, p. 4, row 9; `ORC-EQVESI524X` |  |
+| 1735 | eutectoid: Bcc_Y \<-> L + Hcp_Y |  | experimental | [1] Zhang 2009; _cites Schmidt 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990045-7) | Table 3, p. 4, row 1; `ORC-P2SN753EKU` |  |
+| 1730 | eutectoid: Bcc_Y \<-> L + Hcp_Y | L: Y 0.947 | model | [1] Zhang 2009 | Table 3, p. 4, row 2; `ORC-7WTRVWERNX` |  |
+| 1515 | peritectic: L + Sb3Y5 -> SbY3 | L: Y 0.852; Sb3Y5: Y 0.625; SbY3: Y 0.75 | model | [1] Zhang 2009 | Table 3, p. 4, row 6; `ORC-SQFUBVXB2T` |  |
+| 1513 | peritectic: L + Sb3Y5 -> SbY3 | Sb3Y5: Y 0.625; SbY3: Y 0.75 | experimental | [1] Zhang 2009; _cites Schmidt 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990045-7) | Table 3, p. 4, row 5; `ORC-AZDXB7AXDZ` |  |
+| 1499 | eutectic: L \<-> Hcp_Y + SbY3 | L: Y 0.836; SbY3: Y 0.75 | model | [1] Zhang 2009 | Table 3, p. 4, row 4; `ORC-VD37JDIIV5` |  |
+| 1493 | eutectic: L \<-> Hcp_Y + SbY3 | L: Y 0.855; SbY3: Y 0.75 | experimental | [1] Zhang 2009; _cites Schmidt 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990045-7) | Table 3, p. 4, row 3; `ORC-CBSXW44ITE` |  |
+| 902 | eutectic: L -> SbY + Rhom.Sb | SbY: Y 0.5; Rhom.Sb: Y 0 | experimental | [1] Zhang 2009; _cites Schmidt 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990045-7) | Table 3, p. 4, row 15; `ORC-ZL35ONTYT4` |  |
+| 897 | eutectic: L -> SbY + Rhom.Sb | L: Y 0.029; SbY: Y 0.5; Rhom.Sb: Y 0 | model | [1] Zhang 2009 | Table 3, p. 4, row 16; `ORC-GBL7PWVLH4` |  |
 
 ## Other properties
 
@@ -86,8 +86,8 @@ Table: Phase transition, Sb–Y system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 2582 K | 2582 | congruent melting: L -> SbY; _L: Y 0.5; SbY: Y 0.5_ | model | [1] Zhang 2009 | Table 3, p. 4, row 14 |  |
-| Phase transition | 2583 K | 2583 | congruent melting: L -> SbY; _L: Y 0.5; SbY: Y 0.5_ | experimental | [1] Zhang 2009; _cites Schmidt 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990045-7) | Table 3, p. 4, row 13 |  |
+| Phase transition | 2582 K | 2582 | congruent melting: L -> SbY; _L: Y 0.5; SbY: Y 0.5_ | model | [1] Zhang 2009 | Table 3, p. 4, row 14; `ORC-IMPGFT3H4W` |  |
+| Phase transition | 2583 K | 2583 | congruent melting: L -> SbY; _L: Y 0.5; SbY: Y 0.5_ | experimental | [1] Zhang 2009; _cites Schmidt 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990045-7) | Table 3, p. 4, row 13; `ORC-3NQJVSGHOU` |  |
 
 ### Crystal structure (5)
 
@@ -95,11 +95,11 @@ Table: Crystal structure, Sb–Y system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 8.9114 Å | 298.15 | Sb3Y5; _alloy: Sb 0.375, Y 0.625_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 9 |  |
-| Lattice a | 6.165 Å | 298.15 | SbY; _alloy: Sb 0.5, Y 0.5_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 8 |  |
-| Lattice a | 12.361 Å | 298.15 | SbY3; _alloy: Sb 0.25, Y 0.75_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 10 |  |
-| Lattice c | 6.296 Å | 298.15 | Sb3Y5; _alloy: Sb 0.375, Y 0.625_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 9 |  |
-| Lattice c | 6.18 Å | 298.15 | SbY3; _alloy: Sb 0.25, Y 0.75_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 10 |  |
+| Lattice a | 8.9114 Å | 298.15 | Sb3Y5; _alloy: Sb 0.375, Y 0.625_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 9; `ORC-AGSBXN3C3E.87ac8a` |  |
+| Lattice a | 6.165 Å | 298.15 | SbY; _alloy: Sb 0.5, Y 0.5_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 8; `ORC-GWLGD45FT3` |  |
+| Lattice a | 12.361 Å | 298.15 | SbY3; _alloy: Sb 0.25, Y 0.75_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 10; `ORC-3S5NRULHEG.d16353` |  |
+| Lattice c | 6.296 Å | 298.15 | Sb3Y5; _alloy: Sb 0.375, Y 0.625_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 9; `ORC-AGSBXN3C3E.09646f` |  |
+| Lattice c | 6.18 Å | 298.15 | SbY3; _alloy: Sb 0.25, Y 0.75_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 10; `ORC-3S5NRULHEG.00bdda` |  |
 
 ## Sources
 
@@ -164,4 +164,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

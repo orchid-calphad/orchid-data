@@ -31,12 +31,12 @@ Table: Enthalpies of formation, Al–Np–Pu–U system (6)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| NpA12 |  | -110.2 kJ/mol (basis unstated) |  | model |  |  | [1] Sedmidubský 2010 | Table 2, p. 3, row 2 |  |
-| NpA13 |  | -122.9 kJ/mol (basis unstated) |  | model |  |  | [1] Sedmidubský 2010 | Table 2, p. 3, row 5 |  |
-| NpA14 |  | -105.6 kJ/mol (basis unstated) |  | model |  |  | [1] Sedmidubský 2010 | Table 2, p. 3, row 10 |  |
-| PuA12 |  | -159.2 kJ/mol (basis unstated) |  | model |  |  | [1] Sedmidubský 2010 | Table 2, p. 3, row 3 |  |
-| UA12 |  | -86.1 kJ/mol (basis unstated) |  | model |  |  | [1] Sedmidubský 2010 | Table 2, p. 3, row 1 |  |
-| UA13 |  | -87 kJ/mol (basis unstated) |  | model |  |  | [1] Sedmidubský 2010 | Table 2, p. 3, row 4 |  |
+| NpA12 |  | -110.2 kJ/mol (basis unstated) |  | model |  |  | [1] Sedmidubský 2010 | Table 2, p. 3, row 2; `ORC-AZTCA3FNXM.26285e` |  |
+| NpA13 |  | -122.9 kJ/mol (basis unstated) |  | model |  |  | [1] Sedmidubský 2010 | Table 2, p. 3, row 5; `ORC-MQPU74X72L.22844f` |  |
+| NpA14 |  | -105.6 kJ/mol (basis unstated) |  | model |  |  | [1] Sedmidubský 2010 | Table 2, p. 3, row 10; `ORC-UCH5KWJ6UG.e779f0` |  |
+| PuA12 |  | -159.2 kJ/mol (basis unstated) |  | model |  |  | [1] Sedmidubský 2010 | Table 2, p. 3, row 3; `ORC-EXMKTYQAEE.362e5e` |  |
+| UA12 |  | -86.1 kJ/mol (basis unstated) |  | model |  |  | [1] Sedmidubský 2010 | Table 2, p. 3, row 1; `ORC-MZ2XRS7TQV.a9c091` |  |
+| UA13 |  | -87 kJ/mol (basis unstated) |  | model |  |  | [1] Sedmidubský 2010 | Table 2, p. 3, row 4; `ORC-OZIZ5AB43L.6c7acf` |  |
 
 ## Other properties
 
@@ -46,12 +46,12 @@ Table: Formation, Al–Np–Pu–U system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy of formation; _printed: ΔfS°298_ | -2.3 J/mol (basis unstated)/K | 298.15 | NpA12; _alloy: Np 0.333333, Pu 0, U 0_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 2 |  |
-| Entropy of formation; _printed: ΔfS°298_ | -12.1 J/mol (basis unstated)/K | 298.15 | NpA13; _alloy: Np 0.25, Pu 0, U 0_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 5 |  |
-| Entropy of formation; _printed: ΔfS°298_ | -8.1 J/mol (basis unstated)/K | 298.15 | NpA14; _alloy: Np 0.2, Pu 0, U 0_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 10 |  |
-| Entropy of formation; _printed: ΔfS°298_ | -1.4 J/mol (basis unstated)/K | 298.15 | PuA12; _alloy: Np 0, Pu 0.333333, U 0_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 3 |  |
-| Entropy of formation; _printed: ΔfS°298_ | -1.1 J/mol (basis unstated)/K | 298.15 | UA12; _alloy: Np 0, Pu 0, U 0.333333_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 1 |  |
-| Entropy of formation; _printed: ΔfS°298_ | -13.1 J/mol (basis unstated)/K | 298.15 | UA13; _alloy: Np 0, Pu 0, U 0.25_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 4 |  |
+| Entropy of formation; _printed: ΔfS°298_ | -2.3 J/mol (basis unstated)/K | 298.15 | NpA12; _alloy: Np 0.333333, Pu 0, U 0_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 2; `ORC-AZTCA3FNXM.2f03c4` |  |
+| Entropy of formation; _printed: ΔfS°298_ | -12.1 J/mol (basis unstated)/K | 298.15 | NpA13; _alloy: Np 0.25, Pu 0, U 0_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 5; `ORC-MQPU74X72L.f6a218` |  |
+| Entropy of formation; _printed: ΔfS°298_ | -8.1 J/mol (basis unstated)/K | 298.15 | NpA14; _alloy: Np 0.2, Pu 0, U 0_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 10; `ORC-UCH5KWJ6UG.3dc381` |  |
+| Entropy of formation; _printed: ΔfS°298_ | -1.4 J/mol (basis unstated)/K | 298.15 | PuA12; _alloy: Np 0, Pu 0.333333, U 0_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 3; `ORC-EXMKTYQAEE.851583` |  |
+| Entropy of formation; _printed: ΔfS°298_ | -1.1 J/mol (basis unstated)/K | 298.15 | UA12; _alloy: Np 0, Pu 0, U 0.333333_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 1; `ORC-MZ2XRS7TQV.01d71c` |  |
+| Entropy of formation; _printed: ΔfS°298_ | -13.1 J/mol (basis unstated)/K | 298.15 | UA13; _alloy: Np 0, Pu 0, U 0.25_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 4; `ORC-OZIZ5AB43L.c79eed` |  |
 
 ### Heat capacity / entropy / enthalpy (24)
 
@@ -59,30 +59,30 @@ Table: Heat capacity / entropy / enthalpy, Al–Np–Pu–U system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: S°298 (ph.)_ | 99.5 J/mol (basis unstated)/K | 298.15 | NpA12; _alloy: Np 0.333333, Pu 0, U 0_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 2 |  |
-| Entropy; _printed: S°298 (el.)_ | 5.2 J/mol (basis unstated)/K | 298.15 | NpA12; _alloy: Np 0.333333, Pu 0, U 0_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 2 |  |
-| Entropy; _printed: S°298 (el.)_ | 2.6 J/mol (basis unstated)/K | 298.15 | NpA13; _alloy: Np 0.25, Pu 0, U 0_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 5 |  |
-| Entropy; _printed: S°298 (ph.)_ | 120.6 J/mol (basis unstated)/K | 298.15 | NpA13; _alloy: Np 0.25, Pu 0, U 0_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 5 |  |
-| Entropy; _printed: S°298 (ph.)_ | 152.1 J/mol (basis unstated)/K | 298.15 | NpA14; _alloy: Np 0.2, Pu 0, U 0_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 10 |  |
-| Entropy; _printed: S°298 (el.)_ | 3.4 J/mol (basis unstated)/K | 298.15 | NpA14; _alloy: Np 0.2, Pu 0, U 0_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 10 |  |
-| Entropy; _printed: S°298 (el.)_ | 4.3 J/mol (basis unstated)/K | 298.15 | PuA12; _alloy: Np 0, Pu 0.333333, U 0_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 3 |  |
-| Entropy; _printed: S°298 (ph.)_ | 105.3 J/mol (basis unstated)/K | 298.15 | PuA12; _alloy: Np 0, Pu 0.333333, U 0_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 3 |  |
-| Entropy; _printed: S°298 (el.)_ | 4.5 J/mol (basis unstated)/K | 298.15 | UA12; _alloy: Np 0, Pu 0, U 0.333333_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 1 |  |
-| Entropy; _printed: S°298 (ph.)_ | 101.2 J/mol (basis unstated)/K | 298.15 | UA12; _alloy: Np 0, Pu 0, U 0.333333_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 1 |  |
-| Entropy; _printed: S°298 (ph.)_ | 117.5 J/mol (basis unstated)/K | 298.15 | UA13; _alloy: Np 0, Pu 0, U 0.25_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 4 |  |
-| Entropy; _printed: S°298 (el.)_ | 4.4 J/mol (basis unstated)/K | 298.15 | UA13; _alloy: Np 0, Pu 0, U 0.25_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 4 |  |
-| Heat content; _printed: H°298 − H°0 (el.)_ | 0.78 kJ mol−1 | 298.15 | NpA12; _alloy: Np 0.333333, Pu 0, U 0_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 2 |  |
-| Heat content; _printed: H°298 − H°0 (ph.)_ | 24.2 kJ mol−1 | 298.15 | NpA12; _alloy: Np 0.333333, Pu 0, U 0_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 2 |  |
-| Heat content; _printed: H°298 − H°0 (el.)_ | 0.39 kJ mol−1 | 298.15 | NpA13; _alloy: Np 0.25, Pu 0, U 0_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 5 |  |
-| Heat content; _printed: H°298 − H°0 (ph.)_ | 32.1 kJ mol−1 | 298.15 | NpA13; _alloy: Np 0.25, Pu 0, U 0_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 5 |  |
-| Heat content; _printed: H°298 − H°0 (ph.)_ | 40.5 kJ mol−1 | 298.15 | NpA14; _alloy: Np 0.2, Pu 0, U 0_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 10 |  |
-| Heat content; _printed: H°298 − H°0 (el.)_ | 0.51 kJ mol−1 | 298.15 | NpA14; _alloy: Np 0.2, Pu 0, U 0_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 10 |  |
-| Heat content; _printed: H°298 − H°0 (ph.)_ | 24.1 kJ mol−1 | 298.15 | PuA12; _alloy: Np 0, Pu 0.333333, U 0_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 3 |  |
-| Heat content; _printed: H°298 − H°0 (el.)_ | 0.64 kJ mol−1 | 298.15 | PuA12; _alloy: Np 0, Pu 0.333333, U 0_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 3 |  |
-| Heat content; _printed: H°298 − H°0 (el.)_ | 0.67 kJ mol−1 | 298.15 | UA12; _alloy: Np 0, Pu 0, U 0.333333_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 1 |  |
-| Heat content; _printed: H°298 − H°0 (ph.)_ | 24.2 kJ mol−1 | 298.15 | UA12; _alloy: Np 0, Pu 0, U 0.333333_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 1 |  |
-| Heat content; _printed: H°298 − H°0 (el.)_ | 0.65 kJ mol−1 | 298.15 | UA13; _alloy: Np 0, Pu 0, U 0.25_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 4 |  |
-| Heat content; _printed: H°298 − H°0 (ph.)_ | 32.3 kJ mol−1 | 298.15 | UA13; _alloy: Np 0, Pu 0, U 0.25_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 4 |  |
+| Entropy; _printed: S°298 (ph.)_ | 99.5 J/mol (basis unstated)/K | 298.15 | NpA12; _alloy: Np 0.333333, Pu 0, U 0_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 2; `ORC-AZTCA3FNXM.a1f71c` |  |
+| Entropy; _printed: S°298 (el.)_ | 5.2 J/mol (basis unstated)/K | 298.15 | NpA12; _alloy: Np 0.333333, Pu 0, U 0_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 2; `ORC-AZTCA3FNXM.b5747a` |  |
+| Entropy; _printed: S°298 (el.)_ | 2.6 J/mol (basis unstated)/K | 298.15 | NpA13; _alloy: Np 0.25, Pu 0, U 0_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 5; `ORC-MQPU74X72L.a8bc29` |  |
+| Entropy; _printed: S°298 (ph.)_ | 120.6 J/mol (basis unstated)/K | 298.15 | NpA13; _alloy: Np 0.25, Pu 0, U 0_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 5; `ORC-MQPU74X72L.fedd5d` |  |
+| Entropy; _printed: S°298 (ph.)_ | 152.1 J/mol (basis unstated)/K | 298.15 | NpA14; _alloy: Np 0.2, Pu 0, U 0_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 10; `ORC-UCH5KWJ6UG.09ece2` |  |
+| Entropy; _printed: S°298 (el.)_ | 3.4 J/mol (basis unstated)/K | 298.15 | NpA14; _alloy: Np 0.2, Pu 0, U 0_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 10; `ORC-UCH5KWJ6UG.12ad98` |  |
+| Entropy; _printed: S°298 (el.)_ | 4.3 J/mol (basis unstated)/K | 298.15 | PuA12; _alloy: Np 0, Pu 0.333333, U 0_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 3; `ORC-EXMKTYQAEE.44feed` |  |
+| Entropy; _printed: S°298 (ph.)_ | 105.3 J/mol (basis unstated)/K | 298.15 | PuA12; _alloy: Np 0, Pu 0.333333, U 0_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 3; `ORC-EXMKTYQAEE.ec316c` |  |
+| Entropy; _printed: S°298 (el.)_ | 4.5 J/mol (basis unstated)/K | 298.15 | UA12; _alloy: Np 0, Pu 0, U 0.333333_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 1; `ORC-MZ2XRS7TQV.43a85d` |  |
+| Entropy; _printed: S°298 (ph.)_ | 101.2 J/mol (basis unstated)/K | 298.15 | UA12; _alloy: Np 0, Pu 0, U 0.333333_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 1; `ORC-MZ2XRS7TQV.98eaa3` |  |
+| Entropy; _printed: S°298 (ph.)_ | 117.5 J/mol (basis unstated)/K | 298.15 | UA13; _alloy: Np 0, Pu 0, U 0.25_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 4; `ORC-OZIZ5AB43L.1ad986` |  |
+| Entropy; _printed: S°298 (el.)_ | 4.4 J/mol (basis unstated)/K | 298.15 | UA13; _alloy: Np 0, Pu 0, U 0.25_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 4; `ORC-OZIZ5AB43L.981b2d` |  |
+| Heat content; _printed: H°298 − H°0 (el.)_ | 0.78 kJ mol−1 | 298.15 | NpA12; _alloy: Np 0.333333, Pu 0, U 0_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 2; `ORC-AZTCA3FNXM.ab2a52` |  |
+| Heat content; _printed: H°298 − H°0 (ph.)_ | 24.2 kJ mol−1 | 298.15 | NpA12; _alloy: Np 0.333333, Pu 0, U 0_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 2; `ORC-AZTCA3FNXM.db54de` |  |
+| Heat content; _printed: H°298 − H°0 (el.)_ | 0.39 kJ mol−1 | 298.15 | NpA13; _alloy: Np 0.25, Pu 0, U 0_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 5; `ORC-MQPU74X72L.38b589` |  |
+| Heat content; _printed: H°298 − H°0 (ph.)_ | 32.1 kJ mol−1 | 298.15 | NpA13; _alloy: Np 0.25, Pu 0, U 0_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 5; `ORC-MQPU74X72L.4d99d5` |  |
+| Heat content; _printed: H°298 − H°0 (ph.)_ | 40.5 kJ mol−1 | 298.15 | NpA14; _alloy: Np 0.2, Pu 0, U 0_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 10; `ORC-UCH5KWJ6UG.d25593` |  |
+| Heat content; _printed: H°298 − H°0 (el.)_ | 0.51 kJ mol−1 | 298.15 | NpA14; _alloy: Np 0.2, Pu 0, U 0_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 10; `ORC-UCH5KWJ6UG.f1b11c` |  |
+| Heat content; _printed: H°298 − H°0 (ph.)_ | 24.1 kJ mol−1 | 298.15 | PuA12; _alloy: Np 0, Pu 0.333333, U 0_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 3; `ORC-EXMKTYQAEE.282b7d` |  |
+| Heat content; _printed: H°298 − H°0 (el.)_ | 0.64 kJ mol−1 | 298.15 | PuA12; _alloy: Np 0, Pu 0.333333, U 0_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 3; `ORC-EXMKTYQAEE.9c428a` |  |
+| Heat content; _printed: H°298 − H°0 (el.)_ | 0.67 kJ mol−1 | 298.15 | UA12; _alloy: Np 0, Pu 0, U 0.333333_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 1; `ORC-MZ2XRS7TQV.18800e` |  |
+| Heat content; _printed: H°298 − H°0 (ph.)_ | 24.2 kJ mol−1 | 298.15 | UA12; _alloy: Np 0, Pu 0, U 0.333333_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 1; `ORC-MZ2XRS7TQV.546bba` |  |
+| Heat content; _printed: H°298 − H°0 (el.)_ | 0.65 kJ mol−1 | 298.15 | UA13; _alloy: Np 0, Pu 0, U 0.25_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 4; `ORC-OZIZ5AB43L.6f205a` |  |
+| Heat content; _printed: H°298 − H°0 (ph.)_ | 32.3 kJ mol−1 | 298.15 | UA13; _alloy: Np 0, Pu 0, U 0.25_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 4; `ORC-OZIZ5AB43L.c9696b` |  |
 
 ### Crystal structure (30)
 
@@ -90,36 +90,36 @@ Table: Crystal structure, Al–Np–Pu–U system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 7.831 Å | 298.15 | UNKNOWN; _alloy: Np 0, Pu 0.333333, U 0_ | DFT | [1] Sedmidubský 2010; _cites Runnalls 1962_ | Table 1, p. 2, row 3 |  |
-| Lattice a | 4.42 Å | 298.15 | UNKNOWN; _alloy: Np 0.2, Pu 0, U 0_ | DFT | [1] Sedmidubský 2010; _cites Runnalls 1953_ | Table 1, p. 2, row 9 |  |
-| Lattice a | 7.785 Å | 298.15 | UNKNOWN; _alloy: Np 0.333333, Pu 0, U 0_ | DFT | [1] Sedmidubský 2010; _cites Runnalls 1953_ | Table 1, p. 2, row 2 |  |
-| Lattice a | 4.253 Å | 298.15 | UNKNOWN; _alloy: Np 0, Pu 0, U 0.25_ | DFT | [1] Sedmidubský 2010; _cites Petzow 1968_ [doi](https://doi.org/10.1016/0022-3115%2868%2990134-7) | Table 1, p. 2, row 4 |  |
-| Lattice a | 4.401 Å | 298.15 | UNKNOWN; _alloy: Np 0, Pu 0, U 0.2_ | DFT | [1] Sedmidubský 2010; _cites Zenou 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901675-9) | Table 1, p. 2, row 8 |  |
-| Lattice a | 6.15 Å | 298.15 | UNKNOWN; _alloy: Np 0, Pu 0.25, U 0_ | DFT | [1] Sedmidubský 2010; _cites Runnalls 1965_ [doi](https://doi.org/10.1016/0022-3115%2865%2990109-1) | Table 1, p. 2, row 7 |  |
-| Lattice a | 4.262 Å | 298.15 | UNKNOWN; _alloy: Np 0, Pu 0.25, U 0_ | DFT | [1] Sedmidubský 2010; _cites Runnalls 1965_ [doi](https://doi.org/10.1016/0022-3115%2865%2990109-1) | Table 1, p. 2, row 6 |  |
-| Lattice a | 4.42 Å | 298.15 | UNKNOWN; _alloy: Np 0, Pu 0.2, U 0_ | DFT | [1] Sedmidubský 2010; _cites Runnalls 2010_ | Table 1, p. 2, row 10 |  |
-| Lattice a | 7.76 Å | 298.15 | UNKNOWN; _alloy: Np 0, Pu 0, U 0.333333_ | DFT | [1] Sedmidubský 2010; _cites Katz 1962_ [doi](https://doi.org/10.1016/0022-3115%2862%2990074-0) | Table 1, p. 2, row 1 |  |
-| Lattice a | 4.26 Å | 298.15 | UNKNOWN; _alloy: Np 0.25, Pu 0, U 0_ | DFT | [1] Sedmidubský 2010; _cites Mitchell 1974_ [doi](https://doi.org/10.1016/0022-3115%2874%2990035-x) | Table 1, p. 2, row 5 |  |
-| Lattice b | 7.831 Å | 298.15 | UNKNOWN; _alloy: Np 0, Pu 0.333333, U 0_ | DFT | [1] Sedmidubský 2010; _cites Runnalls 1962_ | Table 1, p. 2, row 3 |  |
-| Lattice b | 6.26 Å | 298.15 | UNKNOWN; _alloy: Np 0.2, Pu 0, U 0_ | DFT | [1] Sedmidubský 2010; _cites Runnalls 1953_ | Table 1, p. 2, row 9 |  |
-| Lattice b | 7.785 Å | 298.15 | UNKNOWN; _alloy: Np 0.333333, Pu 0, U 0_ | DFT | [1] Sedmidubský 2010; _cites Runnalls 1953_ | Table 1, p. 2, row 2 |  |
-| Lattice b | 4.253 Å | 298.15 | UNKNOWN; _alloy: Np 0, Pu 0, U 0.25_ | DFT | [1] Sedmidubský 2010; _cites Petzow 1968_ [doi](https://doi.org/10.1016/0022-3115%2868%2990134-7) | Table 1, p. 2, row 4 |  |
-| Lattice b | 6.246 Å | 298.15 | UNKNOWN; _alloy: Np 0, Pu 0, U 0.2_ | DFT | [1] Sedmidubský 2010; _cites Zenou 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901675-9) | Table 1, p. 2, row 8 |  |
-| Lattice b | 6.15 Å | 298.15 | UNKNOWN; _alloy: Np 0, Pu 0.25, U 0_ | DFT | [1] Sedmidubský 2010; _cites Runnalls 1965_ [doi](https://doi.org/10.1016/0022-3115%2865%2990109-1) | Table 1, p. 2, row 7 |  |
-| Lattice b | 4.262 Å | 298.15 | UNKNOWN; _alloy: Np 0, Pu 0.25, U 0_ | DFT | [1] Sedmidubský 2010; _cites Runnalls 1965_ [doi](https://doi.org/10.1016/0022-3115%2865%2990109-1) | Table 1, p. 2, row 6 |  |
-| Lattice b | 6.26 Å | 298.15 | UNKNOWN; _alloy: Np 0, Pu 0.2, U 0_ | DFT | [1] Sedmidubský 2010; _cites Runnalls 2010_ | Table 1, p. 2, row 10 |  |
-| Lattice b | 7.76 Å | 298.15 | UNKNOWN; _alloy: Np 0, Pu 0, U 0.333333_ | DFT | [1] Sedmidubský 2010; _cites Katz 1962_ [doi](https://doi.org/10.1016/0022-3115%2862%2990074-0) | Table 1, p. 2, row 1 |  |
-| Lattice b | 4.26 Å | 298.15 | UNKNOWN; _alloy: Np 0.25, Pu 0, U 0_ | DFT | [1] Sedmidubský 2010; _cites Mitchell 1974_ [doi](https://doi.org/10.1016/0022-3115%2874%2990035-x) | Table 1, p. 2, row 5 |  |
-| Lattice c | 7.831 Å | 298.15 | UNKNOWN; _alloy: Np 0, Pu 0.333333, U 0_ | DFT | [1] Sedmidubský 2010; _cites Runnalls 1962_ | Table 1, p. 2, row 3 |  |
-| Lattice c | 13.71 Å | 298.15 | UNKNOWN; _alloy: Np 0.2, Pu 0, U 0_ | DFT | [1] Sedmidubský 2010; _cites Runnalls 1953_ | Table 1, p. 2, row 9 |  |
-| Lattice c | 7.785 Å | 298.15 | UNKNOWN; _alloy: Np 0.333333, Pu 0, U 0_ | DFT | [1] Sedmidubský 2010; _cites Runnalls 1953_ | Table 1, p. 2, row 2 |  |
-| Lattice c | 4.253 Å | 298.15 | UNKNOWN; _alloy: Np 0, Pu 0, U 0.25_ | DFT | [1] Sedmidubský 2010; _cites Petzow 1968_ [doi](https://doi.org/10.1016/0022-3115%2868%2990134-7) | Table 1, p. 2, row 4 |  |
-| Lattice c | 13.72 Å | 298.15 | UNKNOWN; _alloy: Np 0, Pu 0, U 0.2_ | DFT | [1] Sedmidubský 2010; _cites Zenou 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901675-9) | Table 1, p. 2, row 8 |  |
-| Lattice c | 21.1 Å | 298.15 | UNKNOWN; _alloy: Np 0, Pu 0.25, U 0_ | DFT | [1] Sedmidubský 2010; _cites Runnalls 1965_ [doi](https://doi.org/10.1016/0022-3115%2865%2990109-1) | Table 1, p. 2, row 7 |  |
-| Lattice c | 4.262 Å | 298.15 | UNKNOWN; _alloy: Np 0, Pu 0.25, U 0_ | DFT | [1] Sedmidubský 2010; _cites Runnalls 1965_ [doi](https://doi.org/10.1016/0022-3115%2865%2990109-1) | Table 1, p. 2, row 6 |  |
-| Lattice c | 13.66 Å | 298.15 | UNKNOWN; _alloy: Np 0, Pu 0.2, U 0_ | DFT | [1] Sedmidubský 2010; _cites Runnalls 2010_ | Table 1, p. 2, row 10 |  |
-| Lattice c | 7.76 Å | 298.15 | UNKNOWN; _alloy: Np 0, Pu 0, U 0.333333_ | DFT | [1] Sedmidubský 2010; _cites Katz 1962_ [doi](https://doi.org/10.1016/0022-3115%2862%2990074-0) | Table 1, p. 2, row 1 |  |
-| Lattice c | 4.26 Å | 298.15 | UNKNOWN; _alloy: Np 0.25, Pu 0, U 0_ | DFT | [1] Sedmidubský 2010; _cites Mitchell 1974_ [doi](https://doi.org/10.1016/0022-3115%2874%2990035-x) | Table 1, p. 2, row 5 |  |
+| Lattice a | 7.831 Å | 298.15 | UNKNOWN; _alloy: Np 0, Pu 0.333333, U 0_ | DFT | [1] Sedmidubský 2010; _cites Runnalls 1962_ | Table 1, p. 2, row 3; `ORC-72JSO7NAY7.463dd0` |  |
+| Lattice a | 4.42 Å | 298.15 | UNKNOWN; _alloy: Np 0.2, Pu 0, U 0_ | DFT | [1] Sedmidubský 2010; _cites Runnalls 1953_ | Table 1, p. 2, row 9; `ORC-HE33UGZGDO.113d8b` |  |
+| Lattice a | 7.785 Å | 298.15 | UNKNOWN; _alloy: Np 0.333333, Pu 0, U 0_ | DFT | [1] Sedmidubský 2010; _cites Runnalls 1953_ | Table 1, p. 2, row 2; `ORC-KKDB6SSKIZ.4e4ec9` |  |
+| Lattice a | 4.253 Å | 298.15 | UNKNOWN; _alloy: Np 0, Pu 0, U 0.25_ | DFT | [1] Sedmidubský 2010; _cites Petzow 1968_ [doi](https://doi.org/10.1016/0022-3115%2868%2990134-7) | Table 1, p. 2, row 4; `ORC-LVG7M6ZH2C.1c03c2` |  |
+| Lattice a | 4.401 Å | 298.15 | UNKNOWN; _alloy: Np 0, Pu 0, U 0.2_ | DFT | [1] Sedmidubský 2010; _cites Zenou 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901675-9) | Table 1, p. 2, row 8; `ORC-MM2NNOL3R5.0c933e` |  |
+| Lattice a | 6.15 Å | 298.15 | UNKNOWN; _alloy: Np 0, Pu 0.25, U 0_ | DFT | [1] Sedmidubský 2010; _cites Runnalls 1965_ [doi](https://doi.org/10.1016/0022-3115%2865%2990109-1) | Table 1, p. 2, row 7; `ORC-TWSXPQI6KC.03d460` |  |
+| Lattice a | 4.262 Å | 298.15 | UNKNOWN; _alloy: Np 0, Pu 0.25, U 0_ | DFT | [1] Sedmidubský 2010; _cites Runnalls 1965_ [doi](https://doi.org/10.1016/0022-3115%2865%2990109-1) | Table 1, p. 2, row 6; `ORC-V5G2BUQYTS.13f81b` |  |
+| Lattice a | 4.42 Å | 298.15 | UNKNOWN; _alloy: Np 0, Pu 0.2, U 0_ | DFT | [1] Sedmidubský 2010; _cites Runnalls 2010_ | Table 1, p. 2, row 10; `ORC-WHXED7JVJ4.9133ae` |  |
+| Lattice a | 7.76 Å | 298.15 | UNKNOWN; _alloy: Np 0, Pu 0, U 0.333333_ | DFT | [1] Sedmidubský 2010; _cites Katz 1962_ [doi](https://doi.org/10.1016/0022-3115%2862%2990074-0) | Table 1, p. 2, row 1; `ORC-XYZXCX57VM.162a5a` |  |
+| Lattice a | 4.26 Å | 298.15 | UNKNOWN; _alloy: Np 0.25, Pu 0, U 0_ | DFT | [1] Sedmidubský 2010; _cites Mitchell 1974_ [doi](https://doi.org/10.1016/0022-3115%2874%2990035-x) | Table 1, p. 2, row 5; `ORC-Y4IPYOKVTQ.052594` |  |
+| Lattice b | 7.831 Å | 298.15 | UNKNOWN; _alloy: Np 0, Pu 0.333333, U 0_ | DFT | [1] Sedmidubský 2010; _cites Runnalls 1962_ | Table 1, p. 2, row 3; `ORC-72JSO7NAY7.1b0ac9` |  |
+| Lattice b | 6.26 Å | 298.15 | UNKNOWN; _alloy: Np 0.2, Pu 0, U 0_ | DFT | [1] Sedmidubský 2010; _cites Runnalls 1953_ | Table 1, p. 2, row 9; `ORC-HE33UGZGDO.05e853` |  |
+| Lattice b | 7.785 Å | 298.15 | UNKNOWN; _alloy: Np 0.333333, Pu 0, U 0_ | DFT | [1] Sedmidubský 2010; _cites Runnalls 1953_ | Table 1, p. 2, row 2; `ORC-KKDB6SSKIZ.1336a3` |  |
+| Lattice b | 4.253 Å | 298.15 | UNKNOWN; _alloy: Np 0, Pu 0, U 0.25_ | DFT | [1] Sedmidubský 2010; _cites Petzow 1968_ [doi](https://doi.org/10.1016/0022-3115%2868%2990134-7) | Table 1, p. 2, row 4; `ORC-LVG7M6ZH2C.e9a27d` |  |
+| Lattice b | 6.246 Å | 298.15 | UNKNOWN; _alloy: Np 0, Pu 0, U 0.2_ | DFT | [1] Sedmidubský 2010; _cites Zenou 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901675-9) | Table 1, p. 2, row 8; `ORC-MM2NNOL3R5.7cd4a2` |  |
+| Lattice b | 6.15 Å | 298.15 | UNKNOWN; _alloy: Np 0, Pu 0.25, U 0_ | DFT | [1] Sedmidubský 2010; _cites Runnalls 1965_ [doi](https://doi.org/10.1016/0022-3115%2865%2990109-1) | Table 1, p. 2, row 7; `ORC-TWSXPQI6KC.8b3069` |  |
+| Lattice b | 4.262 Å | 298.15 | UNKNOWN; _alloy: Np 0, Pu 0.25, U 0_ | DFT | [1] Sedmidubský 2010; _cites Runnalls 1965_ [doi](https://doi.org/10.1016/0022-3115%2865%2990109-1) | Table 1, p. 2, row 6; `ORC-V5G2BUQYTS.4ae8f9` |  |
+| Lattice b | 6.26 Å | 298.15 | UNKNOWN; _alloy: Np 0, Pu 0.2, U 0_ | DFT | [1] Sedmidubský 2010; _cites Runnalls 2010_ | Table 1, p. 2, row 10; `ORC-WHXED7JVJ4.370463` |  |
+| Lattice b | 7.76 Å | 298.15 | UNKNOWN; _alloy: Np 0, Pu 0, U 0.333333_ | DFT | [1] Sedmidubský 2010; _cites Katz 1962_ [doi](https://doi.org/10.1016/0022-3115%2862%2990074-0) | Table 1, p. 2, row 1; `ORC-XYZXCX57VM.768a5b` |  |
+| Lattice b | 4.26 Å | 298.15 | UNKNOWN; _alloy: Np 0.25, Pu 0, U 0_ | DFT | [1] Sedmidubský 2010; _cites Mitchell 1974_ [doi](https://doi.org/10.1016/0022-3115%2874%2990035-x) | Table 1, p. 2, row 5; `ORC-Y4IPYOKVTQ.410483` |  |
+| Lattice c | 7.831 Å | 298.15 | UNKNOWN; _alloy: Np 0, Pu 0.333333, U 0_ | DFT | [1] Sedmidubský 2010; _cites Runnalls 1962_ | Table 1, p. 2, row 3; `ORC-72JSO7NAY7.f35510` |  |
+| Lattice c | 13.71 Å | 298.15 | UNKNOWN; _alloy: Np 0.2, Pu 0, U 0_ | DFT | [1] Sedmidubský 2010; _cites Runnalls 1953_ | Table 1, p. 2, row 9; `ORC-HE33UGZGDO.2ad016` |  |
+| Lattice c | 7.785 Å | 298.15 | UNKNOWN; _alloy: Np 0.333333, Pu 0, U 0_ | DFT | [1] Sedmidubský 2010; _cites Runnalls 1953_ | Table 1, p. 2, row 2; `ORC-KKDB6SSKIZ.9eed59` |  |
+| Lattice c | 4.253 Å | 298.15 | UNKNOWN; _alloy: Np 0, Pu 0, U 0.25_ | DFT | [1] Sedmidubský 2010; _cites Petzow 1968_ [doi](https://doi.org/10.1016/0022-3115%2868%2990134-7) | Table 1, p. 2, row 4; `ORC-LVG7M6ZH2C.015348` |  |
+| Lattice c | 13.72 Å | 298.15 | UNKNOWN; _alloy: Np 0, Pu 0, U 0.2_ | DFT | [1] Sedmidubský 2010; _cites Zenou 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901675-9) | Table 1, p. 2, row 8; `ORC-MM2NNOL3R5.0dd0ec` |  |
+| Lattice c | 21.1 Å | 298.15 | UNKNOWN; _alloy: Np 0, Pu 0.25, U 0_ | DFT | [1] Sedmidubský 2010; _cites Runnalls 1965_ [doi](https://doi.org/10.1016/0022-3115%2865%2990109-1) | Table 1, p. 2, row 7; `ORC-TWSXPQI6KC.0fa086` |  |
+| Lattice c | 4.262 Å | 298.15 | UNKNOWN; _alloy: Np 0, Pu 0.25, U 0_ | DFT | [1] Sedmidubský 2010; _cites Runnalls 1965_ [doi](https://doi.org/10.1016/0022-3115%2865%2990109-1) | Table 1, p. 2, row 6; `ORC-V5G2BUQYTS.3c823d` |  |
+| Lattice c | 13.66 Å | 298.15 | UNKNOWN; _alloy: Np 0, Pu 0.2, U 0_ | DFT | [1] Sedmidubský 2010; _cites Runnalls 2010_ | Table 1, p. 2, row 10; `ORC-WHXED7JVJ4.184b14` |  |
+| Lattice c | 7.76 Å | 298.15 | UNKNOWN; _alloy: Np 0, Pu 0, U 0.333333_ | DFT | [1] Sedmidubský 2010; _cites Katz 1962_ [doi](https://doi.org/10.1016/0022-3115%2862%2990074-0) | Table 1, p. 2, row 1; `ORC-XYZXCX57VM.fcc328` |  |
+| Lattice c | 4.26 Å | 298.15 | UNKNOWN; _alloy: Np 0.25, Pu 0, U 0_ | DFT | [1] Sedmidubský 2010; _cites Mitchell 1974_ [doi](https://doi.org/10.1016/0022-3115%2874%2990035-x) | Table 1, p. 2, row 5; `ORC-Y4IPYOKVTQ.09c83b` |  |
 
 ## Sources
 
@@ -162,4 +162,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

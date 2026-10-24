@@ -14,13 +14,13 @@ Table: Enthalpy of formation of W2B reported in the literature (7)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -87 kJ/mol (basis unstated) ± 13.8 | W2B | 298.15 | experimental |  | [B–W](https://data.orchid-project.org/systems/B-W.html) | [1] Duschanek 1995; _cites ED 1969_ | Table 6, p. 7, row 1 |  |
-| -125.3 kJ/mol (basis unstated) | W2B |  | model |  | [B–W](https://data.orchid-project.org/systems/B-W.html) | [1] Duschanek 1995; _cites Kaufman 1985_ | Table 6, p. 7, row 5 |  |
-| -65.3 kJ/mol (basis unstated) | W2B |  | model |  | [B–W](https://data.orchid-project.org/systems/B-W.html) | [1] Duschanek 1995 | Table 6, p. 7, row 7 |  |
-| -87 kJ/mol (basis unstated) ± 16.7 | W2B |  | unspecified |  | [B–W](https://data.orchid-project.org/systems/B-W.html) | [1] Duschanek 1995; _cites ref. 74Glu_ | Table 6, p. 7, row 2 |  |
-| -68.2 kJ/mol (basis unstated) ± 9.2 | W2B |  | unspecified |  | [B–W](https://data.orchid-project.org/systems/B-W.html) | [1] Duschanek 1995; _cites ref. 76Leo1_ | Table 6, p. 7, row 3 |  |
-| -66.9 kJ/mol (basis unstated) ± 9.2 | W2B |  | unspecified |  | [B–W](https://data.orchid-project.org/systems/B-W.html) | [1] Duschanek 1995; _cites ref. 93Kub_ | Table 6, p. 7, row 6 |  |
-| -66.3 kJ/mol (basis unstated) ± 9.2 | W2B |  | unspecified |  | [B–W](https://data.orchid-project.org/systems/B-W.html) | [1] Duschanek 1995; _cites ref. 76Leo1_ | Table 6, p. 7, row 4 |  |
+| -87 kJ/mol (basis unstated) ± 13.8 | W2B | 298.15 | experimental |  | [B–W](https://data.orchid-project.org/systems/B-W.html) | [1] Duschanek 1995; _cites ED 1969_ | Table 6, p. 7, row 1; `ORC-BSEHJWS4E6` |  |
+| -125.3 kJ/mol (basis unstated) | W2B |  | model |  | [B–W](https://data.orchid-project.org/systems/B-W.html) | [1] Duschanek 1995; _cites Kaufman 1985_ | Table 6, p. 7, row 5; `ORC-VK3VIBHDOU` |  |
+| -65.3 kJ/mol (basis unstated) | W2B |  | model |  | [B–W](https://data.orchid-project.org/systems/B-W.html) | [1] Duschanek 1995 | Table 6, p. 7, row 7; `ORC-N7KK4MYEWZ.ed5ac5` |  |
+| -87 kJ/mol (basis unstated) ± 16.7 | W2B |  | unspecified |  | [B–W](https://data.orchid-project.org/systems/B-W.html) | [1] Duschanek 1995; _cites ref. 74Glu_ | Table 6, p. 7, row 2; `ORC-ERAIOXZ5GI.c0441b` |  |
+| -68.2 kJ/mol (basis unstated) ± 9.2 | W2B |  | unspecified |  | [B–W](https://data.orchid-project.org/systems/B-W.html) | [1] Duschanek 1995; _cites ref. 76Leo1_ | Table 6, p. 7, row 3; `ORC-YK3WQ7UXV6` |  |
+| -66.9 kJ/mol (basis unstated) ± 9.2 | W2B |  | unspecified |  | [B–W](https://data.orchid-project.org/systems/B-W.html) | [1] Duschanek 1995; _cites ref. 93Kub_ | Table 6, p. 7, row 6; `ORC-LVPJIABCSZ.6a934a` |  |
+| -66.3 kJ/mol (basis unstated) ± 9.2 | W2B |  | unspecified |  | [B–W](https://data.orchid-project.org/systems/B-W.html) | [1] Duschanek 1995; _cites ref. 76Leo1_ | Table 6, p. 7, row 4; `ORC-KZLW2KQJR2` |  |
 
 ### Uncertainty budget
 
@@ -89,4 +89,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

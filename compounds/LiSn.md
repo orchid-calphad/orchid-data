@@ -14,12 +14,12 @@ Table: Enthalpy of formation of LiSn reported in the literature (6)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -35.2 unknown | LiSn | 298.15 | experimental |  | [Li–Sn](https://data.orchid-project.org/systems/LI-SN.html) | [1] Yin 2005; _cites Kubaschewski 1938_ | Table 3, p. 3, row 34 |  |
-| -35 unknown | LiSn | 688 | experimental |  | [Li–Sn](https://data.orchid-project.org/systems/LI-SN.html) | [1] Yin 2005; _cites Wen 1981_ [doi](https://doi.org/10.1149/1.2127590) | Table 3, p. 3, row 30 |  |
-| -26.1 unknown | LiSn | 688 | experimental |  | [Li–Sn](https://data.orchid-project.org/systems/LI-SN.html) | [1] Yin 2005; _cites Wen 1981_ [doi](https://doi.org/10.1149/1.2127590) | Table 3, p. 3, row 32 |  |
-| -40.9 unknown | LiSn | 688 | model |  | [Li–Sn](https://data.orchid-project.org/systems/LI-SN.html) | [1] Yin 2005 | Table 3, p. 3, row 29 |  |
-| -35.8 unknown | LiSn | 298.15 | model |  | [Li–Sn](https://data.orchid-project.org/systems/LI-SN.html) | [1] Yin 2005 | Table 3, p. 3, row 33 |  |
-| -31.7 unknown | LiSn | 688 | model |  | [Li–Sn](https://data.orchid-project.org/systems/LI-SN.html) | [1] Yin 2005 | Table 3, p. 3, row 31 |  |
+| -35.2 unknown | LiSn | 298.15 | experimental |  | [Li–Sn](https://data.orchid-project.org/systems/LI-SN.html) | [1] Yin 2005; _cites Kubaschewski 1938_ | Table 3, p. 3, row 34; `ORC-4Z5FTDXLPX` |  |
+| -35 unknown | LiSn | 688 | experimental |  | [Li–Sn](https://data.orchid-project.org/systems/LI-SN.html) | [1] Yin 2005; _cites Wen 1981_ [doi](https://doi.org/10.1149/1.2127590) | Table 3, p. 3, row 30; `ORC-3OPPV43PMV` |  |
+| -26.1 unknown | LiSn | 688 | experimental |  | [Li–Sn](https://data.orchid-project.org/systems/LI-SN.html) | [1] Yin 2005; _cites Wen 1981_ [doi](https://doi.org/10.1149/1.2127590) | Table 3, p. 3, row 32; `ORC-TZIS6HOV4B` |  |
+| -40.9 unknown | LiSn | 688 | model |  | [Li–Sn](https://data.orchid-project.org/systems/LI-SN.html) | [1] Yin 2005 | Table 3, p. 3, row 29; `ORC-AOSZM4XKFO` |  |
+| -35.8 unknown | LiSn | 298.15 | model |  | [Li–Sn](https://data.orchid-project.org/systems/LI-SN.html) | [1] Yin 2005 | Table 3, p. 3, row 33; `ORC-FCEMBQHYWL` |  |
+| -31.7 unknown | LiSn | 688 | model |  | [Li–Sn](https://data.orchid-project.org/systems/LI-SN.html) | [1] Yin 2005 | Table 3, p. 3, row 31; `ORC-E3RDAQSU3C` |  |
 
 ### Uncertainty budget
 
@@ -87,4 +87,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

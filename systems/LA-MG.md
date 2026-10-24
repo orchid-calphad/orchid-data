@@ -168,102 +168,102 @@ Table: Invariant reactions reported in the literature for the La–Mg system (96
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1073 | Liquid = LaMg3 | Liquid: Mg 0.759; LaMg3: Mg 0.759 | model | [1] Berche 2011 | Table 1, p. 3, row 14 |  |
-| 1071 | Liquid = LaMg3 | Liquid: Mg 0.75; LaMg3: Mg 0.75 | model | [1] Berche 2011; _cites Berche 2011_ | Table 1, p. 3, row 13 |  |
-| 1071 | liq -> LaMg3 | liq: Mg 0.7529; LaMg3: Mg 0.7529 | model | [2] Guo 2004 | Table 2, p. 4, row 15 |  |
-| 1071 | liq -> LaMg3 | liq: Mg 0.75; LaMg3: Mg 0.75 | unspecified | [2] Guo 2004; _cites Nayeb-Hashemi 1988_ [doi](https://doi.org/10.1007/bf02890558) | Table 2, p. 4, row 16 |  |
-| 1053.15 | peritectic: Liq + LaMg3 -> LaMg2 | LaMg3: La 0.25, Mg 0.75; LaMg2: La 0.333333, Mg 0.666667 | experimental | [3] Zhang 2016; _cites Manfrinetti 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990135-9) | Table 8, p. 9, row 22 |  |
-| 1048.15 | peritectic |  | experimental | [3] Zhang 2016; _cites Nayeb-Hashemi 1988_ [doi](https://doi.org/10.1007/bf02890558) | p. 1 | “The LaMg, LaMg2 and La2Mg17 phases were reported to form from the peritectic reactions at 745 C, 775 C and 672 C, respectively.” |
-| 1048.15 | peritectic: Liq + LaMg3 -> LaMg2 | LaMg3: La 0.25, Mg 0.75; LaMg2: La 0.333333, Mg 0.666667 | experimental | [3] Zhang 2016; _cites Vogel 1947_ | Table 8, p. 9, row 21 |  |
-| 1048 | liq + LaMg3 -> LaMg2 | liq: Mg 0.6649; LaMg3: Mg 0.7507; LaMg2: La 0.333333, Mg 0.666667 | model | [2] Guo 2004 | Table 2, p. 4, row 11 |  |
-| 1048 | liq + LaMg3 -> LaMg2 | liq: Mg 0.632; LaMg3: Mg 0.75; LaMg2: La 0.333333, Mg 0.666667 | unspecified | [2] Guo 2004; _cites Nayeb-Hashemi 1988_ [doi](https://doi.org/10.1007/bf02890558) | Table 2, p. 4, row 12 |  |
-| 1044.15 | peritectic: Lþ LaMg2/LaMg3 |  | model | [4] Zhu 2018 | p. 6 | “However, the composition of 66.7e75.0 at.% Mg at 771 C can be considered to solidify as a peritectic reaction Lþ LaMg2/LaMg3 in ours study.” |
-| 1041.15 | eutectic: L/LaMg2þLaMg3 |  | model | [3] Zhang 2016 | p. 7 | “In the present work, the eutectic point of L/LaMg2þLaMg3 is predicted to be at 768 C and 72.5 at% Mg.” |
-| 1041.15 | eutectic: Liq -> LaMg3+LaMg2 | Liq: Mg 0.725; LaMg3: La 0.25, Mg 0.75; LaMg2: La 0.333333, Mg 0.666667 | unspecified | [3] Zhang 2016 | Table 8, p. 9, row 25 |  |
-| 1040.15 | peritectic: Liq + LaMg3 -> LaMg2 | LaMg3: La 0.25, Mg 0.75; LaMg2: La 0.333333, Mg 0.666667 | experimental | [3] Zhang 2016; _cites Berche 2012_ | Table 8, p. 9, row 23 |  |
-| 1040 | peritectic: Liquid + LaMg3 = LaMg2 | LaMg3: Mg 0.75; LaMg2: Mg 0.667 | model | [1] Berche 2011; _cites Berche 2011_ | Table 1, p. 3, row 11 |  |
-| 1039 | peritectic: Liquid + LaMg3 = LaMg2 | Liquid: Mg 0.603; LaMg3: Mg 0.75; LaMg2: Mg 0.667 | model | [1] Berche 2011 | Table 1, p. 3, row 12 |  |
-| 1035.15 | eutectic: Liq -> LaMg3+LaMg2 | LaMg3: La 0.25, Mg 0.75; LaMg2: La 0.333333, Mg 0.666667 | experimental | [3] Zhang 2016 | Table 8, p. 9, row 24 |  |
-| 1028 | liq -> LaMg | liq: Mg 0.5; LaMg: La 0.5, Mg 0.5 | model | [2] Guo 2004 | Table 2, p. 4, row 7 |  |
-| 1028 | liq -> LaMg | liq: Mg 0.5; LaMg: La 0.5, Mg 0.5 | unspecified | [2] Guo 2004; _cites Nayeb-Hashemi 1988_ [doi](https://doi.org/10.1007/bf02890558) | Table 2, p. 4, row 8 |  |
-| 1018.15 | peritectic: Liq + LaMg2 -> LaMg | LaMg2: La 0.333333, Mg 0.666667; LaMg: La 0.5, Mg 0.5 | experimental | [3] Zhang 2016; _cites Manfrinetti 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990135-9) | Table 8, p. 9, row 31 |  |
-| 1018.15 | peritectic: Liq + LaMg2 -> LaMg | LaMg2: La 0.333333, Mg 0.666667; LaMg: La 0.5, Mg 0.5 | experimental | [3] Zhang 2016; _cites Vogel 1947_ | Table 8, p. 9, row 30 |  |
-| 1018.15 | peritectic |  | experimental | [3] Zhang 2016; _cites Nayeb-Hashemi 1988_ [doi](https://doi.org/10.1007/bf02890558) | p. 1 | “The LaMg, LaMg2 and La2Mg17 phases were reported to form from the peritectic reactions at 745 C, 775 C and 672 C, respectively.” |
-| 1018 | liq -> LaMg + LaMg2 | liq: Mg 0.58; LaMg: La 0.5, Mg 0.5; LaMg2: La 0.333333, Mg 0.666667 | unspecified | [2] Guo 2004; _cites Nayeb-Hashemi 1988_ [doi](https://doi.org/10.1007/bf02890558) | Table 2, p. 4, row 10 |  |
-| 1014 | liq -> LaMg + LaMg2 | liq: Mg 0.5868; LaMg: La 0.5, Mg 0.5; LaMg2: La 0.333333, Mg 0.666667 | model | [2] Guo 2004 | Table 2, p. 4, row 9 |  |
-| 1010.15 | eutectic: L/LaMg2þLaMg |  | model | [4] Zhu 2018; _cites Guo 2004_ [doi](https://doi.org/10.1016/j.jallcom.2004.04.105) | p. 6 | “The alloys with composition between 50.0 and 66.7 at.% Mg at 737 C considered as a eutectic reaction L/LaMg2þLaMg by Guo et al. \[20\].” |
-| 1008.15 | peritectic: Liq + LaMg2 -> LaMg | LaMg2: La 0.333333, Mg 0.666667; LaMg: La 0.5, Mg 0.5 | experimental | [3] Zhang 2016 | Table 8, p. 9, row 33 |  |
-| 1008.15 | peritectic: L þ LaMg2/LaMg |  | experimental | [3] Zhang 2016 | p. 3 | “As shown in Fig. 3 and Table 4, the temperature of the peritectic reaction L þ LaMg2/LaMg was determined to be 735 C from the annealed alloy # 2.” |
-| 999.15 | peritectic: Liq + LaMg2 -> LaMg | Liq: Mg 0.484; LaMg2: La 0.333333, Mg 0.666667; LaMg: La 0.5, Mg 0.5 | unspecified | [3] Zhang 2016 | Table 8, p. 9, row 34 |  |
-| 998.15 | eutectoid: LaMg2 -> LaMg3+LaMg | LaMg2: La 0.333333, Mg 0.666667; LaMg3: La 0.25, Mg 0.75; LaMg: La 0.5, Mg 0.5 | experimental | [3] Zhang 2016; _cites Manfrinetti 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990135-9) | Table 8, p. 9, row 27 |  |
-| 998 | laMg2 -> LaMg3 + LaMg | laMg2: La 0.333333, Mg 0.666667; LaMg3: Mg 0.75; LaMg: La 0.5, Mg 0.5 | unspecified | [2] Guo 2004; _cites Nayeb-Hashemi 1988_ [doi](https://doi.org/10.1007/bf02890558) | Table 2, p. 4, row 14 |  |
-| 998 | laMg2 -> LaMg3 + LaMg | laMg2: La 0.333333, Mg 0.666667; LaMg3: Mg 0.7502; LaMg: La 0.5, Mg 0.5 | model | [2] Guo 2004 | Table 2, p. 4, row 13 |  |
-| 994.15 | peritectic: Liq + LaMg2 -> LaMg | LaMg2: La 0.333333, Mg 0.666667; LaMg: La 0.5, Mg 0.5 | experimental | [3] Zhang 2016; _cites Berche 2012_ | Table 8, p. 9, row 32 |  |
-| 994 | peritectic: Liquid + LaMg2 = LaMg | LaMg2: Mg 0.667; LaMg: Mg 0.5 | model | [1] Berche 2011; _cites Berche 2011_ | Table 1, p. 3, row 7 |  |
-| 992 | peritectic: Liquid + LaMg2 = LaMg | Liquid: Mg 0.42; LaMg2: Mg 0.667; LaMg: Mg 0.5 | model | [1] Berche 2011 | Table 1, p. 3, row 8 |  |
-| 988 | liq -> bcc(La) + LaMg | liq: Mg 0.332; bcc(La): Mg 0.2711; LaMg: La 0.5, Mg 0.5 | model | [2] Guo 2004 | Table 2, p. 4, row 1 |  |
-| 986.15 | eutectic: Liq -> LaMg+(γLa) | Liq: Mg 0.37; LaMg: La 0.5, Mg 0.5 | unspecified | [3] Zhang 2016 | Table 8, p. 9, row 37 |  |
-| 985.15 | eutectic: Liq -> LaMg+(γLa) | Liq: Mg 0.35; LaMg: La 0.5, Mg 0.5 | experimental | [3] Zhang 2016; _cites Manfrinetti 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990135-9) | Table 8, p. 9, row 36 |  |
-| 985 | liq -> bcc(La) + LaMg | liq: Mg 0.35; bcc(La): Mg 0.29; LaMg: La 0.5, Mg 0.5 | unspecified | [2] Guo 2004; _cites Nayeb-Hashemi 1988_ [doi](https://doi.org/10.1007/bf02890558) | Table 2, p. 4, row 2 |  |
-| 985 | Liquid = bcc-La + LaMg | Liquid: Mg 0.388; bcc-La: Mg 0.3; LaMg: Mg 0.5 | model | [1] Berche 2011; _cites Berche 2011_ | Table 1, p. 3, row 5 |  |
-| 984 | Liquid = bcc-La + LaMg | Liquid: Mg 0.371; bcc-La: Mg 0.297; LaMg: Mg 0.5 | model | [1] Berche 2011 | Table 1, p. 3, row 6 |  |
-| 968.15 | eutectic: Liq -> LaMg+(γLa) | Liq: Mg 0.388; LaMg: La 0.5, Mg 0.5 | experimental | [3] Zhang 2016; _cites Vogel 1947_ | Table 8, p. 9, row 35 |  |
-| 948.15 | peritectic: Liq + LaMg3 -> La5Mg41 | LaMg3: La 0.25, Mg 0.75; La5Mg41: La 0.108696, Mg 0.891304 | experimental | [3] Zhang 2016; _cites Berche 2012_ | Table 8, p. 9, row 11 |  |
-| 948 | peritectic: LaMg3 + Liquid = La5Mg41 | LaMg3: Mg 0.799; La5Mg41: Mg 0.891 | model | [1] Berche 2011; _cites Berche 2011_ | Table 1, p. 3, row 17 |  |
-| 946.15 | peritectic: Liq + LaMg3 -> La2Mg17 | Liq: Mg 0.915; LaMg3: La 0.25, Mg 0.75; La2Mg17: La 0.105263, Mg 0.894737 | unspecified | [3] Zhang 2016 | Table 8, p. 9, row 14 |  |
-| 945.15 | peritectic: Liq + LaMg3 -> La2Mg17 | LaMg3: La 0.25, Mg 0.75; La2Mg17: La 0.105263, Mg 0.894737 | experimental | [3] Zhang 2016; _cites Vogel 1947_ | Table 8, p. 9, row 12 |  |
-| 945.15 | peritectic: Liq + LaMg3 -> La2Mg17 | LaMg3: La 0.25, Mg 0.75; La2Mg17: La 0.105263, Mg 0.894737 | experimental | [3] Zhang 2016 | Table 8, p. 9, row 13 |  |
-| 945.15 | peritectic |  | experimental | [3] Zhang 2016; _cites Nayeb-Hashemi 1988_ [doi](https://doi.org/10.1007/bf02890558) | p. 1 | “The LaMg, LaMg2 and La2Mg17 phases were reported to form from the peritectic reactions at 745 C, 775 C and 672 C, respectively.” |
-| 945 | peritectic: LaMg3 + Liquid = La5Mg41 | LaMg3: Mg 0.801; Liquid: Mg 0.899; La5Mg41: Mg 0.891 | model | [1] Berche 2011 | Table 1, p. 3, row 18 |  |
-| 945 | liq + LaMg3 -> La2Mg17 | liq: Mg 0.8996; LaMg3: Mg 0.7837; La2Mg17: La 0.105263, Mg 0.894737 | model | [2] Guo 2004 | Table 2, p. 4, row 17 |  |
-| 945 | liq + LaMg3 -> La2Mg17 | liq: Mg 0.915; LaMg3: Mg 0.772; La2Mg17: La 0.105263, Mg 0.894737 | unspecified | [2] Guo 2004; _cites Nayeb-Hashemi 1988_ [doi](https://doi.org/10.1007/bf02890558) | Table 2, p. 4, row 18 |  |
-| 943.15 | peritectic: Liq + LaMg3 -> La5Mg41 | LaMg3: La 0.25, Mg 0.75; La5Mg41: La 0.108696, Mg 0.891304 | experimental | [3] Zhang 2016; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 8, p. 9, row 10 |  |
-| 941.15 | peritectoid: LaMg3+La2Mg17 -> La5Mg41 | LaMg3: La 0.25, Mg 0.75; La2Mg17: La 0.105263, Mg 0.894737; La5Mg41: La 0.108696, Mg 0.891304 | experimental | [3] Zhang 2016 | Table 8, p. 9, row 15 |  |
-| 940.15 | peritectoid: LaMg3+La2Mg17 -> La5Mg41 | LaMg3: La 0.25, Mg 0.75; La2Mg17: La 0.105263, Mg 0.894737; La5Mg41: La 0.108696, Mg 0.891304 | unspecified | [3] Zhang 2016 | Table 8, p. 9, row 16 |  |
-| 939 | peritectic: Liquid + La5Mg41 = La2Mg17 | La5Mg41: Mg 0.891; La2Mg17: Mg 0.895 | model | [1] Berche 2011; _cites Berche 2011_ | Table 1, p. 3, row 19 |  |
-| 939 | peritectic: Liquid + La5Mg41 = La2Mg17 | Liquid: Mg 0.908; La5Mg41: Mg 0.891; La2Mg17: Mg 0.895 | model | [1] Berche 2011 | Table 1, p. 3, row 20 |  |
-| 925.15 | peritectic: Liq + La2Mg17 -> LaMg12 | La2Mg17: La 0.105263, Mg 0.894737; LaMg12: La 0.076923, Mg 0.923077 | experimental | [3] Zhang 2016; _cites Berche 2012_ | Table 8, p. 9, row 7 |  |
-| 925.15 | peritectic: Liq + La2Mg17 -> LaMg12 | Liq: Mg 0.935; La2Mg17: La 0.105263, Mg 0.894737; LaMg12: La 0.076923, Mg 0.923077 | unspecified | [3] Zhang 2016 | Table 8, p. 9, row 9 |  |
-| 925 | peritectic: La2Mg17 + Liquid = LaMg12 | La2Mg17: Mg 0.895; LaMg12: Mg 0.917 | model | [1] Berche 2011; _cites Berche 2011_ | Table 1, p. 3, row 21 |  |
-| 924.15 | peritectic: Liq + La2Mg17 -> LaMg12 | La2Mg17: La 0.105263, Mg 0.894737; LaMg12: La 0.076923, Mg 0.923077 | experimental | [3] Zhang 2016 | Table 8, p. 9, row 8 |  |
-| 924 | peritectic: La2Mg17 + Liquid = LaMg12 | La2Mg17: Mg 0.895; Liquid: Mg 0.925; LaMg12: Mg 0.917 | model | [1] Berche 2011 | Table 1, p. 3, row 22 |  |
-| 923 | liq + La2Mg17 -> LaMg12 | liq: Mg 0.9351; La2Mg17: La 0.105263, Mg 0.894737; LaMg12: Mg 0.9236 | model | [2] Guo 2004 | Table 2, p. 4, row 19 |  |
-| 923 | liq + La2Mg17 -> LaMg12 | liq: Mg 0.935; La2Mg17: La 0.105263, Mg 0.894737; LaMg12: Mg 0.923 | unspecified | [2] Guo 2004; _cites Nayeb-Hashemi 1988_ [doi](https://doi.org/10.1007/bf02890558) | Table 2, p. 4, row 20 |  |
-| 913.15 | peritectic: Liq + La2Mg17 -> LaMg12 | La2Mg17: La 0.105263, Mg 0.894737; LaMg12: La 0.076923, Mg 0.923077 | experimental | [3] Zhang 2016; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 8, p. 9, row 6 |  |
-| 913.15 | peritectic |  | experimental | [3] Zhang 2016; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | p. 1 | “The peritectic temperature of L þ La2Mg17/LaMg12 was measured to be 640 C in their work.” |
-| 899.15 | eutectoid: LaMg2 -> LaMg3+LaMg | LaMg2: La 0.333333, Mg 0.666667; LaMg3: La 0.25, Mg 0.75; LaMg: La 0.5, Mg 0.5 | experimental | [3] Zhang 2016; _cites Vogel 1947_ | Table 8, p. 9, row 26 |  |
-| 899 | LaMg2 = LaMg + LaMg3 | LaMg2: Mg 0.667; LaMg: Mg 0.5; LaMg3: Mg 0.75 | model | [1] Berche 2011; _cites Berche 2011_ | Table 1, p. 3, row 9 |  |
-| 897 | LaMg2 = LaMg + LaMg3 | LaMg2: Mg 0.667; LaMg: Mg 0.5; LaMg3: Mg 0.75 | model | [1] Berche 2011 | Table 1, p. 3, row 10 |  |
-| 889 | eutectic: Liquid = hcp-Mg + (LaMg12) | Liquid: Mg 0.954; hcp-Mg: Mg 1; (LaMg12): Mg 0.923 | model | [1] Berche 2011 | Table 1, p. 3, row 24 |  |
-| 888.15 | eutectic: L/Hcp(Mg)þLaMg12 |  | model | [4] Zhu 2018 | p. 8 | “LaMg12 in grey and hcp(Mg) in black are precipitated from liquid, which agree with the calculated results for the eutectic reaction L/Hcp(Mg)þLaMg12 at 615 C in Fig. 9(a).” |
-| 886 | liq -> hcp(Mg) + LaMg12 | liq: Mg 0.9694; hcp(Mg): Mg 0.9986; LaMg12: Mg 0.9272 | model | [2] Guo 2004 | Table 2, p. 4, row 21 |  |
-| 886 | liq -> hcp(Mg) + LaMg12 | liq: Mg 0.977; hcp(Mg): Mg 0.9986; LaMg12: Mg 0.929 | unspecified | [2] Guo 2004; _cites Nayeb-Hashemi 1988_ [doi](https://doi.org/10.1007/bf02890558) | Table 2, p. 4, row 22 |  |
-| 885.15 | eutectic: Liq -> (Mg)+LaMg12 | LaMg12: La 0.076923, Mg 0.923077 | experimental | [3] Zhang 2016; _cites Berche 2012_ | Table 8, p. 9, row 3 |  |
-| 885 | eutectic: Liquid = hcp-Mg + (LaMg12) | Liquid: Mg 0.977; hcp-Mg: Mg 0.998; (LaMg12): Mg 0.923 | model | [1] Berche 2011; _cites Berche 2011_ | Table 1, p. 3, row 23 |  |
-| 883.15 | eutectic: Liq -> (Mg)+LaMg12 | Liq: Mg 0.977; LaMg12: La 0.076923, Mg 0.923077 | experimental | [3] Zhang 2016; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 8, p. 9, row 2 |  |
-| 883.15 | eutectic: Liq -> (Mg)+LaMg12 | Liq: Mg 0.977; LaMg12: La 0.076923, Mg 0.923077 | experimental | [3] Zhang 2016; _cites Weibke 1940_ | Table 8, p. 9, row 1 |  |
-| 883.15 | eutectic: Liq -> (Mg)+LaMg12 | Liq: Mg 0.972; LaMg12: La 0.076923, Mg 0.923077 | experimental | [3] Zhang 2016 | Table 8, p. 9, row 4 |  |
-| 880.15 | eutectic: Liq -> (Mg)+LaMg12 | Liq: Mg 0.968; LaMg12: La 0.076923, Mg 0.923077 | unspecified | [3] Zhang 2016 | Table 8, p. 9, row 5 |  |
-| 873.15 | eutectoid: La5Mg41 -> LaMg3+La2Mg17 | La5Mg41: La 0.108696, Mg 0.891304; LaMg3: La 0.25, Mg 0.75; La2Mg17: La 0.105263, Mg 0.894737 | experimental | [3] Zhang 2016; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 8, p. 9, row 17 |  |
-| 866 | La5Mg41 = La2Mg17 + LaMg3 | La5Mg41: Mg 0.891; La2Mg17: Mg 0.895; LaMg3: Mg 0.774 | model | [1] Berche 2011 | Table 1, p. 3, row 16 |  |
-| 850.15 | eutectoid: La5Mg41 -> LaMg3+La2Mg17 | La5Mg41: La 0.108696, Mg 0.891304; LaMg3: La 0.25, Mg 0.75; La2Mg17: La 0.105263, Mg 0.894737 | experimental | [3] Zhang 2016; _cites Berche 2012_ | Table 8, p. 9, row 18 |  |
-| 850 | La5Mg41 = La2Mg17 + LaMg3 | La5Mg41: Mg 0.891; La2Mg17: Mg 0.895; LaMg3: Mg 0.75 | model | [1] Berche 2011; _cites Berche 2011_ | Table 1, p. 3, row 15 |  |
-| 821 | bcc-La = fcc-La + LaMg | bcc-La: Mg 0.183; fcc-La: Mg 0.079; LaMg: Mg 0.5 | model | [1] Berche 2011 | Table 1, p. 3, row 4 |  |
-| 819.15 | eutectoid: (γLa) -> (βLa)+LaMg | (γLa): Mg 0.159; LaMg: La 0.5, Mg 0.5 | unspecified | [3] Zhang 2016 | Table 8, p. 9, row 40 |  |
-| 819.15 | eutectoid: (γLa) -> (βLa)+LaMg | (γLa): Mg 0.184; LaMg: La 0.5, Mg 0.5 | experimental | [3] Zhang 2016; _cites Manfrinetti 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990135-9) | Table 8, p. 9, row 39 |  |
-| 819 | bcc(La) -> LaMg + fcc(La) | bcc(La): Mg 0.18; LaMg: La 0.5, Mg 0.5; fcc(La): Mg 0.094 | unspecified | [2] Guo 2004; _cites Nayeb-Hashemi 1988_ [doi](https://doi.org/10.1007/bf02890558) | Table 2, p. 4, row 4 |  |
-| 819 | bcc(La) -> LaMg + fcc(La) | bcc(La): Mg 0.1761; LaMg: La 0.5, Mg 0.5; fcc(La): Mg 0.0909 | model | [2] Guo 2004 | Table 2, p. 4, row 3 |  |
-| 819 | bcc-La = fcc-La + LaMg | bcc-La: Mg 0.184; fcc-La: Mg 0.08; LaMg: Mg 0.5 | model | [1] Berche 2011; _cites Berche 2011_ | Table 1, p. 3, row 3 |  |
-| 803.15 | eutectoid: (γLa) -> (βLa)+LaMg | (γLa): Mg 0.25; LaMg: La 0.5, Mg 0.5 | experimental | [3] Zhang 2016; _cites Vogel 1947_ | Table 8, p. 9, row 38 |  |
-| 773.15 | eutectoid: La5Mg41 -> LaMg3+La2Mg17 | La5Mg41: La 0.108696, Mg 0.891304; LaMg3: La 0.25, Mg 0.75; La2Mg17: La 0.105263, Mg 0.894737 | experimental | [3] Zhang 2016 | Table 8, p. 9, row 19 |  |
-| 752.15 | eutectoid: La5Mg41 -> LaMg3+La2Mg17 | La5Mg41: La 0.108696, Mg 0.891304; LaMg3: La 0.25, Mg 0.75; La2Mg17: La 0.105263, Mg 0.894737 | unspecified | [3] Zhang 2016 | Table 8, p. 9, row 20 |  |
-| 661.15 | eutectoid: LaMg2 -> LaMg3+LaMg | LaMg2: La 0.333333, Mg 0.666667; LaMg3: La 0.25, Mg 0.75; LaMg: La 0.5, Mg 0.5 | unspecified | [3] Zhang 2016 | Table 8, p. 9, row 29 |  |
-| 633.15 | eutectoid: LaMg2 -> LaMg3+LaMg | LaMg2: La 0.333333, Mg 0.666667; LaMg3: La 0.25, Mg 0.75; LaMg: La 0.5, Mg 0.5 | experimental | [3] Zhang 2016 | Table 8, p. 9, row 28 |  |
-| 603.15 | peritectoid: (βLa)+LaMg -> (αLa) | LaMg: La 0.5, Mg 0.5 | experimental | [3] Zhang 2016; _cites Herchenroeder 1989_ [doi](https://doi.org/10.1007/bf02663191) | Table 8, p. 9, row 41 |  |
-| 603.15 | peritectoid: (βLa)+LaMg -> (αLa) | LaMg: La 0.5, Mg 0.5 | unspecified | [3] Zhang 2016 | Table 8, p. 9, row 42 |  |
-| 583 | fcc(La) + LaMg -> dhcp(La) | fcc(La): Mg 0.0055; LaMg: La 0.5, Mg 0.5 | model | [2] Guo 2004 | Table 2, p. 4, row 5 |  |
-| 583 | fcc(La) + LaMg -> dhcp(La) | fcc(La): Mg 0.005; LaMg: La 0.5, Mg 0.5 | unspecified | [2] Guo 2004; _cites Nayeb-Hashemi 1988_ [doi](https://doi.org/10.1007/bf02890558) | Table 2, p. 4, row 6 |  |
-| 555 | fcc-La = dhcp-La + LaMg | fcc-La: Mg 0.01; LaMg: Mg 0.5 | model | [1] Berche 2011 | Table 1, p. 3, row 1 |  |
+| 1073 | Liquid = LaMg3 | Liquid: Mg 0.759; LaMg3: Mg 0.759 | model | [1] Berche 2011 | Table 1, p. 3, row 14; `ORC-GFXORYM4XU` |  |
+| 1071 | Liquid = LaMg3 | Liquid: Mg 0.75; LaMg3: Mg 0.75 | model | [1] Berche 2011; _cites Berche 2011_ | Table 1, p. 3, row 13; `ORC-JC4V3SR2RW` |  |
+| 1071 | liq -> LaMg3 | liq: Mg 0.7529; LaMg3: Mg 0.7529 | model | [2] Guo 2004 | Table 2, p. 4, row 15; `ORC-S3YELLSUSE` |  |
+| 1071 | liq -> LaMg3 | liq: Mg 0.75; LaMg3: Mg 0.75 | unspecified | [2] Guo 2004; _cites Nayeb-Hashemi 1988_ [doi](https://doi.org/10.1007/bf02890558) | Table 2, p. 4, row 16; `ORC-WWARKI6M7O` |  |
+| 1053.15 | peritectic: Liq + LaMg3 -> LaMg2 | LaMg3: La 0.25, Mg 0.75; LaMg2: La 0.333333, Mg 0.666667 | experimental | [3] Zhang 2016; _cites Manfrinetti 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990135-9) | Table 8, p. 9, row 22; `ORC-LPHUXRWMJJ` |  |
+| 1048.15 | peritectic |  | experimental | [3] Zhang 2016; _cites Nayeb-Hashemi 1988_ [doi](https://doi.org/10.1007/bf02890558) | p. 1; `ORC-OBUWGBC4CU.42861e` | “The LaMg, LaMg2 and La2Mg17 phases were reported to form from the peritectic reactions at 745 C, 775 C and 672 C, respectively.” |
+| 1048.15 | peritectic: Liq + LaMg3 -> LaMg2 | LaMg3: La 0.25, Mg 0.75; LaMg2: La 0.333333, Mg 0.666667 | experimental | [3] Zhang 2016; _cites Vogel 1947_ | Table 8, p. 9, row 21; `ORC-OWZ5GOS23Z` |  |
+| 1048 | liq + LaMg3 -> LaMg2 | liq: Mg 0.6649; LaMg3: Mg 0.7507; LaMg2: La 0.333333, Mg 0.666667 | model | [2] Guo 2004 | Table 2, p. 4, row 11; `ORC-O5SVFO73XH` |  |
+| 1048 | liq + LaMg3 -> LaMg2 | liq: Mg 0.632; LaMg3: Mg 0.75; LaMg2: La 0.333333, Mg 0.666667 | unspecified | [2] Guo 2004; _cites Nayeb-Hashemi 1988_ [doi](https://doi.org/10.1007/bf02890558) | Table 2, p. 4, row 12; `ORC-WHNQO2LQZS` |  |
+| 1044.15 | peritectic: Lþ LaMg2/LaMg3 |  | model | [4] Zhu 2018 | p. 6; `ORC-FGV7A2CAXI` | “However, the composition of 66.7e75.0 at.% Mg at 771 C can be considered to solidify as a peritectic reaction Lþ LaMg2/LaMg3 in ours study.” |
+| 1041.15 | eutectic: L/LaMg2þLaMg3 |  | model | [3] Zhang 2016 | p. 7; `ORC-4U2HH7VLXG` | “In the present work, the eutectic point of L/LaMg2þLaMg3 is predicted to be at 768 C and 72.5 at% Mg.” |
+| 1041.15 | eutectic: Liq -> LaMg3+LaMg2 | Liq: Mg 0.725; LaMg3: La 0.25, Mg 0.75; LaMg2: La 0.333333, Mg 0.666667 | unspecified | [3] Zhang 2016 | Table 8, p. 9, row 25; `ORC-F3BJV3JQFF` |  |
+| 1040.15 | peritectic: Liq + LaMg3 -> LaMg2 | LaMg3: La 0.25, Mg 0.75; LaMg2: La 0.333333, Mg 0.666667 | experimental | [3] Zhang 2016; _cites Berche 2012_ | Table 8, p. 9, row 23; `ORC-6VYJOL27TM` |  |
+| 1040 | peritectic: Liquid + LaMg3 = LaMg2 | LaMg3: Mg 0.75; LaMg2: Mg 0.667 | model | [1] Berche 2011; _cites Berche 2011_ | Table 1, p. 3, row 11; `ORC-EYEOPNFSZJ` |  |
+| 1039 | peritectic: Liquid + LaMg3 = LaMg2 | Liquid: Mg 0.603; LaMg3: Mg 0.75; LaMg2: Mg 0.667 | model | [1] Berche 2011 | Table 1, p. 3, row 12; `ORC-SIC52VFGAK` |  |
+| 1035.15 | eutectic: Liq -> LaMg3+LaMg2 | LaMg3: La 0.25, Mg 0.75; LaMg2: La 0.333333, Mg 0.666667 | experimental | [3] Zhang 2016 | Table 8, p. 9, row 24; `ORC-XRES74LVWG` |  |
+| 1028 | liq -> LaMg | liq: Mg 0.5; LaMg: La 0.5, Mg 0.5 | model | [2] Guo 2004 | Table 2, p. 4, row 7; `ORC-JMD2OKYGD3` |  |
+| 1028 | liq -> LaMg | liq: Mg 0.5; LaMg: La 0.5, Mg 0.5 | unspecified | [2] Guo 2004; _cites Nayeb-Hashemi 1988_ [doi](https://doi.org/10.1007/bf02890558) | Table 2, p. 4, row 8; `ORC-LXIQTMS2VR` |  |
+| 1018.15 | peritectic: Liq + LaMg2 -> LaMg | LaMg2: La 0.333333, Mg 0.666667; LaMg: La 0.5, Mg 0.5 | experimental | [3] Zhang 2016; _cites Manfrinetti 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990135-9) | Table 8, p. 9, row 31; `ORC-ECGSYFKUAN` |  |
+| 1018.15 | peritectic: Liq + LaMg2 -> LaMg | LaMg2: La 0.333333, Mg 0.666667; LaMg: La 0.5, Mg 0.5 | experimental | [3] Zhang 2016; _cites Vogel 1947_ | Table 8, p. 9, row 30; `ORC-J6URU6OCAR` |  |
+| 1018.15 | peritectic |  | experimental | [3] Zhang 2016; _cites Nayeb-Hashemi 1988_ [doi](https://doi.org/10.1007/bf02890558) | p. 1; `ORC-OBUWGBC4CU.49bafa` | “The LaMg, LaMg2 and La2Mg17 phases were reported to form from the peritectic reactions at 745 C, 775 C and 672 C, respectively.” |
+| 1018 | liq -> LaMg + LaMg2 | liq: Mg 0.58; LaMg: La 0.5, Mg 0.5; LaMg2: La 0.333333, Mg 0.666667 | unspecified | [2] Guo 2004; _cites Nayeb-Hashemi 1988_ [doi](https://doi.org/10.1007/bf02890558) | Table 2, p. 4, row 10; `ORC-JYJHIUGJUE` |  |
+| 1014 | liq -> LaMg + LaMg2 | liq: Mg 0.5868; LaMg: La 0.5, Mg 0.5; LaMg2: La 0.333333, Mg 0.666667 | model | [2] Guo 2004 | Table 2, p. 4, row 9; `ORC-5IIPQTB64U` |  |
+| 1010.15 | eutectic: L/LaMg2þLaMg |  | model | [4] Zhu 2018; _cites Guo 2004_ [doi](https://doi.org/10.1016/j.jallcom.2004.04.105) | p. 6; `ORC-NL3I3EL7JO` | “The alloys with composition between 50.0 and 66.7 at.% Mg at 737 C considered as a eutectic reaction L/LaMg2þLaMg by Guo et al. \[20\].” |
+| 1008.15 | peritectic: Liq + LaMg2 -> LaMg | LaMg2: La 0.333333, Mg 0.666667; LaMg: La 0.5, Mg 0.5 | experimental | [3] Zhang 2016 | Table 8, p. 9, row 33; `ORC-SXBHQQ3OJ7` |  |
+| 1008.15 | peritectic: L þ LaMg2/LaMg |  | experimental | [3] Zhang 2016 | p. 3; `ORC-UP76CITK7L` | “As shown in Fig. 3 and Table 4, the temperature of the peritectic reaction L þ LaMg2/LaMg was determined to be 735 C from the annealed alloy # 2.” |
+| 999.15 | peritectic: Liq + LaMg2 -> LaMg | Liq: Mg 0.484; LaMg2: La 0.333333, Mg 0.666667; LaMg: La 0.5, Mg 0.5 | unspecified | [3] Zhang 2016 | Table 8, p. 9, row 34; `ORC-Q4A4RHXNA2` |  |
+| 998.15 | eutectoid: LaMg2 -> LaMg3+LaMg | LaMg2: La 0.333333, Mg 0.666667; LaMg3: La 0.25, Mg 0.75; LaMg: La 0.5, Mg 0.5 | experimental | [3] Zhang 2016; _cites Manfrinetti 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990135-9) | Table 8, p. 9, row 27; `ORC-J3DIYGKXNN` |  |
+| 998 | laMg2 -> LaMg3 + LaMg | laMg2: La 0.333333, Mg 0.666667; LaMg3: Mg 0.75; LaMg: La 0.5, Mg 0.5 | unspecified | [2] Guo 2004; _cites Nayeb-Hashemi 1988_ [doi](https://doi.org/10.1007/bf02890558) | Table 2, p. 4, row 14; `ORC-MQ3WZ5VQ22` |  |
+| 998 | laMg2 -> LaMg3 + LaMg | laMg2: La 0.333333, Mg 0.666667; LaMg3: Mg 0.7502; LaMg: La 0.5, Mg 0.5 | model | [2] Guo 2004 | Table 2, p. 4, row 13; `ORC-T65VUMCERY` |  |
+| 994.15 | peritectic: Liq + LaMg2 -> LaMg | LaMg2: La 0.333333, Mg 0.666667; LaMg: La 0.5, Mg 0.5 | experimental | [3] Zhang 2016; _cites Berche 2012_ | Table 8, p. 9, row 32; `ORC-MON7ZGRFTG` |  |
+| 994 | peritectic: Liquid + LaMg2 = LaMg | LaMg2: Mg 0.667; LaMg: Mg 0.5 | model | [1] Berche 2011; _cites Berche 2011_ | Table 1, p. 3, row 7; `ORC-B6LK7UZJ77` |  |
+| 992 | peritectic: Liquid + LaMg2 = LaMg | Liquid: Mg 0.42; LaMg2: Mg 0.667; LaMg: Mg 0.5 | model | [1] Berche 2011 | Table 1, p. 3, row 8; `ORC-CDU74MF7ID` |  |
+| 988 | liq -> bcc(La) + LaMg | liq: Mg 0.332; bcc(La): Mg 0.2711; LaMg: La 0.5, Mg 0.5 | model | [2] Guo 2004 | Table 2, p. 4, row 1; `ORC-FAGIJ7LCPJ` |  |
+| 986.15 | eutectic: Liq -> LaMg+(γLa) | Liq: Mg 0.37; LaMg: La 0.5, Mg 0.5 | unspecified | [3] Zhang 2016 | Table 8, p. 9, row 37; `ORC-OAHQOGKJDS` |  |
+| 985.15 | eutectic: Liq -> LaMg+(γLa) | Liq: Mg 0.35; LaMg: La 0.5, Mg 0.5 | experimental | [3] Zhang 2016; _cites Manfrinetti 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990135-9) | Table 8, p. 9, row 36; `ORC-QSOGTVXBDX` |  |
+| 985 | liq -> bcc(La) + LaMg | liq: Mg 0.35; bcc(La): Mg 0.29; LaMg: La 0.5, Mg 0.5 | unspecified | [2] Guo 2004; _cites Nayeb-Hashemi 1988_ [doi](https://doi.org/10.1007/bf02890558) | Table 2, p. 4, row 2; `ORC-BUFLREYSN4` |  |
+| 985 | Liquid = bcc-La + LaMg | Liquid: Mg 0.388; bcc-La: Mg 0.3; LaMg: Mg 0.5 | model | [1] Berche 2011; _cites Berche 2011_ | Table 1, p. 3, row 5; `ORC-MTFZ7VMOJR` |  |
+| 984 | Liquid = bcc-La + LaMg | Liquid: Mg 0.371; bcc-La: Mg 0.297; LaMg: Mg 0.5 | model | [1] Berche 2011 | Table 1, p. 3, row 6; `ORC-3OAWKRRZMF` |  |
+| 968.15 | eutectic: Liq -> LaMg+(γLa) | Liq: Mg 0.388; LaMg: La 0.5, Mg 0.5 | experimental | [3] Zhang 2016; _cites Vogel 1947_ | Table 8, p. 9, row 35; `ORC-Z4I74EA6HG` |  |
+| 948.15 | peritectic: Liq + LaMg3 -> La5Mg41 | LaMg3: La 0.25, Mg 0.75; La5Mg41: La 0.108696, Mg 0.891304 | experimental | [3] Zhang 2016; _cites Berche 2012_ | Table 8, p. 9, row 11; `ORC-7KXJPOW7GZ` |  |
+| 948 | peritectic: LaMg3 + Liquid = La5Mg41 | LaMg3: Mg 0.799; La5Mg41: Mg 0.891 | model | [1] Berche 2011; _cites Berche 2011_ | Table 1, p. 3, row 17; `ORC-LIZX6Y3PFM` |  |
+| 946.15 | peritectic: Liq + LaMg3 -> La2Mg17 | Liq: Mg 0.915; LaMg3: La 0.25, Mg 0.75; La2Mg17: La 0.105263, Mg 0.894737 | unspecified | [3] Zhang 2016 | Table 8, p. 9, row 14; `ORC-DHUQ5TAQYJ` |  |
+| 945.15 | peritectic: Liq + LaMg3 -> La2Mg17 | LaMg3: La 0.25, Mg 0.75; La2Mg17: La 0.105263, Mg 0.894737 | experimental | [3] Zhang 2016; _cites Vogel 1947_ | Table 8, p. 9, row 12; `ORC-2TWYUPFTKW` |  |
+| 945.15 | peritectic: Liq + LaMg3 -> La2Mg17 | LaMg3: La 0.25, Mg 0.75; La2Mg17: La 0.105263, Mg 0.894737 | experimental | [3] Zhang 2016 | Table 8, p. 9, row 13; `ORC-EDTYATA6Z5` |  |
+| 945.15 | peritectic |  | experimental | [3] Zhang 2016; _cites Nayeb-Hashemi 1988_ [doi](https://doi.org/10.1007/bf02890558) | p. 1; `ORC-OBUWGBC4CU.4b40b5` | “The LaMg, LaMg2 and La2Mg17 phases were reported to form from the peritectic reactions at 745 C, 775 C and 672 C, respectively.” |
+| 945 | peritectic: LaMg3 + Liquid = La5Mg41 | LaMg3: Mg 0.801; Liquid: Mg 0.899; La5Mg41: Mg 0.891 | model | [1] Berche 2011 | Table 1, p. 3, row 18; `ORC-FKW3KBHES7` |  |
+| 945 | liq + LaMg3 -> La2Mg17 | liq: Mg 0.8996; LaMg3: Mg 0.7837; La2Mg17: La 0.105263, Mg 0.894737 | model | [2] Guo 2004 | Table 2, p. 4, row 17; `ORC-GBL4VTKUMG` |  |
+| 945 | liq + LaMg3 -> La2Mg17 | liq: Mg 0.915; LaMg3: Mg 0.772; La2Mg17: La 0.105263, Mg 0.894737 | unspecified | [2] Guo 2004; _cites Nayeb-Hashemi 1988_ [doi](https://doi.org/10.1007/bf02890558) | Table 2, p. 4, row 18; `ORC-SRGXI4QIKZ` |  |
+| 943.15 | peritectic: Liq + LaMg3 -> La5Mg41 | LaMg3: La 0.25, Mg 0.75; La5Mg41: La 0.108696, Mg 0.891304 | experimental | [3] Zhang 2016; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 8, p. 9, row 10; `ORC-MM5FFKCSSS` |  |
+| 941.15 | peritectoid: LaMg3+La2Mg17 -> La5Mg41 | LaMg3: La 0.25, Mg 0.75; La2Mg17: La 0.105263, Mg 0.894737; La5Mg41: La 0.108696, Mg 0.891304 | experimental | [3] Zhang 2016 | Table 8, p. 9, row 15; `ORC-EOUY6RPVOW` |  |
+| 940.15 | peritectoid: LaMg3+La2Mg17 -> La5Mg41 | LaMg3: La 0.25, Mg 0.75; La2Mg17: La 0.105263, Mg 0.894737; La5Mg41: La 0.108696, Mg 0.891304 | unspecified | [3] Zhang 2016 | Table 8, p. 9, row 16; `ORC-NRSXSBZVPQ` |  |
+| 939 | peritectic: Liquid + La5Mg41 = La2Mg17 | La5Mg41: Mg 0.891; La2Mg17: Mg 0.895 | model | [1] Berche 2011; _cites Berche 2011_ | Table 1, p. 3, row 19; `ORC-AF7OXVYEYC` |  |
+| 939 | peritectic: Liquid + La5Mg41 = La2Mg17 | Liquid: Mg 0.908; La5Mg41: Mg 0.891; La2Mg17: Mg 0.895 | model | [1] Berche 2011 | Table 1, p. 3, row 20; `ORC-SBJL23J2JA` |  |
+| 925.15 | peritectic: Liq + La2Mg17 -> LaMg12 | La2Mg17: La 0.105263, Mg 0.894737; LaMg12: La 0.076923, Mg 0.923077 | experimental | [3] Zhang 2016; _cites Berche 2012_ | Table 8, p. 9, row 7; `ORC-BEPAIURZXG` |  |
+| 925.15 | peritectic: Liq + La2Mg17 -> LaMg12 | Liq: Mg 0.935; La2Mg17: La 0.105263, Mg 0.894737; LaMg12: La 0.076923, Mg 0.923077 | unspecified | [3] Zhang 2016 | Table 8, p. 9, row 9; `ORC-CFVU3PRF6T` |  |
+| 925 | peritectic: La2Mg17 + Liquid = LaMg12 | La2Mg17: Mg 0.895; LaMg12: Mg 0.917 | model | [1] Berche 2011; _cites Berche 2011_ | Table 1, p. 3, row 21; `ORC-XMQGGYUFS4` |  |
+| 924.15 | peritectic: Liq + La2Mg17 -> LaMg12 | La2Mg17: La 0.105263, Mg 0.894737; LaMg12: La 0.076923, Mg 0.923077 | experimental | [3] Zhang 2016 | Table 8, p. 9, row 8; `ORC-DJIRV53JTS` |  |
+| 924 | peritectic: La2Mg17 + Liquid = LaMg12 | La2Mg17: Mg 0.895; Liquid: Mg 0.925; LaMg12: Mg 0.917 | model | [1] Berche 2011 | Table 1, p. 3, row 22; `ORC-YJUH547IL2` |  |
+| 923 | liq + La2Mg17 -> LaMg12 | liq: Mg 0.9351; La2Mg17: La 0.105263, Mg 0.894737; LaMg12: Mg 0.9236 | model | [2] Guo 2004 | Table 2, p. 4, row 19; `ORC-J4LKO7KDW4` |  |
+| 923 | liq + La2Mg17 -> LaMg12 | liq: Mg 0.935; La2Mg17: La 0.105263, Mg 0.894737; LaMg12: Mg 0.923 | unspecified | [2] Guo 2004; _cites Nayeb-Hashemi 1988_ [doi](https://doi.org/10.1007/bf02890558) | Table 2, p. 4, row 20; `ORC-Q3WSYEZ2XD` |  |
+| 913.15 | peritectic: Liq + La2Mg17 -> LaMg12 | La2Mg17: La 0.105263, Mg 0.894737; LaMg12: La 0.076923, Mg 0.923077 | experimental | [3] Zhang 2016; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 8, p. 9, row 6; `ORC-4PFGEN6XLK` |  |
+| 913.15 | peritectic |  | experimental | [3] Zhang 2016; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | p. 1; `ORC-5VBFYEUBLO` | “The peritectic temperature of L þ La2Mg17/LaMg12 was measured to be 640 C in their work.” |
+| 899.15 | eutectoid: LaMg2 -> LaMg3+LaMg | LaMg2: La 0.333333, Mg 0.666667; LaMg3: La 0.25, Mg 0.75; LaMg: La 0.5, Mg 0.5 | experimental | [3] Zhang 2016; _cites Vogel 1947_ | Table 8, p. 9, row 26; `ORC-N6R3BWLDWW` |  |
+| 899 | LaMg2 = LaMg + LaMg3 | LaMg2: Mg 0.667; LaMg: Mg 0.5; LaMg3: Mg 0.75 | model | [1] Berche 2011; _cites Berche 2011_ | Table 1, p. 3, row 9; `ORC-RI4ASYCIGY` |  |
+| 897 | LaMg2 = LaMg + LaMg3 | LaMg2: Mg 0.667; LaMg: Mg 0.5; LaMg3: Mg 0.75 | model | [1] Berche 2011 | Table 1, p. 3, row 10; `ORC-A2SAVDAL6U` |  |
+| 889 | eutectic: Liquid = hcp-Mg + (LaMg12) | Liquid: Mg 0.954; hcp-Mg: Mg 1; (LaMg12): Mg 0.923 | model | [1] Berche 2011 | Table 1, p. 3, row 24; `ORC-6IRZNCUKYZ` |  |
+| 888.15 | eutectic: L/Hcp(Mg)þLaMg12 |  | model | [4] Zhu 2018 | p. 8; `ORC-NPHEHWFWM2` | “LaMg12 in grey and hcp(Mg) in black are precipitated from liquid, which agree with the calculated results for the eutectic reaction L/Hcp(Mg)þLaMg12 at 615 C in Fig. 9(a).” |
+| 886 | liq -> hcp(Mg) + LaMg12 | liq: Mg 0.9694; hcp(Mg): Mg 0.9986; LaMg12: Mg 0.9272 | model | [2] Guo 2004 | Table 2, p. 4, row 21; `ORC-FKMQXRV664` |  |
+| 886 | liq -> hcp(Mg) + LaMg12 | liq: Mg 0.977; hcp(Mg): Mg 0.9986; LaMg12: Mg 0.929 | unspecified | [2] Guo 2004; _cites Nayeb-Hashemi 1988_ [doi](https://doi.org/10.1007/bf02890558) | Table 2, p. 4, row 22; `ORC-UBZSNZVUEQ` |  |
+| 885.15 | eutectic: Liq -> (Mg)+LaMg12 | LaMg12: La 0.076923, Mg 0.923077 | experimental | [3] Zhang 2016; _cites Berche 2012_ | Table 8, p. 9, row 3; `ORC-KKB44SNBAD` |  |
+| 885 | eutectic: Liquid = hcp-Mg + (LaMg12) | Liquid: Mg 0.977; hcp-Mg: Mg 0.998; (LaMg12): Mg 0.923 | model | [1] Berche 2011; _cites Berche 2011_ | Table 1, p. 3, row 23; `ORC-CAA6NS6FAZ` |  |
+| 883.15 | eutectic: Liq -> (Mg)+LaMg12 | Liq: Mg 0.977; LaMg12: La 0.076923, Mg 0.923077 | experimental | [3] Zhang 2016; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 8, p. 9, row 2; `ORC-CUACRWTX4K` |  |
+| 883.15 | eutectic: Liq -> (Mg)+LaMg12 | Liq: Mg 0.977; LaMg12: La 0.076923, Mg 0.923077 | experimental | [3] Zhang 2016; _cites Weibke 1940_ | Table 8, p. 9, row 1; `ORC-M4HYXOCOTV` |  |
+| 883.15 | eutectic: Liq -> (Mg)+LaMg12 | Liq: Mg 0.972; LaMg12: La 0.076923, Mg 0.923077 | experimental | [3] Zhang 2016 | Table 8, p. 9, row 4; `ORC-Y66LS3ULHB` |  |
+| 880.15 | eutectic: Liq -> (Mg)+LaMg12 | Liq: Mg 0.968; LaMg12: La 0.076923, Mg 0.923077 | unspecified | [3] Zhang 2016 | Table 8, p. 9, row 5; `ORC-QP4W54ANFY` |  |
+| 873.15 | eutectoid: La5Mg41 -> LaMg3+La2Mg17 | La5Mg41: La 0.108696, Mg 0.891304; LaMg3: La 0.25, Mg 0.75; La2Mg17: La 0.105263, Mg 0.894737 | experimental | [3] Zhang 2016; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 8, p. 9, row 17; `ORC-V2WS5C7UE2` |  |
+| 866 | La5Mg41 = La2Mg17 + LaMg3 | La5Mg41: Mg 0.891; La2Mg17: Mg 0.895; LaMg3: Mg 0.774 | model | [1] Berche 2011 | Table 1, p. 3, row 16; `ORC-TMLXRDIYVL` |  |
+| 850.15 | eutectoid: La5Mg41 -> LaMg3+La2Mg17 | La5Mg41: La 0.108696, Mg 0.891304; LaMg3: La 0.25, Mg 0.75; La2Mg17: La 0.105263, Mg 0.894737 | experimental | [3] Zhang 2016; _cites Berche 2012_ | Table 8, p. 9, row 18; `ORC-T7WV3XMQRJ` |  |
+| 850 | La5Mg41 = La2Mg17 + LaMg3 | La5Mg41: Mg 0.891; La2Mg17: Mg 0.895; LaMg3: Mg 0.75 | model | [1] Berche 2011; _cites Berche 2011_ | Table 1, p. 3, row 15; `ORC-OSENXEYMRX` |  |
+| 821 | bcc-La = fcc-La + LaMg | bcc-La: Mg 0.183; fcc-La: Mg 0.079; LaMg: Mg 0.5 | model | [1] Berche 2011 | Table 1, p. 3, row 4; `ORC-625F36HE6G` |  |
+| 819.15 | eutectoid: (γLa) -> (βLa)+LaMg | (γLa): Mg 0.159; LaMg: La 0.5, Mg 0.5 | unspecified | [3] Zhang 2016 | Table 8, p. 9, row 40; `ORC-DUIYKP5ZKH` |  |
+| 819.15 | eutectoid: (γLa) -> (βLa)+LaMg | (γLa): Mg 0.184; LaMg: La 0.5, Mg 0.5 | experimental | [3] Zhang 2016; _cites Manfrinetti 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990135-9) | Table 8, p. 9, row 39; `ORC-MXU42UF4W2` |  |
+| 819 | bcc(La) -> LaMg + fcc(La) | bcc(La): Mg 0.18; LaMg: La 0.5, Mg 0.5; fcc(La): Mg 0.094 | unspecified | [2] Guo 2004; _cites Nayeb-Hashemi 1988_ [doi](https://doi.org/10.1007/bf02890558) | Table 2, p. 4, row 4; `ORC-4AQNNSKA3E` |  |
+| 819 | bcc(La) -> LaMg + fcc(La) | bcc(La): Mg 0.1761; LaMg: La 0.5, Mg 0.5; fcc(La): Mg 0.0909 | model | [2] Guo 2004 | Table 2, p. 4, row 3; `ORC-OKVUBTZVVT` |  |
+| 819 | bcc-La = fcc-La + LaMg | bcc-La: Mg 0.184; fcc-La: Mg 0.08; LaMg: Mg 0.5 | model | [1] Berche 2011; _cites Berche 2011_ | Table 1, p. 3, row 3; `ORC-XNQULJ6X7N` |  |
+| 803.15 | eutectoid: (γLa) -> (βLa)+LaMg | (γLa): Mg 0.25; LaMg: La 0.5, Mg 0.5 | experimental | [3] Zhang 2016; _cites Vogel 1947_ | Table 8, p. 9, row 38; `ORC-IIGHUJC4HT` |  |
+| 773.15 | eutectoid: La5Mg41 -> LaMg3+La2Mg17 | La5Mg41: La 0.108696, Mg 0.891304; LaMg3: La 0.25, Mg 0.75; La2Mg17: La 0.105263, Mg 0.894737 | experimental | [3] Zhang 2016 | Table 8, p. 9, row 19; `ORC-FUHW73DAHN` |  |
+| 752.15 | eutectoid: La5Mg41 -> LaMg3+La2Mg17 | La5Mg41: La 0.108696, Mg 0.891304; LaMg3: La 0.25, Mg 0.75; La2Mg17: La 0.105263, Mg 0.894737 | unspecified | [3] Zhang 2016 | Table 8, p. 9, row 20; `ORC-JNV4FOA2I4` |  |
+| 661.15 | eutectoid: LaMg2 -> LaMg3+LaMg | LaMg2: La 0.333333, Mg 0.666667; LaMg3: La 0.25, Mg 0.75; LaMg: La 0.5, Mg 0.5 | unspecified | [3] Zhang 2016 | Table 8, p. 9, row 29; `ORC-VPU6EVZR35` |  |
+| 633.15 | eutectoid: LaMg2 -> LaMg3+LaMg | LaMg2: La 0.333333, Mg 0.666667; LaMg3: La 0.25, Mg 0.75; LaMg: La 0.5, Mg 0.5 | experimental | [3] Zhang 2016 | Table 8, p. 9, row 28; `ORC-77YIGMQWPM` |  |
+| 603.15 | peritectoid: (βLa)+LaMg -> (αLa) | LaMg: La 0.5, Mg 0.5 | experimental | [3] Zhang 2016; _cites Herchenroeder 1989_ [doi](https://doi.org/10.1007/bf02663191) | Table 8, p. 9, row 41; `ORC-52TU2HGHHX` |  |
+| 603.15 | peritectoid: (βLa)+LaMg -> (αLa) | LaMg: La 0.5, Mg 0.5 | unspecified | [3] Zhang 2016 | Table 8, p. 9, row 42; `ORC-GBPCOAF7S4` |  |
+| 583 | fcc(La) + LaMg -> dhcp(La) | fcc(La): Mg 0.0055; LaMg: La 0.5, Mg 0.5 | model | [2] Guo 2004 | Table 2, p. 4, row 5; `ORC-7O6RHGBMNM` |  |
+| 583 | fcc(La) + LaMg -> dhcp(La) | fcc(La): Mg 0.005; LaMg: La 0.5, Mg 0.5 | unspecified | [2] Guo 2004; _cites Nayeb-Hashemi 1988_ [doi](https://doi.org/10.1007/bf02890558) | Table 2, p. 4, row 6; `ORC-MMY74ZIV6D` |  |
+| 555 | fcc-La = dhcp-La + LaMg | fcc-La: Mg 0.01; LaMg: Mg 0.5 | model | [1] Berche 2011 | Table 1, p. 3, row 1; `ORC-5MVCVBCPB4` |  |
 
 ## Other properties
 
@@ -273,32 +273,32 @@ Table: Phase transition, La–Mg system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 603 K | 603 | bcc-La = dhcp-La + LaMg | experimental | [1] Berche 2011; _cites Herchenroeder 1989_ [doi](https://doi.org/10.1007/bf02663191) | p. 1 | “It was pointed out that the temperature measured by Herchenroeder et al. at 603 K corresponds to the metastable reaction: \[bcc-La = dhcp-La + LaMg\] and not to the reaction \[fcc-La + LaMg = dhcp-La\] \[10\].” |
-| Phase transition | 661.15 K | 661.15 | other | model | [3] Zhang 2016 | p. 7 | “The decomposing temperature of LaMg2 is predicted to be 388 C.” |
-| Phase transition | 883.15 K | 883.15 | eutectic: L → LaMg12 + (Mg) | experimental | [3] Zhang 2016 | Table 4, p. 5, row 17 |  |
-| Phase transition | 899 K | 899 | LaMg2 = LaMg + LaMg3 | model | [1] Berche 2011; _cites Berche 2011_ | p. 4 | “The LaMg2 phase decomposes on cooling into LaMg + LaMg3 at 899 K as suggested by Berche et al. \[5\].” |
-| Phase transition | 899.15 K | 899.15 | other | experimental | [3] Zhang 2016; _cites Vogel 1947_ | p. 1 | “However, the decomposing temperature is questionable due to the inconsistence of the results from Vogel and Henmann (626 C) \[7\] and Manfrinetti and Gschneidner (725 C) \[8\].” |
-| Phase transition | 924.15 K | 924.15 | peritectic: L + La2Mg17 → LaMg12 | experimental | [3] Zhang 2016 | Table 4, p. 5, row 18 |  |
-| Phase transition | 933.15 K | 933.15 | other: L / L + La2Mg17 | experimental | [3] Zhang 2016 | Table 4, p. 5, row 19 |  |
-| Phase transition | 941.15 K | 941.15 | other: LaMg3 + La2Mg17 → La5Mg41 | experimental | [3] Zhang 2016 | Table 4, p. 5, row 13 |  |
-| Phase transition | 945.15 K | 945.15 | peritectic: L + LaMg3 → La2Mg17 | experimental | [3] Zhang 2016 | Table 4, p. 5, row 16 |  |
-| Phase transition | 998.15 K | 998.15 | other | model | [5] Gröbner 2010; _cites Massalski 1990_ | p. 2 | “For the related binary compound LaMg2 (same C15 structure type, cF24-Cu2Mg) a solid solution (La,Y)1(Mg)2 at 500 °C from 0 to 42 wt.% Y is reported \[11\], see Table 1, whereas the currently accepted binary Mg-La phase diagram \[12\] shows a eutectoidal decomposition of LaMg2 at 725 °C.” |
-| Phase transition | 998.15 K | 998.15 | other | experimental | [3] Zhang 2016 | p. 1 | “LaMg2 was assessed to be unstable at the low temperature and decompose at 725 C.” |
-| Phase transition | 998.15 K | 998.15 | other | experimental | [3] Zhang 2016; _cites Manfrinetti 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990135-9) | p. 1 | “However, the decomposing temperature is questionable due to the inconsistence of the results from Vogel and Henmann (626 C) \[7\] and Manfrinetti and Gschneidner (725 C) \[8\].” |
-| Phase transition | 1008.15 K | 1008.15 | peritectic: L + LaMg2 → LaMg | experimental | [3] Zhang 2016 | Table 4, p. 5, row 1 |  |
-| Phase transition | 1014.15 K | 1014.15 | other: L / L + LaMg3 | experimental | [3] Zhang 2016 | Table 4, p. 5, row 15 |  |
-| Phase transition | 1018 K | 1018 | liq → LaMg + LaMg2 | model | [2] Guo 2004 | p. 4 | “In the present work, it is described as liq → LaMg at 1028 K and liq → LaMg + LaMg2 at 1018 K instead of liq + LaMg2 → LaMg at 1018 K reported by Nayeb-Hashemi and Clark \[6\].” |
-| Phase transition | 1027.15 K | 1027.15 | LþLaMg2/LaMg | model | [4] Zhu 2018 | p. 6 | “In order to match the stability of LaMg2 above 388 C and the reaction type of LþLaMg2/LaMg at 754 C, the Gibbs free energy of LaMg2 was modified.” |
-| Phase transition | 1028 K | 1028 | liq → LaMg | model | [2] Guo 2004 | p. 4 | “In the present work, it is described as liq → LaMg at 1028 K and liq → LaMg + LaMg2 at 1018 K instead of liq + LaMg2 → LaMg at 1018 K reported by Nayeb-Hashemi and Clark \[6\].” |
-| Phase transition | 1033.15 K | 1033.15 | other: L / L + LaMg2 | experimental | [3] Zhang 2016 | Table 4, p. 5, row 2 |  |
-| Phase transition | 1034.15 K | 1034.15 | eutectic: L → LaMg2 + LaMg3 | experimental | [3] Zhang 2016 | Table 4, p. 5, row 10 |  |
-| Phase transition | 1035.15 K | 1035.15 | eutectic: L → LaMg2 + LaMg3 | experimental | [3] Zhang 2016 | Table 4, p. 5, row 8 |  |
-| Phase transition | 1044.15 K | 1044.15 | other: L / L + LaMg3 | experimental | [3] Zhang 2016 | Table 4, p. 5, row 9 |  |
-| Phase transition | 1045.15 K | 1045.15 | other: L / L + LaMg2 | experimental | [3] Zhang 2016 | Table 4, p. 5, row 7 |  |
-| Phase transition | 1052.15 K | 1052.15 | other: L / L + LaMg3 | experimental | [3] Zhang 2016 | Table 4, p. 5, row 11 |  |
-| Phase transition | 1056.15 K | 1056.15 | congruent transformation: L → LaMg2 | experimental | [3] Zhang 2016 | Table 4, p. 5, row 5 |  |
-| Phase transition | 1058.15 K | 1058.15 | other: L / L + LaMg3 | experimental | [3] Zhang 2016 | Table 4, p. 5, row 12 |  |
-| Phase transition | 1071.15 K | 1071.15 | congruent transformation | experimental | [3] Zhang 2016 | p. 1 | “LaMg3 was reported to form congruently from liquid at 798 C.” |
+| Phase transition | 603 K | 603 | bcc-La = dhcp-La + LaMg | experimental | [1] Berche 2011; _cites Herchenroeder 1989_ [doi](https://doi.org/10.1007/bf02663191) | p. 1; `ORC-K7Z2HZXG4T` | “It was pointed out that the temperature measured by Herchenroeder et al. at 603 K corresponds to the metastable reaction: \[bcc-La = dhcp-La + LaMg\] and not to the reaction \[fcc-La + LaMg = dhcp-La\] \[10\].” |
+| Phase transition | 661.15 K | 661.15 | other | model | [3] Zhang 2016 | p. 7; `ORC-P7XIB6CNHJ` | “The decomposing temperature of LaMg2 is predicted to be 388 C.” |
+| Phase transition | 883.15 K | 883.15 | eutectic: L → LaMg12 + (Mg) | experimental | [3] Zhang 2016 | Table 4, p. 5, row 17; `ORC-EASB3YTUO5` |  |
+| Phase transition | 899 K | 899 | LaMg2 = LaMg + LaMg3 | model | [1] Berche 2011; _cites Berche 2011_ | p. 4; `ORC-QEOX5HNB3E` | “The LaMg2 phase decomposes on cooling into LaMg + LaMg3 at 899 K as suggested by Berche et al. \[5\].” |
+| Phase transition | 899.15 K | 899.15 | other | experimental | [3] Zhang 2016; _cites Vogel 1947_ | p. 1; `ORC-W54WGLZE6P.27c1cd` | “However, the decomposing temperature is questionable due to the inconsistence of the results from Vogel and Henmann (626 C) \[7\] and Manfrinetti and Gschneidner (725 C) \[8\].” |
+| Phase transition | 924.15 K | 924.15 | peritectic: L + La2Mg17 → LaMg12 | experimental | [3] Zhang 2016 | Table 4, p. 5, row 18; `ORC-YXMQAP5B3K` |  |
+| Phase transition | 933.15 K | 933.15 | other: L / L + La2Mg17 | experimental | [3] Zhang 2016 | Table 4, p. 5, row 19; `ORC-OB26ANJE4O` |  |
+| Phase transition | 941.15 K | 941.15 | other: LaMg3 + La2Mg17 → La5Mg41 | experimental | [3] Zhang 2016 | Table 4, p. 5, row 13; `ORC-YC3TE2BSXI` |  |
+| Phase transition | 945.15 K | 945.15 | peritectic: L + LaMg3 → La2Mg17 | experimental | [3] Zhang 2016 | Table 4, p. 5, row 16; `ORC-2GVVFX3ELM` |  |
+| Phase transition | 998.15 K | 998.15 | other | model | [5] Gröbner 2010; _cites Massalski 1990_ | p. 2; `ORC-BMND2VAIOK` | “For the related binary compound LaMg2 (same C15 structure type, cF24-Cu2Mg) a solid solution (La,Y)1(Mg)2 at 500 °C from 0 to 42 wt.% Y is reported \[11\], see Table 1, whereas the currently accepted binary Mg-La phase diagram \[12\] shows a eutectoidal decomposition of LaMg2 at 725 °C.” |
+| Phase transition | 998.15 K | 998.15 | other | experimental | [3] Zhang 2016 | p. 1; `ORC-GAQOPIID7X` | “LaMg2 was assessed to be unstable at the low temperature and decompose at 725 C.” |
+| Phase transition | 998.15 K | 998.15 | other | experimental | [3] Zhang 2016; _cites Manfrinetti 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990135-9) | p. 1; `ORC-W54WGLZE6P.9ea405` | “However, the decomposing temperature is questionable due to the inconsistence of the results from Vogel and Henmann (626 C) \[7\] and Manfrinetti and Gschneidner (725 C) \[8\].” |
+| Phase transition | 1008.15 K | 1008.15 | peritectic: L + LaMg2 → LaMg | experimental | [3] Zhang 2016 | Table 4, p. 5, row 1; `ORC-M55RJJEVO4` |  |
+| Phase transition | 1014.15 K | 1014.15 | other: L / L + LaMg3 | experimental | [3] Zhang 2016 | Table 4, p. 5, row 15; `ORC-ZI7DR5IYF5` |  |
+| Phase transition | 1018 K | 1018 | liq → LaMg + LaMg2 | model | [2] Guo 2004 | p. 4; `ORC-ASBALWLUVO.12b497` | “In the present work, it is described as liq → LaMg at 1028 K and liq → LaMg + LaMg2 at 1018 K instead of liq + LaMg2 → LaMg at 1018 K reported by Nayeb-Hashemi and Clark \[6\].” |
+| Phase transition | 1027.15 K | 1027.15 | LþLaMg2/LaMg | model | [4] Zhu 2018 | p. 6; `ORC-WFMEQ4VRI6` | “In order to match the stability of LaMg2 above 388 C and the reaction type of LþLaMg2/LaMg at 754 C, the Gibbs free energy of LaMg2 was modified.” |
+| Phase transition | 1028 K | 1028 | liq → LaMg | model | [2] Guo 2004 | p. 4; `ORC-ASBALWLUVO.6eeba4` | “In the present work, it is described as liq → LaMg at 1028 K and liq → LaMg + LaMg2 at 1018 K instead of liq + LaMg2 → LaMg at 1018 K reported by Nayeb-Hashemi and Clark \[6\].” |
+| Phase transition | 1033.15 K | 1033.15 | other: L / L + LaMg2 | experimental | [3] Zhang 2016 | Table 4, p. 5, row 2; `ORC-4DVVIMLK2R` |  |
+| Phase transition | 1034.15 K | 1034.15 | eutectic: L → LaMg2 + LaMg3 | experimental | [3] Zhang 2016 | Table 4, p. 5, row 10; `ORC-3KMDJF6YLP` |  |
+| Phase transition | 1035.15 K | 1035.15 | eutectic: L → LaMg2 + LaMg3 | experimental | [3] Zhang 2016 | Table 4, p. 5, row 8; `ORC-7IPMZTSS4K` |  |
+| Phase transition | 1044.15 K | 1044.15 | other: L / L + LaMg3 | experimental | [3] Zhang 2016 | Table 4, p. 5, row 9; `ORC-3YLVNVS3VC` |  |
+| Phase transition | 1045.15 K | 1045.15 | other: L / L + LaMg2 | experimental | [3] Zhang 2016 | Table 4, p. 5, row 7; `ORC-3AJ5CKNIGS` |  |
+| Phase transition | 1052.15 K | 1052.15 | other: L / L + LaMg3 | experimental | [3] Zhang 2016 | Table 4, p. 5, row 11; `ORC-CCZPMTSEEC` |  |
+| Phase transition | 1056.15 K | 1056.15 | congruent transformation: L → LaMg2 | experimental | [3] Zhang 2016 | Table 4, p. 5, row 5; `ORC-PITANO4AEN` |  |
+| Phase transition | 1058.15 K | 1058.15 | other: L / L + LaMg3 | experimental | [3] Zhang 2016 | Table 4, p. 5, row 12; `ORC-DLOXEJ6KG5` |  |
+| Phase transition | 1071.15 K | 1071.15 | congruent transformation | experimental | [3] Zhang 2016 | p. 1; `ORC-G4KVDOEUD6` | “LaMg3 was reported to form congruently from liquid at 798 C.” |
 
 ### Phase equilibrium (18)
 
@@ -306,24 +306,24 @@ Table: Phase equilibrium, La–Mg system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase assemblage |  |  | LaMg + LaMg2; _alloy: La 0.386, Mg 0.614_ | experimental | [4] Zhu 2018 | Table 2, p. 3, row 1 |  |
-| Phase assemblage |  |  | LaMg2 + LaMg3; _alloy: La 0.3215, Mg 0.6785_ | experimental | [4] Zhu 2018 | Table 2, p. 3, row 2 |  |
-| Phase assemblage |  | 633.15 | LaMg2 + LaMg + LaMg3; _alloy: Mg 0.666667_ | experimental | [3] Zhang 2016 | Table 5, p. 5, row 3 |  |
-| Phase assemblage |  | 773.15 | La2Mg17; _alloy: La 0.1085, Mg 0.8915_ | experimental | [4] Zhu 2018 | Table 2, p. 3, row 6 |  |
-| Phase assemblage |  | 773.15 | LaMg + LaMg2; _alloy: La 0.386, Mg 0.614_ | experimental | [4] Zhu 2018 | Table 2, p. 3, row 3 |  |
-| Phase assemblage |  | 773.15 | LaMg2 + LaMg3; _alloy: La 0.3215, Mg 0.6785_ | experimental | [4] Zhu 2018 | Table 2, p. 3, row 4 |  |
-| Phase assemblage |  | 773.15 | LaMg3 + La2Mg17; _alloy: La 0.1647, Mg 0.8353_ | experimental | [4] Zhu 2018 | Table 2, p. 3, row 5 |  |
-| Phase composition |  |  | La2Mg17 + LaMg12 + (Mg) + Eutectic (Mg)+LaMg12; _La2Mg17: La 0.082, Mg 0.918; LaMg12: La 0.076, Mg 0.924; Eutectic (Mg)+LaMg12: La 0.028, Mg 0.972_ | experimental | [3] Zhang 2016 | Table 3, p. 3, row 6 |  |
-| Phase composition |  |  | La2Mg17 + LaMg3; _La2Mg17: La 0.097, Mg 0.903; LaMg3: La 0.201, Mg 0.799_ | experimental | [3] Zhang 2016 | Table 3, p. 3, row 5 |  |
-| Phase composition |  |  | LaMg + (La); _LaMg: La 0.516, Mg 0.484; (La): La 0.814, Mg 0.186_ | experimental | [3] Zhang 2016 | Table 3, p. 3, row 1 |  |
-| Phase composition |  |  | LaMg2 + LaMg; _LaMg2: La 0.333, Mg 0.667; LaMg: La 0.496, Mg 0.504_ | experimental | [3] Zhang 2016 | Table 3, p. 3, row 2 |  |
-| Phase composition |  |  | LaMg3 + LaMg2; _LaMg3: La 0.242, Mg 0.758; LaMg2: La 0.314, Mg 0.686_ | experimental | [3] Zhang 2016 | Table 3, p. 3, row 3 |  |
-| Phase composition |  |  | LaMg3 + LaMg2; _LaMg3: La 0.242, Mg 0.758; LaMg2: La 0.319, Mg 0.681_ | experimental | [3] Zhang 2016 | Table 3, p. 3, row 4 |  |
-| Phase composition |  | 773.15 | La5Mg41 + LaMg3 + La2Mg17; _La5Mg41: La 0.105, Mg 0.895; LaMg3: La 0.191, Mg 0.809; La2Mg17: La 0.101, Mg 0.899_ | experimental | [3] Zhang 2016 | Table 5, p. 5, row 6 |  |
-| Phase composition |  | 773.15 | LaMg + (La); _LaMg: La 0.505, Mg 0.495; (La): La 0.955, Mg 0.045_ | experimental | [3] Zhang 2016 | Table 5, p. 5, row 1 |  |
-| Phase composition |  | 773.15 | LaMg2 + LaMg; _LaMg2: La 0.331, Mg 0.669; LaMg: La 0.503, Mg 0.497_ | experimental | [3] Zhang 2016 | Table 5, p. 5, row 2 |  |
-| Phase composition |  | 773.15 | LaMg2 + LaMg3; _LaMg2: La 0.338, Mg 0.662; LaMg3: La 0.234, Mg 0.766_ | experimental | [3] Zhang 2016 | Table 5, p. 5, row 4 |  |
-| Phase composition |  | 873.15 | La5Mg41 + LaMg3; _La5Mg41: La 0.106, Mg 0.894; LaMg3: La 0.185, Mg 0.815_ | experimental | [3] Zhang 2016 | Table 5, p. 5, row 5 |  |
+| Phase assemblage |  |  | LaMg + LaMg2; _alloy: La 0.386, Mg 0.614_ | experimental | [4] Zhu 2018 | Table 2, p. 3, row 1; `ORC-AVTSUNCPH5` |  |
+| Phase assemblage |  |  | LaMg2 + LaMg3; _alloy: La 0.3215, Mg 0.6785_ | experimental | [4] Zhu 2018 | Table 2, p. 3, row 2; `ORC-REINNALNCB` |  |
+| Phase assemblage |  | 633.15 | LaMg2 + LaMg + LaMg3; _alloy: Mg 0.666667_ | experimental | [3] Zhang 2016 | Table 5, p. 5, row 3; `ORC-ND3DOYGXUY` |  |
+| Phase assemblage |  | 773.15 | La2Mg17; _alloy: La 0.1085, Mg 0.8915_ | experimental | [4] Zhu 2018 | Table 2, p. 3, row 6; `ORC-OLK3DYJFJ3` |  |
+| Phase assemblage |  | 773.15 | LaMg + LaMg2; _alloy: La 0.386, Mg 0.614_ | experimental | [4] Zhu 2018 | Table 2, p. 3, row 3; `ORC-X7WPDUJTVJ` |  |
+| Phase assemblage |  | 773.15 | LaMg2 + LaMg3; _alloy: La 0.3215, Mg 0.6785_ | experimental | [4] Zhu 2018 | Table 2, p. 3, row 4; `ORC-CZ52M24NUO` |  |
+| Phase assemblage |  | 773.15 | LaMg3 + La2Mg17; _alloy: La 0.1647, Mg 0.8353_ | experimental | [4] Zhu 2018 | Table 2, p. 3, row 5; `ORC-ABGMC3RHF2` |  |
+| Phase composition |  |  | La2Mg17 + LaMg12 + (Mg) + Eutectic (Mg)+LaMg12; _La2Mg17: La 0.082, Mg 0.918; LaMg12: La 0.076, Mg 0.924; Eutectic (Mg)+LaMg12: La 0.028, Mg 0.972_ | experimental | [3] Zhang 2016 | Table 3, p. 3, row 6; `ORC-2LTPVEESRE` |  |
+| Phase composition |  |  | La2Mg17 + LaMg3; _La2Mg17: La 0.097, Mg 0.903; LaMg3: La 0.201, Mg 0.799_ | experimental | [3] Zhang 2016 | Table 3, p. 3, row 5; `ORC-G63TLJ36AD` |  |
+| Phase composition |  |  | LaMg + (La); _LaMg: La 0.516, Mg 0.484; (La): La 0.814, Mg 0.186_ | experimental | [3] Zhang 2016 | Table 3, p. 3, row 1; `ORC-XQUBBEHWHV` |  |
+| Phase composition |  |  | LaMg2 + LaMg; _LaMg2: La 0.333, Mg 0.667; LaMg: La 0.496, Mg 0.504_ | experimental | [3] Zhang 2016 | Table 3, p. 3, row 2; `ORC-NPX3V2MDIJ` |  |
+| Phase composition |  |  | LaMg3 + LaMg2; _LaMg3: La 0.242, Mg 0.758; LaMg2: La 0.314, Mg 0.686_ | experimental | [3] Zhang 2016 | Table 3, p. 3, row 3; `ORC-JARAYUAQVQ` |  |
+| Phase composition |  |  | LaMg3 + LaMg2; _LaMg3: La 0.242, Mg 0.758; LaMg2: La 0.319, Mg 0.681_ | experimental | [3] Zhang 2016 | Table 3, p. 3, row 4; `ORC-WTQ2SB343V` |  |
+| Phase composition |  | 773.15 | La5Mg41 + LaMg3 + La2Mg17; _La5Mg41: La 0.105, Mg 0.895; LaMg3: La 0.191, Mg 0.809; La2Mg17: La 0.101, Mg 0.899_ | experimental | [3] Zhang 2016 | Table 5, p. 5, row 6; `ORC-ITFV2UGTMB` |  |
+| Phase composition |  | 773.15 | LaMg + (La); _LaMg: La 0.505, Mg 0.495; (La): La 0.955, Mg 0.045_ | experimental | [3] Zhang 2016 | Table 5, p. 5, row 1; `ORC-X4TT2GOE2Y` |  |
+| Phase composition |  | 773.15 | LaMg2 + LaMg; _LaMg2: La 0.331, Mg 0.669; LaMg: La 0.503, Mg 0.497_ | experimental | [3] Zhang 2016 | Table 5, p. 5, row 2; `ORC-L5KZ6H6PVT` |  |
+| Phase composition |  | 773.15 | LaMg2 + LaMg3; _LaMg2: La 0.338, Mg 0.662; LaMg3: La 0.234, Mg 0.766_ | experimental | [3] Zhang 2016 | Table 5, p. 5, row 4; `ORC-J5NKOOOF2I` |  |
+| Phase composition |  | 873.15 | La5Mg41 + LaMg3; _La5Mg41: La 0.106, Mg 0.894; LaMg3: La 0.185, Mg 0.815_ | experimental | [3] Zhang 2016 | Table 5, p. 5, row 5; `ORC-PO42NYEQ52` |  |
 
 ### Crystal structure (13)
 
@@ -331,19 +331,19 @@ Table: Crystal structure, La–Mg system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 1.037 not_printed | 298.15 | La2Mg17; _alloy: Mg 0.894737_ | experimental | [6] Zhou 2010; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 1, p. 3, row 11 |  |
-| Lattice a | 1.4822 not_printed | 298.15 | La5Mg41; _alloy: Mg 0.891304_ | experimental | [6] Zhou 2010; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 1, p. 3, row 10 |  |
-| Lattice a | 0.3962 not_printed | 298.15 | LaMg; _alloy: Mg 0.5_ | model | [6] Zhou 2010; _cites Villars 1991_ | Table 1, p. 3, row 7 |  |
-| Lattice a | 1.034 not_printed | 298.15 | LaMg12; _alloy: Mg 0.923077_ | experimental | [6] Zhou 2010; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 1, p. 3, row 12 |  |
-| Lattice a | 1.033 not_printed | 298.15 | LaMg12; _alloy: Mg 0.923077_ | experimental | [6] Zhou 2010; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 1, p. 3, row 12 |  |
-| Lattice a | 0.8774 not_printed | 298.15 | LaMg2; _alloy: Mg 0.666667_ | model | [6] Zhou 2010; _cites Villars 1991_ | Table 1, p. 3, row 8 |  |
-| Lattice a | 0.7494 not_printed | 298.15 | LaMg3; _alloy: Mg 0.75_ | model | [6] Zhou 2010; _cites Villars 1991_ | Table 1, p. 3, row 9 |  |
-| Lattice b | 1.033 not_printed | 298.15 | LaMg12; _alloy: Mg 0.923077_ | experimental | [6] Zhou 2010; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 1, p. 3, row 12 |  |
-| Lattice b | 1.034 not_printed | 298.15 | LaMg12; _alloy: Mg 0.923077_ | experimental | [6] Zhou 2010; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 1, p. 3, row 12 |  |
-| Lattice c | 1.024 not_printed | 298.15 | La2Mg17; _alloy: Mg 0.894737_ | experimental | [6] Zhou 2010; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 1, p. 3, row 11 |  |
-| Lattice c | 1.0468 not_printed | 298.15 | La5Mg41; _alloy: Mg 0.891304_ | experimental | [6] Zhou 2010; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 1, p. 3, row 10 |  |
-| Lattice c | 7.774 not_printed | 298.15 | LaMg12; _alloy: Mg 0.923077_ | experimental | [6] Zhou 2010; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 1, p. 3, row 12 |  |
-| Lattice c | 7.749 not_printed | 298.15 | LaMg12; _alloy: Mg 0.923077_ | experimental | [6] Zhou 2010; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 1, p. 3, row 12 |  |
+| Lattice a | 1.037 not_printed | 298.15 | La2Mg17; _alloy: Mg 0.894737_ | experimental | [6] Zhou 2010; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 1, p. 3, row 11; `ORC-7NEUDDP5BB.4b23ab` |  |
+| Lattice a | 1.4822 not_printed | 298.15 | La5Mg41; _alloy: Mg 0.891304_ | experimental | [6] Zhou 2010; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 1, p. 3, row 10; `ORC-QT7PK5JOLJ.2a857c` |  |
+| Lattice a | 0.3962 not_printed | 298.15 | LaMg; _alloy: Mg 0.5_ | model | [6] Zhou 2010; _cites Villars 1991_ | Table 1, p. 3, row 7; `ORC-WAVRPOVDSX` |  |
+| Lattice a | 1.034 not_printed | 298.15 | LaMg12; _alloy: Mg 0.923077_ | experimental | [6] Zhou 2010; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 1, p. 3, row 12; `ORC-HZUJZOOUFX.0dfffd` |  |
+| Lattice a | 1.033 not_printed | 298.15 | LaMg12; _alloy: Mg 0.923077_ | experimental | [6] Zhou 2010; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 1, p. 3, row 12; `ORC-HZUJZOOUFX.fc0e32` |  |
+| Lattice a | 0.8774 not_printed | 298.15 | LaMg2; _alloy: Mg 0.666667_ | model | [6] Zhou 2010; _cites Villars 1991_ | Table 1, p. 3, row 8; `ORC-6COBH63FRG` |  |
+| Lattice a | 0.7494 not_printed | 298.15 | LaMg3; _alloy: Mg 0.75_ | model | [6] Zhou 2010; _cites Villars 1991_ | Table 1, p. 3, row 9; `ORC-XA77JJGDNV` |  |
+| Lattice b | 1.033 not_printed | 298.15 | LaMg12; _alloy: Mg 0.923077_ | experimental | [6] Zhou 2010; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 1, p. 3, row 12; `ORC-HZUJZOOUFX.002340` |  |
+| Lattice b | 1.034 not_printed | 298.15 | LaMg12; _alloy: Mg 0.923077_ | experimental | [6] Zhou 2010; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 1, p. 3, row 12; `ORC-HZUJZOOUFX.fa6290` |  |
+| Lattice c | 1.024 not_printed | 298.15 | La2Mg17; _alloy: Mg 0.894737_ | experimental | [6] Zhou 2010; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 1, p. 3, row 11; `ORC-7NEUDDP5BB.ae1049` |  |
+| Lattice c | 1.0468 not_printed | 298.15 | La5Mg41; _alloy: Mg 0.891304_ | experimental | [6] Zhou 2010; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 1, p. 3, row 10; `ORC-QT7PK5JOLJ.6f035c` |  |
+| Lattice c | 7.774 not_printed | 298.15 | LaMg12; _alloy: Mg 0.923077_ | experimental | [6] Zhou 2010; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 1, p. 3, row 12; `ORC-HZUJZOOUFX.30a067` |  |
+| Lattice c | 7.749 not_printed | 298.15 | LaMg12; _alloy: Mg 0.923077_ | experimental | [6] Zhou 2010; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 1, p. 3, row 12; `ORC-HZUJZOOUFX.bcf718` |  |
 
 ## Sources
 
@@ -413,4 +413,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

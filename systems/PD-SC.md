@@ -60,9 +60,9 @@ Table: Enthalpies of formation, Pd–Sc system (3)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Pd2Sc | [Pd2Sc](https://data.orchid-project.org/compounds/Pd2Sc.html) | -84.788 kJ/mol-atom | 298.15 | model |  | -85.935 (oqmd-1339201) | [1] Kardellass 2020; _cites Du 2002_ | Table 3, p. 5, row 59 |  |
-| Pd3Sc | [Pd3Sc](https://data.orchid-project.org/compounds/Pd3Sc.html) | -82.174 kJ/mol-atom | 298.15 | model | -82.551 (mp-aaaaadyz) | -82.436 (oqmd-17945) | [1] Kardellass 2020; _cites Du 2002_ | Table 3, p. 5, row 1 |  |
-| PdSc | [PdSc](https://data.orchid-project.org/compounds/PdSc.html) | -89.25 kJ/mol-atom | 298.15 | model | -87.586 (mp-aaaaaecz) | -87.551 (oqmd-17944) | [1] Kardellass 2020; _cites Du 2002_ | Table 3, p. 5, row 21 |  |
+| Pd2Sc | [Pd2Sc](https://data.orchid-project.org/compounds/Pd2Sc.html) | -84.788 kJ/mol-atom | 298.15 | model |  | -85.935 (oqmd-1339201) | [1] Kardellass 2020; _cites Du 2002_ | Table 3, p. 5, row 59; `ORC-SOFT6TG2IB.394726` |  |
+| Pd3Sc | [Pd3Sc](https://data.orchid-project.org/compounds/Pd3Sc.html) | -82.174 kJ/mol-atom | 298.15 | model | -82.551 (mp-aaaaadyz) | -82.436 (oqmd-17945) | [1] Kardellass 2020; _cites Du 2002_ | Table 3, p. 5, row 1; `ORC-EGYHIUQGCT.70c09b` |  |
+| PdSc | [PdSc](https://data.orchid-project.org/compounds/PdSc.html) | -89.25 kJ/mol-atom | 298.15 | model | -87.586 (mp-aaaaaecz) | -87.551 (oqmd-17944) | [1] Kardellass 2020; _cites Du 2002_ | Table 3, p. 5, row 21; `ORC-7KZ3MPNZND.80afe6` |  |
 
 ## Other properties
 
@@ -72,10 +72,10 @@ Table: Formation, Pd–Sc system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy of formation | 13.61 J/mol-atom/K | 298.15 | PdSc; _alloy: Pd 0.5, Sc 0.5_ | model | [1] Kardellass 2020; _cites Du 2002_ | Table 3, p. 5, row 21 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -89.6106 kJ/mol-atom | 298.15 | Pd2Sc; _alloy: Pd 0.666667, Sc 0.333333_ | model | [1] Kardellass 2020; _cites Du 2002_ | Table 3, p. 5, row 59 |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -87.5794 kJ/mol-atom | 298.15 | Pd3Sc; _alloy: Pd 0.75, Sc 0.25_ | model | [1] Kardellass 2020; _cites Du 2002_ | Table 3, p. 5, row 1 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -93.3078 kJ/mol-atom | 298.15 | PdSc; _alloy: Pd 0.5, Sc 0.5_ | model | [1] Kardellass 2020; _cites Du 2002_ | Table 3, p. 5, row 21 |  |
+| Entropy of formation | 13.61 J/mol-atom/K | 298.15 | PdSc; _alloy: Pd 0.5, Sc 0.5_ | model | [1] Kardellass 2020; _cites Du 2002_ | Table 3, p. 5, row 21; `ORC-7KZ3MPNZND.aef6d4` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -89.6106 kJ/mol-atom | 298.15 | Pd2Sc; _alloy: Pd 0.666667, Sc 0.333333_ | model | [1] Kardellass 2020; _cites Du 2002_ | Table 3, p. 5, row 59; `ORC-SOFT6TG2IB.13af41` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -87.5794 kJ/mol-atom | 298.15 | Pd3Sc; _alloy: Pd 0.75, Sc 0.25_ | model | [1] Kardellass 2020; _cites Du 2002_ | Table 3, p. 5, row 1; `ORC-EGYHIUQGCT.61f570` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -93.3078 kJ/mol-atom | 298.15 | PdSc; _alloy: Pd 0.5, Sc 0.5_ | model | [1] Kardellass 2020; _cites Du 2002_ | Table 3, p. 5, row 21; `ORC-7KZ3MPNZND.74d024` |  |
 
 ### Heat capacity / entropy / enthalpy (2)
 
@@ -83,8 +83,8 @@ Table: Heat capacity / entropy / enthalpy, Pd–Sc system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: ΔfS_ | 16.175 J/mol-atom/K | 298.15 | Pd2Sc; _alloy: Pd 0.666667, Sc 0.333333_ | model | [1] Kardellass 2020; _cites Du 2002_ | Table 3, p. 5, row 59 |  |
-| Entropy; _printed: Entropy of formation_ | 18.13 J/mol-atom/K | 298.15 | Pd3Sc; _alloy: Pd 0.75, Sc 0.25_ | model | [1] Kardellass 2020; _cites Du 2002_ | Table 3, p. 5, row 1 |  |
+| Entropy; _printed: ΔfS_ | 16.175 J/mol-atom/K | 298.15 | Pd2Sc; _alloy: Pd 0.666667, Sc 0.333333_ | model | [1] Kardellass 2020; _cites Du 2002_ | Table 3, p. 5, row 59; `ORC-SOFT6TG2IB.c2a796` |  |
+| Entropy; _printed: Entropy of formation_ | 18.13 J/mol-atom/K | 298.15 | Pd3Sc; _alloy: Pd 0.75, Sc 0.25_ | model | [1] Kardellass 2020; _cites Du 2002_ | Table 3, p. 5, row 1; `ORC-EGYHIUQGCT.60d469` |  |
 
 ## Sources
 
@@ -149,4 +149,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

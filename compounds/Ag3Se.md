@@ -14,10 +14,10 @@ Table: Enthalpy of formation of Ag3Se reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| 13.937 kJ/mol-atom | β-Ag6Se2 |  | DFT | DFT | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018 | Table 4, p. 6, row 11 |  |
-| 13.937 kJ/mol-atom | β-Ag₆Se₂ | 0 | DFT | DFT | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018 | Table 4, p. 6, row 11 |  |
-| 22.092 kJ/mol-atom | β-Ag₆Se₂ | 0 | DFT | DFT | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018 | Table 4, p. 6, row 12 |  |
-| 22.092 kJ/mol-atom | β-Ag6Se2 |  | DFT | DFT | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018 | Table 4, p. 6, row 12 |  |
+| 13.937 kJ/mol-atom | β-Ag6Se2 |  | DFT | DFT | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018 | Table 4, p. 6, row 11; `ORC-FTPU3E5TTQ.038558` |  |
+| 13.937 kJ/mol-atom | β-Ag₆Se₂ | 0 | DFT | DFT | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018 | Table 4, p. 6, row 11; `ORC-FTPU3E5TTQ.3cc763` |  |
+| 22.092 kJ/mol-atom | β-Ag₆Se₂ | 0 | DFT | DFT | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018 | Table 4, p. 6, row 12; `ORC-F6WUAXESL4.93d4ac` |  |
+| 22.092 kJ/mol-atom | β-Ag6Se2 |  | DFT | DFT | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018 | Table 4, p. 6, row 12; `ORC-F6WUAXESL4.a1a014` |  |
 
 ### Uncertainty budget
 
@@ -83,4 +83,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

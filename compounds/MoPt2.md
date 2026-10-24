@@ -14,15 +14,15 @@ Table: Enthalpy of formation of MoPt2 reported in the literature (9)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -36.9 kJ/mol (basis unstated) ± 1.8 | MoPt2 | 298.15 | experimental | high temperature direct reaction calorimetry | [Mo–Pt](https://data.orchid-project.org/systems/MO-PT.html) | [1] Fiorani 2024; _cites My 2009_ | Table 4, p. 20, row 4 |  |
-| -34.639 kJ/mol (basis unstated) | MoPt2 | 0 | model | CALPHAD | [Mo–Pt](https://data.orchid-project.org/systems/MO-PT.html) | [1] Fiorani 2024 | Table 5, p. 21, row 4 |  |
-| -32.8 kJ/mol (basis unstated) | MoPt2 | 298.15 | model |  | [Mo–Pt](https://data.orchid-project.org/systems/MO-PT.html) | [1] Fiorani 2024 | Table 4, p. 20, row 9 |  |
-| -4.053 kJ/mol (basis unstated) | MoPt2 | 0 | model | CALPHAD | [Mo–Pt](https://data.orchid-project.org/systems/MO-PT.html) | [1] Fiorani 2024 | Table 5, p. 21, row 2 |  |
-| -37.6 kJ/mol (basis unstated) | MoPt2 | 0 | DFT | DFT | [Mo–Pt](https://data.orchid-project.org/systems/MO-PT.html) | [1] Fiorani 2024; _cites Curtarolo 2005_ [doi](https://doi.org/10.1016/j.calphad.2005.01.002) | Table 5, p. 21, row 6 |  |
-| -37.6 kJ/mol (basis unstated) | MoPt2 | 0 | DFT | DFT | [Mo–Pt](https://data.orchid-project.org/systems/MO-PT.html) | [1] Fiorani 2024; _cites Lu 1994_ [doi](https://doi.org/10.1103/physrevb.50.5962) | Table 5, p. 21, row 5 |  |
-| -37.6 kJ/mol (basis unstated) | MoPt2 | 0 | DFT | DFT | [Mo–Pt](https://data.orchid-project.org/systems/MO-PT.html) | [1] Fiorani 2024; _cites Stojkovic 2008_ [doi](https://doi.org/10.1103/physrevb.77.193111) | Table 5, p. 21, row 7 |  |
-| -34.707 kJ/mol (basis unstated) | MoPt2 | 0 | DFT | DFT | [Mo–Pt](https://data.orchid-project.org/systems/MO-PT.html) | [1] Fiorani 2024 | Table 5, p. 21, row 3 |  |
-| -4.049 kJ/mol (basis unstated) | MoPt2 | 0 | DFT | DFT | [Mo–Pt](https://data.orchid-project.org/systems/MO-PT.html) | [1] Fiorani 2024 | Table 5, p. 21, row 1 |  |
+| -36.9 kJ/mol (basis unstated) ± 1.8 | MoPt2 | 298.15 | experimental | high temperature direct reaction calorimetry | [Mo–Pt](https://data.orchid-project.org/systems/MO-PT.html) | [1] Fiorani 2024; _cites My 2009_ | Table 4, p. 20, row 4; `ORC-XCPAW7JWPV.4acb9f` |  |
+| -34.639 kJ/mol (basis unstated) | MoPt2 | 0 | model | CALPHAD | [Mo–Pt](https://data.orchid-project.org/systems/MO-PT.html) | [1] Fiorani 2024 | Table 5, p. 21, row 4; `ORC-BGP3AMEMF7` |  |
+| -32.8 kJ/mol (basis unstated) | MoPt2 | 298.15 | model |  | [Mo–Pt](https://data.orchid-project.org/systems/MO-PT.html) | [1] Fiorani 2024 | Table 4, p. 20, row 9; `ORC-DVNUG26LLC.2acbec` |  |
+| -4.053 kJ/mol (basis unstated) | MoPt2 | 0 | model | CALPHAD | [Mo–Pt](https://data.orchid-project.org/systems/MO-PT.html) | [1] Fiorani 2024 | Table 5, p. 21, row 2; `ORC-FWJ35QJEE4` |  |
+| -37.6 kJ/mol (basis unstated) | MoPt2 | 0 | DFT | DFT | [Mo–Pt](https://data.orchid-project.org/systems/MO-PT.html) | [1] Fiorani 2024; _cites Curtarolo 2005_ [doi](https://doi.org/10.1016/j.calphad.2005.01.002) | Table 5, p. 21, row 6; `ORC-EG3YLFFPFT` |  |
+| -37.6 kJ/mol (basis unstated) | MoPt2 | 0 | DFT | DFT | [Mo–Pt](https://data.orchid-project.org/systems/MO-PT.html) | [1] Fiorani 2024; _cites Lu 1994_ [doi](https://doi.org/10.1103/physrevb.50.5962) | Table 5, p. 21, row 5; `ORC-QG5YOAORUT` |  |
+| -37.6 kJ/mol (basis unstated) | MoPt2 | 0 | DFT | DFT | [Mo–Pt](https://data.orchid-project.org/systems/MO-PT.html) | [1] Fiorani 2024; _cites Stojkovic 2008_ [doi](https://doi.org/10.1103/physrevb.77.193111) | Table 5, p. 21, row 7; `ORC-UMNLX7ZOXL` |  |
+| -34.707 kJ/mol (basis unstated) | MoPt2 | 0 | DFT | DFT | [Mo–Pt](https://data.orchid-project.org/systems/MO-PT.html) | [1] Fiorani 2024 | Table 5, p. 21, row 3; `ORC-UFFA4FS7BJ` |  |
+| -4.049 kJ/mol (basis unstated) | MoPt2 | 0 | DFT | DFT | [Mo–Pt](https://data.orchid-project.org/systems/MO-PT.html) | [1] Fiorani 2024 | Table 5, p. 21, row 1; `ORC-J34TXAXP7C` |  |
 
 ### Uncertainty budget
 
@@ -93,4 +93,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

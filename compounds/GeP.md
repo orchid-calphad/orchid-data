@@ -14,23 +14,23 @@ Table: Enthalpy of formation of GeP reported in the literature (17)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -12.56 kJ/mol-atom | Ge1P1 | 298.15 | experimental |  | [Ge–P](https://data.orchid-project.org/systems/GE-P.html) | [1] Dong 2021; _cites Zumbusch 1939_ [doi](https://doi.org/10.1002/zaac.19392420304) | Table II, p. 6, row 1 |  |
-| -12.19 per mol-atom ± 1.5 | Ge1P1 | 298.15 | experimental |  | [Ge–P](https://data.orchid-project.org/systems/GE-P.html) | [1] Dong 2021; _cites Suess 1982_ | Table II, p. 6, row 3 |  |
-| -13.82 kJ/mol-atom | Ge1P1 | 298.15 | model | CALPHAD | [Ge–P](https://data.orchid-project.org/systems/GE-P.html) | [1] Dong 2021 | Table II, p. 6, row 6 |  |
-| -13.6 kJ/mol-atom | Ge1P1 | 298.15 | model |  | [Ge–P](https://data.orchid-project.org/systems/GE-P.html) | [1] Dong 2021; _cites Barin 1977_ [doi](https://doi.org/10.1007/978-3-662-02293-1) | Table II, p. 6, row 5 |  |
-| -11.442 kJ/mol-atom | GeP | 298.15 | model | CALPHAD | [Ge–P](https://data.orchid-project.org/systems/GE-P.html) | [2] Chen 2022 | Table II, p. 3, row 51 |  |
-| -11.44 kJ/mol-atom | GeP | 0 | model | First–principles | [Ge–P](https://data.orchid-project.org/systems/GE-P.html) | [2] Chen 2022; _cites Saal 2013_ | Table II, p. 3, row 48 |  |
-| -10.5 kJ/mol-atom | Ge1P1 | 298.15 | model |  | [Ge–P](https://data.orchid-project.org/systems/GE-P.html) | [1] Dong 2021; _cites Lide 2005_ | Table II, p. 6, row 2 |  |
-| 1.44 kJ/mol-atom | GeP | 0 | model | First–principles | [Ge–P](https://data.orchid-project.org/systems/GE-P.html) | [2] Chen 2022; _cites ref. 36_ | Table II, p. 3, row 49 |  |
-| -11.4818 kJ/mol-atom | GeP | 0 | DFT | DFT, GGA | [Ge–P](https://data.orchid-project.org/systems/GE-P.html) | [1] Dong 2021; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table I, p. 5, row 3 |  |
-| -11.48 kJ/mol-atom | GeP | 0 | DFT | DFT, GGA | [Ge–P](https://data.orchid-project.org/systems/GE-P.html) | [1] Dong 2021; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table I, p. 5, row 3 |  |
-| -3.86 kJ/mol-atom | GeP | 0 | DFT | DFT, GGA | [Ge–P](https://data.orchid-project.org/systems/GE-P.html) | [1] Dong 2021; _cites Curtarolo 2012_ [doi](https://doi.org/10.1016/j.commatsci.2012.02.005) | Table I, p. 5, row 5 |  |
-| -3.85941 kJ/mol-atom | GeP | 0 | DFT | DFT, GGA | [Ge–P](https://data.orchid-project.org/systems/GE-P.html) | [1] Dong 2021; _cites Curtarolo 2012_ [doi](https://doi.org/10.1016/j.commatsci.2012.02.005) | Table I, p. 5, row 5 |  |
-| -0.072364 kJ/mol-atom | GeP | 0 | DFT | DFT, GGA | [Ge–P](https://data.orchid-project.org/systems/GE-P.html) | [1] Dong 2021 | Table I, p. 5, row 6 |  |
-| -0.072 kJ/mol-atom | GeP | 0 | DFT | DFT, GGA | [Ge–P](https://data.orchid-project.org/systems/GE-P.html) | [1] Dong 2021 | Table I, p. 5, row 6 |  |
-| 1.44728 kJ/mol-atom | GeP | 0 | DFT | DFT, GGA | [Ge–P](https://data.orchid-project.org/systems/GE-P.html) | [1] Dong 2021; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table I, p. 5, row 4 |  |
-| 1.45 kJ/mol-atom | GeP | 0 | DFT | DFT, GGA | [Ge–P](https://data.orchid-project.org/systems/GE-P.html) | [1] Dong 2021; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table I, p. 5, row 4 |  |
-| -0.17 kJ/mol-atom | GeP | 0 | unspecified | First–principles | [Ge–P](https://data.orchid-project.org/systems/GE-P.html) | [2] Chen 2022 | Table II, p. 3, row 50 |  |
+| -12.56 kJ/mol-atom | Ge1P1 | 298.15 | experimental |  | [Ge–P](https://data.orchid-project.org/systems/GE-P.html) | [1] Dong 2021; _cites Zumbusch 1939_ [doi](https://doi.org/10.1002/zaac.19392420304) | Table II, p. 6, row 1; `ORC-KZ6SOQYB5E` |  |
+| -12.19 per mol-atom ± 1.5 | Ge1P1 | 298.15 | experimental |  | [Ge–P](https://data.orchid-project.org/systems/GE-P.html) | [1] Dong 2021; _cites Suess 1982_ | Table II, p. 6, row 3; `ORC-PMOEVUHUWB.196093` |  |
+| -13.82 kJ/mol-atom | Ge1P1 | 298.15 | model | CALPHAD | [Ge–P](https://data.orchid-project.org/systems/GE-P.html) | [1] Dong 2021 | Table II, p. 6, row 6; `ORC-JNA7PDKMQ2.8cc84f` |  |
+| -13.6 kJ/mol-atom | Ge1P1 | 298.15 | model |  | [Ge–P](https://data.orchid-project.org/systems/GE-P.html) | [1] Dong 2021; _cites Barin 1977_ [doi](https://doi.org/10.1007/978-3-662-02293-1) | Table II, p. 6, row 5; `ORC-67FUWETMMC.0d66d3` |  |
+| -11.442 kJ/mol-atom | GeP | 298.15 | model | CALPHAD | [Ge–P](https://data.orchid-project.org/systems/GE-P.html) | [2] Chen 2022 | Table II, p. 3, row 51; `ORC-GPEQGVYTET.cad93e` |  |
+| -11.44 kJ/mol-atom | GeP | 0 | model | First–principles | [Ge–P](https://data.orchid-project.org/systems/GE-P.html) | [2] Chen 2022; _cites Saal 2013_ | Table II, p. 3, row 48; `ORC-XUKMNJEPBE.b70504` |  |
+| -10.5 kJ/mol-atom | Ge1P1 | 298.15 | model |  | [Ge–P](https://data.orchid-project.org/systems/GE-P.html) | [1] Dong 2021; _cites Lide 2005_ | Table II, p. 6, row 2; `ORC-THZKCHGMJH.5d4e3b` |  |
+| 1.44 kJ/mol-atom | GeP | 0 | model | First–principles | [Ge–P](https://data.orchid-project.org/systems/GE-P.html) | [2] Chen 2022; _cites ref. 36_ | Table II, p. 3, row 49; `ORC-6TKVKGZUN7.67693c` |  |
+| -11.4818 kJ/mol-atom | GeP | 0 | DFT | DFT, GGA | [Ge–P](https://data.orchid-project.org/systems/GE-P.html) | [1] Dong 2021; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table I, p. 5, row 3; `ORC-KIZ26JNI5Y.26d3bc` |  |
+| -11.48 kJ/mol-atom | GeP | 0 | DFT | DFT, GGA | [Ge–P](https://data.orchid-project.org/systems/GE-P.html) | [1] Dong 2021; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table I, p. 5, row 3; `ORC-KIZ26JNI5Y.61dcf9` |  |
+| -3.86 kJ/mol-atom | GeP | 0 | DFT | DFT, GGA | [Ge–P](https://data.orchid-project.org/systems/GE-P.html) | [1] Dong 2021; _cites Curtarolo 2012_ [doi](https://doi.org/10.1016/j.commatsci.2012.02.005) | Table I, p. 5, row 5; `ORC-VUDQAQ6TKN.8f8f0b` |  |
+| -3.85941 kJ/mol-atom | GeP | 0 | DFT | DFT, GGA | [Ge–P](https://data.orchid-project.org/systems/GE-P.html) | [1] Dong 2021; _cites Curtarolo 2012_ [doi](https://doi.org/10.1016/j.commatsci.2012.02.005) | Table I, p. 5, row 5; `ORC-VUDQAQ6TKN.421dae` |  |
+| -0.072364 kJ/mol-atom | GeP | 0 | DFT | DFT, GGA | [Ge–P](https://data.orchid-project.org/systems/GE-P.html) | [1] Dong 2021 | Table I, p. 5, row 6; `ORC-5MU3HAE6OV.03cdec` |  |
+| -0.072 kJ/mol-atom | GeP | 0 | DFT | DFT, GGA | [Ge–P](https://data.orchid-project.org/systems/GE-P.html) | [1] Dong 2021 | Table I, p. 5, row 6; `ORC-5MU3HAE6OV.c3f056` |  |
+| 1.44728 kJ/mol-atom | GeP | 0 | DFT | DFT, GGA | [Ge–P](https://data.orchid-project.org/systems/GE-P.html) | [1] Dong 2021; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table I, p. 5, row 4; `ORC-X4DR5DTOTT.175ce7` |  |
+| 1.45 kJ/mol-atom | GeP | 0 | DFT | DFT, GGA | [Ge–P](https://data.orchid-project.org/systems/GE-P.html) | [1] Dong 2021; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table I, p. 5, row 4; `ORC-X4DR5DTOTT.11538e` |  |
+| -0.17 kJ/mol-atom | GeP | 0 | unspecified | First–principles | [Ge–P](https://data.orchid-project.org/systems/GE-P.html) | [2] Chen 2022 | Table II, p. 3, row 50; `ORC-B4ZPZWNHDX.377259` |  |
 
 ### Uncertainty budget
 
@@ -123,4 +123,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

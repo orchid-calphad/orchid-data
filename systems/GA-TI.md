@@ -85,109 +85,109 @@ Table: Invariant reactions reported in the literature for the Ga–Ti system (10
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1773 | L->b.c.c.(Ti)+GaTi2 | GaTi2: Ga 0.333333, Ti 0.666667 | experimental | [1] Liu 2013; _cites Potzschke 1962_ | Table 2, p. 4, row 4 |  |
-| 1773 | eutectic: L–b.c.c.(Ti) + GaTi2 | GaTi2: Ga 0.333333, Ti 0.666667 | experimental | [2] Li 2003; _cites Potzschke 1962_ | Table 1, p. 3, row 3 |  |
-| 1733 | congruent melting: L–Ga4Ti5 | Ga4Ti5: Ga 0.435 | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 1, p. 3, row 28 |  |
-| 1733 | L->Ga4Ti5 | Ga4Ti5: Ga 0.435 | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 36 |  |
-| 1728 | L->Ga3Ti5 | Ga3Ti5: Ga 0.375 | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 28 |  |
-| 1728 | congruent melting: L–Ga3Ti5 | Ga3Ti5: Ga 0.375 | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 1, p. 3, row 22 |  |
-| 1723 | congruent melting: L–GaTi2 | GaTi2: Ga 0.333 | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 1, p. 3, row 7 |  |
-| 1723 | L->GaTi2 | GaTi2: Ga 0.333 | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 9 |  |
-| 1714 | L->Ga4Ti5 | Ga4Ti5: Ga 0.4296 | unspecified | [1] Liu 2013; _cites Li 2003_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900131-2) | Table 2, p. 4, row 35 |  |
-| 1714 | congruent melting: L–Ga4Ti5 | Ga4Ti5: Ga 0.4296 | model | [2] Li 2003 | Table 1, p. 3, row 27 |  |
-| 1712 | L->Ga4Ti5 | Ga4Ti5: Ga 0.4214 | model | [1] Liu 2013 | Table 2, p. 4, row 34 |  |
-| 1709 | L->Ga3Ti5 | Ga3Ti5: Ga 0.375 | unspecified | [1] Liu 2013; _cites Li 2003_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900131-2) | Table 2, p. 4, row 27 |  |
-| 1709 | congruent melting: L–Ga3Ti5 | Ga3Ti5: Ga 0.375 | model | [2] Li 2003 | Table 1, p. 3, row 21 |  |
-| 1708 | L->Ga3Ti5+Ga4Ti5 | L: Ga 0.394; Ga3Ti5: Ga 0.375; Ga4Ti5: Ga 0.406 | model | [1] Liu 2013 | Table 2, p. 4, row 30 |  |
-| 1708 | L->Ga3Ti5 | Ga3Ti5: Ga 0.375 | model | [1] Liu 2013 | Table 2, p. 4, row 26 |  |
-| 1705 | congruent melting: L–GaTi2 | GaTi2: Ga 0.333 | model | [2] Li 2003 | Table 1, p. 3, row 6 |  |
-| 1705 | L->GaTi2 | GaTi2: Ga 0.333 | unspecified | [1] Liu 2013; _cites Li 2003_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900131-2) | Table 2, p. 4, row 8 |  |
-| 1704 | L->GaTi2 | GaTi2: Ga 0.333 | model | [1] Liu 2013 | Table 2, p. 4, row 7 |  |
-| 1704 | eutectic: L–Ga3Ti5 + Ga4Ti5 | L: Ga 0.3956; Ga3Ti5: Ga 0.375; Ga4Ti5: Ga 0.4181 | model | [2] Li 2003 | Table 1, p. 3, row 24 |  |
-| 1704 | L->Ga3Ti5+Ga4Ti5 | L: Ga 0.3956; Ga3Ti5: Ga 0.375; Ga4Ti5: Ga 0.4181 | unspecified | [1] Liu 2013; _cites Li 2003_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900131-2) | Table 2, p. 4, row 31 |  |
-| 1703 | L->Ga3Ti5+Ga4Ti5 | L: Ga 0.4; Ga3Ti5: Ga 0.375; Ga4Ti5: Ga 0.42 | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 32 |  |
-| 1703 | eutectic: L–Ga3Ti5 + Ga4Ti5 | L: Ga 0.4; Ga3Ti5: Ga 0.375; Ga4Ti5: Ga 0.42 | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 1, p. 3, row 25 |  |
-| 1702 | L->Ga3Ti5+GaTi2 | L: Ga 0.344; Ga3Ti5: Ga 0.333; GaTi2: Ga 0.375 | model | [1] Liu 2013 | Table 2, p. 4, row 22 |  |
-| 1702 | L->Ga3Ti5+GaTi2 | L: Ga 0.35; Ga3Ti5: Ga 0.333; GaTi2: Ga 0.375 | unspecified | [1] Liu 2013; _cites Li 2003_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900131-2) | Table 2, p. 4, row 23 |  |
-| 1702 | eutectic: L–Ga3Ti5 + GaTi2 | L: Ga 0.35; Ga3Ti5: Ga 0.333; GaTi2: Ga 0.375 | model | [2] Li 2003 | Table 1, p. 3, row 18 |  |
-| 1698 | L->Ga3Ti5+GaTi2 | L: Ga 0.345; Ga3Ti5: Ga 0.333; GaTi2: Ga 0.375 | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 24 |  |
-| 1698 | L->Ga3Ti5 | Ga3Ti5: Ga 0.375 | experimental | [1] Liu 2013; _cites Potzschke 1962_ | Table 2, p. 4, row 29 |  |
-| 1698 | eutectic: L–Ga3Ti5 + GaTi2 | L: Ga 0.345; Ga3Ti5: Ga 0.333; GaTi2: Ga 0.375 | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 1, p. 3, row 19 |  |
-| 1698 | congruent melting: L–Ga3Ti5 | Ga3Ti5: Ga 0.375 | experimental | [2] Li 2003; _cites Potzschke 1962_ | Table 1, p. 3, row 23 |  |
-| 1693 | L->b.c.c.(Ti)+GaTi2 | L: Ga 0.2993; b.c.c.(Ti): Ga 0.2541; GaTi2: Ga 0.333 | unspecified | [1] Liu 2013; _cites Li 2003_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900131-2) | Table 2, p. 4, row 2 |  |
-| 1693 | L->b.c.c.(Ti)+GaTi2 | L: Ga 0.3; b.c.c.(Ti): Ga 0.27; GaTi2: Ga 0.333 | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 3 |  |
-| 1693 | eutectic: L–b.c.c.(Ti) + GaTi2 | L: Ga 0.3; b.c.c.(Ti): Ga 0.27; GaTi2: Ga 0.333 | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 1, p. 3, row 2 |  |
-| 1693 | eutectic: L–b.c.c.(Ti) + GaTi2 | L: Ga 0.2993; b.c.c.(Ti): Ga 0.2541; GaTi2: Ga 0.333 | model | [2] Li 2003 | Table 1, p. 3, row 1 |  |
-| 1693 | L->b.c.c.(Ti)+GaTi2 | L: Ga 0.301; b.c.c.(Ti): Ga 0.268; GaTi2: Ga 0.333 | model | [1] Liu 2013 | Table 2, p. 4, row 1 |  |
-| 1673 | eutectic: L–Ga3Ti5 + GaTi2 | L: Ga 0.362; Ga3Ti5: Ga 0.333; GaTi2: Ga 0.375 | experimental | [2] Li 2003; _cites Potzschke 1962_ | Table 1, p. 3, row 20 |  |
-| 1673 | L->Ga3Ti5+GaTi2 | L: Ga 0.362; Ga3Ti5: Ga 0.333; GaTi2: Ga 0.375 | experimental | [1] Liu 2013; _cites Potzschke 1962_ | Table 2, p. 4, row 25 |  |
-| 1560 | L->b.c.c.(Ti)+GaTi2 | GaTi2: Ga 0.333 | unspecified | [1] Liu 2013; _cites Belousov 1981_ | Table 2, p. 4, row 5 |  |
-| 1560 | eutectic: L–b.c.c.(Ti) + GaTi2 | GaTi2: Ga 0.333 | unspecified | [2] Li 2003; _cites Belousov 1981_ | Table 1, p. 3, row 4 |  |
-| 1524 | L+Ga4Ti5->GaTi | L: Ga 0.595; Ga4Ti5: Ga 0.481; GaTi: Ga 0.512 | model | [1] Liu 2013 | Table 2, p. 4, row 38 |  |
-| 1524 | peritectic: L + Ga4Ti5–GaTi | L: Ga 0.5779; Ga4Ti5: Ga 0.4595; GaTi: Ga 0.5166 | model | [2] Li 2003 | Table 1, p. 3, row 30 |  |
-| 1524 | L+Ga4Ti5->GaTi | L: Ga 0.5779; Ga4Ti5: Ga 0.4595; GaTi: Ga 0.5166 | unspecified | [1] Liu 2013; _cites Li 2003_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900131-2) | Table 2, p. 4, row 39 |  |
-| 1523 | L+Ga4Ti5->GaTi | L: Ga 0.565; Ga4Ti5: Ga 0.488; GaTi: Ga 0.51 | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 40 |  |
-| 1523 | peritectic: L + Ga4Ti5–GaTi | L: Ga 0.565; Ga4Ti5: Ga 0.488; GaTi: Ga 0.51 | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 1, p. 3, row 31 |  |
-| 1515 | L->Ga4Ti5 | Ga4Ti5: Ga 0.444 | experimental | [1] Liu 2013; _cites Potzschke 1962_ | Table 2, p. 4, row 37 |  |
-| 1515 | congruent melting: L–Ga4Ti5 | Ga4Ti5: Ga 0.444 | experimental | [2] Li 2003; _cites Potzschke 1962_ | Table 1, p. 3, row 29 |  |
-| 1503 | L->Ga3Ti5+Ga4Ti5 | Ga3Ti5: Ga 0.375; Ga4Ti5: Ga 0.444 | experimental | [1] Liu 2013; _cites Potzschke 1962_ | Table 2, p. 4, row 33 |  |
-| 1503 | eutectic: L–Ga3Ti5 + Ga4Ti5 | Ga3Ti5: Ga 0.375; Ga4Ti5: Ga 0.444 | experimental | [2] Li 2003; _cites Potzschke 1962_ | Table 1, p. 3, row 26 |  |
-| 1463 | L->Ga2Ti | Ga2Ti: Ga 0.6667 | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 54 |  |
-| 1463 | congruent melting: L–Ga2Ti | Ga2Ti: Ga 0.6667 | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 1, p. 3, row 42 |  |
-| 1457 | L->Ga2Ti | L: Ga 0.666667, Ti 0.333333; Ga2Ti: Ga 0.666667, Ti 0.333333 | experimental | [1] Liu 2013; _cites Li 2003_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900131-2) | Table 2, p. 4, row 56 |  |
-| 1457 | L–Ga2Ti | Ga2Ti: Ga 0.666667, Ti 0.333333 | experimental | [2] Li 2003 | Table 1, p. 3, row 44 |  |
-| 1448 | peritectic: L + Ga4Ti5–GaTi | L: Ga 0.64; Ga4Ti5: Ga 0.444; GaTi: Ga 0.5 | experimental | [2] Li 2003; _cites Potzschke 1962_ | Table 1, p. 3, row 32 |  |
-| 1448 | L+Ga4Ti5->GaTi | L: Ga 0.64; Ga4Ti5: Ga 0.444; GaTi: Ga 0.5 | experimental | [1] Liu 2013; _cites Potzschke 1962_ | Table 2, p. 4, row 41 |  |
-| 1446 | congruent melting: L–Ga2Ti | Ga2Ti: Ga 0.6667 | experimental | [2] Li 2003; _cites Potzschke 1962_ | Table 1, p. 3, row 43 |  |
-| 1446 | L->Ga2Ti | Ga2Ti: Ga 0.6667 | experimental | [1] Liu 2013; _cites Potzschke 1962_ | Table 2, p. 4, row 55 |  |
-| 1441 | L–GaTi + Ga2Ti | GaTi: Ga 0.5, Ti 0.5; Ga2Ti: Ga 0.666667, Ti 0.333333 | experimental | [2] Li 2003 | Table 1, p. 3, row 36 |  |
-| 1441 | L->GaTi+Ga2Ti | GaTi: Ga 0.5, Ti 0.5; Ga2Ti: Ga 0.666667, Ti 0.333333 | experimental | [1] Liu 2013; _cites Li 2003_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900131-2) | Table 2, p. 4, row 46 |  |
-| 1440 | L->Ga2Ti | Ga2Ti: Ga 0.6667 | unspecified | [1] Liu 2013; _cites Li 2003_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900131-2) | Table 2, p. 4, row 53 |  |
-| 1440 | congruent melting: L–Ga2Ti | Ga2Ti: Ga 0.6667 | model | [2] Li 2003 | Table 1, p. 3, row 41 |  |
-| 1439 | L->GaTi+Ga2Ti | L: Ga 0.6576; GaTi: Ga 0.579; Ga2Ti: Ga 0.6667 | unspecified | [1] Liu 2013; _cites Li 2003_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900131-2) | Table 2, p. 4, row 43 |  |
-| 1439 | eutectic: L–GaTi + Ga2Ti | L: Ga 0.6576; GaTi: Ga 0.579; Ga2Ti: Ga 0.6667 | model | [2] Li 2003 | Table 1, p. 3, row 33 |  |
-| 1439 | L->Ga2Ti | Ga2Ti: Ga 0.6667 | model | [1] Liu 2013 | Table 2, p. 4, row 52 |  |
-| 1439 | L->GaTi+Ga2Ti | L: Ga 0.661; GaTi: Ga 0.594; Ga2Ti: Ga 0.6667 | model | [1] Liu 2013 | Table 2, p. 4, row 42 |  |
-| 1438 | L->GaTi+Ga2Ti | L: Ga 0.65; GaTi: Ga 0.59; Ga2Ti: Ga 0.6667 | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 44 |  |
-| 1438 | eutectic: L–GaTi + Ga2Ti | L: Ga 0.65; GaTi: Ga 0.59; Ga2Ti: Ga 0.6667 | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 1, p. 3, row 34 |  |
-| 1433 | eutectic: L–GaTi + Ga2Ti | L: Ga 0.652; GaTi: Ga 0.5; Ga2Ti: Ga 0.6667 | experimental | [2] Li 2003; _cites Potzschke 1962_ | Table 1, p. 3, row 35 |  |
-| 1433 | L->GaTi+Ga2Ti | L: Ga 0.652; GaTi: Ga 0.5; Ga2Ti: Ga 0.6667 | experimental | [1] Liu 2013; _cites Potzschke 1962_ | Table 2, p. 4, row 45 |  |
-| 1408 | L+Ga2Ti->Ga3Ti | L: Ga 0.81; Ga2Ti: Ga 0.6667; Ga3Ti: Ga 0.75 | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 59 |  |
-| 1408 | peritectic: L + Ga2Ti–Ga3Ti | L: Ga 0.81; Ga2Ti: Ga 0.6667; Ga3Ti: Ga 0.75 | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 1, p. 3, row 46 |  |
-| 1348 | peritectoid: GaTi + Ga2Ti–Ga3Ti2 | GaTi: Ga 0.57; Ga2Ti: Ga 0.6667; Ga3Ti2: Ga 0.6 | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 1, p. 3, row 38 |  |
-| 1348 | peritectoid: GaTi + Ga2Ti–Ga3Ti2 | GaTi: Ga 0.5; Ga2Ti: Ga 0.6667; Ga3Ti2: Ga 0.6 | experimental | [2] Li 2003; _cites Potzschke 1962_ | Table 1, p. 3, row 39 |  |
-| 1348 | GaTi+Ga2Ti->Ga3Ti2 | GaTi: Ga 0.5; Ga2Ti: Ga 0.6667; Ga3Ti2: Ga 0.6 | experimental | [1] Liu 2013; _cites Potzschke 1962_ | Table 2, p. 4, row 50 |  |
-| 1348 | peritectoid: GaTi + Ga2Ti–Ga3Ti2 | GaTi: Ga 0.5711; Ga2Ti: Ga 0.6667; Ga3Ti2: Ga 0.6 | model | [2] Li 2003 | Table 1, p. 3, row 37 |  |
-| 1348 | GaTi+Ga2Ti->Ga3Ti2 | GaTi: Ga 0.57; Ga2Ti: Ga 0.6667; Ga3Ti2: Ga 0.6 | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 49 |  |
-| 1348 | GaTi+Ga2Ti->Ga3Ti2 | GaTi: Ga 0.5711; Ga2Ti: Ga 0.6667; Ga3Ti2: Ga 0.6 | unspecified | [1] Liu 2013; _cites Li 2003_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900131-2) | Table 2, p. 4, row 48 |  |
-| 1348 | GaTi+Ga2Ti->Ga3Ti2 | GaTi: Ga 0.5, Ti 0.5; Ga2Ti: Ga 0.666667, Ti 0.333333; Ga3Ti2: Ga 0.6, Ti 0.4 | experimental | [1] Liu 2013; _cites Li 2003_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900131-2) | Table 2, p. 4, row 51 |  |
-| 1348 | GaTi + Ga2Ti–Ga3Ti2 | GaTi: Ga 0.5, Ti 0.5; Ga2Ti: Ga 0.666667, Ti 0.333333; Ga3Ti2: Ga 0.6, Ti 0.4 | experimental | [2] Li 2003 | Table 1, p. 3, row 40 |  |
-| 1347 | GaTi+Ga2Ti->Ga3Ti2 | GaTi: Ga 0.564; Ga2Ti: Ga 0.6667; Ga3Ti2: Ga 0.6 | model | [1] Liu 2013 | Table 2, p. 4, row 47 |  |
-| 1313 | b.c.c.(Ti)+GaTi2->GaTi3 | b.c.c.(Ti): Ga 0.155; GaTi2: Ga 0.333; GaTi3: Ga 0.247 | unspecified | [1] Liu 2013; _cites Belousov 1981_ | Table 2, p. 4, row 15 |  |
-| 1313 | peritectoid: b.c.c.(Ti) + GaTi2–GaTi3 | b.c.c.(Ti): Ga 0.155; GaTi2: Ga 0.333; GaTi3: Ga 0.247 | unspecified | [2] Li 2003; _cites Belousov 1981_ | Table 1, p. 3, row 12 |  |
-| 1303 | peritectoid: b.c.c.(Ti) + GaTi2–GaTi3 | b.c.c.(Ti): Ga 0.1957; GaTi2: Ga 0.333; GaTi3: Ga 0.2443 | model | [2] Li 2003 | Table 1, p. 3, row 10 |  |
-| 1303 | b.c.c.(Ti)+GaTi2->GaTi3 | b.c.c.(Ti): Ga 0.178; GaTi2: Ga 0.333; GaTi3: Ga 0.24 | model | [1] Liu 2013 | Table 2, p. 4, row 12 |  |
-| 1303 | b.c.c.(Ti)+GaTi2->GaTi3 | b.c.c.(Ti): Ga 0.1957; GaTi2: Ga 0.333; GaTi3: Ga 0.2443 | unspecified | [1] Liu 2013; _cites Li 2003_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900131-2) | Table 2, p. 4, row 13 |  |
-| 1303 | b.c.c.(Ti)+GaTi2->GaTi3 | b.c.c.(Ti): Ga 0.195; GaTi2: Ga 0.333; GaTi3: Ga 0.24 | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 14 |  |
-| 1303 | peritectoid: b.c.c.(Ti) + GaTi2–GaTi3 | b.c.c.(Ti): Ga 0.168; GaTi2: Ga 0.333; GaTi3: Ga 0.247 | experimental | [2] Li 2003; _cites Anderko 1957_ [doi](https://doi.org/10.1007/bf00638248) | Table 1, p. 3, row 13 |  |
-| 1303 | peritectoid: b.c.c.(Ti) + GaTi2–GaTi3 | b.c.c.(Ti): Ga 0.195; GaTi2: Ga 0.333; GaTi3: Ga 0.24 | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 1, p. 3, row 11 |  |
-| 1303 | b.c.c.(Ti)+GaTi2->GaTi3 | b.c.c.(Ti): Ga 0.168; GaTi2: Ga 0.333; GaTi3: Ga 0.247 | experimental | [1] Liu 2013; _cites Anderko 1957_ [doi](https://doi.org/10.1007/bf00638248) | Table 2, p. 4, row 16 |  |
-| 1213 | b.c.c.(Ti)+GaTi3->h.c.p.(Ti) | b.c.c.(Ti): Ga 0.1644; GaTi3: Ga 0.2281 | unspecified | [1] Liu 2013; _cites Li 2003_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900131-2) | Table 2, p. 4, row 18 |  |
-| 1213 | peritectoid: b.c.c.(Ti) + GaTi3–h.c.p.(Ti) | b.c.c.(Ti): Ga 0.1644; GaTi3: Ga 0.2281 | model | [2] Li 2003 | Table 1, p. 3, row 14 |  |
-| 1213 | peritectoid: b.c.c.(Ti) + GaTi3–h.c.p.(Ti) | b.c.c.(Ti): Ga 0.17; GaTi3: Ga 0.226; h.c.p.(Ti): Ga 0.19 | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 1, p. 3, row 15 |  |
-| 1213 | b.c.c.(Ti)+GaTi3->h.c.p.(Ti) | b.c.c.(Ti): Ga 0.161; GaTi3: Ga 0.237 | model | [1] Liu 2013 | Table 2, p. 4, row 17 |  |
-| 1213 | b.c.c.(Ti)+GaTi3->h.c.p.(Ti) | b.c.c.(Ti): Ga 0.1; GaTi3: Ga 0.225; h.c.p.(Ti): Ga 0.13 | experimental | [1] Liu 2013; _cites Anderko 1957_ [doi](https://doi.org/10.1007/bf00638248) | Table 2, p. 4, row 21 |  |
-| 1213 | peritectoid: b.c.c.(Ti) + GaTi3–h.c.p.(Ti) | b.c.c.(Ti): Ga 0.1; GaTi3: Ga 0.225; h.c.p.(Ti): Ga 0.13 | experimental | [2] Li 2003; _cites Anderko 1957_ [doi](https://doi.org/10.1007/bf00638248) | Table 1, p. 3, row 17 |  |
-| 1213 | b.c.c.(Ti)+GaTi3->h.c.p.(Ti) | b.c.c.(Ti): Ga 0.17; GaTi3: Ga 0.226; h.c.p.(Ti): Ga 0.19 | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 19 |  |
-| 1203 | L+Ga2Ti->Ga3Ti | L: Ga 0.982; Ga2Ti: Ga 0.6667; Ga3Ti: Ga 0.75 | model | [1] Liu 2013 | Table 2, p. 4, row 57 |  |
-| 1203 | L+Ga2Ti->Ga3Ti | Ga2Ti: Ga 0.666667, Ti 0.333333; Ga3Ti: Ga 0.75, Ti 0.25 | experimental | [1] Liu 2013; _cites Li 2003_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900131-2) | Table 2, p. 4, row 61 |  |
-| 1203 | peritectic: L + Ga2Ti–Ga3Ti | Ga2Ti: Ga 0.666667, Ti 0.333333; Ga3Ti: Ga 0.75, Ti 0.25 | experimental | [2] Li 2003 | Table 1, p. 3, row 48 |  |
-| 1203 | L+Ga2Ti->Ga3Ti | L: Ga 0.9724; Ga2Ti: Ga 0.667; Ga3Ti: Ga 0.75 | unspecified | [1] Liu 2013; _cites Li 2003_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900131-2) | Table 2, p. 4, row 58 |  |
-| 1203 | peritectic: L + Ga2Ti–Ga3Ti | L: Ga 0.9724; Ga2Ti: Ga 0.667; Ga3Ti: Ga 0.75 | model | [2] Li 2003 | Table 1, p. 3, row 45 |  |
-| 1198 | L+Ga2Ti->Ga3Ti | L: Ga 0.97; Ga2Ti: Ga 0.6667; Ga3Ti: Ga 0.75 | experimental | [1] Liu 2013; _cites Potzschke 1962_ | Table 2, p. 4, row 60 |  |
-| 1198 | peritectic: L + Ga2Ti–Ga3Ti | L: Ga 0.97; Ga2Ti: Ga 0.6667; Ga3Ti: Ga 0.75 | experimental | [2] Li 2003; _cites Potzschke 1962_ | Table 1, p. 3, row 47 |  |
-| 1193 | peritectoid: b.c.c.(Ti) + GaTi3–h.c.p.(Ti) | b.c.c.(Ti): Ga 0.125; GaTi3: Ga 0.21; h.c.p.(Ti): Ga 0.09 | unspecified | [2] Li 2003; _cites Belousov 1981_ | Table 1, p. 3, row 16 |  |
-| 1193 | b.c.c.(Ti)+GaTi3->h.c.p.(Ti) | b.c.c.(Ti): Ga 0.125; GaTi3: Ga 0.21; h.c.p.(Ti): Ga 0.09 | unspecified | [1] Liu 2013; _cites Belousov 1981_ | Table 2, p. 4, row 20 |  |
+| 1773 | L->b.c.c.(Ti)+GaTi2 | GaTi2: Ga 0.333333, Ti 0.666667 | experimental | [1] Liu 2013; _cites Potzschke 1962_ | Table 2, p. 4, row 4; `ORC-GZNUCE5NMV` |  |
+| 1773 | eutectic: L–b.c.c.(Ti) + GaTi2 | GaTi2: Ga 0.333333, Ti 0.666667 | experimental | [2] Li 2003; _cites Potzschke 1962_ | Table 1, p. 3, row 3; `ORC-PZYHOFMOGE` |  |
+| 1733 | congruent melting: L–Ga4Ti5 | Ga4Ti5: Ga 0.435 | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 1, p. 3, row 28; `ORC-ECM7GDGQ67` |  |
+| 1733 | L->Ga4Ti5 | Ga4Ti5: Ga 0.435 | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 36; `ORC-XLUZD6WW5K` |  |
+| 1728 | L->Ga3Ti5 | Ga3Ti5: Ga 0.375 | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 28; `ORC-E5M4IZRHB2` |  |
+| 1728 | congruent melting: L–Ga3Ti5 | Ga3Ti5: Ga 0.375 | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 1, p. 3, row 22; `ORC-G33MBOGXEK` |  |
+| 1723 | congruent melting: L–GaTi2 | GaTi2: Ga 0.333 | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 1, p. 3, row 7; `ORC-GVJBCMME3E` |  |
+| 1723 | L->GaTi2 | GaTi2: Ga 0.333 | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 9; `ORC-UDWABW32XQ` |  |
+| 1714 | L->Ga4Ti5 | Ga4Ti5: Ga 0.4296 | unspecified | [1] Liu 2013; _cites Li 2003_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900131-2) | Table 2, p. 4, row 35; `ORC-QR5TMEKRIN` |  |
+| 1714 | congruent melting: L–Ga4Ti5 | Ga4Ti5: Ga 0.4296 | model | [2] Li 2003 | Table 1, p. 3, row 27; `ORC-VM2LHARITG` |  |
+| 1712 | L->Ga4Ti5 | Ga4Ti5: Ga 0.4214 | model | [1] Liu 2013 | Table 2, p. 4, row 34; `ORC-EMO773Y2XC` |  |
+| 1709 | L->Ga3Ti5 | Ga3Ti5: Ga 0.375 | unspecified | [1] Liu 2013; _cites Li 2003_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900131-2) | Table 2, p. 4, row 27; `ORC-IBP7WAPZOX` |  |
+| 1709 | congruent melting: L–Ga3Ti5 | Ga3Ti5: Ga 0.375 | model | [2] Li 2003 | Table 1, p. 3, row 21; `ORC-MGOZBODX6G` |  |
+| 1708 | L->Ga3Ti5+Ga4Ti5 | L: Ga 0.394; Ga3Ti5: Ga 0.375; Ga4Ti5: Ga 0.406 | model | [1] Liu 2013 | Table 2, p. 4, row 30; `ORC-C3YSPN2P7T` |  |
+| 1708 | L->Ga3Ti5 | Ga3Ti5: Ga 0.375 | model | [1] Liu 2013 | Table 2, p. 4, row 26; `ORC-ZXT2V7TU77` |  |
+| 1705 | congruent melting: L–GaTi2 | GaTi2: Ga 0.333 | model | [2] Li 2003 | Table 1, p. 3, row 6; `ORC-EGZVE53RNO` |  |
+| 1705 | L->GaTi2 | GaTi2: Ga 0.333 | unspecified | [1] Liu 2013; _cites Li 2003_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900131-2) | Table 2, p. 4, row 8; `ORC-FRYKERIS3K` |  |
+| 1704 | L->GaTi2 | GaTi2: Ga 0.333 | model | [1] Liu 2013 | Table 2, p. 4, row 7; `ORC-CM63BKXILJ` |  |
+| 1704 | eutectic: L–Ga3Ti5 + Ga4Ti5 | L: Ga 0.3956; Ga3Ti5: Ga 0.375; Ga4Ti5: Ga 0.4181 | model | [2] Li 2003 | Table 1, p. 3, row 24; `ORC-D3OWD4X35Z` |  |
+| 1704 | L->Ga3Ti5+Ga4Ti5 | L: Ga 0.3956; Ga3Ti5: Ga 0.375; Ga4Ti5: Ga 0.4181 | unspecified | [1] Liu 2013; _cites Li 2003_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900131-2) | Table 2, p. 4, row 31; `ORC-FALHBGQPW6` |  |
+| 1703 | L->Ga3Ti5+Ga4Ti5 | L: Ga 0.4; Ga3Ti5: Ga 0.375; Ga4Ti5: Ga 0.42 | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 32; `ORC-6KEIJVQ3PJ` |  |
+| 1703 | eutectic: L–Ga3Ti5 + Ga4Ti5 | L: Ga 0.4; Ga3Ti5: Ga 0.375; Ga4Ti5: Ga 0.42 | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 1, p. 3, row 25; `ORC-Z457K7Y2LW` |  |
+| 1702 | L->Ga3Ti5+GaTi2 | L: Ga 0.344; Ga3Ti5: Ga 0.333; GaTi2: Ga 0.375 | model | [1] Liu 2013 | Table 2, p. 4, row 22; `ORC-IJ4PHSWUSS` |  |
+| 1702 | L->Ga3Ti5+GaTi2 | L: Ga 0.35; Ga3Ti5: Ga 0.333; GaTi2: Ga 0.375 | unspecified | [1] Liu 2013; _cites Li 2003_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900131-2) | Table 2, p. 4, row 23; `ORC-IYAW27FIQM` |  |
+| 1702 | eutectic: L–Ga3Ti5 + GaTi2 | L: Ga 0.35; Ga3Ti5: Ga 0.333; GaTi2: Ga 0.375 | model | [2] Li 2003 | Table 1, p. 3, row 18; `ORC-V5ZOFKFRKK` |  |
+| 1698 | L->Ga3Ti5+GaTi2 | L: Ga 0.345; Ga3Ti5: Ga 0.333; GaTi2: Ga 0.375 | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 24; `ORC-JNWONX3LQE` |  |
+| 1698 | L->Ga3Ti5 | Ga3Ti5: Ga 0.375 | experimental | [1] Liu 2013; _cites Potzschke 1962_ | Table 2, p. 4, row 29; `ORC-O7ZDKEYVOX` |  |
+| 1698 | eutectic: L–Ga3Ti5 + GaTi2 | L: Ga 0.345; Ga3Ti5: Ga 0.333; GaTi2: Ga 0.375 | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 1, p. 3, row 19; `ORC-PA3P3RDHBT` |  |
+| 1698 | congruent melting: L–Ga3Ti5 | Ga3Ti5: Ga 0.375 | experimental | [2] Li 2003; _cites Potzschke 1962_ | Table 1, p. 3, row 23; `ORC-SFBLJ4AFBJ` |  |
+| 1693 | L->b.c.c.(Ti)+GaTi2 | L: Ga 0.2993; b.c.c.(Ti): Ga 0.2541; GaTi2: Ga 0.333 | unspecified | [1] Liu 2013; _cites Li 2003_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900131-2) | Table 2, p. 4, row 2; `ORC-EPDWYRN5UI` |  |
+| 1693 | L->b.c.c.(Ti)+GaTi2 | L: Ga 0.3; b.c.c.(Ti): Ga 0.27; GaTi2: Ga 0.333 | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 3; `ORC-I32GDGSFMH` |  |
+| 1693 | eutectic: L–b.c.c.(Ti) + GaTi2 | L: Ga 0.3; b.c.c.(Ti): Ga 0.27; GaTi2: Ga 0.333 | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 1, p. 3, row 2; `ORC-J2KG2334OD` |  |
+| 1693 | eutectic: L–b.c.c.(Ti) + GaTi2 | L: Ga 0.2993; b.c.c.(Ti): Ga 0.2541; GaTi2: Ga 0.333 | model | [2] Li 2003 | Table 1, p. 3, row 1; `ORC-KAMACWJJHK` |  |
+| 1693 | L->b.c.c.(Ti)+GaTi2 | L: Ga 0.301; b.c.c.(Ti): Ga 0.268; GaTi2: Ga 0.333 | model | [1] Liu 2013 | Table 2, p. 4, row 1; `ORC-U2SQI4P4OT` |  |
+| 1673 | eutectic: L–Ga3Ti5 + GaTi2 | L: Ga 0.362; Ga3Ti5: Ga 0.333; GaTi2: Ga 0.375 | experimental | [2] Li 2003; _cites Potzschke 1962_ | Table 1, p. 3, row 20; `ORC-3BGSOOUCIT` |  |
+| 1673 | L->Ga3Ti5+GaTi2 | L: Ga 0.362; Ga3Ti5: Ga 0.333; GaTi2: Ga 0.375 | experimental | [1] Liu 2013; _cites Potzschke 1962_ | Table 2, p. 4, row 25; `ORC-OFXUYQ6JHJ` |  |
+| 1560 | L->b.c.c.(Ti)+GaTi2 | GaTi2: Ga 0.333 | unspecified | [1] Liu 2013; _cites Belousov 1981_ | Table 2, p. 4, row 5; `ORC-J5RLJ6M5Z6` |  |
+| 1560 | eutectic: L–b.c.c.(Ti) + GaTi2 | GaTi2: Ga 0.333 | unspecified | [2] Li 2003; _cites Belousov 1981_ | Table 1, p. 3, row 4; `ORC-V6Y3CP2BJH` |  |
+| 1524 | L+Ga4Ti5->GaTi | L: Ga 0.595; Ga4Ti5: Ga 0.481; GaTi: Ga 0.512 | model | [1] Liu 2013 | Table 2, p. 4, row 38; `ORC-4GSUFY7XHH` |  |
+| 1524 | peritectic: L + Ga4Ti5–GaTi | L: Ga 0.5779; Ga4Ti5: Ga 0.4595; GaTi: Ga 0.5166 | model | [2] Li 2003 | Table 1, p. 3, row 30; `ORC-P2PTFAM5N7` |  |
+| 1524 | L+Ga4Ti5->GaTi | L: Ga 0.5779; Ga4Ti5: Ga 0.4595; GaTi: Ga 0.5166 | unspecified | [1] Liu 2013; _cites Li 2003_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900131-2) | Table 2, p. 4, row 39; `ORC-ZXBZUH7YA2` |  |
+| 1523 | L+Ga4Ti5->GaTi | L: Ga 0.565; Ga4Ti5: Ga 0.488; GaTi: Ga 0.51 | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 40; `ORC-5YPS63CYVA` |  |
+| 1523 | peritectic: L + Ga4Ti5–GaTi | L: Ga 0.565; Ga4Ti5: Ga 0.488; GaTi: Ga 0.51 | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 1, p. 3, row 31; `ORC-DBJ4XGGZKJ` |  |
+| 1515 | L->Ga4Ti5 | Ga4Ti5: Ga 0.444 | experimental | [1] Liu 2013; _cites Potzschke 1962_ | Table 2, p. 4, row 37; `ORC-MN4U2EYFCO` |  |
+| 1515 | congruent melting: L–Ga4Ti5 | Ga4Ti5: Ga 0.444 | experimental | [2] Li 2003; _cites Potzschke 1962_ | Table 1, p. 3, row 29; `ORC-VVK3JUHUTP` |  |
+| 1503 | L->Ga3Ti5+Ga4Ti5 | Ga3Ti5: Ga 0.375; Ga4Ti5: Ga 0.444 | experimental | [1] Liu 2013; _cites Potzschke 1962_ | Table 2, p. 4, row 33; `ORC-FO2KZM76AR` |  |
+| 1503 | eutectic: L–Ga3Ti5 + Ga4Ti5 | Ga3Ti5: Ga 0.375; Ga4Ti5: Ga 0.444 | experimental | [2] Li 2003; _cites Potzschke 1962_ | Table 1, p. 3, row 26; `ORC-QHFNLW5NRY` |  |
+| 1463 | L->Ga2Ti | Ga2Ti: Ga 0.6667 | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 54; `ORC-EVM2OXFF4O` |  |
+| 1463 | congruent melting: L–Ga2Ti | Ga2Ti: Ga 0.6667 | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 1, p. 3, row 42; `ORC-X6AB6QZKNU` |  |
+| 1457 | L->Ga2Ti | L: Ga 0.666667, Ti 0.333333; Ga2Ti: Ga 0.666667, Ti 0.333333 | experimental | [1] Liu 2013; _cites Li 2003_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900131-2) | Table 2, p. 4, row 56; `ORC-EBKB5MYVP4` |  |
+| 1457 | L–Ga2Ti | Ga2Ti: Ga 0.666667, Ti 0.333333 | experimental | [2] Li 2003 | Table 1, p. 3, row 44; `ORC-QNIXQDUM6W` |  |
+| 1448 | peritectic: L + Ga4Ti5–GaTi | L: Ga 0.64; Ga4Ti5: Ga 0.444; GaTi: Ga 0.5 | experimental | [2] Li 2003; _cites Potzschke 1962_ | Table 1, p. 3, row 32; `ORC-MRWYJSQFMN` |  |
+| 1448 | L+Ga4Ti5->GaTi | L: Ga 0.64; Ga4Ti5: Ga 0.444; GaTi: Ga 0.5 | experimental | [1] Liu 2013; _cites Potzschke 1962_ | Table 2, p. 4, row 41; `ORC-QFHZZPLE2R` |  |
+| 1446 | congruent melting: L–Ga2Ti | Ga2Ti: Ga 0.6667 | experimental | [2] Li 2003; _cites Potzschke 1962_ | Table 1, p. 3, row 43; `ORC-7Z2RQZJT64` |  |
+| 1446 | L->Ga2Ti | Ga2Ti: Ga 0.6667 | experimental | [1] Liu 2013; _cites Potzschke 1962_ | Table 2, p. 4, row 55; `ORC-UJKPZFQM6T` |  |
+| 1441 | L–GaTi + Ga2Ti | GaTi: Ga 0.5, Ti 0.5; Ga2Ti: Ga 0.666667, Ti 0.333333 | experimental | [2] Li 2003 | Table 1, p. 3, row 36; `ORC-3DJWAR3TGF` |  |
+| 1441 | L->GaTi+Ga2Ti | GaTi: Ga 0.5, Ti 0.5; Ga2Ti: Ga 0.666667, Ti 0.333333 | experimental | [1] Liu 2013; _cites Li 2003_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900131-2) | Table 2, p. 4, row 46; `ORC-BF7LGNAMQF` |  |
+| 1440 | L->Ga2Ti | Ga2Ti: Ga 0.6667 | unspecified | [1] Liu 2013; _cites Li 2003_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900131-2) | Table 2, p. 4, row 53; `ORC-3EAHN75SK4` |  |
+| 1440 | congruent melting: L–Ga2Ti | Ga2Ti: Ga 0.6667 | model | [2] Li 2003 | Table 1, p. 3, row 41; `ORC-5ME5AXZ4WE` |  |
+| 1439 | L->GaTi+Ga2Ti | L: Ga 0.6576; GaTi: Ga 0.579; Ga2Ti: Ga 0.6667 | unspecified | [1] Liu 2013; _cites Li 2003_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900131-2) | Table 2, p. 4, row 43; `ORC-2534WRSCKA` |  |
+| 1439 | eutectic: L–GaTi + Ga2Ti | L: Ga 0.6576; GaTi: Ga 0.579; Ga2Ti: Ga 0.6667 | model | [2] Li 2003 | Table 1, p. 3, row 33; `ORC-IDM6OEVFTI` |  |
+| 1439 | L->Ga2Ti | Ga2Ti: Ga 0.6667 | model | [1] Liu 2013 | Table 2, p. 4, row 52; `ORC-NN5DQMD4C7` |  |
+| 1439 | L->GaTi+Ga2Ti | L: Ga 0.661; GaTi: Ga 0.594; Ga2Ti: Ga 0.6667 | model | [1] Liu 2013 | Table 2, p. 4, row 42; `ORC-VPFXZH6R4P` |  |
+| 1438 | L->GaTi+Ga2Ti | L: Ga 0.65; GaTi: Ga 0.59; Ga2Ti: Ga 0.6667 | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 44; `ORC-FCNKJY6ZED` |  |
+| 1438 | eutectic: L–GaTi + Ga2Ti | L: Ga 0.65; GaTi: Ga 0.59; Ga2Ti: Ga 0.6667 | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 1, p. 3, row 34; `ORC-IZKPL7HRZ4` |  |
+| 1433 | eutectic: L–GaTi + Ga2Ti | L: Ga 0.652; GaTi: Ga 0.5; Ga2Ti: Ga 0.6667 | experimental | [2] Li 2003; _cites Potzschke 1962_ | Table 1, p. 3, row 35; `ORC-HH24RMASHN` |  |
+| 1433 | L->GaTi+Ga2Ti | L: Ga 0.652; GaTi: Ga 0.5; Ga2Ti: Ga 0.6667 | experimental | [1] Liu 2013; _cites Potzschke 1962_ | Table 2, p. 4, row 45; `ORC-MCLI4MLYET` |  |
+| 1408 | L+Ga2Ti->Ga3Ti | L: Ga 0.81; Ga2Ti: Ga 0.6667; Ga3Ti: Ga 0.75 | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 59; `ORC-ALXLC6H3NF` |  |
+| 1408 | peritectic: L + Ga2Ti–Ga3Ti | L: Ga 0.81; Ga2Ti: Ga 0.6667; Ga3Ti: Ga 0.75 | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 1, p. 3, row 46; `ORC-QU3V6YECBH` |  |
+| 1348 | peritectoid: GaTi + Ga2Ti–Ga3Ti2 | GaTi: Ga 0.57; Ga2Ti: Ga 0.6667; Ga3Ti2: Ga 0.6 | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 1, p. 3, row 38; `ORC-A6RDUPGUBA` |  |
+| 1348 | peritectoid: GaTi + Ga2Ti–Ga3Ti2 | GaTi: Ga 0.5; Ga2Ti: Ga 0.6667; Ga3Ti2: Ga 0.6 | experimental | [2] Li 2003; _cites Potzschke 1962_ | Table 1, p. 3, row 39; `ORC-BNPIA5QKQP` |  |
+| 1348 | GaTi+Ga2Ti->Ga3Ti2 | GaTi: Ga 0.5; Ga2Ti: Ga 0.6667; Ga3Ti2: Ga 0.6 | experimental | [1] Liu 2013; _cites Potzschke 1962_ | Table 2, p. 4, row 50; `ORC-CBYSHFXSOF` |  |
+| 1348 | peritectoid: GaTi + Ga2Ti–Ga3Ti2 | GaTi: Ga 0.5711; Ga2Ti: Ga 0.6667; Ga3Ti2: Ga 0.6 | model | [2] Li 2003 | Table 1, p. 3, row 37; `ORC-GSDHXHZIBX` |  |
+| 1348 | GaTi+Ga2Ti->Ga3Ti2 | GaTi: Ga 0.57; Ga2Ti: Ga 0.6667; Ga3Ti2: Ga 0.6 | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 49; `ORC-HKO3ZQKWHO` |  |
+| 1348 | GaTi+Ga2Ti->Ga3Ti2 | GaTi: Ga 0.5711; Ga2Ti: Ga 0.6667; Ga3Ti2: Ga 0.6 | unspecified | [1] Liu 2013; _cites Li 2003_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900131-2) | Table 2, p. 4, row 48; `ORC-NR2QBE4KZT` |  |
+| 1348 | GaTi+Ga2Ti->Ga3Ti2 | GaTi: Ga 0.5, Ti 0.5; Ga2Ti: Ga 0.666667, Ti 0.333333; Ga3Ti2: Ga 0.6, Ti 0.4 | experimental | [1] Liu 2013; _cites Li 2003_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900131-2) | Table 2, p. 4, row 51; `ORC-OTISAPEORG` |  |
+| 1348 | GaTi + Ga2Ti–Ga3Ti2 | GaTi: Ga 0.5, Ti 0.5; Ga2Ti: Ga 0.666667, Ti 0.333333; Ga3Ti2: Ga 0.6, Ti 0.4 | experimental | [2] Li 2003 | Table 1, p. 3, row 40; `ORC-V5C6IJ3LT6` |  |
+| 1347 | GaTi+Ga2Ti->Ga3Ti2 | GaTi: Ga 0.564; Ga2Ti: Ga 0.6667; Ga3Ti2: Ga 0.6 | model | [1] Liu 2013 | Table 2, p. 4, row 47; `ORC-2FZ74OHVUH` |  |
+| 1313 | b.c.c.(Ti)+GaTi2->GaTi3 | b.c.c.(Ti): Ga 0.155; GaTi2: Ga 0.333; GaTi3: Ga 0.247 | unspecified | [1] Liu 2013; _cites Belousov 1981_ | Table 2, p. 4, row 15; `ORC-FSJSULRJKX` |  |
+| 1313 | peritectoid: b.c.c.(Ti) + GaTi2–GaTi3 | b.c.c.(Ti): Ga 0.155; GaTi2: Ga 0.333; GaTi3: Ga 0.247 | unspecified | [2] Li 2003; _cites Belousov 1981_ | Table 1, p. 3, row 12; `ORC-LECLMGP45H` |  |
+| 1303 | peritectoid: b.c.c.(Ti) + GaTi2–GaTi3 | b.c.c.(Ti): Ga 0.1957; GaTi2: Ga 0.333; GaTi3: Ga 0.2443 | model | [2] Li 2003 | Table 1, p. 3, row 10; `ORC-4SBI5FYBDN` |  |
+| 1303 | b.c.c.(Ti)+GaTi2->GaTi3 | b.c.c.(Ti): Ga 0.178; GaTi2: Ga 0.333; GaTi3: Ga 0.24 | model | [1] Liu 2013 | Table 2, p. 4, row 12; `ORC-B3VUZXLTZ3` |  |
+| 1303 | b.c.c.(Ti)+GaTi2->GaTi3 | b.c.c.(Ti): Ga 0.1957; GaTi2: Ga 0.333; GaTi3: Ga 0.2443 | unspecified | [1] Liu 2013; _cites Li 2003_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900131-2) | Table 2, p. 4, row 13; `ORC-BPIC6EVUIW` |  |
+| 1303 | b.c.c.(Ti)+GaTi2->GaTi3 | b.c.c.(Ti): Ga 0.195; GaTi2: Ga 0.333; GaTi3: Ga 0.24 | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 14; `ORC-J5NDP5BU4W` |  |
+| 1303 | peritectoid: b.c.c.(Ti) + GaTi2–GaTi3 | b.c.c.(Ti): Ga 0.168; GaTi2: Ga 0.333; GaTi3: Ga 0.247 | experimental | [2] Li 2003; _cites Anderko 1957_ [doi](https://doi.org/10.1007/bf00638248) | Table 1, p. 3, row 13; `ORC-PI6OGGJIKF` |  |
+| 1303 | peritectoid: b.c.c.(Ti) + GaTi2–GaTi3 | b.c.c.(Ti): Ga 0.195; GaTi2: Ga 0.333; GaTi3: Ga 0.24 | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 1, p. 3, row 11; `ORC-PSPDOJJILH` |  |
+| 1303 | b.c.c.(Ti)+GaTi2->GaTi3 | b.c.c.(Ti): Ga 0.168; GaTi2: Ga 0.333; GaTi3: Ga 0.247 | experimental | [1] Liu 2013; _cites Anderko 1957_ [doi](https://doi.org/10.1007/bf00638248) | Table 2, p. 4, row 16; `ORC-YYZGMDKPUJ` |  |
+| 1213 | b.c.c.(Ti)+GaTi3->h.c.p.(Ti) | b.c.c.(Ti): Ga 0.1644; GaTi3: Ga 0.2281 | unspecified | [1] Liu 2013; _cites Li 2003_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900131-2) | Table 2, p. 4, row 18; `ORC-2N5NXH5OL2` |  |
+| 1213 | peritectoid: b.c.c.(Ti) + GaTi3–h.c.p.(Ti) | b.c.c.(Ti): Ga 0.1644; GaTi3: Ga 0.2281 | model | [2] Li 2003 | Table 1, p. 3, row 14; `ORC-BDXFHD6TGN` |  |
+| 1213 | peritectoid: b.c.c.(Ti) + GaTi3–h.c.p.(Ti) | b.c.c.(Ti): Ga 0.17; GaTi3: Ga 0.226; h.c.p.(Ti): Ga 0.19 | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 1, p. 3, row 15; `ORC-JGBEGLBF2P` |  |
+| 1213 | b.c.c.(Ti)+GaTi3->h.c.p.(Ti) | b.c.c.(Ti): Ga 0.161; GaTi3: Ga 0.237 | model | [1] Liu 2013 | Table 2, p. 4, row 17; `ORC-ML2ZXWWXHD` |  |
+| 1213 | b.c.c.(Ti)+GaTi3->h.c.p.(Ti) | b.c.c.(Ti): Ga 0.1; GaTi3: Ga 0.225; h.c.p.(Ti): Ga 0.13 | experimental | [1] Liu 2013; _cites Anderko 1957_ [doi](https://doi.org/10.1007/bf00638248) | Table 2, p. 4, row 21; `ORC-NAM5DEE6GC` |  |
+| 1213 | peritectoid: b.c.c.(Ti) + GaTi3–h.c.p.(Ti) | b.c.c.(Ti): Ga 0.1; GaTi3: Ga 0.225; h.c.p.(Ti): Ga 0.13 | experimental | [2] Li 2003; _cites Anderko 1957_ [doi](https://doi.org/10.1007/bf00638248) | Table 1, p. 3, row 17; `ORC-RRYNEUHNFD` |  |
+| 1213 | b.c.c.(Ti)+GaTi3->h.c.p.(Ti) | b.c.c.(Ti): Ga 0.17; GaTi3: Ga 0.226; h.c.p.(Ti): Ga 0.19 | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 19; `ORC-RUN27COPMC` |  |
+| 1203 | L+Ga2Ti->Ga3Ti | L: Ga 0.982; Ga2Ti: Ga 0.6667; Ga3Ti: Ga 0.75 | model | [1] Liu 2013 | Table 2, p. 4, row 57; `ORC-3EG7WBQNTU` |  |
+| 1203 | L+Ga2Ti->Ga3Ti | Ga2Ti: Ga 0.666667, Ti 0.333333; Ga3Ti: Ga 0.75, Ti 0.25 | experimental | [1] Liu 2013; _cites Li 2003_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900131-2) | Table 2, p. 4, row 61; `ORC-FVBUEPWBSA` |  |
+| 1203 | peritectic: L + Ga2Ti–Ga3Ti | Ga2Ti: Ga 0.666667, Ti 0.333333; Ga3Ti: Ga 0.75, Ti 0.25 | experimental | [2] Li 2003 | Table 1, p. 3, row 48; `ORC-GW7FEJFYBM` |  |
+| 1203 | L+Ga2Ti->Ga3Ti | L: Ga 0.9724; Ga2Ti: Ga 0.667; Ga3Ti: Ga 0.75 | unspecified | [1] Liu 2013; _cites Li 2003_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900131-2) | Table 2, p. 4, row 58; `ORC-VRLO5Q7EC7` |  |
+| 1203 | peritectic: L + Ga2Ti–Ga3Ti | L: Ga 0.9724; Ga2Ti: Ga 0.667; Ga3Ti: Ga 0.75 | model | [2] Li 2003 | Table 1, p. 3, row 45; `ORC-Y6RO4CFR3U` |  |
+| 1198 | L+Ga2Ti->Ga3Ti | L: Ga 0.97; Ga2Ti: Ga 0.6667; Ga3Ti: Ga 0.75 | experimental | [1] Liu 2013; _cites Potzschke 1962_ | Table 2, p. 4, row 60; `ORC-AIOODEQ35D` |  |
+| 1198 | peritectic: L + Ga2Ti–Ga3Ti | L: Ga 0.97; Ga2Ti: Ga 0.6667; Ga3Ti: Ga 0.75 | experimental | [2] Li 2003; _cites Potzschke 1962_ | Table 1, p. 3, row 47; `ORC-YAB34O47H4` |  |
+| 1193 | peritectoid: b.c.c.(Ti) + GaTi3–h.c.p.(Ti) | b.c.c.(Ti): Ga 0.125; GaTi3: Ga 0.21; h.c.p.(Ti): Ga 0.09 | unspecified | [2] Li 2003; _cites Belousov 1981_ | Table 1, p. 3, row 16; `ORC-HZD5V5QLIK` |  |
+| 1193 | b.c.c.(Ti)+GaTi3->h.c.p.(Ti) | b.c.c.(Ti): Ga 0.125; GaTi3: Ga 0.21; h.c.p.(Ti): Ga 0.09 | unspecified | [1] Liu 2013; _cites Belousov 1981_ | Table 2, p. 4, row 20; `ORC-UPXCDJM54I` |  |
 
 ## Other properties
 
@@ -197,9 +197,9 @@ Table: Phase transition, Ga–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1202 K | 1202 | L + Ga2Ti = Ga3Ti | experimental | [2] Li 2003 | p. 4 | “The temperature of the invariant equilibrium L1Ga 2 Ti-Ga 3 Ti is 1202 K, consistent with the result of Ref. \[8\] but different from Ref. \[9\].” |
-| Phase transition | 1700 K | 1700 | other | experimental | [2] Li 2003; _cites Kaufman 1973_ | p. 2 | “Two solidus points of the b.c.c. /(b.c.c.1L) boundaries of 16 and 26 at.% Ga at 1770 and 1700 K, respectively (unpublished work \[6\]) were quoted in Ref. \[2\].” |
-| Phase transition | 1770 K | 1770 | other | experimental | [2] Li 2003; _cites Kaufman 1973_ | p. 2 | “Two solidus points of the b.c.c. /(b.c.c.1L) boundaries of 16 and 26 at.% Ga at 1770 and 1700 K, respectively (unpublished work \[6\]) were quoted in Ref. \[2\].” |
+| Phase transition | 1202 K | 1202 | L + Ga2Ti = Ga3Ti | experimental | [2] Li 2003 | p. 4; `ORC-OIHPIPMEMD` | “The temperature of the invariant equilibrium L1Ga 2 Ti-Ga 3 Ti is 1202 K, consistent with the result of Ref. \[8\] but different from Ref. \[9\].” |
+| Phase transition | 1700 K | 1700 | other | experimental | [2] Li 2003; _cites Kaufman 1973_ | p. 2; `ORC-U5KHCHBYRX.35d0d0` | “Two solidus points of the b.c.c. /(b.c.c.1L) boundaries of 16 and 26 at.% Ga at 1770 and 1700 K, respectively (unpublished work \[6\]) were quoted in Ref. \[2\].” |
+| Phase transition | 1770 K | 1770 | other | experimental | [2] Li 2003; _cites Kaufman 1973_ | p. 2; `ORC-U5KHCHBYRX.2cfc50` | “Two solidus points of the b.c.c. /(b.c.c.1L) boundaries of 16 and 26 at.% Ga at 1770 and 1700 K, respectively (unpublished work \[6\]) were quoted in Ref. \[2\].” |
 
 ### Crystal structure (92)
 
@@ -207,98 +207,98 @@ Table: Crystal structure, Ga–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 3.929 Å | 298.15 | Ga2Ti; _alloy: Ti 0.333333_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 6, row 19 |  |
-| Lattice a | 3.935 Å | 298.15 | Ga2Ti; _alloy: Ti 0.333333_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 7, row 3 |  |
-| Lattice a | 3.9405 Å | 298.15 | Ga2Ti; _alloy: Ti 0.333333_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 6, row 20 |  |
-| Lattice a | 3.935 Å | 298.15 | Ga2Ti; _alloy: Ti 0.333333_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 6, row 21 |  |
-| Lattice a | 3.9405 Å | 298.15 | Ga2Ti; _alloy: Ti 0.333333_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 7, row 2 |  |
-| Lattice a | 3.929 Å | 298.15 | Ga2Ti; _alloy: Ti 0.333333_ | model | [2] Li 2003; _cites Villars 1996_ | Table 2, p. 4, row 13 |  |
-| Lattice a | 3.929 Å | 298.15 | Ga2Ti; _alloy: Ti 0.333333_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 7, row 1 |  |
-| Lattice a | 3.9405 Å | 298.15 | Ga2Ti; _alloy: Ti 0.333333_ | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 14 |  |
-| Lattice a | 3.795 Å | 298.15 | Ga3Ti; _alloy: Ti 0.25_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 6, row 24 |  |
-| Lattice a | 3.789 Å | 298.15 | Ga3Ti; _alloy: Ti 0.25_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 6, row 22 |  |
-| Lattice a | 5.5625 Å | 298.15 | Ga3Ti; _alloy: Ti 0.25_ | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 16 |  |
-| Lattice a | 3.795 Å | 298.15 | Ga3Ti; _alloy: Ti 0.25_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 7, row 6 |  |
-| Lattice a | 5.5625 Å | 298.15 | Ga3Ti; _alloy: Ti 0.25_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 7, row 5 |  |
-| Lattice a | 3.789 Å | 298.15 | Ga3Ti; _alloy: Ti 0.25_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 7, row 4 |  |
-| Lattice a | 3.789 Å | 298.15 | Ga3Ti; _alloy: Ti 0.25_ | model | [2] Li 2003; _cites Villars 1996_ | Table 2, p. 4, row 15 |  |
-| Lattice a | 5.5625 Å | 298.15 | Ga3Ti; _alloy: Ti 0.25_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 6, row 23 |  |
-| Lattice a | 6.284 Å | 298.15 | Ga3Ti2; _alloy: Ti 0.4_ | model | [2] Li 2003; _cites Villars 1996_ | Table 2, p. 4, row 11 |  |
-| Lattice a | 6.284 Å | 298.15 | Ga3Ti2; _alloy: Ti 0.4_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 6, row 16 |  |
-| Lattice a | 6.2817 Å | 298.15 | Ga3Ti2; _alloy: Ti 0.4_ | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 12 |  |
-| Lattice a | 6.2817 Å | 298.15 | Ga3Ti2; _alloy: Ti 0.4_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 6, row 17 |  |
-| Lattice a | 6.293 Å | 298.15 | Ga3Ti2; _alloy: Ti 0.4_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 6, row 18 |  |
-| Lattice a | 10.22 Å | 298.15 | Ga3Ti5; _alloy: Ti 0.625_ | model | [2] Li 2003; _cites Villars 1996_ | Table 2, p. 4, row 5 |  |
-| Lattice a | 10.207 Å | 298.15 | Ga3Ti5; _alloy: Ti 0.625_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 6, row 9 |  |
-| Lattice a | 10.22 Å | 298.15 | Ga3Ti5; _alloy: Ti 0.625_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 6, row 7 |  |
-| Lattice a | 10.1906 Å | 298.15 | Ga3Ti5; _alloy: Ti 0.625_ | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 6 |  |
-| Lattice a | 10.1906 Å | 298.15 | Ga3Ti5; _alloy: Ti 0.625_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 6, row 8 |  |
-| Lattice a | 7.867 Å | 298.15 | Ga4Ti5; _alloy: Ti 0.555556_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 6, row 12 |  |
-| Lattice a | 7.861 Å | 298.15 | Ga4Ti5; _alloy: Ti 0.555556_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 6, row 10 |  |
-| Lattice a | 7.8456 Å | 298.15 | Ga4Ti5; _alloy: Ti 0.555556_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 6, row 11 |  |
-| Lattice a | 7.8456 Å | 298.15 | Ga4Ti5; _alloy: Ti 0.555556_ | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 8 |  |
-| Lattice a | 7.861 Å | 298.15 | Ga4Ti5; _alloy: Ti 0.555556_ | model | [2] Li 2003; _cites Villars 1996_ | Table 2, p. 4, row 7 |  |
-| Lattice a | 3.967 Å | 298.15 | GaTi; _alloy: Ti 0.5_ | model | [2] Li 2003; _cites Villars 1996_ | Table 2, p. 4, row 9 |  |
-| Lattice a | 3.967 Å | 298.15 | GaTi; _alloy: Ti 0.5_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 6, row 13 |  |
-| Lattice a | 3.9717 Å | 298.15 | GaTi; _alloy: Ti 0.5_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 6, row 14 |  |
-| Lattice a | 3.978 Å | 298.15 | GaTi; _alloy: Ti 0.5_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 6, row 15 |  |
-| Lattice a | 3.9717 Å | 298.15 | GaTi; _alloy: Ti 0.5_ | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 10 |  |
-| Lattice a | 4.514 Å | 298.15 | GaTi2; _alloy: Ti 0.666667_ | model | [2] Li 2003; _cites Villars 1996_ | Table 2, p. 4, row 3 |  |
-| Lattice a | 4.5207 Å | 298.15 | GaTi2; _alloy: Ti 0.666667_ | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 4 |  |
-| Lattice a | 4.523 Å | 298.15 | GaTi2; _alloy: Ti 0.666667_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 6, row 6 |  |
-| Lattice a | 4.514 Å | 298.15 | GaTi2; _alloy: Ti 0.666667_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 6, row 4 |  |
-| Lattice a | 4.5207 Å | 298.15 | GaTi2; _alloy: Ti 0.666667_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 6, row 5 |  |
-| Lattice a | 5.7447 Å | 298.15 | GaTi3; _alloy: Ti 0.75_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 6, row 2 |  |
-| Lattice a | 5.688 Å | 298.15 | GaTi3; _alloy: Ti 0.75_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 6, row 3 |  |
-| Lattice a | 5.7447 Å | 298.15 | GaTi3; _alloy: Ti 0.75_ | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 2 |  |
-| Lattice a | 5.76 Å | 298.15 | GaTi3; _alloy: Ti 0.75_ | model | [2] Li 2003; _cites Villars 1996_ | Table 2, p. 4, row 1 |  |
-| Lattice a | 5.76 Å | 298.15 | GaTi3; _alloy: Ti 0.75_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 6, row 1 |  |
-| Lattice c | 24.061 Å | 298.15 | Ga2Ti; _alloy: Ti 0.333333_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 6, row 19 |  |
-| Lattice c | 24.465 Å | 298.15 | Ga2Ti; _alloy: Ti 0.333333_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 7, row 3 |  |
-| Lattice c | 24.406 Å | 298.15 | Ga2Ti; _alloy: Ti 0.333333_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 6, row 20 |  |
-| Lattice c | 24.465 Å | 298.15 | Ga2Ti; _alloy: Ti 0.333333_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 6, row 21 |  |
-| Lattice c | 24.406 Å | 298.15 | Ga2Ti; _alloy: Ti 0.333333_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 7, row 2 |  |
-| Lattice c | 24.061 Å | 298.15 | Ga2Ti; _alloy: Ti 0.333333_ | model | [2] Li 2003; _cites Villars 1996_ | Table 2, p. 4, row 13 |  |
-| Lattice c | 24.061 Å | 298.15 | Ga2Ti; _alloy: Ti 0.333333_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 7, row 1 |  |
-| Lattice c | 24.406 Å | 298.15 | Ga2Ti; _alloy: Ti 0.333333_ | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 14 |  |
-| Lattice c | 8.523 Å | 298.15 | Ga3Ti; _alloy: Ti 0.25_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 6, row 24 |  |
-| Lattice c | 8.734 Å | 298.15 | Ga3Ti; _alloy: Ti 0.25_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 6, row 22 |  |
-| Lattice c | 8.1178 Å | 298.15 | Ga3Ti; _alloy: Ti 0.25_ | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 16 |  |
-| Lattice c | 8.523 Å | 298.15 | Ga3Ti; _alloy: Ti 0.25_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 7, row 6 |  |
-| Lattice c | 8.1178 Å | 298.15 | Ga3Ti; _alloy: Ti 0.25_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 7, row 5 |  |
-| Lattice c | 8.734 Å | 298.15 | Ga3Ti; _alloy: Ti 0.25_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 7, row 4 |  |
-| Lattice c | 8.734 Å | 298.15 | Ga3Ti; _alloy: Ti 0.25_ | model | [2] Li 2003; _cites Villars 1996_ | Table 2, p. 4, row 15 |  |
-| Lattice c | 8.1178 Å | 298.15 | Ga3Ti; _alloy: Ti 0.25_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 6, row 23 |  |
-| Lattice c | 4.01 Å | 298.15 | Ga3Ti2; _alloy: Ti 0.4_ | model | [2] Li 2003; _cites Villars 1996_ | Table 2, p. 4, row 11 |  |
-| Lattice c | 4.01 Å | 298.15 | Ga3Ti2; _alloy: Ti 0.4_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 6, row 16 |  |
-| Lattice c | 3.9991 Å | 298.15 | Ga3Ti2; _alloy: Ti 0.4_ | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 12 |  |
-| Lattice c | 3.9991 Å | 298.15 | Ga3Ti2; _alloy: Ti 0.4_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 6, row 17 |  |
-| Lattice c | 3.995 Å | 298.15 | Ga3Ti2; _alloy: Ti 0.4_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 6, row 18 |  |
-| Lattice c | 5.054 Å | 298.15 | Ga3Ti5; _alloy: Ti 0.625_ | model | [2] Li 2003; _cites Villars 1996_ | Table 2, p. 4, row 5 |  |
-| Lattice c | 4.996 Å | 298.15 | Ga3Ti5; _alloy: Ti 0.625_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 6, row 9 |  |
-| Lattice c | 5.054 Å | 298.15 | Ga3Ti5; _alloy: Ti 0.625_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 6, row 7 |  |
-| Lattice c | 5.042 Å | 298.15 | Ga3Ti5; _alloy: Ti 0.625_ | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 6 |  |
-| Lattice c | 5.042 Å | 298.15 | Ga3Ti5; _alloy: Ti 0.625_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 6, row 8 |  |
-| Lattice c | 5.409 Å | 298.15 | Ga4Ti5; _alloy: Ti 0.555556_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 6, row 12 |  |
-| Lattice c | 5.452 Å | 298.15 | Ga4Ti5; _alloy: Ti 0.555556_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 6, row 10 |  |
-| Lattice c | 5.4259 Å | 298.15 | Ga4Ti5; _alloy: Ti 0.555556_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 6, row 11 |  |
-| Lattice c | 5.4259 Å | 298.15 | Ga4Ti5; _alloy: Ti 0.555556_ | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 8 |  |
-| Lattice c | 5.452 Å | 298.15 | Ga4Ti5; _alloy: Ti 0.555556_ | model | [2] Li 2003; _cites Villars 1996_ | Table 2, p. 4, row 7 |  |
-| Lattice c | 3.967 Å | 298.15 | GaTi; _alloy: Ti 0.5_ | model | [2] Li 2003; _cites Villars 1996_ | Table 2, p. 4, row 9 |  |
-| Lattice c | 3.967 Å | 298.15 | GaTi; _alloy: Ti 0.5_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 6, row 13 |  |
-| Lattice c | 3.9872 Å | 298.15 | GaTi; _alloy: Ti 0.5_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 6, row 14 |  |
-| Lattice c | 3.964 Å | 298.15 | GaTi; _alloy: Ti 0.5_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 6, row 15 |  |
-| Lattice c | 3.9872 Å | 298.15 | GaTi; _alloy: Ti 0.5_ | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 10 |  |
-| Lattice c | 5.501 Å | 298.15 | GaTi2; _alloy: Ti 0.666667_ | model | [2] Li 2003; _cites Villars 1996_ | Table 2, p. 4, row 3 |  |
-| Lattice c | 5.5222 Å | 298.15 | GaTi2; _alloy: Ti 0.666667_ | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 4 |  |
-| Lattice c | 5.451 Å | 298.15 | GaTi2; _alloy: Ti 0.666667_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 6, row 6 |  |
-| Lattice c | 5.501 Å | 298.15 | GaTi2; _alloy: Ti 0.666667_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 6, row 4 |  |
-| Lattice c | 5.5222 Å | 298.15 | GaTi2; _alloy: Ti 0.666667_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 6, row 5 |  |
-| Lattice c | 4.5955 Å | 298.15 | GaTi3; _alloy: Ti 0.75_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 6, row 2 |  |
-| Lattice c | 4.642 Å | 298.15 | GaTi3; _alloy: Ti 0.75_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 6, row 3 |  |
-| Lattice c | 4.5955 Å | 298.15 | GaTi3; _alloy: Ti 0.75_ | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 2 |  |
-| Lattice c | 4.64 Å | 298.15 | GaTi3; _alloy: Ti 0.75_ | model | [2] Li 2003; _cites Villars 1996_ | Table 2, p. 4, row 1 |  |
-| Lattice c | 4.64 Å | 298.15 | GaTi3; _alloy: Ti 0.75_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 6, row 1 |  |
+| Lattice a | 3.929 Å | 298.15 | Ga2Ti; _alloy: Ti 0.333333_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 6, row 19; `ORC-3RXEME7M34.c71ef6` |  |
+| Lattice a | 3.935 Å | 298.15 | Ga2Ti; _alloy: Ti 0.333333_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 7, row 3; `ORC-4OAJIE5ZNL.c288f5` |  |
+| Lattice a | 3.9405 Å | 298.15 | Ga2Ti; _alloy: Ti 0.333333_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 6, row 20; `ORC-5TC5ZSDS2Z.f0b885` |  |
+| Lattice a | 3.935 Å | 298.15 | Ga2Ti; _alloy: Ti 0.333333_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 6, row 21; `ORC-5XG4K5TSEG.31dcb5` |  |
+| Lattice a | 3.9405 Å | 298.15 | Ga2Ti; _alloy: Ti 0.333333_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 7, row 2; `ORC-6JIWCQBRJN.5aa791` |  |
+| Lattice a | 3.929 Å | 298.15 | Ga2Ti; _alloy: Ti 0.333333_ | model | [2] Li 2003; _cites Villars 1996_ | Table 2, p. 4, row 13; `ORC-G5PCSZ2CJ6.56ac5d` |  |
+| Lattice a | 3.929 Å | 298.15 | Ga2Ti; _alloy: Ti 0.333333_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 7, row 1; `ORC-JAILD3UWIM.01e98a` |  |
+| Lattice a | 3.9405 Å | 298.15 | Ga2Ti; _alloy: Ti 0.333333_ | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 14; `ORC-P5YKFDMKUF.680fc5` |  |
+| Lattice a | 3.795 Å | 298.15 | Ga3Ti; _alloy: Ti 0.25_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 6, row 24; `ORC-42OOBPZPYI.3db8c0` |  |
+| Lattice a | 3.789 Å | 298.15 | Ga3Ti; _alloy: Ti 0.25_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 6, row 22; `ORC-4737YQMGAL.6d272f` |  |
+| Lattice a | 5.5625 Å | 298.15 | Ga3Ti; _alloy: Ti 0.25_ | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 16; `ORC-5LJHEEYUXJ.b64e5e` |  |
+| Lattice a | 3.795 Å | 298.15 | Ga3Ti; _alloy: Ti 0.25_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 7, row 6; `ORC-AN2EUSW6KJ.7ee440` |  |
+| Lattice a | 5.5625 Å | 298.15 | Ga3Ti; _alloy: Ti 0.25_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 7, row 5; `ORC-GXL6RSEKM7.117ff6` |  |
+| Lattice a | 3.789 Å | 298.15 | Ga3Ti; _alloy: Ti 0.25_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 7, row 4; `ORC-I56UNDNCOJ.eb879e` |  |
+| Lattice a | 3.789 Å | 298.15 | Ga3Ti; _alloy: Ti 0.25_ | model | [2] Li 2003; _cites Villars 1996_ | Table 2, p. 4, row 15; `ORC-XDUDTPP2PA.27d3b3` |  |
+| Lattice a | 5.5625 Å | 298.15 | Ga3Ti; _alloy: Ti 0.25_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 6, row 23; `ORC-Z2HBPU7OSU.11393e` |  |
+| Lattice a | 6.284 Å | 298.15 | Ga3Ti2; _alloy: Ti 0.4_ | model | [2] Li 2003; _cites Villars 1996_ | Table 2, p. 4, row 11; `ORC-2M5R6QITUL.34dde1` |  |
+| Lattice a | 6.284 Å | 298.15 | Ga3Ti2; _alloy: Ti 0.4_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 6, row 16; `ORC-EXLMMZEW3D.3521b1` |  |
+| Lattice a | 6.2817 Å | 298.15 | Ga3Ti2; _alloy: Ti 0.4_ | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 12; `ORC-HR43LA33AY.cc40a7` |  |
+| Lattice a | 6.2817 Å | 298.15 | Ga3Ti2; _alloy: Ti 0.4_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 6, row 17; `ORC-LDTDVVZ3RJ.83b6fe` |  |
+| Lattice a | 6.293 Å | 298.15 | Ga3Ti2; _alloy: Ti 0.4_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 6, row 18; `ORC-Z34EO67DLQ.65a8be` |  |
+| Lattice a | 10.22 Å | 298.15 | Ga3Ti5; _alloy: Ti 0.625_ | model | [2] Li 2003; _cites Villars 1996_ | Table 2, p. 4, row 5; `ORC-3GX6THHI24.2fac82` |  |
+| Lattice a | 10.207 Å | 298.15 | Ga3Ti5; _alloy: Ti 0.625_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 6, row 9; `ORC-7TQO4CO6YS.47e964` |  |
+| Lattice a | 10.22 Å | 298.15 | Ga3Ti5; _alloy: Ti 0.625_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 6, row 7; `ORC-DYWLUOOVJM.21cd06` |  |
+| Lattice a | 10.1906 Å | 298.15 | Ga3Ti5; _alloy: Ti 0.625_ | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 6; `ORC-K5RUXYHN3U.6851d4` |  |
+| Lattice a | 10.1906 Å | 298.15 | Ga3Ti5; _alloy: Ti 0.625_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 6, row 8; `ORC-OTBQGCXZGE.0f41b7` |  |
+| Lattice a | 7.867 Å | 298.15 | Ga4Ti5; _alloy: Ti 0.555556_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 6, row 12; `ORC-2VXT4ZVP2X.34d10e` |  |
+| Lattice a | 7.861 Å | 298.15 | Ga4Ti5; _alloy: Ti 0.555556_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 6, row 10; `ORC-JIDXVTLHYU.5795e5` |  |
+| Lattice a | 7.8456 Å | 298.15 | Ga4Ti5; _alloy: Ti 0.555556_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 6, row 11; `ORC-M6QSPUPC4J.785e90` |  |
+| Lattice a | 7.8456 Å | 298.15 | Ga4Ti5; _alloy: Ti 0.555556_ | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 8; `ORC-N2XMZ5VG43.529825` |  |
+| Lattice a | 7.861 Å | 298.15 | Ga4Ti5; _alloy: Ti 0.555556_ | model | [2] Li 2003; _cites Villars 1996_ | Table 2, p. 4, row 7; `ORC-PJI2LUDQKU.5429ce` |  |
+| Lattice a | 3.967 Å | 298.15 | GaTi; _alloy: Ti 0.5_ | model | [2] Li 2003; _cites Villars 1996_ | Table 2, p. 4, row 9; `ORC-3HPLPT6TAQ.bd28b6` |  |
+| Lattice a | 3.967 Å | 298.15 | GaTi; _alloy: Ti 0.5_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 6, row 13; `ORC-CUZ4TYXNKT.88a0be` |  |
+| Lattice a | 3.9717 Å | 298.15 | GaTi; _alloy: Ti 0.5_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 6, row 14; `ORC-ECKVAU6AFT.fa95ad` |  |
+| Lattice a | 3.978 Å | 298.15 | GaTi; _alloy: Ti 0.5_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 6, row 15; `ORC-FXSUY2LD4D.aaa215` |  |
+| Lattice a | 3.9717 Å | 298.15 | GaTi; _alloy: Ti 0.5_ | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 10; `ORC-HTFTPHWELY.626498` |  |
+| Lattice a | 4.514 Å | 298.15 | GaTi2; _alloy: Ti 0.666667_ | model | [2] Li 2003; _cites Villars 1996_ | Table 2, p. 4, row 3; `ORC-5W2JLPWZSD.05fba2` |  |
+| Lattice a | 4.5207 Å | 298.15 | GaTi2; _alloy: Ti 0.666667_ | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 4; `ORC-BTTT7YQAWN.15706f` |  |
+| Lattice a | 4.523 Å | 298.15 | GaTi2; _alloy: Ti 0.666667_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 6, row 6; `ORC-CWSRNUAAXN.6d6ebc` |  |
+| Lattice a | 4.514 Å | 298.15 | GaTi2; _alloy: Ti 0.666667_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 6, row 4; `ORC-EDUJH3Q4XE.0e9e09` |  |
+| Lattice a | 4.5207 Å | 298.15 | GaTi2; _alloy: Ti 0.666667_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 6, row 5; `ORC-SZZPWX6DHY.0b41a0` |  |
+| Lattice a | 5.7447 Å | 298.15 | GaTi3; _alloy: Ti 0.75_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 6, row 2; `ORC-4L56HKZOTS.4d2e20` |  |
+| Lattice a | 5.688 Å | 298.15 | GaTi3; _alloy: Ti 0.75_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 6, row 3; `ORC-GZWNKOQFIE.2959f8` |  |
+| Lattice a | 5.7447 Å | 298.15 | GaTi3; _alloy: Ti 0.75_ | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 2; `ORC-NQXD4ECTKN.6797f3` |  |
+| Lattice a | 5.76 Å | 298.15 | GaTi3; _alloy: Ti 0.75_ | model | [2] Li 2003; _cites Villars 1996_ | Table 2, p. 4, row 1; `ORC-P4GIDW7625.c7ab3c` |  |
+| Lattice a | 5.76 Å | 298.15 | GaTi3; _alloy: Ti 0.75_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 6, row 1; `ORC-RSQRFULNFE.d336b2` |  |
+| Lattice c | 24.061 Å | 298.15 | Ga2Ti; _alloy: Ti 0.333333_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 6, row 19; `ORC-3RXEME7M34.a9ea4d` |  |
+| Lattice c | 24.465 Å | 298.15 | Ga2Ti; _alloy: Ti 0.333333_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 7, row 3; `ORC-4OAJIE5ZNL.801e04` |  |
+| Lattice c | 24.406 Å | 298.15 | Ga2Ti; _alloy: Ti 0.333333_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 6, row 20; `ORC-5TC5ZSDS2Z.289da7` |  |
+| Lattice c | 24.465 Å | 298.15 | Ga2Ti; _alloy: Ti 0.333333_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 6, row 21; `ORC-5XG4K5TSEG.edc82f` |  |
+| Lattice c | 24.406 Å | 298.15 | Ga2Ti; _alloy: Ti 0.333333_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 7, row 2; `ORC-6JIWCQBRJN.df2cdf` |  |
+| Lattice c | 24.061 Å | 298.15 | Ga2Ti; _alloy: Ti 0.333333_ | model | [2] Li 2003; _cites Villars 1996_ | Table 2, p. 4, row 13; `ORC-G5PCSZ2CJ6.3cb5db` |  |
+| Lattice c | 24.061 Å | 298.15 | Ga2Ti; _alloy: Ti 0.333333_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 7, row 1; `ORC-JAILD3UWIM.72b4cb` |  |
+| Lattice c | 24.406 Å | 298.15 | Ga2Ti; _alloy: Ti 0.333333_ | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 14; `ORC-P5YKFDMKUF.3cc817` |  |
+| Lattice c | 8.523 Å | 298.15 | Ga3Ti; _alloy: Ti 0.25_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 6, row 24; `ORC-42OOBPZPYI.a81f08` |  |
+| Lattice c | 8.734 Å | 298.15 | Ga3Ti; _alloy: Ti 0.25_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 6, row 22; `ORC-4737YQMGAL.c2acdb` |  |
+| Lattice c | 8.1178 Å | 298.15 | Ga3Ti; _alloy: Ti 0.25_ | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 16; `ORC-5LJHEEYUXJ.c06106` |  |
+| Lattice c | 8.523 Å | 298.15 | Ga3Ti; _alloy: Ti 0.25_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 7, row 6; `ORC-AN2EUSW6KJ.be678c` |  |
+| Lattice c | 8.1178 Å | 298.15 | Ga3Ti; _alloy: Ti 0.25_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 7, row 5; `ORC-GXL6RSEKM7.a11f83` |  |
+| Lattice c | 8.734 Å | 298.15 | Ga3Ti; _alloy: Ti 0.25_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 7, row 4; `ORC-I56UNDNCOJ.f456f2` |  |
+| Lattice c | 8.734 Å | 298.15 | Ga3Ti; _alloy: Ti 0.25_ | model | [2] Li 2003; _cites Villars 1996_ | Table 2, p. 4, row 15; `ORC-XDUDTPP2PA.a96f37` |  |
+| Lattice c | 8.1178 Å | 298.15 | Ga3Ti; _alloy: Ti 0.25_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 6, row 23; `ORC-Z2HBPU7OSU.5ffb78` |  |
+| Lattice c | 4.01 Å | 298.15 | Ga3Ti2; _alloy: Ti 0.4_ | model | [2] Li 2003; _cites Villars 1996_ | Table 2, p. 4, row 11; `ORC-2M5R6QITUL.76095d` |  |
+| Lattice c | 4.01 Å | 298.15 | Ga3Ti2; _alloy: Ti 0.4_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 6, row 16; `ORC-EXLMMZEW3D.00a4ab` |  |
+| Lattice c | 3.9991 Å | 298.15 | Ga3Ti2; _alloy: Ti 0.4_ | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 12; `ORC-HR43LA33AY.4133b8` |  |
+| Lattice c | 3.9991 Å | 298.15 | Ga3Ti2; _alloy: Ti 0.4_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 6, row 17; `ORC-LDTDVVZ3RJ.0f6bae` |  |
+| Lattice c | 3.995 Å | 298.15 | Ga3Ti2; _alloy: Ti 0.4_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 6, row 18; `ORC-Z34EO67DLQ.e91ac4` |  |
+| Lattice c | 5.054 Å | 298.15 | Ga3Ti5; _alloy: Ti 0.625_ | model | [2] Li 2003; _cites Villars 1996_ | Table 2, p. 4, row 5; `ORC-3GX6THHI24.8d6eef` |  |
+| Lattice c | 4.996 Å | 298.15 | Ga3Ti5; _alloy: Ti 0.625_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 6, row 9; `ORC-7TQO4CO6YS.da7831` |  |
+| Lattice c | 5.054 Å | 298.15 | Ga3Ti5; _alloy: Ti 0.625_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 6, row 7; `ORC-DYWLUOOVJM.bee8a8` |  |
+| Lattice c | 5.042 Å | 298.15 | Ga3Ti5; _alloy: Ti 0.625_ | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 6; `ORC-K5RUXYHN3U.5abfc2` |  |
+| Lattice c | 5.042 Å | 298.15 | Ga3Ti5; _alloy: Ti 0.625_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 6, row 8; `ORC-OTBQGCXZGE.940132` |  |
+| Lattice c | 5.409 Å | 298.15 | Ga4Ti5; _alloy: Ti 0.555556_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 6, row 12; `ORC-2VXT4ZVP2X.86547f` |  |
+| Lattice c | 5.452 Å | 298.15 | Ga4Ti5; _alloy: Ti 0.555556_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 6, row 10; `ORC-JIDXVTLHYU.dda1b1` |  |
+| Lattice c | 5.4259 Å | 298.15 | Ga4Ti5; _alloy: Ti 0.555556_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 6, row 11; `ORC-M6QSPUPC4J.cdd763` |  |
+| Lattice c | 5.4259 Å | 298.15 | Ga4Ti5; _alloy: Ti 0.555556_ | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 8; `ORC-N2XMZ5VG43.4a9c06` |  |
+| Lattice c | 5.452 Å | 298.15 | Ga4Ti5; _alloy: Ti 0.555556_ | model | [2] Li 2003; _cites Villars 1996_ | Table 2, p. 4, row 7; `ORC-PJI2LUDQKU.184ad5` |  |
+| Lattice c | 3.967 Å | 298.15 | GaTi; _alloy: Ti 0.5_ | model | [2] Li 2003; _cites Villars 1996_ | Table 2, p. 4, row 9; `ORC-3HPLPT6TAQ.d76f6e` |  |
+| Lattice c | 3.967 Å | 298.15 | GaTi; _alloy: Ti 0.5_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 6, row 13; `ORC-CUZ4TYXNKT.e45ad7` |  |
+| Lattice c | 3.9872 Å | 298.15 | GaTi; _alloy: Ti 0.5_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 6, row 14; `ORC-ECKVAU6AFT.435527` |  |
+| Lattice c | 3.964 Å | 298.15 | GaTi; _alloy: Ti 0.5_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 6, row 15; `ORC-FXSUY2LD4D.d416cf` |  |
+| Lattice c | 3.9872 Å | 298.15 | GaTi; _alloy: Ti 0.5_ | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 10; `ORC-HTFTPHWELY.8e8187` |  |
+| Lattice c | 5.501 Å | 298.15 | GaTi2; _alloy: Ti 0.666667_ | model | [2] Li 2003; _cites Villars 1996_ | Table 2, p. 4, row 3; `ORC-5W2JLPWZSD.2e8e95` |  |
+| Lattice c | 5.5222 Å | 298.15 | GaTi2; _alloy: Ti 0.666667_ | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 4; `ORC-BTTT7YQAWN.92d15b` |  |
+| Lattice c | 5.451 Å | 298.15 | GaTi2; _alloy: Ti 0.666667_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 6, row 6; `ORC-CWSRNUAAXN.6c06fe` |  |
+| Lattice c | 5.501 Å | 298.15 | GaTi2; _alloy: Ti 0.666667_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 6, row 4; `ORC-EDUJH3Q4XE.1732de` |  |
+| Lattice c | 5.5222 Å | 298.15 | GaTi2; _alloy: Ti 0.666667_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 6, row 5; `ORC-SZZPWX6DHY.108d78` |  |
+| Lattice c | 4.5955 Å | 298.15 | GaTi3; _alloy: Ti 0.75_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 6, row 2; `ORC-4L56HKZOTS.6e9685` |  |
+| Lattice c | 4.642 Å | 298.15 | GaTi3; _alloy: Ti 0.75_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 6, row 3; `ORC-GZWNKOQFIE.315cc6` |  |
+| Lattice c | 4.5955 Å | 298.15 | GaTi3; _alloy: Ti 0.75_ | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 2; `ORC-NQXD4ECTKN.0d95d7` |  |
+| Lattice c | 4.64 Å | 298.15 | GaTi3; _alloy: Ti 0.75_ | model | [2] Li 2003; _cites Villars 1996_ | Table 2, p. 4, row 1; `ORC-P4GIDW7625.b57727` |  |
+| Lattice c | 4.64 Å | 298.15 | GaTi3; _alloy: Ti 0.75_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 6, row 1; `ORC-RSQRFULNFE.d4b683` |  |
 
 ## Sources
 
@@ -364,4 +364,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

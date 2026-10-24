@@ -57,13 +57,13 @@ Table: Invariant reactions reported in the literature for the Np–O system (7)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 3070 | NpO2-x = L | NpO2-x: O 0.66667; L: O 0.66667 | unspecified | [1] Smith 2016; _cites Konings 2014_ [doi](https://doi.org/10.1063/1.4825256) | Table 7, p. 10, row 7 |  |
-| 3069.5 | NpO1.90 = L | NpO1.90: O 0.6549; L: O 0.6549 | model | [1] Smith 2016 | Table 7, p. 10, row 5 |  |
-| 2879 | NpO2-x + G = L | NpO2-x: O 0.6633; L: O 0.672 | model | [1] Smith 2016 | Table 7, p. 10, row 6 |  |
-| 1117 | L1 + L2 = NpO2-x | L1: O 5.500e-4; NpO2-x: O 0.412 | model | [1] Smith 2016 | Table 7, p. 10, row 2 |  |
-| 913 | L1 = NpO2-x + γ-Np | NpO2-x: O 0.66667; γ-Np: O 0 | model | [1] Smith 2016 | Table 7, p. 10, row 1 |  |
-| 700 | Np2O5 = 2NpO2 + 1/2O2 | Np2O5: O 0.71428; NpO2: Np 0.333333, O 0.666667 | unspecified | [1] Smith 2016; _cites Konings 2014_ [doi](https://doi.org/10.1063/1.4825256) | Table 7, p. 10, row 4 |  |
-| 700 | Np2O5 = 2NpO2 + 1/2O2 | Np2O5: O 0.71428; NpO2: Np 0.333333, O 0.666667 | model | [1] Smith 2016 | Table 7, p. 10, row 3 |  |
+| 3070 | NpO2-x = L | NpO2-x: O 0.66667; L: O 0.66667 | unspecified | [1] Smith 2016; _cites Konings 2014_ [doi](https://doi.org/10.1063/1.4825256) | Table 7, p. 10, row 7; `ORC-LNUSDKLIZM` |  |
+| 3069.5 | NpO1.90 = L | NpO1.90: O 0.6549; L: O 0.6549 | model | [1] Smith 2016 | Table 7, p. 10, row 5; `ORC-E323HEQGWT` |  |
+| 2879 | NpO2-x + G = L | NpO2-x: O 0.6633; L: O 0.672 | model | [1] Smith 2016 | Table 7, p. 10, row 6; `ORC-CG5TRVCYWC` |  |
+| 1117 | L1 + L2 = NpO2-x | L1: O 5.500e-4; NpO2-x: O 0.412 | model | [1] Smith 2016 | Table 7, p. 10, row 2; `ORC-7KSJBSWI6T` |  |
+| 913 | L1 = NpO2-x + γ-Np | NpO2-x: O 0.66667; γ-Np: O 0 | model | [1] Smith 2016 | Table 7, p. 10, row 1; `ORC-KBXM2K6JWI` |  |
+| 700 | Np2O5 = 2NpO2 + 1/2O2 | Np2O5: O 0.71428; NpO2: Np 0.333333, O 0.666667 | unspecified | [1] Smith 2016; _cites Konings 2014_ [doi](https://doi.org/10.1063/1.4825256) | Table 7, p. 10, row 4; `ORC-7W5Z67OINR` |  |
+| 700 | Np2O5 = 2NpO2 + 1/2O2 | Np2O5: O 0.71428; NpO2: Np 0.333333, O 0.666667 | model | [1] Smith 2016 | Table 7, p. 10, row 3; `ORC-OL3XCXZOGY` |  |
 
 ## Formation enthalpies
 
@@ -73,20 +73,20 @@ Table: Enthalpies of formation, Np–O system (14)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Np(g) |  | 470 kJ/mol (basis unstated) ± 5 | 298.15 | model |  |  | [1] Smith 2016; _cites Konings 2010_ [doi](https://doi.org/10.1063/1.3474238) | Table 11, p. 14, row 1 |  |
-| Np2O5(cr) | [Np2O5](https://data.orchid-project.org/compounds/Np2O5.html) | -310.286 kJ/mol-atom | 298.15 | model | -332.73 (mp-aaabfope) | -307.97 (oqmd-113840) | [1] Smith 2016 | Table 9, p. 12, row 3 |  |
-| Np2O5(cr) | [Np2O5](https://data.orchid-project.org/compounds/Np2O5.html) | -308.957 kJ/mol-atom ± 1.32857 | 298.15 | unspecified | -332.73 (mp-aaabfope) | -307.97 (oqmd-113840) | [1] Smith 2016; _cites Konings 2014_ [doi](https://doi.org/10.1063/1.4825256) | Table 2, p. 3, row 7 |  |
-| Np2O5(cr) | [Np2O5](https://data.orchid-project.org/compounds/Np2O5.html) | -308.957 kJ/mol-atom ± 1.32857 | 298.15 | model | -332.73 (mp-aaabfope) | -307.97 (oqmd-113840) | [1] Smith 2016; _cites Konings 2014_ [doi](https://doi.org/10.1063/1.4825256) | Table 9, p. 12, row 4 |  |
-| NpO(g) |  | -16.5 kJ/mol (basis unstated) ± 12.2 | 298.15 | model |  |  | [1] Smith 2016 | Table B.3, p. 17, row 4 |  |
-| NpO(g) |  | -13.3 kJ/mol (basis unstated) ± 11.5 | 298.15 | model |  |  | [1] Smith 2016 | Table B.3, p. 17, row 4 |  |
-| NpO(g) |  | -9.8 kJ/mol (basis unstated) ± 7.8 | 298.15 | model |  |  | [1] Smith 2016 | Table 11, p. 14, row 2 |  |
-| NpO(g) |  | -6.3 kJ/mol (basis unstated) ± 10.6 | 298.15 | model |  |  | [1] Smith 2016 | Table B.3, p. 17, row 3 |  |
-| NpO(g) |  | -2 kJ/mol (basis unstated) ± 11.4 | 298.15 | model |  |  | [1] Smith 2016 | Table B.3, p. 17, row 3 |  |
-| NpO2(cr) | [NpO2](https://data.orchid-project.org/compounds/NpO2.html) | -359.5 kJ/mol-atom ± 0.9 | 298.15 | model | -347.462 (mp-aaaaadwq) | -357.999 (oqmd-30883) | [1] Smith 2016; _cites Konings 2014_ [doi](https://doi.org/10.1063/1.4825256) | Table 9, p. 12, row 2 |  |
-| NpO2(cr) | [NpO2](https://data.orchid-project.org/compounds/NpO2.html) | -359.5 kJ/mol-atom ± 0.9 | 298.15 | unspecified | -347.462 (mp-aaaaadwq) | -357.999 (oqmd-30883) | [1] Smith 2016; _cites Konings 2014_ [doi](https://doi.org/10.1063/1.4825256) | Table 2, p. 3, row 5 |  |
-| NpO2(cr) | [NpO2](https://data.orchid-project.org/compounds/NpO2.html) | -358.933 kJ/mol-atom | 298.15 | model | -347.462 (mp-aaaaadwq) | -357.999 (oqmd-30883) | [1] Smith 2016 | Table 9, p. 12, row 1 |  |
-| NpO2(g) |  | -471.7 kJ/mol (basis unstated) ± 3.3 | 298.15 | model |  |  | [1] Smith 2016 | Table 11, p. 14, row 3 |  |
-| α-Np(cr) |  | 0 kJ/mol-atom | 298.15 | unspecified |  |  | [1] Smith 2016; _cites Konings 2010_ [doi](https://doi.org/10.1063/1.3474238) | Table 2, p. 3, row 1 |  |
+| Np(g) |  | 470 kJ/mol (basis unstated) ± 5 | 298.15 | model |  |  | [1] Smith 2016; _cites Konings 2010_ [doi](https://doi.org/10.1063/1.3474238) | Table 11, p. 14, row 1; `ORC-26LE6HRVKA.67ad21` |  |
+| Np2O5(cr) | [Np2O5](https://data.orchid-project.org/compounds/Np2O5.html) | -310.286 kJ/mol-atom | 298.15 | model | -332.73 (mp-aaabfope) | -307.97 (oqmd-113840) | [1] Smith 2016 | Table 9, p. 12, row 3; `ORC-JBXVUOFGIP.854c26` |  |
+| Np2O5(cr) | [Np2O5](https://data.orchid-project.org/compounds/Np2O5.html) | -308.957 kJ/mol-atom ± 1.32857 | 298.15 | unspecified | -332.73 (mp-aaabfope) | -307.97 (oqmd-113840) | [1] Smith 2016; _cites Konings 2014_ [doi](https://doi.org/10.1063/1.4825256) | Table 2, p. 3, row 7; `ORC-JPU2E25EMA.b56a48` |  |
+| Np2O5(cr) | [Np2O5](https://data.orchid-project.org/compounds/Np2O5.html) | -308.957 kJ/mol-atom ± 1.32857 | 298.15 | model | -332.73 (mp-aaabfope) | -307.97 (oqmd-113840) | [1] Smith 2016; _cites Konings 2014_ [doi](https://doi.org/10.1063/1.4825256) | Table 9, p. 12, row 4; `ORC-NWFD2FN5QA.258f9b` |  |
+| NpO(g) |  | -16.5 kJ/mol (basis unstated) ± 12.2 | 298.15 | model |  |  | [1] Smith 2016 | Table B.3, p. 17, row 4; `ORC-TQHMSO3VT6.07db6c` |  |
+| NpO(g) |  | -13.3 kJ/mol (basis unstated) ± 11.5 | 298.15 | model |  |  | [1] Smith 2016 | Table B.3, p. 17, row 4; `ORC-TQHMSO3VT6.1a6a92` |  |
+| NpO(g) |  | -9.8 kJ/mol (basis unstated) ± 7.8 | 298.15 | model |  |  | [1] Smith 2016 | Table 11, p. 14, row 2; `ORC-U4EO7KAALX.a5b857` |  |
+| NpO(g) |  | -6.3 kJ/mol (basis unstated) ± 10.6 | 298.15 | model |  |  | [1] Smith 2016 | Table B.3, p. 17, row 3; `ORC-N3LQBPBIG7.780ae6` |  |
+| NpO(g) |  | -2 kJ/mol (basis unstated) ± 11.4 | 298.15 | model |  |  | [1] Smith 2016 | Table B.3, p. 17, row 3; `ORC-N3LQBPBIG7.8310cd` |  |
+| NpO2(cr) | [NpO2](https://data.orchid-project.org/compounds/NpO2.html) | -359.5 kJ/mol-atom ± 0.9 | 298.15 | model | -347.462 (mp-aaaaadwq) | -357.999 (oqmd-30883) | [1] Smith 2016; _cites Konings 2014_ [doi](https://doi.org/10.1063/1.4825256) | Table 9, p. 12, row 2; `ORC-BFPKHAMK57.63ecea` |  |
+| NpO2(cr) | [NpO2](https://data.orchid-project.org/compounds/NpO2.html) | -359.5 kJ/mol-atom ± 0.9 | 298.15 | unspecified | -347.462 (mp-aaaaadwq) | -357.999 (oqmd-30883) | [1] Smith 2016; _cites Konings 2014_ [doi](https://doi.org/10.1063/1.4825256) | Table 2, p. 3, row 5; `ORC-OUZO3RGPQY.6dbca4` |  |
+| NpO2(cr) | [NpO2](https://data.orchid-project.org/compounds/NpO2.html) | -358.933 kJ/mol-atom | 298.15 | model | -347.462 (mp-aaaaadwq) | -357.999 (oqmd-30883) | [1] Smith 2016 | Table 9, p. 12, row 1; `ORC-RGFB4RVHHS.c47128` |  |
+| NpO2(g) |  | -471.7 kJ/mol (basis unstated) ± 3.3 | 298.15 | model |  |  | [1] Smith 2016 | Table 11, p. 14, row 3; `ORC-V3R5BIDQHV.1c7824` |  |
+| α-Np(cr) |  | 0 kJ/mol-atom | 298.15 | unspecified |  |  | [1] Smith 2016; _cites Konings 2010_ [doi](https://doi.org/10.1063/1.3474238) | Table 2, p. 3, row 1; `ORC-4WOUHONCTY.0f3f6c` |  |
 
 ## Other properties
 
@@ -96,12 +96,12 @@ Table: Phase transition, Np–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1117 K | 1117 | other | model | [1] Smith 2016 | p. 18 | “Yet, the temperature of the monotectic reaction as optimized herein, i.e., 1117 K, is much lower than suggested by \[12\].” |
-| Phase transition | 1117 K | 1117 | other | model | [1] Smith 2016 | p. 10 | “One major difference, however, concerns the temperature of the monotectic reaction, calculated here at 1117 K, while Richter and Sari \[12\] reported it around 2450 K.” |
-| Phase transition | 2450 K | 2450 | other | experimental | [1] Smith 2016 | p. 2 | “Richter and Sari have suggested 2450 K for the monotectic equilibrium temperature, and an oxygen-to-metal ratio O/Np = 1.8 for the lower oxygen composition of the monophasic domain NpO2x at 2450 K, by extrapolation of the phase boundary curve from 2300 K.” |
-| Phase transition | 2450 K | 2450 | other | model | [1] Smith 2016; _cites Kinoshita 2003_ [doi](https://doi.org/10.1016/s0021-9614%2803%2900002-8) | p. 10 | “The CALPHAD assessment presented by Kinoshita et al. \[23\] exemplifies this inconsistency, where the monotectic reaction is well-reproduced at 2450 K as well as the oxygen potential curves, but where the hypostoichiometric homogeneity range is far too extended.” |
-| Phase transition | 2450 K | 2450 | other | experimental | [1] Smith 2016; _cites Richter 1987_ [doi](https://doi.org/10.1016/0022-3115%2887%2990019-5) | p. 10 | “One major difference, however, concerns the temperature of the monotectic reaction, calculated here at 1117 K, while Richter and Sari \[12\] reported it around 2450 K.” |
-| Phase transition | 3069.5 K | 3069.5 | congruent transformation | model | [1] Smith 2016 | p. 10 | “In addition, the melting point of neptunium dioxide is calculated at T fus = 3069.5 K for congruently melting NpO1:90 , which is consistent with the recommended value at T fus 1⁄4 ð3070 62Þ K \[14,22\].” |
+| Phase transition | 1117 K | 1117 | other | model | [1] Smith 2016 | p. 18; `ORC-IDKB22L3TC` | “Yet, the temperature of the monotectic reaction as optimized herein, i.e., 1117 K, is much lower than suggested by \[12\].” |
+| Phase transition | 1117 K | 1117 | other | model | [1] Smith 2016 | p. 10; `ORC-PUHRBVRTNB.195c93` | “One major difference, however, concerns the temperature of the monotectic reaction, calculated here at 1117 K, while Richter and Sari \[12\] reported it around 2450 K.” |
+| Phase transition | 2450 K | 2450 | other | experimental | [1] Smith 2016 | p. 2; `ORC-3Z2Q5HAEIH` | “Richter and Sari have suggested 2450 K for the monotectic equilibrium temperature, and an oxygen-to-metal ratio O/Np = 1.8 for the lower oxygen composition of the monophasic domain NpO2x at 2450 K, by extrapolation of the phase boundary curve from 2300 K.” |
+| Phase transition | 2450 K | 2450 | other | model | [1] Smith 2016; _cites Kinoshita 2003_ [doi](https://doi.org/10.1016/s0021-9614%2803%2900002-8) | p. 10; `ORC-K3Z3VSNFUS` | “The CALPHAD assessment presented by Kinoshita et al. \[23\] exemplifies this inconsistency, where the monotectic reaction is well-reproduced at 2450 K as well as the oxygen potential curves, but where the hypostoichiometric homogeneity range is far too extended.” |
+| Phase transition | 2450 K | 2450 | other | experimental | [1] Smith 2016; _cites Richter 1987_ [doi](https://doi.org/10.1016/0022-3115%2887%2990019-5) | p. 10; `ORC-PUHRBVRTNB.6e73cc` | “One major difference, however, concerns the temperature of the monotectic reaction, calculated here at 1117 K, while Richter and Sari \[12\] reported it around 2450 K.” |
+| Phase transition | 3069.5 K | 3069.5 | congruent transformation | model | [1] Smith 2016 | p. 10; `ORC-IYDRGULGUP` | “In addition, the melting point of neptunium dioxide is calculated at T fus = 3069.5 K for congruently melting NpO1:90 , which is consistent with the recommended value at T fus 1⁄4 ð3070 62Þ K \[14,22\].” |
 
 ### Heat capacity / entropy / enthalpy (11)
 
@@ -109,17 +109,17 @@ Table: Heat capacity / entropy / enthalpy, Np–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: S_m^o_ | 197.72 unknown ± 0.1 | 298.15 | Np(g); _alloy: O 0_ | model | [1] Smith 2016; _cites Konings 2010_ [doi](https://doi.org/10.1063/1.3474238) | Table 11, p. 14, row 1 |  |
-| Entropy; _printed: S°m (298.15 K)_ | 34.6286 J/mol-atom/K | 298.15 | Np2O5(cr); _alloy: O 0.714286_ | model | [1] Smith 2016 | Table 9, p. 12, row 3 |  |
-| Entropy; _printed: S°m(298.15 K)_ | 26.5714 J/mol-atom/K ± 2.14286 | 298.15 | Np2O5(cr); _alloy: O 0.714286_ | unspecified | [1] Smith 2016; _cites Konings 2014_ [doi](https://doi.org/10.1063/1.4825256) | Table 2, p. 3, row 7 |  |
-| Entropy; _printed: S°m (298.15 K)_ | 26.5714 J/mol-atom/K ± 2.14286 | 298.15 | Np2O5(cr); _alloy: O 0.714286_ | model | [1] Smith 2016; _cites Konings 2014_ [doi](https://doi.org/10.1063/1.4825256) | Table 9, p. 12, row 4 |  |
-| Entropy; _printed: S_m^o_ | 253.06 unknown ± 4 | 298.15 | NpO(g); _alloy: O 0.5_ | model | [1] Smith 2016 | Table 11, p. 14, row 2 |  |
-| Entropy; _printed: S°m (298.15 K)_ | 26.7667 J/mol-atom/K ± 0.133333 | 298.15 | NpO2(cr); _alloy: O 0.666667_ | model | [1] Smith 2016; _cites Konings 2014_ [doi](https://doi.org/10.1063/1.4825256) | Table 9, p. 12, row 2 |  |
-| Entropy; _printed: S°m_ | 26.7667 J/mol-atom/K ± 0.133333 | 298.15 | NpO2(cr); _alloy: O 0.666667_ | unspecified | [1] Smith 2016; _cites Konings 2014_ [doi](https://doi.org/10.1063/1.4825256) | Table 2, p. 3, row 5 |  |
-| Entropy; _printed: S°m (298.15 K)_ | 26.7667 J/mol-atom/K | 298.15 | NpO2(cr); _alloy: O 0.666667_ | model | [1] Smith 2016 | Table 9, p. 12, row 1 |  |
-| Entropy; _printed: S_m^o_ | 269.892 unknown ± 6 | 298.15 | NpO2(g); _alloy: O 0.666667_ | model | [1] Smith 2016 | Table 11, p. 14, row 3 |  |
-| Entropy; _printed: S°m(298.15 K)_ | 50.45 J/mol-atom/K ± 0.4 | 298.15 | α-Np(cr); _alloy: O 0_ | unspecified | [1] Smith 2016; _cites Konings 2010_ [doi](https://doi.org/10.1063/1.3474238) | Table 2, p. 3, row 1 |  |
-| Entropy; _printed: S°m_ | 50.45 J/mol-atom/K ± 0.4 | 298.15 | α-Np(cr); _alloy: O 0_ | unspecified | [1] Smith 2016; _cites Konings 2010_ [doi](https://doi.org/10.1063/1.3474238) | Table 2, p. 3, row 1 |  |
+| Entropy; _printed: S_m^o_ | 197.72 unknown ± 0.1 | 298.15 | Np(g); _alloy: O 0_ | model | [1] Smith 2016; _cites Konings 2010_ [doi](https://doi.org/10.1063/1.3474238) | Table 11, p. 14, row 1; `ORC-26LE6HRVKA.050900` |  |
+| Entropy; _printed: S°m (298.15 K)_ | 34.6286 J/mol-atom/K | 298.15 | Np2O5(cr); _alloy: O 0.714286_ | model | [1] Smith 2016 | Table 9, p. 12, row 3; `ORC-JBXVUOFGIP.153663` |  |
+| Entropy; _printed: S°m(298.15 K)_ | 26.5714 J/mol-atom/K ± 2.14286 | 298.15 | Np2O5(cr); _alloy: O 0.714286_ | unspecified | [1] Smith 2016; _cites Konings 2014_ [doi](https://doi.org/10.1063/1.4825256) | Table 2, p. 3, row 7; `ORC-JPU2E25EMA.96a25c` |  |
+| Entropy; _printed: S°m (298.15 K)_ | 26.5714 J/mol-atom/K ± 2.14286 | 298.15 | Np2O5(cr); _alloy: O 0.714286_ | model | [1] Smith 2016; _cites Konings 2014_ [doi](https://doi.org/10.1063/1.4825256) | Table 9, p. 12, row 4; `ORC-NWFD2FN5QA.6d1e7c` |  |
+| Entropy; _printed: S_m^o_ | 253.06 unknown ± 4 | 298.15 | NpO(g); _alloy: O 0.5_ | model | [1] Smith 2016 | Table 11, p. 14, row 2; `ORC-U4EO7KAALX.052477` |  |
+| Entropy; _printed: S°m (298.15 K)_ | 26.7667 J/mol-atom/K ± 0.133333 | 298.15 | NpO2(cr); _alloy: O 0.666667_ | model | [1] Smith 2016; _cites Konings 2014_ [doi](https://doi.org/10.1063/1.4825256) | Table 9, p. 12, row 2; `ORC-BFPKHAMK57.7412b9` |  |
+| Entropy; _printed: S°m_ | 26.7667 J/mol-atom/K ± 0.133333 | 298.15 | NpO2(cr); _alloy: O 0.666667_ | unspecified | [1] Smith 2016; _cites Konings 2014_ [doi](https://doi.org/10.1063/1.4825256) | Table 2, p. 3, row 5; `ORC-OUZO3RGPQY.1007b5` |  |
+| Entropy; _printed: S°m (298.15 K)_ | 26.7667 J/mol-atom/K | 298.15 | NpO2(cr); _alloy: O 0.666667_ | model | [1] Smith 2016 | Table 9, p. 12, row 1; `ORC-RGFB4RVHHS.62ee3d` |  |
+| Entropy; _printed: S_m^o_ | 269.892 unknown ± 6 | 298.15 | NpO2(g); _alloy: O 0.666667_ | model | [1] Smith 2016 | Table 11, p. 14, row 3; `ORC-V3R5BIDQHV.91e0a1` |  |
+| Entropy; _printed: S°m(298.15 K)_ | 50.45 J/mol-atom/K ± 0.4 | 298.15 | α-Np(cr); _alloy: O 0_ | unspecified | [1] Smith 2016; _cites Konings 2010_ [doi](https://doi.org/10.1063/1.3474238) | Table 2, p. 3, row 1; `ORC-4WOUHONCTY.496f53` |  |
+| Entropy; _printed: S°m_ | 50.45 J/mol-atom/K ± 0.4 | 298.15 | α-Np(cr); _alloy: O 0_ | unspecified | [1] Smith 2016; _cites Konings 2010_ [doi](https://doi.org/10.1063/1.3474238) | Table 2, p. 3, row 1; `ORC-4WOUHONCTY.5e9ed9` |  |
 
 ### Crystal structure (4)
 
@@ -127,10 +127,10 @@ Table: Crystal structure, Np–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 4.188 Å | 298.15 | Np2O5; _alloy: O 0.714286_ | unspecified | [1] Smith 2016; _cites Lemire 2001_ | Table 1, p. 2, row 5 |  |
-| Lattice a | 5.434 Å | 298.15 | NpO2; _alloy: O 0.666667_ | unspecified | [1] Smith 2016; _cites Lemire 2001_ | Table 1, p. 2, row 4 |  |
-| Lattice b | 6.592 Å | 298.15 | Np2O5; _alloy: O 0.714286_ | unspecified | [1] Smith 2016; _cites Lemire 2001_ | Table 1, p. 2, row 5 |  |
-| Lattice c | 4.09 Å | 298.15 | Np2O5; _alloy: O 0.714286_ | unspecified | [1] Smith 2016; _cites Lemire 2001_ | Table 1, p. 2, row 5 |  |
+| Lattice a | 4.188 Å | 298.15 | Np2O5; _alloy: O 0.714286_ | unspecified | [1] Smith 2016; _cites Lemire 2001_ | Table 1, p. 2, row 5; `ORC-J62KDJADTG.b7de4f` |  |
+| Lattice a | 5.434 Å | 298.15 | NpO2; _alloy: O 0.666667_ | unspecified | [1] Smith 2016; _cites Lemire 2001_ | Table 1, p. 2, row 4; `ORC-LKUTSTUH7B` |  |
+| Lattice b | 6.592 Å | 298.15 | Np2O5; _alloy: O 0.714286_ | unspecified | [1] Smith 2016; _cites Lemire 2001_ | Table 1, p. 2, row 5; `ORC-J62KDJADTG.2a6767` |  |
+| Lattice c | 4.09 Å | 298.15 | Np2O5; _alloy: O 0.714286_ | unspecified | [1] Smith 2016; _cites Lemire 2001_ | Table 1, p. 2, row 5; `ORC-J62KDJADTG.d2402a` |  |
 
 ### Other property (3)
 
@@ -138,9 +138,9 @@ Table: Other property, Np–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Other; _printed: O/Np_ | 1.92 unspecified ± 0.011 | 2260 |  | model | [1] Smith 2016 | p. 15 | “Nevertheless, based on the present experimental results and CALPHAD model, we can estimate the composition at congruent vapourization at 2260 K as (O/Np) = (1.92 ± 0.011).” |
-| Other; _printed: fraction NpO2(g)_ | 93.2 % | 2260 |  | model | [1] Smith 2016 | p. 12 | “The calculated azeotropic vapour composition at 2260 K is: 93.2% NpO2(g), 6.1% NpO(g), and 0.7% O(g), which corresponds to an oxygen-to-metal ratio ðO=NpÞazeotropic = (1.945 ± 0.0031) at 2260 K.” |
-| Other; _printed: (O/Np)gas_ | 1.939 unspecified | 2260 | gas | experimental | [1] Smith 2016; _cites Gotcu-Freis 2011_ [doi](https://doi.org/10.1016/j.jnucmat.2011.05.014) | p. 4 | “The authors reported a vapour made of 93% NpO2(g), 6% NpO(g), and 1% Np(g) at 2260 K under vacuum, with an overall gaseous composition (O/Np)gas = 1.939 \[11\].” |
+| Other; _printed: O/Np_ | 1.92 unspecified ± 0.011 | 2260 |  | model | [1] Smith 2016 | p. 15; `ORC-JLJLRYANBJ` | “Nevertheless, based on the present experimental results and CALPHAD model, we can estimate the composition at congruent vapourization at 2260 K as (O/Np) = (1.92 ± 0.011).” |
+| Other; _printed: fraction NpO2(g)_ | 93.2 % | 2260 |  | model | [1] Smith 2016 | p. 12; `ORC-XJFHLNINJJ` | “The calculated azeotropic vapour composition at 2260 K is: 93.2% NpO2(g), 6.1% NpO(g), and 0.7% O(g), which corresponds to an oxygen-to-metal ratio ðO=NpÞazeotropic = (1.945 ± 0.0031) at 2260 K.” |
+| Other; _printed: (O/Np)gas_ | 1.939 unspecified | 2260 | gas | experimental | [1] Smith 2016; _cites Gotcu-Freis 2011_ [doi](https://doi.org/10.1016/j.jnucmat.2011.05.014) | p. 4; `ORC-47C646DJII` | “The authors reported a vapour made of 93% NpO2(g), 6% NpO(g), and 1% Np(g) at 2260 K under vacuum, with an overall gaseous composition (O/Np)gas = 1.939 \[11\].” |
 
 ## Sources
 
@@ -205,4 +205,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -63,24 +63,24 @@ Table: Invariant reactions reported in the literature for the Ho–Te system (18
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1643 | congruent melting: Liq \<-> (HoTe) | Liq: Te 0.5; (HoTe): Te 0.5 | experimental | [1] Ghamri 2013; _cites Yarembash 1974_ | Table 4, p. 4, row 4 |  |
-| 1642 | congruent melting: Liq \<-> (HoTe) | Liq: Te 0.5; (HoTe): Te 0.5 | model | [1] Ghamri 2013 | Table 4, p. 4, row 5 |  |
-| 1383.12 | eutectic: Liq \<-> (Ho) + (HoTe) | Liq: Te 0.2261; (Ho): Te 0; (HoTe): Te 0.5 | model | [1] Ghamri 2013 | Table 4, p. 4, row 3 |  |
-| 1383 | eutectic |  | experimental | [1] Ghamri 2013 | p. 1 | “There are an eutectic reaction: L (23 at.% Te) M (Ho) + (HoTe), occurring at about 1383 K and a peritectic reaction : L + HoTe3 M (Te), occurring at about 728 K.” |
-| 1383 | eutectic: Liq \<-> (Ho) + (HoTe) | Liq: Te 0.23; (HoTe): Te 0.485 | experimental | [1] Ghamri 2013; _cites Yarembash 1974_ | Table 4, p. 4, row 1 |  |
-| 1383 | eutectic: Liq \<-> (Ho) + (HoTe) | Liq: Te 0.23; (HoTe): Te 0.5 | experimental | [1] Ghamri 2013; _cites Massalski 1990_ | Table 4, p. 4, row 2 |  |
-| 1383 | eutectic |  | model | [1] Ghamri 2013 | p. 4 | “The calculated eutectic temperatures in this system, L M (Ho) + (HoTe) and L M (Te) + HoTe3 are 1383 K and 722.66 °K, which agree well with the results taken from \[5\].” |
-| 1073.1 | peritectic: Liq + (HoTe) \<-> Ho2Te5 | Liq: Te 0.9313; (HoTe): Te 0.547; Ho2Te5: Te 0.714 | model | [1] Ghamri 2013 | Table 4, p. 4, row 7 |  |
-| 1073 | peritectic: Liq + (HoTe) \<-> Ho2Te5 | (HoTe): Te 0.547; Ho2Te5: Te 0.714 | experimental | [1] Ghamri 2013; _cites Yarembash 1974_ | Table 4, p. 4, row 6 |  |
-| 1073 | peritectic |  | model | [1] Ghamri 2013 | p. 4 | “The calculated peritectic temperatures of the intermetallic compounds Ho2Te5, and HoTe3 are 1073, and 1053 K, respectively, and the calculated melting temperature of the (HoTe) compound is 1622.12 K are also in good agreement with those of experimental data \[5\], within the expected uncertainty limits.” |
-| 1073 | peritectic |  | experimental | [1] Ghamri 2013; _cites Yarembash 1974_ | p. 1 | “Whereas the Ho2Te5 and HoTe3 phases form as stoichiometric compounds as a product of peritectic reactions at about 1073, and 1053 K, respectively.” |
-| 1053.2 | peritectic: Liq + Ho2Te5 \<-> HoTe3 | Liq: Te 0.9412; Ho2Te5: Te 0.714; HoTe3: Te 0.75 | model | [1] Ghamri 2013 | Table 4, p. 4, row 9 |  |
-| 1053 | peritectic |  | model | [1] Ghamri 2013 | p. 4 | “The calculated peritectic temperatures of the intermetallic compounds Ho2Te5, and HoTe3 are 1073, and 1053 K, respectively, and the calculated melting temperature of the (HoTe) compound is 1622.12 K are also in good agreement with those of experimental data \[5\], within the expected uncertainty limits.” |
-| 1053 | peritectic: Liq + Ho2Te5 \<-> HoTe3 | Ho2Te5: Te 0.714; HoTe3: Te 0.75 | experimental | [1] Ghamri 2013; _cites Yarembash 1974_ | Table 4, p. 4, row 8 |  |
-| 1053 | peritectic |  | experimental | [1] Ghamri 2013; _cites Yarembash 1974_ | p. 1 | “Whereas the Ho2Te5 and HoTe3 phases form as stoichiometric compounds as a product of peritectic reactions at about 1073, and 1053 K, respectively.” |
-| 728 | peritectic: Liq \<-> (Te) + HoTe3 | HoTe3: Te 0.75 | experimental | [1] Ghamri 2013; _cites Yarembash 1974_ | Table 4, p. 4, row 10 |  |
-| 728 | peritectic |  | experimental | [1] Ghamri 2013 | p. 1 | “There are an eutectic reaction: L (23 at.% Te) M (Ho) + (HoTe), occurring at about 1383 K and a peritectic reaction : L + HoTe3 M (Te), occurring at about 728 K.” |
-| 722.66 | eutectic: Liq \<-> (Te) + HoTe3 | Liq: Te 0.999; (Te): Te 1; HoTe3: Te 0.75 | model | [1] Ghamri 2013 | Table 4, p. 4, row 11 |  |
+| 1643 | congruent melting: Liq \<-> (HoTe) | Liq: Te 0.5; (HoTe): Te 0.5 | experimental | [1] Ghamri 2013; _cites Yarembash 1974_ | Table 4, p. 4, row 4; `ORC-A6WW7UXDLY` |  |
+| 1642 | congruent melting: Liq \<-> (HoTe) | Liq: Te 0.5; (HoTe): Te 0.5 | model | [1] Ghamri 2013 | Table 4, p. 4, row 5; `ORC-YA2RFJ3R37` |  |
+| 1383.12 | eutectic: Liq \<-> (Ho) + (HoTe) | Liq: Te 0.2261; (Ho): Te 0; (HoTe): Te 0.5 | model | [1] Ghamri 2013 | Table 4, p. 4, row 3; `ORC-QWATMEEJKG` |  |
+| 1383 | eutectic |  | experimental | [1] Ghamri 2013 | p. 1; `ORC-IXKKDHO4XU.7fce63` | “There are an eutectic reaction: L (23 at.% Te) M (Ho) + (HoTe), occurring at about 1383 K and a peritectic reaction : L + HoTe3 M (Te), occurring at about 728 K.” |
+| 1383 | eutectic: Liq \<-> (Ho) + (HoTe) | Liq: Te 0.23; (HoTe): Te 0.485 | experimental | [1] Ghamri 2013; _cites Yarembash 1974_ | Table 4, p. 4, row 1; `ORC-JC4RCRCIHL` |  |
+| 1383 | eutectic: Liq \<-> (Ho) + (HoTe) | Liq: Te 0.23; (HoTe): Te 0.5 | experimental | [1] Ghamri 2013; _cites Massalski 1990_ | Table 4, p. 4, row 2; `ORC-WJBKHQDSWD` |  |
+| 1383 | eutectic |  | model | [1] Ghamri 2013 | p. 4; `ORC-YR4AEV67GB` | “The calculated eutectic temperatures in this system, L M (Ho) + (HoTe) and L M (Te) + HoTe3 are 1383 K and 722.66 °K, which agree well with the results taken from \[5\].” |
+| 1073.1 | peritectic: Liq + (HoTe) \<-> Ho2Te5 | Liq: Te 0.9313; (HoTe): Te 0.547; Ho2Te5: Te 0.714 | model | [1] Ghamri 2013 | Table 4, p. 4, row 7; `ORC-CRMAQTUBU7` |  |
+| 1073 | peritectic: Liq + (HoTe) \<-> Ho2Te5 | (HoTe): Te 0.547; Ho2Te5: Te 0.714 | experimental | [1] Ghamri 2013; _cites Yarembash 1974_ | Table 4, p. 4, row 6; `ORC-5PHOTT4K4V` |  |
+| 1073 | peritectic |  | model | [1] Ghamri 2013 | p. 4; `ORC-GZ27N3SQ5Y.453f7e` | “The calculated peritectic temperatures of the intermetallic compounds Ho2Te5, and HoTe3 are 1073, and 1053 K, respectively, and the calculated melting temperature of the (HoTe) compound is 1622.12 K are also in good agreement with those of experimental data \[5\], within the expected uncertainty limits.” |
+| 1073 | peritectic |  | experimental | [1] Ghamri 2013; _cites Yarembash 1974_ | p. 1; `ORC-VQEFDSPCKT.460990` | “Whereas the Ho2Te5 and HoTe3 phases form as stoichiometric compounds as a product of peritectic reactions at about 1073, and 1053 K, respectively.” |
+| 1053.2 | peritectic: Liq + Ho2Te5 \<-> HoTe3 | Liq: Te 0.9412; Ho2Te5: Te 0.714; HoTe3: Te 0.75 | model | [1] Ghamri 2013 | Table 4, p. 4, row 9; `ORC-7SA27JRA5I` |  |
+| 1053 | peritectic |  | model | [1] Ghamri 2013 | p. 4; `ORC-GZ27N3SQ5Y.d3c800` | “The calculated peritectic temperatures of the intermetallic compounds Ho2Te5, and HoTe3 are 1073, and 1053 K, respectively, and the calculated melting temperature of the (HoTe) compound is 1622.12 K are also in good agreement with those of experimental data \[5\], within the expected uncertainty limits.” |
+| 1053 | peritectic: Liq + Ho2Te5 \<-> HoTe3 | Ho2Te5: Te 0.714; HoTe3: Te 0.75 | experimental | [1] Ghamri 2013; _cites Yarembash 1974_ | Table 4, p. 4, row 8; `ORC-OIM7RFMZ4M` |  |
+| 1053 | peritectic |  | experimental | [1] Ghamri 2013; _cites Yarembash 1974_ | p. 1; `ORC-VQEFDSPCKT.f17fcb` | “Whereas the Ho2Te5 and HoTe3 phases form as stoichiometric compounds as a product of peritectic reactions at about 1073, and 1053 K, respectively.” |
+| 728 | peritectic: Liq \<-> (Te) + HoTe3 | HoTe3: Te 0.75 | experimental | [1] Ghamri 2013; _cites Yarembash 1974_ | Table 4, p. 4, row 10; `ORC-2JLCSDTS4I` |  |
+| 728 | peritectic |  | experimental | [1] Ghamri 2013 | p. 1; `ORC-IXKKDHO4XU.61ad7e` | “There are an eutectic reaction: L (23 at.% Te) M (Ho) + (HoTe), occurring at about 1383 K and a peritectic reaction : L + HoTe3 M (Te), occurring at about 728 K.” |
+| 722.66 | eutectic: Liq \<-> (Te) + HoTe3 | Liq: Te 0.999; (Te): Te 1; HoTe3: Te 0.75 | model | [1] Ghamri 2013 | Table 4, p. 4, row 11; `ORC-UM7EYK6GR3` |  |
 
 ## Formation enthalpies
 
@@ -90,12 +90,12 @@ Table: Enthalpies of formation, Ho–Te system (6)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Ho2Te5 |  | -107.62 kJ/mol-atom | 298.15 | DFT |  |  | [1] Ghamri 2013 | Table 2, p. 3, row 4 |  |
-| Ho2Te5 | [Ho2Te5](https://data.orchid-project.org/compounds/Ho2Te5.html) | -103.917 kJ/mol-atom | 298.15 | model | -122.227 (mp-aaackwra) | -96.625 (oqmd-1798994) | [1] Ghamri 2013 | Table 2, p. 3, row 5 |  |
-| HoTe | [HoTe](https://data.orchid-project.org/compounds/HoTe.html) | -162 kJ/mol-atom | 298.15 | model | -140.092 (mp-aaaaabjj) | -120.012 (oqmd-8123) | [1] Ghamri 2013; _cites Eichler 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990596-c) | Table 2, p. 3, row 1 |  |
-| HoTe |  | -153.449 kJ/mol-atom | 298.15 | DFT |  |  | [1] Ghamri 2013 | Table 2, p. 3, row 2 |  |
-| HoTe | [HoTe](https://data.orchid-project.org/compounds/HoTe.html) | -152.99 kJ/mol-atom | 298.15 | model | -140.092 (mp-aaaaabjj) | -120.012 (oqmd-8123) | [1] Ghamri 2013 | Table 2, p. 3, row 3 |  |
-| HoTe3 | [HoTe3](https://data.orchid-project.org/compounds/HoTe3.html) | -94 kJ/mol-atom | 298.15 | model | -118.228 (mp-aaacjjlc) | -86.803 (oqmd-1745454) | [1] Ghamri 2013 | Table 2, p. 3, row 6 |  |
+| Ho2Te5 |  | -107.62 kJ/mol-atom | 298.15 | DFT |  |  | [1] Ghamri 2013 | Table 2, p. 3, row 4; `ORC-546XM6OV2J` |  |
+| Ho2Te5 | [Ho2Te5](https://data.orchid-project.org/compounds/Ho2Te5.html) | -103.917 kJ/mol-atom | 298.15 | model | -122.227 (mp-aaackwra) | -96.625 (oqmd-1798994) | [1] Ghamri 2013 | Table 2, p. 3, row 5; `ORC-DZRPNQEVI4` |  |
+| HoTe | [HoTe](https://data.orchid-project.org/compounds/HoTe.html) | -162 kJ/mol-atom | 298.15 | model | -140.092 (mp-aaaaabjj) | -120.012 (oqmd-8123) | [1] Ghamri 2013; _cites Eichler 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990596-c) | Table 2, p. 3, row 1; `ORC-24WFUXDUS5` |  |
+| HoTe |  | -153.449 kJ/mol-atom | 298.15 | DFT |  |  | [1] Ghamri 2013 | Table 2, p. 3, row 2; `ORC-PJVVYNUBB3` |  |
+| HoTe | [HoTe](https://data.orchid-project.org/compounds/HoTe.html) | -152.99 kJ/mol-atom | 298.15 | model | -140.092 (mp-aaaaabjj) | -120.012 (oqmd-8123) | [1] Ghamri 2013 | Table 2, p. 3, row 3; `ORC-XDVTA73MKL` |  |
+| HoTe3 | [HoTe3](https://data.orchid-project.org/compounds/HoTe3.html) | -94 kJ/mol-atom | 298.15 | model | -118.228 (mp-aaacjjlc) | -86.803 (oqmd-1745454) | [1] Ghamri 2013 | Table 2, p. 3, row 6; `ORC-LBPKMIRPYD` |  |
 
 ## Other properties
 
@@ -105,11 +105,11 @@ Table: Phase transition, Ho–Te system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1622.12 K | 1622.12 |  | model | [1] Ghamri 2013 | p. 4 | “The calculated peritectic temperatures of the intermetallic compounds Ho2Te5, and HoTe3 are 1073, and 1053 K, respectively, and the calculated melting temperature of the (HoTe) compound is 1622.12 K are also in good agreement with those of experimental data \[5\], within the expected uncertainty limits.” |
-| Phase transition | 1643 K | 1643 | congruent transformation | experimental | [2] Cui 2023; _cites Yarembash 1974_ | p. 3 | “HoTe has a homogeneity range and melts congruently at about 1643 K.” |
-| Phase transition | 1698 K | 1698 | polymorphic | experimental | [1] Ghamri 2013; _cites Spedding 1961_ [doi](https://doi.org/10.1016/0022-5088%2861%2990003-0) | p. 1 | “The allotropic transformation of Ho observed at 1698 K (near its melting point 1747 K) by Spedding et al. \[10\] is not shown in both diagrams of \[5\] and \[9\].” |
-| Phase transition | 1698.15 K | 1698.15 | polymorphic | experimental | [1] Ghamri 2013; _cites Spedding 1961_ [doi](https://doi.org/10.1016/0022-5088%2861%2990003-0) | p. 4 | “The allotropic transformation of Ho given at 1425 °C by Spedding et al. \[10\] was not taken into consideration in the present assessment, because pure Ho has an Mg-type hcp structure up to the melting point \[5,9\].” |
-| Phase transition | 1747 K | 1747 |  | experimental | [1] Ghamri 2013; _cites Spedding 1961_ [doi](https://doi.org/10.1016/0022-5088%2861%2990003-0) | p. 1 | “The allotropic transformation of Ho observed at 1698 K (near its melting point 1747 K) by Spedding et al. \[10\] is not shown in both diagrams of \[5\] and \[9\].” |
+| Phase transition | 1622.12 K | 1622.12 |  | model | [1] Ghamri 2013 | p. 4; `ORC-GZ27N3SQ5Y.975d9f` | “The calculated peritectic temperatures of the intermetallic compounds Ho2Te5, and HoTe3 are 1073, and 1053 K, respectively, and the calculated melting temperature of the (HoTe) compound is 1622.12 K are also in good agreement with those of experimental data \[5\], within the expected uncertainty limits.” |
+| Phase transition | 1643 K | 1643 | congruent transformation | experimental | [2] Cui 2023; _cites Yarembash 1974_ | p. 3; `ORC-2VSV6TGBQK` | “HoTe has a homogeneity range and melts congruently at about 1643 K.” |
+| Phase transition | 1698 K | 1698 | polymorphic | experimental | [1] Ghamri 2013; _cites Spedding 1961_ [doi](https://doi.org/10.1016/0022-5088%2861%2990003-0) | p. 1; `ORC-X45NAMI622.047468` | “The allotropic transformation of Ho observed at 1698 K (near its melting point 1747 K) by Spedding et al. \[10\] is not shown in both diagrams of \[5\] and \[9\].” |
+| Phase transition | 1698.15 K | 1698.15 | polymorphic | experimental | [1] Ghamri 2013; _cites Spedding 1961_ [doi](https://doi.org/10.1016/0022-5088%2861%2990003-0) | p. 4; `ORC-423LHQC3V7` | “The allotropic transformation of Ho given at 1425 °C by Spedding et al. \[10\] was not taken into consideration in the present assessment, because pure Ho has an Mg-type hcp structure up to the melting point \[5,9\].” |
+| Phase transition | 1747 K | 1747 |  | experimental | [1] Ghamri 2013; _cites Spedding 1961_ [doi](https://doi.org/10.1016/0022-5088%2861%2990003-0) | p. 1; `ORC-X45NAMI622.b5fd59` | “The allotropic transformation of Ho observed at 1698 K (near its melting point 1747 K) by Spedding et al. \[10\] is not shown in both diagrams of \[5\] and \[9\].” |
 
 ### Crystal structure (18)
 
@@ -117,24 +117,24 @@ Table: Crystal structure, Ho–Te system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 6.055 Å | 0 | (HoTe); _alloy: Ho 0.5, Te 0.5_ | DFT | [1] Ghamri 2013 | Table 1, p. 2, row 4 |  |
-| Lattice a | 4.108 Å | 0 | Ho2Te5; _Ho2Te5: Ho 0.286, Te 0.714_ | DFT | [1] Ghamri 2013 | Table 1, p. 2, row 6 |  |
-| Lattice a | 6.09 Å | 298.15 | (HoTe); _alloy: Ho 0.5, Te 0.5_ | experimental | [1] Ghamri 2013; _cites Yarembash 1974_ | Table 1, p. 2, row 3 |  |
-| Lattice a | 4.411 Å | 298.15 | Ho2Te5; _Ho2Te5: Ho 0.286, Te 0.714_ | experimental | [1] Ghamri 2013; _cites Yarembash 1974_ | Table 1, p. 2, row 5 |  |
-| Lattice a | 4.41 Å | 298.15 | Ho2Te5; _alloy: Ho 0.285714, Te 0.714286_ | experimental | [2] Cui 2023; _cites Yarembash 1974_ | Table 1, p. 2, row 20 |  |
-| Lattice a | 6.07 Å | 298.15 | HoTe; _alloy: Ho 0.5, Te 0.5_ | experimental | [2] Cui 2023; _cites Brixner 1960_ [doi](https://doi.org/10.1016/0022-1902%2860%2980038-3) | Table 1, p. 2, row 19 |  |
-| Lattice a | 4.29 Å | 298.15 | HoTe3; _alloy: Ho 0.25, Te 0.75_ | unspecified | [2] Cui 2023; _cites Slovyanskikh 1985_ | Table 1, p. 2, row 21 |  |
-| Lattice a | 4.273 Å | 298.15 | HoTe3; _HoTe3: Ho 0.25, Te 0.75_ | experimental | [1] Ghamri 2013; _cites Yarembash 1974_ | Table 1, p. 2, row 7 |  |
-| Lattice b | 43.964 Å | 0 | Ho2Te5; _Ho2Te5: Ho 0.286, Te 0.714_ | DFT | [1] Ghamri 2013 | Table 1, p. 2, row 6 |  |
-| Lattice b | 45.03 Å | 298.15 | Ho2Te5; _Ho2Te5: Ho 0.286, Te 0.714_ | experimental | [1] Ghamri 2013; _cites Yarembash 1974_ | Table 1, p. 2, row 5 |  |
-| Lattice b | 45.03 Å | 298.15 | Ho2Te5; _alloy: Ho 0.285714, Te 0.714286_ | experimental | [2] Cui 2023; _cites Yarembash 1974_ | Table 1, p. 2, row 20 |  |
-| Lattice b | 25.4 Å | 298.15 | HoTe3; _alloy: Ho 0.25, Te 0.75_ | unspecified | [2] Cui 2023; _cites Slovyanskikh 1985_ | Table 1, p. 2, row 21 |  |
-| Lattice b | 24.87 Å | 298.15 | HoTe3; _HoTe3: Ho 0.25, Te 0.75_ | experimental | [1] Ghamri 2013; _cites Yarembash 1974_ | Table 1, p. 2, row 7 |  |
-| Lattice c | 4.621 Å | 0 | Ho2Te5; _Ho2Te5: Ho 0.286, Te 0.714_ | DFT | [1] Ghamri 2013 | Table 1, p. 2, row 6 |  |
-| Lattice c | 4.411 Å | 298.15 | Ho2Te5; _Ho2Te5: Ho 0.286, Te 0.714_ | experimental | [1] Ghamri 2013; _cites Yarembash 1974_ | Table 1, p. 2, row 5 |  |
-| Lattice c | 4.41 Å | 298.15 | Ho2Te5; _alloy: Ho 0.285714, Te 0.714286_ | experimental | [2] Cui 2023; _cites Yarembash 1974_ | Table 1, p. 2, row 20 |  |
-| Lattice c | 4.29 Å | 298.15 | HoTe3; _alloy: Ho 0.25, Te 0.75_ | unspecified | [2] Cui 2023; _cites Slovyanskikh 1985_ | Table 1, p. 2, row 21 |  |
-| Lattice c | 4.273 Å | 298.15 | HoTe3; _HoTe3: Ho 0.25, Te 0.75_ | experimental | [1] Ghamri 2013; _cites Yarembash 1974_ | Table 1, p. 2, row 7 |  |
+| Lattice a | 6.055 Å | 0 | (HoTe); _alloy: Ho 0.5, Te 0.5_ | DFT | [1] Ghamri 2013 | Table 1, p. 2, row 4; `ORC-3BGMV2NW3O` |  |
+| Lattice a | 4.108 Å | 0 | Ho2Te5; _Ho2Te5: Ho 0.286, Te 0.714_ | DFT | [1] Ghamri 2013 | Table 1, p. 2, row 6; `ORC-KCATGVXNKV.a0d126` |  |
+| Lattice a | 6.09 Å | 298.15 | (HoTe); _alloy: Ho 0.5, Te 0.5_ | experimental | [1] Ghamri 2013; _cites Yarembash 1974_ | Table 1, p. 2, row 3; `ORC-HXT3RADVRY` |  |
+| Lattice a | 4.411 Å | 298.15 | Ho2Te5; _Ho2Te5: Ho 0.286, Te 0.714_ | experimental | [1] Ghamri 2013; _cites Yarembash 1974_ | Table 1, p. 2, row 5; `ORC-2NXJLZQJD2.e0c424` |  |
+| Lattice a | 4.41 Å | 298.15 | Ho2Te5; _alloy: Ho 0.285714, Te 0.714286_ | experimental | [2] Cui 2023; _cites Yarembash 1974_ | Table 1, p. 2, row 20; `ORC-D7M5GMZAD7.2a1fcf` |  |
+| Lattice a | 6.07 Å | 298.15 | HoTe; _alloy: Ho 0.5, Te 0.5_ | experimental | [2] Cui 2023; _cites Brixner 1960_ [doi](https://doi.org/10.1016/0022-1902%2860%2980038-3) | Table 1, p. 2, row 19; `ORC-PGE7X4AEHT` |  |
+| Lattice a | 4.29 Å | 298.15 | HoTe3; _alloy: Ho 0.25, Te 0.75_ | unspecified | [2] Cui 2023; _cites Slovyanskikh 1985_ | Table 1, p. 2, row 21; `ORC-MJBVVRGJ2M.88a1fd` |  |
+| Lattice a | 4.273 Å | 298.15 | HoTe3; _HoTe3: Ho 0.25, Te 0.75_ | experimental | [1] Ghamri 2013; _cites Yarembash 1974_ | Table 1, p. 2, row 7; `ORC-RJ5RVZX3W7.a50343` |  |
+| Lattice b | 43.964 Å | 0 | Ho2Te5; _Ho2Te5: Ho 0.286, Te 0.714_ | DFT | [1] Ghamri 2013 | Table 1, p. 2, row 6; `ORC-KCATGVXNKV.af85d2` |  |
+| Lattice b | 45.03 Å | 298.15 | Ho2Te5; _Ho2Te5: Ho 0.286, Te 0.714_ | experimental | [1] Ghamri 2013; _cites Yarembash 1974_ | Table 1, p. 2, row 5; `ORC-2NXJLZQJD2.4da2c9` |  |
+| Lattice b | 45.03 Å | 298.15 | Ho2Te5; _alloy: Ho 0.285714, Te 0.714286_ | experimental | [2] Cui 2023; _cites Yarembash 1974_ | Table 1, p. 2, row 20; `ORC-D7M5GMZAD7.e02538` |  |
+| Lattice b | 25.4 Å | 298.15 | HoTe3; _alloy: Ho 0.25, Te 0.75_ | unspecified | [2] Cui 2023; _cites Slovyanskikh 1985_ | Table 1, p. 2, row 21; `ORC-MJBVVRGJ2M.c50f23` |  |
+| Lattice b | 24.87 Å | 298.15 | HoTe3; _HoTe3: Ho 0.25, Te 0.75_ | experimental | [1] Ghamri 2013; _cites Yarembash 1974_ | Table 1, p. 2, row 7; `ORC-RJ5RVZX3W7.074ba3` |  |
+| Lattice c | 4.621 Å | 0 | Ho2Te5; _Ho2Te5: Ho 0.286, Te 0.714_ | DFT | [1] Ghamri 2013 | Table 1, p. 2, row 6; `ORC-KCATGVXNKV.b2be31` |  |
+| Lattice c | 4.411 Å | 298.15 | Ho2Te5; _Ho2Te5: Ho 0.286, Te 0.714_ | experimental | [1] Ghamri 2013; _cites Yarembash 1974_ | Table 1, p. 2, row 5; `ORC-2NXJLZQJD2.ae191b` |  |
+| Lattice c | 4.41 Å | 298.15 | Ho2Te5; _alloy: Ho 0.285714, Te 0.714286_ | experimental | [2] Cui 2023; _cites Yarembash 1974_ | Table 1, p. 2, row 20; `ORC-D7M5GMZAD7.307acf` |  |
+| Lattice c | 4.29 Å | 298.15 | HoTe3; _alloy: Ho 0.25, Te 0.75_ | unspecified | [2] Cui 2023; _cites Slovyanskikh 1985_ | Table 1, p. 2, row 21; `ORC-MJBVVRGJ2M.b00176` |  |
+| Lattice c | 4.273 Å | 298.15 | HoTe3; _HoTe3: Ho 0.25, Te 0.75_ | experimental | [1] Ghamri 2013; _cites Yarembash 1974_ | Table 1, p. 2, row 7; `ORC-RJ5RVZX3W7.9ba369` |  |
 
 ## Sources
 
@@ -200,4 +200,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

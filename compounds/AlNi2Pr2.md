@@ -14,10 +14,10 @@ Table: Enthalpy of formation of AlNi2Pr2 reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -56.01 kJ/mol-atom | Ni2AlPr2 |  | model |  | [Al–Ni–Pr](https://data.orchid-project.org/systems/AL-NI-PR.html) | [1] Liao 2019 | Table 4, p. 6, row 29 |  |
-| -54.19 kJ/mol-atom | Ni2AlPr2 |  | model |  | [Al–Ni–Pr](https://data.orchid-project.org/systems/AL-NI-PR.html) | [1] Liao 2019 | Table 4, p. 6, row 26 |  |
-| -40.48 kJ/mol-atom | Ni2AlPr2 |  | DFT |  | [Al–Ni–Pr](https://data.orchid-project.org/systems/AL-NI-PR.html) | [1] Liao 2019; _cites Kirklin 2015_ | Table 4, p. 6, row 27 |  |
-| -38.37 kJ/mol-atom | Ni₂AlPr₂ |  | DFT |  | [Al–Ni–Pr](https://data.orchid-project.org/systems/AL-NI-PR.html) | [1] Liao 2019; _cites Jain 2013_ | Table 4, p. 6, row 28 |  |
+| -56.01 kJ/mol-atom | Ni2AlPr2 |  | model |  | [Al–Ni–Pr](https://data.orchid-project.org/systems/AL-NI-PR.html) | [1] Liao 2019 | Table 4, p. 6, row 29; `ORC-FIVLT3ATCL.757a28` |  |
+| -54.19 kJ/mol-atom | Ni2AlPr2 |  | model |  | [Al–Ni–Pr](https://data.orchid-project.org/systems/AL-NI-PR.html) | [1] Liao 2019 | Table 4, p. 6, row 26; `ORC-REJY3TRGYM.07d430` |  |
+| -40.48 kJ/mol-atom | Ni2AlPr2 |  | DFT |  | [Al–Ni–Pr](https://data.orchid-project.org/systems/AL-NI-PR.html) | [1] Liao 2019; _cites Kirklin 2015_ | Table 4, p. 6, row 27; `ORC-SSF3O7Z5E5.081357` |  |
+| -38.37 kJ/mol-atom | Ni₂AlPr₂ |  | DFT |  | [Al–Ni–Pr](https://data.orchid-project.org/systems/AL-NI-PR.html) | [1] Liao 2019; _cites Jain 2013_ | Table 4, p. 6, row 28; `ORC-NCAQTNBNAI.19136e` |  |
 
 ### Uncertainty budget
 
@@ -83,4 +83,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

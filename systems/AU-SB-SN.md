@@ -27,19 +27,19 @@ Table: Invariant reactions reported in the literature for the Au–Sb–Sn syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 697 | quasi-peritectic: U2: L + (Sb) -> AuSb2 + SbSn |  | experimental | [1] Kim 2002; _cites Prince 1990_ | Table IV, p. 5, row 4 |  |
-| 638.41 | quasi-peritectic: U1: L + Au10Sn -> (Au) + ζ | L: Au 0.707, Sb 0.139, Sn 0.154 | model | [1] Kim 2002 | Table IV, p. 5, row 3 |  |
-| 626.85 | quasi-peritectic: U3: L + (Au) -> ζ + AuSb2 | L: Au 0.7, Sb 0.152, Sn 0.148 | model | [1] Kim 2002 | Table IV, p. 5, row 6 |  |
-| 625.93 | quasi-peritectic: U2: L + (Sb) -> AuSb2 + SbSn | L: Au 0.178, Sb 0.31, Sn 0.512 | model | [1] Kim 2002 | Table IV, p. 5, row 5 |  |
-| 560.22 | quasi-peritectic: U5: L + AuSn -> AuSn2 + AuSb2 | L: Au 0.247, Sb 0.128, Sn 0.625 | model | [1] Kim 2002 | Table IV, p. 5, row 9 |  |
-| 553 | eutectic: E: L -> ζ + AuSn + AuSb2 |  | experimental | [1] Kim 2002; _cites Prince 1990_ | Table IV, p. 5, row 1 |  |
-| 546.69 | quasi-peritectic: U4: L + SbSn -> Sb2Sn3 + AuSb2 | L: Au 0.185, Sb 0.166, Sn 0.649 | model | [1] Kim 2002 | Table IV, p. 5, row 7 |  |
-| 543.24 | quasi-peritectic: U6: L + AuSb2 -> AuSn2 + Sb2Sn3 | L: Au 0.187, Sb 0.158, Sn 0.655 | model | [1] Kim 2002 | Table IV, p. 5, row 10 |  |
-| 543.16 | eutectic: E: L -> ζ + AuSn + AuSb2 | L: Au 0.683, Sb 0.031, Sn 0.286 | model | [1] Kim 2002 | Table IV, p. 5, row 2 |  |
-| 540 | quasi-peritectic: U5: L + AuSn -> AuSn2 + AuSb2 |  | experimental | [1] Kim 2002; _cites Prince 1990_ | Table IV, p. 5, row 8 |  |
-| 503.51 | quasi-peritectic: U7: L + AuSn2 -> Sb2Sn3 + AuSn4 | L: Au 0.095, Sb 0.074, Sn 0.831 | model | [1] Kim 2002 | Table IV, p. 5, row 11 |  |
-| 493 | quasi-peritectic: U8: L + Sb2Sn3 -> (Sn) + AuSn4 |  | experimental | [1] Kim 2002; _cites Prince 1990_ | Table IV, p. 5, row 12 |  |
-| 491.08 | quasi-peritectic: U8: L + Sb2Sn3 -> (Sn) + AuSn4 | L: Au 0.064, Sb 0.062, Sn 0.874 | model | [1] Kim 2002 | Table IV, p. 5, row 13 |  |
+| 697 | quasi-peritectic: U2: L + (Sb) -> AuSb2 + SbSn |  | experimental | [1] Kim 2002; _cites Prince 1990_ | Table IV, p. 5, row 4; `ORC-LSZKWLSCO4` |  |
+| 638.41 | quasi-peritectic: U1: L + Au10Sn -> (Au) + ζ | L: Au 0.707, Sb 0.139, Sn 0.154 | model | [1] Kim 2002 | Table IV, p. 5, row 3; `ORC-QB2IT3DYDB` |  |
+| 626.85 | quasi-peritectic: U3: L + (Au) -> ζ + AuSb2 | L: Au 0.7, Sb 0.152, Sn 0.148 | model | [1] Kim 2002 | Table IV, p. 5, row 6; `ORC-CPLJDV4M5R` |  |
+| 625.93 | quasi-peritectic: U2: L + (Sb) -> AuSb2 + SbSn | L: Au 0.178, Sb 0.31, Sn 0.512 | model | [1] Kim 2002 | Table IV, p. 5, row 5; `ORC-PPQ7SACI7I` |  |
+| 560.22 | quasi-peritectic: U5: L + AuSn -> AuSn2 + AuSb2 | L: Au 0.247, Sb 0.128, Sn 0.625 | model | [1] Kim 2002 | Table IV, p. 5, row 9; `ORC-GIYWBVH34C` |  |
+| 553 | eutectic: E: L -> ζ + AuSn + AuSb2 |  | experimental | [1] Kim 2002; _cites Prince 1990_ | Table IV, p. 5, row 1; `ORC-2H5XD636F4` |  |
+| 546.69 | quasi-peritectic: U4: L + SbSn -> Sb2Sn3 + AuSb2 | L: Au 0.185, Sb 0.166, Sn 0.649 | model | [1] Kim 2002 | Table IV, p. 5, row 7; `ORC-OGDYDOUNY3` |  |
+| 543.24 | quasi-peritectic: U6: L + AuSb2 -> AuSn2 + Sb2Sn3 | L: Au 0.187, Sb 0.158, Sn 0.655 | model | [1] Kim 2002 | Table IV, p. 5, row 10; `ORC-YODWIQ2UPT` |  |
+| 543.16 | eutectic: E: L -> ζ + AuSn + AuSb2 | L: Au 0.683, Sb 0.031, Sn 0.286 | model | [1] Kim 2002 | Table IV, p. 5, row 2; `ORC-XDZ2J7A2BY` |  |
+| 540 | quasi-peritectic: U5: L + AuSn -> AuSn2 + AuSb2 |  | experimental | [1] Kim 2002; _cites Prince 1990_ | Table IV, p. 5, row 8; `ORC-OR7J6XB7KS` |  |
+| 503.51 | quasi-peritectic: U7: L + AuSn2 -> Sb2Sn3 + AuSn4 | L: Au 0.095, Sb 0.074, Sn 0.831 | model | [1] Kim 2002 | Table IV, p. 5, row 11; `ORC-YBRG3ITBWB` |  |
+| 493 | quasi-peritectic: U8: L + Sb2Sn3 -> (Sn) + AuSn4 |  | experimental | [1] Kim 2002; _cites Prince 1990_ | Table IV, p. 5, row 12; `ORC-MKW4Q2ZHKD` |  |
+| 491.08 | quasi-peritectic: U8: L + Sb2Sn3 -> (Sn) + AuSn4 | L: Au 0.064, Sb 0.062, Sn 0.874 | model | [1] Kim 2002 | Table IV, p. 5, row 13; `ORC-CF5AHAN3NV` |  |
 
 ## Sources
 
@@ -82,4 +82,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -14,38 +14,38 @@ Table: Enthalpy of formation of Mg2Si reported in the literature (32)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -61.9 kJ/mol-atom | Mg2Si | 298.15 | experimental | Knusden cell | [Mg–Si](https://data.orchid-project.org/systems/MG-SI.html) | [1] Yuan 2009; _cites ref. 1966Cau_ | Table 3, p. 3, row 6 |  |
-| -29.7 kJ/mol-atom | Mg2Si | 298.15 | experimental | Calorimetry | [Mg–Si](https://data.orchid-project.org/systems/MG-SI.html) | [1] Yuan 2009; _cites ref. 1971Bla_ | Table 3, p. 3, row 8 |  |
-| -27.9 kJ/mol-atom | Mg2Si | 298.15 | experimental | Knudsen cell | [Mg–Si](https://data.orchid-project.org/systems/MG-SI.html) | [1] Yuan 2009; _cites ref. 1963Rya_ | Table 3, p. 3, row 3 |  |
-| -27.1 kJ/mol-atom | Mg2Si | 298.15 | experimental | Calorimetry | [Mg–Si](https://data.orchid-project.org/systems/MG-SI.html) | [1] Yuan 2009; _cites ref. 1967Ger_ | Table 3, p. 3, row 7 |  |
-| -26.67 kJ/mol-atom | Mg2Si | 298.15 | experimental | emf | [Mg–Si](https://data.orchid-project.org/systems/MG-SI.html) | [2] Yan 2000; _cites Lukashenko 1964_ | Table 2, p. 4, row 4 |  |
-| -26.4 kJ/mol-atom | Mg2Si | 298.15 | experimental | emf | [Mg–Si](https://data.orchid-project.org/systems/MG-SI.html) | [1] Yuan 2009; _cites ref. 1964Luk_ | Table 3, p. 3, row 4 |  |
-| -26.4 kJ/mol-atom | Mg2Si | 298.15 | experimental |  | [Mg–Si](https://data.orchid-project.org/systems/MG-SI.html) | [3] Schick 2012; _cites Caulfield 1962_ | Table 3, p. 7, row 2 |  |
-| -26.37 kJ/mol-atom | Mg2Si | 298.15 | experimental | Calorimetry | [Mg–Si](https://data.orchid-project.org/systems/MG-SI.html) | [2] Yan 2000; _cites Caulfield 1962_ | Table 2, p. 4, row 3 |  |
-| -26.3 kJ/mol-atom | Mg2Si | 298.15 | experimental | Calorimetry | [Mg–Si](https://data.orchid-project.org/systems/MG-SI.html) | [2] Yan 2000; _cites Kubaschewski 1949_ | Table 2, p. 4, row 1 |  |
-| -26 kJ/mol-atom | Mg2Si | 298.15 | experimental |  | [Mg–Si](https://data.orchid-project.org/systems/MG-SI.html) | [3] Schick 2012; _cites Kubaschewski 1949_ | Table 3, p. 7, row 1 |  |
-| -25.9 kJ/mol-atom | Mg2Si | 298.15 | experimental | Calorimetry | [Mg–Si](https://data.orchid-project.org/systems/MG-SI.html) | [1] Yuan 2009; _cites ref. 1949Kub_ | Table 3, p. 3, row 1 |  |
-| -22.99 kJ/mol-atom | Mg2Si | 298.15 | experimental | Vapor pressure | [Mg–Si](https://data.orchid-project.org/systems/MG-SI.html) | [2] Yan 2000; _cites Eldridge 1967_ | Table 2, p. 4, row 5 |  |
-| -22.2 kJ/mol-atom | Mg2Si | 298.15 | experimental | emf | [Mg–Si](https://data.orchid-project.org/systems/MG-SI.html) | [1] Yuan 2009; _cites ref. 1981Rao_ | Table 3, p. 3, row 9 |  |
-| -22.16 kJ/mol-atom | Mg2Si | 298.15 | experimental | emf | [Mg–Si](https://data.orchid-project.org/systems/MG-SI.html) | [2] Yan 2000; _cites Rao 1981_ | Table 2, p. 4, row 6 |  |
-| -21.1 kJ/mol-atom | Mg2Si | 298.15 | experimental | Calorimetry | [Mg–Si](https://data.orchid-project.org/systems/MG-SI.html) | [2] Yan 2000; _cites Feufel 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902655-2) | Table 2, p. 4, row 7 |  |
-| -21.1 kJ/mol-atom | Mg2Si | 298.15 | experimental | Calorimetry | [Mg–Si](https://data.orchid-project.org/systems/MG-SI.html) | [1] Yuan 2009; _cites ref. 1997Feu_ | Table 3, p. 3, row 10 |  |
-| -14.21 kJ/mol-atom | Mg2Si | 298.15 | experimental | Vapor pressure | [Mg–Si](https://data.orchid-project.org/systems/MG-SI.html) | [2] Yan 2000; _cites Grjotheim 1962_ | Table 2, p. 4, row 2 |  |
-| -14.2 kJ/mol-atom | Mg2Si | 298.15 | experimental | VPTM | [Mg–Si](https://data.orchid-project.org/systems/MG-SI.html) | [1] Yuan 2009; _cites ref. 1962Grj_ | Table 3, p. 3, row 2 |  |
-| -29.7 kJ/mol-atom | Mg2Si | 298.15 | model |  | [Mg–Si](https://data.orchid-project.org/systems/MG-SI.html) | [3] Schick 2012; _cites Blachnik 1971_ | Table 3, p. 7, row 3 |  |
-| -29.7 kJ/mol-atom | Mg2Si | 298.15 | model | Calculation | [Mg–Si](https://data.orchid-project.org/systems/MG-SI.html) | [2] Yan 2000; _cites Chakraborti 1992_ [doi](https://doi.org/10.1016/0364-5916%2892%2990041-u) | Table 2, p. 4, row 8 |  |
-| -26.47 kJ/mol-atom | Mg2Si | 298.15 | model | Calculation | [Mg–Si](https://data.orchid-project.org/systems/MG-SI.html) | [2] Yan 2000; _cites Ludecke 1986_ | Table 2, p. 4, row 9 |  |
-| -21.74 kJ/mol-atom | Mg2Si | 298.15 | model | Calculation | [Mg–Si](https://data.orchid-project.org/systems/MG-SI.html) | [2] Yan 2000; _cites Feufel 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902655-2) | Table 2, p. 4, row 11 |  |
-| -21.37 kJ/mol-atom | Mg2Si | 298.15 | model | Calculation | [Mg–Si](https://data.orchid-project.org/systems/MG-SI.html) | [2] Yan 2000 | Table 2, p. 4, row 12 |  |
-| -21.01 kJ/mol-atom | Mg2Si | 298.15 | model | Calculation | [Mg–Si](https://data.orchid-project.org/systems/MG-SI.html) | [2] Yan 2000; _cites Lukas 1994_ | Table 2, p. 4, row 10 |  |
-| -21 kJ/mol-atom | Mg2Si |  | model | CALPHAD method | [Mg–Si](https://data.orchid-project.org/systems/MG-SI.html) | [1] Yuan 2009 | Table 3, p. 3, row 13 |  |
-| -18.2 kJ/mol-atom | Mg2Si | 0 | DFT | First-principles | [Mg–Si](https://data.orchid-project.org/systems/MG-SI.html) | [1] Yuan 2009 | Table 3, p. 3, row 12 |  |
-| -17.7 kJ/mol-atom | Mg2Si |  | DFT | First-principles | [Mg–Si](https://data.orchid-project.org/systems/MG-SI.html) | [1] Yuan 2009; _cites ref. 2009Zha_ | Table 3, p. 3, row 11 |  |
-| -17.7 kJ/mol-atom | Mg2Si | 298.15 | DFT | ab initio | [Mg–Si](https://data.orchid-project.org/systems/MG-SI.html) | [3] Schick 2012; _cites Zhang 2009_ [doi](https://doi.org/10.1016/j.intermet.2009.03.017) | Table 3, p. 7, row 5 |  |
-| -16.7 kJ/mol-atom | Mg2Si | 298.15 | DFT | ab initio | [Mg–Si](https://data.orchid-project.org/systems/MG-SI.html) | [3] Schick 2012 | Table 3, p. 7, row 8 |  |
-| -15.4 kJ/mol-atom | Mg2Si | 298.15 | DFT | ab initio | [Mg–Si](https://data.orchid-project.org/systems/MG-SI.html) | [3] Schick 2012 | Table 3, p. 7, row 9 |  |
-| -21.1 kJ/mol-atom | Mg2Si | 298.15 | unspecified |  | [Mg–Si](https://data.orchid-project.org/systems/MG-SI.html) | [3] Schick 2012 | Table 3, p. 7, row 10 |  |
-| -21.1 kJ/mol-atom | Mg2Si | 298.15 | unspecified |  | [Mg–Si](https://data.orchid-project.org/systems/MG-SI.html) | [3] Schick 2012; _cites Feufel 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902655-2) | Table 3, p. 7, row 4 |  |
+| -61.9 kJ/mol-atom | Mg2Si | 298.15 | experimental | Knusden cell | [Mg–Si](https://data.orchid-project.org/systems/MG-SI.html) | [1] Yuan 2009; _cites ref. 1966Cau_ | Table 3, p. 3, row 6; `ORC-TVHTHUHXFG` |  |
+| -29.7 kJ/mol-atom | Mg2Si | 298.15 | experimental | Calorimetry | [Mg–Si](https://data.orchid-project.org/systems/MG-SI.html) | [1] Yuan 2009; _cites ref. 1971Bla_ | Table 3, p. 3, row 8; `ORC-E56JCQJWKX` |  |
+| -27.9 kJ/mol-atom | Mg2Si | 298.15 | experimental | Knudsen cell | [Mg–Si](https://data.orchid-project.org/systems/MG-SI.html) | [1] Yuan 2009; _cites ref. 1963Rya_ | Table 3, p. 3, row 3; `ORC-6WSWRP4O2O` |  |
+| -27.1 kJ/mol-atom | Mg2Si | 298.15 | experimental | Calorimetry | [Mg–Si](https://data.orchid-project.org/systems/MG-SI.html) | [1] Yuan 2009; _cites ref. 1967Ger_ | Table 3, p. 3, row 7; `ORC-NAZH3V3DPB.bd04ab` |  |
+| -26.67 kJ/mol-atom | Mg2Si | 298.15 | experimental | emf | [Mg–Si](https://data.orchid-project.org/systems/MG-SI.html) | [2] Yan 2000; _cites Lukashenko 1964_ | Table 2, p. 4, row 4; `ORC-BQMOVUXMWI` |  |
+| -26.4 kJ/mol-atom | Mg2Si | 298.15 | experimental | emf | [Mg–Si](https://data.orchid-project.org/systems/MG-SI.html) | [1] Yuan 2009; _cites ref. 1964Luk_ | Table 3, p. 3, row 4; `ORC-FMNPCEPMA2.5cc81c` |  |
+| -26.4 kJ/mol-atom | Mg2Si | 298.15 | experimental |  | [Mg–Si](https://data.orchid-project.org/systems/MG-SI.html) | [3] Schick 2012; _cites Caulfield 1962_ | Table 3, p. 7, row 2; `ORC-NQ3FCXRLOR` |  |
+| -26.37 kJ/mol-atom | Mg2Si | 298.15 | experimental | Calorimetry | [Mg–Si](https://data.orchid-project.org/systems/MG-SI.html) | [2] Yan 2000; _cites Caulfield 1962_ | Table 2, p. 4, row 3; `ORC-WGV2LZGFYW` |  |
+| -26.3 kJ/mol-atom | Mg2Si | 298.15 | experimental | Calorimetry | [Mg–Si](https://data.orchid-project.org/systems/MG-SI.html) | [2] Yan 2000; _cites Kubaschewski 1949_ | Table 2, p. 4, row 1; `ORC-RRLRFVBSPR` |  |
+| -26 kJ/mol-atom | Mg2Si | 298.15 | experimental |  | [Mg–Si](https://data.orchid-project.org/systems/MG-SI.html) | [3] Schick 2012; _cites Kubaschewski 1949_ | Table 3, p. 7, row 1; `ORC-CR5XFWSRX4` |  |
+| -25.9 kJ/mol-atom | Mg2Si | 298.15 | experimental | Calorimetry | [Mg–Si](https://data.orchid-project.org/systems/MG-SI.html) | [1] Yuan 2009; _cites ref. 1949Kub_ | Table 3, p. 3, row 1; `ORC-K5PA43HKL6` |  |
+| -22.99 kJ/mol-atom | Mg2Si | 298.15 | experimental | Vapor pressure | [Mg–Si](https://data.orchid-project.org/systems/MG-SI.html) | [2] Yan 2000; _cites Eldridge 1967_ | Table 2, p. 4, row 5; `ORC-IT4ZCWCHUS` |  |
+| -22.2 kJ/mol-atom | Mg2Si | 298.15 | experimental | emf | [Mg–Si](https://data.orchid-project.org/systems/MG-SI.html) | [1] Yuan 2009; _cites ref. 1981Rao_ | Table 3, p. 3, row 9; `ORC-PNANYQB5BW.8c73dd` |  |
+| -22.16 kJ/mol-atom | Mg2Si | 298.15 | experimental | emf | [Mg–Si](https://data.orchid-project.org/systems/MG-SI.html) | [2] Yan 2000; _cites Rao 1981_ | Table 2, p. 4, row 6; `ORC-XT23ZMENP2` |  |
+| -21.1 kJ/mol-atom | Mg2Si | 298.15 | experimental | Calorimetry | [Mg–Si](https://data.orchid-project.org/systems/MG-SI.html) | [2] Yan 2000; _cites Feufel 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902655-2) | Table 2, p. 4, row 7; `ORC-4NIT2EUNUZ` |  |
+| -21.1 kJ/mol-atom | Mg2Si | 298.15 | experimental | Calorimetry | [Mg–Si](https://data.orchid-project.org/systems/MG-SI.html) | [1] Yuan 2009; _cites ref. 1997Feu_ | Table 3, p. 3, row 10; `ORC-VU6QT2S3YK` |  |
+| -14.21 kJ/mol-atom | Mg2Si | 298.15 | experimental | Vapor pressure | [Mg–Si](https://data.orchid-project.org/systems/MG-SI.html) | [2] Yan 2000; _cites Grjotheim 1962_ | Table 2, p. 4, row 2; `ORC-I7FSVUPWML` |  |
+| -14.2 kJ/mol-atom | Mg2Si | 298.15 | experimental | VPTM | [Mg–Si](https://data.orchid-project.org/systems/MG-SI.html) | [1] Yuan 2009; _cites ref. 1962Grj_ | Table 3, p. 3, row 2; `ORC-QYTOKDYFUF.56456d` |  |
+| -29.7 kJ/mol-atom | Mg2Si | 298.15 | model |  | [Mg–Si](https://data.orchid-project.org/systems/MG-SI.html) | [3] Schick 2012; _cites Blachnik 1971_ | Table 3, p. 7, row 3; `ORC-TGU3PMLBRI` |  |
+| -29.7 kJ/mol-atom | Mg2Si | 298.15 | model | Calculation | [Mg–Si](https://data.orchid-project.org/systems/MG-SI.html) | [2] Yan 2000; _cites Chakraborti 1992_ [doi](https://doi.org/10.1016/0364-5916%2892%2990041-u) | Table 2, p. 4, row 8; `ORC-YAOI6N6R5H` |  |
+| -26.47 kJ/mol-atom | Mg2Si | 298.15 | model | Calculation | [Mg–Si](https://data.orchid-project.org/systems/MG-SI.html) | [2] Yan 2000; _cites Ludecke 1986_ | Table 2, p. 4, row 9; `ORC-N7FIHVHMXU` |  |
+| -21.74 kJ/mol-atom | Mg2Si | 298.15 | model | Calculation | [Mg–Si](https://data.orchid-project.org/systems/MG-SI.html) | [2] Yan 2000; _cites Feufel 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902655-2) | Table 2, p. 4, row 11; `ORC-7UMSNJ5ULE` |  |
+| -21.37 kJ/mol-atom | Mg2Si | 298.15 | model | Calculation | [Mg–Si](https://data.orchid-project.org/systems/MG-SI.html) | [2] Yan 2000 | Table 2, p. 4, row 12; `ORC-4P7GS3EMYE` |  |
+| -21.01 kJ/mol-atom | Mg2Si | 298.15 | model | Calculation | [Mg–Si](https://data.orchid-project.org/systems/MG-SI.html) | [2] Yan 2000; _cites Lukas 1994_ | Table 2, p. 4, row 10; `ORC-XE6ZN6IYQS` |  |
+| -21 kJ/mol-atom | Mg2Si |  | model | CALPHAD method | [Mg–Si](https://data.orchid-project.org/systems/MG-SI.html) | [1] Yuan 2009 | Table 3, p. 3, row 13; `ORC-VOMZWQPFCW.1cdbae` |  |
+| -18.2 kJ/mol-atom | Mg2Si | 0 | DFT | First-principles | [Mg–Si](https://data.orchid-project.org/systems/MG-SI.html) | [1] Yuan 2009 | Table 3, p. 3, row 12; `ORC-5VIZ44FGIK` |  |
+| -17.7 kJ/mol-atom | Mg2Si |  | DFT | First-principles | [Mg–Si](https://data.orchid-project.org/systems/MG-SI.html) | [1] Yuan 2009; _cites ref. 2009Zha_ | Table 3, p. 3, row 11; `ORC-AP4XHDIAMA` |  |
+| -17.7 kJ/mol-atom | Mg2Si | 298.15 | DFT | ab initio | [Mg–Si](https://data.orchid-project.org/systems/MG-SI.html) | [3] Schick 2012; _cites Zhang 2009_ [doi](https://doi.org/10.1016/j.intermet.2009.03.017) | Table 3, p. 7, row 5; `ORC-FYZFTH4VM6` |  |
+| -16.7 kJ/mol-atom | Mg2Si | 298.15 | DFT | ab initio | [Mg–Si](https://data.orchid-project.org/systems/MG-SI.html) | [3] Schick 2012 | Table 3, p. 7, row 8; `ORC-3EP2RAVNHP.c91b91` |  |
+| -15.4 kJ/mol-atom | Mg2Si | 298.15 | DFT | ab initio | [Mg–Si](https://data.orchid-project.org/systems/MG-SI.html) | [3] Schick 2012 | Table 3, p. 7, row 9; `ORC-TKZQ4AI54G.9dc254` |  |
+| -21.1 kJ/mol-atom | Mg2Si | 298.15 | unspecified |  | [Mg–Si](https://data.orchid-project.org/systems/MG-SI.html) | [3] Schick 2012 | Table 3, p. 7, row 10; `ORC-OXJBML6GVQ.768fd4` |  |
+| -21.1 kJ/mol-atom | Mg2Si | 298.15 | unspecified |  | [Mg–Si](https://data.orchid-project.org/systems/MG-SI.html) | [3] Schick 2012; _cites Feufel 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902655-2) | Table 3, p. 7, row 4; `ORC-QWF4L54JOC` |  |
 
 ### Uncertainty budget
 
@@ -154,4 +154,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

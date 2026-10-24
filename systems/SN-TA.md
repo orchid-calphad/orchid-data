@@ -53,7 +53,7 @@ Table: Invariant reactions reported in the literature for the Sn–Ta system (1)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 868.15 | peritectic |  | experimental | [1] Marker 2017; _cites ref. 13_ | p. 3 | “Basile \[13\] determined TaSn2 has a peritectic reaction at 595 °C and used X-ray diffraction (XRD) to elucidate the lattice parameters of TaSn2,.” |
+| 868.15 | peritectic |  | experimental | [1] Marker 2017; _cites ref. 13_ | p. 3; `ORC-C3DB7UXK23` | “Basile \[13\] determined TaSn2 has a peritectic reaction at 595 °C and used X-ray diffraction (XRD) to elucidate the lattice parameters of TaSn2,.” |
 
 ## Other properties
 
@@ -63,10 +63,10 @@ Table: Phase transition, Sn–Ta system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 868 K | 868 | other | experimental | [1] Marker 2017 | p. 1 | “The results from first-principles calculations along with the previously reported decomposition temperature of TaSn2, 868 K, were used to evaluate the Gibbs energy parameters of the TaSn2, Ta3Sn intermetallics and the liquid phase.” |
-| Phase transition | 2884 K | 2884 |  | model | [1] Marker 2017 | p. 21 | “The melting temperature of Ta3Sn is predicted to be 2884 K.” |
-| Phase transition | 2884 K | 2884 |  | model | [1] Marker 2017 | p. 23 | “The decomposition temperature of Ta3Sn is predicted to be 2884 K.” |
-| Phase transition | 2884 K | 2884 | other | model | [1] Marker 2017 | p. 1 | “No decomposition temperature of Ta3Sn has previously been reported in the literature but was predicted in this work to be 2884 K.” |
+| Phase transition | 868 K | 868 | other | experimental | [1] Marker 2017 | p. 1; `ORC-PQZSHQKOHH` | “The results from first-principles calculations along with the previously reported decomposition temperature of TaSn2, 868 K, were used to evaluate the Gibbs energy parameters of the TaSn2, Ta3Sn intermetallics and the liquid phase.” |
+| Phase transition | 2884 K | 2884 |  | model | [1] Marker 2017 | p. 21; `ORC-DLW2C2WFPH` | “The melting temperature of Ta3Sn is predicted to be 2884 K.” |
+| Phase transition | 2884 K | 2884 |  | model | [1] Marker 2017 | p. 23; `ORC-UJYNJZJEH6` | “The decomposition temperature of Ta3Sn is predicted to be 2884 K.” |
+| Phase transition | 2884 K | 2884 | other | model | [1] Marker 2017 | p. 1; `ORC-Y7Q2JDOVFQ` | “No decomposition temperature of Ta3Sn has previously been reported in the literature but was predicted in this work to be 2884 K.” |
 
 ### Crystal structure (33)
 
@@ -74,39 +74,39 @@ Table: Crystal structure, Sn–Ta system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 5.641 Å | 0 | TaSn2; _alloy: Ta 0.333333_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 11 |  |
-| Lattice a | 5.319 Å | 298.15 | Ta3Sn; _alloy: Ta 0.75_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 16 |  |
-| Lattice a | 5.304 Å | 298.15 | Ta3Sn; _alloy: Ta 0.75_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 15 |  |
-| Lattice a | 5.29 Å | 298.15 | Ta3Sn; _alloy: Ta 0.75_ | experimental | [1] Marker 2017; _cites ref. 17_ | Table 1, p. 12, row 18 |  |
-| Lattice a | 5.652 Å | 298.15 | TaSn2; _alloy: Ta 0.333333_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 13 |  |
-| Lattice a | 5.63 Å | 298.15 | TaSn2; _alloy: Ta 0.333333_ | experimental | [1] Marker 2017; _cites ref. 39_ | Table 1, p. 12, row 14 |  |
-| Lattice a | 5.939 Å | 298.15 | bct-Sn; _alloy: Ta 0_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 6 |  |
-| Lattice a | 5.93 Å | 298.15 | bct-Sn; _alloy: Ta 0_ | DFT | [1] Marker 2017; _cites ref. 38_ | Table 1, p. 12, row 10 |  |
-| Lattice a | 5.83 Å | 298.15 | bct-Sn; _alloy: Ta 0_ | experimental | [1] Marker 2017; _cites ref. 37_ | Table 1, p. 12, row 9 |  |
-| Lattice a | 5.959 Å | 298.15 | bct-Sn; _alloy: Ta 0_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 7 |  |
-| Lattice a | 5.954 Å | 298.15 | bct-Sn; _alloy: Ta 0_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 8 |  |
-| Lattice b | 9.766 Å | 0 | TaSn2; _alloy: Ta 0.333333_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 11 |  |
-| Lattice b | 9.785 Å | 298.15 | TaSn2; _alloy: Ta 0.333333_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 13 |  |
-| Lattice b | 9.786 Å | 298.15 | TaSn2; _alloy: Ta 0.333333_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 12 |  |
-| Lattice b | 9.8 Å | 298.15 | TaSn2; _alloy: Ta 0.333333_ | experimental | [1] Marker 2017; _cites ref. 39_ | Table 1, p. 12, row 14 |  |
-| Lattice c | 19.2 Å | 0 | TaSn2; _alloy: Ta 0.333333_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 11 |  |
-| Lattice c | 19.238 Å | 298.15 | TaSn2; _alloy: Ta 0.333333_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 13 |  |
-| Lattice c | 19.18 Å | 298.15 | TaSn2; _alloy: Ta 0.333333_ | experimental | [1] Marker 2017; _cites ref. 39_ | Table 1, p. 12, row 14 |  |
-| Lattice c | 3.214 Å | 298.15 | bct-Sn; _alloy: Ta 0_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 6 |  |
-| Lattice c | 3.23 Å | 298.15 | bct-Sn; _alloy: Ta 0_ | DFT | [1] Marker 2017; _cites ref. 38_ | Table 1, p. 12, row 10 |  |
-| Lattice c | 3.18 Å | 298.15 | bct-Sn; _alloy: Ta 0_ | experimental | [1] Marker 2017; _cites ref. 37_ | Table 1, p. 12, row 9 |  |
-| Lattice c | 3.236 Å | 298.15 | bct-Sn; _alloy: Ta 0_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 7 |  |
-| Lattice c | 3.222 Å | 298.15 | bct-Sn; _alloy: Ta 0_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 8 |  |
-| Molar volume; _printed: V_ | 18.668 Å³/atom | 0 | Ta3Sn; _alloy: Ta 0.75_ | DFT | [1] Marker 2017 | Table 2, p. 13, row 8 |  |
-| Molar volume; _printed: V_ | 22.631 Å³/atom | 0 | TaSn2; _alloy: Ta 0.333333_ | DFT | [1] Marker 2017 | Table 2, p. 13, row 7 |  |
-| Molar volume; _printed: V_ | 27.055 Å³/atom |  | bct-Sn; _alloy: Ta 0_ | experimental | [1] Marker 2017; _cites ref. 40_ | Table 2, p. 13, row 5 |  |
-| Molar volume; _printed: V_ | 28.431 Å³/atom | 0 | bct-Sn; _alloy: Ta 0_ | DFT | [1] Marker 2017 | Table 2, p. 13, row 4 |  |
-| Molar volume; _printed: V_ | 28.396 Å³/atom | 0 | bct-Sn; _alloy: Ta 0_ | DFT | [1] Marker 2017; _cites ref. 40_ | Table 2, p. 13, row 6 |  |
-| volume; _printed: V_ | 18.668 Å3/atom | 0 | Ta3Sn; _alloy: Ta 0.75_ | DFT | [1] Marker 2017 | Table 2, p. 13, row 8 |  |
-| volume; _printed: V_ | 22.631 Å3/atom | 0 | TaSn2; _alloy: Ta 0.333333_ | DFT | [1] Marker 2017 | Table 2, p. 13, row 7 |  |
-| volume; _printed: V_ | 27.055 Å3/atom |  | bct-Sn; _alloy: Ta 0_ | experimental | [1] Marker 2017; _cites ref. 40_ | Table 2, p. 13, row 5 |  |
-| volume; _printed: V_ | 28.431 Å3/atom | 0 | bct-Sn; _alloy: Ta 0_ | DFT | [1] Marker 2017 | Table 2, p. 13, row 4 |  |
-| volume; _printed: V_ | 28.396 Å3/atom | 0 | bct-Sn; _alloy: Ta 0_ | DFT | [1] Marker 2017; _cites ref. 40_ | Table 2, p. 13, row 6 |  |
+| Lattice a | 5.641 Å | 0 | TaSn2; _alloy: Ta 0.333333_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 11; `ORC-R32FXPVRVR.a615a0` |  |
+| Lattice a | 5.319 Å | 298.15 | Ta3Sn; _alloy: Ta 0.75_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 16; `ORC-H3DLQ3MJZQ` |  |
+| Lattice a | 5.304 Å | 298.15 | Ta3Sn; _alloy: Ta 0.75_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 15; `ORC-TJ3KKTAJP3` |  |
+| Lattice a | 5.29 Å | 298.15 | Ta3Sn; _alloy: Ta 0.75_ | experimental | [1] Marker 2017; _cites ref. 17_ | Table 1, p. 12, row 18; `ORC-ZXNMVM2V4H` |  |
+| Lattice a | 5.652 Å | 298.15 | TaSn2; _alloy: Ta 0.333333_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 13; `ORC-3PFSLI47OL.6635b9` |  |
+| Lattice a | 5.63 Å | 298.15 | TaSn2; _alloy: Ta 0.333333_ | experimental | [1] Marker 2017; _cites ref. 39_ | Table 1, p. 12, row 14; `ORC-TBKTKB46I3.7ceeb8` |  |
+| Lattice a | 5.939 Å | 298.15 | bct-Sn; _alloy: Ta 0_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 6; `ORC-2JM56W3TUA.72da53` |  |
+| Lattice a | 5.93 Å | 298.15 | bct-Sn; _alloy: Ta 0_ | DFT | [1] Marker 2017; _cites ref. 38_ | Table 1, p. 12, row 10; `ORC-I2DSRJ2F7G.c383df` |  |
+| Lattice a | 5.83 Å | 298.15 | bct-Sn; _alloy: Ta 0_ | experimental | [1] Marker 2017; _cites ref. 37_ | Table 1, p. 12, row 9; `ORC-LHIK2GVWBX.4cd7a4` |  |
+| Lattice a | 5.959 Å | 298.15 | bct-Sn; _alloy: Ta 0_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 7; `ORC-SR7QCN4G5S.27917f` |  |
+| Lattice a | 5.954 Å | 298.15 | bct-Sn; _alloy: Ta 0_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 8; `ORC-WTF4GGTE6Y.d62f39` |  |
+| Lattice b | 9.766 Å | 0 | TaSn2; _alloy: Ta 0.333333_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 11; `ORC-R32FXPVRVR.6e2bd1` |  |
+| Lattice b | 9.785 Å | 298.15 | TaSn2; _alloy: Ta 0.333333_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 13; `ORC-3PFSLI47OL.ec4df7` |  |
+| Lattice b | 9.786 Å | 298.15 | TaSn2; _alloy: Ta 0.333333_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 12; `ORC-ECLE3JAMLA.93dabc` |  |
+| Lattice b | 9.8 Å | 298.15 | TaSn2; _alloy: Ta 0.333333_ | experimental | [1] Marker 2017; _cites ref. 39_ | Table 1, p. 12, row 14; `ORC-TBKTKB46I3.a72229` |  |
+| Lattice c | 19.2 Å | 0 | TaSn2; _alloy: Ta 0.333333_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 11; `ORC-R32FXPVRVR.0768a0` |  |
+| Lattice c | 19.238 Å | 298.15 | TaSn2; _alloy: Ta 0.333333_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 13; `ORC-3PFSLI47OL.e7c2a4` |  |
+| Lattice c | 19.18 Å | 298.15 | TaSn2; _alloy: Ta 0.333333_ | experimental | [1] Marker 2017; _cites ref. 39_ | Table 1, p. 12, row 14; `ORC-TBKTKB46I3.5d0f0a` |  |
+| Lattice c | 3.214 Å | 298.15 | bct-Sn; _alloy: Ta 0_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 6; `ORC-2JM56W3TUA.c22de4` |  |
+| Lattice c | 3.23 Å | 298.15 | bct-Sn; _alloy: Ta 0_ | DFT | [1] Marker 2017; _cites ref. 38_ | Table 1, p. 12, row 10; `ORC-I2DSRJ2F7G.a36d08` |  |
+| Lattice c | 3.18 Å | 298.15 | bct-Sn; _alloy: Ta 0_ | experimental | [1] Marker 2017; _cites ref. 37_ | Table 1, p. 12, row 9; `ORC-LHIK2GVWBX.33396b` |  |
+| Lattice c | 3.236 Å | 298.15 | bct-Sn; _alloy: Ta 0_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 7; `ORC-SR7QCN4G5S.0c2732` |  |
+| Lattice c | 3.222 Å | 298.15 | bct-Sn; _alloy: Ta 0_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 8; `ORC-WTF4GGTE6Y.71fd8f` |  |
+| Molar volume; _printed: V_ | 18.668 Å³/atom | 0 | Ta3Sn; _alloy: Ta 0.75_ | DFT | [1] Marker 2017 | Table 2, p. 13, row 8; `ORC-USWGFJNZ2P.8fba1a` |  |
+| Molar volume; _printed: V_ | 22.631 Å³/atom | 0 | TaSn2; _alloy: Ta 0.333333_ | DFT | [1] Marker 2017 | Table 2, p. 13, row 7; `ORC-6XMOUMYGS2.f5060a` |  |
+| Molar volume; _printed: V_ | 27.055 Å³/atom |  | bct-Sn; _alloy: Ta 0_ | experimental | [1] Marker 2017; _cites ref. 40_ | Table 2, p. 13, row 5; `ORC-7CXUBZBPME.bc67a3` |  |
+| Molar volume; _printed: V_ | 28.431 Å³/atom | 0 | bct-Sn; _alloy: Ta 0_ | DFT | [1] Marker 2017 | Table 2, p. 13, row 4; `ORC-E2QQN3GKPY.30b2f5` |  |
+| Molar volume; _printed: V_ | 28.396 Å³/atom | 0 | bct-Sn; _alloy: Ta 0_ | DFT | [1] Marker 2017; _cites ref. 40_ | Table 2, p. 13, row 6; `ORC-ZYKLRORBIZ.709634` |  |
+| volume; _printed: V_ | 18.668 Å3/atom | 0 | Ta3Sn; _alloy: Ta 0.75_ | DFT | [1] Marker 2017 | Table 2, p. 13, row 8; `ORC-USWGFJNZ2P.b8a2e3` |  |
+| volume; _printed: V_ | 22.631 Å3/atom | 0 | TaSn2; _alloy: Ta 0.333333_ | DFT | [1] Marker 2017 | Table 2, p. 13, row 7; `ORC-6XMOUMYGS2.d7c2f1` |  |
+| volume; _printed: V_ | 27.055 Å3/atom |  | bct-Sn; _alloy: Ta 0_ | experimental | [1] Marker 2017; _cites ref. 40_ | Table 2, p. 13, row 5; `ORC-7CXUBZBPME.3f3fb5` |  |
+| volume; _printed: V_ | 28.431 Å3/atom | 0 | bct-Sn; _alloy: Ta 0_ | DFT | [1] Marker 2017 | Table 2, p. 13, row 4; `ORC-E2QQN3GKPY.2d31e8` |  |
+| volume; _printed: V_ | 28.396 Å3/atom | 0 | bct-Sn; _alloy: Ta 0_ | DFT | [1] Marker 2017; _cites ref. 40_ | Table 2, p. 13, row 6; `ORC-ZYKLRORBIZ.a654cd` |  |
 
 ### Other property (5)
 
@@ -114,11 +114,11 @@ Table: Other property, Sn–Ta system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| bulk modulus; _printed: B_ | 182.4 GPa | 0 | Ta3Sn; _alloy: Ta 0.75_ | DFT | [1] Marker 2017 | Table 2, p. 13, row 8 |  |
-| bulk modulus; _printed: B_ | 104.3 GPa | 0 | TaSn2; _alloy: Ta 0.333333_ | DFT | [1] Marker 2017 | Table 2, p. 13, row 7 |  |
-| bulk modulus; _printed: B_ | 58 GPa |  | bct-Sn; _alloy: Ta 0_ | experimental | [1] Marker 2017; _cites ref. 40_ | Table 2, p. 13, row 5 |  |
-| bulk modulus; _printed: B_ | 47.7 GPa | 0 | bct-Sn; _alloy: Ta 0_ | DFT | [1] Marker 2017 | Table 2, p. 13, row 4 |  |
-| bulk modulus; _printed: B_ | 54 GPa | 0 | bct-Sn; _alloy: Ta 0_ | DFT | [1] Marker 2017; _cites ref. 40_ | Table 2, p. 13, row 6 |  |
+| bulk modulus; _printed: B_ | 182.4 GPa | 0 | Ta3Sn; _alloy: Ta 0.75_ | DFT | [1] Marker 2017 | Table 2, p. 13, row 8; `ORC-USWGFJNZ2P.67b0f0` |  |
+| bulk modulus; _printed: B_ | 104.3 GPa | 0 | TaSn2; _alloy: Ta 0.333333_ | DFT | [1] Marker 2017 | Table 2, p. 13, row 7; `ORC-6XMOUMYGS2.484b4a` |  |
+| bulk modulus; _printed: B_ | 58 GPa |  | bct-Sn; _alloy: Ta 0_ | experimental | [1] Marker 2017; _cites ref. 40_ | Table 2, p. 13, row 5; `ORC-7CXUBZBPME.cf8ffa` |  |
+| bulk modulus; _printed: B_ | 47.7 GPa | 0 | bct-Sn; _alloy: Ta 0_ | DFT | [1] Marker 2017 | Table 2, p. 13, row 4; `ORC-E2QQN3GKPY.b56ff8` |  |
+| bulk modulus; _printed: B_ | 54 GPa | 0 | bct-Sn; _alloy: Ta 0_ | DFT | [1] Marker 2017; _cites ref. 40_ | Table 2, p. 13, row 6; `ORC-ZYKLRORBIZ.c3f9fe` |  |
 
 ## Sources
 
@@ -183,4 +183,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -29,24 +29,24 @@ Table: Phase equilibrium, B–Co–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 723.15 | Co2B + CoB; _Co2B: B 0.0047, Co 0.6667, Zn 0.3333; CoB: B 0.0035, Co 0.5, Zn 0.5_ | experimental | [1] Chen 2013 | Table 2, p. 3, row 6 |  |
-| Phase composition |  | 723.15 | Co2B + β1; _Co2B: B 0.0056, Co 0.6667, Zn 0.3333; β1: B 0.0031, Co 0.4841, Zn 0.5159_ | experimental | [1] Chen 2013 | Table 2, p. 3, row 2 |  |
-| Phase composition |  | 723.15 | CoB; _CoB: B 0.0053, Co 0.5056, Zn 0.4891_ | experimental | [1] Chen 2013 | Table 2, p. 3, row 14 |  |
-| Phase composition |  | 723.15 | CoB; _CoB: B 0.0053, Co 0.5056, Zn 0.4891_ | experimental | [1] Chen 2013 | Table 2, p. 3, row 12 |  |
-| Phase composition |  | 723.15 | CoB; _CoB: B 0.0053, Co 0.5056, Zn 0.4891_ | experimental | [1] Chen 2013 | Table 2, p. 3, row 10 |  |
-| Phase composition |  | 723.15 | CoB + B; _CoB: B 0.006, Co 0.5, Zn 0.5; B: B 1, Co 4.000e-4, Zn 0.0084_ | experimental | [1] Chen 2013 | Table 2, p. 3, row 20 |  |
-| Phase composition |  | 723.15 | α-Co + Co2B + β1; _α-Co: B 0, Co 0.9122, Zn 0.0878; Co2B: B 0, Co 0.6667, Zn 0.3333; β1: B 0, Co 0.4841, Zn 0.5159_ | experimental | [1] Chen 2013 | Table 2, p. 3, row 1 |  |
-| Phase composition |  | 723.15 | β1 + Co2B; _β1: B 0.0027, Co 0.4545, Zn 0.5455; Co2B: B 0.0047, Co 0.6667, Zn 0.3333_ | experimental | [1] Chen 2013 | Table 2, p. 3, row 4 |  |
-| Phase composition |  | 723.15 | γ + Co2B + CoB; _γ: B 0.01348, Co 0.206, Zn 0.7805; Co2B: B 0.0047, Co 0.6667, Zn 0.3333; CoB: B 0.0035, Co 0.5, Zn 0.5_ | experimental | [1] Chen 2013 | Table 2, p. 3, row 5 |  |
-| Phase composition |  | 723.15 | γ + CoB; _γ: B 0.0231, Co 0.1427, Zn 0.8342; CoB: B 0.0053, Co 0.5056, Zn 0.4891_ | experimental | [1] Chen 2013 | Table 2, p. 3, row 11 |  |
-| Phase composition |  | 723.15 | γ + CoB; _γ: B 0.0254, Co 0.1594, Zn 0.8152; CoB: B 0.0053, Co 0.5056, Zn 0.4891_ | experimental | [1] Chen 2013 | Table 2, p. 3, row 9 |  |
-| Phase composition |  | 723.15 | γ + CoB + γ1 + γ2; _γ: B 0.02418, Co 0.1761, Zn 0.7998; CoB: B 0, Co 0.5, Zn 0.5; γ1: B 0, Co 0.12, Zn 0.88; γ2: B 8.400e-4, Co 0.06667, Zn 0.9325_ | unspecified | [1] Chen 2013 | Table 2, p. 3, row 7 |  |
-| Phase composition |  | 723.15 | γ + β1 + Co2B; _γ: B 0.009548, Co 0.2346, Zn 0.7379; β1: B 0.0027, Co 0.4545, Zn 0.5455; Co2B: B 0.0047, Co 0.6667, Zn 0.3333_ | experimental | [1] Chen 2013 | Table 2, p. 3, row 3 |  |
-| Phase composition |  | 723.15 | γ1; _γ1: B 0, Co 0.12, Zn 0.88_ | unspecified | [1] Chen 2013 | Table 2, p. 3, row 8 |  |
-| Phase composition |  | 723.15 | γ1 + CoB; _γ1: B 0.0052, Co 0.1566, Zn 0.8382; CoB: B 0.0053, Co 0.5056, Zn 0.4891_ | experimental | [1] Chen 2013 | Table 2, p. 3, row 13 |  |
-| Phase composition |  | 723.15 | γ1 + γ2 + CoB; _γ1: B 0, Co 0.12, Zn 0.88; γ2: B 8.400e-4, Co 0.06667, Zn 0.9325; CoB: B 0.0055, Co 0.5, Zn 0.5_ | unspecified | [1] Chen 2013 | Table 2, p. 3, row 16 |  |
-| Phase composition |  | 723.15 | γ1 + γ2 + CoB; _γ1: B 0.0032, Co 0.112, Zn 0.8858; γ2: B 0.0088, Co 0.0885, Zn 0.9027; CoB: B 0.0055, Co 0.5041, Zn 0.4909_ | experimental | [1] Chen 2013 | Table 2, p. 3, row 15 |  |
-| Phase composition |  | 723.15 | η-Zn + CoB + B; _η-Zn: B 3.000e-6, Co 1.300e-5, Zn 0.9999; CoB: B 0.006, Co 0.5, Zn 0.5; B: B 1, Co 4.000e-4, Zn 0.0084_ | experimental | [1] Chen 2013 | Table 2, p. 3, row 19 |  |
+| Phase composition |  | 723.15 | Co2B + CoB; _Co2B: B 0.0047, Co 0.6667, Zn 0.3333; CoB: B 0.0035, Co 0.5, Zn 0.5_ | experimental | [1] Chen 2013 | Table 2, p. 3, row 6; `ORC-SANQF6GQKF` |  |
+| Phase composition |  | 723.15 | Co2B + β1; _Co2B: B 0.0056, Co 0.6667, Zn 0.3333; β1: B 0.0031, Co 0.4841, Zn 0.5159_ | experimental | [1] Chen 2013 | Table 2, p. 3, row 2; `ORC-NTJGQSML5N` |  |
+| Phase composition |  | 723.15 | CoB; _CoB: B 0.0053, Co 0.5056, Zn 0.4891_ | experimental | [1] Chen 2013 | Table 2, p. 3, row 14; `ORC-3T3FM3NH4I` |  |
+| Phase composition |  | 723.15 | CoB; _CoB: B 0.0053, Co 0.5056, Zn 0.4891_ | experimental | [1] Chen 2013 | Table 2, p. 3, row 12; `ORC-GGY7AA5CKP` |  |
+| Phase composition |  | 723.15 | CoB; _CoB: B 0.0053, Co 0.5056, Zn 0.4891_ | experimental | [1] Chen 2013 | Table 2, p. 3, row 10; `ORC-JOS243SL4M` |  |
+| Phase composition |  | 723.15 | CoB + B; _CoB: B 0.006, Co 0.5, Zn 0.5; B: B 1, Co 4.000e-4, Zn 0.0084_ | experimental | [1] Chen 2013 | Table 2, p. 3, row 20; `ORC-SILYKURZJO` |  |
+| Phase composition |  | 723.15 | α-Co + Co2B + β1; _α-Co: B 0, Co 0.9122, Zn 0.0878; Co2B: B 0, Co 0.6667, Zn 0.3333; β1: B 0, Co 0.4841, Zn 0.5159_ | experimental | [1] Chen 2013 | Table 2, p. 3, row 1; `ORC-X44LD7HWPC` |  |
+| Phase composition |  | 723.15 | β1 + Co2B; _β1: B 0.0027, Co 0.4545, Zn 0.5455; Co2B: B 0.0047, Co 0.6667, Zn 0.3333_ | experimental | [1] Chen 2013 | Table 2, p. 3, row 4; `ORC-RVSTJ3DSN7` |  |
+| Phase composition |  | 723.15 | γ + Co2B + CoB; _γ: B 0.01348, Co 0.206, Zn 0.7805; Co2B: B 0.0047, Co 0.6667, Zn 0.3333; CoB: B 0.0035, Co 0.5, Zn 0.5_ | experimental | [1] Chen 2013 | Table 2, p. 3, row 5; `ORC-TBW6OV265A` |  |
+| Phase composition |  | 723.15 | γ + CoB; _γ: B 0.0231, Co 0.1427, Zn 0.8342; CoB: B 0.0053, Co 0.5056, Zn 0.4891_ | experimental | [1] Chen 2013 | Table 2, p. 3, row 11; `ORC-AJC3M3MOLV` |  |
+| Phase composition |  | 723.15 | γ + CoB; _γ: B 0.0254, Co 0.1594, Zn 0.8152; CoB: B 0.0053, Co 0.5056, Zn 0.4891_ | experimental | [1] Chen 2013 | Table 2, p. 3, row 9; `ORC-TU4VM3IZ3P` |  |
+| Phase composition |  | 723.15 | γ + CoB + γ1 + γ2; _γ: B 0.02418, Co 0.1761, Zn 0.7998; CoB: B 0, Co 0.5, Zn 0.5; γ1: B 0, Co 0.12, Zn 0.88; γ2: B 8.400e-4, Co 0.06667, Zn 0.9325_ | unspecified | [1] Chen 2013 | Table 2, p. 3, row 7; `ORC-RZFT6VILAS` |  |
+| Phase composition |  | 723.15 | γ + β1 + Co2B; _γ: B 0.009548, Co 0.2346, Zn 0.7379; β1: B 0.0027, Co 0.4545, Zn 0.5455; Co2B: B 0.0047, Co 0.6667, Zn 0.3333_ | experimental | [1] Chen 2013 | Table 2, p. 3, row 3; `ORC-4XCLUKFY7I` |  |
+| Phase composition |  | 723.15 | γ1; _γ1: B 0, Co 0.12, Zn 0.88_ | unspecified | [1] Chen 2013 | Table 2, p. 3, row 8; `ORC-WTHMKFLVXX` |  |
+| Phase composition |  | 723.15 | γ1 + CoB; _γ1: B 0.0052, Co 0.1566, Zn 0.8382; CoB: B 0.0053, Co 0.5056, Zn 0.4891_ | experimental | [1] Chen 2013 | Table 2, p. 3, row 13; `ORC-BLGMO3OVUL` |  |
+| Phase composition |  | 723.15 | γ1 + γ2 + CoB; _γ1: B 0, Co 0.12, Zn 0.88; γ2: B 8.400e-4, Co 0.06667, Zn 0.9325; CoB: B 0.0055, Co 0.5, Zn 0.5_ | unspecified | [1] Chen 2013 | Table 2, p. 3, row 16; `ORC-6JJ4JWRN7O` |  |
+| Phase composition |  | 723.15 | γ1 + γ2 + CoB; _γ1: B 0.0032, Co 0.112, Zn 0.8858; γ2: B 0.0088, Co 0.0885, Zn 0.9027; CoB: B 0.0055, Co 0.5041, Zn 0.4909_ | experimental | [1] Chen 2013 | Table 2, p. 3, row 15; `ORC-OCZKV7OJA7` |  |
+| Phase composition |  | 723.15 | η-Zn + CoB + B; _η-Zn: B 3.000e-6, Co 1.300e-5, Zn 0.9999; CoB: B 0.006, Co 0.5, Zn 0.5; B: B 1, Co 4.000e-4, Zn 0.0084_ | experimental | [1] Chen 2013 | Table 2, p. 3, row 19; `ORC-CFLNMP5CJ6` |  |
 
 ## Sources
 
@@ -89,4 +89,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -68,23 +68,23 @@ Table: Invariant reactions reported in the literature for the Ni–U system (17)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1562.15 | eutectic: L -> ε + UNi5 | L: U 0.2; ε: U 0.22; UNi5: U 0.167 | model | [1] Wang 2009 | Table 3, p. 4, row 18 |  |
-| 1535.15 | peritectoid: L + ε -> δ | L: U 0.269; ε: U 0.22; δ: U 0.23 | model | [1] Wang 2009 | Table 3, p. 4, row 14 |  |
-| 1533.15 | peritectoid: L + ε -> δ | L: U 0.26; ε: U 0.22; δ: U 0.23 | experimental | [1] Wang 2009; _cites Peterson 1988_ | Table 3, p. 4, row 13 |  |
-| 1386.15 | eutectic: L -> UNi5 + (Ni) | L: U 0.081; UNi5: U 0.167; (Ni): U 0.013 | model | [1] Wang 2009 | Table 3, p. 4, row 20 |  |
-| 1383.15 | eutectic: L -> UNi5 + (Ni) | L: U 0.09; UNi5: U 0.167; (Ni): U 0.01 | experimental | [1] Wang 2009; _cites Peterson 1988_ | Table 3, p. 4, row 19 |  |
-| 1259.15 | peritectoid: L + δ -> UNi2 | L: U 0.39; δ: U 0.23; UNi2: U 0.333 | model | [1] Wang 2009 | Table 3, p. 4, row 12 |  |
-| 1258.15 | peritectoid: L + δ -> UNi2 | L: U 0.375; δ: U 0.23; UNi2: U 0.333 | experimental | [1] Wang 2009; _cites Peterson 1988_ | Table 3, p. 4, row 11 |  |
-| 1093.15 | peritectoid: L + UNi2 -> U5Ni7 | L: U 0.52; UNi2: U 0.333; U5Ni7: U 0.405 | experimental | [1] Wang 2009; _cites Peterson 1988_ | Table 3, p. 4, row 9 |  |
-| 1093.15 | peritectoid: L + UNi2 -> U5Ni7 | L: U 0.53; UNi2: U 0.333; U5Ni7: U 0.415 | model | [1] Wang 2009 | Table 3, p. 4, row 10 |  |
-| 1063.15 | peritectoid: γU + L -> U6Ni | γU: U 0.976; L: U 0.747; U6Ni: U 0.857 | model | [1] Wang 2009 | Table 3, p. 4, row 4 |  |
-| 1063.15 | peritectoid: γU + L -> U6Ni | γU: U 0.98; L: U 0.725; U6Ni: U 0.857 | experimental | [1] Wang 2009; _cites Peterson 1988_ | Table 3, p. 4, row 3 |  |
-| 1059.15 | peritectoid: L + U5Ni7 -> U7Ni9 | L: U 0.588; U5Ni7: U 0.418; U7Ni9: U 0.438 | model | [1] Wang 2009 | Table 3, p. 4, row 8 |  |
-| 1058.15 | peritectoid: L + U5Ni7 -> U7Ni9 | L: U 0.58; U5Ni7: U 0.418; U7Ni9: U 0.438 | experimental | [1] Wang 2009; _cites Peterson 1988_ | Table 3, p. 4, row 7 |  |
-| 1033.15 | eutectic: γU -> βU + U6Ni | γU: U 0.985; βU: U 0.99; U6Ni: U 0.857 | model | [1] Wang 2009 | Table 3, p. 4, row 2 |  |
-| 1033.15 | eutectic: γU -> βU + U6Ni | γU: U 0.9875; βU: U 0.99; U6Ni: U 0.857 | experimental | [1] Wang 2009; _cites Peterson 1988_ | Table 3, p. 4, row 1 |  |
-| 1015.15 | eutectic: L -> U6Ni + U7Ni9 | L: U 0.662; U6Ni: U 0.857; U7Ni9: U 0.438 | model | [1] Wang 2009 | Table 3, p. 4, row 6 |  |
-| 1013.15 | eutectic: L -> U6Ni + U7Ni9 | L: U 0.67; U6Ni: U 0.857; U7Ni9: U 0.438 | experimental | [1] Wang 2009; _cites Peterson 1988_ | Table 3, p. 4, row 5 |  |
+| 1562.15 | eutectic: L -> ε + UNi5 | L: U 0.2; ε: U 0.22; UNi5: U 0.167 | model | [1] Wang 2009 | Table 3, p. 4, row 18; `ORC-GXX5PD7SB4` |  |
+| 1535.15 | peritectoid: L + ε -> δ | L: U 0.269; ε: U 0.22; δ: U 0.23 | model | [1] Wang 2009 | Table 3, p. 4, row 14; `ORC-IZZ6TVHCPM` |  |
+| 1533.15 | peritectoid: L + ε -> δ | L: U 0.26; ε: U 0.22; δ: U 0.23 | experimental | [1] Wang 2009; _cites Peterson 1988_ | Table 3, p. 4, row 13; `ORC-V6RGIV3ZEY` |  |
+| 1386.15 | eutectic: L -> UNi5 + (Ni) | L: U 0.081; UNi5: U 0.167; (Ni): U 0.013 | model | [1] Wang 2009 | Table 3, p. 4, row 20; `ORC-6DKIRZX7GS` |  |
+| 1383.15 | eutectic: L -> UNi5 + (Ni) | L: U 0.09; UNi5: U 0.167; (Ni): U 0.01 | experimental | [1] Wang 2009; _cites Peterson 1988_ | Table 3, p. 4, row 19; `ORC-ODTITVAIJ4` |  |
+| 1259.15 | peritectoid: L + δ -> UNi2 | L: U 0.39; δ: U 0.23; UNi2: U 0.333 | model | [1] Wang 2009 | Table 3, p. 4, row 12; `ORC-4KPI2HYC4C` |  |
+| 1258.15 | peritectoid: L + δ -> UNi2 | L: U 0.375; δ: U 0.23; UNi2: U 0.333 | experimental | [1] Wang 2009; _cites Peterson 1988_ | Table 3, p. 4, row 11; `ORC-6L5MFYI6W7` |  |
+| 1093.15 | peritectoid: L + UNi2 -> U5Ni7 | L: U 0.52; UNi2: U 0.333; U5Ni7: U 0.405 | experimental | [1] Wang 2009; _cites Peterson 1988_ | Table 3, p. 4, row 9; `ORC-6PNXCQ42ZL` |  |
+| 1093.15 | peritectoid: L + UNi2 -> U5Ni7 | L: U 0.53; UNi2: U 0.333; U5Ni7: U 0.415 | model | [1] Wang 2009 | Table 3, p. 4, row 10; `ORC-IVVOPWAIB2` |  |
+| 1063.15 | peritectoid: γU + L -> U6Ni | γU: U 0.976; L: U 0.747; U6Ni: U 0.857 | model | [1] Wang 2009 | Table 3, p. 4, row 4; `ORC-3Q4226EKYR` |  |
+| 1063.15 | peritectoid: γU + L -> U6Ni | γU: U 0.98; L: U 0.725; U6Ni: U 0.857 | experimental | [1] Wang 2009; _cites Peterson 1988_ | Table 3, p. 4, row 3; `ORC-DJFYLEVKNG` |  |
+| 1059.15 | peritectoid: L + U5Ni7 -> U7Ni9 | L: U 0.588; U5Ni7: U 0.418; U7Ni9: U 0.438 | model | [1] Wang 2009 | Table 3, p. 4, row 8; `ORC-LUHBFXAWGQ` |  |
+| 1058.15 | peritectoid: L + U5Ni7 -> U7Ni9 | L: U 0.58; U5Ni7: U 0.418; U7Ni9: U 0.438 | experimental | [1] Wang 2009; _cites Peterson 1988_ | Table 3, p. 4, row 7; `ORC-YVBXQZFXXV` |  |
+| 1033.15 | eutectic: γU -> βU + U6Ni | γU: U 0.985; βU: U 0.99; U6Ni: U 0.857 | model | [1] Wang 2009 | Table 3, p. 4, row 2; `ORC-UMYCNMTK57` |  |
+| 1033.15 | eutectic: γU -> βU + U6Ni | γU: U 0.9875; βU: U 0.99; U6Ni: U 0.857 | experimental | [1] Wang 2009; _cites Peterson 1988_ | Table 3, p. 4, row 1; `ORC-VS646G2MAI` |  |
+| 1015.15 | eutectic: L -> U6Ni + U7Ni9 | L: U 0.662; U6Ni: U 0.857; U7Ni9: U 0.438 | model | [1] Wang 2009 | Table 3, p. 4, row 6; `ORC-3DBLXOD5LG` |  |
+| 1013.15 | eutectic: L -> U6Ni + U7Ni9 | L: U 0.67; U6Ni: U 0.857; U7Ni9: U 0.438 | experimental | [1] Wang 2009; _cites Peterson 1988_ | Table 3, p. 4, row 5; `ORC-5NZRJ2QA57` |  |
 
 ## Other properties
 
@@ -94,9 +94,9 @@ Table: Phase transition, Ni–U system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1570.15 K | 1570.15 | congruent melting: L -> ε; _L: U 0.22; ε: U 0.22_ | model | [1] Wang 2009 | Table 3, p. 4, row 15 |  |
-| Phase transition | 1578.15 K | 1578.15 | congruent melting: L -> UNi5; _L: U 0.167; UNi5: U 0.166667_ | experimental | [1] Wang 2009; _cites Peterson 1988_ | Table 3, p. 4, row 16 |  |
-| Phase transition | 1578.15 K | 1578.15 | congruent melting: L -> UNi5; _L: U 0.167; UNi5: U 0.166667_ | model | [1] Wang 2009 | Table 3, p. 4, row 17 |  |
+| Phase transition | 1570.15 K | 1570.15 | congruent melting: L -> ε; _L: U 0.22; ε: U 0.22_ | model | [1] Wang 2009 | Table 3, p. 4, row 15; `ORC-JU63O7EIJV` |  |
+| Phase transition | 1578.15 K | 1578.15 | congruent melting: L -> UNi5; _L: U 0.167; UNi5: U 0.166667_ | experimental | [1] Wang 2009; _cites Peterson 1988_ | Table 3, p. 4, row 16; `ORC-2AIOUXHDIY` |  |
+| Phase transition | 1578.15 K | 1578.15 | congruent melting: L -> UNi5; _L: U 0.167; UNi5: U 0.166667_ | model | [1] Wang 2009 | Table 3, p. 4, row 17; `ORC-RKZFS7RPUG` |  |
 
 ## Sources
 
@@ -161,4 +161,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

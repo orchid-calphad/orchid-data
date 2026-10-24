@@ -14,12 +14,12 @@ Table: Enthalpy of formation of MgB20 reported in the literature (6)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -15.8 kJ/mol-atom | MgB20 | 298.15 | experimental | Vap. p. | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 20 |  |
-| -10.1 kJ/mol-atom | MgB20 | 298.15 | experimental | calorimetry | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 21 |  |
-| -8.5 kJ/mol-atom ± 0.6 | MgB20 | 298.15 | experimental | Vap. p. | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 18 |  |
-| -8.5 per mol-atom ± 0.6 | MgB20 | 298.15 | experimental | Vap. p. | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 18 |  |
-| -7.8 kJ/mol-atom | MgB20 | 298.15 | model | Ph. diagr. assessment | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 19 |  |
-| -7.8 per mol-atom | MgB20 | 298.15 | model | Ph. diagr. assessment | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 19 |  |
+| -15.8 kJ/mol-atom | MgB20 | 298.15 | experimental | Vap. p. | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 20; `ORC-U4PKO6VDC3.44736a` |  |
+| -10.1 kJ/mol-atom | MgB20 | 298.15 | experimental | calorimetry | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 21; `ORC-KSZLEEN43W.55841f` |  |
+| -8.5 kJ/mol-atom ± 0.6 | MgB20 | 298.15 | experimental | Vap. p. | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 18; `ORC-3F6HNE63V7.beec38` |  |
+| -8.5 per mol-atom ± 0.6 | MgB20 | 298.15 | experimental | Vap. p. | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 18; `ORC-3F6HNE63V7.f04d86` |  |
+| -7.8 kJ/mol-atom | MgB20 | 298.15 | model | Ph. diagr. assessment | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 19; `ORC-QPHLWARFMZ.626188` |  |
+| -7.8 per mol-atom | MgB20 | 298.15 | model | Ph. diagr. assessment | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 19; `ORC-QPHLWARFMZ.8b80cd` |  |
 
 ### Uncertainty budget
 
@@ -87,4 +87,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -49,7 +49,7 @@ Table: Invariant reactions reported in the literature for the Cr–Pb system (1)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2008 | monotectic |  | model | [1] Gossé 2014 | p. 4 | “The monotectic reaction is calculated at 2008 K and the critical point of the liquid miscibility gap is 2186 K for a 50 at.% Cr composition (Fig. 3(a)).” |
+| 2008 | monotectic |  | model | [1] Gossé 2014 | p. 4; `ORC-YS6OUX3IFT.2efcc4` | “The monotectic reaction is calculated at 2008 K and the critical point of the liquid miscibility gap is 2186 K for a 50 at.% Cr composition (Fig. 3(a)).” |
 
 ## Other properties
 
@@ -59,7 +59,7 @@ Table: Phase transition, Cr–Pb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 2186 K | 2186 | other | model | [1] Gossé 2014 | p. 4 | “The monotectic reaction is calculated at 2008 K and the critical point of the liquid miscibility gap is 2186 K for a 50 at.% Cr composition (Fig. 3(a)).” |
+| Phase transition | 2186 K | 2186 | other | model | [1] Gossé 2014 | p. 4; `ORC-YS6OUX3IFT.417951` | “The monotectic reaction is calculated at 2008 K and the critical point of the liquid miscibility gap is 2186 K for a 50 at.% Cr composition (Fig. 3(a)).” |
 
 ## Sources
 
@@ -124,4 +124,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

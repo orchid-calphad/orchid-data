@@ -26,16 +26,16 @@ Table: Invariant reactions reported in the literature for the Ni–Ti–Zr syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1376.35 | quasi-peritectic: Liquid + Zr2Ni7 -> ZrNi5 + TiNi3 |  | model | [1] Cacciamani 2011 | Table 15, p. 18, row 1 |  |
-| 1363.45 | eutectic: Liquid -> ZrNi5 + Ni + TiNi3 |  | model | [1] Cacciamani 2011 | Table 15, p. 18, row 2 |  |
-| 1363.05 | quasi-peritectic: Liquid + Zr9Ni11 -> ZrNi + Zr7Ni10 |  | model | [1] Cacciamani 2011 | Table 15, p. 18, row 3 |  |
-| 1359.85 | quasi-peritectic: Liquid + ZrNi -> TiNi + Zr7Ni10 |  | model | [1] Cacciamani 2011 | Table 15, p. 18, row 4 |  |
-| 1159.55 | quasi-peritectic: Liquid + Ti2Ni -> TiNi + τ1 |  | model | [1] Cacciamani 2011 | Table 15, p. 18, row 5 |  |
-| 1138.45 | eutectic: Liquid -> TiNi + ZrNi + τ1 |  | model | [1] Cacciamani 2011 | Table 15, p. 18, row 6 |  |
-| 1126.65 | eutectic: Liquid -> ZrNi + Zr2Ni + τ1 |  | model | [1] Cacciamani 2011 | Table 15, p. 18, row 7 |  |
-| 1091.65 | quasi-peritectic: Liquid + Zr7Ni10 -> TiNi + Zr8Ni21 |  | model | [1] Cacciamani 2011 | Table 15, p. 18, row 8 |  |
-| 1090.05 | eutectic: Liquid -> bcc-(Ti, Zr) + Zr2Ni + τ1 |  | model | [1] Cacciamani 2011 | Table 15, p. 18, row 9 |  |
-| 1084.55 | eutectic: Liquid -> TiNi + Zr8Ni21 + TiNi3 |  | model | [1] Cacciamani 2011 | Table 15, p. 18, row 10 |  |
+| 1376.35 | quasi-peritectic: Liquid + Zr2Ni7 -> ZrNi5 + TiNi3 |  | model | [1] Cacciamani 2011 | Table 15, p. 18, row 1; `ORC-REKDV3JQLE` |  |
+| 1363.45 | eutectic: Liquid -> ZrNi5 + Ni + TiNi3 |  | model | [1] Cacciamani 2011 | Table 15, p. 18, row 2; `ORC-EFBXVWPN4M` |  |
+| 1363.05 | quasi-peritectic: Liquid + Zr9Ni11 -> ZrNi + Zr7Ni10 |  | model | [1] Cacciamani 2011 | Table 15, p. 18, row 3; `ORC-IRILVQRFW4` |  |
+| 1359.85 | quasi-peritectic: Liquid + ZrNi -> TiNi + Zr7Ni10 |  | model | [1] Cacciamani 2011 | Table 15, p. 18, row 4; `ORC-5AGAYPZY46` |  |
+| 1159.55 | quasi-peritectic: Liquid + Ti2Ni -> TiNi + τ1 |  | model | [1] Cacciamani 2011 | Table 15, p. 18, row 5; `ORC-45KT2MFGWM` |  |
+| 1138.45 | eutectic: Liquid -> TiNi + ZrNi + τ1 |  | model | [1] Cacciamani 2011 | Table 15, p. 18, row 6; `ORC-RRN35V6ER3` |  |
+| 1126.65 | eutectic: Liquid -> ZrNi + Zr2Ni + τ1 |  | model | [1] Cacciamani 2011 | Table 15, p. 18, row 7; `ORC-HK3IPSSDUB` |  |
+| 1091.65 | quasi-peritectic: Liquid + Zr7Ni10 -> TiNi + Zr8Ni21 |  | model | [1] Cacciamani 2011 | Table 15, p. 18, row 8; `ORC-RE66X7MZ4U` |  |
+| 1090.05 | eutectic: Liquid -> bcc-(Ti, Zr) + Zr2Ni + τ1 |  | model | [1] Cacciamani 2011 | Table 15, p. 18, row 9; `ORC-XJNXEM7XLN` |  |
+| 1084.55 | eutectic: Liquid -> TiNi + Zr8Ni21 + TiNi3 |  | model | [1] Cacciamani 2011 | Table 15, p. 18, row 10; `ORC-Y7JSVCGUWG` |  |
 
 ## Sources
 
@@ -78,4 +78,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

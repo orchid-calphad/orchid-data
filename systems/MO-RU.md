@@ -57,18 +57,18 @@ Table: Invariant reactions reported in the literature for the Mo–Ru system (12
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2230 | Liq = bcc + hcp | L: Ru 0.425; bcc: Ru 0.321; hcp: Ru 0.488 | model | [1] Oh 2000 | Table 2, p. 4, row 3 |  |
-| 2229 | Liq = bcc + hcp | L: Ru 0.425; bcc: Ru 0.323; hcp: Ru 0.488 | model | [1] Oh 2000 | Table 2, p. 4, row 2 |  |
-| 2228 | Liq = bcc + hcp | L: Ru 0.42; bcc: Ru 0.324; hcp: Ru 0.485 | experimental | [1] Oh 2000 | Table 2, p. 4, row 1 |  |
-| 2228 | eutectic |  | experimental | [1] Oh 2000; _cites Kleykamp 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990430-4) | p. 2 | “The alloy system was characterized as eutectic type with a reaction temperature of 2228 K and a liquid with about 42 at.% Ru, which is in close agreement with the earlier work by Anderson and Hume-Rothery.” |
-| 2190 | bcc + hcp = σ | bcc: Ru 0.311; hcp: Ru 0.488; σ: Ru 0.38 | model | [1] Oh 2000 | Table 2, p. 4, row 6 |  |
-| 2190 | bcc + hcp = σ | bcc: Ru 0.313; hcp: Ru 0.488; σ: Ru 0.381 | model | [1] Oh 2000 | Table 2, p. 4, row 5 |  |
-| 2188 | peritectoid |  | experimental | [1] Oh 2000; _cites Kleykamp 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990430-4) | p. 2 | “The only intermediate s phase occurring between 36.7 and 39.4 at.% Ru was formed by a peritectoid reaction at 2188 K, and was decomposed by a eutectoid reaction at 1416 K.” |
-| 2188 | bcc + hcp = σ | bcc: Ru 0.324; hcp: Ru 0.485; σ: Ru 0.375 | experimental | [1] Oh 2000 | Table 2, p. 4, row 4 |  |
-| 1416 | eutectoid |  | experimental | [1] Oh 2000; _cites Kleykamp 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990430-4) | p. 2 | “The only intermediate s phase occurring between 36.7 and 39.4 at.% Ru was formed by a peritectoid reaction at 2188 K, and was decomposed by a eutectoid reaction at 1416 K.” |
-| 1416 | σ = bcc + hcp | σ: Ru 0.375; bcc: Ru 0.11; hcp: Ru 0.59 | experimental | [1] Oh 2000 | Table 2, p. 4, row 7 |  |
-| 1414 | σ = bcc + hcp | σ: Ru 0.376; bcc: Ru 0.111; hcp: Ru 0.568 | model | [1] Oh 2000 | Table 2, p. 4, row 9 |  |
-| 1414 | σ = bcc + hcp | σ: Ru 0.378; bcc: Ru 0.11; hcp: Ru 0.568 | model | [1] Oh 2000 | Table 2, p. 4, row 8 |  |
+| 2230 | Liq = bcc + hcp | L: Ru 0.425; bcc: Ru 0.321; hcp: Ru 0.488 | model | [1] Oh 2000 | Table 2, p. 4, row 3; `ORC-YSFEJ4YNZA` |  |
+| 2229 | Liq = bcc + hcp | L: Ru 0.425; bcc: Ru 0.323; hcp: Ru 0.488 | model | [1] Oh 2000 | Table 2, p. 4, row 2; `ORC-IYBQ35IRSP` |  |
+| 2228 | Liq = bcc + hcp | L: Ru 0.42; bcc: Ru 0.324; hcp: Ru 0.485 | experimental | [1] Oh 2000 | Table 2, p. 4, row 1; `ORC-C2UWYVIRMM` |  |
+| 2228 | eutectic |  | experimental | [1] Oh 2000; _cites Kleykamp 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990430-4) | p. 2; `ORC-VVUQIHBCTA` | “The alloy system was characterized as eutectic type with a reaction temperature of 2228 K and a liquid with about 42 at.% Ru, which is in close agreement with the earlier work by Anderson and Hume-Rothery.” |
+| 2190 | bcc + hcp = σ | bcc: Ru 0.311; hcp: Ru 0.488; σ: Ru 0.38 | model | [1] Oh 2000 | Table 2, p. 4, row 6; `ORC-6RQFUM2DCT` |  |
+| 2190 | bcc + hcp = σ | bcc: Ru 0.313; hcp: Ru 0.488; σ: Ru 0.381 | model | [1] Oh 2000 | Table 2, p. 4, row 5; `ORC-X2T2R64TSF` |  |
+| 2188 | peritectoid |  | experimental | [1] Oh 2000; _cites Kleykamp 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990430-4) | p. 2; `ORC-RGE2WIDPVW.6ff541` | “The only intermediate s phase occurring between 36.7 and 39.4 at.% Ru was formed by a peritectoid reaction at 2188 K, and was decomposed by a eutectoid reaction at 1416 K.” |
+| 2188 | bcc + hcp = σ | bcc: Ru 0.324; hcp: Ru 0.485; σ: Ru 0.375 | experimental | [1] Oh 2000 | Table 2, p. 4, row 4; `ORC-Y4TGD7SJ44` |  |
+| 1416 | eutectoid |  | experimental | [1] Oh 2000; _cites Kleykamp 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990430-4) | p. 2; `ORC-RGE2WIDPVW.d85a5f` | “The only intermediate s phase occurring between 36.7 and 39.4 at.% Ru was formed by a peritectoid reaction at 2188 K, and was decomposed by a eutectoid reaction at 1416 K.” |
+| 1416 | σ = bcc + hcp | σ: Ru 0.375; bcc: Ru 0.11; hcp: Ru 0.59 | experimental | [1] Oh 2000 | Table 2, p. 4, row 7; `ORC-YRTTJEUMNX` |  |
+| 1414 | σ = bcc + hcp | σ: Ru 0.376; bcc: Ru 0.111; hcp: Ru 0.568 | model | [1] Oh 2000 | Table 2, p. 4, row 9; `ORC-EKS3ZITGNL.499c4a` |  |
+| 1414 | σ = bcc + hcp | σ: Ru 0.378; bcc: Ru 0.11; hcp: Ru 0.568 | model | [1] Oh 2000 | Table 2, p. 4, row 8; `ORC-EKS3ZITGNL.fd5c72` |  |
 
 ## Other properties
 
@@ -78,7 +78,7 @@ Table: Other property, Mo–Ru system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Other; _printed: range of homogeneity_ | 2.2 at.% | 1850 |  | model | [1] Oh 2000 | p. 5 | “Calculated range of homogeneity for the s phase is about 2.2 at.% around 1850 K which is comparable to the reported data of 2.7 at.%.” |
+| Other; _printed: range of homogeneity_ | 2.2 at.% | 1850 |  | model | [1] Oh 2000 | p. 5; `ORC-3VHMSV6LBA.954b1b` | “Calculated range of homogeneity for the s phase is about 2.2 at.% around 1850 K which is comparable to the reported data of 2.7 at.%.” |
 
 ## Sources
 
@@ -143,4 +143,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -14,15 +14,15 @@ Table: Enthalpy of formation of SiSr2 reported in the literature (9)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -39.7 kJ/mol-atom ± 3.2 | SiSr2 | 298.15 | experimental |  | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [1] Li 2011; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 2, row 1 |  |
-| -39.7 kJ/mol-atom | Sr2Si | 298.15 | experimental |  | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [2] Garay 2009; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 4, row 6 |  |
-| -66.3 kJ/mol-atom | Sr2Si | 298.15 | model |  | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [2] Garay 2009; _cites Gordienko 1997_ [doi](https://doi.org/10.1007/bf02680502) | Table 2, p. 4, row 1 |  |
-| -41.3 kJ/mol-atom | SiSr2 | 298.15 | model |  | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [1] Li 2011; _cites Garay 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.07.001) | Table 2, p. 2, row 3 |  |
-| -37.9 kJ/mol-atom | SiSr2 | 298.15 | model |  | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [1] Li 2011; _cites Garay 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.07.001) | Table 2, p. 2, row 2 |  |
-| -41.3 kJ/mol-atom | Sr2Si | 298.15 | DFT | first-principles LDA | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [2] Garay 2009 | Table 2, p. 4, row 3 |  |
-| -37.9 kJ/mol-atom | Sr2Si | 298.15 | DFT | first-principles GGA | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [2] Garay 2009 | Table 2, p. 4, row 4 |  |
-| -37.6 kJ/mol-atom | Sr2Si | 298.15 | DFT | first-principles GGA | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [2] Garay 2009; _cites Brutti 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.03.023) | Table 2, p. 4, row 5 |  |
-| -35.3 kJ/mol-atom | Sr2Si | 298.15 | unspecified |  | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [2] Garay 2009; _cites Imai 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900003-1) | Table 2, p. 4, row 2 |  |
+| -39.7 kJ/mol-atom ± 3.2 | SiSr2 | 298.15 | experimental |  | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [1] Li 2011; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 2, row 1; `ORC-2FNA3V3ITS.180d8b` |  |
+| -39.7 kJ/mol-atom | Sr2Si | 298.15 | experimental |  | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [2] Garay 2009; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 4, row 6; `ORC-MF7LDLWXCM.9acaf2` |  |
+| -66.3 kJ/mol-atom | Sr2Si | 298.15 | model |  | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [2] Garay 2009; _cites Gordienko 1997_ [doi](https://doi.org/10.1007/bf02680502) | Table 2, p. 4, row 1; `ORC-LEQ3XPRIOJ.05ffff` |  |
+| -41.3 kJ/mol-atom | SiSr2 | 298.15 | model |  | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [1] Li 2011; _cites Garay 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.07.001) | Table 2, p. 2, row 3; `ORC-R7MCVZ3TXI.30dace` |  |
+| -37.9 kJ/mol-atom | SiSr2 | 298.15 | model |  | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [1] Li 2011; _cites Garay 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.07.001) | Table 2, p. 2, row 2; `ORC-XJH7MKZWNI.5dc3eb` |  |
+| -41.3 kJ/mol-atom | Sr2Si | 298.15 | DFT | first-principles LDA | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [2] Garay 2009 | Table 2, p. 4, row 3; `ORC-C4KDRUOFUL.8881a7` |  |
+| -37.9 kJ/mol-atom | Sr2Si | 298.15 | DFT | first-principles GGA | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [2] Garay 2009 | Table 2, p. 4, row 4; `ORC-5BVWOE3YM2.88c8cb` |  |
+| -37.6 kJ/mol-atom | Sr2Si | 298.15 | DFT | first-principles GGA | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [2] Garay 2009; _cites Brutti 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.03.023) | Table 2, p. 4, row 5; `ORC-FUSAJZBPJH.5aba72` |  |
+| -35.3 kJ/mol-atom | Sr2Si | 298.15 | unspecified |  | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [2] Garay 2009; _cites Imai 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900003-1) | Table 2, p. 4, row 2; `ORC-UPLM4BDGB7.af8c1e` |  |
 
 ### Uncertainty budget
 
@@ -107,4 +107,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

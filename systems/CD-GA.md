@@ -49,24 +49,24 @@ Table: Mixing / partial, Cd–Ga system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: ΔH_ | 2.072 kJ/mol (basis unstated) | 593 | UNKNOWN; _alloy: Cd 0.75, Ga 0.25_ | experimental | [1] Zakulski 1993 | Table 2, p. 4, row 1 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 2.541 kJ/mol (basis unstated) | 593 | UNKNOWN; _alloy: Cd 0.5, Ga 0.5_ | experimental | [1] Zakulski 1993 | Table 2, p. 4, row 10 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 2.065 kJ/mol (basis unstated) | 593 | UNKNOWN; _alloy: Cd 0.25, Ga 0.75_ | experimental | [1] Zakulski 1993 | Table 2, p. 4, row 20 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 2.521 kJ/mol (basis unstated) | 602 | UNKNOWN; _alloy: Cd 0.4, Ga 0.6_ | experimental | [1] Zakulski 1993 | Table I, p. 2, row 31 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 2.09 kJ/mol (basis unstated) | 602 | UNKNOWN; _alloy: Cd 0.24641, Ga 0.75359_ | experimental | [1] Zakulski 1993 | Table I, p. 2, row 1 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 2.09 kJ/mol (basis unstated) | 602 | UNKNOWN; _alloy: Cd 0.24678, Ga 0.75322_ | experimental | [1] Zakulski 1993 | Table I, p. 2, row 9 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 2.385 kJ/mol (basis unstated) | 602 | UNKNOWN; _alloy: Cd 0.33181, Ga 0.66819_ | experimental | [1] Zakulski 1993 | Table I, p. 2, row 20 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 2.299 kJ/mol (basis unstated) | 659 | UNKNOWN; _alloy: Cd 0.2465, Ga 0.7535_ | experimental | [1] Zakulski 1993 | Table I, p. 2, row 52 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 2.81 kJ/mol (basis unstated) | 659 | UNKNOWN; _alloy: Cd 0.41662, Ga 0.58338_ | experimental | [1] Zakulski 1993 | Table I, p. 2, row 72 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 1.874 kJ/mol (basis unstated) | 659 | UNKNOWN; _alloy: Cd 0.1755, Ga 0.8245_ | experimental | [1] Zakulski 1993 | Table I, p. 2, row 42 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 1.874 kJ/mol (basis unstated) | 659 | liquid; _alloy: Cd 0.1755, Ga 0.8245_ | experimental | [1] Zakulski 1993 | Table 1, p. 3, row 6 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 2.81 kJ/mol (basis unstated) | 659 | liquid; _alloy: Cd 0.41662, Ga 0.58338_ | experimental | [1] Zakulski 1993 | Table 1, p. 3, row 36 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 2.299 kJ/mol (basis unstated) | 659 | liquid; _alloy: Cd 0.2465, Ga 0.7535_ | experimental | [1] Zakulski 1993 | Table 1, p. 3, row 16 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 2.644 kJ/mol (basis unstated) | 662 | UNKNOWN; _alloy: Cd 0.33273, Ga 0.66727_ | experimental | [1] Zakulski 1993 | Table I, p. 2, row 62 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 2.644 kJ/mol (basis unstated) | 662 | liquid; _alloy: Cd 0.33273, Ga 0.66727_ | experimental | [1] Zakulski 1993 | Table 1, p. 3, row 26 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 2.916 kJ/mol (basis unstated) | 673 | UNKNOWN; _alloy: Cd 0.5, Ga 0.5_ | experimental | [1] Zakulski 1993 | Table 2, p. 4, row 35 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 2.343 kJ/mol (basis unstated) | 673 | UNKNOWN; _alloy: Cd 0.75, Ga 0.25_ | experimental | [1] Zakulski 1993 | Table 2, p. 4, row 28 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 2.357 kJ/mol (basis unstated) | 673 | UNKNOWN; _alloy: Cd 0.25, Ga 0.75_ | experimental | [1] Zakulski 1993 | Table 2, p. 4, row 44 |  |
+| Enthalpy of mixing; _printed: ΔH_ | 2.072 kJ/mol (basis unstated) | 593 | UNKNOWN; _alloy: Cd 0.75, Ga 0.25_ | experimental | [1] Zakulski 1993 | Table 2, p. 4, row 1; `ORC-B4QLHNW73Z` |  |
+| Enthalpy of mixing; _printed: ΔH_ | 2.541 kJ/mol (basis unstated) | 593 | UNKNOWN; _alloy: Cd 0.5, Ga 0.5_ | experimental | [1] Zakulski 1993 | Table 2, p. 4, row 10; `ORC-F6XQR5MQTK` |  |
+| Enthalpy of mixing; _printed: ΔH_ | 2.065 kJ/mol (basis unstated) | 593 | UNKNOWN; _alloy: Cd 0.25, Ga 0.75_ | experimental | [1] Zakulski 1993 | Table 2, p. 4, row 20; `ORC-GESZGTNIKA` |  |
+| Enthalpy of mixing; _printed: ΔH_ | 2.521 kJ/mol (basis unstated) | 602 | UNKNOWN; _alloy: Cd 0.4, Ga 0.6_ | experimental | [1] Zakulski 1993 | Table I, p. 2, row 31; `ORC-5LBPUPSFJI` |  |
+| Enthalpy of mixing; _printed: ΔH_ | 2.09 kJ/mol (basis unstated) | 602 | UNKNOWN; _alloy: Cd 0.24641, Ga 0.75359_ | experimental | [1] Zakulski 1993 | Table I, p. 2, row 1; `ORC-AKXP7R5KAF` |  |
+| Enthalpy of mixing; _printed: ΔH_ | 2.09 kJ/mol (basis unstated) | 602 | UNKNOWN; _alloy: Cd 0.24678, Ga 0.75322_ | experimental | [1] Zakulski 1993 | Table I, p. 2, row 9; `ORC-JOJCHRYYHZ` |  |
+| Enthalpy of mixing; _printed: ΔH_ | 2.385 kJ/mol (basis unstated) | 602 | UNKNOWN; _alloy: Cd 0.33181, Ga 0.66819_ | experimental | [1] Zakulski 1993 | Table I, p. 2, row 20; `ORC-N3SSMPQ7NL` |  |
+| Enthalpy of mixing; _printed: ΔH_ | 2.299 kJ/mol (basis unstated) | 659 | UNKNOWN; _alloy: Cd 0.2465, Ga 0.7535_ | experimental | [1] Zakulski 1993 | Table I, p. 2, row 52; `ORC-3GHITUPO6A` |  |
+| Enthalpy of mixing; _printed: ΔH_ | 2.81 kJ/mol (basis unstated) | 659 | UNKNOWN; _alloy: Cd 0.41662, Ga 0.58338_ | experimental | [1] Zakulski 1993 | Table I, p. 2, row 72; `ORC-4B7ZGIMBNE` |  |
+| Enthalpy of mixing; _printed: ΔH_ | 1.874 kJ/mol (basis unstated) | 659 | UNKNOWN; _alloy: Cd 0.1755, Ga 0.8245_ | experimental | [1] Zakulski 1993 | Table I, p. 2, row 42; `ORC-OYTZRRF6UV` |  |
+| Enthalpy of mixing; _printed: ΔH_ | 1.874 kJ/mol (basis unstated) | 659 | liquid; _alloy: Cd 0.1755, Ga 0.8245_ | experimental | [1] Zakulski 1993 | Table 1, p. 3, row 6; `ORC-NACTTEZS52.33c609` |  |
+| Enthalpy of mixing; _printed: ΔH_ | 2.81 kJ/mol (basis unstated) | 659 | liquid; _alloy: Cd 0.41662, Ga 0.58338_ | experimental | [1] Zakulski 1993 | Table 1, p. 3, row 36; `ORC-WALTDQ3BFP.e70f4d` |  |
+| Enthalpy of mixing; _printed: ΔH_ | 2.299 kJ/mol (basis unstated) | 659 | liquid; _alloy: Cd 0.2465, Ga 0.7535_ | experimental | [1] Zakulski 1993 | Table 1, p. 3, row 16; `ORC-XPBMGN2PD5.b41a39` |  |
+| Enthalpy of mixing; _printed: ΔH_ | 2.644 kJ/mol (basis unstated) | 662 | UNKNOWN; _alloy: Cd 0.33273, Ga 0.66727_ | experimental | [1] Zakulski 1993 | Table I, p. 2, row 62; `ORC-4XQI4ZWYXO` |  |
+| Enthalpy of mixing; _printed: ΔH_ | 2.644 kJ/mol (basis unstated) | 662 | liquid; _alloy: Cd 0.33273, Ga 0.66727_ | experimental | [1] Zakulski 1993 | Table 1, p. 3, row 26; `ORC-YGQ4QWSD6D.af57ef` |  |
+| Enthalpy of mixing; _printed: ΔH_ | 2.916 kJ/mol (basis unstated) | 673 | UNKNOWN; _alloy: Cd 0.5, Ga 0.5_ | experimental | [1] Zakulski 1993 | Table 2, p. 4, row 35; `ORC-5JX27S6VVQ` |  |
+| Enthalpy of mixing; _printed: ΔH_ | 2.343 kJ/mol (basis unstated) | 673 | UNKNOWN; _alloy: Cd 0.75, Ga 0.25_ | experimental | [1] Zakulski 1993 | Table 2, p. 4, row 28; `ORC-J2LAID65YX` |  |
+| Enthalpy of mixing; _printed: ΔH_ | 2.357 kJ/mol (basis unstated) | 673 | UNKNOWN; _alloy: Cd 0.25, Ga 0.75_ | experimental | [1] Zakulski 1993 | Table 2, p. 4, row 44; `ORC-XJYHSALKVQ` |  |
 
 ## Sources
 
@@ -131,4 +131,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

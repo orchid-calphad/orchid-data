@@ -29,25 +29,25 @@ Table: Invariant reactions reported in the literature for the Pu–Th–U system
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1923 | critical point: L -> L1 + L2 |  | model | [1] Beneš 2014 | Table 4, p. 4, row 4 |  |
-| 1658 | monotectic: L1 \<-> β-Th + L2 |  | experimental | [1] Beneš 2014 | Table 4, p. 4, row 15 |  |
-| 1655 | monotectic: L1 -> β-Th + L2 |  | model | [1] Beneš 2014 | Table 4, p. 4, row 3 |  |
-| 1535 | metatectic/catatectic: β-Th -> α-Th + L |  | model | [1] Beneš 2014 | Table 4, p. 4, row 2 |  |
-| 1533 | metatectic/catatectic: β-Th \<-> α-Th + L |  | experimental | [1] Beneš 2014 | Table 4, p. 4, row 14 |  |
-| 1384 | eutectic: L -> α-Th + γ-U |  | model | [1] Beneš 2014 | Table 4, p. 4, row 1 |  |
-| 1367 | eutectic: L \<-> α-Th + γ-U |  | experimental | [1] Beneš 2014 | Table 4, p. 4, row 13 |  |
-| 887 | peritectic: L + (β-Th,Pu) \<-> Th3Pu7 |  | experimental | [1] Beneš 2014 | Table 4, p. 4, row 19 |  |
-| 883 | peritectic: L + (β-Th,Pu) -> Th3Pu7 |  | model | [1] Beneš 2014 | Table 4, p. 4, row 10 |  |
-| 875 | eutectic: L \<-> Th3Pu7 + (ϵ-Pu,Th) |  | experimental | [1] Beneš 2014 | Table 4, p. 4, row 18 |  |
-| 874 | eutectic: L -> Th3Pu7 + (ϵ-Pu,Th) |  | model | [1] Beneš 2014 | Table 4, p. 4, row 9 |  |
-| 864 | eutectoid: (β-Th,Pu) \<-> Th3Pu7 + (α-Th,Pu) |  | experimental | [1] Beneš 2014 | Table 4, p. 4, row 17 |  |
-| 858 | eutectoid: (β-Th,Pu) -> Th3Pu7 + (α-Th,Pu) |  | model | [1] Beneš 2014 | Table 4, p. 4, row 8 |  |
-| 857 | quasi-peritectic: L + (β-Th,U,Pu) -> Th3Pu7 + (α-Th,U,Pu) |  | model | [1] Beneš 2014 | Table 4, p. 4, row 12 |  |
-| 855 | eutectic: L -> Th3Pu7 + (ϵ-Pu,γ-U,Th) + (α-Th,U,Pu) |  | model | [1] Beneš 2014 | Table 4, p. 4, row 11 |  |
-| 783 | peritectoid: Th3Pu7 + (ϵ-Pu,Th) -> (δ-Pu,Th) |  | model | [1] Beneš 2014 | Table 4, p. 4, row 7 |  |
-| 774 | peritectoid: Th3Pu7 + (ϵ-Pu,Th) \<-> (δ-Pu,Th) |  | experimental | [1] Beneš 2014 | Table 4, p. 4, row 16 |  |
-| 764 | peritectoid: (δ-Pu,Th) + (ϵ-Pu,Th) -> (δ'-Pu,Th) |  | model | [1] Beneš 2014 | Table 4, p. 4, row 6 |  |
-| 575 | eutectoid: (δ-Pu,Th) -> Th3Pu7 + γ-Pu |  | model | [1] Beneš 2014 | Table 4, p. 4, row 5 |  |
+| 1923 | critical point: L -> L1 + L2 |  | model | [1] Beneš 2014 | Table 4, p. 4, row 4; `ORC-QFGREET73K` |  |
+| 1658 | monotectic: L1 \<-> β-Th + L2 |  | experimental | [1] Beneš 2014 | Table 4, p. 4, row 15; `ORC-H2RWMT62VA` |  |
+| 1655 | monotectic: L1 -> β-Th + L2 |  | model | [1] Beneš 2014 | Table 4, p. 4, row 3; `ORC-OCWDKKERE5` |  |
+| 1535 | metatectic/catatectic: β-Th -> α-Th + L |  | model | [1] Beneš 2014 | Table 4, p. 4, row 2; `ORC-LKBT4JSS4K` |  |
+| 1533 | metatectic/catatectic: β-Th \<-> α-Th + L |  | experimental | [1] Beneš 2014 | Table 4, p. 4, row 14; `ORC-6NTDD3F73O` |  |
+| 1384 | eutectic: L -> α-Th + γ-U |  | model | [1] Beneš 2014 | Table 4, p. 4, row 1; `ORC-V6JUBQCSGE` |  |
+| 1367 | eutectic: L \<-> α-Th + γ-U |  | experimental | [1] Beneš 2014 | Table 4, p. 4, row 13; `ORC-XVZ5ACNW67` |  |
+| 887 | peritectic: L + (β-Th,Pu) \<-> Th3Pu7 |  | experimental | [1] Beneš 2014 | Table 4, p. 4, row 19; `ORC-3KHL5U7LNO` |  |
+| 883 | peritectic: L + (β-Th,Pu) -> Th3Pu7 |  | model | [1] Beneš 2014 | Table 4, p. 4, row 10; `ORC-6XTIB7Z7A4` |  |
+| 875 | eutectic: L \<-> Th3Pu7 + (ϵ-Pu,Th) |  | experimental | [1] Beneš 2014 | Table 4, p. 4, row 18; `ORC-MMWZ6TAZGW` |  |
+| 874 | eutectic: L -> Th3Pu7 + (ϵ-Pu,Th) |  | model | [1] Beneš 2014 | Table 4, p. 4, row 9; `ORC-UMKM562LCR` |  |
+| 864 | eutectoid: (β-Th,Pu) \<-> Th3Pu7 + (α-Th,Pu) |  | experimental | [1] Beneš 2014 | Table 4, p. 4, row 17; `ORC-7YS4M5V5DG` |  |
+| 858 | eutectoid: (β-Th,Pu) -> Th3Pu7 + (α-Th,Pu) |  | model | [1] Beneš 2014 | Table 4, p. 4, row 8; `ORC-F5Q3VDLXFZ` |  |
+| 857 | quasi-peritectic: L + (β-Th,U,Pu) -> Th3Pu7 + (α-Th,U,Pu) |  | model | [1] Beneš 2014 | Table 4, p. 4, row 12; `ORC-X4ZRJTGUCH` |  |
+| 855 | eutectic: L -> Th3Pu7 + (ϵ-Pu,γ-U,Th) + (α-Th,U,Pu) |  | model | [1] Beneš 2014 | Table 4, p. 4, row 11; `ORC-Z4FH6BKAXH` |  |
+| 783 | peritectoid: Th3Pu7 + (ϵ-Pu,Th) -> (δ-Pu,Th) |  | model | [1] Beneš 2014 | Table 4, p. 4, row 7; `ORC-SQVFUQSPII` |  |
+| 774 | peritectoid: Th3Pu7 + (ϵ-Pu,Th) \<-> (δ-Pu,Th) |  | experimental | [1] Beneš 2014 | Table 4, p. 4, row 16; `ORC-W2DJNEIVEH` |  |
+| 764 | peritectoid: (δ-Pu,Th) + (ϵ-Pu,Th) -> (δ'-Pu,Th) |  | model | [1] Beneš 2014 | Table 4, p. 4, row 6; `ORC-4APWXYK2Z6` |  |
+| 575 | eutectoid: (δ-Pu,Th) -> Th3Pu7 + γ-Pu |  | model | [1] Beneš 2014 | Table 4, p. 4, row 5; `ORC-CYULEUNHES` |  |
 
 ## Formation enthalpies
 
@@ -57,10 +57,10 @@ Table: Enthalpies of formation, Pu–Th–U system (4)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Puliquid |  | 6.6081 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Beneš 2014 | Table 1, p. 2, row 34 |  |
-| Thliquid |  | 23.7655 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Beneš 2014 | Table 1, p. 2, row 3 |  |
-| Uliquid |  | 12.3555 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Beneš 2014 | Table 1, p. 2, row 11 |  |
-| δ′-Pu |  | 5.1995 kJ/mol-atom | 298.15 | model |  |  | [1] Beneš 2014 | Table 1, p. 2, row 26 |  |
+| Puliquid |  | 6.6081 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Beneš 2014 | Table 1, p. 2, row 34; `ORC-LO3VWSZ6UU.3e73b4` |  |
+| Thliquid |  | 23.7655 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Beneš 2014 | Table 1, p. 2, row 3; `ORC-DRVTIG4TJR.7e0d41` |  |
+| Uliquid |  | 12.3555 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Beneš 2014 | Table 1, p. 2, row 11; `ORC-WPKTDVNLLB.389e7a` |  |
+| δ′-Pu |  | 5.1995 kJ/mol-atom | 298.15 | model |  |  | [1] Beneš 2014 | Table 1, p. 2, row 26; `ORC-NH2OQNKMZJ.92c319` |  |
 
 ## Other properties
 
@@ -70,11 +70,11 @@ Table: Heat capacity / entropy / enthalpy, Pu–Th–U system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: S0(298.15)_ | 66.974 J/mol (basis unstated)/K | 298.15 | Puliquid | model | [1] Beneš 2014 | Table 1, p. 2, row 34 |  |
-| Entropy; _printed: S0(298.15)_ | 69.86 J/mol (basis unstated)/K | 298.15 | Thliquid | model | [1] Beneš 2014 | Table 1, p. 2, row 3 |  |
-| Entropy; _printed: S0(298.15)_ | 53.6618 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Th 0.3, U 0_ | model | [1] Beneš 2014 | Table 1, p. 2, row 38 |  |
-| Entropy; _printed: S0(298.15)_ | 60.524 J/mol (basis unstated)/K | 298.15 | Uliquid | model | [1] Beneš 2014 | Table 1, p. 2, row 11 |  |
-| Entropy; _printed: S0(298.15)_ | 66.609 J/mol-atom/K | 298.15 | δ′-Pu; _alloy: Th 0, U 0_ | model | [1] Beneš 2014 | Table 1, p. 2, row 26 |  |
+| Entropy; _printed: S0(298.15)_ | 66.974 J/mol (basis unstated)/K | 298.15 | Puliquid | model | [1] Beneš 2014 | Table 1, p. 2, row 34; `ORC-LO3VWSZ6UU.e12108` |  |
+| Entropy; _printed: S0(298.15)_ | 69.86 J/mol (basis unstated)/K | 298.15 | Thliquid | model | [1] Beneš 2014 | Table 1, p. 2, row 3; `ORC-DRVTIG4TJR.7956c2` |  |
+| Entropy; _printed: S0(298.15)_ | 53.6618 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Th 0.3, U 0_ | model | [1] Beneš 2014 | Table 1, p. 2, row 38; `ORC-YG6EXYMDXI` |  |
+| Entropy; _printed: S0(298.15)_ | 60.524 J/mol (basis unstated)/K | 298.15 | Uliquid | model | [1] Beneš 2014 | Table 1, p. 2, row 11; `ORC-WPKTDVNLLB.5c1490` |  |
+| Entropy; _printed: S0(298.15)_ | 66.609 J/mol-atom/K | 298.15 | δ′-Pu; _alloy: Th 0, U 0_ | model | [1] Beneš 2014 | Table 1, p. 2, row 26; `ORC-NH2OQNKMZJ.d09bb6` |  |
 
 ## Sources
 
@@ -117,4 +117,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -14,14 +14,14 @@ Table: Enthalpy of formation of CrGa4 reported in the literature (8)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -14.5 kJ/mol (basis unstated) ± 1 | CrGa4 | 298.15 | experimental | Precipitation calorimetry | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005 | Table 4, p. 4, row 17 |  |
-| -7.6 kJ/mol (basis unstated) | CrGa4 | 298.15 | experimental | EMF | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005; _cites Goncharuk 1981_ | Table 4, p. 4, row 14 |  |
-| -7.6 kJ/mol-atom | CrGa4 | 850 | experimental |  | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [2] Gröbner 1999; _cites Gonchuruk 1981_ | Table 1, p. 2, row 50 |  |
-| -13.3 kJ/mol (basis unstated) | CrGa4 |  | model | Assessed | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005 | Table 4, p. 4, row 18 |  |
-| -8.7 kJ/mol (basis unstated) | CrGa4 |  | model | Assessed | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005; _cites Grobner 1999_ [doi](https://doi.org/10.1361/105497199770340608) | Table 4, p. 4, row 15 |  |
-| -8.7 kJ/mol-atom | CrGa4 | 298.15 | model |  | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [2] Gröbner 1999 | Table 1, p. 2, row 51 |  |
-| -8 kJ/mol-atom | CrGa4 | 298.15 | model |  | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [2] Gröbner 1999; _cites F 1988_ | Table 1, p. 2, row 52 |  |
-| -8 kJ/mol (basis unstated) | CrGa4 |  | model | Semi-empirical model | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005; _cites Djaballah 1999_ | Table 4, p. 4, row 16 |  |
+| -14.5 kJ/mol (basis unstated) ± 1 | CrGa4 | 298.15 | experimental | Precipitation calorimetry | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005 | Table 4, p. 4, row 17; `ORC-2LSCEO6CFI.699584` |  |
+| -7.6 kJ/mol (basis unstated) | CrGa4 | 298.15 | experimental | EMF | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005; _cites Goncharuk 1981_ | Table 4, p. 4, row 14; `ORC-JDWJ6L5EI5.84864f` |  |
+| -7.6 kJ/mol-atom | CrGa4 | 850 | experimental |  | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [2] Gröbner 1999; _cites Gonchuruk 1981_ | Table 1, p. 2, row 50; `ORC-L22J4J3CQP` |  |
+| -13.3 kJ/mol (basis unstated) | CrGa4 |  | model | Assessed | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005 | Table 4, p. 4, row 18; `ORC-6RRP3SQF6Z.94431a` |  |
+| -8.7 kJ/mol (basis unstated) | CrGa4 |  | model | Assessed | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005; _cites Grobner 1999_ [doi](https://doi.org/10.1361/105497199770340608) | Table 4, p. 4, row 15; `ORC-BMIDUT3K6Z.241ef3` |  |
+| -8.7 kJ/mol-atom | CrGa4 | 298.15 | model |  | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [2] Gröbner 1999 | Table 1, p. 2, row 51; `ORC-XSJOSAEFRS` |  |
+| -8 kJ/mol-atom | CrGa4 | 298.15 | model |  | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [2] Gröbner 1999; _cites F 1988_ | Table 1, p. 2, row 52; `ORC-E75E4K7GGZ` |  |
+| -8 kJ/mol (basis unstated) | CrGa4 |  | model | Semi-empirical model | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005; _cites Djaballah 1999_ | Table 4, p. 4, row 16; `ORC-KBFYK3W67R.ab47df` |  |
 
 ### Uncertainty budget
 
@@ -105,4 +105,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

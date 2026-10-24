@@ -61,13 +61,13 @@ Table: Phase transition, Co–Fe system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 193.15 K | 193.15 | other | model | [1] Ohnuma 2002 | p. 13 | “Without the interaction = ⌬bB2/A2 = 0), the A2/B2 transition (i.e. ⌬TB2/A2 c temperature of the equiatomic FeCo compound decreases further down to ⫺80°C.” |
-| Phase transition | 1766.9 K | 1766.9 |  | experimental | [2] Rodriguez 2015 | p. 4 | “Correcting those values to ITS - 90, and converting to Kelvin, yields results of 1766.9 K and 1767.6 K 71 K.” |
-| Phase transition | 1766.9 K | 1766.9 |  | model | [2] Rodriguez 2015 | p. 4 | “The phase diagram shows the melting temperature of iron and cobalt to be 1809 K and 1766.9 K, respectively.” |
-| Phase transition | 1767.6 K | 1767.6 |  | experimental | [2] Rodriguez 2015; _cites Vandusen 1947_ | p. 4 | “Correcting those values to ITS - 90, and converting to Kelvin, yields results of 1766.9 K and 1767.6 K 71 K.” |
-| Phase transition | 1809 K | 1809 |  | experimental | [2] Rodriguez 2015; _cites Harris 1953_ | p. 4 | “When corrected to the latest International Temperature Scale, ITS - 90 \[20\], and converted to Kelvin, those temperatures become 1809 K72 K and 1811.4 K 72 K.” |
-| Phase transition | 1809 K | 1809 |  | model | [2] Rodriguez 2015 | p. 4 | “The phase diagram shows the melting temperature of iron and cobalt to be 1809 K and 1766.9 K, respectively.” |
-| Phase transition | 1811.4 K | 1811.4 |  | experimental | [2] Rodriguez 2015; _cites Preston-Thomas 1990_ [doi](https://doi.org/10.1088/0026-1394/27/1/002) | p. 4 | “When corrected to the latest International Temperature Scale, ITS - 90 \[20\], and converted to Kelvin, those temperatures become 1809 K72 K and 1811.4 K 72 K.” |
+| Phase transition | 193.15 K | 193.15 | other | model | [1] Ohnuma 2002 | p. 13; `ORC-PXM4NTONOZ` | “Without the interaction = ⌬bB2/A2 = 0), the A2/B2 transition (i.e. ⌬TB2/A2 c temperature of the equiatomic FeCo compound decreases further down to ⫺80°C.” |
+| Phase transition | 1766.9 K | 1766.9 |  | experimental | [2] Rodriguez 2015 | p. 4; `ORC-AHWWGRXPGJ.d3b3e9` | “Correcting those values to ITS - 90, and converting to Kelvin, yields results of 1766.9 K and 1767.6 K 71 K.” |
+| Phase transition | 1766.9 K | 1766.9 |  | model | [2] Rodriguez 2015 | p. 4; `ORC-G6SAJRGCMY.4ed39a` | “The phase diagram shows the melting temperature of iron and cobalt to be 1809 K and 1766.9 K, respectively.” |
+| Phase transition | 1767.6 K | 1767.6 |  | experimental | [2] Rodriguez 2015; _cites Vandusen 1947_ | p. 4; `ORC-AHWWGRXPGJ.64f265` | “Correcting those values to ITS - 90, and converting to Kelvin, yields results of 1766.9 K and 1767.6 K 71 K.” |
+| Phase transition | 1809 K | 1809 |  | experimental | [2] Rodriguez 2015; _cites Harris 1953_ | p. 4; `ORC-AYLREHGFFP.4b774c` | “When corrected to the latest International Temperature Scale, ITS - 90 \[20\], and converted to Kelvin, those temperatures become 1809 K72 K and 1811.4 K 72 K.” |
+| Phase transition | 1809 K | 1809 |  | model | [2] Rodriguez 2015 | p. 4; `ORC-G6SAJRGCMY.221df2` | “The phase diagram shows the melting temperature of iron and cobalt to be 1809 K and 1766.9 K, respectively.” |
+| Phase transition | 1811.4 K | 1811.4 |  | experimental | [2] Rodriguez 2015; _cites Preston-Thomas 1990_ [doi](https://doi.org/10.1088/0026-1394/27/1/002) | p. 4; `ORC-AYLREHGFFP.600fb5` | “When corrected to the latest International Temperature Scale, ITS - 90 \[20\], and converted to Kelvin, those temperatures become 1809 K72 K and 1811.4 K 72 K.” |
 
 ### Phase equilibrium (9)
 
@@ -75,15 +75,15 @@ Table: Phase equilibrium, Co–Fe system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 673.15 | b.c.c. + f.c.c.; _b.c.c.: Co 0.704, Fe 0.296; f.c.c.: Co 0.927, Fe 0.073_ | experimental | [1] Ohnuma 2002 | Table 1, p. 6, row 8 |  |
-| Phase composition |  | 723.15 | b.c.c. + f.c.c.; _b.c.c.: Co 0.709, Fe 0.291; f.c.c.: Co 0.908, Fe 0.092_ | experimental | [1] Ohnuma 2002 | Table 1, p. 6, row 7 |  |
-| Phase composition |  | 773.15 | b.c.c. + f.c.c.; _b.c.c.: Co 0.737, Fe 0.263; f.c.c.: Co 0.904, Fe 0.096_ | experimental | [1] Ohnuma 2002 | Table 1, p. 6, row 6 |  |
-| Phase composition |  | 823.15 | b.c.c. + f.c.c.; _b.c.c.: Co 0.739, Fe 0.261; f.c.c.: Co 0.891, Fe 0.109_ | experimental | [1] Ohnuma 2002 | Table 1, p. 6, row 5 |  |
-| Phase composition |  | 873.15 | b.c.c. + f.c.c.; _b.c.c.: Co 0.747, Fe 0.253; f.c.c.: Co 0.891, Fe 0.109_ | experimental | [1] Ohnuma 2002 | Table 1, p. 6, row 4 |  |
-| Phase composition |  | 973.15 | b.c.c. + f.c.c.; _b.c.c.: Co 0.74, Fe 0.26; f.c.c.: Co 0.849, Fe 0.151_ | experimental | [1] Ohnuma 2002 | Table 1, p. 6, row 3 |  |
-| Phase composition |  | 973.15 | b.c.c. + f.c.c.; _b.c.c.: Co 0.745, Fe 0.255; f.c.c.: Co 0.851, Fe 0.149_ | experimental | [1] Ohnuma 2002 | Table 1, p. 6, row 2 |  |
-| Phase composition |  | 1073.15 | b.c.c. + f.c.c.; _b.c.c.: Co 0.736, Fe 0.264; f.c.c.: Co 0.804, Fe 0.196_ | experimental | [1] Ohnuma 2002 | Table 1, p. 6, row 1 |  |
-| Phase composition |  | 1073.15 | b.c.c. + f.c.c.; _b.c.c.: Co 0.736, Fe 0.264; f.c.c.: Co 0.804, Fe 0.196_ | experimental | [1] Ohnuma 2002 | Table 1, p. 6, row 9 |  |
+| Phase composition |  | 673.15 | b.c.c. + f.c.c.; _b.c.c.: Co 0.704, Fe 0.296; f.c.c.: Co 0.927, Fe 0.073_ | experimental | [1] Ohnuma 2002 | Table 1, p. 6, row 8; `ORC-N3J6QDVUI4` |  |
+| Phase composition |  | 723.15 | b.c.c. + f.c.c.; _b.c.c.: Co 0.709, Fe 0.291; f.c.c.: Co 0.908, Fe 0.092_ | experimental | [1] Ohnuma 2002 | Table 1, p. 6, row 7; `ORC-C5FZORTTB3` |  |
+| Phase composition |  | 773.15 | b.c.c. + f.c.c.; _b.c.c.: Co 0.737, Fe 0.263; f.c.c.: Co 0.904, Fe 0.096_ | experimental | [1] Ohnuma 2002 | Table 1, p. 6, row 6; `ORC-KVB4F4CCD6` |  |
+| Phase composition |  | 823.15 | b.c.c. + f.c.c.; _b.c.c.: Co 0.739, Fe 0.261; f.c.c.: Co 0.891, Fe 0.109_ | experimental | [1] Ohnuma 2002 | Table 1, p. 6, row 5; `ORC-HZGH2EA7ZC` |  |
+| Phase composition |  | 873.15 | b.c.c. + f.c.c.; _b.c.c.: Co 0.747, Fe 0.253; f.c.c.: Co 0.891, Fe 0.109_ | experimental | [1] Ohnuma 2002 | Table 1, p. 6, row 4; `ORC-MAAWS4VH67` |  |
+| Phase composition |  | 973.15 | b.c.c. + f.c.c.; _b.c.c.: Co 0.74, Fe 0.26; f.c.c.: Co 0.849, Fe 0.151_ | experimental | [1] Ohnuma 2002 | Table 1, p. 6, row 3; `ORC-B4M2Y5YMJP` |  |
+| Phase composition |  | 973.15 | b.c.c. + f.c.c.; _b.c.c.: Co 0.745, Fe 0.255; f.c.c.: Co 0.851, Fe 0.149_ | experimental | [1] Ohnuma 2002 | Table 1, p. 6, row 2; `ORC-L7ECB5RIAN` |  |
+| Phase composition |  | 1073.15 | b.c.c. + f.c.c.; _b.c.c.: Co 0.736, Fe 0.264; f.c.c.: Co 0.804, Fe 0.196_ | experimental | [1] Ohnuma 2002 | Table 1, p. 6, row 1; `ORC-2ACYPXXJ45` |  |
+| Phase composition |  | 1073.15 | b.c.c. + f.c.c.; _b.c.c.: Co 0.736, Fe 0.264; f.c.c.: Co 0.804, Fe 0.196_ | experimental | [1] Ohnuma 2002 | Table 1, p. 6, row 9; `ORC-E75QMHH2YI` |  |
 
 ### Mixing / partial (1)
 
@@ -91,7 +91,7 @@ Table: Mixing / partial, Co–Fe system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -3.392 kJ/mol-atom |  | fcc; _alloy: Co 0.5, Fe 0.5_ | DFT | [3] Bracq 2021 | Table 1, p. 4, row 2 |  |
+| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -3.392 kJ/mol-atom |  | fcc; _alloy: Co 0.5, Fe 0.5_ | DFT | [3] Bracq 2021 | Table 1, p. 4, row 2; `ORC-HLNK5SU4RE.f4313f` |  |
 
 ## Sources
 
@@ -158,4 +158,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

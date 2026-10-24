@@ -51,14 +51,14 @@ Table: Invariant reactions reported in the literature for the Cd–Mg system (8)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 526.74 | congruent transformation: Hcp_A3 -> AB3 | Hcp_A3: Mg 0.502; AB3: Mg 0.502 | model | [1] Ren 2012 | Table 4, p. 6, row 1 |  |
-| 526 | congruent transformation: Hcp_A3 -> AB3 | Hcp_A3: Mg 0.5; AB3: Mg 0.5 | experimental | [1] Ren 2012; _cites Moser 1984_ [doi](https://doi.org/10.1007/bf02868720) | Table 4, p. 6, row 2 |  |
-| 459.78 | peritectoid: Hcp_A3 + AB3 -> AB3 | Hcp_A3: Mg 0.644; AB3: Mg 0.643 | model | [1] Ren 2012 | Table 4, p. 6, row 3 |  |
-| 459 | peritectoid |  | experimental | [1] Ren 2012 | p. 2 | “The ordered phase CdMg forms at 526 K through congruent transformation, and then CdMg3 and Cd3 Mg form at 459 and 398 K respectively through peritectoid reactions.” |
-| 459 | peritectoid: Hcp_A3 + AB3 -> AB3 | Hcp_A3: Mg 0.621; AB3: Mg 0.621 | experimental | [1] Ren 2012; _cites Moser 1984_ [doi](https://doi.org/10.1007/bf02868720) | Table 4, p. 6, row 4 |  |
-| 398 | peritectoid: Hcp_A3 + AB3 -> AB3 | Hcp_A3: Mg 0.33; AB3: Mg 0.338 | experimental | [1] Ren 2012; _cites Moser 1984_ [doi](https://doi.org/10.1007/bf02868720) | Table 4, p. 6, row 6 |  |
-| 398 | peritectoid |  | experimental | [1] Ren 2012 | p. 2 | “The ordered phase CdMg forms at 526 K through congruent transformation, and then CdMg3 and Cd3 Mg form at 459 and 398 K respectively through peritectoid reactions.” |
-| 397.5 | peritectoid: Hcp_A3 + AB3 -> AB3 | Hcp_A3: Mg 0.313; AB3: Mg 0.318 | model | [1] Ren 2012 | Table 4, p. 6, row 5 |  |
+| 526.74 | congruent transformation: Hcp_A3 -> AB3 | Hcp_A3: Mg 0.502; AB3: Mg 0.502 | model | [1] Ren 2012 | Table 4, p. 6, row 1; `ORC-XCH34S3UPG` |  |
+| 526 | congruent transformation: Hcp_A3 -> AB3 | Hcp_A3: Mg 0.5; AB3: Mg 0.5 | experimental | [1] Ren 2012; _cites Moser 1984_ [doi](https://doi.org/10.1007/bf02868720) | Table 4, p. 6, row 2; `ORC-YNQSU7FZJV` |  |
+| 459.78 | peritectoid: Hcp_A3 + AB3 -> AB3 | Hcp_A3: Mg 0.644; AB3: Mg 0.643 | model | [1] Ren 2012 | Table 4, p. 6, row 3; `ORC-IPUH2N4AR2` |  |
+| 459 | peritectoid |  | experimental | [1] Ren 2012 | p. 2; `ORC-W6DCHMODQU.42e5d8` | “The ordered phase CdMg forms at 526 K through congruent transformation, and then CdMg3 and Cd3 Mg form at 459 and 398 K respectively through peritectoid reactions.” |
+| 459 | peritectoid: Hcp_A3 + AB3 -> AB3 | Hcp_A3: Mg 0.621; AB3: Mg 0.621 | experimental | [1] Ren 2012; _cites Moser 1984_ [doi](https://doi.org/10.1007/bf02868720) | Table 4, p. 6, row 4; `ORC-Y557MOINUA` |  |
+| 398 | peritectoid: Hcp_A3 + AB3 -> AB3 | Hcp_A3: Mg 0.33; AB3: Mg 0.338 | experimental | [1] Ren 2012; _cites Moser 1984_ [doi](https://doi.org/10.1007/bf02868720) | Table 4, p. 6, row 6; `ORC-F3QWUMLGYX` |  |
+| 398 | peritectoid |  | experimental | [1] Ren 2012 | p. 2; `ORC-W6DCHMODQU.27c922` | “The ordered phase CdMg forms at 526 K through congruent transformation, and then CdMg3 and Cd3 Mg form at 459 and 398 K respectively through peritectoid reactions.” |
+| 397.5 | peritectoid: Hcp_A3 + AB3 -> AB3 | Hcp_A3: Mg 0.313; AB3: Mg 0.318 | model | [1] Ren 2012 | Table 4, p. 6, row 5; `ORC-NBVNYIP6EJ` |  |
 
 ## Other properties
 
@@ -68,10 +68,10 @@ Table: Phase transition, Cd–Mg system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 357 K | 357 | other | model | [1] Ren 2012 | p. 6 | “The peaks in the heat capacities of the ordered phases (Cd3 Mg, CdMg and CdMg3 ) are found to appear at about 357 K, 526 K and 424 K respectively, which are just the critical temperatures of the order-disorder phase transitions.” |
-| Phase transition | 424 K | 424 | other | model | [1] Ren 2012 | p. 6 | “The peaks in the heat capacities of the ordered phases (Cd3 Mg, CdMg and CdMg3 ) are found to appear at about 357 K, 526 K and 424 K respectively, which are just the critical temperatures of the order-disorder phase transitions.” |
-| Phase transition | 526 K | 526 | congruent transformation | experimental | [1] Ren 2012 | p. 2 | “The ordered phase CdMg forms at 526 K through congruent transformation, and then CdMg3 and Cd3 Mg form at 459 and 398 K respectively through peritectoid reactions.” |
-| Phase transition | 526 K | 526 | other | model | [1] Ren 2012 | p. 6 | “The peaks in the heat capacities of the ordered phases (Cd3 Mg, CdMg and CdMg3 ) are found to appear at about 357 K, 526 K and 424 K respectively, which are just the critical temperatures of the order-disorder phase transitions.” |
+| Phase transition | 357 K | 357 | other | model | [1] Ren 2012 | p. 6; `ORC-VBRV4VVHF3.56c0d3` | “The peaks in the heat capacities of the ordered phases (Cd3 Mg, CdMg and CdMg3 ) are found to appear at about 357 K, 526 K and 424 K respectively, which are just the critical temperatures of the order-disorder phase transitions.” |
+| Phase transition | 424 K | 424 | other | model | [1] Ren 2012 | p. 6; `ORC-VBRV4VVHF3.ce6054` | “The peaks in the heat capacities of the ordered phases (Cd3 Mg, CdMg and CdMg3 ) are found to appear at about 357 K, 526 K and 424 K respectively, which are just the critical temperatures of the order-disorder phase transitions.” |
+| Phase transition | 526 K | 526 | congruent transformation | experimental | [1] Ren 2012 | p. 2; `ORC-W6DCHMODQU.18c1bb` | “The ordered phase CdMg forms at 526 K through congruent transformation, and then CdMg3 and Cd3 Mg form at 459 and 398 K respectively through peritectoid reactions.” |
+| Phase transition | 526 K | 526 | other | model | [1] Ren 2012 | p. 6; `ORC-VBRV4VVHF3.188064` | “The peaks in the heat capacities of the ordered phases (Cd3 Mg, CdMg and CdMg3 ) are found to appear at about 357 K, 526 K and 424 K respectively, which are just the critical temperatures of the order-disorder phase transitions.” |
 
 ### Crystal structure (7)
 
@@ -79,13 +79,13 @@ Table: Crystal structure, Cd–Mg system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 6.23 Å | 298.15 | Cd3Mg | unspecified | [1] Ren 2012 | Table 1, p. 2, row 2 |  |
-| Lattice a | 5 Å | 298.15 | CdMg | unspecified | [1] Ren 2012 | Table 1, p. 2, row 3 |  |
-| Lattice a | 6.31 Å | 298.15 | CdMg3 | unspecified | [1] Ren 2012 | Table 1, p. 2, row 4 |  |
-| Lattice b | 3.22 Å | 298.15 | CdMg | unspecified | [1] Ren 2012 | Table 1, p. 2, row 3 |  |
-| Lattice c | 5.04 Å | 298.15 | Cd3Mg | unspecified | [1] Ren 2012 | Table 1, p. 2, row 2 |  |
-| Lattice c | 5.27 Å | 298.15 | CdMg | unspecified | [1] Ren 2012 | Table 1, p. 2, row 3 |  |
-| Lattice c | 5.07 Å | 298.15 | CdMg3 | unspecified | [1] Ren 2012 | Table 1, p. 2, row 4 |  |
+| Lattice a | 6.23 Å | 298.15 | Cd3Mg | unspecified | [1] Ren 2012 | Table 1, p. 2, row 2; `ORC-OHFOEXIHFF.3e3a9b` |  |
+| Lattice a | 5 Å | 298.15 | CdMg | unspecified | [1] Ren 2012 | Table 1, p. 2, row 3; `ORC-LEMKBTCQIR.3f453b` |  |
+| Lattice a | 6.31 Å | 298.15 | CdMg3 | unspecified | [1] Ren 2012 | Table 1, p. 2, row 4; `ORC-YCECT3OSKD.ac0748` |  |
+| Lattice b | 3.22 Å | 298.15 | CdMg | unspecified | [1] Ren 2012 | Table 1, p. 2, row 3; `ORC-LEMKBTCQIR.cde17c` |  |
+| Lattice c | 5.04 Å | 298.15 | Cd3Mg | unspecified | [1] Ren 2012 | Table 1, p. 2, row 2; `ORC-OHFOEXIHFF.1f7106` |  |
+| Lattice c | 5.27 Å | 298.15 | CdMg | unspecified | [1] Ren 2012 | Table 1, p. 2, row 3; `ORC-LEMKBTCQIR.89e4f5` |  |
+| Lattice c | 5.07 Å | 298.15 | CdMg3 | unspecified | [1] Ren 2012 | Table 1, p. 2, row 4; `ORC-YCECT3OSKD.9e5c03` |  |
 
 ## Sources
 
@@ -150,4 +150,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

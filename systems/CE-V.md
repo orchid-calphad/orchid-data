@@ -48,16 +48,16 @@ Table: Invariant reactions reported in the literature for the Ce–V system (10)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2180.15 | L2 \<-> L1 + V | L2: V 0.99; L1: V 0.0169; V: V 0.994 | unspecified | [1] Chan 2010; _cites Massalski 1990_ | Table 2, p. 4, row 2 |  |
-| 2158.15 | L2 \<-> L1 + V | L2: V 0.999; L1: V 0.016; V: V 0.9995 | unspecified | [1] Chan 2010; _cites Efimov 2010_ | Table 2, p. 4, row 1 |  |
-| 2154.15 | L2 \<-> L1 + V | L2: V 0.9827; L1: V 0.0173; V: V 0.9995 | model | [1] Chan 2010 | Table 2, p. 4, row 3 |  |
-| 1083.15 | L + V \<-> δCe |  | unspecified | [1] Chan 2010; _cites Efimov 2010_ | Table 2, p. 4, row 4 |  |
-| 1074.15 | L + V \<-> δCe | L: V 4.000e-5; δCe: V 1.100e-4 | unspecified | [1] Chan 2010; _cites Massalski 1990_ | Table 2, p. 4, row 5 |  |
-| 1072.15 | L + V \<-> δCe | L: V 4.000e-5; V: V 1; δCe: V 1.100e-4 | model | [1] Chan 2010 | Table 2, p. 4, row 6 |  |
-| 999.85 | δCe \<-> V + γCe | δCe: V 0; V: V 1; γCe: V 0 | model | [1] Chan 2010 | Table 2, p. 4, row 9 |  |
-| 334.15 | γCe \<-> V + βCe |  | unspecified | [1] Chan 2010; _cites Massalski 1990_ | Table 2, p. 4, row 10 |  |
-| 283.15 | γCe \<-> V + βCe |  | unspecified | [1] Chan 2010; _cites Gschneidner 1999_ [doi](https://doi.org/10.1361/105497199770340590) | Table 2, p. 4, row 11 |  |
-| 283 | γCe \<-> V + βCe | γCe: V 0; V: V 1; βCe: V 0 | model | [1] Chan 2010 | Table 2, p. 4, row 12 |  |
+| 2180.15 | L2 \<-> L1 + V | L2: V 0.99; L1: V 0.0169; V: V 0.994 | unspecified | [1] Chan 2010; _cites Massalski 1990_ | Table 2, p. 4, row 2; `ORC-LTLPVCCNQK` |  |
+| 2158.15 | L2 \<-> L1 + V | L2: V 0.999; L1: V 0.016; V: V 0.9995 | unspecified | [1] Chan 2010; _cites Efimov 2010_ | Table 2, p. 4, row 1; `ORC-J2EJUCRHHU` |  |
+| 2154.15 | L2 \<-> L1 + V | L2: V 0.9827; L1: V 0.0173; V: V 0.9995 | model | [1] Chan 2010 | Table 2, p. 4, row 3; `ORC-IIRXY4RAEV` |  |
+| 1083.15 | L + V \<-> δCe |  | unspecified | [1] Chan 2010; _cites Efimov 2010_ | Table 2, p. 4, row 4; `ORC-C767MUZAGF` |  |
+| 1074.15 | L + V \<-> δCe | L: V 4.000e-5; δCe: V 1.100e-4 | unspecified | [1] Chan 2010; _cites Massalski 1990_ | Table 2, p. 4, row 5; `ORC-WFYKVGOBDO` |  |
+| 1072.15 | L + V \<-> δCe | L: V 4.000e-5; V: V 1; δCe: V 1.100e-4 | model | [1] Chan 2010 | Table 2, p. 4, row 6; `ORC-RS4YSRPRDZ` |  |
+| 999.85 | δCe \<-> V + γCe | δCe: V 0; V: V 1; γCe: V 0 | model | [1] Chan 2010 | Table 2, p. 4, row 9; `ORC-RB7ZQRDIYR` |  |
+| 334.15 | γCe \<-> V + βCe |  | unspecified | [1] Chan 2010; _cites Massalski 1990_ | Table 2, p. 4, row 10; `ORC-UPIY4IH467` |  |
+| 283.15 | γCe \<-> V + βCe |  | unspecified | [1] Chan 2010; _cites Gschneidner 1999_ [doi](https://doi.org/10.1361/105497199770340590) | Table 2, p. 4, row 11; `ORC-7CX2HWEAXQ` |  |
+| 283 | γCe \<-> V + βCe | γCe: V 0; V: V 1; βCe: V 0 | model | [1] Chan 2010 | Table 2, p. 4, row 12; `ORC-FZCHHLBICO` |  |
 
 ## Sources
 
@@ -122,4 +122,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

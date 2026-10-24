@@ -14,17 +14,17 @@ Table: Enthalpy of formation of TiC reported in the literature (11)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -95.2 per mol-atom | TiC | 277.15 | experimental |  | [C–Ti](https://data.orchid-project.org/systems/C-TI.html) | [1] Saeki 2020; _cites ref. 41_ | Table 1, p. 4, row 4 |  |
-| -92.9 per mol-atom ± 8.9 | TiC | 277.15 | experimental |  | [C–Ti](https://data.orchid-project.org/systems/C-TI.html) | [1] Saeki 2020; _cites ref. 42_ | Table 1, p. 4, row 5 |  |
-| -91.7 per mol-atom ± 0.8 | TiC | 277.15 | experimental |  | [C–Ti](https://data.orchid-project.org/systems/C-TI.html) | [1] Saeki 2020; _cites ref. 39_ | Table 1, p. 4, row 2 |  |
-| -91.6 per mol-atom ± 9.6 | TiC | 277.15 | experimental |  | [C–Ti](https://data.orchid-project.org/systems/C-TI.html) | [1] Saeki 2020; _cites ref. 40_ | Table 1, p. 4, row 3 |  |
-| -94 kJ/mol-atom | TiC | 298.15 | model |  | [C–Ti](https://data.orchid-project.org/systems/C-TI.html) | [2] Frisk 2003; _cites Jonsson 1996_ | Table 1, p. 2, row 1 |  |
-| -92 kJ/mol-atom | TiC | 298.15 | model |  | [C–Ti](https://data.orchid-project.org/systems/C-TI.html) | [2] Frisk 2003; _cites Fernandez 1992_ | Table 1, p. 2, row 5 |  |
-| -90.5 kJ/mol-atom | TiC | 298.15 | model |  | [C–Ti](https://data.orchid-project.org/systems/C-TI.html) | [2] Frisk 2003; _cites Albertsen 1995_ | Table 1, p. 2, row 2 |  |
-| -90 kJ/mol-atom | TiC | 298.15 | model |  | [C–Ti](https://data.orchid-project.org/systems/C-TI.html) | [2] Frisk 2003 | Table 1, p. 2, row 6 |  |
-| -82.4 kJ/mol-atom | TiC | 277.15 | model |  | [C–Ti](https://data.orchid-project.org/systems/C-TI.html) | [1] Saeki 2020 | Table 1, p. 4, row 1 |  |
-| -78 kJ/mol-atom | TiC | 298.15 | model |  | [C–Ti](https://data.orchid-project.org/systems/C-TI.html) | [2] Frisk 2003; _cites Seifert 1996_ [doi](https://doi.org/10.1007/bf02648366) | Table 1, p. 2, row 3 |  |
-| -74 kJ/mol-atom | TiC | 298.15 | model |  | [C–Ti](https://data.orchid-project.org/systems/C-TI.html) | [2] Frisk 2003; _cites Dumitrescu 1999_ | Table 1, p. 2, row 4 |  |
+| -95.2 per mol-atom | TiC | 277.15 | experimental |  | [C–Ti](https://data.orchid-project.org/systems/C-TI.html) | [1] Saeki 2020; _cites ref. 41_ | Table 1, p. 4, row 4; `ORC-RF7TEVTWQL.780acc` |  |
+| -92.9 per mol-atom ± 8.9 | TiC | 277.15 | experimental |  | [C–Ti](https://data.orchid-project.org/systems/C-TI.html) | [1] Saeki 2020; _cites ref. 42_ | Table 1, p. 4, row 5; `ORC-MD54ZU7LXS.238f48` |  |
+| -91.7 per mol-atom ± 0.8 | TiC | 277.15 | experimental |  | [C–Ti](https://data.orchid-project.org/systems/C-TI.html) | [1] Saeki 2020; _cites ref. 39_ | Table 1, p. 4, row 2; `ORC-M3HYGDB2FQ.05ab70` |  |
+| -91.6 per mol-atom ± 9.6 | TiC | 277.15 | experimental |  | [C–Ti](https://data.orchid-project.org/systems/C-TI.html) | [1] Saeki 2020; _cites ref. 40_ | Table 1, p. 4, row 3; `ORC-DKESL3FI6D.56cf92` |  |
+| -94 kJ/mol-atom | TiC | 298.15 | model |  | [C–Ti](https://data.orchid-project.org/systems/C-TI.html) | [2] Frisk 2003; _cites Jonsson 1996_ | Table 1, p. 2, row 1; `ORC-TNZG72OOD4.877c0f` |  |
+| -92 kJ/mol-atom | TiC | 298.15 | model |  | [C–Ti](https://data.orchid-project.org/systems/C-TI.html) | [2] Frisk 2003; _cites Fernandez 1992_ | Table 1, p. 2, row 5; `ORC-M6IRHQCMO2.1c5370` |  |
+| -90.5 kJ/mol-atom | TiC | 298.15 | model |  | [C–Ti](https://data.orchid-project.org/systems/C-TI.html) | [2] Frisk 2003; _cites Albertsen 1995_ | Table 1, p. 2, row 2; `ORC-BDUDLQESZK` |  |
+| -90 kJ/mol-atom | TiC | 298.15 | model |  | [C–Ti](https://data.orchid-project.org/systems/C-TI.html) | [2] Frisk 2003 | Table 1, p. 2, row 6; `ORC-M3ZR2NE26Z.7c2eff` |  |
+| -82.4 kJ/mol-atom | TiC | 277.15 | model |  | [C–Ti](https://data.orchid-project.org/systems/C-TI.html) | [1] Saeki 2020 | Table 1, p. 4, row 1; `ORC-FV6WHG7AZ5.4c4bb7` |  |
+| -78 kJ/mol-atom | TiC | 298.15 | model |  | [C–Ti](https://data.orchid-project.org/systems/C-TI.html) | [2] Frisk 2003; _cites Seifert 1996_ [doi](https://doi.org/10.1007/bf02648366) | Table 1, p. 2, row 3; `ORC-2KQXTOCVPE.6e4607` |  |
+| -74 kJ/mol-atom | TiC | 298.15 | model |  | [C–Ti](https://data.orchid-project.org/systems/C-TI.html) | [2] Frisk 2003; _cites Dumitrescu 1999_ | Table 1, p. 2, row 4; `ORC-H3TSYIKWG6.b60d77` |  |
 
 ### Uncertainty budget
 
@@ -111,4 +111,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

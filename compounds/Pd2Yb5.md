@@ -14,12 +14,12 @@ Table: Enthalpy of formation of Pd2Yb5 reported in the literature (6)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -60.467 kJ/mol-atom | Pd2Yb5 | 298.15 | model | Optimization K | [Pd–Yb](https://data.orchid-project.org/systems/PD-YB.html) | [1] Kardellass 2020 | Table 3, p. 5, row 17 |  |
-| -56.8189 kJ/mol-atom | Pd2Yb5 | 298.15 | model | Prediction | [Pd–Yb](https://data.orchid-project.org/systems/PD-YB.html) | [1] Kardellass 2020; _cites De 2014_ | Table 3, p. 5, row 19 |  |
-| -56.723 kJ/mol-atom | Pd2Yb5 | 298.15 | model | Optimization R-K | [Pd–Yb](https://data.orchid-project.org/systems/PD-YB.html) | [1] Kardellass 2020 | Table 3, p. 5, row 16 |  |
-| -48.25 kJ/mol-atom | Pd2Yb5 | 298.15 | model | Optimization R-K | [Pd–Yb](https://data.orchid-project.org/systems/PD-YB.html) | [1] Kardellass 2020 | Table 3, p. 5, row 15 |  |
-| -45.3022 kJ/mol-atom | Pd2Yb5 | 298.15 | model | Optimization K | [Pd–Yb](https://data.orchid-project.org/systems/PD-YB.html) | [1] Kardellass 2020 | Table 3, p. 5, row 18 |  |
-| -60.35 kJ/mol-atom | Pd2Yb5 | 298.15 | DFT | Ab-initio | [Pd–Yb](https://data.orchid-project.org/systems/PD-YB.html) | [1] Kardellass 2020 | Table 3, p. 5, row 20 |  |
+| -60.467 kJ/mol-atom | Pd2Yb5 | 298.15 | model | Optimization K | [Pd–Yb](https://data.orchid-project.org/systems/PD-YB.html) | [1] Kardellass 2020 | Table 3, p. 5, row 17; `ORC-QUXEDAZ6W4.361b19` |  |
+| -56.8189 kJ/mol-atom | Pd2Yb5 | 298.15 | model | Prediction | [Pd–Yb](https://data.orchid-project.org/systems/PD-YB.html) | [1] Kardellass 2020; _cites De 2014_ | Table 3, p. 5, row 19; `ORC-XXJDVK67FD.34bdbb` |  |
+| -56.723 kJ/mol-atom | Pd2Yb5 | 298.15 | model | Optimization R-K | [Pd–Yb](https://data.orchid-project.org/systems/PD-YB.html) | [1] Kardellass 2020 | Table 3, p. 5, row 16; `ORC-JZHJBWWSE4.976c76` |  |
+| -48.25 kJ/mol-atom | Pd2Yb5 | 298.15 | model | Optimization R-K | [Pd–Yb](https://data.orchid-project.org/systems/PD-YB.html) | [1] Kardellass 2020 | Table 3, p. 5, row 15; `ORC-REQLU42WYX.39c5db` |  |
+| -45.3022 kJ/mol-atom | Pd2Yb5 | 298.15 | model | Optimization K | [Pd–Yb](https://data.orchid-project.org/systems/PD-YB.html) | [1] Kardellass 2020 | Table 3, p. 5, row 18; `ORC-7NOYQW4LC7.c5bc2d` |  |
+| -60.35 kJ/mol-atom | Pd2Yb5 | 298.15 | DFT | Ab-initio | [Pd–Yb](https://data.orchid-project.org/systems/PD-YB.html) | [1] Kardellass 2020 | Table 3, p. 5, row 20; `ORC-62GDU5K5J3.65fb07` |  |
 
 ### Uncertainty budget
 
@@ -99,4 +99,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

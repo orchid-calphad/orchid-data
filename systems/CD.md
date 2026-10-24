@@ -31,8 +31,8 @@ Table: Phase transition, Cd system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 566.8 K | 566.8 | other | model | [1] Zakulski 1995; _cites ref. 92_ | p. 2 | “The metastable melting temperature for Cd (fcc) calculated from the fitted expression, Tm = A f u s H / A f u s S , equals 567 K, which is very close to a value of 566.8 K obtained in \[92DutJ as a mean from five different Cd-X systems.” |
-| Phase transition | 567 K | 567 | other | model | [1] Zakulski 1995 | p. 2 | “The metastable melting temperature for Cd (fcc) calculated from the fitted expression, Tm = A f u s H / A f u s S , equals 567 K, which is very close to a value of 566.8 K obtained in \[92DutJ as a mean from five different Cd-X systems.” |
+| Phase transition | 566.8 K | 566.8 | other | model | [1] Zakulski 1995; _cites ref. 92_ | p. 2; `ORC-ECVJKRDQBJ.75e20e` | “The metastable melting temperature for Cd (fcc) calculated from the fitted expression, Tm = A f u s H / A f u s S , equals 567 K, which is very close to a value of 566.8 K obtained in \[92DutJ as a mean from five different Cd-X systems.” |
+| Phase transition | 567 K | 567 | other | model | [1] Zakulski 1995 | p. 2; `ORC-ECVJKRDQBJ.bf059e` | “The metastable melting temperature for Cd (fcc) calculated from the fitted expression, Tm = A f u s H / A f u s S , equals 567 K, which is very close to a value of 566.8 K obtained in \[92DutJ as a mean from five different Cd-X systems.” |
 
 ### Crystal structure (6)
 
@@ -40,12 +40,12 @@ Table: Crystal structure, Cd system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 3.01 Å | 0 | (Cd); _(Cd): Cd 1_ | DFT | [2] Kali-Ali 2017 | Table 1, p. 3, row 14 |  |
-| Lattice a | 2.97 Å | 298.15 | (Cd); _(Cd): Cd 1_ | experimental | [2] Kali-Ali 2017; _cites Rossmanith 1978_ [doi](https://doi.org/10.1107/s0567739478001072) | Table 1, p. 3, row 13 |  |
-| Lattice b | 3.01 Å | 0 | (Cd); _(Cd): Cd 1_ | DFT | [2] Kali-Ali 2017 | Table 1, p. 3, row 14 |  |
-| Lattice b | 2.97 Å | 298.15 | (Cd); _(Cd): Cd 1_ | experimental | [2] Kali-Ali 2017; _cites Rossmanith 1978_ [doi](https://doi.org/10.1107/s0567739478001072) | Table 1, p. 3, row 13 |  |
-| Lattice c | 5.8 Å | 0 | (Cd); _(Cd): Cd 1_ | DFT | [2] Kali-Ali 2017 | Table 1, p. 3, row 14 |  |
-| Lattice c | 5.61 Å | 298.15 | (Cd); _(Cd): Cd 1_ | experimental | [2] Kali-Ali 2017; _cites Rossmanith 1978_ [doi](https://doi.org/10.1107/s0567739478001072) | Table 1, p. 3, row 13 |  |
+| Lattice a | 3.01 Å | 0 | (Cd); _(Cd): Cd 1_ | DFT | [2] Kali-Ali 2017 | Table 1, p. 3, row 14; `ORC-N2ZH4C34OB.509893` |  |
+| Lattice a | 2.97 Å | 298.15 | (Cd); _(Cd): Cd 1_ | experimental | [2] Kali-Ali 2017; _cites Rossmanith 1978_ [doi](https://doi.org/10.1107/s0567739478001072) | Table 1, p. 3, row 13; `ORC-PIUPPE3M3W.8960ac` |  |
+| Lattice b | 3.01 Å | 0 | (Cd); _(Cd): Cd 1_ | DFT | [2] Kali-Ali 2017 | Table 1, p. 3, row 14; `ORC-N2ZH4C34OB.a2a31e` |  |
+| Lattice b | 2.97 Å | 298.15 | (Cd); _(Cd): Cd 1_ | experimental | [2] Kali-Ali 2017; _cites Rossmanith 1978_ [doi](https://doi.org/10.1107/s0567739478001072) | Table 1, p. 3, row 13; `ORC-PIUPPE3M3W.099bf0` |  |
+| Lattice c | 5.8 Å | 0 | (Cd); _(Cd): Cd 1_ | DFT | [2] Kali-Ali 2017 | Table 1, p. 3, row 14; `ORC-N2ZH4C34OB.14c9ed` |  |
+| Lattice c | 5.61 Å | 298.15 | (Cd); _(Cd): Cd 1_ | experimental | [2] Kali-Ali 2017; _cites Rossmanith 1978_ [doi](https://doi.org/10.1107/s0567739478001072) | Table 1, p. 3, row 13; `ORC-PIUPPE3M3W.cd684b` |  |
 
 ## Sources
 
@@ -89,4 +89,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

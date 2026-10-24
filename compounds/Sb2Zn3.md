@@ -14,12 +14,12 @@ Table: Enthalpy of formation of Sb2Zn3 reported in the literature (6)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -5.78 kJ/mol-atom | ξ-Sb2Zn3 | 800 | experimental | emf | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007; _cites Zabdyr 1981_ | Table 4, p. 4, row 26 |  |
-| -5.78 kJ/mol-atom | β-Zn3Sb2 | 800.15 | experimental | EMF | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [2] Zhang 2022; _cites Zabdyr 1981_ | Table 8, p. 14, row 23 |  |
-| -5.78 kJ/mol-atom | δ(Sb4Zn6) | 298.15 | experimental |  | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [3] Liu 2000; _cites Zabdyr 1981_ | Table 2, p. 3, row 19 |  |
-| -10.434 kJ/mol-atom | β-Zn3Sb2 | 800.15 | model | Calculation | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [2] Zhang 2022 | Table 8, p. 14, row 24 |  |
-| -9.839 kJ/mol-atom | ξ-Sb2Zn3 | 800 | model |  | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007 | Table 4, p. 4, row 25 |  |
-| -4.918 kJ/mol-atom | δ(Sb4Zn6) |  | model |  | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [3] Liu 2000 | Table 2, p. 3, row 18 |  |
+| -5.78 kJ/mol-atom | ξ-Sb2Zn3 | 800 | experimental | emf | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007; _cites Zabdyr 1981_ | Table 4, p. 4, row 26; `ORC-NNBDCYEADO.98dc51` |  |
+| -5.78 kJ/mol-atom | β-Zn3Sb2 | 800.15 | experimental | EMF | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [2] Zhang 2022; _cites Zabdyr 1981_ | Table 8, p. 14, row 23; `ORC-O44M4ZW6TJ.25c16b` |  |
+| -5.78 kJ/mol-atom | δ(Sb4Zn6) | 298.15 | experimental |  | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [3] Liu 2000; _cites Zabdyr 1981_ | Table 2, p. 3, row 19; `ORC-SEAEWZOJ7K.ef3226` |  |
+| -10.434 kJ/mol-atom | β-Zn3Sb2 | 800.15 | model | Calculation | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [2] Zhang 2022 | Table 8, p. 14, row 24; `ORC-JVUQCUY4PL.cd2875` |  |
+| -9.839 kJ/mol-atom | ξ-Sb2Zn3 | 800 | model |  | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007 | Table 4, p. 4, row 25; `ORC-XD2QFXBABL.a4f923` |  |
+| -4.918 kJ/mol-atom | δ(Sb4Zn6) |  | model |  | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [3] Liu 2000 | Table 2, p. 3, row 18; `ORC-OY2ENCQXV6.ca42e0` |  |
 
 ### Uncertainty budget
 
@@ -101,4 +101,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

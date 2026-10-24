@@ -83,14 +83,14 @@ Table: Invariant reactions reported in the literature for the Cr–Mn system (8)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1598.4 | peritectic: Liquid + bcc-A2 -> σ-H | L: Mn 0.813; bcc-A2: Mn 0.717; σ-H: Mn 0.755 | unspecified | [1] Hämäläinen 1998 | Table I, p. 163, row 3 |  |
-| 1556.2 | peritectic: Liquid + σ-H -> bcc-A2 | L: Mn 0.876; σ-H: Mn 0.794; bcc-A2: Mn 0.831 | unspecified | [1] Hämäläinen 1998 | Table I, p. 163, row 4 |  |
-| 1382.1 | peritectoid: bcc-A2 + fcc-A1 -> cub-A13 | bcc-A2: Mn 0.898; fcc-A1: Mn 0.993; cub-A13: Mn 0.913 | unspecified | [1] Hämäläinen 1998 | Table I, p. 163, row 6 |  |
-| 1293.6 | eutectoid: bcc-A2 -> cub-A13 + σ-H | bcc-A2: Mn 0.88; cub-A13: Mn 0.873; σ-H: Mn 0.894 | unspecified | [1] Hämäläinen 1998 | Table I, p. 163, row 5 |  |
-| 1268.1 | eutectoid: σ-H -> bcc-A2 + σ-L | σ-H: Mn 0.758; bcc-A2: Mn 0.683; σ-L: Mn 0.76 | unspecified | [1] Hämäläinen 1998 | Table I, p. 163, row 2 |  |
-| 1264.4 | eutectoid: σ-H -> σ-L + cub-A13 | σ-H: Mn 0.815; σ-L: Mn 0.811; cub-A13: Mn 0.91 | unspecified | [1] Hämäläinen 1998 | Table I, p. 163, row 7 |  |
-| 1197.8 | peritectoid: bcc-A2 + σ-L -> Cr3Mn5 | bcc-A2: Mn 0.57; σ-L: Mn 0.719; Cr3Mn5: Mn 0.625 | unspecified | [1] Hämäläinen 1998 | Table I, p. 163, row 1 |  |
-| 1117.4 | peritectoid: σ-L + cub-A13 -> cbcc-A12 | σ-L: Mn 0.812; cub-A13: Mn 0.934; cbcc-A12: Mn 0.91 | unspecified | [1] Hämäläinen 1998 | Table I, p. 163, row 8 |  |
+| 1598.4 | peritectic: Liquid + bcc-A2 -> σ-H | L: Mn 0.813; bcc-A2: Mn 0.717; σ-H: Mn 0.755 | unspecified | [1] Hämäläinen 1998 | Table I, p. 163, row 3; `ORC-6YVK3N22CI` |  |
+| 1556.2 | peritectic: Liquid + σ-H -> bcc-A2 | L: Mn 0.876; σ-H: Mn 0.794; bcc-A2: Mn 0.831 | unspecified | [1] Hämäläinen 1998 | Table I, p. 163, row 4; `ORC-K3MF6VTCKG` |  |
+| 1382.1 | peritectoid: bcc-A2 + fcc-A1 -> cub-A13 | bcc-A2: Mn 0.898; fcc-A1: Mn 0.993; cub-A13: Mn 0.913 | unspecified | [1] Hämäläinen 1998 | Table I, p. 163, row 6; `ORC-7PDOD7OODM` |  |
+| 1293.6 | eutectoid: bcc-A2 -> cub-A13 + σ-H | bcc-A2: Mn 0.88; cub-A13: Mn 0.873; σ-H: Mn 0.894 | unspecified | [1] Hämäläinen 1998 | Table I, p. 163, row 5; `ORC-QB7PZ22ITO` |  |
+| 1268.1 | eutectoid: σ-H -> bcc-A2 + σ-L | σ-H: Mn 0.758; bcc-A2: Mn 0.683; σ-L: Mn 0.76 | unspecified | [1] Hämäläinen 1998 | Table I, p. 163, row 2; `ORC-CXBKCT7L2Q` |  |
+| 1264.4 | eutectoid: σ-H -> σ-L + cub-A13 | σ-H: Mn 0.815; σ-L: Mn 0.811; cub-A13: Mn 0.91 | unspecified | [1] Hämäläinen 1998 | Table I, p. 163, row 7; `ORC-YQYYWNCEC5` |  |
+| 1197.8 | peritectoid: bcc-A2 + σ-L -> Cr3Mn5 | bcc-A2: Mn 0.57; σ-L: Mn 0.719; Cr3Mn5: Mn 0.625 | unspecified | [1] Hämäläinen 1998 | Table I, p. 163, row 1; `ORC-UGPTIDZIPY` |  |
+| 1117.4 | peritectoid: σ-L + cub-A13 -> cbcc-A12 | σ-L: Mn 0.812; cub-A13: Mn 0.934; cbcc-A12: Mn 0.91 | unspecified | [1] Hämäläinen 1998 | Table I, p. 163, row 8; `ORC-WQNEXNZECP` |  |
 
 ## Other properties
 
@@ -100,8 +100,8 @@ Table: Phase transition, Cr–Mn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 973 K | 973 | β-spinel + Mn2O3 + Cr2O3 | experimental | [2] Kjellqvist 2010; _cites Golikov 1985_ [doi](https://doi.org/10.1016/0022-3697%2885%2990073-3) | p. 4 | “They suggest that the temperature for the threephase equilibrium ␤-spinel + Mn2 O3 + Cr2 O3 equilibrated in air is 973 K, but they did not perform any experiments at lower temperatures.” |
-| Phase transition | 1073.15 K | 1073.15 | other | experimental | [3] Lee 1993 | p. 3 | “Wachtel and Bartelt also reported another transformation in the sigma phase at about 800 ~” |
+| Phase transition | 973 K | 973 | β-spinel + Mn2O3 + Cr2O3 | experimental | [2] Kjellqvist 2010; _cites Golikov 1985_ [doi](https://doi.org/10.1016/0022-3697%2885%2990073-3) | p. 4; `ORC-7M5AIONF7V` | “They suggest that the temperature for the threephase equilibrium ␤-spinel + Mn2 O3 + Cr2 O3 equilibrated in air is 973 K, but they did not perform any experiments at lower temperatures.” |
+| Phase transition | 1073.15 K | 1073.15 | other | experimental | [3] Lee 1993 | p. 3; `ORC-7NNHBKJ3QV` | “Wachtel and Bartelt also reported another transformation in the sigma phase at about 800 ~” |
 
 ### Mixing / partial (1)
 
@@ -109,7 +109,7 @@ Table: Mixing / partial, Cr–Mn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -4.128 kJ/mol-atom |  | fcc; _alloy: Cr 0.5, Mn 0.5_ | DFT | [4] Bracq 2021 | Table 1, p. 4, row 6 |  |
+| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -4.128 kJ/mol-atom |  | fcc; _alloy: Cr 0.5, Mn 0.5_ | DFT | [4] Bracq 2021 | Table 1, p. 4, row 6; `ORC-MIWIY62X5P.0029e2` |  |
 
 ### Activity / EMF / Gibbs energy (5)
 
@@ -117,11 +117,11 @@ Table: Activity / EMF / Gibbs energy, Cr–Mn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Gibbs energy; _printed: ΔfG(MnCr2O4)_ | -50.7 kJ | 1773 |  | experimental | [2] Kjellqvist 2010; _cites Barin 1993_ | p. 4 | “-54.4 kJ \[41\] and -35.6 kJ \[42\] at 1873 K and -50.7 kJ \[38\], -53.6 kJ \[41\] and -34.8 kJ \[42\] at 1773 K.” |
-| Gibbs energy; _printed: ΔfG(MnCr2O4)_ | -53.6 kJ | 1773 |  | experimental | [2] Kjellqvist 2010; _cites Kubaschewski 1993_ | p. 4 | “-54.4 kJ \[41\] and -35.6 kJ \[42\] at 1873 K and -50.7 kJ \[38\], -53.6 kJ \[41\] and -34.8 kJ \[42\] at 1773 K.” |
-| Gibbs energy; _printed: ΔfG(MnCr2O4)_ | -34.8 kJ | 1773 |  | experimental | [2] Kjellqvist 2010; _cites Dimitrov 1995_ [doi](https://doi.org/10.1002/srin.199501092) | p. 4 | “-54.4 kJ \[41\] and -35.6 kJ \[42\] at 1873 K and -50.7 kJ \[38\], -53.6 kJ \[41\] and -34.8 kJ \[42\] at 1773 K.” |
-| Gibbs energy; _printed: ΔfG(MnCr2O4)_ | -35.6 kJ | 1873 |  | experimental | [2] Kjellqvist 2010; _cites Dimitrov 1995_ [doi](https://doi.org/10.1002/srin.199501092) | p. 4 | “-54.4 kJ \[41\] and -35.6 kJ \[42\] at 1873 K and -50.7 kJ \[38\], -53.6 kJ \[41\] and -34.8 kJ \[42\] at 1773 K.” |
-| Gibbs energy; _printed: ΔfG(MnCr2O4)_ | -54.4 kJ | 1873 |  | experimental | [2] Kjellqvist 2010; _cites Kubaschewski 1993_ | p. 4 | “-54.4 kJ \[41\] and -35.6 kJ \[42\] at 1873 K and -50.7 kJ \[38\], -53.6 kJ \[41\] and -34.8 kJ \[42\] at 1773 K.” |
+| Gibbs energy; _printed: ΔfG(MnCr2O4)_ | -50.7 kJ | 1773 |  | experimental | [2] Kjellqvist 2010; _cites Barin 1993_ | p. 4; `ORC-47DQRCX64Q.8d3ad7` | “-54.4 kJ \[41\] and -35.6 kJ \[42\] at 1873 K and -50.7 kJ \[38\], -53.6 kJ \[41\] and -34.8 kJ \[42\] at 1773 K.” |
+| Gibbs energy; _printed: ΔfG(MnCr2O4)_ | -53.6 kJ | 1773 |  | experimental | [2] Kjellqvist 2010; _cites Kubaschewski 1993_ | p. 4; `ORC-47DQRCX64Q.ad2926` | “-54.4 kJ \[41\] and -35.6 kJ \[42\] at 1873 K and -50.7 kJ \[38\], -53.6 kJ \[41\] and -34.8 kJ \[42\] at 1773 K.” |
+| Gibbs energy; _printed: ΔfG(MnCr2O4)_ | -34.8 kJ | 1773 |  | experimental | [2] Kjellqvist 2010; _cites Dimitrov 1995_ [doi](https://doi.org/10.1002/srin.199501092) | p. 4; `ORC-47DQRCX64Q.e492c9` | “-54.4 kJ \[41\] and -35.6 kJ \[42\] at 1873 K and -50.7 kJ \[38\], -53.6 kJ \[41\] and -34.8 kJ \[42\] at 1773 K.” |
+| Gibbs energy; _printed: ΔfG(MnCr2O4)_ | -35.6 kJ | 1873 |  | experimental | [2] Kjellqvist 2010; _cites Dimitrov 1995_ [doi](https://doi.org/10.1002/srin.199501092) | p. 4; `ORC-47DQRCX64Q.34c15d` | “-54.4 kJ \[41\] and -35.6 kJ \[42\] at 1873 K and -50.7 kJ \[38\], -53.6 kJ \[41\] and -34.8 kJ \[42\] at 1773 K.” |
+| Gibbs energy; _printed: ΔfG(MnCr2O4)_ | -54.4 kJ | 1873 |  | experimental | [2] Kjellqvist 2010; _cites Kubaschewski 1993_ | p. 4; `ORC-47DQRCX64Q.4d6e08` | “-54.4 kJ \[41\] and -35.6 kJ \[42\] at 1873 K and -50.7 kJ \[38\], -53.6 kJ \[41\] and -34.8 kJ \[42\] at 1773 K.” |
 
 ## Sources
 
@@ -189,4 +189,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

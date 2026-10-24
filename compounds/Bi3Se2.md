@@ -14,9 +14,9 @@ Table: Enthalpy of formation of Bi3Se2 reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -26.4 kJ/mol-atom | Bi3Se2 | 298.15 | experimental | EMF | [Bi–Se](https://data.orchid-project.org/systems/BI-SE.html) | [1] Zhou 2024; _cites Hasanova 2021_ [doi](https://doi.org/10.1007/s11837-021-04621-1) | Table 3, p. 5, row 62 |  |
-| -26.405 kJ/mol-atom | Bi3Se2 | 298.15 | model | CALPHAD | [Bi–Se](https://data.orchid-project.org/systems/BI-SE.html) | [1] Zhou 2024 | Table 3, p. 5, row 64 |  |
-| -24.893 kJ/mol-atom | Bi3Se2 | 0 | DFT | First-principles | [Bi–Se](https://data.orchid-project.org/systems/BI-SE.html) | [1] Zhou 2024; _cites Saal 2013_ [doi](https://doi.org/10.1007/s11837-013-0755-4) | Table 3, p. 5, row 63 |  |
+| -26.4 kJ/mol-atom | Bi3Se2 | 298.15 | experimental | EMF | [Bi–Se](https://data.orchid-project.org/systems/BI-SE.html) | [1] Zhou 2024; _cites Hasanova 2021_ [doi](https://doi.org/10.1007/s11837-021-04621-1) | Table 3, p. 5, row 62; `ORC-CCJTFOHABK` |  |
+| -26.405 kJ/mol-atom | Bi3Se2 | 298.15 | model | CALPHAD | [Bi–Se](https://data.orchid-project.org/systems/BI-SE.html) | [1] Zhou 2024 | Table 3, p. 5, row 64; `ORC-BVZNK33RJI` |  |
+| -24.893 kJ/mol-atom | Bi3Se2 | 0 | DFT | First-principles | [Bi–Se](https://data.orchid-project.org/systems/BI-SE.html) | [1] Zhou 2024; _cites Saal 2013_ [doi](https://doi.org/10.1007/s11837-013-0755-4) | Table 3, p. 5, row 63; `ORC-REKUR5QNIQ` |  |
 
 ### Uncertainty budget
 
@@ -81,4 +81,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

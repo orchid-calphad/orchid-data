@@ -54,22 +54,22 @@ Table: Enthalpies of formation, Ga–Pd system (16)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Pd2Ga | [GaPd2](https://data.orchid-project.org/compounds/GaPd2.html) | -77 kJ/mol-atom | 1410 | experimental | -62.272 (mp-aaaaactx) | -61.947 (oqmd-18584) | [1] Gröbner 1999; _cites El 1992_ [doi](https://doi.org/10.1007/bf02654034) | Table 1, p. 2, row 28 |  |
-| Pd2Ga | [GaPd2](https://data.orchid-project.org/compounds/GaPd2.html) | -67.2 kJ/mol-atom | 298.15 | model | -62.272 (mp-aaaaactx) | -61.947 (oqmd-18584) | [1] Gröbner 1999 | Table 1, p. 2, row 29 |  |
-| Pd2Ga | [GaPd2](https://data.orchid-project.org/compounds/GaPd2.html) | -66 kJ/mol-atom | 298.15 | model | -62.272 (mp-aaaaactx) | -61.947 (oqmd-18584) | [1] Gröbner 1999; _cites F 1988_ | Table 1, p. 2, row 30 |  |
-| Pd3Ga(b) | [GaPd3](https://data.orchid-project.org/compounds/GaPd3.html) | -59 kJ/mol-atom | 1000 | experimental | -43.858 (mp-aaacpjxe) | -47.778 (oqmd-1338998) | [1] Gröbner 1999; _cites Vogelbein 1981_ [doi](https://doi.org/10.1016/0040-6031%2881%2980036-6) | Table 1, p. 2, row 31 |  |
-| Pd3Ga(b) | [GaPd3](https://data.orchid-project.org/compounds/GaPd3.html) | -50.3 kJ/mol-atom | 298.15 | model | -43.858 (mp-aaacpjxe) | -47.778 (oqmd-1338998) | [1] Gröbner 1999 | Table 1, p. 2, row 32 |  |
-| Pd3Ga7 | [Ga7Pd3](https://data.orchid-project.org/compounds/Ga7Pd3.html) | -61.4 kJ/mol-atom | 298.15 | model | -42.994 (mp-aaackynp) | -42.648 (oqmd-22139) | [1] Gröbner 1999 | Table 1, p. 2, row 39 |  |
-| Pd3Ga7 | [Ga7Pd3](https://data.orchid-project.org/compounds/Ga7Pd3.html) | -60 kJ/mol-atom | 298.15 | model | -42.994 (mp-aaackynp) | -42.648 (oqmd-22139) | [1] Gröbner 1999; _cites F 1988_ | Table 1, p. 2, row 38 |  |
-| Pd5Ga3 | [Ga3Pd5](https://data.orchid-project.org/compounds/Ga3Pd5.html) | -73.2 kJ/mol-atom | 298.15 | model | -61.425 (mp-aaaaadoq) | -61.425 (oqmd-30321) | [1] Gröbner 1999 | Table 1, p. 2, row 34 |  |
-| Pd5Ga3 | [Ga3Pd5](https://data.orchid-project.org/compounds/Ga3Pd5.html) | -72 kJ/mol-atom | 298.15 | model | -61.425 (mp-aaaaadoq) | -61.425 (oqmd-30321) | [1] Gröbner 1999; _cites F 1988_ | Table 1, p. 2, row 33 |  |
-| PdGa | [GaPd](https://data.orchid-project.org/compounds/GaPd.html) | -79.4 kJ/mol-atom | 298.15 | model | -63.934 (mp-aaacjjlu) | -63.587 (oqmd-23801) | [1] Gröbner 1999 | Table 1, p. 2, row 36 |  |
-| PdGa | [GaPd](https://data.orchid-project.org/compounds/GaPd.html) | -79 kJ/mol-atom | 298.15 | model | -63.934 (mp-aaacjjlu) | -63.587 (oqmd-23801) | [1] Gröbner 1999; _cites F 1988_ | Table 1, p. 2, row 37 |  |
-| PdGa | [GaPd](https://data.orchid-project.org/compounds/GaPd.html) | -72 kJ/mol-atom | 320 | experimental | -63.934 (mp-aaacjjlu) | -63.587 (oqmd-23801) | [1] Gröbner 1999; _cites Pratt 1971_ | Table 1, p. 2, row 35 |  |
-| PdGa5 | [Ga5Pd](https://data.orchid-project.org/compounds/Ga5Pd.html) | -39.8 kJ/mol-atom | 298.15 | model | -24.79 (mp-aaaabtjg) | -24.149 (oqmd-17279) | [1] Gröbner 1999 | Table 1, p. 2, row 41 |  |
-| PdGa5 | [Ga5Pd](https://data.orchid-project.org/compounds/Ga5Pd.html) | -33 kJ/mol-atom | 298.15 | model | -24.79 (mp-aaaabtjg) | -24.149 (oqmd-17279) | [1] Gröbner 1999; _cites F 1988_ | Table 1, p. 2, row 40 |  |
-| Pg3Ga(b) |  | -59 kJ/mol-atom | 1000 | experimental |  |  | [1] Gröbner 1999; _cites Vogelbein 1981_ [doi](https://doi.org/10.1016/0040-6031%2881%2980036-6) | Table 1, p. 2, row 31 |  |
-| Pg3Ga(b) |  | -50.3 kJ/mol-atom | 298.15 | model |  |  | [1] Gröbner 1999 | Table 1, p. 2, row 32 |  |
+| Pd2Ga | [GaPd2](https://data.orchid-project.org/compounds/GaPd2.html) | -77 kJ/mol-atom | 1410 | experimental | -62.272 (mp-aaaaactx) | -61.947 (oqmd-18584) | [1] Gröbner 1999; _cites El 1992_ [doi](https://doi.org/10.1007/bf02654034) | Table 1, p. 2, row 28; `ORC-ZACCS6JOUC` |  |
+| Pd2Ga | [GaPd2](https://data.orchid-project.org/compounds/GaPd2.html) | -67.2 kJ/mol-atom | 298.15 | model | -62.272 (mp-aaaaactx) | -61.947 (oqmd-18584) | [1] Gröbner 1999 | Table 1, p. 2, row 29; `ORC-J3X3CPXIT7` |  |
+| Pd2Ga | [GaPd2](https://data.orchid-project.org/compounds/GaPd2.html) | -66 kJ/mol-atom | 298.15 | model | -62.272 (mp-aaaaactx) | -61.947 (oqmd-18584) | [1] Gröbner 1999; _cites F 1988_ | Table 1, p. 2, row 30; `ORC-6KLE74DNFQ` |  |
+| Pd3Ga(b) | [GaPd3](https://data.orchid-project.org/compounds/GaPd3.html) | -59 kJ/mol-atom | 1000 | experimental | -43.858 (mp-aaacpjxe) | -47.778 (oqmd-1338998) | [1] Gröbner 1999; _cites Vogelbein 1981_ [doi](https://doi.org/10.1016/0040-6031%2881%2980036-6) | Table 1, p. 2, row 31; `ORC-SPHFWCNHBJ.6772cd` |  |
+| Pd3Ga(b) | [GaPd3](https://data.orchid-project.org/compounds/GaPd3.html) | -50.3 kJ/mol-atom | 298.15 | model | -43.858 (mp-aaacpjxe) | -47.778 (oqmd-1338998) | [1] Gröbner 1999 | Table 1, p. 2, row 32; `ORC-6EW36DMTGX.c633ba` |  |
+| Pd3Ga7 | [Ga7Pd3](https://data.orchid-project.org/compounds/Ga7Pd3.html) | -61.4 kJ/mol-atom | 298.15 | model | -42.994 (mp-aaackynp) | -42.648 (oqmd-22139) | [1] Gröbner 1999 | Table 1, p. 2, row 39; `ORC-KAFEHW3JD3` |  |
+| Pd3Ga7 | [Ga7Pd3](https://data.orchid-project.org/compounds/Ga7Pd3.html) | -60 kJ/mol-atom | 298.15 | model | -42.994 (mp-aaackynp) | -42.648 (oqmd-22139) | [1] Gröbner 1999; _cites F 1988_ | Table 1, p. 2, row 38; `ORC-MSJ7DYLHTM` |  |
+| Pd5Ga3 | [Ga3Pd5](https://data.orchid-project.org/compounds/Ga3Pd5.html) | -73.2 kJ/mol-atom | 298.15 | model | -61.425 (mp-aaaaadoq) | -61.425 (oqmd-30321) | [1] Gröbner 1999 | Table 1, p. 2, row 34; `ORC-RIKALZ5SXR` |  |
+| Pd5Ga3 | [Ga3Pd5](https://data.orchid-project.org/compounds/Ga3Pd5.html) | -72 kJ/mol-atom | 298.15 | model | -61.425 (mp-aaaaadoq) | -61.425 (oqmd-30321) | [1] Gröbner 1999; _cites F 1988_ | Table 1, p. 2, row 33; `ORC-D4N2SOQMOH` |  |
+| PdGa | [GaPd](https://data.orchid-project.org/compounds/GaPd.html) | -79.4 kJ/mol-atom | 298.15 | model | -63.934 (mp-aaacjjlu) | -63.587 (oqmd-23801) | [1] Gröbner 1999 | Table 1, p. 2, row 36; `ORC-OLPNHKTXYO` |  |
+| PdGa | [GaPd](https://data.orchid-project.org/compounds/GaPd.html) | -79 kJ/mol-atom | 298.15 | model | -63.934 (mp-aaacjjlu) | -63.587 (oqmd-23801) | [1] Gröbner 1999; _cites F 1988_ | Table 1, p. 2, row 37; `ORC-5V52NOTEWR` |  |
+| PdGa | [GaPd](https://data.orchid-project.org/compounds/GaPd.html) | -72 kJ/mol-atom | 320 | experimental | -63.934 (mp-aaacjjlu) | -63.587 (oqmd-23801) | [1] Gröbner 1999; _cites Pratt 1971_ | Table 1, p. 2, row 35; `ORC-3RIQYIC3XA` |  |
+| PdGa5 | [Ga5Pd](https://data.orchid-project.org/compounds/Ga5Pd.html) | -39.8 kJ/mol-atom | 298.15 | model | -24.79 (mp-aaaabtjg) | -24.149 (oqmd-17279) | [1] Gröbner 1999 | Table 1, p. 2, row 41; `ORC-BL4HIGFMXM` |  |
+| PdGa5 | [Ga5Pd](https://data.orchid-project.org/compounds/Ga5Pd.html) | -33 kJ/mol-atom | 298.15 | model | -24.79 (mp-aaaabtjg) | -24.149 (oqmd-17279) | [1] Gröbner 1999; _cites F 1988_ | Table 1, p. 2, row 40; `ORC-IZN2PVGASG` |  |
+| Pg3Ga(b) |  | -59 kJ/mol-atom | 1000 | experimental |  |  | [1] Gröbner 1999; _cites Vogelbein 1981_ [doi](https://doi.org/10.1016/0040-6031%2881%2980036-6) | Table 1, p. 2, row 31; `ORC-SPHFWCNHBJ.5cf5db` |  |
+| Pg3Ga(b) |  | -50.3 kJ/mol-atom | 298.15 | model |  |  | [1] Gröbner 1999 | Table 1, p. 2, row 32; `ORC-6EW36DMTGX.d7822f` |  |
 
 ## Sources
 
@@ -134,4 +134,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

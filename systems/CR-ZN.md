@@ -69,25 +69,25 @@ Table: Invariant reactions reported in the literature for the Cr–Zn system (19
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 761.4 | peritectic: Liquid + bcc-A2 -> CrZn13\* | L: Zn 0.996; bcc-A2: Zn 0; CrZn13: Zn 0.928 | model | [1] Hämäläinen 1998 | Table I, p. 175, row 1 |  |
-| 754 | peritectic: L + bcc_A2 -> CrZn13 | L: Zn 0.9628; bcc_A2: Zn 0; CrZn13: Zn 0.928 | model | [2] Reumont 2003 | Table 2, p. 4, row 1 |  |
-| 753.15 | L + bcc_A2 -> CrZn13 | CrZn13: Zn 0.928571 | experimental | [2] Reumont 2003 | Table 1, p. 3, row 2 |  |
-| 737.15 | peritectic: L + bcc(Cr) → CrZn17 |  | experimental | [3] Su 2010; _cites Chiotti 1960_ | p. 2 | “The invariant temperature of the L + bcc(Cr) → CrZn17 peritectic reaction was reported as 464 ◦ C by Chiotti and Parry \[21\].” |
-| 737.15 | peritectic |  | experimental | [2] Reumont 2003 | p. 1 | “The peritectic transformation of CrZn17 occurs at 464 °C, whereas the temperature of decomposition of CrZn13 is unknown experimentally.” |
-| 737 | peritectic: L + CrZn13 -> CrZn17 | CrZn13: Zn 0.928571; CrZn17: Zn 0.944444 | experimental | [2] Reumont 2003 | Table 2, p. 4, row 3 |  |
-| 737 | L + (Cr) -> CrZn17 | L: Zn 0.988; CrZn17: Zn 0.944444 | experimental | [3] Su 2010; _cites Heumann 1948_ [doi](https://doi.org/10.1515/ijmr-1948-390202) | Table 5, p. 4, row 4 |  |
-| 736.9 | L + (Cr) -> CrZn17 | L: Zn 0.9984; CrZn17: Zn 0.944444 | model | [3] Su 2010 | Table 5, p. 4, row 3 |  |
-| 736.5 | peritectic: Liquid + CrZn13 -> CrZn17 | L: Zn 0.998; CrZn13: Zn 0.928; CrZn17: Zn 0.944 | model | [1] Hämäläinen 1998 | Table I, p. 175, row 2 |  |
-| 736 | peritectic: L + CrZn13 -> CrZn17 | L: Zn 0.9851; CrZn13: Zn 0.928; CrZn17: Zn 0.9444 | model | [2] Reumont 2003 | Table 2, p. 4, row 2 |  |
-| 735.15 | L + CrZn13 -> CrZn17 °C | CrZn13: Zn 0.928571; CrZn17: Zn 0.944444 | experimental | [2] Reumont 2003 | Table 1, p. 3, row 1 |  |
-| 692.6 | L -> (hcp(Zn)) + CrZn17 | L: Zn 0.9998; CrZn17: Zn 0.944444 | model | [3] Su 2010 | Table 5, p. 4, row 1 |  |
-| 692.5 | other: Liquid -> CrZn17 + hcp-Zn | L: Zn 0.999; CrZn17: Zn 0.944; hcp-Zn: Zn 0.999 | model | [1] Hämäläinen 1998 | Table I, p. 175, row 3 |  |
-| 691.15 | eutectic |  | experimental | [2] Reumont 2003; _cites Weiss 1942_ | p. 1 | “However, \[1942Wei\] proposed a Guy Reumont and Pierre Perrot, LMPGM, UMR CNRS 8517, Université de Lille I, Villeneuve d'Ascq, France. Contact e-mail: Guy.Reumont@univ-lille1.fr. eutectic temperature at 418 °C and estimated the Cr content in the liquid phase as 0.31 at.% Cr at that temperature.” |
-| 691 | eutectic: L -> CrZn17 + hcp_A3 | L: Zn 0.998; CrZn17: Zn 0.9444; hcp_A3: Zn 0.9999 | model | [2] Reumont 2003 | Table 2, p. 4, row 4 |  |
-| 688.15 | eutectic |  | experimental | [2] Reumont 2003; _cites Heumann 1948_ | p. 1 | “According to \[1948Heu\], at the eutectic temperature (415 °C), the maximum solubility of Cr in solid Zn closepacked hexagonal (cph) solution is very low and was accepted as 0.04 at.% Cr.” |
-| 688.15 | eutectic: L → hcp(Zn) + CrZn17 |  | experimental | [3] Su 2010; _cites Heumann 1948_ | p. 2 | “The eutectic reaction L → hcp(Zn) + CrZn17 occurred at 415 ◦ C according to the results of Heumann \[9\].” |
-| 688 | L -> (hcp(Zn)) + CrZn17 | L: Zn 0.9997; CrZn17: Zn 0.944444 | experimental | [3] Su 2010; _cites Heumann 1948_ [doi](https://doi.org/10.1515/ijmr-1948-390202) | Table 5, p. 4, row 2 |  |
-| 688 | eutectic: L -> CrZn17 + hcp_A3 | CrZn17: Zn 0.944444 | experimental | [2] Reumont 2003 | Table 2, p. 4, row 5 |  |
+| 761.4 | peritectic: Liquid + bcc-A2 -> CrZn13\* | L: Zn 0.996; bcc-A2: Zn 0; CrZn13: Zn 0.928 | model | [1] Hämäläinen 1998 | Table I, p. 175, row 1; `ORC-HNM2QOSD4B` |  |
+| 754 | peritectic: L + bcc_A2 -> CrZn13 | L: Zn 0.9628; bcc_A2: Zn 0; CrZn13: Zn 0.928 | model | [2] Reumont 2003 | Table 2, p. 4, row 1; `ORC-QGAQSBMV5C` |  |
+| 753.15 | L + bcc_A2 -> CrZn13 | CrZn13: Zn 0.928571 | experimental | [2] Reumont 2003 | Table 1, p. 3, row 2; `ORC-STTUF6BGKJ` |  |
+| 737.15 | peritectic: L + bcc(Cr) → CrZn17 |  | experimental | [3] Su 2010; _cites Chiotti 1960_ | p. 2; `ORC-HJNESXWYXJ` | “The invariant temperature of the L + bcc(Cr) → CrZn17 peritectic reaction was reported as 464 ◦ C by Chiotti and Parry \[21\].” |
+| 737.15 | peritectic |  | experimental | [2] Reumont 2003 | p. 1; `ORC-ZYNGIN6724` | “The peritectic transformation of CrZn17 occurs at 464 °C, whereas the temperature of decomposition of CrZn13 is unknown experimentally.” |
+| 737 | peritectic: L + CrZn13 -> CrZn17 | CrZn13: Zn 0.928571; CrZn17: Zn 0.944444 | experimental | [2] Reumont 2003 | Table 2, p. 4, row 3; `ORC-B6FLASPY5Z` |  |
+| 737 | L + (Cr) -> CrZn17 | L: Zn 0.988; CrZn17: Zn 0.944444 | experimental | [3] Su 2010; _cites Heumann 1948_ [doi](https://doi.org/10.1515/ijmr-1948-390202) | Table 5, p. 4, row 4; `ORC-RH6TMP7HWC` |  |
+| 736.9 | L + (Cr) -> CrZn17 | L: Zn 0.9984; CrZn17: Zn 0.944444 | model | [3] Su 2010 | Table 5, p. 4, row 3; `ORC-LANXO5ETPQ` |  |
+| 736.5 | peritectic: Liquid + CrZn13 -> CrZn17 | L: Zn 0.998; CrZn13: Zn 0.928; CrZn17: Zn 0.944 | model | [1] Hämäläinen 1998 | Table I, p. 175, row 2; `ORC-E4LURU5Y2W` |  |
+| 736 | peritectic: L + CrZn13 -> CrZn17 | L: Zn 0.9851; CrZn13: Zn 0.928; CrZn17: Zn 0.9444 | model | [2] Reumont 2003 | Table 2, p. 4, row 2; `ORC-5CBBHD4YKF` |  |
+| 735.15 | L + CrZn13 -> CrZn17 °C | CrZn13: Zn 0.928571; CrZn17: Zn 0.944444 | experimental | [2] Reumont 2003 | Table 1, p. 3, row 1; `ORC-OIXI6GTVOU` |  |
+| 692.6 | L -> (hcp(Zn)) + CrZn17 | L: Zn 0.9998; CrZn17: Zn 0.944444 | model | [3] Su 2010 | Table 5, p. 4, row 1; `ORC-X3VJLPDROG` |  |
+| 692.5 | other: Liquid -> CrZn17 + hcp-Zn | L: Zn 0.999; CrZn17: Zn 0.944; hcp-Zn: Zn 0.999 | model | [1] Hämäläinen 1998 | Table I, p. 175, row 3; `ORC-LQ33ZVT4J7` |  |
+| 691.15 | eutectic |  | experimental | [2] Reumont 2003; _cites Weiss 1942_ | p. 1; `ORC-IK4C2VYEKP` | “However, \[1942Wei\] proposed a Guy Reumont and Pierre Perrot, LMPGM, UMR CNRS 8517, Université de Lille I, Villeneuve d'Ascq, France. Contact e-mail: Guy.Reumont@univ-lille1.fr. eutectic temperature at 418 °C and estimated the Cr content in the liquid phase as 0.31 at.% Cr at that temperature.” |
+| 691 | eutectic: L -> CrZn17 + hcp_A3 | L: Zn 0.998; CrZn17: Zn 0.9444; hcp_A3: Zn 0.9999 | model | [2] Reumont 2003 | Table 2, p. 4, row 4; `ORC-XMJGBQJC26` |  |
+| 688.15 | eutectic |  | experimental | [2] Reumont 2003; _cites Heumann 1948_ | p. 1; `ORC-6M3NRRHNCB` | “According to \[1948Heu\], at the eutectic temperature (415 °C), the maximum solubility of Cr in solid Zn closepacked hexagonal (cph) solution is very low and was accepted as 0.04 at.% Cr.” |
+| 688.15 | eutectic: L → hcp(Zn) + CrZn17 |  | experimental | [3] Su 2010; _cites Heumann 1948_ | p. 2; `ORC-FWTFDR2MT7` | “The eutectic reaction L → hcp(Zn) + CrZn17 occurred at 415 ◦ C according to the results of Heumann \[9\].” |
+| 688 | L -> (hcp(Zn)) + CrZn17 | L: Zn 0.9997; CrZn17: Zn 0.944444 | experimental | [3] Su 2010; _cites Heumann 1948_ [doi](https://doi.org/10.1515/ijmr-1948-390202) | Table 5, p. 4, row 2; `ORC-FYI4SZOQTY` |  |
+| 688 | eutectic: L -> CrZn17 + hcp_A3 | CrZn17: Zn 0.944444 | experimental | [2] Reumont 2003 | Table 2, p. 4, row 5; `ORC-WM2A2XN6Q6` |  |
 
 ## Other properties
 
@@ -97,8 +97,8 @@ Table: Phase transition, Cr–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 723.15 K | 723.15 | Solubility in the liquid phase; _L: Zn 0.99_ | experimental | [2] Reumont 2003 | Table 1, p. 3, row 4 |  |
-| Phase transition | 733.15 K | 733.15 | Solubility in the liquid phase; _L: Zn 0.987_ | experimental | [2] Reumont 2003 | Table 1, p. 3, row 5 |  |
+| Phase transition | 723.15 K | 723.15 | Solubility in the liquid phase; _L: Zn 0.99_ | experimental | [2] Reumont 2003 | Table 1, p. 3, row 4; `ORC-WTOLQMD4WN` |  |
+| Phase transition | 733.15 K | 733.15 | Solubility in the liquid phase; _L: Zn 0.987_ | experimental | [2] Reumont 2003 | Table 1, p. 3, row 5; `ORC-WSTVTQJDLF` |  |
 
 ### Phase equilibrium (8)
 
@@ -106,14 +106,14 @@ Table: Phase equilibrium, Cr–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 653.15 | Zn + CrZn17; _Zn: Cr 0, Zn 1; CrZn17: Cr 0.058, Zn 0.942_ | experimental | [3] Su 2010 | Table 3, p. 3, row 1 |  |
-| Phase composition |  | 703.15 | (Cr) + CrZn17; _(Cr): Cr 0.993, Zn 0.007; CrZn17: Cr 0.063, Zn 0.937_ | experimental | [3] Su 2010 | Table 3, p. 3, row 3 |  |
-| Phase composition |  | 703.15 | Zn + CrZn17; _Zn: Cr 0.009, Zn 0.991; CrZn17: Cr 0.061, Zn 0.939_ | experimental | [3] Su 2010 | Table 3, p. 3, row 2 |  |
-| Phase composition |  | 973.15 | β-Cr + Liquid; _β-Cr: Cr 0.972, Zn 0.028; Liquid: Cr 0.011, Zn 0.989_ | experimental | [3] Su 2010 | Table 2, p. 2, row 1 |  |
-| Phase composition |  | 1073.15 | β-Cr + Liquid; _β-Cr: Cr 0.985, Zn 0.015; Liquid: Cr 0.02, Zn 0.98_ | experimental | [3] Su 2010 | Table 2, p. 2, row 2 |  |
-| Phase composition |  | 1173.15 | β-Cr + Liquid; _β-Cr: Cr 0.992, Zn 0.008; Liquid: Cr 0.018, Zn 0.982_ | experimental | [3] Su 2010 | Table 2, p. 2, row 3 |  |
-| Phase composition |  | 1273.15 | Liquid; _Liquid: Cr 0.04, Zn 0.96_ | experimental | [3] Su 2010 | Table 2, p. 2, row 4 |  |
-| Phase composition |  | 1373.15 | β-Cr + Liquid; _β-Cr: Cr 0.992, Zn 0.008; Liquid: Cr 0.096, Zn 0.904_ | experimental | [3] Su 2010 | Table 2, p. 2, row 5 |  |
+| Phase composition |  | 653.15 | Zn + CrZn17; _Zn: Cr 0, Zn 1; CrZn17: Cr 0.058, Zn 0.942_ | experimental | [3] Su 2010 | Table 3, p. 3, row 1; `ORC-2TDYKXWWQJ` |  |
+| Phase composition |  | 703.15 | (Cr) + CrZn17; _(Cr): Cr 0.993, Zn 0.007; CrZn17: Cr 0.063, Zn 0.937_ | experimental | [3] Su 2010 | Table 3, p. 3, row 3; `ORC-UBWT25FQR2` |  |
+| Phase composition |  | 703.15 | Zn + CrZn17; _Zn: Cr 0.009, Zn 0.991; CrZn17: Cr 0.061, Zn 0.939_ | experimental | [3] Su 2010 | Table 3, p. 3, row 2; `ORC-6RCC6KAJVL` |  |
+| Phase composition |  | 973.15 | β-Cr + Liquid; _β-Cr: Cr 0.972, Zn 0.028; Liquid: Cr 0.011, Zn 0.989_ | experimental | [3] Su 2010 | Table 2, p. 2, row 1; `ORC-PI6VLRPVB6` |  |
+| Phase composition |  | 1073.15 | β-Cr + Liquid; _β-Cr: Cr 0.985, Zn 0.015; Liquid: Cr 0.02, Zn 0.98_ | experimental | [3] Su 2010 | Table 2, p. 2, row 2; `ORC-57BZC3LRZJ` |  |
+| Phase composition |  | 1173.15 | β-Cr + Liquid; _β-Cr: Cr 0.992, Zn 0.008; Liquid: Cr 0.018, Zn 0.982_ | experimental | [3] Su 2010 | Table 2, p. 2, row 3; `ORC-NBRHLYBOBJ` |  |
+| Phase composition |  | 1273.15 | Liquid; _Liquid: Cr 0.04, Zn 0.96_ | experimental | [3] Su 2010 | Table 2, p. 2, row 4; `ORC-QZQLFUKZWV` |  |
+| Phase composition |  | 1373.15 | β-Cr + Liquid; _β-Cr: Cr 0.992, Zn 0.008; Liquid: Cr 0.096, Zn 0.904_ | experimental | [3] Su 2010 | Table 2, p. 2, row 5; `ORC-RM6EEKSTWQ` |  |
 
 ## Sources
 
@@ -180,4 +180,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

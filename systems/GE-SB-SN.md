@@ -27,14 +27,14 @@ Table: Invariant reactions reported in the literature for the Ge–Sb–Sn syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 692 | Liq. + rhom -> SbSn + diamond |  | experimental | [1] Liu 2011; _cites Dichi 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901489-4) | Table 3, p. 6, row 2 |  |
-| 692 | quasi-peritectic: Liq. + rhom -> SbSn + diamond | L: Ge 0.0219, Sb 0.4898, Sn 0.4883 | model | [1] Liu 2011 | Table 3, p. 6, row 1 |  |
-| 594 | Liq. + SbSn -> Sb2Sn3 + diamond |  | experimental | [1] Liu 2011; _cites Dichi 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901489-4) | Table 3, p. 6, row 4 |  |
-| 594 | quasi-peritectic: Liq. + SbSn -> Sb2Sn3 + diamond | L: Ge 0.0057, Sb 0.2054, Sn 0.7889 | model | [1] Liu 2011 | Table 3, p. 6, row 3 |  |
-| 518 | Liq. + Sb2Sn3 -> bct + diamond |  | experimental | [1] Liu 2011; _cites Dichi 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901489-4) | Table 3, p. 6, row 6 |  |
-| 518 | quasi-peritectic: Liq. + Sb2Sn3 -> bct + diamond | L: Ge 0.0821, Sb 0.0089, Sn 0.909 | model | [1] Liu 2011 | Table 3, p. 6, row 5 |  |
-| 516 | Sb2Sn3 -> bct + diamond + SbSn |  | experimental | [1] Liu 2011; _cites Dichi 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901489-4) | Table 3, p. 6, row 8 |  |
-| 516 | eutectic: Sb2Sn3 -> bct + diamond + SbSn |  | model | [1] Liu 2011 | Table 3, p. 6, row 7 |  |
+| 692 | Liq. + rhom -> SbSn + diamond |  | experimental | [1] Liu 2011; _cites Dichi 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901489-4) | Table 3, p. 6, row 2; `ORC-JQ67DWK4YH` |  |
+| 692 | quasi-peritectic: Liq. + rhom -> SbSn + diamond | L: Ge 0.0219, Sb 0.4898, Sn 0.4883 | model | [1] Liu 2011 | Table 3, p. 6, row 1; `ORC-S4PXZ2YMHQ` |  |
+| 594 | Liq. + SbSn -> Sb2Sn3 + diamond |  | experimental | [1] Liu 2011; _cites Dichi 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901489-4) | Table 3, p. 6, row 4; `ORC-GSD6BVM4K5` |  |
+| 594 | quasi-peritectic: Liq. + SbSn -> Sb2Sn3 + diamond | L: Ge 0.0057, Sb 0.2054, Sn 0.7889 | model | [1] Liu 2011 | Table 3, p. 6, row 3; `ORC-WCQLJ4XWOW` |  |
+| 518 | Liq. + Sb2Sn3 -> bct + diamond |  | experimental | [1] Liu 2011; _cites Dichi 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901489-4) | Table 3, p. 6, row 6; `ORC-AFIRIXQ2BY` |  |
+| 518 | quasi-peritectic: Liq. + Sb2Sn3 -> bct + diamond | L: Ge 0.0821, Sb 0.0089, Sn 0.909 | model | [1] Liu 2011 | Table 3, p. 6, row 5; `ORC-G5A44SMMT2` |  |
+| 516 | Sb2Sn3 -> bct + diamond + SbSn |  | experimental | [1] Liu 2011; _cites Dichi 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901489-4) | Table 3, p. 6, row 8; `ORC-IV7QSONWA6` |  |
+| 516 | eutectic: Sb2Sn3 -> bct + diamond + SbSn |  | model | [1] Liu 2011 | Table 3, p. 6, row 7; `ORC-V7IIHEYQTV` |  |
 
 ## Sources
 
@@ -77,4 +77,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

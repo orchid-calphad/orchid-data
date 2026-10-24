@@ -74,39 +74,39 @@ Table: Invariant reactions reported in the literature for the Ge–V system (33)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2235.15 | congruent melting: L -> V5Ge3 | L: Ge 0.375; V5Ge3: Ge 0.375 | model | [1] Wang 2008 | Table 4, p. 4, row 10 |  |
-| 2204.15 | L -> V5Ge3 | L: Ge 0.375; V5Ge3: Ge 0.375 | model | [2] Yuan 2011 | Table 6, p. 5, row 7 |  |
-| 2203.15 | L -> V5Ge3 | L: Ge 0.375; V5Ge3: Ge 0.375 | experimental | [2] Yuan 2011; _cites Savitskii 1974_ | Table 6, p. 5, row 8 |  |
-| 2203.15 | congruent melting: L -> V5Ge3 | L: Ge 0.375; V5Ge3: Ge 0.375 | experimental | [1] Wang 2008; _cites Smith 1989_ | Table 4, p. 4, row 9 |  |
-| 2193.15 | congruent melting: L -> V3Ge | L: Ge 0.25; V3Ge: Ge 0.25 | model | [1] Wang 2008 | Table 4, p. 4, row 6 |  |
-| 2193.15 | L -> V3Ge | L: Ge 0.25; V3Ge: Ge 0.25 | model | [2] Yuan 2011 | Table 6, p. 5, row 3 |  |
-| 2193.15 | L -> V3Ge | L: Ge 0.25; V3Ge: Ge 0.25 | experimental | [2] Yuan 2011; _cites Waterstrat 1980_ | Table 6, p. 5, row 4 |  |
-| 2193.15 | congruent melting: L -> V3Ge | L: Ge 0.25; V3Ge: Ge 0.25 | experimental | [1] Wang 2008; _cites Smith 1989_ | Table 4, p. 4, row 5 |  |
-| 2183.15 | congruent melting: L -> (V) | L: Ge 0; (V): Ge 0 | model | [1] Wang 2008 | Table 4, p. 4, row 2 |  |
-| 2183.15 | congruent melting: L -> (V) | L: Ge 0; (V): Ge 0 | experimental | [1] Wang 2008; _cites Smith 1989_ | Table 4, p. 4, row 1 |  |
-| 2167.15 | L -> V3Ge + V5Ge3 | L: Ge 0.306; V3Ge: Ge 0.25; V5Ge3: Ge 0.375 | model | [2] Yuan 2011 | Table 6, p. 5, row 5 |  |
-| 2164.15 | eutectic: L -> V5Ge3 + V3Ge | L: Ge 0.301; V5Ge3: Ge 0.375; V3Ge: Ge 0.25 | model | [1] Wang 2008 | Table 4, p. 4, row 8 |  |
-| 2149.15 | L -> V3Ge + V5Ge3 | L: Ge 0.307; V3Ge: Ge 0.25; V5Ge3: Ge 0.375 | experimental | [2] Yuan 2011; _cites Svechnikov 1974_ | Table 6, p. 5, row 6 |  |
-| 2073.15 | eutectic: L -> V5Ge3 + V3Ge | V5Ge3: Ge 0.375; V3Ge: Ge 0.25 | experimental | [1] Wang 2008; _cites Smith 1989_ | Table 4, p. 4, row 7 |  |
-| 2042.15 | L -> (V) + V3Ge | L: Ge 0.102; (V): Ge 0.043; V3Ge: Ge 0.25 | model | [2] Yuan 2011 | Table 6, p. 5, row 1 |  |
-| 2036.15 | eutectic: L -> V3Ge + (V) | L: Ge 0.133; V3Ge: Ge 0.25; (V): Ge 0.047 | model | [1] Wang 2008 | Table 4, p. 4, row 4 |  |
-| 2033.15 | eutectic: L -> V3Ge + (V) | L: Ge 0.16; V3Ge: Ge 0.25; (V): Ge 0.045 | experimental | [1] Wang 2008; _cites Smith 1989_ | Table 4, p. 4, row 3 |  |
-| 2032.15 | L -> (V) + V3Ge | L: Ge 0.14; (V): Ge 0.045; V3Ge: Ge 0.25 | experimental | [2] Yuan 2011; _cites Svechnikov 1974_ | Table 6, p. 5, row 2 |  |
-| 1952.15 | peritectic: liquid + V5 Ge3 ↔ V11 Ge8 |  | experimental | [2] Yuan 2011; _cites Svechnikov 1974_ | p. 5 | “The calculated peritectic temperature of liquid + V5 Ge3 ↔ V11 Ge8 is at 1622 ◦ C, which is higher than 1575 ◦ C \[11\] but lower than 1679 ◦ C \[12\].” |
-| 1895.15 | L + V5Ge3 -> V11Ge8 | L: Ge 0.589; V5Ge3: Ge 0.375; V11Ge8: Ge 0.421 | model | [2] Yuan 2011 | Table 6, p. 5, row 9 |  |
-| 1895.15 | peritectic: liquid + V5 Ge3 ↔ V11 Ge8 |  | model | [2] Yuan 2011 | p. 5 | “The calculated peritectic temperature of liquid + V5 Ge3 ↔ V11 Ge8 is at 1622 ◦ C, which is higher than 1575 ◦ C \[11\] but lower than 1679 ◦ C \[12\].” |
-| 1874.15 | peritectic: L + V5Ge3 -> V11Ge8 | L: Ge 0.541; V5Ge3: Ge 0.375; V11Ge8: Ge 0.421 | model | [1] Wang 2008 | Table 4, p. 4, row 12 |  |
-| 1873.15 | peritectic: L + V5Ge3 -> V11Ge8 | V5Ge3: Ge 0.375; V11Ge8: Ge 0.421 | experimental | [1] Wang 2008; _cites Smith 1989_ | Table 4, p. 4, row 11 |  |
-| 1848.15 | L + V5Ge3 -> V11Ge8 | L: Ge 0.54; V5Ge3: Ge 0.375; V11Ge8: Ge 0.421 | experimental | [2] Yuan 2011; _cites Savitskii 1974_ | Table 6, p. 5, row 10 |  |
-| 1848.15 | peritectic: liquid + V5 Ge3 ↔ V11 Ge8 |  | experimental | [2] Yuan 2011; _cites Savitskii 1974_ | p. 5 | “The calculated peritectic temperature of liquid + V5 Ge3 ↔ V11 Ge8 is at 1622 ◦ C, which is higher than 1575 ◦ C \[11\] but lower than 1679 ◦ C \[12\].” |
-| 1234.25 | L + V11Ge8 -> V17Ge31 | L: Ge 0.962; V11Ge8: Ge 0.421; V17Ge31: Ge 0.646 | model | [2] Yuan 2011 | Table 6, p. 5, row 11 |  |
-| 1233.15 | peritectic: L + V11Ge8 -> V17Ge31 | L: Ge 0.95; V11Ge8: Ge 0.421; V17Ge31: Ge 0.646 | experimental | [1] Wang 2008; _cites Smith 1989_ | Table 4, p. 4, row 13 |  |
-| 1233.15 | L + V11Ge8 -> V17Ge31 | L: Ge 0.958; V11Ge8: Ge 0.421; V17Ge31: Ge 0.646 | experimental | [2] Yuan 2011 | Table 6, p. 5, row 12 |  |
-| 1232.15 | peritectic: L + V11Ge8 -> V17Ge31 | L: Ge 0.961; V11Ge8: Ge 0.421; V17Ge31: Ge 0.646 | model | [1] Wang 2008 | Table 4, p. 4, row 14 |  |
-| 1203.85 | L -> V17Ge31 + Ge | L: Ge 0.971; V17Ge31: Ge 0.646; Ge: Ge 1 | experimental | [2] Yuan 2011 | Table 6, p. 5, row 14 |  |
-| 1203.85 | L -> V17Ge31 + Ge | L: Ge 0.975; V17Ge31: Ge 0.646; Ge: Ge 1 | model | [2] Yuan 2011 | Table 6, p. 5, row 13 |  |
-| 1203.15 | eutectic: L -> (Ge) + V17Ge31 | L: Ge 1; (Ge): Ge 0.98; V17Ge31: Ge 0.646 | experimental | [1] Wang 2008; _cites Smith 1989_ | Table 4, p. 4, row 15 |  |
-| 1201.15 | eutectic: L -> (Ge) + V17Ge31 | L: Ge 1; (Ge): Ge 0.972; V17Ge31: Ge 0.646 | model | [1] Wang 2008 | Table 4, p. 4, row 16 |  |
+| 2235.15 | congruent melting: L -> V5Ge3 | L: Ge 0.375; V5Ge3: Ge 0.375 | model | [1] Wang 2008 | Table 4, p. 4, row 10; `ORC-ABKA5D7VKB` |  |
+| 2204.15 | L -> V5Ge3 | L: Ge 0.375; V5Ge3: Ge 0.375 | model | [2] Yuan 2011 | Table 6, p. 5, row 7; `ORC-GX4A5NX62H` |  |
+| 2203.15 | L -> V5Ge3 | L: Ge 0.375; V5Ge3: Ge 0.375 | experimental | [2] Yuan 2011; _cites Savitskii 1974_ | Table 6, p. 5, row 8; `ORC-2P4RIWB5VG` |  |
+| 2203.15 | congruent melting: L -> V5Ge3 | L: Ge 0.375; V5Ge3: Ge 0.375 | experimental | [1] Wang 2008; _cites Smith 1989_ | Table 4, p. 4, row 9; `ORC-M5CZPNJAOR` |  |
+| 2193.15 | congruent melting: L -> V3Ge | L: Ge 0.25; V3Ge: Ge 0.25 | model | [1] Wang 2008 | Table 4, p. 4, row 6; `ORC-B3WKZ24CNL` |  |
+| 2193.15 | L -> V3Ge | L: Ge 0.25; V3Ge: Ge 0.25 | model | [2] Yuan 2011 | Table 6, p. 5, row 3; `ORC-PUGRED6V2Q` |  |
+| 2193.15 | L -> V3Ge | L: Ge 0.25; V3Ge: Ge 0.25 | experimental | [2] Yuan 2011; _cites Waterstrat 1980_ | Table 6, p. 5, row 4; `ORC-RBTO55XDPE` |  |
+| 2193.15 | congruent melting: L -> V3Ge | L: Ge 0.25; V3Ge: Ge 0.25 | experimental | [1] Wang 2008; _cites Smith 1989_ | Table 4, p. 4, row 5; `ORC-WIWMPOXP3V` |  |
+| 2183.15 | congruent melting: L -> (V) | L: Ge 0; (V): Ge 0 | model | [1] Wang 2008 | Table 4, p. 4, row 2; `ORC-IMHIQNP7VD` |  |
+| 2183.15 | congruent melting: L -> (V) | L: Ge 0; (V): Ge 0 | experimental | [1] Wang 2008; _cites Smith 1989_ | Table 4, p. 4, row 1; `ORC-SPM3GCWPOM` |  |
+| 2167.15 | L -> V3Ge + V5Ge3 | L: Ge 0.306; V3Ge: Ge 0.25; V5Ge3: Ge 0.375 | model | [2] Yuan 2011 | Table 6, p. 5, row 5; `ORC-TWA6AJA4IX` |  |
+| 2164.15 | eutectic: L -> V5Ge3 + V3Ge | L: Ge 0.301; V5Ge3: Ge 0.375; V3Ge: Ge 0.25 | model | [1] Wang 2008 | Table 4, p. 4, row 8; `ORC-TDEBGEGSLQ` |  |
+| 2149.15 | L -> V3Ge + V5Ge3 | L: Ge 0.307; V3Ge: Ge 0.25; V5Ge3: Ge 0.375 | experimental | [2] Yuan 2011; _cites Svechnikov 1974_ | Table 6, p. 5, row 6; `ORC-566RASIEHA` |  |
+| 2073.15 | eutectic: L -> V5Ge3 + V3Ge | V5Ge3: Ge 0.375; V3Ge: Ge 0.25 | experimental | [1] Wang 2008; _cites Smith 1989_ | Table 4, p. 4, row 7; `ORC-AOWMYROH5Q` |  |
+| 2042.15 | L -> (V) + V3Ge | L: Ge 0.102; (V): Ge 0.043; V3Ge: Ge 0.25 | model | [2] Yuan 2011 | Table 6, p. 5, row 1; `ORC-HJBY7D7SN4` |  |
+| 2036.15 | eutectic: L -> V3Ge + (V) | L: Ge 0.133; V3Ge: Ge 0.25; (V): Ge 0.047 | model | [1] Wang 2008 | Table 4, p. 4, row 4; `ORC-6VANJZ4IHP` |  |
+| 2033.15 | eutectic: L -> V3Ge + (V) | L: Ge 0.16; V3Ge: Ge 0.25; (V): Ge 0.045 | experimental | [1] Wang 2008; _cites Smith 1989_ | Table 4, p. 4, row 3; `ORC-SBPXCLXCVW` |  |
+| 2032.15 | L -> (V) + V3Ge | L: Ge 0.14; (V): Ge 0.045; V3Ge: Ge 0.25 | experimental | [2] Yuan 2011; _cites Svechnikov 1974_ | Table 6, p. 5, row 2; `ORC-IT4FKW5WSE` |  |
+| 1952.15 | peritectic: liquid + V5 Ge3 ↔ V11 Ge8 |  | experimental | [2] Yuan 2011; _cites Svechnikov 1974_ | p. 5; `ORC-MTWO6NG7TU.c5188a` | “The calculated peritectic temperature of liquid + V5 Ge3 ↔ V11 Ge8 is at 1622 ◦ C, which is higher than 1575 ◦ C \[11\] but lower than 1679 ◦ C \[12\].” |
+| 1895.15 | L + V5Ge3 -> V11Ge8 | L: Ge 0.589; V5Ge3: Ge 0.375; V11Ge8: Ge 0.421 | model | [2] Yuan 2011 | Table 6, p. 5, row 9; `ORC-F2QSHZPZV5` |  |
+| 1895.15 | peritectic: liquid + V5 Ge3 ↔ V11 Ge8 |  | model | [2] Yuan 2011 | p. 5; `ORC-MTWO6NG7TU.f25019` | “The calculated peritectic temperature of liquid + V5 Ge3 ↔ V11 Ge8 is at 1622 ◦ C, which is higher than 1575 ◦ C \[11\] but lower than 1679 ◦ C \[12\].” |
+| 1874.15 | peritectic: L + V5Ge3 -> V11Ge8 | L: Ge 0.541; V5Ge3: Ge 0.375; V11Ge8: Ge 0.421 | model | [1] Wang 2008 | Table 4, p. 4, row 12; `ORC-MQULZF6ROQ` |  |
+| 1873.15 | peritectic: L + V5Ge3 -> V11Ge8 | V5Ge3: Ge 0.375; V11Ge8: Ge 0.421 | experimental | [1] Wang 2008; _cites Smith 1989_ | Table 4, p. 4, row 11; `ORC-D4O67NC3SK` |  |
+| 1848.15 | L + V5Ge3 -> V11Ge8 | L: Ge 0.54; V5Ge3: Ge 0.375; V11Ge8: Ge 0.421 | experimental | [2] Yuan 2011; _cites Savitskii 1974_ | Table 6, p. 5, row 10; `ORC-FBHAXAC54M` |  |
+| 1848.15 | peritectic: liquid + V5 Ge3 ↔ V11 Ge8 |  | experimental | [2] Yuan 2011; _cites Savitskii 1974_ | p. 5; `ORC-MTWO6NG7TU.dd8c8f` | “The calculated peritectic temperature of liquid + V5 Ge3 ↔ V11 Ge8 is at 1622 ◦ C, which is higher than 1575 ◦ C \[11\] but lower than 1679 ◦ C \[12\].” |
+| 1234.25 | L + V11Ge8 -> V17Ge31 | L: Ge 0.962; V11Ge8: Ge 0.421; V17Ge31: Ge 0.646 | model | [2] Yuan 2011 | Table 6, p. 5, row 11; `ORC-T4WKYNLR54` |  |
+| 1233.15 | peritectic: L + V11Ge8 -> V17Ge31 | L: Ge 0.95; V11Ge8: Ge 0.421; V17Ge31: Ge 0.646 | experimental | [1] Wang 2008; _cites Smith 1989_ | Table 4, p. 4, row 13; `ORC-IHUHOGD6ZS` |  |
+| 1233.15 | L + V11Ge8 -> V17Ge31 | L: Ge 0.958; V11Ge8: Ge 0.421; V17Ge31: Ge 0.646 | experimental | [2] Yuan 2011 | Table 6, p. 5, row 12; `ORC-ZJQYHFCL2V` |  |
+| 1232.15 | peritectic: L + V11Ge8 -> V17Ge31 | L: Ge 0.961; V11Ge8: Ge 0.421; V17Ge31: Ge 0.646 | model | [1] Wang 2008 | Table 4, p. 4, row 14; `ORC-7SEMA33YXJ` |  |
+| 1203.85 | L -> V17Ge31 + Ge | L: Ge 0.971; V17Ge31: Ge 0.646; Ge: Ge 1 | experimental | [2] Yuan 2011 | Table 6, p. 5, row 14; `ORC-BCG7XNNL3P` |  |
+| 1203.85 | L -> V17Ge31 + Ge | L: Ge 0.975; V17Ge31: Ge 0.646; Ge: Ge 1 | model | [2] Yuan 2011 | Table 6, p. 5, row 13; `ORC-Q2SANKX2CC` |  |
+| 1203.15 | eutectic: L -> (Ge) + V17Ge31 | L: Ge 1; (Ge): Ge 0.98; V17Ge31: Ge 0.646 | experimental | [1] Wang 2008; _cites Smith 1989_ | Table 4, p. 4, row 15; `ORC-RRDRRVWNJU` |  |
+| 1201.15 | eutectic: L -> (Ge) + V17Ge31 | L: Ge 1; (Ge): Ge 0.972; V17Ge31: Ge 0.646 | model | [1] Wang 2008 | Table 4, p. 4, row 16; `ORC-66FJXAOBHH` |  |
 
 ## Formation enthalpies
 
@@ -116,30 +116,30 @@ Table: Enthalpies of formation, Ge–V system (24)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| V11Ge8 | [Ge8V11](https://data.orchid-project.org/compounds/Ge8V11.html) | -51.6 kJ/mol-atom | 1301.15 | experimental | -33.7 (mp-aaacqgbd) |  | [2] Yuan 2011; _cites Conclusions_ | Table 3, p. 2, row 5 |  |
-| V11Ge8 | [Ge8V11](https://data.orchid-project.org/compounds/Ge8V11.html) | -46.6 kJ/mol-atom | 1073.15 | experimental | -33.7 (mp-aaacqgbd) |  | [2] Yuan 2011; _cites Eremenko 1976_ | Table 3, p. 2, row 9 |  |
-| V11Ge8 | [Ge8V11](https://data.orchid-project.org/compounds/Ge8V11.html) | -46.5 kJ/mol-atom | 298.15 | model | -33.7 (mp-aaacqgbd) |  | [2] Yuan 2011; _cites Wang 2008_ [doi](https://doi.org/10.1016/j.intermet.2008.01.002) | Table 3, p. 2, row 17 |  |
-| V11Ge8 | [Ge8V11](https://data.orchid-project.org/compounds/Ge8V11.html) | -46.1 kJ/mol-atom | 298.15 | model | -33.7 (mp-aaacqgbd) |  | [2] Yuan 2011 | Table 3, p. 2, row 21 |  |
-| V11Ge8 | [Ge8V11](https://data.orchid-project.org/compounds/Ge8V11.html) | -45.5 kJ/mol-atom |  | unspecified | -33.7 (mp-aaacqgbd) |  | [2] Yuan 2011 | Table 3, p. 2, row 23 |  |
-| V11Ge8 | [Ge8V11](https://data.orchid-project.org/compounds/Ge8V11.html) | -45.5 kJ/mol-atom | 298.15 | experimental | -33.7 (mp-aaacqgbd) |  | [2] Yuan 2011; _cites Zarembo 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900801-4) | Table 3, p. 2, row 3 |  |
-| V11Ge8 | [Ge8V11](https://data.orchid-project.org/compounds/Ge8V11.html) | -39.9 kJ/mol-atom | 298.15 | model | -33.7 (mp-aaacqgbd) |  | [2] Yuan 2011; _cites Smith 1981_ [doi](https://doi.org/10.1007/bf02881480) | Table 3, p. 2, row 13 |  |
-| V17Ge31 | [Ge31V17](https://data.orchid-project.org/compounds/Ge31V17.html) | -35 kJ/mol-atom | 298.15 | model | -19.309 (mp-aaabmsmp) |  | [2] Yuan 2011 | Table 3, p. 2, row 22 |  |
-| V17Ge31 | [Ge31V17](https://data.orchid-project.org/compounds/Ge31V17.html) | -35 kJ/mol-atom |  | unspecified | -19.309 (mp-aaabmsmp) |  | [2] Yuan 2011 | Table 3, p. 2, row 23 |  |
-| V17Ge31 | [Ge31V17](https://data.orchid-project.org/compounds/Ge31V17.html) | -35 kJ/mol-atom | 298.15 | experimental | -19.309 (mp-aaabmsmp) |  | [2] Yuan 2011; _cites Zarembo 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900801-4) | Table 3, p. 2, row 4 |  |
-| V17Ge31 | [Ge31V17](https://data.orchid-project.org/compounds/Ge31V17.html) | -32.4 kJ/mol-atom | 298.15 | model | -19.309 (mp-aaabmsmp) |  | [2] Yuan 2011; _cites Wang 2008_ [doi](https://doi.org/10.1016/j.intermet.2008.01.002) | Table 3, p. 2, row 18 |  |
-| V17Ge31 | [Ge31V17](https://data.orchid-project.org/compounds/Ge31V17.html) | -26.8 kJ/mol-atom | 1073.15 | experimental | -19.309 (mp-aaabmsmp) |  | [2] Yuan 2011; _cites Eremenko 1976_ | Table 3, p. 2, row 10 |  |
-| V17Ge31 | [Ge31V17](https://data.orchid-project.org/compounds/Ge31V17.html) | -26.2 kJ/mol-atom | 298.15 | model | -19.309 (mp-aaabmsmp) |  | [2] Yuan 2011; _cites Smith 1981_ [doi](https://doi.org/10.1007/bf02881480) | Table 3, p. 2, row 14 |  |
-| V3Ge | [GeV3](https://data.orchid-project.org/compounds/GeV3.html) | -44.8 kJ/mol-atom | 1073.15 | experimental | -32.325 (mp-aaaaabuz) | -32.616 (oqmd-3829) | [2] Yuan 2011; _cites Eremenko 1976_ | Table 3, p. 2, row 7 |  |
-| V3Ge | [GeV3](https://data.orchid-project.org/compounds/GeV3.html) | -36 kJ/mol-atom | 298.15 | model | -32.325 (mp-aaaaabuz) | -32.616 (oqmd-3829) | [2] Yuan 2011 | Table 3, p. 2, row 19 |  |
-| V3Ge | [GeV3](https://data.orchid-project.org/compounds/GeV3.html) | -35.3 kJ/mol-atom | 298.15 | model | -32.325 (mp-aaaaabuz) | -32.616 (oqmd-3829) | [2] Yuan 2011; _cites Smith 1981_ [doi](https://doi.org/10.1007/bf02881480) | Table 3, p. 2, row 11 |  |
-| V3Ge | [GeV3](https://data.orchid-project.org/compounds/GeV3.html) | -35.1 kJ/mol-atom | 298.15 | model | -32.325 (mp-aaaaabuz) | -32.616 (oqmd-3829) | [2] Yuan 2011; _cites Wang 2008_ [doi](https://doi.org/10.1016/j.intermet.2008.01.002) | Table 3, p. 2, row 15 |  |
-| V5Ge3 | [Ge3V5](https://data.orchid-project.org/compounds/Ge3V5.html) | -47.7 kJ/mol-atom | 1073.15 | experimental | -35.723 (mp-aaackxaz) | -28.796 (oqmd-8433) | [2] Yuan 2011; _cites Eremenko 1976_ | Table 3, p. 2, row 8 |  |
-| V5Ge3 | [Ge3V5](https://data.orchid-project.org/compounds/Ge3V5.html) | -45.9 kJ/mol-atom | 298.15 | experimental | -35.723 (mp-aaackxaz) | -28.796 (oqmd-8433) | [2] Yuan 2011; _cites Zarembo 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900801-4) | Table 3, p. 2, row 2 |  |
-| V5Ge3 | [Ge3V5](https://data.orchid-project.org/compounds/Ge3V5.html) | -45.9 kJ/mol-atom |  | unspecified | -35.723 (mp-aaackxaz) | -28.796 (oqmd-8433) | [2] Yuan 2011 | Table 3, p. 2, row 23 |  |
-| V5Ge3 | [Ge3V5](https://data.orchid-project.org/compounds/Ge3V5.html) | -45.1 kJ/mol-atom | 298.15 | model | -35.723 (mp-aaackxaz) | -28.796 (oqmd-8433) | [2] Yuan 2011; _cites Wang 2008_ [doi](https://doi.org/10.1016/j.intermet.2008.01.002) | Table 3, p. 2, row 16 |  |
-| V5Ge3 | [Ge3V5](https://data.orchid-project.org/compounds/Ge3V5.html) | -44.3 kJ/mol-atom | 298.15 | experimental | -35.723 (mp-aaackxaz) | -28.796 (oqmd-8433) | [2] Yuan 2011; _cites Kleppa 1990_ | Table 3, p. 2, row 6 |  |
-| V5Ge3 | [Ge3V5](https://data.orchid-project.org/compounds/Ge3V5.html) | -43.8 kJ/mol-atom | 298.15 | model | -35.723 (mp-aaackxaz) | -28.796 (oqmd-8433) | [2] Yuan 2011 | Table 3, p. 2, row 20 |  |
-| V5Ge3 | [Ge3V5](https://data.orchid-project.org/compounds/Ge3V5.html) | -41.5 kJ/mol-atom | 298.15 | model | -35.723 (mp-aaackxaz) | -28.796 (oqmd-8433) | [2] Yuan 2011; _cites Smith 1981_ [doi](https://doi.org/10.1007/bf02881480) | Table 3, p. 2, row 12 |  |
+| V11Ge8 | [Ge8V11](https://data.orchid-project.org/compounds/Ge8V11.html) | -51.6 kJ/mol-atom | 1301.15 | experimental | -33.7 (mp-aaacqgbd) |  | [2] Yuan 2011; _cites Conclusions_ | Table 3, p. 2, row 5; `ORC-DW2ZQX3IHN` |  |
+| V11Ge8 | [Ge8V11](https://data.orchid-project.org/compounds/Ge8V11.html) | -46.6 kJ/mol-atom | 1073.15 | experimental | -33.7 (mp-aaacqgbd) |  | [2] Yuan 2011; _cites Eremenko 1976_ | Table 3, p. 2, row 9; `ORC-2OXHX3KPKI` |  |
+| V11Ge8 | [Ge8V11](https://data.orchid-project.org/compounds/Ge8V11.html) | -46.5 kJ/mol-atom | 298.15 | model | -33.7 (mp-aaacqgbd) |  | [2] Yuan 2011; _cites Wang 2008_ [doi](https://doi.org/10.1016/j.intermet.2008.01.002) | Table 3, p. 2, row 17; `ORC-UAI4ZILOSN` |  |
+| V11Ge8 | [Ge8V11](https://data.orchid-project.org/compounds/Ge8V11.html) | -46.1 kJ/mol-atom | 298.15 | model | -33.7 (mp-aaacqgbd) |  | [2] Yuan 2011 | Table 3, p. 2, row 21; `ORC-6NESEZF3NB` |  |
+| V11Ge8 | [Ge8V11](https://data.orchid-project.org/compounds/Ge8V11.html) | -45.5 kJ/mol-atom |  | unspecified | -33.7 (mp-aaacqgbd) |  | [2] Yuan 2011 | Table 3, p. 2, row 23; `ORC-JEUSHIJ5R3.cebb0a` |  |
+| V11Ge8 | [Ge8V11](https://data.orchid-project.org/compounds/Ge8V11.html) | -45.5 kJ/mol-atom | 298.15 | experimental | -33.7 (mp-aaacqgbd) |  | [2] Yuan 2011; _cites Zarembo 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900801-4) | Table 3, p. 2, row 3; `ORC-RGFJHGFTGC` |  |
+| V11Ge8 | [Ge8V11](https://data.orchid-project.org/compounds/Ge8V11.html) | -39.9 kJ/mol-atom | 298.15 | model | -33.7 (mp-aaacqgbd) |  | [2] Yuan 2011; _cites Smith 1981_ [doi](https://doi.org/10.1007/bf02881480) | Table 3, p. 2, row 13; `ORC-2HJSU66CYN` |  |
+| V17Ge31 | [Ge31V17](https://data.orchid-project.org/compounds/Ge31V17.html) | -35 kJ/mol-atom | 298.15 | model | -19.309 (mp-aaabmsmp) |  | [2] Yuan 2011 | Table 3, p. 2, row 22; `ORC-J7WMXLVHCO` |  |
+| V17Ge31 | [Ge31V17](https://data.orchid-project.org/compounds/Ge31V17.html) | -35 kJ/mol-atom |  | unspecified | -19.309 (mp-aaabmsmp) |  | [2] Yuan 2011 | Table 3, p. 2, row 23; `ORC-JEUSHIJ5R3.bc34d7` |  |
+| V17Ge31 | [Ge31V17](https://data.orchid-project.org/compounds/Ge31V17.html) | -35 kJ/mol-atom | 298.15 | experimental | -19.309 (mp-aaabmsmp) |  | [2] Yuan 2011; _cites Zarembo 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900801-4) | Table 3, p. 2, row 4; `ORC-RIWALJJXRH` |  |
+| V17Ge31 | [Ge31V17](https://data.orchid-project.org/compounds/Ge31V17.html) | -32.4 kJ/mol-atom | 298.15 | model | -19.309 (mp-aaabmsmp) |  | [2] Yuan 2011; _cites Wang 2008_ [doi](https://doi.org/10.1016/j.intermet.2008.01.002) | Table 3, p. 2, row 18; `ORC-OIQXZEYVAK` |  |
+| V17Ge31 | [Ge31V17](https://data.orchid-project.org/compounds/Ge31V17.html) | -26.8 kJ/mol-atom | 1073.15 | experimental | -19.309 (mp-aaabmsmp) |  | [2] Yuan 2011; _cites Eremenko 1976_ | Table 3, p. 2, row 10; `ORC-MLYSOEBYGJ` |  |
+| V17Ge31 | [Ge31V17](https://data.orchid-project.org/compounds/Ge31V17.html) | -26.2 kJ/mol-atom | 298.15 | model | -19.309 (mp-aaabmsmp) |  | [2] Yuan 2011; _cites Smith 1981_ [doi](https://doi.org/10.1007/bf02881480) | Table 3, p. 2, row 14; `ORC-SU6EF7ZVXR` |  |
+| V3Ge | [GeV3](https://data.orchid-project.org/compounds/GeV3.html) | -44.8 kJ/mol-atom | 1073.15 | experimental | -32.325 (mp-aaaaabuz) | -32.616 (oqmd-3829) | [2] Yuan 2011; _cites Eremenko 1976_ | Table 3, p. 2, row 7; `ORC-D53FSTFVNE` |  |
+| V3Ge | [GeV3](https://data.orchid-project.org/compounds/GeV3.html) | -36 kJ/mol-atom | 298.15 | model | -32.325 (mp-aaaaabuz) | -32.616 (oqmd-3829) | [2] Yuan 2011 | Table 3, p. 2, row 19; `ORC-PDYRTLZNWE` |  |
+| V3Ge | [GeV3](https://data.orchid-project.org/compounds/GeV3.html) | -35.3 kJ/mol-atom | 298.15 | model | -32.325 (mp-aaaaabuz) | -32.616 (oqmd-3829) | [2] Yuan 2011; _cites Smith 1981_ [doi](https://doi.org/10.1007/bf02881480) | Table 3, p. 2, row 11; `ORC-66UNN733IT` |  |
+| V3Ge | [GeV3](https://data.orchid-project.org/compounds/GeV3.html) | -35.1 kJ/mol-atom | 298.15 | model | -32.325 (mp-aaaaabuz) | -32.616 (oqmd-3829) | [2] Yuan 2011; _cites Wang 2008_ [doi](https://doi.org/10.1016/j.intermet.2008.01.002) | Table 3, p. 2, row 15; `ORC-FZXIEND36W` |  |
+| V5Ge3 | [Ge3V5](https://data.orchid-project.org/compounds/Ge3V5.html) | -47.7 kJ/mol-atom | 1073.15 | experimental | -35.723 (mp-aaackxaz) | -28.796 (oqmd-8433) | [2] Yuan 2011; _cites Eremenko 1976_ | Table 3, p. 2, row 8; `ORC-NHWEEZS5RW` |  |
+| V5Ge3 | [Ge3V5](https://data.orchid-project.org/compounds/Ge3V5.html) | -45.9 kJ/mol-atom | 298.15 | experimental | -35.723 (mp-aaackxaz) | -28.796 (oqmd-8433) | [2] Yuan 2011; _cites Zarembo 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900801-4) | Table 3, p. 2, row 2; `ORC-3M3YJAII6H` |  |
+| V5Ge3 | [Ge3V5](https://data.orchid-project.org/compounds/Ge3V5.html) | -45.9 kJ/mol-atom |  | unspecified | -35.723 (mp-aaackxaz) | -28.796 (oqmd-8433) | [2] Yuan 2011 | Table 3, p. 2, row 23; `ORC-JEUSHIJ5R3.46a1dd` |  |
+| V5Ge3 | [Ge3V5](https://data.orchid-project.org/compounds/Ge3V5.html) | -45.1 kJ/mol-atom | 298.15 | model | -35.723 (mp-aaackxaz) | -28.796 (oqmd-8433) | [2] Yuan 2011; _cites Wang 2008_ [doi](https://doi.org/10.1016/j.intermet.2008.01.002) | Table 3, p. 2, row 16; `ORC-AOUNHGRM5F` |  |
+| V5Ge3 | [Ge3V5](https://data.orchid-project.org/compounds/Ge3V5.html) | -44.3 kJ/mol-atom | 298.15 | experimental | -35.723 (mp-aaackxaz) | -28.796 (oqmd-8433) | [2] Yuan 2011; _cites Kleppa 1990_ | Table 3, p. 2, row 6; `ORC-ESSEDAAWLK` |  |
+| V5Ge3 | [Ge3V5](https://data.orchid-project.org/compounds/Ge3V5.html) | -43.8 kJ/mol-atom | 298.15 | model | -35.723 (mp-aaackxaz) | -28.796 (oqmd-8433) | [2] Yuan 2011 | Table 3, p. 2, row 20; `ORC-DGZNSNFR2G` |  |
+| V5Ge3 | [Ge3V5](https://data.orchid-project.org/compounds/Ge3V5.html) | -41.5 kJ/mol-atom | 298.15 | model | -35.723 (mp-aaackxaz) | -28.796 (oqmd-8433) | [2] Yuan 2011; _cites Smith 1981_ [doi](https://doi.org/10.1007/bf02881480) | Table 3, p. 2, row 12; `ORC-J57CJS4TQ5` |  |
 
 ## Other properties
 
@@ -149,8 +149,8 @@ Table: Phase transition, Ge–V system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1203.85 K | 1203.85 | liquid ↔ V17 Ge31 + Ge | experimental | [2] Yuan 2011 | p. 1 | “(III) The invariant reaction temperatures of liquid + V11 Ge8 ↔ V17 Ge31 and liquid ↔ V17 Ge31 + Ge are at 960.0 ± 2 ◦ C and 930.7 ± 2 ◦ C, respectively.” |
-| Phase transition | 1233.15 K | 1233.15 | liquid + V11 Ge8 ↔ V17 Ge31 | experimental | [2] Yuan 2011 | p. 1 | “(III) The invariant reaction temperatures of liquid + V11 Ge8 ↔ V17 Ge31 and liquid ↔ V17 Ge31 + Ge are at 960.0 ± 2 ◦ C and 930.7 ± 2 ◦ C, respectively.” |
+| Phase transition | 1203.85 K | 1203.85 | liquid ↔ V17 Ge31 + Ge | experimental | [2] Yuan 2011 | p. 1; `ORC-AUY2BKJ7WE.febf6a` | “(III) The invariant reaction temperatures of liquid + V11 Ge8 ↔ V17 Ge31 and liquid ↔ V17 Ge31 + Ge are at 960.0 ± 2 ◦ C and 930.7 ± 2 ◦ C, respectively.” |
+| Phase transition | 1233.15 K | 1233.15 | liquid + V11 Ge8 ↔ V17 Ge31 | experimental | [2] Yuan 2011 | p. 1; `ORC-AUY2BKJ7WE.00641d` | “(III) The invariant reaction temperatures of liquid + V11 Ge8 ↔ V17 Ge31 and liquid ↔ V17 Ge31 + Ge are at 960.0 ± 2 ◦ C and 930.7 ± 2 ◦ C, respectively.” |
 
 ## Sources
 
@@ -216,4 +216,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

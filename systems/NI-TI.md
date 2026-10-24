@@ -218,30 +218,30 @@ Table: Invariant reactions reported in the literature for the Ni–Ti system (24
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1577.15 | L \<=> (γ-Ni) + Ni3Ti | L: Ti 0.163; (γ-Ni): Ti 0.152; Ni3Ti: Ti 0.207 | model | [1] Santhy 2015 | Table 8, p. 4, row 1 |  |
-| 1577.15 | L \<=> (γ-Ni) + Ni3Ti | L: Ti 0.169; (γ-Ni): Ti 0.153; Ni3Ti: Ti 0.2 | model | [1] Santhy 2015; _cites Murray 1991_ | Table 8, p. 4, row 2 |  |
-| 1572.15 | eutectic: L -> Ni + TiNi3 | L: Ti 0.168; Ni: Ti 0.151; TiNi3: Ti 0.208 | model | [2] Cacciamani 2011 | Table 7, p. 8, row 3 |  |
-| 1396.15 | L -> NiTi + Ni3Ti | L: Ti 0.378; NiTi: Ti 0.438; Ni3Ti: Ti 0.251 | model | [1] Santhy 2015 | Table 4, p. 4, row 1 |  |
-| 1396.15 | L \<=> NiTi + Ni3Ti | L: Ti 0.378; NiTi: Ti 0.438; Ni3Ti: Ti 0.251 | model | [1] Santhy 2015 | Table 8, p. 4, row 5 |  |
-| 1393.15 | L \<=> NiTi + Ni3Ti | L: Ti 0.38; NiTi: Ti 0.43; Ni3Ti: Ti 0.254 | model | [1] Santhy 2015; _cites Murray 1991_ | Table 8, p. 4, row 6 |  |
-| 1393.15 | L -> NiTi + Ni3Ti | L: Ti 0.38; NiTi: Ti 0.43; Ni3Ti: Ti 0.254 | experimental | [1] Santhy 2015; _cites Murray 1991_ | Table 4, p. 4, row 2 |  |
-| 1392.15 | eutectic: L -> TiNi3 + TiNi | L: Ti 0.377; TiNi3: Ti 0.251; TiNi: Ti 0.438 | model | [2] Cacciamani 2011 | Table 7, p. 8, row 4 |  |
-| 1258.15 | peritectic: L + TiNi -> Ti2Ni | L: Ti 0.669; TiNi: Ti 0.507; Ti2Ni: Ti 0.667 | model | [2] Cacciamani 2011 | Table 7, p. 8, row 5 |  |
-| 1257.15 | L + NiTi -> NiTi2 | L: Ti 0.667; NiTi: Ti 0.51; NiTi2: Ti 0.66 | experimental | [1] Santhy 2015; _cites Murray 1991_ | Table 4, p. 4, row 6 |  |
-| 1257.15 | L + NiTi \<=> NiTi2 | L: Ti 0.672; NiTi: Ti 0.523; NiTi2: Ti 0.667 | model | [1] Santhy 2015 | Table 8, p. 4, row 9 |  |
-| 1257.15 | L + NiTi -> NiTi2 | L: Ti 0.672; NiTi: Ti 0.523; NiTi2: Ti 0.667 | model | [1] Santhy 2015 | Table 4, p. 4, row 5 |  |
-| 1257.15 | L + NiTi \<=> NiTi2 | L: Ti 0.667; NiTi: Ti 0.51; NiTi2: Ti 0.66 | model | [1] Santhy 2015; _cites Murray 1991_ | Table 8, p. 4, row 10 |  |
-| 1215.15 | L \<=> NiTi2 + (β-Ti) | L: Ti 0.751; NiTi2: Ti 0.894; (β-Ti): Ti 0.69 | model | [1] Santhy 2015; _cites Murray 1991_ | Table 8, p. 4, row 12 |  |
-| 1215.15 | eutectic: L -> Ti2Ni + bcc-Ti | L: Ti 0.746; Ti2Ni: Ti 0.667; bcc-Ti: Ti 0.894 | model | [2] Cacciamani 2011 | Table 7, p. 8, row 6 |  |
-| 1215.15 | L -> NiTi2 + (β-Ti) | L: Ti 0.751; NiTi2: Ti 0.894; (β-Ti): Ti 0.69 | experimental | [1] Santhy 2015; _cites Murray 1991_ | Table 4, p. 4, row 8 |  |
-| 1214.15 | L -> NiTi2 + (β-Ti) | L: Ti 0.745; NiTi2: Ti 0.667; (β-Ti): Ti 0.906 | model | [1] Santhy 2015 | Table 4, p. 4, row 7 |  |
-| 1214.15 | L \<=> NiTi2 + (β-Ti) | L: Ti 0.745; NiTi2: Ti 0.667; (β-Ti): Ti 0.906 | model | [1] Santhy 2015 | Table 8, p. 4, row 11 |  |
-| 1130.15 | eutectic |  | model | [2] Cacciamani 2011 | p. 11 | “Characteristic features of the projection are as follows: (a) the large primary solidification area of TiB2 (which is however smaller than the HfB2 area in B-Hf-Ni), (b) the deep valley close to the Ni-Ti binary subsystem which includes the lowest ternary eutectic of the system Liquid TiB2 + TiNi + TiNi3 at 857 °C.” |
-| 1040.15 | eutectoid: bcc-Ti -> Ti2Ni + hcp-Ti | bcc-Ti: Ti 0.947; Ti2Ni: Ti 0.667; hcp-Ti: Ti 0.998 | model | [2] Cacciamani 2011 | Table 7, p. 8, row 7 |  |
-| 1038.15 | (β-Ti) \<=> (α-Ti) + NiTi2 | (β-Ti): Ti 0.999; (α-Ti): Ti 0.95; NiTi2: Ti 0.69 | model | [1] Santhy 2015; _cites Murray 1991_ | Table 8, p. 4, row 14 |  |
-| 1038.15 | (β-Ti) -> (α-Ti) + NiTi2 | (β-Ti): Ti 0.95; (α-Ti): Ti 0.999; NiTi2: Ti 0.69 | experimental | [1] Santhy 2015; _cites Murray 1991_ | Table 4, p. 4, row 10 |  |
-| 1036.15 | (β-Ti) \<=> (α-Ti) + NiTi2 | (β-Ti): Ti 0.95; (α-Ti): Ti 0.998; NiTi2: Ti 0.667 | model | [1] Santhy 2015 | Table 8, p. 4, row 13 |  |
-| 1036.15 | (β-Ti) -> (α-Ti) + NiTi2 | (β-Ti): Ti 0.95; (α-Ti): Ti 0.998; NiTi2: Ti 0.667 | model | [1] Santhy 2015 | Table 4, p. 4, row 9 |  |
+| 1577.15 | L \<=> (γ-Ni) + Ni3Ti | L: Ti 0.163; (γ-Ni): Ti 0.152; Ni3Ti: Ti 0.207 | model | [1] Santhy 2015 | Table 8, p. 4, row 1; `ORC-7IXAX6U6AY` |  |
+| 1577.15 | L \<=> (γ-Ni) + Ni3Ti | L: Ti 0.169; (γ-Ni): Ti 0.153; Ni3Ti: Ti 0.2 | model | [1] Santhy 2015; _cites Murray 1991_ | Table 8, p. 4, row 2; `ORC-BL5UMO5MTK` |  |
+| 1572.15 | eutectic: L -> Ni + TiNi3 | L: Ti 0.168; Ni: Ti 0.151; TiNi3: Ti 0.208 | model | [2] Cacciamani 2011 | Table 7, p. 8, row 3; `ORC-XQ3PLVH7SN` |  |
+| 1396.15 | L -> NiTi + Ni3Ti | L: Ti 0.378; NiTi: Ti 0.438; Ni3Ti: Ti 0.251 | model | [1] Santhy 2015 | Table 4, p. 4, row 1; `ORC-JIQVQSJSMI` |  |
+| 1396.15 | L \<=> NiTi + Ni3Ti | L: Ti 0.378; NiTi: Ti 0.438; Ni3Ti: Ti 0.251 | model | [1] Santhy 2015 | Table 8, p. 4, row 5; `ORC-LIF5HT5VKY` |  |
+| 1393.15 | L \<=> NiTi + Ni3Ti | L: Ti 0.38; NiTi: Ti 0.43; Ni3Ti: Ti 0.254 | model | [1] Santhy 2015; _cites Murray 1991_ | Table 8, p. 4, row 6; `ORC-U6GTWMRFXV` |  |
+| 1393.15 | L -> NiTi + Ni3Ti | L: Ti 0.38; NiTi: Ti 0.43; Ni3Ti: Ti 0.254 | experimental | [1] Santhy 2015; _cites Murray 1991_ | Table 4, p. 4, row 2; `ORC-YJF7UGHYBR` |  |
+| 1392.15 | eutectic: L -> TiNi3 + TiNi | L: Ti 0.377; TiNi3: Ti 0.251; TiNi: Ti 0.438 | model | [2] Cacciamani 2011 | Table 7, p. 8, row 4; `ORC-BPUOQ4CJNP` |  |
+| 1258.15 | peritectic: L + TiNi -> Ti2Ni | L: Ti 0.669; TiNi: Ti 0.507; Ti2Ni: Ti 0.667 | model | [2] Cacciamani 2011 | Table 7, p. 8, row 5; `ORC-DBLA4CFBHT` |  |
+| 1257.15 | L + NiTi -> NiTi2 | L: Ti 0.667; NiTi: Ti 0.51; NiTi2: Ti 0.66 | experimental | [1] Santhy 2015; _cites Murray 1991_ | Table 4, p. 4, row 6; `ORC-4JKZV56WK5` |  |
+| 1257.15 | L + NiTi \<=> NiTi2 | L: Ti 0.672; NiTi: Ti 0.523; NiTi2: Ti 0.667 | model | [1] Santhy 2015 | Table 8, p. 4, row 9; `ORC-C7GXQZZQRQ` |  |
+| 1257.15 | L + NiTi -> NiTi2 | L: Ti 0.672; NiTi: Ti 0.523; NiTi2: Ti 0.667 | model | [1] Santhy 2015 | Table 4, p. 4, row 5; `ORC-U4ZLPG4F6K` |  |
+| 1257.15 | L + NiTi \<=> NiTi2 | L: Ti 0.667; NiTi: Ti 0.51; NiTi2: Ti 0.66 | model | [1] Santhy 2015; _cites Murray 1991_ | Table 8, p. 4, row 10; `ORC-VVH3ZIT4IN` |  |
+| 1215.15 | L \<=> NiTi2 + (β-Ti) | L: Ti 0.751; NiTi2: Ti 0.894; (β-Ti): Ti 0.69 | model | [1] Santhy 2015; _cites Murray 1991_ | Table 8, p. 4, row 12; `ORC-HTDACAICSK` |  |
+| 1215.15 | eutectic: L -> Ti2Ni + bcc-Ti | L: Ti 0.746; Ti2Ni: Ti 0.667; bcc-Ti: Ti 0.894 | model | [2] Cacciamani 2011 | Table 7, p. 8, row 6; `ORC-ITQFUNVPSL` |  |
+| 1215.15 | L -> NiTi2 + (β-Ti) | L: Ti 0.751; NiTi2: Ti 0.894; (β-Ti): Ti 0.69 | experimental | [1] Santhy 2015; _cites Murray 1991_ | Table 4, p. 4, row 8; `ORC-TIY4U7YIR4` |  |
+| 1214.15 | L -> NiTi2 + (β-Ti) | L: Ti 0.745; NiTi2: Ti 0.667; (β-Ti): Ti 0.906 | model | [1] Santhy 2015 | Table 4, p. 4, row 7; `ORC-FOHQYORQIT` |  |
+| 1214.15 | L \<=> NiTi2 + (β-Ti) | L: Ti 0.745; NiTi2: Ti 0.667; (β-Ti): Ti 0.906 | model | [1] Santhy 2015 | Table 8, p. 4, row 11; `ORC-ZGKZC3A3EB` |  |
+| 1130.15 | eutectic |  | model | [2] Cacciamani 2011 | p. 11; `ORC-TEOYU7YZRS` | “Characteristic features of the projection are as follows: (a) the large primary solidification area of TiB2 (which is however smaller than the HfB2 area in B-Hf-Ni), (b) the deep valley close to the Ni-Ti binary subsystem which includes the lowest ternary eutectic of the system Liquid TiB2 + TiNi + TiNi3 at 857 °C.” |
+| 1040.15 | eutectoid: bcc-Ti -> Ti2Ni + hcp-Ti | bcc-Ti: Ti 0.947; Ti2Ni: Ti 0.667; hcp-Ti: Ti 0.998 | model | [2] Cacciamani 2011 | Table 7, p. 8, row 7; `ORC-INEJ4QZWTL` |  |
+| 1038.15 | (β-Ti) \<=> (α-Ti) + NiTi2 | (β-Ti): Ti 0.999; (α-Ti): Ti 0.95; NiTi2: Ti 0.69 | model | [1] Santhy 2015; _cites Murray 1991_ | Table 8, p. 4, row 14; `ORC-57RAGI5SN6` |  |
+| 1038.15 | (β-Ti) -> (α-Ti) + NiTi2 | (β-Ti): Ti 0.95; (α-Ti): Ti 0.999; NiTi2: Ti 0.69 | experimental | [1] Santhy 2015; _cites Murray 1991_ | Table 4, p. 4, row 10; `ORC-R7PYJZD5QY` |  |
+| 1036.15 | (β-Ti) \<=> (α-Ti) + NiTi2 | (β-Ti): Ti 0.95; (α-Ti): Ti 0.998; NiTi2: Ti 0.667 | model | [1] Santhy 2015 | Table 8, p. 4, row 13; `ORC-6JLH37SHQU` |  |
+| 1036.15 | (β-Ti) -> (α-Ti) + NiTi2 | (β-Ti): Ti 0.95; (α-Ti): Ti 0.998; NiTi2: Ti 0.667 | model | [1] Santhy 2015 | Table 4, p. 4, row 9; `ORC-UCKEK3CMN6` |  |
 
 ## Formation enthalpies
 
@@ -251,112 +251,112 @@ Table: Enthalpies of formation, Ni–Ti system (106)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Ni3Ti |  | -48.73 kJ/mol-atom | 0 | DFT |  |  | [1] Santhy 2015 | Table 5, p. 4, row 8 |  |
-| Ni3Ti |  | -48.73 per mol-atom |  | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 11 |  |
-| Ni3Ti |  | -47.6 per mol-atom |  | model |  |  | [1] Santhy 2015; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 9, p. 6, row 10 |  |
-| Ni3Ti |  | -47.1 per mol-atom |  | model |  |  | [1] Santhy 2015; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 9, p. 6, row 9 |  |
-| Ni3Ti |  | -42.9 per mol-atom ± 1000 | 1513.15 | experimental |  |  | [1] Santhy 2015; _cites Gachon 1981_ [doi](https://doi.org/10.1016/0040-6031%2881%2987031-1) | Table 9, p. 6, row 3 |  |
-| Ni3Ti |  | -42.2 per mol-atom ± 1200 | 1477.15 | experimental |  |  | [1] Santhy 2015; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900246-1) | Table 9, p. 6, row 5 |  |
-| Ni3Ti |  | -40.067 per mol-atom | 1513.15 | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 4 |  |
-| Ni3Ti |  | -39.92 per mol-atom | 1477.15 | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 6 |  |
-| Ni3Ti |  | -34.852 per mol-atom ± 2000 | 298.15 | experimental |  |  | [1] Santhy 2015; _cites Kubaschewski 1956_ [doi](https://doi.org/10.1039/tf9565200214) | Table 9, p. 6, row 1 |  |
-| Ni3Ti |  | -33.369 per mol-atom | 298.15 | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 2 |  |
-| Ni3Ti |  | -32.5 per mol-atom | 298.15 | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 12 |  |
-| Ni3Ti |  | -8.72 kJ/mol-atom | 0 | DFT |  |  | [1] Santhy 2015 | Table 5, p. 4, row 9 |  |
-| Ni3Ti |  | 4.77 kJ/mol-atom | 0 | DFT |  |  | [1] Santhy 2015 | Table 5, p. 4, row 11 |  |
-| Ni3Ti |  | 7.08 kJ/mol-atom | 0 | DFT |  |  | [1] Santhy 2015 | Table 5, p. 4, row 10 |  |
-| Ni3Ti(D024) |  | -45.99 kJ/mol-atom | 0 | DFT |  |  | [3] Tokunaga 2004 | Table 2, p. 3, row 11 |  |
-| Ni3Ti(D024) | [Ni3Ti](https://data.orchid-project.org/compounds/Ni3Ti.html) | -42.2 kJ/mol-atom ± 1.2 | 298.15 | experimental | -46.582 (mp-aaaaaccf) | -47.751 (oqmd-5776) | [3] Tokunaga 2004; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900246-1) | Table 2, p. 3, row 12 |  |
-| Ni3Ti(D03) | [Ni3Ti](https://data.orchid-project.org/compounds/Ni3Ti.html) | -46.8 kJ/mol-atom |  | model | -46.582 (mp-aaaaaccf) | -31.322 (oqmd-308086) | [4] Hu 2014; _cites Colinet 1993_ [doi](https://doi.org/10.1016/0921-4526%2893%2990026-3) | Table 1, p. 5, row 13 |  |
-| Ni3Ti(D03) | [Ni3Ti](https://data.orchid-project.org/compounds/Ni3Ti.html) | -44.4 kJ/mol-atom |  | model | -46.582 (mp-aaaaaccf) | -31.322 (oqmd-308086) | [4] Hu 2014; _cites Colinet 1993_ [doi](https://doi.org/10.1016/0921-4526%2893%2990026-3) | Table 1, p. 5, row 12 |  |
-| Ni3Ti(D03) | [Ni3Ti](https://data.orchid-project.org/compounds/Ni3Ti.html) | -30.68 kJ/mol-atom | 298.15 | model | -46.582 (mp-aaaaaccf) | -31.322 (oqmd-308086) | [4] Hu 2014 | Table 1, p. 5, row 15 |  |
-| Ni3Ti(D03) |  | -29.5 kJ/mol-atom | 0 | DFT |  |  | [4] Hu 2014 | Table 1, p. 5, row 14 |  |
-| Ni3Ti(L12) |  | -45.1 kJ/mol-atom | 0 | DFT |  |  | [3] Tokunaga 2004 | Table 2, p. 3, row 6 |  |
-| NiTi |  | -45.8 per mol-atom | 298.15 | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 28 |  |
-| NiTi |  | -38.347 per mol-atom | 1477.15 | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 22 |  |
-| NiTi |  | -38.286 per mol-atom | 1460.15 | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 16 |  |
-| NiTi |  | -38.1 per mol-atom |  | model |  |  | [1] Santhy 2015; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 9, p. 6, row 25 |  |
-| NiTi |  | -37.212 per mol-atom | 1173.15 | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 20 |  |
-| NiTi |  | -36.1 kJ/mol-atom | 0 | DFT |  |  | [1] Santhy 2015 | Table 5, p. 4, row 12 |  |
-| NiTi |  | -36.1 per mol-atom |  | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 27 |  |
-| NiTi |  | -36 per mol-atom |  | model |  |  | [1] Santhy 2015; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 9, p. 6, row 26 |  |
-| NiTi |  | -34.2 per mol-atom ± 2000 | 999.15 | experimental |  |  | [1] Santhy 2015; _cites Gomozov 1986_ | Table 9, p. 6, row 17 |  |
-| NiTi |  | -34.16 per mol-atom | 999.15 | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 18 |  |
-| NiTi |  | -34 per mol-atom ± 2000 | 1460.15 | experimental |  |  | [1] Santhy 2015; _cites Gachon 1981_ [doi](https://doi.org/10.1016/0040-6031%2881%2987031-1) | Table 9, p. 6, row 15 |  |
-| NiTi |  | -33.911 per mol-atom ± 2000 | 298.15 | experimental |  |  | [1] Santhy 2015; _cites Kubaschewski 1956_ [doi](https://doi.org/10.1039/tf9565200214) | Table 9, p. 6, row 13 |  |
-| NiTi |  | -33.1 per mol-atom ± 1100 | 1477.15 | experimental |  |  | [1] Santhy 2015; _cites ref. 1998Guo_ | Table 9, p. 6, row 21 |  |
-| NiTi |  | -32.51 per mol-atom | 1173.15 | experimental |  |  | [1] Santhy 2015; _cites Yi 1989_ [doi](https://doi.org/10.1007/bf02385723) | Table 9, p. 6, row 19 |  |
-| NiTi |  | -31.159 per mol-atom | 298.15 | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 14 |  |
-| NiTi |  | 58.14 kJ/mol-atom | 0 | DFT |  |  | [1] Santhy 2015 | Table 5, p. 4, row 13 |  |
-| NiTi |  | 74.45 kJ/mol-atom | 0 | DFT |  |  | [1] Santhy 2015 | Table 5, p. 4, row 14 |  |
-| NiTi(B2) | [NiTi](https://data.orchid-project.org/compounds/NiTi.html) | -46 kJ/mol-atom |  | model | -33.515 (mp-aaaaaavz) | -36.473 (oqmd-116608) | [4] Hu 2014; _cites Colinet 1993_ [doi](https://doi.org/10.1016/0921-4526%2893%2990026-3) | Table 1, p. 5, row 1 |  |
-| NiTi(B2) | [NiTi](https://data.orchid-project.org/compounds/NiTi.html) | -40.9 kJ/mol-atom |  | model | -33.515 (mp-aaaaaavz) | -36.473 (oqmd-116608) | [4] Hu 2014; _cites Colinet 1993_ [doi](https://doi.org/10.1016/0921-4526%2893%2990026-3) | Table 1, p. 5, row 2 |  |
-| NiTi(B2) |  | -34.59 kJ/mol-atom | 0 | DFT |  |  | [3] Tokunaga 2004 | Table 2, p. 3, row 2 |  |
-| NiTi(B2) | [NiTi](https://data.orchid-project.org/compounds/NiTi.html) | -34.15 kJ/mol-atom | 999 | experimental | -33.515 (mp-aaaaaavz) | -36.473 (oqmd-116608) | [4] Hu 2014; _cites Gomozov 1986_ | Table 1, p. 5, row 5 |  |
-| NiTi(B2) | [NiTi](https://data.orchid-project.org/compounds/NiTi.html) | -34 kJ/mol-atom | 1460 | experimental | -33.515 (mp-aaaaaavz) | -36.473 (oqmd-116608) | [4] Hu 2014; _cites Gachon 1981_ [doi](https://doi.org/10.1016/0040-6031%2881%2987031-1) | Table 1, p. 5, row 3 |  |
-| NiTi(B2) | [NiTi](https://data.orchid-project.org/compounds/NiTi.html) | -33.9 kJ/mol-atom | 298.15 | experimental | -33.515 (mp-aaaaaavz) | -36.473 (oqmd-116608) | [4] Hu 2014; _cites Kubaschewski 1956_ [doi](https://doi.org/10.1039/tf9565200214) | Table 1, p. 5, row 4 |  |
-| NiTi(B2) | [NiTi](https://data.orchid-project.org/compounds/NiTi.html) | -33.85 kJ/mol-atom | 298.15 | model | -33.515 (mp-aaaaaavz) | -36.473 (oqmd-116608) | [4] Hu 2014 | Table 1, p. 5, row 7 |  |
-| NiTi(B2) |  | -33.24 kJ/mol-atom | 0 | DFT |  |  | [4] Hu 2014 | Table 1, p. 5, row 6 |  |
-| NiTi(B2) | [NiTi](https://data.orchid-project.org/compounds/NiTi.html) | -33.1 kJ/mol-atom ± 1.1 | 298.15 | experimental | -33.515 (mp-aaaaaavz) | -36.473 (oqmd-116608) | [3] Tokunaga 2004; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900246-1) | Table 2, p. 3, row 3 |  |
-| NiTi(B32) | [NiTi](https://data.orchid-project.org/compounds/NiTi.html) | -38.5 kJ/mol-atom |  | model | -38.194 (mp-aaaaaboi) | -32.491 (oqmd-2082617) | [4] Hu 2014; _cites Colinet 1993_ [doi](https://doi.org/10.1016/0921-4526%2893%2990026-3) | Table 1, p. 5, row 9 |  |
-| NiTi(B32) | [NiTi](https://data.orchid-project.org/compounds/NiTi.html) | -36.5 kJ/mol-atom |  | model | -38.194 (mp-aaaaaboi) | -32.491 (oqmd-2082617) | [4] Hu 2014; _cites Colinet 1993_ [doi](https://doi.org/10.1016/0921-4526%2893%2990026-3) | Table 1, p. 5, row 8 |  |
-| NiTi(B32) |  | -29.29 kJ/mol-atom | 0 | DFT |  |  | [4] Hu 2014 | Table 1, p. 5, row 10 |  |
-| NiTi(B32) | [NiTi](https://data.orchid-project.org/compounds/NiTi.html) | -9.8 kJ/mol-atom | 298.15 | model | -38.194 (mp-aaaaaboi) | -32.491 (oqmd-2082617) | [4] Hu 2014 | Table 1, p. 5, row 11 |  |
-| NiTi2 |  | -35.3 per mol-atom | 298.15 | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 36 |  |
-| NiTi2 |  | -33.7 per mol-atom |  | model |  |  | [1] Santhy 2015; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 9, p. 6, row 33 |  |
-| NiTi2 |  | -30.393 per mol-atom | 1202.15 | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 32 |  |
-| NiTi2 |  | -29.3 per mol-atom ± 500 | 1202.15 | experimental |  |  | [1] Santhy 2015; _cites Gachon 1981_ [doi](https://doi.org/10.1016/0040-6031%2881%2987031-1) | Table 9, p. 6, row 31 |  |
-| NiTi2 |  | -28.96 per mol-atom |  | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 35 |  |
-| NiTi2 |  | -28.2 per mol-atom |  | model |  |  | [1] Santhy 2015; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 9, p. 6, row 34 |  |
-| NiTi2 |  | -26.896 per mol-atom ± 2000 | 298.15 | experimental |  |  | [1] Santhy 2015; _cites Kubaschewski 1956_ [doi](https://doi.org/10.1039/tf9565200214) | Table 9, p. 6, row 29 |  |
-| NiTi2 |  | -25.849 per mol-atom | 298.15 | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 30 |  |
-| NiTi3(D03) | [NiTi3](https://data.orchid-project.org/compounds/NiTi3.html) | -13.68 kJ/mol-atom | 298.15 | model | -7.619 (mp-aaacdvmv) | -10.781 (oqmd-311353) | [4] Hu 2014 | Table 1, p. 5, row 17 |  |
-| NiTi3(D03) |  | -12.11 kJ/mol-atom | 0 | DFT |  |  | [4] Hu 2014 | Table 1, p. 5, row 16 |  |
-| Ti2Ni |  | -33.7 kJ/mol-atom | 0 | DFT |  |  | [5] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 6, p. 8, row 19 |  |
-| Ti2Ni |  | -28.2 kJ/mol-atom | 0 | DFT |  |  | [5] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 6, p. 8, row 20 |  |
-| Ti2Ni | [NiTi2](https://data.orchid-project.org/compounds/NiTi2.html) | -26.977 kJ/mol-atom | 298.15 | model | -26.758 (mp-aaaaacro) | -33.202 (oqmd-1372059) | [5] Povoden-Karadeniz 2013 | Table 6, p. 8, row 14 |  |
-| Ti2Ni | [NiTi2](https://data.orchid-project.org/compounds/NiTi2.html) | -26.901 kJ/mol-atom | 298.15 | model | -26.758 (mp-aaaaacro) | -33.202 (oqmd-1372059) | [5] Povoden-Karadeniz 2013; _cites Bellen 1996_ | Table 6, p. 8, row 15 |  |
-| Ti2Ni | [NiTi2](https://data.orchid-project.org/compounds/NiTi2.html) | -26.8 kJ/mol-atom | 298.15 | experimental | -26.758 (mp-aaaaacro) | -33.202 (oqmd-1372059) | [5] Povoden-Karadeniz 2013; _cites Kubaschewski 1958_ [doi](https://doi.org/10.1039/tf9585400814) | Table 6, p. 8, row 16 |  |
-| Ti3Ni(D024) |  | -5.69 kJ/mol-atom | 0 | DFT |  |  | [3] Tokunaga 2004 | Table 2, p. 3, row 13 |  |
-| Ti3Ni(L12) |  | -8.04 kJ/mol-atom | 0 | DFT |  |  | [3] Tokunaga 2004 | Table 2, p. 3, row 7 |  |
-| TiNi B19' |  | -39.8 kJ/mol-atom | 0 | DFT |  |  | [5] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 6, p. 8, row 35 |  |
-| TiNi B19' |  | -39.5 kJ/mol-atom | 0 | DFT |  |  | [5] Povoden-Karadeniz 2013; _cites Hatcher 2009_ [doi](https://doi.org/10.1103/physrevb.80.144203) | Table 6, p. 8, row 37 |  |
-| TiNi B19' |  | -37.8 kJ/mol-atom | 0 | DFT |  |  | [5] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 6, p. 8, row 36 |  |
-| TiNi B19' | [NiTi](https://data.orchid-project.org/compounds/NiTi.html) | -37.721 kJ/mol-atom | 298.15 | model | -38.194 (mp-aaaaaboi) | -40.284 (oqmd-107703) | [5] Povoden-Karadeniz 2013 | Table 6, p. 8, row 33 |  |
-| TiNi-B2 |  | -38.1 kJ/mol-atom | 0 | DFT |  |  | [5] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 6, p. 8, row 26 |  |
-| TiNi-B2 |  | -38 kJ/mol-atom | 0 | DFT |  |  | [5] Povoden-Karadeniz 2013; _cites Sanati 1998_ [doi](https://doi.org/10.1103/physrevb.58.13590) | Table 6, p. 8, row 28 |  |
-| TiNi-B2 |  | -36.665 kJ/mol-atom | 0 | DFT |  |  | [5] Povoden-Karadeniz 2013; _cites Lu 2007_ [doi](https://doi.org/10.1103/physrevb.75.094108) | Table 6, p. 8, row 31 |  |
-| TiNi-B2 |  | -36 kJ/mol-atom | 0 | DFT |  |  | [5] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 6, p. 8, row 27 |  |
-| TiNi-B2 | [NiTi](https://data.orchid-project.org/compounds/NiTi.html) | -34.721 kJ/mol-atom | 298.15 | model | -33.515 (mp-aaaaaavz) | -36.473 (oqmd-116608) | [5] Povoden-Karadeniz 2013 | Table 6, p. 8, row 21 |  |
-| TiNi-B2 |  | -34.1 kJ/mol-atom | 0 | DFT |  |  | [5] Povoden-Karadeniz 2013; _cites Hatcher 2009_ [doi](https://doi.org/10.1103/physrevb.80.144203) | Table 6, p. 8, row 29 |  |
-| TiNi-B2 | [NiTi](https://data.orchid-project.org/compounds/NiTi.html) | -34.052 kJ/mol-atom | 298.15 | model | -33.515 (mp-aaaaaavz) | -36.473 (oqmd-116608) | [5] Povoden-Karadeniz 2013; _cites Bellen 1996_ | Table 6, p. 8, row 22 |  |
-| TiNi-B2 | [NiTi](https://data.orchid-project.org/compounds/NiTi.html) | -33.9 kJ/mol-atom | 298.15 | experimental | -33.515 (mp-aaaaaavz) | -36.473 (oqmd-116608) | [5] Povoden-Karadeniz 2013; _cites Kubaschewski 1958_ [doi](https://doi.org/10.1039/tf9585400814) | Table 6, p. 8, row 24 |  |
-| TiNi-B2 |  | -33.77 kJ/mol-atom | 0 | DFT |  |  | [5] Povoden-Karadeniz 2013; _cites Huang 2002_ | Table 6, p. 8, row 32 |  |
-| TiNi-B2 | [NiTi](https://data.orchid-project.org/compounds/NiTi.html) | -33.339 kJ/mol-atom | 298.15 | model | -33.515 (mp-aaaaaavz) | -36.473 (oqmd-116608) | [5] Povoden-Karadeniz 2013; _cites Matsumoto 2005_ [doi](https://doi.org/10.2320/matertrans.46.2920) | Table 6, p. 8, row 23 |  |
-| TiNi-B2 |  | -32.784 kJ/mol-atom | 0 | DFT |  |  | [5] Povoden-Karadeniz 2013 | Table 6, p. 8, row 25 |  |
-| TiNi-B2 |  | -31.84 kJ/mol-atom | 0 | DFT |  |  | [5] Povoden-Karadeniz 2013; _cites Stott 2010_ [doi](https://doi.org/10.1021/jp103552s) | Table 6, p. 8, row 30 |  |
-| TiNi3 |  | -43800 per mol-atom ± 1600 | 298.15 | experimental |  |  | [5] Povoden-Karadeniz 2013; _cites Moser 2006_ | Table 6, p. 8, row 5 |  |
-| TiNi3 |  | -34700 per mol-atom | 298.15 | experimental |  |  | [5] Povoden-Karadeniz 2013; _cites Kubaschewski 1958_ [doi](https://doi.org/10.1039/tf9585400814) | Table 6, p. 8, row 7 |  |
-| TiNi3 |  | -47.6 kJ/mol-atom | 0 | DFT |  |  | [5] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 6, p. 8, row 12 |  |
-| TiNi3 |  | -47.1 kJ/mol-atom | 0 | DFT |  |  | [5] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 6, p. 8, row 11 |  |
-| TiNi3 |  | -46.313 kJ/mol-atom | 0 | DFT |  |  | [5] Povoden-Karadeniz 2013; _cites Stott 2010_ [doi](https://doi.org/10.1021/jp103552s) | Table 6, p. 8, row 13 |  |
-| TiNi3 |  | -45.928 kJ/mol-atom | 0 | DFT |  |  | [5] Povoden-Karadeniz 2013 | Table 6, p. 8, row 10 |  |
-| TiNi3 | [Ni3Ti](https://data.orchid-project.org/compounds/Ni3Ti.html) | -42.2 kJ/mol-atom ± 1200 | 298.15 | experimental | -46.582 (mp-aaaaaccf) | -47.751 (oqmd-5776) | [5] Povoden-Karadeniz 2013; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900246-1) | Table 6, p. 8, row 6 |  |
-| TiNi3 | [Ni3Ti](https://data.orchid-project.org/compounds/Ni3Ti.html) | -42.132 kJ/mol-atom | 298.15 | model | -46.582 (mp-aaaaaccf) | -47.751 (oqmd-5776) | [5] Povoden-Karadeniz 2013 | Table 6, p. 8, row 1 |  |
-| TiNi3 | [Ni3Ti](https://data.orchid-project.org/compounds/Ni3Ti.html) | -40.043 kJ/mol-atom | 298.15 | model | -46.582 (mp-aaaaaccf) | -47.751 (oqmd-5776) | [5] Povoden-Karadeniz 2013; _cites Matsumoto 2005_ [doi](https://doi.org/10.2320/matertrans.46.2920) | Table 6, p. 8, row 3 |  |
-| TiNi3 | [Ni3Ti](https://data.orchid-project.org/compounds/Ni3Ti.html) | -36.978 kJ/mol-atom | 298.15 | model | -46.582 (mp-aaaaaccf) | -47.751 (oqmd-5776) | [5] Povoden-Karadeniz 2013; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.10.003) | Table 6, p. 8, row 4 |  |
-| TiNi3 | [Ni3Ti](https://data.orchid-project.org/compounds/Ni3Ti.html) | -36.871 kJ/mol-atom | 298.15 | model | -46.582 (mp-aaaaaccf) | -47.751 (oqmd-5776) | [5] Povoden-Karadeniz 2013; _cites Bellen 1996_ | Table 6, p. 8, row 2 |  |
-| UNKNOWN |  | -47.6 kJ/mol-atom | 0 | model |  |  | [5] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 6, p. 8, row 12 |  |
-| UNKNOWN |  | -47.1 kJ/mol-atom | 0 | model |  |  | [5] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 6, p. 8, row 11 |  |
-| UNKNOWN |  | -39.8 kJ/mol-atom | 0 | model |  |  | [5] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 6, p. 8, row 35 |  |
-| UNKNOWN |  | -39.5 kJ/mol-atom | 0 | model |  |  | [5] Povoden-Karadeniz 2013; _cites Hatcher 2009_ [doi](https://doi.org/10.1103/physrevb.80.144203) | Table 6, p. 8, row 37 |  |
-| UNKNOWN |  | -38.1 kJ/mol-atom | 0 | model |  |  | [5] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 6, p. 8, row 26 |  |
-| UNKNOWN |  | -38 kJ/mol-atom | 0 | model |  |  | [5] Povoden-Karadeniz 2013; _cites Sanati 1998_ [doi](https://doi.org/10.1103/physrevb.58.13590) | Table 6, p. 8, row 28 |  |
-| UNKNOWN |  | -37.8 kJ/mol-atom | 0 | model |  |  | [5] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 6, p. 8, row 36 |  |
-| UNKNOWN |  | -36 kJ/mol-atom | 0 | model |  |  | [5] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 6, p. 8, row 27 |  |
-| UNKNOWN |  | -34.1 kJ/mol-atom | 0 | model |  |  | [5] Povoden-Karadeniz 2013; _cites Hatcher 2009_ [doi](https://doi.org/10.1103/physrevb.80.144203) | Table 6, p. 8, row 29 |  |
-| UNKNOWN |  | -33.7 kJ/mol-atom | 0 | model |  |  | [5] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 6, p. 8, row 19 |  |
-| UNKNOWN |  | -28.2 kJ/mol-atom | 0 | model |  |  | [5] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 6, p. 8, row 20 |  |
+| Ni3Ti |  | -48.73 kJ/mol-atom | 0 | DFT |  |  | [1] Santhy 2015 | Table 5, p. 4, row 8; `ORC-O2SV5STX32` |  |
+| Ni3Ti |  | -48.73 per mol-atom |  | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 11; `ORC-PXQSABPIMU` |  |
+| Ni3Ti |  | -47.6 per mol-atom |  | model |  |  | [1] Santhy 2015; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 9, p. 6, row 10; `ORC-HJ3XLPEXJD` |  |
+| Ni3Ti |  | -47.1 per mol-atom |  | model |  |  | [1] Santhy 2015; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 9, p. 6, row 9; `ORC-D7DNHPNF6K` |  |
+| Ni3Ti |  | -42.9 per mol-atom ± 1000 | 1513.15 | experimental |  |  | [1] Santhy 2015; _cites Gachon 1981_ [doi](https://doi.org/10.1016/0040-6031%2881%2987031-1) | Table 9, p. 6, row 3; `ORC-AZYJ2LADOX` |  |
+| Ni3Ti |  | -42.2 per mol-atom ± 1200 | 1477.15 | experimental |  |  | [1] Santhy 2015; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900246-1) | Table 9, p. 6, row 5; `ORC-RASMQUZLPB` |  |
+| Ni3Ti |  | -40.067 per mol-atom | 1513.15 | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 4; `ORC-FQJFJOB5HP` |  |
+| Ni3Ti |  | -39.92 per mol-atom | 1477.15 | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 6; `ORC-D75WRGPTRY` |  |
+| Ni3Ti |  | -34.852 per mol-atom ± 2000 | 298.15 | experimental |  |  | [1] Santhy 2015; _cites Kubaschewski 1956_ [doi](https://doi.org/10.1039/tf9565200214) | Table 9, p. 6, row 1; `ORC-C7DOZ3P3EZ` |  |
+| Ni3Ti |  | -33.369 per mol-atom | 298.15 | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 2; `ORC-6GH34YTD7A` |  |
+| Ni3Ti |  | -32.5 per mol-atom | 298.15 | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 12; `ORC-FFOAFW4XLR` |  |
+| Ni3Ti |  | -8.72 kJ/mol-atom | 0 | DFT |  |  | [1] Santhy 2015 | Table 5, p. 4, row 9; `ORC-H7SQPVQY5Z` |  |
+| Ni3Ti |  | 4.77 kJ/mol-atom | 0 | DFT |  |  | [1] Santhy 2015 | Table 5, p. 4, row 11; `ORC-VWQAJJFQRF` |  |
+| Ni3Ti |  | 7.08 kJ/mol-atom | 0 | DFT |  |  | [1] Santhy 2015 | Table 5, p. 4, row 10; `ORC-LXX4NRREAG` |  |
+| Ni3Ti(D024) |  | -45.99 kJ/mol-atom | 0 | DFT |  |  | [3] Tokunaga 2004 | Table 2, p. 3, row 11; `ORC-SCR5BXKZPF.531ef5` |  |
+| Ni3Ti(D024) | [Ni3Ti](https://data.orchid-project.org/compounds/Ni3Ti.html) | -42.2 kJ/mol-atom ± 1.2 | 298.15 | experimental | -46.582 (mp-aaaaaccf) | -47.751 (oqmd-5776) | [3] Tokunaga 2004; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900246-1) | Table 2, p. 3, row 12; `ORC-3VGEQTV6FF` |  |
+| Ni3Ti(D03) | [Ni3Ti](https://data.orchid-project.org/compounds/Ni3Ti.html) | -46.8 kJ/mol-atom |  | model | -46.582 (mp-aaaaaccf) | -31.322 (oqmd-308086) | [4] Hu 2014; _cites Colinet 1993_ [doi](https://doi.org/10.1016/0921-4526%2893%2990026-3) | Table 1, p. 5, row 13; `ORC-4XGNW6UYVR` |  |
+| Ni3Ti(D03) | [Ni3Ti](https://data.orchid-project.org/compounds/Ni3Ti.html) | -44.4 kJ/mol-atom |  | model | -46.582 (mp-aaaaaccf) | -31.322 (oqmd-308086) | [4] Hu 2014; _cites Colinet 1993_ [doi](https://doi.org/10.1016/0921-4526%2893%2990026-3) | Table 1, p. 5, row 12; `ORC-P7NG6K4JV3` |  |
+| Ni3Ti(D03) | [Ni3Ti](https://data.orchid-project.org/compounds/Ni3Ti.html) | -30.68 kJ/mol-atom | 298.15 | model | -46.582 (mp-aaaaaccf) | -31.322 (oqmd-308086) | [4] Hu 2014 | Table 1, p. 5, row 15; `ORC-B56Y6OEZBZ` |  |
+| Ni3Ti(D03) |  | -29.5 kJ/mol-atom | 0 | DFT |  |  | [4] Hu 2014 | Table 1, p. 5, row 14; `ORC-7G3N7SITPN` |  |
+| Ni3Ti(L12) |  | -45.1 kJ/mol-atom | 0 | DFT |  |  | [3] Tokunaga 2004 | Table 2, p. 3, row 6; `ORC-S5IWBLQOKP.31dedb` |  |
+| NiTi |  | -45.8 per mol-atom | 298.15 | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 28; `ORC-DOG4QYG2QE` |  |
+| NiTi |  | -38.347 per mol-atom | 1477.15 | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 22; `ORC-TR4ISUM33S` |  |
+| NiTi |  | -38.286 per mol-atom | 1460.15 | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 16; `ORC-5PKCCWZZCU` |  |
+| NiTi |  | -38.1 per mol-atom |  | model |  |  | [1] Santhy 2015; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 9, p. 6, row 25; `ORC-5K2VMN54GI` |  |
+| NiTi |  | -37.212 per mol-atom | 1173.15 | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 20; `ORC-3CUO6Q7KIJ` |  |
+| NiTi |  | -36.1 kJ/mol-atom | 0 | DFT |  |  | [1] Santhy 2015 | Table 5, p. 4, row 12; `ORC-5U3HR2W7ID` |  |
+| NiTi |  | -36.1 per mol-atom |  | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 27; `ORC-YUYMZPONBL` |  |
+| NiTi |  | -36 per mol-atom |  | model |  |  | [1] Santhy 2015; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 9, p. 6, row 26; `ORC-VRXRBLVP3F` |  |
+| NiTi |  | -34.2 per mol-atom ± 2000 | 999.15 | experimental |  |  | [1] Santhy 2015; _cites Gomozov 1986_ | Table 9, p. 6, row 17; `ORC-A2VKLEYF66` |  |
+| NiTi |  | -34.16 per mol-atom | 999.15 | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 18; `ORC-KMD5SSYUTK` |  |
+| NiTi |  | -34 per mol-atom ± 2000 | 1460.15 | experimental |  |  | [1] Santhy 2015; _cites Gachon 1981_ [doi](https://doi.org/10.1016/0040-6031%2881%2987031-1) | Table 9, p. 6, row 15; `ORC-42EA2HRQQS` |  |
+| NiTi |  | -33.911 per mol-atom ± 2000 | 298.15 | experimental |  |  | [1] Santhy 2015; _cites Kubaschewski 1956_ [doi](https://doi.org/10.1039/tf9565200214) | Table 9, p. 6, row 13; `ORC-2S5WH36XGG` |  |
+| NiTi |  | -33.1 per mol-atom ± 1100 | 1477.15 | experimental |  |  | [1] Santhy 2015; _cites ref. 1998Guo_ | Table 9, p. 6, row 21; `ORC-OK2TYX3B7R` |  |
+| NiTi |  | -32.51 per mol-atom | 1173.15 | experimental |  |  | [1] Santhy 2015; _cites Yi 1989_ [doi](https://doi.org/10.1007/bf02385723) | Table 9, p. 6, row 19; `ORC-6MAYECTT2N` |  |
+| NiTi |  | -31.159 per mol-atom | 298.15 | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 14; `ORC-5THPFCF46R` |  |
+| NiTi |  | 58.14 kJ/mol-atom | 0 | DFT |  |  | [1] Santhy 2015 | Table 5, p. 4, row 13; `ORC-5EZOM72ZDW` |  |
+| NiTi |  | 74.45 kJ/mol-atom | 0 | DFT |  |  | [1] Santhy 2015 | Table 5, p. 4, row 14; `ORC-PHLLH6PKZ7` |  |
+| NiTi(B2) | [NiTi](https://data.orchid-project.org/compounds/NiTi.html) | -46 kJ/mol-atom |  | model | -33.515 (mp-aaaaaavz) | -36.473 (oqmd-116608) | [4] Hu 2014; _cites Colinet 1993_ [doi](https://doi.org/10.1016/0921-4526%2893%2990026-3) | Table 1, p. 5, row 1; `ORC-GJLJE4AMAL` |  |
+| NiTi(B2) | [NiTi](https://data.orchid-project.org/compounds/NiTi.html) | -40.9 kJ/mol-atom |  | model | -33.515 (mp-aaaaaavz) | -36.473 (oqmd-116608) | [4] Hu 2014; _cites Colinet 1993_ [doi](https://doi.org/10.1016/0921-4526%2893%2990026-3) | Table 1, p. 5, row 2; `ORC-ZBVIXAGZK4` |  |
+| NiTi(B2) |  | -34.59 kJ/mol-atom | 0 | DFT |  |  | [3] Tokunaga 2004 | Table 2, p. 3, row 2; `ORC-CEJYONOTZK.28f7a6` |  |
+| NiTi(B2) | [NiTi](https://data.orchid-project.org/compounds/NiTi.html) | -34.15 kJ/mol-atom | 999 | experimental | -33.515 (mp-aaaaaavz) | -36.473 (oqmd-116608) | [4] Hu 2014; _cites Gomozov 1986_ | Table 1, p. 5, row 5; `ORC-BEB5Y4LZT2` |  |
+| NiTi(B2) | [NiTi](https://data.orchid-project.org/compounds/NiTi.html) | -34 kJ/mol-atom | 1460 | experimental | -33.515 (mp-aaaaaavz) | -36.473 (oqmd-116608) | [4] Hu 2014; _cites Gachon 1981_ [doi](https://doi.org/10.1016/0040-6031%2881%2987031-1) | Table 1, p. 5, row 3; `ORC-2YDOIF7YWA` |  |
+| NiTi(B2) | [NiTi](https://data.orchid-project.org/compounds/NiTi.html) | -33.9 kJ/mol-atom | 298.15 | experimental | -33.515 (mp-aaaaaavz) | -36.473 (oqmd-116608) | [4] Hu 2014; _cites Kubaschewski 1956_ [doi](https://doi.org/10.1039/tf9565200214) | Table 1, p. 5, row 4; `ORC-HYPU3NBXDV` |  |
+| NiTi(B2) | [NiTi](https://data.orchid-project.org/compounds/NiTi.html) | -33.85 kJ/mol-atom | 298.15 | model | -33.515 (mp-aaaaaavz) | -36.473 (oqmd-116608) | [4] Hu 2014 | Table 1, p. 5, row 7; `ORC-AMXW2U6OBS` |  |
+| NiTi(B2) |  | -33.24 kJ/mol-atom | 0 | DFT |  |  | [4] Hu 2014 | Table 1, p. 5, row 6; `ORC-GUI4FRBXZC` |  |
+| NiTi(B2) | [NiTi](https://data.orchid-project.org/compounds/NiTi.html) | -33.1 kJ/mol-atom ± 1.1 | 298.15 | experimental | -33.515 (mp-aaaaaavz) | -36.473 (oqmd-116608) | [3] Tokunaga 2004; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900246-1) | Table 2, p. 3, row 3; `ORC-W2AEPF25IN` |  |
+| NiTi(B32) | [NiTi](https://data.orchid-project.org/compounds/NiTi.html) | -38.5 kJ/mol-atom |  | model | -38.194 (mp-aaaaaboi) | -32.491 (oqmd-2082617) | [4] Hu 2014; _cites Colinet 1993_ [doi](https://doi.org/10.1016/0921-4526%2893%2990026-3) | Table 1, p. 5, row 9; `ORC-VFTSMFU73D` |  |
+| NiTi(B32) | [NiTi](https://data.orchid-project.org/compounds/NiTi.html) | -36.5 kJ/mol-atom |  | model | -38.194 (mp-aaaaaboi) | -32.491 (oqmd-2082617) | [4] Hu 2014; _cites Colinet 1993_ [doi](https://doi.org/10.1016/0921-4526%2893%2990026-3) | Table 1, p. 5, row 8; `ORC-M76EK3XHFY` |  |
+| NiTi(B32) |  | -29.29 kJ/mol-atom | 0 | DFT |  |  | [4] Hu 2014 | Table 1, p. 5, row 10; `ORC-QV67TMJDFO` |  |
+| NiTi(B32) | [NiTi](https://data.orchid-project.org/compounds/NiTi.html) | -9.8 kJ/mol-atom | 298.15 | model | -38.194 (mp-aaaaaboi) | -32.491 (oqmd-2082617) | [4] Hu 2014 | Table 1, p. 5, row 11; `ORC-TZDUPCUZ3I` |  |
+| NiTi2 |  | -35.3 per mol-atom | 298.15 | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 36; `ORC-Z3DPWMWWJG` |  |
+| NiTi2 |  | -33.7 per mol-atom |  | model |  |  | [1] Santhy 2015; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 9, p. 6, row 33; `ORC-PEWMDBISIK` |  |
+| NiTi2 |  | -30.393 per mol-atom | 1202.15 | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 32; `ORC-XH5ZFBUOA5` |  |
+| NiTi2 |  | -29.3 per mol-atom ± 500 | 1202.15 | experimental |  |  | [1] Santhy 2015; _cites Gachon 1981_ [doi](https://doi.org/10.1016/0040-6031%2881%2987031-1) | Table 9, p. 6, row 31; `ORC-DKBHZHHMO5` |  |
+| NiTi2 |  | -28.96 per mol-atom |  | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 35; `ORC-PGGDLMCOL3` |  |
+| NiTi2 |  | -28.2 per mol-atom |  | model |  |  | [1] Santhy 2015; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 9, p. 6, row 34; `ORC-SJLLP6NH2U` |  |
+| NiTi2 |  | -26.896 per mol-atom ± 2000 | 298.15 | experimental |  |  | [1] Santhy 2015; _cites Kubaschewski 1956_ [doi](https://doi.org/10.1039/tf9565200214) | Table 9, p. 6, row 29; `ORC-M5NJPL46CN` |  |
+| NiTi2 |  | -25.849 per mol-atom | 298.15 | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 30; `ORC-SI5WWVJHY2` |  |
+| NiTi3(D03) | [NiTi3](https://data.orchid-project.org/compounds/NiTi3.html) | -13.68 kJ/mol-atom | 298.15 | model | -7.619 (mp-aaacdvmv) | -10.781 (oqmd-311353) | [4] Hu 2014 | Table 1, p. 5, row 17; `ORC-WKLF5QN66S` |  |
+| NiTi3(D03) |  | -12.11 kJ/mol-atom | 0 | DFT |  |  | [4] Hu 2014 | Table 1, p. 5, row 16; `ORC-ROPQKQG3WK` |  |
+| Ti2Ni |  | -33.7 kJ/mol-atom | 0 | DFT |  |  | [5] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 6, p. 8, row 19; `ORC-QVWDFAJQI3.3a6e31` |  |
+| Ti2Ni |  | -28.2 kJ/mol-atom | 0 | DFT |  |  | [5] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 6, p. 8, row 20; `ORC-N5KHCICVLX.50919e` |  |
+| Ti2Ni | [NiTi2](https://data.orchid-project.org/compounds/NiTi2.html) | -26.977 kJ/mol-atom | 298.15 | model | -26.758 (mp-aaaaacro) | -33.202 (oqmd-1372059) | [5] Povoden-Karadeniz 2013 | Table 6, p. 8, row 14; `ORC-VZ42TLKJHT.7cd9c0` |  |
+| Ti2Ni | [NiTi2](https://data.orchid-project.org/compounds/NiTi2.html) | -26.901 kJ/mol-atom | 298.15 | model | -26.758 (mp-aaaaacro) | -33.202 (oqmd-1372059) | [5] Povoden-Karadeniz 2013; _cites Bellen 1996_ | Table 6, p. 8, row 15; `ORC-RUO2L3D6YH.958025` |  |
+| Ti2Ni | [NiTi2](https://data.orchid-project.org/compounds/NiTi2.html) | -26.8 kJ/mol-atom | 298.15 | experimental | -26.758 (mp-aaaaacro) | -33.202 (oqmd-1372059) | [5] Povoden-Karadeniz 2013; _cites Kubaschewski 1958_ [doi](https://doi.org/10.1039/tf9585400814) | Table 6, p. 8, row 16; `ORC-PEPGNW2DTY.86597c` |  |
+| Ti3Ni(D024) |  | -5.69 kJ/mol-atom | 0 | DFT |  |  | [3] Tokunaga 2004 | Table 2, p. 3, row 13; `ORC-U5LPOUSGI5.436bc2` |  |
+| Ti3Ni(L12) |  | -8.04 kJ/mol-atom | 0 | DFT |  |  | [3] Tokunaga 2004 | Table 2, p. 3, row 7; `ORC-GHVW4IOUCB.9f2031` |  |
+| TiNi B19' |  | -39.8 kJ/mol-atom | 0 | DFT |  |  | [5] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 6, p. 8, row 35; `ORC-VJDAY63XJC.ebd44e` |  |
+| TiNi B19' |  | -39.5 kJ/mol-atom | 0 | DFT |  |  | [5] Povoden-Karadeniz 2013; _cites Hatcher 2009_ [doi](https://doi.org/10.1103/physrevb.80.144203) | Table 6, p. 8, row 37; `ORC-XXBR7PY5JP.8baacf` |  |
+| TiNi B19' |  | -37.8 kJ/mol-atom | 0 | DFT |  |  | [5] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 6, p. 8, row 36; `ORC-A3RVHCV7SZ.b800ef` |  |
+| TiNi B19' | [NiTi](https://data.orchid-project.org/compounds/NiTi.html) | -37.721 kJ/mol-atom | 298.15 | model | -38.194 (mp-aaaaaboi) | -40.284 (oqmd-107703) | [5] Povoden-Karadeniz 2013 | Table 6, p. 8, row 33; `ORC-HHKNYOONKX.26cd87` |  |
+| TiNi-B2 |  | -38.1 kJ/mol-atom | 0 | DFT |  |  | [5] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 6, p. 8, row 26; `ORC-AEZ3NUS2GY.3029aa` |  |
+| TiNi-B2 |  | -38 kJ/mol-atom | 0 | DFT |  |  | [5] Povoden-Karadeniz 2013; _cites Sanati 1998_ [doi](https://doi.org/10.1103/physrevb.58.13590) | Table 6, p. 8, row 28; `ORC-PY7OAANHXS.129e17` |  |
+| TiNi-B2 |  | -36.665 kJ/mol-atom | 0 | DFT |  |  | [5] Povoden-Karadeniz 2013; _cites Lu 2007_ [doi](https://doi.org/10.1103/physrevb.75.094108) | Table 6, p. 8, row 31; `ORC-THKKQEXNTY.7b9738` |  |
+| TiNi-B2 |  | -36 kJ/mol-atom | 0 | DFT |  |  | [5] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 6, p. 8, row 27; `ORC-4FGZPPJ2XA.ccd139` |  |
+| TiNi-B2 | [NiTi](https://data.orchid-project.org/compounds/NiTi.html) | -34.721 kJ/mol-atom | 298.15 | model | -33.515 (mp-aaaaaavz) | -36.473 (oqmd-116608) | [5] Povoden-Karadeniz 2013 | Table 6, p. 8, row 21; `ORC-BFT55GLVVO.762d6d` |  |
+| TiNi-B2 |  | -34.1 kJ/mol-atom | 0 | DFT |  |  | [5] Povoden-Karadeniz 2013; _cites Hatcher 2009_ [doi](https://doi.org/10.1103/physrevb.80.144203) | Table 6, p. 8, row 29; `ORC-AKMVKBOLWE.4e78c3` |  |
+| TiNi-B2 | [NiTi](https://data.orchid-project.org/compounds/NiTi.html) | -34.052 kJ/mol-atom | 298.15 | model | -33.515 (mp-aaaaaavz) | -36.473 (oqmd-116608) | [5] Povoden-Karadeniz 2013; _cites Bellen 1996_ | Table 6, p. 8, row 22; `ORC-DAZ6OBEEXC.a9c57f` |  |
+| TiNi-B2 | [NiTi](https://data.orchid-project.org/compounds/NiTi.html) | -33.9 kJ/mol-atom | 298.15 | experimental | -33.515 (mp-aaaaaavz) | -36.473 (oqmd-116608) | [5] Povoden-Karadeniz 2013; _cites Kubaschewski 1958_ [doi](https://doi.org/10.1039/tf9585400814) | Table 6, p. 8, row 24; `ORC-YEW6RRQCYU.9b4e30` |  |
+| TiNi-B2 |  | -33.77 kJ/mol-atom | 0 | DFT |  |  | [5] Povoden-Karadeniz 2013; _cites Huang 2002_ | Table 6, p. 8, row 32; `ORC-ALLTHFCF2Z.310a6d` |  |
+| TiNi-B2 | [NiTi](https://data.orchid-project.org/compounds/NiTi.html) | -33.339 kJ/mol-atom | 298.15 | model | -33.515 (mp-aaaaaavz) | -36.473 (oqmd-116608) | [5] Povoden-Karadeniz 2013; _cites Matsumoto 2005_ [doi](https://doi.org/10.2320/matertrans.46.2920) | Table 6, p. 8, row 23; `ORC-VW75NPAQGL.426365` |  |
+| TiNi-B2 |  | -32.784 kJ/mol-atom | 0 | DFT |  |  | [5] Povoden-Karadeniz 2013 | Table 6, p. 8, row 25; `ORC-4R2G2JJ6I6.0053d5` |  |
+| TiNi-B2 |  | -31.84 kJ/mol-atom | 0 | DFT |  |  | [5] Povoden-Karadeniz 2013; _cites Stott 2010_ [doi](https://doi.org/10.1021/jp103552s) | Table 6, p. 8, row 30; `ORC-FNCW2HM35O.ca4734` |  |
+| TiNi3 |  | -43800 per mol-atom ± 1600 | 298.15 | experimental |  |  | [5] Povoden-Karadeniz 2013; _cites Moser 2006_ | Table 6, p. 8, row 5; `ORC-CZXUNUNPIV.039ff2` |  |
+| TiNi3 |  | -34700 per mol-atom | 298.15 | experimental |  |  | [5] Povoden-Karadeniz 2013; _cites Kubaschewski 1958_ [doi](https://doi.org/10.1039/tf9585400814) | Table 6, p. 8, row 7; `ORC-EKEI6H6ON4.a168d0` |  |
+| TiNi3 |  | -47.6 kJ/mol-atom | 0 | DFT |  |  | [5] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 6, p. 8, row 12; `ORC-YSPAWP22OA.73965b` |  |
+| TiNi3 |  | -47.1 kJ/mol-atom | 0 | DFT |  |  | [5] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 6, p. 8, row 11; `ORC-JCYRE4PV3K.624621` |  |
+| TiNi3 |  | -46.313 kJ/mol-atom | 0 | DFT |  |  | [5] Povoden-Karadeniz 2013; _cites Stott 2010_ [doi](https://doi.org/10.1021/jp103552s) | Table 6, p. 8, row 13; `ORC-GW46WWUZT2.ff74b0` |  |
+| TiNi3 |  | -45.928 kJ/mol-atom | 0 | DFT |  |  | [5] Povoden-Karadeniz 2013 | Table 6, p. 8, row 10; `ORC-L2OPU6DDBU.b904a0` |  |
+| TiNi3 | [Ni3Ti](https://data.orchid-project.org/compounds/Ni3Ti.html) | -42.2 kJ/mol-atom ± 1200 | 298.15 | experimental | -46.582 (mp-aaaaaccf) | -47.751 (oqmd-5776) | [5] Povoden-Karadeniz 2013; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900246-1) | Table 6, p. 8, row 6; `ORC-LAZG747PW7.cfff53` |  |
+| TiNi3 | [Ni3Ti](https://data.orchid-project.org/compounds/Ni3Ti.html) | -42.132 kJ/mol-atom | 298.15 | model | -46.582 (mp-aaaaaccf) | -47.751 (oqmd-5776) | [5] Povoden-Karadeniz 2013 | Table 6, p. 8, row 1; `ORC-GGV4NIYGUE.038c77` |  |
+| TiNi3 | [Ni3Ti](https://data.orchid-project.org/compounds/Ni3Ti.html) | -40.043 kJ/mol-atom | 298.15 | model | -46.582 (mp-aaaaaccf) | -47.751 (oqmd-5776) | [5] Povoden-Karadeniz 2013; _cites Matsumoto 2005_ [doi](https://doi.org/10.2320/matertrans.46.2920) | Table 6, p. 8, row 3; `ORC-TO7LV3HK7P.85d984` |  |
+| TiNi3 | [Ni3Ti](https://data.orchid-project.org/compounds/Ni3Ti.html) | -36.978 kJ/mol-atom | 298.15 | model | -46.582 (mp-aaaaaccf) | -47.751 (oqmd-5776) | [5] Povoden-Karadeniz 2013; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.10.003) | Table 6, p. 8, row 4; `ORC-TFYC3BEAP3.5d67ab` |  |
+| TiNi3 | [Ni3Ti](https://data.orchid-project.org/compounds/Ni3Ti.html) | -36.871 kJ/mol-atom | 298.15 | model | -46.582 (mp-aaaaaccf) | -47.751 (oqmd-5776) | [5] Povoden-Karadeniz 2013; _cites Bellen 1996_ | Table 6, p. 8, row 2; `ORC-AWMN4E2VH3.e58de0` |  |
+| UNKNOWN |  | -47.6 kJ/mol-atom | 0 | model |  |  | [5] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 6, p. 8, row 12; `ORC-YSPAWP22OA.4b8390` |  |
+| UNKNOWN |  | -47.1 kJ/mol-atom | 0 | model |  |  | [5] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 6, p. 8, row 11; `ORC-JCYRE4PV3K.9ee457` |  |
+| UNKNOWN |  | -39.8 kJ/mol-atom | 0 | model |  |  | [5] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 6, p. 8, row 35; `ORC-VJDAY63XJC.d9ce05` |  |
+| UNKNOWN |  | -39.5 kJ/mol-atom | 0 | model |  |  | [5] Povoden-Karadeniz 2013; _cites Hatcher 2009_ [doi](https://doi.org/10.1103/physrevb.80.144203) | Table 6, p. 8, row 37; `ORC-XXBR7PY5JP.9443ca` |  |
+| UNKNOWN |  | -38.1 kJ/mol-atom | 0 | model |  |  | [5] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 6, p. 8, row 26; `ORC-AEZ3NUS2GY.70bf91` |  |
+| UNKNOWN |  | -38 kJ/mol-atom | 0 | model |  |  | [5] Povoden-Karadeniz 2013; _cites Sanati 1998_ [doi](https://doi.org/10.1103/physrevb.58.13590) | Table 6, p. 8, row 28; `ORC-PY7OAANHXS.a0038a` |  |
+| UNKNOWN |  | -37.8 kJ/mol-atom | 0 | model |  |  | [5] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 6, p. 8, row 36; `ORC-A3RVHCV7SZ.e61a81` |  |
+| UNKNOWN |  | -36 kJ/mol-atom | 0 | model |  |  | [5] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 6, p. 8, row 27; `ORC-4FGZPPJ2XA.314143` |  |
+| UNKNOWN |  | -34.1 kJ/mol-atom | 0 | model |  |  | [5] Povoden-Karadeniz 2013; _cites Hatcher 2009_ [doi](https://doi.org/10.1103/physrevb.80.144203) | Table 6, p. 8, row 29; `ORC-AKMVKBOLWE.fa962a` |  |
+| UNKNOWN |  | -33.7 kJ/mol-atom | 0 | model |  |  | [5] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 6, p. 8, row 19; `ORC-QVWDFAJQI3.0a4de1` |  |
+| UNKNOWN |  | -28.2 kJ/mol-atom | 0 | model |  |  | [5] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 6, p. 8, row 20; `ORC-N5KHCICVLX.ec6b9c` |  |
 
 ## Other properties
 
@@ -366,58 +366,58 @@ Table: Phase transition, Ni–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 77 K | 77 |  | experimental | [6] Tang 1999; _cites Saburi 1982_ | p. 10 | “Experimental data from Saburi et al. \[39\] clearly con®rm this point: the Ms for an alloy with 51.3 at.% after solution treatment is 77 K which is very close to the calculation, whereas the Ms for the same alloy shifts to higher temperatures such as 160, 215 and 240 K after ageing treatment at 700, 600 and 5008C, respectively.” |
-| Phase transition | 160 K | 160 |  | experimental | [6] Tang 1999; _cites Saburi 1982_ | p. 10 | “Experimental data from Saburi et al. \[39\] clearly con®rm this point: the Ms for an alloy with 51.3 at.% after solution treatment is 77 K which is very close to the calculation, whereas the Ms for the same alloy shifts to higher temperatures such as 160, 215 and 240 K after ageing treatment at 700, 600 and 5008C, respectively.” |
-| Phase transition | 215 K | 215 |  | experimental | [6] Tang 1999; _cites Saburi 1982_ | p. 10 | “Experimental data from Saburi et al. \[39\] clearly con®rm this point: the Ms for an alloy with 51.3 at.% after solution treatment is 77 K which is very close to the calculation, whereas the Ms for the same alloy shifts to higher temperatures such as 160, 215 and 240 K after ageing treatment at 700, 600 and 5008C, respectively.” |
-| Phase transition | 240 K | 240 |  | experimental | [6] Tang 1999; _cites Saburi 1982_ | p. 10 | “Experimental data from Saburi et al. \[39\] clearly con®rm this point: the Ms for an alloy with 51.3 at.% after solution treatment is 77 K which is very close to the calculation, whereas the Ms for the same alloy shifts to higher temperatures such as 160, 215 and 240 K after ageing treatment at 700, 600 and 5008C, respectively.” |
-| Phase transition | 315 K | 315 | other | experimental | [5] Povoden-Karadeniz 2013; _cites Carroll 2004_ [doi](https://doi.org/10.1016/j.scriptamat.2003.09.020) | p. 4 | “Further, reported formation temperature around 315 K during slow cooling of aged Ti-Ni SMA \[77\] is accounted for in the parameterization of R-phase.” |
-| Phase transition | 333 K | 333 | other | model | [6] Tang 1999 | p. 11 | “4. The predicted Ms at equiatomic composition is 333 K, which is in very good agreement with ex-” |
-| Phase transition | 333 K | 333 | other | experimental | [6] Tang 1999; _cites Wasilewski 1971_ [doi](https://doi.org/10.1007/bf02662662) | p. 6 | “Wasilewski et al. \[2\] found that under very slow cooling the martensitic transformation takes place at about 333 K independent of composition in a range close to 50 at.% Ni.” |
-| Phase transition | 353 K | 353 | other: TiNi-B2 \<--> B19'; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013 | Table 2, p. 4, row 29 |  |
-| Phase transition | 366 K | 366 | other: TiNi-B2 \<--> B19'; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013; _cites Tang 1999_ [doi](https://doi.org/10.1016/s1359-6454%2899%2900193-7) | Table 2, p. 4, row 30 |  |
-| Phase transition | 366.5 K | 366.5 |  | model | [6] Tang 1999 | p. 7 | “From Fig. 6 it can also be seen that the B2 phase remains as a stable phase with equiatomic composition down to 366.5 K, where the low temperature B19' phase becomes stable thermodynamically below 366.5 K.” |
-| Phase transition | 388 K | 388 | other | model | [5] Povoden-Karadeniz 2013 | p. 10 | “The critical temperature of equal Gm is calculated at 388 K, which is above the thermodynamic equilibrium transformation to TiNi-B2.” |
-| Phase transition | 930 K | 930 | other | experimental | [5] Povoden-Karadeniz 2013; _cites Nishida 1986_ [doi](https://doi.org/10.1007/bf02650086) | p. 2 | “Nishida et al. \[19\] presented important experimental solvus data in terms of a time-temperature-transformation diagram of a Ti-52 at% Ni alloy. Concluding from his work, the kinetic solvi of Ti3Ni4 and Ti2Ni3 are situated at approximately 1023 K and 930 K, respectively.” |
-| Phase transition | 1023 K | 1023 | other | experimental | [5] Povoden-Karadeniz 2013; _cites Nishida 1986_ [doi](https://doi.org/10.1007/bf02650086) | p. 2 | “Nishida et al. \[19\] presented important experimental solvus data in terms of a time-temperature-transformation diagram of a Ti-52 at% Ni alloy. Concluding from his work, the kinetic solvi of Ti3Ni4 and Ti2Ni3 are situated at approximately 1023 K and 930 K, respectively.” |
-| Phase transition | 1040 K | 1040 | other: bcc \<--> hcp+Ti2Ni | model | [5] Povoden-Karadeniz 2013; _cites Tang 1999_ [doi](https://doi.org/10.1016/s1359-6454%2899%2900193-7) | Table 2, p. 4, row 8 |  |
-| Phase transition | 1040 K | 1040 | other: bcc \<--> hcp+Ti2Ni | model | [5] Povoden-Karadeniz 2013; _cites Matsumoto 2005_ [doi](https://doi.org/10.2320/matertrans.46.2920) | Table 2, p. 4, row 7 |  |
-| Phase transition | 1040 K | 1040 | other: bcc \<--> hcp+Ti2Ni | model | [5] Povoden-Karadeniz 2013; _cites Bellen 1996_ | Table 2, p. 4, row 6 |  |
-| Phase transition | 1045 K | 1045 | other: bcc \<--> hcp+Ti2Ni | model | [5] Povoden-Karadeniz 2013 | Table 2, p. 4, row 5 |  |
-| Phase transition | 1205 K | 1205 | other: liq \<--> bcc+Ti2Ni | model | [5] Povoden-Karadeniz 2013; _cites Tang 1999_ [doi](https://doi.org/10.1016/s1359-6454%2899%2900193-7) | Table 2, p. 4, row 4 |  |
-| Phase transition | 1215 K | 1215 | other: liq \<--> bcc+Ti2Ni | model | [5] Povoden-Karadeniz 2013; _cites Matsumoto 2005_ [doi](https://doi.org/10.2320/matertrans.46.2920) | Table 2, p. 4, row 3 |  |
-| Phase transition | 1215 K | 1215 | other: liq \<--> bcc+Ti2Ni | model | [5] Povoden-Karadeniz 2013; _cites Bellen 1996_ | Table 2, p. 4, row 2 |  |
-| Phase transition | 1221 K | 1221 | other: liq \<--> bcc+Ti2Ni | model | [5] Povoden-Karadeniz 2013 | Table 2, p. 4, row 1 |  |
-| Phase transition | 1250 K | 1250 | other: liq+TiNi-B2 \<--> Ti2Ni; _alloy: Ti 0.666667_ | model | [5] Povoden-Karadeniz 2013 | Table 2, p. 4, row 9 |  |
-| Phase transition | 1258 K | 1258 | other: liq+TiNi-B2 \<--> Ti2Ni; _alloy: Ti 0.666667_ | model | [5] Povoden-Karadeniz 2013; _cites Bellen 1996_ | Table 2, p. 4, row 10 |  |
-| Phase transition | 1258 K | 1258 | other: liq+TiNi-B2 \<--> Ti2Ni; _alloy: Ti 0.666667_ | model | [5] Povoden-Karadeniz 2013; _cites Matsumoto 2005_ [doi](https://doi.org/10.2320/matertrans.46.2920) | Table 2, p. 4, row 11 |  |
-| Phase transition | 1275 K | 1275 | other: liq+TiNi-B2 \<--> Ti2Ni; _alloy: Ti 0.666667_ | model | [5] Povoden-Karadeniz 2013; _cites Tang 1999_ [doi](https://doi.org/10.1016/s1359-6454%2899%2900193-7) | Table 2, p. 4, row 12 |  |
-| Phase transition | 1393 K | 1393 | other: liq \<--> TiNi-B2+TiNi3; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013; _cites Matsumoto 2005_ [doi](https://doi.org/10.2320/matertrans.46.2920) | Table 2, p. 4, row 19 |  |
-| Phase transition | 1393 K | 1393 | other: liq \<--> TiNi-B2+TiNi3; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013; _cites Bellen 1996_ | Table 2, p. 4, row 18 |  |
-| Phase transition | 1419 K | 1419 | other: liq \<--> TiNi-B2+TiNi3; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013 | Table 2, p. 4, row 17 |  |
-| Phase transition | 1450 K | 1450 | other: liq \<--> TiNi-B2+TiNi3; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013; _cites Tang 1999_ [doi](https://doi.org/10.1016/s1359-6454%2899%2900193-7) | Table 2, p. 4, row 20 |  |
-| Phase transition | 1559 K | 1559 | other: liq \<--> TiNi3+fcc | model | [5] Povoden-Karadeniz 2013 | Table 2, p. 4, row 25 |  |
-| Phase transition | 1560 K | 1560 | other: liq \<--> TiNi3+fcc | model | [5] Povoden-Karadeniz 2013; _cites Tang 1999_ [doi](https://doi.org/10.1016/s1359-6454%2899%2900193-7) | Table 2, p. 4, row 28 |  |
-| Phase transition | 1573 K | 1573 | other: liq \<--> TiNi3+fcc | model | [5] Povoden-Karadeniz 2013; _cites Bellen 1996_ | Table 2, p. 4, row 26 |  |
-| Phase transition | 1576 K | 1576 | other: liq \<--> TiNi3+fcc | model | [5] Povoden-Karadeniz 2013; _cites Matsumoto 2005_ [doi](https://doi.org/10.2320/matertrans.46.2920) | Table 2, p. 4, row 27 |  |
-| Phase transition | 1580 K | 1580 | other: liq \<--> TiNi-B2; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013; _cites Tang 1999_ [doi](https://doi.org/10.1016/s1359-6454%2899%2900193-7) | Table 2, p. 4, row 16 |  |
-| Phase transition | 1582.15 K | 1582.15 | congruent melting: L -> TiNi; _L: Ti 0.5; TiNi: Ti 0.5_ | model | [2] Cacciamani 2011 | Table 7, p. 8, row 2 |  |
-| Phase transition | 1583 K | 1583 | other: liq \<--> TiNi-B2; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013 | Table 2, p. 4, row 13 |  |
-| Phase transition | 1583.15 K | 1583.15 | L -> NiTi; _NiTi: Ti 0.5_ | experimental | [1] Santhy 2015; _cites Murray 1991_ | Table 4, p. 4, row 4 |  |
-| Phase transition | 1583.15 K | 1583.15 | L -> NiTi; _NiTi: Ti 0.499_ | model | [1] Santhy 2015 | Table 4, p. 4, row 3 |  |
-| Phase transition | 1583.15 K | 1583.15 | L \<=> NiTi; _NiTi: Ti 0.499_ | model | [1] Santhy 2015 | Table 8, p. 4, row 7 |  |
-| Phase transition | 1583.15 K | 1583.15 | L \<=> NiTi; _NiTi: Ti 0.5_ | model | [1] Santhy 2015; _cites Murray 1991_ | Table 8, p. 4, row 8 |  |
-| Phase transition | 1584 K | 1584 | other: liq \<--> TiNi-B2; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013; _cites Bellen 1996_ | Table 2, p. 4, row 14 |  |
-| Phase transition | 1585 K | 1585 | B2 + liquid | model | [6] Tang 1999 | p. 11 | “The calculated melting point of B2 (1585 K) also agrees better with experimental data (1513±1583 K).” |
-| Phase transition | 1585 K | 1585 | congruent transformation | model | [6] Tang 1999 | p. 6 | “In addition, the calculated congruent melting temperature is 1585 K that is closer to the experimental data (1513±1583 K) than before.” |
-| Phase transition | 1585 K | 1585 | other: liq \<--> TiNi-B2; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013; _cites Matsumoto 2005_ [doi](https://doi.org/10.2320/matertrans.46.2920) | Table 2, p. 4, row 15 |  |
-| Phase transition | 1605 K | 1605 | congruent transformation | model | [6] Tang 1999 | p. 5 | “In addition, the previous evaluation for the congruent melting temperature of B2 is 1605 K; that is higher than the experimental data which range from 1513 to 1583 K \[22\].” |
-| Phase transition | 1648 K | 1648 | other: liq \<--> TiNi3; _alloy: Ti 0.25_ | model | [5] Povoden-Karadeniz 2013 | Table 2, p. 4, row 21 |  |
-| Phase transition | 1650 K | 1650 | other: liq \<--> TiNi3; _alloy: Ti 0.25_ | model | [5] Povoden-Karadeniz 2013; _cites Matsumoto 2005_ [doi](https://doi.org/10.2320/matertrans.46.2920) | Table 2, p. 4, row 23 |  |
-| Phase transition | 1653 K | 1653 | other: liq \<--> TiNi3; _alloy: Ti 0.25_ | model | [5] Povoden-Karadeniz 2013; _cites Bellen 1996_ | Table 2, p. 4, row 22 |  |
-| Phase transition | 1653.15 K | 1653.15 | L \<=> Ni3Ti; _L: Ti 0.231; Ni3Ti: Ti 0.25_ | model | [1] Santhy 2015 | Table 8, p. 4, row 3 |  |
-| Phase transition | 1653.15 K | 1653.15 | L \<=> Ni3Ti; _Ni3Ti: Ti 0.25_ | model | [1] Santhy 2015; _cites Murray 1991_ | Table 8, p. 4, row 4 |  |
-| Phase transition | 1657.15 K | 1657.15 | congruent melting: L -> TiNi3; _L: Ti 0.25; TiNi3: Ti 0.25_ | model | [2] Cacciamani 2011 | Table 7, p. 8, row 1 |  |
-| Phase transition | 1660 K | 1660 | other: liq \<--> TiNi3; _alloy: Ti 0.25_ | model | [5] Povoden-Karadeniz 2013; _cites Tang 1999_ [doi](https://doi.org/10.1016/s1359-6454%2899%2900193-7) | Table 2, p. 4, row 24 |  |
+| Phase transition | 77 K | 77 |  | experimental | [6] Tang 1999; _cites Saburi 1982_ | p. 10; `ORC-5XWFCEUPB7.e764e3` | “Experimental data from Saburi et al. \[39\] clearly con®rm this point: the Ms for an alloy with 51.3 at.% after solution treatment is 77 K which is very close to the calculation, whereas the Ms for the same alloy shifts to higher temperatures such as 160, 215 and 240 K after ageing treatment at 700, 600 and 5008C, respectively.” |
+| Phase transition | 160 K | 160 |  | experimental | [6] Tang 1999; _cites Saburi 1982_ | p. 10; `ORC-5XWFCEUPB7.d233e6` | “Experimental data from Saburi et al. \[39\] clearly con®rm this point: the Ms for an alloy with 51.3 at.% after solution treatment is 77 K which is very close to the calculation, whereas the Ms for the same alloy shifts to higher temperatures such as 160, 215 and 240 K after ageing treatment at 700, 600 and 5008C, respectively.” |
+| Phase transition | 215 K | 215 |  | experimental | [6] Tang 1999; _cites Saburi 1982_ | p. 10; `ORC-5XWFCEUPB7.9f974d` | “Experimental data from Saburi et al. \[39\] clearly con®rm this point: the Ms for an alloy with 51.3 at.% after solution treatment is 77 K which is very close to the calculation, whereas the Ms for the same alloy shifts to higher temperatures such as 160, 215 and 240 K after ageing treatment at 700, 600 and 5008C, respectively.” |
+| Phase transition | 240 K | 240 |  | experimental | [6] Tang 1999; _cites Saburi 1982_ | p. 10; `ORC-5XWFCEUPB7.4c8295` | “Experimental data from Saburi et al. \[39\] clearly con®rm this point: the Ms for an alloy with 51.3 at.% after solution treatment is 77 K which is very close to the calculation, whereas the Ms for the same alloy shifts to higher temperatures such as 160, 215 and 240 K after ageing treatment at 700, 600 and 5008C, respectively.” |
+| Phase transition | 315 K | 315 | other | experimental | [5] Povoden-Karadeniz 2013; _cites Carroll 2004_ [doi](https://doi.org/10.1016/j.scriptamat.2003.09.020) | p. 4; `ORC-5FOJ5EMJ2W` | “Further, reported formation temperature around 315 K during slow cooling of aged Ti-Ni SMA \[77\] is accounted for in the parameterization of R-phase.” |
+| Phase transition | 333 K | 333 | other | model | [6] Tang 1999 | p. 11; `ORC-QUHHONQYTU` | “4. The predicted Ms at equiatomic composition is 333 K, which is in very good agreement with ex-” |
+| Phase transition | 333 K | 333 | other | experimental | [6] Tang 1999; _cites Wasilewski 1971_ [doi](https://doi.org/10.1007/bf02662662) | p. 6; `ORC-TZ5PFPXR52` | “Wasilewski et al. \[2\] found that under very slow cooling the martensitic transformation takes place at about 333 K independent of composition in a range close to 50 at.% Ni.” |
+| Phase transition | 353 K | 353 | other: TiNi-B2 \<--> B19'; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013 | Table 2, p. 4, row 29; `ORC-RXSARTPGFP` |  |
+| Phase transition | 366 K | 366 | other: TiNi-B2 \<--> B19'; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013; _cites Tang 1999_ [doi](https://doi.org/10.1016/s1359-6454%2899%2900193-7) | Table 2, p. 4, row 30; `ORC-NGL6WLHLXD` |  |
+| Phase transition | 366.5 K | 366.5 |  | model | [6] Tang 1999 | p. 7; `ORC-PNZDWVDKNU` | “From Fig. 6 it can also be seen that the B2 phase remains as a stable phase with equiatomic composition down to 366.5 K, where the low temperature B19' phase becomes stable thermodynamically below 366.5 K.” |
+| Phase transition | 388 K | 388 | other | model | [5] Povoden-Karadeniz 2013 | p. 10; `ORC-3B5I7DILSI` | “The critical temperature of equal Gm is calculated at 388 K, which is above the thermodynamic equilibrium transformation to TiNi-B2.” |
+| Phase transition | 930 K | 930 | other | experimental | [5] Povoden-Karadeniz 2013; _cites Nishida 1986_ [doi](https://doi.org/10.1007/bf02650086) | p. 2; `ORC-MJEKOBUSVA.2fd871` | “Nishida et al. \[19\] presented important experimental solvus data in terms of a time-temperature-transformation diagram of a Ti-52 at% Ni alloy. Concluding from his work, the kinetic solvi of Ti3Ni4 and Ti2Ni3 are situated at approximately 1023 K and 930 K, respectively.” |
+| Phase transition | 1023 K | 1023 | other | experimental | [5] Povoden-Karadeniz 2013; _cites Nishida 1986_ [doi](https://doi.org/10.1007/bf02650086) | p. 2; `ORC-MJEKOBUSVA.b57542` | “Nishida et al. \[19\] presented important experimental solvus data in terms of a time-temperature-transformation diagram of a Ti-52 at% Ni alloy. Concluding from his work, the kinetic solvi of Ti3Ni4 and Ti2Ni3 are situated at approximately 1023 K and 930 K, respectively.” |
+| Phase transition | 1040 K | 1040 | other: bcc \<--> hcp+Ti2Ni | model | [5] Povoden-Karadeniz 2013; _cites Tang 1999_ [doi](https://doi.org/10.1016/s1359-6454%2899%2900193-7) | Table 2, p. 4, row 8; `ORC-44YE47YPA3` |  |
+| Phase transition | 1040 K | 1040 | other: bcc \<--> hcp+Ti2Ni | model | [5] Povoden-Karadeniz 2013; _cites Matsumoto 2005_ [doi](https://doi.org/10.2320/matertrans.46.2920) | Table 2, p. 4, row 7; `ORC-BVZLB4446H` |  |
+| Phase transition | 1040 K | 1040 | other: bcc \<--> hcp+Ti2Ni | model | [5] Povoden-Karadeniz 2013; _cites Bellen 1996_ | Table 2, p. 4, row 6; `ORC-QFVZXL2YFS` |  |
+| Phase transition | 1045 K | 1045 | other: bcc \<--> hcp+Ti2Ni | model | [5] Povoden-Karadeniz 2013 | Table 2, p. 4, row 5; `ORC-HZRPTUZWRQ` |  |
+| Phase transition | 1205 K | 1205 | other: liq \<--> bcc+Ti2Ni | model | [5] Povoden-Karadeniz 2013; _cites Tang 1999_ [doi](https://doi.org/10.1016/s1359-6454%2899%2900193-7) | Table 2, p. 4, row 4; `ORC-CZT4QPYZY5` |  |
+| Phase transition | 1215 K | 1215 | other: liq \<--> bcc+Ti2Ni | model | [5] Povoden-Karadeniz 2013; _cites Matsumoto 2005_ [doi](https://doi.org/10.2320/matertrans.46.2920) | Table 2, p. 4, row 3; `ORC-UJBGTAJRRE` |  |
+| Phase transition | 1215 K | 1215 | other: liq \<--> bcc+Ti2Ni | model | [5] Povoden-Karadeniz 2013; _cites Bellen 1996_ | Table 2, p. 4, row 2; `ORC-XNBRK6MZGO` |  |
+| Phase transition | 1221 K | 1221 | other: liq \<--> bcc+Ti2Ni | model | [5] Povoden-Karadeniz 2013 | Table 2, p. 4, row 1; `ORC-SZAVZQ6QQN` |  |
+| Phase transition | 1250 K | 1250 | other: liq+TiNi-B2 \<--> Ti2Ni; _alloy: Ti 0.666667_ | model | [5] Povoden-Karadeniz 2013 | Table 2, p. 4, row 9; `ORC-RHVU6P3344` |  |
+| Phase transition | 1258 K | 1258 | other: liq+TiNi-B2 \<--> Ti2Ni; _alloy: Ti 0.666667_ | model | [5] Povoden-Karadeniz 2013; _cites Bellen 1996_ | Table 2, p. 4, row 10; `ORC-2CJE6AJ66W` |  |
+| Phase transition | 1258 K | 1258 | other: liq+TiNi-B2 \<--> Ti2Ni; _alloy: Ti 0.666667_ | model | [5] Povoden-Karadeniz 2013; _cites Matsumoto 2005_ [doi](https://doi.org/10.2320/matertrans.46.2920) | Table 2, p. 4, row 11; `ORC-YV35OFO3L7` |  |
+| Phase transition | 1275 K | 1275 | other: liq+TiNi-B2 \<--> Ti2Ni; _alloy: Ti 0.666667_ | model | [5] Povoden-Karadeniz 2013; _cites Tang 1999_ [doi](https://doi.org/10.1016/s1359-6454%2899%2900193-7) | Table 2, p. 4, row 12; `ORC-E6JS7FMVNV` |  |
+| Phase transition | 1393 K | 1393 | other: liq \<--> TiNi-B2+TiNi3; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013; _cites Matsumoto 2005_ [doi](https://doi.org/10.2320/matertrans.46.2920) | Table 2, p. 4, row 19; `ORC-7PV7NK3CV6` |  |
+| Phase transition | 1393 K | 1393 | other: liq \<--> TiNi-B2+TiNi3; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013; _cites Bellen 1996_ | Table 2, p. 4, row 18; `ORC-HWCELQRI2V` |  |
+| Phase transition | 1419 K | 1419 | other: liq \<--> TiNi-B2+TiNi3; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013 | Table 2, p. 4, row 17; `ORC-BCRVD72DG5` |  |
+| Phase transition | 1450 K | 1450 | other: liq \<--> TiNi-B2+TiNi3; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013; _cites Tang 1999_ [doi](https://doi.org/10.1016/s1359-6454%2899%2900193-7) | Table 2, p. 4, row 20; `ORC-BRHTCVL55I` |  |
+| Phase transition | 1559 K | 1559 | other: liq \<--> TiNi3+fcc | model | [5] Povoden-Karadeniz 2013 | Table 2, p. 4, row 25; `ORC-YP52VIULKV` |  |
+| Phase transition | 1560 K | 1560 | other: liq \<--> TiNi3+fcc | model | [5] Povoden-Karadeniz 2013; _cites Tang 1999_ [doi](https://doi.org/10.1016/s1359-6454%2899%2900193-7) | Table 2, p. 4, row 28; `ORC-OXTYSIVSRL` |  |
+| Phase transition | 1573 K | 1573 | other: liq \<--> TiNi3+fcc | model | [5] Povoden-Karadeniz 2013; _cites Bellen 1996_ | Table 2, p. 4, row 26; `ORC-O4RHPTV76D` |  |
+| Phase transition | 1576 K | 1576 | other: liq \<--> TiNi3+fcc | model | [5] Povoden-Karadeniz 2013; _cites Matsumoto 2005_ [doi](https://doi.org/10.2320/matertrans.46.2920) | Table 2, p. 4, row 27; `ORC-5HFVFXXK2A` |  |
+| Phase transition | 1580 K | 1580 | other: liq \<--> TiNi-B2; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013; _cites Tang 1999_ [doi](https://doi.org/10.1016/s1359-6454%2899%2900193-7) | Table 2, p. 4, row 16; `ORC-PVUOIWKBEH` |  |
+| Phase transition | 1582.15 K | 1582.15 | congruent melting: L -> TiNi; _L: Ti 0.5; TiNi: Ti 0.5_ | model | [2] Cacciamani 2011 | Table 7, p. 8, row 2; `ORC-CKC5YLPAPY` |  |
+| Phase transition | 1583 K | 1583 | other: liq \<--> TiNi-B2; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013 | Table 2, p. 4, row 13; `ORC-OGYZ24TXFC` |  |
+| Phase transition | 1583.15 K | 1583.15 | L -> NiTi; _NiTi: Ti 0.5_ | experimental | [1] Santhy 2015; _cites Murray 1991_ | Table 4, p. 4, row 4; `ORC-5QMYRHF44L` |  |
+| Phase transition | 1583.15 K | 1583.15 | L -> NiTi; _NiTi: Ti 0.499_ | model | [1] Santhy 2015 | Table 4, p. 4, row 3; `ORC-MGO2LG7363` |  |
+| Phase transition | 1583.15 K | 1583.15 | L \<=> NiTi; _NiTi: Ti 0.499_ | model | [1] Santhy 2015 | Table 8, p. 4, row 7; `ORC-6LPVVLDLS7` |  |
+| Phase transition | 1583.15 K | 1583.15 | L \<=> NiTi; _NiTi: Ti 0.5_ | model | [1] Santhy 2015; _cites Murray 1991_ | Table 8, p. 4, row 8; `ORC-YRJP4EZEQR` |  |
+| Phase transition | 1584 K | 1584 | other: liq \<--> TiNi-B2; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013; _cites Bellen 1996_ | Table 2, p. 4, row 14; `ORC-25QC66ZPRM` |  |
+| Phase transition | 1585 K | 1585 | B2 + liquid | model | [6] Tang 1999 | p. 11; `ORC-H45YQVEETZ` | “The calculated melting point of B2 (1585 K) also agrees better with experimental data (1513±1583 K).” |
+| Phase transition | 1585 K | 1585 | congruent transformation | model | [6] Tang 1999 | p. 6; `ORC-TNR2HWXLHM` | “In addition, the calculated congruent melting temperature is 1585 K that is closer to the experimental data (1513±1583 K) than before.” |
+| Phase transition | 1585 K | 1585 | other: liq \<--> TiNi-B2; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013; _cites Matsumoto 2005_ [doi](https://doi.org/10.2320/matertrans.46.2920) | Table 2, p. 4, row 15; `ORC-UQL7NL5ZHK` |  |
+| Phase transition | 1605 K | 1605 | congruent transformation | model | [6] Tang 1999 | p. 5; `ORC-DZUYTF7L4R` | “In addition, the previous evaluation for the congruent melting temperature of B2 is 1605 K; that is higher than the experimental data which range from 1513 to 1583 K \[22\].” |
+| Phase transition | 1648 K | 1648 | other: liq \<--> TiNi3; _alloy: Ti 0.25_ | model | [5] Povoden-Karadeniz 2013 | Table 2, p. 4, row 21; `ORC-WDWAB2P56C` |  |
+| Phase transition | 1650 K | 1650 | other: liq \<--> TiNi3; _alloy: Ti 0.25_ | model | [5] Povoden-Karadeniz 2013; _cites Matsumoto 2005_ [doi](https://doi.org/10.2320/matertrans.46.2920) | Table 2, p. 4, row 23; `ORC-Y5RHGH6ZTQ` |  |
+| Phase transition | 1653 K | 1653 | other: liq \<--> TiNi3; _alloy: Ti 0.25_ | model | [5] Povoden-Karadeniz 2013; _cites Bellen 1996_ | Table 2, p. 4, row 22; `ORC-54C5M6S4GO` |  |
+| Phase transition | 1653.15 K | 1653.15 | L \<=> Ni3Ti; _L: Ti 0.231; Ni3Ti: Ti 0.25_ | model | [1] Santhy 2015 | Table 8, p. 4, row 3; `ORC-APIRESGC3A` |  |
+| Phase transition | 1653.15 K | 1653.15 | L \<=> Ni3Ti; _Ni3Ti: Ti 0.25_ | model | [1] Santhy 2015; _cites Murray 1991_ | Table 8, p. 4, row 4; `ORC-EE4UYNSVCM` |  |
+| Phase transition | 1657.15 K | 1657.15 | congruent melting: L -> TiNi3; _L: Ti 0.25; TiNi3: Ti 0.25_ | model | [2] Cacciamani 2011 | Table 7, p. 8, row 1; `ORC-2SPA6B42YX` |  |
+| Phase transition | 1660 K | 1660 | other: liq \<--> TiNi3; _alloy: Ti 0.25_ | model | [5] Povoden-Karadeniz 2013; _cites Tang 1999_ [doi](https://doi.org/10.1016/s1359-6454%2899%2900193-7) | Table 2, p. 4, row 24; `ORC-AWUHOYMGDR` |  |
 
 ### Formation (6)
 
@@ -425,12 +425,12 @@ Table: Formation, Ni–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy of formation; _printed: ΔSf_ | -10.3 J/mol K | 1653 |  | model | [5] Povoden-Karadeniz 2013 | p. 7 | “Preferring experimental heat capacities over Neumann-Kopp's rule, applied in all previous assessments, now both groups of experimental thermodynamic data, part of calorimetric experiments as well as experimental activities are approximated by the modeling, while the entropy of formation remains highly negative, ΔSf 1⁄4 -10.3 J/mol K at 1653 K.” |
-| Entropy of formation; _printed: ΔSf(TiNi3)_ | -14.9 J/mol K | 1653 |  | experimental | [5] Povoden-Karadeniz 2013; _cites Smith 1993_ [doi](https://doi.org/10.1007/bf02671969) | p. 7 | “Smith et al. \[62\] derived a ΔSf(TiNi3) 1⁄4 -14.9 J/mol K at 1653 K, close to the melting point.” |
-| Gibbs energy of formation; _printed: ΔGf_ | -43.6 per mol-atom | 1300.15 | Ni3Ti; _alloy: Ti 0.25_ | experimental | [1] Santhy 2015; _cites Levshin 1979_ | Table 9, p. 6, row 7 |  |
-| Gibbs energy of formation; _printed: ΔGf_ | -29.607 per mol-atom | 1300.15 | Ni3Ti; _alloy: Ti 0.25_ | model | [1] Santhy 2015 | Table 9, p. 6, row 8 |  |
-| Gibbs energy of formation; _printed: ΔGf_ | -31.943 per mol-atom | 1300.15 | NiTi; _alloy: Ti 0.5_ | model | [1] Santhy 2015 | Table 9, p. 6, row 24 |  |
-| Gibbs energy of formation; _printed: ΔGf_ | -31.6 per mol-atom | 1300.15 | NiTi; _alloy: Ti 0.5_ | experimental | [1] Santhy 2015; _cites Levshin 1979_ | Table 9, p. 6, row 23 |  |
+| Entropy of formation; _printed: ΔSf_ | -10.3 J/mol K | 1653 |  | model | [5] Povoden-Karadeniz 2013 | p. 7; `ORC-7455OBA4PK` | “Preferring experimental heat capacities over Neumann-Kopp's rule, applied in all previous assessments, now both groups of experimental thermodynamic data, part of calorimetric experiments as well as experimental activities are approximated by the modeling, while the entropy of formation remains highly negative, ΔSf 1⁄4 -10.3 J/mol K at 1653 K.” |
+| Entropy of formation; _printed: ΔSf(TiNi3)_ | -14.9 J/mol K | 1653 |  | experimental | [5] Povoden-Karadeniz 2013; _cites Smith 1993_ [doi](https://doi.org/10.1007/bf02671969) | p. 7; `ORC-UPEU77MNC6` | “Smith et al. \[62\] derived a ΔSf(TiNi3) 1⁄4 -14.9 J/mol K at 1653 K, close to the melting point.” |
+| Gibbs energy of formation; _printed: ΔGf_ | -43.6 per mol-atom | 1300.15 | Ni3Ti; _alloy: Ti 0.25_ | experimental | [1] Santhy 2015; _cites Levshin 1979_ | Table 9, p. 6, row 7; `ORC-3ICO7Z73UI` |  |
+| Gibbs energy of formation; _printed: ΔGf_ | -29.607 per mol-atom | 1300.15 | Ni3Ti; _alloy: Ti 0.25_ | model | [1] Santhy 2015 | Table 9, p. 6, row 8; `ORC-MYMJGMA2C3` |  |
+| Gibbs energy of formation; _printed: ΔGf_ | -31.943 per mol-atom | 1300.15 | NiTi; _alloy: Ti 0.5_ | model | [1] Santhy 2015 | Table 9, p. 6, row 24; `ORC-KP2CK3KXXC` |  |
+| Gibbs energy of formation; _printed: ΔGf_ | -31.6 per mol-atom | 1300.15 | NiTi; _alloy: Ti 0.5_ | experimental | [1] Santhy 2015; _cites Levshin 1979_ | Table 9, p. 6, row 23; `ORC-OVNEQTKGLU` |  |
 
 ### Heat capacity / entropy / enthalpy (43)
 
@@ -438,49 +438,49 @@ Table: Heat capacity / entropy / enthalpy, Ni–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: Sm, 298.15 K_ | 28.63 per mol-atom | 298.15 | Ti2Ni; _alloy: Ti 0.666667_ | model | [5] Povoden-Karadeniz 2013; _cites Bellen 1996_ | Table 6, p. 8, row 15 |  |
-| Entropy; _printed: Sm, 298.15 K_ | 29.22 per mol-atom | 298.15 | Ti2Ni; _alloy: Ti 0.666667_ | model | [5] Povoden-Karadeniz 2013 | Table 6, p. 8, row 14 |  |
-| Entropy; _printed: Sm, 298.15 K_ | 22.31 per mol-atom | 298.15 | TiNi B19'; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013 | Table 6, p. 8, row 33 |  |
-| Entropy; _printed: Sm, 298.15 K_ | 30.82 per mol-atom | 298.15 | TiNi-B2; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013 | Table 6, p. 8, row 21 |  |
-| Entropy; _printed: Sm, 298.15 K_ | 31.19 per mol-atom | 298.15 | TiNi-B2; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013; _cites Bellen 1996_ | Table 6, p. 8, row 22 |  |
-| Entropy; _printed: Sm, 298.15 K_ | 31.47 per mol-atom | 298.15 | TiNi-B2; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013; _cites Matsumoto 2005_ [doi](https://doi.org/10.2320/matertrans.46.2920) | Table 6, p. 8, row 23 |  |
-| Entropy; _printed: Sm, 298.15 K_ | 27.01 per mol-atom | 298.15 | TiNi3; _alloy: Ti 0.25_ | model | [5] Povoden-Karadeniz 2013; _cites Bellen 1996_ | Table 6, p. 8, row 2 |  |
-| Entropy; _printed: Sm, 298.15 K_ | 27.44 per mol-atom | 298.15 | TiNi3; _alloy: Ti 0.25_ | model | [5] Povoden-Karadeniz 2013 | Table 6, p. 8, row 1 |  |
-| Entropy; _printed: Sm, 298.15 K_ | 27.01 per mol-atom | 298.15 | TiNi3; _alloy: Ti 0.25_ | model | [5] Povoden-Karadeniz 2013; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.10.003) | Table 6, p. 8, row 4 |  |
-| Entropy; _printed: Sm, 298.15 K_ | 25.09 per mol-atom | 298.15 | TiNi3; _alloy: Ti 0.25_ | model | [5] Povoden-Karadeniz 2013; _cites Matsumoto 2005_ [doi](https://doi.org/10.2320/matertrans.46.2920) | Table 6, p. 8, row 3 |  |
-| Heat capacity; _printed: Cp, 298.15 K_ | 24.6 per mol-atom | 298.15 | Ti2Ni; _alloy: Ti 0.666667_ | experimental | [5] Povoden-Karadeniz 2013; _cites Smith 1993_ [doi](https://doi.org/10.1007/bf02671969) | Table 6, p. 8, row 18 |  |
-| Heat capacity; _printed: Cp, 298.15 K_ | 23.4 per mol-atom | 298.15 | Ti2Ni; _alloy: Ti 0.666667_ | experimental | [5] Povoden-Karadeniz 2013; _cites Zabdyr_ | Table 6, p. 8, row 17 |  |
-| Heat capacity; _printed: Cp, 298.15 K_ | 25.09 per mol-atom | 298.15 | Ti2Ni; _alloy: Ti 0.666667_ | model | [5] Povoden-Karadeniz 2013; _cites Bellen 1996_ | Table 6, p. 8, row 15 |  |
-| Heat capacity; _printed: Cp, 298.15 K_ | 24.71 per mol-atom | 298.15 | Ti2Ni; _alloy: Ti 0.666667_ | model | [5] Povoden-Karadeniz 2013 | Table 6, p. 8, row 14 |  |
-| Heat capacity; _printed: Cp, 298.15 K_ | 25.54 per mol-atom | 298.15 | TiNi B19'; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013 | Table 6, p. 8, row 33 |  |
-| Heat capacity; _printed: Cp, 298.15 K_ | 24.2 per mol-atom | 298.15 | TiNi B19'; _alloy: Ti 0.5_ | experimental | [5] Povoden-Karadeniz 2013; _cites Smith 1993_ [doi](https://doi.org/10.1007/bf02671969) | Table 6, p. 8, row 34 |  |
-| Heat capacity; _printed: Cp, 298.15 K_ | 25.52 per mol-atom | 298.15 | TiNi-B2; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013 | Table 6, p. 8, row 21 |  |
-| Heat capacity; _printed: Cp, 298.15 K_ | 25.52 per mol-atom | 298.15 | TiNi-B2; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013; _cites Bellen 1996_ | Table 6, p. 8, row 22 |  |
-| Heat capacity; _printed: Cp, 298.15 K_ | 25.58 per mol-atom | 298.15 | TiNi-B2; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013; _cites Matsumoto 2005_ [doi](https://doi.org/10.2320/matertrans.46.2920) | Table 6, p. 8, row 23 |  |
-| Heat capacity; _printed: Cp, 298.15 K_ | 25.02 per mol-atom | 298.15 | TiNi3; _alloy: Ti 0.25_ | model | [5] Povoden-Karadeniz 2013; _cites Bellen 1996_ | Table 6, p. 8, row 2 |  |
-| Heat capacity; _printed: Cp, 298.15 K_ | 21.42 per mol-atom | 298.15 | TiNi3; _alloy: Ti 0.25_ | model | [5] Povoden-Karadeniz 2013 | Table 6, p. 8, row 1 |  |
-| Heat capacity; _printed: Cp, 298.15 K_ | 23.4 per mol-atom | 298.15 | TiNi3; _alloy: Ti 0.25_ | experimental | [5] Povoden-Karadeniz 2013; _cites Smith 1993_ [doi](https://doi.org/10.1007/bf02671969) | Table 6, p. 8, row 9 |  |
-| Heat capacity; _printed: Cp, 298.15 K_ | 21.79 per mol-atom | 298.15 | TiNi3; _alloy: Ti 0.25_ | experimental | [5] Povoden-Karadeniz 2013; _cites Onderka 2010_ | Table 6, p. 8, row 8 |  |
-| Heat capacity; _printed: Cp, 298.15 K_ | 25.02 per mol-atom | 298.15 | TiNi3; _alloy: Ti 0.25_ | model | [5] Povoden-Karadeniz 2013; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.10.003) | Table 6, p. 8, row 4 |  |
-| Heat capacity; _printed: Cp, 298.15 K_ | 25.02 per mol-atom | 298.15 | TiNi3; _alloy: Ti 0.25_ | model | [5] Povoden-Karadeniz 2013; _cites Matsumoto 2005_ [doi](https://doi.org/10.2320/matertrans.46.2920) | Table 6, p. 8, row 3 |  |
-| Transition enthalpy; _printed: enthalpy of formation_ | -3275 unknown | 0 | R-Phase | model | [5] Povoden-Karadeniz 2013; _cites Hatcher 2009_ [doi](https://doi.org/10.1103/physrevb.80.144203) | Table 4, p. 5, row 17 |  |
-| Transition enthalpy; _printed: enthalpy of formation_ | -5114 unknown | 0 | TiNi B19; _alloy: Ti 0.5_ | DFT | [5] Povoden-Karadeniz 2013; _cites Vishnu 2010_ [doi](https://doi.org/10.1016/j.actamat.2009.09.019) | Table 4, p. 5, row 11 |  |
-| Transition enthalpy; _printed: enthalpy of formation_ | -2895 unknown | 0 | TiNi B19; _alloy: Ti 0.5_ | DFT | [5] Povoden-Karadeniz 2013; _cites Huang 2003_ [doi](https://doi.org/10.1038/nmat884) | Table 4, p. 5, row 13 |  |
-| Transition enthalpy; _printed: enthalpy of formation_ | -3911 unknown | 0 | TiNi B19; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013; _cites Hatcher 2009_ [doi](https://doi.org/10.1103/physrevb.80.144203) | Table 4, p. 5, row 15 |  |
-| Transition enthalpy; _printed: enthalpy of formation_ | 6800 unknown | 0 | TiNi B19; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 4, p. 5, row 10 |  |
-| Transition enthalpy; _printed: enthalpy of formation_ | 3600 unknown | 0 | TiNi B19; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 4, p. 5, row 9 |  |
-| Transition enthalpy; _printed: enthalpy of formation_ | -3859 unknown | 0 | TiNi B19; _alloy: Ti 0.5_ | DFT | [5] Povoden-Karadeniz 2013; _cites Huang 2003_ [doi](https://doi.org/10.1038/nmat884) | Table 4, p. 5, row 12 |  |
-| Transition enthalpy; _printed: enthalpy of formation_ | -3281 unknown | 0 | TiNi B19; _alloy: Ti 0.5_ | DFT | [5] Povoden-Karadeniz 2013; _cites Ye 1997_ [doi](https://doi.org/10.1103/physrevb.56.3678) | Table 4, p. 5, row 14 |  |
-| Transition enthalpy; _printed: enthalpy of formation_ | -1700 unknown | 0 | TiNi B19'; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 4, p. 5, row 1 |  |
-| Transition enthalpy; _printed: enthalpy of formation_ | -4052 unknown | 0 | TiNi B19'; _alloy: Ti 0.5_ | DFT | [5] Povoden-Karadeniz 2013; _cites Huang 2003_ [doi](https://doi.org/10.1038/nmat884) | Table 4, p. 5, row 5 |  |
-| Transition enthalpy; _printed: enthalpy of formation_ | -4438 unknown | 0 | TiNi B19'; _alloy: Ti 0.5_ | DFT | [5] Povoden-Karadeniz 2013; _cites Ye 1997_ [doi](https://doi.org/10.1103/physrevb.56.3678) | Table 4, p. 5, row 6 |  |
-| Transition enthalpy; _printed: enthalpy of formation_ | -5347 unknown | 0 | TiNi B19'; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013; _cites Hatcher 2009_ [doi](https://doi.org/10.1103/physrevb.80.144203) | Table 4, p. 5, row 7 |  |
-| Transition enthalpy; _printed: enthalpy of formation_ | -7815 unknown | 0 | TiNi B19'; _alloy: Ti 0.5_ | DFT | [5] Povoden-Karadeniz 2013; _cites Vishnu 2010_ [doi](https://doi.org/10.1016/j.actamat.2009.09.019) | Table 4, p. 5, row 3 |  |
-| Transition enthalpy; _printed: enthalpy of formation_ | -4728 unknown | 0 | TiNi B19'; _alloy: Ti 0.5_ | DFT | [5] Povoden-Karadeniz 2013; _cites Huang 2003_ [doi](https://doi.org/10.1038/nmat884) | Table 4, p. 5, row 4 |  |
-| Transition enthalpy; _printed: enthalpy of formation_ | -1800 unknown | 0 | TiNi B19'; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 4, p. 5, row 2 |  |
-| Transition enthalpy; _printed: enthalpy of formation_ | -928.6 unknown | 298.15 | R-Phase | model | [5] Povoden-Karadeniz 2013 | Table 4, p. 5, row 18 |  |
-| Transition enthalpy; _printed: enthalpy of formation_ | -1564.3 unknown | 298.15 | TiNi B19; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013 | Table 4, p. 5, row 16 |  |
-| Transition enthalpy; _printed: enthalpy of formation_ | -3001 unknown | 298.15 | TiNi B19'; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013 | Table 4, p. 5, row 8 |  |
+| Entropy; _printed: Sm, 298.15 K_ | 28.63 per mol-atom | 298.15 | Ti2Ni; _alloy: Ti 0.666667_ | model | [5] Povoden-Karadeniz 2013; _cites Bellen 1996_ | Table 6, p. 8, row 15; `ORC-RUO2L3D6YH.da5c6d` |  |
+| Entropy; _printed: Sm, 298.15 K_ | 29.22 per mol-atom | 298.15 | Ti2Ni; _alloy: Ti 0.666667_ | model | [5] Povoden-Karadeniz 2013 | Table 6, p. 8, row 14; `ORC-VZ42TLKJHT.a9228e` |  |
+| Entropy; _printed: Sm, 298.15 K_ | 22.31 per mol-atom | 298.15 | TiNi B19'; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013 | Table 6, p. 8, row 33; `ORC-HHKNYOONKX.000df8` |  |
+| Entropy; _printed: Sm, 298.15 K_ | 30.82 per mol-atom | 298.15 | TiNi-B2; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013 | Table 6, p. 8, row 21; `ORC-BFT55GLVVO.51bf13` |  |
+| Entropy; _printed: Sm, 298.15 K_ | 31.19 per mol-atom | 298.15 | TiNi-B2; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013; _cites Bellen 1996_ | Table 6, p. 8, row 22; `ORC-DAZ6OBEEXC.780a52` |  |
+| Entropy; _printed: Sm, 298.15 K_ | 31.47 per mol-atom | 298.15 | TiNi-B2; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013; _cites Matsumoto 2005_ [doi](https://doi.org/10.2320/matertrans.46.2920) | Table 6, p. 8, row 23; `ORC-VW75NPAQGL.606818` |  |
+| Entropy; _printed: Sm, 298.15 K_ | 27.01 per mol-atom | 298.15 | TiNi3; _alloy: Ti 0.25_ | model | [5] Povoden-Karadeniz 2013; _cites Bellen 1996_ | Table 6, p. 8, row 2; `ORC-AWMN4E2VH3.01be67` |  |
+| Entropy; _printed: Sm, 298.15 K_ | 27.44 per mol-atom | 298.15 | TiNi3; _alloy: Ti 0.25_ | model | [5] Povoden-Karadeniz 2013 | Table 6, p. 8, row 1; `ORC-GGV4NIYGUE.aed7ad` |  |
+| Entropy; _printed: Sm, 298.15 K_ | 27.01 per mol-atom | 298.15 | TiNi3; _alloy: Ti 0.25_ | model | [5] Povoden-Karadeniz 2013; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.10.003) | Table 6, p. 8, row 4; `ORC-TFYC3BEAP3.6502c7` |  |
+| Entropy; _printed: Sm, 298.15 K_ | 25.09 per mol-atom | 298.15 | TiNi3; _alloy: Ti 0.25_ | model | [5] Povoden-Karadeniz 2013; _cites Matsumoto 2005_ [doi](https://doi.org/10.2320/matertrans.46.2920) | Table 6, p. 8, row 3; `ORC-TO7LV3HK7P.f5741f` |  |
+| Heat capacity; _printed: Cp, 298.15 K_ | 24.6 per mol-atom | 298.15 | Ti2Ni; _alloy: Ti 0.666667_ | experimental | [5] Povoden-Karadeniz 2013; _cites Smith 1993_ [doi](https://doi.org/10.1007/bf02671969) | Table 6, p. 8, row 18; `ORC-IS6SRA7BLW.330048` |  |
+| Heat capacity; _printed: Cp, 298.15 K_ | 23.4 per mol-atom | 298.15 | Ti2Ni; _alloy: Ti 0.666667_ | experimental | [5] Povoden-Karadeniz 2013; _cites Zabdyr_ | Table 6, p. 8, row 17; `ORC-N6WSGETJJC.45561d` |  |
+| Heat capacity; _printed: Cp, 298.15 K_ | 25.09 per mol-atom | 298.15 | Ti2Ni; _alloy: Ti 0.666667_ | model | [5] Povoden-Karadeniz 2013; _cites Bellen 1996_ | Table 6, p. 8, row 15; `ORC-RUO2L3D6YH.8d36b2` |  |
+| Heat capacity; _printed: Cp, 298.15 K_ | 24.71 per mol-atom | 298.15 | Ti2Ni; _alloy: Ti 0.666667_ | model | [5] Povoden-Karadeniz 2013 | Table 6, p. 8, row 14; `ORC-VZ42TLKJHT.ac7ff8` |  |
+| Heat capacity; _printed: Cp, 298.15 K_ | 25.54 per mol-atom | 298.15 | TiNi B19'; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013 | Table 6, p. 8, row 33; `ORC-HHKNYOONKX.fdfdf2` |  |
+| Heat capacity; _printed: Cp, 298.15 K_ | 24.2 per mol-atom | 298.15 | TiNi B19'; _alloy: Ti 0.5_ | experimental | [5] Povoden-Karadeniz 2013; _cites Smith 1993_ [doi](https://doi.org/10.1007/bf02671969) | Table 6, p. 8, row 34; `ORC-L455SW7B3D.1ba23f` |  |
+| Heat capacity; _printed: Cp, 298.15 K_ | 25.52 per mol-atom | 298.15 | TiNi-B2; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013 | Table 6, p. 8, row 21; `ORC-BFT55GLVVO.49814b` |  |
+| Heat capacity; _printed: Cp, 298.15 K_ | 25.52 per mol-atom | 298.15 | TiNi-B2; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013; _cites Bellen 1996_ | Table 6, p. 8, row 22; `ORC-DAZ6OBEEXC.4f1d35` |  |
+| Heat capacity; _printed: Cp, 298.15 K_ | 25.58 per mol-atom | 298.15 | TiNi-B2; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013; _cites Matsumoto 2005_ [doi](https://doi.org/10.2320/matertrans.46.2920) | Table 6, p. 8, row 23; `ORC-VW75NPAQGL.e172ad` |  |
+| Heat capacity; _printed: Cp, 298.15 K_ | 25.02 per mol-atom | 298.15 | TiNi3; _alloy: Ti 0.25_ | model | [5] Povoden-Karadeniz 2013; _cites Bellen 1996_ | Table 6, p. 8, row 2; `ORC-AWMN4E2VH3.5ff15c` |  |
+| Heat capacity; _printed: Cp, 298.15 K_ | 21.42 per mol-atom | 298.15 | TiNi3; _alloy: Ti 0.25_ | model | [5] Povoden-Karadeniz 2013 | Table 6, p. 8, row 1; `ORC-GGV4NIYGUE.cdb9de` |  |
+| Heat capacity; _printed: Cp, 298.15 K_ | 23.4 per mol-atom | 298.15 | TiNi3; _alloy: Ti 0.25_ | experimental | [5] Povoden-Karadeniz 2013; _cites Smith 1993_ [doi](https://doi.org/10.1007/bf02671969) | Table 6, p. 8, row 9; `ORC-OF5U35NQQT.992d72` |  |
+| Heat capacity; _printed: Cp, 298.15 K_ | 21.79 per mol-atom | 298.15 | TiNi3; _alloy: Ti 0.25_ | experimental | [5] Povoden-Karadeniz 2013; _cites Onderka 2010_ | Table 6, p. 8, row 8; `ORC-RH4LYZGE3Y.f7a613` |  |
+| Heat capacity; _printed: Cp, 298.15 K_ | 25.02 per mol-atom | 298.15 | TiNi3; _alloy: Ti 0.25_ | model | [5] Povoden-Karadeniz 2013; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.10.003) | Table 6, p. 8, row 4; `ORC-TFYC3BEAP3.8c5139` |  |
+| Heat capacity; _printed: Cp, 298.15 K_ | 25.02 per mol-atom | 298.15 | TiNi3; _alloy: Ti 0.25_ | model | [5] Povoden-Karadeniz 2013; _cites Matsumoto 2005_ [doi](https://doi.org/10.2320/matertrans.46.2920) | Table 6, p. 8, row 3; `ORC-TO7LV3HK7P.c35daf` |  |
+| Transition enthalpy; _printed: enthalpy of formation_ | -3275 unknown | 0 | R-Phase | model | [5] Povoden-Karadeniz 2013; _cites Hatcher 2009_ [doi](https://doi.org/10.1103/physrevb.80.144203) | Table 4, p. 5, row 17; `ORC-NLDSG7REDW` |  |
+| Transition enthalpy; _printed: enthalpy of formation_ | -5114 unknown | 0 | TiNi B19; _alloy: Ti 0.5_ | DFT | [5] Povoden-Karadeniz 2013; _cites Vishnu 2010_ [doi](https://doi.org/10.1016/j.actamat.2009.09.019) | Table 4, p. 5, row 11; `ORC-BXRZOACID3` |  |
+| Transition enthalpy; _printed: enthalpy of formation_ | -2895 unknown | 0 | TiNi B19; _alloy: Ti 0.5_ | DFT | [5] Povoden-Karadeniz 2013; _cites Huang 2003_ [doi](https://doi.org/10.1038/nmat884) | Table 4, p. 5, row 13; `ORC-CORKSZUGCN` |  |
+| Transition enthalpy; _printed: enthalpy of formation_ | -3911 unknown | 0 | TiNi B19; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013; _cites Hatcher 2009_ [doi](https://doi.org/10.1103/physrevb.80.144203) | Table 4, p. 5, row 15; `ORC-FOWZ3QT6TK` |  |
+| Transition enthalpy; _printed: enthalpy of formation_ | 6800 unknown | 0 | TiNi B19; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 4, p. 5, row 10; `ORC-HK3MBX7TRH` |  |
+| Transition enthalpy; _printed: enthalpy of formation_ | 3600 unknown | 0 | TiNi B19; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 4, p. 5, row 9; `ORC-K7FLGOJQU5` |  |
+| Transition enthalpy; _printed: enthalpy of formation_ | -3859 unknown | 0 | TiNi B19; _alloy: Ti 0.5_ | DFT | [5] Povoden-Karadeniz 2013; _cites Huang 2003_ [doi](https://doi.org/10.1038/nmat884) | Table 4, p. 5, row 12; `ORC-QEVBEY5ZW5` |  |
+| Transition enthalpy; _printed: enthalpy of formation_ | -3281 unknown | 0 | TiNi B19; _alloy: Ti 0.5_ | DFT | [5] Povoden-Karadeniz 2013; _cites Ye 1997_ [doi](https://doi.org/10.1103/physrevb.56.3678) | Table 4, p. 5, row 14; `ORC-XBJUXYPVKD` |  |
+| Transition enthalpy; _printed: enthalpy of formation_ | -1700 unknown | 0 | TiNi B19'; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 4, p. 5, row 1; `ORC-O5UZI5EEU3` |  |
+| Transition enthalpy; _printed: enthalpy of formation_ | -4052 unknown | 0 | TiNi B19'; _alloy: Ti 0.5_ | DFT | [5] Povoden-Karadeniz 2013; _cites Huang 2003_ [doi](https://doi.org/10.1038/nmat884) | Table 4, p. 5, row 5; `ORC-P4EHNFLWFH` |  |
+| Transition enthalpy; _printed: enthalpy of formation_ | -4438 unknown | 0 | TiNi B19'; _alloy: Ti 0.5_ | DFT | [5] Povoden-Karadeniz 2013; _cites Ye 1997_ [doi](https://doi.org/10.1103/physrevb.56.3678) | Table 4, p. 5, row 6; `ORC-U5SWCC3LKQ` |  |
+| Transition enthalpy; _printed: enthalpy of formation_ | -5347 unknown | 0 | TiNi B19'; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013; _cites Hatcher 2009_ [doi](https://doi.org/10.1103/physrevb.80.144203) | Table 4, p. 5, row 7; `ORC-VMACHNROFF` |  |
+| Transition enthalpy; _printed: enthalpy of formation_ | -7815 unknown | 0 | TiNi B19'; _alloy: Ti 0.5_ | DFT | [5] Povoden-Karadeniz 2013; _cites Vishnu 2010_ [doi](https://doi.org/10.1016/j.actamat.2009.09.019) | Table 4, p. 5, row 3; `ORC-XHKQKVZL2D` |  |
+| Transition enthalpy; _printed: enthalpy of formation_ | -4728 unknown | 0 | TiNi B19'; _alloy: Ti 0.5_ | DFT | [5] Povoden-Karadeniz 2013; _cites Huang 2003_ [doi](https://doi.org/10.1038/nmat884) | Table 4, p. 5, row 4; `ORC-Y2SZRYXG7K` |  |
+| Transition enthalpy; _printed: enthalpy of formation_ | -1800 unknown | 0 | TiNi B19'; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 4, p. 5, row 2; `ORC-YQG4JX73GF` |  |
+| Transition enthalpy; _printed: enthalpy of formation_ | -928.6 unknown | 298.15 | R-Phase | model | [5] Povoden-Karadeniz 2013 | Table 4, p. 5, row 18; `ORC-CE3V6HS5V4` |  |
+| Transition enthalpy; _printed: enthalpy of formation_ | -1564.3 unknown | 298.15 | TiNi B19; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013 | Table 4, p. 5, row 16; `ORC-AWYRP3IPYZ` |  |
+| Transition enthalpy; _printed: enthalpy of formation_ | -3001 unknown | 298.15 | TiNi B19'; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013 | Table 4, p. 5, row 8; `ORC-3H34JQAVS5` |  |
 
 ### Crystal structure (50)
 
@@ -488,56 +488,56 @@ Table: Crystal structure, Ni–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 5.101 Å | 0 | Ni3Ti; _alloy: Ti 0.25_ | DFT | [5] Povoden-Karadeniz 2013 | Table A1, p. 11, row 1 |  |
-| Lattice a; _printed: a_ | 5.1327 Å | 0 | Ni3Ti(D024); _alloy: Ti 0.25_ | DFT | [3] Tokunaga 2004 | Table 2, p. 3, row 11 |  |
-| Lattice a; _printed: a_ | 3.6255 Å | 0 | Ni3Ti(L12); _alloy: Ti 0.25_ | DFT | [3] Tokunaga 2004 | Table 2, p. 3, row 6 |  |
-| Lattice a; _printed: a_ | 3.0165 Å | 0 | NiTi(B2); _alloy: Ti 0.5_ | DFT | [3] Tokunaga 2004 | Table 2, p. 3, row 2 |  |
-| Lattice a | 3.095 Å | 0 | Ti2Ni3; _alloy: Ti 0.4_ | DFT | [5] Povoden-Karadeniz 2013 | Table A1, p. 11, row 33 |  |
-| Lattice a | 4.398 Å | 0 | Ti2Ni3_L; _alloy: Ti 0.4_ | DFT | [5] Povoden-Karadeniz 2013 | Table A1, p. 11, row 44 |  |
-| Lattice a; _printed: a_ | 5.5958 Å | 0 | Ti3Ni(D024); _alloy: Ti 0.75_ | DFT | [3] Tokunaga 2004 | Table 2, p. 3, row 13 |  |
-| Lattice a; _printed: a_ | 3.9458 Å | 0 | Ti3Ni(L12); _alloy: Ti 0.75_ | DFT | [3] Tokunaga 2004 | Table 2, p. 3, row 7 |  |
-| Lattice a | 6.72 Å | 0 | Ti3Ni4; _alloy: Ti 0.428571_ | DFT | [5] Povoden-Karadeniz 2013 | Table A1, p. 11, row 18 |  |
-| Lattice a | 3.0954 Å | 298.15 | Ti2Ni3; _alloy: Ti 0.4_ | unspecified | [5] Povoden-Karadeniz 2013 | Table 1, p. 2, row 7 |  |
-| Lattice a | 4.3985 Å | 298.15 | Ti2Ni3_L; _alloy: Ti 0.4_ | unspecified | [5] Povoden-Karadeniz 2013 | Table 1, p. 2, row 6 |  |
-| Lattice a | 6.684 Å | 298.15 | Ti3Ni4; _alloy: Ti 0.428571_ | unspecified | [5] Povoden-Karadeniz 2013 | Table 1, p. 2, row 2 |  |
-| Lattice a | 6.71 Å | 298.15 | Ti3Ni4; _alloy: Ti 0.428571_ | unspecified | [5] Povoden-Karadeniz 2013 | Table 1, p. 2, row 5 |  |
-| Lattice a | 6.6697 Å | 298.15 | Ti3Ni4; _alloy: Ti 0.428571_ | unspecified | [5] Povoden-Karadeniz 2013 | Table 1, p. 2, row 3 |  |
-| Lattice a | 6.718 Å | 298.15 | Ti3Ni4; _alloy: Ti 0.428571_ | unspecified | [5] Povoden-Karadeniz 2013 | Table 1, p. 2, row 4 |  |
-| Lattice a | 11.338 Å | 1257.15 (\<) | NiTi2; _alloy: Ni 0.333333, Ti 0.666667_ | model | [7] Keyzer 2009 | Table 1, p. 3, row 10 |  |
-| Lattice a | 11.3193 Å | 1257.15 (\<) | NiTi2; _alloy: Ni 0.333333, Ti 0.666667_ | model | [7] Keyzer 2009 | Table 1, p. 3, row 10 |  |
-| Lattice a | 5.103 Å | 1653.15 (\<) | Ni3Ti | model | [7] Keyzer 2009 | Table 1, p. 3, row 9 |  |
-| Lattice a | 5.1088 Å | 1653.15 (\<) | Ni3Ti | model | [7] Keyzer 2009 | Table 1, p. 3, row 9 |  |
-| Lattice b | 5.101 Å | 0 | Ni3Ti; _alloy: Ti 0.25_ | DFT | [5] Povoden-Karadeniz 2013 | Table A1, p. 11, row 1 |  |
-| Lattice b | 3.095 Å | 0 | Ti2Ni3; _alloy: Ti 0.4_ | DFT | [5] Povoden-Karadeniz 2013 | Table A1, p. 11, row 33 |  |
-| Lattice b | 4.37 Å | 0 | Ti2Ni3_L; _alloy: Ti 0.4_ | DFT | [5] Povoden-Karadeniz 2013 | Table A1, p. 11, row 44 |  |
-| Lattice b | 6.72 Å | 0 | Ti3Ni4; _alloy: Ti 0.428571_ | DFT | [5] Povoden-Karadeniz 2013 | Table A1, p. 11, row 18 |  |
-| Lattice b | 4.3705 Å | 298.15 | Ti2Ni3_L; _alloy: Ti 0.4_ | unspecified | [5] Povoden-Karadeniz 2013 | Table 1, p. 2, row 6 |  |
-| Lattice c | 8.307 Å | 0 | Ni3Ti; _alloy: Ti 0.25_ | DFT | [5] Povoden-Karadeniz 2013 | Table A1, p. 11, row 1 |  |
-| Lattice c; _printed: c_ | 8.3577 Å | 0 | Ni3Ti(D024); _alloy: Ti 0.25_ | DFT | [3] Tokunaga 2004 | Table 2, p. 3, row 11 |  |
-| Lattice c | 13.585 Å | 0 | Ti2Ni3; _alloy: Ti 0.4_ | DFT | [5] Povoden-Karadeniz 2013 | Table A1, p. 11, row 33 |  |
-| Lattice c | 13.544 Å | 0 | Ti2Ni3_L; _alloy: Ti 0.4_ | DFT | [5] Povoden-Karadeniz 2013 | Table A1, p. 11, row 44 |  |
-| Lattice c; _printed: c_ | 9.0987 Å | 0 | Ti3Ni(D024); _alloy: Ti 0.75_ | DFT | [3] Tokunaga 2004 | Table 2, p. 3, row 13 |  |
-| Lattice c | 6.72 Å | 0 | Ti3Ni4; _alloy: Ti 0.428571_ | DFT | [5] Povoden-Karadeniz 2013 | Table A1, p. 11, row 18 |  |
-| Lattice c | 13.5852 Å | 298.15 | Ti2Ni3; _alloy: Ti 0.4_ | unspecified | [5] Povoden-Karadeniz 2013 | Table 1, p. 2, row 7 |  |
-| Lattice c | 13.5442 Å | 298.15 | Ti2Ni3_L; _alloy: Ti 0.4_ | unspecified | [5] Povoden-Karadeniz 2013 | Table 1, p. 2, row 6 |  |
-| Lattice c | 8.32 Å | 1653.15 (\<) | Ni3Ti | model | [7] Keyzer 2009 | Table 1, p. 3, row 9 |  |
-| Lattice c | 8.3187 Å | 1653.15 (\<) | Ni3Ti | model | [7] Keyzer 2009 | Table 1, p. 3, row 9 |  |
-| lattice alpha | 90 ° | 0 | Ni3Ti; _alloy: Ti 0.25_ | DFT | [5] Povoden-Karadeniz 2013 | Table A1, p. 11, row 1 |  |
-| lattice alpha | 90 ° | 0 | Ti2Ni3; _alloy: Ti 0.4_ | DFT | [5] Povoden-Karadeniz 2013 | Table A1, p. 11, row 33 |  |
-| lattice alpha | 90 ° | 0 | Ti2Ni3_L; _alloy: Ti 0.4_ | DFT | [5] Povoden-Karadeniz 2013 | Table A1, p. 11, row 44 |  |
-| lattice alpha | 113.97 ° | 0 | Ti3Ni4; _alloy: Ti 0.428571_ | DFT | [5] Povoden-Karadeniz 2013 | Table A1, p. 11, row 18 |  |
-| lattice alpha | 113.93 not_printed | 298.15 | Ti3Ni4; _alloy: Ti 0.428571_ | unspecified | [5] Povoden-Karadeniz 2013 | Table 1, p. 2, row 2 |  |
-| lattice alpha | 113.883 not_printed | 298.15 | Ti3Ni4; _alloy: Ti 0.428571_ | unspecified | [5] Povoden-Karadeniz 2013 | Table 1, p. 2, row 5 |  |
-| lattice alpha | 113.84 not_printed | 298.15 | Ti3Ni4; _alloy: Ti 0.428571_ | unspecified | [5] Povoden-Karadeniz 2013 | Table 1, p. 2, row 3 |  |
-| lattice alpha | 113.97 not_printed | 298.15 | Ti3Ni4; _alloy: Ti 0.428571_ | unspecified | [5] Povoden-Karadeniz 2013 | Table 1, p. 2, row 4 |  |
-| lattice beta | 90 ° | 0 | Ni3Ti; _alloy: Ti 0.25_ | DFT | [5] Povoden-Karadeniz 2013 | Table A1, p. 11, row 1 |  |
-| lattice beta | 90 ° | 0 | Ti2Ni3; _alloy: Ti 0.4_ | DFT | [5] Povoden-Karadeniz 2013 | Table A1, p. 11, row 33 |  |
-| lattice beta | 90 ° | 0 | Ti2Ni3_L; _alloy: Ti 0.4_ | DFT | [5] Povoden-Karadeniz 2013 | Table A1, p. 11, row 44 |  |
-| lattice beta | 113.97 ° | 0 | Ti3Ni4; _alloy: Ti 0.428571_ | DFT | [5] Povoden-Karadeniz 2013 | Table A1, p. 11, row 18 |  |
-| lattice gamma | 120 ° | 0 | Ni3Ti; _alloy: Ti 0.25_ | DFT | [5] Povoden-Karadeniz 2013 | Table A1, p. 11, row 1 |  |
-| lattice gamma | 90 ° | 0 | Ti2Ni3; _alloy: Ti 0.4_ | DFT | [5] Povoden-Karadeniz 2013 | Table A1, p. 11, row 33 |  |
-| lattice gamma | 90 ° | 0 | Ti2Ni3_L; _alloy: Ti 0.4_ | DFT | [5] Povoden-Karadeniz 2013 | Table A1, p. 11, row 44 |  |
-| lattice gamma | 113.97 ° | 0 | Ti3Ni4; _alloy: Ti 0.428571_ | DFT | [5] Povoden-Karadeniz 2013 | Table A1, p. 11, row 18 |  |
+| Lattice a | 5.101 Å | 0 | Ni3Ti; _alloy: Ti 0.25_ | DFT | [5] Povoden-Karadeniz 2013 | Table A1, p. 11, row 1; `ORC-IHDK4DAA7O.cac76b` |  |
+| Lattice a; _printed: a_ | 5.1327 Å | 0 | Ni3Ti(D024); _alloy: Ti 0.25_ | DFT | [3] Tokunaga 2004 | Table 2, p. 3, row 11; `ORC-BGQLLISS7T.2078ab` |  |
+| Lattice a; _printed: a_ | 3.6255 Å | 0 | Ni3Ti(L12); _alloy: Ti 0.25_ | DFT | [3] Tokunaga 2004 | Table 2, p. 3, row 6; `ORC-CJHZPCCEZV.afba34` |  |
+| Lattice a; _printed: a_ | 3.0165 Å | 0 | NiTi(B2); _alloy: Ti 0.5_ | DFT | [3] Tokunaga 2004 | Table 2, p. 3, row 2; `ORC-X2AZQRV6BB.32f54c` |  |
+| Lattice a | 3.095 Å | 0 | Ti2Ni3; _alloy: Ti 0.4_ | DFT | [5] Povoden-Karadeniz 2013 | Table A1, p. 11, row 33; `ORC-LIUNWHL5XX.978215` |  |
+| Lattice a | 4.398 Å | 0 | Ti2Ni3_L; _alloy: Ti 0.4_ | DFT | [5] Povoden-Karadeniz 2013 | Table A1, p. 11, row 44; `ORC-M6EUW6WCOE.bf488b` |  |
+| Lattice a; _printed: a_ | 5.5958 Å | 0 | Ti3Ni(D024); _alloy: Ti 0.75_ | DFT | [3] Tokunaga 2004 | Table 2, p. 3, row 13; `ORC-NE2272HKKI.760edc` |  |
+| Lattice a; _printed: a_ | 3.9458 Å | 0 | Ti3Ni(L12); _alloy: Ti 0.75_ | DFT | [3] Tokunaga 2004 | Table 2, p. 3, row 7; `ORC-EZULD3WQWJ.740753` |  |
+| Lattice a | 6.72 Å | 0 | Ti3Ni4; _alloy: Ti 0.428571_ | DFT | [5] Povoden-Karadeniz 2013 | Table A1, p. 11, row 18; `ORC-36E6RTOTLS.491212` |  |
+| Lattice a | 3.0954 Å | 298.15 | Ti2Ni3; _alloy: Ti 0.4_ | unspecified | [5] Povoden-Karadeniz 2013 | Table 1, p. 2, row 7; `ORC-C7IGNJNG2Y.fb2abf` |  |
+| Lattice a | 4.3985 Å | 298.15 | Ti2Ni3_L; _alloy: Ti 0.4_ | unspecified | [5] Povoden-Karadeniz 2013 | Table 1, p. 2, row 6; `ORC-B6BSMCZNUE.7fe4c0` |  |
+| Lattice a | 6.684 Å | 298.15 | Ti3Ni4; _alloy: Ti 0.428571_ | unspecified | [5] Povoden-Karadeniz 2013 | Table 1, p. 2, row 2; `ORC-4EZO2CVYOX.171988` |  |
+| Lattice a | 6.71 Å | 298.15 | Ti3Ni4; _alloy: Ti 0.428571_ | unspecified | [5] Povoden-Karadeniz 2013 | Table 1, p. 2, row 5; `ORC-BT3HZKGJZE.b298a3` |  |
+| Lattice a | 6.6697 Å | 298.15 | Ti3Ni4; _alloy: Ti 0.428571_ | unspecified | [5] Povoden-Karadeniz 2013 | Table 1, p. 2, row 3; `ORC-S2R3KU2VEN.2ba987` |  |
+| Lattice a | 6.718 Å | 298.15 | Ti3Ni4; _alloy: Ti 0.428571_ | unspecified | [5] Povoden-Karadeniz 2013 | Table 1, p. 2, row 4; `ORC-YDURZ2AQ7L.6568e5` |  |
+| Lattice a | 11.338 Å | 1257.15 (\<) | NiTi2; _alloy: Ni 0.333333, Ti 0.666667_ | model | [7] Keyzer 2009 | Table 1, p. 3, row 10; `ORC-W7NC4V2BDU.26fd0c` |  |
+| Lattice a | 11.3193 Å | 1257.15 (\<) | NiTi2; _alloy: Ni 0.333333, Ti 0.666667_ | model | [7] Keyzer 2009 | Table 1, p. 3, row 10; `ORC-W7NC4V2BDU.6eb439` |  |
+| Lattice a | 5.103 Å | 1653.15 (\<) | Ni3Ti | model | [7] Keyzer 2009 | Table 1, p. 3, row 9; `ORC-6TRQKQZKFF.d6d250` |  |
+| Lattice a | 5.1088 Å | 1653.15 (\<) | Ni3Ti | model | [7] Keyzer 2009 | Table 1, p. 3, row 9; `ORC-6TRQKQZKFF.d8a981` |  |
+| Lattice b | 5.101 Å | 0 | Ni3Ti; _alloy: Ti 0.25_ | DFT | [5] Povoden-Karadeniz 2013 | Table A1, p. 11, row 1; `ORC-IHDK4DAA7O.7a59b7` |  |
+| Lattice b | 3.095 Å | 0 | Ti2Ni3; _alloy: Ti 0.4_ | DFT | [5] Povoden-Karadeniz 2013 | Table A1, p. 11, row 33; `ORC-LIUNWHL5XX.e5b539` |  |
+| Lattice b | 4.37 Å | 0 | Ti2Ni3_L; _alloy: Ti 0.4_ | DFT | [5] Povoden-Karadeniz 2013 | Table A1, p. 11, row 44; `ORC-M6EUW6WCOE.5fbb86` |  |
+| Lattice b | 6.72 Å | 0 | Ti3Ni4; _alloy: Ti 0.428571_ | DFT | [5] Povoden-Karadeniz 2013 | Table A1, p. 11, row 18; `ORC-36E6RTOTLS.931d42` |  |
+| Lattice b | 4.3705 Å | 298.15 | Ti2Ni3_L; _alloy: Ti 0.4_ | unspecified | [5] Povoden-Karadeniz 2013 | Table 1, p. 2, row 6; `ORC-B6BSMCZNUE.803447` |  |
+| Lattice c | 8.307 Å | 0 | Ni3Ti; _alloy: Ti 0.25_ | DFT | [5] Povoden-Karadeniz 2013 | Table A1, p. 11, row 1; `ORC-IHDK4DAA7O.491e45` |  |
+| Lattice c; _printed: c_ | 8.3577 Å | 0 | Ni3Ti(D024); _alloy: Ti 0.25_ | DFT | [3] Tokunaga 2004 | Table 2, p. 3, row 11; `ORC-BGQLLISS7T.21dedc` |  |
+| Lattice c | 13.585 Å | 0 | Ti2Ni3; _alloy: Ti 0.4_ | DFT | [5] Povoden-Karadeniz 2013 | Table A1, p. 11, row 33; `ORC-LIUNWHL5XX.d7a195` |  |
+| Lattice c | 13.544 Å | 0 | Ti2Ni3_L; _alloy: Ti 0.4_ | DFT | [5] Povoden-Karadeniz 2013 | Table A1, p. 11, row 44; `ORC-M6EUW6WCOE.868d18` |  |
+| Lattice c; _printed: c_ | 9.0987 Å | 0 | Ti3Ni(D024); _alloy: Ti 0.75_ | DFT | [3] Tokunaga 2004 | Table 2, p. 3, row 13; `ORC-NE2272HKKI.383355` |  |
+| Lattice c | 6.72 Å | 0 | Ti3Ni4; _alloy: Ti 0.428571_ | DFT | [5] Povoden-Karadeniz 2013 | Table A1, p. 11, row 18; `ORC-36E6RTOTLS.31e5fd` |  |
+| Lattice c | 13.5852 Å | 298.15 | Ti2Ni3; _alloy: Ti 0.4_ | unspecified | [5] Povoden-Karadeniz 2013 | Table 1, p. 2, row 7; `ORC-C7IGNJNG2Y.56a86e` |  |
+| Lattice c | 13.5442 Å | 298.15 | Ti2Ni3_L; _alloy: Ti 0.4_ | unspecified | [5] Povoden-Karadeniz 2013 | Table 1, p. 2, row 6; `ORC-B6BSMCZNUE.787584` |  |
+| Lattice c | 8.32 Å | 1653.15 (\<) | Ni3Ti | model | [7] Keyzer 2009 | Table 1, p. 3, row 9; `ORC-6TRQKQZKFF.3d4298` |  |
+| Lattice c | 8.3187 Å | 1653.15 (\<) | Ni3Ti | model | [7] Keyzer 2009 | Table 1, p. 3, row 9; `ORC-6TRQKQZKFF.ce5f80` |  |
+| lattice alpha | 90 ° | 0 | Ni3Ti; _alloy: Ti 0.25_ | DFT | [5] Povoden-Karadeniz 2013 | Table A1, p. 11, row 1; `ORC-IHDK4DAA7O.6c5b5e` |  |
+| lattice alpha | 90 ° | 0 | Ti2Ni3; _alloy: Ti 0.4_ | DFT | [5] Povoden-Karadeniz 2013 | Table A1, p. 11, row 33; `ORC-LIUNWHL5XX.2d9be1` |  |
+| lattice alpha | 90 ° | 0 | Ti2Ni3_L; _alloy: Ti 0.4_ | DFT | [5] Povoden-Karadeniz 2013 | Table A1, p. 11, row 44; `ORC-M6EUW6WCOE.9f97d2` |  |
+| lattice alpha | 113.97 ° | 0 | Ti3Ni4; _alloy: Ti 0.428571_ | DFT | [5] Povoden-Karadeniz 2013 | Table A1, p. 11, row 18; `ORC-36E6RTOTLS.a084fb` |  |
+| lattice alpha | 113.93 not_printed | 298.15 | Ti3Ni4; _alloy: Ti 0.428571_ | unspecified | [5] Povoden-Karadeniz 2013 | Table 1, p. 2, row 2; `ORC-4EZO2CVYOX.b940b4` |  |
+| lattice alpha | 113.883 not_printed | 298.15 | Ti3Ni4; _alloy: Ti 0.428571_ | unspecified | [5] Povoden-Karadeniz 2013 | Table 1, p. 2, row 5; `ORC-BT3HZKGJZE.ef1bcb` |  |
+| lattice alpha | 113.84 not_printed | 298.15 | Ti3Ni4; _alloy: Ti 0.428571_ | unspecified | [5] Povoden-Karadeniz 2013 | Table 1, p. 2, row 3; `ORC-S2R3KU2VEN.02b091` |  |
+| lattice alpha | 113.97 not_printed | 298.15 | Ti3Ni4; _alloy: Ti 0.428571_ | unspecified | [5] Povoden-Karadeniz 2013 | Table 1, p. 2, row 4; `ORC-YDURZ2AQ7L.373ba6` |  |
+| lattice beta | 90 ° | 0 | Ni3Ti; _alloy: Ti 0.25_ | DFT | [5] Povoden-Karadeniz 2013 | Table A1, p. 11, row 1; `ORC-IHDK4DAA7O.1442cb` |  |
+| lattice beta | 90 ° | 0 | Ti2Ni3; _alloy: Ti 0.4_ | DFT | [5] Povoden-Karadeniz 2013 | Table A1, p. 11, row 33; `ORC-LIUNWHL5XX.9a8ff4` |  |
+| lattice beta | 90 ° | 0 | Ti2Ni3_L; _alloy: Ti 0.4_ | DFT | [5] Povoden-Karadeniz 2013 | Table A1, p. 11, row 44; `ORC-M6EUW6WCOE.7024a5` |  |
+| lattice beta | 113.97 ° | 0 | Ti3Ni4; _alloy: Ti 0.428571_ | DFT | [5] Povoden-Karadeniz 2013 | Table A1, p. 11, row 18; `ORC-36E6RTOTLS.681b61` |  |
+| lattice gamma | 120 ° | 0 | Ni3Ti; _alloy: Ti 0.25_ | DFT | [5] Povoden-Karadeniz 2013 | Table A1, p. 11, row 1; `ORC-IHDK4DAA7O.df55fc` |  |
+| lattice gamma | 90 ° | 0 | Ti2Ni3; _alloy: Ti 0.4_ | DFT | [5] Povoden-Karadeniz 2013 | Table A1, p. 11, row 33; `ORC-LIUNWHL5XX.7efa60` |  |
+| lattice gamma | 90 ° | 0 | Ti2Ni3_L; _alloy: Ti 0.4_ | DFT | [5] Povoden-Karadeniz 2013 | Table A1, p. 11, row 44; `ORC-M6EUW6WCOE.94fa1d` |  |
+| lattice gamma | 113.97 ° | 0 | Ti3Ni4; _alloy: Ti 0.428571_ | DFT | [5] Povoden-Karadeniz 2013 | Table A1, p. 11, row 18; `ORC-36E6RTOTLS.903559` |  |
 
 ## Sources
 
@@ -608,4 +608,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

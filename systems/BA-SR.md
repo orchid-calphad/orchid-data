@@ -43,7 +43,7 @@ Table: Phase transition, Ba–Sr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 820.15 K | 820.15 |  | model | [1] Alcock 1987; _cites Chase 1983_ | p. 2 | “Consequently, the boundaries are shown in Fig. 1 as dashed lines between the transformation point of Sr at 547 ~ \[83Cha\] and 22 and 30 at.% Sr at 100 ~” |
+| Phase transition | 820.15 K | 820.15 |  | model | [1] Alcock 1987; _cites Chase 1983_ | p. 2; `ORC-SYO2DACLN5` | “Consequently, the boundaries are shown in Fig. 1 as dashed lines between the transformation point of Sr at 547 ~ \[83Cha\] and 22 and 30 at.% Sr at 100 ~” |
 
 ### Mixing / partial (12)
 
@@ -51,18 +51,18 @@ Table: Mixing / partial, Ba–Sr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: -ΔmixH_ | -0.238 kJ/mol (basis unstated) |  | liquid; _alloy: Ba 0.992, Sr 0.008_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 12 |  |
-| Enthalpy of mixing; _printed: -ΔmixH_ | -0.36 kJ/mol (basis unstated) |  | liquid; _alloy: Ba 0.99745, Sr 0.00255_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 3 |  |
-| Enthalpy of mixing; _printed: -ΔmixH_ | -0.439 kJ/mol (basis unstated) |  | liquid; _alloy: Ba 0.9956, Sr 0.0044_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 6 |  |
-| Enthalpy of mixing; _printed: -ΔmixH_ | -0.259 kJ/mol (basis unstated) |  | liquid; _alloy: Ba 0.9925, Sr 0.0075_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 11 |  |
-| Enthalpy of mixing; _printed: -ΔmixH_ | -0.406 kJ/mol (basis unstated) |  | liquid; _alloy: Ba 0.99655, Sr 0.00345_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 4 |  |
-| Enthalpy of mixing; _printed: -ΔmixH_ | -0.444 kJ/mol (basis unstated) |  | liquid; _alloy: Ba 0.9945, Sr 0.0055_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 8 |  |
-| Enthalpy of mixing; _printed: -ΔmixH_ | -0.213 kJ/mol (basis unstated) |  | liquid; _alloy: Ba 0.9981, Sr 0.0019_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 2 |  |
-| Enthalpy of mixing; _printed: -ΔmixH_ | -0.155 kJ/mol (basis unstated) |  | liquid; _alloy: Ba 0.9989, Sr 0.0011_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 1 |  |
-| Enthalpy of mixing; _printed: -ΔmixH_ | -0.347 kJ/mol (basis unstated) |  | liquid; _alloy: Ba 0.9933, Sr 0.0067_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 10 |  |
-| Enthalpy of mixing; _printed: -ΔmixH_ | -0.418 kJ/mol (basis unstated) |  | liquid; _alloy: Ba 0.99605, Sr 0.00395_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 5 |  |
-| Enthalpy of mixing; _printed: -ΔmixH_ | -0.439 kJ/mol (basis unstated) |  | liquid; _alloy: Ba 0.9949, Sr 0.0051_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 7 |  |
-| Enthalpy of mixing; _printed: -ΔmixH_ | -0.418 kJ/mol (basis unstated) |  | liquid; _alloy: Ba 0.9939, Sr 0.0061_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 9 |  |
+| Enthalpy of mixing; _printed: -ΔmixH_ | -0.238 kJ/mol (basis unstated) |  | liquid; _alloy: Ba 0.992, Sr 0.008_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 12; `ORC-477HAXPKWZ.99bc42` |  |
+| Enthalpy of mixing; _printed: -ΔmixH_ | -0.36 kJ/mol (basis unstated) |  | liquid; _alloy: Ba 0.99745, Sr 0.00255_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 3; `ORC-6754AX6WY7.08a5eb` |  |
+| Enthalpy of mixing; _printed: -ΔmixH_ | -0.439 kJ/mol (basis unstated) |  | liquid; _alloy: Ba 0.9956, Sr 0.0044_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 6; `ORC-ACM4GDMKON.cc30c9` |  |
+| Enthalpy of mixing; _printed: -ΔmixH_ | -0.259 kJ/mol (basis unstated) |  | liquid; _alloy: Ba 0.9925, Sr 0.0075_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 11; `ORC-GKGC5IADHD.c59dbc` |  |
+| Enthalpy of mixing; _printed: -ΔmixH_ | -0.406 kJ/mol (basis unstated) |  | liquid; _alloy: Ba 0.99655, Sr 0.00345_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 4; `ORC-HQOSILDZRO.5aa9f1` |  |
+| Enthalpy of mixing; _printed: -ΔmixH_ | -0.444 kJ/mol (basis unstated) |  | liquid; _alloy: Ba 0.9945, Sr 0.0055_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 8; `ORC-K4K5GFP45P.f118e8` |  |
+| Enthalpy of mixing; _printed: -ΔmixH_ | -0.213 kJ/mol (basis unstated) |  | liquid; _alloy: Ba 0.9981, Sr 0.0019_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 2; `ORC-LGKKP76FMD.033cee` |  |
+| Enthalpy of mixing; _printed: -ΔmixH_ | -0.155 kJ/mol (basis unstated) |  | liquid; _alloy: Ba 0.9989, Sr 0.0011_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 1; `ORC-PCBQVCAZQW.c0075c` |  |
+| Enthalpy of mixing; _printed: -ΔmixH_ | -0.347 kJ/mol (basis unstated) |  | liquid; _alloy: Ba 0.9933, Sr 0.0067_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 10; `ORC-REEJUDG3QP.b808cf` |  |
+| Enthalpy of mixing; _printed: -ΔmixH_ | -0.418 kJ/mol (basis unstated) |  | liquid; _alloy: Ba 0.99605, Sr 0.00395_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 5; `ORC-S4WYDP7Y7P.77d333` |  |
+| Enthalpy of mixing; _printed: -ΔmixH_ | -0.439 kJ/mol (basis unstated) |  | liquid; _alloy: Ba 0.9949, Sr 0.0051_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 7; `ORC-SPKGK6IBZZ.d2e769` |  |
+| Enthalpy of mixing; _printed: -ΔmixH_ | -0.418 kJ/mol (basis unstated) |  | liquid; _alloy: Ba 0.9939, Sr 0.0061_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 9; `ORC-TD23PO4FR6.8af2e8` |  |
 
 ## Sources
 
@@ -127,4 +127,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

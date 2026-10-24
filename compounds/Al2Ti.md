@@ -14,12 +14,12 @@ Table: Enthalpy of formation of Al2Ti reported in the literature (6)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -41.1038 kJ/mol-atom | TiAl2 |  | model |  | [Al–Ti](https://data.orchid-project.org/systems/AL-TI.html) | [1] Liang 2024 | Table 2, p. 6, row 12 |  |
-| -39.0556 kJ/mol-atom | TiAl2 |  | model |  | [Al–Ti](https://data.orchid-project.org/systems/AL-TI.html) | [1] Liang 2024; _cites Witusiewicz 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.10.061) | Table 2, p. 6, row 11 |  |
-| -27.8233 kJ/mol-atom | TiAl2 |  | model |  | [Al–Ti](https://data.orchid-project.org/systems/AL-TI.html) | [1] Liang 2024 | Table 2, p. 6, row 15 |  |
-| -22.4735 kJ/mol-atom | TiAl2 |  | model |  | [Al–Ti](https://data.orchid-project.org/systems/AL-TI.html) | [1] Liang 2024; _cites Witusiewicz 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.10.061) | Table 2, p. 6, row 14 |  |
-| -41.1038 kJ/mol-atom | TiAl2 |  | DFT | DFT | [Al–Ti](https://data.orchid-project.org/systems/AL-TI.html) | [1] Liang 2024; _cites Tang 2011_ [doi](https://doi.org/10.1016/j.commatsci.2010.12.001) | Table 2, p. 6, row 10 |  |
-| -27.8233 kJ/mol-atom | TiAl2 |  | DFT | DFT | [Al–Ti](https://data.orchid-project.org/systems/AL-TI.html) | [1] Liang 2024; _cites Curtarolo 2012_ [doi](https://doi.org/10.1016/j.commatsci.2012.02.002) | Table 2, p. 6, row 13 |  |
+| -41.1038 kJ/mol-atom | TiAl2 |  | model |  | [Al–Ti](https://data.orchid-project.org/systems/AL-TI.html) | [1] Liang 2024 | Table 2, p. 6, row 12; `ORC-BDOAJNKGK7` |  |
+| -39.0556 kJ/mol-atom | TiAl2 |  | model |  | [Al–Ti](https://data.orchid-project.org/systems/AL-TI.html) | [1] Liang 2024; _cites Witusiewicz 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.10.061) | Table 2, p. 6, row 11; `ORC-RKPHE67U5I` |  |
+| -27.8233 kJ/mol-atom | TiAl2 |  | model |  | [Al–Ti](https://data.orchid-project.org/systems/AL-TI.html) | [1] Liang 2024 | Table 2, p. 6, row 15; `ORC-JDLHMCMBNF` |  |
+| -22.4735 kJ/mol-atom | TiAl2 |  | model |  | [Al–Ti](https://data.orchid-project.org/systems/AL-TI.html) | [1] Liang 2024; _cites Witusiewicz 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.10.061) | Table 2, p. 6, row 14; `ORC-H6JMF22TDY` |  |
+| -41.1038 kJ/mol-atom | TiAl2 |  | DFT | DFT | [Al–Ti](https://data.orchid-project.org/systems/AL-TI.html) | [1] Liang 2024; _cites Tang 2011_ [doi](https://doi.org/10.1016/j.commatsci.2010.12.001) | Table 2, p. 6, row 10; `ORC-KBECAONIIO` |  |
+| -27.8233 kJ/mol-atom | TiAl2 |  | DFT | DFT | [Al–Ti](https://data.orchid-project.org/systems/AL-TI.html) | [1] Liang 2024; _cites Curtarolo 2012_ [doi](https://doi.org/10.1016/j.commatsci.2012.02.002) | Table 2, p. 6, row 13; `ORC-HYZE77CKMI` |  |
 
 ### Uncertainty budget
 
@@ -100,4 +100,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

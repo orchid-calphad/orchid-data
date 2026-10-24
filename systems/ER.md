@@ -31,29 +31,29 @@ Table: Crystal structure, Er system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 3.513 Å | 0 | Er; _alloy: Er 1_ | DFT | [1] Wang 2013 | Table 3, p. 3, row 3 |  |
-| Lattice a; _printed: a_ | 3.576 Å |  | Er; _alloy: Er 1_ | model | [2] Long 2010; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.05.002) | Table 1, p. 3, row 29 |  |
-| Lattice a | 3.581 Å | 0 | Er; _alloy: Er 1_ | DFT | [3] Bennoui 2022 | Table 1, p. 3, row 13 |  |
-| Lattice a | 3.513 Å | 0 | Er; _alloy: Er 1_ | DFT | [3] Bennoui 2022; _cites Wang 2013_ [doi](https://doi.org/10.1007/s11669-013-0231-4) | Table 1, p. 3, row 12 |  |
-| Lattice a; _printed: a_ | 3.559 Å |  | Er; _alloy: Er 1_ | model | [2] Long 2010; _cites Beaudry 1978_ | Table 1, p. 3, row 30 |  |
-| Lattice a | 3.5592 Å | 298.15 | Er; _Er: Er 1_ | unspecified | [4] Anderson 1992 | Table 2, p. 1, row 1 |  |
-| Lattice a; _printed: a_ | 3.575 Å | 298.15 | Er; _alloy: Er 1_ | DFT | [2] Long 2010 | Table 1, p. 3, row 28 |  |
-| Lattice a | 3.495 Å | 298.15 | Er; _alloy: Er 1_ | experimental | [1] Wang 2013; _cites Pravica 2005_ [doi](https://doi.org/10.1103/physrevb.72.214122) | Table 3, p. 3, row 4 |  |
-| Lattice a | 3.495 Å | 298.15 | Er; _alloy: Er 1_ | experimental | [3] Bennoui 2022; _cites Pravica 2005_ [doi](https://doi.org/10.1103/physrevb.72.214122) | Table 1, p. 3, row 11 |  |
-| Lattice a | 3.559 Å | 298.15 | αEr | experimental | [5] Mascaro 2013; _cites Spedding 1956_ [doi](https://doi.org/10.1107/s0365110x5600156x) | Table 1, p. 2, row 1 |  |
-| Lattice b | 3.581 Å | 0 | Er; _alloy: Er 1_ | DFT | [3] Bennoui 2022 | Table 1, p. 3, row 13 |  |
-| Lattice b | 3.513 Å | 0 | Er; _alloy: Er 1_ | DFT | [3] Bennoui 2022; _cites Wang 2013_ [doi](https://doi.org/10.1007/s11669-013-0231-4) | Table 1, p. 3, row 12 |  |
-| Lattice b | 3.495 Å | 298.15 | Er; _alloy: Er 1_ | experimental | [3] Bennoui 2022; _cites Pravica 2005_ [doi](https://doi.org/10.1103/physrevb.72.214122) | Table 1, p. 3, row 11 |  |
-| Lattice c | 5.517 Å | 0 | Er; _alloy: Er 1_ | DFT | [1] Wang 2013 | Table 3, p. 3, row 3 |  |
-| Lattice c; _printed: c_ | 5.543 Å |  | Er; _alloy: Er 1_ | model | [2] Long 2010; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.05.002) | Table 1, p. 3, row 29 |  |
-| Lattice c | 5.553 Å | 0 | Er; _alloy: Er 1_ | DFT | [3] Bennoui 2022 | Table 1, p. 3, row 13 |  |
-| Lattice c | 5.517 Å | 0 | Er; _alloy: Er 1_ | DFT | [3] Bennoui 2022; _cites Wang 2013_ [doi](https://doi.org/10.1007/s11669-013-0231-4) | Table 1, p. 3, row 12 |  |
-| Lattice c; _printed: c_ | 5.585 Å |  | Er; _alloy: Er 1_ | model | [2] Long 2010; _cites Beaudry 1978_ | Table 1, p. 3, row 30 |  |
-| Lattice c | 5.585 Å | 298.15 | Er; _Er: Er 1_ | unspecified | [4] Anderson 1992 | Table 2, p. 1, row 1 |  |
-| Lattice c; _printed: c_ | 5.541 Å | 298.15 | Er; _alloy: Er 1_ | DFT | [2] Long 2010 | Table 1, p. 3, row 28 |  |
-| Lattice c | 5.486 Å | 298.15 | Er; _alloy: Er 1_ | experimental | [1] Wang 2013; _cites Pravica 2005_ [doi](https://doi.org/10.1103/physrevb.72.214122) | Table 3, p. 3, row 4 |  |
-| Lattice c | 5.486 Å | 298.15 | Er; _alloy: Er 1_ | experimental | [3] Bennoui 2022; _cites Pravica 2005_ [doi](https://doi.org/10.1103/physrevb.72.214122) | Table 1, p. 3, row 11 |  |
-| Lattice c | 5.587 Å | 298.15 | αEr | experimental | [5] Mascaro 2013; _cites Spedding 1956_ [doi](https://doi.org/10.1107/s0365110x5600156x) | Table 1, p. 2, row 1 |  |
+| Lattice a | 3.513 Å | 0 | Er; _alloy: Er 1_ | DFT | [1] Wang 2013 | Table 3, p. 3, row 3; `ORC-2NBND7J2WU.3af1f4` |  |
+| Lattice a; _printed: a_ | 3.576 Å |  | Er; _alloy: Er 1_ | model | [2] Long 2010; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.05.002) | Table 1, p. 3, row 29; `ORC-7KUXEHQDTU.68c36d` |  |
+| Lattice a | 3.581 Å | 0 | Er; _alloy: Er 1_ | DFT | [3] Bennoui 2022 | Table 1, p. 3, row 13; `ORC-EB44LCPHBN.61276a` |  |
+| Lattice a | 3.513 Å | 0 | Er; _alloy: Er 1_ | DFT | [3] Bennoui 2022; _cites Wang 2013_ [doi](https://doi.org/10.1007/s11669-013-0231-4) | Table 1, p. 3, row 12; `ORC-IALRJ2ETFL.3f153a` |  |
+| Lattice a; _printed: a_ | 3.559 Å |  | Er; _alloy: Er 1_ | model | [2] Long 2010; _cites Beaudry 1978_ | Table 1, p. 3, row 30; `ORC-PPGWMVMC6C.ec524c` |  |
+| Lattice a | 3.5592 Å | 298.15 | Er; _Er: Er 1_ | unspecified | [4] Anderson 1992 | Table 2, p. 1, row 1; `ORC-4CGYOLXTBY.f398f7` |  |
+| Lattice a; _printed: a_ | 3.575 Å | 298.15 | Er; _alloy: Er 1_ | DFT | [2] Long 2010 | Table 1, p. 3, row 28; `ORC-4ZRSER2BH2.327605` |  |
+| Lattice a | 3.495 Å | 298.15 | Er; _alloy: Er 1_ | experimental | [1] Wang 2013; _cites Pravica 2005_ [doi](https://doi.org/10.1103/physrevb.72.214122) | Table 3, p. 3, row 4; `ORC-NRPQJRLOCW.250a3a` |  |
+| Lattice a | 3.495 Å | 298.15 | Er; _alloy: Er 1_ | experimental | [3] Bennoui 2022; _cites Pravica 2005_ [doi](https://doi.org/10.1103/physrevb.72.214122) | Table 1, p. 3, row 11; `ORC-YLI2FFIJYV.b82ba1` |  |
+| Lattice a | 3.559 Å | 298.15 | αEr | experimental | [5] Mascaro 2013; _cites Spedding 1956_ [doi](https://doi.org/10.1107/s0365110x5600156x) | Table 1, p. 2, row 1; `ORC-IAXRHXROZW.66c0a3` |  |
+| Lattice b | 3.581 Å | 0 | Er; _alloy: Er 1_ | DFT | [3] Bennoui 2022 | Table 1, p. 3, row 13; `ORC-EB44LCPHBN.a3361c` |  |
+| Lattice b | 3.513 Å | 0 | Er; _alloy: Er 1_ | DFT | [3] Bennoui 2022; _cites Wang 2013_ [doi](https://doi.org/10.1007/s11669-013-0231-4) | Table 1, p. 3, row 12; `ORC-IALRJ2ETFL.60e5f5` |  |
+| Lattice b | 3.495 Å | 298.15 | Er; _alloy: Er 1_ | experimental | [3] Bennoui 2022; _cites Pravica 2005_ [doi](https://doi.org/10.1103/physrevb.72.214122) | Table 1, p. 3, row 11; `ORC-YLI2FFIJYV.2b3775` |  |
+| Lattice c | 5.517 Å | 0 | Er; _alloy: Er 1_ | DFT | [1] Wang 2013 | Table 3, p. 3, row 3; `ORC-2NBND7J2WU.2ba085` |  |
+| Lattice c; _printed: c_ | 5.543 Å |  | Er; _alloy: Er 1_ | model | [2] Long 2010; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.05.002) | Table 1, p. 3, row 29; `ORC-7KUXEHQDTU.4b6f3f` |  |
+| Lattice c | 5.553 Å | 0 | Er; _alloy: Er 1_ | DFT | [3] Bennoui 2022 | Table 1, p. 3, row 13; `ORC-EB44LCPHBN.b97412` |  |
+| Lattice c | 5.517 Å | 0 | Er; _alloy: Er 1_ | DFT | [3] Bennoui 2022; _cites Wang 2013_ [doi](https://doi.org/10.1007/s11669-013-0231-4) | Table 1, p. 3, row 12; `ORC-IALRJ2ETFL.7ed06c` |  |
+| Lattice c; _printed: c_ | 5.585 Å |  | Er; _alloy: Er 1_ | model | [2] Long 2010; _cites Beaudry 1978_ | Table 1, p. 3, row 30; `ORC-PPGWMVMC6C.090f12` |  |
+| Lattice c | 5.585 Å | 298.15 | Er; _Er: Er 1_ | unspecified | [4] Anderson 1992 | Table 2, p. 1, row 1; `ORC-4CGYOLXTBY.c3a516` |  |
+| Lattice c; _printed: c_ | 5.541 Å | 298.15 | Er; _alloy: Er 1_ | DFT | [2] Long 2010 | Table 1, p. 3, row 28; `ORC-4ZRSER2BH2.9824ea` |  |
+| Lattice c | 5.486 Å | 298.15 | Er; _alloy: Er 1_ | experimental | [1] Wang 2013; _cites Pravica 2005_ [doi](https://doi.org/10.1103/physrevb.72.214122) | Table 3, p. 3, row 4; `ORC-NRPQJRLOCW.e02677` |  |
+| Lattice c | 5.486 Å | 298.15 | Er; _alloy: Er 1_ | experimental | [3] Bennoui 2022; _cites Pravica 2005_ [doi](https://doi.org/10.1103/physrevb.72.214122) | Table 1, p. 3, row 11; `ORC-YLI2FFIJYV.54ca8e` |  |
+| Lattice c | 5.587 Å | 298.15 | αEr | experimental | [5] Mascaro 2013; _cites Spedding 1956_ [doi](https://doi.org/10.1107/s0365110x5600156x) | Table 1, p. 2, row 1; `ORC-IAXRHXROZW.71e61b` |  |
 
 ## Sources
 
@@ -100,4 +100,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

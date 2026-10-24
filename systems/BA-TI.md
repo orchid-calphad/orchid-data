@@ -55,9 +55,9 @@ Table: Invariant reactions reported in the literature for the Ba–Ti system (3)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1155 | peritectic: bcc (Ti) + liquid → hcp (Ti) |  | model | [1] Shang 2007 | p. 5 | “The invariant reactions in the Ba-Ti system are also listed in Table 4 with the eutectic temperature of the reaction liquid → hcp (Ti) + bcc (Ba) at 1000 K close to the estimation of 1002 K from Chase \[12\], the peritectic point of the reaction bcc (Ti) + liquid → hcp (Ti) of 1155 K at the allotropic transformation point between bcc (Ti) and hcp (Ti).” |
-| 1155 | peritectic: bcc (Ti) + liquid → hcp (Ti) |  | experimental | [1] Shang 2007; _cites Alidzhanov 1978_ | p. 1 | “The peritectic point of the reaction bcc (Ti) + liquid → hcp (Ti) was measured approximately at 1155 K \[11\], which is close to the allotropic transformation point of bcc (Ti) ↔ hcp (Ti).” |
-| 1000 | eutectic: liquid → hcp (Ti) + bcc (Ba) |  | model | [1] Shang 2007 | p. 5 | “The invariant reactions in the Ba-Ti system are also listed in Table 4 with the eutectic temperature of the reaction liquid → hcp (Ti) + bcc (Ba) at 1000 K close to the estimation of 1002 K from Chase \[12\], the peritectic point of the reaction bcc (Ti) + liquid → hcp (Ti) of 1155 K at the allotropic transformation point between bcc (Ti) and hcp (Ti).” |
+| 1155 | peritectic: bcc (Ti) + liquid → hcp (Ti) |  | model | [1] Shang 2007 | p. 5; `ORC-7HBDVQOSYT.9b5a7b` | “The invariant reactions in the Ba-Ti system are also listed in Table 4 with the eutectic temperature of the reaction liquid → hcp (Ti) + bcc (Ba) at 1000 K close to the estimation of 1002 K from Chase \[12\], the peritectic point of the reaction bcc (Ti) + liquid → hcp (Ti) of 1155 K at the allotropic transformation point between bcc (Ti) and hcp (Ti).” |
+| 1155 | peritectic: bcc (Ti) + liquid → hcp (Ti) |  | experimental | [1] Shang 2007; _cites Alidzhanov 1978_ | p. 1; `ORC-OW64X6QP5W` | “The peritectic point of the reaction bcc (Ti) + liquid → hcp (Ti) was measured approximately at 1155 K \[11\], which is close to the allotropic transformation point of bcc (Ti) ↔ hcp (Ti).” |
+| 1000 | eutectic: liquid → hcp (Ti) + bcc (Ba) |  | model | [1] Shang 2007 | p. 5; `ORC-7HBDVQOSYT.c0e3a2` | “The invariant reactions in the Ba-Ti system are also listed in Table 4 with the eutectic temperature of the reaction liquid → hcp (Ti) + bcc (Ba) at 1000 K close to the estimation of 1002 K from Chase \[12\], the peritectic point of the reaction bcc (Ti) + liquid → hcp (Ti) of 1155 K at the allotropic transformation point between bcc (Ti) and hcp (Ti).” |
 
 ## Other properties
 
@@ -67,17 +67,17 @@ Table: Mixing / partial, Ba–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: ΔH_ | 101.736 kJ/mol (basis unstated) | 0 | Bcc; _alloy: Ti 0.5_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 18 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 76.684 kJ/mol (basis unstated) | 0 | Fcc; _alloy: Ti 0.75_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 24 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 67.674 kJ/mol (basis unstated) | 0 | Fcc; _alloy: Ti 0.25_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 33 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 67.674 kJ/mol (basis unstated) | 0 | Fcc; _alloy: Ti 0.25_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 22 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 95.688 kJ/mol (basis unstated) | 0 | Fcc; _alloy: Ti 0.5_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 23 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 76.684 kJ/mol (basis unstated) | 0 | Fcc; _alloy: Ti 0.75_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 34 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 99.832 kJ/mol (basis unstated) | 0 | Hcp; _alloy: Ti 0.5_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 28 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 68.979 kJ/mol (basis unstated) | 0 | Hcp; _alloy: Ti 0.25_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 35 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 81.87 kJ/mol (basis unstated) | 0 | Hcp; _alloy: Ti 0.75_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 29 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 68.979 kJ/mol (basis unstated) | 0 | Hcp; _alloy: Ti 0.25_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 27 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 81.87 kJ/mol (basis unstated) | 0 | Hcp; _alloy: Ti 0.75_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 36 |  |
+| Enthalpy of mixing; _printed: ΔH_ | 101.736 kJ/mol (basis unstated) | 0 | Bcc; _alloy: Ti 0.5_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 18; `ORC-YYVHXL2OKB` |  |
+| Enthalpy of mixing; _printed: ΔH_ | 76.684 kJ/mol (basis unstated) | 0 | Fcc; _alloy: Ti 0.75_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 24; `ORC-3KOGNBPLVY` |  |
+| Enthalpy of mixing; _printed: ΔH_ | 67.674 kJ/mol (basis unstated) | 0 | Fcc; _alloy: Ti 0.25_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 33; `ORC-4FQVJUILNX` |  |
+| Enthalpy of mixing; _printed: ΔH_ | 67.674 kJ/mol (basis unstated) | 0 | Fcc; _alloy: Ti 0.25_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 22; `ORC-GICCBXPIHT` |  |
+| Enthalpy of mixing; _printed: ΔH_ | 95.688 kJ/mol (basis unstated) | 0 | Fcc; _alloy: Ti 0.5_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 23; `ORC-JKMQLRBPSY` |  |
+| Enthalpy of mixing; _printed: ΔH_ | 76.684 kJ/mol (basis unstated) | 0 | Fcc; _alloy: Ti 0.75_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 34; `ORC-MOVG7JCBYW` |  |
+| Enthalpy of mixing; _printed: ΔH_ | 99.832 kJ/mol (basis unstated) | 0 | Hcp; _alloy: Ti 0.5_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 28; `ORC-37UKO6JZMI` |  |
+| Enthalpy of mixing; _printed: ΔH_ | 68.979 kJ/mol (basis unstated) | 0 | Hcp; _alloy: Ti 0.25_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 35; `ORC-DEJ64IFSTL` |  |
+| Enthalpy of mixing; _printed: ΔH_ | 81.87 kJ/mol (basis unstated) | 0 | Hcp; _alloy: Ti 0.75_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 29; `ORC-J366A25WGD` |  |
+| Enthalpy of mixing; _printed: ΔH_ | 68.979 kJ/mol (basis unstated) | 0 | Hcp; _alloy: Ti 0.25_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 27; `ORC-L43MJTV7TE` |  |
+| Enthalpy of mixing; _printed: ΔH_ | 81.87 kJ/mol (basis unstated) | 0 | Hcp; _alloy: Ti 0.75_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 36; `ORC-SMVMFG276I` |  |
 
 ### Crystal structure (15)
 
@@ -85,21 +85,21 @@ Table: Crystal structure, Ba–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a; _printed: a_ | 4.454 Å | 0 | Bcc; _alloy: Ti 0.25_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 17 |  |
-| Lattice a; _printed: a_ | 3.517 Å | 0 | Bcc; _alloy: Ti 0.75_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 32 |  |
-| Lattice a; _printed: a_ | 3.517 Å | 0 | Bcc; _alloy: Ti 0.75_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 19 |  |
-| Lattice a; _printed: a_ | 4.454 Å | 0 | Bcc; _alloy: Ti 0.25_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 31 |  |
-| Lattice a; _printed: a_ | 3.923 Å | 0 | Bcc; _alloy: Ti 0.5_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 18 |  |
-| Lattice a; _printed: a_ | 4.917 Å | 0 | Fcc; _alloy: Ti 0.5_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 23 |  |
-| Lattice a; _printed: a_ | 4.434 Å | 0 | Fcc; _alloy: Ti 0.75_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 24 |  |
-| Lattice a; _printed: a_ | 5.564 Å | 0 | Fcc; _alloy: Ti 0.25_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 33 |  |
-| Lattice a; _printed: a_ | 5.564 Å | 0 | Fcc; _alloy: Ti 0.25_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 22 |  |
-| Lattice a; _printed: a_ | 4.434 Å | 0 | Fcc; _alloy: Ti 0.75_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 34 |  |
-| Lattice a; _printed: a_ | 3.143 Å | 0 | Hcp; _alloy: Ti 0.75_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 29 |  |
-| Lattice a; _printed: a_ | 3.954 Å | 0 | Hcp; _alloy: Ti 0.25_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 27 |  |
-| Lattice a; _printed: a_ | 3.529 Å | 0 | Hcp; _alloy: Ti 0.5_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 28 |  |
-| Lattice a; _printed: a_ | 3.143 Å | 0 | Hcp; _alloy: Ti 0.75_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 36 |  |
-| Lattice a; _printed: a_ | 3.954 Å | 0 | Hcp; _alloy: Ti 0.25_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 35 |  |
+| Lattice a; _printed: a_ | 4.454 Å | 0 | Bcc; _alloy: Ti 0.25_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 17; `ORC-4GKQFHU5NQ` |  |
+| Lattice a; _printed: a_ | 3.517 Å | 0 | Bcc; _alloy: Ti 0.75_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 32; `ORC-LNCLUDTOKS` |  |
+| Lattice a; _printed: a_ | 3.517 Å | 0 | Bcc; _alloy: Ti 0.75_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 19; `ORC-LX6XBE3LQ6` |  |
+| Lattice a; _printed: a_ | 4.454 Å | 0 | Bcc; _alloy: Ti 0.25_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 31; `ORC-QWYJQLVSPQ` |  |
+| Lattice a; _printed: a_ | 3.923 Å | 0 | Bcc; _alloy: Ti 0.5_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 18; `ORC-VCNM3JOHBI` |  |
+| Lattice a; _printed: a_ | 4.917 Å | 0 | Fcc; _alloy: Ti 0.5_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 23; `ORC-5F5QLQLPH6` |  |
+| Lattice a; _printed: a_ | 4.434 Å | 0 | Fcc; _alloy: Ti 0.75_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 24; `ORC-BDFKLHHOH7` |  |
+| Lattice a; _printed: a_ | 5.564 Å | 0 | Fcc; _alloy: Ti 0.25_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 33; `ORC-HZZVSOQ6BP` |  |
+| Lattice a; _printed: a_ | 5.564 Å | 0 | Fcc; _alloy: Ti 0.25_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 22; `ORC-ODCYK7VZVB` |  |
+| Lattice a; _printed: a_ | 4.434 Å | 0 | Fcc; _alloy: Ti 0.75_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 34; `ORC-RZNO5PKBNQ` |  |
+| Lattice a; _printed: a_ | 3.143 Å | 0 | Hcp; _alloy: Ti 0.75_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 29; `ORC-7WEXOUDGNT` |  |
+| Lattice a; _printed: a_ | 3.954 Å | 0 | Hcp; _alloy: Ti 0.25_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 27; `ORC-M5KZXC45XP` |  |
+| Lattice a; _printed: a_ | 3.529 Å | 0 | Hcp; _alloy: Ti 0.5_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 28; `ORC-NVDZCBLY5E` |  |
+| Lattice a; _printed: a_ | 3.143 Å | 0 | Hcp; _alloy: Ti 0.75_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 36; `ORC-PS4WV4ACJO` |  |
+| Lattice a; _printed: a_ | 3.954 Å | 0 | Hcp; _alloy: Ti 0.25_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 35; `ORC-U23IZG4OHJ` |  |
 
 ## Sources
 
@@ -164,4 +164,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

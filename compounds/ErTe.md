@@ -14,12 +14,12 @@ Table: Enthalpy of formation of ErTe reported in the literature (6)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -179.45 kJ/mol-atom ± 0.6 | ErTe | 298.15 | experimental | EMF | [Er–Te](https://data.orchid-project.org/systems/ER-TE.html) | [1] Bennoui 2022; _cites Imamaliyeva 2020_ [doi](https://doi.org/10.15330/pcss.21.2.312-318) | Table 2, p. 5, row 40 |  |
-| -157 kJ/mol-atom ± 60 | ErTe | 298.15 | experimental | EMF | [Er–Te](https://data.orchid-project.org/systems/ER-TE.html) | [1] Bennoui 2022; _cites Mills 1974_ | Table 2, p. 5, row 41 |  |
-| -118.947 kJ/mol-atom | ErTe |  | model | CALPHAD | [Er–Te](https://data.orchid-project.org/systems/ER-TE.html) | [1] Bennoui 2022 | Table 2, p. 5, row 37 |  |
-| -136.485 kJ/mol-atom | ErTe | 0 | DFT | DFT | [Er–Te](https://data.orchid-project.org/systems/ER-TE.html) | [1] Bennoui 2022; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table 2, p. 5, row 39 |  |
-| -119.399 kJ/mol-atom | ErTe | 0 | DFT | DFT | [Er–Te](https://data.orchid-project.org/systems/ER-TE.html) | [1] Bennoui 2022; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table 2, p. 5, row 38 |  |
-| -115.927 kJ/mol-atom | ErTe | 0 | DFT | DFT | [Er–Te](https://data.orchid-project.org/systems/ER-TE.html) | [1] Bennoui 2022 | Table 2, p. 5, row 36 |  |
+| -179.45 kJ/mol-atom ± 0.6 | ErTe | 298.15 | experimental | EMF | [Er–Te](https://data.orchid-project.org/systems/ER-TE.html) | [1] Bennoui 2022; _cites Imamaliyeva 2020_ [doi](https://doi.org/10.15330/pcss.21.2.312-318) | Table 2, p. 5, row 40; `ORC-23O2KQG2NE` |  |
+| -157 kJ/mol-atom ± 60 | ErTe | 298.15 | experimental | EMF | [Er–Te](https://data.orchid-project.org/systems/ER-TE.html) | [1] Bennoui 2022; _cites Mills 1974_ | Table 2, p. 5, row 41; `ORC-RAENSKTS3C` |  |
+| -118.947 kJ/mol-atom | ErTe |  | model | CALPHAD | [Er–Te](https://data.orchid-project.org/systems/ER-TE.html) | [1] Bennoui 2022 | Table 2, p. 5, row 37; `ORC-2ZNL544DDC` |  |
+| -136.485 kJ/mol-atom | ErTe | 0 | DFT | DFT | [Er–Te](https://data.orchid-project.org/systems/ER-TE.html) | [1] Bennoui 2022; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table 2, p. 5, row 39; `ORC-JSIH54OHCH` |  |
+| -119.399 kJ/mol-atom | ErTe | 0 | DFT | DFT | [Er–Te](https://data.orchid-project.org/systems/ER-TE.html) | [1] Bennoui 2022; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table 2, p. 5, row 38; `ORC-YDJL5RJKTH` |  |
+| -115.927 kJ/mol-atom | ErTe | 0 | DFT | DFT | [Er–Te](https://data.orchid-project.org/systems/ER-TE.html) | [1] Bennoui 2022 | Table 2, p. 5, row 36; `ORC-CKZF2IEQZ3` |  |
 
 ### Uncertainty budget
 
@@ -100,4 +100,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

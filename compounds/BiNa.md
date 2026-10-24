@@ -14,11 +14,11 @@ Table: Enthalpy of formation of BiNa reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -78.3 kJ/mol (basis unstated) | BiNa | 298.15 | experimental | direct reaction calorimetry | [Bi–Na](https://data.orchid-project.org/systems/BI-NA.html) | [1] Liu 2013; _cites Seith 1937_ | p. 2 | “The enthalpies of formation of BiNa at 298 K were reported to be -78.3 kJ/mol, relative to pure liquids, from direct reaction calorimetry by Seith and Kubaschewski \[43\] and Kubaschewski and Catterall \[44\].” |
-| -41.6 kJ/mol-atom | BiNa(s) | 298.15 | experimental |  | [Bi–Na](https://data.orchid-project.org/systems/BI-NA.html) | [1] Liu 2013; _cites Iwase 1984_ | Table 5, p. 7, row 3 |  |
-| -39.75 kJ/mol-atom | BiNa(s) | 298.15 | experimental |  | [Bi–Na](https://data.orchid-project.org/systems/BI-NA.html) | [1] Liu 2013; _cites Foster 1967_ | Table 5, p. 7, row 2 |  |
-| -39.15 kJ/mol-atom | BiNa(s) | 298.15 | experimental |  | [Bi–Na](https://data.orchid-project.org/systems/BI-NA.html) | [1] Liu 2013; _cites Seith 1937_ | Table 5, p. 7, row 4 |  |
-| -42.45 kJ/mol-atom | BiNa(s) |  | model |  | [Bi–Na](https://data.orchid-project.org/systems/BI-NA.html) | [1] Liu 2013 | Table 5, p. 7, row 1 |  |
+| -78.3 kJ/mol (basis unstated) | BiNa | 298.15 | experimental | direct reaction calorimetry | [Bi–Na](https://data.orchid-project.org/systems/BI-NA.html) | [1] Liu 2013; _cites Seith 1937_ | p. 2; `ORC-AFWGZ62NH7` | “The enthalpies of formation of BiNa at 298 K were reported to be -78.3 kJ/mol, relative to pure liquids, from direct reaction calorimetry by Seith and Kubaschewski \[43\] and Kubaschewski and Catterall \[44\].” |
+| -41.6 kJ/mol-atom | BiNa(s) | 298.15 | experimental |  | [Bi–Na](https://data.orchid-project.org/systems/BI-NA.html) | [1] Liu 2013; _cites Iwase 1984_ | Table 5, p. 7, row 3; `ORC-UEPHMZJM2I.1d2afe` |  |
+| -39.75 kJ/mol-atom | BiNa(s) | 298.15 | experimental |  | [Bi–Na](https://data.orchid-project.org/systems/BI-NA.html) | [1] Liu 2013; _cites Foster 1967_ | Table 5, p. 7, row 2; `ORC-AYCTBZFQZB.949bd5` |  |
+| -39.15 kJ/mol-atom | BiNa(s) | 298.15 | experimental |  | [Bi–Na](https://data.orchid-project.org/systems/BI-NA.html) | [1] Liu 2013; _cites Seith 1937_ | Table 5, p. 7, row 4; `ORC-QYSC64K2CE` |  |
+| -42.45 kJ/mol-atom | BiNa(s) |  | model |  | [Bi–Na](https://data.orchid-project.org/systems/BI-NA.html) | [1] Liu 2013 | Table 5, p. 7, row 1; `ORC-7JGVTMWUUH.f4f997` |  |
 
 ### Uncertainty budget
 
@@ -98,4 +98,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

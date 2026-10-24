@@ -49,8 +49,8 @@ Table: Invariant reactions reported in the literature for the Dy–H system (2)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1625.75 | Hcp(Dy) +Gas(H2)→β-DyH2 | Hcp(Dy): H 0.367; Gas(H2): H 1; β-DyH2: H 0.458 | model | [1] Fu 2017 | Table 2, p. 6, row 2 |  |
-| 641.05 | β-DyH2+Gas(H2)→γ-DyH3 | β-DyH2: H 0.694; Gas(H2): H 1; γ-DyH3: H 0.747 | model | [1] Fu 2017 | Table 2, p. 6, row 1 |  |
+| 1625.75 | Hcp(Dy) +Gas(H2)→β-DyH2 | Hcp(Dy): H 0.367; Gas(H2): H 1; β-DyH2: H 0.458 | model | [1] Fu 2017 | Table 2, p. 6, row 2; `ORC-V2CWRMLR2S` |  |
+| 641.05 | β-DyH2+Gas(H2)→γ-DyH3 | β-DyH2: H 0.694; Gas(H2): H 1; γ-DyH3: H 0.747 | model | [1] Fu 2017 | Table 2, p. 6, row 1; `ORC-223LPPM4CU` |  |
 
 ## Other properties
 
@@ -60,10 +60,10 @@ Table: Phase transition, Dy–H system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 644.35 K | 644.35 | other: DyH3 /DyH2 þ H2 ðgasÞ | model | [1] Fu 2017 | p. 6 | “Under hydrogen pressure of 1.2 bar, a clearly endothermic peak corresponding to the transition DyH3 /DyH2 þ H2 ðgasÞ is observed at about 372.1 C, very close to the 371.2 C gained by CALPHAD method.” |
-| Phase transition | 645.25 K | 645.25 | other: DyH3 /DyH2 þ H2 ðgasÞ | experimental | [1] Fu 2017 | p. 6 | “Under hydrogen pressure of 1.2 bar, a clearly endothermic peak corresponding to the transition DyH3 /DyH2 þ H2 ðgasÞ is observed at about 372.1 C, very close to the 371.2 C gained by CALPHAD method.” |
-| Phase transition | 715.85 K | 715.85 | other: DyH3 /DyH2 þ H2 ðgasÞ | experimental | [1] Fu 2017 | p. 6 | “While under 5.0 bar (Fig. 7(b)), the endothermic peak shift toward high temperature (442.7 C) due to the increasing stability of DyH3, in good agreement with the calculated decomposition temperature (444.9 C).” |
-| Phase transition | 718.05 K | 718.05 | other: DyH3 /DyH2 þ H2 ðgasÞ | model | [1] Fu 2017 | p. 6 | “While under 5.0 bar (Fig. 7(b)), the endothermic peak shift toward high temperature (442.7 C) due to the increasing stability of DyH3, in good agreement with the calculated decomposition temperature (444.9 C).” |
+| Phase transition | 644.35 K | 644.35 | other: DyH3 /DyH2 þ H2 ðgasÞ | model | [1] Fu 2017 | p. 6; `ORC-6W6S2NUQIA.565c23` | “Under hydrogen pressure of 1.2 bar, a clearly endothermic peak corresponding to the transition DyH3 /DyH2 þ H2 ðgasÞ is observed at about 372.1 C, very close to the 371.2 C gained by CALPHAD method.” |
+| Phase transition | 645.25 K | 645.25 | other: DyH3 /DyH2 þ H2 ðgasÞ | experimental | [1] Fu 2017 | p. 6; `ORC-6W6S2NUQIA.8c46be` | “Under hydrogen pressure of 1.2 bar, a clearly endothermic peak corresponding to the transition DyH3 /DyH2 þ H2 ðgasÞ is observed at about 372.1 C, very close to the 371.2 C gained by CALPHAD method.” |
+| Phase transition | 715.85 K | 715.85 | other: DyH3 /DyH2 þ H2 ðgasÞ | experimental | [1] Fu 2017 | p. 6; `ORC-H5I6ZK3CTZ.8c3ddd` | “While under 5.0 bar (Fig. 7(b)), the endothermic peak shift toward high temperature (442.7 C) due to the increasing stability of DyH3, in good agreement with the calculated decomposition temperature (444.9 C).” |
+| Phase transition | 718.05 K | 718.05 | other: DyH3 /DyH2 þ H2 ðgasÞ | model | [1] Fu 2017 | p. 6; `ORC-H5I6ZK3CTZ.296bf3` | “While under 5.0 bar (Fig. 7(b)), the endothermic peak shift toward high temperature (442.7 C) due to the increasing stability of DyH3, in good agreement with the calculated decomposition temperature (444.9 C).” |
 
 ## Sources
 
@@ -128,4 +128,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

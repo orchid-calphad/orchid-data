@@ -28,8 +28,8 @@ Table: Phase transition, Al–C–Y system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1825 K | 1825 | other: YAl3C3; _alloy: C 0.428571, Y 0.142857_ | experimental | [1] Gröbner 1995 | Table 4, p. 3, row 2 |  |
-| Phase transition | 1925 K | 1925 | other: Y3AlC; _alloy: C 0.2, Y 0.6_ | experimental | [1] Gröbner 1995 | Table 4, p. 3, row 1 |  |
+| Phase transition | 1825 K | 1825 | other: YAl3C3; _alloy: C 0.428571, Y 0.142857_ | experimental | [1] Gröbner 1995 | Table 4, p. 3, row 2; `ORC-2HSZNE52YL` |  |
+| Phase transition | 1925 K | 1925 | other: Y3AlC; _alloy: C 0.2, Y 0.6_ | experimental | [1] Gröbner 1995 | Table 4, p. 3, row 1; `ORC-RQRD732F3P` |  |
 
 ## Sources
 
@@ -72,4 +72,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

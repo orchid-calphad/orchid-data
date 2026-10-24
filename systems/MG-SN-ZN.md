@@ -28,21 +28,21 @@ Table: Invariant reactions reported in the literature for the Mg–Sn–Zn syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 843 | eutectic: L -> Mg2Sn + MgZn2 | L: Mg 0.3805, Zn 0.5729 | experimental | [1] Meng 2010; _cites Otani 1933_ [doi](https://doi.org/10.2355/tetsutohagane1915.19.7_566) | Table 3, p. 4, row 1 |  |
-| 840 | eutectic: L -> Mg2Sn + MgZn2 | L: Mg 0.3859, Zn 0.5658 | unspecified | [1] Meng 2010; _cites Godecke 1994_ | Table 3, p. 4, row 2 |  |
-| 837 | eutectic: L -> Mg2Sn + MgZn2 | L: Mg 0.388, Zn 0.5569 | model | [1] Meng 2010 | Table 3, p. 4, row 3 |  |
-| 684 | quasi-peritectic: L + MgZn2 -> Mg2Sn + Mg2Zn3 | L: Mg 0.6475, Zn 0.3405 | model | [1] Meng 2010 | Table 3, p. 4, row 7 |  |
-| 644 | quasi-peritectic: L + MgZn2 -> Mg2Sn + Mg2Zn11 | L: Mg 0.0951, Zn 0.8788 | model | [1] Meng 2010 | Table 3, p. 4, row 11 |  |
-| 641 | quasi-peritectic: L + MgZn2 -> Mg2Sn + Mg2Zn11 | L: Mg 0.0969, Zn 0.8641 | unspecified | [1] Meng 2010; _cites Godecke 1994_ | Table 3, p. 4, row 10 |  |
-| 628 | eutectic: L -> Mg2Sn + hcp(Zn) | L: Mg 0.0894, Zn 0.8691 | unspecified | [1] Meng 2010; _cites Godecke 1994_ | Table 3, p. 4, row 5 |  |
-| 626 | eutectic: L -> Mg2Sn + hcp(Zn) | L: Mg 0.0976, Zn 0.8511 | experimental | [1] Meng 2010; _cites Otani 1933_ [doi](https://doi.org/10.2355/tetsutohagane1915.19.7_566) | Table 3, p. 4, row 4 |  |
-| 626 | eutectic: L -> Mg2Sn + Mg2Zn11 + hcp(Zn) | L: Mg 0.0917, Zn 0.8691 | unspecified | [1] Meng 2010; _cites Godecke 1994_ | Table 3, p. 4, row 13 |  |
-| 625 | eutectic: L -> Mg2Sn + hcp(Zn) | L: Mg 0.0761, Zn 0.8783 | model | [1] Meng 2010 | Table 3, p. 4, row 6 |  |
-| 624 | eutectic: L -> Mg2Sn + Mg2Zn11 + hcp(Zn) | L: Mg 0.0771, Zn 0.8798 | model | [1] Meng 2010 | Table 3, p. 4, row 14 |  |
-| 618 | quasi-peritectic: L + Mg2Zn3 -> Mg2Sn + MgZn | L: Mg 0.7049, Zn 0.2902 | model | [1] Meng 2010 | Table 3, p. 4, row 8 |  |
-| 614 | quasi-peritectic: L + Mg2Sn -> hcp(Mg) + MgZn | L: Mg 0.7081, Zn 0.2873 | model | [1] Meng 2010 | Table 3, p. 4, row 9 |  |
-| 459 | eutectic: L -> Mg2Sn + bct(Sn) + hcp(Zn) | L: Mg 0.0653, Zn 0.1005 | model | [1] Meng 2010 | Table 3, p. 4, row 16 |  |
-| 456 | eutectic: L -> Mg2Sn + bct(Sn) + hcp(Zn) | L: Mg 0.0739, Zn 0.1147 | unspecified | [1] Meng 2010; _cites Godecke 1994_ | Table 3, p. 4, row 15 |  |
+| 843 | eutectic: L -> Mg2Sn + MgZn2 | L: Mg 0.3805, Zn 0.5729 | experimental | [1] Meng 2010; _cites Otani 1933_ [doi](https://doi.org/10.2355/tetsutohagane1915.19.7_566) | Table 3, p. 4, row 1; `ORC-QEIRWSCBJV` |  |
+| 840 | eutectic: L -> Mg2Sn + MgZn2 | L: Mg 0.3859, Zn 0.5658 | unspecified | [1] Meng 2010; _cites Godecke 1994_ | Table 3, p. 4, row 2; `ORC-4XAX7CT2K2` |  |
+| 837 | eutectic: L -> Mg2Sn + MgZn2 | L: Mg 0.388, Zn 0.5569 | model | [1] Meng 2010 | Table 3, p. 4, row 3; `ORC-QIGOHSC4OP` |  |
+| 684 | quasi-peritectic: L + MgZn2 -> Mg2Sn + Mg2Zn3 | L: Mg 0.6475, Zn 0.3405 | model | [1] Meng 2010 | Table 3, p. 4, row 7; `ORC-DXRPGVUQ5N` |  |
+| 644 | quasi-peritectic: L + MgZn2 -> Mg2Sn + Mg2Zn11 | L: Mg 0.0951, Zn 0.8788 | model | [1] Meng 2010 | Table 3, p. 4, row 11; `ORC-RBMF4K65RS` |  |
+| 641 | quasi-peritectic: L + MgZn2 -> Mg2Sn + Mg2Zn11 | L: Mg 0.0969, Zn 0.8641 | unspecified | [1] Meng 2010; _cites Godecke 1994_ | Table 3, p. 4, row 10; `ORC-XKVIJGBAD7` |  |
+| 628 | eutectic: L -> Mg2Sn + hcp(Zn) | L: Mg 0.0894, Zn 0.8691 | unspecified | [1] Meng 2010; _cites Godecke 1994_ | Table 3, p. 4, row 5; `ORC-A7UMYKCSOG` |  |
+| 626 | eutectic: L -> Mg2Sn + hcp(Zn) | L: Mg 0.0976, Zn 0.8511 | experimental | [1] Meng 2010; _cites Otani 1933_ [doi](https://doi.org/10.2355/tetsutohagane1915.19.7_566) | Table 3, p. 4, row 4; `ORC-BLH4L7CO6Z` |  |
+| 626 | eutectic: L -> Mg2Sn + Mg2Zn11 + hcp(Zn) | L: Mg 0.0917, Zn 0.8691 | unspecified | [1] Meng 2010; _cites Godecke 1994_ | Table 3, p. 4, row 13; `ORC-JYBJ4766UF` |  |
+| 625 | eutectic: L -> Mg2Sn + hcp(Zn) | L: Mg 0.0761, Zn 0.8783 | model | [1] Meng 2010 | Table 3, p. 4, row 6; `ORC-IRAW2YEEOK` |  |
+| 624 | eutectic: L -> Mg2Sn + Mg2Zn11 + hcp(Zn) | L: Mg 0.0771, Zn 0.8798 | model | [1] Meng 2010 | Table 3, p. 4, row 14; `ORC-WTS4S5OIAK` |  |
+| 618 | quasi-peritectic: L + Mg2Zn3 -> Mg2Sn + MgZn | L: Mg 0.7049, Zn 0.2902 | model | [1] Meng 2010 | Table 3, p. 4, row 8; `ORC-6BCYUMVEKE` |  |
+| 614 | quasi-peritectic: L + Mg2Sn -> hcp(Mg) + MgZn | L: Mg 0.7081, Zn 0.2873 | model | [1] Meng 2010 | Table 3, p. 4, row 9; `ORC-4MDBFROMI5` |  |
+| 459 | eutectic: L -> Mg2Sn + bct(Sn) + hcp(Zn) | L: Mg 0.0653, Zn 0.1005 | model | [1] Meng 2010 | Table 3, p. 4, row 16; `ORC-NDYFO4VVZ4` |  |
+| 456 | eutectic: L -> Mg2Sn + bct(Sn) + hcp(Zn) | L: Mg 0.0739, Zn 0.1147 | unspecified | [1] Meng 2010; _cites Godecke 1994_ | Table 3, p. 4, row 15; `ORC-ZQHEA3WCWK` |  |
 
 ## Sources
 
@@ -85,4 +85,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

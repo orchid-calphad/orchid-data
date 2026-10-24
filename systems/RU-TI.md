@@ -53,14 +53,14 @@ Table: Invariant reactions reported in the literature for the Ru–Ti system (8)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2128 | Liquid→hcp (Ru) + RuTi | Liquid: Ti 0.28; hcp (Ru): Ti 0.14; RuTi: Ti 0.49 | experimental | [1] Gao 2009; _cites Eremenko 1973_ | Table 2, p. 3, row 9 |  |
-| 2128 | Liquid→hcp (Ru) + RuTi | Liquid: Ti 0.2915; hcp (Ru): Ti 0.1493; RuTi: Ti 0.49 | model | [1] Gao 2009 | Table 2, p. 3, row 7 |  |
-| 2128 | Liquid→hcp (Ru) + RuTi | Liquid: Ti 0.2952; hcp (Ru): Ti 0.1522; RuTi: Ti 0.4898 | model | [1] Gao 2009 | Table 2, p. 3, row 8 |  |
-| 2098 | eutectic: L→RuTi + hcp(Ru) |  | model | [1] Gao 2009; _cites Murray 1982_ [doi](https://doi.org/10.1007/bf02892392) | p. 1 | “In the optimization procedure of Murray \[6\], the average of the two determinations by Raub and Roeschel \[3\] and Eremenko et al. \[4\], 2083 K, was used as a preliminary estimate for the eutectic reaction temperature L→RuTi + hcp(Ru), but the calculated value was 2098 K.” |
-| 2083 | eutectic: L→RuTi + hcp(Ru) |  | experimental | [1] Gao 2009; _cites Raub 1963_ | p. 1 | “In the optimization procedure of Murray \[6\], the average of the two determinations by Raub and Roeschel \[3\] and Eremenko et al. \[4\], 2083 K, was used as a preliminary estimate for the eutectic reaction temperature L→RuTi + hcp(Ru), but the calculated value was 2098 K.” |
-| 1848 | Liquid + RuTi→bcc (Ti) | Liquid: Ti 0.7702; RuTi: Ti 0.5425; bcc (Ti): Ti 0.7604 | model | [1] Gao 2009 | Table 2, p. 3, row 4 |  |
-| 1848 | Liquid + RuTi→bcc (Ti) | Liquid: Ti 0.7669; RuTi: Ti 0.543; bcc (Ti): Ti 0.7578 | model | [1] Gao 2009 | Table 2, p. 3, row 5 |  |
-| 1848 | Liquid + RuTi→bcc (Ti) | Liquid: Ti 0.76; RuTi: Ti 0.55; bcc (Ti): Ti 0.75 | experimental | [1] Gao 2009; _cites Eremenko 1973_ | Table 2, p. 3, row 6 |  |
+| 2128 | Liquid→hcp (Ru) + RuTi | Liquid: Ti 0.28; hcp (Ru): Ti 0.14; RuTi: Ti 0.49 | experimental | [1] Gao 2009; _cites Eremenko 1973_ | Table 2, p. 3, row 9; `ORC-EHQJ2ODWE5` |  |
+| 2128 | Liquid→hcp (Ru) + RuTi | Liquid: Ti 0.2915; hcp (Ru): Ti 0.1493; RuTi: Ti 0.49 | model | [1] Gao 2009 | Table 2, p. 3, row 7; `ORC-NF3PJUFUQ6` |  |
+| 2128 | Liquid→hcp (Ru) + RuTi | Liquid: Ti 0.2952; hcp (Ru): Ti 0.1522; RuTi: Ti 0.4898 | model | [1] Gao 2009 | Table 2, p. 3, row 8; `ORC-VRBNYSVD5Z` |  |
+| 2098 | eutectic: L→RuTi + hcp(Ru) |  | model | [1] Gao 2009; _cites Murray 1982_ [doi](https://doi.org/10.1007/bf02892392) | p. 1; `ORC-36PN5O3DJV.474024` | “In the optimization procedure of Murray \[6\], the average of the two determinations by Raub and Roeschel \[3\] and Eremenko et al. \[4\], 2083 K, was used as a preliminary estimate for the eutectic reaction temperature L→RuTi + hcp(Ru), but the calculated value was 2098 K.” |
+| 2083 | eutectic: L→RuTi + hcp(Ru) |  | experimental | [1] Gao 2009; _cites Raub 1963_ | p. 1; `ORC-36PN5O3DJV.541f2b` | “In the optimization procedure of Murray \[6\], the average of the two determinations by Raub and Roeschel \[3\] and Eremenko et al. \[4\], 2083 K, was used as a preliminary estimate for the eutectic reaction temperature L→RuTi + hcp(Ru), but the calculated value was 2098 K.” |
+| 1848 | Liquid + RuTi→bcc (Ti) | Liquid: Ti 0.7702; RuTi: Ti 0.5425; bcc (Ti): Ti 0.7604 | model | [1] Gao 2009 | Table 2, p. 3, row 4; `ORC-3656S7LP4H` |  |
+| 1848 | Liquid + RuTi→bcc (Ti) | Liquid: Ti 0.7669; RuTi: Ti 0.543; bcc (Ti): Ti 0.7578 | model | [1] Gao 2009 | Table 2, p. 3, row 5; `ORC-6AGNPDB6B4` |  |
+| 1848 | Liquid + RuTi→bcc (Ti) | Liquid: Ti 0.76; RuTi: Ti 0.55; bcc (Ti): Ti 0.75 | experimental | [1] Gao 2009; _cites Eremenko 1973_ | Table 2, p. 3, row 6; `ORC-6BQ7UFO2YN` |  |
 
 ## Other properties
 
@@ -70,12 +70,12 @@ Table: Phase transition, Ru–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1823 K | 1823 | Liquid→bcc (Ti); _Liquid: Ti 0.8711; bcc (Ti): Ti 0.8711_ | model | [1] Gao 2009 | Table 2, p. 3, row 2 |  |
-| Phase transition | 1823 K | 1823 | Liquid→bcc (Ti); _Liquid: Ti 0.85; bcc (Ti): Ti 0.85_ | experimental | [1] Gao 2009; _cites Eremenko 1973_ | Table 2, p. 3, row 3 |  |
-| Phase transition | 1823 K | 1823 | Liquid→bcc (Ti); _Liquid: Ti 0.8727; bcc (Ti): Ti 0.8727_ | model | [1] Gao 2009 | Table 2, p. 3, row 1 |  |
-| Phase transition | 2393 K | 2393 | Liquid→RuTi; _Liquid: Ti 0.5233; RuTi: Ti 0.5233_ | model | [1] Gao 2009 | Table 2, p. 3, row 11 |  |
-| Phase transition | 2393 K | 2393 | Liquid→RuTi; _Liquid: Ti 0.5235; RuTi: Ti 0.5235_ | model | [1] Gao 2009 | Table 2, p. 3, row 10 |  |
-| Phase transition | 2393 K | 2393 | Liquid→RuTi; _Liquid: Ti 0.5; RuTi: Ti 0.5_ | experimental | [1] Gao 2009; _cites Eremenko 1973_ | Table 2, p. 3, row 12 |  |
+| Phase transition | 1823 K | 1823 | Liquid→bcc (Ti); _Liquid: Ti 0.8711; bcc (Ti): Ti 0.8711_ | model | [1] Gao 2009 | Table 2, p. 3, row 2; `ORC-C6I3TBRYGD` |  |
+| Phase transition | 1823 K | 1823 | Liquid→bcc (Ti); _Liquid: Ti 0.85; bcc (Ti): Ti 0.85_ | experimental | [1] Gao 2009; _cites Eremenko 1973_ | Table 2, p. 3, row 3; `ORC-CK2EU35OFV` |  |
+| Phase transition | 1823 K | 1823 | Liquid→bcc (Ti); _Liquid: Ti 0.8727; bcc (Ti): Ti 0.8727_ | model | [1] Gao 2009 | Table 2, p. 3, row 1; `ORC-LLBDFJ5SVJ` |  |
+| Phase transition | 2393 K | 2393 | Liquid→RuTi; _Liquid: Ti 0.5233; RuTi: Ti 0.5233_ | model | [1] Gao 2009 | Table 2, p. 3, row 11; `ORC-4OZT4ATTOM` |  |
+| Phase transition | 2393 K | 2393 | Liquid→RuTi; _Liquid: Ti 0.5235; RuTi: Ti 0.5235_ | model | [1] Gao 2009 | Table 2, p. 3, row 10; `ORC-BPYSOPIV6Z` |  |
+| Phase transition | 2393 K | 2393 | Liquid→RuTi; _Liquid: Ti 0.5; RuTi: Ti 0.5_ | experimental | [1] Gao 2009; _cites Eremenko 1973_ | Table 2, p. 3, row 12; `ORC-G4MAFNB76D` |  |
 
 ## Sources
 
@@ -140,4 +140,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

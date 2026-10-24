@@ -62,21 +62,21 @@ Table: Invariant reactions reported in the literature for the Sb–Tb system (15
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2043.15 | L + (α-SbTb) -> (β-Sb3Tb4) | L: Tb 0.668; (α-SbTb): Tb 0.5; (β-Sb3Tb4): Tb 0.571 | model | [1] Gao 2012 | Table 2, p. 2, row 5 |  |
-| 2043.15 | peritectic |  | model | [1] Gao 2012 | p. 4 | “The calculated peritectic temperatures of the three intermetallic compounds (Sb2 Tb, Sb3 Tb4 , and Sb3 Tb5 ) are 740, 1770, and 1650 °C, respectively, and the calculated eutectic temperatures in this binary system are 620 and 1130 °C.” |
-| 2043.15 | L + (α-SbTb) -> (β-Sb3Tb4) | L: Tb 0.61; (α-SbTb): Tb 0.5; (β-Sb3Tb4): Tb 0.571 | experimental | [1] Gao 2012; _cites Massalski 1990_ | Table 2, p. 2, row 6 |  |
-| 1923.15 | L + (β-Sb3Tb4) -> Sb3Tb5 | L: Tb 0.706; (β-Sb3Tb4): Tb 0.571; Sb3Tb5: Tb 0.625 | model | [1] Gao 2012 | Table 2, p. 2, row 7 |  |
-| 1923.15 | L + (β-Sb3Tb4) -> Sb3Tb5 | L: Tb 0.651; (β-Sb3Tb4): Tb 0.571; Sb3Tb5: Tb 0.625 | experimental | [1] Gao 2012; _cites Massalski 1990_ | Table 2, p. 2, row 8 |  |
-| 1923.15 | peritectic |  | model | [1] Gao 2012 | p. 4 | “The calculated peritectic temperatures of the three intermetallic compounds (Sb2 Tb, Sb3 Tb4 , and Sb3 Tb5 ) are 740, 1770, and 1650 °C, respectively, and the calculated eutectic temperatures in this binary system are 620 and 1130 °C.” |
-| 1538.15 | (β-Tb) -> (α-Tb) + L | (β-Tb): Tb 0.985; (α-Tb): Tb 0.99; L: Tb 0.916 | experimental | [1] Gao 2012; _cites Massalski 1990_ | Table 2, p. 2, row 12 |  |
-| 1538.15 | (β-Tb) -> (α-Tb) + L | (β-Tb): Tb 0.991; (α-Tb): Tb 0.995; L: Tb 0.937 | model | [1] Gao 2012 | Table 2, p. 2, row 11 |  |
-| 1403.15 | L -> (α-Tb) + Sb3Tb5 | L: Tb 0.877; (α-Tb): Tb 0.983; Sb3Tb5: Tb 0.625 | model | [1] Gao 2012 | Table 2, p. 2, row 9 |  |
-| 1403.15 | L -> (α-Tb) + Sb3Tb5 | L: Tb 0.86; (α-Tb): Tb 0.99; Sb3Tb5: Tb 0.625 | experimental | [1] Gao 2012; _cites Massalski 1990_ | Table 2, p. 2, row 10 |  |
-| 1013.15 | L + (α-SbTb) -> Sb2Tb | L: Tb 0.046; (α-SbTb): Tb 0.5; Sb2Tb: Tb 0.333 | model | [1] Gao 2012 | Table 2, p. 2, row 3 |  |
-| 1013.15 | L + (α-SbTb) -> Sb2Tb | L: Tb 0.022; (α-SbTb): Tb 0.5; Sb2Tb: Tb 0.333 | experimental | [1] Gao 2012; _cites Massalski 1990_ | Table 2, p. 2, row 4 |  |
-| 1013.15 | peritectic |  | model | [1] Gao 2012 | p. 4 | “The calculated peritectic temperatures of the three intermetallic compounds (Sb2 Tb, Sb3 Tb4 , and Sb3 Tb5 ) are 740, 1770, and 1650 °C, respectively, and the calculated eutectic temperatures in this binary system are 620 and 1130 °C.” |
-| 896.15 | L -> (Sb) + Sb2Tb | L: Tb 0.008; (Sb): Tb 0; Sb2Tb: Tb 0.333 | experimental | [1] Gao 2012; _cites Massalski 1990_ | Table 2, p. 2, row 2 |  |
-| 896.15 | L -> (Sb) + Sb2Tb | L: Tb 0.018; (Sb): Tb 0; Sb2Tb: Tb 0.333 | model | [1] Gao 2012 | Table 2, p. 2, row 1 |  |
+| 2043.15 | L + (α-SbTb) -> (β-Sb3Tb4) | L: Tb 0.668; (α-SbTb): Tb 0.5; (β-Sb3Tb4): Tb 0.571 | model | [1] Gao 2012 | Table 2, p. 2, row 5; `ORC-DHVIH4TAXW` |  |
+| 2043.15 | peritectic |  | model | [1] Gao 2012 | p. 4; `ORC-GANLP2YYI7.0c225d` | “The calculated peritectic temperatures of the three intermetallic compounds (Sb2 Tb, Sb3 Tb4 , and Sb3 Tb5 ) are 740, 1770, and 1650 °C, respectively, and the calculated eutectic temperatures in this binary system are 620 and 1130 °C.” |
+| 2043.15 | L + (α-SbTb) -> (β-Sb3Tb4) | L: Tb 0.61; (α-SbTb): Tb 0.5; (β-Sb3Tb4): Tb 0.571 | experimental | [1] Gao 2012; _cites Massalski 1990_ | Table 2, p. 2, row 6; `ORC-OHSZKX4V5Z` |  |
+| 1923.15 | L + (β-Sb3Tb4) -> Sb3Tb5 | L: Tb 0.706; (β-Sb3Tb4): Tb 0.571; Sb3Tb5: Tb 0.625 | model | [1] Gao 2012 | Table 2, p. 2, row 7; `ORC-4YPY4WAPJ2` |  |
+| 1923.15 | L + (β-Sb3Tb4) -> Sb3Tb5 | L: Tb 0.651; (β-Sb3Tb4): Tb 0.571; Sb3Tb5: Tb 0.625 | experimental | [1] Gao 2012; _cites Massalski 1990_ | Table 2, p. 2, row 8; `ORC-DEKLZ4O2T5` |  |
+| 1923.15 | peritectic |  | model | [1] Gao 2012 | p. 4; `ORC-GANLP2YYI7.c6cd2b` | “The calculated peritectic temperatures of the three intermetallic compounds (Sb2 Tb, Sb3 Tb4 , and Sb3 Tb5 ) are 740, 1770, and 1650 °C, respectively, and the calculated eutectic temperatures in this binary system are 620 and 1130 °C.” |
+| 1538.15 | (β-Tb) -> (α-Tb) + L | (β-Tb): Tb 0.985; (α-Tb): Tb 0.99; L: Tb 0.916 | experimental | [1] Gao 2012; _cites Massalski 1990_ | Table 2, p. 2, row 12; `ORC-WENDURIRNY` |  |
+| 1538.15 | (β-Tb) -> (α-Tb) + L | (β-Tb): Tb 0.991; (α-Tb): Tb 0.995; L: Tb 0.937 | model | [1] Gao 2012 | Table 2, p. 2, row 11; `ORC-ZAIUJSB6ED` |  |
+| 1403.15 | L -> (α-Tb) + Sb3Tb5 | L: Tb 0.877; (α-Tb): Tb 0.983; Sb3Tb5: Tb 0.625 | model | [1] Gao 2012 | Table 2, p. 2, row 9; `ORC-2Q6QSWEA4B` |  |
+| 1403.15 | L -> (α-Tb) + Sb3Tb5 | L: Tb 0.86; (α-Tb): Tb 0.99; Sb3Tb5: Tb 0.625 | experimental | [1] Gao 2012; _cites Massalski 1990_ | Table 2, p. 2, row 10; `ORC-RZKWOE5R2E` |  |
+| 1013.15 | L + (α-SbTb) -> Sb2Tb | L: Tb 0.046; (α-SbTb): Tb 0.5; Sb2Tb: Tb 0.333 | model | [1] Gao 2012 | Table 2, p. 2, row 3; `ORC-CNKE2BJF53` |  |
+| 1013.15 | L + (α-SbTb) -> Sb2Tb | L: Tb 0.022; (α-SbTb): Tb 0.5; Sb2Tb: Tb 0.333 | experimental | [1] Gao 2012; _cites Massalski 1990_ | Table 2, p. 2, row 4; `ORC-EMIOKABRX5` |  |
+| 1013.15 | peritectic |  | model | [1] Gao 2012 | p. 4; `ORC-GANLP2YYI7.b68f75` | “The calculated peritectic temperatures of the three intermetallic compounds (Sb2 Tb, Sb3 Tb4 , and Sb3 Tb5 ) are 740, 1770, and 1650 °C, respectively, and the calculated eutectic temperatures in this binary system are 620 and 1130 °C.” |
+| 896.15 | L -> (Sb) + Sb2Tb | L: Tb 0.008; (Sb): Tb 0; Sb2Tb: Tb 0.333 | experimental | [1] Gao 2012; _cites Massalski 1990_ | Table 2, p. 2, row 2; `ORC-5A3XBHVJP2` |  |
+| 896.15 | L -> (Sb) + Sb2Tb | L: Tb 0.018; (Sb): Tb 0; Sb2Tb: Tb 0.333 | model | [1] Gao 2012 | Table 2, p. 2, row 1; `ORC-CYQGT7A7ZD` |  |
 
 ## Other properties
 
@@ -86,7 +86,7 @@ Table: Phase transition, Sb–Tb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 2433.15 K | 2433.15 | congruent transformation | model | [1] Gao 2012 | p. 4 | “The congruent melting temperature of SbTb calculated in the present work is 2160 °C, in agreement with the experimental result \[11\].” |
+| Phase transition | 2433.15 K | 2433.15 | congruent transformation | model | [1] Gao 2012 | p. 4; `ORC-OXQMEIFZGA` | “The congruent melting temperature of SbTb calculated in the present work is 2160 °C, in agreement with the experimental result \[11\].” |
 
 ## Sources
 
@@ -151,4 +151,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

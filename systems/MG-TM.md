@@ -53,19 +53,19 @@ Table: Invariant reactions reported in the literature for the Mg–Tm system (13
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1473 | liquid + hcp(Tm) -> bcc | liquid: Tm 0.69; hcp(Tm): Tm 0.88; bcc: Tm 0.81 | experimental | [1] Du 2004; _cites Saccone 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906023-1) | Table 2, p. 4, row 10 |  |
-| 1473 | liquid + hcp(Tm) -> bcc | liquid: Tm 0.7001; hcp(Tm): Tm 0.8808; bcc: Tm 0.7512 | model | [1] Du 2004 | Table 2, p. 4, row 9 |  |
-| 1033 | liquid + bcc -> MgTm | liquid: Tm 0.3351; bcc: Tm 0.5589; MgTm: Tm 0.4897 | model | [1] Du 2004 | Table 2, p. 4, row 7 |  |
-| 1033 | liquid + bcc -> MgTm | liquid: Tm 0.32; bcc: Tm 0.57; MgTm: Tm 0.5 | experimental | [1] Du 2004; _cites Saccone 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906023-1) | Table 2, p. 4, row 8 |  |
-| 943 | bcc -> MgTm + hcp(Tm) | bcc: Tm 0.7; MgTm: Tm 0.52; hcp(Tm): Tm 0.87 | experimental | [1] Du 2004; _cites Saccone 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906023-1) | Table 2, p. 4, row 12 |  |
-| 943 | bcc -> MgTm + hcp(Tm) | bcc: Tm 0.6588; MgTm: Tm 0.5164; hcp(Tm): Tm 0.8536 | model | [1] Du 2004 | Table 2, p. 4, row 11 |  |
-| 903 | liquid + MgTm -> Mg2Tm | liquid: Tm 0.1966; MgTm: Tm 0.4116; Mg2Tm: Tm 0.333333 | model | [1] Du 2004 | Table 2, p. 4, row 5 |  |
-| 903 | liquid + MgTm -> Mg2Tm | liquid: Tm 0.18; MgTm: Tm 0.42; Mg2Tm: Tm 0.333333 | experimental | [1] Du 2004; _cites Saccone 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906023-1) | Table 2, p. 4, row 6 |  |
-| 863 | liquid +Mg2Tm -> Mg24Tm5 | liquid: Tm 0.151; Mg2Tm: Tm 0.333333; Mg24Tm5: Tm 0.172414 | model | [1] Du 2004 | Table 2, p. 4, row 3 |  |
-| 863 | liquid +Mg2Tm -> Mg24Tm5 | liquid: Tm 0.13; Mg2Tm: Tm 0.333333; Mg24Tm5: Tm 0.172414 | experimental | [1] Du 2004; _cites Saccone 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906023-1) | Table 2, p. 4, row 4 |  |
-| 848 | liquid -> hcp(Mg)+Mg24Tm5 | liquid: Tm 0.11; hcp(Mg): Tm 0.06; Mg24Tm5: Tm 0.172414 | experimental | [1] Du 2004; _cites Saccone 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906023-1) | Table 2, p. 4, row 2 |  |
-| 848 | liquid -> hcp(Mg)+Mg24Tm5 | liquid: Tm 0.1088; hcp(Mg): Tm 0.0443; Mg24Tm5: Tm 0.172414 | model | [1] Du 2004 | Table 2, p. 4, row 1 |  |
-| 844.15 | eutectoid: Mgx Tmy -> hcp (Mg) + Mg24 Tm5 |  | experimental | [1] Du 2004; _cites Rockhlin 1977_ | p. 3 | “Moreover he suggested the existence and eutectoid decomposition of the Mgx Tmy compound, with x/y slightly greater than 24/5, into hcp (Mg) and Mg24 Tm5 at 571 ◦ C.” |
+| 1473 | liquid + hcp(Tm) -> bcc | liquid: Tm 0.69; hcp(Tm): Tm 0.88; bcc: Tm 0.81 | experimental | [1] Du 2004; _cites Saccone 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906023-1) | Table 2, p. 4, row 10; `ORC-C5VPMUDM5V` |  |
+| 1473 | liquid + hcp(Tm) -> bcc | liquid: Tm 0.7001; hcp(Tm): Tm 0.8808; bcc: Tm 0.7512 | model | [1] Du 2004 | Table 2, p. 4, row 9; `ORC-IY2Z4OTWTX` |  |
+| 1033 | liquid + bcc -> MgTm | liquid: Tm 0.3351; bcc: Tm 0.5589; MgTm: Tm 0.4897 | model | [1] Du 2004 | Table 2, p. 4, row 7; `ORC-2WZYXAWMAA` |  |
+| 1033 | liquid + bcc -> MgTm | liquid: Tm 0.32; bcc: Tm 0.57; MgTm: Tm 0.5 | experimental | [1] Du 2004; _cites Saccone 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906023-1) | Table 2, p. 4, row 8; `ORC-EJVY27LGMZ` |  |
+| 943 | bcc -> MgTm + hcp(Tm) | bcc: Tm 0.7; MgTm: Tm 0.52; hcp(Tm): Tm 0.87 | experimental | [1] Du 2004; _cites Saccone 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906023-1) | Table 2, p. 4, row 12; `ORC-B5KTIEUM4G` |  |
+| 943 | bcc -> MgTm + hcp(Tm) | bcc: Tm 0.6588; MgTm: Tm 0.5164; hcp(Tm): Tm 0.8536 | model | [1] Du 2004 | Table 2, p. 4, row 11; `ORC-TNPKOTOQCO` |  |
+| 903 | liquid + MgTm -> Mg2Tm | liquid: Tm 0.1966; MgTm: Tm 0.4116; Mg2Tm: Tm 0.333333 | model | [1] Du 2004 | Table 2, p. 4, row 5; `ORC-3RYKO4WCXR` |  |
+| 903 | liquid + MgTm -> Mg2Tm | liquid: Tm 0.18; MgTm: Tm 0.42; Mg2Tm: Tm 0.333333 | experimental | [1] Du 2004; _cites Saccone 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906023-1) | Table 2, p. 4, row 6; `ORC-BPPWOXTJ5A` |  |
+| 863 | liquid +Mg2Tm -> Mg24Tm5 | liquid: Tm 0.151; Mg2Tm: Tm 0.333333; Mg24Tm5: Tm 0.172414 | model | [1] Du 2004 | Table 2, p. 4, row 3; `ORC-7O435JLSXH` |  |
+| 863 | liquid +Mg2Tm -> Mg24Tm5 | liquid: Tm 0.13; Mg2Tm: Tm 0.333333; Mg24Tm5: Tm 0.172414 | experimental | [1] Du 2004; _cites Saccone 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906023-1) | Table 2, p. 4, row 4; `ORC-NJAVRCS2NH` |  |
+| 848 | liquid -> hcp(Mg)+Mg24Tm5 | liquid: Tm 0.11; hcp(Mg): Tm 0.06; Mg24Tm5: Tm 0.172414 | experimental | [1] Du 2004; _cites Saccone 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906023-1) | Table 2, p. 4, row 2; `ORC-2B2KI7D33D` |  |
+| 848 | liquid -> hcp(Mg)+Mg24Tm5 | liquid: Tm 0.1088; hcp(Mg): Tm 0.0443; Mg24Tm5: Tm 0.172414 | model | [1] Du 2004 | Table 2, p. 4, row 1; `ORC-B5U37CCRPB` |  |
+| 844.15 | eutectoid: Mgx Tmy -> hcp (Mg) + Mg24 Tm5 |  | experimental | [1] Du 2004; _cites Rockhlin 1977_ | p. 3; `ORC-LPPC6KONZV` | “Moreover he suggested the existence and eutectoid decomposition of the Mgx Tmy compound, with x/y slightly greater than 24/5, into hcp (Mg) and Mg24 Tm5 at 571 ◦ C.” |
 
 ## Sources
 
@@ -130,4 +130,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

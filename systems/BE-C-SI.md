@@ -28,26 +28,26 @@ Table: Phase equilibrium, Be–C–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase assemblage |  | 1023.15 | Be + Si + Be2C; _alloy: Be 0.5, C 0.2, Si 0.3_ | experimental | [1] Liu 2021 | Table 1, p. 2, row 3 |  |
-| Phase assemblage |  | 1023.15 | C + Be2C + SiC; _alloy: Be 0.1, C 0.6, Si 0.3_ | experimental | [1] Liu 2021 | Table 1, p. 2, row 12 |  |
-| Phase assemblage |  | 1023.15 | C + Be2C + SiC; _alloy: Be 0.25, C 0.5, Si 0.25_ | experimental | [1] Liu 2021 | Table 1, p. 2, row 10 |  |
-| Phase assemblage |  | 1023.15 | C + Be2C + SiC; _alloy: Be 0.5, C 0.4, Si 0.1_ | experimental | [1] Liu 2021 | Table 1, p. 2, row 9 |  |
-| Phase assemblage |  | 1023.15 | Si + Be2C + SiC; _alloy: Be 0.4, C 0.3, Si 0.3_ | experimental | [1] Liu 2021 | Table 1, p. 2, row 7 |  |
-| Phase assemblage |  | 1023.15 | Si + Be2C + SiC; _alloy: Be 0.35, C 0.2, Si 0.45_ | experimental | [1] Liu 2021 | Table 1, p. 2, row 4 |  |
-| Phase assemblage |  | 1023.15 | Si + Be2C + SiC; _alloy: Be 0.15, C 0.3, Si 0.55_ | experimental | [1] Liu 2021 | Table 1, p. 2, row 8 |  |
-| Phase assemblage |  | 1023.15 | Si + Be2C + SiC; _alloy: Be 0.1, C 0.2, Si 0.7_ | experimental | [1] Liu 2021 | Table 1, p. 2, row 5 |  |
-| Phase assemblage |  | 1023.15 | Si + Be2C + SiC; _alloy: Be 0.55, C 0.3, Si 0.15_ | experimental | [1] Liu 2021 | Table 1, p. 2, row 6 |  |
-| Phase assemblage |  | 1023.15 | Si + Be2C + SiC; _alloy: Be 0.2, C 0.1, Si 0.7_ | experimental | [1] Liu 2021 | Table 1, p. 2, row 1 |  |
-| Phase assemblage |  | 1023.15 | Si + Be2C + SiC; _alloy: Be 0.05, C 0.1, Si 0.85_ | experimental | [1] Liu 2021 | Table 1, p. 2, row 2 |  |
-| Phase assemblage |  | 1023.15 | Si + Be2C + SiC; _alloy: Be 0.1, C 0.45, Si 0.45_ | experimental | [1] Liu 2021 | Table 1, p. 2, row 11 |  |
-| Phase assemblage |  | 1223.15 | Be + Si + Be2C; _alloy: Be 0.6, C 0.2, Si 0.2_ | experimental | [1] Liu 2021 | Table 1, p. 2, row 13 |  |
-| Phase assemblage |  | 1223.15 | C + Be2C + SiC; _alloy: Be 0.2, C 0.6, Si 0.2_ | experimental | [1] Liu 2021 | Table 1, p. 2, row 16 |  |
-| Phase assemblage |  | 1223.15 | Si + Be2C + SiC; _alloy: Be 0.2, C 0.4, Si 0.4_ | experimental | [1] Liu 2021 | Table 1, p. 2, row 15 |  |
-| Phase assemblage |  | 1223.15 | Si + Be2C + SiC; _alloy: Be 0.4, C 0.3, Si 0.3_ | experimental | [1] Liu 2021 | Table 1, p. 2, row 14 |  |
-| Phase composition |  | 1223.15 | Be2C + C + SiC; _Be2C: Be 0.6994, C 0.2937, Si 0.0069; C: Be 0, C 0.999, Si 0.001; SiC: Be 0, C 0.5838, Si 0.4162_ | experimental | [1] Liu 2021 | Table 2, p. 4, row 4 |  |
-| Phase composition |  | 1223.15 | Si + Be2C + Be; _Si: Be 0, C 0.0712, Si 0.9288; Be2C: Be 0.705, C 0.2878, Si 0.0072_ | experimental | [1] Liu 2021 | Table 2, p. 4, row 1 |  |
-| Phase composition |  | 1223.15 | Si + Be2C + SiC; _Si: Be 0, C 0, Si 1; Be2C: Be 0.7454, C 0.2486, Si 0.006; SiC: Be 0, C 0.5794, Si 0.4206_ | experimental | [1] Liu 2021 | Table 2, p. 4, row 2 |  |
-| Phase composition |  | 1223.15 | SiC + Si + Be2C; _SiC: Be 0, C 0.5956, Si 0.4044; Si: Be 0, C 0, Si 1_ | experimental | [1] Liu 2021 | Table 2, p. 4, row 3 |  |
+| Phase assemblage |  | 1023.15 | Be + Si + Be2C; _alloy: Be 0.5, C 0.2, Si 0.3_ | experimental | [1] Liu 2021 | Table 1, p. 2, row 3; `ORC-Z6IP2VNM6Q` |  |
+| Phase assemblage |  | 1023.15 | C + Be2C + SiC; _alloy: Be 0.1, C 0.6, Si 0.3_ | experimental | [1] Liu 2021 | Table 1, p. 2, row 12; `ORC-AGVA7RDFOS` |  |
+| Phase assemblage |  | 1023.15 | C + Be2C + SiC; _alloy: Be 0.25, C 0.5, Si 0.25_ | experimental | [1] Liu 2021 | Table 1, p. 2, row 10; `ORC-GGY5XUOCCZ` |  |
+| Phase assemblage |  | 1023.15 | C + Be2C + SiC; _alloy: Be 0.5, C 0.4, Si 0.1_ | experimental | [1] Liu 2021 | Table 1, p. 2, row 9; `ORC-L4E3QRCBY5` |  |
+| Phase assemblage |  | 1023.15 | Si + Be2C + SiC; _alloy: Be 0.4, C 0.3, Si 0.3_ | experimental | [1] Liu 2021 | Table 1, p. 2, row 7; `ORC-5DEO2FHM7D` |  |
+| Phase assemblage |  | 1023.15 | Si + Be2C + SiC; _alloy: Be 0.35, C 0.2, Si 0.45_ | experimental | [1] Liu 2021 | Table 1, p. 2, row 4; `ORC-BPFFNBZJR2` |  |
+| Phase assemblage |  | 1023.15 | Si + Be2C + SiC; _alloy: Be 0.15, C 0.3, Si 0.55_ | experimental | [1] Liu 2021 | Table 1, p. 2, row 8; `ORC-BQSSP7TCRG` |  |
+| Phase assemblage |  | 1023.15 | Si + Be2C + SiC; _alloy: Be 0.1, C 0.2, Si 0.7_ | experimental | [1] Liu 2021 | Table 1, p. 2, row 5; `ORC-EUFHVYK7CW` |  |
+| Phase assemblage |  | 1023.15 | Si + Be2C + SiC; _alloy: Be 0.55, C 0.3, Si 0.15_ | experimental | [1] Liu 2021 | Table 1, p. 2, row 6; `ORC-KLC5NLGDWC` |  |
+| Phase assemblage |  | 1023.15 | Si + Be2C + SiC; _alloy: Be 0.2, C 0.1, Si 0.7_ | experimental | [1] Liu 2021 | Table 1, p. 2, row 1; `ORC-PT2TQR2K7X` |  |
+| Phase assemblage |  | 1023.15 | Si + Be2C + SiC; _alloy: Be 0.05, C 0.1, Si 0.85_ | experimental | [1] Liu 2021 | Table 1, p. 2, row 2; `ORC-UYT6CNNM4T` |  |
+| Phase assemblage |  | 1023.15 | Si + Be2C + SiC; _alloy: Be 0.1, C 0.45, Si 0.45_ | experimental | [1] Liu 2021 | Table 1, p. 2, row 11; `ORC-VWKQOSAUPU` |  |
+| Phase assemblage |  | 1223.15 | Be + Si + Be2C; _alloy: Be 0.6, C 0.2, Si 0.2_ | experimental | [1] Liu 2021 | Table 1, p. 2, row 13; `ORC-3VCL3XDWCL` |  |
+| Phase assemblage |  | 1223.15 | C + Be2C + SiC; _alloy: Be 0.2, C 0.6, Si 0.2_ | experimental | [1] Liu 2021 | Table 1, p. 2, row 16; `ORC-VXOBLESW2O` |  |
+| Phase assemblage |  | 1223.15 | Si + Be2C + SiC; _alloy: Be 0.2, C 0.4, Si 0.4_ | experimental | [1] Liu 2021 | Table 1, p. 2, row 15; `ORC-G7T2YZF22H` |  |
+| Phase assemblage |  | 1223.15 | Si + Be2C + SiC; _alloy: Be 0.4, C 0.3, Si 0.3_ | experimental | [1] Liu 2021 | Table 1, p. 2, row 14; `ORC-VGL2ETVVXX` |  |
+| Phase composition |  | 1223.15 | Be2C + C + SiC; _Be2C: Be 0.6994, C 0.2937, Si 0.0069; C: Be 0, C 0.999, Si 0.001; SiC: Be 0, C 0.5838, Si 0.4162_ | experimental | [1] Liu 2021 | Table 2, p. 4, row 4; `ORC-SCGVM7P33B` |  |
+| Phase composition |  | 1223.15 | Si + Be2C + Be; _Si: Be 0, C 0.0712, Si 0.9288; Be2C: Be 0.705, C 0.2878, Si 0.0072_ | experimental | [1] Liu 2021 | Table 2, p. 4, row 1; `ORC-XZTFBODWE7` |  |
+| Phase composition |  | 1223.15 | Si + Be2C + SiC; _Si: Be 0, C 0, Si 1; Be2C: Be 0.7454, C 0.2486, Si 0.006; SiC: Be 0, C 0.5794, Si 0.4206_ | experimental | [1] Liu 2021 | Table 2, p. 4, row 2; `ORC-E3YEGDBWDI` |  |
+| Phase composition |  | 1223.15 | SiC + Si + Be2C; _SiC: Be 0, C 0.5956, Si 0.4044; Si: Be 0, C 0, Si 1_ | experimental | [1] Liu 2021 | Table 2, p. 4, row 3; `ORC-LFIIMTGQ6E` |  |
 
 ## Sources
 
@@ -90,4 +90,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

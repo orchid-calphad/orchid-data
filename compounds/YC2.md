@@ -14,19 +14,19 @@ Table: Enthalpy of formation of YC2 reported in the literature (13)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -38.8 kJ/mol (basis unstated) | YC2 | 298.15 | experimental |  | [C–Y](https://data.orchid-project.org/systems/C-Y.html) | [1] Gröbner 1995; _cites Storms 1971_ | Table 3, p. 3, row 9 |  |
-| -38.8 kJ/mol-atom | YC2 | 298.15 | experimental |  | [C–Y](https://data.orchid-project.org/systems/C-Y.html) | [2] Xu 2019; _cites Storms 1971_ | Table 2, p. 3, row 25 |  |
-| -37.7 kJ/mol-atom ± 8.4 | YC2 | 298.15 | experimental |  | [C–Y](https://data.orchid-project.org/systems/C-Y.html) | [2] Xu 2019; _cites De 1965_ [doi](https://doi.org/10.1063/1.1696715) | Table 2, p. 3, row 23 |  |
-| -37.7 kJ/mol (basis unstated) ± 8.4 | YC2 | 298.15 | experimental |  | [C–Y](https://data.orchid-project.org/systems/C-Y.html) | [1] Gröbner 1995; _cites De 1965_ [doi](https://doi.org/10.1063/1.1696715) | Table 3, p. 3, row 7 |  |
-| -35 kJ/mol (basis unstated) ± 3.5 | YC2 | 298.15 | experimental |  | [C–Y](https://data.orchid-project.org/systems/C-Y.html) | [1] Gröbner 1995; _cites Anderson 1972_ | Table 3, p. 3, row 10 |  |
-| -35 kJ/mol-atom ± 3.5 | YC2 | 298.15 | experimental |  | [C–Y](https://data.orchid-project.org/systems/C-Y.html) | [2] Xu 2019; _cites Anderson 1972_ | Table 2, p. 3, row 26 |  |
-| -30.3 kJ/mol (basis unstated) ± 5.7 | YC2 | 298.15 | experimental |  | [C–Y](https://data.orchid-project.org/systems/C-Y.html) | [1] Gröbner 1995; _cites Kohl 1970_ [doi](https://doi.org/10.1063/1.1672942) | Table 3, p. 3, row 8 |  |
-| -30.3 kJ/mol-atom ± 5.7 | YC2 | 298.15 | experimental |  | [C–Y](https://data.orchid-project.org/systems/C-Y.html) | [2] Xu 2019; _cites Kohl 1970_ [doi](https://doi.org/10.1063/1.1672942) | Table 2, p. 3, row 24 |  |
-| -64 kJ/mol-atom | YC2 |  | model |  | [C–Y](https://data.orchid-project.org/systems/C-Y.html) | [2] Xu 2019; _cites Niessen 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990200-9) | Table 2, p. 3, row 28 |  |
-| -36.5 kJ/mol (basis unstated) | YC2 |  | model |  | [C–Y](https://data.orchid-project.org/systems/C-Y.html) | [1] Gröbner 1995 | Table 3, p. 3, row 12 |  |
-| -36.5 kJ/mol-atom | YC2 |  | model |  | [C–Y](https://data.orchid-project.org/systems/C-Y.html) | [2] Xu 2019; _cites Grobner 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906028-2) | Table 2, p. 3, row 27 |  |
-| -34.17 kJ/mol-atom | YC2 |  | model | CALPHAD | [C–Y](https://data.orchid-project.org/systems/C-Y.html) | [2] Xu 2019 | Table 3, p. 3, row 16 |  |
-| -29.16 kJ/mol-atom | YC2 | 0 | DFT | First principles | [C–Y](https://data.orchid-project.org/systems/C-Y.html) | [2] Xu 2019 | Table 3, p. 3, row 15 |  |
+| -38.8 kJ/mol (basis unstated) | YC2 | 298.15 | experimental |  | [C–Y](https://data.orchid-project.org/systems/C-Y.html) | [1] Gröbner 1995; _cites Storms 1971_ | Table 3, p. 3, row 9; `ORC-BZK2IXS3K3.83363d` |  |
+| -38.8 kJ/mol-atom | YC2 | 298.15 | experimental |  | [C–Y](https://data.orchid-project.org/systems/C-Y.html) | [2] Xu 2019; _cites Storms 1971_ | Table 2, p. 3, row 25; `ORC-ZQPMERZ45A.425703` |  |
+| -37.7 kJ/mol-atom ± 8.4 | YC2 | 298.15 | experimental |  | [C–Y](https://data.orchid-project.org/systems/C-Y.html) | [2] Xu 2019; _cites De 1965_ [doi](https://doi.org/10.1063/1.1696715) | Table 2, p. 3, row 23; `ORC-5J5H3KGZYE.5184e3` |  |
+| -37.7 kJ/mol (basis unstated) ± 8.4 | YC2 | 298.15 | experimental |  | [C–Y](https://data.orchid-project.org/systems/C-Y.html) | [1] Gröbner 1995; _cites De 1965_ [doi](https://doi.org/10.1063/1.1696715) | Table 3, p. 3, row 7; `ORC-ID5I437ZNK.b9647f` |  |
+| -35 kJ/mol (basis unstated) ± 3.5 | YC2 | 298.15 | experimental |  | [C–Y](https://data.orchid-project.org/systems/C-Y.html) | [1] Gröbner 1995; _cites Anderson 1972_ | Table 3, p. 3, row 10; `ORC-K5COWV7A5L.40c725` |  |
+| -35 kJ/mol-atom ± 3.5 | YC2 | 298.15 | experimental |  | [C–Y](https://data.orchid-project.org/systems/C-Y.html) | [2] Xu 2019; _cites Anderson 1972_ | Table 2, p. 3, row 26; `ORC-W37THFZ6PU.4c9892` |  |
+| -30.3 kJ/mol (basis unstated) ± 5.7 | YC2 | 298.15 | experimental |  | [C–Y](https://data.orchid-project.org/systems/C-Y.html) | [1] Gröbner 1995; _cites Kohl 1970_ [doi](https://doi.org/10.1063/1.1672942) | Table 3, p. 3, row 8; `ORC-43TU4DZKQP.f225a3` |  |
+| -30.3 kJ/mol-atom ± 5.7 | YC2 | 298.15 | experimental |  | [C–Y](https://data.orchid-project.org/systems/C-Y.html) | [2] Xu 2019; _cites Kohl 1970_ [doi](https://doi.org/10.1063/1.1672942) | Table 2, p. 3, row 24; `ORC-RHK3CZSOYD.f4ddb9` |  |
+| -64 kJ/mol-atom | YC2 |  | model |  | [C–Y](https://data.orchid-project.org/systems/C-Y.html) | [2] Xu 2019; _cites Niessen 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990200-9) | Table 2, p. 3, row 28; `ORC-MXYNP5KEGW.e0580e` |  |
+| -36.5 kJ/mol (basis unstated) | YC2 |  | model |  | [C–Y](https://data.orchid-project.org/systems/C-Y.html) | [1] Gröbner 1995 | Table 3, p. 3, row 12; `ORC-SIRKN5653Q.5842c0` |  |
+| -36.5 kJ/mol-atom | YC2 |  | model |  | [C–Y](https://data.orchid-project.org/systems/C-Y.html) | [2] Xu 2019; _cites Grobner 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906028-2) | Table 2, p. 3, row 27; `ORC-VEKHPMN34R.5d07b4` |  |
+| -34.17 kJ/mol-atom | YC2 |  | model | CALPHAD | [C–Y](https://data.orchid-project.org/systems/C-Y.html) | [2] Xu 2019 | Table 3, p. 3, row 16; `ORC-ZSBMRRSWTG` |  |
+| -29.16 kJ/mol-atom | YC2 | 0 | DFT | First principles | [C–Y](https://data.orchid-project.org/systems/C-Y.html) | [2] Xu 2019 | Table 3, p. 3, row 15; `ORC-4OKQZZFQ5L` |  |
 
 ### Uncertainty budget
 
@@ -115,4 +115,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

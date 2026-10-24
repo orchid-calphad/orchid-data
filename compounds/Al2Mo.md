@@ -14,16 +14,16 @@ Table: Enthalpy of formation of Al2Mo reported in the literature (10)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -22.2 kJ/mol-atom | MoAl2–C40 |  | model |  | [Al–Mo](https://data.orchid-project.org/systems/AL-MO.html) | [1] Guo 2012 | Table 3, p. 8, row 4 |  |
-| -21 kJ/mol-atom | MoAl2–C40 |  | model |  | [Al–Mo](https://data.orchid-project.org/systems/AL-MO.html) | [1] Guo 2012; _cites Liu 2000_ [doi](https://doi.org/10.1016/s0966-9795%2800%2900068-6) | Table 3, p. 8, row 6 |  |
-| -21 kJ/mol-atom | MoAl2-C40 |  | model |  | [Al–Mo](https://data.orchid-project.org/systems/AL-MO.html) | [2] Liu 2000 | Table 5, p. 8, row 4 |  |
-| -20 kJ/mol-atom | MoAl2–C40 |  | model |  | [Al–Mo](https://data.orchid-project.org/systems/AL-MO.html) | [1] Guo 2012; _cites Boer 1988_ | Table 3, p. 8, row 5 |  |
-| -20 kJ/mol-atom | MoAl2–C11b |  | model |  | [Al–Mo](https://data.orchid-project.org/systems/AL-MO.html) | [1] Guo 2012; _cites Boer 1988_ | Table 3, p. 8, row 2 |  |
-| -20 kJ/mol-atom | MoAl2-C40 |  | model |  | [Al–Mo](https://data.orchid-project.org/systems/AL-MO.html) | [2] Liu 2000; _cites Boer 1989_ | Table 5, p. 8, row 3 |  |
-| -20 kJ/mol-atom | MoAl2-C11b |  | model |  | [Al–Mo](https://data.orchid-project.org/systems/AL-MO.html) | [2] Liu 2000; _cites Boer 1989_ | Table 5, p. 8, row 1 |  |
-| -20 kJ/mol-atom | MoAl2–C11b |  | model |  | [Al–Mo](https://data.orchid-project.org/systems/AL-MO.html) | [1] Guo 2012 | Table 3, p. 8, row 1 |  |
-| -19 kJ/mol-atom | MoAl2–C11b |  | model |  | [Al–Mo](https://data.orchid-project.org/systems/AL-MO.html) | [1] Guo 2012; _cites Liu 2000_ [doi](https://doi.org/10.1016/s0966-9795%2800%2900068-6) | Table 3, p. 8, row 3 |  |
-| -19 kJ/mol-atom | MoAl2-C11b |  | model |  | [Al–Mo](https://data.orchid-project.org/systems/AL-MO.html) | [2] Liu 2000 | Table 5, p. 8, row 2 |  |
+| -22.2 kJ/mol-atom | MoAl2–C40 |  | model |  | [Al–Mo](https://data.orchid-project.org/systems/AL-MO.html) | [1] Guo 2012 | Table 3, p. 8, row 4; `ORC-GP75YYNOIG.471b9e` |  |
+| -21 kJ/mol-atom | MoAl2–C40 |  | model |  | [Al–Mo](https://data.orchid-project.org/systems/AL-MO.html) | [1] Guo 2012; _cites Liu 2000_ [doi](https://doi.org/10.1016/s0966-9795%2800%2900068-6) | Table 3, p. 8, row 6; `ORC-PXZB4QXQFZ.024f01` |  |
+| -21 kJ/mol-atom | MoAl2-C40 |  | model |  | [Al–Mo](https://data.orchid-project.org/systems/AL-MO.html) | [2] Liu 2000 | Table 5, p. 8, row 4; `ORC-UESQZ4UUIP.b53865` |  |
+| -20 kJ/mol-atom | MoAl2–C40 |  | model |  | [Al–Mo](https://data.orchid-project.org/systems/AL-MO.html) | [1] Guo 2012; _cites Boer 1988_ | Table 3, p. 8, row 5; `ORC-6NRRY7GPV3.3db754` |  |
+| -20 kJ/mol-atom | MoAl2–C11b |  | model |  | [Al–Mo](https://data.orchid-project.org/systems/AL-MO.html) | [1] Guo 2012; _cites Boer 1988_ | Table 3, p. 8, row 2; `ORC-7JSBSYKZ6K.8949c0` |  |
+| -20 kJ/mol-atom | MoAl2-C40 |  | model |  | [Al–Mo](https://data.orchid-project.org/systems/AL-MO.html) | [2] Liu 2000; _cites Boer 1989_ | Table 5, p. 8, row 3; `ORC-HHJ4CHRPJJ.298207` |  |
+| -20 kJ/mol-atom | MoAl2-C11b |  | model |  | [Al–Mo](https://data.orchid-project.org/systems/AL-MO.html) | [2] Liu 2000; _cites Boer 1989_ | Table 5, p. 8, row 1; `ORC-JLZAOGJJBT.328ae1` |  |
+| -20 kJ/mol-atom | MoAl2–C11b |  | model |  | [Al–Mo](https://data.orchid-project.org/systems/AL-MO.html) | [1] Guo 2012 | Table 3, p. 8, row 1; `ORC-ZCVIFQH6NU.a5f740` |  |
+| -19 kJ/mol-atom | MoAl2–C11b |  | model |  | [Al–Mo](https://data.orchid-project.org/systems/AL-MO.html) | [1] Guo 2012; _cites Liu 2000_ [doi](https://doi.org/10.1016/s0966-9795%2800%2900068-6) | Table 3, p. 8, row 3; `ORC-SY7ODGRE2F.89fb87` |  |
+| -19 kJ/mol-atom | MoAl2-C11b |  | model |  | [Al–Mo](https://data.orchid-project.org/systems/AL-MO.html) | [2] Liu 2000 | Table 5, p. 8, row 2; `ORC-WVLQ4WISQA.6f33a6` |  |
 
 ### Uncertainty budget
 
@@ -109,4 +109,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

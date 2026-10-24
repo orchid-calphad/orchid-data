@@ -14,11 +14,11 @@ Table: Enthalpy of formation of Ni2Tb reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -40 kJ/mol-atom | TbNi2 | 298.15 | experimental | Calorimetry | [Ni–Tb](https://data.orchid-project.org/systems/NI-TB.html) | [1] Rahou 2024; _cites Delsante 2013_ [doi](https://doi.org/10.1016/j.jct.2013.05.044) | Table 4, p. 7, row 16 |  |
-| -51 kJ/mol-atom | TbNi2 |  | model | CALPHAD | [Ni–Tb](https://data.orchid-project.org/systems/NI-TB.html) | [1] Rahou 2024; _cites Rong 2004_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900667-4) | Table 4, p. 7, row 18 |  |
-| -46.4 kJ/mol-atom | TbNi2 |  | model | Miedema model | [Ni–Tb](https://data.orchid-project.org/systems/NI-TB.html) | [1] Rahou 2024; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 4, p. 7, row 17 |  |
-| -39.7 kJ/mol-atom | TbNi2 |  | model | CALPHAD | [Ni–Tb](https://data.orchid-project.org/systems/NI-TB.html) | [1] Rahou 2024 | Table 4, p. 7, row 15 |  |
-| -41.7 kJ/mol-atom | TbNi2 | 0 | DFT | Ab initio | [Ni–Tb](https://data.orchid-project.org/systems/NI-TB.html) | [1] Rahou 2024 | Table 4, p. 7, row 14 |  |
+| -40 kJ/mol-atom | TbNi2 | 298.15 | experimental | Calorimetry | [Ni–Tb](https://data.orchid-project.org/systems/NI-TB.html) | [1] Rahou 2024; _cites Delsante 2013_ [doi](https://doi.org/10.1016/j.jct.2013.05.044) | Table 4, p. 7, row 16; `ORC-K7VBDGQU3T` |  |
+| -51 kJ/mol-atom | TbNi2 |  | model | CALPHAD | [Ni–Tb](https://data.orchid-project.org/systems/NI-TB.html) | [1] Rahou 2024; _cites Rong 2004_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900667-4) | Table 4, p. 7, row 18; `ORC-CQGBDKVEMU` |  |
+| -46.4 kJ/mol-atom | TbNi2 |  | model | Miedema model | [Ni–Tb](https://data.orchid-project.org/systems/NI-TB.html) | [1] Rahou 2024; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 4, p. 7, row 17; `ORC-7SZFBP6SQH` |  |
+| -39.7 kJ/mol-atom | TbNi2 |  | model | CALPHAD | [Ni–Tb](https://data.orchid-project.org/systems/NI-TB.html) | [1] Rahou 2024 | Table 4, p. 7, row 15; `ORC-NDIU66SNR3` |  |
+| -41.7 kJ/mol-atom | TbNi2 | 0 | DFT | Ab initio | [Ni–Tb](https://data.orchid-project.org/systems/NI-TB.html) | [1] Rahou 2024 | Table 4, p. 7, row 14; `ORC-FHLQB4VHLA` |  |
 
 ### Uncertainty budget
 
@@ -98,4 +98,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -14,12 +14,12 @@ Table: Enthalpy of formation of CaO reported in the literature (6)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -317.55 kJ/mol-atom | CaO(cr) | 298.15 | model |  | [Ca–O](https://data.orchid-project.org/systems/CA-O.html) | [1] Deffrennes 2020; _cites Chase 1998_ | Table 3, p. 17, row 6 |  |
-| -317.55 kJ/mol-atom | CaO(cr) | 298.15 | model |  | [Ca–O](https://data.orchid-project.org/systems/CA-O.html) | [1] Deffrennes 2020; _cites Lindberg 2009_ [doi](https://doi.org/10.1016/j.jct.2009.04.018) | Table 3, p. 17, row 3 |  |
-| -317.3 kJ/mol-atom | CaO(cr) | 298.15 | model |  | [Ca–O](https://data.orchid-project.org/systems/CA-O.html) | [1] Deffrennes 2020 | Table 3, p. 17, row 1 |  |
-| -317 kJ/mol-atom | CaO(cr) | 298.15 | model |  | [Ca–O](https://data.orchid-project.org/systems/CA-O.html) | [1] Deffrennes 2020; _cites Liang 2018_ [doi](https://doi.org/10.1016/j.jeurceramsoc.2018.06.015) | Table 3, p. 17, row 2 |  |
-| -317 kJ/mol-atom ± 0.75 | CaO(cr) | 298.15 | model |  | [Ca–O](https://data.orchid-project.org/systems/CA-O.html) | [1] Deffrennes 2020; _cites Liang 2018_ [doi](https://doi.org/10.1016/j.jeurceramsoc.2018.06.015) | Table 3, p. 17, row 4 |  |
-| -317.3 kJ/mol-atom | CaO(cr) | 298.15 | DFT |  | [Ca–O](https://data.orchid-project.org/systems/CA-O.html) | [1] Deffrennes 2020; _cites Pisch_ | Table 3, p. 17, row 5 |  |
+| -317.55 kJ/mol-atom | CaO(cr) | 298.15 | model |  | [Ca–O](https://data.orchid-project.org/systems/CA-O.html) | [1] Deffrennes 2020; _cites Chase 1998_ | Table 3, p. 17, row 6; `ORC-FDK7VGPM2Z.234c60` |  |
+| -317.55 kJ/mol-atom | CaO(cr) | 298.15 | model |  | [Ca–O](https://data.orchid-project.org/systems/CA-O.html) | [1] Deffrennes 2020; _cites Lindberg 2009_ [doi](https://doi.org/10.1016/j.jct.2009.04.018) | Table 3, p. 17, row 3; `ORC-YHMSI6IKE4.81e7a6` |  |
+| -317.3 kJ/mol-atom | CaO(cr) | 298.15 | model |  | [Ca–O](https://data.orchid-project.org/systems/CA-O.html) | [1] Deffrennes 2020 | Table 3, p. 17, row 1; `ORC-N6RZ52LOV5.b9b0c1` |  |
+| -317 kJ/mol-atom | CaO(cr) | 298.15 | model |  | [Ca–O](https://data.orchid-project.org/systems/CA-O.html) | [1] Deffrennes 2020; _cites Liang 2018_ [doi](https://doi.org/10.1016/j.jeurceramsoc.2018.06.015) | Table 3, p. 17, row 2; `ORC-MOABLTWFHR.fd3a6b` |  |
+| -317 kJ/mol-atom ± 0.75 | CaO(cr) | 298.15 | model |  | [Ca–O](https://data.orchid-project.org/systems/CA-O.html) | [1] Deffrennes 2020; _cites Liang 2018_ [doi](https://doi.org/10.1016/j.jeurceramsoc.2018.06.015) | Table 3, p. 17, row 4; `ORC-XQRAM3624L` |  |
+| -317.3 kJ/mol-atom | CaO(cr) | 298.15 | DFT |  | [Ca–O](https://data.orchid-project.org/systems/CA-O.html) | [1] Deffrennes 2020; _cites Pisch_ | Table 3, p. 17, row 5; `ORC-WIQAAOJS7J.6edd6d` |  |
 
 ### Uncertainty budget
 
@@ -100,4 +100,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

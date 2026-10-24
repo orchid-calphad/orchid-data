@@ -43,10 +43,10 @@ Table: Phase transition, Mo–V system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 2199.15 K | 2199.15 |  | experimental | [1] Yang 2021; _cites Rudy 1969_ | p. 2 | “The melting points of the pure Mo and the pure V are 2619 ± 4 C and 1926 ± 3 C, respectively.” |
-| Phase transition | 2199.15 K | 2199.15 |  | experimental | [2] Zheng 1999; _cites Rudy 1969_ | p. 1 | “The melting point given for pure Mo was 2619 ± 4 °C, while that of V was 1926 ± 3 °C.” |
-| Phase transition | 2892.15 K | 2892.15 |  | experimental | [1] Yang 2021; _cites Rudy 1969_ | p. 2 | “The melting points of the pure Mo and the pure V are 2619 ± 4 C and 1926 ± 3 C, respectively.” |
-| Phase transition | 2892.15 K | 2892.15 |  | experimental | [2] Zheng 1999; _cites Rudy 1969_ | p. 1 | “The melting point given for pure Mo was 2619 ± 4 °C, while that of V was 1926 ± 3 °C.” |
+| Phase transition | 2199.15 K | 2199.15 |  | experimental | [1] Yang 2021; _cites Rudy 1969_ | p. 2; `ORC-FYX3ROZY7F.430cf8` | “The melting points of the pure Mo and the pure V are 2619 ± 4 C and 1926 ± 3 C, respectively.” |
+| Phase transition | 2199.15 K | 2199.15 |  | experimental | [2] Zheng 1999; _cites Rudy 1969_ | p. 1; `ORC-LBWKVUZDJJ.dcb685` | “The melting point given for pure Mo was 2619 ± 4 °C, while that of V was 1926 ± 3 °C.” |
+| Phase transition | 2892.15 K | 2892.15 |  | experimental | [1] Yang 2021; _cites Rudy 1969_ | p. 2; `ORC-FYX3ROZY7F.509e0f` | “The melting points of the pure Mo and the pure V are 2619 ± 4 C and 1926 ± 3 C, respectively.” |
+| Phase transition | 2892.15 K | 2892.15 |  | experimental | [2] Zheng 1999; _cites Rudy 1969_ | p. 1; `ORC-LBWKVUZDJJ.549896` | “The melting point given for pure Mo was 2619 ± 4 °C, while that of V was 1926 ± 3 °C.” |
 
 ### Phase equilibrium (11)
 
@@ -54,17 +54,17 @@ Table: Phase equilibrium, Mo–V system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 1023.15 | Bcc_A2 (Mo, V) \_2; _Bcc_A2 (Mo, V) \_2: Mo 0.5946, V 0.4054_ | experimental | [1] Yang 2021 | Table 1, p. 4, row 11 |  |
-| Phase composition |  | 1023.15 | Bcc_A2(Mo, V) \_2; _Bcc_A2(Mo, V) \_2: Mo 0.6557, V 0.3443_ | experimental | [1] Yang 2021 | Table 1, p. 4, row 10 |  |
-| Phase composition |  | 1023.15 | Bcc_A2(Mo, V)\_2 + Bcc_A2(Mo, V)\_1 + Bcc_A2 (Mo, V) \_1; _Bcc_A2(Mo, V)\_2: Mo 0.3832, V 0.6168; Bcc_A2(Mo, V)\_1: Mo 0.6155, V 0.3845; Bcc_A2 (Mo, V) \_1: Mo 0.6427, V 0.3573_ | experimental | [1] Yang 2021 | Table 1, p. 4, row 3 |  |
-| Phase composition |  | 1023.15 | Bcc_A2(Mo, V)\_2 + Bcc_A2(Mo, V)\_1 + Bcc_A2 (Mo, V) \_1; _Bcc_A2(Mo, V)\_2: Mo 0.2881, V 0.7119; Bcc_A2(Mo, V)\_1: Mo 0.3852, V 0.6148; Bcc_A2 (Mo, V) \_1: Mo 0.383, V 0.617_ | experimental | [1] Yang 2021 | Table 1, p. 4, row 8 |  |
-| Phase composition |  | 1023.15 | Bcc_A2(Mo, V)\_2 + Bcc_A2(Mo, V)\_1 + Bcc_A2 (Mo, V) \_1; _Bcc_A2(Mo, V)\_2: Mo 0.3765, V 0.6235; Bcc_A2(Mo, V)\_1: Mo 0.6091, V 0.3909; Bcc_A2 (Mo, V) \_1: Mo 0.5641, V 0.4359_ | experimental | [1] Yang 2021 | Table 1, p. 4, row 5 |  |
-| Phase composition |  | 1023.15 | Bcc_A2(Mo, V)\_2 + Bcc_A2(Mo, V)\_1 + Bcc_A2 (Mo, V) \_1; _Bcc_A2(Mo, V)\_2: Mo 0.3745, V 0.6255; Bcc_A2(Mo, V)\_1: Mo 0.6067, V 0.3933; Bcc_A2 (Mo, V) \_1: Mo 0.5569, V 0.4431_ | experimental | [1] Yang 2021 | Table 1, p. 4, row 6 |  |
-| Phase composition |  | 1023.15 | Bcc_A2(Mo, V)\_2 + Bcc_A2(Mo, V)\_1 + Bcc_A2 (Mo, V) \_1; _Bcc_A2(Mo, V)\_2: Mo 0.3712, V 0.6288; Bcc_A2(Mo, V)\_1: Mo 0.6036, V 0.3964; Bcc_A2 (Mo, V) \_1: Mo 0.4149, V 0.5851_ | experimental | [1] Yang 2021 | Table 1, p. 4, row 7 |  |
-| Phase composition |  | 1023.15 | Bcc_A2(Mo, V)\_2 + Bcc_A2(Mo, V)\_1 + Bcc_A2 (Mo, V) \_1; _Bcc_A2(Mo, V)\_2: Mo 0.4107, V 0.5893; Bcc_A2(Mo, V)\_1: Mo 0.6887, V 0.3113; Bcc_A2 (Mo, V) \_1: Mo 0.6936, V 0.3064_ | experimental | [1] Yang 2021 | Table 1, p. 4, row 2 |  |
-| Phase composition |  | 1023.15 | Bcc_A2(Mo, V)\_2 + Bcc_A2(Mo, V)\_1 + Bcc_A2 (Mo, V) \_1; _Bcc_A2(Mo, V)\_2: Mo 0.3784, V 0.6216; Bcc_A2(Mo, V)\_1: Mo 0.6128, V 0.3872; Bcc_A2 (Mo, V) \_1: Mo 0.5731, V 0.4269_ | experimental | [1] Yang 2021 | Table 1, p. 4, row 4 |  |
-| Phase composition |  | 1023.15 | Bcc_A2(Mo, V)\_2 + Bcc_A2(Mo, V)\_1 + Bcc_A2 (Mo, V) \_2 + Bcc_A2 (Mo, V) \_1; _Bcc_A2(Mo, V)\_2: Mo 0.2539, V 0.7461; Bcc_A2 (Mo, V) \_2: Mo 0.141, V 0.859; Bcc_A2(Mo, V)\_1: Mo 0.3299, V 0.6701; Bcc_A2 (Mo, V) \_1: Mo 0.3378, V 0.6622_ | experimental | [1] Yang 2021 | Table 1, p. 4, row 9 |  |
-| Phase composition |  | 1023.15 | Bcc_A2(Mo, V)\_2 + Bcc_A2(Mo, V)\_1 + Bcc_A2(Mo, V) \_2 + Bcc_A2 (Mo, V) \_1; _Bcc_A2(Mo, V)\_2: Mo 0.6557, V 0.3443; Bcc_A2(Mo, V) \_2: Mo 0.6464, V 0.3536; Bcc_A2(Mo, V)\_1: Mo 0.7218, V 0.2782; Bcc_A2 (Mo, V) \_1: Mo 0.7251, V 0.2749_ | experimental | [1] Yang 2021 | Table 1, p. 4, row 1 |  |
+| Phase composition |  | 1023.15 | Bcc_A2 (Mo, V) \_2; _Bcc_A2 (Mo, V) \_2: Mo 0.5946, V 0.4054_ | experimental | [1] Yang 2021 | Table 1, p. 4, row 11; `ORC-63DGGQ7GDV` |  |
+| Phase composition |  | 1023.15 | Bcc_A2(Mo, V) \_2; _Bcc_A2(Mo, V) \_2: Mo 0.6557, V 0.3443_ | experimental | [1] Yang 2021 | Table 1, p. 4, row 10; `ORC-C3LF7HHEXH` |  |
+| Phase composition |  | 1023.15 | Bcc_A2(Mo, V)\_2 + Bcc_A2(Mo, V)\_1 + Bcc_A2 (Mo, V) \_1; _Bcc_A2(Mo, V)\_2: Mo 0.3832, V 0.6168; Bcc_A2(Mo, V)\_1: Mo 0.6155, V 0.3845; Bcc_A2 (Mo, V) \_1: Mo 0.6427, V 0.3573_ | experimental | [1] Yang 2021 | Table 1, p. 4, row 3; `ORC-2I7SCWTTZB` |  |
+| Phase composition |  | 1023.15 | Bcc_A2(Mo, V)\_2 + Bcc_A2(Mo, V)\_1 + Bcc_A2 (Mo, V) \_1; _Bcc_A2(Mo, V)\_2: Mo 0.2881, V 0.7119; Bcc_A2(Mo, V)\_1: Mo 0.3852, V 0.6148; Bcc_A2 (Mo, V) \_1: Mo 0.383, V 0.617_ | experimental | [1] Yang 2021 | Table 1, p. 4, row 8; `ORC-6BSYTU5M72` |  |
+| Phase composition |  | 1023.15 | Bcc_A2(Mo, V)\_2 + Bcc_A2(Mo, V)\_1 + Bcc_A2 (Mo, V) \_1; _Bcc_A2(Mo, V)\_2: Mo 0.3765, V 0.6235; Bcc_A2(Mo, V)\_1: Mo 0.6091, V 0.3909; Bcc_A2 (Mo, V) \_1: Mo 0.5641, V 0.4359_ | experimental | [1] Yang 2021 | Table 1, p. 4, row 5; `ORC-AWCQ5ANY4I` |  |
+| Phase composition |  | 1023.15 | Bcc_A2(Mo, V)\_2 + Bcc_A2(Mo, V)\_1 + Bcc_A2 (Mo, V) \_1; _Bcc_A2(Mo, V)\_2: Mo 0.3745, V 0.6255; Bcc_A2(Mo, V)\_1: Mo 0.6067, V 0.3933; Bcc_A2 (Mo, V) \_1: Mo 0.5569, V 0.4431_ | experimental | [1] Yang 2021 | Table 1, p. 4, row 6; `ORC-JHGCFWUDRB` |  |
+| Phase composition |  | 1023.15 | Bcc_A2(Mo, V)\_2 + Bcc_A2(Mo, V)\_1 + Bcc_A2 (Mo, V) \_1; _Bcc_A2(Mo, V)\_2: Mo 0.3712, V 0.6288; Bcc_A2(Mo, V)\_1: Mo 0.6036, V 0.3964; Bcc_A2 (Mo, V) \_1: Mo 0.4149, V 0.5851_ | experimental | [1] Yang 2021 | Table 1, p. 4, row 7; `ORC-LLIGSFCVI5` |  |
+| Phase composition |  | 1023.15 | Bcc_A2(Mo, V)\_2 + Bcc_A2(Mo, V)\_1 + Bcc_A2 (Mo, V) \_1; _Bcc_A2(Mo, V)\_2: Mo 0.4107, V 0.5893; Bcc_A2(Mo, V)\_1: Mo 0.6887, V 0.3113; Bcc_A2 (Mo, V) \_1: Mo 0.6936, V 0.3064_ | experimental | [1] Yang 2021 | Table 1, p. 4, row 2; `ORC-RORSTSCWVD` |  |
+| Phase composition |  | 1023.15 | Bcc_A2(Mo, V)\_2 + Bcc_A2(Mo, V)\_1 + Bcc_A2 (Mo, V) \_1; _Bcc_A2(Mo, V)\_2: Mo 0.3784, V 0.6216; Bcc_A2(Mo, V)\_1: Mo 0.6128, V 0.3872; Bcc_A2 (Mo, V) \_1: Mo 0.5731, V 0.4269_ | experimental | [1] Yang 2021 | Table 1, p. 4, row 4; `ORC-SILL2W72UE` |  |
+| Phase composition |  | 1023.15 | Bcc_A2(Mo, V)\_2 + Bcc_A2(Mo, V)\_1 + Bcc_A2 (Mo, V) \_2 + Bcc_A2 (Mo, V) \_1; _Bcc_A2(Mo, V)\_2: Mo 0.2539, V 0.7461; Bcc_A2 (Mo, V) \_2: Mo 0.141, V 0.859; Bcc_A2(Mo, V)\_1: Mo 0.3299, V 0.6701; Bcc_A2 (Mo, V) \_1: Mo 0.3378, V 0.6622_ | experimental | [1] Yang 2021 | Table 1, p. 4, row 9; `ORC-W7WLRL6LPB` |  |
+| Phase composition |  | 1023.15 | Bcc_A2(Mo, V)\_2 + Bcc_A2(Mo, V)\_1 + Bcc_A2(Mo, V) \_2 + Bcc_A2 (Mo, V) \_1; _Bcc_A2(Mo, V)\_2: Mo 0.6557, V 0.3443; Bcc_A2(Mo, V) \_2: Mo 0.6464, V 0.3536; Bcc_A2(Mo, V)\_1: Mo 0.7218, V 0.2782; Bcc_A2 (Mo, V) \_1: Mo 0.7251, V 0.2749_ | experimental | [1] Yang 2021 | Table 1, p. 4, row 1; `ORC-QQ4GH2M3CR` |  |
 
 ## Sources
 
@@ -130,4 +130,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

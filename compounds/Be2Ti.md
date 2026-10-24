@@ -14,12 +14,12 @@ Table: Enthalpy of formation of Be2Ti reported in the literature (6)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -29.7 kJ/mol-atom | TiBe2 |  | model |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006; _cites Kaufman 1973_ | Table 2, p. 2, row 10 |  |
-| -29.7 kJ/mol-atom | TiBe2 |  | model |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006 | Table 2, p. 2, row 6 |  |
-| -26.5 kJ/mol-atom | TiBe2 |  | model |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006; _cites Kaufman 1973_ | Table 2, p. 2, row 7 |  |
-| -25.7 kJ/mol-atom | TiBe2 | 0 | model |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006 | Table 2, p. 2, row 6 |  |
-| -25.7 kJ/mol-atom | TiBe2 |  | model |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006 | Table 2, p. 2, row 6 |  |
-| -24.9 kJ/mol-atom | TiBe2 |  | model |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006; _cites Kaufman 1979_ [doi](https://doi.org/10.1016/0364-5916%2879%2990010-5) | Table 2, p. 2, row 8 |  |
+| -29.7 kJ/mol-atom | TiBe2 |  | model |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006; _cites Kaufman 1973_ | Table 2, p. 2, row 10; `ORC-UMUT4EYFY5.912fc3` |  |
+| -29.7 kJ/mol-atom | TiBe2 |  | model |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006 | Table 2, p. 2, row 6; `ORC-ZDMV63AXRI.5c4dd8` |  |
+| -26.5 kJ/mol-atom | TiBe2 |  | model |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006; _cites Kaufman 1973_ | Table 2, p. 2, row 7; `ORC-XB4DWYMKAX.090f2f` |  |
+| -25.7 kJ/mol-atom | TiBe2 | 0 | model |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006 | Table 2, p. 2, row 6; `ORC-ZDMV63AXRI.1666a6` |  |
+| -25.7 kJ/mol-atom | TiBe2 |  | model |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006 | Table 2, p. 2, row 6; `ORC-ZDMV63AXRI.d1b3d8` |  |
+| -24.9 kJ/mol-atom | TiBe2 |  | model |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006; _cites Kaufman 1979_ [doi](https://doi.org/10.1016/0364-5916%2879%2990010-5) | Table 2, p. 2, row 8; `ORC-OIJIIYQFYF.cf593b` |  |
 
 ### Uncertainty budget
 
@@ -100,4 +100,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

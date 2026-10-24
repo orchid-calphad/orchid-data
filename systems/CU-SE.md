@@ -79,22 +79,22 @@ Table: Crystal structure, Cu–Se system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 5.86 Å |  | β-Cu2Se; _alloy: Se 0.333333_ | experimental | [1] Liu 2023; _cites Murray 1975_ [doi](https://doi.org/10.1139/v75-122) | Table 1, p. 3, row 14 |  |
-| Lattice a | 3.954 Å |  | β-CuSe; _alloy: Se 0.5_ | experimental | [1] Liu 2023; _cites Murray 1975_ [doi](https://doi.org/10.1139/v75-122) | Table 1, p. 3, row 11 |  |
-| Lattice a | 6.385 Å | 298.15 | Cu3Se2; _alloy: Se 0.4_ | experimental | [1] Liu 2023; _cites Murray 1975_ [doi](https://doi.org/10.1139/v75-122) | Table 1, p. 3, row 15 |  |
-| Lattice a | 5.0046 Å | 298.15 | CuSe2; _alloy: Se 0.666667_ | experimental | [1] Liu 2023; _cites Murray 1975_ [doi](https://doi.org/10.1139/v75-122) | Table 1, p. 3, row 16 |  |
-| Lattice a | 14.087 Å | 298.15 | α-Cu2Se; _alloy: Se 0.333333_ | experimental | [1] Liu 2023; _cites Murray 1975_ [doi](https://doi.org/10.1139/v75-122) | Table 1, p. 3, row 13 |  |
-| Lattice a | 14.203 Å | 298.15 | α-CuSe; _alloy: Se 0.5_ | experimental | [1] Liu 2023; _cites Stevels 1971_ [doi](https://doi.org/10.1002/recl.19710900307) | Table 1, p. 3, row 10 |  |
-| Lattice a | 3.983 Å | 298.15 | γ-CuSe; _alloy: Se 0.5_ | experimental | [1] Liu 2023; _cites Murray 1975_ [doi](https://doi.org/10.1139/v75-122) | Table 1, p. 3, row 12 |  |
-| Lattice b | 6.856 Å |  | β-CuSe; _alloy: Se 0.5_ | experimental | [1] Liu 2023; _cites Murray 1975_ [doi](https://doi.org/10.1139/v75-122) | Table 1, p. 3, row 11 |  |
-| Lattice b | 6.856 Å | 298.15 | CuSe2; _alloy: Se 0.666667_ | experimental | [1] Liu 2023; _cites Murray 1975_ [doi](https://doi.org/10.1139/v75-122) | Table 1, p. 3, row 16 |  |
-| Lattice b | 20.481 Å | 298.15 | α-Cu2Se; _alloy: Se 0.333333_ | experimental | [1] Liu 2023; _cites Murray 1975_ [doi](https://doi.org/10.1139/v75-122) | Table 1, p. 3, row 13 |  |
-| Lattice c | 17.238 Å |  | β-CuSe; _alloy: Se 0.5_ | experimental | [1] Liu 2023; _cites Murray 1975_ [doi](https://doi.org/10.1139/v75-122) | Table 1, p. 3, row 11 |  |
-| Lattice c | 4.271 Å | 298.15 | Cu3Se2; _alloy: Se 0.4_ | experimental | [1] Liu 2023; _cites Murray 1975_ [doi](https://doi.org/10.1139/v75-122) | Table 1, p. 3, row 15 |  |
-| Lattice c | 3.7397 Å | 298.15 | CuSe2; _alloy: Se 0.666667_ | experimental | [1] Liu 2023; _cites Murray 1975_ [doi](https://doi.org/10.1139/v75-122) | Table 1, p. 3, row 16 |  |
-| Lattice c | 4.145 Å | 298.15 | α-Cu2Se; _alloy: Se 0.333333_ | experimental | [1] Liu 2023; _cites Murray 1975_ [doi](https://doi.org/10.1139/v75-122) | Table 1, p. 3, row 13 |  |
-| Lattice c | 17.255 Å | 298.15 | α-CuSe; _alloy: Se 0.5_ | experimental | [1] Liu 2023; _cites Stevels 1971_ [doi](https://doi.org/10.1002/recl.19710900307) | Table 1, p. 3, row 10 |  |
-| Lattice c | 17.26 Å | 298.15 | γ-CuSe; _alloy: Se 0.5_ | experimental | [1] Liu 2023; _cites Murray 1975_ [doi](https://doi.org/10.1139/v75-122) | Table 1, p. 3, row 12 |  |
+| Lattice a | 5.86 Å |  | β-Cu2Se; _alloy: Se 0.333333_ | experimental | [1] Liu 2023; _cites Murray 1975_ [doi](https://doi.org/10.1139/v75-122) | Table 1, p. 3, row 14; `ORC-ASBF7UQ2NT` |  |
+| Lattice a | 3.954 Å |  | β-CuSe; _alloy: Se 0.5_ | experimental | [1] Liu 2023; _cites Murray 1975_ [doi](https://doi.org/10.1139/v75-122) | Table 1, p. 3, row 11; `ORC-O225JMR4G2.3cd6ac` |  |
+| Lattice a | 6.385 Å | 298.15 | Cu3Se2; _alloy: Se 0.4_ | experimental | [1] Liu 2023; _cites Murray 1975_ [doi](https://doi.org/10.1139/v75-122) | Table 1, p. 3, row 15; `ORC-IW4YWLNSX3.7d1886` |  |
+| Lattice a | 5.0046 Å | 298.15 | CuSe2; _alloy: Se 0.666667_ | experimental | [1] Liu 2023; _cites Murray 1975_ [doi](https://doi.org/10.1139/v75-122) | Table 1, p. 3, row 16; `ORC-WWXO2WRBNJ.fc7aef` |  |
+| Lattice a | 14.087 Å | 298.15 | α-Cu2Se; _alloy: Se 0.333333_ | experimental | [1] Liu 2023; _cites Murray 1975_ [doi](https://doi.org/10.1139/v75-122) | Table 1, p. 3, row 13; `ORC-RY7R6S7WIA.3b8dd0` |  |
+| Lattice a | 14.203 Å | 298.15 | α-CuSe; _alloy: Se 0.5_ | experimental | [1] Liu 2023; _cites Stevels 1971_ [doi](https://doi.org/10.1002/recl.19710900307) | Table 1, p. 3, row 10; `ORC-N7BUWI5EE4.8002dd` |  |
+| Lattice a | 3.983 Å | 298.15 | γ-CuSe; _alloy: Se 0.5_ | experimental | [1] Liu 2023; _cites Murray 1975_ [doi](https://doi.org/10.1139/v75-122) | Table 1, p. 3, row 12; `ORC-F4U2RE5T42.d8ccd9` |  |
+| Lattice b | 6.856 Å |  | β-CuSe; _alloy: Se 0.5_ | experimental | [1] Liu 2023; _cites Murray 1975_ [doi](https://doi.org/10.1139/v75-122) | Table 1, p. 3, row 11; `ORC-O225JMR4G2.f2e36a` |  |
+| Lattice b | 6.856 Å | 298.15 | CuSe2; _alloy: Se 0.666667_ | experimental | [1] Liu 2023; _cites Murray 1975_ [doi](https://doi.org/10.1139/v75-122) | Table 1, p. 3, row 16; `ORC-WWXO2WRBNJ.a48ccf` |  |
+| Lattice b | 20.481 Å | 298.15 | α-Cu2Se; _alloy: Se 0.333333_ | experimental | [1] Liu 2023; _cites Murray 1975_ [doi](https://doi.org/10.1139/v75-122) | Table 1, p. 3, row 13; `ORC-RY7R6S7WIA.72fddb` |  |
+| Lattice c | 17.238 Å |  | β-CuSe; _alloy: Se 0.5_ | experimental | [1] Liu 2023; _cites Murray 1975_ [doi](https://doi.org/10.1139/v75-122) | Table 1, p. 3, row 11; `ORC-O225JMR4G2.cf9ac6` |  |
+| Lattice c | 4.271 Å | 298.15 | Cu3Se2; _alloy: Se 0.4_ | experimental | [1] Liu 2023; _cites Murray 1975_ [doi](https://doi.org/10.1139/v75-122) | Table 1, p. 3, row 15; `ORC-IW4YWLNSX3.75bdf0` |  |
+| Lattice c | 3.7397 Å | 298.15 | CuSe2; _alloy: Se 0.666667_ | experimental | [1] Liu 2023; _cites Murray 1975_ [doi](https://doi.org/10.1139/v75-122) | Table 1, p. 3, row 16; `ORC-WWXO2WRBNJ.45995d` |  |
+| Lattice c | 4.145 Å | 298.15 | α-Cu2Se; _alloy: Se 0.333333_ | experimental | [1] Liu 2023; _cites Murray 1975_ [doi](https://doi.org/10.1139/v75-122) | Table 1, p. 3, row 13; `ORC-RY7R6S7WIA.ec64c4` |  |
+| Lattice c | 17.255 Å | 298.15 | α-CuSe; _alloy: Se 0.5_ | experimental | [1] Liu 2023; _cites Stevels 1971_ [doi](https://doi.org/10.1002/recl.19710900307) | Table 1, p. 3, row 10; `ORC-N7BUWI5EE4.fea698` |  |
+| Lattice c | 17.26 Å | 298.15 | γ-CuSe; _alloy: Se 0.5_ | experimental | [1] Liu 2023; _cites Murray 1975_ [doi](https://doi.org/10.1139/v75-122) | Table 1, p. 3, row 12; `ORC-F4U2RE5T42.b8ed3a` |  |
 
 ## Sources
 
@@ -159,4 +159,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

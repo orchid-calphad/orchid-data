@@ -14,20 +14,20 @@ Table: Enthalpy of formation of NbNi3 reported in the literature (14)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -32 kJ/mol-atom ± 2 | NbNi3 | 600.15 | experimental | Experimental | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [1] Santhy 2015; _cites Kubaschewski 2015_ | Table 6, p. 4, row 7 |  |
-| -32 kJ/mol-atom | NbNi3 | 298.15 | experimental | Experimental | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [1] Santhy 2015; _cites Hultgren 1973_ | Table 6, p. 4, row 8 |  |
-| -31.715 kJ/mol-atom ± 2.218 | Ni3Nb | 298.15 | experimental |  | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [2] Bolcavage 1996; _cites Argent 1959_ | Table 4, p. 8, row 2 |  |
-| -31.714 kJ/mol (basis unstated) ± 2.552 | NbNi3 | 298.15 | experimental | Experimental | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [3] Joubert 2004; _cites Argent 1959_ | Table 4, p. 5, row 4 |  |
-| -31.71 kJ/mol-atom ± 2.5 | NbNi3 | 298.15 | experimental | Experimental | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [1] Santhy 2015; _cites Argent 1959_ | Table 6, p. 4, row 6 |  |
-| -31.71 kJ/mol-atom | δ-NbNi3 | 298.15 | experimental |  | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [4] Sun 2023; _cites Argent 1959_ | Table 6, p. 33, row 2 |  |
-| -33.925 kJ/mol-atom | Ni3Nb | 298.15 | model |  | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [2] Bolcavage 1996 | Table 4, p. 8, row 1 |  |
-| -32 kJ/mol-atom | NbNi3 | 298.15 | model | Miedema | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [1] Santhy 2015; _cites Niessen 1988_ [doi](https://doi.org/10.1016/0921-4526%2888%2990002-6) | Table 6, p. 4, row 9 |  |
-| -30.645 kJ/mol (basis unstated) | NbNi3 | 298.15 | model |  | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [3] Joubert 2004 | Table 4, p. 5, row 3 |  |
-| -33.41 kJ/mol-atom | NbNi3 |  | DFT | First-principle | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [1] Santhy 2015; _cites Ravindran 1996_ [doi](https://doi.org/10.1103/physrevb.53.1129) | Table 6, p. 4, row 10 |  |
-| -33.409 kJ/mol (basis unstated) | NbNi3 | 298.15 | DFT | First principles | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [3] Joubert 2004; _cites Ravindran 1996_ [doi](https://doi.org/10.1103/physrevb.53.1129) | Table 4, p. 5, row 5 |  |
-| -31.2 kJ/mol-atom | NbNi3 | 0 | DFT | First-principle | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [1] Santhy 2015 | Table 6, p. 4, row 11 |  |
-| -28.51 kJ/mol-atom | δ-NbNi3 | 298.15 | DFT | DFT and phonon calculations | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [4] Sun 2023 | Table 6, p. 33, row 1 |  |
-| -28.38 kJ/mol-atom | δ-NbNi3 | 0 | DFT | DFT and phonon calculations | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [4] Sun 2023 | Table 6, p. 33, row 1 |  |
+| -32 kJ/mol-atom ± 2 | NbNi3 | 600.15 | experimental | Experimental | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [1] Santhy 2015; _cites Kubaschewski 2015_ | Table 6, p. 4, row 7; `ORC-VJ2BC6W776.4be015` |  |
+| -32 kJ/mol-atom | NbNi3 | 298.15 | experimental | Experimental | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [1] Santhy 2015; _cites Hultgren 1973_ | Table 6, p. 4, row 8; `ORC-ZI3WR77ALH.34226d` |  |
+| -31.715 kJ/mol-atom ± 2.218 | Ni3Nb | 298.15 | experimental |  | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [2] Bolcavage 1996; _cites Argent 1959_ | Table 4, p. 8, row 2; `ORC-H6CHGHX5XI` |  |
+| -31.714 kJ/mol (basis unstated) ± 2.552 | NbNi3 | 298.15 | experimental | Experimental | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [3] Joubert 2004; _cites Argent 1959_ | Table 4, p. 5, row 4; `ORC-7VHDIGEALK.c13b02` |  |
+| -31.71 kJ/mol-atom ± 2.5 | NbNi3 | 298.15 | experimental | Experimental | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [1] Santhy 2015; _cites Argent 1959_ | Table 6, p. 4, row 6; `ORC-33IFFGWUUH.08e033` |  |
+| -31.71 kJ/mol-atom | δ-NbNi3 | 298.15 | experimental |  | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [4] Sun 2023; _cites Argent 1959_ | Table 6, p. 33, row 2; `ORC-MP75CMWX4X.7e46f8` |  |
+| -33.925 kJ/mol-atom | Ni3Nb | 298.15 | model |  | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [2] Bolcavage 1996 | Table 4, p. 8, row 1; `ORC-L6HBAFL7TT` |  |
+| -32 kJ/mol-atom | NbNi3 | 298.15 | model | Miedema | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [1] Santhy 2015; _cites Niessen 1988_ [doi](https://doi.org/10.1016/0921-4526%2888%2990002-6) | Table 6, p. 4, row 9; `ORC-24DNL2BNUS.80c931` |  |
+| -30.645 kJ/mol (basis unstated) | NbNi3 | 298.15 | model |  | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [3] Joubert 2004 | Table 4, p. 5, row 3; `ORC-JHUFEIXRVQ` |  |
+| -33.41 kJ/mol-atom | NbNi3 |  | DFT | First-principle | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [1] Santhy 2015; _cites Ravindran 1996_ [doi](https://doi.org/10.1103/physrevb.53.1129) | Table 6, p. 4, row 10; `ORC-CROOJNHYVK.52c640` |  |
+| -33.409 kJ/mol (basis unstated) | NbNi3 | 298.15 | DFT | First principles | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [3] Joubert 2004; _cites Ravindran 1996_ [doi](https://doi.org/10.1103/physrevb.53.1129) | Table 4, p. 5, row 5; `ORC-PHZMG7MKWH` |  |
+| -31.2 kJ/mol-atom | NbNi3 | 0 | DFT | First-principle | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [1] Santhy 2015 | Table 6, p. 4, row 11; `ORC-UWMR7VIUSG.009e3a` |  |
+| -28.51 kJ/mol-atom | δ-NbNi3 | 298.15 | DFT | DFT and phonon calculations | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [4] Sun 2023 | Table 6, p. 33, row 1; `ORC-IOGJOZ7AOF.caffcc` |  |
+| -28.38 kJ/mol-atom | δ-NbNi3 | 0 | DFT | DFT and phonon calculations | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [4] Sun 2023 | Table 6, p. 33, row 1; `ORC-IOGJOZ7AOF.bba44e` |  |
 
 ### Uncertainty budget
 
@@ -119,4 +119,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

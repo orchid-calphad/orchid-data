@@ -44,18 +44,18 @@ Table: Phase transition, Au–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1083 K | 1083 | other: Critical point; _alloy: Au 0.276, Ni 0.724_ | experimental | [1] Wang 2005; _cites Esdaile 1971_ | Table 2, p. 3, row 5 |  |
-| Phase transition | 1083.15 K | 1083.15 | other | experimental | [1] Wang 2005; _cites Esdaile 1971_ | p. 2 | “The critical point of miscibility gap observed by Esdaile and Mcadam \[20\] is at 72.4 at.% Ni and 810 ◦ C.” |
-| Phase transition | 1083.45 K | 1083.45 | other | model | [1] Wang 2005; _cites Hansen 1958_ | p. 2 | “The reviewed critical point of the miscibility gap is at 72.5 at.% Ni and 810.3 ◦ C \[21\].” |
-| Phase transition | 1083.5 K | 1083.5 | other: Critical point; _alloy: Au 0.275, Ni 0.725_ | experimental | [1] Wang 2005; _cites Hansen 1958_ | Table 2, p. 3, row 6 |  |
-| Phase transition | 1089.5 K | 1089.5 | other | model | [1] Wang 2005 | p. 1 | “The calculated congruent point is 1214.3 K and 42.6 at.% Ni and the critical point of the miscibility gap is 1089.5 K and 73.0 at.% Ni.” |
-| Phase transition | 1089.5 K | 1089.5 | other: Critical point; _alloy: Au 0.27, Ni 0.73_ | model | [1] Wang 2005 | Table 2, p. 3, row 4 |  |
-| Phase transition | 1214.3 K | 1214.3 | congruent transformation | model | [1] Wang 2005 | p. 1 | “The calculated congruent point is 1214.3 K and 42.6 at.% Ni and the critical point of the miscibility gap is 1089.5 K and 73.0 at.% Ni.” |
-| Phase transition | 1214.3 K | 1214.3 | congruent transformation: Congruent point; _alloy: Au 0.574, Ni 0.426_ | model | [1] Wang 2005 | Table 2, p. 3, row 1 |  |
-| Phase transition | 1224 K | 1224 | congruent transformation: Congruent point | experimental | [1] Wang 2005; _cites Esdaile 1971_ | Table 2, p. 3, row 2 |  |
-| Phase transition | 1224.15 K | 1224.15 |  | experimental | [1] Wang 2005; _cites Esdaile 1971_ | p. 2 | “The result observed by Esdaile and Mcadam \[20\] is at 951 ◦ C.” |
-| Phase transition | 1227.95 K | 1227.95 | congruent transformation | model | [1] Wang 2005; _cites Hansen 1958_ | p. 2 | “The reviewed congruent point is at 42.5 at.% Ni and 954.8 ◦ C \[21\].” |
-| Phase transition | 1228 K | 1228 | congruent transformation: Congruent point; _alloy: Au 0.575, Ni 0.425_ | experimental | [1] Wang 2005; _cites Hansen 1958_ | Table 2, p. 3, row 3 |  |
+| Phase transition | 1083 K | 1083 | other: Critical point; _alloy: Au 0.276, Ni 0.724_ | experimental | [1] Wang 2005; _cites Esdaile 1971_ | Table 2, p. 3, row 5; `ORC-3WZD5A2FIH` |  |
+| Phase transition | 1083.15 K | 1083.15 | other | experimental | [1] Wang 2005; _cites Esdaile 1971_ | p. 2; `ORC-ZBHHXGCVV6` | “The critical point of miscibility gap observed by Esdaile and Mcadam \[20\] is at 72.4 at.% Ni and 810 ◦ C.” |
+| Phase transition | 1083.45 K | 1083.45 | other | model | [1] Wang 2005; _cites Hansen 1958_ | p. 2; `ORC-5CQIBRJBTA` | “The reviewed critical point of the miscibility gap is at 72.5 at.% Ni and 810.3 ◦ C \[21\].” |
+| Phase transition | 1083.5 K | 1083.5 | other: Critical point; _alloy: Au 0.275, Ni 0.725_ | experimental | [1] Wang 2005; _cites Hansen 1958_ | Table 2, p. 3, row 6; `ORC-FWTDNMUVKC` |  |
+| Phase transition | 1089.5 K | 1089.5 | other | model | [1] Wang 2005 | p. 1; `ORC-D5I5LW2RN7.6b24da` | “The calculated congruent point is 1214.3 K and 42.6 at.% Ni and the critical point of the miscibility gap is 1089.5 K and 73.0 at.% Ni.” |
+| Phase transition | 1089.5 K | 1089.5 | other: Critical point; _alloy: Au 0.27, Ni 0.73_ | model | [1] Wang 2005 | Table 2, p. 3, row 4; `ORC-4N5SAWCRUM` |  |
+| Phase transition | 1214.3 K | 1214.3 | congruent transformation | model | [1] Wang 2005 | p. 1; `ORC-D5I5LW2RN7.20f1f9` | “The calculated congruent point is 1214.3 K and 42.6 at.% Ni and the critical point of the miscibility gap is 1089.5 K and 73.0 at.% Ni.” |
+| Phase transition | 1214.3 K | 1214.3 | congruent transformation: Congruent point; _alloy: Au 0.574, Ni 0.426_ | model | [1] Wang 2005 | Table 2, p. 3, row 1; `ORC-45CZ4P7TXR` |  |
+| Phase transition | 1224 K | 1224 | congruent transformation: Congruent point | experimental | [1] Wang 2005; _cites Esdaile 1971_ | Table 2, p. 3, row 2; `ORC-V6QIPUPBRV` |  |
+| Phase transition | 1224.15 K | 1224.15 |  | experimental | [1] Wang 2005; _cites Esdaile 1971_ | p. 2; `ORC-LYHONGKXZJ` | “The result observed by Esdaile and Mcadam \[20\] is at 951 ◦ C.” |
+| Phase transition | 1227.95 K | 1227.95 | congruent transformation | model | [1] Wang 2005; _cites Hansen 1958_ | p. 2; `ORC-XC45AF5U7L` | “The reviewed congruent point is at 42.5 at.% Ni and 954.8 ◦ C \[21\].” |
+| Phase transition | 1228 K | 1228 | congruent transformation: Congruent point; _alloy: Au 0.575, Ni 0.425_ | experimental | [1] Wang 2005; _cites Hansen 1958_ | Table 2, p. 3, row 3; `ORC-EAVFQ66C6J` |  |
 
 ### Mixing / partial (6)
 
@@ -63,12 +63,12 @@ Table: Mixing / partial, Au–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: \|ΔmixH\| (X_Ag = 0.5)_ | -0.134 kJ/mol (basis unstated) | 1750.15 | Liquid | model | [2] Morioka 1999 | Table 7, p. 14, row 1 |  |
-| Enthalpy of mixing; _printed: \|ΔmixH\| (X_Ag = 0.5)_ | 12.109 kJ/mol (basis unstated) | 1750.15 | Liquid | model | [2] Morioka 1999 | Table 7, p. 14, row 2 |  |
-| Enthalpy of mixing; _printed: \|ΔmixH\| (X_Ag = 0.5)_ | 10 kJ/mol (basis unstated) | 1750.15 | Liquid | model | [2] Morioka 1999 | Table 7, p. 14, row 5 |  |
-| Enthalpy of mixing; _printed: \|ΔmixH\| (X_Ag = 0.5)_ | 9.666 kJ/mol (basis unstated) | 1750.15 | fcc | model | [2] Morioka 1999 | Table 7, p. 14, row 10 |  |
-| Enthalpy of mixing; _printed: \|ΔmixH\| (X_Ag = 0.5)_ | 2.955 kJ/mol (basis unstated) | 1750.15 | fcc | model | [2] Morioka 1999 | Table 7, p. 14, row 6 |  |
-| Enthalpy of mixing; _printed: \|ΔmixH\| (X_Ag = 0.5)_ | 7.065 kJ/mol (basis unstated) | 1750.15 | fcc | model | [2] Morioka 1999 | Table 7, p. 14, row 7 |  |
+| Enthalpy of mixing; _printed: \|ΔmixH\| (X_Ag = 0.5)_ | -0.134 kJ/mol (basis unstated) | 1750.15 | Liquid | model | [2] Morioka 1999 | Table 7, p. 14, row 1; `ORC-HBINRJQCF2` |  |
+| Enthalpy of mixing; _printed: \|ΔmixH\| (X_Ag = 0.5)_ | 12.109 kJ/mol (basis unstated) | 1750.15 | Liquid | model | [2] Morioka 1999 | Table 7, p. 14, row 2; `ORC-IQWYQEVQB4` |  |
+| Enthalpy of mixing; _printed: \|ΔmixH\| (X_Ag = 0.5)_ | 10 kJ/mol (basis unstated) | 1750.15 | Liquid | model | [2] Morioka 1999 | Table 7, p. 14, row 5; `ORC-U5SK34DIFO` |  |
+| Enthalpy of mixing; _printed: \|ΔmixH\| (X_Ag = 0.5)_ | 9.666 kJ/mol (basis unstated) | 1750.15 | fcc | model | [2] Morioka 1999 | Table 7, p. 14, row 10; `ORC-4GJSQLS5LF` |  |
+| Enthalpy of mixing; _printed: \|ΔmixH\| (X_Ag = 0.5)_ | 2.955 kJ/mol (basis unstated) | 1750.15 | fcc | model | [2] Morioka 1999 | Table 7, p. 14, row 6; `ORC-4NP2CR5FLK` |  |
+| Enthalpy of mixing; _printed: \|ΔmixH\| (X_Ag = 0.5)_ | 7.065 kJ/mol (basis unstated) | 1750.15 | fcc | model | [2] Morioka 1999 | Table 7, p. 14, row 7; `ORC-I26RE4U2ZF` |  |
 
 ## Sources
 
@@ -134,4 +134,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -14,16 +14,16 @@ Table: Enthalpy of formation of CdSe reported in the literature (10)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -158 kJ/mol (basis unstated) | CdSe |  | unspecified |  | [Cd–Se](https://data.orchid-project.org/systems/CD-SE.html) | [1] Liu 2012 | Table IV, p. 6, row 4 |  |
-| -147.7 kJ/mol (basis unstated) | CdSe |  | unspecified |  | [Cd–Se](https://data.orchid-project.org/systems/CD-SE.html) | [1] Liu 2012 | Table IV, p. 6, row 12 |  |
-| -147.03 kJ/mol (basis unstated) | CdSe |  | unspecified |  | [Cd–Se](https://data.orchid-project.org/systems/CD-SE.html) | [1] Liu 2012 | Table IV, p. 6, row 20 |  |
-| -144.1 kJ/mol (basis unstated) | CdSe |  | unspecified |  | [Cd–Se](https://data.orchid-project.org/systems/CD-SE.html) | [1] Liu 2012 | Table IV, p. 6, row 10 |  |
-| -142.6 kJ/mol (basis unstated) | CdSe |  | unspecified |  | [Cd–Se](https://data.orchid-project.org/systems/CD-SE.html) | [1] Liu 2012 | Table IV, p. 6, row 14 |  |
-| -141.96 kJ/mol (basis unstated) | CdSe |  | unspecified |  | [Cd–Se](https://data.orchid-project.org/systems/CD-SE.html) | [1] Liu 2012 | Table IV, p. 6, row 18 |  |
-| -139.4 kJ/mol (basis unstated) | CdSe |  | unspecified |  | [Cd–Se](https://data.orchid-project.org/systems/CD-SE.html) | [1] Liu 2012 | Table IV, p. 6, row 2 |  |
-| -139 kJ/mol (basis unstated) | CdSe |  | unspecified |  | [Cd–Se](https://data.orchid-project.org/systems/CD-SE.html) | [1] Liu 2012 | Table IV, p. 6, row 6 |  |
-| -136.6 kJ/mol (basis unstated) | CdSe |  | unspecified |  | [Cd–Se](https://data.orchid-project.org/systems/CD-SE.html) | [1] Liu 2012 | Table IV, p. 6, row 8 |  |
-| -136.5 kJ/mol (basis unstated) | CdSe |  | unspecified |  | [Cd–Se](https://data.orchid-project.org/systems/CD-SE.html) | [1] Liu 2012 | Table IV, p. 6, row 16 |  |
+| -158 kJ/mol (basis unstated) | CdSe |  | unspecified |  | [Cd–Se](https://data.orchid-project.org/systems/CD-SE.html) | [1] Liu 2012 | Table IV, p. 6, row 4; `ORC-U77DCFJJXM` |  |
+| -147.7 kJ/mol (basis unstated) | CdSe |  | unspecified |  | [Cd–Se](https://data.orchid-project.org/systems/CD-SE.html) | [1] Liu 2012 | Table IV, p. 6, row 12; `ORC-NYT4TPRAML` |  |
+| -147.03 kJ/mol (basis unstated) | CdSe |  | unspecified |  | [Cd–Se](https://data.orchid-project.org/systems/CD-SE.html) | [1] Liu 2012 | Table IV, p. 6, row 20; `ORC-T5QPPKLLNM` |  |
+| -144.1 kJ/mol (basis unstated) | CdSe |  | unspecified |  | [Cd–Se](https://data.orchid-project.org/systems/CD-SE.html) | [1] Liu 2012 | Table IV, p. 6, row 10; `ORC-7QHMYWY5BQ` |  |
+| -142.6 kJ/mol (basis unstated) | CdSe |  | unspecified |  | [Cd–Se](https://data.orchid-project.org/systems/CD-SE.html) | [1] Liu 2012 | Table IV, p. 6, row 14; `ORC-7QOGUI4NIN` |  |
+| -141.96 kJ/mol (basis unstated) | CdSe |  | unspecified |  | [Cd–Se](https://data.orchid-project.org/systems/CD-SE.html) | [1] Liu 2012 | Table IV, p. 6, row 18; `ORC-5HSZE5HCB3` |  |
+| -139.4 kJ/mol (basis unstated) | CdSe |  | unspecified |  | [Cd–Se](https://data.orchid-project.org/systems/CD-SE.html) | [1] Liu 2012 | Table IV, p. 6, row 2; `ORC-BMR5ABNU54` |  |
+| -139 kJ/mol (basis unstated) | CdSe |  | unspecified |  | [Cd–Se](https://data.orchid-project.org/systems/CD-SE.html) | [1] Liu 2012 | Table IV, p. 6, row 6; `ORC-TPT5553RGC` |  |
+| -136.6 kJ/mol (basis unstated) | CdSe |  | unspecified |  | [Cd–Se](https://data.orchid-project.org/systems/CD-SE.html) | [1] Liu 2012 | Table IV, p. 6, row 8; `ORC-QOI7PORHP3` |  |
+| -136.5 kJ/mol (basis unstated) | CdSe |  | unspecified |  | [Cd–Se](https://data.orchid-project.org/systems/CD-SE.html) | [1] Liu 2012 | Table IV, p. 6, row 16; `ORC-DVOBHR6CUM` |  |
 
 ### Uncertainty budget
 
@@ -95,4 +95,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

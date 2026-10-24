@@ -28,18 +28,18 @@ Table: Crystal structure, C–La–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.4056 not_printed |  | La3Si2C2; _alloy: La 0.428571, Si 0.285714_ | unspecified | [1] Xu 2020 | Table 1, p. 3, row 25 |  |
-| Lattice a | 4.056 Å |  | La3Si2C2; _alloy: La 0.428571, Si 0.285714_ | unspecified | [1] Xu 2020 | Table 1, p. 3, row 25 |  |
-| Lattice a | 0.4039 not_printed ± 1.000e-4 | 298.15 | La3Si2C2; _alloy: La 0.428571, Si 0.285714_ | unspecified | [1] Xu 2020; _cites ref. 22_ | Table 1, p. 3, row 24 |  |
-| Lattice a | 4.039 Å ± 0.001 | 298.15 | La3Si2C2; _alloy: La 0.428571, Si 0.285714_ | unspecified | [1] Xu 2020; _cites ref. 22_ | Table 1, p. 3, row 24 |  |
-| Lattice b | 16.979 Å |  | La3Si2C2; _alloy: La 0.428571, Si 0.285714_ | unspecified | [1] Xu 2020 | Table 1, p. 3, row 25 |  |
-| Lattice b | 1.6979 not_printed |  | La3Si2C2; _alloy: La 0.428571, Si 0.285714_ | unspecified | [1] Xu 2020 | Table 1, p. 3, row 25 |  |
-| Lattice b | 16.884 Å ± 0.002 | 298.15 | La3Si2C2; _alloy: La 0.428571, Si 0.285714_ | unspecified | [1] Xu 2020; _cites ref. 22_ | Table 1, p. 3, row 24 |  |
-| Lattice b | 1.6884 not_printed ± 2.000e-4 | 298.15 | La3Si2C2; _alloy: La 0.428571, Si 0.285714_ | unspecified | [1] Xu 2020; _cites ref. 22_ | Table 1, p. 3, row 24 |  |
-| Lattice c | 4.508 Å |  | La3Si2C2; _alloy: La 0.428571, Si 0.285714_ | unspecified | [1] Xu 2020 | Table 1, p. 3, row 25 |  |
-| Lattice c | 0.4508 not_printed |  | La3Si2C2; _alloy: La 0.428571, Si 0.285714_ | unspecified | [1] Xu 2020 | Table 1, p. 3, row 25 |  |
-| Lattice c | 0.4506 not_printed ± 1.000e-4 | 298.15 | La3Si2C2; _alloy: La 0.428571, Si 0.285714_ | unspecified | [1] Xu 2020; _cites ref. 22_ | Table 1, p. 3, row 24 |  |
-| Lattice c | 4.506 Å ± 0.001 | 298.15 | La3Si2C2; _alloy: La 0.428571, Si 0.285714_ | unspecified | [1] Xu 2020; _cites ref. 22_ | Table 1, p. 3, row 24 |  |
+| Lattice a | 0.4056 not_printed |  | La3Si2C2; _alloy: La 0.428571, Si 0.285714_ | unspecified | [1] Xu 2020 | Table 1, p. 3, row 25; `ORC-O33AI5HJMB.2d1a1a` |  |
+| Lattice a | 4.056 Å |  | La3Si2C2; _alloy: La 0.428571, Si 0.285714_ | unspecified | [1] Xu 2020 | Table 1, p. 3, row 25; `ORC-O33AI5HJMB.beb019` |  |
+| Lattice a | 0.4039 not_printed ± 1.000e-4 | 298.15 | La3Si2C2; _alloy: La 0.428571, Si 0.285714_ | unspecified | [1] Xu 2020; _cites ref. 22_ | Table 1, p. 3, row 24; `ORC-VDCLEBFSNH.5183b6` |  |
+| Lattice a | 4.039 Å ± 0.001 | 298.15 | La3Si2C2; _alloy: La 0.428571, Si 0.285714_ | unspecified | [1] Xu 2020; _cites ref. 22_ | Table 1, p. 3, row 24; `ORC-VDCLEBFSNH.5f3ae0` |  |
+| Lattice b | 16.979 Å |  | La3Si2C2; _alloy: La 0.428571, Si 0.285714_ | unspecified | [1] Xu 2020 | Table 1, p. 3, row 25; `ORC-O33AI5HJMB.0a97de` |  |
+| Lattice b | 1.6979 not_printed |  | La3Si2C2; _alloy: La 0.428571, Si 0.285714_ | unspecified | [1] Xu 2020 | Table 1, p. 3, row 25; `ORC-O33AI5HJMB.37fc7f` |  |
+| Lattice b | 16.884 Å ± 0.002 | 298.15 | La3Si2C2; _alloy: La 0.428571, Si 0.285714_ | unspecified | [1] Xu 2020; _cites ref. 22_ | Table 1, p. 3, row 24; `ORC-VDCLEBFSNH.aa7f17` |  |
+| Lattice b | 1.6884 not_printed ± 2.000e-4 | 298.15 | La3Si2C2; _alloy: La 0.428571, Si 0.285714_ | unspecified | [1] Xu 2020; _cites ref. 22_ | Table 1, p. 3, row 24; `ORC-VDCLEBFSNH.f412cc` |  |
+| Lattice c | 4.508 Å |  | La3Si2C2; _alloy: La 0.428571, Si 0.285714_ | unspecified | [1] Xu 2020 | Table 1, p. 3, row 25; `ORC-O33AI5HJMB.5cdd31` |  |
+| Lattice c | 0.4508 not_printed |  | La3Si2C2; _alloy: La 0.428571, Si 0.285714_ | unspecified | [1] Xu 2020 | Table 1, p. 3, row 25; `ORC-O33AI5HJMB.c29a88` |  |
+| Lattice c | 0.4506 not_printed ± 1.000e-4 | 298.15 | La3Si2C2; _alloy: La 0.428571, Si 0.285714_ | unspecified | [1] Xu 2020; _cites ref. 22_ | Table 1, p. 3, row 24; `ORC-VDCLEBFSNH.0e536a` |  |
+| Lattice c | 4.506 Å ± 0.001 | 298.15 | La3Si2C2; _alloy: La 0.428571, Si 0.285714_ | unspecified | [1] Xu 2020; _cites ref. 22_ | Table 1, p. 3, row 24; `ORC-VDCLEBFSNH.824648` |  |
 
 ## Sources
 
@@ -82,4 +82,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -14,15 +14,15 @@ Table: Enthalpy of formation of Si5V6 reported in the literature (9)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -50.7 kJ/mol-atom ± 2 | V6Si5 | 298.15 | experimental | emf measurement | [Si–V](https://data.orchid-project.org/systems/SI-V.html) | [1] Zhang 2008; _cites Eremenko 1976_ | Table 2, p. 3, row 6 |  |
-| -50.7 kJ/mol-atom ± 2 | V6Si5 | 298.15 | experimental |  | [Si–V](https://data.orchid-project.org/systems/SI-V.html) | [2] Broz 2013; _cites Eremenko 1975_ | Table 2, p. 6, row 24 |  |
-| -52.8 kJ/mol-atom | V6Si5 | 0 | model |  | [Si–V](https://data.orchid-project.org/systems/SI-V.html) | [2] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 2, p. 6, row 22 |  |
-| -51.2 kJ/mol-atom | V6Si5 |  | model |  | [Si–V](https://data.orchid-project.org/systems/SI-V.html) | [2] Broz 2013; _cites Chen 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.04.004) | Table 2, p. 6, row 26 |  |
-| -48.13 kJ/mol-atom | V6Si5 | 298.15 | model | Miedema model | [Si–V](https://data.orchid-project.org/systems/SI-V.html) | [1] Zhang 2008; _cites Chen 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.04.004) | Table 2, p. 3, row 17 |  |
-| -48.1 kJ/mol-atom | V6Si5 |  | model |  | [Si–V](https://data.orchid-project.org/systems/SI-V.html) | [2] Broz 2013; _cites Chen 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.04.004) | Table 2, p. 6, row 25 |  |
-| -51.22 kJ/mol-atom | V6Si5 | 298.15 | DFT | First-principles | [Si–V](https://data.orchid-project.org/systems/SI-V.html) | [1] Zhang 2008; _cites Zhang 2007_ [doi](https://doi.org/10.1007/s10853-007-1865-6) | Table 2, p. 3, row 21 |  |
-| -52.7 kJ/mol-atom | V6Si5 | 0 | unspecified |  | [Si–V](https://data.orchid-project.org/systems/SI-V.html) | [2] Broz 2013 | Table 2, p. 6, row 23 |  |
-| -44.1 kJ/mol-atom | V6Si5 | 0 | unspecified |  | [Si–V](https://data.orchid-project.org/systems/SI-V.html) | [2] Broz 2013 | Table 2, p. 6, row 21 |  |
+| -50.7 kJ/mol-atom ± 2 | V6Si5 | 298.15 | experimental | emf measurement | [Si–V](https://data.orchid-project.org/systems/SI-V.html) | [1] Zhang 2008; _cites Eremenko 1976_ | Table 2, p. 3, row 6; `ORC-5U2CRXZVLS` |  |
+| -50.7 kJ/mol-atom ± 2 | V6Si5 | 298.15 | experimental |  | [Si–V](https://data.orchid-project.org/systems/SI-V.html) | [2] Broz 2013; _cites Eremenko 1975_ | Table 2, p. 6, row 24; `ORC-6LNQ3YT4SG.f6f47d` |  |
+| -52.8 kJ/mol-atom | V6Si5 | 0 | model |  | [Si–V](https://data.orchid-project.org/systems/SI-V.html) | [2] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 2, p. 6, row 22; `ORC-RDHUSWQ6RO.7ca1c1` |  |
+| -51.2 kJ/mol-atom | V6Si5 |  | model |  | [Si–V](https://data.orchid-project.org/systems/SI-V.html) | [2] Broz 2013; _cites Chen 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.04.004) | Table 2, p. 6, row 26; `ORC-DGB6VGUJK7.b97a31` |  |
+| -48.13 kJ/mol-atom | V6Si5 | 298.15 | model | Miedema model | [Si–V](https://data.orchid-project.org/systems/SI-V.html) | [1] Zhang 2008; _cites Chen 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.04.004) | Table 2, p. 3, row 17; `ORC-NYSZ5LL7KH` |  |
+| -48.1 kJ/mol-atom | V6Si5 |  | model |  | [Si–V](https://data.orchid-project.org/systems/SI-V.html) | [2] Broz 2013; _cites Chen 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.04.004) | Table 2, p. 6, row 25; `ORC-RR7YCNGK2U.d5d036` |  |
+| -51.22 kJ/mol-atom | V6Si5 | 298.15 | DFT | First-principles | [Si–V](https://data.orchid-project.org/systems/SI-V.html) | [1] Zhang 2008; _cites Zhang 2007_ [doi](https://doi.org/10.1007/s10853-007-1865-6) | Table 2, p. 3, row 21; `ORC-KP72AHKTW2` |  |
+| -52.7 kJ/mol-atom | V6Si5 | 0 | unspecified |  | [Si–V](https://data.orchid-project.org/systems/SI-V.html) | [2] Broz 2013 | Table 2, p. 6, row 23; `ORC-FZ7K66SEY7.1b7578` |  |
+| -44.1 kJ/mol-atom | V6Si5 | 0 | unspecified |  | [Si–V](https://data.orchid-project.org/systems/SI-V.html) | [2] Broz 2013 | Table 2, p. 6, row 21; `ORC-L4MCHEX5G6.9eda7d` |  |
 
 ### Uncertainty budget
 
@@ -107,4 +107,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

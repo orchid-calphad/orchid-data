@@ -14,15 +14,15 @@ Table: Enthalpy of formation of AlLi3 reported in the literature (9)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -10.5 kJ/mol-atom | AlLi3(D03) |  | model |  | [Al–Li](https://data.orchid-project.org/systems/AL-LI.html) | [1] Long 2020 | Table 4, p. 7, row 168 |  |
-| -10.5 kJ/mol-atom | AlLi3(D03) |  | model | CALPHAD | [Al–Li](https://data.orchid-project.org/systems/AL-LI.html) | [1] Long 2020; _cites Hallstedt 2007_ [doi](https://doi.org/10.3139/146.101553) | Table 4, p. 7, row 171 |  |
-| -5 kJ/mol-atom | AlLi3(L12) |  | model | CALPHAD | [Al–Li](https://data.orchid-project.org/systems/AL-LI.html) | [1] Long 2020; _cites Hallstedt 2007_ [doi](https://doi.org/10.3139/146.101553) | Table 4, p. 7, row 167 |  |
-| -5 kJ/mol-atom | AlLi3(L12) |  | model |  | [Al–Li](https://data.orchid-project.org/systems/AL-LI.html) | [1] Long 2020 | Table 4, p. 7, row 163 |  |
-| -10.9 kJ/mol-atom | AlLi3(D03) |  | DFT | Ab-initio | [Al–Li](https://data.orchid-project.org/systems/AL-LI.html) | [1] Long 2020; _cites Guo 1990_ [doi](https://doi.org/10.1103/physrevb.42.10912) | Table 4, p. 7, row 169 |  |
-| -10.2 kJ/mol-atom | AlLi3(D03) |  | DFT | Ab-initio | [Al–Li](https://data.orchid-project.org/systems/AL-LI.html) | [1] Long 2020; _cites Sluiter 1996_ [doi](https://doi.org/10.1103/physrevb.53.6137) | Table 4, p. 7, row 170 |  |
-| -6.5 kJ/mol-atom | AlLi3(L12) |  | DFT | Ab-initio | [Al–Li](https://data.orchid-project.org/systems/AL-LI.html) | [1] Long 2020; _cites Guo 1990_ [doi](https://doi.org/10.1103/physrevb.42.10912) | Table 4, p. 7, row 164 |  |
-| -5 kJ/mol-atom | AlLi3(L12) |  | DFT | Ab-initio | [Al–Li](https://data.orchid-project.org/systems/AL-LI.html) | [1] Long 2020; _cites Arya 1994_ [doi](https://doi.org/10.1088/0953-8984/6/18/015) | Table 4, p. 7, row 165 |  |
-| -2.3 kJ/mol-atom | AlLi3(L12) |  | DFT | Ab-initio | [Al–Li](https://data.orchid-project.org/systems/AL-LI.html) | [1] Long 2020; _cites Sluiter 1996_ [doi](https://doi.org/10.1103/physrevb.53.6137) | Table 4, p. 7, row 166 |  |
+| -10.5 kJ/mol-atom | AlLi3(D03) |  | model |  | [Al–Li](https://data.orchid-project.org/systems/AL-LI.html) | [1] Long 2020 | Table 4, p. 7, row 168; `ORC-LDJLE4M2UK.c134d4` |  |
+| -10.5 kJ/mol-atom | AlLi3(D03) |  | model | CALPHAD | [Al–Li](https://data.orchid-project.org/systems/AL-LI.html) | [1] Long 2020; _cites Hallstedt 2007_ [doi](https://doi.org/10.3139/146.101553) | Table 4, p. 7, row 171; `ORC-S4TDZMCDYP.b3800e` |  |
+| -5 kJ/mol-atom | AlLi3(L12) |  | model | CALPHAD | [Al–Li](https://data.orchid-project.org/systems/AL-LI.html) | [1] Long 2020; _cites Hallstedt 2007_ [doi](https://doi.org/10.3139/146.101553) | Table 4, p. 7, row 167; `ORC-CAMTE2JJTT.e5208b` |  |
+| -5 kJ/mol-atom | AlLi3(L12) |  | model |  | [Al–Li](https://data.orchid-project.org/systems/AL-LI.html) | [1] Long 2020 | Table 4, p. 7, row 163; `ORC-FJ2HAIFXHU.b2ce18` |  |
+| -10.9 kJ/mol-atom | AlLi3(D03) |  | DFT | Ab-initio | [Al–Li](https://data.orchid-project.org/systems/AL-LI.html) | [1] Long 2020; _cites Guo 1990_ [doi](https://doi.org/10.1103/physrevb.42.10912) | Table 4, p. 7, row 169; `ORC-NMYMDA337N.f4e697` |  |
+| -10.2 kJ/mol-atom | AlLi3(D03) |  | DFT | Ab-initio | [Al–Li](https://data.orchid-project.org/systems/AL-LI.html) | [1] Long 2020; _cites Sluiter 1996_ [doi](https://doi.org/10.1103/physrevb.53.6137) | Table 4, p. 7, row 170; `ORC-7MFUNDJ7HW.01b7f0` |  |
+| -6.5 kJ/mol-atom | AlLi3(L12) |  | DFT | Ab-initio | [Al–Li](https://data.orchid-project.org/systems/AL-LI.html) | [1] Long 2020; _cites Guo 1990_ [doi](https://doi.org/10.1103/physrevb.42.10912) | Table 4, p. 7, row 164; `ORC-N62ATWI4NE.1ff2fb` |  |
+| -5 kJ/mol-atom | AlLi3(L12) |  | DFT | Ab-initio | [Al–Li](https://data.orchid-project.org/systems/AL-LI.html) | [1] Long 2020; _cites Arya 1994_ [doi](https://doi.org/10.1088/0953-8984/6/18/015) | Table 4, p. 7, row 165; `ORC-UC6DXOOHZW.23c988` |  |
+| -2.3 kJ/mol-atom | AlLi3(L12) |  | DFT | Ab-initio | [Al–Li](https://data.orchid-project.org/systems/AL-LI.html) | [1] Long 2020; _cites Sluiter 1996_ [doi](https://doi.org/10.1103/physrevb.53.6137) | Table 4, p. 7, row 166; `ORC-73YU4NVCO3.6b4117` |  |
 
 ### Uncertainty budget
 
@@ -107,4 +107,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

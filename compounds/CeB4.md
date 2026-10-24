@@ -14,16 +14,16 @@ Table: Enthalpy of formation of CeB4 reported in the literature (10)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -53.5 kJ/mol-atom ± 1.5 | B4Ce | 298.15 | experimental | Experiments | [B–Ce](https://data.orchid-project.org/systems/B-CE.html) | [1] Premović 2017; _cites Samsonov 1956_ | Table 6, p. 8, row 2 |  |
-| -49.904 kJ/mol-atom | CeB4 | 298.15 | experimental | Experiment | [B–Ce](https://data.orchid-project.org/systems/B-CE.html) | [2] Li 2020; _cites ref. 32_ | Table 2, p. 25, row 5 |  |
-| -56.288 kJ/mol-atom | CeB4 |  | model | Optimization | [B–Ce](https://data.orchid-project.org/systems/B-CE.html) | [2] Li 2020 | Table 2, p. 25, row 6 |  |
-| -53.62 kJ/mol-atom | CeB4 |  | model | Calculation | [B–Ce](https://data.orchid-project.org/systems/B-CE.html) | [2] Li 2020; _cites ref. 21_ | Table 2, p. 25, row 1 |  |
-| -51.339 kJ/mol-atom | CeB4 |  | model | Calculation | [B–Ce](https://data.orchid-project.org/systems/B-CE.html) | [2] Li 2020; _cites ref. 22_ | Table 2, p. 25, row 2 |  |
-| -51.339 kJ/mol-atom | B4Ce |  | model | Optimized | [B–Ce](https://data.orchid-project.org/systems/B-CE.html) | [1] Premović 2017 | Table 6, p. 8, row 4 |  |
-| -65.034 kJ/mol-atom | B4Ce |  | DFT | First-principles | [B–Ce](https://data.orchid-project.org/systems/B-CE.html) | [1] Premović 2017 | Table 6, p. 8, row 8 |  |
-| -62.7 kJ/mol-atom | B4Ce |  | DFT | First-principles | [B–Ce](https://data.orchid-project.org/systems/B-CE.html) | [1] Premović 2017; _cites Persson 2016_ | Table 6, p. 8, row 6 |  |
-| -60.385 kJ/mol-atom | CeB4 |  | DFT | First-principle calculation | [B–Ce](https://data.orchid-project.org/systems/B-CE.html) | [2] Li 2020; _cites ref. 31_ | Table 2, p. 25, row 4 |  |
-| -53.5 kJ/mol-atom ± 1.5 | CeB4 |  | DFT | First-principle calculation | [B–Ce](https://data.orchid-project.org/systems/B-CE.html) | [2] Li 2020; _cites ref. 30_ | Table 2, p. 25, row 3 |  |
+| -53.5 kJ/mol-atom ± 1.5 | B4Ce | 298.15 | experimental | Experiments | [B–Ce](https://data.orchid-project.org/systems/B-CE.html) | [1] Premović 2017; _cites Samsonov 1956_ | Table 6, p. 8, row 2; `ORC-QCFZKOEYX3` |  |
+| -49.904 kJ/mol-atom | CeB4 | 298.15 | experimental | Experiment | [B–Ce](https://data.orchid-project.org/systems/B-CE.html) | [2] Li 2020; _cites ref. 32_ | Table 2, p. 25, row 5; `ORC-XGTVCVN6TQ` |  |
+| -56.288 kJ/mol-atom | CeB4 |  | model | Optimization | [B–Ce](https://data.orchid-project.org/systems/B-CE.html) | [2] Li 2020 | Table 2, p. 25, row 6; `ORC-V4BX7JUTBC` |  |
+| -53.62 kJ/mol-atom | CeB4 |  | model | Calculation | [B–Ce](https://data.orchid-project.org/systems/B-CE.html) | [2] Li 2020; _cites ref. 21_ | Table 2, p. 25, row 1; `ORC-34KIRCKO2K` |  |
+| -51.339 kJ/mol-atom | CeB4 |  | model | Calculation | [B–Ce](https://data.orchid-project.org/systems/B-CE.html) | [2] Li 2020; _cites ref. 22_ | Table 2, p. 25, row 2; `ORC-3GHGTQWAYY` |  |
+| -51.339 kJ/mol-atom | B4Ce |  | model | Optimized | [B–Ce](https://data.orchid-project.org/systems/B-CE.html) | [1] Premović 2017 | Table 6, p. 8, row 4; `ORC-LUWIRZXFIS` |  |
+| -65.034 kJ/mol-atom | B4Ce |  | DFT | First-principles | [B–Ce](https://data.orchid-project.org/systems/B-CE.html) | [1] Premović 2017 | Table 6, p. 8, row 8; `ORC-XBERMTGZVT` |  |
+| -62.7 kJ/mol-atom | B4Ce |  | DFT | First-principles | [B–Ce](https://data.orchid-project.org/systems/B-CE.html) | [1] Premović 2017; _cites Persson 2016_ | Table 6, p. 8, row 6; `ORC-MQ3N5VT3XO` |  |
+| -60.385 kJ/mol-atom | CeB4 |  | DFT | First-principle calculation | [B–Ce](https://data.orchid-project.org/systems/B-CE.html) | [2] Li 2020; _cites ref. 31_ | Table 2, p. 25, row 4; `ORC-GFLVH44A2I` |  |
+| -53.5 kJ/mol-atom ± 1.5 | CeB4 |  | DFT | First-principle calculation | [B–Ce](https://data.orchid-project.org/systems/B-CE.html) | [2] Li 2020; _cites ref. 30_ | Table 2, p. 25, row 3; `ORC-SQH32E73M5` |  |
 
 ### Uncertainty budget
 
@@ -109,4 +109,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -14,10 +14,10 @@ Table: Enthalpy of formation of CaO2 reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -219.667 kJ/mol-atom | CaO2(cr) | 298.15 | model |  | [Ca–O](https://data.orchid-project.org/systems/CA-O.html) | [1] Deffrennes 2020; _cites Lindberg 2009_ [doi](https://doi.org/10.1016/j.jct.2009.04.018) | Table 3, p. 17, row 13 |  |
-| -217.567 kJ/mol-atom | CaO2(cr) | 298.15 | model |  | [Ca–O](https://data.orchid-project.org/systems/CA-O.html) | [1] Deffrennes 2020; _cites Liang 2018_ [doi](https://doi.org/10.1016/j.jeurceramsoc.2018.06.015) | Table 3, p. 17, row 12 |  |
-| -216.033 kJ/mol-atom | CaO2(cr) | 298.15 | model |  | [Ca–O](https://data.orchid-project.org/systems/CA-O.html) | [1] Deffrennes 2020 | Table 3, p. 17, row 11 |  |
-| -216.033 kJ/mol-atom | CaO2(cr) | 298.15 | DFT |  | [Ca–O](https://data.orchid-project.org/systems/CA-O.html) | [1] Deffrennes 2020; _cites Pisch_ | Table 3, p. 17, row 14 |  |
+| -219.667 kJ/mol-atom | CaO2(cr) | 298.15 | model |  | [Ca–O](https://data.orchid-project.org/systems/CA-O.html) | [1] Deffrennes 2020; _cites Lindberg 2009_ [doi](https://doi.org/10.1016/j.jct.2009.04.018) | Table 3, p. 17, row 13; `ORC-2XXL6EGLXQ.a44990` |  |
+| -217.567 kJ/mol-atom | CaO2(cr) | 298.15 | model |  | [Ca–O](https://data.orchid-project.org/systems/CA-O.html) | [1] Deffrennes 2020; _cites Liang 2018_ [doi](https://doi.org/10.1016/j.jeurceramsoc.2018.06.015) | Table 3, p. 17, row 12; `ORC-IOMQXHHZHX.39b429` |  |
+| -216.033 kJ/mol-atom | CaO2(cr) | 298.15 | model |  | [Ca–O](https://data.orchid-project.org/systems/CA-O.html) | [1] Deffrennes 2020 | Table 3, p. 17, row 11; `ORC-EONGZNVMF4.e5cd6e` |  |
+| -216.033 kJ/mol-atom | CaO2(cr) | 298.15 | DFT |  | [Ca–O](https://data.orchid-project.org/systems/CA-O.html) | [1] Deffrennes 2020; _cites Pisch_ | Table 3, p. 17, row 14; `ORC-32IJWP2DCH.19497d` |  |
 
 ### Uncertainty budget
 
@@ -96,4 +96,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

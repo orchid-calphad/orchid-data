@@ -33,8 +33,8 @@ Table: Invariant reactions reported in the literature for the N–Zr system (2)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2261 | peritectic: liquid + ZrNy ↔ (␣Zr) |  | experimental | [1] Ma 2004; _cites Domagala 1956_ | p. 2 | “Using metallographic, X-rays, and incipient melting analysis, Domagala et al. \[12\] studied the nitrogen diffusion in (␤Zr), (␣Zr), and ZrNy phases and determined the temperatures and compositions for the peritectic reactions: Liquid + (␣Zr) ↔ (␤Zr) at 2156 K with compositions of 4.4 ± 0.7 at.% N, 16.8 ± 0.7 at.% N and 5.0 ± 1.1 at.% N, respectively; and liquid + ZrNy ↔ (␣Zr) at 2261 K with compos…” |
-| 2156 | peritectic: Liquid + (␣Zr) ↔ (␤Zr) |  | experimental | [1] Ma 2004; _cites Domagala 1956_ | p. 2 | “Using metallographic, X-rays, and incipient melting analysis, Domagala et al. \[12\] studied the nitrogen diffusion in (␤Zr), (␣Zr), and ZrNy phases and determined the temperatures and compositions for the peritectic reactions: Liquid + (␣Zr) ↔ (␤Zr) at 2156 K with compositions of 4.4 ± 0.7 at.% N, 16.8 ± 0.7 at.% N and 5.0 ± 1.1 at.% N, respectively; and liquid + ZrNy ↔ (␣Zr) at 2261 K with compos…” |
+| 2261 | peritectic: liquid + ZrNy ↔ (␣Zr) |  | experimental | [1] Ma 2004; _cites Domagala 1956_ | p. 2; `ORC-H67XNK4HRH.9d6bc7` | “Using metallographic, X-rays, and incipient melting analysis, Domagala et al. \[12\] studied the nitrogen diffusion in (␤Zr), (␣Zr), and ZrNy phases and determined the temperatures and compositions for the peritectic reactions: Liquid + (␣Zr) ↔ (␤Zr) at 2156 K with compositions of 4.4 ± 0.7 at.% N, 16.8 ± 0.7 at.% N and 5.0 ± 1.1 at.% N, respectively; and liquid + ZrNy ↔ (␣Zr) at 2261 K with compos…” |
+| 2156 | peritectic: Liquid + (␣Zr) ↔ (␤Zr) |  | experimental | [1] Ma 2004; _cites Domagala 1956_ | p. 2; `ORC-H67XNK4HRH.7a4d3c` | “Using metallographic, X-rays, and incipient melting analysis, Domagala et al. \[12\] studied the nitrogen diffusion in (␤Zr), (␣Zr), and ZrNy phases and determined the temperatures and compositions for the peritectic reactions: Liquid + (␣Zr) ↔ (␤Zr) at 2156 K with compositions of 4.4 ± 0.7 at.% N, 16.8 ± 0.7 at.% N and 5.0 ± 1.1 at.% N, respectively; and liquid + ZrNy ↔ (␣Zr) at 2261 K with compos…” |
 
 ## Formation enthalpies
 
@@ -44,32 +44,32 @@ Table: Enthalpies of formation, N–Zr system (26)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| (αZr) |  | -61.703 kJ/mol-atom | 298.15 | experimental |  |  | [1] Ma 2004; _cites Galbraikh 1970_ | Table 2, p. 2, row 13 |  |
-| ZrN |  | -208.299 kJ/mol-atom | 0 | DFT |  |  | [1] Ma 2004 | Table 3, p. 3, row 2 |  |
-| ZrN | [ZrN](https://data.orchid-project.org/compounds/ZrN.html) | -203 kJ/mol-atom |  | model | -179.476 (mp-aaaaacaa) | -172.271 (oqmd-2170562) | [1] Ma 2004; _cites Fernandez 1992_ [doi](https://doi.org/10.1103/physrevb.45.11557) | Table 3, p. 3, row 11 |  |
-| ZrN | [ZrN](https://data.orchid-project.org/compounds/ZrN.html) | -184.515 kJ/mol-atom | 298.15 | experimental | -179.476 (mp-aaaaacaa) | -172.271 (oqmd-2170562) | [1] Ma 2004; _cites Galbraikh 1970_ | Table 2, p. 2, row 18 |  |
-| ZrN | [ZrN](https://data.orchid-project.org/compounds/ZrN.html) | -184.515 kJ/mol-atom | 298.15 | experimental | -179.476 (mp-aaaaacaa) | -172.271 (oqmd-2170562) | [1] Ma 2004; _cites Galbraikh 1970_ | Table 3, p. 3, row 9 |  |
-| ZrN | [ZrN](https://data.orchid-project.org/compounds/ZrN.html) | -183.887 kJ/mol-atom | 298.15 | experimental | -179.476 (mp-aaaaacaa) | -172.271 (oqmd-2170562) | [1] Ma 2004; _cites Smagina 1961_ | Table 2, p. 2, row 17 |  |
-| ZrN | [ZrN](https://data.orchid-project.org/compounds/ZrN.html) | -183.887 kJ/mol-atom | 298.15 | experimental | -179.476 (mp-aaaaacaa) | -172.271 (oqmd-2170562) | [1] Ma 2004; _cites Smagina 1961_ | Table 3, p. 3, row 8 |  |
-| ZrN | [ZrN](https://data.orchid-project.org/compounds/ZrN.html) | -182.75 kJ/mol-atom | 298.15 | experimental | -179.476 (mp-aaaaacaa) | -172.271 (oqmd-2170562) | [1] Ma 2004; _cites Brandes 1983_ | Table 2, p. 2, row 19 |  |
-| ZrN | [ZrN](https://data.orchid-project.org/compounds/ZrN.html) | -182.75 kJ/mol-atom | 298.15 | experimental | -179.476 (mp-aaaaacaa) | -172.271 (oqmd-2170562) | [1] Ma 2004; _cites Brandes 1983_ | Table 3, p. 3, row 10 |  |
-| ZrN |  | -166.448 kJ/mol-atom | 0 | DFT |  |  | [1] Ma 2004 | Table 3, p. 3, row 1 |  |
-| ZrN0.5 |  | -219.829 kJ/mol-atom | 0 | DFT |  |  | [1] Ma 2004 | Table 4, p. 3, row 3 |  |
-| ZrN0.5 |  | -130.064 kJ/mol-atom | 0 | DFT |  |  | [1] Ma 2004 | Table 4, p. 3, row 4 |  |
-| ZrN3 |  | 67.3936 kJ/mol-atom | 0 | DFT |  |  | [1] Ma 2004 | Table 4, p. 3, row 2 |  |
-| ZrN3 |  | 108.517 kJ/mol-atom | 0 | DFT |  |  | [1] Ma 2004 | Table 4, p. 3, row 1 |  |
-| ZrNy |  | 340.166 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Ma 2004; _cites Smagina 1961_ | Table 2, p. 2, row 27 |  |
-| ZrNy |  | 347.224 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Ma 2004; _cites Smagina 1961_ | Table 2, p. 2, row 26 |  |
-| ZrNy |  | 364.828 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Ma 2004; _cites Smagina 1961_ | Table 2, p. 2, row 22 |  |
-| ZrNy |  | 370.262 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Ma 2004; _cites Hoch 1955_ [doi](https://doi.org/10.1021/ja01607a015) | Table 2, p. 2, row 24 |  |
-| ZrNy |  | 371.162 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Ma 2004; _cites Galbraikh 1970_ | Table 2, p. 2, row 23 |  |
-| ZrNy |  | 373.96 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Ma 2004; _cites Galbraikh 1970_ | Table 2, p. 2, row 25 |  |
-| ZrNy |  | 384.046 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Ma 2004; _cites Galbraikh 1970_ | Table 2, p. 2, row 21 |  |
-| bcc |  | 434.069 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Ma 2004 | Table 4, p. 3, row 1 |  |
-| bcc |  | 1078.3 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Ma 2004 | Table 4, p. 3, row 2 |  |
-| hcp |  | -329.743 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Ma 2004 | Table 4, p. 3, row 3 |  |
-| hcp |  | -195.096 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Ma 2004 | Table 4, p. 3, row 4 |  |
-| αZr |  | -93.366 kJ/mol-atom | 298.15 | experimental |  |  | [1] Ma 2004; _cites Galbraikh 1970_ | Table 2, p. 2, row 14 |  |
+| (αZr) |  | -61.703 kJ/mol-atom | 298.15 | experimental |  |  | [1] Ma 2004; _cites Galbraikh 1970_ | Table 2, p. 2, row 13; `ORC-LI75RO5UOF.0e04e4` |  |
+| ZrN |  | -208.299 kJ/mol-atom | 0 | DFT |  |  | [1] Ma 2004 | Table 3, p. 3, row 2; `ORC-4JQVV3PXLX` |  |
+| ZrN | [ZrN](https://data.orchid-project.org/compounds/ZrN.html) | -203 kJ/mol-atom |  | model | -179.476 (mp-aaaaacaa) | -172.271 (oqmd-2170562) | [1] Ma 2004; _cites Fernandez 1992_ [doi](https://doi.org/10.1103/physrevb.45.11557) | Table 3, p. 3, row 11; `ORC-65SIUZEL4Y` |  |
+| ZrN | [ZrN](https://data.orchid-project.org/compounds/ZrN.html) | -184.515 kJ/mol-atom | 298.15 | experimental | -179.476 (mp-aaaaacaa) | -172.271 (oqmd-2170562) | [1] Ma 2004; _cites Galbraikh 1970_ | Table 2, p. 2, row 18; `ORC-2S4RICR2I2` |  |
+| ZrN | [ZrN](https://data.orchid-project.org/compounds/ZrN.html) | -184.515 kJ/mol-atom | 298.15 | experimental | -179.476 (mp-aaaaacaa) | -172.271 (oqmd-2170562) | [1] Ma 2004; _cites Galbraikh 1970_ | Table 3, p. 3, row 9; `ORC-5TQGCKQWLN` |  |
+| ZrN | [ZrN](https://data.orchid-project.org/compounds/ZrN.html) | -183.887 kJ/mol-atom | 298.15 | experimental | -179.476 (mp-aaaaacaa) | -172.271 (oqmd-2170562) | [1] Ma 2004; _cites Smagina 1961_ | Table 2, p. 2, row 17; `ORC-MXSGT23H34` |  |
+| ZrN | [ZrN](https://data.orchid-project.org/compounds/ZrN.html) | -183.887 kJ/mol-atom | 298.15 | experimental | -179.476 (mp-aaaaacaa) | -172.271 (oqmd-2170562) | [1] Ma 2004; _cites Smagina 1961_ | Table 3, p. 3, row 8; `ORC-XXEI5GGVM3` |  |
+| ZrN | [ZrN](https://data.orchid-project.org/compounds/ZrN.html) | -182.75 kJ/mol-atom | 298.15 | experimental | -179.476 (mp-aaaaacaa) | -172.271 (oqmd-2170562) | [1] Ma 2004; _cites Brandes 1983_ | Table 2, p. 2, row 19; `ORC-AZGIARAFDR` |  |
+| ZrN | [ZrN](https://data.orchid-project.org/compounds/ZrN.html) | -182.75 kJ/mol-atom | 298.15 | experimental | -179.476 (mp-aaaaacaa) | -172.271 (oqmd-2170562) | [1] Ma 2004; _cites Brandes 1983_ | Table 3, p. 3, row 10; `ORC-OOLIA2EMJD` |  |
+| ZrN |  | -166.448 kJ/mol-atom | 0 | DFT |  |  | [1] Ma 2004 | Table 3, p. 3, row 1; `ORC-AFEDLPSM2Q` |  |
+| ZrN0.5 |  | -219.829 kJ/mol-atom | 0 | DFT |  |  | [1] Ma 2004 | Table 4, p. 3, row 3; `ORC-HHS33ED37A.ee4215` |  |
+| ZrN0.5 |  | -130.064 kJ/mol-atom | 0 | DFT |  |  | [1] Ma 2004 | Table 4, p. 3, row 4; `ORC-I5LXTETNSJ.97ec1d` |  |
+| ZrN3 |  | 67.3936 kJ/mol-atom | 0 | DFT |  |  | [1] Ma 2004 | Table 4, p. 3, row 2; `ORC-MEZEELF2S3.15e327` |  |
+| ZrN3 |  | 108.517 kJ/mol-atom | 0 | DFT |  |  | [1] Ma 2004 | Table 4, p. 3, row 1; `ORC-D53VJ4EBKD.65df80` |  |
+| ZrNy |  | 340.166 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Ma 2004; _cites Smagina 1961_ | Table 2, p. 2, row 27; `ORC-5V5TMFDA7X` |  |
+| ZrNy |  | 347.224 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Ma 2004; _cites Smagina 1961_ | Table 2, p. 2, row 26; `ORC-5EVVFGQR4I` |  |
+| ZrNy |  | 364.828 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Ma 2004; _cites Smagina 1961_ | Table 2, p. 2, row 22; `ORC-GCPIR7CCVI` |  |
+| ZrNy |  | 370.262 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Ma 2004; _cites Hoch 1955_ [doi](https://doi.org/10.1021/ja01607a015) | Table 2, p. 2, row 24; `ORC-OSKRTELVRD` |  |
+| ZrNy |  | 371.162 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Ma 2004; _cites Galbraikh 1970_ | Table 2, p. 2, row 23; `ORC-3JCLMD7FGO` |  |
+| ZrNy |  | 373.96 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Ma 2004; _cites Galbraikh 1970_ | Table 2, p. 2, row 25; `ORC-LKMKITCY35` |  |
+| ZrNy |  | 384.046 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Ma 2004; _cites Galbraikh 1970_ | Table 2, p. 2, row 21; `ORC-LLC2XZVFCW` |  |
+| bcc |  | 434.069 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Ma 2004 | Table 4, p. 3, row 1; `ORC-D53VJ4EBKD.7a37c9` |  |
+| bcc |  | 1078.3 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Ma 2004 | Table 4, p. 3, row 2; `ORC-MEZEELF2S3.ee027f` |  |
+| hcp |  | -329.743 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Ma 2004 | Table 4, p. 3, row 3; `ORC-HHS33ED37A.30e009` |  |
+| hcp |  | -195.096 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Ma 2004 | Table 4, p. 3, row 4; `ORC-I5LXTETNSJ.fa5fa5` |  |
+| αZr |  | -93.366 kJ/mol-atom | 298.15 | experimental |  |  | [1] Ma 2004; _cites Galbraikh 1970_ | Table 2, p. 2, row 14; `ORC-TDKQYWMQ63.00a265` |  |
 
 ## Other properties
 
@@ -79,9 +79,9 @@ Table: Heat capacity / entropy / enthalpy, N–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: S298 K_ | 19.45 J/mol-atom/K | 298.15 | ZrN; _alloy: Zr 0.5_ | experimental | [1] Ma 2004; _cites Brandes 1983_ | Table 2, p. 2, row 16 |  |
-| Entropy; _printed: S298 K_ | 19.2 J/mol-atom/K | 298.15 | ZrN; _alloy: Zr 0.5_ | experimental | [1] Ma 2004; _cites Storms 1964_ | Table 2, p. 2, row 15 |  |
-| Heat capacity; _printed: Cp298K_ | 20.2 J/mol-atom/K | 298.15 | ZrN; _alloy: Zr 0.5_ | experimental | [1] Ma 2004; _cites Storms 1964_ | Table 2, p. 2, row 20 |  |
+| Entropy; _printed: S298 K_ | 19.45 J/mol-atom/K | 298.15 | ZrN; _alloy: Zr 0.5_ | experimental | [1] Ma 2004; _cites Brandes 1983_ | Table 2, p. 2, row 16; `ORC-ER235CFZHY` |  |
+| Entropy; _printed: S298 K_ | 19.2 J/mol-atom/K | 298.15 | ZrN; _alloy: Zr 0.5_ | experimental | [1] Ma 2004; _cites Storms 1964_ | Table 2, p. 2, row 15; `ORC-ZU4TKNVCY7` |  |
+| Heat capacity; _printed: Cp298K_ | 20.2 J/mol-atom/K | 298.15 | ZrN; _alloy: Zr 0.5_ | experimental | [1] Ma 2004; _cites Storms 1964_ | Table 2, p. 2, row 20; `ORC-SPLMZTGDQS` |  |
 
 ### Crystal structure (6)
 
@@ -89,12 +89,12 @@ Table: Crystal structure, N–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a; _printed: a_ | 4.62 Å | 0 | ZrN; _alloy: Zr 0.5_ | DFT | [1] Ma 2004 | Table 3, p. 3, row 2 |  |
-| Lattice a; _printed: a_ | 4.55 Å | 0 | ZrN; _alloy: Zr 0.5_ | DFT | [1] Ma 2004 | Table 3, p. 3, row 1 |  |
-| Lattice a; _printed: a_ | 4.585 Å | 298.15 | ZrN; _alloy: Zr 0.5_ | experimental | [1] Ma 2004; _cites Inorganic_ | Table 3, p. 3, row 3 |  |
-| Lattice a; _printed: a_ | 4.63 Å | 298.15 | ZrN; _alloy: Zr 0.5_ | experimental | [1] Ma 2004; _cites Inorganic_ | Table 3, p. 3, row 6 |  |
-| Lattice a; _printed: a_ | 4.5745 Å | 298.15 | ZrN; _alloy: Zr 0.5_ | experimental | [1] Ma 2004; _cites Inorganic_ | Table 3, p. 3, row 4 |  |
-| Lattice a; _printed: a_ | 4.5773 Å | 298.15 | ZrN; _alloy: Zr 0.5_ | experimental | [1] Ma 2004; _cites Inorganic_ | Table 3, p. 3, row 5 |  |
+| Lattice a; _printed: a_ | 4.62 Å | 0 | ZrN; _alloy: Zr 0.5_ | DFT | [1] Ma 2004 | Table 3, p. 3, row 2; `ORC-4SITXGN36V` |  |
+| Lattice a; _printed: a_ | 4.55 Å | 0 | ZrN; _alloy: Zr 0.5_ | DFT | [1] Ma 2004 | Table 3, p. 3, row 1; `ORC-LHIDZS77WJ` |  |
+| Lattice a; _printed: a_ | 4.585 Å | 298.15 | ZrN; _alloy: Zr 0.5_ | experimental | [1] Ma 2004; _cites Inorganic_ | Table 3, p. 3, row 3; `ORC-JZVY3DIAUR` |  |
+| Lattice a; _printed: a_ | 4.63 Å | 298.15 | ZrN; _alloy: Zr 0.5_ | experimental | [1] Ma 2004; _cites Inorganic_ | Table 3, p. 3, row 6; `ORC-PIOTKC4HSW` |  |
+| Lattice a; _printed: a_ | 4.5745 Å | 298.15 | ZrN; _alloy: Zr 0.5_ | experimental | [1] Ma 2004; _cites Inorganic_ | Table 3, p. 3, row 4; `ORC-UBIDHNPVN5` |  |
+| Lattice a; _printed: a_ | 4.5773 Å | 298.15 | ZrN; _alloy: Zr 0.5_ | experimental | [1] Ma 2004; _cites Inorganic_ | Table 3, p. 3, row 5; `ORC-ZBWOZ3ITIE` |  |
 
 ## Sources
 
@@ -148,4 +148,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

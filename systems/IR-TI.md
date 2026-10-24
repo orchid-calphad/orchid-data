@@ -53,37 +53,37 @@ Table: Invariant reactions reported in the literature for the Ir–Ti system (31
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2588.15 | peritectic: L + (Ir) -> TiIr3 | L: Ir 0.695; (Ir): Ir 0.882; TiIr3: Ir 0.751 | experimental | [1] Wang 2014; _cites Eremenko 1970_ | Table 3, p. 5, row 6 |  |
-| 2588.15 | peritectic |  | experimental | [1] Wang 2014; _cites Eremenko 1970_ | p. 1 | “Based on microstructural evidence, Croeni et al.\[12\] and Eremenko et al.\[7\] reported that TiIr3 precipitated from the liquid by a peritectic reaction. However, there is a large discrepancy in their reported peritectic temperatures, i.e. 2115 °C\[12\] and 2315 °C.\[7\]” |
-| 2413.15 | congruent melting: L -> γTiIr | γTiIr: Ir 0.5 | experimental | [1] Wang 2014; _cites Croeni 1962_ | Table 3, p. 5, row 1 |  |
-| 2403.15 | congruent melting: L -> γTiIr | γTiIr: Ir 0.476 | model | [1] Wang 2014 | Table 3, p. 5, row 4 |  |
-| 2403.15 | congruent melting: L -> γTiIr | γTiIr: Ir 0.5 | experimental | [1] Wang 2014; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02667568) | Table 3, p. 5, row 3 |  |
-| 2393.15 | congruent melting: L -> γTiIr | γTiIr: Ir 0.5 | experimental | [1] Wang 2014; _cites Eremenko 1970_ | Table 3, p. 5, row 2 |  |
-| 2388.15 | peritectic: L + (Ir) -> TiIr3 | L: Ir 0.74; (Ir): Ir 0.89; TiIr3: Ir 0.77 | experimental | [1] Wang 2014; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02667568) | Table 3, p. 5, row 7 |  |
-| 2388.15 | peritectic: L + (Ir) -> TiIr3 | L: Ir 0.697; (Ir): Ir 0.86; TiIr3: Ir 0.75 | experimental | [1] Wang 2014; _cites Croeni 1962_ | Table 3, p. 5, row 5 |  |
-| 2388.15 | peritectic: L + (Ir) -> TiIr3 | L: Ir 0.728; (Ir): Ir 0.9; TiIr3: Ir 0.773 | model | [1] Wang 2014 | Table 3, p. 5, row 8 |  |
-| 2388.15 | peritectic |  | experimental | [1] Wang 2014; _cites Croeni 1962_ | p. 1 | “Based on microstructural evidence, Croeni et al.\[12\] and Eremenko et al.\[7\] reported that TiIr3 precipitated from the liquid by a peritectic reaction. However, there is a large discrepancy in their reported peritectic temperatures, i.e. 2115 °C\[12\] and 2315 °C.\[7\]” |
-| 2274.15 | eutectic: L -> γTiIr + TiIr3 | L: Ir 0.619; γTiIr: Ir 0.573; TiIr3: Ir 0.722 | model | [1] Wang 2014 | Table 3, p. 5, row 12 |  |
-| 2273.15 | eutectic: L -> γTiIr + TiIr3 | L: Ir 0.6; γTiIr: Ir 0.575; TiIr3: Ir 0.73 | experimental | [1] Wang 2014; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02667568) | Table 3, p. 5, row 11 |  |
-| 2273.15 | eutectic: L -> γTiIr + TiIr3 | L: Ir 0.6; γTiIr: Ir 0.584; TiIr3: Ir 0.695 | experimental | [1] Wang 2014; _cites Eremenko 1970_ | Table 3, p. 5, row 10 |  |
-| 2273.15 | eutectic: L -> γTiIr + TiIr3 | L: Ir 0.6; γTiIr: Ir 0.575; TiIr3: Ir 0.75 | experimental | [1] Wang 2014; _cites Croeni 1962_ | Table 3, p. 5, row 9 |  |
-| 2024.15 | peritectoid: TiIr3 + γTiIr -> βTiIr | TiIr3: Ir 0.725; γTiIr: Ir 0.565; βTiIr: Ir 0.571 | model | [1] Wang 2014 | Table 3, p. 5, row 16 |  |
-| 2023.15 | peritectoid: TiIr3 + γTiIr -> βTiIr | TiIr3: Ir 0.75, Ti 0.25; γTiIr: Ir 0.5, Ti 0.5; βTiIr: Ir 0.5, Ti 0.5 | experimental | [1] Wang 2014; _cites Croeni 1962_ | Table 3, p. 5, row 13 |  |
-| 2023.15 | peritectoid: TiIr3 + γTiIr -> βTiIr | TiIr3: Ir 0.75, Ti 0.25; γTiIr: Ir 0.5, Ti 0.5; βTiIr: Ir 0.5, Ti 0.5 | experimental | [1] Wang 2014; _cites Eremenko 1970_ | Table 3, p. 5, row 14 |  |
-| 2023.15 | peritectoid: TiIr3 + γTiIr -> βTiIr | TiIr3: Ir 0.73; γTiIr: Ir 0.575; βTiIr: Ir 0.59 | experimental | [1] Wang 2014; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02667568) | Table 3, p. 5, row 15 |  |
-| 1793.15 | peritectic: L + γTiIr -> Ti3Ir | L: Ir 0.227; γTiIr: Ir 0.384; Ti3Ir: Ir 0.25 | experimental | [1] Wang 2014; _cites Croeni 1962_ | Table 3, p. 5, row 17 |  |
-| 1789.15 | peritectic: L + γTiIr -> Ti3Ir | L: Ir 0.212; γTiIr: Ir 0.354; Ti3Ir: Ir 0.268 | model | [1] Wang 2014 | Table 3, p. 5, row 20 |  |
-| 1788.15 | peritectic: L + γTiIr -> Ti3Ir | L: Ir 0.23; γTiIr: Ir 0.35; Ti3Ir: Ir 0.27 | experimental | [1] Wang 2014; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02667568) | Table 3, p. 5, row 19 |  |
-| 1783.15 | peritectic: L + γTiIr -> Ti3Ir | L: Ir 0.224; γTiIr: Ir 0.342; Ti3Ir: Ir 0.25 | experimental | [1] Wang 2014; _cites Eremenko 1970_ | Table 3, p. 5, row 18 |  |
-| 1748.15 | eutectic: L -> Ti3Ir + (βTi) | L: Ir 0.19; Ti3Ir: Ir 0.25; (βTi): Ir 0.149 | experimental | [1] Wang 2014; _cites Croeni 1962_ | Table 3, p. 5, row 21 |  |
-| 1741.15 | eutectic: L -> Ti3Ir + (βTi) | L: Ir 0.17; Ti3Ir: Ir 0.25; (βTi): Ir 0.15 | experimental | [1] Wang 2014; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02667568) | Table 3, p. 5, row 23 |  |
-| 1740.15 | eutectic: L -> Ti3Ir + (βTi) | L: Ir 0.187; Ti3Ir: Ir 0.251; (βTi): Ir 0.17 | model | [1] Wang 2014 | Table 3, p. 5, row 24 |  |
-| 1733.15 | eutectic: L -> Ti3Ir + (βTi) | L: Ir 0.2; Ti3Ir: Ir 0.25; (βTi): Ir 0.163 | experimental | [1] Wang 2014; _cites Eremenko 1970_ | Table 3, p. 5, row 22 |  |
-| 993.15 | eutectoid: (βTi) -> (αTi) + Ti3Ir | (βTi): Ir 0.05; (αTi): Ir 0.01; Ti3Ir: Ir 0.25 | experimental | [1] Wang 2014; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02667568) | Table 3, p. 5, row 28 |  |
-| 992.15 | eutectoid: (βTi) -> (αTi) + Ti3Ir | (βTi): Ir 0.041; (αTi): Ir 0.004; Ti3Ir: Ir 0.247 | model | [1] Wang 2014 | Table 3, p. 5, row 29 |  |
-| 973.15 | eutectoid: (βTi) -> (αTi) + Ti3Ir | Ti3Ir: Ir 0.25, Ti 0.75 | experimental | [1] Wang 2014; _cites Kandarpa 1977_ | Table 3, p. 5, row 27 |  |
-| 773.15 | eutectoid: (βTi) -> (αTi) + Ti3Ir | (βTi): Ir 0.05; Ti3Ir: Ir 0.25, Ti 0.75 | experimental | [1] Wang 2014; _cites Eremenko 1970_ | Table 3, p. 5, row 26 |  |
-| 773.15 | eutectoid: (βTi) -> (αTi) + Ti3Ir | (βTi): Ir 0.1; Ti3Ir: Ir 0.25, Ti 0.75 | experimental | [1] Wang 2014; _cites Croeni 1962_ | Table 3, p. 5, row 25 |  |
+| 2588.15 | peritectic: L + (Ir) -> TiIr3 | L: Ir 0.695; (Ir): Ir 0.882; TiIr3: Ir 0.751 | experimental | [1] Wang 2014; _cites Eremenko 1970_ | Table 3, p. 5, row 6; `ORC-WAXNHP3Z4H` |  |
+| 2588.15 | peritectic |  | experimental | [1] Wang 2014; _cites Eremenko 1970_ | p. 1; `ORC-YZZOFRVBOR.3ccf4c` | “Based on microstructural evidence, Croeni et al.\[12\] and Eremenko et al.\[7\] reported that TiIr3 precipitated from the liquid by a peritectic reaction. However, there is a large discrepancy in their reported peritectic temperatures, i.e. 2115 °C\[12\] and 2315 °C.\[7\]” |
+| 2413.15 | congruent melting: L -> γTiIr | γTiIr: Ir 0.5 | experimental | [1] Wang 2014; _cites Croeni 1962_ | Table 3, p. 5, row 1; `ORC-463PVB523A` |  |
+| 2403.15 | congruent melting: L -> γTiIr | γTiIr: Ir 0.476 | model | [1] Wang 2014 | Table 3, p. 5, row 4; `ORC-5KI534Q6XH` |  |
+| 2403.15 | congruent melting: L -> γTiIr | γTiIr: Ir 0.5 | experimental | [1] Wang 2014; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02667568) | Table 3, p. 5, row 3; `ORC-HI5TNQOHIS` |  |
+| 2393.15 | congruent melting: L -> γTiIr | γTiIr: Ir 0.5 | experimental | [1] Wang 2014; _cites Eremenko 1970_ | Table 3, p. 5, row 2; `ORC-LPRUEFMGBB` |  |
+| 2388.15 | peritectic: L + (Ir) -> TiIr3 | L: Ir 0.74; (Ir): Ir 0.89; TiIr3: Ir 0.77 | experimental | [1] Wang 2014; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02667568) | Table 3, p. 5, row 7; `ORC-73S2KV2BHO` |  |
+| 2388.15 | peritectic: L + (Ir) -> TiIr3 | L: Ir 0.697; (Ir): Ir 0.86; TiIr3: Ir 0.75 | experimental | [1] Wang 2014; _cites Croeni 1962_ | Table 3, p. 5, row 5; `ORC-NQVY5QFOX3` |  |
+| 2388.15 | peritectic: L + (Ir) -> TiIr3 | L: Ir 0.728; (Ir): Ir 0.9; TiIr3: Ir 0.773 | model | [1] Wang 2014 | Table 3, p. 5, row 8; `ORC-TNNMYL4DWT` |  |
+| 2388.15 | peritectic |  | experimental | [1] Wang 2014; _cites Croeni 1962_ | p. 1; `ORC-YZZOFRVBOR.68b042` | “Based on microstructural evidence, Croeni et al.\[12\] and Eremenko et al.\[7\] reported that TiIr3 precipitated from the liquid by a peritectic reaction. However, there is a large discrepancy in their reported peritectic temperatures, i.e. 2115 °C\[12\] and 2315 °C.\[7\]” |
+| 2274.15 | eutectic: L -> γTiIr + TiIr3 | L: Ir 0.619; γTiIr: Ir 0.573; TiIr3: Ir 0.722 | model | [1] Wang 2014 | Table 3, p. 5, row 12; `ORC-TPIMFMOKO4` |  |
+| 2273.15 | eutectic: L -> γTiIr + TiIr3 | L: Ir 0.6; γTiIr: Ir 0.575; TiIr3: Ir 0.73 | experimental | [1] Wang 2014; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02667568) | Table 3, p. 5, row 11; `ORC-CBPHOD733R` |  |
+| 2273.15 | eutectic: L -> γTiIr + TiIr3 | L: Ir 0.6; γTiIr: Ir 0.584; TiIr3: Ir 0.695 | experimental | [1] Wang 2014; _cites Eremenko 1970_ | Table 3, p. 5, row 10; `ORC-O7SBYMR6U4` |  |
+| 2273.15 | eutectic: L -> γTiIr + TiIr3 | L: Ir 0.6; γTiIr: Ir 0.575; TiIr3: Ir 0.75 | experimental | [1] Wang 2014; _cites Croeni 1962_ | Table 3, p. 5, row 9; `ORC-XC7R5W3D23` |  |
+| 2024.15 | peritectoid: TiIr3 + γTiIr -> βTiIr | TiIr3: Ir 0.725; γTiIr: Ir 0.565; βTiIr: Ir 0.571 | model | [1] Wang 2014 | Table 3, p. 5, row 16; `ORC-ZUHDFEEPS2` |  |
+| 2023.15 | peritectoid: TiIr3 + γTiIr -> βTiIr | TiIr3: Ir 0.75, Ti 0.25; γTiIr: Ir 0.5, Ti 0.5; βTiIr: Ir 0.5, Ti 0.5 | experimental | [1] Wang 2014; _cites Croeni 1962_ | Table 3, p. 5, row 13; `ORC-7SSRWWHGWI` |  |
+| 2023.15 | peritectoid: TiIr3 + γTiIr -> βTiIr | TiIr3: Ir 0.75, Ti 0.25; γTiIr: Ir 0.5, Ti 0.5; βTiIr: Ir 0.5, Ti 0.5 | experimental | [1] Wang 2014; _cites Eremenko 1970_ | Table 3, p. 5, row 14; `ORC-AVJJIKQ5D7` |  |
+| 2023.15 | peritectoid: TiIr3 + γTiIr -> βTiIr | TiIr3: Ir 0.73; γTiIr: Ir 0.575; βTiIr: Ir 0.59 | experimental | [1] Wang 2014; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02667568) | Table 3, p. 5, row 15; `ORC-DFGG74U3NU` |  |
+| 1793.15 | peritectic: L + γTiIr -> Ti3Ir | L: Ir 0.227; γTiIr: Ir 0.384; Ti3Ir: Ir 0.25 | experimental | [1] Wang 2014; _cites Croeni 1962_ | Table 3, p. 5, row 17; `ORC-4P4I2YHZKN` |  |
+| 1789.15 | peritectic: L + γTiIr -> Ti3Ir | L: Ir 0.212; γTiIr: Ir 0.354; Ti3Ir: Ir 0.268 | model | [1] Wang 2014 | Table 3, p. 5, row 20; `ORC-FAXWS6AWYE` |  |
+| 1788.15 | peritectic: L + γTiIr -> Ti3Ir | L: Ir 0.23; γTiIr: Ir 0.35; Ti3Ir: Ir 0.27 | experimental | [1] Wang 2014; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02667568) | Table 3, p. 5, row 19; `ORC-N42OLFS3A3` |  |
+| 1783.15 | peritectic: L + γTiIr -> Ti3Ir | L: Ir 0.224; γTiIr: Ir 0.342; Ti3Ir: Ir 0.25 | experimental | [1] Wang 2014; _cites Eremenko 1970_ | Table 3, p. 5, row 18; `ORC-YO5TJHZBES` |  |
+| 1748.15 | eutectic: L -> Ti3Ir + (βTi) | L: Ir 0.19; Ti3Ir: Ir 0.25; (βTi): Ir 0.149 | experimental | [1] Wang 2014; _cites Croeni 1962_ | Table 3, p. 5, row 21; `ORC-EE6G7LBQ6W` |  |
+| 1741.15 | eutectic: L -> Ti3Ir + (βTi) | L: Ir 0.17; Ti3Ir: Ir 0.25; (βTi): Ir 0.15 | experimental | [1] Wang 2014; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02667568) | Table 3, p. 5, row 23; `ORC-EQQ3GXF7R6` |  |
+| 1740.15 | eutectic: L -> Ti3Ir + (βTi) | L: Ir 0.187; Ti3Ir: Ir 0.251; (βTi): Ir 0.17 | model | [1] Wang 2014 | Table 3, p. 5, row 24; `ORC-VFYDJQMTVU` |  |
+| 1733.15 | eutectic: L -> Ti3Ir + (βTi) | L: Ir 0.2; Ti3Ir: Ir 0.25; (βTi): Ir 0.163 | experimental | [1] Wang 2014; _cites Eremenko 1970_ | Table 3, p. 5, row 22; `ORC-ZOFPYR5PO2` |  |
+| 993.15 | eutectoid: (βTi) -> (αTi) + Ti3Ir | (βTi): Ir 0.05; (αTi): Ir 0.01; Ti3Ir: Ir 0.25 | experimental | [1] Wang 2014; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02667568) | Table 3, p. 5, row 28; `ORC-L6CZV52A2N` |  |
+| 992.15 | eutectoid: (βTi) -> (αTi) + Ti3Ir | (βTi): Ir 0.041; (αTi): Ir 0.004; Ti3Ir: Ir 0.247 | model | [1] Wang 2014 | Table 3, p. 5, row 29; `ORC-REWRTACBPX` |  |
+| 973.15 | eutectoid: (βTi) -> (αTi) + Ti3Ir | Ti3Ir: Ir 0.25, Ti 0.75 | experimental | [1] Wang 2014; _cites Kandarpa 1977_ | Table 3, p. 5, row 27; `ORC-OF73ZSQDZ7` |  |
+| 773.15 | eutectoid: (βTi) -> (αTi) + Ti3Ir | (βTi): Ir 0.05; Ti3Ir: Ir 0.25, Ti 0.75 | experimental | [1] Wang 2014; _cites Eremenko 1970_ | Table 3, p. 5, row 26; `ORC-EH6DC7X5Y6` |  |
+| 773.15 | eutectoid: (βTi) -> (αTi) + Ti3Ir | (βTi): Ir 0.1; Ti3Ir: Ir 0.25, Ti 0.75 | experimental | [1] Wang 2014; _cites Croeni 1962_ | Table 3, p. 5, row 25; `ORC-WWVHCPMQOF` |  |
 
 ## Other properties
 
@@ -93,7 +93,7 @@ Table: Phase transition, Ir–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 993.15 K | 993.15 | (bTi) M (aTi) + Ti3Ir | experimental | [1] Wang 2014; _cites Kandarpa 1977_ | p. 1 | “Based on the metallographic and x-ray diffraction means, Kandarpa et al.\[13\] reported the temperature of the eutectoid reaction ((bTi) M (aTi) + Ti3Ir) and its eutectoid composition point are 720 °C and 5 at.% Ir, respectively.” |
+| Phase transition | 993.15 K | 993.15 | (bTi) M (aTi) + Ti3Ir | experimental | [1] Wang 2014; _cites Kandarpa 1977_ | p. 1; `ORC-MAC56BHGQK` | “Based on the metallographic and x-ray diffraction means, Kandarpa et al.\[13\] reported the temperature of the eutectoid reaction ((bTi) M (aTi) + Ti3Ir) and its eutectoid composition point are 720 °C and 5 at.% Ir, respectively.” |
 
 ## Sources
 
@@ -158,4 +158,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

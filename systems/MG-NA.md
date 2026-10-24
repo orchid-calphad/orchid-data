@@ -47,14 +47,14 @@ Table: Invariant reactions reported in the literature for the Mg–Na system (8)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1159 | Gas -> liquid1 + liquid2 | Gas: Na 0.8407; liquid1: Na 0.0593; liquid2: Na 0.8858 | model | [1] Zhang 2006 | Table 4, p. 5, row 1 |  |
-| 911 | Liquid1 -> hcp(Mg) + liquid2 | Liquid1: Na 0.02 | experimental | [1] Zhang 2006; _cites Mathewson 1906_ | Table 4, p. 5, row 4 |  |
-| 911 | Liquid1 -> hcp(Mg) + liquid2 | Liquid1: Na 0.021; liquid2: Na 0.986 | experimental | [1] Zhang 2006; _cites Lantratov 1973_ | Table 4, p. 5, row 5 |  |
-| 910 | Liquid1 -> hcp(Mg) + liquid2 | Liquid1: Na 0.016; liquid2: Na 0.927 | experimental | [1] Zhang 2006; _cites Klemm 1967_ | Table 4, p. 5, row 6 |  |
-| 910 | Liquid1 -> hcp(Mg) + liquid2 | Liquid1: Na 0.021; hcp(Mg): Na 3.300e-4; liquid2: Na 0.927 | model | [1] Zhang 2006 | Table 4, p. 5, row 3 |  |
-| 371 | Liquid2 -> hcp(Mg) + bcc(Na) | Liquid2: Na 0.9998; hcp(Mg): Na 4.150e-6; bcc(Na): Na 1 | model | [1] Zhang 2006 | Table 4, p. 5, row 7 |  |
-| 371 | Liquid2 -> hcp(Mg) + bcc(Na) |  | experimental | [1] Zhang 2006; _cites Klemm 1967_ | Table 4, p. 5, row 9 |  |
-| 371 | Liquid2 -> hcp(Mg) + bcc(Na) |  | experimental | [1] Zhang 2006; _cites Mathewson 1906_ | Table 4, p. 5, row 8 |  |
+| 1159 | Gas -> liquid1 + liquid2 | Gas: Na 0.8407; liquid1: Na 0.0593; liquid2: Na 0.8858 | model | [1] Zhang 2006 | Table 4, p. 5, row 1; `ORC-CWMTHEBKOG` |  |
+| 911 | Liquid1 -> hcp(Mg) + liquid2 | Liquid1: Na 0.02 | experimental | [1] Zhang 2006; _cites Mathewson 1906_ | Table 4, p. 5, row 4; `ORC-36SRRWIQLC` |  |
+| 911 | Liquid1 -> hcp(Mg) + liquid2 | Liquid1: Na 0.021; liquid2: Na 0.986 | experimental | [1] Zhang 2006; _cites Lantratov 1973_ | Table 4, p. 5, row 5; `ORC-OXMLRUGHLF` |  |
+| 910 | Liquid1 -> hcp(Mg) + liquid2 | Liquid1: Na 0.016; liquid2: Na 0.927 | experimental | [1] Zhang 2006; _cites Klemm 1967_ | Table 4, p. 5, row 6; `ORC-TXIGZUBUMT` |  |
+| 910 | Liquid1 -> hcp(Mg) + liquid2 | Liquid1: Na 0.021; hcp(Mg): Na 3.300e-4; liquid2: Na 0.927 | model | [1] Zhang 2006 | Table 4, p. 5, row 3; `ORC-YY3HKXANJR` |  |
+| 371 | Liquid2 -> hcp(Mg) + bcc(Na) | Liquid2: Na 0.9998; hcp(Mg): Na 4.150e-6; bcc(Na): Na 1 | model | [1] Zhang 2006 | Table 4, p. 5, row 7; `ORC-3LQUZJL3A3` |  |
+| 371 | Liquid2 -> hcp(Mg) + bcc(Na) |  | experimental | [1] Zhang 2006; _cites Klemm 1967_ | Table 4, p. 5, row 9; `ORC-MVFEGFBAMM` |  |
+| 371 | Liquid2 -> hcp(Mg) + bcc(Na) |  | experimental | [1] Zhang 2006; _cites Mathewson 1906_ | Table 4, p. 5, row 8; `ORC-NU7AS5GGDF` |  |
 
 ## Other properties
 
@@ -64,7 +64,7 @@ Table: Phase transition, Mg–Na system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1157 K | 1157 | Gas -> liquid2; _Gas: Na 0.97016_ | model | [1] Zhang 2006 | Table 4, p. 5, row 2 |  |
+| Phase transition | 1157 K | 1157 | Gas -> liquid2; _Gas: Na 0.97016_ | model | [1] Zhang 2006 | Table 4, p. 5, row 2; `ORC-L4VKNRJ7TI` |  |
 
 ## Sources
 
@@ -129,4 +129,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

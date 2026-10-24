@@ -52,16 +52,16 @@ Table: Invariant reactions reported in the literature for the Hf–Os system (10
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2823 | liq. -> HfOs + HfOs2 | L: Os 0.536; HfOs: Os 0.51; HfOs2: Os 0.64 | experimental | [1] Guo 2006; _cites Eremenko 1993_ | Table 2, p. 4, row 10 |  |
-| 2823 | liq. -> HfOs + HfOs2 | L: Os 0.5576; HfOs: Os 0.4995; HfOs2: Os 0.6518 | model | [1] Guo 2006 | Table 2, p. 4, row 9 |  |
-| 2798 | liq. -> HfOs2 + hcp(Os) | L: Os 0.7779; HfOs2: Os 0.6715; hcp(Os): Os 0.9487 | model | [1] Guo 2006 | Table 2, p. 4, row 13 |  |
-| 2798 | liq. -> HfOs2 + hcp(Os) | L: Os 0.793; HfOs2: Os 0.68; hcp(Os): Os 0.952 | experimental | [1] Guo 2006; _cites Eremenko 1993_ | Table 2, p. 4, row 14 |  |
-| 1893 | liq. + HfOs -> Hf54Os17 | L: Os 0.2257; HfOs: Os 0.4584; Hf54Os17: Os 0.239437 | model | [1] Guo 2006 | Table 2, p. 4, row 5 |  |
-| 1893 | liq. + HfOs -> Hf54Os17 | L: Os 0.23; HfOs: Os 0.47; Hf54Os17: Os 0.239437 | experimental | [1] Guo 2006; _cites Eremenko 1993_ | Table 2, p. 4, row 6 |  |
-| 1873 | liq. -> bcc(Hf) + Hf54Os17 | L: Os 0.2015; bcc(Hf): Os 0.1351; Hf54Os17: Os 0.239437 | model | [1] Guo 2006 | Table 2, p. 4, row 1 |  |
-| 1873 | liq. -> bcc(Hf) + Hf54Os17 | L: Os 0.201; bcc(Hf): Os 0.13; Hf54Os17: Os 0.239437 | experimental | [1] Guo 2006; _cites Eremenko 1993_ | Table 2, p. 4, row 2 |  |
-| 1493 | bcc(Hf) -> hcp(Hf) + Hf54Os17 | bcc(Hf): Os 0.098; hcp(Hf): Os 0.011; Hf54Os17: Os 0.239437 | experimental | [1] Guo 2006; _cites Eremenko 1993_ | Table 2, p. 4, row 4 |  |
-| 1493 | bcc(Hf) -> hcp(Hf) + Hf54Os17 | bcc(Hf): Os 0.0922; hcp(Hf): Os 0.0041; Hf54Os17: Os 0.239437 | model | [1] Guo 2006 | Table 2, p. 4, row 3 |  |
+| 2823 | liq. -> HfOs + HfOs2 | L: Os 0.536; HfOs: Os 0.51; HfOs2: Os 0.64 | experimental | [1] Guo 2006; _cites Eremenko 1993_ | Table 2, p. 4, row 10; `ORC-E4ZEGO7NEH` |  |
+| 2823 | liq. -> HfOs + HfOs2 | L: Os 0.5576; HfOs: Os 0.4995; HfOs2: Os 0.6518 | model | [1] Guo 2006 | Table 2, p. 4, row 9; `ORC-MLW476AQAE` |  |
+| 2798 | liq. -> HfOs2 + hcp(Os) | L: Os 0.7779; HfOs2: Os 0.6715; hcp(Os): Os 0.9487 | model | [1] Guo 2006 | Table 2, p. 4, row 13; `ORC-NFYAXZPMOC` |  |
+| 2798 | liq. -> HfOs2 + hcp(Os) | L: Os 0.793; HfOs2: Os 0.68; hcp(Os): Os 0.952 | experimental | [1] Guo 2006; _cites Eremenko 1993_ | Table 2, p. 4, row 14; `ORC-X3PHCBAYFO` |  |
+| 1893 | liq. + HfOs -> Hf54Os17 | L: Os 0.2257; HfOs: Os 0.4584; Hf54Os17: Os 0.239437 | model | [1] Guo 2006 | Table 2, p. 4, row 5; `ORC-LEY46RD67H` |  |
+| 1893 | liq. + HfOs -> Hf54Os17 | L: Os 0.23; HfOs: Os 0.47; Hf54Os17: Os 0.239437 | experimental | [1] Guo 2006; _cites Eremenko 1993_ | Table 2, p. 4, row 6; `ORC-QTMXOE6YF6` |  |
+| 1873 | liq. -> bcc(Hf) + Hf54Os17 | L: Os 0.2015; bcc(Hf): Os 0.1351; Hf54Os17: Os 0.239437 | model | [1] Guo 2006 | Table 2, p. 4, row 1; `ORC-LASKSGVJMP` |  |
+| 1873 | liq. -> bcc(Hf) + Hf54Os17 | L: Os 0.201; bcc(Hf): Os 0.13; Hf54Os17: Os 0.239437 | experimental | [1] Guo 2006; _cites Eremenko 1993_ | Table 2, p. 4, row 2; `ORC-Y5RDSOYLHF` |  |
+| 1493 | bcc(Hf) -> hcp(Hf) + Hf54Os17 | bcc(Hf): Os 0.098; hcp(Hf): Os 0.011; Hf54Os17: Os 0.239437 | experimental | [1] Guo 2006; _cites Eremenko 1993_ | Table 2, p. 4, row 4; `ORC-CVX6PFFLFQ` |  |
+| 1493 | bcc(Hf) -> hcp(Hf) + Hf54Os17 | bcc(Hf): Os 0.0922; hcp(Hf): Os 0.0041; Hf54Os17: Os 0.239437 | model | [1] Guo 2006 | Table 2, p. 4, row 3; `ORC-RDC2SARLEY` |  |
 
 ## Other properties
 
@@ -71,10 +71,10 @@ Table: Phase transition, Hf–Os system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 2868 K | 2868 | liq. -> HfOs; _L: Os 0.4918; HfOs: Os 0.4918_ | model | [1] Guo 2006 | Table 2, p. 4, row 7 |  |
-| Phase transition | 2868 K | 2868 | liq. -> HfOs; _L: Os 0.495; HfOs: Os 0.495_ | experimental | [1] Guo 2006; _cites Eremenko 1993_ | Table 2, p. 4, row 8 |  |
-| Phase transition | 2953 K | 2953 | liq. -> HfOs2; _L: Os 0.6623; HfOs2: Os 0.6623_ | model | [1] Guo 2006 | Table 2, p. 4, row 11 |  |
-| Phase transition | 2953 K | 2953 | liq. -> HfOs2; _L: Os 0.667; HfOs2: Os 0.667_ | experimental | [1] Guo 2006; _cites Eremenko 1993_ | Table 2, p. 4, row 12 |  |
+| Phase transition | 2868 K | 2868 | liq. -> HfOs; _L: Os 0.4918; HfOs: Os 0.4918_ | model | [1] Guo 2006 | Table 2, p. 4, row 7; `ORC-56Z3SVLNCS` |  |
+| Phase transition | 2868 K | 2868 | liq. -> HfOs; _L: Os 0.495; HfOs: Os 0.495_ | experimental | [1] Guo 2006; _cites Eremenko 1993_ | Table 2, p. 4, row 8; `ORC-LFAJM4U3PV` |  |
+| Phase transition | 2953 K | 2953 | liq. -> HfOs2; _L: Os 0.6623; HfOs2: Os 0.6623_ | model | [1] Guo 2006 | Table 2, p. 4, row 11; `ORC-KMIT6PZBTQ` |  |
+| Phase transition | 2953 K | 2953 | liq. -> HfOs2; _L: Os 0.667; HfOs2: Os 0.667_ | experimental | [1] Guo 2006; _cites Eremenko 1993_ | Table 2, p. 4, row 12; `ORC-P4H6JJP66C` |  |
 
 ## Sources
 
@@ -139,4 +139,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

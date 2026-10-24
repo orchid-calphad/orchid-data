@@ -73,22 +73,22 @@ Table: Invariant reactions reported in the literature for the Dy–Sn system (16
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1987 | Liq. + Dy5Sn3 -> Dy5Sn4 | Liq.: Sn 0.48; Dy5Sn3: Sn 0.375; Dy5Sn4: Sn 0.444444 | model | [1] Wang 2005 | Table 2, p. 4, row 5 |  |
-| 1985 | Liq. + Dy5Sn3 -> Dy5Sn4 | Liq.: Sn 0.47; Dy5Sn3: Sn 0.375; Dy5Sn4: Sn 0.444444 | experimental | [1] Wang 2005; _cites Eremenko 1992_ [doi](https://doi.org/10.1016/0925-8388%2892%2990712-i) | Table 2, p. 4, row 6 |  |
-| 1879 | Liq. + Dy5Sn4 -> Dy11Sn10 | Liq.: Sn 0.538; Dy5Sn4: Sn 0.444444; Dy11Sn10: Sn 0.47619 | model | [1] Wang 2005 | Table 2, p. 4, row 7 |  |
-| 1878 | Liq. + Dy5Sn4 -> Dy11Sn10 | Liq.: Sn 0.518; Dy5Sn4: Sn 0.444444; Dy11Sn10: Sn 0.47619 | experimental | [1] Wang 2005; _cites Eremenko 1992_ [doi](https://doi.org/10.1016/0925-8388%2892%2990712-i) | Table 2, p. 4, row 8 |  |
-| 1482 | Liq. + Dy11Sn10 -> DySn | Liq.: Sn 0.652; Dy11Sn10: Sn 0.47619; DySn: Sn 0.5 | model | [1] Wang 2005 | Table 2, p. 4, row 9 |  |
-| 1481 | Liq. + Dy11Sn10 -> DySn | Liq.: Sn 0.635; Dy11Sn10: Sn 0.47619; DySn: Sn 0.5 | experimental | [1] Wang 2005; _cites Eremenko 1992_ [doi](https://doi.org/10.1016/0925-8388%2892%2990712-i) | Table 2, p. 4, row 10 |  |
-| 1477 | Liq. -> Dy5Sn3 + α-Dy | Liq.: Sn 0.13; Dy5Sn3: Sn 0.375 | experimental | [1] Wang 2005; _cites Eremenko 1992_ [doi](https://doi.org/10.1016/0925-8388%2892%2990712-i) | Table 2, p. 4, row 2 |  |
-| 1474 | Liq. -> Dy5Sn3 + α-Dy | Liq.: Sn 0.117; Dy5Sn3: Sn 0.375 | model | [1] Wang 2005 | Table 2, p. 4, row 1 |  |
-| 1440 | Liq. + DySn -> Dy4Sn5 | Liq.: Sn 0.662; DySn: Sn 0.5; Dy4Sn5: Sn 0.555556 | model | [1] Wang 2005 | Table 2, p. 4, row 11 |  |
-| 1439 | Liq. + DySn -> Dy4Sn5 | Liq.: Sn 0.655; DySn: Sn 0.5; Dy4Sn5: Sn 0.555556 | experimental | [1] Wang 2005; _cites Eremenko 1992_ [doi](https://doi.org/10.1016/0925-8388%2892%2990712-i) | Table 2, p. 4, row 12 |  |
-| 1414 | Liq. + Dy4Sn5 -> DySn2 | Liq.: Sn 0.67; Dy4Sn5: Sn 0.555556; DySn2: Sn 0.666667 | model | [1] Wang 2005 | Table 2, p. 4, row 13 |  |
-| 1411 | Liq. + Dy4Sn5 -> DySn2 | Liq.: Sn 0.7; Dy4Sn5: Sn 0.555556; DySn2: Sn 0.666667 | experimental | [1] Wang 2005; _cites Eremenko 1992_ [doi](https://doi.org/10.1016/0925-8388%2892%2990712-i) | Table 2, p. 4, row 14 |  |
-| 1020 | Liq. + DySn2 -> DySn3 | Liq.: Sn 0.951; DySn2: Sn 0.666667; DySn3: Sn 0.75 | experimental | [1] Wang 2005; _cites Eremenko 1992_ [doi](https://doi.org/10.1016/0925-8388%2892%2990712-i) | Table 2, p. 4, row 16 |  |
-| 1014 | Liq. + DySn2 -> DySn3 | Liq.: Sn 0.873; DySn2: Sn 0.666667; DySn3: Sn 0.75 | model | [1] Wang 2005 | Table 2, p. 4, row 15 |  |
-| 772 | DySn3 -> Liq. + DySn2 | DySn3: Sn 0.75; Liq.: Sn 0.985; DySn2: Sn 0.666667 | experimental | [1] Wang 2005; _cites Eremenko 1992_ [doi](https://doi.org/10.1016/0925-8388%2892%2990712-i) | Table 2, p. 4, row 18 |  |
-| 769.4 | DySn3 -> Liq. + DySn2 | DySn3: Sn 0.75; Liq.: Sn 0.951; DySn2: Sn 0.666667 | model | [1] Wang 2005 | Table 2, p. 4, row 17 |  |
+| 1987 | Liq. + Dy5Sn3 -> Dy5Sn4 | Liq.: Sn 0.48; Dy5Sn3: Sn 0.375; Dy5Sn4: Sn 0.444444 | model | [1] Wang 2005 | Table 2, p. 4, row 5; `ORC-FVDTVRQA2P` |  |
+| 1985 | Liq. + Dy5Sn3 -> Dy5Sn4 | Liq.: Sn 0.47; Dy5Sn3: Sn 0.375; Dy5Sn4: Sn 0.444444 | experimental | [1] Wang 2005; _cites Eremenko 1992_ [doi](https://doi.org/10.1016/0925-8388%2892%2990712-i) | Table 2, p. 4, row 6; `ORC-LQ4VSBSH5A` |  |
+| 1879 | Liq. + Dy5Sn4 -> Dy11Sn10 | Liq.: Sn 0.538; Dy5Sn4: Sn 0.444444; Dy11Sn10: Sn 0.47619 | model | [1] Wang 2005 | Table 2, p. 4, row 7; `ORC-CA3356CT73` |  |
+| 1878 | Liq. + Dy5Sn4 -> Dy11Sn10 | Liq.: Sn 0.518; Dy5Sn4: Sn 0.444444; Dy11Sn10: Sn 0.47619 | experimental | [1] Wang 2005; _cites Eremenko 1992_ [doi](https://doi.org/10.1016/0925-8388%2892%2990712-i) | Table 2, p. 4, row 8; `ORC-H5RUZPO4ZB` |  |
+| 1482 | Liq. + Dy11Sn10 -> DySn | Liq.: Sn 0.652; Dy11Sn10: Sn 0.47619; DySn: Sn 0.5 | model | [1] Wang 2005 | Table 2, p. 4, row 9; `ORC-2USVAEQUCB` |  |
+| 1481 | Liq. + Dy11Sn10 -> DySn | Liq.: Sn 0.635; Dy11Sn10: Sn 0.47619; DySn: Sn 0.5 | experimental | [1] Wang 2005; _cites Eremenko 1992_ [doi](https://doi.org/10.1016/0925-8388%2892%2990712-i) | Table 2, p. 4, row 10; `ORC-NTA6FX35JH` |  |
+| 1477 | Liq. -> Dy5Sn3 + α-Dy | Liq.: Sn 0.13; Dy5Sn3: Sn 0.375 | experimental | [1] Wang 2005; _cites Eremenko 1992_ [doi](https://doi.org/10.1016/0925-8388%2892%2990712-i) | Table 2, p. 4, row 2; `ORC-QXCT3T36YF` |  |
+| 1474 | Liq. -> Dy5Sn3 + α-Dy | Liq.: Sn 0.117; Dy5Sn3: Sn 0.375 | model | [1] Wang 2005 | Table 2, p. 4, row 1; `ORC-7ZQ2KFLM6L` |  |
+| 1440 | Liq. + DySn -> Dy4Sn5 | Liq.: Sn 0.662; DySn: Sn 0.5; Dy4Sn5: Sn 0.555556 | model | [1] Wang 2005 | Table 2, p. 4, row 11; `ORC-O5O6YECUSC` |  |
+| 1439 | Liq. + DySn -> Dy4Sn5 | Liq.: Sn 0.655; DySn: Sn 0.5; Dy4Sn5: Sn 0.555556 | experimental | [1] Wang 2005; _cites Eremenko 1992_ [doi](https://doi.org/10.1016/0925-8388%2892%2990712-i) | Table 2, p. 4, row 12; `ORC-GT3LVA3B3R` |  |
+| 1414 | Liq. + Dy4Sn5 -> DySn2 | Liq.: Sn 0.67; Dy4Sn5: Sn 0.555556; DySn2: Sn 0.666667 | model | [1] Wang 2005 | Table 2, p. 4, row 13; `ORC-QI6DZGEIV4` |  |
+| 1411 | Liq. + Dy4Sn5 -> DySn2 | Liq.: Sn 0.7; Dy4Sn5: Sn 0.555556; DySn2: Sn 0.666667 | experimental | [1] Wang 2005; _cites Eremenko 1992_ [doi](https://doi.org/10.1016/0925-8388%2892%2990712-i) | Table 2, p. 4, row 14; `ORC-DK523YX4FS` |  |
+| 1020 | Liq. + DySn2 -> DySn3 | Liq.: Sn 0.951; DySn2: Sn 0.666667; DySn3: Sn 0.75 | experimental | [1] Wang 2005; _cites Eremenko 1992_ [doi](https://doi.org/10.1016/0925-8388%2892%2990712-i) | Table 2, p. 4, row 16; `ORC-GZDGOM244D` |  |
+| 1014 | Liq. + DySn2 -> DySn3 | Liq.: Sn 0.873; DySn2: Sn 0.666667; DySn3: Sn 0.75 | model | [1] Wang 2005 | Table 2, p. 4, row 15; `ORC-MMLQWIXDZW` |  |
+| 772 | DySn3 -> Liq. + DySn2 | DySn3: Sn 0.75; Liq.: Sn 0.985; DySn2: Sn 0.666667 | experimental | [1] Wang 2005; _cites Eremenko 1992_ [doi](https://doi.org/10.1016/0925-8388%2892%2990712-i) | Table 2, p. 4, row 18; `ORC-YH2Z73WW6N` |  |
+| 769.4 | DySn3 -> Liq. + DySn2 | DySn3: Sn 0.75; Liq.: Sn 0.951; DySn2: Sn 0.666667 | model | [1] Wang 2005 | Table 2, p. 4, row 17; `ORC-TJROEO4M4P` |  |
 
 ## Formation enthalpies
 
@@ -98,20 +98,20 @@ Table: Enthalpies of formation, Dy–Sn system (14)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Dy11Sn10 | [Dy11Sn10](https://data.orchid-project.org/compounds/Dy11Sn10.html) | -73.792 kJ/mol-atom |  | model | -70.873 (mp-aaaabthw) | -75.232 (oqmd-89149) | [1] Wang 2005 | Table 3, p. 5, row 21 |  |
-| Dy4Sn5 |  | -70.127 kJ/mol-atom |  | model |  |  | [1] Wang 2005 | Table 3, p. 5, row 24 |  |
-| Dy5Sn3 | [Dy5Sn3](https://data.orchid-project.org/compounds/Dy5Sn3.html) | -75.1 kJ/mol-atom | 1473 | experimental | -69.483 (mp-aaaabthv) | -73.059 (oqmd-31219) | [1] Wang 2005; _cites Meschel 1996_ [doi](https://doi.org/10.1016/0925-8388%2895%2902040-3) | Table 3, p. 5, row 2 |  |
-| Dy5Sn3 | [Dy5Sn3](https://data.orchid-project.org/compounds/Dy5Sn3.html) | -70.09 kJ/mol-atom |  | model | -69.483 (mp-aaaabthv) | -73.059 (oqmd-31219) | [1] Wang 2005 | Table 3, p. 5, row 15 |  |
-| Dy5Sn3 | [Dy5Sn3](https://data.orchid-project.org/compounds/Dy5Sn3.html) | -61 kJ/mol-atom |  | model | -69.483 (mp-aaaabthv) | -73.059 (oqmd-31219) | [1] Wang 2005; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990313-8) | Table 3, p. 5, row 16 |  |
-| Dy5Sn4 | [Dy5Sn4](https://data.orchid-project.org/compounds/Dy5Sn4.html) | -72.578 kJ/mol-atom |  | model | -70.92 (mp-aaacqgij) | -75.664 (oqmd-665542) | [1] Wang 2005 | Table 3, p. 5, row 19 |  |
-| Dy5Sn4 | [Dy5Sn4](https://data.orchid-project.org/compounds/Dy5Sn4.html) | -66 kJ/mol-atom |  | model | -70.92 (mp-aaacqgij) | -75.664 (oqmd-665542) | [1] Wang 2005; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990313-8) | Table 3, p. 5, row 20 |  |
-| DySn | [DySn](https://data.orchid-project.org/compounds/DySn.html) | -74.009 kJ/mol-atom |  | model |  | -74.639 (oqmd-1364520) | [1] Wang 2005 | Table 3, p. 5, row 22 |  |
-| DySn | [DySn](https://data.orchid-project.org/compounds/DySn.html) | -68 kJ/mol-atom |  | model |  | -74.639 (oqmd-1364520) | [1] Wang 2005; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990313-8) | Table 3, p. 5, row 23 |  |
-| DySn2 | [DySn2](https://data.orchid-project.org/compounds/DySn2.html) | -65.46 kJ/mol-atom |  | model | -56.821 (mp-aaaabdqb) | -62.851 (oqmd-19578) | [1] Wang 2005 | Table 3, p. 5, row 17 |  |
-| DySn2 | [DySn2](https://data.orchid-project.org/compounds/DySn2.html) | -64.3 kJ/mol-atom | 298.15 | experimental | -56.821 (mp-aaaabdqb) | -62.851 (oqmd-19578) | [1] Wang 2005; _cites Yamshchikov 1990_ | Table 3, p. 5, row 5 |  |
-| DySn2 | [DySn2](https://data.orchid-project.org/compounds/DySn2.html) | -57 kJ/mol-atom |  | model | -56.821 (mp-aaaabdqb) | -62.851 (oqmd-19578) | [1] Wang 2005; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990313-8) | Table 3, p. 5, row 18 |  |
-| DySn3 | [DySn3](https://data.orchid-project.org/compounds/DySn3.html) | -49.644 kJ/mol-atom |  | model | -40.971 (mp-aaabgmme) | -49.955 (oqmd-686100) | [1] Wang 2005 | Table 3, p. 5, row 25 |  |
-| DySn3 | [DySn3](https://data.orchid-project.org/compounds/DySn3.html) | -44 kJ/mol-atom |  | model | -40.971 (mp-aaabgmme) | -49.955 (oqmd-686100) | [1] Wang 2005; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990313-8) | Table 3, p. 5, row 26 |  |
+| Dy11Sn10 | [Dy11Sn10](https://data.orchid-project.org/compounds/Dy11Sn10.html) | -73.792 kJ/mol-atom |  | model | -70.873 (mp-aaaabthw) | -75.232 (oqmd-89149) | [1] Wang 2005 | Table 3, p. 5, row 21; `ORC-HXWJ2ZDDOP` |  |
+| Dy4Sn5 |  | -70.127 kJ/mol-atom |  | model |  |  | [1] Wang 2005 | Table 3, p. 5, row 24; `ORC-HYMBSAAUJR` |  |
+| Dy5Sn3 | [Dy5Sn3](https://data.orchid-project.org/compounds/Dy5Sn3.html) | -75.1 kJ/mol-atom | 1473 | experimental | -69.483 (mp-aaaabthv) | -73.059 (oqmd-31219) | [1] Wang 2005; _cites Meschel 1996_ [doi](https://doi.org/10.1016/0925-8388%2895%2902040-3) | Table 3, p. 5, row 2; `ORC-3DKRR4NSAD` |  |
+| Dy5Sn3 | [Dy5Sn3](https://data.orchid-project.org/compounds/Dy5Sn3.html) | -70.09 kJ/mol-atom |  | model | -69.483 (mp-aaaabthv) | -73.059 (oqmd-31219) | [1] Wang 2005 | Table 3, p. 5, row 15; `ORC-EY2WOZRKMB` |  |
+| Dy5Sn3 | [Dy5Sn3](https://data.orchid-project.org/compounds/Dy5Sn3.html) | -61 kJ/mol-atom |  | model | -69.483 (mp-aaaabthv) | -73.059 (oqmd-31219) | [1] Wang 2005; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990313-8) | Table 3, p. 5, row 16; `ORC-5PPDF76M4W` |  |
+| Dy5Sn4 | [Dy5Sn4](https://data.orchid-project.org/compounds/Dy5Sn4.html) | -72.578 kJ/mol-atom |  | model | -70.92 (mp-aaacqgij) | -75.664 (oqmd-665542) | [1] Wang 2005 | Table 3, p. 5, row 19; `ORC-O2UUB64FBT` |  |
+| Dy5Sn4 | [Dy5Sn4](https://data.orchid-project.org/compounds/Dy5Sn4.html) | -66 kJ/mol-atom |  | model | -70.92 (mp-aaacqgij) | -75.664 (oqmd-665542) | [1] Wang 2005; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990313-8) | Table 3, p. 5, row 20; `ORC-YNLMRWLPGQ` |  |
+| DySn | [DySn](https://data.orchid-project.org/compounds/DySn.html) | -74.009 kJ/mol-atom |  | model |  | -74.639 (oqmd-1364520) | [1] Wang 2005 | Table 3, p. 5, row 22; `ORC-NZKSSBUUTE` |  |
+| DySn | [DySn](https://data.orchid-project.org/compounds/DySn.html) | -68 kJ/mol-atom |  | model |  | -74.639 (oqmd-1364520) | [1] Wang 2005; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990313-8) | Table 3, p. 5, row 23; `ORC-4OYNSVN4SP` |  |
+| DySn2 | [DySn2](https://data.orchid-project.org/compounds/DySn2.html) | -65.46 kJ/mol-atom |  | model | -56.821 (mp-aaaabdqb) | -62.851 (oqmd-19578) | [1] Wang 2005 | Table 3, p. 5, row 17; `ORC-G5CM5Z4ZRU` |  |
+| DySn2 | [DySn2](https://data.orchid-project.org/compounds/DySn2.html) | -64.3 kJ/mol-atom | 298.15 | experimental | -56.821 (mp-aaaabdqb) | -62.851 (oqmd-19578) | [1] Wang 2005; _cites Yamshchikov 1990_ | Table 3, p. 5, row 5; `ORC-5CHJNO4HM5` |  |
+| DySn2 | [DySn2](https://data.orchid-project.org/compounds/DySn2.html) | -57 kJ/mol-atom |  | model | -56.821 (mp-aaaabdqb) | -62.851 (oqmd-19578) | [1] Wang 2005; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990313-8) | Table 3, p. 5, row 18; `ORC-JGIOIPWPCG` |  |
+| DySn3 | [DySn3](https://data.orchid-project.org/compounds/DySn3.html) | -49.644 kJ/mol-atom |  | model | -40.971 (mp-aaabgmme) | -49.955 (oqmd-686100) | [1] Wang 2005 | Table 3, p. 5, row 25; `ORC-JBZZF6IWTK` |  |
+| DySn3 | [DySn3](https://data.orchid-project.org/compounds/DySn3.html) | -44 kJ/mol-atom |  | model | -40.971 (mp-aaabgmme) | -49.955 (oqmd-686100) | [1] Wang 2005; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990313-8) | Table 3, p. 5, row 26; `ORC-JOI7IQWBTB` |  |
 
 ## Other properties
 
@@ -121,9 +121,9 @@ Table: Phase transition, Dy–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 2139 K | 2139 | Liq. -> Dy5Sn3; _Liq.: Sn 0.375; Dy5Sn3: Sn 0.375_ | model | [1] Wang 2005 | Table 2, p. 4, row 3 |  |
-| Phase transition | 2143 K | 2143 | Liq. -> Dy5Sn3; _Liq.: Sn 0.375; Dy5Sn3: Sn 0.375_ | experimental | [1] Wang 2005; _cites Eremenko 1992_ [doi](https://doi.org/10.1016/0925-8388%2892%2990712-i) | Table 2, p. 4, row 4 |  |
-| Phase transition | 2143 K | 2143 | congruent transformation | experimental | [1] Wang 2005; _cites Eremenko 1992_ [doi](https://doi.org/10.1016/0925-8388%2892%2990712-i) | p. 4 | “In the diagram of Eremenko et al. \[10\], Dy5 Sn3 melts congruently at 2143 K.” |
+| Phase transition | 2139 K | 2139 | Liq. -> Dy5Sn3; _Liq.: Sn 0.375; Dy5Sn3: Sn 0.375_ | model | [1] Wang 2005 | Table 2, p. 4, row 3; `ORC-ZOOZO67YKZ` |  |
+| Phase transition | 2143 K | 2143 | Liq. -> Dy5Sn3; _Liq.: Sn 0.375; Dy5Sn3: Sn 0.375_ | experimental | [1] Wang 2005; _cites Eremenko 1992_ [doi](https://doi.org/10.1016/0925-8388%2892%2990712-i) | Table 2, p. 4, row 4; `ORC-GK2EQIVPKT` |  |
+| Phase transition | 2143 K | 2143 | congruent transformation | experimental | [1] Wang 2005; _cites Eremenko 1992_ [doi](https://doi.org/10.1016/0925-8388%2892%2990712-i) | p. 4; `ORC-5OPOYAJOG2` | “In the diagram of Eremenko et al. \[10\], Dy5 Sn3 melts congruently at 2143 K.” |
 
 ## Sources
 
@@ -188,4 +188,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

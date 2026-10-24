@@ -14,10 +14,10 @@ Table: Enthalpy of formation of Li2Sb reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -66.7 kJ/mol-atom ± 0.5 | Li2Sb | 820 | experimental | direct reaction calorimetry | [Li–Sb](https://data.orchid-project.org/systems/LI-SB.html) | [1] Li 2017; _cites Terlicka 2016_ [doi](https://doi.org/10.1016/j.jallcom.2016.02.235) | Table 1, p. 3, row 3 |  |
-| -65.7667 kJ/mol-atom | Li2Sb | 700.65 | experimental |  | [Li–Sb](https://data.orchid-project.org/systems/LI-SB.html) | [2] Zhang 2017; _cites ref. 10_ | Table 5, p. 36, row 1 |  |
-| -65 kJ/mol-atom | Li2Sb | 686.65 | experimental |  | [Li–Sb](https://data.orchid-project.org/systems/LI-SB.html) | [2] Zhang 2017; _cites ref. 14_ | Table 5, p. 36, row 2 |  |
-| -67.8667 kJ/mol-atom | Li2Sb | 700.65 | model |  | [Li–Sb](https://data.orchid-project.org/systems/LI-SB.html) | [2] Zhang 2017 | Table 5, p. 36, row 3 |  |
+| -66.7 kJ/mol-atom ± 0.5 | Li2Sb | 820 | experimental | direct reaction calorimetry | [Li–Sb](https://data.orchid-project.org/systems/LI-SB.html) | [1] Li 2017; _cites Terlicka 2016_ [doi](https://doi.org/10.1016/j.jallcom.2016.02.235) | Table 1, p. 3, row 3; `ORC-K6WZU2MCRE` |  |
+| -65.7667 kJ/mol-atom | Li2Sb | 700.65 | experimental |  | [Li–Sb](https://data.orchid-project.org/systems/LI-SB.html) | [2] Zhang 2017; _cites ref. 10_ | Table 5, p. 36, row 1; `ORC-QV5TLNQUTY.a8e519` |  |
+| -65 kJ/mol-atom | Li2Sb | 686.65 | experimental |  | [Li–Sb](https://data.orchid-project.org/systems/LI-SB.html) | [2] Zhang 2017; _cites ref. 14_ | Table 5, p. 36, row 2; `ORC-WZ43ROHBNB.4b5e87` |  |
+| -67.8667 kJ/mol-atom | Li2Sb | 700.65 | model |  | [Li–Sb](https://data.orchid-project.org/systems/LI-SB.html) | [2] Zhang 2017 | Table 5, p. 36, row 3; `ORC-IWVZOUUPGY.46a485` |  |
 
 ### Uncertainty budget
 
@@ -97,4 +97,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

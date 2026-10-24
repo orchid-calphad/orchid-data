@@ -53,18 +53,18 @@ Table: Crystal structure, Ir–W system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 5.551 Å |  | Ir3W; _alloy: W 0.25_ | model | [1] Huang 2020 | Table 1, p. 3, row 20 |  |
-| Lattice a | 4.486 Å |  | IrW; _alloy: W 0.5_ | model | [1] Huang 2020 | Table 1, p. 3, row 22 |  |
-| Lattice a | 5.496 Å | 298.15 | Ir3W; _alloy: W 0.25_ | experimental | [1] Huang 2020; _cites Giessen 1965_ | Table 1, p. 3, row 19 |  |
-| Lattice a | 4.452 Å | 298.15 | IrW; _alloy: W 0.5_ | experimental | [1] Huang 2020; _cites Giessen 1965_ | Table 1, p. 3, row 21 |  |
-| Lattice b | 5.551 Å |  | Ir3W; _alloy: W 0.25_ | model | [1] Huang 2020 | Table 1, p. 3, row 20 |  |
-| Lattice b | 2.788 Å |  | IrW; _alloy: W 0.5_ | model | [1] Huang 2020 | Table 1, p. 3, row 22 |  |
-| Lattice b | 5.496 Å | 298.15 | Ir3W; _alloy: W 0.25_ | experimental | [1] Huang 2020; _cites Giessen 1965_ | Table 1, p. 3, row 19 |  |
-| Lattice b | 2.76 Å | 298.15 | IrW; _alloy: W 0.5_ | experimental | [1] Huang 2020; _cites Giessen 1965_ | Table 1, p. 3, row 21 |  |
-| Lattice c | 4.436 Å |  | Ir3W; _alloy: W 0.25_ | model | [1] Huang 2020 | Table 1, p. 3, row 20 |  |
-| Lattice c | 4.866 Å |  | IrW; _alloy: W 0.5_ | model | [1] Huang 2020 | Table 1, p. 3, row 22 |  |
-| Lattice c | 4.39 Å | 298.15 | Ir3W; _alloy: W 0.25_ | experimental | [1] Huang 2020; _cites Giessen 1965_ | Table 1, p. 3, row 19 |  |
-| Lattice c | 4.811 Å | 298.15 | IrW; _alloy: W 0.5_ | experimental | [1] Huang 2020; _cites Giessen 1965_ | Table 1, p. 3, row 21 |  |
+| Lattice a | 5.551 Å |  | Ir3W; _alloy: W 0.25_ | model | [1] Huang 2020 | Table 1, p. 3, row 20; `ORC-I64SNARZSG.19d4dd` |  |
+| Lattice a | 4.486 Å |  | IrW; _alloy: W 0.5_ | model | [1] Huang 2020 | Table 1, p. 3, row 22; `ORC-FQWF2C5ONS.11bbb5` |  |
+| Lattice a | 5.496 Å | 298.15 | Ir3W; _alloy: W 0.25_ | experimental | [1] Huang 2020; _cites Giessen 1965_ | Table 1, p. 3, row 19; `ORC-NOPLPOBQME.84c717` |  |
+| Lattice a | 4.452 Å | 298.15 | IrW; _alloy: W 0.5_ | experimental | [1] Huang 2020; _cites Giessen 1965_ | Table 1, p. 3, row 21; `ORC-3WYHJ7HWKR.812c97` |  |
+| Lattice b | 5.551 Å |  | Ir3W; _alloy: W 0.25_ | model | [1] Huang 2020 | Table 1, p. 3, row 20; `ORC-I64SNARZSG.e49071` |  |
+| Lattice b | 2.788 Å |  | IrW; _alloy: W 0.5_ | model | [1] Huang 2020 | Table 1, p. 3, row 22; `ORC-FQWF2C5ONS.0fc184` |  |
+| Lattice b | 5.496 Å | 298.15 | Ir3W; _alloy: W 0.25_ | experimental | [1] Huang 2020; _cites Giessen 1965_ | Table 1, p. 3, row 19; `ORC-NOPLPOBQME.7135eb` |  |
+| Lattice b | 2.76 Å | 298.15 | IrW; _alloy: W 0.5_ | experimental | [1] Huang 2020; _cites Giessen 1965_ | Table 1, p. 3, row 21; `ORC-3WYHJ7HWKR.5ca706` |  |
+| Lattice c | 4.436 Å |  | Ir3W; _alloy: W 0.25_ | model | [1] Huang 2020 | Table 1, p. 3, row 20; `ORC-I64SNARZSG.518499` |  |
+| Lattice c | 4.866 Å |  | IrW; _alloy: W 0.5_ | model | [1] Huang 2020 | Table 1, p. 3, row 22; `ORC-FQWF2C5ONS.ccf8f1` |  |
+| Lattice c | 4.39 Å | 298.15 | Ir3W; _alloy: W 0.25_ | experimental | [1] Huang 2020; _cites Giessen 1965_ | Table 1, p. 3, row 19; `ORC-NOPLPOBQME.bc0e26` |  |
+| Lattice c | 4.811 Å | 298.15 | IrW; _alloy: W 0.5_ | experimental | [1] Huang 2020; _cites Giessen 1965_ | Table 1, p. 3, row 21; `ORC-3WYHJ7HWKR.54a47c` |  |
 
 ## Sources
 
@@ -129,4 +129,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

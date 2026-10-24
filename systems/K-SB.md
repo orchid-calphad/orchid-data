@@ -50,19 +50,19 @@ Table: Invariant reactions reported in the literature for the K–Sb system (13)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 775.5 | liq + KSb -> K5Sb4 | L: Sb 0.42; KSb: Sb 0.5; K5Sb4: Sb 0.444444 | experimental | [1] Liu 2013; _cites ref. 26_ | Table 6, p. 7, row 9 |  |
-| 771 | liq + KSb -> K5Sb4 | KSb: Sb 0.5; K5Sb4: Sb 0.444444 | model | [1] Liu 2013 | Table 6, p. 7, row 7 |  |
-| 758.6 | liq + KSb -> K5Sb4 | L: Sb 0.42; KSb: Sb 0.5; K5Sb4: Sb 0.444444 | experimental | [1] Liu 2013; _cites ref. 25_ | Table 6, p. 7, row 8 |  |
-| 737.7 | liq -> KSb + KSb2 | L: Sb 0.65; KSb: Sb 0.5; KSb2: Sb 0.666667 | experimental | [1] Liu 2013; _cites ref. 25_ | Table 6, p. 7, row 16 |  |
-| 734 | liq -> K5Sb4 + K3Sb | L: Sb 0.39; K5Sb4: Sb 0.444444; K3Sb: Sb 0.25 | model | [1] Liu 2013 | Table 6, p. 7, row 5 |  |
-| 733 | liq -> K5Sb4 + K3Sb | L: Sb 0.36; K5Sb4: Sb 0.444444; K3Sb: Sb 0.25 | experimental | [1] Liu 2013; _cites ref. 26_ | Table 6, p. 7, row 6 |  |
-| 680.6 | liq -> Sb + KSb2 | L: Sb 0.68; Sb: Sb 1; KSb2: Sb 0.666667 | experimental | [1] Liu 2013; _cites ref. 26_ | Table 6, p. 7, row 21 |  |
-| 673.2 | liq -> Sb + KSb2 | L: Sb 0.68; Sb: Sb 1; KSb2: Sb 0.666667 | experimental | [1] Liu 2013; _cites ref. 25_ | Table 6, p. 7, row 20 |  |
-| 670 | liq -> Sb + KSb2 | L: Sb 0.68; Sb: Sb 1; KSb2: Sb 0.666667 | model | [1] Liu 2013 | Table 6, p. 7, row 19 |  |
-| 669.7 | liq -> KSb + KSb2 | L: Sb 0.65; KSb: Sb 0.5; KSb2: Sb 0.666667 | model | [1] Liu 2013 | Table 6, p. 7, row 15 |  |
-| 668.9 | liq -> KSb + KSb2 | KSb: Sb 0.5; KSb2: Sb 0.666667 | experimental | [1] Liu 2013; _cites ref. 26_ | Table 6, p. 7, row 17 |  |
-| 336.71 | liq -> K + K3Sb | K3Sb: Sb 0.25 | experimental | [1] Liu 2013; _cites ref. 25_ | Table 6, p. 7, row 2 |  |
-| 336.5 | liq -> K + K3Sb | K3Sb: Sb 0.25 | model | [1] Liu 2013 | Table 6, p. 7, row 1 |  |
+| 775.5 | liq + KSb -> K5Sb4 | L: Sb 0.42; KSb: Sb 0.5; K5Sb4: Sb 0.444444 | experimental | [1] Liu 2013; _cites ref. 26_ | Table 6, p. 7, row 9; `ORC-W4VXG5GF3I` |  |
+| 771 | liq + KSb -> K5Sb4 | KSb: Sb 0.5; K5Sb4: Sb 0.444444 | model | [1] Liu 2013 | Table 6, p. 7, row 7; `ORC-J7OFYJBA6L` |  |
+| 758.6 | liq + KSb -> K5Sb4 | L: Sb 0.42; KSb: Sb 0.5; K5Sb4: Sb 0.444444 | experimental | [1] Liu 2013; _cites ref. 25_ | Table 6, p. 7, row 8; `ORC-JZINZPRZKZ` |  |
+| 737.7 | liq -> KSb + KSb2 | L: Sb 0.65; KSb: Sb 0.5; KSb2: Sb 0.666667 | experimental | [1] Liu 2013; _cites ref. 25_ | Table 6, p. 7, row 16; `ORC-EANWBQBW5R` |  |
+| 734 | liq -> K5Sb4 + K3Sb | L: Sb 0.39; K5Sb4: Sb 0.444444; K3Sb: Sb 0.25 | model | [1] Liu 2013 | Table 6, p. 7, row 5; `ORC-RB352J6D32` |  |
+| 733 | liq -> K5Sb4 + K3Sb | L: Sb 0.36; K5Sb4: Sb 0.444444; K3Sb: Sb 0.25 | experimental | [1] Liu 2013; _cites ref. 26_ | Table 6, p. 7, row 6; `ORC-YPMGYAYTPA` |  |
+| 680.6 | liq -> Sb + KSb2 | L: Sb 0.68; Sb: Sb 1; KSb2: Sb 0.666667 | experimental | [1] Liu 2013; _cites ref. 26_ | Table 6, p. 7, row 21; `ORC-Z7MPZMYL7B` |  |
+| 673.2 | liq -> Sb + KSb2 | L: Sb 0.68; Sb: Sb 1; KSb2: Sb 0.666667 | experimental | [1] Liu 2013; _cites ref. 25_ | Table 6, p. 7, row 20; `ORC-TQCVYF32A3` |  |
+| 670 | liq -> Sb + KSb2 | L: Sb 0.68; Sb: Sb 1; KSb2: Sb 0.666667 | model | [1] Liu 2013 | Table 6, p. 7, row 19; `ORC-YLLTMDHPYW` |  |
+| 669.7 | liq -> KSb + KSb2 | L: Sb 0.65; KSb: Sb 0.5; KSb2: Sb 0.666667 | model | [1] Liu 2013 | Table 6, p. 7, row 15; `ORC-ISECUYJJR2` |  |
+| 668.9 | liq -> KSb + KSb2 | KSb: Sb 0.5; KSb2: Sb 0.666667 | experimental | [1] Liu 2013; _cites ref. 26_ | Table 6, p. 7, row 17; `ORC-TZ57LSUOIK` |  |
+| 336.71 | liq -> K + K3Sb | K3Sb: Sb 0.25 | experimental | [1] Liu 2013; _cites ref. 25_ | Table 6, p. 7, row 2; `ORC-4BAHELTIFZ` |  |
+| 336.5 | liq -> K + K3Sb | K3Sb: Sb 0.25 | model | [1] Liu 2013 | Table 6, p. 7, row 1; `ORC-Q3X6ANCEOT` |  |
 
 ## Other properties
 
@@ -72,14 +72,14 @@ Table: Phase transition, K–Sb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 671 K | 671 | liq -> KSb2; _L: Sb 0.666667; KSb2: Sb 0.666667_ | model | [1] Liu 2013 | Table 6, p. 7, row 18 |  |
-| Phase transition | 877 K | 877 | liq -> KSb; _L: Sb 0.5; KSb: Sb 0.5_ | experimental | [1] Liu 2013; _cites Saboungi 1988_ [doi](https://doi.org/10.1063/1.454540) | Table 6, p. 7, row 14 |  |
-| Phase transition | 878 K | 878 | liq -> KSb; _L: Sb 0.5; KSb: Sb 0.5_ | experimental | [1] Liu 2013; _cites ref. 25_ | Table 6, p. 7, row 12 |  |
-| Phase transition | 879 K | 879 | liq -> KSb; _L: Sb 0.5; KSb: Sb 0.5_ | model | [1] Liu 2013 | Table 6, p. 7, row 10 |  |
-| Phase transition | 883 K | 883 | liq -> KSb; _L: Sb 0.5; KSb: Sb 0.5_ | experimental | [1] Liu 2013; _cites Redslob 1982_ [doi](https://doi.org/10.1515/zna-1982-0612) | Table 6, p. 7, row 11 |  |
-| Phase transition | 883 K | 883 | liq -> KSb; _L: Sb 0.5; KSb: Sb 0.5_ | experimental | [1] Liu 2013; _cites ref. 26_ | Table 6, p. 7, row 13 |  |
-| Phase transition | 1086 K | 1086 | liq -> K3Sb; _L: Sb 0.25; K3Sb: Sb 0.25_ | experimental | [1] Liu 2013; _cites ref. 25_ | Table 6, p. 7, row 4 |  |
-| Phase transition | 1087 K | 1087 | liq -> K3Sb; _L: Sb 0.25; K3Sb: Sb 0.25_ | model | [1] Liu 2013 | Table 6, p. 7, row 3 |  |
+| Phase transition | 671 K | 671 | liq -> KSb2; _L: Sb 0.666667; KSb2: Sb 0.666667_ | model | [1] Liu 2013 | Table 6, p. 7, row 18; `ORC-O25MTS2BKS` |  |
+| Phase transition | 877 K | 877 | liq -> KSb; _L: Sb 0.5; KSb: Sb 0.5_ | experimental | [1] Liu 2013; _cites Saboungi 1988_ [doi](https://doi.org/10.1063/1.454540) | Table 6, p. 7, row 14; `ORC-2MATF2GTBQ` |  |
+| Phase transition | 878 K | 878 | liq -> KSb; _L: Sb 0.5; KSb: Sb 0.5_ | experimental | [1] Liu 2013; _cites ref. 25_ | Table 6, p. 7, row 12; `ORC-ODQT5AIM3T` |  |
+| Phase transition | 879 K | 879 | liq -> KSb; _L: Sb 0.5; KSb: Sb 0.5_ | model | [1] Liu 2013 | Table 6, p. 7, row 10; `ORC-SX5C3POFMY` |  |
+| Phase transition | 883 K | 883 | liq -> KSb; _L: Sb 0.5; KSb: Sb 0.5_ | experimental | [1] Liu 2013; _cites Redslob 1982_ [doi](https://doi.org/10.1515/zna-1982-0612) | Table 6, p. 7, row 11; `ORC-HBN64Y3CIS` |  |
+| Phase transition | 883 K | 883 | liq -> KSb; _L: Sb 0.5; KSb: Sb 0.5_ | experimental | [1] Liu 2013; _cites ref. 26_ | Table 6, p. 7, row 13; `ORC-NFHK3JWRAT` |  |
+| Phase transition | 1086 K | 1086 | liq -> K3Sb; _L: Sb 0.25; K3Sb: Sb 0.25_ | experimental | [1] Liu 2013; _cites ref. 25_ | Table 6, p. 7, row 4; `ORC-2OLKBFWCFA` |  |
+| Phase transition | 1087 K | 1087 | liq -> K3Sb; _L: Sb 0.25; K3Sb: Sb 0.25_ | model | [1] Liu 2013 | Table 6, p. 7, row 3; `ORC-ZNREHBPHYO` |  |
 
 ## Sources
 
@@ -144,4 +144,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

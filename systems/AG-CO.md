@@ -60,16 +60,16 @@ Table: Invariant reactions reported in the literature for the Ag–Co system (10
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1762 | L2 -> L1 + fcc (Co) | L2: Co 0.9964; L1: Co 0.0388 | experimental | [1] Deng 2021; _cites Karakaya 1986_ [doi](https://doi.org/10.1007/bf02869002) | Table 3, p. 9, row 1 |  |
-| 1762 | L1 -> L2 + FCC(Co) | L1: Co 0.0388; L2: Co 0.9964 | experimental | [2] Zhu 2009; _cites Karakaya 1986_ [doi](https://doi.org/10.1007/bf02869002) | Table 4, p. 3, row 1 |  |
-| 1760 | L2 -> L1 + fcc (Co) | L2: Co 0.995; L1: Co 0.0139; fcc (Co): Co 1 | model | [1] Deng 2021 | Table 3, p. 9, row 2 |  |
-| 1759 | L1 -> L2 + FCC(Co) | L1: Co 0.041; L2: Co 0.9936; FCC(Co): Co 0.9995 | model | [2] Zhu 2009 | Table 4, p. 3, row 2 |  |
-| 1241 | L + fcc (Co) -> fcc (Ag) | L: Co 3.000e-4; fcc (Co): Co 1; fcc (Ag): Co 0.0057 | model | [1] Deng 2021 | Table 3, p. 9, row 4 |  |
-| 1240 | L + fcc (Co) -> fcc (Ag) | L: Co 0.0049; fcc (Ag): Co 0.0081 | experimental | [1] Deng 2021; _cites Karakaya 1986_ [doi](https://doi.org/10.1007/bf02869002) | Table 3, p. 9, row 3 |  |
-| 1240 | L + FCC(Co) -> FCC(Ag) | L: Co 0.0049; FCC(Ag): Co 0.0081 | experimental | [2] Zhu 2009; _cites Karakaya 1986_ [doi](https://doi.org/10.1007/bf02869002) | Table 4, p. 3, row 3 |  |
-| 1239 | L + FCC(Co) -> FCC(Ag) | L: Co 0.0042; FCC(Co): Co 0.9999; FCC(Ag): Co 0.008 | model | [2] Zhu 2009 | Table 4, p. 3, row 4 |  |
-| 695 | FCC(Co) -> HCP(Co) + FCC(Ag) | FCC(Co): Co 0.9999; HCP(Co): Co 0.9999; FCC(Ag): Co 1.000e-4 | model | [2] Zhu 2009 | Table 4, p. 3, row 6 |  |
-| 695 | fcc (Ag) + fcc (Co) -> hcp (Co) | fcc (Ag): Co 1.000e-4; fcc (Co): Co 1; hcp (Co): Co 0.9999 | model | [1] Deng 2021 | Table 3, p. 9, row 6 |  |
+| 1762 | L2 -> L1 + fcc (Co) | L2: Co 0.9964; L1: Co 0.0388 | experimental | [1] Deng 2021; _cites Karakaya 1986_ [doi](https://doi.org/10.1007/bf02869002) | Table 3, p. 9, row 1; `ORC-L27FMMU3HQ` |  |
+| 1762 | L1 -> L2 + FCC(Co) | L1: Co 0.0388; L2: Co 0.9964 | experimental | [2] Zhu 2009; _cites Karakaya 1986_ [doi](https://doi.org/10.1007/bf02869002) | Table 4, p. 3, row 1; `ORC-MW2XGSLPMD` |  |
+| 1760 | L2 -> L1 + fcc (Co) | L2: Co 0.995; L1: Co 0.0139; fcc (Co): Co 1 | model | [1] Deng 2021 | Table 3, p. 9, row 2; `ORC-F43LO6EDXE` |  |
+| 1759 | L1 -> L2 + FCC(Co) | L1: Co 0.041; L2: Co 0.9936; FCC(Co): Co 0.9995 | model | [2] Zhu 2009 | Table 4, p. 3, row 2; `ORC-55DWRIJOXS` |  |
+| 1241 | L + fcc (Co) -> fcc (Ag) | L: Co 3.000e-4; fcc (Co): Co 1; fcc (Ag): Co 0.0057 | model | [1] Deng 2021 | Table 3, p. 9, row 4; `ORC-3E3OC47YU5` |  |
+| 1240 | L + fcc (Co) -> fcc (Ag) | L: Co 0.0049; fcc (Ag): Co 0.0081 | experimental | [1] Deng 2021; _cites Karakaya 1986_ [doi](https://doi.org/10.1007/bf02869002) | Table 3, p. 9, row 3; `ORC-26PV7B4WGF` |  |
+| 1240 | L + FCC(Co) -> FCC(Ag) | L: Co 0.0049; FCC(Ag): Co 0.0081 | experimental | [2] Zhu 2009; _cites Karakaya 1986_ [doi](https://doi.org/10.1007/bf02869002) | Table 4, p. 3, row 3; `ORC-NYLHELEDBH` |  |
+| 1239 | L + FCC(Co) -> FCC(Ag) | L: Co 0.0042; FCC(Co): Co 0.9999; FCC(Ag): Co 0.008 | model | [2] Zhu 2009 | Table 4, p. 3, row 4; `ORC-BUWXM2P5RM` |  |
+| 695 | FCC(Co) -> HCP(Co) + FCC(Ag) | FCC(Co): Co 0.9999; HCP(Co): Co 0.9999; FCC(Ag): Co 1.000e-4 | model | [2] Zhu 2009 | Table 4, p. 3, row 6; `ORC-DQXVIB5JXQ` |  |
+| 695 | fcc (Ag) + fcc (Co) -> hcp (Co) | fcc (Ag): Co 1.000e-4; fcc (Co): Co 1; hcp (Co): Co 0.9999 | model | [1] Deng 2021 | Table 3, p. 9, row 6; `ORC-IHWDANXEKE` |  |
 
 ## Sources
 
@@ -135,4 +135,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -31,9 +31,9 @@ Table: Phase transition, Tl system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 507 K | 507 | bcc -> hcp; _bcc: Tl 1; hcp: Tl 1_ | model | [1] Guo 2010 | Table 4, p. 5, row 31 |  |
-| Phase transition | 507 K | 507 | bcc -> hcp; _bcc: Tl 1; hcp: Tl 1_ | model | [1] Guo 2010 | Table 4, p. 5, row 32 |  |
-| Phase transition | 507.15 K | 507.15 | polymorphic: βTl -> αTl; _βTl: Tl 1_ | model | [2] McAlister 1989 | Table I, p. 1, row 8 |  |
+| Phase transition | 507 K | 507 | bcc -> hcp; _bcc: Tl 1; hcp: Tl 1_ | model | [1] Guo 2010 | Table 4, p. 5, row 31; `ORC-42EVRVXPLR.d2a8ae` |  |
+| Phase transition | 507 K | 507 | bcc -> hcp; _bcc: Tl 1; hcp: Tl 1_ | model | [1] Guo 2010 | Table 4, p. 5, row 32; `ORC-QAB4ZQFWKC` |  |
+| Phase transition | 507.15 K | 507.15 | polymorphic: βTl -> αTl; _βTl: Tl 1_ | model | [2] McAlister 1989 | Table I, p. 1, row 8; `ORC-DXBA7ZPWOD` |  |
 
 ### Crystal structure (9)
 
@@ -41,15 +41,15 @@ Table: Crystal structure, Tl system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 3.4496 Å | 298.15 | (αTl); _(αTl): Tl 1_ | unspecified | [2] McAlister 1989 | Table 3, p. 2, row 3 |  |
-| Lattice a | 3.874 Å | 298.15 | (βTl); _(βTl): Tl 1_ | unspecified | [2] McAlister 1989 | Table 3, p. 2, row 2 |  |
-| Lattice a | 345.63 not_printed | 503 (\<) | (αTl); _alloy: Tl 1_ | experimental | [3] Gierlotka 2006; _cites Amand 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990197-2) | Table 1, p. 2, row 3 |  |
-| Lattice a | 547.6 not_printed | 503 (\<) | (αTl); _alloy: Tl 1_ | experimental | [3] Gierlotka 2006; _cites Amand 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990197-2) | Table 1, p. 2, row 3 |  |
-| Lattice a | 378.9 not_printed | 577 (\<) | (βTl); _alloy: Tl 1_ | experimental | [3] Gierlotka 2006; _cites Amand 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990197-2) | Table 1, p. 2, row 4 |  |
-| Lattice a | 387.9 not_printed | 577 (\<) | (βTl); _alloy: Tl 1_ | experimental | [3] Gierlotka 2006; _cites Amand 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990197-2) | Table 1, p. 2, row 4 |  |
-| Lattice c | 5.5137 Å | 298.15 | (αTl); _(αTl): Tl 1_ | unspecified | [2] McAlister 1989 | Table 3, p. 2, row 3 |  |
-| Lattice c | 552.6 not_printed | 503 (\<) | (αTl); _alloy: Tl 1_ | experimental | [3] Gierlotka 2006; _cites Amand 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990197-2) | Table 1, p. 2, row 3 |  |
-| Lattice c | 342.5 not_printed | 503 (\<) | (αTl); _alloy: Tl 1_ | experimental | [3] Gierlotka 2006; _cites Amand 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990197-2) | Table 1, p. 2, row 3 |  |
+| Lattice a | 3.4496 Å | 298.15 | (αTl); _(αTl): Tl 1_ | unspecified | [2] McAlister 1989 | Table 3, p. 2, row 3; `ORC-46YWVPKWOG.73c405` |  |
+| Lattice a | 3.874 Å | 298.15 | (βTl); _(βTl): Tl 1_ | unspecified | [2] McAlister 1989 | Table 3, p. 2, row 2; `ORC-NOWJEGFXMB` |  |
+| Lattice a | 345.63 not_printed | 503 (\<) | (αTl); _alloy: Tl 1_ | experimental | [3] Gierlotka 2006; _cites Amand 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990197-2) | Table 1, p. 2, row 3; `ORC-QMZOVZVWVK.0841c5` |  |
+| Lattice a | 547.6 not_printed | 503 (\<) | (αTl); _alloy: Tl 1_ | experimental | [3] Gierlotka 2006; _cites Amand 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990197-2) | Table 1, p. 2, row 3; `ORC-QMZOVZVWVK.1842a4` |  |
+| Lattice a | 378.9 not_printed | 577 (\<) | (βTl); _alloy: Tl 1_ | experimental | [3] Gierlotka 2006; _cites Amand 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990197-2) | Table 1, p. 2, row 4; `ORC-VEAPRLYAYD.aa757e` |  |
+| Lattice a | 387.9 not_printed | 577 (\<) | (βTl); _alloy: Tl 1_ | experimental | [3] Gierlotka 2006; _cites Amand 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990197-2) | Table 1, p. 2, row 4; `ORC-VEAPRLYAYD.fca033` |  |
+| Lattice c | 5.5137 Å | 298.15 | (αTl); _(αTl): Tl 1_ | unspecified | [2] McAlister 1989 | Table 3, p. 2, row 3; `ORC-46YWVPKWOG.e82d04` |  |
+| Lattice c | 552.6 not_printed | 503 (\<) | (αTl); _alloy: Tl 1_ | experimental | [3] Gierlotka 2006; _cites Amand 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990197-2) | Table 1, p. 2, row 3; `ORC-QMZOVZVWVK.2be8bd` |  |
+| Lattice c | 342.5 not_printed | 503 (\<) | (αTl); _alloy: Tl 1_ | experimental | [3] Gierlotka 2006; _cites Amand 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990197-2) | Table 1, p. 2, row 3; `ORC-QMZOVZVWVK.49d823` |  |
 
 ## Sources
 
@@ -94,4 +94,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

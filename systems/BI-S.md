@@ -51,9 +51,9 @@ Table: Invariant reactions reported in the literature for the Bi–S system (3)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 996 | liq1 -> Bi2S3 + liq2 | Bi2S3: Bi 0.4, S 0.6; liq1: S 0.703; liq2: S 0.962 | model | [1] Huang 2014 | Table VII, p. 6, row 2 |  |
-| 544.5 | liq -> Rho_Bi + Bi2S3 | Bi2S3: Bi 0.4, S 0.6 | model | [1] Huang 2014 | Table VII, p. 6, row 1 |  |
-| 388.2 | liq2 -> Bi2S3 + Ort_S | Bi2S3: Bi 0.4, S 0.6 | model | [1] Huang 2014 | Table VII, p. 6, row 3 |  |
+| 996 | liq1 -> Bi2S3 + liq2 | Bi2S3: Bi 0.4, S 0.6; liq1: S 0.703; liq2: S 0.962 | model | [1] Huang 2014 | Table VII, p. 6, row 2; `ORC-OIFBIGHNZZ` |  |
+| 544.5 | liq -> Rho_Bi + Bi2S3 | Bi2S3: Bi 0.4, S 0.6 | model | [1] Huang 2014 | Table VII, p. 6, row 1; `ORC-XRY7Q3TNUR` |  |
+| 388.2 | liq2 -> Bi2S3 + Ort_S | Bi2S3: Bi 0.4, S 0.6 | model | [1] Huang 2014 | Table VII, p. 6, row 3; `ORC-JKHHGJP3IA` |  |
 
 ## Other properties
 
@@ -63,9 +63,9 @@ Table: Phase transition, Bi–S system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1036 K | 1036 | congruent transformation | experimental | [1] Huang 2014; _cites Glatz 1966_ [doi](https://doi.org/10.1021/j100883a513) | Table VI, p. 6, row 3 |  |
-| Phase transition | 1043 K | 1043 | congruent transformation | model | [1] Huang 2014 | Table VI, p. 6, row 1 |  |
-| Phase transition | 1048 K | 1048 | congruent transformation | unspecified | [1] Huang 2014; _cites ref. 32_ | Table VI, p. 6, row 2 |  |
+| Phase transition | 1036 K | 1036 | congruent transformation | experimental | [1] Huang 2014; _cites Glatz 1966_ [doi](https://doi.org/10.1021/j100883a513) | Table VI, p. 6, row 3; `ORC-OXKRFLCFJQ` |  |
+| Phase transition | 1043 K | 1043 | congruent transformation | model | [1] Huang 2014 | Table VI, p. 6, row 1; `ORC-YOGBSIZEHI` |  |
+| Phase transition | 1048 K | 1048 | congruent transformation | unspecified | [1] Huang 2014; _cites ref. 32_ | Table VI, p. 6, row 2; `ORC-ZT2MVI3ET7` |  |
 
 ### Heat capacity / entropy / enthalpy (3)
 
@@ -73,9 +73,9 @@ Table: Heat capacity / entropy / enthalpy, Bi–S system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: Entropy of Melting_ | 38 J/mol (basis unstated)/K |  | UNKNOWN | experimental | [1] Huang 2014; _cites Itagaki 1985_ [doi](https://doi.org/10.1016/0040-6031%2885%2985439-3) | Table III, p. 5, row 3 |  |
-| Entropy; _printed: Entropy of Melting_ | 49.4 J/mol (basis unstated)/K |  | UNKNOWN | unspecified | [1] Huang 2014; _cites Shamsuddin 1981_ | Table III, p. 5, row 2 |  |
-| Entropy; _printed: Entropy of Melting_ | 55.1 J/mol (basis unstated)/K |  | UNKNOWN | model | [1] Huang 2014 | Table III, p. 5, row 1 |  |
+| Entropy; _printed: Entropy of Melting_ | 38 J/mol (basis unstated)/K |  | UNKNOWN | experimental | [1] Huang 2014; _cites Itagaki 1985_ [doi](https://doi.org/10.1016/0040-6031%2885%2985439-3) | Table III, p. 5, row 3; `ORC-JBLMBCG6C6` |  |
+| Entropy; _printed: Entropy of Melting_ | 49.4 J/mol (basis unstated)/K |  | UNKNOWN | unspecified | [1] Huang 2014; _cites Shamsuddin 1981_ | Table III, p. 5, row 2; `ORC-KPZJ42RVEJ` |  |
+| Entropy; _printed: Entropy of Melting_ | 55.1 J/mol (basis unstated)/K |  | UNKNOWN | model | [1] Huang 2014 | Table III, p. 5, row 1; `ORC-Z7IMWLN4LN` |  |
 
 ## Sources
 
@@ -140,4 +140,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

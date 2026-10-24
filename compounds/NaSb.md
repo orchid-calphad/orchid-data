@@ -14,12 +14,12 @@ Table: Enthalpy of formation of NaSb reported in the literature (6)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -36 kJ/mol-atom | NaSb(s) | 298.15 | experimental |  | [Na–Sb](https://data.orchid-project.org/systems/NA-SB.html) | [1] Liu 2013; _cites Voronin 1987_ | Table 2, p. 4, row 8 |  |
-| -35 kJ/mol-atom | NaSb(s) | 298.15 | experimental |  | [Na–Sb](https://data.orchid-project.org/systems/NA-SB.html) | [1] Liu 2013; _cites Voronin 1967_ | Table 2, p. 4, row 7 |  |
-| -33 kJ/mol-atom | NaSb(s) | 298.15 | experimental |  | [Na–Sb](https://data.orchid-project.org/systems/NA-SB.html) | [1] Liu 2013; _cites Kubaschewski 1938_ | Table 2, p. 4, row 9 |  |
-| -37.5 kJ/mol-atom | NaSb(s) |  | model |  | [Na–Sb](https://data.orchid-project.org/systems/NA-SB.html) | [1] Liu 2013 | Table 2, p. 4, row 6 |  |
-| -0.679 eV | NaSb | 0 | DFT | DFT | [Na–Sb](https://data.orchid-project.org/systems/NA-SB.html) | [2] Dreval 2017 | Table 3, p. 7, row 21 |  |
-| -0.663 eV | NaSb | 0 | DFT | DFT | [Na–Sb](https://data.orchid-project.org/systems/NA-SB.html) | [2] Dreval 2017 | Table 3, p. 7, row 22 |  |
+| -36 kJ/mol-atom | NaSb(s) | 298.15 | experimental |  | [Na–Sb](https://data.orchid-project.org/systems/NA-SB.html) | [1] Liu 2013; _cites Voronin 1987_ | Table 2, p. 4, row 8; `ORC-KVO7ORMPOA.8a3797` |  |
+| -35 kJ/mol-atom | NaSb(s) | 298.15 | experimental |  | [Na–Sb](https://data.orchid-project.org/systems/NA-SB.html) | [1] Liu 2013; _cites Voronin 1967_ | Table 2, p. 4, row 7; `ORC-XJW3GTXV3N.969e7f` |  |
+| -33 kJ/mol-atom | NaSb(s) | 298.15 | experimental |  | [Na–Sb](https://data.orchid-project.org/systems/NA-SB.html) | [1] Liu 2013; _cites Kubaschewski 1938_ | Table 2, p. 4, row 9; `ORC-2PS7PBSDCO.3dc764` |  |
+| -37.5 kJ/mol-atom | NaSb(s) |  | model |  | [Na–Sb](https://data.orchid-project.org/systems/NA-SB.html) | [1] Liu 2013 | Table 2, p. 4, row 6; `ORC-6YTEU4I4S2.6827e9` |  |
+| -0.679 eV | NaSb | 0 | DFT | DFT | [Na–Sb](https://data.orchid-project.org/systems/NA-SB.html) | [2] Dreval 2017 | Table 3, p. 7, row 21; `ORC-Q554IN4K7G` |  |
+| -0.663 eV | NaSb | 0 | DFT | DFT | [Na–Sb](https://data.orchid-project.org/systems/NA-SB.html) | [2] Dreval 2017 | Table 3, p. 7, row 22; `ORC-JLANE57MRZ` |  |
 
 ### Uncertainty budget
 
@@ -101,4 +101,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

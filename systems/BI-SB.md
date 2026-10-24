@@ -43,7 +43,7 @@ Table: Phase transition, Bi–Sb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 498 K | 498 | other | model | [1] Boa 2008; _cites Feutelais 1992_ [doi](https://doi.org/10.1016/0364-5916%2892%2990001-e) | p. 2 | “By calculating the limits of the miscibility gap, Feutelais et al. \[20\] obtained a critical point at TC = 498 K and xSb = 0.637.” |
+| Phase transition | 498 K | 498 | other | model | [1] Boa 2008; _cites Feutelais 1992_ [doi](https://doi.org/10.1016/0364-5916%2892%2990001-e) | p. 2; `ORC-KMUCIF4B5U` | “By calculating the limits of the miscibility gap, Feutelais et al. \[20\] obtained a critical point at TC = 498 K and xSb = 0.637.” |
 
 ### Mixing / partial (2)
 
@@ -51,8 +51,8 @@ Table: Mixing / partial, Bi–Sb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: enthalpy of mixing_ | 650 J mol-r | 945 |  | experimental | [2] Feutelais 1992 | p. 2 | “WITTIC and GEHRINC \[59Wit\] and YAZAWAet al. \[SSYaz\] h ave reported a slightly positive deviation at 973 K and 945 K, respectively, with a maximum at about 550 J mol-' \[59Wit\] and 650 J mol-r \[SSYaz\].” |
-| Enthalpy of mixing; _printed: enthalpy of mixing_ | 550 J mol-' | 973 |  | experimental | [2] Feutelais 1992; _cites ref. 59Wit_ | p. 2 | “WITTIC and GEHRINC \[59Wit\] and YAZAWAet al. \[SSYaz\] h ave reported a slightly positive deviation at 973 K and 945 K, respectively, with a maximum at about 550 J mol-' \[59Wit\] and 650 J mol-r \[SSYaz\].” |
+| Enthalpy of mixing; _printed: enthalpy of mixing_ | 650 J mol-r | 945 |  | experimental | [2] Feutelais 1992 | p. 2; `ORC-JTBINV63CC.cea70a` | “WITTIC and GEHRINC \[59Wit\] and YAZAWAet al. \[SSYaz\] h ave reported a slightly positive deviation at 973 K and 945 K, respectively, with a maximum at about 550 J mol-' \[59Wit\] and 650 J mol-r \[SSYaz\].” |
+| Enthalpy of mixing; _printed: enthalpy of mixing_ | 550 J mol-' | 973 |  | experimental | [2] Feutelais 1992; _cites ref. 59Wit_ | p. 2; `ORC-JTBINV63CC.163645` | “WITTIC and GEHRINC \[59Wit\] and YAZAWAet al. \[SSYaz\] h ave reported a slightly positive deviation at 973 K and 945 K, respectively, with a maximum at about 550 J mol-' \[59Wit\] and 650 J mol-r \[SSYaz\].” |
 
 ## Sources
 
@@ -118,4 +118,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

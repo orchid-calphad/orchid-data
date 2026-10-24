@@ -28,21 +28,21 @@ Table: Invariant reactions reported in the literature for the In–Sb–Sn syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 681.7 | quasi-peritectic: L+(Sb)->InSb+(SbSn) | L: Sb 0.502, Sn 0.354 | model | [1] Lysenko 2019 | Table 3, p. 7, row 1 |  |
-| 680 | quasi-peritectic: L+(Sb)->InSb+(SbSn) |  | experimental | [1] Lysenko 2019; _cites Legendre 2001_ | Table 3, p. 7, row 2 |  |
-| 603.3 | quasi-peritectic: L+(SbSn)->InSb+(Sb2Sn3) | L: Sb 0.234, Sn 0.683 | model | [1] Lysenko 2019 | Table 3, p. 7, row 3 |  |
-| 603 | quasi-peritectic: L+(SbSn)->InSb+(Sb2Sn3) |  | experimental | [1] Lysenko 2019; _cites Legendre 2001_ | Table 3, p. 7, row 4 |  |
-| 515 | quasi-peritectic: L+(Sb2Sn3)->InSb+(Sn) |  | experimental | [1] Lysenko 2019; _cites Legendre 2001_ | Table 3, p. 7, row 6 |  |
-| 513 | eutectic: (Sb2Sn3)->InSb+(SbSn)+(Sn) |  | experimental | [1] Lysenko 2019; _cites Legendre 2001_ | Table 3, p. 7, row 8 |  |
-| 512.4 | quasi-peritectic: L+(Sb2Sn3)->InSb+(Sn) | L: Sb 0.081, Sn 0.893 | model | [1] Lysenko 2019 | Table 3, p. 7, row 5 |  |
-| 507.8 | eutectic: (Sb2Sn3)->InSb+(SbSn)+(Sn) |  | model | [1] Lysenko 2019 | Table 3, p. 7, row 7 |  |
-| 500.5 | quasi-peritectic: InSb+Sb3Sn4->(SbSn)+(Sn) |  | model | [1] Lysenko 2019 | Table 3, p. 7, row 9 |  |
-| 488 | quasi-peritectic: L+(Sn)->InSb+(γInSn) |  | experimental | [1] Lysenko 2019; _cites Legendre 2001_ | Table 3, p. 7, row 11 |  |
-| 482.6 | quasi-peritectic: L+(Sn)->InSb+(γInSn) | L: Sb 0.012, Sn 0.864 | model | [1] Lysenko 2019 | Table 3, p. 7, row 10 |  |
-| 413 | quasi-peritectic: L+(In)->InSb+(βInSn) |  | experimental | [1] Lysenko 2019; _cites Legendre 2001_ | Table 3, p. 7, row 13 |  |
-| 413 | quasi-peritectic: L+(In)->InSb+(βInSn) | L: Sb 0.002, Sn 0.144 | model | [1] Lysenko 2019 | Table 3, p. 7, row 12 |  |
-| 392 | eutectic: L->InSb+(βInSn)+(γInSn) |  | experimental | [1] Lysenko 2019; _cites Legendre 2001_ | Table 3, p. 7, row 15 |  |
-| 391 | eutectic: L->InSb+(βInSn)+(γInSn) | L: Sb 0.001, Sn 0.476 | model | [1] Lysenko 2019 | Table 3, p. 7, row 14 |  |
+| 681.7 | quasi-peritectic: L+(Sb)->InSb+(SbSn) | L: Sb 0.502, Sn 0.354 | model | [1] Lysenko 2019 | Table 3, p. 7, row 1; `ORC-ZADX3A2PG6` |  |
+| 680 | quasi-peritectic: L+(Sb)->InSb+(SbSn) |  | experimental | [1] Lysenko 2019; _cites Legendre 2001_ | Table 3, p. 7, row 2; `ORC-4GLJTVJK37` |  |
+| 603.3 | quasi-peritectic: L+(SbSn)->InSb+(Sb2Sn3) | L: Sb 0.234, Sn 0.683 | model | [1] Lysenko 2019 | Table 3, p. 7, row 3; `ORC-2CAYNHDMPE` |  |
+| 603 | quasi-peritectic: L+(SbSn)->InSb+(Sb2Sn3) |  | experimental | [1] Lysenko 2019; _cites Legendre 2001_ | Table 3, p. 7, row 4; `ORC-F36HPHZS7D` |  |
+| 515 | quasi-peritectic: L+(Sb2Sn3)->InSb+(Sn) |  | experimental | [1] Lysenko 2019; _cites Legendre 2001_ | Table 3, p. 7, row 6; `ORC-4WTY6FCYTD` |  |
+| 513 | eutectic: (Sb2Sn3)->InSb+(SbSn)+(Sn) |  | experimental | [1] Lysenko 2019; _cites Legendre 2001_ | Table 3, p. 7, row 8; `ORC-ARGK5642DM` |  |
+| 512.4 | quasi-peritectic: L+(Sb2Sn3)->InSb+(Sn) | L: Sb 0.081, Sn 0.893 | model | [1] Lysenko 2019 | Table 3, p. 7, row 5; `ORC-TYJUUHTK3Z` |  |
+| 507.8 | eutectic: (Sb2Sn3)->InSb+(SbSn)+(Sn) |  | model | [1] Lysenko 2019 | Table 3, p. 7, row 7; `ORC-C3S5FXNVAP` |  |
+| 500.5 | quasi-peritectic: InSb+Sb3Sn4->(SbSn)+(Sn) |  | model | [1] Lysenko 2019 | Table 3, p. 7, row 9; `ORC-WCGS7E4AKO` |  |
+| 488 | quasi-peritectic: L+(Sn)->InSb+(γInSn) |  | experimental | [1] Lysenko 2019; _cites Legendre 2001_ | Table 3, p. 7, row 11; `ORC-DQSFO7LLJG` |  |
+| 482.6 | quasi-peritectic: L+(Sn)->InSb+(γInSn) | L: Sb 0.012, Sn 0.864 | model | [1] Lysenko 2019 | Table 3, p. 7, row 10; `ORC-TAHUDZ2UYM` |  |
+| 413 | quasi-peritectic: L+(In)->InSb+(βInSn) |  | experimental | [1] Lysenko 2019; _cites Legendre 2001_ | Table 3, p. 7, row 13; `ORC-7I7TAVT4IK` |  |
+| 413 | quasi-peritectic: L+(In)->InSb+(βInSn) | L: Sb 0.002, Sn 0.144 | model | [1] Lysenko 2019 | Table 3, p. 7, row 12; `ORC-LZDR6UWYBY` |  |
+| 392 | eutectic: L->InSb+(βInSn)+(γInSn) |  | experimental | [1] Lysenko 2019; _cites Legendre 2001_ | Table 3, p. 7, row 15; `ORC-K22EOLAGIS` |  |
+| 391 | eutectic: L->InSb+(βInSn)+(γInSn) | L: Sb 0.001, Sn 0.476 | model | [1] Lysenko 2019 | Table 3, p. 7, row 14; `ORC-NBKFFPFTBT` |  |
 
 ## Other properties
 
@@ -52,10 +52,10 @@ Table: Phase transition, In–Sb–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 512 K | 512 | Lþ(Sb2Sn3)4 InSbþ(Sn) | model | [1] Lysenko 2019 | p. 7 | “The calculated solubility of In in the (Sb2Sn3) phase, which participate in some of these equilibria, is equal to 4.0 at. % (Lþ(SbSn)4InSbþ(Sb2Sn3), 603 K) and 1.7 at. % (Lþ(Sb2Sn3)4 InSbþ(Sn), 512 K).” |
-| Phase transition | 603 K | 603 | Lþ(SbSn)4InSbþ(Sb2Sn3) | model | [1] Lysenko 2019 | p. 7 | “The calculated solubility of In in the (Sb2Sn3) phase, which participate in some of these equilibria, is equal to 4.0 at. % (Lþ(SbSn)4InSbþ(Sb2Sn3), 603 K) and 1.7 at. % (Lþ(Sb2Sn3)4 InSbþ(Sn), 512 K).” |
-| Phase transition | 663 K | 663 | L + (Sb) = InSb + (SbSn) | model | [1] Lysenko 2019; _cites Manasijevi 2008_ | p. 2 | “In addition, the liquidus surface projection for the In-Sb-Sn system was not reported in Ref. \[12\] and information on the invariant equilibria in this system was also not given, except the equilibrium Lþ(Sb)4InSbþ(SbSn). According to Table 6 and Fig. 3b of \[12\], the temperature of this equilibria is 663 K that differs significantly from the value determined in Ref. \[20\] (680 K).” |
-| Phase transition | 680 K | 680 | L + (Sb) = InSb + (SbSn) | experimental | [1] Lysenko 2019; _cites Legendre 2001_ | p. 2 | “In addition, the liquidus surface projection for the In-Sb-Sn system was not reported in Ref. \[12\] and information on the invariant equilibria in this system was also not given, except the equilibrium Lþ(Sb)4InSbþ(SbSn). According to Table 6 and Fig. 3b of \[12\], the temperature of this equilibria is 663 K that differs significantly from the value determined in Ref. \[20\] (680 K).” |
+| Phase transition | 512 K | 512 | Lþ(Sb2Sn3)4 InSbþ(Sn) | model | [1] Lysenko 2019 | p. 7; `ORC-FQ5WULQJOP.b9aaed` | “The calculated solubility of In in the (Sb2Sn3) phase, which participate in some of these equilibria, is equal to 4.0 at. % (Lþ(SbSn)4InSbþ(Sb2Sn3), 603 K) and 1.7 at. % (Lþ(Sb2Sn3)4 InSbþ(Sn), 512 K).” |
+| Phase transition | 603 K | 603 | Lþ(SbSn)4InSbþ(Sb2Sn3) | model | [1] Lysenko 2019 | p. 7; `ORC-FQ5WULQJOP.74789b` | “The calculated solubility of In in the (Sb2Sn3) phase, which participate in some of these equilibria, is equal to 4.0 at. % (Lþ(SbSn)4InSbþ(Sb2Sn3), 603 K) and 1.7 at. % (Lþ(Sb2Sn3)4 InSbþ(Sn), 512 K).” |
+| Phase transition | 663 K | 663 | L + (Sb) = InSb + (SbSn) | model | [1] Lysenko 2019; _cites Manasijevi 2008_ | p. 2; `ORC-GT3CZCRYTK.f121a1` | “In addition, the liquidus surface projection for the In-Sb-Sn system was not reported in Ref. \[12\] and information on the invariant equilibria in this system was also not given, except the equilibrium Lþ(Sb)4InSbþ(SbSn). According to Table 6 and Fig. 3b of \[12\], the temperature of this equilibria is 663 K that differs significantly from the value determined in Ref. \[20\] (680 K).” |
+| Phase transition | 680 K | 680 | L + (Sb) = InSb + (SbSn) | experimental | [1] Lysenko 2019; _cites Legendre 2001_ | p. 2; `ORC-GT3CZCRYTK.6d69ea` | “In addition, the liquidus surface projection for the In-Sb-Sn system was not reported in Ref. \[12\] and information on the invariant equilibria in this system was also not given, except the equilibrium Lþ(Sb)4InSbþ(SbSn). According to Table 6 and Fig. 3b of \[12\], the temperature of this equilibria is 663 K that differs significantly from the value determined in Ref. \[20\] (680 K).” |
 
 ## Sources
 
@@ -98,4 +98,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

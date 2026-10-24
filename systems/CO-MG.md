@@ -51,18 +51,18 @@ Table: Invariant reactions reported in the literature for the Co–Mg system (12
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1243.15 | peritectic: Liquid + (aCo) « MgCo2 |  | experimental | [1] Yang 2022; _cites Smith 1964_ | p. 1 | “Smith and Smith \[13\] also studied the peritectic reaction Liquid + (aCo) « MgCo2 by analyzing the heating and cooling curves of alloys with the compositions from 9 to 82.6 at.% Co and the peritectic temperature was determined to be 1243.15 K.” |
-| 1243.15 | peritectic |  | experimental | [2] Sheldon 1987; _cites ref. 64Smi_ | p. 6 | “\[47Cra\] predicted, from i n s u f f i c i e n t t h e r m a l and X-ray analysis, the existence of a Mg2Co compound, formed by a peritectic reaction in the neighborhood of 689 ~ \[64Smi\], from t h e i r diffusion couple, t h e r m a l , metallographic, and X-ray a n a l y s e s , could not confirm the existence of the Mg2Co compound and its corresponding peritectic reaction at 689 ~ \[64Smi\] confir…” |
-| 1243.15 | L + (αCo) -> MgCo2 | MgCo2: Mg 0.333333 | experimental | [1] Yang 2022; _cites Smith 1964_ | Table 3, p. 4, row 4 |  |
-| 1243.01 | L + (αCo) -> MgCo2 | MgCo2: Mg 0.333333 | model | [1] Yang 2022 | Table 3, p. 4, row 5 |  |
-| 908.15 | eutectic |  | model | [1] Yang 2022; _cites Smith 1964_ | p. 1 | “In the assessed Co-Mg binary phase diagram reported by Smith and Smith \[13\], which is shown in Fig. 1, the eutectic point was placed at 1.91 at.% Co and 908.15 K.” |
-| 908.15 | L -> (Mg) + MgCo2 | MgCo2: Mg 0.333333 | experimental | [1] Yang 2022; _cites Wetherill 1935_ | Table 3, p. 4, row 1 |  |
-| 908.15 | eutectic |  | experimental | [1] Yang 2022; _cites Smith 1964_ | p. 1 | “Besides, Smith and Smith \[13\] reported that the eutectic reaction temperature was 908.15 K, which agreed well with that reported by Wetherill \[10\] and Cramer et al. \[11\].” |
-| 908.15 | eutectic: Liquid « (Mg) + MgCo2 |  | experimental | [1] Yang 2022; _cites Wetherill 1935_ | p. 1 | “According to the experimental results from Wetherill \[10\], the eutectic reaction of Liquid « (Mg) + MgCo2 was determined to occur at 908.15 K with the eutectic composition of 2.12 at.% Co by using thermal analysis.” |
-| 908.15 | eutectic |  | model | [1] Yang 2022; _cites Nayeb-Hashemi 1987_ [doi](https://doi.org/10.1007/bf02869272) | p. 1 | “Nayeb-Hashemi and Clark \[15\] critically assessed the works of Wetherill \[10\], Cramer et al. \[11\], Raynor \[12\], and Smith and Smith \[13\]. They placed the eutectic point at 1.91 at% Co and 908.15 K, which was reliable and was considered in the present optimization.” |
-| 908.07 | L -> (Mg) + MgCo2 | MgCo2: Mg 0.333333 | model | [1] Yang 2022 | Table 3, p. 4, row 3 |  |
-| 906.15 | L -> (Mg) + MgCo2 | MgCo2: Mg 0.333333 | experimental | [1] Yang 2022; _cites Cramer 1947_ | Table 3, p. 4, row 2 |  |
-| 905.15 | eutectic |  | experimental | [1] Yang 2022; _cites Cramer 1947_ | p. 1 | “Cramer et al. \[11\] also studied this eutectic reaction by means of thermal analysis and this eutectic point was placed at 1.91 at.% Co and 905.15 K, which is close to the eutectic point reported by Wetherill \[10\].” |
+| 1243.15 | peritectic: Liquid + (aCo) « MgCo2 |  | experimental | [1] Yang 2022; _cites Smith 1964_ | p. 1; `ORC-F6ITFDWPT6` | “Smith and Smith \[13\] also studied the peritectic reaction Liquid + (aCo) « MgCo2 by analyzing the heating and cooling curves of alloys with the compositions from 9 to 82.6 at.% Co and the peritectic temperature was determined to be 1243.15 K.” |
+| 1243.15 | peritectic |  | experimental | [2] Sheldon 1987; _cites ref. 64Smi_ | p. 6; `ORC-PWJSTBOB5B` | “\[47Cra\] predicted, from i n s u f f i c i e n t t h e r m a l and X-ray analysis, the existence of a Mg2Co compound, formed by a peritectic reaction in the neighborhood of 689 ~ \[64Smi\], from t h e i r diffusion couple, t h e r m a l , metallographic, and X-ray a n a l y s e s , could not confirm the existence of the Mg2Co compound and its corresponding peritectic reaction at 689 ~ \[64Smi\] confir…” |
+| 1243.15 | L + (αCo) -> MgCo2 | MgCo2: Mg 0.333333 | experimental | [1] Yang 2022; _cites Smith 1964_ | Table 3, p. 4, row 4; `ORC-SWT43UU252` |  |
+| 1243.01 | L + (αCo) -> MgCo2 | MgCo2: Mg 0.333333 | model | [1] Yang 2022 | Table 3, p. 4, row 5; `ORC-5REBCU2LSR` |  |
+| 908.15 | eutectic |  | model | [1] Yang 2022; _cites Smith 1964_ | p. 1; `ORC-HJ2S626SDJ` | “In the assessed Co-Mg binary phase diagram reported by Smith and Smith \[13\], which is shown in Fig. 1, the eutectic point was placed at 1.91 at.% Co and 908.15 K.” |
+| 908.15 | L -> (Mg) + MgCo2 | MgCo2: Mg 0.333333 | experimental | [1] Yang 2022; _cites Wetherill 1935_ | Table 3, p. 4, row 1; `ORC-PL2SF63VRR` |  |
+| 908.15 | eutectic |  | experimental | [1] Yang 2022; _cites Smith 1964_ | p. 1; `ORC-UZEC5CXUH5` | “Besides, Smith and Smith \[13\] reported that the eutectic reaction temperature was 908.15 K, which agreed well with that reported by Wetherill \[10\] and Cramer et al. \[11\].” |
+| 908.15 | eutectic: Liquid « (Mg) + MgCo2 |  | experimental | [1] Yang 2022; _cites Wetherill 1935_ | p. 1; `ORC-Y25NBFM4AE` | “According to the experimental results from Wetherill \[10\], the eutectic reaction of Liquid « (Mg) + MgCo2 was determined to occur at 908.15 K with the eutectic composition of 2.12 at.% Co by using thermal analysis.” |
+| 908.15 | eutectic |  | model | [1] Yang 2022; _cites Nayeb-Hashemi 1987_ [doi](https://doi.org/10.1007/bf02869272) | p. 1; `ORC-Y5IL4AXAQ5` | “Nayeb-Hashemi and Clark \[15\] critically assessed the works of Wetherill \[10\], Cramer et al. \[11\], Raynor \[12\], and Smith and Smith \[13\]. They placed the eutectic point at 1.91 at% Co and 908.15 K, which was reliable and was considered in the present optimization.” |
+| 908.07 | L -> (Mg) + MgCo2 | MgCo2: Mg 0.333333 | model | [1] Yang 2022 | Table 3, p. 4, row 3; `ORC-LDIA2CLRLN` |  |
+| 906.15 | L -> (Mg) + MgCo2 | MgCo2: Mg 0.333333 | experimental | [1] Yang 2022; _cites Cramer 1947_ | Table 3, p. 4, row 2; `ORC-XTCR3BDJJ5` |  |
+| 905.15 | eutectic |  | experimental | [1] Yang 2022; _cites Cramer 1947_ | p. 1; `ORC-3NLYFLU4Y4` | “Cramer et al. \[11\] also studied this eutectic reaction by means of thermal analysis and this eutectic point was placed at 1.91 at.% Co and 905.15 K, which is close to the eutectic point reported by Wetherill \[10\].” |
 
 ## Formation enthalpies
 
@@ -72,7 +72,7 @@ Table: Enthalpies of formation, Co–Mg system (1)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | -8 kJ/mol-atom | 800 | experimental |  |  | [1] Yang 2022; _cites Hultgren 1973_ | p. 2 | “According to Hultgren et al. \[25\], the enthalpy of formation of MgCo2 was determined to be -8 kJ/mole·atoms at 800 K by vapor-pressure measurement.” |
+| — |  | -8 kJ/mol-atom | 800 | experimental |  |  | [1] Yang 2022; _cites Hultgren 1973_ | p. 2; `ORC-GGHQW7AVAK` | “According to Hultgren et al. \[25\], the enthalpy of formation of MgCo2 was determined to be -8 kJ/mole·atoms at 800 K by vapor-pressure measurement.” |
 
 ## Other properties
 
@@ -82,11 +82,11 @@ Table: Phase equilibrium, Co–Mg system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 911.35 | other; _liquid: Co 0.0165, Mg 0.9835_ | experimental | [2] Sheldon 1987; _cites ref. 35Wet_ | Table 1, p. 6, row 13 |  |
-| Phase composition |  | 911.65 | other; _liquid: Co 0.0199, Mg 0.9801_ | experimental | [2] Sheldon 1987; _cites ref. 35Wet_ | Table 1, p. 6, row 14 |  |
-| Phase composition |  | 916.95 | other; _liquid: Co 0.0077, Mg 0.9923_ | experimental | [2] Sheldon 1987; _cites ref. 35Wet_ | Table 1, p. 6, row 12 |  |
-| Phase composition |  | 920.15 | other; _liquid: Co 0.0042, Mg 0.9958_ | experimental | [2] Sheldon 1987; _cites ref. 47Cra_ | Table 1, p. 6, row 15 |  |
-| Phase composition |  | 923.65 | other; _liquid: Co 0.0013, Mg 0.9987_ | experimental | [2] Sheldon 1987; _cites ref. 35Wet_ | Table 1, p. 6, row 11 |  |
+| Phase composition |  | 911.35 | other; _liquid: Co 0.0165, Mg 0.9835_ | experimental | [2] Sheldon 1987; _cites ref. 35Wet_ | Table 1, p. 6, row 13; `ORC-5WR5FSJDYO` |  |
+| Phase composition |  | 911.65 | other; _liquid: Co 0.0199, Mg 0.9801_ | experimental | [2] Sheldon 1987; _cites ref. 35Wet_ | Table 1, p. 6, row 14; `ORC-ZQ4EXQFLUD` |  |
+| Phase composition |  | 916.95 | other; _liquid: Co 0.0077, Mg 0.9923_ | experimental | [2] Sheldon 1987; _cites ref. 35Wet_ | Table 1, p. 6, row 12; `ORC-GNWS2SQA5U` |  |
+| Phase composition |  | 920.15 | other; _liquid: Co 0.0042, Mg 0.9958_ | experimental | [2] Sheldon 1987; _cites ref. 47Cra_ | Table 1, p. 6, row 15; `ORC-ID46JR6LTT` |  |
+| Phase composition |  | 923.65 | other; _liquid: Co 0.0013, Mg 0.9987_ | experimental | [2] Sheldon 1987; _cites ref. 35Wet_ | Table 1, p. 6, row 11; `ORC-XZL3M2FI22` |  |
 
 ## Sources
 
@@ -152,4 +152,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -28,13 +28,13 @@ Table: Phase transition, Al–Fe–Ti–V system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 504 K | 504 | other: C13-5-0.5; _alloy: Al 0.0548, Fe 0.00495, Ti 0.81345, V 0.1268_ | experimental | [1] Yan 2016 | Table 1, p. 2, row 7 |  |
-| Phase transition | 548 K | 548 | other: C14-6; _alloy: Al 0.0555, V 0.1434_ | experimental | [1] Yan 2016 | Table 1, p. 2, row 2 |  |
-| Phase transition | 555 K | 555 | other: C15-5; _alloy: Al 0.0532, V 0.1484_ | experimental | [1] Yan 2016 | Table 1, p. 2, row 1 |  |
-| Phase transition | 580 K | 580 | other: C13-7; _alloy: Al 0.0695, V 0.1338_ | experimental | [1] Yan 2016 | Table 1, p. 2, row 3 |  |
-| Phase transition | 600 K | 600 | other: C12-10; _alloy: Al 0.1024, V 0.1175_ | experimental | [1] Yan 2016 | Table 1, p. 2, row 6 |  |
-| Phase transition | 621 K | 621 | other: C12-9; _alloy: Al 0.0948, V 0.1183_ | experimental | [1] Yan 2016 | Table 1, p. 2, row 5 |  |
-| Phase transition | 644 K | 644 | other: C12-8; _alloy: Al 0.0862, V 0.1184_ | experimental | [1] Yan 2016 | Table 1, p. 2, row 4 |  |
+| Phase transition | 504 K | 504 | other: C13-5-0.5; _alloy: Al 0.0548, Fe 0.00495, Ti 0.81345, V 0.1268_ | experimental | [1] Yan 2016 | Table 1, p. 2, row 7; `ORC-OSURFCCXF7` |  |
+| Phase transition | 548 K | 548 | other: C14-6; _alloy: Al 0.0555, V 0.1434_ | experimental | [1] Yan 2016 | Table 1, p. 2, row 2; `ORC-A22MT6KOWY` |  |
+| Phase transition | 555 K | 555 | other: C15-5; _alloy: Al 0.0532, V 0.1484_ | experimental | [1] Yan 2016 | Table 1, p. 2, row 1; `ORC-CCKZD3MGSF` |  |
+| Phase transition | 580 K | 580 | other: C13-7; _alloy: Al 0.0695, V 0.1338_ | experimental | [1] Yan 2016 | Table 1, p. 2, row 3; `ORC-GVJMDHMPW5` |  |
+| Phase transition | 600 K | 600 | other: C12-10; _alloy: Al 0.1024, V 0.1175_ | experimental | [1] Yan 2016 | Table 1, p. 2, row 6; `ORC-ITNUZ27XPC` |  |
+| Phase transition | 621 K | 621 | other: C12-9; _alloy: Al 0.0948, V 0.1183_ | experimental | [1] Yan 2016 | Table 1, p. 2, row 5; `ORC-UQQOLY55WI` |  |
+| Phase transition | 644 K | 644 | other: C12-8; _alloy: Al 0.0862, V 0.1184_ | experimental | [1] Yan 2016 | Table 1, p. 2, row 4; `ORC-HH6NBCN6NB` |  |
 
 ## Sources
 
@@ -77,4 +77,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

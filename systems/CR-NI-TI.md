@@ -27,37 +27,37 @@ Table: Invariant reactions reported in the literature for the Cr–Ni–Ti syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1698.45 | peritectic: L + (Cr, βTi) = γCr2Ti |  | model | [1] Hu 2014 | Table 3, p. 7, row 2 |  |
-| 1662.15 | peritectic: L + (Cr, βTi) = γCr2Ti |  | experimental | [1] Hu 2014; _cites Krendelsberger 2013_ [doi](https://doi.org/10.1016/j.jallcom.2013.04.061) | Table 3, p. 7, row 1 |  |
-| 1621.55 | eutectic: L = NiTi + γCr2Ti |  | model | [1] Hu 2014 | Table 3, p. 7, row 4 |  |
-| 1496.15 | eutectic: L = (Cr, βTi) + Ni3Ti |  | experimental | [1] Hu 2014; _cites Krendelsberger 2013_ [doi](https://doi.org/10.1016/j.jallcom.2013.04.061) | Table 3, p. 7, row 5 |  |
-| 1493.15 | eutectic |  | experimental | [1] Hu 2014; _cites Haour 1978_ | p. 2 | “Haour et al. \[8\] reported a ternary eutectic at the composition of Cr3.7 Ni61 Ti35.3 (at.%) with a melting temperature of 1220 ◦ C.” |
-| 1489.35 | eutectic: L = (Cr, βTi) + Ni3Ti |  | model | [1] Hu 2014 | Table 3, p. 7, row 6 |  |
-| 1489.15 | eutectic: L = (Ni) + (Cr, βTi) + Ni3Ti |  | model | [1] Hu 2014 | Table 3, p. 7, row 8 |  |
-| 1489.15 | eutectic: L = (Ni) + (Cr, βTi) + Ni3Ti |  | experimental | [1] Hu 2014; _cites Krendelsberger 2013_ [doi](https://doi.org/10.1016/j.jallcom.2013.04.061) | Table 3, p. 7, row 7 |  |
-| 1475.15 | eutectic: L = NiTi + γCr2Ti |  | experimental | [1] Hu 2014; _cites Krendelsberger 2013_ [doi](https://doi.org/10.1016/j.jallcom.2013.04.061) | Table 3, p. 7, row 3 |  |
-| 1382.25 | quasi-peritectic: L + γCr2Ti = NiTi + (Cr, βTi) |  | model | [1] Hu 2014 | Table 3, p. 7, row 10 |  |
-| 1382.15 | quasi-peritectic: L + γCr2Ti = NiTi + (Cr, βTi) |  | experimental | [1] Hu 2014; _cites Krendelsberger 2013_ [doi](https://doi.org/10.1016/j.jallcom.2013.04.061) | Table 3, p. 7, row 9 |  |
-| 1373.15 | eutectic: L = Ni3Ti + NiTi + (Cr, βTi) |  | experimental | [1] Hu 2014; _cites Krendelsberger 2013_ [doi](https://doi.org/10.1016/j.jallcom.2013.04.061) | Table 3, p. 7, row 11 |  |
-| 1373.05 | eutectic: L = Ni3Ti + NiTi + (Cr, βTi) |  | model | [1] Hu 2014 | Table 3, p. 7, row 12 |  |
-| 1316.25 | quasi-peritectic: L + γCr2Ti = NiTi + (Cr, βTi) |  | model | [1] Hu 2014 | Table 3, p. 7, row 14 |  |
-| 1316.15 | quasi-peritectic: L + γCr2Ti = NiTi + (Cr, βTi) |  | experimental | [1] Hu 2014; _cites Krendelsberger 2013_ [doi](https://doi.org/10.1016/j.jallcom.2013.04.061) | Table 3, p. 7, row 13 |  |
-| 1280 | L + Laves_C36 -> Laves_C14 + NiTi | NiTi: Ti 0.5 | model | [2] Huang 2018 | Table 4, p. 6, row 1 |  |
-| 1275 | L + Laves_C36 + NiTi -> Laves_C14 | NiTi: Ti 0.5 | model | [2] Huang 2018 | Table 4, p. 6, row 2 |  |
-| 1249.25 | quasi-peritectic: L + NiTi = NiTi2 + (Cr, βTi) |  | model | [1] Hu 2014 | Table 3, p. 7, row 16 |  |
-| 1249.15 | quasi-peritectic: L + NiTi = NiTi2 + (Cr, βTi) |  | experimental | [1] Hu 2014; _cites Krendelsberger 2013_ [doi](https://doi.org/10.1016/j.jallcom.2013.04.061) | Table 3, p. 7, row 15 |  |
-| 1194 | L -> fcc + Ni3Ti + NiTi | Ni3Ti: Ti 0.25; NiTi: Ti 0.5 | model | [2] Huang 2018 | Table 4, p. 6, row 3 |  |
-| 1163 | L + Laves_C14 -> Laves_C36 + NiTi | NiTi: Ti 0.5 | model | [2] Huang 2018 | Table 4, p. 6, row 4 |  |
-| 1162 | L + Laves_C15 -> Laves_C36 + NiTi | NiTi: Ti 0.5 | model | [2] Huang 2018 | Table 4, p. 6, row 5 |  |
-| 927 | L -> Laves_C14 + NiTi + NiTi2 | NiTi: Ti 0.5; NiTi2: Ti 0.666667 | model | [2] Huang 2018 | Table 4, p. 6, row 6 |  |
-| 926 | L -> Laves_C15 + NiTi + NiTi2 | NiTi: Ti 0.5; NiTi2: Ti 0.666667 | model | [2] Huang 2018 | Table 4, p. 6, row 7 |  |
-| 923.15 | eutectoid: (Cr, ␤Ti) = (␣Ti) + NiTi2 + ␣Cr2 Ti |  | experimental | [1] Hu 2014; _cites Nartova 1988_ | p. 2 | “Within the investigated composition range, a eutectoid reaction (Cr, ␤Ti) = (␣Ti) + NiTi2 + ␣Cr2 Ti at 650 ◦ C is observed.” |
-| 923.15 | eutectic: (Cr, βTi) = (αTi) + NiTi2 + αCr2Ti |  | experimental | [1] Hu 2014; _cites Nartova 1988_ | Table 3, p. 7, row 17 |  |
-| 916.25 | eutectic: (Cr, βTi) = (αTi) + NiTi2 + αCr2Ti |  | model | [1] Hu 2014 | Table 3, p. 7, row 18 |  |
-| 828 | L + Laves_C15 -> Laves_C36 + Ni3Ti | Ni3Ti: Ti 0.25 | model | [2] Huang 2018 | Table 4, p. 6, row 8 |  |
-| 821 | L + Laves_C36 -> Laves_C15 + NiTi | NiTi: Ti 0.5 | model | [2] Huang 2018 | Table 4, p. 6, row 9 |  |
-| 743 | L + NiTi -> Laves_C15 + Ni3Ti | NiTi: Ti 0.5; Ni3Ti: Ti 0.25 | model | [2] Huang 2018 | Table 4, p. 6, row 10 |  |
-| 613 | L -> Laves_C15 + Ni3Ti + NiTi2 | Ni3Ti: Ti 0.25; NiTi2: Ti 0.666667 | model | [2] Huang 2018 | Table 4, p. 6, row 11 |  |
+| 1698.45 | peritectic: L + (Cr, βTi) = γCr2Ti |  | model | [1] Hu 2014 | Table 3, p. 7, row 2; `ORC-2JGMYY74BB` |  |
+| 1662.15 | peritectic: L + (Cr, βTi) = γCr2Ti |  | experimental | [1] Hu 2014; _cites Krendelsberger 2013_ [doi](https://doi.org/10.1016/j.jallcom.2013.04.061) | Table 3, p. 7, row 1; `ORC-QNYMCPVXC5` |  |
+| 1621.55 | eutectic: L = NiTi + γCr2Ti |  | model | [1] Hu 2014 | Table 3, p. 7, row 4; `ORC-KNJSW36WRZ` |  |
+| 1496.15 | eutectic: L = (Cr, βTi) + Ni3Ti |  | experimental | [1] Hu 2014; _cites Krendelsberger 2013_ [doi](https://doi.org/10.1016/j.jallcom.2013.04.061) | Table 3, p. 7, row 5; `ORC-473VGX2B2T` |  |
+| 1493.15 | eutectic |  | experimental | [1] Hu 2014; _cites Haour 1978_ | p. 2; `ORC-DHYEF3NWED` | “Haour et al. \[8\] reported a ternary eutectic at the composition of Cr3.7 Ni61 Ti35.3 (at.%) with a melting temperature of 1220 ◦ C.” |
+| 1489.35 | eutectic: L = (Cr, βTi) + Ni3Ti |  | model | [1] Hu 2014 | Table 3, p. 7, row 6; `ORC-2FHT6NJHDI` |  |
+| 1489.15 | eutectic: L = (Ni) + (Cr, βTi) + Ni3Ti |  | model | [1] Hu 2014 | Table 3, p. 7, row 8; `ORC-CH6LMAVYDE` |  |
+| 1489.15 | eutectic: L = (Ni) + (Cr, βTi) + Ni3Ti |  | experimental | [1] Hu 2014; _cites Krendelsberger 2013_ [doi](https://doi.org/10.1016/j.jallcom.2013.04.061) | Table 3, p. 7, row 7; `ORC-JDMGVLKXLT` |  |
+| 1475.15 | eutectic: L = NiTi + γCr2Ti |  | experimental | [1] Hu 2014; _cites Krendelsberger 2013_ [doi](https://doi.org/10.1016/j.jallcom.2013.04.061) | Table 3, p. 7, row 3; `ORC-YD33LFJSUJ` |  |
+| 1382.25 | quasi-peritectic: L + γCr2Ti = NiTi + (Cr, βTi) |  | model | [1] Hu 2014 | Table 3, p. 7, row 10; `ORC-TR55V2ILFP` |  |
+| 1382.15 | quasi-peritectic: L + γCr2Ti = NiTi + (Cr, βTi) |  | experimental | [1] Hu 2014; _cites Krendelsberger 2013_ [doi](https://doi.org/10.1016/j.jallcom.2013.04.061) | Table 3, p. 7, row 9; `ORC-T63ABS42YQ` |  |
+| 1373.15 | eutectic: L = Ni3Ti + NiTi + (Cr, βTi) |  | experimental | [1] Hu 2014; _cites Krendelsberger 2013_ [doi](https://doi.org/10.1016/j.jallcom.2013.04.061) | Table 3, p. 7, row 11; `ORC-USW3QNMVGJ` |  |
+| 1373.05 | eutectic: L = Ni3Ti + NiTi + (Cr, βTi) |  | model | [1] Hu 2014 | Table 3, p. 7, row 12; `ORC-VSYYBWNSXO` |  |
+| 1316.25 | quasi-peritectic: L + γCr2Ti = NiTi + (Cr, βTi) |  | model | [1] Hu 2014 | Table 3, p. 7, row 14; `ORC-F2J6MCE7OV` |  |
+| 1316.15 | quasi-peritectic: L + γCr2Ti = NiTi + (Cr, βTi) |  | experimental | [1] Hu 2014; _cites Krendelsberger 2013_ [doi](https://doi.org/10.1016/j.jallcom.2013.04.061) | Table 3, p. 7, row 13; `ORC-ZNZ6UJMD4K` |  |
+| 1280 | L + Laves_C36 -> Laves_C14 + NiTi | NiTi: Ti 0.5 | model | [2] Huang 2018 | Table 4, p. 6, row 1; `ORC-TO5SVD5UI3` |  |
+| 1275 | L + Laves_C36 + NiTi -> Laves_C14 | NiTi: Ti 0.5 | model | [2] Huang 2018 | Table 4, p. 6, row 2; `ORC-YPXALVUSMC` |  |
+| 1249.25 | quasi-peritectic: L + NiTi = NiTi2 + (Cr, βTi) |  | model | [1] Hu 2014 | Table 3, p. 7, row 16; `ORC-LPGCDOYFSL` |  |
+| 1249.15 | quasi-peritectic: L + NiTi = NiTi2 + (Cr, βTi) |  | experimental | [1] Hu 2014; _cites Krendelsberger 2013_ [doi](https://doi.org/10.1016/j.jallcom.2013.04.061) | Table 3, p. 7, row 15; `ORC-OREIXYCNU7` |  |
+| 1194 | L -> fcc + Ni3Ti + NiTi | Ni3Ti: Ti 0.25; NiTi: Ti 0.5 | model | [2] Huang 2018 | Table 4, p. 6, row 3; `ORC-5BQLD23WOA` |  |
+| 1163 | L + Laves_C14 -> Laves_C36 + NiTi | NiTi: Ti 0.5 | model | [2] Huang 2018 | Table 4, p. 6, row 4; `ORC-CIW7GI7ZKX` |  |
+| 1162 | L + Laves_C15 -> Laves_C36 + NiTi | NiTi: Ti 0.5 | model | [2] Huang 2018 | Table 4, p. 6, row 5; `ORC-CYZ24PAFDK` |  |
+| 927 | L -> Laves_C14 + NiTi + NiTi2 | NiTi: Ti 0.5; NiTi2: Ti 0.666667 | model | [2] Huang 2018 | Table 4, p. 6, row 6; `ORC-3KSBXKXFNV` |  |
+| 926 | L -> Laves_C15 + NiTi + NiTi2 | NiTi: Ti 0.5; NiTi2: Ti 0.666667 | model | [2] Huang 2018 | Table 4, p. 6, row 7; `ORC-XIABKTE5ZR` |  |
+| 923.15 | eutectoid: (Cr, ␤Ti) = (␣Ti) + NiTi2 + ␣Cr2 Ti |  | experimental | [1] Hu 2014; _cites Nartova 1988_ | p. 2; `ORC-6VPVEJ53AZ` | “Within the investigated composition range, a eutectoid reaction (Cr, ␤Ti) = (␣Ti) + NiTi2 + ␣Cr2 Ti at 650 ◦ C is observed.” |
+| 923.15 | eutectic: (Cr, βTi) = (αTi) + NiTi2 + αCr2Ti |  | experimental | [1] Hu 2014; _cites Nartova 1988_ | Table 3, p. 7, row 17; `ORC-VIMSZX2U3E` |  |
+| 916.25 | eutectic: (Cr, βTi) = (αTi) + NiTi2 + αCr2Ti |  | model | [1] Hu 2014 | Table 3, p. 7, row 18; `ORC-TUHSLS4KJE` |  |
+| 828 | L + Laves_C15 -> Laves_C36 + Ni3Ti | Ni3Ti: Ti 0.25 | model | [2] Huang 2018 | Table 4, p. 6, row 8; `ORC-3EXTH7I2NN` |  |
+| 821 | L + Laves_C36 -> Laves_C15 + NiTi | NiTi: Ti 0.5 | model | [2] Huang 2018 | Table 4, p. 6, row 9; `ORC-OVSDGNQ2KE` |  |
+| 743 | L + NiTi -> Laves_C15 + Ni3Ti | NiTi: Ti 0.5; Ni3Ti: Ti 0.25 | model | [2] Huang 2018 | Table 4, p. 6, row 10; `ORC-DBMKNXPOAA` |  |
+| 613 | L -> Laves_C15 + Ni3Ti + NiTi2 | Ni3Ti: Ti 0.25; NiTi2: Ti 0.666667 | model | [2] Huang 2018 | Table 4, p. 6, row 11; `ORC-JT3H4BZGFA` |  |
 
 ## Sources
 
@@ -101,4 +101,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

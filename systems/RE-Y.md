@@ -51,8 +51,8 @@ Table: Invariant reactions reported in the literature for the Re–Y system (2)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1723 | eutectic |  | experimental | [1] Zacherl 2010 | p. 1 | “A eutectic at 1723 K with a composition xY 1⁄4 95 at. % was also reported.” |
-| 1723 | eutectic |  | experimental | [1] Zacherl 2010 | p. 5 | “The experimental eutectic at a liquid composition of 94.97 at. % Y and 1723 K is well reproduced by the model parameters.” |
+| 1723 | eutectic |  | experimental | [1] Zacherl 2010 | p. 1; `ORC-7KDEBQ5MYR` | “A eutectic at 1723 K with a composition xY 1⁄4 95 at. % was also reported.” |
+| 1723 | eutectic |  | experimental | [1] Zacherl 2010 | p. 5; `ORC-OVETE7FJJF` | “The experimental eutectic at a liquid composition of 94.97 at. % Y and 1723 K is well reproduced by the model parameters.” |
 
 ## Other properties
 
@@ -62,10 +62,10 @@ Table: Crystal structure, Re–Y system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 5.406 Å |  | Re2Y; _alloy: Y 0.333333_ | DFT | [1] Zacherl 2010 | Table 1, p. 3, row 8 |  |
-| Lattice a | 5.397 Å | 298.15 | Re2Y; _alloy: Y 0.333333_ | experimental | [1] Zacherl 2010; _cites Compton 1959_ [doi](https://doi.org/10.1107/s0365110x59001918) | Table 1, p. 3, row 7 |  |
-| Lattice c | 8.845 Å |  | Re2Y; _alloy: Y 0.333333_ | DFT | [1] Zacherl 2010 | Table 1, p. 3, row 8 |  |
-| Lattice c | 8.824 Å | 298.15 | Re2Y; _alloy: Y 0.333333_ | experimental | [1] Zacherl 2010; _cites Compton 1959_ [doi](https://doi.org/10.1107/s0365110x59001918) | Table 1, p. 3, row 7 |  |
+| Lattice a | 5.406 Å |  | Re2Y; _alloy: Y 0.333333_ | DFT | [1] Zacherl 2010 | Table 1, p. 3, row 8; `ORC-SPGIHWLY2M.eb573f` |  |
+| Lattice a | 5.397 Å | 298.15 | Re2Y; _alloy: Y 0.333333_ | experimental | [1] Zacherl 2010; _cites Compton 1959_ [doi](https://doi.org/10.1107/s0365110x59001918) | Table 1, p. 3, row 7; `ORC-BLQ3L2KEIK.3f4924` |  |
+| Lattice c | 8.845 Å |  | Re2Y; _alloy: Y 0.333333_ | DFT | [1] Zacherl 2010 | Table 1, p. 3, row 8; `ORC-SPGIHWLY2M.c27f7f` |  |
+| Lattice c | 8.824 Å | 298.15 | Re2Y; _alloy: Y 0.333333_ | experimental | [1] Zacherl 2010; _cites Compton 1959_ [doi](https://doi.org/10.1107/s0365110x59001918) | Table 1, p. 3, row 7; `ORC-BLQ3L2KEIK.e614db` |  |
 
 ## Sources
 
@@ -130,4 +130,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -14,7 +14,7 @@ Table: Enthalpy of formation of Gd3Tl5 reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -59.05 kJ/mol-atom | Gd3Tl5 | 298.15 | model | revised Miedema model | [Gd–Tl](https://data.orchid-project.org/systems/GD-TL.html) | [1] Guo 2010 | p. 1 | “In the present work, the enthalpies of formation of compounds Gd2 Tl, Gd5 Tl3 , GdTl, Gd3 Tl5 , and GdTl3 at 298 K were predicted using revised Miedema model \[13\], in kJ/mol of atoms: Gd2 Tl -54.4, Gd5 Tl3 -59.2, GdTl -65.8, Gd3 Tl5 -59.05 and GdTl3 -42.06.” |
+| -59.05 kJ/mol-atom | Gd3Tl5 | 298.15 | model | revised Miedema model | [Gd–Tl](https://data.orchid-project.org/systems/GD-TL.html) | [1] Guo 2010 | p. 1; `ORC-QSJIPIFECV.16ce25` | “In the present work, the enthalpies of formation of compounds Gd2 Tl, Gd5 Tl3 , GdTl, Gd3 Tl5 , and GdTl3 at 298 K were predicted using revised Miedema model \[13\], in kJ/mol of atoms: Gd2 Tl -54.4, Gd5 Tl3 -59.2, GdTl -65.8, Gd3 Tl5 -59.05 and GdTl3 -42.06.” |
 
 ### Uncertainty budget
 
@@ -89,4 +89,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -64,21 +64,21 @@ Table: Invariant reactions reported in the literature for the Nb–Zn system (15
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1394 | peritectic: L + (Nb) -> NbZn | L: Zn 0.9658; NbZn: Nb 0.5, Zn 0.5 | model | [1] Long 2016 | Table 3, p. 5, row 14 |  |
-| 1393 | peritectic: L + (Nb) -> NbZn | L: Zn 0.9839; NbZn: Nb 0.5, Zn 0.5 | unspecified | [1] Long 2016; _cites Meussner 1965_ | Table 3, p. 5, row 13 |  |
-| 1388 | peritectic: L + NbZn -> NbZn1.5 | L: Zn 0.9671; NbZn: Nb 0.5, Zn 0.5; NbZn1.5: Nb 0.4, Zn 0.6 | model | [1] Long 2016 | Table 3, p. 5, row 12 |  |
-| 1387 | peritectic: L + NbZn -> NbZn1.5 | L: Zn 0.9848; NbZn: Nb 0.5, Zn 0.5; NbZn1.5: Nb 0.4, Zn 0.6 | unspecified | [1] Long 2016; _cites Meussner 1965_ | Table 3, p. 5, row 11 |  |
-| 1328 | peritectic: L + NbZn1.5 -> NbZn2 | L: Zn 0.9793; NbZn1.5: Nb 0.4, Zn 0.6; NbZn2: Nb 0.333333, Zn 0.666667 | model | [1] Long 2016 | Table 3, p. 5, row 10 |  |
-| 1327 | peritectic: L + NbZn1.5 -> NbZn2 | L: Zn 0.9894; NbZn1.5: Nb 0.4, Zn 0.6; NbZn2: Nb 0.333333, Zn 0.666667 | unspecified | [1] Long 2016; _cites Meussner 1965_ | Table 3, p. 5, row 9 |  |
-| 1307 | peritectic: L + NbZn2 -> NbZn3 | L: Zn 0.9905; NbZn2: Nb 0.333333, Zn 0.666667; NbZn3: Nb 0.25, Zn 0.75 | unspecified | [1] Long 2016; _cites Meussner 1965_ | Table 3, p. 5, row 7 |  |
-| 1307 | peritectic: L + NbZn2 -> NbZn3 | L: Zn 0.9829; NbZn2: Nb 0.333333, Zn 0.666667; NbZn3: Nb 0.25, Zn 0.75 | model | [1] Long 2016 | Table 3, p. 5, row 8 |  |
-| 751 | peritectic: L + NbZn3 -> NbZn7 | L: Zn 0.9995; NbZn3: Nb 0.25, Zn 0.75; NbZn7: Nb 0.125, Zn 0.875 | unspecified | [1] Long 2016; _cites Meussner 1965_ | Table 3, p. 5, row 5 |  |
-| 750 | peritectic: L + NbZn3 -> NbZn7 | L: Zn 0.9999; NbZn3: Nb 0.25, Zn 0.75; NbZn7: Nb 0.125, Zn 0.875 | model | [1] Long 2016 | Table 3, p. 5, row 6 |  |
-| 702 | peritectic: L + NbZn7 -> NbZn15 | L: Zn 0.9998; NbZn7: Nb 0.125, Zn 0.875; NbZn15: Nb 0.0625, Zn 0.9375 | unspecified | [1] Long 2016; _cites Meussner 1965_ | Table 3, p. 5, row 3 |  |
-| 702 | peritectic |  | experimental | [1] Long 2016; _cites Meussner 1965_ | p. 1 | “They are all formed by peritectic reactions at 1393 ± 2 (NbZn), 1387 ± 2 (NbZn1.5), 1327 ± 3 (NbZn2), 1307 ± 3 (NbZn3), 751 (NbZn7) and 702 K (NbZn15), respectively.\[5\]” |
-| 701 | peritectic: L + NbZn7 -> NbZn15 | L: Zn 0.9999; NbZn7: Nb 0.125, Zn 0.875; NbZn15: Nb 0.0625, Zn 0.9375 | model | [1] Long 2016 | Table 3, p. 5, row 4 |  |
-| 693 | eutectic: L -> (Zn) + NbZn15 | L: Zn 0.9999; NbZn15: Nb 0.0625, Zn 0.9375 | model | [1] Long 2016 | Table 3, p. 5, row 2 |  |
-| 691 | eutectic: L -> (Zn) + NbZn15 | L: Zn 0.9999; NbZn15: Nb 0.0625, Zn 0.9375 | unspecified | [1] Long 2016; _cites Meussner 1965_ | Table 3, p. 5, row 1 |  |
+| 1394 | peritectic: L + (Nb) -> NbZn | L: Zn 0.9658; NbZn: Nb 0.5, Zn 0.5 | model | [1] Long 2016 | Table 3, p. 5, row 14; `ORC-F4BCU4NSND` |  |
+| 1393 | peritectic: L + (Nb) -> NbZn | L: Zn 0.9839; NbZn: Nb 0.5, Zn 0.5 | unspecified | [1] Long 2016; _cites Meussner 1965_ | Table 3, p. 5, row 13; `ORC-SFKUTVLU7Z` |  |
+| 1388 | peritectic: L + NbZn -> NbZn1.5 | L: Zn 0.9671; NbZn: Nb 0.5, Zn 0.5; NbZn1.5: Nb 0.4, Zn 0.6 | model | [1] Long 2016 | Table 3, p. 5, row 12; `ORC-RFUAAHLPNP` |  |
+| 1387 | peritectic: L + NbZn -> NbZn1.5 | L: Zn 0.9848; NbZn: Nb 0.5, Zn 0.5; NbZn1.5: Nb 0.4, Zn 0.6 | unspecified | [1] Long 2016; _cites Meussner 1965_ | Table 3, p. 5, row 11; `ORC-7WGFFVYH7G` |  |
+| 1328 | peritectic: L + NbZn1.5 -> NbZn2 | L: Zn 0.9793; NbZn1.5: Nb 0.4, Zn 0.6; NbZn2: Nb 0.333333, Zn 0.666667 | model | [1] Long 2016 | Table 3, p. 5, row 10; `ORC-Z25XG3YFUI` |  |
+| 1327 | peritectic: L + NbZn1.5 -> NbZn2 | L: Zn 0.9894; NbZn1.5: Nb 0.4, Zn 0.6; NbZn2: Nb 0.333333, Zn 0.666667 | unspecified | [1] Long 2016; _cites Meussner 1965_ | Table 3, p. 5, row 9; `ORC-LXEEIRUQER` |  |
+| 1307 | peritectic: L + NbZn2 -> NbZn3 | L: Zn 0.9905; NbZn2: Nb 0.333333, Zn 0.666667; NbZn3: Nb 0.25, Zn 0.75 | unspecified | [1] Long 2016; _cites Meussner 1965_ | Table 3, p. 5, row 7; `ORC-AVAMD2TAMM` |  |
+| 1307 | peritectic: L + NbZn2 -> NbZn3 | L: Zn 0.9829; NbZn2: Nb 0.333333, Zn 0.666667; NbZn3: Nb 0.25, Zn 0.75 | model | [1] Long 2016 | Table 3, p. 5, row 8; `ORC-M6NDQNCY2B` |  |
+| 751 | peritectic: L + NbZn3 -> NbZn7 | L: Zn 0.9995; NbZn3: Nb 0.25, Zn 0.75; NbZn7: Nb 0.125, Zn 0.875 | unspecified | [1] Long 2016; _cites Meussner 1965_ | Table 3, p. 5, row 5; `ORC-M72EMEFEZP` |  |
+| 750 | peritectic: L + NbZn3 -> NbZn7 | L: Zn 0.9999; NbZn3: Nb 0.25, Zn 0.75; NbZn7: Nb 0.125, Zn 0.875 | model | [1] Long 2016 | Table 3, p. 5, row 6; `ORC-WQ2EGKUFUT` |  |
+| 702 | peritectic: L + NbZn7 -> NbZn15 | L: Zn 0.9998; NbZn7: Nb 0.125, Zn 0.875; NbZn15: Nb 0.0625, Zn 0.9375 | unspecified | [1] Long 2016; _cites Meussner 1965_ | Table 3, p. 5, row 3; `ORC-T7VTNGLNYL` |  |
+| 702 | peritectic |  | experimental | [1] Long 2016; _cites Meussner 1965_ | p. 1; `ORC-X7IRVCQ3JS` | “They are all formed by peritectic reactions at 1393 ± 2 (NbZn), 1387 ± 2 (NbZn1.5), 1327 ± 3 (NbZn2), 1307 ± 3 (NbZn3), 751 (NbZn7) and 702 K (NbZn15), respectively.\[5\]” |
+| 701 | peritectic: L + NbZn7 -> NbZn15 | L: Zn 0.9999; NbZn7: Nb 0.125, Zn 0.875; NbZn15: Nb 0.0625, Zn 0.9375 | model | [1] Long 2016 | Table 3, p. 5, row 4; `ORC-J5MQECQRTG` |  |
+| 693 | eutectic: L -> (Zn) + NbZn15 | L: Zn 0.9999; NbZn15: Nb 0.0625, Zn 0.9375 | model | [1] Long 2016 | Table 3, p. 5, row 2; `ORC-NP2UH344GB` |  |
+| 691 | eutectic: L -> (Zn) + NbZn15 | L: Zn 0.9999; NbZn15: Nb 0.0625, Zn 0.9375 | unspecified | [1] Long 2016; _cites Meussner 1965_ | Table 3, p. 5, row 1; `ORC-GUPRKHJG4X` |  |
 
 ## Formation enthalpies
 
@@ -88,12 +88,12 @@ Table: Enthalpies of formation, Nb–Zn system (6)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| NbZn15 |  | -3.637 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Long 2016 | Table 1, p. 3, row 5 |  |
-| NbZn15 |  | -3.636 kJ/mol (basis unstated) | 0 | model |  |  | [1] Long 2016 | Table 1, p. 3, row 5 |  |
-| NbZn2 |  | -15.236 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Long 2016 | Table 1, p. 3, row 1 |  |
-| NbZn2 |  | -15.233 kJ/mol (basis unstated) | 0 | model |  |  | [1] Long 2016 | Table 1, p. 3, row 1 |  |
-| NbZn3 |  | -15.192 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Long 2016 | Table 1, p. 3, row 3 |  |
-| NbZn3 |  | -13.57 kJ/mol (basis unstated) | 0 | model |  |  | [1] Long 2016 | Table 1, p. 3, row 3 |  |
+| NbZn15 |  | -3.637 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Long 2016 | Table 1, p. 3, row 5; `ORC-XFGGEBTNXN.45d3d4` |  |
+| NbZn15 |  | -3.636 kJ/mol (basis unstated) | 0 | model |  |  | [1] Long 2016 | Table 1, p. 3, row 5; `ORC-XFGGEBTNXN.975701` |  |
+| NbZn2 |  | -15.236 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Long 2016 | Table 1, p. 3, row 1; `ORC-K4YR4OOKHZ.031277` |  |
+| NbZn2 |  | -15.233 kJ/mol (basis unstated) | 0 | model |  |  | [1] Long 2016 | Table 1, p. 3, row 1; `ORC-K4YR4OOKHZ.25acee` |  |
+| NbZn3 |  | -15.192 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Long 2016 | Table 1, p. 3, row 3; `ORC-PB3SVTA6UM.7be4b2` |  |
+| NbZn3 |  | -13.57 kJ/mol (basis unstated) | 0 | model |  |  | [1] Long 2016 | Table 1, p. 3, row 3; `ORC-PB3SVTA6UM.1c499c` |  |
 
 ## Other properties
 
@@ -103,16 +103,16 @@ Table: Crystal structure, Nb–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a; _printed: a_ | 7.696 Å | 0 | NbZn15; _alloy: Zn 0.9375_ | model | [1] Long 2016; _cites Nasch 1999_ [doi](https://doi.org/10.1006/jssc.1998.8091) | Table 1, p. 3, row 6 |  |
-| Lattice a; _printed: a_ | 7.737 Å | 0 | NbZn15; _alloy: Zn 0.9375_ | model | [1] Long 2016 | Table 1, p. 3, row 5 |  |
-| Lattice a; _printed: a_ | 5.068 Å | 0 | NbZn2; _alloy: Zn 0.666667_ | model | [1] Long 2016 | Table 1, p. 3, row 1 |  |
-| Lattice a; _printed: a_ | 5.05 Å | 0 | NbZn2; _alloy: Zn 0.666667_ | model | [1] Long 2016; _cites Vold 1961_ [doi](https://doi.org/10.1107/s0365110x61003764) | Table 1, p. 3, row 2 |  |
-| Lattice a; _printed: a_ | 3.933 Å | 0 | NbZn3; _alloy: Zn 0.75_ | model | [1] Long 2016; _cites Nasch 1999_ [doi](https://doi.org/10.1006/jssc.1998.8091) | Table 1, p. 3, row 4 |  |
-| Lattice a; _printed: a_ | 3.944 Å | 0 | NbZn3; _alloy: Zn 0.75_ | model | [1] Long 2016 | Table 1, p. 3, row 3 |  |
-| Lattice c; _printed: c_ | 11.663 Å | 0 | NbZn15; _alloy: Zn 0.9375_ | model | [1] Long 2016; _cites Nasch 1999_ [doi](https://doi.org/10.1006/jssc.1998.8091) | Table 1, p. 3, row 6 |  |
-| Lattice c; _printed: c_ | 11.627 Å | 0 | NbZn15; _alloy: Zn 0.9375_ | model | [1] Long 2016 | Table 1, p. 3, row 5 |  |
-| Lattice c; _printed: c_ | 16.356 Å | 0 | NbZn2; _alloy: Zn 0.666667_ | model | [1] Long 2016 | Table 1, p. 3, row 1 |  |
-| Lattice c; _printed: c_ | 16.32 Å | 0 | NbZn2; _alloy: Zn 0.666667_ | model | [1] Long 2016; _cites Vold 1961_ [doi](https://doi.org/10.1107/s0365110x61003764) | Table 1, p. 3, row 2 |  |
+| Lattice a; _printed: a_ | 7.696 Å | 0 | NbZn15; _alloy: Zn 0.9375_ | model | [1] Long 2016; _cites Nasch 1999_ [doi](https://doi.org/10.1006/jssc.1998.8091) | Table 1, p. 3, row 6; `ORC-NUV6MJ3CX7.81ae56` |  |
+| Lattice a; _printed: a_ | 7.737 Å | 0 | NbZn15; _alloy: Zn 0.9375_ | model | [1] Long 2016 | Table 1, p. 3, row 5; `ORC-P4LADV42LV.68a4c8` |  |
+| Lattice a; _printed: a_ | 5.068 Å | 0 | NbZn2; _alloy: Zn 0.666667_ | model | [1] Long 2016 | Table 1, p. 3, row 1; `ORC-AO3JJIPYUK.66c1c3` |  |
+| Lattice a; _printed: a_ | 5.05 Å | 0 | NbZn2; _alloy: Zn 0.666667_ | model | [1] Long 2016; _cites Vold 1961_ [doi](https://doi.org/10.1107/s0365110x61003764) | Table 1, p. 3, row 2; `ORC-KTSEQ64QQJ.8fa6ee` |  |
+| Lattice a; _printed: a_ | 3.933 Å | 0 | NbZn3; _alloy: Zn 0.75_ | model | [1] Long 2016; _cites Nasch 1999_ [doi](https://doi.org/10.1006/jssc.1998.8091) | Table 1, p. 3, row 4; `ORC-HQJ6G5TGYI.54ec7b` |  |
+| Lattice a; _printed: a_ | 3.944 Å | 0 | NbZn3; _alloy: Zn 0.75_ | model | [1] Long 2016 | Table 1, p. 3, row 3; `ORC-NMO44RSJCU.6dac44` |  |
+| Lattice c; _printed: c_ | 11.663 Å | 0 | NbZn15; _alloy: Zn 0.9375_ | model | [1] Long 2016; _cites Nasch 1999_ [doi](https://doi.org/10.1006/jssc.1998.8091) | Table 1, p. 3, row 6; `ORC-NUV6MJ3CX7.259062` |  |
+| Lattice c; _printed: c_ | 11.627 Å | 0 | NbZn15; _alloy: Zn 0.9375_ | model | [1] Long 2016 | Table 1, p. 3, row 5; `ORC-P4LADV42LV.9a1a07` |  |
+| Lattice c; _printed: c_ | 16.356 Å | 0 | NbZn2; _alloy: Zn 0.666667_ | model | [1] Long 2016 | Table 1, p. 3, row 1; `ORC-AO3JJIPYUK.11f673` |  |
+| Lattice c; _printed: c_ | 16.32 Å | 0 | NbZn2; _alloy: Zn 0.666667_ | model | [1] Long 2016; _cites Vold 1961_ [doi](https://doi.org/10.1107/s0365110x61003764) | Table 1, p. 3, row 2; `ORC-KTSEQ64QQJ.442ba9` |  |
 
 ## Sources
 
@@ -177,4 +177,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

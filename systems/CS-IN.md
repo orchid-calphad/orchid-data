@@ -56,18 +56,18 @@ Table: Crystal structure, Cs–In system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 7.062 Å | 0 | Cs2In3; _alloy: In 0.6_ | DFT | [1] Lee 2010 | Table 1, p. 2, row 11 |  |
-| Lattice a | 6.91 not_printed ± 0.003 |  | Cs2In3; _alloy: In 0.6_ | experimental | [1] Lee 2010; _cites Yatsenko 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990228-0) | Table 1, p. 2, row 9 |  |
-| Lattice a | 7.197 Å | 0 | CsIn3; _alloy: In 0.75_ | DFT | [1] Lee 2010 | Table 1, p. 2, row 10 |  |
-| Lattice a | 7.047 not_printed ± 0.004 |  | CsIn3; _alloy: In 0.75_ | experimental | [1] Lee 2010; _cites Tschuntonow 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990331-x) | Table 1, p. 2, row 7 |  |
-| Lattice a | 7.197 Å | 0 | UNKNOWN; _alloy: In 0.75_ | DFT | [1] Lee 2010 | Table 1, p. 2, row 6 |  |
-| Lattice a | 7.062 Å | 0 | UNKNOWN; _alloy: In 0.6_ | DFT | [1] Lee 2010 | Table 1, p. 2, row 8 |  |
-| Lattice c | 16.824 Å | 0 | Cs2In3; _alloy: In 0.6_ | DFT | [1] Lee 2010 | Table 1, p. 2, row 11 |  |
-| Lattice c | 16.612 not_printed ± 0.007 |  | Cs2In3; _alloy: In 0.6_ | experimental | [1] Lee 2010; _cites Yatsenko 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990228-0) | Table 1, p. 2, row 9 |  |
-| Lattice c | 17.109 Å | 0 | CsIn3; _alloy: In 0.75_ | DFT | [1] Lee 2010 | Table 1, p. 2, row 10 |  |
-| Lattice c | 16.803 not_printed ± 0.007 |  | CsIn3; _alloy: In 0.75_ | experimental | [1] Lee 2010; _cites Tschuntonow 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990331-x) | Table 1, p. 2, row 7 |  |
-| Lattice c | 17.109 Å | 0 | UNKNOWN; _alloy: In 0.75_ | DFT | [1] Lee 2010 | Table 1, p. 2, row 6 |  |
-| Lattice c | 16.824 Å | 0 | UNKNOWN; _alloy: In 0.6_ | DFT | [1] Lee 2010 | Table 1, p. 2, row 8 |  |
+| Lattice a | 7.062 Å | 0 | Cs2In3; _alloy: In 0.6_ | DFT | [1] Lee 2010 | Table 1, p. 2, row 11; `ORC-3WQRMVZJZO.6a74f3` |  |
+| Lattice a | 6.91 not_printed ± 0.003 |  | Cs2In3; _alloy: In 0.6_ | experimental | [1] Lee 2010; _cites Yatsenko 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990228-0) | Table 1, p. 2, row 9; `ORC-M255UGUYHG.6103e3` |  |
+| Lattice a | 7.197 Å | 0 | CsIn3; _alloy: In 0.75_ | DFT | [1] Lee 2010 | Table 1, p. 2, row 10; `ORC-BDA54TMTYR.27fb3d` |  |
+| Lattice a | 7.047 not_printed ± 0.004 |  | CsIn3; _alloy: In 0.75_ | experimental | [1] Lee 2010; _cites Tschuntonow 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990331-x) | Table 1, p. 2, row 7; `ORC-KYL3KWUIBI.dd5d17` |  |
+| Lattice a | 7.197 Å | 0 | UNKNOWN; _alloy: In 0.75_ | DFT | [1] Lee 2010 | Table 1, p. 2, row 6; `ORC-75E3EQ2C6C.c76fbb` |  |
+| Lattice a | 7.062 Å | 0 | UNKNOWN; _alloy: In 0.6_ | DFT | [1] Lee 2010 | Table 1, p. 2, row 8; `ORC-FZWVLKETHW.41fbf6` |  |
+| Lattice c | 16.824 Å | 0 | Cs2In3; _alloy: In 0.6_ | DFT | [1] Lee 2010 | Table 1, p. 2, row 11; `ORC-3WQRMVZJZO.34e368` |  |
+| Lattice c | 16.612 not_printed ± 0.007 |  | Cs2In3; _alloy: In 0.6_ | experimental | [1] Lee 2010; _cites Yatsenko 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990228-0) | Table 1, p. 2, row 9; `ORC-M255UGUYHG.14fd5c` |  |
+| Lattice c | 17.109 Å | 0 | CsIn3; _alloy: In 0.75_ | DFT | [1] Lee 2010 | Table 1, p. 2, row 10; `ORC-BDA54TMTYR.472f53` |  |
+| Lattice c | 16.803 not_printed ± 0.007 |  | CsIn3; _alloy: In 0.75_ | experimental | [1] Lee 2010; _cites Tschuntonow 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990331-x) | Table 1, p. 2, row 7; `ORC-KYL3KWUIBI.9aa2f3` |  |
+| Lattice c | 17.109 Å | 0 | UNKNOWN; _alloy: In 0.75_ | DFT | [1] Lee 2010 | Table 1, p. 2, row 6; `ORC-75E3EQ2C6C.a4cecf` |  |
+| Lattice c | 16.824 Å | 0 | UNKNOWN; _alloy: In 0.6_ | DFT | [1] Lee 2010 | Table 1, p. 2, row 8; `ORC-FZWVLKETHW.6e394b` |  |
 
 ## Sources
 
@@ -132,4 +132,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

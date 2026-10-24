@@ -29,8 +29,8 @@ Table: Invariant reactions reported in the literature for the B–Ba system (2)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1388 | BaB6 + β(B) = α(B) | BaB6: Ba 0.143; β(B): Ba 0; α(B): Ba 0 | model | [1] Shang 2007 | Table 4, p. 5, row 19 |  |
-| 1000 | liq1 = BaB6 + bcc(Ba) | liq1: Ba 1; BaB6: Ba 0.143; bcc(Ba): Ba 1 | model | [1] Shang 2007 | Table 4, p. 5, row 20 |  |
+| 1388 | BaB6 + β(B) = α(B) | BaB6: Ba 0.143; β(B): Ba 0; α(B): Ba 0 | model | [1] Shang 2007 | Table 4, p. 5, row 19; `ORC-FUPWUCOV3V` |  |
+| 1000 | liq1 = BaB6 + bcc(Ba) | liq1: Ba 1; BaB6: Ba 0.143; bcc(Ba): Ba 1 | model | [1] Shang 2007 | Table 4, p. 5, row 20; `ORC-DMMVQVHRRF` |  |
 
 ## Formation enthalpies
 
@@ -40,9 +40,9 @@ Table: Enthalpies of formation, B–Ba system (3)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| BaB6 | [BaB6](https://data.orchid-project.org/compounds/BaB6.html) | -40.8625 kJ/mol-atom | 298.15 | model | -39.556 (mp-aaaaabks) | -39.486 (oqmd-646731) | [1] Shang 2007 | Table 3, p. 3, row 9 |  |
-| BaB6 | [BaB6](https://data.orchid-project.org/compounds/BaB6.html) | -40.8376 kJ/mol-atom | 298.15 | model | -39.556 (mp-aaaaabks) | -39.486 (oqmd-646731) | [1] Shang 2007 | Table 3, p. 3, row 11 |  |
-| BaB6 | [BaB6](https://data.orchid-project.org/compounds/BaB6.html) | -40.2307 kJ/mol-atom | 298.15 | model | -39.556 (mp-aaaaabks) | -39.486 (oqmd-646731) | [1] Shang 2007 | Table 3, p. 3, row 12 |  |
+| BaB6 | [BaB6](https://data.orchid-project.org/compounds/BaB6.html) | -40.8625 kJ/mol-atom | 298.15 | model | -39.556 (mp-aaaaabks) | -39.486 (oqmd-646731) | [1] Shang 2007 | Table 3, p. 3, row 9; `ORC-F6FRHUH4YQ.5c6e86` |  |
+| BaB6 | [BaB6](https://data.orchid-project.org/compounds/BaB6.html) | -40.8376 kJ/mol-atom | 298.15 | model | -39.556 (mp-aaaaabks) | -39.486 (oqmd-646731) | [1] Shang 2007 | Table 3, p. 3, row 11; `ORC-4FLGV5BABI.d5bcaa` |  |
+| BaB6 | [BaB6](https://data.orchid-project.org/compounds/BaB6.html) | -40.2307 kJ/mol-atom | 298.15 | model | -39.556 (mp-aaaaabks) | -39.486 (oqmd-646731) | [1] Shang 2007 | Table 3, p. 3, row 12; `ORC-24JL5Z7OLO.ead560` |  |
 
 ## Other properties
 
@@ -52,9 +52,9 @@ Table: Formation, B–Ba system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy of formation; _printed: ΔfS298_ | -0.168946 J/mol-atom/K | 298.15 | BaB6; _alloy: Ba 0.142857_ | model | [1] Shang 2007 | Table 3, p. 3, row 12 |  |
-| Entropy of formation; _printed: ΔfS298_ | -1.68914 J/mol-atom/K | 298.15 | BaB6; _alloy: Ba 0.142857_ | model | [1] Shang 2007 | Table 3, p. 3, row 11 |  |
-| Entropy of formation; _printed: ΔfS298_ | -1.68956 J/mol-atom/K | 298.15 | BaB6; _alloy: Ba 0.142857_ | model | [1] Shang 2007 | Table 3, p. 3, row 9 |  |
+| Entropy of formation; _printed: ΔfS298_ | -0.168946 J/mol-atom/K | 298.15 | BaB6; _alloy: Ba 0.142857_ | model | [1] Shang 2007 | Table 3, p. 3, row 12; `ORC-24JL5Z7OLO.b84fdb` |  |
+| Entropy of formation; _printed: ΔfS298_ | -1.68914 J/mol-atom/K | 298.15 | BaB6; _alloy: Ba 0.142857_ | model | [1] Shang 2007 | Table 3, p. 3, row 11; `ORC-4FLGV5BABI.f7b7ce` |  |
+| Entropy of formation; _printed: ΔfS298_ | -1.68956 J/mol-atom/K | 298.15 | BaB6; _alloy: Ba 0.142857_ | model | [1] Shang 2007 | Table 3, p. 3, row 9; `ORC-F6FRHUH4YQ.30389e` |  |
 
 ## Sources
 
@@ -108,4 +108,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

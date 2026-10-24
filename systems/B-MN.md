@@ -31,48 +31,48 @@ Table: Invariant reactions reported in the literature for the B–Mn system (42)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2263.15 | L ↔ MnB2 | MnB2: B 0.667 | model | [1] Sun 2010; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02652172) | Table 4, p. 5, row 25 |  |
-| 2163.15 | L ↔ MnB | MnB: B 0.5 | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 4, p. 5, row 15 |  |
-| 2163.15 | L ↔ MnB | MnB: B 0.5 | model | [1] Sun 2010; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02652172) | Table 4, p. 5, row 16 |  |
-| 2163.15 | L ↔ MnB | MnB: B 0.5 | experimental | [1] Sun 2010; _cites Markovskii 1967_ | Table 4, p. 5, row 14 |  |
-| 2161.15 | L ↔ MnB | MnB: B 0.5 | model | [1] Sun 2010 | Table 4, p. 5, row 13 |  |
-| 2107.15 | L ↔ MnB2 | MnB2: B 0.667 | model | [1] Sun 2010 | Table 4, p. 5, row 23 |  |
-| 2100.15 | L + MnB ↔ Mn3B4 | L: B 0.573; MnB: B 0.5; Mn3B4: B 0.571 | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 4, p. 5, row 18 |  |
-| 2100.15 | L ↔ MnB2 | MnB2: B 0.667 | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 4, p. 5, row 24 |  |
-| 2079.15 | L + MnB ↔ Mn3B4 | L: B 0.573; MnB: B 0.5; Mn3B4: B 0.571 | model | [1] Sun 2010 | Table 4, p. 5, row 17 |  |
-| 2073.15 | L ↔ MnB2 + βB | L: B 0.8; MnB2: B 0.667 | model | [1] Sun 2010; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02652172) | Table 4, p. 5, row 28 |  |
-| 2061.15 | L ↔ Mn3B4 + MnB2 | L: B 0.611; Mn3B4: B 0.571; MnB2: B 0.667 | model | [1] Sun 2010 | Table 4, p. 5, row 20 |  |
-| 2023.15 | L ↔ Mn3B4 + MnB2 | L: B 0.615; Mn3B4: B 0.571; MnB2: B 0.667 | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 4, p. 5, row 21 |  |
-| 2023.15 | L + MnB ↔ Mn3B4 | MnB: B 0.5; Mn3B4: B 0.571 | model | [1] Sun 2010; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02652172) | Table 4, p. 5, row 19 |  |
-| 2003.15 | L ↔ MnB2 + βB | L: B 0.8; MnB2: B 0.667; βB: B 1 | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 4, p. 5, row 27 |  |
-| 1977.15 | L ↔ MnB2 + βB | L: B 0.77; MnB2: B 0.667; βB: B 0.959 | model | [1] Sun 2010 | Table 4, p. 5, row 26 |  |
-| 1903.15 | L ↔ Mn3B4 + MnB2 | Mn3B4: B 0.571; MnB2: B 0.667 | model | [1] Sun 2010; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02652172) | Table 4, p. 5, row 22 |  |
-| 1853.15 | L ↔ t-Mn2B | t-Mn2B: B 0.333 | model | [1] Sun 2010; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02652172) | Table 4, p. 5, row 8 |  |
-| 1853.15 | L ↔ t-Mn2B | t-Mn2B: B 0.333 | experimental | [1] Sun 2010; _cites Markovskii 1967_ | Table 4, p. 5, row 6 |  |
-| 1853.15 | L ↔ t-Mn2B | t-Mn2B: B 0.333 | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 4, p. 5, row 7 |  |
-| 1819.15 | L ↔ t-Mn2B | t-Mn2B: B 0.333 | model | [1] Sun 2010 | Table 4, p. 5, row 5 |  |
-| 1818.15 | L ↔ t-Mn2B + MnB | L: B 0.343; t-Mn2B: B 0.333; MnB: B 0.5 | model | [1] Sun 2010 | Table 4, p. 5, row 9 |  |
-| 1783.15 | L ↔ t-Mn2B + MnB | L: B 0.39; t-Mn2B: B 0.333; MnB: B 0.5 | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 4, p. 5, row 11 |  |
-| 1783.15 | L ↔ t-Mn2B + MnB | L: B 0.37; t-Mn2B: B 0.333; MnB: B 0.5 | model | [1] Sun 2010; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02652172) | Table 4, p. 5, row 12 |  |
-| 1783.15 | L ↔ t-Mn2B + MnB | t-Mn2B: B 0.333; MnB: B 0.5 | experimental | [1] Sun 2010; _cites Markovskii 1967_ | Table 4, p. 5, row 10 |  |
-| 1648.15 | MnB4 ↔ MnB2 + βB | MnB4: B 0.8; MnB2: B 0.667; βB: B 1 | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 4, p. 5, row 38 |  |
-| 1648.15 | MnB4 ↔ MnB2 + βB | MnB4: B 0.8; MnB2: B 0.667 | model | [1] Sun 2010; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02652172) | Table 4, p. 5, row 39 |  |
-| 1648.15 | MnB4 ↔ MnB2 + βB | MnB4: B 0.8; MnB2: B 0.667; βB: B 0.965 | model | [1] Sun 2010 | Table 4, p. 5, row 36 |  |
-| 1623.15 | MnB4 ↔ MnB2 + βB | MnB4: B 0.8; MnB2: B 0.667 | experimental | [1] Sun 2010; _cites Andersson 1970_ [doi](https://doi.org/10.3891/acta.chem.scand.24-1791) | Table 4, p. 5, row 37 |  |
-| 1484.15 | eutectic: L M dMn + t-Mn2B |  | experimental | [1] Sun 2010; _cites Pradelli 1974_ | p. 2 | “By means of chemical analysis, XRD, differential thermal analysis (DTA), and microscopy, Pradelli and Gianoglio\[19\] reinvestigated this part of the phase diagram and proposed an eutectic reaction (L M dMn + t-Mn2B at 1211 C) and a peritectoid reaction (Mn4B M cMn + t-Mn2B at 1124 C).” |
-| 1484.15 | L ↔ δMn + t-Mn2B | L: B 0.143; t-Mn2B: B 0.333 | experimental | [1] Sun 2010; _cites Pradelli 1974_ | Table 4, p. 5, row 2 |  |
-| 1484.15 | L ↔ δMn + t-Mn2B | L: B 0.143; t-Mn2B: B 0.333 | model | [1] Sun 2010; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02652172) | Table 4, p. 5, row 4 |  |
-| 1484.15 | eutectic: L M dMn + t-Mn2B |  | model | [1] Sun 2010 | p. 6 | “Since we keep the temperature for L M dMn + t-Mn2B around 1211 C and make the dMn\\L liquidus monotonic as B content increases, the calculated eutectic composition at 8.9 at.% B instead of 14.3 at.% B can be accepted.” |
-| 1480.15 | L ↔ δMn + t-Mn2B | L: B 0.15; δMn: B 0; t-Mn2B: B 0.333 | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 4, p. 5, row 3 |  |
-| 1477.15 | L ↔ δMn + t-Mn2B | L: B 0.089; δMn: B 0; t-Mn2B: B 0.333 | model | [1] Sun 2010 | Table 4, p. 5, row 1 |  |
-| 1397.15 | peritectoid: Mn4B M cMn + t-Mn2B |  | experimental | [1] Sun 2010; _cites Pradelli 1974_ | p. 2 | “By means of chemical analysis, XRD, differential thermal analysis (DTA), and microscopy, Pradelli and Gianoglio\[19\] reinvestigated this part of the phase diagram and proposed an eutectic reaction (L M dMn + t-Mn2B at 1211 C) and a peritectoid reaction (Mn4B M cMn + t-Mn2B at 1124 C).” |
-| 1397.15 | o-Mn2B0.982 ↔ γMn + t-Mn2B | o-Mn2B0.982: B 0.329; γMn: B 0; t-Mn2B: B 0.333 | model | [1] Sun 2010 | Table 4, p. 5, row 29 |  |
-| 1397.15 | o-Mn2B0.982 ↔ γMn + t-Mn2B | t-Mn2B: B 0.333 | experimental | [1] Sun 2010; _cites Pradelli 1974_ | Table 4, p. 5, row 30 |  |
-| 1393.15 | o-Mn2B0.982 ↔ γMn + t-Mn2B | o-Mn2B0.982: B 0.25; γMn: B 0; t-Mn2B: B 0.333 | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 4, p. 5, row 31 |  |
-| 1373.15 | MnB2 ↔ Mn3B4 + MnB4 | MnB2: B 0.667; Mn3B4: B 0.571; MnB4: B 0.8 | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 4, p. 5, row 34 |  |
-| 1358.15 | MnB2 ↔ Mn3B4 + MnB4 | MnB2: B 0.667; Mn3B4: B 0.571; MnB4: B 0.8 | model | [1] Sun 2010 | Table 4, p. 5, row 32 |  |
-| 1348.15 | MnB2 ↔ Mn3B4 + MnB4 | MnB2: B 0.667; Mn3B4: B 0.571; MnB4: B 0.8 | model | [1] Sun 2010; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02652172) | Table 4, p. 5, row 35 |  |
-| 1323.15 | MnB2 ↔ Mn3B4 + MnB4 | MnB2: B 0.667; Mn3B4: B 0.571; MnB4: B 0.8 | experimental | [1] Sun 2010; _cites Andersson 1970_ [doi](https://doi.org/10.3891/acta.chem.scand.24-1791) | Table 4, p. 5, row 33 |  |
+| 2263.15 | L ↔ MnB2 | MnB2: B 0.667 | model | [1] Sun 2010; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02652172) | Table 4, p. 5, row 25; `ORC-OWAETBNUH6` |  |
+| 2163.15 | L ↔ MnB | MnB: B 0.5 | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 4, p. 5, row 15; `ORC-4PLYELZ2SG` |  |
+| 2163.15 | L ↔ MnB | MnB: B 0.5 | model | [1] Sun 2010; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02652172) | Table 4, p. 5, row 16; `ORC-QFP33DT7S3` |  |
+| 2163.15 | L ↔ MnB | MnB: B 0.5 | experimental | [1] Sun 2010; _cites Markovskii 1967_ | Table 4, p. 5, row 14; `ORC-ZVKC7GLAOY` |  |
+| 2161.15 | L ↔ MnB | MnB: B 0.5 | model | [1] Sun 2010 | Table 4, p. 5, row 13; `ORC-P67AZGMU67` |  |
+| 2107.15 | L ↔ MnB2 | MnB2: B 0.667 | model | [1] Sun 2010 | Table 4, p. 5, row 23; `ORC-MRMI7FWINO` |  |
+| 2100.15 | L + MnB ↔ Mn3B4 | L: B 0.573; MnB: B 0.5; Mn3B4: B 0.571 | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 4, p. 5, row 18; `ORC-D45UZXWHWD` |  |
+| 2100.15 | L ↔ MnB2 | MnB2: B 0.667 | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 4, p. 5, row 24; `ORC-DXIHZFZCLJ` |  |
+| 2079.15 | L + MnB ↔ Mn3B4 | L: B 0.573; MnB: B 0.5; Mn3B4: B 0.571 | model | [1] Sun 2010 | Table 4, p. 5, row 17; `ORC-UBXYURORVK` |  |
+| 2073.15 | L ↔ MnB2 + βB | L: B 0.8; MnB2: B 0.667 | model | [1] Sun 2010; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02652172) | Table 4, p. 5, row 28; `ORC-YTTWXA7NU2` |  |
+| 2061.15 | L ↔ Mn3B4 + MnB2 | L: B 0.611; Mn3B4: B 0.571; MnB2: B 0.667 | model | [1] Sun 2010 | Table 4, p. 5, row 20; `ORC-YNALYFTQXG` |  |
+| 2023.15 | L ↔ Mn3B4 + MnB2 | L: B 0.615; Mn3B4: B 0.571; MnB2: B 0.667 | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 4, p. 5, row 21; `ORC-HEYGL3AGO5` |  |
+| 2023.15 | L + MnB ↔ Mn3B4 | MnB: B 0.5; Mn3B4: B 0.571 | model | [1] Sun 2010; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02652172) | Table 4, p. 5, row 19; `ORC-IA2O7SUNIA` |  |
+| 2003.15 | L ↔ MnB2 + βB | L: B 0.8; MnB2: B 0.667; βB: B 1 | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 4, p. 5, row 27; `ORC-BPJYALXNPD` |  |
+| 1977.15 | L ↔ MnB2 + βB | L: B 0.77; MnB2: B 0.667; βB: B 0.959 | model | [1] Sun 2010 | Table 4, p. 5, row 26; `ORC-3DRMAGBQJX` |  |
+| 1903.15 | L ↔ Mn3B4 + MnB2 | Mn3B4: B 0.571; MnB2: B 0.667 | model | [1] Sun 2010; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02652172) | Table 4, p. 5, row 22; `ORC-XA5IZ5ZA52` |  |
+| 1853.15 | L ↔ t-Mn2B | t-Mn2B: B 0.333 | model | [1] Sun 2010; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02652172) | Table 4, p. 5, row 8; `ORC-6UMTM3FFAA` |  |
+| 1853.15 | L ↔ t-Mn2B | t-Mn2B: B 0.333 | experimental | [1] Sun 2010; _cites Markovskii 1967_ | Table 4, p. 5, row 6; `ORC-JHYRL4BAEC` |  |
+| 1853.15 | L ↔ t-Mn2B | t-Mn2B: B 0.333 | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 4, p. 5, row 7; `ORC-R7E5BDIE3V` |  |
+| 1819.15 | L ↔ t-Mn2B | t-Mn2B: B 0.333 | model | [1] Sun 2010 | Table 4, p. 5, row 5; `ORC-LJDY7JWBO7` |  |
+| 1818.15 | L ↔ t-Mn2B + MnB | L: B 0.343; t-Mn2B: B 0.333; MnB: B 0.5 | model | [1] Sun 2010 | Table 4, p. 5, row 9; `ORC-7BCMZEDNUZ` |  |
+| 1783.15 | L ↔ t-Mn2B + MnB | L: B 0.39; t-Mn2B: B 0.333; MnB: B 0.5 | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 4, p. 5, row 11; `ORC-2XSU5OM6DQ` |  |
+| 1783.15 | L ↔ t-Mn2B + MnB | L: B 0.37; t-Mn2B: B 0.333; MnB: B 0.5 | model | [1] Sun 2010; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02652172) | Table 4, p. 5, row 12; `ORC-H2OKIKGT6T` |  |
+| 1783.15 | L ↔ t-Mn2B + MnB | t-Mn2B: B 0.333; MnB: B 0.5 | experimental | [1] Sun 2010; _cites Markovskii 1967_ | Table 4, p. 5, row 10; `ORC-WCYMWSZGQC` |  |
+| 1648.15 | MnB4 ↔ MnB2 + βB | MnB4: B 0.8; MnB2: B 0.667; βB: B 1 | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 4, p. 5, row 38; `ORC-6TYWGKXGRE` |  |
+| 1648.15 | MnB4 ↔ MnB2 + βB | MnB4: B 0.8; MnB2: B 0.667 | model | [1] Sun 2010; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02652172) | Table 4, p. 5, row 39; `ORC-N37CE3EB6Q` |  |
+| 1648.15 | MnB4 ↔ MnB2 + βB | MnB4: B 0.8; MnB2: B 0.667; βB: B 0.965 | model | [1] Sun 2010 | Table 4, p. 5, row 36; `ORC-Q3JXJZPCRG` |  |
+| 1623.15 | MnB4 ↔ MnB2 + βB | MnB4: B 0.8; MnB2: B 0.667 | experimental | [1] Sun 2010; _cites Andersson 1970_ [doi](https://doi.org/10.3891/acta.chem.scand.24-1791) | Table 4, p. 5, row 37; `ORC-MAOBUPE3VK` |  |
+| 1484.15 | eutectic: L M dMn + t-Mn2B |  | experimental | [1] Sun 2010; _cites Pradelli 1974_ | p. 2; `ORC-5LGU35MZ2E.0659f5` | “By means of chemical analysis, XRD, differential thermal analysis (DTA), and microscopy, Pradelli and Gianoglio\[19\] reinvestigated this part of the phase diagram and proposed an eutectic reaction (L M dMn + t-Mn2B at 1211 C) and a peritectoid reaction (Mn4B M cMn + t-Mn2B at 1124 C).” |
+| 1484.15 | L ↔ δMn + t-Mn2B | L: B 0.143; t-Mn2B: B 0.333 | experimental | [1] Sun 2010; _cites Pradelli 1974_ | Table 4, p. 5, row 2; `ORC-IEHJ7OA4UT` |  |
+| 1484.15 | L ↔ δMn + t-Mn2B | L: B 0.143; t-Mn2B: B 0.333 | model | [1] Sun 2010; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02652172) | Table 4, p. 5, row 4; `ORC-U5BME2MCVT` |  |
+| 1484.15 | eutectic: L M dMn + t-Mn2B |  | model | [1] Sun 2010 | p. 6; `ORC-UYLNILP43S` | “Since we keep the temperature for L M dMn + t-Mn2B around 1211 C and make the dMn\\L liquidus monotonic as B content increases, the calculated eutectic composition at 8.9 at.% B instead of 14.3 at.% B can be accepted.” |
+| 1480.15 | L ↔ δMn + t-Mn2B | L: B 0.15; δMn: B 0; t-Mn2B: B 0.333 | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 4, p. 5, row 3; `ORC-JM2ZI5SQN4` |  |
+| 1477.15 | L ↔ δMn + t-Mn2B | L: B 0.089; δMn: B 0; t-Mn2B: B 0.333 | model | [1] Sun 2010 | Table 4, p. 5, row 1; `ORC-LNHXMRMQ3S` |  |
+| 1397.15 | peritectoid: Mn4B M cMn + t-Mn2B |  | experimental | [1] Sun 2010; _cites Pradelli 1974_ | p. 2; `ORC-5LGU35MZ2E.a045d8` | “By means of chemical analysis, XRD, differential thermal analysis (DTA), and microscopy, Pradelli and Gianoglio\[19\] reinvestigated this part of the phase diagram and proposed an eutectic reaction (L M dMn + t-Mn2B at 1211 C) and a peritectoid reaction (Mn4B M cMn + t-Mn2B at 1124 C).” |
+| 1397.15 | o-Mn2B0.982 ↔ γMn + t-Mn2B | o-Mn2B0.982: B 0.329; γMn: B 0; t-Mn2B: B 0.333 | model | [1] Sun 2010 | Table 4, p. 5, row 29; `ORC-63TETUVSMP` |  |
+| 1397.15 | o-Mn2B0.982 ↔ γMn + t-Mn2B | t-Mn2B: B 0.333 | experimental | [1] Sun 2010; _cites Pradelli 1974_ | Table 4, p. 5, row 30; `ORC-TV6OO3TCKQ` |  |
+| 1393.15 | o-Mn2B0.982 ↔ γMn + t-Mn2B | o-Mn2B0.982: B 0.25; γMn: B 0; t-Mn2B: B 0.333 | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 4, p. 5, row 31; `ORC-UEJUZ53SC2` |  |
+| 1373.15 | MnB2 ↔ Mn3B4 + MnB4 | MnB2: B 0.667; Mn3B4: B 0.571; MnB4: B 0.8 | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 4, p. 5, row 34; `ORC-EQINT54G2H` |  |
+| 1358.15 | MnB2 ↔ Mn3B4 + MnB4 | MnB2: B 0.667; Mn3B4: B 0.571; MnB4: B 0.8 | model | [1] Sun 2010 | Table 4, p. 5, row 32; `ORC-4ORJR3RTSE` |  |
+| 1348.15 | MnB2 ↔ Mn3B4 + MnB4 | MnB2: B 0.667; Mn3B4: B 0.571; MnB4: B 0.8 | model | [1] Sun 2010; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02652172) | Table 4, p. 5, row 35; `ORC-ROCUURYACS` |  |
+| 1323.15 | MnB2 ↔ Mn3B4 + MnB4 | MnB2: B 0.667; Mn3B4: B 0.571; MnB4: B 0.8 | experimental | [1] Sun 2010; _cites Andersson 1970_ [doi](https://doi.org/10.3891/acta.chem.scand.24-1791) | Table 4, p. 5, row 33; `ORC-BGKM2OL5ES` |  |
 
 ## Other properties
 
@@ -82,9 +82,9 @@ Table: Phase transition, B–Mn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1323.15 K | 1323.15 |  | model | [1] Sun 2010; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02652172) | p. 3 | “For the MnB compound, Okamoto\[4\] reported that it has two structures. aMnB is stable at low temperature and transforms to bMnB at 1050 C.” |
-| Phase transition | 1453.15 K | 1453.15 | L M Mn4B + a(Mn) | experimental | [1] Sun 2010; _cites Markovskii 1967_ | p. 2 | “In the composition range from pure Mn to t-Mn2B, Markovskii and Bezruk\[11\] reported two reactions: L M Mn4B + a(Mn) at 1180 C and L + t-Mn2B M Mn4B at 1285 C.” |
-| Phase transition | 1558.15 K | 1558.15 | L + t-Mn2B M Mn4B | experimental | [1] Sun 2010; _cites Markovskii 1967_ | p. 2 | “In the composition range from pure Mn to t-Mn2B, Markovskii and Bezruk\[11\] reported two reactions: L M Mn4B + a(Mn) at 1180 C and L + t-Mn2B M Mn4B at 1285 C.” |
+| Phase transition | 1323.15 K | 1323.15 |  | model | [1] Sun 2010; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02652172) | p. 3; `ORC-3HAAPTSVIO` | “For the MnB compound, Okamoto\[4\] reported that it has two structures. aMnB is stable at low temperature and transforms to bMnB at 1050 C.” |
+| Phase transition | 1453.15 K | 1453.15 | L M Mn4B + a(Mn) | experimental | [1] Sun 2010; _cites Markovskii 1967_ | p. 2; `ORC-WY63WSV5K3.9c154b` | “In the composition range from pure Mn to t-Mn2B, Markovskii and Bezruk\[11\] reported two reactions: L M Mn4B + a(Mn) at 1180 C and L + t-Mn2B M Mn4B at 1285 C.” |
+| Phase transition | 1558.15 K | 1558.15 | L + t-Mn2B M Mn4B | experimental | [1] Sun 2010; _cites Markovskii 1967_ | p. 2; `ORC-WY63WSV5K3.243979` | “In the composition range from pure Mn to t-Mn2B, Markovskii and Bezruk\[11\] reported two reactions: L M Mn4B + a(Mn) at 1180 C and L + t-Mn2B M Mn4B at 1285 C.” |
 
 ### Crystal structure (22)
 
@@ -92,28 +92,28 @@ Table: Crystal structure, B–Mn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 3.03 Å | 298.15 | Mn3B4; _alloy: Mn 0.428571_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 9 |  |
-| Lattice a | 14.53 Å | 298.15 | Mn4B; _alloy: Mn 0.8_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 14 |  |
-| Lattice a | 5.56 Å | 298.15 | MnB; _alloy: Mn 0.5_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 8 |  |
-| Lattice a | 3.007 Å | 298.15 | MnB2; _alloy: Mn 0.333333_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 10 |  |
-| Lattice a | 10.9907 Å | 298.15 | MnB23; _alloy: Mn 0.041667_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 12 |  |
-| Lattice a | 5.503 Å | 298.15 | MnB4; _alloy: Mn 0.2_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 11 |  |
-| Lattice a | 14.54 Å | 298.15 | o-Mn2B0.982; _alloy: Mn 0.670691_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 6 |  |
-| Lattice a | 5.148 Å | 298.15 | t-Mn2B; _alloy: Mn 0.666667_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 7 |  |
-| Lattice b | 12.86 Å | 298.15 | Mn3B4; _alloy: Mn 0.428571_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 9 |  |
-| Lattice b | 7.293 Å | 298.15 | Mn4B; _alloy: Mn 0.8_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 14 |  |
-| Lattice b | 2.977 Å | 298.15 | MnB; _alloy: Mn 0.5_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 8 |  |
-| Lattice b | 5.369 Å | 298.15 | MnB4; _alloy: Mn 0.2_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 11 |  |
-| Lattice b | 7.291 Å | 298.15 | o-Mn2B0.982; _alloy: Mn 0.670691_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 6 |  |
-| Lattice c | 2.96 Å | 298.15 | Mn3B4; _alloy: Mn 0.428571_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 9 |  |
-| Lattice c | 4.209 Å | 298.15 | Mn4B; _alloy: Mn 0.8_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 14 |  |
-| Lattice c | 4.145 Å | 298.15 | MnB; _alloy: Mn 0.5_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 8 |  |
-| Lattice c | 3.037 Å | 298.15 | MnB2; _alloy: Mn 0.333333_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 10 |  |
-| Lattice c | 23.9964 Å | 298.15 | MnB23; _alloy: Mn 0.041667_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 12 |  |
-| Lattice c | 2.949 Å | 298.15 | MnB4; _alloy: Mn 0.2_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 11 |  |
-| Lattice c | 4.208 Å | 298.15 | o-Mn2B0.982; _alloy: Mn 0.670691_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 6 |  |
-| Lattice c | 4.208 Å | 298.15 | t-Mn2B; _alloy: Mn 0.666667_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 7 |  |
-| lattice unspecified axis | 122.71 °C | 298.15 | MnB4; _alloy: Mn 0.2_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 11 |  |
+| Lattice a | 3.03 Å | 298.15 | Mn3B4; _alloy: Mn 0.428571_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 9; `ORC-2NONSXDEYS.da1c85` |  |
+| Lattice a | 14.53 Å | 298.15 | Mn4B; _alloy: Mn 0.8_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 14; `ORC-SBC2YKMKMC.1131f0` |  |
+| Lattice a | 5.56 Å | 298.15 | MnB; _alloy: Mn 0.5_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 8; `ORC-QAKPPXKNGB.cdd575` |  |
+| Lattice a | 3.007 Å | 298.15 | MnB2; _alloy: Mn 0.333333_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 10; `ORC-YVTWVWU6R6.afb557` |  |
+| Lattice a | 10.9907 Å | 298.15 | MnB23; _alloy: Mn 0.041667_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 12; `ORC-5M6LEYJ5WV.c87318` |  |
+| Lattice a | 5.503 Å | 298.15 | MnB4; _alloy: Mn 0.2_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 11; `ORC-2DVZMXWRHU.c42975` |  |
+| Lattice a | 14.54 Å | 298.15 | o-Mn2B0.982; _alloy: Mn 0.670691_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 6; `ORC-ZBCYSZDCLF.3afe42` |  |
+| Lattice a | 5.148 Å | 298.15 | t-Mn2B; _alloy: Mn 0.666667_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 7; `ORC-CZYEXYUME2.e4be59` |  |
+| Lattice b | 12.86 Å | 298.15 | Mn3B4; _alloy: Mn 0.428571_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 9; `ORC-2NONSXDEYS.62b9fa` |  |
+| Lattice b | 7.293 Å | 298.15 | Mn4B; _alloy: Mn 0.8_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 14; `ORC-SBC2YKMKMC.e2e6b5` |  |
+| Lattice b | 2.977 Å | 298.15 | MnB; _alloy: Mn 0.5_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 8; `ORC-QAKPPXKNGB.288cef` |  |
+| Lattice b | 5.369 Å | 298.15 | MnB4; _alloy: Mn 0.2_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 11; `ORC-2DVZMXWRHU.4e6047` |  |
+| Lattice b | 7.291 Å | 298.15 | o-Mn2B0.982; _alloy: Mn 0.670691_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 6; `ORC-ZBCYSZDCLF.873536` |  |
+| Lattice c | 2.96 Å | 298.15 | Mn3B4; _alloy: Mn 0.428571_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 9; `ORC-2NONSXDEYS.b3ba87` |  |
+| Lattice c | 4.209 Å | 298.15 | Mn4B; _alloy: Mn 0.8_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 14; `ORC-SBC2YKMKMC.0839e3` |  |
+| Lattice c | 4.145 Å | 298.15 | MnB; _alloy: Mn 0.5_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 8; `ORC-QAKPPXKNGB.d6158b` |  |
+| Lattice c | 3.037 Å | 298.15 | MnB2; _alloy: Mn 0.333333_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 10; `ORC-YVTWVWU6R6.803be7` |  |
+| Lattice c | 23.9964 Å | 298.15 | MnB23; _alloy: Mn 0.041667_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 12; `ORC-5M6LEYJ5WV.3f7a63` |  |
+| Lattice c | 2.949 Å | 298.15 | MnB4; _alloy: Mn 0.2_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 11; `ORC-2DVZMXWRHU.20417b` |  |
+| Lattice c | 4.208 Å | 298.15 | o-Mn2B0.982; _alloy: Mn 0.670691_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 6; `ORC-ZBCYSZDCLF.8cfbfd` |  |
+| Lattice c | 4.208 Å | 298.15 | t-Mn2B; _alloy: Mn 0.666667_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 7; `ORC-CZYEXYUME2.bffa58` |  |
+| lattice unspecified axis | 122.71 °C | 298.15 | MnB4; _alloy: Mn 0.2_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 11; `ORC-2DVZMXWRHU.8104f9` |  |
 
 ## Sources
 
@@ -167,4 +167,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

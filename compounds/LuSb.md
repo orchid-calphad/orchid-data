@@ -14,10 +14,10 @@ Table: Enthalpy of formation of LuSb reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -119 kJ/mol-atom | αLuSb | 298.15 | experimental |  | [Lu–Sb](https://data.orchid-project.org/systems/LU-SB.html) | [1] Wang 2011; _cites Ya 1979_ | Table 7, p. 5, row 7 |  |
-| -94 kJ/mol-atom | αLuSb | 298.15 | experimental |  | [Lu–Sb](https://data.orchid-project.org/systems/LU-SB.html) | [1] Wang 2011; _cites Chua 1974_ [doi](https://doi.org/10.1016/0040-6031%2874%2985109-9) | Table 7, p. 5, row 6 |  |
-| -115.746 kJ/mol-atom | αLuSb |  | model |  | [Lu–Sb](https://data.orchid-project.org/systems/LU-SB.html) | [1] Wang 2011 | Table 7, p. 5, row 8 |  |
-| -87 kJ/mol-atom | αLuSb |  | model |  | [Lu–Sb](https://data.orchid-project.org/systems/LU-SB.html) | [1] Wang 2011; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 7, p. 5, row 5 |  |
+| -119 kJ/mol-atom | αLuSb | 298.15 | experimental |  | [Lu–Sb](https://data.orchid-project.org/systems/LU-SB.html) | [1] Wang 2011; _cites Ya 1979_ | Table 7, p. 5, row 7; `ORC-4GTNC47HUA` |  |
+| -94 kJ/mol-atom | αLuSb | 298.15 | experimental |  | [Lu–Sb](https://data.orchid-project.org/systems/LU-SB.html) | [1] Wang 2011; _cites Chua 1974_ [doi](https://doi.org/10.1016/0040-6031%2874%2985109-9) | Table 7, p. 5, row 6; `ORC-SEBABBZLH7` |  |
+| -115.746 kJ/mol-atom | αLuSb |  | model |  | [Lu–Sb](https://data.orchid-project.org/systems/LU-SB.html) | [1] Wang 2011 | Table 7, p. 5, row 8; `ORC-WLXBK2VER5` |  |
+| -87 kJ/mol-atom | αLuSb |  | model |  | [Lu–Sb](https://data.orchid-project.org/systems/LU-SB.html) | [1] Wang 2011; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 7, p. 5, row 5; `ORC-K6G24NWHYC` |  |
 
 ### Uncertainty budget
 
@@ -96,4 +96,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

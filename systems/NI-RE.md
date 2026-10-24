@@ -55,31 +55,31 @@ Table: Phase transition, Ni–Re system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 633 K | 633 | magnetic | model | [1] Huang 1999; _cites Kirichenko 1964_ | p. 2 | “ature is 633 K for pure Ni, and it decreases as the Re content increases \[18,19\], approaching 0 K at about 12 at.% Re.” |
-| Phase transition | 1727.15 K | 1727.15 | other: Ni85Re15 Solidus; _alloy: Ni 0.85, Re 0.15_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 14 |  |
-| Phase transition | 1727.15 K | 1727.15 | other: Ni85Re15 Solidus; _alloy: Ni 0.85, Re 0.15_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 15 |  |
-| Phase transition | 1730.15 K | 1730.15 | other: Ni95Re5 Solidus; _alloy: Ni 0.95, Re 0.05_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 3 |  |
-| Phase transition | 1731.15 K | 1731.15 | other: Ni95Re5 Solidus; _alloy: Ni 0.95, Re 0.05_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 2 |  |
-| Phase transition | 1732.15 K | 1732.15 | other: Ni95Re5 Solidus; _alloy: Ni 0.95, Re 0.05_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 1 |  |
-| Phase transition | 1736.15 K | 1736.15 | other: Ni90Re10 Solidus; _alloy: Ni 0.9, Re 0.1_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 9 |  |
-| Phase transition | 1737.15 K | 1737.15 | other: Ni90Re10 Solidus; _alloy: Ni 0.9, Re 0.1_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 8 |  |
-| Phase transition | 1738.15 K | 1738.15 | other: Ni90Re10 Solidus; _alloy: Ni 0.9, Re 0.1_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 7 |  |
-| Phase transition | 1744.15 K | 1744.15 | other: Ni80Re20 Solvus; _alloy: Ni 0.8, Re 0.2_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 21 |  |
-| Phase transition | 1745.15 K | 1745.15 | other: Ni80Re20 Solvus; _alloy: Ni 0.8, Re 0.2_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 20 |  |
-| Phase transition | 1746.15 K | 1746.15 | other: Ni80Re20 Solvus; _alloy: Ni 0.8, Re 0.2_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 19 |  |
-| Phase transition | 1811.15 K | 1811.15 | peritectic: Peritectic reaction; _alloy: Ni 0.85, Re 0.15_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 18 |  |
-| Phase transition | 1812.15 K | 1812.15 | peritectic: Peritectic reaction; _alloy: Ni 0.85, Re 0.15_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 17 |  |
-| Phase transition | 1813.15 K | 1813.15 | peritectic: Peritectic reaction; _alloy: Ni 0.85, Re 0.15_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 16 |  |
-| Phase transition | 1817.15 K | 1817.15 | peritectic: Peritectic reaction; _alloy: Ni 0.8, Re 0.2_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 24 |  |
-| Phase transition | 1817.15 K | 1817.15 | peritectic: Peritectic reaction; _alloy: Ni 0.5, Re 0.5_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 27 |  |
-| Phase transition | 1817.15 K | 1817.15 | peritectic: Peritectic reaction; _alloy: Ni 0.9, Re 0.1_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 12 |  |
-| Phase transition | 1819.15 K | 1819.15 | peritectic: Peritectic reaction; _alloy: Ni 0.9, Re 0.1_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 11 |  |
-| Phase transition | 1819.15 K | 1819.15 | peritectic: Peritectic reaction; _alloy: Ni 0.5, Re 0.5_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 26 |  |
-| Phase transition | 1819.15 K | 1819.15 | peritectic: Peritectic reaction; _alloy: Ni 0.8, Re 0.2_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 23 |  |
-| Phase transition | 1821.15 K | 1821.15 | peritectic: Peritectic reaction; _alloy: Ni 0.5, Re 0.5_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 25 |  |
-| Phase transition | 1821.15 K | 1821.15 | peritectic: Peritectic reaction; _alloy: Ni 0.8, Re 0.2_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 22 |  |
-| Phase transition | 1821.15 K | 1821.15 | peritectic: Peritectic reaction; _alloy: Ni 0.9, Re 0.1_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 10 |  |
-| Phase transition | 1910 K | 1910 | L = b+ d | model | [1] Huang 1999 | p. 6 | “It is worth pointing out that there is a maximum point (1910 K) on the L = b+ d univariant line at xNi/xAl =1.” |
+| Phase transition | 633 K | 633 | magnetic | model | [1] Huang 1999; _cites Kirichenko 1964_ | p. 2; `ORC-PBNSTFZO7Z` | “ature is 633 K for pure Ni, and it decreases as the Re content increases \[18,19\], approaching 0 K at about 12 at.% Re.” |
+| Phase transition | 1727.15 K | 1727.15 | other: Ni85Re15 Solidus; _alloy: Ni 0.85, Re 0.15_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 14; `ORC-AK6SNATQL5` |  |
+| Phase transition | 1727.15 K | 1727.15 | other: Ni85Re15 Solidus; _alloy: Ni 0.85, Re 0.15_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 15; `ORC-HPOIN4EQZV` |  |
+| Phase transition | 1730.15 K | 1730.15 | other: Ni95Re5 Solidus; _alloy: Ni 0.95, Re 0.05_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 3; `ORC-PSXYGKH3VP` |  |
+| Phase transition | 1731.15 K | 1731.15 | other: Ni95Re5 Solidus; _alloy: Ni 0.95, Re 0.05_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 2; `ORC-GLUM2YUXYT` |  |
+| Phase transition | 1732.15 K | 1732.15 | other: Ni95Re5 Solidus; _alloy: Ni 0.95, Re 0.05_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 1; `ORC-3ICCNJLEMD` |  |
+| Phase transition | 1736.15 K | 1736.15 | other: Ni90Re10 Solidus; _alloy: Ni 0.9, Re 0.1_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 9; `ORC-QZ3E4WIXI4` |  |
+| Phase transition | 1737.15 K | 1737.15 | other: Ni90Re10 Solidus; _alloy: Ni 0.9, Re 0.1_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 8; `ORC-RTCNJXNSEC` |  |
+| Phase transition | 1738.15 K | 1738.15 | other: Ni90Re10 Solidus; _alloy: Ni 0.9, Re 0.1_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 7; `ORC-CPYRXTVWOH` |  |
+| Phase transition | 1744.15 K | 1744.15 | other: Ni80Re20 Solvus; _alloy: Ni 0.8, Re 0.2_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 21; `ORC-3NCF27UVFM` |  |
+| Phase transition | 1745.15 K | 1745.15 | other: Ni80Re20 Solvus; _alloy: Ni 0.8, Re 0.2_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 20; `ORC-UIM5MQDKD7` |  |
+| Phase transition | 1746.15 K | 1746.15 | other: Ni80Re20 Solvus; _alloy: Ni 0.8, Re 0.2_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 19; `ORC-YOAQV5CEFI` |  |
+| Phase transition | 1811.15 K | 1811.15 | peritectic: Peritectic reaction; _alloy: Ni 0.85, Re 0.15_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 18; `ORC-XRWK6OBSOI` |  |
+| Phase transition | 1812.15 K | 1812.15 | peritectic: Peritectic reaction; _alloy: Ni 0.85, Re 0.15_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 17; `ORC-IGYGNUSEXL` |  |
+| Phase transition | 1813.15 K | 1813.15 | peritectic: Peritectic reaction; _alloy: Ni 0.85, Re 0.15_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 16; `ORC-RXP5RRK6F2` |  |
+| Phase transition | 1817.15 K | 1817.15 | peritectic: Peritectic reaction; _alloy: Ni 0.8, Re 0.2_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 24; `ORC-G2BXVN2P2F` |  |
+| Phase transition | 1817.15 K | 1817.15 | peritectic: Peritectic reaction; _alloy: Ni 0.5, Re 0.5_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 27; `ORC-KNTC3XHKQ4` |  |
+| Phase transition | 1817.15 K | 1817.15 | peritectic: Peritectic reaction; _alloy: Ni 0.9, Re 0.1_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 12; `ORC-RQLHUVCNQJ` |  |
+| Phase transition | 1819.15 K | 1819.15 | peritectic: Peritectic reaction; _alloy: Ni 0.9, Re 0.1_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 11; `ORC-CYJVTHBV6H` |  |
+| Phase transition | 1819.15 K | 1819.15 | peritectic: Peritectic reaction; _alloy: Ni 0.5, Re 0.5_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 26; `ORC-E3KSBXSHV2` |  |
+| Phase transition | 1819.15 K | 1819.15 | peritectic: Peritectic reaction; _alloy: Ni 0.8, Re 0.2_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 23; `ORC-ZMERDXRFOB` |  |
+| Phase transition | 1821.15 K | 1821.15 | peritectic: Peritectic reaction; _alloy: Ni 0.5, Re 0.5_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 25; `ORC-LOO7BMJBHE` |  |
+| Phase transition | 1821.15 K | 1821.15 | peritectic: Peritectic reaction; _alloy: Ni 0.8, Re 0.2_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 22; `ORC-OR7WYM5KXC` |  |
+| Phase transition | 1821.15 K | 1821.15 | peritectic: Peritectic reaction; _alloy: Ni 0.9, Re 0.1_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 10; `ORC-VN6IRY46E7` |  |
+| Phase transition | 1910 K | 1910 | L = b+ d | model | [1] Huang 1999 | p. 6; `ORC-2HDICYYNHJ` | “It is worth pointing out that there is a maximum point (1910 K) on the L = b+ d univariant line at xNi/xAl =1.” |
 
 ### Phase equilibrium (6)
 
@@ -87,12 +87,12 @@ Table: Phase equilibrium, Ni–Re system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 1473.15 | fcc + hcp; _fcc: Ni 0.854, Re 0.146; hcp: Ni 0.29, Re 0.71_ | unspecified | [2] Yaqoob 2012 | Table 1, p. 2, row 1 |  |
-| Phase composition |  | 1773.15 | fcc + hcp; _fcc: Ni 0.81, Re 0.19; hcp: Ni 0.35, Re 0.65_ | unspecified | [2] Yaqoob 2012 | Table 1, p. 2, row 2 |  |
-| Phase composition |  | 1776.15 | other: Ni95Re5 Liquidus; _liquid: Ni 0.95, Re 0.05_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 6 |  |
-| Phase composition |  | 1783.15 | other: Ni95Re5 Liquidus; _liquid: Ni 0.95, Re 0.05_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 5 |  |
-| Phase composition |  | 1790.15 | other: Ni95Re5 Liquidus; _liquid: Ni 0.95, Re 0.05_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 4 |  |
-| Phase composition |  | 1873.15 | Liquid + hcp; _hcp: Ni 0.332, Re 0.668_ | unspecified | [2] Yaqoob 2012 | Table 1, p. 2, row 3 |  |
+| Phase composition |  | 1473.15 | fcc + hcp; _fcc: Ni 0.854, Re 0.146; hcp: Ni 0.29, Re 0.71_ | unspecified | [2] Yaqoob 2012 | Table 1, p. 2, row 1; `ORC-WC7FHQRGS5` |  |
+| Phase composition |  | 1773.15 | fcc + hcp; _fcc: Ni 0.81, Re 0.19; hcp: Ni 0.35, Re 0.65_ | unspecified | [2] Yaqoob 2012 | Table 1, p. 2, row 2; `ORC-ML452DFQGL` |  |
+| Phase composition |  | 1776.15 | other: Ni95Re5 Liquidus; _liquid: Ni 0.95, Re 0.05_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 6; `ORC-L63TN7JQVZ` |  |
+| Phase composition |  | 1783.15 | other: Ni95Re5 Liquidus; _liquid: Ni 0.95, Re 0.05_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 5; `ORC-RVBOCASVWD` |  |
+| Phase composition |  | 1790.15 | other: Ni95Re5 Liquidus; _liquid: Ni 0.95, Re 0.05_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 4; `ORC-6F66DYX3ID` |  |
+| Phase composition |  | 1873.15 | Liquid + hcp; _hcp: Ni 0.332, Re 0.668_ | unspecified | [2] Yaqoob 2012 | Table 1, p. 2, row 3; `ORC-ABUSKQ53HJ` |  |
 
 ## Sources
 
@@ -158,4 +158,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

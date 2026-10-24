@@ -46,8 +46,8 @@ Table: Invariant reactions reported in the literature for the Cd–V system (2)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1039.55 | Gas+(V) -> Liquid(Cd) | Gas: Cd 1; (V): Cd 0; Liquid(Cd): Cd 1 | model | [1] Zhang 2013 | Table 4, p. 5, row 31 |  |
-| 594.25 | Liquid(Cd) -> (V)+(Cd) | Liquid(Cd): Cd 1; (V): Cd 0; (Cd): Cd 1 | model | [1] Zhang 2013 | Table 4, p. 5, row 30 |  |
+| 1039.55 | Gas+(V) -> Liquid(Cd) | Gas: Cd 1; (V): Cd 0; Liquid(Cd): Cd 1 | model | [1] Zhang 2013 | Table 4, p. 5, row 31; `ORC-QZY6O3F6F2` |  |
+| 594.25 | Liquid(Cd) -> (V)+(Cd) | Liquid(Cd): Cd 1; (V): Cd 0; (Cd): Cd 1 | model | [1] Zhang 2013 | Table 4, p. 5, row 30; `ORC-A2RJKL5IOI` |  |
 
 ## Sources
 
@@ -112,4 +112,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

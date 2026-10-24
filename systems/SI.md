@@ -34,8 +34,8 @@ Table: Invariant reactions reported in the literature for the Si system (2)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1687 | Si1(L) \<=> Si1(dia_A4) | Si1(L): Si 1 | model | [1] Chevalier 1995 | Table 4, p. 9, row 46 |  |
-| 1687 | Si1(L) \<=> Si1(dia_A4) | Si1(L): Si 1 | experimental | [1] Chevalier 1995; _cites ref. 2_ | Table 4, p. 9, row 47 |  |
+| 1687 | Si1(L) \<=> Si1(dia_A4) | Si1(L): Si 1 | model | [1] Chevalier 1995 | Table 4, p. 9, row 46; `ORC-7XP47HVSRF` |  |
+| 1687 | Si1(L) \<=> Si1(dia_A4) | Si1(L): Si 1 | experimental | [1] Chevalier 1995; _cites ref. 2_ | Table 4, p. 9, row 47; `ORC-ZHJME5TUAE` |  |
 
 ## Formation enthalpies
 
@@ -45,14 +45,14 @@ Table: Enthalpies of formation, Si system (8)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Si2Si-γ |  | 148.1 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 23 |  |
-| Si3Si-β |  | 1.88 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 17 |  |
-| Si5Si-μ |  | 66.4 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 6 |  |
-| Si9Si2-α |  | 62.4 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 11 |  |
-| UNKNOWN |  | 1.88 kJ/mol (basis unstated) |  | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 17 |  |
-| UNKNOWN |  | 62.4 kJ/mol (basis unstated) |  | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 11 |  |
-| UNKNOWN |  | 66.4 kJ/mol (basis unstated) |  | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 6 |  |
-| UNKNOWN |  | 148.1 kJ/mol (basis unstated) |  | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 23 |  |
+| Si2Si-γ |  | 148.1 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 23; `ORC-FN4HDWT3OU.72dfac` |  |
+| Si3Si-β |  | 1.88 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 17; `ORC-OCH3VASLIK.8a23e6` |  |
+| Si5Si-μ |  | 66.4 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 6; `ORC-23YDUZX7V5.9db5e8` |  |
+| Si9Si2-α |  | 62.4 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 11; `ORC-EXSHOKKW6H.ac193a` |  |
+| UNKNOWN |  | 1.88 kJ/mol (basis unstated) |  | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 17; `ORC-OCH3VASLIK.f4b274` |  |
+| UNKNOWN |  | 62.4 kJ/mol (basis unstated) |  | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 11; `ORC-EXSHOKKW6H.f43fac` |  |
+| UNKNOWN |  | 66.4 kJ/mol (basis unstated) |  | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 6; `ORC-23YDUZX7V5.187576` |  |
+| UNKNOWN |  | 148.1 kJ/mol (basis unstated) |  | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 23; `ORC-FN4HDWT3OU.018c64` |  |
 
 ## Other properties
 
@@ -62,9 +62,9 @@ Table: Phase equilibrium, Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 900 | Phase 1/dark + Phase 2/white + Phase 1/dark (EDX) + Phase 1/dark (XRD) + Phase 2/white (EDX) + Phase 2/white (XRD); _Phase 1/dark (EDX): Si 0.02; Phase 1/dark (XRD): Si 0.07; Phase 2/white (EDX): Si 0.17; Phase 2/white (XRD): Si 0.3; Phase 1/dark: Si 0.07_ | experimental | [3] Berche 2015 | Table 1, p. 3, row 2 |  |
-| Phase composition |  | 900 | Phase 1/dark + Phase 2/white + Phase 1/dark (EDX) + Phase 1/dark (XRD) + Phase 2/white (EDX) + Phase 2/white (XRD); _Phase 1/dark (EDX): Si 0.067; Phase 1/dark (XRD): Si 0.02; Phase 2/white (EDX): Si 0.3; Phase 2/white (XRD): Si 0.29; Phase 1/dark: Si 0.02_ | experimental | [3] Berche 2015 | Table 1, p. 3, row 3 |  |
-| Phase composition |  | 900 | Phase 1/dark + Phase 2/white + Phase 1/dark (EDX) + Phase 1/dark (XRD) + Phase 2/white (EDX) + Phase 2/white (XRD); _Phase 1/dark (EDX): Si 0.042; Phase 1/dark (XRD): Si 0.04; Phase 2/white (EDX): Si 0.121; Phase 2/white (XRD): Si 0.16; Phase 1/dark: Si 0.04_ | experimental | [3] Berche 2015 | Table 1, p. 3, row 1 |  |
+| Phase composition |  | 900 | Phase 1/dark + Phase 2/white + Phase 1/dark (EDX) + Phase 1/dark (XRD) + Phase 2/white (EDX) + Phase 2/white (XRD); _Phase 1/dark (EDX): Si 0.02; Phase 1/dark (XRD): Si 0.07; Phase 2/white (EDX): Si 0.17; Phase 2/white (XRD): Si 0.3; Phase 1/dark: Si 0.07_ | experimental | [3] Berche 2015 | Table 1, p. 3, row 2; `ORC-DIZS2V63XN` |  |
+| Phase composition |  | 900 | Phase 1/dark + Phase 2/white + Phase 1/dark (EDX) + Phase 1/dark (XRD) + Phase 2/white (EDX) + Phase 2/white (XRD); _Phase 1/dark (EDX): Si 0.067; Phase 1/dark (XRD): Si 0.02; Phase 2/white (EDX): Si 0.3; Phase 2/white (XRD): Si 0.29; Phase 1/dark: Si 0.02_ | experimental | [3] Berche 2015 | Table 1, p. 3, row 3; `ORC-LEJFVGZECX` |  |
+| Phase composition |  | 900 | Phase 1/dark + Phase 2/white + Phase 1/dark (EDX) + Phase 1/dark (XRD) + Phase 2/white (EDX) + Phase 2/white (XRD); _Phase 1/dark (EDX): Si 0.042; Phase 1/dark (XRD): Si 0.04; Phase 2/white (EDX): Si 0.121; Phase 2/white (XRD): Si 0.16; Phase 1/dark: Si 0.04_ | experimental | [3] Berche 2015 | Table 1, p. 3, row 1; `ORC-U6WWU5JVEB` |  |
 
 ### Mixing / partial (3)
 
@@ -72,9 +72,9 @@ Table: Mixing / partial, Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: ΔH_ | 0 kJ/mol-atom | 1890.15 | liquid; _alloy: Si 1_ | experimental | [4] Gröbner 2004; _cites Sudavtsova 1988_ | Table VIII, p. 11, row 48 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 0 kJ/mol-atom | 1923.15 | liquid; _alloy: Si 1_ | model | [4] Gröbner 2004 | Table VIII, p. 11, row 49 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 0 kJ/mol-atom | 1923.15 | liquid; _alloy: Si 1_ | experimental | [4] Gröbner 2004; _cites Ryss 1977_ | Table VIII, p. 11, row 47 |  |
+| Enthalpy of mixing; _printed: ΔH_ | 0 kJ/mol-atom | 1890.15 | liquid; _alloy: Si 1_ | experimental | [4] Gröbner 2004; _cites Sudavtsova 1988_ | Table VIII, p. 11, row 48; `ORC-OFEZUCTYHP.41ee07` |  |
+| Enthalpy of mixing; _printed: ΔH_ | 0 kJ/mol-atom | 1923.15 | liquid; _alloy: Si 1_ | model | [4] Gröbner 2004 | Table VIII, p. 11, row 49; `ORC-FGPT7OEDVL.b86bab` |  |
+| Enthalpy of mixing; _printed: ΔH_ | 0 kJ/mol-atom | 1923.15 | liquid; _alloy: Si 1_ | experimental | [4] Gröbner 2004; _cites Ryss 1977_ | Table VIII, p. 11, row 47; `ORC-KHVJHSHEFF.3579d9` |  |
 
 ### Activity / EMF / Gibbs energy (1)
 
@@ -82,7 +82,7 @@ Table: Activity / EMF / Gibbs energy, Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Gibbs energy; _printed: G^ex_ | 0 kJ/mol | 1723 | UNKNOWN; _alloy: Si 1_ | experimental | [5] Bergman 1992 | Table 3, p. 3, row 11 |  |
+| Gibbs energy; _printed: G^ex_ | 0 kJ/mol | 1723 | UNKNOWN; _alloy: Si 1_ | experimental | [5] Bergman 1992 | Table 3, p. 3, row 11; `ORC-QAZ74ROOA4.4076aa` |  |
 
 ### Crystal structure (19)
 
@@ -90,25 +90,25 @@ Table: Crystal structure, Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 5.468 Å | 0 | Diamond_A4 (Si); _alloy: Si 1_ | DFT | [6] Shin 2006 | Table 1, p. 3, row 2 |  |
-| Lattice a | 5.467 Å |  | UNKNOWN; _alloy: Si 1_ | DFT | [7] Hao 2012 | Table 1, p. 5, row 4 |  |
-| Lattice a | 5.4306 Å | 298.15 | (Si); _(Si): Si 1_ | unspecified | [8] Olesinski 1985 | Table 3, p. 3, row 1 |  |
-| Lattice a | 5.43 Å | 298.15 | (Si); _alloy: Si 1_ | model | [9] Long 2018; _cites Okamoto 1990_ [doi](https://doi.org/10.1007/bf03029305) | Table 1, p. 2, row 1 |  |
-| Lattice a | 5.4308 Å | 298.15 | (Si); _alloy: Si 1_ | experimental | [8] Olesinski 1985; _cites Bublik 1969_ | Table 3, p. 3, row 3 |  |
-| Lattice a | 5.4306 Å | 298.15 | (Si); _(Si): Si 1_ | model | [10] Olesinski 1984; _cites King 1982_ | Table 3, p. 3, row 1 |  |
-| Lattice a | 5.431 Å | 298.15 | (Si); _alloy: Si 1_ | model | [11] Hu 2013; _cites Massalski 1996_ | Table 3, p. 4, row 3 |  |
-| Lattice a | 5.4311 Å | 298.15 | (Si); _alloy: Si 1_ | experimental | [8] Olesinski 1985; _cites Teague 1971_ [doi](https://doi.org/10.1016/0038-1098%2871%2990343-7) | Table 3, p. 3, row 2 |  |
-| Lattice a | 5.4306 Å | 298.15 | (Si); _(Si): Si 1_ | unspecified | [12] Olesinski 1985; _cites ref. 1_ | Table 1, p. 2, row 1 |  |
-| Lattice a | 5.4306 Å | 298.15 | (Si); _alloy: Si 1_ | experimental | [13] Qin 2015; _cites King 1981_ | Table 1, p. 2, row 1 |  |
-| Lattice a | 5.43 Å | 298.15 | Si; _alloy: Si 1_ | model | [14] Li 2013; _cites Daams 1991_ | Table 1, p. 2, row 2 |  |
-| Lattice a | 5.4309 Å | 298.15 | Si; _alloy: Si 1_ | model | [15] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 3 |  |
-| Lattice a | 4.686 Å | 298.15 | Si; _alloy: Si 1_ | unspecified | [16] Olesinski 1984 | Table 1, p. 3, row 4 |  |
-| Lattice a | 5.431 Å | 298.15 | UNKNOWN; _alloy: Si 1_ | unspecified | [16] Olesinski 1984 | Table 2, p. 3, row 21 |  |
-| Lattice a | 5.431 Å | 298.15 | UNKNOWN; _alloy: Si 1_ | unspecified | [7] Hao 2012; _cites ref. 28_ | Table 1, p. 5, row 3 |  |
-| Lattice b | 5.468 Å | 0 | Diamond_A4 (Si); _alloy: Si 1_ | DFT | [6] Shin 2006 | Table 1, p. 3, row 2 |  |
-| Lattice c | 5.468 Å | 0 | Diamond_A4 (Si); _alloy: Si 1_ | DFT | [6] Shin 2006 | Table 1, p. 3, row 2 |  |
-| Lattice c | 2.585 Å | 298.15 | Si; _alloy: Si 1_ | unspecified | [16] Olesinski 1984 | Table 1, p. 3, row 4 |  |
-| lattice unspecified axis | 5.431 Å | 298.15 | UNKNOWN; _alloy: Si 1_ | unspecified | [16] Olesinski 1984 | Table 2, p. 3, row 21 |  |
+| Lattice a | 5.468 Å | 0 | Diamond_A4 (Si); _alloy: Si 1_ | DFT | [6] Shin 2006 | Table 1, p. 3, row 2; `ORC-H3NBXSM7OX.dc4eb7` |  |
+| Lattice a | 5.467 Å |  | UNKNOWN; _alloy: Si 1_ | DFT | [7] Hao 2012 | Table 1, p. 5, row 4; `ORC-U75BAKDJGL` |  |
+| Lattice a | 5.4306 Å | 298.15 | (Si); _(Si): Si 1_ | unspecified | [8] Olesinski 1985 | Table 3, p. 3, row 1; `ORC-33KPDQCY5A` |  |
+| Lattice a | 5.43 Å | 298.15 | (Si); _alloy: Si 1_ | model | [9] Long 2018; _cites Okamoto 1990_ [doi](https://doi.org/10.1007/bf03029305) | Table 1, p. 2, row 1; `ORC-4IRZERN3HP` |  |
+| Lattice a | 5.4308 Å | 298.15 | (Si); _alloy: Si 1_ | experimental | [8] Olesinski 1985; _cites Bublik 1969_ | Table 3, p. 3, row 3; `ORC-65BM67EK3C` |  |
+| Lattice a | 5.4306 Å | 298.15 | (Si); _(Si): Si 1_ | model | [10] Olesinski 1984; _cites King 1982_ | Table 3, p. 3, row 1; `ORC-E2O2XE45T6` |  |
+| Lattice a | 5.431 Å | 298.15 | (Si); _alloy: Si 1_ | model | [11] Hu 2013; _cites Massalski 1996_ | Table 3, p. 4, row 3; `ORC-FX7XWD4NCT.09e85b` |  |
+| Lattice a | 5.4311 Å | 298.15 | (Si); _alloy: Si 1_ | experimental | [8] Olesinski 1985; _cites Teague 1971_ [doi](https://doi.org/10.1016/0038-1098%2871%2990343-7) | Table 3, p. 3, row 2; `ORC-S53HDBKRHK` |  |
+| Lattice a | 5.4306 Å | 298.15 | (Si); _(Si): Si 1_ | unspecified | [12] Olesinski 1985; _cites ref. 1_ | Table 1, p. 2, row 1; `ORC-SDLS6MZF6E` |  |
+| Lattice a | 5.4306 Å | 298.15 | (Si); _alloy: Si 1_ | experimental | [13] Qin 2015; _cites King 1981_ | Table 1, p. 2, row 1; `ORC-SNA7IV5XWS` |  |
+| Lattice a | 5.43 Å | 298.15 | Si; _alloy: Si 1_ | model | [14] Li 2013; _cites Daams 1991_ | Table 1, p. 2, row 2; `ORC-DFKFZI6PJ6` |  |
+| Lattice a | 5.4309 Å | 298.15 | Si; _alloy: Si 1_ | model | [15] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 3; `ORC-FKQM3EA6UH` |  |
+| Lattice a | 4.686 Å | 298.15 | Si; _alloy: Si 1_ | unspecified | [16] Olesinski 1984 | Table 1, p. 3, row 4; `ORC-ZJSOT32DDW.72f3e6` |  |
+| Lattice a | 5.431 Å | 298.15 | UNKNOWN; _alloy: Si 1_ | unspecified | [16] Olesinski 1984 | Table 2, p. 3, row 21; `ORC-U2YKY4VD3X.cdaa61` |  |
+| Lattice a | 5.431 Å | 298.15 | UNKNOWN; _alloy: Si 1_ | unspecified | [7] Hao 2012; _cites ref. 28_ | Table 1, p. 5, row 3; `ORC-VBNEWR3QAK` |  |
+| Lattice b | 5.468 Å | 0 | Diamond_A4 (Si); _alloy: Si 1_ | DFT | [6] Shin 2006 | Table 1, p. 3, row 2; `ORC-H3NBXSM7OX.0790a7` |  |
+| Lattice c | 5.468 Å | 0 | Diamond_A4 (Si); _alloy: Si 1_ | DFT | [6] Shin 2006 | Table 1, p. 3, row 2; `ORC-H3NBXSM7OX.ac626f` |  |
+| Lattice c | 2.585 Å | 298.15 | Si; _alloy: Si 1_ | unspecified | [16] Olesinski 1984 | Table 1, p. 3, row 4; `ORC-ZJSOT32DDW.02769f` |  |
+| lattice unspecified axis | 5.431 Å | 298.15 | UNKNOWN; _alloy: Si 1_ | unspecified | [16] Olesinski 1984 | Table 2, p. 3, row 21; `ORC-U2YKY4VD3X.569221` |  |
 
 ## Sources
 
@@ -166,4 +166,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

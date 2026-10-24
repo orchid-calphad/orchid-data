@@ -14,11 +14,11 @@ Table: Enthalpy of formation of AuTm reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -92.8 kJ/mol-atom ± 1.9 | αAuTm | 298.15 | experimental | High temperature direct synthesis calorimetry at 1373 ± 2 K | [Au–Tm](https://data.orchid-project.org/systems/AU-TM.html) | [1] Dong 2012; _cites Meschel 2004_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900527-9) | Table 1, p. 2, row 41 |  |
-| -90.5 kJ/mol-atom | αAuTm | 298.15 | model | CALPHAD assessment | [Au–Tm](https://data.orchid-project.org/systems/AU-TM.html) | [1] Dong 2012 | Table 1, p. 2, row 42 |  |
-| -68.9 kJ/mol-atom | βAuTm | 298.15 | model | CALPHAD assessment | [Au–Tm](https://data.orchid-project.org/systems/AU-TM.html) | [1] Dong 2012 | Table 1, p. 2, row 45 |  |
-| -90 kJ/mol-atom | αAuTm | 0 | DFT | ab initio | [Au–Tm](https://data.orchid-project.org/systems/AU-TM.html) | [1] Dong 2012 | Table 1, p. 2, row 40 |  |
-| -87.5 kJ/mol-atom | βAuTm | 0 | DFT | ab initio | [Au–Tm](https://data.orchid-project.org/systems/AU-TM.html) | [1] Dong 2012 | Table 1, p. 2, row 44 |  |
+| -92.8 kJ/mol-atom ± 1.9 | αAuTm | 298.15 | experimental | High temperature direct synthesis calorimetry at 1373 ± 2 K | [Au–Tm](https://data.orchid-project.org/systems/AU-TM.html) | [1] Dong 2012; _cites Meschel 2004_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900527-9) | Table 1, p. 2, row 41; `ORC-34KYBMAMNH.bce292` |  |
+| -90.5 kJ/mol-atom | αAuTm | 298.15 | model | CALPHAD assessment | [Au–Tm](https://data.orchid-project.org/systems/AU-TM.html) | [1] Dong 2012 | Table 1, p. 2, row 42; `ORC-LWR66KNJYU.44bf64` |  |
+| -68.9 kJ/mol-atom | βAuTm | 298.15 | model | CALPHAD assessment | [Au–Tm](https://data.orchid-project.org/systems/AU-TM.html) | [1] Dong 2012 | Table 1, p. 2, row 45; `ORC-SJFGHOFODH.53317b` |  |
+| -90 kJ/mol-atom | αAuTm | 0 | DFT | ab initio | [Au–Tm](https://data.orchid-project.org/systems/AU-TM.html) | [1] Dong 2012 | Table 1, p. 2, row 40; `ORC-2R2JHAHGUT.5790e6` |  |
+| -87.5 kJ/mol-atom | βAuTm | 0 | DFT | ab initio | [Au–Tm](https://data.orchid-project.org/systems/AU-TM.html) | [1] Dong 2012 | Table 1, p. 2, row 44; `ORC-XMP3ZNDM2X.0d59ac` |  |
 
 ### Uncertainty budget
 
@@ -98,4 +98,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

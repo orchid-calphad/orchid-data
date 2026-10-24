@@ -14,9 +14,9 @@ Table: Enthalpy of formation of Ca7Ge6 reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -73.34 kJ/mol-atom | Ca7Ge6 | 1000 | model | Miedema model | [Ca–Ge](https://data.orchid-project.org/systems/CA-GE.html) | [1] Djaballah 2010; _cites F 1988_ | Table 3, p. 5, row 10 |  |
-| -66.9 kJ/mol-atom | Ca7Ge6 | 1000 | model | Optimized | [Ca–Ge](https://data.orchid-project.org/systems/CA-GE.html) | [1] Djaballah 2010 | Table 3, p. 5, row 11 |  |
-| -61.4 kJ/mol-atom | Ca7Ge6 | 1000 | DFT | ab initio calcul | [Ca–Ge](https://data.orchid-project.org/systems/CA-GE.html) | [1] Djaballah 2010; _cites Yang 2010_ [doi](https://doi.org/10.1016/j.jssc.2009.11.007) | Table 3, p. 5, row 9 |  |
+| -73.34 kJ/mol-atom | Ca7Ge6 | 1000 | model | Miedema model | [Ca–Ge](https://data.orchid-project.org/systems/CA-GE.html) | [1] Djaballah 2010; _cites F 1988_ | Table 3, p. 5, row 10; `ORC-I3TB5D6IMA.796c3c` |  |
+| -66.9 kJ/mol-atom | Ca7Ge6 | 1000 | model | Optimized | [Ca–Ge](https://data.orchid-project.org/systems/CA-GE.html) | [1] Djaballah 2010 | Table 3, p. 5, row 11; `ORC-DCWEGUBHZF.cf736d` |  |
+| -61.4 kJ/mol-atom | Ca7Ge6 | 1000 | DFT | ab initio calcul | [Ca–Ge](https://data.orchid-project.org/systems/CA-GE.html) | [1] Djaballah 2010; _cites Yang 2010_ [doi](https://doi.org/10.1016/j.jssc.2009.11.007) | Table 3, p. 5, row 9; `ORC-RWVAV7HYLK.57f200` |  |
 
 ### Uncertainty budget
 
@@ -94,4 +94,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

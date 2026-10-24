@@ -14,9 +14,9 @@ Table: Enthalpy of formation of Al5Ba3 reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -52.72 kJ/mol-atom | Al5Ba3 |  | model |  | [Al–Ba](https://data.orchid-project.org/systems/AL-BA.html) | [1] Azza 2017 | Table 4, p. 6, row 7 |  |
-| -23.954 kJ/mol-atom | Al5Ba3 |  | model | CALPHAD | [Al–Ba](https://data.orchid-project.org/systems/AL-BA.html) | [2] Benhafid 2019 | Table 3, p. 4, row 14 |  |
-| -23.356 kJ/mol-atom | Al5Ba3 | 0 | DFT | Ab-initio | [Al–Ba](https://data.orchid-project.org/systems/AL-BA.html) | [2] Benhafid 2019 | Table 3, p. 4, row 13 |  |
+| -52.72 kJ/mol-atom | Al5Ba3 |  | model |  | [Al–Ba](https://data.orchid-project.org/systems/AL-BA.html) | [1] Azza 2017 | Table 4, p. 6, row 7; `ORC-A6OBW4NEWU` |  |
+| -23.954 kJ/mol-atom | Al5Ba3 |  | model | CALPHAD | [Al–Ba](https://data.orchid-project.org/systems/AL-BA.html) | [2] Benhafid 2019 | Table 3, p. 4, row 14; `ORC-WBINUFGMKP.54cf03` |  |
+| -23.356 kJ/mol-atom | Al5Ba3 | 0 | DFT | Ab-initio | [Al–Ba](https://data.orchid-project.org/systems/AL-BA.html) | [2] Benhafid 2019 | Table 3, p. 4, row 13; `ORC-UVQZPXF73I.507686` |  |
 
 ### Uncertainty budget
 
@@ -95,4 +95,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

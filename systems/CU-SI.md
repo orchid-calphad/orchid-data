@@ -206,139 +206,139 @@ Table: Invariant reactions reported in the literature for the Cu–Si system (13
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1129.45 | congruent melting: L -> η\_Cu3Si | L: Si 0.24; η\_Cu3Si: Si 0.24 | model | [1] Kroupa 2024; _cites Hallstedt 2016_ [doi](https://doi.org/10.1016/j.calphad.2016.03.002) | Table 2, p. 6, row 1 |  |
-| 1127 | L + FCC_A1(Cu) = β | L: Si 0.16; FCC_A1(Cu): Si 0.11; β: Si 0.146 | experimental | [2] Gierlotka 2013; _cites Sufryd 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.05.017) | Table 4, p. 5, row 57 |  |
-| 1126.15 | peritectic: L+(Cu) -> β | L: Si 0.157; (Cu): Si 0.111; β: Si 0.146 | model | [3] Yan 2000 | Table 1, p. 3, row 28 |  |
-| 1126 | L + FCC_A1(Cu) = β | L: Si 0.157; FCC_A1(Cu): Si 0.111; β: Si 0.146 | experimental | [2] Gierlotka 2013; _cites Xinyan 2013_ | Table 4, p. 5, row 54 |  |
-| 1125.85 | congruent melting: L -> η\_Cu3Si | L: Si 0.241; η\_Cu3Si: Si 0.241 | model | [1] Kroupa 2024 | Table 2, p. 6, row 2 |  |
-| 1125.15 | peritectic: L+(Cu) -> β | L: Si 0.16; (Cu): Si 0.1115; β: Si 0.142 | experimental | [3] Yan 2000; _cites Smith 1940_ | Table 1, p. 3, row 29 |  |
-| 1125.15 | peritectic: L+(Cu) -> β | L: Si 0.154; (Cu): Si 0.112; β: Si 0.146 | experimental | [3] Yan 2000; _cites Buhler 1998_ | Table 1, p. 3, row 30 |  |
-| 1125 | L + FCC_A1(Cu) = β | L: Si 0.154; FCC_A1(Cu): Si 0.112; β: Si 0.146 | unspecified | [2] Gierlotka 2013; _cites Buhler 1998_ | Table 4, p. 5, row 56 |  |
-| 1125 | L + FCC_A1(Cu) = β | L: Si 0.16; FCC_A1(Cu): Si 0.112; β: Si 0.142 | experimental | [2] Gierlotka 2013; _cites Smith 1940_ | Table 4, p. 5, row 55 |  |
-| 1124 | L + FCC_A1(Cu) = β | L: Si 0.16; FCC_A1(Cu): Si 0.11; β: Si 0.138 | model | [2] Gierlotka 2013 | Table 4, p. 5, row 53 |  |
-| 1122.75 | peritectic: (Cu) + L -> β(CuSi) | (Cu): Si 0.116; L: Si 0.161; β(CuSi): Si 0.143 | model | [1] Kroupa 2024; _cites Hallstedt 2016_ [doi](https://doi.org/10.1016/j.calphad.2016.03.002) | Table 2, p. 6, row 4 |  |
-| 1122.15 | peritectic: (Cu) + L -> β(CuSi) | L: Si 0.16; β(CuSi): Si 0.142 | experimental | [1] Kroupa 2024; _cites Sufryd 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.05.017) | Table 2, p. 6, row 3 |  |
-| 1121.75 | peritectic: (Cu) + L -> β(CuSi) | (Cu): Si 0.115; L: Si 0.16; β(CuSi): Si 0.142 | model | [1] Kroupa 2024 | Table 2, p. 6, row 5 |  |
-| 1119.15 | peritectoid: β+(Cu) -> κ | β: Si 0.147; (Cu): Si 0.113; κ: Si 0.118 | experimental | [3] Yan 2000; _cites Buhler 1998_ | Table 1, p. 3, row 27 |  |
-| 1119 | β + FCC_A1(Cu) = κ | β: Si 0.147; FCC_A1(Cu): Si 0.113; κ: Si 0.118 | unspecified | [2] Gierlotka 2013; _cites Buhler 1998_ | Table 4, p. 5, row 51 |  |
-| 1115.15 | peritectoid: β+(Cu) -> κ | β: Si 0.147; (Cu): Si 0.112; κ: Si 0.13 | model | [3] Yan 2000 | Table 1, p. 3, row 25 |  |
-| 1115.15 | peritectoid: β+(Cu) -> κ | β: Si 0.144; (Cu): Si 0.1125; κ: Si 0.1245 | experimental | [3] Yan 2000; _cites Smith 1940_ | Table 1, p. 3, row 26 |  |
-| 1115 | β + FCC_A1(Cu) = κ | β: Si 0.147; FCC_A1(Cu): Si 0.112; κ: Si 0.13 | experimental | [2] Gierlotka 2013; _cites Xinyan 2013_ | Table 4, p. 5, row 49 |  |
-| 1115 | β + FCC_A1(Cu) = κ | β: Si 0.14; FCC_A1(Cu): Si 0.114; κ: Si 0.125 | model | [2] Gierlotka 2013 | Table 4, p. 5, row 48 |  |
-| 1115 | β + FCC_A1(Cu) = κ | β: Si 0.144; FCC_A1(Cu): Si 0.113; κ: Si 0.125 | experimental | [2] Gierlotka 2013; _cites Smith 1940_ | Table 4, p. 5, row 50 |  |
-| 1114 | β + FCC_A1(Cu) = κ | β: Si 0.145; FCC_A1(Cu): Si 0.109; κ: Si 0.125 | experimental | [2] Gierlotka 2013; _cites Sufryd 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.05.017) | Table 4, p. 5, row 52 |  |
-| 1112.55 | peritectic: (Cu) + β(CuSi) -> κ(CuSi) | (Cu): Si 0.116; β(CuSi): Si 0.142; κ(CuSi): Si 0.128 | model | [1] Kroupa 2024 | Table 2, p. 6, row 8 |  |
-| 1112.25 | peritectic: (Cu) + β(CuSi) -> κ(CuSi) | (Cu): Si 0.116; β(CuSi): Si 0.143; κ(CuSi): Si 0.128 | model | [1] Kroupa 2024; _cites Hallstedt 2016_ [doi](https://doi.org/10.1016/j.calphad.2016.03.002) | Table 2, p. 6, row 7 |  |
-| 1112.15 | peritectic: (Cu) + β(CuSi) -> κ(CuSi) | β(CuSi): Si 0.145; κ(CuSi): Si 0.125 | experimental | [1] Kroupa 2024; _cites Sufryd 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.05.017) | Table 2, p. 6, row 6 |  |
-| 1098 | L + β = δ | L: Si 0.19; β: Si 0.165; δ: Si 0.176 | experimental | [2] Gierlotka 2013; _cites Sufryd 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.05.017) | Table 4, p. 5, row 47 |  |
-| 1097.15 | peritectic: L+β -> δ | L: Si 0.181; β: Si 0.172; δ: Si 0.176 | experimental | [3] Yan 2000; _cites Smith 1940_ | Table 1, p. 3, row 23 |  |
-| 1097.15 | peritectic: L+β -> δ | L: Si 0.187; β: Si 0.167; δ: Si 0.175 | model | [3] Yan 2000 | Table 1, p. 3, row 22 |  |
-| 1097 | L + β = δ | L: Si 0.187; β: Si 0.167; δ: Si 0.175 | experimental | [2] Gierlotka 2013; _cites Xinyan 2013_ | Table 4, p. 5, row 44 |  |
-| 1097 | L + β = δ | L: Si 0.181; β: Si 0.172; δ: Si 0.176 | experimental | [2] Gierlotka 2013; _cites Smith 1940_ | Table 4, p. 5, row 45 |  |
-| 1095 | L + β = δ | L: Si 0.188; β: Si 0.17; δ: Si 0.175 | model | [2] Gierlotka 2013 | Table 4, p. 5, row 43 |  |
-| 1095 | L = η + δ | L: Si 0.199; η: Si 0.23; δ: Si 0.176 | experimental | [2] Gierlotka 2013; _cites Sufryd 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.05.017) | Table 4, p. 5, row 42 |  |
-| 1094.15 | peritectic: β(CuSi) + L -> δ | β(CuSi): Si 0.165; L: Si 0.192; δ: Si 0.175 | experimental | [1] Kroupa 2024; _cites Sufryd 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.05.017) | Table 2, p. 6, row 9 |  |
-| 1093.75 | peritectic: β(CuSi) + L -> δ | β(CuSi): Si 0.16; L: Si 0.185; δ: Si 0.175 | model | [1] Kroupa 2024; _cites Hallstedt 2016_ [doi](https://doi.org/10.1016/j.calphad.2016.03.002) | Table 2, p. 6, row 10 |  |
-| 1093.15 | peritectic: L+β -> δ | L: Si 0.186; β: Si 0.169; δ: Si 0.175 | experimental | [3] Yan 2000; _cites Buhler 1998_ | Table 1, p. 3, row 24 |  |
-| 1093.15 | eutectic: L -> η+δ | L: Si 0.192; η: Si 0.24; δ: Si 0.175 | model | [3] Yan 2000 | Table 1, p. 3, row 19 |  |
-| 1093.15 | eutectic: L -> η+δ | L: Si 0.199; η: Si 0.234; δ: Si 0.196 | experimental | [3] Yan 2000; _cites Smith 1929_ | Table 1, p. 3, row 20 |  |
-| 1093 | L = η + δ | L: Si 0.199; η: Si 0.234; δ: Si 0.196 | experimental | [2] Gierlotka 2013; _cites Smith 1940_ | Table 4, p. 5, row 40 |  |
-| 1093 | L = η + δ | L: Si 0.202; η: Si 0.25; δ: Si 0.175 | model | [2] Gierlotka 2013 | Table 4, p. 5, row 38 |  |
-| 1093 | L + β = δ | L: Si 0.186; β: Si 0.169; δ: Si 0.175 | unspecified | [2] Gierlotka 2013; _cites Buhler 1998_ | Table 4, p. 5, row 46 |  |
-| 1093 | L = η + δ | L: Si 0.192; η: Si 0.24; δ: Si 0.175 | experimental | [2] Gierlotka 2013; _cites Xinyan 2013_ | Table 4, p. 5, row 39 |  |
-| 1091.95 | peritectic: β(CuSi) + L -> δ | β(CuSi): Si 0.16; L: Si 0.186; δ: Si 0.178 | model | [1] Kroupa 2024 | Table 2, p. 6, row 11 |  |
-| 1091.85 | eutectic: L + δ -> η | L: Si 0.19; δ: Si 0.175; η: Si 0.24 | model | [1] Kroupa 2024; _cites Hallstedt 2016_ [doi](https://doi.org/10.1016/j.calphad.2016.03.002) | Table 2, p. 6, row 13 |  |
-| 1091.25 | eutectic: L + δ -> η | L: Si 0.188; δ: Si 0.18; η: Si 0.238 | model | [1] Kroupa 2024 | Table 2, p. 6, row 14 |  |
-| 1091.15 | eutectic: L + δ -> η | L: Si 0.198; δ: Si 0.177; η: Si 0.232 | experimental | [1] Kroupa 2024; _cites Sufryd 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.05.017) | Table 2, p. 6, row 12 |  |
-| 1089.15 | eutectic: L -> η+δ | L: Si 0.191; η: Si 0.24; δ: Si 0.175 | experimental | [3] Yan 2000; _cites Buhler 1998_ | Table 1, p. 3, row 21 |  |
-| 1089 | L = η + δ | L: Si 0.191; η: Si 0.24; δ: Si 0.175 | unspecified | [2] Gierlotka 2013; _cites Buhler 1998_ | Table 4, p. 5, row 41 |  |
-| 1085.85 | eutectic: L + η -> (Si) | L: Si 0.314; η: Si 0.25; (Si): Si 1 | model | [1] Kroupa 2024 | Table 2, p. 6, row 17 |  |
-| 1080.15 | eutectic: L + η -> (Si) | η: Cu 0.75, Si 0.25 | experimental | [1] Kroupa 2024; _cites Sufryd 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.05.017) | Table 2, p. 6, row 15 |  |
-| 1079.55 | eutectic: L + η -> (Si) | L: Si 0.312; η: Si 0.24; (Si): Si 1 | model | [1] Kroupa 2024; _cites Hallstedt 2016_ [doi](https://doi.org/10.1016/j.calphad.2016.03.002) | Table 2, p. 6, row 16 |  |
-| 1079 | L = Diamond_A4(Si) + η | L: Si 0.3; Diamond_A4(Si): Si 1; η: Si 0.258 | experimental | [2] Gierlotka 2013; _cites Sufryd 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.05.017) | Table 4, p. 5, row 37 |  |
-| 1078.15 | peritectoid: η+δ -> ε | η: Si 0.24; δ: Si 0.175; ε: Si 0.2 | experimental | [3] Yan 2000; _cites Buhler 1998_ | Table 1, p. 3, row 15 |  |
-| 1078 | η + δ = ε | η: Si 0.24; δ: Si 0.175; ε: Si 0.2 | unspecified | [2] Gierlotka 2013; _cites Buhler 1998_ | Table 4, p. 5, row 31 |  |
-| 1075.15 | eutectic: L -> (Si)+η | L: Si 0.301; (Si): Si 1; η: Si 0.249 | experimental | [3] Yan 2000; _cites Smith 1929_ | Table 1, p. 3, row 17 |  |
-| 1075.15 | eutectic: L -> (Si)+η | L: Si 0.307; (Si): Si 1; η: Si 0.24 | model | [3] Yan 2000 | Table 1, p. 3, row 16 |  |
-| 1075 | L = Diamond_A4(Si) + η | L: Si 0.307; Diamond_A4(Si): Si 1; η: Si 0.24 | experimental | [2] Gierlotka 2013; _cites Xinyan 2013_ | Table 4, p. 5, row 34 |  |
-| 1075 | L = Diamond_A4(Si) + η | L: Si 0.301; Diamond_A4(Si): Si 1; η: Si 0.249 | experimental | [2] Gierlotka 2013; _cites Smith 1940_ | Table 4, p. 5, row 35 |  |
-| 1075 | eutectic: L = Cu3Si + Si |  | experimental | [2] Gierlotka 2013 | p. 4 | “The composition of the calculated eutectic (L = Cu3Si + Si) is equal to 0.32 mol fraction of Si when the measured value is equal to 0.3 mol fraction of Si, at the same temperature T = 1075 K.” |
-| 1075 | eutectic: L = Cu3Si + Si |  | model | [2] Gierlotka 2013 | p. 4 | “The composition of the calculated eutectic (L = Cu3Si + Si) is equal to 0.32 mol fraction of Si when the measured value is equal to 0.3 mol fraction of Si, at the same temperature T = 1075 K.” |
-| 1074.15 | eutectic: L -> (Si)+η | L: Si 0.306; (Si): Si 1; η: Si 0.24 | experimental | [3] Yan 2000; _cites Buhler 1998_ | Table 1, p. 3, row 18 |  |
-| 1074 | L = Diamond_A4(Si) + η | L: Si 0.32; Diamond_A4(Si): Si 1; η: Si 0.25 | model | [2] Gierlotka 2013 | Table 4, p. 5, row 33 |  |
-| 1074 | L = Diamond_A4(Si) + η | L: Si 0.306; Diamond_A4(Si): Si 1; η: Si 0.24 | unspecified | [2] Gierlotka 2013; _cites Buhler 1998_ | Table 4, p. 5, row 36 |  |
-| 1073.15 | peritectoid: η+δ -> ε | η: Si 0.235; δ: Si 0.194; ε: Si 0.212 | experimental | [3] Yan 2000; _cites Iokibe 1931_ | Table 1, p. 3, row 14 |  |
-| 1073.15 | peritectoid: η+δ -> ε | η: Si 0.24; δ: Si 0.175; ε: Si 0.211 | model | [3] Yan 2000 | Table 1, p. 3, row 13 |  |
-| 1073.15 | peritectoid: δ + η -> ε | δ: Si 0.185; η: Si 0.235; ε: Si 0.211 | experimental | [1] Kroupa 2024; _cites Sufryd 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.05.017) | Table 2, p. 6, row 18 |  |
-| 1073 | η + δ = ε | η: Si 0.235; δ: Si 0.194; ε: Si 0.212 | experimental | [2] Gierlotka 2013; _cites Iokibe 1931_ | Table 4, p. 5, row 30 |  |
-| 1073 | η + δ = ε | η: Si 0.24; δ: Si 0.175; ε: Si 0.211 | experimental | [2] Gierlotka 2013; _cites Xinyan 2013_ | Table 4, p. 5, row 29 |  |
-| 1073 | η + δ = ε | η: Si 0.233; δ: Si 0.184; ε: Si 0.21 | experimental | [2] Gierlotka 2013; _cites Sufryd 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.05.017) | Table 4, p. 5, row 32 |  |
-| 1072.35 | peritectoid: δ + η -> ε | δ: Si 0.175; η: Si 0.24; ε: Si 0.211 | model | [1] Kroupa 2024; _cites Hallstedt 2016_ [doi](https://doi.org/10.1016/j.calphad.2016.03.002) | Table 2, p. 6, row 19 |  |
-| 1072.05 | peritectoid: δ + η -> ε | δ: Si 0.179; η: Si 0.238; ε: Si 0.211 | model | [1] Kroupa 2024 | Table 2, p. 6, row 20 |  |
-| 1071 | η + δ = ε | η: Si 0.25; δ: Si 0.175; ε: Si 0.21 | model | [2] Gierlotka 2013 | Table 4, p. 5, row 28 |  |
-| 1062 | β = δ + κ | β: Si 0.153; δ: Si 0.175; κ: Si 0.138 | model | [2] Gierlotka 2013 | Table 4, p. 5, row 23 |  |
-| 1060.15 | eutectoid: β -> δ+κ | β: Si 0.157; δ: Si 0.175; κ: Si 0.142 | model | [3] Yan 2000 | Table 1, p. 3, row 10 |  |
-| 1060 | β = δ + κ | β: Si 0.157; δ: Si 0.175; κ: Si 0.142 | model | [2] Gierlotka 2013; _cites Xinyan 2013_ | Table 4, p. 5, row 24 |  |
-| 1059.15 | eutectoid: β -> δ+κ | β: Si 0.154; δ: Si 0.175; κ: Si 0.125 | experimental | [3] Yan 2000; _cites Buhler 1998_ | Table 1, p. 3, row 12 |  |
-| 1059 | β = δ + κ | β: Si 0.154; δ: Si 0.175; κ: Si 0.125 | model | [2] Gierlotka 2013; _cites Buhler 1998_ | Table 4, p. 5, row 26 |  |
-| 1058.15 | eutectoid: β -> δ+κ | β: Si 0.16; δ: Si 0.176; κ: Si 0.143 | experimental | [3] Yan 2000; _cites Smith 1940_ | Table 1, p. 3, row 11 |  |
-| 1058 | β = δ + κ | β: Si 0.16; δ: Si 0.176; κ: Si 0.143 | experimental | [2] Gierlotka 2013; _cites Smith 1940_ | Table 4, p. 5, row 25 |  |
-| 1055.15 | eutectoid: β(CuSi) -> δ + κ | β(CuSi): Si 0.15; δ: Si 0.175; κ: Si 0.136 | model | [1] Kroupa 2024; _cites Hallstedt 2016_ [doi](https://doi.org/10.1016/j.calphad.2016.03.002) | Table 2, p. 6, row 22 |  |
-| 1054.15 | eutectoid: β(CuSi) -> δ + κ | β(CuSi): Si 0.162; δ: Si 0.17; κ: Si 0.142 | experimental | [1] Kroupa 2024; _cites Sufryd 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.05.017) | Table 2, p. 6, row 21 |  |
-| 1054 | β = δ + κ | β: Si 0.16; δ: Si 0.173; κ: Si 0.14 | experimental | [2] Gierlotka 2013; _cites Sufryd 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.05.017) | Table 4, p. 5, row 27 |  |
-| 1053.85 | eutectoid: β(CuSi) -> δ + κ | β(CuSi): Si 0.15; δ: Si 0.173; κ: Si 0.135 | model | [1] Kroupa 2024 | Table 2, p. 6, row 23 |  |
-| 1008.15 | δ -> ε + γ | δ: Si 0.179; ε: Si 0.211; γ: Si 0.178 | experimental | [1] Kroupa 2024; _cites Sufryd 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.05.017) | Table 2, p. 6, row 25 |  |
-| 1008.15 | peritectoid: δ+κ -> γ | δ: Si 0.175; κ: Si 0.121; γ: Si 0.164 | experimental | [3] Yan 2000; _cites Buhler 1998_ | Table 1, p. 3, row 9 |  |
-| 1008 | δ = κ + γ | δ: Si 0.175; κ: Si 0.121; γ: Si 0.164 | unspecified | [2] Gierlotka 2013; _cites Buhler 1998_ | Table 4, p. 5, row 21 |  |
-| 1008 | δ = κ + γ | δ: Si 0.169; κ: Si 0.137; γ: Si 0.175 | experimental | [2] Gierlotka 2013; _cites Sufryd 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.05.017) | Table 4, p. 5, row 22 |  |
-| 1008 | δ = ε + γ | δ: Si 0.179; ε: Si 0.21; γ: Si 0.174 | experimental | [2] Gierlotka 2013; _cites Sufryd 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.05.017) | Table 4, p. 5, row 17 |  |
-| 1007.35 | δ -> γ | δ: Si 0.175; γ: Si 0.175 | model | [1] Kroupa 2024; _cites Hallstedt 2016_ [doi](https://doi.org/10.1016/j.calphad.2016.03.002) | Table 2, p. 6, row 26 |  |
-| 1007.15 | eutectoid: δ -> γ + κ | δ: Si 0.169; γ: Si 0.175; κ: Si 0.132 | experimental | [1] Kroupa 2024; _cites Sufryd 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.05.017) | Table 2, p. 6, row 27 |  |
-| 1006.95 | peritectoid: δ + ε -> κ | δ: Si 0.174; ε: Si 0.211; κ: Si 0.176 | model | [1] Kroupa 2024 | Table 2, p. 6, row 24 |  |
-| 1005.05 | eutectoid: δ -> γ + κ | δ: Si 0.172; γ: Si 0.175; κ: Si 0.131 | model | [1] Kroupa 2024 | Table 2, p. 6, row 28 |  |
-| 1005 | δ = κ + γ | δ: Si 0.175; κ: Si 0.133; γ: Si 0.175 | model | [2] Gierlotka 2013 | Table 4, p. 5, row 18 |  |
-| 1005 | δ = ε + γ | δ: Si 0.175; ε: Si 0.21; γ: Si 0.175 | model | [2] Gierlotka 2013 | Table 4, p. 5, row 13 |  |
-| 1002.15 | peritectoid: δ+κ -> γ | δ: Si 0.175; κ: Si 0.139; γ: Si 0.164 | model | [3] Yan 2000 | Table 1, p. 3, row 7 |  |
-| 1002.15 | peritectoid: δ+κ -> γ | δ: Si 0.1765; κ: Si 0.145; γ: Si 0.171 | experimental | [3] Yan 2000; _cites Smith 1940_ | Table 1, p. 3, row 8 |  |
-| 1002 | δ = κ + γ | δ: Si 0.176; κ: Si 0.145; γ: Si 0.171 | experimental | [2] Gierlotka 2013; _cites Smith 1940_ | Table 4, p. 5, row 20 |  |
-| 1002 | δ = κ + γ | δ: Si 0.175; κ: Si 0.139; γ: Si 0.164 | experimental | [2] Gierlotka 2013; _cites Xinyan 2013_ | Table 4, p. 5, row 19 |  |
-| 984.15 | eutectoid: δ -> ε+γ | δ: Si 0.175; ε: Si 0.21; γ: Si 0.164 | model | [3] Yan 2000 | Table 1, p. 3, row 4 |  |
-| 984 | δ = ε + γ | δ: Si 0.175; ε: Si 0.21; γ: Si 0.164 | experimental | [2] Gierlotka 2013; _cites Xinyan 2013_ | Table 4, p. 5, row 14 |  |
-| 983.15 | eutectoid: δ -> ε+γ | δ: Si 0.182; ε: Si 0.212; γ: Si 0.176 | experimental | [3] Yan 2000; _cites Smith 1929_ | Table 1, p. 3, row 5 |  |
-| 983 | δ = ε + γ | δ: Si 0.182; ε: Si 0.212; γ: Si 0.176 | experimental | [2] Gierlotka 2013; _cites Smith 1929_ | Table 4, p. 5, row 15 |  |
-| 956.15 | eutectoid: δ -> ε+γ | δ: Si 0.175; ε: Si 0.2; γ: Si 0.164 | experimental | [3] Yan 2000; _cites Buhler 1998_ | Table 1, p. 3, row 6 |  |
-| 956 | δ = ε + γ | δ: Si 0.175; ε: Si 0.2; γ: Si 0.164 | unspecified | [2] Gierlotka 2013; _cites Buhler 1998_ | Table 4, p. 5, row 16 |  |
-| 893.15 | peritectic |  | experimental | [1] Kroupa 2024 | p. 2 | “The orthorhombic g-phase is formed by peritectic reaction at 620 C.” |
-| 892 | ε + η = η′ | ε: Si 0.21; η: Si 0.242; η′: Si 0.241 | experimental | [2] Gierlotka 2013; _cites Sufryd 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.05.017) | Table 4, p. 5, row 12 |  |
-| 892 | ε + η = η′ | ε: Si 0.21; η: Si 0.243; η′: Si 0.242 | model | [2] Gierlotka 2013 | Table 4, p. 5, row 11 |  |
-| 891.15 | peritectoid: ε + η -> η′ | ε: Si 0.211; η: Si 0.242 | experimental | [1] Kroupa 2024; _cites Sufryd 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.05.017) | Table 2, p. 6, row 29 |  |
-| 888.15 | peritectoid: ε + η -> η′ | ε: Si 0.211; η: Si 0.24; η′: Si 0.235; η': Si 0.235 | model | [1] Kroupa 2024; _cites Hallstedt 2016_ [doi](https://doi.org/10.1016/j.calphad.2016.03.002) | Table 2, p. 6, row 30 |  |
-| 886.95 | peritectoid: ε + η -> η′ | ε: Si 0.211; η: Si 0.239 | model | [1] Kroupa 2024 | Table 2, p. 6, row 31 |  |
-| 843.15 | peritectoid: ε + η′ -> η″ | ε: Si 0.211; η′: Si 0.244 | experimental | [1] Kroupa 2024; _cites Sufryd 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.05.017) | Table 2, p. 6, row 35 |  |
-| 842 | ε + η′ = η″ | ε: Si 0.21; η′: Si 0.243; η″: Si 0.242 | model | [2] Gierlotka 2013 | Table 4, p. 5, row 10 |  |
-| 831.55 | eutectoid: η -> η′ + (Si) | η: Si 0.249; (Si): Si 1 | model | [1] Kroupa 2024 | Table 2, p. 6, row 34 |  |
-| 831.05 | eutectoid: η -> η′ + (Si) | η: Si 0.24; η′: Si 0.235; (Si): Si 1; η': Si 0.235 | model | [1] Kroupa 2024; _cites Hallstedt 2016_ [doi](https://doi.org/10.1016/j.calphad.2016.03.002) | Table 2, p. 6, row 33 |  |
-| 830 | Diamond_A4(Si) + η = η′ | Diamond_A4(Si): Si 1; η: Si 0.26; η′: Si 0.26 | experimental | [2] Gierlotka 2013; _cites Sufryd 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.05.017) | Table 4, p. 5, row 9 |  |
-| 829.05 | eutectoid: κ -> γ + (Cu) | κ: Si 0.105; γ: Si 0.172; (Cu): Si 0.093 | model | [1] Kroupa 2024 | Table 2, p. 6, row 40 |  |
-| 828.15 | eutectoid: η -> η′ + (Si) | η: Si 0.26; (Si): Si 1 | experimental | [1] Kroupa 2024; _cites Sufryd 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.05.017) | Table 2, p. 6, row 32 |  |
-| 828 | Diamond_A4(Si) + η = η′ | Diamond_A4(Si): Si 1; η: Si 0.259; η′: Si 0.258 | model | [2] Gierlotka 2013 | Table 4, p. 5, row 8 |  |
-| 825.45 | eutectoid: κ -> γ + (Cu) | κ: Si 0.108; γ: Si 0.175; (Cu): Si 0.095 | model | [1] Kroupa 2024; _cites Hallstedt 2016_ [doi](https://doi.org/10.1016/j.calphad.2016.03.002) | Table 2, p. 6, row 39 |  |
-| 825.15 | eutectoid: κ -> (Cu)+γ | κ: Si 0.105; (Cu): Si 0.093; γ: Si 0.164 | experimental | [3] Yan 2000; _cites Buhler 1998_ | Table 1, p. 3, row 3 |  |
-| 825.15 | eutectoid: κ -> (Cu)+γ | κ: Si 0.1105; (Cu): Si 0.0995; γ: Si 0.1715 | experimental | [3] Yan 2000; _cites Smith 1940_ | Table 1, p. 3, row 2 |  |
-| 825.15 | eutectoid: κ -> (Cu)+γ | κ: Si 0.115; (Cu): Si 0.097; γ: Si 0.164 | model | [3] Yan 2000 | Table 1, p. 3, row 1 |  |
-| 825.15 | eutectoid: κ -> γ + (Cu) | γ: Cu 0.825, Si 0.175 | experimental | [1] Kroupa 2024; _cites Sufryd 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.05.017) | Table 2, p. 6, row 38 |  |
-| 825 | κ = FCC_A1(Cu) + γ | κ: Si 0.115; FCC_A1(Cu): Si 0.097; γ: Si 0.164 | experimental | [2] Gierlotka 2013; _cites Xinyan 2013_ | Table 4, p. 5, row 4 |  |
-| 825 | κ = FCC_A1(Cu) + γ | κ: Si 0.115; FCC_A1(Cu): Si 0.096; γ: Si 0.169 | experimental | [2] Gierlotka 2013; _cites Sufryd 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.05.017) | Table 4, p. 5, row 7 |  |
-| 825 | κ = FCC_A1(Cu) + γ | κ: Si 0.11; FCC_A1(Cu): Si 0.099; γ: Si 0.175 | experimental | [2] Gierlotka 2013; _cites Smith 1940_ | Table 4, p. 5, row 5 |  |
-| 825 | κ = FCC_A1(Cu) + γ | κ: Si 0.105; FCC_A1(Cu): Si 0.093; γ: Si 0.164 | unspecified | [2] Gierlotka 2013; _cites Buhler 1998_ | Table 4, p. 5, row 6 |  |
-| 825 | κ = FCC_A1(Cu) + γ | κ: Si 0.115; FCC_A1(Cu): Si 0.092; γ: Si 0.175 | model | [2] Gierlotka 2013 | Table 4, p. 5, row 3 |  |
-| 822.25 | peritectoid: ε + η′ -> η″ | ε: Si 0.211; η′: Si 0.235 | model | [1] Kroupa 2024; _cites Hallstedt 2016_ [doi](https://doi.org/10.1016/j.calphad.2016.03.002) | Table 2, p. 6, row 36 |  |
-| 822.05 | peritectoid: ε + η′ -> η″ | ε: Si 0.211; η′: Si 0.236 | model | [1] Kroupa 2024 | Table 2, p. 6, row 37 |  |
-| 749.45 | eutectoid: η′ -> η″ + (Si) | η′: Si 0.235; (Si): Si 1 | model | [1] Kroupa 2024; _cites Hallstedt 2016_ [doi](https://doi.org/10.1016/j.calphad.2016.03.002) | Table 2, p. 6, row 42 |  |
-| 742.35 | eutectoid: η′ -> η″ + (Si) | η′: Si 0.245; (Si): Si 1 | model | [1] Kroupa 2024 | Table 2, p. 6, row 43 |  |
-| 740.15 | eutectoid: η′ -> η″ + (Si) | η′: Cu 0.75, Si 0.25; η″: Cu 0.75, Si 0.25 | experimental | [1] Kroupa 2024; _cites Sufryd 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.05.017) | Table 2, p. 6, row 41 |  |
-| 740 | Diamond_A4(Si) + η′ = η″ | Diamond_A4(Si): Si 1; η′: Si 0.258; η″: Si 0.257 | model | [2] Gierlotka 2013 | Table 4, p. 5, row 1 |  |
-| 740 | Diamond_A4(Si) + η′ = η″ | Diamond_A4(Si): Si 1; η′: Si 0.235; η″: Si 0.23 | unspecified | [2] Gierlotka 2013; _cites Ghosh 2001_ [doi](https://doi.org/10.1016/s1359-6454%2801%2900187-2) | Table 4, p. 5, row 2 |  |
+| 1129.45 | congruent melting: L -> η\_Cu3Si | L: Si 0.24; η\_Cu3Si: Si 0.24 | model | [1] Kroupa 2024; _cites Hallstedt 2016_ [doi](https://doi.org/10.1016/j.calphad.2016.03.002) | Table 2, p. 6, row 1; `ORC-XWW2PZUPKD` |  |
+| 1127 | L + FCC_A1(Cu) = β | L: Si 0.16; FCC_A1(Cu): Si 0.11; β: Si 0.146 | experimental | [2] Gierlotka 2013; _cites Sufryd 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.05.017) | Table 4, p. 5, row 57; `ORC-OFFVRTUKVQ` |  |
+| 1126.15 | peritectic: L+(Cu) -> β | L: Si 0.157; (Cu): Si 0.111; β: Si 0.146 | model | [3] Yan 2000 | Table 1, p. 3, row 28; `ORC-4Z5U3RFV46` |  |
+| 1126 | L + FCC_A1(Cu) = β | L: Si 0.157; FCC_A1(Cu): Si 0.111; β: Si 0.146 | experimental | [2] Gierlotka 2013; _cites Xinyan 2013_ | Table 4, p. 5, row 54; `ORC-KTL2RQXNHD` |  |
+| 1125.85 | congruent melting: L -> η\_Cu3Si | L: Si 0.241; η\_Cu3Si: Si 0.241 | model | [1] Kroupa 2024 | Table 2, p. 6, row 2; `ORC-S6F63QSKPO` |  |
+| 1125.15 | peritectic: L+(Cu) -> β | L: Si 0.16; (Cu): Si 0.1115; β: Si 0.142 | experimental | [3] Yan 2000; _cites Smith 1940_ | Table 1, p. 3, row 29; `ORC-UFL4XDBQ3W` |  |
+| 1125.15 | peritectic: L+(Cu) -> β | L: Si 0.154; (Cu): Si 0.112; β: Si 0.146 | experimental | [3] Yan 2000; _cites Buhler 1998_ | Table 1, p. 3, row 30; `ORC-WLOAS5OR5C` |  |
+| 1125 | L + FCC_A1(Cu) = β | L: Si 0.154; FCC_A1(Cu): Si 0.112; β: Si 0.146 | unspecified | [2] Gierlotka 2013; _cites Buhler 1998_ | Table 4, p. 5, row 56; `ORC-55ZEPSTVI7` |  |
+| 1125 | L + FCC_A1(Cu) = β | L: Si 0.16; FCC_A1(Cu): Si 0.112; β: Si 0.142 | experimental | [2] Gierlotka 2013; _cites Smith 1940_ | Table 4, p. 5, row 55; `ORC-W2FHRY6QOH` |  |
+| 1124 | L + FCC_A1(Cu) = β | L: Si 0.16; FCC_A1(Cu): Si 0.11; β: Si 0.138 | model | [2] Gierlotka 2013 | Table 4, p. 5, row 53; `ORC-B3FEUAIAII` |  |
+| 1122.75 | peritectic: (Cu) + L -> β(CuSi) | (Cu): Si 0.116; L: Si 0.161; β(CuSi): Si 0.143 | model | [1] Kroupa 2024; _cites Hallstedt 2016_ [doi](https://doi.org/10.1016/j.calphad.2016.03.002) | Table 2, p. 6, row 4; `ORC-DJVPDBZLTL` |  |
+| 1122.15 | peritectic: (Cu) + L -> β(CuSi) | L: Si 0.16; β(CuSi): Si 0.142 | experimental | [1] Kroupa 2024; _cites Sufryd 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.05.017) | Table 2, p. 6, row 3; `ORC-CY3HAK6FIQ` |  |
+| 1121.75 | peritectic: (Cu) + L -> β(CuSi) | (Cu): Si 0.115; L: Si 0.16; β(CuSi): Si 0.142 | model | [1] Kroupa 2024 | Table 2, p. 6, row 5; `ORC-FQFNWN62BQ` |  |
+| 1119.15 | peritectoid: β+(Cu) -> κ | β: Si 0.147; (Cu): Si 0.113; κ: Si 0.118 | experimental | [3] Yan 2000; _cites Buhler 1998_ | Table 1, p. 3, row 27; `ORC-W5I2ZVOKVF` |  |
+| 1119 | β + FCC_A1(Cu) = κ | β: Si 0.147; FCC_A1(Cu): Si 0.113; κ: Si 0.118 | unspecified | [2] Gierlotka 2013; _cites Buhler 1998_ | Table 4, p. 5, row 51; `ORC-EGVEUUCECY` |  |
+| 1115.15 | peritectoid: β+(Cu) -> κ | β: Si 0.147; (Cu): Si 0.112; κ: Si 0.13 | model | [3] Yan 2000 | Table 1, p. 3, row 25; `ORC-A7TC3QDFXG` |  |
+| 1115.15 | peritectoid: β+(Cu) -> κ | β: Si 0.144; (Cu): Si 0.1125; κ: Si 0.1245 | experimental | [3] Yan 2000; _cites Smith 1940_ | Table 1, p. 3, row 26; `ORC-RLNIL6B3KC` |  |
+| 1115 | β + FCC_A1(Cu) = κ | β: Si 0.147; FCC_A1(Cu): Si 0.112; κ: Si 0.13 | experimental | [2] Gierlotka 2013; _cites Xinyan 2013_ | Table 4, p. 5, row 49; `ORC-3OC6LV65XW` |  |
+| 1115 | β + FCC_A1(Cu) = κ | β: Si 0.14; FCC_A1(Cu): Si 0.114; κ: Si 0.125 | model | [2] Gierlotka 2013 | Table 4, p. 5, row 48; `ORC-HDWHYR7I5Y` |  |
+| 1115 | β + FCC_A1(Cu) = κ | β: Si 0.144; FCC_A1(Cu): Si 0.113; κ: Si 0.125 | experimental | [2] Gierlotka 2013; _cites Smith 1940_ | Table 4, p. 5, row 50; `ORC-HUCI3AD43K` |  |
+| 1114 | β + FCC_A1(Cu) = κ | β: Si 0.145; FCC_A1(Cu): Si 0.109; κ: Si 0.125 | experimental | [2] Gierlotka 2013; _cites Sufryd 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.05.017) | Table 4, p. 5, row 52; `ORC-A7BTRVRPIM` |  |
+| 1112.55 | peritectic: (Cu) + β(CuSi) -> κ(CuSi) | (Cu): Si 0.116; β(CuSi): Si 0.142; κ(CuSi): Si 0.128 | model | [1] Kroupa 2024 | Table 2, p. 6, row 8; `ORC-2ZH2657IEO` |  |
+| 1112.25 | peritectic: (Cu) + β(CuSi) -> κ(CuSi) | (Cu): Si 0.116; β(CuSi): Si 0.143; κ(CuSi): Si 0.128 | model | [1] Kroupa 2024; _cites Hallstedt 2016_ [doi](https://doi.org/10.1016/j.calphad.2016.03.002) | Table 2, p. 6, row 7; `ORC-6AVCSNVX6N` |  |
+| 1112.15 | peritectic: (Cu) + β(CuSi) -> κ(CuSi) | β(CuSi): Si 0.145; κ(CuSi): Si 0.125 | experimental | [1] Kroupa 2024; _cites Sufryd 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.05.017) | Table 2, p. 6, row 6; `ORC-FHNJB36QZN` |  |
+| 1098 | L + β = δ | L: Si 0.19; β: Si 0.165; δ: Si 0.176 | experimental | [2] Gierlotka 2013; _cites Sufryd 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.05.017) | Table 4, p. 5, row 47; `ORC-ZKGIUDSUJW` |  |
+| 1097.15 | peritectic: L+β -> δ | L: Si 0.181; β: Si 0.172; δ: Si 0.176 | experimental | [3] Yan 2000; _cites Smith 1940_ | Table 1, p. 3, row 23; `ORC-66Y3VENTQW` |  |
+| 1097.15 | peritectic: L+β -> δ | L: Si 0.187; β: Si 0.167; δ: Si 0.175 | model | [3] Yan 2000 | Table 1, p. 3, row 22; `ORC-XYMWTQCAUU` |  |
+| 1097 | L + β = δ | L: Si 0.187; β: Si 0.167; δ: Si 0.175 | experimental | [2] Gierlotka 2013; _cites Xinyan 2013_ | Table 4, p. 5, row 44; `ORC-F62AK3PPEQ` |  |
+| 1097 | L + β = δ | L: Si 0.181; β: Si 0.172; δ: Si 0.176 | experimental | [2] Gierlotka 2013; _cites Smith 1940_ | Table 4, p. 5, row 45; `ORC-GJ4I3OWHLV` |  |
+| 1095 | L + β = δ | L: Si 0.188; β: Si 0.17; δ: Si 0.175 | model | [2] Gierlotka 2013 | Table 4, p. 5, row 43; `ORC-6XM624UXIZ` |  |
+| 1095 | L = η + δ | L: Si 0.199; η: Si 0.23; δ: Si 0.176 | experimental | [2] Gierlotka 2013; _cites Sufryd 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.05.017) | Table 4, p. 5, row 42; `ORC-WBL7SBLTGO` |  |
+| 1094.15 | peritectic: β(CuSi) + L -> δ | β(CuSi): Si 0.165; L: Si 0.192; δ: Si 0.175 | experimental | [1] Kroupa 2024; _cites Sufryd 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.05.017) | Table 2, p. 6, row 9; `ORC-ZJ3776FENC` |  |
+| 1093.75 | peritectic: β(CuSi) + L -> δ | β(CuSi): Si 0.16; L: Si 0.185; δ: Si 0.175 | model | [1] Kroupa 2024; _cites Hallstedt 2016_ [doi](https://doi.org/10.1016/j.calphad.2016.03.002) | Table 2, p. 6, row 10; `ORC-WYB2FFPF6T` |  |
+| 1093.15 | peritectic: L+β -> δ | L: Si 0.186; β: Si 0.169; δ: Si 0.175 | experimental | [3] Yan 2000; _cites Buhler 1998_ | Table 1, p. 3, row 24; `ORC-64BLRYXLGN` |  |
+| 1093.15 | eutectic: L -> η+δ | L: Si 0.192; η: Si 0.24; δ: Si 0.175 | model | [3] Yan 2000 | Table 1, p. 3, row 19; `ORC-COOH5WX2CJ` |  |
+| 1093.15 | eutectic: L -> η+δ | L: Si 0.199; η: Si 0.234; δ: Si 0.196 | experimental | [3] Yan 2000; _cites Smith 1929_ | Table 1, p. 3, row 20; `ORC-UL7OUDF3RG` |  |
+| 1093 | L = η + δ | L: Si 0.199; η: Si 0.234; δ: Si 0.196 | experimental | [2] Gierlotka 2013; _cites Smith 1940_ | Table 4, p. 5, row 40; `ORC-EX3KKJEQTL` |  |
+| 1093 | L = η + δ | L: Si 0.202; η: Si 0.25; δ: Si 0.175 | model | [2] Gierlotka 2013 | Table 4, p. 5, row 38; `ORC-MDAQXCMAQB` |  |
+| 1093 | L + β = δ | L: Si 0.186; β: Si 0.169; δ: Si 0.175 | unspecified | [2] Gierlotka 2013; _cites Buhler 1998_ | Table 4, p. 5, row 46; `ORC-QJ7246V7KT` |  |
+| 1093 | L = η + δ | L: Si 0.192; η: Si 0.24; δ: Si 0.175 | experimental | [2] Gierlotka 2013; _cites Xinyan 2013_ | Table 4, p. 5, row 39; `ORC-ZCWI6YBUDV` |  |
+| 1091.95 | peritectic: β(CuSi) + L -> δ | β(CuSi): Si 0.16; L: Si 0.186; δ: Si 0.178 | model | [1] Kroupa 2024 | Table 2, p. 6, row 11; `ORC-4MWGPOWBIQ` |  |
+| 1091.85 | eutectic: L + δ -> η | L: Si 0.19; δ: Si 0.175; η: Si 0.24 | model | [1] Kroupa 2024; _cites Hallstedt 2016_ [doi](https://doi.org/10.1016/j.calphad.2016.03.002) | Table 2, p. 6, row 13; `ORC-ZPVWNQDN5N` |  |
+| 1091.25 | eutectic: L + δ -> η | L: Si 0.188; δ: Si 0.18; η: Si 0.238 | model | [1] Kroupa 2024 | Table 2, p. 6, row 14; `ORC-5LY3PYNE5W` |  |
+| 1091.15 | eutectic: L + δ -> η | L: Si 0.198; δ: Si 0.177; η: Si 0.232 | experimental | [1] Kroupa 2024; _cites Sufryd 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.05.017) | Table 2, p. 6, row 12; `ORC-4Z4OE73X5F` |  |
+| 1089.15 | eutectic: L -> η+δ | L: Si 0.191; η: Si 0.24; δ: Si 0.175 | experimental | [3] Yan 2000; _cites Buhler 1998_ | Table 1, p. 3, row 21; `ORC-I4HAK3E5T2` |  |
+| 1089 | L = η + δ | L: Si 0.191; η: Si 0.24; δ: Si 0.175 | unspecified | [2] Gierlotka 2013; _cites Buhler 1998_ | Table 4, p. 5, row 41; `ORC-LZ5HAWDUT5` |  |
+| 1085.85 | eutectic: L + η -> (Si) | L: Si 0.314; η: Si 0.25; (Si): Si 1 | model | [1] Kroupa 2024 | Table 2, p. 6, row 17; `ORC-4ROV26NCDZ` |  |
+| 1080.15 | eutectic: L + η -> (Si) | η: Cu 0.75, Si 0.25 | experimental | [1] Kroupa 2024; _cites Sufryd 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.05.017) | Table 2, p. 6, row 15; `ORC-GDJWHJU26S` |  |
+| 1079.55 | eutectic: L + η -> (Si) | L: Si 0.312; η: Si 0.24; (Si): Si 1 | model | [1] Kroupa 2024; _cites Hallstedt 2016_ [doi](https://doi.org/10.1016/j.calphad.2016.03.002) | Table 2, p. 6, row 16; `ORC-3FNLZNSL5S` |  |
+| 1079 | L = Diamond_A4(Si) + η | L: Si 0.3; Diamond_A4(Si): Si 1; η: Si 0.258 | experimental | [2] Gierlotka 2013; _cites Sufryd 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.05.017) | Table 4, p. 5, row 37; `ORC-U3PDKPEEF3` |  |
+| 1078.15 | peritectoid: η+δ -> ε | η: Si 0.24; δ: Si 0.175; ε: Si 0.2 | experimental | [3] Yan 2000; _cites Buhler 1998_ | Table 1, p. 3, row 15; `ORC-BMRGG6ZHZN` |  |
+| 1078 | η + δ = ε | η: Si 0.24; δ: Si 0.175; ε: Si 0.2 | unspecified | [2] Gierlotka 2013; _cites Buhler 1998_ | Table 4, p. 5, row 31; `ORC-THUZWJX4WJ` |  |
+| 1075.15 | eutectic: L -> (Si)+η | L: Si 0.301; (Si): Si 1; η: Si 0.249 | experimental | [3] Yan 2000; _cites Smith 1929_ | Table 1, p. 3, row 17; `ORC-EBEZXBUYKC` |  |
+| 1075.15 | eutectic: L -> (Si)+η | L: Si 0.307; (Si): Si 1; η: Si 0.24 | model | [3] Yan 2000 | Table 1, p. 3, row 16; `ORC-IBQRRXL66Q` |  |
+| 1075 | L = Diamond_A4(Si) + η | L: Si 0.307; Diamond_A4(Si): Si 1; η: Si 0.24 | experimental | [2] Gierlotka 2013; _cites Xinyan 2013_ | Table 4, p. 5, row 34; `ORC-FEOIDWXNA4` |  |
+| 1075 | L = Diamond_A4(Si) + η | L: Si 0.301; Diamond_A4(Si): Si 1; η: Si 0.249 | experimental | [2] Gierlotka 2013; _cites Smith 1940_ | Table 4, p. 5, row 35; `ORC-G2G6PPIWWX` |  |
+| 1075 | eutectic: L = Cu3Si + Si |  | experimental | [2] Gierlotka 2013 | p. 4; `ORC-SVSHWBNWMS.9095ac` | “The composition of the calculated eutectic (L = Cu3Si + Si) is equal to 0.32 mol fraction of Si when the measured value is equal to 0.3 mol fraction of Si, at the same temperature T = 1075 K.” |
+| 1075 | eutectic: L = Cu3Si + Si |  | model | [2] Gierlotka 2013 | p. 4; `ORC-SVSHWBNWMS.99858b` | “The composition of the calculated eutectic (L = Cu3Si + Si) is equal to 0.32 mol fraction of Si when the measured value is equal to 0.3 mol fraction of Si, at the same temperature T = 1075 K.” |
+| 1074.15 | eutectic: L -> (Si)+η | L: Si 0.306; (Si): Si 1; η: Si 0.24 | experimental | [3] Yan 2000; _cites Buhler 1998_ | Table 1, p. 3, row 18; `ORC-C7CA6XGUFP` |  |
+| 1074 | L = Diamond_A4(Si) + η | L: Si 0.32; Diamond_A4(Si): Si 1; η: Si 0.25 | model | [2] Gierlotka 2013 | Table 4, p. 5, row 33; `ORC-2XWQ3HEOFC` |  |
+| 1074 | L = Diamond_A4(Si) + η | L: Si 0.306; Diamond_A4(Si): Si 1; η: Si 0.24 | unspecified | [2] Gierlotka 2013; _cites Buhler 1998_ | Table 4, p. 5, row 36; `ORC-7IGM6M4GSF` |  |
+| 1073.15 | peritectoid: η+δ -> ε | η: Si 0.235; δ: Si 0.194; ε: Si 0.212 | experimental | [3] Yan 2000; _cites Iokibe 1931_ | Table 1, p. 3, row 14; `ORC-7UXBU5P57N` |  |
+| 1073.15 | peritectoid: η+δ -> ε | η: Si 0.24; δ: Si 0.175; ε: Si 0.211 | model | [3] Yan 2000 | Table 1, p. 3, row 13; `ORC-NTY3JUTG6A` |  |
+| 1073.15 | peritectoid: δ + η -> ε | δ: Si 0.185; η: Si 0.235; ε: Si 0.211 | experimental | [1] Kroupa 2024; _cites Sufryd 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.05.017) | Table 2, p. 6, row 18; `ORC-SCO36FPZ5O` |  |
+| 1073 | η + δ = ε | η: Si 0.235; δ: Si 0.194; ε: Si 0.212 | experimental | [2] Gierlotka 2013; _cites Iokibe 1931_ | Table 4, p. 5, row 30; `ORC-BPIKL3VG5J` |  |
+| 1073 | η + δ = ε | η: Si 0.24; δ: Si 0.175; ε: Si 0.211 | experimental | [2] Gierlotka 2013; _cites Xinyan 2013_ | Table 4, p. 5, row 29; `ORC-DEU7DZJC6O` |  |
+| 1073 | η + δ = ε | η: Si 0.233; δ: Si 0.184; ε: Si 0.21 | experimental | [2] Gierlotka 2013; _cites Sufryd 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.05.017) | Table 4, p. 5, row 32; `ORC-IYI7ST6E6R` |  |
+| 1072.35 | peritectoid: δ + η -> ε | δ: Si 0.175; η: Si 0.24; ε: Si 0.211 | model | [1] Kroupa 2024; _cites Hallstedt 2016_ [doi](https://doi.org/10.1016/j.calphad.2016.03.002) | Table 2, p. 6, row 19; `ORC-5ZRXA57I3Y` |  |
+| 1072.05 | peritectoid: δ + η -> ε | δ: Si 0.179; η: Si 0.238; ε: Si 0.211 | model | [1] Kroupa 2024 | Table 2, p. 6, row 20; `ORC-WUPD7SM7NP` |  |
+| 1071 | η + δ = ε | η: Si 0.25; δ: Si 0.175; ε: Si 0.21 | model | [2] Gierlotka 2013 | Table 4, p. 5, row 28; `ORC-FO3NOCMJJ6` |  |
+| 1062 | β = δ + κ | β: Si 0.153; δ: Si 0.175; κ: Si 0.138 | model | [2] Gierlotka 2013 | Table 4, p. 5, row 23; `ORC-WCDN2IM7L4` |  |
+| 1060.15 | eutectoid: β -> δ+κ | β: Si 0.157; δ: Si 0.175; κ: Si 0.142 | model | [3] Yan 2000 | Table 1, p. 3, row 10; `ORC-IEWZKSORAI` |  |
+| 1060 | β = δ + κ | β: Si 0.157; δ: Si 0.175; κ: Si 0.142 | model | [2] Gierlotka 2013; _cites Xinyan 2013_ | Table 4, p. 5, row 24; `ORC-YBEIJWHPW4` |  |
+| 1059.15 | eutectoid: β -> δ+κ | β: Si 0.154; δ: Si 0.175; κ: Si 0.125 | experimental | [3] Yan 2000; _cites Buhler 1998_ | Table 1, p. 3, row 12; `ORC-AURNPJIIBS` |  |
+| 1059 | β = δ + κ | β: Si 0.154; δ: Si 0.175; κ: Si 0.125 | model | [2] Gierlotka 2013; _cites Buhler 1998_ | Table 4, p. 5, row 26; `ORC-U7CJILWQHK` |  |
+| 1058.15 | eutectoid: β -> δ+κ | β: Si 0.16; δ: Si 0.176; κ: Si 0.143 | experimental | [3] Yan 2000; _cites Smith 1940_ | Table 1, p. 3, row 11; `ORC-SNXIO5ETLD` |  |
+| 1058 | β = δ + κ | β: Si 0.16; δ: Si 0.176; κ: Si 0.143 | experimental | [2] Gierlotka 2013; _cites Smith 1940_ | Table 4, p. 5, row 25; `ORC-SUUO3BTZCF` |  |
+| 1055.15 | eutectoid: β(CuSi) -> δ + κ | β(CuSi): Si 0.15; δ: Si 0.175; κ: Si 0.136 | model | [1] Kroupa 2024; _cites Hallstedt 2016_ [doi](https://doi.org/10.1016/j.calphad.2016.03.002) | Table 2, p. 6, row 22; `ORC-CX6E7BTWZB` |  |
+| 1054.15 | eutectoid: β(CuSi) -> δ + κ | β(CuSi): Si 0.162; δ: Si 0.17; κ: Si 0.142 | experimental | [1] Kroupa 2024; _cites Sufryd 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.05.017) | Table 2, p. 6, row 21; `ORC-OYSMCQJ6TG` |  |
+| 1054 | β = δ + κ | β: Si 0.16; δ: Si 0.173; κ: Si 0.14 | experimental | [2] Gierlotka 2013; _cites Sufryd 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.05.017) | Table 4, p. 5, row 27; `ORC-JW32VFDSNQ` |  |
+| 1053.85 | eutectoid: β(CuSi) -> δ + κ | β(CuSi): Si 0.15; δ: Si 0.173; κ: Si 0.135 | model | [1] Kroupa 2024 | Table 2, p. 6, row 23; `ORC-OV25HVAAK3` |  |
+| 1008.15 | δ -> ε + γ | δ: Si 0.179; ε: Si 0.211; γ: Si 0.178 | experimental | [1] Kroupa 2024; _cites Sufryd 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.05.017) | Table 2, p. 6, row 25; `ORC-55GXGDRP4P` |  |
+| 1008.15 | peritectoid: δ+κ -> γ | δ: Si 0.175; κ: Si 0.121; γ: Si 0.164 | experimental | [3] Yan 2000; _cites Buhler 1998_ | Table 1, p. 3, row 9; `ORC-CK6HJUCKC3` |  |
+| 1008 | δ = κ + γ | δ: Si 0.175; κ: Si 0.121; γ: Si 0.164 | unspecified | [2] Gierlotka 2013; _cites Buhler 1998_ | Table 4, p. 5, row 21; `ORC-LSVYSOLJL3` |  |
+| 1008 | δ = κ + γ | δ: Si 0.169; κ: Si 0.137; γ: Si 0.175 | experimental | [2] Gierlotka 2013; _cites Sufryd 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.05.017) | Table 4, p. 5, row 22; `ORC-SDAOZD2SOS.4f4faf` |  |
+| 1008 | δ = ε + γ | δ: Si 0.179; ε: Si 0.21; γ: Si 0.174 | experimental | [2] Gierlotka 2013; _cites Sufryd 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.05.017) | Table 4, p. 5, row 17; `ORC-SDAOZD2SOS.ae1547` |  |
+| 1007.35 | δ -> γ | δ: Si 0.175; γ: Si 0.175 | model | [1] Kroupa 2024; _cites Hallstedt 2016_ [doi](https://doi.org/10.1016/j.calphad.2016.03.002) | Table 2, p. 6, row 26; `ORC-U5W3KXR2AI` |  |
+| 1007.15 | eutectoid: δ -> γ + κ | δ: Si 0.169; γ: Si 0.175; κ: Si 0.132 | experimental | [1] Kroupa 2024; _cites Sufryd 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.05.017) | Table 2, p. 6, row 27; `ORC-GBVOBHCVKC` |  |
+| 1006.95 | peritectoid: δ + ε -> κ | δ: Si 0.174; ε: Si 0.211; κ: Si 0.176 | model | [1] Kroupa 2024 | Table 2, p. 6, row 24; `ORC-SYQQ3XCRQV` |  |
+| 1005.05 | eutectoid: δ -> γ + κ | δ: Si 0.172; γ: Si 0.175; κ: Si 0.131 | model | [1] Kroupa 2024 | Table 2, p. 6, row 28; `ORC-C4NEKBLPK4` |  |
+| 1005 | δ = κ + γ | δ: Si 0.175; κ: Si 0.133; γ: Si 0.175 | model | [2] Gierlotka 2013 | Table 4, p. 5, row 18; `ORC-UZOUUBJQTQ.04df4c` |  |
+| 1005 | δ = ε + γ | δ: Si 0.175; ε: Si 0.21; γ: Si 0.175 | model | [2] Gierlotka 2013 | Table 4, p. 5, row 13; `ORC-UZOUUBJQTQ.df7984` |  |
+| 1002.15 | peritectoid: δ+κ -> γ | δ: Si 0.175; κ: Si 0.139; γ: Si 0.164 | model | [3] Yan 2000 | Table 1, p. 3, row 7; `ORC-3GYGXKP7T6` |  |
+| 1002.15 | peritectoid: δ+κ -> γ | δ: Si 0.1765; κ: Si 0.145; γ: Si 0.171 | experimental | [3] Yan 2000; _cites Smith 1940_ | Table 1, p. 3, row 8; `ORC-D3X2AYBQKK` |  |
+| 1002 | δ = κ + γ | δ: Si 0.176; κ: Si 0.145; γ: Si 0.171 | experimental | [2] Gierlotka 2013; _cites Smith 1940_ | Table 4, p. 5, row 20; `ORC-HMDLDYZM7E` |  |
+| 1002 | δ = κ + γ | δ: Si 0.175; κ: Si 0.139; γ: Si 0.164 | experimental | [2] Gierlotka 2013; _cites Xinyan 2013_ | Table 4, p. 5, row 19; `ORC-UTKAFGEM7F` |  |
+| 984.15 | eutectoid: δ -> ε+γ | δ: Si 0.175; ε: Si 0.21; γ: Si 0.164 | model | [3] Yan 2000 | Table 1, p. 3, row 4; `ORC-7MBTALCNUQ` |  |
+| 984 | δ = ε + γ | δ: Si 0.175; ε: Si 0.21; γ: Si 0.164 | experimental | [2] Gierlotka 2013; _cites Xinyan 2013_ | Table 4, p. 5, row 14; `ORC-LOYWGLOHGQ` |  |
+| 983.15 | eutectoid: δ -> ε+γ | δ: Si 0.182; ε: Si 0.212; γ: Si 0.176 | experimental | [3] Yan 2000; _cites Smith 1929_ | Table 1, p. 3, row 5; `ORC-MASOC5YGGW` |  |
+| 983 | δ = ε + γ | δ: Si 0.182; ε: Si 0.212; γ: Si 0.176 | experimental | [2] Gierlotka 2013; _cites Smith 1929_ | Table 4, p. 5, row 15; `ORC-EDYZUZFPTO` |  |
+| 956.15 | eutectoid: δ -> ε+γ | δ: Si 0.175; ε: Si 0.2; γ: Si 0.164 | experimental | [3] Yan 2000; _cites Buhler 1998_ | Table 1, p. 3, row 6; `ORC-T6PHYCYZO4` |  |
+| 956 | δ = ε + γ | δ: Si 0.175; ε: Si 0.2; γ: Si 0.164 | unspecified | [2] Gierlotka 2013; _cites Buhler 1998_ | Table 4, p. 5, row 16; `ORC-V6J5PM5CDL` |  |
+| 893.15 | peritectic |  | experimental | [1] Kroupa 2024 | p. 2; `ORC-ZM6VKJ4HIZ` | “The orthorhombic g-phase is formed by peritectic reaction at 620 C.” |
+| 892 | ε + η = η′ | ε: Si 0.21; η: Si 0.242; η′: Si 0.241 | experimental | [2] Gierlotka 2013; _cites Sufryd 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.05.017) | Table 4, p. 5, row 12; `ORC-4YJSW3NTYP` |  |
+| 892 | ε + η = η′ | ε: Si 0.21; η: Si 0.243; η′: Si 0.242 | model | [2] Gierlotka 2013 | Table 4, p. 5, row 11; `ORC-LZMDTLZVDI` |  |
+| 891.15 | peritectoid: ε + η -> η′ | ε: Si 0.211; η: Si 0.242 | experimental | [1] Kroupa 2024; _cites Sufryd 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.05.017) | Table 2, p. 6, row 29; `ORC-GI3ICFUEXH` |  |
+| 888.15 | peritectoid: ε + η -> η′ | ε: Si 0.211; η: Si 0.24; η′: Si 0.235; η': Si 0.235 | model | [1] Kroupa 2024; _cites Hallstedt 2016_ [doi](https://doi.org/10.1016/j.calphad.2016.03.002) | Table 2, p. 6, row 30; `ORC-FKL774A755` |  |
+| 886.95 | peritectoid: ε + η -> η′ | ε: Si 0.211; η: Si 0.239 | model | [1] Kroupa 2024 | Table 2, p. 6, row 31; `ORC-XOOPUGWKAX` |  |
+| 843.15 | peritectoid: ε + η′ -> η″ | ε: Si 0.211; η′: Si 0.244 | experimental | [1] Kroupa 2024; _cites Sufryd 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.05.017) | Table 2, p. 6, row 35; `ORC-QB7RLDHCKN` |  |
+| 842 | ε + η′ = η″ | ε: Si 0.21; η′: Si 0.243; η″: Si 0.242 | model | [2] Gierlotka 2013 | Table 4, p. 5, row 10; `ORC-V3BQD4MQMM` |  |
+| 831.55 | eutectoid: η -> η′ + (Si) | η: Si 0.249; (Si): Si 1 | model | [1] Kroupa 2024 | Table 2, p. 6, row 34; `ORC-WDOX2NTGZK` |  |
+| 831.05 | eutectoid: η -> η′ + (Si) | η: Si 0.24; η′: Si 0.235; (Si): Si 1; η': Si 0.235 | model | [1] Kroupa 2024; _cites Hallstedt 2016_ [doi](https://doi.org/10.1016/j.calphad.2016.03.002) | Table 2, p. 6, row 33; `ORC-7GWXXLAKZW` |  |
+| 830 | Diamond_A4(Si) + η = η′ | Diamond_A4(Si): Si 1; η: Si 0.26; η′: Si 0.26 | experimental | [2] Gierlotka 2013; _cites Sufryd 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.05.017) | Table 4, p. 5, row 9; `ORC-E2VSDZJYXB` |  |
+| 829.05 | eutectoid: κ -> γ + (Cu) | κ: Si 0.105; γ: Si 0.172; (Cu): Si 0.093 | model | [1] Kroupa 2024 | Table 2, p. 6, row 40; `ORC-GYYGVB2XPU` |  |
+| 828.15 | eutectoid: η -> η′ + (Si) | η: Si 0.26; (Si): Si 1 | experimental | [1] Kroupa 2024; _cites Sufryd 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.05.017) | Table 2, p. 6, row 32; `ORC-SJKEAQ2D2L` |  |
+| 828 | Diamond_A4(Si) + η = η′ | Diamond_A4(Si): Si 1; η: Si 0.259; η′: Si 0.258 | model | [2] Gierlotka 2013 | Table 4, p. 5, row 8; `ORC-CV6CNENHWC` |  |
+| 825.45 | eutectoid: κ -> γ + (Cu) | κ: Si 0.108; γ: Si 0.175; (Cu): Si 0.095 | model | [1] Kroupa 2024; _cites Hallstedt 2016_ [doi](https://doi.org/10.1016/j.calphad.2016.03.002) | Table 2, p. 6, row 39; `ORC-CC6Y6VBK75` |  |
+| 825.15 | eutectoid: κ -> (Cu)+γ | κ: Si 0.105; (Cu): Si 0.093; γ: Si 0.164 | experimental | [3] Yan 2000; _cites Buhler 1998_ | Table 1, p. 3, row 3; `ORC-2JXA32SNQJ` |  |
+| 825.15 | eutectoid: κ -> (Cu)+γ | κ: Si 0.1105; (Cu): Si 0.0995; γ: Si 0.1715 | experimental | [3] Yan 2000; _cites Smith 1940_ | Table 1, p. 3, row 2; `ORC-2YD5UGTVYC` |  |
+| 825.15 | eutectoid: κ -> (Cu)+γ | κ: Si 0.115; (Cu): Si 0.097; γ: Si 0.164 | model | [3] Yan 2000 | Table 1, p. 3, row 1; `ORC-LN6LLUXPZC` |  |
+| 825.15 | eutectoid: κ -> γ + (Cu) | γ: Cu 0.825, Si 0.175 | experimental | [1] Kroupa 2024; _cites Sufryd 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.05.017) | Table 2, p. 6, row 38; `ORC-RBZP7M3LS5` |  |
+| 825 | κ = FCC_A1(Cu) + γ | κ: Si 0.115; FCC_A1(Cu): Si 0.097; γ: Si 0.164 | experimental | [2] Gierlotka 2013; _cites Xinyan 2013_ | Table 4, p. 5, row 4; `ORC-74LQXZ7Q2T` |  |
+| 825 | κ = FCC_A1(Cu) + γ | κ: Si 0.115; FCC_A1(Cu): Si 0.096; γ: Si 0.169 | experimental | [2] Gierlotka 2013; _cites Sufryd 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.05.017) | Table 4, p. 5, row 7; `ORC-ORTYFH5S6A` |  |
+| 825 | κ = FCC_A1(Cu) + γ | κ: Si 0.11; FCC_A1(Cu): Si 0.099; γ: Si 0.175 | experimental | [2] Gierlotka 2013; _cites Smith 1940_ | Table 4, p. 5, row 5; `ORC-T3UHBEVC3X` |  |
+| 825 | κ = FCC_A1(Cu) + γ | κ: Si 0.105; FCC_A1(Cu): Si 0.093; γ: Si 0.164 | unspecified | [2] Gierlotka 2013; _cites Buhler 1998_ | Table 4, p. 5, row 6; `ORC-XTRPICF6BE` |  |
+| 825 | κ = FCC_A1(Cu) + γ | κ: Si 0.115; FCC_A1(Cu): Si 0.092; γ: Si 0.175 | model | [2] Gierlotka 2013 | Table 4, p. 5, row 3; `ORC-YGC44NTD56` |  |
+| 822.25 | peritectoid: ε + η′ -> η″ | ε: Si 0.211; η′: Si 0.235 | model | [1] Kroupa 2024; _cites Hallstedt 2016_ [doi](https://doi.org/10.1016/j.calphad.2016.03.002) | Table 2, p. 6, row 36; `ORC-65PF7IKY6D` |  |
+| 822.05 | peritectoid: ε + η′ -> η″ | ε: Si 0.211; η′: Si 0.236 | model | [1] Kroupa 2024 | Table 2, p. 6, row 37; `ORC-TGYWDN3CJF` |  |
+| 749.45 | eutectoid: η′ -> η″ + (Si) | η′: Si 0.235; (Si): Si 1 | model | [1] Kroupa 2024; _cites Hallstedt 2016_ [doi](https://doi.org/10.1016/j.calphad.2016.03.002) | Table 2, p. 6, row 42; `ORC-QJTUO7LGQB` |  |
+| 742.35 | eutectoid: η′ -> η″ + (Si) | η′: Si 0.245; (Si): Si 1 | model | [1] Kroupa 2024 | Table 2, p. 6, row 43; `ORC-5TU6LTGQID` |  |
+| 740.15 | eutectoid: η′ -> η″ + (Si) | η′: Cu 0.75, Si 0.25; η″: Cu 0.75, Si 0.25 | experimental | [1] Kroupa 2024; _cites Sufryd 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.05.017) | Table 2, p. 6, row 41; `ORC-XNYMHAZDTQ` |  |
+| 740 | Diamond_A4(Si) + η′ = η″ | Diamond_A4(Si): Si 1; η′: Si 0.258; η″: Si 0.257 | model | [2] Gierlotka 2013 | Table 4, p. 5, row 1; `ORC-P4LEDAV5XW` |  |
+| 740 | Diamond_A4(Si) + η′ = η″ | Diamond_A4(Si): Si 1; η′: Si 0.235; η″: Si 0.23 | unspecified | [2] Gierlotka 2013; _cites Ghosh 2001_ [doi](https://doi.org/10.1016/s1359-6454%2801%2900187-2) | Table 4, p. 5, row 2; `ORC-QHMG4H2ESS` |  |
 
 ## Other properties
 
@@ -348,14 +348,14 @@ Table: Phase transition, Cu–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 218 K | 218 |  | model | [2] Gierlotka 2013 | p. 6 | “After introducing the correction from ab initio calculation \[48\], we found that the temperature of melting of the Si in FCC_A1 structure is equal T = 218 K.” |
-| Phase transition | 840.15 K | 840.15 |  | model | [1] Kroupa 2024; _cites Witusiewicz 2004_ | p. 2 | “The b-phase decomposes by a eutectoid reaction to (Cu) solid solution and the c0 -phase at a temperature of 567 C and melts congruently at 1049 C according to.\[14\]” |
-| Phase transition | 1008 K | 1008 | polymorphic | experimental | [2] Gierlotka 2013 | p. 1 | “According to the newest information, the phases d and c were treated as phases with a polymorphic transformation at T = 1008 K.” |
-| Phase transition | 1008 K | 1008 | polymorphic | experimental | [2] Gierlotka 2013; _cites Sufryd 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.05.017) | p. 2 | “Moreover, they \[27\] found that the phases d and c have the same composition thus in this optimization the phases were treated as one phase with a polymorphic transformation at T = 1008 K.” |
-| Phase transition | 1008 K | 1008 | polymorphic | experimental | [2] Gierlotka 2013; _cites Sufryd 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.05.017) | p. 4 | “According to Sufryd et al. \[27\], the phases c and d have the same stoichiometry and their polymorphic transformation occurs at T = 1008 K.” |
-| Phase transition | 1132.15 K | 1132.15 | congruent melting: L -> η; _L: Si 0.24; η: Si 0.24_ | model | [3] Yan 2000 | Table 1, p. 3, row 31 |  |
-| Phase transition | 1132.15 K | 1132.15 | congruent melting: L -> η; _L: Si 0.24; η: Si 0.24_ | experimental | [3] Yan 2000; _cites Buhler 1998_ | Table 1, p. 3, row 32 |  |
-| Phase transition | 1322.15 K | 1322.15 | congruent transformation | model | [1] Kroupa 2024; _cites Witusiewicz 2004_ | p. 2 | “The b-phase decomposes by a eutectoid reaction to (Cu) solid solution and the c0 -phase at a temperature of 567 C and melts congruently at 1049 C according to.\[14\]” |
+| Phase transition | 218 K | 218 |  | model | [2] Gierlotka 2013 | p. 6; `ORC-HIX6UAEIXJ` | “After introducing the correction from ab initio calculation \[48\], we found that the temperature of melting of the Si in FCC_A1 structure is equal T = 218 K.” |
+| Phase transition | 840.15 K | 840.15 |  | model | [1] Kroupa 2024; _cites Witusiewicz 2004_ | p. 2; `ORC-46IQOAB3HR.99f4b8` | “The b-phase decomposes by a eutectoid reaction to (Cu) solid solution and the c0 -phase at a temperature of 567 C and melts congruently at 1049 C according to.\[14\]” |
+| Phase transition | 1008 K | 1008 | polymorphic | experimental | [2] Gierlotka 2013 | p. 1; `ORC-NKWEAQBHE4` | “According to the newest information, the phases d and c were treated as phases with a polymorphic transformation at T = 1008 K.” |
+| Phase transition | 1008 K | 1008 | polymorphic | experimental | [2] Gierlotka 2013; _cites Sufryd 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.05.017) | p. 2; `ORC-TAYPIY4GTW` | “Moreover, they \[27\] found that the phases d and c have the same composition thus in this optimization the phases were treated as one phase with a polymorphic transformation at T = 1008 K.” |
+| Phase transition | 1008 K | 1008 | polymorphic | experimental | [2] Gierlotka 2013; _cites Sufryd 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.05.017) | p. 4; `ORC-VYIWRUPPDS` | “According to Sufryd et al. \[27\], the phases c and d have the same stoichiometry and their polymorphic transformation occurs at T = 1008 K.” |
+| Phase transition | 1132.15 K | 1132.15 | congruent melting: L -> η; _L: Si 0.24; η: Si 0.24_ | model | [3] Yan 2000 | Table 1, p. 3, row 31; `ORC-BEEEIGBSNB` |  |
+| Phase transition | 1132.15 K | 1132.15 | congruent melting: L -> η; _L: Si 0.24; η: Si 0.24_ | experimental | [3] Yan 2000; _cites Buhler 1998_ | Table 1, p. 3, row 32; `ORC-RK5OC4HXNO` |  |
+| Phase transition | 1322.15 K | 1322.15 | congruent transformation | model | [1] Kroupa 2024; _cites Witusiewicz 2004_ | p. 2; `ORC-46IQOAB3HR.2bba07` | “The b-phase decomposes by a eutectoid reaction to (Cu) solid solution and the c0 -phase at a temperature of 567 C and melts congruently at 1049 C according to.\[14\]” |
 
 ### Crystal structure (14)
 
@@ -363,20 +363,20 @@ Table: Crystal structure, Cu–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 2.854 Å | 298.15 | Bcc | model | [4] Soldi 2019; _cites Olesinski 1986_ [doi](https://doi.org/10.1007/bf02881559) | Table 1, p. 3, row 3 |  |
-| Lattice a | 5.4306 Å | 298.15 | Diamond | model | [4] Soldi 2019; _cites Olesinski 1986_ [doi](https://doi.org/10.1007/bf02881559) | Table 1, p. 3, row 10 |  |
-| Lattice a | 3.6149 Å | 298.15 | Fcc | model | [4] Soldi 2019; _cites Olesinski 1986_ [doi](https://doi.org/10.1007/bf02881559) | Table 1, p. 3, row 1 |  |
-| Lattice a | 2.5622 Å | 298.15 | Hcp | model | [4] Soldi 2019; _cites Olesinski 1986_ [doi](https://doi.org/10.1007/bf02881559) | Table 1, p. 3, row 2 |  |
-| Lattice a | 4.036 Å | 298.15 | UNKNOWN; _alloy: Si 0.175_ | model | [4] Soldi 2019; _cites Mattern 2007_ | Table 1, p. 3, row 4 |  |
-| Lattice a | 76.76 Å | 298.15 | UNKNOWN; _alloy: Si 0.25_ | experimental | [4] Soldi 2019; _cites Solberg 1978_ [doi](https://doi.org/10.1107/s0567739478001448) | Table 1, p. 3, row 9 |  |
-| Lattice a | 6.198 Å | 298.15 | γ-Cu33Si7; _alloy: Si 0.175_ | model | [4] Soldi 2019; _cites Olesinski 1986_ [doi](https://doi.org/10.1007/bf02881559) | Table 1, p. 3, row 5 |  |
-| Lattice a | 9.718 Å | 298.15 | ε-Cu15Si4; _alloy: Si 0.210526_ | model | [4] Soldi 2019; _cites Mattern 2007_ | Table 1, p. 3, row 6 |  |
-| Lattice a | 2.47 Å | 298.15 | η-Cu3Si; _alloy: Si 0.25_ | experimental | [4] Soldi 2019; _cites Solberg 1978_ [doi](https://doi.org/10.1107/s0567739478001448) | Table 1, p. 3, row 7 |  |
-| Lattice a | 4.72 Å | 298.15 | η′-Cu3Si; _alloy: Si 0.25_ | experimental | [4] Soldi 2019; _cites Solberg 1978_ [doi](https://doi.org/10.1107/s0567739478001448) | Table 1, p. 3, row 8 |  |
-| Lattice b | 7 Å | 298.15 | UNKNOWN; _alloy: Si 0.25_ | experimental | [4] Soldi 2019; _cites Solberg 1978_ [doi](https://doi.org/10.1107/s0567739478001448) | Table 1, p. 3, row 9 |  |
-| Lattice c | 4.1823 Å | 298.15 | Hcp | model | [4] Soldi 2019; _cites Olesinski 1986_ [doi](https://doi.org/10.1007/bf02881559) | Table 1, p. 3, row 2 |  |
-| Lattice c | 4.943 Å | 298.15 | UNKNOWN; _alloy: Si 0.175_ | model | [4] Soldi 2019; _cites Mattern 2007_ | Table 1, p. 3, row 4 |  |
-| Lattice c | 21.94 Å | 298.15 | UNKNOWN; _alloy: Si 0.25_ | experimental | [4] Soldi 2019; _cites Solberg 1978_ [doi](https://doi.org/10.1107/s0567739478001448) | Table 1, p. 3, row 9 |  |
+| Lattice a | 2.854 Å | 298.15 | Bcc | model | [4] Soldi 2019; _cites Olesinski 1986_ [doi](https://doi.org/10.1007/bf02881559) | Table 1, p. 3, row 3; `ORC-HMVQL4TETG` |  |
+| Lattice a | 5.4306 Å | 298.15 | Diamond | model | [4] Soldi 2019; _cites Olesinski 1986_ [doi](https://doi.org/10.1007/bf02881559) | Table 1, p. 3, row 10; `ORC-K3QLNZ3W2P` |  |
+| Lattice a | 3.6149 Å | 298.15 | Fcc | model | [4] Soldi 2019; _cites Olesinski 1986_ [doi](https://doi.org/10.1007/bf02881559) | Table 1, p. 3, row 1; `ORC-ELRYNKMJSO` |  |
+| Lattice a | 2.5622 Å | 298.15 | Hcp | model | [4] Soldi 2019; _cites Olesinski 1986_ [doi](https://doi.org/10.1007/bf02881559) | Table 1, p. 3, row 2; `ORC-NLBV4CS7HQ.deb2c0` |  |
+| Lattice a | 4.036 Å | 298.15 | UNKNOWN; _alloy: Si 0.175_ | model | [4] Soldi 2019; _cites Mattern 2007_ | Table 1, p. 3, row 4; `ORC-5TWUHISCIW.b81a1b` |  |
+| Lattice a | 76.76 Å | 298.15 | UNKNOWN; _alloy: Si 0.25_ | experimental | [4] Soldi 2019; _cites Solberg 1978_ [doi](https://doi.org/10.1107/s0567739478001448) | Table 1, p. 3, row 9; `ORC-DHJZCGVYRX.62d0ef` |  |
+| Lattice a | 6.198 Å | 298.15 | γ-Cu33Si7; _alloy: Si 0.175_ | model | [4] Soldi 2019; _cites Olesinski 1986_ [doi](https://doi.org/10.1007/bf02881559) | Table 1, p. 3, row 5; `ORC-I7NS57K3BA` |  |
+| Lattice a | 9.718 Å | 298.15 | ε-Cu15Si4; _alloy: Si 0.210526_ | model | [4] Soldi 2019; _cites Mattern 2007_ | Table 1, p. 3, row 6; `ORC-RCAULWVDCK` |  |
+| Lattice a | 2.47 Å | 298.15 | η-Cu3Si; _alloy: Si 0.25_ | experimental | [4] Soldi 2019; _cites Solberg 1978_ [doi](https://doi.org/10.1107/s0567739478001448) | Table 1, p. 3, row 7; `ORC-WJQCRRRKVW` |  |
+| Lattice a | 4.72 Å | 298.15 | η′-Cu3Si; _alloy: Si 0.25_ | experimental | [4] Soldi 2019; _cites Solberg 1978_ [doi](https://doi.org/10.1107/s0567739478001448) | Table 1, p. 3, row 8; `ORC-AGMJJDVIZY` |  |
+| Lattice b | 7 Å | 298.15 | UNKNOWN; _alloy: Si 0.25_ | experimental | [4] Soldi 2019; _cites Solberg 1978_ [doi](https://doi.org/10.1107/s0567739478001448) | Table 1, p. 3, row 9; `ORC-DHJZCGVYRX.dd5865` |  |
+| Lattice c | 4.1823 Å | 298.15 | Hcp | model | [4] Soldi 2019; _cites Olesinski 1986_ [doi](https://doi.org/10.1007/bf02881559) | Table 1, p. 3, row 2; `ORC-NLBV4CS7HQ.625a83` |  |
+| Lattice c | 4.943 Å | 298.15 | UNKNOWN; _alloy: Si 0.175_ | model | [4] Soldi 2019; _cites Mattern 2007_ | Table 1, p. 3, row 4; `ORC-5TWUHISCIW.d5f6ec` |  |
+| Lattice c | 21.94 Å | 298.15 | UNKNOWN; _alloy: Si 0.25_ | experimental | [4] Soldi 2019; _cites Solberg 1978_ [doi](https://doi.org/10.1107/s0567739478001448) | Table 1, p. 3, row 9; `ORC-DHJZCGVYRX.0086a3` |  |
 
 ## Sources
 
@@ -444,4 +444,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

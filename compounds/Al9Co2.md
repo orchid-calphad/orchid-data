@@ -14,12 +14,12 @@ Table: Enthalpy of formation of Al9Co2 reported in the literature (6)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -33.98 kJ/mol-atom | Co2Al9 |  | DFT | DFT | [Al–Co](https://data.orchid-project.org/systems/AL-CO.html) | [1] Ostrowska 2019; _cites NIST_ | Table 2, p. 2, row 3 |  |
-| -32.04 kJ/mol-atom | Co2Al9 |  | DFT | DFT | [Al–Co](https://data.orchid-project.org/systems/AL-CO.html) | [1] Ostrowska 2019; _cites OQMD_ | Table 2, p. 2, row 2 |  |
-| -31.64 kJ/mol-atom | Al9Co2 | 0 | DFT | DFT | [Al–Co](https://data.orchid-project.org/systems/AL-CO.html) | [2] Wang 2017; _cites ref. 21_ | Table 1, p. 36, row 9 |  |
-| -31.47 kJ/mol-atom | Co2Al9 |  | DFT | DFT | [Al–Co](https://data.orchid-project.org/systems/AL-CO.html) | [1] Ostrowska 2019; _cites materialsproject_ | Table 2, p. 2, row 1 |  |
-| -31.45 kJ/mol-atom | Al9Co2 | 0 | DFT | DFT | [Al–Co](https://data.orchid-project.org/systems/AL-CO.html) | [2] Wang 2017; _cites ref. 23_ | Table 1, p. 36, row 10 |  |
-| -31.18 kJ/mol-atom | Co2Al9 |  | DFT | DFT | [Al–Co](https://data.orchid-project.org/systems/AL-CO.html) | [1] Ostrowska 2019; _cites Shevchenko 2014_ [doi](https://doi.org/10.1134/s003602441405029x) | Table 2, p. 2, row 4 |  |
+| -33.98 kJ/mol-atom | Co2Al9 |  | DFT | DFT | [Al–Co](https://data.orchid-project.org/systems/AL-CO.html) | [1] Ostrowska 2019; _cites NIST_ | Table 2, p. 2, row 3; `ORC-3S4KBXMVUB` |  |
+| -32.04 kJ/mol-atom | Co2Al9 |  | DFT | DFT | [Al–Co](https://data.orchid-project.org/systems/AL-CO.html) | [1] Ostrowska 2019; _cites OQMD_ | Table 2, p. 2, row 2; `ORC-KYMD7FX7G3` |  |
+| -31.64 kJ/mol-atom | Al9Co2 | 0 | DFT | DFT | [Al–Co](https://data.orchid-project.org/systems/AL-CO.html) | [2] Wang 2017; _cites ref. 21_ | Table 1, p. 36, row 9; `ORC-QOPOVFJV2W` |  |
+| -31.47 kJ/mol-atom | Co2Al9 |  | DFT | DFT | [Al–Co](https://data.orchid-project.org/systems/AL-CO.html) | [1] Ostrowska 2019; _cites materialsproject_ | Table 2, p. 2, row 1; `ORC-M6JJGFYDJP` |  |
+| -31.45 kJ/mol-atom | Al9Co2 | 0 | DFT | DFT | [Al–Co](https://data.orchid-project.org/systems/AL-CO.html) | [2] Wang 2017; _cites ref. 23_ | Table 1, p. 36, row 10; `ORC-BQ2ZYQNL4W` |  |
+| -31.18 kJ/mol-atom | Co2Al9 |  | DFT | DFT | [Al–Co](https://data.orchid-project.org/systems/AL-CO.html) | [1] Ostrowska 2019; _cites Shevchenko 2014_ [doi](https://doi.org/10.1134/s003602441405029x) | Table 2, p. 2, row 4; `ORC-ESTECYUS7G` |  |
 
 ### Uncertainty budget
 
@@ -88,4 +88,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -59,47 +59,47 @@ Table: Invariant reactions reported in the literature for the Al–Zn system (41
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 658 | eutectic: liq. \<-> hcp sol. +fcc sol. | fcc': Zn 0.67 | experimental | [1] Mathon 2000; _cites Ellwood 1952_ | Table 5, p. 15, row 3 |  |
-| 656.9 | eutectic: liq. \<-> hcp sol. +fcc sol. | liq.: Zn 0.872; fcc': Zn 0.742; hcp: Zn 0.948 | model | [1] Mathon 2000; _cites I W 1950_ | Table 5, p. 15, row 12 |  |
-| 656.9 | L = fcc + hcp | L: Zn 0.872; fcc: Zn 0.742; hcp: Zn 0.948 | model | [2] Chen 1993; _cites ref. 86Mey_ | Table 3, p. 4, row 2 |  |
-| 656 | eutectic: liq. \<-> hcp sol. +fcc sol. |  | experimental | [1] Mathon 2000; _cites Aragon 1995_ | Table 5, p. 15, row 1 |  |
-| 655.1 | eutectic: liq. \<-> hcp sol. +fcc sol. | liq.: Zn 0.882; fcc': Zn 0.67; hcp: Zn 0.966 | model | [1] Mathon 2000 | Table 5, p. 15, row 8 |  |
-| 655 | eutectic: liq. \<-> hcp sol. +fcc sol. |  | experimental | [1] Mathon 2000; _cites Gayler 1938_ | Table 5, p. 15, row 5 |  |
-| 655 | eutectic: liq. \<-> hcp sol. +fcc sol. | liq.: Zn 0.8526 | experimental | [1] Mathon 2000; _cites Morinaga 1940_ | Table 5, p. 15, row 6 |  |
-| 654.8 | eutectic: liq. \<-> hcp sol. +fcc sol. | liq.: Zn 0.888; fcc': Zn 0.667; hcp: Zn 0.972 | model | [1] Mathon 2000; _cites ref. 8_ | Table 5, p. 15, row 14 |  |
-| 654.8 | L = fcc + hcp | L: Zn 0.888; fcc: Zn 0.667; hcp: Zn 0.975 | model | [2] Chen 1993 | Table 3, p. 4, row 3 |  |
-| 654.1 | eutectic: liq. \<-> hcp sol. +fcc sol. | liq.: Zn 0.884; fcc': Zn 0.673; hcp: Zn 0.969 | model | [1] Mathon 2000; _cites ref. 7_ | Table 5, p. 15, row 13 |  |
-| 654 | eutectic: L=fcc+hcp |  | model | [2] Chen 1993 | p. 1 | “There exist three invariant equilibria in the AlZn system. They are the eutectic equilibrium, L=fcc+hcp. at 654K, the critical point for phase separation of the fee phase, fcc=fcci+fccz, at 624.5K, and the monotectoid equilibrium,” |
-| 654 | eutectic: liq. \<-> hcp sol. +fcc sol. | liq.: Zn 0.887; fcc': Zn 0.67; hcp: Zn 0.972 | model | [1] Mathon 2000; _cites Murray 1996_ | Table 5, p. 15, row 9 |  |
-| 654 | L = fcc + hcp | L: Zn 0.887; fcc: Zn 0.67; hcp: Zn 0.972 | model | [2] Chen 1993; _cites ref. 83Mur_ | Table 3, p. 4, row 1 |  |
-| 654 | eutectic: Liquid -> fcc-A1 + hcp-A3 | L: Zn 0.884; fcc-A1: Zn 0.673; hcp-A3: Zn 0.969 | model | [3] Hämäläinen 1998 | Table I, p. 127, row 1 |  |
-| 653.7 | eutectic: liq. \<-> hcp sol. +fcc sol. | liq.: Zn 0.87; fcc': Zn 0.734; hcp: Zn 0.975 | model | [1] Mathon 2000 | Table 5, p. 15, row 11 |  |
-| 653.6 | eutectic: liq. \<-> hcp sol. +fcc sol. | liq.: Zn 0.877 | experimental | [1] Mathon 2000; _cites Heycock 1897_ [doi](https://doi.org/10.1039/ct8977100383) | Table 5, p. 15, row 7 |  |
-| 653 | eutectic: liq. \<-> hcp sol. +fcc sol. | liq.: Zn 0.8869; hcp: Zn 0.971 | experimental | [1] Mathon 2000; _cites Pelzel 1943_ | Table 5, p. 15, row 4 |  |
-| 651.6 | eutectic: liq. \<-> hcp sol. +fcc sol. | liq.: Zn 0.886; fcc': Zn 0.745; hcp: Zn 0.977 | model | [1] Mathon 2000 | Table 5, p. 15, row 10 |  |
-| 651 | eutectic: liq. \<-> hcp sol. +fcc sol. | liq.: Zn 0.9 | experimental | [1] Mathon 2000; _cites Velisek 1975_ | Table 5, p. 15, row 2 |  |
-| 624.5 | fcc = fcc1 + fcc2 | fcc: Zn 0.395 | model | [2] Chen 1993; _cites ref. 83Mur_ | Table 3, p. 4, row 7 |  |
-| 622.3 | fcc = fcc1 + fcc2 | fcc: Zn 0.344 | model | [2] Chen 1993 | Table 3, p. 4, row 9 |  |
-| 611.2 | fcc = fcc1 + fcc2 | fcc: Zn 0.362 | model | [2] Chen 1993; _cites ref. 86Mey_ | Table 3, p. 4, row 8 |  |
-| 556 | fcc + fcc' + hcp |  | experimental | [1] Mathon 2000; _cites Morinaga 1940_ | Table 5, p. 16, row 1 |  |
-| 555 | fcc2 = fcc1 + hcp | fcc2: Zn 0.604; fcc1: Zn 0.166; hcp: Zn 0.965 | model | [2] Chen 1993; _cites ref. 86Mey_ | Table 3, p. 4, row 5 |  |
-| 555 | fcc + fcc' + hcp | fcc: Zn 0.166; fcc': Zn 0.604; hcp: Zn 0.965 | model | [1] Mathon 2000; _cites I W 1950_ | Table 5, p. 16, row 7 |  |
-| 555 | monotectoid: fcc sol. \<-> fcc' sol. + hcp sol. |  | experimental | [1] Mathon 2000; _cites Aragon 1995_ | Table 5, p. 15, row 15 |  |
-| 553 | monotectoid: fcc sol. \<-> fcc' sol. + hcp sol. |  | experimental | [1] Mathon 2000; _cites Larsson 1967_ [doi](https://doi.org/10.1016/0001-6160%2867%2990153-8) | Table 5, p. 15, row 18 |  |
-| 552 | monotectoid: fcc sol. \<-> fcc' sol. + hcp sol. |  | experimental | [1] Mathon 2000; _cites Jardet 1998_ | Table 5, p. 15, row 16 |  |
-| 551.9 | fcc + fcc' + hcp | fcc: Zn 0.143; fcc': Zn 0.588; hcp: Zn 0.981 | model | [1] Mathon 2000 | Table 5, p. 16, row 3 |  |
-| 550.7 | fcc2 = fcc1 + hcp | fcc2: Zn 0.592; fcc1: Zn 0.145; hcp: Zn 0.985 | model | [2] Chen 1993 | Table 3, p. 4, row 6 |  |
-| 550.7 | fcc + fcc' + hcp | fcc: Zn 0.145; fcc': Zn 0.592; hcp: Zn 0.985 | model | [1] Mathon 2000; _cites ref. 8_ | Table 5, p. 16, row 9 |  |
-| 550.4 | fcc + fcc' + hcp | fcc: Zn 0.141; fcc': Zn 0.59; hcp: Zn 0.984 | model | [1] Mathon 2000; _cites ref. 7_ | Table 5, p. 16, row 8 |  |
-| 550.4 | monotectic: fcc-A1' -> fcc-A1" + hcp-A3 | fcc-A1': Zn 0.59; fcc-A1": Zn 0.141; hcp-A3: Zn 0.984 | model | [3] Hämäläinen 1998 | Table I, p. 127, row 2 |  |
-| 550 | fcc2 = fcc1 + hcp | fcc2: Zn 0.59; fcc1: Zn 0.165; hcp: Zn 0.984 | model | [2] Chen 1993; _cites ref. 83Mur_ | Table 3, p. 4, row 4 |  |
-| 550 | monotectoid: fcc sol. \<-> fcc' sol. + hcp sol. |  | experimental | [1] Mathon 2000; _cites Borelius 1948_ | Table 5, p. 15, row 20 |  |
-| 550 | fcc + fcc' + hcp | fcc: Zn 0.165; fcc': Zn 0.59; hcp: Zn 0.984 | model | [1] Mathon 2000; _cites Murray 1996_ | Table 5, p. 16, row 4 |  |
-| 550 | monotectoid: fcc sol. \<-> fcc' sol. + hcp sol. | fcc: Zn 0.165; fcc': Zn 0.6 | experimental | [1] Mathon 2000; _cites Ellwood 1952_ | Table 5, p. 15, row 19 |  |
-| 548 | monotectoid: fcc sol. \<-> fcc' sol. + hcp sol. |  | experimental | [1] Mathon 2000; _cites Vincent 1982_ | Table 5, p. 15, row 17 |  |
-| 546.3 | monotectoid: fcc sol. \<-> fcc' sol. + hcp sol. |  | experimental | [1] Mathon 2000; _cites Gayler 1938_ | Table 5, p. 15, row 28 |  |
-| 543 | fcc + fcc' + hcp | hcp: Zn 0.985 | experimental | [1] Mathon 2000; _cites Auer 1936_ [doi](https://doi.org/10.1515/ijmr-1936-281-1269) | Table 5, p. 16, row 2 |  |
-| 522 | monotectoid: fcc sol. \<-> fcc' sol. + hcp sol. |  | experimental | [1] Mathon 2000; _cites Gayler 1938_ | Table 5, p. 15, row 21 |  |
+| 658 | eutectic: liq. \<-> hcp sol. +fcc sol. | fcc': Zn 0.67 | experimental | [1] Mathon 2000; _cites Ellwood 1952_ | Table 5, p. 15, row 3; `ORC-V6GNQ4UPPK` |  |
+| 656.9 | eutectic: liq. \<-> hcp sol. +fcc sol. | liq.: Zn 0.872; fcc': Zn 0.742; hcp: Zn 0.948 | model | [1] Mathon 2000; _cites I W 1950_ | Table 5, p. 15, row 12; `ORC-6QKCQZUID2` |  |
+| 656.9 | L = fcc + hcp | L: Zn 0.872; fcc: Zn 0.742; hcp: Zn 0.948 | model | [2] Chen 1993; _cites ref. 86Mey_ | Table 3, p. 4, row 2; `ORC-SWGMEDXWAO` |  |
+| 656 | eutectic: liq. \<-> hcp sol. +fcc sol. |  | experimental | [1] Mathon 2000; _cites Aragon 1995_ | Table 5, p. 15, row 1; `ORC-WS6T6VCRX4` |  |
+| 655.1 | eutectic: liq. \<-> hcp sol. +fcc sol. | liq.: Zn 0.882; fcc': Zn 0.67; hcp: Zn 0.966 | model | [1] Mathon 2000 | Table 5, p. 15, row 8; `ORC-AT5HDF2EQN` |  |
+| 655 | eutectic: liq. \<-> hcp sol. +fcc sol. |  | experimental | [1] Mathon 2000; _cites Gayler 1938_ | Table 5, p. 15, row 5; `ORC-2YOHNCBKTB` |  |
+| 655 | eutectic: liq. \<-> hcp sol. +fcc sol. | liq.: Zn 0.8526 | experimental | [1] Mathon 2000; _cites Morinaga 1940_ | Table 5, p. 15, row 6; `ORC-DA4J4LNNKQ` |  |
+| 654.8 | eutectic: liq. \<-> hcp sol. +fcc sol. | liq.: Zn 0.888; fcc': Zn 0.667; hcp: Zn 0.972 | model | [1] Mathon 2000; _cites ref. 8_ | Table 5, p. 15, row 14; `ORC-AWIACMYIWO` |  |
+| 654.8 | L = fcc + hcp | L: Zn 0.888; fcc: Zn 0.667; hcp: Zn 0.975 | model | [2] Chen 1993 | Table 3, p. 4, row 3; `ORC-RQP53OISGQ` |  |
+| 654.1 | eutectic: liq. \<-> hcp sol. +fcc sol. | liq.: Zn 0.884; fcc': Zn 0.673; hcp: Zn 0.969 | model | [1] Mathon 2000; _cites ref. 7_ | Table 5, p. 15, row 13; `ORC-VRDB5V5THN` |  |
+| 654 | eutectic: L=fcc+hcp |  | model | [2] Chen 1993 | p. 1; `ORC-4LD2QG6VPX.17c961` | “There exist three invariant equilibria in the AlZn system. They are the eutectic equilibrium, L=fcc+hcp. at 654K, the critical point for phase separation of the fee phase, fcc=fcci+fccz, at 624.5K, and the monotectoid equilibrium,” |
+| 654 | eutectic: liq. \<-> hcp sol. +fcc sol. | liq.: Zn 0.887; fcc': Zn 0.67; hcp: Zn 0.972 | model | [1] Mathon 2000; _cites Murray 1996_ | Table 5, p. 15, row 9; `ORC-CWMTJHG33U` |  |
+| 654 | L = fcc + hcp | L: Zn 0.887; fcc: Zn 0.67; hcp: Zn 0.972 | model | [2] Chen 1993; _cites ref. 83Mur_ | Table 3, p. 4, row 1; `ORC-N4KMOOLTLF` |  |
+| 654 | eutectic: Liquid -> fcc-A1 + hcp-A3 | L: Zn 0.884; fcc-A1: Zn 0.673; hcp-A3: Zn 0.969 | model | [3] Hämäläinen 1998 | Table I, p. 127, row 1; `ORC-SQ3DTRL2DU` |  |
+| 653.7 | eutectic: liq. \<-> hcp sol. +fcc sol. | liq.: Zn 0.87; fcc': Zn 0.734; hcp: Zn 0.975 | model | [1] Mathon 2000 | Table 5, p. 15, row 11; `ORC-VUA235Y2S7` |  |
+| 653.6 | eutectic: liq. \<-> hcp sol. +fcc sol. | liq.: Zn 0.877 | experimental | [1] Mathon 2000; _cites Heycock 1897_ [doi](https://doi.org/10.1039/ct8977100383) | Table 5, p. 15, row 7; `ORC-H6DPGJYBMN` |  |
+| 653 | eutectic: liq. \<-> hcp sol. +fcc sol. | liq.: Zn 0.8869; hcp: Zn 0.971 | experimental | [1] Mathon 2000; _cites Pelzel 1943_ | Table 5, p. 15, row 4; `ORC-LNZQZ3PHL2` |  |
+| 651.6 | eutectic: liq. \<-> hcp sol. +fcc sol. | liq.: Zn 0.886; fcc': Zn 0.745; hcp: Zn 0.977 | model | [1] Mathon 2000 | Table 5, p. 15, row 10; `ORC-K43UDIKDGY` |  |
+| 651 | eutectic: liq. \<-> hcp sol. +fcc sol. | liq.: Zn 0.9 | experimental | [1] Mathon 2000; _cites Velisek 1975_ | Table 5, p. 15, row 2; `ORC-U4YSZ5NV57` |  |
+| 624.5 | fcc = fcc1 + fcc2 | fcc: Zn 0.395 | model | [2] Chen 1993; _cites ref. 83Mur_ | Table 3, p. 4, row 7; `ORC-KFR2UYQ34P` |  |
+| 622.3 | fcc = fcc1 + fcc2 | fcc: Zn 0.344 | model | [2] Chen 1993 | Table 3, p. 4, row 9; `ORC-5AG2FAWYS3` |  |
+| 611.2 | fcc = fcc1 + fcc2 | fcc: Zn 0.362 | model | [2] Chen 1993; _cites ref. 86Mey_ | Table 3, p. 4, row 8; `ORC-UL2AFFS4PI` |  |
+| 556 | fcc + fcc' + hcp |  | experimental | [1] Mathon 2000; _cites Morinaga 1940_ | Table 5, p. 16, row 1; `ORC-BOAJ2U5PBT` |  |
+| 555 | fcc2 = fcc1 + hcp | fcc2: Zn 0.604; fcc1: Zn 0.166; hcp: Zn 0.965 | model | [2] Chen 1993; _cites ref. 86Mey_ | Table 3, p. 4, row 5; `ORC-2PYTE4RVUD` |  |
+| 555 | fcc + fcc' + hcp | fcc: Zn 0.166; fcc': Zn 0.604; hcp: Zn 0.965 | model | [1] Mathon 2000; _cites I W 1950_ | Table 5, p. 16, row 7; `ORC-QWP3YQZ32B` |  |
+| 555 | monotectoid: fcc sol. \<-> fcc' sol. + hcp sol. |  | experimental | [1] Mathon 2000; _cites Aragon 1995_ | Table 5, p. 15, row 15; `ORC-R6A5YNF6I4` |  |
+| 553 | monotectoid: fcc sol. \<-> fcc' sol. + hcp sol. |  | experimental | [1] Mathon 2000; _cites Larsson 1967_ [doi](https://doi.org/10.1016/0001-6160%2867%2990153-8) | Table 5, p. 15, row 18; `ORC-6O34EUT7UN` |  |
+| 552 | monotectoid: fcc sol. \<-> fcc' sol. + hcp sol. |  | experimental | [1] Mathon 2000; _cites Jardet 1998_ | Table 5, p. 15, row 16; `ORC-Z23QEJ7FRW` |  |
+| 551.9 | fcc + fcc' + hcp | fcc: Zn 0.143; fcc': Zn 0.588; hcp: Zn 0.981 | model | [1] Mathon 2000 | Table 5, p. 16, row 3; `ORC-RYW4SZRDKM` |  |
+| 550.7 | fcc2 = fcc1 + hcp | fcc2: Zn 0.592; fcc1: Zn 0.145; hcp: Zn 0.985 | model | [2] Chen 1993 | Table 3, p. 4, row 6; `ORC-UMPJK5VLSU` |  |
+| 550.7 | fcc + fcc' + hcp | fcc: Zn 0.145; fcc': Zn 0.592; hcp: Zn 0.985 | model | [1] Mathon 2000; _cites ref. 8_ | Table 5, p. 16, row 9; `ORC-WPSIJBDUTS` |  |
+| 550.4 | fcc + fcc' + hcp | fcc: Zn 0.141; fcc': Zn 0.59; hcp: Zn 0.984 | model | [1] Mathon 2000; _cites ref. 7_ | Table 5, p. 16, row 8; `ORC-TRLUE7XB4X` |  |
+| 550.4 | monotectic: fcc-A1' -> fcc-A1" + hcp-A3 | fcc-A1': Zn 0.59; fcc-A1": Zn 0.141; hcp-A3: Zn 0.984 | model | [3] Hämäläinen 1998 | Table I, p. 127, row 2; `ORC-UKCSCTJAJ3` |  |
+| 550 | fcc2 = fcc1 + hcp | fcc2: Zn 0.59; fcc1: Zn 0.165; hcp: Zn 0.984 | model | [2] Chen 1993; _cites ref. 83Mur_ | Table 3, p. 4, row 4; `ORC-3QDOBOLG64` |  |
+| 550 | monotectoid: fcc sol. \<-> fcc' sol. + hcp sol. |  | experimental | [1] Mathon 2000; _cites Borelius 1948_ | Table 5, p. 15, row 20; `ORC-HXETYEEAMV` |  |
+| 550 | fcc + fcc' + hcp | fcc: Zn 0.165; fcc': Zn 0.59; hcp: Zn 0.984 | model | [1] Mathon 2000; _cites Murray 1996_ | Table 5, p. 16, row 4; `ORC-YFLNAGM4BK` |  |
+| 550 | monotectoid: fcc sol. \<-> fcc' sol. + hcp sol. | fcc: Zn 0.165; fcc': Zn 0.6 | experimental | [1] Mathon 2000; _cites Ellwood 1952_ | Table 5, p. 15, row 19; `ORC-ZLBPMRZTK4` |  |
+| 548 | monotectoid: fcc sol. \<-> fcc' sol. + hcp sol. |  | experimental | [1] Mathon 2000; _cites Vincent 1982_ | Table 5, p. 15, row 17; `ORC-OXZXJHMGNN` |  |
+| 546.3 | monotectoid: fcc sol. \<-> fcc' sol. + hcp sol. |  | experimental | [1] Mathon 2000; _cites Gayler 1938_ | Table 5, p. 15, row 28; `ORC-K3H2ZDF5IR` |  |
+| 543 | fcc + fcc' + hcp | hcp: Zn 0.985 | experimental | [1] Mathon 2000; _cites Auer 1936_ [doi](https://doi.org/10.1515/ijmr-1936-281-1269) | Table 5, p. 16, row 2; `ORC-WPQX2S6RV2` |  |
+| 522 | monotectoid: fcc sol. \<-> fcc' sol. + hcp sol. |  | experimental | [1] Mathon 2000; _cites Gayler 1938_ | Table 5, p. 15, row 21; `ORC-FEDCEF2MDK` |  |
 
 ## Other properties
 
@@ -109,16 +109,16 @@ Table: Phase transition, Al–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 552 K | 552 | other | experimental | [1] Mathon 2000 | p. 6 | “Below the Al-Zn monotectoid invariant at 552 K, (between 575 K and 550 K), the (hcp + fee) two-phases field and the (hcp + fee + fee') three-phases field appear.” |
-| Phase transition | 610.9 K | 610.9 | critical point: fcc sol. \<-> fcc sol. + fcc' sol.; _fcc' sol.: Zn 0.358_ | model | [1] Mathon 2000 | Table 5, p. 16, row 12 |  |
-| Phase transition | 611.2 K | 611.2 | critical point: fcc sol. \<-> fcc sol. + fcc' sol.; _fcc' sol.: Zn 0.362_ | model | [1] Mathon 2000; _cites I W 1950_ | Table 5, p. 16, row 14 |  |
-| Phase transition | 622.3 K | 622.3 | critical point: fcc sol. \<-> fcc sol. + fcc' sol.; _fcc' sol.: Zn 0.344_ | model | [1] Mathon 2000; _cites ref. 8_ | Table 5, p. 16, row 16 |  |
-| Phase transition | 624.5 K | 624.5 | critical point: fcc sol. \<-> fcc sol. + fcc' sol.; _fcc' sol.: Zn 0.395_ | model | [1] Mathon 2000; _cites Murray 1996_ | Table 5, p. 16, row 11 |  |
-| Phase transition | 624.5 K | 624.5 | other: fcc=fcci+fccz | model | [2] Chen 1993 | p. 1 | “There exist three invariant equilibria in the AlZn system. They are the eutectic equilibrium, L=fcc+hcp. at 654K, the critical point for phase separation of the fee phase, fcc=fcci+fccz, at 624.5K, and the monotectoid equilibrium,” |
-| Phase transition | 625.7 K | 625.7 | critical point: fcc sol. \<-> fcc sol. + fcc' sol.; _fcc' sol.: Zn 0.35_ | model | [1] Mathon 2000; _cites ref. 7_ | Table 5, p. 16, row 15 |  |
-| Phase transition | 625.8 K | 625.8 | critical point: fcc sol. \<-> fcc sol. + fcc' sol.; _fcc' sol.: Zn 0.35_ | model | [1] Mathon 2000 | Table 5, p. 16, row 10 |  |
-| Phase transition | 626 K | 626 | other | experimental | [1] Mathon 2000 | p. 6 | “Between 650 K and 620 K, starting from the Al-Zn binary fee critical point at 626 K, the miscibility gap occurs.” |
-| Phase transition | 630.5 K | 630.5 | critical point: fcc sol. \<-> fcc sol. + fcc' sol.; _fcc' sol.: Zn 0.364_ | model | [1] Mathon 2000 | Table 5, p. 16, row 13 |  |
+| Phase transition | 552 K | 552 | other | experimental | [1] Mathon 2000 | p. 6; `ORC-XS3HLPCO2T` | “Below the Al-Zn monotectoid invariant at 552 K, (between 575 K and 550 K), the (hcp + fee) two-phases field and the (hcp + fee + fee') three-phases field appear.” |
+| Phase transition | 610.9 K | 610.9 | critical point: fcc sol. \<-> fcc sol. + fcc' sol.; _fcc' sol.: Zn 0.358_ | model | [1] Mathon 2000 | Table 5, p. 16, row 12; `ORC-FRANUISROE` |  |
+| Phase transition | 611.2 K | 611.2 | critical point: fcc sol. \<-> fcc sol. + fcc' sol.; _fcc' sol.: Zn 0.362_ | model | [1] Mathon 2000; _cites I W 1950_ | Table 5, p. 16, row 14; `ORC-RQ7ZZYV62D` |  |
+| Phase transition | 622.3 K | 622.3 | critical point: fcc sol. \<-> fcc sol. + fcc' sol.; _fcc' sol.: Zn 0.344_ | model | [1] Mathon 2000; _cites ref. 8_ | Table 5, p. 16, row 16; `ORC-QCQK436FKV` |  |
+| Phase transition | 624.5 K | 624.5 | critical point: fcc sol. \<-> fcc sol. + fcc' sol.; _fcc' sol.: Zn 0.395_ | model | [1] Mathon 2000; _cites Murray 1996_ | Table 5, p. 16, row 11; `ORC-46RBPUAIEO` |  |
+| Phase transition | 624.5 K | 624.5 | other: fcc=fcci+fccz | model | [2] Chen 1993 | p. 1; `ORC-4LD2QG6VPX.6d0c66` | “There exist three invariant equilibria in the AlZn system. They are the eutectic equilibrium, L=fcc+hcp. at 654K, the critical point for phase separation of the fee phase, fcc=fcci+fccz, at 624.5K, and the monotectoid equilibrium,” |
+| Phase transition | 625.7 K | 625.7 | critical point: fcc sol. \<-> fcc sol. + fcc' sol.; _fcc' sol.: Zn 0.35_ | model | [1] Mathon 2000; _cites ref. 7_ | Table 5, p. 16, row 15; `ORC-KKGLE7DBTG` |  |
+| Phase transition | 625.8 K | 625.8 | critical point: fcc sol. \<-> fcc sol. + fcc' sol.; _fcc' sol.: Zn 0.35_ | model | [1] Mathon 2000 | Table 5, p. 16, row 10; `ORC-3PNUMP6LY5` |  |
+| Phase transition | 626 K | 626 | other | experimental | [1] Mathon 2000 | p. 6; `ORC-IEYBD3VZLQ` | “Between 650 K and 620 K, starting from the Al-Zn binary fee critical point at 626 K, the miscibility gap occurs.” |
+| Phase transition | 630.5 K | 630.5 | critical point: fcc sol. \<-> fcc sol. + fcc' sol.; _fcc' sol.: Zn 0.364_ | model | [1] Mathon 2000 | Table 5, p. 16, row 13; `ORC-NUUQFG2B4S` |  |
 
 ## Sources
 
@@ -185,4 +185,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

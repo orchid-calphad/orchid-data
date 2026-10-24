@@ -28,14 +28,14 @@ Table: Invariant reactions reported in the literature for the Au–Ge–Sb syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 740 | peritectic: L + (Sb) -> AuSb2 | L: Sb 0.655 | model | [1] Wang 2009; _cites Liu 2003_ [doi](https://doi.org/10.1007/s11664-003-0240-x) | Table 1, p. 2, row 7 |  |
-| 703 | quasi-peritectic: L+(Sb) -> (Ge)+AuSb2 | L: Ge 0.14, Sb 0.51 | experimental | [1] Wang 2009; _cites Zwingmann 1964_ | Table 1, p. 2, row 9 |  |
-| 702 | quasi-peritectic: L+(Sb) -> (Ge)+AuSb2 | L: Ge 0.137, Sb 0.487 | model | [1] Wang 2009 | Table 1, p. 2, row 10 |  |
-| 631 | eutectic: L -> (Au) + (Ge) | L: Ge 0.294 | model | [1] Wang 2009; _cites Wang 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.03.114) | Table 1, p. 2, row 6 |  |
-| 626 | eutectic: L -> (Au) + AuSb2 | L: Sb 0.366 | model | [1] Wang 2009; _cites Liu 2003_ [doi](https://doi.org/10.1007/s11664-003-0240-x) | Table 1, p. 2, row 8 |  |
-| 561 | eutectic: Liquid ↔ fcc A1(Au) + diamond A4(Ge) + AuSb2 |  | experimental | [1] Wang 2009; _cites Zwingmann 1964_ | p. 2 | “Experimental results obtained by Zwingmann \[31\] further showed that the Au-Ge-Sb ternary system contains two invariant reactions: a transition reaction (U) at 703 K, Liquid + rhombohedral A7(Sb) ↔ diamond A4(Ge) + AuSb2 and a eutectic reaction (E) at 561 K, Liquid ↔ fcc A1(Au) + diamond A4(Ge) + AuSb2 .” |
-| 561 | eutectic: L -> (Au) + (Ge) + AuSb2 | L: Ge 0.15, Sb 0.17 | experimental | [1] Wang 2009; _cites Zwingmann 1964_ | Table 1, p. 2, row 11 |  |
-| 560 | eutectic: L -> (Au) + (Ge) + AuSb2 | L: Ge 0.166, Sb 0.195 | model | [1] Wang 2009 | Table 1, p. 2, row 12 |  |
+| 740 | peritectic: L + (Sb) -> AuSb2 | L: Sb 0.655 | model | [1] Wang 2009; _cites Liu 2003_ [doi](https://doi.org/10.1007/s11664-003-0240-x) | Table 1, p. 2, row 7; `ORC-4VHEAL224B` |  |
+| 703 | quasi-peritectic: L+(Sb) -> (Ge)+AuSb2 | L: Ge 0.14, Sb 0.51 | experimental | [1] Wang 2009; _cites Zwingmann 1964_ | Table 1, p. 2, row 9; `ORC-D3LY3RPLTM` |  |
+| 702 | quasi-peritectic: L+(Sb) -> (Ge)+AuSb2 | L: Ge 0.137, Sb 0.487 | model | [1] Wang 2009 | Table 1, p. 2, row 10; `ORC-YGHRO7AHBL` |  |
+| 631 | eutectic: L -> (Au) + (Ge) | L: Ge 0.294 | model | [1] Wang 2009; _cites Wang 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.03.114) | Table 1, p. 2, row 6; `ORC-HT3WTBOISM` |  |
+| 626 | eutectic: L -> (Au) + AuSb2 | L: Sb 0.366 | model | [1] Wang 2009; _cites Liu 2003_ [doi](https://doi.org/10.1007/s11664-003-0240-x) | Table 1, p. 2, row 8; `ORC-VOWCXPT5BF` |  |
+| 561 | eutectic: Liquid ↔ fcc A1(Au) + diamond A4(Ge) + AuSb2 |  | experimental | [1] Wang 2009; _cites Zwingmann 1964_ | p. 2; `ORC-77CT4O6XAY.0fafe7` | “Experimental results obtained by Zwingmann \[31\] further showed that the Au-Ge-Sb ternary system contains two invariant reactions: a transition reaction (U) at 703 K, Liquid + rhombohedral A7(Sb) ↔ diamond A4(Ge) + AuSb2 and a eutectic reaction (E) at 561 K, Liquid ↔ fcc A1(Au) + diamond A4(Ge) + AuSb2 .” |
+| 561 | eutectic: L -> (Au) + (Ge) + AuSb2 | L: Ge 0.15, Sb 0.17 | experimental | [1] Wang 2009; _cites Zwingmann 1964_ | Table 1, p. 2, row 11; `ORC-IBMLMLSIM6` |  |
+| 560 | eutectic: L -> (Au) + (Ge) + AuSb2 | L: Ge 0.166, Sb 0.195 | model | [1] Wang 2009 | Table 1, p. 2, row 12; `ORC-4SEXUQYPTI` |  |
 
 ## Other properties
 
@@ -45,7 +45,7 @@ Table: Phase transition, Au–Ge–Sb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 703 K | 703 | other: Liquid + rhombohedral A7(Sb) ↔ diamond A4(Ge) + AuSb2 | experimental | [1] Wang 2009; _cites Zwingmann 1964_ | p. 2 | “Experimental results obtained by Zwingmann \[31\] further showed that the Au-Ge-Sb ternary system contains two invariant reactions: a transition reaction (U) at 703 K, Liquid + rhombohedral A7(Sb) ↔ diamond A4(Ge) + AuSb2 and a eutectic reaction (E) at 561 K, Liquid ↔ fcc A1(Au) + diamond A4(Ge) + AuSb2 .” |
+| Phase transition | 703 K | 703 | other: Liquid + rhombohedral A7(Sb) ↔ diamond A4(Ge) + AuSb2 | experimental | [1] Wang 2009; _cites Zwingmann 1964_ | p. 2; `ORC-77CT4O6XAY.ed400d` | “Experimental results obtained by Zwingmann \[31\] further showed that the Au-Ge-Sb ternary system contains two invariant reactions: a transition reaction (U) at 703 K, Liquid + rhombohedral A7(Sb) ↔ diamond A4(Ge) + AuSb2 and a eutectic reaction (E) at 561 K, Liquid ↔ fcc A1(Au) + diamond A4(Ge) + AuSb2 .” |
 
 ## Sources
 
@@ -88,4 +88,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

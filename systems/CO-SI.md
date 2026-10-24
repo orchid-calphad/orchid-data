@@ -76,61 +76,61 @@ Table: Invariant reactions reported in the literature for the Co–Si system (55
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1738 | congruent melting: L -> CoSi | L: Si 0.5; CoSi: Si 0.5 | experimental | [1] Zhang 2006; _cites Kalishevich 1964_ | Table 5, p. 9, row 35 |  |
-| 1733 | congruent melting: L -> CoSi | L: Si 0.5; CoSi: Si 0.5 | experimental | [1] Zhang 2006; _cites Haschimoto 1937_ [doi](https://doi.org/10.2320/jinstmet1937.1.3_135) | Table 5, p. 9, row 34 |  |
-| 1730 | congruent melting: L -> CoSi | L: Si 0.5; CoSi: Si 0.5 | unspecified | [1] Zhang 2006 | Table 5, p. 9, row 36 |  |
-| 1605.15 | congruent melting: L -> βCo2Si | L: Si 0.333; βCo2Si: Si 0.333 | experimental | [1] Zhang 2006; _cites Haschimoto 1937_ [doi](https://doi.org/10.2320/jinstmet1937.1.3_135) | Table 5, p. 9, row 32 |  |
-| 1605.15 | congruent melting: L -> βCo2Si | L: Si 0.333; βCo2Si: Si 0.333 | experimental | [1] Zhang 2006; _cites Vogel 1934_ [doi](https://doi.org/10.1002/srin.193400094) | Table 5, p. 9, row 31 |  |
-| 1600 | congruent melting: L -> βCo2Si | L: Si 0.333; βCo2Si: Si 0.333 | unspecified | [1] Zhang 2006 | Table 5, p. 9, row 33 |  |
-| 1599 | congruent melting: L -> CoSi2 | L: Si 0.667; CoSi2: Si 0.667 | experimental | [1] Zhang 2006; _cites Haschimoto 1937_ [doi](https://doi.org/10.2320/jinstmet1937.1.3_135) | Table 5, p. 9, row 37 |  |
-| 1595 | congruent melting: L -> CoSi2 | L: Si 0.667; CoSi2: Si 0.667 | experimental | [1] Zhang 2006; _cites Kalishevich 1968_ | Table 5, p. 9, row 38 |  |
-| 1593 | peritectic: L + βCo2Si -> αCo2Si | L: Si 0.31; βCo2Si: Si 0.326; αCo2Si: Si 0.33 | experimental | [1] Zhang 2006; _cites Ishida 1991_ [doi](https://doi.org/10.1007/bf02645074) | Table 5, p. 9, row 15 |  |
-| 1593 | congruent melting: L -> CoSi2 | L: Si 0.667; CoSi2: Si 0.667 | unspecified | [1] Zhang 2006 | Table 5, p. 9, row 40 |  |
-| 1592 | peritectic: L + βCo2Si -> αCo2Si | L: Si 0.312; βCo2Si: Si 0.333; αCo2Si: Si 0.333 | unspecified | [1] Zhang 2006 | Table 5, p. 9, row 16 |  |
-| 1591 | congruent melting: L -> CoSi2 | L: Si 0.667; CoSi2: Si 0.667 | experimental | [1] Zhang 2006 | Table 5, p. 9, row 39 |  |
-| 1588.95 | L=CoSi+CoSi2 | L: Si 0.631; CoSi: Si 0.5; CoSi2: Si 0.667 | model | [2] Soon-Don 1992 | Table 3, p. 7, row 4 |  |
-| 1587 | eutectic: L -> CoSi + CoSi2 | L: Si 0.635; CoSi: Si 0.515; CoSi2: Si 0.667 | unspecified | [1] Zhang 2006 | Table 5, p. 9, row 27 |  |
-| 1584 | eutectic: L -> CoSi + CoSi2 | CoSi: Co 0.5, Si 0.5; CoSi2: Co 0.333333, Si 0.666667 | experimental | [1] Zhang 2006 | Table 5, p. 9, row 26 |  |
-| 1583.15 | L=CoSi+CoSi2 | L: Si 0.618; CoSi: Si 0.5; CoSi2: Si 0.667 | experimental | [2] Soon-Don 1992 | Table 3, p. 7, row 3 |  |
-| 1583.15 | eutectic: L -> CoSi + CoSi2 | L: Si 0.618; CoSi: Si 0.521; CoSi2: Si 0.667 | experimental | [1] Zhang 2006; _cites Haschimoto 1937_ [doi](https://doi.org/10.2320/jinstmet1937.1.3_135) | Table 5, p. 9, row 25 |  |
-| 1577 | eutectic: L -> βCo2Si + CoSi | L: Si 0.378; βCo2Si: Si 0.346; CoSi: Si 0.491 | unspecified | [1] Zhang 2006 | Table 5, p. 9, row 20 |  |
-| 1572 | eutectic: L -> βCo2Si + CoSi | βCo2Si: Co 0.666667, Si 0.333333; CoSi: Co 0.5, Si 0.5 | experimental | [1] Zhang 2006 | Table 5, p. 9, row 19 |  |
-| 1564.95 | L=Co2Si+CoSi | L: Si 0.382; Co2Si: Si 0.333; CoSi: Si 0.5 | model | [2] Soon-Don 1992 | Table 3, p. 7, row 6 |  |
-| 1559.15 | eutectic: L -> βCo2Si + CoSi | L: Si 0.397; βCo2Si: Si 0.358; CoSi: Si 0.491 | experimental | [1] Zhang 2006; _cites Haschimoto 1937_ [doi](https://doi.org/10.2320/jinstmet1937.1.3_135) | Table 5, p. 9, row 18 |  |
-| 1559.15 | L=Co2Si+CoSi | L: Si 0.397; Co2Si: Si 0.333; CoSi: Si 0.5 | experimental | [2] Soon-Don 1992 | Table 3, p. 7, row 5 |  |
-| 1543.15 | eutectic: L -> βCo2Si + CoSi | L: Si 0.396; βCo2Si: Si 0.36; CoSi: Si 0.5 | experimental | [1] Zhang 2006; _cites Vogel 1934_ [doi](https://doi.org/10.1002/srin.193400094) | Table 5, p. 9, row 17 |  |
-| 1533 | eutectic: L -> CoSi2 + (Si) | L: Si 0.779; CoSi2: Si 0.667; (Si): Si 1 | unspecified | [1] Zhang 2006 | Table 5, p. 9, row 30 |  |
-| 1533 | eutectic: L -> CoSi2 + (Si) | CoSi2: Co 0.333333, Si 0.666667 | experimental | [1] Zhang 2006 | Table 5, p. 9, row 29 |  |
-| 1532.15 | eutectic: L -> CoSi2 + (Si) | L: Si 0.775; CoSi2: Si 0.667; (Si): Si 0.979 | experimental | [1] Zhang 2006; _cites Haschimoto 1937_ [doi](https://doi.org/10.2320/jinstmet1937.1.3_135) | Table 5, p. 9, row 28 |  |
-| 1532.15 | L=CoSi2+Si | L: Si 0.775; CoSi2: Si 0.667; Si: Si 1 | experimental | [2] Soon-Don 1992 | Table 3, p. 7, row 1 |  |
-| 1530.85 | L=CoSi2+Si | L: Si 0.789; CoSi2: Si 0.667; Si: Si 1 | model | [2] Soon-Don 1992 | Table 3, p. 7, row 2 |  |
-| 1523.15 | peritectic |  | experimental | [1] Zhang 2006; _cites Koster 1973_ | p. 2 | “According to Köster et al. \[19\], (εCo) is stable up to the peritectic temperature of 1523.15 K and the maximum Si solubility in (εCo) is 18.4 at.% Si at the eutectic temperature (L ↔ Co2 Si+ (εCo)) of 1777.15 K.” |
-| 1523.15 | peritectic: L + (αCo) -> (εCo) | L: Si 0.214; (αCo): Si 0.165; (εCo): Si 0.175 | experimental | [1] Zhang 2006; _cites Koster 1973_ | Table 5, p. 9, row 1 |  |
-| 1523.15 | α-Co+L=ε-Co | α-Co: Si 0.165; L: Si 0.214; ε-Co: Si 0.175 | experimental | [2] Soon-Don 1992 | Table 3, p. 7, row 13 |  |
-| 1520.55 | α-Co+L=ε-Co | α-Co: Si 0.162; L: Si 0.22; ε-Co: Si 0.168 | model | [2] Soon-Don 1992 | Table 3, p. 7, row 14 |  |
-| 1517 | eutectoid: βCo2Si -> αCo2Si + CoSi | βCo2Si: Co 0.666667, Si 0.333333; αCo2Si: Co 0.666667, Si 0.333333; CoSi: Co 0.5, Si 0.5 | experimental | [1] Zhang 2006 | Table 5, p. 9, row 23 |  |
-| 1514 | peritectic: L + (αCo) -> (εCo) |  | experimental | [1] Zhang 2006 | Table 5, p. 9, row 2 |  |
-| 1511.15 | eutectoid: βCo2Si -> αCo2Si + CoSi | βCo2Si: Si 0.351; αCo2Si: Si 0.341; CoSi: Si 0.491 | experimental | [1] Zhang 2006; _cites Haschimoto 1937_ [doi](https://doi.org/10.2320/jinstmet1937.1.3_135) | Table 5, p. 9, row 22 |  |
-| 1511 | eutectoid: βCo2Si -> αCo2Si + CoSi | βCo2Si: Si 0.343; αCo2Si: Si 0.338; CoSi: Si 0.491 | unspecified | [1] Zhang 2006 | Table 5, p. 9, row 24 |  |
-| 1510 | peritectic: L + (αCo) -> (εCo) | L: Si 0.209; (αCo): Si 0.131; (εCo): Si 0.159 | unspecified | [1] Zhang 2006 | Table 5, p. 9, row 3 |  |
-| 1488 | peritectic: L + αCo2Si -> αCo3Si | L: Si 0.243; αCo2Si: Si 0.324; αCo3Si: Si 0.25 | unspecified | [1] Zhang 2006 | Table 5, p. 9, row 14 |  |
-| 1487.15 | L+Co2Si=Co3Si | L: Si 0.244; Co2Si: Si 0.333; Co3Si: Si 0.25 | experimental | [2] Soon-Don 1992 | Table 3, p. 7, row 7 |  |
-| 1487 | peritectic: L + αCo2Si -> αCo3Si | L: Si 0.244; αCo2Si: Co 0.666667, Si 0.333333; αCo3Si: Si 0.25 | experimental | [1] Zhang 2006; _cites Koster 1973_ | Table 5, p. 9, row 13 |  |
-| 1485.15 | peritectic: L + αCo2Si -> αCo3Si | L: Si 0.239; αCo2Si: Si 0.323; αCo3Si: Si 0.25 | experimental | [1] Zhang 2006; _cites Haschimoto 1937_ [doi](https://doi.org/10.2320/jinstmet1937.1.3_135) | Table 5, p. 9, row 11 |  |
-| 1483.15 | peritectic: L + αCo2Si -> αCo3Si | L: Si 0.248; αCo2Si: Si 0.333; αCo3Si: Si 0.25 | experimental | [1] Zhang 2006; _cites Vogel 1934_ [doi](https://doi.org/10.1002/srin.193400094) | Table 5, p. 9, row 10 |  |
-| 1483.15 | peritectic: L + αCo2Si -> αCo3Si | αCo2Si: Si 0.333; αCo3Si: Si 0.25 | experimental | [1] Zhang 2006; _cites Boomgaard 1972_ [doi](https://doi.org/10.1016/0001-6160%2872%2990001-6) | Table 5, p. 9, row 12 |  |
-| 1483.15 | L+Co2Si=Co3Si | L: Si 0.248; Co2Si: Si 0.333; Co3Si: Si 0.25 | model | [2] Soon-Don 1992 | Table 3, p. 7, row 8 |  |
-| 1481.35 | L=ε-Co+Co3Si | L: Si 0.242; ε-Co: Si 0.188; Co3Si: Si 0.25 | model | [2] Soon-Don 1992 | Table 3, p. 7, row 10 |  |
-| 1481.15 | eutectoid: βCo2Si -> αCo2Si + CoSi | βCo2Si: Si 0.357; αCo2Si: Si 0.34; CoSi: Si 0.5 | experimental | [1] Zhang 2006; _cites Vogel 1934_ [doi](https://doi.org/10.1002/srin.193400094) | Table 5, p. 9, row 21 |  |
-| 1478 | eutectic: L -> αCo3Si + (εCo) | αCo3Si: Co 0.75, Si 0.25 | experimental | [1] Zhang 2006 | Table 5, p. 9, row 5 |  |
-| 1477.15 | eutectic: L -> αCo3Si + (εCo) | L: Si 0.231; αCo3Si: Si 0.25; (εCo): Si 0.184 | experimental | [1] Zhang 2006; _cites Koster 1973_ | Table 5, p. 9, row 4 |  |
-| 1477.15 | L=ε-Co+Co3Si | L: Si 0.231; ε-Co: Si 0.184; Co3Si: Si 0.25 | experimental | [2] Soon-Don 1992 | Table 3, p. 7, row 9 |  |
-| 1475 | eutectic: L -> αCo3Si + (εCo) | L: Si 0.232; αCo3Si: Si 0.25; (εCo): Si 0.186 | unspecified | [1] Zhang 2006 | Table 5, p. 9, row 6 |  |
-| 1467 | eutectic: αCo3Si -> (εCo) + αCo2Si | αCo3Si: Si 0.25; (εCo): Si 0.189; αCo2Si: Si 0.322 | unspecified | [1] Zhang 2006 | Table 5, p. 9, row 9 |  |
-| 1466.15 | eutectic: αCo3Si -> (εCo) + αCo2Si | αCo3Si: Si 0.25; (εCo): Si 0.181; αCo2Si: Co 0.666667, Si 0.333333 | experimental | [1] Zhang 2006; _cites Koster 1973_ | Table 5, p. 9, row 7 |  |
-| 1466.15 | Co3Si=ε-Co+Co2Si | Co3Si: Si 0.25; ε-Co: Si 0.181; Co2Si: Si 0.333 | experimental | [2] Soon-Don 1992 | Table 3, p. 7, row 11 |  |
-| 1464 | eutectic: αCo3Si -> (εCo) + αCo2Si | αCo3Si: Co 0.75, Si 0.25; αCo2Si: Co 0.666667, Si 0.333333 | experimental | [1] Zhang 2006 | Table 5, p. 9, row 8 |  |
-| 1463.05 | Co3Si=ε-Co+Co2Si | Co3Si: Si 0.25; ε-Co: Si 0.188; Co2Si: Si 0.333 | model | [2] Soon-Don 1992 | Table 3, p. 7, row 12 |  |
+| 1738 | congruent melting: L -> CoSi | L: Si 0.5; CoSi: Si 0.5 | experimental | [1] Zhang 2006; _cites Kalishevich 1964_ | Table 5, p. 9, row 35; `ORC-HDNMJ2FA2Z` |  |
+| 1733 | congruent melting: L -> CoSi | L: Si 0.5; CoSi: Si 0.5 | experimental | [1] Zhang 2006; _cites Haschimoto 1937_ [doi](https://doi.org/10.2320/jinstmet1937.1.3_135) | Table 5, p. 9, row 34; `ORC-O5P3PHDWG2` |  |
+| 1730 | congruent melting: L -> CoSi | L: Si 0.5; CoSi: Si 0.5 | unspecified | [1] Zhang 2006 | Table 5, p. 9, row 36; `ORC-SOHMCORWQY` |  |
+| 1605.15 | congruent melting: L -> βCo2Si | L: Si 0.333; βCo2Si: Si 0.333 | experimental | [1] Zhang 2006; _cites Haschimoto 1937_ [doi](https://doi.org/10.2320/jinstmet1937.1.3_135) | Table 5, p. 9, row 32; `ORC-APGGPVEQXZ` |  |
+| 1605.15 | congruent melting: L -> βCo2Si | L: Si 0.333; βCo2Si: Si 0.333 | experimental | [1] Zhang 2006; _cites Vogel 1934_ [doi](https://doi.org/10.1002/srin.193400094) | Table 5, p. 9, row 31; `ORC-JH575NUFI7` |  |
+| 1600 | congruent melting: L -> βCo2Si | L: Si 0.333; βCo2Si: Si 0.333 | unspecified | [1] Zhang 2006 | Table 5, p. 9, row 33; `ORC-SYA3G4HYVS` |  |
+| 1599 | congruent melting: L -> CoSi2 | L: Si 0.667; CoSi2: Si 0.667 | experimental | [1] Zhang 2006; _cites Haschimoto 1937_ [doi](https://doi.org/10.2320/jinstmet1937.1.3_135) | Table 5, p. 9, row 37; `ORC-KYAXCAAM5U` |  |
+| 1595 | congruent melting: L -> CoSi2 | L: Si 0.667; CoSi2: Si 0.667 | experimental | [1] Zhang 2006; _cites Kalishevich 1968_ | Table 5, p. 9, row 38; `ORC-3VQT27XX6Z` |  |
+| 1593 | peritectic: L + βCo2Si -> αCo2Si | L: Si 0.31; βCo2Si: Si 0.326; αCo2Si: Si 0.33 | experimental | [1] Zhang 2006; _cites Ishida 1991_ [doi](https://doi.org/10.1007/bf02645074) | Table 5, p. 9, row 15; `ORC-GUWFEWFGSS` |  |
+| 1593 | congruent melting: L -> CoSi2 | L: Si 0.667; CoSi2: Si 0.667 | unspecified | [1] Zhang 2006 | Table 5, p. 9, row 40; `ORC-PJ5ME4WP4Q` |  |
+| 1592 | peritectic: L + βCo2Si -> αCo2Si | L: Si 0.312; βCo2Si: Si 0.333; αCo2Si: Si 0.333 | unspecified | [1] Zhang 2006 | Table 5, p. 9, row 16; `ORC-NDNVTS3D2L` |  |
+| 1591 | congruent melting: L -> CoSi2 | L: Si 0.667; CoSi2: Si 0.667 | experimental | [1] Zhang 2006 | Table 5, p. 9, row 39; `ORC-VD27YOPH3S` |  |
+| 1588.95 | L=CoSi+CoSi2 | L: Si 0.631; CoSi: Si 0.5; CoSi2: Si 0.667 | model | [2] Soon-Don 1992 | Table 3, p. 7, row 4; `ORC-EKDCI2XJQS` |  |
+| 1587 | eutectic: L -> CoSi + CoSi2 | L: Si 0.635; CoSi: Si 0.515; CoSi2: Si 0.667 | unspecified | [1] Zhang 2006 | Table 5, p. 9, row 27; `ORC-XF2SXZPNOQ` |  |
+| 1584 | eutectic: L -> CoSi + CoSi2 | CoSi: Co 0.5, Si 0.5; CoSi2: Co 0.333333, Si 0.666667 | experimental | [1] Zhang 2006 | Table 5, p. 9, row 26; `ORC-SMW6RCYKUO` |  |
+| 1583.15 | L=CoSi+CoSi2 | L: Si 0.618; CoSi: Si 0.5; CoSi2: Si 0.667 | experimental | [2] Soon-Don 1992 | Table 3, p. 7, row 3; `ORC-EECAT2Y6SC` |  |
+| 1583.15 | eutectic: L -> CoSi + CoSi2 | L: Si 0.618; CoSi: Si 0.521; CoSi2: Si 0.667 | experimental | [1] Zhang 2006; _cites Haschimoto 1937_ [doi](https://doi.org/10.2320/jinstmet1937.1.3_135) | Table 5, p. 9, row 25; `ORC-JI4IEEUZWH` |  |
+| 1577 | eutectic: L -> βCo2Si + CoSi | L: Si 0.378; βCo2Si: Si 0.346; CoSi: Si 0.491 | unspecified | [1] Zhang 2006 | Table 5, p. 9, row 20; `ORC-MABXLYIVAG` |  |
+| 1572 | eutectic: L -> βCo2Si + CoSi | βCo2Si: Co 0.666667, Si 0.333333; CoSi: Co 0.5, Si 0.5 | experimental | [1] Zhang 2006 | Table 5, p. 9, row 19; `ORC-R7RVLZSQJ3` |  |
+| 1564.95 | L=Co2Si+CoSi | L: Si 0.382; Co2Si: Si 0.333; CoSi: Si 0.5 | model | [2] Soon-Don 1992 | Table 3, p. 7, row 6; `ORC-TXQGRK4RTG` |  |
+| 1559.15 | eutectic: L -> βCo2Si + CoSi | L: Si 0.397; βCo2Si: Si 0.358; CoSi: Si 0.491 | experimental | [1] Zhang 2006; _cites Haschimoto 1937_ [doi](https://doi.org/10.2320/jinstmet1937.1.3_135) | Table 5, p. 9, row 18; `ORC-2FUMHM2IKV` |  |
+| 1559.15 | L=Co2Si+CoSi | L: Si 0.397; Co2Si: Si 0.333; CoSi: Si 0.5 | experimental | [2] Soon-Don 1992 | Table 3, p. 7, row 5; `ORC-WBRKB7ZNW3` |  |
+| 1543.15 | eutectic: L -> βCo2Si + CoSi | L: Si 0.396; βCo2Si: Si 0.36; CoSi: Si 0.5 | experimental | [1] Zhang 2006; _cites Vogel 1934_ [doi](https://doi.org/10.1002/srin.193400094) | Table 5, p. 9, row 17; `ORC-H5VU6NH6PG` |  |
+| 1533 | eutectic: L -> CoSi2 + (Si) | L: Si 0.779; CoSi2: Si 0.667; (Si): Si 1 | unspecified | [1] Zhang 2006 | Table 5, p. 9, row 30; `ORC-ES2QYE7SFB` |  |
+| 1533 | eutectic: L -> CoSi2 + (Si) | CoSi2: Co 0.333333, Si 0.666667 | experimental | [1] Zhang 2006 | Table 5, p. 9, row 29; `ORC-T3V637JQB7` |  |
+| 1532.15 | eutectic: L -> CoSi2 + (Si) | L: Si 0.775; CoSi2: Si 0.667; (Si): Si 0.979 | experimental | [1] Zhang 2006; _cites Haschimoto 1937_ [doi](https://doi.org/10.2320/jinstmet1937.1.3_135) | Table 5, p. 9, row 28; `ORC-2PQKQKB4BX` |  |
+| 1532.15 | L=CoSi2+Si | L: Si 0.775; CoSi2: Si 0.667; Si: Si 1 | experimental | [2] Soon-Don 1992 | Table 3, p. 7, row 1; `ORC-6DWHMR366U` |  |
+| 1530.85 | L=CoSi2+Si | L: Si 0.789; CoSi2: Si 0.667; Si: Si 1 | model | [2] Soon-Don 1992 | Table 3, p. 7, row 2; `ORC-SMHMB6CYDR` |  |
+| 1523.15 | peritectic |  | experimental | [1] Zhang 2006; _cites Koster 1973_ | p. 2; `ORC-5637522G5N.d4ce16` | “According to Köster et al. \[19\], (εCo) is stable up to the peritectic temperature of 1523.15 K and the maximum Si solubility in (εCo) is 18.4 at.% Si at the eutectic temperature (L ↔ Co2 Si+ (εCo)) of 1777.15 K.” |
+| 1523.15 | peritectic: L + (αCo) -> (εCo) | L: Si 0.214; (αCo): Si 0.165; (εCo): Si 0.175 | experimental | [1] Zhang 2006; _cites Koster 1973_ | Table 5, p. 9, row 1; `ORC-6CNGCWPCXD` |  |
+| 1523.15 | α-Co+L=ε-Co | α-Co: Si 0.165; L: Si 0.214; ε-Co: Si 0.175 | experimental | [2] Soon-Don 1992 | Table 3, p. 7, row 13; `ORC-LVZ4Q5SX2X` |  |
+| 1520.55 | α-Co+L=ε-Co | α-Co: Si 0.162; L: Si 0.22; ε-Co: Si 0.168 | model | [2] Soon-Don 1992 | Table 3, p. 7, row 14; `ORC-4IXWIIZOMK` |  |
+| 1517 | eutectoid: βCo2Si -> αCo2Si + CoSi | βCo2Si: Co 0.666667, Si 0.333333; αCo2Si: Co 0.666667, Si 0.333333; CoSi: Co 0.5, Si 0.5 | experimental | [1] Zhang 2006 | Table 5, p. 9, row 23; `ORC-NY6YYXELP4` |  |
+| 1514 | peritectic: L + (αCo) -> (εCo) |  | experimental | [1] Zhang 2006 | Table 5, p. 9, row 2; `ORC-R4JLQZRQPJ` |  |
+| 1511.15 | eutectoid: βCo2Si -> αCo2Si + CoSi | βCo2Si: Si 0.351; αCo2Si: Si 0.341; CoSi: Si 0.491 | experimental | [1] Zhang 2006; _cites Haschimoto 1937_ [doi](https://doi.org/10.2320/jinstmet1937.1.3_135) | Table 5, p. 9, row 22; `ORC-2SN65JQUYO` |  |
+| 1511 | eutectoid: βCo2Si -> αCo2Si + CoSi | βCo2Si: Si 0.343; αCo2Si: Si 0.338; CoSi: Si 0.491 | unspecified | [1] Zhang 2006 | Table 5, p. 9, row 24; `ORC-Y3Z4ZBY3W3` |  |
+| 1510 | peritectic: L + (αCo) -> (εCo) | L: Si 0.209; (αCo): Si 0.131; (εCo): Si 0.159 | unspecified | [1] Zhang 2006 | Table 5, p. 9, row 3; `ORC-4JPZ7KI2MW` |  |
+| 1488 | peritectic: L + αCo2Si -> αCo3Si | L: Si 0.243; αCo2Si: Si 0.324; αCo3Si: Si 0.25 | unspecified | [1] Zhang 2006 | Table 5, p. 9, row 14; `ORC-ANH6AO3VIE` |  |
+| 1487.15 | L+Co2Si=Co3Si | L: Si 0.244; Co2Si: Si 0.333; Co3Si: Si 0.25 | experimental | [2] Soon-Don 1992 | Table 3, p. 7, row 7; `ORC-26UH4G5SW7` |  |
+| 1487 | peritectic: L + αCo2Si -> αCo3Si | L: Si 0.244; αCo2Si: Co 0.666667, Si 0.333333; αCo3Si: Si 0.25 | experimental | [1] Zhang 2006; _cites Koster 1973_ | Table 5, p. 9, row 13; `ORC-JVCBOUAWLP` |  |
+| 1485.15 | peritectic: L + αCo2Si -> αCo3Si | L: Si 0.239; αCo2Si: Si 0.323; αCo3Si: Si 0.25 | experimental | [1] Zhang 2006; _cites Haschimoto 1937_ [doi](https://doi.org/10.2320/jinstmet1937.1.3_135) | Table 5, p. 9, row 11; `ORC-KCF72AOSWG` |  |
+| 1483.15 | peritectic: L + αCo2Si -> αCo3Si | L: Si 0.248; αCo2Si: Si 0.333; αCo3Si: Si 0.25 | experimental | [1] Zhang 2006; _cites Vogel 1934_ [doi](https://doi.org/10.1002/srin.193400094) | Table 5, p. 9, row 10; `ORC-S2ZUWOXDZU` |  |
+| 1483.15 | peritectic: L + αCo2Si -> αCo3Si | αCo2Si: Si 0.333; αCo3Si: Si 0.25 | experimental | [1] Zhang 2006; _cites Boomgaard 1972_ [doi](https://doi.org/10.1016/0001-6160%2872%2990001-6) | Table 5, p. 9, row 12; `ORC-VCIEXSDGJ3` |  |
+| 1483.15 | L+Co2Si=Co3Si | L: Si 0.248; Co2Si: Si 0.333; Co3Si: Si 0.25 | model | [2] Soon-Don 1992 | Table 3, p. 7, row 8; `ORC-W4NOJ3RZLS` |  |
+| 1481.35 | L=ε-Co+Co3Si | L: Si 0.242; ε-Co: Si 0.188; Co3Si: Si 0.25 | model | [2] Soon-Don 1992 | Table 3, p. 7, row 10; `ORC-YAYLHS7VEN` |  |
+| 1481.15 | eutectoid: βCo2Si -> αCo2Si + CoSi | βCo2Si: Si 0.357; αCo2Si: Si 0.34; CoSi: Si 0.5 | experimental | [1] Zhang 2006; _cites Vogel 1934_ [doi](https://doi.org/10.1002/srin.193400094) | Table 5, p. 9, row 21; `ORC-TQSIBGE6BY` |  |
+| 1478 | eutectic: L -> αCo3Si + (εCo) | αCo3Si: Co 0.75, Si 0.25 | experimental | [1] Zhang 2006 | Table 5, p. 9, row 5; `ORC-JV5TJKBGK5` |  |
+| 1477.15 | eutectic: L -> αCo3Si + (εCo) | L: Si 0.231; αCo3Si: Si 0.25; (εCo): Si 0.184 | experimental | [1] Zhang 2006; _cites Koster 1973_ | Table 5, p. 9, row 4; `ORC-J52BXVKOHI` |  |
+| 1477.15 | L=ε-Co+Co3Si | L: Si 0.231; ε-Co: Si 0.184; Co3Si: Si 0.25 | experimental | [2] Soon-Don 1992 | Table 3, p. 7, row 9; `ORC-WRXGLUWYOE` |  |
+| 1475 | eutectic: L -> αCo3Si + (εCo) | L: Si 0.232; αCo3Si: Si 0.25; (εCo): Si 0.186 | unspecified | [1] Zhang 2006 | Table 5, p. 9, row 6; `ORC-5ZUXV6UIQI` |  |
+| 1467 | eutectic: αCo3Si -> (εCo) + αCo2Si | αCo3Si: Si 0.25; (εCo): Si 0.189; αCo2Si: Si 0.322 | unspecified | [1] Zhang 2006 | Table 5, p. 9, row 9; `ORC-MCS3C6TXIE` |  |
+| 1466.15 | eutectic: αCo3Si -> (εCo) + αCo2Si | αCo3Si: Si 0.25; (εCo): Si 0.181; αCo2Si: Co 0.666667, Si 0.333333 | experimental | [1] Zhang 2006; _cites Koster 1973_ | Table 5, p. 9, row 7; `ORC-3A3VIRW6WX` |  |
+| 1466.15 | Co3Si=ε-Co+Co2Si | Co3Si: Si 0.25; ε-Co: Si 0.181; Co2Si: Si 0.333 | experimental | [2] Soon-Don 1992 | Table 3, p. 7, row 11; `ORC-MXIUQM5CTU` |  |
+| 1464 | eutectic: αCo3Si -> (εCo) + αCo2Si | αCo3Si: Co 0.75, Si 0.25; αCo2Si: Co 0.666667, Si 0.333333 | experimental | [1] Zhang 2006 | Table 5, p. 9, row 8; `ORC-75BNS2PV2X` |  |
+| 1463.05 | Co3Si=ε-Co+Co2Si | Co3Si: Si 0.25; ε-Co: Si 0.188; Co2Si: Si 0.333 | model | [2] Soon-Don 1992 | Table 3, p. 7, row 12; `ORC-TQJ7HRNR5O` |  |
 
 ## Other properties
 
@@ -140,34 +140,34 @@ Table: Phase transition, Co–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1373.15 K | 1373.15 | 1; _alloy: Co 0.88, Si 0.12_ | experimental | [1] Zhang 2006 | Table 2, p. 4, row 1 |  |
-| Phase transition | 1373.15 K | 1373.15 | 2; _alloy: Co 0.8, Si 0.2_ | experimental | [1] Zhang 2006 | Table 2, p. 4, row 2 |  |
-| Phase transition | 1373.15 K | 1373.15 | 3; _alloy: Co 0.704, Si 0.296_ | experimental | [1] Zhang 2006 | Table 2, p. 4, row 3 |  |
-| Phase transition | 1373.15 K | 1373.15 | 4; _alloy: Co 0.6, Si 0.4_ | experimental | [1] Zhang 2006 | Table 2, p. 4, row 4 |  |
-| Phase transition | 1373.15 K | 1373.15 | 5; _alloy: Co 0.4, Si 0.6_ | experimental | [1] Zhang 2006 | Table 2, p. 4, row 5 |  |
-| Phase transition | 1373.15 K | 1373.15 | 6; _alloy: Co 0.3333, Si 0.6667_ | experimental | [1] Zhang 2006 | Table 2, p. 4, row 6 |  |
-| Phase transition | 1373.15 K | 1373.15 | 7; _alloy: Co 0.28, Si 0.72_ | experimental | [1] Zhang 2006 | Table 2, p. 4, row 7 |  |
-| Phase transition | 1373.15 K | 1373.15 | 8; _alloy: Co 0.14, Si 0.86_ | experimental | [1] Zhang 2006 | Table 2, p. 4, row 8 |  |
-| Phase transition | 1459 K | 1459 | other: 2 DTA signal; _alloy: Co 0.8, Si 0.2_ | experimental | [1] Zhang 2006 | Table 2, p. 4, row 11 |  |
-| Phase transition | 1478 K | 1478 | other: 2 DTA signal; _alloy: Co 0.8, Si 0.2_ | experimental | [1] Zhang 2006 | Table 2, p. 4, row 12 |  |
-| Phase transition | 1514 K | 1514 | other: 2 DTA signal; _alloy: Co 0.8, Si 0.2_ | experimental | [1] Zhang 2006 | Table 2, p. 4, row 13 |  |
-| Phase transition | 1517 K | 1517 | other: 4 DTA signal; _alloy: Co 0.6, Si 0.4_ | experimental | [1] Zhang 2006 | Table 2, p. 4, row 15 |  |
-| Phase transition | 1530 K | 1530 | other: 8 DTA signal; _alloy: Co 0.14, Si 0.86_ | experimental | [1] Zhang 2006 | Table 2, p. 4, row 21 |  |
-| Phase transition | 1535 K | 1535 | other: 7 DTA signal; _alloy: Co 0.28, Si 0.72_ | experimental | [1] Zhang 2006 | Table 2, p. 4, row 19 |  |
-| Phase transition | 1570 K | 1570 | other: 7 DTA signal; _alloy: Co 0.28, Si 0.72_ | experimental | [1] Zhang 2006 | Table 2, p. 4, row 20 |  |
-| Phase transition | 1572 K | 1572 | other: 4 DTA signal; _alloy: Co 0.6, Si 0.4_ | experimental | [1] Zhang 2006 | Table 2, p. 4, row 16 |  |
-| Phase transition | 1584 K | 1584 | other: 2 DTA signal; _alloy: Co 0.8, Si 0.2_ | experimental | [1] Zhang 2006 | Table 2, p. 4, row 14 |  |
-| Phase transition | 1585 K | 1585 | other: 5 DTA signal; _alloy: Co 0.4, Si 0.6_ | experimental | [1] Zhang 2006 | Table 2, p. 4, row 17 |  |
-| Phase transition | 1597 K | 1597 | other: 1 DTA signal; _alloy: Co 0.88, Si 0.12_ | experimental | [1] Zhang 2006 | Table 2, p. 4, row 9 |  |
-| Phase transition | 1597.15 K | 1597.15 | L=CoSi2.; _CoSi2: Si 0.667_ | model | [2] Soon-Don 1992 | Table 3, p. 7, row 16 |  |
-| Phase transition | 1599.15 K | 1599.15 | L=CoSi2.; _CoSi2: Si 0.667_ | experimental | [2] Soon-Don 1992 | Table 3, p. 7, row 15 |  |
-| Phase transition | 1603.85 K | 1603.85 | L=Co2Si; _Co2Si: Si 0.333_ | model | [2] Soon-Don 1992 | Table 3, p. 7, row 20 |  |
-| Phase transition | 1607.15 K | 1607.15 | L=Co2Si; _Co2Si: Si 0.333_ | experimental | [2] Soon-Don 1992 | Table 3, p. 7, row 19 |  |
-| Phase transition | 1623 K | 1623 | other: 5 DTA signal; _alloy: Co 0.4, Si 0.6_ | experimental | [1] Zhang 2006 | Table 2, p. 4, row 18 |  |
-| Phase transition | 1670 K | 1670 | other: 1 DTA signal; _alloy: Co 0.88, Si 0.12_ | experimental | [1] Zhang 2006 | Table 2, p. 4, row 10 |  |
-| Phase transition | 1728.25 K | 1728.25 | L=CoSi; _CoSi: Si 0.5_ | model | [2] Soon-Don 1992 | Table 3, p. 7, row 18 |  |
-| Phase transition | 1733.15 K | 1733.15 | L=CoSi; _CoSi: Si 0.5_ | experimental | [2] Soon-Don 1992 | Table 3, p. 7, row 17 |  |
-| Phase transition | 1777.15 K | 1777.15 | L ↔ Co2 Si+ (εCo) | experimental | [1] Zhang 2006; _cites Koster 1973_ | p. 2 | “According to Köster et al. \[19\], (εCo) is stable up to the peritectic temperature of 1523.15 K and the maximum Si solubility in (εCo) is 18.4 at.% Si at the eutectic temperature (L ↔ Co2 Si+ (εCo)) of 1777.15 K.” |
+| Phase transition | 1373.15 K | 1373.15 | 1; _alloy: Co 0.88, Si 0.12_ | experimental | [1] Zhang 2006 | Table 2, p. 4, row 1; `ORC-4COD5NYEQ5` |  |
+| Phase transition | 1373.15 K | 1373.15 | 2; _alloy: Co 0.8, Si 0.2_ | experimental | [1] Zhang 2006 | Table 2, p. 4, row 2; `ORC-56SP7KCRUT` |  |
+| Phase transition | 1373.15 K | 1373.15 | 3; _alloy: Co 0.704, Si 0.296_ | experimental | [1] Zhang 2006 | Table 2, p. 4, row 3; `ORC-3LAT4BJ3N4` |  |
+| Phase transition | 1373.15 K | 1373.15 | 4; _alloy: Co 0.6, Si 0.4_ | experimental | [1] Zhang 2006 | Table 2, p. 4, row 4; `ORC-RSWSQWOC42` |  |
+| Phase transition | 1373.15 K | 1373.15 | 5; _alloy: Co 0.4, Si 0.6_ | experimental | [1] Zhang 2006 | Table 2, p. 4, row 5; `ORC-5GFJAG6ELB` |  |
+| Phase transition | 1373.15 K | 1373.15 | 6; _alloy: Co 0.3333, Si 0.6667_ | experimental | [1] Zhang 2006 | Table 2, p. 4, row 6; `ORC-JYDDINLMJO` |  |
+| Phase transition | 1373.15 K | 1373.15 | 7; _alloy: Co 0.28, Si 0.72_ | experimental | [1] Zhang 2006 | Table 2, p. 4, row 7; `ORC-64V2L2PRLE` |  |
+| Phase transition | 1373.15 K | 1373.15 | 8; _alloy: Co 0.14, Si 0.86_ | experimental | [1] Zhang 2006 | Table 2, p. 4, row 8; `ORC-OJ33HGOLCL` |  |
+| Phase transition | 1459 K | 1459 | other: 2 DTA signal; _alloy: Co 0.8, Si 0.2_ | experimental | [1] Zhang 2006 | Table 2, p. 4, row 11; `ORC-YCW4T4SSJ4` |  |
+| Phase transition | 1478 K | 1478 | other: 2 DTA signal; _alloy: Co 0.8, Si 0.2_ | experimental | [1] Zhang 2006 | Table 2, p. 4, row 12; `ORC-HAWOTZPVBC` |  |
+| Phase transition | 1514 K | 1514 | other: 2 DTA signal; _alloy: Co 0.8, Si 0.2_ | experimental | [1] Zhang 2006 | Table 2, p. 4, row 13; `ORC-CCSMOLMPTV` |  |
+| Phase transition | 1517 K | 1517 | other: 4 DTA signal; _alloy: Co 0.6, Si 0.4_ | experimental | [1] Zhang 2006 | Table 2, p. 4, row 15; `ORC-MFBZQHVZZP` |  |
+| Phase transition | 1530 K | 1530 | other: 8 DTA signal; _alloy: Co 0.14, Si 0.86_ | experimental | [1] Zhang 2006 | Table 2, p. 4, row 21; `ORC-WKHI6E4XRD` |  |
+| Phase transition | 1535 K | 1535 | other: 7 DTA signal; _alloy: Co 0.28, Si 0.72_ | experimental | [1] Zhang 2006 | Table 2, p. 4, row 19; `ORC-SXWH6WDC6C` |  |
+| Phase transition | 1570 K | 1570 | other: 7 DTA signal; _alloy: Co 0.28, Si 0.72_ | experimental | [1] Zhang 2006 | Table 2, p. 4, row 20; `ORC-2BGYOIQ4IB` |  |
+| Phase transition | 1572 K | 1572 | other: 4 DTA signal; _alloy: Co 0.6, Si 0.4_ | experimental | [1] Zhang 2006 | Table 2, p. 4, row 16; `ORC-WKT2Z2VQMT` |  |
+| Phase transition | 1584 K | 1584 | other: 2 DTA signal; _alloy: Co 0.8, Si 0.2_ | experimental | [1] Zhang 2006 | Table 2, p. 4, row 14; `ORC-QLRLT7AP2K` |  |
+| Phase transition | 1585 K | 1585 | other: 5 DTA signal; _alloy: Co 0.4, Si 0.6_ | experimental | [1] Zhang 2006 | Table 2, p. 4, row 17; `ORC-RNZCCXHRSQ` |  |
+| Phase transition | 1597 K | 1597 | other: 1 DTA signal; _alloy: Co 0.88, Si 0.12_ | experimental | [1] Zhang 2006 | Table 2, p. 4, row 9; `ORC-N5EVK45PPI` |  |
+| Phase transition | 1597.15 K | 1597.15 | L=CoSi2.; _CoSi2: Si 0.667_ | model | [2] Soon-Don 1992 | Table 3, p. 7, row 16; `ORC-VV7C6BP2KK` |  |
+| Phase transition | 1599.15 K | 1599.15 | L=CoSi2.; _CoSi2: Si 0.667_ | experimental | [2] Soon-Don 1992 | Table 3, p. 7, row 15; `ORC-JUVNJTAOKI` |  |
+| Phase transition | 1603.85 K | 1603.85 | L=Co2Si; _Co2Si: Si 0.333_ | model | [2] Soon-Don 1992 | Table 3, p. 7, row 20; `ORC-75CS3YBODK` |  |
+| Phase transition | 1607.15 K | 1607.15 | L=Co2Si; _Co2Si: Si 0.333_ | experimental | [2] Soon-Don 1992 | Table 3, p. 7, row 19; `ORC-QBCFXDRBLJ` |  |
+| Phase transition | 1623 K | 1623 | other: 5 DTA signal; _alloy: Co 0.4, Si 0.6_ | experimental | [1] Zhang 2006 | Table 2, p. 4, row 18; `ORC-OBSLHIVC5D` |  |
+| Phase transition | 1670 K | 1670 | other: 1 DTA signal; _alloy: Co 0.88, Si 0.12_ | experimental | [1] Zhang 2006 | Table 2, p. 4, row 10; `ORC-Y3N3MEIGZ5` |  |
+| Phase transition | 1728.25 K | 1728.25 | L=CoSi; _CoSi: Si 0.5_ | model | [2] Soon-Don 1992 | Table 3, p. 7, row 18; `ORC-2D4ZRDO5IM` |  |
+| Phase transition | 1733.15 K | 1733.15 | L=CoSi; _CoSi: Si 0.5_ | experimental | [2] Soon-Don 1992 | Table 3, p. 7, row 17; `ORC-3ZJT7NNECE` |  |
+| Phase transition | 1777.15 K | 1777.15 | L ↔ Co2 Si+ (εCo) | experimental | [1] Zhang 2006; _cites Koster 1973_ | p. 2; `ORC-5637522G5N.4483b7` | “According to Köster et al. \[19\], (εCo) is stable up to the peritectic temperature of 1523.15 K and the maximum Si solubility in (εCo) is 18.4 at.% Si at the eutectic temperature (L ↔ Co2 Si+ (εCo)) of 1777.15 K.” |
 
 ### Formation (5)
 
@@ -175,11 +175,11 @@ Table: Formation, Co–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy of formation; _printed: ΔSf(298K)_ | -0.32 unknown | 298.15 | Co2Si; _alloy: Si 0.333333_ | model | [2] Soon-Don 1992 | Table 4, p. 8, row 2 |  |
-| Entropy of formation; _printed: ΔSf(298K)_ | -1.2 unknown | 298.15 | Co2Si; _alloy: Si 0.333333_ | experimental | [2] Soon-Don 1992 | Table 4, p. 8, row 1 |  |
-| Entropy of formation; _printed: ΔSf(298K)_ | -2.4 unknown | 298.15 | CoSi; _alloy: Si 0.5_ | model | [2] Soon-Don 1992 | Table 4, p. 8, row 4 |  |
-| Entropy of formation; _printed: ΔSf(298K)_ | -3.1 unknown | 298.15 | CoSi; _alloy: Si 0.5_ | experimental | [2] Soon-Don 1992 | Table 4, p. 8, row 3 |  |
-| Entropy of formation; _printed: ΔSf(298K)_ | 0.63 unknown | 298.15 | CoSi2; _alloy: Si 0.666667_ | model | [2] Soon-Don 1992 | Table 4, p. 8, row 6 |  |
+| Entropy of formation; _printed: ΔSf(298K)_ | -0.32 unknown | 298.15 | Co2Si; _alloy: Si 0.333333_ | model | [2] Soon-Don 1992 | Table 4, p. 8, row 2; `ORC-UCIBVETEIN.98b5af` |  |
+| Entropy of formation; _printed: ΔSf(298K)_ | -1.2 unknown | 298.15 | Co2Si; _alloy: Si 0.333333_ | experimental | [2] Soon-Don 1992 | Table 4, p. 8, row 1; `ORC-YBTEL5XLNE.7532d7` |  |
+| Entropy of formation; _printed: ΔSf(298K)_ | -2.4 unknown | 298.15 | CoSi; _alloy: Si 0.5_ | model | [2] Soon-Don 1992 | Table 4, p. 8, row 4; `ORC-FR4BEMYRDG.16f883` |  |
+| Entropy of formation; _printed: ΔSf(298K)_ | -3.1 unknown | 298.15 | CoSi; _alloy: Si 0.5_ | experimental | [2] Soon-Don 1992 | Table 4, p. 8, row 3; `ORC-KKFS7ZNJRZ.e04513` |  |
+| Entropy of formation; _printed: ΔSf(298K)_ | 0.63 unknown | 298.15 | CoSi2; _alloy: Si 0.666667_ | model | [2] Soon-Don 1992 | Table 4, p. 8, row 6; `ORC-2YIVH6RDES.b6e0f6` |  |
 
 ### Other property (1)
 
@@ -187,7 +187,7 @@ Table: Other property, Co–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Other; _printed: βCo_ | 1.35 μB | 1396 |  | experimental | [1] Zhang 2006; _cites Fernandez 1987_ | p. 8 | “According to Guillermet \[48\], TCo 0 (1396 K) and βCo (1.35 μB) of (εCo) phase are equal to those Co,Si of (αCo) phase.” |
+| Other; _printed: βCo_ | 1.35 μB | 1396 |  | experimental | [1] Zhang 2006; _cites Fernandez 1987_ | p. 8; `ORC-PLYRJJX7O6` | “According to Guillermet \[48\], TCo 0 (1396 K) and βCo (1.35 μB) of (εCo) phase are equal to those Co,Si of (αCo) phase.” |
 
 ## Sources
 
@@ -253,4 +253,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

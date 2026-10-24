@@ -14,11 +14,11 @@ Table: Enthalpy of formation of CaGe reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -67.8 kJ/mol-atom ± 2.8 | CaGe | 1000 | experimental | emf | [Ca–Ge](https://data.orchid-project.org/systems/CA-GE.html) | [1] Djaballah 2010; _cites Mejbar 1993_ | Table 3, p. 5, row 12 |  |
-| -57.5 kJ/mol-atom ± 10 | CaGe | 1000 | experimental | Dissolution calorimetry | [Ca–Ge](https://data.orchid-project.org/systems/CA-GE.html) | [1] Djaballah 2010; _cites Mejbar 1993_ | Table 3, p. 5, row 13 |  |
-| -76.3627 kJ/mol-atom | CaGe | 1000 | model | Miedema model | [Ca–Ge](https://data.orchid-project.org/systems/CA-GE.html) | [1] Djaballah 2010; _cites F 1988_ | Table 3, p. 5, row 21 |  |
-| -63.9 kJ/mol-atom | CaGe | 1000 | model | Optimized | [Ca–Ge](https://data.orchid-project.org/systems/CA-GE.html) | [1] Djaballah 2010 | Table 3, p. 5, row 16 |  |
-| -64.3 kJ/mol-atom | CaGe | 1000 | DFT | ab initio calcul | [Ca–Ge](https://data.orchid-project.org/systems/CA-GE.html) | [1] Djaballah 2010; _cites Yang 2010_ [doi](https://doi.org/10.1016/j.jssc.2009.11.007) | Table 3, p. 5, row 14 |  |
+| -67.8 kJ/mol-atom ± 2.8 | CaGe | 1000 | experimental | emf | [Ca–Ge](https://data.orchid-project.org/systems/CA-GE.html) | [1] Djaballah 2010; _cites Mejbar 1993_ | Table 3, p. 5, row 12; `ORC-4AWU77RDY6.8a28e1` |  |
+| -57.5 kJ/mol-atom ± 10 | CaGe | 1000 | experimental | Dissolution calorimetry | [Ca–Ge](https://data.orchid-project.org/systems/CA-GE.html) | [1] Djaballah 2010; _cites Mejbar 1993_ | Table 3, p. 5, row 13; `ORC-JANYTACZLZ.6ff909` |  |
+| -76.3627 kJ/mol-atom | CaGe | 1000 | model | Miedema model | [Ca–Ge](https://data.orchid-project.org/systems/CA-GE.html) | [1] Djaballah 2010; _cites F 1988_ | Table 3, p. 5, row 21; `ORC-TJY24Q5HKH` |  |
+| -63.9 kJ/mol-atom | CaGe | 1000 | model | Optimized | [Ca–Ge](https://data.orchid-project.org/systems/CA-GE.html) | [1] Djaballah 2010 | Table 3, p. 5, row 16; `ORC-ZYIRYGIEJZ.58b0f8` |  |
+| -64.3 kJ/mol-atom | CaGe | 1000 | DFT | ab initio calcul | [Ca–Ge](https://data.orchid-project.org/systems/CA-GE.html) | [1] Djaballah 2010; _cites Yang 2010_ [doi](https://doi.org/10.1016/j.jssc.2009.11.007) | Table 3, p. 5, row 14; `ORC-K426BH4XRY.36722f` |  |
 
 ### Uncertainty budget
 
@@ -98,4 +98,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

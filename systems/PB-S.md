@@ -49,10 +49,10 @@ Table: Invariant reactions reported in the literature for the Pb–S system (4)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1076 | liq1 \<-> PbS + liq2 | liq1: S 0.73; PbS: Pb 0.5, S 0.5; liq2: S 0.982 | model | [1] Huang 2014 | Table IV, p. 5, row 2 |  |
-| 1073 | liq1 \<-> PbS + liq2 | liq1: S 0.707; PbS: Pb 0.5, S 0.5; liq2: S 0.989 | experimental | [1] Huang 2014; _cites Kullerud 1969_ [doi](https://doi.org/10.2475/001c.125221) | Table IV, p. 5, row 3 |  |
-| 600.6 | liq \<-> fcc + PbS | liq: S 7.900e-5; PbS: Pb 0.5, S 0.5 | model | [1] Huang 2014 | Table IV, p. 5, row 1 |  |
-| 388.4 | liq2 \<-> PbS + Mon_S | liq2: S 1; PbS: Pb 0.5, S 0.5 | model | [1] Huang 2014 | Table IV, p. 5, row 4 |  |
+| 1076 | liq1 \<-> PbS + liq2 | liq1: S 0.73; PbS: Pb 0.5, S 0.5; liq2: S 0.982 | model | [1] Huang 2014 | Table IV, p. 5, row 2; `ORC-V37UVSBWEW` |  |
+| 1073 | liq1 \<-> PbS + liq2 | liq1: S 0.707; PbS: Pb 0.5, S 0.5; liq2: S 0.989 | experimental | [1] Huang 2014; _cites Kullerud 1969_ [doi](https://doi.org/10.2475/001c.125221) | Table IV, p. 5, row 3; `ORC-4SFEAYDMRB` |  |
+| 600.6 | liq \<-> fcc + PbS | liq: S 7.900e-5; PbS: Pb 0.5, S 0.5 | model | [1] Huang 2014 | Table IV, p. 5, row 1; `ORC-45ATCHY23O` |  |
+| 388.4 | liq2 \<-> PbS + Mon_S | liq2: S 1; PbS: Pb 0.5, S 0.5 | model | [1] Huang 2014 | Table IV, p. 5, row 4; `ORC-G65W7PSROT` |  |
 
 ## Other properties
 
@@ -62,14 +62,14 @@ Table: Phase transition, Pb–S system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1300 K | 1300 | congruent transformation | experimental | [1] Huang 2014; _cites Bloem 1956_ [doi](https://doi.org/10.1524/zpch.1956.7.1_2.001) | Table II, p. 5, row 7 |  |
-| Phase transition | 1374 K | 1374 | congruent transformation | model | [1] Huang 2014 | Table II, p. 5, row 1 |  |
-| Phase transition | 1376 K | 1376 | congruent transformation | model | [1] Huang 2014; _cites Friedrivh 1905_ | Table II, p. 5, row 2 |  |
-| Phase transition | 1379 K | 1379 | congruent transformation | experimental | [1] Huang 2014; _cites Heike 1912_ | Table II, p. 5, row 6 |  |
-| Phase transition | 1386 K | 1386 | congruent transformation | experimental | [1] Huang 2014; _cites Miller 1966_ | Table II, p. 5, row 3 |  |
-| Phase transition | 1387 K | 1387 | congruent transformation | experimental | [1] Huang 2014; _cites Friedrich 1907_ | Table II, p. 5, row 5 |  |
-| Phase transition | 1388 K | 1388 | congruent transformation | experimental | [1] Huang 2014; _cites Kullerud 1969_ [doi](https://doi.org/10.2475/001c.125221) | Table II, p. 5, row 4 |  |
-| Phase transition | 1392 K | 1392 | congruent transformation | unspecified | [1] Huang 2014; _cites Shamsuddin 1981_ | Table II, p. 5, row 8 |  |
+| Phase transition | 1300 K | 1300 | congruent transformation | experimental | [1] Huang 2014; _cites Bloem 1956_ [doi](https://doi.org/10.1524/zpch.1956.7.1_2.001) | Table II, p. 5, row 7; `ORC-NLZJTB6NGT` |  |
+| Phase transition | 1374 K | 1374 | congruent transformation | model | [1] Huang 2014 | Table II, p. 5, row 1; `ORC-MWO3IM35O4` |  |
+| Phase transition | 1376 K | 1376 | congruent transformation | model | [1] Huang 2014; _cites Friedrivh 1905_ | Table II, p. 5, row 2; `ORC-SLCFWGON3I` |  |
+| Phase transition | 1379 K | 1379 | congruent transformation | experimental | [1] Huang 2014; _cites Heike 1912_ | Table II, p. 5, row 6; `ORC-46GSLNI6AM` |  |
+| Phase transition | 1386 K | 1386 | congruent transformation | experimental | [1] Huang 2014; _cites Miller 1966_ | Table II, p. 5, row 3; `ORC-IMBDYMQMKS` |  |
+| Phase transition | 1387 K | 1387 | congruent transformation | experimental | [1] Huang 2014; _cites Friedrich 1907_ | Table II, p. 5, row 5; `ORC-FSJRNQ7PV7` |  |
+| Phase transition | 1388 K | 1388 | congruent transformation | experimental | [1] Huang 2014; _cites Kullerud 1969_ [doi](https://doi.org/10.2475/001c.125221) | Table II, p. 5, row 4; `ORC-YFN7RZ6HJW` |  |
+| Phase transition | 1392 K | 1392 | congruent transformation | unspecified | [1] Huang 2014; _cites Shamsuddin 1981_ | Table II, p. 5, row 8; `ORC-OSC5W34LWJ` |  |
 
 ## Sources
 
@@ -134,4 +134,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

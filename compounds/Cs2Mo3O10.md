@@ -14,11 +14,11 @@ Table: Enthalpy of formation of Cs2Mo3O10 reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -205.145 kJ/mol-atom ± 0.231333 | Cs2Mo3O10 | 298.15 | experimental |  | [Cs–Mo–O](https://data.orchid-project.org/systems/CS-MO-O.html) | [1] Smith 2021; _cites Benigni 2020_ [doi](https://doi.org/10.1021/acs.jced.0c00210) | Table 2, p. 4, row 7 |  |
-| -205.145 kJ/mol-atom ± 1.49 | Cs2Mo3O10 | 298.15 | experimental | solution calorimetry | [Cs–Mo–O](https://data.orchid-project.org/systems/CS-MO-O.html) | [1] Smith 2021; _cites Benigni 2020_ [doi](https://doi.org/10.1021/acs.jced.0c00210) | Table 3, p. 4, row 9 |  |
-| -205.04 kJ/mol-atom ± 0.433333 | Cs2Mo3O10 | 298.15 | experimental |  | [Cs–Mo–O](https://data.orchid-project.org/systems/CS-MO-O.html) | [1] Smith 2021; _cites Smith 2021_ [doi](https://doi.org/10.1016/j.tca.2020.178825) | Table 2, p. 4, row 8 |  |
-| -205.04 kJ/mol-atom ± 1.54 | Cs2Mo3O10 | 298.15 | experimental | solution calorimetry | [Cs–Mo–O](https://data.orchid-project.org/systems/CS-MO-O.html) | [1] Smith 2021; _cites Smith 2021_ [doi](https://doi.org/10.1016/j.tca.2020.178825) | Table 3, p. 4, row 10 |  |
-| -204 kJ/mol-atom | Cs2Mo3O10 | 298.15 | model |  | [Cs–Mo–O](https://data.orchid-project.org/systems/CS-MO-O.html) | [1] Smith 2021 | Table 8, p. 7, row 5 |  |
+| -205.145 kJ/mol-atom ± 0.231333 | Cs2Mo3O10 | 298.15 | experimental |  | [Cs–Mo–O](https://data.orchid-project.org/systems/CS-MO-O.html) | [1] Smith 2021; _cites Benigni 2020_ [doi](https://doi.org/10.1021/acs.jced.0c00210) | Table 2, p. 4, row 7; `ORC-FCUMTYYQOQ` |  |
+| -205.145 kJ/mol-atom ± 1.49 | Cs2Mo3O10 | 298.15 | experimental | solution calorimetry | [Cs–Mo–O](https://data.orchid-project.org/systems/CS-MO-O.html) | [1] Smith 2021; _cites Benigni 2020_ [doi](https://doi.org/10.1021/acs.jced.0c00210) | Table 3, p. 4, row 9; `ORC-QUO36F2QIZ` |  |
+| -205.04 kJ/mol-atom ± 0.433333 | Cs2Mo3O10 | 298.15 | experimental |  | [Cs–Mo–O](https://data.orchid-project.org/systems/CS-MO-O.html) | [1] Smith 2021; _cites Smith 2021_ [doi](https://doi.org/10.1016/j.tca.2020.178825) | Table 2, p. 4, row 8; `ORC-4JYFKDEKYZ` |  |
+| -205.04 kJ/mol-atom ± 1.54 | Cs2Mo3O10 | 298.15 | experimental | solution calorimetry | [Cs–Mo–O](https://data.orchid-project.org/systems/CS-MO-O.html) | [1] Smith 2021; _cites Smith 2021_ [doi](https://doi.org/10.1016/j.tca.2020.178825) | Table 3, p. 4, row 10; `ORC-KLKDOJY7RQ` |  |
+| -204 kJ/mol-atom | Cs2Mo3O10 | 298.15 | model |  | [Cs–Mo–O](https://data.orchid-project.org/systems/CS-MO-O.html) | [1] Smith 2021 | Table 8, p. 7, row 5; `ORC-GIHY2VBLH3.d1afbc` |  |
 
 ### Uncertainty budget
 
@@ -85,4 +85,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -14,14 +14,14 @@ Table: Enthalpy of formation of Pd3Yb reported in the literature (8)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -68 kJ/mol-atom ± 2 | Pd3Yb | 1029.5 | experimental | KEML/KEMS\* | [Pd–Yb](https://data.orchid-project.org/systems/PD-YB.html) | [1] Kardellass 2020; _cites Ciccioli 2016_ [doi](https://doi.org/10.1016/j.tca.2016.01.004) | Table 3, p. 5, row 10 |  |
-| -64.7552 kJ/mol-atom | Pd3Yb | 298.15 | model | Prediction | [Pd–Yb](https://data.orchid-project.org/systems/PD-YB.html) | [1] Kardellass 2020; _cites De 2014_ | Table 3, p. 5, row 9 |  |
-| -60.7175 kJ/mol-atom | Pd3Yb | 298.15 | model | Optimization R-K | [Pd–Yb](https://data.orchid-project.org/systems/PD-YB.html) | [1] Kardellass 2020 | Table 3, p. 5, row 7 |  |
-| -60.1448 kJ/mol-atom | Pd3Yb | 298.15 | model | Optimization K | [Pd–Yb](https://data.orchid-project.org/systems/PD-YB.html) | [1] Kardellass 2020 | Table 3, p. 5, row 8 |  |
-| -40.1795 kJ/mol-atom | Pd3Yb | 298.15 | model | Optimization R-K | [Pd–Yb](https://data.orchid-project.org/systems/PD-YB.html) | [1] Kardellass 2020 | Table 3, p. 5, row 77 |  |
-| -32.2396 kJ/mol-atom | Pd3Yb | 298.15 | model | Optimization K | [Pd–Yb](https://data.orchid-project.org/systems/PD-YB.html) | [1] Kardellass 2020 | Table 3, p. 5, row 78 |  |
-| -32.0719 kJ/mol-atom | Pd3Yb | 298.15 | model | Prediction | [Pd–Yb](https://data.orchid-project.org/systems/PD-YB.html) | [1] Kardellass 2020; _cites De 2014_ | Table 3, p. 5, row 79 |  |
-| -21.084 kJ/mol-atom | Pd3Yb | 298.15 | DFT | Ab-initio | [Pd–Yb](https://data.orchid-project.org/systems/PD-YB.html) | [1] Kardellass 2020 | Table 3, p. 5, row 11 |  |
+| -68 kJ/mol-atom ± 2 | Pd3Yb | 1029.5 | experimental | KEML/KEMS\* | [Pd–Yb](https://data.orchid-project.org/systems/PD-YB.html) | [1] Kardellass 2020; _cites Ciccioli 2016_ [doi](https://doi.org/10.1016/j.tca.2016.01.004) | Table 3, p. 5, row 10; `ORC-BARVFEDL42.6186e7` |  |
+| -64.7552 kJ/mol-atom | Pd3Yb | 298.15 | model | Prediction | [Pd–Yb](https://data.orchid-project.org/systems/PD-YB.html) | [1] Kardellass 2020; _cites De 2014_ | Table 3, p. 5, row 9; `ORC-LFLEEVY5Q6.4d0a4e` |  |
+| -60.7175 kJ/mol-atom | Pd3Yb | 298.15 | model | Optimization R-K | [Pd–Yb](https://data.orchid-project.org/systems/PD-YB.html) | [1] Kardellass 2020 | Table 3, p. 5, row 7; `ORC-BOY2KQE4QP.0bae3d` |  |
+| -60.1448 kJ/mol-atom | Pd3Yb | 298.15 | model | Optimization K | [Pd–Yb](https://data.orchid-project.org/systems/PD-YB.html) | [1] Kardellass 2020 | Table 3, p. 5, row 8; `ORC-4XXI3SDSA5.24e0af` |  |
+| -40.1795 kJ/mol-atom | Pd3Yb | 298.15 | model | Optimization R-K | [Pd–Yb](https://data.orchid-project.org/systems/PD-YB.html) | [1] Kardellass 2020 | Table 3, p. 5, row 77; `ORC-HXHHIQG2M4.e01145` |  |
+| -32.2396 kJ/mol-atom | Pd3Yb | 298.15 | model | Optimization K | [Pd–Yb](https://data.orchid-project.org/systems/PD-YB.html) | [1] Kardellass 2020 | Table 3, p. 5, row 78; `ORC-TZO2IWWFDR.0ae8eb` |  |
+| -32.0719 kJ/mol-atom | Pd3Yb | 298.15 | model | Prediction | [Pd–Yb](https://data.orchid-project.org/systems/PD-YB.html) | [1] Kardellass 2020; _cites De 2014_ | Table 3, p. 5, row 79; `ORC-RUEGK35VMF.08632b` |  |
+| -21.084 kJ/mol-atom | Pd3Yb | 298.15 | DFT | Ab-initio | [Pd–Yb](https://data.orchid-project.org/systems/PD-YB.html) | [1] Kardellass 2020 | Table 3, p. 5, row 11; `ORC-ASAUELS4RF.401120` |  |
 
 ### Uncertainty budget
 
@@ -103,4 +103,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

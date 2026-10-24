@@ -14,12 +14,12 @@ Table: Enthalpy of formation of MnH reported in the literature (6)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| 1.6 kJ/mol-atom | MnH |  | DFT | DFT | [H–Mn](https://data.orchid-project.org/systems/H-MN.html) | [1] Liang 2018; _cites https://www 2018_ | Table 2, p. 3, row 3 |  |
-| 2.33 kJ/mol-atom | MnH |  | DFT | DFT | [H–Mn](https://data.orchid-project.org/systems/H-MN.html) | [1] Liang 2018; _cites http://oqmd 2018_ | Table 2, p. 3, row 1 |  |
-| 5.58 kJ/mol-atom | MnH |  | DFT | DFT | [H–Mn](https://data.orchid-project.org/systems/H-MN.html) | [1] Liang 2018; _cites http://oqmd 2018_ | Table 2, p. 3, row 2 |  |
-| 16.1131 kJ/mol-atom | MnH |  | DFT | DFT | [H–Mn](https://data.orchid-project.org/systems/H-MN.html) | [1] Liang 2018; _cites https://www 2018_ | Table 2, p. 3, row 3 |  |
-| 23.3495 kJ/mol-atom | MnH |  | DFT | DFT | [H–Mn](https://data.orchid-project.org/systems/H-MN.html) | [1] Liang 2018; _cites http://oqmd 2018_ | Table 2, p. 3, row 1 |  |
-| 55.865 kJ/mol-atom | MnH |  | DFT | DFT | [H–Mn](https://data.orchid-project.org/systems/H-MN.html) | [1] Liang 2018; _cites http://oqmd 2018_ | Table 2, p. 3, row 2 |  |
+| 1.6 kJ/mol-atom | MnH |  | DFT | DFT | [H–Mn](https://data.orchid-project.org/systems/H-MN.html) | [1] Liang 2018; _cites https://www 2018_ | Table 2, p. 3, row 3; `ORC-RQ5XFUJIIE.f5b655` |  |
+| 2.33 kJ/mol-atom | MnH |  | DFT | DFT | [H–Mn](https://data.orchid-project.org/systems/H-MN.html) | [1] Liang 2018; _cites http://oqmd 2018_ | Table 2, p. 3, row 1; `ORC-H54PLG365N.251b66` |  |
+| 5.58 kJ/mol-atom | MnH |  | DFT | DFT | [H–Mn](https://data.orchid-project.org/systems/H-MN.html) | [1] Liang 2018; _cites http://oqmd 2018_ | Table 2, p. 3, row 2; `ORC-DHVE6SQ3GC.38c9dc` |  |
+| 16.1131 kJ/mol-atom | MnH |  | DFT | DFT | [H–Mn](https://data.orchid-project.org/systems/H-MN.html) | [1] Liang 2018; _cites https://www 2018_ | Table 2, p. 3, row 3; `ORC-RQ5XFUJIIE.70ff32` |  |
+| 23.3495 kJ/mol-atom | MnH |  | DFT | DFT | [H–Mn](https://data.orchid-project.org/systems/H-MN.html) | [1] Liang 2018; _cites http://oqmd 2018_ | Table 2, p. 3, row 1; `ORC-H54PLG365N.daf370` |  |
+| 55.865 kJ/mol-atom | MnH |  | DFT | DFT | [H–Mn](https://data.orchid-project.org/systems/H-MN.html) | [1] Liang 2018; _cites http://oqmd 2018_ | Table 2, p. 3, row 2; `ORC-DHVE6SQ3GC.9426db` |  |
 
 ### Uncertainty budget
 
@@ -87,4 +87,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -50,10 +50,10 @@ Table: Invariant reactions reported in the literature for the Fe–Mg system (4)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1791.4 | monotectic: Liquid' -> bcc-A2 + Liquid" | Liquid': Mg 0.018; bcc-A2: Mg 0.008; Liquid": Mg 0.987 | model | [1] Hämäläinen 1998 | Table I, p. 212, row 1 |  |
-| 1661.6 | other: Liquid" + bcc-A2 -> fcc-A1 | Liquid": Mg 0.992; bcc-A2: Mg 0.005; fcc-A1: Mg 0.005 | model | [1] Hämäläinen 1998 | Table I, p. 212, row 2 |  |
-| 1183.4 | other: Liquid" + bcc-A2 -> fcc-A1 | Liquid": Mg 0.999; bcc-A2: Mg 0.001; fcc-A1: Mg 0.001 | model | [1] Hämäläinen 1998 | Table I, p. 212, row 3 |  |
-| 922.9 | other: Liquid" +bcc-A2 -> hcp-A3 | Liquid": Mg 1; bcc-A2: Mg 0; hcp-A3: Mg 1 | model | [1] Hämäläinen 1998 | Table I, p. 212, row 4 |  |
+| 1791.4 | monotectic: Liquid' -> bcc-A2 + Liquid" | Liquid': Mg 0.018; bcc-A2: Mg 0.008; Liquid": Mg 0.987 | model | [1] Hämäläinen 1998 | Table I, p. 212, row 1; `ORC-52P5DK6O3T` |  |
+| 1661.6 | other: Liquid" + bcc-A2 -> fcc-A1 | Liquid": Mg 0.992; bcc-A2: Mg 0.005; fcc-A1: Mg 0.005 | model | [1] Hämäläinen 1998 | Table I, p. 212, row 2; `ORC-EGOFOXIDUR` |  |
+| 1183.4 | other: Liquid" + bcc-A2 -> fcc-A1 | Liquid": Mg 0.999; bcc-A2: Mg 0.001; fcc-A1: Mg 0.001 | model | [1] Hämäläinen 1998 | Table I, p. 212, row 3; `ORC-754AJQSESZ` |  |
+| 922.9 | other: Liquid" +bcc-A2 -> hcp-A3 | Liquid": Mg 1; bcc-A2: Mg 0; hcp-A3: Mg 1 | model | [1] Hämäläinen 1998 | Table I, p. 212, row 4; `ORC-PRMKGLNXKL` |  |
 
 ## Other properties
 
@@ -63,8 +63,8 @@ Table: Phase transition, Fe–Mg system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 650 K | 650 | magnetic | experimental | [2] Dilner 2016; _cites Reznitskii 1969_ | p. 3 | “The magnetic transition of MgFe2O4 is observed at around 650 K according to Reznitskii et al.\[34\]” |
-| Phase transition | 690 K | 690 | magnetic | experimental | [2] Dilner 2016 | p. 3 | “The magnetic transition temperature was fixed to the experimental value 690 K, and the Bohr magneton number was used as an optimizing parameter to fit the shape of the lambda transition.” |
+| Phase transition | 650 K | 650 | magnetic | experimental | [2] Dilner 2016; _cites Reznitskii 1969_ | p. 3; `ORC-4EGPRG2J2H` | “The magnetic transition of MgFe2O4 is observed at around 650 K according to Reznitskii et al.\[34\]” |
+| Phase transition | 690 K | 690 | magnetic | experimental | [2] Dilner 2016 | p. 3; `ORC-CCYHYUD746` | “The magnetic transition temperature was fixed to the experimental value 690 K, and the Bohr magneton number was used as an optimizing parameter to fit the shape of the lambda transition.” |
 
 ## Sources
 
@@ -130,4 +130,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

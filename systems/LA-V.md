@@ -50,19 +50,19 @@ Table: Invariant reactions reported in the literature for the La–V system (13)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2176.15 | L2 -> L1 + V | L2: V 0.9956; L1: V 0.0575; V: V 0.9997 | unspecified | [1] Chan 2010; _cites Massalski 1990_ | Table 3, p. 5, row 3 |  |
-| 2172.15 | L2 -> L1 + V | L2: V 0.9935; L1: V 0.0573; V: V 0.9996 | model | [1] Chan 2010 | Table 3, p. 5, row 4 |  |
-| 1953.15 | L2 -> L1 + V |  | experimental | [1] Chan 2010; _cites Gschneidner 1961_ | Table 3, p. 5, row 1 |  |
-| 1953.15 | L2 -> L1 + V | L2: V 0.05 | unspecified | [1] Chan 2010; _cites Efimov 2010_ | Table 3, p. 5, row 2 |  |
-| 1203.15 | L + V -> γLa |  | experimental | [1] Chan 2010; _cites Gschneidner 1961_ | Table 3, p. 5, row 5 |  |
-| 1193.75 | L + V -> γLa | L: V 0.0017; V: V 1; γLa: V 0.0021 | model | [1] Chan 2010 | Table 3, p. 5, row 8 |  |
-| 1193.15 | L + V -> γLa | L: V 0.0017; V: V 0.999999; γLa: V 0.0022 | unspecified | [1] Chan 2010; _cites Massalski 1990_ | Table 3, p. 5, row 7 |  |
-| 1168.15 | γLa -> V + βLa |  | experimental | [1] Chan 2010; _cites Gschneidner 1961_ | Table 3, p. 5, row 9 |  |
-| 1163.15 | L + V -> γLa |  | unspecified | [1] Chan 2010; _cites Efimov 2010_ | Table 3, p. 5, row 6 |  |
-| 1138.15 | γLa -> V + βLa | V: V 1 | unspecified | [1] Chan 2010; _cites Massalski 1990_ | Table 3, p. 5, row 11 |  |
-| 1137.65 | γLa -> V + βLa | γLa: V 0.0015; V: V 1; βLa: V 9.950e-4 | model | [1] Chan 2010 | Table 3, p. 5, row 12 |  |
-| 973.15 | γLa -> V + βLa |  | unspecified | [1] Chan 2010; _cites Efimov 2010_ | Table 3, p. 5, row 10 |  |
-| 549.95 | βLa -> V + αLa | βLa: V 0; V: V 1; αLa: V 0 | model | [1] Chan 2010 | Table 3, p. 5, row 16 |  |
+| 2176.15 | L2 -> L1 + V | L2: V 0.9956; L1: V 0.0575; V: V 0.9997 | unspecified | [1] Chan 2010; _cites Massalski 1990_ | Table 3, p. 5, row 3; `ORC-5QNNQLX3IR` |  |
+| 2172.15 | L2 -> L1 + V | L2: V 0.9935; L1: V 0.0573; V: V 0.9996 | model | [1] Chan 2010 | Table 3, p. 5, row 4; `ORC-EH5DCB66LZ` |  |
+| 1953.15 | L2 -> L1 + V |  | experimental | [1] Chan 2010; _cites Gschneidner 1961_ | Table 3, p. 5, row 1; `ORC-FGIBOMXDVT` |  |
+| 1953.15 | L2 -> L1 + V | L2: V 0.05 | unspecified | [1] Chan 2010; _cites Efimov 2010_ | Table 3, p. 5, row 2; `ORC-X4JZ2MOAKG` |  |
+| 1203.15 | L + V -> γLa |  | experimental | [1] Chan 2010; _cites Gschneidner 1961_ | Table 3, p. 5, row 5; `ORC-YT347P25TN` |  |
+| 1193.75 | L + V -> γLa | L: V 0.0017; V: V 1; γLa: V 0.0021 | model | [1] Chan 2010 | Table 3, p. 5, row 8; `ORC-5YEKZNG37O` |  |
+| 1193.15 | L + V -> γLa | L: V 0.0017; V: V 0.999999; γLa: V 0.0022 | unspecified | [1] Chan 2010; _cites Massalski 1990_ | Table 3, p. 5, row 7; `ORC-SIDYWUJGPE` |  |
+| 1168.15 | γLa -> V + βLa |  | experimental | [1] Chan 2010; _cites Gschneidner 1961_ | Table 3, p. 5, row 9; `ORC-XWFU3DMBG7` |  |
+| 1163.15 | L + V -> γLa |  | unspecified | [1] Chan 2010; _cites Efimov 2010_ | Table 3, p. 5, row 6; `ORC-6FHPLJWZMU` |  |
+| 1138.15 | γLa -> V + βLa | V: V 1 | unspecified | [1] Chan 2010; _cites Massalski 1990_ | Table 3, p. 5, row 11; `ORC-Y6H6M3HXZE` |  |
+| 1137.65 | γLa -> V + βLa | γLa: V 0.0015; V: V 1; βLa: V 9.950e-4 | model | [1] Chan 2010 | Table 3, p. 5, row 12; `ORC-QZTWR6HKZW` |  |
+| 973.15 | γLa -> V + βLa |  | unspecified | [1] Chan 2010; _cites Efimov 2010_ | Table 3, p. 5, row 10; `ORC-G3A54MEYRP` |  |
+| 549.95 | βLa -> V + αLa | βLa: V 0; V: V 1; αLa: V 0 | model | [1] Chan 2010 | Table 3, p. 5, row 16; `ORC-FNEIG2VFKO` |  |
 
 ## Sources
 
@@ -127,4 +127,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

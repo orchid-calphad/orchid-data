@@ -52,23 +52,23 @@ Table: Invariant reactions reported in the literature for the Er–Te system (17
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1551 | eutectic |  | experimental | [1] Bennoui 2022 | p. 2 | “The eutectic between Er and ErTe is given at 87 at.% Er and 1551 K, while the second eutectic on the Te-rich side is at about 3 at.% Er and 603 K (Fig. 2).” |
-| 1543 | eutectic: L -> ErTe+(Er) | L: Te 0.13; ErTe: Te 0.5; (Er): Te 0 | experimental | [1] Bennoui 2022; _cites Massalski 1990_ | Table 7, p. 10, row 19 |  |
-| 1543 | eutectic: L -> ErTe+(Er) | L: Te 0.13; ErTe: Te 0.5; (Er): Te 0 | experimental | [1] Bennoui 2022; _cites Haase 1965_ [doi](https://doi.org/10.1021/ic50026a021) | Table 7, p. 10, row 18 |  |
-| 1540 | eutectic: L -> ErTe+(Er) | L: Te 0.18; ErTe: Te 0.5; (Er): Te 0 | experimental | [1] Bennoui 2022 | Table 7, p. 10, row 17 |  |
-| 1364 | eutectic: L -> Er2Te3+ErTe | L: Te 0.55; Er2Te3: Te 0.6; ErTe: Te 0.5 | experimental | [1] Bennoui 2022 | Table 7, p. 10, row 10 |  |
-| 1363 | eutectic: L -> Er2Te3+ErTe | L: Te 0.56; Er2Te3: Te 0.6; ErTe: Te 0.5 | experimental | [1] Bennoui 2022; _cites Abrikosov 1973_ | Table 7, p. 10, row 11 |  |
-| 1363 | eutectic: L -> Er2Te3+ErTe | L: Te 0.56; Er2Te3: Te 0.6; ErTe: Te 0.5 | experimental | [1] Bennoui 2022; _cites Massalski 1990_ | Table 7, p. 10, row 12 |  |
-| 957 | peritectic |  | experimental | [1] Bennoui 2022 | p. 2 | “While the ErTe3compound melts at 957 K with decomposition according to the peritectic reaction: Er2Te3 ? L$ ErTe3.” |
-| 953 | peritectic |  | experimental | [1] Bennoui 2022; _cites Abrikosov 1973_ | p. 2 | “According to reference,\[39\] the ErTe3 phase does not exist; instead, the stoichiometric phase ErTe2, formed by a peritectic at 953 K, is indicated.” |
-| 953 | peritectic: L+ Er2Te3 -> ErTe3 | L: Te 0.86; Er2Te3: Te 0.6; ErTe3: Te 0.75 | experimental | [1] Bennoui 2022; _cites Massalski 1990_ | Table 7, p. 10, row 6 |  |
-| 953 | peritectic: L+ Er2Te3 -> ErTe3 | L: Te 0.95; Er2Te3: Te 0.6; ErTe3: Te 0.75 | experimental | [1] Bennoui 2022 | Table 7, p. 10, row 4 |  |
-| 848 | peritectic: L+ Er2Te3 -> ErTe3 | L: Te 0.78; Er2Te3: Te 0.6; ErTe3: Te 0.75 | experimental | [1] Bennoui 2022; _cites Haase 1965_ [doi](https://doi.org/10.1021/ic50026a021) | Table 7, p. 10, row 5 |  |
-| 722 | eutectic: L -> (Te) +ErTe3 | L: Te 0.999999; (Te): Te 1; ErTe3: Te 0.75 | experimental | [1] Bennoui 2022 | Table 7, p. 10, row 1 |  |
-| 718 | eutectic: L -> (Te) +ErTe3 | L: Te 0.9956; (Te): Te 1; ErTe3: Te 0.75 | experimental | [1] Bennoui 2022; _cites Massalski 1990_ | Table 7, p. 10, row 3 |  |
-| 718 | eutectic: L -> (Te) +ErTe3 | L: Te 0.9956; (Te): Te 1; ErTe3: Te 0.75 | experimental | [1] Bennoui 2022; _cites Abrikosov 1973_ | Table 7, p. 10, row 2 |  |
-| 718 | eutectic |  | experimental | [1] Bennoui 2022; _cites Abrikosov 1973_ | p. 2 | “A degenerate eutectic exists between ErTe2 and Te at 718 K.” |
-| 603 | eutectic |  | experimental | [1] Bennoui 2022 | p. 2 | “The eutectic between Er and ErTe is given at 87 at.% Er and 1551 K, while the second eutectic on the Te-rich side is at about 3 at.% Er and 603 K (Fig. 2).” |
+| 1551 | eutectic |  | experimental | [1] Bennoui 2022 | p. 2; `ORC-CSJVVJY75F.7e1d79` | “The eutectic between Er and ErTe is given at 87 at.% Er and 1551 K, while the second eutectic on the Te-rich side is at about 3 at.% Er and 603 K (Fig. 2).” |
+| 1543 | eutectic: L -> ErTe+(Er) | L: Te 0.13; ErTe: Te 0.5; (Er): Te 0 | experimental | [1] Bennoui 2022; _cites Massalski 1990_ | Table 7, p. 10, row 19; `ORC-2DWLNQNV6B` |  |
+| 1543 | eutectic: L -> ErTe+(Er) | L: Te 0.13; ErTe: Te 0.5; (Er): Te 0 | experimental | [1] Bennoui 2022; _cites Haase 1965_ [doi](https://doi.org/10.1021/ic50026a021) | Table 7, p. 10, row 18; `ORC-DHV457PYTM` |  |
+| 1540 | eutectic: L -> ErTe+(Er) | L: Te 0.18; ErTe: Te 0.5; (Er): Te 0 | experimental | [1] Bennoui 2022 | Table 7, p. 10, row 17; `ORC-7GG75PUAJE` |  |
+| 1364 | eutectic: L -> Er2Te3+ErTe | L: Te 0.55; Er2Te3: Te 0.6; ErTe: Te 0.5 | experimental | [1] Bennoui 2022 | Table 7, p. 10, row 10; `ORC-WNPO4L2ZWS` |  |
+| 1363 | eutectic: L -> Er2Te3+ErTe | L: Te 0.56; Er2Te3: Te 0.6; ErTe: Te 0.5 | experimental | [1] Bennoui 2022; _cites Abrikosov 1973_ | Table 7, p. 10, row 11; `ORC-BMPWK7RLOF` |  |
+| 1363 | eutectic: L -> Er2Te3+ErTe | L: Te 0.56; Er2Te3: Te 0.6; ErTe: Te 0.5 | experimental | [1] Bennoui 2022; _cites Massalski 1990_ | Table 7, p. 10, row 12; `ORC-LTN2TTDLTZ` |  |
+| 957 | peritectic |  | experimental | [1] Bennoui 2022 | p. 2; `ORC-CMBPC5PBAX` | “While the ErTe3compound melts at 957 K with decomposition according to the peritectic reaction: Er2Te3 ? L$ ErTe3.” |
+| 953 | peritectic |  | experimental | [1] Bennoui 2022; _cites Abrikosov 1973_ | p. 2; `ORC-57EQ2TCZX3` | “According to reference,\[39\] the ErTe3 phase does not exist; instead, the stoichiometric phase ErTe2, formed by a peritectic at 953 K, is indicated.” |
+| 953 | peritectic: L+ Er2Te3 -> ErTe3 | L: Te 0.86; Er2Te3: Te 0.6; ErTe3: Te 0.75 | experimental | [1] Bennoui 2022; _cites Massalski 1990_ | Table 7, p. 10, row 6; `ORC-5N7S3DPRZW` |  |
+| 953 | peritectic: L+ Er2Te3 -> ErTe3 | L: Te 0.95; Er2Te3: Te 0.6; ErTe3: Te 0.75 | experimental | [1] Bennoui 2022 | Table 7, p. 10, row 4; `ORC-7RZYMZ6LZI` |  |
+| 848 | peritectic: L+ Er2Te3 -> ErTe3 | L: Te 0.78; Er2Te3: Te 0.6; ErTe3: Te 0.75 | experimental | [1] Bennoui 2022; _cites Haase 1965_ [doi](https://doi.org/10.1021/ic50026a021) | Table 7, p. 10, row 5; `ORC-EKAHNP3ZHE` |  |
+| 722 | eutectic: L -> (Te) +ErTe3 | L: Te 0.999999; (Te): Te 1; ErTe3: Te 0.75 | experimental | [1] Bennoui 2022 | Table 7, p. 10, row 1; `ORC-VYRVQI32SA` |  |
+| 718 | eutectic: L -> (Te) +ErTe3 | L: Te 0.9956; (Te): Te 1; ErTe3: Te 0.75 | experimental | [1] Bennoui 2022; _cites Massalski 1990_ | Table 7, p. 10, row 3; `ORC-BUGPJMREDA` |  |
+| 718 | eutectic: L -> (Te) +ErTe3 | L: Te 0.9956; (Te): Te 1; ErTe3: Te 0.75 | experimental | [1] Bennoui 2022; _cites Abrikosov 1973_ | Table 7, p. 10, row 2; `ORC-EIXCE2KVJ4` |  |
+| 718 | eutectic |  | experimental | [1] Bennoui 2022; _cites Abrikosov 1973_ | p. 2; `ORC-VSSM67E7I7` | “A degenerate eutectic exists between ErTe2 and Te at 718 K.” |
+| 603 | eutectic |  | experimental | [1] Bennoui 2022 | p. 2; `ORC-CSJVVJY75F.8c3f26` | “The eutectic between Er and ErTe is given at 87 at.% Er and 1551 K, while the second eutectic on the Te-rich side is at about 3 at.% Er and 603 K (Fig. 2).” |
 
 ## Formation enthalpies
 
@@ -78,27 +78,27 @@ Table: Enthalpies of formation, Er–Te system (21)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Er2Te3 | [Er2Te3](https://data.orchid-project.org/compounds/Er2Te3.html) | -164.44 kJ/mol-atom ± 16.7 | 298.15 | experimental | -158.255 (mp-aaaaavrf) | -134.147 (oqmd-665800) | [1] Bennoui 2022; _cites Vassiliev 1980_ | Table 2, p. 5, row 34 |  |
-| Er2Te3 | [Er2Te3](https://data.orchid-project.org/compounds/Er2Te3.html) | -159.1 kJ/mol-atom ± 10 |  | model | -158.255 (mp-aaaaavrf) | -134.147 (oqmd-665800) | [1] Bennoui 2022; _cites Vassiliev 2016_ [doi](https://doi.org/10.1016/j.electacta.2016.11.075) | Table 2, p. 5, row 33 |  |
-| Er2Te3 | [Er2Te3](https://data.orchid-project.org/compounds/Er2Te3.html) | -158.62 kJ/mol-atom ± 2.5 | 298.15 | experimental | -158.255 (mp-aaaaavrf) | -134.147 (oqmd-665800) | [1] Bennoui 2022; _cites Imamaliyeva 2020_ [doi](https://doi.org/10.15330/pcss.21.2.312-318) | Table 2, p. 5, row 35 |  |
-| Er2Te3 |  | -157.965 kJ/mol-atom | 0 | DFT |  |  | [1] Bennoui 2022; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table 2, p. 5, row 32 |  |
-| Er2Te3 | [Er2Te3](https://data.orchid-project.org/compounds/Er2Te3.html) | -136.475 kJ/mol-atom |  | model | -158.255 (mp-aaaaavrf) | -134.147 (oqmd-665800) | [1] Bennoui 2022 | Table 2, p. 5, row 30 |  |
-| Er2Te3 |  | -133.951 kJ/mol-atom | 0 | DFT |  |  | [1] Bennoui 2022; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table 2, p. 5, row 31 |  |
-| Er2Te3 |  | -133.731 kJ/mol-atom | 0 | DFT |  |  | [1] Bennoui 2022 | Table 2, p. 5, row 29 |  |
-| ErTe | [ErTe](https://data.orchid-project.org/compounds/ErTe.html) | -179.45 kJ/mol-atom ± 0.6 | 298.15 | experimental | -136.706 (mp-aaaaabxg) | -120.964 (oqmd-1880751) | [1] Bennoui 2022; _cites Imamaliyeva 2020_ [doi](https://doi.org/10.15330/pcss.21.2.312-318) | Table 2, p. 5, row 40 |  |
-| ErTe | [ErTe](https://data.orchid-project.org/compounds/ErTe.html) | -157 kJ/mol-atom ± 60 | 298.15 | experimental | -136.706 (mp-aaaaabxg) | -120.964 (oqmd-1880751) | [1] Bennoui 2022; _cites Mills 1974_ | Table 2, p. 5, row 41 |  |
-| ErTe |  | -136.485 kJ/mol-atom | 0 | DFT |  |  | [1] Bennoui 2022; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table 2, p. 5, row 39 |  |
-| ErTe |  | -119.399 kJ/mol-atom | 0 | DFT |  |  | [1] Bennoui 2022; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table 2, p. 5, row 38 |  |
-| ErTe | [ErTe](https://data.orchid-project.org/compounds/ErTe.html) | -118.947 kJ/mol-atom |  | model | -136.706 (mp-aaaaabxg) | -120.964 (oqmd-1880751) | [1] Bennoui 2022 | Table 2, p. 5, row 37 |  |
-| ErTe |  | -115.927 kJ/mol-atom | 0 | DFT |  |  | [1] Bennoui 2022 | Table 2, p. 5, row 36 |  |
-| ErTe2 |  | -132.921 kJ/mol-atom |  | DFT |  |  | [1] Bennoui 2022; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table 2, p. 5, row 44 |  |
-| ErTe2 |  | -106.39 kJ/mol-atom |  | DFT |  |  | [1] Bennoui 2022; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table 2, p. 5, row 43 |  |
-| ErTe2 |  | -105.846 kJ/mol-atom | 0 | DFT |  |  | [1] Bennoui 2022 | Table 2, p. 5, row 42 |  |
-| ErTe3 |  | -116.258 kJ/mol-atom | 0 | DFT |  |  | [1] Bennoui 2022; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table 2, p. 5, row 27 |  |
-| ErTe3 | [ErTe3](https://data.orchid-project.org/compounds/ErTe3.html) | -102.85 kJ/mol-atom ± 1.3 | 298.15 | experimental | -116.416 (mp-aaacjkdr) | -85.055 (oqmd-665801) | [1] Bennoui 2022; _cites Imamaliyeva 2020_ [doi](https://doi.org/10.15330/pcss.21.2.312-318) | Table 2, p. 5, row 28 |  |
-| ErTe3 | [ErTe3](https://data.orchid-project.org/compounds/ErTe3.html) | -86.964 kJ/mol-atom |  | model | -116.416 (mp-aaacjkdr) | -85.055 (oqmd-665801) | [1] Bennoui 2022 | Table 2, p. 5, row 25 |  |
-| ErTe3 |  | -84.996 kJ/mol-atom | 0 | DFT |  |  | [1] Bennoui 2022; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table 2, p. 5, row 26 |  |
-| ErTe3 |  | -84.589 kJ/mol-atom | 0 | DFT |  |  | [1] Bennoui 2022 | Table 2, p. 5, row 24 |  |
+| Er2Te3 | [Er2Te3](https://data.orchid-project.org/compounds/Er2Te3.html) | -164.44 kJ/mol-atom ± 16.7 | 298.15 | experimental | -158.255 (mp-aaaaavrf) | -134.147 (oqmd-665800) | [1] Bennoui 2022; _cites Vassiliev 1980_ | Table 2, p. 5, row 34; `ORC-FW6AN2OQ2Q` |  |
+| Er2Te3 | [Er2Te3](https://data.orchid-project.org/compounds/Er2Te3.html) | -159.1 kJ/mol-atom ± 10 |  | model | -158.255 (mp-aaaaavrf) | -134.147 (oqmd-665800) | [1] Bennoui 2022; _cites Vassiliev 2016_ [doi](https://doi.org/10.1016/j.electacta.2016.11.075) | Table 2, p. 5, row 33; `ORC-QBCE3JMSZB` |  |
+| Er2Te3 | [Er2Te3](https://data.orchid-project.org/compounds/Er2Te3.html) | -158.62 kJ/mol-atom ± 2.5 | 298.15 | experimental | -158.255 (mp-aaaaavrf) | -134.147 (oqmd-665800) | [1] Bennoui 2022; _cites Imamaliyeva 2020_ [doi](https://doi.org/10.15330/pcss.21.2.312-318) | Table 2, p. 5, row 35; `ORC-SHIMGAGZXU` |  |
+| Er2Te3 |  | -157.965 kJ/mol-atom | 0 | DFT |  |  | [1] Bennoui 2022; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table 2, p. 5, row 32; `ORC-SC3LCWNFYX` |  |
+| Er2Te3 | [Er2Te3](https://data.orchid-project.org/compounds/Er2Te3.html) | -136.475 kJ/mol-atom |  | model | -158.255 (mp-aaaaavrf) | -134.147 (oqmd-665800) | [1] Bennoui 2022 | Table 2, p. 5, row 30; `ORC-4CZFWXX4DI` |  |
+| Er2Te3 |  | -133.951 kJ/mol-atom | 0 | DFT |  |  | [1] Bennoui 2022; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table 2, p. 5, row 31; `ORC-HPKJF6GDPI` |  |
+| Er2Te3 |  | -133.731 kJ/mol-atom | 0 | DFT |  |  | [1] Bennoui 2022 | Table 2, p. 5, row 29; `ORC-JUOO7MQ5EN` |  |
+| ErTe | [ErTe](https://data.orchid-project.org/compounds/ErTe.html) | -179.45 kJ/mol-atom ± 0.6 | 298.15 | experimental | -136.706 (mp-aaaaabxg) | -120.964 (oqmd-1880751) | [1] Bennoui 2022; _cites Imamaliyeva 2020_ [doi](https://doi.org/10.15330/pcss.21.2.312-318) | Table 2, p. 5, row 40; `ORC-23O2KQG2NE` |  |
+| ErTe | [ErTe](https://data.orchid-project.org/compounds/ErTe.html) | -157 kJ/mol-atom ± 60 | 298.15 | experimental | -136.706 (mp-aaaaabxg) | -120.964 (oqmd-1880751) | [1] Bennoui 2022; _cites Mills 1974_ | Table 2, p. 5, row 41; `ORC-RAENSKTS3C` |  |
+| ErTe |  | -136.485 kJ/mol-atom | 0 | DFT |  |  | [1] Bennoui 2022; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table 2, p. 5, row 39; `ORC-JSIH54OHCH` |  |
+| ErTe |  | -119.399 kJ/mol-atom | 0 | DFT |  |  | [1] Bennoui 2022; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table 2, p. 5, row 38; `ORC-YDJL5RJKTH` |  |
+| ErTe | [ErTe](https://data.orchid-project.org/compounds/ErTe.html) | -118.947 kJ/mol-atom |  | model | -136.706 (mp-aaaaabxg) | -120.964 (oqmd-1880751) | [1] Bennoui 2022 | Table 2, p. 5, row 37; `ORC-2ZNL544DDC` |  |
+| ErTe |  | -115.927 kJ/mol-atom | 0 | DFT |  |  | [1] Bennoui 2022 | Table 2, p. 5, row 36; `ORC-CKZF2IEQZ3` |  |
+| ErTe2 |  | -132.921 kJ/mol-atom |  | DFT |  |  | [1] Bennoui 2022; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table 2, p. 5, row 44; `ORC-IMMCRH2W7L` |  |
+| ErTe2 |  | -106.39 kJ/mol-atom |  | DFT |  |  | [1] Bennoui 2022; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table 2, p. 5, row 43; `ORC-DF6K4SBVZJ` |  |
+| ErTe2 |  | -105.846 kJ/mol-atom | 0 | DFT |  |  | [1] Bennoui 2022 | Table 2, p. 5, row 42; `ORC-S3QCHLIENU` |  |
+| ErTe3 |  | -116.258 kJ/mol-atom | 0 | DFT |  |  | [1] Bennoui 2022; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table 2, p. 5, row 27; `ORC-GG7U4IMJX6` |  |
+| ErTe3 | [ErTe3](https://data.orchid-project.org/compounds/ErTe3.html) | -102.85 kJ/mol-atom ± 1.3 | 298.15 | experimental | -116.416 (mp-aaacjkdr) | -85.055 (oqmd-665801) | [1] Bennoui 2022; _cites Imamaliyeva 2020_ [doi](https://doi.org/10.15330/pcss.21.2.312-318) | Table 2, p. 5, row 28; `ORC-RZMRYJWGSF` |  |
+| ErTe3 | [ErTe3](https://data.orchid-project.org/compounds/ErTe3.html) | -86.964 kJ/mol-atom |  | model | -116.416 (mp-aaacjkdr) | -85.055 (oqmd-665801) | [1] Bennoui 2022 | Table 2, p. 5, row 25; `ORC-7GXILZANYI` |  |
+| ErTe3 |  | -84.996 kJ/mol-atom | 0 | DFT |  |  | [1] Bennoui 2022; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table 2, p. 5, row 26; `ORC-TWYNLDJHKK` |  |
+| ErTe3 |  | -84.589 kJ/mol-atom | 0 | DFT |  |  | [1] Bennoui 2022 | Table 2, p. 5, row 24; `ORC-NNXY3KAC4Z` |  |
 
 ## Other properties
 
@@ -108,15 +108,15 @@ Table: Phase transition, Er–Te system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1463 K | 1463 | congruent melting: L -> Er2Te3; _L: Te 0.6; Er2Te3: Te 0.6_ | experimental | [1] Bennoui 2022; _cites Abrikosov 1973_ | Table 7, p. 10, row 8 |  |
-| Phase transition | 1465 K | 1465 | congruent melting: L -> Er2Te3; _L: Te 0.6; Er2Te3: Te 0.6_ | experimental | [1] Bennoui 2022 | Table 7, p. 10, row 7 |  |
-| Phase transition | 1486 K | 1486 | congruent melting | experimental | [1] Bennoui 2022 | p. 2 | “The ErTe and Er2Te3 compounds had congruently melting temperatures at 1773 and 1486 K, respectively.” |
-| Phase transition | 1486 K | 1486 | congruent melting: L -> Er2Te3; _L: Te 0.6; Er2Te3: Te 0.6_ | experimental | [1] Bennoui 2022; _cites Massalski 1990_ | Table 7, p. 10, row 9 |  |
-| Phase transition | 1763 K | 1763 | congruent melting: L -> ErTe; _L: Te 0.5; ErTe: Te 0.5_ | experimental | [1] Bennoui 2022; _cites Abrikosov 1973_ | Table 7, p. 10, row 14 |  |
-| Phase transition | 1773 K | 1773 | congruent melting | experimental | [1] Bennoui 2022 | p. 2 | “The ErTe and Er2Te3 compounds had congruently melting temperatures at 1773 and 1486 K, respectively.” |
-| Phase transition | 1773 K | 1773 | congruent melting: L -> ErTe; _L: Te 0.5; ErTe: Te 0.5_ | experimental | [1] Bennoui 2022; _cites Haase 1965_ [doi](https://doi.org/10.1021/ic50026a021) | Table 7, p. 10, row 15 |  |
-| Phase transition | 1773 K | 1773 | congruent melting: L -> ErTe; _L: Te 0.5; ErTe: Te 0.5_ | experimental | [1] Bennoui 2022; _cites Massalski 1990_ | Table 7, p. 10, row 16 |  |
-| Phase transition | 1779 K | 1779 | congruent melting: L -> ErTe; _L: Te 0.5; ErTe: Te 0.5_ | experimental | [1] Bennoui 2022 | Table 7, p. 10, row 13 |  |
+| Phase transition | 1463 K | 1463 | congruent melting: L -> Er2Te3; _L: Te 0.6; Er2Te3: Te 0.6_ | experimental | [1] Bennoui 2022; _cites Abrikosov 1973_ | Table 7, p. 10, row 8; `ORC-UV45444SFS` |  |
+| Phase transition | 1465 K | 1465 | congruent melting: L -> Er2Te3; _L: Te 0.6; Er2Te3: Te 0.6_ | experimental | [1] Bennoui 2022 | Table 7, p. 10, row 7; `ORC-L3GXMA3HG3` |  |
+| Phase transition | 1486 K | 1486 | congruent melting | experimental | [1] Bennoui 2022 | p. 2; `ORC-LROQMPWIDX.41d22b` | “The ErTe and Er2Te3 compounds had congruently melting temperatures at 1773 and 1486 K, respectively.” |
+| Phase transition | 1486 K | 1486 | congruent melting: L -> Er2Te3; _L: Te 0.6; Er2Te3: Te 0.6_ | experimental | [1] Bennoui 2022; _cites Massalski 1990_ | Table 7, p. 10, row 9; `ORC-26IQGVAI7K` |  |
+| Phase transition | 1763 K | 1763 | congruent melting: L -> ErTe; _L: Te 0.5; ErTe: Te 0.5_ | experimental | [1] Bennoui 2022; _cites Abrikosov 1973_ | Table 7, p. 10, row 14; `ORC-QCZ36X2A3V` |  |
+| Phase transition | 1773 K | 1773 | congruent melting | experimental | [1] Bennoui 2022 | p. 2; `ORC-LROQMPWIDX.e77fdb` | “The ErTe and Er2Te3 compounds had congruently melting temperatures at 1773 and 1486 K, respectively.” |
+| Phase transition | 1773 K | 1773 | congruent melting: L -> ErTe; _L: Te 0.5; ErTe: Te 0.5_ | experimental | [1] Bennoui 2022; _cites Haase 1965_ [doi](https://doi.org/10.1021/ic50026a021) | Table 7, p. 10, row 15; `ORC-LK7LBX3VLR` |  |
+| Phase transition | 1773 K | 1773 | congruent melting: L -> ErTe; _L: Te 0.5; ErTe: Te 0.5_ | experimental | [1] Bennoui 2022; _cites Massalski 1990_ | Table 7, p. 10, row 16; `ORC-LTJFZVDPI2` |  |
+| Phase transition | 1779 K | 1779 | congruent melting: L -> ErTe; _L: Te 0.5; ErTe: Te 0.5_ | experimental | [1] Bennoui 2022 | Table 7, p. 10, row 13; `ORC-R7BE7FSDMI` |  |
 
 ### Crystal structure (24)
 
@@ -124,30 +124,30 @@ Table: Crystal structure, Er–Te system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 12.031 Å | 0 | Er2Te3; _alloy: Er 0.4, Te 0.6_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 17 |  |
-| Lattice a | 6.109 Å | 0 | ErTe; _alloy: Er 0.5, Te 0.5_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 19 |  |
-| Lattice a | 4.448 Å | 0 | ErTe2; _alloy: Er 0.333333, Te 0.666667_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 21 |  |
-| Lattice a | 4.325 Å | 0 | ErTe3; _alloy: Er 0.25, Te 0.75_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 15 |  |
-| Lattice a | 12.127 Å | 298.15 | Er2Te3; _alloy: Er 0.4, Te 0.6_ | experimental | [1] Bennoui 2022; _cites Stoewe 1998_ | Table 1, p. 3, row 16 |  |
-| Lattice a | 6.063 Å | 298.15 | ErTe; _alloy: Er 0.5, Te 0.5_ | experimental | [1] Bennoui 2022; _cites Khan 1976_ | Table 1, p. 3, row 18 |  |
-| Lattice a | 4.248 Å | 298.15 | ErTe2; _alloy: Er 0.333333, Te 0.666667_ | experimental | [1] Bennoui 2022; _cites Cannon 1970_ [doi](https://doi.org/10.1021/ic50089a007) | Table 1, p. 3, row 20 |  |
-| Lattice a | 4.285 Å | 298.15 | ErTe3; _alloy: Er 0.25, Te 0.75_ | experimental | [1] Bennoui 2022; _cites Vassiliev 1980_ | Table 1, p. 3, row 14 |  |
-| Lattice b | 8.565 Å | 0 | Er2Te3; _alloy: Er 0.4, Te 0.6_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 17 |  |
-| Lattice b | 6.109 Å | 0 | ErTe; _alloy: Er 0.5, Te 0.5_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 19 |  |
-| Lattice b | 4.448 Å | 0 | ErTe2; _alloy: Er 0.333333, Te 0.666667_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 21 |  |
-| Lattice b | 4.325 Å | 0 | ErTe3; _alloy: Er 0.25, Te 0.75_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 15 |  |
-| Lattice b | 8.581 Å | 298.15 | Er2Te3; _alloy: Er 0.4, Te 0.6_ | experimental | [1] Bennoui 2022; _cites Stoewe 1998_ | Table 1, p. 3, row 16 |  |
-| Lattice b | 6.063 Å | 298.15 | ErTe; _alloy: Er 0.5, Te 0.5_ | experimental | [1] Bennoui 2022; _cites Khan 1976_ | Table 1, p. 3, row 18 |  |
-| Lattice b | 4.248 Å | 298.15 | ErTe2; _alloy: Er 0.333333, Te 0.666667_ | experimental | [1] Bennoui 2022; _cites Cannon 1970_ [doi](https://doi.org/10.1021/ic50089a007) | Table 1, p. 3, row 20 |  |
-| Lattice b | 4.285 Å | 298.15 | ErTe3; _alloy: Er 0.25, Te 0.75_ | experimental | [1] Bennoui 2022; _cites Vassiliev 1980_ | Table 1, p. 3, row 14 |  |
-| Lattice c | 24.908 Å | 0 | Er2Te3; _alloy: Er 0.4, Te 0.6_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 17 |  |
-| Lattice c | 6.109 Å | 0 | ErTe; _alloy: Er 0.5, Te 0.5_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 19 |  |
-| Lattice c | 8.691 Å | 0 | ErTe2; _alloy: Er 0.333333, Te 0.666667_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 21 |  |
-| Lattice c | 25.384 Å | 0 | ErTe3; _alloy: Er 0.25, Te 0.75_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 15 |  |
-| Lattice c | 25.728 Å | 298.15 | Er2Te3; _alloy: Er 0.4, Te 0.6_ | experimental | [1] Bennoui 2022; _cites Stoewe 1998_ | Table 1, p. 3, row 16 |  |
-| Lattice c | 6.063 Å | 298.15 | ErTe; _alloy: Er 0.5, Te 0.5_ | experimental | [1] Bennoui 2022; _cites Khan 1976_ | Table 1, p. 3, row 18 |  |
-| Lattice c | 8.865 Å | 298.15 | ErTe2; _alloy: Er 0.333333, Te 0.666667_ | experimental | [1] Bennoui 2022; _cites Cannon 1970_ [doi](https://doi.org/10.1021/ic50089a007) | Table 1, p. 3, row 20 |  |
-| Lattice c | 25.278 Å | 298.15 | ErTe3; _alloy: Er 0.25, Te 0.75_ | experimental | [1] Bennoui 2022; _cites Vassiliev 1980_ | Table 1, p. 3, row 14 |  |
+| Lattice a | 12.031 Å | 0 | Er2Te3; _alloy: Er 0.4, Te 0.6_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 17; `ORC-O3KTBJG3IR.129d8a` |  |
+| Lattice a | 6.109 Å | 0 | ErTe; _alloy: Er 0.5, Te 0.5_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 19; `ORC-3INEFAU7DC.4bb426` |  |
+| Lattice a | 4.448 Å | 0 | ErTe2; _alloy: Er 0.333333, Te 0.666667_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 21; `ORC-WV2AVUIXMQ.809272` |  |
+| Lattice a | 4.325 Å | 0 | ErTe3; _alloy: Er 0.25, Te 0.75_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 15; `ORC-ZEAXVZHTRY.c912cd` |  |
+| Lattice a | 12.127 Å | 298.15 | Er2Te3; _alloy: Er 0.4, Te 0.6_ | experimental | [1] Bennoui 2022; _cites Stoewe 1998_ | Table 1, p. 3, row 16; `ORC-3OECO4OITM.4dd63a` |  |
+| Lattice a | 6.063 Å | 298.15 | ErTe; _alloy: Er 0.5, Te 0.5_ | experimental | [1] Bennoui 2022; _cites Khan 1976_ | Table 1, p. 3, row 18; `ORC-WQBHAJMTAI.dc0b05` |  |
+| Lattice a | 4.248 Å | 298.15 | ErTe2; _alloy: Er 0.333333, Te 0.666667_ | experimental | [1] Bennoui 2022; _cites Cannon 1970_ [doi](https://doi.org/10.1021/ic50089a007) | Table 1, p. 3, row 20; `ORC-DV5PZVM7VV.e688fc` |  |
+| Lattice a | 4.285 Å | 298.15 | ErTe3; _alloy: Er 0.25, Te 0.75_ | experimental | [1] Bennoui 2022; _cites Vassiliev 1980_ | Table 1, p. 3, row 14; `ORC-SLV2J5OOP4.010bd9` |  |
+| Lattice b | 8.565 Å | 0 | Er2Te3; _alloy: Er 0.4, Te 0.6_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 17; `ORC-O3KTBJG3IR.014218` |  |
+| Lattice b | 6.109 Å | 0 | ErTe; _alloy: Er 0.5, Te 0.5_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 19; `ORC-3INEFAU7DC.4b7558` |  |
+| Lattice b | 4.448 Å | 0 | ErTe2; _alloy: Er 0.333333, Te 0.666667_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 21; `ORC-WV2AVUIXMQ.16c5c1` |  |
+| Lattice b | 4.325 Å | 0 | ErTe3; _alloy: Er 0.25, Te 0.75_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 15; `ORC-ZEAXVZHTRY.ba7c9a` |  |
+| Lattice b | 8.581 Å | 298.15 | Er2Te3; _alloy: Er 0.4, Te 0.6_ | experimental | [1] Bennoui 2022; _cites Stoewe 1998_ | Table 1, p. 3, row 16; `ORC-3OECO4OITM.9ba3be` |  |
+| Lattice b | 6.063 Å | 298.15 | ErTe; _alloy: Er 0.5, Te 0.5_ | experimental | [1] Bennoui 2022; _cites Khan 1976_ | Table 1, p. 3, row 18; `ORC-WQBHAJMTAI.2fe29e` |  |
+| Lattice b | 4.248 Å | 298.15 | ErTe2; _alloy: Er 0.333333, Te 0.666667_ | experimental | [1] Bennoui 2022; _cites Cannon 1970_ [doi](https://doi.org/10.1021/ic50089a007) | Table 1, p. 3, row 20; `ORC-DV5PZVM7VV.93d649` |  |
+| Lattice b | 4.285 Å | 298.15 | ErTe3; _alloy: Er 0.25, Te 0.75_ | experimental | [1] Bennoui 2022; _cites Vassiliev 1980_ | Table 1, p. 3, row 14; `ORC-SLV2J5OOP4.885073` |  |
+| Lattice c | 24.908 Å | 0 | Er2Te3; _alloy: Er 0.4, Te 0.6_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 17; `ORC-O3KTBJG3IR.4d6895` |  |
+| Lattice c | 6.109 Å | 0 | ErTe; _alloy: Er 0.5, Te 0.5_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 19; `ORC-3INEFAU7DC.f9d96c` |  |
+| Lattice c | 8.691 Å | 0 | ErTe2; _alloy: Er 0.333333, Te 0.666667_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 21; `ORC-WV2AVUIXMQ.50b2e4` |  |
+| Lattice c | 25.384 Å | 0 | ErTe3; _alloy: Er 0.25, Te 0.75_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 15; `ORC-ZEAXVZHTRY.9b6ac4` |  |
+| Lattice c | 25.728 Å | 298.15 | Er2Te3; _alloy: Er 0.4, Te 0.6_ | experimental | [1] Bennoui 2022; _cites Stoewe 1998_ | Table 1, p. 3, row 16; `ORC-3OECO4OITM.9446d4` |  |
+| Lattice c | 6.063 Å | 298.15 | ErTe; _alloy: Er 0.5, Te 0.5_ | experimental | [1] Bennoui 2022; _cites Khan 1976_ | Table 1, p. 3, row 18; `ORC-WQBHAJMTAI.0a4907` |  |
+| Lattice c | 8.865 Å | 298.15 | ErTe2; _alloy: Er 0.333333, Te 0.666667_ | experimental | [1] Bennoui 2022; _cites Cannon 1970_ [doi](https://doi.org/10.1021/ic50089a007) | Table 1, p. 3, row 20; `ORC-DV5PZVM7VV.84805b` |  |
+| Lattice c | 25.278 Å | 298.15 | ErTe3; _alloy: Er 0.25, Te 0.75_ | experimental | [1] Bennoui 2022; _cites Vassiliev 1980_ | Table 1, p. 3, row 14; `ORC-SLV2J5OOP4.a8b99e` |  |
 
 ## Sources
 
@@ -212,4 +212,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -98,26 +98,26 @@ Table: Invariant reactions reported in the literature for the Fe–Si system (20
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1683 | congruent melting: FeSi -> Liquid | FeSi: Si 0.5; Liquid: Si 0.5 | unspecified | [1] Hämäläinen 1998 | Table I, p. 219, row 11 |  |
-| 1488 | congruent melting: Fe2Si -> Liquid | Fe2Si: Si 0.333; Liquid: Si 0.333 | unspecified | [1] Hämäläinen 1998 | Table I, p. 219, row 10 |  |
-| 1485 | eutectic: L -> FeSi+FeSi2_H | L: Si 0.682; FeSi: Si 0.5; FeSi2_H: Si 0.7 | model | [2] Yuan 2014 | Table 2, p. 4, row 9 |  |
-| 1485 | eutectic: L -> FeSi+FeSi2_H | L: Si 0.67; FeSi: Si 0.5; FeSi2_H: Si 0.7 | experimental | [2] Yuan 2014; _cites Kubaschewski 1982_ | Table 2, p. 4, row 10 |  |
-| 1483 | eutectic: L -> FeSi2_H+(Si) | L: Si 0.728; FeSi2_H: Si 0.7; (Si): Si 1 | model | [2] Yuan 2014 | Table 2, p. 4, row 13 |  |
-| 1482 | congruent melting: FeSi2-H -> Liquid | FeSi2-H: Si 0.7; Liquid: Si 0.7 | unspecified | [1] Hämäläinen 1998 | Table I, p. 219, row 12 |  |
-| 1480 | eutectic: L -> FeSi2_H+(Si) | L: Si 0.73; FeSi2_H: Si 0.7; (Si): Si 1 | experimental | [2] Yuan 2014; _cites Kubaschewski 1982_ | Table 2, p. 4, row 14 |  |
-| 1478.3 | eutectic: Liquid -> FeSi2-H + (Si) | Liquid: Si 0.725; FeSi2-H: Si 0.7; (Si): Si 1 | unspecified | [1] Hämäläinen 1998 | Table I, p. 219, row 9 |  |
-| 1477.2 | eutectic: Liquid -> FeSi + FeSi2-H | Liquid: Si 0.672; FeSi: Si 0.5; FeSi2-H: Si 0.7 | unspecified | [1] Hämäläinen 1998 | Table I, p. 219, row 6 |  |
-| 1477 | eutectic: L -> Fe2Si+FeSi | L: Si 0.353; Fe2Si: Si 0.333333; FeSi: Si 0.5 | model | [2] Yuan 2014 | Table 2, p. 4, row 5 |  |
-| 1477 | eutectic: L -> BCC_B2+Fe2Si | L: Si 0.318; Fe2Si: Si 0.333333 | model | [2] Yuan 2014 | Table 2, p. 4, row 1 |  |
-| 1476 | eutectic: L -> Fe2Si+FeSi | L: Si 0.36; Fe2Si: Si 0.333333; FeSi: Si 0.5 | experimental | [2] Yuan 2014; _cites Kubaschewski 1982_ | Table 2, p. 4, row 6 |  |
-| 1475.8 | eutectic: Liquid -> Fe2Si + FeSi | Liquid: Si 0.357; Fe2Si: Si 0.333; FeSi: Si 0.5 | unspecified | [1] Hämäläinen 1998 | Table I, p. 219, row 5 |  |
-| 1473 | eutectic: L -> BCC_B2+Fe2Si | L: Si 0.32; Fe2Si: Si 0.333333 | experimental | [2] Yuan 2014; _cites Kubaschewski 1982_ | Table 2, p. 4, row 2 |  |
-| 1470.6 | eutectic: Liquid -> bcc-B2 + Fe2Si | Liquid: Si 0.273; bcc-B2: Si 0.267; Fe2Si: Si 0.333 | unspecified | [1] Hämäläinen 1998 | Table I, p. 219, row 1 |  |
-| 1364.4 | peritectoid: Fe2Si + FeSi -> Fe5Si3 | Fe2Si: Si 0.333; FeSi: Si 0.5; Fe5Si3: Si 0.375 | unspecified | [1] Hämäläinen 1998 | Table I, p. 219, row 4 |  |
-| 1322.8 | eutectoid: Fe2Si -> bcc-B2 + Fe5Si3 | Fe2Si: Si 0.333; bcc-B2: Si 0.299; Fe5Si3: Si 0.375 | unspecified | [1] Hämäläinen 1998 | Table I, p. 219, row 2 |  |
-| 1275.7 | peritectoid: FeSi + FeSi2-H -> FeSi2-L | FeSi: Si 0.5; FeSi2-H: Si 0.7; FeSi2-L: Si 0.666 | unspecified | [1] Hämäläinen 1998 | Table I, p. 219, row 7 |  |
-| 1232.9 | eutectoid: FeSi2-H -> FeSi2-L + (Si) | FeSi2-H: Si 0.7; FeSi2-L: Si 0.667; (Si): Si 1 | unspecified | [1] Hämäläinen 1998 | Table I, p. 219, row 8 |  |
-| 1097.8 | eutectoid: Fe5Si3 -> bcc-B2 + FeSi | Fe5Si3: Si 0.375; bcc-B2: Si 0.298; FeSi: Si 0.5 | unspecified | [1] Hämäläinen 1998 | Table I, p. 219, row 3 |  |
+| 1683 | congruent melting: FeSi -> Liquid | FeSi: Si 0.5; Liquid: Si 0.5 | unspecified | [1] Hämäläinen 1998 | Table I, p. 219, row 11; `ORC-KNQN3ZZLTN` |  |
+| 1488 | congruent melting: Fe2Si -> Liquid | Fe2Si: Si 0.333; Liquid: Si 0.333 | unspecified | [1] Hämäläinen 1998 | Table I, p. 219, row 10; `ORC-L5XPTOELV2` |  |
+| 1485 | eutectic: L -> FeSi+FeSi2_H | L: Si 0.682; FeSi: Si 0.5; FeSi2_H: Si 0.7 | model | [2] Yuan 2014 | Table 2, p. 4, row 9; `ORC-M7MAILLAML` |  |
+| 1485 | eutectic: L -> FeSi+FeSi2_H | L: Si 0.67; FeSi: Si 0.5; FeSi2_H: Si 0.7 | experimental | [2] Yuan 2014; _cites Kubaschewski 1982_ | Table 2, p. 4, row 10; `ORC-UD2PPP6BAA` |  |
+| 1483 | eutectic: L -> FeSi2_H+(Si) | L: Si 0.728; FeSi2_H: Si 0.7; (Si): Si 1 | model | [2] Yuan 2014 | Table 2, p. 4, row 13; `ORC-2C5JWAPJOV` |  |
+| 1482 | congruent melting: FeSi2-H -> Liquid | FeSi2-H: Si 0.7; Liquid: Si 0.7 | unspecified | [1] Hämäläinen 1998 | Table I, p. 219, row 12; `ORC-P77XXLORQI` |  |
+| 1480 | eutectic: L -> FeSi2_H+(Si) | L: Si 0.73; FeSi2_H: Si 0.7; (Si): Si 1 | experimental | [2] Yuan 2014; _cites Kubaschewski 1982_ | Table 2, p. 4, row 14; `ORC-YM2EEHXGMA` |  |
+| 1478.3 | eutectic: Liquid -> FeSi2-H + (Si) | Liquid: Si 0.725; FeSi2-H: Si 0.7; (Si): Si 1 | unspecified | [1] Hämäläinen 1998 | Table I, p. 219, row 9; `ORC-CPTP4B2CQN` |  |
+| 1477.2 | eutectic: Liquid -> FeSi + FeSi2-H | Liquid: Si 0.672; FeSi: Si 0.5; FeSi2-H: Si 0.7 | unspecified | [1] Hämäläinen 1998 | Table I, p. 219, row 6; `ORC-THWQZUPOFJ` |  |
+| 1477 | eutectic: L -> Fe2Si+FeSi | L: Si 0.353; Fe2Si: Si 0.333333; FeSi: Si 0.5 | model | [2] Yuan 2014 | Table 2, p. 4, row 5; `ORC-HF7S7MCZVF` |  |
+| 1477 | eutectic: L -> BCC_B2+Fe2Si | L: Si 0.318; Fe2Si: Si 0.333333 | model | [2] Yuan 2014 | Table 2, p. 4, row 1; `ORC-Q6AI637FJE` |  |
+| 1476 | eutectic: L -> Fe2Si+FeSi | L: Si 0.36; Fe2Si: Si 0.333333; FeSi: Si 0.5 | experimental | [2] Yuan 2014; _cites Kubaschewski 1982_ | Table 2, p. 4, row 6; `ORC-XZPYSLKMHL` |  |
+| 1475.8 | eutectic: Liquid -> Fe2Si + FeSi | Liquid: Si 0.357; Fe2Si: Si 0.333; FeSi: Si 0.5 | unspecified | [1] Hämäläinen 1998 | Table I, p. 219, row 5; `ORC-CJ7ZRA7DBN` |  |
+| 1473 | eutectic: L -> BCC_B2+Fe2Si | L: Si 0.32; Fe2Si: Si 0.333333 | experimental | [2] Yuan 2014; _cites Kubaschewski 1982_ | Table 2, p. 4, row 2; `ORC-ELLCE7PIWJ` |  |
+| 1470.6 | eutectic: Liquid -> bcc-B2 + Fe2Si | Liquid: Si 0.273; bcc-B2: Si 0.267; Fe2Si: Si 0.333 | unspecified | [1] Hämäläinen 1998 | Table I, p. 219, row 1; `ORC-IJ4RA2BHN7` |  |
+| 1364.4 | peritectoid: Fe2Si + FeSi -> Fe5Si3 | Fe2Si: Si 0.333; FeSi: Si 0.5; Fe5Si3: Si 0.375 | unspecified | [1] Hämäläinen 1998 | Table I, p. 219, row 4; `ORC-MM5LJA6CWF` |  |
+| 1322.8 | eutectoid: Fe2Si -> bcc-B2 + Fe5Si3 | Fe2Si: Si 0.333; bcc-B2: Si 0.299; Fe5Si3: Si 0.375 | unspecified | [1] Hämäläinen 1998 | Table I, p. 219, row 2; `ORC-LRSXPANYKM` |  |
+| 1275.7 | peritectoid: FeSi + FeSi2-H -> FeSi2-L | FeSi: Si 0.5; FeSi2-H: Si 0.7; FeSi2-L: Si 0.666 | unspecified | [1] Hämäläinen 1998 | Table I, p. 219, row 7; `ORC-4PWQCWUJP4` |  |
+| 1232.9 | eutectoid: FeSi2-H -> FeSi2-L + (Si) | FeSi2-H: Si 0.7; FeSi2-L: Si 0.667; (Si): Si 1 | unspecified | [1] Hämäläinen 1998 | Table I, p. 219, row 8; `ORC-ZZUQSUN6FY` |  |
+| 1097.8 | eutectoid: Fe5Si3 -> bcc-B2 + FeSi | Fe5Si3: Si 0.375; bcc-B2: Si 0.298; FeSi: Si 0.5 | unspecified | [1] Hämäläinen 1998 | Table I, p. 219, row 3; `ORC-VATWZTG55W` |  |
 
 ## Other properties
 
@@ -127,13 +127,13 @@ Table: Phase transition, Fe–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1273.15 K | 1273.15 | other | experimental | [3] Ohnuma 2012 | p. 5 | “At 1 000°C, two singular points without a composition gap were identified, which suggests that the equilibria among bcc phases at 1 000°C consist of A2/B2 at 15.2 at.% Si and B2/D03 at 18.4 at.% Si second-order transitions without a miscibility gap.” |
-| Phase transition | 1484 K | 1484 | congruent melting: L -> Fe2Si; _L: Si 0.333333; Fe2Si: Si 0.333333_ | model | [2] Yuan 2014 | Table 2, p. 4, row 3 |  |
-| Phase transition | 1485 K | 1485 | congruent melting: L -> Fe2Si; _L: Si 0.333333; Fe2Si: Si 0.333333_ | experimental | [2] Yuan 2014; _cites Kubaschewski 1982_ | Table 2, p. 4, row 4 |  |
-| Phase transition | 1487 K | 1487 | congruent melting: L -> FeSi2_H; _L: Si 0.7; FeSi2_H: Si 0.7_ | model | [2] Yuan 2014 | Table 2, p. 4, row 11 |  |
-| Phase transition | 1493 K | 1493 | congruent melting: L -> FeSi2_H; _L: Si 0.7; FeSi2_H: Si 0.7_ | experimental | [2] Yuan 2014; _cites Kubaschewski 1982_ | Table 2, p. 4, row 12 |  |
-| Phase transition | 1680 K | 1680 | congruent melting: L -> FeSi; _L: Si 0.5; FeSi: Si 0.5_ | model | [2] Yuan 2014 | Table 2, p. 4, row 7 |  |
-| Phase transition | 1683 K | 1683 | congruent melting: L -> FeSi; _L: Si 0.5; FeSi: Si 0.5_ | experimental | [2] Yuan 2014; _cites Kubaschewski 1982_ | Table 2, p. 4, row 8 |  |
+| Phase transition | 1273.15 K | 1273.15 | other | experimental | [3] Ohnuma 2012 | p. 5; `ORC-AWMHS4KSBC.0b06db` | “At 1 000°C, two singular points without a composition gap were identified, which suggests that the equilibria among bcc phases at 1 000°C consist of A2/B2 at 15.2 at.% Si and B2/D03 at 18.4 at.% Si second-order transitions without a miscibility gap.” |
+| Phase transition | 1484 K | 1484 | congruent melting: L -> Fe2Si; _L: Si 0.333333; Fe2Si: Si 0.333333_ | model | [2] Yuan 2014 | Table 2, p. 4, row 3; `ORC-UPAMQ3ZUMB` |  |
+| Phase transition | 1485 K | 1485 | congruent melting: L -> Fe2Si; _L: Si 0.333333; Fe2Si: Si 0.333333_ | experimental | [2] Yuan 2014; _cites Kubaschewski 1982_ | Table 2, p. 4, row 4; `ORC-OFSAMF6HFW` |  |
+| Phase transition | 1487 K | 1487 | congruent melting: L -> FeSi2_H; _L: Si 0.7; FeSi2_H: Si 0.7_ | model | [2] Yuan 2014 | Table 2, p. 4, row 11; `ORC-Z7VPIFOB6E` |  |
+| Phase transition | 1493 K | 1493 | congruent melting: L -> FeSi2_H; _L: Si 0.7; FeSi2_H: Si 0.7_ | experimental | [2] Yuan 2014; _cites Kubaschewski 1982_ | Table 2, p. 4, row 12; `ORC-G5OJNYC5LF` |  |
+| Phase transition | 1680 K | 1680 | congruent melting: L -> FeSi; _L: Si 0.5; FeSi: Si 0.5_ | model | [2] Yuan 2014 | Table 2, p. 4, row 7; `ORC-UUNWFXA47J` |  |
+| Phase transition | 1683 K | 1683 | congruent melting: L -> FeSi; _L: Si 0.5; FeSi: Si 0.5_ | experimental | [2] Yuan 2014; _cites Kubaschewski 1982_ | Table 2, p. 4, row 8; `ORC-NJE2OKNJDX` |  |
 
 ### Phase equilibrium (9)
 
@@ -141,15 +141,15 @@ Table: Phase equilibrium, Fe–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase assemblage |  | 973.15 | single phase; _alloy: Fe 0.86, Si 0.14_ | experimental | [3] Ohnuma 2012 | Table 1, p. 2, row 3 |  |
-| Phase assemblage |  | 1073.15 | single phase; _alloy: Fe 0.845, Si 0.155_ | experimental | [3] Ohnuma 2012 | Table 1, p. 2, row 2 |  |
-| Phase assemblage |  | 1173.15 | single phase; _alloy: Fe 0.83, Si 0.17_ | experimental | [3] Ohnuma 2012 | Table 1, p. 2, row 1 |  |
-| Phase composition |  | 873.15 | A2 (B2) + D03 + D0₃; _A2 (B2): Fe 0.888, Si 0.112; D03: Fe 0.866, Si 0.134; D0₃: Fe 0.866, Si 0.134_ | experimental | [3] Ohnuma 2012 | Table 1, p. 2, row 5 |  |
-| Phase composition |  | 923.15 | A2 (B2) + D03 + D0₃; _A2 (B2): Fe 0.889, Si 0.111; D03: Fe 0.862, Si 0.138; D0₃: Fe 0.862, Si 0.138_ | experimental | [3] Ohnuma 2012 | Table 1, p. 2, row 4 |  |
-| Phase composition |  | 973.15 | B2 + D03; _B2: Fe 0.88, Si 0.12; D03: Fe 0.856, Si 0.144_ | experimental | [3] Ohnuma 2012 | Table 2, p. 3, row 4 |  |
-| Phase composition |  | 1073.15 | A2/B2 + B2 + D03; _A2/B2: Fe 0.875, Si 0.125; B2: Fe 0.849, Si 0.151; D03: Fe 0.842, Si 0.158_ | experimental | [3] Ohnuma 2012 | Table 2, p. 3, row 3 |  |
-| Phase composition |  | 1173.15 | B2 + D03; _B2: Fe 0.835, Si 0.165; D03: Fe 0.83, Si 0.17_ | experimental | [3] Ohnuma 2012 | Table 2, p. 3, row 2 |  |
-| Phase composition |  | 1273.15 | A2/B2 + B2/ D03 + B2/D03; _A2/B2: Fe 0.848, Si 0.152; B2/ D03: Fe 0.816, Si 0.184; B2/D03: Fe 0.816, Si 0.184_ | experimental | [3] Ohnuma 2012 | Table 2, p. 3, row 1 |  |
+| Phase assemblage |  | 973.15 | single phase; _alloy: Fe 0.86, Si 0.14_ | experimental | [3] Ohnuma 2012 | Table 1, p. 2, row 3; `ORC-U3IHYMVEV2` |  |
+| Phase assemblage |  | 1073.15 | single phase; _alloy: Fe 0.845, Si 0.155_ | experimental | [3] Ohnuma 2012 | Table 1, p. 2, row 2; `ORC-2UJSXE6OI4` |  |
+| Phase assemblage |  | 1173.15 | single phase; _alloy: Fe 0.83, Si 0.17_ | experimental | [3] Ohnuma 2012 | Table 1, p. 2, row 1; `ORC-IUAHB3CIGK` |  |
+| Phase composition |  | 873.15 | A2 (B2) + D03 + D0₃; _A2 (B2): Fe 0.888, Si 0.112; D03: Fe 0.866, Si 0.134; D0₃: Fe 0.866, Si 0.134_ | experimental | [3] Ohnuma 2012 | Table 1, p. 2, row 5; `ORC-GUUEAPWZBB` |  |
+| Phase composition |  | 923.15 | A2 (B2) + D03 + D0₃; _A2 (B2): Fe 0.889, Si 0.111; D03: Fe 0.862, Si 0.138; D0₃: Fe 0.862, Si 0.138_ | experimental | [3] Ohnuma 2012 | Table 1, p. 2, row 4; `ORC-LNUB4VHZGQ` |  |
+| Phase composition |  | 973.15 | B2 + D03; _B2: Fe 0.88, Si 0.12; D03: Fe 0.856, Si 0.144_ | experimental | [3] Ohnuma 2012 | Table 2, p. 3, row 4; `ORC-3TG67SXCZO` |  |
+| Phase composition |  | 1073.15 | A2/B2 + B2 + D03; _A2/B2: Fe 0.875, Si 0.125; B2: Fe 0.849, Si 0.151; D03: Fe 0.842, Si 0.158_ | experimental | [3] Ohnuma 2012 | Table 2, p. 3, row 3; `ORC-R4ZLSYQD46` |  |
+| Phase composition |  | 1173.15 | B2 + D03; _B2: Fe 0.835, Si 0.165; D03: Fe 0.83, Si 0.17_ | experimental | [3] Ohnuma 2012 | Table 2, p. 3, row 2; `ORC-FG2OOESN2L` |  |
+| Phase composition |  | 1273.15 | A2/B2 + B2/ D03 + B2/D03; _A2/B2: Fe 0.848, Si 0.152; B2/ D03: Fe 0.816, Si 0.184; B2/D03: Fe 0.816, Si 0.184_ | experimental | [3] Ohnuma 2012 | Table 2, p. 3, row 1; `ORC-ZY632DM7QA` |  |
 
 ## Sources
 
@@ -216,4 +216,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

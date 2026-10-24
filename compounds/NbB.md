@@ -14,14 +14,14 @@ Table: Enthalpy of formation of NbB reported in the literature (8)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -78.7 kJ/mol-atom | NbB |  | model |  | [B–Nb](https://data.orchid-project.org/systems/B-NB.html) | [1] Nakama 2009; _cites Witusiewicz 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.02.030) | Table 4, p. 7, row 13 |  |
-| -67.9 kJ/mol-atom | NbB |  | model |  | [B–Nb](https://data.orchid-project.org/systems/B-NB.html) | [1] Nakama 2009; _cites Witusiewicz 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.02.030) | Table 4, p. 7, row 20 |  |
-| -82.6 kJ/mol-atom | NbB | 0 | DFT | First principles | [B–Nb](https://data.orchid-project.org/systems/B-NB.html) | [1] Nakama 2009 | Table 4, p. 7, row 18 |  |
-| -82.4 kJ/mol-atom | NbB | 0 | DFT | First principles | [B–Nb](https://data.orchid-project.org/systems/B-NB.html) | [1] Nakama 2009 | Table 4, p. 7, row 17 |  |
-| -82.2 kJ/mol-atom | NbB | 0 | DFT | First principles | [B–Nb](https://data.orchid-project.org/systems/B-NB.html) | [1] Nakama 2009 | Table 4, p. 7, row 16 |  |
-| -79.4 kJ/mol-atom | NbB | 0 | DFT | First principles | [B–Nb](https://data.orchid-project.org/systems/B-NB.html) | [1] Nakama 2009 | Table 4, p. 7, row 15 |  |
-| -79.2 kJ/mol-atom | NbB | 0 | DFT | First principles | [B–Nb](https://data.orchid-project.org/systems/B-NB.html) | [1] Nakama 2009 | Table 4, p. 7, row 14 |  |
-| -78.7 kJ/mol-atom | NbB | 0 | DFT | First principles | [B–Nb](https://data.orchid-project.org/systems/B-NB.html) | [1] Nakama 2009 | Table 4, p. 7, row 12 |  |
+| -78.7 kJ/mol-atom | NbB |  | model |  | [B–Nb](https://data.orchid-project.org/systems/B-NB.html) | [1] Nakama 2009; _cites Witusiewicz 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.02.030) | Table 4, p. 7, row 13; `ORC-BVDOQJWF5X.dd9159` |  |
+| -67.9 kJ/mol-atom | NbB |  | model |  | [B–Nb](https://data.orchid-project.org/systems/B-NB.html) | [1] Nakama 2009; _cites Witusiewicz 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.02.030) | Table 4, p. 7, row 20; `ORC-BET4M7LXLW.adac01` |  |
+| -82.6 kJ/mol-atom | NbB | 0 | DFT | First principles | [B–Nb](https://data.orchid-project.org/systems/B-NB.html) | [1] Nakama 2009 | Table 4, p. 7, row 18; `ORC-2BUI7LDO7M.50b4cb` |  |
+| -82.4 kJ/mol-atom | NbB | 0 | DFT | First principles | [B–Nb](https://data.orchid-project.org/systems/B-NB.html) | [1] Nakama 2009 | Table 4, p. 7, row 17; `ORC-IXSRASZFSQ.e7988d` |  |
+| -82.2 kJ/mol-atom | NbB | 0 | DFT | First principles | [B–Nb](https://data.orchid-project.org/systems/B-NB.html) | [1] Nakama 2009 | Table 4, p. 7, row 16; `ORC-AMHAZHC3JG.b896d5` |  |
+| -79.4 kJ/mol-atom | NbB | 0 | DFT | First principles | [B–Nb](https://data.orchid-project.org/systems/B-NB.html) | [1] Nakama 2009 | Table 4, p. 7, row 15; `ORC-DYDCD5U2H3.351c3e` |  |
+| -79.2 kJ/mol-atom | NbB | 0 | DFT | First principles | [B–Nb](https://data.orchid-project.org/systems/B-NB.html) | [1] Nakama 2009 | Table 4, p. 7, row 14; `ORC-RQL5WHG5UA.11ab6c` |  |
+| -78.7 kJ/mol-atom | NbB | 0 | DFT | First principles | [B–Nb](https://data.orchid-project.org/systems/B-NB.html) | [1] Nakama 2009 | Table 4, p. 7, row 12; `ORC-5CJQHQAMZU.7c1178` |  |
 
 ### Uncertainty budget
 
@@ -104,4 +104,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

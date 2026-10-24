@@ -32,8 +32,8 @@ Table: Invariant reactions reported in the literature for the Gd system (2)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1508.15 | polymorphic: βGd ↔ αGd | αGd: Gd 1 | model | [1] Wang 2009 | Table 3, p. 4, row 5 |  |
-| 1508.15 | polymorphic: βGd ↔ αGd | αGd: Gd 1 | experimental | [1] Wang 2009; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02869227) | Table 3, p. 4, row 4 |  |
+| 1508.15 | polymorphic: βGd ↔ αGd | αGd: Gd 1 | model | [1] Wang 2009 | Table 3, p. 4, row 5; `ORC-DTJGNMJPNN` |  |
+| 1508.15 | polymorphic: βGd ↔ αGd | αGd: Gd 1 | experimental | [1] Wang 2009; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02869227) | Table 3, p. 4, row 4; `ORC-JLOUOP67BN` |  |
 
 ## Formation enthalpies
 
@@ -43,20 +43,20 @@ Table: Enthalpies of formation, Gd system (14)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Gd3Ru |  | -27.175 kJ/mol-atom |  | DFT |  |  | [2] Kardellass 2023; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table 2, p. 7, row 15 |  |
-| Gd3Ru |  | -26.599 kJ/mol-atom |  | model |  |  | [2] Kardellass 2023; _cites Debski 2014_ [doi](https://doi.org/10.2478/amm-2014-0228) | Table 2, p. 7, row 13 |  |
-| Gd3Ru |  | -23.258 kJ/mol-atom |  | model |  |  | [2] Kardellass 2023; _cites Zhang 2007_ [doi](https://doi.org/10.1016/j.cplett.2007.06.031) | Table 2, p. 7, row 14 |  |
-| Gd3Ru |  | -21.447 kJ/mol-atom |  | model |  |  | [2] Kardellass 2023 | Table 2, p. 7, row 10 |  |
-| Gd3Ru |  | -15.612 kJ/mol-atom |  | model |  |  | [2] Kardellass 2023 | Table 2, p. 7, row 11 |  |
-| Gd3Ru |  | -15.131 kJ/mol-atom |  | model |  |  | [2] Kardellass 2023 | Table 2, p. 7, row 12 |  |
-| GdMg |  | -15.5 kJ/mol-atom | 298.15 | experimental |  |  | [3] Hampl 2013; _cites ref. 2003Cac_ | Table 6, p. 10, row 17 |  |
-| GdMg |  | -7.3 kJ/mol-atom | 298.15 | experimental |  |  | [3] Hampl 2013; _cites ref. 1967Ogr_ | Table 6, p. 10, row 15 |  |
-| RMg |  | -17 kJ/mol-atom | 298.15 | experimental |  |  | [3] Hampl 2013; _cites ref. 1972Pah_ | Table 6, p. 10, row 16 |  |
-| RMg |  | -15.5 kJ/mol-atom | 298.15 | experimental |  |  | [3] Hampl 2013; _cites ref. 2003Cac_ | Table 6, p. 10, row 17 |  |
-| RMg |  | -7.3 kJ/mol-atom | 298.15 | experimental |  |  | [3] Hampl 2013; _cites ref. 1967Ogr_ | Table 6, p. 10, row 15 |  |
-| RMg2 |  | -19.8 kJ/mol-atom | 298.15 | experimental |  |  | [3] Hampl 2013; _cites ref. 1972Pah_ | Table 6, p. 10, row 16 |  |
-| RMg3 |  | -19 kJ/mol-atom | 298.15 | experimental |  |  | [3] Hampl 2013; _cites ref. 1972Pah_ | Table 6, p. 10, row 16 |  |
-| RMg5 |  | -17 kJ/mol-atom | 298.15 | experimental |  |  | [3] Hampl 2013; _cites ref. 1972Pah_ | Table 6, p. 10, row 16 |  |
+| Gd3Ru |  | -27.175 kJ/mol-atom |  | DFT |  |  | [2] Kardellass 2023; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table 2, p. 7, row 15; `ORC-P7EA2ELA5Y.2e5b96` |  |
+| Gd3Ru |  | -26.599 kJ/mol-atom |  | model |  |  | [2] Kardellass 2023; _cites Debski 2014_ [doi](https://doi.org/10.2478/amm-2014-0228) | Table 2, p. 7, row 13; `ORC-INS43BVSYP.81a26e` |  |
+| Gd3Ru |  | -23.258 kJ/mol-atom |  | model |  |  | [2] Kardellass 2023; _cites Zhang 2007_ [doi](https://doi.org/10.1016/j.cplett.2007.06.031) | Table 2, p. 7, row 14; `ORC-75YMFKH4U6.9e3b96` |  |
+| Gd3Ru |  | -21.447 kJ/mol-atom |  | model |  |  | [2] Kardellass 2023 | Table 2, p. 7, row 10; `ORC-LBYRUHMM2U.b72fdd` |  |
+| Gd3Ru |  | -15.612 kJ/mol-atom |  | model |  |  | [2] Kardellass 2023 | Table 2, p. 7, row 11; `ORC-WIIK4ASMKH.908d4f` |  |
+| Gd3Ru |  | -15.131 kJ/mol-atom |  | model |  |  | [2] Kardellass 2023 | Table 2, p. 7, row 12; `ORC-XEZDK76DL3.56a7bb` |  |
+| GdMg |  | -15.5 kJ/mol-atom | 298.15 | experimental |  |  | [3] Hampl 2013; _cites ref. 2003Cac_ | Table 6, p. 10, row 17; `ORC-V5MBZXEJM6.f42d1e` |  |
+| GdMg |  | -7.3 kJ/mol-atom | 298.15 | experimental |  |  | [3] Hampl 2013; _cites ref. 1967Ogr_ | Table 6, p. 10, row 15; `ORC-JTEHNOY3U4.01f934` |  |
+| RMg |  | -17 kJ/mol-atom | 298.15 | experimental |  |  | [3] Hampl 2013; _cites ref. 1972Pah_ | Table 6, p. 10, row 16; `ORC-JPTAUTJIFP.a93218` |  |
+| RMg |  | -15.5 kJ/mol-atom | 298.15 | experimental |  |  | [3] Hampl 2013; _cites ref. 2003Cac_ | Table 6, p. 10, row 17; `ORC-V5MBZXEJM6.c9345c` |  |
+| RMg |  | -7.3 kJ/mol-atom | 298.15 | experimental |  |  | [3] Hampl 2013; _cites ref. 1967Ogr_ | Table 6, p. 10, row 15; `ORC-JTEHNOY3U4.a650ec` |  |
+| RMg2 |  | -19.8 kJ/mol-atom | 298.15 | experimental |  |  | [3] Hampl 2013; _cites ref. 1972Pah_ | Table 6, p. 10, row 16; `ORC-JPTAUTJIFP.759645` |  |
+| RMg3 |  | -19 kJ/mol-atom | 298.15 | experimental |  |  | [3] Hampl 2013; _cites ref. 1972Pah_ | Table 6, p. 10, row 16; `ORC-JPTAUTJIFP.76d058` |  |
+| RMg5 |  | -17 kJ/mol-atom | 298.15 | experimental |  |  | [3] Hampl 2013; _cites ref. 1972Pah_ | Table 6, p. 10, row 16; `ORC-JPTAUTJIFP.b50294` |  |
 
 ## Other properties
 
@@ -66,13 +66,13 @@ Table: Phase transition, Gd system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1508 K | 1508 | polymorphic: Gd; _alloy: Gd 1_ | model | [4] Norgren 2000; _cites Saunders 1998_ | Table 1, p. 4, row 12 |  |
-| Phase transition | 1508 K | 1508 | βGd -> αGd; _βGd: _ | model | [5] Cui 2013 | Table 1, p. 2, row 6 |  |
-| Phase transition | 1508 K | 1508 | βGd -> αGd; _βGd: _ | experimental | [5] Cui 2013; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 1, p. 2, row 4 |  |
-| Phase transition | 1508.15 K | 1508.15 | polymorphic: (βGd) \<=> (αGd); _(βGd): Gd 1_ | model | [6] Boukideur 2020 | Table 3, p. 4, row 30 |  |
-| Phase transition | 1508.15 K | 1508.15 | polymorphic: (βGd) \<=> (αGd); _(βGd): Gd 1_ | experimental | [6] Boukideur 2020; _cites Palenzona 1990_ [doi](https://doi.org/10.1007/bf02841585) | Table 3, p. 4, row 31 |  |
-| Phase transition | 1535 K | 1535 | polymorphic: Gd; _alloy: Gd 1_ | model | [4] Norgren 2000; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 1, p. 4, row 11 |  |
-| Phase transition | 1536 K | 1536 | polymorphic: Gd; _alloy: Gd 1_ | model | [4] Norgren 2000; _cites Huasen 1995_ | Table 1, p. 4, row 13 |  |
+| Phase transition | 1508 K | 1508 | polymorphic: Gd; _alloy: Gd 1_ | model | [4] Norgren 2000; _cites Saunders 1998_ | Table 1, p. 4, row 12; `ORC-E2A7DMZQFO` |  |
+| Phase transition | 1508 K | 1508 | βGd -> αGd; _βGd: _ | model | [5] Cui 2013 | Table 1, p. 2, row 6; `ORC-3WJBBPRNWL` |  |
+| Phase transition | 1508 K | 1508 | βGd -> αGd; _βGd: _ | experimental | [5] Cui 2013; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 1, p. 2, row 4; `ORC-V3QYOWMKGK` |  |
+| Phase transition | 1508.15 K | 1508.15 | polymorphic: (βGd) \<=> (αGd); _(βGd): Gd 1_ | model | [6] Boukideur 2020 | Table 3, p. 4, row 30; `ORC-3C2CVCGPNP` |  |
+| Phase transition | 1508.15 K | 1508.15 | polymorphic: (βGd) \<=> (αGd); _(βGd): Gd 1_ | experimental | [6] Boukideur 2020; _cites Palenzona 1990_ [doi](https://doi.org/10.1007/bf02841585) | Table 3, p. 4, row 31; `ORC-LATJI4OBAT` |  |
+| Phase transition | 1535 K | 1535 | polymorphic: Gd; _alloy: Gd 1_ | model | [4] Norgren 2000; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 1, p. 4, row 11; `ORC-NN3U47DDXE` |  |
+| Phase transition | 1536 K | 1536 | polymorphic: Gd; _alloy: Gd 1_ | model | [4] Norgren 2000; _cites Huasen 1995_ | Table 1, p. 4, row 13; `ORC-ENM44OOULP` |  |
 
 ### Formation (6)
 
@@ -80,12 +80,12 @@ Table: Formation, Gd system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy of formation; _printed: ΔSf_ | -0.139 J/mol-atom/K |  | Gd3Ru; _alloy: Gd 1_ | model | [2] Kardellass 2023 | Table 2, p. 7, row 10 |  |
-| Entropy of formation; _printed: ΔSf_ | -0.056 J/mol-atom/K |  | Gd3Ru; _alloy: Gd 1_ | model | [2] Kardellass 2023 | Table 2, p. 7, row 11 |  |
-| Entropy of formation; _printed: ΔSf_ | -0.329 J/mol-atom/K |  | Gd3Ru; _alloy: Gd 1_ | model | [2] Kardellass 2023 | Table 2, p. 7, row 12 |  |
-| Gibbs energy of formation; _printed: ΔGf at 1000 K_ | -21.307 kJ/mol-atom | 1000 | Gd3Ru; _alloy: Gd 1_ | model | [2] Kardellass 2023 | Table 2, p. 7, row 10 |  |
-| Gibbs energy of formation; _printed: ΔGf at 1000 K_ | -15.555 kJ/mol-atom | 1000 | Gd3Ru; _alloy: Gd 1_ | model | [2] Kardellass 2023 | Table 2, p. 7, row 11 |  |
-| Gibbs energy of formation; _printed: ΔGf at 1000 K_ | -14.802 kJ/mol-atom | 1000 | Gd3Ru; _alloy: Gd 1_ | model | [2] Kardellass 2023 | Table 2, p. 7, row 12 |  |
+| Entropy of formation; _printed: ΔSf_ | -0.139 J/mol-atom/K |  | Gd3Ru; _alloy: Gd 1_ | model | [2] Kardellass 2023 | Table 2, p. 7, row 10; `ORC-LBYRUHMM2U.21cf94` |  |
+| Entropy of formation; _printed: ΔSf_ | -0.056 J/mol-atom/K |  | Gd3Ru; _alloy: Gd 1_ | model | [2] Kardellass 2023 | Table 2, p. 7, row 11; `ORC-WIIK4ASMKH.4327aa` |  |
+| Entropy of formation; _printed: ΔSf_ | -0.329 J/mol-atom/K |  | Gd3Ru; _alloy: Gd 1_ | model | [2] Kardellass 2023 | Table 2, p. 7, row 12; `ORC-XEZDK76DL3.68a8ed` |  |
+| Gibbs energy of formation; _printed: ΔGf at 1000 K_ | -21.307 kJ/mol-atom | 1000 | Gd3Ru; _alloy: Gd 1_ | model | [2] Kardellass 2023 | Table 2, p. 7, row 10; `ORC-LBYRUHMM2U.3ba680` |  |
+| Gibbs energy of formation; _printed: ΔGf at 1000 K_ | -15.555 kJ/mol-atom | 1000 | Gd3Ru; _alloy: Gd 1_ | model | [2] Kardellass 2023 | Table 2, p. 7, row 11; `ORC-WIIK4ASMKH.72ff60` |  |
+| Gibbs energy of formation; _printed: ΔGf at 1000 K_ | -14.802 kJ/mol-atom | 1000 | Gd3Ru; _alloy: Gd 1_ | model | [2] Kardellass 2023 | Table 2, p. 7, row 12; `ORC-XEZDK76DL3.315c59` |  |
 
 ### Crystal structure (6)
 
@@ -93,12 +93,12 @@ Table: Crystal structure, Gd system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 4.05 Å | 297.15 | (βGd); _(βGd): Gd 1_ | unspecified | [7] Alcock 1986; _cites ref. 86Gsc2_ | Table 1, p. 3, row 2 |  |
-| Lattice a | 3.6336 Å | 298.15 | (αGd); _(αGd): Gd 1_ | unspecified | [7] Alcock 1986; _cites ref. 86Gsc2_ | Table 1, p. 3, row 1 |  |
-| Lattice a | 4.05 Å | 298.15 | bcc(Gd); _alloy: Gd 1_ | experimental | [8] Cui 2023; _cites Miller 1964_ | Table 1, p. 2, row 1 |  |
-| Lattice a | 6.36 Å | 298.15 | hcp(Gd); _alloy: Gd 1_ | experimental | [8] Cui 2023; _cites Wakabayashi 1968_ [doi](https://doi.org/10.1143/jpsj.25.227) | Table 1, p. 2, row 2 |  |
-| Lattice c | 5.781 Å | 298.15 | (αGd); _(αGd): Gd 1_ | unspecified | [7] Alcock 1986; _cites ref. 86Gsc2_ | Table 1, p. 3, row 1 |  |
-| Lattice c | 5.78 Å | 298.15 | hcp(Gd); _alloy: Gd 1_ | experimental | [8] Cui 2023; _cites Wakabayashi 1968_ [doi](https://doi.org/10.1143/jpsj.25.227) | Table 1, p. 2, row 2 |  |
+| Lattice a | 4.05 Å | 297.15 | (βGd); _(βGd): Gd 1_ | unspecified | [7] Alcock 1986; _cites ref. 86Gsc2_ | Table 1, p. 3, row 2; `ORC-C7RXU6CLR3` |  |
+| Lattice a | 3.6336 Å | 298.15 | (αGd); _(αGd): Gd 1_ | unspecified | [7] Alcock 1986; _cites ref. 86Gsc2_ | Table 1, p. 3, row 1; `ORC-UNKXTPSCFH.5237ed` |  |
+| Lattice a | 4.05 Å | 298.15 | bcc(Gd); _alloy: Gd 1_ | experimental | [8] Cui 2023; _cites Miller 1964_ | Table 1, p. 2, row 1; `ORC-PFG5GJKHRP` |  |
+| Lattice a | 6.36 Å | 298.15 | hcp(Gd); _alloy: Gd 1_ | experimental | [8] Cui 2023; _cites Wakabayashi 1968_ [doi](https://doi.org/10.1143/jpsj.25.227) | Table 1, p. 2, row 2; `ORC-OJYBRIF3RZ.3c61a8` |  |
+| Lattice c | 5.781 Å | 298.15 | (αGd); _(αGd): Gd 1_ | unspecified | [7] Alcock 1986; _cites ref. 86Gsc2_ | Table 1, p. 3, row 1; `ORC-UNKXTPSCFH.921f6f` |  |
+| Lattice c | 5.78 Å | 298.15 | hcp(Gd); _alloy: Gd 1_ | experimental | [8] Cui 2023; _cites Wakabayashi 1968_ [doi](https://doi.org/10.1143/jpsj.25.227) | Table 1, p. 2, row 2; `ORC-OJYBRIF3RZ.aee03b` |  |
 
 ## Sources
 
@@ -148,4 +148,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

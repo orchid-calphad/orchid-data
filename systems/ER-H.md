@@ -48,21 +48,21 @@ Table: Crystal structure, Er–H system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 5.123 Å |  | β-ErH2; _alloy: H 0.666667_ | experimental | [1] Mascaro 2013; _cites Pebler 1962_ [doi](https://doi.org/10.1021/j100807a033) | Table 1, p. 2, row 2 |  |
-| Lattice a | 3.56 Å | 298.15 | α\_Er; _α\_Er: Er 0.839, H 0.161; αEr: Er 0.839, H 0.161_ | experimental | [1] Mascaro 2013 | Table 3, p. 4, row 1 |  |
-| Lattice a | 3.566 Å | 298.15 | α\_Er; _α\_Er: Er 0.6, H 0.4; αEr: Er 0.6, H 0.4_ | experimental | [1] Mascaro 2013 | Table 3, p. 4, row 5 |  |
-| Lattice a | 5.119 Å | 298.15 | β-ErH2; _β-ErH2: Er 0.3, H 0.7_ | experimental | [1] Mascaro 2013 | Table 3, p. 4, row 2 |  |
-| Lattice a | 5.124 Å | 298.15 | β-ErH2; _β-ErH2: Er 0.349, H 0.651_ | experimental | [1] Mascaro 2013 | Table 3, p. 4, row 7 |  |
-| Lattice a | 5.122 Å | 298.15 | β-ErH2; _β-ErH2: Er 0.39, H 0.61_ | experimental | [1] Mascaro 2013 | Table 3, p. 4, row 8 |  |
-| Lattice a | 5.125 Å | 298.15 | β-ErH2; _β-ErH2: Er 0.373, H 0.627_ | experimental | [1] Mascaro 2013 | Table 3, p. 4, row 6 |  |
-| Lattice a | 6.264 Å | 298.15 | γ-ErH3; _γ-ErH3: Er 0.275, H 0.725_ | experimental | [1] Mascaro 2013 | Table 3, p. 4, row 10 |  |
-| Lattice a | 6.272 Å | 298.15 | γ-ErH3; _alloy: H 0.75_ | experimental | [1] Mascaro 2013; _cites Pebler 1962_ [doi](https://doi.org/10.1021/j100807a033) | Table 1, p. 2, row 3 |  |
-| Lattice a | 6.268 Å | 298.15 | γ-ErH3; _γ-ErH3: Er 0.313, H 0.687_ | experimental | [1] Mascaro 2013 | Table 3, p. 4, row 9 |  |
-| Lattice c | 5.581 Å | 298.15 | α\_Er; _α\_Er: Er 0.839, H 0.161; αEr: Er 0.839, H 0.161_ | experimental | [1] Mascaro 2013 | Table 3, p. 4, row 1 |  |
-| Lattice c | 5.602 Å | 298.15 | α\_Er; _α\_Er: Er 0.6, H 0.4; αEr: Er 0.6, H 0.4_ | experimental | [1] Mascaro 2013 | Table 3, p. 4, row 5 |  |
-| Lattice c | 6.52 Å | 298.15 | γ-ErH3; _γ-ErH3: Er 0.275, H 0.725_ | experimental | [1] Mascaro 2013 | Table 3, p. 4, row 10 |  |
-| Lattice c | 6.526 Å | 298.15 | γ-ErH3; _alloy: H 0.75_ | experimental | [1] Mascaro 2013; _cites Pebler 1962_ [doi](https://doi.org/10.1021/j100807a033) | Table 1, p. 2, row 3 |  |
-| Lattice c | 6.525 Å | 298.15 | γ-ErH3; _γ-ErH3: Er 0.313, H 0.687_ | experimental | [1] Mascaro 2013 | Table 3, p. 4, row 9 |  |
+| Lattice a | 5.123 Å |  | β-ErH2; _alloy: H 0.666667_ | experimental | [1] Mascaro 2013; _cites Pebler 1962_ [doi](https://doi.org/10.1021/j100807a033) | Table 1, p. 2, row 2; `ORC-OMHQS477Y6` |  |
+| Lattice a | 3.56 Å | 298.15 | α\_Er; _α\_Er: Er 0.839, H 0.161; αEr: Er 0.839, H 0.161_ | experimental | [1] Mascaro 2013 | Table 3, p. 4, row 1; `ORC-4GQDV7O3F7.990cef` |  |
+| Lattice a | 3.566 Å | 298.15 | α\_Er; _α\_Er: Er 0.6, H 0.4; αEr: Er 0.6, H 0.4_ | experimental | [1] Mascaro 2013 | Table 3, p. 4, row 5; `ORC-D6AHHLF6DN.62b6eb` |  |
+| Lattice a | 5.119 Å | 298.15 | β-ErH2; _β-ErH2: Er 0.3, H 0.7_ | experimental | [1] Mascaro 2013 | Table 3, p. 4, row 2; `ORC-EXSVPQMEWD` |  |
+| Lattice a | 5.124 Å | 298.15 | β-ErH2; _β-ErH2: Er 0.349, H 0.651_ | experimental | [1] Mascaro 2013 | Table 3, p. 4, row 7; `ORC-O3CX7AAAMU` |  |
+| Lattice a | 5.122 Å | 298.15 | β-ErH2; _β-ErH2: Er 0.39, H 0.61_ | experimental | [1] Mascaro 2013 | Table 3, p. 4, row 8; `ORC-QG3KV6SEXI` |  |
+| Lattice a | 5.125 Å | 298.15 | β-ErH2; _β-ErH2: Er 0.373, H 0.627_ | experimental | [1] Mascaro 2013 | Table 3, p. 4, row 6; `ORC-ZFRFQWTFSA` |  |
+| Lattice a | 6.264 Å | 298.15 | γ-ErH3; _γ-ErH3: Er 0.275, H 0.725_ | experimental | [1] Mascaro 2013 | Table 3, p. 4, row 10; `ORC-6USEOM7IC7.b1c357` |  |
+| Lattice a | 6.272 Å | 298.15 | γ-ErH3; _alloy: H 0.75_ | experimental | [1] Mascaro 2013; _cites Pebler 1962_ [doi](https://doi.org/10.1021/j100807a033) | Table 1, p. 2, row 3; `ORC-FILN3BMDFM.e5ecaf` |  |
+| Lattice a | 6.268 Å | 298.15 | γ-ErH3; _γ-ErH3: Er 0.313, H 0.687_ | experimental | [1] Mascaro 2013 | Table 3, p. 4, row 9; `ORC-ZCXDOF23HK.4bcc8a` |  |
+| Lattice c | 5.581 Å | 298.15 | α\_Er; _α\_Er: Er 0.839, H 0.161; αEr: Er 0.839, H 0.161_ | experimental | [1] Mascaro 2013 | Table 3, p. 4, row 1; `ORC-4GQDV7O3F7.378ec9` |  |
+| Lattice c | 5.602 Å | 298.15 | α\_Er; _α\_Er: Er 0.6, H 0.4; αEr: Er 0.6, H 0.4_ | experimental | [1] Mascaro 2013 | Table 3, p. 4, row 5; `ORC-D6AHHLF6DN.53ce21` |  |
+| Lattice c | 6.52 Å | 298.15 | γ-ErH3; _γ-ErH3: Er 0.275, H 0.725_ | experimental | [1] Mascaro 2013 | Table 3, p. 4, row 10; `ORC-6USEOM7IC7.c9f5e9` |  |
+| Lattice c | 6.526 Å | 298.15 | γ-ErH3; _alloy: H 0.75_ | experimental | [1] Mascaro 2013; _cites Pebler 1962_ [doi](https://doi.org/10.1021/j100807a033) | Table 1, p. 2, row 3; `ORC-FILN3BMDFM.f958af` |  |
+| Lattice c | 6.525 Å | 298.15 | γ-ErH3; _γ-ErH3: Er 0.313, H 0.687_ | experimental | [1] Mascaro 2013 | Table 3, p. 4, row 9; `ORC-ZCXDOF23HK.4f34b0` |  |
 
 ## Sources
 
@@ -127,4 +127,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -47,12 +47,12 @@ Table: Invariant reactions reported in the literature for the Mo–Y system (6)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1771.15 | L -> αY + Mo | L: Y 0.8972; αY: Y 0.9981 | experimental | [1] Chan 2010; _cites Gschneidner 1961_ | Table 4, p. 6, row 3 |  |
-| 1771.15 | eutectic |  | experimental | [1] Chan 2010; _cites Lundin 1959_ | p. 2 | “The purity of the molybdenum was not specified but the eutectic temperature given by Lundin\[14\] was 1498 °C which was 4 °C below the adjusted melting” |
-| 1751.15 | βY -> L + αY |  | unspecified | [1] Chan 2010; _cites Massalski 1990_ | Table 4, p. 6, row 1 |  |
-| 1750.15 | βY -> L + αY | βY: Y 0.9995; L: Y 0.9792; αY: Y 0.9998 | model | [1] Chan 2010 | Table 4, p. 6, row 2 |  |
-| 1719.15 | L -> αY + Mo | L: Y 0.9569; αY: Y 0.9996; Mo: Y 9.000e-4 | model | [1] Chan 2010 | Table 4, p. 6, row 5 |  |
-| 1703.15 | L -> αY + Mo | L: Y 0.9; αY: Y 1; Mo: Y 0 | unspecified | [1] Chan 2010; _cites Massalski 1990_ | Table 4, p. 6, row 4 |  |
+| 1771.15 | L -> αY + Mo | L: Y 0.8972; αY: Y 0.9981 | experimental | [1] Chan 2010; _cites Gschneidner 1961_ | Table 4, p. 6, row 3; `ORC-B6NFIOBZ5R` |  |
+| 1771.15 | eutectic |  | experimental | [1] Chan 2010; _cites Lundin 1959_ | p. 2; `ORC-IQO7LLZIRG` | “The purity of the molybdenum was not specified but the eutectic temperature given by Lundin\[14\] was 1498 °C which was 4 °C below the adjusted melting” |
+| 1751.15 | βY -> L + αY |  | unspecified | [1] Chan 2010; _cites Massalski 1990_ | Table 4, p. 6, row 1; `ORC-AXDXKJUSKT` |  |
+| 1750.15 | βY -> L + αY | βY: Y 0.9995; L: Y 0.9792; αY: Y 0.9998 | model | [1] Chan 2010 | Table 4, p. 6, row 2; `ORC-37VK4GNCGA` |  |
+| 1719.15 | L -> αY + Mo | L: Y 0.9569; αY: Y 0.9996; Mo: Y 9.000e-4 | model | [1] Chan 2010 | Table 4, p. 6, row 5; `ORC-T3HZ7WQOGU` |  |
+| 1703.15 | L -> αY + Mo | L: Y 0.9; αY: Y 1; Mo: Y 0 | unspecified | [1] Chan 2010; _cites Massalski 1990_ | Table 4, p. 6, row 4; `ORC-6NQBPA3GJ2` |  |
 
 ## Sources
 
@@ -117,4 +117,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

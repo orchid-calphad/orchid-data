@@ -28,11 +28,11 @@ Table: Invariant reactions reported in the literature for the Co–Fe–Gd syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1497 | Liq. + M17Gd2 + M23Gd6 -> M3Gd | L: Co 0.0816, Gd 0.279; liq: Co 0.0816, Gd 0.279 | model | [1] Liu 1995 | Table 7, p. 7, row 5 |  |
-| 1481 | Liq. + M5Gd -> M17Gd2 + M7Gd2 | L: Co 0.551, Gd 0.194; liq: Co 0.551, Gd 0.194 | model | [1] Liu 1995 | Table 7, p. 7, row 4 |  |
-| 1465 | Liq. + M7Gd2 -> M17Gd2 + M3Gd | L: Co 0.467, Gd 0.203; liq: Co 0.467, Gd 0.203 | model | [1] Liu 1995 | Table 7, p. 7, row 3 |  |
-| 940 | Liq. -> h.c.p. + M2Gd + MGd3 | L: Co 0.197, Gd 0.695; liq: Co 0.197, Gd 0.695 | model | [1] Liu 1995 | Table 7, p. 7, row 2 |  |
-| 915 | Liq. -> M2Gd + M3Gd4 + MGd3 | L: Co 0.331, Gd 0.635; liq: Co 0.331, Gd 0.635 | model | [1] Liu 1995 | Table 7, p. 7, row 1 |  |
+| 1497 | Liq. + M17Gd2 + M23Gd6 -> M3Gd | L: Co 0.0816, Gd 0.279; liq: Co 0.0816, Gd 0.279 | model | [1] Liu 1995 | Table 7, p. 7, row 5; `ORC-RCR4S37I7R` |  |
+| 1481 | Liq. + M5Gd -> M17Gd2 + M7Gd2 | L: Co 0.551, Gd 0.194; liq: Co 0.551, Gd 0.194 | model | [1] Liu 1995 | Table 7, p. 7, row 4; `ORC-3RRPW5C3LK` |  |
+| 1465 | Liq. + M7Gd2 -> M17Gd2 + M3Gd | L: Co 0.467, Gd 0.203; liq: Co 0.467, Gd 0.203 | model | [1] Liu 1995 | Table 7, p. 7, row 3; `ORC-YBLSE34K2J` |  |
+| 940 | Liq. -> h.c.p. + M2Gd + MGd3 | L: Co 0.197, Gd 0.695; liq: Co 0.197, Gd 0.695 | model | [1] Liu 1995 | Table 7, p. 7, row 2; `ORC-NFOWFAZK5C` |  |
+| 915 | Liq. -> M2Gd + M3Gd4 + MGd3 | L: Co 0.331, Gd 0.635; liq: Co 0.331, Gd 0.635 | model | [1] Liu 1995 | Table 7, p. 7, row 1; `ORC-6TRCEBW5TN` |  |
 
 ## Other properties
 
@@ -42,10 +42,10 @@ Table: Phase transition, Co–Fe–Gd system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 943 K | 943 | Liq. + M2Gd + MGd3 | unspecified | [1] Liu 1995 | Table 8, p. 7, row 1 |  |
-| Phase transition | 1325 K | 1325 | Liq. + M3Gd + M2Gd | unspecified | [1] Liu 1995 | Table 8, p. 7, row 2 |  |
-| Phase transition | 1462 K | 1462 | Liq. + M17Gd2 + M3Gd | unspecified | [1] Liu 1995 | Table 8, p. 7, row 3 |  |
-| Phase transition | 1500 K | 1500 | Liq. + f.c.c. + M17Gd2 | unspecified | [1] Liu 1995 | Table 8, p. 7, row 4 |  |
+| Phase transition | 943 K | 943 | Liq. + M2Gd + MGd3 | unspecified | [1] Liu 1995 | Table 8, p. 7, row 1; `ORC-SRYSNCL5UK` |  |
+| Phase transition | 1325 K | 1325 | Liq. + M3Gd + M2Gd | unspecified | [1] Liu 1995 | Table 8, p. 7, row 2; `ORC-3WCEZS646S` |  |
+| Phase transition | 1462 K | 1462 | Liq. + M17Gd2 + M3Gd | unspecified | [1] Liu 1995 | Table 8, p. 7, row 3; `ORC-QXLVC6PMUL` |  |
+| Phase transition | 1500 K | 1500 | Liq. + f.c.c. + M17Gd2 | unspecified | [1] Liu 1995 | Table 8, p. 7, row 4; `ORC-ONPXCH25BV` |  |
 
 ## Sources
 
@@ -88,4 +88,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -59,19 +59,19 @@ Table: Invariant reactions reported in the literature for the Mg–Pu system (13
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1416.15 | L2 + gas -> L1 | L2: Pu 0.993; gas: Pu 0; L1: Pu 0.107 | model | [1] Wang 2009 | Table 3, p. 4, row 11 |  |
-| 913.15 | monotectic: L2 -> L1 + εPu | L2: Pu 0.995; L1: Pu 0.077; εPu: Pu 1 | model | [1] Wang 2009 | Table 3, p. 4, row 10 |  |
-| 913.15 | monotectic: L2 -> L1 + εPu | L2: Pu 0.995; εPu: Pu 1 | experimental | [1] Wang 2009; _cites Axler 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990474-1) | Table 3, p. 4, row 9 |  |
-| 832.15 | eutectic: L1 -> (Mg) + εPu | L1: Pu 0.069; (Mg): Pu 0.037; εPu: Pu 1 | model | [1] Wang 2009 | Table 3, p. 4, row 8 |  |
-| 829.15 | eutectic: L1 -> (Mg) + εPu | L1: Pu 0.065; (Mg): Pu 0.038; εPu: Pu 1 | experimental | [1] Wang 2009; _cites Axler 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990474-1) | Table 3, p. 4, row 7 |  |
-| 826.15 | eutectic: L1 -> (Mg) + ePu |  | experimental | [1] Wang 2009; _cites Axler 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990474-1) | p. 2 | “Later, Axler et al. \[23\] determined the phase diagram in the MgPu binary system using metallography, electron microprobe, X-ray diffraction (XRD) and differential thermal analysis (DTA), where the temperature (553 ± 3 °C) of the L1 M (Mg) + ePu eutectic reaction is consistent with that (550 °C) determined by Schonfeld” |
-| 823.15 | eutectic: L1 -> (Mg) + ePu |  | experimental | [1] Wang 2009; _cites Schonfeld 1959_ | p. 2 | “Later, Axler et al. \[23\] determined the phase diagram in the MgPu binary system using metallography, electron microprobe, X-ray diffraction (XRD) and differential thermal analysis (DTA), where the temperature (553 ± 3 °C) of the L1 M (Mg) + ePu eutectic reaction is consistent with that (550 °C) determined by Schonfeld” |
-| 711.15 | peritectoid: (Mg) + δPu -> Mg6Pu | (Mg): Pu 0.02; δPu: Pu 1; Mg6Pu: Pu 0.143 | experimental | [1] Wang 2009; _cites Axler 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990474-1) | Table 3, p. 4, row 5 |  |
-| 710.15 | peritectoid: (Mg) + δPu -> Mg6Pu | (Mg): Pu 0.021; δPu: Pu 1; Mg6Pu: Pu 0.143 | model | [1] Wang 2009 | Table 3, p. 4, row 6 |  |
-| 680.15 | peritectoid: Mg6Pu + δPu -> Mg4Pu | Mg6Pu: Pu 0.143; δPu: Pu 1; Mg4Pu: Pu 0.2 | model | [1] Wang 2009 | Table 3, p. 4, row 4 |  |
-| 680.15 | peritectoid: Mg6Pu + δPu -> Mg4Pu | Mg6Pu: Pu 0.143; δPu: Pu 1; Mg4Pu: Pu 0.2 | experimental | [1] Wang 2009; _cites Axler 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990474-1) | Table 3, p. 4, row 3 |  |
-| 500.15 | peritectoid: Mg4Pu + γPu -> Mg2Pu | Mg4Pu: Pu 0.2; γPu: Pu 1; Mg2Pu: Pu 0.333 | model | [1] Wang 2009 | Table 3, p. 4, row 2 |  |
-| 498.15 | peritectoid: Mg4Pu + γPu -> Mg2Pu | Mg4Pu: Pu 0.2; γPu: Pu 1; Mg2Pu: Pu 0.333 | experimental | [1] Wang 2009; _cites Axler 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990474-1) | Table 3, p. 4, row 1 |  |
+| 1416.15 | L2 + gas -> L1 | L2: Pu 0.993; gas: Pu 0; L1: Pu 0.107 | model | [1] Wang 2009 | Table 3, p. 4, row 11; `ORC-VQM5UE4PS7` |  |
+| 913.15 | monotectic: L2 -> L1 + εPu | L2: Pu 0.995; L1: Pu 0.077; εPu: Pu 1 | model | [1] Wang 2009 | Table 3, p. 4, row 10; `ORC-DUPO6D26YE` |  |
+| 913.15 | monotectic: L2 -> L1 + εPu | L2: Pu 0.995; εPu: Pu 1 | experimental | [1] Wang 2009; _cites Axler 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990474-1) | Table 3, p. 4, row 9; `ORC-JMELB6LRFR` |  |
+| 832.15 | eutectic: L1 -> (Mg) + εPu | L1: Pu 0.069; (Mg): Pu 0.037; εPu: Pu 1 | model | [1] Wang 2009 | Table 3, p. 4, row 8; `ORC-OY73355XQN` |  |
+| 829.15 | eutectic: L1 -> (Mg) + εPu | L1: Pu 0.065; (Mg): Pu 0.038; εPu: Pu 1 | experimental | [1] Wang 2009; _cites Axler 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990474-1) | Table 3, p. 4, row 7; `ORC-32O627LC6C` |  |
+| 826.15 | eutectic: L1 -> (Mg) + ePu |  | experimental | [1] Wang 2009; _cites Axler 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990474-1) | p. 2; `ORC-NW6AZ32UD3.0e52c4` | “Later, Axler et al. \[23\] determined the phase diagram in the MgPu binary system using metallography, electron microprobe, X-ray diffraction (XRD) and differential thermal analysis (DTA), where the temperature (553 ± 3 °C) of the L1 M (Mg) + ePu eutectic reaction is consistent with that (550 °C) determined by Schonfeld” |
+| 823.15 | eutectic: L1 -> (Mg) + ePu |  | experimental | [1] Wang 2009; _cites Schonfeld 1959_ | p. 2; `ORC-NW6AZ32UD3.efaa39` | “Later, Axler et al. \[23\] determined the phase diagram in the MgPu binary system using metallography, electron microprobe, X-ray diffraction (XRD) and differential thermal analysis (DTA), where the temperature (553 ± 3 °C) of the L1 M (Mg) + ePu eutectic reaction is consistent with that (550 °C) determined by Schonfeld” |
+| 711.15 | peritectoid: (Mg) + δPu -> Mg6Pu | (Mg): Pu 0.02; δPu: Pu 1; Mg6Pu: Pu 0.143 | experimental | [1] Wang 2009; _cites Axler 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990474-1) | Table 3, p. 4, row 5; `ORC-DGAPIIFHAS` |  |
+| 710.15 | peritectoid: (Mg) + δPu -> Mg6Pu | (Mg): Pu 0.021; δPu: Pu 1; Mg6Pu: Pu 0.143 | model | [1] Wang 2009 | Table 3, p. 4, row 6; `ORC-D73AJYLFBN` |  |
+| 680.15 | peritectoid: Mg6Pu + δPu -> Mg4Pu | Mg6Pu: Pu 0.143; δPu: Pu 1; Mg4Pu: Pu 0.2 | model | [1] Wang 2009 | Table 3, p. 4, row 4; `ORC-KDSG5VA3BL` |  |
+| 680.15 | peritectoid: Mg6Pu + δPu -> Mg4Pu | Mg6Pu: Pu 0.143; δPu: Pu 1; Mg4Pu: Pu 0.2 | experimental | [1] Wang 2009; _cites Axler 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990474-1) | Table 3, p. 4, row 3; `ORC-NO7LPKA5VB` |  |
+| 500.15 | peritectoid: Mg4Pu + γPu -> Mg2Pu | Mg4Pu: Pu 0.2; γPu: Pu 1; Mg2Pu: Pu 0.333 | model | [1] Wang 2009 | Table 3, p. 4, row 2; `ORC-PNGCJTN3MR` |  |
+| 498.15 | peritectoid: Mg4Pu + γPu -> Mg2Pu | Mg4Pu: Pu 0.2; γPu: Pu 1; Mg2Pu: Pu 0.333 | experimental | [1] Wang 2009; _cites Axler 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990474-1) | Table 3, p. 4, row 1; `ORC-SCAQJ5RB3C` |  |
 
 ## Sources
 
@@ -136,4 +136,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

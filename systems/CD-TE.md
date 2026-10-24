@@ -62,11 +62,11 @@ Table: Invariant reactions reported in the literature for the Cd–Te system (5)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 720 | liq -> hex + CdTe | liq: Te 0.99; hex: Te 1; CdTe: Te 0.5 | experimental | [1] Liu 2009; _cites Kulwicki 1963_ | Table III, p. 7, row 14 |  |
-| 717.8 | liq -> hex + CdTe | liq: Te 0.981; hex: Te 1; CdTe: Te 0.5 | model | [1] Liu 2009 | Table III, p. 7, row 12 |  |
-| 710 | liq -> hex + CdTe | liq: Te 0.98; hex: Te 1; CdTe: Te 0.5 | experimental | [1] Liu 2009; _cites Kobayashi 1911_ [doi](https://doi.org/10.1002/zaac.19100690102) | Table III, p. 7, row 13 |  |
-| 594.13 | liq -> Cd + CdTe | liq: Te 1.820e-4; Cd: Te 0; CdTe: Te 0.5 | model | [1] Liu 2009 | Table III, p. 7, row 1 |  |
-| 594 | liq -> Cd + CdTe | Cd: Te 0; CdTe: Te 0.5 | experimental | [1] Liu 2009; _cites Kobayashi 1911_ [doi](https://doi.org/10.1002/zaac.19100690102) | Table III, p. 7, row 2 |  |
+| 720 | liq -> hex + CdTe | liq: Te 0.99; hex: Te 1; CdTe: Te 0.5 | experimental | [1] Liu 2009; _cites Kulwicki 1963_ | Table III, p. 7, row 14; `ORC-54H5OHNIE2` |  |
+| 717.8 | liq -> hex + CdTe | liq: Te 0.981; hex: Te 1; CdTe: Te 0.5 | model | [1] Liu 2009 | Table III, p. 7, row 12; `ORC-2C3U3WQLAW` |  |
+| 710 | liq -> hex + CdTe | liq: Te 0.98; hex: Te 1; CdTe: Te 0.5 | experimental | [1] Liu 2009; _cites Kobayashi 1911_ [doi](https://doi.org/10.1002/zaac.19100690102) | Table III, p. 7, row 13; `ORC-RUOGI76S7U` |  |
+| 594.13 | liq -> Cd + CdTe | liq: Te 1.820e-4; Cd: Te 0; CdTe: Te 0.5 | model | [1] Liu 2009 | Table III, p. 7, row 1; `ORC-IGPIY3GP3B` |  |
+| 594 | liq -> Cd + CdTe | Cd: Te 0; CdTe: Te 0.5 | experimental | [1] Liu 2009; _cites Kobayashi 1911_ [doi](https://doi.org/10.1002/zaac.19100690102) | Table III, p. 7, row 2; `ORC-GV6UOZTTWM` |  |
 
 ## Formation enthalpies
 
@@ -76,8 +76,8 @@ Table: Enthalpies of formation, Cd–Te system (2)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| CdTe |  | -100.708 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Jianrong 1995 | Table 4, p. 13, row 2 |  |
-| CdTe |  | -100.663 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [2] Jianrong 1995; _cites ref. 13_ | Table 4, p. 13, row 1 |  |
+| CdTe |  | -100.708 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Jianrong 1995 | Table 4, p. 13, row 2; `ORC-D3QUZ7OGYZ.d1f8fc` |  |
+| CdTe |  | -100.663 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [2] Jianrong 1995; _cites ref. 13_ | Table 4, p. 13, row 1; `ORC-S6377M3I2P.af4895` |  |
 
 ## Other properties
 
@@ -87,21 +87,21 @@ Table: Phase transition, Cd–Te system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 719.75 K | 719.75 |  | model | [2] Jianrong 1995; _cites ref. 13_ | p. 7 | “Yu and Brebrick (13) indicate 446.6'C and 98.8 at% Te.” |
-| Phase transition | 720.15 K | 720.15 |  | model | [2] Jianrong 1995 | p. 7 | “Our optimisations indicate 447°C and 99 at% Te on the tellurium side and 32l.l"C on the cadmium side; in both cases within 1°C of Sharma and Chang's assessment (12).” |
-| Phase transition | 1315 K | 1315 | liq -> CdTe; _liq: Te 0.5; CdTe: Te 0.5_ | experimental | [1] Liu 2009; _cites Kobayashi 1911_ [doi](https://doi.org/10.1002/zaac.19100690102) | Table III, p. 7, row 4 |  |
-| Phase transition | 1333 K | 1333 | liq -> CdTe; _liq: Te 0.5; CdTe: Te 0.5_ | experimental | [1] Liu 2009; _cites Gromakov 1964_ | Table III, p. 7, row 10 |  |
-| Phase transition | 1363 K | 1363 | liq -> CdTe; _liq: Te 0.5; CdTe: Te 0.5_ | experimental | [1] Liu 2009; _cites DeNobel 1959_ | Table III, p. 7, row 6 |  |
-| Phase transition | 1365 K | 1365 | liq -> CdTe; _liq: Te 0.5; CdTe: Te 0.5_ | experimental | [1] Liu 2009; _cites Steininger 1970_ [doi](https://doi.org/10.1149/1.2407297) | Table III, p. 7, row 8 |  |
-| Phase transition | 1365 K | 1365 | liq -> CdTe; _liq: Te 0.5; CdTe: Te 0.5_ | experimental | [1] Liu 2009; _cites Lorenz 1962_ [doi](https://doi.org/10.1016/0022-3697%2862%2990151-8) | Table III, p. 7, row 7 |  |
-| Phase transition | 1366.75 K | 1366.75 |  | experimental | [2] Jianrong 1995; _cites ref. 19_ | p. 7 | “The melting point of CdTe is 1095°C and in excellent agreement with the mean of the experimental results (19,20, 21,25,26,27, 28, 64) 1093.6\*7 "C, if the low values of Kobayashi (18) and Gromakov et al. (29) are rejected.” |
-| Phase transition | 1367.15 K | 1367.15 | CdTe | experimental | [2] Jianrong 1995 | p. 1 | “Their assessment predicts 1098'C for the melting point of CdTe compared with the mean experimental value of 1094°C.” |
-| Phase transition | 1368.15 K | 1368.15 |  | model | [2] Jianrong 1995 | p. 7 | “The melting point of CdTe is 1095°C and in excellent agreement with the mean of the experimental results (19,20, 21,25,26,27, 28, 64) 1093.6\*7 "C, if the low values of Kobayashi (18) and Gromakov et al. (29) are rejected.” |
-| Phase transition | 1371 K | 1371 | liq -> CdTe; _liq: Te 0.5; CdTe: Te 0.5_ | model | [1] Liu 2009 | Table III, p. 7, row 3 |  |
-| Phase transition | 1371 K | 1371 | liq -> CdTe; _liq: Te 0.5; CdTe: Te 0.5_ | experimental | [1] Liu 2009; _cites Mason 1961_ | Table III, p. 7, row 9 |  |
-| Phase transition | 1371.15 K | 1371.15 | CdTe | model | [2] Jianrong 1995; _cites ref. 12_ | p. 1 | “Their assessment predicts 1098'C for the melting point of CdTe compared with the mean experimental value of 1094°C.” |
-| Phase transition | 1372 K | 1372 | liq -> CdTe; _liq: Te 0.5; CdTe: Te 0.5_ | experimental | [1] Liu 2009; _cites Sysoev 1967_ | Table III, p. 7, row 11 |  |
-| Phase transition | 1379 K | 1379 | liq -> CdTe; _liq: Te 0.5; CdTe: Te 0.5_ | experimental | [1] Liu 2009; _cites Lawson 1959_ [doi](https://doi.org/10.1016/0022-3697%2859%2990110-6) | Table III, p. 7, row 5 |  |
+| Phase transition | 719.75 K | 719.75 |  | model | [2] Jianrong 1995; _cites ref. 13_ | p. 7; `ORC-DXMFA7XDBG` | “Yu and Brebrick (13) indicate 446.6'C and 98.8 at% Te.” |
+| Phase transition | 720.15 K | 720.15 |  | model | [2] Jianrong 1995 | p. 7; `ORC-B3YCIOM2LM` | “Our optimisations indicate 447°C and 99 at% Te on the tellurium side and 32l.l"C on the cadmium side; in both cases within 1°C of Sharma and Chang's assessment (12).” |
+| Phase transition | 1315 K | 1315 | liq -> CdTe; _liq: Te 0.5; CdTe: Te 0.5_ | experimental | [1] Liu 2009; _cites Kobayashi 1911_ [doi](https://doi.org/10.1002/zaac.19100690102) | Table III, p. 7, row 4; `ORC-3I4TLIGYS7` |  |
+| Phase transition | 1333 K | 1333 | liq -> CdTe; _liq: Te 0.5; CdTe: Te 0.5_ | experimental | [1] Liu 2009; _cites Gromakov 1964_ | Table III, p. 7, row 10; `ORC-IDQ7VPPQ3A` |  |
+| Phase transition | 1363 K | 1363 | liq -> CdTe; _liq: Te 0.5; CdTe: Te 0.5_ | experimental | [1] Liu 2009; _cites DeNobel 1959_ | Table III, p. 7, row 6; `ORC-WAZIKNNMTQ` |  |
+| Phase transition | 1365 K | 1365 | liq -> CdTe; _liq: Te 0.5; CdTe: Te 0.5_ | experimental | [1] Liu 2009; _cites Steininger 1970_ [doi](https://doi.org/10.1149/1.2407297) | Table III, p. 7, row 8; `ORC-AC42BQSHTE` |  |
+| Phase transition | 1365 K | 1365 | liq -> CdTe; _liq: Te 0.5; CdTe: Te 0.5_ | experimental | [1] Liu 2009; _cites Lorenz 1962_ [doi](https://doi.org/10.1016/0022-3697%2862%2990151-8) | Table III, p. 7, row 7; `ORC-P6LPGYUWOE` |  |
+| Phase transition | 1366.75 K | 1366.75 |  | experimental | [2] Jianrong 1995; _cites ref. 19_ | p. 7; `ORC-4RO6YUHHJ2.7dadd8` | “The melting point of CdTe is 1095°C and in excellent agreement with the mean of the experimental results (19,20, 21,25,26,27, 28, 64) 1093.6\*7 "C, if the low values of Kobayashi (18) and Gromakov et al. (29) are rejected.” |
+| Phase transition | 1367.15 K | 1367.15 | CdTe | experimental | [2] Jianrong 1995 | p. 1; `ORC-NRDIIUXCVA.e7c812` | “Their assessment predicts 1098'C for the melting point of CdTe compared with the mean experimental value of 1094°C.” |
+| Phase transition | 1368.15 K | 1368.15 |  | model | [2] Jianrong 1995 | p. 7; `ORC-4RO6YUHHJ2.b60346` | “The melting point of CdTe is 1095°C and in excellent agreement with the mean of the experimental results (19,20, 21,25,26,27, 28, 64) 1093.6\*7 "C, if the low values of Kobayashi (18) and Gromakov et al. (29) are rejected.” |
+| Phase transition | 1371 K | 1371 | liq -> CdTe; _liq: Te 0.5; CdTe: Te 0.5_ | model | [1] Liu 2009 | Table III, p. 7, row 3; `ORC-7CNJIIXQLI` |  |
+| Phase transition | 1371 K | 1371 | liq -> CdTe; _liq: Te 0.5; CdTe: Te 0.5_ | experimental | [1] Liu 2009; _cites Mason 1961_ | Table III, p. 7, row 9; `ORC-WN5VKWJSAR` |  |
+| Phase transition | 1371.15 K | 1371.15 | CdTe | model | [2] Jianrong 1995; _cites ref. 12_ | p. 1; `ORC-NRDIIUXCVA.47f9fe` | “Their assessment predicts 1098'C for the melting point of CdTe compared with the mean experimental value of 1094°C.” |
+| Phase transition | 1372 K | 1372 | liq -> CdTe; _liq: Te 0.5; CdTe: Te 0.5_ | experimental | [1] Liu 2009; _cites Sysoev 1967_ | Table III, p. 7, row 11; `ORC-3O2HLZTJRX` |  |
+| Phase transition | 1379 K | 1379 | liq -> CdTe; _liq: Te 0.5; CdTe: Te 0.5_ | experimental | [1] Liu 2009; _cites Lawson 1959_ [doi](https://doi.org/10.1016/0022-3697%2859%2990110-6) | Table III, p. 7, row 5; `ORC-MRL67CKBNG` |  |
 
 ### Mixing / partial (2)
 
@@ -109,8 +109,8 @@ Table: Mixing / partial, Cd–Te system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy of mixing; _printed: S°298(CdTe)_ | 93.3 J/mol (basis unstated)/K | 298.15 | CdTe; _alloy: Te 0.5_ | model | [2] Jianrong 1995 | Table 4, p. 13, row 2 |  |
-| Entropy of mixing; _printed: S°298(CdTe)_ | 95.4 J/mol (basis unstated)/K | 298.15 | CdTe; _alloy: Te 0.5_ | unspecified | [2] Jianrong 1995; _cites ref. 13_ | Table 4, p. 13, row 1 |  |
+| Entropy of mixing; _printed: S°298(CdTe)_ | 93.3 J/mol (basis unstated)/K | 298.15 | CdTe; _alloy: Te 0.5_ | model | [2] Jianrong 1995 | Table 4, p. 13, row 2; `ORC-D3QUZ7OGYZ.d7c0c2` |  |
+| Entropy of mixing; _printed: S°298(CdTe)_ | 95.4 J/mol (basis unstated)/K | 298.15 | CdTe; _alloy: Te 0.5_ | unspecified | [2] Jianrong 1995; _cites ref. 13_ | Table 4, p. 13, row 1; `ORC-S6377M3I2P.3353ab` |  |
 
 ## Sources
 
@@ -176,4 +176,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

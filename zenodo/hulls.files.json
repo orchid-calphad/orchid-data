@@ -16,7 +16,7 @@
  ],
  "exclude": [],
  "n_files": 18199,
- "total_bytes": 115992863,
+ "total_bytes": 115993654,
  "files": [
   {
    "path": "CHANGELOG.md",
@@ -40,8 +40,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 7950,
-   "sha256": "ebbee44eea42638891b3b88a585d203d5dc7677d16be82ba5485a405c4a30126"
+   "bytes": 8741,
+   "sha256": "0746df14f5ddfed9e0be2ff89ab1d05220a6f80bcdf0042b41f9886ac6e977fa"
   },
   {
    "path": "hulls/CITATION.cff",

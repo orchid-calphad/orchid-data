@@ -44,14 +44,14 @@ Table: Enthalpies of formation, Co–Ni system (8)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| B2 | [CoNi](https://data.orchid-project.org/compounds/CoNi.html) | 5.66 kJ/mol-atom | 298.15 | model | 14.703 (mp-aaacfhmh) | 14.332 (oqmd-304574) | [1] Liu 2016 | Table 4, p. 38, row 10 |  |
-| B2-β |  | 5.66 kJ/mol-atom | 0 | DFT |  |  | [1] Liu 2016 | Table 6, p. 40, row 14 |  |
-| L12-γ’ |  | -0.94 kJ/mol-atom | 0 | DFT |  |  | [1] Liu 2016 | Table 7, p. 41, row 13 |  |
-| L12-γ’ |  | 0.9 kJ/mol-atom | 0 | DFT |  |  | [1] Liu 2016 | Table 7, p. 41, row 15 |  |
-| γ' |  | -0.94 kJ/mol-atom | 0 | DFT |  |  | [1] Liu 2016 | Table 7, p. 41, row 13 |  |
-| γ' |  | 0.9 kJ/mol-atom | 0 | DFT |  |  | [1] Liu 2016 | Table 7, p. 41, row 15 |  |
-| γ'-L12 | [Co3Ni](https://data.orchid-project.org/compounds/Co3Ni.html) | 0.39 kJ/mol-atom | 298.15 | model | 0.008 (mp-aaacfjqr) | -0.771 (oqmd-344812) | [1] Liu 2016 | Table 4, p. 38, row 29 |  |
-| γ'-L12 | [CoNi3](https://data.orchid-project.org/compounds/CoNi3.html) | 1.321 kJ/mol-atom | 298.15 | model | 1.048 (mp-aaacpjcx) | 0.954 (oqmd-343276) | [1] Liu 2016 | Table 4, p. 38, row 30 |  |
+| B2 | [CoNi](https://data.orchid-project.org/compounds/CoNi.html) | 5.66 kJ/mol-atom | 298.15 | model | 14.703 (mp-aaacfhmh) | 14.332 (oqmd-304574) | [1] Liu 2016 | Table 4, p. 38, row 10; `ORC-74DQWYXZZF.fef30f` |  |
+| B2-β |  | 5.66 kJ/mol-atom | 0 | DFT |  |  | [1] Liu 2016 | Table 6, p. 40, row 14; `ORC-R4JVCNQOUL.88a673` |  |
+| L12-γ’ |  | -0.94 kJ/mol-atom | 0 | DFT |  |  | [1] Liu 2016 | Table 7, p. 41, row 13; `ORC-LOZBGVYVAU.895373` |  |
+| L12-γ’ |  | 0.9 kJ/mol-atom | 0 | DFT |  |  | [1] Liu 2016 | Table 7, p. 41, row 15; `ORC-UDK532NRBY.7eb3d3` |  |
+| γ' |  | -0.94 kJ/mol-atom | 0 | DFT |  |  | [1] Liu 2016 | Table 7, p. 41, row 13; `ORC-LOZBGVYVAU.2e0361` |  |
+| γ' |  | 0.9 kJ/mol-atom | 0 | DFT |  |  | [1] Liu 2016 | Table 7, p. 41, row 15; `ORC-UDK532NRBY.adad6e` |  |
+| γ'-L12 | [Co3Ni](https://data.orchid-project.org/compounds/Co3Ni.html) | 0.39 kJ/mol-atom | 298.15 | model | 0.008 (mp-aaacfjqr) | -0.771 (oqmd-344812) | [1] Liu 2016 | Table 4, p. 38, row 29; `ORC-3KCYVZHOUW.3336d4` |  |
+| γ'-L12 | [CoNi3](https://data.orchid-project.org/compounds/CoNi3.html) | 1.321 kJ/mol-atom | 298.15 | model | 1.048 (mp-aaacpjcx) | 0.954 (oqmd-343276) | [1] Liu 2016 | Table 4, p. 38, row 30; `ORC-NPNIYN4TG5.1c973a` |  |
 
 ## Other properties
 
@@ -61,10 +61,10 @@ Table: Formation, Co–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy of formation; _printed: ΔfS298_ | -0.303 J/mol-atom/K | 298.15 | γ'-L12; _alloy: Co 0.75, Ni 0.25_ | model | [1] Liu 2016 | Table 4, p. 38, row 29 |  |
-| Entropy of formation; _printed: ΔfS298_ | -0.192 J/mol-atom/K | 298.15 | γ'-L12; _alloy: Co 0.25, Ni 0.75_ | model | [1] Liu 2016 | Table 4, p. 38, row 30 |  |
-| Gibbs energy of formation; _printed: ΔfG298_ | 0.48 kJ/mol-atom | 298.15 | γ'-L12; _alloy: Co 0.75, Ni 0.25_ | model | [1] Liu 2016 | Table 4, p. 38, row 29 |  |
-| Gibbs energy of formation; _printed: ΔfG298_ | 1.378 kJ/mol-atom | 298.15 | γ'-L12; _alloy: Co 0.25, Ni 0.75_ | model | [1] Liu 2016 | Table 4, p. 38, row 30 |  |
+| Entropy of formation; _printed: ΔfS298_ | -0.303 J/mol-atom/K | 298.15 | γ'-L12; _alloy: Co 0.75, Ni 0.25_ | model | [1] Liu 2016 | Table 4, p. 38, row 29; `ORC-3KCYVZHOUW.b55ecc` |  |
+| Entropy of formation; _printed: ΔfS298_ | -0.192 J/mol-atom/K | 298.15 | γ'-L12; _alloy: Co 0.25, Ni 0.75_ | model | [1] Liu 2016 | Table 4, p. 38, row 30; `ORC-NPNIYN4TG5.a77f23` |  |
+| Gibbs energy of formation; _printed: ΔfG298_ | 0.48 kJ/mol-atom | 298.15 | γ'-L12; _alloy: Co 0.75, Ni 0.25_ | model | [1] Liu 2016 | Table 4, p. 38, row 29; `ORC-3KCYVZHOUW.57e86f` |  |
+| Gibbs energy of formation; _printed: ΔfG298_ | 1.378 kJ/mol-atom | 298.15 | γ'-L12; _alloy: Co 0.25, Ni 0.75_ | model | [1] Liu 2016 | Table 4, p. 38, row 30; `ORC-NPNIYN4TG5.ff991f` |  |
 
 ### Mixing / partial (10)
 
@@ -72,16 +72,16 @@ Table: Mixing / partial, Co–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: ΔHmix_ | -0.81 kJ/mol-atom | 0 | A2; _alloy: Co 0.5, Ni 0.5_ | DFT | [1] Liu 2016 | Table 6, p. 40, row 14 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -0.37 kJ/mol-atom | 0 | A2; _alloy: Co 0.25, Ni 0.75_ | DFT | [1] Liu 2016 | Table 6, p. 40, row 15 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | 0.2 kJ/mol-atom | 0 | A2; _alloy: Co 0.75, Ni 0.25_ | DFT | [1] Liu 2016 | Table 6, p. 40, row 13 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | 5.66 kJ/mol-atom | 0 | B2; _alloy: Co 0.5, Ni 0.5_ | DFT | [1] Liu 2016 | Table 8, p. 42, row 27 |  |
-| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -0.991 kJ/mol-atom |  | fcc; _alloy: Co 0.5, Ni 0.5_ | DFT | [2] Bracq 2021 | Table 1, p. 4, row 4 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -0.48 kJ/mol-atom | 0 | γ; _alloy: Co 0.75, Ni 0.25_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 13 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -0.77 kJ/mol-atom | 0 | γ; _alloy: Co 0.25, Ni 0.75_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 15 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -0.67 kJ/mol-atom | 0 | γ; _alloy: Co 0.5, Ni 0.5_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 14 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | 0.9 kJ/mol-atom | 0 | γ’; _alloy: Co 0.25, Ni 0.75_ | DFT | [1] Liu 2016 | Table 9, p. 43, row 15 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -0.94 kJ/mol-atom | 0 | γ’; _alloy: Co 0.75, Ni 0.25_ | DFT | [1] Liu 2016 | Table 9, p. 43, row 18 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -0.81 kJ/mol-atom | 0 | A2; _alloy: Co 0.5, Ni 0.5_ | DFT | [1] Liu 2016 | Table 6, p. 40, row 14; `ORC-R4JVCNQOUL.d14830` |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -0.37 kJ/mol-atom | 0 | A2; _alloy: Co 0.25, Ni 0.75_ | DFT | [1] Liu 2016 | Table 6, p. 40, row 15; `ORC-TLQAOJDQI2` |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 0.2 kJ/mol-atom | 0 | A2; _alloy: Co 0.75, Ni 0.25_ | DFT | [1] Liu 2016 | Table 6, p. 40, row 13; `ORC-VUZ7SP4VUX` |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 5.66 kJ/mol-atom | 0 | B2; _alloy: Co 0.5, Ni 0.5_ | DFT | [1] Liu 2016 | Table 8, p. 42, row 27; `ORC-HJBML33MP4` |  |
+| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -0.991 kJ/mol-atom |  | fcc; _alloy: Co 0.5, Ni 0.5_ | DFT | [2] Bracq 2021 | Table 1, p. 4, row 4; `ORC-SDRGPM2NZL.fd28aa` |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -0.48 kJ/mol-atom | 0 | γ; _alloy: Co 0.75, Ni 0.25_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 13; `ORC-LOZBGVYVAU.4ec080` |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -0.77 kJ/mol-atom | 0 | γ; _alloy: Co 0.25, Ni 0.75_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 15; `ORC-UDK532NRBY.74c81e` |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -0.67 kJ/mol-atom | 0 | γ; _alloy: Co 0.5, Ni 0.5_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 14; `ORC-UHOV5ETA3J` |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 0.9 kJ/mol-atom | 0 | γ’; _alloy: Co 0.25, Ni 0.75_ | DFT | [1] Liu 2016 | Table 9, p. 43, row 15; `ORC-5WMXIEWM4J` |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -0.94 kJ/mol-atom | 0 | γ’; _alloy: Co 0.75, Ni 0.25_ | DFT | [1] Liu 2016 | Table 9, p. 43, row 18; `ORC-NLD4Z6JLS6` |  |
 
 ### Crystal structure (3)
 
@@ -89,9 +89,9 @@ Table: Crystal structure, Co–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Molar volume; _printed: V0_ | 11.107 Å3/atom | 298.15 | B2 CoNi; _alloy: Co 0.5, Ni 0.5_ | DFT | [1] Liu 2016 | Table 2, p. 36, row 14 |  |
-| Molar volume; _printed: V0_ | 10.927 Å3/atom | 298.15 | γ'-L12 Co3Ni; _alloy: Co 0.75, Ni 0.25_ | DFT | [1] Liu 2016 | Table 2, p. 36, row 31 |  |
-| Molar volume; _printed: V0_ | 10.947 Å3/atom | 298.15 | γ'-L12 Ni3Co; _alloy: Co 0.25, Ni 0.75_ | DFT | [1] Liu 2016 | Table 2, p. 36, row 32 |  |
+| Molar volume; _printed: V0_ | 11.107 Å3/atom | 298.15 | B2 CoNi; _alloy: Co 0.5, Ni 0.5_ | DFT | [1] Liu 2016 | Table 2, p. 36, row 14; `ORC-S7OJ2ZZUBL` |  |
+| Molar volume; _printed: V0_ | 10.927 Å3/atom | 298.15 | γ'-L12 Co3Ni; _alloy: Co 0.75, Ni 0.25_ | DFT | [1] Liu 2016 | Table 2, p. 36, row 31; `ORC-I663ACNLL3` |  |
+| Molar volume; _printed: V0_ | 10.947 Å3/atom | 298.15 | γ'-L12 Ni3Co; _alloy: Co 0.25, Ni 0.75_ | DFT | [1] Liu 2016 | Table 2, p. 36, row 32; `ORC-FTHVE47E6D` |  |
 
 ## Sources
 
@@ -157,4 +157,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

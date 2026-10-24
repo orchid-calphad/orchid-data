@@ -62,20 +62,20 @@ Table: Invariant reactions reported in the literature for the Cu–Ge system (14
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1097 | peritectic: L + fcc \<-> hcp | L: Ge 0.18 | model | [1] Wang 2010 | Table 1, p. 2, row 2 |  |
-| 1097 | peritectic: L + fcc \<-> hcp | L: Ge 0.175 | experimental | [1] Wang 2010; _cites Olesinski 1986_ [doi](https://doi.org/10.1007/bf02874979) | Table 1, p. 2, row 1 |  |
-| 1021 | eutectic: L \<-> hcp + ε-Cu0.765Ge0.235 | L: Ge 0.232; ε-Cu0.765Ge0.235: Ge 0.235 | model | [1] Wang 2010 | Table 1, p. 2, row 6 |  |
-| 1016 | eutectic: L \<-> hcp + ε-Cu0.765Ge0.235 | L: Ge 0.219; ε-Cu0.765Ge0.235: Ge 0.235 | experimental | [1] Wang 2010; _cites Olesinski 1986_ [doi](https://doi.org/10.1007/bf02874979) | Table 1, p. 2, row 5 |  |
-| 971 | peritectic: L + ε-Cu0.765Ge0.235 \<-> θ-Cu0.735Ge0.265 | L: Ge 0.32; ε-Cu0.765Ge0.235: Ge 0.235; θ-Cu0.735Ge0.265: Ge 0.265 | model | [1] Wang 2010 | Table 1, p. 2, row 8 |  |
-| 971 | peritectic: L + ε-Cu0.765Ge0.235 \<-> θ-Cu0.735Ge0.265 | L: Ge 0.303; ε-Cu0.765Ge0.235: Ge 0.235; θ-Cu0.735Ge0.265: Ge 0.265 | experimental | [1] Wang 2010; _cites Olesinski 1986_ [doi](https://doi.org/10.1007/bf02874979) | Table 1, p. 2, row 7 |  |
-| 948 | peritectoid: ε-Cu0.765Ge0.235 + θ-Cu0.735Ge0.265 \<-> η-Cu0.75Ge0.25 | ε-Cu0.765Ge0.235: Ge 0.235; θ-Cu0.735Ge0.265: Ge 0.265; η-Cu0.75Ge0.25: Ge 0.25 | model | [1] Wang 2010 | Table 1, p. 2, row 14 |  |
-| 917 | eutectic: L \<-> θ-Cu0.735Ge0.265 + (Ge) | L: Ge 0.365; θ-Cu0.735Ge0.265: Ge 0.265; (Ge): Ge 1 | experimental | [1] Wang 2010; _cites Olesinski 1986_ [doi](https://doi.org/10.1007/bf02874979) | Table 1, p. 2, row 9 |  |
-| 911 | eutectic: L \<-> θ-Cu0.735Ge0.265 + (Ge) | L: Ge 0.389; θ-Cu0.735Ge0.265: Ge 0.265; (Ge): Ge 1 | model | [1] Wang 2010 | Table 1, p. 2, row 10 |  |
-| 909 | peritectoid: ε-Cu0.765Ge0.235 + θ-Cu0.735Ge0.265 \<-> η-Cu0.75Ge0.25 | ε-Cu0.765Ge0.235: Ge 0.235; θ-Cu0.735Ge0.265: Ge 0.265; η-Cu0.75Ge0.25: Ge 0.25 | experimental | [1] Wang 2010; _cites Olesinski 1986_ [doi](https://doi.org/10.1007/bf02874979) | Table 1, p. 2, row 13 |  |
-| 887 | eutectoid: θ-Cu0.735Ge0.265 \<-> η-Cu0.75Ge0.25 + (Ge) | θ-Cu0.735Ge0.265: Ge 0.265; η-Cu0.75Ge0.25: Ge 0.25; (Ge): Ge 1 | experimental | [1] Wang 2010; _cites Olesinski 1986_ [doi](https://doi.org/10.1007/bf02874979) | Table 1, p. 2, row 15 |  |
-| 885 | eutectoid: θ-Cu0.735Ge0.265 \<-> η-Cu0.75Ge0.25 + (Ge) | θ-Cu0.735Ge0.265: Ge 0.265; η-Cu0.75Ge0.25: Ge 0.25; (Ge): Ge 1 | model | [1] Wang 2010 | Table 1, p. 2, row 16 |  |
-| 823 | eutectoid: ε-Cu0.765Ge0.235 \<-> hcp + η-Cu0.75Ge0.25 | ε-Cu0.765Ge0.235: Ge 0.235; η-Cu0.75Ge0.25: Ge 0.25 | experimental | [1] Wang 2010; _cites Olesinski 1986_ [doi](https://doi.org/10.1007/bf02874979) | Table 1, p. 2, row 11 |  |
-| 822 | eutectoid: ε-Cu0.765Ge0.235 \<-> hcp + η-Cu0.75Ge0.25 | ε-Cu0.765Ge0.235: Ge 0.235; η-Cu0.75Ge0.25: Ge 0.25 | model | [1] Wang 2010 | Table 1, p. 2, row 12 |  |
+| 1097 | peritectic: L + fcc \<-> hcp | L: Ge 0.18 | model | [1] Wang 2010 | Table 1, p. 2, row 2; `ORC-HEYY4EWWHL` |  |
+| 1097 | peritectic: L + fcc \<-> hcp | L: Ge 0.175 | experimental | [1] Wang 2010; _cites Olesinski 1986_ [doi](https://doi.org/10.1007/bf02874979) | Table 1, p. 2, row 1; `ORC-MFNR3G6J45` |  |
+| 1021 | eutectic: L \<-> hcp + ε-Cu0.765Ge0.235 | L: Ge 0.232; ε-Cu0.765Ge0.235: Ge 0.235 | model | [1] Wang 2010 | Table 1, p. 2, row 6; `ORC-G7TKXHN5SU` |  |
+| 1016 | eutectic: L \<-> hcp + ε-Cu0.765Ge0.235 | L: Ge 0.219; ε-Cu0.765Ge0.235: Ge 0.235 | experimental | [1] Wang 2010; _cites Olesinski 1986_ [doi](https://doi.org/10.1007/bf02874979) | Table 1, p. 2, row 5; `ORC-6NBTEM4H6E` |  |
+| 971 | peritectic: L + ε-Cu0.765Ge0.235 \<-> θ-Cu0.735Ge0.265 | L: Ge 0.32; ε-Cu0.765Ge0.235: Ge 0.235; θ-Cu0.735Ge0.265: Ge 0.265 | model | [1] Wang 2010 | Table 1, p. 2, row 8; `ORC-DQ3ZLUIYKA` |  |
+| 971 | peritectic: L + ε-Cu0.765Ge0.235 \<-> θ-Cu0.735Ge0.265 | L: Ge 0.303; ε-Cu0.765Ge0.235: Ge 0.235; θ-Cu0.735Ge0.265: Ge 0.265 | experimental | [1] Wang 2010; _cites Olesinski 1986_ [doi](https://doi.org/10.1007/bf02874979) | Table 1, p. 2, row 7; `ORC-TSYSAYE4LF` |  |
+| 948 | peritectoid: ε-Cu0.765Ge0.235 + θ-Cu0.735Ge0.265 \<-> η-Cu0.75Ge0.25 | ε-Cu0.765Ge0.235: Ge 0.235; θ-Cu0.735Ge0.265: Ge 0.265; η-Cu0.75Ge0.25: Ge 0.25 | model | [1] Wang 2010 | Table 1, p. 2, row 14; `ORC-4V57CRRAEA` |  |
+| 917 | eutectic: L \<-> θ-Cu0.735Ge0.265 + (Ge) | L: Ge 0.365; θ-Cu0.735Ge0.265: Ge 0.265; (Ge): Ge 1 | experimental | [1] Wang 2010; _cites Olesinski 1986_ [doi](https://doi.org/10.1007/bf02874979) | Table 1, p. 2, row 9; `ORC-BQTLG625GX` |  |
+| 911 | eutectic: L \<-> θ-Cu0.735Ge0.265 + (Ge) | L: Ge 0.389; θ-Cu0.735Ge0.265: Ge 0.265; (Ge): Ge 1 | model | [1] Wang 2010 | Table 1, p. 2, row 10; `ORC-ENARI62BU3` |  |
+| 909 | peritectoid: ε-Cu0.765Ge0.235 + θ-Cu0.735Ge0.265 \<-> η-Cu0.75Ge0.25 | ε-Cu0.765Ge0.235: Ge 0.235; θ-Cu0.735Ge0.265: Ge 0.265; η-Cu0.75Ge0.25: Ge 0.25 | experimental | [1] Wang 2010; _cites Olesinski 1986_ [doi](https://doi.org/10.1007/bf02874979) | Table 1, p. 2, row 13; `ORC-VDP4YLP4KN` |  |
+| 887 | eutectoid: θ-Cu0.735Ge0.265 \<-> η-Cu0.75Ge0.25 + (Ge) | θ-Cu0.735Ge0.265: Ge 0.265; η-Cu0.75Ge0.25: Ge 0.25; (Ge): Ge 1 | experimental | [1] Wang 2010; _cites Olesinski 1986_ [doi](https://doi.org/10.1007/bf02874979) | Table 1, p. 2, row 15; `ORC-FS7FRDRYE5` |  |
+| 885 | eutectoid: θ-Cu0.735Ge0.265 \<-> η-Cu0.75Ge0.25 + (Ge) | θ-Cu0.735Ge0.265: Ge 0.265; η-Cu0.75Ge0.25: Ge 0.25; (Ge): Ge 1 | model | [1] Wang 2010 | Table 1, p. 2, row 16; `ORC-DONEJJD2EO` |  |
+| 823 | eutectoid: ε-Cu0.765Ge0.235 \<-> hcp + η-Cu0.75Ge0.25 | ε-Cu0.765Ge0.235: Ge 0.235; η-Cu0.75Ge0.25: Ge 0.25 | experimental | [1] Wang 2010; _cites Olesinski 1986_ [doi](https://doi.org/10.1007/bf02874979) | Table 1, p. 2, row 11; `ORC-B3QKOX643Y` |  |
+| 822 | eutectoid: ε-Cu0.765Ge0.235 \<-> hcp + η-Cu0.75Ge0.25 | ε-Cu0.765Ge0.235: Ge 0.235; η-Cu0.75Ge0.25: Ge 0.25 | model | [1] Wang 2010 | Table 1, p. 2, row 12; `ORC-Q3B5EJ73RM` |  |
 
 ## Formation enthalpies
 
@@ -85,9 +85,9 @@ Table: Enthalpies of formation, Cu–Ge system (3)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| ␩-Cu0.75 Ge0.25 |  | -7.66 kJ/mol (basis unstated) | 780 | experimental |  |  | [1] Wang 2010; _cites Predel 1971_ [doi](https://doi.org/10.1515/zna-1971-0415) | p. 2 | “The enthalpy of formation of intermetallic compound ␩-Cu0.75 Ge0.25 was also obtained by Predel and Stein \[21\] at 780 K, which is -7660 J/mol at 25 at.% Ge.” |
-| ␩-Cu0.75Ge0.25 |  | -7.66 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Wang 2010; _cites Predel 1971_ [doi](https://doi.org/10.1515/zna-1971-0415) | p. 6 | “The enthalpy of formation of solid alloys and intermetallic compounds in the Cu-Ge binary system at 298 K was calculated as presented in Fig. 10. As can be seen, the present calculated values in solid alloys are in excellent agreement with the experimental data measured by Predel and Stein \[21,29\] and Kleppa and King \[31\]. However, the calculated enthalpy of formation of the intermetallic compoun…” |
-| ␩-Cu0.75Ge0.25 |  | -4.245 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Wang 2010 | p. 6 | “The enthalpy of formation of solid alloys and intermetallic compounds in the Cu-Ge binary system at 298 K was calculated as presented in Fig. 10. As can be seen, the present calculated values in solid alloys are in excellent agreement with the experimental data measured by Predel and Stein \[21,29\] and Kleppa and King \[31\]. However, the calculated enthalpy of formation of the intermetallic compoun…” |
+| ␩-Cu0.75 Ge0.25 |  | -7.66 kJ/mol (basis unstated) | 780 | experimental |  |  | [1] Wang 2010; _cites Predel 1971_ [doi](https://doi.org/10.1515/zna-1971-0415) | p. 2; `ORC-VWCKZJ4CRO` | “The enthalpy of formation of intermetallic compound ␩-Cu0.75 Ge0.25 was also obtained by Predel and Stein \[21\] at 780 K, which is -7660 J/mol at 25 at.% Ge.” |
+| ␩-Cu0.75Ge0.25 |  | -7.66 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Wang 2010; _cites Predel 1971_ [doi](https://doi.org/10.1515/zna-1971-0415) | p. 6; `ORC-XD27I6E7HU.662fc0` | “The enthalpy of formation of solid alloys and intermetallic compounds in the Cu-Ge binary system at 298 K was calculated as presented in Fig. 10. As can be seen, the present calculated values in solid alloys are in excellent agreement with the experimental data measured by Predel and Stein \[21,29\] and Kleppa and King \[31\]. However, the calculated enthalpy of formation of the intermetallic compoun…” |
+| ␩-Cu0.75Ge0.25 |  | -4.245 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Wang 2010 | p. 6; `ORC-XD27I6E7HU.df2b9e` | “The enthalpy of formation of solid alloys and intermetallic compounds in the Cu-Ge binary system at 298 K was calculated as presented in Fig. 10. As can be seen, the present calculated values in solid alloys are in excellent agreement with the experimental data measured by Predel and Stein \[21,29\] and Kleppa and King \[31\]. However, the calculated enthalpy of formation of the intermetallic compoun…” |
 
 ## Other properties
 
@@ -97,10 +97,10 @@ Table: Phase transition, Cu–Ge system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 909 K | 909 | other: ␧-Cu0.765 Ge0.235 + ␪-Cu0.735 Ge0.265 ↔ ␩-Cu0.75 Ge0.25 | experimental | [1] Wang 2010 | p. 6 | “Note here that the calculated temperature of transformation for the intermetallic compound (␩-Cu0.75 Ge0.25 ), ␧-Cu0.765 Ge0.235 + ␪-Cu0.735 Ge0.265 ↔ ␩-Cu0.75 Ge0.25 at 948 K, deviates significantly from the corresponding measured value (909 K).” |
-| Phase transition | 948 K | 948 | other: ␧-Cu0.765 Ge0.235 + ␪-Cu0.735 Ge0.265 ↔ ␩-Cu0.75 Ge0.25 | model | [1] Wang 2010 | p. 6 | “Note here that the calculated temperature of transformation for the intermetallic compound (␩-Cu0.75 Ge0.25 ), ␧-Cu0.765 Ge0.235 + ␪-Cu0.735 Ge0.265 ↔ ␩-Cu0.75 Ge0.25 at 948 K, deviates significantly from the corresponding measured value (909 K).” |
-| Phase transition | 1020 K | 1020 | congruent melting: L \<-> ε-Cu0.765Ge0.235; _L: Ge 0.22; ε-Cu0.765Ge0.235: Ge 0.235_ | experimental | [1] Wang 2010; _cites Olesinski 1986_ [doi](https://doi.org/10.1007/bf02874979) | Table 1, p. 2, row 3 |  |
-| Phase transition | 1022 K | 1022 | congruent melting: L \<-> ε-Cu0.765Ge0.235; _L: Ge 0.235; ε-Cu0.765Ge0.235: Ge 0.235_ | model | [1] Wang 2010 | Table 1, p. 2, row 4 |  |
+| Phase transition | 909 K | 909 | other: ␧-Cu0.765 Ge0.235 + ␪-Cu0.735 Ge0.265 ↔ ␩-Cu0.75 Ge0.25 | experimental | [1] Wang 2010 | p. 6; `ORC-QV5ZQ3WLEX.eb99d4` | “Note here that the calculated temperature of transformation for the intermetallic compound (␩-Cu0.75 Ge0.25 ), ␧-Cu0.765 Ge0.235 + ␪-Cu0.735 Ge0.265 ↔ ␩-Cu0.75 Ge0.25 at 948 K, deviates significantly from the corresponding measured value (909 K).” |
+| Phase transition | 948 K | 948 | other: ␧-Cu0.765 Ge0.235 + ␪-Cu0.735 Ge0.265 ↔ ␩-Cu0.75 Ge0.25 | model | [1] Wang 2010 | p. 6; `ORC-QV5ZQ3WLEX.0d1d83` | “Note here that the calculated temperature of transformation for the intermetallic compound (␩-Cu0.75 Ge0.25 ), ␧-Cu0.765 Ge0.235 + ␪-Cu0.735 Ge0.265 ↔ ␩-Cu0.75 Ge0.25 at 948 K, deviates significantly from the corresponding measured value (909 K).” |
+| Phase transition | 1020 K | 1020 | congruent melting: L \<-> ε-Cu0.765Ge0.235; _L: Ge 0.22; ε-Cu0.765Ge0.235: Ge 0.235_ | experimental | [1] Wang 2010; _cites Olesinski 1986_ [doi](https://doi.org/10.1007/bf02874979) | Table 1, p. 2, row 3; `ORC-Q24UWYGZ6C` |  |
+| Phase transition | 1022 K | 1022 | congruent melting: L \<-> ε-Cu0.765Ge0.235; _L: Ge 0.235; ε-Cu0.765Ge0.235: Ge 0.235_ | model | [1] Wang 2010 | Table 1, p. 2, row 4; `ORC-22MRGBYZJ4` |  |
 
 ## Sources
 
@@ -165,4 +165,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

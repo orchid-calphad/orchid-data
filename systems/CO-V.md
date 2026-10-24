@@ -114,41 +114,41 @@ Table: Invariant reactions reported in the literature for the Co–V system (35)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2183.15 | congruent melting: L -> (V) | (V): V 1 | experimental | [1] Bratberg 2003; _cites Smith 1993_ | Table 1, p. 4, row 12 |  |
-| 1768.15 | congruent melting: L -> (αpCo) | (αpCo): V 0 | experimental | [1] Bratberg 2003; _cites Hume-Rothery 1961_ | Table 1, p. 4, row 3 |  |
-| 1695.15 | peritectic: L + (V) ↔ σ | L: V 0.653; (V): V 0.78; σ: V 0.664 | model | [2] Wang 2015 | Table 4, p. 4, row 12 |  |
-| 1695.15 | Liquid + bcc -> sigma | L: V 0.66; bcc: V 0.78; sigma: V 0.67 | experimental | [3] Huang 2004; _cites Greenfield 1954_ | Table 2, p. 4, row 6 |  |
-| 1695.15 | peritectic: L + (V) -> σ | L: V 0.66; (V): V 0.78; σ: V 0.67 | experimental | [1] Bratberg 2003; _cites Koster 1955_ | Table 1, p. 4, row 10 |  |
-| 1695.15 | peritectic: L + (V) ↔ σ | L: V 0.66; (V): V 0.78; σ: V 0.67 | unspecified | [2] Wang 2015; _cites Ko_ | Table 4, p. 4, row 11 |  |
-| 1691.15 | Liquid + bcc -> sigma | L: V 0.648; bcc: V 0.779; sigma: V 0.6698 | model | [3] Huang 2004 | Table 2, p. 4, row 5 |  |
-| 1582.15 | eutectic |  | model | [3] Huang 2004 | p. 4 | “Another eutectic reaction coexisting with the liquid, fcc, VC and graphite phase on the Co-rich side corresponds to a composition of 12.06 at.% C, 1.425 at.% V at 1309 ◦ C.” |
-| 1521.15 | eutectoid: L -> (αpCo) + σ | L: V 0.415; (αpCo): V 0.35; σ: V 0.45 | experimental | [1] Bratberg 2003; _cites Koster 1955_ | Table 1, p. 4, row 9 |  |
-| 1521.15 | Liquid -> fcc + sigma | L: V 0.415; fcc: V 0.35; sigma: V 0.45 | experimental | [3] Huang 2004; _cites Koster 1955_ [doi](https://doi.org/10.1515/ijmr-1955-460307) | Table 2, p. 4, row 2 |  |
-| 1521.15 | eutectoid: L ↔ (αpCo) + σ | L: V 0.332; (αpCo): V 0.416; σ: V 0.478 | model | [2] Wang 2015 | Table 4, p. 4, row 10 |  |
-| 1521.15 | eutectoid: L ↔ (αpCo) + σ | L: V 0.35; (αpCo): V 0.415; σ: V 0.45 | unspecified | [2] Wang 2015; _cites Ko_ | Table 4, p. 4, row 9 |  |
-| 1519.15 | Liquid -> fcc + sigma | L: V 0.412; fcc: V 0.337; sigma: V 0.473 | model | [3] Huang 2004 | Table 2, p. 4, row 1 |  |
-| 1502.15 | eutectic |  | model | [3] Huang 2004 | p. 4 | “The lowest eutectic point is calculated at 1.168 at.% C, 42.54 at.% V and 1229 ◦ C. With decreasing temperature, fcc, V2 C and sigma phases will simultaneously precipitate.” |
-| 1502.15 | eutectic |  | model | [3] Huang 2004 | p. 1 | “The lowest eutectic point is calculated at 1229 ◦ C with composition 1.168 at.% C, 42.54 at.% V and the other eutectic reaction, liquid ↔ fcc + VC + graphite, is at 1309 ◦ C at a composition of 12.06 at.% C, 1.425 at.% V.” |
-| 1423.15 | peritectic |  | experimental | [3] Huang 2004; _cites Koster 1955_ | p. 3 | “The CoM3 phase was formed by a peritectic reaction between the sigma and the V-rich bcc phase at a peritectoid temperature initially reported near 1150 ◦ C \[10\], but more recently reported near 1025 ◦ C \[18\].” |
-| 1396.15 | magnetic: (αfCo) -> (αpCo) | (αpCo): V 0 | experimental | [1] Bratberg 2003; _cites Fernandez 2003_ | Table 1, p. 4, row 2 |  |
-| 1343.15 | other: Co3V ↔ (αpCo) | Co3V: V 0.285; (αpCo): V 0.285 | model | [2] Wang 2015 | Table 4, p. 4, row 6 |  |
-| 1343.15 | other: Co3V ↔ (αpCo) | Co3V: V 0.25; (αpCo): V 0.25 | unspecified | [2] Wang 2015; _cites Ko_ | Table 4, p. 4, row 5 |  |
-| 1343.15 | other: Co3V (fcc) -> (αpCo) | Co3V (fcc): Co 0.75, V 0.25; (αpCo): V 0.25 | experimental | [1] Bratberg 2003; _cites Koster 1955_ | Table 1, p. 4, row 7 |  |
-| 1318.15 | polymorphic: Co3V (hex) -> (Co3V(fcc) | Co3V (hex): Co 0.75, V 0.25 | experimental | [1] Bratberg 2003; _cites Smith 1993_ | Table 1, p. 4, row 6 |  |
-| 1299.15 | eutectoid: (αpCo) ↔ Co3V + σ | (αpCo): V 0.32; Co3V: V 0.34; σ: V 0.45 | unspecified | [2] Wang 2015; _cites Ko_ | Table 4, p. 4, row 7 |  |
-| 1299.15 | eutectoid: (αpCo) -> Co3V + σ | (αpCo): V 0.34; Co3V: V 0.32; σ: V 0.45 | experimental | [1] Bratberg 2003; _cites Koster 1955_ | Table 1, p. 4, row 8 |  |
-| 1299.15 | Sigma + bcc -> CoM3 | Sigma: V 0.6874; bcc: V 0.8314; CoM3: V 0.75 | model | [3] Huang 2004 | Table 2, p. 4, row 7 |  |
-| 1299.15 | eutectoid: (αpCo) ↔ Co3V + σ | (αpCo): V 0.305; Co3V: V 0.333; σ: V 0.455 | model | [2] Wang 2015 | Table 4, p. 4, row 8 |  |
-| 1299.15 | fcc -> Co3M + sigma | fcc: V 0.34; Co3M: V 0.25; sigma: V 0.45 | experimental | [3] Huang 2004; _cites Koster 1955_ [doi](https://doi.org/10.1515/ijmr-1955-460307) | Table 2, p. 4, row 4 |  |
-| 1298.15 | peritectic |  | experimental | [3] Huang 2004; _cites Zegler 1963_ | p. 3 | “The CoM3 phase was formed by a peritectic reaction between the sigma and the V-rich bcc phase at a peritectoid temperature initially reported near 1150 ◦ C \[10\], but more recently reported near 1025 ◦ C \[18\].” |
-| 1298.15 | Sigma + bcc -> CoM3 | Sigma: V 0.69; bcc: V 0.8; CoM3: V 0.75 | experimental | [3] Huang 2004; _cites Greenfield 1954_ | Table 2, p. 4, row 8 |  |
-| 1298.15 | peritectoid: σ + (V) ↔ CoV3 | σ: V 0.71; (V): V 0.84; CoV3: V 0.75 | experimental | [2] Wang 2015; _cites Zegler 1963_ | Table 4, p. 4, row 13 |  |
-| 1298.15 | peritectoid: σ + (V) -> CoV3 | σ: V 0.71; (V): V 0.84; CoV3: V 0.75 | experimental | [1] Bratberg 2003; _cites Zegler 1963_ | Table 1, p. 4, row 11 |  |
-| 1298.15 | peritectoid: σ + (V) ↔ CoV3 | σ: V 0.689; (V): V 0.904; CoV3: V 0.75 | model | [2] Wang 2015 | Table 4, p. 4, row 14 |  |
-| 1276.15 | fcc -> Co3M + sigma | fcc: V 0.3174; Co3M: V 0.25; sigma: V 0.4143 | model | [3] Huang 2004 | Table 2, p. 4, row 3 |  |
-| 991.15 | eutectoid: (αpCo) ↔ (αfCo) + Co3V | (αpCo): V 0.053; (αfCo): V 0.111; Co3V: V 0.208 | model | [2] Wang 2015 | Table 4, p. 4, row 4 |  |
-| 695.15 | polymorphic: (εCo) -> (αfCo) | (αfCo): V 0 | experimental | [1] Bratberg 2003; _cites Nishizawa 1983_ | Table 1, p. 4, row 1 |  |
-| 671.15 | eutectoid: (αfCo) ↔ (εCo) + Co3V | (αfCo): V 0.022; (εCo): V 0.027; Co3V: V 0.204 | model | [2] Wang 2015 | Table 4, p. 4, row 2 |  |
+| 2183.15 | congruent melting: L -> (V) | (V): V 1 | experimental | [1] Bratberg 2003; _cites Smith 1993_ | Table 1, p. 4, row 12; `ORC-KEMP2LSGDR` |  |
+| 1768.15 | congruent melting: L -> (αpCo) | (αpCo): V 0 | experimental | [1] Bratberg 2003; _cites Hume-Rothery 1961_ | Table 1, p. 4, row 3; `ORC-4ZIH23RC6F` |  |
+| 1695.15 | peritectic: L + (V) ↔ σ | L: V 0.653; (V): V 0.78; σ: V 0.664 | model | [2] Wang 2015 | Table 4, p. 4, row 12; `ORC-3NWH6OZITL` |  |
+| 1695.15 | Liquid + bcc -> sigma | L: V 0.66; bcc: V 0.78; sigma: V 0.67 | experimental | [3] Huang 2004; _cites Greenfield 1954_ | Table 2, p. 4, row 6; `ORC-5H5HSZJJQP` |  |
+| 1695.15 | peritectic: L + (V) -> σ | L: V 0.66; (V): V 0.78; σ: V 0.67 | experimental | [1] Bratberg 2003; _cites Koster 1955_ | Table 1, p. 4, row 10; `ORC-UWKOGK2QCD` |  |
+| 1695.15 | peritectic: L + (V) ↔ σ | L: V 0.66; (V): V 0.78; σ: V 0.67 | unspecified | [2] Wang 2015; _cites Ko_ | Table 4, p. 4, row 11; `ORC-VZT73Y63WQ` |  |
+| 1691.15 | Liquid + bcc -> sigma | L: V 0.648; bcc: V 0.779; sigma: V 0.6698 | model | [3] Huang 2004 | Table 2, p. 4, row 5; `ORC-5TR6CHWXJG` |  |
+| 1582.15 | eutectic |  | model | [3] Huang 2004 | p. 4; `ORC-6LTJRX6LNQ` | “Another eutectic reaction coexisting with the liquid, fcc, VC and graphite phase on the Co-rich side corresponds to a composition of 12.06 at.% C, 1.425 at.% V at 1309 ◦ C.” |
+| 1521.15 | eutectoid: L -> (αpCo) + σ | L: V 0.415; (αpCo): V 0.35; σ: V 0.45 | experimental | [1] Bratberg 2003; _cites Koster 1955_ | Table 1, p. 4, row 9; `ORC-6QAHNJB56J` |  |
+| 1521.15 | Liquid -> fcc + sigma | L: V 0.415; fcc: V 0.35; sigma: V 0.45 | experimental | [3] Huang 2004; _cites Koster 1955_ [doi](https://doi.org/10.1515/ijmr-1955-460307) | Table 2, p. 4, row 2; `ORC-G3IQ32MNHB` |  |
+| 1521.15 | eutectoid: L ↔ (αpCo) + σ | L: V 0.332; (αpCo): V 0.416; σ: V 0.478 | model | [2] Wang 2015 | Table 4, p. 4, row 10; `ORC-H2HI34M3QI` |  |
+| 1521.15 | eutectoid: L ↔ (αpCo) + σ | L: V 0.35; (αpCo): V 0.415; σ: V 0.45 | unspecified | [2] Wang 2015; _cites Ko_ | Table 4, p. 4, row 9; `ORC-ZG7N6VAQPY` |  |
+| 1519.15 | Liquid -> fcc + sigma | L: V 0.412; fcc: V 0.337; sigma: V 0.473 | model | [3] Huang 2004 | Table 2, p. 4, row 1; `ORC-ZRST2CTMIK` |  |
+| 1502.15 | eutectic |  | model | [3] Huang 2004 | p. 4; `ORC-DUV2GQRTME` | “The lowest eutectic point is calculated at 1.168 at.% C, 42.54 at.% V and 1229 ◦ C. With decreasing temperature, fcc, V2 C and sigma phases will simultaneously precipitate.” |
+| 1502.15 | eutectic |  | model | [3] Huang 2004 | p. 1; `ORC-Z7YLPTKRB6` | “The lowest eutectic point is calculated at 1229 ◦ C with composition 1.168 at.% C, 42.54 at.% V and the other eutectic reaction, liquid ↔ fcc + VC + graphite, is at 1309 ◦ C at a composition of 12.06 at.% C, 1.425 at.% V.” |
+| 1423.15 | peritectic |  | experimental | [3] Huang 2004; _cites Koster 1955_ | p. 3; `ORC-DIANCZCYFE.01df54` | “The CoM3 phase was formed by a peritectic reaction between the sigma and the V-rich bcc phase at a peritectoid temperature initially reported near 1150 ◦ C \[10\], but more recently reported near 1025 ◦ C \[18\].” |
+| 1396.15 | magnetic: (αfCo) -> (αpCo) | (αpCo): V 0 | experimental | [1] Bratberg 2003; _cites Fernandez 2003_ | Table 1, p. 4, row 2; `ORC-LWNJQUK6UF` |  |
+| 1343.15 | other: Co3V ↔ (αpCo) | Co3V: V 0.285; (αpCo): V 0.285 | model | [2] Wang 2015 | Table 4, p. 4, row 6; `ORC-UFTAPEGOWJ` |  |
+| 1343.15 | other: Co3V ↔ (αpCo) | Co3V: V 0.25; (αpCo): V 0.25 | unspecified | [2] Wang 2015; _cites Ko_ | Table 4, p. 4, row 5; `ORC-UKL3JHGZEF` |  |
+| 1343.15 | other: Co3V (fcc) -> (αpCo) | Co3V (fcc): Co 0.75, V 0.25; (αpCo): V 0.25 | experimental | [1] Bratberg 2003; _cites Koster 1955_ | Table 1, p. 4, row 7; `ORC-Z3Y3EAZKYS` |  |
+| 1318.15 | polymorphic: Co3V (hex) -> (Co3V(fcc) | Co3V (hex): Co 0.75, V 0.25 | experimental | [1] Bratberg 2003; _cites Smith 1993_ | Table 1, p. 4, row 6; `ORC-NJ5OIBM7EB` |  |
+| 1299.15 | eutectoid: (αpCo) ↔ Co3V + σ | (αpCo): V 0.32; Co3V: V 0.34; σ: V 0.45 | unspecified | [2] Wang 2015; _cites Ko_ | Table 4, p. 4, row 7; `ORC-4IBFGCOEYH` |  |
+| 1299.15 | eutectoid: (αpCo) -> Co3V + σ | (αpCo): V 0.34; Co3V: V 0.32; σ: V 0.45 | experimental | [1] Bratberg 2003; _cites Koster 1955_ | Table 1, p. 4, row 8; `ORC-7Y3PTN6D6K` |  |
+| 1299.15 | Sigma + bcc -> CoM3 | Sigma: V 0.6874; bcc: V 0.8314; CoM3: V 0.75 | model | [3] Huang 2004 | Table 2, p. 4, row 7; `ORC-AEGF5T5POI` |  |
+| 1299.15 | eutectoid: (αpCo) ↔ Co3V + σ | (αpCo): V 0.305; Co3V: V 0.333; σ: V 0.455 | model | [2] Wang 2015 | Table 4, p. 4, row 8; `ORC-GKYGXNS6XY` |  |
+| 1299.15 | fcc -> Co3M + sigma | fcc: V 0.34; Co3M: V 0.25; sigma: V 0.45 | experimental | [3] Huang 2004; _cites Koster 1955_ [doi](https://doi.org/10.1515/ijmr-1955-460307) | Table 2, p. 4, row 4; `ORC-SGWIIAA6TM` |  |
+| 1298.15 | peritectic |  | experimental | [3] Huang 2004; _cites Zegler 1963_ | p. 3; `ORC-DIANCZCYFE.99b8d7` | “The CoM3 phase was formed by a peritectic reaction between the sigma and the V-rich bcc phase at a peritectoid temperature initially reported near 1150 ◦ C \[10\], but more recently reported near 1025 ◦ C \[18\].” |
+| 1298.15 | Sigma + bcc -> CoM3 | Sigma: V 0.69; bcc: V 0.8; CoM3: V 0.75 | experimental | [3] Huang 2004; _cites Greenfield 1954_ | Table 2, p. 4, row 8; `ORC-GG6P4AWT2T` |  |
+| 1298.15 | peritectoid: σ + (V) ↔ CoV3 | σ: V 0.71; (V): V 0.84; CoV3: V 0.75 | experimental | [2] Wang 2015; _cites Zegler 1963_ | Table 4, p. 4, row 13; `ORC-GH7T53CJCN` |  |
+| 1298.15 | peritectoid: σ + (V) -> CoV3 | σ: V 0.71; (V): V 0.84; CoV3: V 0.75 | experimental | [1] Bratberg 2003; _cites Zegler 1963_ | Table 1, p. 4, row 11; `ORC-NEAI6Y4NF5` |  |
+| 1298.15 | peritectoid: σ + (V) ↔ CoV3 | σ: V 0.689; (V): V 0.904; CoV3: V 0.75 | model | [2] Wang 2015 | Table 4, p. 4, row 14; `ORC-U6RBHYKI3X` |  |
+| 1276.15 | fcc -> Co3M + sigma | fcc: V 0.3174; Co3M: V 0.25; sigma: V 0.4143 | model | [3] Huang 2004 | Table 2, p. 4, row 3; `ORC-UDMHNVQNLY` |  |
+| 991.15 | eutectoid: (αpCo) ↔ (αfCo) + Co3V | (αpCo): V 0.053; (αfCo): V 0.111; Co3V: V 0.208 | model | [2] Wang 2015 | Table 4, p. 4, row 4; `ORC-77V6CGUJZN` |  |
+| 695.15 | polymorphic: (εCo) -> (αfCo) | (αfCo): V 0 | experimental | [1] Bratberg 2003; _cites Nishizawa 1983_ | Table 1, p. 4, row 1; `ORC-7WJR2L4JOG` |  |
+| 671.15 | eutectoid: (αfCo) ↔ (εCo) + Co3V | (αfCo): V 0.022; (εCo): V 0.027; Co3V: V 0.204 | model | [2] Wang 2015 | Table 4, p. 4, row 2; `ORC-4S7FQSPGYN` |  |
 
 ## Formation enthalpies
 
@@ -158,61 +158,61 @@ Table: Enthalpies of formation, Co–V system (55)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Co3V |  | -16.3103 kJ/mol-atom | 0 | DFT |  |  | [4] Wang 2020 | Table 2, p. 20, row 8 |  |
-| Co3V |  | -7.2976 kJ/mol-atom | 0 | DFT |  |  | [4] Wang 2020 | Table 2, p. 20, row 11 |  |
-| Co3V |  | -7.1374 kJ/mol-atom | 0 | DFT |  |  | [4] Wang 2020 | Table 2, p. 20, row 7 |  |
-| Co3V |  | -7.0055 kJ/mol-atom | 0 | DFT |  |  | [4] Wang 2020 | Table 2, p. 20, row 10 |  |
-| Co3V |  | -1.3604 kJ/mol-atom | 0 | DFT |  |  | [4] Wang 2020 | Table 2, p. 20, row 4 |  |
-| Co3V |  | -6.000e-4 kJ/mol-atom | 0 | DFT |  |  | [4] Wang 2020 | Table 2, p. 20, row 3 |  |
-| Co3V |  | 1.1026 kJ/mol-atom | 0 | DFT |  |  | [4] Wang 2020 | Table 2, p. 20, row 1 |  |
-| Co3V |  | 1.7914 kJ/mol-atom | 0 | DFT |  |  | [4] Wang 2020 | Table 2, p. 20, row 6 |  |
-| Co3V |  | 4.4217 kJ/mol-atom | 0 | DFT |  |  | [4] Wang 2020 | Table 2, p. 20, row 12 |  |
-| Co3V |  | 4.5149 kJ/mol-atom | 0 | DFT |  |  | [4] Wang 2020 | Table 2, p. 20, row 5 |  |
-| Co3V |  | 7.0017 kJ/mol-atom | 0 | DFT |  |  | [4] Wang 2020 | Table 2, p. 20, row 9 |  |
-| Co3V |  | 8.4967 kJ/mol-atom | 0 | DFT |  |  | [4] Wang 2020 | Table 2, p. 20, row 16 |  |
-| Co3V |  | 9.8872 kJ/mol-atom | 0 | DFT |  |  | [4] Wang 2020 | Table 2, p. 20, row 14 |  |
-| Co3V |  | 13.9387 kJ/mol-atom | 0 | DFT |  |  | [4] Wang 2020 | Table 2, p. 20, row 13 |  |
-| Co3V |  | 17.3899 kJ/mol-atom | 0 | DFT |  |  | [4] Wang 2020 | Table 2, p. 20, row 15 |  |
-| Co3V |  | 23.2844 kJ/mol-atom | 0 | DFT |  |  | [4] Wang 2020 | Table 2, p. 20, row 2 |  |
-| CoV3 |  | -18.9595 kJ/mol-atom | 0 | DFT |  |  | [4] Wang 2020 | Table 2, p. 20, row 19 |  |
-| CoV3 |  | -2.6519 kJ/mol-atom | 0 | DFT |  |  | [4] Wang 2020 | Table 2, p. 20, row 18 |  |
-| CoV3 |  | 4.642 kJ/mol-atom | 0 | DFT |  |  | [4] Wang 2020 | Table 2, p. 20, row 20 |  |
-| CoV3 |  | 9.1849 kJ/mol-atom | 0 | DFT |  |  | [4] Wang 2020 | Table 2, p. 20, row 17 |  |
-| bcc |  | -2.845 kJ/mol-atom | 1473 | experimental |  |  | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 3, p. 6, row 17 |  |
-| bcc |  | -2.845 kJ/mol-atom | 1473 | experimental |  |  | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 2, p. 6, row 9 |  |
-| bcc |  | -1.637 kJ/mol-atom | 1473 | model |  |  | [1] Bratberg 2003 | Table 3, p. 6, row 18 |  |
-| bcc |  | -1.445 kJ/mol-atom | 1473 | experimental |  |  | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 3, p. 6, row 19 |  |
-| bcc |  | -1.445 kJ/mol-atom | 1473 | experimental |  |  | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 2, p. 6, row 10 |  |
-| bcc |  | -0.876 kJ/mol-atom | 1473 | model |  |  | [1] Bratberg 2003 | Table 3, p. 6, row 20 |  |
-| fcc |  | -9.75 kJ/mol-atom | 1473 | experimental |  |  | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 3, p. 6, row 7 |  |
-| fcc |  | -9.75 kJ/mol-atom | 1473 | experimental |  |  | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 2, p. 6, row 4 |  |
-| fcc |  | -9.04 kJ/mol-atom | 1473 | experimental |  |  | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 2, p. 6, row 3 |  |
-| fcc |  | -9.04 kJ/mol-atom | 1473 | experimental |  |  | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 3, p. 6, row 5 |  |
-| fcc |  | -8.861 kJ/mol-atom | 1473 | model |  |  | [1] Bratberg 2003 | Table 3, p. 6, row 8 |  |
-| fcc |  | -8.651 kJ/mol-atom | 1473 | model |  |  | [1] Bratberg 2003 | Table 3, p. 6, row 6 |  |
-| fcc |  | -7.071 kJ/mol-atom | 1473 | model |  |  | [1] Bratberg 2003 | Table 3, p. 6, row 4 |  |
-| fcc |  | -7.03 kJ/mol-atom | 1473 | experimental |  |  | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 3, p. 6, row 3 |  |
-| fcc |  | -7.03 kJ/mol-atom | 1473 | experimental |  |  | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 2, p. 6, row 2 |  |
-| fcc |  | -4.1 kJ/mol-atom | 1473 | experimental |  |  | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 2, p. 6, row 1 |  |
-| fcc |  | -4.1 kJ/mol-atom | 1473 | experimental |  |  | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 3, p. 6, row 1 |  |
-| fcc |  | -3.821 kJ/mol-atom | 1473 | model |  |  | [1] Bratberg 2003 | Table 3, p. 6, row 2 |  |
-| σ |  | -11.225 kJ/mol-atom ± 0.85 | 1473 | experimental |  |  | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 3, p. 6, row 11 |  |
-| σ |  | -11.225 kJ/mol-atom ± 0.85 | 1473 | experimental |  |  | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 2, p. 6, row 6 |  |
-| σ |  | -11.005 kJ/mol-atom | 1473 | experimental |  |  | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 3, p. 6, row 13 |  |
-| σ |  | -11.005 kJ/mol-atom | 1473 | experimental |  |  | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 2, p. 6, row 7 |  |
-| σ |  | -10.88 kJ/mol-atom | 1473 | experimental |  |  | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 3, p. 6, row 9 |  |
-| σ |  | -10.88 kJ/mol-atom | 1473 | experimental |  |  | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 2, p. 6, row 5 |  |
-| σ |  | -10.87 kJ/mol-atom | 1473 | model |  |  | [1] Bratberg 2003 | Table 3, p. 6, row 12 |  |
-| σ |  | -10.818 kJ/mol-atom | 1473 | model |  |  | [1] Bratberg 2003 | Table 3, p. 6, row 14 |  |
-| σ |  | -10.805 kJ/mol-atom | 1473 | model |  |  | [1] Bratberg 2003 | Table 3, p. 6, row 10 |  |
-| σ |  | -10.365 kJ/mol-atom | 1473 | model |  |  | [1] Bratberg 2003 | Table 3, p. 6, row 16 |  |
-| σ |  | -10 kJ/mol-atom | 1473 | experimental |  |  | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 2, p. 6, row 8 |  |
-| σ |  | -10 kJ/mol-atom | 1473 | experimental |  |  | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 3, p. 6, row 15 |  |
-| σ |  | -1.9192 kJ/mol-atom | 0 | DFT |  |  | [4] Wang 2020 | Table 2, p. 20, row 24 |  |
-| σ |  | -0.2289 kJ/mol-atom | 0 | DFT |  |  | [4] Wang 2020 | Table 2, p. 20, row 25 |  |
-| σ |  | 0.7562 kJ/mol-atom | 0 | DFT |  |  | [4] Wang 2020 | Table 2, p. 20, row 22 |  |
-| σ |  | 1.5473 kJ/mol-atom | 0 | DFT |  |  | [4] Wang 2020 | Table 2, p. 20, row 23 |  |
-| σ |  | 5.6217 kJ/mol-atom | 0 | DFT |  |  | [4] Wang 2020 | Table 2, p. 20, row 21 |  |
+| Co3V |  | -16.3103 kJ/mol-atom | 0 | DFT |  |  | [4] Wang 2020 | Table 2, p. 20, row 8; `ORC-DD374OL74D` |  |
+| Co3V |  | -7.2976 kJ/mol-atom | 0 | DFT |  |  | [4] Wang 2020 | Table 2, p. 20, row 11; `ORC-QAIII4KUMU` |  |
+| Co3V |  | -7.1374 kJ/mol-atom | 0 | DFT |  |  | [4] Wang 2020 | Table 2, p. 20, row 7; `ORC-PHRU4NQ5CT` |  |
+| Co3V |  | -7.0055 kJ/mol-atom | 0 | DFT |  |  | [4] Wang 2020 | Table 2, p. 20, row 10; `ORC-BO42QNAHFH` |  |
+| Co3V |  | -1.3604 kJ/mol-atom | 0 | DFT |  |  | [4] Wang 2020 | Table 2, p. 20, row 4; `ORC-BNGDYTKBIZ` |  |
+| Co3V |  | -6.000e-4 kJ/mol-atom | 0 | DFT |  |  | [4] Wang 2020 | Table 2, p. 20, row 3; `ORC-DDIXQSLYF6` |  |
+| Co3V |  | 1.1026 kJ/mol-atom | 0 | DFT |  |  | [4] Wang 2020 | Table 2, p. 20, row 1; `ORC-NUGYEFNDZM` |  |
+| Co3V |  | 1.7914 kJ/mol-atom | 0 | DFT |  |  | [4] Wang 2020 | Table 2, p. 20, row 6; `ORC-YZJXUT3IKL` |  |
+| Co3V |  | 4.4217 kJ/mol-atom | 0 | DFT |  |  | [4] Wang 2020 | Table 2, p. 20, row 12; `ORC-UL2KXUEW66` |  |
+| Co3V |  | 4.5149 kJ/mol-atom | 0 | DFT |  |  | [4] Wang 2020 | Table 2, p. 20, row 5; `ORC-7C2YMW7A77` |  |
+| Co3V |  | 7.0017 kJ/mol-atom | 0 | DFT |  |  | [4] Wang 2020 | Table 2, p. 20, row 9; `ORC-VLFCSVZM2Q` |  |
+| Co3V |  | 8.4967 kJ/mol-atom | 0 | DFT |  |  | [4] Wang 2020 | Table 2, p. 20, row 16; `ORC-6ZZU27SDIK` |  |
+| Co3V |  | 9.8872 kJ/mol-atom | 0 | DFT |  |  | [4] Wang 2020 | Table 2, p. 20, row 14; `ORC-JHN7POPRKN` |  |
+| Co3V |  | 13.9387 kJ/mol-atom | 0 | DFT |  |  | [4] Wang 2020 | Table 2, p. 20, row 13; `ORC-2OVRJO3IAD` |  |
+| Co3V |  | 17.3899 kJ/mol-atom | 0 | DFT |  |  | [4] Wang 2020 | Table 2, p. 20, row 15; `ORC-SZ65PHMG2Q` |  |
+| Co3V |  | 23.2844 kJ/mol-atom | 0 | DFT |  |  | [4] Wang 2020 | Table 2, p. 20, row 2; `ORC-6SODOQ4MGY` |  |
+| CoV3 |  | -18.9595 kJ/mol-atom | 0 | DFT |  |  | [4] Wang 2020 | Table 2, p. 20, row 19; `ORC-4T2NOFYF4Y` |  |
+| CoV3 |  | -2.6519 kJ/mol-atom | 0 | DFT |  |  | [4] Wang 2020 | Table 2, p. 20, row 18; `ORC-YO25DK7EV4` |  |
+| CoV3 |  | 4.642 kJ/mol-atom | 0 | DFT |  |  | [4] Wang 2020 | Table 2, p. 20, row 20; `ORC-3SRRMHKM5B` |  |
+| CoV3 |  | 9.1849 kJ/mol-atom | 0 | DFT |  |  | [4] Wang 2020 | Table 2, p. 20, row 17; `ORC-RACHXT46RW` |  |
+| bcc |  | -2.845 kJ/mol-atom | 1473 | experimental |  |  | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 3, p. 6, row 17; `ORC-FXFJKQHZZV` |  |
+| bcc |  | -2.845 kJ/mol-atom | 1473 | experimental |  |  | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 2, p. 6, row 9; `ORC-XBRUG5EF45.350c25` |  |
+| bcc |  | -1.637 kJ/mol-atom | 1473 | model |  |  | [1] Bratberg 2003 | Table 3, p. 6, row 18; `ORC-XG3GNB6RMF` |  |
+| bcc |  | -1.445 kJ/mol-atom | 1473 | experimental |  |  | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 3, p. 6, row 19; `ORC-OGVDEIKLWQ` |  |
+| bcc |  | -1.445 kJ/mol-atom | 1473 | experimental |  |  | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 2, p. 6, row 10; `ORC-WKCNEY3JHT.91fa9d` |  |
+| bcc |  | -0.876 kJ/mol-atom | 1473 | model |  |  | [1] Bratberg 2003 | Table 3, p. 6, row 20; `ORC-D6KOZC2MOT` |  |
+| fcc |  | -9.75 kJ/mol-atom | 1473 | experimental |  |  | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 3, p. 6, row 7; `ORC-A6Y367GBWE` |  |
+| fcc |  | -9.75 kJ/mol-atom | 1473 | experimental |  |  | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 2, p. 6, row 4; `ORC-QNFDDQCFRA.35ccb5` |  |
+| fcc |  | -9.04 kJ/mol-atom | 1473 | experimental |  |  | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 2, p. 6, row 3; `ORC-2SMDMCLMSH.5e8ac3` |  |
+| fcc |  | -9.04 kJ/mol-atom | 1473 | experimental |  |  | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 3, p. 6, row 5; `ORC-D7JF4G5AGH` |  |
+| fcc |  | -8.861 kJ/mol-atom | 1473 | model |  |  | [1] Bratberg 2003 | Table 3, p. 6, row 8; `ORC-CYRMJB74CX` |  |
+| fcc |  | -8.651 kJ/mol-atom | 1473 | model |  |  | [1] Bratberg 2003 | Table 3, p. 6, row 6; `ORC-GPKNUOX7S7` |  |
+| fcc |  | -7.071 kJ/mol-atom | 1473 | model |  |  | [1] Bratberg 2003 | Table 3, p. 6, row 4; `ORC-MW3ZQJ6O7E` |  |
+| fcc |  | -7.03 kJ/mol-atom | 1473 | experimental |  |  | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 3, p. 6, row 3; `ORC-GNXKZJUIBK` |  |
+| fcc |  | -7.03 kJ/mol-atom | 1473 | experimental |  |  | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 2, p. 6, row 2; `ORC-P5LQZ6SY3W.8f351d` |  |
+| fcc |  | -4.1 kJ/mol-atom | 1473 | experimental |  |  | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 2, p. 6, row 1; `ORC-AU2XOWJ2LW.742aa0` |  |
+| fcc |  | -4.1 kJ/mol-atom | 1473 | experimental |  |  | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 3, p. 6, row 1; `ORC-WEIKVNCEON` |  |
+| fcc |  | -3.821 kJ/mol-atom | 1473 | model |  |  | [1] Bratberg 2003 | Table 3, p. 6, row 2; `ORC-F6INHVTDKW` |  |
+| σ |  | -11.225 kJ/mol-atom ± 0.85 | 1473 | experimental |  |  | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 3, p. 6, row 11; `ORC-UJJXYBJ42H` |  |
+| σ |  | -11.225 kJ/mol-atom ± 0.85 | 1473 | experimental |  |  | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 2, p. 6, row 6; `ORC-WF7GSIO23T.12951a` |  |
+| σ |  | -11.005 kJ/mol-atom | 1473 | experimental |  |  | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 3, p. 6, row 13; `ORC-5KBWMK5IJJ` |  |
+| σ |  | -11.005 kJ/mol-atom | 1473 | experimental |  |  | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 2, p. 6, row 7; `ORC-IXDSYJ3JRZ.03b816` |  |
+| σ |  | -10.88 kJ/mol-atom | 1473 | experimental |  |  | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 3, p. 6, row 9; `ORC-FNHDX46H7J` |  |
+| σ |  | -10.88 kJ/mol-atom | 1473 | experimental |  |  | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 2, p. 6, row 5; `ORC-Q6OEQ6HS6K.c27469` |  |
+| σ |  | -10.87 kJ/mol-atom | 1473 | model |  |  | [1] Bratberg 2003 | Table 3, p. 6, row 12; `ORC-XLPKYJHMOI` |  |
+| σ |  | -10.818 kJ/mol-atom | 1473 | model |  |  | [1] Bratberg 2003 | Table 3, p. 6, row 14; `ORC-HFSELBLM2Z` |  |
+| σ |  | -10.805 kJ/mol-atom | 1473 | model |  |  | [1] Bratberg 2003 | Table 3, p. 6, row 10; `ORC-VQORDATBBU` |  |
+| σ |  | -10.365 kJ/mol-atom | 1473 | model |  |  | [1] Bratberg 2003 | Table 3, p. 6, row 16; `ORC-C4MP5WGRG6` |  |
+| σ |  | -10 kJ/mol-atom | 1473 | experimental |  |  | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 2, p. 6, row 8; `ORC-IUKOSILTDB.8d5254` |  |
+| σ |  | -10 kJ/mol-atom | 1473 | experimental |  |  | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 3, p. 6, row 15; `ORC-TRZLG3DQPK` |  |
+| σ |  | -1.9192 kJ/mol-atom | 0 | DFT |  |  | [4] Wang 2020 | Table 2, p. 20, row 24; `ORC-3KFV6SG6OR` |  |
+| σ |  | -0.2289 kJ/mol-atom | 0 | DFT |  |  | [4] Wang 2020 | Table 2, p. 20, row 25; `ORC-BV3DGGBE7C` |  |
+| σ |  | 0.7562 kJ/mol-atom | 0 | DFT |  |  | [4] Wang 2020 | Table 2, p. 20, row 22; `ORC-C7T5SRREBV` |  |
+| σ |  | 1.5473 kJ/mol-atom | 0 | DFT |  |  | [4] Wang 2020 | Table 2, p. 20, row 23; `ORC-ZDHDJPBNKW` |  |
+| σ |  | 5.6217 kJ/mol-atom | 0 | DFT |  |  | [4] Wang 2020 | Table 2, p. 20, row 21; `ORC-ABFFEBVUDH` |  |
 
 ## Other properties
 
@@ -222,17 +222,17 @@ Table: Phase transition, Co–V system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 695.15 K | 695.15 | polymorphic | model | [1] Bratberg 2003; _cites Nishizawa 1983_ | p. 4 | “The allotropic transition between ⑀Co and ␣fCo is currently listed as occurring at 422 °C.\[26\]” |
-| Phase transition | 1283 K | 1283 | congruent transformation | model | [4] Wang 2020 | p. 14 | “The calculated congruent FCC-L12 transition temperature is 1283 K, which is consistent with the experimental data.” |
-| Phase transition | 1296.15 K | 1296.15 |  | model | [1] Bratberg 2003; _cites Inden 1981_ [doi](https://doi.org/10.1016/0036-9748%2881%2990049-1) | p. 4 | “At 1023 °C and 3-4 at.% vanadium Inden\[13\] calculated a socalled tricritical point\[30\] to exist.” |
-| Phase transition | 1298.15 K | 1298.15 | other: ␴ + V rich terminal solution -> CoV3 | experimental | [1] Bratberg 2003; _cites Zegler 1963_ | p. 5 | “The intermediate CoV3 phase forms by a peritectoid reaction between ␴ and the V rich terminal solution with the peritectoid temperature initially reported as near 1150 °C\[9\] but more recently reported as closer to 1025 °C.\[29\]” |
-| Phase transition | 1318 K | 1318 |  | experimental | [4] Wang 2020 | p. 5 | “The hP24 Co3V transforms to FCC phase at about 1318 K (1312 K to 1323 K).” |
-| Phase transition | 1318.15 K | 1318.15 |  | model | [1] Bratberg 2003; _cites Nagel 1997_ [doi](https://doi.org/10.1007/bf02646756) | p. 4 | “Köster and Schmid\[9\] found this at 1070 °C and it was later estimated to be 1045 °C.\[32\]” |
-| Phase transition | 1343.15 K | 1343.15 |  | experimental | [1] Bratberg 2003; _cites Koster 1955_ | p. 4 | “Köster and Schmid\[9\] found this at 1070 °C and it was later estimated to be 1045 °C.\[32\]” |
-| Phase transition | 1396.15 K | 1396.15 | magnetic | model | [1] Bratberg 2003; _cites Fernandez 2003_ | p. 4 | “The Curie temperature of pure Co for the magnetic transition is 1123 °C\[42\] and the melting point of pure solid Co is 1495 °C.\[26,27,31\]” |
-| Phase transition | 1423.15 K | 1423.15 | other: ␴ + V rich terminal solution -> CoV3 | experimental | [1] Bratberg 2003; _cites Koster 1955_ | p. 5 | “The intermediate CoV3 phase forms by a peritectoid reaction between ␴ and the V rich terminal solution with the peritectoid temperature initially reported as near 1150 °C\[9\] but more recently reported as closer to 1025 °C.\[29\]” |
-| Phase transition | 1768.15 K | 1768.15 |  | experimental | [1] Bratberg 2003; _cites Nishizawa 1983_ | p. 4 | “The Curie temperature of pure Co for the magnetic transition is 1123 °C\[42\] and the melting point of pure solid Co is 1495 °C.\[26,27,31\]” |
-| Phase transition | 2183.15 K | 2183.15 |  | experimental | [1] Bratberg 2003; _cites Smith 1993_ | p. 5 | “Finally, the melting temperature of pure V is 1910 °C.\[28\]” |
+| Phase transition | 695.15 K | 695.15 | polymorphic | model | [1] Bratberg 2003; _cites Nishizawa 1983_ | p. 4; `ORC-JBGC6S6KS4` | “The allotropic transition between ⑀Co and ␣fCo is currently listed as occurring at 422 °C.\[26\]” |
+| Phase transition | 1283 K | 1283 | congruent transformation | model | [4] Wang 2020 | p. 14; `ORC-43EHWCO2LT` | “The calculated congruent FCC-L12 transition temperature is 1283 K, which is consistent with the experimental data.” |
+| Phase transition | 1296.15 K | 1296.15 |  | model | [1] Bratberg 2003; _cites Inden 1981_ [doi](https://doi.org/10.1016/0036-9748%2881%2990049-1) | p. 4; `ORC-DUQ7WPVHGF` | “At 1023 °C and 3-4 at.% vanadium Inden\[13\] calculated a socalled tricritical point\[30\] to exist.” |
+| Phase transition | 1298.15 K | 1298.15 | other: ␴ + V rich terminal solution -> CoV3 | experimental | [1] Bratberg 2003; _cites Zegler 1963_ | p. 5; `ORC-RJ6NW2S2S4.ebd78a` | “The intermediate CoV3 phase forms by a peritectoid reaction between ␴ and the V rich terminal solution with the peritectoid temperature initially reported as near 1150 °C\[9\] but more recently reported as closer to 1025 °C.\[29\]” |
+| Phase transition | 1318 K | 1318 |  | experimental | [4] Wang 2020 | p. 5; `ORC-HKPITGWIUP` | “The hP24 Co3V transforms to FCC phase at about 1318 K (1312 K to 1323 K).” |
+| Phase transition | 1318.15 K | 1318.15 |  | model | [1] Bratberg 2003; _cites Nagel 1997_ [doi](https://doi.org/10.1007/bf02646756) | p. 4; `ORC-ZRZKDXOCAM.ef2d4d` | “Köster and Schmid\[9\] found this at 1070 °C and it was later estimated to be 1045 °C.\[32\]” |
+| Phase transition | 1343.15 K | 1343.15 |  | experimental | [1] Bratberg 2003; _cites Koster 1955_ | p. 4; `ORC-ZRZKDXOCAM.a229b9` | “Köster and Schmid\[9\] found this at 1070 °C and it was later estimated to be 1045 °C.\[32\]” |
+| Phase transition | 1396.15 K | 1396.15 | magnetic | model | [1] Bratberg 2003; _cites Fernandez 2003_ | p. 4; `ORC-6CZQPG77VJ.a426dd` | “The Curie temperature of pure Co for the magnetic transition is 1123 °C\[42\] and the melting point of pure solid Co is 1495 °C.\[26,27,31\]” |
+| Phase transition | 1423.15 K | 1423.15 | other: ␴ + V rich terminal solution -> CoV3 | experimental | [1] Bratberg 2003; _cites Koster 1955_ | p. 5; `ORC-RJ6NW2S2S4.00c775` | “The intermediate CoV3 phase forms by a peritectoid reaction between ␴ and the V rich terminal solution with the peritectoid temperature initially reported as near 1150 °C\[9\] but more recently reported as closer to 1025 °C.\[29\]” |
+| Phase transition | 1768.15 K | 1768.15 |  | experimental | [1] Bratberg 2003; _cites Nishizawa 1983_ | p. 4; `ORC-6CZQPG77VJ.4ec4b3` | “The Curie temperature of pure Co for the magnetic transition is 1123 °C\[42\] and the melting point of pure solid Co is 1495 °C.\[26,27,31\]” |
+| Phase transition | 2183.15 K | 2183.15 |  | experimental | [1] Bratberg 2003; _cites Smith 1993_ | p. 5; `ORC-52UJTQEMG4` | “Finally, the melting temperature of pure V is 1910 °C.\[28\]” |
 
 ### Phase equilibrium (6)
 
@@ -240,12 +240,12 @@ Table: Phase equilibrium, Co–V system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 973.15 | (αfCo) + Co3V; _(αfCo): Co 0.9439, V 0.0561; Co3V: Co 0.781, V 0.219_ | experimental | [2] Wang 2015 | Table 2, p. 3, row 6 |  |
-| Phase composition |  | 1073.15 | (αfCo) + (αpCo); _(αfCo): Co 0.951, V 0.049; (αpCo): Co 0.9, V 0.1_ | experimental | [2] Wang 2015 | Table 2, p. 3, row 1 |  |
-| Phase composition |  | 1073.15 | (αpCo) + Co3V; _(αpCo): Co 0.848, V 0.152; Co3V: Co 0.792, V 0.208_ | experimental | [2] Wang 2015 | Table 2, p. 3, row 2 |  |
-| Phase composition |  | 1073.15 | Co3V + σ; _Co3V: Co 0.683, V 0.317; σ: Co 0.545, V 0.455_ | experimental | [2] Wang 2015 | Table 2, p. 3, row 3 |  |
-| Phase composition |  | 1073.15 | CoV3 + (Cr, V); _CoV3: Co 0.244, V 0.756; (Cr, V): Co 0.037, V 0.963_ | experimental | [2] Wang 2015 | Table 2, p. 3, row 5 |  |
-| Phase composition |  | 1073.15 | σ + CoV3; _σ: Co 0.302, V 0.698; CoV3: Co 0.244, V 0.756_ | experimental | [2] Wang 2015 | Table 2, p. 3, row 4 |  |
+| Phase composition |  | 973.15 | (αfCo) + Co3V; _(αfCo): Co 0.9439, V 0.0561; Co3V: Co 0.781, V 0.219_ | experimental | [2] Wang 2015 | Table 2, p. 3, row 6; `ORC-TGG5O3C7EC` |  |
+| Phase composition |  | 1073.15 | (αfCo) + (αpCo); _(αfCo): Co 0.951, V 0.049; (αpCo): Co 0.9, V 0.1_ | experimental | [2] Wang 2015 | Table 2, p. 3, row 1; `ORC-RDRAHQSV2M` |  |
+| Phase composition |  | 1073.15 | (αpCo) + Co3V; _(αpCo): Co 0.848, V 0.152; Co3V: Co 0.792, V 0.208_ | experimental | [2] Wang 2015 | Table 2, p. 3, row 2; `ORC-O4A3U4MUL6` |  |
+| Phase composition |  | 1073.15 | Co3V + σ; _Co3V: Co 0.683, V 0.317; σ: Co 0.545, V 0.455_ | experimental | [2] Wang 2015 | Table 2, p. 3, row 3; `ORC-JTK6PI7X6O` |  |
+| Phase composition |  | 1073.15 | CoV3 + (Cr, V); _CoV3: Co 0.244, V 0.756; (Cr, V): Co 0.037, V 0.963_ | experimental | [2] Wang 2015 | Table 2, p. 3, row 5; `ORC-3ITNFVBY5K` |  |
+| Phase composition |  | 1073.15 | σ + CoV3; _σ: Co 0.302, V 0.698; CoV3: Co 0.244, V 0.756_ | experimental | [2] Wang 2015 | Table 2, p. 3, row 4; `ORC-A2BKWSJI6H` |  |
 
 ### Formation (20)
 
@@ -253,26 +253,26 @@ Table: Formation, Co–V system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy of formation; _printed: Entropy of Formation_ | 1.07 unknown | 1473 | bcc | experimental | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 2, p. 6, row 10 |  |
-| Entropy of formation; _printed: Entropy of Formation_ | 1.57 unknown | 1473 | bcc | experimental | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 2, p. 6, row 9 |  |
-| Entropy of formation; _printed: Entropy of Formation_ | 1.81 unknown | 1473 | fcc | experimental | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 2, p. 6, row 3 |  |
-| Entropy of formation; _printed: Entropy of Formation_ | 1.07 unknown | 1473 | fcc | experimental | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 2, p. 6, row 1 |  |
-| Entropy of formation; _printed: Entropy of Formation_ | 1.52 unknown | 1473 | fcc | experimental | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 2, p. 6, row 2 |  |
-| Entropy of formation; _printed: Entropy of Formation_ | 1.91 unknown | 1473 | fcc | experimental | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 2, p. 6, row 4 |  |
-| Entropy of formation; _printed: Entropy of Formation_ | 1.87 unknown | 1473 | σ | experimental | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 2, p. 6, row 8 |  |
-| Entropy of formation; _printed: Entropy of Formation_ | 1.79 unknown | 1473 | σ | experimental | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 2, p. 6, row 7 |  |
-| Entropy of formation; _printed: Entropy of Formation_ | 1.96 unknown | 1473 | σ | experimental | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 2, p. 6, row 5 |  |
-| Entropy of formation; _printed: Entropy of Formation_ | 1.91 unknown ± 2 | 1473 | σ | experimental | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 2, p. 6, row 6 |  |
-| Gibbs energy of formation; _printed: Gibbs Energy of Formation_ | -3.021 kJ/mol-atom | 1473 | bcc | experimental | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 2, p. 6, row 10 |  |
-| Gibbs energy of formation; _printed: Gibbs Energy of Formation_ | -5.158 kJ/mol-atom | 1473 | bcc | experimental | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 2, p. 6, row 9 |  |
-| Gibbs energy of formation; _printed: Gibbs Energy of Formation_ | -11.706 kJ/mol-atom | 1473 | fcc | experimental | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 2, p. 6, row 3 |  |
-| Gibbs energy of formation; _printed: Gibbs Energy of Formation_ | -5.676 kJ/mol-atom | 1473 | fcc | experimental | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 2, p. 6, row 1 |  |
-| Gibbs energy of formation; _printed: Gibbs Energy of Formation_ | -9.279 kJ/mol-atom | 1473 | fcc | experimental | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 2, p. 6, row 2 |  |
-| Gibbs energy of formation; _printed: Gibbs Energy of Formation_ | -12.563 kJ/mol-atom | 1473 | fcc | experimental | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 2, p. 6, row 4 |  |
-| Gibbs energy of formation; _printed: Gibbs Energy of Formation_ | -12.755 kJ/mol-atom | 1473 | σ | experimental | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 2, p. 6, row 8 |  |
-| Gibbs energy of formation; _printed: Gibbs Energy of Formation_ | -13.642 kJ/mol-atom | 1473 | σ | experimental | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 2, p. 6, row 7 |  |
-| Gibbs energy of formation; _printed: Gibbs Energy of Formation_ | -13.767 kJ/mol-atom | 1473 | σ | experimental | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 2, p. 6, row 5 |  |
-| Gibbs energy of formation; _printed: Gibbs Energy of Formation_ | -14.068 kJ/mol-atom ± 3.8 | 1473 | σ | experimental | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 2, p. 6, row 6 |  |
+| Entropy of formation; _printed: Entropy of Formation_ | 1.07 unknown | 1473 | bcc | experimental | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 2, p. 6, row 10; `ORC-WKCNEY3JHT.2d1820` |  |
+| Entropy of formation; _printed: Entropy of Formation_ | 1.57 unknown | 1473 | bcc | experimental | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 2, p. 6, row 9; `ORC-XBRUG5EF45.8500e3` |  |
+| Entropy of formation; _printed: Entropy of Formation_ | 1.81 unknown | 1473 | fcc | experimental | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 2, p. 6, row 3; `ORC-2SMDMCLMSH.fecd8c` |  |
+| Entropy of formation; _printed: Entropy of Formation_ | 1.07 unknown | 1473 | fcc | experimental | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 2, p. 6, row 1; `ORC-AU2XOWJ2LW.ce6c2d` |  |
+| Entropy of formation; _printed: Entropy of Formation_ | 1.52 unknown | 1473 | fcc | experimental | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 2, p. 6, row 2; `ORC-P5LQZ6SY3W.c0b09f` |  |
+| Entropy of formation; _printed: Entropy of Formation_ | 1.91 unknown | 1473 | fcc | experimental | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 2, p. 6, row 4; `ORC-QNFDDQCFRA.60b1a0` |  |
+| Entropy of formation; _printed: Entropy of Formation_ | 1.87 unknown | 1473 | σ | experimental | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 2, p. 6, row 8; `ORC-IUKOSILTDB.f6648c` |  |
+| Entropy of formation; _printed: Entropy of Formation_ | 1.79 unknown | 1473 | σ | experimental | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 2, p. 6, row 7; `ORC-IXDSYJ3JRZ.b526c3` |  |
+| Entropy of formation; _printed: Entropy of Formation_ | 1.96 unknown | 1473 | σ | experimental | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 2, p. 6, row 5; `ORC-Q6OEQ6HS6K.4afe83` |  |
+| Entropy of formation; _printed: Entropy of Formation_ | 1.91 unknown ± 2 | 1473 | σ | experimental | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 2, p. 6, row 6; `ORC-WF7GSIO23T.14933f` |  |
+| Gibbs energy of formation; _printed: Gibbs Energy of Formation_ | -3.021 kJ/mol-atom | 1473 | bcc | experimental | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 2, p. 6, row 10; `ORC-WKCNEY3JHT.07ab4a` |  |
+| Gibbs energy of formation; _printed: Gibbs Energy of Formation_ | -5.158 kJ/mol-atom | 1473 | bcc | experimental | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 2, p. 6, row 9; `ORC-XBRUG5EF45.7f311c` |  |
+| Gibbs energy of formation; _printed: Gibbs Energy of Formation_ | -11.706 kJ/mol-atom | 1473 | fcc | experimental | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 2, p. 6, row 3; `ORC-2SMDMCLMSH.94311c` |  |
+| Gibbs energy of formation; _printed: Gibbs Energy of Formation_ | -5.676 kJ/mol-atom | 1473 | fcc | experimental | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 2, p. 6, row 1; `ORC-AU2XOWJ2LW.38d3f4` |  |
+| Gibbs energy of formation; _printed: Gibbs Energy of Formation_ | -9.279 kJ/mol-atom | 1473 | fcc | experimental | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 2, p. 6, row 2; `ORC-P5LQZ6SY3W.c8b3d3` |  |
+| Gibbs energy of formation; _printed: Gibbs Energy of Formation_ | -12.563 kJ/mol-atom | 1473 | fcc | experimental | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 2, p. 6, row 4; `ORC-QNFDDQCFRA.f8e04d` |  |
+| Gibbs energy of formation; _printed: Gibbs Energy of Formation_ | -12.755 kJ/mol-atom | 1473 | σ | experimental | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 2, p. 6, row 8; `ORC-IUKOSILTDB.c0244e` |  |
+| Gibbs energy of formation; _printed: Gibbs Energy of Formation_ | -13.642 kJ/mol-atom | 1473 | σ | experimental | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 2, p. 6, row 7; `ORC-IXDSYJ3JRZ.e5cd7c` |  |
+| Gibbs energy of formation; _printed: Gibbs Energy of Formation_ | -13.767 kJ/mol-atom | 1473 | σ | experimental | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 2, p. 6, row 5; `ORC-Q6OEQ6HS6K.76b610` |  |
+| Gibbs energy of formation; _printed: Gibbs Energy of Formation_ | -14.068 kJ/mol-atom ± 3.8 | 1473 | σ | experimental | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 2, p. 6, row 6; `ORC-WF7GSIO23T.fba13b` |  |
 
 ### Mixing / partial (2)
 
@@ -280,8 +280,8 @@ Table: Mixing / partial, Co–V system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Gibbs energy of mixing; _printed: ΔGmag_ | 0 kJ/mol (basis unstated) | 298.15 | σ; _alloy: Co 0.866, V 0.134_ | unspecified | [4] Wang 2020 | Table 4, p. 24, row 1 |  |
-| Gibbs energy of mixing; _printed: ΔGmag_ | -3.849 kJ/mol (basis unstated) | 298.15 | σ; _alloy: Co 0.866, V 0.134_ | unspecified | [4] Wang 2020 | Table 4, p. 24, row 2 |  |
+| Gibbs energy of mixing; _printed: ΔGmag_ | 0 kJ/mol (basis unstated) | 298.15 | σ; _alloy: Co 0.866, V 0.134_ | unspecified | [4] Wang 2020 | Table 4, p. 24, row 1; `ORC-5GKWY3GVHU` |  |
+| Gibbs energy of mixing; _printed: ΔGmag_ | -3.849 kJ/mol (basis unstated) | 298.15 | σ; _alloy: Co 0.866, V 0.134_ | unspecified | [4] Wang 2020 | Table 4, p. 24, row 2; `ORC-TQ3GZVFBER` |  |
 
 ## Sources
 
@@ -349,4 +349,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

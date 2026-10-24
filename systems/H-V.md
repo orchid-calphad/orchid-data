@@ -33,7 +33,7 @@ Table: Enthalpies of formation, H–V system (1)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| δ-VH2 |  | -18.4 kJ/mol (basis unstated) | 0 | model |  |  | [1] Ukita 2008 | Table 2, p. 3, row 1 |  |
+| δ-VH2 |  | -18.4 kJ/mol (basis unstated) | 0 | model |  |  | [1] Ukita 2008 | Table 2, p. 3, row 1; `ORC-C3QQQXHLGR` |  |
 
 ## Other properties
 
@@ -43,7 +43,7 @@ Table: Phase transition, H–V system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 223 K | 223 |  | experimental | [1] Ukita 2008 | p. 1 | “The low-temperature transformation around 223 K in the 1 phase results in the V3 H2 phase with a monoclinic structure.” |
+| Phase transition | 223 K | 223 |  | experimental | [1] Ukita 2008 | p. 1; `ORC-USF26AF27R` | “The low-temperature transformation around 223 K in the 1 phase results in the V3 H2 phase with a monoclinic structure.” |
 
 ### Crystal structure (1)
 
@@ -51,7 +51,7 @@ Table: Crystal structure, H–V system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a; _printed: a_ | 4.271 Å | 0 | δ-VH2; _alloy: V 0.333333_ | model | [1] Ukita 2008 | Table 2, p. 3, row 1 |  |
+| Lattice a; _printed: a_ | 4.271 Å | 0 | δ-VH2; _alloy: V 0.333333_ | model | [1] Ukita 2008 | Table 2, p. 3, row 1; `ORC-CP5PHHIXVF` |  |
 
 ## Sources
 
@@ -105,4 +105,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

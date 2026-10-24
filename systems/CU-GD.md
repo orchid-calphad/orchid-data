@@ -73,38 +73,38 @@ Table: Invariant reactions reported in the literature for the Cu–Gd system (32
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1205 | congruent melting: L -> Cu9Gd2 | L: Cu 0.818182, Gd 0.181818; Cu9Gd2: Cu 0.818182, Gd 0.181818 | unspecified | [1] Zhang 2009; _cites Cheng 1983_ | Table 3, p. 7, row 13 |  |
-| 1203 | congruent melting: L -> Cu9Gd2 | L: Cu 0.818182, Gd 0.181818; Cu9Gd2: Cu 0.818182, Gd 0.181818 | experimental | [1] Zhang 2009; _cites Carnasciali 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990235-7) | Table 3, p. 7, row 12 |  |
-| 1201 | congruent melting: L -> Cu9Gd2 | L: Cu 0.818182, Gd 0.181818; Cu9Gd2: Cu 0.818182, Gd 0.181818 | model | [1] Zhang 2009 | Table 3, p. 7, row 11 |  |
-| 1198 | peritectic: L + Cu9Gd2 -> Cu5Gd_H | L: Gd 0.167; Cu9Gd2: Cu 0.818182, Gd 0.181818; Cu5Gd_H: Cu 0.833333, Gd 0.166667 | experimental | [1] Zhang 2009; _cites Carnasciali 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990235-7) | Table 3, p. 7, row 8 |  |
-| 1196 | peritectic: L + Cu9Gd2 -> Cu5Gd_H | L: Gd 0.162; Cu9Gd2: Cu 0.818182, Gd 0.181818; Cu5Gd_H: Cu 0.833333, Gd 0.166667 | model | [1] Zhang 2009 | Table 3, p. 7, row 7 |  |
-| 1159 | peritectic: L + Cu5Gd_H -> Cu6Gd | L: Gd 0.095; Cu5Gd_H: Cu 0.833333, Gd 0.166667; Cu6Gd: Cu 0.857143, Gd 0.142857 | unspecified | [1] Zhang 2009; _cites Cheng 1983_ | Table 3, p. 7, row 6 |  |
-| 1148 | eutectic: L -> Fcc_Cu + Cu6Gd | L: Gd 0.09; Cu6Gd: Cu 0.857143, Gd 0.142857 | unspecified | [1] Zhang 2009; _cites Cheng 1983_ | Table 3, p. 7, row 3 |  |
-| 1147 | peritectic: L + Cu9Gd2 -> Cu7Gd2 | L: Gd 0.252; Cu9Gd2: Cu 0.818182, Gd 0.181818; Cu7Gd2: Cu 0.777778, Gd 0.222222 | model | [1] Zhang 2009 | Table 3, p. 7, row 14 |  |
-| 1143 | peritectic: L -> Cu9Gd2 + Cu2Gd | L: Gd 0.605; Cu9Gd2: Cu 0.818182, Gd 0.181818; Cu2Gd: Cu 0.666667, Gd 0.333333 | unspecified | [1] Zhang 2009; _cites Cheng 1983_ | Table 3, p. 7, row 20 |  |
-| 1143 | peritectic: L + Cu9Gd2 -> Cu7Gd2 | L: Gd 0.265; Cu9Gd2: Cu 0.818182, Gd 0.181818; Cu7Gd2: Cu 0.777778, Gd 0.222222 | experimental | [1] Zhang 2009; _cites Carnasciali 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990235-7) | Table 3, p. 7, row 15 |  |
-| 1139 | peritectic: L + Cu5Gd_H -> Cu6Gd | L: Gd 0.103; Cu5Gd_H: Cu 0.833333, Gd 0.166667; Cu6Gd: Cu 0.857143, Gd 0.142857 | model | [1] Zhang 2009 | Table 3, p. 7, row 4 |  |
-| 1138 | peritectic: L + Cu5Gd_H -> Cu6Gd | L: Gd 0.1; Cu5Gd_H: Cu 0.833333, Gd 0.166667; Cu6Gd: Cu 0.857143, Gd 0.142857 | experimental | [1] Zhang 2009; _cites Carnasciali 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990235-7) | Table 3, p. 7, row 5 |  |
-| 1133 | eutectic: L -> Fcc_Cu + Cu6Gd | L: Gd 0.095; Cu6Gd: Cu 0.857143, Gd 0.142857 | experimental | [1] Zhang 2009; _cites Carnasciali 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990235-7) | Table 3, p. 7, row 2 |  |
-| 1133 | congruent melting: L -> Cu2Gd | L: Cu 0.666667, Gd 0.333333; Cu2Gd: Cu 0.666667, Gd 0.333333 | experimental | [1] Zhang 2009; _cites Carnasciali 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990235-7) | Table 3, p. 7, row 22 |  |
-| 1129 | congruent melting: L -> Cu2Gd | L: Cu 0.666667, Gd 0.333333; Cu2Gd: Cu 0.666667, Gd 0.333333 | model | [1] Zhang 2009 | Table 3, p. 7, row 21 |  |
-| 1125 | eutectic: L -> Fcc_Cu + Cu6Gd | L: Gd 0.093; Cu6Gd: Cu 0.857143, Gd 0.142857 | model | [1] Zhang 2009 | Table 3, p. 7, row 1 |  |
-| 1106 | congruent melting: L -> CuGd | L: Cu 0.5, Gd 0.5; CuGd: Cu 0.5, Gd 0.5 | model | [1] Zhang 2009 | Table 3, p. 7, row 26 |  |
-| 1105 | metatectic/catatectic: Cu7Gd2 -> L + Cu9Gd2 | Cu7Gd2: Cu 0.777778, Gd 0.222222; L: Gd 0.277; Cu9Gd2: Cu 0.818182, Gd 0.181818 | model | [1] Zhang 2009 | Table 3, p. 7, row 16 |  |
-| 1103 | congruent melting: L -> CuGd | L: Cu 0.5, Gd 0.5; CuGd: Cu 0.5, Gd 0.5 | experimental | [1] Zhang 2009; _cites Carnasciali 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990235-7) | Table 3, p. 7, row 27 |  |
-| 1098 | metatectic/catatectic: Cu7Gd2 -> L + Cu9Gd2 | Cu7Gd2: Cu 0.777778, Gd 0.222222; Cu9Gd2: Cu 0.818182, Gd 0.181818 | experimental | [1] Zhang 2009; _cites Carnasciali 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990235-7) | Table 3, p. 7, row 17 |  |
-| 1098 | eutectic: L -> Cu9Gd2 + Cu2Gd | L: Gd 0.28; Cu9Gd2: Cu 0.818182, Gd 0.181818; Cu2Gd: Cu 0.666667, Gd 0.333333 | model | [1] Zhang 2009 | Table 3, p. 7, row 18 |  |
-| 1093 | eutectic: L -> Cu9Gd2 + Cu2Gd | L: Gd 0.29; Cu9Gd2: Cu 0.818182, Gd 0.181818; Cu2Gd: Cu 0.666667, Gd 0.333333 | experimental | [1] Zhang 2009; _cites Carnasciali 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990235-7) | Table 3, p. 7, row 19 |  |
-| 1052 | eutectic: L -> Cu2Gd + CuGd | L: Gd 0.425; Cu2Gd: Cu 0.666667, Gd 0.333333; CuGd: Cu 0.5, Gd 0.5 | model | [1] Zhang 2009 | Table 3, p. 7, row 23 |  |
-| 1043 | eutectic: L -> Cu2Gd + CuGd | L: Gd 0.44; Cu2Gd: Cu 0.666667, Gd 0.333333; CuGd: Cu 0.5, Gd 0.5 | experimental | [1] Zhang 2009; _cites Carnasciali 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990235-7) | Table 3, p. 7, row 24 |  |
-| 1032 | peritectic: L -> Cu2Gd + CuGd | Cu2Gd: Cu 0.666667, Gd 0.333333; CuGd: Cu 0.5, Gd 0.5 | unspecified | [1] Zhang 2009; _cites Cheng 1983_ | Table 3, p. 7, row 25 |  |
-| 948 | eutectic: L -> CuGd + Bcc_Gd | L: Gd 0.7; CuGd: Cu 0.5, Gd 0.5 | experimental | [1] Zhang 2009; _cites Carnasciali 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990235-7) | Table 3, p. 7, row 29 |  |
-| 941 | eutectic: L -> CuGd + Bcc_Gd | L: Gd 0.685; CuGd: Cu 0.5, Gd 0.5 | unspecified | [1] Zhang 2009; _cites Cheng 1983_ | Table 3, p. 7, row 30 |  |
-| 941 | eutectic: L -> CuGd + Bcc_Gd | L: Gd 0.658; CuGd: Cu 0.5, Gd 0.5 | model | [1] Zhang 2009 | Table 3, p. 7, row 28 |  |
-| 935 | polymorphic: Cu5Gd_H -> Cu5Gd_L | Cu5Gd_H: Cu 0.833333, Gd 0.166667; Cu5Gd_L: Cu 0.833333, Gd 0.166667 | model | [1] Zhang 2009 | Table 3, p. 7, row 9 |  |
-| 933 | polymorphic: Cu5Gd_H -> Cu5Gd_L | Cu5Gd_H: Cu 0.833333, Gd 0.166667; Cu5Gd_L: Cu 0.833333, Gd 0.166667 | experimental | [1] Zhang 2009; _cites Carnasciali 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990235-7) | Table 3, p. 7, row 10 |  |
-| 912 | eutectoid: Bcc_Gd -> CuGd + Hcp_Gd | CuGd: Cu 0.5, Gd 0.5 | model | [1] Zhang 2009 | Table 3, p. 7, row 31 |  |
-| 903 | eutectoid: Bcc_Gd -> CuGd + Hcp_Gd | CuGd: Cu 0.5, Gd 0.5 | experimental | [1] Zhang 2009; _cites Carnasciali 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990235-7) | Table 3, p. 7, row 32 |  |
+| 1205 | congruent melting: L -> Cu9Gd2 | L: Cu 0.818182, Gd 0.181818; Cu9Gd2: Cu 0.818182, Gd 0.181818 | unspecified | [1] Zhang 2009; _cites Cheng 1983_ | Table 3, p. 7, row 13; `ORC-QM7JQV5CRZ` |  |
+| 1203 | congruent melting: L -> Cu9Gd2 | L: Cu 0.818182, Gd 0.181818; Cu9Gd2: Cu 0.818182, Gd 0.181818 | experimental | [1] Zhang 2009; _cites Carnasciali 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990235-7) | Table 3, p. 7, row 12; `ORC-PF6COYUG2F` |  |
+| 1201 | congruent melting: L -> Cu9Gd2 | L: Cu 0.818182, Gd 0.181818; Cu9Gd2: Cu 0.818182, Gd 0.181818 | model | [1] Zhang 2009 | Table 3, p. 7, row 11; `ORC-XI5PWPR4WY` |  |
+| 1198 | peritectic: L + Cu9Gd2 -> Cu5Gd_H | L: Gd 0.167; Cu9Gd2: Cu 0.818182, Gd 0.181818; Cu5Gd_H: Cu 0.833333, Gd 0.166667 | experimental | [1] Zhang 2009; _cites Carnasciali 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990235-7) | Table 3, p. 7, row 8; `ORC-L4Z7ADU7R2` |  |
+| 1196 | peritectic: L + Cu9Gd2 -> Cu5Gd_H | L: Gd 0.162; Cu9Gd2: Cu 0.818182, Gd 0.181818; Cu5Gd_H: Cu 0.833333, Gd 0.166667 | model | [1] Zhang 2009 | Table 3, p. 7, row 7; `ORC-ZLTW5SJTDC` |  |
+| 1159 | peritectic: L + Cu5Gd_H -> Cu6Gd | L: Gd 0.095; Cu5Gd_H: Cu 0.833333, Gd 0.166667; Cu6Gd: Cu 0.857143, Gd 0.142857 | unspecified | [1] Zhang 2009; _cites Cheng 1983_ | Table 3, p. 7, row 6; `ORC-JOKOJH6RDM` |  |
+| 1148 | eutectic: L -> Fcc_Cu + Cu6Gd | L: Gd 0.09; Cu6Gd: Cu 0.857143, Gd 0.142857 | unspecified | [1] Zhang 2009; _cites Cheng 1983_ | Table 3, p. 7, row 3; `ORC-ORF42YRAST` |  |
+| 1147 | peritectic: L + Cu9Gd2 -> Cu7Gd2 | L: Gd 0.252; Cu9Gd2: Cu 0.818182, Gd 0.181818; Cu7Gd2: Cu 0.777778, Gd 0.222222 | model | [1] Zhang 2009 | Table 3, p. 7, row 14; `ORC-KYLGIALSCS` |  |
+| 1143 | peritectic: L -> Cu9Gd2 + Cu2Gd | L: Gd 0.605; Cu9Gd2: Cu 0.818182, Gd 0.181818; Cu2Gd: Cu 0.666667, Gd 0.333333 | unspecified | [1] Zhang 2009; _cites Cheng 1983_ | Table 3, p. 7, row 20; `ORC-KPHBA4EA2E` |  |
+| 1143 | peritectic: L + Cu9Gd2 -> Cu7Gd2 | L: Gd 0.265; Cu9Gd2: Cu 0.818182, Gd 0.181818; Cu7Gd2: Cu 0.777778, Gd 0.222222 | experimental | [1] Zhang 2009; _cites Carnasciali 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990235-7) | Table 3, p. 7, row 15; `ORC-KWLQHFFAHT` |  |
+| 1139 | peritectic: L + Cu5Gd_H -> Cu6Gd | L: Gd 0.103; Cu5Gd_H: Cu 0.833333, Gd 0.166667; Cu6Gd: Cu 0.857143, Gd 0.142857 | model | [1] Zhang 2009 | Table 3, p. 7, row 4; `ORC-WHYF2UKXGD` |  |
+| 1138 | peritectic: L + Cu5Gd_H -> Cu6Gd | L: Gd 0.1; Cu5Gd_H: Cu 0.833333, Gd 0.166667; Cu6Gd: Cu 0.857143, Gd 0.142857 | experimental | [1] Zhang 2009; _cites Carnasciali 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990235-7) | Table 3, p. 7, row 5; `ORC-SQMWZCPHZ2` |  |
+| 1133 | eutectic: L -> Fcc_Cu + Cu6Gd | L: Gd 0.095; Cu6Gd: Cu 0.857143, Gd 0.142857 | experimental | [1] Zhang 2009; _cites Carnasciali 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990235-7) | Table 3, p. 7, row 2; `ORC-GFK6U26WMU` |  |
+| 1133 | congruent melting: L -> Cu2Gd | L: Cu 0.666667, Gd 0.333333; Cu2Gd: Cu 0.666667, Gd 0.333333 | experimental | [1] Zhang 2009; _cites Carnasciali 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990235-7) | Table 3, p. 7, row 22; `ORC-Y62NQCLM5M` |  |
+| 1129 | congruent melting: L -> Cu2Gd | L: Cu 0.666667, Gd 0.333333; Cu2Gd: Cu 0.666667, Gd 0.333333 | model | [1] Zhang 2009 | Table 3, p. 7, row 21; `ORC-F5GAZSK373` |  |
+| 1125 | eutectic: L -> Fcc_Cu + Cu6Gd | L: Gd 0.093; Cu6Gd: Cu 0.857143, Gd 0.142857 | model | [1] Zhang 2009 | Table 3, p. 7, row 1; `ORC-XVOQ2UJ2PJ` |  |
+| 1106 | congruent melting: L -> CuGd | L: Cu 0.5, Gd 0.5; CuGd: Cu 0.5, Gd 0.5 | model | [1] Zhang 2009 | Table 3, p. 7, row 26; `ORC-X7IWF7AKZF` |  |
+| 1105 | metatectic/catatectic: Cu7Gd2 -> L + Cu9Gd2 | Cu7Gd2: Cu 0.777778, Gd 0.222222; L: Gd 0.277; Cu9Gd2: Cu 0.818182, Gd 0.181818 | model | [1] Zhang 2009 | Table 3, p. 7, row 16; `ORC-NYFV7KDH7P` |  |
+| 1103 | congruent melting: L -> CuGd | L: Cu 0.5, Gd 0.5; CuGd: Cu 0.5, Gd 0.5 | experimental | [1] Zhang 2009; _cites Carnasciali 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990235-7) | Table 3, p. 7, row 27; `ORC-HEVN5JDX7E` |  |
+| 1098 | metatectic/catatectic: Cu7Gd2 -> L + Cu9Gd2 | Cu7Gd2: Cu 0.777778, Gd 0.222222; Cu9Gd2: Cu 0.818182, Gd 0.181818 | experimental | [1] Zhang 2009; _cites Carnasciali 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990235-7) | Table 3, p. 7, row 17; `ORC-DT66UOMDC7` |  |
+| 1098 | eutectic: L -> Cu9Gd2 + Cu2Gd | L: Gd 0.28; Cu9Gd2: Cu 0.818182, Gd 0.181818; Cu2Gd: Cu 0.666667, Gd 0.333333 | model | [1] Zhang 2009 | Table 3, p. 7, row 18; `ORC-P43HF65VVG` |  |
+| 1093 | eutectic: L -> Cu9Gd2 + Cu2Gd | L: Gd 0.29; Cu9Gd2: Cu 0.818182, Gd 0.181818; Cu2Gd: Cu 0.666667, Gd 0.333333 | experimental | [1] Zhang 2009; _cites Carnasciali 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990235-7) | Table 3, p. 7, row 19; `ORC-5EPMI7MMP4` |  |
+| 1052 | eutectic: L -> Cu2Gd + CuGd | L: Gd 0.425; Cu2Gd: Cu 0.666667, Gd 0.333333; CuGd: Cu 0.5, Gd 0.5 | model | [1] Zhang 2009 | Table 3, p. 7, row 23; `ORC-PHTICNLKMM` |  |
+| 1043 | eutectic: L -> Cu2Gd + CuGd | L: Gd 0.44; Cu2Gd: Cu 0.666667, Gd 0.333333; CuGd: Cu 0.5, Gd 0.5 | experimental | [1] Zhang 2009; _cites Carnasciali 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990235-7) | Table 3, p. 7, row 24; `ORC-EBTEOAHEYL` |  |
+| 1032 | peritectic: L -> Cu2Gd + CuGd | Cu2Gd: Cu 0.666667, Gd 0.333333; CuGd: Cu 0.5, Gd 0.5 | unspecified | [1] Zhang 2009; _cites Cheng 1983_ | Table 3, p. 7, row 25; `ORC-DXV4AUFCYJ` |  |
+| 948 | eutectic: L -> CuGd + Bcc_Gd | L: Gd 0.7; CuGd: Cu 0.5, Gd 0.5 | experimental | [1] Zhang 2009; _cites Carnasciali 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990235-7) | Table 3, p. 7, row 29; `ORC-YATPZNHNM4` |  |
+| 941 | eutectic: L -> CuGd + Bcc_Gd | L: Gd 0.685; CuGd: Cu 0.5, Gd 0.5 | unspecified | [1] Zhang 2009; _cites Cheng 1983_ | Table 3, p. 7, row 30; `ORC-2Y5HYUFOS6` |  |
+| 941 | eutectic: L -> CuGd + Bcc_Gd | L: Gd 0.658; CuGd: Cu 0.5, Gd 0.5 | model | [1] Zhang 2009 | Table 3, p. 7, row 28; `ORC-TX2QTC2HOE` |  |
+| 935 | polymorphic: Cu5Gd_H -> Cu5Gd_L | Cu5Gd_H: Cu 0.833333, Gd 0.166667; Cu5Gd_L: Cu 0.833333, Gd 0.166667 | model | [1] Zhang 2009 | Table 3, p. 7, row 9; `ORC-WKGSVHMQOC` |  |
+| 933 | polymorphic: Cu5Gd_H -> Cu5Gd_L | Cu5Gd_H: Cu 0.833333, Gd 0.166667; Cu5Gd_L: Cu 0.833333, Gd 0.166667 | experimental | [1] Zhang 2009; _cites Carnasciali 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990235-7) | Table 3, p. 7, row 10; `ORC-D2AN325NBB` |  |
+| 912 | eutectoid: Bcc_Gd -> CuGd + Hcp_Gd | CuGd: Cu 0.5, Gd 0.5 | model | [1] Zhang 2009 | Table 3, p. 7, row 31; `ORC-5X7F6LHLKE` |  |
+| 903 | eutectoid: Bcc_Gd -> CuGd + Hcp_Gd | CuGd: Cu 0.5, Gd 0.5 | experimental | [1] Zhang 2009; _cites Carnasciali 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990235-7) | Table 3, p. 7, row 32; `ORC-CWS2V7GPTL` |  |
 
 ## Formation enthalpies
 
@@ -114,8 +114,8 @@ Table: Enthalpies of formation, Cu–Gd system (2)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| CuGd |  | -26.4 kJ/mol-atom | 0 | DFT |  |  | [2] Palumbo 2009 | Table 2, p. 4, row 20 |  |
-| CuGd | [CuGd](https://data.orchid-project.org/compounds/CuGd.html) | -10.6 kJ/mol-atom | 298.15 | experimental | -20.386 (mp-aaabiyyx) | -22.451 (oqmd-1976400) | [2] Palumbo 2009; _cites Sommer 2009_ | Table 2, p. 4, row 21 |  |
+| CuGd |  | -26.4 kJ/mol-atom | 0 | DFT |  |  | [2] Palumbo 2009 | Table 2, p. 4, row 20; `ORC-M6CTE43NSL` |  |
+| CuGd | [CuGd](https://data.orchid-project.org/compounds/CuGd.html) | -10.6 kJ/mol-atom | 298.15 | experimental | -20.386 (mp-aaabiyyx) | -22.451 (oqmd-1976400) | [2] Palumbo 2009; _cites Sommer 2009_ | Table 2, p. 4, row 21; `ORC-LOF7FWQZEN` |  |
 
 ## Other properties
 
@@ -125,7 +125,7 @@ Table: Crystal structure, Cu–Gd system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 3.501 Å | 298.15 | UNKNOWN; _alloy: Cu 0.5, Gd 0.5_ | unspecified | [1] Zhang 2009 | Table 1, p. 3, row 19 |  |
+| Lattice a | 3.501 Å | 298.15 | UNKNOWN; _alloy: Cu 0.5, Gd 0.5_ | unspecified | [1] Zhang 2009 | Table 1, p. 3, row 19; `ORC-C4N7CRPKO2` |  |
 
 ## Sources
 
@@ -191,4 +191,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

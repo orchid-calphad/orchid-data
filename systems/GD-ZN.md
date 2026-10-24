@@ -68,33 +68,33 @@ Table: Invariant reactions reported in the literature for the Gd–Zn system (27
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1294.75 | L = GdZn | L: Zn 0.5; GdZn: Gd 0.5, Zn 0.5 | model | [1] Gröbner 2015 | Table 2, p. 3, row 4 |  |
-| 1293.15 | L = GdZn | L: Zn 0.5; GdZn: Gd 0.5, Zn 0.5 | experimental | [1] Gröbner 2015; _cites Bruzzone 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990074-3) | Table 2, p. 3, row 3 |  |
-| 1285.05 | L = GdZn2 | L: Zn 0.667; GdZn2: Gd 0.333333, Zn 0.666667 | model | [1] Gröbner 2015 | Table 2, p. 3, row 8 |  |
-| 1283.15 | L = GdZn2 | L: Zn 0.667; GdZn2: Gd 0.333333, Zn 0.666667 | experimental | [1] Gröbner 2015; _cites Bruzzone 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990074-3) | Table 2, p. 3, row 7 |  |
-| 1218.15 | L = GdZn + GdZn2 | L: Zn 0.59; GdZn: Gd 0.5, Zn 0.5; GdZn2: Gd 0.333333, Zn 0.666667 | experimental | [1] Gröbner 2015; _cites Bruzzone 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990074-3) | Table 2, p. 3, row 5 |  |
-| 1215.45 | L = GdZn + GdZn2 | L: Zn 0.594; GdZn: Gd 0.5, Zn 0.5; GdZn2: Gd 0.333333, Zn 0.666667 | model | [1] Gröbner 2015 | Table 2, p. 3, row 6 |  |
-| 1208.15 | L + Gd2Zn17 | L: Zn 0.895; Gd2Zn17: Gd 0.105263, Zn 0.894737 | experimental | [1] Gröbner 2015; _cites Bruzzone 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990074-3) | Table 2, p. 3, row 21 |  |
-| 1205.55 | L + Gd2Zn17 | L: Zn 0.895; Gd2Zn17: Gd 0.105263, Zn 0.894737 | model | [1] Gröbner 2015 | Table 2, p. 3, row 22 |  |
-| 1193.15 | L = Gd13Zn58 | L: Zn 0.817; Gd13Zn58: Gd 0.183099, Zn 0.816901 | experimental | [1] Gröbner 2015; _cites Bruzzone 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990074-3) | Table 2, p. 3, row 15 |  |
-| 1185.95 | L = Gd13Zn58 | L: Zn 0.817; Gd13Zn58: Gd 0.183099, Zn 0.816901 | model | [1] Gröbner 2015 | Table 2, p. 3, row 16 |  |
-| 1183.15 | L + Gd2Zn17 = Gd3Zn22 | L: Zn 0.85; Gd2Zn17: Gd 0.105263, Zn 0.894737; Gd3Zn22: Gd 0.12, Zn 0.88 | experimental | [1] Gröbner 2015; _cites Bruzzone 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990074-3) | Table 2, p. 3, row 19 |  |
-| 1179.85 | L + Gd2Zn17 = Gd3Zn22 | L: Zn 0.858; Gd2Zn17: Gd 0.105263, Zn 0.894737; Gd3Zn22: Gd 0.12, Zn 0.88 | model | [1] Gröbner 2015 | Table 2, p. 3, row 20 |  |
-| 1178.15 | L = GdZn2 + GdZn3 | L: Zn 0.755; GdZn2: Gd 0.333333, Zn 0.666667; GdZn3: Gd 0.25, Zn 0.75 | experimental | [1] Gröbner 2015; _cites Bruzzone 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990074-3) | Table 2, p. 3, row 9 |  |
-| 1177.65 | L = GdZn2 + GdZn3 | L: Zn 0.748; GdZn2: Gd 0.333333, Zn 0.666667; GdZn3: Gd 0.25, Zn 0.75 | model | [1] Gröbner 2015 | Table 2, p. 3, row 10 |  |
-| 1168.95 | L = Gd13Zn58 + Gd3Zn22 | L: Zn 0.847; Gd13Zn58: Gd 0.183099, Zn 0.816901; Gd3Zn22: Gd 0.12, Zn 0.88 | model | [1] Gröbner 2015 | Table 2, p. 3, row 18 |  |
-| 1168.65 | L + Gd13Zn58 = Gd3Zn11 | L: Zn 0.785; Gd13Zn58: Gd 0.183099, Zn 0.816901; Gd3Zn11: Gd 0.214286, Zn 0.785714 | model | [1] Gröbner 2015 | Table 2, p. 3, row 14 |  |
-| 1166.75 | L = GdZn3 + Gd3Zn11 | L: Zn 0.775; GdZn3: Gd 0.25, Zn 0.75; Gd3Zn11: Gd 0.214286, Zn 0.785714 | model | [1] Gröbner 2015 | Table 2, p. 3, row 12 |  |
-| 1158.15 | L = Gd13Zn58 + Gd3Zn22 | L: Zn 0.84; Gd13Zn58: Gd 0.183099, Zn 0.816901; Gd3Zn22: Gd 0.12, Zn 0.88 | experimental | [1] Gröbner 2015; _cites Bruzzone 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990074-3) | Table 2, p. 3, row 17 |  |
-| 1153.15 | L + Gd13Zn58 = Gd3Zn11 | L: Zn 0.775; Gd13Zn58: Gd 0.183099, Zn 0.816901; Gd3Zn11: Gd 0.214286, Zn 0.785714 | experimental | [1] Gröbner 2015; _cites Bruzzone 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990074-3) | Table 2, p. 3, row 13 |  |
-| 1148.15 | L = GdZn3 + Gd3Zn11 | L: Zn 0.77; GdZn3: Gd 0.25, Zn 0.75; Gd3Zn11: Gd 0.214286, Zn 0.785714 | experimental | [1] Gröbner 2015; _cites Bruzzone 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990074-3) | Table 2, p. 3, row 11 |  |
-| 1053.45 | L = (Gd) + GdZn | L: Zn 0.282; GdZn: Gd 0.5, Zn 0.5 | model | [1] Gröbner 2015 | Table 2, p. 3, row 2 |  |
-| 1053.15 | L = (Gd) + GdZn | L: Zn 0.27; GdZn: Gd 0.5, Zn 0.5 | experimental | [1] Gröbner 2015; _cites Bruzzone 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990074-3) | Table 2, p. 3, row 1 |  |
-| 933.15 | L + Gd2Zn17 = GdZn12 | L: Zn 0.985; Gd2Zn17: Gd 0.105263, Zn 0.894737; GdZn12: Gd 0.076923, Zn 0.923077 | experimental | [1] Gröbner 2015; _cites Bruzzone 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990074-3) | Table 2, p. 3, row 23 |  |
-| 932.45 | L + Gd2Zn17 = GdZn12 | L: Zn 0.993; Gd2Zn17: Gd 0.105263, Zn 0.894737; GdZn12: Gd 0.076923, Zn 0.923077 | model | [1] Gröbner 2015 | Table 2, p. 3, row 24 |  |
-| 838.15 | eutectic |  | model | [1] Gröbner 2015 | p. 12 | “The liquidus temperature of this alloy is 620 °C, see the liquidus projection in Fig. 15, and solidification terminates with just the eutectic L ! (Mg) + GdMg5, at about 565 °C (from 562 to 548 °C under Scheil conditions).” |
-| 693.15 | L = GdZn12 + (Zn) | L: Zn 0.995; GdZn12: Gd 0.076923, Zn 0.923077 | experimental | [1] Gröbner 2015; _cites Bruzzone 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990074-3) | Table 2, p. 3, row 25 |  |
-| 692.65 | L = GdZn12 + (Zn) | L: Zn 0.999; GdZn12: Gd 0.076923, Zn 0.923077 | model | [1] Gröbner 2015 | Table 2, p. 3, row 26 |  |
+| 1294.75 | L = GdZn | L: Zn 0.5; GdZn: Gd 0.5, Zn 0.5 | model | [1] Gröbner 2015 | Table 2, p. 3, row 4; `ORC-4KNEXDQ6DK` |  |
+| 1293.15 | L = GdZn | L: Zn 0.5; GdZn: Gd 0.5, Zn 0.5 | experimental | [1] Gröbner 2015; _cites Bruzzone 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990074-3) | Table 2, p. 3, row 3; `ORC-YVCAD3R2KE` |  |
+| 1285.05 | L = GdZn2 | L: Zn 0.667; GdZn2: Gd 0.333333, Zn 0.666667 | model | [1] Gröbner 2015 | Table 2, p. 3, row 8; `ORC-DV7MO6TCHR` |  |
+| 1283.15 | L = GdZn2 | L: Zn 0.667; GdZn2: Gd 0.333333, Zn 0.666667 | experimental | [1] Gröbner 2015; _cites Bruzzone 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990074-3) | Table 2, p. 3, row 7; `ORC-CSPJUHAOTK` |  |
+| 1218.15 | L = GdZn + GdZn2 | L: Zn 0.59; GdZn: Gd 0.5, Zn 0.5; GdZn2: Gd 0.333333, Zn 0.666667 | experimental | [1] Gröbner 2015; _cites Bruzzone 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990074-3) | Table 2, p. 3, row 5; `ORC-UJLHAWM6Y2` |  |
+| 1215.45 | L = GdZn + GdZn2 | L: Zn 0.594; GdZn: Gd 0.5, Zn 0.5; GdZn2: Gd 0.333333, Zn 0.666667 | model | [1] Gröbner 2015 | Table 2, p. 3, row 6; `ORC-IZV7XYDXSU` |  |
+| 1208.15 | L + Gd2Zn17 | L: Zn 0.895; Gd2Zn17: Gd 0.105263, Zn 0.894737 | experimental | [1] Gröbner 2015; _cites Bruzzone 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990074-3) | Table 2, p. 3, row 21; `ORC-RVGTW5HHJM` |  |
+| 1205.55 | L + Gd2Zn17 | L: Zn 0.895; Gd2Zn17: Gd 0.105263, Zn 0.894737 | model | [1] Gröbner 2015 | Table 2, p. 3, row 22; `ORC-CBLKY5P7D3` |  |
+| 1193.15 | L = Gd13Zn58 | L: Zn 0.817; Gd13Zn58: Gd 0.183099, Zn 0.816901 | experimental | [1] Gröbner 2015; _cites Bruzzone 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990074-3) | Table 2, p. 3, row 15; `ORC-C65O5A3A6R` |  |
+| 1185.95 | L = Gd13Zn58 | L: Zn 0.817; Gd13Zn58: Gd 0.183099, Zn 0.816901 | model | [1] Gröbner 2015 | Table 2, p. 3, row 16; `ORC-4WQR5YROU2` |  |
+| 1183.15 | L + Gd2Zn17 = Gd3Zn22 | L: Zn 0.85; Gd2Zn17: Gd 0.105263, Zn 0.894737; Gd3Zn22: Gd 0.12, Zn 0.88 | experimental | [1] Gröbner 2015; _cites Bruzzone 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990074-3) | Table 2, p. 3, row 19; `ORC-OLIUMEQ7LL` |  |
+| 1179.85 | L + Gd2Zn17 = Gd3Zn22 | L: Zn 0.858; Gd2Zn17: Gd 0.105263, Zn 0.894737; Gd3Zn22: Gd 0.12, Zn 0.88 | model | [1] Gröbner 2015 | Table 2, p. 3, row 20; `ORC-ACZ5NMMJ3R` |  |
+| 1178.15 | L = GdZn2 + GdZn3 | L: Zn 0.755; GdZn2: Gd 0.333333, Zn 0.666667; GdZn3: Gd 0.25, Zn 0.75 | experimental | [1] Gröbner 2015; _cites Bruzzone 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990074-3) | Table 2, p. 3, row 9; `ORC-TMXQFKAMQP` |  |
+| 1177.65 | L = GdZn2 + GdZn3 | L: Zn 0.748; GdZn2: Gd 0.333333, Zn 0.666667; GdZn3: Gd 0.25, Zn 0.75 | model | [1] Gröbner 2015 | Table 2, p. 3, row 10; `ORC-PO5WKPUAXY` |  |
+| 1168.95 | L = Gd13Zn58 + Gd3Zn22 | L: Zn 0.847; Gd13Zn58: Gd 0.183099, Zn 0.816901; Gd3Zn22: Gd 0.12, Zn 0.88 | model | [1] Gröbner 2015 | Table 2, p. 3, row 18; `ORC-RVKGT3JNXR` |  |
+| 1168.65 | L + Gd13Zn58 = Gd3Zn11 | L: Zn 0.785; Gd13Zn58: Gd 0.183099, Zn 0.816901; Gd3Zn11: Gd 0.214286, Zn 0.785714 | model | [1] Gröbner 2015 | Table 2, p. 3, row 14; `ORC-247TT5D7XY` |  |
+| 1166.75 | L = GdZn3 + Gd3Zn11 | L: Zn 0.775; GdZn3: Gd 0.25, Zn 0.75; Gd3Zn11: Gd 0.214286, Zn 0.785714 | model | [1] Gröbner 2015 | Table 2, p. 3, row 12; `ORC-6PCU5EUJO7` |  |
+| 1158.15 | L = Gd13Zn58 + Gd3Zn22 | L: Zn 0.84; Gd13Zn58: Gd 0.183099, Zn 0.816901; Gd3Zn22: Gd 0.12, Zn 0.88 | experimental | [1] Gröbner 2015; _cites Bruzzone 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990074-3) | Table 2, p. 3, row 17; `ORC-VP55T75NBF` |  |
+| 1153.15 | L + Gd13Zn58 = Gd3Zn11 | L: Zn 0.775; Gd13Zn58: Gd 0.183099, Zn 0.816901; Gd3Zn11: Gd 0.214286, Zn 0.785714 | experimental | [1] Gröbner 2015; _cites Bruzzone 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990074-3) | Table 2, p. 3, row 13; `ORC-KKVXBUC5NQ` |  |
+| 1148.15 | L = GdZn3 + Gd3Zn11 | L: Zn 0.77; GdZn3: Gd 0.25, Zn 0.75; Gd3Zn11: Gd 0.214286, Zn 0.785714 | experimental | [1] Gröbner 2015; _cites Bruzzone 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990074-3) | Table 2, p. 3, row 11; `ORC-5E2FQFYORJ` |  |
+| 1053.45 | L = (Gd) + GdZn | L: Zn 0.282; GdZn: Gd 0.5, Zn 0.5 | model | [1] Gröbner 2015 | Table 2, p. 3, row 2; `ORC-524LJHPFNJ` |  |
+| 1053.15 | L = (Gd) + GdZn | L: Zn 0.27; GdZn: Gd 0.5, Zn 0.5 | experimental | [1] Gröbner 2015; _cites Bruzzone 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990074-3) | Table 2, p. 3, row 1; `ORC-T62QGGAY76` |  |
+| 933.15 | L + Gd2Zn17 = GdZn12 | L: Zn 0.985; Gd2Zn17: Gd 0.105263, Zn 0.894737; GdZn12: Gd 0.076923, Zn 0.923077 | experimental | [1] Gröbner 2015; _cites Bruzzone 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990074-3) | Table 2, p. 3, row 23; `ORC-J5QMMTO3PO` |  |
+| 932.45 | L + Gd2Zn17 = GdZn12 | L: Zn 0.993; Gd2Zn17: Gd 0.105263, Zn 0.894737; GdZn12: Gd 0.076923, Zn 0.923077 | model | [1] Gröbner 2015 | Table 2, p. 3, row 24; `ORC-T75HSIBGWS` |  |
+| 838.15 | eutectic |  | model | [1] Gröbner 2015 | p. 12; `ORC-7F5LIYBW6P.195111` | “The liquidus temperature of this alloy is 620 °C, see the liquidus projection in Fig. 15, and solidification terminates with just the eutectic L ! (Mg) + GdMg5, at about 565 °C (from 562 to 548 °C under Scheil conditions).” |
+| 693.15 | L = GdZn12 + (Zn) | L: Zn 0.995; GdZn12: Gd 0.076923, Zn 0.923077 | experimental | [1] Gröbner 2015; _cites Bruzzone 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990074-3) | Table 2, p. 3, row 25; `ORC-C7MAPOSLG3` |  |
+| 692.65 | L = GdZn12 + (Zn) | L: Zn 0.999; GdZn12: Gd 0.076923, Zn 0.923077 | model | [1] Gröbner 2015 | Table 2, p. 3, row 26; `ORC-RKVU3IL5EN` |  |
 
 ## Other properties
 
@@ -104,10 +104,10 @@ Table: Phase transition, Gd–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 613.15 K | 613.15 | U18 | experimental | [1] Gröbner 2015 | p. 11 | “The thermal signal at 340 °C in Samples 7 and 8 may be explained by solidification simulation under Scheil conditions in these alloys; that temperature is related to the reaction U18, not attained during equilibrium solidification in Samples 7 and 8.” |
-| Phase transition | 613.15 K | 613.15 | U18 | experimental | [1] Gröbner 2015 | p. 14 | “Thermal signal at 340 °C probably related to reaction U18 occurring under Scheil conditions in samples 6, 7 and 8.” |
-| Phase transition | 704.15 K | 704.15 | U14 | experimental | [1] Gröbner 2015 | p. 14 | “Thermal signal at 431 °C probably related to reaction U14 occurring under Scheil conditions in samples 7 and 8.” |
-| Phase transition | 893.15 K | 893.15 | other | model | [1] Gröbner 2015 | p. 12 | “The liquidus temperature of this alloy is 620 °C, see the liquidus projection in Fig. 15, and solidification terminates with just the eutectic L ! (Mg) + GdMg5, at about 565 °C (from 562 to 548 °C under Scheil conditions).” |
+| Phase transition | 613.15 K | 613.15 | U18 | experimental | [1] Gröbner 2015 | p. 11; `ORC-RA3YJHF2NR` | “The thermal signal at 340 °C in Samples 7 and 8 may be explained by solidification simulation under Scheil conditions in these alloys; that temperature is related to the reaction U18, not attained during equilibrium solidification in Samples 7 and 8.” |
+| Phase transition | 613.15 K | 613.15 | U18 | experimental | [1] Gröbner 2015 | p. 14; `ORC-RB7ZGBVQIM.e8818e` | “Thermal signal at 340 °C probably related to reaction U18 occurring under Scheil conditions in samples 6, 7 and 8.” |
+| Phase transition | 704.15 K | 704.15 | U14 | experimental | [1] Gröbner 2015 | p. 14; `ORC-RB7ZGBVQIM.551a28` | “Thermal signal at 431 °C probably related to reaction U14 occurring under Scheil conditions in samples 7 and 8.” |
+| Phase transition | 893.15 K | 893.15 | other | model | [1] Gröbner 2015 | p. 12; `ORC-7F5LIYBW6P.51f07c` | “The liquidus temperature of this alloy is 620 °C, see the liquidus projection in Fig. 15, and solidification terminates with just the eutectic L ! (Mg) + GdMg5, at about 565 °C (from 562 to 548 °C under Scheil conditions).” |
 
 ## Sources
 
@@ -172,4 +172,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

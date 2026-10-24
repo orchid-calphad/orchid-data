@@ -54,18 +54,18 @@ Table: Invariant reactions reported in the literature for the Eu–Pb system (12
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1418.15 | Eu2Pb + L ↔ Eu5Pb3 | Eu2Pb: Pb 0.333; Eu5Pb3: Pb 0.375 | experimental | [1] Wang 2013; _cites O 1967_ | Table 5, p. 3, row 5 |  |
-| 1412.35 | Eu2Pb + L ↔ Eu5Pb3 | Eu2Pb: Pb 0.333; L: Pb 0.415; Eu5Pb3: Pb 0.375 | model | [1] Wang 2013 | Table 5, p. 3, row 6 |  |
-| 1320.85 | L ↔ Eu5Pb3 + βEuPb | L: Pb 0.459; Eu5Pb3: Pb 0.375; βEuPb: Pb 0.5 | model | [1] Wang 2013 | Table 5, p. 3, row 8 |  |
-| 1304.15 | L ↔ Eu5Pb3 + βEuPb | L: Pb 0.445; Eu5Pb3: Pb 0.375; βEuPb: Pb 0.5 | experimental | [1] Wang 2013; _cites O 1967_ | Table 5, p. 3, row 7 |  |
-| 1147.15 | βEuPb + L ↔ αEuPb | βEuPb: Pb 0.5; L: Pb 0.591; αEuPb: Pb 0.5 | model | [1] Wang 2013 | Table 5, p. 3, row 14 |  |
-| 1143.15 | βEuPb + L ↔ αEuPb | βEuPb: Pb 0.5; αEuPb: Pb 0.5 | experimental | [1] Wang 2013; _cites O 1967_ | Table 5, p. 3, row 13 |  |
-| 1135.85 | βEuPb ↔ Eu5Pb3 + αEuPb | βEuPb: Pb 0.491; Eu5Pb3: Pb 0.375; αEuPb: Pb 0.494 | model | [1] Wang 2013 | Table 5, p. 3, row 10 |  |
-| 1130.15 | βEuPb ↔ Eu5Pb3 + αEuPb | βEuPb: Pb 0.5; Eu5Pb3: Pb 0.375; αEuPb: Pb 0.5 | experimental | [1] Wang 2013; _cites O 1967_ | Table 5, p. 3, row 9 |  |
-| 1049.15 | L ↔ (Eu) + Eu2Pb | L: Pb 0.0602; (Eu): Pb 0; Eu2Pb: Pb 0.317 | model | [1] Wang 2013 | Table 5, p. 3, row 2 |  |
-| 1043.15 | L ↔ (Eu) + Eu2Pb | L: Pb 0.055; (Eu): Pb 0; Eu2Pb: Pb 0.33 | experimental | [1] Wang 2013; _cites O 1967_ | Table 5, p. 3, row 1 |  |
-| 990.15 | L ↔ αEuPb + EuPb3 | L: Pb 0.635; αEuPb: Pb 0.5; EuPb3: Pb 0.75 | experimental | [1] Wang 2013; _cites O 1967_ | Table 5, p. 3, row 15 |  |
-| 989.05 | L ↔ αEuPb + EuPb3 | L: Pb 0.634; αEuPb: Pb 0.5; EuPb3: Pb 0.75 | model | [1] Wang 2013 | Table 5, p. 3, row 16 |  |
+| 1418.15 | Eu2Pb + L ↔ Eu5Pb3 | Eu2Pb: Pb 0.333; Eu5Pb3: Pb 0.375 | experimental | [1] Wang 2013; _cites O 1967_ | Table 5, p. 3, row 5; `ORC-Q33J2277WQ` |  |
+| 1412.35 | Eu2Pb + L ↔ Eu5Pb3 | Eu2Pb: Pb 0.333; L: Pb 0.415; Eu5Pb3: Pb 0.375 | model | [1] Wang 2013 | Table 5, p. 3, row 6; `ORC-I4HKSAWC72` |  |
+| 1320.85 | L ↔ Eu5Pb3 + βEuPb | L: Pb 0.459; Eu5Pb3: Pb 0.375; βEuPb: Pb 0.5 | model | [1] Wang 2013 | Table 5, p. 3, row 8; `ORC-DJZUKIGBC7` |  |
+| 1304.15 | L ↔ Eu5Pb3 + βEuPb | L: Pb 0.445; Eu5Pb3: Pb 0.375; βEuPb: Pb 0.5 | experimental | [1] Wang 2013; _cites O 1967_ | Table 5, p. 3, row 7; `ORC-M7ULEAYK6Y` |  |
+| 1147.15 | βEuPb + L ↔ αEuPb | βEuPb: Pb 0.5; L: Pb 0.591; αEuPb: Pb 0.5 | model | [1] Wang 2013 | Table 5, p. 3, row 14; `ORC-QXCIBLPOIE` |  |
+| 1143.15 | βEuPb + L ↔ αEuPb | βEuPb: Pb 0.5; αEuPb: Pb 0.5 | experimental | [1] Wang 2013; _cites O 1967_ | Table 5, p. 3, row 13; `ORC-EB443A24EP` |  |
+| 1135.85 | βEuPb ↔ Eu5Pb3 + αEuPb | βEuPb: Pb 0.491; Eu5Pb3: Pb 0.375; αEuPb: Pb 0.494 | model | [1] Wang 2013 | Table 5, p. 3, row 10; `ORC-BNQXN53TBE` |  |
+| 1130.15 | βEuPb ↔ Eu5Pb3 + αEuPb | βEuPb: Pb 0.5; Eu5Pb3: Pb 0.375; αEuPb: Pb 0.5 | experimental | [1] Wang 2013; _cites O 1967_ | Table 5, p. 3, row 9; `ORC-Z7BO7BHNR5` |  |
+| 1049.15 | L ↔ (Eu) + Eu2Pb | L: Pb 0.0602; (Eu): Pb 0; Eu2Pb: Pb 0.317 | model | [1] Wang 2013 | Table 5, p. 3, row 2; `ORC-TWZTDLDXKG` |  |
+| 1043.15 | L ↔ (Eu) + Eu2Pb | L: Pb 0.055; (Eu): Pb 0; Eu2Pb: Pb 0.33 | experimental | [1] Wang 2013; _cites O 1967_ | Table 5, p. 3, row 1; `ORC-4XLHTQTGBI` |  |
+| 990.15 | L ↔ αEuPb + EuPb3 | L: Pb 0.635; αEuPb: Pb 0.5; EuPb3: Pb 0.75 | experimental | [1] Wang 2013; _cites O 1967_ | Table 5, p. 3, row 15; `ORC-JKJU7PWOTJ` |  |
+| 989.05 | L ↔ αEuPb + EuPb3 | L: Pb 0.634; αEuPb: Pb 0.5; EuPb3: Pb 0.75 | model | [1] Wang 2013 | Table 5, p. 3, row 16; `ORC-NQ3NDZ6UW3` |  |
 
 ## Other properties
 
@@ -75,12 +75,12 @@ Table: Phase transition, Eu–Pb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1061.15 K | 1061.15 | L ↔ EuPb3; _L: Pb 0.75; EuPb3: Pb 0.75_ | experimental | [1] Wang 2013; _cites O 1967_ | Table 5, p. 3, row 17 |  |
-| Phase transition | 1065.65 K | 1065.65 | L ↔ EuPb3; _L: Pb 0.75; EuPb3: Pb 0.75_ | model | [1] Wang 2013 | Table 5, p. 3, row 18 |  |
-| Phase transition | 1343.15 K | 1343.15 | L ↔ βEuPb; _L: Pb 0.5; βEuPb: Pb 0.5_ | model | [1] Wang 2013 | Table 5, p. 3, row 12 |  |
-| Phase transition | 1353.15 K | 1353.15 | L ↔ βEuPb; _L: Pb 0.5; βEuPb: Pb 0.5_ | experimental | [1] Wang 2013; _cites O 1967_ | Table 5, p. 3, row 11 |  |
-| Phase transition | 1520.75 K | 1520.75 | L ↔ Eu2Pb; _L: Pb 0.333; Eu2Pb: Pb 0.333_ | model | [1] Wang 2013 | Table 5, p. 3, row 4 |  |
-| Phase transition | 1523.15 K | 1523.15 | L ↔ Eu2Pb; _L: Pb 0.333; Eu2Pb: Pb 0.333_ | experimental | [1] Wang 2013; _cites O 1967_ | Table 5, p. 3, row 3 |  |
+| Phase transition | 1061.15 K | 1061.15 | L ↔ EuPb3; _L: Pb 0.75; EuPb3: Pb 0.75_ | experimental | [1] Wang 2013; _cites O 1967_ | Table 5, p. 3, row 17; `ORC-FCVCDKSTPN` |  |
+| Phase transition | 1065.65 K | 1065.65 | L ↔ EuPb3; _L: Pb 0.75; EuPb3: Pb 0.75_ | model | [1] Wang 2013 | Table 5, p. 3, row 18; `ORC-H2P7EDQ72F` |  |
+| Phase transition | 1343.15 K | 1343.15 | L ↔ βEuPb; _L: Pb 0.5; βEuPb: Pb 0.5_ | model | [1] Wang 2013 | Table 5, p. 3, row 12; `ORC-4KBUS5C7W6` |  |
+| Phase transition | 1353.15 K | 1353.15 | L ↔ βEuPb; _L: Pb 0.5; βEuPb: Pb 0.5_ | experimental | [1] Wang 2013; _cites O 1967_ | Table 5, p. 3, row 11; `ORC-56K3Y7EZV6` |  |
+| Phase transition | 1520.75 K | 1520.75 | L ↔ Eu2Pb; _L: Pb 0.333; Eu2Pb: Pb 0.333_ | model | [1] Wang 2013 | Table 5, p. 3, row 4; `ORC-IPZEIIPS6U` |  |
+| Phase transition | 1523.15 K | 1523.15 | L ↔ Eu2Pb; _L: Pb 0.333; Eu2Pb: Pb 0.333_ | experimental | [1] Wang 2013; _cites O 1967_ | Table 5, p. 3, row 3; `ORC-4MXVF5QWB7` |  |
 
 ## Sources
 
@@ -145,4 +145,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

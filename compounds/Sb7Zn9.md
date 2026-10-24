@@ -14,12 +14,12 @@ Table: Enthalpy of formation of Sb7Zn9 reported in the literature (6)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -20.551 kJ/mol-atom | β-Zn9Sb7 | 826.15 | experimental | EMF | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Zhang 2022; _cites Seltz 1940_ [doi](https://doi.org/10.1149/1.3521200) | Table 8, p. 14, row 13 |  |
-| -12.379 kJ/mol-atom | α-Zn9Sb7 | 806.15 | experimental | EMF | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Zhang 2022; _cites Seltz 1940_ [doi](https://doi.org/10.1149/1.3521200) | Table 8, p. 14, row 15 |  |
-| -4.35 kJ/mol-atom | α-Zn9Sb7 | 800.15 | experimental | EMF | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Zhang 2022; _cites Zabdyr 1981_ | Table 8, p. 14, row 17 |  |
-| -21.3989 kJ/mol-atom | α-Zn9Sb7 | 806.15 | model | Calculation | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Zhang 2022 | Table 8, p. 14, row 16 |  |
-| -18.6235 kJ/mol-atom | β-Zn9Sb7 | 826.15 | model | Calculation | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Zhang 2022 | Table 8, p. 14, row 14 |  |
-| -12.6041 kJ/mol-atom | α-Zn9Sb7 | 800.15 | model | Calculation | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Zhang 2022 | Table 8, p. 14, row 18 |  |
+| -20.551 kJ/mol-atom | β-Zn9Sb7 | 826.15 | experimental | EMF | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Zhang 2022; _cites Seltz 1940_ [doi](https://doi.org/10.1149/1.3521200) | Table 8, p. 14, row 13; `ORC-5XSEGZQBR3.c07b17` |  |
+| -12.379 kJ/mol-atom | α-Zn9Sb7 | 806.15 | experimental | EMF | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Zhang 2022; _cites Seltz 1940_ [doi](https://doi.org/10.1149/1.3521200) | Table 8, p. 14, row 15; `ORC-37FC3SIAD7.bccaa4` |  |
+| -4.35 kJ/mol-atom | α-Zn9Sb7 | 800.15 | experimental | EMF | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Zhang 2022; _cites Zabdyr 1981_ | Table 8, p. 14, row 17; `ORC-HTTS63YOJG.aceeb6` |  |
+| -21.3989 kJ/mol-atom | α-Zn9Sb7 | 806.15 | model | Calculation | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Zhang 2022 | Table 8, p. 14, row 16; `ORC-UQLMRPUW7V.8bd61b` |  |
+| -18.6235 kJ/mol-atom | β-Zn9Sb7 | 826.15 | model | Calculation | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Zhang 2022 | Table 8, p. 14, row 14; `ORC-TVM3BDOS7V.3380af` |  |
+| -12.6041 kJ/mol-atom | α-Zn9Sb7 | 800.15 | model | Calculation | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Zhang 2022 | Table 8, p. 14, row 18; `ORC-WN6Q6YN6LT.acd3a4` |  |
 
 ### Uncertainty budget
 
@@ -87,4 +87,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

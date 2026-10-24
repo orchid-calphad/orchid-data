@@ -32,23 +32,23 @@ Table: Crystal structure, W system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 3.174 Å |  | W; _alloy: W 1_ | model | [1] Huang 2020 | Table 1, p. 3, row 24 |  |
-| Lattice a | 3.185 Å |  | W; _alloy: W 1_ | DFT | [2] Lieser 2012 | Table 1, p. 4, row 7 |  |
-| Lattice a | 3.19 Å |  | W; _alloy: W 1_ | model | [2] Lieser 2012; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.05.002) | Table 1, p. 4, row 9 |  |
-| Lattice a | 3.165 Å | 298.15 | W; _alloy: W 1_ | experimental | [1] Huang 2020; _cites Goetz 1964_ | Table 1, p. 3, row 23 |  |
-| Lattice a | 3.166 Å | 298.15 | W; _alloy: W 1_ | experimental | [2] Lieser 2012; _cites Braun 1960_ | Table 1, p. 4, row 8 |  |
-| Lattice a | 3.3 Å | 298.15 | W; _alloy: W 1_ | model | [3] Li 2013; _cites Daams 1991_ | Table 1, p. 2, row 3 |  |
-| Lattice a | 3.1665 Å | 298.15 | W; _alloy: W 1_ | unspecified | [4] Duschanek 1995; _cites ref. 65Rud_ | Table 2, p. 3, row 2 |  |
-| Lattice a | 3.1652 Å | 298.15 | W; _alloy: W 1_ | model | [4] Duschanek 1995; _cites Massalski 1990_ | Table 2, p. 3, row 1 |  |
-| Lattice b | 3.174 Å |  | W; _alloy: W 1_ | model | [1] Huang 2020 | Table 1, p. 3, row 24 |  |
-| Lattice b | 3.165 Å | 298.15 | W; _alloy: W 1_ | experimental | [1] Huang 2020; _cites Goetz 1964_ | Table 1, p. 3, row 23 |  |
-| Lattice c | 3.174 Å |  | W; _alloy: W 1_ | model | [1] Huang 2020 | Table 1, p. 3, row 24 |  |
-| Lattice c | 3.165 Å | 298.15 | W; _alloy: W 1_ | experimental | [1] Huang 2020; _cites Goetz 1964_ | Table 1, p. 3, row 23 |  |
-| lattice unspecified axis; _printed: Lattice constant_ | 3.1802 Å |  | Pure W; _alloy: W 1_ | unspecified | [5] Turchi 2005 | Table I, p. 5, row 10 |  |
-| lattice unspecified axis; _printed: Lattice constant_ | 3.1652 Å |  | Pure W; _alloy: W 1_ | experimental | [5] Turchi 2005 | Table I, p. 5, row 3 |  |
-| lattice unspecified axis; _printed: Lattice constant_ | 3.1934 Å |  | Pure W; _alloy: W 1_ | unspecified | [5] Turchi 2005 | Table I, p. 5, row 6 |  |
-| lattice v | 31.75 nm3 × 10^3 | 298.15 | W; _alloy: W 1_ | unspecified | [4] Duschanek 1995; _cites ref. 65Rud_ | Table 2, p. 3, row 2 |  |
-| lattice v | 31.71 nm3 × 10^3 | 298.15 | W; _alloy: W 1_ | model | [4] Duschanek 1995; _cites Massalski 1990_ | Table 2, p. 3, row 1 |  |
+| Lattice a | 3.174 Å |  | W; _alloy: W 1_ | model | [1] Huang 2020 | Table 1, p. 3, row 24; `ORC-KM4FRPAUSO.d79383` |  |
+| Lattice a | 3.185 Å |  | W; _alloy: W 1_ | DFT | [2] Lieser 2012 | Table 1, p. 4, row 7; `ORC-XRMPKI3TX5` |  |
+| Lattice a | 3.19 Å |  | W; _alloy: W 1_ | model | [2] Lieser 2012; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.05.002) | Table 1, p. 4, row 9; `ORC-ZBECHBJEE2` |  |
+| Lattice a | 3.165 Å | 298.15 | W; _alloy: W 1_ | experimental | [1] Huang 2020; _cites Goetz 1964_ | Table 1, p. 3, row 23; `ORC-B66DI5M4UI.b3b34c` |  |
+| Lattice a | 3.166 Å | 298.15 | W; _alloy: W 1_ | experimental | [2] Lieser 2012; _cites Braun 1960_ | Table 1, p. 4, row 8; `ORC-C6BKW7AWWK` |  |
+| Lattice a | 3.3 Å | 298.15 | W; _alloy: W 1_ | model | [3] Li 2013; _cites Daams 1991_ | Table 1, p. 2, row 3; `ORC-EAWGV6LDWN` |  |
+| Lattice a | 3.1665 Å | 298.15 | W; _alloy: W 1_ | unspecified | [4] Duschanek 1995; _cites ref. 65Rud_ | Table 2, p. 3, row 2; `ORC-LNWZAJFRBB.b5536d` |  |
+| Lattice a | 3.1652 Å | 298.15 | W; _alloy: W 1_ | model | [4] Duschanek 1995; _cites Massalski 1990_ | Table 2, p. 3, row 1; `ORC-TFQYNHO73Y.a48b5e` |  |
+| Lattice b | 3.174 Å |  | W; _alloy: W 1_ | model | [1] Huang 2020 | Table 1, p. 3, row 24; `ORC-KM4FRPAUSO.9e5a4e` |  |
+| Lattice b | 3.165 Å | 298.15 | W; _alloy: W 1_ | experimental | [1] Huang 2020; _cites Goetz 1964_ | Table 1, p. 3, row 23; `ORC-B66DI5M4UI.fb4f5a` |  |
+| Lattice c | 3.174 Å |  | W; _alloy: W 1_ | model | [1] Huang 2020 | Table 1, p. 3, row 24; `ORC-KM4FRPAUSO.bddc75` |  |
+| Lattice c | 3.165 Å | 298.15 | W; _alloy: W 1_ | experimental | [1] Huang 2020; _cites Goetz 1964_ | Table 1, p. 3, row 23; `ORC-B66DI5M4UI.dd8c93` |  |
+| lattice unspecified axis; _printed: Lattice constant_ | 3.1802 Å |  | Pure W; _alloy: W 1_ | unspecified | [5] Turchi 2005 | Table I, p. 5, row 10; `ORC-BULSJRXPCM` |  |
+| lattice unspecified axis; _printed: Lattice constant_ | 3.1652 Å |  | Pure W; _alloy: W 1_ | experimental | [5] Turchi 2005 | Table I, p. 5, row 3; `ORC-QYUCBN7GNF` |  |
+| lattice unspecified axis; _printed: Lattice constant_ | 3.1934 Å |  | Pure W; _alloy: W 1_ | unspecified | [5] Turchi 2005 | Table I, p. 5, row 6; `ORC-VNF7LK2LC4` |  |
+| lattice v | 31.75 nm3 × 10^3 | 298.15 | W; _alloy: W 1_ | unspecified | [4] Duschanek 1995; _cites ref. 65Rud_ | Table 2, p. 3, row 2; `ORC-LNWZAJFRBB.2702fd` |  |
+| lattice v | 31.71 nm3 × 10^3 | 298.15 | W; _alloy: W 1_ | model | [4] Duschanek 1995; _cites Massalski 1990_ | Table 2, p. 3, row 1; `ORC-TFQYNHO73Y.5abdc1` |  |
 
 ### Other property (3)
 
@@ -56,9 +56,9 @@ Table: Other property, W system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| bulk modulus; _printed: Bulk modulus_ | 337.3 GPa |  | Pure W; _alloy: W 1_ | unspecified | [5] Turchi 2005 | Table I, p. 5, row 10 |  |
-| bulk modulus; _printed: Bulk modulus_ | 310.4 GPa |  | Pure W; _alloy: W 1_ | experimental | [5] Turchi 2005 | Table I, p. 5, row 3 |  |
-| bulk modulus; _printed: Bulk modulus_ | 314 GPa |  | Pure W; _alloy: W 1_ | unspecified | [5] Turchi 2005 | Table I, p. 5, row 6 |  |
+| bulk modulus; _printed: Bulk modulus_ | 337.3 GPa |  | Pure W; _alloy: W 1_ | unspecified | [5] Turchi 2005 | Table I, p. 5, row 10; `ORC-7UABXGZIWU` |  |
+| bulk modulus; _printed: Bulk modulus_ | 310.4 GPa |  | Pure W; _alloy: W 1_ | experimental | [5] Turchi 2005 | Table I, p. 5, row 3; `ORC-SKGRAITNQZ` |  |
+| bulk modulus; _printed: Bulk modulus_ | 314 GPa |  | Pure W; _alloy: W 1_ | unspecified | [5] Turchi 2005 | Table I, p. 5, row 6; `ORC-UGWLKQXAOB` |  |
 
 ## Sources
 
@@ -105,4 +105,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

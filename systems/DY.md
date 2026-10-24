@@ -31,14 +31,14 @@ Table: Phase transition, Dy system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1651 K | 1651 | polymorphic: βDy -> αDy; _βDy: Dy 1_ | model | [1] Otmani 2015 | Table 2, p. 3, row 4 |  |
-| Phase transition | 1653 K | 1653 | polymorphic: βDy -> αDy; _βDy: Dy 1_ | experimental | [1] Otmani 2015; _cites McMasters 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990144-6) | Table 2, p. 3, row 3 |  |
-| Phase transition | 1654 K | 1654 | polymorphic: Dy; _alloy: Dy 1_ | model | [2] Norgren 2000; _cites Saunders 1998_ | Table 1, p. 4, row 18 |  |
-| Phase transition | 1654.15 K | 1654.15 | polymorphic: βDy -> αDy; _βDy: _ | experimental | [3] Wang 2009; _cites Massalski 1990_ | Table 3, p. 4, row 1 |  |
-| Phase transition | 1654.15 K | 1654.15 | polymorphic: βDy -> αDy; _βDy: _ | model | [3] Wang 2009 | Table 3, p. 4, row 2 |  |
-| Phase transition | 1659 K | 1659 | polymorphic: Dy; _alloy: Dy 1_ | model | [2] Norgren 2000; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 1, p. 4, row 17 |  |
-| Phase transition | 1685 K | 1685 | congruent melting: L -> βDy; _L: Dy 1_ | experimental | [1] Otmani 2015; _cites McMasters 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990144-6) | Table 2, p. 3, row 1 |  |
-| Phase transition | 1685 K | 1685 | congruent melting: L -> βDy; _L: Dy 1_ | model | [1] Otmani 2015 | Table 2, p. 3, row 2 |  |
+| Phase transition | 1651 K | 1651 | polymorphic: βDy -> αDy; _βDy: Dy 1_ | model | [1] Otmani 2015 | Table 2, p. 3, row 4; `ORC-NL4WK4OHPD` |  |
+| Phase transition | 1653 K | 1653 | polymorphic: βDy -> αDy; _βDy: Dy 1_ | experimental | [1] Otmani 2015; _cites McMasters 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990144-6) | Table 2, p. 3, row 3; `ORC-TITETLDTYM` |  |
+| Phase transition | 1654 K | 1654 | polymorphic: Dy; _alloy: Dy 1_ | model | [2] Norgren 2000; _cites Saunders 1998_ | Table 1, p. 4, row 18; `ORC-GS7OFSKISX` |  |
+| Phase transition | 1654.15 K | 1654.15 | polymorphic: βDy -> αDy; _βDy: _ | experimental | [3] Wang 2009; _cites Massalski 1990_ | Table 3, p. 4, row 1; `ORC-7J4WZU2EW7` |  |
+| Phase transition | 1654.15 K | 1654.15 | polymorphic: βDy -> αDy; _βDy: _ | model | [3] Wang 2009 | Table 3, p. 4, row 2; `ORC-JKFC4Z7KLF` |  |
+| Phase transition | 1659 K | 1659 | polymorphic: Dy; _alloy: Dy 1_ | model | [2] Norgren 2000; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 1, p. 4, row 17; `ORC-32HALI2R5A` |  |
+| Phase transition | 1685 K | 1685 | congruent melting: L -> βDy; _L: Dy 1_ | experimental | [1] Otmani 2015; _cites McMasters 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990144-6) | Table 2, p. 3, row 1; `ORC-3SSXTYR7CJ` |  |
+| Phase transition | 1685 K | 1685 | congruent melting: L -> βDy; _L: Dy 1_ | model | [1] Otmani 2015 | Table 2, p. 3, row 2; `ORC-63QPS2YBQS` |  |
 
 ### Crystal structure (13)
 
@@ -46,19 +46,19 @@ Table: Crystal structure, Dy system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a; _printed: a_ | 3.604 Å |  | Dy; _alloy: Dy 1_ | model | [4] Long 2010; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.05.002) | Table 1, p. 3, row 26 |  |
-| Lattice a | 3.511 Å |  | Dy; _alloy: Dy 1_ | model | [5] Wang 2013 | Table 3, p. 3, row 5 |  |
-| Lattice a; _printed: a_ | 3.588 Å |  | Dy; _alloy: Dy 1_ | model | [4] Long 2010; _cites Morozkin 2002_ [doi](https://doi.org/10.1016/s0925-8388%2802%2900404-8) | Table 1, p. 3, row 27 |  |
-| Lattice a | 3.4936 Å | 298.15 | Dy; _alloy: Dy 1_ | experimental | [5] Wang 2013; _cites Shen 2007_ [doi](https://doi.org/10.1103/physrevb.75.064109) | Table 3, p. 3, row 6 |  |
-| Lattice a; _printed: a_ | 3.606 Å | 298.15 | Dy; _alloy: Dy 1_ | DFT | [4] Long 2010 | Table 1, p. 3, row 25 |  |
-| Lattice a | 35.93 Å | 298.15 | bcc(Dy) | experimental | [6] Cui 2023; _cites Harris 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990154-4) | Table 1, p. 2, row 4 |  |
-| Lattice a | 3.98 Å | 298.15 | hcp(Dy) | experimental | [6] Cui 2023; _cites Dvorina 1967_ | Table 1, p. 2, row 3 |  |
-| Lattice c; _printed: c_ | 5.626 Å |  | Dy; _alloy: Dy 1_ | model | [4] Long 2010; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.05.002) | Table 1, p. 3, row 26 |  |
-| Lattice c | 5.603 Å |  | Dy; _alloy: Dy 1_ | model | [5] Wang 2013 | Table 3, p. 3, row 5 |  |
-| Lattice c; _printed: c_ | 5.646 Å |  | Dy; _alloy: Dy 1_ | model | [4] Long 2010; _cites Morozkin 2002_ [doi](https://doi.org/10.1016/s0925-8388%2802%2900404-8) | Table 1, p. 3, row 27 |  |
-| Lattice c | 5.506 Å | 298.15 | Dy; _alloy: Dy 1_ | experimental | [5] Wang 2013; _cites Shen 2007_ [doi](https://doi.org/10.1103/physrevb.75.064109) | Table 3, p. 3, row 6 |  |
-| Lattice c; _printed: c_ | 5.619 Å | 298.15 | Dy; _alloy: Dy 1_ | DFT | [4] Long 2010 | Table 1, p. 3, row 25 |  |
-| Lattice c | 56.537 Å | 298.15 | bcc(Dy) | experimental | [6] Cui 2023; _cites Harris 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990154-4) | Table 1, p. 2, row 4 |  |
+| Lattice a; _printed: a_ | 3.604 Å |  | Dy; _alloy: Dy 1_ | model | [4] Long 2010; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.05.002) | Table 1, p. 3, row 26; `ORC-4T7DJMZ472.913033` |  |
+| Lattice a | 3.511 Å |  | Dy; _alloy: Dy 1_ | model | [5] Wang 2013 | Table 3, p. 3, row 5; `ORC-S3ERPWQTVW.a39ac0` |  |
+| Lattice a; _printed: a_ | 3.588 Å |  | Dy; _alloy: Dy 1_ | model | [4] Long 2010; _cites Morozkin 2002_ [doi](https://doi.org/10.1016/s0925-8388%2802%2900404-8) | Table 1, p. 3, row 27; `ORC-XNPDKT4GVL.b44cd5` |  |
+| Lattice a | 3.4936 Å | 298.15 | Dy; _alloy: Dy 1_ | experimental | [5] Wang 2013; _cites Shen 2007_ [doi](https://doi.org/10.1103/physrevb.75.064109) | Table 3, p. 3, row 6; `ORC-GD2AGXZOZA.834587` |  |
+| Lattice a; _printed: a_ | 3.606 Å | 298.15 | Dy; _alloy: Dy 1_ | DFT | [4] Long 2010 | Table 1, p. 3, row 25; `ORC-HMTCKCLHCD.68d697` |  |
+| Lattice a | 35.93 Å | 298.15 | bcc(Dy) | experimental | [6] Cui 2023; _cites Harris 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990154-4) | Table 1, p. 2, row 4; `ORC-EOV6S73HHS.c1400e` |  |
+| Lattice a | 3.98 Å | 298.15 | hcp(Dy) | experimental | [6] Cui 2023; _cites Dvorina 1967_ | Table 1, p. 2, row 3; `ORC-KOIXKHBHED` |  |
+| Lattice c; _printed: c_ | 5.626 Å |  | Dy; _alloy: Dy 1_ | model | [4] Long 2010; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.05.002) | Table 1, p. 3, row 26; `ORC-4T7DJMZ472.6210a6` |  |
+| Lattice c | 5.603 Å |  | Dy; _alloy: Dy 1_ | model | [5] Wang 2013 | Table 3, p. 3, row 5; `ORC-S3ERPWQTVW.cb48ea` |  |
+| Lattice c; _printed: c_ | 5.646 Å |  | Dy; _alloy: Dy 1_ | model | [4] Long 2010; _cites Morozkin 2002_ [doi](https://doi.org/10.1016/s0925-8388%2802%2900404-8) | Table 1, p. 3, row 27; `ORC-XNPDKT4GVL.0532aa` |  |
+| Lattice c | 5.506 Å | 298.15 | Dy; _alloy: Dy 1_ | experimental | [5] Wang 2013; _cites Shen 2007_ [doi](https://doi.org/10.1103/physrevb.75.064109) | Table 3, p. 3, row 6; `ORC-GD2AGXZOZA.d91ef1` |  |
+| Lattice c; _printed: c_ | 5.619 Å | 298.15 | Dy; _alloy: Dy 1_ | DFT | [4] Long 2010 | Table 1, p. 3, row 25; `ORC-HMTCKCLHCD.a36d10` |  |
+| Lattice c | 56.537 Å | 298.15 | bcc(Dy) | experimental | [6] Cui 2023; _cites Harris 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990154-4) | Table 1, p. 2, row 4; `ORC-EOV6S73HHS.b09369` |  |
 
 ## Sources
 
@@ -106,4 +106,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

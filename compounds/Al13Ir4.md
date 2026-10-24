@@ -14,11 +14,11 @@ Table: Enthalpy of formation of Al13Ir4 reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -64.4 kJ/mol-atom | Al13Ir4 |  | model |  | [Al–Ir](https://data.orchid-project.org/systems/AL-IR.html) | [1] Abe 2008 | Table 2, p. 3, row 8 |  |
-| -64.1 kJ/mol-atom | Al13Ir4 | 0 | model |  | [Al–Ir](https://data.orchid-project.org/systems/AL-IR.html) | [2] JIANG 2006 | Table 4, p. 4, row 2 |  |
-| -63.5 kJ/mol-atom | Al13Ir4 | 0 | model |  | [Al–Ir](https://data.orchid-project.org/systems/AL-IR.html) | [2] JIANG 2006 | Table 4, p. 4, row 2 |  |
-| -62.8 kJ/mol-atom | Al13Ir4 | 0 | model |  | [Al–Ir](https://data.orchid-project.org/systems/AL-IR.html) | [2] JIANG 2006 | Table 4, p. 4, row 2 |  |
-| -63.5 kJ/mol-atom | Al13Ir4 |  | DFT |  | [Al–Ir](https://data.orchid-project.org/systems/AL-IR.html) | [1] Abe 2008; _cites Jiang 2006_ | Table 2, p. 3, row 9 |  |
+| -64.4 kJ/mol-atom | Al13Ir4 |  | model |  | [Al–Ir](https://data.orchid-project.org/systems/AL-IR.html) | [1] Abe 2008 | Table 2, p. 3, row 8; `ORC-2LSSATLPN7.5018bb` |  |
+| -64.1 kJ/mol-atom | Al13Ir4 | 0 | model |  | [Al–Ir](https://data.orchid-project.org/systems/AL-IR.html) | [2] JIANG 2006 | Table 4, p. 4, row 2; `ORC-VVD6KBZNAZ.0affb3` |  |
+| -63.5 kJ/mol-atom | Al13Ir4 | 0 | model |  | [Al–Ir](https://data.orchid-project.org/systems/AL-IR.html) | [2] JIANG 2006 | Table 4, p. 4, row 2; `ORC-VVD6KBZNAZ.004cf3` |  |
+| -62.8 kJ/mol-atom | Al13Ir4 | 0 | model |  | [Al–Ir](https://data.orchid-project.org/systems/AL-IR.html) | [2] JIANG 2006 | Table 4, p. 4, row 2; `ORC-VVD6KBZNAZ.cdc32e` |  |
+| -63.5 kJ/mol-atom | Al13Ir4 |  | DFT |  | [Al–Ir](https://data.orchid-project.org/systems/AL-IR.html) | [1] Abe 2008; _cites Jiang 2006_ | Table 2, p. 3, row 9; `ORC-3T45LAF2NA.0784dc` |  |
 
 ### Uncertainty budget
 
@@ -98,4 +98,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

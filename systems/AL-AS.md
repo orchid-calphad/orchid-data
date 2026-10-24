@@ -52,14 +52,14 @@ Table: Enthalpies of formation, Al–As system (8)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Al0.5As0.5(c) |  | -74.1 kJ/mol (basis unstated) ± 6.5 | 298.15 | experimental |  |  | [1] Ansara 1984; _cites ref. 40_ | Table V, p. 8, row 1 |  |
-| Al0.5As0.5(c) |  | -60.37 kJ/mol (basis unstated) ± 0.63 | 298.15 | experimental |  |  | [1] Ansara 1984; _cites ref. 14_ | Table V, p. 8, row 3 |  |
-| Al0.5As0.5(c) |  | -58.2 kJ/mol (basis unstated) ± 1.2 | 298.15 | experimental |  |  | [1] Ansara 1984; _cites ref. 38_ | Table V, p. 8, row 2 |  |
-| Al0.5As0.5(c) |  | -31 kJ/mol (basis unstated) ± 3.5 | 298.15 | experimental |  |  | [1] Ansara 1984; _cites ref. 41_ | Table V, p. 8, row 4 |  |
-| UNKNOWN |  | -74.1 unknown ± 6.5 | 298.15 | experimental |  |  | [1] Ansara 1984; _cites ref. 40_ | Table V, p. 8, row 1 |  |
-| UNKNOWN |  | -60.37 unknown ± 0.63 | 298.15 | experimental |  |  | [1] Ansara 1984; _cites ref. 14_ | Table V, p. 8, row 3 |  |
-| UNKNOWN |  | -58.2 unknown ± 1.2 | 298.15 | experimental |  |  | [1] Ansara 1984; _cites ref. 38_ | Table V, p. 8, row 2 |  |
-| UNKNOWN |  | -31 unknown ± 3.5 | 298.15 | experimental |  |  | [1] Ansara 1984; _cites ref. 41_ | Table V, p. 8, row 4 |  |
+| Al0.5As0.5(c) |  | -74.1 kJ/mol (basis unstated) ± 6.5 | 298.15 | experimental |  |  | [1] Ansara 1984; _cites ref. 40_ | Table V, p. 8, row 1; `ORC-TPCHL4IPZ3.12ad36` |  |
+| Al0.5As0.5(c) |  | -60.37 kJ/mol (basis unstated) ± 0.63 | 298.15 | experimental |  |  | [1] Ansara 1984; _cites ref. 14_ | Table V, p. 8, row 3; `ORC-IFH5NT34DE.3c3c1e` |  |
+| Al0.5As0.5(c) |  | -58.2 kJ/mol (basis unstated) ± 1.2 | 298.15 | experimental |  |  | [1] Ansara 1984; _cites ref. 38_ | Table V, p. 8, row 2; `ORC-7IUYZXQGF3.1efe92` |  |
+| Al0.5As0.5(c) |  | -31 kJ/mol (basis unstated) ± 3.5 | 298.15 | experimental |  |  | [1] Ansara 1984; _cites ref. 41_ | Table V, p. 8, row 4; `ORC-3LBVASEB5P.33b988` |  |
+| UNKNOWN |  | -74.1 unknown ± 6.5 | 298.15 | experimental |  |  | [1] Ansara 1984; _cites ref. 40_ | Table V, p. 8, row 1; `ORC-TPCHL4IPZ3.673b1a` |  |
+| UNKNOWN |  | -60.37 unknown ± 0.63 | 298.15 | experimental |  |  | [1] Ansara 1984; _cites ref. 14_ | Table V, p. 8, row 3; `ORC-IFH5NT34DE.d73ff4` |  |
+| UNKNOWN |  | -58.2 unknown ± 1.2 | 298.15 | experimental |  |  | [1] Ansara 1984; _cites ref. 38_ | Table V, p. 8, row 2; `ORC-7IUYZXQGF3.9aa222` |  |
+| UNKNOWN |  | -31 unknown ± 3.5 | 298.15 | experimental |  |  | [1] Ansara 1984; _cites ref. 41_ | Table V, p. 8, row 4; `ORC-3LBVASEB5P.b1af7d` |  |
 
 ## Other properties
 
@@ -69,7 +69,7 @@ Table: Heat capacity / entropy / enthalpy, Al–As system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: °S^L - °S^f.c.c._ | 35.45 J/mol (basis unstated)/K | 2043 | Al0.5As0.5; _alloy: As 0.5_ | unspecified | [1] Ansara 1984 | Table VI, p. 13, row 5 |  |
+| Entropy; _printed: °S^L - °S^f.c.c._ | 35.45 J/mol (basis unstated)/K | 2043 | Al0.5As0.5; _alloy: As 0.5_ | unspecified | [1] Ansara 1984 | Table VI, p. 13, row 5; `ORC-QDA4IJNRPO.a353ad` |  |
 
 ## Sources
 
@@ -134,4 +134,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

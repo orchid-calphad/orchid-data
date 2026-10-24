@@ -29,19 +29,19 @@ Table: Enthalpies of formation, Na–Sb–Sn system (13)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| DyNa6WSb4AlSn43 |  | 1.66 eV | 0 | model |  |  | [1] Dreval 2017 | Table 4, p. 8, row 5 |  |
-| KNa3SbSn3 |  | -2.066 eV | 0 | model |  |  | [1] Dreval 2017 | Table 4, p. 8, row 3 |  |
-| KNaSbSn |  | -0.741 eV | 0 | model |  |  | [1] Dreval 2017 | Table 4, p. 8, row 1 |  |
-| LiNaMgSb2ZnSn3 |  | -0.39 eV | 0 | model |  |  | [1] Dreval 2017 | Table 4, p. 8, row 4 |  |
-| LiNaSbSn |  | -31 kJ/mol (basis unstated) | 0 | model |  |  | [1] Dreval 2017 | Table 4, p. 8, row 2 |  |
-| Na5Sb3Sn |  | -3.389 eV | 0 | DFT |  |  | [1] Dreval 2017 | Table 3, p. 7, row 34 |  |
-| Na5Sb3Sn |  | -3.366 eV | 0 | DFT |  |  | [1] Dreval 2017 | Table 3, p. 7, row 35 |  |
-| Na8Sb4Sn |  | -5.245 eV | 0 | DFT |  |  | [1] Dreval 2017 | Table 3, p. 7, row 32 |  |
-| Na8Sb4Sn |  | -5.227 eV | 0 | DFT |  |  | [1] Dreval 2017 | Table 3, p. 7, row 33 |  |
-| UNKNOWN |  | -2.066 eV relaxed cell | 0 | model |  |  | [1] Dreval 2017 | Table 4, p. 8, row 3 |  |
-| UNKNOWN |  | -0.741 eV relaxed cell | 0 | model |  |  | [1] Dreval 2017 | Table 4, p. 8, row 1 |  |
-| UNKNOWN |  | -0.39 eV relaxed cell | 0 | model |  |  | [1] Dreval 2017 | Table 4, p. 8, row 4 |  |
-| UNKNOWN |  | 1.66 eV relaxed cell | 0 | model |  |  | [1] Dreval 2017 | Table 4, p. 8, row 5 |  |
+| DyNa6WSb4AlSn43 |  | 1.66 eV | 0 | model |  |  | [1] Dreval 2017 | Table 4, p. 8, row 5; `ORC-NCQWSHBLXC.ef10b1` |  |
+| KNa3SbSn3 |  | -2.066 eV | 0 | model |  |  | [1] Dreval 2017 | Table 4, p. 8, row 3; `ORC-QWZMU6BVXE.7058e3` |  |
+| KNaSbSn |  | -0.741 eV | 0 | model |  |  | [1] Dreval 2017 | Table 4, p. 8, row 1; `ORC-YIPPM67EA5.906a84` |  |
+| LiNaMgSb2ZnSn3 |  | -0.39 eV | 0 | model |  |  | [1] Dreval 2017 | Table 4, p. 8, row 4; `ORC-FQAF474B74.7d5ef0` |  |
+| LiNaSbSn |  | -31 kJ/mol (basis unstated) | 0 | model |  |  | [1] Dreval 2017 | Table 4, p. 8, row 2; `ORC-7EDWNSYJ2S.e1f816` |  |
+| Na5Sb3Sn |  | -3.389 eV | 0 | DFT |  |  | [1] Dreval 2017 | Table 3, p. 7, row 34; `ORC-VXDHKRIW42` |  |
+| Na5Sb3Sn |  | -3.366 eV | 0 | DFT |  |  | [1] Dreval 2017 | Table 3, p. 7, row 35; `ORC-NYKIEJFDO2` |  |
+| Na8Sb4Sn |  | -5.245 eV | 0 | DFT |  |  | [1] Dreval 2017 | Table 3, p. 7, row 32; `ORC-7F4SVJFHHU` |  |
+| Na8Sb4Sn |  | -5.227 eV | 0 | DFT |  |  | [1] Dreval 2017 | Table 3, p. 7, row 33; `ORC-FWQ2LUN5DG` |  |
+| UNKNOWN |  | -2.066 eV relaxed cell | 0 | model |  |  | [1] Dreval 2017 | Table 4, p. 8, row 3; `ORC-QWZMU6BVXE.cf24c2` |  |
+| UNKNOWN |  | -0.741 eV relaxed cell | 0 | model |  |  | [1] Dreval 2017 | Table 4, p. 8, row 1; `ORC-YIPPM67EA5.52a6a7` |  |
+| UNKNOWN |  | -0.39 eV relaxed cell | 0 | model |  |  | [1] Dreval 2017 | Table 4, p. 8, row 4; `ORC-FQAF474B74.253fe0` |  |
+| UNKNOWN |  | 1.66 eV relaxed cell | 0 | model |  |  | [1] Dreval 2017 | Table 4, p. 8, row 5; `ORC-NCQWSHBLXC.814622` |  |
 
 ## Sources
 
@@ -84,4 +84,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

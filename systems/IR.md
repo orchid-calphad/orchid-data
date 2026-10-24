@@ -31,9 +31,9 @@ Table: Enthalpies of formation, Ir system (3)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| A1-Al |  | 0 kJ/mol-atom | 0 | model |  |  | [1] Abe 2008 | Table 2, p. 3, row 21 |  |
-| A1-Ir |  | 0 kJ/mol-atom | 0 | model |  |  | [1] Abe 2008 | Table 2, p. 3, row 21 |  |
-| A2-Ir |  | 8.8 kJ/mol-atom | 0 | model |  |  | [1] Abe 2008 | Table 2, p. 3, row 24 |  |
+| A1-Al |  | 0 kJ/mol-atom | 0 | model |  |  | [1] Abe 2008 | Table 2, p. 3, row 21; `ORC-PSDZU7YMNB.ed0174` |  |
+| A1-Ir |  | 0 kJ/mol-atom | 0 | model |  |  | [1] Abe 2008 | Table 2, p. 3, row 21; `ORC-PSDZU7YMNB.abef50` |  |
+| A2-Ir |  | 8.8 kJ/mol-atom | 0 | model |  |  | [1] Abe 2008 | Table 2, p. 3, row 24; `ORC-3GMHV2XSSV` |  |
 
 ## Other properties
 
@@ -43,21 +43,21 @@ Table: Crystal structure, Ir system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a; _printed: a_ | 3.888 Å | 0 | A1-Ir; _alloy: Ir 1_ | model | [1] Abe 2008 | Table 2, p. 3, row 21 |  |
-| Lattice a; _printed: a_ | 3.839 Å |  | A1-Ir; _alloy: Ir 1_ | experimental | [1] Abe 2008; _cites Schroder 1972_ | Table 2, p. 3, row 22 |  |
-| Lattice a; _printed: a_ | 3.119 Å | 0 | A2-Ir; _alloy: Ir 1_ | model | [1] Abe 2008 | Table 2, p. 3, row 24 |  |
-| Lattice a; _printed: a_ | 3.839 Å |  | Al–Ir; _alloy: Ir 1_ | experimental | [1] Abe 2008; _cites Schroder 1972_ | Table 2, p. 3, row 22 |  |
-| Lattice a | 3.885 Å |  | Ir | model | [2] Huang 2020 | Table 1, p. 3, row 14 |  |
-| Lattice a | 3.8392 Å | 298.15 | Ir; _Ir: Ir 1_ | unspecified | [3] Anderson 1992 | Table 2, p. 1, row 18 |  |
-| Lattice a | 3.839 Å | 298.15 | Ir | experimental | [2] Huang 2020; _cites Michalik 1963_ | Table 1, p. 3, row 13 |  |
-| Lattice a | 3.8391 Å | 298.15 | Ir(s); _Ir(s): Ir 1_ | unspecified | [4] Karakaya 1986 | Table 1, p. 2, row 2 |  |
-| Lattice a | 3.8391 Å | 298.15 | Ir(s); _Ir(s): Ir 1_ | unspecified | [5] Karakaya 1986; _cites ref. 1_ | Table 1, p. 1, row 2 |  |
-| Lattice a | 3.839 Å | 303.15 | (Ir); _alloy: Ir 1_ | experimental | [6] Chakrabarti 1987; _cites Singh 1969_ | Table 3, p. 3, row 6 |  |
-| Lattice b | 3.885 Å |  | Ir | model | [2] Huang 2020 | Table 1, p. 3, row 14 |  |
-| Lattice b | 3.839 Å | 298.15 | Ir | experimental | [2] Huang 2020; _cites Michalik 1963_ | Table 1, p. 3, row 13 |  |
-| Lattice c | 3.885 Å |  | Ir | model | [2] Huang 2020 | Table 1, p. 3, row 14 |  |
-| Lattice c | 3.839 Å | 298.15 | Ir | experimental | [2] Huang 2020; _cites Michalik 1963_ | Table 1, p. 3, row 13 |  |
-| lattice unspecified axis | 3.8391 Å | 298.15 | Ir(s); _Ir(s): Ir 1_ | unspecified | [5] Karakaya 1986; _cites ref. 1_ | Table 1, p. 1, row 2 |  |
+| Lattice a; _printed: a_ | 3.888 Å | 0 | A1-Ir; _alloy: Ir 1_ | model | [1] Abe 2008 | Table 2, p. 3, row 21; `ORC-4DFZPM6XU2` |  |
+| Lattice a; _printed: a_ | 3.839 Å |  | A1-Ir; _alloy: Ir 1_ | experimental | [1] Abe 2008; _cites Schroder 1972_ | Table 2, p. 3, row 22; `ORC-6RWKLMXOX3.c57815` |  |
+| Lattice a; _printed: a_ | 3.119 Å | 0 | A2-Ir; _alloy: Ir 1_ | model | [1] Abe 2008 | Table 2, p. 3, row 24; `ORC-BCK2PDII5Z.9ca740` |  |
+| Lattice a; _printed: a_ | 3.839 Å |  | Al–Ir; _alloy: Ir 1_ | experimental | [1] Abe 2008; _cites Schroder 1972_ | Table 2, p. 3, row 22; `ORC-6RWKLMXOX3.3bedbc` |  |
+| Lattice a | 3.885 Å |  | Ir | model | [2] Huang 2020 | Table 1, p. 3, row 14; `ORC-VJOJCE3PNJ.33b8c1` |  |
+| Lattice a | 3.8392 Å | 298.15 | Ir; _Ir: Ir 1_ | unspecified | [3] Anderson 1992 | Table 2, p. 1, row 18; `ORC-3N2QJJH3K5` |  |
+| Lattice a | 3.839 Å | 298.15 | Ir | experimental | [2] Huang 2020; _cites Michalik 1963_ | Table 1, p. 3, row 13; `ORC-UZTCAQ4HP6.152a13` |  |
+| Lattice a | 3.8391 Å | 298.15 | Ir(s); _Ir(s): Ir 1_ | unspecified | [4] Karakaya 1986 | Table 1, p. 2, row 2; `ORC-FV3BPEFABT` |  |
+| Lattice a | 3.8391 Å | 298.15 | Ir(s); _Ir(s): Ir 1_ | unspecified | [5] Karakaya 1986; _cites ref. 1_ | Table 1, p. 1, row 2; `ORC-MA5KC5CUJD.8217c7` |  |
+| Lattice a | 3.839 Å | 303.15 | (Ir); _alloy: Ir 1_ | experimental | [6] Chakrabarti 1987; _cites Singh 1969_ | Table 3, p. 3, row 6; `ORC-7BH6GCFV5Z` |  |
+| Lattice b | 3.885 Å |  | Ir | model | [2] Huang 2020 | Table 1, p. 3, row 14; `ORC-VJOJCE3PNJ.37abe5` |  |
+| Lattice b | 3.839 Å | 298.15 | Ir | experimental | [2] Huang 2020; _cites Michalik 1963_ | Table 1, p. 3, row 13; `ORC-UZTCAQ4HP6.e75b2b` |  |
+| Lattice c | 3.885 Å |  | Ir | model | [2] Huang 2020 | Table 1, p. 3, row 14; `ORC-VJOJCE3PNJ.c7e2a4` |  |
+| Lattice c | 3.839 Å | 298.15 | Ir | experimental | [2] Huang 2020; _cites Michalik 1963_ | Table 1, p. 3, row 13; `ORC-UZTCAQ4HP6.76f357` |  |
+| lattice unspecified axis | 3.8391 Å | 298.15 | Ir(s); _Ir(s): Ir 1_ | unspecified | [5] Karakaya 1986; _cites ref. 1_ | Table 1, p. 1, row 2; `ORC-MA5KC5CUJD.8f8811` |  |
 
 ## Sources
 
@@ -105,4 +105,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

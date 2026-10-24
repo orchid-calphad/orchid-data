@@ -28,27 +28,27 @@ Table: Invariant reactions reported in the literature for the Ga–Ge–Pt syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1608.2 | eutectic: L -> GaPt3 + GaGePt6 + (Pt) |  | model | [1] Wang 2009 | Table 7, p. 8, row 1 |  |
-| 1439.4 | quasi-peritectic: L + GaPt3 -> GaGePt4 + GaGePt6 |  | model | [1] Wang 2009 | Table 7, p. 8, row 2 |  |
-| 1415.9 | quasi-peritectic: L + GaPt3 -> GaGePt4 + GaPt2 |  | model | [1] Wang 2009 | Table 7, p. 8, row 3 |  |
-| 1399.8 | quasi-peritectic: L + GaPt2 -> Ga3Pt5 + GaGePt4 |  | model | [1] Wang 2009 | Table 7, p. 8, row 4 |  |
-| 1297.7 | quasi-peritectic: L + GaGePt4 -> GePt + Ga3Pt5 |  | model | [1] Wang 2009 | Table 7, p. 8, row 5 |  |
-| 1265.1 | eutectic: L -> GePt + GaPt + Ga3Pt5 |  | model | [1] Wang 2009 | Table 7, p. 8, row 6 |  |
-| 1222 | peritectic: L + GaGePt6 + (Pt) -> GePt3 |  | model | [1] Wang 2009 | Table 7, p. 8, row 7 |  |
-| 1171.1 | peritectic: L + GaGePt4 + GePt -> Ge2Pt3 |  | model | [1] Wang 2009 | Table 7, p. 8, row 8 |  |
-| 1161.5 | quasi-peritectic: L + Ga3Pt2 -> Ga11GePt7 + Ga2Pt |  | model | [1] Wang 2009 | Table 7, p. 8, row 9 |  |
-| 1136.2 | peritectic: L + GaGePt6 + GaGePt4 -> GePt2 |  | model | [1] Wang 2009 | Table 7, p. 8, row 10 |  |
-| 1133.2 | quasi-peritectic: L + GaGePt4 -> GePt2 + Ge2Pt3 |  | model | [1] Wang 2009 | Table 7, p. 8, row 11 |  |
-| 1130.9 | quasi-peritectic: L + Ga3Pt2 -> GaPt + Ga11GePt7 |  | model | [1] Wang 2009 | Table 7, p. 8, row 12 |  |
-| 1097.4 | quasi-peritectic: L + GaGePt6 -> GePt3 + GePt2 |  | model | [1] Wang 2009 | Table 7, p. 8, row 13 |  |
-| 1078.4 | quasi-peritectic: L + Ga11GePt7 -> Ga2Pt + GaPt |  | model | [1] Wang 2009 | Table 7, p. 8, row 14 |  |
-| 1066.9 | quasi-peritectic: L + GaPt -> Ga2Pt + GePt |  | model | [1] Wang 2009 | Table 7, p. 8, row 15 |  |
-| 1025.3 | quasi-peritectic: L + GePt -> Ga2Pt + Ge3Pt2 |  | model | [1] Wang 2009 | Table 7, p. 8, row 16 |  |
-| 1019.7 | quasi-peritectic: L + Ge3Pt2 -> Ge2Pt + Ga2Pt |  | model | [1] Wang 2009 | Table 7, p. 8, row 17 |  |
-| 978 | quasi-peritectic: L + Ge2Pt -> (Ge) + Ga2Pt |  | model | [1] Wang 2009 | Table 7, p. 8, row 18 |  |
-| 892.6 | quasi-peritectic: L + Ga2Pt -> (Ge) + Ga7Pt3 |  | model | [1] Wang 2009 | Table 7, p. 8, row 19 |  |
-| 564.4 | peritectic: L + (Ge) + Ga7Pt3 -> Ga6Pt |  | model | [1] Wang 2009 | Table 7, p. 8, row 20 |  |
-| 302.9 | peritectic: L + Ga6Pt + (Ge) -> (Ga) |  | model | [1] Wang 2009 | Table 7, p. 8, row 21 |  |
+| 1608.2 | eutectic: L -> GaPt3 + GaGePt6 + (Pt) |  | model | [1] Wang 2009 | Table 7, p. 8, row 1; `ORC-YJATABLGFK` |  |
+| 1439.4 | quasi-peritectic: L + GaPt3 -> GaGePt4 + GaGePt6 |  | model | [1] Wang 2009 | Table 7, p. 8, row 2; `ORC-2NWAJLDU3A` |  |
+| 1415.9 | quasi-peritectic: L + GaPt3 -> GaGePt4 + GaPt2 |  | model | [1] Wang 2009 | Table 7, p. 8, row 3; `ORC-HITWGRL6OZ` |  |
+| 1399.8 | quasi-peritectic: L + GaPt2 -> Ga3Pt5 + GaGePt4 |  | model | [1] Wang 2009 | Table 7, p. 8, row 4; `ORC-23VFKAPZAC` |  |
+| 1297.7 | quasi-peritectic: L + GaGePt4 -> GePt + Ga3Pt5 |  | model | [1] Wang 2009 | Table 7, p. 8, row 5; `ORC-SHCDQ755WL` |  |
+| 1265.1 | eutectic: L -> GePt + GaPt + Ga3Pt5 |  | model | [1] Wang 2009 | Table 7, p. 8, row 6; `ORC-AZSGAGWPEC` |  |
+| 1222 | peritectic: L + GaGePt6 + (Pt) -> GePt3 |  | model | [1] Wang 2009 | Table 7, p. 8, row 7; `ORC-QZETIVU6TT` |  |
+| 1171.1 | peritectic: L + GaGePt4 + GePt -> Ge2Pt3 |  | model | [1] Wang 2009 | Table 7, p. 8, row 8; `ORC-7K4UYIP3N6` |  |
+| 1161.5 | quasi-peritectic: L + Ga3Pt2 -> Ga11GePt7 + Ga2Pt |  | model | [1] Wang 2009 | Table 7, p. 8, row 9; `ORC-5KEUAZH3PB` |  |
+| 1136.2 | peritectic: L + GaGePt6 + GaGePt4 -> GePt2 |  | model | [1] Wang 2009 | Table 7, p. 8, row 10; `ORC-ZRHG4W2AUK` |  |
+| 1133.2 | quasi-peritectic: L + GaGePt4 -> GePt2 + Ge2Pt3 |  | model | [1] Wang 2009 | Table 7, p. 8, row 11; `ORC-UNEPZ3E5XZ` |  |
+| 1130.9 | quasi-peritectic: L + Ga3Pt2 -> GaPt + Ga11GePt7 |  | model | [1] Wang 2009 | Table 7, p. 8, row 12; `ORC-SAYM7SCFQI` |  |
+| 1097.4 | quasi-peritectic: L + GaGePt6 -> GePt3 + GePt2 |  | model | [1] Wang 2009 | Table 7, p. 8, row 13; `ORC-6YDLLMZRQ3` |  |
+| 1078.4 | quasi-peritectic: L + Ga11GePt7 -> Ga2Pt + GaPt |  | model | [1] Wang 2009 | Table 7, p. 8, row 14; `ORC-2XVEOSHVTL` |  |
+| 1066.9 | quasi-peritectic: L + GaPt -> Ga2Pt + GePt |  | model | [1] Wang 2009 | Table 7, p. 8, row 15; `ORC-S6L25HXRJE` |  |
+| 1025.3 | quasi-peritectic: L + GePt -> Ga2Pt + Ge3Pt2 |  | model | [1] Wang 2009 | Table 7, p. 8, row 16; `ORC-ENGIKXO437` |  |
+| 1019.7 | quasi-peritectic: L + Ge3Pt2 -> Ge2Pt + Ga2Pt |  | model | [1] Wang 2009 | Table 7, p. 8, row 17; `ORC-K7XX5EVGH4` |  |
+| 978 | quasi-peritectic: L + Ge2Pt -> (Ge) + Ga2Pt |  | model | [1] Wang 2009 | Table 7, p. 8, row 18; `ORC-723VS5EPTN` |  |
+| 892.6 | quasi-peritectic: L + Ga2Pt -> (Ge) + Ga7Pt3 |  | model | [1] Wang 2009 | Table 7, p. 8, row 19; `ORC-FUKX2FAPHE` |  |
+| 564.4 | peritectic: L + (Ge) + Ga7Pt3 -> Ga6Pt |  | model | [1] Wang 2009 | Table 7, p. 8, row 20; `ORC-RWPO47PRS6` |  |
+| 302.9 | peritectic: L + Ga6Pt + (Ge) -> (Ga) |  | model | [1] Wang 2009 | Table 7, p. 8, row 21; `ORC-D64ZIOUL2O` |  |
 
 ## Other properties
 
@@ -58,50 +58,50 @@ Table: Phase equilibrium, Ga–Ge–Pt system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase assemblage |  | 473 | (Ge) + Ga2Pt + Ga7Pt3; _alloy: Ge 1, Pt 0_ | model | [1] Wang 2009 | Table 4, p. 8, row 3 |  |
-| Phase assemblage |  | 473 | (Ge) + Ga2Pt + Ga7Pt3; _alloy: Ge 1, Pt 0_ | experimental | [1] Wang 2009 | Table 4, p. 8, row 4 |  |
-| Phase assemblage |  | 473 | (Ge) + Ga2Pt + Ge2Pt; _alloy: Ge 1, Pt 0_ | experimental | [1] Wang 2009 | Table 4, p. 8, row 2 |  |
-| Phase assemblage |  | 473 | (Ge) + Ga2Pt + Ge2Pt; _alloy: Ge 1, Pt 0_ | model | [1] Wang 2009 | Table 4, p. 8, row 1 |  |
-| Phase assemblage |  | 473 | (Ge) + Ga6Pt + Ga7Pt3; _alloy: Ge 1, Pt 0_ | experimental | [1] Wang 2009 | Table 4, p. 8, row 6 |  |
-| Phase assemblage |  | 473 | (Ge) + Ga6Pt + Ga7Pt3; _alloy: Ge 1, Pt 0_ | model | [1] Wang 2009 | Table 4, p. 8, row 5 |  |
-| Phase assemblage |  | 473 | L + (Ge) + Ga6Pt; _alloy: Ge 1, Pt 0_ | experimental | [1] Wang 2009 | Table 4, p. 8, row 8 |  |
-| Phase assemblage |  | 473 | L + (Ge) + Ga6Pt; _alloy: Ge 1, Pt 0_ | model | [1] Wang 2009 | Table 4, p. 8, row 7 |  |
-| Phase assemblage |  | 973 | (Ge) + Ga2Pt + Ge2Pt; _alloy: Ge 1, Pt 0_ | model | [1] Wang 2009 | Table 5, p. 8, row 1 |  |
-| Phase assemblage |  | 973 | Ga2Pt + Ga3Pt2 + Ga11GePt7; _alloy: Ge 0, Pt 0.333333_ | experimental | [1] Wang 2009 | Table 5, p. 8, row 13 |  |
-| Phase assemblage |  | 973 | Ga2Pt + Ga3Pt2 + Ga11GePt7; _alloy: Ge 0, Pt 0.333333_ | model | [1] Wang 2009 | Table 5, p. 8, row 12 |  |
-| Phase assemblage |  | 973 | GaPt + Ga2Pt + Ga11GePt7; _alloy: Ge 0, Pt 0.5_ | experimental | [1] Wang 2009 | Table 5, p. 8, row 9 |  |
-| Phase assemblage |  | 973 | GaPt + Ga2Pt + Ga11GePt7; _alloy: Ge 0, Pt 0.5_ | model | [1] Wang 2009 | Table 5, p. 8, row 8 |  |
-| Phase assemblage |  | 973 | GaPt + Ga2Pt + GePt; _alloy: Ge 0, Pt 0.5_ | model | [1] Wang 2009 | Table 5, p. 8, row 6 |  |
-| Phase assemblage |  | 973 | GaPt + Ga2Pt + GePt; _alloy: Ge 0, Pt 0.5_ | experimental | [1] Wang 2009 | Table 5, p. 8, row 7 |  |
-| Phase assemblage |  | 973 | GaPt + Ga3Pt2 + Ga11GePt7; _alloy: Ge 0, Pt 0.5_ | experimental | [1] Wang 2009 | Table 5, p. 8, row 11 |  |
-| Phase assemblage |  | 973 | GaPt + Ga3Pt2 + Ga11GePt7; _alloy: Ge 0, Pt 0.5_ | model | [1] Wang 2009 | Table 5, p. 8, row 10 |  |
-| Phase assemblage |  | 973 | Ge3Pt2 + Ga2Pt + Ge2Pt; _alloy: Ge 0.6, Pt 0.4_ | experimental | [1] Wang 2009 | Table 5, p. 8, row 3 |  |
-| Phase assemblage |  | 973 | Ge3Pt2 + Ga2Pt + Ge2Pt; _alloy: Ge 0.6, Pt 0.4_ | model | [1] Wang 2009 | Table 5, p. 8, row 2 |  |
-| Phase assemblage |  | 973 | Ge3Pt2 + Ga2Pt + GePt; _alloy: Ge 0.6, Pt 0.4_ | model | [1] Wang 2009 | Table 5, p. 8, row 4 |  |
-| Phase assemblage |  | 973 | Ge3Pt2 + Ga2Pt + GePt; _alloy: Ge 0.6, Pt 0.4_ | experimental | [1] Wang 2009 | Table 5, p. 8, row 5 |  |
-| Phase assemblage |  | 1073 | Ga3Pt5 + GaPt2 + GaGePt4; _alloy: Ge 0, Pt 0.625_ | experimental | [1] Wang 2009 | Table 6, p. 8, row 17 |  |
-| Phase assemblage |  | 1073 | Ga3Pt5 + GaPt2 + GaGePt4; _alloy: Ge 0, Pt 0.625_ | model | [1] Wang 2009 | Table 6, p. 8, row 16 |  |
-| Phase assemblage |  | 1073 | Ga3Pt5 + GePt + GaGePt4; _alloy: Ge 0, Pt 0.625_ | model | [1] Wang 2009 | Table 6, p. 8, row 3 |  |
-| Phase assemblage |  | 1073 | Ga3Pt5 + GePt + GaGePt4; _alloy: Ge 0, Pt 0.625_ | experimental | [1] Wang 2009 | Table 6, p. 8, row 4 |  |
-| Phase assemblage |  | 1073 | Ga3Pt5 + GePt + GaPt; _alloy: Ge 0, Pt 0.625_ | experimental | [1] Wang 2009 | Table 6, p. 8, row 6 |  |
-| Phase assemblage |  | 1073 | Ga3Pt5 + GePt + GaPt; _alloy: Ge 0, Pt 0.625_ | model | [1] Wang 2009 | Table 6, p. 8, row 5 |  |
-| Phase assemblage |  | 1073 | GaPt3 + (Pt) + GaGePt6; _alloy: Ge 0, Pt 0.75_ | model | [1] Wang 2009 | Table 6, p. 8, row 21 |  |
-| Phase assemblage |  | 1073 | GaPt3 + GaGePt4 + GaGePt6; _alloy: Ge 0, Pt 0.75_ | experimental | [1] Wang 2009 | Table 6, p. 8, row 19 |  |
-| Phase assemblage |  | 1073 | GaPt3 + GaGePt4 + GaGePt6; _alloy: Ge 0, Pt 0.75_ | model | [1] Wang 2009 | Table 6, p. 8, row 18 |  |
-| Phase assemblage |  | 1073 | GaPt3 + GaPt2 + GaGePt4; _alloy: Ge 0, Pt 0.75_ | experimental | [1] Wang 2009 | Table 6, p. 8, row 15 |  |
-| Phase assemblage |  | 1073 | GaPt3 + GaPt2 + GaGePt4; _alloy: Ge 0, Pt 0.75_ | model | [1] Wang 2009 | Table 6, p. 8, row 14 |  |
-| Phase assemblage |  | 1073 | Ge2Pt3 + GePt + GaGePt4; _alloy: Ge 0.4, Pt 0.6_ | model | [1] Wang 2009 | Table 6, p. 8, row 1 |  |
-| Phase assemblage |  | 1073 | Ge2Pt3 + GePt + GaGePt4; _alloy: Ge 0.4, Pt 0.6_ | experimental | [1] Wang 2009 | Table 6, p. 8, row 2 |  |
-| Phase assemblage |  | 1073 | Ge2Pt3 + GePt2 + GaGePt4; _alloy: Ge 0.4, Pt 0.6_ | model | [1] Wang 2009 | Table 6, p. 8, row 8 |  |
-| Phase assemblage |  | 1073 | Ge2Pt3 + GePt2 + GaGePt4; _alloy: Ge 0.4, Pt 0.6_ | experimental | [1] Wang 2009 | Table 6, p. 8, row 9 |  |
-| Phase assemblage |  | 1073 | GePt2 + GaGePt4 + GaGePt6; _alloy: Ge 0.333333, Pt 0.666667_ | experimental | [1] Wang 2009 | Table 6, p. 8, row 13 |  |
-| Phase assemblage |  | 1073 | GePt2 + GaGePt4 + GaGePt6; _alloy: Ge 0.333333, Pt 0.666667_ | model | [1] Wang 2009 | Table 6, p. 8, row 12 |  |
-| Phase assemblage |  | 1073 | GePt3 + (Pt) + GaGePt6; _alloy: Ge 0.25, Pt 0.75_ | model | [1] Wang 2009 | Table 6, p. 8, row 20 |  |
-| Phase assemblage |  | 1073 | GePt3 + GePt2 + GaGePt6; _alloy: Ge 0.25, Pt 0.75_ | model | [1] Wang 2009 | Table 6, p. 8, row 10 |  |
-| Phase assemblage |  | 1073 | GePt3 + GePt2 + GaGePt6; _alloy: Ge 0.25, Pt 0.75_ | experimental | [1] Wang 2009 | Table 6, p. 8, row 11 |  |
-| Phase assemblage |  | 1073 | L + Ge2Pt3 + GePt2; _alloy: Ge 0.4, Pt 0.6_ | model | [1] Wang 2009 | Table 6, p. 8, row 23 |  |
-| Phase assemblage |  | 1073 | L + GePt + GaPt; _alloy: Ge 0.5, Pt 0.5_ | model | [1] Wang 2009 | Table 6, p. 8, row 7 |  |
-| Phase assemblage |  | 1073 | L + GePt3 + GePt2; _alloy: Ge 0.25, Pt 0.75_ | model | [1] Wang 2009 | Table 6, p. 8, row 22 |  |
+| Phase assemblage |  | 473 | (Ge) + Ga2Pt + Ga7Pt3; _alloy: Ge 1, Pt 0_ | model | [1] Wang 2009 | Table 4, p. 8, row 3; `ORC-LDOSZMCKET` |  |
+| Phase assemblage |  | 473 | (Ge) + Ga2Pt + Ga7Pt3; _alloy: Ge 1, Pt 0_ | experimental | [1] Wang 2009 | Table 4, p. 8, row 4; `ORC-YL4CBQIUYR` |  |
+| Phase assemblage |  | 473 | (Ge) + Ga2Pt + Ge2Pt; _alloy: Ge 1, Pt 0_ | experimental | [1] Wang 2009 | Table 4, p. 8, row 2; `ORC-D6XQ7YA3FN` |  |
+| Phase assemblage |  | 473 | (Ge) + Ga2Pt + Ge2Pt; _alloy: Ge 1, Pt 0_ | model | [1] Wang 2009 | Table 4, p. 8, row 1; `ORC-DY3526YQAL` |  |
+| Phase assemblage |  | 473 | (Ge) + Ga6Pt + Ga7Pt3; _alloy: Ge 1, Pt 0_ | experimental | [1] Wang 2009 | Table 4, p. 8, row 6; `ORC-4N66OCSLPG` |  |
+| Phase assemblage |  | 473 | (Ge) + Ga6Pt + Ga7Pt3; _alloy: Ge 1, Pt 0_ | model | [1] Wang 2009 | Table 4, p. 8, row 5; `ORC-XMQ4MEZLRX` |  |
+| Phase assemblage |  | 473 | L + (Ge) + Ga6Pt; _alloy: Ge 1, Pt 0_ | experimental | [1] Wang 2009 | Table 4, p. 8, row 8; `ORC-MEB2JZZOOJ` |  |
+| Phase assemblage |  | 473 | L + (Ge) + Ga6Pt; _alloy: Ge 1, Pt 0_ | model | [1] Wang 2009 | Table 4, p. 8, row 7; `ORC-WFO4HWCCAH` |  |
+| Phase assemblage |  | 973 | (Ge) + Ga2Pt + Ge2Pt; _alloy: Ge 1, Pt 0_ | model | [1] Wang 2009 | Table 5, p. 8, row 1; `ORC-YTEACTQAIH` |  |
+| Phase assemblage |  | 973 | Ga2Pt + Ga3Pt2 + Ga11GePt7; _alloy: Ge 0, Pt 0.333333_ | experimental | [1] Wang 2009 | Table 5, p. 8, row 13; `ORC-5O5S3K2EVY` |  |
+| Phase assemblage |  | 973 | Ga2Pt + Ga3Pt2 + Ga11GePt7; _alloy: Ge 0, Pt 0.333333_ | model | [1] Wang 2009 | Table 5, p. 8, row 12; `ORC-DLGRMA626F` |  |
+| Phase assemblage |  | 973 | GaPt + Ga2Pt + Ga11GePt7; _alloy: Ge 0, Pt 0.5_ | experimental | [1] Wang 2009 | Table 5, p. 8, row 9; `ORC-27ICKWWOQC` |  |
+| Phase assemblage |  | 973 | GaPt + Ga2Pt + Ga11GePt7; _alloy: Ge 0, Pt 0.5_ | model | [1] Wang 2009 | Table 5, p. 8, row 8; `ORC-42S4GBK47T` |  |
+| Phase assemblage |  | 973 | GaPt + Ga2Pt + GePt; _alloy: Ge 0, Pt 0.5_ | model | [1] Wang 2009 | Table 5, p. 8, row 6; `ORC-FIRSZHKXGY` |  |
+| Phase assemblage |  | 973 | GaPt + Ga2Pt + GePt; _alloy: Ge 0, Pt 0.5_ | experimental | [1] Wang 2009 | Table 5, p. 8, row 7; `ORC-MQUI3LC3JK` |  |
+| Phase assemblage |  | 973 | GaPt + Ga3Pt2 + Ga11GePt7; _alloy: Ge 0, Pt 0.5_ | experimental | [1] Wang 2009 | Table 5, p. 8, row 11; `ORC-HQB5G7TA7W` |  |
+| Phase assemblage |  | 973 | GaPt + Ga3Pt2 + Ga11GePt7; _alloy: Ge 0, Pt 0.5_ | model | [1] Wang 2009 | Table 5, p. 8, row 10; `ORC-W67T3HJBGL` |  |
+| Phase assemblage |  | 973 | Ge3Pt2 + Ga2Pt + Ge2Pt; _alloy: Ge 0.6, Pt 0.4_ | experimental | [1] Wang 2009 | Table 5, p. 8, row 3; `ORC-7UQW3XIABV` |  |
+| Phase assemblage |  | 973 | Ge3Pt2 + Ga2Pt + Ge2Pt; _alloy: Ge 0.6, Pt 0.4_ | model | [1] Wang 2009 | Table 5, p. 8, row 2; `ORC-G56THKZGUX` |  |
+| Phase assemblage |  | 973 | Ge3Pt2 + Ga2Pt + GePt; _alloy: Ge 0.6, Pt 0.4_ | model | [1] Wang 2009 | Table 5, p. 8, row 4; `ORC-BNKIO5ZIHB` |  |
+| Phase assemblage |  | 973 | Ge3Pt2 + Ga2Pt + GePt; _alloy: Ge 0.6, Pt 0.4_ | experimental | [1] Wang 2009 | Table 5, p. 8, row 5; `ORC-DISQW6ZWBQ` |  |
+| Phase assemblage |  | 1073 | Ga3Pt5 + GaPt2 + GaGePt4; _alloy: Ge 0, Pt 0.625_ | experimental | [1] Wang 2009 | Table 6, p. 8, row 17; `ORC-HLQGABYNTX` |  |
+| Phase assemblage |  | 1073 | Ga3Pt5 + GaPt2 + GaGePt4; _alloy: Ge 0, Pt 0.625_ | model | [1] Wang 2009 | Table 6, p. 8, row 16; `ORC-NTFJN3673Y` |  |
+| Phase assemblage |  | 1073 | Ga3Pt5 + GePt + GaGePt4; _alloy: Ge 0, Pt 0.625_ | model | [1] Wang 2009 | Table 6, p. 8, row 3; `ORC-BACERPMEIH` |  |
+| Phase assemblage |  | 1073 | Ga3Pt5 + GePt + GaGePt4; _alloy: Ge 0, Pt 0.625_ | experimental | [1] Wang 2009 | Table 6, p. 8, row 4; `ORC-OZ57M2VZEE` |  |
+| Phase assemblage |  | 1073 | Ga3Pt5 + GePt + GaPt; _alloy: Ge 0, Pt 0.625_ | experimental | [1] Wang 2009 | Table 6, p. 8, row 6; `ORC-EMC5RNZWCC` |  |
+| Phase assemblage |  | 1073 | Ga3Pt5 + GePt + GaPt; _alloy: Ge 0, Pt 0.625_ | model | [1] Wang 2009 | Table 6, p. 8, row 5; `ORC-JR7CNJZ7RS` |  |
+| Phase assemblage |  | 1073 | GaPt3 + (Pt) + GaGePt6; _alloy: Ge 0, Pt 0.75_ | model | [1] Wang 2009 | Table 6, p. 8, row 21; `ORC-Z6HIFUJPVY` |  |
+| Phase assemblage |  | 1073 | GaPt3 + GaGePt4 + GaGePt6; _alloy: Ge 0, Pt 0.75_ | experimental | [1] Wang 2009 | Table 6, p. 8, row 19; `ORC-CYOWSR4RYZ` |  |
+| Phase assemblage |  | 1073 | GaPt3 + GaGePt4 + GaGePt6; _alloy: Ge 0, Pt 0.75_ | model | [1] Wang 2009 | Table 6, p. 8, row 18; `ORC-P5L4DYEZTC` |  |
+| Phase assemblage |  | 1073 | GaPt3 + GaPt2 + GaGePt4; _alloy: Ge 0, Pt 0.75_ | experimental | [1] Wang 2009 | Table 6, p. 8, row 15; `ORC-3RSHB5W46T` |  |
+| Phase assemblage |  | 1073 | GaPt3 + GaPt2 + GaGePt4; _alloy: Ge 0, Pt 0.75_ | model | [1] Wang 2009 | Table 6, p. 8, row 14; `ORC-3YGOQ7QNHV` |  |
+| Phase assemblage |  | 1073 | Ge2Pt3 + GePt + GaGePt4; _alloy: Ge 0.4, Pt 0.6_ | model | [1] Wang 2009 | Table 6, p. 8, row 1; `ORC-S7NPVUVRLW` |  |
+| Phase assemblage |  | 1073 | Ge2Pt3 + GePt + GaGePt4; _alloy: Ge 0.4, Pt 0.6_ | experimental | [1] Wang 2009 | Table 6, p. 8, row 2; `ORC-ZCSPK4EUCY` |  |
+| Phase assemblage |  | 1073 | Ge2Pt3 + GePt2 + GaGePt4; _alloy: Ge 0.4, Pt 0.6_ | model | [1] Wang 2009 | Table 6, p. 8, row 8; `ORC-VB6HRQUJOQ` |  |
+| Phase assemblage |  | 1073 | Ge2Pt3 + GePt2 + GaGePt4; _alloy: Ge 0.4, Pt 0.6_ | experimental | [1] Wang 2009 | Table 6, p. 8, row 9; `ORC-XNF6ZBVBKU` |  |
+| Phase assemblage |  | 1073 | GePt2 + GaGePt4 + GaGePt6; _alloy: Ge 0.333333, Pt 0.666667_ | experimental | [1] Wang 2009 | Table 6, p. 8, row 13; `ORC-67ZSKM7LIY` |  |
+| Phase assemblage |  | 1073 | GePt2 + GaGePt4 + GaGePt6; _alloy: Ge 0.333333, Pt 0.666667_ | model | [1] Wang 2009 | Table 6, p. 8, row 12; `ORC-T4MBXWFK4E` |  |
+| Phase assemblage |  | 1073 | GePt3 + (Pt) + GaGePt6; _alloy: Ge 0.25, Pt 0.75_ | model | [1] Wang 2009 | Table 6, p. 8, row 20; `ORC-HQIGQCFMUZ` |  |
+| Phase assemblage |  | 1073 | GePt3 + GePt2 + GaGePt6; _alloy: Ge 0.25, Pt 0.75_ | model | [1] Wang 2009 | Table 6, p. 8, row 10; `ORC-BTK46BFFOS` |  |
+| Phase assemblage |  | 1073 | GePt3 + GePt2 + GaGePt6; _alloy: Ge 0.25, Pt 0.75_ | experimental | [1] Wang 2009 | Table 6, p. 8, row 11; `ORC-HB25MCJS73` |  |
+| Phase assemblage |  | 1073 | L + Ge2Pt3 + GePt2; _alloy: Ge 0.4, Pt 0.6_ | model | [1] Wang 2009 | Table 6, p. 8, row 23; `ORC-NWVAXBQC3D` |  |
+| Phase assemblage |  | 1073 | L + GePt + GaPt; _alloy: Ge 0.5, Pt 0.5_ | model | [1] Wang 2009 | Table 6, p. 8, row 7; `ORC-3ZPYZBLDVD` |  |
+| Phase assemblage |  | 1073 | L + GePt3 + GePt2; _alloy: Ge 0.25, Pt 0.75_ | model | [1] Wang 2009 | Table 6, p. 8, row 22; `ORC-4MFSPK6NNR` |  |
 
 ## Sources
 
@@ -144,4 +144,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

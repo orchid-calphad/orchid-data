@@ -26,18 +26,18 @@ Table: Invariant reactions reported in the literature for the Fe–Nb–Zn syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1772.9 | eutectic: L -> ε + (Nb) + μ |  | model | [1] Long 2016 | Table 4, p. 7, row 1 |  |
-| 1385.5 | quasi-peritectic: L + NbZn -> (Nb) + NbZn1.5 |  | model | [1] Long 2016 | Table 4, p. 7, row 2 |  |
-| 1376.3 | quasi-peritectic: L + (Nb) -> ε + NbZn1.5 |  | model | [1] Long 2016 | Table 4, p. 7, row 3 |  |
-| 1323.3 | quasi-peritectic: L + NbZn1.5 -> ε + NbZn2 |  | model | [1] Long 2016 | Table 4, p. 7, row 4 |  |
-| 1298.7 | quasi-peritectic: L + NbZn2 -> ε + NbZn3 |  | model | [1] Long 2016 | Table 4, p. 7, row 5 |  |
-| 1192.6 | peritectic: L + NbZn3 + ε -> τ |  | model | [1] Long 2016 | Table 4, p. 7, row 6 |  |
-| 1080.2 | peritectic: L + (Fe) + ε -> Γ |  | model | [1] Long 2016 | Table 4, p. 7, row 7 |  |
-| 970.8 | quasi-peritectic: L + ε -> Γ + τ |  | model | [1] Long 2016 | Table 4, p. 7, row 8 |  |
-| 941.4 | peritectic: L + Γ + τ -> δ |  | model | [1] Long 2016 | Table 4, p. 7, row 9 |  |
-| 802.2 | peritectic: L + τ + δ -> ζ |  | model | [1] Long 2016 | Table 4, p. 7, row 10 |  |
-| 750.1 | peritectic: L + τ + NbZn3 -> NbZn7 |  | model | [1] Long 2016 | Table 4, p. 7, row 11 |  |
-| 709.3 | quasi-peritectic: L + τ -> ζ + NbZn7 |  | model | [1] Long 2016 | Table 4, p. 7, row 12 |  |
+| 1772.9 | eutectic: L -> ε + (Nb) + μ |  | model | [1] Long 2016 | Table 4, p. 7, row 1; `ORC-E2ZMCVKQVW` |  |
+| 1385.5 | quasi-peritectic: L + NbZn -> (Nb) + NbZn1.5 |  | model | [1] Long 2016 | Table 4, p. 7, row 2; `ORC-UASJYM7OL5` |  |
+| 1376.3 | quasi-peritectic: L + (Nb) -> ε + NbZn1.5 |  | model | [1] Long 2016 | Table 4, p. 7, row 3; `ORC-7Q3CJSYABS` |  |
+| 1323.3 | quasi-peritectic: L + NbZn1.5 -> ε + NbZn2 |  | model | [1] Long 2016 | Table 4, p. 7, row 4; `ORC-FMEMOK4PJB` |  |
+| 1298.7 | quasi-peritectic: L + NbZn2 -> ε + NbZn3 |  | model | [1] Long 2016 | Table 4, p. 7, row 5; `ORC-IOCK43GOEN` |  |
+| 1192.6 | peritectic: L + NbZn3 + ε -> τ |  | model | [1] Long 2016 | Table 4, p. 7, row 6; `ORC-GI2IX63XR3` |  |
+| 1080.2 | peritectic: L + (Fe) + ε -> Γ |  | model | [1] Long 2016 | Table 4, p. 7, row 7; `ORC-4VSMMEDYIG` |  |
+| 970.8 | quasi-peritectic: L + ε -> Γ + τ |  | model | [1] Long 2016 | Table 4, p. 7, row 8; `ORC-2EMQWETROI` |  |
+| 941.4 | peritectic: L + Γ + τ -> δ |  | model | [1] Long 2016 | Table 4, p. 7, row 9; `ORC-RJVIPEDD4X` |  |
+| 802.2 | peritectic: L + τ + δ -> ζ |  | model | [1] Long 2016 | Table 4, p. 7, row 10; `ORC-EOZBKODRGU` |  |
+| 750.1 | peritectic: L + τ + NbZn3 -> NbZn7 |  | model | [1] Long 2016 | Table 4, p. 7, row 11; `ORC-WPXRSZ53TF` |  |
+| 709.3 | quasi-peritectic: L + τ -> ζ + NbZn7 |  | model | [1] Long 2016 | Table 4, p. 7, row 12; `ORC-VGN6XOBJN7` |  |
 
 ## Sources
 
@@ -80,4 +80,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

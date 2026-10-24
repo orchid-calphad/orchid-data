@@ -54,12 +54,12 @@ Table: Invariant reactions reported in the literature for the In–Pb system (6)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 445.15 | peritectic |  | experimental | [1] Boa 1998 | p. 2 | “Two peritectic reactions occur at 445.15 and 432.15 K.” |
-| 445 | peritectic: Liquid+ (Pb) ⇔ β | L: Pb 0.195; (Pb): Pb 0.29; β: Pb 0.26 | experimental | [2] David 2004; _cites T 1990_ | Table 1, p. 2, row 3 |  |
-| 445 | peritectic: Liquid+ (Pb) ⇔ β | L: Pb 0.198; (Pb): Pb 0.287; β: Pb 0.257 | model | [2] David 2004 | Table 1, p. 2, row 4 |  |
-| 432.15 | peritectic |  | experimental | [1] Boa 1998 | p. 2 | “Two peritectic reactions occur at 445.15 and 432.15 K.” |
-| 432 | peritectic: Liquid+ β ⇔ (In) | L: Pb 0.102; β: Pb 0.139; (In): Pb 0.105 | model | [2] David 2004 | Table 1, p. 2, row 2 |  |
-| 432 | peritectic: Liquid+ β ⇔ (In) | L: Pb 0.1016; β: Pb 0.1267; (In): Pb 0.1156 | experimental | [2] David 2004; _cites T 1990_ | Table 1, p. 2, row 1 |  |
+| 445.15 | peritectic |  | experimental | [1] Boa 1998 | p. 2; `ORC-EAQ5UXYB5X.faf19c` | “Two peritectic reactions occur at 445.15 and 432.15 K.” |
+| 445 | peritectic: Liquid+ (Pb) ⇔ β | L: Pb 0.195; (Pb): Pb 0.29; β: Pb 0.26 | experimental | [2] David 2004; _cites T 1990_ | Table 1, p. 2, row 3; `ORC-6R6TWBTM3M` |  |
+| 445 | peritectic: Liquid+ (Pb) ⇔ β | L: Pb 0.198; (Pb): Pb 0.287; β: Pb 0.257 | model | [2] David 2004 | Table 1, p. 2, row 4; `ORC-W5VXZYQ2HG` |  |
+| 432.15 | peritectic |  | experimental | [1] Boa 1998 | p. 2; `ORC-EAQ5UXYB5X.3b3bfe` | “Two peritectic reactions occur at 445.15 and 432.15 K.” |
+| 432 | peritectic: Liquid+ β ⇔ (In) | L: Pb 0.102; β: Pb 0.139; (In): Pb 0.105 | model | [2] David 2004 | Table 1, p. 2, row 2; `ORC-73LOUJNZTY` |  |
+| 432 | peritectic: Liquid+ β ⇔ (In) | L: Pb 0.1016; β: Pb 0.1267; (In): Pb 0.1156 | experimental | [2] David 2004; _cites T 1990_ | Table 1, p. 2, row 1; `ORC-RG4JKDMK2W` |  |
 
 ## Other properties
 
@@ -69,7 +69,7 @@ Table: Phase transition, In–Pb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 429 K | 429 | congruent melting: Liquid ⇔ (In); _L: Pb 0.025; (In): Pb 0.025_ | experimental | [2] David 2004; _cites T 1990_ | Table 1, p. 2, row 5 |  |
+| Phase transition | 429 K | 429 | congruent melting: Liquid ⇔ (In); _L: Pb 0.025; (In): Pb 0.025_ | experimental | [2] David 2004; _cites T 1990_ | Table 1, p. 2, row 5; `ORC-RKKNXBKXAZ` |  |
 
 ## Sources
 
@@ -135,4 +135,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

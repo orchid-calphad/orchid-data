@@ -14,13 +14,13 @@ Table: Enthalpy of formation of Cs2Mo2O7 reported in the literature (7)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -209.309 kJ/mol-atom ± 1.35455 | α-Cs2Mo2O7 | 298.15 | experimental | solution calorimetry | [Cs–Mo–O](https://data.orchid-project.org/systems/CS-MO-O.html) | [1] Smith 2021; _cites Cordfunke 1990_ | Table 3, p. 4, row 5 |  |
-| -209.309 kJ/mol-atom ± 0.190909 | α-Cs2Mo2O7 | 298.15 | experimental |  | [Cs–Mo–O](https://data.orchid-project.org/systems/CS-MO-O.html) | [1] Smith 2021; _cites Cordfunke 1990_ | Table 2, p. 4, row 4 |  |
-| -209.258 kJ/mol-atom ± 0.215455 | α-Cs2Mo2O7 | 298.15 | experimental |  | [Cs–Mo–O](https://data.orchid-project.org/systems/CS-MO-O.html) | [1] Smith 2021; _cites Benigni 2020_ [doi](https://doi.org/10.1021/acs.jced.0c00210) | Table 2, p. 4, row 5 |  |
-| -209.258 kJ/mol-atom ± 1.37 | α-Cs2Mo2O7 | 298.15 | experimental | solution calorimetry | [Cs–Mo–O](https://data.orchid-project.org/systems/CS-MO-O.html) | [1] Smith 2021; _cites Benigni 2020_ [doi](https://doi.org/10.1021/acs.jced.0c00210) | Table 3, p. 4, row 6 |  |
-| -209.236 kJ/mol-atom ± 1.40909 | α-Cs2Mo2O7 | 298.15 | experimental | solution calorimetry | [Cs–Mo–O](https://data.orchid-project.org/systems/CS-MO-O.html) | [1] Smith 2021; _cites Smith 2021_ [doi](https://doi.org/10.1016/j.tca.2020.178825) | Table 3, p. 4, row 7 |  |
-| -209.236 kJ/mol-atom ± 0.427273 | α-Cs2Mo2O7 | 298.15 | experimental |  | [Cs–Mo–O](https://data.orchid-project.org/systems/CS-MO-O.html) | [1] Smith 2021; _cites Smith 2021_ [doi](https://doi.org/10.1016/j.tca.2020.178825) | Table 2, p. 4, row 6 |  |
-| -209.291 kJ/mol-atom | α-Cs2Mo2O7 | 298.15 | model |  | [Cs–Mo–O](https://data.orchid-project.org/systems/CS-MO-O.html) | [1] Smith 2021 | Table 8, p. 7, row 3 |  |
+| -209.309 kJ/mol-atom ± 1.35455 | α-Cs2Mo2O7 | 298.15 | experimental | solution calorimetry | [Cs–Mo–O](https://data.orchid-project.org/systems/CS-MO-O.html) | [1] Smith 2021; _cites Cordfunke 1990_ | Table 3, p. 4, row 5; `ORC-PSQWMPCE3S` |  |
+| -209.309 kJ/mol-atom ± 0.190909 | α-Cs2Mo2O7 | 298.15 | experimental |  | [Cs–Mo–O](https://data.orchid-project.org/systems/CS-MO-O.html) | [1] Smith 2021; _cites Cordfunke 1990_ | Table 2, p. 4, row 4; `ORC-SBRG56PJJC.1f222d` |  |
+| -209.258 kJ/mol-atom ± 0.215455 | α-Cs2Mo2O7 | 298.15 | experimental |  | [Cs–Mo–O](https://data.orchid-project.org/systems/CS-MO-O.html) | [1] Smith 2021; _cites Benigni 2020_ [doi](https://doi.org/10.1021/acs.jced.0c00210) | Table 2, p. 4, row 5; `ORC-DZO2AKUFUP` |  |
+| -209.258 kJ/mol-atom ± 1.37 | α-Cs2Mo2O7 | 298.15 | experimental | solution calorimetry | [Cs–Mo–O](https://data.orchid-project.org/systems/CS-MO-O.html) | [1] Smith 2021; _cites Benigni 2020_ [doi](https://doi.org/10.1021/acs.jced.0c00210) | Table 3, p. 4, row 6; `ORC-Z6R7MNZ43B` |  |
+| -209.236 kJ/mol-atom ± 1.40909 | α-Cs2Mo2O7 | 298.15 | experimental | solution calorimetry | [Cs–Mo–O](https://data.orchid-project.org/systems/CS-MO-O.html) | [1] Smith 2021; _cites Smith 2021_ [doi](https://doi.org/10.1016/j.tca.2020.178825) | Table 3, p. 4, row 7; `ORC-ITFSKMKX4O` |  |
+| -209.236 kJ/mol-atom ± 0.427273 | α-Cs2Mo2O7 | 298.15 | experimental |  | [Cs–Mo–O](https://data.orchid-project.org/systems/CS-MO-O.html) | [1] Smith 2021; _cites Smith 2021_ [doi](https://doi.org/10.1016/j.tca.2020.178825) | Table 2, p. 4, row 6; `ORC-Y6H4ATJXYG` |  |
+| -209.291 kJ/mol-atom | α-Cs2Mo2O7 | 298.15 | model |  | [Cs–Mo–O](https://data.orchid-project.org/systems/CS-MO-O.html) | [1] Smith 2021 | Table 8, p. 7, row 3; `ORC-OJNKBXOLZS.247ce0` |  |
 
 ### Uncertainty budget
 
@@ -89,4 +89,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

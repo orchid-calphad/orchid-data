@@ -14,16 +14,16 @@ Table: Enthalpy of formation of Mo2N reported in the literature (10)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -35.989 kJ/mol-atom | Mo2N-beta | 0 | model |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [1] Daclan 2023; _cites JARVIS 2020_ | Table 2, p. 6, row 3 |  |
-| -35.989 kJ/mol-atom | Mo2N-beta | 0 | model |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [1] Daclan 2023; _cites JARVIS 2020_ | Table 2, p. 6, row 3 |  |
-| -25.953 kJ/mol-atom | Mo2N-beta | 0 | model |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [1] Daclan 2023; _cites Klimashin 2016_ [doi](https://doi.org/10.1063/1.4966664) | Table 2, p. 6, row 2 |  |
-| -25.9526 kJ/mol-atom | Mo2N-beta | 0 | model |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [1] Daclan 2023; _cites Klimashin 2016_ [doi](https://doi.org/10.1063/1.4966664) | Table 2, p. 6, row 2 |  |
-| -22.0797 kJ/mol-atom | Mo2N-gamma | 0 | model |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [1] Daclan 2023; _cites Klimashin 2016_ [doi](https://doi.org/10.1063/1.4966664) | Table 2, p. 6, row 5 |  |
-| -22.079 kJ/mol-atom | Mo2N-gamma | 0 | model |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [1] Daclan 2023; _cites Klimashin 2016_ [doi](https://doi.org/10.1063/1.4966664) | Table 2, p. 6, row 5 |  |
-| -26.0974 kJ/mol-atom | Mo2N-beta | 0 | unspecified |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [1] Daclan 2023 | Table 2, p. 6, row 1 |  |
-| -26.097 kJ/mol-atom | Mo2N-beta | 0 | unspecified |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [1] Daclan 2023 | Table 2, p. 6, row 1 |  |
-| -21.1081 kJ/mol-atom | Mo2N-gamma | 0 | unspecified |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [1] Daclan 2023 | Table 2, p. 6, row 4 |  |
-| -21.108 kJ/mol-atom | Mo2N-gamma | 0 | unspecified |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [1] Daclan 2023 | Table 2, p. 6, row 4 |  |
+| -35.989 kJ/mol-atom | Mo2N-beta | 0 | model |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [1] Daclan 2023; _cites JARVIS 2020_ | Table 2, p. 6, row 3; `ORC-BFS3GXRQ6M.c9424c` |  |
+| -35.989 kJ/mol-atom | Mo2N-beta | 0 | model |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [1] Daclan 2023; _cites JARVIS 2020_ | Table 2, p. 6, row 3; `ORC-BFS3GXRQ6M.9498c6` |  |
+| -25.953 kJ/mol-atom | Mo2N-beta | 0 | model |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [1] Daclan 2023; _cites Klimashin 2016_ [doi](https://doi.org/10.1063/1.4966664) | Table 2, p. 6, row 2; `ORC-AXSSHG4VVU.950636` |  |
+| -25.9526 kJ/mol-atom | Mo2N-beta | 0 | model |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [1] Daclan 2023; _cites Klimashin 2016_ [doi](https://doi.org/10.1063/1.4966664) | Table 2, p. 6, row 2; `ORC-AXSSHG4VVU.b274f7` |  |
+| -22.0797 kJ/mol-atom | Mo2N-gamma | 0 | model |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [1] Daclan 2023; _cites Klimashin 2016_ [doi](https://doi.org/10.1063/1.4966664) | Table 2, p. 6, row 5; `ORC-VGJUJBVTO3.8536f3` |  |
+| -22.079 kJ/mol-atom | Mo2N-gamma | 0 | model |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [1] Daclan 2023; _cites Klimashin 2016_ [doi](https://doi.org/10.1063/1.4966664) | Table 2, p. 6, row 5; `ORC-VGJUJBVTO3.81dea9` |  |
+| -26.0974 kJ/mol-atom | Mo2N-beta | 0 | unspecified |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [1] Daclan 2023 | Table 2, p. 6, row 1; `ORC-K2B2TGUKRH.3f4f74` |  |
+| -26.097 kJ/mol-atom | Mo2N-beta | 0 | unspecified |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [1] Daclan 2023 | Table 2, p. 6, row 1; `ORC-K2B2TGUKRH.aaa2be` |  |
+| -21.1081 kJ/mol-atom | Mo2N-gamma | 0 | unspecified |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [1] Daclan 2023 | Table 2, p. 6, row 4; `ORC-ASD2KE3EJB.c89f76` |  |
+| -21.108 kJ/mol-atom | Mo2N-gamma | 0 | unspecified |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [1] Daclan 2023 | Table 2, p. 6, row 4; `ORC-ASD2KE3EJB.ed0b5e` |  |
 
 ### Uncertainty budget
 
@@ -108,4 +108,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -14,12 +14,12 @@ Table: Enthalpy of formation of CeGa2 reported in the literature (6)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -102.6 kJ/mol-atom ± 0.1 | CeGa2 | 298.15 | experimental | EMF, 675-975 K | [Ce–Ga](https://data.orchid-project.org/systems/CE-GA.html) | [1] Idbenali 2013; _cites Yatsenko 1972_ | Table 4, p. 6, row 9 |  |
-| -88.9 kJ/mol-atom ± 0.8 | CeGa2 | 298.15 | experimental | EMF, 660-1090 K | [Ce–Ga](https://data.orchid-project.org/systems/CE-GA.html) | [1] Idbenali 2013; _cites Vnuchkova 1971_ | Table 4, p. 6, row 10 |  |
-| -84.1 kJ/mol-atom ± 1.9 | CeGa2 | 298.15 | experimental | Ga. Soln. Calori.; 1103 K | [Ce–Ga](https://data.orchid-project.org/systems/CE-GA.html) | [1] Idbenali 2013; _cites F 1998_ | Table 4, p. 6, row 14 |  |
-| -72.036 kJ/mol-atom | CeGa2 | 298.15 | model | Optimisation | [Ce–Ga](https://data.orchid-project.org/systems/CE-GA.html) | [1] Idbenali 2013 | Table 4, p. 6, row 12 |  |
-| -66.6 kJ/mol-atom | CeGa2 | 298.15 | model | Miedema’s Model | [Ce–Ga](https://data.orchid-project.org/systems/CE-GA.html) | [1] Idbenali 2013; _cites Chkhikvadze 1977_ | Table 4, p. 6, row 11 |  |
-| -57.382 kJ/mol-atom | CeGa2 | 298.15 | model | Optimisation | [Ce–Ga](https://data.orchid-project.org/systems/CE-GA.html) | [1] Idbenali 2013 | Table 4, p. 6, row 13 |  |
+| -102.6 kJ/mol-atom ± 0.1 | CeGa2 | 298.15 | experimental | EMF, 675-975 K | [Ce–Ga](https://data.orchid-project.org/systems/CE-GA.html) | [1] Idbenali 2013; _cites Yatsenko 1972_ | Table 4, p. 6, row 9; `ORC-2LFWDBVXDS.10da99` |  |
+| -88.9 kJ/mol-atom ± 0.8 | CeGa2 | 298.15 | experimental | EMF, 660-1090 K | [Ce–Ga](https://data.orchid-project.org/systems/CE-GA.html) | [1] Idbenali 2013; _cites Vnuchkova 1971_ | Table 4, p. 6, row 10; `ORC-RU5ZAH5SZ4.a45335` |  |
+| -84.1 kJ/mol-atom ± 1.9 | CeGa2 | 298.15 | experimental | Ga. Soln. Calori.; 1103 K | [Ce–Ga](https://data.orchid-project.org/systems/CE-GA.html) | [1] Idbenali 2013; _cites F 1998_ | Table 4, p. 6, row 14; `ORC-KVCKXHNYOJ.5e3d1d` |  |
+| -72.036 kJ/mol-atom | CeGa2 | 298.15 | model | Optimisation | [Ce–Ga](https://data.orchid-project.org/systems/CE-GA.html) | [1] Idbenali 2013 | Table 4, p. 6, row 12; `ORC-B2ABHRFCI6.381ccf` |  |
+| -66.6 kJ/mol-atom | CeGa2 | 298.15 | model | Miedema’s Model | [Ce–Ga](https://data.orchid-project.org/systems/CE-GA.html) | [1] Idbenali 2013; _cites Chkhikvadze 1977_ | Table 4, p. 6, row 11; `ORC-FCSAKHB33K.253715` |  |
+| -57.382 kJ/mol-atom | CeGa2 | 298.15 | model | Optimisation | [Ce–Ga](https://data.orchid-project.org/systems/CE-GA.html) | [1] Idbenali 2013 | Table 4, p. 6, row 13; `ORC-ZRZDG6UDAH.79d7f8` |  |
 
 ### Uncertainty budget
 
@@ -100,4 +100,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

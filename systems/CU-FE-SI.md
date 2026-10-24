@@ -28,37 +28,37 @@ Table: Phase transition, Cu–Fe–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1062.15 K | 1062.15 | CuFeSi-2; _alloy: Fe 0.333333, Si 0.333333_ | experimental | [1] Soldi 2019 | Table 4, p. 6, row 6 |  |
-| Phase transition | 1073.15 K | 1073.15 | CuFeSi-5; _alloy: Fe 0.333333, Si 0.333333_ | experimental | [1] Soldi 2019 | Table 4, p. 6, row 16 |  |
-| Phase transition | 1088.15 K | 1088.15 | CuFeSi-7; _alloy: Fe 0.333333, Si 0.333333_ | experimental | [1] Soldi 2019 | Table 4, p. 6, row 25 |  |
-| Phase transition | 1101.15 K | 1101.15 | CuFeSi-7; _alloy: Fe 0.333333, Si 0.333333_ | experimental | [1] Soldi 2019 | Table 4, p. 6, row 26 |  |
-| Phase transition | 1116.15 K | 1116.15 | CuFeSi-1; _alloy: Fe 0.333333, Si 0.333333_ | experimental | [1] Soldi 2019 | Table 4, p. 6, row 1 |  |
-| Phase transition | 1179.15 K | 1179.15 | CuFeSi-6; _alloy: Fe 0.333333, Si 0.333333_ | experimental | [1] Soldi 2019 | Table 4, p. 6, row 20 |  |
-| Phase transition | 1183.15 K | 1183.15 | CuFeSi-1; _alloy: Fe 0.333333, Si 0.333333_ | experimental | [1] Soldi 2019 | Table 4, p. 6, row 2 |  |
-| Phase transition | 1193.15 K | 1193.15 | CuFeSi-5; _alloy: Fe 0.333333, Si 0.333333_ | experimental | [1] Soldi 2019 | Table 4, p. 6, row 17 |  |
-| Phase transition | 1194.15 K | 1194.15 | CuFeSi-2; _alloy: Fe 0.333333, Si 0.333333_ | experimental | [1] Soldi 2019 | Table 4, p. 6, row 7 |  |
-| Phase transition | 1263.15 K | 1263.15 | CuFeSi-8; _alloy: Fe 0.333333, Si 0.333333_ | experimental | [1] Soldi 2019 | Table 4, p. 6, row 28 |  |
-| Phase transition | 1268.15 K | 1268.15 | CuFeSi-6; _alloy: Fe 0.333333, Si 0.333333_ | experimental | [1] Soldi 2019 | Table 4, p. 6, row 21 |  |
-| Phase transition | 1275.15 K | 1275.15 | CuFeSi-2; _alloy: Fe 0.333333, Si 0.333333_ | experimental | [1] Soldi 2019 | Table 4, p. 6, row 8 |  |
-| Phase transition | 1303.15 K | 1303.15 | CuFeSi-1; _alloy: Fe 0.333333, Si 0.333333_ | experimental | [1] Soldi 2019 | Table 4, p. 6, row 3 |  |
-| Phase transition | 1305.15 K | 1305.15 | CuFeSi-6; _alloy: Fe 0.333333, Si 0.333333_ | experimental | [1] Soldi 2019 | Table 4, p. 6, row 22 |  |
-| Phase transition | 1337.15 K | 1337.15 | CuFeSi-5; _alloy: Fe 0.333333, Si 0.333333_ | experimental | [1] Soldi 2019 | Table 4, p. 6, row 18 |  |
-| Phase transition | 1350.15 K | 1350.15 | CuFeSi-1; _alloy: Fe 0.333333, Si 0.333333_ | experimental | [1] Soldi 2019 | Table 4, p. 6, row 4 |  |
-| Phase transition | 1358.15 K | 1358.15 | CuFeSi-3; _alloy: Fe 0.333333, Si 0.333333_ | experimental | [1] Soldi 2019 | Table 4, p. 6, row 10 |  |
-| Phase transition | 1365.15 K | 1365.15 | CuFeSi-4; _alloy: Fe 0.333333, Si 0.333333_ | experimental | [1] Soldi 2019 | Table 4, p. 6, row 13 |  |
-| Phase transition | 1373.15 K | 1373.15 | CuFeSi-8; _alloy: Fe 0.333333, Si 0.333333_ | experimental | [1] Soldi 2019 | Table 4, p. 6, row 29 |  |
-| Phase transition | 1382.15 K | 1382.15 | CuFeSi-6; _alloy: Fe 0.333333, Si 0.333333_ | experimental | [1] Soldi 2019 | Table 4, p. 6, row 23 |  |
-| Phase transition | 1406.15 K | 1406.15 | CuFeSi-6; _alloy: Fe 0.333333, Si 0.333333_ | experimental | [1] Soldi 2019 | Table 4, p. 6, row 24 |  |
-| Phase transition | 1408.15 K | 1408.15 | CuFeSi-8; _alloy: Fe 0.333333, Si 0.333333_ | experimental | [1] Soldi 2019 | Table 4, p. 6, row 30 |  |
-| Phase transition | 1431.15 K | 1431.15 | CuFeSi-2; _alloy: Fe 0.333333, Si 0.333333_ | experimental | [1] Soldi 2019 | Table 4, p. 6, row 9 |  |
-| Phase transition | 1463.15 K | 1463.15 | CuFeSi-5; _alloy: Fe 0.333333, Si 0.333333_ | experimental | [1] Soldi 2019 | Table 4, p. 6, row 19 |  |
-| Phase transition | 1541.15 K | 1541.15 | CuFeSi-8; _alloy: Fe 0.333333, Si 0.333333_ | experimental | [1] Soldi 2019 | Table 4, p. 6, row 31 |  |
-| Phase transition | 1563.15 K | 1563.15 | CuFeSi-7; _alloy: Fe 0.333333, Si 0.333333_ | experimental | [1] Soldi 2019 | Table 4, p. 6, row 27 |  |
-| Phase transition | 1616.15 K | 1616.15 | CuFeSi-1; _alloy: Fe 0.333333, Si 0.333333_ | experimental | [1] Soldi 2019 | Table 4, p. 6, row 5 |  |
-| Phase transition | 1701.15 K | 1701.15 | CuFeSi-3; _alloy: Fe 0.333333, Si 0.333333_ | experimental | [1] Soldi 2019 | Table 4, p. 6, row 11 |  |
-| Phase transition | 1710.15 K | 1710.15 | CuFeSi-4; _alloy: Fe 0.333333, Si 0.333333_ | experimental | [1] Soldi 2019 | Table 4, p. 6, row 14 |  |
-| Phase transition | 1739.15 K | 1739.15 | CuFeSi-3; _alloy: Fe 0.333333, Si 0.333333_ | experimental | [1] Soldi 2019 | Table 4, p. 6, row 12 |  |
-| Phase transition | 1747.15 K | 1747.15 | CuFeSi-4; _alloy: Fe 0.333333, Si 0.333333_ | experimental | [1] Soldi 2019 | Table 4, p. 6, row 15 |  |
+| Phase transition | 1062.15 K | 1062.15 | CuFeSi-2; _alloy: Fe 0.333333, Si 0.333333_ | experimental | [1] Soldi 2019 | Table 4, p. 6, row 6; `ORC-VXP4AKHVAS` |  |
+| Phase transition | 1073.15 K | 1073.15 | CuFeSi-5; _alloy: Fe 0.333333, Si 0.333333_ | experimental | [1] Soldi 2019 | Table 4, p. 6, row 16; `ORC-V7C4JGXYXS` |  |
+| Phase transition | 1088.15 K | 1088.15 | CuFeSi-7; _alloy: Fe 0.333333, Si 0.333333_ | experimental | [1] Soldi 2019 | Table 4, p. 6, row 25; `ORC-RKLUFVO5EB` |  |
+| Phase transition | 1101.15 K | 1101.15 | CuFeSi-7; _alloy: Fe 0.333333, Si 0.333333_ | experimental | [1] Soldi 2019 | Table 4, p. 6, row 26; `ORC-7STH5C2J7Y` |  |
+| Phase transition | 1116.15 K | 1116.15 | CuFeSi-1; _alloy: Fe 0.333333, Si 0.333333_ | experimental | [1] Soldi 2019 | Table 4, p. 6, row 1; `ORC-7PBTTKHFG4` |  |
+| Phase transition | 1179.15 K | 1179.15 | CuFeSi-6; _alloy: Fe 0.333333, Si 0.333333_ | experimental | [1] Soldi 2019 | Table 4, p. 6, row 20; `ORC-IW4UKPDILZ` |  |
+| Phase transition | 1183.15 K | 1183.15 | CuFeSi-1; _alloy: Fe 0.333333, Si 0.333333_ | experimental | [1] Soldi 2019 | Table 4, p. 6, row 2; `ORC-7DJA4OW6OA` |  |
+| Phase transition | 1193.15 K | 1193.15 | CuFeSi-5; _alloy: Fe 0.333333, Si 0.333333_ | experimental | [1] Soldi 2019 | Table 4, p. 6, row 17; `ORC-ITZSPLFXIP` |  |
+| Phase transition | 1194.15 K | 1194.15 | CuFeSi-2; _alloy: Fe 0.333333, Si 0.333333_ | experimental | [1] Soldi 2019 | Table 4, p. 6, row 7; `ORC-TBNIHWNLFM` |  |
+| Phase transition | 1263.15 K | 1263.15 | CuFeSi-8; _alloy: Fe 0.333333, Si 0.333333_ | experimental | [1] Soldi 2019 | Table 4, p. 6, row 28; `ORC-KKFJEXCZO3` |  |
+| Phase transition | 1268.15 K | 1268.15 | CuFeSi-6; _alloy: Fe 0.333333, Si 0.333333_ | experimental | [1] Soldi 2019 | Table 4, p. 6, row 21; `ORC-H7YSFZQRB5` |  |
+| Phase transition | 1275.15 K | 1275.15 | CuFeSi-2; _alloy: Fe 0.333333, Si 0.333333_ | experimental | [1] Soldi 2019 | Table 4, p. 6, row 8; `ORC-43NPEPRSQJ` |  |
+| Phase transition | 1303.15 K | 1303.15 | CuFeSi-1; _alloy: Fe 0.333333, Si 0.333333_ | experimental | [1] Soldi 2019 | Table 4, p. 6, row 3; `ORC-E6QLWHIZTJ` |  |
+| Phase transition | 1305.15 K | 1305.15 | CuFeSi-6; _alloy: Fe 0.333333, Si 0.333333_ | experimental | [1] Soldi 2019 | Table 4, p. 6, row 22; `ORC-7VMVXEZE76` |  |
+| Phase transition | 1337.15 K | 1337.15 | CuFeSi-5; _alloy: Fe 0.333333, Si 0.333333_ | experimental | [1] Soldi 2019 | Table 4, p. 6, row 18; `ORC-MFFAZZB6ON` |  |
+| Phase transition | 1350.15 K | 1350.15 | CuFeSi-1; _alloy: Fe 0.333333, Si 0.333333_ | experimental | [1] Soldi 2019 | Table 4, p. 6, row 4; `ORC-SHPBJRSDHE` |  |
+| Phase transition | 1358.15 K | 1358.15 | CuFeSi-3; _alloy: Fe 0.333333, Si 0.333333_ | experimental | [1] Soldi 2019 | Table 4, p. 6, row 10; `ORC-5BUUT3DWPF` |  |
+| Phase transition | 1365.15 K | 1365.15 | CuFeSi-4; _alloy: Fe 0.333333, Si 0.333333_ | experimental | [1] Soldi 2019 | Table 4, p. 6, row 13; `ORC-UTOQKPOCBA` |  |
+| Phase transition | 1373.15 K | 1373.15 | CuFeSi-8; _alloy: Fe 0.333333, Si 0.333333_ | experimental | [1] Soldi 2019 | Table 4, p. 6, row 29; `ORC-2PLKCZRCDB` |  |
+| Phase transition | 1382.15 K | 1382.15 | CuFeSi-6; _alloy: Fe 0.333333, Si 0.333333_ | experimental | [1] Soldi 2019 | Table 4, p. 6, row 23; `ORC-IX5KMX3EKT` |  |
+| Phase transition | 1406.15 K | 1406.15 | CuFeSi-6; _alloy: Fe 0.333333, Si 0.333333_ | experimental | [1] Soldi 2019 | Table 4, p. 6, row 24; `ORC-LEEKJFXLSB` |  |
+| Phase transition | 1408.15 K | 1408.15 | CuFeSi-8; _alloy: Fe 0.333333, Si 0.333333_ | experimental | [1] Soldi 2019 | Table 4, p. 6, row 30; `ORC-5MQ6VYZ7NY` |  |
+| Phase transition | 1431.15 K | 1431.15 | CuFeSi-2; _alloy: Fe 0.333333, Si 0.333333_ | experimental | [1] Soldi 2019 | Table 4, p. 6, row 9; `ORC-5CV2EUDJWG` |  |
+| Phase transition | 1463.15 K | 1463.15 | CuFeSi-5; _alloy: Fe 0.333333, Si 0.333333_ | experimental | [1] Soldi 2019 | Table 4, p. 6, row 19; `ORC-NCLT23BXJQ` |  |
+| Phase transition | 1541.15 K | 1541.15 | CuFeSi-8; _alloy: Fe 0.333333, Si 0.333333_ | experimental | [1] Soldi 2019 | Table 4, p. 6, row 31; `ORC-XSHJZ2D7FW` |  |
+| Phase transition | 1563.15 K | 1563.15 | CuFeSi-7; _alloy: Fe 0.333333, Si 0.333333_ | experimental | [1] Soldi 2019 | Table 4, p. 6, row 27; `ORC-R2CYD4R3J6` |  |
+| Phase transition | 1616.15 K | 1616.15 | CuFeSi-1; _alloy: Fe 0.333333, Si 0.333333_ | experimental | [1] Soldi 2019 | Table 4, p. 6, row 5; `ORC-LRFMQSPLFL` |  |
+| Phase transition | 1701.15 K | 1701.15 | CuFeSi-3; _alloy: Fe 0.333333, Si 0.333333_ | experimental | [1] Soldi 2019 | Table 4, p. 6, row 11; `ORC-W6QFAA7TOF` |  |
+| Phase transition | 1710.15 K | 1710.15 | CuFeSi-4; _alloy: Fe 0.333333, Si 0.333333_ | experimental | [1] Soldi 2019 | Table 4, p. 6, row 14; `ORC-YIVHBOKVL5` |  |
+| Phase transition | 1739.15 K | 1739.15 | CuFeSi-3; _alloy: Fe 0.333333, Si 0.333333_ | experimental | [1] Soldi 2019 | Table 4, p. 6, row 12; `ORC-TMU3JBUTMM` |  |
+| Phase transition | 1747.15 K | 1747.15 | CuFeSi-4; _alloy: Fe 0.333333, Si 0.333333_ | experimental | [1] Soldi 2019 | Table 4, p. 6, row 15; `ORC-XFCT23RJ3K` |  |
 
 ## Sources
 
@@ -101,4 +101,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -108,30 +108,30 @@ Table: Invariant reactions reported in the literature for the Co–Gd system (24
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1643 | liq. -> Co17Gd2 + f.c.c. | L: Gd 0.067; Co17Gd2: Gd 0.105263 | model | [1] Liu 1995 | Table 1, p. 3, row 26 |  |
-| 1638 | liq. -> Co17Gd2 + f.c.c. | L: Gd 0.075; Co17Gd2: Gd 0.105263 | experimental | [1] Liu 1995; _cites Buschow 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990140-4) | Table 1, p. 3, row 27 |  |
-| 1628 | liq. + Co17Gd2 -> Co5Gd | Co17Gd2: Gd 0.105263; Co5Gd: Gd 0.166667 | experimental | [1] Liu 1995; _cites Buschow 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990140-4) | Table 1, p. 3, row 21 |  |
-| 1623 | liq. + Co17Gd2 -> Co5Gd | Co17Gd2: Gd 0.105263; Co5Gd: Gd 0.166667 | experimental | [1] Liu 1995; _cites Ge 1992_ | Table 1, p. 3, row 22 |  |
-| 1619 | liq. + Co17Gd2 -> Co5Gd | L: Gd 0.18; Co17Gd2: Gd 0.105263; Co5Gd: Gd 0.166667 | model | [1] Liu 1995 | Table 1, p. 3, row 20 |  |
-| 1614 | liq. -> Co17Gd2 + f.c.c. | L: Gd 0.075; Co17Gd2: Gd 0.105263 | experimental | [1] Liu 1995; _cites Ge 1992_ | Table 1, p. 3, row 28 |  |
-| 1573 | liq. + Co5Gd -> Co7Gd2 | Co5Gd: Gd 0.166667; Co7Gd2: Gd 0.222222 | experimental | [1] Liu 1995; _cites Buschow 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990140-4) | Table 1, p. 3, row 18 |  |
-| 1570 | liq. + Co5Gd -> Co7Gd2 | L: Gd 0.259; Co5Gd: Gd 0.166667; Co7Gd2: Gd 0.222222 | model | [1] Liu 1995 | Table 1, p. 3, row 17 |  |
-| 1568 | liq. + Co5Gd -> Co7Gd2 | Co5Gd: Gd 0.166667; Co7Gd2: Gd 0.222222 | experimental | [1] Liu 1995; _cites Ge 1992_ | Table 1, p. 3, row 19 |  |
-| 1550 | liq. + Co7Gd2 -> Co3Gd | Co7Gd2: Gd 0.222222; Co3Gd: Gd 0.25 | experimental | [1] Liu 1995; _cites Ge 1992_ | Table 1, p. 3, row 16 |  |
-| 1549 | liq. + Co7Gd2 -> Co3Gd | L: Gd 0.297; Co7Gd2: Gd 0.222222; Co3Gd: Gd 0.25 | model | [1] Liu 1995 | Table 1, p. 3, row 14 |  |
-| 1548 | liq. + Co7Gd2 -> Co3Gd | Co7Gd2: Gd 0.222222; Co3Gd: Gd 0.25 | experimental | [1] Liu 1995; _cites Buschow 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990140-4) | Table 1, p. 3, row 15 |  |
-| 1389 | liq. + Co3Gd -> Co2Gd | Co3Gd: Gd 0.25; Co2Gd: Gd 0.333333 | experimental | [1] Liu 1995; _cites Ge 1992_ | Table 1, p. 3, row 13 |  |
-| 1388 | liq. + Co3Gd -> Co2Gd | L: Gd 0.445; Co3Gd: Gd 0.25; Co2Gd: Gd 0.333333 | model | [1] Liu 1995 | Table 1, p. 3, row 11 |  |
-| 1388 | liq. + Co3Gd -> Co2Gd | Co3Gd: Gd 0.25; Co2Gd: Gd 0.333333 | experimental | [1] Liu 1995; _cites Buschow 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990140-4) | Table 1, p. 3, row 12 |  |
-| 1123 | Co5Gd -> Co17Gd2 + Co7Gd2 | Co5Gd: Gd 0.166667; Co17Gd2: Gd 0.105263; Co7Gd2: Gd 0.222222 | experimental | [1] Liu 1995; _cites Ge 1992_ | Table 1, p. 3, row 30 |  |
-| 1053 | liq. + h.c.p. -> CoGd3 | CoGd3: Gd 0.75 | experimental | [1] Liu 1995; _cites Buschow 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990140-4) | Table 1, p. 3, row 3 |  |
-| 1053 | liq. + h.c.p. -> CoGd3 | L: Gd 0.739; CoGd3: Gd 0.75 | model | [1] Liu 1995 | Table 1, p. 3, row 2 |  |
-| 1053 | liq. + h.c.p. -> CoGd3 | CoGd3: Gd 0.75 | experimental | [1] Liu 1995; _cites Ge 1992_ | Table 1, p. 3, row 4 |  |
-| 943 | liq. + Co2Gd -> Co3Gd4 | Co2Gd: Gd 0.333333; Co3Gd4: Gd 0.571429 | experimental | [1] Liu 1995; _cites Ge 1992_ | Table 1, p. 3, row 10 |  |
-| 943 | liq. + Co2Gd -> Co3Gd4 | L: Gd 0.609; Co2Gd: Gd 0.333333; Co3Gd4: Gd 0.571429 | model | [1] Liu 1995 | Table 1, p. 3, row 8 |  |
-| 938 | liq. + Co2Gd -> Co3Gd4 | L: Gd 0.635; Co2Gd: Gd 0.333333; Co3Gd4: Gd 0.571429 | experimental | [1] Liu 1995; _cites Buschow 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990140-4) | Table 1, p. 3, row 7 |  |
-| 918 | liq. -> Co3Gd4 + CoGd3 | L: Gd 0.632; Co3Gd4: Gd 0.571429; CoGd3: Gd 0.75 | model | [1] Liu 1995 | Table 1, p. 3, row 5 |  |
-| 918 | liq. -> Co3Gd4 + CoGd3 | L: Gd 0.642; Co3Gd4: Gd 0.571429; CoGd3: Gd 0.75 | experimental | [1] Liu 1995; _cites Ge 1992_ | Table 1, p. 3, row 6 |  |
+| 1643 | liq. -> Co17Gd2 + f.c.c. | L: Gd 0.067; Co17Gd2: Gd 0.105263 | model | [1] Liu 1995 | Table 1, p. 3, row 26; `ORC-M6CGWM3TSW` |  |
+| 1638 | liq. -> Co17Gd2 + f.c.c. | L: Gd 0.075; Co17Gd2: Gd 0.105263 | experimental | [1] Liu 1995; _cites Buschow 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990140-4) | Table 1, p. 3, row 27; `ORC-H6FMHJENAK` |  |
+| 1628 | liq. + Co17Gd2 -> Co5Gd | Co17Gd2: Gd 0.105263; Co5Gd: Gd 0.166667 | experimental | [1] Liu 1995; _cites Buschow 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990140-4) | Table 1, p. 3, row 21; `ORC-3XAUH7REOG` |  |
+| 1623 | liq. + Co17Gd2 -> Co5Gd | Co17Gd2: Gd 0.105263; Co5Gd: Gd 0.166667 | experimental | [1] Liu 1995; _cites Ge 1992_ | Table 1, p. 3, row 22; `ORC-OCSQCS53CB` |  |
+| 1619 | liq. + Co17Gd2 -> Co5Gd | L: Gd 0.18; Co17Gd2: Gd 0.105263; Co5Gd: Gd 0.166667 | model | [1] Liu 1995 | Table 1, p. 3, row 20; `ORC-4FBFFWD2AG` |  |
+| 1614 | liq. -> Co17Gd2 + f.c.c. | L: Gd 0.075; Co17Gd2: Gd 0.105263 | experimental | [1] Liu 1995; _cites Ge 1992_ | Table 1, p. 3, row 28; `ORC-ZIGKX7QAH4` |  |
+| 1573 | liq. + Co5Gd -> Co7Gd2 | Co5Gd: Gd 0.166667; Co7Gd2: Gd 0.222222 | experimental | [1] Liu 1995; _cites Buschow 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990140-4) | Table 1, p. 3, row 18; `ORC-JJLHTBXWSE` |  |
+| 1570 | liq. + Co5Gd -> Co7Gd2 | L: Gd 0.259; Co5Gd: Gd 0.166667; Co7Gd2: Gd 0.222222 | model | [1] Liu 1995 | Table 1, p. 3, row 17; `ORC-G6HTQQNUSY` |  |
+| 1568 | liq. + Co5Gd -> Co7Gd2 | Co5Gd: Gd 0.166667; Co7Gd2: Gd 0.222222 | experimental | [1] Liu 1995; _cites Ge 1992_ | Table 1, p. 3, row 19; `ORC-56Z2KRIYB4` |  |
+| 1550 | liq. + Co7Gd2 -> Co3Gd | Co7Gd2: Gd 0.222222; Co3Gd: Gd 0.25 | experimental | [1] Liu 1995; _cites Ge 1992_ | Table 1, p. 3, row 16; `ORC-TUVIBEGQ22` |  |
+| 1549 | liq. + Co7Gd2 -> Co3Gd | L: Gd 0.297; Co7Gd2: Gd 0.222222; Co3Gd: Gd 0.25 | model | [1] Liu 1995 | Table 1, p. 3, row 14; `ORC-GGDQIB4UCS` |  |
+| 1548 | liq. + Co7Gd2 -> Co3Gd | Co7Gd2: Gd 0.222222; Co3Gd: Gd 0.25 | experimental | [1] Liu 1995; _cites Buschow 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990140-4) | Table 1, p. 3, row 15; `ORC-GJ5YVPYQD6` |  |
+| 1389 | liq. + Co3Gd -> Co2Gd | Co3Gd: Gd 0.25; Co2Gd: Gd 0.333333 | experimental | [1] Liu 1995; _cites Ge 1992_ | Table 1, p. 3, row 13; `ORC-6V77TU2BLO` |  |
+| 1388 | liq. + Co3Gd -> Co2Gd | L: Gd 0.445; Co3Gd: Gd 0.25; Co2Gd: Gd 0.333333 | model | [1] Liu 1995 | Table 1, p. 3, row 11; `ORC-3GSVGO4SWA` |  |
+| 1388 | liq. + Co3Gd -> Co2Gd | Co3Gd: Gd 0.25; Co2Gd: Gd 0.333333 | experimental | [1] Liu 1995; _cites Buschow 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990140-4) | Table 1, p. 3, row 12; `ORC-OVXWNSRHD5` |  |
+| 1123 | Co5Gd -> Co17Gd2 + Co7Gd2 | Co5Gd: Gd 0.166667; Co17Gd2: Gd 0.105263; Co7Gd2: Gd 0.222222 | experimental | [1] Liu 1995; _cites Ge 1992_ | Table 1, p. 3, row 30; `ORC-D5J6RH4JZ3` |  |
+| 1053 | liq. + h.c.p. -> CoGd3 | CoGd3: Gd 0.75 | experimental | [1] Liu 1995; _cites Buschow 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990140-4) | Table 1, p. 3, row 3; `ORC-4YTQMD5NHW` |  |
+| 1053 | liq. + h.c.p. -> CoGd3 | L: Gd 0.739; CoGd3: Gd 0.75 | model | [1] Liu 1995 | Table 1, p. 3, row 2; `ORC-5TWMSJ5DLA` |  |
+| 1053 | liq. + h.c.p. -> CoGd3 | CoGd3: Gd 0.75 | experimental | [1] Liu 1995; _cites Ge 1992_ | Table 1, p. 3, row 4; `ORC-HWVRJ2LLDG` |  |
+| 943 | liq. + Co2Gd -> Co3Gd4 | Co2Gd: Gd 0.333333; Co3Gd4: Gd 0.571429 | experimental | [1] Liu 1995; _cites Ge 1992_ | Table 1, p. 3, row 10; `ORC-S5EQLCO5VY` |  |
+| 943 | liq. + Co2Gd -> Co3Gd4 | L: Gd 0.609; Co2Gd: Gd 0.333333; Co3Gd4: Gd 0.571429 | model | [1] Liu 1995 | Table 1, p. 3, row 8; `ORC-S65VT663FF` |  |
+| 938 | liq. + Co2Gd -> Co3Gd4 | L: Gd 0.635; Co2Gd: Gd 0.333333; Co3Gd4: Gd 0.571429 | experimental | [1] Liu 1995; _cites Buschow 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990140-4) | Table 1, p. 3, row 7; `ORC-EHRGOABIWA` |  |
+| 918 | liq. -> Co3Gd4 + CoGd3 | L: Gd 0.632; Co3Gd4: Gd 0.571429; CoGd3: Gd 0.75 | model | [1] Liu 1995 | Table 1, p. 3, row 5; `ORC-PFRDE2GHJJ` |  |
+| 918 | liq. -> Co3Gd4 + CoGd3 | L: Gd 0.642; Co3Gd4: Gd 0.571429; CoGd3: Gd 0.75 | experimental | [1] Liu 1995; _cites Ge 1992_ | Table 1, p. 3, row 6; `ORC-QIBAU46SGQ` |  |
 
 ## Other properties
 
@@ -141,24 +141,24 @@ Table: Phase transition, Co–Gd system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 130 K | 130 | magnetic: Burzo \[20\] CoGd3; _alloy: Gd 0.75_ | experimental | [1] Liu 1995; _cites Burzo 1972_ [doi](https://doi.org/10.1103/physrevb.6.2882) | Table 2, p. 4, row 1 |  |
-| Phase transition | 233 K | 233 | magnetic: Burzo \[20\] Co3Gd4; _alloy: Gd 0.571429_ | experimental | [1] Liu 1995; _cites Burzo 1972_ [doi](https://doi.org/10.1103/physrevb.6.2882) | Table 2, p. 4, row 2 |  |
-| Phase transition | 395 K | 395 | magnetic: Burzo \[20\] Co2Gd; _alloy: Gd 0.333333_ | experimental | [1] Liu 1995; _cites Burzo 1972_ [doi](https://doi.org/10.1103/physrevb.6.2882) | Table 2, p. 4, row 3 |  |
-| Phase transition | 404 K | 404 | magnetic: Lemaire \[21,22\] Co2Gd; _alloy: Gd 0.333333_ | experimental | [1] Liu 1995; _cites Lemalre 1966_ | Table 2, p. 4, row 8 |  |
-| Phase transition | 611 K | 611 | magnetic: Burzo \[20\] Co3Gd; _alloy: Gd 0.25_ | experimental | [1] Liu 1995; _cites Burzo 1972_ [doi](https://doi.org/10.1103/physrevb.6.2882) | Table 2, p. 4, row 4 |  |
-| Phase transition | 612 K | 612 | magnetic: Lemaire \[21,22\] Co3Gd; _alloy: Gd 0.25_ | experimental | [1] Liu 1995; _cites Lemalre 1966_ | Table 2, p. 4, row 9 |  |
-| Phase transition | 695 K | 695 | f.c.c. -> h.c.p. | model | [1] Liu 1995 | Table 1, p. 3, row 31 |  |
-| Phase transition | 767 K | 767 | magnetic: Burzo \[20\] Co7Gd2; _alloy: Gd 0.222222_ | experimental | [1] Liu 1995; _cites Burzo 1972_ [doi](https://doi.org/10.1103/physrevb.6.2882) | Table 2, p. 4, row 5 |  |
-| Phase transition | 775 K | 775 | magnetic: Lemaire \[21,22\] Co7Gd2; _alloy: Gd 0.222222_ | experimental | [1] Liu 1995; _cites Lemalre 1966_ | Table 2, p. 4, row 10 |  |
-| Phase transition | 1008 K | 1008 | magnetic: Lemaire \[21,22\] Co5Gd; _alloy: Gd 0.166667_ | experimental | [1] Liu 1995; _cites Lemalre 1966_ | Table 2, p. 4, row 11 |  |
-| Phase transition | 1020 K | 1020 | magnetic: Burzo \[20\] Co5Gd; _alloy: Gd 0.166667_ | experimental | [1] Liu 1995; _cites Burzo 1972_ [doi](https://doi.org/10.1103/physrevb.6.2882) | Table 2, p. 4, row 6 |  |
-| Phase transition | 1123.15 K | 1123.15 | other | model | [1] Liu 1995 | p. 3 | “Co5Gd is unstable at low temperatures, and decomposes into Co,7Gd2 and CoTGd2 at about 850 °C.” |
-| Phase transition | 1209 K | 1209 | magnetic: Lemaire \[21,22\] Co17Gd2; _alloy: Gd 0.105263_ | experimental | [1] Liu 1995; _cites Lemalre 1966_ | Table 2, p. 4, row 12 |  |
-| Phase transition | 1222 K | 1222 | magnetic: Burzo \[20\] Co17Gd2; _alloy: Gd 0.105263_ | experimental | [1] Liu 1995; _cites Burzo 1972_ [doi](https://doi.org/10.1103/physrevb.6.2882) | Table 2, p. 4, row 7 |  |
-| Phase transition | 1262 K | 1262 | b.c.c. -> h.c.p.; _b.c.c.: Gd 0.975; h.c.p.: Gd 0.975_ | model | [1] Liu 1995 | Table 1, p. 3, row 1 |  |
-| Phase transition | 1643 K | 1643 | liq. -> Co17Gd2; _L: Gd 0.105263; Co17Gd2: Gd 0.105263_ | experimental | [1] Liu 1995; _cites Ge 1992_ | Table 1, p. 3, row 25 |  |
-| Phase transition | 1658 K | 1658 | liq. -> Co17Gd2; _L: Gd 0.105263; Co17Gd2: Gd 0.105263_ | experimental | [1] Liu 1995; _cites Buschow 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990140-4) | Table 1, p. 3, row 24 |  |
-| Phase transition | 1658 K | 1658 | liq. -> Co17Gd2; _L: Gd 0.105; Co17Gd2: Gd 0.105263_ | model | [1] Liu 1995 | Table 1, p. 3, row 23 |  |
+| Phase transition | 130 K | 130 | magnetic: Burzo \[20\] CoGd3; _alloy: Gd 0.75_ | experimental | [1] Liu 1995; _cites Burzo 1972_ [doi](https://doi.org/10.1103/physrevb.6.2882) | Table 2, p. 4, row 1; `ORC-BTK62TEA6Z` |  |
+| Phase transition | 233 K | 233 | magnetic: Burzo \[20\] Co3Gd4; _alloy: Gd 0.571429_ | experimental | [1] Liu 1995; _cites Burzo 1972_ [doi](https://doi.org/10.1103/physrevb.6.2882) | Table 2, p. 4, row 2; `ORC-OGEWYSGSZQ` |  |
+| Phase transition | 395 K | 395 | magnetic: Burzo \[20\] Co2Gd; _alloy: Gd 0.333333_ | experimental | [1] Liu 1995; _cites Burzo 1972_ [doi](https://doi.org/10.1103/physrevb.6.2882) | Table 2, p. 4, row 3; `ORC-TQFN6UCMRI` |  |
+| Phase transition | 404 K | 404 | magnetic: Lemaire \[21,22\] Co2Gd; _alloy: Gd 0.333333_ | experimental | [1] Liu 1995; _cites Lemalre 1966_ | Table 2, p. 4, row 8; `ORC-JVRAJS5KSR` |  |
+| Phase transition | 611 K | 611 | magnetic: Burzo \[20\] Co3Gd; _alloy: Gd 0.25_ | experimental | [1] Liu 1995; _cites Burzo 1972_ [doi](https://doi.org/10.1103/physrevb.6.2882) | Table 2, p. 4, row 4; `ORC-IKKTLCNZ33` |  |
+| Phase transition | 612 K | 612 | magnetic: Lemaire \[21,22\] Co3Gd; _alloy: Gd 0.25_ | experimental | [1] Liu 1995; _cites Lemalre 1966_ | Table 2, p. 4, row 9; `ORC-NJKRJEMKM6` |  |
+| Phase transition | 695 K | 695 | f.c.c. -> h.c.p. | model | [1] Liu 1995 | Table 1, p. 3, row 31; `ORC-3DBHGFV7GL` |  |
+| Phase transition | 767 K | 767 | magnetic: Burzo \[20\] Co7Gd2; _alloy: Gd 0.222222_ | experimental | [1] Liu 1995; _cites Burzo 1972_ [doi](https://doi.org/10.1103/physrevb.6.2882) | Table 2, p. 4, row 5; `ORC-M7KIJXLEVY` |  |
+| Phase transition | 775 K | 775 | magnetic: Lemaire \[21,22\] Co7Gd2; _alloy: Gd 0.222222_ | experimental | [1] Liu 1995; _cites Lemalre 1966_ | Table 2, p. 4, row 10; `ORC-DZ5BD56UB7` |  |
+| Phase transition | 1008 K | 1008 | magnetic: Lemaire \[21,22\] Co5Gd; _alloy: Gd 0.166667_ | experimental | [1] Liu 1995; _cites Lemalre 1966_ | Table 2, p. 4, row 11; `ORC-LZINVLTO3R` |  |
+| Phase transition | 1020 K | 1020 | magnetic: Burzo \[20\] Co5Gd; _alloy: Gd 0.166667_ | experimental | [1] Liu 1995; _cites Burzo 1972_ [doi](https://doi.org/10.1103/physrevb.6.2882) | Table 2, p. 4, row 6; `ORC-Q33X5KP3OE` |  |
+| Phase transition | 1123.15 K | 1123.15 | other | model | [1] Liu 1995 | p. 3; `ORC-MI7EXK3JKG` | “Co5Gd is unstable at low temperatures, and decomposes into Co,7Gd2 and CoTGd2 at about 850 °C.” |
+| Phase transition | 1209 K | 1209 | magnetic: Lemaire \[21,22\] Co17Gd2; _alloy: Gd 0.105263_ | experimental | [1] Liu 1995; _cites Lemalre 1966_ | Table 2, p. 4, row 12; `ORC-W5G5J4IT37` |  |
+| Phase transition | 1222 K | 1222 | magnetic: Burzo \[20\] Co17Gd2; _alloy: Gd 0.105263_ | experimental | [1] Liu 1995; _cites Burzo 1972_ [doi](https://doi.org/10.1103/physrevb.6.2882) | Table 2, p. 4, row 7; `ORC-ULGS3KC7Q5` |  |
+| Phase transition | 1262 K | 1262 | b.c.c. -> h.c.p.; _b.c.c.: Gd 0.975; h.c.p.: Gd 0.975_ | model | [1] Liu 1995 | Table 1, p. 3, row 1; `ORC-5ADV2UYSFS` |  |
+| Phase transition | 1643 K | 1643 | liq. -> Co17Gd2; _L: Gd 0.105263; Co17Gd2: Gd 0.105263_ | experimental | [1] Liu 1995; _cites Ge 1992_ | Table 1, p. 3, row 25; `ORC-RUDEUEXENM` |  |
+| Phase transition | 1658 K | 1658 | liq. -> Co17Gd2; _L: Gd 0.105263; Co17Gd2: Gd 0.105263_ | experimental | [1] Liu 1995; _cites Buschow 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990140-4) | Table 1, p. 3, row 24; `ORC-CJ2BD4QEWS` |  |
+| Phase transition | 1658 K | 1658 | liq. -> Co17Gd2; _L: Gd 0.105; Co17Gd2: Gd 0.105263_ | model | [1] Liu 1995 | Table 1, p. 3, row 23; `ORC-VZQX6HOSVT` |  |
 
 ### Heat capacity / entropy / enthalpy (1)
 
@@ -166,7 +166,7 @@ Table: Heat capacity / entropy / enthalpy, Co–Gd system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Heat capacity; _printed: heat capacity_ | 41 J K - ~ per mole of atoms | 975 |  | experimental | [1] Liu 1995; _cites Baricco 1987_ [doi](https://doi.org/10.1016/0036-9748%2887%2990335-8) | p. 8 | “In the Co-Gd system, the T In(T) term is introduced to fit the heat capacity of the liquid measured by Baricco et al. \[ 19\], which is about 41 J K - ~ per mole of atoms at about 975 K.” |
+| Heat capacity; _printed: heat capacity_ | 41 J K - ~ per mole of atoms | 975 |  | experimental | [1] Liu 1995; _cites Baricco 1987_ [doi](https://doi.org/10.1016/0036-9748%2887%2990335-8) | p. 8; `ORC-KH76QFXOHD` | “In the Co-Gd system, the T In(T) term is introduced to fit the heat capacity of the liquid measured by Baricco et al. \[ 19\], which is about 41 J K - ~ per mole of atoms at about 975 K.” |
 
 ## Sources
 
@@ -231,4 +231,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

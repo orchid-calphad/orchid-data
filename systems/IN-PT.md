@@ -68,36 +68,36 @@ Table: Invariant reactions reported in the literature for the In–Pt system (30
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1731 | liq. + fcc(Pt) -> InPt3 | liq.: Pt 0.739; fcc(Pt): Pt 0.8765; InPt3: Pt 0.7505 | model | [1] Liang 2009 | Table 2, p. 4, row 28 |  |
-| 1731 | liq. + fcc(Pt) -> InPt3 | liq.: Pt 0.73; fcc(Pt): Pt 0.89; InPt3: Pt 0.75 | model | [1] Liang 2009; _cites Okamoto 2005_ [doi](https://doi.org/10.1007/s11669-005-0104-6) | Table 2, p. 4, row 29 |  |
-| 1433 | liq. + InPt3 -> βIn2Pt3 | liq.: Pt 0.56; InPt3: Pt 0.71; βIn2Pt3: Pt 0.6 | model | [1] Liang 2009; _cites Okamoto 2005_ [doi](https://doi.org/10.1007/s11669-005-0104-6) | Table 2, p. 4, row 21 |  |
-| 1433 | liq. + InPt3 -> βIn2Pt3 | liq.: Pt 0.5704; InPt3: Pt 0.7238; βIn2Pt3: Pt 0.6305 | model | [1] Liang 2009 | Table 2, p. 4, row 20 |  |
-| 1373 | liq. + βIn2Pt3 -> In9Pt13 | liq.: Pt 0.55; βIn2Pt3: Pt 0.58; In9Pt13: Pt 0.575 | model | [1] Liang 2009; _cites Okamoto 2005_ [doi](https://doi.org/10.1007/s11669-005-0104-6) | Table 2, p. 4, row 19 |  |
-| 1373 | liq. + βIn2Pt3 -> In9Pt13 | liq.: Pt 0.5389; βIn2Pt3: Pt 0.6107; In9Pt13: Pt 0.5837 | model | [1] Liang 2009 | Table 2, p. 4, row 18 |  |
-| 1337 | liq. -> In3Pt2 | liq.: Pt 0.4; In3Pt2: In 0.6, Pt 0.4 | model | [1] Liang 2009; _cites Okamoto 2005_ [doi](https://doi.org/10.1007/s11669-005-0104-6) | Table 2, p. 4, row 9 |  |
-| 1337 | liq. -> In3Pt2 | liq.: Pt 0.4; In3Pt2: In 0.6, Pt 0.4 | model | [1] Liang 2009 | Table 2, p. 4, row 8 |  |
-| 1329 | liq. + In9Pt13 -> In5Pt6 | liq.: Pt 0.51; In9Pt13: Pt 0.55; In5Pt6: Pt 0.545 | model | [1] Liang 2009; _cites Okamoto 2005_ [doi](https://doi.org/10.1007/s11669-005-0104-6) | Table 2, p. 4, row 17 |  |
-| 1329 | liq. + In9Pt13 -> In5Pt6 | liq.: Pt 0.5122; In9Pt13: Pt 0.5788; In5Pt6: Pt 0.5584 | model | [1] Liang 2009 | Table 2, p. 4, row 16 |  |
-| 1305 | liq. -> In2Pt | liq.: Pt 0.3333; In2Pt: In 0.666667, Pt 0.333333 | model | [1] Liang 2009 | Table 2, p. 4, row 5 |  |
-| 1303 | liq. + In5Pt6 -> InPt | liq.: Pt 0.4948; In5Pt6: Pt 0.5465; InPt: Pt 0.5378 | model | [1] Liang 2009 | Table 2, p. 4, row 12 |  |
-| 1303 | liq. + In5Pt6 -> InPt | liq.: Pt 0.495; In5Pt6: Pt 0.53; InPt: Pt 0.51 | model | [1] Liang 2009; _cites Okamoto 2005_ [doi](https://doi.org/10.1007/s11669-005-0104-6) | Table 2, p. 4, row 13 |  |
-| 1303 | liq. -> In2Pt + In3Pt2 | In2Pt: In 0.666667, Pt 0.333333; In3Pt2: In 0.6, Pt 0.4 | model | [1] Liang 2009; _cites Okamoto 2005_ [doi](https://doi.org/10.1007/s11669-005-0104-6) | Table 2, p. 4, row 7 |  |
-| 1303 | liq. -> In2Pt + In3Pt2 | liq.: Pt 0.3494; In2Pt: In 0.666667, Pt 0.333333; In3Pt2: In 0.6, Pt 0.4 | model | [1] Liang 2009 | Table 2, p. 4, row 6 |  |
-| 1278 | βIn2Pt3 + InPt3 -> InPt2 | βIn2Pt3: Pt 0.61; InPt3: Pt 0.73; InPt2: In 0.333333, Pt 0.666667 | model | [1] Liang 2009; _cites Okamoto 2005_ [doi](https://doi.org/10.1007/s11669-005-0104-6) | Table 2, p. 4, row 27 |  |
-| 1278 | βIn2Pt3 + InPt3 -> InPt2 | βIn2Pt3: Pt 0.6177; InPt3: Pt 0.7268; InPt2: In 0.333333, Pt 0.666667 | model | [1] Liang 2009 | Table 2, p. 4, row 26 |  |
-| 1269 | liq. -> In3Pt2 + InPt | liq.: Pt 0.4723; In3Pt2: In 0.6, Pt 0.4; InPt: Pt 0.5216 | model | [1] Liang 2009 | Table 2, p. 4, row 10 |  |
-| 1266 | liq. -> In3Pt2 + InPt | liq.: Pt 0.47; In3Pt2: In 0.6, Pt 0.4; InPt: Pt 0.48 | model | [1] Liang 2009; _cites Okamoto 2005_ [doi](https://doi.org/10.1007/s11669-005-0104-6) | Table 2, p. 4, row 11 |  |
-| 1217 | InPt -> In3Pt2 + In5Pt6 | InPt: Pt 0.5; In3Pt2: In 0.6, Pt 0.4; In5Pt6: Pt 0.51 | model | [1] Liang 2009; _cites Okamoto 2005_ [doi](https://doi.org/10.1007/s11669-005-0104-6) | Table 2, p. 4, row 15 |  |
-| 1217 | InPt -> In3Pt2 + In5Pt6 | InPt: Pt 0.522; In3Pt2: In 0.6, Pt 0.4; In5Pt6: Pt 0.5328 | model | [1] Liang 2009 | Table 2, p. 4, row 14 |  |
-| 1169 | peritectic |  | experimental | [1] Liang 2009; _cites Patrone 2004_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900669-8) | p. 6 | “The peritectic formation temperature of In7 Pt3 at 1169 K reported by Patrone et al. \[26\] was also adopted in the present work.” |
-| 1169 | liq. + In2Pt -> In7Pt3 | liq.: Pt 0.18; In2Pt: In 0.666667, Pt 0.333333; In7Pt3: In 0.7, Pt 0.3 | model | [1] Liang 2009; _cites Okamoto 2005_ [doi](https://doi.org/10.1007/s11669-005-0104-6) | Table 2, p. 4, row 4 |  |
-| 1169 | liq. + In2Pt -> In7Pt3 | liq.: Pt 0.2218; In2Pt: In 0.666667, Pt 0.333333; In7Pt3: In 0.7, Pt 0.3 | model | [1] Liang 2009 | Table 2, p. 4, row 3 |  |
-| 1123 | βIn2Pt3 -> In9Pt13 + InPt2 | βIn2Pt3: Pt 0.605; In9Pt13: Pt 0.59; InPt2: In 0.333333, Pt 0.666667 | model | [1] Liang 2009; _cites Okamoto 2005_ [doi](https://doi.org/10.1007/s11669-005-0104-6) | Table 2, p. 4, row 25 |  |
-| 1123 | βIn2Pt3 -> In9Pt13 + InPt2 | βIn2Pt3: Pt 0.607; In9Pt13: Pt 0.5896; InPt2: In 0.333333, Pt 0.666667 | model | [1] Liang 2009 | Table 2, p. 4, row 24 |  |
-| 823 | In9Pt13 + InPt2 -> αIn2Pt3 | In9Pt13: Pt 0.5908; InPt2: In 0.333333, Pt 0.666667; αIn2Pt3: In 0.4, Pt 0.6 | model | [1] Liang 2009 | Table 2, p. 4, row 22 |  |
-| 823 | In9Pt13 + InPt2 -> αIn2Pt3 | In9Pt13: Pt 0.585; InPt2: In 0.333333, Pt 0.666667; αIn2Pt3: In 0.4, Pt 0.6 | model | [1] Liang 2009; _cites Okamoto 2005_ [doi](https://doi.org/10.1007/s11669-005-0104-6) | Table 2, p. 4, row 23 |  |
-| 427 | liq. -> tetra(In) + In7Pt3 | liq.: Pt 0.001; tetra(In): Pt 0; In7Pt3: In 0.7, Pt 0.3 | model | [1] Liang 2009; _cites Okamoto 2005_ [doi](https://doi.org/10.1007/s11669-005-0104-6) | Table 2, p. 4, row 2 |  |
-| 427 | liq. -> tetra(In) + In7Pt3 | liq.: Pt 0.0053; tetra(In): Pt 0; In7Pt3: In 0.7, Pt 0.3 | model | [1] Liang 2009 | Table 2, p. 4, row 1 |  |
+| 1731 | liq. + fcc(Pt) -> InPt3 | liq.: Pt 0.739; fcc(Pt): Pt 0.8765; InPt3: Pt 0.7505 | model | [1] Liang 2009 | Table 2, p. 4, row 28; `ORC-A5I2B6G6K6` |  |
+| 1731 | liq. + fcc(Pt) -> InPt3 | liq.: Pt 0.73; fcc(Pt): Pt 0.89; InPt3: Pt 0.75 | model | [1] Liang 2009; _cites Okamoto 2005_ [doi](https://doi.org/10.1007/s11669-005-0104-6) | Table 2, p. 4, row 29; `ORC-YDHGOXAIBV` |  |
+| 1433 | liq. + InPt3 -> βIn2Pt3 | liq.: Pt 0.56; InPt3: Pt 0.71; βIn2Pt3: Pt 0.6 | model | [1] Liang 2009; _cites Okamoto 2005_ [doi](https://doi.org/10.1007/s11669-005-0104-6) | Table 2, p. 4, row 21; `ORC-47OQQWBPMU` |  |
+| 1433 | liq. + InPt3 -> βIn2Pt3 | liq.: Pt 0.5704; InPt3: Pt 0.7238; βIn2Pt3: Pt 0.6305 | model | [1] Liang 2009 | Table 2, p. 4, row 20; `ORC-IIDAFVUHNS` |  |
+| 1373 | liq. + βIn2Pt3 -> In9Pt13 | liq.: Pt 0.55; βIn2Pt3: Pt 0.58; In9Pt13: Pt 0.575 | model | [1] Liang 2009; _cites Okamoto 2005_ [doi](https://doi.org/10.1007/s11669-005-0104-6) | Table 2, p. 4, row 19; `ORC-7PSSSOUQJA` |  |
+| 1373 | liq. + βIn2Pt3 -> In9Pt13 | liq.: Pt 0.5389; βIn2Pt3: Pt 0.6107; In9Pt13: Pt 0.5837 | model | [1] Liang 2009 | Table 2, p. 4, row 18; `ORC-QWLZIWMTUP` |  |
+| 1337 | liq. -> In3Pt2 | liq.: Pt 0.4; In3Pt2: In 0.6, Pt 0.4 | model | [1] Liang 2009; _cites Okamoto 2005_ [doi](https://doi.org/10.1007/s11669-005-0104-6) | Table 2, p. 4, row 9; `ORC-EGGAZIQFP6` |  |
+| 1337 | liq. -> In3Pt2 | liq.: Pt 0.4; In3Pt2: In 0.6, Pt 0.4 | model | [1] Liang 2009 | Table 2, p. 4, row 8; `ORC-HB27BH224P` |  |
+| 1329 | liq. + In9Pt13 -> In5Pt6 | liq.: Pt 0.51; In9Pt13: Pt 0.55; In5Pt6: Pt 0.545 | model | [1] Liang 2009; _cites Okamoto 2005_ [doi](https://doi.org/10.1007/s11669-005-0104-6) | Table 2, p. 4, row 17; `ORC-NKO5MG36KM` |  |
+| 1329 | liq. + In9Pt13 -> In5Pt6 | liq.: Pt 0.5122; In9Pt13: Pt 0.5788; In5Pt6: Pt 0.5584 | model | [1] Liang 2009 | Table 2, p. 4, row 16; `ORC-XATT24OJF2` |  |
+| 1305 | liq. -> In2Pt | liq.: Pt 0.3333; In2Pt: In 0.666667, Pt 0.333333 | model | [1] Liang 2009 | Table 2, p. 4, row 5; `ORC-6UQI5IJO7W` |  |
+| 1303 | liq. + In5Pt6 -> InPt | liq.: Pt 0.4948; In5Pt6: Pt 0.5465; InPt: Pt 0.5378 | model | [1] Liang 2009 | Table 2, p. 4, row 12; `ORC-4ZU3HPDSA2` |  |
+| 1303 | liq. + In5Pt6 -> InPt | liq.: Pt 0.495; In5Pt6: Pt 0.53; InPt: Pt 0.51 | model | [1] Liang 2009; _cites Okamoto 2005_ [doi](https://doi.org/10.1007/s11669-005-0104-6) | Table 2, p. 4, row 13; `ORC-G5K3MYKBOA` |  |
+| 1303 | liq. -> In2Pt + In3Pt2 | In2Pt: In 0.666667, Pt 0.333333; In3Pt2: In 0.6, Pt 0.4 | model | [1] Liang 2009; _cites Okamoto 2005_ [doi](https://doi.org/10.1007/s11669-005-0104-6) | Table 2, p. 4, row 7; `ORC-HB3OBNC2YR` |  |
+| 1303 | liq. -> In2Pt + In3Pt2 | liq.: Pt 0.3494; In2Pt: In 0.666667, Pt 0.333333; In3Pt2: In 0.6, Pt 0.4 | model | [1] Liang 2009 | Table 2, p. 4, row 6; `ORC-ZGWCSNO3XU` |  |
+| 1278 | βIn2Pt3 + InPt3 -> InPt2 | βIn2Pt3: Pt 0.61; InPt3: Pt 0.73; InPt2: In 0.333333, Pt 0.666667 | model | [1] Liang 2009; _cites Okamoto 2005_ [doi](https://doi.org/10.1007/s11669-005-0104-6) | Table 2, p. 4, row 27; `ORC-32D2RW2OV2` |  |
+| 1278 | βIn2Pt3 + InPt3 -> InPt2 | βIn2Pt3: Pt 0.6177; InPt3: Pt 0.7268; InPt2: In 0.333333, Pt 0.666667 | model | [1] Liang 2009 | Table 2, p. 4, row 26; `ORC-WUVPPNWBDI` |  |
+| 1269 | liq. -> In3Pt2 + InPt | liq.: Pt 0.4723; In3Pt2: In 0.6, Pt 0.4; InPt: Pt 0.5216 | model | [1] Liang 2009 | Table 2, p. 4, row 10; `ORC-KMHWRHTYT4` |  |
+| 1266 | liq. -> In3Pt2 + InPt | liq.: Pt 0.47; In3Pt2: In 0.6, Pt 0.4; InPt: Pt 0.48 | model | [1] Liang 2009; _cites Okamoto 2005_ [doi](https://doi.org/10.1007/s11669-005-0104-6) | Table 2, p. 4, row 11; `ORC-D5TUBTKC5W` |  |
+| 1217 | InPt -> In3Pt2 + In5Pt6 | InPt: Pt 0.5; In3Pt2: In 0.6, Pt 0.4; In5Pt6: Pt 0.51 | model | [1] Liang 2009; _cites Okamoto 2005_ [doi](https://doi.org/10.1007/s11669-005-0104-6) | Table 2, p. 4, row 15; `ORC-APZDLGVUPA` |  |
+| 1217 | InPt -> In3Pt2 + In5Pt6 | InPt: Pt 0.522; In3Pt2: In 0.6, Pt 0.4; In5Pt6: Pt 0.5328 | model | [1] Liang 2009 | Table 2, p. 4, row 14; `ORC-FOJEQMHQIZ` |  |
+| 1169 | peritectic |  | experimental | [1] Liang 2009; _cites Patrone 2004_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900669-8) | p. 6; `ORC-4LOZ4A4DAQ` | “The peritectic formation temperature of In7 Pt3 at 1169 K reported by Patrone et al. \[26\] was also adopted in the present work.” |
+| 1169 | liq. + In2Pt -> In7Pt3 | liq.: Pt 0.18; In2Pt: In 0.666667, Pt 0.333333; In7Pt3: In 0.7, Pt 0.3 | model | [1] Liang 2009; _cites Okamoto 2005_ [doi](https://doi.org/10.1007/s11669-005-0104-6) | Table 2, p. 4, row 4; `ORC-DAK4DHTCW3` |  |
+| 1169 | liq. + In2Pt -> In7Pt3 | liq.: Pt 0.2218; In2Pt: In 0.666667, Pt 0.333333; In7Pt3: In 0.7, Pt 0.3 | model | [1] Liang 2009 | Table 2, p. 4, row 3; `ORC-Z3AULOTX5L` |  |
+| 1123 | βIn2Pt3 -> In9Pt13 + InPt2 | βIn2Pt3: Pt 0.605; In9Pt13: Pt 0.59; InPt2: In 0.333333, Pt 0.666667 | model | [1] Liang 2009; _cites Okamoto 2005_ [doi](https://doi.org/10.1007/s11669-005-0104-6) | Table 2, p. 4, row 25; `ORC-64DN5BKPWL` |  |
+| 1123 | βIn2Pt3 -> In9Pt13 + InPt2 | βIn2Pt3: Pt 0.607; In9Pt13: Pt 0.5896; InPt2: In 0.333333, Pt 0.666667 | model | [1] Liang 2009 | Table 2, p. 4, row 24; `ORC-W36L7QLBS3` |  |
+| 823 | In9Pt13 + InPt2 -> αIn2Pt3 | In9Pt13: Pt 0.5908; InPt2: In 0.333333, Pt 0.666667; αIn2Pt3: In 0.4, Pt 0.6 | model | [1] Liang 2009 | Table 2, p. 4, row 22; `ORC-2VNSCM4V7M` |  |
+| 823 | In9Pt13 + InPt2 -> αIn2Pt3 | In9Pt13: Pt 0.585; InPt2: In 0.333333, Pt 0.666667; αIn2Pt3: In 0.4, Pt 0.6 | model | [1] Liang 2009; _cites Okamoto 2005_ [doi](https://doi.org/10.1007/s11669-005-0104-6) | Table 2, p. 4, row 23; `ORC-RONKDEO3ZB` |  |
+| 427 | liq. -> tetra(In) + In7Pt3 | liq.: Pt 0.001; tetra(In): Pt 0; In7Pt3: In 0.7, Pt 0.3 | model | [1] Liang 2009; _cites Okamoto 2005_ [doi](https://doi.org/10.1007/s11669-005-0104-6) | Table 2, p. 4, row 2; `ORC-J62O62TRJX` |  |
+| 427 | liq. -> tetra(In) + In7Pt3 | liq.: Pt 0.0053; tetra(In): Pt 0; In7Pt3: In 0.7, Pt 0.3 | model | [1] Liang 2009 | Table 2, p. 4, row 1; `ORC-PCMWRI3MTH` |  |
 
 ## Other properties
 
@@ -107,15 +107,15 @@ Table: Phase transition, In–Pt system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 947 K | 947 |  | experimental | [1] Liang 2009; _cites Massalski 1990_ | p. 4 | “Recently, the decomposition temperature of the compound In2 Pt at 1123 K \[18\], 947 K \[5,19\] was questioned by several researchers \[23-26\].” |
-| Phase transition | 1123 K | 1123 | other | experimental | [1] Liang 2009; _cites Jain 1972_ | p. 4 | “Recently, the decomposition temperature of the compound In2 Pt at 1123 K \[18\], 947 K \[5,19\] was questioned by several researchers \[23-26\].” |
-| Phase transition | 1303 K | 1303 |  | experimental | [1] Liang 2009; _cites Patrone 2004_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900669-8) | p. 6 | “Patrone et al. \[26\] observed the melting peak of In2 Pt at 1303 K and 1305 K in the DTA heating and cooling curves, respectively.” |
-| Phase transition | 1303 K | 1303 | liq. → In2 Pt + In3 Pt2 | model | [1] Liang 2009 | p. 6 | “And the invariant reaction liq. + In3 Pt2 → In2 Pt at 1312 K reported by Massalski et al. \[5\] was replaced by the invariant reactions liq. → In2 Pt + In3 Pt2 at 1303 K and liq. → In2 Pt at 1305 K.” |
-| Phase transition | 1305 K | 1305 |  | experimental | [1] Liang 2009; _cites Patrone 2004_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900669-8) | p. 6 | “Patrone et al. \[26\] observed the melting peak of In2 Pt at 1303 K and 1305 K in the DTA heating and cooling curves, respectively.” |
-| Phase transition | 1305 K | 1305 | congruent transformation | model | [1] Liang 2009 | p. 6 | “In the present work, the compound In2 Pt was formed congruently at 1305 K and stable down to 0 K.” |
-| Phase transition | 1305 K | 1305 | liq. → In2 Pt | model | [1] Liang 2009 | p. 6 | “And the invariant reaction liq. + In3 Pt2 → In2 Pt at 1312 K reported by Massalski et al. \[5\] was replaced by the invariant reactions liq. → In2 Pt + In3 Pt2 at 1303 K and liq. → In2 Pt at 1305 K.” |
-| Phase transition | 1312 K | 1312 |  | model | [1] Liang 2009; _cites Okamoto 2005_ [doi](https://doi.org/10.1007/s11669-005-0104-6) | p. 4 | “The invariant reaction liq. + In3 Pt2 → In2 Pt at 1312 K was reviewed by Okamoto \[6\].” |
-| Phase transition | 1312 K | 1312 | liq. + In3 Pt2 → In2 Pt | model | [1] Liang 2009; _cites Massalski 1990_ | p. 6 | “And the invariant reaction liq. + In3 Pt2 → In2 Pt at 1312 K reported by Massalski et al. \[5\] was replaced by the invariant reactions liq. → In2 Pt + In3 Pt2 at 1303 K and liq. → In2 Pt at 1305 K.” |
+| Phase transition | 947 K | 947 |  | experimental | [1] Liang 2009; _cites Massalski 1990_ | p. 4; `ORC-BDA4G7NBOV.bcd0c7` | “Recently, the decomposition temperature of the compound In2 Pt at 1123 K \[18\], 947 K \[5,19\] was questioned by several researchers \[23-26\].” |
+| Phase transition | 1123 K | 1123 | other | experimental | [1] Liang 2009; _cites Jain 1972_ | p. 4; `ORC-BDA4G7NBOV.71d096` | “Recently, the decomposition temperature of the compound In2 Pt at 1123 K \[18\], 947 K \[5,19\] was questioned by several researchers \[23-26\].” |
+| Phase transition | 1303 K | 1303 |  | experimental | [1] Liang 2009; _cites Patrone 2004_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900669-8) | p. 6; `ORC-XKCEZJZ4CZ.1d64b0` | “Patrone et al. \[26\] observed the melting peak of In2 Pt at 1303 K and 1305 K in the DTA heating and cooling curves, respectively.” |
+| Phase transition | 1303 K | 1303 | liq. → In2 Pt + In3 Pt2 | model | [1] Liang 2009 | p. 6; `ORC-7OVSF7GY5F.63d9a9` | “And the invariant reaction liq. + In3 Pt2 → In2 Pt at 1312 K reported by Massalski et al. \[5\] was replaced by the invariant reactions liq. → In2 Pt + In3 Pt2 at 1303 K and liq. → In2 Pt at 1305 K.” |
+| Phase transition | 1305 K | 1305 |  | experimental | [1] Liang 2009; _cites Patrone 2004_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900669-8) | p. 6; `ORC-XKCEZJZ4CZ.fac918` | “Patrone et al. \[26\] observed the melting peak of In2 Pt at 1303 K and 1305 K in the DTA heating and cooling curves, respectively.” |
+| Phase transition | 1305 K | 1305 | congruent transformation | model | [1] Liang 2009 | p. 6; `ORC-I5FLEZNWUE` | “In the present work, the compound In2 Pt was formed congruently at 1305 K and stable down to 0 K.” |
+| Phase transition | 1305 K | 1305 | liq. → In2 Pt | model | [1] Liang 2009 | p. 6; `ORC-7OVSF7GY5F.f2c78a` | “And the invariant reaction liq. + In3 Pt2 → In2 Pt at 1312 K reported by Massalski et al. \[5\] was replaced by the invariant reactions liq. → In2 Pt + In3 Pt2 at 1303 K and liq. → In2 Pt at 1305 K.” |
+| Phase transition | 1312 K | 1312 |  | model | [1] Liang 2009; _cites Okamoto 2005_ [doi](https://doi.org/10.1007/s11669-005-0104-6) | p. 4; `ORC-U7CSRSPR4F` | “The invariant reaction liq. + In3 Pt2 → In2 Pt at 1312 K was reviewed by Okamoto \[6\].” |
+| Phase transition | 1312 K | 1312 | liq. + In3 Pt2 → In2 Pt | model | [1] Liang 2009; _cites Massalski 1990_ | p. 6; `ORC-7OVSF7GY5F.61eecc` | “And the invariant reaction liq. + In3 Pt2 → In2 Pt at 1312 K reported by Massalski et al. \[5\] was replaced by the invariant reactions liq. → In2 Pt + In3 Pt2 at 1303 K and liq. → In2 Pt at 1305 K.” |
 
 ## Sources
 
@@ -180,4 +180,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

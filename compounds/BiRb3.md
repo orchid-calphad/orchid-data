@@ -14,18 +14,18 @@ Table: Enthalpy of formation of BiRb3 reported in the literature (12)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -37.2 per mol-atom ± 2 | BiRb3 | 298.15 | experimental |  | [Bi–Rb](https://data.orchid-project.org/systems/BI-RB.html) | [1] Liu 2013; _cites Voronin 1974_ | Table 3, p. 4, row 7 |  |
-| -37.2 kJ/mol-atom ± 2 | αBiRb3 | 298.15 | experimental | Vapor Pressure Measurements | [Bi–Rb](https://data.orchid-project.org/systems/BI-RB.html) | [2] Dziri 2022; _cites Voronin 1974_ | Table 4, p. 7, row 24 |  |
-| -41.875 kJ/mol-atom | αBiRb3 |  | model | Calphad | [Bi–Rb](https://data.orchid-project.org/systems/BI-RB.html) | [2] Dziri 2022; _cites Cao 2014_ [doi](https://doi.org/10.1016/j.calphad.2014.04.001) | Table 4, p. 7, row 26 |  |
-| -38.8 kJ/mol-atom | αBiRb3 |  | model | Calphad | [Bi–Rb](https://data.orchid-project.org/systems/BI-RB.html) | [2] Dziri 2022; _cites Liu 2013_ [doi](https://doi.org/10.1016/j.tca.2013.01.029) | Table 4, p. 7, row 25 |  |
-| -38.8 per mol-atom | BiRb3 | 298.15 | model |  | [Bi–Rb](https://data.orchid-project.org/systems/BI-RB.html) | [1] Liu 2013 | Table 3, p. 4, row 8 |  |
-| -38.61 kJ/mol-atom | ßBiRb3 |  | model | Calphad | [Bi–Rb](https://data.orchid-project.org/systems/BI-RB.html) | [2] Dziri 2022; _cites Liu 2013_ [doi](https://doi.org/10.1016/j.tca.2013.01.029) | Table 4, p. 7, row 30 |  |
-| -34.746 kJ/mol-atom | αBiRb3 |  | model | Calphad | [Bi–Rb](https://data.orchid-project.org/systems/BI-RB.html) | [2] Dziri 2022 | Table 4, p. 7, row 27 |  |
-| -34.621 kJ/mol-atom | ßBiRb3 |  | model | Calphad | [Bi–Rb](https://data.orchid-project.org/systems/BI-RB.html) | [2] Dziri 2022 | Table 4, p. 7, row 31 |  |
-| -38.661 kJ/mol-atom | αBiRb3 | 0 | DFT | Ab-initio LDA | [Bi–Rb](https://data.orchid-project.org/systems/BI-RB.html) | [2] Dziri 2022 | Table 4, p. 7, row 29 |  |
-| -38.272 kJ/mol-atom | ßBiRb3 | 0 | DFT | Ab-initio LDA | [Bi–Rb](https://data.orchid-project.org/systems/BI-RB.html) | [2] Dziri 2022 | Table 4, p. 7, row 33 |  |
-| -32.963 kJ/mol-atom | αBiRb3 | 0 | DFT | Ab-initio GGA | [Bi–Rb](https://data.orchid-project.org/systems/BI-RB.html) | [2] Dziri 2022 | Table 4, p. 7, row 28 |  |
-| -30.218 kJ/mol-atom | ßBiRb3 | 0 | DFT | Ab-initio GGA | [Bi–Rb](https://data.orchid-project.org/systems/BI-RB.html) | [2] Dziri 2022 | Table 4, p. 7, row 32 |  |
+| -37.2 per mol-atom ± 2 | BiRb3 | 298.15 | experimental |  | [Bi–Rb](https://data.orchid-project.org/systems/BI-RB.html) | [1] Liu 2013; _cites Voronin 1974_ | Table 3, p. 4, row 7; `ORC-L2ABXXVCC4.a3fce3` |  |
+| -37.2 kJ/mol-atom ± 2 | αBiRb3 | 298.15 | experimental | Vapor Pressure Measurements | [Bi–Rb](https://data.orchid-project.org/systems/BI-RB.html) | [2] Dziri 2022; _cites Voronin 1974_ | Table 4, p. 7, row 24; `ORC-RZXTTI2S6E.218093` |  |
+| -41.875 kJ/mol-atom | αBiRb3 |  | model | Calphad | [Bi–Rb](https://data.orchid-project.org/systems/BI-RB.html) | [2] Dziri 2022; _cites Cao 2014_ [doi](https://doi.org/10.1016/j.calphad.2014.04.001) | Table 4, p. 7, row 26; `ORC-PWASQJLE5Z.b588b7` |  |
+| -38.8 kJ/mol-atom | αBiRb3 |  | model | Calphad | [Bi–Rb](https://data.orchid-project.org/systems/BI-RB.html) | [2] Dziri 2022; _cites Liu 2013_ [doi](https://doi.org/10.1016/j.tca.2013.01.029) | Table 4, p. 7, row 25; `ORC-4G4WSLLF6V.ed8302` |  |
+| -38.8 per mol-atom | BiRb3 | 298.15 | model |  | [Bi–Rb](https://data.orchid-project.org/systems/BI-RB.html) | [1] Liu 2013 | Table 3, p. 4, row 8; `ORC-J24K2UQDTW.8b462d` |  |
+| -38.61 kJ/mol-atom | ßBiRb3 |  | model | Calphad | [Bi–Rb](https://data.orchid-project.org/systems/BI-RB.html) | [2] Dziri 2022; _cites Liu 2013_ [doi](https://doi.org/10.1016/j.tca.2013.01.029) | Table 4, p. 7, row 30; `ORC-74IBRYGVPL.0707bd` |  |
+| -34.746 kJ/mol-atom | αBiRb3 |  | model | Calphad | [Bi–Rb](https://data.orchid-project.org/systems/BI-RB.html) | [2] Dziri 2022 | Table 4, p. 7, row 27; `ORC-CXCBH3UHHB.2624bb` |  |
+| -34.621 kJ/mol-atom | ßBiRb3 |  | model | Calphad | [Bi–Rb](https://data.orchid-project.org/systems/BI-RB.html) | [2] Dziri 2022 | Table 4, p. 7, row 31; `ORC-W6MXWXSSQX.48ac50` |  |
+| -38.661 kJ/mol-atom | αBiRb3 | 0 | DFT | Ab-initio LDA | [Bi–Rb](https://data.orchid-project.org/systems/BI-RB.html) | [2] Dziri 2022 | Table 4, p. 7, row 29; `ORC-5Q5G5NGQUV.61e74c` |  |
+| -38.272 kJ/mol-atom | ßBiRb3 | 0 | DFT | Ab-initio LDA | [Bi–Rb](https://data.orchid-project.org/systems/BI-RB.html) | [2] Dziri 2022 | Table 4, p. 7, row 33; `ORC-V7JKB5ZQ5Q.2c27ee` |  |
+| -32.963 kJ/mol-atom | αBiRb3 | 0 | DFT | Ab-initio GGA | [Bi–Rb](https://data.orchid-project.org/systems/BI-RB.html) | [2] Dziri 2022 | Table 4, p. 7, row 28; `ORC-R23YOSUSUV.26edee` |  |
+| -30.218 kJ/mol-atom | ßBiRb3 | 0 | DFT | Ab-initio GGA | [Bi–Rb](https://data.orchid-project.org/systems/BI-RB.html) | [2] Dziri 2022 | Table 4, p. 7, row 32; `ORC-YVCSYC5JGI.8913b4` |  |
 
 ### Uncertainty budget
 
@@ -113,4 +113,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -26,23 +26,23 @@ Table: Invariant reactions reported in the literature for the Pt–Sb–Te syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1354 | other: liquid + PtTe2 + PtSb2 |  | model | [1] Guo 2015 | Table IV, p. 13, row 1 |  |
-| 1246 | quasi-peritectic: liquid + PtSb2 -> PtSb + PtTe2 |  | model | [1] Guo 2015 | Table IV, p. 13, row 5 |  |
-| 1230 | peritectic: liquid + Pt3Te4 + PtTe2 -> Pt2Te3 |  | model | [1] Guo 2015 | Table IV, p. 13, row 4 |  |
-| 989 | quasi-peritectic: liquid + PtTe2 -> Pt2Te3 + PtSb |  | model | [1] Guo 2015 | Table IV, p. 13, row 6 |  |
-| 982 | quasi-peritectic: liquid + fcc -> PtTe + Pt5Sb |  | model | [1] Guo 2015 | Table IV, p. 13, row 7 |  |
-| 976 | quasi-peritectic: liquid + PtSb -> Pt2Te3 + Pt3Sb2 |  | model | [1] Guo 2015 | Table IV, p. 13, row 8 |  |
-| 947 | quasi-peritectic: liquid + Pt2Te3 -> Pt3Sb2 + Pt3Te4 |  | model | [1] Guo 2015 | Table IV, p. 13, row 9 |  |
-| 931 | quasi-peritectic: liquid + Pt5Sb -> PtTe + Pt3Sb |  | model | [1] Guo 2015 | Table IV, p. 13, row 10 |  |
-| 914 | quasi-peritectic: liquid + PtTe -> Pt3Te4 + Pt3Sb |  | model | [1] Guo 2015 | Table IV, p. 13, row 11 |  |
-| 913 | quasi-peritectic: liquid + Pt3Te4 -> Pt3Sb + Pt3Sb2 |  | model | [1] Guo 2015 | Table IV, p. 13, row 12 |  |
-| 890 | other: liquid + PtSb2 + Sb2Te3 |  | model | [1] Guo 2015 | Table IV, p. 13, row 2 |  |
-| 872 | quasi-peritectic: liquid + PtSb2 -> PtTe2 + Sb2Te3 |  | model | [1] Guo 2015 | Table IV, p. 13, row 13 |  |
-| 831 | quasi-peritectic: liquid + Sb2Te3 -> PtSb2 + Gamma |  | model | [1] Guo 2015 | Table IV, p. 13, row 14 |  |
-| 821 | quasi-peritectic: liquid + rhom(Sb) -> PtSb2 + delta |  | model | [1] Guo 2015 | Table IV, p. 13, row 15 |  |
-| 820 | quasi-peritectic: liquid + gamma -> PtSb2 + delta |  | model | [1] Guo 2015 | Table IV, p. 13, row 16 |  |
-| 817 | other: liquid + PtSb2 + delta |  | model | [1] Guo 2015 | Table IV, p. 13, row 3 |  |
-| 687 | eutectic: liquid -> PtTe2 + Sb2Te3 + hex(Te) |  | model | [1] Guo 2015 | Table IV, p. 13, row 17 |  |
+| 1354 | other: liquid + PtTe2 + PtSb2 |  | model | [1] Guo 2015 | Table IV, p. 13, row 1; `ORC-OCR2MNQW3I` |  |
+| 1246 | quasi-peritectic: liquid + PtSb2 -> PtSb + PtTe2 |  | model | [1] Guo 2015 | Table IV, p. 13, row 5; `ORC-UVAW2T6AHT` |  |
+| 1230 | peritectic: liquid + Pt3Te4 + PtTe2 -> Pt2Te3 |  | model | [1] Guo 2015 | Table IV, p. 13, row 4; `ORC-KJAMPQJEZ5` |  |
+| 989 | quasi-peritectic: liquid + PtTe2 -> Pt2Te3 + PtSb |  | model | [1] Guo 2015 | Table IV, p. 13, row 6; `ORC-VBHRX56CZV` |  |
+| 982 | quasi-peritectic: liquid + fcc -> PtTe + Pt5Sb |  | model | [1] Guo 2015 | Table IV, p. 13, row 7; `ORC-GZ3IDFDXPS` |  |
+| 976 | quasi-peritectic: liquid + PtSb -> Pt2Te3 + Pt3Sb2 |  | model | [1] Guo 2015 | Table IV, p. 13, row 8; `ORC-WN7RCMGUN6` |  |
+| 947 | quasi-peritectic: liquid + Pt2Te3 -> Pt3Sb2 + Pt3Te4 |  | model | [1] Guo 2015 | Table IV, p. 13, row 9; `ORC-PUCBWAEMKZ` |  |
+| 931 | quasi-peritectic: liquid + Pt5Sb -> PtTe + Pt3Sb |  | model | [1] Guo 2015 | Table IV, p. 13, row 10; `ORC-MDPVIXC34C` |  |
+| 914 | quasi-peritectic: liquid + PtTe -> Pt3Te4 + Pt3Sb |  | model | [1] Guo 2015 | Table IV, p. 13, row 11; `ORC-RTY6LNFUN6` |  |
+| 913 | quasi-peritectic: liquid + Pt3Te4 -> Pt3Sb + Pt3Sb2 |  | model | [1] Guo 2015 | Table IV, p. 13, row 12; `ORC-3SUPNBHGW7` |  |
+| 890 | other: liquid + PtSb2 + Sb2Te3 |  | model | [1] Guo 2015 | Table IV, p. 13, row 2; `ORC-D7KO5ZGX55` |  |
+| 872 | quasi-peritectic: liquid + PtSb2 -> PtTe2 + Sb2Te3 |  | model | [1] Guo 2015 | Table IV, p. 13, row 13; `ORC-2GOR3A2KDB` |  |
+| 831 | quasi-peritectic: liquid + Sb2Te3 -> PtSb2 + Gamma |  | model | [1] Guo 2015 | Table IV, p. 13, row 14; `ORC-NGDQCE24RU` |  |
+| 821 | quasi-peritectic: liquid + rhom(Sb) -> PtSb2 + delta |  | model | [1] Guo 2015 | Table IV, p. 13, row 15; `ORC-OBZ6VY5KUP` |  |
+| 820 | quasi-peritectic: liquid + gamma -> PtSb2 + delta |  | model | [1] Guo 2015 | Table IV, p. 13, row 16; `ORC-JK7THVEKF4` |  |
+| 817 | other: liquid + PtSb2 + delta |  | model | [1] Guo 2015 | Table IV, p. 13, row 3; `ORC-C6CW7WZO5A` |  |
+| 687 | eutectic: liquid -> PtTe2 + Sb2Te3 + hex(Te) |  | model | [1] Guo 2015 | Table IV, p. 13, row 17; `ORC-7L4PCWBSCT` |  |
 
 ## Sources
 
@@ -85,4 +85,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

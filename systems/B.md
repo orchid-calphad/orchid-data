@@ -32,21 +32,21 @@ Table: Invariant reactions reported in the literature for the B system (15)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2573.15 | congruent melting: L -> β(B) | L: B 1; β(B): B 1 | experimental | [1] Premović 2017; _cites Stecher 1965_ | Table 2, p. 2, row 6 |  |
-| 2563.15 | congruent melting: L -> β(B) | L: B 1; β(B): B 1 | experimental | [1] Premović 2017; _cites Benesovsky 1967_ | Table 2, p. 2, row 5 |  |
-| 2423 | congruent melting: L \<-> B | L: B 1; B: B 1 | experimental | [2] Bittermann 1997; _cites ref. 71Por_ | Table 1, p. 2, row 10 |  |
-| 2373 | congruent melting: L \<-> B | L: B 1; B: B 1 | experimental | [2] Bittermann 1997; _cites ref. 65Rud1_ | Table 1, p. 2, row 9 |  |
-| 2365.15 | congruent melting: β -> L | β: B 1; L: B 1 | experimental | [3] Campbell 1999; _cites Schobel 1965_ | Table 4, p. 4, row 31 |  |
-| 2365.15 | congruent melting: β ↔ L | β: B 1; L: B 1 | experimental | [3] Campbell 1999; _cites Carlson 1990_ [doi](https://doi.org/10.1007/bf02841717) | Table 3, p. 3, row 14 |  |
-| 2365.15 | congruent melting: L -> β(B) | L: B 1; β(B): B 1 | unspecified | [1] Premović 2017; _cites Holcombe 1973_ | Table 2, p. 2, row 4 |  |
-| 2348.15 | congruent melting: β -> L | β: B 1; L: B 1 | model | [3] Campbell 1999; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 4, p. 4, row 32 |  |
-| 2348.15 | congruent melting: β ↔ L | β: B 1; L: B 1 | model | [3] Campbell 1999; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 3, p. 3, row 15 |  |
-| 2348.15 | L -> β(B) | L: B 1; β(B): B 1 | model | [1] Premović 2017 | Table 7, p. 9, row 3 |  |
-| 2348.15 | L -> β(B) | L: B 1; β(B): B 1 | experimental | [1] Premović 2017; _cites Wang 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.03.001) | Table 7, p. 9, row 4 |  |
-| 2348.15 | congruent melting: L -> β(B) | L: B 1; β(B): B 1 | unspecified | [1] Premović 2017; _cites Wang 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.03.001) | Table 2, p. 2, row 3 |  |
-| 2348 | congruent melting: L \<-> B | L: B 1; B: B 1 | model | [2] Bittermann 1997 | Table 1, p. 2, row 11 |  |
-| 2347.15 | congruent melting: L -> β(B) | L: B 0.996; β(B): B 0.996 | experimental | [1] Premović 2017; _cites Kimpel 1968_ [doi](https://doi.org/10.1021/je60037a028) | Table 2, p. 2, row 2 |  |
-| 2315.15 | congruent melting: L -> β(B) | L: B 1; β(B): B 1 | experimental | [1] Premović 2017; _cites Mar 1972_ [doi](https://doi.org/10.1016/0040-6031%2872%2987018-7) | Table 2, p. 2, row 1 |  |
+| 2573.15 | congruent melting: L -> β(B) | L: B 1; β(B): B 1 | experimental | [1] Premović 2017; _cites Stecher 1965_ | Table 2, p. 2, row 6; `ORC-XH6TZQCVHJ` |  |
+| 2563.15 | congruent melting: L -> β(B) | L: B 1; β(B): B 1 | experimental | [1] Premović 2017; _cites Benesovsky 1967_ | Table 2, p. 2, row 5; `ORC-OCSK44G6HD` |  |
+| 2423 | congruent melting: L \<-> B | L: B 1; B: B 1 | experimental | [2] Bittermann 1997; _cites ref. 71Por_ | Table 1, p. 2, row 10; `ORC-JYCZDZ7O64` |  |
+| 2373 | congruent melting: L \<-> B | L: B 1; B: B 1 | experimental | [2] Bittermann 1997; _cites ref. 65Rud1_ | Table 1, p. 2, row 9; `ORC-JKFNDUYT6P` |  |
+| 2365.15 | congruent melting: β -> L | β: B 1; L: B 1 | experimental | [3] Campbell 1999; _cites Schobel 1965_ | Table 4, p. 4, row 31; `ORC-DWJJKR7CS7` |  |
+| 2365.15 | congruent melting: β ↔ L | β: B 1; L: B 1 | experimental | [3] Campbell 1999; _cites Carlson 1990_ [doi](https://doi.org/10.1007/bf02841717) | Table 3, p. 3, row 14; `ORC-EDANEJQQHW` |  |
+| 2365.15 | congruent melting: L -> β(B) | L: B 1; β(B): B 1 | unspecified | [1] Premović 2017; _cites Holcombe 1973_ | Table 2, p. 2, row 4; `ORC-HIFPTFRSKH` |  |
+| 2348.15 | congruent melting: β -> L | β: B 1; L: B 1 | model | [3] Campbell 1999; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 4, p. 4, row 32; `ORC-AAIWSNKXOQ` |  |
+| 2348.15 | congruent melting: β ↔ L | β: B 1; L: B 1 | model | [3] Campbell 1999; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 3, p. 3, row 15; `ORC-BNPBUH5FUM` |  |
+| 2348.15 | L -> β(B) | L: B 1; β(B): B 1 | model | [1] Premović 2017 | Table 7, p. 9, row 3; `ORC-EWB7URDI2I` |  |
+| 2348.15 | L -> β(B) | L: B 1; β(B): B 1 | experimental | [1] Premović 2017; _cites Wang 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.03.001) | Table 7, p. 9, row 4; `ORC-N7B4MB5AMZ` |  |
+| 2348.15 | congruent melting: L -> β(B) | L: B 1; β(B): B 1 | unspecified | [1] Premović 2017; _cites Wang 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.03.001) | Table 2, p. 2, row 3; `ORC-NX6H6XVX5G` |  |
+| 2348 | congruent melting: L \<-> B | L: B 1; B: B 1 | model | [2] Bittermann 1997 | Table 1, p. 2, row 11; `ORC-IWISF36U6J` |  |
+| 2347.15 | congruent melting: L -> β(B) | L: B 0.996; β(B): B 0.996 | experimental | [1] Premović 2017; _cites Kimpel 1968_ [doi](https://doi.org/10.1021/je60037a028) | Table 2, p. 2, row 2; `ORC-P3EJ5KLZSF` |  |
+| 2315.15 | congruent melting: L -> β(B) | L: B 1; β(B): B 1 | experimental | [1] Premović 2017; _cites Mar 1972_ [doi](https://doi.org/10.1016/0040-6031%2872%2987018-7) | Table 2, p. 2, row 1; `ORC-EPAFYQMAJA` |  |
 
 ## Formation enthalpies
 
@@ -56,7 +56,7 @@ Table: Enthalpies of formation, B system (1)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| TiB2 |  | 68.1 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Nakama 2009 | Table 3, p. 6, row 16 |  |
+| TiB2 |  | 68.1 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Nakama 2009 | Table 3, p. 6, row 16; `ORC-MSD3PBGDPM.ac36b6` |  |
 
 ## Other properties
 
@@ -66,7 +66,7 @@ Table: Phase transition, B system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 2365.15 K | 2365.15 | B | experimental | [5] Campbell 2002; _cites ref. 25_ | p. 5 | “The melting temperature of boron used by Dinsdale \[lo\] is 17 degrees lower than the melting temperature of 2092 "C \[25\] used in most evaluations.” |
+| Phase transition | 2365.15 K | 2365.15 | B | experimental | [5] Campbell 2002; _cites ref. 25_ | p. 5; `ORC-WZHNIXZ2J2` | “The melting temperature of boron used by Dinsdale \[lo\] is 17 degrees lower than the melting temperature of 2092 "C \[25\] used in most evaluations.” |
 
 ### Crystal structure (22)
 
@@ -74,28 +74,28 @@ Table: Crystal structure, B system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 10.9251 Å | 298.15 | (βB)(a); _(βB)(a): B 1_ | unspecified | [6] Spear 1990 | Table 3, p. 3, row 10 |  |
-| Lattice a | 10.9253 Å | 298.15 | (βB)(a); _(βB)(a): B 1_ | unspecified | [6] Spear 1990 | Table 3, p. 3, row 11 |  |
-| Lattice a | 10.9382 Å ± 5.000e-4 | 298.15 | B | model | [7] Duschanek 1995; _cites Crespo 1981_ | Table 2, p. 3, row 44 |  |
-| Lattice a | 10.9276 Å ± 5.000e-4 | 298.15 | B | model | [7] Duschanek 1995; _cites Crespo 1981_ | Table 2, p. 3, row 43 |  |
-| Lattice a | 10.9251 Å | 298.15 | B | experimental | [7] Duschanek 1995; _cites Callmer 1977_ | Table 2, p. 3, row 42 |  |
-| Lattice a | 1.017 not_printed | 298.15 | β(B) | experimental | [1] Premović 2017; _cites Geist 1970_ | Table 1, p. 2, row 1 |  |
-| Lattice a | 10.927 Å | 298.15 | βB | unspecified | [8] Duschanek 1995; _cites ref. 85Vil_ | Table 3, p. 4, row 2 |  |
-| Lattice a | 10.925 Å | 298.15 | βB | model | [9] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 13 |  |
-| Lattice a | 10.9251 Å | 298.15 | βB | unspecified | [8] Duschanek 1995 | Table 3, p. 4, row 1 |  |
-| Lattice b | 1.017 not_printed | 298.15 | β(B) | experimental | [1] Premović 2017; _cites Geist 1970_ | Table 1, p. 2, row 1 |  |
-| Lattice b | 23.81 Å | 298.15 | βB | model | [9] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 13 |  |
-| Lattice c | 23.8143 Å | 298.15 | (βB)(a); _(βB)(a): B 1_ | unspecified | [6] Spear 1990 | Table 3, p. 3, row 10 |  |
-| Lattice c | 23.8103 Å | 298.15 | (βB)(a); _(βB)(a): B 1_ | unspecified | [6] Spear 1990 | Table 3, p. 3, row 11 |  |
-| Lattice c | 23.8356 Å ± 0.0018 | 298.15 | B | model | [7] Duschanek 1995; _cites Crespo 1981_ | Table 2, p. 3, row 44 |  |
-| Lattice c | 23.8141 Å ± 0.0015 | 298.15 | B | model | [7] Duschanek 1995; _cites Crespo 1981_ | Table 2, p. 3, row 43 |  |
-| Lattice c | 23.8143 Å | 298.15 | B | experimental | [7] Duschanek 1995; _cites Callmer 1977_ | Table 2, p. 3, row 42 |  |
-| Lattice c | 23.8865 Å | 298.15 | βB | unspecified | [8] Duschanek 1995; _cites ref. 85Vil_ | Table 3, p. 4, row 2 |  |
-| Lattice c | 23.8143 Å | 298.15 | βB | unspecified | [8] Duschanek 1995 | Table 3, p. 4, row 1 |  |
-| lattice alpha | 65.12 not_printed | 298.15 | β(B) | experimental | [1] Premović 2017; _cites Geist 1970_ | Table 1, p. 2, row 1 |  |
-| lattice v | 2469.72 nm3 × 10^3 | 298.15 | B | model | [7] Duschanek 1995; _cites Crespo 1981_ | Table 2, p. 3, row 44 |  |
-| lattice v | 2462.72 nm3 × 10^3 | 298.15 | B | model | [7] Duschanek 1995; _cites Crespo 1981_ | Table 2, p. 3, row 43 |  |
-| lattice v | 2461.61 nm3 × 10^3 | 298.15 | B | experimental | [7] Duschanek 1995; _cites Callmer 1977_ | Table 2, p. 3, row 42 |  |
+| Lattice a | 10.9251 Å | 298.15 | (βB)(a); _(βB)(a): B 1_ | unspecified | [6] Spear 1990 | Table 3, p. 3, row 10; `ORC-RG6DQ6XSPD.55c0e9` |  |
+| Lattice a | 10.9253 Å | 298.15 | (βB)(a); _(βB)(a): B 1_ | unspecified | [6] Spear 1990 | Table 3, p. 3, row 11; `ORC-V2BKWVD6KJ.2884e6` |  |
+| Lattice a | 10.9382 Å ± 5.000e-4 | 298.15 | B | model | [7] Duschanek 1995; _cites Crespo 1981_ | Table 2, p. 3, row 44; `ORC-6V7DZHVG7T.0b2646` |  |
+| Lattice a | 10.9276 Å ± 5.000e-4 | 298.15 | B | model | [7] Duschanek 1995; _cites Crespo 1981_ | Table 2, p. 3, row 43; `ORC-GS3BVBGHQK.800064` |  |
+| Lattice a | 10.9251 Å | 298.15 | B | experimental | [7] Duschanek 1995; _cites Callmer 1977_ | Table 2, p. 3, row 42; `ORC-MGBWCBEQZE.5db1bc` |  |
+| Lattice a | 1.017 not_printed | 298.15 | β(B) | experimental | [1] Premović 2017; _cites Geist 1970_ | Table 1, p. 2, row 1; `ORC-I3MRATB5XE.610d73` |  |
+| Lattice a | 10.927 Å | 298.15 | βB | unspecified | [8] Duschanek 1995; _cites ref. 85Vil_ | Table 3, p. 4, row 2; `ORC-KBW7C3ROU6.416ec1` |  |
+| Lattice a | 10.925 Å | 298.15 | βB | model | [9] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 13; `ORC-PNRGNW4COF.f037c3` |  |
+| Lattice a | 10.9251 Å | 298.15 | βB | unspecified | [8] Duschanek 1995 | Table 3, p. 4, row 1; `ORC-YHHCSEJX5B.8114c1` |  |
+| Lattice b | 1.017 not_printed | 298.15 | β(B) | experimental | [1] Premović 2017; _cites Geist 1970_ | Table 1, p. 2, row 1; `ORC-I3MRATB5XE.2d307c` |  |
+| Lattice b | 23.81 Å | 298.15 | βB | model | [9] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 13; `ORC-PNRGNW4COF.a1d28f` |  |
+| Lattice c | 23.8143 Å | 298.15 | (βB)(a); _(βB)(a): B 1_ | unspecified | [6] Spear 1990 | Table 3, p. 3, row 10; `ORC-RG6DQ6XSPD.0c4c49` |  |
+| Lattice c | 23.8103 Å | 298.15 | (βB)(a); _(βB)(a): B 1_ | unspecified | [6] Spear 1990 | Table 3, p. 3, row 11; `ORC-V2BKWVD6KJ.aff3ec` |  |
+| Lattice c | 23.8356 Å ± 0.0018 | 298.15 | B | model | [7] Duschanek 1995; _cites Crespo 1981_ | Table 2, p. 3, row 44; `ORC-6V7DZHVG7T.86dc25` |  |
+| Lattice c | 23.8141 Å ± 0.0015 | 298.15 | B | model | [7] Duschanek 1995; _cites Crespo 1981_ | Table 2, p. 3, row 43; `ORC-GS3BVBGHQK.671092` |  |
+| Lattice c | 23.8143 Å | 298.15 | B | experimental | [7] Duschanek 1995; _cites Callmer 1977_ | Table 2, p. 3, row 42; `ORC-MGBWCBEQZE.e28c5f` |  |
+| Lattice c | 23.8865 Å | 298.15 | βB | unspecified | [8] Duschanek 1995; _cites ref. 85Vil_ | Table 3, p. 4, row 2; `ORC-KBW7C3ROU6.90f1c9` |  |
+| Lattice c | 23.8143 Å | 298.15 | βB | unspecified | [8] Duschanek 1995 | Table 3, p. 4, row 1; `ORC-YHHCSEJX5B.999c27` |  |
+| lattice alpha | 65.12 not_printed | 298.15 | β(B) | experimental | [1] Premović 2017; _cites Geist 1970_ | Table 1, p. 2, row 1; `ORC-I3MRATB5XE.e272fd` |  |
+| lattice v | 2469.72 nm3 × 10^3 | 298.15 | B | model | [7] Duschanek 1995; _cites Crespo 1981_ | Table 2, p. 3, row 44; `ORC-6V7DZHVG7T.690743` |  |
+| lattice v | 2462.72 nm3 × 10^3 | 298.15 | B | model | [7] Duschanek 1995; _cites Crespo 1981_ | Table 2, p. 3, row 43; `ORC-GS3BVBGHQK.34e616` |  |
+| lattice v | 2461.61 nm3 × 10^3 | 298.15 | B | experimental | [7] Duschanek 1995; _cites Callmer 1977_ | Table 2, p. 3, row 42; `ORC-MGBWCBEQZE.7e11e0` |  |
 
 ## Sources
 
@@ -146,4 +146,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

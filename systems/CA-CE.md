@@ -59,19 +59,19 @@ Table: Invariant reactions reported in the literature for the Ca–Ce system (13
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1123.15 | L′ + L″ = βCa |  | model | [1] Hampl 2007 | Table 3, p. 5, row 1 |  |
-| 1122.15 | L′ + L″ = βCa |  | experimental | [1] Hampl 2007 | Table 3, p. 5, row 2 |  |
-| 1108 | Liquid 1 -> bcc(Ca) + liquid 2 | Liquid 1: Ce 0.002 | experimental | [2] Zhang 2008; _cites Gschneider 1961_ | Table 5, p. 4, row 3 |  |
-| 1105.8 | Liquid 1 -> bcc(Ca) + liquid 2 | Liquid 1: Ce 0.0027; bcc(Ca): Ce 2.300e-4; liquid 2: Ce 0.9997 | model | [2] Zhang 2008 | Table 5, p. 4, row 4 |  |
-| 1079.15 | L″ + βCa = βCe |  | model | [1] Hampl 2007 | Table 3, p. 5, row 3 |  |
-| 1078.15 | L″ + βCa = βCe |  | experimental | [1] Hampl 2007 | Table 3, p. 5, row 4 |  |
-| 1061.7 | Liquid 1 -> bcc(Ce) + bcc(Ca) | Liquid 1: Ce 0.998; bcc(Ce): Ce 0.9998; bcc(Ca): Ce 1.500e-5 | model | [2] Zhang 2008 | Table 5, p. 4, row 2 |  |
-| 993.15 | βCe = αCe + βCa |  | model | [1] Hampl 2007 | Table 3, p. 5, row 5 |  |
-| 993.15 | βCe = αCe + βCa |  | experimental | [1] Hampl 2007 | Table 3, p. 5, row 6 |  |
-| 787.15 | eutectic |  | model | [1] Hampl 2007 | p. 7 | “This eutectic matrix, corresponding to reaction E2 at 514 °C, consists mainly of (Mg) and CaMg2 with a small amount of CeMg12 and a calculated overall composition of 10 at.% Ca and 0.45 at.% Ce.” |
-| 787.15 | eutectic |  | model | [1] Hampl 2007 | p. 7 | “Under Scheil conditions a solid phase cannot be consumed; all of the Ce5Mg41 is frozen-in and solidification proceeds along the monovariant eutectic L = CaMg2 + CeMg12 until the ternary eutectic E2 at 514 °C is reached with a large amount (30%) of residual liquid, 10 times more than in the equilibrium case.” |
-| 727.15 | βCa = αCa (+αCe) |  | experimental | [1] Hampl 2007 | Table 3, p. 5, row 8 |  |
-| 715.15 | βCa = αCa (+αCe) |  | model | [1] Hampl 2007 | Table 3, p. 5, row 7 |  |
+| 1123.15 | L′ + L″ = βCa |  | model | [1] Hampl 2007 | Table 3, p. 5, row 1; `ORC-WSQP63RRHM` |  |
+| 1122.15 | L′ + L″ = βCa |  | experimental | [1] Hampl 2007 | Table 3, p. 5, row 2; `ORC-UYJPR4GJP4` |  |
+| 1108 | Liquid 1 -> bcc(Ca) + liquid 2 | Liquid 1: Ce 0.002 | experimental | [2] Zhang 2008; _cites Gschneider 1961_ | Table 5, p. 4, row 3; `ORC-HEBZHG3B35` |  |
+| 1105.8 | Liquid 1 -> bcc(Ca) + liquid 2 | Liquid 1: Ce 0.0027; bcc(Ca): Ce 2.300e-4; liquid 2: Ce 0.9997 | model | [2] Zhang 2008 | Table 5, p. 4, row 4; `ORC-N4MA27PAMO` |  |
+| 1079.15 | L″ + βCa = βCe |  | model | [1] Hampl 2007 | Table 3, p. 5, row 3; `ORC-WT7M5H2XAQ` |  |
+| 1078.15 | L″ + βCa = βCe |  | experimental | [1] Hampl 2007 | Table 3, p. 5, row 4; `ORC-LPZBTFLHRE` |  |
+| 1061.7 | Liquid 1 -> bcc(Ce) + bcc(Ca) | Liquid 1: Ce 0.998; bcc(Ce): Ce 0.9998; bcc(Ca): Ce 1.500e-5 | model | [2] Zhang 2008 | Table 5, p. 4, row 2; `ORC-S4DNF4EHDS` |  |
+| 993.15 | βCe = αCe + βCa |  | model | [1] Hampl 2007 | Table 3, p. 5, row 5; `ORC-G2BYHCLJPN.270ed0` |  |
+| 993.15 | βCe = αCe + βCa |  | experimental | [1] Hampl 2007 | Table 3, p. 5, row 6; `ORC-G2BYHCLJPN.eaa1f5` |  |
+| 787.15 | eutectic |  | model | [1] Hampl 2007 | p. 7; `ORC-5TDVGGGANL` | “This eutectic matrix, corresponding to reaction E2 at 514 °C, consists mainly of (Mg) and CaMg2 with a small amount of CeMg12 and a calculated overall composition of 10 at.% Ca and 0.45 at.% Ce.” |
+| 787.15 | eutectic |  | model | [1] Hampl 2007 | p. 7; `ORC-QZ3LNTH66V` | “Under Scheil conditions a solid phase cannot be consumed; all of the Ce5Mg41 is frozen-in and solidification proceeds along the monovariant eutectic L = CaMg2 + CeMg12 until the ternary eutectic E2 at 514 °C is reached with a large amount (30%) of residual liquid, 10 times more than in the equilibrium case.” |
+| 727.15 | βCa = αCa (+αCe) |  | experimental | [1] Hampl 2007 | Table 3, p. 5, row 8; `ORC-SWID5PSBKS` |  |
+| 715.15 | βCa = αCa (+αCe) |  | model | [1] Hampl 2007 | Table 3, p. 5, row 7; `ORC-NGOASBEWAL` |  |
 
 ## Other properties
 
@@ -81,9 +81,9 @@ Table: Phase transition, Ca–Ce system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 855.15 K | 855.15 | other | model | [1] Hampl 2007 | p. 7 | “So far the Scheil and equilibrium calculations for this alloy are essentially the same until reaction U5 at 582 °C is reached.” |
-| Phase transition | 884.15 K | 884.15 | other | model | [1] Hampl 2007 | p. 4 | “The seemingly similar reaction U4 at 611 °C is not degenerate, even though the liquid contains only 0.02 at.% Ca.” |
-| Phase transition | 1123.15 K | 1123.15 | other | model | [1] Hampl 2007 | p. 6 | “It is noted that the invariant reaction at 850 °C is not a monotectic but a syntectic one, due to the solid solubility.” |
+| Phase transition | 855.15 K | 855.15 | other | model | [1] Hampl 2007 | p. 7; `ORC-EWFYE3U5MW` | “So far the Scheil and equilibrium calculations for this alloy are essentially the same until reaction U5 at 582 °C is reached.” |
+| Phase transition | 884.15 K | 884.15 | other | model | [1] Hampl 2007 | p. 4; `ORC-7DS2SMUJJJ` | “The seemingly similar reaction U4 at 611 °C is not degenerate, even though the liquid contains only 0.02 at.% Ca.” |
+| Phase transition | 1123.15 K | 1123.15 | other | model | [1] Hampl 2007 | p. 6; `ORC-ECYE3CLABP` | “It is noted that the invariant reaction at 850 °C is not a monotectic but a syntectic one, due to the solid solubility.” |
 
 ### Mixing / partial (12)
 
@@ -91,18 +91,18 @@ Table: Mixing / partial, Ca–Ce system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing | 22.719 kJ/mol (basis unstated) | 0 | Ca0.25Ce0.75; _alloy: Ce 0.75_ | DFT | [2] Zhang 2008 | Table 1, p. 2, row 7 |  |
-| Enthalpy of mixing | 18.208 kJ/mol (basis unstated) | 0 | Ca0.25Ce0.75 (with magnetic); _alloy: Ce 0.75_ | DFT | [2] Zhang 2008 | Table 1, p. 2, row 10 |  |
-| Enthalpy of mixing | 21.928 kJ/mol (basis unstated) | 0 | Ca0.50Ce0.50; _alloy: Ce 0.5_ | DFT | [2] Zhang 2008 | Table 1, p. 2, row 8 |  |
-| Enthalpy of mixing | 20.989 kJ/mol (basis unstated) | 0 | Ca0.50Ce0.50 (with magnetic); _alloy: Ce 0.5_ | DFT | [2] Zhang 2008 | Table 1, p. 2, row 11 |  |
-| Enthalpy of mixing | 16.488 kJ/mol (basis unstated) | 0 | Ca0.75Ce0.25; _alloy: Ce 0.25_ | DFT | [2] Zhang 2008 | Table 1, p. 2, row 9 |  |
-| Enthalpy of mixing | 15.827 kJ/mol (basis unstated) | 0 | Ca0.75Ce0.25 (with magnetic); _alloy: Ce 0.25_ | DFT | [2] Zhang 2008 | Table 1, p. 2, row 12 |  |
-| Enthalpy of mixing | 15.827 kJ/mol (basis unstated) | 0 | bcc; _alloy: Ce 0.25_ | DFT | [2] Zhang 2008 | Table 1, p. 2, row 12 |  |
-| Enthalpy of mixing | 22.719 kJ/mol (basis unstated) | 0 | bcc; _alloy: Ce 0.75_ | DFT | [2] Zhang 2008 | Table 1, p. 2, row 7 |  |
-| Enthalpy of mixing | 20.989 kJ/mol (basis unstated) | 0 | bcc; _alloy: Ce 0.5_ | DFT | [2] Zhang 2008 | Table 1, p. 2, row 11 |  |
-| Enthalpy of mixing | 21.928 kJ/mol (basis unstated) | 0 | bcc; _alloy: Ce 0.5_ | DFT | [2] Zhang 2008 | Table 1, p. 2, row 8 |  |
-| Enthalpy of mixing | 18.208 kJ/mol (basis unstated) | 0 | bcc; _alloy: Ce 0.75_ | DFT | [2] Zhang 2008 | Table 1, p. 2, row 10 |  |
-| Enthalpy of mixing | 16.488 kJ/mol (basis unstated) | 0 | bcc; _alloy: Ce 0.25_ | DFT | [2] Zhang 2008 | Table 1, p. 2, row 9 |  |
+| Enthalpy of mixing | 22.719 kJ/mol (basis unstated) | 0 | Ca0.25Ce0.75; _alloy: Ce 0.75_ | DFT | [2] Zhang 2008 | Table 1, p. 2, row 7; `ORC-NYR25J2W6W.a1082e` |  |
+| Enthalpy of mixing | 18.208 kJ/mol (basis unstated) | 0 | Ca0.25Ce0.75 (with magnetic); _alloy: Ce 0.75_ | DFT | [2] Zhang 2008 | Table 1, p. 2, row 10; `ORC-SIEPAIBPXM.244a38` |  |
+| Enthalpy of mixing | 21.928 kJ/mol (basis unstated) | 0 | Ca0.50Ce0.50; _alloy: Ce 0.5_ | DFT | [2] Zhang 2008 | Table 1, p. 2, row 8; `ORC-QNDEAXOLL5.0e88b5` |  |
+| Enthalpy of mixing | 20.989 kJ/mol (basis unstated) | 0 | Ca0.50Ce0.50 (with magnetic); _alloy: Ce 0.5_ | DFT | [2] Zhang 2008 | Table 1, p. 2, row 11; `ORC-P7U2CENYCK.6c3786` |  |
+| Enthalpy of mixing | 16.488 kJ/mol (basis unstated) | 0 | Ca0.75Ce0.25; _alloy: Ce 0.25_ | DFT | [2] Zhang 2008 | Table 1, p. 2, row 9; `ORC-ZTPNVK5IUU.2eb401` |  |
+| Enthalpy of mixing | 15.827 kJ/mol (basis unstated) | 0 | Ca0.75Ce0.25 (with magnetic); _alloy: Ce 0.25_ | DFT | [2] Zhang 2008 | Table 1, p. 2, row 12; `ORC-JBHRDSH3AR.3b4837` |  |
+| Enthalpy of mixing | 15.827 kJ/mol (basis unstated) | 0 | bcc; _alloy: Ce 0.25_ | DFT | [2] Zhang 2008 | Table 1, p. 2, row 12; `ORC-JBHRDSH3AR.0fa550` |  |
+| Enthalpy of mixing | 22.719 kJ/mol (basis unstated) | 0 | bcc; _alloy: Ce 0.75_ | DFT | [2] Zhang 2008 | Table 1, p. 2, row 7; `ORC-NYR25J2W6W.9d6b54` |  |
+| Enthalpy of mixing | 20.989 kJ/mol (basis unstated) | 0 | bcc; _alloy: Ce 0.5_ | DFT | [2] Zhang 2008 | Table 1, p. 2, row 11; `ORC-P7U2CENYCK.6ce03d` |  |
+| Enthalpy of mixing | 21.928 kJ/mol (basis unstated) | 0 | bcc; _alloy: Ce 0.5_ | DFT | [2] Zhang 2008 | Table 1, p. 2, row 8; `ORC-QNDEAXOLL5.f99e88` |  |
+| Enthalpy of mixing | 18.208 kJ/mol (basis unstated) | 0 | bcc; _alloy: Ce 0.75_ | DFT | [2] Zhang 2008 | Table 1, p. 2, row 10; `ORC-SIEPAIBPXM.85ae98` |  |
+| Enthalpy of mixing | 16.488 kJ/mol (basis unstated) | 0 | bcc; _alloy: Ce 0.25_ | DFT | [2] Zhang 2008 | Table 1, p. 2, row 9; `ORC-ZTPNVK5IUU.f64307` |  |
 
 ### Crystal structure (2)
 
@@ -110,8 +110,8 @@ Table: Crystal structure, Ca–Ce system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| lattice unspecified axis; _printed: Lattice parameter_ | 4.5 Å |  | bcc; _alloy: Ce 0_ | experimental | [2] Zhang 2008; _cites Lide 2002_ | Table 1, p. 2, row 2 |  |
-| lattice unspecified axis; _printed: Calculated lattice parameter_ | 4.4 Å | 0 | bcc; _alloy: Ce 0_ | DFT | [2] Zhang 2008 | Table 1, p. 2, row 1 |  |
+| lattice unspecified axis; _printed: Lattice parameter_ | 4.5 Å |  | bcc; _alloy: Ce 0_ | experimental | [2] Zhang 2008; _cites Lide 2002_ | Table 1, p. 2, row 2; `ORC-VY23HMPA22.cbb807` |  |
+| lattice unspecified axis; _printed: Calculated lattice parameter_ | 4.4 Å | 0 | bcc; _alloy: Ce 0_ | DFT | [2] Zhang 2008 | Table 1, p. 2, row 1; `ORC-YNXT2G6ACN.56d59c` |  |
 
 ## Sources
 
@@ -177,4 +177,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

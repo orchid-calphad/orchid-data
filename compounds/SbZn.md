@@ -14,33 +14,33 @@ Table: Enthalpy of formation of SbZn reported in the literature (27)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -20.011 kJ/mol-atom | SbZn | 804 | experimental | emf | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007; _cites DeWitt 1939_ [doi](https://doi.org/10.1021/ja01266a055) | Table 4, p. 4, row 10 |  |
-| -20.011 kJ/mol-atom | SbZn | 804.15 | experimental | EMF | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [2] Zhang 2022; _cites Seltz 1940_ [doi](https://doi.org/10.1149/1.3521200) | Table 8, p. 14, row 11 |  |
-| -15.052 kJ/mol-atom | SbZn | 298.15 | experimental | Calorimetry | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007; _cites Oelsen 1937_ | Table 4, p. 4, row 12 |  |
-| -15.052 kJ/mol-atom | SbZn | 298.15 | experimental | Calorimetry | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [2] Zhang 2022; _cites Oelsen 1937_ | Table 8, p. 14, row 2 |  |
-| -14.853 kJ/mol-atom | SbZn | 298.15 | experimental | Vapor | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007; _cites Hirayama 1963_ [doi](https://doi.org/10.1149/1.2425680) | Table 4, p. 4, row 6 |  |
-| -14.853 kJ/mol-atom | SbZn | 298.15 | experimental | Vapor | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [2] Zhang 2022; _cites Hirayama 1963_ [doi](https://doi.org/10.1149/1.2425680) | Table 8, p. 14, row 3 |  |
-| -12.845 kJ/mol-atom | SbZn | 298.15 | experimental | emf | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007; _cites DeWitt 1939_ [doi](https://doi.org/10.1021/ja01266a055) | Table 4, p. 4, row 8 |  |
-| -12.845 kJ/mol-atom | SbZn | 298.15 | experimental | EMF | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [2] Zhang 2022; _cites Seltz 1940_ [doi](https://doi.org/10.1149/1.3521200) | Table 8, p. 14, row 1 |  |
-| -11.89 kJ/mol-atom | SbZn | 750.15 | experimental | EMF | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [2] Zhang 2022; _cites Zabdyr 1981_ | Table 8, p. 14, row 9 |  |
-| -11.89 kJ/mol-atom | SbZn | 750 | experimental | emf | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007; _cites Zabdyr 1981_ | Table 4, p. 4, row 14 |  |
-| -11.89 kJ/mol-atom | β(SbZn) | 723.15 | experimental |  | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [3] Liu 2000; _cites Zabdyr 1981_ | Table 2, p. 3, row 11 |  |
-| -10.9 kJ/mol-atom | SbZn | 420.15 | experimental | EMF | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [2] Zhang 2022; _cites Goryacheva 1997_ | Table 8, p. 14, row 5 |  |
-| -10.9 kJ/mol-atom | SbZn | 420 | experimental | emf | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007; _cites Goryacheva 1997_ | Table 4, p. 4, row 2 |  |
-| -9.517 kJ/mol-atom ± 0.627 | β(SbZn) | 700.15 | experimental |  | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [3] Liu 2000; _cites Hultgren 1973_ | Table 2, p. 3, row 12 |  |
-| -9.517 kJ/mol-atom | SbZn | 700.15 | experimental | EMF | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [2] Zhang 2022; _cites Hultgren 1978_ | Table 8, p. 14, row 7 |  |
-| -25.086 kJ/mol-atom | SbZn | 804 | model |  | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007 | Table 4, p. 4, row 9 |  |
-| -24.9572 kJ/mol-atom | SbZn | 804.15 | model | Calculation | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [2] Zhang 2022 | Table 8, p. 14, row 12 |  |
-| -15.149 kJ/mol-atom | SbZn | 750 | model |  | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007 | Table 4, p. 4, row 13 |  |
-| -15.102 kJ/mol-atom | SbZn | 750.15 | model | Calculation | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [2] Zhang 2022 | Table 8, p. 14, row 10 |  |
-| -11.541 kJ/mol-atom | β(SbZn) |  | model |  | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [3] Liu 2000 | Table 2, p. 3, row 10 |  |
-| -11.4879 kJ/mol-atom | SbZn | 298.15 | model | Calculation | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [2] Zhang 2022 | Table 8, p. 14, row 4 |  |
-| -11.4875 kJ/mol-atom | SbZn | 420.15 | model | Calculation | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [2] Zhang 2022 | Table 8, p. 14, row 6 |  |
-| -11.459 kJ/mol-atom | SbZn | 298.15 | model |  | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007 | Table 4, p. 4, row 7 |  |
-| -11.455 kJ/mol-atom | SbZn | 420 | model |  | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007 | Table 4, p. 4, row 1 |  |
-| -11.455 kJ/mol-atom | SbZn | 700 | model |  | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007 | Table 4, p. 4, row 3 |  |
-| -11.4395 kJ/mol-atom | SbZn | 700.15 | model | Calculation | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [2] Zhang 2022 | Table 8, p. 14, row 8 |  |
-| -9.517 kJ/mol-atom | SbZn | 700 | model | Evaluated | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007; _cites Hulgren 1973_ | Table 4, p. 4, row 4 |  |
+| -20.011 kJ/mol-atom | SbZn | 804 | experimental | emf | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007; _cites DeWitt 1939_ [doi](https://doi.org/10.1021/ja01266a055) | Table 4, p. 4, row 10; `ORC-6KZI7KX5JB.0a3b52` |  |
+| -20.011 kJ/mol-atom | SbZn | 804.15 | experimental | EMF | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [2] Zhang 2022; _cites Seltz 1940_ [doi](https://doi.org/10.1149/1.3521200) | Table 8, p. 14, row 11; `ORC-KGYH6LY3EJ.84a3f9` |  |
+| -15.052 kJ/mol-atom | SbZn | 298.15 | experimental | Calorimetry | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007; _cites Oelsen 1937_ | Table 4, p. 4, row 12; `ORC-27XO4HPAOZ.560330` |  |
+| -15.052 kJ/mol-atom | SbZn | 298.15 | experimental | Calorimetry | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [2] Zhang 2022; _cites Oelsen 1937_ | Table 8, p. 14, row 2; `ORC-VZTUEMSCRU` |  |
+| -14.853 kJ/mol-atom | SbZn | 298.15 | experimental | Vapor | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007; _cites Hirayama 1963_ [doi](https://doi.org/10.1149/1.2425680) | Table 4, p. 4, row 6; `ORC-2MDAMARU3A.3ab478` |  |
+| -14.853 kJ/mol-atom | SbZn | 298.15 | experimental | Vapor | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [2] Zhang 2022; _cites Hirayama 1963_ [doi](https://doi.org/10.1149/1.2425680) | Table 8, p. 14, row 3; `ORC-7EXHM5F5PH` |  |
+| -12.845 kJ/mol-atom | SbZn | 298.15 | experimental | emf | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007; _cites DeWitt 1939_ [doi](https://doi.org/10.1021/ja01266a055) | Table 4, p. 4, row 8; `ORC-5FM66R6W4S.2b6a0c` |  |
+| -12.845 kJ/mol-atom | SbZn | 298.15 | experimental | EMF | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [2] Zhang 2022; _cites Seltz 1940_ [doi](https://doi.org/10.1149/1.3521200) | Table 8, p. 14, row 1; `ORC-O5PVWPM5VG` |  |
+| -11.89 kJ/mol-atom | SbZn | 750.15 | experimental | EMF | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [2] Zhang 2022; _cites Zabdyr 1981_ | Table 8, p. 14, row 9; `ORC-UN32LPDZOH.9644de` |  |
+| -11.89 kJ/mol-atom | SbZn | 750 | experimental | emf | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007; _cites Zabdyr 1981_ | Table 4, p. 4, row 14; `ORC-UZ5GR3NBH7.4f3489` |  |
+| -11.89 kJ/mol-atom | β(SbZn) | 723.15 | experimental |  | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [3] Liu 2000; _cites Zabdyr 1981_ | Table 2, p. 3, row 11; `ORC-WYL2GD26DJ.21e8e6` |  |
+| -10.9 kJ/mol-atom | SbZn | 420.15 | experimental | EMF | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [2] Zhang 2022; _cites Goryacheva 1997_ | Table 8, p. 14, row 5; `ORC-QB7KEQZ7NP.753ee0` |  |
+| -10.9 kJ/mol-atom | SbZn | 420 | experimental | emf | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007; _cites Goryacheva 1997_ | Table 4, p. 4, row 2; `ORC-YVLBOQ5WZM.2cc9d4` |  |
+| -9.517 kJ/mol-atom ± 0.627 | β(SbZn) | 700.15 | experimental |  | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [3] Liu 2000; _cites Hultgren 1973_ | Table 2, p. 3, row 12; `ORC-LXX7M4I7II.8ceaee` |  |
+| -9.517 kJ/mol-atom | SbZn | 700.15 | experimental | EMF | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [2] Zhang 2022; _cites Hultgren 1978_ | Table 8, p. 14, row 7; `ORC-WP35MO5EGA.5dfe3e` |  |
+| -25.086 kJ/mol-atom | SbZn | 804 | model |  | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007 | Table 4, p. 4, row 9; `ORC-GJR4EUMWYF.c040bc` |  |
+| -24.9572 kJ/mol-atom | SbZn | 804.15 | model | Calculation | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [2] Zhang 2022 | Table 8, p. 14, row 12; `ORC-LUMCSKWV67.d3c06c` |  |
+| -15.149 kJ/mol-atom | SbZn | 750 | model |  | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007 | Table 4, p. 4, row 13; `ORC-K7LVIQZ7M5.1812cf` |  |
+| -15.102 kJ/mol-atom | SbZn | 750.15 | model | Calculation | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [2] Zhang 2022 | Table 8, p. 14, row 10; `ORC-KRTUSQP322.d2235c` |  |
+| -11.541 kJ/mol-atom | β(SbZn) |  | model |  | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [3] Liu 2000 | Table 2, p. 3, row 10; `ORC-CFKGQIIWYF.4e66c7` |  |
+| -11.4879 kJ/mol-atom | SbZn | 298.15 | model | Calculation | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [2] Zhang 2022 | Table 8, p. 14, row 4; `ORC-L5MAOTGUXB.e42c9a` |  |
+| -11.4875 kJ/mol-atom | SbZn | 420.15 | model | Calculation | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [2] Zhang 2022 | Table 8, p. 14, row 6; `ORC-ZFD2AE7PNV.b37398` |  |
+| -11.459 kJ/mol-atom | SbZn | 298.15 | model |  | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007 | Table 4, p. 4, row 7; `ORC-UBYA6L7PJN.34975c` |  |
+| -11.455 kJ/mol-atom | SbZn | 420 | model |  | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007 | Table 4, p. 4, row 1; `ORC-LAENHZK3Y6.a8b5fd` |  |
+| -11.455 kJ/mol-atom | SbZn | 700 | model |  | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007 | Table 4, p. 4, row 3; `ORC-N4ABGBP2DJ.0ae061` |  |
+| -11.4395 kJ/mol-atom | SbZn | 700.15 | model | Calculation | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [2] Zhang 2022 | Table 8, p. 14, row 8; `ORC-ZF4IE5PFSW.0ba69c` |  |
+| -9.517 kJ/mol-atom | SbZn | 700 | model | Evaluated | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007; _cites Hulgren 1973_ | Table 4, p. 4, row 4; `ORC-ZHI4RONI5E.0b26c2` |  |
 
 ### Uncertainty budget
 
@@ -144,4 +144,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

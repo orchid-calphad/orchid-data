@@ -54,17 +54,17 @@ Table: Invariant reactions reported in the literature for the Gd–Mo system (11
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2745 | monotectic: Liquid I -> Liquid II + bcc-Mo | Liquid I: Mo 0.853; Liquid II: Mo 0.325; bcc-Mo: Mo 0.995 | model | [1] Zinkevich 2001 | Table 5, p. 7, row 2 |  |
-| 2745 | monotectic: liquid I -> liquid II + (Mo) | liquid I: Mo 0.853; liquid II: Mo 0.325; (Mo): Mo 0.995 | model | [2] Zinkevich 2002; _cites Zinkevich 1999_ | Table 4, p. 5, row 2 |  |
-| 2743 | monotectic: liquid I -> liquid II + (Mo) | liquid I: Mo 0.9; (Mo): Mo 0.9906 | experimental | [2] Zinkevich 2002; _cites Brewer 1980_ | Table 4, p. 5, row 1 |  |
-| 2737 | monotectic: Liquid I -> Liquid II + bcc-Mo | Liquid I: Mo 0.9; bcc-Mo: Mo 0.9906 | experimental | [1] Zinkevich 2001; _cites Chuang 1966_ | Table 5, p. 7, row 1 |  |
-| 1573 | eutectic: liquid II -> (Mo) + bccGd | liquid II: Mo 0.0117; (Mo): Mo 0.99978; bccGd: Mo 0.0048 | model | [2] Zinkevich 2002; _cites Zinkevich 1999_ | Table 4, p. 5, row 4 |  |
-| 1573 | eutectic: liquid II -> (Mo) + bccGd | liquid II: Mo 0.03; (Mo): Mo 0.999; bccGd: Mo 0.001 | experimental | [2] Zinkevich 2002; _cites Brewer 1980_ | Table 4, p. 5, row 3 |  |
-| 1572 | eutectic: Liquid II -> bcc-Mo + bcc-Gd | Liquid II: Mo 0.0116; bcc-Mo: Mo 0.99978; bcc-Gd: Mo 0.0048 | model | [1] Zinkevich 2001 | Table 5, p. 7, row 4 |  |
-| 1572 | eutectic: Liquid II -> bcc-Mo + bcc-Gd | Liquid II: Mo 0.03 | unspecified | [1] Zinkevich 2001; _cites Chuang 1966_ | Table 5, p. 7, row 3 |  |
-| 1534 | peritectoid: bccGd + (Mo) -> hcpGd | bccGd: Mo 0.0042; (Mo): Mo 0.99982; hcpGd: Mo 0.0041 | model | [2] Zinkevich 2002; _cites Zinkevich 1999_ | Table 4, p. 5, row 6 |  |
-| 1530 | peritectoid: bccGd + (Mo) -> hcpGd |  | experimental | [2] Zinkevich 2002; _cites Brewer 1980_ | Table 4, p. 5, row 5 |  |
-| 1489 | eutectoid: bcc-Gd + bcc-Mo -> hcp-Gd | bcc-Gd: Mo 0.0036; bcc-Mo: Mo 0.99986; hcp-Gd: Mo 0 | model | [1] Zinkevich 2001 | Table 5, p. 7, row 5 |  |
+| 2745 | monotectic: Liquid I -> Liquid II + bcc-Mo | Liquid I: Mo 0.853; Liquid II: Mo 0.325; bcc-Mo: Mo 0.995 | model | [1] Zinkevich 2001 | Table 5, p. 7, row 2; `ORC-FMPPI34O4X` |  |
+| 2745 | monotectic: liquid I -> liquid II + (Mo) | liquid I: Mo 0.853; liquid II: Mo 0.325; (Mo): Mo 0.995 | model | [2] Zinkevich 2002; _cites Zinkevich 1999_ | Table 4, p. 5, row 2; `ORC-MLUADCKNQ5` |  |
+| 2743 | monotectic: liquid I -> liquid II + (Mo) | liquid I: Mo 0.9; (Mo): Mo 0.9906 | experimental | [2] Zinkevich 2002; _cites Brewer 1980_ | Table 4, p. 5, row 1; `ORC-4P6D5GUGG2` |  |
+| 2737 | monotectic: Liquid I -> Liquid II + bcc-Mo | Liquid I: Mo 0.9; bcc-Mo: Mo 0.9906 | experimental | [1] Zinkevich 2001; _cites Chuang 1966_ | Table 5, p. 7, row 1; `ORC-TOM5CE3V7R` |  |
+| 1573 | eutectic: liquid II -> (Mo) + bccGd | liquid II: Mo 0.0117; (Mo): Mo 0.99978; bccGd: Mo 0.0048 | model | [2] Zinkevich 2002; _cites Zinkevich 1999_ | Table 4, p. 5, row 4; `ORC-ILOFHVN564` |  |
+| 1573 | eutectic: liquid II -> (Mo) + bccGd | liquid II: Mo 0.03; (Mo): Mo 0.999; bccGd: Mo 0.001 | experimental | [2] Zinkevich 2002; _cites Brewer 1980_ | Table 4, p. 5, row 3; `ORC-QWJNUPIIGN` |  |
+| 1572 | eutectic: Liquid II -> bcc-Mo + bcc-Gd | Liquid II: Mo 0.0116; bcc-Mo: Mo 0.99978; bcc-Gd: Mo 0.0048 | model | [1] Zinkevich 2001 | Table 5, p. 7, row 4; `ORC-FDX7GT2QY2` |  |
+| 1572 | eutectic: Liquid II -> bcc-Mo + bcc-Gd | Liquid II: Mo 0.03 | unspecified | [1] Zinkevich 2001; _cites Chuang 1966_ | Table 5, p. 7, row 3; `ORC-IK662HFORS` |  |
+| 1534 | peritectoid: bccGd + (Mo) -> hcpGd | bccGd: Mo 0.0042; (Mo): Mo 0.99982; hcpGd: Mo 0.0041 | model | [2] Zinkevich 2002; _cites Zinkevich 1999_ | Table 4, p. 5, row 6; `ORC-TJJPONQ4TU` |  |
+| 1530 | peritectoid: bccGd + (Mo) -> hcpGd |  | experimental | [2] Zinkevich 2002; _cites Brewer 1980_ | Table 4, p. 5, row 5; `ORC-LPWXLE2QJW` |  |
+| 1489 | eutectoid: bcc-Gd + bcc-Mo -> hcp-Gd | bcc-Gd: Mo 0.0036; bcc-Mo: Mo 0.99986; hcp-Gd: Mo 0 | model | [1] Zinkevich 2001 | Table 5, p. 7, row 5; `ORC-HJMLKH6BIQ` |  |
 
 ## Other properties
 
@@ -74,10 +74,10 @@ Table: Phase transition, Gd–Mo system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1489 K | 1489 | other: bcc-Gd ⫹ bcc-Mo ⇔ hcp-Gd | model | [1] Zinkevich 2001 | p. 7 | “A eutectoid invariant reaction bcc-Gd ⫹ bcc-Mo ⇔ hcp-Gd has been predicted at T ⫽ 1489 K (Fig. 2b, Table 5).” |
-| Phase transition | 1873 K | 1873 | other | experimental | [1] Zinkevich 2001; _cites Chuang 1966_ | p. 2 | “The bcc-Mo solidus composition increases from 0.09 at.% Gd at 1873 K to 0.94 at.% Gd at 2783 K and then decreases to 0.05 at.% Gd at 2843 K.” |
-| Phase transition | 2783 K | 2783 | other | experimental | [1] Zinkevich 2001; _cites Chuang 1966_ | p. 2 | “The bcc-Mo solidus composition increases from 0.09 at.% Gd at 1873 K to 0.94 at.% Gd at 2783 K and then decreases to 0.05 at.% Gd at 2843 K.” |
-| Phase transition | 2843 K | 2843 | other | experimental | [1] Zinkevich 2001; _cites Chuang 1966_ | p. 2 | “The bcc-Mo solidus composition increases from 0.09 at.% Gd at 1873 K to 0.94 at.% Gd at 2783 K and then decreases to 0.05 at.% Gd at 2843 K.” |
+| Phase transition | 1489 K | 1489 | other: bcc-Gd ⫹ bcc-Mo ⇔ hcp-Gd | model | [1] Zinkevich 2001 | p. 7; `ORC-TTLMUDTGRV` | “A eutectoid invariant reaction bcc-Gd ⫹ bcc-Mo ⇔ hcp-Gd has been predicted at T ⫽ 1489 K (Fig. 2b, Table 5).” |
+| Phase transition | 1873 K | 1873 | other | experimental | [1] Zinkevich 2001; _cites Chuang 1966_ | p. 2; `ORC-FCT4EHHLP2.af2d9b` | “The bcc-Mo solidus composition increases from 0.09 at.% Gd at 1873 K to 0.94 at.% Gd at 2783 K and then decreases to 0.05 at.% Gd at 2843 K.” |
+| Phase transition | 2783 K | 2783 | other | experimental | [1] Zinkevich 2001; _cites Chuang 1966_ | p. 2; `ORC-FCT4EHHLP2.b7e8b1` | “The bcc-Mo solidus composition increases from 0.09 at.% Gd at 1873 K to 0.94 at.% Gd at 2783 K and then decreases to 0.05 at.% Gd at 2843 K.” |
+| Phase transition | 2843 K | 2843 | other | experimental | [1] Zinkevich 2001; _cites Chuang 1966_ | p. 2; `ORC-FCT4EHHLP2.861725` | “The bcc-Mo solidus composition increases from 0.09 at.% Gd at 1873 K to 0.94 at.% Gd at 2783 K and then decreases to 0.05 at.% Gd at 2843 K.” |
 
 ### Phase equilibrium (5)
 
@@ -85,11 +85,11 @@ Table: Phase equilibrium, Gd–Mo system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 1572 | Liquid II; _Liquid II: Gd 0.97, Mo 0.03_ | experimental | [1] Zinkevich 2001; _cites Chuang 1966_ | Table 2, p. 3, row 2 |  |
-| Phase composition |  | 1873 | bcc-Mo; _bcc-Mo: Gd 9.000e-4, Mo 0.9991_ | experimental | [1] Zinkevich 2001; _cites Chuang 1966_ | Table 2, p. 3, row 3 |  |
-| Phase composition |  | 2737 | Liquid I + bcc-Mo; _Liquid I: Gd 0.1, Mo 0.9; bcc-Mo: Gd 0.0094, Mo 0.9906_ | experimental | [1] Zinkevich 2001; _cites Chuang 1966_ | Table 2, p. 3, row 1 |  |
-| Phase composition |  | 2783 | bcc-Mo; _bcc-Mo: Gd 0.0094, Mo 0.9906_ | experimental | [1] Zinkevich 2001; _cites Chuang 1966_ | Table 2, p. 3, row 4 |  |
-| Phase composition |  | 2843 | bcc-Mo; _bcc-Mo: Gd 5.000e-4, Mo 0.9995_ | experimental | [1] Zinkevich 2001; _cites Chuang 1966_ | Table 2, p. 3, row 5 |  |
+| Phase composition |  | 1572 | Liquid II; _Liquid II: Gd 0.97, Mo 0.03_ | experimental | [1] Zinkevich 2001; _cites Chuang 1966_ | Table 2, p. 3, row 2; `ORC-USLOFB5ZKR` |  |
+| Phase composition |  | 1873 | bcc-Mo; _bcc-Mo: Gd 9.000e-4, Mo 0.9991_ | experimental | [1] Zinkevich 2001; _cites Chuang 1966_ | Table 2, p. 3, row 3; `ORC-Q5HKM7WB2H` |  |
+| Phase composition |  | 2737 | Liquid I + bcc-Mo; _Liquid I: Gd 0.1, Mo 0.9; bcc-Mo: Gd 0.0094, Mo 0.9906_ | experimental | [1] Zinkevich 2001; _cites Chuang 1966_ | Table 2, p. 3, row 1; `ORC-RJYO6DSFXG` |  |
+| Phase composition |  | 2783 | bcc-Mo; _bcc-Mo: Gd 0.0094, Mo 0.9906_ | experimental | [1] Zinkevich 2001; _cites Chuang 1966_ | Table 2, p. 3, row 4; `ORC-SDFS6VTJXC` |  |
+| Phase composition |  | 2843 | bcc-Mo; _bcc-Mo: Gd 5.000e-4, Mo 0.9995_ | experimental | [1] Zinkevich 2001; _cites Chuang 1966_ | Table 2, p. 3, row 5; `ORC-54EL7CGPEA` |  |
 
 ## Sources
 
@@ -155,4 +155,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

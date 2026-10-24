@@ -14,12 +14,12 @@ Table: Enthalpy of formation of Zn39Zr reported in the literature (6)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -31.7 kJ/mol-atom ± 0.8 | Zn39Zr | 298.15 | experimental |  | [Zn–Zr](https://data.orchid-project.org/systems/ZN-ZR.html) | [1] Arroyave 2006; _cites Chiotti 1960_ | Table 5, p. 8, row 7 |  |
-| -16.3 kJ/mol-atom | Zn39Zr | 298.15 | model |  | [Zn–Zr](https://data.orchid-project.org/systems/ZN-ZR.html) | [1] Arroyave 2006 | Table 5, p. 8, row 11 |  |
-| -16.25 kJ/mol-atom | Zn39Zr | 298.15 | model |  | [Zn–Zr](https://data.orchid-project.org/systems/ZN-ZR.html) | [1] Arroyave 2006 | Table 5, p. 8, row 12 |  |
-| -15.98 kJ/mol-atom | Zn39Zr | 298.15 | model |  | [Zn–Zr](https://data.orchid-project.org/systems/ZN-ZR.html) | [1] Arroyave 2006 | Table 5, p. 8, row 10 |  |
-| -18.06 kJ/mol-atom | Zn39Zr | 298.15 | DFT | LDA | [Zn–Zr](https://data.orchid-project.org/systems/ZN-ZR.html) | [1] Arroyave 2006; _cites Arroyave 2005_ | Table 5, p. 8, row 8 |  |
-| -16.08 kJ/mol-atom | Zn39Zr | 298.15 | DFT | GGA | [Zn–Zr](https://data.orchid-project.org/systems/ZN-ZR.html) | [1] Arroyave 2006; _cites Arroyave 2005_ | Table 5, p. 8, row 9 |  |
+| -31.7 kJ/mol-atom ± 0.8 | Zn39Zr | 298.15 | experimental |  | [Zn–Zr](https://data.orchid-project.org/systems/ZN-ZR.html) | [1] Arroyave 2006; _cites Chiotti 1960_ | Table 5, p. 8, row 7; `ORC-ZAFWTX5LVT` |  |
+| -16.3 kJ/mol-atom | Zn39Zr | 298.15 | model |  | [Zn–Zr](https://data.orchid-project.org/systems/ZN-ZR.html) | [1] Arroyave 2006 | Table 5, p. 8, row 11; `ORC-O73MLSDK62` |  |
+| -16.25 kJ/mol-atom | Zn39Zr | 298.15 | model |  | [Zn–Zr](https://data.orchid-project.org/systems/ZN-ZR.html) | [1] Arroyave 2006 | Table 5, p. 8, row 12; `ORC-Z4GS53W6RS` |  |
+| -15.98 kJ/mol-atom | Zn39Zr | 298.15 | model |  | [Zn–Zr](https://data.orchid-project.org/systems/ZN-ZR.html) | [1] Arroyave 2006 | Table 5, p. 8, row 10; `ORC-XLSHF6ENWL` |  |
+| -18.06 kJ/mol-atom | Zn39Zr | 298.15 | DFT | LDA | [Zn–Zr](https://data.orchid-project.org/systems/ZN-ZR.html) | [1] Arroyave 2006; _cites Arroyave 2005_ | Table 5, p. 8, row 8; `ORC-54DWQ2F6OF` |  |
+| -16.08 kJ/mol-atom | Zn39Zr | 298.15 | DFT | GGA | [Zn–Zr](https://data.orchid-project.org/systems/ZN-ZR.html) | [1] Arroyave 2006; _cites Arroyave 2005_ | Table 5, p. 8, row 9; `ORC-GAY3KHPVKU` |  |
 
 ### Uncertainty budget
 
@@ -87,4 +87,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

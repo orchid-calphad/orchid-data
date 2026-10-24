@@ -30,9 +30,9 @@ Table: Invariant reactions reported in the literature for the Fe–Nb–Ni syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1564.05 | eutectic: Liq. ⇔ C14 + D0a |  | model | [1] Mathon 2009 | p. 14 | “Therefore we obtained: - an eutectic at 1477.07 K: 39.9% Fe-15.1% Nb-45% Ni Liq. ⇔ 45% Fe-31.8% Nb-23.2% Ni C14 + 6.2% Fe-24.4% Nb-69.4% Ni D0a + 58.2% Fe-5.9% Nb-35.9% Ni fcc_A1, but for a liquid composition too rich in Fe and not enough in Nb or Ni compared to the liquid composition of \[7\], - and a pseudobinary invariant at 1564.05 K: 14.9% Fe-27.4% Nb -57.7% Ni Liq. ⇔ 39.8% Fe-33.1% Nb-27.1% N…” |
-| 1563 | eutectic: Liq. ⇔ C14 + D0a |  | experimental | [1] Mathon 2009; _cites Panteliemonov 1975_ | p. 13 | “We performed our optimization without any ternary mixing parameters for the liquid and without taking into account the pseudo-binary eutectic found at 1563 K by \[76\] (16.2% Fe-27% Nb-56.8% Ni Liq. ⇔ 38.8% Fe-29.8% Nb-31.4% Ni C14 + 5.1% Fe-25.6% Nb-69.3% Ni D0a ) nor the presence of liquid” |
-| 1477.07 | eutectic: Liq. ⇔ C14 + D0a + fcc_A1 |  | model | [1] Mathon 2009 | p. 14 | “Therefore we obtained: - an eutectic at 1477.07 K: 39.9% Fe-15.1% Nb-45% Ni Liq. ⇔ 45% Fe-31.8% Nb-23.2% Ni C14 + 6.2% Fe-24.4% Nb-69.4% Ni D0a + 58.2% Fe-5.9% Nb-35.9% Ni fcc_A1, but for a liquid composition too rich in Fe and not enough in Nb or Ni compared to the liquid composition of \[7\], - and a pseudobinary invariant at 1564.05 K: 14.9% Fe-27.4% Nb -57.7% Ni Liq. ⇔ 39.8% Fe-33.1% Nb-27.1% N…” |
+| 1564.05 | eutectic: Liq. ⇔ C14 + D0a |  | model | [1] Mathon 2009 | p. 14; `ORC-OMJAHQM42A.431221` | “Therefore we obtained: - an eutectic at 1477.07 K: 39.9% Fe-15.1% Nb-45% Ni Liq. ⇔ 45% Fe-31.8% Nb-23.2% Ni C14 + 6.2% Fe-24.4% Nb-69.4% Ni D0a + 58.2% Fe-5.9% Nb-35.9% Ni fcc_A1, but for a liquid composition too rich in Fe and not enough in Nb or Ni compared to the liquid composition of \[7\], - and a pseudobinary invariant at 1564.05 K: 14.9% Fe-27.4% Nb -57.7% Ni Liq. ⇔ 39.8% Fe-33.1% Nb-27.1% N…” |
+| 1563 | eutectic: Liq. ⇔ C14 + D0a |  | experimental | [1] Mathon 2009; _cites Panteliemonov 1975_ | p. 13; `ORC-2C7MIBHOA7` | “We performed our optimization without any ternary mixing parameters for the liquid and without taking into account the pseudo-binary eutectic found at 1563 K by \[76\] (16.2% Fe-27% Nb-56.8% Ni Liq. ⇔ 38.8% Fe-29.8% Nb-31.4% Ni C14 + 5.1% Fe-25.6% Nb-69.3% Ni D0a ) nor the presence of liquid” |
+| 1477.07 | eutectic: Liq. ⇔ C14 + D0a + fcc_A1 |  | model | [1] Mathon 2009 | p. 14; `ORC-OMJAHQM42A.a7db6d` | “Therefore we obtained: - an eutectic at 1477.07 K: 39.9% Fe-15.1% Nb-45% Ni Liq. ⇔ 45% Fe-31.8% Nb-23.2% Ni C14 + 6.2% Fe-24.4% Nb-69.4% Ni D0a + 58.2% Fe-5.9% Nb-35.9% Ni fcc_A1, but for a liquid composition too rich in Fe and not enough in Nb or Ni compared to the liquid composition of \[7\], - and a pseudobinary invariant at 1564.05 K: 14.9% Fe-27.4% Nb -57.7% Ni Liq. ⇔ 39.8% Fe-33.1% Nb-27.1% N…” |
 
 ## Formation enthalpies
 
@@ -42,49 +42,49 @@ Table: Enthalpies of formation, Fe–Nb–Ni system (43)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| D0_22 |  | -54 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 19 |  |
-| D0_22 |  | -53.845 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 19 |  |
-| D0_22 |  | -37.36 kJ/mol (basis unstated) | 0 | unspecified |  |  | [1] Mathon 2009 | Table 2, p. 10, row 13 |  |
-| D0_22 |  | -26.45 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 19 |  |
-| D0_22 |  | -9.296 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 17 |  |
-| D0_22 |  | -6.396 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 16 |  |
-| D0_22 |  | -0.834 kJ/mol (basis unstated) | 0 | unspecified |  |  | [1] Mathon 2009 | Table 2, p. 10, row 13 |  |
-| D0_22 |  | 2.736 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 16 |  |
-| D0_22 |  | 6.389 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 17 |  |
-| D0_22 |  | 20 kJ/mol (basis unstated) | 0 | unspecified |  |  | [1] Mathon 2009 | Table 2, p. 10, row 13 |  |
-| D0_22 |  | 20 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 20 |  |
-| D0_22 |  | 20 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 17 |  |
-| D0_22 |  | 85.433 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 20 |  |
-| D0_22 |  | 94 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 16 |  |
-| D0_22 |  | 112.828 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 20 |  |
-| D0_22 |  | 147.193 kJ/mol (basis unstated) | 0 | unspecified |  |  | [1] Mathon 2009 | Table 2, p. 10, row 13 |  |
-| D0_22 |  | 183.72 kJ/mol (basis unstated) | 0 | unspecified |  |  | [1] Mathon 2009 | Table 2, p. 10, row 13 |  |
-| D0_a |  | -45.172 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 8 |  |
-| D0_a |  | -29.487 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 8 |  |
-| D0_a |  | -18.89 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 11 |  |
-| D0_a |  | -8.523 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 10 |  |
-| D0_a |  | -8.5 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 10 |  |
-| D0_a |  | -6.291 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 7 |  |
-| D0_a |  | -6.26 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 7 |  |
-| D0_a |  | -3.967 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 4 |  |
-| D0_a |  | 2.841 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 7 |  |
-| D0_a |  | 2.871 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 7 |  |
-| D0_a |  | 4.941 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 10 |  |
-| D0_a |  | 10.689 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 11 |  |
-| D0_a |  | 18.872 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 10 |  |
-| D0_a |  | 20 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 11 |  |
-| D0_a |  | 20 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 8 |  |
-| D0_a |  | 20 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 4 |  |
-| D0_a |  | 32.336 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 10 |  |
-| D0_a |  | 32.56 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 4 |  |
-| D0_a |  | 48.5 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 7 |  |
-| D0_a |  | 48.975 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 8 |  |
-| D0_a |  | 64.66 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 8 |  |
-| D0_a |  | 136.746 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 11 |  |
-| D0_a |  | 166.326 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 11 |  |
-| D8_5 |  | -305.5 kJ/mol (basis unstated) | 0 | unspecified |  |  | [1] Mathon 2009 | Table 2, p. 10, row 2 |  |
-| D8_5 |  | -239.598 kJ/mol (basis unstated) | 0 | unspecified |  |  | [1] Mathon 2009 | Table 2, p. 10, row 2 |  |
-| D8_5 |  | -175.676 kJ/mol (basis unstated) | 0 | unspecified |  |  | [1] Mathon 2009 | Table 2, p. 10, row 2 |  |
+| D0_22 |  | -54 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 19; `ORC-6UTRUGAXXQ.9f850c` |  |
+| D0_22 |  | -53.845 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 19; `ORC-6UTRUGAXXQ.ecfa8b` |  |
+| D0_22 |  | -37.36 kJ/mol (basis unstated) | 0 | unspecified |  |  | [1] Mathon 2009 | Table 2, p. 10, row 13; `ORC-3JWE7SQLQ4.26147a` |  |
+| D0_22 |  | -26.45 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 19; `ORC-6UTRUGAXXQ.b8daaa` |  |
+| D0_22 |  | -9.296 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 17; `ORC-SALT3PGYU3.6a2bdd` |  |
+| D0_22 |  | -6.396 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 16; `ORC-ZSXBTCTE25.27d821` |  |
+| D0_22 |  | -0.834 kJ/mol (basis unstated) | 0 | unspecified |  |  | [1] Mathon 2009 | Table 2, p. 10, row 13; `ORC-3JWE7SQLQ4.8fec87` |  |
+| D0_22 |  | 2.736 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 16; `ORC-ZSXBTCTE25.0086e1` |  |
+| D0_22 |  | 6.389 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 17; `ORC-SALT3PGYU3.85568b` |  |
+| D0_22 |  | 20 kJ/mol (basis unstated) | 0 | unspecified |  |  | [1] Mathon 2009 | Table 2, p. 10, row 13; `ORC-3JWE7SQLQ4.d4039b` |  |
+| D0_22 |  | 20 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 20; `ORC-7OLDL4WGWQ.434e2b` |  |
+| D0_22 |  | 20 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 17; `ORC-SALT3PGYU3.81138c` |  |
+| D0_22 |  | 85.433 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 20; `ORC-7OLDL4WGWQ.e80297` |  |
+| D0_22 |  | 94 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 16; `ORC-ZSXBTCTE25.69bd7d` |  |
+| D0_22 |  | 112.828 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 20; `ORC-7OLDL4WGWQ.1e97d7` |  |
+| D0_22 |  | 147.193 kJ/mol (basis unstated) | 0 | unspecified |  |  | [1] Mathon 2009 | Table 2, p. 10, row 13; `ORC-3JWE7SQLQ4.07ffee` |  |
+| D0_22 |  | 183.72 kJ/mol (basis unstated) | 0 | unspecified |  |  | [1] Mathon 2009 | Table 2, p. 10, row 13; `ORC-3JWE7SQLQ4.be54a8` |  |
+| D0_a |  | -45.172 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 8; `ORC-EZS5T3L2QV.c3c4c3` |  |
+| D0_a |  | -29.487 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 8; `ORC-EZS5T3L2QV.573983` |  |
+| D0_a |  | -18.89 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 11; `ORC-7RWFY7UF7Y.270bb7` |  |
+| D0_a |  | -8.523 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 10; `ORC-ENJBDMSHAG.8c3d63` |  |
+| D0_a |  | -8.5 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 10; `ORC-ENJBDMSHAG.bb4926` |  |
+| D0_a |  | -6.291 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 7; `ORC-G7JIFCZUX3.2fd1b3` |  |
+| D0_a |  | -6.26 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 7; `ORC-G7JIFCZUX3.a0fdf5` |  |
+| D0_a |  | -3.967 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 4; `ORC-S4X5GJYO7H.22ef09` |  |
+| D0_a |  | 2.841 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 7; `ORC-G7JIFCZUX3.536ef0` |  |
+| D0_a |  | 2.871 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 7; `ORC-G7JIFCZUX3.e371a1` |  |
+| D0_a |  | 4.941 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 10; `ORC-ENJBDMSHAG.dfebdd` |  |
+| D0_a |  | 10.689 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 11; `ORC-7RWFY7UF7Y.284e36` |  |
+| D0_a |  | 18.872 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 10; `ORC-ENJBDMSHAG.7eefa5` |  |
+| D0_a |  | 20 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 11; `ORC-7RWFY7UF7Y.11a3ed` |  |
+| D0_a |  | 20 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 8; `ORC-EZS5T3L2QV.df04e7` |  |
+| D0_a |  | 20 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 4; `ORC-S4X5GJYO7H.6efe79` |  |
+| D0_a |  | 32.336 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 10; `ORC-ENJBDMSHAG.7326c1` |  |
+| D0_a |  | 32.56 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 4; `ORC-S4X5GJYO7H.e8d587` |  |
+| D0_a |  | 48.5 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 7; `ORC-G7JIFCZUX3.2e4136` |  |
+| D0_a |  | 48.975 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 8; `ORC-EZS5T3L2QV.b0760f` |  |
+| D0_a |  | 64.66 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 8; `ORC-EZS5T3L2QV.c22f1e` |  |
+| D0_a |  | 136.746 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 11; `ORC-7RWFY7UF7Y.edd9fe` |  |
+| D0_a |  | 166.326 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Mathon 2009 | Table 2, p. 10, row 11; `ORC-7RWFY7UF7Y.b19957` |  |
+| D8_5 |  | -305.5 kJ/mol (basis unstated) | 0 | unspecified |  |  | [1] Mathon 2009 | Table 2, p. 10, row 2; `ORC-DIPBTSROEV.8dbc3b` |  |
+| D8_5 |  | -239.598 kJ/mol (basis unstated) | 0 | unspecified |  |  | [1] Mathon 2009 | Table 2, p. 10, row 2; `ORC-DIPBTSROEV.6fb644` |  |
+| D8_5 |  | -175.676 kJ/mol (basis unstated) | 0 | unspecified |  |  | [1] Mathon 2009 | Table 2, p. 10, row 2; `ORC-DIPBTSROEV.560753` |  |
 
 ## Sources
 
@@ -127,4 +127,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

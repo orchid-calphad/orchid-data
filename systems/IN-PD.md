@@ -63,28 +63,28 @@ Table: Invariant reactions reported in the literature for the In–Pd system (22
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1630 | Liquid = βInPd3 + fcc | βInPd3: Pd 0.75 | experimental | [1] Jiang 2002; _cites Schmid 1987_ | Table II, p. 4, row 26 |  |
-| 1623 | Liquid = βInPd3 + fcc | L: Pd 0.769; βInPd3: Pd 0.75; fcc: Pd 0.796 | model | [1] Jiang 2002 | Table II, p. 4, row 25 |  |
-| 1585 | Liquid = βInPd2 + βInPd3 | L: Pd 0.691; βInPd2: Pd 0.666667; βInPd3: Pd 0.75 | model | [1] Jiang 2002 | Table II, p. 4, row 17 |  |
-| 1576 | Liquid = βInPd2 + βInPd3 | βInPd2: Pd 0.666667; βInPd3: Pd 0.75 | experimental | [1] Jiang 2002; _cites Schmid 1987_ | Table II, p. 4, row 18 |  |
-| 1547 | Liquid = InPd + βInPd2 | InPd: Pd 0.5; βInPd2: Pd 0.666667 | experimental | [1] Jiang 2002; _cites Schmid 1987_ | Table II, p. 4, row 10 |  |
-| 1546 | Liquid = InPd + βInPd2 | L: Pd 0.607; InPd: Pd 0.599; βInPd2: Pd 0.666667 | model | [1] Jiang 2002 | Table II, p. 4, row 9 |  |
-| 1497 | βInPd3 + fcc = αInPd3 | βInPd3: Pd 0.75; fcc: Pd 0.8; αInPd3: Pd 0.75 | model | [1] Jiang 2002 | Table II, p. 4, row 27 |  |
-| 1496 | βInPd3 + fcc = αInPd3 | βInPd3: Pd 0.75; αInPd3: Pd 0.75 | experimental | [1] Jiang 2002; _cites Schmid 1987_ | Table II, p. 4, row 28 |  |
-| 1349 | βInPd2 + βInPd3 = αInPd2 | βInPd2: Pd 0.666667; βInPd3: Pd 0.75; αInPd2: Pd 0.666667 | model | [1] Jiang 2002 | Table II, p. 4, row 19 |  |
-| 1349 | βInPd2 + βInPd3 = αInPd2 | βInPd2: Pd 0.666667; βInPd3: Pd 0.75; αInPd2: Pd 0.666667 | experimental | [1] Jiang 2002; _cites Schmid 1987_ | Table II, p. 4, row 20 |  |
-| 1332 | βInPd3 = αInPd2 + αInPd3 | βInPd3: Pd 0.75; αInPd2: Pd 0.666667; αInPd3: Pd 0.75 | experimental | [1] Jiang 2002; _cites Schmid 1987_ | Table II, p. 4, row 22 |  |
-| 1302 | βInPd3 = αInPd2 + αInPd3 | βInPd3: Pd 0.75; αInPd2: Pd 0.666667; αInPd3: Pd 0.75 | model | [1] Jiang 2002 | Table II, p. 4, row 21 |  |
-| 1219 | InPd + βInPd2 = In3Pd5 | InPd: Pd 0.5; βInPd2: Pd 0.666667; In3Pd5: Pd 0.625 | experimental | [1] Jiang 2002; _cites Schmid 1987_ | Table II, p. 4, row 14 |  |
-| 1219 | InPd + βInPd2 = In3Pd5 | InPd: Pd 0.594; βInPd2: Pd 0.666667; In3Pd5: Pd 0.625 | model | [1] Jiang 2002 | Table II, p. 4, row 13 |  |
-| 1207 | βInPd2 = In3Pd5 + αInPd2 | βInPd2: Pd 0.666667; In3Pd5: Pd 0.625; αInPd2: Pd 0.666667 | model | [1] Jiang 2002 | Table II, p. 4, row 15 |  |
-| 1207 | βInPd2 = In3Pd5 + αInPd2 | βInPd2: Pd 0.666667; In3Pd5: Pd 0.625; αInPd2: Pd 0.666667 | experimental | [1] Jiang 2002; _cites Schmid 1987_ | Table II, p. 4, row 16 |  |
-| 990 | Liquid + InPd = In3Pd2 | L: Pd 0.234; InPd: Pd 0.449; In3Pd2: Pd 0.4 | model | [1] Jiang 2002 | Table II, p. 4, row 5 |  |
-| 986 | Liquid + InPd = In3Pd2 | InPd: Pd 0.5; In3Pd2: Pd 0.4 | experimental | [1] Jiang 2002; _cites Flandorfer 2002_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901859-x) | Table II, p. 4, row 6 |  |
-| 949 | Liquid + In3Pd2 = In7Pd3 | L: Pd 0.21; In3Pd2: Pd 0.4; In7Pd3: Pd 0.3 | model | [1] Jiang 2002 | Table II, p. 4, row 3 |  |
-| 945 | Liquid + In3Pd2 = In7Pd3 | In3Pd2: Pd 0.4; In7Pd3: Pd 0.3 | experimental | [1] Jiang 2002; _cites Flandorfer 2002_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901859-x) | Table II, p. 4, row 4 |  |
-| 430 | Liquid = In(bct) + In7Pd3 | L: Pd 2.380e-4; In(bct): Pd 0; In7Pd3: Pd 0.3 | model | [1] Jiang 2002 | Table II, p. 4, row 1 |  |
-| 427 | Liquid = In(bct) + In7Pd3 | In(bct): Pd 0; In7Pd3: Pd 0.3 | experimental | [1] Jiang 2002; _cites Flandorfer 2002_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901859-x) | Table II, p. 4, row 2 |  |
+| 1630 | Liquid = βInPd3 + fcc | βInPd3: Pd 0.75 | experimental | [1] Jiang 2002; _cites Schmid 1987_ | Table II, p. 4, row 26; `ORC-5HPEYJKVWY` |  |
+| 1623 | Liquid = βInPd3 + fcc | L: Pd 0.769; βInPd3: Pd 0.75; fcc: Pd 0.796 | model | [1] Jiang 2002 | Table II, p. 4, row 25; `ORC-UYGK4XZLWW` |  |
+| 1585 | Liquid = βInPd2 + βInPd3 | L: Pd 0.691; βInPd2: Pd 0.666667; βInPd3: Pd 0.75 | model | [1] Jiang 2002 | Table II, p. 4, row 17; `ORC-GI7H77NYEP` |  |
+| 1576 | Liquid = βInPd2 + βInPd3 | βInPd2: Pd 0.666667; βInPd3: Pd 0.75 | experimental | [1] Jiang 2002; _cites Schmid 1987_ | Table II, p. 4, row 18; `ORC-5A4NCN3WYY` |  |
+| 1547 | Liquid = InPd + βInPd2 | InPd: Pd 0.5; βInPd2: Pd 0.666667 | experimental | [1] Jiang 2002; _cites Schmid 1987_ | Table II, p. 4, row 10; `ORC-TV3Y23XMYS` |  |
+| 1546 | Liquid = InPd + βInPd2 | L: Pd 0.607; InPd: Pd 0.599; βInPd2: Pd 0.666667 | model | [1] Jiang 2002 | Table II, p. 4, row 9; `ORC-RXWYL52BEK` |  |
+| 1497 | βInPd3 + fcc = αInPd3 | βInPd3: Pd 0.75; fcc: Pd 0.8; αInPd3: Pd 0.75 | model | [1] Jiang 2002 | Table II, p. 4, row 27; `ORC-F3J6JIEUA4` |  |
+| 1496 | βInPd3 + fcc = αInPd3 | βInPd3: Pd 0.75; αInPd3: Pd 0.75 | experimental | [1] Jiang 2002; _cites Schmid 1987_ | Table II, p. 4, row 28; `ORC-OHULAZQTLU` |  |
+| 1349 | βInPd2 + βInPd3 = αInPd2 | βInPd2: Pd 0.666667; βInPd3: Pd 0.75; αInPd2: Pd 0.666667 | model | [1] Jiang 2002 | Table II, p. 4, row 19; `ORC-PTUSFHILL3` |  |
+| 1349 | βInPd2 + βInPd3 = αInPd2 | βInPd2: Pd 0.666667; βInPd3: Pd 0.75; αInPd2: Pd 0.666667 | experimental | [1] Jiang 2002; _cites Schmid 1987_ | Table II, p. 4, row 20; `ORC-WWJGJFPDHQ` |  |
+| 1332 | βInPd3 = αInPd2 + αInPd3 | βInPd3: Pd 0.75; αInPd2: Pd 0.666667; αInPd3: Pd 0.75 | experimental | [1] Jiang 2002; _cites Schmid 1987_ | Table II, p. 4, row 22; `ORC-D7DP3WPK2Q` |  |
+| 1302 | βInPd3 = αInPd2 + αInPd3 | βInPd3: Pd 0.75; αInPd2: Pd 0.666667; αInPd3: Pd 0.75 | model | [1] Jiang 2002 | Table II, p. 4, row 21; `ORC-NM5JJVTTOQ` |  |
+| 1219 | InPd + βInPd2 = In3Pd5 | InPd: Pd 0.5; βInPd2: Pd 0.666667; In3Pd5: Pd 0.625 | experimental | [1] Jiang 2002; _cites Schmid 1987_ | Table II, p. 4, row 14; `ORC-42GWW3UVHB` |  |
+| 1219 | InPd + βInPd2 = In3Pd5 | InPd: Pd 0.594; βInPd2: Pd 0.666667; In3Pd5: Pd 0.625 | model | [1] Jiang 2002 | Table II, p. 4, row 13; `ORC-E7NQGYRIB5` |  |
+| 1207 | βInPd2 = In3Pd5 + αInPd2 | βInPd2: Pd 0.666667; In3Pd5: Pd 0.625; αInPd2: Pd 0.666667 | model | [1] Jiang 2002 | Table II, p. 4, row 15; `ORC-33EK4YYVKO` |  |
+| 1207 | βInPd2 = In3Pd5 + αInPd2 | βInPd2: Pd 0.666667; In3Pd5: Pd 0.625; αInPd2: Pd 0.666667 | experimental | [1] Jiang 2002; _cites Schmid 1987_ | Table II, p. 4, row 16; `ORC-A7K7DZMXKN` |  |
+| 990 | Liquid + InPd = In3Pd2 | L: Pd 0.234; InPd: Pd 0.449; In3Pd2: Pd 0.4 | model | [1] Jiang 2002 | Table II, p. 4, row 5; `ORC-CX3YMO6ZPM` |  |
+| 986 | Liquid + InPd = In3Pd2 | InPd: Pd 0.5; In3Pd2: Pd 0.4 | experimental | [1] Jiang 2002; _cites Flandorfer 2002_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901859-x) | Table II, p. 4, row 6; `ORC-RVKMXBQOC4` |  |
+| 949 | Liquid + In3Pd2 = In7Pd3 | L: Pd 0.21; In3Pd2: Pd 0.4; In7Pd3: Pd 0.3 | model | [1] Jiang 2002 | Table II, p. 4, row 3; `ORC-HHCRX4DRZ6` |  |
+| 945 | Liquid + In3Pd2 = In7Pd3 | In3Pd2: Pd 0.4; In7Pd3: Pd 0.3 | experimental | [1] Jiang 2002; _cites Flandorfer 2002_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901859-x) | Table II, p. 4, row 4; `ORC-JXZYT6RHUQ` |  |
+| 430 | Liquid = In(bct) + In7Pd3 | L: Pd 2.380e-4; In(bct): Pd 0; In7Pd3: Pd 0.3 | model | [1] Jiang 2002 | Table II, p. 4, row 1; `ORC-GGJURJ4P3U` |  |
+| 427 | Liquid = In(bct) + In7Pd3 | In(bct): Pd 0; In7Pd3: Pd 0.3 | experimental | [1] Jiang 2002; _cites Flandorfer 2002_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901859-x) | Table II, p. 4, row 2; `ORC-HROJBMPTDJ` |  |
 
 ## Other properties
 
@@ -94,13 +94,13 @@ Table: Phase transition, In–Pd system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 420 K | 420 | other | experimental | [1] Jiang 2002; _cites Perring 2001_ [doi](https://doi.org/10.1016/s0040-6031%2800%2900731-0) | p. 2 | “They found that the sample with the nominal composition In75Pd25 undergoes premature melting at around 420 K, much lower than the expected peritectic decomposition temperature of the previously thought In3Pd compound.” |
-| Phase transition | 1558 K | 1558 | Liquid = InPd; _L: Pd 0.5; InPd: Pd 0.5_ | experimental | [1] Jiang 2002; _cites Knight 1959_ [doi](https://doi.org/10.1016/0022-5088%2859%2990005-0) | Table II, p. 4, row 8 |  |
-| Phase transition | 1561 K | 1561 | Liquid = InPd; _L: Pd 0.53; InPd: Pd 0.53_ | model | [1] Jiang 2002 | Table II, p. 4, row 7 |  |
-| Phase transition | 1607 K | 1607 | Liquid = βInPd2; _L: Pd 0.66; βInPd2: Pd 0.66_ | model | [1] Jiang 2002 | Table II, p. 4, row 11 |  |
-| Phase transition | 1611 K | 1611 | Liquid = βInPd2; _L: Pd 0.666667; βInPd2: Pd 0.666667_ | experimental | [1] Jiang 2002; _cites Schmid 1987_ | Table II, p. 4, row 12 |  |
-| Phase transition | 1638 K | 1638 | Liquid = βInPd3; _L: Pd 0.75; βInPd3: Pd 0.75_ | experimental | [1] Jiang 2002; _cites Schmid 1987_ | Table II, p. 4, row 24 |  |
-| Phase transition | 1645 K | 1645 | Liquid = βInPd3; _L: Pd 0.74; βInPd3: Pd 0.74_ | model | [1] Jiang 2002 | Table II, p. 4, row 23 |  |
+| Phase transition | 420 K | 420 | other | experimental | [1] Jiang 2002; _cites Perring 2001_ [doi](https://doi.org/10.1016/s0040-6031%2800%2900731-0) | p. 2; `ORC-6NSP4ZTDG2` | “They found that the sample with the nominal composition In75Pd25 undergoes premature melting at around 420 K, much lower than the expected peritectic decomposition temperature of the previously thought In3Pd compound.” |
+| Phase transition | 1558 K | 1558 | Liquid = InPd; _L: Pd 0.5; InPd: Pd 0.5_ | experimental | [1] Jiang 2002; _cites Knight 1959_ [doi](https://doi.org/10.1016/0022-5088%2859%2990005-0) | Table II, p. 4, row 8; `ORC-N2FHR334NB` |  |
+| Phase transition | 1561 K | 1561 | Liquid = InPd; _L: Pd 0.53; InPd: Pd 0.53_ | model | [1] Jiang 2002 | Table II, p. 4, row 7; `ORC-DSKCCTULHS` |  |
+| Phase transition | 1607 K | 1607 | Liquid = βInPd2; _L: Pd 0.66; βInPd2: Pd 0.66_ | model | [1] Jiang 2002 | Table II, p. 4, row 11; `ORC-64JVGHJIT2` |  |
+| Phase transition | 1611 K | 1611 | Liquid = βInPd2; _L: Pd 0.666667; βInPd2: Pd 0.666667_ | experimental | [1] Jiang 2002; _cites Schmid 1987_ | Table II, p. 4, row 12; `ORC-MU52SXCUFO` |  |
+| Phase transition | 1638 K | 1638 | Liquid = βInPd3; _L: Pd 0.75; βInPd3: Pd 0.75_ | experimental | [1] Jiang 2002; _cites Schmid 1987_ | Table II, p. 4, row 24; `ORC-2T3VQ65MHZ` |  |
+| Phase transition | 1645 K | 1645 | Liquid = βInPd3; _L: Pd 0.74; βInPd3: Pd 0.74_ | model | [1] Jiang 2002 | Table II, p. 4, row 23; `ORC-QISVIH47XT` |  |
 
 ## Sources
 
@@ -165,4 +165,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

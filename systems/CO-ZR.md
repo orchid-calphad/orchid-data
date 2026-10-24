@@ -180,168 +180,168 @@ Table: Invariant reactions reported in the literature for the Co–Zr system (16
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1863 | L -> Co2Zr | L: Co 0.666667, Zr 0.333333; Co2Zr: Co 0.666667, Zr 0.333333 | model | [1] Agraval 2020; _cites Liu 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.04.032) | Table 3, p. 6, row 22 |  |
-| 1835 | L -> Co2Zr | L: Zr 0.315; Co2Zr: Co 0.666667, Zr 0.333333 | model | [1] Agraval 2020 | Table 3, p. 6, row 24 |  |
-| 1833 | L -> Co2Zr | L: Co 0.666667, Zr 0.333333; Co2Zr: Co 0.666667, Zr 0.333333 | experimental | [1] Agraval 2020; _cites Bataleva 1970_ | Table 3, p. 6, row 21 |  |
-| 1833 | Liquid -> Laves_C15 |  | experimental | [2] Durga 2010; _cites Bataleva 1970_ | Table 6, p. 5, row 3 |  |
-| 1817 | L -> Co2Zr | L: Co 0.666667, Zr 0.333333; Co2Zr: Co 0.666667, Zr 0.333333 | model | [1] Agraval 2020; _cites Durga 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.02.006) | Table 3, p. 6, row 23 |  |
-| 1817 | Liquid -> Laves_C15 |  | model | [2] Durga 2010 | Table 6, p. 5, row 1 |  |
-| 1812 | Liquid -> Laves_C15 |  | experimental | [2] Durga 2010; _cites Pechin 1964_ | Table 6, p. 5, row 2 |  |
-| 1725.15 | Co2Zr + Liquid -> Co23Zr6 | Co2Zr: Zr 0.333333; Co23Zr6: Zr 0.206897 | experimental | [3] Liu 2009; _cites Pechin 1964_ | Table 4, p. 6, row 11 |  |
-| 1723 | L + Co2Zr -> Co23Zr6 | Co2Zr: Co 0.666667, Zr 0.333333; Co23Zr6: Co 0.793103, Zr 0.206897 | experimental | [1] Agraval 2020; _cites Pechin 1964_ | Table 3, p. 6, row 15 |  |
-| 1723 | liq. + λ2 -> Co23Zr6 | Co23Zr6: Zr 0.206897 | experimental | [4] Zhou 2021; _cites Pechin 1964_ | Table 2, p. 4, row 11 |  |
-| 1721 | Liquid + Laves_C15 -> Co23Zr6 | Co23Zr6: Co 0.793103, Zr 0.206897 | experimental | [2] Durga 2010; _cites Pechin 1964_ | Table 6, p. 5, row 19 |  |
-| 1671 | L -> CoZr | L: Co 0.5, Zr 0.5; CoZr: Co 0.5, Zr 0.5 | model | [1] Agraval 2020; _cites Liu 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.04.032) | Table 3, p. 6, row 32 |  |
-| 1643 | Liquid -> BCC_B2 |  | experimental | [2] Durga 2010; _cites Bataleva 1970_ | Table 6, p. 5, row 6 |  |
-| 1643 | L -> CoZr | L: Co 0.5, Zr 0.5; CoZr: Co 0.5, Zr 0.5 | experimental | [1] Agraval 2020; _cites Bataleva 1970_ | Table 3, p. 6, row 31 |  |
-| 1623.15 | Co2Zr + Liquid -> Co23Zr6 | Co2Zr: Zr 0.333333; Co23Zr6: Zr 0.206897 | experimental | [3] Liu 2009; _cites Bataleva 2009_ | Table 4, p. 6, row 12 |  |
-| 1623 | Liquid + Laves_C15 -> Co23Zr6 | Co23Zr6: Co 0.793103, Zr 0.206897 | experimental | [2] Durga 2010; _cites Bataleva 1970_ | Table 6, p. 5, row 20 |  |
-| 1623 | liq. + λ2 -> Co23Zr6 | Co23Zr6: Zr 0.206897 | experimental | [4] Zhou 2021; _cites Bataleva 1970_ | Table 2, p. 4, row 12 |  |
-| 1623 | L + Co2Zr -> Co23Zr6 | Co2Zr: Co 0.666667, Zr 0.333333; Co23Zr6: Co 0.793103, Zr 0.206897 | experimental | [1] Agraval 2020; _cites Bataleva 1970_ | Table 3, p. 6, row 16 |  |
-| 1622 | L -> CoZr | L: Co 0.5, Zr 0.5; CoZr: Co 0.5, Zr 0.5 | model | [1] Agraval 2020; _cites Durga 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.02.006) | Table 3, p. 6, row 33 |  |
-| 1622 | Liquid -> BCC_B2 |  | model | [2] Durga 2010 | Table 6, p. 5, row 4 |  |
-| 1618.15 | Co2Zr + Liquid -> Co23Zr6 | Co2Zr: Zr 0.333333; Co23Zr6: Zr 0.206897 | model | [3] Liu 2009 | Table 4, p. 6, row 10 |  |
-| 1618 | L + Co2Zr -> Co23Zr6 | Co2Zr: Co 0.666667, Zr 0.333333; Co23Zr6: Co 0.793103, Zr 0.206897 | model | [1] Agraval 2020; _cites Liu 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.04.032) | Table 3, p. 6, row 18 |  |
-| 1616.4 | L + Co2Zr -> Co23Zr6 | Co2Zr: Co 0.666667, Zr 0.333333; Co23Zr6: Co 0.793103, Zr 0.206897 | experimental | [1] Agraval 2020; _cites Liu 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.04.032) | Table 3, p. 6, row 17 |  |
-| 1616.15 | Co2Zr + Liquid -> Co23Zr6 | Co2Zr: Zr 0.333333; Co23Zr6: Zr 0.206897 | experimental | [3] Liu 2009 | Table 4, p. 6, row 9 |  |
-| 1616 | liq. + λ2 -> Co23Zr6 | Co23Zr6: Zr 0.206897 | experimental | [4] Zhou 2021; _cites Liu 2009_ | Table 2, p. 4, row 13 |  |
-| 1616 | Liquid + Laves_C15 -> Co23Zr6 | Co23Zr6: Co 0.793103, Zr 0.206897 | experimental | [2] Durga 2010; _cites Liu 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.04.032) | Table 6, p. 5, row 21 |  |
-| 1615 | liq. + λ2 -> Co23Zr6 | L: Zr 0.163; λ2: Zr 0.256; Co23Zr6: Zr 0.207 | model | [4] Zhou 2021 | Table 2, p. 4, row 10 |  |
-| 1615 | L + Co2Zr -> Co23Zr6 | L: Zr 0.163; Co2Zr: Zr 0.256; Co23Zr6: Zr 0.207 | model | [1] Agraval 2020 | Table 3, p. 6, row 20 |  |
-| 1615 | liq. + λ2 -> Co23Zr6 | L: Zr 0.163; λ2: Zr 0.256; Co23Zr6: Zr 0.207 | model | [4] Zhou 2021; _cites Agraval 2020_ [doi](https://doi.org/10.1007/s11669-020-00805-5) | Table 2, p. 4, row 14 |  |
-| 1610 | L -> CoZr | L: Zr 0.5; CoZr: Co 0.5, Zr 0.5 | model | [1] Agraval 2020 | Table 3, p. 6, row 34 |  |
-| 1604 | L + Co2Zr -> Co23Zr6 | Co2Zr: Co 0.666667, Zr 0.333333; Co23Zr6: Co 0.793103, Zr 0.206897 | model | [1] Agraval 2020; _cites Durga 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.02.006) | Table 3, p. 6, row 19 |  |
-| 1604 | Liquid + Laves_C15 -> Co23Zr6 | Co23Zr6: Co 0.793103, Zr 0.206897 | model | [2] Durga 2010 | Table 6, p. 5, row 18 |  |
-| 1592 | liq. -> λ2 + CoZr | L: Zr 0.461; λ2: Zr 0.338; CoZr: Zr 0.5 | model | [4] Zhou 2021 | Table 2, p. 4, row 18 |  |
-| 1591 | liq. -> λ2 + CoZr | L: Zr 0.461; λ2: Zr 0.338; CoZr: Zr 0.5 | model | [4] Zhou 2021; _cites Agraval 2020_ [doi](https://doi.org/10.1007/s11669-020-00805-5) | Table 2, p. 4, row 22 |  |
-| 1591 | L -> Co2Zr + CoZr | L: Zr 0.461; Co2Zr: Zr 0.338; CoZr: Zr 0.5 | model | [1] Agraval 2020 | Table 3, p. 6, row 30 |  |
-| 1589.15 | Liquid -> Co2Zr + CoZr | Co2Zr: Zr 0.333333; CoZr: Zr 0.5 | model | [3] Liu 2009 | Table 4, p. 6, row 17 |  |
-| 1589 | L -> Co2Zr + CoZr | Co2Zr: Co 0.666667, Zr 0.333333; CoZr: Co 0.5, Zr 0.5 | model | [1] Agraval 2020; _cites Liu 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.04.032) | Table 3, p. 6, row 28 |  |
-| 1588 | L -> Co2Zr + CoZr | Co2Zr: Co 0.666667, Zr 0.333333; CoZr: Co 0.5, Zr 0.5 | model | [1] Agraval 2020; _cites Durga 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.02.006) | Table 3, p. 6, row 29 |  |
-| 1588 | Liquid -> Laves_C15 + BCC_B2 |  | model | [2] Durga 2010 | Table 6, p. 5, row 22 |  |
-| 1586.15 | Liquid -> Co2Zr + CoZr | Co2Zr: Zr 0.333333; CoZr: Zr 0.5 | experimental | [3] Liu 2009 | Table 4, p. 6, row 16 |  |
-| 1586 | L -> Co2Zr + CoZr | Co2Zr: Co 0.666667, Zr 0.333333; CoZr: Co 0.5, Zr 0.5 | experimental | [1] Agraval 2020; _cites Liu 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.04.032) | Table 3, p. 6, row 27 |  |
-| 1586 | Liquid -> Laves_C15 + BCC_B2 |  | experimental | [2] Durga 2010; _cites Liu 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.04.032) | Table 6, p. 5, row 25 |  |
-| 1586 | liq. -> λ2 + CoZr | CoZr: Zr 0.5 | experimental | [4] Zhou 2021; _cites Liu 2009_ | Table 2, p. 4, row 21 |  |
-| 1585.15 | Liquid -> Co2Zr + CoZr | Co2Zr: Zr 0.333333; CoZr: Zr 0.5 | experimental | [3] Liu 2009; _cites Pechin 1964_ | Table 4, p. 6, row 18 |  |
-| 1584 | Liquid -> Laves_C15 + BCC_B2 |  | experimental | [2] Durga 2010; _cites Pechin 1964_ | Table 6, p. 5, row 23 |  |
-| 1583 | L -> Co2Zr + CoZr | L: Zr 0.47; Co2Zr: Co 0.666667, Zr 0.333333; CoZr: Co 0.5, Zr 0.5 | experimental | [1] Agraval 2020; _cites Pechin 1964_ | Table 3, p. 6, row 25 |  |
-| 1583 | liq. -> λ2 + CoZr | L: Zr 0.466; CoZr: Zr 0.5 | experimental | [4] Zhou 2021; _cites Pechin 1964_ | Table 2, p. 4, row 19 |  |
-| 1578 | Liquid -> BCC_B2 |  | experimental | [2] Durga 2010; _cites Pechin 1964_ | Table 6, p. 5, row 5 |  |
-| 1553 | L + Co23Zr6 -> Co11Zr2 | Co23Zr6: Co 0.793103, Zr 0.206897; Co11Zr2: Co 0.846154, Zr 0.153846 | experimental | [1] Agraval 2020; _cites Kosorukova 2010_ | Table 3, p. 6, row 10 |  |
-| 1553 | liq. + Co23Zr6 -> Co11Zr2 | Co23Zr6: Zr 0.206897; Co11Zr2: Zr 0.153846 | experimental | [4] Zhou 2021; _cites Kosorukova 2010_ | Table 2, p. 4, row 9 |  |
-| 1548.15 | Co23Zr6 + Liquid -> Co11Zr2 | Co23Zr6: Zr 0.206897; Co11Zr2: Zr 0.153846 | model | [3] Liu 2009 | Table 4, p. 6, row 6 |  |
-| 1548 | L + Co23Zr6 -> Co11Zr2 | Co23Zr6: Co 0.793103, Zr 0.206897; Co11Zr2: Co 0.846154, Zr 0.153846 | model | [1] Agraval 2020; _cites Liu 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.04.032) | Table 3, p. 6, row 12 |  |
-| 1545.15 | Co23Zr6 + Liquid -> Co11Zr2 | Co23Zr6: Zr 0.206897; Co11Zr2: Zr 0.153846 | experimental | [3] Liu 2009; _cites Pechin 1964_ | Table 4, p. 6, row 7 |  |
-| 1545 | Liquid + Co23Zr6 -> Co11Zr2 | Co23Zr6: Co 0.793103, Zr 0.206897; Co11Zr2: Co 0.846154, Zr 0.153846 | model | [2] Durga 2010 | Table 6, p. 5, row 14 |  |
-| 1545 | L + Co23Zr6 -> Co11Zr2 | Co23Zr6: Co 0.793103, Zr 0.206897; Co11Zr2: Co 0.846154, Zr 0.153846 | model | [1] Agraval 2020; _cites Durga 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.02.006) | Table 3, p. 6, row 13 |  |
-| 1544.15 | Co23Zr6 + Liquid -> Co11Zr2 | Co23Zr6: Zr 0.206897; Co11Zr2: Zr 0.153846 | experimental | [3] Liu 2009 | Table 4, p. 6, row 5 |  |
-| 1544 | liq. + Co23Zr6 -> Co11Zr2 | Co23Zr6: Zr 0.206897; Co11Zr2: Zr 0.153846 | experimental | [4] Zhou 2021; _cites Liu 2009_ | Table 2, p. 4, row 8 |  |
-| 1544 | L + Co23Zr6 -> Co11Zr2 | Co23Zr6: Co 0.793103, Zr 0.206897; Co11Zr2: Co 0.846154, Zr 0.153846 | experimental | [1] Agraval 2020; _cites Liu 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.04.032) | Table 3, p. 6, row 11 |  |
-| 1544 | Liquid + Co23Zr6 -> Co11Zr2 | Co23Zr6: Co 0.793103, Zr 0.206897; Co11Zr2: Co 0.846154, Zr 0.153846 | experimental | [2] Durga 2010; _cites Liu 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.04.032) | Table 6, p. 5, row 17 |  |
-| 1543.15 | Co23Zr6 + Liquid -> Co11Zr2 | Co23Zr6: Zr 0.206897; Co11Zr2: Zr 0.153846 | experimental | [3] Liu 2009; _cites Bataleva 2009_ | Table 4, p. 6, row 8 |  |
-| 1543 | L + Co23Zr6 -> Co11Zr2 | Co23Zr6: Co 0.793103, Zr 0.206897; Co11Zr2: Co 0.846154, Zr 0.153846 | experimental | [1] Agraval 2020; _cites Pechin 1964_ | Table 3, p. 6, row 8 |  |
-| 1543 | L + Co23Zr6 -> Co11Zr2 | Co23Zr6: Co 0.793103, Zr 0.206897; Co11Zr2: Co 0.846154, Zr 0.153846 | experimental | [1] Agraval 2020; _cites Bataleva 1970_ | Table 3, p. 6, row 9 |  |
-| 1543 | liq. + Co23Zr6 -> Co11Zr2 | Co23Zr6: Zr 0.206897; Co11Zr2: Zr 0.153846 | experimental | [4] Zhou 2021; _cites Pechin 1964_ | Table 2, p. 4, row 6 |  |
-| 1543 | Liquid + Co23Zr6 -> Co11Zr2 | Co23Zr6: Co 0.793103, Zr 0.206897; Co11Zr2: Co 0.846154, Zr 0.153846 | experimental | [2] Durga 2010; _cites Bataleva 1970_ | Table 6, p. 5, row 16 |  |
-| 1543 | liq. + Co23Zr6 -> Co11Zr2 | Co23Zr6: Zr 0.206897; Co11Zr2: Zr 0.153846 | experimental | [4] Zhou 2021; _cites Bataleva 1970_ | Table 2, p. 4, row 7 |  |
-| 1540 | L + Co23Zr6 -> Co11Zr2 | L: Zr 0.118; Co23Zr6: Zr 0.207; Co11Zr2: Zr 0.154 | model | [1] Agraval 2020 | Table 3, p. 6, row 14 |  |
-| 1540 | liq. + Co23Zr6 -> Co11Zr2 | L: Zr 0.118; Co23Zr6: Zr 0.207; Co11Zr2: Zr 0.154 | model | [4] Zhou 2021 | Table 2, p. 4, row 5 |  |
-| 1539 | Liquid + Co23Zr6 -> Co11Zr2 | Co23Zr6: Co 0.793103, Zr 0.206897; Co11Zr2: Co 0.846154, Zr 0.153846 | experimental | [2] Durga 2010; _cites Pechin 1964_ | Table 6, p. 5, row 15 |  |
-| 1533.15 | Liquid -> Co2Zr + CoZr | Co2Zr: Zr 0.333333; CoZr: Zr 0.5 | experimental | [3] Liu 2009; _cites Bataleva 2009_ | Table 4, p. 6, row 19 |  |
-| 1533 | liq. -> λ2 + CoZr | L: Zr 0.46; CoZr: Zr 0.5 | experimental | [4] Zhou 2021; _cites Bataleva 1970_ | Table 2, p. 4, row 20 |  |
-| 1533 | L -> Co2Zr + CoZr | L: Zr 0.46; Co2Zr: Co 0.666667, Zr 0.333333; CoZr: Co 0.5, Zr 0.5 | experimental | [1] Agraval 2020; _cites Bataleva 1970_ | Table 3, p. 6, row 26 |  |
-| 1533 | Liquid -> Laves_C15 + BCC_B2 |  | experimental | [2] Durga 2010; _cites Bataleva 1970_ | Table 6, p. 5, row 24 |  |
-| 1527 | L -> (βCo) + Co11Zr2 | Co11Zr2: Co 0.846154, Zr 0.153846 | model | [1] Agraval 2020; _cites Durga 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.02.006) | Table 3, p. 6, row 6 |  |
-| 1527 | Liquid -> FCC_A1 + Co11Zr2 | Co11Zr2: Co 0.846154, Zr 0.153846 | model | [2] Durga 2010 | Table 6, p. 5, row 10 |  |
-| 1524.15 | eutectic: Liq. -> Co11Zr2 + Co23Zr6 + fcc(Co) | Liq.: Co 0.893, Zr 0.104 | model | [5] Sun 2023 | Table VII, p. 23, row 3 |  |
-| 1513.15 | Liquid -> (αCo) + Co11Zr2 | Co11Zr2: Zr 0.153846 | experimental | [3] Liu 2009; _cites Bataleva 2009_ | Table 4, p. 6, row 4 |  |
-| 1513 | Liquid -> FCC_A1 + Co11Zr2 | Co11Zr2: Co 0.846154, Zr 0.153846 | experimental | [2] Durga 2010; _cites Bataleva 1970_ | Table 6, p. 5, row 12 |  |
-| 1513 | liq. -> fcc(Co) + Co11Zr2 | L: Zr 0.09; Co11Zr2: Zr 0.153846 | experimental | [4] Zhou 2021; _cites Bataleva 1970_ | Table 2, p. 4, row 3 |  |
-| 1513 | L -> (βCo) + Co11Zr2 | L: Zr 0.09; Co11Zr2: Co 0.846154, Zr 0.153846 | experimental | [1] Agraval 2020; _cites Bataleva 1970_ | Table 3, p. 6, row 3 |  |
-| 1507 | L -> (βCo) + Co11Zr2 | L: Zr 0.09; (βCo): Zr 1.600e-5; Co11Zr2: Zr 0.154 | model | [1] Agraval 2020 | Table 3, p. 6, row 7 |  |
-| 1507 | liq. -> fcc(Co) + Co11Zr2 | L: Zr 0.09; fcc(Co): Zr 1.000e-4; Co11Zr2: Zr 0.154 | model | [4] Zhou 2021 | Table 2, p. 4, row 1 |  |
-| 1505.15 | Liquid -> (αCo) + Co11Zr2 | Co11Zr2: Zr 0.153846 | experimental | [3] Liu 2009; _cites Pechin 1964_ | Table 4, p. 6, row 3 |  |
-| 1503.15 | Liquid -> (αCo) + Co11Zr2 | Co11Zr2: Zr 0.153846 | experimental | [3] Liu 2009 | Table 4, p. 6, row 1 |  |
-| 1503 | Liquid -> FCC_A1 + Co11Zr2 | Co11Zr2: Co 0.846154, Zr 0.153846 | experimental | [2] Durga 2010; _cites Liu 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.04.032) | Table 6, p. 5, row 13 |  |
-| 1503 | L -> (βCo) + Co11Zr2 | Co11Zr2: Co 0.846154, Zr 0.153846 | experimental | [1] Agraval 2020; _cites Liu 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.04.032) | Table 3, p. 6, row 4 |  |
-| 1503 | L -> (βCo) + Co11Zr2 | L: Zr 0.095; Co11Zr2: Co 0.846154, Zr 0.153846 | experimental | [1] Agraval 2020; _cites Pechin 1964_ | Table 3, p. 6, row 2 |  |
-| 1503 | liq. -> fcc(Co) + Co11Zr2 | Co11Zr2: Zr 0.153846 | experimental | [4] Zhou 2021; _cites Liu 2009_ | Table 2, p. 4, row 4 |  |
-| 1503 | liq. -> fcc(Co) + Co11Zr2 | L: Zr 0.095; Co11Zr2: Zr 0.153846 | experimental | [4] Zhou 2021; _cites Pechin 1964_ | Table 2, p. 4, row 2 |  |
-| 1500.15 | Liquid -> (αCo) + Co11Zr2 | Co11Zr2: Zr 0.153846 | model | [3] Liu 2009 | Table 4, p. 6, row 2 |  |
-| 1500 | L -> (βCo) + Co11Zr2 | Co11Zr2: Co 0.846154, Zr 0.153846 | model | [1] Agraval 2020; _cites Liu 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.04.032) | Table 3, p. 6, row 5 |  |
-| 1499 | Liquid -> FCC_A1 + Co11Zr2 | Co11Zr2: Co 0.846154, Zr 0.153846 | experimental | [2] Durga 2010; _cites Pechin 1964_ | Table 6, p. 5, row 11 |  |
-| 1396 | Liquid -> CoZr2 | L: Co 0.333333, Zr 0.666667; CoZr2: Co 0.333333, Zr 0.666667 | experimental | [2] Durga 2010; _cites Pechin 1964_ | Table 6, p. 5, row 8 |  |
-| 1394 | L -> CoZr2 | L: Co 0.333333, Zr 0.666667; CoZr2: Co 0.333333, Zr 0.666667 | model | [1] Agraval 2020; _cites Liu 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.04.032) | Table 3, p. 6, row 43 |  |
-| 1363 | L -> CoZr2 | L: Co 0.333333, Zr 0.666667; CoZr2: Co 0.333333, Zr 0.666667 | experimental | [1] Agraval 2020; _cites Bataleva 1970_ | Table 3, p. 6, row 41 |  |
-| 1363 | Liquid -> CoZr2 | L: Co 0.333333, Zr 0.666667; CoZr2: Co 0.333333, Zr 0.666667 | experimental | [2] Durga 2010; _cites Bataleva 1970_ | Table 6, p. 5, row 9 |  |
-| 1349 | L -> CoZr2 | L: Zr 0.667; CoZr2: Co 0.333333, Zr 0.666667 | model | [1] Agraval 2020 | Table 3, p. 6, row 45 |  |
-| 1348 | liq. -> CoZr + CoZr2 | L: Zr 0.655; CoZr: Zr 0.5; CoZr2: Zr 0.667 | model | [4] Zhou 2021; _cites Agraval 2020_ [doi](https://doi.org/10.1007/s11669-020-00805-5) | Table 2, p. 4, row 30 |  |
-| 1348 | liq. -> CoZr + CoZr2 | L: Zr 0.658; CoZr: Zr 0.505; CoZr2: Zr 0.667 | model | [4] Zhou 2021 | Table 2, p. 4, row 26 |  |
-| 1348 | L -> CoZr + CoZr2 | L: Zr 0.655; CoZr: Zr 0.5; CoZr2: Zr 0.667 | model | [1] Agraval 2020 | Table 3, p. 6, row 40 |  |
-| 1343 | L -> CoZr2 | L: Co 0.333333, Zr 0.666667; CoZr2: Co 0.333333, Zr 0.666667 | experimental | [1] Agraval 2020; _cites Semenova 2016_ [doi](https://doi.org/10.1007/s11106-016-9751-x) | Table 3, p. 6, row 42 |  |
-| 1338.15 | Liquid -> CoZr + CoZr2 | CoZr: Zr 0.5; CoZr2: Zr 0.666667 | model | [3] Liu 2009 | Table 4, p. 6, row 24 |  |
-| 1338 | L -> CoZr + CoZr2 | CoZr: Co 0.5, Zr 0.5; CoZr2: Co 0.333333, Zr 0.666667 | model | [1] Agraval 2020; _cites Liu 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.04.032) | Table 3, p. 6, row 38 |  |
-| 1337.15 | Liquid -> CoZr + CoZr2 | CoZr: Zr 0.5; CoZr2: Zr 0.666667 | experimental | [3] Liu 2009 | Table 4, p. 6, row 23 |  |
-| 1337 | liq. -> CoZr + CoZr2 | CoZr: Zr 0.5; CoZr2: Zr 0.666667 | experimental | [4] Zhou 2021; _cites Liu 2009_ | Table 2, p. 4, row 29 |  |
-| 1337 | Liquid -> BCC_B2 + CoZr2 | CoZr2: Co 0.333333, Zr 0.666667 | experimental | [2] Durga 2010; _cites Liu 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.04.032) | Table 6, p. 5, row 29 |  |
-| 1337 | L -> CoZr + CoZr2 | CoZr: Co 0.5, Zr 0.5; CoZr2: Co 0.333333, Zr 0.666667 | experimental | [1] Agraval 2020; _cites Liu 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.04.032) | Table 3, p. 6, row 37 |  |
-| 1334.15 | Liquid -> CoZr + CoZr2 | CoZr: Zr 0.5; CoZr2: Zr 0.666667 | experimental | [3] Liu 2009; _cites Pechin 1964_ | Table 4, p. 6, row 25 |  |
-| 1334 | Liquid -> BCC_B2 + CoZr2 | CoZr2: Co 0.333333, Zr 0.666667 | experimental | [2] Durga 2010; _cites Pechin 1964_ | Table 6, p. 5, row 27 |  |
-| 1333 | liq. -> CoZr + CoZr2 | L: Zr 0.65; CoZr: Zr 0.5; CoZr2: Zr 0.666667 | experimental | [4] Zhou 2021; _cites Pechin 1964_ | Table 2, p. 4, row 27 |  |
-| 1333 | L -> CoZr + CoZr2 | L: Zr 0.65; CoZr: Co 0.5, Zr 0.5; CoZr2: Co 0.333333, Zr 0.666667 | experimental | [1] Agraval 2020; _cites Pechin 1964_ | Table 3, p. 6, row 35 |  |
-| 1323 | Liquid -> CoZr2 | L: Co 0.333333, Zr 0.666667; CoZr2: Co 0.333333, Zr 0.666667 | model | [2] Durga 2010 | Table 6, p. 5, row 7 |  |
-| 1323 | L -> CoZr2 | L: Co 0.333333, Zr 0.666667; CoZr2: Co 0.333333, Zr 0.666667 | model | [1] Agraval 2020; _cites Durga 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.02.006) | Table 3, p. 6, row 44 |  |
-| 1321 | Liquid -> BCC_B2 + CoZr2 | CoZr2: Co 0.333333, Zr 0.666667 | model | [2] Durga 2010 | Table 6, p. 5, row 26 |  |
-| 1321 | L -> CoZr + CoZr2 | CoZr: Co 0.5, Zr 0.5; CoZr2: Co 0.333333, Zr 0.666667 | model | [1] Agraval 2020; _cites Durga 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.02.006) | Table 3, p. 6, row 39 |  |
-| 1313.15 | Liquid -> CoZr + CoZr2 | CoZr: Zr 0.5; CoZr2: Zr 0.666667 | experimental | [3] Liu 2009; _cites Bataleva 2009_ | Table 4, p. 6, row 26 |  |
-| 1313 | Liquid -> BCC_B2 + CoZr2 | CoZr2: Co 0.333333, Zr 0.666667 | experimental | [2] Durga 2010; _cites Bataleva 1970_ | Table 6, p. 5, row 28 |  |
-| 1313 | L -> CoZr + CoZr2 | L: Zr 0.64; CoZr: Co 0.5, Zr 0.5; CoZr2: Co 0.333333, Zr 0.666667 | experimental | [1] Agraval 2020; _cites Bataleva 1970_ | Table 3, p. 6, row 36 |  |
-| 1313 | liq. -> CoZr + CoZr2 | L: Zr 0.64; CoZr: Zr 0.5; CoZr2: Zr 0.666667 | experimental | [4] Zhou 2021; _cites Bataleva 1970_ | Table 2, p. 4, row 28 |  |
-| 1303 | liq. -> CoZr2 + bcc(Zr) | L: Zr 0.754; CoZr2: Zr 0.666667 | experimental | [4] Zhou 2021; _cites Kosorukova 2010_ | Table 2, p. 4, row 38 |  |
-| 1284 | liq. -> CoZr2 + bcc(Zr) | L: Zr 0.755; CoZr2: Zr 0.667; bcc(Zr): Zr 0.967 | model | [4] Zhou 2021; _cites Agraval 2020_ [doi](https://doi.org/10.1007/s11669-020-00805-5) | Table 2, p. 4, row 40 |  |
-| 1279 | liq. -> CoZr2 + bcc(Zr) | L: Zr 0.754; CoZr2: Zr 0.667; bcc(Zr): Zr 0.966 | model | [4] Zhou 2021 | Table 2, p. 4, row 35 |  |
-| 1259 | Liquid -> CoZr2 + BCC_A2 | CoZr2: Co 0.333333, Zr 0.666667 | model | [2] Durga 2010 | Table 6, p. 5, row 32 |  |
-| 1259 | liq. -> CoZr2 + bcc(Zr) | L: Zr 0.78; CoZr2: Zr 0.666667 | experimental | [4] Zhou 2021; _cites Semenova 2016_ [doi](https://doi.org/10.1007/s11106-016-9751-x) | Table 2, p. 4, row 39 |  |
-| 1258.15 | Liquid -> (βZr) + CoZr2 | CoZr2: Zr 0.666667 | experimental | [3] Liu 2009 | Table 4, p. 6, row 30 |  |
-| 1258.15 | eutectic: liquid ↔ (␤Zr) + CoZr2 |  | experimental | [3] Liu 2009 | p. 4 | “The DTA results indicate that the temperatures of the peritectoid reaction (CoZr2 + (␤Zr) ↔ CoZr3 ) and eutectic reaction (liquid ↔ (␤Zr) + CoZr2 ) are about 981 and 985 ◦ C, respectively.” |
-| 1258 | Liquid -> CoZr2 + BCC_A2 | CoZr2: Co 0.333333, Zr 0.666667 | experimental | [2] Durga 2010; _cites Liu 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.04.032) | Table 6, p. 5, row 34 |  |
-| 1258 | liq. -> CoZr2 + bcc(Zr) | CoZr2: Zr 0.666667 | experimental | [4] Zhou 2021; _cites Liu 2009_ | Table 2, p. 4, row 37 |  |
-| 1258 | L -> CoZr2 + (βZr) | CoZr2: Co 0.333333, Zr 0.666667 | experimental | [1] Agraval 2020; _cites Liu 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.04.032) | Table 3, p. 6, row 48 |  |
-| 1257.15 | Liquid -> (βZr) + CoZr2 | CoZr2: Zr 0.666667 | model | [3] Liu 2009 | Table 4, p. 6, row 31 |  |
-| 1255 | Liquid -> CoZr2 + BCC_A2 | CoZr2: Co 0.333333, Zr 0.666667 | experimental | [2] Durga 2010; _cites Pechin 1964_ | Table 6, p. 5, row 33 |  |
-| 1254.15 | Liquid -> (βZr) + CoZr2 | CoZr2: Zr 0.666667 | experimental | [3] Liu 2009; _cites Pechin 1964_ | Table 4, p. 6, row 32 |  |
-| 1254.15 | (βZr) + CoZr2 -> CoZr3 | CoZr2: Zr 0.666667; CoZr3: Zr 0.75 | experimental | [3] Liu 2009 | Table 4, p. 6, row 33 |  |
-| 1254 | peritectoid |  | experimental | [4] Zhou 2021; _cites Semenova 2016_ [doi](https://doi.org/10.1007/s11106-016-9751-x) | p. 2 | “Semenova et al.\[30\] determined the CoZr2-Zr region of the Co-Zr phase diagram using the same methods as Kosorukova et al.,\[29\] and their experimental results supported the conclusion\[24\] that CoZr3 formed by the peritectoid reaction CoZr2 ? bcc_A2 ? CoZr3 at 1254 K.” |
-| 1254 | CoZr2 + bcc(Zr) -> CoZr3 | CoZr2: Zr 0.667; bcc(Zr): Zr 0.969; CoZr3: Zr 0.75 | model | [4] Zhou 2021; _cites Agraval 2020_ [doi](https://doi.org/10.1007/s11669-020-00805-5) | Table 2, p. 4, row 46 |  |
-| 1254 | CoZr2 + bcc(Zr) -> CoZr3 | CoZr2: Zr 0.666667; CoZr3: Zr 0.75 | experimental | [4] Zhou 2021; _cites Semenova 2016_ [doi](https://doi.org/10.1007/s11106-016-9751-x) | Table 2, p. 4, row 45 |  |
-| 1254 | CoZr2 + bcc(Zr) -> CoZr3 | CoZr2: Zr 0.667; bcc(Zr): Zr 0.968; CoZr3: Zr 0.75 | model | [4] Zhou 2021 | Table 2, p. 4, row 42 |  |
-| 1254 | CoZr2 + bcc(Zr) -> CoZr3 | CoZr2: Zr 0.666667; CoZr3: Zr 0.75 | experimental | [4] Zhou 2021; _cites Liu 2009_ | Table 2, p. 4, row 43 |  |
-| 1254 | BCC_A2 + CoZr2 -> CoZr3 | CoZr2: Co 0.333333, Zr 0.666667; CoZr3: Co 0.25, Zr 0.75 | experimental | [2] Durga 2010; _cites Liu 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.04.032) | Table 6, p. 5, row 31 |  |
-| 1254 | peritectoid |  | model | [4] Zhou 2021; _cites Liu 2009_ | p. 2 | “CoZr3 was found to form peritectically from liquid ? bcc_A2 at 1253 K,\[32\] but peritectoidically from CoZr2 ? bcc_A2 at 1254 K.\[24\]” |
-| 1253.15 | Liquid + (βZr) -> CoZr3 | CoZr3: Zr 0.75 | experimental | [3] Liu 2009; _cites Bataleva 2009_ | Table 4, p. 6, row 39 |  |
-| 1253.15 | (βZr) + CoZr2 -> CoZr3 | CoZr2: Zr 0.666667; CoZr3: Zr 0.75 | model | [3] Liu 2009 | Table 4, p. 6, row 34 |  |
-| 1253 | eutectic: L -> CoZr2 + (bZr) |  | experimental | [1] Agraval 2020; _cites Pechin 1964_ | p. 3 | “Hence, eutectic L ¡ CoZr2 ? (bZr) at 1253 K and eutectoid (bZr) ¡ (aZr) ? CoZr2 at 1106 K reactions were proposed for this part of the diagram.” |
-| 1253 | L -> CoZr2 + (βZr) | L: Zr 0.72; CoZr2: Co 0.333333, Zr 0.666667 | experimental | [1] Agraval 2020; _cites Bataleva 1970_ | Table 3, p. 6, row 47 |  |
-| 1253 | L -> CoZr2 + (βZr) | L: Zr 0.79; CoZr2: Co 0.333333, Zr 0.666667 | experimental | [1] Agraval 2020; _cites Pechin 1964_ | Table 3, p. 6, row 46 |  |
-| 1253 | liq. -> CoZr2 + bcc(Zr) | L: Zr 0.785; CoZr2: Zr 0.666667 | experimental | [4] Zhou 2021; _cites Pechin 1964_ | Table 2, p. 4, row 36 |  |
-| 1253 | peritectic |  | experimental | [4] Zhou 2021; _cites Bataleva 1970_ | p. 2 | “CoZr3 was found to form peritectically from liquid ? bcc_A2 at 1253 K,\[32\] but peritectoidically from CoZr2 ? bcc_A2 at 1254 K.\[24\]” |
-| 1253 | BCC_A2 + CoZr2 -> CoZr3 | CoZr2: Co 0.333333, Zr 0.666667; CoZr3: Co 0.25, Zr 0.75 | model | [2] Durga 2010 | Table 6, p. 5, row 30 |  |
-| 1251 | CoZr2 + bcc(Zr) -> CoZr3 | CoZr2: Zr 0.666667; CoZr3: Zr 0.75 | experimental | [4] Zhou 2021; _cites Kosorukova 2010_ | Table 2, p. 4, row 44 |  |
-| 1213.15 | Liquid -> CoZr3 + CoZr2 | CoZr3: Zr 0.75; CoZr2: Zr 0.666667 | experimental | [3] Liu 2009; _cites Bataleva 2009_ | Table 4, p. 6, row 38 |  |
-| 1112.15 | (βZr) -> CoZr3 + (αZr) | CoZr3: Zr 0.75 | model | [3] Liu 2009 | Table 4, p. 6, row 36 |  |
-| 1111.15 | (βZr) -> CoZr3 + (αZr) | CoZr3: Zr 0.75 | experimental | [3] Liu 2009 | Table 4, p. 6, row 35 |  |
-| 1111 | BCC_A2 -> CoZr3 + HCP_A3 | CoZr3: Co 0.25, Zr 0.75 | experimental | [2] Durga 2010; _cites Liu 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.04.032) | Table 6, p. 5, row 36 |  |
-| 1111 | bcc(Zr) -> CoZr3 + hcp(Zr) | CoZr3: Zr 0.75 | experimental | [4] Zhou 2021; _cites Liu 2009_ | Table 2, p. 4, row 49 |  |
-| 1107.15 | (βZr) -> CoZr2 + (αZr) | CoZr2: Zr 0.666667 | experimental | [3] Liu 2009; _cites Pechin 1964_ | Table 4, p. 6, row 37 |  |
-| 1106 | bcc(Zr) -> CoZr3 + hcp(Zr) | bcc(Zr): Zr 0.979; CoZr3: Zr 0.75; hcp(Zr): Zr 0.99 | model | [4] Zhou 2021 | Table 2, p. 4, row 47 |  |
-| 1106 | bcc(Zr) -> CoZr3 + hcp(Zr) | bcc(Zr): Zr 0.98; CoZr3: Zr 0.75; hcp(Zr): Zr 0.991 | model | [4] Zhou 2021; _cites Agraval 2020_ [doi](https://doi.org/10.1007/s11669-020-00805-5) | Table 2, p. 4, row 51 |  |
-| 1103.15 | (βZr) -> CoZr3 + (αZr) | CoZr3: Zr 0.75 | experimental | [3] Liu 2009; _cites Bataleva 2009_ | Table 4, p. 6, row 40 |  |
-| 1103 | bcc(Zr) -> CoZr3 + hcp(Zr) | CoZr3: Zr 0.75 | experimental | [4] Zhou 2021; _cites Kosorukova 2010_ | Table 2, p. 4, row 50 |  |
-| 1103 | bcc(Zr) -> CoZr3 + hcp(Zr) | CoZr3: Zr 0.75 | experimental | [4] Zhou 2021; _cites Bataleva 1970_ | Table 2, p. 4, row 48 |  |
-| 1102 | BCC_A2 -> CoZr3 + HCP_A3 | CoZr3: Co 0.25, Zr 0.75 | model | [2] Durga 2010 | Table 6, p. 5, row 35 |  |
-| 695 | (βCo) + Co11Zr2 -> (εCo) | (βCo): Zr 0; Co11Zr2: Zr 0.154 | model | [1] Agraval 2020 | Table 3, p. 6, row 1 |  |
-| 695 | fcc(Co) + Co11Zr2 -> hcp(Co) | fcc(Co): Zr 1.000e-4; Co11Zr2: Zr 0.154; hcp(Co): Zr 1.000e-4 | model | [4] Zhou 2021 | Table 2, p. 4, row 41 |  |
+| 1863 | L -> Co2Zr | L: Co 0.666667, Zr 0.333333; Co2Zr: Co 0.666667, Zr 0.333333 | model | [1] Agraval 2020; _cites Liu 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.04.032) | Table 3, p. 6, row 22; `ORC-XLJVDON52Q` |  |
+| 1835 | L -> Co2Zr | L: Zr 0.315; Co2Zr: Co 0.666667, Zr 0.333333 | model | [1] Agraval 2020 | Table 3, p. 6, row 24; `ORC-IJGSDVDNLX` |  |
+| 1833 | L -> Co2Zr | L: Co 0.666667, Zr 0.333333; Co2Zr: Co 0.666667, Zr 0.333333 | experimental | [1] Agraval 2020; _cites Bataleva 1970_ | Table 3, p. 6, row 21; `ORC-KL22CKZF7N` |  |
+| 1833 | Liquid -> Laves_C15 |  | experimental | [2] Durga 2010; _cites Bataleva 1970_ | Table 6, p. 5, row 3; `ORC-TTKPAUPDUA` |  |
+| 1817 | L -> Co2Zr | L: Co 0.666667, Zr 0.333333; Co2Zr: Co 0.666667, Zr 0.333333 | model | [1] Agraval 2020; _cites Durga 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.02.006) | Table 3, p. 6, row 23; `ORC-3M5GIVJV3E` |  |
+| 1817 | Liquid -> Laves_C15 |  | model | [2] Durga 2010 | Table 6, p. 5, row 1; `ORC-W4SRP2ZDBX` |  |
+| 1812 | Liquid -> Laves_C15 |  | experimental | [2] Durga 2010; _cites Pechin 1964_ | Table 6, p. 5, row 2; `ORC-F63BGNAGHD` |  |
+| 1725.15 | Co2Zr + Liquid -> Co23Zr6 | Co2Zr: Zr 0.333333; Co23Zr6: Zr 0.206897 | experimental | [3] Liu 2009; _cites Pechin 1964_ | Table 4, p. 6, row 11; `ORC-QVKOOTBBOJ` |  |
+| 1723 | L + Co2Zr -> Co23Zr6 | Co2Zr: Co 0.666667, Zr 0.333333; Co23Zr6: Co 0.793103, Zr 0.206897 | experimental | [1] Agraval 2020; _cites Pechin 1964_ | Table 3, p. 6, row 15; `ORC-COE3TSGA7W` |  |
+| 1723 | liq. + λ2 -> Co23Zr6 | Co23Zr6: Zr 0.206897 | experimental | [4] Zhou 2021; _cites Pechin 1964_ | Table 2, p. 4, row 11; `ORC-YCCNE756VA` |  |
+| 1721 | Liquid + Laves_C15 -> Co23Zr6 | Co23Zr6: Co 0.793103, Zr 0.206897 | experimental | [2] Durga 2010; _cites Pechin 1964_ | Table 6, p. 5, row 19; `ORC-HGGM5BCMWT` |  |
+| 1671 | L -> CoZr | L: Co 0.5, Zr 0.5; CoZr: Co 0.5, Zr 0.5 | model | [1] Agraval 2020; _cites Liu 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.04.032) | Table 3, p. 6, row 32; `ORC-S6YWMEFLU4` |  |
+| 1643 | Liquid -> BCC_B2 |  | experimental | [2] Durga 2010; _cites Bataleva 1970_ | Table 6, p. 5, row 6; `ORC-2TTQYBFJKN` |  |
+| 1643 | L -> CoZr | L: Co 0.5, Zr 0.5; CoZr: Co 0.5, Zr 0.5 | experimental | [1] Agraval 2020; _cites Bataleva 1970_ | Table 3, p. 6, row 31; `ORC-XDD2GYAYKP` |  |
+| 1623.15 | Co2Zr + Liquid -> Co23Zr6 | Co2Zr: Zr 0.333333; Co23Zr6: Zr 0.206897 | experimental | [3] Liu 2009; _cites Bataleva 2009_ | Table 4, p. 6, row 12; `ORC-SNB3BJ523K` |  |
+| 1623 | Liquid + Laves_C15 -> Co23Zr6 | Co23Zr6: Co 0.793103, Zr 0.206897 | experimental | [2] Durga 2010; _cites Bataleva 1970_ | Table 6, p. 5, row 20; `ORC-AHIC454V5B` |  |
+| 1623 | liq. + λ2 -> Co23Zr6 | Co23Zr6: Zr 0.206897 | experimental | [4] Zhou 2021; _cites Bataleva 1970_ | Table 2, p. 4, row 12; `ORC-KZV3B4XJF3` |  |
+| 1623 | L + Co2Zr -> Co23Zr6 | Co2Zr: Co 0.666667, Zr 0.333333; Co23Zr6: Co 0.793103, Zr 0.206897 | experimental | [1] Agraval 2020; _cites Bataleva 1970_ | Table 3, p. 6, row 16; `ORC-MUSCZJILOQ` |  |
+| 1622 | L -> CoZr | L: Co 0.5, Zr 0.5; CoZr: Co 0.5, Zr 0.5 | model | [1] Agraval 2020; _cites Durga 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.02.006) | Table 3, p. 6, row 33; `ORC-36LKSR5B25` |  |
+| 1622 | Liquid -> BCC_B2 |  | model | [2] Durga 2010 | Table 6, p. 5, row 4; `ORC-EYYS2F2VJX` |  |
+| 1618.15 | Co2Zr + Liquid -> Co23Zr6 | Co2Zr: Zr 0.333333; Co23Zr6: Zr 0.206897 | model | [3] Liu 2009 | Table 4, p. 6, row 10; `ORC-547EUO2E4W` |  |
+| 1618 | L + Co2Zr -> Co23Zr6 | Co2Zr: Co 0.666667, Zr 0.333333; Co23Zr6: Co 0.793103, Zr 0.206897 | model | [1] Agraval 2020; _cites Liu 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.04.032) | Table 3, p. 6, row 18; `ORC-TVDQF56FZM` |  |
+| 1616.4 | L + Co2Zr -> Co23Zr6 | Co2Zr: Co 0.666667, Zr 0.333333; Co23Zr6: Co 0.793103, Zr 0.206897 | experimental | [1] Agraval 2020; _cites Liu 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.04.032) | Table 3, p. 6, row 17; `ORC-P2CFROTXJB` |  |
+| 1616.15 | Co2Zr + Liquid -> Co23Zr6 | Co2Zr: Zr 0.333333; Co23Zr6: Zr 0.206897 | experimental | [3] Liu 2009 | Table 4, p. 6, row 9; `ORC-BQRA7T3ZH4` |  |
+| 1616 | liq. + λ2 -> Co23Zr6 | Co23Zr6: Zr 0.206897 | experimental | [4] Zhou 2021; _cites Liu 2009_ | Table 2, p. 4, row 13; `ORC-SNECZBAHSF` |  |
+| 1616 | Liquid + Laves_C15 -> Co23Zr6 | Co23Zr6: Co 0.793103, Zr 0.206897 | experimental | [2] Durga 2010; _cites Liu 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.04.032) | Table 6, p. 5, row 21; `ORC-UFKI47ATAA` |  |
+| 1615 | liq. + λ2 -> Co23Zr6 | L: Zr 0.163; λ2: Zr 0.256; Co23Zr6: Zr 0.207 | model | [4] Zhou 2021 | Table 2, p. 4, row 10; `ORC-25XMUSTZTM` |  |
+| 1615 | L + Co2Zr -> Co23Zr6 | L: Zr 0.163; Co2Zr: Zr 0.256; Co23Zr6: Zr 0.207 | model | [1] Agraval 2020 | Table 3, p. 6, row 20; `ORC-5WDCYFEUJB` |  |
+| 1615 | liq. + λ2 -> Co23Zr6 | L: Zr 0.163; λ2: Zr 0.256; Co23Zr6: Zr 0.207 | model | [4] Zhou 2021; _cites Agraval 2020_ [doi](https://doi.org/10.1007/s11669-020-00805-5) | Table 2, p. 4, row 14; `ORC-IKJDTWIC5K` |  |
+| 1610 | L -> CoZr | L: Zr 0.5; CoZr: Co 0.5, Zr 0.5 | model | [1] Agraval 2020 | Table 3, p. 6, row 34; `ORC-542RMYOZKW` |  |
+| 1604 | L + Co2Zr -> Co23Zr6 | Co2Zr: Co 0.666667, Zr 0.333333; Co23Zr6: Co 0.793103, Zr 0.206897 | model | [1] Agraval 2020; _cites Durga 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.02.006) | Table 3, p. 6, row 19; `ORC-FJF27AEMP5` |  |
+| 1604 | Liquid + Laves_C15 -> Co23Zr6 | Co23Zr6: Co 0.793103, Zr 0.206897 | model | [2] Durga 2010 | Table 6, p. 5, row 18; `ORC-FWPUBI774Y` |  |
+| 1592 | liq. -> λ2 + CoZr | L: Zr 0.461; λ2: Zr 0.338; CoZr: Zr 0.5 | model | [4] Zhou 2021 | Table 2, p. 4, row 18; `ORC-U2HITPYACU` |  |
+| 1591 | liq. -> λ2 + CoZr | L: Zr 0.461; λ2: Zr 0.338; CoZr: Zr 0.5 | model | [4] Zhou 2021; _cites Agraval 2020_ [doi](https://doi.org/10.1007/s11669-020-00805-5) | Table 2, p. 4, row 22; `ORC-ZH42PJJOFX` |  |
+| 1591 | L -> Co2Zr + CoZr | L: Zr 0.461; Co2Zr: Zr 0.338; CoZr: Zr 0.5 | model | [1] Agraval 2020 | Table 3, p. 6, row 30; `ORC-ZYCMYMN3RC` |  |
+| 1589.15 | Liquid -> Co2Zr + CoZr | Co2Zr: Zr 0.333333; CoZr: Zr 0.5 | model | [3] Liu 2009 | Table 4, p. 6, row 17; `ORC-F7453WQ3BQ` |  |
+| 1589 | L -> Co2Zr + CoZr | Co2Zr: Co 0.666667, Zr 0.333333; CoZr: Co 0.5, Zr 0.5 | model | [1] Agraval 2020; _cites Liu 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.04.032) | Table 3, p. 6, row 28; `ORC-3PZYZWYINT` |  |
+| 1588 | L -> Co2Zr + CoZr | Co2Zr: Co 0.666667, Zr 0.333333; CoZr: Co 0.5, Zr 0.5 | model | [1] Agraval 2020; _cites Durga 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.02.006) | Table 3, p. 6, row 29; `ORC-D77AAFSQKU` |  |
+| 1588 | Liquid -> Laves_C15 + BCC_B2 |  | model | [2] Durga 2010 | Table 6, p. 5, row 22; `ORC-XITDUVQ2BK` |  |
+| 1586.15 | Liquid -> Co2Zr + CoZr | Co2Zr: Zr 0.333333; CoZr: Zr 0.5 | experimental | [3] Liu 2009 | Table 4, p. 6, row 16; `ORC-4X3PITNUCU` |  |
+| 1586 | L -> Co2Zr + CoZr | Co2Zr: Co 0.666667, Zr 0.333333; CoZr: Co 0.5, Zr 0.5 | experimental | [1] Agraval 2020; _cites Liu 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.04.032) | Table 3, p. 6, row 27; `ORC-IIBXSH3JLY` |  |
+| 1586 | Liquid -> Laves_C15 + BCC_B2 |  | experimental | [2] Durga 2010; _cites Liu 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.04.032) | Table 6, p. 5, row 25; `ORC-OJ5XCHVHBQ` |  |
+| 1586 | liq. -> λ2 + CoZr | CoZr: Zr 0.5 | experimental | [4] Zhou 2021; _cites Liu 2009_ | Table 2, p. 4, row 21; `ORC-ZQFNODPO5T` |  |
+| 1585.15 | Liquid -> Co2Zr + CoZr | Co2Zr: Zr 0.333333; CoZr: Zr 0.5 | experimental | [3] Liu 2009; _cites Pechin 1964_ | Table 4, p. 6, row 18; `ORC-7TFAANZQ7U` |  |
+| 1584 | Liquid -> Laves_C15 + BCC_B2 |  | experimental | [2] Durga 2010; _cites Pechin 1964_ | Table 6, p. 5, row 23; `ORC-T3HQTY5T6X` |  |
+| 1583 | L -> Co2Zr + CoZr | L: Zr 0.47; Co2Zr: Co 0.666667, Zr 0.333333; CoZr: Co 0.5, Zr 0.5 | experimental | [1] Agraval 2020; _cites Pechin 1964_ | Table 3, p. 6, row 25; `ORC-LOWIWXO2XO` |  |
+| 1583 | liq. -> λ2 + CoZr | L: Zr 0.466; CoZr: Zr 0.5 | experimental | [4] Zhou 2021; _cites Pechin 1964_ | Table 2, p. 4, row 19; `ORC-ZNN7U4PM2K` |  |
+| 1578 | Liquid -> BCC_B2 |  | experimental | [2] Durga 2010; _cites Pechin 1964_ | Table 6, p. 5, row 5; `ORC-4NMQAMA233` |  |
+| 1553 | L + Co23Zr6 -> Co11Zr2 | Co23Zr6: Co 0.793103, Zr 0.206897; Co11Zr2: Co 0.846154, Zr 0.153846 | experimental | [1] Agraval 2020; _cites Kosorukova 2010_ | Table 3, p. 6, row 10; `ORC-7CCOBJSVT5` |  |
+| 1553 | liq. + Co23Zr6 -> Co11Zr2 | Co23Zr6: Zr 0.206897; Co11Zr2: Zr 0.153846 | experimental | [4] Zhou 2021; _cites Kosorukova 2010_ | Table 2, p. 4, row 9; `ORC-TLJNKWW6IQ` |  |
+| 1548.15 | Co23Zr6 + Liquid -> Co11Zr2 | Co23Zr6: Zr 0.206897; Co11Zr2: Zr 0.153846 | model | [3] Liu 2009 | Table 4, p. 6, row 6; `ORC-ER7JBM5DGT` |  |
+| 1548 | L + Co23Zr6 -> Co11Zr2 | Co23Zr6: Co 0.793103, Zr 0.206897; Co11Zr2: Co 0.846154, Zr 0.153846 | model | [1] Agraval 2020; _cites Liu 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.04.032) | Table 3, p. 6, row 12; `ORC-OZM76XAOAU` |  |
+| 1545.15 | Co23Zr6 + Liquid -> Co11Zr2 | Co23Zr6: Zr 0.206897; Co11Zr2: Zr 0.153846 | experimental | [3] Liu 2009; _cites Pechin 1964_ | Table 4, p. 6, row 7; `ORC-ALSJM7SCKF` |  |
+| 1545 | Liquid + Co23Zr6 -> Co11Zr2 | Co23Zr6: Co 0.793103, Zr 0.206897; Co11Zr2: Co 0.846154, Zr 0.153846 | model | [2] Durga 2010 | Table 6, p. 5, row 14; `ORC-D52LDR3YMS` |  |
+| 1545 | L + Co23Zr6 -> Co11Zr2 | Co23Zr6: Co 0.793103, Zr 0.206897; Co11Zr2: Co 0.846154, Zr 0.153846 | model | [1] Agraval 2020; _cites Durga 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.02.006) | Table 3, p. 6, row 13; `ORC-ITQXJCVVEZ` |  |
+| 1544.15 | Co23Zr6 + Liquid -> Co11Zr2 | Co23Zr6: Zr 0.206897; Co11Zr2: Zr 0.153846 | experimental | [3] Liu 2009 | Table 4, p. 6, row 5; `ORC-CFK6G7V2XR` |  |
+| 1544 | liq. + Co23Zr6 -> Co11Zr2 | Co23Zr6: Zr 0.206897; Co11Zr2: Zr 0.153846 | experimental | [4] Zhou 2021; _cites Liu 2009_ | Table 2, p. 4, row 8; `ORC-BNZ652FZXN` |  |
+| 1544 | L + Co23Zr6 -> Co11Zr2 | Co23Zr6: Co 0.793103, Zr 0.206897; Co11Zr2: Co 0.846154, Zr 0.153846 | experimental | [1] Agraval 2020; _cites Liu 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.04.032) | Table 3, p. 6, row 11; `ORC-HO3LKHOXXZ` |  |
+| 1544 | Liquid + Co23Zr6 -> Co11Zr2 | Co23Zr6: Co 0.793103, Zr 0.206897; Co11Zr2: Co 0.846154, Zr 0.153846 | experimental | [2] Durga 2010; _cites Liu 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.04.032) | Table 6, p. 5, row 17; `ORC-LRCAVGIO2V` |  |
+| 1543.15 | Co23Zr6 + Liquid -> Co11Zr2 | Co23Zr6: Zr 0.206897; Co11Zr2: Zr 0.153846 | experimental | [3] Liu 2009; _cites Bataleva 2009_ | Table 4, p. 6, row 8; `ORC-3SICXSJS2P` |  |
+| 1543 | L + Co23Zr6 -> Co11Zr2 | Co23Zr6: Co 0.793103, Zr 0.206897; Co11Zr2: Co 0.846154, Zr 0.153846 | experimental | [1] Agraval 2020; _cites Pechin 1964_ | Table 3, p. 6, row 8; `ORC-3RXRP4NWPY` |  |
+| 1543 | L + Co23Zr6 -> Co11Zr2 | Co23Zr6: Co 0.793103, Zr 0.206897; Co11Zr2: Co 0.846154, Zr 0.153846 | experimental | [1] Agraval 2020; _cites Bataleva 1970_ | Table 3, p. 6, row 9; `ORC-6A2YNJ2FUQ` |  |
+| 1543 | liq. + Co23Zr6 -> Co11Zr2 | Co23Zr6: Zr 0.206897; Co11Zr2: Zr 0.153846 | experimental | [4] Zhou 2021; _cites Pechin 1964_ | Table 2, p. 4, row 6; `ORC-DFHNXUA72E` |  |
+| 1543 | Liquid + Co23Zr6 -> Co11Zr2 | Co23Zr6: Co 0.793103, Zr 0.206897; Co11Zr2: Co 0.846154, Zr 0.153846 | experimental | [2] Durga 2010; _cites Bataleva 1970_ | Table 6, p. 5, row 16; `ORC-EHLWXBPBE5` |  |
+| 1543 | liq. + Co23Zr6 -> Co11Zr2 | Co23Zr6: Zr 0.206897; Co11Zr2: Zr 0.153846 | experimental | [4] Zhou 2021; _cites Bataleva 1970_ | Table 2, p. 4, row 7; `ORC-IFGEOXZXZQ` |  |
+| 1540 | L + Co23Zr6 -> Co11Zr2 | L: Zr 0.118; Co23Zr6: Zr 0.207; Co11Zr2: Zr 0.154 | model | [1] Agraval 2020 | Table 3, p. 6, row 14; `ORC-WQVYWXMFZR` |  |
+| 1540 | liq. + Co23Zr6 -> Co11Zr2 | L: Zr 0.118; Co23Zr6: Zr 0.207; Co11Zr2: Zr 0.154 | model | [4] Zhou 2021 | Table 2, p. 4, row 5; `ORC-Z7YQSNKON2` |  |
+| 1539 | Liquid + Co23Zr6 -> Co11Zr2 | Co23Zr6: Co 0.793103, Zr 0.206897; Co11Zr2: Co 0.846154, Zr 0.153846 | experimental | [2] Durga 2010; _cites Pechin 1964_ | Table 6, p. 5, row 15; `ORC-XA2YGZYFTG` |  |
+| 1533.15 | Liquid -> Co2Zr + CoZr | Co2Zr: Zr 0.333333; CoZr: Zr 0.5 | experimental | [3] Liu 2009; _cites Bataleva 2009_ | Table 4, p. 6, row 19; `ORC-C7E4CME7TF` |  |
+| 1533 | liq. -> λ2 + CoZr | L: Zr 0.46; CoZr: Zr 0.5 | experimental | [4] Zhou 2021; _cites Bataleva 1970_ | Table 2, p. 4, row 20; `ORC-4GXIXUIBPM` |  |
+| 1533 | L -> Co2Zr + CoZr | L: Zr 0.46; Co2Zr: Co 0.666667, Zr 0.333333; CoZr: Co 0.5, Zr 0.5 | experimental | [1] Agraval 2020; _cites Bataleva 1970_ | Table 3, p. 6, row 26; `ORC-SMGFHZD2RA` |  |
+| 1533 | Liquid -> Laves_C15 + BCC_B2 |  | experimental | [2] Durga 2010; _cites Bataleva 1970_ | Table 6, p. 5, row 24; `ORC-SSFHKDJ6P2` |  |
+| 1527 | L -> (βCo) + Co11Zr2 | Co11Zr2: Co 0.846154, Zr 0.153846 | model | [1] Agraval 2020; _cites Durga 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.02.006) | Table 3, p. 6, row 6; `ORC-3KPNU5AMQE` |  |
+| 1527 | Liquid -> FCC_A1 + Co11Zr2 | Co11Zr2: Co 0.846154, Zr 0.153846 | model | [2] Durga 2010 | Table 6, p. 5, row 10; `ORC-DLJYWMEOKT` |  |
+| 1524.15 | eutectic: Liq. -> Co11Zr2 + Co23Zr6 + fcc(Co) | Liq.: Co 0.893, Zr 0.104 | model | [5] Sun 2023 | Table VII, p. 23, row 3; `ORC-5KCLH5GHXD` |  |
+| 1513.15 | Liquid -> (αCo) + Co11Zr2 | Co11Zr2: Zr 0.153846 | experimental | [3] Liu 2009; _cites Bataleva 2009_ | Table 4, p. 6, row 4; `ORC-FAQ4RUHG7N` |  |
+| 1513 | Liquid -> FCC_A1 + Co11Zr2 | Co11Zr2: Co 0.846154, Zr 0.153846 | experimental | [2] Durga 2010; _cites Bataleva 1970_ | Table 6, p. 5, row 12; `ORC-5OXQYSB32P` |  |
+| 1513 | liq. -> fcc(Co) + Co11Zr2 | L: Zr 0.09; Co11Zr2: Zr 0.153846 | experimental | [4] Zhou 2021; _cites Bataleva 1970_ | Table 2, p. 4, row 3; `ORC-EL2YJQLNM2` |  |
+| 1513 | L -> (βCo) + Co11Zr2 | L: Zr 0.09; Co11Zr2: Co 0.846154, Zr 0.153846 | experimental | [1] Agraval 2020; _cites Bataleva 1970_ | Table 3, p. 6, row 3; `ORC-LZJTHEFNTF` |  |
+| 1507 | L -> (βCo) + Co11Zr2 | L: Zr 0.09; (βCo): Zr 1.600e-5; Co11Zr2: Zr 0.154 | model | [1] Agraval 2020 | Table 3, p. 6, row 7; `ORC-J7RE657GVE` |  |
+| 1507 | liq. -> fcc(Co) + Co11Zr2 | L: Zr 0.09; fcc(Co): Zr 1.000e-4; Co11Zr2: Zr 0.154 | model | [4] Zhou 2021 | Table 2, p. 4, row 1; `ORC-WETCEWFDDN` |  |
+| 1505.15 | Liquid -> (αCo) + Co11Zr2 | Co11Zr2: Zr 0.153846 | experimental | [3] Liu 2009; _cites Pechin 1964_ | Table 4, p. 6, row 3; `ORC-US5RZI6LDI` |  |
+| 1503.15 | Liquid -> (αCo) + Co11Zr2 | Co11Zr2: Zr 0.153846 | experimental | [3] Liu 2009 | Table 4, p. 6, row 1; `ORC-IHLZETRVUR` |  |
+| 1503 | Liquid -> FCC_A1 + Co11Zr2 | Co11Zr2: Co 0.846154, Zr 0.153846 | experimental | [2] Durga 2010; _cites Liu 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.04.032) | Table 6, p. 5, row 13; `ORC-3AT65YHRZJ` |  |
+| 1503 | L -> (βCo) + Co11Zr2 | Co11Zr2: Co 0.846154, Zr 0.153846 | experimental | [1] Agraval 2020; _cites Liu 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.04.032) | Table 3, p. 6, row 4; `ORC-HP655REQ3L` |  |
+| 1503 | L -> (βCo) + Co11Zr2 | L: Zr 0.095; Co11Zr2: Co 0.846154, Zr 0.153846 | experimental | [1] Agraval 2020; _cites Pechin 1964_ | Table 3, p. 6, row 2; `ORC-MVXRVW3OJZ` |  |
+| 1503 | liq. -> fcc(Co) + Co11Zr2 | Co11Zr2: Zr 0.153846 | experimental | [4] Zhou 2021; _cites Liu 2009_ | Table 2, p. 4, row 4; `ORC-SIL4GEA7FE` |  |
+| 1503 | liq. -> fcc(Co) + Co11Zr2 | L: Zr 0.095; Co11Zr2: Zr 0.153846 | experimental | [4] Zhou 2021; _cites Pechin 1964_ | Table 2, p. 4, row 2; `ORC-VLX5T5VRVY` |  |
+| 1500.15 | Liquid -> (αCo) + Co11Zr2 | Co11Zr2: Zr 0.153846 | model | [3] Liu 2009 | Table 4, p. 6, row 2; `ORC-JB6AFQRA2F` |  |
+| 1500 | L -> (βCo) + Co11Zr2 | Co11Zr2: Co 0.846154, Zr 0.153846 | model | [1] Agraval 2020; _cites Liu 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.04.032) | Table 3, p. 6, row 5; `ORC-4MGIZJU2QW` |  |
+| 1499 | Liquid -> FCC_A1 + Co11Zr2 | Co11Zr2: Co 0.846154, Zr 0.153846 | experimental | [2] Durga 2010; _cites Pechin 1964_ | Table 6, p. 5, row 11; `ORC-BK6NWZEDMY` |  |
+| 1396 | Liquid -> CoZr2 | L: Co 0.333333, Zr 0.666667; CoZr2: Co 0.333333, Zr 0.666667 | experimental | [2] Durga 2010; _cites Pechin 1964_ | Table 6, p. 5, row 8; `ORC-NCMZS2JRMW` |  |
+| 1394 | L -> CoZr2 | L: Co 0.333333, Zr 0.666667; CoZr2: Co 0.333333, Zr 0.666667 | model | [1] Agraval 2020; _cites Liu 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.04.032) | Table 3, p. 6, row 43; `ORC-2MBUUJDN6U` |  |
+| 1363 | L -> CoZr2 | L: Co 0.333333, Zr 0.666667; CoZr2: Co 0.333333, Zr 0.666667 | experimental | [1] Agraval 2020; _cites Bataleva 1970_ | Table 3, p. 6, row 41; `ORC-6CCVQQERWK` |  |
+| 1363 | Liquid -> CoZr2 | L: Co 0.333333, Zr 0.666667; CoZr2: Co 0.333333, Zr 0.666667 | experimental | [2] Durga 2010; _cites Bataleva 1970_ | Table 6, p. 5, row 9; `ORC-AYMXC73A7U` |  |
+| 1349 | L -> CoZr2 | L: Zr 0.667; CoZr2: Co 0.333333, Zr 0.666667 | model | [1] Agraval 2020 | Table 3, p. 6, row 45; `ORC-MX54QQCYO5` |  |
+| 1348 | liq. -> CoZr + CoZr2 | L: Zr 0.655; CoZr: Zr 0.5; CoZr2: Zr 0.667 | model | [4] Zhou 2021; _cites Agraval 2020_ [doi](https://doi.org/10.1007/s11669-020-00805-5) | Table 2, p. 4, row 30; `ORC-4JR2O7E7WK` |  |
+| 1348 | liq. -> CoZr + CoZr2 | L: Zr 0.658; CoZr: Zr 0.505; CoZr2: Zr 0.667 | model | [4] Zhou 2021 | Table 2, p. 4, row 26; `ORC-52DA2Z7A47` |  |
+| 1348 | L -> CoZr + CoZr2 | L: Zr 0.655; CoZr: Zr 0.5; CoZr2: Zr 0.667 | model | [1] Agraval 2020 | Table 3, p. 6, row 40; `ORC-IXQUPWGNFJ` |  |
+| 1343 | L -> CoZr2 | L: Co 0.333333, Zr 0.666667; CoZr2: Co 0.333333, Zr 0.666667 | experimental | [1] Agraval 2020; _cites Semenova 2016_ [doi](https://doi.org/10.1007/s11106-016-9751-x) | Table 3, p. 6, row 42; `ORC-IU2URHOC4F` |  |
+| 1338.15 | Liquid -> CoZr + CoZr2 | CoZr: Zr 0.5; CoZr2: Zr 0.666667 | model | [3] Liu 2009 | Table 4, p. 6, row 24; `ORC-CHZVUDZQVQ` |  |
+| 1338 | L -> CoZr + CoZr2 | CoZr: Co 0.5, Zr 0.5; CoZr2: Co 0.333333, Zr 0.666667 | model | [1] Agraval 2020; _cites Liu 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.04.032) | Table 3, p. 6, row 38; `ORC-RZJ3CABJTU` |  |
+| 1337.15 | Liquid -> CoZr + CoZr2 | CoZr: Zr 0.5; CoZr2: Zr 0.666667 | experimental | [3] Liu 2009 | Table 4, p. 6, row 23; `ORC-DLDLFGK6LJ` |  |
+| 1337 | liq. -> CoZr + CoZr2 | CoZr: Zr 0.5; CoZr2: Zr 0.666667 | experimental | [4] Zhou 2021; _cites Liu 2009_ | Table 2, p. 4, row 29; `ORC-HL4GMBAYJB` |  |
+| 1337 | Liquid -> BCC_B2 + CoZr2 | CoZr2: Co 0.333333, Zr 0.666667 | experimental | [2] Durga 2010; _cites Liu 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.04.032) | Table 6, p. 5, row 29; `ORC-NJTEN5DRKW` |  |
+| 1337 | L -> CoZr + CoZr2 | CoZr: Co 0.5, Zr 0.5; CoZr2: Co 0.333333, Zr 0.666667 | experimental | [1] Agraval 2020; _cites Liu 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.04.032) | Table 3, p. 6, row 37; `ORC-PEA2HBPLWI` |  |
+| 1334.15 | Liquid -> CoZr + CoZr2 | CoZr: Zr 0.5; CoZr2: Zr 0.666667 | experimental | [3] Liu 2009; _cites Pechin 1964_ | Table 4, p. 6, row 25; `ORC-2IIEQKA7FK` |  |
+| 1334 | Liquid -> BCC_B2 + CoZr2 | CoZr2: Co 0.333333, Zr 0.666667 | experimental | [2] Durga 2010; _cites Pechin 1964_ | Table 6, p. 5, row 27; `ORC-SQIVBJFP3O` |  |
+| 1333 | liq. -> CoZr + CoZr2 | L: Zr 0.65; CoZr: Zr 0.5; CoZr2: Zr 0.666667 | experimental | [4] Zhou 2021; _cites Pechin 1964_ | Table 2, p. 4, row 27; `ORC-T4DLJTX5B5` |  |
+| 1333 | L -> CoZr + CoZr2 | L: Zr 0.65; CoZr: Co 0.5, Zr 0.5; CoZr2: Co 0.333333, Zr 0.666667 | experimental | [1] Agraval 2020; _cites Pechin 1964_ | Table 3, p. 6, row 35; `ORC-TX52L3Z7JN` |  |
+| 1323 | Liquid -> CoZr2 | L: Co 0.333333, Zr 0.666667; CoZr2: Co 0.333333, Zr 0.666667 | model | [2] Durga 2010 | Table 6, p. 5, row 7; `ORC-2MUPUN4OUE` |  |
+| 1323 | L -> CoZr2 | L: Co 0.333333, Zr 0.666667; CoZr2: Co 0.333333, Zr 0.666667 | model | [1] Agraval 2020; _cites Durga 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.02.006) | Table 3, p. 6, row 44; `ORC-3V7PE72NZJ` |  |
+| 1321 | Liquid -> BCC_B2 + CoZr2 | CoZr2: Co 0.333333, Zr 0.666667 | model | [2] Durga 2010 | Table 6, p. 5, row 26; `ORC-PI7YCL7KC2` |  |
+| 1321 | L -> CoZr + CoZr2 | CoZr: Co 0.5, Zr 0.5; CoZr2: Co 0.333333, Zr 0.666667 | model | [1] Agraval 2020; _cites Durga 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.02.006) | Table 3, p. 6, row 39; `ORC-QW6YYJW2OW` |  |
+| 1313.15 | Liquid -> CoZr + CoZr2 | CoZr: Zr 0.5; CoZr2: Zr 0.666667 | experimental | [3] Liu 2009; _cites Bataleva 2009_ | Table 4, p. 6, row 26; `ORC-WHYJAZDQKQ` |  |
+| 1313 | Liquid -> BCC_B2 + CoZr2 | CoZr2: Co 0.333333, Zr 0.666667 | experimental | [2] Durga 2010; _cites Bataleva 1970_ | Table 6, p. 5, row 28; `ORC-2CLYOTB3EG` |  |
+| 1313 | L -> CoZr + CoZr2 | L: Zr 0.64; CoZr: Co 0.5, Zr 0.5; CoZr2: Co 0.333333, Zr 0.666667 | experimental | [1] Agraval 2020; _cites Bataleva 1970_ | Table 3, p. 6, row 36; `ORC-RPWWVD63HR` |  |
+| 1313 | liq. -> CoZr + CoZr2 | L: Zr 0.64; CoZr: Zr 0.5; CoZr2: Zr 0.666667 | experimental | [4] Zhou 2021; _cites Bataleva 1970_ | Table 2, p. 4, row 28; `ORC-SQW7GCGPWW` |  |
+| 1303 | liq. -> CoZr2 + bcc(Zr) | L: Zr 0.754; CoZr2: Zr 0.666667 | experimental | [4] Zhou 2021; _cites Kosorukova 2010_ | Table 2, p. 4, row 38; `ORC-662722X7NM` |  |
+| 1284 | liq. -> CoZr2 + bcc(Zr) | L: Zr 0.755; CoZr2: Zr 0.667; bcc(Zr): Zr 0.967 | model | [4] Zhou 2021; _cites Agraval 2020_ [doi](https://doi.org/10.1007/s11669-020-00805-5) | Table 2, p. 4, row 40; `ORC-VX5QP5VCKQ` |  |
+| 1279 | liq. -> CoZr2 + bcc(Zr) | L: Zr 0.754; CoZr2: Zr 0.667; bcc(Zr): Zr 0.966 | model | [4] Zhou 2021 | Table 2, p. 4, row 35; `ORC-WLYX4MNPK4` |  |
+| 1259 | Liquid -> CoZr2 + BCC_A2 | CoZr2: Co 0.333333, Zr 0.666667 | model | [2] Durga 2010 | Table 6, p. 5, row 32; `ORC-JUY2HT56WN` |  |
+| 1259 | liq. -> CoZr2 + bcc(Zr) | L: Zr 0.78; CoZr2: Zr 0.666667 | experimental | [4] Zhou 2021; _cites Semenova 2016_ [doi](https://doi.org/10.1007/s11106-016-9751-x) | Table 2, p. 4, row 39; `ORC-LIZW6ZTCKX` |  |
+| 1258.15 | Liquid -> (βZr) + CoZr2 | CoZr2: Zr 0.666667 | experimental | [3] Liu 2009 | Table 4, p. 6, row 30; `ORC-VQFILTKKAN` |  |
+| 1258.15 | eutectic: liquid ↔ (␤Zr) + CoZr2 |  | experimental | [3] Liu 2009 | p. 4; `ORC-ZKLUY62BDU.31a908` | “The DTA results indicate that the temperatures of the peritectoid reaction (CoZr2 + (␤Zr) ↔ CoZr3 ) and eutectic reaction (liquid ↔ (␤Zr) + CoZr2 ) are about 981 and 985 ◦ C, respectively.” |
+| 1258 | Liquid -> CoZr2 + BCC_A2 | CoZr2: Co 0.333333, Zr 0.666667 | experimental | [2] Durga 2010; _cites Liu 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.04.032) | Table 6, p. 5, row 34; `ORC-OXPU7TTAX7` |  |
+| 1258 | liq. -> CoZr2 + bcc(Zr) | CoZr2: Zr 0.666667 | experimental | [4] Zhou 2021; _cites Liu 2009_ | Table 2, p. 4, row 37; `ORC-RU3QBVFK32` |  |
+| 1258 | L -> CoZr2 + (βZr) | CoZr2: Co 0.333333, Zr 0.666667 | experimental | [1] Agraval 2020; _cites Liu 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.04.032) | Table 3, p. 6, row 48; `ORC-TEVYLLVPYS` |  |
+| 1257.15 | Liquid -> (βZr) + CoZr2 | CoZr2: Zr 0.666667 | model | [3] Liu 2009 | Table 4, p. 6, row 31; `ORC-XCZMO43N5Z` |  |
+| 1255 | Liquid -> CoZr2 + BCC_A2 | CoZr2: Co 0.333333, Zr 0.666667 | experimental | [2] Durga 2010; _cites Pechin 1964_ | Table 6, p. 5, row 33; `ORC-HBQKO52CUE` |  |
+| 1254.15 | Liquid -> (βZr) + CoZr2 | CoZr2: Zr 0.666667 | experimental | [3] Liu 2009; _cites Pechin 1964_ | Table 4, p. 6, row 32; `ORC-IZM6LMSH24` |  |
+| 1254.15 | (βZr) + CoZr2 -> CoZr3 | CoZr2: Zr 0.666667; CoZr3: Zr 0.75 | experimental | [3] Liu 2009 | Table 4, p. 6, row 33; `ORC-LZGY2NANYE` |  |
+| 1254 | peritectoid |  | experimental | [4] Zhou 2021; _cites Semenova 2016_ [doi](https://doi.org/10.1007/s11106-016-9751-x) | p. 2; `ORC-2U2ZK2T3ES` | “Semenova et al.\[30\] determined the CoZr2-Zr region of the Co-Zr phase diagram using the same methods as Kosorukova et al.,\[29\] and their experimental results supported the conclusion\[24\] that CoZr3 formed by the peritectoid reaction CoZr2 ? bcc_A2 ? CoZr3 at 1254 K.” |
+| 1254 | CoZr2 + bcc(Zr) -> CoZr3 | CoZr2: Zr 0.667; bcc(Zr): Zr 0.969; CoZr3: Zr 0.75 | model | [4] Zhou 2021; _cites Agraval 2020_ [doi](https://doi.org/10.1007/s11669-020-00805-5) | Table 2, p. 4, row 46; `ORC-45RPI5YE6J` |  |
+| 1254 | CoZr2 + bcc(Zr) -> CoZr3 | CoZr2: Zr 0.666667; CoZr3: Zr 0.75 | experimental | [4] Zhou 2021; _cites Semenova 2016_ [doi](https://doi.org/10.1007/s11106-016-9751-x) | Table 2, p. 4, row 45; `ORC-DMS2GSSIOA` |  |
+| 1254 | CoZr2 + bcc(Zr) -> CoZr3 | CoZr2: Zr 0.667; bcc(Zr): Zr 0.968; CoZr3: Zr 0.75 | model | [4] Zhou 2021 | Table 2, p. 4, row 42; `ORC-JE5NLAUMDW` |  |
+| 1254 | CoZr2 + bcc(Zr) -> CoZr3 | CoZr2: Zr 0.666667; CoZr3: Zr 0.75 | experimental | [4] Zhou 2021; _cites Liu 2009_ | Table 2, p. 4, row 43; `ORC-TNI6B2TRA5` |  |
+| 1254 | BCC_A2 + CoZr2 -> CoZr3 | CoZr2: Co 0.333333, Zr 0.666667; CoZr3: Co 0.25, Zr 0.75 | experimental | [2] Durga 2010; _cites Liu 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.04.032) | Table 6, p. 5, row 31; `ORC-UUNXJ7EP5C` |  |
+| 1254 | peritectoid |  | model | [4] Zhou 2021; _cites Liu 2009_ | p. 2; `ORC-YTIZDW2GRN.234c3a` | “CoZr3 was found to form peritectically from liquid ? bcc_A2 at 1253 K,\[32\] but peritectoidically from CoZr2 ? bcc_A2 at 1254 K.\[24\]” |
+| 1253.15 | Liquid + (βZr) -> CoZr3 | CoZr3: Zr 0.75 | experimental | [3] Liu 2009; _cites Bataleva 2009_ | Table 4, p. 6, row 39; `ORC-CDPDAOMBYB` |  |
+| 1253.15 | (βZr) + CoZr2 -> CoZr3 | CoZr2: Zr 0.666667; CoZr3: Zr 0.75 | model | [3] Liu 2009 | Table 4, p. 6, row 34; `ORC-NSLZQ3QIMQ` |  |
+| 1253 | eutectic: L -> CoZr2 + (bZr) |  | experimental | [1] Agraval 2020; _cites Pechin 1964_ | p. 3; `ORC-BTSO5AYZHP.b3ebc4` | “Hence, eutectic L ¡ CoZr2 ? (bZr) at 1253 K and eutectoid (bZr) ¡ (aZr) ? CoZr2 at 1106 K reactions were proposed for this part of the diagram.” |
+| 1253 | L -> CoZr2 + (βZr) | L: Zr 0.72; CoZr2: Co 0.333333, Zr 0.666667 | experimental | [1] Agraval 2020; _cites Bataleva 1970_ | Table 3, p. 6, row 47; `ORC-RQAHHIIXQ3` |  |
+| 1253 | L -> CoZr2 + (βZr) | L: Zr 0.79; CoZr2: Co 0.333333, Zr 0.666667 | experimental | [1] Agraval 2020; _cites Pechin 1964_ | Table 3, p. 6, row 46; `ORC-UZQ3ZI6ZUP` |  |
+| 1253 | liq. -> CoZr2 + bcc(Zr) | L: Zr 0.785; CoZr2: Zr 0.666667 | experimental | [4] Zhou 2021; _cites Pechin 1964_ | Table 2, p. 4, row 36; `ORC-YAE6OU5KNX` |  |
+| 1253 | peritectic |  | experimental | [4] Zhou 2021; _cites Bataleva 1970_ | p. 2; `ORC-YTIZDW2GRN.04e790` | “CoZr3 was found to form peritectically from liquid ? bcc_A2 at 1253 K,\[32\] but peritectoidically from CoZr2 ? bcc_A2 at 1254 K.\[24\]” |
+| 1253 | BCC_A2 + CoZr2 -> CoZr3 | CoZr2: Co 0.333333, Zr 0.666667; CoZr3: Co 0.25, Zr 0.75 | model | [2] Durga 2010 | Table 6, p. 5, row 30; `ORC-ZXUBKD7YVW` |  |
+| 1251 | CoZr2 + bcc(Zr) -> CoZr3 | CoZr2: Zr 0.666667; CoZr3: Zr 0.75 | experimental | [4] Zhou 2021; _cites Kosorukova 2010_ | Table 2, p. 4, row 44; `ORC-6USTEB4QEU` |  |
+| 1213.15 | Liquid -> CoZr3 + CoZr2 | CoZr3: Zr 0.75; CoZr2: Zr 0.666667 | experimental | [3] Liu 2009; _cites Bataleva 2009_ | Table 4, p. 6, row 38; `ORC-Q375TBHKIF` |  |
+| 1112.15 | (βZr) -> CoZr3 + (αZr) | CoZr3: Zr 0.75 | model | [3] Liu 2009 | Table 4, p. 6, row 36; `ORC-QK2DBA4IRJ` |  |
+| 1111.15 | (βZr) -> CoZr3 + (αZr) | CoZr3: Zr 0.75 | experimental | [3] Liu 2009 | Table 4, p. 6, row 35; `ORC-CQZHIK36VF` |  |
+| 1111 | BCC_A2 -> CoZr3 + HCP_A3 | CoZr3: Co 0.25, Zr 0.75 | experimental | [2] Durga 2010; _cites Liu 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.04.032) | Table 6, p. 5, row 36; `ORC-HDVQVK3NYQ` |  |
+| 1111 | bcc(Zr) -> CoZr3 + hcp(Zr) | CoZr3: Zr 0.75 | experimental | [4] Zhou 2021; _cites Liu 2009_ | Table 2, p. 4, row 49; `ORC-UU2N4VAE3C` |  |
+| 1107.15 | (βZr) -> CoZr2 + (αZr) | CoZr2: Zr 0.666667 | experimental | [3] Liu 2009; _cites Pechin 1964_ | Table 4, p. 6, row 37; `ORC-BAWMHDJAXL` |  |
+| 1106 | bcc(Zr) -> CoZr3 + hcp(Zr) | bcc(Zr): Zr 0.979; CoZr3: Zr 0.75; hcp(Zr): Zr 0.99 | model | [4] Zhou 2021 | Table 2, p. 4, row 47; `ORC-KX5NPQD7T6` |  |
+| 1106 | bcc(Zr) -> CoZr3 + hcp(Zr) | bcc(Zr): Zr 0.98; CoZr3: Zr 0.75; hcp(Zr): Zr 0.991 | model | [4] Zhou 2021; _cites Agraval 2020_ [doi](https://doi.org/10.1007/s11669-020-00805-5) | Table 2, p. 4, row 51; `ORC-WJH6RUMOBI` |  |
+| 1103.15 | (βZr) -> CoZr3 + (αZr) | CoZr3: Zr 0.75 | experimental | [3] Liu 2009; _cites Bataleva 2009_ | Table 4, p. 6, row 40; `ORC-BJFKLAZIOM` |  |
+| 1103 | bcc(Zr) -> CoZr3 + hcp(Zr) | CoZr3: Zr 0.75 | experimental | [4] Zhou 2021; _cites Kosorukova 2010_ | Table 2, p. 4, row 50; `ORC-IG55O5GH53` |  |
+| 1103 | bcc(Zr) -> CoZr3 + hcp(Zr) | CoZr3: Zr 0.75 | experimental | [4] Zhou 2021; _cites Bataleva 1970_ | Table 2, p. 4, row 48; `ORC-UVNDEODUNE` |  |
+| 1102 | BCC_A2 -> CoZr3 + HCP_A3 | CoZr3: Co 0.25, Zr 0.75 | model | [2] Durga 2010 | Table 6, p. 5, row 35; `ORC-HYR3A34WQC` |  |
+| 695 | (βCo) + Co11Zr2 -> (εCo) | (βCo): Zr 0; Co11Zr2: Zr 0.154 | model | [1] Agraval 2020 | Table 3, p. 6, row 1; `ORC-MDKL54NKQ7` |  |
+| 695 | fcc(Co) + Co11Zr2 -> hcp(Co) | fcc(Co): Zr 1.000e-4; Co11Zr2: Zr 0.154; hcp(Co): Zr 1.000e-4 | model | [4] Zhou 2021 | Table 2, p. 4, row 41; `ORC-UE4WTVYDPR` |  |
 
 ## Formation enthalpies
 
@@ -351,57 +351,57 @@ Table: Enthalpies of formation, Co–Zr system (51)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| BCC_B2 |  | -43.79 kJ/mol-atom | 1512 | model |  |  | [2] Durga 2010 | Table 5, p. 5, row 25 |  |
-| BCC_B2 |  | -43.05 kJ/mol-atom ± 3.9 | 1030 | experimental |  |  | [2] Durga 2010; _cites Gomozov 1986_ | Table 5, p. 5, row 22 |  |
-| BCC_B2 |  | -42.2 kJ/mol-atom ± 1 | 1512 | experimental |  |  | [2] Durga 2010; _cites Gachon 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990024-x) | Table 5, p. 5, row 24 |  |
-| BCC_B2 |  | -41.144 kJ/mol-atom | 1030 | model |  |  | [2] Durga 2010 | Table 5, p. 5, row 23 |  |
-| BCC_B2 |  | -36.502 kJ/mol-atom | 298.15 | model |  |  | [2] Durga 2010 | Table 5, p. 5, row 54 |  |
-| Co11Zr2 |  | -23.944 kJ/mol-atom | 298.15 | model |  |  | [4] Zhou 2021 | Table 3, p. 5, row 1 |  |
-| Co11Zr2 |  | -15.846 kJ/mol-atom | 298.15 | model |  |  | [2] Durga 2010 | Table 5, p. 5, row 44 |  |
-| Co23Zr6 | [Co23Zr6](https://data.orchid-project.org/compounds/Co23Zr6.html) | -29.8 kJ/mol-atom ± 1.5 | 1596 | experimental | -21.687 (mp-aaaabtft) | -13.87 (oqmd-29538) | [2] Durga 2010; _cites Gachon 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990024-x) | Table 5, p. 5, row 7 |  |
-| Co23Zr6 |  | -29.8 per mol-atom ± 1500 | 1596 | experimental |  |  | [4] Zhou 2021; _cites Gachon 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990024-x) | Table 3, p. 5, row 2 |  |
-| Co23Zr6 | [Co23Zr6](https://data.orchid-project.org/compounds/Co23Zr6.html) | -27.909 kJ/mol-atom | 1596 | model | -21.687 (mp-aaaabtft) | -13.87 (oqmd-29538) | [2] Durga 2010 | Table 5, p. 5, row 8 |  |
-| Co23Zr6 | [Co23Zr6](https://data.orchid-project.org/compounds/Co23Zr6.html) | -21.641 kJ/mol-atom | 298.15 | model | -21.687 (mp-aaaabtft) | -13.87 (oqmd-29538) | [2] Durga 2010 | Table 5, p. 5, row 46 |  |
-| Co2Zr | [Co2Zr](https://data.orchid-project.org/compounds/Co2Zr.html) | -57 kJ/mol-atom | 298.15 | model | -30.045 (mp-aaaaabjt) | -31 (oqmd-31202) | [6] Bratberg 2006 | Table 6, p. 5, row 6 |  |
-| Co2Zr | [Co2Zr](https://data.orchid-project.org/compounds/Co2Zr.html) | -56 kJ/mol-atom | 298.15 | model | -30.045 (mp-aaaaabjt) | -31 (oqmd-31202) | [6] Bratberg 2006; _cites Miedema 1998_ | Table 6, p. 5, row 5 |  |
-| Co2Zr | [Co2Zr](https://data.orchid-project.org/compounds/Co2Zr.html) | -35.8 kJ/mol-atom | 298.15 | experimental | -30.045 (mp-aaaaabjt) | -31 (oqmd-31202) | [6] Bratberg 2006; _cites Binary 1986_ | Table 6, p. 5, row 4 |  |
-| CoZr | [CoZr](https://data.orchid-project.org/compounds/CoZr.html) | -60 kJ/mol-atom | 298.15 | model | -28.143 (mp-aaaaadjv) | -32.068 (oqmd-1926887) | [6] Bratberg 2006 | Table 6, p. 5, row 3 |  |
-| CoZr | [CoZr](https://data.orchid-project.org/compounds/CoZr.html) | -60 kJ/mol-atom | 298.15 | model | -28.143 (mp-aaaaadjv) | -32.068 (oqmd-1926887) | [6] Bratberg 2006; _cites Miedema 1998_ | Table 6, p. 5, row 2 |  |
-| CoZr |  | -43.05 per mol-atom ± 3900 | 1030 | experimental |  |  | [4] Zhou 2021; _cites Gomozov 1986_ | Table 3, p. 5, row 13 |  |
-| CoZr |  | -42.2 per mol-atom ± 1000 | 1512 | experimental |  |  | [4] Zhou 2021; _cites Gachon 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990024-x) | Table 3, p. 5, row 12 |  |
-| CoZr |  | -40.267 per mol-atom | 1512 | model |  |  | [4] Zhou 2021 | Table 3, p. 5, row 17 |  |
-| CoZr |  | -35.8 per mol-atom ± 700 | 298.15 | experimental |  |  | [4] Zhou 2021; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900246-1) | Table 3, p. 5, row 14 |  |
-| CoZr | [CoZr](https://data.orchid-project.org/compounds/CoZr.html) | -35.8 kJ/mol-atom | 298.15 | experimental | -28.143 (mp-aaaaadjv) | -32.068 (oqmd-1926887) | [6] Bratberg 2006; _cites Binary 1986_ | Table 6, p. 5, row 1 |  |
-| CoZr |  | -35.694 per mol-atom | 298.15 | model |  |  | [4] Zhou 2021 | Table 3, p. 5, row 18 |  |
-| CoZr |  | -35.326 per mol-atom | 298.15 | model |  |  | [4] Zhou 2021; _cites Agraval 2020_ [doi](https://doi.org/10.1007/s11669-020-00805-5) | Table 3, p. 5, row 16 |  |
-| CoZr |  | -28.83 per mol-atom | 298.15 | experimental |  |  | [4] Zhou 2021; _cites Ohodnicki 2008_ [doi](https://doi.org/10.1103/physrevb.78.144414) | Table 3, p. 5, row 15 |  |
-| CoZr2 | [CoZr2](https://data.orchid-project.org/compounds/CoZr2.html) | -44 kJ/mol-atom | 298.15 | model | -24.825 (mp-aaaaaaye) | -25.161 (oqmd-29534) | [6] Bratberg 2006 | Table 6, p. 5, row 9 |  |
-| CoZr2 | [CoZr2](https://data.orchid-project.org/compounds/CoZr2.html) | -44 kJ/mol-atom | 298.15 | model | -24.825 (mp-aaaaaaye) | -25.161 (oqmd-29534) | [6] Bratberg 2006; _cites Miedema 1998_ | Table 6, p. 5, row 8 |  |
-| CoZr2 | [CoZr2](https://data.orchid-project.org/compounds/CoZr2.html) | -33 kJ/mol-atom ± 2 | 1290 | experimental | -24.825 (mp-aaaaaaye) | -25.161 (oqmd-29534) | [2] Durga 2010; _cites Gachon 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990024-x) | Table 5, p. 5, row 33 |  |
-| CoZr2 |  | -33 per mol-atom ± 2000 | 1290 | experimental |  |  | [4] Zhou 2021; _cites Gachon 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990024-x) | Table 3, p. 5, row 19 |  |
-| CoZr2 |  | -32.547 per mol-atom | 1290 | model |  |  | [4] Zhou 2021 | Table 3, p. 5, row 23 |  |
-| CoZr2 | [CoZr2](https://data.orchid-project.org/compounds/CoZr2.html) | -31.166 kJ/mol-atom | 1290 | model | -24.825 (mp-aaaaaaye) | -25.161 (oqmd-29534) | [2] Durga 2010 | Table 5, p. 5, row 34 |  |
-| CoZr2 |  | -30.745 per mol-atom | 298.15 | model |  |  | [4] Zhou 2021; _cites Agraval 2020_ [doi](https://doi.org/10.1007/s11669-020-00805-5) | Table 3, p. 5, row 22 |  |
-| CoZr2 |  | -28.946 per mol-atom | 298.15 | model |  |  | [4] Zhou 2021 | Table 3, p. 5, row 24 |  |
-| CoZr2 | [CoZr2](https://data.orchid-project.org/compounds/CoZr2.html) | -27.564 kJ/mol-atom | 298.15 | model | -24.825 (mp-aaaaaaye) | -25.161 (oqmd-29534) | [2] Durga 2010 | Table 5, p. 5, row 59 |  |
-| CoZr2 |  | -26.4 per mol-atom ± 1000 | 298.15 | experimental |  |  | [4] Zhou 2021; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900246-1) | Table 3, p. 5, row 20 |  |
-| CoZr2 | [CoZr2](https://data.orchid-project.org/compounds/CoZr2.html) | -26.4 kJ/mol-atom | 298.15 | experimental | -24.825 (mp-aaaaaaye) | -25.161 (oqmd-29534) | [6] Bratberg 2006; _cites Binary 1986_ | Table 6, p. 5, row 7 |  |
-| CoZr2 |  | -26.3 per mol-atom | 298.15 | experimental |  |  | [4] Zhou 2021; _cites Ohodnicki 2008_ [doi](https://doi.org/10.1103/physrevb.78.144414) | Table 3, p. 5, row 21 |  |
-| CoZr3 | [CoZr3](https://data.orchid-project.org/compounds/CoZr3.html) | -23.01 kJ/mol-atom | 298.15 | model | -20.331 (mp-aaaabthr) | -20.793 (oqmd-29536) | [4] Zhou 2021 | Table 3, p. 5, row 26 |  |
-| CoZr3 |  | -22.44 per mol-atom | 298.15 | experimental |  |  | [4] Zhou 2021; _cites Ohodnicki 2008_ [doi](https://doi.org/10.1103/physrevb.78.144414) | Table 3, p. 5, row 25 |  |
-| CoZr3 | [CoZr3](https://data.orchid-project.org/compounds/CoZr3.html) | -18.899 kJ/mol-atom | 298.15 | model | -20.331 (mp-aaaabthr) | -20.793 (oqmd-29536) | [2] Durga 2010 | Table 5, p. 5, row 64 |  |
-| Laves_C15 |  | -41 kJ/mol-atom ± 1.6 | 1708 | experimental |  |  | [2] Durga 2010; _cites Gachon 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990024-x) | Table 5, p. 5, row 13 |  |
-| Laves_C15 |  | -38.866 kJ/mol-atom | 1708 | model |  |  | [2] Durga 2010 | Table 5, p. 5, row 14 |  |
-| Laves_C15 |  | -33.794 kJ/mol-atom | 298.15 | model |  |  | [2] Durga 2010 | Table 5, p. 5, row 50 |  |
-| λ2 |  | -41 per mol-atom ± 1600 | 1708 | experimental |  |  | [4] Zhou 2021; _cites Gachon 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990024-x) | Table 3, p. 5, row 5 |  |
-| λ2 |  | -37.667 per mol-atom ± 3667 | 298.15 | experimental |  |  | [4] Zhou 2021; _cites Klein 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900226-0) | Table 3, p. 5, row 6 |  |
-| λ2 |  | -37.261 per mol-atom | 1708 | model |  |  | [4] Zhou 2021 | Table 3, p. 5, row 10 |  |
-| λ2 |  | -35.8 per mol-atom ± 600 | 298.15 | experimental |  |  | [4] Zhou 2021; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900246-1) | Table 3, p. 5, row 7 |  |
-| λ2 |  | -31.92 per mol-atom | 298.15 | model |  |  | [4] Zhou 2021; _cites Agraval 2020_ [doi](https://doi.org/10.1007/s11669-020-00805-5) | Table 3, p. 5, row 9 |  |
-| λ2 |  | -31.775 per mol-atom | 298.15 | model |  |  | [4] Zhou 2021 | Table 3, p. 5, row 11 |  |
-| λ2 |  | -31.68 per mol-atom | 298.15 | experimental |  |  | [4] Zhou 2021; _cites Ohodnicki 2008_ [doi](https://doi.org/10.1103/physrevb.78.144414) | Table 3, p. 5, row 8 |  |
-| λ2 |  | -28.642 kJ/mol-atom | 298.15 | model |  |  | [4] Zhou 2021 | Table 3, p. 5, row 4 |  |
-| λ2 |  | -21.9 per mol-atom | 298.15 | experimental |  |  | [4] Zhou 2021; _cites Ohodnicki 2008_ [doi](https://doi.org/10.1103/physrevb.78.144414) | Table 3, p. 5, row 3 |  |
+| BCC_B2 |  | -43.79 kJ/mol-atom | 1512 | model |  |  | [2] Durga 2010 | Table 5, p. 5, row 25; `ORC-VWDLIDFCIC` |  |
+| BCC_B2 |  | -43.05 kJ/mol-atom ± 3.9 | 1030 | experimental |  |  | [2] Durga 2010; _cites Gomozov 1986_ | Table 5, p. 5, row 22; `ORC-PE2NH2ADO3` |  |
+| BCC_B2 |  | -42.2 kJ/mol-atom ± 1 | 1512 | experimental |  |  | [2] Durga 2010; _cites Gachon 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990024-x) | Table 5, p. 5, row 24; `ORC-7GLCZE6BL2` |  |
+| BCC_B2 |  | -41.144 kJ/mol-atom | 1030 | model |  |  | [2] Durga 2010 | Table 5, p. 5, row 23; `ORC-P5URYXK43S` |  |
+| BCC_B2 |  | -36.502 kJ/mol-atom | 298.15 | model |  |  | [2] Durga 2010 | Table 5, p. 5, row 54; `ORC-VAUZ5MGIS6` |  |
+| Co11Zr2 |  | -23.944 kJ/mol-atom | 298.15 | model |  |  | [4] Zhou 2021 | Table 3, p. 5, row 1; `ORC-O6HCCKAIMY` |  |
+| Co11Zr2 |  | -15.846 kJ/mol-atom | 298.15 | model |  |  | [2] Durga 2010 | Table 5, p. 5, row 44; `ORC-OWXWCBQU7T` |  |
+| Co23Zr6 | [Co23Zr6](https://data.orchid-project.org/compounds/Co23Zr6.html) | -29.8 kJ/mol-atom ± 1.5 | 1596 | experimental | -21.687 (mp-aaaabtft) | -13.87 (oqmd-29538) | [2] Durga 2010; _cites Gachon 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990024-x) | Table 5, p. 5, row 7; `ORC-AVBXHNT6ZI` |  |
+| Co23Zr6 |  | -29.8 per mol-atom ± 1500 | 1596 | experimental |  |  | [4] Zhou 2021; _cites Gachon 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990024-x) | Table 3, p. 5, row 2; `ORC-WROLSYFUZP` |  |
+| Co23Zr6 | [Co23Zr6](https://data.orchid-project.org/compounds/Co23Zr6.html) | -27.909 kJ/mol-atom | 1596 | model | -21.687 (mp-aaaabtft) | -13.87 (oqmd-29538) | [2] Durga 2010 | Table 5, p. 5, row 8; `ORC-PTZ7BFER3A` |  |
+| Co23Zr6 | [Co23Zr6](https://data.orchid-project.org/compounds/Co23Zr6.html) | -21.641 kJ/mol-atom | 298.15 | model | -21.687 (mp-aaaabtft) | -13.87 (oqmd-29538) | [2] Durga 2010 | Table 5, p. 5, row 46; `ORC-4OMZ3V2FQ6` |  |
+| Co2Zr | [Co2Zr](https://data.orchid-project.org/compounds/Co2Zr.html) | -57 kJ/mol-atom | 298.15 | model | -30.045 (mp-aaaaabjt) | -31 (oqmd-31202) | [6] Bratberg 2006 | Table 6, p. 5, row 6; `ORC-WWSYP44PDE` |  |
+| Co2Zr | [Co2Zr](https://data.orchid-project.org/compounds/Co2Zr.html) | -56 kJ/mol-atom | 298.15 | model | -30.045 (mp-aaaaabjt) | -31 (oqmd-31202) | [6] Bratberg 2006; _cites Miedema 1998_ | Table 6, p. 5, row 5; `ORC-BJ5BS45JTA` |  |
+| Co2Zr | [Co2Zr](https://data.orchid-project.org/compounds/Co2Zr.html) | -35.8 kJ/mol-atom | 298.15 | experimental | -30.045 (mp-aaaaabjt) | -31 (oqmd-31202) | [6] Bratberg 2006; _cites Binary 1986_ | Table 6, p. 5, row 4; `ORC-7MULQTH7UO` |  |
+| CoZr | [CoZr](https://data.orchid-project.org/compounds/CoZr.html) | -60 kJ/mol-atom | 298.15 | model | -28.143 (mp-aaaaadjv) | -32.068 (oqmd-1926887) | [6] Bratberg 2006 | Table 6, p. 5, row 3; `ORC-Q6F4A7IPCH` |  |
+| CoZr | [CoZr](https://data.orchid-project.org/compounds/CoZr.html) | -60 kJ/mol-atom | 298.15 | model | -28.143 (mp-aaaaadjv) | -32.068 (oqmd-1926887) | [6] Bratberg 2006; _cites Miedema 1998_ | Table 6, p. 5, row 2; `ORC-Y4AFF6RAM7` |  |
+| CoZr |  | -43.05 per mol-atom ± 3900 | 1030 | experimental |  |  | [4] Zhou 2021; _cites Gomozov 1986_ | Table 3, p. 5, row 13; `ORC-Z32ZDTPGPH` |  |
+| CoZr |  | -42.2 per mol-atom ± 1000 | 1512 | experimental |  |  | [4] Zhou 2021; _cites Gachon 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990024-x) | Table 3, p. 5, row 12; `ORC-ZIVNZIKCRD` |  |
+| CoZr |  | -40.267 per mol-atom | 1512 | model |  |  | [4] Zhou 2021 | Table 3, p. 5, row 17; `ORC-AGTHT6SYHF` |  |
+| CoZr |  | -35.8 per mol-atom ± 700 | 298.15 | experimental |  |  | [4] Zhou 2021; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900246-1) | Table 3, p. 5, row 14; `ORC-36MPP26I4C` |  |
+| CoZr | [CoZr](https://data.orchid-project.org/compounds/CoZr.html) | -35.8 kJ/mol-atom | 298.15 | experimental | -28.143 (mp-aaaaadjv) | -32.068 (oqmd-1926887) | [6] Bratberg 2006; _cites Binary 1986_ | Table 6, p. 5, row 1; `ORC-POCTZFCZBS` |  |
+| CoZr |  | -35.694 per mol-atom | 298.15 | model |  |  | [4] Zhou 2021 | Table 3, p. 5, row 18; `ORC-7D2ZQXQLML` |  |
+| CoZr |  | -35.326 per mol-atom | 298.15 | model |  |  | [4] Zhou 2021; _cites Agraval 2020_ [doi](https://doi.org/10.1007/s11669-020-00805-5) | Table 3, p. 5, row 16; `ORC-XQASXHXF42` |  |
+| CoZr |  | -28.83 per mol-atom | 298.15 | experimental |  |  | [4] Zhou 2021; _cites Ohodnicki 2008_ [doi](https://doi.org/10.1103/physrevb.78.144414) | Table 3, p. 5, row 15; `ORC-A4VB6KHLAS` |  |
+| CoZr2 | [CoZr2](https://data.orchid-project.org/compounds/CoZr2.html) | -44 kJ/mol-atom | 298.15 | model | -24.825 (mp-aaaaaaye) | -25.161 (oqmd-29534) | [6] Bratberg 2006 | Table 6, p. 5, row 9; `ORC-EQUGODDSGW` |  |
+| CoZr2 | [CoZr2](https://data.orchid-project.org/compounds/CoZr2.html) | -44 kJ/mol-atom | 298.15 | model | -24.825 (mp-aaaaaaye) | -25.161 (oqmd-29534) | [6] Bratberg 2006; _cites Miedema 1998_ | Table 6, p. 5, row 8; `ORC-Y2CGAEPXKG` |  |
+| CoZr2 | [CoZr2](https://data.orchid-project.org/compounds/CoZr2.html) | -33 kJ/mol-atom ± 2 | 1290 | experimental | -24.825 (mp-aaaaaaye) | -25.161 (oqmd-29534) | [2] Durga 2010; _cites Gachon 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990024-x) | Table 5, p. 5, row 33; `ORC-MVSB6SX2V7` |  |
+| CoZr2 |  | -33 per mol-atom ± 2000 | 1290 | experimental |  |  | [4] Zhou 2021; _cites Gachon 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990024-x) | Table 3, p. 5, row 19; `ORC-YFLVCCB43G` |  |
+| CoZr2 |  | -32.547 per mol-atom | 1290 | model |  |  | [4] Zhou 2021 | Table 3, p. 5, row 23; `ORC-AATVX7VDFM` |  |
+| CoZr2 | [CoZr2](https://data.orchid-project.org/compounds/CoZr2.html) | -31.166 kJ/mol-atom | 1290 | model | -24.825 (mp-aaaaaaye) | -25.161 (oqmd-29534) | [2] Durga 2010 | Table 5, p. 5, row 34; `ORC-E7LLKP5ECM` |  |
+| CoZr2 |  | -30.745 per mol-atom | 298.15 | model |  |  | [4] Zhou 2021; _cites Agraval 2020_ [doi](https://doi.org/10.1007/s11669-020-00805-5) | Table 3, p. 5, row 22; `ORC-A5CCDQTW52` |  |
+| CoZr2 |  | -28.946 per mol-atom | 298.15 | model |  |  | [4] Zhou 2021 | Table 3, p. 5, row 24; `ORC-63UZV65L23` |  |
+| CoZr2 | [CoZr2](https://data.orchid-project.org/compounds/CoZr2.html) | -27.564 kJ/mol-atom | 298.15 | model | -24.825 (mp-aaaaaaye) | -25.161 (oqmd-29534) | [2] Durga 2010 | Table 5, p. 5, row 59; `ORC-6DNW4CO4AB` |  |
+| CoZr2 |  | -26.4 per mol-atom ± 1000 | 298.15 | experimental |  |  | [4] Zhou 2021; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900246-1) | Table 3, p. 5, row 20; `ORC-IYC4PGUJTW` |  |
+| CoZr2 | [CoZr2](https://data.orchid-project.org/compounds/CoZr2.html) | -26.4 kJ/mol-atom | 298.15 | experimental | -24.825 (mp-aaaaaaye) | -25.161 (oqmd-29534) | [6] Bratberg 2006; _cites Binary 1986_ | Table 6, p. 5, row 7; `ORC-JNEHYRHA5S` |  |
+| CoZr2 |  | -26.3 per mol-atom | 298.15 | experimental |  |  | [4] Zhou 2021; _cites Ohodnicki 2008_ [doi](https://doi.org/10.1103/physrevb.78.144414) | Table 3, p. 5, row 21; `ORC-NC3WQHQ7DK` |  |
+| CoZr3 | [CoZr3](https://data.orchid-project.org/compounds/CoZr3.html) | -23.01 kJ/mol-atom | 298.15 | model | -20.331 (mp-aaaabthr) | -20.793 (oqmd-29536) | [4] Zhou 2021 | Table 3, p. 5, row 26; `ORC-T355V4UROO` |  |
+| CoZr3 |  | -22.44 per mol-atom | 298.15 | experimental |  |  | [4] Zhou 2021; _cites Ohodnicki 2008_ [doi](https://doi.org/10.1103/physrevb.78.144414) | Table 3, p. 5, row 25; `ORC-LWASPT3OQI` |  |
+| CoZr3 | [CoZr3](https://data.orchid-project.org/compounds/CoZr3.html) | -18.899 kJ/mol-atom | 298.15 | model | -20.331 (mp-aaaabthr) | -20.793 (oqmd-29536) | [2] Durga 2010 | Table 5, p. 5, row 64; `ORC-ZVIFS5W5GT` |  |
+| Laves_C15 |  | -41 kJ/mol-atom ± 1.6 | 1708 | experimental |  |  | [2] Durga 2010; _cites Gachon 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990024-x) | Table 5, p. 5, row 13; `ORC-FB3RIC2HEE` |  |
+| Laves_C15 |  | -38.866 kJ/mol-atom | 1708 | model |  |  | [2] Durga 2010 | Table 5, p. 5, row 14; `ORC-FK2RS2YLTE` |  |
+| Laves_C15 |  | -33.794 kJ/mol-atom | 298.15 | model |  |  | [2] Durga 2010 | Table 5, p. 5, row 50; `ORC-JJZREDKW6X` |  |
+| λ2 |  | -41 per mol-atom ± 1600 | 1708 | experimental |  |  | [4] Zhou 2021; _cites Gachon 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990024-x) | Table 3, p. 5, row 5; `ORC-6H5ME6J4UL` |  |
+| λ2 |  | -37.667 per mol-atom ± 3667 | 298.15 | experimental |  |  | [4] Zhou 2021; _cites Klein 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900226-0) | Table 3, p. 5, row 6; `ORC-HZPK6OYDCM` |  |
+| λ2 |  | -37.261 per mol-atom | 1708 | model |  |  | [4] Zhou 2021 | Table 3, p. 5, row 10; `ORC-B2NOB7HKNW` |  |
+| λ2 |  | -35.8 per mol-atom ± 600 | 298.15 | experimental |  |  | [4] Zhou 2021; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900246-1) | Table 3, p. 5, row 7; `ORC-NZLIJZO5D6` |  |
+| λ2 |  | -31.92 per mol-atom | 298.15 | model |  |  | [4] Zhou 2021; _cites Agraval 2020_ [doi](https://doi.org/10.1007/s11669-020-00805-5) | Table 3, p. 5, row 9; `ORC-IIFYHY76CD` |  |
+| λ2 |  | -31.775 per mol-atom | 298.15 | model |  |  | [4] Zhou 2021 | Table 3, p. 5, row 11; `ORC-D3I25L3I6J` |  |
+| λ2 |  | -31.68 per mol-atom | 298.15 | experimental |  |  | [4] Zhou 2021; _cites Ohodnicki 2008_ [doi](https://doi.org/10.1103/physrevb.78.144414) | Table 3, p. 5, row 8; `ORC-7PRPWQORCK` |  |
+| λ2 |  | -28.642 kJ/mol-atom | 298.15 | model |  |  | [4] Zhou 2021 | Table 3, p. 5, row 4; `ORC-WNLMQ5Z6LR` |  |
+| λ2 |  | -21.9 per mol-atom | 298.15 | experimental |  |  | [4] Zhou 2021; _cites Ohodnicki 2008_ [doi](https://doi.org/10.1103/physrevb.78.144414) | Table 3, p. 5, row 3; `ORC-6J7A4JXWOQ` |  |
 
 ## Other properties
 
@@ -411,42 +411,42 @@ Table: Phase transition, Co–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1103 K | 1103 | (bZr) -> (aZr) + CoZr3 | experimental | [1] Agraval 2020; _cites Bataleva 1970_ | p. 3 | “Subsequent metallographic and thermographic examinations of this region by Bataleva et al.\[22\] showed that CoZr3 existed in the system and reported the invariant reactions L ¡ CoZr2 ? CoZr3 at 1213 K, L ? (bZr) ¡ CoZr3 at 1253 K, and (bZr) ¡ (aZr) ? CoZr3 at 1103 K.” |
-| Phase transition | 1106 K | 1106 | other: (bZr) -> (aZr) + CoZr2 | experimental | [1] Agraval 2020; _cites Pechin 1964_ | p. 3 | “Hence, eutectic L ¡ CoZr2 ? (bZr) at 1253 K and eutectoid (bZr) ¡ (aZr) ? CoZr2 at 1106 K reactions were proposed for this part of the diagram.” |
-| Phase transition | 1213 K | 1213 | L -> CoZr2 + CoZr3 | experimental | [1] Agraval 2020; _cites Bataleva 1970_ | p. 3 | “Subsequent metallographic and thermographic examinations of this region by Bataleva et al.\[22\] showed that CoZr3 existed in the system and reported the invariant reactions L ¡ CoZr2 ? CoZr3 at 1213 K, L ? (bZr) ¡ CoZr3 at 1253 K, and (bZr) ¡ (aZr) ? CoZr3 at 1103 K.” |
-| Phase transition | 1253 K | 1253 | L + (bZr) -> CoZr3 | experimental | [1] Agraval 2020; _cites Bataleva 1970_ | p. 3 | “Subsequent metallographic and thermographic examinations of this region by Bataleva et al.\[22\] showed that CoZr3 existed in the system and reported the invariant reactions L ¡ CoZr2 ? CoZr3 at 1213 K, L ? (bZr) ¡ CoZr3 at 1253 K, and (bZr) ¡ (aZr) ? CoZr3 at 1103 K.” |
-| Phase transition | 1254 K | 1254 | CoZr2 + (bZr) -> CoZr3 | model | [1] Agraval 2020; _cites Liu 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.04.032) | p. 3 | “According to Liu et al.\[21\] and Semenova et al.,\[23\] the temperatures of L ¡ CoZr2 ? (bZr) and CoZr2 ? (bZr) ¡ CoZr3 are extremely close (1258 and 1254 K\[21\] or 1259 and 1254 K\[23\]), while Kosorukova et al.\[20\] reported the temperature difference of 52 K.” |
-| Phase transition | 1254 K | 1254 | CoZr2 + (bZr) -> CoZr3 | experimental | [1] Agraval 2020; _cites Semenova 2016_ [doi](https://doi.org/10.1007/s11106-016-9751-x) | p. 3 | “According to Liu et al.\[21\] and Semenova et al.,\[23\] the temperatures of L ¡ CoZr2 ? (bZr) and CoZr2 ? (bZr) ¡ CoZr3 are extremely close (1258 and 1254 K\[21\] or 1259 and 1254 K\[23\]), while Kosorukova et al.\[20\] reported the temperature difference of 52 K.” |
-| Phase transition | 1254.15 K | 1254.15 | CoZr2 + (␤Zr) ↔ CoZr3 | experimental | [3] Liu 2009 | p. 1 | “The experimental results indicate that (1) the solubility region of the Co2 Zr phase is from 25 to 34 at.% Zr; (2) the CoZr3 phase exists and the temperature of the peritectoid reaction (CoZr2 + (␤Zr) ↔ CoZr3 ) is about 981 ◦ C; (3) the solubilities of Zr in the (␣Co) phase and Co in the (␤Zr) phase are about 0.15 and 2.5 at.%, respectively.” |
-| Phase transition | 1254.15 K | 1254.15 | CoZr2 + (␤Zr) ↔ CoZr3 | experimental | [3] Liu 2009 | p. 4 | “The DTA results indicate that the temperatures of the peritectoid reaction (CoZr2 + (␤Zr) ↔ CoZr3 ) and eutectic reaction (liquid ↔ (␤Zr) + CoZr2 ) are about 981 and 985 ◦ C, respectively.” |
-| Phase transition | 1258 K | 1258 | L -> CoZr2 + (bZr) | model | [1] Agraval 2020; _cites Liu 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.04.032) | p. 3 | “According to Liu et al.\[21\] and Semenova et al.,\[23\] the temperatures of L ¡ CoZr2 ? (bZr) and CoZr2 ? (bZr) ¡ CoZr3 are extremely close (1258 and 1254 K\[21\] or 1259 and 1254 K\[23\]), while Kosorukova et al.\[20\] reported the temperature difference of 52 K.” |
-| Phase transition | 1259 K | 1259 | L -> CoZr2 + (bZr) | experimental | [1] Agraval 2020; _cites Semenova 2016_ [doi](https://doi.org/10.1007/s11106-016-9751-x) | p. 3 | “According to Liu et al.\[21\] and Semenova et al.,\[23\] the temperatures of L ¡ CoZr2 ? (bZr) and CoZr2 ? (bZr) ¡ CoZr3 are extremely close (1258 and 1254 K\[21\] or 1259 and 1254 K\[23\]), while Kosorukova et al.\[20\] reported the temperature difference of 52 K.” |
-| Phase transition | 1343 K | 1343 | liq. -> CoZr2; _L: Zr 0.666667; CoZr2: Zr 0.666667_ | experimental | [4] Zhou 2021; _cites Semenova 2016_ [doi](https://doi.org/10.1007/s11106-016-9751-x) | Table 2, p. 4, row 33 |  |
-| Phase transition | 1349 K | 1349 | liq. -> CoZr2; _L: Zr 0.667; CoZr2: Zr 0.667_ | model | [4] Zhou 2021 | Table 2, p. 4, row 31 |  |
-| Phase transition | 1349 K | 1349 | liq. -> CoZr2; _L: Zr 0.667; CoZr2: Zr 0.667_ | model | [4] Zhou 2021; _cites Agraval 2020_ [doi](https://doi.org/10.1007/s11669-020-00805-5) | Table 2, p. 4, row 34 |  |
-| Phase transition | 1363 K | 1363 | liq. -> CoZr2; _L: Zr 0.666667; CoZr2: Zr 0.666667_ | experimental | [4] Zhou 2021; _cites Bataleva 1970_ | Table 2, p. 4, row 32 |  |
-| Phase transition | 1363.15 K | 1363.15 | Liquid -> CoZr2; _Liquid: Zr 0.666667; CoZr2: Zr 0.666667_ | experimental | [3] Liu 2009; _cites Bataleva 2009_ | Table 4, p. 6, row 29 |  |
-| Phase transition | 1394.15 K | 1394.15 | Liquid -> CoZr2; _Liquid: Zr 0.666667; CoZr2: Zr 0.666667_ | model | [3] Liu 2009 | Table 4, p. 6, row 27 |  |
-| Phase transition | 1394.15 K | 1394.15 | Liquid -> CoZr2; _Liquid: Zr 0.666667; CoZr2: Zr 0.666667_ | experimental | [3] Liu 2009; _cites Pechin 1964_ | Table 4, p. 6, row 28 |  |
-| Phase transition | 1578 K | 1578 | Liquid ↔ Laves_C15 + BCC_B2 | experimental | [2] Durga 2010; _cites Pechin 1964_ | p. 2 | “Similarly, data of \[6\] indicate that the congruent melting point of BCC_B2 should be above 1578 K, which is the temperature of the invariant reaction Liquid ↔ Laves_C15 + BCC_B2.” |
-| Phase transition | 1610 K | 1610 | liq. -> CoZr; _L: Zr 0.5; CoZr: Zr 0.5_ | model | [4] Zhou 2021 | Table 2, p. 4, row 23 |  |
-| Phase transition | 1610 K | 1610 | liq. -> CoZr; _L: Zr 0.5; CoZr: Zr 0.5_ | model | [4] Zhou 2021; _cites Agraval 2020_ [doi](https://doi.org/10.1007/s11669-020-00805-5) | Table 2, p. 4, row 25 |  |
-| Phase transition | 1616.4 K | 1616.4 | L + Co2Zr -> Co23Zr6 | model | [1] Agraval 2020; _cites Liu 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.04.032) | p. 3 | “According to Pechin et al.\[24\], the temperature of the L ? Co2Zr ¡ Co23Zr6 reaction is 1723 K, while Bataleva et al.\[22\] and Liu et al.\[21\] reported values of 1623 and 1616.4 K, respectively.” |
-| Phase transition | 1623 K | 1623 | L + Co2Zr -> Co23Zr6 | experimental | [1] Agraval 2020; _cites Bataleva 1970_ | p. 3 | “According to Pechin et al.\[24\], the temperature of the L ? Co2Zr ¡ Co23Zr6 reaction is 1723 K, while Bataleva et al.\[22\] and Liu et al.\[21\] reported values of 1623 and 1616.4 K, respectively.” |
-| Phase transition | 1643 K | 1643 | liq. -> CoZr; _L: Zr 0.5; CoZr: Zr 0.5_ | experimental | [4] Zhou 2021; _cites Bataleva 1970_ | Table 2, p. 4, row 24 |  |
-| Phase transition | 1643.15 K | 1643.15 | Liquid -> CoZr; _Liquid: Zr 0.5; CoZr: Zr 0.5_ | experimental | [3] Liu 2009; _cites Bataleva 2009_ | Table 4, p. 6, row 22 |  |
-| Phase transition | 1671.15 K | 1671.15 | Liquid -> CoZr; _Liquid: Zr 0.5; CoZr: Zr 0.5_ | model | [3] Liu 2009 | Table 4, p. 6, row 20 |  |
-| Phase transition | 1673.15 K | 1673.15 | Liquid -> CoZr; _Liquid: Zr 0.5; CoZr: Zr 0.5_ | experimental | [3] Liu 2009; _cites Pechin 1964_ | Table 4, p. 6, row 21 |  |
-| Phase transition | 1723 K | 1723 | L + Co2Zr -> Co23Zr6 | experimental | [1] Agraval 2020; _cites Pechin 1964_ | p. 3 | “According to Pechin et al.\[24\], the temperature of the L ? Co2Zr ¡ Co23Zr6 reaction is 1723 K, while Bataleva et al.\[22\] and Liu et al.\[21\] reported values of 1623 and 1616.4 K, respectively.” |
-| Phase transition | 1812 K | 1812 | other | experimental | [2] Durga 2010; _cites Pechin 1964_ | p. 2 | “Thermal analysis data of \[6\] indicate that the solidus temperature for an alloy close to the ideal stoichiometry of Laves_C15 is around 1812 K.” |
-| Phase transition | 1833 K | 1833 |  | experimental | [2] Durga 2010; _cites Bataleva 1970_ | p. 2 | “Bataleva et al. \[8\] have determined this temperature to be 1833 K.” |
-| Phase transition | 1833 K | 1833 | liq. -> λ2 | experimental | [4] Zhou 2021; _cites Bataleva 1970_ | Table 2, p. 4, row 16 |  |
-| Phase transition | 1833.15 K | 1833.15 | Liquid -> Co2Zr; _Liquid: Zr 0.333333; Co2Zr: Zr 0.333333_ | experimental | [3] Liu 2009; _cites Bataleva 2009_ | Table 4, p. 6, row 15 |  |
-| Phase transition | 1835 K | 1835 | liq. -> λ2; _L: Zr 0.315; λ2: Zr 0.315_ | model | [4] Zhou 2021; _cites Agraval 2020_ [doi](https://doi.org/10.1007/s11669-020-00805-5) | Table 2, p. 4, row 17 |  |
-| Phase transition | 1836 K | 1836 | liq. -> λ2; _L: Zr 0.315; λ2: Zr 0.315_ | model | [4] Zhou 2021 | Table 2, p. 4, row 15 |  |
-| Phase transition | 1863 K | 1863 |  | experimental | [2] Durga 2010; _cites Pechin 1964_ | p. 2 | “However, in the published phase diagram it appears to be placed around 1863 K.” |
-| Phase transition | 1863.15 K | 1863.15 | Liquid -> Co2Zr; _Liquid: Zr 0.333333; Co2Zr: Zr 0.333333_ | experimental | [3] Liu 2009; _cites Pechin 1964_ | Table 4, p. 6, row 14 |  |
-| Phase transition | 1863.15 K | 1863.15 | Liquid -> Co2Zr; _Liquid: Zr 0.333333; Co2Zr: Zr 0.333333_ | model | [3] Liu 2009 | Table 4, p. 6, row 13 |  |
+| Phase transition | 1103 K | 1103 | (bZr) -> (aZr) + CoZr3 | experimental | [1] Agraval 2020; _cites Bataleva 1970_ | p. 3; `ORC-AKEKBYP4B4.cb6846` | “Subsequent metallographic and thermographic examinations of this region by Bataleva et al.\[22\] showed that CoZr3 existed in the system and reported the invariant reactions L ¡ CoZr2 ? CoZr3 at 1213 K, L ? (bZr) ¡ CoZr3 at 1253 K, and (bZr) ¡ (aZr) ? CoZr3 at 1103 K.” |
+| Phase transition | 1106 K | 1106 | other: (bZr) -> (aZr) + CoZr2 | experimental | [1] Agraval 2020; _cites Pechin 1964_ | p. 3; `ORC-BTSO5AYZHP.33f7bf` | “Hence, eutectic L ¡ CoZr2 ? (bZr) at 1253 K and eutectoid (bZr) ¡ (aZr) ? CoZr2 at 1106 K reactions were proposed for this part of the diagram.” |
+| Phase transition | 1213 K | 1213 | L -> CoZr2 + CoZr3 | experimental | [1] Agraval 2020; _cites Bataleva 1970_ | p. 3; `ORC-AKEKBYP4B4.a7aed6` | “Subsequent metallographic and thermographic examinations of this region by Bataleva et al.\[22\] showed that CoZr3 existed in the system and reported the invariant reactions L ¡ CoZr2 ? CoZr3 at 1213 K, L ? (bZr) ¡ CoZr3 at 1253 K, and (bZr) ¡ (aZr) ? CoZr3 at 1103 K.” |
+| Phase transition | 1253 K | 1253 | L + (bZr) -> CoZr3 | experimental | [1] Agraval 2020; _cites Bataleva 1970_ | p. 3; `ORC-AKEKBYP4B4.eeebd2` | “Subsequent metallographic and thermographic examinations of this region by Bataleva et al.\[22\] showed that CoZr3 existed in the system and reported the invariant reactions L ¡ CoZr2 ? CoZr3 at 1213 K, L ? (bZr) ¡ CoZr3 at 1253 K, and (bZr) ¡ (aZr) ? CoZr3 at 1103 K.” |
+| Phase transition | 1254 K | 1254 | CoZr2 + (bZr) -> CoZr3 | model | [1] Agraval 2020; _cites Liu 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.04.032) | p. 3; `ORC-7ZYEM6GHLC.7fc133` | “According to Liu et al.\[21\] and Semenova et al.,\[23\] the temperatures of L ¡ CoZr2 ? (bZr) and CoZr2 ? (bZr) ¡ CoZr3 are extremely close (1258 and 1254 K\[21\] or 1259 and 1254 K\[23\]), while Kosorukova et al.\[20\] reported the temperature difference of 52 K.” |
+| Phase transition | 1254 K | 1254 | CoZr2 + (bZr) -> CoZr3 | experimental | [1] Agraval 2020; _cites Semenova 2016_ [doi](https://doi.org/10.1007/s11106-016-9751-x) | p. 3; `ORC-7ZYEM6GHLC.978afd` | “According to Liu et al.\[21\] and Semenova et al.,\[23\] the temperatures of L ¡ CoZr2 ? (bZr) and CoZr2 ? (bZr) ¡ CoZr3 are extremely close (1258 and 1254 K\[21\] or 1259 and 1254 K\[23\]), while Kosorukova et al.\[20\] reported the temperature difference of 52 K.” |
+| Phase transition | 1254.15 K | 1254.15 | CoZr2 + (␤Zr) ↔ CoZr3 | experimental | [3] Liu 2009 | p. 1; `ORC-6ZGRE2WGGR` | “The experimental results indicate that (1) the solubility region of the Co2 Zr phase is from 25 to 34 at.% Zr; (2) the CoZr3 phase exists and the temperature of the peritectoid reaction (CoZr2 + (␤Zr) ↔ CoZr3 ) is about 981 ◦ C; (3) the solubilities of Zr in the (␣Co) phase and Co in the (␤Zr) phase are about 0.15 and 2.5 at.%, respectively.” |
+| Phase transition | 1254.15 K | 1254.15 | CoZr2 + (␤Zr) ↔ CoZr3 | experimental | [3] Liu 2009 | p. 4; `ORC-ZKLUY62BDU.5f13c5` | “The DTA results indicate that the temperatures of the peritectoid reaction (CoZr2 + (␤Zr) ↔ CoZr3 ) and eutectic reaction (liquid ↔ (␤Zr) + CoZr2 ) are about 981 and 985 ◦ C, respectively.” |
+| Phase transition | 1258 K | 1258 | L -> CoZr2 + (bZr) | model | [1] Agraval 2020; _cites Liu 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.04.032) | p. 3; `ORC-7ZYEM6GHLC.226638` | “According to Liu et al.\[21\] and Semenova et al.,\[23\] the temperatures of L ¡ CoZr2 ? (bZr) and CoZr2 ? (bZr) ¡ CoZr3 are extremely close (1258 and 1254 K\[21\] or 1259 and 1254 K\[23\]), while Kosorukova et al.\[20\] reported the temperature difference of 52 K.” |
+| Phase transition | 1259 K | 1259 | L -> CoZr2 + (bZr) | experimental | [1] Agraval 2020; _cites Semenova 2016_ [doi](https://doi.org/10.1007/s11106-016-9751-x) | p. 3; `ORC-7ZYEM6GHLC.dd577f` | “According to Liu et al.\[21\] and Semenova et al.,\[23\] the temperatures of L ¡ CoZr2 ? (bZr) and CoZr2 ? (bZr) ¡ CoZr3 are extremely close (1258 and 1254 K\[21\] or 1259 and 1254 K\[23\]), while Kosorukova et al.\[20\] reported the temperature difference of 52 K.” |
+| Phase transition | 1343 K | 1343 | liq. -> CoZr2; _L: Zr 0.666667; CoZr2: Zr 0.666667_ | experimental | [4] Zhou 2021; _cites Semenova 2016_ [doi](https://doi.org/10.1007/s11106-016-9751-x) | Table 2, p. 4, row 33; `ORC-FTDPKK2DHG` |  |
+| Phase transition | 1349 K | 1349 | liq. -> CoZr2; _L: Zr 0.667; CoZr2: Zr 0.667_ | model | [4] Zhou 2021 | Table 2, p. 4, row 31; `ORC-OQXRAT7EJL` |  |
+| Phase transition | 1349 K | 1349 | liq. -> CoZr2; _L: Zr 0.667; CoZr2: Zr 0.667_ | model | [4] Zhou 2021; _cites Agraval 2020_ [doi](https://doi.org/10.1007/s11669-020-00805-5) | Table 2, p. 4, row 34; `ORC-SS4BSMVPDM` |  |
+| Phase transition | 1363 K | 1363 | liq. -> CoZr2; _L: Zr 0.666667; CoZr2: Zr 0.666667_ | experimental | [4] Zhou 2021; _cites Bataleva 1970_ | Table 2, p. 4, row 32; `ORC-F72PHYU4G4` |  |
+| Phase transition | 1363.15 K | 1363.15 | Liquid -> CoZr2; _Liquid: Zr 0.666667; CoZr2: Zr 0.666667_ | experimental | [3] Liu 2009; _cites Bataleva 2009_ | Table 4, p. 6, row 29; `ORC-L5IFPUVM6W` |  |
+| Phase transition | 1394.15 K | 1394.15 | Liquid -> CoZr2; _Liquid: Zr 0.666667; CoZr2: Zr 0.666667_ | model | [3] Liu 2009 | Table 4, p. 6, row 27; `ORC-FJN5ELTYSJ` |  |
+| Phase transition | 1394.15 K | 1394.15 | Liquid -> CoZr2; _Liquid: Zr 0.666667; CoZr2: Zr 0.666667_ | experimental | [3] Liu 2009; _cites Pechin 1964_ | Table 4, p. 6, row 28; `ORC-PUIV3EHPTI` |  |
+| Phase transition | 1578 K | 1578 | Liquid ↔ Laves_C15 + BCC_B2 | experimental | [2] Durga 2010; _cites Pechin 1964_ | p. 2; `ORC-F5IPOIEBWO` | “Similarly, data of \[6\] indicate that the congruent melting point of BCC_B2 should be above 1578 K, which is the temperature of the invariant reaction Liquid ↔ Laves_C15 + BCC_B2.” |
+| Phase transition | 1610 K | 1610 | liq. -> CoZr; _L: Zr 0.5; CoZr: Zr 0.5_ | model | [4] Zhou 2021 | Table 2, p. 4, row 23; `ORC-EEGDI6OYSY` |  |
+| Phase transition | 1610 K | 1610 | liq. -> CoZr; _L: Zr 0.5; CoZr: Zr 0.5_ | model | [4] Zhou 2021; _cites Agraval 2020_ [doi](https://doi.org/10.1007/s11669-020-00805-5) | Table 2, p. 4, row 25; `ORC-ZBRPV2O3B6` |  |
+| Phase transition | 1616.4 K | 1616.4 | L + Co2Zr -> Co23Zr6 | model | [1] Agraval 2020; _cites Liu 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.04.032) | p. 3; `ORC-SI6Y5Q6RQI.4bf166` | “According to Pechin et al.\[24\], the temperature of the L ? Co2Zr ¡ Co23Zr6 reaction is 1723 K, while Bataleva et al.\[22\] and Liu et al.\[21\] reported values of 1623 and 1616.4 K, respectively.” |
+| Phase transition | 1623 K | 1623 | L + Co2Zr -> Co23Zr6 | experimental | [1] Agraval 2020; _cites Bataleva 1970_ | p. 3; `ORC-SI6Y5Q6RQI.2fc4b5` | “According to Pechin et al.\[24\], the temperature of the L ? Co2Zr ¡ Co23Zr6 reaction is 1723 K, while Bataleva et al.\[22\] and Liu et al.\[21\] reported values of 1623 and 1616.4 K, respectively.” |
+| Phase transition | 1643 K | 1643 | liq. -> CoZr; _L: Zr 0.5; CoZr: Zr 0.5_ | experimental | [4] Zhou 2021; _cites Bataleva 1970_ | Table 2, p. 4, row 24; `ORC-SLUDWGGEYR` |  |
+| Phase transition | 1643.15 K | 1643.15 | Liquid -> CoZr; _Liquid: Zr 0.5; CoZr: Zr 0.5_ | experimental | [3] Liu 2009; _cites Bataleva 2009_ | Table 4, p. 6, row 22; `ORC-ZEASLLDVRB` |  |
+| Phase transition | 1671.15 K | 1671.15 | Liquid -> CoZr; _Liquid: Zr 0.5; CoZr: Zr 0.5_ | model | [3] Liu 2009 | Table 4, p. 6, row 20; `ORC-NCTPYEURDV` |  |
+| Phase transition | 1673.15 K | 1673.15 | Liquid -> CoZr; _Liquid: Zr 0.5; CoZr: Zr 0.5_ | experimental | [3] Liu 2009; _cites Pechin 1964_ | Table 4, p. 6, row 21; `ORC-WVK34HAEMX` |  |
+| Phase transition | 1723 K | 1723 | L + Co2Zr -> Co23Zr6 | experimental | [1] Agraval 2020; _cites Pechin 1964_ | p. 3; `ORC-SI6Y5Q6RQI.ada019` | “According to Pechin et al.\[24\], the temperature of the L ? Co2Zr ¡ Co23Zr6 reaction is 1723 K, while Bataleva et al.\[22\] and Liu et al.\[21\] reported values of 1623 and 1616.4 K, respectively.” |
+| Phase transition | 1812 K | 1812 | other | experimental | [2] Durga 2010; _cites Pechin 1964_ | p. 2; `ORC-JGKJCGCZ4X` | “Thermal analysis data of \[6\] indicate that the solidus temperature for an alloy close to the ideal stoichiometry of Laves_C15 is around 1812 K.” |
+| Phase transition | 1833 K | 1833 |  | experimental | [2] Durga 2010; _cites Bataleva 1970_ | p. 2; `ORC-GIFPCCXSFA` | “Bataleva et al. \[8\] have determined this temperature to be 1833 K.” |
+| Phase transition | 1833 K | 1833 | liq. -> λ2 | experimental | [4] Zhou 2021; _cites Bataleva 1970_ | Table 2, p. 4, row 16; `ORC-AKOMWZATAH` |  |
+| Phase transition | 1833.15 K | 1833.15 | Liquid -> Co2Zr; _Liquid: Zr 0.333333; Co2Zr: Zr 0.333333_ | experimental | [3] Liu 2009; _cites Bataleva 2009_ | Table 4, p. 6, row 15; `ORC-QAZSKZ5HXV` |  |
+| Phase transition | 1835 K | 1835 | liq. -> λ2; _L: Zr 0.315; λ2: Zr 0.315_ | model | [4] Zhou 2021; _cites Agraval 2020_ [doi](https://doi.org/10.1007/s11669-020-00805-5) | Table 2, p. 4, row 17; `ORC-7RWMZTF54Z` |  |
+| Phase transition | 1836 K | 1836 | liq. -> λ2; _L: Zr 0.315; λ2: Zr 0.315_ | model | [4] Zhou 2021 | Table 2, p. 4, row 15; `ORC-B7ZUXZZAHN` |  |
+| Phase transition | 1863 K | 1863 |  | experimental | [2] Durga 2010; _cites Pechin 1964_ | p. 2; `ORC-AVEDELH65M` | “However, in the published phase diagram it appears to be placed around 1863 K.” |
+| Phase transition | 1863.15 K | 1863.15 | Liquid -> Co2Zr; _Liquid: Zr 0.333333; Co2Zr: Zr 0.333333_ | experimental | [3] Liu 2009; _cites Pechin 1964_ | Table 4, p. 6, row 14; `ORC-EMWBIUTUS6` |  |
+| Phase transition | 1863.15 K | 1863.15 | Liquid -> Co2Zr; _Liquid: Zr 0.333333; Co2Zr: Zr 0.333333_ | model | [3] Liu 2009 | Table 4, p. 6, row 13; `ORC-EPYEQBEB7N` |  |
 
 ### Phase equilibrium (50)
 
@@ -454,56 +454,56 @@ Table: Phase equilibrium, Co–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 1073.15 | Co23Zr6 + Co2Zr; _Co23Zr6: Co 0.7912, Zr 0.2088; Co2Zr: Co 0.7393, Zr 0.2607_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 4 |  |
-| Phase composition |  | 1073.15 | Co2Zr + CoZr; _Co2Zr: Co 0.6645, Zr 0.3355; CoZr: Co 0.5075, Zr 0.4925_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 1 |  |
-| Phase composition |  | 1073.15 | CoZr + CoZr2; _CoZr: Co 0.4934, Zr 0.5066; CoZr2: Co 0.3323, Zr 0.6677_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 2 |  |
-| Phase composition |  | 1073.15 | CoZr + CoZr2; _CoZr: Co 0.5012, Zr 0.4988; CoZr2: Co 0.3363, Zr 0.6637_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 3 |  |
-| Phase composition |  | 1073.15 | CoZr3 + (αZr); _CoZr3: Co 0.2499, Zr 0.7501; (αZr): Co 0.0166, Zr 0.9834_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 5 |  |
-| Phase composition |  | 1173.15 | (αCo) + Co11Zr2; _(αCo): Co 0.9988, Zr 0.0012; Co11Zr2: Co 0.8454, Zr 0.1546_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 12 |  |
-| Phase composition |  | 1173.15 | Co23Zr6 + Co2Zr; _Co23Zr6: Co 0.7904, Zr 0.2096; Co2Zr: Co 0.7367, Zr 0.2633_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 11 |  |
-| Phase composition |  | 1173.15 | Co2Zr + CoZr; _Co2Zr: Co 0.6681, Zr 0.3319; CoZr: Co 0.5012, Zr 0.4988_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 6 |  |
-| Phase composition |  | 1173.15 | Co2Zr + CoZr; _Co2Zr: Co 0.666, Zr 0.334; CoZr: Co 0.5078, Zr 0.4922_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 9 |  |
-| Phase composition |  | 1173.15 | CoZr + CoZr2; _CoZr: Co 0.5062, Zr 0.4938; CoZr2: Co 0.335, Zr 0.665_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 7 |  |
-| Phase composition |  | 1173.15 | CoZr + CoZr2; _CoZr: Co 0.5052, Zr 0.4948; CoZr2: Co 0.3373, Zr 0.6627_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 10 |  |
-| Phase composition |  | 1173.15 | CoZr2 + CoZr3; _CoZr2: Co 0.3444, Zr 0.6556; CoZr3: Co 0.2576, Zr 0.7424_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 13 |  |
-| Phase composition |  | 1173.15 | CoZr3 + (αZr); _CoZr3: Co 0.2471, Zr 0.7529; (αZr): Co 0.0345, Zr 0.9655_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 8 |  |
-| Phase composition |  | 1273.15 | (αCo) + Co11Zr2; _(αCo): Co 0.9989, Zr 0.0011; Co11Zr2: Co 0.84, Zr 0.16_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 23 |  |
-| Phase composition |  | 1273.15 | (αCo) + Co11Zr2; _(αCo): Co 0.9947, Zr 0.0053; Co11Zr2: Co 0.8489, Zr 0.1511_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 19 |  |
-| Phase composition |  | 1273.15 | Co11Zr2 + Co23Zr6; _Co11Zr2: Co 0.8419, Zr 0.1581; Co23Zr6: Co 0.7853, Zr 0.2147_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 18 |  |
-| Phase composition |  | 1273.15 | Co23Zr6 + Co2Zr; _Co23Zr6: Co 0.79, Zr 0.21; Co2Zr: Co 0.7406, Zr 0.2594_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 22 |  |
-| Phase composition |  | 1273.15 | Co2Zr + CoZr; _Co2Zr: Co 0.674, Zr 0.326; CoZr: Co 0.5062, Zr 0.4938_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 16 |  |
-| Phase composition |  | 1273.15 | Co2Zr + CoZr; _Co2Zr: Co 0.6726, Zr 0.3274; CoZr: Co 0.509, Zr 0.491_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 14 |  |
-| Phase composition |  | 1273.15 | CoZr + CoZr2; _CoZr: Co 0.5037, Zr 0.4963; CoZr2: Co 0.3382, Zr 0.6618_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 15 |  |
-| Phase composition |  | 1273.15 | CoZr + CoZr2; _CoZr: Co 0.5038, Zr 0.4962; CoZr2: Co 0.3368, Zr 0.6632_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 17 |  |
-| Phase composition |  | 1273.15 | CoZr2 + liquid; _CoZr2: Co 0.3317, Zr 0.6683; liquid: Co 0.256, Zr 0.744_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 20 |  |
-| Phase composition |  | 1273.15 | CoZr3 + (βZr); _CoZr3: Co 0.2466, Zr 0.7534; (βZr): Co 0.0358, Zr 0.9642_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 21 |  |
-| Phase composition |  | 1323.15 | CoZr2 + liquid; _CoZr2: Co 0.3305, Zr 0.6695; liquid: Co 0.2641, Zr 0.7359_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 24 |  |
-| Phase composition |  | 1323.15 | Liquid + (βZr); _Liquid: Co 0.2395, Zr 0.7605; (βZr): Co 0.0295, Zr 0.9705_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 25 |  |
-| Phase composition |  | 1373.15 | (αCo) + Co11Zr2; _(αCo): Co 0.9995, Zr 5.000e-4; Co11Zr2: Co 0.8443, Zr 0.1557_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 30 |  |
-| Phase composition |  | 1373.15 | (αCo) + Co11Zr2; _(αCo): Co 0.9995, Zr 5.000e-4; Co11Zr2: Co 0.8425, Zr 0.1575_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 31 |  |
-| Phase composition |  | 1373.15 | Co23Zr6 + Co2Zr; _Co23Zr6: Co 0.7915, Zr 0.2085; Co2Zr: Co 0.7441, Zr 0.2559_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 29 |  |
-| Phase composition |  | 1373.15 | Co2Zr + CoZr; _Co2Zr: Co 0.6719, Zr 0.3281; CoZr: Co 0.507, Zr 0.493_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 27 |  |
-| Phase composition |  | 1373.15 | Co2Zr + CoZr; _Co2Zr: Co 0.6753, Zr 0.3247; CoZr: Co 0.5067, Zr 0.4933_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 26 |  |
-| Phase composition |  | 1373.15 | CoZr + CoZr2; _CoZr: Co 0.5086, Zr 0.4914; CoZr2: Co 0.3549, Zr 0.6451_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 28 |  |
-| Phase composition |  | 1423.15 | Co2Zr + CoZr; _Co2Zr: Co 0.6705, Zr 0.3295; CoZr: Co 0.5027, Zr 0.4973_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 32 |  |
-| Phase composition |  | 1423.15 | Liquid + (βZr); _Liquid: Co 0.2274, Zr 0.7726; (βZr): Co 0.0321, Zr 0.9679_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 33 |  |
-| Phase composition |  | 1473.15 | (αCo) + Co11Zr2; _(αCo): Co 0.9991, Zr 9.000e-4; Co11Zr2: Co 0.8461, Zr 0.1539_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 37 |  |
-| Phase composition |  | 1473.15 | (αCo) + Co11Zr2; _(αCo): Co 0.998, Zr 0.002; Co11Zr2: Co 0.8468, Zr 0.1532_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 40 |  |
-| Phase composition |  | 1473.15 | Co23Zr6 + Co2Zr; _Co23Zr6: Co 0.8002, Zr 0.1998; Co2Zr: Co 0.7408, Zr 0.2592_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 39 |  |
-| Phase composition |  | 1473.15 | Co2Zr + CoZr; _Co2Zr: Co 0.6653, Zr 0.3347; CoZr: Co 0.4976, Zr 0.5024_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 35 |  |
-| Phase composition |  | 1473.15 | Co2Zr + CoZr; _Co2Zr: Co 0.6623, Zr 0.3377; CoZr: Co 0.4992, Zr 0.5008_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 34 |  |
-| Phase composition |  | 1473.15 | CoZr + CoZr2; _CoZr: Co 0.4996, Zr 0.5004; CoZr2: Co 0.368, Zr 0.632_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 36 |  |
-| Phase composition |  | 1473.15 | Liquid + (βZr); _Liquid: Co 0.2245, Zr 0.7755; (βZr): Co 0.0287, Zr 0.9713_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 38 |  |
-| Phase composition |  | 1523.15 | (αCo) + liquid; _(αCo): Co 0.9987, Zr 0.0013; liquid: Co 0.9085, Zr 0.0915_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 42 |  |
-| Phase composition |  | 1523.15 | Co2Zr + CoZr; _Co2Zr: Co 0.6733, Zr 0.3267; CoZr: Co 0.505, Zr 0.495_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 41 |  |
-| Phase composition |  | 1573.15 | (αCo) + liquid; _(αCo): Co 0.9991, Zr 9.000e-4; liquid: Co 0.9116, Zr 0.0884_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 45 |  |
-| Phase composition |  | 1573.15 | Co23Zr6 + Co2Zr; _Co23Zr6: Co 0.8003, Zr 0.1997; Co2Zr: Co 0.7602, Zr 0.2398_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 47 |  |
-| Phase composition |  | 1573.15 | Co2Zr + CoZr; _Co2Zr: Co 0.6699, Zr 0.3301; CoZr: Co 0.5108, Zr 0.4892_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 43 |  |
-| Phase composition |  | 1573.15 | Co2Zr + CoZr; _Co2Zr: Co 0.6777, Zr 0.3223; CoZr: Co 0.5088, Zr 0.4912_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 44 |  |
-| Phase composition |  | 1573.15 | Liquid + (βZr); _Liquid: Co 0.2142, Zr 0.7858; (βZr): Co 0.0196, Zr 0.9804_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 46 |  |
-| Phase composition |  | 1623.15 | (αCo) + liquid; _(αCo): Co 0.9989, Zr 0.0011; liquid: Co 0.9158, Zr 0.0842_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 49 |  |
-| Phase composition |  | 1623.15 | Co2Zr + liquid; _Co2Zr: Co 0.6825, Zr 0.3175; liquid: Co 0.5413, Zr 0.4587_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 48 |  |
-| Phase composition |  | 1623.15 | Liquid + (βZr); _Liquid: Co 0.2094, Zr 0.7906; (βZr): Co 0.0233, Zr 0.9767_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 50 |  |
+| Phase composition |  | 1073.15 | Co23Zr6 + Co2Zr; _Co23Zr6: Co 0.7912, Zr 0.2088; Co2Zr: Co 0.7393, Zr 0.2607_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 4; `ORC-SVGDQRSUUQ` |  |
+| Phase composition |  | 1073.15 | Co2Zr + CoZr; _Co2Zr: Co 0.6645, Zr 0.3355; CoZr: Co 0.5075, Zr 0.4925_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 1; `ORC-A6ZVGS6MXT` |  |
+| Phase composition |  | 1073.15 | CoZr + CoZr2; _CoZr: Co 0.4934, Zr 0.5066; CoZr2: Co 0.3323, Zr 0.6677_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 2; `ORC-WOWZ2WCPAK` |  |
+| Phase composition |  | 1073.15 | CoZr + CoZr2; _CoZr: Co 0.5012, Zr 0.4988; CoZr2: Co 0.3363, Zr 0.6637_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 3; `ORC-ZSPRPRYPOM` |  |
+| Phase composition |  | 1073.15 | CoZr3 + (αZr); _CoZr3: Co 0.2499, Zr 0.7501; (αZr): Co 0.0166, Zr 0.9834_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 5; `ORC-PIRJIBAOTH` |  |
+| Phase composition |  | 1173.15 | (αCo) + Co11Zr2; _(αCo): Co 0.9988, Zr 0.0012; Co11Zr2: Co 0.8454, Zr 0.1546_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 12; `ORC-VUI3Y4NK5M` |  |
+| Phase composition |  | 1173.15 | Co23Zr6 + Co2Zr; _Co23Zr6: Co 0.7904, Zr 0.2096; Co2Zr: Co 0.7367, Zr 0.2633_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 11; `ORC-ZZUPDYJR7K` |  |
+| Phase composition |  | 1173.15 | Co2Zr + CoZr; _Co2Zr: Co 0.6681, Zr 0.3319; CoZr: Co 0.5012, Zr 0.4988_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 6; `ORC-AL2G3GTKBQ` |  |
+| Phase composition |  | 1173.15 | Co2Zr + CoZr; _Co2Zr: Co 0.666, Zr 0.334; CoZr: Co 0.5078, Zr 0.4922_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 9; `ORC-MX63Z6VWTY` |  |
+| Phase composition |  | 1173.15 | CoZr + CoZr2; _CoZr: Co 0.5062, Zr 0.4938; CoZr2: Co 0.335, Zr 0.665_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 7; `ORC-CAMMQ6SIHD` |  |
+| Phase composition |  | 1173.15 | CoZr + CoZr2; _CoZr: Co 0.5052, Zr 0.4948; CoZr2: Co 0.3373, Zr 0.6627_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 10; `ORC-HJIV6UQ4NX` |  |
+| Phase composition |  | 1173.15 | CoZr2 + CoZr3; _CoZr2: Co 0.3444, Zr 0.6556; CoZr3: Co 0.2576, Zr 0.7424_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 13; `ORC-PUAMUBXOHR` |  |
+| Phase composition |  | 1173.15 | CoZr3 + (αZr); _CoZr3: Co 0.2471, Zr 0.7529; (αZr): Co 0.0345, Zr 0.9655_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 8; `ORC-QPM5GUW2CW` |  |
+| Phase composition |  | 1273.15 | (αCo) + Co11Zr2; _(αCo): Co 0.9989, Zr 0.0011; Co11Zr2: Co 0.84, Zr 0.16_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 23; `ORC-VC2T4MXZM2` |  |
+| Phase composition |  | 1273.15 | (αCo) + Co11Zr2; _(αCo): Co 0.9947, Zr 0.0053; Co11Zr2: Co 0.8489, Zr 0.1511_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 19; `ORC-VG2Y7SQZWY` |  |
+| Phase composition |  | 1273.15 | Co11Zr2 + Co23Zr6; _Co11Zr2: Co 0.8419, Zr 0.1581; Co23Zr6: Co 0.7853, Zr 0.2147_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 18; `ORC-UVMC6J4NLF` |  |
+| Phase composition |  | 1273.15 | Co23Zr6 + Co2Zr; _Co23Zr6: Co 0.79, Zr 0.21; Co2Zr: Co 0.7406, Zr 0.2594_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 22; `ORC-MSEZMR75YU` |  |
+| Phase composition |  | 1273.15 | Co2Zr + CoZr; _Co2Zr: Co 0.674, Zr 0.326; CoZr: Co 0.5062, Zr 0.4938_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 16; `ORC-4C5YRA7SRV` |  |
+| Phase composition |  | 1273.15 | Co2Zr + CoZr; _Co2Zr: Co 0.6726, Zr 0.3274; CoZr: Co 0.509, Zr 0.491_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 14; `ORC-UUJLG2SQIA` |  |
+| Phase composition |  | 1273.15 | CoZr + CoZr2; _CoZr: Co 0.5037, Zr 0.4963; CoZr2: Co 0.3382, Zr 0.6618_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 15; `ORC-7QDGFNV52J` |  |
+| Phase composition |  | 1273.15 | CoZr + CoZr2; _CoZr: Co 0.5038, Zr 0.4962; CoZr2: Co 0.3368, Zr 0.6632_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 17; `ORC-QD2TACZSP2` |  |
+| Phase composition |  | 1273.15 | CoZr2 + liquid; _CoZr2: Co 0.3317, Zr 0.6683; liquid: Co 0.256, Zr 0.744_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 20; `ORC-MBK6DSBSJR` |  |
+| Phase composition |  | 1273.15 | CoZr3 + (βZr); _CoZr3: Co 0.2466, Zr 0.7534; (βZr): Co 0.0358, Zr 0.9642_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 21; `ORC-TL2YDDUHDI` |  |
+| Phase composition |  | 1323.15 | CoZr2 + liquid; _CoZr2: Co 0.3305, Zr 0.6695; liquid: Co 0.2641, Zr 0.7359_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 24; `ORC-7PBN52LGZN` |  |
+| Phase composition |  | 1323.15 | Liquid + (βZr); _Liquid: Co 0.2395, Zr 0.7605; (βZr): Co 0.0295, Zr 0.9705_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 25; `ORC-VMVEGYZXRV` |  |
+| Phase composition |  | 1373.15 | (αCo) + Co11Zr2; _(αCo): Co 0.9995, Zr 5.000e-4; Co11Zr2: Co 0.8443, Zr 0.1557_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 30; `ORC-AAVQNSRBAW` |  |
+| Phase composition |  | 1373.15 | (αCo) + Co11Zr2; _(αCo): Co 0.9995, Zr 5.000e-4; Co11Zr2: Co 0.8425, Zr 0.1575_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 31; `ORC-ZY45ATFRCI` |  |
+| Phase composition |  | 1373.15 | Co23Zr6 + Co2Zr; _Co23Zr6: Co 0.7915, Zr 0.2085; Co2Zr: Co 0.7441, Zr 0.2559_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 29; `ORC-RM65VODUJY` |  |
+| Phase composition |  | 1373.15 | Co2Zr + CoZr; _Co2Zr: Co 0.6719, Zr 0.3281; CoZr: Co 0.507, Zr 0.493_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 27; `ORC-Y3NA54NUYH` |  |
+| Phase composition |  | 1373.15 | Co2Zr + CoZr; _Co2Zr: Co 0.6753, Zr 0.3247; CoZr: Co 0.5067, Zr 0.4933_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 26; `ORC-YA6GBMEKDT` |  |
+| Phase composition |  | 1373.15 | CoZr + CoZr2; _CoZr: Co 0.5086, Zr 0.4914; CoZr2: Co 0.3549, Zr 0.6451_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 28; `ORC-RKEYQM5WUF` |  |
+| Phase composition |  | 1423.15 | Co2Zr + CoZr; _Co2Zr: Co 0.6705, Zr 0.3295; CoZr: Co 0.5027, Zr 0.4973_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 32; `ORC-VIFZ5GFBYO` |  |
+| Phase composition |  | 1423.15 | Liquid + (βZr); _Liquid: Co 0.2274, Zr 0.7726; (βZr): Co 0.0321, Zr 0.9679_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 33; `ORC-ILUXMFXXRZ` |  |
+| Phase composition |  | 1473.15 | (αCo) + Co11Zr2; _(αCo): Co 0.9991, Zr 9.000e-4; Co11Zr2: Co 0.8461, Zr 0.1539_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 37; `ORC-4XDTMUIXIE` |  |
+| Phase composition |  | 1473.15 | (αCo) + Co11Zr2; _(αCo): Co 0.998, Zr 0.002; Co11Zr2: Co 0.8468, Zr 0.1532_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 40; `ORC-IFUIP77YXU` |  |
+| Phase composition |  | 1473.15 | Co23Zr6 + Co2Zr; _Co23Zr6: Co 0.8002, Zr 0.1998; Co2Zr: Co 0.7408, Zr 0.2592_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 39; `ORC-HH2AEOQARO` |  |
+| Phase composition |  | 1473.15 | Co2Zr + CoZr; _Co2Zr: Co 0.6653, Zr 0.3347; CoZr: Co 0.4976, Zr 0.5024_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 35; `ORC-QTFA2F3WVS` |  |
+| Phase composition |  | 1473.15 | Co2Zr + CoZr; _Co2Zr: Co 0.6623, Zr 0.3377; CoZr: Co 0.4992, Zr 0.5008_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 34; `ORC-YLF2VFJ6X4` |  |
+| Phase composition |  | 1473.15 | CoZr + CoZr2; _CoZr: Co 0.4996, Zr 0.5004; CoZr2: Co 0.368, Zr 0.632_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 36; `ORC-AJUPC2KRLX` |  |
+| Phase composition |  | 1473.15 | Liquid + (βZr); _Liquid: Co 0.2245, Zr 0.7755; (βZr): Co 0.0287, Zr 0.9713_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 38; `ORC-2XHR2GVU6Z` |  |
+| Phase composition |  | 1523.15 | (αCo) + liquid; _(αCo): Co 0.9987, Zr 0.0013; liquid: Co 0.9085, Zr 0.0915_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 42; `ORC-3S7IORZFAO` |  |
+| Phase composition |  | 1523.15 | Co2Zr + CoZr; _Co2Zr: Co 0.6733, Zr 0.3267; CoZr: Co 0.505, Zr 0.495_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 41; `ORC-VCCAHLHJ35` |  |
+| Phase composition |  | 1573.15 | (αCo) + liquid; _(αCo): Co 0.9991, Zr 9.000e-4; liquid: Co 0.9116, Zr 0.0884_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 45; `ORC-HDEDYMLJAE` |  |
+| Phase composition |  | 1573.15 | Co23Zr6 + Co2Zr; _Co23Zr6: Co 0.8003, Zr 0.1997; Co2Zr: Co 0.7602, Zr 0.2398_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 47; `ORC-X54N3N2E4W` |  |
+| Phase composition |  | 1573.15 | Co2Zr + CoZr; _Co2Zr: Co 0.6699, Zr 0.3301; CoZr: Co 0.5108, Zr 0.4892_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 43; `ORC-J5HFDCISLH` |  |
+| Phase composition |  | 1573.15 | Co2Zr + CoZr; _Co2Zr: Co 0.6777, Zr 0.3223; CoZr: Co 0.5088, Zr 0.4912_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 44; `ORC-YSGEJDWACT` |  |
+| Phase composition |  | 1573.15 | Liquid + (βZr); _Liquid: Co 0.2142, Zr 0.7858; (βZr): Co 0.0196, Zr 0.9804_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 46; `ORC-7EVMCWAXZO` |  |
+| Phase composition |  | 1623.15 | (αCo) + liquid; _(αCo): Co 0.9989, Zr 0.0011; liquid: Co 0.9158, Zr 0.0842_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 49; `ORC-2KRQ645WQH` |  |
+| Phase composition |  | 1623.15 | Co2Zr + liquid; _Co2Zr: Co 0.6825, Zr 0.3175; liquid: Co 0.5413, Zr 0.4587_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 48; `ORC-6C3ABCZ66P` |  |
+| Phase composition |  | 1623.15 | Liquid + (βZr); _Liquid: Co 0.2094, Zr 0.7906; (βZr): Co 0.0233, Zr 0.9767_ | experimental | [3] Liu 2009 | Table 2, p. 4, row 50; `ORC-IUB43GFUIW` |  |
 
 ## Sources
 
@@ -573,4 +573,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

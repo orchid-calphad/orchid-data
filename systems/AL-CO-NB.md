@@ -29,42 +29,42 @@ Table: Invariant reactions reported in the literature for the Al–Co–Nb syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2082.15 | quasi-peritectic: L + Nb3Al -> Nb2Al + (Nb) |  | model | [1] He 2015 | Table 5, p. 11, row 1 |  |
-| 1923.15 | other: L -> C14 + NbAl3 |  | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 5, p. 11, row 6 |  |
-| 1913.15 | other: L -> C14 + Nb2Al |  | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 5, p. 11, row 4 |  |
-| 1896.15 | other: L -> C14 + Nb2Al |  | model | [1] He 2015 | Table 5, p. 11, row 3 |  |
-| 1889.15 | other: L -> C14 + NbAl3 |  | model | [1] He 2015 | Table 5, p. 11, row 5 |  |
-| 1853.15 | peritectic: L + Nb2Al + C14 -> Co7Nb6(μ) |  | model | [1] He 2015 | Table 5, p. 11, row 7 |  |
-| 1851.15 | peritectic: L + Nb2Al + C14 -> Co7Nb6(μ) |  | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 5, p. 11, row 8 |  |
-| 1828.15 | eutectic: L -> C14 + NbAl3 + Nb2Al |  | model | [1] He 2015 | Table 5, p. 11, row 9 |  |
-| 1826.15 | eutectic: L -> C14 + NbAl3 + Nb2Al |  | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 5, p. 11, row 10 |  |
-| 1795.15 | other: L -> C14 + CoAl |  | model | [1] He 2015 | Table 5, p. 11, row 11 |  |
-| 1793.15 | other: L -> C14 + CoAl |  | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 5, p. 11, row 12 |  |
-| 1765.15 | other: L + CoAl -> Co2AlNb |  | model | [1] He 2015 | Table 5, p. 11, row 13 |  |
-| 1765.15 | peritectic: L + CoAl M Co2AlNb |  | model | [1] He 2015 | p. 11 | “The second difference is that Co2AlNb forms via the peritectic reaction L + CoAl M Co2AlNb at the maximum M4 (1492 °C), which differs from the experimental conclusion that Co2AlNb forms via the ternary peritectic reaction L + CoAl + C14 M Co2AlNb \[2\].” |
-| 1759.15 | quasi-peritectic: L + CoAl -> C14 + Co2AlNb |  | model | [1] He 2015 | Table 5, p. 11, row 14 |  |
-| 1758.15 | quasi-peritectic: L + CoAl -> C14 + Co2AlNb |  | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 5, p. 11, row 15 |  |
-| 1752.15 | quasi-peritectic: L + Nb2Al -> (Nb) + Co7Nb6(μ) |  | model | [1] He 2015 | Table 5, p. 11, row 17 |  |
-| 1751.15 | other: L -> C15 + C14 |  | model | [1] He 2015 | Table 5, p. 11, row 19 |  |
-| 1749.15 | quasi-peritectic: L + Nb2Al -> (Nb) + Co7Nb6(μ) |  | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 5, p. 11, row 18 |  |
-| 1748.15 | other: L -> C15 + C14 |  | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 5, p. 11, row 20 |  |
-| 1613.15 | peritectic: L + C14 + C15 -> C36 |  | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 5, p. 11, row 22 |  |
-| 1612.15 | peritectic: L + C14 + C15 -> C36 |  | model | [1] He 2015 | Table 5, p. 11, row 21 |  |
-| 1595.15 | quasi-peritectic: L + C14 -> NbAl3 + CoAl |  | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 5, p. 11, row 24 |  |
-| 1593.15 | quasi-peritectic: L + C14 -> Co2AlNb + C36 |  | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 5, p. 11, row 26 |  |
-| 1593.15 | quasi-peritectic: L + C14 -> NbAl3 + CoAl |  | model | [1] He 2015 | Table 5, p. 11, row 23 |  |
-| 1592.15 | quasi-peritectic: L + C14 -> Co2AlNb + C36 |  | model | [1] He 2015 | Table 5, p. 11, row 25 |  |
-| 1568.15 | quasi-peritectic: L + Co2AlNb -> C36 + CoAl |  | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 5, p. 11, row 28 |  |
-| 1568.15 | quasi-peritectic: L + Co2AlNb -> C36 + CoAl |  | model | [1] He 2015 | Table 5, p. 11, row 27 |  |
-| 1513.15 | eutectic |  | experimental | [1] He 2015; _cites Haour 1978_ | p. 2 | “Haour et al. \[31\] found a two-phase eutectic of a-Co(Al,Nb) + Nb(Co,Al)2 at a composition 7.3 at.% Al and 15.4 at.% Nb and 1240 °C.” |
-| 1497.15 | eutectic: L -> C36 + CoAl + (Co) |  | model | [1] He 2015 | Table 5, p. 11, row 29 |  |
-| 1493.15 | eutectic: L -> C36 + CoAl + (Co) |  | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 5, p. 11, row 30 |  |
-| 1447.15 | quasi-peritectic: L + CoAl -> NbAl3 + Co2Al5 |  | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 5, p. 11, row 32 |  |
-| 1444.15 | quasi-peritectic: L + CoAl -> NbAl3 + Co2Al5 |  | model | [1] He 2015 | Table 5, p. 11, row 31 |  |
-| 1419.15 | quasi-peritectic: L + Co2Al5 -> NbAl3 + CoAl3 |  | model | [1] He 2015 | Table 5, p. 11, row 33 |  |
-| 1362.15 | quasi-peritectic: L + CoAl3 -> NbAl3 + Co4Al13 |  | model | [1] He 2015 | Table 5, p. 11, row 34 |  |
-| 1242.15 | quasi-peritectic: L + Co4Al13 -> NbAl3 + Co2Al9 |  | model | [1] He 2015 | Table 5, p. 11, row 35 |  |
-| 932.15 | quasi-peritectic: L + NbAl3 -> Co2Al9 + (Al) |  | model | [1] He 2015 | Table 5, p. 11, row 36 |  |
+| 2082.15 | quasi-peritectic: L + Nb3Al -> Nb2Al + (Nb) |  | model | [1] He 2015 | Table 5, p. 11, row 1; `ORC-SS6ZHXIB6C` |  |
+| 1923.15 | other: L -> C14 + NbAl3 |  | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 5, p. 11, row 6; `ORC-D4RWJ2PY7L` |  |
+| 1913.15 | other: L -> C14 + Nb2Al |  | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 5, p. 11, row 4; `ORC-N4U3C2SNN5` |  |
+| 1896.15 | other: L -> C14 + Nb2Al |  | model | [1] He 2015 | Table 5, p. 11, row 3; `ORC-WUUW23PES7` |  |
+| 1889.15 | other: L -> C14 + NbAl3 |  | model | [1] He 2015 | Table 5, p. 11, row 5; `ORC-S4R4QMMCWA` |  |
+| 1853.15 | peritectic: L + Nb2Al + C14 -> Co7Nb6(μ) |  | model | [1] He 2015 | Table 5, p. 11, row 7; `ORC-4B3FIIKUF7` |  |
+| 1851.15 | peritectic: L + Nb2Al + C14 -> Co7Nb6(μ) |  | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 5, p. 11, row 8; `ORC-UPLWVLHGMJ` |  |
+| 1828.15 | eutectic: L -> C14 + NbAl3 + Nb2Al |  | model | [1] He 2015 | Table 5, p. 11, row 9; `ORC-KM422C2LQ5` |  |
+| 1826.15 | eutectic: L -> C14 + NbAl3 + Nb2Al |  | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 5, p. 11, row 10; `ORC-2QYRMMHTRR` |  |
+| 1795.15 | other: L -> C14 + CoAl |  | model | [1] He 2015 | Table 5, p. 11, row 11; `ORC-D355MPYPLM` |  |
+| 1793.15 | other: L -> C14 + CoAl |  | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 5, p. 11, row 12; `ORC-4N6L7TSQF6` |  |
+| 1765.15 | other: L + CoAl -> Co2AlNb |  | model | [1] He 2015 | Table 5, p. 11, row 13; `ORC-QC5N3MYSPN` |  |
+| 1765.15 | peritectic: L + CoAl M Co2AlNb |  | model | [1] He 2015 | p. 11; `ORC-XAF5EYUWFX` | “The second difference is that Co2AlNb forms via the peritectic reaction L + CoAl M Co2AlNb at the maximum M4 (1492 °C), which differs from the experimental conclusion that Co2AlNb forms via the ternary peritectic reaction L + CoAl + C14 M Co2AlNb \[2\].” |
+| 1759.15 | quasi-peritectic: L + CoAl -> C14 + Co2AlNb |  | model | [1] He 2015 | Table 5, p. 11, row 14; `ORC-DY5HBWXHAW` |  |
+| 1758.15 | quasi-peritectic: L + CoAl -> C14 + Co2AlNb |  | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 5, p. 11, row 15; `ORC-WOIXJIQL7A` |  |
+| 1752.15 | quasi-peritectic: L + Nb2Al -> (Nb) + Co7Nb6(μ) |  | model | [1] He 2015 | Table 5, p. 11, row 17; `ORC-SP3IUVP6VU` |  |
+| 1751.15 | other: L -> C15 + C14 |  | model | [1] He 2015 | Table 5, p. 11, row 19; `ORC-KEGAQIOK7K` |  |
+| 1749.15 | quasi-peritectic: L + Nb2Al -> (Nb) + Co7Nb6(μ) |  | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 5, p. 11, row 18; `ORC-XBFQPICICV` |  |
+| 1748.15 | other: L -> C15 + C14 |  | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 5, p. 11, row 20; `ORC-4YZ7FLYQE5` |  |
+| 1613.15 | peritectic: L + C14 + C15 -> C36 |  | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 5, p. 11, row 22; `ORC-7AUFFSC7QR` |  |
+| 1612.15 | peritectic: L + C14 + C15 -> C36 |  | model | [1] He 2015 | Table 5, p. 11, row 21; `ORC-XMUOGD5JSL` |  |
+| 1595.15 | quasi-peritectic: L + C14 -> NbAl3 + CoAl |  | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 5, p. 11, row 24; `ORC-CGFOMKFYPF` |  |
+| 1593.15 | quasi-peritectic: L + C14 -> Co2AlNb + C36 |  | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 5, p. 11, row 26; `ORC-VS4EPUGWIO` |  |
+| 1593.15 | quasi-peritectic: L + C14 -> NbAl3 + CoAl |  | model | [1] He 2015 | Table 5, p. 11, row 23; `ORC-YXOY7APMNU` |  |
+| 1592.15 | quasi-peritectic: L + C14 -> Co2AlNb + C36 |  | model | [1] He 2015 | Table 5, p. 11, row 25; `ORC-MOV2M3TI6A` |  |
+| 1568.15 | quasi-peritectic: L + Co2AlNb -> C36 + CoAl |  | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 5, p. 11, row 28; `ORC-4YPZ7UWEUC` |  |
+| 1568.15 | quasi-peritectic: L + Co2AlNb -> C36 + CoAl |  | model | [1] He 2015 | Table 5, p. 11, row 27; `ORC-DJRXYBRUJQ` |  |
+| 1513.15 | eutectic |  | experimental | [1] He 2015; _cites Haour 1978_ | p. 2; `ORC-YZ2WFJ4KFH` | “Haour et al. \[31\] found a two-phase eutectic of a-Co(Al,Nb) + Nb(Co,Al)2 at a composition 7.3 at.% Al and 15.4 at.% Nb and 1240 °C.” |
+| 1497.15 | eutectic: L -> C36 + CoAl + (Co) |  | model | [1] He 2015 | Table 5, p. 11, row 29; `ORC-7CO66XTEPT` |  |
+| 1493.15 | eutectic: L -> C36 + CoAl + (Co) |  | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 5, p. 11, row 30; `ORC-ETOASAJ75F` |  |
+| 1447.15 | quasi-peritectic: L + CoAl -> NbAl3 + Co2Al5 |  | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 5, p. 11, row 32; `ORC-37TRLATCLR` |  |
+| 1444.15 | quasi-peritectic: L + CoAl -> NbAl3 + Co2Al5 |  | model | [1] He 2015 | Table 5, p. 11, row 31; `ORC-T3FY4BWC63` |  |
+| 1419.15 | quasi-peritectic: L + Co2Al5 -> NbAl3 + CoAl3 |  | model | [1] He 2015 | Table 5, p. 11, row 33; `ORC-SDK4XNO2S3` |  |
+| 1362.15 | quasi-peritectic: L + CoAl3 -> NbAl3 + Co4Al13 |  | model | [1] He 2015 | Table 5, p. 11, row 34; `ORC-XKD54TUOXQ` |  |
+| 1242.15 | quasi-peritectic: L + Co4Al13 -> NbAl3 + Co2Al9 |  | model | [1] He 2015 | Table 5, p. 11, row 35; `ORC-RQY5EVZIO2` |  |
+| 932.15 | quasi-peritectic: L + NbAl3 -> Co2Al9 + (Al) |  | model | [1] He 2015 | Table 5, p. 11, row 36; `ORC-S4RSVBPM75` |  |
 
 ## Other properties
 
@@ -74,16 +74,16 @@ Table: Phase transition, Al–Co–Nb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1717.15 K | 1717.15 | other: 2.0-40 | model | [1] He 2015 | Table 6, p. 11, row 5 |  |
-| Phase transition | 1727.15 K | 1727.15 | other: 2.0-40 | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 6 |  |
-| Phase transition | 1748.15 K | 1748.15 | other: 4.0-33 | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 16 |  |
-| Phase transition | 1748.15 K | 1748.15 | other: 6.0-33 | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 20 |  |
-| Phase transition | 1750.15 K | 1750.15 | other: 8.0-33 | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 22 |  |
-| Phase transition | 1751.15 K | 1751.15 | other: 2.0-33 | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 4 |  |
-| Phase transition | 1751.15 K | 1751.15 | other: 6.0-33 | model | [1] He 2015 | Table 6, p. 11, row 19 |  |
-| Phase transition | 1752.15 K | 1752.15 | other: 4.0-33 | model | [1] He 2015 | Table 6, p. 11, row 15 |  |
-| Phase transition | 1752.15 K | 1752.15 | other: 8.0-33 | model | [1] He 2015 | Table 6, p. 11, row 21 |  |
-| Phase transition | 1757.15 K | 1757.15 | other: 2.0-33 | model | [1] He 2015 | Table 6, p. 11, row 3 |  |
+| Phase transition | 1717.15 K | 1717.15 | other: 2.0-40 | model | [1] He 2015 | Table 6, p. 11, row 5; `ORC-QKG67Z7QH5` |  |
+| Phase transition | 1727.15 K | 1727.15 | other: 2.0-40 | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 6; `ORC-B52I6BPK2N` |  |
+| Phase transition | 1748.15 K | 1748.15 | other: 4.0-33 | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 16; `ORC-APGEMXLH7D` |  |
+| Phase transition | 1748.15 K | 1748.15 | other: 6.0-33 | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 20; `ORC-O64BRLXY4C` |  |
+| Phase transition | 1750.15 K | 1750.15 | other: 8.0-33 | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 22; `ORC-PSMEOAB7L4` |  |
+| Phase transition | 1751.15 K | 1751.15 | other: 2.0-33 | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 4; `ORC-NYKBB6LAGE` |  |
+| Phase transition | 1751.15 K | 1751.15 | other: 6.0-33 | model | [1] He 2015 | Table 6, p. 11, row 19; `ORC-P3FU7ZN6MH` |  |
+| Phase transition | 1752.15 K | 1752.15 | other: 4.0-33 | model | [1] He 2015 | Table 6, p. 11, row 15; `ORC-NYI4VZULRW` |  |
+| Phase transition | 1752.15 K | 1752.15 | other: 8.0-33 | model | [1] He 2015 | Table 6, p. 11, row 21; `ORC-6M7HVSMQIR` |  |
+| Phase transition | 1757.15 K | 1757.15 | other: 2.0-33 | model | [1] He 2015 | Table 6, p. 11, row 3; `ORC-O5VSU5VVML` |  |
 
 ### Phase equilibrium (66)
 
@@ -91,72 +91,72 @@ Table: Phase equilibrium, Al–Co–Nb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 1533.15 | other: 13.9-10.4; _liquid: Al 0.139_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 42 |  |
-| Phase composition |  | 1543.15 | other: 10-10.5; _liquid: Al 0.1_ | model | [1] He 2015 | Table 6, p. 11, row 31 |  |
-| Phase composition |  | 1553.15 | other: 10-10.5; _liquid: Al 0.1_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 32 |  |
-| Phase composition |  | 1579.15 | other: 13.9-10.4; _liquid: Al 0.139_ | model | [1] He 2015 | Table 6, p. 11, row 41 |  |
-| Phase composition |  | 1651.15 | other: 10.1-20.1; _liquid: Al 0.101_ | model | [1] He 2015 | Table 6, p. 11, row 35 |  |
-| Phase composition |  | 1666.15 | other: 2.2-20.6; _liquid: Al 0.022_ | model | [1] He 2015 | Table 6, p. 11, row 7 |  |
-| Phase composition |  | 1681.15 | other: 10.1-20.1; _liquid: Al 0.101_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 36 |  |
-| Phase composition |  | 1681.15 | other: 2.2-20.6; _liquid: Al 0.022_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 8 |  |
-| Phase composition |  | 1693.15 | other: 68.5-10.6; _liquid: Al 0.685_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 76 |  |
-| Phase composition |  | 1700.15 | other: 68.5-10.6; _liquid: Al 0.685_ | model | [1] He 2015 | Table 6, p. 11, row 75 |  |
-| Phase composition |  | 1712.15 | other: 10-25.5; _liquid: Al 0.1_ | model | [1] He 2015 | Table 6, p. 11, row 33 |  |
-| Phase composition |  | 1718.15 | other: 9.8-26.1; _liquid: Al 0.098, Co 0.641, Nb 0.261_ | model | [1] He 2015 | Table 6, p. 11, row 27 |  |
-| Phase composition |  | 1719.15 | other: 10-25.5; _liquid: Al 0.1_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 34 |  |
-| Phase composition |  | 1724.15 | other: 9.8-26.1; _liquid: Al 0.098, Co 0.641, Nb 0.261_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 28 |  |
-| Phase composition |  | 1730.15 | other: 9.7-42.8; _liquid: Al 0.097_ | model | [1] He 2015 | Table 6, p. 11, row 25 |  |
-| Phase composition |  | 1733.15 | other: 3.1-38.1; _liquid: Al 0.031_ | model | [1] He 2015 | Table 6, p. 11, row 13 |  |
-| Phase composition |  | 1734.15 | other: 3.1-38.1; _liquid: Al 0.031_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 14 |  |
-| Phase composition |  | 1735.15 | other: 9.4-28.2; _liquid: Al 0.094_ | model | [1] He 2015 | Table 6, p. 11, row 23 |  |
-| Phase composition |  | 1736.15 | other: 26.1-15.6; _liquid: Al 0.261_ | model | [1] He 2015 | Table 6, p. 11, row 53 |  |
-| Phase composition |  | 1737.15 | other: 26.1-15.6; _liquid: Al 0.261_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 54 |  |
-| Phase composition |  | 1740.15 | other: 9.4-28.2; _liquid: Al 0.094_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 24 |  |
-| Phase composition |  | 1742.15 | other: 2.3-27.3; _liquid: Al 0.023_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 10 |  |
-| Phase composition |  | 1743.15 | other: 9.7-42.8; _liquid: Al 0.097_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 26 |  |
-| Phase composition |  | 1745.15 | other: 2.3-27.3; _liquid: Al 0.023_ | model | [1] He 2015 | Table 6, p. 11, row 9 |  |
-| Phase composition |  | 1748.15 | other: 9.9-30.5; _liquid: Al 0.099_ | model | [1] He 2015 | Table 6, p. 11, row 29 |  |
-| Phase composition |  | 1749.15 | other: 4.8-29.2; _liquid: Al 0.048_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 18 |  |
-| Phase composition |  | 1749.45 | other: 4.8-29.2; _liquid: Al 0.048_ | model | [1] He 2015 | Table 6, p. 11, row 17 |  |
-| Phase composition |  | 1752.15 | other: 1.5-34.5; _liquid: Al 0.015_ | model | [1] He 2015 | Table 6, p. 11, row 1 |  |
-| Phase composition |  | 1753.15 | other: 9.9-30.5; _liquid: Al 0.099_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 30 |  |
-| Phase composition |  | 1754.15 | other: 1.5-34.5; _liquid: Al 0.015_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 2 |  |
-| Phase composition |  | 1755.15 | other: 3.0-30; _liquid: Nb 0.3_ | model | [1] He 2015 | Table 6, p. 11, row 11 |  |
-| Phase composition |  | 1756.15 | other: 3.0-30; _liquid: Nb 0.3_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 12 |  |
-| Phase composition |  | 1760.15 | other: 10.7-36.0; _liquid: Al 0.107_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 38 |  |
-| Phase composition |  | 1760.25 | other: 10.7-36.0; _liquid: Al 0.107_ | model | [1] He 2015 | Table 6, p. 11, row 37 |  |
-| Phase composition |  | 1761.15 | other: 13.0-32.0; _liquid: Al 0.13_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 40 |  |
-| Phase composition |  | 1763.15 | other: 13.0-32.0; _liquid: Al 0.13_ | model | [1] He 2015 | Table 6, p. 11, row 39 |  |
-| Phase composition |  | 1768.15 | other: 25.1-25.2; _liquid: Al 0.251_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 52 |  |
-| Phase composition |  | 1778.15 | other: 25.1-25.2; _liquid: Al 0.251_ | model | [1] He 2015 | Table 6, p. 11, row 51 |  |
-| Phase composition |  | 1808.15 | other: 19.9-33.2; _liquid: Al 0.199_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 44 |  |
-| Phase composition |  | 1810.15 | other: 19.9-33.2; _liquid: Al 0.199_ | model | [1] He 2015 | Table 6, p. 11, row 43 |  |
-| Phase composition |  | 1810.15 | other: 20.4-48.3; _liquid: Al 0.204_ | model | [1] He 2015 | Table 6, p. 11, row 45 |  |
-| Phase composition |  | 1818.15 | other: 39.7-15.9; _liquid: Al 0.397_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 64 |  |
-| Phase composition |  | 1821.15 | other: 24.9-48.9; _liquid: Al 0.249_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 50 |  |
-| Phase composition |  | 1824.15 | other: 20.4-48.3; _liquid: Al 0.204_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 46 |  |
-| Phase composition |  | 1828.15 | other: 39.7-15.9; _liquid: Al 0.397_ | model | [1] He 2015 | Table 6, p. 11, row 63 |  |
-| Phase composition |  | 1836.15 | other: 24.9-48.9; _liquid: Al 0.249_ | model | [1] He 2015 | Table 6, p. 11, row 49 |  |
-| Phase composition |  | 1841.15 | other: 34.4-25.4; _liquid: Al 0.344_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 60 |  |
-| Phase composition |  | 1848.15 | other: 24.2-42; _liquid: Al 0.242_ | model | [1] He 2015 | Table 6, p. 11, row 47 |  |
-| Phase composition |  | 1850.15 | other: 34.4-25.4; _liquid: Al 0.344_ | model | [1] He 2015 | Table 6, p. 11, row 59 |  |
-| Phase composition |  | 1852.15 | other: 46.2-20.7; _liquid: Al 0.462_ | model | [1] He 2015 | Table 6, p. 11, row 65 |  |
-| Phase composition |  | 1853.15 | other: 24.2-42; _liquid: Al 0.242_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 48 |  |
-| Phase composition |  | 1853.15 | other: 46.2-20.7; _liquid: Al 0.462_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 66 |  |
-| Phase composition |  | 1873.15 (>) | other: 60.0-23.0; _liquid: Al 0.6_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 70 |  |
-| Phase composition |  | 1882.15 | other: 28.7-35.4; _liquid: Al 0.287_ | model | [1] He 2015 | Table 6, p. 11, row 55 |  |
-| Phase composition |  | 1883.15 | other: 28.7-35.4; _liquid: Al 0.287_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 56 |  |
-| Phase composition |  | 1883.15 | other: 33.3-48.8; _liquid: Al 0.333_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 58 |  |
-| Phase composition |  | 1885.15 | other: 60.0-23.0; _liquid: Al 0.6_ | model | [1] He 2015 | Table 6, p. 11, row 69 |  |
-| Phase composition |  | 1886.15 | other: 33.3-48.8; _liquid: Al 0.333_ | model | [1] He 2015 | Table 6, p. 11, row 57 |  |
-| Phase composition |  | 1899.15 | other: 60.0-25.0; _liquid: Al 0.6_ | model | [1] He 2015 | Table 6, p. 11, row 71 |  |
-| Phase composition |  | 1906.15 | other: 60.0-25.0; _liquid: Al 0.6_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 72 |  |
-| Phase composition |  | 1940.15 | other: 39.3-35.1; _liquid: Al 0.393_ | model | [1] He 2015 | Table 6, p. 11, row 61 |  |
-| Phase composition |  | 1943.15 | other: 39.3-35.1; _liquid: Al 0.393_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 62 |  |
-| Phase composition |  | 1951.15 | other: 48.7-35.6; _liquid: Al 0.487_ | model | [1] He 2015 | Table 6, p. 11, row 67 |  |
-| Phase composition |  | 1953.15 | other: 48.7-35.6; _liquid: Al 0.487_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 68 |  |
-| Phase composition |  | 1962.15 | other: 66.1-32.8; _liquid: Al 0.661_ | model | [1] He 2015 | Table 6, p. 11, row 73 |  |
-| Phase composition |  | 1963.15 | other: 66.1-32.8; _liquid: Al 0.661_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 74 |  |
+| Phase composition |  | 1533.15 | other: 13.9-10.4; _liquid: Al 0.139_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 42; `ORC-QMAIPLIV3B` |  |
+| Phase composition |  | 1543.15 | other: 10-10.5; _liquid: Al 0.1_ | model | [1] He 2015 | Table 6, p. 11, row 31; `ORC-Z436FEDNM2` |  |
+| Phase composition |  | 1553.15 | other: 10-10.5; _liquid: Al 0.1_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 32; `ORC-3ZISZXCXEC` |  |
+| Phase composition |  | 1579.15 | other: 13.9-10.4; _liquid: Al 0.139_ | model | [1] He 2015 | Table 6, p. 11, row 41; `ORC-SX2YTGW2MT` |  |
+| Phase composition |  | 1651.15 | other: 10.1-20.1; _liquid: Al 0.101_ | model | [1] He 2015 | Table 6, p. 11, row 35; `ORC-ARCXTMSKEX` |  |
+| Phase composition |  | 1666.15 | other: 2.2-20.6; _liquid: Al 0.022_ | model | [1] He 2015 | Table 6, p. 11, row 7; `ORC-4HKXPZDQ6H` |  |
+| Phase composition |  | 1681.15 | other: 10.1-20.1; _liquid: Al 0.101_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 36; `ORC-PSAHEUCV26` |  |
+| Phase composition |  | 1681.15 | other: 2.2-20.6; _liquid: Al 0.022_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 8; `ORC-L2SGUNHJR7` |  |
+| Phase composition |  | 1693.15 | other: 68.5-10.6; _liquid: Al 0.685_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 76; `ORC-CPPKUXR4AY` |  |
+| Phase composition |  | 1700.15 | other: 68.5-10.6; _liquid: Al 0.685_ | model | [1] He 2015 | Table 6, p. 11, row 75; `ORC-U5W45TOHOG` |  |
+| Phase composition |  | 1712.15 | other: 10-25.5; _liquid: Al 0.1_ | model | [1] He 2015 | Table 6, p. 11, row 33; `ORC-2TJ6FECW6V` |  |
+| Phase composition |  | 1718.15 | other: 9.8-26.1; _liquid: Al 0.098, Co 0.641, Nb 0.261_ | model | [1] He 2015 | Table 6, p. 11, row 27; `ORC-S3A7MTHKFJ` |  |
+| Phase composition |  | 1719.15 | other: 10-25.5; _liquid: Al 0.1_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 34; `ORC-NHJXUBKEPK` |  |
+| Phase composition |  | 1724.15 | other: 9.8-26.1; _liquid: Al 0.098, Co 0.641, Nb 0.261_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 28; `ORC-QKSSORJZQ2` |  |
+| Phase composition |  | 1730.15 | other: 9.7-42.8; _liquid: Al 0.097_ | model | [1] He 2015 | Table 6, p. 11, row 25; `ORC-V2BJPFWVJ6` |  |
+| Phase composition |  | 1733.15 | other: 3.1-38.1; _liquid: Al 0.031_ | model | [1] He 2015 | Table 6, p. 11, row 13; `ORC-GLKYBY7AIN` |  |
+| Phase composition |  | 1734.15 | other: 3.1-38.1; _liquid: Al 0.031_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 14; `ORC-E7MI3COMDI` |  |
+| Phase composition |  | 1735.15 | other: 9.4-28.2; _liquid: Al 0.094_ | model | [1] He 2015 | Table 6, p. 11, row 23; `ORC-DGS6EQ5QQJ` |  |
+| Phase composition |  | 1736.15 | other: 26.1-15.6; _liquid: Al 0.261_ | model | [1] He 2015 | Table 6, p. 11, row 53; `ORC-C3FE2HZH4Z` |  |
+| Phase composition |  | 1737.15 | other: 26.1-15.6; _liquid: Al 0.261_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 54; `ORC-Z2KHCLMMKS` |  |
+| Phase composition |  | 1740.15 | other: 9.4-28.2; _liquid: Al 0.094_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 24; `ORC-JSRKTXO7C4` |  |
+| Phase composition |  | 1742.15 | other: 2.3-27.3; _liquid: Al 0.023_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 10; `ORC-6WZD5ENJIQ` |  |
+| Phase composition |  | 1743.15 | other: 9.7-42.8; _liquid: Al 0.097_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 26; `ORC-XEYRC6PIQL` |  |
+| Phase composition |  | 1745.15 | other: 2.3-27.3; _liquid: Al 0.023_ | model | [1] He 2015 | Table 6, p. 11, row 9; `ORC-DFDLYXNDV7` |  |
+| Phase composition |  | 1748.15 | other: 9.9-30.5; _liquid: Al 0.099_ | model | [1] He 2015 | Table 6, p. 11, row 29; `ORC-TBIG67JJ7E` |  |
+| Phase composition |  | 1749.15 | other: 4.8-29.2; _liquid: Al 0.048_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 18; `ORC-6ZDK46V25Q` |  |
+| Phase composition |  | 1749.45 | other: 4.8-29.2; _liquid: Al 0.048_ | model | [1] He 2015 | Table 6, p. 11, row 17; `ORC-JXDDBWW737` |  |
+| Phase composition |  | 1752.15 | other: 1.5-34.5; _liquid: Al 0.015_ | model | [1] He 2015 | Table 6, p. 11, row 1; `ORC-J6TRJJI62X` |  |
+| Phase composition |  | 1753.15 | other: 9.9-30.5; _liquid: Al 0.099_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 30; `ORC-DRPGWVADIM` |  |
+| Phase composition |  | 1754.15 | other: 1.5-34.5; _liquid: Al 0.015_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 2; `ORC-UUIWEJES73` |  |
+| Phase composition |  | 1755.15 | other: 3.0-30; _liquid: Nb 0.3_ | model | [1] He 2015 | Table 6, p. 11, row 11; `ORC-5ZKDV66BNW` |  |
+| Phase composition |  | 1756.15 | other: 3.0-30; _liquid: Nb 0.3_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 12; `ORC-PQSTGETZIO` |  |
+| Phase composition |  | 1760.15 | other: 10.7-36.0; _liquid: Al 0.107_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 38; `ORC-ROZHA5HFVN` |  |
+| Phase composition |  | 1760.25 | other: 10.7-36.0; _liquid: Al 0.107_ | model | [1] He 2015 | Table 6, p. 11, row 37; `ORC-HKZ4BKW2EB` |  |
+| Phase composition |  | 1761.15 | other: 13.0-32.0; _liquid: Al 0.13_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 40; `ORC-AXLPTALF47` |  |
+| Phase composition |  | 1763.15 | other: 13.0-32.0; _liquid: Al 0.13_ | model | [1] He 2015 | Table 6, p. 11, row 39; `ORC-V3TVZGXUNL` |  |
+| Phase composition |  | 1768.15 | other: 25.1-25.2; _liquid: Al 0.251_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 52; `ORC-BKSQVZPBX7` |  |
+| Phase composition |  | 1778.15 | other: 25.1-25.2; _liquid: Al 0.251_ | model | [1] He 2015 | Table 6, p. 11, row 51; `ORC-QJ2SOIT52N` |  |
+| Phase composition |  | 1808.15 | other: 19.9-33.2; _liquid: Al 0.199_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 44; `ORC-67O2MTOHNU` |  |
+| Phase composition |  | 1810.15 | other: 19.9-33.2; _liquid: Al 0.199_ | model | [1] He 2015 | Table 6, p. 11, row 43; `ORC-7TX7KEERFT` |  |
+| Phase composition |  | 1810.15 | other: 20.4-48.3; _liquid: Al 0.204_ | model | [1] He 2015 | Table 6, p. 11, row 45; `ORC-KJ5ZA443MJ` |  |
+| Phase composition |  | 1818.15 | other: 39.7-15.9; _liquid: Al 0.397_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 64; `ORC-HFGFPOZQ2O` |  |
+| Phase composition |  | 1821.15 | other: 24.9-48.9; _liquid: Al 0.249_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 50; `ORC-DLJOCLPYU4` |  |
+| Phase composition |  | 1824.15 | other: 20.4-48.3; _liquid: Al 0.204_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 46; `ORC-2RO2GX3BS3` |  |
+| Phase composition |  | 1828.15 | other: 39.7-15.9; _liquid: Al 0.397_ | model | [1] He 2015 | Table 6, p. 11, row 63; `ORC-TWOSESBTRQ` |  |
+| Phase composition |  | 1836.15 | other: 24.9-48.9; _liquid: Al 0.249_ | model | [1] He 2015 | Table 6, p. 11, row 49; `ORC-YJGD3AGEAB` |  |
+| Phase composition |  | 1841.15 | other: 34.4-25.4; _liquid: Al 0.344_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 60; `ORC-OUA6FD77VQ` |  |
+| Phase composition |  | 1848.15 | other: 24.2-42; _liquid: Al 0.242_ | model | [1] He 2015 | Table 6, p. 11, row 47; `ORC-X5WC7FPIPT` |  |
+| Phase composition |  | 1850.15 | other: 34.4-25.4; _liquid: Al 0.344_ | model | [1] He 2015 | Table 6, p. 11, row 59; `ORC-35ZPPNKGNO` |  |
+| Phase composition |  | 1852.15 | other: 46.2-20.7; _liquid: Al 0.462_ | model | [1] He 2015 | Table 6, p. 11, row 65; `ORC-QR7MWHNZ2R` |  |
+| Phase composition |  | 1853.15 | other: 24.2-42; _liquid: Al 0.242_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 48; `ORC-3IXW4QXMOH` |  |
+| Phase composition |  | 1853.15 | other: 46.2-20.7; _liquid: Al 0.462_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 66; `ORC-R6AMFDGTEL` |  |
+| Phase composition |  | 1873.15 (>) | other: 60.0-23.0; _liquid: Al 0.6_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 70; `ORC-RVWP2FWS77` |  |
+| Phase composition |  | 1882.15 | other: 28.7-35.4; _liquid: Al 0.287_ | model | [1] He 2015 | Table 6, p. 11, row 55; `ORC-SAWKDQ4X4Y` |  |
+| Phase composition |  | 1883.15 | other: 28.7-35.4; _liquid: Al 0.287_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 56; `ORC-SSSZXVHCO2` |  |
+| Phase composition |  | 1883.15 | other: 33.3-48.8; _liquid: Al 0.333_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 58; `ORC-WWHI75AVTA` |  |
+| Phase composition |  | 1885.15 | other: 60.0-23.0; _liquid: Al 0.6_ | model | [1] He 2015 | Table 6, p. 11, row 69; `ORC-QDDTIED34N` |  |
+| Phase composition |  | 1886.15 | other: 33.3-48.8; _liquid: Al 0.333_ | model | [1] He 2015 | Table 6, p. 11, row 57; `ORC-FCEY7JUX4G` |  |
+| Phase composition |  | 1899.15 | other: 60.0-25.0; _liquid: Al 0.6_ | model | [1] He 2015 | Table 6, p. 11, row 71; `ORC-VN5DMONIJS` |  |
+| Phase composition |  | 1906.15 | other: 60.0-25.0; _liquid: Al 0.6_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 72; `ORC-XW6AKHQOBB` |  |
+| Phase composition |  | 1940.15 | other: 39.3-35.1; _liquid: Al 0.393_ | model | [1] He 2015 | Table 6, p. 11, row 61; `ORC-XMNQVKHLVJ` |  |
+| Phase composition |  | 1943.15 | other: 39.3-35.1; _liquid: Al 0.393_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 62; `ORC-JEUQV2TV2U` |  |
+| Phase composition |  | 1951.15 | other: 48.7-35.6; _liquid: Al 0.487_ | model | [1] He 2015 | Table 6, p. 11, row 67; `ORC-UD7WLR2CKU` |  |
+| Phase composition |  | 1953.15 | other: 48.7-35.6; _liquid: Al 0.487_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 68; `ORC-564HQWL7XK` |  |
+| Phase composition |  | 1962.15 | other: 66.1-32.8; _liquid: Al 0.661_ | model | [1] He 2015 | Table 6, p. 11, row 73; `ORC-ZSEJXHIADZ` |  |
+| Phase composition |  | 1963.15 | other: 66.1-32.8; _liquid: Al 0.661_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 74; `ORC-YOWTEQUVIE` |  |
 
 ## Sources
 
@@ -199,4 +199,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

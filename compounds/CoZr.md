@@ -14,16 +14,16 @@ Table: Enthalpy of formation of CoZr reported in the literature (10)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -43.05 per mol-atom ± 3900 | CoZr | 1030 | experimental |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [1] Zhou 2021; _cites Gomozov 1986_ | Table 3, p. 5, row 13 |  |
-| -42.2 per mol-atom ± 1000 | CoZr | 1512 | experimental |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [1] Zhou 2021; _cites Gachon 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990024-x) | Table 3, p. 5, row 12 |  |
-| -35.8 per mol-atom ± 700 | CoZr | 298.15 | experimental |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [1] Zhou 2021; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900246-1) | Table 3, p. 5, row 14 |  |
-| -35.8 kJ/mol-atom | CoZr | 298.15 | experimental |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [2] Bratberg 2006; _cites Binary 1986_ | Table 6, p. 5, row 1 |  |
-| -28.83 per mol-atom | CoZr | 298.15 | experimental |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [1] Zhou 2021; _cites Ohodnicki 2008_ [doi](https://doi.org/10.1103/physrevb.78.144414) | Table 3, p. 5, row 15 |  |
-| -60 kJ/mol-atom | CoZr | 298.15 | model |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [2] Bratberg 2006 | Table 6, p. 5, row 3 |  |
-| -60 kJ/mol-atom | CoZr | 298.15 | model |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [2] Bratberg 2006; _cites Miedema 1998_ | Table 6, p. 5, row 2 |  |
-| -40.267 per mol-atom | CoZr | 1512 | model |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [1] Zhou 2021 | Table 3, p. 5, row 17 |  |
-| -35.694 per mol-atom | CoZr | 298.15 | model |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [1] Zhou 2021 | Table 3, p. 5, row 18 |  |
-| -35.326 per mol-atom | CoZr | 298.15 | model |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [1] Zhou 2021; _cites Agraval 2020_ [doi](https://doi.org/10.1007/s11669-020-00805-5) | Table 3, p. 5, row 16 |  |
+| -43.05 per mol-atom ± 3900 | CoZr | 1030 | experimental |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [1] Zhou 2021; _cites Gomozov 1986_ | Table 3, p. 5, row 13; `ORC-Z32ZDTPGPH` |  |
+| -42.2 per mol-atom ± 1000 | CoZr | 1512 | experimental |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [1] Zhou 2021; _cites Gachon 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990024-x) | Table 3, p. 5, row 12; `ORC-ZIVNZIKCRD` |  |
+| -35.8 per mol-atom ± 700 | CoZr | 298.15 | experimental |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [1] Zhou 2021; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900246-1) | Table 3, p. 5, row 14; `ORC-36MPP26I4C` |  |
+| -35.8 kJ/mol-atom | CoZr | 298.15 | experimental |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [2] Bratberg 2006; _cites Binary 1986_ | Table 6, p. 5, row 1; `ORC-POCTZFCZBS` |  |
+| -28.83 per mol-atom | CoZr | 298.15 | experimental |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [1] Zhou 2021; _cites Ohodnicki 2008_ [doi](https://doi.org/10.1103/physrevb.78.144414) | Table 3, p. 5, row 15; `ORC-A4VB6KHLAS` |  |
+| -60 kJ/mol-atom | CoZr | 298.15 | model |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [2] Bratberg 2006 | Table 6, p. 5, row 3; `ORC-Q6F4A7IPCH` |  |
+| -60 kJ/mol-atom | CoZr | 298.15 | model |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [2] Bratberg 2006; _cites Miedema 1998_ | Table 6, p. 5, row 2; `ORC-Y4AFF6RAM7` |  |
+| -40.267 per mol-atom | CoZr | 1512 | model |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [1] Zhou 2021 | Table 3, p. 5, row 17; `ORC-AGTHT6SYHF` |  |
+| -35.694 per mol-atom | CoZr | 298.15 | model |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [1] Zhou 2021 | Table 3, p. 5, row 18; `ORC-7D2ZQXQLML` |  |
+| -35.326 per mol-atom | CoZr | 298.15 | model |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [1] Zhou 2021; _cites Agraval 2020_ [doi](https://doi.org/10.1007/s11669-020-00805-5) | Table 3, p. 5, row 16; `ORC-XQASXHXF42` |  |
 
 ### Uncertainty budget
 
@@ -109,4 +109,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

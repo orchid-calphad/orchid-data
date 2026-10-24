@@ -26,24 +26,24 @@ Table: Invariant reactions reported in the literature for the Al–Mo–U system
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1966 | quasi-peritectic: L + AlMo3 -> AlMo + UAl2-xMox |  | model | [1] Zhang 2010 | Table 4, p. 9, row 6 |  |
-| 1915.6 | eutectic: L -> UAl2-xMox + UAl2 + U6Mo4Al43 |  | model | [1] Zhang 2010 | Table 4, p. 9, row 1 |  |
-| 1813.4 | eutectic: L -> U6Mo4Al43 + AlMo + UAl2 |  | model | [1] Zhang 2010 | Table 4, p. 9, row 2 |  |
-| 1790.7 | eutectic: L -> U6Mo4Al43 + Al63Mo37 + AlMo |  | model | [1] Zhang 2010 | Table 4, p. 9, row 3 |  |
-| 1790.3 | eutectic: L -> U6Mo4Al43 + Al63Mo37 + Al8Mo3 |  | model | [1] Zhang 2010 | Table 4, p. 9, row 4 |  |
-| 1783 | quasi-peritectic: L + U6Mo4Al43 -> UMo2Al20 + Al8Mo3 |  | model | [1] Zhang 2010 | Table 4, p. 9, row 7 |  |
-| 1720 | peritectic: L + UAl2-xMox + AlMo3 -> BCC_A2 |  | model | [1] Zhang 2010 | Table 4, p. 9, row 17 |  |
-| 1662.2 | peritectic: L + Mo + AlMo3 -> BCC_A2 |  | model | [1] Zhang 2010 | Table 4, p. 9, row 18 |  |
-| 1623.9 | quasi-peritectic: L + UAl2 -> U6Mo4Al43 + Al3U |  | model | [1] Zhang 2010 | Table 4, p. 9, row 8 |  |
-| 1498.8 | quasi-peritectic: L + Al8Mo3 -> Al3Mo + UMo2Al20 |  | model | [1] Zhang 2010 | Table 4, p. 9, row 9 |  |
-| 1429.2 | quasi-peritectic: L + Al3Mo -> Al4Mo + UMo2Al20 |  | model | [1] Zhang 2010 | Table 4, p. 9, row 10 |  |
-| 1384.9 | quasi-peritectic: L + UAl2-xMox -> BCC_A2 + UAl2 |  | model | [1] Zhang 2010 | Table 4, p. 9, row 11 |  |
-| 1267.7 | quasi-peritectic: L + Al4Mo -> Al17Mo4 + UMo2Al20 |  | model | [1] Zhang 2010 | Table 4, p. 9, row 12 |  |
-| 1221.1 | quasi-peritectic: L + Al17Mo4 -> Al22Mo5 + UMo2Al20 |  | model | [1] Zhang 2010 | Table 4, p. 9, row 13 |  |
-| 1144.7 | quasi-peritectic: L + U6Mo4Al43 -> Al3U + UMo2Al20 |  | model | [1] Zhang 2010 | Table 4, p. 9, row 14 |  |
-| 1121.4 | quasi-peritectic: L + Al22Mo5 -> Al5Mo + UMo2Al20 |  | model | [1] Zhang 2010 | Table 4, p. 9, row 15 |  |
-| 1004.3 | quasi-peritectic: L + Al3U -> Al4U + UMo2Al20 |  | model | [1] Zhang 2010 | Table 4, p. 9, row 16 |  |
-| 915.4 | eutectic: L -> Al4U + FCC_A1 + UMo2Al20 |  | model | [1] Zhang 2010 | Table 4, p. 9, row 5 |  |
+| 1966 | quasi-peritectic: L + AlMo3 -> AlMo + UAl2-xMox |  | model | [1] Zhang 2010 | Table 4, p. 9, row 6; `ORC-7NYCNSSZFM` |  |
+| 1915.6 | eutectic: L -> UAl2-xMox + UAl2 + U6Mo4Al43 |  | model | [1] Zhang 2010 | Table 4, p. 9, row 1; `ORC-QGYW6AKSJY` |  |
+| 1813.4 | eutectic: L -> U6Mo4Al43 + AlMo + UAl2 |  | model | [1] Zhang 2010 | Table 4, p. 9, row 2; `ORC-QQF7MPCSYH` |  |
+| 1790.7 | eutectic: L -> U6Mo4Al43 + Al63Mo37 + AlMo |  | model | [1] Zhang 2010 | Table 4, p. 9, row 3; `ORC-DZ5NQALGKY` |  |
+| 1790.3 | eutectic: L -> U6Mo4Al43 + Al63Mo37 + Al8Mo3 |  | model | [1] Zhang 2010 | Table 4, p. 9, row 4; `ORC-ZBXANMHBWW` |  |
+| 1783 | quasi-peritectic: L + U6Mo4Al43 -> UMo2Al20 + Al8Mo3 |  | model | [1] Zhang 2010 | Table 4, p. 9, row 7; `ORC-YXGNDL7WFL` |  |
+| 1720 | peritectic: L + UAl2-xMox + AlMo3 -> BCC_A2 |  | model | [1] Zhang 2010 | Table 4, p. 9, row 17; `ORC-OP3MUI42CG` |  |
+| 1662.2 | peritectic: L + Mo + AlMo3 -> BCC_A2 |  | model | [1] Zhang 2010 | Table 4, p. 9, row 18; `ORC-5P4NYPYZ72` |  |
+| 1623.9 | quasi-peritectic: L + UAl2 -> U6Mo4Al43 + Al3U |  | model | [1] Zhang 2010 | Table 4, p. 9, row 8; `ORC-SNA3T47UNN` |  |
+| 1498.8 | quasi-peritectic: L + Al8Mo3 -> Al3Mo + UMo2Al20 |  | model | [1] Zhang 2010 | Table 4, p. 9, row 9; `ORC-4BD5BGZL62` |  |
+| 1429.2 | quasi-peritectic: L + Al3Mo -> Al4Mo + UMo2Al20 |  | model | [1] Zhang 2010 | Table 4, p. 9, row 10; `ORC-QNCNJTVLTL` |  |
+| 1384.9 | quasi-peritectic: L + UAl2-xMox -> BCC_A2 + UAl2 |  | model | [1] Zhang 2010 | Table 4, p. 9, row 11; `ORC-6C47D6O4ND` |  |
+| 1267.7 | quasi-peritectic: L + Al4Mo -> Al17Mo4 + UMo2Al20 |  | model | [1] Zhang 2010 | Table 4, p. 9, row 12; `ORC-3ZXT2RT2AD` |  |
+| 1221.1 | quasi-peritectic: L + Al17Mo4 -> Al22Mo5 + UMo2Al20 |  | model | [1] Zhang 2010 | Table 4, p. 9, row 13; `ORC-GYMMA2HTBA` |  |
+| 1144.7 | quasi-peritectic: L + U6Mo4Al43 -> Al3U + UMo2Al20 |  | model | [1] Zhang 2010 | Table 4, p. 9, row 14; `ORC-XPG5P5AL7D` |  |
+| 1121.4 | quasi-peritectic: L + Al22Mo5 -> Al5Mo + UMo2Al20 |  | model | [1] Zhang 2010 | Table 4, p. 9, row 15; `ORC-3G4P2HATIM` |  |
+| 1004.3 | quasi-peritectic: L + Al3U -> Al4U + UMo2Al20 |  | model | [1] Zhang 2010 | Table 4, p. 9, row 16; `ORC-YM45ZJ2KXX` |  |
+| 915.4 | eutectic: L -> Al4U + FCC_A1 + UMo2Al20 |  | model | [1] Zhang 2010 | Table 4, p. 9, row 5; `ORC-HRJ5JCVCKN` |  |
 
 ## Sources
 
@@ -86,4 +86,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

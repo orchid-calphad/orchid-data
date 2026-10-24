@@ -74,54 +74,54 @@ Table: Invariant reactions reported in the literature for the Ge–Ti system (48
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2253 | congruent melting: L -> Ti5Ge3 | L: Ge 0.375; Ti5Ge3: Ge 0.375 | unspecified | [1] Liu 2011 | Table 5, p. 6, row 2 |  |
-| 2253 | congruent melting: L -> Ti5Ge3 | L: Ge 0.375; Ti5Ge3: Ge 0.375 | experimental | [1] Liu 2011; _cites Rudometkina 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990197-5) | Table 5, p. 6, row 1 |  |
-| 1939 | peritectic: L + Ti5Ge3 -> Ti6Ge5 | L: Ge 0.533; Ti5Ge3: Ge 0.375; Ti6Ge5: Ge 0.454 | unspecified | [1] Liu 2011 | Table 5, p. 6, row 4 |  |
-| 1939 | peritectic: L + Ge3Ti5 ↔ Ge5Ti6 | L: Ti 0.466; Ge3Ti5: Ti 0.625; Ge5Ti6: Ti 0.545 | unspecified | [2] Zobač 2023; _cites Liu 2011_ [doi](https://doi.org/10.1016/j.tca.2011.04.017) | Table 2, p. 3, row 6 |  |
-| 1923 | peritectic: L + Ge3Ti5 ↔ Ge5Ti6 | L: Ti 0.471; Ge3Ti5: Ti 0.625; Ge5Ti6: Ti 0.546 | experimental | [2] Zobač 2023; _cites Rudometkina 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990197-5) | Table 2, p. 3, row 5 |  |
-| 1923 | peritectic: L + Ti5Ge3 -> Ti6Ge5 | L: Ge 0.529; Ti5Ge3: Ge 0.375; Ti6Ge5: Ge 0.454 | experimental | [1] Liu 2011; _cites Rudometkina 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990197-5) | Table 5, p. 6, row 3 |  |
-| 1923 | peritectic |  | model | [2] Zobač 2023 | p. 2 | “Ge5Ti6 phase is a stoichiometric binary phase formed by the peritectic reaction at 1923 K.” |
-| 1923 | peritectic: L + Ge3Ti5 ↔ Ge5Ti6 | L: Ti 0.472; Ge3Ti5: Ti 0.605; Ge5Ti6: Ti 0.545 | experimental | [2] Zobač 2023; _cites Bittner 2013_ [doi](https://doi.org/10.1016/j.jallcom.2013.04.114) | Table 2, p. 3, row 7 |  |
-| 1922.9 | peritectic: L + Ge3Ti5 ↔ Ge5Ti6 | L: Ti 0.418; Ge3Ti5: Ti 0.61; Ge5Ti6: Ti 0.5455 | model | [2] Zobač 2023 | Table 2, p. 3, row 8 |  |
-| 1900 | peritectoid: Ge5Ti6 + Ge3Ti5 ↔ Ge4Ti5 | Ge5Ti6: Ti 0.545; Ge3Ti5: Ti 0.605; Ge4Ti5: Ti 0.56 | experimental | [2] Zobač 2023; _cites Bittner 2013_ [doi](https://doi.org/10.1016/j.jallcom.2013.04.114) | Table 2, p. 3, row 9 |  |
-| 1878 | peritectoid: Ge5Ti6 + Ge3Ti5 ↔ Ge4Ti5 | Ge5Ti6: Ti 0.5455; Ge3Ti5: Ti 0.611; Ge4Ti5: Ti 0.5556 | model | [2] Zobač 2023 | Table 2, p. 3, row 10 |  |
-| 1703 | eutectic: L -> Ti5Ge3 + (βTi) | L: Ge 0.118; Ti5Ge3: Ge 0.375; (βTi): Ge 0.0833 | experimental | [1] Liu 2011; _cites Belousov 1976_ | Table 5, p. 6, row 6 |  |
-| 1683 | eutectic: L -> Ti5Ge3 + (βTi) | Ti5Ge3: Ge 0.375; (βTi): Ge 0.0932 | experimental | [1] Liu 2011; _cites McQuillan 1955_ | Table 5, p. 6, row 5 |  |
-| 1633 | eutectic: L -> Ti5Ge3 + (βTi) | L: Ge 0.134; Ti5Ge3: Ge 0.375; (βTi): Ge 0.0861 | experimental | [1] Liu 2011; _cites Petersen 2011_ | Table 5, p. 6, row 7 |  |
-| 1633 | eutectic: L -> Ti5Ge3 + (βTi) | L: Ge 0.149; Ti5Ge3: Ge 0.375 | experimental | [1] Liu 2011; _cites Yue 1970_ [doi](https://doi.org/10.1007/bf02819289) | Table 5, p. 6, row 8 |  |
-| 1630 | eutectic: L ↔ Ge3Ti5 + (α-Ti) | L: Ti 0.859; Ge3Ti5: Ti 0.637; (α-Ti): Ti 0.911 | experimental | [2] Zobač 2023; _cites Bittner 2013_ [doi](https://doi.org/10.1016/j.jallcom.2013.04.114) | Table 2, p. 3, row 13 |  |
-| 1630 | eutectic: L ↔ Ge3Ti5 + (α-Ti) | L: Ti 0.859; Ge3Ti5: Ti 0.625; (α-Ti): Ti 0.914 | unspecified | [2] Zobač 2023; _cites Liu 2011_ [doi](https://doi.org/10.1016/j.tca.2011.04.017) | Table 2, p. 3, row 12 |  |
-| 1630 | eutectic: L -> Ti5Ge3 + (βTi) | L: Ge 0.141; Ti5Ge3: Ge 0.375; (βTi): Ge 0.0882 | unspecified | [1] Liu 2011 | Table 5, p. 6, row 11 |  |
-| 1629.4 | eutectic: L ↔ Ge3Ti5 + (α-Ti) | L: Ti 0.87; Ge3Ti5: Ti 0.625; (α-Ti): Ti 0.913 | model | [2] Zobač 2023 | Table 2, p. 3, row 14 |  |
-| 1627 | eutectic: L -> Ti5Ge3 + (βTi) | Ti5Ge3: Ge 0.375, Ti 0.625 | experimental | [1] Liu 2011 | Table 5, p. 6, row 10 |  |
-| 1598 | eutectic: L ↔ Ge3Ti5 + (α-Ti) | L: Ti 0.851; Ge3Ti5: Ti 0.625; (α-Ti): Ti 0.904 | experimental | [2] Zobač 2023; _cites Rudometkina 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990197-5) | Table 2, p. 3, row 11 |  |
-| 1598 | eutectic: L -> Ti5Ge3 + (βTi) | L: Ge 0.149; Ti5Ge3: Ge 0.375; (βTi): Ge 0.0959 | experimental | [1] Liu 2011; _cites Rudometkina 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990197-5) | Table 5, p. 6, row 9 |  |
-| 1392 | peritectic: L + Ti6Ge5 -> TiGe2 | L: Ge 0.751; Ti6Ge5: Ge 0.454; TiGe2: Ge 0.667 | unspecified | [1] Liu 2011 | Table 5, p. 6, row 14 |  |
-| 1392 | peritectic: L + Ge5Ti6 ↔ Ge2Ti | L: Ti 0.248; Ge5Ti6: Ti 0.545; Ge2Ti: Ti 0.333 | unspecified | [2] Zobač 2023; _cites Liu 2011_ [doi](https://doi.org/10.1016/j.tca.2011.04.017) | Table 2, p. 3, row 16 |  |
-| 1388 | peritectic: L + Ti6Ge5 -> TiGe2 | Ti6Ge5: Ge 0.454545, Ti 0.545455; TiGe2: Ge 0.666667, Ti 0.333333 | experimental | [1] Liu 2011 | Table 5, p. 6, row 13 |  |
-| 1383 | peritectic: L + Ge5Ti6 ↔ Ge2Ti | L: Ti 0.127; Ge5Ti6: Ti 0.5455; Ge2Ti: Ti 0.333 | experimental | [2] Zobač 2023; _cites Bittner 2013_ [doi](https://doi.org/10.1016/j.jallcom.2013.04.114) | Table 2, p. 3, row 17 |  |
-| 1383 | peritectic |  | model | [2] Zobač 2023 | p. 2 | “The stoichiometric Ge2Ti phase (structure type TiSi2) melts by a peritectic reaction at 1383 K.\[2\]” |
-| 1382.7 | peritectic: L + Ge5Ti6 ↔ Ge2Ti | L: Ti 0.15; Ge5Ti6: Ti 0.546; Ge2Ti: Ti 0.333 | model | [2] Zobač 2023 | Table 2, p. 3, row 18 |  |
-| 1348 | peritectic: L + Ge5Ti6 ↔ Ge2Ti | L: Ti 0.178; Ge5Ti6: Ti 0.545; Ge2Ti: Ti 0.333 | experimental | [2] Zobač 2023; _cites Rudometkina 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990197-5) | Table 2, p. 3, row 15 |  |
-| 1348 | peritectic: L + Ti6Ge5 -> TiGe2 | L: Ge 0.822; Ti6Ge5: Ge 0.454; TiGe2: Ge 0.667 | experimental | [1] Liu 2011; _cites Rudometkina 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990197-5) | Table 5, p. 6, row 12 |  |
-| 1203.5 | eutectic: L ↔ (Ge) + Ge2Ti | L: Ti 0.025; (Ge): Ti 0.001; Ge2Ti: Ti 0.333 | experimental | [2] Zobač 2023; _cites Bittner 2013_ [doi](https://doi.org/10.1016/j.jallcom.2013.04.114) | Table 2, p. 3, row 21 |  |
-| 1202 | eutectic: L -> TiGe2 + (Ge) | TiGe2: Ge 0.666667, Ti 0.333333 | experimental | [1] Liu 2011 | Table 5, p. 6, row 16 |  |
-| 1200.3 | eutectic: L ↔ (Ge) + Ge2Ti | L: Ti 0.026; (Ge): Ti 0.002; Ge2Ti: Ti 0.333 | model | [2] Zobač 2023 | Table 2, p. 3, row 22 |  |
-| 1197 | eutectic: L -> TiGe2 + (Ge) | L: Ge 0.908; TiGe2: Ge 0.667; (Ge): Ge 0.978 | unspecified | [1] Liu 2011 | Table 5, p. 6, row 17 |  |
-| 1197 | eutectic: L ↔ (Ge) + Ge2Ti | L: Ti 0.09; (Ge): Ti 0.021; Ge2Ti: Ti 0.333 | unspecified | [2] Zobač 2023; _cites Liu 2011_ [doi](https://doi.org/10.1016/j.tca.2011.04.017) | Table 2, p. 3, row 20 |  |
-| 1197 | eutectic: L ? (Ge) ? Ge2Ti |  | model | [2] Zobač 2023; _cites Liu 2011_ [doi](https://doi.org/10.1016/j.tca.2011.04.017) | p. 8 | “The eutectic point for the L ? (Ge) ? Ge2Ti invariant reaction was assessed at 1197 K and 9.2 at.% Ti in.\[1\]” |
-| 1178 | peritectoid: (βTi) + Ti5Ge3 -> (αTi) | (βTi): Ge 0.0267; Ti5Ge3: Ge 0.375 | experimental | [1] Liu 2011; _cites Petersen 2011_ | Table 5, p. 6, row 20 |  |
-| 1173 | eutectic: L -> TiGe2 + (Ge) | L: Ge 0.893; TiGe2: Ge 0.667; (Ge): Ge 0.962 | experimental | [1] Liu 2011; _cites Rudometkina 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990197-5) | Table 5, p. 6, row 15 |  |
-| 1173 | eutectic: L ↔ (Ge) + Ge2Ti | L: Ti 0.107; (Ge): Ti 0.038; Ge2Ti: Ti 0.333 | experimental | [2] Zobač 2023; _cites Rudometkina 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990197-5) | Table 2, p. 3, row 19 |  |
-| 1170 | peritectoid: (βTi) + Ti5Ge3 -> (αTi) | (βTi): Ge 0.0359; Ti5Ge3: Ge 0.375; (αTi): Ge 0.0406 | experimental | [1] Liu 2011; _cites McQuillan 1955_ | Table 5, p. 6, row 18 |  |
-| 1167.1 | peritectoid: Ge3Ti5 + (α-Ti) ↔ (β-Ti) | Ge3Ti5: Ti 0.625; (α-Ti): Ti 0.959; (β-Ti): Ti 0.958 | model | [2] Zobač 2023 | Table 2, p. 3, row 26 |  |
-| 1167 | peritectoid: Ge3Ti5 + (α-Ti) ↔ (β-Ti) | Ge3Ti5: Ti 0.633; (α-Ti): Ti 0.961; (β-Ti): Ti 0.961 | experimental | [2] Zobač 2023; _cites Bittner 2013_ [doi](https://doi.org/10.1016/j.jallcom.2013.04.114) | Table 2, p. 3, row 25 |  |
-| 1167 | peritectoid: Ge3Ti5 + (α-Ti) ↔ (β-Ti) | Ge3Ti5: Ti 0.625; (α-Ti): Ti 0.958; (β-Ti): Ti 0.96 | unspecified | [2] Zobač 2023; _cites Liu 2011_ [doi](https://doi.org/10.1016/j.tca.2011.04.017) | Table 2, p. 3, row 24 |  |
-| 1167 | peritectoid: (βTi) + Ti5Ge3 -> (αTi) | (βTi): Ge 0.0399; Ti5Ge3: Ge 0.375; (αTi): Ge 0.0412 | unspecified | [1] Liu 2011 | Table 5, p. 6, row 23 |  |
-| 1166 | peritectoid: (βTi) + Ti5Ge3 -> (αTi) | Ti5Ge3: Ge 0.375, Ti 0.625 | experimental | [1] Liu 2011 | Table 5, p. 6, row 22 |  |
-| 1133 | peritectoid: (βTi) + Ti5Ge3 -> (αTi) | (βTi): Ge 0.0174; Ti5Ge3: Ge 0.375; (αTi): Ge 0.0221 | experimental | [1] Liu 2011; _cites Belousov 1976_ | Table 5, p. 6, row 19 |  |
-| 1133 | peritectoid: Ge3Ti5 + (α-Ti) ↔ (β-Ti) | Ge3Ti5: Ti 0.625; (α-Ti): Ti 0.964; (β-Ti): Ti 0.956 | experimental | [2] Zobač 2023; _cites Rudometkina 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990197-5) | Table 2, p. 3, row 23 |  |
-| 1133 | peritectoid: (βTi) + Ti5Ge3 -> (αTi) | (βTi): Ge 0.0356; Ti5Ge3: Ge 0.375; (αTi): Ge 0.0438 | experimental | [1] Liu 2011; _cites Rudometkina 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990197-5) | Table 5, p. 6, row 21 |  |
+| 2253 | congruent melting: L -> Ti5Ge3 | L: Ge 0.375; Ti5Ge3: Ge 0.375 | unspecified | [1] Liu 2011 | Table 5, p. 6, row 2; `ORC-UYR7VUBSEM` |  |
+| 2253 | congruent melting: L -> Ti5Ge3 | L: Ge 0.375; Ti5Ge3: Ge 0.375 | experimental | [1] Liu 2011; _cites Rudometkina 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990197-5) | Table 5, p. 6, row 1; `ORC-ZLN5L3EMAQ` |  |
+| 1939 | peritectic: L + Ti5Ge3 -> Ti6Ge5 | L: Ge 0.533; Ti5Ge3: Ge 0.375; Ti6Ge5: Ge 0.454 | unspecified | [1] Liu 2011 | Table 5, p. 6, row 4; `ORC-5ELE2NTBDD` |  |
+| 1939 | peritectic: L + Ge3Ti5 ↔ Ge5Ti6 | L: Ti 0.466; Ge3Ti5: Ti 0.625; Ge5Ti6: Ti 0.545 | unspecified | [2] Zobač 2023; _cites Liu 2011_ [doi](https://doi.org/10.1016/j.tca.2011.04.017) | Table 2, p. 3, row 6; `ORC-5KJC7AKIEV` |  |
+| 1923 | peritectic: L + Ge3Ti5 ↔ Ge5Ti6 | L: Ti 0.471; Ge3Ti5: Ti 0.625; Ge5Ti6: Ti 0.546 | experimental | [2] Zobač 2023; _cites Rudometkina 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990197-5) | Table 2, p. 3, row 5; `ORC-GIE5NCSNJT` |  |
+| 1923 | peritectic: L + Ti5Ge3 -> Ti6Ge5 | L: Ge 0.529; Ti5Ge3: Ge 0.375; Ti6Ge5: Ge 0.454 | experimental | [1] Liu 2011; _cites Rudometkina 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990197-5) | Table 5, p. 6, row 3; `ORC-VEWQT5QNZB` |  |
+| 1923 | peritectic |  | model | [2] Zobač 2023 | p. 2; `ORC-WEKV4HS7HN` | “Ge5Ti6 phase is a stoichiometric binary phase formed by the peritectic reaction at 1923 K.” |
+| 1923 | peritectic: L + Ge3Ti5 ↔ Ge5Ti6 | L: Ti 0.472; Ge3Ti5: Ti 0.605; Ge5Ti6: Ti 0.545 | experimental | [2] Zobač 2023; _cites Bittner 2013_ [doi](https://doi.org/10.1016/j.jallcom.2013.04.114) | Table 2, p. 3, row 7; `ORC-XXOEPASYJY` |  |
+| 1922.9 | peritectic: L + Ge3Ti5 ↔ Ge5Ti6 | L: Ti 0.418; Ge3Ti5: Ti 0.61; Ge5Ti6: Ti 0.5455 | model | [2] Zobač 2023 | Table 2, p. 3, row 8; `ORC-HAY3POZTDP` |  |
+| 1900 | peritectoid: Ge5Ti6 + Ge3Ti5 ↔ Ge4Ti5 | Ge5Ti6: Ti 0.545; Ge3Ti5: Ti 0.605; Ge4Ti5: Ti 0.56 | experimental | [2] Zobač 2023; _cites Bittner 2013_ [doi](https://doi.org/10.1016/j.jallcom.2013.04.114) | Table 2, p. 3, row 9; `ORC-YSPXTNVYMO` |  |
+| 1878 | peritectoid: Ge5Ti6 + Ge3Ti5 ↔ Ge4Ti5 | Ge5Ti6: Ti 0.5455; Ge3Ti5: Ti 0.611; Ge4Ti5: Ti 0.5556 | model | [2] Zobač 2023 | Table 2, p. 3, row 10; `ORC-UNBA4IQLAD` |  |
+| 1703 | eutectic: L -> Ti5Ge3 + (βTi) | L: Ge 0.118; Ti5Ge3: Ge 0.375; (βTi): Ge 0.0833 | experimental | [1] Liu 2011; _cites Belousov 1976_ | Table 5, p. 6, row 6; `ORC-IRFYE736PV` |  |
+| 1683 | eutectic: L -> Ti5Ge3 + (βTi) | Ti5Ge3: Ge 0.375; (βTi): Ge 0.0932 | experimental | [1] Liu 2011; _cites McQuillan 1955_ | Table 5, p. 6, row 5; `ORC-EG677IRSNH` |  |
+| 1633 | eutectic: L -> Ti5Ge3 + (βTi) | L: Ge 0.134; Ti5Ge3: Ge 0.375; (βTi): Ge 0.0861 | experimental | [1] Liu 2011; _cites Petersen 2011_ | Table 5, p. 6, row 7; `ORC-22EQKAT476` |  |
+| 1633 | eutectic: L -> Ti5Ge3 + (βTi) | L: Ge 0.149; Ti5Ge3: Ge 0.375 | experimental | [1] Liu 2011; _cites Yue 1970_ [doi](https://doi.org/10.1007/bf02819289) | Table 5, p. 6, row 8; `ORC-6ZS6AMZXZW` |  |
+| 1630 | eutectic: L ↔ Ge3Ti5 + (α-Ti) | L: Ti 0.859; Ge3Ti5: Ti 0.637; (α-Ti): Ti 0.911 | experimental | [2] Zobač 2023; _cites Bittner 2013_ [doi](https://doi.org/10.1016/j.jallcom.2013.04.114) | Table 2, p. 3, row 13; `ORC-BNZCD5LRCH` |  |
+| 1630 | eutectic: L ↔ Ge3Ti5 + (α-Ti) | L: Ti 0.859; Ge3Ti5: Ti 0.625; (α-Ti): Ti 0.914 | unspecified | [2] Zobač 2023; _cites Liu 2011_ [doi](https://doi.org/10.1016/j.tca.2011.04.017) | Table 2, p. 3, row 12; `ORC-IOLNPSS73P` |  |
+| 1630 | eutectic: L -> Ti5Ge3 + (βTi) | L: Ge 0.141; Ti5Ge3: Ge 0.375; (βTi): Ge 0.0882 | unspecified | [1] Liu 2011 | Table 5, p. 6, row 11; `ORC-PBE3ZHYGUX` |  |
+| 1629.4 | eutectic: L ↔ Ge3Ti5 + (α-Ti) | L: Ti 0.87; Ge3Ti5: Ti 0.625; (α-Ti): Ti 0.913 | model | [2] Zobač 2023 | Table 2, p. 3, row 14; `ORC-ZDMCKEOQRV` |  |
+| 1627 | eutectic: L -> Ti5Ge3 + (βTi) | Ti5Ge3: Ge 0.375, Ti 0.625 | experimental | [1] Liu 2011 | Table 5, p. 6, row 10; `ORC-UJPXOJOPMH` |  |
+| 1598 | eutectic: L ↔ Ge3Ti5 + (α-Ti) | L: Ti 0.851; Ge3Ti5: Ti 0.625; (α-Ti): Ti 0.904 | experimental | [2] Zobač 2023; _cites Rudometkina 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990197-5) | Table 2, p. 3, row 11; `ORC-56CI556MO3` |  |
+| 1598 | eutectic: L -> Ti5Ge3 + (βTi) | L: Ge 0.149; Ti5Ge3: Ge 0.375; (βTi): Ge 0.0959 | experimental | [1] Liu 2011; _cites Rudometkina 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990197-5) | Table 5, p. 6, row 9; `ORC-6GXKA3EZSC` |  |
+| 1392 | peritectic: L + Ti6Ge5 -> TiGe2 | L: Ge 0.751; Ti6Ge5: Ge 0.454; TiGe2: Ge 0.667 | unspecified | [1] Liu 2011 | Table 5, p. 6, row 14; `ORC-25L36ZJG3Q` |  |
+| 1392 | peritectic: L + Ge5Ti6 ↔ Ge2Ti | L: Ti 0.248; Ge5Ti6: Ti 0.545; Ge2Ti: Ti 0.333 | unspecified | [2] Zobač 2023; _cites Liu 2011_ [doi](https://doi.org/10.1016/j.tca.2011.04.017) | Table 2, p. 3, row 16; `ORC-VS543Y2TGK` |  |
+| 1388 | peritectic: L + Ti6Ge5 -> TiGe2 | Ti6Ge5: Ge 0.454545, Ti 0.545455; TiGe2: Ge 0.666667, Ti 0.333333 | experimental | [1] Liu 2011 | Table 5, p. 6, row 13; `ORC-S5KIJUO2OO` |  |
+| 1383 | peritectic: L + Ge5Ti6 ↔ Ge2Ti | L: Ti 0.127; Ge5Ti6: Ti 0.5455; Ge2Ti: Ti 0.333 | experimental | [2] Zobač 2023; _cites Bittner 2013_ [doi](https://doi.org/10.1016/j.jallcom.2013.04.114) | Table 2, p. 3, row 17; `ORC-2NQNQUIK6I` |  |
+| 1383 | peritectic |  | model | [2] Zobač 2023 | p. 2; `ORC-YB26FB2L6G` | “The stoichiometric Ge2Ti phase (structure type TiSi2) melts by a peritectic reaction at 1383 K.\[2\]” |
+| 1382.7 | peritectic: L + Ge5Ti6 ↔ Ge2Ti | L: Ti 0.15; Ge5Ti6: Ti 0.546; Ge2Ti: Ti 0.333 | model | [2] Zobač 2023 | Table 2, p. 3, row 18; `ORC-337EPU2X3W` |  |
+| 1348 | peritectic: L + Ge5Ti6 ↔ Ge2Ti | L: Ti 0.178; Ge5Ti6: Ti 0.545; Ge2Ti: Ti 0.333 | experimental | [2] Zobač 2023; _cites Rudometkina 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990197-5) | Table 2, p. 3, row 15; `ORC-6KCDWOSGLY` |  |
+| 1348 | peritectic: L + Ti6Ge5 -> TiGe2 | L: Ge 0.822; Ti6Ge5: Ge 0.454; TiGe2: Ge 0.667 | experimental | [1] Liu 2011; _cites Rudometkina 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990197-5) | Table 5, p. 6, row 12; `ORC-AGCBDR7NL2` |  |
+| 1203.5 | eutectic: L ↔ (Ge) + Ge2Ti | L: Ti 0.025; (Ge): Ti 0.001; Ge2Ti: Ti 0.333 | experimental | [2] Zobač 2023; _cites Bittner 2013_ [doi](https://doi.org/10.1016/j.jallcom.2013.04.114) | Table 2, p. 3, row 21; `ORC-X2Y2PTGZ2W` |  |
+| 1202 | eutectic: L -> TiGe2 + (Ge) | TiGe2: Ge 0.666667, Ti 0.333333 | experimental | [1] Liu 2011 | Table 5, p. 6, row 16; `ORC-GP4JUQPIRV` |  |
+| 1200.3 | eutectic: L ↔ (Ge) + Ge2Ti | L: Ti 0.026; (Ge): Ti 0.002; Ge2Ti: Ti 0.333 | model | [2] Zobač 2023 | Table 2, p. 3, row 22; `ORC-RU5U7RYE4K` |  |
+| 1197 | eutectic: L -> TiGe2 + (Ge) | L: Ge 0.908; TiGe2: Ge 0.667; (Ge): Ge 0.978 | unspecified | [1] Liu 2011 | Table 5, p. 6, row 17; `ORC-4AL4ZD4XFC` |  |
+| 1197 | eutectic: L ↔ (Ge) + Ge2Ti | L: Ti 0.09; (Ge): Ti 0.021; Ge2Ti: Ti 0.333 | unspecified | [2] Zobač 2023; _cites Liu 2011_ [doi](https://doi.org/10.1016/j.tca.2011.04.017) | Table 2, p. 3, row 20; `ORC-PCEY4B2DHI` |  |
+| 1197 | eutectic: L ? (Ge) ? Ge2Ti |  | model | [2] Zobač 2023; _cites Liu 2011_ [doi](https://doi.org/10.1016/j.tca.2011.04.017) | p. 8; `ORC-ZUWEKJ67KK` | “The eutectic point for the L ? (Ge) ? Ge2Ti invariant reaction was assessed at 1197 K and 9.2 at.% Ti in.\[1\]” |
+| 1178 | peritectoid: (βTi) + Ti5Ge3 -> (αTi) | (βTi): Ge 0.0267; Ti5Ge3: Ge 0.375 | experimental | [1] Liu 2011; _cites Petersen 2011_ | Table 5, p. 6, row 20; `ORC-C333FNVVDD` |  |
+| 1173 | eutectic: L -> TiGe2 + (Ge) | L: Ge 0.893; TiGe2: Ge 0.667; (Ge): Ge 0.962 | experimental | [1] Liu 2011; _cites Rudometkina 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990197-5) | Table 5, p. 6, row 15; `ORC-HJCIODW6DM` |  |
+| 1173 | eutectic: L ↔ (Ge) + Ge2Ti | L: Ti 0.107; (Ge): Ti 0.038; Ge2Ti: Ti 0.333 | experimental | [2] Zobač 2023; _cites Rudometkina 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990197-5) | Table 2, p. 3, row 19; `ORC-W72GSDW4ES` |  |
+| 1170 | peritectoid: (βTi) + Ti5Ge3 -> (αTi) | (βTi): Ge 0.0359; Ti5Ge3: Ge 0.375; (αTi): Ge 0.0406 | experimental | [1] Liu 2011; _cites McQuillan 1955_ | Table 5, p. 6, row 18; `ORC-2Y24UAOIP6` |  |
+| 1167.1 | peritectoid: Ge3Ti5 + (α-Ti) ↔ (β-Ti) | Ge3Ti5: Ti 0.625; (α-Ti): Ti 0.959; (β-Ti): Ti 0.958 | model | [2] Zobač 2023 | Table 2, p. 3, row 26; `ORC-5HV7HDA55Z` |  |
+| 1167 | peritectoid: Ge3Ti5 + (α-Ti) ↔ (β-Ti) | Ge3Ti5: Ti 0.633; (α-Ti): Ti 0.961; (β-Ti): Ti 0.961 | experimental | [2] Zobač 2023; _cites Bittner 2013_ [doi](https://doi.org/10.1016/j.jallcom.2013.04.114) | Table 2, p. 3, row 25; `ORC-A6OGW67J3J` |  |
+| 1167 | peritectoid: Ge3Ti5 + (α-Ti) ↔ (β-Ti) | Ge3Ti5: Ti 0.625; (α-Ti): Ti 0.958; (β-Ti): Ti 0.96 | unspecified | [2] Zobač 2023; _cites Liu 2011_ [doi](https://doi.org/10.1016/j.tca.2011.04.017) | Table 2, p. 3, row 24; `ORC-DC7ZDFIGA6` |  |
+| 1167 | peritectoid: (βTi) + Ti5Ge3 -> (αTi) | (βTi): Ge 0.0399; Ti5Ge3: Ge 0.375; (αTi): Ge 0.0412 | unspecified | [1] Liu 2011 | Table 5, p. 6, row 23; `ORC-RDQ4W3I6JP` |  |
+| 1166 | peritectoid: (βTi) + Ti5Ge3 -> (αTi) | Ti5Ge3: Ge 0.375, Ti 0.625 | experimental | [1] Liu 2011 | Table 5, p. 6, row 22; `ORC-I6IZCDL37O` |  |
+| 1133 | peritectoid: (βTi) + Ti5Ge3 -> (αTi) | (βTi): Ge 0.0174; Ti5Ge3: Ge 0.375; (αTi): Ge 0.0221 | experimental | [1] Liu 2011; _cites Belousov 1976_ | Table 5, p. 6, row 19; `ORC-H7PYXKGY4X` |  |
+| 1133 | peritectoid: Ge3Ti5 + (α-Ti) ↔ (β-Ti) | Ge3Ti5: Ti 0.625; (α-Ti): Ti 0.964; (β-Ti): Ti 0.956 | experimental | [2] Zobač 2023; _cites Rudometkina 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990197-5) | Table 2, p. 3, row 23; `ORC-LLIDQYIQV7` |  |
+| 1133 | peritectoid: (βTi) + Ti5Ge3 -> (αTi) | (βTi): Ge 0.0356; Ti5Ge3: Ge 0.375; (αTi): Ge 0.0438 | experimental | [1] Liu 2011; _cites Rudometkina 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990197-5) | Table 5, p. 6, row 21; `ORC-XISE2AFV5T` |  |
 
 ## Formation enthalpies
 
@@ -131,8 +131,8 @@ Table: Enthalpies of formation, Ge–Ti system (2)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Ti5Ge3 | [Ge3Ti5](https://data.orchid-project.org/compounds/Ge3Ti5.html) | -70.8 kJ/mol-atom ± 2.5 | 298.15 | experimental | -67.135 (mp-aaabgilz) | -70.401 (oqmd-30500) | [1] Liu 2011; _cites Kleppa 1990_ | p. 3 | “The measured enthalpy of formation of Ti5 Ge3 at 298 K is -69,700 ± 2500 J/(mol atoms), which is in a good agreement with the result of Kleppa and Jung \[10\], -70,800 ± 2500 J/(mol atoms).” |
-| Ti5Ge3 | [Ge3Ti5](https://data.orchid-project.org/compounds/Ge3Ti5.html) | -69.7 kJ/mol-atom ± 2.5 | 298.15 | experimental | -67.135 (mp-aaabgilz) | -70.401 (oqmd-30500) | [1] Liu 2011 | p. 3 | “The measured enthalpy of formation of Ti5 Ge3 at 298 K is -69,700 ± 2500 J/(mol atoms), which is in a good agreement with the result of Kleppa and Jung \[10\], -70,800 ± 2500 J/(mol atoms).” |
+| Ti5Ge3 | [Ge3Ti5](https://data.orchid-project.org/compounds/Ge3Ti5.html) | -70.8 kJ/mol-atom ± 2.5 | 298.15 | experimental | -67.135 (mp-aaabgilz) | -70.401 (oqmd-30500) | [1] Liu 2011; _cites Kleppa 1990_ | p. 3; `ORC-7OTIFBYDHR.31337a` | “The measured enthalpy of formation of Ti5 Ge3 at 298 K is -69,700 ± 2500 J/(mol atoms), which is in a good agreement with the result of Kleppa and Jung \[10\], -70,800 ± 2500 J/(mol atoms).” |
+| Ti5Ge3 | [Ge3Ti5](https://data.orchid-project.org/compounds/Ge3Ti5.html) | -69.7 kJ/mol-atom ± 2.5 | 298.15 | experimental | -67.135 (mp-aaabgilz) | -70.401 (oqmd-30500) | [1] Liu 2011 | p. 3; `ORC-7OTIFBYDHR.754a83` | “The measured enthalpy of formation of Ti5 Ge3 at 298 K is -69,700 ± 2500 J/(mol atoms), which is in a good agreement with the result of Kleppa and Jung \[10\], -70,800 ± 2500 J/(mol atoms).” |
 
 ## Other properties
 
@@ -142,12 +142,12 @@ Table: Phase transition, Ge–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1203.5 K | 1203.5 | L + (Ge) + Ge2Ti | experimental | [2] Zobač 2023; _cites Bittner 2013_ [doi](https://doi.org/10.1016/j.jallcom.2013.04.114) | p. 8 | “The new experimental data of Bittner et al.\[2\] define the parameters of this reaction to be 1203.5 K and 2.5 at.% Ti.” |
-| Phase transition | 2253 K | 2253 | congruent melting: L ↔ Ge3Ti5; _L: Ti 0.625; Ge3Ti5: Ti 0.625_ | experimental | [2] Zobač 2023; _cites Bittner 2013_ [doi](https://doi.org/10.1016/j.jallcom.2013.04.114) | Table 2, p. 3, row 3 |  |
-| Phase transition | 2253 K | 2253 | congruent melting: L ↔ Ge3Ti5; _L: Ti 0.625; Ge3Ti5: Ti 0.625_ | unspecified | [2] Zobač 2023; _cites Liu 2011_ [doi](https://doi.org/10.1016/j.tca.2011.04.017) | Table 2, p. 3, row 2 |  |
-| Phase transition | 2253 K | 2253 | congruent melting: L ↔ Ge3Ti5; _L: Ti 0.625; Ge3Ti5: Ti 0.625_ | experimental | [2] Zobač 2023; _cites Rudometkina 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990197-5) | Table 2, p. 3, row 1 |  |
-| Phase transition | 2253 K | 2253 | congruent transformation | model | [2] Zobač 2023 | p. 2 | “The Ge3Ti5 phase which melts congruently at 2253 K was formerly described as a stoichiometric phase\[1\] but Bittner et al.\[2\] found that the Ge3Ti5 phase shows solubility region between 37 and 40% Ge.” |
-| Phase transition | 2254 K | 2254 | congruent melting: L ↔ Ge3Ti5; _L: Ti 0.625; Ge3Ti5: Ti 0.625_ | model | [2] Zobač 2023 | Table 2, p. 3, row 4 |  |
+| Phase transition | 1203.5 K | 1203.5 | L + (Ge) + Ge2Ti | experimental | [2] Zobač 2023; _cites Bittner 2013_ [doi](https://doi.org/10.1016/j.jallcom.2013.04.114) | p. 8; `ORC-HR5D26BJ6U` | “The new experimental data of Bittner et al.\[2\] define the parameters of this reaction to be 1203.5 K and 2.5 at.% Ti.” |
+| Phase transition | 2253 K | 2253 | congruent melting: L ↔ Ge3Ti5; _L: Ti 0.625; Ge3Ti5: Ti 0.625_ | experimental | [2] Zobač 2023; _cites Bittner 2013_ [doi](https://doi.org/10.1016/j.jallcom.2013.04.114) | Table 2, p. 3, row 3; `ORC-CKM6XJDMZU` |  |
+| Phase transition | 2253 K | 2253 | congruent melting: L ↔ Ge3Ti5; _L: Ti 0.625; Ge3Ti5: Ti 0.625_ | unspecified | [2] Zobač 2023; _cites Liu 2011_ [doi](https://doi.org/10.1016/j.tca.2011.04.017) | Table 2, p. 3, row 2; `ORC-OVS3VBREEI` |  |
+| Phase transition | 2253 K | 2253 | congruent melting: L ↔ Ge3Ti5; _L: Ti 0.625; Ge3Ti5: Ti 0.625_ | experimental | [2] Zobač 2023; _cites Rudometkina 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990197-5) | Table 2, p. 3, row 1; `ORC-WBIISEKRGS` |  |
+| Phase transition | 2253 K | 2253 | congruent transformation | model | [2] Zobač 2023 | p. 2; `ORC-SEUL5PU3K3` | “The Ge3Ti5 phase which melts congruently at 2253 K was formerly described as a stoichiometric phase\[1\] but Bittner et al.\[2\] found that the Ge3Ti5 phase shows solubility region between 37 and 40% Ge.” |
+| Phase transition | 2254 K | 2254 | congruent melting: L ↔ Ge3Ti5; _L: Ti 0.625; Ge3Ti5: Ti 0.625_ | model | [2] Zobač 2023 | Table 2, p. 3, row 4; `ORC-NCG5OFIBQG` |  |
 
 ## Sources
 
@@ -213,4 +213,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

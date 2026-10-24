@@ -49,10 +49,10 @@ Table: Invariant reactions reported in the literature for the Au–Co system (4)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1270.4 | eutectic: L -> Au + αCo | L: Co 0.262; Au: Co 0.208; αCo: Co 0.977 | model | [1] Dong 2009 | Table I, p. 2, row 2 |  |
-| 1269.5 | eutectic: L -> Au + αCo | L: Co 0.248; Au: Co 0.23; αCo: Co 0.981 | experimental | [1] Dong 2009; _cites Okamoto 1985_ [doi](https://doi.org/10.1007/bf02869509) | Table I, p. 2, row 1 |  |
-| 695 | eutectoid: αCo -> Au + εCo | αCo: Co 0.9995; Au: Co 0.002 | experimental | [1] Dong 2009; _cites Okamoto 1985_ [doi](https://doi.org/10.1007/bf02869509) | Table I, p. 2, row 3 |  |
-| 694 | eutectoid: αCo -> Au + εCo | αCo: Co 0.999; Au: Co 0.009; εCo: Co 0.9993 | model | [1] Dong 2009 | Table I, p. 2, row 4 |  |
+| 1270.4 | eutectic: L -> Au + αCo | L: Co 0.262; Au: Co 0.208; αCo: Co 0.977 | model | [1] Dong 2009 | Table I, p. 2, row 2; `ORC-XIWE5MLPPT` |  |
+| 1269.5 | eutectic: L -> Au + αCo | L: Co 0.248; Au: Co 0.23; αCo: Co 0.981 | experimental | [1] Dong 2009; _cites Okamoto 1985_ [doi](https://doi.org/10.1007/bf02869509) | Table I, p. 2, row 1; `ORC-DT6F2PSNTN` |  |
+| 695 | eutectoid: αCo -> Au + εCo | αCo: Co 0.9995; Au: Co 0.002 | experimental | [1] Dong 2009; _cites Okamoto 1985_ [doi](https://doi.org/10.1007/bf02869509) | Table I, p. 2, row 3; `ORC-WFREF5GXLC` |  |
+| 694 | eutectoid: αCo -> Au + εCo | αCo: Co 0.999; Au: Co 0.009; εCo: Co 0.9993 | model | [1] Dong 2009 | Table I, p. 2, row 4; `ORC-7PGOOGQPD2` |  |
 
 ## Sources
 
@@ -117,4 +117,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

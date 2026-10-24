@@ -64,15 +64,15 @@ Table: Invariant reactions reported in the literature for the In–Sn system (9)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 497 | peritectic: Liquid + (βSn) -> γ | L: Sn 0.963; (βSn): Sn 0.989; γ: Sn 0.98 | model | [1] David 2004 | Table 3, p. 3, row 6 |  |
-| 497 | peritectic: Liquid + (βSn) -> γ | L: Sn 0.957; (βSn): Sn 0.995; γ: Sn 0.99 | model | [1] David 2004; _cites T 1990_ | Table 3, p. 3, row 5 |  |
-| 416 | peritectic: Liquid+ β -> (In) | L: Sn 0.1; β: Sn 0.14; (In): Sn 0.12 | model | [1] David 2004; _cites T 1990_ | Table 3, p. 3, row 1 |  |
-| 415 | peritectic: Liquid+ β -> (In) | L: Sn 0.1; β: Sn 0.131; (In): Sn 0.129 | model | [1] David 2004 | Table 3, p. 3, row 2 |  |
-| 393.15 | eutectic |  | experimental | [2] Korhonen 1998 | p. 5 | “There is a eutectic reaction in the middle of the diagram (at 52% In, 120°C) and two peritectic reactions.” |
-| 393.15 | eutectic |  | experimental | [2] Korhonen 1998 | p. 2 | “Two of its binaries have already been successfully used in electronic soldering for some time, the eutectic Ag-Sn at higher temperatures (Tm = 221°C), and the eutectic In-Sn at low temperatures (Tm = 120°C).” |
-| 393 | eutectic: Liquid -> β + γ | L: Sn 0.483; β: Sn 0.44; γ: Sn 0.77 | model | [1] David 2004; _cites T 1990_ | Table 3, p. 3, row 3 |  |
-| 393 | eutectic: Liquid -> β + γ | L: Sn 0.481; β: Sn 0.43; γ: Sn 0.77 | model | [1] David 2004 | Table 3, p. 3, row 4 |  |
-| 391.15 | eutectic |  | experimental | [3] Vizdal 2006 | p. 13 | “The choice of the applied solder was dictated by low melting temperature of the eutectic alloy (118 °C).” |
+| 497 | peritectic: Liquid + (βSn) -> γ | L: Sn 0.963; (βSn): Sn 0.989; γ: Sn 0.98 | model | [1] David 2004 | Table 3, p. 3, row 6; `ORC-LNLZ5KHETF` |  |
+| 497 | peritectic: Liquid + (βSn) -> γ | L: Sn 0.957; (βSn): Sn 0.995; γ: Sn 0.99 | model | [1] David 2004; _cites T 1990_ | Table 3, p. 3, row 5; `ORC-P5UTGTME4I` |  |
+| 416 | peritectic: Liquid+ β -> (In) | L: Sn 0.1; β: Sn 0.14; (In): Sn 0.12 | model | [1] David 2004; _cites T 1990_ | Table 3, p. 3, row 1; `ORC-UQJJSJFE5D` |  |
+| 415 | peritectic: Liquid+ β -> (In) | L: Sn 0.1; β: Sn 0.131; (In): Sn 0.129 | model | [1] David 2004 | Table 3, p. 3, row 2; `ORC-WR6JOYKMC7` |  |
+| 393.15 | eutectic |  | experimental | [2] Korhonen 1998 | p. 5; `ORC-AVFZW5ACZL` | “There is a eutectic reaction in the middle of the diagram (at 52% In, 120°C) and two peritectic reactions.” |
+| 393.15 | eutectic |  | experimental | [2] Korhonen 1998 | p. 2; `ORC-QYU7AI3224.c0a452` | “Two of its binaries have already been successfully used in electronic soldering for some time, the eutectic Ag-Sn at higher temperatures (Tm = 221°C), and the eutectic In-Sn at low temperatures (Tm = 120°C).” |
+| 393 | eutectic: Liquid -> β + γ | L: Sn 0.483; β: Sn 0.44; γ: Sn 0.77 | model | [1] David 2004; _cites T 1990_ | Table 3, p. 3, row 3; `ORC-FBZ5BKKE7B` |  |
+| 393 | eutectic: Liquid -> β + γ | L: Sn 0.481; β: Sn 0.43; γ: Sn 0.77 | model | [1] David 2004 | Table 3, p. 3, row 4; `ORC-IVZTSIOYGF` |  |
+| 391.15 | eutectic |  | experimental | [3] Vizdal 2006 | p. 13; `ORC-G6HOQ7GDX6` | “The choice of the applied solder was dictated by low melting temperature of the eutectic alloy (118 °C).” |
 
 ## Sources
 
@@ -139,4 +139,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

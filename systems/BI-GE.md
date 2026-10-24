@@ -46,8 +46,8 @@ Table: Invariant reactions reported in the literature for the Bi–Ge system (2)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 544.38 | eutectic |  | model | [1] Chevalier 1988 | p. 5 | “The calculated composition and temperature for the eutectic reaction are xGe = 0.00044 and T = 544.38 K, which can be compared with the calculated values in refs. 0.0002 and 0.0003 and experimental temperature T = 544.15 5and6ofx,,= K.” |
-| 544.15 | eutectic |  | experimental | [1] Chevalier 1988; _cites Stohr 1970_ | p. 2 | “According to refs. 3 and 4, the eutectic consists of practically pure Bi at T = 544.15 K.” |
+| 544.38 | eutectic |  | model | [1] Chevalier 1988 | p. 5; `ORC-3VCGOC4IQD` | “The calculated composition and temperature for the eutectic reaction are xGe = 0.00044 and T = 544.38 K, which can be compared with the calculated values in refs. 0.0002 and 0.0003 and experimental temperature T = 544.15 5and6ofx,,= K.” |
+| 544.15 | eutectic |  | experimental | [1] Chevalier 1988; _cites Stohr 1970_ | p. 2; `ORC-TEX53K23NH` | “According to refs. 3 and 4, the eutectic consists of practically pure Bi at T = 544.15 K.” |
 
 ## Sources
 
@@ -112,4 +112,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

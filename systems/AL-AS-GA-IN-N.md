@@ -30,34 +30,34 @@ Table: Enthalpies of formation, Al–As–Ga–In–N system (28)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| unspecified |  | -318.4 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Mah 1961_ | Table AI, p. 18, row 7 |  |
-| unspecified |  | -317.9 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Era 1977_ | Table AI, p. 18, row 13 |  |
-| unspecified |  | -316.3 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Hildebrand 1963_ | Table AI, p. 18, row 12 |  |
-| unspecified |  | -313 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Neugebauer 1957_ | Table AI, p. 18, row 11 |  |
-| unspecified |  | -312.5 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Sato 1932_ | Table AI, p. 18, row 10 |  |
-| unspecified |  | -311.1 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites McHale 1999_ | Table AI, p. 18, row 14 |  |
-| unspecified |  | -157.7 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Madar 1975_ | Table AI, p. 18, row 25 |  |
-| unspecified |  | -157.7 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Karpinski 1984_ | Table AI, p. 18, row 26 |  |
-| unspecified |  | -156.8 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Ranade 2000_ | Table AI, p. 18, row 27 |  |
-| unspecified |  | -140.2 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites MacChesney 1970_ | Table AI, p. 18, row 30 |  |
-| unspecified |  | -140 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Unland_ | Table AI, p. 18, row 17 |  |
-| unspecified |  | -134.6 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Wagman 1968_ | Table AI, p. 18, row 48 |  |
-| unspecified |  | -133.1 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Vorobev 1973_ | Table AI, p. 18, row 42 |  |
-| unspecified |  | -129.3 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Vorobev 1971_ | Table AI, p. 18, row 41 |  |
-| unspecified |  | -128.1 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Jones 1987_ | Table AI, p. 18, row 44 |  |
-| unspecified |  | -124.3 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Gordienko 1977_ | Table AI, p. 18, row 43 |  |
-| unspecified |  | -117.1 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 18, row 47 |  |
-| unspecified |  | -117.1 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Onderka 2002; _cites Kaufman 1981_ | Table AI, p. 18, row 49 |  |
-| unspecified |  | -117.1 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Davydov 1999_ | Table AI, p. 18, row 18 |  |
-| unspecified |  | -109.7 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Vorobev 1971_ | Table AI, p. 18, row 41 |  |
-| unspecified |  | -105.3 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Onderka 2002; _cites Yamaguchi 1996_ | Table AI, p. 18, row 52 |  |
-| unspecified |  | -104.2 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Hahn 1940_ | Table AI, p. 18, row 24 |  |
-| unspecified |  | -96.5 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Onderka 2002 | Table AI, p. 18, row 34 |  |
-| unspecified |  | -88.8 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 18, row 51 |  |
-| unspecified |  | -86.3 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Onderka 2002; _cites Kaufman 1981_ | Table AI, p. 18, row 50 |  |
-| unspecified |  | -71.1 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Wagman 1968_ | Table AI, p. 18, row 53 |  |
-| unspecified |  | -28.6 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Onderka 2002 | Table AI, p. 18, row 34 |  |
-| unspecified |  | -19.2 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Hahn 1940_ | Table AI, p. 18, row 40 |  |
+| unspecified |  | -318.4 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Mah 1961_ | Table AI, p. 18, row 7; `ORC-RV7HORYS2S.364abc` |  |
+| unspecified |  | -317.9 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Era 1977_ | Table AI, p. 18, row 13; `ORC-SCJ6PTKNQD` |  |
+| unspecified |  | -316.3 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Hildebrand 1963_ | Table AI, p. 18, row 12; `ORC-4D3CFBSIUE` |  |
+| unspecified |  | -313 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Neugebauer 1957_ | Table AI, p. 18, row 11; `ORC-H3GAN2DCZE` |  |
+| unspecified |  | -312.5 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Sato 1932_ | Table AI, p. 18, row 10; `ORC-CGJSSMUS7E` |  |
+| unspecified |  | -311.1 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites McHale 1999_ | Table AI, p. 18, row 14; `ORC-LZU5HZK74A` |  |
+| unspecified |  | -157.7 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Madar 1975_ | Table AI, p. 18, row 25; `ORC-MK5TLO3SF5` |  |
+| unspecified |  | -157.7 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Karpinski 1984_ | Table AI, p. 18, row 26; `ORC-QQL76BGONT` |  |
+| unspecified |  | -156.8 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Ranade 2000_ | Table AI, p. 18, row 27; `ORC-PEOWFV2IWD` |  |
+| unspecified |  | -140.2 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites MacChesney 1970_ | Table AI, p. 18, row 30; `ORC-LHYZF4HQHR` |  |
+| unspecified |  | -140 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Unland_ | Table AI, p. 18, row 17; `ORC-4T7BA2NHWJ.925d6c` |  |
+| unspecified |  | -134.6 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Wagman 1968_ | Table AI, p. 18, row 48; `ORC-HOK2UWZXHL` |  |
+| unspecified |  | -133.1 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Vorobev 1973_ | Table AI, p. 18, row 42; `ORC-R7FZQR2TXE` |  |
+| unspecified |  | -129.3 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Vorobev 1971_ | Table AI, p. 18, row 41; `ORC-AH33WT326L.21e423` |  |
+| unspecified |  | -128.1 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Jones 1987_ | Table AI, p. 18, row 44; `ORC-UFKYGNYLFG` |  |
+| unspecified |  | -124.3 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Gordienko 1977_ | Table AI, p. 18, row 43; `ORC-MAVHC4CD3V` |  |
+| unspecified |  | -117.1 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 18, row 47; `ORC-AGCAJ6VM5G.67b69d` |  |
+| unspecified |  | -117.1 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Onderka 2002; _cites Kaufman 1981_ | Table AI, p. 18, row 49; `ORC-S5FUBWNL62` |  |
+| unspecified |  | -117.1 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Davydov 1999_ | Table AI, p. 18, row 18; `ORC-XNAQL7HNT3.e3beeb` |  |
+| unspecified |  | -109.7 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Vorobev 1971_ | Table AI, p. 18, row 41; `ORC-AH33WT326L.7e4e05` |  |
+| unspecified |  | -105.3 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Onderka 2002; _cites Yamaguchi 1996_ | Table AI, p. 18, row 52; `ORC-OBO3SQIZDH` |  |
+| unspecified |  | -104.2 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Hahn 1940_ | Table AI, p. 18, row 24; `ORC-LIAN2RVUAP` |  |
+| unspecified |  | -96.5 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Onderka 2002 | Table AI, p. 18, row 34; `ORC-XNU2NBVYIG.1ee054` |  |
+| unspecified |  | -88.8 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 18, row 51; `ORC-YCZWXEBPI6.95146a` |  |
+| unspecified |  | -86.3 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Onderka 2002; _cites Kaufman 1981_ | Table AI, p. 18, row 50; `ORC-7XWIFRQNEB.b8a4c7` |  |
+| unspecified |  | -71.1 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Wagman 1968_ | Table AI, p. 18, row 53; `ORC-VSQ5MV3EZG` |  |
+| unspecified |  | -28.6 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Onderka 2002 | Table AI, p. 18, row 34; `ORC-XNU2NBVYIG.6e34c4` |  |
+| unspecified |  | -19.2 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Hahn 1940_ | Table AI, p. 18, row 40; `ORC-OWH4QAWTAQ` |  |
 
 ## Other properties
 
@@ -67,43 +67,43 @@ Table: Heat capacity / entropy / enthalpy, Al–As–Ga–In–N system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: ΔmS_ | 63.6 J/mol-formula K | 298.15 | unspecified | model | [1] Onderka 2002; _cites Jones 1984_ | Table AI, p. 18, row 6 |  |
-| Entropy; _printed: S°298_ | 26 J/mol-formula K | 298.15 | unspecified | unspecified | [1] Onderka 2002; _cites Unland_ | Table AI, p. 18, row 17 |  |
-| Entropy; _printed: ΔmS_ | 66.9 J/mol-formula K | 298.15 | unspecified | model | [1] Onderka 2002; _cites Jones 1984_ | Table AI, p. 18, row 5 |  |
-| Entropy; _printed: S°298_ | 56.21 J/mol-formula K | 298.15 | unspecified | model | [1] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 18, row 47 |  |
-| Entropy; _printed: S°298_ | 43.5 J/mol-formula K | 298.15 | unspecified | unspecified | [1] Onderka 2002; _cites Kubaschewski 1993_ | Table AI, p. 18, row 45 |  |
-| Entropy; _printed: S°298_ | 37 J/mol-formula K | 298.15 | unspecified | unspecified | [1] Onderka 2002; _cites Davydov 1999_ | Table AI, p. 18, row 29 |  |
-| Entropy; _printed: S°298_ | 36.5 J/mol-formula K | 298.15 | unspecified | unspecified | [1] Onderka 2002; _cites Koshenko 1979_ | Table AI, p. 18, row 28 |  |
-| Entropy; _printed: ΔmS_ | 60.2 J/mol-formula K | 298.15 | unspecified | model | [1] Onderka 2002; _cites Jones 1984_ | Table AI, p. 18, row 36 |  |
-| Entropy; _printed: ΔmS_ | 67.4 J/mol-formula K | 298.15 | unspecified | model | [1] Onderka 2002; _cites Jones 1984_ | Table AI, p. 18, row 19 |  |
-| Entropy; _printed: ΔmS_ | 59 J/mol-formula K | 298.15 | unspecified | model | [1] Onderka 2002; _cites Jones 1984_ | Table AI, p. 18, row 35 |  |
-| Entropy; _printed: S°298_ | 20.1 J/mol-formula K | 298.15 | unspecified | unspecified | [1] Onderka 2002; _cites Mah 1961_ | Table AI, p. 18, row 7 |  |
-| Entropy; _printed: S°298_ | 19.69 J/mol-formula K | 298.15 | unspecified | unspecified | [1] Onderka 2002; _cites Koshchenko 1984_ | Table AI, p. 18, row 8 |  |
-| Entropy; _printed: S°298_ | 31.6 J/mol-formula K | 298.15 | unspecified | model | [1] Onderka 2002 | Table AI, p. 18, row 34 |  |
-| Entropy; _printed: S°298_ | 62.91 J/mol-formula K | 298.15 | unspecified | model | [1] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 18, row 51 |  |
-| Entropy; _printed: ΔmS_ | 42.6 J/mol-formula K | 831 | unspecified | unspecified | [1] Onderka 2002; _cites Van 1973_ | Table AI, p. 18, row 31 |  |
-| Entropy; _printed: ΔmS_ | 70.41 J/mol-formula K | 1510 | unspecified | model | [1] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 18, row 51 |  |
-| Entropy; _printed: ΔmS_ | 70.11 J/mol-formula K | 1512 | unspecified | model | [1] Onderka 2002; _cites Kaufman 1981_ | Table AI, p. 18, row 50 |  |
-| Entropy; _printed: ΔmS_ | 65 J/mol-formula K | 1714 | unspecified | model | [1] Onderka 2002 | Table AI, p. 18, row 34 |  |
-| Entropy; _printed: ΔmS_ | 70.9 J/mol-formula K | 2039 | unspecified | model | [1] Onderka 2002; _cites Kaufman 1981_ | Table AI, p. 18, row 46 |  |
-| Entropy; _printed: ΔmS_ | 70.13 J/mol-formula K | 2058 | unspecified | model | [1] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 18, row 47 |  |
-| Entropy; _printed: ΔmS_ | 67.4 J/mol-formula K | 2700 | unspecified | unspecified | [1] Onderka 2002; _cites Unland_ | Table AI, p. 18, row 17 |  |
-| Entropy; _printed: ΔmS_ | 67 J/mol-formula K | 2791 | unspecified | unspecified | [1] Onderka 2002; _cites Van 1973_ | Table AI, p. 18, row 15 |  |
-| Entropy; _printed: ΔmS_ | 31.5 J/mol-formula K | 2792 | unspecified | unspecified | [1] Onderka 2002; _cites Davydov 1999_ | Table AI, p. 18, row 18 |  |
-| Entropy; _printed: ΔmS_ | 69.5 J/mol-formula K | 3487 | unspecified | unspecified | [1] Onderka 2002; _cites Van 1973_ | Table AI, p. 18, row 3 |  |
-| Heat capacity; _printed: Cp,298_ | 34.6 J/mol (basis unstated)/K | 298.15 | unspecified | unspecified | [1] Onderka 2002; _cites Strelchenko 1984_ | Table AI, p. 18, row 9 |  |
-| Heat capacity; _printed: Cp,298_ | 34.03 J/mol (basis unstated)/K | 298.15 | unspecified | unspecified | [1] Onderka 2002; _cites Unland_ | Table AI, p. 18, row 17 |  |
-| Heat capacity; _printed: Cp,298_ | 24.48 J/mol (basis unstated)/K | 298.15 | unspecified | model | [1] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 18, row 47 |  |
-| Heat capacity; _printed: Cp,298_ | 33.8 J/mol (basis unstated)/K | 298.15 | unspecified | unspecified | [1] Onderka 2002; _cites Strelchenko 1984_ | Table AI, p. 18, row 23 |  |
-| Heat capacity; _printed: Cp,298_ | 45.14 J/mol (basis unstated)/K | 298.15 | unspecified | unspecified | [1] Onderka 2002; _cites Marina 1971_ | Table AI, p. 18, row 37 |  |
-| Heat capacity; _printed: Cp,298_ | 37.86 J/mol (basis unstated)/K | 298.15 | unspecified | unspecified | [1] Onderka 2002; _cites Marina 1971_ | Table AI, p. 18, row 21 |  |
-| Heat capacity; _printed: Cp,298_ | 30.04 J/mol (basis unstated)/K | 298.15 | unspecified | unspecified | [1] Onderka 2002; _cites Mah 1961_ | Table AI, p. 18, row 7 |  |
-| Heat capacity; _printed: Cp,298_ | 41.52 J/mol (basis unstated)/K | 298.15 | unspecified | model | [1] Onderka 2002; _cites Landolt-Boernstein 1982_ | Table AI, p. 18, row 38 |  |
-| Heat capacity; _printed: Cp,298_ | 30.25 J/mol (basis unstated)/K | 298.15 | unspecified | unspecified | [1] Onderka 2002; _cites Koshchenko 1984_ | Table AI, p. 18, row 8 |  |
-| Heat capacity; _printed: Cp,298_ | 35.19 J/mol (basis unstated)/K | 298.15 | unspecified | unspecified | [1] Onderka 2002; _cites Demidenko 1975_ | Table AI, p. 18, row 22 |  |
-| Heat capacity; _printed: Cp,298_ | 39.8 J/mol (basis unstated)/K | 298.15 | unspecified | unspecified | [1] Onderka 2002; _cites Krukowski 1998_ | Table AI, p. 18, row 39 |  |
-| Heat capacity; _printed: Cp,298_ | 39.1 J/mol (basis unstated)/K | 298.15 | unspecified | model | [1] Onderka 2002 | Table AI, p. 18, row 34 |  |
-| Heat capacity; _printed: Cp,298_ | 46.85 J/mol (basis unstated)/K | 298.15 | unspecified | model | [1] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 18, row 51 |  |
+| Entropy; _printed: ΔmS_ | 63.6 J/mol-formula K | 298.15 | unspecified | model | [1] Onderka 2002; _cites Jones 1984_ | Table AI, p. 18, row 6; `ORC-4SUFGCWB5N` |  |
+| Entropy; _printed: S°298_ | 26 J/mol-formula K | 298.15 | unspecified | unspecified | [1] Onderka 2002; _cites Unland_ | Table AI, p. 18, row 17; `ORC-4T7BA2NHWJ.fd391f` |  |
+| Entropy; _printed: ΔmS_ | 66.9 J/mol-formula K | 298.15 | unspecified | model | [1] Onderka 2002; _cites Jones 1984_ | Table AI, p. 18, row 5; `ORC-5ZUETBL665` |  |
+| Entropy; _printed: S°298_ | 56.21 J/mol-formula K | 298.15 | unspecified | model | [1] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 18, row 47; `ORC-AGCAJ6VM5G.2742bf` |  |
+| Entropy; _printed: S°298_ | 43.5 J/mol-formula K | 298.15 | unspecified | unspecified | [1] Onderka 2002; _cites Kubaschewski 1993_ | Table AI, p. 18, row 45; `ORC-BJLFPJ6KS7` |  |
+| Entropy; _printed: S°298_ | 37 J/mol-formula K | 298.15 | unspecified | unspecified | [1] Onderka 2002; _cites Davydov 1999_ | Table AI, p. 18, row 29; `ORC-E5BA3LD6XE` |  |
+| Entropy; _printed: S°298_ | 36.5 J/mol-formula K | 298.15 | unspecified | unspecified | [1] Onderka 2002; _cites Koshenko 1979_ | Table AI, p. 18, row 28; `ORC-FFB3FKS6MS` |  |
+| Entropy; _printed: ΔmS_ | 60.2 J/mol-formula K | 298.15 | unspecified | model | [1] Onderka 2002; _cites Jones 1984_ | Table AI, p. 18, row 36; `ORC-I6XTVMEJDL` |  |
+| Entropy; _printed: ΔmS_ | 67.4 J/mol-formula K | 298.15 | unspecified | model | [1] Onderka 2002; _cites Jones 1984_ | Table AI, p. 18, row 19; `ORC-JMWXUEHMPP` |  |
+| Entropy; _printed: ΔmS_ | 59 J/mol-formula K | 298.15 | unspecified | model | [1] Onderka 2002; _cites Jones 1984_ | Table AI, p. 18, row 35; `ORC-M5IMCTZMIJ` |  |
+| Entropy; _printed: S°298_ | 20.1 J/mol-formula K | 298.15 | unspecified | unspecified | [1] Onderka 2002; _cites Mah 1961_ | Table AI, p. 18, row 7; `ORC-RV7HORYS2S.c7e276` |  |
+| Entropy; _printed: S°298_ | 19.69 J/mol-formula K | 298.15 | unspecified | unspecified | [1] Onderka 2002; _cites Koshchenko 1984_ | Table AI, p. 18, row 8; `ORC-TYSHPITKQL.0c1b29` |  |
+| Entropy; _printed: S°298_ | 31.6 J/mol-formula K | 298.15 | unspecified | model | [1] Onderka 2002 | Table AI, p. 18, row 34; `ORC-XNU2NBVYIG.159449` |  |
+| Entropy; _printed: S°298_ | 62.91 J/mol-formula K | 298.15 | unspecified | model | [1] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 18, row 51; `ORC-YCZWXEBPI6.8e7351` |  |
+| Entropy; _printed: ΔmS_ | 42.6 J/mol-formula K | 831 | unspecified | unspecified | [1] Onderka 2002; _cites Van 1973_ | Table AI, p. 18, row 31; `ORC-XWQKUVQLKS` |  |
+| Entropy; _printed: ΔmS_ | 70.41 J/mol-formula K | 1510 | unspecified | model | [1] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 18, row 51; `ORC-YCZWXEBPI6.df01fe` |  |
+| Entropy; _printed: ΔmS_ | 70.11 J/mol-formula K | 1512 | unspecified | model | [1] Onderka 2002; _cites Kaufman 1981_ | Table AI, p. 18, row 50; `ORC-7XWIFRQNEB.387f80` |  |
+| Entropy; _printed: ΔmS_ | 65 J/mol-formula K | 1714 | unspecified | model | [1] Onderka 2002 | Table AI, p. 18, row 34; `ORC-XNU2NBVYIG.4ba778` |  |
+| Entropy; _printed: ΔmS_ | 70.9 J/mol-formula K | 2039 | unspecified | model | [1] Onderka 2002; _cites Kaufman 1981_ | Table AI, p. 18, row 46; `ORC-7PB4WTBZVX` |  |
+| Entropy; _printed: ΔmS_ | 70.13 J/mol-formula K | 2058 | unspecified | model | [1] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 18, row 47; `ORC-AGCAJ6VM5G.379c01` |  |
+| Entropy; _printed: ΔmS_ | 67.4 J/mol-formula K | 2700 | unspecified | unspecified | [1] Onderka 2002; _cites Unland_ | Table AI, p. 18, row 17; `ORC-4T7BA2NHWJ.bd553d` |  |
+| Entropy; _printed: ΔmS_ | 67 J/mol-formula K | 2791 | unspecified | unspecified | [1] Onderka 2002; _cites Van 1973_ | Table AI, p. 18, row 15; `ORC-7S4ILD56YN` |  |
+| Entropy; _printed: ΔmS_ | 31.5 J/mol-formula K | 2792 | unspecified | unspecified | [1] Onderka 2002; _cites Davydov 1999_ | Table AI, p. 18, row 18; `ORC-XNAQL7HNT3.431058` |  |
+| Entropy; _printed: ΔmS_ | 69.5 J/mol-formula K | 3487 | unspecified | unspecified | [1] Onderka 2002; _cites Van 1973_ | Table AI, p. 18, row 3; `ORC-MMEMZ4U37H` |  |
+| Heat capacity; _printed: Cp,298_ | 34.6 J/mol (basis unstated)/K | 298.15 | unspecified | unspecified | [1] Onderka 2002; _cites Strelchenko 1984_ | Table AI, p. 18, row 9; `ORC-3J2PIHG6TF` |  |
+| Heat capacity; _printed: Cp,298_ | 34.03 J/mol (basis unstated)/K | 298.15 | unspecified | unspecified | [1] Onderka 2002; _cites Unland_ | Table AI, p. 18, row 17; `ORC-4T7BA2NHWJ.ff131c` |  |
+| Heat capacity; _printed: Cp,298_ | 24.48 J/mol (basis unstated)/K | 298.15 | unspecified | model | [1] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 18, row 47; `ORC-AGCAJ6VM5G.ded145` |  |
+| Heat capacity; _printed: Cp,298_ | 33.8 J/mol (basis unstated)/K | 298.15 | unspecified | unspecified | [1] Onderka 2002; _cites Strelchenko 1984_ | Table AI, p. 18, row 23; `ORC-HIYYHVEOWV` |  |
+| Heat capacity; _printed: Cp,298_ | 45.14 J/mol (basis unstated)/K | 298.15 | unspecified | unspecified | [1] Onderka 2002; _cites Marina 1971_ | Table AI, p. 18, row 37; `ORC-ISOLZ6MPY4` |  |
+| Heat capacity; _printed: Cp,298_ | 37.86 J/mol (basis unstated)/K | 298.15 | unspecified | unspecified | [1] Onderka 2002; _cites Marina 1971_ | Table AI, p. 18, row 21; `ORC-PTDCOM6PXE` |  |
+| Heat capacity; _printed: Cp,298_ | 30.04 J/mol (basis unstated)/K | 298.15 | unspecified | unspecified | [1] Onderka 2002; _cites Mah 1961_ | Table AI, p. 18, row 7; `ORC-RV7HORYS2S.78a9c1` |  |
+| Heat capacity; _printed: Cp,298_ | 41.52 J/mol (basis unstated)/K | 298.15 | unspecified | model | [1] Onderka 2002; _cites Landolt-Boernstein 1982_ | Table AI, p. 18, row 38; `ORC-TF3YPZYSUB` |  |
+| Heat capacity; _printed: Cp,298_ | 30.25 J/mol (basis unstated)/K | 298.15 | unspecified | unspecified | [1] Onderka 2002; _cites Koshchenko 1984_ | Table AI, p. 18, row 8; `ORC-TYSHPITKQL.1204bc` |  |
+| Heat capacity; _printed: Cp,298_ | 35.19 J/mol (basis unstated)/K | 298.15 | unspecified | unspecified | [1] Onderka 2002; _cites Demidenko 1975_ | Table AI, p. 18, row 22; `ORC-UIEMLZI5V4` |  |
+| Heat capacity; _printed: Cp,298_ | 39.8 J/mol (basis unstated)/K | 298.15 | unspecified | unspecified | [1] Onderka 2002; _cites Krukowski 1998_ | Table AI, p. 18, row 39; `ORC-WHOQPRO5B4` |  |
+| Heat capacity; _printed: Cp,298_ | 39.1 J/mol (basis unstated)/K | 298.15 | unspecified | model | [1] Onderka 2002 | Table AI, p. 18, row 34; `ORC-XNU2NBVYIG.d8da6f` |  |
+| Heat capacity; _printed: Cp,298_ | 46.85 J/mol (basis unstated)/K | 298.15 | unspecified | model | [1] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 18, row 51; `ORC-YCZWXEBPI6.e6c39a` |  |
 
 ## Sources
 
@@ -146,4 +146,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

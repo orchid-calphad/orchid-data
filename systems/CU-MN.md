@@ -58,26 +58,26 @@ Table: Invariant reactions reported in the literature for the Cu–Mn system (20
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1383.15 | BCC_A2 = Liquid + FCC_A1 | BCC_A2: Mn 0.88; Liquid: Mn 0.78; FCC_A1: Mn 0.89 | experimental | [1] He 2008; _cites Grube 1939_ | Table 3, p. 4, row 3 |  |
-| 1376.15 | Liq - bcc - fcc | Liq: Mn 0.734; bcc: Mn 0.891; fcc: Mn 0.902 | model | [2] Miettinen 2003; _cites ref. 96Vre_ | Table 4, p. 4, row 3 |  |
-| 1373.15 | Liq - bcc - fcc | Liq: Mn 0.732; bcc: Mn 0.892; fcc: Mn 0.902 | model | [2] Miettinen 2003 | Table 4, p. 4, row 2 |  |
-| 1373.15 | Liq - bcc - fcc | Liq: Mn 0.762; bcc: Mn 0.875; fcc: Mn 0.885 | experimental | [2] Miettinen 2003; _cites ref. 94Goc_ | Table 4, p. 4, row 1 |  |
-| 1373 | eutectoid: (␦Mn) ↔ liquid + fcc |  | model | [3] Wang 2007 | p. 6 | “The calculated results show that the eutectoid reactions (␦Mn) ↔ liquid + fcc and (␤Mn) ↔ (␣Mn) + fcc exist at 1373 and 977 K, respectively, which are in an excellent agreement with those reviewed by Gokcen \[13\].” |
-| 1371.15 | BCC_A2 = Liquid + FCC_A1 | BCC_A2: Mn 0.875; Liquid: Mn 0.76; FCC_A1: Mn 0.882 | experimental | [1] He 2008; _cites Hellawell 1957_ [doi](https://doi.org/10.1098/rsta.1957.0004) | Table 3, p. 4, row 2 |  |
-| 1369.15 | BCC_A2 = Liquid + FCC_A1 | BCC_A2: Mn 0.877; Liquid: Mn 0.749; FCC_A1: Mn 0.889 | model | [1] He 2008 | Table 3, p. 4, row 1 |  |
-| 1146.65 | Liquid = FCC_A1 | Liquid: Mn 0.39; FCC_A1: Mn 0.39 | experimental | [1] He 2008 | Table 3, p. 4, row 9 |  |
-| 1146.15 | Liquid = FCC_A1 | Liquid: Mn 0.384; FCC_A1: Mn 0.384 | model | [1] He 2008 | Table 3, p. 4, row 8 |  |
-| 1141.15 | Liquid = FCC_A1 | Liquid: Mn 0.38; FCC_A1: Mn 0.38 | experimental | [1] He 2008; _cites Grube 1939_ | Table 3, p. 4, row 10 |  |
-| 1023.15 | FCC_A1 + CUB_A13 = CBCC_A12 | FCC_A1: Mn 0.65; CUB_A13: Mn 1; CBCC_A12: Mn 1 | experimental | [1] He 2008; _cites Grube 1939_ | Table 3, p. 4, row 6 |  |
-| 998.15 | peritectoid: CUB A13 + FCC A1 ↔ CBCC A12 |  | experimental | [1] He 2008 | p. 3 | “The obtained peritectoid reaction temperatures were 725 ◦ C from alloy Cu20 Mn80 and 720 ◦ C from both alloys Cu13 Mn87 and Cu7 Mn93 .” |
-| 998.15 | FCC_A1 + CUB_A13 = CBCC_A12 |  | experimental | [1] He 2008 | Table 3, p. 4, row 5 |  |
-| 998.15 | Fcc - cub - cbcc | Fcc: Mn 0.78; cub: Mn 0.996; cbcc: Mn 0.997 | experimental | [2] Miettinen 2003; _cites ref. 94Goc_ | Table 4, p. 4, row 7 |  |
-| 994.15 | FCC_A1 + CUB_A13 = CBCC_A12 | FCC_A1: Mn 0.776; CUB_A13: Mn 0.99; CBCC_A12: Mn 0.985 | model | [1] He 2008 | Table 3, p. 4, row 4 |  |
-| 993.15 | peritectoid: CUB A13 + FCC A1 ↔ CBCC A12 |  | experimental | [1] He 2008 | p. 3 | “The obtained peritectoid reaction temperatures were 725 ◦ C from alloy Cu20 Mn80 and 720 ◦ C from both alloys Cu13 Mn87 and Cu7 Mn93 .” |
-| 980.15 | Fcc - cub - cbcc | Fcc: Mn 0.893; cub: Mn 1; cbcc: Mn 1 | model | [2] Miettinen 2003; _cites ref. 96Vre_ | Table 4, p. 4, row 9 |  |
-| 978.15 | FCC_A1 + CUB_A13 = CBCC_A12 | FCC_A1: Mn 0.67; CUB_A13: Mn 1; CBCC_A12: Mn 1 | experimental | [1] He 2008; _cites Dean 1945_ | Table 3, p. 4, row 7 |  |
-| 977.15 | Fcc - cub - cbcc | Fcc: Mn 0.784; cub: Mn 0.995; cbcc: Mn 0.996 | model | [2] Miettinen 2003 | Table 4, p. 4, row 8 |  |
-| 977 | eutectoid: (␤Mn) ↔ (␣Mn) + fcc |  | model | [3] Wang 2007 | p. 6 | “The calculated results show that the eutectoid reactions (␦Mn) ↔ liquid + fcc and (␤Mn) ↔ (␣Mn) + fcc exist at 1373 and 977 K, respectively, which are in an excellent agreement with those reviewed by Gokcen \[13\].” |
+| 1383.15 | BCC_A2 = Liquid + FCC_A1 | BCC_A2: Mn 0.88; Liquid: Mn 0.78; FCC_A1: Mn 0.89 | experimental | [1] He 2008; _cites Grube 1939_ | Table 3, p. 4, row 3; `ORC-6FBWKFA4XA` |  |
+| 1376.15 | Liq - bcc - fcc | Liq: Mn 0.734; bcc: Mn 0.891; fcc: Mn 0.902 | model | [2] Miettinen 2003; _cites ref. 96Vre_ | Table 4, p. 4, row 3; `ORC-NYOI7L5C5I` |  |
+| 1373.15 | Liq - bcc - fcc | Liq: Mn 0.732; bcc: Mn 0.892; fcc: Mn 0.902 | model | [2] Miettinen 2003 | Table 4, p. 4, row 2; `ORC-4SPDGNTVRK` |  |
+| 1373.15 | Liq - bcc - fcc | Liq: Mn 0.762; bcc: Mn 0.875; fcc: Mn 0.885 | experimental | [2] Miettinen 2003; _cites ref. 94Goc_ | Table 4, p. 4, row 1; `ORC-A7N6DZTWBO` |  |
+| 1373 | eutectoid: (␦Mn) ↔ liquid + fcc |  | model | [3] Wang 2007 | p. 6; `ORC-J7G23RXXNE.b19357` | “The calculated results show that the eutectoid reactions (␦Mn) ↔ liquid + fcc and (␤Mn) ↔ (␣Mn) + fcc exist at 1373 and 977 K, respectively, which are in an excellent agreement with those reviewed by Gokcen \[13\].” |
+| 1371.15 | BCC_A2 = Liquid + FCC_A1 | BCC_A2: Mn 0.875; Liquid: Mn 0.76; FCC_A1: Mn 0.882 | experimental | [1] He 2008; _cites Hellawell 1957_ [doi](https://doi.org/10.1098/rsta.1957.0004) | Table 3, p. 4, row 2; `ORC-C6N5B4KSEK` |  |
+| 1369.15 | BCC_A2 = Liquid + FCC_A1 | BCC_A2: Mn 0.877; Liquid: Mn 0.749; FCC_A1: Mn 0.889 | model | [1] He 2008 | Table 3, p. 4, row 1; `ORC-LIWWZU4NPY` |  |
+| 1146.65 | Liquid = FCC_A1 | Liquid: Mn 0.39; FCC_A1: Mn 0.39 | experimental | [1] He 2008 | Table 3, p. 4, row 9; `ORC-ERESZ2UWVB` |  |
+| 1146.15 | Liquid = FCC_A1 | Liquid: Mn 0.384; FCC_A1: Mn 0.384 | model | [1] He 2008 | Table 3, p. 4, row 8; `ORC-FEP23SGWYM` |  |
+| 1141.15 | Liquid = FCC_A1 | Liquid: Mn 0.38; FCC_A1: Mn 0.38 | experimental | [1] He 2008; _cites Grube 1939_ | Table 3, p. 4, row 10; `ORC-Y4X3N62RVE` |  |
+| 1023.15 | FCC_A1 + CUB_A13 = CBCC_A12 | FCC_A1: Mn 0.65; CUB_A13: Mn 1; CBCC_A12: Mn 1 | experimental | [1] He 2008; _cites Grube 1939_ | Table 3, p. 4, row 6; `ORC-OGP7BWSLGX` |  |
+| 998.15 | peritectoid: CUB A13 + FCC A1 ↔ CBCC A12 |  | experimental | [1] He 2008 | p. 3; `ORC-AEICP47XAZ.2d9d93` | “The obtained peritectoid reaction temperatures were 725 ◦ C from alloy Cu20 Mn80 and 720 ◦ C from both alloys Cu13 Mn87 and Cu7 Mn93 .” |
+| 998.15 | FCC_A1 + CUB_A13 = CBCC_A12 |  | experimental | [1] He 2008 | Table 3, p. 4, row 5; `ORC-NXGRL4E5Q4` |  |
+| 998.15 | Fcc - cub - cbcc | Fcc: Mn 0.78; cub: Mn 0.996; cbcc: Mn 0.997 | experimental | [2] Miettinen 2003; _cites ref. 94Goc_ | Table 4, p. 4, row 7; `ORC-YPWDPFVH4I` |  |
+| 994.15 | FCC_A1 + CUB_A13 = CBCC_A12 | FCC_A1: Mn 0.776; CUB_A13: Mn 0.99; CBCC_A12: Mn 0.985 | model | [1] He 2008 | Table 3, p. 4, row 4; `ORC-MS5BUYN47Q` |  |
+| 993.15 | peritectoid: CUB A13 + FCC A1 ↔ CBCC A12 |  | experimental | [1] He 2008 | p. 3; `ORC-AEICP47XAZ.5132c5` | “The obtained peritectoid reaction temperatures were 725 ◦ C from alloy Cu20 Mn80 and 720 ◦ C from both alloys Cu13 Mn87 and Cu7 Mn93 .” |
+| 980.15 | Fcc - cub - cbcc | Fcc: Mn 0.893; cub: Mn 1; cbcc: Mn 1 | model | [2] Miettinen 2003; _cites ref. 96Vre_ | Table 4, p. 4, row 9; `ORC-UYBRNTBKIQ` |  |
+| 978.15 | FCC_A1 + CUB_A13 = CBCC_A12 | FCC_A1: Mn 0.67; CUB_A13: Mn 1; CBCC_A12: Mn 1 | experimental | [1] He 2008; _cites Dean 1945_ | Table 3, p. 4, row 7; `ORC-4YO3SDTAVL` |  |
+| 977.15 | Fcc - cub - cbcc | Fcc: Mn 0.784; cub: Mn 0.995; cbcc: Mn 0.996 | model | [2] Miettinen 2003 | Table 4, p. 4, row 8; `ORC-LIHNCVK6N2` |  |
+| 977 | eutectoid: (␤Mn) ↔ (␣Mn) + fcc |  | model | [3] Wang 2007 | p. 6; `ORC-J7G23RXXNE.7a45fd` | “The calculated results show that the eutectoid reactions (␦Mn) ↔ liquid + fcc and (␤Mn) ↔ (␣Mn) + fcc exist at 1373 and 977 K, respectively, which are in an excellent agreement with those reviewed by Gokcen \[13\].” |
 
 ## Other properties
 
@@ -87,22 +87,22 @@ Table: Phase transition, Cu–Mn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 523 K | 523 | other | experimental | [3] Wang 2007; _cites Scheil 1960_ | p. 2 | “Scheil and Normann \[32\] measured the heat capacity of the fcc phase containing 23.1 at.% Mn (20.6 wt.% Mn) at 293-823 K, and observed a ␭-shape at 523 K, which was explained due to short-range ordering.” |
-| Phase transition | 666.15 K | 666.15 | bccHfcc+y+r | model | [2] Miettinen 2003 | p. 4 | “For the three invariant reactions containing the CuJMnzAl (r) phase, i.e., bcc+cub+-+fcc+r, bcc+cubtiy+r and bccHfcc+y+r, the temperature values of 520°C, 42O'C and 4OO'C were suggested \[66Kiis\], respectively. As these values were interpolated from a limited amount of experimental data, their agreement with the calculated temperatures, 534'C, 454'C and 393'C, can be considered satisfactory.” |
-| Phase transition | 727.15 K | 727.15 | bcc+cubtiy+r | model | [2] Miettinen 2003 | p. 4 | “For the three invariant reactions containing the CuJMnzAl (r) phase, i.e., bcc+cub+-+fcc+r, bcc+cubtiy+r and bccHfcc+y+r, the temperature values of 520°C, 42O'C and 4OO'C were suggested \[66Kiis\], respectively. As these values were interpolated from a limited amount of experimental data, their agreement with the calculated temperatures, 534'C, 454'C and 393'C, can be considered satisfactory.” |
-| Phase transition | 793.15 K | 793.15 | bcc+cub+-+fcc+r | experimental | [2] Miettinen 2003; _cites ref. 66Kiis_ | p. 4 | “For the three invariant reactions containing the CuJMnzAl (r) phase, i.e., bcc+cub+-+fcc+r, bcc+cubtiy+r and bccHfcc+y+r, the temperature values of 520°C, 42O'C and 4OO'C were suggested \[66Kiis\], respectively.” |
-| Phase transition | 807.15 K | 807.15 | bcc+cub+-+fcc+r | model | [2] Miettinen 2003 | p. 4 | “For the three invariant reactions containing the CuJMnzAl (r) phase, i.e., bcc+cub+-+fcc+r, bcc+cubtiy+r and bccHfcc+y+r, the temperature values of 520°C, 42O'C and 4OO'C were suggested \[66Kiis\], respectively. As these values were interpolated from a limited amount of experimental data, their agreement with the calculated temperatures, 534'C, 454'C and 393'C, can be considered satisfactory.” |
-| Phase transition | 976 K | 976 | other | model | [3] Wang 2007 | p. 6 | “According to the calculation by the optimized parameters, the metastable miscibility gap of the fcc phase can be predicted in the Mn-rich portion, as shown in Fig. 3, where the highest critical temperatures is 976 K at 78 at.% Mn (75.4 wt.% Mn).” |
-| Phase transition | 998.15 K | 998.15 |  | experimental | [1] He 2008 | p. 3 | “A DSC measurement on alloy Cu13 Mn87 was subsequently conducted to accurately determine this phase transition temperature and it was measured to be 725 ◦ C.” |
-| Phase transition | 1146.15 K | 1146.15 |  | experimental | [1] He 2008 | p. 3 | “It is worth mentioning that the alloy Cu61 Mn39 is considered to be very close to the minimum melting point of the FCC A1 solid solution for the onset temperature of the thermal effect of the alloy on heating is 873.5 ◦ C and the onset temperature of the thermal effect on cooling is 873 ◦ C.” |
-| Phase transition | 1146.15 K | 1146.15 | congruent melting: Liq - fcc (congruent point); _Liq: Mn 0.38; fcc: Mn 0.38_ | experimental | [2] Miettinen 2003; _cites ref. 94Goc_ | Table 4, p. 4, row 4 |  |
-| Phase transition | 1146.65 K | 1146.65 |  | experimental | [1] He 2008 | p. 3 | “It is worth mentioning that the alloy Cu61 Mn39 is considered to be very close to the minimum melting point of the FCC A1 solid solution for the onset temperature of the thermal effect of the alloy on heating is 873.5 ◦ C and the onset temperature of the thermal effect on cooling is 873 ◦ C.” |
-| Phase transition | 1152.15 K | 1152.15 | congruent melting: Liq - fcc (congruent point); _Liq: Mn 0.38; fcc: Mn 0.38_ | model | [2] Miettinen 2003 | Table 4, p. 4, row 5 |  |
-| Phase transition | 1154.15 K | 1154.15 | congruent melting: Liq - fcc (congruent point); _Liq: Mn 0.369; fcc: Mn 0.369_ | model | [2] Miettinen 2003; _cites ref. 96Vre_ | Table 4, p. 4, row 6 |  |
-| Phase transition | 1169.5 K | 1169.5 | C2 | model | [3] Wang 2007 | Table 2, p. 7, row 2 |  |
-| Phase transition | 1242.9 K | 1242.9 | C2 | model | [3] Wang 2007 | Table 2, p. 7, row 4 |  |
-| Phase transition | 1409.1 K | 1409.1 | Cu–Mn–Co special point C1 | model | [3] Wang 2007 | Table 2, p. 7, row 3 |  |
-| Phase transition | 1714 K | 1714 | Cu–Mn–Fe special point C1 | model | [3] Wang 2007 | Table 2, p. 7, row 1 |  |
+| Phase transition | 523 K | 523 | other | experimental | [3] Wang 2007; _cites Scheil 1960_ | p. 2; `ORC-AMNK3L6OCU` | “Scheil and Normann \[32\] measured the heat capacity of the fcc phase containing 23.1 at.% Mn (20.6 wt.% Mn) at 293-823 K, and observed a ␭-shape at 523 K, which was explained due to short-range ordering.” |
+| Phase transition | 666.15 K | 666.15 | bccHfcc+y+r | model | [2] Miettinen 2003 | p. 4; `ORC-4S4PIMGVD6.023593` | “For the three invariant reactions containing the CuJMnzAl (r) phase, i.e., bcc+cub+-+fcc+r, bcc+cubtiy+r and bccHfcc+y+r, the temperature values of 520°C, 42O'C and 4OO'C were suggested \[66Kiis\], respectively. As these values were interpolated from a limited amount of experimental data, their agreement with the calculated temperatures, 534'C, 454'C and 393'C, can be considered satisfactory.” |
+| Phase transition | 727.15 K | 727.15 | bcc+cubtiy+r | model | [2] Miettinen 2003 | p. 4; `ORC-4S4PIMGVD6.460a39` | “For the three invariant reactions containing the CuJMnzAl (r) phase, i.e., bcc+cub+-+fcc+r, bcc+cubtiy+r and bccHfcc+y+r, the temperature values of 520°C, 42O'C and 4OO'C were suggested \[66Kiis\], respectively. As these values were interpolated from a limited amount of experimental data, their agreement with the calculated temperatures, 534'C, 454'C and 393'C, can be considered satisfactory.” |
+| Phase transition | 793.15 K | 793.15 | bcc+cub+-+fcc+r | experimental | [2] Miettinen 2003; _cites ref. 66Kiis_ | p. 4; `ORC-4S4PIMGVD6.4ebabf` | “For the three invariant reactions containing the CuJMnzAl (r) phase, i.e., bcc+cub+-+fcc+r, bcc+cubtiy+r and bccHfcc+y+r, the temperature values of 520°C, 42O'C and 4OO'C were suggested \[66Kiis\], respectively.” |
+| Phase transition | 807.15 K | 807.15 | bcc+cub+-+fcc+r | model | [2] Miettinen 2003 | p. 4; `ORC-4S4PIMGVD6.f5521f` | “For the three invariant reactions containing the CuJMnzAl (r) phase, i.e., bcc+cub+-+fcc+r, bcc+cubtiy+r and bccHfcc+y+r, the temperature values of 520°C, 42O'C and 4OO'C were suggested \[66Kiis\], respectively. As these values were interpolated from a limited amount of experimental data, their agreement with the calculated temperatures, 534'C, 454'C and 393'C, can be considered satisfactory.” |
+| Phase transition | 976 K | 976 | other | model | [3] Wang 2007 | p. 6; `ORC-QHHDDJIGQH` | “According to the calculation by the optimized parameters, the metastable miscibility gap of the fcc phase can be predicted in the Mn-rich portion, as shown in Fig. 3, where the highest critical temperatures is 976 K at 78 at.% Mn (75.4 wt.% Mn).” |
+| Phase transition | 998.15 K | 998.15 |  | experimental | [1] He 2008 | p. 3; `ORC-CRH4PJVN6Z` | “A DSC measurement on alloy Cu13 Mn87 was subsequently conducted to accurately determine this phase transition temperature and it was measured to be 725 ◦ C.” |
+| Phase transition | 1146.15 K | 1146.15 |  | experimental | [1] He 2008 | p. 3; `ORC-5F2L3QFCYJ.52a25d` | “It is worth mentioning that the alloy Cu61 Mn39 is considered to be very close to the minimum melting point of the FCC A1 solid solution for the onset temperature of the thermal effect of the alloy on heating is 873.5 ◦ C and the onset temperature of the thermal effect on cooling is 873 ◦ C.” |
+| Phase transition | 1146.15 K | 1146.15 | congruent melting: Liq - fcc (congruent point); _Liq: Mn 0.38; fcc: Mn 0.38_ | experimental | [2] Miettinen 2003; _cites ref. 94Goc_ | Table 4, p. 4, row 4; `ORC-55CSJH3RAQ` |  |
+| Phase transition | 1146.65 K | 1146.65 |  | experimental | [1] He 2008 | p. 3; `ORC-5F2L3QFCYJ.abf341` | “It is worth mentioning that the alloy Cu61 Mn39 is considered to be very close to the minimum melting point of the FCC A1 solid solution for the onset temperature of the thermal effect of the alloy on heating is 873.5 ◦ C and the onset temperature of the thermal effect on cooling is 873 ◦ C.” |
+| Phase transition | 1152.15 K | 1152.15 | congruent melting: Liq - fcc (congruent point); _Liq: Mn 0.38; fcc: Mn 0.38_ | model | [2] Miettinen 2003 | Table 4, p. 4, row 5; `ORC-DRLLL6ABYL` |  |
+| Phase transition | 1154.15 K | 1154.15 | congruent melting: Liq - fcc (congruent point); _Liq: Mn 0.369; fcc: Mn 0.369_ | model | [2] Miettinen 2003; _cites ref. 96Vre_ | Table 4, p. 4, row 6; `ORC-FROYQPCXLL` |  |
+| Phase transition | 1169.5 K | 1169.5 | C2 | model | [3] Wang 2007 | Table 2, p. 7, row 2; `ORC-YAXORGJFOK` |  |
+| Phase transition | 1242.9 K | 1242.9 | C2 | model | [3] Wang 2007 | Table 2, p. 7, row 4; `ORC-KPWEIACIL5` |  |
+| Phase transition | 1409.1 K | 1409.1 | Cu–Mn–Co special point C1 | model | [3] Wang 2007 | Table 2, p. 7, row 3; `ORC-T7QWP4YJFM` |  |
+| Phase transition | 1714 K | 1714 | Cu–Mn–Fe special point C1 | model | [3] Wang 2007 | Table 2, p. 7, row 1; `ORC-63DIGINL4F` |  |
 
 ### Phase equilibrium (8)
 
@@ -110,14 +110,14 @@ Table: Phase equilibrium, Cu–Mn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase assemblage |  | 923.15 | FCC_A1 + CBCC_A12; _alloy: Cu 0.2, Mn 0.8_ | experimental | [1] He 2008 | Table 1, p. 2, row 6 |  |
-| Phase assemblage |  | 923.15 | FCC_A1 + CBCC_A12; _alloy: Cu 0.13, Mn 0.87_ | experimental | [1] He 2008 | Table 1, p. 2, row 7 |  |
-| Phase assemblage |  | 923.15 | FCC_A1 + CBCC_A12; _alloy: Cu 0.07, Mn 0.93_ | experimental | [1] He 2008 | Table 1, p. 2, row 8 |  |
-| Phase assemblage |  | 923.15 | FCC_A1 + CBCC_A12; _alloy: Cu 0.4, Mn 0.6_ | experimental | [1] He 2008 | Table 1, p. 2, row 5 |  |
-| Phase assemblage |  | 1073.15 | FCC_A1; _alloy: Cu 0.83, Mn 0.17_ | experimental | [1] He 2008 | Table 1, p. 2, row 1 |  |
-| Phase assemblage |  | 1073.15 | FCC_A1; _alloy: Cu 0.61, Mn 0.39_ | experimental | [1] He 2008 | Table 1, p. 2, row 3 |  |
-| Phase assemblage |  | 1073.15 | FCC_A1; _alloy: Cu 0.74, Mn 0.26_ | experimental | [1] He 2008 | Table 1, p. 2, row 2 |  |
-| Phase assemblage |  | 1073.15 | FCC_A1; _alloy: Cu 0.48, Mn 0.52_ | experimental | [1] He 2008 | Table 1, p. 2, row 4 |  |
+| Phase assemblage |  | 923.15 | FCC_A1 + CBCC_A12; _alloy: Cu 0.2, Mn 0.8_ | experimental | [1] He 2008 | Table 1, p. 2, row 6; `ORC-R2HY5Z3KGA` |  |
+| Phase assemblage |  | 923.15 | FCC_A1 + CBCC_A12; _alloy: Cu 0.13, Mn 0.87_ | experimental | [1] He 2008 | Table 1, p. 2, row 7; `ORC-RQ7SZSUGBV` |  |
+| Phase assemblage |  | 923.15 | FCC_A1 + CBCC_A12; _alloy: Cu 0.07, Mn 0.93_ | experimental | [1] He 2008 | Table 1, p. 2, row 8; `ORC-V263B6UQDB` |  |
+| Phase assemblage |  | 923.15 | FCC_A1 + CBCC_A12; _alloy: Cu 0.4, Mn 0.6_ | experimental | [1] He 2008 | Table 1, p. 2, row 5; `ORC-ZHEBXIUIY6` |  |
+| Phase assemblage |  | 1073.15 | FCC_A1; _alloy: Cu 0.83, Mn 0.17_ | experimental | [1] He 2008 | Table 1, p. 2, row 1; `ORC-6EQQXSNBDJ` |  |
+| Phase assemblage |  | 1073.15 | FCC_A1; _alloy: Cu 0.61, Mn 0.39_ | experimental | [1] He 2008 | Table 1, p. 2, row 3; `ORC-LGI2NIZZOI` |  |
+| Phase assemblage |  | 1073.15 | FCC_A1; _alloy: Cu 0.74, Mn 0.26_ | experimental | [1] He 2008 | Table 1, p. 2, row 2; `ORC-MQ3XG7AAUA` |  |
+| Phase assemblage |  | 1073.15 | FCC_A1; _alloy: Cu 0.48, Mn 0.52_ | experimental | [1] He 2008 | Table 1, p. 2, row 4; `ORC-ZAPTPRS6PQ` |  |
 
 ## Sources
 
@@ -184,4 +184,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

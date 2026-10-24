@@ -33,8 +33,8 @@ Table: Invariant reactions reported in the literature for the Ca system (2)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 716.15 | polymorphic: βCa ↔ αCa | αCa:  | experimental | [1] Cartigny 2004; _cites Chase 1985_ | Table 3, p. 4, row 3 |  |
-| 716.03 | polymorphic: βCa ↔ αCa | αCa:  | model | [1] Cartigny 2004 | Table 3, p. 4, row 2 |  |
+| 716.15 | polymorphic: βCa ↔ αCa | αCa:  | experimental | [1] Cartigny 2004; _cites Chase 1985_ | Table 3, p. 4, row 3; `ORC-3XPSWUKDWY` |  |
+| 716.03 | polymorphic: βCa ↔ αCa | αCa:  | model | [1] Cartigny 2004 | Table 3, p. 4, row 2; `ORC-MLCEBOCZN7` |  |
 
 ## Formation enthalpies
 
@@ -44,11 +44,11 @@ Table: Enthalpies of formation, Ca system (5)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| C15-Ca2Ca |  | 8.182 kJ/mol-atom | 0 | DFT |  |  | [2] Ozturk 2005 | Table IV, p. 5, row 33 |  |
-| C15-Ca2Ca |  | 8.201 kJ/mol-atom | 0 | DFT |  |  | [2] Ozturk 2005 | Table IV, p. 5, row 31 |  |
-| C15-Ca2Ca |  | 8.201 kJ/mol-atom | 0 | DFT |  |  | [2] Ozturk 2005 | Table IV, p. 5, row 34 |  |
-| C15-Ca2Ca |  | 8.708 kJ/mol-atom | 0 | DFT |  |  | [2] Ozturk 2005 | Table IV, p. 5, row 32 |  |
-| fcc-Ca |  | 0 kJ/mol-atom | 0 | unspecified |  |  | [3] Zhong 2006 | Table 2, p. 4, row 22 |  |
+| C15-Ca2Ca |  | 8.182 kJ/mol-atom | 0 | DFT |  |  | [2] Ozturk 2005 | Table IV, p. 5, row 33; `ORC-4T6PPMNMVH.c19ed3` |  |
+| C15-Ca2Ca |  | 8.201 kJ/mol-atom | 0 | DFT |  |  | [2] Ozturk 2005 | Table IV, p. 5, row 31; `ORC-OHVOHPTKPU.3d337a` |  |
+| C15-Ca2Ca |  | 8.201 kJ/mol-atom | 0 | DFT |  |  | [2] Ozturk 2005 | Table IV, p. 5, row 34; `ORC-RBRLISTFX3.c24d82` |  |
+| C15-Ca2Ca |  | 8.708 kJ/mol-atom | 0 | DFT |  |  | [2] Ozturk 2005 | Table IV, p. 5, row 32; `ORC-RU5SWY7JGW.072bed` |  |
+| fcc-Ca |  | 0 kJ/mol-atom | 0 | unspecified |  |  | [3] Zhong 2006 | Table 2, p. 4, row 22; `ORC-EL47KI3BKF.a48b69` |  |
 
 ## Other properties
 
@@ -58,18 +58,18 @@ Table: Phase transition, Ca system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 714.28 K | 714.28 | polymorphic: Ca-fcc -> Ca-bcc; _Ca-fcc: Ca 1_ | unspecified | [4] ISLAM 2005; _cites ref. 28_ | Table IV, p. 8, row 8 |  |
-| Phase transition | 715.9 K | 715.9 | polymorphic: Ca-fcc -> Ca-bcc; _Ca-fcc: Ca 1_ | model | [4] ISLAM 2005 | Table IV, p. 8, row 9 |  |
-| Phase transition | 715.9 K | 715.9 | polymorphic: Ca-fcc -> Ca-bcc; _Ca-fcc: Ca 1_ | unspecified | [4] ISLAM 2005; _cites ref. 26_ | Table IV, p. 8, row 7 |  |
-| Phase transition | 716 K | 716 | polymorphic: (βCa) -> (αCa); _(βCa): Ca 1_ | model | [5] Huang 2008 | Table 3, p. 3, row 19 |  |
-| Phase transition | 716 K | 716 | polymorphic: (βCa) -> (αCa); _(βCa): Ca 1_ | unspecified | [5] Huang 2008; _cites Baren 1988_ [doi](https://doi.org/10.1007/bf02881269) | Table 3, p. 3, row 20 |  |
-| Phase transition | 716 K | 716 | polymorphic: Ca-fcc -> Ca-bcc; _Ca-fcc: _ | model | [4] ISLAM 2005 | Table II, p. 5, row 13 |  |
-| Phase transition | 716 K | 716 | polymorphic: Ca-fcc -> Ca-bcc; _Ca-fcc: _ | unspecified | [4] ISLAM 2005; _cites ref. 15_ | Table II, p. 5, row 12 |  |
-| Phase transition | 716 K | 716 | polymorphic: Ca-fcc -> Ca-bcc; _Ca-fcc: _ | unspecified | [4] ISLAM 2005; _cites ref. 14_ | Table II, p. 5, row 11 |  |
-| Phase transition | 728 K | 728 | Ca | experimental | [6] Risold 1996 | p. 2 | “Bruzzone reports that the ,0Ca to &a transition in equilibrium with CasCu occurs at 728 K, which is 12 K higher than the value for pure Ca used in this work \[SlDin\].” |
-| Phase transition | 1114.9 K | 1114.9 | congruent melting: L -> Ca-bcc; _L: Ca 1_ | unspecified | [4] ISLAM 2005; _cites ref. 26_ | Table IV, p. 8, row 4 |  |
-| Phase transition | 1115 K | 1115 | congruent melting: L -> Ca-bcc; _L: Ca 1_ | model | [4] ISLAM 2005 | Table IV, p. 8, row 6 |  |
-| Phase transition | 1116.66 K | 1116.66 | congruent melting: L -> Ca-bcc; _L: Ca 1_ | unspecified | [4] ISLAM 2005; _cites ref. 28_ | Table IV, p. 8, row 5 |  |
+| Phase transition | 714.28 K | 714.28 | polymorphic: Ca-fcc -> Ca-bcc; _Ca-fcc: Ca 1_ | unspecified | [4] ISLAM 2005; _cites ref. 28_ | Table IV, p. 8, row 8; `ORC-2O2NN6WVOX` |  |
+| Phase transition | 715.9 K | 715.9 | polymorphic: Ca-fcc -> Ca-bcc; _Ca-fcc: Ca 1_ | model | [4] ISLAM 2005 | Table IV, p. 8, row 9; `ORC-O2BCGA3Q6Z` |  |
+| Phase transition | 715.9 K | 715.9 | polymorphic: Ca-fcc -> Ca-bcc; _Ca-fcc: Ca 1_ | unspecified | [4] ISLAM 2005; _cites ref. 26_ | Table IV, p. 8, row 7; `ORC-UR44NRM3ZK` |  |
+| Phase transition | 716 K | 716 | polymorphic: (βCa) -> (αCa); _(βCa): Ca 1_ | model | [5] Huang 2008 | Table 3, p. 3, row 19; `ORC-CA7KCG2DVF` |  |
+| Phase transition | 716 K | 716 | polymorphic: (βCa) -> (αCa); _(βCa): Ca 1_ | unspecified | [5] Huang 2008; _cites Baren 1988_ [doi](https://doi.org/10.1007/bf02881269) | Table 3, p. 3, row 20; `ORC-RHE6APXWSN` |  |
+| Phase transition | 716 K | 716 | polymorphic: Ca-fcc -> Ca-bcc; _Ca-fcc: _ | model | [4] ISLAM 2005 | Table II, p. 5, row 13; `ORC-5OIC3E4J5Q` |  |
+| Phase transition | 716 K | 716 | polymorphic: Ca-fcc -> Ca-bcc; _Ca-fcc: _ | unspecified | [4] ISLAM 2005; _cites ref. 15_ | Table II, p. 5, row 12; `ORC-UGACNCNAOX` |  |
+| Phase transition | 716 K | 716 | polymorphic: Ca-fcc -> Ca-bcc; _Ca-fcc: _ | unspecified | [4] ISLAM 2005; _cites ref. 14_ | Table II, p. 5, row 11; `ORC-UJGR7MIX2I` |  |
+| Phase transition | 728 K | 728 | Ca | experimental | [6] Risold 1996 | p. 2; `ORC-VAFNIQPB3L` | “Bruzzone reports that the ,0Ca to &a transition in equilibrium with CasCu occurs at 728 K, which is 12 K higher than the value for pure Ca used in this work \[SlDin\].” |
+| Phase transition | 1114.9 K | 1114.9 | congruent melting: L -> Ca-bcc; _L: Ca 1_ | unspecified | [4] ISLAM 2005; _cites ref. 26_ | Table IV, p. 8, row 4; `ORC-CZZOAYWWIF` |  |
+| Phase transition | 1115 K | 1115 | congruent melting: L -> Ca-bcc; _L: Ca 1_ | model | [4] ISLAM 2005 | Table IV, p. 8, row 6; `ORC-FPVFXPWZMB` |  |
+| Phase transition | 1116.66 K | 1116.66 | congruent melting: L -> Ca-bcc; _L: Ca 1_ | unspecified | [4] ISLAM 2005; _cites ref. 28_ | Table IV, p. 8, row 5; `ORC-2HJR5BUTWG` |  |
 
 ### Heat capacity / entropy / enthalpy (4)
 
@@ -77,10 +77,10 @@ Table: Heat capacity / entropy / enthalpy, Ca system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: S,298_ | 43.38 J/mol (basis unstated)/K | 0 | α-Ca | DFT | [7] OHNO 2006 | Table 2, p. 4, row 1 |  |
-| Entropy; _printed: S,298_ | 41.42 J/mol (basis unstated)/K | 298.15 | α-Ca | experimental | [7] OHNO 2006; _cites Dederichs 1981_ | Table 2, p. 4, row 2 |  |
-| Heat capacity; _printed: CP298_ | 25.98 J/mol (basis unstated)/K | 0 | α-Ca | DFT | [7] OHNO 2006 | Table 2, p. 4, row 1 |  |
-| Heat capacity; _printed: CP298_ | 25.31 J/mol (basis unstated)/K | 298.15 | α-Ca | experimental | [7] OHNO 2006; _cites Dederichs 1981_ | Table 2, p. 4, row 2 |  |
+| Entropy; _printed: S,298_ | 43.38 J/mol (basis unstated)/K | 0 | α-Ca | DFT | [7] OHNO 2006 | Table 2, p. 4, row 1; `ORC-QIKY35G52Q.bc4707` |  |
+| Entropy; _printed: S,298_ | 41.42 J/mol (basis unstated)/K | 298.15 | α-Ca | experimental | [7] OHNO 2006; _cites Dederichs 1981_ | Table 2, p. 4, row 2; `ORC-4JALEXMPCB.8d551f` |  |
+| Heat capacity; _printed: CP298_ | 25.98 J/mol (basis unstated)/K | 0 | α-Ca | DFT | [7] OHNO 2006 | Table 2, p. 4, row 1; `ORC-QIKY35G52Q.86e542` |  |
+| Heat capacity; _printed: CP298_ | 25.31 J/mol (basis unstated)/K | 298.15 | α-Ca | experimental | [7] OHNO 2006; _cites Dederichs 1981_ | Table 2, p. 4, row 2; `ORC-4JALEXMPCB.1c7d60` |  |
 
 ### Crystal structure (30)
 
@@ -88,36 +88,36 @@ Table: Crystal structure, Ca system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 10.208 Å | 0 | C15-Ca2Ca; _alloy: Ca 1_ | DFT | [2] Ozturk 2005 | Table III, p. 4, row 16 |  |
-| Lattice a | 9.858 Å | 0 | C15-Ca2Ca; _alloy: Ca 1_ | DFT | [2] Ozturk 2005 | Table III, p. 4, row 17 |  |
-| Lattice a | 10.123 Å | 0 | C15-Ca2Ca; _alloy: Ca 1_ | DFT | [2] Ozturk 2005 | Table III, p. 4, row 18 |  |
-| Lattice a | 5.545 Å | 0 | Ca fcc | DFT | [8] Wang 2011 | Table 3, p. 5, row 4 |  |
-| Lattice a | 3.769 Å | 0 | UNKNOWN; _alloy: Ca 1_ | DFT | [2] Ozturk 2005 | Table I, p. 3, row 26 |  |
-| Lattice a | 4.349 Å | 0 | UNKNOWN; _alloy: Ca 1_ | DFT | [2] Ozturk 2005 | Table I, p. 3, row 24 |  |
-| Lattice a | 5.492 Å | 0 | UNKNOWN; _alloy: Ca 1_ | DFT | [2] Ozturk 2005 | Table I, p. 3, row 20 |  |
-| Lattice a | 5.57 Å | 0 | UNKNOWN; _alloy: Ca 1_ | DFT | [9] Li 2013 | Table 1, p. 2, row 5 |  |
-| Lattice a | 5.545 Å | 0 | UNKNOWN; _alloy: Ca 1_ | DFT | [2] Ozturk 2005 | Table I, p. 3, row 18 |  |
-| Lattice a | 5.344 Å | 0 | UNKNOWN; _alloy: Ca 1_ | DFT | [2] Ozturk 2005 | Table I, p. 3, row 19 |  |
-| Lattice a | 5.331 Å | 0 | UNKNOWN; _alloy: Ca 1_ | DFT | [2] Ozturk 2005 | Table I, p. 3, row 17 |  |
-| Lattice a | 4.453 Å | 0 | UNKNOWN; _alloy: Ca 1_ | DFT | [9] Li 2013 | Table 1, p. 2, row 7 |  |
-| Lattice a | 5.5884 Å |  | UNKNOWN; _alloy: Ca 1_ | experimental | [2] Ozturk 2005; _cites Bernstein 1959_ [doi](https://doi.org/10.1107/s0365110x59001268) | Table I, p. 3, row 21 |  |
-| Lattice a | 3.775 Å | 0 | UNKNOWN; _alloy: Ca 1_ | DFT | [2] Ozturk 2005 | Table I, p. 3, row 25 |  |
-| Lattice a | 3.864 Å | 0 | UNKNOWN; _alloy: Ca 1_ | DFT | [2] Ozturk 2005 | Table I, p. 3, row 27 |  |
-| Lattice a | 4.218 Å | 0 | UNKNOWN; _alloy: Ca 1_ | DFT | [2] Ozturk 2005 | Table I, p. 3, row 23 |  |
-| Lattice a | 4.211 Å | 0 | UNKNOWN; _alloy: Ca 1_ | DFT | [2] Ozturk 2005 | Table I, p. 3, row 22 |  |
-| Lattice a; _printed: a_ | 5.486 Å | 0 | fcc-Ca | unspecified | [3] Zhong 2006 | Table 2, p. 4, row 22 |  |
-| Lattice a | 5.5884 Å | 221.5 | fcc (αCa); _fcc (αCa): _ | unspecified | [10] Smith 1988; _cites ref. 2_ | Table I, p. 2, row 1 |  |
-| Lattice a | 0.55884 not_printed | 298.15 | (αCa); _(αCa): Ca 1_ | unspecified | [11] Alcock 1986 | Table 1, p. 2, row 1 |  |
-| Lattice a | 5.57 Å | 298.15 | Ca fcc | experimental | [8] Wang 2011 | Table 3, p. 5, row 5 |  |
-| Lattice a | 5.582 Å | 298.15 | UNKNOWN; _alloy: Ca 1_ | experimental | [9] Li 2013; _cites Bruzzone 1966_ | Table 1, p. 2, row 4 |  |
-| Lattice a | 4.48 Å | 298.15 | UNKNOWN; _alloy: Ca 1_ | experimental | [9] Li 2013; _cites Bernstein 1959_ [doi](https://doi.org/10.1107/s0365110x59001268) | Table 1, p. 2, row 6 |  |
-| Lattice a | 4.48 Å | 642.5 | bcc (βCa); _bcc (βCa): _ | unspecified | [10] Smith 1988; _cites ref. 2_ | Table I, p. 2, row 2 |  |
-| Lattice a | 0.448 not_printed | 1010.15 | (βCa, Ba); _(βCa, Ba): Ca 1_ | unspecified | [11] Alcock 1986; _cites ref. 2_ | Table 1, p. 2, row 3 |  |
-| Lattice c | 6.244 Å | 0 | UNKNOWN; _alloy: Ca 1_ | DFT | [2] Ozturk 2005 | Table I, p. 3, row 26 |  |
-| Lattice c | 6.228 Å | 0 | UNKNOWN; _alloy: Ca 1_ | DFT | [2] Ozturk 2005 | Table I, p. 3, row 25 |  |
-| Lattice c | 6.414 Å | 0 | UNKNOWN; _alloy: Ca 1_ | DFT | [2] Ozturk 2005 | Table I, p. 3, row 27 |  |
-| lattice unspecified axis; _printed: Lattice parameter_ | 4.5 Å |  | Ca | experimental | [12] Zhang 2008; _cites Lide 2002_ | Table 1, p. 2, row 2 |  |
-| lattice unspecified axis; _printed: Lattice parameter_ | 4.4 Å | 0 | Ca | DFT | [12] Zhang 2008 | Table 1, p. 2, row 1 |  |
+| Lattice a | 10.208 Å | 0 | C15-Ca2Ca; _alloy: Ca 1_ | DFT | [2] Ozturk 2005 | Table III, p. 4, row 16; `ORC-ENLNTB5OK5` |  |
+| Lattice a | 9.858 Å | 0 | C15-Ca2Ca; _alloy: Ca 1_ | DFT | [2] Ozturk 2005 | Table III, p. 4, row 17; `ORC-KPGWZGFUJJ` |  |
+| Lattice a | 10.123 Å | 0 | C15-Ca2Ca; _alloy: Ca 1_ | DFT | [2] Ozturk 2005 | Table III, p. 4, row 18; `ORC-PID3FUQW5Z` |  |
+| Lattice a | 5.545 Å | 0 | Ca fcc | DFT | [8] Wang 2011 | Table 3, p. 5, row 4; `ORC-U6L2JZN7TH.8533ae` |  |
+| Lattice a | 3.769 Å | 0 | UNKNOWN; _alloy: Ca 1_ | DFT | [2] Ozturk 2005 | Table I, p. 3, row 26; `ORC-3MKCPUK6W3.652dc5` |  |
+| Lattice a | 4.349 Å | 0 | UNKNOWN; _alloy: Ca 1_ | DFT | [2] Ozturk 2005 | Table I, p. 3, row 24; `ORC-D7VAIC77N5` |  |
+| Lattice a | 5.492 Å | 0 | UNKNOWN; _alloy: Ca 1_ | DFT | [2] Ozturk 2005 | Table I, p. 3, row 20; `ORC-DP6ZHMH6B3` |  |
+| Lattice a | 5.57 Å | 0 | UNKNOWN; _alloy: Ca 1_ | DFT | [9] Li 2013 | Table 1, p. 2, row 5; `ORC-ETWJSAX4GF` |  |
+| Lattice a | 5.545 Å | 0 | UNKNOWN; _alloy: Ca 1_ | DFT | [2] Ozturk 2005 | Table I, p. 3, row 18; `ORC-GBNT2ZGW4L` |  |
+| Lattice a | 5.344 Å | 0 | UNKNOWN; _alloy: Ca 1_ | DFT | [2] Ozturk 2005 | Table I, p. 3, row 19; `ORC-IDAHEKSNRA` |  |
+| Lattice a | 5.331 Å | 0 | UNKNOWN; _alloy: Ca 1_ | DFT | [2] Ozturk 2005 | Table I, p. 3, row 17; `ORC-N36H7XSYCP` |  |
+| Lattice a | 4.453 Å | 0 | UNKNOWN; _alloy: Ca 1_ | DFT | [9] Li 2013 | Table 1, p. 2, row 7; `ORC-NCJU5AOL4U` |  |
+| Lattice a | 5.5884 Å |  | UNKNOWN; _alloy: Ca 1_ | experimental | [2] Ozturk 2005; _cites Bernstein 1959_ [doi](https://doi.org/10.1107/s0365110x59001268) | Table I, p. 3, row 21; `ORC-OY3LODTBMN` |  |
+| Lattice a | 3.775 Å | 0 | UNKNOWN; _alloy: Ca 1_ | DFT | [2] Ozturk 2005 | Table I, p. 3, row 25; `ORC-POICVVOORU.c1b3bc` |  |
+| Lattice a | 3.864 Å | 0 | UNKNOWN; _alloy: Ca 1_ | DFT | [2] Ozturk 2005 | Table I, p. 3, row 27; `ORC-SHBTP7FLCM.cec73e` |  |
+| Lattice a | 4.218 Å | 0 | UNKNOWN; _alloy: Ca 1_ | DFT | [2] Ozturk 2005 | Table I, p. 3, row 23; `ORC-XLQAGLPPDT` |  |
+| Lattice a | 4.211 Å | 0 | UNKNOWN; _alloy: Ca 1_ | DFT | [2] Ozturk 2005 | Table I, p. 3, row 22; `ORC-Y4XQRNEQMY` |  |
+| Lattice a; _printed: a_ | 5.486 Å | 0 | fcc-Ca | unspecified | [3] Zhong 2006 | Table 2, p. 4, row 22; `ORC-CRPEQOGZOL.85cef9` |  |
+| Lattice a | 5.5884 Å | 221.5 | fcc (αCa); _fcc (αCa): _ | unspecified | [10] Smith 1988; _cites ref. 2_ | Table I, p. 2, row 1; `ORC-W4XOSVRQS3` |  |
+| Lattice a | 0.55884 not_printed | 298.15 | (αCa); _(αCa): Ca 1_ | unspecified | [11] Alcock 1986 | Table 1, p. 2, row 1; `ORC-DK5NYZWB4W` |  |
+| Lattice a | 5.57 Å | 298.15 | Ca fcc | experimental | [8] Wang 2011 | Table 3, p. 5, row 5; `ORC-I5RX2P45EA.5a91ca` |  |
+| Lattice a | 5.582 Å | 298.15 | UNKNOWN; _alloy: Ca 1_ | experimental | [9] Li 2013; _cites Bruzzone 1966_ | Table 1, p. 2, row 4; `ORC-AUNQAHH2CN` |  |
+| Lattice a | 4.48 Å | 298.15 | UNKNOWN; _alloy: Ca 1_ | experimental | [9] Li 2013; _cites Bernstein 1959_ [doi](https://doi.org/10.1107/s0365110x59001268) | Table 1, p. 2, row 6; `ORC-ECTKZQFZ2R` |  |
+| Lattice a | 4.48 Å | 642.5 | bcc (βCa); _bcc (βCa): _ | unspecified | [10] Smith 1988; _cites ref. 2_ | Table I, p. 2, row 2; `ORC-O7NLFBDPSS` |  |
+| Lattice a | 0.448 not_printed | 1010.15 | (βCa, Ba); _(βCa, Ba): Ca 1_ | unspecified | [11] Alcock 1986; _cites ref. 2_ | Table 1, p. 2, row 3; `ORC-EI2KUGX5RR` |  |
+| Lattice c | 6.244 Å | 0 | UNKNOWN; _alloy: Ca 1_ | DFT | [2] Ozturk 2005 | Table I, p. 3, row 26; `ORC-3MKCPUK6W3.4b35cf` |  |
+| Lattice c | 6.228 Å | 0 | UNKNOWN; _alloy: Ca 1_ | DFT | [2] Ozturk 2005 | Table I, p. 3, row 25; `ORC-POICVVOORU.2de688` |  |
+| Lattice c | 6.414 Å | 0 | UNKNOWN; _alloy: Ca 1_ | DFT | [2] Ozturk 2005 | Table I, p. 3, row 27; `ORC-SHBTP7FLCM.b1f9b9` |  |
+| lattice unspecified axis; _printed: Lattice parameter_ | 4.5 Å |  | Ca | experimental | [12] Zhang 2008; _cites Lide 2002_ | Table 1, p. 2, row 2; `ORC-VY23HMPA22.7cdfae` |  |
+| lattice unspecified axis; _printed: Lattice parameter_ | 4.4 Å | 0 | Ca | DFT | [12] Zhang 2008 | Table 1, p. 2, row 1; `ORC-YNXT2G6ACN.a5f6fd` |  |
 
 ## Sources
 
@@ -171,4 +171,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

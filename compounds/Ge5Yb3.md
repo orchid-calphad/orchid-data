@@ -14,16 +14,16 @@ Table: Enthalpy of formation of Ge5Yb3 reported in the literature (10)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -49.8 kJ/mol-atom ± 13.2 | Yb3Ge5 | 298.15 | experimental | KEWL and KEMS | [Ge–Yb](https://data.orchid-project.org/systems/GE-YB.html) | [1] Achgar 2018; _cites Balducci 2007_ [doi](https://doi.org/10.1021/jp067889b) | Table 2, p. 5, row 14 |  |
-| -49.8 kJ/mol-atom ± 13.2 | Yb3Ge5 | 298.15 | experimental | KE technique | [Ge–Yb](https://data.orchid-project.org/systems/GE-YB.html) | [2] Dai-man 2018; _cites Balducci 2007_ | Table 2, p. 4, row 14 |  |
-| -63 kJ/mol-atom | Yb3Ge5 |  | model | Prediction | [Ge–Yb](https://data.orchid-project.org/systems/GE-YB.html) | [1] Achgar 2018; _cites De 1988_ | Table 2, p. 5, row 15 |  |
-| -63 kJ/mol-atom | Yb3Ge5 | 298.15 | model | Miedema model | [Ge–Yb](https://data.orchid-project.org/systems/GE-YB.html) | [2] Dai-man 2018; _cites Grytsiv 2002_ | Table 2, p. 4, row 16 |  |
-| -60.952 kJ/mol-atom | Yb3Ge5 |  | model | Optimization | [Ge–Yb](https://data.orchid-project.org/systems/GE-YB.html) | [1] Achgar 2018 | Table 2, p. 5, row 17 |  |
-| -59.3 kJ/mol-atom | Yb3Ge5 | 298.15 | model | SCM | [Ge–Yb](https://data.orchid-project.org/systems/GE-YB.html) | [2] Dai-man 2018 | Table 2, p. 4, row 18 |  |
-| -56.426 kJ/mol-atom | Yb3Ge5 |  | model | Optimization | [Ge–Yb](https://data.orchid-project.org/systems/GE-YB.html) | [1] Achgar 2018 | Table 2, p. 5, row 18 |  |
-| -56.1 kJ/mol-atom | Yb3Ge5 | 0 | DFT | DFT calculation | [Ge–Yb](https://data.orchid-project.org/systems/GE-YB.html) | [2] Dai-man 2018; _cites Saal 2013_ | Table 2, p. 4, row 17 |  |
-| -55.9 kJ/mol-atom ± 6.2 | Yb3Ge5 |  | DFT | DFT | [Ge–Yb](https://data.orchid-project.org/systems/GE-YB.html) | [1] Achgar 2018; _cites Balducci 2007_ [doi](https://doi.org/10.1021/jp067889b) | Table 2, p. 5, row 16 |  |
-| -55.9 kJ/mol-atom ± 6.2 | Yb3Ge5 | 298.15 | DFT | DFT calculation | [Ge–Yb](https://data.orchid-project.org/systems/GE-YB.html) | [2] Dai-man 2018; _cites Balducci 2007_ | Table 2, p. 4, row 15 |  |
+| -49.8 kJ/mol-atom ± 13.2 | Yb3Ge5 | 298.15 | experimental | KEWL and KEMS | [Ge–Yb](https://data.orchid-project.org/systems/GE-YB.html) | [1] Achgar 2018; _cites Balducci 2007_ [doi](https://doi.org/10.1021/jp067889b) | Table 2, p. 5, row 14; `ORC-I75IMBF5X7` |  |
+| -49.8 kJ/mol-atom ± 13.2 | Yb3Ge5 | 298.15 | experimental | KE technique | [Ge–Yb](https://data.orchid-project.org/systems/GE-YB.html) | [2] Dai-man 2018; _cites Balducci 2007_ | Table 2, p. 4, row 14; `ORC-VFRZDEMAC3` |  |
+| -63 kJ/mol-atom | Yb3Ge5 |  | model | Prediction | [Ge–Yb](https://data.orchid-project.org/systems/GE-YB.html) | [1] Achgar 2018; _cites De 1988_ | Table 2, p. 5, row 15; `ORC-3ZHRHMJZVW` |  |
+| -63 kJ/mol-atom | Yb3Ge5 | 298.15 | model | Miedema model | [Ge–Yb](https://data.orchid-project.org/systems/GE-YB.html) | [2] Dai-man 2018; _cites Grytsiv 2002_ | Table 2, p. 4, row 16; `ORC-U5LO4Z2I6O` |  |
+| -60.952 kJ/mol-atom | Yb3Ge5 |  | model | Optimization | [Ge–Yb](https://data.orchid-project.org/systems/GE-YB.html) | [1] Achgar 2018 | Table 2, p. 5, row 17; `ORC-SZGKVYB6RI.267e11` |  |
+| -59.3 kJ/mol-atom | Yb3Ge5 | 298.15 | model | SCM | [Ge–Yb](https://data.orchid-project.org/systems/GE-YB.html) | [2] Dai-man 2018 | Table 2, p. 4, row 18; `ORC-VISY2BQ3ZD` |  |
+| -56.426 kJ/mol-atom | Yb3Ge5 |  | model | Optimization | [Ge–Yb](https://data.orchid-project.org/systems/GE-YB.html) | [1] Achgar 2018 | Table 2, p. 5, row 18; `ORC-YWOCE4R4D2.7426f6` |  |
+| -56.1 kJ/mol-atom | Yb3Ge5 | 0 | DFT | DFT calculation | [Ge–Yb](https://data.orchid-project.org/systems/GE-YB.html) | [2] Dai-man 2018; _cites Saal 2013_ | Table 2, p. 4, row 17; `ORC-O7ITMLU2VE` |  |
+| -55.9 kJ/mol-atom ± 6.2 | Yb3Ge5 |  | DFT | DFT | [Ge–Yb](https://data.orchid-project.org/systems/GE-YB.html) | [1] Achgar 2018; _cites Balducci 2007_ [doi](https://doi.org/10.1021/jp067889b) | Table 2, p. 5, row 16; `ORC-7PMCCOIOEW` |  |
+| -55.9 kJ/mol-atom ± 6.2 | Yb3Ge5 | 298.15 | DFT | DFT calculation | [Ge–Yb](https://data.orchid-project.org/systems/GE-YB.html) | [2] Dai-man 2018; _cites Balducci 2007_ | Table 2, p. 4, row 15; `ORC-GUHQFWSXLY` |  |
 
 ### Uncertainty budget
 
@@ -108,4 +108,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

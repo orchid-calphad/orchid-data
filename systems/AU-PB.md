@@ -71,39 +71,39 @@ Table: Invariant reactions reported in the literature for the Au–Pb system (33
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 727 | L + Au2Pb -> AuPb2 | L: Pb 0.74; Au2Pb: Pb 0.333333; AuPb2: Pb 0.666667 | experimental | [1] Wang 2004; _cites Vogel 1905_ [doi](https://doi.org/10.1002/zaac.19050450103) | Table 4, p. 4, row 10 |  |
-| 707 | L + fcc (Au) -> Au2Pb | L: Pb 0.43; Au2Pb: Pb 0.333333 | model | [1] Wang 2004; _cites Okamoto 1984_ [doi](https://doi.org/10.1007/bf02868553) | Table 4, p. 4, row 2 |  |
-| 707 | L + fcc (Au) -> Au2Pb | L: Pb 0.426; Au2Pb: Pb 0.333333 | experimental | [1] Wang 2004; _cites Evans 1982_ | Table 4, p. 4, row 5 |  |
-| 707 | L + fcc (Au) -> Au2Pb | L: Pb 0.46; Au2Pb: Pb 0.333333 | model | [1] Wang 2004 | Table 4, p. 4, row 7 |  |
-| 707 | L + fcc (Au) -> Au2Pb | L: Pb 0.426; Au2Pb: Pb 0.333333 | experimental | [1] Wang 2004; _cites Evans 1983_ | Table 4, p. 4, row 1 |  |
-| 702 | L + fcc (Au) -> Au2Pb | L: Pb 0.43; Au2Pb: Pb 0.333333 | experimental | [1] Wang 2004; _cites Legendre 1971_ | Table 4, p. 4, row 6 |  |
-| 691 | L + fcc (Au) -> Au2Pb | L: Pb 0.44; Au2Pb: Pb 0.333333 | experimental | [1] Wang 2004; _cites Vogel 1905_ [doi](https://doi.org/10.1002/zaac.19050450103) | Table 4, p. 4, row 3 |  |
-| 691 | L + fcc (Au) -> Au2Pb | L: Pb 0.437; Au2Pb: Pb 0.333333 | experimental | [1] Wang 2004; _cites Bhattacharyya 1971_ | Table 4, p. 4, row 4 |  |
-| 526 | L + Au2Pb -> AuPb2 | L: Pb 0.735; Au2Pb: Pb 0.333333; AuPb2: Pb 0.666667 | model | [1] Wang 2004; _cites Okamoto 1984_ [doi](https://doi.org/10.1007/bf02868553) | Table 4, p. 4, row 9 |  |
-| 526 | L + Au2Pb -> AuPb2 | L: Pb 0.741; Au2Pb: Pb 0.333333; AuPb2: Pb 0.666667 | model | [1] Wang 2004 | Table 4, p. 4, row 15 |  |
-| 526 | L + Au2Pb -> AuPb2 | L: Pb 0.738; Au2Pb: Pb 0.333333; AuPb2: Pb 0.666667 | experimental | [1] Wang 2004; _cites Evans 1982_ | Table 4, p. 4, row 12 |  |
-| 526 | L + Au2Pb -> AuPb2 | L: Pb 0.738; Au2Pb: Pb 0.333333; AuPb2: Pb 0.666667 | experimental | [1] Wang 2004; _cites Evans 1983_ | Table 4, p. 4, row 8 |  |
-| 525.5 | L + Au2Pb -> AuPb2 | L: Pb 0.72; Au2Pb: Pb 0.333333; AuPb2: Pb 0.666667 | experimental | [1] Wang 2004; _cites Evans 1972_ | Table 4, p. 4, row 14 |  |
-| 524 | L + Au2Pb -> AuPb2 | L: Pb 0.71; Au2Pb: Pb 0.333333; AuPb2: Pb 0.666667 | experimental | [1] Wang 2004; _cites Bhattacharyya 1971_ | Table 4, p. 4, row 11 |  |
-| 524 | L + Au2Pb -> AuPb2 | L: Pb 0.71; Au2Pb: Pb 0.333333; AuPb2: Pb 0.666667 | experimental | [1] Wang 2004; _cites Legendre 1971_ | Table 4, p. 4, row 13 |  |
-| 495.5 | L + AuPb2 -> AuPb3 | L: Pb 0.822; AuPb2: Pb 0.666667; AuPb3: Pb 0.75 | experimental | [1] Wang 2004; _cites Evans 1983_ | Table 4, p. 4, row 16 |  |
-| 495 | L + AuPb2 -> AuPb3 | L: Pb 0.826; AuPb2: Pb 0.666667; AuPb3: Pb 0.75 | model | [1] Wang 2004 | Table 4, p. 4, row 22 |  |
-| 495 | L + AuPb2 -> AuPb3 | L: Pb 0.843; AuPb2: Pb 0.666667; AuPb3: Pb 0.75 | experimental | [1] Wang 2004; _cites Evans 1972_ | Table 4, p. 4, row 21 |  |
-| 494.5 | L + AuPb2 -> AuPb3 | L: Pb 0.821; AuPb2: Pb 0.666667; AuPb3: Pb 0.75 | model | [1] Wang 2004; _cites Okamoto 1984_ [doi](https://doi.org/10.1007/bf02868553) | Table 4, p. 4, row 17 |  |
-| 494.5 | L + AuPb2 -> AuPb3 | L: Pb 0.822; AuPb2: Pb 0.666667; AuPb3: Pb 0.75 | experimental | [1] Wang 2004; _cites Evans 1982_ | Table 4, p. 4, row 19 |  |
-| 494 | L + AuPb2 -> AuPb3 | L: Pb 0.814; AuPb2: Pb 0.666667; AuPb3: Pb 0.75 | experimental | [1] Wang 2004; _cites Bhattacharyya 1971_ | Table 4, p. 4, row 18 |  |
-| 490 | L + AuPb2 -> AuPb3 | L: Pb 0.77; AuPb2: Pb 0.666667; AuPb3: Pb 0.75 | experimental | [1] Wang 2004; _cites Legendre 1971_ | Table 4, p. 4, row 20 |  |
-| 488 | L -> AuPb3 + fcc (Pb) | L: Pb 0.85; AuPb3: Pb 0.75 | experimental | [1] Wang 2004; _cites Vogel 1905_ [doi](https://doi.org/10.1002/zaac.19050450103) | Table 4, p. 4, row 25 |  |
-| 488 | L -> AuPb3 + fcc (Pb) | L: Pb 0.848; AuPb3: Pb 0.75 | model | [1] Wang 2004 | Table 4, p. 4, row 30 |  |
-| 488 | L -> AuPb3 + fcc (Pb) | L: Pb 0.843; AuPb3: Pb 0.75 | experimental | [1] Wang 2004; _cites Bhattacharyya 1971_ | Table 4, p. 4, row 26 |  |
-| 486 | L -> AuPb3 + fcc (Pb) | L: Pb 0.843; AuPb3: Pb 0.75 | experimental | [1] Wang 2004; _cites Evans 1972_ | Table 4, p. 4, row 29 |  |
-| 485.5 | L -> AuPb3 + fcc (Pb) | L: Pb 0.848; AuPb3: Pb 0.75 | model | [1] Wang 2004; _cites Okamoto 1984_ [doi](https://doi.org/10.1007/bf02868553) | Table 4, p. 4, row 24 |  |
-| 485 | L -> AuPb3 + fcc (Pb) | L: Pb 0.848; AuPb3: Pb 0.75 | experimental | [1] Wang 2004; _cites Evans 1982_ | Table 4, p. 4, row 27 |  |
-| 485 | L -> AuPb3 + fcc (Pb) | L: Pb 0.848; AuPb3: Pb 0.75 | experimental | [1] Wang 2004; _cites Evans 1983_ | Table 4, p. 4, row 23 |  |
-| 483 | L -> AuPb3 + fcc (Pb) | L: Pb 0.85; AuPb3: Pb 0.75 | experimental | [1] Wang 2004; _cites Legendre 1971_ | Table 4, p. 4, row 28 |  |
-| 380 | AuPb3 -> AuPb2 + fcc (Pb) | AuPb3: Pb 0.75; AuPb2: Pb 0.666667 | model | [1] Wang 2004 | Table 4, p. 4, row 33 |  |
-| 372 | AuPb3 -> AuPb2 + fcc (Pb) | AuPb3: Pb 0.75; AuPb2: Pb 0.666667 | model | [1] Wang 2004; _cites Okamoto 1984_ [doi](https://doi.org/10.1007/bf02868553) | Table 4, p. 4, row 31 |  |
-| 325 | AuPb3 -> AuPb2 + fcc (Pb) | AuPb3: Pb 0.75; AuPb2: Pb 0.666667 | experimental | [1] Wang 2004; _cites Predecki 1965_ | Table 4, p. 4, row 32 |  |
+| 727 | L + Au2Pb -> AuPb2 | L: Pb 0.74; Au2Pb: Pb 0.333333; AuPb2: Pb 0.666667 | experimental | [1] Wang 2004; _cites Vogel 1905_ [doi](https://doi.org/10.1002/zaac.19050450103) | Table 4, p. 4, row 10; `ORC-O4LJRUINKW` |  |
+| 707 | L + fcc (Au) -> Au2Pb | L: Pb 0.43; Au2Pb: Pb 0.333333 | model | [1] Wang 2004; _cites Okamoto 1984_ [doi](https://doi.org/10.1007/bf02868553) | Table 4, p. 4, row 2; `ORC-2KI4OKO5C2` |  |
+| 707 | L + fcc (Au) -> Au2Pb | L: Pb 0.426; Au2Pb: Pb 0.333333 | experimental | [1] Wang 2004; _cites Evans 1982_ | Table 4, p. 4, row 5; `ORC-CUQR7J5HAF` |  |
+| 707 | L + fcc (Au) -> Au2Pb | L: Pb 0.46; Au2Pb: Pb 0.333333 | model | [1] Wang 2004 | Table 4, p. 4, row 7; `ORC-CVOLVND5QT` |  |
+| 707 | L + fcc (Au) -> Au2Pb | L: Pb 0.426; Au2Pb: Pb 0.333333 | experimental | [1] Wang 2004; _cites Evans 1983_ | Table 4, p. 4, row 1; `ORC-ZQQMSW5FZX` |  |
+| 702 | L + fcc (Au) -> Au2Pb | L: Pb 0.43; Au2Pb: Pb 0.333333 | experimental | [1] Wang 2004; _cites Legendre 1971_ | Table 4, p. 4, row 6; `ORC-DCS5DCGTQD` |  |
+| 691 | L + fcc (Au) -> Au2Pb | L: Pb 0.44; Au2Pb: Pb 0.333333 | experimental | [1] Wang 2004; _cites Vogel 1905_ [doi](https://doi.org/10.1002/zaac.19050450103) | Table 4, p. 4, row 3; `ORC-EGUQYKMEE2` |  |
+| 691 | L + fcc (Au) -> Au2Pb | L: Pb 0.437; Au2Pb: Pb 0.333333 | experimental | [1] Wang 2004; _cites Bhattacharyya 1971_ | Table 4, p. 4, row 4; `ORC-W7O6ENHPXJ` |  |
+| 526 | L + Au2Pb -> AuPb2 | L: Pb 0.735; Au2Pb: Pb 0.333333; AuPb2: Pb 0.666667 | model | [1] Wang 2004; _cites Okamoto 1984_ [doi](https://doi.org/10.1007/bf02868553) | Table 4, p. 4, row 9; `ORC-5WQVEWSTRL` |  |
+| 526 | L + Au2Pb -> AuPb2 | L: Pb 0.741; Au2Pb: Pb 0.333333; AuPb2: Pb 0.666667 | model | [1] Wang 2004 | Table 4, p. 4, row 15; `ORC-MJX77BRK3J` |  |
+| 526 | L + Au2Pb -> AuPb2 | L: Pb 0.738; Au2Pb: Pb 0.333333; AuPb2: Pb 0.666667 | experimental | [1] Wang 2004; _cites Evans 1982_ | Table 4, p. 4, row 12; `ORC-NRWOQ6ZKIT` |  |
+| 526 | L + Au2Pb -> AuPb2 | L: Pb 0.738; Au2Pb: Pb 0.333333; AuPb2: Pb 0.666667 | experimental | [1] Wang 2004; _cites Evans 1983_ | Table 4, p. 4, row 8; `ORC-VY3MTVMSFA` |  |
+| 525.5 | L + Au2Pb -> AuPb2 | L: Pb 0.72; Au2Pb: Pb 0.333333; AuPb2: Pb 0.666667 | experimental | [1] Wang 2004; _cites Evans 1972_ | Table 4, p. 4, row 14; `ORC-HXA3ZVSQWL` |  |
+| 524 | L + Au2Pb -> AuPb2 | L: Pb 0.71; Au2Pb: Pb 0.333333; AuPb2: Pb 0.666667 | experimental | [1] Wang 2004; _cites Bhattacharyya 1971_ | Table 4, p. 4, row 11; `ORC-QQ77AWYFNS` |  |
+| 524 | L + Au2Pb -> AuPb2 | L: Pb 0.71; Au2Pb: Pb 0.333333; AuPb2: Pb 0.666667 | experimental | [1] Wang 2004; _cites Legendre 1971_ | Table 4, p. 4, row 13; `ORC-YZLGYIBN46` |  |
+| 495.5 | L + AuPb2 -> AuPb3 | L: Pb 0.822; AuPb2: Pb 0.666667; AuPb3: Pb 0.75 | experimental | [1] Wang 2004; _cites Evans 1983_ | Table 4, p. 4, row 16; `ORC-F7PW5TESGT` |  |
+| 495 | L + AuPb2 -> AuPb3 | L: Pb 0.826; AuPb2: Pb 0.666667; AuPb3: Pb 0.75 | model | [1] Wang 2004 | Table 4, p. 4, row 22; `ORC-4A5GOSIDUP` |  |
+| 495 | L + AuPb2 -> AuPb3 | L: Pb 0.843; AuPb2: Pb 0.666667; AuPb3: Pb 0.75 | experimental | [1] Wang 2004; _cites Evans 1972_ | Table 4, p. 4, row 21; `ORC-EOH4HO7LM2` |  |
+| 494.5 | L + AuPb2 -> AuPb3 | L: Pb 0.821; AuPb2: Pb 0.666667; AuPb3: Pb 0.75 | model | [1] Wang 2004; _cites Okamoto 1984_ [doi](https://doi.org/10.1007/bf02868553) | Table 4, p. 4, row 17; `ORC-CWZKGLTYPM` |  |
+| 494.5 | L + AuPb2 -> AuPb3 | L: Pb 0.822; AuPb2: Pb 0.666667; AuPb3: Pb 0.75 | experimental | [1] Wang 2004; _cites Evans 1982_ | Table 4, p. 4, row 19; `ORC-KPL52MS2LB` |  |
+| 494 | L + AuPb2 -> AuPb3 | L: Pb 0.814; AuPb2: Pb 0.666667; AuPb3: Pb 0.75 | experimental | [1] Wang 2004; _cites Bhattacharyya 1971_ | Table 4, p. 4, row 18; `ORC-GHKZVM36TH` |  |
+| 490 | L + AuPb2 -> AuPb3 | L: Pb 0.77; AuPb2: Pb 0.666667; AuPb3: Pb 0.75 | experimental | [1] Wang 2004; _cites Legendre 1971_ | Table 4, p. 4, row 20; `ORC-UG2MP2JB34` |  |
+| 488 | L -> AuPb3 + fcc (Pb) | L: Pb 0.85; AuPb3: Pb 0.75 | experimental | [1] Wang 2004; _cites Vogel 1905_ [doi](https://doi.org/10.1002/zaac.19050450103) | Table 4, p. 4, row 25; `ORC-BI4OCV7RQC` |  |
+| 488 | L -> AuPb3 + fcc (Pb) | L: Pb 0.848; AuPb3: Pb 0.75 | model | [1] Wang 2004 | Table 4, p. 4, row 30; `ORC-RHL7QONQDP` |  |
+| 488 | L -> AuPb3 + fcc (Pb) | L: Pb 0.843; AuPb3: Pb 0.75 | experimental | [1] Wang 2004; _cites Bhattacharyya 1971_ | Table 4, p. 4, row 26; `ORC-SB7SIILCOX` |  |
+| 486 | L -> AuPb3 + fcc (Pb) | L: Pb 0.843; AuPb3: Pb 0.75 | experimental | [1] Wang 2004; _cites Evans 1972_ | Table 4, p. 4, row 29; `ORC-ADNU7HO345` |  |
+| 485.5 | L -> AuPb3 + fcc (Pb) | L: Pb 0.848; AuPb3: Pb 0.75 | model | [1] Wang 2004; _cites Okamoto 1984_ [doi](https://doi.org/10.1007/bf02868553) | Table 4, p. 4, row 24; `ORC-B64OC6EXQT` |  |
+| 485 | L -> AuPb3 + fcc (Pb) | L: Pb 0.848; AuPb3: Pb 0.75 | experimental | [1] Wang 2004; _cites Evans 1982_ | Table 4, p. 4, row 27; `ORC-B2BKQU6LDN` |  |
+| 485 | L -> AuPb3 + fcc (Pb) | L: Pb 0.848; AuPb3: Pb 0.75 | experimental | [1] Wang 2004; _cites Evans 1983_ | Table 4, p. 4, row 23; `ORC-KRHA2TAURC` |  |
+| 483 | L -> AuPb3 + fcc (Pb) | L: Pb 0.85; AuPb3: Pb 0.75 | experimental | [1] Wang 2004; _cites Legendre 1971_ | Table 4, p. 4, row 28; `ORC-KGAEEJR7MB` |  |
+| 380 | AuPb3 -> AuPb2 + fcc (Pb) | AuPb3: Pb 0.75; AuPb2: Pb 0.666667 | model | [1] Wang 2004 | Table 4, p. 4, row 33; `ORC-HZAMLKYXAB` |  |
+| 372 | AuPb3 -> AuPb2 + fcc (Pb) | AuPb3: Pb 0.75; AuPb2: Pb 0.666667 | model | [1] Wang 2004; _cites Okamoto 1984_ [doi](https://doi.org/10.1007/bf02868553) | Table 4, p. 4, row 31; `ORC-UY6GLJZV3N` |  |
+| 325 | AuPb3 -> AuPb2 + fcc (Pb) | AuPb3: Pb 0.75; AuPb2: Pb 0.666667 | experimental | [1] Wang 2004; _cites Predecki 1965_ | Table 4, p. 4, row 32; `ORC-ZX7PIHAIUC` |  |
 
 ## Other properties
 
@@ -113,8 +113,8 @@ Table: Phase transition, Au–Pb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 372 K | 372 | other: AuPb3 = AuPb2 + fcc(Pb) | model | [1] Wang 2004; _cites Okamoto 1984_ [doi](https://doi.org/10.1007/bf02868553) | p. 2 | “phase AuPb3 could be stable above 372 K and decompose to AuPb2 and fcc (Pb) below this temperature.” |
-| Phase transition | 380 K | 380 | other | model | [1] Wang 2004 | p. 3 | “In the present work, the decomposition temperature of the phase AuPb3 is calculated to be 380 K and the phase AuPb2 is stable up to 495 K.” |
+| Phase transition | 372 K | 372 | other: AuPb3 = AuPb2 + fcc(Pb) | model | [1] Wang 2004; _cites Okamoto 1984_ [doi](https://doi.org/10.1007/bf02868553) | p. 2; `ORC-MSG2VAUVHA` | “phase AuPb3 could be stable above 372 K and decompose to AuPb2 and fcc (Pb) below this temperature.” |
+| Phase transition | 380 K | 380 | other | model | [1] Wang 2004 | p. 3; `ORC-ZMMXMGAKJD` | “In the present work, the decomposition temperature of the phase AuPb3 is calculated to be 380 K and the phase AuPb2 is stable up to 495 K.” |
 
 ## Sources
 
@@ -179,4 +179,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -57,42 +57,42 @@ Table: Crystal structure, Nb–P system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 6.621 Å |  | Nb2P in (Fe,Nb)2P | model | [1] Tokunaga 2009 | Table 1, p. 4, row 3 |  |
-| Lattice a | 10.128 Å |  | Nb3P; _alloy: Nb 0.75, P 0.25_ | experimental | [1] Tokunaga 2009 | Table 1, p. 4, row 2 |  |
-| Lattice a | 9.986 Å |  | Nb3P; _alloy: Nb 0.75, P 0.25_ | model | [1] Tokunaga 2009 | Table 1, p. 4, row 1 |  |
-| Lattice a | 25.384 Å |  | Nb5P3; _alloy: Nb 0.625, P 0.375_ | experimental | [1] Tokunaga 2009 | Table 1, p. 4, row 8 |  |
-| Lattice a | 25.167 Å |  | Nb5P3; _alloy: Nb 0.625, P 0.375_ | model | [1] Tokunaga 2009 | Table 1, p. 4, row 7 |  |
-| Lattice a | 15.023 Å |  | Nb7P4; _alloy: Nb 0.636364, P 0.363636_ | model | [1] Tokunaga 2009 | Table 1, p. 4, row 5 |  |
-| Lattice a | 14.95 Å |  | Nb7P4; _alloy: Nb 0.636364, P 0.363636_ | experimental | [1] Tokunaga 2009 | Table 1, p. 4, row 6 |  |
-| Lattice a | 25.975 Å |  | Nb8P5; _alloy: Nb 0.615385, P 0.384615_ | model | [1] Tokunaga 2009 | Table 1, p. 4, row 9 |  |
-| Lattice a | 26.2 Å |  | Nb8P5; _alloy: Nb 0.615385, P 0.384615_ | experimental | [1] Tokunaga 2009 | Table 1, p. 4, row 10 |  |
-| Lattice a | 3.334 Å |  | NbP; _alloy: Nb 0.5, P 0.5_ | experimental | [1] Tokunaga 2009 | Table 1, p. 4, row 12 |  |
-| Lattice a | 3.438 Å |  | NbP; _alloy: Nb 0.5, P 0.5_ | model | [1] Tokunaga 2009 | Table 1, p. 4, row 11 |  |
-| Lattice a | 6.461 Å |  | NbP2; _alloy: Nb 0.333333, P 0.666667_ | experimental | [1] Tokunaga 2009 | Table 1, p. 4, row 14 |  |
-| Lattice a | 6.351 Å |  | NbP2; _alloy: Nb 0.333333, P 0.666667_ | model | [1] Tokunaga 2009 | Table 1, p. 4, row 13 |  |
-| Lattice b | 3.433 Å |  | Nb5P3; _alloy: Nb 0.625, P 0.375_ | experimental | [1] Tokunaga 2009 | Table 1, p. 4, row 8 |  |
-| Lattice b | 3.404 Å |  | Nb5P3; _alloy: Nb 0.625, P 0.375_ | model | [1] Tokunaga 2009 | Table 1, p. 4, row 7 |  |
-| Lattice b | 17.691 Å |  | Nb7P4; _alloy: Nb 0.636364, P 0.363636_ | model | [1] Tokunaga 2009 | Table 1, p. 4, row 5 |  |
-| Lattice b | 17.605 Å |  | Nb7P4; _alloy: Nb 0.636364, P 0.363636_ | experimental | [1] Tokunaga 2009 | Table 1, p. 4, row 6 |  |
-| Lattice b | 9.465 Å |  | Nb8P5; _alloy: Nb 0.615385, P 0.384615_ | experimental | [1] Tokunaga 2009 | Table 1, p. 4, row 10 |  |
-| Lattice b | 7.887 Å |  | NbP2; _alloy: Nb 0.333333, P 0.666667_ | experimental | [1] Tokunaga 2009 | Table 1, p. 4, row 14 |  |
-| Lattice b | 7.753 Å |  | NbP2; _alloy: Nb 0.333333, P 0.666667_ | model | [1] Tokunaga 2009 | Table 1, p. 4, row 13 |  |
-| Lattice c | 3.902 Å |  | Nb2P in (Fe,Nb)2P | model | [1] Tokunaga 2009 | Table 1, p. 4, row 3 |  |
-| Lattice c | 5.089 Å |  | Nb3P; _alloy: Nb 0.75, P 0.25_ | experimental | [1] Tokunaga 2009 | Table 1, p. 4, row 2 |  |
-| Lattice c | 5.017 Å |  | Nb3P; _alloy: Nb 0.75, P 0.25_ | model | [1] Tokunaga 2009 | Table 1, p. 4, row 1 |  |
-| Lattice c | 11.483 Å |  | Nb5P3; _alloy: Nb 0.625, P 0.375_ | experimental | [1] Tokunaga 2009 | Table 1, p. 4, row 8 |  |
-| Lattice c | 11.385 Å |  | Nb5P3; _alloy: Nb 0.625, P 0.375_ | model | [1] Tokunaga 2009 | Table 1, p. 4, row 7 |  |
-| Lattice c | 3.457 Å |  | Nb7P4; _alloy: Nb 0.636364, P 0.363636_ | model | [1] Tokunaga 2009 | Table 1, p. 4, row 5 |  |
-| Lattice c | 3.499 Å |  | Nb7P4; _alloy: Nb 0.636364, P 0.363636_ | experimental | [1] Tokunaga 2009 | Table 1, p. 4, row 6 |  |
-| Lattice c | 3.434 Å |  | Nb8P5; _alloy: Nb 0.615385, P 0.384615_ | model | [1] Tokunaga 2009 | Table 1, p. 4, row 9 |  |
-| Lattice c | 3.464 Å |  | Nb8P5; _alloy: Nb 0.615385, P 0.384615_ | experimental | [1] Tokunaga 2009 | Table 1, p. 4, row 10 |  |
-| Lattice c | 11.378 Å |  | NbP; _alloy: Nb 0.5, P 0.5_ | experimental | [1] Tokunaga 2009 | Table 1, p. 4, row 12 |  |
-| Lattice c | 11.767 Å |  | NbP; _alloy: Nb 0.5, P 0.5_ | model | [1] Tokunaga 2009 | Table 1, p. 4, row 11 |  |
-| Lattice c | 3.84 Å |  | NbP2; _alloy: Nb 0.333333, P 0.666667_ | experimental | [1] Tokunaga 2009 | Table 1, p. 4, row 14 |  |
-| Lattice c | 3.775 Å |  | NbP2; _alloy: Nb 0.333333, P 0.666667_ | model | [1] Tokunaga 2009 | Table 1, p. 4, row 13 |  |
-| lattice gamma | 120 ° |  | Nb2P in (Fe,Nb)2P | model | [1] Tokunaga 2009 | Table 1, p. 4, row 3 |  |
-| lattice gamma | 130.5 ° |  | Nb7P4; _alloy: Nb 0.636364, P 0.363636_ | model | [1] Tokunaga 2009 | Table 1, p. 4, row 5 |  |
-| lattice gamma | 130.5 ° |  | Nb7P4; _alloy: Nb 0.636364, P 0.363636_ | experimental | [1] Tokunaga 2009 | Table 1, p. 4, row 6 |  |
+| Lattice a | 6.621 Å |  | Nb2P in (Fe,Nb)2P | model | [1] Tokunaga 2009 | Table 1, p. 4, row 3; `ORC-VGHOQXXZWL.65c7df` |  |
+| Lattice a | 10.128 Å |  | Nb3P; _alloy: Nb 0.75, P 0.25_ | experimental | [1] Tokunaga 2009 | Table 1, p. 4, row 2; `ORC-AOFCB63XRF.b279da` |  |
+| Lattice a | 9.986 Å |  | Nb3P; _alloy: Nb 0.75, P 0.25_ | model | [1] Tokunaga 2009 | Table 1, p. 4, row 1; `ORC-RJHJYID2OE.ff824f` |  |
+| Lattice a | 25.384 Å |  | Nb5P3; _alloy: Nb 0.625, P 0.375_ | experimental | [1] Tokunaga 2009 | Table 1, p. 4, row 8; `ORC-BL442NAHGT.14bf11` |  |
+| Lattice a | 25.167 Å |  | Nb5P3; _alloy: Nb 0.625, P 0.375_ | model | [1] Tokunaga 2009 | Table 1, p. 4, row 7; `ORC-DSPCSGOWRU.9206fc` |  |
+| Lattice a | 15.023 Å |  | Nb7P4; _alloy: Nb 0.636364, P 0.363636_ | model | [1] Tokunaga 2009 | Table 1, p. 4, row 5; `ORC-65KJX7WN5N.d226b5` |  |
+| Lattice a | 14.95 Å |  | Nb7P4; _alloy: Nb 0.636364, P 0.363636_ | experimental | [1] Tokunaga 2009 | Table 1, p. 4, row 6; `ORC-6ZWRKIE5M7.3574c9` |  |
+| Lattice a | 25.975 Å |  | Nb8P5; _alloy: Nb 0.615385, P 0.384615_ | model | [1] Tokunaga 2009 | Table 1, p. 4, row 9; `ORC-BJE74XCY7S.45489b` |  |
+| Lattice a | 26.2 Å |  | Nb8P5; _alloy: Nb 0.615385, P 0.384615_ | experimental | [1] Tokunaga 2009 | Table 1, p. 4, row 10; `ORC-CKNTSFF2JG.09a704` |  |
+| Lattice a | 3.334 Å |  | NbP; _alloy: Nb 0.5, P 0.5_ | experimental | [1] Tokunaga 2009 | Table 1, p. 4, row 12; `ORC-D6QEQEI6SG.549815` |  |
+| Lattice a | 3.438 Å |  | NbP; _alloy: Nb 0.5, P 0.5_ | model | [1] Tokunaga 2009 | Table 1, p. 4, row 11; `ORC-ZN6HQHNNJF.d8417d` |  |
+| Lattice a | 6.461 Å |  | NbP2; _alloy: Nb 0.333333, P 0.666667_ | experimental | [1] Tokunaga 2009 | Table 1, p. 4, row 14; `ORC-4C5SPHW2CJ.fd1cad` |  |
+| Lattice a | 6.351 Å |  | NbP2; _alloy: Nb 0.333333, P 0.666667_ | model | [1] Tokunaga 2009 | Table 1, p. 4, row 13; `ORC-PJ5CRAIOZK.cad06e` |  |
+| Lattice b | 3.433 Å |  | Nb5P3; _alloy: Nb 0.625, P 0.375_ | experimental | [1] Tokunaga 2009 | Table 1, p. 4, row 8; `ORC-BL442NAHGT.ad38c2` |  |
+| Lattice b | 3.404 Å |  | Nb5P3; _alloy: Nb 0.625, P 0.375_ | model | [1] Tokunaga 2009 | Table 1, p. 4, row 7; `ORC-DSPCSGOWRU.86e465` |  |
+| Lattice b | 17.691 Å |  | Nb7P4; _alloy: Nb 0.636364, P 0.363636_ | model | [1] Tokunaga 2009 | Table 1, p. 4, row 5; `ORC-65KJX7WN5N.8a0fa8` |  |
+| Lattice b | 17.605 Å |  | Nb7P4; _alloy: Nb 0.636364, P 0.363636_ | experimental | [1] Tokunaga 2009 | Table 1, p. 4, row 6; `ORC-6ZWRKIE5M7.c066cf` |  |
+| Lattice b | 9.465 Å |  | Nb8P5; _alloy: Nb 0.615385, P 0.384615_ | experimental | [1] Tokunaga 2009 | Table 1, p. 4, row 10; `ORC-CKNTSFF2JG.77e83a` |  |
+| Lattice b | 7.887 Å |  | NbP2; _alloy: Nb 0.333333, P 0.666667_ | experimental | [1] Tokunaga 2009 | Table 1, p. 4, row 14; `ORC-4C5SPHW2CJ.0f637e` |  |
+| Lattice b | 7.753 Å |  | NbP2; _alloy: Nb 0.333333, P 0.666667_ | model | [1] Tokunaga 2009 | Table 1, p. 4, row 13; `ORC-PJ5CRAIOZK.276b77` |  |
+| Lattice c | 3.902 Å |  | Nb2P in (Fe,Nb)2P | model | [1] Tokunaga 2009 | Table 1, p. 4, row 3; `ORC-VGHOQXXZWL.6173d6` |  |
+| Lattice c | 5.089 Å |  | Nb3P; _alloy: Nb 0.75, P 0.25_ | experimental | [1] Tokunaga 2009 | Table 1, p. 4, row 2; `ORC-AOFCB63XRF.ca56e5` |  |
+| Lattice c | 5.017 Å |  | Nb3P; _alloy: Nb 0.75, P 0.25_ | model | [1] Tokunaga 2009 | Table 1, p. 4, row 1; `ORC-RJHJYID2OE.592aac` |  |
+| Lattice c | 11.483 Å |  | Nb5P3; _alloy: Nb 0.625, P 0.375_ | experimental | [1] Tokunaga 2009 | Table 1, p. 4, row 8; `ORC-BL442NAHGT.8f6bba` |  |
+| Lattice c | 11.385 Å |  | Nb5P3; _alloy: Nb 0.625, P 0.375_ | model | [1] Tokunaga 2009 | Table 1, p. 4, row 7; `ORC-DSPCSGOWRU.a29119` |  |
+| Lattice c | 3.457 Å |  | Nb7P4; _alloy: Nb 0.636364, P 0.363636_ | model | [1] Tokunaga 2009 | Table 1, p. 4, row 5; `ORC-65KJX7WN5N.22cbfc` |  |
+| Lattice c | 3.499 Å |  | Nb7P4; _alloy: Nb 0.636364, P 0.363636_ | experimental | [1] Tokunaga 2009 | Table 1, p. 4, row 6; `ORC-6ZWRKIE5M7.71ffb9` |  |
+| Lattice c | 3.434 Å |  | Nb8P5; _alloy: Nb 0.615385, P 0.384615_ | model | [1] Tokunaga 2009 | Table 1, p. 4, row 9; `ORC-BJE74XCY7S.870450` |  |
+| Lattice c | 3.464 Å |  | Nb8P5; _alloy: Nb 0.615385, P 0.384615_ | experimental | [1] Tokunaga 2009 | Table 1, p. 4, row 10; `ORC-CKNTSFF2JG.b1c4e5` |  |
+| Lattice c | 11.378 Å |  | NbP; _alloy: Nb 0.5, P 0.5_ | experimental | [1] Tokunaga 2009 | Table 1, p. 4, row 12; `ORC-D6QEQEI6SG.82bdbb` |  |
+| Lattice c | 11.767 Å |  | NbP; _alloy: Nb 0.5, P 0.5_ | model | [1] Tokunaga 2009 | Table 1, p. 4, row 11; `ORC-ZN6HQHNNJF.c5cf9e` |  |
+| Lattice c | 3.84 Å |  | NbP2; _alloy: Nb 0.333333, P 0.666667_ | experimental | [1] Tokunaga 2009 | Table 1, p. 4, row 14; `ORC-4C5SPHW2CJ.49c3c0` |  |
+| Lattice c | 3.775 Å |  | NbP2; _alloy: Nb 0.333333, P 0.666667_ | model | [1] Tokunaga 2009 | Table 1, p. 4, row 13; `ORC-PJ5CRAIOZK.cf7585` |  |
+| lattice gamma | 120 ° |  | Nb2P in (Fe,Nb)2P | model | [1] Tokunaga 2009 | Table 1, p. 4, row 3; `ORC-VGHOQXXZWL.d3ae98` |  |
+| lattice gamma | 130.5 ° |  | Nb7P4; _alloy: Nb 0.636364, P 0.363636_ | model | [1] Tokunaga 2009 | Table 1, p. 4, row 5; `ORC-65KJX7WN5N.f78b7b` |  |
+| lattice gamma | 130.5 ° |  | Nb7P4; _alloy: Nb 0.636364, P 0.363636_ | experimental | [1] Tokunaga 2009 | Table 1, p. 4, row 6; `ORC-6ZWRKIE5M7.9904e9` |  |
 
 ## Sources
 
@@ -157,4 +157,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -14,18 +14,18 @@ Table: Enthalpy of formation of CoZr2 reported in the literature (12)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -33 kJ/mol-atom ± 2 | CoZr2 | 1290 | experimental |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [1] Durga 2010; _cites Gachon 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990024-x) | Table 5, p. 5, row 33 |  |
-| -33 per mol-atom ± 2000 | CoZr2 | 1290 | experimental |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [2] Zhou 2021; _cites Gachon 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990024-x) | Table 3, p. 5, row 19 |  |
-| -26.4 per mol-atom ± 1000 | CoZr2 | 298.15 | experimental |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [2] Zhou 2021; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900246-1) | Table 3, p. 5, row 20 |  |
-| -26.4 kJ/mol-atom | CoZr2 | 298.15 | experimental |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [3] Bratberg 2006; _cites Binary 1986_ | Table 6, p. 5, row 7 |  |
-| -26.3 per mol-atom | CoZr2 | 298.15 | experimental |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [2] Zhou 2021; _cites Ohodnicki 2008_ [doi](https://doi.org/10.1103/physrevb.78.144414) | Table 3, p. 5, row 21 |  |
-| -44 kJ/mol-atom | CoZr2 | 298.15 | model |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [3] Bratberg 2006 | Table 6, p. 5, row 9 |  |
-| -44 kJ/mol-atom | CoZr2 | 298.15 | model |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [3] Bratberg 2006; _cites Miedema 1998_ | Table 6, p. 5, row 8 |  |
-| -32.547 per mol-atom | CoZr2 | 1290 | model |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [2] Zhou 2021 | Table 3, p. 5, row 23 |  |
-| -31.166 kJ/mol-atom | CoZr2 | 1290 | model |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [1] Durga 2010 | Table 5, p. 5, row 34 |  |
-| -30.745 per mol-atom | CoZr2 | 298.15 | model |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [2] Zhou 2021; _cites Agraval 2020_ [doi](https://doi.org/10.1007/s11669-020-00805-5) | Table 3, p. 5, row 22 |  |
-| -28.946 per mol-atom | CoZr2 | 298.15 | model |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [2] Zhou 2021 | Table 3, p. 5, row 24 |  |
-| -27.564 kJ/mol-atom | CoZr2 | 298.15 | model |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [1] Durga 2010 | Table 5, p. 5, row 59 |  |
+| -33 kJ/mol-atom ± 2 | CoZr2 | 1290 | experimental |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [1] Durga 2010; _cites Gachon 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990024-x) | Table 5, p. 5, row 33; `ORC-MVSB6SX2V7` |  |
+| -33 per mol-atom ± 2000 | CoZr2 | 1290 | experimental |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [2] Zhou 2021; _cites Gachon 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990024-x) | Table 3, p. 5, row 19; `ORC-YFLVCCB43G` |  |
+| -26.4 per mol-atom ± 1000 | CoZr2 | 298.15 | experimental |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [2] Zhou 2021; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900246-1) | Table 3, p. 5, row 20; `ORC-IYC4PGUJTW` |  |
+| -26.4 kJ/mol-atom | CoZr2 | 298.15 | experimental |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [3] Bratberg 2006; _cites Binary 1986_ | Table 6, p. 5, row 7; `ORC-JNEHYRHA5S` |  |
+| -26.3 per mol-atom | CoZr2 | 298.15 | experimental |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [2] Zhou 2021; _cites Ohodnicki 2008_ [doi](https://doi.org/10.1103/physrevb.78.144414) | Table 3, p. 5, row 21; `ORC-NC3WQHQ7DK` |  |
+| -44 kJ/mol-atom | CoZr2 | 298.15 | model |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [3] Bratberg 2006 | Table 6, p. 5, row 9; `ORC-EQUGODDSGW` |  |
+| -44 kJ/mol-atom | CoZr2 | 298.15 | model |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [3] Bratberg 2006; _cites Miedema 1998_ | Table 6, p. 5, row 8; `ORC-Y2CGAEPXKG` |  |
+| -32.547 per mol-atom | CoZr2 | 1290 | model |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [2] Zhou 2021 | Table 3, p. 5, row 23; `ORC-AATVX7VDFM` |  |
+| -31.166 kJ/mol-atom | CoZr2 | 1290 | model |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [1] Durga 2010 | Table 5, p. 5, row 34; `ORC-E7LLKP5ECM` |  |
+| -30.745 per mol-atom | CoZr2 | 298.15 | model |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [2] Zhou 2021; _cites Agraval 2020_ [doi](https://doi.org/10.1007/s11669-020-00805-5) | Table 3, p. 5, row 22; `ORC-A5CCDQTW52` |  |
+| -28.946 per mol-atom | CoZr2 | 298.15 | model |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [2] Zhou 2021 | Table 3, p. 5, row 24; `ORC-63UZV65L23` |  |
+| -27.564 kJ/mol-atom | CoZr2 | 298.15 | model |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [1] Durga 2010 | Table 5, p. 5, row 59; `ORC-6DNW4CO4AB` |  |
 
 ### Uncertainty budget
 
@@ -114,4 +114,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

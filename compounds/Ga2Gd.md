@@ -14,14 +14,14 @@ Table: Enthalpy of formation of Ga2Gd reported in the literature (8)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -83.5 kJ/mol-atom | Ga2Gd | 298.15 | experimental |  | [Ga–Gd](https://data.orchid-project.org/systems/GA-GD.html) | [1] Boukideur 2020; _cites Bayanov 1975_ | Table 4, p. 4, row 5 |  |
-| -72.8 kJ/mol-atom ± 2.8 | Ga2Gd | 1373 | experimental | Calorimetry | [Ga–Gd](https://data.orchid-project.org/systems/GA-GD.html) | [2] Tamim 2023; _cites Meschel 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2900913-6) | Table 2, p. 8, row 20 |  |
-| -72.8 kJ/mol-atom | Ga2Gd | 298.15 | experimental |  | [Ga–Gd](https://data.orchid-project.org/systems/GA-GD.html) | [1] Boukideur 2020; _cites Meschel 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2900913-6) | Table 4, p. 4, row 4 |  |
-| -65.03 kJ/mol-atom ± 1 | Ga2Gd | 298.15 | experimental | EMF | [Ga–Gd](https://data.orchid-project.org/systems/GA-GD.html) | [2] Tamim 2023; _cites Bayanov 1975_ | Table 2, p. 8, row 21 |  |
-| -261.5 unspecified ± 5.9 | Ga2Gd | 823.15 | model |  | [Ga–Gd](https://data.orchid-project.org/systems/GA-GD.html) | [3] Liu 2019; _cites Kober 1983_ | p. 4 | “The enthalpy, entropy, and Gibbs energy of formation of ­Ga2Gd from liquid Ga and solid Gd at 550 °C were as: - 261.5 ± 5.9 kJ/mol, - 88.3 ± 7.1 J/mol, and - 189.0 ± 0.4 kJ/mol \[42\], respectively, which was cited from Ref. \[17\].” |
-| -72.8 kJ/mol-atom | Ga2Gd |  | model |  | [Ga–Gd](https://data.orchid-project.org/systems/GA-GD.html) | [1] Boukideur 2020 | Table 4, p. 4, row 6 |  |
-| -65.03 kJ/mol-atom | Ga2Gd |  | model | Emf (723–923 K) optimization | [Ga–Gd](https://data.orchid-project.org/systems/GA-GD.html) | [1] Boukideur 2020; _cites De 2014_ | Table 4, p. 4, row 3 |  |
-| -63.156 kJ/mol-atom | Ga2Gd | 298.15 | model |  | [Ga–Gd](https://data.orchid-project.org/systems/GA-GD.html) | [2] Tamim 2023 | Table 2, p. 8, row 22 |  |
+| -83.5 kJ/mol-atom | Ga2Gd | 298.15 | experimental |  | [Ga–Gd](https://data.orchid-project.org/systems/GA-GD.html) | [1] Boukideur 2020; _cites Bayanov 1975_ | Table 4, p. 4, row 5; `ORC-7Z3D4WRJUL.781bf8` |  |
+| -72.8 kJ/mol-atom ± 2.8 | Ga2Gd | 1373 | experimental | Calorimetry | [Ga–Gd](https://data.orchid-project.org/systems/GA-GD.html) | [2] Tamim 2023; _cites Meschel 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2900913-6) | Table 2, p. 8, row 20; `ORC-BVCQUXSCDU` |  |
+| -72.8 kJ/mol-atom | Ga2Gd | 298.15 | experimental |  | [Ga–Gd](https://data.orchid-project.org/systems/GA-GD.html) | [1] Boukideur 2020; _cites Meschel 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2900913-6) | Table 4, p. 4, row 4; `ORC-PZ3LQ4A5M5.069e35` |  |
+| -65.03 kJ/mol-atom ± 1 | Ga2Gd | 298.15 | experimental | EMF | [Ga–Gd](https://data.orchid-project.org/systems/GA-GD.html) | [2] Tamim 2023; _cites Bayanov 1975_ | Table 2, p. 8, row 21; `ORC-36NWZATDHS` |  |
+| -261.5 unspecified ± 5.9 | Ga2Gd | 823.15 | model |  | [Ga–Gd](https://data.orchid-project.org/systems/GA-GD.html) | [3] Liu 2019; _cites Kober 1983_ | p. 4; `ORC-OCTMVBOCTI` | “The enthalpy, entropy, and Gibbs energy of formation of ­Ga2Gd from liquid Ga and solid Gd at 550 °C were as: - 261.5 ± 5.9 kJ/mol, - 88.3 ± 7.1 J/mol, and - 189.0 ± 0.4 kJ/mol \[42\], respectively, which was cited from Ref. \[17\].” |
+| -72.8 kJ/mol-atom | Ga2Gd |  | model |  | [Ga–Gd](https://data.orchid-project.org/systems/GA-GD.html) | [1] Boukideur 2020 | Table 4, p. 4, row 6; `ORC-FUJDIV6P2R.024172` |  |
+| -65.03 kJ/mol-atom | Ga2Gd |  | model | Emf (723–923 K) optimization | [Ga–Gd](https://data.orchid-project.org/systems/GA-GD.html) | [1] Boukideur 2020; _cites De 2014_ | Table 4, p. 4, row 3; `ORC-B7RUYCFAHM.206e57` |  |
+| -63.156 kJ/mol-atom | Ga2Gd | 298.15 | model |  | [Ga–Gd](https://data.orchid-project.org/systems/GA-GD.html) | [2] Tamim 2023 | Table 2, p. 8, row 22; `ORC-7NVFYBPJPK` |  |
 
 ### Uncertainty budget
 
@@ -106,4 +106,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

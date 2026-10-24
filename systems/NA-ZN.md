@@ -47,16 +47,16 @@ Table: Invariant reactions reported in the literature for the Na–Zn system (10
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 830 | liq + liq \<-> NaZn13 | NaZn13: Na 0.071429, Zn 0.928571; liq: Zn 0.945 | model | [1] Liu 2009 | Table 4, p. 4, row 1 |  |
-| 830 | liq + liq \<-> NaZn13 | NaZn13: Na 0.071429, Zn 0.928571; liq: Zn 0.975 | experimental | [1] Liu 2009; _cites Hausler 1958_ | Table 4, p. 4, row 4 |  |
-| 830 | liq + liq \<-> NaZn13 | NaZn13: Na 0.071429, Zn 0.928571 | experimental | [1] Liu 2009; _cites Mathewson 1906_ | Table 4, p. 4, row 2 |  |
-| 821 | liq + liq \<-> NaZn13 | NaZn13: Na 0.071429, Zn 0.928571 | experimental | [1] Liu 2009; _cites Cetin 1991_ [doi](https://doi.org/10.1007/bf02663664) | Table 4, p. 4, row 3 |  |
-| 693 | liq \<-> NaZn13 + hcp | NaZn13: Na 0.071429, Zn 0.928571; liq: Zn 0.9998 | model | [1] Liu 2009 | Table 4, p. 4, row 5 |  |
-| 692.4 | liq \<-> NaZn13 + hcp | NaZn13: Na 0.071429, Zn 0.928571 | experimental | [1] Liu 2009; _cites Hausler 1958_ | Table 4, p. 4, row 6 |  |
-| 371 | liq \<-> bcc + NaZn13 | NaZn13: Na 0.071429, Zn 0.928571 | experimental | [1] Liu 2009; _cites Mathewson 1906_ | Table 4, p. 4, row 8 |  |
-| 371 | liq \<-> bcc + NaZn13 | NaZn13: Na 0.071429, Zn 0.928571 | experimental | [1] Liu 2009; _cites Cetin 1991_ [doi](https://doi.org/10.1007/bf02663664) | Table 4, p. 4, row 9 |  |
-| 371 | liq \<-> bcc + NaZn13 | NaZn13: Na 0.071429, Zn 0.928571; liq: Zn 1.000e-4 | model | [1] Liu 2009 | Table 4, p. 4, row 7 |  |
-| 370 | liq \<-> bcc + NaZn13 | NaZn13: Na 0.071429, Zn 0.928571 | experimental | [1] Liu 2009; _cites Hausler 1958_ | Table 4, p. 4, row 10 |  |
+| 830 | liq + liq \<-> NaZn13 | NaZn13: Na 0.071429, Zn 0.928571; liq: Zn 0.945 | model | [1] Liu 2009 | Table 4, p. 4, row 1; `ORC-2KO2MNZB7D` |  |
+| 830 | liq + liq \<-> NaZn13 | NaZn13: Na 0.071429, Zn 0.928571; liq: Zn 0.975 | experimental | [1] Liu 2009; _cites Hausler 1958_ | Table 4, p. 4, row 4; `ORC-UHN6FDPFOI` |  |
+| 830 | liq + liq \<-> NaZn13 | NaZn13: Na 0.071429, Zn 0.928571 | experimental | [1] Liu 2009; _cites Mathewson 1906_ | Table 4, p. 4, row 2; `ORC-YHGWBAK4I2` |  |
+| 821 | liq + liq \<-> NaZn13 | NaZn13: Na 0.071429, Zn 0.928571 | experimental | [1] Liu 2009; _cites Cetin 1991_ [doi](https://doi.org/10.1007/bf02663664) | Table 4, p. 4, row 3; `ORC-6C3WJBHX5W` |  |
+| 693 | liq \<-> NaZn13 + hcp | NaZn13: Na 0.071429, Zn 0.928571; liq: Zn 0.9998 | model | [1] Liu 2009 | Table 4, p. 4, row 5; `ORC-Q6EBBOMTXT` |  |
+| 692.4 | liq \<-> NaZn13 + hcp | NaZn13: Na 0.071429, Zn 0.928571 | experimental | [1] Liu 2009; _cites Hausler 1958_ | Table 4, p. 4, row 6; `ORC-N2DY67CZ33` |  |
+| 371 | liq \<-> bcc + NaZn13 | NaZn13: Na 0.071429, Zn 0.928571 | experimental | [1] Liu 2009; _cites Mathewson 1906_ | Table 4, p. 4, row 8; `ORC-BAQRLNK7U6` |  |
+| 371 | liq \<-> bcc + NaZn13 | NaZn13: Na 0.071429, Zn 0.928571 | experimental | [1] Liu 2009; _cites Cetin 1991_ [doi](https://doi.org/10.1007/bf02663664) | Table 4, p. 4, row 9; `ORC-NOF2NCQU6Y` |  |
+| 371 | liq \<-> bcc + NaZn13 | NaZn13: Na 0.071429, Zn 0.928571; liq: Zn 1.000e-4 | model | [1] Liu 2009 | Table 4, p. 4, row 7; `ORC-YWGKNKCQVI` |  |
+| 370 | liq \<-> bcc + NaZn13 | NaZn13: Na 0.071429, Zn 0.928571 | experimental | [1] Liu 2009; _cites Hausler 1958_ | Table 4, p. 4, row 10; `ORC-FS7HLHEVKZ` |  |
 
 ## Sources
 
@@ -121,4 +121,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

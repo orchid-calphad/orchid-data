@@ -14,10 +14,10 @@ Table: Enthalpy of formation of HfNb reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -6.162 kJ/mol (basis unstated) | HfNb (B19) | 0 | DFT | ab-initio | [Hf–Nb](https://data.orchid-project.org/systems/HF-NB.html) | [1] Ghosh 2002 | Table 6, p. 11, row 4 |  |
-| 5.746 kJ/mol (basis unstated) | HfNb (B8₁) | 0 | DFT | ab-initio | [Hf–Nb](https://data.orchid-project.org/systems/HF-NB.html) | [1] Ghosh 2002 | Table 6, p. 11, row 3 |  |
-| 8.757 kJ/mol (basis unstated) | HfNb (B19) | 0 | DFT | ab-initio | [Hf–Nb](https://data.orchid-project.org/systems/HF-NB.html) | [1] Ghosh 2002 | Table 6, p. 11, row 4 |  |
-| 20.666 kJ/mol (basis unstated) | HfNb (B8₁) | 0 | DFT | ab-initio | [Hf–Nb](https://data.orchid-project.org/systems/HF-NB.html) | [1] Ghosh 2002 | Table 6, p. 11, row 3 |  |
+| -6.162 kJ/mol (basis unstated) | HfNb (B19) | 0 | DFT | ab-initio | [Hf–Nb](https://data.orchid-project.org/systems/HF-NB.html) | [1] Ghosh 2002 | Table 6, p. 11, row 4; `ORC-F2FGAJE5NJ.d96082` |  |
+| 5.746 kJ/mol (basis unstated) | HfNb (B8₁) | 0 | DFT | ab-initio | [Hf–Nb](https://data.orchid-project.org/systems/HF-NB.html) | [1] Ghosh 2002 | Table 6, p. 11, row 3; `ORC-H4RFX3GK3N.74e327` |  |
+| 8.757 kJ/mol (basis unstated) | HfNb (B19) | 0 | DFT | ab-initio | [Hf–Nb](https://data.orchid-project.org/systems/HF-NB.html) | [1] Ghosh 2002 | Table 6, p. 11, row 4; `ORC-F2FGAJE5NJ.bad407` |  |
+| 20.666 kJ/mol (basis unstated) | HfNb (B8₁) | 0 | DFT | ab-initio | [Hf–Nb](https://data.orchid-project.org/systems/HF-NB.html) | [1] Ghosh 2002 | Table 6, p. 11, row 3; `ORC-H4RFX3GK3N.5ce680` |  |
 
 ### Uncertainty budget
 
@@ -83,4 +83,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -62,75 +62,75 @@ Table: Invariant reactions reported in the literature for the Fe–Sb system (69
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1423 | polymorphic: γ(Fe) -> α(Fe) | γ(Fe): Sb 0.0116; α(Fe): Sb 0.0168 | model | [1] Li 2014 | Table 2, p. 3, row 6 |  |
-| 1423 | polymorphic: γ(Fe) -> α(Fe) | γ(Fe): Sb 0.007; α(Fe): Sb 0.014 | experimental | [1] Li 2014; _cites Nageswararso 1974_ | Table 2, p. 3, row 2 |  |
-| 1423 | polymorphic: γ(Fe) -> α(Fe) | α(Fe): Sb 0.021 | experimental | [1] Li 2014; _cites Jones 1934_ | Table 2, p. 3, row 1 |  |
-| 1423 | polymorphic: γ(Fe) -> α(Fe) | γ(Fe): Sb 0.0093; α(Fe): Sb 0.0022 | experimental | [1] Li 2014; _cites Svechnikov 1938_ | Table 2, p. 3, row 3 |  |
-| 1423 | polymorphic: γ(Fe) -> α(Fe) | γ(Fe): Sb 0.011; α(Fe): Sb 0.0168 | unspecified | [1] Li 2014; _cites Kubaschewski 1982_ | Table 2, p. 3, row 5 |  |
-| 1423 | polymorphic: γ(Fe) -> α(Fe) | γ(Fe): Sb 0.0096; α(Fe): Sb 0.017 | experimental | [1] Li 2014; _cites Hillert 1967_ | Table 2, p. 3, row 4 |  |
-| 1303.39 | congruent melting: Liq -> β(FeSb) | L: Sb 0.4289; β(FeSb): Sb 0.4289 | model | [1] Li 2014 | Table 2, p. 3, row 22 |  |
-| 1298 | congruent melting: Liq -> β(FeSb) | L: Sb 0.43; β(FeSb): Sb 0.43 | experimental | [1] Li 2014; _cites Richter 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902597-2) | Table 2, p. 3, row 20 |  |
-| 1298 | congruent melting: Liq -> β(FeSb) | L: Fe 0.5, Sb 0.5; β(FeSb): Fe 0.5, Sb 0.5 | experimental | [1] Li 2014; _cites Hagg 1929_ | Table 2, p. 3, row 21 |  |
-| 1293 | congruent melting: Liq -> β(FeSb) | L: Sb 0.44; β(FeSb): Sb 0.44 | experimental | [1] Li 2014; _cites Vogel 1935_ | Table 2, p. 3, row 16 |  |
-| 1292 | congruent melting: Liq -> β(FeSb) | L: Sb 0.42; β(FeSb): Sb 0.42 | experimental | [1] Li 2014; _cites Maier 1972_ | Table 2, p. 3, row 17 |  |
-| 1292 | congruent melting: Liq -> β(FeSb) | L: Sb 0.42; β(FeSb): Sb 0.42 | unspecified | [1] Li 2014; _cites Kubaschewski 1982_ | Table 2, p. 3, row 18 |  |
-| 1287 | congruent melting: Liq -> β(FeSb) | L: Sb 0.394; β(FeSb): Sb 0.394 | experimental | [1] Li 2014; _cites Kurnakow 1908_ [doi](https://doi.org/10.1002/zaac.19080580102) | Table 2, p. 3, row 15 |  |
-| 1283 | congruent melting: Liq -> β(FeSb) | L: Sb 0.44; β(FeSb): Sb 0.44 | experimental | [1] Li 2014; _cites Feschotte 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990235-x) | Table 2, p. 3, row 19 |  |
-| 1282.15 | eutectic: Liq = αFe + ε-FeSb | Liq: Sb 0.33; αFe: Sb 0.09; ε-FeSb: Sb 0.4 | experimental | [2] Boa 2008; _cites Richter 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902597-2) | Table 10, p. 9, row 5 |  |
-| 1282 | eutectic: Liq -> α(Fe) + β(FeSb) | L: Sb 0.33; β(FeSb): Sb 0.44 | experimental | [1] Li 2014; _cites Richter 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902597-2) | Table 2, p. 3, row 12 |  |
-| 1280.15 | eutectic |  | experimental | [2] Boa 2008 | p. 3 | “The DTA curve during the heating of Fe0.65 Sb0.35 alloy (see Fig. 2) shows a shoulder associated with the invariant eutectic reaction (e1 ) : L = ε-FeSb + αFe at a mean temperature of 1280.15 K, and a strong peak associated with the ε-FeSb liquidus at 1293.15 K.” |
-| 1280.15 | eutectic: Liq -> α(Fe) + β(FeSb) |  | experimental | [1] Li 2014; _cites Hagg 1929_ | Table 2, p. 3, row 13 |  |
-| 1280.15 | eutectic: Liq = αFe + ε-FeSb | ε-FeSb: Sb 0.5 | experimental | [2] Boa 2008 | Table 10, p. 9, row 4 |  |
-| 1280.03 | eutectic: Liq -> α(Fe) + β(FeSb) | L: Sb 0.3313; α(Fe): Sb 0.0594; β(FeSb): Sb 0.4212 | model | [1] Li 2014 | Table 2, p. 3, row 14 |  |
-| 1280 | eutectic: Liq = αFe + ε-FeSb | Liq: Sb 0.3323; αFe: Sb 0.0532; ε-FeSb: Sb 0.4032 | model | [2] Boa 2008 | Table 10, p. 9, row 3 |  |
-| 1276 | eutectic: Liq -> α(Fe) + β(FeSb) | L: Sb 0.34; α(Fe): Sb 0.09; β(FeSb): Sb 0.41 | experimental | [1] Li 2014; _cites Feschotte 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990235-x) | Table 2, p. 3, row 11 |  |
-| 1275 | eutectic: Liq -> α(Fe) + β(FeSb) | L: Sb 0.323; α(Fe): Sb 0.024; β(FeSb): Sb 0.354 | experimental | [1] Li 2014; _cites Kurnakow 1908_ [doi](https://doi.org/10.1002/zaac.19080580102) | Table 2, p. 3, row 7 |  |
-| 1271 | eutectic: L = α-Fe + ε-FeSb | L: Sb 0.3252; α-Fe: Sb 0.0526; ε-FeSb: Sb 0.4072 | model | [3] Pei 1995 | Table 3, p. 8, row 4 |  |
-| 1269 | eutectic: L = α-Fe + ε-FeSb | L: Sb 0.346; α-Fe: Sb 0.05; ε-FeSb: Sb 0.4 | unspecified | [3] Pei 1995; _cites Massalski_ | Table 3, p. 8, row 6 |  |
-| 1269 | eutectic: Liq -> α(Fe) + β(FeSb) | L: Sb 0.346; α(Fe): Sb 0.05; β(FeSb): Sb 0.39 | unspecified | [1] Li 2014; _cites Kubaschewski 1982_ | Table 2, p. 3, row 10 |  |
-| 1269 | eutectic |  | experimental | [2] Boa 2008; _cites Okamoto 1993_ | p. 2 | “Three invariant reactions were distinguished: two eutectic reactions at 1269 and 901 K \[31\], respectively, and one peritectic reaction at 1011 K \[31\].” |
-| 1269 | eutectic: L = α-Fe + ε-FeSb | L: Sb 0.346; α-Fe: Sb 0.05; ε-FeSb: Sb 0.39 | unspecified | [3] Pei 1995; _cites ref. 3_ | Table 3, p. 8, row 5 |  |
-| 1269 | eutectic |  | experimental | [3] Pei 1995; _cites Maier 1972_ | p. 3 | “The Liquid t) uFe(BCC) + &-FeSb eutectic data adopted by both Kubaschewski \[31 and Okamoto 141are the same, 1269 K at 34.6 at.% Sb from Maier and Wachtel\[201 who studied the system by means of magneto-thermal” |
-| 1269 | eutectic: Liq -> α(Fe) + β(FeSb) | L: Sb 0.346; α(Fe): Sb 0.154; β(FeSb): Sb 0.39 | experimental | [1] Li 2014; _cites Maier 1972_ | Table 2, p. 3, row 9 |  |
-| 1261 | eutectic: Liq -> α(Fe) + β(FeSb) | L: Sb 0.382 | experimental | [1] Li 2014; _cites Geller 1939_ [doi](https://doi.org/10.1002/srin.193900887) | Table 2, p. 3, row 8 |  |
-| 1023.15 | peritectic: Liq + ε-FeSb = FeSb2 | Liq: Sb 0.9; ε-FeSb: Sb 0.481; FeSb2: Sb 0.6667 | experimental | [2] Boa 2008; _cites Richter 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902597-2) | Table 10, p. 9, row 8 |  |
-| 1023 | peritectic: Liq + β(FeSb) -> ζ2FeSb2 | L: Sb 0.9; β(FeSb): Fe 0.5, Sb 0.5; ζ2FeSb2: Sb 0.667 | experimental | [1] Li 2014; _cites Richter 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902597-2) | Table 2, p. 3, row 29 |  |
-| 1022.44 | peritectic: Liq + β(FeSb) -> ζ2FeSb2 | L: Sb 0.8743; β(FeSb): Sb 0.4937; ζ2FeSb2: Sb 0.6667 | model | [1] Li 2014 | Table 2, p. 3, row 31 |  |
-| 1022.15 | peritectic: Liq + ε-FeSb = FeSb2 | ε-FeSb: Sb 0.5; FeSb2: Sb 0.6667 | experimental | [2] Boa 2008 | Table 10, p. 9, row 7 |  |
-| 1022.15 | peritectic: Liq + β(FeSb) -> ζ2FeSb2 | β(FeSb): Fe 0.5, Sb 0.5; ζ2FeSb2: Sb 0.667 | experimental | [1] Li 2014; _cites Hagg 1929_ | Table 2, p. 3, row 30 |  |
-| 1020 | peritectic: Liq + ε-FeSb = FeSb2 | Liq: Sb 0.8982; ε-FeSb: Sb 0.4829; FeSb2: Sb 0.6667 | model | [2] Boa 2008 | Table 10, p. 9, row 6 |  |
-| 1019 | peritectic: Liq + β(FeSb) -> ζ2FeSb2 | L: Sb 0.856; β(FeSb): Sb 0.49; ζ2FeSb2: Sb 0.667 | experimental | [1] Li 2014; _cites Feschotte 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990235-x) | Table 2, p. 3, row 28 |  |
-| 1019 | peritectic: L + ε-FeSb = FeSb2 | L: Sb 0.8949; ε-FeSb: Sb 0.4845; FeSb2: Sb 0.6667 | model | [3] Pei 1995 | Table 3, p. 8, row 7 |  |
-| 1018 | peritectic |  | experimental | [1] Li 2014; _cites Kjekshus 1977_ [doi](https://doi.org/10.3891/acta.chem.scand.31a-0517) | p. 2 | “Refs. \[31,39,40,45\] identified and confirmed the existence of the intermediate phase ζ2FeSb2 and Refs. \[34,46\] measured its peritectic temperature at 1011 K and 1018 K, respectively.” |
-| 1018 | peritectic: Liq + β(FeSb) -> ζ2FeSb2 | β(FeSb): Fe 0.5, Sb 0.5; ζ2FeSb2: Sb 0.667 | experimental | [1] Li 2014; _cites Kjekshus 1977_ [doi](https://doi.org/10.3891/acta.chem.scand.31a-0517) | Table 2, p. 3, row 27 |  |
-| 1011 | peritectic: L + ε-FeSb = FeSb2 | L: Sb 0.888; ε-FeSb: Sb 0.47; FeSb2: Sb 0.6667 | unspecified | [3] Pei 1995; _cites Massalski_ | Table 3, p. 8, row 9 |  |
-| 1011 | peritectic |  | experimental | [2] Boa 2008; _cites Okamoto 1993_ | p. 2 | “Three invariant reactions were distinguished: two eutectic reactions at 1269 and 901 K \[31\], respectively, and one peritectic reaction at 1011 K \[31\].” |
-| 1011 | peritectic: L + ε-FeSb = FeSb2 | L: Sb 0.888; ε-FeSb: Sb 0.465; FeSb2: Sb 0.6667 | unspecified | [3] Pei 1995; _cites ref. 3_ | Table 3, p. 8, row 8 |  |
-| 1011 | peritectic: Liq + β(FeSb) -> ζ2FeSb2 | L: Sb 0.888; β(FeSb): Sb 0.487; ζ2FeSb2: Sb 0.667 | experimental | [1] Li 2014; _cites Maier 1972_ | Table 2, p. 3, row 25 |  |
-| 1011 | peritectic: Liq + β(FeSb) -> ζ2FeSb2 | L: Sb 0.888; β(FeSb): Fe 0.5, Sb 0.5; ζ2FeSb2: Sb 0.667 | unspecified | [1] Li 2014; _cites Kubaschewski 1982_ | Table 2, p. 3, row 26 |  |
-| 1011 | peritectic |  | experimental | [1] Li 2014; _cites Maier 1972_ | p. 2 | “Refs. \[31,39,40,45\] identified and confirmed the existence of the intermediate phase ζ2FeSb2 and Refs. \[34,46\] measured its peritectic temperature at 1011 K and 1018 K, respectively.” |
-| 1011 | peritectic |  | experimental | [3] Pei 1995 | p. 4 | “The stoichiometric phase, FeSb,, is formed peritectically at 1011 K with a-FeSb at about 47 at.% Sb and liquid at 88.8 at.% Sb.” |
-| 1005 | peritectic: Liq + β(FeSb) -> ζ2FeSb2 | L: Sb 0.861; β(FeSb): Sb 0.394; ζ2FeSb2: Sb 0.667 | experimental | [1] Li 2014; _cites Kurnakow 1908_ [doi](https://doi.org/10.1002/zaac.19080580102) | Table 2, p. 3, row 23 |  |
-| 1003 | peritectic: Liq + β(FeSb) -> ζ2FeSb2 | L: Sb 0.861; β(FeSb): Fe 0.5, Sb 0.5; ζ2FeSb2: Sb 0.667 | experimental | [1] Li 2014; _cites Geller 1939_ [doi](https://doi.org/10.1002/srin.193900887) | Table 2, p. 3, row 24 |  |
-| 901 | eutectic |  | experimental | [2] Boa 2008; _cites Okamoto 1993_ | p. 2 | “Three invariant reactions were distinguished: two eutectic reactions at 1269 and 901 K \[31\], respectively, and one peritectic reaction at 1011 K \[31\].” |
-| 901 | eutectic: L = FeSb2 + α-Sb | L: Sb 0.992; FeSb2: Sb 0.6667; α-Sb: Sb 1 | unspecified | [3] Pei 1995; _cites Massalski_ | Table 3, p. 8, row 12 |  |
-| 901 | eutectic |  | model | [3] Pei 1995; _cites Massalski_ | p. 4 | “Kubaschewski \[3\] quoted the eutectic temperature between FeSb, and pure Sb(Rhombohedral) as 887 K \[20\], and Okamoto \[4\] assessed it as 901 K, which is in agreement with Kurnakov \[231.” |
-| 901 | eutectic: Liq -> ζ2FeSb2 + Sb | L: Sb 0.968; ζ2FeSb2: Sb 0.667; Sb: Sb 1 | experimental | [1] Li 2014; _cites Kurnakow 1908_ [doi](https://doi.org/10.1002/zaac.19080580102) | Table 2, p. 3, row 32 |  |
-| 900.28 | eutectic: Liq -> ζ2FeSb2 + Sb | L: Sb 0.9891; ζ2FeSb2: Sb 0.6667; Sb: Sb 1 | model | [1] Li 2014 | Table 2, p. 3, row 39 |  |
-| 898 | eutectic: Liq = FeSb2 + Sb | Liq: Sb 0.9815; FeSb2: Sb 0.6667; Sb: Sb 1 | model | [2] Boa 2008 | Table 10, p. 9, row 9 |  |
-| 898 | eutectic: L = FeSb2 + α-Sb | L: Sb 0.9812; FeSb2: Sb 0.6667; α-Sb: Sb 1 | model | [3] Pei 1995 | Table 3, p. 8, row 10 |  |
-| 897.15 | eutectic: Liq = FeSb2 + Sb | Liq: Sb 0.968; FeSb2: Sb 0.6667; Sb: Sb 1 | experimental | [2] Boa 2008; _cites Richter 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902597-2) | Table 10, p. 9, row 11 |  |
-| 897.15 | eutectic: Liq = FeSb2 + Sb | FeSb2: Sb 0.6667; Sb: Sb 1 | experimental | [2] Boa 2008 | Table 10, p. 9, row 10 |  |
-| 897 | eutectic: Liq -> ζ2FeSb2 + Sb | ζ2FeSb2: Sb 0.667 | experimental | [1] Li 2014; _cites Hagg 1929_ | Table 2, p. 3, row 38 |  |
-| 897 | eutectic: Liq -> ζ2FeSb2 + Sb | ζ2FeSb2: Sb 0.667; Sb: Sb 1 | experimental | [1] Li 2014; _cites Richter 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902597-2) | Table 2, p. 3, row 37 |  |
-| 894 | eutectic: Liq -> ζ2FeSb2 + Sb | L: Sb 0.965; ζ2FeSb2: Sb 0.667; Sb: Sb 1 | experimental | [1] Li 2014; _cites Feschotte 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990235-x) | Table 2, p. 3, row 36 |  |
-| 892 | eutectic: Liq -> ζ2FeSb2 + Sb | L: Sb 0.982; ζ2FeSb2: Sb 0.667; Sb: Sb 1 | experimental | [1] Li 2014; _cites Geller 1939_ [doi](https://doi.org/10.1002/srin.193900887) | Table 2, p. 3, row 33 |  |
-| 887 | eutectic: Liq -> ζ2FeSb2 + Sb | L: Sb 0.992; ζ2FeSb2: Sb 0.667; Sb: Sb 1 | unspecified | [1] Li 2014; _cites Kubaschewski 1982_ | Table 2, p. 3, row 35 |  |
-| 887 | eutectic: L = FeSb2 + α-Sb | L: Sb 0.992; FeSb2: Sb 0.6667; α-Sb: Sb 1 | unspecified | [3] Pei 1995; _cites ref. 3_ | Table 3, p. 8, row 11 |  |
-| 887 | eutectic: Liq -> ζ2FeSb2 + Sb | L: Sb 0.992; ζ2FeSb2: Sb 0.667; Sb: Sb 1 | experimental | [1] Li 2014; _cites Maier 1972_ | Table 2, p. 3, row 34 |  |
-| 887 | eutectic |  | experimental | [3] Pei 1995; _cites Maier 1972_ | p. 4 | “Kubaschewski \[3\] quoted the eutectic temperature between FeSb, and pure Sb(Rhombohedral) as 887 K \[20\], and Okamoto \[4\] assessed it as 901 K, which is in agreement with Kurnakov \[231.” |
-| 549.4 | peritectic: L + FeSb2 = β + ε-FeSb |  | experimental | [2] Boa 2008 | p. 6 | “Combining the EPMA results with the data from DTA and DSC experiments, three invariant reactions were obtained: two transitory peritectic reactions at 549.40 K (U1): L + FeSb2 = β + ε-FeSb and 546.50 K (U2): L + ε-FeSb = β + αFe and one ternary monotectic reaction at 1264.25 K (M): L1 = L2 + Fe + ε-FeSb.” |
-| 546.5 | peritectic: L + ε-FeSb = β + αFe |  | experimental | [2] Boa 2008 | p. 6 | “Combining the EPMA results with the data from DTA and DSC experiments, three invariant reactions were obtained: two transitory peritectic reactions at 549.40 K (U1): L + FeSb2 = β + ε-FeSb and 546.50 K (U2): L + ε-FeSb = β + αFe and one ternary monotectic reaction at 1264.25 K (M): L1 = L2 + Fe + ε-FeSb.” |
+| 1423 | polymorphic: γ(Fe) -> α(Fe) | γ(Fe): Sb 0.0116; α(Fe): Sb 0.0168 | model | [1] Li 2014 | Table 2, p. 3, row 6; `ORC-7ZTWXWL5ZV` |  |
+| 1423 | polymorphic: γ(Fe) -> α(Fe) | γ(Fe): Sb 0.007; α(Fe): Sb 0.014 | experimental | [1] Li 2014; _cites Nageswararso 1974_ | Table 2, p. 3, row 2; `ORC-CXF32RFAMY` |  |
+| 1423 | polymorphic: γ(Fe) -> α(Fe) | α(Fe): Sb 0.021 | experimental | [1] Li 2014; _cites Jones 1934_ | Table 2, p. 3, row 1; `ORC-GON2AZ4NXR` |  |
+| 1423 | polymorphic: γ(Fe) -> α(Fe) | γ(Fe): Sb 0.0093; α(Fe): Sb 0.0022 | experimental | [1] Li 2014; _cites Svechnikov 1938_ | Table 2, p. 3, row 3; `ORC-HO346JYJMU` |  |
+| 1423 | polymorphic: γ(Fe) -> α(Fe) | γ(Fe): Sb 0.011; α(Fe): Sb 0.0168 | unspecified | [1] Li 2014; _cites Kubaschewski 1982_ | Table 2, p. 3, row 5; `ORC-RS6OZYGS6C` |  |
+| 1423 | polymorphic: γ(Fe) -> α(Fe) | γ(Fe): Sb 0.0096; α(Fe): Sb 0.017 | experimental | [1] Li 2014; _cites Hillert 1967_ | Table 2, p. 3, row 4; `ORC-WTRLHT4ZOY` |  |
+| 1303.39 | congruent melting: Liq -> β(FeSb) | L: Sb 0.4289; β(FeSb): Sb 0.4289 | model | [1] Li 2014 | Table 2, p. 3, row 22; `ORC-RVE4YAAM7Q` |  |
+| 1298 | congruent melting: Liq -> β(FeSb) | L: Sb 0.43; β(FeSb): Sb 0.43 | experimental | [1] Li 2014; _cites Richter 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902597-2) | Table 2, p. 3, row 20; `ORC-2K6VG5LMUI` |  |
+| 1298 | congruent melting: Liq -> β(FeSb) | L: Fe 0.5, Sb 0.5; β(FeSb): Fe 0.5, Sb 0.5 | experimental | [1] Li 2014; _cites Hagg 1929_ | Table 2, p. 3, row 21; `ORC-5ZRSP3P4Z7` |  |
+| 1293 | congruent melting: Liq -> β(FeSb) | L: Sb 0.44; β(FeSb): Sb 0.44 | experimental | [1] Li 2014; _cites Vogel 1935_ | Table 2, p. 3, row 16; `ORC-KFGY7CIUQC` |  |
+| 1292 | congruent melting: Liq -> β(FeSb) | L: Sb 0.42; β(FeSb): Sb 0.42 | experimental | [1] Li 2014; _cites Maier 1972_ | Table 2, p. 3, row 17; `ORC-3ICO62DQJ5` |  |
+| 1292 | congruent melting: Liq -> β(FeSb) | L: Sb 0.42; β(FeSb): Sb 0.42 | unspecified | [1] Li 2014; _cites Kubaschewski 1982_ | Table 2, p. 3, row 18; `ORC-J4A6JGOESY` |  |
+| 1287 | congruent melting: Liq -> β(FeSb) | L: Sb 0.394; β(FeSb): Sb 0.394 | experimental | [1] Li 2014; _cites Kurnakow 1908_ [doi](https://doi.org/10.1002/zaac.19080580102) | Table 2, p. 3, row 15; `ORC-XOYD5OBXGR` |  |
+| 1283 | congruent melting: Liq -> β(FeSb) | L: Sb 0.44; β(FeSb): Sb 0.44 | experimental | [1] Li 2014; _cites Feschotte 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990235-x) | Table 2, p. 3, row 19; `ORC-CYBNEAWTVW` |  |
+| 1282.15 | eutectic: Liq = αFe + ε-FeSb | Liq: Sb 0.33; αFe: Sb 0.09; ε-FeSb: Sb 0.4 | experimental | [2] Boa 2008; _cites Richter 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902597-2) | Table 10, p. 9, row 5; `ORC-P65FAE6JUX` |  |
+| 1282 | eutectic: Liq -> α(Fe) + β(FeSb) | L: Sb 0.33; β(FeSb): Sb 0.44 | experimental | [1] Li 2014; _cites Richter 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902597-2) | Table 2, p. 3, row 12; `ORC-JJWMOX52EN` |  |
+| 1280.15 | eutectic |  | experimental | [2] Boa 2008 | p. 3; `ORC-FE2WNKHMOF.439194` | “The DTA curve during the heating of Fe0.65 Sb0.35 alloy (see Fig. 2) shows a shoulder associated with the invariant eutectic reaction (e1 ) : L = ε-FeSb + αFe at a mean temperature of 1280.15 K, and a strong peak associated with the ε-FeSb liquidus at 1293.15 K.” |
+| 1280.15 | eutectic: Liq -> α(Fe) + β(FeSb) |  | experimental | [1] Li 2014; _cites Hagg 1929_ | Table 2, p. 3, row 13; `ORC-QQUAUUKXBN` |  |
+| 1280.15 | eutectic: Liq = αFe + ε-FeSb | ε-FeSb: Sb 0.5 | experimental | [2] Boa 2008 | Table 10, p. 9, row 4; `ORC-XFV4543OI7` |  |
+| 1280.03 | eutectic: Liq -> α(Fe) + β(FeSb) | L: Sb 0.3313; α(Fe): Sb 0.0594; β(FeSb): Sb 0.4212 | model | [1] Li 2014 | Table 2, p. 3, row 14; `ORC-46JIQVYBBJ` |  |
+| 1280 | eutectic: Liq = αFe + ε-FeSb | Liq: Sb 0.3323; αFe: Sb 0.0532; ε-FeSb: Sb 0.4032 | model | [2] Boa 2008 | Table 10, p. 9, row 3; `ORC-SF6ITPW4TZ` |  |
+| 1276 | eutectic: Liq -> α(Fe) + β(FeSb) | L: Sb 0.34; α(Fe): Sb 0.09; β(FeSb): Sb 0.41 | experimental | [1] Li 2014; _cites Feschotte 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990235-x) | Table 2, p. 3, row 11; `ORC-VTOJWOK3FQ` |  |
+| 1275 | eutectic: Liq -> α(Fe) + β(FeSb) | L: Sb 0.323; α(Fe): Sb 0.024; β(FeSb): Sb 0.354 | experimental | [1] Li 2014; _cites Kurnakow 1908_ [doi](https://doi.org/10.1002/zaac.19080580102) | Table 2, p. 3, row 7; `ORC-BXFK7Z52NT` |  |
+| 1271 | eutectic: L = α-Fe + ε-FeSb | L: Sb 0.3252; α-Fe: Sb 0.0526; ε-FeSb: Sb 0.4072 | model | [3] Pei 1995 | Table 3, p. 8, row 4; `ORC-5VLT3Y2CNT` |  |
+| 1269 | eutectic: L = α-Fe + ε-FeSb | L: Sb 0.346; α-Fe: Sb 0.05; ε-FeSb: Sb 0.4 | unspecified | [3] Pei 1995; _cites Massalski_ | Table 3, p. 8, row 6; `ORC-22VFRRHORH` |  |
+| 1269 | eutectic: Liq -> α(Fe) + β(FeSb) | L: Sb 0.346; α(Fe): Sb 0.05; β(FeSb): Sb 0.39 | unspecified | [1] Li 2014; _cites Kubaschewski 1982_ | Table 2, p. 3, row 10; `ORC-3HFBAKE3UA` |  |
+| 1269 | eutectic |  | experimental | [2] Boa 2008; _cites Okamoto 1993_ | p. 2; `ORC-4MHHNMN45I.d7901c` | “Three invariant reactions were distinguished: two eutectic reactions at 1269 and 901 K \[31\], respectively, and one peritectic reaction at 1011 K \[31\].” |
+| 1269 | eutectic: L = α-Fe + ε-FeSb | L: Sb 0.346; α-Fe: Sb 0.05; ε-FeSb: Sb 0.39 | unspecified | [3] Pei 1995; _cites ref. 3_ | Table 3, p. 8, row 5; `ORC-NARY7UEKPR` |  |
+| 1269 | eutectic |  | experimental | [3] Pei 1995; _cites Maier 1972_ | p. 3; `ORC-UV3IYDYWTO` | “The Liquid t) uFe(BCC) + &-FeSb eutectic data adopted by both Kubaschewski \[31 and Okamoto 141are the same, 1269 K at 34.6 at.% Sb from Maier and Wachtel\[201 who studied the system by means of magneto-thermal” |
+| 1269 | eutectic: Liq -> α(Fe) + β(FeSb) | L: Sb 0.346; α(Fe): Sb 0.154; β(FeSb): Sb 0.39 | experimental | [1] Li 2014; _cites Maier 1972_ | Table 2, p. 3, row 9; `ORC-X3IKDAWB5Y` |  |
+| 1261 | eutectic: Liq -> α(Fe) + β(FeSb) | L: Sb 0.382 | experimental | [1] Li 2014; _cites Geller 1939_ [doi](https://doi.org/10.1002/srin.193900887) | Table 2, p. 3, row 8; `ORC-IZ6CQQVBO6` |  |
+| 1023.15 | peritectic: Liq + ε-FeSb = FeSb2 | Liq: Sb 0.9; ε-FeSb: Sb 0.481; FeSb2: Sb 0.6667 | experimental | [2] Boa 2008; _cites Richter 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902597-2) | Table 10, p. 9, row 8; `ORC-EXPWQG7LGD` |  |
+| 1023 | peritectic: Liq + β(FeSb) -> ζ2FeSb2 | L: Sb 0.9; β(FeSb): Fe 0.5, Sb 0.5; ζ2FeSb2: Sb 0.667 | experimental | [1] Li 2014; _cites Richter 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902597-2) | Table 2, p. 3, row 29; `ORC-WOQ6ZFQ56S` |  |
+| 1022.44 | peritectic: Liq + β(FeSb) -> ζ2FeSb2 | L: Sb 0.8743; β(FeSb): Sb 0.4937; ζ2FeSb2: Sb 0.6667 | model | [1] Li 2014 | Table 2, p. 3, row 31; `ORC-VF3WJIODW6` |  |
+| 1022.15 | peritectic: Liq + ε-FeSb = FeSb2 | ε-FeSb: Sb 0.5; FeSb2: Sb 0.6667 | experimental | [2] Boa 2008 | Table 10, p. 9, row 7; `ORC-4YFDSF6YGI` |  |
+| 1022.15 | peritectic: Liq + β(FeSb) -> ζ2FeSb2 | β(FeSb): Fe 0.5, Sb 0.5; ζ2FeSb2: Sb 0.667 | experimental | [1] Li 2014; _cites Hagg 1929_ | Table 2, p. 3, row 30; `ORC-F72MRXTNLB` |  |
+| 1020 | peritectic: Liq + ε-FeSb = FeSb2 | Liq: Sb 0.8982; ε-FeSb: Sb 0.4829; FeSb2: Sb 0.6667 | model | [2] Boa 2008 | Table 10, p. 9, row 6; `ORC-LPQT5ZJXKU` |  |
+| 1019 | peritectic: Liq + β(FeSb) -> ζ2FeSb2 | L: Sb 0.856; β(FeSb): Sb 0.49; ζ2FeSb2: Sb 0.667 | experimental | [1] Li 2014; _cites Feschotte 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990235-x) | Table 2, p. 3, row 28; `ORC-H4JIJR3SUO` |  |
+| 1019 | peritectic: L + ε-FeSb = FeSb2 | L: Sb 0.8949; ε-FeSb: Sb 0.4845; FeSb2: Sb 0.6667 | model | [3] Pei 1995 | Table 3, p. 8, row 7; `ORC-ZE4F5K77SM` |  |
+| 1018 | peritectic |  | experimental | [1] Li 2014; _cites Kjekshus 1977_ [doi](https://doi.org/10.3891/acta.chem.scand.31a-0517) | p. 2; `ORC-UUD5VIHQPY.fd321a` | “Refs. \[31,39,40,45\] identified and confirmed the existence of the intermediate phase ζ2FeSb2 and Refs. \[34,46\] measured its peritectic temperature at 1011 K and 1018 K, respectively.” |
+| 1018 | peritectic: Liq + β(FeSb) -> ζ2FeSb2 | β(FeSb): Fe 0.5, Sb 0.5; ζ2FeSb2: Sb 0.667 | experimental | [1] Li 2014; _cites Kjekshus 1977_ [doi](https://doi.org/10.3891/acta.chem.scand.31a-0517) | Table 2, p. 3, row 27; `ORC-WKGF6ZJ3BB` |  |
+| 1011 | peritectic: L + ε-FeSb = FeSb2 | L: Sb 0.888; ε-FeSb: Sb 0.47; FeSb2: Sb 0.6667 | unspecified | [3] Pei 1995; _cites Massalski_ | Table 3, p. 8, row 9; `ORC-4DLZEXY7CT` |  |
+| 1011 | peritectic |  | experimental | [2] Boa 2008; _cites Okamoto 1993_ | p. 2; `ORC-4MHHNMN45I.99c05a` | “Three invariant reactions were distinguished: two eutectic reactions at 1269 and 901 K \[31\], respectively, and one peritectic reaction at 1011 K \[31\].” |
+| 1011 | peritectic: L + ε-FeSb = FeSb2 | L: Sb 0.888; ε-FeSb: Sb 0.465; FeSb2: Sb 0.6667 | unspecified | [3] Pei 1995; _cites ref. 3_ | Table 3, p. 8, row 8; `ORC-5FVFUV6QEW` |  |
+| 1011 | peritectic: Liq + β(FeSb) -> ζ2FeSb2 | L: Sb 0.888; β(FeSb): Sb 0.487; ζ2FeSb2: Sb 0.667 | experimental | [1] Li 2014; _cites Maier 1972_ | Table 2, p. 3, row 25; `ORC-6M2FDAG62Y` |  |
+| 1011 | peritectic: Liq + β(FeSb) -> ζ2FeSb2 | L: Sb 0.888; β(FeSb): Fe 0.5, Sb 0.5; ζ2FeSb2: Sb 0.667 | unspecified | [1] Li 2014; _cites Kubaschewski 1982_ | Table 2, p. 3, row 26; `ORC-MDVBOIL23L` |  |
+| 1011 | peritectic |  | experimental | [1] Li 2014; _cites Maier 1972_ | p. 2; `ORC-UUD5VIHQPY.8f17ce` | “Refs. \[31,39,40,45\] identified and confirmed the existence of the intermediate phase ζ2FeSb2 and Refs. \[34,46\] measured its peritectic temperature at 1011 K and 1018 K, respectively.” |
+| 1011 | peritectic |  | experimental | [3] Pei 1995 | p. 4; `ORC-XLDGV4KZRO` | “The stoichiometric phase, FeSb,, is formed peritectically at 1011 K with a-FeSb at about 47 at.% Sb and liquid at 88.8 at.% Sb.” |
+| 1005 | peritectic: Liq + β(FeSb) -> ζ2FeSb2 | L: Sb 0.861; β(FeSb): Sb 0.394; ζ2FeSb2: Sb 0.667 | experimental | [1] Li 2014; _cites Kurnakow 1908_ [doi](https://doi.org/10.1002/zaac.19080580102) | Table 2, p. 3, row 23; `ORC-N3PXZ4SU7I` |  |
+| 1003 | peritectic: Liq + β(FeSb) -> ζ2FeSb2 | L: Sb 0.861; β(FeSb): Fe 0.5, Sb 0.5; ζ2FeSb2: Sb 0.667 | experimental | [1] Li 2014; _cites Geller 1939_ [doi](https://doi.org/10.1002/srin.193900887) | Table 2, p. 3, row 24; `ORC-4RHFBXP7UW` |  |
+| 901 | eutectic |  | experimental | [2] Boa 2008; _cites Okamoto 1993_ | p. 2; `ORC-4MHHNMN45I.a26ba4` | “Three invariant reactions were distinguished: two eutectic reactions at 1269 and 901 K \[31\], respectively, and one peritectic reaction at 1011 K \[31\].” |
+| 901 | eutectic: L = FeSb2 + α-Sb | L: Sb 0.992; FeSb2: Sb 0.6667; α-Sb: Sb 1 | unspecified | [3] Pei 1995; _cites Massalski_ | Table 3, p. 8, row 12; `ORC-LFADWJEIA4` |  |
+| 901 | eutectic |  | model | [3] Pei 1995; _cites Massalski_ | p. 4; `ORC-SKBBF7YGBX.27595d` | “Kubaschewski \[3\] quoted the eutectic temperature between FeSb, and pure Sb(Rhombohedral) as 887 K \[20\], and Okamoto \[4\] assessed it as 901 K, which is in agreement with Kurnakov \[231.” |
+| 901 | eutectic: Liq -> ζ2FeSb2 + Sb | L: Sb 0.968; ζ2FeSb2: Sb 0.667; Sb: Sb 1 | experimental | [1] Li 2014; _cites Kurnakow 1908_ [doi](https://doi.org/10.1002/zaac.19080580102) | Table 2, p. 3, row 32; `ORC-XDZTXDM3TH` |  |
+| 900.28 | eutectic: Liq -> ζ2FeSb2 + Sb | L: Sb 0.9891; ζ2FeSb2: Sb 0.6667; Sb: Sb 1 | model | [1] Li 2014 | Table 2, p. 3, row 39; `ORC-VT5EQHCSE2` |  |
+| 898 | eutectic: Liq = FeSb2 + Sb | Liq: Sb 0.9815; FeSb2: Sb 0.6667; Sb: Sb 1 | model | [2] Boa 2008 | Table 10, p. 9, row 9; `ORC-FTFX42F3UD` |  |
+| 898 | eutectic: L = FeSb2 + α-Sb | L: Sb 0.9812; FeSb2: Sb 0.6667; α-Sb: Sb 1 | model | [3] Pei 1995 | Table 3, p. 8, row 10; `ORC-W5GV3XTFOS` |  |
+| 897.15 | eutectic: Liq = FeSb2 + Sb | Liq: Sb 0.968; FeSb2: Sb 0.6667; Sb: Sb 1 | experimental | [2] Boa 2008; _cites Richter 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902597-2) | Table 10, p. 9, row 11; `ORC-O4JFM2XJ4K` |  |
+| 897.15 | eutectic: Liq = FeSb2 + Sb | FeSb2: Sb 0.6667; Sb: Sb 1 | experimental | [2] Boa 2008 | Table 10, p. 9, row 10; `ORC-SKPTBTQ3TY` |  |
+| 897 | eutectic: Liq -> ζ2FeSb2 + Sb | ζ2FeSb2: Sb 0.667 | experimental | [1] Li 2014; _cites Hagg 1929_ | Table 2, p. 3, row 38; `ORC-MSQEZWDMQ5` |  |
+| 897 | eutectic: Liq -> ζ2FeSb2 + Sb | ζ2FeSb2: Sb 0.667; Sb: Sb 1 | experimental | [1] Li 2014; _cites Richter 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902597-2) | Table 2, p. 3, row 37; `ORC-VYDXKMDTBA` |  |
+| 894 | eutectic: Liq -> ζ2FeSb2 + Sb | L: Sb 0.965; ζ2FeSb2: Sb 0.667; Sb: Sb 1 | experimental | [1] Li 2014; _cites Feschotte 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990235-x) | Table 2, p. 3, row 36; `ORC-XXIIIEJFRE` |  |
+| 892 | eutectic: Liq -> ζ2FeSb2 + Sb | L: Sb 0.982; ζ2FeSb2: Sb 0.667; Sb: Sb 1 | experimental | [1] Li 2014; _cites Geller 1939_ [doi](https://doi.org/10.1002/srin.193900887) | Table 2, p. 3, row 33; `ORC-KBYK2XT4PT` |  |
+| 887 | eutectic: Liq -> ζ2FeSb2 + Sb | L: Sb 0.992; ζ2FeSb2: Sb 0.667; Sb: Sb 1 | unspecified | [1] Li 2014; _cites Kubaschewski 1982_ | Table 2, p. 3, row 35; `ORC-BNUJJDCV47` |  |
+| 887 | eutectic: L = FeSb2 + α-Sb | L: Sb 0.992; FeSb2: Sb 0.6667; α-Sb: Sb 1 | unspecified | [3] Pei 1995; _cites ref. 3_ | Table 3, p. 8, row 11; `ORC-HMKBC3JSEI` |  |
+| 887 | eutectic: Liq -> ζ2FeSb2 + Sb | L: Sb 0.992; ζ2FeSb2: Sb 0.667; Sb: Sb 1 | experimental | [1] Li 2014; _cites Maier 1972_ | Table 2, p. 3, row 34; `ORC-Q6TC56YLJI` |  |
+| 887 | eutectic |  | experimental | [3] Pei 1995; _cites Maier 1972_ | p. 4; `ORC-SKBBF7YGBX.531823` | “Kubaschewski \[3\] quoted the eutectic temperature between FeSb, and pure Sb(Rhombohedral) as 887 K \[20\], and Okamoto \[4\] assessed it as 901 K, which is in agreement with Kurnakov \[231.” |
+| 549.4 | peritectic: L + FeSb2 = β + ε-FeSb |  | experimental | [2] Boa 2008 | p. 6; `ORC-EZQPH2PIST.1d0052` | “Combining the EPMA results with the data from DTA and DSC experiments, three invariant reactions were obtained: two transitory peritectic reactions at 549.40 K (U1): L + FeSb2 = β + ε-FeSb and 546.50 K (U2): L + ε-FeSb = β + αFe and one ternary monotectic reaction at 1264.25 K (M): L1 = L2 + Fe + ε-FeSb.” |
+| 546.5 | peritectic: L + ε-FeSb = β + αFe |  | experimental | [2] Boa 2008 | p. 6; `ORC-EZQPH2PIST.d3ce06` | “Combining the EPMA results with the data from DTA and DSC experiments, three invariant reactions were obtained: two transitory peritectic reactions at 549.40 K (U1): L + FeSb2 = β + ε-FeSb and 546.50 K (U2): L + ε-FeSb = β + αFe and one ternary monotectic reaction at 1264.25 K (M): L1 = L2 + Fe + ε-FeSb.” |
 
 ## Formation enthalpies
 
@@ -140,11 +140,11 @@ Table: Enthalpies of formation, Fe–Sb system (5)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | -11.8 kJ/mol-atom | 298.15 | experimental |  |  | [2] Boa 2008; _cites Boa 2006_ [doi](https://doi.org/10.1016/j.tca.2006.02.029) | p. 4 | “Recently, Boa et al. \[3,43\] measured by calorimetry, the enthalpies of formation at 298 K of the FeSb2 (-11.8 kJ/g atom) and ε-FeSb (-5.1 kJ/g-atom at 45 at.% Sb) and the enthalpy of mixing of liquid Fe-Sb at 1065 K in the 0 \< xFe \< 0.30 concentration range.” |
-| — |  | -9.62 kJ/mol-atom | 830 | experimental |  |  | [2] Boa 2008 | p. 4 | “The determined enthalpies of formation of FeSb2 and Fe0.52 Sb0.48 were found to be -9.62 and -5.02 kJ/g atom, respectively, at 830 K.” |
-| — |  | -5.1 kJ/mol-atom | 298.15 | experimental |  |  | [2] Boa 2008; _cites Boa 2006_ [doi](https://doi.org/10.1016/j.tca.2006.02.029) | p. 4 | “Recently, Boa et al. \[3,43\] measured by calorimetry, the enthalpies of formation at 298 K of the FeSb2 (-11.8 kJ/g atom) and ε-FeSb (-5.1 kJ/g-atom at 45 at.% Sb) and the enthalpy of mixing of liquid Fe-Sb at 1065 K in the 0 \< xFe \< 0.30 concentration range.” |
-| — |  | -5.02 kJ/mol-atom | 830 | experimental |  |  | [2] Boa 2008 | p. 4 | “The determined enthalpies of formation of FeSb2 and Fe0.52 Sb0.48 were found to be -9.62 and -5.02 kJ/g atom, respectively, at 830 K.” |
-| — |  | 2.999 unspecified ± 1.385 | 1068 | experimental |  |  | [2] Boa 2008; _cites Predel 1978_ [doi](https://doi.org/10.1016/0040-6031%2878%2985146-6) | p. 4 | “Predel and Vogelbein \[41\] used solution calorimetry at 1068 K and determined the enthalpies of formation of the ε-FeSb phase at 45 at.% Sb and at 43 at.% Sb to be about (2.999 ± 1.385) and -(0.044 ± 1.234) kJ/g atom, respectively.” |
+| — |  | -11.8 kJ/mol-atom | 298.15 | experimental |  |  | [2] Boa 2008; _cites Boa 2006_ [doi](https://doi.org/10.1016/j.tca.2006.02.029) | p. 4; `ORC-NNXXRYNFQC.e0ba71` | “Recently, Boa et al. \[3,43\] measured by calorimetry, the enthalpies of formation at 298 K of the FeSb2 (-11.8 kJ/g atom) and ε-FeSb (-5.1 kJ/g-atom at 45 at.% Sb) and the enthalpy of mixing of liquid Fe-Sb at 1065 K in the 0 \< xFe \< 0.30 concentration range.” |
+| — |  | -9.62 kJ/mol-atom | 830 | experimental |  |  | [2] Boa 2008 | p. 4; `ORC-NQRQYEBU66.a65125` | “The determined enthalpies of formation of FeSb2 and Fe0.52 Sb0.48 were found to be -9.62 and -5.02 kJ/g atom, respectively, at 830 K.” |
+| — |  | -5.1 kJ/mol-atom | 298.15 | experimental |  |  | [2] Boa 2008; _cites Boa 2006_ [doi](https://doi.org/10.1016/j.tca.2006.02.029) | p. 4; `ORC-NNXXRYNFQC.4e48d5` | “Recently, Boa et al. \[3,43\] measured by calorimetry, the enthalpies of formation at 298 K of the FeSb2 (-11.8 kJ/g atom) and ε-FeSb (-5.1 kJ/g-atom at 45 at.% Sb) and the enthalpy of mixing of liquid Fe-Sb at 1065 K in the 0 \< xFe \< 0.30 concentration range.” |
+| — |  | -5.02 kJ/mol-atom | 830 | experimental |  |  | [2] Boa 2008 | p. 4; `ORC-NQRQYEBU66.b07e03` | “The determined enthalpies of formation of FeSb2 and Fe0.52 Sb0.48 were found to be -9.62 and -5.02 kJ/g atom, respectively, at 830 K.” |
+| — |  | 2.999 unspecified ± 1.385 | 1068 | experimental |  |  | [2] Boa 2008; _cites Predel 1978_ [doi](https://doi.org/10.1016/0040-6031%2878%2985146-6) | p. 4; `ORC-LODKDEI2MA` | “Predel and Vogelbein \[41\] used solution calorimetry at 1068 K and determined the enthalpies of formation of the ε-FeSb phase at 45 at.% Sb and at 43 at.% Sb to be about (2.999 ± 1.385) and -(0.044 ± 1.234) kJ/g atom, respectively.” |
 
 ## Other properties
 
@@ -154,27 +154,27 @@ Table: Phase transition, Fe–Sb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 897.15 K | 897.15 | eutectic: L = FeSb2 + Sb (e2); _alloy: Fe 0.33, Sb 0.67_ | experimental | [2] Boa 2008 | Table 2, p. 3, row 9 |  |
-| Phase transition | 897.15 K | 897.15 | eutectic: L = FeSb2 + Sb(e2); _alloy: Fe 0.3, Sb 0.7_ | experimental | [2] Boa 2008; _cites Richter 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902597-2) | Table 2, p. 3, row 12 |  |
-| Phase transition | 899.89 K | 899.89 | other: L + η -> ζ + Sb | model | [1] Li 2014 | p. 11 | “There exist two invariant transition reactions, L þ γ ðA1Þ αðA2Þ þ β at 1300.47 K (U1) and L þ η-ζ þ Sb at 899.89 K (U2).” |
-| Phase transition | 1022.15 K | 1022.15 | peritectic: L + ε-FeSb = FeSb2(p1); _alloy: Fe 0.33, Sb 0.67_ | experimental | [2] Boa 2008 | Table 2, p. 3, row 10 |  |
-| Phase transition | 1022.15 K | 1022.15 | peritectic: L + ε-FeSb = FeSb2(p1); _alloy: Fe 0.3, Sb 0.7_ | experimental | [2] Boa 2008; _cites Richter 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902597-2) | Table 2, p. 3, row 13 |  |
-| Phase transition | 1038 K | 1038 | magnetic | experimental | [3] Pei 1995; _cites Maier 1972_ | p. 4 | “Tc of aFe + s-FeSb two phase region is 1038 K \[20\].” |
-| Phase transition | 1043 K | 1043 | magnetic | model | [3] Pei 1995; _cites LJ 1982_ | p. 4 | “The Curie temperature of pure u.Fe is 1043 K \[31\].” |
-| Phase transition | 1264.25 K | 1264.25 | other: L1 = L2 + Fe + ε-FeSb | experimental | [2] Boa 2008 | p. 6 | “Combining the EPMA results with the data from DTA and DSC experiments, three invariant reactions were obtained: two transitory peritectic reactions at 549.40 K (U1): L + FeSb2 = β + ε-FeSb and 546.50 K (U2): L + ε-FeSb = β + αFe and one ternary monotectic reaction at 1264.25 K (M): L1 = L2 + Fe + ε-FeSb.” |
-| Phase transition | 1279.15 K | 1279.15 | other: L = ε-FeSb (solidus); _alloy: Fe 0.55, Sb 0.45_ | experimental | [2] Boa 2008; _cites Richter 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902597-2) | Table 2, p. 3, row 6 |  |
-| Phase transition | 1280.15 K | 1280.15 | eutectic: L = ε-FeSb + αFe(e1); _alloy: Fe 0.65, Sb 0.35_ | experimental | [2] Boa 2008 | Table 2, p. 3, row 1 |  |
-| Phase transition | 1282.15 K | 1282.15 | other | experimental | [2] Boa 2008 | p. 3 | “In Fig. 3, the shoulder at 1282.15 K and the peak at 1309.15 K are associated with the ε-FeSb solidus and liquidus, respectively.” |
-| Phase transition | 1282.15 K | 1282.15 | other: L = ε-FeSb (solidus); _alloy: Fe 0.55, Sb 0.45_ | experimental | [2] Boa 2008 | Table 2, p. 3, row 5 |  |
-| Phase transition | 1283.15 K | 1283.15 | eutectic: L = ε-FeSb + αFe(e1); _alloy: Fe 0.65, Sb 0.35_ | experimental | [2] Boa 2008; _cites Richter 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902597-2) | Table 2, p. 3, row 2 |  |
-| Phase transition | 1290 K | 1290 | congruent melting: ε-FeSb = L; _ε-FeSb: Sb 0.4258; L: Sb 0.4258_ | model | [3] Pei 1995 | Table 3, p. 8, row 1 |  |
-| Phase transition | 1291 K | 1291 | congruent melting: ε-FeSb = Liq; _ε-FeSb: Sb 0.4168; Liq: Sb 0.4168_ | model | [2] Boa 2008 | Table 10, p. 9, row 1 |  |
-| Phase transition | 1292 K | 1292 | congruent melting: ε-FeSb = L; _ε-FeSb: Sb 0.42; L: Sb 0.42_ | unspecified | [3] Pei 1995; _cites Massalski_ | Table 3, p. 8, row 3 |  |
-| Phase transition | 1292 K | 1292 | congruent melting: ε-FeSb = L; _ε-FeSb: Sb 0.42; L: Sb 0.42_ | unspecified | [3] Pei 1995; _cites ref. 3_ | Table 3, p. 8, row 2 |  |
-| Phase transition | 1293.15 K | 1293.15 | other | experimental | [2] Boa 2008 | p. 3 | “The DTA curve during the heating of Fe0.65 Sb0.35 alloy (see Fig. 2) shows a shoulder associated with the invariant eutectic reaction (e1 ) : L = ε-FeSb + αFe at a mean temperature of 1280.15 K, and a strong peak associated with the ε-FeSb liquidus at 1293.15 K.” |
-| Phase transition | 1298.15 K | 1298.15 | congruent melting: ε-FeSb = Liq; _ε-FeSb: Sb 0.43; Liq: Sb 0.43_ | experimental | [2] Boa 2008; _cites Richter 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902597-2) | Table 10, p. 9, row 2 |  |
-| Phase transition | 1300.47 K | 1300.47 | other: L + γ(A1) -> α(A2) + β | model | [1] Li 2014 | p. 11 | “There exist two invariant transition reactions, L þ γ ðA1Þ αðA2Þ þ β at 1300.47 K (U1) and L þ η-ζ þ Sb at 899.89 K (U2).” |
-| Phase transition | 1309.15 K | 1309.15 | other | experimental | [2] Boa 2008 | p. 3 | “In Fig. 3, the shoulder at 1282.15 K and the peak at 1309.15 K are associated with the ε-FeSb solidus and liquidus, respectively.” |
+| Phase transition | 897.15 K | 897.15 | eutectic: L = FeSb2 + Sb (e2); _alloy: Fe 0.33, Sb 0.67_ | experimental | [2] Boa 2008 | Table 2, p. 3, row 9; `ORC-MHP3WLMFIE` |  |
+| Phase transition | 897.15 K | 897.15 | eutectic: L = FeSb2 + Sb(e2); _alloy: Fe 0.3, Sb 0.7_ | experimental | [2] Boa 2008; _cites Richter 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902597-2) | Table 2, p. 3, row 12; `ORC-JR3RTKRDWE` |  |
+| Phase transition | 899.89 K | 899.89 | other: L + η -> ζ + Sb | model | [1] Li 2014 | p. 11; `ORC-YTN7N3KRNS.a81850` | “There exist two invariant transition reactions, L þ γ ðA1Þ αðA2Þ þ β at 1300.47 K (U1) and L þ η-ζ þ Sb at 899.89 K (U2).” |
+| Phase transition | 1022.15 K | 1022.15 | peritectic: L + ε-FeSb = FeSb2(p1); _alloy: Fe 0.33, Sb 0.67_ | experimental | [2] Boa 2008 | Table 2, p. 3, row 10; `ORC-AEA4NWRQJ2` |  |
+| Phase transition | 1022.15 K | 1022.15 | peritectic: L + ε-FeSb = FeSb2(p1); _alloy: Fe 0.3, Sb 0.7_ | experimental | [2] Boa 2008; _cites Richter 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902597-2) | Table 2, p. 3, row 13; `ORC-S2KAFG4IQE` |  |
+| Phase transition | 1038 K | 1038 | magnetic | experimental | [3] Pei 1995; _cites Maier 1972_ | p. 4; `ORC-VQNTWFQSZZ` | “Tc of aFe + s-FeSb two phase region is 1038 K \[20\].” |
+| Phase transition | 1043 K | 1043 | magnetic | model | [3] Pei 1995; _cites LJ 1982_ | p. 4; `ORC-FPHELZ42OE` | “The Curie temperature of pure u.Fe is 1043 K \[31\].” |
+| Phase transition | 1264.25 K | 1264.25 | other: L1 = L2 + Fe + ε-FeSb | experimental | [2] Boa 2008 | p. 6; `ORC-EZQPH2PIST.27bc3f` | “Combining the EPMA results with the data from DTA and DSC experiments, three invariant reactions were obtained: two transitory peritectic reactions at 549.40 K (U1): L + FeSb2 = β + ε-FeSb and 546.50 K (U2): L + ε-FeSb = β + αFe and one ternary monotectic reaction at 1264.25 K (M): L1 = L2 + Fe + ε-FeSb.” |
+| Phase transition | 1279.15 K | 1279.15 | other: L = ε-FeSb (solidus); _alloy: Fe 0.55, Sb 0.45_ | experimental | [2] Boa 2008; _cites Richter 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902597-2) | Table 2, p. 3, row 6; `ORC-FGDUD34WNB` |  |
+| Phase transition | 1280.15 K | 1280.15 | eutectic: L = ε-FeSb + αFe(e1); _alloy: Fe 0.65, Sb 0.35_ | experimental | [2] Boa 2008 | Table 2, p. 3, row 1; `ORC-52TIWMOJQF` |  |
+| Phase transition | 1282.15 K | 1282.15 | other | experimental | [2] Boa 2008 | p. 3; `ORC-LMZTDJJPCV.28d04a` | “In Fig. 3, the shoulder at 1282.15 K and the peak at 1309.15 K are associated with the ε-FeSb solidus and liquidus, respectively.” |
+| Phase transition | 1282.15 K | 1282.15 | other: L = ε-FeSb (solidus); _alloy: Fe 0.55, Sb 0.45_ | experimental | [2] Boa 2008 | Table 2, p. 3, row 5; `ORC-TQGD6HNZH6` |  |
+| Phase transition | 1283.15 K | 1283.15 | eutectic: L = ε-FeSb + αFe(e1); _alloy: Fe 0.65, Sb 0.35_ | experimental | [2] Boa 2008; _cites Richter 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902597-2) | Table 2, p. 3, row 2; `ORC-NSVJFBHZF3` |  |
+| Phase transition | 1290 K | 1290 | congruent melting: ε-FeSb = L; _ε-FeSb: Sb 0.4258; L: Sb 0.4258_ | model | [3] Pei 1995 | Table 3, p. 8, row 1; `ORC-MLEQOOOIOT` |  |
+| Phase transition | 1291 K | 1291 | congruent melting: ε-FeSb = Liq; _ε-FeSb: Sb 0.4168; Liq: Sb 0.4168_ | model | [2] Boa 2008 | Table 10, p. 9, row 1; `ORC-ANDDTBY3CU` |  |
+| Phase transition | 1292 K | 1292 | congruent melting: ε-FeSb = L; _ε-FeSb: Sb 0.42; L: Sb 0.42_ | unspecified | [3] Pei 1995; _cites Massalski_ | Table 3, p. 8, row 3; `ORC-3KRMVR4BLA` |  |
+| Phase transition | 1292 K | 1292 | congruent melting: ε-FeSb = L; _ε-FeSb: Sb 0.42; L: Sb 0.42_ | unspecified | [3] Pei 1995; _cites ref. 3_ | Table 3, p. 8, row 2; `ORC-INUDHHUXB2` |  |
+| Phase transition | 1293.15 K | 1293.15 | other | experimental | [2] Boa 2008 | p. 3; `ORC-FE2WNKHMOF.a46a15` | “The DTA curve during the heating of Fe0.65 Sb0.35 alloy (see Fig. 2) shows a shoulder associated with the invariant eutectic reaction (e1 ) : L = ε-FeSb + αFe at a mean temperature of 1280.15 K, and a strong peak associated with the ε-FeSb liquidus at 1293.15 K.” |
+| Phase transition | 1298.15 K | 1298.15 | congruent melting: ε-FeSb = Liq; _ε-FeSb: Sb 0.43; Liq: Sb 0.43_ | experimental | [2] Boa 2008; _cites Richter 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902597-2) | Table 10, p. 9, row 2; `ORC-R4RGCY2KPX` |  |
+| Phase transition | 1300.47 K | 1300.47 | other: L + γ(A1) -> α(A2) + β | model | [1] Li 2014 | p. 11; `ORC-YTN7N3KRNS.5431d2` | “There exist two invariant transition reactions, L þ γ ðA1Þ αðA2Þ þ β at 1300.47 K (U1) and L þ η-ζ þ Sb at 899.89 K (U2).” |
+| Phase transition | 1309.15 K | 1309.15 | other | experimental | [2] Boa 2008 | p. 3; `ORC-LMZTDJJPCV.ce20df` | “In Fig. 3, the shoulder at 1282.15 K and the peak at 1309.15 K are associated with the ε-FeSb solidus and liquidus, respectively.” |
 
 ### Phase equilibrium (6)
 
@@ -182,12 +182,12 @@ Table: Phase equilibrium, Fe–Sb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 1204.15 | other: L = ε-FeSb (liquidus); _liquid: Fe 0.3, Sb 0.7_ | experimental | [2] Boa 2008; _cites Richter 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902597-2) | Table 2, p. 3, row 14 |  |
-| Phase composition |  | 1222.15 | other: L = ε-FeSb (liquidus); _liquid: Fe 0.33, Sb 0.67_ | experimental | [2] Boa 2008 | Table 2, p. 3, row 11 |  |
-| Phase composition |  | 1293.15 | other: L = ε-FeSb (liquidus); _liquid: Fe 0.65, Sb 0.35_ | experimental | [2] Boa 2008 | Table 2, p. 3, row 3 |  |
-| Phase composition |  | 1295.15 | other: L = ε-FeSb (liquidus); _liquid: Fe 0.65, Sb 0.35_ | experimental | [2] Boa 2008; _cites Richter 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902597-2) | Table 2, p. 3, row 4 |  |
-| Phase composition |  | 1307.15 | other: L = ε-FeSb (liquidus); _liquid: Fe 0.55, Sb 0.45_ | experimental | [2] Boa 2008; _cites Richter 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902597-2) | Table 2, p. 3, row 8 |  |
-| Phase composition |  | 1309.15 | other: L = ε-FeSb (liquidus); _liquid: Fe 0.55, Sb 0.45_ | experimental | [2] Boa 2008 | Table 2, p. 3, row 7 |  |
+| Phase composition |  | 1204.15 | other: L = ε-FeSb (liquidus); _liquid: Fe 0.3, Sb 0.7_ | experimental | [2] Boa 2008; _cites Richter 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902597-2) | Table 2, p. 3, row 14; `ORC-PJMV7UQBVK` |  |
+| Phase composition |  | 1222.15 | other: L = ε-FeSb (liquidus); _liquid: Fe 0.33, Sb 0.67_ | experimental | [2] Boa 2008 | Table 2, p. 3, row 11; `ORC-DEP24GI75L` |  |
+| Phase composition |  | 1293.15 | other: L = ε-FeSb (liquidus); _liquid: Fe 0.65, Sb 0.35_ | experimental | [2] Boa 2008 | Table 2, p. 3, row 3; `ORC-7V5XQVKZSB` |  |
+| Phase composition |  | 1295.15 | other: L = ε-FeSb (liquidus); _liquid: Fe 0.65, Sb 0.35_ | experimental | [2] Boa 2008; _cites Richter 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902597-2) | Table 2, p. 3, row 4; `ORC-7BLNNGGUJ4` |  |
+| Phase composition |  | 1307.15 | other: L = ε-FeSb (liquidus); _liquid: Fe 0.55, Sb 0.45_ | experimental | [2] Boa 2008; _cites Richter 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902597-2) | Table 2, p. 3, row 8; `ORC-I5XHCFFNP2` |  |
+| Phase composition |  | 1309.15 | other: L = ε-FeSb (liquidus); _liquid: Fe 0.55, Sb 0.45_ | experimental | [2] Boa 2008 | Table 2, p. 3, row 7; `ORC-YPZPEHGBFT` |  |
 
 ## Sources
 
@@ -254,4 +254,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

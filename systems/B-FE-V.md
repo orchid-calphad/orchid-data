@@ -28,17 +28,17 @@ Table: Phase equilibrium, B–Fe–V system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase assemblage |  | 903 | BCC + VB + V3B2; _alloy: Fe 0, V 0.5_ | experimental | [1] Homolová 2012 | Table 2, p. 3, row 5 |  |
-| Phase assemblage |  | 903 | FeB + Fe2B + V3B4; _alloy: Fe 0.5, V 0_ | experimental | [1] Homolová 2012 | Table 2, p. 3, row 8 |  |
-| Phase assemblage |  | 903 | FeB + VB2 + β; _alloy: Fe 0.5, V 0_ | experimental | [1] Homolová 2012 | Table 2, p. 3, row 9 |  |
-| Phase assemblage |  | 903 | V3B4 + Fe2B; _alloy: Fe 0, V 0.428571_ | experimental | [1] Homolová 2012 | Table 2, p. 3, row 10 |  |
-| Phase assemblage |  | 903 | VB + Fe2B; _alloy: Fe 0, V 0.5_ | experimental | [1] Homolová 2012 | Table 2, p. 3, row 12 |  |
-| Phase assemblage |  | 1353 | BCC + VB; _alloy: Fe 0, V 0.5_ | experimental | [1] Homolová 2012 | Table 2, p. 3, row 1 |  |
-| Phase assemblage |  | 1353 | BCC + VB + T; _alloy: Fe 0, V 0.5_ | experimental | [1] Homolová 2012 | Table 2, p. 3, row 2 |  |
-| Phase assemblage |  | 1353 | Fe2B + BCC; _alloy: Fe 0.666667, V 0_ | experimental | [1] Homolová 2012 | Table 2, p. 3, row 3 |  |
-| Phase assemblage |  | 1353 | Fe2B + V3B4; _alloy: Fe 0.666667, V 0_ | experimental | [1] Homolová 2012 | Table 2, p. 3, row 7 |  |
-| Phase assemblage |  | 1353 | V3B2 + BCC; _alloy: Fe 0, V 0.6_ | experimental | [1] Homolová 2012 | Table 2, p. 3, row 4 |  |
-| Phase assemblage |  | 1353 | VB + V3B2 + sigma; _alloy: Fe 0, V 0.5_ | experimental | [1] Homolová 2012 | Table 2, p. 3, row 6 |  |
+| Phase assemblage |  | 903 | BCC + VB + V3B2; _alloy: Fe 0, V 0.5_ | experimental | [1] Homolová 2012 | Table 2, p. 3, row 5; `ORC-AXL4LVVZR3` |  |
+| Phase assemblage |  | 903 | FeB + Fe2B + V3B4; _alloy: Fe 0.5, V 0_ | experimental | [1] Homolová 2012 | Table 2, p. 3, row 8; `ORC-UPDMAAZJCR` |  |
+| Phase assemblage |  | 903 | FeB + VB2 + β; _alloy: Fe 0.5, V 0_ | experimental | [1] Homolová 2012 | Table 2, p. 3, row 9; `ORC-J2RGFPQ3OJ` |  |
+| Phase assemblage |  | 903 | V3B4 + Fe2B; _alloy: Fe 0, V 0.428571_ | experimental | [1] Homolová 2012 | Table 2, p. 3, row 10; `ORC-LG5V4G6YUS` |  |
+| Phase assemblage |  | 903 | VB + Fe2B; _alloy: Fe 0, V 0.5_ | experimental | [1] Homolová 2012 | Table 2, p. 3, row 12; `ORC-VXRW3C237D` |  |
+| Phase assemblage |  | 1353 | BCC + VB; _alloy: Fe 0, V 0.5_ | experimental | [1] Homolová 2012 | Table 2, p. 3, row 1; `ORC-SPXJD42O3E` |  |
+| Phase assemblage |  | 1353 | BCC + VB + T; _alloy: Fe 0, V 0.5_ | experimental | [1] Homolová 2012 | Table 2, p. 3, row 2; `ORC-YMPBZVOCIB` |  |
+| Phase assemblage |  | 1353 | Fe2B + BCC; _alloy: Fe 0.666667, V 0_ | experimental | [1] Homolová 2012 | Table 2, p. 3, row 3; `ORC-JYZ4NTGLKX` |  |
+| Phase assemblage |  | 1353 | Fe2B + V3B4; _alloy: Fe 0.666667, V 0_ | experimental | [1] Homolová 2012 | Table 2, p. 3, row 7; `ORC-BXQFZPNQXS` |  |
+| Phase assemblage |  | 1353 | V3B2 + BCC; _alloy: Fe 0, V 0.6_ | experimental | [1] Homolová 2012 | Table 2, p. 3, row 4; `ORC-3KH63RQCVY` |  |
+| Phase assemblage |  | 1353 | VB + V3B2 + sigma; _alloy: Fe 0, V 0.5_ | experimental | [1] Homolová 2012 | Table 2, p. 3, row 6; `ORC-UOEZIY42LS` |  |
 
 ## Sources
 
@@ -81,4 +81,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

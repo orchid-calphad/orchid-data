@@ -27,39 +27,39 @@ Table: Invariant reactions reported in the literature for the Al–Mo–Si syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2271 | other: liq. + C40 + MoSi2 | liq.: Al 0.0401, Mo 0.337, Si 0.6229 | model | [1] Guo 2012 | Table 2, p. 6, row 1 |  |
-| 2196 | other: liq. + C40 + Mo5Si3 | liq.: Al 0.0805, Mo 0.4331, Si 0.4864 | model | [1] Guo 2012 | Table 2, p. 6, row 3 |  |
-| 2190 | quasi-peritectic: liq. + C40 -> Mo5Si3 + MoSi2 |  | experimental | [1] Guo 2012; _cites Ponweiser 2011_ [doi](https://doi.org/10.1016/j.intermet.2010.11.010) | Table 2, p. 6, row 6 |  |
-| 2190 | other: liq. + C40 + Mo5Si3 |  | experimental | [1] Guo 2012; _cites Ponweiser 2011_ [doi](https://doi.org/10.1016/j.intermet.2010.11.010) | Table 2, p. 6, row 4 |  |
-| 2174 | quasi-peritectic: liq. + C40 -> Mo5Si3 + MoSi2 | liq.: Al 0.0129, Mo 0.4438, Si 0.5433 | model | [1] Guo 2012 | Table 2, p. 6, row 5 |  |
-| 2173 | other: liq. + C40 + MoSi2 |  | experimental | [1] Guo 2012; _cites Ponweiser 2011_ [doi](https://doi.org/10.1016/j.intermet.2010.11.010) | Table 2, p. 6, row 2 |  |
-| 1902 | peritectic: liq. + Mo5Si3 + C40 -> C54 | liq.: Al 0.519, Mo 0.3353, Si 0.1457 | model | [1] Guo 2012 | Table 2, p. 6, row 7 |  |
-| 1892 | peritectic: liq. + Mo5Si3 + C40 -> C54 |  | experimental | [1] Guo 2012; _cites Ponweiser 2011_ [doi](https://doi.org/10.1016/j.intermet.2010.11.010) | Table 2, p. 6, row 8 |  |
-| 1829 | quasi-peritectic: liq. + A15 -> AlMo + Mo5Si3 | liq.: Al 0.5815, Mo 0.3662, Si 0.0523 | model | [1] Guo 2012 | Table 2, p. 6, row 9 |  |
-| 1780 | quasi-peritectic: liq. + Al63Mo37 -> Al8Mo3 + AlMo | liq.: Al 0.6253, Mo 0.3395, Si 0.0352 | model | [1] Guo 2012 | Table 2, p. 6, row 10 |  |
-| 1780 | quasi-peritectic: liq. + Mo5Si3 -> Al8Mo3 + C54 |  | experimental | [1] Guo 2012; _cites Ponweiser 2011_ [doi](https://doi.org/10.1016/j.intermet.2010.11.010) | Table 2, p. 6, row 14 |  |
-| 1780 | quasi-peritectic: liq. + AlMo -> Al8Mo3 + Mo5Si3 |  | experimental | [1] Guo 2012; _cites Ponweiser 2011_ [doi](https://doi.org/10.1016/j.intermet.2010.11.010) | Table 2, p. 6, row 12 |  |
-| 1771 | quasi-peritectic: liq. + AlMo -> Al8Mo3 + Mo5Si3 | liq.: Al 0.6107, Mo 0.3411, Si 0.0482 | model | [1] Guo 2012 | Table 2, p. 6, row 11 |  |
-| 1771 | quasi-peritectic: liq. + Mo5Si3 -> Al8Mo3 + C54 | liq.: Al 0.6112, Mo 0.3391, Si 0.0497 | model | [1] Guo 2012 | Table 2, p. 6, row 13 |  |
-| 1676 | quasi-peritectic: liq. + C54 -> Al8Mo3 + C40 | liq.: Al 0.7911, Mo 0.1484, Si 0.0605 | model | [1] Guo 2012 | Table 2, p. 6, row 15 |  |
-| 1673 | quasi-peritectic: liq. + MoSi2 -> diamond + C40 |  | experimental | [1] Guo 2012; _cites Ponweiser 2011_ [doi](https://doi.org/10.1016/j.intermet.2010.11.010) | Table 2, p. 6, row 18 |  |
-| 1638 | quasi-peritectic: liq. + MoSi2 -> diamond + C40 | liq.: Al 0.0946, Mo 0.0463, Si 0.8591 | model | [1] Guo 2012 | Table 2, p. 6, row 17 |  |
-| 1491 | quasi-peritectic: liq. + C54 -> Al8Mo3 + C40 |  | experimental | [1] Guo 2012; _cites Ponweiser 2011_ [doi](https://doi.org/10.1016/j.intermet.2010.11.010) | Table 2, p. 6, row 16 |  |
-| 1491 | peritectic: liq. + Al8Mo3 + C40 -> Al4Mo | liq.: Al 0.8834, Mo 0.0758, Si 0.0408 | model | [1] Guo 2012 | Table 2, p. 6, row 19 |  |
-| 1491 | peritectic: liq. + Al8Mo3 + C40 -> Al4Mo |  | experimental | [1] Guo 2012; _cites Ponweiser 2011_ [doi](https://doi.org/10.1016/j.intermet.2010.11.010) | Table 2, p. 6, row 20 |  |
-| 1481 | quasi-peritectic: liq. + Al8Mo3 -> Al4Mo + Al3Mo | liq.: Al 0.919, Mo 0.065, Si 0.016 | model | [1] Guo 2012 | Table 2, p. 6, row 21 |  |
-| 1151 | peritectic: liq. + Al4Mo + Al17Mo4 -> Al5Mo | liq.: Al 0.9837, Mo 0.011, Si 0.0053 | model | [1] Guo 2012 | Table 2, p. 6, row 22 |  |
-| 1149 | quasi-peritectic: liq. + Al17Mo4 -> Al22Mo5 + Al5Mo | liq.: Al 0.9851, Mo 0.0107, Si 0.0042 | model | [1] Guo 2012 | Table 2, p. 6, row 24 |  |
-| 1104 | quasi-peritectic: liq. + Al17Mo4 -> Al22Mo5 + Al5Mo |  | experimental | [1] Guo 2012; _cites Ponweiser 2011_ [doi](https://doi.org/10.1016/j.intermet.2010.11.010) | Table 2, p. 6, row 25 |  |
-| 1097 | quasi-peritectic: liq. + Al4Mo -> C40 + Al5Mo | liq.: Al 0.968, Mo 0.0082, Si 0.0238 | model | [1] Guo 2012 | Table 2, p. 6, row 26 |  |
-| 1097 | quasi-peritectic: liq. + Al4Mo -> C40 + Al5Mo |  | experimental | [1] Guo 2012; _cites Ponweiser 2011_ [doi](https://doi.org/10.1016/j.intermet.2010.11.010) | Table 2, p. 6, row 27 |  |
-| 1097 | peritectic: liq. + Al4Mo + Al17Mo4 -> Al5Mo |  | experimental | [1] Guo 2012; _cites Ponweiser 2011_ [doi](https://doi.org/10.1016/j.intermet.2010.11.010) | Table 2, p. 6, row 23 |  |
-| 991 | peritectic: liq. + Al5Mo + C40 -> Al12Mo | liq.: Al 0.9734, Mo 0.0026, Si 0.024 | model | [1] Guo 2012 | Table 2, p. 6, row 28 |  |
-| 991 | peritectic: liq. + Al5Mo + C40 -> Al12Mo |  | experimental | [1] Guo 2012; _cites Ponweiser 2011_ [doi](https://doi.org/10.1016/j.intermet.2010.11.010) | Table 2, p. 6, row 29 |  |
-| 905 | quasi-peritectic: liq. + Al12Mo -> fcc + C40 |  | experimental | [1] Guo 2012; _cites Ponweiser 2011_ [doi](https://doi.org/10.1016/j.intermet.2010.11.010) | Table 2, p. 6, row 31 |  |
-| 899 | quasi-peritectic: liq. + Al12Mo -> fcc + C40 | liq.: Al 0.944, Mo 4.000e-4, Si 0.0556 | model | [1] Guo 2012 | Table 2, p. 6, row 30 |  |
-| 850 | eutectic: liq. -> diamond + fcc + C40 | liq.: Al 0.8789, Mo 2.000e-4, Si 0.1209 | model | [1] Guo 2012 | Table 2, p. 6, row 32 |  |
-| 847 | eutectic: liq. -> diamond + fcc + C40 |  | experimental | [1] Guo 2012; _cites Ponweiser 2011_ [doi](https://doi.org/10.1016/j.intermet.2010.11.010) | Table 2, p. 6, row 33 |  |
+| 2271 | other: liq. + C40 + MoSi2 | liq.: Al 0.0401, Mo 0.337, Si 0.6229 | model | [1] Guo 2012 | Table 2, p. 6, row 1; `ORC-BCNLK4QOVQ` |  |
+| 2196 | other: liq. + C40 + Mo5Si3 | liq.: Al 0.0805, Mo 0.4331, Si 0.4864 | model | [1] Guo 2012 | Table 2, p. 6, row 3; `ORC-FO3YGZMTX4` |  |
+| 2190 | quasi-peritectic: liq. + C40 -> Mo5Si3 + MoSi2 |  | experimental | [1] Guo 2012; _cites Ponweiser 2011_ [doi](https://doi.org/10.1016/j.intermet.2010.11.010) | Table 2, p. 6, row 6; `ORC-ELM6MKRQ4J` |  |
+| 2190 | other: liq. + C40 + Mo5Si3 |  | experimental | [1] Guo 2012; _cites Ponweiser 2011_ [doi](https://doi.org/10.1016/j.intermet.2010.11.010) | Table 2, p. 6, row 4; `ORC-O7O67PRVXO` |  |
+| 2174 | quasi-peritectic: liq. + C40 -> Mo5Si3 + MoSi2 | liq.: Al 0.0129, Mo 0.4438, Si 0.5433 | model | [1] Guo 2012 | Table 2, p. 6, row 5; `ORC-2VMB24FRMX` |  |
+| 2173 | other: liq. + C40 + MoSi2 |  | experimental | [1] Guo 2012; _cites Ponweiser 2011_ [doi](https://doi.org/10.1016/j.intermet.2010.11.010) | Table 2, p. 6, row 2; `ORC-RHCT3ETBGA` |  |
+| 1902 | peritectic: liq. + Mo5Si3 + C40 -> C54 | liq.: Al 0.519, Mo 0.3353, Si 0.1457 | model | [1] Guo 2012 | Table 2, p. 6, row 7; `ORC-D4PPL5FIAU` |  |
+| 1892 | peritectic: liq. + Mo5Si3 + C40 -> C54 |  | experimental | [1] Guo 2012; _cites Ponweiser 2011_ [doi](https://doi.org/10.1016/j.intermet.2010.11.010) | Table 2, p. 6, row 8; `ORC-2RBMXNB7O3` |  |
+| 1829 | quasi-peritectic: liq. + A15 -> AlMo + Mo5Si3 | liq.: Al 0.5815, Mo 0.3662, Si 0.0523 | model | [1] Guo 2012 | Table 2, p. 6, row 9; `ORC-72KUMRWZ4U` |  |
+| 1780 | quasi-peritectic: liq. + Al63Mo37 -> Al8Mo3 + AlMo | liq.: Al 0.6253, Mo 0.3395, Si 0.0352 | model | [1] Guo 2012 | Table 2, p. 6, row 10; `ORC-IAH3667BIO` |  |
+| 1780 | quasi-peritectic: liq. + Mo5Si3 -> Al8Mo3 + C54 |  | experimental | [1] Guo 2012; _cites Ponweiser 2011_ [doi](https://doi.org/10.1016/j.intermet.2010.11.010) | Table 2, p. 6, row 14; `ORC-IZRDRZY3FG` |  |
+| 1780 | quasi-peritectic: liq. + AlMo -> Al8Mo3 + Mo5Si3 |  | experimental | [1] Guo 2012; _cites Ponweiser 2011_ [doi](https://doi.org/10.1016/j.intermet.2010.11.010) | Table 2, p. 6, row 12; `ORC-W64KV4YHBD` |  |
+| 1771 | quasi-peritectic: liq. + AlMo -> Al8Mo3 + Mo5Si3 | liq.: Al 0.6107, Mo 0.3411, Si 0.0482 | model | [1] Guo 2012 | Table 2, p. 6, row 11; `ORC-6UPWY4M43G` |  |
+| 1771 | quasi-peritectic: liq. + Mo5Si3 -> Al8Mo3 + C54 | liq.: Al 0.6112, Mo 0.3391, Si 0.0497 | model | [1] Guo 2012 | Table 2, p. 6, row 13; `ORC-PM7LKHKBJ4` |  |
+| 1676 | quasi-peritectic: liq. + C54 -> Al8Mo3 + C40 | liq.: Al 0.7911, Mo 0.1484, Si 0.0605 | model | [1] Guo 2012 | Table 2, p. 6, row 15; `ORC-DWIQTG3ZIE` |  |
+| 1673 | quasi-peritectic: liq. + MoSi2 -> diamond + C40 |  | experimental | [1] Guo 2012; _cites Ponweiser 2011_ [doi](https://doi.org/10.1016/j.intermet.2010.11.010) | Table 2, p. 6, row 18; `ORC-6BF2WXXAOJ` |  |
+| 1638 | quasi-peritectic: liq. + MoSi2 -> diamond + C40 | liq.: Al 0.0946, Mo 0.0463, Si 0.8591 | model | [1] Guo 2012 | Table 2, p. 6, row 17; `ORC-ZB47PXZJI7` |  |
+| 1491 | quasi-peritectic: liq. + C54 -> Al8Mo3 + C40 |  | experimental | [1] Guo 2012; _cites Ponweiser 2011_ [doi](https://doi.org/10.1016/j.intermet.2010.11.010) | Table 2, p. 6, row 16; `ORC-3FGKXVBJK5` |  |
+| 1491 | peritectic: liq. + Al8Mo3 + C40 -> Al4Mo | liq.: Al 0.8834, Mo 0.0758, Si 0.0408 | model | [1] Guo 2012 | Table 2, p. 6, row 19; `ORC-7LBWI5WJDR` |  |
+| 1491 | peritectic: liq. + Al8Mo3 + C40 -> Al4Mo |  | experimental | [1] Guo 2012; _cites Ponweiser 2011_ [doi](https://doi.org/10.1016/j.intermet.2010.11.010) | Table 2, p. 6, row 20; `ORC-VEE6XSVFAO` |  |
+| 1481 | quasi-peritectic: liq. + Al8Mo3 -> Al4Mo + Al3Mo | liq.: Al 0.919, Mo 0.065, Si 0.016 | model | [1] Guo 2012 | Table 2, p. 6, row 21; `ORC-KHLCB43DUC` |  |
+| 1151 | peritectic: liq. + Al4Mo + Al17Mo4 -> Al5Mo | liq.: Al 0.9837, Mo 0.011, Si 0.0053 | model | [1] Guo 2012 | Table 2, p. 6, row 22; `ORC-JC3MXJ2TGT` |  |
+| 1149 | quasi-peritectic: liq. + Al17Mo4 -> Al22Mo5 + Al5Mo | liq.: Al 0.9851, Mo 0.0107, Si 0.0042 | model | [1] Guo 2012 | Table 2, p. 6, row 24; `ORC-U6TTIOZAMD` |  |
+| 1104 | quasi-peritectic: liq. + Al17Mo4 -> Al22Mo5 + Al5Mo |  | experimental | [1] Guo 2012; _cites Ponweiser 2011_ [doi](https://doi.org/10.1016/j.intermet.2010.11.010) | Table 2, p. 6, row 25; `ORC-2UKGIPQB2R` |  |
+| 1097 | quasi-peritectic: liq. + Al4Mo -> C40 + Al5Mo | liq.: Al 0.968, Mo 0.0082, Si 0.0238 | model | [1] Guo 2012 | Table 2, p. 6, row 26; `ORC-6CHHNMBAZY` |  |
+| 1097 | quasi-peritectic: liq. + Al4Mo -> C40 + Al5Mo |  | experimental | [1] Guo 2012; _cites Ponweiser 2011_ [doi](https://doi.org/10.1016/j.intermet.2010.11.010) | Table 2, p. 6, row 27; `ORC-7MGEGAGRQN` |  |
+| 1097 | peritectic: liq. + Al4Mo + Al17Mo4 -> Al5Mo |  | experimental | [1] Guo 2012; _cites Ponweiser 2011_ [doi](https://doi.org/10.1016/j.intermet.2010.11.010) | Table 2, p. 6, row 23; `ORC-ZVV7JR4Q4J` |  |
+| 991 | peritectic: liq. + Al5Mo + C40 -> Al12Mo | liq.: Al 0.9734, Mo 0.0026, Si 0.024 | model | [1] Guo 2012 | Table 2, p. 6, row 28; `ORC-LPERHGY2TU` |  |
+| 991 | peritectic: liq. + Al5Mo + C40 -> Al12Mo |  | experimental | [1] Guo 2012; _cites Ponweiser 2011_ [doi](https://doi.org/10.1016/j.intermet.2010.11.010) | Table 2, p. 6, row 29; `ORC-WJQWOTI453` |  |
+| 905 | quasi-peritectic: liq. + Al12Mo -> fcc + C40 |  | experimental | [1] Guo 2012; _cites Ponweiser 2011_ [doi](https://doi.org/10.1016/j.intermet.2010.11.010) | Table 2, p. 6, row 31; `ORC-HA6TOTDOPK` |  |
+| 899 | quasi-peritectic: liq. + Al12Mo -> fcc + C40 | liq.: Al 0.944, Mo 4.000e-4, Si 0.0556 | model | [1] Guo 2012 | Table 2, p. 6, row 30; `ORC-CCGFFY2JSC` |  |
+| 850 | eutectic: liq. -> diamond + fcc + C40 | liq.: Al 0.8789, Mo 2.000e-4, Si 0.1209 | model | [1] Guo 2012 | Table 2, p. 6, row 32; `ORC-5LQY7RFFO2` |  |
+| 847 | eutectic: liq. -> diamond + fcc + C40 |  | experimental | [1] Guo 2012; _cites Ponweiser 2011_ [doi](https://doi.org/10.1016/j.intermet.2010.11.010) | Table 2, p. 6, row 33; `ORC-WCFQGXVBNR` |  |
 
 ## Sources
 
@@ -102,4 +102,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -47,11 +47,11 @@ Table: Invariant reactions reported in the literature for the Gd–Li system (5)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1524.15 | (βGd) = (αGd) + L | (βGd): Li 0.0043; (αGd): Li 0.002; L: Li 0.0333 | model | [1] Kevorkov 2001 | Table 1, p. 2, row 1 |  |
-| 1181.15 | L = (αGd) + L' | L: Li 0.3565 | experimental | [1] Kevorkov 2001; _cites Ganiev 1998_ | Table 1, p. 2, row 2 |  |
-| 1175.15 | L = (αGd) + L' | L: Li 0.3307; (αGd): Li 0.0145; L': Li 0.9456 | model | [1] Kevorkov 2001 | Table 1, p. 2, row 3 |  |
-| 453.15 | L' = (αGd) + Li | L': Li 0.9998; (αGd): Li 0; Li: Li 0.9999 | model | [1] Kevorkov 2001 | Table 1, p. 2, row 5 |  |
-| 450.15 | L' = (αGd) + Li | L': Li 0.9974 | experimental | [1] Kevorkov 2001; _cites Ganiev 1998_ | Table 1, p. 2, row 4 |  |
+| 1524.15 | (βGd) = (αGd) + L | (βGd): Li 0.0043; (αGd): Li 0.002; L: Li 0.0333 | model | [1] Kevorkov 2001 | Table 1, p. 2, row 1; `ORC-ISKBRUJAZS` |  |
+| 1181.15 | L = (αGd) + L' | L: Li 0.3565 | experimental | [1] Kevorkov 2001; _cites Ganiev 1998_ | Table 1, p. 2, row 2; `ORC-653SNTRGTK` |  |
+| 1175.15 | L = (αGd) + L' | L: Li 0.3307; (αGd): Li 0.0145; L': Li 0.9456 | model | [1] Kevorkov 2001 | Table 1, p. 2, row 3; `ORC-OYNZOATT6G` |  |
+| 453.15 | L' = (αGd) + Li | L': Li 0.9998; (αGd): Li 0; Li: Li 0.9999 | model | [1] Kevorkov 2001 | Table 1, p. 2, row 5; `ORC-4KODI6OQNL` |  |
+| 450.15 | L' = (αGd) + Li | L': Li 0.9974 | experimental | [1] Kevorkov 2001; _cites Ganiev 1998_ | Table 1, p. 2, row 4; `ORC-QAJXJL3ABA` |  |
 
 ## Sources
 
@@ -116,4 +116,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -30,7 +30,7 @@ Table: Phase transition, H–Mg–Mn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 670.15 K | 670.15 | other | experimental | [1] Liang 2018; _cites Goto 2003_ [doi](https://doi.org/10.1016/s1468-6996%2803%2900057-3) | p. 2 | “The decomposition of Mg3MnH7 occurred in a broad step covering the temperature range from 257 to 367 °C under 0.1 MPa hydrogen\[26\] and 397 °C at 0.05 MPa Ar flow.\[27\]” |
+| Phase transition | 670.15 K | 670.15 | other | experimental | [1] Liang 2018; _cites Goto 2003_ [doi](https://doi.org/10.1016/s1468-6996%2803%2900057-3) | p. 2; `ORC-PPA3UTUIDP` | “The decomposition of Mg3MnH7 occurred in a broad step covering the temperature range from 257 to 367 °C under 0.1 MPa hydrogen\[26\] and 397 °C at 0.05 MPa Ar flow.\[27\]” |
 
 ### Phase equilibrium (10)
 
@@ -38,16 +38,16 @@ Table: Phase equilibrium, H–Mg–Mn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 773.15 | (Mg) + Mg-Mn alloy (equilibrium with H2 at 101,325 Pa); _(Mg): H 3.800e-4; Mg-Mn alloy (equilibrium with H2 at 101,325 Pa): H 3.800e-4_ | experimental | [1] Liang 2018; _cites Tetsuo 1976_ | Table 3, p. 3, row 5 |  |
-| Phase composition |  | 773.15 | (Mg) + Mg-Mn alloy (equilibrium with H2 at 101,325 Pa); _(Mg): H 4.170e-4; Mg-Mn alloy (equilibrium with H2 at 101,325 Pa): H 4.170e-4_ | unspecified | [1] Liang 2018 | Table 3, p. 3, row 3 |  |
-| Phase composition |  | 773.15 | (Mg) + Mg-Mn alloy (equilibrium with H2 at 101,325 Pa); _(Mg): H 3.950e-4; Mg-Mn alloy (equilibrium with H2 at 101,325 Pa): H 3.950e-4_ | unspecified | [1] Liang 2018 | Table 3, p. 3, row 7 |  |
-| Phase composition |  | 773.15 | (Mg) + Mg-Mn alloy (equilibrium with H2 at 101,325 Pa); _(Mg): H 3.600e-4; Mg-Mn alloy (equilibrium with H2 at 101,325 Pa): H 3.600e-4_ | experimental | [1] Liang 2018; _cites Tetsuo 1976_ | Table 3, p. 3, row 9 |  |
-| Phase composition |  | 773.15 | (Mg) + Mg-Mn alloy (equilibrium with H2 at 101,325 Pa); _(Mg): H 4.200e-4; Mg-Mn alloy (equilibrium with H2 at 101,325 Pa): H 4.200e-4_ | experimental | [1] Liang 2018; _cites Tetsuo 1976_ | Table 3, p. 3, row 1 |  |
-| Phase composition |  | 773.15 | (Mg) + Mg-Mn alloy (equilibrium with H2 at 101,325 Pa); _(Mg): H 3.890e-4; Mg-Mn alloy (equilibrium with H2 at 101,325 Pa): H 3.890e-4_ | unspecified | [1] Liang 2018 | Table 3, p. 3, row 10 |  |
-| Phase composition |  | 973.15 | liquid + Mg-Mn alloy (equilibrium with H2 at 101,325 Pa); _liquid: H 0.00114; Mg-Mn alloy (equilibrium with H2 at 101,325 Pa): H 0.00114_ | experimental | [1] Liang 2018; _cites Tetsuo 1976_ | Table 3, p. 3, row 6 |  |
-| Phase composition |  | 973.15 | liquid + Mg-Mn alloy (equilibrium with H2 at 101,325 Pa); _liquid: H 0.00115; Mg-Mn alloy (equilibrium with H2 at 101,325 Pa): H 0.00115_ | experimental | [1] Liang 2018; _cites Tetsuo 1976_ | Table 3, p. 3, row 2 |  |
-| Phase composition |  | 973.15 | liquid + Mg-Mn alloy (equilibrium with H2 at 101,325 Pa); _liquid: H 0.00114; Mg-Mn alloy (equilibrium with H2 at 101,325 Pa): H 0.00114_ | unspecified | [1] Liang 2018 | Table 3, p. 3, row 8 |  |
-| Phase composition |  | 973.15 | liquid + Mg-Mn alloy (equilibrium with H2 at 101,325 Pa); _liquid: H 0.00112; Mg-Mn alloy (equilibrium with H2 at 101,325 Pa): H 0.00112_ | unspecified | [1] Liang 2018 | Table 3, p. 3, row 4 |  |
+| Phase composition |  | 773.15 | (Mg) + Mg-Mn alloy (equilibrium with H2 at 101,325 Pa); _(Mg): H 3.800e-4; Mg-Mn alloy (equilibrium with H2 at 101,325 Pa): H 3.800e-4_ | experimental | [1] Liang 2018; _cites Tetsuo 1976_ | Table 3, p. 3, row 5; `ORC-AEAINKEKME` |  |
+| Phase composition |  | 773.15 | (Mg) + Mg-Mn alloy (equilibrium with H2 at 101,325 Pa); _(Mg): H 4.170e-4; Mg-Mn alloy (equilibrium with H2 at 101,325 Pa): H 4.170e-4_ | unspecified | [1] Liang 2018 | Table 3, p. 3, row 3; `ORC-CQVWTEYJTD` |  |
+| Phase composition |  | 773.15 | (Mg) + Mg-Mn alloy (equilibrium with H2 at 101,325 Pa); _(Mg): H 3.950e-4; Mg-Mn alloy (equilibrium with H2 at 101,325 Pa): H 3.950e-4_ | unspecified | [1] Liang 2018 | Table 3, p. 3, row 7; `ORC-QWE3N3LLLE` |  |
+| Phase composition |  | 773.15 | (Mg) + Mg-Mn alloy (equilibrium with H2 at 101,325 Pa); _(Mg): H 3.600e-4; Mg-Mn alloy (equilibrium with H2 at 101,325 Pa): H 3.600e-4_ | experimental | [1] Liang 2018; _cites Tetsuo 1976_ | Table 3, p. 3, row 9; `ORC-R4IIEAQADZ` |  |
+| Phase composition |  | 773.15 | (Mg) + Mg-Mn alloy (equilibrium with H2 at 101,325 Pa); _(Mg): H 4.200e-4; Mg-Mn alloy (equilibrium with H2 at 101,325 Pa): H 4.200e-4_ | experimental | [1] Liang 2018; _cites Tetsuo 1976_ | Table 3, p. 3, row 1; `ORC-UURDVB6S3Y` |  |
+| Phase composition |  | 773.15 | (Mg) + Mg-Mn alloy (equilibrium with H2 at 101,325 Pa); _(Mg): H 3.890e-4; Mg-Mn alloy (equilibrium with H2 at 101,325 Pa): H 3.890e-4_ | unspecified | [1] Liang 2018 | Table 3, p. 3, row 10; `ORC-ZLPEOMWT7N` |  |
+| Phase composition |  | 973.15 | liquid + Mg-Mn alloy (equilibrium with H2 at 101,325 Pa); _liquid: H 0.00114; Mg-Mn alloy (equilibrium with H2 at 101,325 Pa): H 0.00114_ | experimental | [1] Liang 2018; _cites Tetsuo 1976_ | Table 3, p. 3, row 6; `ORC-EDJI43WKOC` |  |
+| Phase composition |  | 973.15 | liquid + Mg-Mn alloy (equilibrium with H2 at 101,325 Pa); _liquid: H 0.00115; Mg-Mn alloy (equilibrium with H2 at 101,325 Pa): H 0.00115_ | experimental | [1] Liang 2018; _cites Tetsuo 1976_ | Table 3, p. 3, row 2; `ORC-LU75CXGGVH` |  |
+| Phase composition |  | 973.15 | liquid + Mg-Mn alloy (equilibrium with H2 at 101,325 Pa); _liquid: H 0.00114; Mg-Mn alloy (equilibrium with H2 at 101,325 Pa): H 0.00114_ | unspecified | [1] Liang 2018 | Table 3, p. 3, row 8; `ORC-NQDZQBLEI4` |  |
+| Phase composition |  | 973.15 | liquid + Mg-Mn alloy (equilibrium with H2 at 101,325 Pa); _liquid: H 0.00112; Mg-Mn alloy (equilibrium with H2 at 101,325 Pa): H 0.00112_ | unspecified | [1] Liang 2018 | Table 3, p. 3, row 4; `ORC-O6JM4VTSST` |  |
 
 ## Sources
 
@@ -90,4 +90,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

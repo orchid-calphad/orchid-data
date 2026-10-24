@@ -54,8 +54,8 @@ Table: Invariant reactions reported in the literature for the Re–Ti system (2)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 3023 | peritectic |  | experimental | [1] Zacherl 2012; _cites Savitskii 1958_ | p. 2 | “The phase equilibrium of the Re-Ti system was investigated experimentally by Savitskii et al. on multiple occasions \[2-4\] and found to have two peritectic reactions with one around 48 at% Re at 2298 K \[2\] and the second around 80 at% Re at 3023 K \[3\].” |
-| 2298 | peritectic |  | experimental | [1] Zacherl 2012; _cites Savitskii 1959_ | p. 2 | “The phase equilibrium of the Re-Ti system was investigated experimentally by Savitskii et al. on multiple occasions \[2-4\] and found to have two peritectic reactions with one around 48 at% Re at 2298 K \[2\] and the second around 80 at% Re at 3023 K \[3\].” |
+| 3023 | peritectic |  | experimental | [1] Zacherl 2012; _cites Savitskii 1958_ | p. 2; `ORC-5H4EMRZUU2.b643fc` | “The phase equilibrium of the Re-Ti system was investigated experimentally by Savitskii et al. on multiple occasions \[2-4\] and found to have two peritectic reactions with one around 48 at% Re at 2298 K \[2\] and the second around 80 at% Re at 3023 K \[3\].” |
+| 2298 | peritectic |  | experimental | [1] Zacherl 2012; _cites Savitskii 1959_ | p. 2; `ORC-5H4EMRZUU2.9f51a1` | “The phase equilibrium of the Re-Ti system was investigated experimentally by Savitskii et al. on multiple occasions \[2-4\] and found to have two peritectic reactions with one around 48 at% Re at 2298 K \[2\] and the second around 80 at% Re at 3023 K \[3\].” |
 
 ## Other properties
 
@@ -65,8 +65,8 @@ Table: Phase transition, Re–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 3023 K | 3023 | congruent transformation | experimental | [1] Zacherl 2012; _cites Trzebiatowski 1955_ | p. 2 | “Re24Ti5 has a congruent melting temperature around 3023 K.” |
-| Phase transition | 3023 K | 3023 | other | experimental | [1] Zacherl 2012 | p. 7 | “The melting temperature of the compound, Re24Ti5, agrees well with its experimental value of 3023 K.” |
+| Phase transition | 3023 K | 3023 | congruent transformation | experimental | [1] Zacherl 2012; _cites Trzebiatowski 1955_ | p. 2; `ORC-SMVLG6U6LI` | “Re24Ti5 has a congruent melting temperature around 3023 K.” |
+| Phase transition | 3023 K | 3023 | other | experimental | [1] Zacherl 2012 | p. 7; `ORC-MLRCBTDCLO` | “The melting temperature of the compound, Re24Ti5, agrees well with its experimental value of 3023 K.” |
 
 ### Crystal structure (10)
 
@@ -74,16 +74,16 @@ Table: Crystal structure, Re–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 9.68 Å |  | UNKNOWN | DFT | [1] Zacherl 2012; _cites Wu 2007_ [doi](https://doi.org/10.1016/j.intermet.2007.01.007) | Table 1, p. 4, row 11 |  |
-| Lattice a | 3.121 Å |  | UNKNOWN; _alloy: Ti 0.5_ | DFT | [1] Zacherl 2012; _cites Wu 2007_ [doi](https://doi.org/10.1016/j.intermet.2007.01.007) | Table 1, p. 4, row 14 |  |
-| Lattice a | 9.632 Å |  | UNKNOWN | DFT | [1] Zacherl 2012 | Table 1, p. 4, row 10 |  |
-| Lattice a | 3.11 Å |  | UNKNOWN; _alloy: Ti 0.5_ | DFT | [1] Zacherl 2012 | Table 1, p. 4, row 13 |  |
-| Lattice a | 5.26 Å |  | UNKNOWN; _alloy: Ti 0.5_ | DFT | [1] Zacherl 2012 | Table 1, p. 4, row 16 |  |
-| Lattice a | 3.118 Å | 298.15 | UNKNOWN; _alloy: Ti 0.5_ | experimental | [1] Zacherl 2012; _cites Dwight 1969_ | Table 1, p. 4, row 15 |  |
-| Lattice a | 9.609 Å | 298.15 | UNKNOWN | experimental | [1] Zacherl 2012; _cites Trzebiatowski 1955_ | Table 1, p. 4, row 12 |  |
-| Molar volume; _printed: V0_ | 15.04 Å3/atom | 0 | B2–ReTi; _alloy: Ti 0.5_ | DFT | [1] Zacherl 2012 | Table 2, p. 4, row 9 |  |
-| Molar volume; _printed: V0_ | 15.21 Å3/atom | 0 | MoTi–ReTi; _alloy: Ti 0.5_ | DFT | [1] Zacherl 2012 | Table 2, p. 4, row 10 |  |
-| Molar volume; _printed: V0_ | 15.43 Å3/atom | 0 | χ-Re24Ti5; _alloy: Ti 0.172414_ | DFT | [1] Zacherl 2012 | Table 2, p. 4, row 8 |  |
+| Lattice a | 9.68 Å |  | UNKNOWN | DFT | [1] Zacherl 2012; _cites Wu 2007_ [doi](https://doi.org/10.1016/j.intermet.2007.01.007) | Table 1, p. 4, row 11; `ORC-23XEKJS27U` |  |
+| Lattice a | 3.121 Å |  | UNKNOWN; _alloy: Ti 0.5_ | DFT | [1] Zacherl 2012; _cites Wu 2007_ [doi](https://doi.org/10.1016/j.intermet.2007.01.007) | Table 1, p. 4, row 14; `ORC-BHXDP5DNHN` |  |
+| Lattice a | 9.632 Å |  | UNKNOWN | DFT | [1] Zacherl 2012 | Table 1, p. 4, row 10; `ORC-F55UYWXLEC` |  |
+| Lattice a | 3.11 Å |  | UNKNOWN; _alloy: Ti 0.5_ | DFT | [1] Zacherl 2012 | Table 1, p. 4, row 13; `ORC-TNKGEHKCXY` |  |
+| Lattice a | 5.26 Å |  | UNKNOWN; _alloy: Ti 0.5_ | DFT | [1] Zacherl 2012 | Table 1, p. 4, row 16; `ORC-YB3OSP2O3O` |  |
+| Lattice a | 3.118 Å | 298.15 | UNKNOWN; _alloy: Ti 0.5_ | experimental | [1] Zacherl 2012; _cites Dwight 1969_ | Table 1, p. 4, row 15; `ORC-62TL4GRSSM` |  |
+| Lattice a | 9.609 Å | 298.15 | UNKNOWN | experimental | [1] Zacherl 2012; _cites Trzebiatowski 1955_ | Table 1, p. 4, row 12; `ORC-YKSICXOHQN` |  |
+| Molar volume; _printed: V0_ | 15.04 Å3/atom | 0 | B2–ReTi; _alloy: Ti 0.5_ | DFT | [1] Zacherl 2012 | Table 2, p. 4, row 9; `ORC-R6VVBHCL2C` |  |
+| Molar volume; _printed: V0_ | 15.21 Å3/atom | 0 | MoTi–ReTi; _alloy: Ti 0.5_ | DFT | [1] Zacherl 2012 | Table 2, p. 4, row 10; `ORC-D5F575SYI5` |  |
+| Molar volume; _printed: V0_ | 15.43 Å3/atom | 0 | χ-Re24Ti5; _alloy: Ti 0.172414_ | DFT | [1] Zacherl 2012 | Table 2, p. 4, row 8; `ORC-2Q2E32HWDT` |  |
 
 ## Sources
 
@@ -148,4 +148,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

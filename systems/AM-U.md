@@ -68,7 +68,7 @@ Table: Invariant reactions reported in the literature for the Am–U system (1)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1380.15 | monotectic |  | model | [1] Perron 2015 | p. 2 | “Regarding the Am-U system (Fig. 1a), the model result is characterized by a liquid miscibility gap with a monotectic invariant line at about 1107 °C (1380 K).” |
+| 1380.15 | monotectic |  | model | [1] Perron 2015 | p. 2; `ORC-TQFNPTQ4C2` | “Regarding the Am-U system (Fig. 1a), the model result is characterized by a liquid miscibility gap with a monotectic invariant line at about 1107 °C (1380 K).” |
 
 ## Other properties
 
@@ -78,9 +78,9 @@ Table: Phase transition, Am–U system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1603.15 K | 1603.15 | other | model | [1] Perron 2015 | p. 8 | “The top of the liquid miscibility gap, located at 2132 °C, is between the Ogawa's (1330 °C) and Kurata's (2734 °C) predictions.” |
-| Phase transition | 2405.15 K | 2405.15 | other | model | [1] Perron 2015 | p. 8 | “The top of the liquid miscibility gap, located at 2132 °C, is between the Ogawa's (1330 °C) and Kurata's (2734 °C) predictions.” |
-| Phase transition | 3007.15 K | 3007.15 | other | model | [1] Perron 2015 | p. 8 | “The top of the liquid miscibility gap, located at 2132 °C, is between the Ogawa's (1330 °C) and Kurata's (2734 °C) predictions.” |
+| Phase transition | 1603.15 K | 1603.15 | other | model | [1] Perron 2015 | p. 8; `ORC-DLBEFNYE2F.da6ae3` | “The top of the liquid miscibility gap, located at 2132 °C, is between the Ogawa's (1330 °C) and Kurata's (2734 °C) predictions.” |
+| Phase transition | 2405.15 K | 2405.15 | other | model | [1] Perron 2015 | p. 8; `ORC-DLBEFNYE2F.7ad7bd` | “The top of the liquid miscibility gap, located at 2132 °C, is between the Ogawa's (1330 °C) and Kurata's (2734 °C) predictions.” |
+| Phase transition | 3007.15 K | 3007.15 | other | model | [1] Perron 2015 | p. 8; `ORC-DLBEFNYE2F.dd2199` | “The top of the liquid miscibility gap, located at 2132 °C, is between the Ogawa's (1330 °C) and Kurata's (2734 °C) predictions.” |
 
 ## Sources
 
@@ -145,4 +145,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -14,12 +14,12 @@ Table: Enthalpy of formation of FeU6 reported in the literature (6)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -26.438 kJ/mol (basis unstated) | FeU6 | 298.15 | model |  | [Fe–U](https://data.orchid-project.org/systems/FE-U.html) | [1] Chatain 2003; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02668229) | Table 7, p. 8, row 19 |  |
-| -21.343 kJ/mol (basis unstated) | FeU6 | 298.15 | model |  | [Fe–U](https://data.orchid-project.org/systems/FE-U.html) | [1] Chatain 2003; _cites Kurata 2003_ | Table 7, p. 8, row 21 |  |
-| -20.931 kJ/mol (basis unstated) | Fe0.143U0.857 | 298.15 | model |  | [Fe–U](https://data.orchid-project.org/systems/FE-U.html) | [1] Chatain 2003 | Table 7, p. 8, row 20 |  |
-| -7.312 kJ/mol (basis unstated) | Fe0.143U0.857 | 298.15 | model |  | [Fe–U](https://data.orchid-project.org/systems/FE-U.html) | [1] Chatain 2003 | Table 7, p. 8, row 17 |  |
-| -6.75 kJ/mol (basis unstated) ± 1.3 | FeU6 | 298.15 | model |  | [Fe–U](https://data.orchid-project.org/systems/FE-U.html) | [1] Chatain 2003; _cites Labroche 2000_ | Table 7, p. 8, row 16 |  |
-| -2.33 kJ/mol (basis unstated) ± 0.72 | Fe0.143U0.857 | 298.15 | model |  | [Fe–U](https://data.orchid-project.org/systems/FE-U.html) | [1] Chatain 2003; _cites Ivanov 1962_ | Table 7, p. 8, row 18 |  |
+| -26.438 kJ/mol (basis unstated) | FeU6 | 298.15 | model |  | [Fe–U](https://data.orchid-project.org/systems/FE-U.html) | [1] Chatain 2003; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02668229) | Table 7, p. 8, row 19; `ORC-XOOMW3BU7D.d7ee3d` |  |
+| -21.343 kJ/mol (basis unstated) | FeU6 | 298.15 | model |  | [Fe–U](https://data.orchid-project.org/systems/FE-U.html) | [1] Chatain 2003; _cites Kurata 2003_ | Table 7, p. 8, row 21; `ORC-IL73XN3XZM.137782` |  |
+| -20.931 kJ/mol (basis unstated) | Fe0.143U0.857 | 298.15 | model |  | [Fe–U](https://data.orchid-project.org/systems/FE-U.html) | [1] Chatain 2003 | Table 7, p. 8, row 20; `ORC-7LTO3XUXDK.6c0f84` |  |
+| -7.312 kJ/mol (basis unstated) | Fe0.143U0.857 | 298.15 | model |  | [Fe–U](https://data.orchid-project.org/systems/FE-U.html) | [1] Chatain 2003 | Table 7, p. 8, row 17; `ORC-WY6QHZTJPW.94afe4` |  |
+| -6.75 kJ/mol (basis unstated) ± 1.3 | FeU6 | 298.15 | model |  | [Fe–U](https://data.orchid-project.org/systems/FE-U.html) | [1] Chatain 2003; _cites Labroche 2000_ | Table 7, p. 8, row 16; `ORC-IZTHDDOKTE.101091` |  |
+| -2.33 kJ/mol (basis unstated) ± 0.72 | Fe0.143U0.857 | 298.15 | model |  | [Fe–U](https://data.orchid-project.org/systems/FE-U.html) | [1] Chatain 2003; _cites Ivanov 1962_ | Table 7, p. 8, row 18; `ORC-TTQMN7RO73.4fff1b` |  |
 
 ### Uncertainty budget
 
@@ -87,4 +87,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

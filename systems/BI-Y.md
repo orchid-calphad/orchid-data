@@ -52,16 +52,16 @@ Table: Invariant reactions reported in the literature for the Bi–Y system (10)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2293.15 | congruent melting: L -> BiY | L: Y 0.5; BiY: Y 0.5 | experimental | [1] Wang 2011; _cites Schmidt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990159-3) | Table 4, p. 5, row 3 |  |
-| 2292.65 | congruent melting: L -> BiY | L: Y 0.5; BiY: Y 0.5 | model | [1] Wang 2011 | Table 4, p. 5, row 4 |  |
-| 1804.05 | peritectic: L + BiY -> Bi3Y5 | L: Y 0.676; BiY: Y 0.5; Bi3Y5: Y 0.625 | model | [1] Wang 2011 | Table 4, p. 5, row 6 |  |
-| 1803.15 | peritectic: L + BiY -> Bi3Y5 | BiY: Y 0.5; Bi3Y5: Y 0.625 | experimental | [1] Wang 2011; _cites Schmidt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990159-3) | Table 4, p. 5, row 5 |  |
-| 1418.15 | eutectic: L -> Bi3Y5 + (αY) | L: Y 0.815; Bi3Y5: Y 0.625; (αY): Y 1 | experimental | [1] Wang 2011; _cites Schmidt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990159-3) | Table 4, p. 5, row 7 |  |
-| 1418.15 | eutectic: L (81.5 at.% Y) M aY + Bi3Y5 |  | experimental | [1] Wang 2011; _cites Schmidt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990159-3) | p. 2 | “Schmidt et al.\[18\] also determined two eutectic reactions: L (\<0.1 at.% Y) M (Bi) + BiY at 269 C and L (81.5 at.% Y) M aY + Bi3Y5 at 1145 C.” |
-| 1417.65 | eutectic: L -> Bi3Y5 + (αY) | L: Y 0.818; Bi3Y5: Y 0.625; (αY): Y 0.998 | model | [1] Wang 2011 | Table 4, p. 5, row 8 |  |
-| 544.55 | eutectic: L -> (Bi) + BiY | L: Y 0; (Bi): Y 0; BiY: Y 0.5 | model | [1] Wang 2011 | Table 4, p. 5, row 2 |  |
-| 542.15 | eutectic: L -> (Bi) + BiY | (Bi): Y 0; BiY: Y 0.5 | experimental | [1] Wang 2011; _cites Schmidt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990159-3) | Table 4, p. 5, row 1 |  |
-| 542.15 | eutectic: L (\<0.1 at.% Y) M (Bi) + BiY |  | experimental | [1] Wang 2011; _cites Schmidt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990159-3) | p. 2 | “Schmidt et al.\[18\] also determined two eutectic reactions: L (\<0.1 at.% Y) M (Bi) + BiY at 269 C and L (81.5 at.% Y) M aY + Bi3Y5 at 1145 C.” |
+| 2293.15 | congruent melting: L -> BiY | L: Y 0.5; BiY: Y 0.5 | experimental | [1] Wang 2011; _cites Schmidt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990159-3) | Table 4, p. 5, row 3; `ORC-C5XQYJZHTD` |  |
+| 2292.65 | congruent melting: L -> BiY | L: Y 0.5; BiY: Y 0.5 | model | [1] Wang 2011 | Table 4, p. 5, row 4; `ORC-54FD4LNUCJ` |  |
+| 1804.05 | peritectic: L + BiY -> Bi3Y5 | L: Y 0.676; BiY: Y 0.5; Bi3Y5: Y 0.625 | model | [1] Wang 2011 | Table 4, p. 5, row 6; `ORC-UUO5OZAWAK` |  |
+| 1803.15 | peritectic: L + BiY -> Bi3Y5 | BiY: Y 0.5; Bi3Y5: Y 0.625 | experimental | [1] Wang 2011; _cites Schmidt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990159-3) | Table 4, p. 5, row 5; `ORC-M5ZNMXWQR4` |  |
+| 1418.15 | eutectic: L -> Bi3Y5 + (αY) | L: Y 0.815; Bi3Y5: Y 0.625; (αY): Y 1 | experimental | [1] Wang 2011; _cites Schmidt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990159-3) | Table 4, p. 5, row 7; `ORC-2LHQUD4JUH` |  |
+| 1418.15 | eutectic: L (81.5 at.% Y) M aY + Bi3Y5 |  | experimental | [1] Wang 2011; _cites Schmidt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990159-3) | p. 2; `ORC-W6ZZKUBENJ.507677` | “Schmidt et al.\[18\] also determined two eutectic reactions: L (\<0.1 at.% Y) M (Bi) + BiY at 269 C and L (81.5 at.% Y) M aY + Bi3Y5 at 1145 C.” |
+| 1417.65 | eutectic: L -> Bi3Y5 + (αY) | L: Y 0.818; Bi3Y5: Y 0.625; (αY): Y 0.998 | model | [1] Wang 2011 | Table 4, p. 5, row 8; `ORC-QOFX5U577G` |  |
+| 544.55 | eutectic: L -> (Bi) + BiY | L: Y 0; (Bi): Y 0; BiY: Y 0.5 | model | [1] Wang 2011 | Table 4, p. 5, row 2; `ORC-6X2ROKZE6W` |  |
+| 542.15 | eutectic: L -> (Bi) + BiY | (Bi): Y 0; BiY: Y 0.5 | experimental | [1] Wang 2011; _cites Schmidt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990159-3) | Table 4, p. 5, row 1; `ORC-S2VCLQCEP3` |  |
+| 542.15 | eutectic: L (\<0.1 at.% Y) M (Bi) + BiY |  | experimental | [1] Wang 2011; _cites Schmidt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990159-3) | p. 2; `ORC-W6ZZKUBENJ.40d15c` | “Schmidt et al.\[18\] also determined two eutectic reactions: L (\<0.1 at.% Y) M (Bi) + BiY at 269 C and L (81.5 at.% Y) M aY + Bi3Y5 at 1145 C.” |
 
 ## Sources
 
@@ -126,4 +126,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

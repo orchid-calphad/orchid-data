@@ -60,8 +60,8 @@ Table: Invariant reactions reported in the literature for the Si–Sn system (2)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 505.1 | other: Liquid -> bct-A5 + diamond | L: Sn 0; bct-A5: Sn 0; diamond: Sn 1 | model | [1] Hämäläinen 1998 | Table I, p. 281, row 1 |  |
-| 505.08 | eutectic |  | model | [2] Jacobs 1996 | p. 2 | “The calculated position of the eutectic point is T=505.08 K and 4\*10- at% SI.” |
+| 505.1 | other: Liquid -> bct-A5 + diamond | L: Sn 0; bct-A5: Sn 0; diamond: Sn 1 | model | [1] Hämäläinen 1998 | Table I, p. 281, row 1; `ORC-GG4PPQRD7N` |  |
+| 505.08 | eutectic |  | model | [2] Jacobs 1996 | p. 2; `ORC-NFBOPSA2CK` | “The calculated position of the eutectic point is T=505.08 K and 4\*10- at% SI.” |
 
 ## Other properties
 
@@ -71,8 +71,8 @@ Table: Phase transition, Si–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 286.2 K | 286.2 |  | experimental | [3] Sun 2012 | p. 2 | “The (β Sn) transforms to (α Sn) at 13.05 °C.” |
-| Phase transition | 505.15 K | 505.15 |  | experimental | [3] Sun 2012 | p. 2 | “The eutectic point lies very close to the melting point of pure Sn (232 °C).” |
+| Phase transition | 286.2 K | 286.2 |  | experimental | [3] Sun 2012 | p. 2; `ORC-MXUTATUQ2D` | “The (β Sn) transforms to (α Sn) at 13.05 °C.” |
+| Phase transition | 505.15 K | 505.15 |  | experimental | [3] Sun 2012 | p. 2; `ORC-EQ2C2O5AVX` | “The eutectic point lies very close to the melting point of pure Sn (232 °C).” |
 
 ## Sources
 
@@ -139,4 +139,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

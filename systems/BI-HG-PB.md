@@ -26,12 +26,12 @@ Table: Invariant reactions reported in the literature for the Bi–Hg–Pb syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 355.7 | peritectic: liq + hcp\_ε(Pb,Bi) = fcc(Pb) + rhombo_A7(Bi) |  | experimental | [1] Maitre 2002 | Table 6, p. 7, row 5 |  |
-| 355.5 | peritectic: liq + hcp\_ε(Pb,Bi) = fcc(Pb) + rhombo_A7(Bi) |  | experimental | [1] Maitre 2002 | Table 6, p. 7, row 6 |  |
-| 310.7 | peritectic: C = liq + fcc(Pb) + rhombo_A7(Bi) |  | experimental | [1] Maitre 2002 | Table 6, p. 7, row 1 |  |
-| 310.5 | peritectic: C = liq + fcc(Pb) + rhombo_A7(Bi) |  | experimental | [1] Maitre 2002 | Table 6, p. 7, row 3 |  |
-| 310.4 | peritectic: C = liq + fcc(Pb) + rhombo_A7(Bi) |  | experimental | [1] Maitre 2002 | Table 6, p. 7, row 2 |  |
-| 310.3 | peritectic: C = liq + fcc(Pb) + rhombo_A7(Bi) |  | experimental | [1] Maitre 2002 | Table 6, p. 7, row 4 |  |
+| 355.7 | peritectic: liq + hcp\_ε(Pb,Bi) = fcc(Pb) + rhombo_A7(Bi) |  | experimental | [1] Maitre 2002 | Table 6, p. 7, row 5; `ORC-UX4M27OD3N` |  |
+| 355.5 | peritectic: liq + hcp\_ε(Pb,Bi) = fcc(Pb) + rhombo_A7(Bi) |  | experimental | [1] Maitre 2002 | Table 6, p. 7, row 6; `ORC-3Y7GP2IBPY` |  |
+| 310.7 | peritectic: C = liq + fcc(Pb) + rhombo_A7(Bi) |  | experimental | [1] Maitre 2002 | Table 6, p. 7, row 1; `ORC-SXGEW2ODG2` |  |
+| 310.5 | peritectic: C = liq + fcc(Pb) + rhombo_A7(Bi) |  | experimental | [1] Maitre 2002 | Table 6, p. 7, row 3; `ORC-M6GETEO6BE` |  |
+| 310.4 | peritectic: C = liq + fcc(Pb) + rhombo_A7(Bi) |  | experimental | [1] Maitre 2002 | Table 6, p. 7, row 2; `ORC-UBWZCDRDU7` |  |
+| 310.3 | peritectic: C = liq + fcc(Pb) + rhombo_A7(Bi) |  | experimental | [1] Maitre 2002 | Table 6, p. 7, row 4; `ORC-BTFB6JDR7U` |  |
 
 ## Sources
 
@@ -74,4 +74,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -36,7 +36,7 @@ Table: Enthalpies of formation, O–Yb system (1)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| C-Yb2O3 |  | -1814.5 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 1 |  |
+| C-Yb2O3 |  | -1814.5 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 1; `ORC-3ZOYOUQ6WE.294cbd` |  |
 
 ## Other properties
 
@@ -46,12 +46,12 @@ Table: Phase transition, O–Yb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 298.15 K | 298.15 | polymorphic: C ⇒ B; _alloy: O 0.6, Yb 0.4_ | unspecified | [1] ZINKEVICH 2007; _cites Meyer 1995_ | Table 2.3, p. 10, row 26 |  |
-| Phase transition | 1273 K | 1273 | polymorphic: C ⇒ B; _alloy: O 0.6, Yb 0.4_ | experimental | [1] ZINKEVICH 2007; _cites Hoekstra 1966_ | Table 2.3, p. 10, row 25 |  |
-| Phase transition | 2653 K | 2653 | polymorphic: C \<=> H; _alloy: O 0.6, Yb 0.4_ | model | [1] ZINKEVICH 2007 | Table 2.2, p. 8, row 23 |  |
-| Phase transition | 2653 K | 2653 | polymorphic: C ⇔ H; _alloy: O 0.6, Yb 0.4_ | experimental | [1] ZINKEVICH 2007; _cites Shevtchenko 1985_ | Table 2.1, p. 7, row 36 |  |
-| Phase transition | 2653 K | 2653 | polymorphic: C ⇔ H; _alloy: O 0.6, Yb 0.4_ | experimental | [1] ZINKEVICH 2007; _cites Foex 1966_ | Table 2.1, p. 7, row 34 |  |
-| Phase transition | 2653 K | 2653 | polymorphic: C ⇔ H; _alloy: O 0.6, Yb 0.4_ | experimental | [1] ZINKEVICH 2007; _cites Tresvyatkii 1971_ | Table 2.1, p. 7, row 35 |  |
+| Phase transition | 298.15 K | 298.15 | polymorphic: C ⇒ B; _alloy: O 0.6, Yb 0.4_ | unspecified | [1] ZINKEVICH 2007; _cites Meyer 1995_ | Table 2.3, p. 10, row 26; `ORC-PH6BYSJGA5` |  |
+| Phase transition | 1273 K | 1273 | polymorphic: C ⇒ B; _alloy: O 0.6, Yb 0.4_ | experimental | [1] ZINKEVICH 2007; _cites Hoekstra 1966_ | Table 2.3, p. 10, row 25; `ORC-TPBTC3T4RD` |  |
+| Phase transition | 2653 K | 2653 | polymorphic: C \<=> H; _alloy: O 0.6, Yb 0.4_ | model | [1] ZINKEVICH 2007 | Table 2.2, p. 8, row 23; `ORC-PBCVQXKZDI` |  |
+| Phase transition | 2653 K | 2653 | polymorphic: C ⇔ H; _alloy: O 0.6, Yb 0.4_ | experimental | [1] ZINKEVICH 2007; _cites Shevtchenko 1985_ | Table 2.1, p. 7, row 36; `ORC-CVJHI5Y32P` |  |
+| Phase transition | 2653 K | 2653 | polymorphic: C ⇔ H; _alloy: O 0.6, Yb 0.4_ | experimental | [1] ZINKEVICH 2007; _cites Foex 1966_ | Table 2.1, p. 7, row 34; `ORC-H3E44KKCNX` |  |
+| Phase transition | 2653 K | 2653 | polymorphic: C ⇔ H; _alloy: O 0.6, Yb 0.4_ | experimental | [1] ZINKEVICH 2007; _cites Tresvyatkii 1971_ | Table 2.1, p. 7, row 35; `ORC-HK5ACU2YNZ` |  |
 
 ### Heat capacity / entropy / enthalpy (8)
 
@@ -59,14 +59,14 @@ Table: Heat capacity / entropy / enthalpy, O–Yb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: Δtrs°S_ | 14.223 J mol^-1 K^-1 |  | C-Yb₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 6 |  |
-| Entropy; _printed: Δtrs°S_ | 5.293 J mol^-1 K^-1 |  | C-Yb₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 5 |  |
-| Entropy; _printed: Δtrs°S_ | 3.725 J mol^-1 K^-1 |  | C-Yb₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 4 |  |
-| Entropy; _printed: ΔS_ | 3.879 J mol^-1 K^-1 |  | UNKNOWN; _alloy: O 0.6, Yb 0.4_ | experimental | [1] ZINKEVICH 2007; _cites Hoekstra 1966_ | Table 5.1, p. 18, row 21 |  |
-| Entropy; _printed: ΔS_ | 3.879 J mol−1 K−1 |  | Yb2O3; _alloy: O 0.6, Yb 0.4_ | experimental | [1] ZINKEVICH 2007; _cites Hoekstra 1966_ | Table 5.1, p. 18, row 21 |  |
-| Entropy; _printed: °S_ | 133.05 J/mol (basis unstated)/K | 298.15 | C-Yb2O3; _alloy: O 0.6, Yb 0.4_ | unspecified | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 1 |  |
-| Entropy; _printed: Δtrs°S_ | 9.654 J mol^-1 K^-1 | 2653 | C-Yb₂O₃ | unspecified | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 2 |  |
-| Entropy; _printed: Δtrs°S_ | 30.221 J mol^-1 K^-1 | 2708 | C-Yb₂O₃ | unspecified | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 3 |  |
+| Entropy; _printed: Δtrs°S_ | 14.223 J mol^-1 K^-1 |  | C-Yb₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 6; `ORC-G6G5UBEEYV.f5a83b` |  |
+| Entropy; _printed: Δtrs°S_ | 5.293 J mol^-1 K^-1 |  | C-Yb₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 5; `ORC-M2YAHA32T4.373265` |  |
+| Entropy; _printed: Δtrs°S_ | 3.725 J mol^-1 K^-1 |  | C-Yb₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 4; `ORC-P5734CNPAK.f3311b` |  |
+| Entropy; _printed: ΔS_ | 3.879 J mol^-1 K^-1 |  | UNKNOWN; _alloy: O 0.6, Yb 0.4_ | experimental | [1] ZINKEVICH 2007; _cites Hoekstra 1966_ | Table 5.1, p. 18, row 21; `ORC-2BPWTZEXI7.de1d94` |  |
+| Entropy; _printed: ΔS_ | 3.879 J mol−1 K−1 |  | Yb2O3; _alloy: O 0.6, Yb 0.4_ | experimental | [1] ZINKEVICH 2007; _cites Hoekstra 1966_ | Table 5.1, p. 18, row 21; `ORC-2BPWTZEXI7.891baa` |  |
+| Entropy; _printed: °S_ | 133.05 J/mol (basis unstated)/K | 298.15 | C-Yb2O3; _alloy: O 0.6, Yb 0.4_ | unspecified | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 1; `ORC-3ZOYOUQ6WE.34ad1e` |  |
+| Entropy; _printed: Δtrs°S_ | 9.654 J mol^-1 K^-1 | 2653 | C-Yb₂O₃ | unspecified | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 2; `ORC-CMQZEBFFY5.50b7fc` |  |
+| Entropy; _printed: Δtrs°S_ | 30.221 J mol^-1 K^-1 | 2708 | C-Yb₂O₃ | unspecified | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 3; `ORC-2ZZUJDV345.8a4bab` |  |
 
 ### Crystal structure (3)
 
@@ -74,9 +74,9 @@ Table: Crystal structure, O–Yb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| lattice molar volume | 38.574 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Yb 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 16 |  |
-| lattice molar volume | 39.266 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Yb 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 16 |  |
-| lattice molar volume | 42.757 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Yb 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 16 |  |
+| lattice molar volume | 38.574 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Yb 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 16; `ORC-VPPNC7HU2I.185db8` |  |
+| lattice molar volume | 39.266 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Yb 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 16; `ORC-VPPNC7HU2I.aed9a9` |  |
+| lattice molar volume | 42.757 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Yb 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 16; `ORC-VPPNC7HU2I.c13c06` |  |
 
 ### Other property (5)
 
@@ -84,11 +84,11 @@ Table: Other property, O–Yb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Transition enthalpy; _printed: Δtrs°H_ | 38415 J mol^-1 |  | C-Yb₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 6 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 25165 J mol^-1 |  | C-Yb₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 5 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 15345 J mol^-1 |  | C-Yb₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 4 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 25612 J mol^-1 | 2653 | C-Yb₂O₃ | unspecified | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 2 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 81839 J mol^-1 | 2708 | C-Yb₂O₃ | unspecified | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 3 |  |
+| Transition enthalpy; _printed: Δtrs°H_ | 38415 J mol^-1 |  | C-Yb₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 6; `ORC-G6G5UBEEYV.d8b6e2` |  |
+| Transition enthalpy; _printed: Δtrs°H_ | 25165 J mol^-1 |  | C-Yb₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 5; `ORC-M2YAHA32T4.bee053` |  |
+| Transition enthalpy; _printed: Δtrs°H_ | 15345 J mol^-1 |  | C-Yb₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 4; `ORC-P5734CNPAK.d0114e` |  |
+| Transition enthalpy; _printed: Δtrs°H_ | 25612 J mol^-1 | 2653 | C-Yb₂O₃ | unspecified | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 2; `ORC-CMQZEBFFY5.4fb054` |  |
+| Transition enthalpy; _printed: Δtrs°H_ | 81839 J mol^-1 | 2708 | C-Yb₂O₃ | unspecified | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 3; `ORC-2ZZUJDV345.1483e4` |  |
 
 ## Sources
 
@@ -142,4 +142,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -60,18 +60,18 @@ Table: Invariant reactions reported in the literature for the Mn–U system (12)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1415.15 | peritectic: δMn + L -> γMn | δMn: U 0.003; L: U 0.075; γMn: U 0.002 | model | [1] Liu 2008 | Table 4, p. 5, row 12 |  |
-| 1384.15 | peritectic: γMn + L -> βMn | γMn: U 0.004; L: U 0.099; βMn: U 0.007 | model | [1] Liu 2008 | Table 4, p. 5, row 13 |  |
-| 1308.15 | eutectic: L -> βMn + Mn2U | L: U 0.163; βMn: U 0.011; Mn2U: U 0.333 | model | [1] Liu 2008 | Table 4, p. 5, row 9 |  |
-| 1308.15 | eutectic: L -> βMn + Mn2U | L: U 0.16; Mn2U: U 0.333 | experimental | [1] Liu 2008; _cites Massalski 1990_ | Table 4, p. 5, row 8 |  |
-| 1018.15 | metatectic/catatectic: γU -> βU + L | γU: U 0.977; βU: U 0.988; L: U 0.794 | experimental | [1] Liu 2008; _cites Massalski 1990_ | Table 4, p. 5, row 1 |  |
-| 1018.15 | metatectic/catatectic: γU -> βU + L | γU: U 0.973; βU: U 0.9878; L: U 0.807 | model | [1] Liu 2008 | Table 4, p. 5, row 2 |  |
-| 998.15 | peritectic: βU + L -> MnU6 | βU: U 0.988; L: U 0.785; MnU6: U 0.857 | experimental | [1] Liu 2008; _cites Massalski 1990_ | Table 4, p. 5, row 3 |  |
-| 998.15 | peritectic: βU + L -> MnU6 | βU: U 0.987; L: U 0.79; MnU6: U 0.857 | model | [1] Liu 2008 | Table 4, p. 5, row 4 |  |
-| 989.15 | eutectic: L -> MnU6 + Mn2U | L: U 0.785; MnU6: U 0.857; Mn2U: U 0.333 | experimental | [1] Liu 2008; _cites Massalski 1990_ | Table 4, p. 5, row 6 |  |
-| 989.15 | eutectic: L -> MnU6 + Mn2U | L: U 0.774; MnU6: U 0.857; Mn2U: U 0.333 | model | [1] Liu 2008 | Table 4, p. 5, row 7 |  |
-| 971.15 | eutectoid: βMn -> αMn + Mn2U | βMn: U 0.003; αMn: U 0; Mn2U: U 0.333 | model | [1] Liu 2008 | Table 4, p. 5, row 14 |  |
-| 899.15 | eutectoid: βU -> αU + MnU6 | βU: U 0.988; αU: U 1; MnU6: U 0.857 | experimental | [1] Liu 2008; _cites Massalski 1990_ | Table 4, p. 5, row 5 |  |
+| 1415.15 | peritectic: δMn + L -> γMn | δMn: U 0.003; L: U 0.075; γMn: U 0.002 | model | [1] Liu 2008 | Table 4, p. 5, row 12; `ORC-LN7CFQD6F4` |  |
+| 1384.15 | peritectic: γMn + L -> βMn | γMn: U 0.004; L: U 0.099; βMn: U 0.007 | model | [1] Liu 2008 | Table 4, p. 5, row 13; `ORC-XQAO6QD5FT` |  |
+| 1308.15 | eutectic: L -> βMn + Mn2U | L: U 0.163; βMn: U 0.011; Mn2U: U 0.333 | model | [1] Liu 2008 | Table 4, p. 5, row 9; `ORC-4KKHAJ3TQD` |  |
+| 1308.15 | eutectic: L -> βMn + Mn2U | L: U 0.16; Mn2U: U 0.333 | experimental | [1] Liu 2008; _cites Massalski 1990_ | Table 4, p. 5, row 8; `ORC-LRX7LDVFCN` |  |
+| 1018.15 | metatectic/catatectic: γU -> βU + L | γU: U 0.977; βU: U 0.988; L: U 0.794 | experimental | [1] Liu 2008; _cites Massalski 1990_ | Table 4, p. 5, row 1; `ORC-MLGMBSVK5F` |  |
+| 1018.15 | metatectic/catatectic: γU -> βU + L | γU: U 0.973; βU: U 0.9878; L: U 0.807 | model | [1] Liu 2008 | Table 4, p. 5, row 2; `ORC-YRU5JM3DI7` |  |
+| 998.15 | peritectic: βU + L -> MnU6 | βU: U 0.988; L: U 0.785; MnU6: U 0.857 | experimental | [1] Liu 2008; _cites Massalski 1990_ | Table 4, p. 5, row 3; `ORC-GJ5FF2PB25` |  |
+| 998.15 | peritectic: βU + L -> MnU6 | βU: U 0.987; L: U 0.79; MnU6: U 0.857 | model | [1] Liu 2008 | Table 4, p. 5, row 4; `ORC-TSYFKCLSMO` |  |
+| 989.15 | eutectic: L -> MnU6 + Mn2U | L: U 0.785; MnU6: U 0.857; Mn2U: U 0.333 | experimental | [1] Liu 2008; _cites Massalski 1990_ | Table 4, p. 5, row 6; `ORC-JRGVFU6J34` |  |
+| 989.15 | eutectic: L -> MnU6 + Mn2U | L: U 0.774; MnU6: U 0.857; Mn2U: U 0.333 | model | [1] Liu 2008 | Table 4, p. 5, row 7; `ORC-REQR4EUOEE` |  |
+| 971.15 | eutectoid: βMn -> αMn + Mn2U | βMn: U 0.003; αMn: U 0; Mn2U: U 0.333 | model | [1] Liu 2008 | Table 4, p. 5, row 14; `ORC-AHXD576GGE` |  |
+| 899.15 | eutectoid: βU -> αU + MnU6 | βU: U 0.988; αU: U 1; MnU6: U 0.857 | experimental | [1] Liu 2008; _cites Massalski 1990_ | Table 4, p. 5, row 5; `ORC-GQPHOHXOZM` |  |
 
 ## Other properties
 
@@ -81,8 +81,8 @@ Table: Phase transition, Mn–U system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1393.15 K | 1393.15 | congruent melting: L -> Mn2U; _L: U 0.333; Mn2U: U 0.333_ | model | [1] Liu 2008 | Table 4, p. 5, row 11 |  |
-| Phase transition | 1393.15 K | 1393.15 | congruent melting: L -> Mn2U; _L: U 0.333; Mn2U: U 0.333_ | experimental | [1] Liu 2008; _cites Massalski 1990_ | Table 4, p. 5, row 10 |  |
+| Phase transition | 1393.15 K | 1393.15 | congruent melting: L -> Mn2U; _L: U 0.333; Mn2U: U 0.333_ | model | [1] Liu 2008 | Table 4, p. 5, row 11; `ORC-GUE4BDEW43` |  |
+| Phase transition | 1393.15 K | 1393.15 | congruent melting: L -> Mn2U; _L: U 0.333; Mn2U: U 0.333_ | experimental | [1] Liu 2008; _cites Massalski 1990_ | Table 4, p. 5, row 10; `ORC-RDHOR43ABM` |  |
 
 ## Sources
 
@@ -147,4 +147,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

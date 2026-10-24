@@ -58,40 +58,40 @@ Table: Invariant reactions reported in the literature for the Hg–Mg system (34
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 903 | congruent melting: L↔MgHg | MgHg: Hg 0.5 | experimental | [1] Feng 2009; _cites ref. 25_ | Table 6, p. 5, row 24 |  |
-| 900 | congruent melting: L↔MgHg | MgHg: Hg 0.5 | experimental | [1] Feng 2009; _cites ref. 26_ | Table 6, p. 5, row 25 |  |
-| 899 | congruent melting: L↔MgHg | MgHg: Hg 0.5 | model | [1] Feng 2009 | Table 6, p. 5, row 27 |  |
-| 889 | congruent melting: L↔MgHg | MgHg: Hg 0.5 | model | [1] Feng 2009; _cites ref. 27_ | Table 6, p. 5, row 26 |  |
-| 853 | congruent melting: L↔Mg2Hg | Mg2Hg: Hg 0.3333 | experimental | [1] Feng 2009; _cites ref. 25_ | Table 6, p. 5, row 11 |  |
-| 847 | congruent melting: L↔Mg2Hg | Mg2Hg: Hg 0.333 | model | [1] Feng 2009; _cites ref. 27_ | Table 6, p. 5, row 13 |  |
-| 843 | congruent melting: L↔Mg2Hg | Mg2Hg: Hg 0.3333 | experimental | [1] Feng 2009; _cites ref. 26_ | Table 6, p. 5, row 12 |  |
-| 842 | congruent melting: L↔Mg2Hg | Mg2Hg: Hg 0.333 | model | [1] Feng 2009 | Table 6, p. 5, row 14 |  |
-| 835 | congruent melting: L↔Mg5Hg3 | Mg5Hg3: Hg 0.375 | experimental | [1] Feng 2009; _cites ref. 25_ | Table 6, p. 5, row 18 |  |
-| 835 | congruent melting: L↔Mg5Hg3 | L: Hg 0.375, Mg 0.625; Mg5Hg3: Hg 0.375, Mg 0.625 | model | [1] Feng 2009; _cites ref. 27_ | Table 6, p. 5, row 19 |  |
-| 834 | congruent melting: L↔Mg5Hg3 | Mg5Hg3: Hg 0.375 | model | [1] Feng 2009 | Table 6, p. 5, row 20 |  |
-| 833.5 | eutectic: L↔Mg2Hg+Mg5Hg3 | L: Hg 0.371; Mg2Hg: Hg 0.333; Mg5Hg3: Hg 0.375 | model | [1] Feng 2009 | Table 6, p. 5, row 17 |  |
-| 833 | eutectic: L↔MgHg+Mg5Hg3 | L: Hg 0.4; MgHg: Hg 0.5; Mg5Hg3: Hg 0.375 | experimental | [1] Feng 2009; _cites ref. 25_ | Table 6, p. 5, row 21 |  |
-| 832 | eutectic: L↔MgHg+Mg5Hg3 | MgHg: Hg 0.5, Mg 0.5; Mg5Hg3: Hg 0.375, Mg 0.625 | model | [1] Feng 2009; _cites ref. 27_ | Table 6, p. 5, row 22 |  |
-| 831 | eutectic: L↔Mg2Hg+Mg5Hg3 | L: Hg 0.362; Mg2Hg: Hg 0.3333; Mg5Hg3: Hg 0.375 | experimental | [1] Feng 2009; _cites ref. 25_ | Table 6, p. 5, row 15 |  |
-| 831 | eutectic: L↔Mg2Hg+Mg5Hg3 | Mg2Hg: Hg 0.333333, Mg 0.666667; Mg5Hg3: Hg 0.375, Mg 0.625 | experimental | [1] Feng 2009; _cites ref. 28_ | Table 6, p. 5, row 16 |  |
-| 831 | eutectic: L↔MgHg+Mg5Hg3 | L: Hg 0.398; MgHg: Hg 0.5; Mg5Hg3: Hg 0.375 | model | [1] Feng 2009 | Table 6, p. 5, row 23 |  |
-| 791 | peritectic: L+Mg2Hg↔Mg5Hg2 | L: Hg 0.237; Mg2Hg: Hg 0.333; Mg5Hg2: Hg 0.286 | model | [1] Feng 2009 | Table 6, p. 5, row 10 |  |
-| 790 | peritectic: L+Mg2Hg↔Mg5Hg2 | Mg2Hg: Hg 0.333333, Mg 0.666667; Mg5Hg2: Hg 0.285714, Mg 0.714286 | model | [1] Feng 2009; _cites ref. 27_ | Table 6, p. 5, row 9 |  |
-| 788 | peritectic: L+Mg2Hg↔Mg5Hg2 | L: Hg 0.25; Mg2Hg: Hg 0.3333; Mg5Hg2: Hg 0.2857 | experimental | [1] Feng 2009; _cites ref. 25_ | Table 6, p. 5, row 8 |  |
-| 781.7 | peritectic: L+Mg5Hg2↔Mg3Hg | L: Hg 0.223; Mg5Hg2: Hg 0.286; Mg3Hg: Hg 0.25 | model | [1] Feng 2009 | Table 6, p. 5, row 7 |  |
-| 781 | peritectic: L+Mg5Hg2↔Mg3Hg | L: Hg 0.24; Mg5Hg2: Hg 0.2857; Mg3Hg: Hg 0.25 | experimental | [1] Feng 2009; _cites ref. 26_ | Table 6, p. 5, row 5 |  |
-| 771 | peritectic: L+Mg5Hg2↔Mg3Hg | Mg5Hg2: Hg 0.285714, Mg 0.714286; Mg3Hg: Hg 0.25, Mg 0.75 | model | [1] Feng 2009; _cites ref. 27_ | Table 6, p. 5, row 6 |  |
-| 731 | eutectic: L↔(Mg)+Mg3Hg | L: Hg 0.17; (Mg): Hg 0.0045; Mg3Hg: Hg 0.25 | experimental | [1] Feng 2009; _cites ref. 25_ | Table 6, p. 5, row 1 |  |
-| 727 | eutectic: L↔(Mg)+Mg3Hg | Mg3Hg: Hg 0.25, Mg 0.75 | model | [1] Feng 2009; _cites ref. 27_ | Table 6, p. 5, row 3 |  |
-| 721 | eutectic: L↔(Mg)+Mg3Hg | L: Hg 0.175; (Mg): Hg 0.012; Mg3Hg: Hg 0.25 | experimental | [1] Feng 2009; _cites ref. 26_ | Table 6, p. 5, row 2 |  |
-| 719.6 | eutectic: L↔(Mg)+Mg3Hg | L: Hg 0.146; (Mg): Hg 0.02; Mg3Hg: Hg 0.25 | model | [1] Feng 2009 | Table 6, p. 5, row 4 |  |
-| 444 | peritectic: L+MgHg↔MgHg2 | MgHg: Hg 0.5, Mg 0.5; MgHg2: Hg 0.666667, Mg 0.333333 | model | [1] Feng 2009; _cites ref. 27_ | Table 6, p. 5, row 30 |  |
-| 443.1 | peritectic: L+MgHg↔MgHg2 | L: Hg 0.812; MgHg: Hg 0.5; MgHg2: Hg 0.667 | model | [1] Feng 2009 | Table 6, p. 5, row 31 |  |
-| 443 | peritectic: L+MgHg↔MgHg2 | L: Hg 0.8066; MgHg: Hg 0.5; MgHg2: Hg 0.6667 | experimental | [1] Feng 2009; _cites ref. 26_ | Table 6, p. 5, row 29 |  |
-| 442 | peritectic: L+MgHg↔MgHg2 | L: Hg 0.806; MgHg: Hg 0.5; MgHg2: Hg 0.6667 | experimental | [1] Feng 2009; _cites ref. 24_ | Table 6, p. 5, row 28 |  |
-| 234 | eutectic: L↔Hg+MgHg2 | L: Hg 0.999; Hg: Hg 1; MgHg2: Hg 0.667 | model | [1] Feng 2009 | Table 6, p. 5, row 34 |  |
-| 232 | eutectic: L↔Hg+MgHg2 | Hg: Hg 1; MgHg2: Hg 0.6667 | experimental | [1] Feng 2009; _cites ref. 24_ | Table 6, p. 5, row 32 |  |
-| 232 | eutectic: L↔Hg+MgHg2 | MgHg2: Hg 0.666667, Mg 0.333333 | model | [1] Feng 2009; _cites ref. 27_ | Table 6, p. 5, row 33 |  |
+| 903 | congruent melting: L↔MgHg | MgHg: Hg 0.5 | experimental | [1] Feng 2009; _cites ref. 25_ | Table 6, p. 5, row 24; `ORC-HBDTSP7KIT` |  |
+| 900 | congruent melting: L↔MgHg | MgHg: Hg 0.5 | experimental | [1] Feng 2009; _cites ref. 26_ | Table 6, p. 5, row 25; `ORC-QC5SJ2QF7N` |  |
+| 899 | congruent melting: L↔MgHg | MgHg: Hg 0.5 | model | [1] Feng 2009 | Table 6, p. 5, row 27; `ORC-UDZR5ANPY5` |  |
+| 889 | congruent melting: L↔MgHg | MgHg: Hg 0.5 | model | [1] Feng 2009; _cites ref. 27_ | Table 6, p. 5, row 26; `ORC-KSYCYSWC2R` |  |
+| 853 | congruent melting: L↔Mg2Hg | Mg2Hg: Hg 0.3333 | experimental | [1] Feng 2009; _cites ref. 25_ | Table 6, p. 5, row 11; `ORC-NCYB7WMBBG` |  |
+| 847 | congruent melting: L↔Mg2Hg | Mg2Hg: Hg 0.333 | model | [1] Feng 2009; _cites ref. 27_ | Table 6, p. 5, row 13; `ORC-GH6KRFCTTV` |  |
+| 843 | congruent melting: L↔Mg2Hg | Mg2Hg: Hg 0.3333 | experimental | [1] Feng 2009; _cites ref. 26_ | Table 6, p. 5, row 12; `ORC-IJ7YTPRHO4` |  |
+| 842 | congruent melting: L↔Mg2Hg | Mg2Hg: Hg 0.333 | model | [1] Feng 2009 | Table 6, p. 5, row 14; `ORC-CLL4UHYJVD` |  |
+| 835 | congruent melting: L↔Mg5Hg3 | Mg5Hg3: Hg 0.375 | experimental | [1] Feng 2009; _cites ref. 25_ | Table 6, p. 5, row 18; `ORC-2XIYRO5PZZ` |  |
+| 835 | congruent melting: L↔Mg5Hg3 | L: Hg 0.375, Mg 0.625; Mg5Hg3: Hg 0.375, Mg 0.625 | model | [1] Feng 2009; _cites ref. 27_ | Table 6, p. 5, row 19; `ORC-CCHALUCUVJ` |  |
+| 834 | congruent melting: L↔Mg5Hg3 | Mg5Hg3: Hg 0.375 | model | [1] Feng 2009 | Table 6, p. 5, row 20; `ORC-YDLZTA3SMS` |  |
+| 833.5 | eutectic: L↔Mg2Hg+Mg5Hg3 | L: Hg 0.371; Mg2Hg: Hg 0.333; Mg5Hg3: Hg 0.375 | model | [1] Feng 2009 | Table 6, p. 5, row 17; `ORC-MNNA2IXQ5N` |  |
+| 833 | eutectic: L↔MgHg+Mg5Hg3 | L: Hg 0.4; MgHg: Hg 0.5; Mg5Hg3: Hg 0.375 | experimental | [1] Feng 2009; _cites ref. 25_ | Table 6, p. 5, row 21; `ORC-CJMXYEHUJK` |  |
+| 832 | eutectic: L↔MgHg+Mg5Hg3 | MgHg: Hg 0.5, Mg 0.5; Mg5Hg3: Hg 0.375, Mg 0.625 | model | [1] Feng 2009; _cites ref. 27_ | Table 6, p. 5, row 22; `ORC-FIBTQSWMOK` |  |
+| 831 | eutectic: L↔Mg2Hg+Mg5Hg3 | L: Hg 0.362; Mg2Hg: Hg 0.3333; Mg5Hg3: Hg 0.375 | experimental | [1] Feng 2009; _cites ref. 25_ | Table 6, p. 5, row 15; `ORC-J4Y7RUFZV3` |  |
+| 831 | eutectic: L↔Mg2Hg+Mg5Hg3 | Mg2Hg: Hg 0.333333, Mg 0.666667; Mg5Hg3: Hg 0.375, Mg 0.625 | experimental | [1] Feng 2009; _cites ref. 28_ | Table 6, p. 5, row 16; `ORC-O7BQ4TATHC` |  |
+| 831 | eutectic: L↔MgHg+Mg5Hg3 | L: Hg 0.398; MgHg: Hg 0.5; Mg5Hg3: Hg 0.375 | model | [1] Feng 2009 | Table 6, p. 5, row 23; `ORC-XWXG3Q5LDH` |  |
+| 791 | peritectic: L+Mg2Hg↔Mg5Hg2 | L: Hg 0.237; Mg2Hg: Hg 0.333; Mg5Hg2: Hg 0.286 | model | [1] Feng 2009 | Table 6, p. 5, row 10; `ORC-I2SJZNEFQO` |  |
+| 790 | peritectic: L+Mg2Hg↔Mg5Hg2 | Mg2Hg: Hg 0.333333, Mg 0.666667; Mg5Hg2: Hg 0.285714, Mg 0.714286 | model | [1] Feng 2009; _cites ref. 27_ | Table 6, p. 5, row 9; `ORC-76Q7DLMH54` |  |
+| 788 | peritectic: L+Mg2Hg↔Mg5Hg2 | L: Hg 0.25; Mg2Hg: Hg 0.3333; Mg5Hg2: Hg 0.2857 | experimental | [1] Feng 2009; _cites ref. 25_ | Table 6, p. 5, row 8; `ORC-HY5VY3VQ2H` |  |
+| 781.7 | peritectic: L+Mg5Hg2↔Mg3Hg | L: Hg 0.223; Mg5Hg2: Hg 0.286; Mg3Hg: Hg 0.25 | model | [1] Feng 2009 | Table 6, p. 5, row 7; `ORC-WPSDGJJXIT` |  |
+| 781 | peritectic: L+Mg5Hg2↔Mg3Hg | L: Hg 0.24; Mg5Hg2: Hg 0.2857; Mg3Hg: Hg 0.25 | experimental | [1] Feng 2009; _cites ref. 26_ | Table 6, p. 5, row 5; `ORC-BPXI66NAZS` |  |
+| 771 | peritectic: L+Mg5Hg2↔Mg3Hg | Mg5Hg2: Hg 0.285714, Mg 0.714286; Mg3Hg: Hg 0.25, Mg 0.75 | model | [1] Feng 2009; _cites ref. 27_ | Table 6, p. 5, row 6; `ORC-7L7WYCG2NA` |  |
+| 731 | eutectic: L↔(Mg)+Mg3Hg | L: Hg 0.17; (Mg): Hg 0.0045; Mg3Hg: Hg 0.25 | experimental | [1] Feng 2009; _cites ref. 25_ | Table 6, p. 5, row 1; `ORC-XDCJHEVH3D` |  |
+| 727 | eutectic: L↔(Mg)+Mg3Hg | Mg3Hg: Hg 0.25, Mg 0.75 | model | [1] Feng 2009; _cites ref. 27_ | Table 6, p. 5, row 3; `ORC-JDHSB6XYIF` |  |
+| 721 | eutectic: L↔(Mg)+Mg3Hg | L: Hg 0.175; (Mg): Hg 0.012; Mg3Hg: Hg 0.25 | experimental | [1] Feng 2009; _cites ref. 26_ | Table 6, p. 5, row 2; `ORC-LVLFYZANKZ` |  |
+| 719.6 | eutectic: L↔(Mg)+Mg3Hg | L: Hg 0.146; (Mg): Hg 0.02; Mg3Hg: Hg 0.25 | model | [1] Feng 2009 | Table 6, p. 5, row 4; `ORC-SSY4M22QOD` |  |
+| 444 | peritectic: L+MgHg↔MgHg2 | MgHg: Hg 0.5, Mg 0.5; MgHg2: Hg 0.666667, Mg 0.333333 | model | [1] Feng 2009; _cites ref. 27_ | Table 6, p. 5, row 30; `ORC-VDDDZ3WF37` |  |
+| 443.1 | peritectic: L+MgHg↔MgHg2 | L: Hg 0.812; MgHg: Hg 0.5; MgHg2: Hg 0.667 | model | [1] Feng 2009 | Table 6, p. 5, row 31; `ORC-IYAXSRICZC` |  |
+| 443 | peritectic: L+MgHg↔MgHg2 | L: Hg 0.8066; MgHg: Hg 0.5; MgHg2: Hg 0.6667 | experimental | [1] Feng 2009; _cites ref. 26_ | Table 6, p. 5, row 29; `ORC-U7OSW7H37B` |  |
+| 442 | peritectic: L+MgHg↔MgHg2 | L: Hg 0.806; MgHg: Hg 0.5; MgHg2: Hg 0.6667 | experimental | [1] Feng 2009; _cites ref. 24_ | Table 6, p. 5, row 28; `ORC-66X75IHLCR` |  |
+| 234 | eutectic: L↔Hg+MgHg2 | L: Hg 0.999; Hg: Hg 1; MgHg2: Hg 0.667 | model | [1] Feng 2009 | Table 6, p. 5, row 34; `ORC-AOVBCLQYGM` |  |
+| 232 | eutectic: L↔Hg+MgHg2 | Hg: Hg 1; MgHg2: Hg 0.6667 | experimental | [1] Feng 2009; _cites ref. 24_ | Table 6, p. 5, row 32; `ORC-3KSINSPVIE` |  |
+| 232 | eutectic: L↔Hg+MgHg2 | MgHg2: Hg 0.666667, Mg 0.333333 | model | [1] Feng 2009; _cites ref. 27_ | Table 6, p. 5, row 33; `ORC-XS25MPVC2E` |  |
 
 ## Sources
 
@@ -156,4 +156,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

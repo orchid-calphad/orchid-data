@@ -114,56 +114,56 @@ Table: Invariant reactions reported in the literature for the Mg–Sm system (50
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1063 | eutectic: L -> Bcc(Sm) + MgSm | L: Sm 0.552; Bcc(Sm): Sm 0.697; MgSm: Sm 0.5 | model | [1] Jia 2008 | Table 2, p. 5, row 3 |  |
-| 1058.15 | eutectic: L ⇄ MgSm + γ-Sm | L: Sm 0.55; MgSm: Sm 0.5; γ-Sm: Sm 0.66 | experimental | [2] Jiang 2024; _cites Saccone 1989_ | Table 4, p. 14, row 33 |  |
-| 1058 | eutectic: L -> Bcc(Sm) + MgSm | L: Sm 0.55; Bcc(Sm): Sm 0.66; MgSm: Sm 0.5 | experimental | [1] Jia 2008; _cites Saccone 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990169-0) | Table 2, p. 5, row 1 |  |
-| 1053 | eutectic: L -> Bcc(Sm) + MgSm | Bcc(Sm): Sm 0.676; MgSm: Sm 0.5 | experimental | [1] Jia 2008; _cites Kato 1963_ | Table 2, p. 5, row 2 |  |
-| 1020.15 | eutectic: L ⇄ MgSm + γ-Sm | L: Sm 0.579; MgSm: Sm 0.503; γ-Sm: Sm 0.651 | model | [2] Jiang 2024 | Table 4, p. 14, row 31 |  |
-| 1017.15 | eutectic: L ⇄ MgSm + γ-Sm | L: Sm 0.55; MgSm: Sm 0.508; γ-Sm: Sm 0.648 | experimental | [2] Jiang 2024 | Table 4, p. 14, row 32 |  |
-| 1013 | eutectic: L -> MgSm + Mg2Sm | L: Sm 0.366; MgSm: Sm 0.5; Mg2Sm: Sm 0.333 | model | [1] Jia 2008 | Table 2, p. 5, row 7 |  |
-| 1008.15 | eutectic: L ⇄ Mg2Sm + MgSm | L: Sm 0.355; Mg2Sm: Sm 0.333; MgSm: Sm 0.5 | experimental | [2] Jiang 2024; _cites Saccone 1989_ | Table 4, p. 14, row 24 |  |
-| 1008 | eutectic: L -> MgSm + Mg2Sm | L: Sm 0.355; MgSm: Sm 0.5; Mg2Sm: Sm 0.333 | experimental | [1] Jia 2008; _cites Saccone 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990169-0) | Table 2, p. 5, row 6 |  |
-| 993.15 | eutectic: L ⇄ Mg2Sm + MgSm | L: Sm 0.379; Mg2Sm: Sm 0.333; MgSm: Sm 0.5 | experimental | [2] Jiang 2024; _cites Zheng 1986_ | Table 4, p. 14, row 25 |  |
-| 990.15 | eutectic: L ⇄ Mg2Sm + MgSm | L: Sm 0.368; Mg2Sm: Sm 0.344; MgSm: Sm 0.455 | model | [2] Jiang 2024 | Table 4, p. 14, row 22 |  |
-| 988.15 | eutectic: L ⇄ Mg2Sm + MgSm | L: Sm 0.371; Mg2Sm: Sm 0.333; MgSm: Sm 0.455 | experimental | [2] Jiang 2024 | Table 4, p. 14, row 23 |  |
-| 988.15 | eutectic: Liquid -> MgSm + Mg2Sm |  | experimental | [2] Jiang 2024 | p. 8 | “Between Mg2Sm and MgSm, a eutectic reaction (Liquid?MgSm ? Mg2Sm) occurs at 37.1 at.% Sm and 715 C.” |
-| 988.15 | eutectic: L -> MgSm + Mg2Sm |  | experimental | [2] Jiang 2024 | p. 9 | “The onset point of the peak at 715 C is inferred to be the eutectic reaction temperature of L?MgSm ? Mg2Sm.” |
-| 973.15 | eutectic |  | experimental | [2] Jiang 2024; _cites Saccone 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990169-0) | p. 7 | “The DSC heating curve of alloy E7 and E5 (Fig. 5b) suggests the eutectic reaction occurs at 697 C, which is close to the value of 700 C reported by Saccone et al.\[15\]” |
-| 973 | peritectic: L + Mg2Sm -> Mg3Sm | L: Sm 0.23; Mg2Sm: Sm 0.333; Mg3Sm: Sm 0.25 | experimental | [1] Jia 2008; _cites Saccone 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990169-0) | Table 2, p. 5, row 10 |  |
-| 971 | peritectic: L + Mg2Sm -> Mg3Sm | L: Sm 0.238; Mg2Sm: Sm 0.333; Mg3Sm: Sm 0.25 | model | [1] Jia 2008 | Table 2, p. 5, row 11 |  |
-| 970.15 | eutectic |  | experimental | [2] Jiang 2024 | p. 7 | “The DSC heating curve of alloy E7 and E5 (Fig. 5b) suggests the eutectic reaction occurs at 697 C, which is close to the value of 700 C reported by Saccone et al.\[15\]” |
-| 970.15 | eutectic: L ⇄ Mg2Sm + Mg3Sm | L: Sm 0.256; Mg2Sm: Sm 0.309; Mg3Sm: Sm 0.25 | experimental | [2] Jiang 2024 | Table 4, p. 14, row 18 |  |
-| 885 | eutectoid: Bcc(Sm) -> Hcp(Sm) + MgSm | Bcc(Sm): Sm 0.755; MgSm: Sm 0.5 | experimental | [1] Jia 2008; _cites Kato 1963_ | Table 2, p. 5, row 18 |  |
-| 866.15 | eutectoid: γ-Sm ⇄ MgSm + β-Sm | γ-Sm: Sm 0.753; MgSm: Sm 0.502 | experimental | [2] Jiang 2024 | Table 4, p. 14, row 35 |  |
-| 864.15 | eutectoid: γ-Sm ⇄ MgSm + β-Sm | γ-Sm: Sm 0.765; MgSm: Sm 0.508; β-Sm: Sm 0.901 | model | [2] Jiang 2024 | Table 4, p. 14, row 34 |  |
-| 860.15 | peritectic: L + Mg3Sm ⇄ Mg5Sm | L: Sm 0.121; Mg3Sm: Sm 0.216; Mg5Sm: Sm 0.167 | model | [2] Jiang 2024 | Table 4, p. 14, row 9 |  |
-| 856.15 | peritectic: L + Mg3Sm ⇄ Mg5Sm | Mg3Sm: Sm 0.212; Mg5Sm: Sm 0.167 | experimental | [2] Jiang 2024 | Table 4, p. 14, row 10 |  |
-| 855 | eutectoid: Bcc(Sm) -> Hcp(Sm) + MgSm | Bcc(Sm): Sm 0.783; Hcp(Sm): Sm 0.9414; MgSm: Sm 0.5 | model | [1] Jia 2008 | Table 2, p. 5, row 19 |  |
-| 853.15 | peritectic: L + Mg3Sm ⇄ Mg5Sm | L: Sm 0.1; Mg3Sm: Sm 0.25; Mg5Sm: Sm 0.167 | experimental | [2] Jiang 2024; _cites Saccone 1989_ | Table 4, p. 14, row 12 |  |
-| 853.15 | eutectoid: γ-Sm ⇄ MgSm + β-Sm | γ-Sm: Sm 0.8; MgSm: Sm 0.5 | experimental | [2] Jiang 2024; _cites Saccone 1989_ | Table 4, p. 14, row 36 |  |
-| 853 | eutectoid: Bcc(Sm) -> Hcp(Sm) + MgSm | Bcc(Sm): Sm 0.8; MgSm: Sm 0.5 | experimental | [1] Jia 2008; _cites Saccone 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990169-0) | Table 2, p. 5, row 17 |  |
-| 841.15 | peritectic: L + Mg5Sm ⇄ Mg41Sm5 | Mg5Sm: Sm 0.167; Mg41Sm5: Sm 0.109 | experimental | [2] Jiang 2024 | Table 4, p. 14, row 7 |  |
-| 840.15 | peritectic: L + Mg5Sm ⇄ Mg41Sm5 | L: Sm 0.107; Mg5Sm: Sm 0.167; Mg41Sm5: Sm 0.109 | model | [2] Jiang 2024 | Table 4, p. 14, row 6 |  |
-| 838.15 | peritectic: L + Mg3Sm ⇄ Mg5Sm | L: Sm 0.1; Mg3Sm: Sm 0.25; Mg5Sm: Sm 0.167 | experimental | [2] Jiang 2024; _cites Saccone 1989_ | Table 4, p. 14, row 11 |  |
-| 838 | peritectic: L + Mg3Sm -> Mg5Sm | L: Sm 0.1; Mg3Sm: Sm 0.25; Mg5Sm: Sm 0.167 | experimental | [1] Jia 2008; _cites Kinzhibalo 1985_ | Table 2, p. 5, row 12 |  |
-| 836 | peritectic: L + Mg3Sm -> Mg5Sm | L: Sm 0.115; Mg3Sm: Sm 0.25; Mg5Sm: Sm 0.167 | model | [1] Jia 2008 | Table 2, p. 5, row 13 |  |
-| 833.15 | peritectic: L + Mg5Sm ⇄ Mg41Sm5 | Mg5Sm: Sm 0.167; Mg41Sm5: Sm 0.109 | experimental | [2] Jiang 2024; _cites Saccone 1989_ | Table 4, p. 14, row 8 |  |
-| 821.15 | eutectic: L ⇄ Mg + Mg41Sm5 | L: Sm 0.073; Mg: Sm 0.009; Mg41Sm5: Sm 0.109 | model | [2] Jiang 2024 | Table 4, p. 14, row 1 |  |
-| 820.15 | eutectic: L ⇄ Mg + Mg41Sm5 | L: Sm 0.08; Mg: Sm 0.009; Mg41Sm5: Sm 0.109 | experimental | [2] Jiang 2024 | Table 4, p. 14, row 2 |  |
-| 819 | peritectic: L + Mg5Sm -> Mg41Sm5 | L: Sm 0.099; Mg5Sm: Sm 0.167; Mg41Sm5: Sm 0.109 | model | [1] Jia 2008 | Table 2, p. 5, row 14 |  |
-| 815.15 | eutectic: L ⇄ Mg + Mg41Sm5 | Mg: Sm 0.01; Mg41Sm5: Sm 0.109 | experimental | [2] Jiang 2024; _cites Rokhlin 1976_ | Table 4, p. 14, row 5 |  |
-| 815.15 | eutectic |  | experimental | [2] Jiang 2024; _cites Rokhlin 1976_ | p. 2 | “Rokhlin et al.,\[18\] utilizing electric resistance measurement and microscopic analysis, identified a eutectic reaction occurring at 542 C on the Mg side.” |
-| 813.15 | eutectic: L ⇄ Mg + Mg41Sm5 | L: Sm 0.08; Mg41Sm5: Sm 0.109 | experimental | [2] Jiang 2024; _cites Saccone 1989_ | Table 4, p. 14, row 4 |  |
-| 810 | eutectic: L -> Hcp + Mg41Sm5 | L: Sm 0.08; Hcp: Sm 0.002; Mg41Sm5: Sm 0.109 | model | [1] Jia 2008 | Table 2, p. 5, row 16 |  |
-| 803.15 | eutectic: L ⇄ Mg + Mg41Sm5 | L: Sm 0.08; Mg41Sm5: Sm 0.109 | experimental | [2] Jiang 2024; _cites Saccone 1989_ | Table 4, p. 14, row 3 |  |
-| 803 | eutectic: L -> Hcp + Mg41Sm5 | L: Sm 0.08; Mg41Sm5: Sm 0.109 | experimental | [1] Jia 2008; _cites Saccone 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990169-0) | Table 2, p. 5, row 15 |  |
-| 732 | eutectoid: Hcp(Sm) -> Rhom(Sm) + Mgm | Hcp(Sm): Sm 0.9677; Rhom(Sm): Sm 0.9715; Mgm: Sm 0.5 | model | [1] Jia 2008 | Table 2, p. 5, row 20 |  |
-| 731.15 | eutectoid: Mg5Sm ⇄ Mg41Sm5 + Mg3Sm | Mg5Sm: Sm 0.167; Mg41Sm5: Sm 0.109; Mg3Sm: Sm 0.217 | model | [2] Jiang 2024 | Table 4, p. 14, row 13 |  |
-| 723.15 | eutectoid: Mg5Sm ⇄ Mg41Sm5 + Mg3Sm | Mg5Sm: Sm 0.167; Mg41Sm5: Sm 0.109; Mg3Sm: Sm 0.219 | experimental | [2] Jiang 2024 | Table 4, p. 14, row 14 |  |
-| 697.15 | eutectoid: Mg2Sm ⇄ Mg3Sm + MgSm | Mg2Sm: Sm 0.334; Mg3Sm: Sm 0.25; MgSm: Sm 0.491 | model | [2] Jiang 2024 | Table 4, p. 14, row 26 |  |
-| 697.15 | eutectoid: Mg2Sm ⇄ Mg3Sm + MgSm | Mg2Sm: Sm 0.324; Mg3Sm: Sm 0.25; MgSm: Sm 0.48 | experimental | [2] Jiang 2024 | Table 4, p. 14, row 27 |  |
-| 697.15 | eutectoid: Mg2Sm -> MgSm + Mg3Sm |  | experimental | [2] Jiang 2024 | p. 8 | “In this study, Mg2Sm was found to exist stably only at high-temperatures, and it decomposes at 424 C through the eutectoid reaction Mg2Sm? MgSm ? Mg3Sm.” |
-| 485.15 | eutectoid: β-Sm ⇄ MgSm + α-Sm | β-Sm: Sm 0.99; MgSm: Sm 0.5; α-Sm: Sm 0.999 | model | [2] Jiang 2024 | Table 4, p. 14, row 37 |  |
+| 1063 | eutectic: L -> Bcc(Sm) + MgSm | L: Sm 0.552; Bcc(Sm): Sm 0.697; MgSm: Sm 0.5 | model | [1] Jia 2008 | Table 2, p. 5, row 3; `ORC-IHJ2HOCUCM` |  |
+| 1058.15 | eutectic: L ⇄ MgSm + γ-Sm | L: Sm 0.55; MgSm: Sm 0.5; γ-Sm: Sm 0.66 | experimental | [2] Jiang 2024; _cites Saccone 1989_ | Table 4, p. 14, row 33; `ORC-GLJFWQF3DM` |  |
+| 1058 | eutectic: L -> Bcc(Sm) + MgSm | L: Sm 0.55; Bcc(Sm): Sm 0.66; MgSm: Sm 0.5 | experimental | [1] Jia 2008; _cites Saccone 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990169-0) | Table 2, p. 5, row 1; `ORC-OLPGDKN5RQ` |  |
+| 1053 | eutectic: L -> Bcc(Sm) + MgSm | Bcc(Sm): Sm 0.676; MgSm: Sm 0.5 | experimental | [1] Jia 2008; _cites Kato 1963_ | Table 2, p. 5, row 2; `ORC-6UXB2MD3YF` |  |
+| 1020.15 | eutectic: L ⇄ MgSm + γ-Sm | L: Sm 0.579; MgSm: Sm 0.503; γ-Sm: Sm 0.651 | model | [2] Jiang 2024 | Table 4, p. 14, row 31; `ORC-MC44QJ7COK` |  |
+| 1017.15 | eutectic: L ⇄ MgSm + γ-Sm | L: Sm 0.55; MgSm: Sm 0.508; γ-Sm: Sm 0.648 | experimental | [2] Jiang 2024 | Table 4, p. 14, row 32; `ORC-Y5MQ33GKBG` |  |
+| 1013 | eutectic: L -> MgSm + Mg2Sm | L: Sm 0.366; MgSm: Sm 0.5; Mg2Sm: Sm 0.333 | model | [1] Jia 2008 | Table 2, p. 5, row 7; `ORC-7XUVD7TDPF` |  |
+| 1008.15 | eutectic: L ⇄ Mg2Sm + MgSm | L: Sm 0.355; Mg2Sm: Sm 0.333; MgSm: Sm 0.5 | experimental | [2] Jiang 2024; _cites Saccone 1989_ | Table 4, p. 14, row 24; `ORC-3VXE2R2LGN` |  |
+| 1008 | eutectic: L -> MgSm + Mg2Sm | L: Sm 0.355; MgSm: Sm 0.5; Mg2Sm: Sm 0.333 | experimental | [1] Jia 2008; _cites Saccone 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990169-0) | Table 2, p. 5, row 6; `ORC-DXALDBNLOP` |  |
+| 993.15 | eutectic: L ⇄ Mg2Sm + MgSm | L: Sm 0.379; Mg2Sm: Sm 0.333; MgSm: Sm 0.5 | experimental | [2] Jiang 2024; _cites Zheng 1986_ | Table 4, p. 14, row 25; `ORC-YHJQJIF2RZ` |  |
+| 990.15 | eutectic: L ⇄ Mg2Sm + MgSm | L: Sm 0.368; Mg2Sm: Sm 0.344; MgSm: Sm 0.455 | model | [2] Jiang 2024 | Table 4, p. 14, row 22; `ORC-LCCJGV6FSZ` |  |
+| 988.15 | eutectic: L ⇄ Mg2Sm + MgSm | L: Sm 0.371; Mg2Sm: Sm 0.333; MgSm: Sm 0.455 | experimental | [2] Jiang 2024 | Table 4, p. 14, row 23; `ORC-GCIPLDYKO5` |  |
+| 988.15 | eutectic: Liquid -> MgSm + Mg2Sm |  | experimental | [2] Jiang 2024 | p. 8; `ORC-IM7BTPPC24` | “Between Mg2Sm and MgSm, a eutectic reaction (Liquid?MgSm ? Mg2Sm) occurs at 37.1 at.% Sm and 715 C.” |
+| 988.15 | eutectic: L -> MgSm + Mg2Sm |  | experimental | [2] Jiang 2024 | p. 9; `ORC-ZB3B32M73Y` | “The onset point of the peak at 715 C is inferred to be the eutectic reaction temperature of L?MgSm ? Mg2Sm.” |
+| 973.15 | eutectic |  | experimental | [2] Jiang 2024; _cites Saccone 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990169-0) | p. 7; `ORC-HII2TDHG7K.fc9ba3` | “The DSC heating curve of alloy E7 and E5 (Fig. 5b) suggests the eutectic reaction occurs at 697 C, which is close to the value of 700 C reported by Saccone et al.\[15\]” |
+| 973 | peritectic: L + Mg2Sm -> Mg3Sm | L: Sm 0.23; Mg2Sm: Sm 0.333; Mg3Sm: Sm 0.25 | experimental | [1] Jia 2008; _cites Saccone 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990169-0) | Table 2, p. 5, row 10; `ORC-P645AAI2ZP` |  |
+| 971 | peritectic: L + Mg2Sm -> Mg3Sm | L: Sm 0.238; Mg2Sm: Sm 0.333; Mg3Sm: Sm 0.25 | model | [1] Jia 2008 | Table 2, p. 5, row 11; `ORC-EAO7TUPUG6` |  |
+| 970.15 | eutectic |  | experimental | [2] Jiang 2024 | p. 7; `ORC-HII2TDHG7K.727e86` | “The DSC heating curve of alloy E7 and E5 (Fig. 5b) suggests the eutectic reaction occurs at 697 C, which is close to the value of 700 C reported by Saccone et al.\[15\]” |
+| 970.15 | eutectic: L ⇄ Mg2Sm + Mg3Sm | L: Sm 0.256; Mg2Sm: Sm 0.309; Mg3Sm: Sm 0.25 | experimental | [2] Jiang 2024 | Table 4, p. 14, row 18; `ORC-KOMGRY6PIU` |  |
+| 885 | eutectoid: Bcc(Sm) -> Hcp(Sm) + MgSm | Bcc(Sm): Sm 0.755; MgSm: Sm 0.5 | experimental | [1] Jia 2008; _cites Kato 1963_ | Table 2, p. 5, row 18; `ORC-6VVHBWPUHZ` |  |
+| 866.15 | eutectoid: γ-Sm ⇄ MgSm + β-Sm | γ-Sm: Sm 0.753; MgSm: Sm 0.502 | experimental | [2] Jiang 2024 | Table 4, p. 14, row 35; `ORC-JRXUQ67Y25` |  |
+| 864.15 | eutectoid: γ-Sm ⇄ MgSm + β-Sm | γ-Sm: Sm 0.765; MgSm: Sm 0.508; β-Sm: Sm 0.901 | model | [2] Jiang 2024 | Table 4, p. 14, row 34; `ORC-35DPRKKXNG` |  |
+| 860.15 | peritectic: L + Mg3Sm ⇄ Mg5Sm | L: Sm 0.121; Mg3Sm: Sm 0.216; Mg5Sm: Sm 0.167 | model | [2] Jiang 2024 | Table 4, p. 14, row 9; `ORC-36HVLN6WBC` |  |
+| 856.15 | peritectic: L + Mg3Sm ⇄ Mg5Sm | Mg3Sm: Sm 0.212; Mg5Sm: Sm 0.167 | experimental | [2] Jiang 2024 | Table 4, p. 14, row 10; `ORC-E7H5C57BRH` |  |
+| 855 | eutectoid: Bcc(Sm) -> Hcp(Sm) + MgSm | Bcc(Sm): Sm 0.783; Hcp(Sm): Sm 0.9414; MgSm: Sm 0.5 | model | [1] Jia 2008 | Table 2, p. 5, row 19; `ORC-SOICGT2E46` |  |
+| 853.15 | peritectic: L + Mg3Sm ⇄ Mg5Sm | L: Sm 0.1; Mg3Sm: Sm 0.25; Mg5Sm: Sm 0.167 | experimental | [2] Jiang 2024; _cites Saccone 1989_ | Table 4, p. 14, row 12; `ORC-22GSGDQOLY.617701` |  |
+| 853.15 | eutectoid: γ-Sm ⇄ MgSm + β-Sm | γ-Sm: Sm 0.8; MgSm: Sm 0.5 | experimental | [2] Jiang 2024; _cites Saccone 1989_ | Table 4, p. 14, row 36; `ORC-22GSGDQOLY.9f9509` |  |
+| 853 | eutectoid: Bcc(Sm) -> Hcp(Sm) + MgSm | Bcc(Sm): Sm 0.8; MgSm: Sm 0.5 | experimental | [1] Jia 2008; _cites Saccone 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990169-0) | Table 2, p. 5, row 17; `ORC-ZMJCY76SJ3` |  |
+| 841.15 | peritectic: L + Mg5Sm ⇄ Mg41Sm5 | Mg5Sm: Sm 0.167; Mg41Sm5: Sm 0.109 | experimental | [2] Jiang 2024 | Table 4, p. 14, row 7; `ORC-6EMGOGZI2W` |  |
+| 840.15 | peritectic: L + Mg5Sm ⇄ Mg41Sm5 | L: Sm 0.107; Mg5Sm: Sm 0.167; Mg41Sm5: Sm 0.109 | model | [2] Jiang 2024 | Table 4, p. 14, row 6; `ORC-QVSSIPUZ5K` |  |
+| 838.15 | peritectic: L + Mg3Sm ⇄ Mg5Sm | L: Sm 0.1; Mg3Sm: Sm 0.25; Mg5Sm: Sm 0.167 | experimental | [2] Jiang 2024; _cites Saccone 1989_ | Table 4, p. 14, row 11; `ORC-MWPTPVV3CN` |  |
+| 838 | peritectic: L + Mg3Sm -> Mg5Sm | L: Sm 0.1; Mg3Sm: Sm 0.25; Mg5Sm: Sm 0.167 | experimental | [1] Jia 2008; _cites Kinzhibalo 1985_ | Table 2, p. 5, row 12; `ORC-RQKSP2JUSS` |  |
+| 836 | peritectic: L + Mg3Sm -> Mg5Sm | L: Sm 0.115; Mg3Sm: Sm 0.25; Mg5Sm: Sm 0.167 | model | [1] Jia 2008 | Table 2, p. 5, row 13; `ORC-RATO4TEHCQ` |  |
+| 833.15 | peritectic: L + Mg5Sm ⇄ Mg41Sm5 | Mg5Sm: Sm 0.167; Mg41Sm5: Sm 0.109 | experimental | [2] Jiang 2024; _cites Saccone 1989_ | Table 4, p. 14, row 8; `ORC-N4R4QEVIBB` |  |
+| 821.15 | eutectic: L ⇄ Mg + Mg41Sm5 | L: Sm 0.073; Mg: Sm 0.009; Mg41Sm5: Sm 0.109 | model | [2] Jiang 2024 | Table 4, p. 14, row 1; `ORC-OOCZP5HSKV` |  |
+| 820.15 | eutectic: L ⇄ Mg + Mg41Sm5 | L: Sm 0.08; Mg: Sm 0.009; Mg41Sm5: Sm 0.109 | experimental | [2] Jiang 2024 | Table 4, p. 14, row 2; `ORC-QDY37O54JO` |  |
+| 819 | peritectic: L + Mg5Sm -> Mg41Sm5 | L: Sm 0.099; Mg5Sm: Sm 0.167; Mg41Sm5: Sm 0.109 | model | [1] Jia 2008 | Table 2, p. 5, row 14; `ORC-BZXKD6RUTJ` |  |
+| 815.15 | eutectic: L ⇄ Mg + Mg41Sm5 | Mg: Sm 0.01; Mg41Sm5: Sm 0.109 | experimental | [2] Jiang 2024; _cites Rokhlin 1976_ | Table 4, p. 14, row 5; `ORC-5QRPMGFRBX` |  |
+| 815.15 | eutectic |  | experimental | [2] Jiang 2024; _cites Rokhlin 1976_ | p. 2; `ORC-U42WLTJF7M` | “Rokhlin et al.,\[18\] utilizing electric resistance measurement and microscopic analysis, identified a eutectic reaction occurring at 542 C on the Mg side.” |
+| 813.15 | eutectic: L ⇄ Mg + Mg41Sm5 | L: Sm 0.08; Mg41Sm5: Sm 0.109 | experimental | [2] Jiang 2024; _cites Saccone 1989_ | Table 4, p. 14, row 4; `ORC-UVQLB36F6Q` |  |
+| 810 | eutectic: L -> Hcp + Mg41Sm5 | L: Sm 0.08; Hcp: Sm 0.002; Mg41Sm5: Sm 0.109 | model | [1] Jia 2008 | Table 2, p. 5, row 16; `ORC-2F2DTPC2XO` |  |
+| 803.15 | eutectic: L ⇄ Mg + Mg41Sm5 | L: Sm 0.08; Mg41Sm5: Sm 0.109 | experimental | [2] Jiang 2024; _cites Saccone 1989_ | Table 4, p. 14, row 3; `ORC-SB6SYUCTXR` |  |
+| 803 | eutectic: L -> Hcp + Mg41Sm5 | L: Sm 0.08; Mg41Sm5: Sm 0.109 | experimental | [1] Jia 2008; _cites Saccone 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990169-0) | Table 2, p. 5, row 15; `ORC-LLN7PDMHPR` |  |
+| 732 | eutectoid: Hcp(Sm) -> Rhom(Sm) + Mgm | Hcp(Sm): Sm 0.9677; Rhom(Sm): Sm 0.9715; Mgm: Sm 0.5 | model | [1] Jia 2008 | Table 2, p. 5, row 20; `ORC-6REXDOX2LF` |  |
+| 731.15 | eutectoid: Mg5Sm ⇄ Mg41Sm5 + Mg3Sm | Mg5Sm: Sm 0.167; Mg41Sm5: Sm 0.109; Mg3Sm: Sm 0.217 | model | [2] Jiang 2024 | Table 4, p. 14, row 13; `ORC-QALH4W43UC` |  |
+| 723.15 | eutectoid: Mg5Sm ⇄ Mg41Sm5 + Mg3Sm | Mg5Sm: Sm 0.167; Mg41Sm5: Sm 0.109; Mg3Sm: Sm 0.219 | experimental | [2] Jiang 2024 | Table 4, p. 14, row 14; `ORC-FUBT5BFWHH` |  |
+| 697.15 | eutectoid: Mg2Sm ⇄ Mg3Sm + MgSm | Mg2Sm: Sm 0.334; Mg3Sm: Sm 0.25; MgSm: Sm 0.491 | model | [2] Jiang 2024 | Table 4, p. 14, row 26; `ORC-DCXQOTEOTP.c28be2` |  |
+| 697.15 | eutectoid: Mg2Sm ⇄ Mg3Sm + MgSm | Mg2Sm: Sm 0.324; Mg3Sm: Sm 0.25; MgSm: Sm 0.48 | experimental | [2] Jiang 2024 | Table 4, p. 14, row 27; `ORC-DCXQOTEOTP.d4d3f5` |  |
+| 697.15 | eutectoid: Mg2Sm -> MgSm + Mg3Sm |  | experimental | [2] Jiang 2024 | p. 8; `ORC-M2YLYUIJOT.cfff7f` | “In this study, Mg2Sm was found to exist stably only at high-temperatures, and it decomposes at 424 C through the eutectoid reaction Mg2Sm? MgSm ? Mg3Sm.” |
+| 485.15 | eutectoid: β-Sm ⇄ MgSm + α-Sm | β-Sm: Sm 0.99; MgSm: Sm 0.5; α-Sm: Sm 0.999 | model | [2] Jiang 2024 | Table 4, p. 14, row 37; `ORC-UXUSXRA7Q6` |  |
 
 ## Formation enthalpies
 
@@ -173,11 +173,11 @@ Table: Enthalpies of formation, Mg–Sm system (5)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | -18.5 unspecified ± 2 | 300 | experimental |  |  | [2] Jiang 2024; _cites Delsante 2014_ [doi](https://doi.org/10.1016/j.calphad.2013.07.012) | p. 3 | “Delsante and Borzone\[29\] determined the formation enthalpy of Mg41Sm5 (- 5.5 ± 2 kJ/mol), Mg5Sm (- 8.5 ± 2 kJ/mol), Mg3Sm (- 12.0 ± 2 kJ/mol), Mg2Sm (- 16.0 ± 2 kJ/mol) and MgSm (- 18.5 ± 2 kJ/mol) at 300 K through high-temperature direct synthesis calorimetry.” |
-| — |  | -16 unspecified ± 2 | 300 | experimental |  |  | [2] Jiang 2024; _cites Delsante 2014_ [doi](https://doi.org/10.1016/j.calphad.2013.07.012) | p. 3 | “Delsante and Borzone\[29\] determined the formation enthalpy of Mg41Sm5 (- 5.5 ± 2 kJ/mol), Mg5Sm (- 8.5 ± 2 kJ/mol), Mg3Sm (- 12.0 ± 2 kJ/mol), Mg2Sm (- 16.0 ± 2 kJ/mol) and MgSm (- 18.5 ± 2 kJ/mol) at 300 K through high-temperature direct synthesis calorimetry.” |
-| — |  | -12 unspecified ± 2 | 300 | experimental |  |  | [2] Jiang 2024; _cites Delsante 2014_ [doi](https://doi.org/10.1016/j.calphad.2013.07.012) | p. 3 | “Delsante and Borzone\[29\] determined the formation enthalpy of Mg41Sm5 (- 5.5 ± 2 kJ/mol), Mg5Sm (- 8.5 ± 2 kJ/mol), Mg3Sm (- 12.0 ± 2 kJ/mol), Mg2Sm (- 16.0 ± 2 kJ/mol) and MgSm (- 18.5 ± 2 kJ/mol) at 300 K through high-temperature direct synthesis calorimetry.” |
-| — |  | -8.5 unspecified ± 2 | 300 | experimental |  |  | [2] Jiang 2024; _cites Delsante 2014_ [doi](https://doi.org/10.1016/j.calphad.2013.07.012) | p. 3 | “Delsante and Borzone\[29\] determined the formation enthalpy of Mg41Sm5 (- 5.5 ± 2 kJ/mol), Mg5Sm (- 8.5 ± 2 kJ/mol), Mg3Sm (- 12.0 ± 2 kJ/mol), Mg2Sm (- 16.0 ± 2 kJ/mol) and MgSm (- 18.5 ± 2 kJ/mol) at 300 K through high-temperature direct synthesis calorimetry.” |
-| — |  | -5.5 unspecified ± 2 | 300 | experimental |  |  | [2] Jiang 2024; _cites Delsante 2014_ [doi](https://doi.org/10.1016/j.calphad.2013.07.012) | p. 3 | “Delsante and Borzone\[29\] determined the formation enthalpy of Mg41Sm5 (- 5.5 ± 2 kJ/mol), Mg5Sm (- 8.5 ± 2 kJ/mol), Mg3Sm (- 12.0 ± 2 kJ/mol), Mg2Sm (- 16.0 ± 2 kJ/mol) and MgSm (- 18.5 ± 2 kJ/mol) at 300 K through high-temperature direct synthesis calorimetry.” |
+| — |  | -18.5 unspecified ± 2 | 300 | experimental |  |  | [2] Jiang 2024; _cites Delsante 2014_ [doi](https://doi.org/10.1016/j.calphad.2013.07.012) | p. 3; `ORC-JD3D54HCQD.04a282` | “Delsante and Borzone\[29\] determined the formation enthalpy of Mg41Sm5 (- 5.5 ± 2 kJ/mol), Mg5Sm (- 8.5 ± 2 kJ/mol), Mg3Sm (- 12.0 ± 2 kJ/mol), Mg2Sm (- 16.0 ± 2 kJ/mol) and MgSm (- 18.5 ± 2 kJ/mol) at 300 K through high-temperature direct synthesis calorimetry.” |
+| — |  | -16 unspecified ± 2 | 300 | experimental |  |  | [2] Jiang 2024; _cites Delsante 2014_ [doi](https://doi.org/10.1016/j.calphad.2013.07.012) | p. 3; `ORC-JD3D54HCQD.e783f6` | “Delsante and Borzone\[29\] determined the formation enthalpy of Mg41Sm5 (- 5.5 ± 2 kJ/mol), Mg5Sm (- 8.5 ± 2 kJ/mol), Mg3Sm (- 12.0 ± 2 kJ/mol), Mg2Sm (- 16.0 ± 2 kJ/mol) and MgSm (- 18.5 ± 2 kJ/mol) at 300 K through high-temperature direct synthesis calorimetry.” |
+| — |  | -12 unspecified ± 2 | 300 | experimental |  |  | [2] Jiang 2024; _cites Delsante 2014_ [doi](https://doi.org/10.1016/j.calphad.2013.07.012) | p. 3; `ORC-JD3D54HCQD.cf99dd` | “Delsante and Borzone\[29\] determined the formation enthalpy of Mg41Sm5 (- 5.5 ± 2 kJ/mol), Mg5Sm (- 8.5 ± 2 kJ/mol), Mg3Sm (- 12.0 ± 2 kJ/mol), Mg2Sm (- 16.0 ± 2 kJ/mol) and MgSm (- 18.5 ± 2 kJ/mol) at 300 K through high-temperature direct synthesis calorimetry.” |
+| — |  | -8.5 unspecified ± 2 | 300 | experimental |  |  | [2] Jiang 2024; _cites Delsante 2014_ [doi](https://doi.org/10.1016/j.calphad.2013.07.012) | p. 3; `ORC-JD3D54HCQD.4a7f6b` | “Delsante and Borzone\[29\] determined the formation enthalpy of Mg41Sm5 (- 5.5 ± 2 kJ/mol), Mg5Sm (- 8.5 ± 2 kJ/mol), Mg3Sm (- 12.0 ± 2 kJ/mol), Mg2Sm (- 16.0 ± 2 kJ/mol) and MgSm (- 18.5 ± 2 kJ/mol) at 300 K through high-temperature direct synthesis calorimetry.” |
+| — |  | -5.5 unspecified ± 2 | 300 | experimental |  |  | [2] Jiang 2024; _cites Delsante 2014_ [doi](https://doi.org/10.1016/j.calphad.2013.07.012) | p. 3; `ORC-JD3D54HCQD.d7920c` | “Delsante and Borzone\[29\] determined the formation enthalpy of Mg41Sm5 (- 5.5 ± 2 kJ/mol), Mg5Sm (- 8.5 ± 2 kJ/mol), Mg3Sm (- 12.0 ± 2 kJ/mol), Mg2Sm (- 16.0 ± 2 kJ/mol) and MgSm (- 18.5 ± 2 kJ/mol) at 300 K through high-temperature direct synthesis calorimetry.” |
 
 ## Other properties
 
@@ -187,31 +187,31 @@ Table: Phase transition, Mg–Sm system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 861.15 K | 861.15 |  | experimental | [2] Jiang 2024 | p. 10 | “This reaction temperature was detected in the DSC heating curves of 4 samples (E16a, E18, E19 and E20). Samples E16a (Fig. 5e) and E18 have measurements of 588 C, and samples E19 and E20 (Fig. 5f) have measurements of 597 C.” |
-| Phase transition | 870.15 K | 870.15 |  | experimental | [2] Jiang 2024 | p. 10 | “This reaction temperature was detected in the DSC heating curves of 4 samples (E16a, E18, E19 and E20). Samples E16a (Fig. 5e) and E18 have measurements of 588 C, and samples E19 and E20 (Fig. 5f) have measurements of 597 C.” |
-| Phase transition | 983.15 K | 983.15 |  | model | [2] Jiang 2024 | p. 16 | “The calculated melting points of Mg3Sm, Mg2Sm and MgSm are 710, 722 and 770 C, respectively, which match the experimental data of this work well.” |
-| Phase transition | 983.15 K | 983.15 | congruent melting: L ⇄ Mg3Sm; _L: Sm 0.244; Mg3Sm: Sm 0.25_ | model | [2] Jiang 2024 | Table 4, p. 14, row 15 |  |
-| Phase transition | 988.15 K | 988.15 | L -> MgSm + Mg2Sm | experimental | [2] Jiang 2024 | p. 14 | “The present measured reaction temperatures of invariant reactions L?MgSm ? Mg2Sm and L?MgSn ? (c-Sm) are 715 and 744 C, which are 20 and 41 C lower than the experimental values of 735 and 785 C reported by Saccone et al.,\[\[15\]\] respectively.” |
-| Phase transition | 990.15 K | 990.15 |  | model | [2] Jiang 2024 | p. 14 | “These two equilibrium reaction temperatures are computed as 717 C and 747 C in present assessment, and the difference from the current experimental values is less than 3 C.” |
-| Phase transition | 995.15 K | 995.15 |  | model | [2] Jiang 2024 | p. 16 | “The calculated melting points of Mg3Sm, Mg2Sm and MgSm are 710, 722 and 770 C, respectively, which match the experimental data of this work well.” |
-| Phase transition | 995.15 K | 995.15 | congruent melting: L ⇄ Mg2Sm; _L: Sm 0.339; Mg2Sm: Sm 0.333333_ | model | [2] Jiang 2024 | Table 4, p. 14, row 19 |  |
-| Phase transition | 1003.15 K | 1003.15 | congruent melting: L ⇄ Mg2Sm; _L: Sm 0.324; Mg2Sm: Sm 0.333333_ | experimental | [2] Jiang 2024 | Table 4, p. 14, row 20 |  |
-| Phase transition | 1008.15 K | 1008.15 |  | experimental | [2] Jiang 2024; _cites Saccone 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990169-0) | p. 8 | “The reaction temperature is 20 C lower than the value of 735 C reported by Saccone et al.\[15\]” |
-| Phase transition | 1008.15 K | 1008.15 | L -> MgSm + Mg2Sm | experimental | [2] Jiang 2024; _cites Saccone 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990169-0) | p. 14 | “The present measured reaction temperatures of invariant reactions L?MgSm ? Mg2Sm and L?MgSn ? (c-Sm) are 715 and 744 C, which are 20 and 41 C lower than the experimental values of 735 and 785 C reported by Saccone et al.,\[\[15\]\] respectively.” |
-| Phase transition | 1017 K | 1017 | congruent melting: L -> Mg2Sm; _L: Sm 0.333; Mg2Sm: Sm 0.333_ | model | [1] Jia 2008 | Table 2, p. 5, row 9 |  |
-| Phase transition | 1017.15 K | 1017.15 | L -> MgSm + (c-Sm) | experimental | [2] Jiang 2024 | p. 14 | “The present measured reaction temperatures of invariant reactions L?MgSm ? Mg2Sm and L?MgSn ? (c-Sm) are 715 and 744 C, which are 20 and 41 C lower than the experimental values of 735 and 785 C reported by Saccone et al.,\[\[15\]\] respectively.” |
-| Phase transition | 1017.15 K | 1017.15 | L -> MgSm + (c-Sm) | experimental | [2] Jiang 2024 | p. 10 | “Based on the DSC heating curve for samples E16a (Fig. 5e) and C4, the temperature for the invariant reaction is 744 C.” |
-| Phase transition | 1020.15 K | 1020.15 |  | model | [2] Jiang 2024 | p. 14 | “These two equilibrium reaction temperatures are computed as 717 C and 747 C in present assessment, and the difference from the current experimental values is less than 3 C.” |
-| Phase transition | 1023 K | 1023 | congruent melting: L -> Mg2Sm; _L: Sm 0.333; Mg2Sm: Sm 0.333_ | experimental | [1] Jia 2008; _cites Saccone 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990169-0) | Table 2, p. 5, row 8 |  |
-| Phase transition | 1023.15 K | 1023.15 | congruent melting: L ⇄ Mg2Sm; _L: Sm 0.333; Mg2Sm: Sm 0.333333_ | experimental | [2] Jiang 2024; _cites Saccone 1989_ | Table 4, p. 14, row 21 |  |
-| Phase transition | 1043.15 K | 1043.15 |  | model | [2] Jiang 2024 | p. 16 | “The calculated melting points of Mg3Sm, Mg2Sm and MgSm are 710, 722 and 770 C, respectively, which match the experimental data of this work well.” |
-| Phase transition | 1043.15 K | 1043.15 | congruent melting: L ⇄ MgSm; _L: Sm 0.486; MgSm: Sm 0.5_ | model | [2] Jiang 2024 | Table 4, p. 14, row 28 |  |
-| Phase transition | 1047.15 K | 1047.15 | congruent melting: L ⇄ MgSm; _L: Sm 0.48; MgSm: Sm 0.5_ | experimental | [2] Jiang 2024 | Table 4, p. 14, row 29 |  |
-| Phase transition | 1058.15 K | 1058.15 |  | experimental | [2] Jiang 2024; _cites Saccone 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990169-0) | p. 10 | “This value is 41 C lower than the 785 C reported by Saccone et al.\[15\]” |
-| Phase transition | 1058.15 K | 1058.15 | L -> MgSm + (c-Sm) | experimental | [2] Jiang 2024; _cites Saccone 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990169-0) | p. 14 | “The present measured reaction temperatures of invariant reactions L?MgSm ? Mg2Sm and L?MgSn ? (c-Sm) are 715 and 744 C, which are 20 and 41 C lower than the experimental values of 735 and 785 C reported by Saccone et al.,\[\[15\]\] respectively.” |
-| Phase transition | 1069 K | 1069 | congruent melting: L -> MgSm; _L: Sm 0.5; MgSm: Sm 0.5_ | model | [1] Jia 2008 | Table 2, p. 5, row 5 |  |
-| Phase transition | 1073 K | 1073 | congruent melting: L -> MgSm; _L: Sm 0.5; MgSm: Sm 0.5_ | experimental | [1] Jia 2008; _cites Saccone 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990169-0) | Table 2, p. 5, row 4 |  |
-| Phase transition | 1073.15 K | 1073.15 | congruent melting: L ⇄ MgSm; _L: Sm 0.5; MgSm: Sm 0.5_ | experimental | [2] Jiang 2024; _cites Saccone 1989_ | Table 4, p. 14, row 30 |  |
+| Phase transition | 861.15 K | 861.15 |  | experimental | [2] Jiang 2024 | p. 10; `ORC-QHSR37OIM5.7cf0cb` | “This reaction temperature was detected in the DSC heating curves of 4 samples (E16a, E18, E19 and E20). Samples E16a (Fig. 5e) and E18 have measurements of 588 C, and samples E19 and E20 (Fig. 5f) have measurements of 597 C.” |
+| Phase transition | 870.15 K | 870.15 |  | experimental | [2] Jiang 2024 | p. 10; `ORC-QHSR37OIM5.0abc59` | “This reaction temperature was detected in the DSC heating curves of 4 samples (E16a, E18, E19 and E20). Samples E16a (Fig. 5e) and E18 have measurements of 588 C, and samples E19 and E20 (Fig. 5f) have measurements of 597 C.” |
+| Phase transition | 983.15 K | 983.15 |  | model | [2] Jiang 2024 | p. 16; `ORC-B735E5TGDS.43cc72` | “The calculated melting points of Mg3Sm, Mg2Sm and MgSm are 710, 722 and 770 C, respectively, which match the experimental data of this work well.” |
+| Phase transition | 983.15 K | 983.15 | congruent melting: L ⇄ Mg3Sm; _L: Sm 0.244; Mg3Sm: Sm 0.25_ | model | [2] Jiang 2024 | Table 4, p. 14, row 15; `ORC-MEHFKVXHDG.c83095` |  |
+| Phase transition | 988.15 K | 988.15 | L -> MgSm + Mg2Sm | experimental | [2] Jiang 2024 | p. 14; `ORC-3FM7T32W2D.596a01` | “The present measured reaction temperatures of invariant reactions L?MgSm ? Mg2Sm and L?MgSn ? (c-Sm) are 715 and 744 C, which are 20 and 41 C lower than the experimental values of 735 and 785 C reported by Saccone et al.,\[\[15\]\] respectively.” |
+| Phase transition | 990.15 K | 990.15 |  | model | [2] Jiang 2024 | p. 14; `ORC-YVK3XQQH7W.2def6d` | “These two equilibrium reaction temperatures are computed as 717 C and 747 C in present assessment, and the difference from the current experimental values is less than 3 C.” |
+| Phase transition | 995.15 K | 995.15 |  | model | [2] Jiang 2024 | p. 16; `ORC-B735E5TGDS.942666` | “The calculated melting points of Mg3Sm, Mg2Sm and MgSm are 710, 722 and 770 C, respectively, which match the experimental data of this work well.” |
+| Phase transition | 995.15 K | 995.15 | congruent melting: L ⇄ Mg2Sm; _L: Sm 0.339; Mg2Sm: Sm 0.333333_ | model | [2] Jiang 2024 | Table 4, p. 14, row 19; `ORC-MT65WOVKNU` |  |
+| Phase transition | 1003.15 K | 1003.15 | congruent melting: L ⇄ Mg2Sm; _L: Sm 0.324; Mg2Sm: Sm 0.333333_ | experimental | [2] Jiang 2024 | Table 4, p. 14, row 20; `ORC-3RMAY5KD66` |  |
+| Phase transition | 1008.15 K | 1008.15 |  | experimental | [2] Jiang 2024; _cites Saccone 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990169-0) | p. 8; `ORC-M2YLYUIJOT.ea951a` | “The reaction temperature is 20 C lower than the value of 735 C reported by Saccone et al.\[15\]” |
+| Phase transition | 1008.15 K | 1008.15 | L -> MgSm + Mg2Sm | experimental | [2] Jiang 2024; _cites Saccone 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990169-0) | p. 14; `ORC-3FM7T32W2D.b51ea6` | “The present measured reaction temperatures of invariant reactions L?MgSm ? Mg2Sm and L?MgSn ? (c-Sm) are 715 and 744 C, which are 20 and 41 C lower than the experimental values of 735 and 785 C reported by Saccone et al.,\[\[15\]\] respectively.” |
+| Phase transition | 1017 K | 1017 | congruent melting: L -> Mg2Sm; _L: Sm 0.333; Mg2Sm: Sm 0.333_ | model | [1] Jia 2008 | Table 2, p. 5, row 9; `ORC-SFI3YDRPZD` |  |
+| Phase transition | 1017.15 K | 1017.15 | L -> MgSm + (c-Sm) | experimental | [2] Jiang 2024 | p. 14; `ORC-3FM7T32W2D.a0d222` | “The present measured reaction temperatures of invariant reactions L?MgSm ? Mg2Sm and L?MgSn ? (c-Sm) are 715 and 744 C, which are 20 and 41 C lower than the experimental values of 735 and 785 C reported by Saccone et al.,\[\[15\]\] respectively.” |
+| Phase transition | 1017.15 K | 1017.15 | L -> MgSm + (c-Sm) | experimental | [2] Jiang 2024 | p. 10; `ORC-WMCVT5WNJO` | “Based on the DSC heating curve for samples E16a (Fig. 5e) and C4, the temperature for the invariant reaction is 744 C.” |
+| Phase transition | 1020.15 K | 1020.15 |  | model | [2] Jiang 2024 | p. 14; `ORC-YVK3XQQH7W.5a1d57` | “These two equilibrium reaction temperatures are computed as 717 C and 747 C in present assessment, and the difference from the current experimental values is less than 3 C.” |
+| Phase transition | 1023 K | 1023 | congruent melting: L -> Mg2Sm; _L: Sm 0.333; Mg2Sm: Sm 0.333_ | experimental | [1] Jia 2008; _cites Saccone 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990169-0) | Table 2, p. 5, row 8; `ORC-FIGQZCP7HY` |  |
+| Phase transition | 1023.15 K | 1023.15 | congruent melting: L ⇄ Mg2Sm; _L: Sm 0.333; Mg2Sm: Sm 0.333333_ | experimental | [2] Jiang 2024; _cites Saccone 1989_ | Table 4, p. 14, row 21; `ORC-6IGWRET62L` |  |
+| Phase transition | 1043.15 K | 1043.15 |  | model | [2] Jiang 2024 | p. 16; `ORC-B735E5TGDS.ce2ec4` | “The calculated melting points of Mg3Sm, Mg2Sm and MgSm are 710, 722 and 770 C, respectively, which match the experimental data of this work well.” |
+| Phase transition | 1043.15 K | 1043.15 | congruent melting: L ⇄ MgSm; _L: Sm 0.486; MgSm: Sm 0.5_ | model | [2] Jiang 2024 | Table 4, p. 14, row 28; `ORC-7MZTJEM2XQ` |  |
+| Phase transition | 1047.15 K | 1047.15 | congruent melting: L ⇄ MgSm; _L: Sm 0.48; MgSm: Sm 0.5_ | experimental | [2] Jiang 2024 | Table 4, p. 14, row 29; `ORC-YUS3BXXQG2` |  |
+| Phase transition | 1058.15 K | 1058.15 |  | experimental | [2] Jiang 2024; _cites Saccone 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990169-0) | p. 10; `ORC-T4H4ZXTOX4` | “This value is 41 C lower than the 785 C reported by Saccone et al.\[15\]” |
+| Phase transition | 1058.15 K | 1058.15 | L -> MgSm + (c-Sm) | experimental | [2] Jiang 2024; _cites Saccone 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990169-0) | p. 14; `ORC-3FM7T32W2D.308d54` | “The present measured reaction temperatures of invariant reactions L?MgSm ? Mg2Sm and L?MgSn ? (c-Sm) are 715 and 744 C, which are 20 and 41 C lower than the experimental values of 735 and 785 C reported by Saccone et al.,\[\[15\]\] respectively.” |
+| Phase transition | 1069 K | 1069 | congruent melting: L -> MgSm; _L: Sm 0.5; MgSm: Sm 0.5_ | model | [1] Jia 2008 | Table 2, p. 5, row 5; `ORC-ZBQ2KDA6F7` |  |
+| Phase transition | 1073 K | 1073 | congruent melting: L -> MgSm; _L: Sm 0.5; MgSm: Sm 0.5_ | experimental | [1] Jia 2008; _cites Saccone 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990169-0) | Table 2, p. 5, row 4; `ORC-7GWVDSBFTT` |  |
+| Phase transition | 1073.15 K | 1073.15 | congruent melting: L ⇄ MgSm; _L: Sm 0.5; MgSm: Sm 0.5_ | experimental | [2] Jiang 2024; _cites Saccone 1989_ | Table 4, p. 14, row 30; `ORC-2SQST3P2J2` |  |
 
 ### Phase equilibrium (1)
 
@@ -219,7 +219,7 @@ Table: Phase equilibrium, Mg–Sm system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  |  | Mgsm; _Mgsm: Mg 0.521, Sm 0.479_ | experimental | [2] Jiang 2024 | Table 2, p. 5, row 31 |  |
+| Phase composition |  |  | Mgsm; _Mgsm: Mg 0.521, Sm 0.479_ | experimental | [2] Jiang 2024 | Table 2, p. 5, row 31; `ORC-3T4BOFL43Q` |  |
 
 ### Other property (1)
 
@@ -227,7 +227,7 @@ Table: Other property, Mg–Sm system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Other; _printed: solid solubility range_ | 5 at.% Sm | 988.15 |  | experimental | [2] Jiang 2024 | p. 9 | “The maximum solid solubility range for MgSm is about 5 at.% Sm at 715 C, decreasing to 2 at.% Sm at 400 C.” |
+| Other; _printed: solid solubility range_ | 5 at.% Sm | 988.15 |  | experimental | [2] Jiang 2024 | p. 9; `ORC-GUBAAQKDSH` | “The maximum solid solubility range for MgSm is about 5 at.% Sm at 715 C, decreasing to 2 at.% Sm at 400 C.” |
 
 ## Sources
 
@@ -293,4 +293,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

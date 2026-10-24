@@ -14,13 +14,13 @@ Table: Enthalpy of formation of CoGe reported in the literature (7)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -15.943 kJ/mol-atom | CoGe | 1060 | experimental |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [1] Dong 2013; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 6, p. 5, row 15 |  |
-| -15.943 per mol-atom ± 946 | CoGe | 1060 | experimental |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [2] Zeng 2019; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 4, p. 9, row 22 |  |
-| -22.758 per mol-atom | CoGe | 1060 | model |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [2] Zeng 2019 | Table 4, p. 9, row 24 |  |
-| -21.847 per mol-atom | CoGe | 1060 | model |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [2] Zeng 2019 | Table 4, p. 9, row 23 |  |
-| -21.752 kJ/mol-atom | CoGe | 1060 | model |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [1] Dong 2013 | Table 6, p. 5, row 16 |  |
-| -21.394 kJ/mol-atom | CoGe | 298.15 | model |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [1] Dong 2013 | Table 5, p. 4, row 5 |  |
-| -20.991 kJ/mol-atom | CoGe | 298.15 | model |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [1] Dong 2013 | Table 5, p. 4, row 5 |  |
+| -15.943 kJ/mol-atom | CoGe | 1060 | experimental |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [1] Dong 2013; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 6, p. 5, row 15; `ORC-FXF2ISUFL6.7ee8ff` |  |
+| -15.943 per mol-atom ± 946 | CoGe | 1060 | experimental |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [2] Zeng 2019; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 4, p. 9, row 22; `ORC-U2ZV5GWIH7` |  |
+| -22.758 per mol-atom | CoGe | 1060 | model |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [2] Zeng 2019 | Table 4, p. 9, row 24; `ORC-CICQFE5A6P` |  |
+| -21.847 per mol-atom | CoGe | 1060 | model |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [2] Zeng 2019 | Table 4, p. 9, row 23; `ORC-WDVUJQJRF2` |  |
+| -21.752 kJ/mol-atom | CoGe | 1060 | model |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [1] Dong 2013 | Table 6, p. 5, row 16; `ORC-D7F2OB6EBY.18a828` |  |
+| -21.394 kJ/mol-atom | CoGe | 298.15 | model |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [1] Dong 2013 | Table 5, p. 4, row 5; `ORC-634G6ECVIM.dc9396` |  |
+| -20.991 kJ/mol-atom | CoGe | 298.15 | model |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [1] Dong 2013 | Table 5, p. 4, row 5; `ORC-634G6ECVIM.9c1e99` |  |
 
 ### Uncertainty budget
 
@@ -103,4 +103,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

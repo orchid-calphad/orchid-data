@@ -50,15 +50,15 @@ Table: Invariant reactions reported in the literature for the Gd–Ti system (9)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1842 | monotectic: Monotectic e1: L1 -> L2+bcc-Ti(Gd) | L1: Ti 0.925; L2: Ti 0.25; bcc-Ti(Gd): Ti 0.99 | model | [1] Mattern 2013 | Table 1, p. 2, row 2 |  |
-| 1841 | monotectic: Monotectic e1: L1 -> L2+bcc-Ti(Gd) | L1: Ti 0.94; L2: Ti 0.24; bcc-Ti(Gd): Ti 0.995 | experimental | [1] Mattern 2013 | Table 1, p. 2, row 1 |  |
-| 1508 | eutectic: Eutectic e2: L -> bcc-Gd(Ti)+bcc-Ti(Gd) | L: Ti 0.08; bcc-Gd(Ti): Ti 0.005; bcc-Ti(Gd): Ti 0.998 | experimental | [1] Mattern 2013 | Table 1, p. 2, row 3 |  |
-| 1508 | eutectic: Eutectic e2: L -> bcc-Gd(Ti)+bcc-Ti(Gd) | L: Ti 0.046; bcc-Gd(Ti): Ti 0.992; bcc-Ti(Gd): Ti 0.006 | model | [1] Mattern 2013 | Table 1, p. 2, row 4 |  |
-| 1490 | eutectoid: Eutectoid e3: bcc-Gd(Ti) -> hcp-Gd(Ti)+bcc-Ti(Gd) | bcc-Gd(Ti): Ti 0.006; hcp-Gd(Ti): Ti 0.992; bcc-Ti(Gd): Ti 0.002 | model | [1] Mattern 2013 | Table 1, p. 2, row 6 |  |
-| 1488 | eutectoid: Eutectoid e3: bcc-Gd(Ti) -> hcp-Gd(Ti)+bcc-Ti(Gd) | bcc-Gd(Ti): Ti 0.004; hcp-Gd(Ti): Ti 0.001; bcc-Ti(Gd): Ti 0.998 | experimental | [1] Mattern 2013 | Table 1, p. 2, row 5 |  |
-| 1488 | eutectoid: bcc-Gd(Ti)2hcp-Gd(Ti)+bccTi(Gd) |  | experimental | [1] Mattern 2013 | p. 3 | “Reaction (2) at T1⁄4 1488 K is then related to the eutectoid transformation bcc-Gd(Ti)2hcp-Gd(Ti)+bccTi(Gd).” |
-| 1150 | eutectoid: Eutectoid e4: bcc-Ti(Gd) -> hcp-Gd(Ti)+hcp-Ti(Gd) | bcc-Ti(Gd): Ti 0.997; hcp-Gd(Ti): Ti 0.001; hcp-Ti(Gd): Ti 0.999 | model | [1] Mattern 2013 | Table 1, p. 2, row 8 |  |
-| 1140 | eutectoid: Eutectoid e4: bcc-Ti(Gd) -> hcp-Gd(Ti)+hcp-Ti(Gd) | bcc-Ti(Gd): Ti 0.998; hcp-Gd(Ti): Ti 0.001; hcp-Ti(Gd): Ti 0.999 | experimental | [1] Mattern 2013 | Table 1, p. 2, row 7 |  |
+| 1842 | monotectic: Monotectic e1: L1 -> L2+bcc-Ti(Gd) | L1: Ti 0.925; L2: Ti 0.25; bcc-Ti(Gd): Ti 0.99 | model | [1] Mattern 2013 | Table 1, p. 2, row 2; `ORC-M7HR6I5BY7` |  |
+| 1841 | monotectic: Monotectic e1: L1 -> L2+bcc-Ti(Gd) | L1: Ti 0.94; L2: Ti 0.24; bcc-Ti(Gd): Ti 0.995 | experimental | [1] Mattern 2013 | Table 1, p. 2, row 1; `ORC-5ER7OYAZMY` |  |
+| 1508 | eutectic: Eutectic e2: L -> bcc-Gd(Ti)+bcc-Ti(Gd) | L: Ti 0.08; bcc-Gd(Ti): Ti 0.005; bcc-Ti(Gd): Ti 0.998 | experimental | [1] Mattern 2013 | Table 1, p. 2, row 3; `ORC-2QBIW5TIZ3` |  |
+| 1508 | eutectic: Eutectic e2: L -> bcc-Gd(Ti)+bcc-Ti(Gd) | L: Ti 0.046; bcc-Gd(Ti): Ti 0.992; bcc-Ti(Gd): Ti 0.006 | model | [1] Mattern 2013 | Table 1, p. 2, row 4; `ORC-3ZGFDQSZAI` |  |
+| 1490 | eutectoid: Eutectoid e3: bcc-Gd(Ti) -> hcp-Gd(Ti)+bcc-Ti(Gd) | bcc-Gd(Ti): Ti 0.006; hcp-Gd(Ti): Ti 0.992; bcc-Ti(Gd): Ti 0.002 | model | [1] Mattern 2013 | Table 1, p. 2, row 6; `ORC-WTHGIRBTYA` |  |
+| 1488 | eutectoid: Eutectoid e3: bcc-Gd(Ti) -> hcp-Gd(Ti)+bcc-Ti(Gd) | bcc-Gd(Ti): Ti 0.004; hcp-Gd(Ti): Ti 0.001; bcc-Ti(Gd): Ti 0.998 | experimental | [1] Mattern 2013 | Table 1, p. 2, row 5; `ORC-HGGS5USB4G` |  |
+| 1488 | eutectoid: bcc-Gd(Ti)2hcp-Gd(Ti)+bccTi(Gd) |  | experimental | [1] Mattern 2013 | p. 3; `ORC-O3M4UPO4EH` | “Reaction (2) at T1⁄4 1488 K is then related to the eutectoid transformation bcc-Gd(Ti)2hcp-Gd(Ti)+bccTi(Gd).” |
+| 1150 | eutectoid: Eutectoid e4: bcc-Ti(Gd) -> hcp-Gd(Ti)+hcp-Ti(Gd) | bcc-Ti(Gd): Ti 0.997; hcp-Gd(Ti): Ti 0.001; hcp-Ti(Gd): Ti 0.999 | model | [1] Mattern 2013 | Table 1, p. 2, row 8; `ORC-AZ7C3EKBUT` |  |
+| 1140 | eutectoid: Eutectoid e4: bcc-Ti(Gd) -> hcp-Gd(Ti)+hcp-Ti(Gd) | bcc-Ti(Gd): Ti 0.998; hcp-Gd(Ti): Ti 0.001; hcp-Ti(Gd): Ti 0.999 | experimental | [1] Mattern 2013 | Table 1, p. 2, row 7; `ORC-CYYVGKRHPB` |  |
 
 ## Other properties
 
@@ -68,7 +68,7 @@ Table: Phase transition, Gd–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1800 K | 1800 | other | experimental | [1] Mattern 2013 | p. 4 | “The liquidus line ranges from about 927 3 at% Gd for T 1⁄41500 K up to about 8073 at% Gd for T1⁄4 1800 K.” |
+| Phase transition | 1800 K | 1800 | other | experimental | [1] Mattern 2013 | p. 4; `ORC-4N6QVWTN2N` | “The liquidus line ranges from about 927 3 at% Gd for T 1⁄41500 K up to about 8073 at% Gd for T1⁄4 1800 K.” |
 
 ### Phase equilibrium (3)
 
@@ -76,9 +76,9 @@ Table: Phase equilibrium, Gd–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  |  | L1 + L2 + Gd + Ti + L₁ + L₂; _L1: Gd 0.055, Ti 0.945; L2: Gd 0.74, Ti 0.26; Gd: Gd 0.998, Ti 0.002; Ti: Gd 0.005, Ti 0.995; L₁: Gd 0.055, Ti 0.945; L₂: Gd 0.74, Ti 0.26_ | experimental | [1] Mattern 2013 | Table 2, p. 6, row 2 |  |
-| Phase composition |  |  | L1 + L2 + L + Gd + Ti; _L1: Gd 0.07, Ti 0.93; L2: Gd 0.78, Ti 0.22; L: Gd 0.914, Ti 0.086; Gd: Gd 0.998, Ti 0.002; Ti: Gd 0.004, Ti 0.996_ | experimental | [1] Mattern 2013 | Table 2, p. 6, row 1 |  |
-| Phase composition |  |  | L1 + L2 + L + Gd + Ti; _L1: Gd 0.061, Ti 0.939; L2: Gd 0.75, Ti 0.25; L: Gd 0.923, Ti 0.077; Gd: Gd 0.997, Ti 0.003; Ti: Gd 0.004, Ti 0.996_ | experimental | [1] Mattern 2013 | Table 2, p. 6, row 3 |  |
+| Phase composition |  |  | L1 + L2 + Gd + Ti + L₁ + L₂; _L1: Gd 0.055, Ti 0.945; L2: Gd 0.74, Ti 0.26; Gd: Gd 0.998, Ti 0.002; Ti: Gd 0.005, Ti 0.995; L₁: Gd 0.055, Ti 0.945; L₂: Gd 0.74, Ti 0.26_ | experimental | [1] Mattern 2013 | Table 2, p. 6, row 2; `ORC-ZXHDXOWQNL` |  |
+| Phase composition |  |  | L1 + L2 + L + Gd + Ti; _L1: Gd 0.07, Ti 0.93; L2: Gd 0.78, Ti 0.22; L: Gd 0.914, Ti 0.086; Gd: Gd 0.998, Ti 0.002; Ti: Gd 0.004, Ti 0.996_ | experimental | [1] Mattern 2013 | Table 2, p. 6, row 1; `ORC-HQSYWLPFIW` |  |
+| Phase composition |  |  | L1 + L2 + L + Gd + Ti; _L1: Gd 0.061, Ti 0.939; L2: Gd 0.75, Ti 0.25; L: Gd 0.923, Ti 0.077; Gd: Gd 0.997, Ti 0.003; Ti: Gd 0.004, Ti 0.996_ | experimental | [1] Mattern 2013 | Table 2, p. 6, row 3; `ORC-QHGZYY2ZMZ` |  |
 
 ## Sources
 
@@ -143,4 +143,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

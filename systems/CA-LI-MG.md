@@ -28,8 +28,8 @@ Table: Invariant reactions reported in the literature for the Ca–Li–Mg syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 764.15 | eutectic: L = (Mg) + (Li) + Ca(Li,Mg)2 |  | model | [1] Gröbner 2002 | Table 3, p. 7, row 1 |  |
-| 664.15 | quasi-peritectic: βCa + Ca(Li,Mg)2 = αCa + L |  | model | [1] Gröbner 2002 | Table 3, p. 7, row 2 |  |
+| 764.15 | eutectic: L = (Mg) + (Li) + Ca(Li,Mg)2 |  | model | [1] Gröbner 2002 | Table 3, p. 7, row 1; `ORC-5ATLIEKTNM` |  |
+| 664.15 | quasi-peritectic: βCa + Ca(Li,Mg)2 = αCa + L |  | model | [1] Gröbner 2002 | Table 3, p. 7, row 2; `ORC-TVQG7B2I52` |  |
 
 ## Other properties
 
@@ -39,7 +39,7 @@ Table: Phase transition, Ca–Li–Mg system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 873.15 K | 873.15 | other | experimental | [1] Gröbner 2002 | p. 5 | “The solidus temperature of this alloy was taken from the heating peak onset at about 600 C 20 K.” |
+| Phase transition | 873.15 K | 873.15 | other | experimental | [1] Gröbner 2002 | p. 5; `ORC-HSMIBHM73M` | “The solidus temperature of this alloy was taken from the heating peak onset at about 600 C 20 K.” |
 
 ## Sources
 
@@ -82,4 +82,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

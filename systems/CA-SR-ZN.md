@@ -26,13 +26,13 @@ Table: Invariant reactions reported in the literature for the Ca–Sr–Zn syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 945.35 | L + CaZn11 = MZn5 + MZn13 | L: Ca 0.1267, Zn 0.8548 | model | [1] Zhong 2003 | Table 4, p. 5, row 7 |  |
-| 827.05 | L + αSrZn5 + MZn2 = MZn5 | L: Ca 0.0013, Zn 0.7189 | model | [1] Zhong 2003 | Table 4, p. 5, row 6 |  |
-| 798.85 | L + CaZn3 = MZn2 + MZn5 | L: Ca 0.1792, Zn 0.7274 | model | [1] Zhong 2003 | Table 4, p. 5, row 5 |  |
-| 604.05 | L + Ca3Zn = Ca5Zn3 + fcc | L: Ca 0.551, Zn 0.3249 | model | [1] Zhong 2003 | Table 4, p. 5, row 4 |  |
-| 403.75 | L + Ca5Zn3 = fcc + CaZn | L: Ca 0.2963, Zn 0.2608 | model | [1] Zhong 2003 | Table 4, p. 5, row 3 |  |
-| 390.75 | L + MZn2 = CaZn + SrZn | L: Ca 0.2588, Zn 0.39 | model | [1] Zhong 2003 | Table 4, p. 5, row 2 |  |
-| 380.15 | L = CaZn + fcc + SrZn | L: Ca 0.2622, Zn 0.3729 | model | [1] Zhong 2003 | Table 4, p. 5, row 1 |  |
+| 945.35 | L + CaZn11 = MZn5 + MZn13 | L: Ca 0.1267, Zn 0.8548 | model | [1] Zhong 2003 | Table 4, p. 5, row 7; `ORC-T2MLZCT6M6` |  |
+| 827.05 | L + αSrZn5 + MZn2 = MZn5 | L: Ca 0.0013, Zn 0.7189 | model | [1] Zhong 2003 | Table 4, p. 5, row 6; `ORC-JDRMHQTOVU` |  |
+| 798.85 | L + CaZn3 = MZn2 + MZn5 | L: Ca 0.1792, Zn 0.7274 | model | [1] Zhong 2003 | Table 4, p. 5, row 5; `ORC-CBJ5ZDOXII` |  |
+| 604.05 | L + Ca3Zn = Ca5Zn3 + fcc | L: Ca 0.551, Zn 0.3249 | model | [1] Zhong 2003 | Table 4, p. 5, row 4; `ORC-3BPRMT36XQ` |  |
+| 403.75 | L + Ca5Zn3 = fcc + CaZn | L: Ca 0.2963, Zn 0.2608 | model | [1] Zhong 2003 | Table 4, p. 5, row 3; `ORC-FJIWHUJFMR` |  |
+| 390.75 | L + MZn2 = CaZn + SrZn | L: Ca 0.2588, Zn 0.39 | model | [1] Zhong 2003 | Table 4, p. 5, row 2; `ORC-CPJOKZBK22` |  |
+| 380.15 | L = CaZn + fcc + SrZn | L: Ca 0.2622, Zn 0.3729 | model | [1] Zhong 2003 | Table 4, p. 5, row 1; `ORC-INWPB6KT4Z` |  |
 
 ## Sources
 
@@ -75,4 +75,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

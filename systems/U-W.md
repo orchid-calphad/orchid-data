@@ -56,12 +56,12 @@ Table: Invariant reactions reported in the literature for the U–W system (6)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1408.15 | eutectic: L → γ (U) + bcc (W) |  | experimental | [1] Wang 2008; _cites Pandian 2000_ | Table 4, p. 5, row 1 |  |
-| 1407.65 | eutectic: L → γ (U) + bcc (W) | L: W 0.0026; γ (U): W 0.0024; bcc (W): W 0.997 | model | [1] Wang 2008 | Table 4, p. 5, row 2 |  |
-| 1404 | Liquid -> (γ-U) + (W) |  | model | [2] Berche 2011 | Table 2, p. 5, row 1 |  |
-| 1047.65 | eutectoid: γ (U) → β (U) + bcc (W) | γ (U): W 0.001; β (U): W 0; bcc (W): W 0.997 | model | [1] Wang 2008 | Table 4, p. 5, row 4 |  |
-| 942.15 | congruent transformation: β (U) → γ (U) + bcc (W) | β (U): W 0; γ (U): W 0; bcc (W): W 0.997 | model | [1] Wang 2008 | Table 4, p. 5, row 6 |  |
-| 942 | (β-U) -> (α-U) + (W) |  | model | [2] Berche 2011 | Table 2, p. 5, row 3 |  |
+| 1408.15 | eutectic: L → γ (U) + bcc (W) |  | experimental | [1] Wang 2008; _cites Pandian 2000_ | Table 4, p. 5, row 1; `ORC-M32J5EA3AC` |  |
+| 1407.65 | eutectic: L → γ (U) + bcc (W) | L: W 0.0026; γ (U): W 0.0024; bcc (W): W 0.997 | model | [1] Wang 2008 | Table 4, p. 5, row 2; `ORC-ZGMUFQBOAZ` |  |
+| 1404 | Liquid -> (γ-U) + (W) |  | model | [2] Berche 2011 | Table 2, p. 5, row 1; `ORC-UVZ6N5PRUV` |  |
+| 1047.65 | eutectoid: γ (U) → β (U) + bcc (W) | γ (U): W 0.001; β (U): W 0; bcc (W): W 0.997 | model | [1] Wang 2008 | Table 4, p. 5, row 4; `ORC-QCIMMOAHUK` |  |
+| 942.15 | congruent transformation: β (U) → γ (U) + bcc (W) | β (U): W 0; γ (U): W 0; bcc (W): W 0.997 | model | [1] Wang 2008 | Table 4, p. 5, row 6; `ORC-XVDMITWGXV` |  |
+| 942 | (β-U) -> (α-U) + (W) |  | model | [2] Berche 2011 | Table 2, p. 5, row 3; `ORC-L2EQYJCORM` |  |
 
 ## Other properties
 
@@ -71,22 +71,22 @@ Table: Mixing / partial, U–W system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: mixing enthalpy_ | 0.02 kJ/mol (basis unstated) | 3773.15 | liquid; _alloy: U 0.7, W 0.3_ | model | [1] Wang 2008 | Table 5, p. 5, row 13 |  |
-| Enthalpy of mixing; _printed: mixing enthalpy_ | 5.2 kJ/mol (basis unstated) | 3773.15 | liquid; _alloy: U 0.3, W 0.7_ | model | [1] Wang 2008 | Table 5, p. 5, row 5 |  |
-| Enthalpy of mixing; _printed: mixing enthalpy_ | 3.17 kJ/mol (basis unstated) | 3773.15 | liquid; _alloy: U 0.5, W 0.5_ | model | [1] Wang 2008 | Table 5, p. 5, row 9 |  |
-| Enthalpy of mixing; _printed: mixing enthalpy_ | 3.4 kJ/mol (basis unstated) | 3773.15 | liquid; _alloy: U 0.1, W 0.9_ | model | [1] Wang 2008 | Table 5, p. 5, row 1 |  |
-| Enthalpy of mixing; _printed: mixing enthalpy_ | 3.32 kJ/mol (basis unstated) | 3873.15 | liquid; _alloy: U 0.1, W 0.9_ | model | [1] Wang 2008 | Table 5, p. 5, row 2 |  |
-| Enthalpy of mixing; _printed: mixing enthalpy_ | 0.049 kJ/mol (basis unstated) | 3873.15 | liquid; _alloy: U 0.7, W 0.3_ | model | [1] Wang 2008 | Table 5, p. 5, row 14 |  |
-| Enthalpy of mixing; _printed: mixing enthalpy_ | 5.22 kJ/mol (basis unstated) | 3873.15 | liquid; _alloy: U 0.3, W 0.7_ | model | [1] Wang 2008 | Table 5, p. 5, row 6 |  |
-| Enthalpy of mixing; _printed: mixing enthalpy_ | 3.19 kJ/mol (basis unstated) | 3873.15 | liquid; _alloy: U 0.5, W 0.5_ | model | [1] Wang 2008 | Table 5, p. 5, row 10 |  |
-| Enthalpy of mixing; _printed: mixing enthalpy_ | 3.34 kJ/mol (basis unstated) | 3973.15 | liquid; _alloy: U 0.1, W 0.9_ | model | [1] Wang 2008 | Table 5, p. 5, row 3 |  |
-| Enthalpy of mixing; _printed: mixing enthalpy_ | 3.14 kJ/mol (basis unstated) | 3973.15 | liquid; _alloy: U 0.5, W 0.5_ | model | [1] Wang 2008 | Table 5, p. 5, row 11 |  |
-| Enthalpy of mixing; _printed: mixing enthalpy_ | 0.078 kJ/mol (basis unstated) | 3973.15 | liquid; _alloy: U 0.7, W 0.3_ | model | [1] Wang 2008 | Table 5, p. 5, row 15 |  |
-| Enthalpy of mixing; _printed: mixing enthalpy_ | 5.2 kJ/mol (basis unstated) | 3973.15 | liquid; _alloy: U 0.3, W 0.7_ | model | [1] Wang 2008 | Table 5, p. 5, row 7 |  |
-| Enthalpy of mixing; _printed: mixing enthalpy_ | 0.049 kJ/mol (basis unstated) | 4073.15 | liquid; _alloy: U 0.7, W 0.3_ | model | [1] Wang 2008 | Table 5, p. 5, row 16 |  |
-| Enthalpy of mixing; _printed: mixing enthalpy_ | 3.12 kJ/mol (basis unstated) | 4073.15 | liquid; _alloy: U 0.5, W 0.5_ | model | [1] Wang 2008 | Table 5, p. 5, row 12 |  |
-| Enthalpy of mixing; _printed: mixing enthalpy_ | 3.33 kJ/mol (basis unstated) | 4073.15 | liquid; _alloy: U 0.1, W 0.9_ | model | [1] Wang 2008 | Table 5, p. 5, row 4 |  |
-| Enthalpy of mixing; _printed: mixing enthalpy_ | 5.21 kJ/mol (basis unstated) | 4073.15 | liquid; _alloy: U 0.3, W 0.7_ | model | [1] Wang 2008 | Table 5, p. 5, row 8 |  |
+| Enthalpy of mixing; _printed: mixing enthalpy_ | 0.02 kJ/mol (basis unstated) | 3773.15 | liquid; _alloy: U 0.7, W 0.3_ | model | [1] Wang 2008 | Table 5, p. 5, row 13; `ORC-GNHR4MFLE5` |  |
+| Enthalpy of mixing; _printed: mixing enthalpy_ | 5.2 kJ/mol (basis unstated) | 3773.15 | liquid; _alloy: U 0.3, W 0.7_ | model | [1] Wang 2008 | Table 5, p. 5, row 5; `ORC-K3GV6TLBSB` |  |
+| Enthalpy of mixing; _printed: mixing enthalpy_ | 3.17 kJ/mol (basis unstated) | 3773.15 | liquid; _alloy: U 0.5, W 0.5_ | model | [1] Wang 2008 | Table 5, p. 5, row 9; `ORC-QWAMJWSDIQ` |  |
+| Enthalpy of mixing; _printed: mixing enthalpy_ | 3.4 kJ/mol (basis unstated) | 3773.15 | liquid; _alloy: U 0.1, W 0.9_ | model | [1] Wang 2008 | Table 5, p. 5, row 1; `ORC-VTYB2V7INN` |  |
+| Enthalpy of mixing; _printed: mixing enthalpy_ | 3.32 kJ/mol (basis unstated) | 3873.15 | liquid; _alloy: U 0.1, W 0.9_ | model | [1] Wang 2008 | Table 5, p. 5, row 2; `ORC-3E6O4UU3MC` |  |
+| Enthalpy of mixing; _printed: mixing enthalpy_ | 0.049 kJ/mol (basis unstated) | 3873.15 | liquid; _alloy: U 0.7, W 0.3_ | model | [1] Wang 2008 | Table 5, p. 5, row 14; `ORC-6WLUJEOUER` |  |
+| Enthalpy of mixing; _printed: mixing enthalpy_ | 5.22 kJ/mol (basis unstated) | 3873.15 | liquid; _alloy: U 0.3, W 0.7_ | model | [1] Wang 2008 | Table 5, p. 5, row 6; `ORC-A346GSLZPC` |  |
+| Enthalpy of mixing; _printed: mixing enthalpy_ | 3.19 kJ/mol (basis unstated) | 3873.15 | liquid; _alloy: U 0.5, W 0.5_ | model | [1] Wang 2008 | Table 5, p. 5, row 10; `ORC-WC6BO5R5LE` |  |
+| Enthalpy of mixing; _printed: mixing enthalpy_ | 3.34 kJ/mol (basis unstated) | 3973.15 | liquid; _alloy: U 0.1, W 0.9_ | model | [1] Wang 2008 | Table 5, p. 5, row 3; `ORC-2GOCS37JXF` |  |
+| Enthalpy of mixing; _printed: mixing enthalpy_ | 3.14 kJ/mol (basis unstated) | 3973.15 | liquid; _alloy: U 0.5, W 0.5_ | model | [1] Wang 2008 | Table 5, p. 5, row 11; `ORC-5OJGSHXSL4` |  |
+| Enthalpy of mixing; _printed: mixing enthalpy_ | 0.078 kJ/mol (basis unstated) | 3973.15 | liquid; _alloy: U 0.7, W 0.3_ | model | [1] Wang 2008 | Table 5, p. 5, row 15; `ORC-J7Z7TVZL5R` |  |
+| Enthalpy of mixing; _printed: mixing enthalpy_ | 5.2 kJ/mol (basis unstated) | 3973.15 | liquid; _alloy: U 0.3, W 0.7_ | model | [1] Wang 2008 | Table 5, p. 5, row 7; `ORC-JTX22ETFYA` |  |
+| Enthalpy of mixing; _printed: mixing enthalpy_ | 0.049 kJ/mol (basis unstated) | 4073.15 | liquid; _alloy: U 0.7, W 0.3_ | model | [1] Wang 2008 | Table 5, p. 5, row 16; `ORC-FJ4EUWRLL4` |  |
+| Enthalpy of mixing; _printed: mixing enthalpy_ | 3.12 kJ/mol (basis unstated) | 4073.15 | liquid; _alloy: U 0.5, W 0.5_ | model | [1] Wang 2008 | Table 5, p. 5, row 12; `ORC-I3YVZGDLBS` |  |
+| Enthalpy of mixing; _printed: mixing enthalpy_ | 3.33 kJ/mol (basis unstated) | 4073.15 | liquid; _alloy: U 0.1, W 0.9_ | model | [1] Wang 2008 | Table 5, p. 5, row 4; `ORC-KGGVZQ7DFJ` |  |
+| Enthalpy of mixing; _printed: mixing enthalpy_ | 5.21 kJ/mol (basis unstated) | 4073.15 | liquid; _alloy: U 0.3, W 0.7_ | model | [1] Wang 2008 | Table 5, p. 5, row 8; `ORC-ZT4L36FZKV` |  |
 
 ## Sources
 
@@ -152,4 +152,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

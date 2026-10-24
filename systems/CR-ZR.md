@@ -106,31 +106,31 @@ Table: Invariant reactions reported in the literature for the Cr–Zr system (25
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1952 | other | L: Zr 0.346; C14: Zr 0.346 | model | [1] Pavlů 2009 | Table 6, p. 5, row 3 |  |
-| 1950 | other | L: Zr 0.332; C14: Zr 0.332 | model | [1] Pavlů 2009; _cites Zeng 1993_ | Table 6, p. 5, row 2 |  |
-| 1948 | other | L: Zr 0.336; C14: Zr 0.336 | experimental | [1] Pavlů 2009; _cites Budberg 1968_ | Table 6, p. 5, row 1 |  |
-| 1901 | peritectic | L: Zr 0.231; C36: Zr 0.331; C14: Zr 0.33 | model | [1] Pavlů 2009 | Table 6, p. 5, row 9 |  |
-| 1898 | peritectic | L: Zr 0.502; C36: Zr 0.362; C14: Zr 0.363 | model | [1] Pavlů 2009 | Table 6, p. 5, row 6 |  |
-| 1898 | peritectic | L: Zr 0.45; C36: Zr 0.348; C14: Zr 0.349 | model | [1] Pavlů 2009; _cites Zeng 1993_ | Table 6, p. 5, row 5 |  |
-| 1897 | peritectic | L: Zr 0.225; C36: Zr 0.316; C14: Zr 0.313 | model | [1] Pavlů 2009; _cites Zeng 1993_ | Table 6, p. 5, row 8 |  |
-| 1895 | peritectic | L: Zr 0.45; C36: Zr 0.35; C14: Zr 0.35 | experimental | [1] Pavlů 2009; _cites Budberg 1968_ | Table 6, p. 5, row 4 |  |
-| 1895 | peritectic | L: Zr 0.2; C36: Zr 0.32; C14: Zr 0.32 | experimental | [1] Pavlů 2009; _cites Budberg 1968_ | Table 6, p. 5, row 7 |  |
-| 1864 | eutectic | L: Zr 0.172; BCC: Zr 0.011; C36: Zr 0.31 | model | [1] Pavlů 2009; _cites Zeng 1993_ | Table 6, p. 5, row 11 |  |
-| 1859 | eutectic | L: Zr 0.193; C36: Zr 0.33 | experimental | [1] Pavlů 2009; _cites Budberg 1968_ | Table 6, p. 5, row 10 |  |
-| 1853 | eutectic | L: Zr 0.193; BCC: Zr 0.029; C36: Zr 0.324 | model | [1] Pavlů 2009 | Table 6, p. 5, row 12 |  |
-| 1835 | peritectic | L: Zr 0.55; C36: Zr 0.36; C15: Zr 0.36 | experimental | [1] Pavlů 2009; _cites Budberg 1968_ | Table 6, p. 5, row 13 |  |
-| 1834 | peritectic | L: Zr 0.577; C36: Zr 0.369; C15: Zr 0.369 | model | [1] Pavlů 2009 | Table 6, p. 5, row 15 |  |
-| 1833 | peritectic | L: Zr 0.57; C36: Zr 0.355; C15: Zr 0.355 | model | [1] Pavlů 2009; _cites Zeng 1993_ | Table 6, p. 5, row 14 |  |
-| 1818 | eutectoid | BCC: Zr 0.01; C36: Zr 0.31; C15: Zr 0.311 | model | [1] Pavlů 2009; _cites Zeng 1993_ | Table 6, p. 5, row 17 |  |
-| 1812 | eutectoid | BCC: Zr 0.027; C36: Zr 0.324; C15: Zr 0.325 | model | [1] Pavlů 2009 | Table 6, p. 5, row 18 |  |
-| 1805 | eutectoid | C36: Zr 0.32; C15: Zr 0.32 | experimental | [1] Pavlů 2009; _cites Budberg 1968_ | Table 6, p. 5, row 16 |  |
-| 1606 | eutectic | L: Zr 0.78; C15: Zr 0.36 | experimental | [1] Pavlů 2009; _cites Budberg 1968_ | Table 6, p. 5, row 19 |  |
-| 1605 | eutectic | L: Zr 0.763; BCC: Zr 0.916; C15: Zr 0.378 | model | [1] Pavlů 2009; _cites Zeng 1993_ | Table 6, p. 5, row 20 |  |
-| 1597 | eutectic | L: Zr 0.718; BCC: Zr 0.922; C15: Zr 0.383 | model | [1] Pavlů 2009 | Table 6, p. 5, row 21 |  |
-| 1218.15 | eutectic |  | experimental | [2] Zeng 1995 | p. 4 | “One eutectic and one eutectoid equilibria occur in the Zr-corner at 945 °C and 814. °C respectively (Table 2).” |
-| 1110 | eutectoid | BCC: Zr 0.982; HCP: Zr 0.995; C15: Zr 0.36 | model | [1] Pavlů 2009; _cites Zeng 1993_ | Table 6, p. 5, row 23 |  |
-| 1105 | eutectoid | BCC: Zr 0.984; HCP: Zr 0.986; C15: Zr 0.34 | experimental | [1] Pavlů 2009; _cites Budberg 1968_ | Table 6, p. 5, row 22 |  |
-| 1104 | eutectoid | BCC: Zr 0.977; HCP: Zr 0.991; C15: Zr 0.358 | model | [1] Pavlů 2009 | Table 6, p. 5, row 24 |  |
+| 1952 | other | L: Zr 0.346; C14: Zr 0.346 | model | [1] Pavlů 2009 | Table 6, p. 5, row 3; `ORC-AFRNYB44O3` |  |
+| 1950 | other | L: Zr 0.332; C14: Zr 0.332 | model | [1] Pavlů 2009; _cites Zeng 1993_ | Table 6, p. 5, row 2; `ORC-6FVRC527IT` |  |
+| 1948 | other | L: Zr 0.336; C14: Zr 0.336 | experimental | [1] Pavlů 2009; _cites Budberg 1968_ | Table 6, p. 5, row 1; `ORC-WQBZSLI2DS` |  |
+| 1901 | peritectic | L: Zr 0.231; C36: Zr 0.331; C14: Zr 0.33 | model | [1] Pavlů 2009 | Table 6, p. 5, row 9; `ORC-T2DRS6RED6` |  |
+| 1898 | peritectic | L: Zr 0.502; C36: Zr 0.362; C14: Zr 0.363 | model | [1] Pavlů 2009 | Table 6, p. 5, row 6; `ORC-JA4YTFBDXA` |  |
+| 1898 | peritectic | L: Zr 0.45; C36: Zr 0.348; C14: Zr 0.349 | model | [1] Pavlů 2009; _cites Zeng 1993_ | Table 6, p. 5, row 5; `ORC-WEPFNIUX3J` |  |
+| 1897 | peritectic | L: Zr 0.225; C36: Zr 0.316; C14: Zr 0.313 | model | [1] Pavlů 2009; _cites Zeng 1993_ | Table 6, p. 5, row 8; `ORC-4Z2MT563GT` |  |
+| 1895 | peritectic | L: Zr 0.45; C36: Zr 0.35; C14: Zr 0.35 | experimental | [1] Pavlů 2009; _cites Budberg 1968_ | Table 6, p. 5, row 4; `ORC-RTSXLSV5D5` |  |
+| 1895 | peritectic | L: Zr 0.2; C36: Zr 0.32; C14: Zr 0.32 | experimental | [1] Pavlů 2009; _cites Budberg 1968_ | Table 6, p. 5, row 7; `ORC-Y6F7XBC7HL` |  |
+| 1864 | eutectic | L: Zr 0.172; BCC: Zr 0.011; C36: Zr 0.31 | model | [1] Pavlů 2009; _cites Zeng 1993_ | Table 6, p. 5, row 11; `ORC-VX5CZTT3UD` |  |
+| 1859 | eutectic | L: Zr 0.193; C36: Zr 0.33 | experimental | [1] Pavlů 2009; _cites Budberg 1968_ | Table 6, p. 5, row 10; `ORC-MQ2VBBUDWX` |  |
+| 1853 | eutectic | L: Zr 0.193; BCC: Zr 0.029; C36: Zr 0.324 | model | [1] Pavlů 2009 | Table 6, p. 5, row 12; `ORC-5YPH6BHK6O` |  |
+| 1835 | peritectic | L: Zr 0.55; C36: Zr 0.36; C15: Zr 0.36 | experimental | [1] Pavlů 2009; _cites Budberg 1968_ | Table 6, p. 5, row 13; `ORC-42BJIBSFPS` |  |
+| 1834 | peritectic | L: Zr 0.577; C36: Zr 0.369; C15: Zr 0.369 | model | [1] Pavlů 2009 | Table 6, p. 5, row 15; `ORC-K4G2OCKENJ` |  |
+| 1833 | peritectic | L: Zr 0.57; C36: Zr 0.355; C15: Zr 0.355 | model | [1] Pavlů 2009; _cites Zeng 1993_ | Table 6, p. 5, row 14; `ORC-KXFFPR6GGP` |  |
+| 1818 | eutectoid | BCC: Zr 0.01; C36: Zr 0.31; C15: Zr 0.311 | model | [1] Pavlů 2009; _cites Zeng 1993_ | Table 6, p. 5, row 17; `ORC-2FDMDIRQ63` |  |
+| 1812 | eutectoid | BCC: Zr 0.027; C36: Zr 0.324; C15: Zr 0.325 | model | [1] Pavlů 2009 | Table 6, p. 5, row 18; `ORC-R3BNRPL25P` |  |
+| 1805 | eutectoid | C36: Zr 0.32; C15: Zr 0.32 | experimental | [1] Pavlů 2009; _cites Budberg 1968_ | Table 6, p. 5, row 16; `ORC-43CVO7VEMB` |  |
+| 1606 | eutectic | L: Zr 0.78; C15: Zr 0.36 | experimental | [1] Pavlů 2009; _cites Budberg 1968_ | Table 6, p. 5, row 19; `ORC-NTJBPBRLMR` |  |
+| 1605 | eutectic | L: Zr 0.763; BCC: Zr 0.916; C15: Zr 0.378 | model | [1] Pavlů 2009; _cites Zeng 1993_ | Table 6, p. 5, row 20; `ORC-SOELID3Y45` |  |
+| 1597 | eutectic | L: Zr 0.718; BCC: Zr 0.922; C15: Zr 0.383 | model | [1] Pavlů 2009 | Table 6, p. 5, row 21; `ORC-VTATHV7NUC` |  |
+| 1218.15 | eutectic |  | experimental | [2] Zeng 1995 | p. 4; `ORC-WE67DM3LVC` | “One eutectic and one eutectoid equilibria occur in the Zr-corner at 945 °C and 814. °C respectively (Table 2).” |
+| 1110 | eutectoid | BCC: Zr 0.982; HCP: Zr 0.995; C15: Zr 0.36 | model | [1] Pavlů 2009; _cites Zeng 1993_ | Table 6, p. 5, row 23; `ORC-PDOLL5SYH3` |  |
+| 1105 | eutectoid | BCC: Zr 0.984; HCP: Zr 0.986; C15: Zr 0.34 | experimental | [1] Pavlů 2009; _cites Budberg 1968_ | Table 6, p. 5, row 22; `ORC-4TPRUNSXR3` |  |
+| 1104 | eutectoid | BCC: Zr 0.977; HCP: Zr 0.991; C15: Zr 0.358 | model | [1] Pavlů 2009 | Table 6, p. 5, row 24; `ORC-EKHBZ42GKA` |  |
 
 ## Other properties
 
@@ -140,97 +140,97 @@ Table: Crystal structure, Cr–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 6.58 Å |  | C15; _alloy: Zr 0_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 17 |  |
-| Lattice a | 7.81 Å |  | C15; _alloy: Zr 0.666667_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 18 |  |
-| Lattice a | 7.124 Å |  | C15; _alloy: Zr 0.333333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 16 |  |
-| Lattice a | 5.056 Å |  | C36; _alloy: Zr 0.333333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 21 |  |
-| Lattice a | 6.178 Å |  | C36; _alloy: Zr 0.833333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 25 |  |
-| Lattice a | 6.348 Å |  | C36; _alloy: Zr 0.5_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 23 |  |
-| Lattice a | 6.465 Å |  | C36; _alloy: Zr 0.666667_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 24 |  |
-| Lattice a | 4.651 Å |  | C36; _alloy: Zr 0_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 22 |  |
-| Lattice a | 4.641 Å |  | UNKNOWN; _alloy: Zr 0_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 3 |  |
-| Lattice a | 6.348 Å |  | UNKNOWN; _alloy: Zr 0.5_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 11 |  |
-| Lattice a | 6.178 Å |  | UNKNOWN; _alloy: Zr 0.833333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 6 |  |
-| Lattice a | 4.651 Å |  | UNKNOWN; _alloy: Zr 0_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 10 |  |
-| Lattice a | 6.479 Å |  | UNKNOWN; _alloy: Zr 0.666667_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 5 |  |
-| Lattice a | 6.363 Å |  | UNKNOWN; _alloy: Zr 0.5_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 4 |  |
-| Lattice a | 5.056 Å |  | UNKNOWN; _alloy: Zr 0.333333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 9 |  |
-| Lattice a | 5.087 Å |  | UNKNOWN; _alloy: Zr 0.333333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 2 |  |
-| Lattice a | 6.465 Å |  | UNKNOWN; _alloy: Zr 0.666667_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 12 |  |
-| Lattice a | 7.2 Å | 298.15 | C15; _alloy: Zr 0.333333_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 2, row 15 |  |
-| Lattice a | 5.1 Å | 298.15 | C36; _alloy: Zr 0.333333_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 2, row 20 |  |
-| Lattice a | 5.1 Å | 298.15 | UNKNOWN; _alloy: Zr 0.333333_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 2, row 8 |  |
-| Lattice a | 5.102 Å | 298.15 | UNKNOWN; _alloy: Zr 0.333333_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 2, row 1 |  |
-| Lattice c | 16.339 Å |  | C36; _alloy: Zr 0.333333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 21 |  |
-| Lattice c | 15.445 Å |  | C36; _alloy: Zr 0.833333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 25 |  |
-| Lattice c | 12.814 Å |  | C36; _alloy: Zr 0.5_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 23 |  |
-| Lattice c | 13.632 Å |  | C36; _alloy: Zr 0.666667_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 24 |  |
-| Lattice c | 15.231 Å |  | C36; _alloy: Zr 0_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 22 |  |
-| Lattice c | 7.663 Å |  | UNKNOWN; _alloy: Zr 0_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 3 |  |
-| Lattice c | 12.814 Å |  | UNKNOWN; _alloy: Zr 0.5_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 11 |  |
-| Lattice c | 7.739 Å |  | UNKNOWN; _alloy: Zr 0.833333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 6 |  |
-| Lattice c | 15.231 Å |  | UNKNOWN; _alloy: Zr 0_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 10 |  |
-| Lattice c | 15.445 Å |  | UNKNOWN; _alloy: Zr 0.833333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 13 |  |
-| Lattice c | 6.743 Å |  | UNKNOWN; _alloy: Zr 0.666667_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 5 |  |
-| Lattice c | 6.367 Å |  | UNKNOWN; _alloy: Zr 0.5_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 4 |  |
-| Lattice c | 16.339 Å |  | UNKNOWN; _alloy: Zr 0.333333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 9 |  |
-| Lattice c | 8.074 Å |  | UNKNOWN; _alloy: Zr 0.333333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 2 |  |
-| Lattice c | 13.632 Å |  | UNKNOWN; _alloy: Zr 0.666667_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 12 |  |
-| Lattice c | 16.611 Å | 298.15 | C36; _alloy: Zr 0.333333_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 2, row 20 |  |
-| Lattice c | 16.611 Å | 298.15 | UNKNOWN; _alloy: Zr 0.333333_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 2, row 8 |  |
-| Lattice c | 8.273 Å | 298.15 | UNKNOWN; _alloy: Zr 0.333333_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 2, row 1 |  |
-| lattice 4e z | 0.095 not_printed |  | C36; _alloy: Zr 0.333333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 21 |  |
-| lattice 4e z | 0.089 not_printed |  | C36; _alloy: Zr 0.833333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 25 |  |
-| lattice 4e z | 0.062 not_printed |  | C36; _alloy: Zr 0.5_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 23 |  |
-| lattice 4e z | 0.058 not_printed |  | C36; _alloy: Zr 0.666667_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 24 |  |
-| lattice 4e z | 0.1 not_printed |  | C36; _alloy: Zr 0_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 22 |  |
-| lattice 4e z | 0.094 not_printed | 298.15 | C36; _alloy: Zr 0.333333_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 2, row 20 |  |
-| lattice 4f z 1 | 0.844 not_printed |  | C36; _alloy: Zr 0.333333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 21 |  |
-| lattice 4f z 1 | 0.838 not_printed |  | C36; _alloy: Zr 0.833333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 25 |  |
-| lattice 4f z 1 | 0.813 not_printed |  | C36; _alloy: Zr 0.5_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 23 |  |
-| lattice 4f z 1 | 0.809 not_printed |  | C36; _alloy: Zr 0.666667_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 24 |  |
-| lattice 4f z 1 | 0.849 not_printed |  | C36; _alloy: Zr 0_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 22 |  |
-| lattice 4f z 1 | 0.844 not_printed | 298.15 | C36; _alloy: Zr 0.333333_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 2, row 20 |  |
-| lattice 4f z 2 | 0.123 not_printed |  | C36; _alloy: Zr 0.333333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 21 |  |
-| lattice 4f z 2 | 0.119 not_printed |  | C36; _alloy: Zr 0.833333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 25 |  |
-| lattice 4f z 2 | 0.132 not_printed |  | C36; _alloy: Zr 0.5_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 23 |  |
-| lattice 4f z 2 | 0.129 not_printed |  | C36; _alloy: Zr 0.666667_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 24 |  |
-| lattice 4f z 2 | 0.124 not_printed |  | C36; _alloy: Zr 0_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 22 |  |
-| lattice 4f z 2 | 0.125 not_printed | 298.15 | C36; _alloy: Zr 0.333333_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 2, row 20 |  |
-| lattice 6h x | 0.166 not_printed |  | C36; _alloy: Zr 0.333333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 21 |  |
-| lattice 6h x | 0.167 not_printed |  | C36; _alloy: Zr 0.833333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 25 |  |
-| lattice 6h x | 0.157 not_printed |  | C36; _alloy: Zr 0.5_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 23 |  |
-| lattice 6h x | 0.144 not_printed |  | C36; _alloy: Zr 0.666667_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 24 |  |
-| lattice 6h x | 0.162 not_printed |  | C36; _alloy: Zr 0_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 22 |  |
-| lattice 6h x | 0.167 not_printed | 298.15 | C36; _alloy: Zr 0.333333_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 2, row 20 |  |
-| lattice 6h y | 0.332 not_printed |  | C36; _alloy: Zr 0.333333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 21 |  |
-| lattice 6h y | 0.333 not_printed |  | C36; _alloy: Zr 0.833333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 25 |  |
-| lattice 6h y | 0.314 not_printed |  | C36; _alloy: Zr 0.5_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 23 |  |
-| lattice 6h y | 0.288 not_printed |  | C36; _alloy: Zr 0.666667_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 24 |  |
-| lattice 6h y | 0.325 not_printed |  | C36; _alloy: Zr 0_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 22 |  |
-| lattice 6h y | 0.334 not_printed | 298.15 | C36; _alloy: Zr 0.333333_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 2, row 20 |  |
-| lattice v | 1.1912 10^7 pm^3 |  | UNKNOWN; _alloy: Zr 0_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 3 |  |
-| lattice v | 1.8633 10^7 pm^3 |  | UNKNOWN; _alloy: Zr 0.5_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 11 |  |
-| lattice v | 2.1319 10^7 pm^3 |  | UNKNOWN; _alloy: Zr 0.833333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 6 |  |
-| lattice v | 1.1889 10^7 pm^3 |  | UNKNOWN; _alloy: Zr 0_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 10 |  |
-| lattice v | 2.127 10^7 pm^3 |  | UNKNOWN; _alloy: Zr 0.833333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 13 |  |
-| lattice v | 2.0426 10^7 pm^3 |  | UNKNOWN; _alloy: Zr 0.666667_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 5 |  |
-| lattice v | 1.8601 10^7 pm^3 |  | UNKNOWN; _alloy: Zr 0.5_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 4 |  |
-| lattice v | 1.5071 10^7 pm^3 |  | UNKNOWN; _alloy: Zr 0.333333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 9 |  |
-| lattice v | 1.5076 10^7 pm^3 |  | UNKNOWN; _alloy: Zr 0.333333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 2 |  |
-| lattice v | 2.0557 10^7 pm^3 |  | UNKNOWN; _alloy: Zr 0.666667_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 12 |  |
-| lattice v | 1.5592 10^7 pm^3 | 298.15 | UNKNOWN; _alloy: Zr 0.333333_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 2, row 8 |  |
-| lattice v | 1.5542 10^7 pm^3 | 298.15 | UNKNOWN; _alloy: Zr 0.333333_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 2, row 1 |  |
-| lattice v atom | 1.1873 10^7 pm^3 |  | C15; _alloy: Zr 0_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 17 |  |
-| lattice v atom | 1.9847 10^7 pm^3 |  | C15; _alloy: Zr 0.666667_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 18 |  |
-| lattice v atom | 1.5062 10^7 pm^3 |  | C15; _alloy: Zr 0.333333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 16 |  |
-| lattice v atom | 1.5071 10^7 pm^3 |  | C36; _alloy: Zr 0.333333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 21 |  |
-| lattice v atom | 2.127 10^7 pm^3 |  | C36; _alloy: Zr 0.833333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 25 |  |
-| lattice v atom | 1.8633 10^7 pm^3 |  | C36; _alloy: Zr 0.5_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 23 |  |
-| lattice v atom | 2.0557 10^7 pm^3 |  | C36; _alloy: Zr 0.666667_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 24 |  |
-| lattice v atom | 1.1889 10^7 pm^3 |  | C36; _alloy: Zr 0_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 22 |  |
-| lattice v atom | 1.5552 10^7 pm^3 | 298.15 | C15; _alloy: Zr 0.333333_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 2, row 15 |  |
-| lattice v atom | 1.5592 10^7 pm^3 | 298.15 | C36; _alloy: Zr 0.333333_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 2, row 20 |  |
+| Lattice a | 6.58 Å |  | C15; _alloy: Zr 0_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 17; `ORC-6232SQANE4.a47c73` |  |
+| Lattice a | 7.81 Å |  | C15; _alloy: Zr 0.666667_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 18; `ORC-FWC6275AY4.44f66a` |  |
+| Lattice a | 7.124 Å |  | C15; _alloy: Zr 0.333333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 16; `ORC-YMXLOL4HPR.0569f8` |  |
+| Lattice a | 5.056 Å |  | C36; _alloy: Zr 0.333333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 21; `ORC-FV3UHFE4IH.e8c44f` |  |
+| Lattice a | 6.178 Å |  | C36; _alloy: Zr 0.833333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 25; `ORC-HIHQYF5YZV.4b1151` |  |
+| Lattice a | 6.348 Å |  | C36; _alloy: Zr 0.5_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 23; `ORC-KJT4XXNOHL.5ad240` |  |
+| Lattice a | 6.465 Å |  | C36; _alloy: Zr 0.666667_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 24; `ORC-UY43O34OAG.b4acd4` |  |
+| Lattice a | 4.651 Å |  | C36; _alloy: Zr 0_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 22; `ORC-XNDRKJG7AQ.65e8b5` |  |
+| Lattice a | 4.641 Å |  | UNKNOWN; _alloy: Zr 0_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 3; `ORC-4EYZXUDXPN.d17fbd` |  |
+| Lattice a | 6.348 Å |  | UNKNOWN; _alloy: Zr 0.5_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 11; `ORC-AJZF7DUBOJ.392ebf` |  |
+| Lattice a | 6.178 Å |  | UNKNOWN; _alloy: Zr 0.833333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 6; `ORC-FAK2QGJR4D.8f8754` |  |
+| Lattice a | 4.651 Å |  | UNKNOWN; _alloy: Zr 0_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 10; `ORC-GOJFOYLSDQ.c889aa` |  |
+| Lattice a | 6.479 Å |  | UNKNOWN; _alloy: Zr 0.666667_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 5; `ORC-LYB66QMP4V.9fab1c` |  |
+| Lattice a | 6.363 Å |  | UNKNOWN; _alloy: Zr 0.5_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 4; `ORC-MGUB7TMRMU.4deecc` |  |
+| Lattice a | 5.056 Å |  | UNKNOWN; _alloy: Zr 0.333333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 9; `ORC-OHTOH5BFYA.4b7010` |  |
+| Lattice a | 5.087 Å |  | UNKNOWN; _alloy: Zr 0.333333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 2; `ORC-OTDANKRDPH.c9cc21` |  |
+| Lattice a | 6.465 Å |  | UNKNOWN; _alloy: Zr 0.666667_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 12; `ORC-Z4EFR7U2WU.4d37c4` |  |
+| Lattice a | 7.2 Å | 298.15 | C15; _alloy: Zr 0.333333_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 2, row 15; `ORC-LRD4M5RNAQ.779e56` |  |
+| Lattice a | 5.1 Å | 298.15 | C36; _alloy: Zr 0.333333_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 2, row 20; `ORC-GOYXGC63KA.217a29` |  |
+| Lattice a | 5.1 Å | 298.15 | UNKNOWN; _alloy: Zr 0.333333_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 2, row 8; `ORC-4VAFR7Q4UV.7ff1b3` |  |
+| Lattice a | 5.102 Å | 298.15 | UNKNOWN; _alloy: Zr 0.333333_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 2, row 1; `ORC-WOEGAYC3CK.411e47` |  |
+| Lattice c | 16.339 Å |  | C36; _alloy: Zr 0.333333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 21; `ORC-FV3UHFE4IH.99a9b7` |  |
+| Lattice c | 15.445 Å |  | C36; _alloy: Zr 0.833333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 25; `ORC-HIHQYF5YZV.9b83ae` |  |
+| Lattice c | 12.814 Å |  | C36; _alloy: Zr 0.5_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 23; `ORC-KJT4XXNOHL.452b30` |  |
+| Lattice c | 13.632 Å |  | C36; _alloy: Zr 0.666667_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 24; `ORC-UY43O34OAG.45486e` |  |
+| Lattice c | 15.231 Å |  | C36; _alloy: Zr 0_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 22; `ORC-XNDRKJG7AQ.a396ec` |  |
+| Lattice c | 7.663 Å |  | UNKNOWN; _alloy: Zr 0_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 3; `ORC-4EYZXUDXPN.0f2c63` |  |
+| Lattice c | 12.814 Å |  | UNKNOWN; _alloy: Zr 0.5_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 11; `ORC-AJZF7DUBOJ.757619` |  |
+| Lattice c | 7.739 Å |  | UNKNOWN; _alloy: Zr 0.833333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 6; `ORC-FAK2QGJR4D.a35173` |  |
+| Lattice c | 15.231 Å |  | UNKNOWN; _alloy: Zr 0_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 10; `ORC-GOJFOYLSDQ.a83408` |  |
+| Lattice c | 15.445 Å |  | UNKNOWN; _alloy: Zr 0.833333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 13; `ORC-LJ5PNDBTG2.8d32e0` |  |
+| Lattice c | 6.743 Å |  | UNKNOWN; _alloy: Zr 0.666667_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 5; `ORC-LYB66QMP4V.45c934` |  |
+| Lattice c | 6.367 Å |  | UNKNOWN; _alloy: Zr 0.5_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 4; `ORC-MGUB7TMRMU.a602b7` |  |
+| Lattice c | 16.339 Å |  | UNKNOWN; _alloy: Zr 0.333333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 9; `ORC-OHTOH5BFYA.e17f11` |  |
+| Lattice c | 8.074 Å |  | UNKNOWN; _alloy: Zr 0.333333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 2; `ORC-OTDANKRDPH.f2565e` |  |
+| Lattice c | 13.632 Å |  | UNKNOWN; _alloy: Zr 0.666667_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 12; `ORC-Z4EFR7U2WU.ea7392` |  |
+| Lattice c | 16.611 Å | 298.15 | C36; _alloy: Zr 0.333333_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 2, row 20; `ORC-GOYXGC63KA.23a001` |  |
+| Lattice c | 16.611 Å | 298.15 | UNKNOWN; _alloy: Zr 0.333333_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 2, row 8; `ORC-4VAFR7Q4UV.b36713` |  |
+| Lattice c | 8.273 Å | 298.15 | UNKNOWN; _alloy: Zr 0.333333_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 2, row 1; `ORC-WOEGAYC3CK.176076` |  |
+| lattice 4e z | 0.095 not_printed |  | C36; _alloy: Zr 0.333333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 21; `ORC-FV3UHFE4IH.c51585` |  |
+| lattice 4e z | 0.089 not_printed |  | C36; _alloy: Zr 0.833333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 25; `ORC-HIHQYF5YZV.3a01a1` |  |
+| lattice 4e z | 0.062 not_printed |  | C36; _alloy: Zr 0.5_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 23; `ORC-KJT4XXNOHL.25ab33` |  |
+| lattice 4e z | 0.058 not_printed |  | C36; _alloy: Zr 0.666667_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 24; `ORC-UY43O34OAG.81a123` |  |
+| lattice 4e z | 0.1 not_printed |  | C36; _alloy: Zr 0_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 22; `ORC-XNDRKJG7AQ.438ab3` |  |
+| lattice 4e z | 0.094 not_printed | 298.15 | C36; _alloy: Zr 0.333333_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 2, row 20; `ORC-GOYXGC63KA.22a571` |  |
+| lattice 4f z 1 | 0.844 not_printed |  | C36; _alloy: Zr 0.333333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 21; `ORC-FV3UHFE4IH.499b33` |  |
+| lattice 4f z 1 | 0.838 not_printed |  | C36; _alloy: Zr 0.833333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 25; `ORC-HIHQYF5YZV.09d3eb` |  |
+| lattice 4f z 1 | 0.813 not_printed |  | C36; _alloy: Zr 0.5_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 23; `ORC-KJT4XXNOHL.61bfbf` |  |
+| lattice 4f z 1 | 0.809 not_printed |  | C36; _alloy: Zr 0.666667_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 24; `ORC-UY43O34OAG.24ce71` |  |
+| lattice 4f z 1 | 0.849 not_printed |  | C36; _alloy: Zr 0_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 22; `ORC-XNDRKJG7AQ.07c0c8` |  |
+| lattice 4f z 1 | 0.844 not_printed | 298.15 | C36; _alloy: Zr 0.333333_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 2, row 20; `ORC-GOYXGC63KA.f9fe3f` |  |
+| lattice 4f z 2 | 0.123 not_printed |  | C36; _alloy: Zr 0.333333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 21; `ORC-FV3UHFE4IH.484ff9` |  |
+| lattice 4f z 2 | 0.119 not_printed |  | C36; _alloy: Zr 0.833333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 25; `ORC-HIHQYF5YZV.0897b5` |  |
+| lattice 4f z 2 | 0.132 not_printed |  | C36; _alloy: Zr 0.5_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 23; `ORC-KJT4XXNOHL.f53ba5` |  |
+| lattice 4f z 2 | 0.129 not_printed |  | C36; _alloy: Zr 0.666667_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 24; `ORC-UY43O34OAG.84ee69` |  |
+| lattice 4f z 2 | 0.124 not_printed |  | C36; _alloy: Zr 0_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 22; `ORC-XNDRKJG7AQ.ddf008` |  |
+| lattice 4f z 2 | 0.125 not_printed | 298.15 | C36; _alloy: Zr 0.333333_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 2, row 20; `ORC-GOYXGC63KA.057b32` |  |
+| lattice 6h x | 0.166 not_printed |  | C36; _alloy: Zr 0.333333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 21; `ORC-FV3UHFE4IH.ab8685` |  |
+| lattice 6h x | 0.167 not_printed |  | C36; _alloy: Zr 0.833333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 25; `ORC-HIHQYF5YZV.603536` |  |
+| lattice 6h x | 0.157 not_printed |  | C36; _alloy: Zr 0.5_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 23; `ORC-KJT4XXNOHL.7e7536` |  |
+| lattice 6h x | 0.144 not_printed |  | C36; _alloy: Zr 0.666667_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 24; `ORC-UY43O34OAG.f0fe1d` |  |
+| lattice 6h x | 0.162 not_printed |  | C36; _alloy: Zr 0_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 22; `ORC-XNDRKJG7AQ.1a95fe` |  |
+| lattice 6h x | 0.167 not_printed | 298.15 | C36; _alloy: Zr 0.333333_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 2, row 20; `ORC-GOYXGC63KA.0ca0e3` |  |
+| lattice 6h y | 0.332 not_printed |  | C36; _alloy: Zr 0.333333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 21; `ORC-FV3UHFE4IH.6b7c8d` |  |
+| lattice 6h y | 0.333 not_printed |  | C36; _alloy: Zr 0.833333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 25; `ORC-HIHQYF5YZV.aabfde` |  |
+| lattice 6h y | 0.314 not_printed |  | C36; _alloy: Zr 0.5_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 23; `ORC-KJT4XXNOHL.420184` |  |
+| lattice 6h y | 0.288 not_printed |  | C36; _alloy: Zr 0.666667_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 24; `ORC-UY43O34OAG.e5cf13` |  |
+| lattice 6h y | 0.325 not_printed |  | C36; _alloy: Zr 0_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 22; `ORC-XNDRKJG7AQ.7fd109` |  |
+| lattice 6h y | 0.334 not_printed | 298.15 | C36; _alloy: Zr 0.333333_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 2, row 20; `ORC-GOYXGC63KA.c9caab` |  |
+| lattice v | 1.1912 10^7 pm^3 |  | UNKNOWN; _alloy: Zr 0_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 3; `ORC-4EYZXUDXPN.ccb527` |  |
+| lattice v | 1.8633 10^7 pm^3 |  | UNKNOWN; _alloy: Zr 0.5_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 11; `ORC-AJZF7DUBOJ.adb542` |  |
+| lattice v | 2.1319 10^7 pm^3 |  | UNKNOWN; _alloy: Zr 0.833333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 6; `ORC-FAK2QGJR4D.bdef1b` |  |
+| lattice v | 1.1889 10^7 pm^3 |  | UNKNOWN; _alloy: Zr 0_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 10; `ORC-GOJFOYLSDQ.1dd48f` |  |
+| lattice v | 2.127 10^7 pm^3 |  | UNKNOWN; _alloy: Zr 0.833333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 13; `ORC-LJ5PNDBTG2.76a3de` |  |
+| lattice v | 2.0426 10^7 pm^3 |  | UNKNOWN; _alloy: Zr 0.666667_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 5; `ORC-LYB66QMP4V.a567fa` |  |
+| lattice v | 1.8601 10^7 pm^3 |  | UNKNOWN; _alloy: Zr 0.5_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 4; `ORC-MGUB7TMRMU.174175` |  |
+| lattice v | 1.5071 10^7 pm^3 |  | UNKNOWN; _alloy: Zr 0.333333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 9; `ORC-OHTOH5BFYA.24e84f` |  |
+| lattice v | 1.5076 10^7 pm^3 |  | UNKNOWN; _alloy: Zr 0.333333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 2; `ORC-OTDANKRDPH.e1f6fd` |  |
+| lattice v | 2.0557 10^7 pm^3 |  | UNKNOWN; _alloy: Zr 0.666667_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 12; `ORC-Z4EFR7U2WU.4c1915` |  |
+| lattice v | 1.5592 10^7 pm^3 | 298.15 | UNKNOWN; _alloy: Zr 0.333333_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 2, row 8; `ORC-4VAFR7Q4UV.50be25` |  |
+| lattice v | 1.5542 10^7 pm^3 | 298.15 | UNKNOWN; _alloy: Zr 0.333333_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 2, row 1; `ORC-WOEGAYC3CK.23f828` |  |
+| lattice v atom | 1.1873 10^7 pm^3 |  | C15; _alloy: Zr 0_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 17; `ORC-6232SQANE4.0b0e41` |  |
+| lattice v atom | 1.9847 10^7 pm^3 |  | C15; _alloy: Zr 0.666667_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 18; `ORC-FWC6275AY4.f78494` |  |
+| lattice v atom | 1.5062 10^7 pm^3 |  | C15; _alloy: Zr 0.333333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 16; `ORC-YMXLOL4HPR.5a07a0` |  |
+| lattice v atom | 1.5071 10^7 pm^3 |  | C36; _alloy: Zr 0.333333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 21; `ORC-FV3UHFE4IH.535abe` |  |
+| lattice v atom | 2.127 10^7 pm^3 |  | C36; _alloy: Zr 0.833333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 25; `ORC-HIHQYF5YZV.546e12` |  |
+| lattice v atom | 1.8633 10^7 pm^3 |  | C36; _alloy: Zr 0.5_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 23; `ORC-KJT4XXNOHL.24ef53` |  |
+| lattice v atom | 2.0557 10^7 pm^3 |  | C36; _alloy: Zr 0.666667_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 24; `ORC-UY43O34OAG.db6c19` |  |
+| lattice v atom | 1.1889 10^7 pm^3 |  | C36; _alloy: Zr 0_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 22; `ORC-XNDRKJG7AQ.5725a3` |  |
+| lattice v atom | 1.5552 10^7 pm^3 | 298.15 | C15; _alloy: Zr 0.333333_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 2, row 15; `ORC-LRD4M5RNAQ.6f7864` |  |
+| lattice v atom | 1.5592 10^7 pm^3 | 298.15 | C36; _alloy: Zr 0.333333_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 2, row 20; `ORC-GOYXGC63KA.214026` |  |
 
 ## Sources
 
@@ -296,4 +296,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

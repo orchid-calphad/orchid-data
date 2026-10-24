@@ -27,7 +27,7 @@ Table: Invariant reactions reported in the literature for the Mg–Nd–Sr syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 839 | eutectic: Liq fi (Mg) + Mg41Nd5 + Mg17Sr2 |  | experimental | [1] Xu 2013 | p. 3 | “The DSC curve of Alloy #1 in Figure 1(c) sets the temperature of the ternary eutectic reaction Liq fi (Mg) + Mg41Nd5 + Mg17Sr2 to be 839 K (566 C).” |
+| 839 | eutectic: Liq fi (Mg) + Mg41Nd5 + Mg17Sr2 |  | experimental | [1] Xu 2013 | p. 3; `ORC-NO23YIR7EA` | “The DSC curve of Alloy #1 in Figure 1(c) sets the temperature of the ternary eutectic reaction Liq fi (Mg) + Mg41Nd5 + Mg17Sr2 to be 839 K (566 C).” |
 
 ## Other properties
 
@@ -37,7 +37,7 @@ Table: Phase equilibrium, Mg–Nd–Sr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase assemblage |  | 673 | (Mg) + Mg17Sr2 + Mg41Nd5; _alloy: Nd 0.0252, Sr 0.0331_ | experimental | [1] Xu 2013 | p. 1 | “Figure 1(a) shows the SEM image of Alloy #1 (Mg-2.52 at. pct Nd-3.31 at. pct Sr) after annealing at 673 K (400 C) for 720 hours while the XRD pattern is given in Figure 1(b). The EPMA and XRD results reveal that the dark phase is (Mg) having little Nd and Sr solubility, the gray one is Mg17Sr2 with about 2 at. pct Sr substituted by Nd, and the light one is Mg41Nd5 that exhibits noticeable substit…” |
+| Phase assemblage |  | 673 | (Mg) + Mg17Sr2 + Mg41Nd5; _alloy: Nd 0.0252, Sr 0.0331_ | experimental | [1] Xu 2013 | p. 1; `ORC-5TZIDLPP6K` | “Figure 1(a) shows the SEM image of Alloy #1 (Mg-2.52 at. pct Nd-3.31 at. pct Sr) after annealing at 673 K (400 C) for 720 hours while the XRD pattern is given in Figure 1(b). The EPMA and XRD results reveal that the dark phase is (Mg) having little Nd and Sr solubility, the gray one is Mg17Sr2 with about 2 at. pct Sr substituted by Nd, and the light one is Mg41Nd5 that exhibits noticeable substit…” |
 
 ## Sources
 
@@ -80,4 +80,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

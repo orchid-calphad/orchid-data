@@ -100,77 +100,77 @@ Table: Invariant reactions reported in the literature for the Ho–Ni system (71
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1747.15 | congruent melting: L -> (Ho) | (Ho): Ho 1 | unspecified | [1] Kardellass 2015 | Table 2, p. 3, row 1 |  |
-| 1728.15 | congruent melting: L -> (Ni) | (Ni): Ho 0 | unspecified | [1] Kardellass 2015 | Table 2, p. 3, row 14 |  |
-| 1703 | peritectic: L + bcc(Ho) -> hcp(Ho) | L: Ni 0.02 | model | [2] Ye 2023 | Table 10, p. 22, row 1 |  |
-| 1643.15 | congruent melting: L -> HoNi5 | HoNi5: Ho 0.167 | unspecified | [1] Kardellass 2015 | Table 2, p. 3, row 11 |  |
-| 1593.15 | peritectic: L + HoNi5 -> Ho7Ni2 | L: Ho 0.26; HoNi5: Ho 0.167; Ho7Ni2: Ho 0.222 | unspecified | [1] Kardellass 2015 | Table 2, p. 3, row 10 |  |
-| 1593.15 | peritectic |  | experimental | [1] Kardellass 2015 | p. 2 | “Six peritectic reactions included Ho3Ni, Ho2Ni3_HT, HoNi2, HoNi3, Ho2Ni7, and Ho2Ni17 at 750, 970, 1195, 1285, 1320, and 1290 C, respectively.” |
-| 1593.15 | L + HoNi5 -> Ho7Ni2 | L: Ni 0.7587; HoNi5: Ni 0.833; Ho7Ni2: Ni 0.778 | model | [1] Kardellass 2015 | Table 6, p. 7, row 22 |  |
-| 1593.15 | L + HoNi5 -> Ho7Ni2 | L: Ni 0.74; HoNi5: Ni 0.833; Ho7Ni2: Ni 0.778 | experimental | [1] Kardellass 2015 | Table 6, p. 7, row 21 |  |
-| 1593 | peritectic: L + HoNi5 -> Ho2Ni7 | L: Ni 0.759; HoNi5: Ni 0.833333; Ho2Ni7: Ni 0.777778 | model | [2] Ye 2023; _cites ref. 40_ | Table 10, p. 22, row 26 |  |
-| 1593 | peritectic: L + HoNi5 -> Ho2Ni7 | HoNi5: Ni 0.833333; Ho2Ni7: Ni 0.777778 | experimental | [2] Ye 2023; _cites ref. 45_ | Table 10, p. 22, row 27 |  |
-| 1590.9 | peritectic: L + HoNi5 -> Ho2Ni7 | L: Ni 0.768; HoNi5: Ni 0.833333; Ho2Ni7: Ni 0.777778 | model | [2] Ye 2023 | Table 10, p. 22, row 28 |  |
-| 1563.15 | peritectic |  | experimental | [1] Kardellass 2015 | p. 2 | “Six peritectic reactions included Ho3Ni, Ho2Ni3_HT, HoNi2, HoNi3, Ho2Ni7, and Ho2Ni17 at 750, 970, 1195, 1285, 1320, and 1290 C, respectively.” |
-| 1563.15 | L + HoNi5 -> Ho17Ni2 | L: Ni 0.92; HoNi5: Ni 0.833; Ho17Ni2: Ni 0.895 | experimental | [1] Kardellass 2015 | Table 6, p. 7, row 25 |  |
-| 1563.15 | L + HoNi5 -> Ho17Ni2 | L: Ni 0.9193; HoNi5: Ni 0.833; Ho17Ni2: Ni 0.895 | model | [1] Kardellass 2015 | Table 6, p. 7, row 26 |  |
-| 1563.15 | peritectic: L + HoNi5 -> Ho17Ni2 | L: Ho 0.08; HoNi5: Ho 0.167; Ho17Ni2: Ho 0.105 | unspecified | [1] Kardellass 2015 | Table 2, p. 3, row 12 |  |
-| 1563 | peritectic: L + HoNi5 -> Ho2Ni17 | HoNi5: Ni 0.833333; Ho2Ni17: Ni 0.894737 | experimental | [2] Ye 2023; _cites ref. 45_ | Table 10, p. 22, row 33 |  |
-| 1563 | peritectic: L + HoNi5 -> Ho2Ni17 | L: Ni 0.919; HoNi5: Ni 0.833333; Ho2Ni17: Ni 0.894737 | model | [2] Ye 2023; _cites ref. 40_ | Table 10, p. 22, row 32 |  |
-| 1560.3 | peritectic: L + HoNi5 -> Ho2Ni17 | L: Ni 0.915; HoNi5: Ni 0.833333; Ho2Ni17: Ni 0.894737 | model | [2] Ye 2023 | Table 10, p. 22, row 34 |  |
-| 1558.15 | L + Ho7Ni2 -> HoNi3 | L: Ni 0.7; Ho7Ni2: Ni 0.778; HoNi3: Ni 0.75 | experimental | [1] Kardellass 2015 | Table 6, p. 7, row 19 |  |
-| 1558.15 | peritectic |  | experimental | [1] Kardellass 2015 | p. 2 | “Six peritectic reactions included Ho3Ni, Ho2Ni3_HT, HoNi2, HoNi3, Ho2Ni7, and Ho2Ni17 at 750, 970, 1195, 1285, 1320, and 1290 C, respectively.” |
-| 1558.15 | L + Ho7Ni2 -> HoNi3 | L: Ni 0.7019; Ho7Ni2: Ni 0.778; HoNi3: Ni 0.75 | model | [1] Kardellass 2015 | Table 6, p. 7, row 20 |  |
-| 1558.15 | peritectic: L + Ho7Ni2 -> HoNi3 | L: Ho 0.3; Ho7Ni2: Ho 0.222; HoNi3: Ho 0.25 | unspecified | [1] Kardellass 2015 | Table 2, p. 3, row 9 |  |
-| 1558 | peritectic: L + Ho2Ni7 -> HoNi3 | Ho2Ni7: Ni 0.777778; HoNi3: Ni 0.75 | experimental | [2] Ye 2023; _cites ref. 45_ | Table 10, p. 22, row 24 |  |
-| 1558 | peritectic: L + Ho2Ni7 -> HoNi3 | L: Ni 0.712; Ho2Ni7: Ni 0.777778; HoNi3: Ni 0.75 | model | [2] Ye 2023; _cites ref. 40_ | Table 10, p. 22, row 23 |  |
-| 1556 | eutectic: L -> fcc(Ni) + Ho2Ni17 | L: Ni 0.921; Ho2Ni17: Ni 0.894737 | model | [2] Ye 2023 | Table 10, p. 22, row 37 |  |
-| 1555.8 | peritectic: L + Ho2Ni7 -> HoNi3 | L: Ni 0.72; Ho2Ni7: Ni 0.777778; HoNi3: Ni 0.75 | model | [2] Ye 2023 | Table 10, p. 22, row 25 |  |
-| 1553.15 | eutectic |  | experimental | [1] Kardellass 2015 | p. 2 | “Three eutectic reactions formed between Ho3Ni and Ho2Ni3_LT at 720 C (30.0 at% Ni), between HoNi and HoNi2 at 975 C (54.0 at% Ni), and between Ho2Ni17 and Nickel at 1,280 C (93.0 at% Ni).” |
-| 1553.15 | L -> Ho17Ni2 + fcc_A1 | L: Ni 0.93; Ho17Ni2: Ni 0.895; fcc_A1: Ni 1 | experimental | [1] Kardellass 2015 | Table 6, p. 7, row 27 |  |
-| 1553.15 | L -> Ho17Ni2 + fcc_A1 | L: Ni 0.9314; Ho17Ni2: Ni 0.895; fcc_A1: Ni 1 | model | [1] Kardellass 2015 | Table 6, p. 7, row 28 |  |
-| 1553.15 | eutectic: L -> Ho17Ni2 + fcc_A1 | L: Ho 0.07; Ho17Ni2: Ho 0.105; fcc_A1: Ho 0 | unspecified | [1] Kardellass 2015 | Table 2, p. 3, row 13 |  |
-| 1553 | eutectic: L -> fcc(Ni) + Ho2Ni17 | L: Ni 0.931; Ho2Ni17: Ni 0.894737 | model | [2] Ye 2023; _cites ref. 40_ | Table 10, p. 22, row 35 |  |
-| 1553 | eutectic: L -> fcc(Ni) + Ho2Ni17 | L: Ni 0.93; Ho2Ni17: Ni 0.894737 | experimental | [2] Ye 2023; _cites ref. 45_ | Table 10, p. 22, row 36 |  |
-| 1468.15 | L + HoNi3 -> HoNi2 | L: Ni 0.63; HoNi3: Ni 0.75; HoNi2: Ni 0.667 | experimental | [1] Kardellass 2015 | Table 6, p. 7, row 17 |  |
-| 1468.15 | peritectic: L + HoNi3 -> HoNi2 | L: Ho 0.37; HoNi3: Ho 0.25; HoNi2: Ho 0.333 | unspecified | [1] Kardellass 2015 | Table 2, p. 3, row 8 |  |
-| 1468.15 | peritectic |  | experimental | [1] Kardellass 2015 | p. 2 | “Six peritectic reactions included Ho3Ni, Ho2Ni3_HT, HoNi2, HoNi3, Ho2Ni7, and Ho2Ni17 at 750, 970, 1195, 1285, 1320, and 1290 C, respectively.” |
-| 1468.15 | L + HoNi3 -> HoNi2 | L: Ni 0.64; HoNi3: Ni 0.75; HoNi2: Ni 0.667 | model | [1] Kardellass 2015 | Table 6, p. 7, row 18 |  |
-| 1468 | peritectic: L + HoNi3 -> HoNi2 | L: Ni 0.64; HoNi3: Ni 0.75; HoNi2: Ni 0.666667 | model | [2] Ye 2023; _cites ref. 40_ | Table 10, p. 22, row 20 |  |
-| 1468 | peritectic: L + HoNi3 -> HoNi2 | HoNi3: Ni 0.75; HoNi2: Ni 0.666667 | experimental | [2] Ye 2023; _cites ref. 45_ | Table 10, p. 22, row 21 |  |
-| 1465.2 | peritectic: L + HoNi3 -> HoNi2 | L: Ni 0.657; HoNi3: Ni 0.75; HoNi2: Ni 0.666667 | model | [2] Ye 2023 | Table 10, p. 22, row 22 |  |
-| 1333.15 | congruent melting: L -> HoNi | HoNi: Ho 0.5 | unspecified | [1] Kardellass 2015 | Table 2, p. 3, row 6 |  |
-| 1322.15 | L -> HoNi + HoNi2 | L: Ni 0.5355; HoNi: Ni 0.5; HoNi2: Ni 0.659 | model | [1] Kardellass 2015 | Table 6, p. 7, row 16 |  |
-| 1322 | eutectic: L -> HoNi + HoNi2 | L: Ni 0.536; HoNi: Ni 0.5; HoNi2: Ni 0.666667 | model | [2] Ye 2023; _cites ref. 40_ | Table 10, p. 22, row 17 |  |
-| 1308.9 | eutectic: L -> HoNi + HoNi2 | L: Ni 0.553; HoNi: Ni 0.5; HoNi2: Ni 0.666667 | model | [2] Ye 2023 | Table 10, p. 22, row 19 |  |
-| 1248.15 | eutectic |  | experimental | [1] Kardellass 2015 | p. 2 | “Three eutectic reactions formed between Ho3Ni and Ho2Ni3_LT at 720 C (30.0 at% Ni), between HoNi and HoNi2 at 975 C (54.0 at% Ni), and between Ho2Ni17 and Nickel at 1,280 C (93.0 at% Ni).” |
-| 1248.15 | L -> HoNi + HoNi2 | L: Ni 0.54; HoNi: Ni 0.5; HoNi2: Ni 0.656 | experimental | [1] Kardellass 2015 | Table 6, p. 7, row 15 |  |
-| 1248.15 | eutectic: L -> HoNi + HoNi2 | L: Ho 0.46; HoNi: Ho 0.5; HoNi2: Ho 0.344 | unspecified | [1] Kardellass 2015 | Table 2, p. 3, row 7 |  |
-| 1248 | eutectic: L -> HoNi + HoNi2 | L: Ni 0.54; HoNi: Ni 0.5; HoNi2: Ni 0.666667 | experimental | [2] Ye 2023; _cites ref. 45_ | Table 10, p. 22, row 18 |  |
-| 1243.15 | L + HoNi -> Ho3Ni2_HT | L: Ni 0.38; HoNi: Ni 0.5; Ho3Ni2_HT: Ni 0.4 | experimental | [1] Kardellass 2015 | Table 6, p. 7, row 11 |  |
-| 1243.15 | peritectic |  | experimental | [1] Kardellass 2015 | p. 2 | “Six peritectic reactions included Ho3Ni, Ho2Ni3_HT, HoNi2, HoNi3, Ho2Ni7, and Ho2Ni17 at 750, 970, 1195, 1285, 1320, and 1290 C, respectively.” |
-| 1243.15 | peritectic: L + HoNi -> Ho3Ni2_HT | L: Ho 0.62; HoNi: Ho 0.5; Ho3Ni2_HT: Ho 0.6 | unspecified | [1] Kardellass 2015 | Table 2, p. 3, row 4 |  |
-| 1243 | peritectic: L + HoNi -> Ho3Ni2_HT | HoNi: Ni 0.5; Ho3Ni2_HT: Ni 0.4 | experimental | [2] Ye 2023; _cites ref. 45_ | Table 10, p. 22, row 12 |  |
-| 1241.15 | L + HoNi -> Ho3Ni2_HT | L: Ni 0.3944; HoNi: Ni 0.5; Ho3Ni2_HT: Ni 0.4 | model | [1] Kardellass 2015 | Table 6, p. 7, row 12 |  |
-| 1241 | peritectic: L + HoNi -> Ho3Ni2_HT | L: Ni 0.394; HoNi: Ni 0.5; Ho3Ni2_HT: Ni 0.4 | model | [2] Ye 2023; _cites ref. 40_ | Table 10, p. 22, row 11 |  |
-| 1240.4 | peritectic: L + HoNi -> Ho3Ni2_HT | L: Ni 0.399; HoNi: Ni 0.5; Ho3Ni2_HT: Ni 0.4 | model | [2] Ye 2023 | Table 10, p. 22, row 13 |  |
-| 1033.15 | L + HoNi -> Ho3Ni2_LT | L: Ni 0.31; HoNi: Ni 0.5; Ho3Ni2_LT: Ni 0.4 | experimental | [1] Kardellass 2015 | Table 6, p. 7, row 9 |  |
-| 1033.15 | polymorphic: Ho3Ni2_HT -> Ho3Ni2_LT | Ho3Ni2_HT: Ho 0.6; Ho3Ni2_LT: Ho 0.6, Ni 0.4 | unspecified | [1] Kardellass 2015 | Table 2, p. 3, row 5 |  |
-| 1031.15 | L + HoNi -> Ho3Ni2_LT | L: Ni 0.2951; HoNi: Ni 0.5; Ho3Ni2_LT: Ni 0.4 | model | [1] Kardellass 2015 | Table 6, p. 7, row 10 |  |
-| 1023.15 | L + Ho -> Ho3Ni | L: Ni 0.29; Ho: Ni 0; Ho3Ni: Ni 0.25 | experimental | [1] Kardellass 2015 | Table 6, p. 7, row 3 |  |
-| 1023.15 | peritectic |  | experimental | [1] Kardellass 2015 | p. 2 | “Six peritectic reactions included Ho3Ni, Ho2Ni3_HT, HoNi2, HoNi3, Ho2Ni7, and Ho2Ni17 at 750, 970, 1195, 1285, 1320, and 1290 C, respectively.” |
-| 1023.15 | peritectic: L + Ho -> Ho3Ni | L: Ho 0.71; Ho: Ho 1; Ho3Ni: Ho 0.75 | unspecified | [1] Kardellass 2015 | Table 2, p. 3, row 2 |  |
-| 1023 | peritectic: L + hcp(Ho) -> Ho3Ni | L: Ni 0.3; Ho3Ni: Ni 0.25 | experimental | [2] Ye 2023; _cites ref. 45_ | Table 10, p. 22, row 3 |  |
-| 1020.2 | peritectic: L + hcp(Ho) -> Ho3Ni | L: Ni 0.251; Ho3Ni: Ni 0.25 | model | [2] Ye 2023 | Table 10, p. 22, row 4 |  |
-| 1014.15 | L + Ho -> Ho3Ni | L: Ni 0.2563; Ho: Ni 0; Ho3Ni: Ni 0.25 | model | [1] Kardellass 2015 | Table 6, p. 7, row 4 |  |
-| 1014 | peritectic: L + hcp(Ho) -> Ho3Ni | L: Ni 0.256; Ho3Ni: Ni 0.25 | model | [2] Ye 2023; _cites ref. 40_ | Table 10, p. 22, row 2 |  |
-| 1006.15 | L -> Ho3Ni + Ho3Ni2_LT | L: Ni 0.2813; Ho3Ni: Ni 0.25; Ho3Ni2_LT: Ni 0.4 | model | [1] Kardellass 2015 | Table 6, p. 7, row 6 |  |
-| 1006 | eutectic: L -> Ho3Ni + Ho3Ni2_LT | L: Ni 0.281; Ho3Ni: Ni 0.25; Ho3Ni2_LT: Ni 0.4 | model | [2] Ye 2023; _cites ref. 40_ | Table 10, p. 22, row 5 |  |
-| 996.3 | eutectic: L -> Ho3Ni + Ho3Ni2_LT | L: Ni 0.297; Ho3Ni: Ni 0.25; Ho3Ni2_LT: Ni 0.4 | model | [2] Ye 2023 | Table 10, p. 22, row 7 |  |
-| 993.15 | eutectic: L -> Ho3Ni + Ho3Ni2_LT | L: Ho 0.7; Ho3Ni: Ho 0.75; Ho3Ni2_LT: Ho 0.6 | unspecified | [1] Kardellass 2015 | Table 2, p. 3, row 3 |  |
-| 993.15 | eutectic |  | experimental | [1] Kardellass 2015 | p. 2 | “Three eutectic reactions formed between Ho3Ni and Ho2Ni3_LT at 720 C (30.0 at% Ni), between HoNi and HoNi2 at 975 C (54.0 at% Ni), and between Ho2Ni17 and Nickel at 1,280 C (93.0 at% Ni).” |
-| 993.15 | L -> Ho3Ni + Ho3Ni2_LT | L: Ni 0.3; Ho3Ni: Ni 0.25; Ho3Ni2_LT: Ni 0.4 | experimental | [1] Kardellass 2015 | Table 6, p. 7, row 5 |  |
-| 993 | eutectic: L -> Ho3Ni + Ho3Ni2_LT | Ho3Ni: Ni 0.25; Ho3Ni2_LT: Ni 0.4 | experimental | [2] Ye 2023; _cites ref. 45_ | Table 10, p. 22, row 6 |  |
+| 1747.15 | congruent melting: L -> (Ho) | (Ho): Ho 1 | unspecified | [1] Kardellass 2015 | Table 2, p. 3, row 1; `ORC-QKMB7G64O3` |  |
+| 1728.15 | congruent melting: L -> (Ni) | (Ni): Ho 0 | unspecified | [1] Kardellass 2015 | Table 2, p. 3, row 14; `ORC-4CBUCKBSFM` |  |
+| 1703 | peritectic: L + bcc(Ho) -> hcp(Ho) | L: Ni 0.02 | model | [2] Ye 2023 | Table 10, p. 22, row 1; `ORC-OEDOF23D4H` |  |
+| 1643.15 | congruent melting: L -> HoNi5 | HoNi5: Ho 0.167 | unspecified | [1] Kardellass 2015 | Table 2, p. 3, row 11; `ORC-QGY2L7HI77` |  |
+| 1593.15 | peritectic: L + HoNi5 -> Ho7Ni2 | L: Ho 0.26; HoNi5: Ho 0.167; Ho7Ni2: Ho 0.222 | unspecified | [1] Kardellass 2015 | Table 2, p. 3, row 10; `ORC-BGWAXORJVW` |  |
+| 1593.15 | peritectic |  | experimental | [1] Kardellass 2015 | p. 2; `ORC-LUYKQOMXWT.bbc0e0` | “Six peritectic reactions included Ho3Ni, Ho2Ni3_HT, HoNi2, HoNi3, Ho2Ni7, and Ho2Ni17 at 750, 970, 1195, 1285, 1320, and 1290 C, respectively.” |
+| 1593.15 | L + HoNi5 -> Ho7Ni2 | L: Ni 0.7587; HoNi5: Ni 0.833; Ho7Ni2: Ni 0.778 | model | [1] Kardellass 2015 | Table 6, p. 7, row 22; `ORC-WJYAFN3ZO5` |  |
+| 1593.15 | L + HoNi5 -> Ho7Ni2 | L: Ni 0.74; HoNi5: Ni 0.833; Ho7Ni2: Ni 0.778 | experimental | [1] Kardellass 2015 | Table 6, p. 7, row 21; `ORC-X4DEG3OTMF` |  |
+| 1593 | peritectic: L + HoNi5 -> Ho2Ni7 | L: Ni 0.759; HoNi5: Ni 0.833333; Ho2Ni7: Ni 0.777778 | model | [2] Ye 2023; _cites ref. 40_ | Table 10, p. 22, row 26; `ORC-4MC4M2S35C` |  |
+| 1593 | peritectic: L + HoNi5 -> Ho2Ni7 | HoNi5: Ni 0.833333; Ho2Ni7: Ni 0.777778 | experimental | [2] Ye 2023; _cites ref. 45_ | Table 10, p. 22, row 27; `ORC-ELAGMMP7QL` |  |
+| 1590.9 | peritectic: L + HoNi5 -> Ho2Ni7 | L: Ni 0.768; HoNi5: Ni 0.833333; Ho2Ni7: Ni 0.777778 | model | [2] Ye 2023 | Table 10, p. 22, row 28; `ORC-USBO2TYTQG` |  |
+| 1563.15 | peritectic |  | experimental | [1] Kardellass 2015 | p. 2; `ORC-LUYKQOMXWT.557130` | “Six peritectic reactions included Ho3Ni, Ho2Ni3_HT, HoNi2, HoNi3, Ho2Ni7, and Ho2Ni17 at 750, 970, 1195, 1285, 1320, and 1290 C, respectively.” |
+| 1563.15 | L + HoNi5 -> Ho17Ni2 | L: Ni 0.92; HoNi5: Ni 0.833; Ho17Ni2: Ni 0.895 | experimental | [1] Kardellass 2015 | Table 6, p. 7, row 25; `ORC-NK2HN5H5YC` |  |
+| 1563.15 | L + HoNi5 -> Ho17Ni2 | L: Ni 0.9193; HoNi5: Ni 0.833; Ho17Ni2: Ni 0.895 | model | [1] Kardellass 2015 | Table 6, p. 7, row 26; `ORC-SCQORE5RXM` |  |
+| 1563.15 | peritectic: L + HoNi5 -> Ho17Ni2 | L: Ho 0.08; HoNi5: Ho 0.167; Ho17Ni2: Ho 0.105 | unspecified | [1] Kardellass 2015 | Table 2, p. 3, row 12; `ORC-XB34NLBJMJ` |  |
+| 1563 | peritectic: L + HoNi5 -> Ho2Ni17 | HoNi5: Ni 0.833333; Ho2Ni17: Ni 0.894737 | experimental | [2] Ye 2023; _cites ref. 45_ | Table 10, p. 22, row 33; `ORC-A53TU6ORUK` |  |
+| 1563 | peritectic: L + HoNi5 -> Ho2Ni17 | L: Ni 0.919; HoNi5: Ni 0.833333; Ho2Ni17: Ni 0.894737 | model | [2] Ye 2023; _cites ref. 40_ | Table 10, p. 22, row 32; `ORC-K6OBSA2JE5` |  |
+| 1560.3 | peritectic: L + HoNi5 -> Ho2Ni17 | L: Ni 0.915; HoNi5: Ni 0.833333; Ho2Ni17: Ni 0.894737 | model | [2] Ye 2023 | Table 10, p. 22, row 34; `ORC-QOAOVPAVHR` |  |
+| 1558.15 | L + Ho7Ni2 -> HoNi3 | L: Ni 0.7; Ho7Ni2: Ni 0.778; HoNi3: Ni 0.75 | experimental | [1] Kardellass 2015 | Table 6, p. 7, row 19; `ORC-F2T3LOHGZY` |  |
+| 1558.15 | peritectic |  | experimental | [1] Kardellass 2015 | p. 2; `ORC-LUYKQOMXWT.6b8436` | “Six peritectic reactions included Ho3Ni, Ho2Ni3_HT, HoNi2, HoNi3, Ho2Ni7, and Ho2Ni17 at 750, 970, 1195, 1285, 1320, and 1290 C, respectively.” |
+| 1558.15 | L + Ho7Ni2 -> HoNi3 | L: Ni 0.7019; Ho7Ni2: Ni 0.778; HoNi3: Ni 0.75 | model | [1] Kardellass 2015 | Table 6, p. 7, row 20; `ORC-R5FCP7QAUL` |  |
+| 1558.15 | peritectic: L + Ho7Ni2 -> HoNi3 | L: Ho 0.3; Ho7Ni2: Ho 0.222; HoNi3: Ho 0.25 | unspecified | [1] Kardellass 2015 | Table 2, p. 3, row 9; `ORC-S2Q2BQUWIC` |  |
+| 1558 | peritectic: L + Ho2Ni7 -> HoNi3 | Ho2Ni7: Ni 0.777778; HoNi3: Ni 0.75 | experimental | [2] Ye 2023; _cites ref. 45_ | Table 10, p. 22, row 24; `ORC-2Z2Z5RAQ2Y` |  |
+| 1558 | peritectic: L + Ho2Ni7 -> HoNi3 | L: Ni 0.712; Ho2Ni7: Ni 0.777778; HoNi3: Ni 0.75 | model | [2] Ye 2023; _cites ref. 40_ | Table 10, p. 22, row 23; `ORC-NBTXYIHBOH` |  |
+| 1556 | eutectic: L -> fcc(Ni) + Ho2Ni17 | L: Ni 0.921; Ho2Ni17: Ni 0.894737 | model | [2] Ye 2023 | Table 10, p. 22, row 37; `ORC-HUBHOU5RTR` |  |
+| 1555.8 | peritectic: L + Ho2Ni7 -> HoNi3 | L: Ni 0.72; Ho2Ni7: Ni 0.777778; HoNi3: Ni 0.75 | model | [2] Ye 2023 | Table 10, p. 22, row 25; `ORC-FDCWJ5WVOX` |  |
+| 1553.15 | eutectic |  | experimental | [1] Kardellass 2015 | p. 2; `ORC-AGOERC2VB7.36911b` | “Three eutectic reactions formed between Ho3Ni and Ho2Ni3_LT at 720 C (30.0 at% Ni), between HoNi and HoNi2 at 975 C (54.0 at% Ni), and between Ho2Ni17 and Nickel at 1,280 C (93.0 at% Ni).” |
+| 1553.15 | L -> Ho17Ni2 + fcc_A1 | L: Ni 0.93; Ho17Ni2: Ni 0.895; fcc_A1: Ni 1 | experimental | [1] Kardellass 2015 | Table 6, p. 7, row 27; `ORC-LFEC2MZNKB` |  |
+| 1553.15 | L -> Ho17Ni2 + fcc_A1 | L: Ni 0.9314; Ho17Ni2: Ni 0.895; fcc_A1: Ni 1 | model | [1] Kardellass 2015 | Table 6, p. 7, row 28; `ORC-TEWACFA5LO` |  |
+| 1553.15 | eutectic: L -> Ho17Ni2 + fcc_A1 | L: Ho 0.07; Ho17Ni2: Ho 0.105; fcc_A1: Ho 0 | unspecified | [1] Kardellass 2015 | Table 2, p. 3, row 13; `ORC-YNNUAYCXM4` |  |
+| 1553 | eutectic: L -> fcc(Ni) + Ho2Ni17 | L: Ni 0.931; Ho2Ni17: Ni 0.894737 | model | [2] Ye 2023; _cites ref. 40_ | Table 10, p. 22, row 35; `ORC-GQ2JOXD5NQ` |  |
+| 1553 | eutectic: L -> fcc(Ni) + Ho2Ni17 | L: Ni 0.93; Ho2Ni17: Ni 0.894737 | experimental | [2] Ye 2023; _cites ref. 45_ | Table 10, p. 22, row 36; `ORC-UKLPYJDLJT` |  |
+| 1468.15 | L + HoNi3 -> HoNi2 | L: Ni 0.63; HoNi3: Ni 0.75; HoNi2: Ni 0.667 | experimental | [1] Kardellass 2015 | Table 6, p. 7, row 17; `ORC-4S4NG6B7KZ` |  |
+| 1468.15 | peritectic: L + HoNi3 -> HoNi2 | L: Ho 0.37; HoNi3: Ho 0.25; HoNi2: Ho 0.333 | unspecified | [1] Kardellass 2015 | Table 2, p. 3, row 8; `ORC-LCAIXUG4UH` |  |
+| 1468.15 | peritectic |  | experimental | [1] Kardellass 2015 | p. 2; `ORC-LUYKQOMXWT.dc34a6` | “Six peritectic reactions included Ho3Ni, Ho2Ni3_HT, HoNi2, HoNi3, Ho2Ni7, and Ho2Ni17 at 750, 970, 1195, 1285, 1320, and 1290 C, respectively.” |
+| 1468.15 | L + HoNi3 -> HoNi2 | L: Ni 0.64; HoNi3: Ni 0.75; HoNi2: Ni 0.667 | model | [1] Kardellass 2015 | Table 6, p. 7, row 18; `ORC-NW5MSHY6ZY` |  |
+| 1468 | peritectic: L + HoNi3 -> HoNi2 | L: Ni 0.64; HoNi3: Ni 0.75; HoNi2: Ni 0.666667 | model | [2] Ye 2023; _cites ref. 40_ | Table 10, p. 22, row 20; `ORC-KBV72IDMI4` |  |
+| 1468 | peritectic: L + HoNi3 -> HoNi2 | HoNi3: Ni 0.75; HoNi2: Ni 0.666667 | experimental | [2] Ye 2023; _cites ref. 45_ | Table 10, p. 22, row 21; `ORC-ZGHICQBYYR` |  |
+| 1465.2 | peritectic: L + HoNi3 -> HoNi2 | L: Ni 0.657; HoNi3: Ni 0.75; HoNi2: Ni 0.666667 | model | [2] Ye 2023 | Table 10, p. 22, row 22; `ORC-L4NL2VCS3L` |  |
+| 1333.15 | congruent melting: L -> HoNi | HoNi: Ho 0.5 | unspecified | [1] Kardellass 2015 | Table 2, p. 3, row 6; `ORC-2IZOWBUSRI` |  |
+| 1322.15 | L -> HoNi + HoNi2 | L: Ni 0.5355; HoNi: Ni 0.5; HoNi2: Ni 0.659 | model | [1] Kardellass 2015 | Table 6, p. 7, row 16; `ORC-XVFZD4URLQ` |  |
+| 1322 | eutectic: L -> HoNi + HoNi2 | L: Ni 0.536; HoNi: Ni 0.5; HoNi2: Ni 0.666667 | model | [2] Ye 2023; _cites ref. 40_ | Table 10, p. 22, row 17; `ORC-UYM3ZN4UAW` |  |
+| 1308.9 | eutectic: L -> HoNi + HoNi2 | L: Ni 0.553; HoNi: Ni 0.5; HoNi2: Ni 0.666667 | model | [2] Ye 2023 | Table 10, p. 22, row 19; `ORC-EARQVM62SK` |  |
+| 1248.15 | eutectic |  | experimental | [1] Kardellass 2015 | p. 2; `ORC-AGOERC2VB7.0d245a` | “Three eutectic reactions formed between Ho3Ni and Ho2Ni3_LT at 720 C (30.0 at% Ni), between HoNi and HoNi2 at 975 C (54.0 at% Ni), and between Ho2Ni17 and Nickel at 1,280 C (93.0 at% Ni).” |
+| 1248.15 | L -> HoNi + HoNi2 | L: Ni 0.54; HoNi: Ni 0.5; HoNi2: Ni 0.656 | experimental | [1] Kardellass 2015 | Table 6, p. 7, row 15; `ORC-D7RYIIJ5EW` |  |
+| 1248.15 | eutectic: L -> HoNi + HoNi2 | L: Ho 0.46; HoNi: Ho 0.5; HoNi2: Ho 0.344 | unspecified | [1] Kardellass 2015 | Table 2, p. 3, row 7; `ORC-HB7AIUX4M3` |  |
+| 1248 | eutectic: L -> HoNi + HoNi2 | L: Ni 0.54; HoNi: Ni 0.5; HoNi2: Ni 0.666667 | experimental | [2] Ye 2023; _cites ref. 45_ | Table 10, p. 22, row 18; `ORC-JXAX5NMX6V` |  |
+| 1243.15 | L + HoNi -> Ho3Ni2_HT | L: Ni 0.38; HoNi: Ni 0.5; Ho3Ni2_HT: Ni 0.4 | experimental | [1] Kardellass 2015 | Table 6, p. 7, row 11; `ORC-E4TT5BS24J` |  |
+| 1243.15 | peritectic |  | experimental | [1] Kardellass 2015 | p. 2; `ORC-LUYKQOMXWT.b65086` | “Six peritectic reactions included Ho3Ni, Ho2Ni3_HT, HoNi2, HoNi3, Ho2Ni7, and Ho2Ni17 at 750, 970, 1195, 1285, 1320, and 1290 C, respectively.” |
+| 1243.15 | peritectic: L + HoNi -> Ho3Ni2_HT | L: Ho 0.62; HoNi: Ho 0.5; Ho3Ni2_HT: Ho 0.6 | unspecified | [1] Kardellass 2015 | Table 2, p. 3, row 4; `ORC-MUD2XM3BZT` |  |
+| 1243 | peritectic: L + HoNi -> Ho3Ni2_HT | HoNi: Ni 0.5; Ho3Ni2_HT: Ni 0.4 | experimental | [2] Ye 2023; _cites ref. 45_ | Table 10, p. 22, row 12; `ORC-I5NC7DOGQP` |  |
+| 1241.15 | L + HoNi -> Ho3Ni2_HT | L: Ni 0.3944; HoNi: Ni 0.5; Ho3Ni2_HT: Ni 0.4 | model | [1] Kardellass 2015 | Table 6, p. 7, row 12; `ORC-DXEBYCEI2L` |  |
+| 1241 | peritectic: L + HoNi -> Ho3Ni2_HT | L: Ni 0.394; HoNi: Ni 0.5; Ho3Ni2_HT: Ni 0.4 | model | [2] Ye 2023; _cites ref. 40_ | Table 10, p. 22, row 11; `ORC-MJSUJM6F7W` |  |
+| 1240.4 | peritectic: L + HoNi -> Ho3Ni2_HT | L: Ni 0.399; HoNi: Ni 0.5; Ho3Ni2_HT: Ni 0.4 | model | [2] Ye 2023 | Table 10, p. 22, row 13; `ORC-GPEO7F6XB7` |  |
+| 1033.15 | L + HoNi -> Ho3Ni2_LT | L: Ni 0.31; HoNi: Ni 0.5; Ho3Ni2_LT: Ni 0.4 | experimental | [1] Kardellass 2015 | Table 6, p. 7, row 9; `ORC-7TRMHGG7PR` |  |
+| 1033.15 | polymorphic: Ho3Ni2_HT -> Ho3Ni2_LT | Ho3Ni2_HT: Ho 0.6; Ho3Ni2_LT: Ho 0.6, Ni 0.4 | unspecified | [1] Kardellass 2015 | Table 2, p. 3, row 5; `ORC-XNR57AXYQF` |  |
+| 1031.15 | L + HoNi -> Ho3Ni2_LT | L: Ni 0.2951; HoNi: Ni 0.5; Ho3Ni2_LT: Ni 0.4 | model | [1] Kardellass 2015 | Table 6, p. 7, row 10; `ORC-PKQUJOPYYX` |  |
+| 1023.15 | L + Ho -> Ho3Ni | L: Ni 0.29; Ho: Ni 0; Ho3Ni: Ni 0.25 | experimental | [1] Kardellass 2015 | Table 6, p. 7, row 3; `ORC-JN7IFDYOL3` |  |
+| 1023.15 | peritectic |  | experimental | [1] Kardellass 2015 | p. 2; `ORC-LUYKQOMXWT.8555df` | “Six peritectic reactions included Ho3Ni, Ho2Ni3_HT, HoNi2, HoNi3, Ho2Ni7, and Ho2Ni17 at 750, 970, 1195, 1285, 1320, and 1290 C, respectively.” |
+| 1023.15 | peritectic: L + Ho -> Ho3Ni | L: Ho 0.71; Ho: Ho 1; Ho3Ni: Ho 0.75 | unspecified | [1] Kardellass 2015 | Table 2, p. 3, row 2; `ORC-XOQQTT3BW4` |  |
+| 1023 | peritectic: L + hcp(Ho) -> Ho3Ni | L: Ni 0.3; Ho3Ni: Ni 0.25 | experimental | [2] Ye 2023; _cites ref. 45_ | Table 10, p. 22, row 3; `ORC-AMDUT4GMJG` |  |
+| 1020.2 | peritectic: L + hcp(Ho) -> Ho3Ni | L: Ni 0.251; Ho3Ni: Ni 0.25 | model | [2] Ye 2023 | Table 10, p. 22, row 4; `ORC-CARO5GYUCM` |  |
+| 1014.15 | L + Ho -> Ho3Ni | L: Ni 0.2563; Ho: Ni 0; Ho3Ni: Ni 0.25 | model | [1] Kardellass 2015 | Table 6, p. 7, row 4; `ORC-OZMDXBTRSJ` |  |
+| 1014 | peritectic: L + hcp(Ho) -> Ho3Ni | L: Ni 0.256; Ho3Ni: Ni 0.25 | model | [2] Ye 2023; _cites ref. 40_ | Table 10, p. 22, row 2; `ORC-L6QCOW6VBI` |  |
+| 1006.15 | L -> Ho3Ni + Ho3Ni2_LT | L: Ni 0.2813; Ho3Ni: Ni 0.25; Ho3Ni2_LT: Ni 0.4 | model | [1] Kardellass 2015 | Table 6, p. 7, row 6; `ORC-PARZK2XVRR` |  |
+| 1006 | eutectic: L -> Ho3Ni + Ho3Ni2_LT | L: Ni 0.281; Ho3Ni: Ni 0.25; Ho3Ni2_LT: Ni 0.4 | model | [2] Ye 2023; _cites ref. 40_ | Table 10, p. 22, row 5; `ORC-BGNXHDNO6F` |  |
+| 996.3 | eutectic: L -> Ho3Ni + Ho3Ni2_LT | L: Ni 0.297; Ho3Ni: Ni 0.25; Ho3Ni2_LT: Ni 0.4 | model | [2] Ye 2023 | Table 10, p. 22, row 7; `ORC-FNGVK4X6YE` |  |
+| 993.15 | eutectic: L -> Ho3Ni + Ho3Ni2_LT | L: Ho 0.7; Ho3Ni: Ho 0.75; Ho3Ni2_LT: Ho 0.6 | unspecified | [1] Kardellass 2015 | Table 2, p. 3, row 3; `ORC-5GPABUT5HN` |  |
+| 993.15 | eutectic |  | experimental | [1] Kardellass 2015 | p. 2; `ORC-AGOERC2VB7.6d9448` | “Three eutectic reactions formed between Ho3Ni and Ho2Ni3_LT at 720 C (30.0 at% Ni), between HoNi and HoNi2 at 975 C (54.0 at% Ni), and between Ho2Ni17 and Nickel at 1,280 C (93.0 at% Ni).” |
+| 993.15 | L -> Ho3Ni + Ho3Ni2_LT | L: Ni 0.3; Ho3Ni: Ni 0.25; Ho3Ni2_LT: Ni 0.4 | experimental | [1] Kardellass 2015 | Table 6, p. 7, row 5; `ORC-J2FQQVAPSX` |  |
+| 993 | eutectic: L -> Ho3Ni + Ho3Ni2_LT | Ho3Ni: Ni 0.25; Ho3Ni2_LT: Ni 0.4 | experimental | [2] Ye 2023; _cites ref. 45_ | Table 10, p. 22, row 6; `ORC-KAAGTRJ6HE` |  |
 
 ## Formation enthalpies
 
@@ -180,44 +180,44 @@ Table: Enthalpies of formation, Ho–Ni system (38)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Ho2Ni17 | [Ho2Ni17](https://data.orchid-project.org/compounds/Ho2Ni17.html) | -23.1 kJ/mol-atom ± 0.3 | 650 | experimental | -19.799 (mp-aaacqkjz) | -20.143 (oqmd-30551) | [1] Kardellass 2015; _cites Gozzi 2005_ [doi](https://doi.org/10.1016/j.intermet.2005.03.002) | Table 3, p. 4, row 32 |  |
-| Ho2Ni17 | [Ho2Ni17](https://data.orchid-project.org/compounds/Ho2Ni17.html) | -21.33 kJ/mol-atom | 298.15 | model | -19.799 (mp-aaacqkjz) | -20.143 (oqmd-30551) | [1] Kardellass 2015 | Table 3, p. 4, row 33 |  |
-| Ho2Ni17 | [Ho2Ni17](https://data.orchid-project.org/compounds/Ho2Ni17.html) | -16 kJ/mol-atom | 298.15 | model | -19.799 (mp-aaacqkjz) | -20.143 (oqmd-30551) | [1] Kardellass 2015; _cites Kayzel 1995_ | Table 3, p. 4, row 34 |  |
-| Ho2Ni17 | [Ho2Ni17](https://data.orchid-project.org/compounds/Ho2Ni17.html) | -16 kJ/mol-atom | 298.15 | model | -19.799 (mp-aaacqkjz) | -20.143 (oqmd-30551) | [1] Kardellass 2015; _cites de Boer FR 1989_ | Table 3, p. 4, row 31 |  |
-| Ho2Ni7 | [Ho2Ni7](https://data.orchid-project.org/compounds/Ho2Ni7.html) | -40 kJ/mol-atom | 298.15 | model | -38.648 (mp-aaacpsuu) | -39.098 (oqmd-1483994) | [1] Kardellass 2015 | Table 3, p. 4, row 24 |  |
-| Ho2Ni7 | [Ho2Ni7](https://data.orchid-project.org/compounds/Ho2Ni7.html) | -39.92 kJ/mol-atom | 298.15 | model | -38.648 (mp-aaacpsuu) | -39.098 (oqmd-1483994) | [1] Kardellass 2015 | Table 3, p. 4, row 25 |  |
-| Ho2Ni7 | [Ho2Ni7](https://data.orchid-project.org/compounds/Ho2Ni7.html) | -35 kJ/mol-atom | 298.15 | model | -38.648 (mp-aaacpsuu) | -39.098 (oqmd-1483994) | [1] Kardellass 2015; _cites de Boer FR 1989_ | Table 3, p. 4, row 23 |  |
-| Ho2Ni7 | [Ho2Ni7](https://data.orchid-project.org/compounds/Ho2Ni7.html) | -34 kJ/mol-atom | 298.15 | model | -38.648 (mp-aaacpsuu) | -39.098 (oqmd-1483994) | [1] Kardellass 2015; _cites Kayzel 1995_ | Table 3, p. 4, row 26 |  |
-| Ho3Ni | [Ho3Ni](https://data.orchid-project.org/compounds/Ho3Ni.html) | -38 kJ/mol-atom | 298.15 | model | -24.74 (mp-aaacprea) | -25.183 (oqmd-30550) | [1] Kardellass 2015 | Table 3, p. 4, row 2 |  |
-| Ho3Ni | [Ho3Ni](https://data.orchid-project.org/compounds/Ho3Ni.html) | -25 kJ/mol-atom | 298.15 | model | -24.74 (mp-aaacprea) | -25.183 (oqmd-30550) | [1] Kardellass 2015; _cites de Boer FR 1989_ | Table 3, p. 4, row 1 |  |
-| Ho3Ni | [Ho3Ni](https://data.orchid-project.org/compounds/Ho3Ni.html) | -24 kJ/mol-atom | 298.15 | model | -24.74 (mp-aaacprea) | -25.183 (oqmd-30550) | [1] Kardellass 2015; _cites Kayzel 1995_ | Table 3, p. 4, row 4 |  |
-| Ho3Ni | [Ho3Ni](https://data.orchid-project.org/compounds/Ho3Ni.html) | -23.95 kJ/mol-atom | 298.15 | model | -24.74 (mp-aaacprea) | -25.183 (oqmd-30550) | [1] Kardellass 2015 | Table 3, p. 4, row 3 |  |
-| Ho3Ni2_HT | [Ho3Ni2](https://data.orchid-project.org/compounds/Ho3Ni2.html) | -28.34 kJ/mol-atom | 298.15 | model | -36.512 (mp-aaacjmkp) | -37.585 (oqmd-30549) | [1] Kardellass 2015 | Table 3, p. 4, row 9 |  |
-| Ho3Ni2_LT | [Ho3Ni2](https://data.orchid-project.org/compounds/Ho3Ni2.html) | -47 kJ/mol-atom | 298.15 | model | -36.512 (mp-aaacjmkp) | -37.585 (oqmd-30549) | [1] Kardellass 2015 | Table 3, p. 4, row 6 |  |
-| Ho3Ni2_LT | [Ho3Ni2](https://data.orchid-project.org/compounds/Ho3Ni2.html) | -40 kJ/mol-atom | 298.15 | model | -36.512 (mp-aaacjmkp) | -37.585 (oqmd-30549) | [1] Kardellass 2015; _cites de Boer FR 1989_ | Table 3, p. 4, row 5 |  |
-| Ho3Ni2_LT | [Ho3Ni2](https://data.orchid-project.org/compounds/Ho3Ni2.html) | -38.45 kJ/mol-atom | 298.15 | model | -36.512 (mp-aaacjmkp) | -37.585 (oqmd-30549) | [1] Kardellass 2015 | Table 3, p. 4, row 7 |  |
-| Ho3Ni2_LT | [Ho3Ni2](https://data.orchid-project.org/compounds/Ho3Ni2.html) | -38 kJ/mol-atom | 298.15 | model | -36.512 (mp-aaacjmkp) | -37.585 (oqmd-30549) | [1] Kardellass 2015; _cites Kayzel 1995_ | Table 3, p. 4, row 8 |  |
-| HoNi | [HoNi](https://data.orchid-project.org/compounds/HoNi.html) | -48.8 kJ/mol-atom | 298.15 | model | -45.179 (mp-aaaaarop) | -45.907 (oqmd-18379) | [1] Kardellass 2015 | Table 3, p. 4, row 13 |  |
-| HoNi | [HoNi](https://data.orchid-project.org/compounds/HoNi.html) | -48.6 kJ/mol-atom ± 0.77 | 1476 | experimental | -45.179 (mp-aaaaarop) | -45.907 (oqmd-18379) | [1] Kardellass 2015; _cites Gozzi 2005_ [doi](https://doi.org/10.1016/j.intermet.2005.03.002) | Table 3, p. 4, row 12 |  |
-| HoNi | [HoNi](https://data.orchid-project.org/compounds/HoNi.html) | -48.23 kJ/mol-atom | 298.15 | model | -45.179 (mp-aaaaarop) | -45.907 (oqmd-18379) | [1] Kardellass 2015 | Table 3, p. 4, row 14 |  |
-| HoNi | [HoNi](https://data.orchid-project.org/compounds/HoNi.html) | -45 kJ/mol-atom | 298.15 | model | -45.179 (mp-aaaaarop) | -45.907 (oqmd-18379) | [1] Kardellass 2015; _cites de Boer FR 1989_ | Table 3, p. 4, row 10 |  |
-| HoNi | [HoNi](https://data.orchid-project.org/compounds/HoNi.html) | -41.7 kJ/mol-atom ± 1.4 | 1476 | experimental | -45.179 (mp-aaaaarop) | -45.907 (oqmd-18379) | [1] Kardellass 2015; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900509-x) | Table 3, p. 4, row 11 |  |
-| HoNi2 | [HoNi2](https://data.orchid-project.org/compounds/HoNi2.html) | -47.5 kJ/mol-atom | 298.15 | model | -44.81 (mp-aaaaaazx) | -44.977 (oqmd-17463) | [1] Kardellass 2015 | Table 3, p. 4, row 16 |  |
-| HoNi2 | [HoNi2](https://data.orchid-project.org/compounds/HoNi2.html) | -45 kJ/mol-atom | 298.15 | model | -44.81 (mp-aaaaaazx) | -44.977 (oqmd-17463) | [1] Kardellass 2015; _cites de Boer FR 1989_ | Table 3, p. 4, row 15 |  |
-| HoNi2 | [HoNi2](https://data.orchid-project.org/compounds/HoNi2.html) | -45 kJ/mol-atom | 298.15 | model | -44.81 (mp-aaaaaazx) | -44.977 (oqmd-17463) | [1] Kardellass 2015; _cites Kayzel 1995_ | Table 3, p. 4, row 18 |  |
-| HoNi2 | [HoNi2](https://data.orchid-project.org/compounds/HoNi2.html) | -42.67 kJ/mol-atom | 298.15 | model | -44.81 (mp-aaaaaazx) | -44.977 (oqmd-17463) | [1] Kardellass 2015 | Table 3, p. 4, row 17 |  |
-| HoNi3 | [HoNi3](https://data.orchid-project.org/compounds/HoNi3.html) | -42.5 kJ/mol-atom | 298.15 | model | -41.055 (mp-aaaaadao) | -41.425 (oqmd-19842) | [1] Kardellass 2015 | Table 3, p. 4, row 20 |  |
-| HoNi3 | [HoNi3](https://data.orchid-project.org/compounds/HoNi3.html) | -40.01 kJ/mol-atom | 298.15 | model | -41.055 (mp-aaaaadao) | -41.425 (oqmd-19842) | [1] Kardellass 2015 | Table 3, p. 4, row 21 |  |
-| HoNi3 | [HoNi3](https://data.orchid-project.org/compounds/HoNi3.html) | -37 kJ/mol-atom | 298.15 | model | -41.055 (mp-aaaaadao) | -41.425 (oqmd-19842) | [1] Kardellass 2015; _cites de Boer FR 1989_ | Table 3, p. 4, row 19 |  |
-| HoNi3 | [HoNi3](https://data.orchid-project.org/compounds/HoNi3.html) | -37 kJ/mol-atom | 298.15 | model | -41.055 (mp-aaaaadao) | -41.425 (oqmd-19842) | [1] Kardellass 2015; _cites Kayzel 1995_ | Table 3, p. 4, row 22 |  |
-| HoNi5 | [HoNi5](https://data.orchid-project.org/compounds/HoNi5.html) | -35.49 kJ/mol-atom ± 0.04 | 1476 | experimental | -32.138 (mp-aaaaacht) | -32.728 (oqmd-17464) | [1] Kardellass 2015; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900509-x) | Table 3, p. 4, row 29 |  |
-| HoNi5 | [HoNi5](https://data.orchid-project.org/compounds/HoNi5.html) | -34.04 kJ/mol-atom | 298.15 | model | -32.138 (mp-aaaaacht) | -32.728 (oqmd-17464) | [1] Kardellass 2015 | Table 3, p. 4, row 30 |  |
-| HoNi5 | [HoNi5](https://data.orchid-project.org/compounds/HoNi5.html) | -29.9 kJ/mol-atom ± 0.8 | 1474 | experimental | -32.138 (mp-aaaaacht) | -32.728 (oqmd-17464) | [1] Kardellass 2015; _cites Pot 1993_ | Table 3, p. 4, row 28 |  |
-| HoNi5 | [HoNi5](https://data.orchid-project.org/compounds/HoNi5.html) | -26 kJ/mol-atom | 298.15 | model | -32.138 (mp-aaaaacht) | -32.728 (oqmd-17464) | [1] Kardellass 2015; _cites de Boer FR 1989_ | Table 3, p. 4, row 27 |  |
-| Ni17Ho2 | [Ho2Ni17](https://data.orchid-project.org/compounds/Ho2Ni17.html) | -21.33 kJ/mol-atom | 298.15 | model | -19.799 (mp-aaacqkjz) | -20.143 (oqmd-30551) | [3] Kardellass 2016; _cites Kardellass 2015_ [doi](https://doi.org/10.1007/s10973-014-4189-1) | Table 4, p. 7, row 2 |  |
-| Ni2Ho | [HoNi2](https://data.orchid-project.org/compounds/HoNi2.html) | -42.67 kJ/mol-atom | 298.15 | model | -44.81 (mp-aaaaaazx) | -44.977 (oqmd-17463) | [3] Kardellass 2016; _cites Kardellass 2015_ [doi](https://doi.org/10.1007/s10973-014-4189-1) | Table 4, p. 7, row 9 |  |
-| Ni5Ho | [HoNi5](https://data.orchid-project.org/compounds/HoNi5.html) | -34.04 kJ/mol-atom | 298.15 | model | -32.138 (mp-aaaaacht) | -32.728 (oqmd-17464) | [3] Kardellass 2016; _cites Kardellass 2015_ [doi](https://doi.org/10.1007/s10973-014-4189-1) | Table 4, p. 7, row 5 |  |
-| NiHo | [HoNi](https://data.orchid-project.org/compounds/HoNi.html) | -48.23 kJ/mol-atom | 298.15 | model | -45.179 (mp-aaaaarop) | -45.907 (oqmd-18379) | [3] Kardellass 2016; _cites Kardellass 2015_ [doi](https://doi.org/10.1007/s10973-014-4189-1) | Table 4, p. 7, row 13 |  |
+| Ho2Ni17 | [Ho2Ni17](https://data.orchid-project.org/compounds/Ho2Ni17.html) | -23.1 kJ/mol-atom ± 0.3 | 650 | experimental | -19.799 (mp-aaacqkjz) | -20.143 (oqmd-30551) | [1] Kardellass 2015; _cites Gozzi 2005_ [doi](https://doi.org/10.1016/j.intermet.2005.03.002) | Table 3, p. 4, row 32; `ORC-CIBLIAIPZV.362249` |  |
+| Ho2Ni17 | [Ho2Ni17](https://data.orchid-project.org/compounds/Ho2Ni17.html) | -21.33 kJ/mol-atom | 298.15 | model | -19.799 (mp-aaacqkjz) | -20.143 (oqmd-30551) | [1] Kardellass 2015 | Table 3, p. 4, row 33; `ORC-4EKSADAPCN.24065b` |  |
+| Ho2Ni17 | [Ho2Ni17](https://data.orchid-project.org/compounds/Ho2Ni17.html) | -16 kJ/mol-atom | 298.15 | model | -19.799 (mp-aaacqkjz) | -20.143 (oqmd-30551) | [1] Kardellass 2015; _cites Kayzel 1995_ | Table 3, p. 4, row 34; `ORC-PHKVNW3XCH.1fad5d` |  |
+| Ho2Ni17 | [Ho2Ni17](https://data.orchid-project.org/compounds/Ho2Ni17.html) | -16 kJ/mol-atom | 298.15 | model | -19.799 (mp-aaacqkjz) | -20.143 (oqmd-30551) | [1] Kardellass 2015; _cites de Boer FR 1989_ | Table 3, p. 4, row 31; `ORC-QWGKIZRAMB.79442e` |  |
+| Ho2Ni7 | [Ho2Ni7](https://data.orchid-project.org/compounds/Ho2Ni7.html) | -40 kJ/mol-atom | 298.15 | model | -38.648 (mp-aaacpsuu) | -39.098 (oqmd-1483994) | [1] Kardellass 2015 | Table 3, p. 4, row 24; `ORC-VJCN63SFEL.e5027d` |  |
+| Ho2Ni7 | [Ho2Ni7](https://data.orchid-project.org/compounds/Ho2Ni7.html) | -39.92 kJ/mol-atom | 298.15 | model | -38.648 (mp-aaacpsuu) | -39.098 (oqmd-1483994) | [1] Kardellass 2015 | Table 3, p. 4, row 25; `ORC-WVJV7M4Z6B.1fd85a` |  |
+| Ho2Ni7 | [Ho2Ni7](https://data.orchid-project.org/compounds/Ho2Ni7.html) | -35 kJ/mol-atom | 298.15 | model | -38.648 (mp-aaacpsuu) | -39.098 (oqmd-1483994) | [1] Kardellass 2015; _cites de Boer FR 1989_ | Table 3, p. 4, row 23; `ORC-Y2LL7I4JOT.b3ef01` |  |
+| Ho2Ni7 | [Ho2Ni7](https://data.orchid-project.org/compounds/Ho2Ni7.html) | -34 kJ/mol-atom | 298.15 | model | -38.648 (mp-aaacpsuu) | -39.098 (oqmd-1483994) | [1] Kardellass 2015; _cites Kayzel 1995_ | Table 3, p. 4, row 26; `ORC-FNIWTCE4PX.6c8d7f` |  |
+| Ho3Ni | [Ho3Ni](https://data.orchid-project.org/compounds/Ho3Ni.html) | -38 kJ/mol-atom | 298.15 | model | -24.74 (mp-aaacprea) | -25.183 (oqmd-30550) | [1] Kardellass 2015 | Table 3, p. 4, row 2; `ORC-PRSXIABCGK.101a10` |  |
+| Ho3Ni | [Ho3Ni](https://data.orchid-project.org/compounds/Ho3Ni.html) | -25 kJ/mol-atom | 298.15 | model | -24.74 (mp-aaacprea) | -25.183 (oqmd-30550) | [1] Kardellass 2015; _cites de Boer FR 1989_ | Table 3, p. 4, row 1; `ORC-FAK4XSBAOV.9eea96` |  |
+| Ho3Ni | [Ho3Ni](https://data.orchid-project.org/compounds/Ho3Ni.html) | -24 kJ/mol-atom | 298.15 | model | -24.74 (mp-aaacprea) | -25.183 (oqmd-30550) | [1] Kardellass 2015; _cites Kayzel 1995_ | Table 3, p. 4, row 4; `ORC-TOSUODAY33.152f3b` |  |
+| Ho3Ni | [Ho3Ni](https://data.orchid-project.org/compounds/Ho3Ni.html) | -23.95 kJ/mol-atom | 298.15 | model | -24.74 (mp-aaacprea) | -25.183 (oqmd-30550) | [1] Kardellass 2015 | Table 3, p. 4, row 3; `ORC-PEUZNTZ35W.0de60d` |  |
+| Ho3Ni2_HT | [Ho3Ni2](https://data.orchid-project.org/compounds/Ho3Ni2.html) | -28.34 kJ/mol-atom | 298.15 | model | -36.512 (mp-aaacjmkp) | -37.585 (oqmd-30549) | [1] Kardellass 2015 | Table 3, p. 4, row 9; `ORC-U2SOP75IJQ.361cd0` |  |
+| Ho3Ni2_LT | [Ho3Ni2](https://data.orchid-project.org/compounds/Ho3Ni2.html) | -47 kJ/mol-atom | 298.15 | model | -36.512 (mp-aaacjmkp) | -37.585 (oqmd-30549) | [1] Kardellass 2015 | Table 3, p. 4, row 6; `ORC-GHBPJQM4XH.6b0426` |  |
+| Ho3Ni2_LT | [Ho3Ni2](https://data.orchid-project.org/compounds/Ho3Ni2.html) | -40 kJ/mol-atom | 298.15 | model | -36.512 (mp-aaacjmkp) | -37.585 (oqmd-30549) | [1] Kardellass 2015; _cites de Boer FR 1989_ | Table 3, p. 4, row 5; `ORC-JUT4IUDSS4.1e9152` |  |
+| Ho3Ni2_LT | [Ho3Ni2](https://data.orchid-project.org/compounds/Ho3Ni2.html) | -38.45 kJ/mol-atom | 298.15 | model | -36.512 (mp-aaacjmkp) | -37.585 (oqmd-30549) | [1] Kardellass 2015 | Table 3, p. 4, row 7; `ORC-KOSAEYIXBG.aebddf` |  |
+| Ho3Ni2_LT | [Ho3Ni2](https://data.orchid-project.org/compounds/Ho3Ni2.html) | -38 kJ/mol-atom | 298.15 | model | -36.512 (mp-aaacjmkp) | -37.585 (oqmd-30549) | [1] Kardellass 2015; _cites Kayzel 1995_ | Table 3, p. 4, row 8; `ORC-TQIIAZJF74.15f2cf` |  |
+| HoNi | [HoNi](https://data.orchid-project.org/compounds/HoNi.html) | -48.8 kJ/mol-atom | 298.15 | model | -45.179 (mp-aaaaarop) | -45.907 (oqmd-18379) | [1] Kardellass 2015 | Table 3, p. 4, row 13; `ORC-7L2GDTIKOR.1d9de5` |  |
+| HoNi | [HoNi](https://data.orchid-project.org/compounds/HoNi.html) | -48.6 kJ/mol-atom ± 0.77 | 1476 | experimental | -45.179 (mp-aaaaarop) | -45.907 (oqmd-18379) | [1] Kardellass 2015; _cites Gozzi 2005_ [doi](https://doi.org/10.1016/j.intermet.2005.03.002) | Table 3, p. 4, row 12; `ORC-6FIHIYYN7M.5d1f54` |  |
+| HoNi | [HoNi](https://data.orchid-project.org/compounds/HoNi.html) | -48.23 kJ/mol-atom | 298.15 | model | -45.179 (mp-aaaaarop) | -45.907 (oqmd-18379) | [1] Kardellass 2015 | Table 3, p. 4, row 14; `ORC-E3ZO53RNRF.0f0ad3` |  |
+| HoNi | [HoNi](https://data.orchid-project.org/compounds/HoNi.html) | -45 kJ/mol-atom | 298.15 | model | -45.179 (mp-aaaaarop) | -45.907 (oqmd-18379) | [1] Kardellass 2015; _cites de Boer FR 1989_ | Table 3, p. 4, row 10; `ORC-2CHTIF7I25.3d676d` |  |
+| HoNi | [HoNi](https://data.orchid-project.org/compounds/HoNi.html) | -41.7 kJ/mol-atom ± 1.4 | 1476 | experimental | -45.179 (mp-aaaaarop) | -45.907 (oqmd-18379) | [1] Kardellass 2015; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900509-x) | Table 3, p. 4, row 11; `ORC-45RKMHXPOP.7fe6a3` |  |
+| HoNi2 | [HoNi2](https://data.orchid-project.org/compounds/HoNi2.html) | -47.5 kJ/mol-atom | 298.15 | model | -44.81 (mp-aaaaaazx) | -44.977 (oqmd-17463) | [1] Kardellass 2015 | Table 3, p. 4, row 16; `ORC-EGNRTAMU57.949741` |  |
+| HoNi2 | [HoNi2](https://data.orchid-project.org/compounds/HoNi2.html) | -45 kJ/mol-atom | 298.15 | model | -44.81 (mp-aaaaaazx) | -44.977 (oqmd-17463) | [1] Kardellass 2015; _cites de Boer FR 1989_ | Table 3, p. 4, row 15; `ORC-7JFP5JEQBC.29cd02` |  |
+| HoNi2 | [HoNi2](https://data.orchid-project.org/compounds/HoNi2.html) | -45 kJ/mol-atom | 298.15 | model | -44.81 (mp-aaaaaazx) | -44.977 (oqmd-17463) | [1] Kardellass 2015; _cites Kayzel 1995_ | Table 3, p. 4, row 18; `ORC-7PEHHCQ4W2.cee686` |  |
+| HoNi2 | [HoNi2](https://data.orchid-project.org/compounds/HoNi2.html) | -42.67 kJ/mol-atom | 298.15 | model | -44.81 (mp-aaaaaazx) | -44.977 (oqmd-17463) | [1] Kardellass 2015 | Table 3, p. 4, row 17; `ORC-PEMOQUEAL5.6a50d4` |  |
+| HoNi3 | [HoNi3](https://data.orchid-project.org/compounds/HoNi3.html) | -42.5 kJ/mol-atom | 298.15 | model | -41.055 (mp-aaaaadao) | -41.425 (oqmd-19842) | [1] Kardellass 2015 | Table 3, p. 4, row 20; `ORC-3V5AG6DYXO.0db808` |  |
+| HoNi3 | [HoNi3](https://data.orchid-project.org/compounds/HoNi3.html) | -40.01 kJ/mol-atom | 298.15 | model | -41.055 (mp-aaaaadao) | -41.425 (oqmd-19842) | [1] Kardellass 2015 | Table 3, p. 4, row 21; `ORC-Q3DAXC6QZG.123a29` |  |
+| HoNi3 | [HoNi3](https://data.orchid-project.org/compounds/HoNi3.html) | -37 kJ/mol-atom | 298.15 | model | -41.055 (mp-aaaaadao) | -41.425 (oqmd-19842) | [1] Kardellass 2015; _cites de Boer FR 1989_ | Table 3, p. 4, row 19; `ORC-7SH5L67NG5.23ce05` |  |
+| HoNi3 | [HoNi3](https://data.orchid-project.org/compounds/HoNi3.html) | -37 kJ/mol-atom | 298.15 | model | -41.055 (mp-aaaaadao) | -41.425 (oqmd-19842) | [1] Kardellass 2015; _cites Kayzel 1995_ | Table 3, p. 4, row 22; `ORC-XJ4N6N5DMP.8e8a22` |  |
+| HoNi5 | [HoNi5](https://data.orchid-project.org/compounds/HoNi5.html) | -35.49 kJ/mol-atom ± 0.04 | 1476 | experimental | -32.138 (mp-aaaaacht) | -32.728 (oqmd-17464) | [1] Kardellass 2015; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900509-x) | Table 3, p. 4, row 29; `ORC-OMEEBS7VNA.70d585` |  |
+| HoNi5 | [HoNi5](https://data.orchid-project.org/compounds/HoNi5.html) | -34.04 kJ/mol-atom | 298.15 | model | -32.138 (mp-aaaaacht) | -32.728 (oqmd-17464) | [1] Kardellass 2015 | Table 3, p. 4, row 30; `ORC-JDP33X5EGQ.04513d` |  |
+| HoNi5 | [HoNi5](https://data.orchid-project.org/compounds/HoNi5.html) | -29.9 kJ/mol-atom ± 0.8 | 1474 | experimental | -32.138 (mp-aaaaacht) | -32.728 (oqmd-17464) | [1] Kardellass 2015; _cites Pot 1993_ | Table 3, p. 4, row 28; `ORC-UTYLURSU47.0df886` |  |
+| HoNi5 | [HoNi5](https://data.orchid-project.org/compounds/HoNi5.html) | -26 kJ/mol-atom | 298.15 | model | -32.138 (mp-aaaaacht) | -32.728 (oqmd-17464) | [1] Kardellass 2015; _cites de Boer FR 1989_ | Table 3, p. 4, row 27; `ORC-F3DNY7EVJE.3073d2` |  |
+| Ni17Ho2 | [Ho2Ni17](https://data.orchid-project.org/compounds/Ho2Ni17.html) | -21.33 kJ/mol-atom | 298.15 | model | -19.799 (mp-aaacqkjz) | -20.143 (oqmd-30551) | [3] Kardellass 2016; _cites Kardellass 2015_ [doi](https://doi.org/10.1007/s10973-014-4189-1) | Table 4, p. 7, row 2; `ORC-5MH6AGPYFB.48da02` |  |
+| Ni2Ho | [HoNi2](https://data.orchid-project.org/compounds/HoNi2.html) | -42.67 kJ/mol-atom | 298.15 | model | -44.81 (mp-aaaaaazx) | -44.977 (oqmd-17463) | [3] Kardellass 2016; _cites Kardellass 2015_ [doi](https://doi.org/10.1007/s10973-014-4189-1) | Table 4, p. 7, row 9; `ORC-6XXUWSIKZE.0cd33e` |  |
+| Ni5Ho | [HoNi5](https://data.orchid-project.org/compounds/HoNi5.html) | -34.04 kJ/mol-atom | 298.15 | model | -32.138 (mp-aaaaacht) | -32.728 (oqmd-17464) | [3] Kardellass 2016; _cites Kardellass 2015_ [doi](https://doi.org/10.1007/s10973-014-4189-1) | Table 4, p. 7, row 5; `ORC-CK7FAJ7YVX.cfbece` |  |
+| NiHo | [HoNi](https://data.orchid-project.org/compounds/HoNi.html) | -48.23 kJ/mol-atom | 298.15 | model | -45.179 (mp-aaaaarop) | -45.907 (oqmd-18379) | [3] Kardellass 2016; _cites Kardellass 2015_ [doi](https://doi.org/10.1007/s10973-014-4189-1) | Table 4, p. 7, row 13; `ORC-RRZYT2JSOR.ba40d6` |  |
 
 ## Other properties
 
@@ -227,28 +227,28 @@ Table: Phase transition, Ho–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1030.2 K | 1030.2 | polymorphic: Ho3Ni2_HT -> Ho3Ni2_LT; _Ho3Ni2_HT: Ni 0.4; Ho3Ni2_LT: Ni 0.4_ | model | [2] Ye 2023 | Table 10, p. 22, row 10 |  |
-| Phase transition | 1031 K | 1031 | polymorphic: Ho3Ni2_HT -> Ho3Ni2_LT; _Ho3Ni2_HT: Ni 0.4; Ho3Ni2_LT: Ni 0.4_ | model | [2] Ye 2023; _cites ref. 40_ | Table 10, p. 22, row 8 |  |
-| Phase transition | 1031.15 K | 1031.15 | Ho3Ni2_HT -> Ho3Ni2_LT; _Ho3Ni2_HT: Ni 0.4; Ho3Ni2_LT: Ni 0.4_ | model | [1] Kardellass 2015 | Table 6, p. 7, row 8 |  |
-| Phase transition | 1033 K | 1033 | polymorphic: Ho3Ni2_HT -> Ho3Ni2_LT; _Ho3Ni2_HT: Ni 0.4; Ho3Ni2_LT: Ni 0.4_ | experimental | [2] Ye 2023; _cites ref. 45_ | Table 10, p. 22, row 9 |  |
-| Phase transition | 1033.15 K | 1033.15 | Ho3Ni2_HT -> Ho3Ni2_LT; _Ho3Ni2_HT: Ni 0.4; Ho3Ni2_LT: Ni 0.4_ | experimental | [1] Kardellass 2015 | Table 6, p. 7, row 7 |  |
-| Phase transition | 1033.15 K | 1033.15 | polymorphic: Ho3Ni2_LT $ Ho3Ni2_HT | experimental | [1] Kardellass 2015 | p. 2 | “The polymorphic transformation Ho3Ni2_LT $ Ho3Ni2_HT occurs at 760 C.” |
-| Phase transition | 1033.15 K | 1033.15 | polymorphic: Ho3Ni2_LT $ Ho3Ni2_HT | model | [1] Kardellass 2015 | p. 6 | “The allotropic transition of Ho3Ni2_LT $ Ho3Ni2_HT is well calculated at 760 C.” |
-| Phase transition | 1248.15 K | 1248.15 | Liq $ HoNi ? HoNi2 | experimental | [1] Kardellass 2015 | p. 6 | “However, one exception is noted, for the invariant reaction Liq $ HoNi ? HoNi2 which is calculated at 1,049 C instead of 975 C (the experimental data), see Table 6 which compares the temperature and the composition in at% Ni of the involved phases in the different reactions.” |
-| Phase transition | 1322.15 K | 1322.15 | Liq $ HoNi ? HoNi2 | model | [1] Kardellass 2015 | p. 6 | “However, one exception is noted, for the invariant reaction Liq $ HoNi ? HoNi2 which is calculated at 1,049 C instead of 975 C (the experimental data), see Table 6 which compares the temperature and the composition in at% Ni of the involved phases in the different reactions.” |
-| Phase transition | 1333 K | 1333 | congruent melting: L -> HoNi; _L: Ni 0.5; HoNi: Ni 0.5_ | model | [2] Ye 2023; _cites ref. 40_ | Table 10, p. 22, row 14 |  |
-| Phase transition | 1333 K | 1333 | congruent melting: L -> HoNi; _L: Ni 0.5; HoNi: Ni 0.5_ | experimental | [2] Ye 2023; _cites ref. 45_ | Table 10, p. 22, row 15 |  |
-| Phase transition | 1333.15 K | 1333.15 | L -> HoNi; _L: Ni 0.5; HoNi: Ni 0.5_ | model | [1] Kardellass 2015 | Table 6, p. 7, row 14 |  |
-| Phase transition | 1333.15 K | 1333.15 | L -> HoNi; _L: Ni 0.5; HoNi: Ni 0.5_ | experimental | [1] Kardellass 2015 | Table 6, p. 7, row 13 |  |
-| Phase transition | 1338 K | 1338 | congruent melting: L -> HoNi; _L: Ni 0.5; HoNi: Ni 0.5_ | model | [2] Ye 2023 | Table 10, p. 22, row 16 |  |
-| Phase transition | 1638.2 K | 1638.2 | congruent melting: L -> HoNi5; _L: Ni 0.833; HoNi5: Ni 0.833333_ | model | [2] Ye 2023 | Table 10, p. 22, row 31 |  |
-| Phase transition | 1643 K | 1643 | congruent melting: L -> HoNi5; _L: Ni 0.833; HoNi5: Ni 0.833333_ | experimental | [2] Ye 2023; _cites ref. 45_ | Table 10, p. 22, row 30 |  |
-| Phase transition | 1643 K | 1643 | congruent melting: L -> HoNi5; _L: Ni 0.833; HoNi5: Ni 0.833333_ | model | [2] Ye 2023; _cites ref. 40_ | Table 10, p. 22, row 29 |  |
-| Phase transition | 1643.15 K | 1643.15 | L -> HoNi5; _L: Ni 0.833; HoNi5: Ni 0.833_ | experimental | [1] Kardellass 2015 | Table 6, p. 7, row 23 |  |
-| Phase transition | 1643.15 K | 1643.15 | L -> HoNi5; _L: Ni 0.833; HoNi5: Ni 0.833_ | model | [1] Kardellass 2015 | Table 6, p. 7, row 24 |  |
-| Phase transition | 1643.15 K | 1643.15 | congruent transformation | experimental | [1] Kardellass 2015 | p. 2 | “Two congruent meltings for HoNi and HoNi5 at 1,060 and 1,370 C.” |
-| Phase transition | 1747.15 K | 1747.15 | L -> (Ho); _L: Ni 0; (Ho): Ni 0_ | model | [1] Kardellass 2015 | Table 6, p. 7, row 2 |  |
-| Phase transition | 1747.15 K | 1747.15 | L -> (Ho); _L: Ni 0; (Ho): Ni 0_ | experimental | [1] Kardellass 2015 | Table 6, p. 7, row 1 |  |
+| Phase transition | 1030.2 K | 1030.2 | polymorphic: Ho3Ni2_HT -> Ho3Ni2_LT; _Ho3Ni2_HT: Ni 0.4; Ho3Ni2_LT: Ni 0.4_ | model | [2] Ye 2023 | Table 10, p. 22, row 10; `ORC-JTD7USR7KI` |  |
+| Phase transition | 1031 K | 1031 | polymorphic: Ho3Ni2_HT -> Ho3Ni2_LT; _Ho3Ni2_HT: Ni 0.4; Ho3Ni2_LT: Ni 0.4_ | model | [2] Ye 2023; _cites ref. 40_ | Table 10, p. 22, row 8; `ORC-AFVQWOPLZZ` |  |
+| Phase transition | 1031.15 K | 1031.15 | Ho3Ni2_HT -> Ho3Ni2_LT; _Ho3Ni2_HT: Ni 0.4; Ho3Ni2_LT: Ni 0.4_ | model | [1] Kardellass 2015 | Table 6, p. 7, row 8; `ORC-G2E2U6M332` |  |
+| Phase transition | 1033 K | 1033 | polymorphic: Ho3Ni2_HT -> Ho3Ni2_LT; _Ho3Ni2_HT: Ni 0.4; Ho3Ni2_LT: Ni 0.4_ | experimental | [2] Ye 2023; _cites ref. 45_ | Table 10, p. 22, row 9; `ORC-ILKEBSJKX7` |  |
+| Phase transition | 1033.15 K | 1033.15 | Ho3Ni2_HT -> Ho3Ni2_LT; _Ho3Ni2_HT: Ni 0.4; Ho3Ni2_LT: Ni 0.4_ | experimental | [1] Kardellass 2015 | Table 6, p. 7, row 7; `ORC-RB4OPWP7U4` |  |
+| Phase transition | 1033.15 K | 1033.15 | polymorphic: Ho3Ni2_LT $ Ho3Ni2_HT | experimental | [1] Kardellass 2015 | p. 2; `ORC-P237ICTZLF` | “The polymorphic transformation Ho3Ni2_LT $ Ho3Ni2_HT occurs at 760 C.” |
+| Phase transition | 1033.15 K | 1033.15 | polymorphic: Ho3Ni2_LT $ Ho3Ni2_HT | model | [1] Kardellass 2015 | p. 6; `ORC-W6CH6XMAKH` | “The allotropic transition of Ho3Ni2_LT $ Ho3Ni2_HT is well calculated at 760 C.” |
+| Phase transition | 1248.15 K | 1248.15 | Liq $ HoNi ? HoNi2 | experimental | [1] Kardellass 2015 | p. 6; `ORC-GBEFWACGUF.178137` | “However, one exception is noted, for the invariant reaction Liq $ HoNi ? HoNi2 which is calculated at 1,049 C instead of 975 C (the experimental data), see Table 6 which compares the temperature and the composition in at% Ni of the involved phases in the different reactions.” |
+| Phase transition | 1322.15 K | 1322.15 | Liq $ HoNi ? HoNi2 | model | [1] Kardellass 2015 | p. 6; `ORC-GBEFWACGUF.8d4dad` | “However, one exception is noted, for the invariant reaction Liq $ HoNi ? HoNi2 which is calculated at 1,049 C instead of 975 C (the experimental data), see Table 6 which compares the temperature and the composition in at% Ni of the involved phases in the different reactions.” |
+| Phase transition | 1333 K | 1333 | congruent melting: L -> HoNi; _L: Ni 0.5; HoNi: Ni 0.5_ | model | [2] Ye 2023; _cites ref. 40_ | Table 10, p. 22, row 14; `ORC-HLWWJ5T54U` |  |
+| Phase transition | 1333 K | 1333 | congruent melting: L -> HoNi; _L: Ni 0.5; HoNi: Ni 0.5_ | experimental | [2] Ye 2023; _cites ref. 45_ | Table 10, p. 22, row 15; `ORC-LA6WUJRIYQ` |  |
+| Phase transition | 1333.15 K | 1333.15 | L -> HoNi; _L: Ni 0.5; HoNi: Ni 0.5_ | model | [1] Kardellass 2015 | Table 6, p. 7, row 14; `ORC-F6AZZMMHZT` |  |
+| Phase transition | 1333.15 K | 1333.15 | L -> HoNi; _L: Ni 0.5; HoNi: Ni 0.5_ | experimental | [1] Kardellass 2015 | Table 6, p. 7, row 13; `ORC-S6K52JV7JH` |  |
+| Phase transition | 1338 K | 1338 | congruent melting: L -> HoNi; _L: Ni 0.5; HoNi: Ni 0.5_ | model | [2] Ye 2023 | Table 10, p. 22, row 16; `ORC-JNJVPW7JZF` |  |
+| Phase transition | 1638.2 K | 1638.2 | congruent melting: L -> HoNi5; _L: Ni 0.833; HoNi5: Ni 0.833333_ | model | [2] Ye 2023 | Table 10, p. 22, row 31; `ORC-EKHOU5SWZY` |  |
+| Phase transition | 1643 K | 1643 | congruent melting: L -> HoNi5; _L: Ni 0.833; HoNi5: Ni 0.833333_ | experimental | [2] Ye 2023; _cites ref. 45_ | Table 10, p. 22, row 30; `ORC-57ABHHNF5B` |  |
+| Phase transition | 1643 K | 1643 | congruent melting: L -> HoNi5; _L: Ni 0.833; HoNi5: Ni 0.833333_ | model | [2] Ye 2023; _cites ref. 40_ | Table 10, p. 22, row 29; `ORC-BWEC2S5VQV` |  |
+| Phase transition | 1643.15 K | 1643.15 | L -> HoNi5; _L: Ni 0.833; HoNi5: Ni 0.833_ | experimental | [1] Kardellass 2015 | Table 6, p. 7, row 23; `ORC-AT53YUOWPL` |  |
+| Phase transition | 1643.15 K | 1643.15 | L -> HoNi5; _L: Ni 0.833; HoNi5: Ni 0.833_ | model | [1] Kardellass 2015 | Table 6, p. 7, row 24; `ORC-BAT2HY6TSN` |  |
+| Phase transition | 1643.15 K | 1643.15 | congruent transformation | experimental | [1] Kardellass 2015 | p. 2; `ORC-RD4LY252ZK` | “Two congruent meltings for HoNi and HoNi5 at 1,060 and 1,370 C.” |
+| Phase transition | 1747.15 K | 1747.15 | L -> (Ho); _L: Ni 0; (Ho): Ni 0_ | model | [1] Kardellass 2015 | Table 6, p. 7, row 2; `ORC-JXSRGN4VIV` |  |
+| Phase transition | 1747.15 K | 1747.15 | L -> (Ho); _L: Ni 0; (Ho): Ni 0_ | experimental | [1] Kardellass 2015 | Table 6, p. 7, row 1; `ORC-YRYOWDCEKD` |  |
 
 ### Heat capacity / entropy / enthalpy (22)
 
@@ -256,28 +256,28 @@ Table: Heat capacity / entropy / enthalpy, Ho–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: Entropy of formation_ | 33.56 J/mol-atom/K | 298.15 | Ho2Ni17; _alloy: Ni 0.894737_ | model | [1] Kardellass 2015 | Table 3, p. 4, row 33 |  |
-| Entropy; _printed: Entropy of formation_ | 36.3 J/mol-atom/K | 298.15 | Ho2Ni7; _alloy: Ni 0.777778_ | model | [1] Kardellass 2015 | Table 3, p. 4, row 25 |  |
-| Entropy; _printed: Entropy of formation_ | 59.24 J/mol-atom/K | 298.15 | Ho3Ni; _alloy: Ni 0.25_ | model | [1] Kardellass 2015 | Table 3, p. 4, row 3 |  |
-| Entropy; _printed: Entropy of formation_ | 63.25 J/mol-atom/K | 298.15 | Ho3Ni2_HT; _alloy: Ni 0.4_ | model | [1] Kardellass 2015 | Table 3, p. 4, row 9 |  |
-| Entropy; _printed: Entropy of formation_ | 53.31 J/mol-atom/K | 298.15 | Ho3Ni2_LT; _alloy: Ni 0.4_ | model | [1] Kardellass 2015 | Table 3, p. 4, row 7 |  |
-| Entropy; _printed: Entropy of formation_ | 46.21 J/mol-atom/K | 298.15 | HoNi; _alloy: Ni 0.5_ | model | [1] Kardellass 2015 | Table 3, p. 4, row 14 |  |
-| Entropy; _printed: Entropy of formation_ | 42.32 J/mol-atom/K | 298.15 | HoNi2; _alloy: Ni 0.666667_ | model | [1] Kardellass 2015 | Table 3, p. 4, row 17 |  |
-| Entropy; _printed: Entropy of formation_ | 38.16 J/mol-atom/K | 298.15 | HoNi3; _alloy: Ni 0.75_ | model | [1] Kardellass 2015 | Table 3, p. 4, row 21 |  |
-| Entropy; _printed: Entropy of formation_ | 34.27 J/mol-atom/K | 298.15 | HoNi5; _alloy: Ni 0.833333_ | model | [1] Kardellass 2015 | Table 3, p. 4, row 30 |  |
-| Entropy; _printed: Entropies of formation_ | 33.56 J/mol-atom/K | 298.15 | Ni17Ho2; _alloy: Ho 0.105263, Ni 0.894737_ | model | [3] Kardellass 2016; _cites Kardellass 2015_ [doi](https://doi.org/10.1007/s10973-014-4189-1) | Table 4, p. 7, row 2 |  |
-| Entropy; _printed: Entropies of formation_ | 42.32 J/mol-atom/K | 298.15 | Ni2Ho; _alloy: Ho 0.333333, Ni 0.666667_ | model | [3] Kardellass 2016; _cites Kardellass 2015_ [doi](https://doi.org/10.1007/s10973-014-4189-1) | Table 4, p. 7, row 9 |  |
-| Entropy; _printed: Entropies of formation_ | 34.27 J/mol-atom/K | 298.15 | Ni5Ho; _alloy: Ho 0.166667, Ni 0.833333_ | model | [3] Kardellass 2016; _cites Kardellass 2015_ [doi](https://doi.org/10.1007/s10973-014-4189-1) | Table 4, p. 7, row 5 |  |
-| Entropy; _printed: Entropies of formation_ | 46.21 J/mol-atom/K | 298.15 | NiHo; _alloy: Ho 0.5, Ni 0.5_ | model | [3] Kardellass 2016; _cites Kardellass 2015_ [doi](https://doi.org/10.1007/s10973-014-4189-1) | Table 4, p. 7, row 13 |  |
-| Heat capacity | 25.21 J/mol-atom/K | 298.15 | Ho2Ni17; _alloy: Ni 0.894737_ | model | [1] Kardellass 2015 | Table 3, p. 4, row 33 |  |
-| Heat capacity | 25.46 J/mol-atom/K | 298.15 | Ho2Ni7; _alloy: Ni 0.777778_ | model | [1] Kardellass 2015 | Table 3, p. 4, row 25 |  |
-| Heat capacity | 26.61 J/mol-atom/K | 298.15 | Ho3Ni; _alloy: Ni 0.25_ | model | [1] Kardellass 2015 | Table 3, p. 4, row 3 |  |
-| Heat capacity | 25.85 J/mol-atom/K | 298.15 | Ho3Ni2_HT; _alloy: Ni 0.4_ | model | [1] Kardellass 2015 | Table 3, p. 4, row 9 |  |
-| Heat capacity | 26.28 J/mol-atom/K | 298.15 | Ho3Ni2_LT; _alloy: Ni 0.4_ | model | [1] Kardellass 2015 | Table 3, p. 4, row 7 |  |
-| Heat capacity | 26.07 J/mol-atom/K | 298.15 | HoNi; _alloy: Ni 0.5_ | model | [1] Kardellass 2015 | Table 3, p. 4, row 14 |  |
-| Heat capacity | 25.71 J/mol-atom/K | 298.15 | HoNi2; _alloy: Ni 0.666667_ | model | [1] Kardellass 2015 | Table 3, p. 4, row 17 |  |
-| Heat capacity | 25.52 J/mol-atom/K | 298.15 | HoNi3; _alloy: Ni 0.75_ | model | [1] Kardellass 2015 | Table 3, p. 4, row 21 |  |
-| Heat capacity | 25.34 J/mol-atom/K | 298.15 | HoNi5; _alloy: Ni 0.833333_ | model | [1] Kardellass 2015 | Table 3, p. 4, row 30 |  |
+| Entropy; _printed: Entropy of formation_ | 33.56 J/mol-atom/K | 298.15 | Ho2Ni17; _alloy: Ni 0.894737_ | model | [1] Kardellass 2015 | Table 3, p. 4, row 33; `ORC-4EKSADAPCN.662190` |  |
+| Entropy; _printed: Entropy of formation_ | 36.3 J/mol-atom/K | 298.15 | Ho2Ni7; _alloy: Ni 0.777778_ | model | [1] Kardellass 2015 | Table 3, p. 4, row 25; `ORC-WVJV7M4Z6B.00ac6f` |  |
+| Entropy; _printed: Entropy of formation_ | 59.24 J/mol-atom/K | 298.15 | Ho3Ni; _alloy: Ni 0.25_ | model | [1] Kardellass 2015 | Table 3, p. 4, row 3; `ORC-PEUZNTZ35W.4e4ad4` |  |
+| Entropy; _printed: Entropy of formation_ | 63.25 J/mol-atom/K | 298.15 | Ho3Ni2_HT; _alloy: Ni 0.4_ | model | [1] Kardellass 2015 | Table 3, p. 4, row 9; `ORC-U2SOP75IJQ.49f7ea` |  |
+| Entropy; _printed: Entropy of formation_ | 53.31 J/mol-atom/K | 298.15 | Ho3Ni2_LT; _alloy: Ni 0.4_ | model | [1] Kardellass 2015 | Table 3, p. 4, row 7; `ORC-KOSAEYIXBG.3e618d` |  |
+| Entropy; _printed: Entropy of formation_ | 46.21 J/mol-atom/K | 298.15 | HoNi; _alloy: Ni 0.5_ | model | [1] Kardellass 2015 | Table 3, p. 4, row 14; `ORC-E3ZO53RNRF.1fb2a3` |  |
+| Entropy; _printed: Entropy of formation_ | 42.32 J/mol-atom/K | 298.15 | HoNi2; _alloy: Ni 0.666667_ | model | [1] Kardellass 2015 | Table 3, p. 4, row 17; `ORC-PEMOQUEAL5.9a3033` |  |
+| Entropy; _printed: Entropy of formation_ | 38.16 J/mol-atom/K | 298.15 | HoNi3; _alloy: Ni 0.75_ | model | [1] Kardellass 2015 | Table 3, p. 4, row 21; `ORC-Q3DAXC6QZG.6b2306` |  |
+| Entropy; _printed: Entropy of formation_ | 34.27 J/mol-atom/K | 298.15 | HoNi5; _alloy: Ni 0.833333_ | model | [1] Kardellass 2015 | Table 3, p. 4, row 30; `ORC-JDP33X5EGQ.05dec4` |  |
+| Entropy; _printed: Entropies of formation_ | 33.56 J/mol-atom/K | 298.15 | Ni17Ho2; _alloy: Ho 0.105263, Ni 0.894737_ | model | [3] Kardellass 2016; _cites Kardellass 2015_ [doi](https://doi.org/10.1007/s10973-014-4189-1) | Table 4, p. 7, row 2; `ORC-5MH6AGPYFB.04c0e1` |  |
+| Entropy; _printed: Entropies of formation_ | 42.32 J/mol-atom/K | 298.15 | Ni2Ho; _alloy: Ho 0.333333, Ni 0.666667_ | model | [3] Kardellass 2016; _cites Kardellass 2015_ [doi](https://doi.org/10.1007/s10973-014-4189-1) | Table 4, p. 7, row 9; `ORC-6XXUWSIKZE.105cc7` |  |
+| Entropy; _printed: Entropies of formation_ | 34.27 J/mol-atom/K | 298.15 | Ni5Ho; _alloy: Ho 0.166667, Ni 0.833333_ | model | [3] Kardellass 2016; _cites Kardellass 2015_ [doi](https://doi.org/10.1007/s10973-014-4189-1) | Table 4, p. 7, row 5; `ORC-CK7FAJ7YVX.9cdc2b` |  |
+| Entropy; _printed: Entropies of formation_ | 46.21 J/mol-atom/K | 298.15 | NiHo; _alloy: Ho 0.5, Ni 0.5_ | model | [3] Kardellass 2016; _cites Kardellass 2015_ [doi](https://doi.org/10.1007/s10973-014-4189-1) | Table 4, p. 7, row 13; `ORC-RRZYT2JSOR.dc29fa` |  |
+| Heat capacity | 25.21 J/mol-atom/K | 298.15 | Ho2Ni17; _alloy: Ni 0.894737_ | model | [1] Kardellass 2015 | Table 3, p. 4, row 33; `ORC-4EKSADAPCN.44be60` |  |
+| Heat capacity | 25.46 J/mol-atom/K | 298.15 | Ho2Ni7; _alloy: Ni 0.777778_ | model | [1] Kardellass 2015 | Table 3, p. 4, row 25; `ORC-WVJV7M4Z6B.6ad2ba` |  |
+| Heat capacity | 26.61 J/mol-atom/K | 298.15 | Ho3Ni; _alloy: Ni 0.25_ | model | [1] Kardellass 2015 | Table 3, p. 4, row 3; `ORC-PEUZNTZ35W.610016` |  |
+| Heat capacity | 25.85 J/mol-atom/K | 298.15 | Ho3Ni2_HT; _alloy: Ni 0.4_ | model | [1] Kardellass 2015 | Table 3, p. 4, row 9; `ORC-U2SOP75IJQ.06bf7c` |  |
+| Heat capacity | 26.28 J/mol-atom/K | 298.15 | Ho3Ni2_LT; _alloy: Ni 0.4_ | model | [1] Kardellass 2015 | Table 3, p. 4, row 7; `ORC-KOSAEYIXBG.b85c98` |  |
+| Heat capacity | 26.07 J/mol-atom/K | 298.15 | HoNi; _alloy: Ni 0.5_ | model | [1] Kardellass 2015 | Table 3, p. 4, row 14; `ORC-E3ZO53RNRF.2e7881` |  |
+| Heat capacity | 25.71 J/mol-atom/K | 298.15 | HoNi2; _alloy: Ni 0.666667_ | model | [1] Kardellass 2015 | Table 3, p. 4, row 17; `ORC-PEMOQUEAL5.49f19d` |  |
+| Heat capacity | 25.52 J/mol-atom/K | 298.15 | HoNi3; _alloy: Ni 0.75_ | model | [1] Kardellass 2015 | Table 3, p. 4, row 21; `ORC-Q3DAXC6QZG.5ca1d3` |  |
+| Heat capacity | 25.34 J/mol-atom/K | 298.15 | HoNi5; _alloy: Ni 0.833333_ | model | [1] Kardellass 2015 | Table 3, p. 4, row 30; `ORC-JDP33X5EGQ.5bec51` |  |
 
 ## Sources
 
@@ -344,4 +344,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

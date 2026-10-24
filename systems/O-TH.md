@@ -30,7 +30,7 @@ Table: Invariant reactions reported in the literature for the O–Th system (1)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2040 | eutectic |  | experimental | [1] Bergeron 2018 | p. 3 | “(2480 K) liquidus was followed by the thorium-thorium dioxide eutectic solidification arrest. The latter was observed in all the samples around 2040 K.” |
+| 2040 | eutectic |  | experimental | [1] Bergeron 2018 | p. 3; `ORC-RKNANTYAI6` | “(2480 K) liquidus was followed by the thorium-thorium dioxide eutectic solidification arrest. The latter was observed in all the samples around 2040 K.” |
 
 ## Other properties
 
@@ -40,20 +40,20 @@ Table: Phase transition, O–Th system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1680 K | 1680 | polymorphic: α → β; _alloy: Th 0.900901_ | experimental | [1] Bergeron 2018 | Table 2, p. 4, row 18 |  |
-| Phase transition | 1680 K | 1680 | polymorphic: α → β; _alloy: Th 0.60241_ | experimental | [1] Bergeron 2018 | Table 2, p. 4, row 12 |  |
-| Phase transition | 1700 K | 1700 | polymorphic | experimental | [1] Bergeron 2018 | p. 3 | “In the samples with lower oxygen contents, a lower temperature solid-solid transition could be observed around 1700 K attributed to the a/b thorium allotropies.” |
-| Phase transition | 1730 K | 1730 | polymorphic: α → β; _alloy: Th 0.75188_ | experimental | [1] Bergeron 2018 | Table 2, p. 4, row 15 |  |
-| Phase transition | 2040 K | 2040 | eutectic: ThO0.11; _alloy: Th 0.900901_ | experimental | [1] Bergeron 2018 | Table 2, p. 4, row 17 |  |
-| Phase transition | 2040 K | 2040 | eutectic: ThO1.22; _alloy: Th 0.45045_ | experimental | [1] Bergeron 2018 | Table 2, p. 4, row 6 |  |
-| Phase transition | 2040 K | 2040 | eutectic: ThO1.5; _alloy: Th 0.4_ | experimental | [1] Bergeron 2018 | Table 2, p. 4, row 3 |  |
-| Phase transition | 2045 K | 2045 | eutectic: ThO0.33; _alloy: Th 0.75188_ | experimental | [1] Bergeron 2018 | Table 2, p. 4, row 14 |  |
-| Phase transition | 2048 K | 2048 | eutectic: ThO; _alloy: Th 0.5_ | experimental | [1] Bergeron 2018 | Table 2, p. 4, row 9 |  |
-| Phase transition | 2048 K | 2048 | eutectic: ThO0.66; _alloy: Th 0.60241_ | experimental | [1] Bergeron 2018 | Table 2, p. 4, row 11 |  |
-| Phase transition | 3113 K | 3113 | other: ThO; _alloy: Th 0.5_ | experimental | [1] Bergeron 2018 | Table 2, p. 4, row 8 |  |
-| Phase transition | 3120 K | 3120 | other: ThO1.5; _alloy: Th 0.4_ | experimental | [1] Bergeron 2018 | Table 2, p. 4, row 2 |  |
-| Phase transition | 3160 K | 3160 | other: ThO1.22; _alloy: Th 0.45045_ | experimental | [1] Bergeron 2018 | Table 2, p. 4, row 5 |  |
-| Phase transition | 3651 K | 3651 | ThO2 | experimental | [1] Bergeron 2018; _cites Ronchi 1996_ [doi](https://doi.org/10.1016/0925-8388%2896%2902329-8) | p. 3 | “The melting point of stoichiometric ThO2 was also reported by Ronchi and Hiernaut as 3651 ± 17 K \[15\].” |
+| Phase transition | 1680 K | 1680 | polymorphic: α → β; _alloy: Th 0.900901_ | experimental | [1] Bergeron 2018 | Table 2, p. 4, row 18; `ORC-IPMUNOKP73` |  |
+| Phase transition | 1680 K | 1680 | polymorphic: α → β; _alloy: Th 0.60241_ | experimental | [1] Bergeron 2018 | Table 2, p. 4, row 12; `ORC-QIBZBYUEO3` |  |
+| Phase transition | 1700 K | 1700 | polymorphic | experimental | [1] Bergeron 2018 | p. 3; `ORC-SYS267GC62` | “In the samples with lower oxygen contents, a lower temperature solid-solid transition could be observed around 1700 K attributed to the a/b thorium allotropies.” |
+| Phase transition | 1730 K | 1730 | polymorphic: α → β; _alloy: Th 0.75188_ | experimental | [1] Bergeron 2018 | Table 2, p. 4, row 15; `ORC-XUM6PFU2KD` |  |
+| Phase transition | 2040 K | 2040 | eutectic: ThO0.11; _alloy: Th 0.900901_ | experimental | [1] Bergeron 2018 | Table 2, p. 4, row 17; `ORC-L7QEFWMWFS` |  |
+| Phase transition | 2040 K | 2040 | eutectic: ThO1.22; _alloy: Th 0.45045_ | experimental | [1] Bergeron 2018 | Table 2, p. 4, row 6; `ORC-YZO2LBQMJR` |  |
+| Phase transition | 2040 K | 2040 | eutectic: ThO1.5; _alloy: Th 0.4_ | experimental | [1] Bergeron 2018 | Table 2, p. 4, row 3; `ORC-4TPNEYCRBK` |  |
+| Phase transition | 2045 K | 2045 | eutectic: ThO0.33; _alloy: Th 0.75188_ | experimental | [1] Bergeron 2018 | Table 2, p. 4, row 14; `ORC-EA3WO7PNQS` |  |
+| Phase transition | 2048 K | 2048 | eutectic: ThO; _alloy: Th 0.5_ | experimental | [1] Bergeron 2018 | Table 2, p. 4, row 9; `ORC-IIIOYUHWUC` |  |
+| Phase transition | 2048 K | 2048 | eutectic: ThO0.66; _alloy: Th 0.60241_ | experimental | [1] Bergeron 2018 | Table 2, p. 4, row 11; `ORC-THAF56TEAX` |  |
+| Phase transition | 3113 K | 3113 | other: ThO; _alloy: Th 0.5_ | experimental | [1] Bergeron 2018 | Table 2, p. 4, row 8; `ORC-MW47HIWUST` |  |
+| Phase transition | 3120 K | 3120 | other: ThO1.5; _alloy: Th 0.4_ | experimental | [1] Bergeron 2018 | Table 2, p. 4, row 2; `ORC-DCPBPD65N2` |  |
+| Phase transition | 3160 K | 3160 | other: ThO1.22; _alloy: Th 0.45045_ | experimental | [1] Bergeron 2018 | Table 2, p. 4, row 5; `ORC-X43HNQSS7O` |  |
+| Phase transition | 3651 K | 3651 | ThO2 | experimental | [1] Bergeron 2018; _cites Ronchi 1996_ [doi](https://doi.org/10.1016/0925-8388%2896%2902329-8) | p. 3; `ORC-RNKNEMG4H5` | “The melting point of stoichiometric ThO2 was also reported by Ronchi and Hiernaut as 3651 ± 17 K \[15\].” |
 
 ### Phase equilibrium (6)
 
@@ -61,12 +61,12 @@ Table: Phase equilibrium, O–Th system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 2480 | other: ThO0.11; _liquid: Th 0.900901_ | experimental | [1] Bergeron 2018 | Table 2, p. 4, row 16 |  |
-| Phase composition |  | 2720 | other: ThO0.33; _liquid: Th 0.75188_ | experimental | [1] Bergeron 2018 | Table 2, p. 4, row 13 |  |
-| Phase composition |  | 2940 | other: ThO0.66; _liquid: Th 0.60241_ | experimental | [1] Bergeron 2018 | Table 2, p. 4, row 10 |  |
-| Phase composition |  | 3400 | other: ThO; _liquid: Th 0.5_ | experimental | [1] Bergeron 2018 | Table 2, p. 4, row 7 |  |
-| Phase composition |  | 3505 | other: ThO1.22; _liquid: Th 0.45045_ | experimental | [1] Bergeron 2018 | Table 2, p. 4, row 4 |  |
-| Phase composition |  | 3535 | other: ThO1.5; _liquid: Th 0.4_ | experimental | [1] Bergeron 2018 | Table 2, p. 4, row 1 |  |
+| Phase composition |  | 2480 | other: ThO0.11; _liquid: Th 0.900901_ | experimental | [1] Bergeron 2018 | Table 2, p. 4, row 16; `ORC-5YNH7CGF25` |  |
+| Phase composition |  | 2720 | other: ThO0.33; _liquid: Th 0.75188_ | experimental | [1] Bergeron 2018 | Table 2, p. 4, row 13; `ORC-SBQWQHPDJK` |  |
+| Phase composition |  | 2940 | other: ThO0.66; _liquid: Th 0.60241_ | experimental | [1] Bergeron 2018 | Table 2, p. 4, row 10; `ORC-BDF7LIRUFK` |  |
+| Phase composition |  | 3400 | other: ThO; _liquid: Th 0.5_ | experimental | [1] Bergeron 2018 | Table 2, p. 4, row 7; `ORC-KXNCOETOOP` |  |
+| Phase composition |  | 3505 | other: ThO1.22; _liquid: Th 0.45045_ | experimental | [1] Bergeron 2018 | Table 2, p. 4, row 4; `ORC-HSP2EZROVK` |  |
+| Phase composition |  | 3535 | other: ThO1.5; _liquid: Th 0.4_ | experimental | [1] Bergeron 2018 | Table 2, p. 4, row 1; `ORC-KQUUWVMOYM` |  |
 
 ## Sources
 
@@ -120,4 +120,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

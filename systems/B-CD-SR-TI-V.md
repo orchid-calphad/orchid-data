@@ -27,23 +27,23 @@ Table: Invariant reactions reported in the literature for the B–Cd–Sr–Ti�
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2347.85 | Gas+Liquid(B) -> (βB) | Gas: Cd 1; Liquid(B): Cd 0; (βB): Cd 2.000e-4 | model | [1] Zhang 2013 | Table 4, p. 5, row 29 |  |
-| 2182.95 | Gas+Liquid(V) -> (V) | Gas: Cd 1; Liquid(V): Cd 0; (V): Cd 3.000e-5 | model | [1] Zhang 2013 | Table 4, p. 5, row 32 |  |
-| 1123.15 | Liquid+(βTi) -> Ti2Cd |  | experimental | [1] Zhang 2013; _cites Robertson 1972_ [doi](https://doi.org/10.1007/bf02643031) | Table 4, p. 5, row 20 |  |
-| 1040.75 | Gas+(βB) -> Liquid(Cd) | Gas: Cd 1; (βB): Cd 0; Liquid(Cd): Cd 0.987 | model | [1] Zhang 2013 | Table 4, p. 5, row 28 |  |
-| 873.15 | Liquid+Sr13Cd58 -> SrCd6 | Liquid: Cd 0.8571; Sr13Cd58: Cd 0.8169; SrCd6: Cd 0.8571; L: Cd 0.8571 | experimental | [1] Zhang 2013; _cites Koster 1965_ | Table 4, p. 5, row 5 |  |
-| 872.75 | Liquid -> Sr13Cd58+SrCd2 | Liquid: Cd 0.7738; Sr13Cd58: Cd 0.8169; SrCd2: Cd 0.6667; L: Cd 0.7738 | model | [1] Zhang 2013 | Table 4, p. 5, row 10 |  |
-| 871.15 | Liquid+Sr13Cd58 -> SrCd6 | Liquid: Cd 0.8573; Sr13Cd58: Cd 0.8169; SrCd6: Cd 0.8571; L: Cd 0.8573 | model | [1] Zhang 2013 | Table 4, p. 5, row 6 |  |
-| 870.15 | Liquid -> Sr13Cd58+SrCd2 | Liquid: Cd 0.765; Sr13Cd58: Cd 0.8169; SrCd2: Cd 0.6667; L: Cd 0.765 | experimental | [1] Zhang 2013; _cites Koster 1965_ | Table 4, p. 5, row 9 |  |
-| 853.15 | Liquid+SrCd2 -> SrCd | Liquid: Cd 0.5; SrCd2: Cd 0.6667; SrCd: Cd 0.5; L: Cd 0.5 | experimental | [1] Zhang 2013; _cites Koster 1965_ | Table 4, p. 5, row 13 |  |
-| 848.75 | Liquid+SrCd2 -> SrCd | Liquid: Cd 0.4998; SrCd2: Cd 0.6667; SrCd: Cd 0.5; L: Cd 0.4998 | model | [1] Zhang 2013 | Table 4, p. 5, row 14 |  |
-| 804.15 | Liquid+SrCd6 -> SrCd11 | Liquid: Cd 0.9167; SrCd6: Cd 0.8571; SrCd11: Cd 0.9167; L: Cd 0.9167 | experimental | [1] Zhang 2013; _cites Koster 1965_ | Table 4, p. 5, row 3 |  |
-| 804.05 | Liquid+SrCd6 -> SrCd11 | Liquid: Cd 0.9169; SrCd6: Cd 0.8571; SrCd11: Cd 0.9167; L: Cd 0.9169 | model | [1] Zhang 2013 | Table 4, p. 5, row 4 |  |
-| 714.15 | Liquid+SrCd -> Sr5Cd3 |  | experimental | [1] Zhang 2013; _cites Druska 1994_ | Table 4, p. 5, row 16 |  |
-| 703.15 | Liquid+SrCd -> Sr5Cd3 | Liquid: Cd 0.3; SrCd: Cd 0.5; Sr5Cd3: Cd 0.375; L: Cd 0.3 | experimental | [1] Zhang 2013; _cites Koster 1965_ | Table 4, p. 5, row 15 |  |
-| 702.75 | Liquid+SrCd -> Sr5Cd3 | Liquid: Cd 0.2629; SrCd: Cd 0.5; Sr5Cd3: Cd 0.375; L: Cd 0.2629 | model | [1] Zhang 2013 | Table 4, p. 5, row 17 |  |
-| 657.25 | Liquid -> Sr5Cd3+(αSr) | Liquid: Cd 0.1967; Sr5Cd3: Cd 0.375; (αSr): Cd 0; L: Cd 0.1967 | model | [1] Zhang 2013 | Table 4, p. 5, row 19 |  |
-| 657.15 | Liquid -> Sr5Cd3+(αSr) | Liquid: Cd 0.2; Sr5Cd3: Cd 0.375; (αSr): Cd 0; L: Cd 0.2 | experimental | [1] Zhang 2013; _cites Koster 1965_ | Table 4, p. 5, row 18 |  |
+| 2347.85 | Gas+Liquid(B) -> (βB) | Gas: Cd 1; Liquid(B): Cd 0; (βB): Cd 2.000e-4 | model | [1] Zhang 2013 | Table 4, p. 5, row 29; `ORC-6PR4QM4YGI` |  |
+| 2182.95 | Gas+Liquid(V) -> (V) | Gas: Cd 1; Liquid(V): Cd 0; (V): Cd 3.000e-5 | model | [1] Zhang 2013 | Table 4, p. 5, row 32; `ORC-CZZ65SPOQT` |  |
+| 1123.15 | Liquid+(βTi) -> Ti2Cd |  | experimental | [1] Zhang 2013; _cites Robertson 1972_ [doi](https://doi.org/10.1007/bf02643031) | Table 4, p. 5, row 20; `ORC-BE3T77IKPG` |  |
+| 1040.75 | Gas+(βB) -> Liquid(Cd) | Gas: Cd 1; (βB): Cd 0; Liquid(Cd): Cd 0.987 | model | [1] Zhang 2013 | Table 4, p. 5, row 28; `ORC-HLUY35RQ6S` |  |
+| 873.15 | Liquid+Sr13Cd58 -> SrCd6 | Liquid: Cd 0.8571; Sr13Cd58: Cd 0.8169; SrCd6: Cd 0.8571; L: Cd 0.8571 | experimental | [1] Zhang 2013; _cites Koster 1965_ | Table 4, p. 5, row 5; `ORC-ZLMVJL3D54` |  |
+| 872.75 | Liquid -> Sr13Cd58+SrCd2 | Liquid: Cd 0.7738; Sr13Cd58: Cd 0.8169; SrCd2: Cd 0.6667; L: Cd 0.7738 | model | [1] Zhang 2013 | Table 4, p. 5, row 10; `ORC-ABHKRLVFEO` |  |
+| 871.15 | Liquid+Sr13Cd58 -> SrCd6 | Liquid: Cd 0.8573; Sr13Cd58: Cd 0.8169; SrCd6: Cd 0.8571; L: Cd 0.8573 | model | [1] Zhang 2013 | Table 4, p. 5, row 6; `ORC-5FYIKQ24GZ` |  |
+| 870.15 | Liquid -> Sr13Cd58+SrCd2 | Liquid: Cd 0.765; Sr13Cd58: Cd 0.8169; SrCd2: Cd 0.6667; L: Cd 0.765 | experimental | [1] Zhang 2013; _cites Koster 1965_ | Table 4, p. 5, row 9; `ORC-OCSK7MJF2J` |  |
+| 853.15 | Liquid+SrCd2 -> SrCd | Liquid: Cd 0.5; SrCd2: Cd 0.6667; SrCd: Cd 0.5; L: Cd 0.5 | experimental | [1] Zhang 2013; _cites Koster 1965_ | Table 4, p. 5, row 13; `ORC-EH53GHGNXQ` |  |
+| 848.75 | Liquid+SrCd2 -> SrCd | Liquid: Cd 0.4998; SrCd2: Cd 0.6667; SrCd: Cd 0.5; L: Cd 0.4998 | model | [1] Zhang 2013 | Table 4, p. 5, row 14; `ORC-3OX7SK5SG3` |  |
+| 804.15 | Liquid+SrCd6 -> SrCd11 | Liquid: Cd 0.9167; SrCd6: Cd 0.8571; SrCd11: Cd 0.9167; L: Cd 0.9167 | experimental | [1] Zhang 2013; _cites Koster 1965_ | Table 4, p. 5, row 3; `ORC-3ZA3ULVHRP` |  |
+| 804.05 | Liquid+SrCd6 -> SrCd11 | Liquid: Cd 0.9169; SrCd6: Cd 0.8571; SrCd11: Cd 0.9167; L: Cd 0.9169 | model | [1] Zhang 2013 | Table 4, p. 5, row 4; `ORC-PARTFU6D3R` |  |
+| 714.15 | Liquid+SrCd -> Sr5Cd3 |  | experimental | [1] Zhang 2013; _cites Druska 1994_ | Table 4, p. 5, row 16; `ORC-YMNOSJIQC3` |  |
+| 703.15 | Liquid+SrCd -> Sr5Cd3 | Liquid: Cd 0.3; SrCd: Cd 0.5; Sr5Cd3: Cd 0.375; L: Cd 0.3 | experimental | [1] Zhang 2013; _cites Koster 1965_ | Table 4, p. 5, row 15; `ORC-UCZHJNZEON` |  |
+| 702.75 | Liquid+SrCd -> Sr5Cd3 | Liquid: Cd 0.2629; SrCd: Cd 0.5; Sr5Cd3: Cd 0.375; L: Cd 0.2629 | model | [1] Zhang 2013 | Table 4, p. 5, row 17; `ORC-34LO4ZC5AN` |  |
+| 657.25 | Liquid -> Sr5Cd3+(αSr) | Liquid: Cd 0.1967; Sr5Cd3: Cd 0.375; (αSr): Cd 0; L: Cd 0.1967 | model | [1] Zhang 2013 | Table 4, p. 5, row 19; `ORC-WULQ2YZQFR` |  |
+| 657.15 | Liquid -> Sr5Cd3+(αSr) | Liquid: Cd 0.2; Sr5Cd3: Cd 0.375; (αSr): Cd 0; L: Cd 0.2 | experimental | [1] Zhang 2013; _cites Koster 1965_ | Table 4, p. 5, row 18; `ORC-2XWHGZ6EL2` |  |
 
 ## Sources
 
@@ -86,4 +86,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

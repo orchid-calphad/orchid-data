@@ -31,16 +31,16 @@ Table: Invariant reactions reported in the literature for the Sc system (10)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1814.15 | congruent melting: L -> βSc | L: Sc 1; βSc: Sc 1 | model | [1] Liu 2008 | Table 4, p. 5, row 24 |  |
-| 1814.15 | congruent melting: L -> βSc | L: Sc 1; βSc: Sc 1 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 4, p. 5, row 23 |  |
-| 1703.15 | (βSc) -> (αSc) | (βSc): ; (αSc):  | experimental | [2] Qin 2015; _cites Eremenko 1988_ [doi](https://doi.org/10.1007/bf00794560) | Table 4, p. 5, row 15 |  |
-| 1610.15 | polymorphic: βSc -> αSc | αSc: Sc 1 | model | [3] Murray 1998 | Table 1, p. 1, row 11 |  |
-| 1610.15 | polymorphic: βSc -> αSc | αSc:  | model | [4] Spear 1990 | Table I, p. 1, row 2 |  |
-| 1610.15 | polymorphic: βSc ↔ αSc | αSc: Sc 1 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 2, p. 4, row 3 |  |
-| 1610.15 | polymorphic: βSc -> αSc | βSc: Sc 1; αSc: Sc 1 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 4, p. 5, row 25 |  |
-| 1610.15 | polymorphic: βSc ↔ αSc | αSc: Sc 1 | model | [1] Liu 2008 | Table 2, p. 4, row 4 |  |
-| 1610.15 | polymorphic: βSc -> αSc | βSc: Sc 1; αSc: Sc 1 | model | [1] Liu 2008 | Table 4, p. 5, row 26 |  |
-| 1608.15 | (βSc) -> (αSc) | (βSc): ; (αSc):  | model | [2] Qin 2015 | Table 4, p. 5, row 16 |  |
+| 1814.15 | congruent melting: L -> βSc | L: Sc 1; βSc: Sc 1 | model | [1] Liu 2008 | Table 4, p. 5, row 24; `ORC-2CLQSKJW2B` |  |
+| 1814.15 | congruent melting: L -> βSc | L: Sc 1; βSc: Sc 1 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 4, p. 5, row 23; `ORC-YBDKGEEV4B` |  |
+| 1703.15 | (βSc) -> (αSc) | (βSc): ; (αSc):  | experimental | [2] Qin 2015; _cites Eremenko 1988_ [doi](https://doi.org/10.1007/bf00794560) | Table 4, p. 5, row 15; `ORC-Q5RX4QFNY4` |  |
+| 1610.15 | polymorphic: βSc -> αSc | αSc: Sc 1 | model | [3] Murray 1998 | Table 1, p. 1, row 11; `ORC-2XA6ZNJMDD` |  |
+| 1610.15 | polymorphic: βSc -> αSc | αSc:  | model | [4] Spear 1990 | Table I, p. 1, row 2; `ORC-6KTTZVNEW6` |  |
+| 1610.15 | polymorphic: βSc ↔ αSc | αSc: Sc 1 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 2, p. 4, row 3; `ORC-JD3IMYKRV5` |  |
+| 1610.15 | polymorphic: βSc -> αSc | βSc: Sc 1; αSc: Sc 1 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 4, p. 5, row 25; `ORC-P6XKZTV5BU` |  |
+| 1610.15 | polymorphic: βSc ↔ αSc | αSc: Sc 1 | model | [1] Liu 2008 | Table 2, p. 4, row 4; `ORC-XTNSW4JFDQ` |  |
+| 1610.15 | polymorphic: βSc -> αSc | βSc: Sc 1; αSc: Sc 1 | model | [1] Liu 2008 | Table 4, p. 5, row 26; `ORC-Z57JVTBY7G` |  |
+| 1608.15 | (βSc) -> (αSc) | (βSc): ; (αSc):  | model | [2] Qin 2015 | Table 4, p. 5, row 16; `ORC-INTU5PAE5S` |  |
 
 ## Other properties
 
@@ -50,15 +50,15 @@ Table: Phase transition, Sc system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1607.15 K | 1607.15 | polymorphic: βSc \<-> αSc; _βSc: _ | experimental | [5] Wang 2009; _cites Beaudry 1963_ | Table 5, p. 5, row 4 |  |
-| Phase transition | 1610.15 K | 1610.15 | polymorphic: βSc -> αSc; _βSc: _ | experimental | [6] Liu 2009; _cites Okamoto 1991_ | Table 7, p. 6, row 3 |  |
-| Phase transition | 1610.15 K | 1610.15 | polymorphic: βSc -> αSc; _αSc: Sc 1_ | model | [6] Liu 2009 | Table 3, p. 4, row 5 |  |
-| Phase transition | 1610.15 K | 1610.15 | polymorphic: βSc -> αSc; _βSc: _ | model | [6] Liu 2009 | Table 7, p. 6, row 4 |  |
-| Phase transition | 1610.15 K | 1610.15 | polymorphic: βSc -> αSc; _αSc: _ | model | [6] Liu 2009 | Table 5, p. 5, row 14 |  |
-| Phase transition | 1610.15 K | 1610.15 | polymorphic: βSc -> αSc; _αSc: _ | experimental | [6] Liu 2009; _cites Spear 1990_ [doi](https://doi.org/10.1007/bf02843307) | Table 5, p. 5, row 13 |  |
-| Phase transition | 1610.15 K | 1610.15 | polymorphic: βSc -> αSc; _αSc: Sc 1_ | experimental | [6] Liu 2009; _cites Gschneidner 1983_ [doi](https://doi.org/10.1007/bf02868084) | Table 3, p. 4, row 4 |  |
-| Phase transition | 1610.15 K | 1610.15 | polymorphic: βSc \<-> αSc; _βSc: _ | unspecified | [5] Wang 2009; _cites Beaudry 1978_ | Table 5, p. 5, row 5 |  |
-| Phase transition | 1610.15 K | 1610.15 | polymorphic: βSc \<-> αSc; _βSc: _ | model | [5] Wang 2009 | Table 5, p. 5, row 6 |  |
+| Phase transition | 1607.15 K | 1607.15 | polymorphic: βSc \<-> αSc; _βSc: _ | experimental | [5] Wang 2009; _cites Beaudry 1963_ | Table 5, p. 5, row 4; `ORC-ESJP64UT7L` |  |
+| Phase transition | 1610.15 K | 1610.15 | polymorphic: βSc -> αSc; _βSc: _ | experimental | [6] Liu 2009; _cites Okamoto 1991_ | Table 7, p. 6, row 3; `ORC-3AXUISMXCS` |  |
+| Phase transition | 1610.15 K | 1610.15 | polymorphic: βSc -> αSc; _αSc: Sc 1_ | model | [6] Liu 2009 | Table 3, p. 4, row 5; `ORC-B2YBMHBZS3` |  |
+| Phase transition | 1610.15 K | 1610.15 | polymorphic: βSc -> αSc; _βSc: _ | model | [6] Liu 2009 | Table 7, p. 6, row 4; `ORC-I44TJEZN5W` |  |
+| Phase transition | 1610.15 K | 1610.15 | polymorphic: βSc -> αSc; _αSc: _ | model | [6] Liu 2009 | Table 5, p. 5, row 14; `ORC-LTAJWZBQB3` |  |
+| Phase transition | 1610.15 K | 1610.15 | polymorphic: βSc -> αSc; _αSc: _ | experimental | [6] Liu 2009; _cites Spear 1990_ [doi](https://doi.org/10.1007/bf02843307) | Table 5, p. 5, row 13; `ORC-MHY6R47UMR` |  |
+| Phase transition | 1610.15 K | 1610.15 | polymorphic: βSc -> αSc; _αSc: Sc 1_ | experimental | [6] Liu 2009; _cites Gschneidner 1983_ [doi](https://doi.org/10.1007/bf02868084) | Table 3, p. 4, row 4; `ORC-XRW3EGFDAO` |  |
+| Phase transition | 1610.15 K | 1610.15 | polymorphic: βSc \<-> αSc; _βSc: _ | unspecified | [5] Wang 2009; _cites Beaudry 1978_ | Table 5, p. 5, row 5; `ORC-IXE33L3DXJ` |  |
+| Phase transition | 1610.15 K | 1610.15 | polymorphic: βSc \<-> αSc; _βSc: _ | model | [5] Wang 2009 | Table 5, p. 5, row 6; `ORC-YLGMTE36LM` |  |
 
 ### Crystal structure (23)
 
@@ -66,29 +66,29 @@ Table: Crystal structure, Sc system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 3.3082 Å | 0 | (αSc); _alloy: Sc 1_ | DFT | [7] Cheng 2012 | Table 3, p. 3, row 3 |  |
-| Lattice a | 3.296 Å | 298.15 | (αSc); _(αSc): Sc 1; (ɑSc): Sc 1_ | experimental | [8] Cao 2014; _cites Semenova 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900467-2) | Table 2, p. 3, row 1 |  |
-| Lattice a | 4.73 Å | 298.15 | (βSc); _(βSc): Sc 1_ | experimental | [8] Cao 2014; _cites Semenova 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900467-2) | Table 2, p. 3, row 4 |  |
-| Lattice a | 3.308 Å ± 0.008 | 298.15 | UNKNOWN; _alloy: Sc 1_ | unspecified | [8] Cao 2014; _cites Saw 1983_ [doi](https://doi.org/10.1103/physrevb.27.7013) | Table 2, p. 3, row 2 |  |
-| Lattice a | 3.3088 Å | 298.15 | αSc; _αSc: Sc 1_ | unspecified | [3] Murray 1998 | Table 3, p. 1, row 7 |  |
-| Lattice a | 3.3088 Å | 298.15 | αSc; _alloy: Sc 1_ | model | [9] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 2 |  |
-| Lattice a | 3.3088 Å | 298.15 | αSc; _αSc: Sc 1_ | unspecified | [4] Spear 1990 | Table 3, p. 3, row 1 |  |
-| Lattice a | 4.541 Å | 298.15 | βSc; _βSc: Sc 1_ | unspecified | [4] Spear 1990 | Table 3, p. 3, row 2 |  |
-| Lattice a | 3.73 Å | 298.15 | βSc; _alloy: Sc 1_ | model | [9] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 3 |  |
-| Lattice a | 4.541 Å | 298.15 | βSc; _βSc: Sc 1_ | unspecified | [3] Murray 1998 | Table 3, p. 1, row 6 |  |
-| Lattice a | 3.3088 Å | 1608 (\<) | (αSc); _alloy: Sc 1_ | model | [10] Chen 2012; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 2, p. 2, row 4 |  |
-| Lattice a | 3.73 Å | 1814 (\<) | UNKNOWN; _alloy: Sc 1_ | model | [10] Chen 2012; _cites Massalski 1986_ | Table 2, p. 2, row 5 |  |
-| Lattice b | 3.3088 Å | 298.15 | αSc; _alloy: Sc 1_ | model | [9] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 2 |  |
-| Lattice b | 3.73 Å | 298.15 | βSc; _alloy: Sc 1_ | model | [9] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 3 |  |
-| Lattice c | 5.1769 Å | 0 | (αSc); _alloy: Sc 1_ | DFT | [7] Cheng 2012 | Table 3, p. 3, row 3 |  |
-| Lattice c | 5.235 Å | 298.15 | (αSc); _(αSc): Sc 1; (ɑSc): Sc 1_ | experimental | [8] Cao 2014; _cites Semenova 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900467-2) | Table 2, p. 3, row 1 |  |
-| Lattice c | 3.18 Å | 298.15 | (βSc); _(βSc): Sc 1_ | experimental | [8] Cao 2014; _cites Semenova 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900467-2) | Table 2, p. 3, row 4 |  |
-| Lattice c | 5.268 Å | 298.15 | UNKNOWN; _alloy: Sc 1_ | unspecified | [8] Cao 2014; _cites Saw 1983_ [doi](https://doi.org/10.1103/physrevb.27.7013) | Table 2, p. 3, row 2 |  |
-| Lattice c | 5.268 Å | 298.15 | αSc; _αSc: Sc 1_ | unspecified | [3] Murray 1998 | Table 3, p. 1, row 7 |  |
-| Lattice c | 5.268 Å | 298.15 | αSc; _alloy: Sc 1_ | model | [9] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 2 |  |
-| Lattice c | 5.268 Å | 298.15 | αSc; _αSc: Sc 1_ | unspecified | [4] Spear 1990 | Table 3, p. 3, row 1 |  |
-| Lattice c | 3.73 Å | 298.15 | βSc; _alloy: Sc 1_ | model | [9] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 3 |  |
-| Lattice c | 5.268 Å | 1608 (\<) | (αSc); _alloy: Sc 1_ | model | [10] Chen 2012; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 2, p. 2, row 4 |  |
+| Lattice a | 3.3082 Å | 0 | (αSc); _alloy: Sc 1_ | DFT | [7] Cheng 2012 | Table 3, p. 3, row 3; `ORC-4ESARGW2LB.1f234a` |  |
+| Lattice a | 3.296 Å | 298.15 | (αSc); _(αSc): Sc 1; (ɑSc): Sc 1_ | experimental | [8] Cao 2014; _cites Semenova 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900467-2) | Table 2, p. 3, row 1; `ORC-A7FZYFGWQH.17db59` |  |
+| Lattice a | 4.73 Å | 298.15 | (βSc); _(βSc): Sc 1_ | experimental | [8] Cao 2014; _cites Semenova 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900467-2) | Table 2, p. 3, row 4; `ORC-JVY4ZTCL6Q.c3e7c4` |  |
+| Lattice a | 3.308 Å ± 0.008 | 298.15 | UNKNOWN; _alloy: Sc 1_ | unspecified | [8] Cao 2014; _cites Saw 1983_ [doi](https://doi.org/10.1103/physrevb.27.7013) | Table 2, p. 3, row 2; `ORC-AJVJFCI5MR.74ac64` |  |
+| Lattice a | 3.3088 Å | 298.15 | αSc; _αSc: Sc 1_ | unspecified | [3] Murray 1998 | Table 3, p. 1, row 7; `ORC-AFECC2C7GF.3319fb` |  |
+| Lattice a | 3.3088 Å | 298.15 | αSc; _alloy: Sc 1_ | model | [9] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 2; `ORC-KLRC7XULPB.2c3963` |  |
+| Lattice a | 3.3088 Å | 298.15 | αSc; _αSc: Sc 1_ | unspecified | [4] Spear 1990 | Table 3, p. 3, row 1; `ORC-ZTKH7BQ7SG.54b515` |  |
+| Lattice a | 4.541 Å | 298.15 | βSc; _βSc: Sc 1_ | unspecified | [4] Spear 1990 | Table 3, p. 3, row 2; `ORC-2TOZNLV3RG` |  |
+| Lattice a | 3.73 Å | 298.15 | βSc; _alloy: Sc 1_ | model | [9] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 3; `ORC-2W5NYV34OY.db84e0` |  |
+| Lattice a | 4.541 Å | 298.15 | βSc; _βSc: Sc 1_ | unspecified | [3] Murray 1998 | Table 3, p. 1, row 6; `ORC-ESZOIW7HJY` |  |
+| Lattice a | 3.3088 Å | 1608 (\<) | (αSc); _alloy: Sc 1_ | model | [10] Chen 2012; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 2, p. 2, row 4; `ORC-MKQZJVWIY6.0c8560` |  |
+| Lattice a | 3.73 Å | 1814 (\<) | UNKNOWN; _alloy: Sc 1_ | model | [10] Chen 2012; _cites Massalski 1986_ | Table 2, p. 2, row 5; `ORC-NHU2CO6M23` |  |
+| Lattice b | 3.3088 Å | 298.15 | αSc; _alloy: Sc 1_ | model | [9] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 2; `ORC-KLRC7XULPB.0f1297` |  |
+| Lattice b | 3.73 Å | 298.15 | βSc; _alloy: Sc 1_ | model | [9] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 3; `ORC-2W5NYV34OY.e2b117` |  |
+| Lattice c | 5.1769 Å | 0 | (αSc); _alloy: Sc 1_ | DFT | [7] Cheng 2012 | Table 3, p. 3, row 3; `ORC-4ESARGW2LB.f67e44` |  |
+| Lattice c | 5.235 Å | 298.15 | (αSc); _(αSc): Sc 1; (ɑSc): Sc 1_ | experimental | [8] Cao 2014; _cites Semenova 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900467-2) | Table 2, p. 3, row 1; `ORC-A7FZYFGWQH.3172d3` |  |
+| Lattice c | 3.18 Å | 298.15 | (βSc); _(βSc): Sc 1_ | experimental | [8] Cao 2014; _cites Semenova 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900467-2) | Table 2, p. 3, row 4; `ORC-JVY4ZTCL6Q.ad0567` |  |
+| Lattice c | 5.268 Å | 298.15 | UNKNOWN; _alloy: Sc 1_ | unspecified | [8] Cao 2014; _cites Saw 1983_ [doi](https://doi.org/10.1103/physrevb.27.7013) | Table 2, p. 3, row 2; `ORC-AJVJFCI5MR.6c410c` |  |
+| Lattice c | 5.268 Å | 298.15 | αSc; _αSc: Sc 1_ | unspecified | [3] Murray 1998 | Table 3, p. 1, row 7; `ORC-AFECC2C7GF.0134e3` |  |
+| Lattice c | 5.268 Å | 298.15 | αSc; _alloy: Sc 1_ | model | [9] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 2; `ORC-KLRC7XULPB.8c3aab` |  |
+| Lattice c | 5.268 Å | 298.15 | αSc; _αSc: Sc 1_ | unspecified | [4] Spear 1990 | Table 3, p. 3, row 1; `ORC-ZTKH7BQ7SG.894d9d` |  |
+| Lattice c | 3.73 Å | 298.15 | βSc; _alloy: Sc 1_ | model | [9] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 3; `ORC-2W5NYV34OY.fa6ac6` |  |
+| Lattice c | 5.268 Å | 1608 (\<) | (αSc); _alloy: Sc 1_ | model | [10] Chen 2012; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 2, p. 2, row 4; `ORC-MKQZJVWIY6.5081e1` |  |
 
 ## Sources
 
@@ -140,4 +140,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

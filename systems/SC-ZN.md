@@ -61,20 +61,20 @@ Table: Invariant reactions reported in the literature for the Sc–Zn system (14
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1607.15 | eutectic: βSc -> Liquid+αSc | βSc: Zn 0.0016; L: Zn 0.0977; αSc: Zn 0.0014 | model | [1] Tang 2012 | Table 3, p. 6, row 1 |  |
-| 1298.15 | peritectic: Liquid+ScZn -> ScZn2 | L: Zn 0.6893; ScZn: Zn 0.5; ScZn2: Zn 0.6667 | model | [1] Tang 2012 | Table 3, p. 6, row 5 |  |
-| 1298.15 | peritectic: Liquid+ScZn -> ScZn2 | ScZn: Zn 0.5; ScZn2: Zn 0.666667 | experimental | [1] Tang 2012; _cites Palenzona 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902576-5) | Table 3, p. 6, row 4 |  |
-| 1223.15 | eutectic: liquid = ScZn+αSc |  | model | [1] Tang 2012 | p. 6 | “According to the present calculation, the computed eutectic reaction: liquid = ScZn+αSc is located at 950 oC and 77.45 at.% Sc.” |
-| 1223.15 | eutectic: Liquid -> ScZn+Hcp_A3 | L: Zn 0.2455; ScZn: Zn 0.5; Hcp_A3: Zn 0.0024 | model | [1] Tang 2012 | Table 3, p. 6, row 7 |  |
-| 1223.15 | eutectic: Liquid -> ScZn+Hcp_A3 | ScZn: Zn 0.5 | experimental | [1] Tang 2012; _cites Palenzona 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902576-5) | Table 3, p. 6, row 6 |  |
-| 1093.15 | peritectic: Liquid+ScZn2 -> Sc13Zn58 | L: Zn 0.8392; ScZn2: Zn 0.6667; Sc13Zn58: Zn 0.8169 | model | [1] Tang 2012 | Table 3, p. 6, row 9 |  |
-| 1093.15 | peritectic: Liquid+ScZn2 -> Sc13Zn58 | ScZn2: Zn 0.666667; Sc13Zn58: Zn 0.816901 | experimental | [1] Tang 2012; _cites Palenzona 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902576-5) | Table 3, p. 6, row 8 |  |
-| 1088.15 | eutectic: Liquid -> Sc13Zn58+Sc3Zn17 | Sc13Zn58: Zn 0.816901; Sc3Zn17: Zn 0.85 | experimental | [1] Tang 2012; _cites Palenzona 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902576-5) | Table 3, p. 6, row 10 |  |
-| 1088.15 | eutectic: Liquid -> Sc13Zn58+Sc3Zn17 | L: Zn 0.8517; Sc13Zn58: Zn 0.8169; Sc3Zn17: Zn 0.85 | model | [1] Tang 2012 | Table 3, p. 6, row 11 |  |
-| 748.15 | peritectic: Liquid+Sc3Zn17 -> ScZn12 | Sc3Zn17: Zn 0.85; ScZn12: Zn 0.923077 | experimental | [1] Tang 2012; _cites Palenzona 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902576-5) | Table 3, p. 6, row 12 |  |
-| 748.15 | peritectic: Liquid+Sc3Zn17 -> ScZn12 | L: Zn 0.9973; Sc3Zn17: Zn 0.85; ScZn12: Zn 0.923 | model | [1] Tang 2012 | Table 3, p. 6, row 13 |  |
-| 692.15 | eutectic: Liquid -> (Zn)+ScZn12 | L: Zn 0.9997; (Zn): Zn 1; ScZn12: Zn 0.923 | model | [1] Tang 2012 | Table 3, p. 6, row 15 |  |
-| 688.15 | eutectic: Liquid -> (Zn)+ScZn12 | ScZn12: Zn 0.923077 | experimental | [1] Tang 2012; _cites Palenzona 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902576-5) | Table 3, p. 6, row 14 |  |
+| 1607.15 | eutectic: βSc -> Liquid+αSc | βSc: Zn 0.0016; L: Zn 0.0977; αSc: Zn 0.0014 | model | [1] Tang 2012 | Table 3, p. 6, row 1; `ORC-UPB2MI7EIT` |  |
+| 1298.15 | peritectic: Liquid+ScZn -> ScZn2 | L: Zn 0.6893; ScZn: Zn 0.5; ScZn2: Zn 0.6667 | model | [1] Tang 2012 | Table 3, p. 6, row 5; `ORC-ERUFYSMC4W` |  |
+| 1298.15 | peritectic: Liquid+ScZn -> ScZn2 | ScZn: Zn 0.5; ScZn2: Zn 0.666667 | experimental | [1] Tang 2012; _cites Palenzona 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902576-5) | Table 3, p. 6, row 4; `ORC-L65ZWIMIMA` |  |
+| 1223.15 | eutectic: liquid = ScZn+αSc |  | model | [1] Tang 2012 | p. 6; `ORC-6BXQXI6IQG` | “According to the present calculation, the computed eutectic reaction: liquid = ScZn+αSc is located at 950 oC and 77.45 at.% Sc.” |
+| 1223.15 | eutectic: Liquid -> ScZn+Hcp_A3 | L: Zn 0.2455; ScZn: Zn 0.5; Hcp_A3: Zn 0.0024 | model | [1] Tang 2012 | Table 3, p. 6, row 7; `ORC-CA4QR65O2Z` |  |
+| 1223.15 | eutectic: Liquid -> ScZn+Hcp_A3 | ScZn: Zn 0.5 | experimental | [1] Tang 2012; _cites Palenzona 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902576-5) | Table 3, p. 6, row 6; `ORC-COM27GRCV3` |  |
+| 1093.15 | peritectic: Liquid+ScZn2 -> Sc13Zn58 | L: Zn 0.8392; ScZn2: Zn 0.6667; Sc13Zn58: Zn 0.8169 | model | [1] Tang 2012 | Table 3, p. 6, row 9; `ORC-MAF4T4LLFW` |  |
+| 1093.15 | peritectic: Liquid+ScZn2 -> Sc13Zn58 | ScZn2: Zn 0.666667; Sc13Zn58: Zn 0.816901 | experimental | [1] Tang 2012; _cites Palenzona 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902576-5) | Table 3, p. 6, row 8; `ORC-PVC6Q7DWIV` |  |
+| 1088.15 | eutectic: Liquid -> Sc13Zn58+Sc3Zn17 | Sc13Zn58: Zn 0.816901; Sc3Zn17: Zn 0.85 | experimental | [1] Tang 2012; _cites Palenzona 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902576-5) | Table 3, p. 6, row 10; `ORC-2QBUCWL24W` |  |
+| 1088.15 | eutectic: Liquid -> Sc13Zn58+Sc3Zn17 | L: Zn 0.8517; Sc13Zn58: Zn 0.8169; Sc3Zn17: Zn 0.85 | model | [1] Tang 2012 | Table 3, p. 6, row 11; `ORC-CC75YH4FOU` |  |
+| 748.15 | peritectic: Liquid+Sc3Zn17 -> ScZn12 | Sc3Zn17: Zn 0.85; ScZn12: Zn 0.923077 | experimental | [1] Tang 2012; _cites Palenzona 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902576-5) | Table 3, p. 6, row 12; `ORC-A4KV7PTN7C` |  |
+| 748.15 | peritectic: Liquid+Sc3Zn17 -> ScZn12 | L: Zn 0.9973; Sc3Zn17: Zn 0.85; ScZn12: Zn 0.923 | model | [1] Tang 2012 | Table 3, p. 6, row 13; `ORC-DKSZD2RBNK` |  |
+| 692.15 | eutectic: Liquid -> (Zn)+ScZn12 | L: Zn 0.9997; (Zn): Zn 1; ScZn12: Zn 0.923 | model | [1] Tang 2012 | Table 3, p. 6, row 15; `ORC-HUQ5U3RP2Z` |  |
+| 688.15 | eutectic: Liquid -> (Zn)+ScZn12 | ScZn12: Zn 0.923077 | experimental | [1] Tang 2012; _cites Palenzona 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902576-5) | Table 3, p. 6, row 14; `ORC-L5EOVA7LOF` |  |
 
 ## Other properties
 
@@ -84,8 +84,8 @@ Table: Phase transition, Sc–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1503.15 K | 1503.15 | congruent melting: Liquid -> ScZn; _L: Zn 0.5; ScZn: Zn 0.5_ | experimental | [1] Tang 2012; _cites Palenzona 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902576-5) | Table 3, p. 6, row 2 |  |
-| Phase transition | 1503.15 K | 1503.15 | congruent melting: Liquid -> ScZn; _L: Zn 0.5; ScZn: Zn 0.5_ | model | [1] Tang 2012 | Table 3, p. 6, row 3 |  |
+| Phase transition | 1503.15 K | 1503.15 | congruent melting: Liquid -> ScZn; _L: Zn 0.5; ScZn: Zn 0.5_ | experimental | [1] Tang 2012; _cites Palenzona 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902576-5) | Table 3, p. 6, row 2; `ORC-WJTF7ZW7MK` |  |
+| Phase transition | 1503.15 K | 1503.15 | congruent melting: Liquid -> ScZn; _L: Zn 0.5; ScZn: Zn 0.5_ | model | [1] Tang 2012 | Table 3, p. 6, row 3; `ORC-YN6M6XGQQF` |  |
 
 ### Crystal structure (22)
 
@@ -93,28 +93,28 @@ Table: Crystal structure, Sc–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 3.308 Å |  | (αSc); _alloy: Zn 0_ | experimental | [1] Tang 2012; _cites Saw 1968_ | Table 1, p. 4, row 2 |  |
-| Lattice a | 3.318 Å | 0 | (αSc); _alloy: Zn 0_ | DFT | [1] Tang 2012 | Table 1, p. 4, row 1 |  |
-| Lattice a | 4.618 Å | 0 | (βSc); _alloy: Zn 0_ | DFT | [1] Tang 2012 | Table 1, p. 4, row 3 |  |
-| Lattice a | 4.52 Å |  | (βSc); _alloy: Zn 0_ | experimental | [1] Tang 2012; _cites Haglund 1993_ | Table 1, p. 4, row 4 |  |
-| Lattice a | 13.897 Å | 0 | Sc13Zn58; _alloy: Zn 0.816901_ | DFT | [1] Tang 2012 | Table 1, p. 4, row 13 |  |
-| Lattice a | 13.741 Å |  | Sc13Zn58; _alloy: Zn 0.816901_ | experimental | [1] Tang 2012; _cites Palenzona 1997_ | Table 1, p. 4, row 14 |  |
-| Lattice a | 13.784 Å | 0 | Sc3Zn17; _alloy: Zn 0.85_ | DFT | [1] Tang 2012 | Table 1, p. 4, row 15 |  |
-| Lattice a | 13.79 Å |  | Sc3Zn17; _alloy: Zn 0.85_ | experimental | [1] Tang 2012; _cites Kripyakevich 1966_ | Table 1, p. 4, row 16 |  |
-| Lattice a | 3.357 Å | 0 | ScZn; _alloy: Zn 0.5_ | DFT | [1] Tang 2012 | Table 1, p. 4, row 7 |  |
-| Lattice a | 3.35 Å |  | ScZn; _alloy: Zn 0.5_ | experimental | [1] Tang 2012; _cites Laune 1963_ | Table 1, p. 4, row 8 |  |
-| Lattice a | 8.806 Å |  | ScZn12; _alloy: Zn 0.923077_ | experimental | [1] Tang 2012; _cites Palenzona 1997_ | Table 1, p. 4, row 12 |  |
-| Lattice a | 8.807 Å | 0 | ScZn12; _alloy: Zn 0.923077_ | DFT | [1] Tang 2012 | Table 1, p. 4, row 11 |  |
-| Lattice a | 5.251 Å |  | ScZn2; _alloy: Zn 0.666667_ | experimental | [1] Tang 2012; _cites Xiaoyang 1996_ | Table 1, p. 4, row 10 |  |
-| Lattice a | 5.277 Å | 0 | ScZn2; _alloy: Zn 0.666667_ | DFT | [1] Tang 2012 | Table 1, p. 4, row 9 |  |
-| Lattice c | 5.265 Å |  | (αSc); _alloy: Zn 0_ | experimental | [1] Tang 2012; _cites Saw 1968_ | Table 1, p. 4, row 2 |  |
-| Lattice c | 5.154 Å | 0 | (αSc); _alloy: Zn 0_ | DFT | [1] Tang 2012 | Table 1, p. 4, row 1 |  |
-| Lattice c | 13.698 Å | 0 | Sc13Zn58; _alloy: Zn 0.816901_ | DFT | [1] Tang 2012 | Table 1, p. 4, row 13 |  |
-| Lattice c | 13.632 Å |  | Sc13Zn58; _alloy: Zn 0.816901_ | experimental | [1] Tang 2012; _cites Palenzona 1997_ | Table 1, p. 4, row 14 |  |
-| Lattice c | 5.158 Å |  | ScZn12; _alloy: Zn 0.923077_ | experimental | [1] Tang 2012; _cites Palenzona 1997_ | Table 1, p. 4, row 12 |  |
-| Lattice c | 5.181 Å | 0 | ScZn12; _alloy: Zn 0.923077_ | DFT | [1] Tang 2012 | Table 1, p. 4, row 11 |  |
-| Lattice c | 8.477 Å |  | ScZn2; _alloy: Zn 0.666667_ | experimental | [1] Tang 2012; _cites Xiaoyang 1996_ | Table 1, p. 4, row 10 |  |
-| Lattice c | 8.481 Å | 0 | ScZn2; _alloy: Zn 0.666667_ | DFT | [1] Tang 2012 | Table 1, p. 4, row 9 |  |
+| Lattice a | 3.308 Å |  | (αSc); _alloy: Zn 0_ | experimental | [1] Tang 2012; _cites Saw 1968_ | Table 1, p. 4, row 2; `ORC-IQCXAP32EF.1a4cf8` |  |
+| Lattice a | 3.318 Å | 0 | (αSc); _alloy: Zn 0_ | DFT | [1] Tang 2012 | Table 1, p. 4, row 1; `ORC-PBYPHI2OFQ.14ab4b` |  |
+| Lattice a | 4.618 Å | 0 | (βSc); _alloy: Zn 0_ | DFT | [1] Tang 2012 | Table 1, p. 4, row 3; `ORC-BVSRX4O4ZC` |  |
+| Lattice a | 4.52 Å |  | (βSc); _alloy: Zn 0_ | experimental | [1] Tang 2012; _cites Haglund 1993_ | Table 1, p. 4, row 4; `ORC-WGMIWRN2KT` |  |
+| Lattice a | 13.897 Å | 0 | Sc13Zn58; _alloy: Zn 0.816901_ | DFT | [1] Tang 2012 | Table 1, p. 4, row 13; `ORC-CH36NGJBTP.bbb175` |  |
+| Lattice a | 13.741 Å |  | Sc13Zn58; _alloy: Zn 0.816901_ | experimental | [1] Tang 2012; _cites Palenzona 1997_ | Table 1, p. 4, row 14; `ORC-CXX64R25WI.d63869` |  |
+| Lattice a | 13.784 Å | 0 | Sc3Zn17; _alloy: Zn 0.85_ | DFT | [1] Tang 2012 | Table 1, p. 4, row 15; `ORC-BITXTV7Q47` |  |
+| Lattice a | 13.79 Å |  | Sc3Zn17; _alloy: Zn 0.85_ | experimental | [1] Tang 2012; _cites Kripyakevich 1966_ | Table 1, p. 4, row 16; `ORC-HMXNSUR4B4` |  |
+| Lattice a | 3.357 Å | 0 | ScZn; _alloy: Zn 0.5_ | DFT | [1] Tang 2012 | Table 1, p. 4, row 7; `ORC-IGCHOEMJ6T` |  |
+| Lattice a | 3.35 Å |  | ScZn; _alloy: Zn 0.5_ | experimental | [1] Tang 2012; _cites Laune 1963_ | Table 1, p. 4, row 8; `ORC-WALBSXYTXO` |  |
+| Lattice a | 8.806 Å |  | ScZn12; _alloy: Zn 0.923077_ | experimental | [1] Tang 2012; _cites Palenzona 1997_ | Table 1, p. 4, row 12; `ORC-2TQAYMZEXQ.a12fe0` |  |
+| Lattice a | 8.807 Å | 0 | ScZn12; _alloy: Zn 0.923077_ | DFT | [1] Tang 2012 | Table 1, p. 4, row 11; `ORC-TZRH72Y4XE.f89e60` |  |
+| Lattice a | 5.251 Å |  | ScZn2; _alloy: Zn 0.666667_ | experimental | [1] Tang 2012; _cites Xiaoyang 1996_ | Table 1, p. 4, row 10; `ORC-BDNUTFSTK2.95a8a2` |  |
+| Lattice a | 5.277 Å | 0 | ScZn2; _alloy: Zn 0.666667_ | DFT | [1] Tang 2012 | Table 1, p. 4, row 9; `ORC-IMRBLISJU5.5798e8` |  |
+| Lattice c | 5.265 Å |  | (αSc); _alloy: Zn 0_ | experimental | [1] Tang 2012; _cites Saw 1968_ | Table 1, p. 4, row 2; `ORC-IQCXAP32EF.57c1e9` |  |
+| Lattice c | 5.154 Å | 0 | (αSc); _alloy: Zn 0_ | DFT | [1] Tang 2012 | Table 1, p. 4, row 1; `ORC-PBYPHI2OFQ.12b06b` |  |
+| Lattice c | 13.698 Å | 0 | Sc13Zn58; _alloy: Zn 0.816901_ | DFT | [1] Tang 2012 | Table 1, p. 4, row 13; `ORC-CH36NGJBTP.14a36f` |  |
+| Lattice c | 13.632 Å |  | Sc13Zn58; _alloy: Zn 0.816901_ | experimental | [1] Tang 2012; _cites Palenzona 1997_ | Table 1, p. 4, row 14; `ORC-CXX64R25WI.4c8e08` |  |
+| Lattice c | 5.158 Å |  | ScZn12; _alloy: Zn 0.923077_ | experimental | [1] Tang 2012; _cites Palenzona 1997_ | Table 1, p. 4, row 12; `ORC-2TQAYMZEXQ.9bed65` |  |
+| Lattice c | 5.181 Å | 0 | ScZn12; _alloy: Zn 0.923077_ | DFT | [1] Tang 2012 | Table 1, p. 4, row 11; `ORC-TZRH72Y4XE.8254b7` |  |
+| Lattice c | 8.477 Å |  | ScZn2; _alloy: Zn 0.666667_ | experimental | [1] Tang 2012; _cites Xiaoyang 1996_ | Table 1, p. 4, row 10; `ORC-BDNUTFSTK2.4ae50b` |  |
+| Lattice c | 8.481 Å | 0 | ScZn2; _alloy: Zn 0.666667_ | DFT | [1] Tang 2012 | Table 1, p. 4, row 9; `ORC-IMRBLISJU5.7d2bdb` |  |
 
 ## Sources
 
@@ -179,4 +179,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

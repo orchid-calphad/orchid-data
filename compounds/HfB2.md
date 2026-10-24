@@ -14,13 +14,13 @@ Table: Enthalpy of formation of HfB2 reported in the literature (7)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -117.633 kJ/mol-atom | HfB2 | 298.15 | experimental | Langmuir vaporization | [B–Hf](https://data.orchid-project.org/systems/B-HF.html) | [1] Bittermann 1997; _cites Krupka 1962_ | Table 3, p. 4, row 13 |  |
-| -109.633 kJ/mol-atom ± 2.93333 | HfB2 | 298.15 | experimental | Fluorine bomb calorimetry | [B–Hf](https://data.orchid-project.org/systems/B-HF.html) | [1] Bittermann 1997; _cites ref. 67Joh_ | Table 3, p. 4, row 15 |  |
-| -106.567 kJ/mol-atom | HfB2 | 298.15 | experimental | Langmuir vaporization | [B–Hf](https://data.orchid-project.org/systems/B-HF.html) | [1] Bittermann 1997; _cites ref. 64_ | Table 3, p. 4, row 14 |  |
-| -105.033 kJ/mol-atom | HfB2 | 298.15 | experimental | Tensimetric (reduction of HfO2 to HfB2 with B and B4C) | [B–Hf](https://data.orchid-project.org/systems/B-HF.html) | [1] Bittermann 1997; _cites Paderno 1959_ | Table 3, p. 4, row 12 |  |
-| -87.3 kJ/mol-atom ± 1.66667 | HfB2 | 298.15 | experimental | Self-sustaining high-temperature synthesis calorimetry | [B–Hf](https://data.orchid-project.org/systems/B-HF.html) | [1] Bittermann 1997; _cites Maslov 1978_ | Table 3, p. 4, row 17 |  |
-| -83.1333 kJ/mol-atom ± 1.96667 | HfB2 | 298.15 | experimental | Self-sustaining high-temperature synthesis calorimetry | [B–Hf](https://data.orchid-project.org/systems/B-HF.html) | [1] Bittermann 1997; _cites Kitpichev 1979_ | Table 3, p. 4, row 18 |  |
-| -106.567 kJ/mol-atom | HfB2 |  | model |  | [B–Hf](https://data.orchid-project.org/systems/B-HF.html) | [1] Bittermann 1997 | Table 3, p. 4, row 20 |  |
+| -117.633 kJ/mol-atom | HfB2 | 298.15 | experimental | Langmuir vaporization | [B–Hf](https://data.orchid-project.org/systems/B-HF.html) | [1] Bittermann 1997; _cites Krupka 1962_ | Table 3, p. 4, row 13; `ORC-FADPQLHUF3` |  |
+| -109.633 kJ/mol-atom ± 2.93333 | HfB2 | 298.15 | experimental | Fluorine bomb calorimetry | [B–Hf](https://data.orchid-project.org/systems/B-HF.html) | [1] Bittermann 1997; _cites ref. 67Joh_ | Table 3, p. 4, row 15; `ORC-3TNKPI5YQB` |  |
+| -106.567 kJ/mol-atom | HfB2 | 298.15 | experimental | Langmuir vaporization | [B–Hf](https://data.orchid-project.org/systems/B-HF.html) | [1] Bittermann 1997; _cites ref. 64_ | Table 3, p. 4, row 14; `ORC-2GT3C3X6RR` |  |
+| -105.033 kJ/mol-atom | HfB2 | 298.15 | experimental | Tensimetric (reduction of HfO2 to HfB2 with B and B4C) | [B–Hf](https://data.orchid-project.org/systems/B-HF.html) | [1] Bittermann 1997; _cites Paderno 1959_ | Table 3, p. 4, row 12; `ORC-HF5NC5ZLMW` |  |
+| -87.3 kJ/mol-atom ± 1.66667 | HfB2 | 298.15 | experimental | Self-sustaining high-temperature synthesis calorimetry | [B–Hf](https://data.orchid-project.org/systems/B-HF.html) | [1] Bittermann 1997; _cites Maslov 1978_ | Table 3, p. 4, row 17; `ORC-BN32W6A2PJ` |  |
+| -83.1333 kJ/mol-atom ± 1.96667 | HfB2 | 298.15 | experimental | Self-sustaining high-temperature synthesis calorimetry | [B–Hf](https://data.orchid-project.org/systems/B-HF.html) | [1] Bittermann 1997; _cites Kitpichev 1979_ | Table 3, p. 4, row 18; `ORC-JH2JYKWPWY` |  |
+| -106.567 kJ/mol-atom | HfB2 |  | model |  | [B–Hf](https://data.orchid-project.org/systems/B-HF.html) | [1] Bittermann 1997 | Table 3, p. 4, row 20; `ORC-Q4AADJ4HWS.16a4bc` |  |
 
 ### Uncertainty budget
 
@@ -102,4 +102,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

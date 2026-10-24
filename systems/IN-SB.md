@@ -71,8 +71,8 @@ Table: Invariant reactions reported in the literature for the In–Sb system (2)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 765.15 | eutectic: liquid -> InSb + Sb |  | model | [1] Gierlotka 2019; _cites Ravindra 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990006-x) | p. 3 | “The first eutectic reaction liquid M InSb + Sb is at 492 °C. and the second eutectic reaction liquid M InSb + In is at 154 °C.\[17\]” |
-| 427.15 | eutectic: liquid -> InSb + In |  | model | [1] Gierlotka 2019; _cites Ravindra 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990006-x) | p. 3 | “The first eutectic reaction liquid M InSb + Sb is at 492 °C. and the second eutectic reaction liquid M InSb + In is at 154 °C.\[17\]” |
+| 765.15 | eutectic: liquid -> InSb + Sb |  | model | [1] Gierlotka 2019; _cites Ravindra 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990006-x) | p. 3; `ORC-YNRQ4DQSZX.26a117` | “The first eutectic reaction liquid M InSb + Sb is at 492 °C. and the second eutectic reaction liquid M InSb + In is at 154 °C.\[17\]” |
+| 427.15 | eutectic: liquid -> InSb + In |  | model | [1] Gierlotka 2019; _cites Ravindra 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990006-x) | p. 3; `ORC-YNRQ4DQSZX.b81441` | “The first eutectic reaction liquid M InSb + Sb is at 492 °C. and the second eutectic reaction liquid M InSb + In is at 154 °C.\[17\]” |
 
 ## Formation enthalpies
 
@@ -82,10 +82,10 @@ Table: Enthalpies of formation, In–Sb system (4)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| InSb |  | -20.615 kJ/mol (basis unstated) | 723 | model |  |  | [2] Cao 2013 | Table V, p. 9, row 4 |  |
-| InSb |  | -18.367 kJ/mol (basis unstated) | 273 | model |  |  | [2] Cao 2013 | Table V, p. 9, row 2 |  |
-| InSb |  | -18.003 kJ/mol (basis unstated) | 723 | experimental |  |  | [2] Cao 2013; _cites Kleppa 1955_ [doi](https://doi.org/10.1021/ja01609a025) | Table V, p. 9, row 3 |  |
-| InSb |  | -14.53 kJ/mol (basis unstated) | 273 | experimental |  |  | [2] Cao 2013; _cites Schottky 1958_ [doi](https://doi.org/10.1016/0001-6160%2858%2990069-5) | Table V, p. 9, row 1 |  |
+| InSb |  | -20.615 kJ/mol (basis unstated) | 723 | model |  |  | [2] Cao 2013 | Table V, p. 9, row 4; `ORC-J23XL3YR7P` |  |
+| InSb |  | -18.367 kJ/mol (basis unstated) | 273 | model |  |  | [2] Cao 2013 | Table V, p. 9, row 2; `ORC-5U6I7MN4LT` |  |
+| InSb |  | -18.003 kJ/mol (basis unstated) | 723 | experimental |  |  | [2] Cao 2013; _cites Kleppa 1955_ [doi](https://doi.org/10.1021/ja01609a025) | Table V, p. 9, row 3; `ORC-P2IP3IATME` |  |
+| InSb |  | -14.53 kJ/mol (basis unstated) | 273 | experimental |  |  | [2] Cao 2013; _cites Schottky 1958_ [doi](https://doi.org/10.1016/0001-6160%2858%2990069-5) | Table V, p. 9, row 1; `ORC-VKAVYWJVBM` |  |
 
 ## Other properties
 
@@ -95,8 +95,8 @@ Table: Phase transition, In–Sb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 609.15 K | 609.15 | other: f + L = InSb + g | model | [2] Cao 2013 | p. 14 | “In the vertical section Ni-InSb, the liquid phase is formed at 336C according to the calculated invariant reaction U6: f + L = InSb + g.” |
-| Phase transition | 798.15 K | 798.15 | congruent transformation: InSb -> liquid | experimental | [1] Gierlotka 2019 | p. 3 | “The InSb is involved in reactions: the first invariant reaction is the congruent melting reaction of InSb, at 525 °C.” |
+| Phase transition | 609.15 K | 609.15 | other: f + L = InSb + g | model | [2] Cao 2013 | p. 14; `ORC-WEE353SBEY` | “In the vertical section Ni-InSb, the liquid phase is formed at 336C according to the calculated invariant reaction U6: f + L = InSb + g.” |
+| Phase transition | 798.15 K | 798.15 | congruent transformation: InSb -> liquid | experimental | [1] Gierlotka 2019 | p. 3; `ORC-YIEATHEBMQ.d6b161` | “The InSb is involved in reactions: the first invariant reaction is the congruent melting reaction of InSb, at 525 °C.” |
 
 ## Sources
 
@@ -162,4 +162,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

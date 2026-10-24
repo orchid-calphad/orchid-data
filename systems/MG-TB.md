@@ -57,20 +57,20 @@ Table: Invariant reactions reported in the literature for the Mg–Tb system (14
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1128 | liq. + bcc(Tb) -> MgTb | liq.: Tb 0.47; bcc(Tb): Tb 0.61; MgTb: Tb 0.5 | experimental | [1] Guo 2006; _cites Saccone 1993_ | Table 2, p. 5, row 12 |  |
-| 1128 | liq. + bcc(Tb) -> MgTb | liq.: Tb 0.4697; bcc(Tb): Tb 0.601; MgTb: Tb 0.513 | model | [1] Guo 2006 | Table 2, p. 5, row 11 |  |
-| 993 | liq. + MgTb -> Mg2Tb | liq.: Tb 0.27; MgTb: Tb 0.46; Mg2Tb: Tb 0.33 | experimental | [1] Guo 2006; _cites Saccone 1993_ | Table 2, p. 5, row 10 |  |
-| 993 | liq. + MgTb -> Mg2Tb | liq.: Tb 0.2858; MgTb: Tb 0.4723; Mg2Tb: Tb 0.3306 | model | [1] Guo 2006 | Table 2, p. 5, row 9 |  |
-| 943 | bcc(Tb) -> hcp(Tb) + MgTb | bcc(Tb): Tb 0.7559; hcp(Tb): Tb 0.8982; MgTb: Tb 0.5248 | model | [1] Guo 2006 | Table 2, p. 5, row 13 |  |
-| 943 | bcc(Tb) -> hcp(Tb) + MgTb | bcc(Tb): Tb 0.72; hcp(Tb): Tb 0.875; MgTb: Tb 0.52 | experimental | [1] Guo 2006; _cites Saccone 1993_ | Table 2, p. 5, row 14 |  |
-| 878 | liq. + Mg2Tb -> Mg3Tb | liq.: Tb 0.1701; Mg2Tb: Tb 0.3205; Mg3Tb: Tb 0.2335 | model | [1] Guo 2006 | Table 2, p. 5, row 7 |  |
-| 878 | liq. + Mg2Tb -> Mg3Tb | liq.: Tb 0.17; Mg2Tb: Tb 0.32; Mg3Tb: Tb 0.25 | experimental | [1] Guo 2006; _cites Saccone 1993_ | Table 2, p. 5, row 8 |  |
-| 828 | liq. + Mg3Tb -> Mg24Tb5 | liq.: Tb 0.12; Mg3Tb: Tb 0.22; Mg24Tb5: Mg 0.827586, Tb 0.172414 | experimental | [1] Guo 2006; _cites Saccone 1993_ | Table 2, p. 5, row 6 |  |
-| 828 | liq. + Mg3Tb -> Mg24Tb5 | liq.: Tb 0.1215; Mg3Tb: Tb 0.2103; Mg24Tb5: Mg 0.827586, Tb 0.172414 | model | [1] Guo 2006 | Table 2, p. 5, row 5 |  |
-| 818 | liq. + Mg24Tb5 -> Mg5Tb | liq.: Tb 0.105; Mg24Tb5: Mg 0.827586, Tb 0.172414; Mg5Tb: Mg 0.833333, Tb 0.166667 | experimental | [1] Guo 2006; _cites Saccone 1993_ | Table 2, p. 5, row 4 |  |
-| 818 | liq. + Mg24Tb5 -> Mg5Tb | liq.: Tb 0.1092; Mg24Tb5: Mg 0.827586, Tb 0.172414; Mg5Tb: Mg 0.833333, Tb 0.166667 | model | [1] Guo 2006 | Table 2, p. 5, row 3 |  |
-| 803 | liq. -> Mg5Tb + hcp | liq.: Tb 0.0943; Mg5Tb: Mg 0.833333, Tb 0.166667; hcp: Tb 0.0196 | model | [1] Guo 2006 | Table 2, p. 5, row 1 |  |
-| 803 | liq. -> Mg5Tb + hcp | liq.: Tb 0.095; Mg5Tb: Mg 0.833333, Tb 0.166667; hcp: Tb 0.04 | experimental | [1] Guo 2006; _cites Saccone 1993_ | Table 2, p. 5, row 2 |  |
+| 1128 | liq. + bcc(Tb) -> MgTb | liq.: Tb 0.47; bcc(Tb): Tb 0.61; MgTb: Tb 0.5 | experimental | [1] Guo 2006; _cites Saccone 1993_ | Table 2, p. 5, row 12; `ORC-IOSSIKESOZ` |  |
+| 1128 | liq. + bcc(Tb) -> MgTb | liq.: Tb 0.4697; bcc(Tb): Tb 0.601; MgTb: Tb 0.513 | model | [1] Guo 2006 | Table 2, p. 5, row 11; `ORC-WPOR6LXSQQ` |  |
+| 993 | liq. + MgTb -> Mg2Tb | liq.: Tb 0.27; MgTb: Tb 0.46; Mg2Tb: Tb 0.33 | experimental | [1] Guo 2006; _cites Saccone 1993_ | Table 2, p. 5, row 10; `ORC-PMQ5LUEFTJ` |  |
+| 993 | liq. + MgTb -> Mg2Tb | liq.: Tb 0.2858; MgTb: Tb 0.4723; Mg2Tb: Tb 0.3306 | model | [1] Guo 2006 | Table 2, p. 5, row 9; `ORC-VRXWJIYHME` |  |
+| 943 | bcc(Tb) -> hcp(Tb) + MgTb | bcc(Tb): Tb 0.7559; hcp(Tb): Tb 0.8982; MgTb: Tb 0.5248 | model | [1] Guo 2006 | Table 2, p. 5, row 13; `ORC-GEJ2CQD52B` |  |
+| 943 | bcc(Tb) -> hcp(Tb) + MgTb | bcc(Tb): Tb 0.72; hcp(Tb): Tb 0.875; MgTb: Tb 0.52 | experimental | [1] Guo 2006; _cites Saccone 1993_ | Table 2, p. 5, row 14; `ORC-Z3W5OIZLPQ` |  |
+| 878 | liq. + Mg2Tb -> Mg3Tb | liq.: Tb 0.1701; Mg2Tb: Tb 0.3205; Mg3Tb: Tb 0.2335 | model | [1] Guo 2006 | Table 2, p. 5, row 7; `ORC-RI543GA2I2` |  |
+| 878 | liq. + Mg2Tb -> Mg3Tb | liq.: Tb 0.17; Mg2Tb: Tb 0.32; Mg3Tb: Tb 0.25 | experimental | [1] Guo 2006; _cites Saccone 1993_ | Table 2, p. 5, row 8; `ORC-YNNI4UG355` |  |
+| 828 | liq. + Mg3Tb -> Mg24Tb5 | liq.: Tb 0.12; Mg3Tb: Tb 0.22; Mg24Tb5: Mg 0.827586, Tb 0.172414 | experimental | [1] Guo 2006; _cites Saccone 1993_ | Table 2, p. 5, row 6; `ORC-3BMWYPWB3E` |  |
+| 828 | liq. + Mg3Tb -> Mg24Tb5 | liq.: Tb 0.1215; Mg3Tb: Tb 0.2103; Mg24Tb5: Mg 0.827586, Tb 0.172414 | model | [1] Guo 2006 | Table 2, p. 5, row 5; `ORC-XC2JK24RGF` |  |
+| 818 | liq. + Mg24Tb5 -> Mg5Tb | liq.: Tb 0.105; Mg24Tb5: Mg 0.827586, Tb 0.172414; Mg5Tb: Mg 0.833333, Tb 0.166667 | experimental | [1] Guo 2006; _cites Saccone 1993_ | Table 2, p. 5, row 4; `ORC-FO4GA24PHK` |  |
+| 818 | liq. + Mg24Tb5 -> Mg5Tb | liq.: Tb 0.1092; Mg24Tb5: Mg 0.827586, Tb 0.172414; Mg5Tb: Mg 0.833333, Tb 0.166667 | model | [1] Guo 2006 | Table 2, p. 5, row 3; `ORC-YH26HCVZOW` |  |
+| 803 | liq. -> Mg5Tb + hcp | liq.: Tb 0.0943; Mg5Tb: Mg 0.833333, Tb 0.166667; hcp: Tb 0.0196 | model | [1] Guo 2006 | Table 2, p. 5, row 1; `ORC-JY6SDDQJ7Q` |  |
+| 803 | liq. -> Mg5Tb + hcp | liq.: Tb 0.095; Mg5Tb: Mg 0.833333, Tb 0.166667; hcp: Tb 0.04 | experimental | [1] Guo 2006; _cites Saccone 1993_ | Table 2, p. 5, row 2; `ORC-SOSM3HTC57` |  |
 
 ## Sources
 
@@ -135,4 +135,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

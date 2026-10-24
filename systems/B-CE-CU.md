@@ -28,15 +28,15 @@ Table: Invariant reactions reported in the literature for the B–Ce–Cu system
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1305.91 | quasi-peritectic: L + B6Ce -> B4Ce + (Cu) |  | model | [1] Premović 2017 | Table 8, p. 10, row 1 |  |
-| 1287.27 | eutectic: L -> β(B) + B6Ce |  | model | [1] Premović 2017 | Table 8, p. 10, row 2 |  |
-| 1149.96 | eutectic: L -> B4Ce + Cu6Ce + (Cu) |  | model | [1] Premović 2017 | Table 8, p. 10, row 3 |  |
-| 1071.55 | quasi-peritectic: L + Cu6Ce -> B4Ce + Cu5Ce |  | model | [1] Premović 2017 | Table 8, p. 10, row 4 |  |
-| 1069.17 | quasi-peritectic: L + Cu5Ce -> B4Ce + Cu4Ce |  | model | [1] Premović 2017 | Table 8, p. 10, row 5 |  |
-| 1052.6 | eutectic: L -> B4Ce + Cu2Ce + Cu4Ce |  | model | [1] Premović 2017 | Table 8, p. 10, row 6 |  |
-| 980.81 | quasi-peritectic: B4Ce + δ(Ce) -> L + γ(Ce) |  | model | [1] Premović 2017 | Table 8, p. 10, row 7 |  |
-| 779.6 | quasi-peritectic: L + B4Ce -> Cu2Ce + CuCe |  | model | [1] Premović 2017 | Table 8, p. 10, row 8 |  |
-| 699.98 | quasi-peritectic: L + B4Ce -> γ(Ce) + CuCe |  | model | [1] Premović 2017 | Table 8, p. 10, row 9 |  |
+| 1305.91 | quasi-peritectic: L + B6Ce -> B4Ce + (Cu) |  | model | [1] Premović 2017 | Table 8, p. 10, row 1; `ORC-LTCXL46CDW` |  |
+| 1287.27 | eutectic: L -> β(B) + B6Ce |  | model | [1] Premović 2017 | Table 8, p. 10, row 2; `ORC-SN54FJVVEY` |  |
+| 1149.96 | eutectic: L -> B4Ce + Cu6Ce + (Cu) |  | model | [1] Premović 2017 | Table 8, p. 10, row 3; `ORC-UL5GHWI2Q4` |  |
+| 1071.55 | quasi-peritectic: L + Cu6Ce -> B4Ce + Cu5Ce |  | model | [1] Premović 2017 | Table 8, p. 10, row 4; `ORC-6VQIRXISLW` |  |
+| 1069.17 | quasi-peritectic: L + Cu5Ce -> B4Ce + Cu4Ce |  | model | [1] Premović 2017 | Table 8, p. 10, row 5; `ORC-EKDR4MOIOR` |  |
+| 1052.6 | eutectic: L -> B4Ce + Cu2Ce + Cu4Ce |  | model | [1] Premović 2017 | Table 8, p. 10, row 6; `ORC-V2TK3HW7RI` |  |
+| 980.81 | quasi-peritectic: B4Ce + δ(Ce) -> L + γ(Ce) |  | model | [1] Premović 2017 | Table 8, p. 10, row 7; `ORC-LB7Y4MBQQJ` |  |
+| 779.6 | quasi-peritectic: L + B4Ce -> Cu2Ce + CuCe |  | model | [1] Premović 2017 | Table 8, p. 10, row 8; `ORC-C3T3I3WYC5` |  |
+| 699.98 | quasi-peritectic: L + B4Ce -> γ(Ce) + CuCe |  | model | [1] Premović 2017 | Table 8, p. 10, row 9; `ORC-6CQRJC74ZR` |  |
 
 ## Other properties
 
@@ -46,9 +46,9 @@ Table: Crystal structure, B–Ce–Cu system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 5.161 not_printed | 298.15 | UNKNOWN | experimental | [1] Premović 2017; _cites Beaudry 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990163-5) | Table 1, p. 2, row 3 |  |
-| Lattice b | 5.161 not_printed | 298.15 | UNKNOWN | experimental | [1] Premović 2017; _cites Beaudry 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990163-5) | Table 1, p. 2, row 3 |  |
-| Lattice c | 5.161 not_printed | 298.15 | UNKNOWN | experimental | [1] Premović 2017; _cites Beaudry 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990163-5) | Table 1, p. 2, row 3 |  |
+| Lattice a | 5.161 not_printed | 298.15 | UNKNOWN | experimental | [1] Premović 2017; _cites Beaudry 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990163-5) | Table 1, p. 2, row 3; `ORC-QMCW45QR34.2cdf34` |  |
+| Lattice b | 5.161 not_printed | 298.15 | UNKNOWN | experimental | [1] Premović 2017; _cites Beaudry 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990163-5) | Table 1, p. 2, row 3; `ORC-QMCW45QR34.8fea21` |  |
+| Lattice c | 5.161 not_printed | 298.15 | UNKNOWN | experimental | [1] Premović 2017; _cites Beaudry 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990163-5) | Table 1, p. 2, row 3; `ORC-QMCW45QR34.f5f379` |  |
 
 ## Sources
 
@@ -91,4 +91,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

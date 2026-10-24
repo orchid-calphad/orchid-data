@@ -48,3 +48,7 @@ Formation enthalpies are in kJ/mol-atom when the per-atom basis is known; temper
 - Use values with extraction_accepted = true unless you handle disputes; for weighting use sigma_effective (uncertainty_budget), not uncertainty.value: a stated_default or reading_resolution uncertainty.basis is not a measured uncertainty.
 - Every value carries uncertainty_budget (components printed / reading / method floor / composition / scatter / conversion kept separate; sigma_effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter) is the recommended sigma; floors: https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md).
 - Project site: https://orchid-project.org/ (interactive explorer https://orchid-project.org/data-explorer/#<SYS>)
+
+## Reporting errors and contributing
+- A wrong value: https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=<ORC id> opens a pre-filled GitHub issue (record id, system, DOI, page, value only; the person submits it). orchid-mcp returns this link as report_issue_url with every value.
+- Papers to read, corrections and new data (types A-E): https://github.com/orchid-calphad/orchid-data/blob/main/CONTRIBUTING.md and contributions/SCHEMA.md; plain-English guide https://orchid-project.org/contribute/

@@ -27,21 +27,21 @@ Table: Invariant reactions reported in the literature for the Fe–Mo–P system
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1641.15 | peritectic: L + σ + R = μ | L: Fe 0.608633, Mo 0.312066, P 0.079301 | model | [1] Miettinen 2015 | Table 4, p. 7, row 14 |  |
-| 1619.15 | quasi-peritectic: L + σ = μ + bcc | L: Fe 0.567586, Mo 0.335261, P 0.097153 | model | [1] Miettinen 2015 | Table 4, p. 7, row 12 |  |
-| 1614.15 | quasi-peritectic: L + bcc = μ + Mo3P | L: Fe 0.567669, Mo 0.333213, P 0.099117 | model | [1] Miettinen 2015 | Table 4, p. 7, row 13 |  |
-| 1524.15 | eutectic: L = FeP + Fe2P + MoP | L: Fe 0.579587, Mo 0.011053, P 0.409359 | model | [1] Miettinen 2015 | Table 4, p. 7, row 15 |  |
-| 1492.15 | quasi-peritectic: L + R = bcc + μ | L: Fe 0.722809, Mo 0.186498, P 0.090692 | model | [1] Miettinen 2015 | Table 4, p. 7, row 11 |  |
-| 1414.15 | quasi-peritectic: L + Fe2P = Fe3P + MoP | L: Fe 0.755085, Mo 0.021869, P 0.223045 | model | [1] Miettinen 2015; _cites Gustafsson 1990_ | Table 4, p. 7, row 5 |  |
-| 1398.15 | quasi-peritectic: L + Fe2P = Fe3P + MoP | L: Fe 0.739641, Mo 0.055196, P 0.205163 | experimental | [1] Miettinen 2015; _cites Vogel 1953_ [doi](https://doi.org/10.1002/srin.195301465) | Table 4, p. 7, row 6 |  |
-| 1398.15 | quasi-peritectic: L + Fe2P = Fe3P + MoP | L: Fe 0.751133, Mo 0.043777, P 0.205091 | model | [1] Miettinen 2015 | Table 4, p. 7, row 4 |  |
-| 1379.15 | quasi-peritectic: L + μ = bcc + MoP | L: Fe 0.762455, Mo 0.108725, P 0.12882 | model | [1] Miettinen 2015; _cites Gustafsson 1990_ | Table 4, p. 7, row 8 |  |
-| 1377.15 | quasi-peritectic: L + μ = bcc + Mo3P | L: Fe 0.722987, Mo 0.155046, P 0.121968 | model | [1] Miettinen 2015 | Table 4, p. 7, row 10 |  |
-| 1366.15 | quasi-peritectic: L + Mo3P = bcc + MoP | L: Fe 0.726997, Mo 0.147988, P 0.125015 | model | [1] Miettinen 2015 | Table 4, p. 7, row 7 |  |
-| 1308.15 | eutectic: L = μ + bcc + MoP | L: Fe 0.752952, Mo 0.133919, P 0.11313 | experimental | [1] Miettinen 2015; _cites Vogel 1953_ [doi](https://doi.org/10.1002/srin.195301465) | Table 4, p. 7, row 9 |  |
-| 1298.15 | eutectic: L = bcc + Fe3P + MoP | L: Fe 0.800894, Mo 0.043093, P 0.156014 | model | [1] Miettinen 2015; _cites Gustafsson 1990_ | Table 4, p. 7, row 2 |  |
-| 1297.15 | eutectic: L = bcc + Fe3P + MoP | L: Fe 0.789296, Mo 0.053554, P 0.15715 | model | [1] Miettinen 2015 | Table 4, p. 7, row 1 |  |
-| 1296.15 | eutectic: L = bcc + Fe3P + MoP | L: Fe 0.786696, Mo 0.055899, P 0.157405 | experimental | [1] Miettinen 2015; _cites Vogel 1953_ [doi](https://doi.org/10.1002/srin.195301465) | Table 4, p. 7, row 3 |  |
+| 1641.15 | peritectic: L + σ + R = μ | L: Fe 0.608633, Mo 0.312066, P 0.079301 | model | [1] Miettinen 2015 | Table 4, p. 7, row 14; `ORC-IU56775FYQ` |  |
+| 1619.15 | quasi-peritectic: L + σ = μ + bcc | L: Fe 0.567586, Mo 0.335261, P 0.097153 | model | [1] Miettinen 2015 | Table 4, p. 7, row 12; `ORC-4TFFYT2MAZ` |  |
+| 1614.15 | quasi-peritectic: L + bcc = μ + Mo3P | L: Fe 0.567669, Mo 0.333213, P 0.099117 | model | [1] Miettinen 2015 | Table 4, p. 7, row 13; `ORC-ETVF26L2BZ` |  |
+| 1524.15 | eutectic: L = FeP + Fe2P + MoP | L: Fe 0.579587, Mo 0.011053, P 0.409359 | model | [1] Miettinen 2015 | Table 4, p. 7, row 15; `ORC-CB6AGJD53B` |  |
+| 1492.15 | quasi-peritectic: L + R = bcc + μ | L: Fe 0.722809, Mo 0.186498, P 0.090692 | model | [1] Miettinen 2015 | Table 4, p. 7, row 11; `ORC-TSLBTDWC26` |  |
+| 1414.15 | quasi-peritectic: L + Fe2P = Fe3P + MoP | L: Fe 0.755085, Mo 0.021869, P 0.223045 | model | [1] Miettinen 2015; _cites Gustafsson 1990_ | Table 4, p. 7, row 5; `ORC-AT5NW7J3VU` |  |
+| 1398.15 | quasi-peritectic: L + Fe2P = Fe3P + MoP | L: Fe 0.739641, Mo 0.055196, P 0.205163 | experimental | [1] Miettinen 2015; _cites Vogel 1953_ [doi](https://doi.org/10.1002/srin.195301465) | Table 4, p. 7, row 6; `ORC-FSQ34FP7RU` |  |
+| 1398.15 | quasi-peritectic: L + Fe2P = Fe3P + MoP | L: Fe 0.751133, Mo 0.043777, P 0.205091 | model | [1] Miettinen 2015 | Table 4, p. 7, row 4; `ORC-OS4AC6CB7L` |  |
+| 1379.15 | quasi-peritectic: L + μ = bcc + MoP | L: Fe 0.762455, Mo 0.108725, P 0.12882 | model | [1] Miettinen 2015; _cites Gustafsson 1990_ | Table 4, p. 7, row 8; `ORC-PEJEK3JITK` |  |
+| 1377.15 | quasi-peritectic: L + μ = bcc + Mo3P | L: Fe 0.722987, Mo 0.155046, P 0.121968 | model | [1] Miettinen 2015 | Table 4, p. 7, row 10; `ORC-DLQO3NPOZO` |  |
+| 1366.15 | quasi-peritectic: L + Mo3P = bcc + MoP | L: Fe 0.726997, Mo 0.147988, P 0.125015 | model | [1] Miettinen 2015 | Table 4, p. 7, row 7; `ORC-DRPHJ32UNS` |  |
+| 1308.15 | eutectic: L = μ + bcc + MoP | L: Fe 0.752952, Mo 0.133919, P 0.11313 | experimental | [1] Miettinen 2015; _cites Vogel 1953_ [doi](https://doi.org/10.1002/srin.195301465) | Table 4, p. 7, row 9; `ORC-AEW32SF2IC` |  |
+| 1298.15 | eutectic: L = bcc + Fe3P + MoP | L: Fe 0.800894, Mo 0.043093, P 0.156014 | model | [1] Miettinen 2015; _cites Gustafsson 1990_ | Table 4, p. 7, row 2; `ORC-2VHVNOZN4A` |  |
+| 1297.15 | eutectic: L = bcc + Fe3P + MoP | L: Fe 0.789296, Mo 0.053554, P 0.15715 | model | [1] Miettinen 2015 | Table 4, p. 7, row 1; `ORC-REWZE5IS2A` |  |
+| 1296.15 | eutectic: L = bcc + Fe3P + MoP | L: Fe 0.786696, Mo 0.055899, P 0.157405 | experimental | [1] Miettinen 2015; _cites Vogel 1953_ [doi](https://doi.org/10.1002/srin.195301465) | Table 4, p. 7, row 3; `ORC-WDDYBZKM5C` |  |
 
 ## Sources
 
@@ -84,4 +84,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

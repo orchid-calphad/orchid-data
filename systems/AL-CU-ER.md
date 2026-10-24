@@ -28,35 +28,35 @@ Table: Invariant reactions reported in the literature for the Al–Cu–Er syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1736.02 | quasi-peritectic: Liquid + τ3 -> τ6 + τ4 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 15 |  |
-| 1561.23 | quasi-peritectic: Liquid + τ4 -> Al2Er + τ6 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 11 |  |
-| 1537.62 | quasi-peritectic: Liquid + τ6 -> τ3 + τ7 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 16 |  |
-| 1415.02 | quasi-peritectic: Liquid + τ6 -> τ7 + Al2Er |  | model | [1] Zhang 2008 | Table 4, p. 7, row 10 |  |
-| 1405.71 | quasi-peritectic: Liquid + τ4 -> τ3 + Al2Er |  | model | [1] Zhang 2008 | Table 4, p. 7, row 12 |  |
-| 1296.34 | quasi-peritectic: Liquid + Al2Er -> AlEr + τ7 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 9 |  |
-| 1282.15 | quasi-peritectic: Liquid + τ7 -> AlEr + CuEr |  | model | [1] Zhang 2008 | Table 4, p. 7, row 8 |  |
-| 1277.95 | eutectic: Liquid -> CuEr + Al2Er3 + AlEr |  | model | [1] Zhang 2008 | Table 4, p. 7, row 2 |  |
-| 1250.13 | quasi-peritectic: Liquid + τ2 -> γ + τ3 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 22 |  |
-| 1249.71 | quasi-peritectic: Liquid + γ -> β + τ3 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 21 |  |
-| 1246.96 | quasi-peritectic: Liquid + Al2Er3 -> CuEr + AlEr2 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 7 |  |
-| 1227.54 | quasi-peritectic: Liquid + Al2Er -> τ3 + L12 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 13 |  |
-| 1219.56 | quasi-peritectic: Liquid + γ -> β + τ2 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 23 |  |
-| 1162.55 | quasi-peritectic: Liquid + β -> τ3 + Fcc_Cu |  | model | [1] Zhang 2008 | Table 4, p. 7, row 20 |  |
-| 1156.3 | eutectic: Liquid -> CuEr + AlEr2 + Hcp_Er |  | model | [1] Zhang 2008 | Table 4, p. 7, row 1 |  |
-| 1132.73 | quasi-peritectic: Liquid + Cu9Er2 -> τ3 + Cu5Er |  | model | [1] Zhang 2008 | Table 4, p. 7, row 19 |  |
-| 1124.05 | quasi-peritectic: Liquid + β -> τ2 + ε |  | model | [1] Zhang 2008 | Table 4, p. 7, row 24 |  |
-| 1123.37 | quasi-peritectic: Liquid + τ2 -> τ1 + ε |  | model | [1] Zhang 2008 | Table 4, p. 7, row 25 |  |
-| 1116.45 | quasi-peritectic: Liquid + Cu7Er2 -> Cu9Er2 + Cu2Er |  | model | [1] Zhang 2008 | Table 4, p. 7, row 18 |  |
-| 1088.91 | quasi-peritectic: Liquid + CuEr -> Cu2Er + τ7 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 17 |  |
-| 1088.65 | eutectic: Liquid -> Cu2Er + τ3 + τ7 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 4 |  |
-| 1084.67 | eutectic: Liquid -> Fcc_Cu + Cu5Er + τ3 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 6 |  |
-| 1078.38 | eutectic: Liquid -> Cu2Er + τ3 + Cu9Er2 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 5 |  |
-| 916.78 | peritectic: Liquid + τ1 + τ2 -> Fcc_Al |  | model | [1] Zhang 2008 | Table 4, p. 7, row 27 |  |
-| 915.82 | quasi-peritectic: Liquid + τ2 -> τ3 + L12 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 14 |  |
-| 915.39 | eutectic: Liquid -> L12 + τ3 + Fcc_Al |  | model | [1] Zhang 2008 | Table 4, p. 7, row 3 |  |
-| 898.11 | peritectic: Liquid + ε + τ1 -> η |  | model | [1] Zhang 2008 | Table 4, p. 7, row 28 |  |
-| 868.85 | peritectic: Liquid + η + τ1 -> θ |  | model | [1] Zhang 2008 | Table 4, p. 7, row 29 |  |
-| 820.61 | quasi-peritectic: Liquid + τ1 -> θ + Fcc_Al |  | model | [1] Zhang 2008 | Table 4, p. 7, row 26 |  |
+| 1736.02 | quasi-peritectic: Liquid + τ3 -> τ6 + τ4 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 15; `ORC-LT6AQKB75G` |  |
+| 1561.23 | quasi-peritectic: Liquid + τ4 -> Al2Er + τ6 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 11; `ORC-PIPEZXAI3S` |  |
+| 1537.62 | quasi-peritectic: Liquid + τ6 -> τ3 + τ7 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 16; `ORC-JQUR4565MM` |  |
+| 1415.02 | quasi-peritectic: Liquid + τ6 -> τ7 + Al2Er |  | model | [1] Zhang 2008 | Table 4, p. 7, row 10; `ORC-2ZZYUERX6M` |  |
+| 1405.71 | quasi-peritectic: Liquid + τ4 -> τ3 + Al2Er |  | model | [1] Zhang 2008 | Table 4, p. 7, row 12; `ORC-NVHJOT5P4Y` |  |
+| 1296.34 | quasi-peritectic: Liquid + Al2Er -> AlEr + τ7 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 9; `ORC-3KTS7LVVEN` |  |
+| 1282.15 | quasi-peritectic: Liquid + τ7 -> AlEr + CuEr |  | model | [1] Zhang 2008 | Table 4, p. 7, row 8; `ORC-ZKFIDRKINV` |  |
+| 1277.95 | eutectic: Liquid -> CuEr + Al2Er3 + AlEr |  | model | [1] Zhang 2008 | Table 4, p. 7, row 2; `ORC-QPW2H66XLS` |  |
+| 1250.13 | quasi-peritectic: Liquid + τ2 -> γ + τ3 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 22; `ORC-URSK2TMWLO` |  |
+| 1249.71 | quasi-peritectic: Liquid + γ -> β + τ3 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 21; `ORC-7DACFT2DHC` |  |
+| 1246.96 | quasi-peritectic: Liquid + Al2Er3 -> CuEr + AlEr2 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 7; `ORC-26KZZPO6SU` |  |
+| 1227.54 | quasi-peritectic: Liquid + Al2Er -> τ3 + L12 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 13; `ORC-6YZMS4XQKT` |  |
+| 1219.56 | quasi-peritectic: Liquid + γ -> β + τ2 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 23; `ORC-V367B63MRM` |  |
+| 1162.55 | quasi-peritectic: Liquid + β -> τ3 + Fcc_Cu |  | model | [1] Zhang 2008 | Table 4, p. 7, row 20; `ORC-IW7C5W7VOL` |  |
+| 1156.3 | eutectic: Liquid -> CuEr + AlEr2 + Hcp_Er |  | model | [1] Zhang 2008 | Table 4, p. 7, row 1; `ORC-WMC63REQKH` |  |
+| 1132.73 | quasi-peritectic: Liquid + Cu9Er2 -> τ3 + Cu5Er |  | model | [1] Zhang 2008 | Table 4, p. 7, row 19; `ORC-CHUCSO7EHR` |  |
+| 1124.05 | quasi-peritectic: Liquid + β -> τ2 + ε |  | model | [1] Zhang 2008 | Table 4, p. 7, row 24; `ORC-MYL3X2XEGI` |  |
+| 1123.37 | quasi-peritectic: Liquid + τ2 -> τ1 + ε |  | model | [1] Zhang 2008 | Table 4, p. 7, row 25; `ORC-NYRAVJALU3` |  |
+| 1116.45 | quasi-peritectic: Liquid + Cu7Er2 -> Cu9Er2 + Cu2Er |  | model | [1] Zhang 2008 | Table 4, p. 7, row 18; `ORC-CX2N63WBXI` |  |
+| 1088.91 | quasi-peritectic: Liquid + CuEr -> Cu2Er + τ7 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 17; `ORC-MQFYYCQ7J5` |  |
+| 1088.65 | eutectic: Liquid -> Cu2Er + τ3 + τ7 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 4; `ORC-3JOIJRTJOS` |  |
+| 1084.67 | eutectic: Liquid -> Fcc_Cu + Cu5Er + τ3 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 6; `ORC-65WFDOO3AL` |  |
+| 1078.38 | eutectic: Liquid -> Cu2Er + τ3 + Cu9Er2 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 5; `ORC-4375HW2JH4` |  |
+| 916.78 | peritectic: Liquid + τ1 + τ2 -> Fcc_Al |  | model | [1] Zhang 2008 | Table 4, p. 7, row 27; `ORC-TNOXHYQWAY` |  |
+| 915.82 | quasi-peritectic: Liquid + τ2 -> τ3 + L12 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 14; `ORC-F5DDCXHKWI` |  |
+| 915.39 | eutectic: Liquid -> L12 + τ3 + Fcc_Al |  | model | [1] Zhang 2008 | Table 4, p. 7, row 3; `ORC-S6I55GKW7M` |  |
+| 898.11 | peritectic: Liquid + ε + τ1 -> η |  | model | [1] Zhang 2008 | Table 4, p. 7, row 28; `ORC-3ERYMSGZNW` |  |
+| 868.85 | peritectic: Liquid + η + τ1 -> θ |  | model | [1] Zhang 2008 | Table 4, p. 7, row 29; `ORC-2DIDOEK2S4` |  |
+| 820.61 | quasi-peritectic: Liquid + τ1 -> θ + Fcc_Al |  | model | [1] Zhang 2008 | Table 4, p. 7, row 26; `ORC-D5OQYH6NBL` |  |
 
 ## Other properties
 
@@ -66,30 +66,30 @@ Table: Crystal structure, Al–Cu–Er system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 2.946 Å |  | β | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 7 |  |
-| Lattice a | 4.214 Å | 298.15 | L12 | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 8 |  |
-| Lattice a | 8.7023 Å | 298.15 | γD83 | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 5 |  |
-| Lattice a | 4.146 Å | 298.15 | ε | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 4 |  |
-| Lattice a | 4.0972 Å | 298.15 | ζ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 3 |  |
-| Lattice a | 12.066 Å | 298.15 | η | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 2 |  |
-| Lattice a | 6.067 Å | 298.15 | θ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 1 |  |
-| Lattice a | 8.712 Å | 298.15 | τ1-Al8Cu4Er; _alloy: Cu 0.307692, Er 0.076923_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 18 |  |
-| Lattice a | 8.63 Å | 298.15 | τ2-(Al, Cu)17Er2; _alloy: Cu 0.25, Er 0.5_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 19 |  |
-| Lattice a | 5.029 Å | 298.15 | τ3-(Al, Cu)5Er; _alloy: Cu 0.333333, Er 0.333333_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 20 |  |
-| Lattice a | 4.184 Å | 298.15 | τ4-Al3CuEr; _alloy: Cu 0.2, Er 0.2_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 21 |  |
-| Lattice a | 6.975 Å | 298.15 | τ7-AlCuEr; _alloy: Cu 0.333333, Er 0.333333_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 24 |  |
-| Lattice b | 7.1313 Å | 298.15 | ζ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 3 |  |
-| Lattice b | 4.105 Å | 298.15 | η | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 2 |  |
-| Lattice b | 4.112 Å | 298.15 | τ4-Al3CuEr; _alloy: Cu 0.2, Er 0.2_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 21 |  |
-| Lattice c | 5.063 Å | 298.15 | ε | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 4 |  |
-| Lattice c | 9.9793 Å | 298.15 | ζ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 3 |  |
-| Lattice c | 6.913 Å | 298.15 | η | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 2 |  |
-| Lattice c | 4.877 Å | 298.15 | θ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 1 |  |
-| Lattice c | 5.13 Å | 298.15 | τ1-Al8Cu4Er; _alloy: Cu 0.307692, Er 0.076923_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 18 |  |
-| Lattice c | 5.029 Å | 298.15 | τ2-(Al, Cu)17Er2; _alloy: Cu 0.25, Er 0.5_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 19 |  |
-| Lattice c | 4.139 Å | 298.15 | τ3-(Al, Cu)5Er; _alloy: Cu 0.333333, Er 0.333333_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 20 |  |
-| Lattice c | 9.773 Å | 298.15 | τ4-Al3CuEr; _alloy: Cu 0.2, Er 0.2_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 21 |  |
-| Lattice c | 4.003 Å | 298.15 | τ7-AlCuEr; _alloy: Cu 0.333333, Er 0.333333_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 24 |  |
+| Lattice a | 2.946 Å |  | β | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 7; `ORC-GMGXEIB5Y6` |  |
+| Lattice a | 4.214 Å | 298.15 | L12 | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 8; `ORC-ZFR6XILEEJ` |  |
+| Lattice a | 8.7023 Å | 298.15 | γD83 | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 5; `ORC-CIXWRI2X6I` |  |
+| Lattice a | 4.146 Å | 298.15 | ε | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 4; `ORC-7SSM2MFPMM.1dad47` |  |
+| Lattice a | 4.0972 Å | 298.15 | ζ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 3; `ORC-KWOMDVA5MK.c3a199` |  |
+| Lattice a | 12.066 Å | 298.15 | η | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 2; `ORC-GFKTKFSLYH.935026` |  |
+| Lattice a | 6.067 Å | 298.15 | θ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 1; `ORC-KUUVDFGQDZ.bfb95b` |  |
+| Lattice a | 8.712 Å | 298.15 | τ1-Al8Cu4Er; _alloy: Cu 0.307692, Er 0.076923_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 18; `ORC-4EO6IOG3Z3.1d817e` |  |
+| Lattice a | 8.63 Å | 298.15 | τ2-(Al, Cu)17Er2; _alloy: Cu 0.25, Er 0.5_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 19; `ORC-LQEG46FE2S.4e6169` |  |
+| Lattice a | 5.029 Å | 298.15 | τ3-(Al, Cu)5Er; _alloy: Cu 0.333333, Er 0.333333_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 20; `ORC-Q4QCWH6XDT.0fa573` |  |
+| Lattice a | 4.184 Å | 298.15 | τ4-Al3CuEr; _alloy: Cu 0.2, Er 0.2_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 21; `ORC-QYJWF4O2ZS.28d1ae` |  |
+| Lattice a | 6.975 Å | 298.15 | τ7-AlCuEr; _alloy: Cu 0.333333, Er 0.333333_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 24; `ORC-ZEQ4BMFPNA.4d3b61` |  |
+| Lattice b | 7.1313 Å | 298.15 | ζ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 3; `ORC-KWOMDVA5MK.46c31e` |  |
+| Lattice b | 4.105 Å | 298.15 | η | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 2; `ORC-GFKTKFSLYH.326564` |  |
+| Lattice b | 4.112 Å | 298.15 | τ4-Al3CuEr; _alloy: Cu 0.2, Er 0.2_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 21; `ORC-QYJWF4O2ZS.9c3b7a` |  |
+| Lattice c | 5.063 Å | 298.15 | ε | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 4; `ORC-7SSM2MFPMM.fb4742` |  |
+| Lattice c | 9.9793 Å | 298.15 | ζ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 3; `ORC-KWOMDVA5MK.27bf91` |  |
+| Lattice c | 6.913 Å | 298.15 | η | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 2; `ORC-GFKTKFSLYH.5ff286` |  |
+| Lattice c | 4.877 Å | 298.15 | θ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 1; `ORC-KUUVDFGQDZ.350d8e` |  |
+| Lattice c | 5.13 Å | 298.15 | τ1-Al8Cu4Er; _alloy: Cu 0.307692, Er 0.076923_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 18; `ORC-4EO6IOG3Z3.35cc83` |  |
+| Lattice c | 5.029 Å | 298.15 | τ2-(Al, Cu)17Er2; _alloy: Cu 0.25, Er 0.5_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 19; `ORC-LQEG46FE2S.daa3f3` |  |
+| Lattice c | 4.139 Å | 298.15 | τ3-(Al, Cu)5Er; _alloy: Cu 0.333333, Er 0.333333_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 20; `ORC-Q4QCWH6XDT.a4327c` |  |
+| Lattice c | 9.773 Å | 298.15 | τ4-Al3CuEr; _alloy: Cu 0.2, Er 0.2_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 21; `ORC-QYJWF4O2ZS.f92fac` |  |
+| Lattice c | 4.003 Å | 298.15 | τ7-AlCuEr; _alloy: Cu 0.333333, Er 0.333333_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 24; `ORC-ZEQ4BMFPNA.e21820` |  |
 
 ## Sources
 
@@ -132,4 +132,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

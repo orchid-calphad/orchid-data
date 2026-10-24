@@ -31,13 +31,13 @@ Table: Crystal structure, Mg–Sn–Sr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 8.18 Å | 298.15 | MgSnSr; _alloy: Sn 0.333333, Sr 0.333333_ | experimental | [1] Zhou 2014; _cites Villars 2004_ [doi](https://doi.org/10.4028/www.scientific.net/msf.443-444.357) | Table 2, p. 4, row 27 |  |
-| Lattice a | 8.221 Å | 298.15 | MgSnSr; _alloy: Sn 0.333333, Sr 0.333333_ | DFT | [1] Zhou 2014 | Table 2, p. 4, row 28 |  |
-| Lattice b | 4.92 Å | 298.15 | MgSnSr; _alloy: Sn 0.333333, Sr 0.333333_ | experimental | [1] Zhou 2014; _cites Villars 2004_ [doi](https://doi.org/10.4028/www.scientific.net/msf.443-444.357) | Table 2, p. 4, row 27 |  |
-| Lattice b | 4.896 Å | 298.15 | MgSnSr; _alloy: Sn 0.333333, Sr 0.333333_ | DFT | [1] Zhou 2014 | Table 2, p. 4, row 28 |  |
-| Lattice c | 8.75 Å | 298.15 | MgSnSr; _alloy: Sn 0.333333, Sr 0.333333_ | experimental | [1] Zhou 2014; _cites Villars 2004_ [doi](https://doi.org/10.4028/www.scientific.net/msf.443-444.357) | Table 2, p. 4, row 27 |  |
-| Lattice c | 8.918 Å | 298.15 | MgSnSr; _alloy: Sn 0.333333, Sr 0.333333_ | DFT | [1] Zhou 2014 | Table 2, p. 4, row 28 |  |
-| volume; _printed: V_ | 30.003 Å3/atom | 0 | MgSnSr; _alloy: Sn 0.333333, Sr 0.333333_ | model | [1] Zhou 2014 | Table 3, p. 4, row 13 |  |
+| Lattice a | 8.18 Å | 298.15 | MgSnSr; _alloy: Sn 0.333333, Sr 0.333333_ | experimental | [1] Zhou 2014; _cites Villars 2004_ [doi](https://doi.org/10.4028/www.scientific.net/msf.443-444.357) | Table 2, p. 4, row 27; `ORC-PV7W6UJO35.ca3919` |  |
+| Lattice a | 8.221 Å | 298.15 | MgSnSr; _alloy: Sn 0.333333, Sr 0.333333_ | DFT | [1] Zhou 2014 | Table 2, p. 4, row 28; `ORC-XVBCDGNJSR.2b7a3c` |  |
+| Lattice b | 4.92 Å | 298.15 | MgSnSr; _alloy: Sn 0.333333, Sr 0.333333_ | experimental | [1] Zhou 2014; _cites Villars 2004_ [doi](https://doi.org/10.4028/www.scientific.net/msf.443-444.357) | Table 2, p. 4, row 27; `ORC-PV7W6UJO35.ca6b15` |  |
+| Lattice b | 4.896 Å | 298.15 | MgSnSr; _alloy: Sn 0.333333, Sr 0.333333_ | DFT | [1] Zhou 2014 | Table 2, p. 4, row 28; `ORC-XVBCDGNJSR.751e0f` |  |
+| Lattice c | 8.75 Å | 298.15 | MgSnSr; _alloy: Sn 0.333333, Sr 0.333333_ | experimental | [1] Zhou 2014; _cites Villars 2004_ [doi](https://doi.org/10.4028/www.scientific.net/msf.443-444.357) | Table 2, p. 4, row 27; `ORC-PV7W6UJO35.fe76a5` |  |
+| Lattice c | 8.918 Å | 298.15 | MgSnSr; _alloy: Sn 0.333333, Sr 0.333333_ | DFT | [1] Zhou 2014 | Table 2, p. 4, row 28; `ORC-XVBCDGNJSR.daf1f7` |  |
+| volume; _printed: V_ | 30.003 Å3/atom | 0 | MgSnSr; _alloy: Sn 0.333333, Sr 0.333333_ | model | [1] Zhou 2014 | Table 3, p. 4, row 13; `ORC-ODCWHY3WPU.6253fd` |  |
 
 ### Other property (1)
 
@@ -45,7 +45,7 @@ Table: Other property, Mg–Sn–Sr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| bulk modulus; _printed: B_ | 35.607 GPa | 0 | MgSnSr; _alloy: Sn 0.333333, Sr 0.333333_ | model | [1] Zhou 2014 | Table 3, p. 4, row 13 |  |
+| bulk modulus; _printed: B_ | 35.607 GPa | 0 | MgSnSr; _alloy: Sn 0.333333, Sr 0.333333_ | model | [1] Zhou 2014 | Table 3, p. 4, row 13; `ORC-ODCWHY3WPU.3f8bec` |  |
 
 ## Sources
 
@@ -88,4 +88,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -14,10 +14,10 @@ Table: Enthalpy of formation of Cu6Sn5 reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -7.033 kJ/mol-atom | η′ (Cu6Sn5_L) | 273 | experimental |  | [Cu–Sn](https://data.orchid-project.org/systems/CU-SN.html) | [1] Li 2013; _cites Gangulee 1973_ [doi](https://doi.org/10.1007/bf02643268) | Table 3, p. 8, row 11 |  |
-| -6.1 kJ/mol-atom | η (Cu6Sn5_H) | 298.15 | experimental |  | [Cu–Sn](https://data.orchid-project.org/systems/CU-SN.html) | [1] Li 2013; _cites Flandorfer 2007_ [doi](https://doi.org/10.1016/j.tca.2007.04.004) | Table 3, p. 8, row 13 |  |
-| -7.13 kJ/mol-atom | η' (Cu6Sn5_L) | 273 | model |  | [Cu–Sn](https://data.orchid-project.org/systems/CU-SN.html) | [1] Li 2013 | Table 3, p. 8, row 12 |  |
-| -6.6 kJ/mol-atom | η (Cu6Sn5_H) | 298.15 | model |  | [Cu–Sn](https://data.orchid-project.org/systems/CU-SN.html) | [1] Li 2013 | Table 3, p. 8, row 14 |  |
+| -7.033 kJ/mol-atom | η′ (Cu6Sn5_L) | 273 | experimental |  | [Cu–Sn](https://data.orchid-project.org/systems/CU-SN.html) | [1] Li 2013; _cites Gangulee 1973_ [doi](https://doi.org/10.1007/bf02643268) | Table 3, p. 8, row 11; `ORC-56BYOR4HWG.87c2a1` |  |
+| -6.1 kJ/mol-atom | η (Cu6Sn5_H) | 298.15 | experimental |  | [Cu–Sn](https://data.orchid-project.org/systems/CU-SN.html) | [1] Li 2013; _cites Flandorfer 2007_ [doi](https://doi.org/10.1016/j.tca.2007.04.004) | Table 3, p. 8, row 13; `ORC-JWABTMIMVE` |  |
+| -7.13 kJ/mol-atom | η' (Cu6Sn5_L) | 273 | model |  | [Cu–Sn](https://data.orchid-project.org/systems/CU-SN.html) | [1] Li 2013 | Table 3, p. 8, row 12; `ORC-77B5M2I2C6.36f0d3` |  |
+| -6.6 kJ/mol-atom | η (Cu6Sn5_H) | 298.15 | model |  | [Cu–Sn](https://data.orchid-project.org/systems/CU-SN.html) | [1] Li 2013 | Table 3, p. 8, row 14; `ORC-VSGDM37AYX` |  |
 
 ### Uncertainty budget
 
@@ -96,4 +96,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

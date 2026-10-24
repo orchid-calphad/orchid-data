@@ -27,24 +27,24 @@ Table: Invariant reactions reported in the literature for the Cu–Pb–Zn syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1159 | L1+(Cu)=L2+bcc-A2 |  | experimental | [1] Jantzen 1998; _cites ref. 48Hen_ | Table 1, p. 4, row 2 |  |
-| 1150 | L1+(Cu)=L2+bcc-A2 |  | model | [1] Jantzen 1998 | Table 1, p. 4, row 1 |  |
-| 1098 | L1+bcc-A2=L2+CuZn-γ |  | experimental | [1] Jantzen 1998; _cites ref. 48Hen_ | Table 1, p. 4, row 4 |  |
-| 1096 | L1+bcc-A2=L2+CuZn-γ |  | model | [1] Jantzen 1998 | Table 1, p. 4, row 3 |  |
-| 963 | L1+CuZn-γ=L2+bcc-A2 |  | experimental | [1] Jantzen 1998; _cites ref. 48Hen_ | Table 1, p. 4, row 6 |  |
-| 955 | L1+CuZn-γ=L2+bcc-A2 |  | model | [1] Jantzen 1998 | Table 1, p. 4, row 5 |  |
-| 869 | L1+bcc-A2=L2+CuZn-ε |  | model | [1] Jantzen 1998 | Table 1, p. 4, row 7 |  |
-| 863 | L1+bcc-A2=L2+CuZn-ε |  | experimental | [1] Jantzen 1998; _cites ref. 48Hen_ | Table 1, p. 4, row 8 |  |
-| 695 | L1+CuZn-ε=L2+(Zn) |  | experimental | [1] Jantzen 1998; _cites ref. 48Hen_ | Table 1, p. 4, row 10 |  |
-| 693 | L1+CuZn-ε=L2+(Zn) |  | model | [1] Jantzen 1998 | Table 1, p. 4, row 9 |  |
-| 600 | L2+(Cu)=bcc-A2+(Pb) |  | model | [1] Jantzen 1998 | Table 1, p. 4, row 11 |  |
-| 600 | L2+bcc-A2=CuZn-γ+(Pb) |  | model | [1] Jantzen 1998 | Table 1, p. 4, row 13 |  |
-| 597 | L2+(Cu)=bcc-A2+(Pb) |  | experimental | [1] Jantzen 1998; _cites ref. 48Hen_ | Table 1, p. 4, row 12 |  |
-| 595 | L2+CuZn-γ=CuZn-ε+(Pb) |  | model | [1] Jantzen 1998 | Table 1, p. 4, row 15 |  |
-| 595 | L2+bcc-A2=CuZn-γ+(Pb) |  | experimental | [1] Jantzen 1998; _cites ref. 48Hen_ | Table 1, p. 4, row 14 |  |
-| 593 | L2+CuZn-γ=CuZn-ε+(Pb) |  | experimental | [1] Jantzen 1998; _cites ref. 48Hen_ | Table 1, p. 4, row 16 |  |
-| 591 | L2=CuZn-ε+(Zn)+(Pb) |  | model | [1] Jantzen 1998 | Table 1, p. 4, row 17 |  |
-| 589 | L2=CuZn-ε+(Zn)+(Pb) |  | experimental | [1] Jantzen 1998; _cites ref. 48Hen_ | Table 1, p. 4, row 18 |  |
+| 1159 | L1+(Cu)=L2+bcc-A2 |  | experimental | [1] Jantzen 1998; _cites ref. 48Hen_ | Table 1, p. 4, row 2; `ORC-EI52XRUEZW` |  |
+| 1150 | L1+(Cu)=L2+bcc-A2 |  | model | [1] Jantzen 1998 | Table 1, p. 4, row 1; `ORC-762S36DHBG` |  |
+| 1098 | L1+bcc-A2=L2+CuZn-γ |  | experimental | [1] Jantzen 1998; _cites ref. 48Hen_ | Table 1, p. 4, row 4; `ORC-DIA5ILFNJW` |  |
+| 1096 | L1+bcc-A2=L2+CuZn-γ |  | model | [1] Jantzen 1998 | Table 1, p. 4, row 3; `ORC-HZHUJXIBNE` |  |
+| 963 | L1+CuZn-γ=L2+bcc-A2 |  | experimental | [1] Jantzen 1998; _cites ref. 48Hen_ | Table 1, p. 4, row 6; `ORC-PPK6ETSIGW` |  |
+| 955 | L1+CuZn-γ=L2+bcc-A2 |  | model | [1] Jantzen 1998 | Table 1, p. 4, row 5; `ORC-SUJNZG5MKI` |  |
+| 869 | L1+bcc-A2=L2+CuZn-ε |  | model | [1] Jantzen 1998 | Table 1, p. 4, row 7; `ORC-PKQL4LPTDU` |  |
+| 863 | L1+bcc-A2=L2+CuZn-ε |  | experimental | [1] Jantzen 1998; _cites ref. 48Hen_ | Table 1, p. 4, row 8; `ORC-I3766TNF2S` |  |
+| 695 | L1+CuZn-ε=L2+(Zn) |  | experimental | [1] Jantzen 1998; _cites ref. 48Hen_ | Table 1, p. 4, row 10; `ORC-VLNHPGL2XV` |  |
+| 693 | L1+CuZn-ε=L2+(Zn) |  | model | [1] Jantzen 1998 | Table 1, p. 4, row 9; `ORC-FGXIE47JHG` |  |
+| 600 | L2+(Cu)=bcc-A2+(Pb) |  | model | [1] Jantzen 1998 | Table 1, p. 4, row 11; `ORC-KCDYRIVXE6` |  |
+| 600 | L2+bcc-A2=CuZn-γ+(Pb) |  | model | [1] Jantzen 1998 | Table 1, p. 4, row 13; `ORC-Q2LT63QJ67` |  |
+| 597 | L2+(Cu)=bcc-A2+(Pb) |  | experimental | [1] Jantzen 1998; _cites ref. 48Hen_ | Table 1, p. 4, row 12; `ORC-MXPSV5KYNS` |  |
+| 595 | L2+CuZn-γ=CuZn-ε+(Pb) |  | model | [1] Jantzen 1998 | Table 1, p. 4, row 15; `ORC-JAVGZN4Z2N` |  |
+| 595 | L2+bcc-A2=CuZn-γ+(Pb) |  | experimental | [1] Jantzen 1998; _cites ref. 48Hen_ | Table 1, p. 4, row 14; `ORC-KARG3AW4M6` |  |
+| 593 | L2+CuZn-γ=CuZn-ε+(Pb) |  | experimental | [1] Jantzen 1998; _cites ref. 48Hen_ | Table 1, p. 4, row 16; `ORC-D7DBGFROVN` |  |
+| 591 | L2=CuZn-ε+(Zn)+(Pb) |  | model | [1] Jantzen 1998 | Table 1, p. 4, row 17; `ORC-T7KL47OJYY` |  |
+| 589 | L2=CuZn-ε+(Zn)+(Pb) |  | experimental | [1] Jantzen 1998; _cites ref. 48Hen_ | Table 1, p. 4, row 18; `ORC-E64VSQ3JYH` |  |
 
 ## Sources
 
@@ -87,4 +87,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

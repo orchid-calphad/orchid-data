@@ -14,18 +14,18 @@ Table: Enthalpy of formation of UO3 reported in the literature (12)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -317.879 kJ/mol-atom | UO3 | 298.15 | experimental |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002; _cites Mixter 1912_ [doi](https://doi.org/10.1002/zaac.19120780119) | Table 10, p. 8, row 23 |  |
-| -309.407 kJ/mol-atom ± 0.4707 | UO3 | 298.15 | experimental |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002; _cites Vidavskii 1965_ | Table 10, p. 8, row 28 |  |
-| -307.942 kJ/mol-atom | UO3 | 298.15 | experimental |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002; _cites Burdese 1958_ | Table 10, p. 8, row 30 |  |
-| -307.001 kJ/mol-atom ± 1.046 | UO3 | 298.15 | experimental |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002; _cites Cordfunke 1965_ [doi](https://doi.org/10.1039/tf9656100050) | Table 10, p. 8, row 27 |  |
-| -306.478 kJ/mol-atom ± 2.092 | UO3 | 298.15 | experimental |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002; _cites Rand 1963_ | Table 10, p. 8, row 26 |  |
-| -306.129 kJ/mol-atom | UO3 | 298.15 | experimental |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002; _cites Biltz 1928_ | Table 10, p. 8, row 24 |  |
-| -306.025 kJ/mol-atom ± 0.65 | UO3 | 298.15 | experimental |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002; _cites Johnson 1978_ [doi](https://doi.org/10.1016/0021-9614%2878%2990046-0) | Table 10, p. 8, row 32 |  |
-| -305.95 kJ/mol-atom ± 0.5 | UO3 | 298.15 | experimental |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002; _cites Cordfunke 1988_ | Table 10, p. 8, row 33 |  |
-| -305.746 kJ/mol-atom ± 1.4644 | UO3 | 298.15 | experimental |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002; _cites Fitzgibbon 1967_ [doi](https://doi.org/10.1021/je60032a039) | Table 10, p. 8, row 25 |  |
-| -305.95 kJ/mol-atom | UO3 (s) | 298.15 | model |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [2] Guéneau 2002 | Table 4, p. 9, row 7 |  |
-| -305.95 kJ/mol-atom | UO3 | 298.15 | model |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002 | Table 10, p. 8, row 34 |  |
-| -304.375 kJ/mol-atom ± 0.75 | UO3 (s) | 298.15 | model |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [2] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 8 |  |
+| -317.879 kJ/mol-atom | UO3 | 298.15 | experimental |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002; _cites Mixter 1912_ [doi](https://doi.org/10.1002/zaac.19120780119) | Table 10, p. 8, row 23; `ORC-BMPPU42IE7` |  |
+| -309.407 kJ/mol-atom ± 0.4707 | UO3 | 298.15 | experimental |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002; _cites Vidavskii 1965_ | Table 10, p. 8, row 28; `ORC-5ZBHGDRWSZ` |  |
+| -307.942 kJ/mol-atom | UO3 | 298.15 | experimental |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002; _cites Burdese 1958_ | Table 10, p. 8, row 30; `ORC-WEJ7JF5DM7` |  |
+| -307.001 kJ/mol-atom ± 1.046 | UO3 | 298.15 | experimental |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002; _cites Cordfunke 1965_ [doi](https://doi.org/10.1039/tf9656100050) | Table 10, p. 8, row 27; `ORC-M3KGYFSANX.22068f` |  |
+| -306.478 kJ/mol-atom ± 2.092 | UO3 | 298.15 | experimental |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002; _cites Rand 1963_ | Table 10, p. 8, row 26; `ORC-3B6ALRURNQ` |  |
+| -306.129 kJ/mol-atom | UO3 | 298.15 | experimental |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002; _cites Biltz 1928_ | Table 10, p. 8, row 24; `ORC-HRR3N5ZPTU` |  |
+| -306.025 kJ/mol-atom ± 0.65 | UO3 | 298.15 | experimental |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002; _cites Johnson 1978_ [doi](https://doi.org/10.1016/0021-9614%2878%2990046-0) | Table 10, p. 8, row 32; `ORC-FI4CELD56Y` |  |
+| -305.95 kJ/mol-atom ± 0.5 | UO3 | 298.15 | experimental |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002; _cites Cordfunke 1988_ | Table 10, p. 8, row 33; `ORC-22YU3WTHSU.11f98d` |  |
+| -305.746 kJ/mol-atom ± 1.4644 | UO3 | 298.15 | experimental |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002; _cites Fitzgibbon 1967_ [doi](https://doi.org/10.1021/je60032a039) | Table 10, p. 8, row 25; `ORC-5OOJQ5V2RS` |  |
+| -305.95 kJ/mol-atom | UO3 (s) | 298.15 | model |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [2] Guéneau 2002 | Table 4, p. 9, row 7; `ORC-VJKQQEBA2V.4dc903` |  |
+| -305.95 kJ/mol-atom | UO3 | 298.15 | model |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002 | Table 10, p. 8, row 34; `ORC-ZBNU4LYAXN.e66d89` |  |
+| -304.375 kJ/mol-atom ± 0.75 | UO3 (s) | 298.15 | model |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [2] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 8; `ORC-NBHL4NNFQR.65f769` |  |
 
 ### Uncertainty budget
 
@@ -113,4 +113,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

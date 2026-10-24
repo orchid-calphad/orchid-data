@@ -26,12 +26,12 @@ Table: Invariant reactions reported in the literature for the Fe–Ti–Zr syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1572 | L + FCC_A1 -> Fe23Zr6 + BCC_A2 | L: Fe 0.88, Ti 0.06; FCC_A1: Fe 0.96, Ti 0.02; Fe23Zr6: Fe 0.79, Ti 0; BCC_A2: Fe 0.95, Ti 0.03 | model | [1] Gierlotka 2017 | Table IV, p. 9, row 1 |  |
-| 1565 | L + C14 -> C15 + FeTi | L: Fe 0.47, Ti 0.39; C14: Fe 0.66, Ti 0.27; C15: Fe 0.66, Ti 0.07; FeTi: Fe 0.5, Ti 0.43 | model | [1] Gierlotka 2017 | Table IV, p. 9, row 2 |  |
-| 1564 | L + C15 -> C14 + Fe23Zr6 | L: Fe 0.85, Ti 0.09; C15: Fe 0.68, Ti 0.06; C14: Fe 0.67, Ti 0.25; Fe23Zr6: Fe 0.79, Ti 0 | model | [1] Gierlotka 2017 | Table IV, p. 9, row 3 |  |
-| 1551 | L -> C14 + Fe23Zr6 + BCC_A2 | L: Fe 0.86, Ti 0.09; C14: Fe 0.67, Ti 0.26; Fe23Zr6: Fe 0.79, Ti 0; BCC_A2: Fe 0.93, Ti 0.05 | model | [1] Gierlotka 2017 | Table IV, p. 9, row 4 |  |
-| 1363 | L + C15 -> FeZr2 + FeTi | L: Fe 0.31, Ti 0.27; C15: Fe 0.66, Ti 0.05; FeZr2: Fe 0.33, Ti 0.18; FeTi: Fe 0.5, Ti 0.41 | model | [1] Gierlotka 2017 | Table IV, p. 9, row 5 |  |
-| 1247 | L + FeZr2 -> FeTi + BCC_A2 | L: Fe 0.21, Ti 0.32; FeZr2: Fe 0.33, Ti 0.21; FeTi: Fe 0.5, Ti 0.44; BCC_A2: Fe 0.11, Ti 0.35 | model | [1] Gierlotka 2017 | Table IV, p. 9, row 6 |  |
+| 1572 | L + FCC_A1 -> Fe23Zr6 + BCC_A2 | L: Fe 0.88, Ti 0.06; FCC_A1: Fe 0.96, Ti 0.02; Fe23Zr6: Fe 0.79, Ti 0; BCC_A2: Fe 0.95, Ti 0.03 | model | [1] Gierlotka 2017 | Table IV, p. 9, row 1; `ORC-HTXX5LH5WE` |  |
+| 1565 | L + C14 -> C15 + FeTi | L: Fe 0.47, Ti 0.39; C14: Fe 0.66, Ti 0.27; C15: Fe 0.66, Ti 0.07; FeTi: Fe 0.5, Ti 0.43 | model | [1] Gierlotka 2017 | Table IV, p. 9, row 2; `ORC-BAD4XRX4OK` |  |
+| 1564 | L + C15 -> C14 + Fe23Zr6 | L: Fe 0.85, Ti 0.09; C15: Fe 0.68, Ti 0.06; C14: Fe 0.67, Ti 0.25; Fe23Zr6: Fe 0.79, Ti 0 | model | [1] Gierlotka 2017 | Table IV, p. 9, row 3; `ORC-ZIKSSVGSN6` |  |
+| 1551 | L -> C14 + Fe23Zr6 + BCC_A2 | L: Fe 0.86, Ti 0.09; C14: Fe 0.67, Ti 0.26; Fe23Zr6: Fe 0.79, Ti 0; BCC_A2: Fe 0.93, Ti 0.05 | model | [1] Gierlotka 2017 | Table IV, p. 9, row 4; `ORC-5IZTXD3ZNA` |  |
+| 1363 | L + C15 -> FeZr2 + FeTi | L: Fe 0.31, Ti 0.27; C15: Fe 0.66, Ti 0.05; FeZr2: Fe 0.33, Ti 0.18; FeTi: Fe 0.5, Ti 0.41 | model | [1] Gierlotka 2017 | Table IV, p. 9, row 5; `ORC-MAYYNMWP2W` |  |
+| 1247 | L + FeZr2 -> FeTi + BCC_A2 | L: Fe 0.21, Ti 0.32; FeZr2: Fe 0.33, Ti 0.21; FeTi: Fe 0.5, Ti 0.44; BCC_A2: Fe 0.11, Ti 0.35 | model | [1] Gierlotka 2017 | Table IV, p. 9, row 6; `ORC-H34B2KH2JG` |  |
 
 ## Sources
 
@@ -74,4 +74,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

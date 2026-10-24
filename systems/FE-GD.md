@@ -167,75 +167,75 @@ Table: Invariant reactions reported in the literature for the Fe–Gd system (69
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1661 | b.c.c. -> f.c.c. + liq. |  | experimental | [1] Liu 1995; _cites Copeland 1962_ | Table 3, p. 4, row 3 |  |
-| 1653 | metatectic/catatectic: δFe \<=> liquid + γFe | δFe: Gd 0.0064; liquid: Gd 0.093; γFe: Gd 0.0059 | model | [2] Zinkevich 2002 | Table 2, p. 3, row 4 |  |
-| 1653 | b.c.c. -> f.c.c. + liq. |  | experimental | [1] Liu 1995; _cites ref. 27_ | Table 3, p. 4, row 2 |  |
-| 1653 | metatectic/catatectic: δFe \<=> liquid + γFe | liquid: Gd 0.09 | model | [2] Zinkevich 2002; _cites Liu 1995_ [doi](https://doi.org/10.1016/0925-8388%2895%2901578-7) | Table 2, p. 3, row 3 |  |
-| 1653 | metatectic/catatectic: δFe \<=> liquid + γFe | δFe: Gd 0.008; liquid: Gd 0.15; γFe: Gd 0.006 | experimental | [2] Zinkevich 2002; _cites Savitskii 1969_ | Table 2, p. 3, row 2 |  |
-| 1653 | b.c.c. -> f.c.c. + liq. | L: Gd 0.09 | model | [1] Liu 1995 | Table 3, p. 4, row 1 |  |
-| 1653 | δFe \<-> Liquid + γFe | δFe: Gd 0.008; Liquid: Gd 0.15; γFe: Gd 0.006 | experimental | [3] Zinkevich 2000; _cites Savitskii 1970_ | Table 1, p. 2, row 2 |  |
-| 1646 | δFe \<-> Liquid + γFe | δFe: Gd 0.016; Liquid: Gd 0.16; γFe: Gd 0.005 | experimental | [3] Zinkevich 2000; _cites Savitskii 1961_ | Table 1, p. 2, row 1 |  |
-| 1646 | metatectic/catatectic: δFe \<=> liquid + γFe | δFe: Gd 0.016; liquid: Gd 0.16; γFe: Gd 0.005 | experimental | [2] Zinkevich 2002; _cites Savitskii 1961_ | Table 2, p. 3, row 1 |  |
-| 1608 | peritectic: liquid + γFe \<=> Fe17Gd2(H) | liquid: Gd 0.124; γFe: Gd 0.0072; Fe17Gd2(H): Gd 0.105263 | model | [2] Zinkevich 2002 | Table 2, p. 3, row 11 |  |
-| 1608 | liq. + f.c.c. -> Fe17Gd2 | Fe17Gd2: Gd 0.105263 | experimental | [1] Liu 1995; _cites ref. 27_ | Table 3, p. 4, row 5 |  |
-| 1608 | peritectic: liquid + γFe \<=> Fe17Gd2(H) | liquid: Gd 0.19; γFe: Gd 0.009; Fe17Gd2(H): Gd 0.105263 | experimental | [2] Zinkevich 2002; _cites Savitskii 1961_ | Table 2, p. 3, row 8 |  |
-| 1608 | Liquid + γFe \<-> Fe17Gd2 | Liquid: Gd 0.17; γFe: Gd 0.006; Fe17Gd2: Gd 0.105 | experimental | [3] Zinkevich 2000; _cites Savitskii 1970_ | Table 1, p. 2, row 5 |  |
-| 1608 | peritectic: liquid + γFe \<=> Fe17Gd2(H) | liquid: Gd 0.17; γFe: Gd 0.006; Fe17Gd2(H): Gd 0.105263 | experimental | [2] Zinkevich 2002; _cites Savitskii 1969_ | Table 2, p. 3, row 9 |  |
-| 1608 | Liquid + γFe \<-> Fe17Gd2 | Liquid: Gd 0.19; γFe: Gd 0.009; Fe17Gd2: Gd 0.105 | experimental | [3] Zinkevich 2000; _cites Savitskii 1961_ | Table 1, p. 2, row 4 |  |
-| 1604 | liq. + f.c.c. -> Fe17Gd2 | L: Gd 0.119; Fe17Gd2: Gd 0.105263 | model | [1] Liu 1995 | Table 3, p. 4, row 4 |  |
-| 1604 | peritectic: liquid + γFe \<=> Fe17Gd2(H) | liquid: Gd 0.119; Fe17Gd2(H): Gd 0.105263 | model | [2] Zinkevich 2002; _cites Liu 1995_ [doi](https://doi.org/10.1016/0925-8388%2895%2901578-7) | Table 2, p. 3, row 10 |  |
-| 1593 | liq. + f.c.c. -> Fe17Gd2 | Fe17Gd2: Gd 0.105263 | experimental | [1] Liu 1995; _cites Copeland 1962_ | Table 3, p. 4, row 6 |  |
-| 1587 | liq. + f.c.c. -> Fe17Gd2 | Fe17Gd2: Gd 0.105263 | experimental | [1] Liu 1995; _cites Spedding 1961_ | Table 3, p. 4, row 7 |  |
-| 1556 | liq. + Fe17Gd2 -> Fe23Gd6 | L: Gd 0.234; Fe17Gd2: Gd 0.105263; Fe23Gd6: Gd 0.206897 | model | [1] Liu 1995 | Table 3, p. 4, row 8 |  |
-| 1556 | peritectic: liquid + Fe17Gd2(H) \<=> Fe23Gd6 | liquid: Gd 0.234; Fe17Gd2(H): Gd 0.105263; Fe23Gd6: Gd 0.206897 | model | [2] Zinkevich 2002; _cites Liu 1995_ [doi](https://doi.org/10.1016/0925-8388%2895%2901578-7) | Table 2, p. 3, row 13 |  |
-| 1553 | Liquid + Fe17Gd2 \<-> Fe23Gd6 | Liquid: Gd 0.27; Fe17Gd2: Gd 0.105; Fe23Gd6: Gd 0.207 | experimental | [3] Zinkevich 2000; _cites Savitskii 1970_ | Table 1, p. 2, row 6 |  |
-| 1553 | peritectic: liquid + Fe17Gd2(H) \<=> Fe23Gd6 | liquid: Gd 0.27; Fe17Gd2(H): Gd 0.105263; Fe23Gd6: Gd 0.206897 | experimental | [2] Zinkevich 2002; _cites Savitskii 1969_ | Table 2, p. 3, row 12 |  |
-| 1553 | liq. + Fe17Gd2 -> Fe23Gd6 | Fe17Gd2: Gd 0.105263; Fe23Gd6: Gd 0.206897 | experimental | [1] Liu 1995; _cites ref. 27_ | Table 3, p. 4, row 9 |  |
-| 1552 | peritectic: liquid + Fe17Gd2(H) \<=> Fe23Gd6 | liquid: Gd 0.216; Fe17Gd2(H): Gd 0.105263; Fe23Gd6: Gd 0.206897 | model | [2] Zinkevich 2002 | Table 2, p. 3, row 14 |  |
-| 1532 | metatectic/catatectic: βGd \<=> liquid + αGd | βGd: Gd 0.995; liquid: Gd 0.95; αGd: Gd 0.995 | experimental | [2] Zinkevich 2002; _cites Savitskii 1969_ | Table 2, p. 3, row 28 |  |
-| 1532 | βGd \<-> Liquid + αGd | βGd: Gd 0.995; Liquid: Gd 0.95; αGd: Gd 0.995 | experimental | [3] Zinkevich 2000; _cites Savitskii 1970_ | Table 1, p. 2, row 14 |  |
-| 1512 | b.c.c. -> h.c.p. + liq. | b.c.c.: Gd 0.9956; L: Gd 0.96 | model | [1] Liu 1995 | Table 3, p. 4, row 21 |  |
-| 1512 | metatectic/catatectic: βGd \<=> liquid + αGd | βGd: Gd 0.9956; liquid: Gd 0.96 | model | [2] Zinkevich 2002; _cites Liu 1995_ [doi](https://doi.org/10.1016/0925-8388%2895%2901578-7) | Table 2, p. 3, row 29 |  |
-| 1505 | metatectic/catatectic: βGd \<=> liquid + αGd | βGd: Gd 0.9994; liquid: Gd 0.96; αGd: Gd 0.9999 | model | [2] Zinkevich 2002 | Table 2, p. 3, row 30 |  |
-| 1446 | liq. + Fe23Gd6 -> Fe3Gd | Fe23Gd6: Gd 0.206897; Fe3Gd: Gd 0.25 | experimental | [1] Liu 1995; _cites Spedding 1961_ | Table 3, p. 4, row 13 |  |
-| 1433 | Liquid + Fe23Gd6 \<-> Fe3Gd | Liquid: Gd 0.47; Fe23Gd6: Gd 0.207; Fe3Gd: Gd 0.25 | experimental | [3] Zinkevich 2000; _cites Novy 1961_ | Table 1, p. 2, row 8 |  |
-| 1433 | peritectic: liquid + Fe23Gd6 \<=> Fe3Gd | liquid: Gd 0.472; Fe23Gd6: Gd 0.206897; Fe3Gd: Gd 0.25 | model | [2] Zinkevich 2002 | Table 2, p. 3, row 18 |  |
-| 1433 | liq. + Fe23Gd6 -> Fe3Gd | Fe23Gd6: Gd 0.206897; Fe3Gd: Gd 0.25 | experimental | [1] Liu 1995; _cites ref. 27_ | Table 3, p. 4, row 11 |  |
-| 1433 | Liquid + Fe23Gd6 \<-> Fe3Gd | Liquid: Gd 0.41; Fe23Gd6: Gd 0.207; Fe3Gd: Gd 0.25 | experimental | [3] Zinkevich 2000; _cites Savitskii 1970_ | Table 1, p. 2, row 7 |  |
-| 1433 | peritectic: liquid + Fe23Gd6 \<=> Fe3Gd | liquid: Gd 0.47; Fe23Gd6: Gd 0.206897; Fe3Gd: Gd 0.25 | experimental | [2] Zinkevich 2002; _cites Novy 1961_ | Table 2, p. 3, row 16 |  |
-| 1433 | peritectic: liquid + Fe23Gd6 \<=> Fe3Gd | liquid: Gd 0.41; Fe23Gd6: Gd 0.206897; Fe3Gd: Gd 0.25 | experimental | [2] Zinkevich 2002; _cites Savitskii 1969_ | Table 2, p. 3, row 15 |  |
-| 1429 | liq. + Fe23Gd6 -> Fe3Gd | L: Gd 0.477; Fe23Gd6: Gd 0.206897; Fe3Gd: Gd 0.25 | model | [1] Liu 1995 | Table 3, p. 4, row 10 |  |
-| 1429 | peritectic: liquid + Fe23Gd6 \<=> Fe3Gd | liquid: Gd 0.477; Fe23Gd6: Gd 0.206897; Fe3Gd: Gd 0.25 | model | [2] Zinkevich 2002; _cites Liu 1995_ [doi](https://doi.org/10.1016/0925-8388%2895%2901578-7) | Table 2, p. 3, row 17 |  |
-| 1423 | liq. + Fe23Gd6 -> Fe3Gd | Fe23Gd6: Gd 0.206897; Fe3Gd: Gd 0.25 | experimental | [1] Liu 1995; _cites Copeland 1962_ | Table 3, p. 4, row 12 |  |
-| 1355 | liq. + Fe3Gd -> Fe2Gd | L: Gd 0.56; Fe3Gd: Gd 0.25; Fe2Gd: Gd 0.333333 | model | [1] Liu 1995 | Table 3, p. 4, row 14 |  |
-| 1355 | peritectic: liquid + Fe3Gd \<=> Fe2Gd | liquid: Gd 0.56; Fe3Gd: Gd 0.25; Fe2Gd: Gd 0.333333 | model | [2] Zinkevich 2002; _cites Liu 1995_ [doi](https://doi.org/10.1016/0925-8388%2895%2901578-7) | Table 2, p. 3, row 22 |  |
-| 1353 | peritectic: liquid + Fe3Gd \<=> Fe2Gd | liquid: Gd 0.564; Fe3Gd: Gd 0.25; Fe2Gd: Gd 0.333333 | model | [2] Zinkevich 2002 | Table 2, p. 3, row 23 |  |
-| 1353 | liq. + Fe3Gd -> Fe2Gd | Fe3Gd: Gd 0.25; Fe2Gd: Gd 0.333333 | experimental | [1] Liu 1995; _cites Copeland 1962_ | Table 3, p. 4, row 16 |  |
-| 1353 | peritectic: liquid + Fe3Gd \<=> Fe2Gd | liquid: Gd 0.56; Fe3Gd: Gd 0.25; Fe2Gd: Gd 0.333333 | experimental | [2] Zinkevich 2002; _cites Savitskii 1961_ | Table 2, p. 3, row 19 |  |
-| 1353 | liq. + Fe3Gd -> Fe2Gd | Fe3Gd: Gd 0.25; Fe2Gd: Gd 0.333333 | experimental | [1] Liu 1995; _cites ref. 27_ | Table 3, p. 4, row 15 |  |
-| 1353 | Liquid + Fe3Gd \<-> Fe2Gd | Liquid: Gd 0.56; Fe3Gd: Gd 0.25; Fe2Gd: Gd 0.333 | experimental | [3] Zinkevich 2000; _cites Savitskii 1961_ | Table 1, p. 2, row 9 |  |
-| 1353 | peritectic: liquid + Fe3Gd \<=> Fe2Gd | liquid: Gd 0.58; Fe3Gd: Gd 0.25; Fe2Gd: Gd 0.333333 | experimental | [2] Zinkevich 2002; _cites Savitskii 1969_ | Table 2, p. 3, row 20 |  |
-| 1353 | Liquid + Fe3Gd \<-> Fe2Gd | Liquid: Gd 0.58; Fe3Gd: Gd 0.25; Fe2Gd: Gd 0.333 | experimental | [3] Zinkevich 2000; _cites Savitskii 1970_ | Table 1, p. 2, row 10 |  |
-| 1334 | liq. + Fe3Gd -> Fe2Gd | Fe3Gd: Gd 0.25; Fe2Gd: Gd 0.333333 | experimental | [1] Liu 1995; _cites Spedding 1961_ | Table 3, p. 4, row 17 |  |
-| 1323 | peritectic: liquid + Fe3Gd \<=> Fe2Gd | liquid: Gd 0.55; Fe3Gd: Gd 0.25; Fe2Gd: Gd 0.333333 | experimental | [2] Zinkevich 2002; _cites Novy 1961_ | Table 2, p. 3, row 21 |  |
-| 1323 | Liquid + Fe3Gd \<-> Fe2Gd | Liquid: Gd 0.55; Fe3Gd: Gd 0.25; Fe2Gd: Gd 0.333 | experimental | [3] Zinkevich 2000; _cites Novy 1961_ | Table 1, p. 2, row 11 |  |
-| 1205 | f.c.c. + Fe17Gd2 -> b.c.c. | Fe17Gd2: Gd 0.105263 | experimental | [1] Liu 1995; _cites ref. 27_ | Table 3, p. 4, row 23 |  |
-| 1205 | peritectoid: γFe + Fe17Gd2(R) \<=> αFe | γFe: Gd 0.005; Fe17Gd2(R): Gd 0.105263; αFe: Gd 0.007 | experimental | [2] Zinkevich 2002; _cites Savitskii 1961_ | Table 2, p. 3, row 5 |  |
-| 1205 | peritectoid: γFe + Fe17Gd2(R) \<=> αFe | γFe: Gd 0.0015; Fe17Gd2(R): Gd 0.105263; αFe: Gd 0.0031 | model | [2] Zinkevich 2002 | Table 2, p. 3, row 7 |  |
-| 1205 | γFe + Fe17Gd2 \<-> αFe | γFe: Gd 0.005; Fe17Gd2: Gd 0.105; αFe: Gd 0.007 | experimental | [3] Zinkevich 2000; _cites Savitskii 1961_ | Table 1, p. 2, row 3 |  |
-| 1197 | peritectoid: γFe + Fe17Gd2(R) \<=> αFe | γFe: Gd 0.002; Fe17Gd2(R): Gd 0.105263; αFe: Gd 2.760e-4 | model | [2] Zinkevich 2002; _cites Liu 1995_ [doi](https://doi.org/10.1016/0925-8388%2895%2901578-7) | Table 2, p. 3, row 6 |  |
-| 1197 | f.c.c. + Fe17Gd2 -> b.c.c. | f.c.c.: Gd 0.001283; Fe17Gd2: Gd 0.105263; b.c.c.: Gd 2.760e-4 | model | [1] Liu 1995 | Table 3, p. 4, row 22 |  |
-| 1183 | f.c.c. + Fe17Gd2 -> b.c.c. | Fe17Gd2: Gd 0.105263 | experimental | [1] Liu 1995; _cites Copeland 1962_ | Table 3, p. 4, row 24 |  |
-| 1133 | eutectic: liquid \<=> Fe2Gd + αGd | liquid: Gd 0.7; Fe2Gd: Gd 0.333333 | experimental | [2] Zinkevich 2002; _cites Novy 1961_ | Table 2, p. 3, row 25 |  |
-| 1133 | Liquid \<-> Fe2Gd + αGd | Liquid: Gd 0.7; Fe2Gd: Gd 0.333; αGd: Gd 1 | experimental | [3] Zinkevich 2000; _cites Novy 1961_ | Table 1, p. 2, row 13 |  |
-| 1118 | liq. -> Fe2Gd + h.c.p. | Fe2Gd: Gd 0.333333 | experimental | [1] Liu 1995; _cites Copeland 1962_ | Table 3, p. 4, row 20 |  |
-| 1105 | eutectic: liquid \<=> Fe2Gd + αGd | liquid: Gd 0.736; Fe2Gd: Gd 0.333333 | model | [2] Zinkevich 2002; _cites Liu 1995_ [doi](https://doi.org/10.1016/0925-8388%2895%2901578-7) | Table 2, p. 3, row 26 |  |
-| 1105 | liq. -> Fe2Gd + h.c.p. | L: Gd 0.736; Fe2Gd: Gd 0.333333 | model | [1] Liu 1995 | Table 3, p. 4, row 18 |  |
-| 1103 | liq. -> Fe2Gd + h.c.p. | Fe2Gd: Gd 0.333333 | experimental | [1] Liu 1995; _cites ref. 27_ | Table 3, p. 4, row 19 |  |
-| 1103 | Liquid \<-> Fe2Gd + αGd | Liquid: Gd 0.72; Fe2Gd: Gd 0.333; αGd: Gd 0.999 | experimental | [3] Zinkevich 2000; _cites Savitskii 1961_ | Table 1, p. 2, row 12 |  |
-| 1103 | eutectic: liquid \<=> Fe2Gd + αGd | liquid: Gd 0.726; Fe2Gd: Gd 0.333333; αGd: Gd 1 | model | [2] Zinkevich 2002 | Table 2, p. 3, row 27 |  |
-| 1103 | eutectic: liquid \<=> Fe2Gd + αGd | liquid: Gd 0.72; Fe2Gd: Gd 0.333333; αGd: Gd 0.999 | experimental | [2] Zinkevich 2002; _cites Savitskii 1961_ | Table 2, p. 3, row 24 |  |
-| 1103 | eutectic |  | experimental | [2] Zinkevich 2002 | p. 8 | “The use of a ternary interaction parameter 0LFe,Gd,Mo was necessary to treat the stability of a liquid phase in the Fe-Gd-Mo system down to 923 K, i.e., 180 K below the lowest eutectic temperature in the binary systems (Fe-Gd, 1103 K).” |
+| 1661 | b.c.c. -> f.c.c. + liq. |  | experimental | [1] Liu 1995; _cites Copeland 1962_ | Table 3, p. 4, row 3; `ORC-OIWCPIV34F` |  |
+| 1653 | metatectic/catatectic: δFe \<=> liquid + γFe | δFe: Gd 0.0064; liquid: Gd 0.093; γFe: Gd 0.0059 | model | [2] Zinkevich 2002 | Table 2, p. 3, row 4; `ORC-46UPYCHQHI` |  |
+| 1653 | b.c.c. -> f.c.c. + liq. |  | experimental | [1] Liu 1995; _cites ref. 27_ | Table 3, p. 4, row 2; `ORC-5NKD7GOR2K` |  |
+| 1653 | metatectic/catatectic: δFe \<=> liquid + γFe | liquid: Gd 0.09 | model | [2] Zinkevich 2002; _cites Liu 1995_ [doi](https://doi.org/10.1016/0925-8388%2895%2901578-7) | Table 2, p. 3, row 3; `ORC-AG3YS4UTGA` |  |
+| 1653 | metatectic/catatectic: δFe \<=> liquid + γFe | δFe: Gd 0.008; liquid: Gd 0.15; γFe: Gd 0.006 | experimental | [2] Zinkevich 2002; _cites Savitskii 1969_ | Table 2, p. 3, row 2; `ORC-JGLVLDM2IS` |  |
+| 1653 | b.c.c. -> f.c.c. + liq. | L: Gd 0.09 | model | [1] Liu 1995 | Table 3, p. 4, row 1; `ORC-UL3UDTNZVR` |  |
+| 1653 | δFe \<-> Liquid + γFe | δFe: Gd 0.008; Liquid: Gd 0.15; γFe: Gd 0.006 | experimental | [3] Zinkevich 2000; _cites Savitskii 1970_ | Table 1, p. 2, row 2; `ORC-ZV2TJ56EGT` |  |
+| 1646 | δFe \<-> Liquid + γFe | δFe: Gd 0.016; Liquid: Gd 0.16; γFe: Gd 0.005 | experimental | [3] Zinkevich 2000; _cites Savitskii 1961_ | Table 1, p. 2, row 1; `ORC-2GBRQNVATP` |  |
+| 1646 | metatectic/catatectic: δFe \<=> liquid + γFe | δFe: Gd 0.016; liquid: Gd 0.16; γFe: Gd 0.005 | experimental | [2] Zinkevich 2002; _cites Savitskii 1961_ | Table 2, p. 3, row 1; `ORC-YJMZ33XVMQ` |  |
+| 1608 | peritectic: liquid + γFe \<=> Fe17Gd2(H) | liquid: Gd 0.124; γFe: Gd 0.0072; Fe17Gd2(H): Gd 0.105263 | model | [2] Zinkevich 2002 | Table 2, p. 3, row 11; `ORC-BV2FE3GSHG` |  |
+| 1608 | liq. + f.c.c. -> Fe17Gd2 | Fe17Gd2: Gd 0.105263 | experimental | [1] Liu 1995; _cites ref. 27_ | Table 3, p. 4, row 5; `ORC-G3XEPO6R65` |  |
+| 1608 | peritectic: liquid + γFe \<=> Fe17Gd2(H) | liquid: Gd 0.19; γFe: Gd 0.009; Fe17Gd2(H): Gd 0.105263 | experimental | [2] Zinkevich 2002; _cites Savitskii 1961_ | Table 2, p. 3, row 8; `ORC-HJKFVEIDZJ` |  |
+| 1608 | Liquid + γFe \<-> Fe17Gd2 | Liquid: Gd 0.17; γFe: Gd 0.006; Fe17Gd2: Gd 0.105 | experimental | [3] Zinkevich 2000; _cites Savitskii 1970_ | Table 1, p. 2, row 5; `ORC-J4SRPLDLS5` |  |
+| 1608 | peritectic: liquid + γFe \<=> Fe17Gd2(H) | liquid: Gd 0.17; γFe: Gd 0.006; Fe17Gd2(H): Gd 0.105263 | experimental | [2] Zinkevich 2002; _cites Savitskii 1969_ | Table 2, p. 3, row 9; `ORC-OAPBARZGIC` |  |
+| 1608 | Liquid + γFe \<-> Fe17Gd2 | Liquid: Gd 0.19; γFe: Gd 0.009; Fe17Gd2: Gd 0.105 | experimental | [3] Zinkevich 2000; _cites Savitskii 1961_ | Table 1, p. 2, row 4; `ORC-VZBFZFPXN7` |  |
+| 1604 | liq. + f.c.c. -> Fe17Gd2 | L: Gd 0.119; Fe17Gd2: Gd 0.105263 | model | [1] Liu 1995 | Table 3, p. 4, row 4; `ORC-J6MP2YTXG4` |  |
+| 1604 | peritectic: liquid + γFe \<=> Fe17Gd2(H) | liquid: Gd 0.119; Fe17Gd2(H): Gd 0.105263 | model | [2] Zinkevich 2002; _cites Liu 1995_ [doi](https://doi.org/10.1016/0925-8388%2895%2901578-7) | Table 2, p. 3, row 10; `ORC-TGNQMVMBGH` |  |
+| 1593 | liq. + f.c.c. -> Fe17Gd2 | Fe17Gd2: Gd 0.105263 | experimental | [1] Liu 1995; _cites Copeland 1962_ | Table 3, p. 4, row 6; `ORC-ZCPUUBDH2P` |  |
+| 1587 | liq. + f.c.c. -> Fe17Gd2 | Fe17Gd2: Gd 0.105263 | experimental | [1] Liu 1995; _cites Spedding 1961_ | Table 3, p. 4, row 7; `ORC-2FLNJRIT6Y` |  |
+| 1556 | liq. + Fe17Gd2 -> Fe23Gd6 | L: Gd 0.234; Fe17Gd2: Gd 0.105263; Fe23Gd6: Gd 0.206897 | model | [1] Liu 1995 | Table 3, p. 4, row 8; `ORC-6C6VXAAX7W` |  |
+| 1556 | peritectic: liquid + Fe17Gd2(H) \<=> Fe23Gd6 | liquid: Gd 0.234; Fe17Gd2(H): Gd 0.105263; Fe23Gd6: Gd 0.206897 | model | [2] Zinkevich 2002; _cites Liu 1995_ [doi](https://doi.org/10.1016/0925-8388%2895%2901578-7) | Table 2, p. 3, row 13; `ORC-Z62LGDPMM5` |  |
+| 1553 | Liquid + Fe17Gd2 \<-> Fe23Gd6 | Liquid: Gd 0.27; Fe17Gd2: Gd 0.105; Fe23Gd6: Gd 0.207 | experimental | [3] Zinkevich 2000; _cites Savitskii 1970_ | Table 1, p. 2, row 6; `ORC-ATP2EQVIKT` |  |
+| 1553 | peritectic: liquid + Fe17Gd2(H) \<=> Fe23Gd6 | liquid: Gd 0.27; Fe17Gd2(H): Gd 0.105263; Fe23Gd6: Gd 0.206897 | experimental | [2] Zinkevich 2002; _cites Savitskii 1969_ | Table 2, p. 3, row 12; `ORC-OYHGWF55XA` |  |
+| 1553 | liq. + Fe17Gd2 -> Fe23Gd6 | Fe17Gd2: Gd 0.105263; Fe23Gd6: Gd 0.206897 | experimental | [1] Liu 1995; _cites ref. 27_ | Table 3, p. 4, row 9; `ORC-WVA46OYFVS` |  |
+| 1552 | peritectic: liquid + Fe17Gd2(H) \<=> Fe23Gd6 | liquid: Gd 0.216; Fe17Gd2(H): Gd 0.105263; Fe23Gd6: Gd 0.206897 | model | [2] Zinkevich 2002 | Table 2, p. 3, row 14; `ORC-PUERSQFVH5` |  |
+| 1532 | metatectic/catatectic: βGd \<=> liquid + αGd | βGd: Gd 0.995; liquid: Gd 0.95; αGd: Gd 0.995 | experimental | [2] Zinkevich 2002; _cites Savitskii 1969_ | Table 2, p. 3, row 28; `ORC-4CH5CCYWDF` |  |
+| 1532 | βGd \<-> Liquid + αGd | βGd: Gd 0.995; Liquid: Gd 0.95; αGd: Gd 0.995 | experimental | [3] Zinkevich 2000; _cites Savitskii 1970_ | Table 1, p. 2, row 14; `ORC-IDBGAIABJV` |  |
+| 1512 | b.c.c. -> h.c.p. + liq. | b.c.c.: Gd 0.9956; L: Gd 0.96 | model | [1] Liu 1995 | Table 3, p. 4, row 21; `ORC-2DX5UZW32C` |  |
+| 1512 | metatectic/catatectic: βGd \<=> liquid + αGd | βGd: Gd 0.9956; liquid: Gd 0.96 | model | [2] Zinkevich 2002; _cites Liu 1995_ [doi](https://doi.org/10.1016/0925-8388%2895%2901578-7) | Table 2, p. 3, row 29; `ORC-OGR3XCO2B3` |  |
+| 1505 | metatectic/catatectic: βGd \<=> liquid + αGd | βGd: Gd 0.9994; liquid: Gd 0.96; αGd: Gd 0.9999 | model | [2] Zinkevich 2002 | Table 2, p. 3, row 30; `ORC-CDGKISQFML` |  |
+| 1446 | liq. + Fe23Gd6 -> Fe3Gd | Fe23Gd6: Gd 0.206897; Fe3Gd: Gd 0.25 | experimental | [1] Liu 1995; _cites Spedding 1961_ | Table 3, p. 4, row 13; `ORC-PZR5Q3IXGA` |  |
+| 1433 | Liquid + Fe23Gd6 \<-> Fe3Gd | Liquid: Gd 0.47; Fe23Gd6: Gd 0.207; Fe3Gd: Gd 0.25 | experimental | [3] Zinkevich 2000; _cites Novy 1961_ | Table 1, p. 2, row 8; `ORC-4AKVTHMPU2` |  |
+| 1433 | peritectic: liquid + Fe23Gd6 \<=> Fe3Gd | liquid: Gd 0.472; Fe23Gd6: Gd 0.206897; Fe3Gd: Gd 0.25 | model | [2] Zinkevich 2002 | Table 2, p. 3, row 18; `ORC-IPGP4AXE7J` |  |
+| 1433 | liq. + Fe23Gd6 -> Fe3Gd | Fe23Gd6: Gd 0.206897; Fe3Gd: Gd 0.25 | experimental | [1] Liu 1995; _cites ref. 27_ | Table 3, p. 4, row 11; `ORC-MMGA2TAVT3` |  |
+| 1433 | Liquid + Fe23Gd6 \<-> Fe3Gd | Liquid: Gd 0.41; Fe23Gd6: Gd 0.207; Fe3Gd: Gd 0.25 | experimental | [3] Zinkevich 2000; _cites Savitskii 1970_ | Table 1, p. 2, row 7; `ORC-PPOXVS2WVU` |  |
+| 1433 | peritectic: liquid + Fe23Gd6 \<=> Fe3Gd | liquid: Gd 0.47; Fe23Gd6: Gd 0.206897; Fe3Gd: Gd 0.25 | experimental | [2] Zinkevich 2002; _cites Novy 1961_ | Table 2, p. 3, row 16; `ORC-UHABHJQCJD` |  |
+| 1433 | peritectic: liquid + Fe23Gd6 \<=> Fe3Gd | liquid: Gd 0.41; Fe23Gd6: Gd 0.206897; Fe3Gd: Gd 0.25 | experimental | [2] Zinkevich 2002; _cites Savitskii 1969_ | Table 2, p. 3, row 15; `ORC-XXIDQLZOEU` |  |
+| 1429 | liq. + Fe23Gd6 -> Fe3Gd | L: Gd 0.477; Fe23Gd6: Gd 0.206897; Fe3Gd: Gd 0.25 | model | [1] Liu 1995 | Table 3, p. 4, row 10; `ORC-BWR3KBOFJ7` |  |
+| 1429 | peritectic: liquid + Fe23Gd6 \<=> Fe3Gd | liquid: Gd 0.477; Fe23Gd6: Gd 0.206897; Fe3Gd: Gd 0.25 | model | [2] Zinkevich 2002; _cites Liu 1995_ [doi](https://doi.org/10.1016/0925-8388%2895%2901578-7) | Table 2, p. 3, row 17; `ORC-MXY57LQBVL` |  |
+| 1423 | liq. + Fe23Gd6 -> Fe3Gd | Fe23Gd6: Gd 0.206897; Fe3Gd: Gd 0.25 | experimental | [1] Liu 1995; _cites Copeland 1962_ | Table 3, p. 4, row 12; `ORC-SOLNOOVAXU` |  |
+| 1355 | liq. + Fe3Gd -> Fe2Gd | L: Gd 0.56; Fe3Gd: Gd 0.25; Fe2Gd: Gd 0.333333 | model | [1] Liu 1995 | Table 3, p. 4, row 14; `ORC-KLQ6A2FYBH` |  |
+| 1355 | peritectic: liquid + Fe3Gd \<=> Fe2Gd | liquid: Gd 0.56; Fe3Gd: Gd 0.25; Fe2Gd: Gd 0.333333 | model | [2] Zinkevich 2002; _cites Liu 1995_ [doi](https://doi.org/10.1016/0925-8388%2895%2901578-7) | Table 2, p. 3, row 22; `ORC-N5IEXQZJ6D` |  |
+| 1353 | peritectic: liquid + Fe3Gd \<=> Fe2Gd | liquid: Gd 0.564; Fe3Gd: Gd 0.25; Fe2Gd: Gd 0.333333 | model | [2] Zinkevich 2002 | Table 2, p. 3, row 23; `ORC-DOOJCKC72M` |  |
+| 1353 | liq. + Fe3Gd -> Fe2Gd | Fe3Gd: Gd 0.25; Fe2Gd: Gd 0.333333 | experimental | [1] Liu 1995; _cites Copeland 1962_ | Table 3, p. 4, row 16; `ORC-FHVANPAEEE` |  |
+| 1353 | peritectic: liquid + Fe3Gd \<=> Fe2Gd | liquid: Gd 0.56; Fe3Gd: Gd 0.25; Fe2Gd: Gd 0.333333 | experimental | [2] Zinkevich 2002; _cites Savitskii 1961_ | Table 2, p. 3, row 19; `ORC-GNBY3V4I22` |  |
+| 1353 | liq. + Fe3Gd -> Fe2Gd | Fe3Gd: Gd 0.25; Fe2Gd: Gd 0.333333 | experimental | [1] Liu 1995; _cites ref. 27_ | Table 3, p. 4, row 15; `ORC-RF6WXNTRRI` |  |
+| 1353 | Liquid + Fe3Gd \<-> Fe2Gd | Liquid: Gd 0.56; Fe3Gd: Gd 0.25; Fe2Gd: Gd 0.333 | experimental | [3] Zinkevich 2000; _cites Savitskii 1961_ | Table 1, p. 2, row 9; `ORC-U2W7UVUO5T` |  |
+| 1353 | peritectic: liquid + Fe3Gd \<=> Fe2Gd | liquid: Gd 0.58; Fe3Gd: Gd 0.25; Fe2Gd: Gd 0.333333 | experimental | [2] Zinkevich 2002; _cites Savitskii 1969_ | Table 2, p. 3, row 20; `ORC-UR3YYGCYS2` |  |
+| 1353 | Liquid + Fe3Gd \<-> Fe2Gd | Liquid: Gd 0.58; Fe3Gd: Gd 0.25; Fe2Gd: Gd 0.333 | experimental | [3] Zinkevich 2000; _cites Savitskii 1970_ | Table 1, p. 2, row 10; `ORC-XYOH37JWVE` |  |
+| 1334 | liq. + Fe3Gd -> Fe2Gd | Fe3Gd: Gd 0.25; Fe2Gd: Gd 0.333333 | experimental | [1] Liu 1995; _cites Spedding 1961_ | Table 3, p. 4, row 17; `ORC-2DYA36L3WA` |  |
+| 1323 | peritectic: liquid + Fe3Gd \<=> Fe2Gd | liquid: Gd 0.55; Fe3Gd: Gd 0.25; Fe2Gd: Gd 0.333333 | experimental | [2] Zinkevich 2002; _cites Novy 1961_ | Table 2, p. 3, row 21; `ORC-3HQDBHK7TR` |  |
+| 1323 | Liquid + Fe3Gd \<-> Fe2Gd | Liquid: Gd 0.55; Fe3Gd: Gd 0.25; Fe2Gd: Gd 0.333 | experimental | [3] Zinkevich 2000; _cites Novy 1961_ | Table 1, p. 2, row 11; `ORC-KJNGML5FLQ` |  |
+| 1205 | f.c.c. + Fe17Gd2 -> b.c.c. | Fe17Gd2: Gd 0.105263 | experimental | [1] Liu 1995; _cites ref. 27_ | Table 3, p. 4, row 23; `ORC-BAMC25RYI5` |  |
+| 1205 | peritectoid: γFe + Fe17Gd2(R) \<=> αFe | γFe: Gd 0.005; Fe17Gd2(R): Gd 0.105263; αFe: Gd 0.007 | experimental | [2] Zinkevich 2002; _cites Savitskii 1961_ | Table 2, p. 3, row 5; `ORC-H4WQALVEWJ` |  |
+| 1205 | peritectoid: γFe + Fe17Gd2(R) \<=> αFe | γFe: Gd 0.0015; Fe17Gd2(R): Gd 0.105263; αFe: Gd 0.0031 | model | [2] Zinkevich 2002 | Table 2, p. 3, row 7; `ORC-IIMXQCXB4A` |  |
+| 1205 | γFe + Fe17Gd2 \<-> αFe | γFe: Gd 0.005; Fe17Gd2: Gd 0.105; αFe: Gd 0.007 | experimental | [3] Zinkevich 2000; _cites Savitskii 1961_ | Table 1, p. 2, row 3; `ORC-KN44HMFDQV` |  |
+| 1197 | peritectoid: γFe + Fe17Gd2(R) \<=> αFe | γFe: Gd 0.002; Fe17Gd2(R): Gd 0.105263; αFe: Gd 2.760e-4 | model | [2] Zinkevich 2002; _cites Liu 1995_ [doi](https://doi.org/10.1016/0925-8388%2895%2901578-7) | Table 2, p. 3, row 6; `ORC-MKHDDOEJQS` |  |
+| 1197 | f.c.c. + Fe17Gd2 -> b.c.c. | f.c.c.: Gd 0.001283; Fe17Gd2: Gd 0.105263; b.c.c.: Gd 2.760e-4 | model | [1] Liu 1995 | Table 3, p. 4, row 22; `ORC-PXS6AYUHGL` |  |
+| 1183 | f.c.c. + Fe17Gd2 -> b.c.c. | Fe17Gd2: Gd 0.105263 | experimental | [1] Liu 1995; _cites Copeland 1962_ | Table 3, p. 4, row 24; `ORC-3KCNYVYPYE` |  |
+| 1133 | eutectic: liquid \<=> Fe2Gd + αGd | liquid: Gd 0.7; Fe2Gd: Gd 0.333333 | experimental | [2] Zinkevich 2002; _cites Novy 1961_ | Table 2, p. 3, row 25; `ORC-O36MJAGJPH` |  |
+| 1133 | Liquid \<-> Fe2Gd + αGd | Liquid: Gd 0.7; Fe2Gd: Gd 0.333; αGd: Gd 1 | experimental | [3] Zinkevich 2000; _cites Novy 1961_ | Table 1, p. 2, row 13; `ORC-VPHYHCSCIU` |  |
+| 1118 | liq. -> Fe2Gd + h.c.p. | Fe2Gd: Gd 0.333333 | experimental | [1] Liu 1995; _cites Copeland 1962_ | Table 3, p. 4, row 20; `ORC-3QGRPWDIJP` |  |
+| 1105 | eutectic: liquid \<=> Fe2Gd + αGd | liquid: Gd 0.736; Fe2Gd: Gd 0.333333 | model | [2] Zinkevich 2002; _cites Liu 1995_ [doi](https://doi.org/10.1016/0925-8388%2895%2901578-7) | Table 2, p. 3, row 26; `ORC-7FRZO6DNUS` |  |
+| 1105 | liq. -> Fe2Gd + h.c.p. | L: Gd 0.736; Fe2Gd: Gd 0.333333 | model | [1] Liu 1995 | Table 3, p. 4, row 18; `ORC-K5A4XJSJP4` |  |
+| 1103 | liq. -> Fe2Gd + h.c.p. | Fe2Gd: Gd 0.333333 | experimental | [1] Liu 1995; _cites ref. 27_ | Table 3, p. 4, row 19; `ORC-3EDFCRWVDP` |  |
+| 1103 | Liquid \<-> Fe2Gd + αGd | Liquid: Gd 0.72; Fe2Gd: Gd 0.333; αGd: Gd 0.999 | experimental | [3] Zinkevich 2000; _cites Savitskii 1961_ | Table 1, p. 2, row 12; `ORC-EGMZAMBAJR` |  |
+| 1103 | eutectic: liquid \<=> Fe2Gd + αGd | liquid: Gd 0.726; Fe2Gd: Gd 0.333333; αGd: Gd 1 | model | [2] Zinkevich 2002 | Table 2, p. 3, row 27; `ORC-SG6KBKU62G` |  |
+| 1103 | eutectic: liquid \<=> Fe2Gd + αGd | liquid: Gd 0.72; Fe2Gd: Gd 0.333333; αGd: Gd 0.999 | experimental | [2] Zinkevich 2002; _cites Savitskii 1961_ | Table 2, p. 3, row 24; `ORC-SGSQ35HACA` |  |
+| 1103 | eutectic |  | experimental | [2] Zinkevich 2002 | p. 8; `ORC-XQSETY4EPT` | “The use of a ternary interaction parameter 0LFe,Gd,Mo was necessary to treat the stability of a liquid phase in the Fe-Gd-Mo system down to 923 K, i.e., 180 K below the lowest eutectic temperature in the binary systems (Fe-Gd, 1103 K).” |
 
 ## Formation enthalpies
 
@@ -245,38 +245,38 @@ Table: Enthalpies of formation, Fe–Gd system (32)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Fe17Gd2 | [Fe17Gd2](https://data.orchid-project.org/compounds/Fe17Gd2.html) | -2.3 kJ/mol-atom ± 1.6 | 298.15 | experimental | -0.552 (mp-aaacqckz) | -0.034 (oqmd-89232) | [3] Zinkevich 2000; _cites Colinet 1987_ [doi](https://doi.org/10.1007/bf02646931) | Table 2, p. 3, row 4 |  |
-| Fe17Gd2(R) | [Fe17Gd2](https://data.orchid-project.org/compounds/Fe17Gd2.html) | -4.34 kJ/mol-atom | 298.15 | model | -0.552 (mp-aaacqckz) | -0.034 (oqmd-89232) | [2] Zinkevich 2002 | Table 12, p. 13, row 3 |  |
-| Fe17Gd2(R) | [Fe17Gd2](https://data.orchid-project.org/compounds/Fe17Gd2.html) | -3.65 kJ/mol-atom | 298.15 | model | -0.552 (mp-aaacqckz) | -0.034 (oqmd-89232) | [2] Zinkevich 2002; _cites Zinkevich 2000_ | Table 12, p. 13, row 2 |  |
-| Fe17Gd2(R) | [Fe17Gd2](https://data.orchid-project.org/compounds/Fe17Gd2.html) | -2.3 kJ/mol-atom ± 1.6 | 298.15 | experimental | -0.552 (mp-aaacqckz) | -0.034 (oqmd-89232) | [2] Zinkevich 2002; _cites Colinet 1987_ | Table 12, p. 13, row 1 |  |
-| Fe23Gd6 | [Fe23Gd6](https://data.orchid-project.org/compounds/Fe23Gd6.html) | -6.44 kJ/mol-atom | 298.15 | model | 119.903 (mp-aaacpzco) | -1.306 (oqmd-30181) | [2] Zinkevich 2002 | Table 12, p. 13, row 5 |  |
-| Fe23Gd6 | [Fe23Gd6](https://data.orchid-project.org/compounds/Fe23Gd6.html) | -4.74 kJ/mol-atom | 298.15 | model | 119.903 (mp-aaacpzco) | -1.306 (oqmd-30181) | [2] Zinkevich 2002; _cites Zinkevich 2000_ | Table 12, p. 13, row 4 |  |
-| Fe2Gd | [Fe2Gd](https://data.orchid-project.org/compounds/Fe2Gd.html) | -11.6 kJ/mol-atom ± 2 | 298.15 | experimental | 1.566 (mp-aaaabdsr) | -3.181 (oqmd-18836) | [2] Zinkevich 2002; _cites Colinet 1987_ | Table 12, p. 13, row 9 |  |
-| Fe2Gd | [Fe2Gd](https://data.orchid-project.org/compounds/Fe2Gd.html) | -11.6 kJ/mol-atom ± 2 | 298.15 | experimental | 1.566 (mp-aaaabdsr) | -3.181 (oqmd-18836) | [3] Zinkevich 2000; _cites Colinet 1987_ [doi](https://doi.org/10.1007/bf02646931) | Table 2, p. 3, row 2 |  |
-| Fe2Gd | [Fe2Gd](https://data.orchid-project.org/compounds/Fe2Gd.html) | -6.81 kJ/mol-atom | 1078 | model | 1.566 (mp-aaaabdsr) | -3.181 (oqmd-18836) | [2] Zinkevich 2002 | Table 12, p. 13, row 14 |  |
-| Fe2Gd | [Fe2Gd](https://data.orchid-project.org/compounds/Fe2Gd.html) | -5.94 kJ/mol-atom | 298.15 | model | 1.566 (mp-aaaabdsr) | -3.181 (oqmd-18836) | [2] Zinkevich 2002 | Table 12, p. 13, row 11 |  |
-| Fe2Gd | [Fe2Gd](https://data.orchid-project.org/compounds/Fe2Gd.html) | -4.59 kJ/mol-atom | 298.15 | model | 1.566 (mp-aaaabdsr) | -3.181 (oqmd-18836) | [2] Zinkevich 2002; _cites Zinkevich 2000_ | Table 12, p. 13, row 10 |  |
-| Fe2Gd | [Fe2Gd](https://data.orchid-project.org/compounds/Fe2Gd.html) | -4.38 kJ/mol-atom | 1078 | model | 1.566 (mp-aaaabdsr) | -3.181 (oqmd-18836) | [2] Zinkevich 2002; _cites Zinkevich 2000_ | Table 12, p. 13, row 13 |  |
-| Fe2Gd | [Fe2Gd](https://data.orchid-project.org/compounds/Fe2Gd.html) | -3.5 kJ/mol-atom ± 1.5 | 1078 | experimental | 1.566 (mp-aaaabdsr) | -3.181 (oqmd-18836) | [2] Zinkevich 2002; _cites Deodhar 1975_ | Table 12, p. 13, row 12 |  |
-| Fe2Gd | [Fe2Gd](https://data.orchid-project.org/compounds/Fe2Gd.html) | -3.5 kJ/mol-atom ± 1.5 | 1078 | experimental | 1.566 (mp-aaaabdsr) | -3.181 (oqmd-18836) | [3] Zinkevich 2000; _cites Deodhar 1975_ | Table 2, p. 3, row 1 |  |
-| Fe3Gd | [Fe3Gd](https://data.orchid-project.org/compounds/Fe3Gd.html) | -9.3 kJ/mol-atom ± 1.9 | 298.15 | experimental |  | -3.613 (oqmd-30182) | [3] Zinkevich 2000; _cites Colinet 1987_ [doi](https://doi.org/10.1007/bf02646931) | Table 2, p. 3, row 3 |  |
-| Fe3Gd | [Fe3Gd](https://data.orchid-project.org/compounds/Fe3Gd.html) | -9.3 kJ/mol-atom ± 1.9 | 298.15 | experimental |  | -3.613 (oqmd-30182) | [2] Zinkevich 2002; _cites Colinet 1987_ | Table 12, p. 13, row 6 |  |
-| Fe3Gd | [Fe3Gd](https://data.orchid-project.org/compounds/Fe3Gd.html) | -7.78 kJ/mol-atom | 298.15 | model |  | -3.613 (oqmd-30182) | [2] Zinkevich 2002 | Table 12, p. 13, row 8 |  |
-| Fe3Gd | [Fe3Gd](https://data.orchid-project.org/compounds/Fe3Gd.html) | -4.93 kJ/mol-atom | 298.15 | model |  | -3.613 (oqmd-30182) | [2] Zinkevich 2002; _cites Zinkevich 2000_ | Table 12, p. 13, row 7 |  |
-| UNKNOWN |  | -11.6 per mol-atom ± 2 | 298.15 | experimental |  |  | [2] Zinkevich 2002; _cites Colinet 1987_ | Table 12, p. 13, row 9 |  |
-| UNKNOWN |  | -9.3 per mol-atom ± 1.9 | 298.15 | experimental |  |  | [2] Zinkevich 2002; _cites Colinet 1987_ | Table 12, p. 13, row 6 |  |
-| UNKNOWN |  | -7.78 per mol-atom | 298.15 | model |  |  | [2] Zinkevich 2002 | Table 12, p. 13, row 8 |  |
-| UNKNOWN |  | -6.81 per mol-atom | 1078 | model |  |  | [2] Zinkevich 2002 | Table 12, p. 13, row 14 |  |
-| UNKNOWN |  | -6.44 per mol-atom | 298.15 | model |  |  | [2] Zinkevich 2002 | Table 12, p. 13, row 5 |  |
-| UNKNOWN |  | -5.94 per mol-atom | 298.15 | model |  |  | [2] Zinkevich 2002 | Table 12, p. 13, row 11 |  |
-| UNKNOWN |  | -4.93 per mol-atom | 298.15 | model |  |  | [2] Zinkevich 2002; _cites Zinkevich 2000_ | Table 12, p. 13, row 7 |  |
-| UNKNOWN |  | -4.74 per mol-atom | 298.15 | model |  |  | [2] Zinkevich 2002; _cites Zinkevich 2000_ | Table 12, p. 13, row 4 |  |
-| UNKNOWN |  | -4.59 per mol-atom | 298.15 | model |  |  | [2] Zinkevich 2002; _cites Zinkevich 2000_ | Table 12, p. 13, row 10 |  |
-| UNKNOWN |  | -4.38 per mol-atom | 1078 | model |  |  | [2] Zinkevich 2002; _cites Zinkevich 2000_ | Table 12, p. 13, row 13 |  |
-| UNKNOWN |  | -4.34 per mol-atom | 298.15 | model |  |  | [2] Zinkevich 2002 | Table 12, p. 13, row 3 |  |
-| UNKNOWN |  | -3.65 per mol-atom | 298.15 | model |  |  | [2] Zinkevich 2002; _cites Zinkevich 2000_ | Table 12, p. 13, row 2 |  |
-| UNKNOWN |  | -3.5 per mol-atom ± 1.5 | 1078 | experimental |  |  | [2] Zinkevich 2002; _cites Deodhar 1975_ | Table 12, p. 13, row 12 |  |
-| UNKNOWN |  | -2.3 per mol-atom ± 1.6 | 298.15 | experimental |  |  | [2] Zinkevich 2002; _cites Colinet 1987_ | Table 12, p. 13, row 1 |  |
+| Fe17Gd2 | [Fe17Gd2](https://data.orchid-project.org/compounds/Fe17Gd2.html) | -2.3 kJ/mol-atom ± 1.6 | 298.15 | experimental | -0.552 (mp-aaacqckz) | -0.034 (oqmd-89232) | [3] Zinkevich 2000; _cites Colinet 1987_ [doi](https://doi.org/10.1007/bf02646931) | Table 2, p. 3, row 4; `ORC-L4LH5UJX5O` |  |
+| Fe17Gd2(R) | [Fe17Gd2](https://data.orchid-project.org/compounds/Fe17Gd2.html) | -4.34 kJ/mol-atom | 298.15 | model | -0.552 (mp-aaacqckz) | -0.034 (oqmd-89232) | [2] Zinkevich 2002 | Table 12, p. 13, row 3; `ORC-ST7FDFMX44.9b8b16` |  |
+| Fe17Gd2(R) | [Fe17Gd2](https://data.orchid-project.org/compounds/Fe17Gd2.html) | -3.65 kJ/mol-atom | 298.15 | model | -0.552 (mp-aaacqckz) | -0.034 (oqmd-89232) | [2] Zinkevich 2002; _cites Zinkevich 2000_ | Table 12, p. 13, row 2; `ORC-BWDWD4QDIT.89c066` |  |
+| Fe17Gd2(R) | [Fe17Gd2](https://data.orchid-project.org/compounds/Fe17Gd2.html) | -2.3 kJ/mol-atom ± 1.6 | 298.15 | experimental | -0.552 (mp-aaacqckz) | -0.034 (oqmd-89232) | [2] Zinkevich 2002; _cites Colinet 1987_ | Table 12, p. 13, row 1; `ORC-GULMEPWYY2.b2cb0e` |  |
+| Fe23Gd6 | [Fe23Gd6](https://data.orchid-project.org/compounds/Fe23Gd6.html) | -6.44 kJ/mol-atom | 298.15 | model | 119.903 (mp-aaacpzco) | -1.306 (oqmd-30181) | [2] Zinkevich 2002 | Table 12, p. 13, row 5; `ORC-GFLCDMFT2S.df124f` |  |
+| Fe23Gd6 | [Fe23Gd6](https://data.orchid-project.org/compounds/Fe23Gd6.html) | -4.74 kJ/mol-atom | 298.15 | model | 119.903 (mp-aaacpzco) | -1.306 (oqmd-30181) | [2] Zinkevich 2002; _cites Zinkevich 2000_ | Table 12, p. 13, row 4; `ORC-QHUFQDX7VW.d21cdf` |  |
+| Fe2Gd | [Fe2Gd](https://data.orchid-project.org/compounds/Fe2Gd.html) | -11.6 kJ/mol-atom ± 2 | 298.15 | experimental | 1.566 (mp-aaaabdsr) | -3.181 (oqmd-18836) | [2] Zinkevich 2002; _cites Colinet 1987_ | Table 12, p. 13, row 9; `ORC-FGKIBVFKMX.551bc0` |  |
+| Fe2Gd | [Fe2Gd](https://data.orchid-project.org/compounds/Fe2Gd.html) | -11.6 kJ/mol-atom ± 2 | 298.15 | experimental | 1.566 (mp-aaaabdsr) | -3.181 (oqmd-18836) | [3] Zinkevich 2000; _cites Colinet 1987_ [doi](https://doi.org/10.1007/bf02646931) | Table 2, p. 3, row 2; `ORC-XVCLD777MT` |  |
+| Fe2Gd | [Fe2Gd](https://data.orchid-project.org/compounds/Fe2Gd.html) | -6.81 kJ/mol-atom | 1078 | model | 1.566 (mp-aaaabdsr) | -3.181 (oqmd-18836) | [2] Zinkevich 2002 | Table 12, p. 13, row 14; `ORC-HXPBIXMIXD.3ba26f` |  |
+| Fe2Gd | [Fe2Gd](https://data.orchid-project.org/compounds/Fe2Gd.html) | -5.94 kJ/mol-atom | 298.15 | model | 1.566 (mp-aaaabdsr) | -3.181 (oqmd-18836) | [2] Zinkevich 2002 | Table 12, p. 13, row 11; `ORC-GXB5PU32U5.b8ac0f` |  |
+| Fe2Gd | [Fe2Gd](https://data.orchid-project.org/compounds/Fe2Gd.html) | -4.59 kJ/mol-atom | 298.15 | model | 1.566 (mp-aaaabdsr) | -3.181 (oqmd-18836) | [2] Zinkevich 2002; _cites Zinkevich 2000_ | Table 12, p. 13, row 10; `ORC-DWSOOBGST7.2379bf` |  |
+| Fe2Gd | [Fe2Gd](https://data.orchid-project.org/compounds/Fe2Gd.html) | -4.38 kJ/mol-atom | 1078 | model | 1.566 (mp-aaaabdsr) | -3.181 (oqmd-18836) | [2] Zinkevich 2002; _cites Zinkevich 2000_ | Table 12, p. 13, row 13; `ORC-HN34UL6CGG.36704a` |  |
+| Fe2Gd | [Fe2Gd](https://data.orchid-project.org/compounds/Fe2Gd.html) | -3.5 kJ/mol-atom ± 1.5 | 1078 | experimental | 1.566 (mp-aaaabdsr) | -3.181 (oqmd-18836) | [2] Zinkevich 2002; _cites Deodhar 1975_ | Table 12, p. 13, row 12; `ORC-HMWXYNWIGB.6907f1` |  |
+| Fe2Gd | [Fe2Gd](https://data.orchid-project.org/compounds/Fe2Gd.html) | -3.5 kJ/mol-atom ± 1.5 | 1078 | experimental | 1.566 (mp-aaaabdsr) | -3.181 (oqmd-18836) | [3] Zinkevich 2000; _cites Deodhar 1975_ | Table 2, p. 3, row 1; `ORC-RPGFJXHR3N` |  |
+| Fe3Gd | [Fe3Gd](https://data.orchid-project.org/compounds/Fe3Gd.html) | -9.3 kJ/mol-atom ± 1.9 | 298.15 | experimental |  | -3.613 (oqmd-30182) | [3] Zinkevich 2000; _cites Colinet 1987_ [doi](https://doi.org/10.1007/bf02646931) | Table 2, p. 3, row 3; `ORC-C4OO3X3NOB` |  |
+| Fe3Gd | [Fe3Gd](https://data.orchid-project.org/compounds/Fe3Gd.html) | -9.3 kJ/mol-atom ± 1.9 | 298.15 | experimental |  | -3.613 (oqmd-30182) | [2] Zinkevich 2002; _cites Colinet 1987_ | Table 12, p. 13, row 6; `ORC-WP5O6SRVVR.5cb599` |  |
+| Fe3Gd | [Fe3Gd](https://data.orchid-project.org/compounds/Fe3Gd.html) | -7.78 kJ/mol-atom | 298.15 | model |  | -3.613 (oqmd-30182) | [2] Zinkevich 2002 | Table 12, p. 13, row 8; `ORC-U66H6KLTTF.65806e` |  |
+| Fe3Gd | [Fe3Gd](https://data.orchid-project.org/compounds/Fe3Gd.html) | -4.93 kJ/mol-atom | 298.15 | model |  | -3.613 (oqmd-30182) | [2] Zinkevich 2002; _cites Zinkevich 2000_ | Table 12, p. 13, row 7; `ORC-JJOX6EABNX.62c265` |  |
+| UNKNOWN |  | -11.6 per mol-atom ± 2 | 298.15 | experimental |  |  | [2] Zinkevich 2002; _cites Colinet 1987_ | Table 12, p. 13, row 9; `ORC-FGKIBVFKMX.ce0b6f` |  |
+| UNKNOWN |  | -9.3 per mol-atom ± 1.9 | 298.15 | experimental |  |  | [2] Zinkevich 2002; _cites Colinet 1987_ | Table 12, p. 13, row 6; `ORC-WP5O6SRVVR.306964` |  |
+| UNKNOWN |  | -7.78 per mol-atom | 298.15 | model |  |  | [2] Zinkevich 2002 | Table 12, p. 13, row 8; `ORC-U66H6KLTTF.51c215` |  |
+| UNKNOWN |  | -6.81 per mol-atom | 1078 | model |  |  | [2] Zinkevich 2002 | Table 12, p. 13, row 14; `ORC-HXPBIXMIXD.8deb2a` |  |
+| UNKNOWN |  | -6.44 per mol-atom | 298.15 | model |  |  | [2] Zinkevich 2002 | Table 12, p. 13, row 5; `ORC-GFLCDMFT2S.afccbd` |  |
+| UNKNOWN |  | -5.94 per mol-atom | 298.15 | model |  |  | [2] Zinkevich 2002 | Table 12, p. 13, row 11; `ORC-GXB5PU32U5.707e28` |  |
+| UNKNOWN |  | -4.93 per mol-atom | 298.15 | model |  |  | [2] Zinkevich 2002; _cites Zinkevich 2000_ | Table 12, p. 13, row 7; `ORC-JJOX6EABNX.663286` |  |
+| UNKNOWN |  | -4.74 per mol-atom | 298.15 | model |  |  | [2] Zinkevich 2002; _cites Zinkevich 2000_ | Table 12, p. 13, row 4; `ORC-QHUFQDX7VW.43496f` |  |
+| UNKNOWN |  | -4.59 per mol-atom | 298.15 | model |  |  | [2] Zinkevich 2002; _cites Zinkevich 2000_ | Table 12, p. 13, row 10; `ORC-DWSOOBGST7.2e5ba1` |  |
+| UNKNOWN |  | -4.38 per mol-atom | 1078 | model |  |  | [2] Zinkevich 2002; _cites Zinkevich 2000_ | Table 12, p. 13, row 13; `ORC-HN34UL6CGG.cc7c65` |  |
+| UNKNOWN |  | -4.34 per mol-atom | 298.15 | model |  |  | [2] Zinkevich 2002 | Table 12, p. 13, row 3; `ORC-ST7FDFMX44.193b7b` |  |
+| UNKNOWN |  | -3.65 per mol-atom | 298.15 | model |  |  | [2] Zinkevich 2002; _cites Zinkevich 2000_ | Table 12, p. 13, row 2; `ORC-BWDWD4QDIT.1e01c7` |  |
+| UNKNOWN |  | -3.5 per mol-atom ± 1.5 | 1078 | experimental |  |  | [2] Zinkevich 2002; _cites Deodhar 1975_ | Table 12, p. 13, row 12; `ORC-HMWXYNWIGB.dda405` |  |
+| UNKNOWN |  | -2.3 per mol-atom ± 1.6 | 298.15 | experimental |  |  | [2] Zinkevich 2002; _cites Colinet 1987_ | Table 12, p. 13, row 1; `ORC-GULMEPWYY2.12959b` |  |
 
 ## Other properties
 
@@ -286,39 +286,39 @@ Table: Phase transition, Fe–Gd system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 468 K | 468 | magnetic: Fe23Gd6; _alloy: Gd 0.206897_ | experimental | [1] Liu 1995 | Table 4, p. 4, row 3 |  |
-| Phase transition | 472 K | 472 | magnetic: Fe17Gd2; _alloy: Gd 0.105263_ | experimental | [1] Liu 1995 | Table 4, p. 4, row 4 |  |
-| Phase transition | 728 K | 728 | magnetic: Fe3Gd; _alloy: Gd 0.25_ | experimental | [1] Liu 1995 | Table 4, p. 4, row 2 |  |
-| Phase transition | 782 K | 782 | magnetic: Fe2Gd; _alloy: Gd 0.333333_ | experimental | [1] Liu 1995 | Table 4, p. 4, row 1 |  |
-| Phase transition | 973 K | 973 | αFe + Fe17Gd2; _αFe: Gd 0; Fe17Gd2: Gd 0.105_ | experimental | [3] Zinkevich 2000; _cites Savitskii 1961_ | Table 1, p. 2, row 38 |  |
-| Phase transition | 973 K | 973 | αGd + Fe2Gd; _αGd: Gd 0.994; Fe2Gd: Gd 0.333_ | experimental | [3] Zinkevich 2000; _cites Savitskii 1961_ | Table 1, p. 2, row 39 |  |
-| Phase transition | 1078 K | 1078 | Gd (s) 1 2Fe (s) 5 Fe2Gd (s) | experimental | [3] Zinkevich 2000; _cites Deodhar 1975_ | p. 3 | “The enthalpy of formation of the Fe2Gd compound was determined by Deodhar and Ficalora \[1975Deo\] by differential thermal analysis as a heat of exothermic synthesis reaction: Gd (s) 1 2Fe (s) 5 Fe2Gd (s), which began at 1078 K in a sealed quartz vial.” |
-| Phase transition | 1164 K | 1164 | Liquid + αGd; _Liquid: Gd 0.75; αGd: Gd 1_ | experimental | [3] Zinkevich 2000; _cites Novy 1961_ | Table 1, p. 2, row 36 |  |
-| Phase transition | 1187 K | 1187 | Liquid + Fe2Gd; _Liquid: Gd 0.64; Fe2Gd: Gd 0.333_ | experimental | [3] Zinkevich 2000; _cites Novy 1961_ | Table 1, p. 2, row 35 |  |
-| Phase transition | 1187 K | 1187 | γFe + αFe; _γFe: Gd 0.001; αFe: Gd 0.002_ | experimental | [3] Zinkevich 2000; _cites Savitskii 1970_ | Table 1, p. 2, row 27 |  |
-| Phase transition | 1193 K | 1193 | γFe + αFe; _γFe: Gd 0.002; αFe: Gd 0.003_ | experimental | [3] Zinkevich 2000; _cites Savitskii 1970_ | Table 1, p. 2, row 28 |  |
-| Phase transition | 1332 K | 1332 | Liquid + Fe3Gd; _Liquid: Gd 0.55; Fe3Gd: Gd 0.25_ | experimental | [3] Zinkevich 2000; _cites Novy 1961_ | Table 1, p. 2, row 33 |  |
-| Phase transition | 1348 K | 1348 | Liquid + Fe2Gd; _Liquid: Gd 0.579; Fe2Gd: Gd 0.333_ | experimental | [3] Zinkevich 2000; _cites Savitskii 1961_ | Table 1, p. 2, row 34 |  |
-| Phase transition | 1424 K | 1424 | Liquid + Fe17Gd2; _Liquid: Gd 0.453; Fe17Gd2: Gd 0.105_ | experimental | [3] Zinkevich 2000; _cites Savitskii 1961_ | Table 1, p. 2, row 31 |  |
-| Phase transition | 1464 K | 1464 | Liquid + Fe17Gd2; _Liquid: Gd 0.403; Fe17Gd2: Gd 0.105_ | experimental | [3] Zinkevich 2000; _cites Savitskii 1961_ | Table 1, p. 2, row 30 |  |
-| Phase transition | 1482 K | 1482 | Liquid + αGd; _Liquid: Gd 0.93; αGd: Gd 1_ | experimental | [3] Zinkevich 2000; _cites Novy 1961_ | Table 1, p. 2, row 37 |  |
-| Phase transition | 1488 K | 1488 |  | experimental | [2] Zinkevich 2002; _cites Atiq 1990_ | p. 15 | “A phase transition between the hexagonal and rhombohedral modifications of Fe17Gd2 at 1488 K was determined only in binary system Fe-Gd \[7\].” |
-| Phase transition | 1488 K | 1488 | Fe17Gd2 (r) + Fe17Gd2 (h); _Fe17Gd2 (r): Gd 0.105; Fe17Gd2 (h): Gd 0.105_ | experimental | [3] Zinkevich 2000; _cites Atiq 1990_ [doi](https://doi.org/10.1179/mst.1990.6.8.778) | Table 1, p. 2, row 32 |  |
-| Phase transition | 1488 K | 1488 | polymorphic: Fe17Gd2(H) \<=> Fe17Gd2(R); _Fe17Gd2(H): Gd 0.105263; Fe17Gd2(R): Gd 0.105263_ | experimental | [2] Zinkevich 2002; _cites Atiq 1990_ | Table 2, p. 3, row 31 |  |
-| Phase transition | 1488 K | 1488 | polymorphic: Fe17Gd2(H) \<=> Fe17Gd2(R); _Fe17Gd2(H): Gd 0.105263; Fe17Gd2(R): Gd 0.105263_ | model | [2] Zinkevich 2002 | Table 2, p. 3, row 32 |  |
-| Phase transition | 1494 K | 1494 | Liquid + Fe17Gd2; _Liquid: Gd 0.343; Fe17Gd2: Gd 0.105_ | experimental | [3] Zinkevich 2000; _cites Savitskii 1961_ | Table 1, p. 2, row 29 |  |
-| Phase transition | 1663 K | 1663 | δFe + γFe; _δFe: Gd 0.018; γFe: Gd 0.007_ | experimental | [3] Zinkevich 2000; _cites Savitskii 1970_ | Table 1, p. 2, row 26 |  |
-| Phase transition | 1681 K | 1681 | Liquid + δFe; _Liquid: Gd 0.135; δFe: Gd 0.013_ | experimental | [3] Zinkevich 2000; _cites Savitskii 1961_ | Table 1, p. 2, row 19 |  |
-| Phase transition | 1681 K | 1681 | δFe + γFe; _δFe: Gd 0.016; γFe: Gd 0.003_ | experimental | [3] Zinkevich 2000; _cites Savitskii 1970_ | Table 1, p. 2, row 25 |  |
-| Phase transition | 1701 K | 1701 | Liquid + δFe; _Liquid: Gd 0.127; δFe: Gd 0.016_ | experimental | [3] Zinkevich 2000; _cites Savitskii 1970_ | Table 1, p. 2, row 24 |  |
-| Phase transition | 1732 K | 1732 | Liquid + δFe; _Liquid: Gd 0.089; δFe: Gd 0.005_ | experimental | [3] Zinkevich 2000; _cites Savitskii 1961_ | Table 1, p. 2, row 18 |  |
-| Phase transition | 1744 K | 1744 | Liquid + δFe; _Liquid: Gd 0.085; δFe: Gd 0.011_ | experimental | [3] Zinkevich 2000; _cites Savitskii 1970_ | Table 1, p. 2, row 23 |  |
-| Phase transition | 1747 K | 1747 | Liquid + δFe; _Liquid: Gd 0.042; δFe: Gd 0.011_ | experimental | [3] Zinkevich 2000; _cites Savitskii 1970_ | Table 1, p. 2, row 22 |  |
-| Phase transition | 1770 K | 1770 | Liquid + δFe; _Liquid: Gd 0.024; δFe: Gd 0.008_ | experimental | [3] Zinkevich 2000; _cites Savitskii 1970_ | Table 1, p. 2, row 21 |  |
-| Phase transition | 1777 K | 1777 | Liquid + δFe; _Liquid: Gd 0.042; δFe: Gd 0.003_ | experimental | [3] Zinkevich 2000; _cites Savitskii 1961_ | Table 1, p. 2, row 17 |  |
-| Phase transition | 1780 K | 1780 | Liquid + δFe; _Liquid: Gd 0.008; δFe: Gd 0.001_ | experimental | [3] Zinkevich 2000; _cites Savitskii 1970_ | Table 1, p. 2, row 20 |  |
-| Phase transition | 1792 K | 1792 | Liquid + δFe; _Liquid: Gd 0.007; δFe: Gd 0.007_ | experimental | [3] Zinkevich 2000; _cites Savitskii 1961_ | Table 1, p. 2, row 15 |  |
-| Phase transition | 1797 K | 1797 | Liquid + δFe; _Liquid: Gd 0.022; δFe: Gd 0.001_ | experimental | [3] Zinkevich 2000; _cites Savitskii 1961_ | Table 1, p. 2, row 16 |  |
+| Phase transition | 468 K | 468 | magnetic: Fe23Gd6; _alloy: Gd 0.206897_ | experimental | [1] Liu 1995 | Table 4, p. 4, row 3; `ORC-M35ZCD25ZZ` |  |
+| Phase transition | 472 K | 472 | magnetic: Fe17Gd2; _alloy: Gd 0.105263_ | experimental | [1] Liu 1995 | Table 4, p. 4, row 4; `ORC-UL5H7FCJUC` |  |
+| Phase transition | 728 K | 728 | magnetic: Fe3Gd; _alloy: Gd 0.25_ | experimental | [1] Liu 1995 | Table 4, p. 4, row 2; `ORC-NZI43526TQ` |  |
+| Phase transition | 782 K | 782 | magnetic: Fe2Gd; _alloy: Gd 0.333333_ | experimental | [1] Liu 1995 | Table 4, p. 4, row 1; `ORC-DIKBV63VWJ` |  |
+| Phase transition | 973 K | 973 | αFe + Fe17Gd2; _αFe: Gd 0; Fe17Gd2: Gd 0.105_ | experimental | [3] Zinkevich 2000; _cites Savitskii 1961_ | Table 1, p. 2, row 38; `ORC-KTX7EO5GGY` |  |
+| Phase transition | 973 K | 973 | αGd + Fe2Gd; _αGd: Gd 0.994; Fe2Gd: Gd 0.333_ | experimental | [3] Zinkevich 2000; _cites Savitskii 1961_ | Table 1, p. 2, row 39; `ORC-I6LVDZ2PYW` |  |
+| Phase transition | 1078 K | 1078 | Gd (s) 1 2Fe (s) 5 Fe2Gd (s) | experimental | [3] Zinkevich 2000; _cites Deodhar 1975_ | p. 3; `ORC-ZJEMLX2UOX` | “The enthalpy of formation of the Fe2Gd compound was determined by Deodhar and Ficalora \[1975Deo\] by differential thermal analysis as a heat of exothermic synthesis reaction: Gd (s) 1 2Fe (s) 5 Fe2Gd (s), which began at 1078 K in a sealed quartz vial.” |
+| Phase transition | 1164 K | 1164 | Liquid + αGd; _Liquid: Gd 0.75; αGd: Gd 1_ | experimental | [3] Zinkevich 2000; _cites Novy 1961_ | Table 1, p. 2, row 36; `ORC-ZUHSQ2MZVO` |  |
+| Phase transition | 1187 K | 1187 | Liquid + Fe2Gd; _Liquid: Gd 0.64; Fe2Gd: Gd 0.333_ | experimental | [3] Zinkevich 2000; _cites Novy 1961_ | Table 1, p. 2, row 35; `ORC-VBL2OFJRHF` |  |
+| Phase transition | 1187 K | 1187 | γFe + αFe; _γFe: Gd 0.001; αFe: Gd 0.002_ | experimental | [3] Zinkevich 2000; _cites Savitskii 1970_ | Table 1, p. 2, row 27; `ORC-BRSKAC6L7O` |  |
+| Phase transition | 1193 K | 1193 | γFe + αFe; _γFe: Gd 0.002; αFe: Gd 0.003_ | experimental | [3] Zinkevich 2000; _cites Savitskii 1970_ | Table 1, p. 2, row 28; `ORC-P6HSLXKJHA` |  |
+| Phase transition | 1332 K | 1332 | Liquid + Fe3Gd; _Liquid: Gd 0.55; Fe3Gd: Gd 0.25_ | experimental | [3] Zinkevich 2000; _cites Novy 1961_ | Table 1, p. 2, row 33; `ORC-XZWDZTZ762` |  |
+| Phase transition | 1348 K | 1348 | Liquid + Fe2Gd; _Liquid: Gd 0.579; Fe2Gd: Gd 0.333_ | experimental | [3] Zinkevich 2000; _cites Savitskii 1961_ | Table 1, p. 2, row 34; `ORC-DZHSRADB3X` |  |
+| Phase transition | 1424 K | 1424 | Liquid + Fe17Gd2; _Liquid: Gd 0.453; Fe17Gd2: Gd 0.105_ | experimental | [3] Zinkevich 2000; _cites Savitskii 1961_ | Table 1, p. 2, row 31; `ORC-B4L27SFZOC` |  |
+| Phase transition | 1464 K | 1464 | Liquid + Fe17Gd2; _Liquid: Gd 0.403; Fe17Gd2: Gd 0.105_ | experimental | [3] Zinkevich 2000; _cites Savitskii 1961_ | Table 1, p. 2, row 30; `ORC-5P5X6N7QR6` |  |
+| Phase transition | 1482 K | 1482 | Liquid + αGd; _Liquid: Gd 0.93; αGd: Gd 1_ | experimental | [3] Zinkevich 2000; _cites Novy 1961_ | Table 1, p. 2, row 37; `ORC-EX7VEN4JXM` |  |
+| Phase transition | 1488 K | 1488 |  | experimental | [2] Zinkevich 2002; _cites Atiq 1990_ | p. 15; `ORC-I2I5IQ3GRL` | “A phase transition between the hexagonal and rhombohedral modifications of Fe17Gd2 at 1488 K was determined only in binary system Fe-Gd \[7\].” |
+| Phase transition | 1488 K | 1488 | Fe17Gd2 (r) + Fe17Gd2 (h); _Fe17Gd2 (r): Gd 0.105; Fe17Gd2 (h): Gd 0.105_ | experimental | [3] Zinkevich 2000; _cites Atiq 1990_ [doi](https://doi.org/10.1179/mst.1990.6.8.778) | Table 1, p. 2, row 32; `ORC-BGHHP2LFQJ` |  |
+| Phase transition | 1488 K | 1488 | polymorphic: Fe17Gd2(H) \<=> Fe17Gd2(R); _Fe17Gd2(H): Gd 0.105263; Fe17Gd2(R): Gd 0.105263_ | experimental | [2] Zinkevich 2002; _cites Atiq 1990_ | Table 2, p. 3, row 31; `ORC-LXCM3WZNOM` |  |
+| Phase transition | 1488 K | 1488 | polymorphic: Fe17Gd2(H) \<=> Fe17Gd2(R); _Fe17Gd2(H): Gd 0.105263; Fe17Gd2(R): Gd 0.105263_ | model | [2] Zinkevich 2002 | Table 2, p. 3, row 32; `ORC-WFU6RNZAXX` |  |
+| Phase transition | 1494 K | 1494 | Liquid + Fe17Gd2; _Liquid: Gd 0.343; Fe17Gd2: Gd 0.105_ | experimental | [3] Zinkevich 2000; _cites Savitskii 1961_ | Table 1, p. 2, row 29; `ORC-SE4O7TOOHO` |  |
+| Phase transition | 1663 K | 1663 | δFe + γFe; _δFe: Gd 0.018; γFe: Gd 0.007_ | experimental | [3] Zinkevich 2000; _cites Savitskii 1970_ | Table 1, p. 2, row 26; `ORC-VWRNSFRLTW` |  |
+| Phase transition | 1681 K | 1681 | Liquid + δFe; _Liquid: Gd 0.135; δFe: Gd 0.013_ | experimental | [3] Zinkevich 2000; _cites Savitskii 1961_ | Table 1, p. 2, row 19; `ORC-3PUAZ36K3Q` |  |
+| Phase transition | 1681 K | 1681 | δFe + γFe; _δFe: Gd 0.016; γFe: Gd 0.003_ | experimental | [3] Zinkevich 2000; _cites Savitskii 1970_ | Table 1, p. 2, row 25; `ORC-6HFB3APYWU` |  |
+| Phase transition | 1701 K | 1701 | Liquid + δFe; _Liquid: Gd 0.127; δFe: Gd 0.016_ | experimental | [3] Zinkevich 2000; _cites Savitskii 1970_ | Table 1, p. 2, row 24; `ORC-ANNFTCHZ2G` |  |
+| Phase transition | 1732 K | 1732 | Liquid + δFe; _Liquid: Gd 0.089; δFe: Gd 0.005_ | experimental | [3] Zinkevich 2000; _cites Savitskii 1961_ | Table 1, p. 2, row 18; `ORC-WXJCLISLSC` |  |
+| Phase transition | 1744 K | 1744 | Liquid + δFe; _Liquid: Gd 0.085; δFe: Gd 0.011_ | experimental | [3] Zinkevich 2000; _cites Savitskii 1970_ | Table 1, p. 2, row 23; `ORC-7DXVSQR5E6` |  |
+| Phase transition | 1747 K | 1747 | Liquid + δFe; _Liquid: Gd 0.042; δFe: Gd 0.011_ | experimental | [3] Zinkevich 2000; _cites Savitskii 1970_ | Table 1, p. 2, row 22; `ORC-5ZRSZQNKZA` |  |
+| Phase transition | 1770 K | 1770 | Liquid + δFe; _Liquid: Gd 0.024; δFe: Gd 0.008_ | experimental | [3] Zinkevich 2000; _cites Savitskii 1970_ | Table 1, p. 2, row 21; `ORC-RESLJJRS5R` |  |
+| Phase transition | 1777 K | 1777 | Liquid + δFe; _Liquid: Gd 0.042; δFe: Gd 0.003_ | experimental | [3] Zinkevich 2000; _cites Savitskii 1961_ | Table 1, p. 2, row 17; `ORC-NL7ZCJCFTU` |  |
+| Phase transition | 1780 K | 1780 | Liquid + δFe; _Liquid: Gd 0.008; δFe: Gd 0.001_ | experimental | [3] Zinkevich 2000; _cites Savitskii 1970_ | Table 1, p. 2, row 20; `ORC-V5NWOUTUU7` |  |
+| Phase transition | 1792 K | 1792 | Liquid + δFe; _Liquid: Gd 0.007; δFe: Gd 0.007_ | experimental | [3] Zinkevich 2000; _cites Savitskii 1961_ | Table 1, p. 2, row 15; `ORC-F2H43KRARB` |  |
+| Phase transition | 1797 K | 1797 | Liquid + δFe; _Liquid: Gd 0.022; δFe: Gd 0.001_ | experimental | [3] Zinkevich 2000; _cites Savitskii 1961_ | Table 1, p. 2, row 16; `ORC-JMM246AMRG` |  |
 
 ### Heat capacity / entropy / enthalpy (13)
 
@@ -326,19 +326,19 @@ Table: Heat capacity / entropy / enthalpy, Fe–Gd system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: °ST_ | 38.6 J/mol-atom/K ± 0.5 | 298.15 | Fe2Gd; _alloy: Gd 0.333333_ | experimental | [2] Zinkevich 2002; _cites Germano 1981_ | Table 12, p. 13, row 15 |  |
-| Entropy; _printed: S°_ | 38.63 J/mol-atom/K ± 0.5 | 298.15 | Fe2Gd; _alloy: Fe 0.667, Gd 0.333_ | experimental | [3] Zinkevich 2000; _cites Germano 1981_ [doi](https://doi.org/10.1016/0022-4596%2881%2990500-4) | Table 2, p. 3, row 6 |  |
-| Entropy; _printed: °ST_ | 38.58 J/mol-atom/K | 298.15 | Fe2Gd; _alloy: Gd 0.333333_ | model | [2] Zinkevich 2002 | Table 12, p. 13, row 17 |  |
-| Entropy; _printed: °ST_ | 38.62 J/mol-atom/K | 298.15 | Fe2Gd; _alloy: Gd 0.333333_ | model | [2] Zinkevich 2002; _cites Zinkevich 2000_ | Table 12, p. 13, row 16 |  |
-| Entropy; _printed: °ST_ | 38.6 per mol-atom ± 0.5 | 298.15 | UNKNOWN; _alloy: Gd 0.333333_ | experimental | [2] Zinkevich 2002; _cites Germano 1981_ | Table 12, p. 13, row 15 |  |
-| Entropy; _printed: °ST_ | 38.58 per mol-atom | 298.15 | UNKNOWN; _alloy: Gd 0.333333_ | model | [2] Zinkevich 2002 | Table 12, p. 13, row 17 |  |
-| Entropy; _printed: °ST_ | 38.62 per mol-atom | 298.15 | UNKNOWN; _alloy: Gd 0.333333_ | model | [2] Zinkevich 2002; _cites Zinkevich 2000_ | Table 12, p. 13, row 16 |  |
-| Heat capacity; _printed: CP_ | 29.18 J/mol-atom/K | 298.15 | Fe2Gd; _alloy: Gd 0.333333_ | model | [2] Zinkevich 2002 | Table 12, p. 13, row 20 |  |
-| Heat capacity; _printed: CP_ | 27.8 J/mol-atom/K | 298.15 | Fe2Gd; _alloy: Gd 0.333333_ | model | [2] Zinkevich 2002; _cites Zinkevich 2000_ | Table 12, p. 13, row 19 |  |
-| Heat capacity; _printed: CP_ | 29.2 J/mol-atom/K ± 0.5 | 298.15 | Fe2Gd; _alloy: Gd 0.333333_ | experimental | [2] Zinkevich 2002; _cites Germano 1981_ | Table 12, p. 13, row 18 |  |
-| Heat capacity; _printed: CP_ | 29.18 per mol-atom | 298.15 | UNKNOWN; _alloy: Gd 0.333333_ | model | [2] Zinkevich 2002 | Table 12, p. 13, row 20 |  |
-| Heat capacity; _printed: CP_ | 27.8 per mol-atom | 298.15 | UNKNOWN; _alloy: Gd 0.333333_ | model | [2] Zinkevich 2002; _cites Zinkevich 2000_ | Table 12, p. 13, row 19 |  |
-| Heat capacity; _printed: CP_ | 29.2 per mol-atom ± 0.5 | 298.15 | UNKNOWN; _alloy: Gd 0.333333_ | experimental | [2] Zinkevich 2002; _cites Germano 1981_ | Table 12, p. 13, row 18 |  |
+| Entropy; _printed: °ST_ | 38.6 J/mol-atom/K ± 0.5 | 298.15 | Fe2Gd; _alloy: Gd 0.333333_ | experimental | [2] Zinkevich 2002; _cites Germano 1981_ | Table 12, p. 13, row 15; `ORC-3CGZJZTPCB.875a26` |  |
+| Entropy; _printed: S°_ | 38.63 J/mol-atom/K ± 0.5 | 298.15 | Fe2Gd; _alloy: Fe 0.667, Gd 0.333_ | experimental | [3] Zinkevich 2000; _cites Germano 1981_ [doi](https://doi.org/10.1016/0022-4596%2881%2990500-4) | Table 2, p. 3, row 6; `ORC-7XTBZMJVLP` |  |
+| Entropy; _printed: °ST_ | 38.58 J/mol-atom/K | 298.15 | Fe2Gd; _alloy: Gd 0.333333_ | model | [2] Zinkevich 2002 | Table 12, p. 13, row 17; `ORC-OGXJFQYTNN.b80c81` |  |
+| Entropy; _printed: °ST_ | 38.62 J/mol-atom/K | 298.15 | Fe2Gd; _alloy: Gd 0.333333_ | model | [2] Zinkevich 2002; _cites Zinkevich 2000_ | Table 12, p. 13, row 16; `ORC-YQBNZ6JUFR.e9af3a` |  |
+| Entropy; _printed: °ST_ | 38.6 per mol-atom ± 0.5 | 298.15 | UNKNOWN; _alloy: Gd 0.333333_ | experimental | [2] Zinkevich 2002; _cites Germano 1981_ | Table 12, p. 13, row 15; `ORC-3CGZJZTPCB.80b343` |  |
+| Entropy; _printed: °ST_ | 38.58 per mol-atom | 298.15 | UNKNOWN; _alloy: Gd 0.333333_ | model | [2] Zinkevich 2002 | Table 12, p. 13, row 17; `ORC-OGXJFQYTNN.0dd00b` |  |
+| Entropy; _printed: °ST_ | 38.62 per mol-atom | 298.15 | UNKNOWN; _alloy: Gd 0.333333_ | model | [2] Zinkevich 2002; _cites Zinkevich 2000_ | Table 12, p. 13, row 16; `ORC-YQBNZ6JUFR.fe43f0` |  |
+| Heat capacity; _printed: CP_ | 29.18 J/mol-atom/K | 298.15 | Fe2Gd; _alloy: Gd 0.333333_ | model | [2] Zinkevich 2002 | Table 12, p. 13, row 20; `ORC-BPMLEIWQZ5.621102` |  |
+| Heat capacity; _printed: CP_ | 27.8 J/mol-atom/K | 298.15 | Fe2Gd; _alloy: Gd 0.333333_ | model | [2] Zinkevich 2002; _cites Zinkevich 2000_ | Table 12, p. 13, row 19; `ORC-NTQCLN4CPW.b9ffa9` |  |
+| Heat capacity; _printed: CP_ | 29.2 J/mol-atom/K ± 0.5 | 298.15 | Fe2Gd; _alloy: Gd 0.333333_ | experimental | [2] Zinkevich 2002; _cites Germano 1981_ | Table 12, p. 13, row 18; `ORC-XV3BI7QYUX.1323e3` |  |
+| Heat capacity; _printed: CP_ | 29.18 per mol-atom | 298.15 | UNKNOWN; _alloy: Gd 0.333333_ | model | [2] Zinkevich 2002 | Table 12, p. 13, row 20; `ORC-BPMLEIWQZ5.d8269d` |  |
+| Heat capacity; _printed: CP_ | 27.8 per mol-atom | 298.15 | UNKNOWN; _alloy: Gd 0.333333_ | model | [2] Zinkevich 2002; _cites Zinkevich 2000_ | Table 12, p. 13, row 19; `ORC-NTQCLN4CPW.5e6805` |  |
+| Heat capacity; _printed: CP_ | 29.2 per mol-atom ± 0.5 | 298.15 | UNKNOWN; _alloy: Gd 0.333333_ | experimental | [2] Zinkevich 2002; _cites Germano 1981_ | Table 12, p. 13, row 18; `ORC-XV3BI7QYUX.3c44ad` |  |
 
 ## Sources
 
@@ -405,4 +405,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

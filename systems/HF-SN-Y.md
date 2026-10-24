@@ -29,24 +29,24 @@ Table: Invariant reactions reported in the literature for the Hf–Sn–Y system
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2063.15 | Liquid + Sn3Y5 ↔ Sn4Y5 | Liquid: Sn 0.4782; Sn3Y5: Sn 0.375; Sn4Y5: Sn 0.4444 | experimental | [1] Tang 2012; _cites Schmidt 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990002-7) | Table 1, p. 2, row 19 |  |
-| 2061.15 | Liquid + Sn3Y5 ↔ Sn4Y5 | Liquid: Sn 0.478; Sn3Y5: Sn 0.375; Sn4Y5: Sn 0.4444 | model | [1] Tang 2012 | Table 1, p. 2, row 20 |  |
-| 2017.15 | Liquid ↔ (βHf) + Hf5Sn3 | Liquid: Sn 0.2064; (βHf): Sn 0.1557; Hf5Sn3: Sn 0.375 | model | [1] Tang 2012 | Table 1, p. 2, row 6 |  |
-| 2003.15 | Liquid + Hf5Sn3 ↔ Hf5Sn4 | Liquid: Sn 0.6045; Hf5Sn3: Sn 0.375; Hf5Sn4: Sn 0.4444 | model | [1] Tang 2012 | Table 1, p. 2, row 7 |  |
-| 1998.15 | Liquid ↔ (βHf) + Hf5Sn3 | Liquid: Sn 0.205; (βHf): Sn 0.16; Hf5Sn3: Sn 0.375 | experimental | [1] Tang 2012; _cites Wasielewski 1964_ | Table 1, p. 2, row 4 |  |
-| 1948.15 | Liquid ↔ (βHf) + Hf5Sn3 | (βHf): Sn 0.17; Hf5Sn3: Sn 0.375 | experimental | [1] Tang 2012; _cites Tsygamova 1971_ | Table 1, p. 2, row 5 |  |
-| 1876.15 | Liquid + Sn4Y5 ↔ Sn10Y11 | Liquid: Sn 0.5613; Sn4Y5: Sn 0.4444; Sn10Y11: Sn 0.4762 | model | [1] Tang 2012 | Table 1, p. 2, row 22 |  |
-| 1873.15 | Liquid + Sn4Y5 ↔ Sn10Y11 | Liquid: Sn 0.5477; Sn4Y5: Sn 0.4444; Sn10Y11: Sn 0.4762 | experimental | [1] Tang 2012; _cites Schmidt 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990002-7) | Table 1, p. 2, row 21 |  |
-| 1813.15 | Liquid + Hf5Sn4 ↔ HfSn2 | Liquid: Sn 0.7726; Hf5Sn4: Sn 0.4444; HfSn2: Sn 0.6667 | model | [1] Tang 2012 | Table 1, p. 2, row 10 |  |
-| 1633.15 | (βY) ↔ Liquid + (αY) | (βY): Sn 0.0303; Liquid: Sn 0.0877; (αY): Sn 0.0135 | model | [1] Tang 2012 | Table 1, p. 2, row 14 |  |
-| 1633.15 | (βY) ↔ Liquid + (αY) | (βY): Sn 0.04; Liquid: Sn 0.0901; (αY): Sn 0.0168 | experimental | [1] Tang 2012; _cites Schmidt 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990002-7) | Table 1, p. 2, row 13 |  |
-| 1533.15 | Liquid ↔ Sn3Y5 + (αY) | Liquid: Sn 0.115; Sn3Y5: Sn 0.375 | experimental | [1] Tang 2012; _cites Schmidt 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990002-7) | Table 1, p. 2, row 15 |  |
-| 1532.15 | Liquid ↔ Sn3Y5 + (αY) | Liquid: Sn 0.1181; Sn3Y5: Sn 0.375; (αY): Sn 0.0174 | model | [1] Tang 2012 | Table 1, p. 2, row 16 |  |
-| 1413.15 | Liquid + Sn10Y11 ↔ Sn2Y | Liquid: Sn 0.6765; Sn10Y11: Sn 0.4762; Sn2Y: Sn 0.6667 | experimental | [1] Tang 2012; _cites Schmidt 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990002-7) | Table 1, p. 2, row 23 |  |
-| 1413.15 | Liquid + Sn10Y11 ↔ Sn2Y | Liquid: Sn 0.6847; Sn10Y11: Sn 0.4762; Sn2Y: Sn 0.6667 | model | [1] Tang 2012 | Table 1, p. 2, row 25 |  |
-| 1413.15 | Liquid + Sn10Y11 ↔ Sn2Y | Liquid: Sn 0.6746; Sn10Y11: Sn 0.4762; Sn2Y: Sn 0.6667 | experimental | [1] Tang 2012; _cites Palenzona 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990859-l) | Table 1, p. 2, row 24 |  |
-| 798.15 | Liquid + Sn2Y ↔ Sn5Y2 | Liquid: Sn 0.9893; Sn2Y: Sn 0.6667; Sn5Y2: Sn 0.7143 | experimental | [1] Tang 2012; _cites Palenzona 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990859-l) | Table 1, p. 2, row 26 |  |
-| 503.15 | Liquid ↔ HfSn2 + (βSn) | HfSn2: Sn 0.6667 | experimental | [1] Tang 2012; _cites Wasielewski 1964_ | Table 1, p. 2, row 11 |  |
+| 2063.15 | Liquid + Sn3Y5 ↔ Sn4Y5 | Liquid: Sn 0.4782; Sn3Y5: Sn 0.375; Sn4Y5: Sn 0.4444 | experimental | [1] Tang 2012; _cites Schmidt 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990002-7) | Table 1, p. 2, row 19; `ORC-QPKUUBVDIV` |  |
+| 2061.15 | Liquid + Sn3Y5 ↔ Sn4Y5 | Liquid: Sn 0.478; Sn3Y5: Sn 0.375; Sn4Y5: Sn 0.4444 | model | [1] Tang 2012 | Table 1, p. 2, row 20; `ORC-RPQOV6GCW4` |  |
+| 2017.15 | Liquid ↔ (βHf) + Hf5Sn3 | Liquid: Sn 0.2064; (βHf): Sn 0.1557; Hf5Sn3: Sn 0.375 | model | [1] Tang 2012 | Table 1, p. 2, row 6; `ORC-FJY2H2YZ4Z` |  |
+| 2003.15 | Liquid + Hf5Sn3 ↔ Hf5Sn4 | Liquid: Sn 0.6045; Hf5Sn3: Sn 0.375; Hf5Sn4: Sn 0.4444 | model | [1] Tang 2012 | Table 1, p. 2, row 7; `ORC-IKAYYLWMYQ` |  |
+| 1998.15 | Liquid ↔ (βHf) + Hf5Sn3 | Liquid: Sn 0.205; (βHf): Sn 0.16; Hf5Sn3: Sn 0.375 | experimental | [1] Tang 2012; _cites Wasielewski 1964_ | Table 1, p. 2, row 4; `ORC-LGNENMLYGU` |  |
+| 1948.15 | Liquid ↔ (βHf) + Hf5Sn3 | (βHf): Sn 0.17; Hf5Sn3: Sn 0.375 | experimental | [1] Tang 2012; _cites Tsygamova 1971_ | Table 1, p. 2, row 5; `ORC-FOFLGQTSKO` |  |
+| 1876.15 | Liquid + Sn4Y5 ↔ Sn10Y11 | Liquid: Sn 0.5613; Sn4Y5: Sn 0.4444; Sn10Y11: Sn 0.4762 | model | [1] Tang 2012 | Table 1, p. 2, row 22; `ORC-UNKPV65BD4` |  |
+| 1873.15 | Liquid + Sn4Y5 ↔ Sn10Y11 | Liquid: Sn 0.5477; Sn4Y5: Sn 0.4444; Sn10Y11: Sn 0.4762 | experimental | [1] Tang 2012; _cites Schmidt 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990002-7) | Table 1, p. 2, row 21; `ORC-KZBDUGZ66M` |  |
+| 1813.15 | Liquid + Hf5Sn4 ↔ HfSn2 | Liquid: Sn 0.7726; Hf5Sn4: Sn 0.4444; HfSn2: Sn 0.6667 | model | [1] Tang 2012 | Table 1, p. 2, row 10; `ORC-4ZD7UAL274` |  |
+| 1633.15 | (βY) ↔ Liquid + (αY) | (βY): Sn 0.0303; Liquid: Sn 0.0877; (αY): Sn 0.0135 | model | [1] Tang 2012 | Table 1, p. 2, row 14; `ORC-6O6DI7I6B5` |  |
+| 1633.15 | (βY) ↔ Liquid + (αY) | (βY): Sn 0.04; Liquid: Sn 0.0901; (αY): Sn 0.0168 | experimental | [1] Tang 2012; _cites Schmidt 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990002-7) | Table 1, p. 2, row 13; `ORC-SA7ONFECOS` |  |
+| 1533.15 | Liquid ↔ Sn3Y5 + (αY) | Liquid: Sn 0.115; Sn3Y5: Sn 0.375 | experimental | [1] Tang 2012; _cites Schmidt 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990002-7) | Table 1, p. 2, row 15; `ORC-PYEZ7GIH2W` |  |
+| 1532.15 | Liquid ↔ Sn3Y5 + (αY) | Liquid: Sn 0.1181; Sn3Y5: Sn 0.375; (αY): Sn 0.0174 | model | [1] Tang 2012 | Table 1, p. 2, row 16; `ORC-JT6K66VI52` |  |
+| 1413.15 | Liquid + Sn10Y11 ↔ Sn2Y | Liquid: Sn 0.6765; Sn10Y11: Sn 0.4762; Sn2Y: Sn 0.6667 | experimental | [1] Tang 2012; _cites Schmidt 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990002-7) | Table 1, p. 2, row 23; `ORC-D4KWLYOUHU` |  |
+| 1413.15 | Liquid + Sn10Y11 ↔ Sn2Y | Liquid: Sn 0.6847; Sn10Y11: Sn 0.4762; Sn2Y: Sn 0.6667 | model | [1] Tang 2012 | Table 1, p. 2, row 25; `ORC-I3HPJHPR7Y` |  |
+| 1413.15 | Liquid + Sn10Y11 ↔ Sn2Y | Liquid: Sn 0.6746; Sn10Y11: Sn 0.4762; Sn2Y: Sn 0.6667 | experimental | [1] Tang 2012; _cites Palenzona 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990859-l) | Table 1, p. 2, row 24; `ORC-T67KCJEXAB` |  |
+| 798.15 | Liquid + Sn2Y ↔ Sn5Y2 | Liquid: Sn 0.9893; Sn2Y: Sn 0.6667; Sn5Y2: Sn 0.7143 | experimental | [1] Tang 2012; _cites Palenzona 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990859-l) | Table 1, p. 2, row 26; `ORC-S4W4FTN4UX` |  |
+| 503.15 | Liquid ↔ HfSn2 + (βSn) | HfSn2: Sn 0.6667 | experimental | [1] Tang 2012; _cites Wasielewski 1964_ | Table 1, p. 2, row 11; `ORC-CDY46QKTFD` |  |
 
 ## Other properties
 
@@ -56,11 +56,11 @@ Table: Crystal structure, Hf–Sn–Y system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 3.1924 Å |  | (αHf); _alloy: Sn 0, Y 0_ | unspecified | [1] Tang 2012 | Table 4, p. 5, row 3 |  |
-| Lattice a | 3.1946 Å | 298.15 | (αHf); _alloy: Sn 0, Y 0_ | model | [1] Tang 2012; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 4, p. 5, row 2 |  |
-| Lattice a | 3.61 Å | 298.15 | (βHf); _alloy: Sn 0, Y 0_ | model | [1] Tang 2012; _cites Massalski 1986_ | Table 4, p. 5, row 1 |  |
-| Lattice c | 5.0472 Å |  | (αHf); _alloy: Sn 0, Y 0_ | unspecified | [1] Tang 2012 | Table 4, p. 5, row 3 |  |
-| Lattice c | 5.0511 Å | 298.15 | (αHf); _alloy: Sn 0, Y 0_ | model | [1] Tang 2012; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 4, p. 5, row 2 |  |
+| Lattice a | 3.1924 Å |  | (αHf); _alloy: Sn 0, Y 0_ | unspecified | [1] Tang 2012 | Table 4, p. 5, row 3; `ORC-G23HKWDOBH.106ab0` |  |
+| Lattice a | 3.1946 Å | 298.15 | (αHf); _alloy: Sn 0, Y 0_ | model | [1] Tang 2012; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 4, p. 5, row 2; `ORC-546VKLTRCF.598b66` |  |
+| Lattice a | 3.61 Å | 298.15 | (βHf); _alloy: Sn 0, Y 0_ | model | [1] Tang 2012; _cites Massalski 1986_ | Table 4, p. 5, row 1; `ORC-TNN2JSOUGX` |  |
+| Lattice c | 5.0472 Å |  | (αHf); _alloy: Sn 0, Y 0_ | unspecified | [1] Tang 2012 | Table 4, p. 5, row 3; `ORC-G23HKWDOBH.2bc6ef` |  |
+| Lattice c | 5.0511 Å | 298.15 | (αHf); _alloy: Sn 0, Y 0_ | model | [1] Tang 2012; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 4, p. 5, row 2; `ORC-546VKLTRCF.ae6a1a` |  |
 
 ## Sources
 
@@ -103,4 +103,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

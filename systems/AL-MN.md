@@ -173,89 +173,89 @@ Table: Invariant reactions reported in the literature for the Al–Mn system (83
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1582 | congruent melting: bcc-A2 -> Liquid | bcc-A2: Mn 0.816; L: Mn 0.816 | unspecified | [1] Hämäläinen 1998 | Table I, p. 72, row 11 |  |
-| 1548 | peritectic: L + δMn -> ε | L: Mn 0.6538; δMn: Mn 0.6902; ε: Mn 0.6809 | model | [2] Liu 1999 | Table 3, p. 8, row 20 |  |
-| 1533 | peritectic: L + δMn -> ε |  | experimental | [2] Liu 1999; _cites Liu 1996_ [doi](https://doi.org/10.1016/0925-8388%2895%2902144-2) | Table 3, p. 8, row 24 |  |
-| 1533 | peritectic: L + δMn -> ε |  | experimental | [2] Liu 1999; _cites Godecke 1971_ | Table 3, p. 8, row 23 |  |
-| 1533 | peritectic: L + δMn -> ε | L: Mn 0.59; δMn: Mn 0.63; ε: Mn 0.6 | model | [2] Liu 1999; _cites McAlster 1990_ | Table 3, p. 8, row 22 |  |
-| 1529 | peritectic: L + δMn -> ε |  | experimental | [2] Liu 1999; _cites Muller 1996_ [doi](https://doi.org/10.1515/ijmr-1996-870713) | Table 3, p. 8, row 25 |  |
-| 1523 | peritectic: L + δMn -> ε | L: Mn 0.5898; δMn: Mn 0.6454; ε: Mn 0.6422 | model | [2] Liu 1999; _cites Jansson 1992_ [doi](https://doi.org/10.1007/bf02646113) | Table 3, p. 8, row 21 |  |
-| 1523 | peritectic: Liquid + bcc -> hcp | L: Mn 0.5898; bcc: Mn 0.6454; hcp: Mn 0.6422 | model | [3] Jansson 1992 | Table I, p. 3, row 9 |  |
-| 1522.3 | peritectic: Liquid + bcc-A2 -> hcp-A3 | L: Mn 0.588; bcc-A2: Mn 0.644; hcp-A3: Mn 0.641 | unspecified | [1] Hämäläinen 1998 | Table I, p. 72, row 10 |  |
-| 1464 | peritectic: L + ε -> γ | L: Mn 0.43; ε: Mn 0.532; γ: Mn 0.506 | model | [2] Liu 1999; _cites McAlster 1990_ | Table 3, p. 8, row 38 |  |
-| 1463 | peritectic: L + ε -> γ |  | experimental | [2] Liu 1999; _cites Muller 1996_ [doi](https://doi.org/10.1515/ijmr-1996-870713) | Table 3, p. 8, row 40 |  |
-| 1450 | peritectic: L + ε -> γ | L: Mn 0.449; ε: Mn 0.5444; γ: Mn 0.5264 | model | [2] Liu 1999 | Table 3, p. 8, row 36 |  |
-| 1433.3 | peritectic: Liquid + hcp-A3 -> Al8Mn5-D810 | L: Mn 0.425; hcp-A3: Mn 0.519; Al8Mn5-D810: Mn 0.486 | unspecified | [1] Hämäläinen 1998 | Table I, p. 72, row 6 |  |
-| 1433 | peritectic: Liquid + hcp -> Al8Mn5 | L: Mn 0.4254; hcp: Mn 0.5186; Al8Mn5: Mn 0.4858 | model | [3] Jansson 1992 | Table I, p. 3, row 6 |  |
-| 1433 | peritectic: L + ε -> γ |  | experimental | [2] Liu 1999; _cites Koster 1960_ | Table 3, p. 8, row 39 |  |
-| 1433 | peritectic: L + ε -> γ | L: Mn 0.4254; ε: Mn 0.5186; γ: Mn 0.4858 | model | [2] Liu 1999; _cites Jansson 1992_ [doi](https://doi.org/10.1007/bf02646113) | Table 3, p. 8, row 37 |  |
-| 1331 | peritectoid: Bcc + fcc -> β-Mn | Bcc: Mn 0.9029; fcc: Mn 0.913; β-Mn: Mn 0.9097 | model | [3] Jansson 1992 | Table I, p. 3, row 11 |  |
-| 1330.9 | peritectoid: fcc-A1 + bcc-A2 -> cub-A13 | fcc-A1: Mn 0.913; bcc-A2: Mn 0.903; cub-A13: Mn 0.91 | unspecified | [1] Hämäläinen 1998 | Table I, p. 72, row 9 |  |
-| 1321 | peritectic: L + γ -> γ2 | L: Mn 0.2552; γ: Mn 0.3674; γ2: Mn 0.3593 | model | [2] Liu 1999 | Table 3, p. 8, row 33 |  |
-| 1321 | peritectic: L + γ -> γ2 | L: Mn 0.283; γ: Mn 0.345; γ2: Mn 0.336 | model | [2] Liu 1999; _cites McAlster 1990_ | Table 3, p. 8, row 34 |  |
-| 1321 | peritectic: L + γ -> γ2 | L: Mn 0.283; γ: Mn 0.345; γ2: Mn 0.336 | experimental | [2] Liu 1999; _cites Godecke 1971_ | Table 3, p. 8, row 35 |  |
-| 1313.15 | eutectoid: δMn(fcc) ↔ ε(cph) + βMn |  | experimental | [2] Liu 1999 | p. 4 | “It was also determined that the eutectoid reaction δMn(fcc) ↔ ε(cph) + βMn occurred at approximately 1040 °C, which is higher than 970 °C reported in earlier papers.” |
-| 1313 | eutectoid: δMn -> ε + βMn (cont.) | δMn: Mn 0.745; ε: Mn 0.715; βMn: Mn 0.755 | experimental | [2] Liu 1999; _cites Liu 1996_ [doi](https://doi.org/10.1016/0925-8388%2895%2902144-2) | Table 3, p. 9, row 1 |  |
-| 1313 | eutectoid: δMn -> ε + βMn | δMn: Mn 0.7314; ε: Mn 0.7064; βMn: Mn 0.7449 | model | [2] Liu 1999 | Table 3, p. 8, row 49 |  |
-| 1275 | peritectic: L + γ2 -> Al11Mn4 | L: Mn 0.232; γ2: Mn 0.3; Al11Mn4: Mn 0.2863 | model | [2] Liu 1999; _cites McAlster 1990_ | Table 3, p. 8, row 18 |  |
-| 1275 | peritectic: L + γ2 -> Al11Mn4 | L: Mn 0.223; γ2: Mn 0.3; Al11Mn4: Mn 0.28 | experimental | [2] Liu 1999; _cites Godecke 1971_ | Table 3, p. 8, row 19 |  |
-| 1273 | peritectic: L + γ2 -> Al11Mn4 | L: Mn 0.2009; γ2: Mn 0.3336; Al11Mn4: Mn 0.2667 | model | [2] Liu 1999 | Table 3, p. 8, row 16 |  |
-| 1263 | peritectic: L + γ2 -> Al11Mn4 | L: Mn 0.2049; γ2: Mn 0.3248; Al11Mn4: Mn 0.2667 | model | [2] Liu 1999; _cites Jansson 1992_ [doi](https://doi.org/10.1007/bf02646113) | Table 3, p. 8, row 17 |  |
-| 1263 | peritectic: Liquid + Al8Mn5 -> Al11Mn4 | L: Mn 0.2049; Al8Mn5: Mn 0.3248; Al11Mn4: Mn 0.2667 | model | [3] Jansson 1992 | Table I, p. 3, row 5 |  |
-| 1262.4 | peritectic: Liquid + Al8Mn5-D810 -> Al11Mn4 | L: Mn 0.205; Al8Mn5-D810: Mn 0.324; Al11Mn4: Mn 0.266 | unspecified | [1] Hämäläinen 1998 | Table I, p. 72, row 5 |  |
-| 1243.15 | eutectoid: δMn(fcc) ↔ ε(cph) + βMn |  | experimental | [2] Liu 1999 | p. 4 | “It was also determined that the eutectoid reaction δMn(fcc) ↔ ε(cph) + βMn occurred at approximately 1040 °C, which is higher than 970 °C reported in earlier papers.” |
-| 1243 | eutectoid: δMn -> ε + βMn | δMn: Mn 0.615; ε: Mn 0.58; βMn: Mn 0.65 | model | [2] Liu 1999; _cites McAlster 1990_ | Table 3, p. 8, row 51 |  |
-| 1208 | eutectoid: δMn -> ε + βMn | δMn: Mn 0.6019; ε: Mn 0.5932; βMn: Mn 0.6217 | model | [2] Liu 1999; _cites Jansson 1992_ [doi](https://doi.org/10.1007/bf02646113) | Table 3, p. 8, row 50 |  |
-| 1208 | eutectoid: Bcc -> hcp + β-Mn | Bcc: Mn 0.6019; hcp: Mn 0.5932; β-Mn: Mn 0.6217 | model | [3] Jansson 1992 | Table I, p. 3, row 8 |  |
-| 1207.15 | eutectoid: bcc \<=> hcp + /3-Mn |  | model | [3] Jansson 1992 | p. 6 | “When only the experimental points at higher Mn content were used, the eutectoid reaction bcc \<:> hcp + /3-Mn at 934 ~ becomes the lowest temperature where bcc is stable.” |
-| 1207 | eutectoid: bcc-A2 -> hcp-A3 + cub-A13 | bcc-A2: Mn 0.601; hcp-A3: Mn 0.592; cub-A13: Mn 0.621 | unspecified | [1] Hämäläinen 1998 | Table I, p. 72, row 8 |  |
-| 1196 | peritectic: L + Al11Mn4 -> Al4Mn | L: Mn 0.1233; Al11Mn4: Mn 0.2667; Al4Mn: Mn 0.2 | model | [2] Liu 1999 | Table 3, p. 8, row 12 |  |
-| 1196 | peritectic: L + Al11Mn4 -> Al4Mn | L: Mn 0.15; Al11Mn4: Mn 0.242; Al4Mn: Mn 0.21 | experimental | [2] Liu 1999; _cites Godecke 1971_ | Table 3, p. 8, row 15 |  |
-| 1196 | peritectic: L + Al11Mn4 -> Al4Mn | L: Mn 0.152; Al11Mn4: Mn 0.25; Al4Mn: Mn 0.208 | model | [2] Liu 1999; _cites McAlster 1990_ | Table 3, p. 8, row 14 |  |
-| 1193.1 | peritectic: Liquid + Al11Mn4 -> Al4Mn | L: Mn 0.127; Al11Mn4: Mn 0.266; Al4Mn: Mn 0.2 | unspecified | [1] Hämäläinen 1998 | Table I, p. 72, row 4 |  |
-| 1193 | peritectic: Liquid + Al11Mn4 -> Al4Mn | L: Mn 0.127; Al11Mn4: Mn 0.2667; Al4Mn: Mn 0.2 | model | [3] Jansson 1992 | Table I, p. 3, row 4 |  |
-| 1193 | peritectic: L + Al11Mn4 -> Al4Mn | L: Mn 0.127; Al11Mn4: Mn 0.2667; Al4Mn: Mn 0.2 | model | [2] Liu 1999; _cites Jansson 1992_ [doi](https://doi.org/10.1007/bf02646113) | Table 3, p. 8, row 13 |  |
-| 1176 | eutectoid: δMn(bcc) ↔ ε + βMn |  | experimental | [2] Liu 1999 | p. 4 | “The temperature of the eutectoid reaction δMn(bcc) ↔ ε + βMn has been determined as 1176 K, which is lower than that reported by \[96Liu\].” |
-| 1176 | eutectoid: δMn -> ε + βMn (cont.) |  | experimental | [2] Liu 1999; _cites Muller 1996_ [doi](https://doi.org/10.1515/ijmr-1996-870713) | Table 3, p. 9, row 2 |  |
-| 1143.7 | eutectoid: hcp-A3 -> Al8Mn5-D810 + cub-A13 | hcp-A3: Mn 0.551; Al8Mn5-D810: Mn 0.511; cub-A13: Mn 0.59 | unspecified | [1] Hämäläinen 1998 | Table I, p. 72, row 7 |  |
-| 1143.15 | eutectoid: hcp \<=> A18Mns + bcc |  | experimental | [3] Jansson 1992; _cites W 1960_ | p. 6 | “They suggested that the eutectoid decomposition of hcp into A18Mns and bcc occurs at 870 ~ and the eutectoid reaction bcc \<::> hcp + /3-Mn at 840 ~” |
-| 1143.15 | eutectoid: hcp \<=> A18Mns + /3-Mn |  | experimental | [3] Jansson 1992 | p. 6 | “Kono also placed the eutectoid decomposition of hcp at 870 ~ but suggested that the reaction is hcp \<:> A18Mns + /3-Mn.” |
-| 1143 | eutectoid: ε -> γ + βMn | ε: Mn 0.55; γ: Mn 0.505; βMn: Mn 0.6 | experimental | [2] Liu 1999; _cites Kono 1958_ [doi](https://doi.org/10.1143/jpsj.13.1444) | Table 3, p. 8, row 30 |  |
-| 1143 | eutectoid: ε -> γ + βMn | ε: Mn 0.54; γ: Mn 0.513; βMn: Mn 0.6 | model | [2] Liu 1999; _cites McAlster 1990_ | Table 3, p. 8, row 28 |  |
-| 1143 | eutectoid: ε -> γ + βMn |  | experimental | [2] Liu 1999; _cites Godecke 1971_ | Table 3, p. 8, row 29 |  |
-| 1143 | eutectoid: ε -> γ + βMn | ε: Mn 0.5716; γ: Mn 0.5391; βMn: Mn 0.5889 | model | [2] Liu 1999 | Table 3, p. 8, row 26 |  |
-| 1143 | eutectoid: Hcp -> Al8Mn5 + β-Mn | Hcp: Mn 0.5515; Al8Mn5: Mn 0.5117; β-Mn: Mn 0.5896 | model | [3] Jansson 1992 | Table I, p. 3, row 7 |  |
-| 1143 | eutectoid: ε -> γ + βMn | ε: Mn 0.5515; γ: Mn 0.5117; βMn: Mn 0.5896 | model | [2] Liu 1999; _cites Jansson 1992_ [doi](https://doi.org/10.1007/bf02646113) | Table 3, p. 8, row 27 |  |
-| 1143 | eutectoid: ε -> γ + βMn | ε: Mn 0.58; γ: Mn 0.535; βMn: Mn 0.606 | experimental | [2] Liu 1999; _cites Liu 1996_ [doi](https://doi.org/10.1016/0925-8388%2895%2902144-2) | Table 3, p. 8, row 31 |  |
-| 1130 | eutectoid: ε ↔ γ + βMn |  | experimental | [2] Liu 1999 | p. 4 | “The temperatures corresponding to the eutectoid reactions γ ↔ γ2 + βMn and ε ↔ γ + βMn are located at about 1090 and 1130 K, which are about 10 and 15 K lower, respectively, than those reported by \[58Kon\], \[60Koc\], and \[71God\].” |
-| 1130 | eutectoid: ε -> γ + βMn |  | experimental | [2] Liu 1999; _cites Muller 1996_ [doi](https://doi.org/10.1515/ijmr-1996-870713) | Table 3, p. 8, row 32 |  |
-| 1113 | eutectoid: γ -> γ2 + βMn | γ: Mn 0.495; γ2: Mn 0.47; βMn: Mn 0.595 | experimental | [2] Liu 1999; _cites Godecke 1971_ | Table 3, p. 8, row 42 |  |
-| 1113 | eutectoid: γ -> γ2 + βMn | γ2: Mn 0.384615 | model | [2] Liu 1999; _cites McAlster 1990_ | Table 3, p. 8, row 43 |  |
-| 1113 | eutectoid: γ -> γ2 + βMn | γ: Mn 0.525; γ2: Mn 0.505; βMn: Mn 0.6 | experimental | [2] Liu 1999; _cites Koch 1960_ [doi](https://doi.org/10.1063/1.1984610) | Table 3, p. 8, row 44 |  |
-| 1113 | eutectoid: γ -> γ2 + βMn | γ: Mn 0.531; γ2: Mn 0.5001; βMn: Mn 0.5821 | model | [2] Liu 1999 | Table 3, p. 8, row 41 |  |
-| 1090 | eutectoid: γ -> γ2 + βMn | γ2: Mn 0.384615 | experimental | [2] Liu 1999; _cites Muller 1996_ [doi](https://doi.org/10.1515/ijmr-1996-870713) | Table 3, p. 8, row 45 |  |
-| 1090 | eutectoid: γ ↔ γ2 + βMn |  | experimental | [2] Liu 1999 | p. 4 | “The temperatures corresponding to the eutectoid reactions γ ↔ γ2 + βMn and ε ↔ γ + βMn are located at about 1090 and 1130 K, which are about 10 and 15 K lower, respectively, than those reported by \[58Kon\], \[60Koc\], and \[71God\].” |
-| 983.15 | peritectic |  | experimental | [3] Jansson 1992 | p. 5 | “The peritectic formation of AI6Mn is placed at 710 ~ by Dix et al., which is supported by G6decke and KOster t9\] in 1971, who gave the temperature 708 ~” |
-| 981.15 | peritectic |  | experimental | [3] Jansson 1992; _cites T 1971_ | p. 5 | “The peritectic formation of AI6Mn is placed at 710 ~ by Dix et al., which is supported by G6decke and KOster t9\] in 1971, who gave the temperature 708 ~” |
-| 979.5 | peritectic: Liquid + Al4Mn -> Al6Mn | L: Mn 0.0194; Al4Mn: Mn 0.2; Al6Mn: Mn 0.1429 | model | [3] Jansson 1992 | Table I, p. 3, row 3 |  |
-| 979 | peritectic: L + Al4Mn -> Al6Mn | L: Mn 0.0194; Al4Mn: Mn 0.2; Al6Mn: Mn 0.1429 | model | [2] Liu 1999; _cites Jansson 1992_ [doi](https://doi.org/10.1007/bf02646113) | Table 3, p. 8, row 9 |  |
-| 978.2 | peritectic: L + Al4Mn -> Al6Mn | L: Mn 0.0182; Al4Mn: Mn 0.2; Al6Mn: Mn 0.1429 | model | [2] Liu 1999 | Table 3, p. 8, row 8 |  |
-| 978 | peritectic: Liquid + Al4Mn -> Al6Mn | L: Mn 0.021; Al4Mn: Mn 0.2; Al6Mn: Mn 0.143 | unspecified | [1] Hämäläinen 1998 | Table I, p. 72, row 1 |  |
-| 978 | peritectic: L + Al4Mn -> Al6Mn | L: Mn 0.024; Al4Mn: Mn 0.19; Al6Mn: Mn 0.142 | model | [2] Liu 1999; _cites McAlster 1990_ | Table 3, p. 8, row 10 |  |
-| 978 | peritectic: L + Al4Mn -> Al6Mn | L: Mn 0.19; Al4Mn: Mn 0.2; Al6Mn: Mn 0.142857 | experimental | [2] Liu 1999; _cites Godecke 1971_ | Table 3, p. 8, row 11 |  |
-| 953.15 | peritectic |  | experimental | [3] Jansson 1992 | p. 5 | “Phillips placed this peritectic around 680 ~ but it is generally agreed that this was not an equilibrium measurement, and his value was thus not used in the assessment.” |
-| 931.5 | eutectic: L -> (Al) + Al6Mn | L: Mn 0.0071; (Al): Mn 0.0096; Al6Mn: Mn 0.1429 | model | [2] Liu 1999 | Table 3, p. 8, row 4 |  |
-| 931.2 | eutectic: Liquid -> fcc + Al6Mn | L: Mn 0.0101; fcc: Mn 0.0073; Al6Mn: Mn 0.1429 | model | [3] Jansson 1992 | Table I, p. 3, row 2 |  |
-| 931.15 | eutectic |  | model | [3] Jansson 1992 | p. 5 | “The calculated eutectic temperature, 658 ~ is identical to the value measured by both References 24 and 32, and the liquid composition is also in good agreement.” |
-| 931.1 | eutectic: Liquid -> fcc-Al + Al6Mn | L: Mn 0.01; fcc-Al: Mn 0.007; Al6Mn: Mn 0.143 | unspecified | [1] Hämäläinen 1998 | Table I, p. 72, row 2 |  |
-| 931 | eutectic: L -> (Al) + Al6Mn | L: Mn 0.0062; (Al): Mn 0.01; Al6Mn: Mn 0.142 | model | [2] Liu 1999; _cites McAlster 1990_ | Table 3, p. 8, row 6 |  |
-| 931 | eutectic: L -> (Al) + Al6Mn | L: Mn 0.0071; (Al): Mn 0.01; Al6Mn: Mn 0.1429 | model | [2] Liu 1999; _cites Jansson 1992_ [doi](https://doi.org/10.1007/bf02646113) | Table 3, p. 8, row 5 |  |
-| 931 | eutectic: L -> (Al) + Al6Mn | (Al): Mn 0.0099; Al6Mn: Mn 0.142857 | experimental | [2] Liu 1999; _cites Koster 1960_ | Table 3, p. 8, row 7 |  |
-| 817 | peritectoid: fcc-Al + Al6Mn -> Al12Mn | fcc-Al: Mn 0.002; Al6Mn: Mn 0.143; Al12Mn: Mn 0.077 | unspecified | [1] Hämäläinen 1998 | Table I, p. 72, row 3 |  |
-| 781 | peritectoid: (Al) + Al6Mn -> Al12Mn | (Al): Mn 0.0023; Al6Mn: Mn 0.1429; Al12Mn: Mn 0.0769 | model | [2] Liu 1999 | Table 3, p. 8, row 1 |  |
-| 780.3 | peritectoid: (Al) + Al6Mn -> Al12Mn | (Al): Mn 0.0021; Al6Mn: Mn 0.1429; Al12Mn: Mn 0.0769 | model | [2] Liu 1999; _cites Jansson 1992_ [doi](https://doi.org/10.1007/bf02646113) | Table 3, p. 8, row 2 |  |
-| 780.2 | peritectoid: Fcc + Al6Mn -> Al12Mn | Fcc: Mn 0.0021; Al6Mn: Mn 0.1429; Al12Mn: Mn 0.0769 | model | [3] Jansson 1992 | Table I, p. 3, row 1 |  |
-| 777 | peritectoid: (Al) + Al6Mn -> Al12Mn | Al6Mn: Mn 0.142857; Al12Mn: Mn 0.0769231 | experimental | [2] Liu 1999; _cites ref. 86Sch_ | Table 3, p. 8, row 3 |  |
+| 1582 | congruent melting: bcc-A2 -> Liquid | bcc-A2: Mn 0.816; L: Mn 0.816 | unspecified | [1] Hämäläinen 1998 | Table I, p. 72, row 11; `ORC-2Q5G3O6B6F` |  |
+| 1548 | peritectic: L + δMn -> ε | L: Mn 0.6538; δMn: Mn 0.6902; ε: Mn 0.6809 | model | [2] Liu 1999 | Table 3, p. 8, row 20; `ORC-ANK3CMYBMP` |  |
+| 1533 | peritectic: L + δMn -> ε |  | experimental | [2] Liu 1999; _cites Liu 1996_ [doi](https://doi.org/10.1016/0925-8388%2895%2902144-2) | Table 3, p. 8, row 24; `ORC-2C5RKI5A3H` |  |
+| 1533 | peritectic: L + δMn -> ε |  | experimental | [2] Liu 1999; _cites Godecke 1971_ | Table 3, p. 8, row 23; `ORC-DBY7A2FET7` |  |
+| 1533 | peritectic: L + δMn -> ε | L: Mn 0.59; δMn: Mn 0.63; ε: Mn 0.6 | model | [2] Liu 1999; _cites McAlster 1990_ | Table 3, p. 8, row 22; `ORC-GUHA2CEPIO` |  |
+| 1529 | peritectic: L + δMn -> ε |  | experimental | [2] Liu 1999; _cites Muller 1996_ [doi](https://doi.org/10.1515/ijmr-1996-870713) | Table 3, p. 8, row 25; `ORC-JUHFNLNJIE` |  |
+| 1523 | peritectic: L + δMn -> ε | L: Mn 0.5898; δMn: Mn 0.6454; ε: Mn 0.6422 | model | [2] Liu 1999; _cites Jansson 1992_ [doi](https://doi.org/10.1007/bf02646113) | Table 3, p. 8, row 21; `ORC-2LOXP4IA74` |  |
+| 1523 | peritectic: Liquid + bcc -> hcp | L: Mn 0.5898; bcc: Mn 0.6454; hcp: Mn 0.6422 | model | [3] Jansson 1992 | Table I, p. 3, row 9; `ORC-MEB63BMP75` |  |
+| 1522.3 | peritectic: Liquid + bcc-A2 -> hcp-A3 | L: Mn 0.588; bcc-A2: Mn 0.644; hcp-A3: Mn 0.641 | unspecified | [1] Hämäläinen 1998 | Table I, p. 72, row 10; `ORC-FIVALJ6YMD` |  |
+| 1464 | peritectic: L + ε -> γ | L: Mn 0.43; ε: Mn 0.532; γ: Mn 0.506 | model | [2] Liu 1999; _cites McAlster 1990_ | Table 3, p. 8, row 38; `ORC-UH2FTPPMYZ` |  |
+| 1463 | peritectic: L + ε -> γ |  | experimental | [2] Liu 1999; _cites Muller 1996_ [doi](https://doi.org/10.1515/ijmr-1996-870713) | Table 3, p. 8, row 40; `ORC-HKUWPJGPFT` |  |
+| 1450 | peritectic: L + ε -> γ | L: Mn 0.449; ε: Mn 0.5444; γ: Mn 0.5264 | model | [2] Liu 1999 | Table 3, p. 8, row 36; `ORC-S33ZMW3VLK` |  |
+| 1433.3 | peritectic: Liquid + hcp-A3 -> Al8Mn5-D810 | L: Mn 0.425; hcp-A3: Mn 0.519; Al8Mn5-D810: Mn 0.486 | unspecified | [1] Hämäläinen 1998 | Table I, p. 72, row 6; `ORC-YMYBJV2NBA` |  |
+| 1433 | peritectic: Liquid + hcp -> Al8Mn5 | L: Mn 0.4254; hcp: Mn 0.5186; Al8Mn5: Mn 0.4858 | model | [3] Jansson 1992 | Table I, p. 3, row 6; `ORC-2AD6GHRF4C` |  |
+| 1433 | peritectic: L + ε -> γ |  | experimental | [2] Liu 1999; _cites Koster 1960_ | Table 3, p. 8, row 39; `ORC-3JMJTY3K3K` |  |
+| 1433 | peritectic: L + ε -> γ | L: Mn 0.4254; ε: Mn 0.5186; γ: Mn 0.4858 | model | [2] Liu 1999; _cites Jansson 1992_ [doi](https://doi.org/10.1007/bf02646113) | Table 3, p. 8, row 37; `ORC-AOU3UDBJB2` |  |
+| 1331 | peritectoid: Bcc + fcc -> β-Mn | Bcc: Mn 0.9029; fcc: Mn 0.913; β-Mn: Mn 0.9097 | model | [3] Jansson 1992 | Table I, p. 3, row 11; `ORC-3Y5CGYZL3U` |  |
+| 1330.9 | peritectoid: fcc-A1 + bcc-A2 -> cub-A13 | fcc-A1: Mn 0.913; bcc-A2: Mn 0.903; cub-A13: Mn 0.91 | unspecified | [1] Hämäläinen 1998 | Table I, p. 72, row 9; `ORC-UUNMTUOL7U` |  |
+| 1321 | peritectic: L + γ -> γ2 | L: Mn 0.2552; γ: Mn 0.3674; γ2: Mn 0.3593 | model | [2] Liu 1999 | Table 3, p. 8, row 33; `ORC-5N3BTQSIWC` |  |
+| 1321 | peritectic: L + γ -> γ2 | L: Mn 0.283; γ: Mn 0.345; γ2: Mn 0.336 | model | [2] Liu 1999; _cites McAlster 1990_ | Table 3, p. 8, row 34; `ORC-B5PMTMYPOV` |  |
+| 1321 | peritectic: L + γ -> γ2 | L: Mn 0.283; γ: Mn 0.345; γ2: Mn 0.336 | experimental | [2] Liu 1999; _cites Godecke 1971_ | Table 3, p. 8, row 35; `ORC-SLW3FNM6T7` |  |
+| 1313.15 | eutectoid: δMn(fcc) ↔ ε(cph) + βMn |  | experimental | [2] Liu 1999 | p. 4; `ORC-NWEWTESD4V.7419f1` | “It was also determined that the eutectoid reaction δMn(fcc) ↔ ε(cph) + βMn occurred at approximately 1040 °C, which is higher than 970 °C reported in earlier papers.” |
+| 1313 | eutectoid: δMn -> ε + βMn (cont.) | δMn: Mn 0.745; ε: Mn 0.715; βMn: Mn 0.755 | experimental | [2] Liu 1999; _cites Liu 1996_ [doi](https://doi.org/10.1016/0925-8388%2895%2902144-2) | Table 3, p. 9, row 1; `ORC-4CXX7YGX2N` |  |
+| 1313 | eutectoid: δMn -> ε + βMn | δMn: Mn 0.7314; ε: Mn 0.7064; βMn: Mn 0.7449 | model | [2] Liu 1999 | Table 3, p. 8, row 49; `ORC-HOQDU6MW3D` |  |
+| 1275 | peritectic: L + γ2 -> Al11Mn4 | L: Mn 0.232; γ2: Mn 0.3; Al11Mn4: Mn 0.2863 | model | [2] Liu 1999; _cites McAlster 1990_ | Table 3, p. 8, row 18; `ORC-5ZYF3FN7WQ` |  |
+| 1275 | peritectic: L + γ2 -> Al11Mn4 | L: Mn 0.223; γ2: Mn 0.3; Al11Mn4: Mn 0.28 | experimental | [2] Liu 1999; _cites Godecke 1971_ | Table 3, p. 8, row 19; `ORC-BRJXAFFMQH` |  |
+| 1273 | peritectic: L + γ2 -> Al11Mn4 | L: Mn 0.2009; γ2: Mn 0.3336; Al11Mn4: Mn 0.2667 | model | [2] Liu 1999 | Table 3, p. 8, row 16; `ORC-XVIAIDMNHP` |  |
+| 1263 | peritectic: L + γ2 -> Al11Mn4 | L: Mn 0.2049; γ2: Mn 0.3248; Al11Mn4: Mn 0.2667 | model | [2] Liu 1999; _cites Jansson 1992_ [doi](https://doi.org/10.1007/bf02646113) | Table 3, p. 8, row 17; `ORC-TNF4BRB624` |  |
+| 1263 | peritectic: Liquid + Al8Mn5 -> Al11Mn4 | L: Mn 0.2049; Al8Mn5: Mn 0.3248; Al11Mn4: Mn 0.2667 | model | [3] Jansson 1992 | Table I, p. 3, row 5; `ORC-VJ7OHQ2MSX` |  |
+| 1262.4 | peritectic: Liquid + Al8Mn5-D810 -> Al11Mn4 | L: Mn 0.205; Al8Mn5-D810: Mn 0.324; Al11Mn4: Mn 0.266 | unspecified | [1] Hämäläinen 1998 | Table I, p. 72, row 5; `ORC-OBWQZCN647` |  |
+| 1243.15 | eutectoid: δMn(fcc) ↔ ε(cph) + βMn |  | experimental | [2] Liu 1999 | p. 4; `ORC-NWEWTESD4V.ee72d6` | “It was also determined that the eutectoid reaction δMn(fcc) ↔ ε(cph) + βMn occurred at approximately 1040 °C, which is higher than 970 °C reported in earlier papers.” |
+| 1243 | eutectoid: δMn -> ε + βMn | δMn: Mn 0.615; ε: Mn 0.58; βMn: Mn 0.65 | model | [2] Liu 1999; _cites McAlster 1990_ | Table 3, p. 8, row 51; `ORC-HAZMJP42XE` |  |
+| 1208 | eutectoid: δMn -> ε + βMn | δMn: Mn 0.6019; ε: Mn 0.5932; βMn: Mn 0.6217 | model | [2] Liu 1999; _cites Jansson 1992_ [doi](https://doi.org/10.1007/bf02646113) | Table 3, p. 8, row 50; `ORC-2PVDYMIBKZ` |  |
+| 1208 | eutectoid: Bcc -> hcp + β-Mn | Bcc: Mn 0.6019; hcp: Mn 0.5932; β-Mn: Mn 0.6217 | model | [3] Jansson 1992 | Table I, p. 3, row 8; `ORC-NBFANB5MTC` |  |
+| 1207.15 | eutectoid: bcc \<=> hcp + /3-Mn |  | model | [3] Jansson 1992 | p. 6; `ORC-JXXFJ4BC6E` | “When only the experimental points at higher Mn content were used, the eutectoid reaction bcc \<:> hcp + /3-Mn at 934 ~ becomes the lowest temperature where bcc is stable.” |
+| 1207 | eutectoid: bcc-A2 -> hcp-A3 + cub-A13 | bcc-A2: Mn 0.601; hcp-A3: Mn 0.592; cub-A13: Mn 0.621 | unspecified | [1] Hämäläinen 1998 | Table I, p. 72, row 8; `ORC-T25D6EIWWI` |  |
+| 1196 | peritectic: L + Al11Mn4 -> Al4Mn | L: Mn 0.1233; Al11Mn4: Mn 0.2667; Al4Mn: Mn 0.2 | model | [2] Liu 1999 | Table 3, p. 8, row 12; `ORC-RSMWV464MO` |  |
+| 1196 | peritectic: L + Al11Mn4 -> Al4Mn | L: Mn 0.15; Al11Mn4: Mn 0.242; Al4Mn: Mn 0.21 | experimental | [2] Liu 1999; _cites Godecke 1971_ | Table 3, p. 8, row 15; `ORC-SNYTKG3HSW` |  |
+| 1196 | peritectic: L + Al11Mn4 -> Al4Mn | L: Mn 0.152; Al11Mn4: Mn 0.25; Al4Mn: Mn 0.208 | model | [2] Liu 1999; _cites McAlster 1990_ | Table 3, p. 8, row 14; `ORC-WERC7W74RD` |  |
+| 1193.1 | peritectic: Liquid + Al11Mn4 -> Al4Mn | L: Mn 0.127; Al11Mn4: Mn 0.266; Al4Mn: Mn 0.2 | unspecified | [1] Hämäläinen 1998 | Table I, p. 72, row 4; `ORC-E7W6HZ6UMX` |  |
+| 1193 | peritectic: Liquid + Al11Mn4 -> Al4Mn | L: Mn 0.127; Al11Mn4: Mn 0.2667; Al4Mn: Mn 0.2 | model | [3] Jansson 1992 | Table I, p. 3, row 4; `ORC-EYMQKJHQRO` |  |
+| 1193 | peritectic: L + Al11Mn4 -> Al4Mn | L: Mn 0.127; Al11Mn4: Mn 0.2667; Al4Mn: Mn 0.2 | model | [2] Liu 1999; _cites Jansson 1992_ [doi](https://doi.org/10.1007/bf02646113) | Table 3, p. 8, row 13; `ORC-WI5UOFFZYA` |  |
+| 1176 | eutectoid: δMn(bcc) ↔ ε + βMn |  | experimental | [2] Liu 1999 | p. 4; `ORC-E6NW5ZW7KN` | “The temperature of the eutectoid reaction δMn(bcc) ↔ ε + βMn has been determined as 1176 K, which is lower than that reported by \[96Liu\].” |
+| 1176 | eutectoid: δMn -> ε + βMn (cont.) |  | experimental | [2] Liu 1999; _cites Muller 1996_ [doi](https://doi.org/10.1515/ijmr-1996-870713) | Table 3, p. 9, row 2; `ORC-Z4JK3J5WON` |  |
+| 1143.7 | eutectoid: hcp-A3 -> Al8Mn5-D810 + cub-A13 | hcp-A3: Mn 0.551; Al8Mn5-D810: Mn 0.511; cub-A13: Mn 0.59 | unspecified | [1] Hämäläinen 1998 | Table I, p. 72, row 7; `ORC-JITDHUWRIM` |  |
+| 1143.15 | eutectoid: hcp \<=> A18Mns + bcc |  | experimental | [3] Jansson 1992; _cites W 1960_ | p. 6; `ORC-BYNCRKDPLO` | “They suggested that the eutectoid decomposition of hcp into A18Mns and bcc occurs at 870 ~ and the eutectoid reaction bcc \<::> hcp + /3-Mn at 840 ~” |
+| 1143.15 | eutectoid: hcp \<=> A18Mns + /3-Mn |  | experimental | [3] Jansson 1992 | p. 6; `ORC-KGPHUWQ6IB` | “Kono also placed the eutectoid decomposition of hcp at 870 ~ but suggested that the reaction is hcp \<:> A18Mns + /3-Mn.” |
+| 1143 | eutectoid: ε -> γ + βMn | ε: Mn 0.55; γ: Mn 0.505; βMn: Mn 0.6 | experimental | [2] Liu 1999; _cites Kono 1958_ [doi](https://doi.org/10.1143/jpsj.13.1444) | Table 3, p. 8, row 30; `ORC-2IBVFRENEJ` |  |
+| 1143 | eutectoid: ε -> γ + βMn | ε: Mn 0.54; γ: Mn 0.513; βMn: Mn 0.6 | model | [2] Liu 1999; _cites McAlster 1990_ | Table 3, p. 8, row 28; `ORC-J6O2RBZ7NL` |  |
+| 1143 | eutectoid: ε -> γ + βMn |  | experimental | [2] Liu 1999; _cites Godecke 1971_ | Table 3, p. 8, row 29; `ORC-KA5HYMIVVJ` |  |
+| 1143 | eutectoid: ε -> γ + βMn | ε: Mn 0.5716; γ: Mn 0.5391; βMn: Mn 0.5889 | model | [2] Liu 1999 | Table 3, p. 8, row 26; `ORC-O52IH6PPFA` |  |
+| 1143 | eutectoid: Hcp -> Al8Mn5 + β-Mn | Hcp: Mn 0.5515; Al8Mn5: Mn 0.5117; β-Mn: Mn 0.5896 | model | [3] Jansson 1992 | Table I, p. 3, row 7; `ORC-QWNTX77BQD` |  |
+| 1143 | eutectoid: ε -> γ + βMn | ε: Mn 0.5515; γ: Mn 0.5117; βMn: Mn 0.5896 | model | [2] Liu 1999; _cites Jansson 1992_ [doi](https://doi.org/10.1007/bf02646113) | Table 3, p. 8, row 27; `ORC-VIFURIRPMA` |  |
+| 1143 | eutectoid: ε -> γ + βMn | ε: Mn 0.58; γ: Mn 0.535; βMn: Mn 0.606 | experimental | [2] Liu 1999; _cites Liu 1996_ [doi](https://doi.org/10.1016/0925-8388%2895%2902144-2) | Table 3, p. 8, row 31; `ORC-YABWQ7PLIC` |  |
+| 1130 | eutectoid: ε ↔ γ + βMn |  | experimental | [2] Liu 1999 | p. 4; `ORC-JNS7VY3ZF5.835515` | “The temperatures corresponding to the eutectoid reactions γ ↔ γ2 + βMn and ε ↔ γ + βMn are located at about 1090 and 1130 K, which are about 10 and 15 K lower, respectively, than those reported by \[58Kon\], \[60Koc\], and \[71God\].” |
+| 1130 | eutectoid: ε -> γ + βMn |  | experimental | [2] Liu 1999; _cites Muller 1996_ [doi](https://doi.org/10.1515/ijmr-1996-870713) | Table 3, p. 8, row 32; `ORC-LPJHFHTAGX` |  |
+| 1113 | eutectoid: γ -> γ2 + βMn | γ: Mn 0.495; γ2: Mn 0.47; βMn: Mn 0.595 | experimental | [2] Liu 1999; _cites Godecke 1971_ | Table 3, p. 8, row 42; `ORC-6A4UGGA335` |  |
+| 1113 | eutectoid: γ -> γ2 + βMn | γ2: Mn 0.384615 | model | [2] Liu 1999; _cites McAlster 1990_ | Table 3, p. 8, row 43; `ORC-F5TELZDVTD` |  |
+| 1113 | eutectoid: γ -> γ2 + βMn | γ: Mn 0.525; γ2: Mn 0.505; βMn: Mn 0.6 | experimental | [2] Liu 1999; _cites Koch 1960_ [doi](https://doi.org/10.1063/1.1984610) | Table 3, p. 8, row 44; `ORC-NZAYMM6DOS` |  |
+| 1113 | eutectoid: γ -> γ2 + βMn | γ: Mn 0.531; γ2: Mn 0.5001; βMn: Mn 0.5821 | model | [2] Liu 1999 | Table 3, p. 8, row 41; `ORC-ZX3NQKGKA3` |  |
+| 1090 | eutectoid: γ -> γ2 + βMn | γ2: Mn 0.384615 | experimental | [2] Liu 1999; _cites Muller 1996_ [doi](https://doi.org/10.1515/ijmr-1996-870713) | Table 3, p. 8, row 45; `ORC-7BMKPKO2RF` |  |
+| 1090 | eutectoid: γ ↔ γ2 + βMn |  | experimental | [2] Liu 1999 | p. 4; `ORC-JNS7VY3ZF5.e1ea9a` | “The temperatures corresponding to the eutectoid reactions γ ↔ γ2 + βMn and ε ↔ γ + βMn are located at about 1090 and 1130 K, which are about 10 and 15 K lower, respectively, than those reported by \[58Kon\], \[60Koc\], and \[71God\].” |
+| 983.15 | peritectic |  | experimental | [3] Jansson 1992 | p. 5; `ORC-BBFCJHRKFG.c41ff2` | “The peritectic formation of AI6Mn is placed at 710 ~ by Dix et al., which is supported by G6decke and KOster t9\] in 1971, who gave the temperature 708 ~” |
+| 981.15 | peritectic |  | experimental | [3] Jansson 1992; _cites T 1971_ | p. 5; `ORC-BBFCJHRKFG.434a86` | “The peritectic formation of AI6Mn is placed at 710 ~ by Dix et al., which is supported by G6decke and KOster t9\] in 1971, who gave the temperature 708 ~” |
+| 979.5 | peritectic: Liquid + Al4Mn -> Al6Mn | L: Mn 0.0194; Al4Mn: Mn 0.2; Al6Mn: Mn 0.1429 | model | [3] Jansson 1992 | Table I, p. 3, row 3; `ORC-TZ6UGOAQ2G` |  |
+| 979 | peritectic: L + Al4Mn -> Al6Mn | L: Mn 0.0194; Al4Mn: Mn 0.2; Al6Mn: Mn 0.1429 | model | [2] Liu 1999; _cites Jansson 1992_ [doi](https://doi.org/10.1007/bf02646113) | Table 3, p. 8, row 9; `ORC-KT434VXVJR` |  |
+| 978.2 | peritectic: L + Al4Mn -> Al6Mn | L: Mn 0.0182; Al4Mn: Mn 0.2; Al6Mn: Mn 0.1429 | model | [2] Liu 1999 | Table 3, p. 8, row 8; `ORC-MSQ6OEMPAQ` |  |
+| 978 | peritectic: Liquid + Al4Mn -> Al6Mn | L: Mn 0.021; Al4Mn: Mn 0.2; Al6Mn: Mn 0.143 | unspecified | [1] Hämäläinen 1998 | Table I, p. 72, row 1; `ORC-BXIXSV6HDU` |  |
+| 978 | peritectic: L + Al4Mn -> Al6Mn | L: Mn 0.024; Al4Mn: Mn 0.19; Al6Mn: Mn 0.142 | model | [2] Liu 1999; _cites McAlster 1990_ | Table 3, p. 8, row 10; `ORC-IAIRGP527N` |  |
+| 978 | peritectic: L + Al4Mn -> Al6Mn | L: Mn 0.19; Al4Mn: Mn 0.2; Al6Mn: Mn 0.142857 | experimental | [2] Liu 1999; _cites Godecke 1971_ | Table 3, p. 8, row 11; `ORC-YB5JSEWFHP` |  |
+| 953.15 | peritectic |  | experimental | [3] Jansson 1992 | p. 5; `ORC-BBFCJHRKFG.f1bd23` | “Phillips placed this peritectic around 680 ~ but it is generally agreed that this was not an equilibrium measurement, and his value was thus not used in the assessment.” |
+| 931.5 | eutectic: L -> (Al) + Al6Mn | L: Mn 0.0071; (Al): Mn 0.0096; Al6Mn: Mn 0.1429 | model | [2] Liu 1999 | Table 3, p. 8, row 4; `ORC-3FZKC62SKG` |  |
+| 931.2 | eutectic: Liquid -> fcc + Al6Mn | L: Mn 0.0101; fcc: Mn 0.0073; Al6Mn: Mn 0.1429 | model | [3] Jansson 1992 | Table I, p. 3, row 2; `ORC-QSWMKD4OZW` |  |
+| 931.15 | eutectic |  | model | [3] Jansson 1992 | p. 5; `ORC-PSGGKOUOCS` | “The calculated eutectic temperature, 658 ~ is identical to the value measured by both References 24 and 32, and the liquid composition is also in good agreement.” |
+| 931.1 | eutectic: Liquid -> fcc-Al + Al6Mn | L: Mn 0.01; fcc-Al: Mn 0.007; Al6Mn: Mn 0.143 | unspecified | [1] Hämäläinen 1998 | Table I, p. 72, row 2; `ORC-6SNVH5BA3J` |  |
+| 931 | eutectic: L -> (Al) + Al6Mn | L: Mn 0.0062; (Al): Mn 0.01; Al6Mn: Mn 0.142 | model | [2] Liu 1999; _cites McAlster 1990_ | Table 3, p. 8, row 6; `ORC-IRH54ULLQ5` |  |
+| 931 | eutectic: L -> (Al) + Al6Mn | L: Mn 0.0071; (Al): Mn 0.01; Al6Mn: Mn 0.1429 | model | [2] Liu 1999; _cites Jansson 1992_ [doi](https://doi.org/10.1007/bf02646113) | Table 3, p. 8, row 5; `ORC-MIQCWIVEJP` |  |
+| 931 | eutectic: L -> (Al) + Al6Mn | (Al): Mn 0.0099; Al6Mn: Mn 0.142857 | experimental | [2] Liu 1999; _cites Koster 1960_ | Table 3, p. 8, row 7; `ORC-O3BJ27TPKE` |  |
+| 817 | peritectoid: fcc-Al + Al6Mn -> Al12Mn | fcc-Al: Mn 0.002; Al6Mn: Mn 0.143; Al12Mn: Mn 0.077 | unspecified | [1] Hämäläinen 1998 | Table I, p. 72, row 3; `ORC-GZYKZKL3SP` |  |
+| 781 | peritectoid: (Al) + Al6Mn -> Al12Mn | (Al): Mn 0.0023; Al6Mn: Mn 0.1429; Al12Mn: Mn 0.0769 | model | [2] Liu 1999 | Table 3, p. 8, row 1; `ORC-KXPXZVL4IQ` |  |
+| 780.3 | peritectoid: (Al) + Al6Mn -> Al12Mn | (Al): Mn 0.0021; Al6Mn: Mn 0.1429; Al12Mn: Mn 0.0769 | model | [2] Liu 1999; _cites Jansson 1992_ [doi](https://doi.org/10.1007/bf02646113) | Table 3, p. 8, row 2; `ORC-NI2ZAP5V6K` |  |
+| 780.2 | peritectoid: Fcc + Al6Mn -> Al12Mn | Fcc: Mn 0.0021; Al6Mn: Mn 0.1429; Al12Mn: Mn 0.0769 | model | [3] Jansson 1992 | Table I, p. 3, row 1; `ORC-AYB4QS7TXX` |  |
+| 777 | peritectoid: (Al) + Al6Mn -> Al12Mn | Al6Mn: Mn 0.142857; Al12Mn: Mn 0.0769231 | experimental | [2] Liu 1999; _cites ref. 86Sch_ | Table 3, p. 8, row 3; `ORC-SRJYR6VNPI` |  |
 
 ## Formation enthalpies
 
@@ -265,27 +265,27 @@ Table: Enthalpies of formation, Al–Mn system (21)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Al11Mn4 | [Al11Mn4](https://data.orchid-project.org/compounds/Al11Mn4.html) | -23.65 kJ/mol-atom |  | model | -26.725 (mp-aaaaaefw) | -26.617 (oqmd-2782) | [2] Liu 1999; _cites Jansson 1992_ [doi](https://doi.org/10.1007/bf02646113) | Table 4, p. 12, row 8 |  |
-| Al11Mn4 | [Al11Mn4](https://data.orchid-project.org/compounds/Al11Mn4.html) | -23.65 kJ/mol-atom |  | model | -26.725 (mp-aaaaaefw) | -26.617 (oqmd-2782) | [3] Jansson 1992 | Table II, p. 4, row 14 |  |
-| Al11Mn4 | [Al11Mn4](https://data.orchid-project.org/compounds/Al11Mn4.html) | -22.75 kJ/mol-atom |  | model | -26.725 (mp-aaaaaefw) | -26.617 (oqmd-2782) | [2] Liu 1999 | Table 4, p. 12, row 7 |  |
-| Al11Mn4 | [Al11Mn4](https://data.orchid-project.org/compounds/Al11Mn4.html) | -21.21 kJ/mol-atom ± 1.05 | 298.15 | experimental | -26.725 (mp-aaaaaefw) | -26.617 (oqmd-2782) | [2] Liu 1999; _cites Kubaschewski 1960_ [doi](https://doi.org/10.1039/tf9605600473) | Table 4, p. 12, row 9 |  |
-| Al11Mn4 | [Al11Mn4](https://data.orchid-project.org/compounds/Al11Mn4.html) | -21.21 kJ/mol-atom | 298.15 | experimental | -26.725 (mp-aaaaaefw) | -26.617 (oqmd-2782) | [3] Jansson 1992; _cites Kubaschewski 1960_ [doi](https://doi.org/10.1039/tf9605600473) | Table II, p. 4, row 15 |  |
-| Al4Mn |  | -21.67 kJ/mol-atom | 298.15 | experimental |  |  | [3] Jansson 1992; _cites Kubaschewski 1960_ [doi](https://doi.org/10.1039/tf9605600473) | Table II, p. 4, row 13 |  |
-| Al4Mn |  | -21.67 kJ/mol-atom ± 1.05 | 298.15 | experimental |  |  | [2] Liu 1999; _cites Kubaschewski 1960_ [doi](https://doi.org/10.1039/tf9605600473) | Table 4, p. 12, row 6 |  |
-| Al4Mn |  | -21.23 kJ/mol-atom |  | model |  |  | [2] Liu 1999 | Table 4, p. 12, row 4 |  |
-| Al4Mn |  | -21.13 kJ/mol-atom |  | model |  |  | [3] Jansson 1992 | Table II, p. 4, row 12 |  |
-| Al4Mn |  | -21.13 kJ/mol-atom |  | model |  |  | [2] Liu 1999; _cites Jansson 1992_ [doi](https://doi.org/10.1007/bf02646113) | Table 4, p. 12, row 5 |  |
-| Al6Mn | [Al6Mn](https://data.orchid-project.org/compounds/Al6Mn.html) | -15.06 kJ/mol-atom |  | model | -16.759 (mp-aaaaaagr) | -16.648 (oqmd-10498) | [2] Liu 1999 | Table 4, p. 12, row 1 |  |
-| Al6Mn | [Al6Mn](https://data.orchid-project.org/compounds/Al6Mn.html) | -15 kJ/mol-atom |  | model | -16.759 (mp-aaaaaagr) | -16.648 (oqmd-10498) | [2] Liu 1999; _cites Jansson 1992_ [doi](https://doi.org/10.1007/bf02646113) | Table 4, p. 12, row 2 |  |
-| Al6Mn | [Al6Mn](https://data.orchid-project.org/compounds/Al6Mn.html) | -12.38 kJ/mol-atom ± 1.05 | 298.15 | experimental | -16.759 (mp-aaaaaagr) | -16.648 (oqmd-10498) | [2] Liu 1999; _cites Kubaschewski 1960_ [doi](https://doi.org/10.1039/tf9605600473) | Table 4, p. 12, row 3 |  |
-| Al8Mn5 | [Al8Mn5](https://data.orchid-project.org/compounds/Al8Mn5.html) | -25.82 kJ/mol-atom |  | model | -19.01 (mp-aaacpyiq) | -18.934 (oqmd-2052217) | [2] Liu 1999 | Table 4, p. 12, row 10 |  |
-| Al8Mn5 | [Al8Mn5](https://data.orchid-project.org/compounds/Al8Mn5.html) | -23.74 kJ/mol-atom |  | model | -19.01 (mp-aaacpyiq) | -18.934 (oqmd-2052217) | [3] Jansson 1992 | Table II, p. 4, row 16 |  |
-| Al8Mn5 | [Al8Mn5](https://data.orchid-project.org/compounds/Al8Mn5.html) | -23.74 kJ/mol-atom |  | model | -19.01 (mp-aaacpyiq) | -18.934 (oqmd-2052217) | [2] Liu 1999; _cites Jansson 1992_ [doi](https://doi.org/10.1007/bf02646113) | Table 4, p. 12, row 11 |  |
-| Al8Mn5 | [Al8Mn5](https://data.orchid-project.org/compounds/Al8Mn5.html) | -22.01 kJ/mol-atom ± 1.05 | 298.15 | experimental | -19.01 (mp-aaacpyiq) | -18.934 (oqmd-2052217) | [2] Liu 1999; _cites Kubaschewski 1960_ [doi](https://doi.org/10.1039/tf9605600473) | Table 4, p. 12, row 12 |  |
-| Al8Mn5 | [Al8Mn5](https://data.orchid-project.org/compounds/Al8Mn5.html) | -22.01 kJ/mol-atom | 298.15 | experimental | -19.01 (mp-aaacpyiq) | -18.934 (oqmd-2052217) | [3] Jansson 1992; _cites Kubaschewski 1960_ [doi](https://doi.org/10.1039/tf9605600473) | Table II, p. 4, row 8 |  |
-| Al8Mn5 | [Al8Mn5](https://data.orchid-project.org/compounds/Al8Mn5.html) | -20.71 kJ/mol-atom ± 1.05 | 298.15 | experimental | -19.01 (mp-aaacpyiq) | -18.934 (oqmd-2052217) | [2] Liu 1999; _cites Kubaschewski 1960_ [doi](https://doi.org/10.1039/tf9605600473) | Table 4, p. 12, row 12 |  |
-| Al8Mn5 | [Al8Mn5](https://data.orchid-project.org/compounds/Al8Mn5.html) | -20.71 kJ/mol-atom | 298.15 | experimental | -19.01 (mp-aaacpyiq) | -18.934 (oqmd-2052217) | [3] Jansson 1992; _cites Kubaschewski 1960_ [doi](https://doi.org/10.1039/tf9605600473) | Table II, p. 4, row 9 |  |
-| Al8Mn5(b) | [Al8Mn5](https://data.orchid-project.org/compounds/Al8Mn5.html) | -20.71 kJ/mol-atom ± 1.05 | 298.15 | experimental | -19.01 (mp-aaacpyiq) | -18.934 (oqmd-2052217) | [2] Liu 1999; _cites Kubaschewski 1960_ [doi](https://doi.org/10.1039/tf9605600473) | Table 4, p. 12, row 13 |  |
+| Al11Mn4 | [Al11Mn4](https://data.orchid-project.org/compounds/Al11Mn4.html) | -23.65 kJ/mol-atom |  | model | -26.725 (mp-aaaaaefw) | -26.617 (oqmd-2782) | [2] Liu 1999; _cites Jansson 1992_ [doi](https://doi.org/10.1007/bf02646113) | Table 4, p. 12, row 8; `ORC-ELF7OC3R5S` |  |
+| Al11Mn4 | [Al11Mn4](https://data.orchid-project.org/compounds/Al11Mn4.html) | -23.65 kJ/mol-atom |  | model | -26.725 (mp-aaaaaefw) | -26.617 (oqmd-2782) | [3] Jansson 1992 | Table II, p. 4, row 14; `ORC-LS7J7G65TO` |  |
+| Al11Mn4 | [Al11Mn4](https://data.orchid-project.org/compounds/Al11Mn4.html) | -22.75 kJ/mol-atom |  | model | -26.725 (mp-aaaaaefw) | -26.617 (oqmd-2782) | [2] Liu 1999 | Table 4, p. 12, row 7; `ORC-MTRPLBUOLY` |  |
+| Al11Mn4 | [Al11Mn4](https://data.orchid-project.org/compounds/Al11Mn4.html) | -21.21 kJ/mol-atom ± 1.05 | 298.15 | experimental | -26.725 (mp-aaaaaefw) | -26.617 (oqmd-2782) | [2] Liu 1999; _cites Kubaschewski 1960_ [doi](https://doi.org/10.1039/tf9605600473) | Table 4, p. 12, row 9; `ORC-B526IZJXFO` |  |
+| Al11Mn4 | [Al11Mn4](https://data.orchid-project.org/compounds/Al11Mn4.html) | -21.21 kJ/mol-atom | 298.15 | experimental | -26.725 (mp-aaaaaefw) | -26.617 (oqmd-2782) | [3] Jansson 1992; _cites Kubaschewski 1960_ [doi](https://doi.org/10.1039/tf9605600473) | Table II, p. 4, row 15; `ORC-W2L2RQ4JHH` |  |
+| Al4Mn |  | -21.67 kJ/mol-atom | 298.15 | experimental |  |  | [3] Jansson 1992; _cites Kubaschewski 1960_ [doi](https://doi.org/10.1039/tf9605600473) | Table II, p. 4, row 13; `ORC-OSPAOF2OZO` |  |
+| Al4Mn |  | -21.67 kJ/mol-atom ± 1.05 | 298.15 | experimental |  |  | [2] Liu 1999; _cites Kubaschewski 1960_ [doi](https://doi.org/10.1039/tf9605600473) | Table 4, p. 12, row 6; `ORC-U7OZ5EQM2Y` |  |
+| Al4Mn |  | -21.23 kJ/mol-atom |  | model |  |  | [2] Liu 1999 | Table 4, p. 12, row 4; `ORC-MT4ZQQEXS3` |  |
+| Al4Mn |  | -21.13 kJ/mol-atom |  | model |  |  | [3] Jansson 1992 | Table II, p. 4, row 12; `ORC-AO23WJEWFQ` |  |
+| Al4Mn |  | -21.13 kJ/mol-atom |  | model |  |  | [2] Liu 1999; _cites Jansson 1992_ [doi](https://doi.org/10.1007/bf02646113) | Table 4, p. 12, row 5; `ORC-N6QSSBU3JL` |  |
+| Al6Mn | [Al6Mn](https://data.orchid-project.org/compounds/Al6Mn.html) | -15.06 kJ/mol-atom |  | model | -16.759 (mp-aaaaaagr) | -16.648 (oqmd-10498) | [2] Liu 1999 | Table 4, p. 12, row 1; `ORC-QJSXLCRDV4` |  |
+| Al6Mn | [Al6Mn](https://data.orchid-project.org/compounds/Al6Mn.html) | -15 kJ/mol-atom |  | model | -16.759 (mp-aaaaaagr) | -16.648 (oqmd-10498) | [2] Liu 1999; _cites Jansson 1992_ [doi](https://doi.org/10.1007/bf02646113) | Table 4, p. 12, row 2; `ORC-KQ7Q7QZPV2` |  |
+| Al6Mn | [Al6Mn](https://data.orchid-project.org/compounds/Al6Mn.html) | -12.38 kJ/mol-atom ± 1.05 | 298.15 | experimental | -16.759 (mp-aaaaaagr) | -16.648 (oqmd-10498) | [2] Liu 1999; _cites Kubaschewski 1960_ [doi](https://doi.org/10.1039/tf9605600473) | Table 4, p. 12, row 3; `ORC-RTETZ3U2OE` |  |
+| Al8Mn5 | [Al8Mn5](https://data.orchid-project.org/compounds/Al8Mn5.html) | -25.82 kJ/mol-atom |  | model | -19.01 (mp-aaacpyiq) | -18.934 (oqmd-2052217) | [2] Liu 1999 | Table 4, p. 12, row 10; `ORC-AZYZCOIVQU.40a18a` |  |
+| Al8Mn5 | [Al8Mn5](https://data.orchid-project.org/compounds/Al8Mn5.html) | -23.74 kJ/mol-atom |  | model | -19.01 (mp-aaacpyiq) | -18.934 (oqmd-2052217) | [3] Jansson 1992 | Table II, p. 4, row 16; `ORC-4NFWTMJ6RL` |  |
+| Al8Mn5 | [Al8Mn5](https://data.orchid-project.org/compounds/Al8Mn5.html) | -23.74 kJ/mol-atom |  | model | -19.01 (mp-aaacpyiq) | -18.934 (oqmd-2052217) | [2] Liu 1999; _cites Jansson 1992_ [doi](https://doi.org/10.1007/bf02646113) | Table 4, p. 12, row 11; `ORC-GFWBDW2EDT.26ec24` |  |
+| Al8Mn5 | [Al8Mn5](https://data.orchid-project.org/compounds/Al8Mn5.html) | -22.01 kJ/mol-atom ± 1.05 | 298.15 | experimental | -19.01 (mp-aaacpyiq) | -18.934 (oqmd-2052217) | [2] Liu 1999; _cites Kubaschewski 1960_ [doi](https://doi.org/10.1039/tf9605600473) | Table 4, p. 12, row 12; `ORC-GW6JIXCRKE.4493dc` |  |
+| Al8Mn5 | [Al8Mn5](https://data.orchid-project.org/compounds/Al8Mn5.html) | -22.01 kJ/mol-atom | 298.15 | experimental | -19.01 (mp-aaacpyiq) | -18.934 (oqmd-2052217) | [3] Jansson 1992; _cites Kubaschewski 1960_ [doi](https://doi.org/10.1039/tf9605600473) | Table II, p. 4, row 8; `ORC-VWD37FHGVB` |  |
+| Al8Mn5 | [Al8Mn5](https://data.orchid-project.org/compounds/Al8Mn5.html) | -20.71 kJ/mol-atom ± 1.05 | 298.15 | experimental | -19.01 (mp-aaacpyiq) | -18.934 (oqmd-2052217) | [2] Liu 1999; _cites Kubaschewski 1960_ [doi](https://doi.org/10.1039/tf9605600473) | Table 4, p. 12, row 12; `ORC-GW6JIXCRKE.fdd407` |  |
+| Al8Mn5 | [Al8Mn5](https://data.orchid-project.org/compounds/Al8Mn5.html) | -20.71 kJ/mol-atom | 298.15 | experimental | -19.01 (mp-aaacpyiq) | -18.934 (oqmd-2052217) | [3] Jansson 1992; _cites Kubaschewski 1960_ [doi](https://doi.org/10.1039/tf9605600473) | Table II, p. 4, row 9; `ORC-MD7EO45O5I` |  |
+| Al8Mn5(b) | [Al8Mn5](https://data.orchid-project.org/compounds/Al8Mn5.html) | -20.71 kJ/mol-atom ± 1.05 | 298.15 | experimental | -19.01 (mp-aaacpyiq) | -18.934 (oqmd-2052217) | [2] Liu 1999; _cites Kubaschewski 1960_ [doi](https://doi.org/10.1039/tf9605600473) | Table 4, p. 12, row 13; `ORC-QIFWUAYUXL` |  |
 
 ## Other properties
 
@@ -295,23 +295,23 @@ Table: Phase transition, Al–Mn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 933.6 K | 933.6 | congruent melting: Liquid -> fcc; _L: Mn 0; fcc: Mn 0_ | model | [3] Jansson 1992 | Table I, p. 3, row 13 |  |
-| Phase transition | 1193 K | 1193 | liquid + AII1Mn4 r A14Mn | model | [3] Jansson 1992 | p. 5 | “The three-phase equilibrium liquid + AII1Mn4 r A14Mn is placed at 1196 K Liq and xra. -- 0.15 by Reference 9 and at 1193 K and L i q = 0. 127 in the present work.” |
-| Phase transition | 1196 K | 1196 | liquid + AII1Mn4 r A14Mn | experimental | [3] Jansson 1992; _cites T 1971_ | p. 5 | “The three-phase equilibrium liquid + AII1Mn4 r A14Mn is placed at 1196 K Liq and xra. -- 0.15 by Reference 9 and at 1193 K and L i q = 0. 127 in the present work.” |
-| Phase transition | 1230 K | 1230 | g14g2 þ HTAl11 Mn4 | experimental | [4] Zheng 2018; _cites ref. 40_ | p. 7 | “They obtained the transformation temperatures of g14g2 þ HTAl11 Mn4 (1230 K) and g1 þ bcc4g2 (1261 K).” |
-| Phase transition | 1238 K | 1238 | other | experimental | [2] Liu 1999; _cites Liu 1999_ | p. 4 | “In addition, preliminary results from differential scanning calorimetry (DSC) traces obtained on two Al-Mn alloys with 49 at.% Al and 52 at.% Al, respectively, indicate that the 49 at.% Al alloy has a peak at 1238 K and the 52 at.% Al alloy a peak at 1240 K \[98Liu\].” |
-| Phase transition | 1240 K | 1240 | other | experimental | [2] Liu 1999; _cites Liu 1999_ | p. 4 | “In addition, preliminary results from differential scanning calorimetry (DSC) traces obtained on two Al-Mn alloys with 49 at.% Al and 52 at.% Al, respectively, indicate that the 49 at.% Al alloy has a peak at 1238 K and the 52 at.% Al alloy a peak at 1240 K \[98Liu\].” |
-| Phase transition | 1250 K | 1250 | other | model | [2] Liu 1999 | p. 12 | “The highest temperature of A2/B2 order-disordered transition is at 1250 K, 50 at.% Mn.” |
-| Phase transition | 1261 K | 1261 | g1 þ bcc4g2 | experimental | [4] Zheng 2018; _cites ref. 40_ | p. 7 | “They obtained the transformation temperatures of g14g2 þ HTAl11 Mn4 (1230 K) and g1 þ bcc4g2 (1261 K).” |
-| Phase transition | 1327 K | 1327 | congruent transformation: Fcc -> β-Mn; _Fcc: Mn 0.9425; β-Mn: Mn 0.9425_ | model | [3] Jansson 1992 | Table I, p. 3, row 12 |  |
-| Phase transition | 1433.15 K | 1433.15 | liquid + hcp \<=> A18Mn5 | model | [3] Jansson 1992 | p. 6 | “The calculated temperature of the three-phase equilibrium liquid + hcp \<=> A18Mn5 is 1160 ~ which is also the value obtained by K6ster and Wachtel.” |
-| Phase transition | 1433.15 K | 1433.15 | liquid + hcp \<=> A18Mn5 | experimental | [3] Jansson 1992 | p. 6 | “The calculated temperature of the three-phase equilibrium liquid + hcp \<=> A18Mn5 is 1160 ~ which is also the value obtained by K6ster and Wachtel.” |
-| Phase transition | 1523.15 K | 1523.15 | liquid + bcc \<=> hcp | model | [3] Jansson 1992 | p. 6 | “The calculated three-phase equilibrium liquid + bcc \<=> hcp falls at 1250 ~” |
-| Phase transition | 1582.15 K | 1582.15 | congruent transformation | model | [3] Jansson 1992 | p. 6 | “The calculated values for the congruent melting point of bcc are XM, = 0.82 and 1309 ~” |
-| Phase transition | 1583 K | 1583 | congruent melting: L -> δMn; _L: Mn 0.8198; δMn: Mn 0.8198_ | model | [2] Liu 1999; _cites Jansson 1992_ [doi](https://doi.org/10.1007/bf02646113) | Table 3, p. 9, row 4 |  |
-| Phase transition | 1583 K | 1583 | congruent melting: Liquid -> bcc; _L: Mn 0.8198; bcc: Mn 0.8198_ | model | [3] Jansson 1992 | Table I, p. 3, row 10 |  |
-| Phase transition | 1585 K | 1585 | congruent melting: L -> δMn; _L: Mn 0.817; δMn: Mn 0.817_ | model | [2] Liu 1999 | Table 3, p. 9, row 3 |  |
-| Phase transition | 1588 K | 1588 | congruent melting: L -> δMn; _L: Mn 0.803; δMn: Mn 0.803_ | model | [2] Liu 1999; _cites McAlster 1990_ | Table 3, p. 9, row 5 |  |
+| Phase transition | 933.6 K | 933.6 | congruent melting: Liquid -> fcc; _L: Mn 0; fcc: Mn 0_ | model | [3] Jansson 1992 | Table I, p. 3, row 13; `ORC-LCSQY7LEZM` |  |
+| Phase transition | 1193 K | 1193 | liquid + AII1Mn4 r A14Mn | model | [3] Jansson 1992 | p. 5; `ORC-ELCKG4DHGJ.13f87f` | “The three-phase equilibrium liquid + AII1Mn4 r A14Mn is placed at 1196 K Liq and xra. -- 0.15 by Reference 9 and at 1193 K and L i q = 0. 127 in the present work.” |
+| Phase transition | 1196 K | 1196 | liquid + AII1Mn4 r A14Mn | experimental | [3] Jansson 1992; _cites T 1971_ | p. 5; `ORC-ELCKG4DHGJ.3a18e1` | “The three-phase equilibrium liquid + AII1Mn4 r A14Mn is placed at 1196 K Liq and xra. -- 0.15 by Reference 9 and at 1193 K and L i q = 0. 127 in the present work.” |
+| Phase transition | 1230 K | 1230 | g14g2 þ HTAl11 Mn4 | experimental | [4] Zheng 2018; _cites ref. 40_ | p. 7; `ORC-UDKFHWX4DT.eb16b6` | “They obtained the transformation temperatures of g14g2 þ HTAl11 Mn4 (1230 K) and g1 þ bcc4g2 (1261 K).” |
+| Phase transition | 1238 K | 1238 | other | experimental | [2] Liu 1999; _cites Liu 1999_ | p. 4; `ORC-6VD22S6VZ7.d68444` | “In addition, preliminary results from differential scanning calorimetry (DSC) traces obtained on two Al-Mn alloys with 49 at.% Al and 52 at.% Al, respectively, indicate that the 49 at.% Al alloy has a peak at 1238 K and the 52 at.% Al alloy a peak at 1240 K \[98Liu\].” |
+| Phase transition | 1240 K | 1240 | other | experimental | [2] Liu 1999; _cites Liu 1999_ | p. 4; `ORC-6VD22S6VZ7.0fda94` | “In addition, preliminary results from differential scanning calorimetry (DSC) traces obtained on two Al-Mn alloys with 49 at.% Al and 52 at.% Al, respectively, indicate that the 49 at.% Al alloy has a peak at 1238 K and the 52 at.% Al alloy a peak at 1240 K \[98Liu\].” |
+| Phase transition | 1250 K | 1250 | other | model | [2] Liu 1999 | p. 12; `ORC-I5ALIPOL7F` | “The highest temperature of A2/B2 order-disordered transition is at 1250 K, 50 at.% Mn.” |
+| Phase transition | 1261 K | 1261 | g1 þ bcc4g2 | experimental | [4] Zheng 2018; _cites ref. 40_ | p. 7; `ORC-UDKFHWX4DT.4d521a` | “They obtained the transformation temperatures of g14g2 þ HTAl11 Mn4 (1230 K) and g1 þ bcc4g2 (1261 K).” |
+| Phase transition | 1327 K | 1327 | congruent transformation: Fcc -> β-Mn; _Fcc: Mn 0.9425; β-Mn: Mn 0.9425_ | model | [3] Jansson 1992 | Table I, p. 3, row 12; `ORC-NVX4UIE6QK` |  |
+| Phase transition | 1433.15 K | 1433.15 | liquid + hcp \<=> A18Mn5 | model | [3] Jansson 1992 | p. 6; `ORC-JIIBPQ3YWM.4990c0` | “The calculated temperature of the three-phase equilibrium liquid + hcp \<=> A18Mn5 is 1160 ~ which is also the value obtained by K6ster and Wachtel.” |
+| Phase transition | 1433.15 K | 1433.15 | liquid + hcp \<=> A18Mn5 | experimental | [3] Jansson 1992 | p. 6; `ORC-JIIBPQ3YWM.86a21f` | “The calculated temperature of the three-phase equilibrium liquid + hcp \<=> A18Mn5 is 1160 ~ which is also the value obtained by K6ster and Wachtel.” |
+| Phase transition | 1523.15 K | 1523.15 | liquid + bcc \<=> hcp | model | [3] Jansson 1992 | p. 6; `ORC-XR4YVBHM5U.52727e` | “The calculated three-phase equilibrium liquid + bcc \<=> hcp falls at 1250 ~” |
+| Phase transition | 1582.15 K | 1582.15 | congruent transformation | model | [3] Jansson 1992 | p. 6; `ORC-XR4YVBHM5U.984d23` | “The calculated values for the congruent melting point of bcc are XM, = 0.82 and 1309 ~” |
+| Phase transition | 1583 K | 1583 | congruent melting: L -> δMn; _L: Mn 0.8198; δMn: Mn 0.8198_ | model | [2] Liu 1999; _cites Jansson 1992_ [doi](https://doi.org/10.1007/bf02646113) | Table 3, p. 9, row 4; `ORC-PORF35PHSQ` |  |
+| Phase transition | 1583 K | 1583 | congruent melting: Liquid -> bcc; _L: Mn 0.8198; bcc: Mn 0.8198_ | model | [3] Jansson 1992 | Table I, p. 3, row 10; `ORC-RZUE4O5OJS` |  |
+| Phase transition | 1585 K | 1585 | congruent melting: L -> δMn; _L: Mn 0.817; δMn: Mn 0.817_ | model | [2] Liu 1999 | Table 3, p. 9, row 3; `ORC-35SEKMFTJN` |  |
+| Phase transition | 1588 K | 1588 | congruent melting: L -> δMn; _L: Mn 0.803; δMn: Mn 0.803_ | model | [2] Liu 1999; _cites McAlster 1990_ | Table 3, p. 9, row 5; `ORC-SC6Y2LNNH6` |  |
 
 ## Sources
 
@@ -379,4 +379,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

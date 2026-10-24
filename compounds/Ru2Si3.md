@@ -14,18 +14,18 @@ Table: Enthalpy of formation of Ru2Si3 reported in the literature (12)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -60.7 kJ/mol-atom ± 1.7 | Ru2Si3 | 298.15 | experimental | High temperature calorimetry | [Ru–Si](https://data.orchid-project.org/systems/RU-SI.html) | [1] Long 2009; _cites Perring 1998_ [doi](https://doi.org/10.1002/bbpc.19981020925) | Table 1, p. 2, row 12 |  |
-| -60.7 kJ/mol-atom ± 1.7 | Ru2Si3 | 298.15 | experimental | High temperature direct synthesis calorimetry | [Ru–Si](https://data.orchid-project.org/systems/RU-SI.html) | [2] Liu 2001; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900504-0) | Table 1, p. 2, row 13 |  |
-| -50.3 kJ/mol-atom ± 1 | Ru2Si3 | 1704 | experimental | High temperature calorimetry | [Ru–Si](https://data.orchid-project.org/systems/RU-SI.html) | [2] Liu 2001; _cites Perring 1997_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900041-5) | Table 1, p. 2, row 14 |  |
-| -50.3 kJ/mol-atom ± 1 | Ru2Si3 | 1704 | experimental | High temperature calorimetry | [Ru–Si](https://data.orchid-project.org/systems/RU-SI.html) | [1] Long 2009; _cites Perring 1997_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900041-5) | Table 1, p. 2, row 11 |  |
-| -49.2 kJ/mol-atom | Ru2Si3 | 298.15 | experimental |  | [Ru–Si](https://data.orchid-project.org/systems/RU-SI.html) | [2] Liu 2001; _cites Kuntz 1997_ [doi](https://doi.org/10.1006/jssc.1997.7508) | Table 1, p. 2, row 15 |  |
-| -53.053 kJ/mol-atom | Ru2Si3 | 298.15 | model | Assessment | [Ru–Si](https://data.orchid-project.org/systems/RU-SI.html) | [1] Long 2009 | Table 1, p. 2, row 15 |  |
-| -49.06 kJ/mol-atom | Ru2Si3 |  | model | Assessment | [Ru–Si](https://data.orchid-project.org/systems/RU-SI.html) | [2] Liu 2001 | Table 1, p. 2, row 19 |  |
-| -49.06 kJ/mol-atom | Ru2Si3 | 298.15 | model | Assessment | [Ru–Si](https://data.orchid-project.org/systems/RU-SI.html) | [1] Long 2009; _cites Liu 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2900931-8) | Table 1, p. 2, row 14 |  |
-| -47.723 kJ/mol-atom | Ru2Si3 | 298.15 | model | Assessment | [Ru–Si](https://data.orchid-project.org/systems/RU-SI.html) | [1] Long 2009; _cites Du 2001_ | Table 1, p. 2, row 13 |  |
-| -26.8 kJ/mol-atom | Ru2Si3 |  | model | Estimation | [Ru–Si](https://data.orchid-project.org/systems/RU-SI.html) | [2] Liu 2001; _cites Petersson 1982_ [doi](https://doi.org/10.1063/1.331319) | Table 1, p. 2, row 18 |  |
-| -26 kJ/mol-atom | Ru2Si3 |  | model | Prediction | [Ru–Si](https://data.orchid-project.org/systems/RU-SI.html) | [2] Liu 2001; _cites F 1988_ | Table 1, p. 2, row 17 |  |
-| -26.8 kJ/mol-atom | Ru2Si3 |  | unspecified |  | [Ru–Si](https://data.orchid-project.org/systems/RU-SI.html) | [2] Liu 2001; _cites Mann 1995_ | Table 1, p. 2, row 16 |  |
+| -60.7 kJ/mol-atom ± 1.7 | Ru2Si3 | 298.15 | experimental | High temperature calorimetry | [Ru–Si](https://data.orchid-project.org/systems/RU-SI.html) | [1] Long 2009; _cites Perring 1998_ [doi](https://doi.org/10.1002/bbpc.19981020925) | Table 1, p. 2, row 12; `ORC-6O6ZZDCLP2` |  |
+| -60.7 kJ/mol-atom ± 1.7 | Ru2Si3 | 298.15 | experimental | High temperature direct synthesis calorimetry | [Ru–Si](https://data.orchid-project.org/systems/RU-SI.html) | [2] Liu 2001; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900504-0) | Table 1, p. 2, row 13; `ORC-FBOT7E6AZD` |  |
+| -50.3 kJ/mol-atom ± 1 | Ru2Si3 | 1704 | experimental | High temperature calorimetry | [Ru–Si](https://data.orchid-project.org/systems/RU-SI.html) | [2] Liu 2001; _cites Perring 1997_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900041-5) | Table 1, p. 2, row 14; `ORC-SYECQ5RETF` |  |
+| -50.3 kJ/mol-atom ± 1 | Ru2Si3 | 1704 | experimental | High temperature calorimetry | [Ru–Si](https://data.orchid-project.org/systems/RU-SI.html) | [1] Long 2009; _cites Perring 1997_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900041-5) | Table 1, p. 2, row 11; `ORC-YBJAFCOK4E` |  |
+| -49.2 kJ/mol-atom | Ru2Si3 | 298.15 | experimental |  | [Ru–Si](https://data.orchid-project.org/systems/RU-SI.html) | [2] Liu 2001; _cites Kuntz 1997_ [doi](https://doi.org/10.1006/jssc.1997.7508) | Table 1, p. 2, row 15; `ORC-RNRZJL6SW7` |  |
+| -53.053 kJ/mol-atom | Ru2Si3 | 298.15 | model | Assessment | [Ru–Si](https://data.orchid-project.org/systems/RU-SI.html) | [1] Long 2009 | Table 1, p. 2, row 15; `ORC-EWXMHVI66O` |  |
+| -49.06 kJ/mol-atom | Ru2Si3 |  | model | Assessment | [Ru–Si](https://data.orchid-project.org/systems/RU-SI.html) | [2] Liu 2001 | Table 1, p. 2, row 19; `ORC-5J26SQTRMD` |  |
+| -49.06 kJ/mol-atom | Ru2Si3 | 298.15 | model | Assessment | [Ru–Si](https://data.orchid-project.org/systems/RU-SI.html) | [1] Long 2009; _cites Liu 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2900931-8) | Table 1, p. 2, row 14; `ORC-EI3WZ5PTIE` |  |
+| -47.723 kJ/mol-atom | Ru2Si3 | 298.15 | model | Assessment | [Ru–Si](https://data.orchid-project.org/systems/RU-SI.html) | [1] Long 2009; _cites Du 2001_ | Table 1, p. 2, row 13; `ORC-FTEXTWA77T` |  |
+| -26.8 kJ/mol-atom | Ru2Si3 |  | model | Estimation | [Ru–Si](https://data.orchid-project.org/systems/RU-SI.html) | [2] Liu 2001; _cites Petersson 1982_ [doi](https://doi.org/10.1063/1.331319) | Table 1, p. 2, row 18; `ORC-5TLY4VVJZX` |  |
+| -26 kJ/mol-atom | Ru2Si3 |  | model | Prediction | [Ru–Si](https://data.orchid-project.org/systems/RU-SI.html) | [2] Liu 2001; _cites F 1988_ | Table 1, p. 2, row 17; `ORC-XA6X4CDKZW` |  |
+| -26.8 kJ/mol-atom | Ru2Si3 |  | unspecified |  | [Ru–Si](https://data.orchid-project.org/systems/RU-SI.html) | [2] Liu 2001; _cites Mann 1995_ | Table 1, p. 2, row 16; `ORC-TWXXPBRTWJ` |  |
 
 ### Uncertainty budget
 
@@ -113,4 +113,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

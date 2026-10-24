@@ -52,24 +52,24 @@ Table: Invariant reactions reported in the literature for the Re–U system (18)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2499 | Liquid -> URe2 | Liquid: Re 0.667; URe2: Re 0.667 | model | [1] Berche 2011 | Table 5, p. 9, row 18 |  |
-| 2480 | Liquid -> URe2 | Liquid: Re 0.7; URe2: Re 0.7 | experimental | [1] Berche 2011; _cites Chandrasekharaiah 1986_ | Table 5, p. 9, row 17 |  |
-| 2473 | Liquid -> URe2 | Liquid: Re 0.667; URe2: Re 0.667 | experimental | [1] Berche 2011; _cites Jackson 1963_ [doi](https://doi.org/10.1016/0022-5088%2863%2990059-6) | Table 5, p. 9, row 16 |  |
-| 2452 | Liquid -> (Re) + URe2 | Liquid: Re 0.754; (Re): Re 0.996; URe2: Re 0.667 | model | [1] Berche 2011 | Table 5, p. 9, row 15 |  |
-| 2433 | Liquid -> (Re) + URe2 | URe2: Re 0.71 | experimental | [1] Berche 2011; _cites Chandrasekharaiah 1986_ | Table 5, p. 9, row 13 |  |
-| 2432 | Liquid -> (Re) + URe2 | Liquid: Re 0.71; URe2: Re 0.666667, U 0.333333 | experimental | [1] Berche 2011; _cites Garg 1977_ [doi](https://doi.org/10.1016/0022-3115%2877%2990078-2) | Table 5, p. 9, row 12 |  |
-| 2415 | Liquid -> (Re) + URe2 | URe2: Re 0.666667, U 0.333333 | experimental | [1] Berche 2011; _cites Mason 1994_ [doi](https://doi.org/10.1016/0022-3115%2894%2990381-6) | Table 5, p. 9, row 14 |  |
-| 2378 | Liquid -> (Re) + URe2 | Liquid: Re 0.71; (Re): Re 0.995; URe2: Re 0.667 | experimental | [1] Berche 2011; _cites Jackson 1963_ [doi](https://doi.org/10.1016/0022-5088%2863%2990059-6) | Table 5, p. 9, row 11 |  |
-| 1391 | Liquid -> γ-U + URe2 | URe2: Re 0.666667, U 0.333333 | experimental | [1] Berche 2011; _cites Chandrasekharaiah 1986_ | Table 5, p. 9, row 9 |  |
-| 1385 | Liquid -> γ-U + URe2 | Liquid: Re 0.175; γ-U: Re 0.1; URe2: Re 0.667 | experimental | [1] Berche 2011; _cites Garg 1977_ [doi](https://doi.org/10.1016/0022-3115%2877%2990078-2) | Table 5, p. 9, row 8 |  |
-| 1380 | Liquid -> γ-U + URe2 | Liquid: Re 0.142; γ-U: Re 0.113; URe2: Re 0.667 | model | [1] Berche 2011 | Table 5, p. 9, row 10 |  |
-| 1378 | Liquid -> γ-U + URe2 | Liquid: Re 0.13; URe2: Re 0.666667, U 0.333333 | experimental | [1] Berche 2011; _cites Jackson 1963_ [doi](https://doi.org/10.1016/0022-5088%2863%2990059-6) | Table 5, p. 9, row 7 |  |
-| 1023 | γ-U + URe2 -> U2Re | γ-U: Re 0.088; URe2: Re 0.667; U2Re: Re 0.333 | experimental | [1] Berche 2011; _cites Jackson 1963_ [doi](https://doi.org/10.1016/0022-5088%2863%2990059-6) | Table 5, p. 9, row 5 |  |
-| 1020 | γ-U + URe2 -> U2Re | γ-U: Re 0.083; URe2: Re 0.667; U2Re: Re 0.333 | model | [1] Berche 2011 | Table 5, p. 9, row 6 |  |
-| 960 | γ-U -> β-U + U2Re | γ-U: Re 0.056; β-U: Re 0.018; U2Re: Re 0.333 | model | [1] Berche 2011 | Table 5, p. 9, row 4 |  |
-| 954 | γ-U -> β-U + U2Re | γ-U: Re 0.08; β-U: Re 0.038; U2Re: Re 0.333 | experimental | [1] Berche 2011; _cites Jackson 1963_ [doi](https://doi.org/10.1016/0022-5088%2863%2990059-6) | Table 5, p. 9, row 3 |  |
-| 916 | β-U -> α-U + U2Re | β-U: Re 0.007; α-U: Re 0.015; U2Re: Re 0.333 | experimental | [1] Berche 2011; _cites Jackson 1963_ [doi](https://doi.org/10.1016/0022-5088%2863%2990059-6) | Table 5, p. 9, row 1 |  |
-| 910 | β-U -> α-U + U2Re | β-U: Re 0.012; α-U: Re 0; U2Re: Re 0.333 | model | [1] Berche 2011 | Table 5, p. 9, row 2 |  |
+| 2499 | Liquid -> URe2 | Liquid: Re 0.667; URe2: Re 0.667 | model | [1] Berche 2011 | Table 5, p. 9, row 18; `ORC-OCRJ2W44GE` |  |
+| 2480 | Liquid -> URe2 | Liquid: Re 0.7; URe2: Re 0.7 | experimental | [1] Berche 2011; _cites Chandrasekharaiah 1986_ | Table 5, p. 9, row 17; `ORC-VRTVQQX3TF` |  |
+| 2473 | Liquid -> URe2 | Liquid: Re 0.667; URe2: Re 0.667 | experimental | [1] Berche 2011; _cites Jackson 1963_ [doi](https://doi.org/10.1016/0022-5088%2863%2990059-6) | Table 5, p. 9, row 16; `ORC-JHIPZ2NWT7` |  |
+| 2452 | Liquid -> (Re) + URe2 | Liquid: Re 0.754; (Re): Re 0.996; URe2: Re 0.667 | model | [1] Berche 2011 | Table 5, p. 9, row 15; `ORC-6MFDRHGWB6` |  |
+| 2433 | Liquid -> (Re) + URe2 | URe2: Re 0.71 | experimental | [1] Berche 2011; _cites Chandrasekharaiah 1986_ | Table 5, p. 9, row 13; `ORC-JXKQ4GBQQ2` |  |
+| 2432 | Liquid -> (Re) + URe2 | Liquid: Re 0.71; URe2: Re 0.666667, U 0.333333 | experimental | [1] Berche 2011; _cites Garg 1977_ [doi](https://doi.org/10.1016/0022-3115%2877%2990078-2) | Table 5, p. 9, row 12; `ORC-YANJP5SUD7` |  |
+| 2415 | Liquid -> (Re) + URe2 | URe2: Re 0.666667, U 0.333333 | experimental | [1] Berche 2011; _cites Mason 1994_ [doi](https://doi.org/10.1016/0022-3115%2894%2990381-6) | Table 5, p. 9, row 14; `ORC-GHBRCIGJUK` |  |
+| 2378 | Liquid -> (Re) + URe2 | Liquid: Re 0.71; (Re): Re 0.995; URe2: Re 0.667 | experimental | [1] Berche 2011; _cites Jackson 1963_ [doi](https://doi.org/10.1016/0022-5088%2863%2990059-6) | Table 5, p. 9, row 11; `ORC-PVQSCCUU2Y` |  |
+| 1391 | Liquid -> γ-U + URe2 | URe2: Re 0.666667, U 0.333333 | experimental | [1] Berche 2011; _cites Chandrasekharaiah 1986_ | Table 5, p. 9, row 9; `ORC-DFI5QRETJM` |  |
+| 1385 | Liquid -> γ-U + URe2 | Liquid: Re 0.175; γ-U: Re 0.1; URe2: Re 0.667 | experimental | [1] Berche 2011; _cites Garg 1977_ [doi](https://doi.org/10.1016/0022-3115%2877%2990078-2) | Table 5, p. 9, row 8; `ORC-NFAOKED7B2` |  |
+| 1380 | Liquid -> γ-U + URe2 | Liquid: Re 0.142; γ-U: Re 0.113; URe2: Re 0.667 | model | [1] Berche 2011 | Table 5, p. 9, row 10; `ORC-RAS7KXWCUK` |  |
+| 1378 | Liquid -> γ-U + URe2 | Liquid: Re 0.13; URe2: Re 0.666667, U 0.333333 | experimental | [1] Berche 2011; _cites Jackson 1963_ [doi](https://doi.org/10.1016/0022-5088%2863%2990059-6) | Table 5, p. 9, row 7; `ORC-VLE2XX7BJ7` |  |
+| 1023 | γ-U + URe2 -> U2Re | γ-U: Re 0.088; URe2: Re 0.667; U2Re: Re 0.333 | experimental | [1] Berche 2011; _cites Jackson 1963_ [doi](https://doi.org/10.1016/0022-5088%2863%2990059-6) | Table 5, p. 9, row 5; `ORC-TVCS3DWRGV` |  |
+| 1020 | γ-U + URe2 -> U2Re | γ-U: Re 0.083; URe2: Re 0.667; U2Re: Re 0.333 | model | [1] Berche 2011 | Table 5, p. 9, row 6; `ORC-XOVBQTRWCI` |  |
+| 960 | γ-U -> β-U + U2Re | γ-U: Re 0.056; β-U: Re 0.018; U2Re: Re 0.333 | model | [1] Berche 2011 | Table 5, p. 9, row 4; `ORC-KLWOCGQW4Q` |  |
+| 954 | γ-U -> β-U + U2Re | γ-U: Re 0.08; β-U: Re 0.038; U2Re: Re 0.333 | experimental | [1] Berche 2011; _cites Jackson 1963_ [doi](https://doi.org/10.1016/0022-5088%2863%2990059-6) | Table 5, p. 9, row 3; `ORC-BGN4TTHSTA` |  |
+| 916 | β-U -> α-U + U2Re | β-U: Re 0.007; α-U: Re 0.015; U2Re: Re 0.333 | experimental | [1] Berche 2011; _cites Jackson 1963_ [doi](https://doi.org/10.1016/0022-5088%2863%2990059-6) | Table 5, p. 9, row 1; `ORC-MJXVCGIYFX` |  |
+| 910 | β-U -> α-U + U2Re | β-U: Re 0.012; α-U: Re 0; U2Re: Re 0.333 | model | [1] Berche 2011 | Table 5, p. 9, row 2; `ORC-C2CUOLIUSS` |  |
 
 ## Sources
 
@@ -134,4 +134,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

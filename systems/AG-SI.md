@@ -52,11 +52,11 @@ Table: Invariant reactions reported in the literature for the Ag–Si system (5)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1128 | liquid -> Ag(f.c.c.) + dia | L: Si 0.132 | experimental | [1] Chevalier 1988; _cites Gottardi 1957_ | Table 2, p. 5, row 7 |  |
-| 1121 | liquid -> Ag(f.c.c.) + dia | L: Si 0.107 | experimental | [1] Chevalier 1988; _cites Predel 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990138-1) | Table 2, p. 5, row 9 |  |
-| 1113 | liquid -> Ag(f.c.c.) + dia | L: Si 0.106 | experimental | [1] Chevalier 1988; _cites Hager 1948_ | Table 2, p. 5, row 8 |  |
-| 1110.3 | liquid -> Ag(f.c.c.) + dia | L: Si 0.1; dia: Si 0.999998 | model | [1] Chevalier 1988 | Table 2, p. 5, row 5 |  |
-| 1098 | liquid -> Ag(f.c.c.) + dia | L: Si 0.154 | experimental | [1] Chevalier 1988; _cites Arrivaut 1908_ [doi](https://doi.org/10.1002/zaac.19080600128) | Table 2, p. 5, row 6 |  |
+| 1128 | liquid -> Ag(f.c.c.) + dia | L: Si 0.132 | experimental | [1] Chevalier 1988; _cites Gottardi 1957_ | Table 2, p. 5, row 7; `ORC-N4RM64ZHTO` |  |
+| 1121 | liquid -> Ag(f.c.c.) + dia | L: Si 0.107 | experimental | [1] Chevalier 1988; _cites Predel 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990138-1) | Table 2, p. 5, row 9; `ORC-QVPNN6MXNT` |  |
+| 1113 | liquid -> Ag(f.c.c.) + dia | L: Si 0.106 | experimental | [1] Chevalier 1988; _cites Hager 1948_ | Table 2, p. 5, row 8; `ORC-5PACAXB5TC` |  |
+| 1110.3 | liquid -> Ag(f.c.c.) + dia | L: Si 0.1; dia: Si 0.999998 | model | [1] Chevalier 1988 | Table 2, p. 5, row 5; `ORC-ABJD4XWU7G` |  |
+| 1098 | liquid -> Ag(f.c.c.) + dia | L: Si 0.154 | experimental | [1] Chevalier 1988; _cites Arrivaut 1908_ [doi](https://doi.org/10.1002/zaac.19080600128) | Table 2, p. 5, row 6; `ORC-X2BTKV7I6Z` |  |
 
 ## Other properties
 
@@ -66,10 +66,10 @@ Table: Phase transition, Ag–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1234 K | 1234 | Ag f.c.c. -> Ag(liq); _Ag f.c.c.: Si 0_ | experimental | [1] Chevalier 1988; _cites Hultgren 1973_ | Table 2, p. 5, row 2 |  |
-| Phase transition | 1235.08 K | 1235.08 | Ag f.c.c. -> Ag(liq); _Ag f.c.c.: Si 0_ | model | [1] Chevalier 1988 | Table 2, p. 5, row 1 |  |
-| Phase transition | 1685 K | 1685 | Si dia -> Si(liq); _Si dia: Si 1_ | experimental | [1] Chevalier 1988; _cites Hultgren 1973_ | Table 2, p. 5, row 4 |  |
-| Phase transition | 1687 K | 1687 | Si dia -> Si(liq); _Si dia: Si 1_ | model | [1] Chevalier 1988 | Table 2, p. 5, row 3 |  |
+| Phase transition | 1234 K | 1234 | Ag f.c.c. -> Ag(liq); _Ag f.c.c.: Si 0_ | experimental | [1] Chevalier 1988; _cites Hultgren 1973_ | Table 2, p. 5, row 2; `ORC-X3WIHND6XB` |  |
+| Phase transition | 1235.08 K | 1235.08 | Ag f.c.c. -> Ag(liq); _Ag f.c.c.: Si 0_ | model | [1] Chevalier 1988 | Table 2, p. 5, row 1; `ORC-VPMAHSSDL6` |  |
+| Phase transition | 1685 K | 1685 | Si dia -> Si(liq); _Si dia: Si 1_ | experimental | [1] Chevalier 1988; _cites Hultgren 1973_ | Table 2, p. 5, row 4; `ORC-2S7QGIYJ5I` |  |
+| Phase transition | 1687 K | 1687 | Si dia -> Si(liq); _Si dia: Si 1_ | model | [1] Chevalier 1988 | Table 2, p. 5, row 3; `ORC-2GSNBREGKP` |  |
 
 ## Sources
 
@@ -134,4 +134,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

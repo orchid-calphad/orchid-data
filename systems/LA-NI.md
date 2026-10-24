@@ -194,125 +194,125 @@ Table: Invariant reactions reported in the literature for the La–Ni system (11
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1552 | eutectic: L -> LaNi5 + fcc(Ni) | LaNi5: Ni 0.833333 | experimental | [1] Ye 2023; _cites ref. 31_ | Table 6, p. 8, row 5 |  |
-| 1552 | eutectic: Liq -> Ni5La + (Ni) | Ni5La: Ni 0.833333 | experimental | [2] Dischinger 2000 | Table 6, p. 8, row 2 |  |
-| 1552 | eutectic: L -> LaNi5 + Fcc(Ni) | LaNi5: Ni 0.833333 | experimental | [3] An 2013; _cites Qi 1989_ [doi](https://doi.org/10.2320/matertrans1989.30.583) | Table 5, p. 7, row 3 |  |
-| 1549.15 | peritectic |  | experimental | [2] Dischinger 2000 | p. 4 | “Additionally the temperature of the peritectic decomposition of the above mentioned new phase, Ni 17 La 4 , was determined to be 12768C.” |
-| 1549 | peritectic: Liq + Ni5La -> Ni17La4 | Ni5La: Ni 0.833333; Ni17La4: Ni 0.809524 | model | [2] Dischinger 2000 | Table 6, p. 8, row 7 |  |
-| 1549 | peritectic: Liq + Ni5La -> Ni17La4 | Ni5La: Ni 0.833333; Ni17La4: Ni 0.809524 | experimental | [2] Dischinger 2000 | Table 6, p. 8, row 8 |  |
-| 1548.15 | eutectic: Liq → fcc-Ni + Ni7 La2 |  | experimental | [4] Liao 2018; _cites ref. 28_ | p. 10 | “The invariant reactions have not been affected, except the eutectic reaction Liq → fcc-Ni + Ni7 La2 . The temperature (1272 ◦ C) of this eutectic reaction increases by less than 4 ◦ C compared with the reference \[41\] and is closer to the experimental data (1275 ◦ C) \[28\].” |
-| 1548 | eutectic: L -> LaNi5 + fcc(Ni) | LaNi5: Ni 0.833333 | model | [1] Ye 2023; _cites ref. 31_ | Table 6, p. 8, row 4 |  |
-| 1548 | eutectic: Liq -> Ni5La + (Ni) | Ni5La: Ni 0.833333 | model | [2] Dischinger 2000 | Table 6, p. 8, row 1 |  |
-| 1545.15 | eutectic: Liq → fcc-Ni + Ni7 La2 |  | model | [4] Liao 2018 | p. 10 | “The invariant reactions have not been affected, except the eutectic reaction Liq → fcc-Ni + Ni7 La2 . The temperature (1272 ◦ C) of this eutectic reaction increases by less than 4 ◦ C compared with the reference \[41\] and is closer to the experimental data (1275 ◦ C) \[28\].” |
-| 1544 | eutectic: L -> LaNi5 + fcc(Ni) | L: Ni 0.91; LaNi5: Ni 0.833333 | experimental | [1] Ye 2023; _cites ref. 28_ | Table 6, p. 8, row 6 |  |
-| 1543 | liq.->LaNi5 + f.c.c.(Ni) | LaNi5: Ni 0.833333 | experimental | [5] Du 1998; _cites Okamoto 1998_ | Table 2, p. 4, row 26 |  |
-| 1543 | liq.->LaNi5 + f.c.c.(Ni) | L: Ni 0.9128; LaNi5: Ni 0.833333 | model | [5] Du 1998 | Table 2, p. 4, row 25 |  |
-| 1543 | eutectic: Liq -> Ni5La + (Ni) | Ni5La: Ni 0.833333 | experimental | [2] Dischinger 2000; _cites Okamoto 1991_ [doi](https://doi.org/10.1007/bf02645085) | Table 6, p. 8, row 3 |  |
-| 1543 | eutectic: L -> LaNi5 + Fcc(Ni) | LaNi5: Ni 0.833333 | experimental | [3] An 2013; _cites Lvancheko 1982_ | Table 5, p. 7, row 2 |  |
-| 1543 | eutectic: L -> LaNi5 + fcc(Ni) | L: Ni 0.913; LaNi5: Ni 0.833333 | model | [1] Ye 2023; _cites ref. 30_ | Table 6, p. 8, row 3 |  |
-| 1543 | eutectic: L -> LaNi5 + fcc(Ni) | LaNi5: Ni 0.833333 | experimental | [1] Ye 2023; _cites ref. 53_ | Table 6, p. 8, row 2 |  |
-| 1542 | eutectic: L -> LaNi5 + fcc(Ni) | L: Ni 0.917; LaNi5: Ni 0.833333 | model | [1] Ye 2023; _cites ref. 32_ | Table 6, p. 8, row 7 |  |
-| 1541.2 | eutectic: L -> LaNi5 + fcc(Ni) | L: Ni 0.918; LaNi5: Ni 0.833333 | model | [1] Ye 2023 | Table 6, p. 8, row 8 |  |
-| 1541 | eutectic: L -> LaNi5 + Fcc(Ni) | LaNi5: Ni 0.833333 | model | [3] An 2013 | Table 5, p. 7, row 1 |  |
-| 1541 | eutectic: L -> LaNi5 + fcc(Ni) | LaNi5: Ni 0.833333 | model | [1] Ye 2023; _cites ref. 29_ | Table 6, p. 8, row 1 |  |
-| 1292 | peritectic: Liq + Ni17La4 -> β-Ni7La2 | Ni17La4: Ni 0.809524; β-Ni7La2: Ni 0.777778 | model | [2] Dischinger 2000 | Table 6, p. 8, row 9 |  |
-| 1292 | peritectic: Liq + Ni17La4 -> β-Ni7La2 | Ni17La4: Ni 0.809524; β-Ni7La2: Ni 0.777778 | experimental | [2] Dischinger 2000 | Table 6, p. 8, row 10 |  |
-| 1287 | liq. + LaNi5->βLa2Ni7 | L: Ni 0.6585; LaNi5: Ni 0.833333; βLa2Ni7: Ni 0.777778 | model | [5] Du 1998 | Table 2, p. 4, row 21 |  |
-| 1287 | peritectic: Liq + Ni17La4 -> β-Ni7La2 | Ni17La4: Ni 0.809524; β-Ni7La2: Ni 0.777778 | experimental | [2] Dischinger 2000; _cites Okamoto 1991_ [doi](https://doi.org/10.1007/bf02645085) | Table 6, p. 8, row 11 |  |
-| 1287 | liq. + LaNi5->βLa2Ni7 | LaNi5: Ni 0.833333; βLa2Ni7: Ni 0.777778 | experimental | [5] Du 1998; _cites Okamoto 1998_ | Table 2, p. 4, row 22 |  |
-| 1280 | peritectic: L + LaNi5 -> La5Ni19 | LaNi5: Ni 0.833333; La5Ni19: Ni 0.791667 | experimental | [1] Ye 2023; _cites ref. 28_ | Table 6, p. 8, row 20 |  |
-| 1277.7 | peritectic: L + LaNi5 -> La5Ni19 | L: Ni 0.659; LaNi5: Ni 0.833333; La5Ni19: Ni 0.791667 | model | [1] Ye 2023 | Table 6, p. 8, row 21 |  |
-| 1276 | peritectic: L + LaNi5 -> La5Ni19 | LaNi5: Ni 0.833333; La5Ni19: Ni 0.791667 | model | [3] An 2013 | Table 5, p. 7, row 4 |  |
-| 1276 | peritectic |  | experimental | [3] An 2013 | p. 1 | “High-resolution X-ray diffraction and differential scanning calorimetry showed that the La5Ni19 phase was formed from the liquid and LaNi5 phases through a peritectic reaction, L þ LaNi5-La5Ni19, at 1276 K, and existed stably down to the room temperature.” |
-| 1276 | peritectic: L + LaNi5 -> La5Ni19 | LaNi5: Ni 0.833333; La5Ni19: Ni 0.791667 | experimental | [1] Ye 2023; _cites ref. 29_ | Table 6, p. 8, row 18 |  |
-| 1276 | peritectic: L + LaNi5 -> La5Ni19 | LaNi5: Ni 0.833333; La5Ni19: Ni 0.791667 | model | [1] Ye 2023; _cites ref. 29_ | Table 6, p. 8, row 17 |  |
-| 1273 | peritectic: L + LaNi5 -> La5Ni19 | LaNi5: Ni 0.833333; La5Ni19: Ni 0.791667 | experimental | [3] An 2013; _cites Yamamoto 1997_ [doi](https://doi.org/10.1016/s1359-6454%2897%2900206-1) | Table 5, p. 7, row 5 |  |
-| 1273 | peritectic: L + LaNi5 -> La5Ni19 | LaNi5: Ni 0.833333; La5Ni19: Ni 0.791667 | experimental | [1] Ye 2023; _cites ref. 17_ | Table 6, p. 8, row 19 |  |
-| 1247 | peritectic: L + La5Ni19 -> La2Ni7 | La5Ni19: Ni 0.791667; La2Ni7: Ni 0.777778 | model | [3] An 2013 | Table 5, p. 7, row 6 |  |
-| 1247 | peritectic: L + La5Ni19 -> La2Ni7 | La5Ni19: Ni 0.791667; La2Ni7: Ni 0.777778 | model | [1] Ye 2023; _cites ref. 29_ | Table 6, p. 8, row 22 |  |
-| 1241 | peritectic: L + La5Ni19 -> La2Ni7 | La5Ni19: Ni 0.791667; La2Ni7: Ni 0.777778 | experimental | [1] Ye 2023; _cites ref. 28_ | Table 6, p. 8, row 23 |  |
-| 1238.4 | peritectic: L + La5Ni19 -> La2Ni7 | L: Ni 0.647; La5Ni19: Ni 0.791667; La2Ni7: Ni 0.777778 | model | [1] Ye 2023 | Table 6, p. 8, row 24 |  |
-| 1228 | peritectic: L + La2Ni7 -> LaNi3 | La2Ni7: Ni 0.777778; LaNi3: Ni 0.75 | experimental | [1] Ye 2023; _cites ref. 53_ | Table 6, p. 8, row 27 |  |
-| 1086 | peritectic: L + αLa2Ni7 -> LaNi3 | αLa2Ni7: Ni 0.777778; LaNi3: Ni 0.75 | experimental | [3] An 2013; _cites Qi 1989_ [doi](https://doi.org/10.2320/matertrans1989.30.583) | Table 5, p. 7, row 9 |  |
-| 1086 | peritectic: Liq + α-Ni7La2 -> Ni3La | α-Ni7La2: Ni 0.777778; Ni3La: Ni 0.75 | experimental | [2] Dischinger 2000 | Table 6, p. 8, row 16 |  |
-| 1086 | peritectic: L + La2Ni7 -> LaNi3 | La2Ni7: Ni 0.777778; LaNi3: Ni 0.75 | experimental | [1] Ye 2023; _cites ref. 31_ | Table 6, p. 8, row 30 |  |
-| 1084 | peritectic: Liq + α-Ni7La2 -> Ni3La | α-Ni7La2: Ni 0.777778; Ni3La: Ni 0.75 | experimental | [2] Dischinger 2000; _cites Okamoto 1991_ [doi](https://doi.org/10.1007/bf02645085) | Table 6, p. 8, row 17 |  |
-| 1084 | peritectic: L + La2Ni7 -> LaNi3 | L: Ni 0.605; La2Ni7: Ni 0.777778; LaNi3: Ni 0.75 | model | [1] Ye 2023; _cites ref. 30_ | Table 6, p. 8, row 28 |  |
-| 1084 | liq. + αLa2Ni7->LaNi3 | αLa2Ni7: Ni 0.777778; LaNi3: Ni 0.75 | experimental | [5] Du 1998; _cites Okamoto 1998_ | Table 2, p. 4, row 18 |  |
-| 1084 | peritectic: L + La2Ni7 -> LaNi3 | La2Ni7: Ni 0.777778; LaNi3: Ni 0.75 | experimental | [1] Ye 2023; _cites ref. 52_ | Table 6, p. 8, row 26 |  |
-| 1084 | peritectic: L + αLa2Ni7 -> LaNi3 | αLa2Ni7: Ni 0.777778; LaNi3: Ni 0.75 | experimental | [3] An 2013; _cites Lvancheko 1982_ | Table 5, p. 7, row 8 |  |
-| 1084 | peritectic: L + La2Ni7 -> LaNi3 | La2Ni7: Ni 0.777778; LaNi3: Ni 0.75 | model | [1] Ye 2023; _cites ref. 29_ | Table 6, p. 8, row 25 |  |
-| 1084 | peritectic: L + αLa2Ni7 -> LaNi3 | αLa2Ni7: Ni 0.777778; LaNi3: Ni 0.75 | model | [3] An 2013 | Table 5, p. 7, row 7 |  |
-| 1084 | peritectic: L + La2Ni7 -> LaNi3 | L: Ni 0.611; La2Ni7: Ni 0.777778; LaNi3: Ni 0.75 | model | [1] Ye 2023; _cites ref. 32_ | Table 6, p. 8, row 32 |  |
-| 1084 | liq. + αLa2Ni7->LaNi3 | L: Ni 0.6046; αLa2Ni7: Ni 0.777778; LaNi3: Ni 0.75 | model | [5] Du 1998 | Table 2, p. 4, row 17 |  |
-| 1075 | peritectic: Liq + α-Ni7La2 -> Ni3La | α-Ni7La2: Ni 0.777778; Ni3La: Ni 0.75 | model | [2] Dischinger 2000 | Table 6, p. 8, row 15 |  |
-| 1075 | peritectic: L + La2Ni7 -> LaNi3 | La2Ni7: Ni 0.777778; LaNi3: Ni 0.75 | model | [1] Ye 2023; _cites ref. 31_ | Table 6, p. 8, row 29 |  |
-| 1069 | peritectic: L + La2Ni7 -> LaNi3 | La2Ni7: Ni 0.777778; LaNi3: Ni 0.75 | experimental | [1] Ye 2023; _cites ref. 28_ | Table 6, p. 8, row 31 |  |
-| 1068 | peritectic: L + LaNi3 -> La7Ni16 | LaNi3: Ni 0.75; La7Ni16: Ni 0.695652 | experimental | [1] Ye 2023; _cites ref. 53_ | Table 6, p. 8, row 36 |  |
-| 1066.2 | peritectic: L + La2Ni7 -> LaNi3 | L: Ni 0.601; La2Ni7: Ni 0.777778; LaNi3: Ni 0.75 | model | [1] Ye 2023 | Table 6, p. 8, row 33 |  |
-| 1010 | peritectic: Liq + Ni3La -> Ni16La7 | Ni3La: Ni 0.75; Ni16La7: Ni 0.695652 | model | [2] Dischinger 2000 | Table 6, p. 8, row 18 |  |
-| 1010 | peritectic: L + LaNi3 -> La7Ni16 | LaNi3: Ni 0.75; La7Ni16: Ni 0.695652 | model | [1] Ye 2023; _cites ref. 31_ | Table 6, p. 8, row 38 |  |
-| 998 | peritectic: Liq + Ni3La -> Ni16La7 | Ni3La: Ni 0.75; Ni16La7: Ni 0.695652 | experimental | [2] Dischinger 2000 | Table 6, p. 8, row 19 |  |
-| 998 | peritectic: L + LaNi3 -> La7Ni16 | LaNi3: Ni 0.75; La7Ni16: Ni 0.695652 | experimental | [1] Ye 2023; _cites ref. 31_ | Table 6, p. 8, row 39 |  |
-| 998 | peritectic: L + LaNi3 -> La7Ni16 | LaNi3: Ni 0.75; La7Ni16: Ni 0.695652 | experimental | [3] An 2013; _cites Qi 1989_ [doi](https://doi.org/10.2320/matertrans1989.30.583) | Table 5, p. 7, row 12 |  |
-| 987 | peritectic: L + LaNi3 -> La7Ni16 | LaNi3: Ni 0.75; La7Ni16: Ni 0.695652 | model | [3] An 2013 | Table 5, p. 7, row 10 |  |
-| 987 | liq. + LaNi3->La7Ni16 | L: Ni 0.581; LaNi3: Ni 0.75; La7Ni16: Ni 0.695652 | model | [5] Du 1998 | Table 2, p. 4, row 15 |  |
-| 987 | peritectic: L + LaNi3 -> La7Ni16 | LaNi3: Ni 0.75; La7Ni16: Ni 0.695652 | experimental | [1] Ye 2023; _cites ref. 52_ | Table 6, p. 8, row 35 |  |
-| 987 | peritectic: Liq + Ni3La -> Ni16La7 | Ni3La: Ni 0.75; Ni16La7: Ni 0.695652 | experimental | [2] Dischinger 2000; _cites Okamoto 1991_ [doi](https://doi.org/10.1007/bf02645085) | Table 6, p. 8, row 20 |  |
-| 987 | liq. + LaNi3->La7Ni16 | LaNi3: Ni 0.75; La7Ni16: Ni 0.695652 | experimental | [5] Du 1998; _cites Okamoto 1998_ | Table 2, p. 4, row 16 |  |
-| 987 | peritectic: L + LaNi3 -> La7Ni16 | LaNi3: Ni 0.75; La7Ni16: Ni 0.695652 | experimental | [3] An 2013; _cites Lvancheko 1982_ | Table 5, p. 7, row 11 |  |
-| 987 | peritectic: L + LaNi3 -> La7Ni16 | LaNi3: Ni 0.75; La7Ni16: Ni 0.695652 | model | [1] Ye 2023; _cites ref. 29_ | Table 6, p. 8, row 34 |  |
-| 987 | peritectic: L + LaNi3 -> La7Ni16 | L: Ni 0.581; LaNi3: Ni 0.75; La7Ni16: Ni 0.695652 | model | [1] Ye 2023; _cites ref. 30_ | Table 6, p. 8, row 37 |  |
-| 987 | peritectic: L + LaNi3 -> La7Ni16 | L: Ni 0.586; LaNi3: Ni 0.75; La7Ni16: Ni 0.695652 | model | [1] Ye 2023; _cites ref. 32_ | Table 6, p. 8, row 41 |  |
-| 974 | peritectic: L + La7Ni16 -> La2Ni3 | La7Ni16: Ni 0.695652; La2Ni3: Ni 0.6 | model | [1] Ye 2023; _cites ref. 31_ | Table 6, p. 8, row 47 |  |
-| 974 | peritectic: L + La7Ni16 -> La2Ni3 | La7Ni16: Ni 0.695652; La2Ni3: Ni 0.6 | experimental | [1] Ye 2023; _cites ref. 31_ | Table 6, p. 8, row 48 |  |
-| 974 | peritectic: L + La7Ni16 -> La2Ni3 | La7Ni16: Ni 0.695652; La2Ni3: Ni 0.6 | experimental | [3] An 2013; _cites Qi 1989_ [doi](https://doi.org/10.2320/matertrans1989.30.583) | Table 5, p. 7, row 15 |  |
-| 974 | peritectic: Liq + Ni16La7 -> Ni3La2 | Ni16La7: Ni 0.695652; Ni3La2: Ni 0.6 | model | [2] Dischinger 2000 | Table 6, p. 8, row 21 |  |
-| 974 | peritectic: Liq + Ni16La7 -> Ni3La2 | Ni16La7: Ni 0.695652; Ni3La2: Ni 0.6 | experimental | [2] Dischinger 2000 | Table 6, p. 8, row 22 |  |
-| 971 | peritectic: L + LaNi3 -> La7Ni16 | LaNi3: Ni 0.75; La7Ni16: Ni 0.695652 | experimental | [1] Ye 2023; _cites ref. 28_ | Table 6, p. 8, row 40 |  |
-| 968.2 | peritectic: L + LaNi3 -> La7Ni16 | L: Ni 0.575; LaNi3: Ni 0.75; La7Ni16: Ni 0.695652 | model | [1] Ye 2023 | Table 6, p. 8, row 42 |  |
-| 964 | eutectic: Liq -> Ni3La2 + NiLa | Ni3La2: Ni 0.6; NiLa: Ni 0.5 | model | [2] Dischinger 2000 | Table 6, p. 8, row 24 |  |
-| 963 | peritectic: L + La7Ni16 -> La2Ni3 | La7Ni16: Ni 0.695652; La2Ni3: Ni 0.6 | experimental | [1] Ye 2023; _cites ref. 53_ | Table 6, p. 8, row 45 |  |
-| 963 | eutectic: Liq -> Ni3La2 + NiLa | Ni3La2: Ni 0.6; NiLa: Ni 0.5 | experimental | [2] Dischinger 2000 | Table 6, p. 8, row 25 |  |
-| 963 | eutectic: L -> La2Ni3 + LaNi | La2Ni3: Ni 0.6; LaNi: Ni 0.5 | experimental | [3] An 2013; _cites Qi 1989_ [doi](https://doi.org/10.2320/matertrans1989.30.583) | Table 5, p. 7, row 18 |  |
-| 961 | peritectic: Liq + Ni16La7 -> Ni3La2 | Ni16La7: Ni 0.695652; Ni3La2: Ni 0.6 | experimental | [2] Dischinger 2000; _cites Okamoto 1991_ [doi](https://doi.org/10.1007/bf02645085) | Table 6, p. 8, row 23 |  |
-| 961 | peritectic: L + La7Ni16 -> La2Ni3 | La7Ni16: Ni 0.695652; La2Ni3: Ni 0.6 | model | [3] An 2013 | Table 5, p. 7, row 13 |  |
-| 961 | peritectic: L + La7Ni16 -> La2Ni3 | La7Ni16: Ni 0.695652; La2Ni3: Ni 0.6 | model | [1] Ye 2023; _cites ref. 29_ | Table 6, p. 8, row 43 |  |
-| 961 | liq. + La7Ni16->La2Ni3 | La7Ni16: Ni 0.695652; La2Ni3: Ni 0.6 | experimental | [5] Du 1998; _cites Okamoto 1998_ | Table 2, p. 4, row 14 |  |
-| 961 | peritectic: L + La7Ni16 -> La2Ni3 | La7Ni16: Ni 0.695652; La2Ni3: Ni 0.6 | experimental | [1] Ye 2023; _cites ref. 52_ | Table 6, p. 8, row 44 |  |
-| 961 | peritectic: L + La7Ni16 -> La2Ni3 | La7Ni16: Ni 0.695652; La2Ni3: Ni 0.6 | experimental | [3] An 2013; _cites Lvancheko 1982_ | Table 5, p. 7, row 14 |  |
-| 960 | liq. + La7Ni16->La2Ni3 | L: Ni 0.5717; La7Ni16: Ni 0.695652; La2Ni3: Ni 0.6 | model | [5] Du 1998 | Table 2, p. 4, row 13 |  |
-| 960 | peritectic: L + La7Ni16 -> La2Ni3 | L: Ni 0.572; La7Ni16: Ni 0.695652; La2Ni3: Ni 0.6 | model | [1] Ye 2023; _cites ref. 30_ | Table 6, p. 8, row 46 |  |
-| 960 | peritectic: L + La7Ni16 -> La2Ni3 | L: Ni 0.575; La7Ni16: Ni 0.695652; La2Ni3: Ni 0.6 | model | [1] Ye 2023; _cites ref. 32_ | Table 6, p. 8, row 50 |  |
-| 949 | liq.->LaNi + La2Ni3 | L: Ni 0.5573; LaNi: Ni 0.5; La2Ni3: Ni 0.6 | model | [5] Du 1998 | Table 2, p. 4, row 11 |  |
-| 948 | liq.->LaNi + La2Ni3 | LaNi: Ni 0.5; La2Ni3: Ni 0.6 | experimental | [5] Du 1998; _cites Okamoto 1998_ | Table 2, p. 4, row 12 |  |
-| 948 | eutectic: L -> La2Ni3 + LaNi | La2Ni3: Ni 0.6; LaNi: Ni 0.5 | model | [3] An 2013 | Table 5, p. 7, row 16 |  |
-| 948 | eutectic: L -> La2Ni3 + LaNi | La2Ni3: Ni 0.6; LaNi: Ni 0.5 | experimental | [3] An 2013; _cites Lvancheko 1982_ | Table 5, p. 7, row 17 |  |
-| 948 | eutectic: Liq -> Ni3La2 + NiLa | Ni3La2: Ni 0.6; NiLa: Ni 0.5 | experimental | [2] Dischinger 2000; _cites Okamoto 1991_ [doi](https://doi.org/10.1007/bf02645085) | Table 6, p. 8, row 26 |  |
-| 947 | peritectic: L + La7Ni16 -> La2Ni3 | La7Ni16: Ni 0.695652; La2Ni3: Ni 0.6 | experimental | [1] Ye 2023; _cites ref. 28_ | Table 6, p. 8, row 49 |  |
-| 944.1 | peritectic: L + La7Ni16 -> La2Ni3 | L: Ni 0.566; La7Ni16: Ni 0.695652; La2Ni3: Ni 0.6 | model | [1] Ye 2023 | Table 6, p. 8, row 51 |  |
-| 836 | eutectic: Liq -> NiLa + Ni3La7 | NiLa: Ni 0.5; Ni3La7: Ni 0.3 | model | [2] Dischinger 2000 | Table 6, p. 8, row 30 |  |
-| 834 | eutectic: L -> Fcc(La) + La3Ni | La3Ni: Ni 0.25 | experimental | [3] An 2013; _cites Qi 1989_ [doi](https://doi.org/10.2320/matertrans1989.30.583) | Table 5, p. 7, row 26 |  |
-| 834 | eutectic: Liq -> Ni3La7 + NiLa3 | Ni3La7: Ni 0.3; NiLa3: Ni 0.25 | model | [2] Dischinger 2000 | Table 6, p. 8, row 36 |  |
-| 834 | eutectic: Liq -> NiLa3 + β-La | NiLa3: Ni 0.25 | experimental | [2] Dischinger 2000 | Table 6, p. 8, row 43 |  |
-| 833 | eutectic: L -> La7Ni3 + LaNi | La7Ni3: Ni 0.3; LaNi: Ni 0.5 | experimental | [3] An 2013; _cites Qi 1989_ [doi](https://doi.org/10.2320/matertrans1989.30.583) | Table 5, p. 7, row 21 |  |
-| 833 | eutectic: Liq -> NiLa + Ni3La7 | NiLa: Ni 0.5; Ni3La7: Ni 0.3 | experimental | [2] Dischinger 2000 | Table 6, p. 8, row 31 |  |
-| 822 | eutectic: Liq -> NiLa3 + β-La | NiLa3: Ni 0.25 | model | [2] Dischinger 2000 | Table 6, p. 8, row 42 |  |
-| 818 | eutectic: Liq -> Ni3La7 + NiLa3 | Ni3La7: Ni 0.3; NiLa3: Ni 0.25 | experimental | [2] Dischinger 2000 | Table 6, p. 8, row 37 |  |
-| 818 | eutectic: L -> La7Ni3 + La3Ni | La7Ni3: Ni 0.3; La3Ni: Ni 0.25 | experimental | [3] An 2013; _cites Qi 1989_ [doi](https://doi.org/10.2320/matertrans1989.30.583) | Table 5, p. 7, row 23 |  |
-| 803 | eutectic: L -> La7Ni3 + La3Ni | La7Ni3: Ni 0.3; La3Ni: Ni 0.25 | model | [3] An 2013 | Table 5, p. 7, row 22 |  |
-| 801 | liq.->La3Ni + La7Ni3 | L: Ni 0.2786; La3Ni: Ni 0.25; La7Ni3: Ni 0.3 | model | [5] Du 1998 | Table 2, p. 4, row 5 |  |
-| 800 | eutectic: L -> Fcc(La) + La3Ni | La3Ni: Ni 0.25 | experimental | [3] An 2013; _cites Lvancheko 1982_ | Table 5, p. 7, row 25 |  |
-| 800 | liq.->La3Ni + f.c.c.(La) | La3Ni: Ni 0.25 | experimental | [5] Du 1998; _cites Okamoto 1998_ | Table 2, p. 4, row 2 |  |
-| 800 | eutectic: Liq -> NiLa3 + β-La | NiLa3: Ni 0.25 | experimental | [2] Dischinger 2000; _cites Okamoto 1991_ [doi](https://doi.org/10.1007/bf02645085) | Table 6, p. 8, row 44 |  |
-| 798 | eutectic: L -> Fcc(La) + La3Ni | La3Ni: Ni 0.25 | model | [3] An 2013 | Table 5, p. 7, row 24 |  |
-| 797 | liq.->La3Ni + f.c.c.(La) | L: Ni 0.2106; La3Ni: Ni 0.25 | model | [5] Du 1998 | Table 2, p. 4, row 1 |  |
-| 790 | eutectic: Liq -> NiLa + Ni3La7 | NiLa: Ni 0.5; Ni3La7: Ni 0.3 | experimental | [2] Dischinger 2000; _cites Okamoto 1991_ [doi](https://doi.org/10.1007/bf02645085) | Table 6, p. 8, row 32 |  |
-| 790 | eutectic: Liq -> Ni3La7 + NiLa3 | Ni3La7: Ni 0.3; NiLa3: Ni 0.25 | experimental | [2] Dischinger 2000; _cites Okamoto 1991_ [doi](https://doi.org/10.1007/bf02645085) | Table 6, p. 8, row 38 |  |
-| 790 | eutectic: L -> La7Ni3 + LaNi | La7Ni3: Ni 0.3; LaNi: Ni 0.5 | experimental | [3] An 2013; _cites Lvancheko 1982_ | Table 5, p. 7, row 20 |  |
-| 790 | eutectic: L -> La7Ni3 + LaNi | La7Ni3: Ni 0.3; LaNi: Ni 0.5 | model | [3] An 2013 | Table 5, p. 7, row 19 |  |
-| 790 | liq.->La7Ni3 + LaNi | La7Ni3: Ni 0.3; LaNi: Ni 0.5 | experimental | [5] Du 1998; _cites Okamoto 1998_ | Table 2, p. 4, row 8 |  |
-| 784 | liq.->La7Ni3 + LaNi | L: Ni 0.3548; La7Ni3: Ni 0.3; LaNi: Ni 0.5 | model | [5] Du 1998 | Table 2, p. 4, row 7 |  |
+| 1552 | eutectic: L -> LaNi5 + fcc(Ni) | LaNi5: Ni 0.833333 | experimental | [1] Ye 2023; _cites ref. 31_ | Table 6, p. 8, row 5; `ORC-I3X3OPC25U` |  |
+| 1552 | eutectic: Liq -> Ni5La + (Ni) | Ni5La: Ni 0.833333 | experimental | [2] Dischinger 2000 | Table 6, p. 8, row 2; `ORC-P2SVSKARQV` |  |
+| 1552 | eutectic: L -> LaNi5 + Fcc(Ni) | LaNi5: Ni 0.833333 | experimental | [3] An 2013; _cites Qi 1989_ [doi](https://doi.org/10.2320/matertrans1989.30.583) | Table 5, p. 7, row 3; `ORC-VDXOW4USUT` |  |
+| 1549.15 | peritectic |  | experimental | [2] Dischinger 2000 | p. 4; `ORC-LGUBPO6ZQB` | “Additionally the temperature of the peritectic decomposition of the above mentioned new phase, Ni 17 La 4 , was determined to be 12768C.” |
+| 1549 | peritectic: Liq + Ni5La -> Ni17La4 | Ni5La: Ni 0.833333; Ni17La4: Ni 0.809524 | model | [2] Dischinger 2000 | Table 6, p. 8, row 7; `ORC-DF4UNCI2AK.3d8e46` |  |
+| 1549 | peritectic: Liq + Ni5La -> Ni17La4 | Ni5La: Ni 0.833333; Ni17La4: Ni 0.809524 | experimental | [2] Dischinger 2000 | Table 6, p. 8, row 8; `ORC-DF4UNCI2AK.8c6246` |  |
+| 1548.15 | eutectic: Liq → fcc-Ni + Ni7 La2 |  | experimental | [4] Liao 2018; _cites ref. 28_ | p. 10; `ORC-3GV6D2LC67.c08631` | “The invariant reactions have not been affected, except the eutectic reaction Liq → fcc-Ni + Ni7 La2 . The temperature (1272 ◦ C) of this eutectic reaction increases by less than 4 ◦ C compared with the reference \[41\] and is closer to the experimental data (1275 ◦ C) \[28\].” |
+| 1548 | eutectic: L -> LaNi5 + fcc(Ni) | LaNi5: Ni 0.833333 | model | [1] Ye 2023; _cites ref. 31_ | Table 6, p. 8, row 4; `ORC-NMZPLFYPQC` |  |
+| 1548 | eutectic: Liq -> Ni5La + (Ni) | Ni5La: Ni 0.833333 | model | [2] Dischinger 2000 | Table 6, p. 8, row 1; `ORC-RJ6J6BTWXC` |  |
+| 1545.15 | eutectic: Liq → fcc-Ni + Ni7 La2 |  | model | [4] Liao 2018 | p. 10; `ORC-3GV6D2LC67.7b0e35` | “The invariant reactions have not been affected, except the eutectic reaction Liq → fcc-Ni + Ni7 La2 . The temperature (1272 ◦ C) of this eutectic reaction increases by less than 4 ◦ C compared with the reference \[41\] and is closer to the experimental data (1275 ◦ C) \[28\].” |
+| 1544 | eutectic: L -> LaNi5 + fcc(Ni) | L: Ni 0.91; LaNi5: Ni 0.833333 | experimental | [1] Ye 2023; _cites ref. 28_ | Table 6, p. 8, row 6; `ORC-7WUIQTUYYX` |  |
+| 1543 | liq.->LaNi5 + f.c.c.(Ni) | LaNi5: Ni 0.833333 | experimental | [5] Du 1998; _cites Okamoto 1998_ | Table 2, p. 4, row 26; `ORC-2RZ5T6I3PJ` |  |
+| 1543 | liq.->LaNi5 + f.c.c.(Ni) | L: Ni 0.9128; LaNi5: Ni 0.833333 | model | [5] Du 1998 | Table 2, p. 4, row 25; `ORC-73SP2FQYKF` |  |
+| 1543 | eutectic: Liq -> Ni5La + (Ni) | Ni5La: Ni 0.833333 | experimental | [2] Dischinger 2000; _cites Okamoto 1991_ [doi](https://doi.org/10.1007/bf02645085) | Table 6, p. 8, row 3; `ORC-EZCX4T2ZV3` |  |
+| 1543 | eutectic: L -> LaNi5 + Fcc(Ni) | LaNi5: Ni 0.833333 | experimental | [3] An 2013; _cites Lvancheko 1982_ | Table 5, p. 7, row 2; `ORC-ITNPPNW3Q3` |  |
+| 1543 | eutectic: L -> LaNi5 + fcc(Ni) | L: Ni 0.913; LaNi5: Ni 0.833333 | model | [1] Ye 2023; _cites ref. 30_ | Table 6, p. 8, row 3; `ORC-UH4VLAMYJA` |  |
+| 1543 | eutectic: L -> LaNi5 + fcc(Ni) | LaNi5: Ni 0.833333 | experimental | [1] Ye 2023; _cites ref. 53_ | Table 6, p. 8, row 2; `ORC-XPUAVX74LM` |  |
+| 1542 | eutectic: L -> LaNi5 + fcc(Ni) | L: Ni 0.917; LaNi5: Ni 0.833333 | model | [1] Ye 2023; _cites ref. 32_ | Table 6, p. 8, row 7; `ORC-O2VKOVJZDP` |  |
+| 1541.2 | eutectic: L -> LaNi5 + fcc(Ni) | L: Ni 0.918; LaNi5: Ni 0.833333 | model | [1] Ye 2023 | Table 6, p. 8, row 8; `ORC-TZUI25A3BD` |  |
+| 1541 | eutectic: L -> LaNi5 + Fcc(Ni) | LaNi5: Ni 0.833333 | model | [3] An 2013 | Table 5, p. 7, row 1; `ORC-JHTONFEXUN` |  |
+| 1541 | eutectic: L -> LaNi5 + fcc(Ni) | LaNi5: Ni 0.833333 | model | [1] Ye 2023; _cites ref. 29_ | Table 6, p. 8, row 1; `ORC-OVWPI7AKUV` |  |
+| 1292 | peritectic: Liq + Ni17La4 -> β-Ni7La2 | Ni17La4: Ni 0.809524; β-Ni7La2: Ni 0.777778 | model | [2] Dischinger 2000 | Table 6, p. 8, row 9; `ORC-LYXJQB75CD.6cd087` |  |
+| 1292 | peritectic: Liq + Ni17La4 -> β-Ni7La2 | Ni17La4: Ni 0.809524; β-Ni7La2: Ni 0.777778 | experimental | [2] Dischinger 2000 | Table 6, p. 8, row 10; `ORC-LYXJQB75CD.aab083` |  |
+| 1287 | liq. + LaNi5->βLa2Ni7 | L: Ni 0.6585; LaNi5: Ni 0.833333; βLa2Ni7: Ni 0.777778 | model | [5] Du 1998 | Table 2, p. 4, row 21; `ORC-5PK7EJTHJ2` |  |
+| 1287 | peritectic: Liq + Ni17La4 -> β-Ni7La2 | Ni17La4: Ni 0.809524; β-Ni7La2: Ni 0.777778 | experimental | [2] Dischinger 2000; _cites Okamoto 1991_ [doi](https://doi.org/10.1007/bf02645085) | Table 6, p. 8, row 11; `ORC-U5GKLYZR2L` |  |
+| 1287 | liq. + LaNi5->βLa2Ni7 | LaNi5: Ni 0.833333; βLa2Ni7: Ni 0.777778 | experimental | [5] Du 1998; _cites Okamoto 1998_ | Table 2, p. 4, row 22; `ORC-XX7WLSTAF4` |  |
+| 1280 | peritectic: L + LaNi5 -> La5Ni19 | LaNi5: Ni 0.833333; La5Ni19: Ni 0.791667 | experimental | [1] Ye 2023; _cites ref. 28_ | Table 6, p. 8, row 20; `ORC-2VFSPCXZER` |  |
+| 1277.7 | peritectic: L + LaNi5 -> La5Ni19 | L: Ni 0.659; LaNi5: Ni 0.833333; La5Ni19: Ni 0.791667 | model | [1] Ye 2023 | Table 6, p. 8, row 21; `ORC-UVPHCT6MLR` |  |
+| 1276 | peritectic: L + LaNi5 -> La5Ni19 | LaNi5: Ni 0.833333; La5Ni19: Ni 0.791667 | model | [3] An 2013 | Table 5, p. 7, row 4; `ORC-55II2XMECZ` |  |
+| 1276 | peritectic |  | experimental | [3] An 2013 | p. 1; `ORC-J3GBS7Q4VY` | “High-resolution X-ray diffraction and differential scanning calorimetry showed that the La5Ni19 phase was formed from the liquid and LaNi5 phases through a peritectic reaction, L þ LaNi5-La5Ni19, at 1276 K, and existed stably down to the room temperature.” |
+| 1276 | peritectic: L + LaNi5 -> La5Ni19 | LaNi5: Ni 0.833333; La5Ni19: Ni 0.791667 | experimental | [1] Ye 2023; _cites ref. 29_ | Table 6, p. 8, row 18; `ORC-WO5Z5YMF2R.2fe634` |  |
+| 1276 | peritectic: L + LaNi5 -> La5Ni19 | LaNi5: Ni 0.833333; La5Ni19: Ni 0.791667 | model | [1] Ye 2023; _cites ref. 29_ | Table 6, p. 8, row 17; `ORC-WO5Z5YMF2R.a2c69e` |  |
+| 1273 | peritectic: L + LaNi5 -> La5Ni19 | LaNi5: Ni 0.833333; La5Ni19: Ni 0.791667 | experimental | [3] An 2013; _cites Yamamoto 1997_ [doi](https://doi.org/10.1016/s1359-6454%2897%2900206-1) | Table 5, p. 7, row 5; `ORC-GKZ2BFOVNF` |  |
+| 1273 | peritectic: L + LaNi5 -> La5Ni19 | LaNi5: Ni 0.833333; La5Ni19: Ni 0.791667 | experimental | [1] Ye 2023; _cites ref. 17_ | Table 6, p. 8, row 19; `ORC-JTJ7R7SWGW` |  |
+| 1247 | peritectic: L + La5Ni19 -> La2Ni7 | La5Ni19: Ni 0.791667; La2Ni7: Ni 0.777778 | model | [3] An 2013 | Table 5, p. 7, row 6; `ORC-GCBTJH5EOQ` |  |
+| 1247 | peritectic: L + La5Ni19 -> La2Ni7 | La5Ni19: Ni 0.791667; La2Ni7: Ni 0.777778 | model | [1] Ye 2023; _cites ref. 29_ | Table 6, p. 8, row 22; `ORC-HME262WYHE` |  |
+| 1241 | peritectic: L + La5Ni19 -> La2Ni7 | La5Ni19: Ni 0.791667; La2Ni7: Ni 0.777778 | experimental | [1] Ye 2023; _cites ref. 28_ | Table 6, p. 8, row 23; `ORC-7FGEIIVJCG` |  |
+| 1238.4 | peritectic: L + La5Ni19 -> La2Ni7 | L: Ni 0.647; La5Ni19: Ni 0.791667; La2Ni7: Ni 0.777778 | model | [1] Ye 2023 | Table 6, p. 8, row 24; `ORC-5QEDDEYQHC` |  |
+| 1228 | peritectic: L + La2Ni7 -> LaNi3 | La2Ni7: Ni 0.777778; LaNi3: Ni 0.75 | experimental | [1] Ye 2023; _cites ref. 53_ | Table 6, p. 8, row 27; `ORC-6QM26LTXDS` |  |
+| 1086 | peritectic: L + αLa2Ni7 -> LaNi3 | αLa2Ni7: Ni 0.777778; LaNi3: Ni 0.75 | experimental | [3] An 2013; _cites Qi 1989_ [doi](https://doi.org/10.2320/matertrans1989.30.583) | Table 5, p. 7, row 9; `ORC-3ZXU35OPQK` |  |
+| 1086 | peritectic: Liq + α-Ni7La2 -> Ni3La | α-Ni7La2: Ni 0.777778; Ni3La: Ni 0.75 | experimental | [2] Dischinger 2000 | Table 6, p. 8, row 16; `ORC-ATN3G5TXUU` |  |
+| 1086 | peritectic: L + La2Ni7 -> LaNi3 | La2Ni7: Ni 0.777778; LaNi3: Ni 0.75 | experimental | [1] Ye 2023; _cites ref. 31_ | Table 6, p. 8, row 30; `ORC-RA4OB2RQWL` |  |
+| 1084 | peritectic: Liq + α-Ni7La2 -> Ni3La | α-Ni7La2: Ni 0.777778; Ni3La: Ni 0.75 | experimental | [2] Dischinger 2000; _cites Okamoto 1991_ [doi](https://doi.org/10.1007/bf02645085) | Table 6, p. 8, row 17; `ORC-4ZLDMULQT3` |  |
+| 1084 | peritectic: L + La2Ni7 -> LaNi3 | L: Ni 0.605; La2Ni7: Ni 0.777778; LaNi3: Ni 0.75 | model | [1] Ye 2023; _cites ref. 30_ | Table 6, p. 8, row 28; `ORC-6LXVYAYZEV` |  |
+| 1084 | liq. + αLa2Ni7->LaNi3 | αLa2Ni7: Ni 0.777778; LaNi3: Ni 0.75 | experimental | [5] Du 1998; _cites Okamoto 1998_ | Table 2, p. 4, row 18; `ORC-BG5FSHCNIH` |  |
+| 1084 | peritectic: L + La2Ni7 -> LaNi3 | La2Ni7: Ni 0.777778; LaNi3: Ni 0.75 | experimental | [1] Ye 2023; _cites ref. 52_ | Table 6, p. 8, row 26; `ORC-IISION26RG` |  |
+| 1084 | peritectic: L + αLa2Ni7 -> LaNi3 | αLa2Ni7: Ni 0.777778; LaNi3: Ni 0.75 | experimental | [3] An 2013; _cites Lvancheko 1982_ | Table 5, p. 7, row 8; `ORC-NPEPA7YRNV` |  |
+| 1084 | peritectic: L + La2Ni7 -> LaNi3 | La2Ni7: Ni 0.777778; LaNi3: Ni 0.75 | model | [1] Ye 2023; _cites ref. 29_ | Table 6, p. 8, row 25; `ORC-NXDB3I3MXY` |  |
+| 1084 | peritectic: L + αLa2Ni7 -> LaNi3 | αLa2Ni7: Ni 0.777778; LaNi3: Ni 0.75 | model | [3] An 2013 | Table 5, p. 7, row 7; `ORC-QCHV7FWZCS` |  |
+| 1084 | peritectic: L + La2Ni7 -> LaNi3 | L: Ni 0.611; La2Ni7: Ni 0.777778; LaNi3: Ni 0.75 | model | [1] Ye 2023; _cites ref. 32_ | Table 6, p. 8, row 32; `ORC-RETK5PRJBG` |  |
+| 1084 | liq. + αLa2Ni7->LaNi3 | L: Ni 0.6046; αLa2Ni7: Ni 0.777778; LaNi3: Ni 0.75 | model | [5] Du 1998 | Table 2, p. 4, row 17; `ORC-YUPBEH5WGS` |  |
+| 1075 | peritectic: Liq + α-Ni7La2 -> Ni3La | α-Ni7La2: Ni 0.777778; Ni3La: Ni 0.75 | model | [2] Dischinger 2000 | Table 6, p. 8, row 15; `ORC-AIJSEJLJQP` |  |
+| 1075 | peritectic: L + La2Ni7 -> LaNi3 | La2Ni7: Ni 0.777778; LaNi3: Ni 0.75 | model | [1] Ye 2023; _cites ref. 31_ | Table 6, p. 8, row 29; `ORC-YHQXJ7YOTE` |  |
+| 1069 | peritectic: L + La2Ni7 -> LaNi3 | La2Ni7: Ni 0.777778; LaNi3: Ni 0.75 | experimental | [1] Ye 2023; _cites ref. 28_ | Table 6, p. 8, row 31; `ORC-EQOY3LPT4G` |  |
+| 1068 | peritectic: L + LaNi3 -> La7Ni16 | LaNi3: Ni 0.75; La7Ni16: Ni 0.695652 | experimental | [1] Ye 2023; _cites ref. 53_ | Table 6, p. 8, row 36; `ORC-TETPSQVR2M` |  |
+| 1066.2 | peritectic: L + La2Ni7 -> LaNi3 | L: Ni 0.601; La2Ni7: Ni 0.777778; LaNi3: Ni 0.75 | model | [1] Ye 2023 | Table 6, p. 8, row 33; `ORC-BHE5WSF36W` |  |
+| 1010 | peritectic: Liq + Ni3La -> Ni16La7 | Ni3La: Ni 0.75; Ni16La7: Ni 0.695652 | model | [2] Dischinger 2000 | Table 6, p. 8, row 18; `ORC-FID3APQB46` |  |
+| 1010 | peritectic: L + LaNi3 -> La7Ni16 | LaNi3: Ni 0.75; La7Ni16: Ni 0.695652 | model | [1] Ye 2023; _cites ref. 31_ | Table 6, p. 8, row 38; `ORC-V7E3X2IVQY` |  |
+| 998 | peritectic: Liq + Ni3La -> Ni16La7 | Ni3La: Ni 0.75; Ni16La7: Ni 0.695652 | experimental | [2] Dischinger 2000 | Table 6, p. 8, row 19; `ORC-B4ILEAOL6Q` |  |
+| 998 | peritectic: L + LaNi3 -> La7Ni16 | LaNi3: Ni 0.75; La7Ni16: Ni 0.695652 | experimental | [1] Ye 2023; _cites ref. 31_ | Table 6, p. 8, row 39; `ORC-Q6HO2WOC4K` |  |
+| 998 | peritectic: L + LaNi3 -> La7Ni16 | LaNi3: Ni 0.75; La7Ni16: Ni 0.695652 | experimental | [3] An 2013; _cites Qi 1989_ [doi](https://doi.org/10.2320/matertrans1989.30.583) | Table 5, p. 7, row 12; `ORC-YINQ6Y33DL` |  |
+| 987 | peritectic: L + LaNi3 -> La7Ni16 | LaNi3: Ni 0.75; La7Ni16: Ni 0.695652 | model | [3] An 2013 | Table 5, p. 7, row 10; `ORC-3ALPDJBOC2` |  |
+| 987 | liq. + LaNi3->La7Ni16 | L: Ni 0.581; LaNi3: Ni 0.75; La7Ni16: Ni 0.695652 | model | [5] Du 1998 | Table 2, p. 4, row 15; `ORC-55J6HMM5UZ` |  |
+| 987 | peritectic: L + LaNi3 -> La7Ni16 | LaNi3: Ni 0.75; La7Ni16: Ni 0.695652 | experimental | [1] Ye 2023; _cites ref. 52_ | Table 6, p. 8, row 35; `ORC-AOMU5SBO3V` |  |
+| 987 | peritectic: Liq + Ni3La -> Ni16La7 | Ni3La: Ni 0.75; Ni16La7: Ni 0.695652 | experimental | [2] Dischinger 2000; _cites Okamoto 1991_ [doi](https://doi.org/10.1007/bf02645085) | Table 6, p. 8, row 20; `ORC-LNAJHFEH5L` |  |
+| 987 | liq. + LaNi3->La7Ni16 | LaNi3: Ni 0.75; La7Ni16: Ni 0.695652 | experimental | [5] Du 1998; _cites Okamoto 1998_ | Table 2, p. 4, row 16; `ORC-MJK6N3NMQF` |  |
+| 987 | peritectic: L + LaNi3 -> La7Ni16 | LaNi3: Ni 0.75; La7Ni16: Ni 0.695652 | experimental | [3] An 2013; _cites Lvancheko 1982_ | Table 5, p. 7, row 11; `ORC-PEPI4ZQVMR` |  |
+| 987 | peritectic: L + LaNi3 -> La7Ni16 | LaNi3: Ni 0.75; La7Ni16: Ni 0.695652 | model | [1] Ye 2023; _cites ref. 29_ | Table 6, p. 8, row 34; `ORC-SNQRG32CH3` |  |
+| 987 | peritectic: L + LaNi3 -> La7Ni16 | L: Ni 0.581; LaNi3: Ni 0.75; La7Ni16: Ni 0.695652 | model | [1] Ye 2023; _cites ref. 30_ | Table 6, p. 8, row 37; `ORC-TOYGEWP5DE` |  |
+| 987 | peritectic: L + LaNi3 -> La7Ni16 | L: Ni 0.586; LaNi3: Ni 0.75; La7Ni16: Ni 0.695652 | model | [1] Ye 2023; _cites ref. 32_ | Table 6, p. 8, row 41; `ORC-WZZKA6XK7B` |  |
+| 974 | peritectic: L + La7Ni16 -> La2Ni3 | La7Ni16: Ni 0.695652; La2Ni3: Ni 0.6 | model | [1] Ye 2023; _cites ref. 31_ | Table 6, p. 8, row 47; `ORC-4PZPD3C45I.ba15f6` |  |
+| 974 | peritectic: L + La7Ni16 -> La2Ni3 | La7Ni16: Ni 0.695652; La2Ni3: Ni 0.6 | experimental | [1] Ye 2023; _cites ref. 31_ | Table 6, p. 8, row 48; `ORC-4PZPD3C45I.f036be` |  |
+| 974 | peritectic: L + La7Ni16 -> La2Ni3 | La7Ni16: Ni 0.695652; La2Ni3: Ni 0.6 | experimental | [3] An 2013; _cites Qi 1989_ [doi](https://doi.org/10.2320/matertrans1989.30.583) | Table 5, p. 7, row 15; `ORC-VRVBZ5DOA4` |  |
+| 974 | peritectic: Liq + Ni16La7 -> Ni3La2 | Ni16La7: Ni 0.695652; Ni3La2: Ni 0.6 | model | [2] Dischinger 2000 | Table 6, p. 8, row 21; `ORC-ZPZXKHA6YS.7e6c41` |  |
+| 974 | peritectic: Liq + Ni16La7 -> Ni3La2 | Ni16La7: Ni 0.695652; Ni3La2: Ni 0.6 | experimental | [2] Dischinger 2000 | Table 6, p. 8, row 22; `ORC-ZPZXKHA6YS.f1fb36` |  |
+| 971 | peritectic: L + LaNi3 -> La7Ni16 | LaNi3: Ni 0.75; La7Ni16: Ni 0.695652 | experimental | [1] Ye 2023; _cites ref. 28_ | Table 6, p. 8, row 40; `ORC-DJLTFO7R7X` |  |
+| 968.2 | peritectic: L + LaNi3 -> La7Ni16 | L: Ni 0.575; LaNi3: Ni 0.75; La7Ni16: Ni 0.695652 | model | [1] Ye 2023 | Table 6, p. 8, row 42; `ORC-WJF4HMDGHY` |  |
+| 964 | eutectic: Liq -> Ni3La2 + NiLa | Ni3La2: Ni 0.6; NiLa: Ni 0.5 | model | [2] Dischinger 2000 | Table 6, p. 8, row 24; `ORC-NYAVAGFS4K` |  |
+| 963 | peritectic: L + La7Ni16 -> La2Ni3 | La7Ni16: Ni 0.695652; La2Ni3: Ni 0.6 | experimental | [1] Ye 2023; _cites ref. 53_ | Table 6, p. 8, row 45; `ORC-FJ5KFNHHMA` |  |
+| 963 | eutectic: Liq -> Ni3La2 + NiLa | Ni3La2: Ni 0.6; NiLa: Ni 0.5 | experimental | [2] Dischinger 2000 | Table 6, p. 8, row 25; `ORC-JH6IMN53LV` |  |
+| 963 | eutectic: L -> La2Ni3 + LaNi | La2Ni3: Ni 0.6; LaNi: Ni 0.5 | experimental | [3] An 2013; _cites Qi 1989_ [doi](https://doi.org/10.2320/matertrans1989.30.583) | Table 5, p. 7, row 18; `ORC-K6RBUW72EN` |  |
+| 961 | peritectic: Liq + Ni16La7 -> Ni3La2 | Ni16La7: Ni 0.695652; Ni3La2: Ni 0.6 | experimental | [2] Dischinger 2000; _cites Okamoto 1991_ [doi](https://doi.org/10.1007/bf02645085) | Table 6, p. 8, row 23; `ORC-4VO2PJ3HPR` |  |
+| 961 | peritectic: L + La7Ni16 -> La2Ni3 | La7Ni16: Ni 0.695652; La2Ni3: Ni 0.6 | model | [3] An 2013 | Table 5, p. 7, row 13; `ORC-BJQRYSHLNX` |  |
+| 961 | peritectic: L + La7Ni16 -> La2Ni3 | La7Ni16: Ni 0.695652; La2Ni3: Ni 0.6 | model | [1] Ye 2023; _cites ref. 29_ | Table 6, p. 8, row 43; `ORC-DKKHQN3MDN` |  |
+| 961 | liq. + La7Ni16->La2Ni3 | La7Ni16: Ni 0.695652; La2Ni3: Ni 0.6 | experimental | [5] Du 1998; _cites Okamoto 1998_ | Table 2, p. 4, row 14; `ORC-NDEAVWY6OB` |  |
+| 961 | peritectic: L + La7Ni16 -> La2Ni3 | La7Ni16: Ni 0.695652; La2Ni3: Ni 0.6 | experimental | [1] Ye 2023; _cites ref. 52_ | Table 6, p. 8, row 44; `ORC-PAGXHTRHGT` |  |
+| 961 | peritectic: L + La7Ni16 -> La2Ni3 | La7Ni16: Ni 0.695652; La2Ni3: Ni 0.6 | experimental | [3] An 2013; _cites Lvancheko 1982_ | Table 5, p. 7, row 14; `ORC-WFNYQIBYKZ` |  |
+| 960 | liq. + La7Ni16->La2Ni3 | L: Ni 0.5717; La7Ni16: Ni 0.695652; La2Ni3: Ni 0.6 | model | [5] Du 1998 | Table 2, p. 4, row 13; `ORC-644OPKOTOD` |  |
+| 960 | peritectic: L + La7Ni16 -> La2Ni3 | L: Ni 0.572; La7Ni16: Ni 0.695652; La2Ni3: Ni 0.6 | model | [1] Ye 2023; _cites ref. 30_ | Table 6, p. 8, row 46; `ORC-EBWXIQP6MT` |  |
+| 960 | peritectic: L + La7Ni16 -> La2Ni3 | L: Ni 0.575; La7Ni16: Ni 0.695652; La2Ni3: Ni 0.6 | model | [1] Ye 2023; _cites ref. 32_ | Table 6, p. 8, row 50; `ORC-XAR53CB5QD` |  |
+| 949 | liq.->LaNi + La2Ni3 | L: Ni 0.5573; LaNi: Ni 0.5; La2Ni3: Ni 0.6 | model | [5] Du 1998 | Table 2, p. 4, row 11; `ORC-RO4QFZ6JNJ` |  |
+| 948 | liq.->LaNi + La2Ni3 | LaNi: Ni 0.5; La2Ni3: Ni 0.6 | experimental | [5] Du 1998; _cites Okamoto 1998_ | Table 2, p. 4, row 12; `ORC-ARTHOZP4IX` |  |
+| 948 | eutectic: L -> La2Ni3 + LaNi | La2Ni3: Ni 0.6; LaNi: Ni 0.5 | model | [3] An 2013 | Table 5, p. 7, row 16; `ORC-FOBXM6VWP3` |  |
+| 948 | eutectic: L -> La2Ni3 + LaNi | La2Ni3: Ni 0.6; LaNi: Ni 0.5 | experimental | [3] An 2013; _cites Lvancheko 1982_ | Table 5, p. 7, row 17; `ORC-KVZYLV5EHE` |  |
+| 948 | eutectic: Liq -> Ni3La2 + NiLa | Ni3La2: Ni 0.6; NiLa: Ni 0.5 | experimental | [2] Dischinger 2000; _cites Okamoto 1991_ [doi](https://doi.org/10.1007/bf02645085) | Table 6, p. 8, row 26; `ORC-TOKYB4UEJK` |  |
+| 947 | peritectic: L + La7Ni16 -> La2Ni3 | La7Ni16: Ni 0.695652; La2Ni3: Ni 0.6 | experimental | [1] Ye 2023; _cites ref. 28_ | Table 6, p. 8, row 49; `ORC-PQLZH7554S` |  |
+| 944.1 | peritectic: L + La7Ni16 -> La2Ni3 | L: Ni 0.566; La7Ni16: Ni 0.695652; La2Ni3: Ni 0.6 | model | [1] Ye 2023 | Table 6, p. 8, row 51; `ORC-VDITYABQY4` |  |
+| 836 | eutectic: Liq -> NiLa + Ni3La7 | NiLa: Ni 0.5; Ni3La7: Ni 0.3 | model | [2] Dischinger 2000 | Table 6, p. 8, row 30; `ORC-CW3A54P26P` |  |
+| 834 | eutectic: L -> Fcc(La) + La3Ni | La3Ni: Ni 0.25 | experimental | [3] An 2013; _cites Qi 1989_ [doi](https://doi.org/10.2320/matertrans1989.30.583) | Table 5, p. 7, row 26; `ORC-G7S3EJ2EZK` |  |
+| 834 | eutectic: Liq -> Ni3La7 + NiLa3 | Ni3La7: Ni 0.3; NiLa3: Ni 0.25 | model | [2] Dischinger 2000 | Table 6, p. 8, row 36; `ORC-VIEZIKVMQU.23e8b4` |  |
+| 834 | eutectic: Liq -> NiLa3 + β-La | NiLa3: Ni 0.25 | experimental | [2] Dischinger 2000 | Table 6, p. 8, row 43; `ORC-VIEZIKVMQU.f8260e` |  |
+| 833 | eutectic: L -> La7Ni3 + LaNi | La7Ni3: Ni 0.3; LaNi: Ni 0.5 | experimental | [3] An 2013; _cites Qi 1989_ [doi](https://doi.org/10.2320/matertrans1989.30.583) | Table 5, p. 7, row 21; `ORC-OVCUWYDRFE` |  |
+| 833 | eutectic: Liq -> NiLa + Ni3La7 | NiLa: Ni 0.5; Ni3La7: Ni 0.3 | experimental | [2] Dischinger 2000 | Table 6, p. 8, row 31; `ORC-QRVUG3V4UB` |  |
+| 822 | eutectic: Liq -> NiLa3 + β-La | NiLa3: Ni 0.25 | model | [2] Dischinger 2000 | Table 6, p. 8, row 42; `ORC-3YPCSEGLLG` |  |
+| 818 | eutectic: Liq -> Ni3La7 + NiLa3 | Ni3La7: Ni 0.3; NiLa3: Ni 0.25 | experimental | [2] Dischinger 2000 | Table 6, p. 8, row 37; `ORC-5IM5HDXLSC` |  |
+| 818 | eutectic: L -> La7Ni3 + La3Ni | La7Ni3: Ni 0.3; La3Ni: Ni 0.25 | experimental | [3] An 2013; _cites Qi 1989_ [doi](https://doi.org/10.2320/matertrans1989.30.583) | Table 5, p. 7, row 23; `ORC-I4MOTOXD2K` |  |
+| 803 | eutectic: L -> La7Ni3 + La3Ni | La7Ni3: Ni 0.3; La3Ni: Ni 0.25 | model | [3] An 2013 | Table 5, p. 7, row 22; `ORC-LV6AIHXECQ` |  |
+| 801 | liq.->La3Ni + La7Ni3 | L: Ni 0.2786; La3Ni: Ni 0.25; La7Ni3: Ni 0.3 | model | [5] Du 1998 | Table 2, p. 4, row 5; `ORC-MSHFH2WTPY` |  |
+| 800 | eutectic: L -> Fcc(La) + La3Ni | La3Ni: Ni 0.25 | experimental | [3] An 2013; _cites Lvancheko 1982_ | Table 5, p. 7, row 25; `ORC-53B6GI5EKS` |  |
+| 800 | liq.->La3Ni + f.c.c.(La) | La3Ni: Ni 0.25 | experimental | [5] Du 1998; _cites Okamoto 1998_ | Table 2, p. 4, row 2; `ORC-G7QOLGW6G7` |  |
+| 800 | eutectic: Liq -> NiLa3 + β-La | NiLa3: Ni 0.25 | experimental | [2] Dischinger 2000; _cites Okamoto 1991_ [doi](https://doi.org/10.1007/bf02645085) | Table 6, p. 8, row 44; `ORC-NQBMDHAAK3` |  |
+| 798 | eutectic: L -> Fcc(La) + La3Ni | La3Ni: Ni 0.25 | model | [3] An 2013 | Table 5, p. 7, row 24; `ORC-7FUU4IJBPK` |  |
+| 797 | liq.->La3Ni + f.c.c.(La) | L: Ni 0.2106; La3Ni: Ni 0.25 | model | [5] Du 1998 | Table 2, p. 4, row 1; `ORC-KEGSFVRIV6` |  |
+| 790 | eutectic: Liq -> NiLa + Ni3La7 | NiLa: Ni 0.5; Ni3La7: Ni 0.3 | experimental | [2] Dischinger 2000; _cites Okamoto 1991_ [doi](https://doi.org/10.1007/bf02645085) | Table 6, p. 8, row 32; `ORC-DR7QVBYHCZ.525102` |  |
+| 790 | eutectic: Liq -> Ni3La7 + NiLa3 | Ni3La7: Ni 0.3; NiLa3: Ni 0.25 | experimental | [2] Dischinger 2000; _cites Okamoto 1991_ [doi](https://doi.org/10.1007/bf02645085) | Table 6, p. 8, row 38; `ORC-DR7QVBYHCZ.681418` |  |
+| 790 | eutectic: L -> La7Ni3 + LaNi | La7Ni3: Ni 0.3; LaNi: Ni 0.5 | experimental | [3] An 2013; _cites Lvancheko 1982_ | Table 5, p. 7, row 20; `ORC-KGM7DRQ2WF` |  |
+| 790 | eutectic: L -> La7Ni3 + LaNi | La7Ni3: Ni 0.3; LaNi: Ni 0.5 | model | [3] An 2013 | Table 5, p. 7, row 19; `ORC-N7QIMK7FYQ` |  |
+| 790 | liq.->La7Ni3 + LaNi | La7Ni3: Ni 0.3; LaNi: Ni 0.5 | experimental | [5] Du 1998; _cites Okamoto 1998_ | Table 2, p. 4, row 8; `ORC-ZBEPRXKJGF` |  |
+| 784 | liq.->La7Ni3 + LaNi | L: Ni 0.3548; La7Ni3: Ni 0.3; LaNi: Ni 0.5 | model | [5] Du 1998 | Table 2, p. 4, row 7; `ORC-XDR36LMSAB` |  |
 
 ## Other properties
 
@@ -322,150 +322,150 @@ Table: Phase transition, La–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 299 K | 299 | other: Peak A, 1 MPa, T_onset; _alloy: La 0.166667, Ni 0.833333_ | experimental | [3] An 2013 | Table 2, p. 4, row 1 |  |
-| Phase transition | 299 K | 299 | other: Peak A, 3 MPa, T_onset; _alloy: La 0.166667, Ni 0.833333_ | experimental | [3] An 2013 | Table 2, p. 4, row 3 |  |
-| Phase transition | 301 K | 301 | other: Peak A, 1 MPa, T_peak; _alloy: La 0.166667, Ni 0.833333_ | experimental | [3] An 2013 | Table 2, p. 4, row 2 |  |
-| Phase transition | 301 K | 301 | other: Peak A, 3 MPa, T_peak; _alloy: La 0.166667, Ni 0.833333_ | experimental | [3] An 2013 | Table 2, p. 4, row 4 |  |
-| Phase transition | 332 K | 332 | other: Peak C, 1 MPa, T_peak; _alloy: La 0.166667, Ni 0.833333_ | experimental | [3] An 2013 | Table 2, p. 4, row 10 |  |
-| Phase transition | 335 K | 335 | other: Peak C, 1 MPa, T_onset; _alloy: La 0.166667, Ni 0.833333_ | experimental | [3] An 2013 | Table 2, p. 4, row 9 |  |
-| Phase transition | 343 K | 343 | other: Peak B, 1 MPa, T_onset; _alloy: La 0.166667, Ni 0.833333_ | experimental | [3] An 2013 | Table 2, p. 4, row 5 |  |
-| Phase transition | 346 K | 346 | other: Peak B, 1 MPa, T_peak; _alloy: La 0.166667, Ni 0.833333_ | experimental | [3] An 2013 | Table 2, p. 4, row 6 |  |
-| Phase transition | 375 K | 375 | other: Peak C, 3 MPa, T_onset; _alloy: La 0.166667, Ni 0.833333_ | experimental | [3] An 2013 | Table 2, p. 4, row 11 |  |
-| Phase transition | 379 K | 379 | other: Peak B, 3 MPa, T_onset; _alloy: La 0.166667, Ni 0.833333_ | experimental | [3] An 2013 | Table 2, p. 4, row 7 |  |
-| Phase transition | 379 K | 379 | other: Peak C, 3 MPa, T_peak; _alloy: La 0.166667, Ni 0.833333_ | experimental | [3] An 2013 | Table 2, p. 4, row 12 |  |
-| Phase transition | 382 K | 382 | other: Peak B, 3 MPa, T_peak; _alloy: La 0.166667, Ni 0.833333_ | experimental | [3] An 2013 | Table 2, p. 4, row 8 |  |
-| Phase transition | 613.15 K | 613.15 | UNKNOWN; _alloy: La 0.8796, Ni 0.1204_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 94 |  |
-| Phase transition | 623.15 K | 623.15 | UNKNOWN; _alloy: La 0.8056, Ni 0.1944_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 91 |  |
-| Phase transition | 778.15 K | 778.15 | UNKNOWN; _alloy: La 0.7074, Ni 0.2926_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 88 |  |
-| Phase transition | 782.15 K | 782.15 | UNKNOWN; _alloy: La 0.9429, Ni 0.0571_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 97 |  |
-| Phase transition | 797.15 K | 797.15 | UNKNOWN; _alloy: La 0.8796, Ni 0.1204_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 93 |  |
-| Phase transition | 800.15 K | 800.15 | UNKNOWN; _alloy: La 0.595, Ni 0.405_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 85 |  |
-| Phase transition | 800.15 K | 800.15 | UNKNOWN; _alloy: La 0.5293, Ni 0.4707_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 83 |  |
-| Phase transition | 800.15 K | 800.15 | UNKNOWN; _alloy: La 0.6533, Ni 0.3467_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 86 |  |
-| Phase transition | 801 K | 801 | congruent melting: Liq -> Ni3La7; _Liq: Ni 0.3; Ni3La7: Ni 0.3_ | experimental | [2] Dischinger 2000; _cites Okamoto 1991_ [doi](https://doi.org/10.1007/bf02645085) | Table 6, p. 8, row 35 |  |
-| Phase transition | 803 K | 803 | liq.->La7Ni3; _L: Ni 0.3; La7Ni3: Ni 0.3_ | model | [5] Du 1998 | Table 2, p. 4, row 6 |  |
-| Phase transition | 805 K | 805 | congruent melting: Liq -> NiLa3; _Liq: Ni 0.25; NiLa3: Ni 0.25_ | experimental | [2] Dischinger 2000; _cites Okamoto 1991_ [doi](https://doi.org/10.1007/bf02645085) | Table 6, p. 8, row 41 |  |
-| Phase transition | 805 K | 805 | liq.->La3Ni; _L: Ni 0.25; La3Ni: Ni 0.25_ | experimental | [5] Du 1998; _cites Okamoto 1998_ | Table 2, p. 4, row 4 |  |
-| Phase transition | 805 K | 805 | liq.->La3Ni; _L: Ni 0.25; La3Ni: Ni 0.25_ | model | [5] Du 1998 | Table 2, p. 4, row 3 |  |
-| Phase transition | 814.15 K | 814.15 | UNKNOWN; _alloy: La 0.7509, Ni 0.2491_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 89 |  |
-| Phase transition | 830.15 K | 830.15 | UNKNOWN; _alloy: La 0.7074, Ni 0.2926_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 87 |  |
-| Phase transition | 837 K | 837 | congruent melting: Liq -> Ni3La7; _Liq: Ni 0.3; Ni3La7: Ni 0.3_ | model | [2] Dischinger 2000 | Table 6, p. 8, row 33 |  |
-| Phase transition | 843 K | 843 | congruent melting: Liq -> NiLa3; _Liq: Ni 0.25; NiLa3: Ni 0.25_ | experimental | [2] Dischinger 2000 | Table 6, p. 8, row 40 |  |
-| Phase transition | 846 K | 846 | congruent melting: Liq -> NiLa3; _Liq: Ni 0.25; NiLa3: Ni 0.25_ | model | [2] Dischinger 2000 | Table 6, p. 8, row 39 |  |
-| Phase transition | 848 K | 848 | congruent melting: Liq -> Ni3La7; _Liq: Ni 0.3; Ni3La7: Ni 0.3_ | experimental | [2] Dischinger 2000 | Table 6, p. 8, row 34 |  |
-| Phase transition | 903.15 K | 903.15 | UNKNOWN; _alloy: La 0.8056, Ni 0.1944_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 90 |  |
-| Phase transition | 935.15 K | 935.15 | UNKNOWN; _alloy: La 0.595, Ni 0.405_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 84 |  |
-| Phase transition | 944.15 K | 944.15 | UNKNOWN; _alloy: La 0.5016, Ni 0.4984_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 81 |  |
-| Phase transition | 956.15 K | 956.15 | UNKNOWN; _alloy: La 0.3192, Ni 0.6808_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 63 |  |
-| Phase transition | 965 K | 965 | congruent melting: Liq -> NiLa; _Liq: Ni 0.5; NiLa: Ni 0.5_ | model | [2] Dischinger 2000 | Table 6, p. 8, row 27 |  |
-| Phase transition | 965.15 K | 965.15 | UNKNOWN; _alloy: La 0.4458, Ni 0.5542_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 76 |  |
-| Phase transition | 968.15 K | 968.15 | UNKNOWN; _alloy: La 0.3925, Ni 0.6075_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 73 |  |
-| Phase transition | 971.15 K | 971.15 | UNKNOWN; _alloy: La 0.4184, Ni 0.5816_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 75 |  |
-| Phase transition | 971.15 K | 971.15 | UNKNOWN; _alloy: La 0.4908, Ni 0.5092_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 79 |  |
-| Phase transition | 976.15 K | 976.15 | UNKNOWN; _alloy: La 0.4594, Ni 0.5406_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 77 |  |
-| Phase transition | 980.15 K | 980.15 | UNKNOWN; _alloy: La 0.3578, Ni 0.6422_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 67 |  |
-| Phase transition | 985.15 K | 985.15 | UNKNOWN; _alloy: La 0.2669, Ni 0.7331_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 42 |  |
-| Phase transition | 988 K | 988 | congruent melting: Liq -> NiLa; _Liq: Ni 0.5; NiLa: Ni 0.5_ | experimental | [2] Dischinger 2000; _cites Okamoto 1991_ [doi](https://doi.org/10.1007/bf02645085) | Table 6, p. 8, row 29 |  |
-| Phase transition | 988 K | 988 | liq.->LaNi; _L: Ni 0.5; LaNi: Ni 0.5_ | experimental | [5] Du 1998; _cites Okamoto 1998_ | Table 2, p. 4, row 10 |  |
-| Phase transition | 988 K | 988 | liq.->LaNi; _L: Ni 0.5; LaNi: Ni 0.5_ | model | [5] Du 1998 | Table 2, p. 4, row 9 |  |
-| Phase transition | 988.15 K | 988.15 | UNKNOWN; _alloy: La 0.3192, Ni 0.6808_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 62 |  |
-| Phase transition | 991.15 K | 991.15 | UNKNOWN; _alloy: La 0.3699, Ni 0.6301_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 70 |  |
-| Phase transition | 991.15 K | 991.15 | UNKNOWN; _alloy: La 0.3005, Ni 0.6995_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 58 |  |
-| Phase transition | 991.15 K | 991.15 | UNKNOWN; _alloy: La 0.4184, Ni 0.5816_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 74 |  |
-| Phase transition | 991.15 K | 991.15 | UNKNOWN; _alloy: La 0.5293, Ni 0.4707_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 82 |  |
-| Phase transition | 992 K | 992 | congruent melting: Liq -> NiLa; _Liq: Ni 0.5; NiLa: Ni 0.5_ | experimental | [2] Dischinger 2000 | Table 6, p. 8, row 28 |  |
-| Phase transition | 992.15 K | 992.15 | UNKNOWN; _alloy: La 0.5016, Ni 0.4984_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 80 |  |
-| Phase transition | 993.15 K | 993.15 | UNKNOWN; _alloy: La 0.3925, Ni 0.6075_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 72 |  |
-| Phase transition | 1000.15 K | 1000.15 | UNKNOWN; _alloy: La 0.3578, Ni 0.6422_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 66 |  |
-| Phase transition | 1004.15 K | 1004.15 | UNKNOWN; _alloy: La 0.2752, Ni 0.7248_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 47 |  |
-| Phase transition | 1006.15 K | 1006.15 | UNKNOWN; _alloy: La 0.2905, Ni 0.7095_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 52 |  |
-| Phase transition | 1006.15 K | 1006.15 | UNKNOWN; _alloy: La 0.4908, Ni 0.5092_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 78 |  |
-| Phase transition | 1014.15 K | 1014.15 | UNKNOWN; _alloy: La 0.3005, Ni 0.6995_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 57 |  |
-| Phase transition | 1023.15 K | 1023.15 | UNKNOWN; _alloy: La 0.8796, Ni 0.1204_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 92 |  |
-| Phase transition | 1076.15 K | 1076.15 | UNKNOWN; _alloy: La 0.2556, Ni 0.7444_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 37 |  |
-| Phase transition | 1078.15 K | 1078.15 | UNKNOWN; _alloy: La 0.3192, Ni 0.6808_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 61 |  |
-| Phase transition | 1079.15 K | 1079.15 | UNKNOWN; _alloy: La 0.3578, Ni 0.6422_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 65 |  |
-| Phase transition | 1081.15 K | 1081.15 | UNKNOWN; _alloy: La 0.2669, Ni 0.7331_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 41 |  |
-| Phase transition | 1083.15 K | 1083.15 | UNKNOWN; _alloy: La 0.3925, Ni 0.6075_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 71 |  |
-| Phase transition | 1083.15 K | 1083.15 | UNKNOWN; _alloy: La 0.2301, Ni 0.7699_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 26 |  |
-| Phase transition | 1086.15 K | 1086.15 | UNKNOWN; _alloy: La 0.2415, Ni 0.7585_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 33 |  |
-| Phase transition | 1086.15 K | 1086.15 | UNKNOWN; _alloy: La 0.2331, Ni 0.7669_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 29 |  |
-| Phase transition | 1091.15 K | 1091.15 | UNKNOWN; _alloy: La 0.3699, Ni 0.6301_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 69 |  |
-| Phase transition | 1094.15 K | 1094.15 | UNKNOWN; _alloy: La 0.2752, Ni 0.7248_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 46 |  |
-| Phase transition | 1096.15 K | 1096.15 | UNKNOWN; _alloy: La 0.3005, Ni 0.6995_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 56 |  |
-| Phase transition | 1096.15 K | 1096.15 | UNKNOWN; _alloy: La 0.9429, Ni 0.0571_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 96 |  |
-| Phase transition | 1096.15 K | 1096.15 | UNKNOWN; _alloy: La 0.2905, Ni 0.7095_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 51 |  |
-| Phase transition | 1133.15 K | 1133.15 | UNKNOWN; _alloy: La 0.9429, Ni 0.0571_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 95 |  |
-| Phase transition | 1231.15 K | 1231.15 | UNKNOWN; _alloy: La 0.3699, Ni 0.6301_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 68 |  |
-| Phase transition | 1233.15 K | 1233.15 | UNKNOWN; _alloy: La 0.3578, Ni 0.6422_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 64 |  |
-| Phase transition | 1247.15 K | 1247.15 | UNKNOWN; _alloy: La 0.2136, Ni 0.7864_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 22 |  |
-| Phase transition | 1249 K | 1249 | other: α-Ni7La2 -> β-Ni7La2; _α-Ni7La2: Ni 0.777778; β-Ni7La2: Ni 0.777778_ | experimental | [2] Dischinger 2000; _cites Okamoto 1991_ [doi](https://doi.org/10.1007/bf02645085) | Table 6, p. 8, row 14 |  |
-| Phase transition | 1249 K | 1249 | αLa2Ni7->βLa2Ni7; _αLa2Ni7: Ni 0.777778; βLa2Ni7: Ni 0.777778_ | experimental | [5] Du 1998; _cites Okamoto 1998_ | Table 2, p. 4, row 20 |  |
-| Phase transition | 1249 K | 1249 | αLa2Ni7->βLa2Ni7; _αLa2Ni7: Ni 0.777778; βLa2Ni7: Ni 0.777778_ | model | [5] Du 1998 | Table 2, p. 4, row 19 |  |
-| Phase transition | 1249.15 K | 1249.15 | UNKNOWN; _alloy: La 0.3192, Ni 0.6808_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 60 |  |
-| Phase transition | 1249.15 K | 1249.15 | UNKNOWN; _alloy: La 0.2301, Ni 0.7699_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 25 |  |
-| Phase transition | 1249.15 K | 1249.15 | UNKNOWN; _alloy: La 0.2669, Ni 0.7331_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 40 |  |
-| Phase transition | 1251.15 K | 1251.15 | UNKNOWN; _alloy: La 0.2415, Ni 0.7585_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 32 |  |
-| Phase transition | 1251.15 K | 1251.15 | UNKNOWN; _alloy: La 0.2331, Ni 0.7669_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 28 |  |
-| Phase transition | 1252 K | 1252 | other: α-Ni7La2 -> β-Ni7La2; _α-Ni7La2: Ni 0.777778; β-Ni7La2: Ni 0.777778_ | model | [2] Dischinger 2000 | Table 6, p. 8, row 12 |  |
-| Phase transition | 1252 K | 1252 | other: α-Ni7La2 -> β-Ni7La2; _α-Ni7La2: Ni 0.777778; β-Ni7La2: Ni 0.777778_ | experimental | [2] Dischinger 2000 | Table 6, p. 8, row 13 |  |
-| Phase transition | 1256.15 K | 1256.15 | UNKNOWN; _alloy: La 0.3005, Ni 0.6995_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 55 |  |
-| Phase transition | 1256.15 K | 1256.15 | UNKNOWN; _alloy: La 0.2905, Ni 0.7095_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 50 |  |
-| Phase transition | 1256.15 K | 1256.15 | UNKNOWN; _alloy: La 0.2752, Ni 0.7248_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 45 |  |
-| Phase transition | 1256.15 K | 1256.15 | UNKNOWN; _alloy: La 0.2556, Ni 0.7444_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 36 |  |
-| Phase transition | 1276 K | 1276 |  | model | [3] An 2013 | p. 8 | “(1) The existence temperature of the La5Ni19 phase ranged from room temperature to 1276 K, at which the invariant reaction Lþ LaNi5-La5Ni19 occurred.” |
-| Phase transition | 1276 K | 1276 | LþLaNi5-La5Ni19 | experimental | [3] An 2013 | p. 3 | “That is, the invariant reaction of LþLaNi5-La5Ni19 occurs at 1276 K, whereas the liquidus temperature at the composition of sample #4 is 1618 K.” |
-| Phase transition | 1287.15 K | 1287.15 | UNKNOWN; _alloy: La 0.3192, Ni 0.6808_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 59 |  |
-| Phase transition | 1290.15 K | 1290.15 | UNKNOWN; _alloy: La 0.2669, Ni 0.7331_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 39 |  |
-| Phase transition | 1291.15 K | 1291.15 | UNKNOWN; _alloy: La 0.2905, Ni 0.7095_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 49 |  |
-| Phase transition | 1291.15 K | 1291.15 | UNKNOWN; _alloy: La 0.2752, Ni 0.7248_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 44 |  |
-| Phase transition | 1291.15 K | 1291.15 | UNKNOWN; _alloy: La 0.2331, Ni 0.7669_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 27 |  |
-| Phase transition | 1291.15 K | 1291.15 | UNKNOWN; _alloy: La 0.2415, Ni 0.7585_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 31 |  |
-| Phase transition | 1291.15 K | 1291.15 | UNKNOWN; _alloy: La 0.3005, Ni 0.6995_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 54 |  |
-| Phase transition | 1295.15 K | 1295.15 | UNKNOWN; _alloy: La 0.2301, Ni 0.7699_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 24 |  |
-| Phase transition | 1295.15 K | 1295.15 | UNKNOWN; _alloy: La 0.2136, Ni 0.7864_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 21 |  |
-| Phase transition | 1296.15 K | 1296.15 | UNKNOWN; _alloy: La 0.2556, Ni 0.7444_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 35 |  |
-| Phase transition | 1421.15 K | 1421.15 | UNKNOWN; _alloy: La 0.3005, Ni 0.6995_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 53 |  |
-| Phase transition | 1496.15 K | 1496.15 | UNKNOWN; _alloy: La 0.2905, Ni 0.7095_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 48 |  |
-| Phase transition | 1538.15 K | 1538.15 | UNKNOWN; _alloy: La 0.0298, Ni 0.9702_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 3 |  |
-| Phase transition | 1543.15 K | 1543.15 | UNKNOWN; _alloy: La 0.1707, Ni 0.8293_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 12 |  |
-| Phase transition | 1546.15 K | 1546.15 | UNKNOWN; _alloy: La 0.1799, Ni 0.8201_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 14 |  |
-| Phase transition | 1546.15 K | 1546.15 | UNKNOWN; _alloy: La 0.1681, Ni 0.8319_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 10 |  |
-| Phase transition | 1549.15 K | 1549.15 | UNKNOWN; _alloy: La 0.1849, Ni 0.8151_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 16 |  |
-| Phase transition | 1549.15 K | 1549.15 | UNKNOWN; _alloy: La 0.149, Ni 0.851_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 8 |  |
-| Phase transition | 1550.15 K | 1550.15 | UNKNOWN; _alloy: La 0.2136, Ni 0.7864_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 20 |  |
-| Phase transition | 1551.15 K | 1551.15 | UNKNOWN; _alloy: La 0.2752, Ni 0.7248_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 43 |  |
-| Phase transition | 1551.15 K | 1551.15 | UNKNOWN; _alloy: La 0.1925, Ni 0.8075_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 18 |  |
-| Phase transition | 1553.15 K | 1553.15 | UNKNOWN; _alloy: La 0.2669, Ni 0.7331_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 38 |  |
-| Phase transition | 1553.15 K | 1553.15 | UNKNOWN; _alloy: La 0.1167, Ni 0.8833_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 6 |  |
-| Phase transition | 1556.15 K | 1556.15 | UNKNOWN; _alloy: La 0.2556, Ni 0.7444_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 34 |  |
-| Phase transition | 1566.15 K | 1566.15 | UNKNOWN; _alloy: La 0.0779, Ni 0.9221_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 4 |  |
-| Phase transition | 1596.15 K | 1596.15 | UNKNOWN; _alloy: La 0.2415, Ni 0.7585_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 30 |  |
-| Phase transition | 1597.15 K | 1597.15 | UNKNOWN; _alloy: La 0.1167, Ni 0.8833_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 5 |  |
-| Phase transition | 1618 K | 1618 | other | experimental | [3] An 2013 | p. 3 | “That is, the invariant reaction of LþLaNi5-La5Ni19 occurs at 1276 K, whereas the liquidus temperature at the composition of sample #4 is 1618 K.” |
-| Phase transition | 1620.15 K | 1620.15 | UNKNOWN; _alloy: La 0.149, Ni 0.851_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 7 |  |
-| Phase transition | 1621 K | 1621 | congruent melting: L -> LaNi5; _L: Ni 0.833; LaNi5: Ni 0.833333_ | model | [1] Ye 2023; _cites ref. 32_ | Table 6, p. 8, row 15 |  |
-| Phase transition | 1622 K | 1622 | congruent melting: L -> LaNi5; _L: Ni 0.833; LaNi5: Ni 0.833333_ | model | [1] Ye 2023; _cites ref. 30_ | Table 6, p. 8, row 10 |  |
-| Phase transition | 1622 K | 1622 | liq.->LaNi5; _L: Ni 0.8333; LaNi5: Ni 0.833333_ | model | [5] Du 1998 | Table 2, p. 4, row 23 |  |
-| Phase transition | 1623 K | 1623 | congruent melting: L -> LaNi5; _L: Ni 0.833; LaNi5: Ni 0.833333_ | experimental | [1] Ye 2023; _cites ref. 53_ | Table 6, p. 8, row 9 |  |
-| Phase transition | 1623 K | 1623 | congruent melting: Liq -> Ni5La; _Liq: Ni 0.833333; Ni5La: Ni 0.833333_ | experimental | [2] Dischinger 2000; _cites Okamoto 1991_ [doi](https://doi.org/10.1007/bf02645085) | Table 6, p. 8, row 6 |  |
-| Phase transition | 1623 K | 1623 | liq.->LaNi5; _L: Ni 0.833333; LaNi5: Ni 0.833333_ | experimental | [5] Du 1998; _cites Okamoto 1998_ | Table 2, p. 4, row 24 |  |
-| Phase transition | 1623.15 K | 1623.15 | UNKNOWN; _alloy: La 0.2301, Ni 0.7699_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 23 |  |
-| Phase transition | 1627 K | 1627 | congruent melting: L -> LaNi5; _L: Ni 0.833; LaNi5: Ni 0.833333_ | model | [1] Ye 2023; _cites ref. 29_ | Table 6, p. 8, row 12 |  |
-| Phase transition | 1634 K | 1634 | congruent melting: L -> LaNi5; _L: Ni 0.833; LaNi5: Ni 0.833333_ | experimental | [1] Ye 2023; _cites ref. 28_ | Table 6, p. 8, row 14 |  |
-| Phase transition | 1635.15 K | 1635.15 | UNKNOWN; _alloy: La 0.2136, Ni 0.7864_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 19 |  |
-| Phase transition | 1635.9 K | 1635.9 | congruent melting: L -> LaNi5; _L: Ni 0.833; LaNi5: Ni 0.833333_ | model | [1] Ye 2023 | Table 6, p. 8, row 16 |  |
-| Phase transition | 1647.15 K | 1647.15 | UNKNOWN; _alloy: La 0.1707, Ni 0.8293_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 11 |  |
-| Phase transition | 1651.15 K | 1651.15 | UNKNOWN; _alloy: La 0.1799, Ni 0.8201_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 13 |  |
-| Phase transition | 1651.15 K | 1651.15 | UNKNOWN; _alloy: La 0.1925, Ni 0.8075_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 17 |  |
-| Phase transition | 1656.15 K | 1656.15 | UNKNOWN; _alloy: La 0.1849, Ni 0.8151_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 15 |  |
-| Phase transition | 1663 K | 1663 | congruent melting: L -> LaNi5; _L: Ni 0.833; LaNi5: Ni 0.833333_ | experimental | [1] Ye 2023; _cites ref. 31_ | Table 6, p. 8, row 13 |  |
-| Phase transition | 1663 K | 1663 | congruent melting: Liq -> Ni5La; _Liq: Ni 0.833333; Ni5La: Ni 0.833333_ | experimental | [2] Dischinger 2000 | Table 6, p. 8, row 5 |  |
-| Phase transition | 1665.15 K | 1665.15 | UNKNOWN; _alloy: La 0.1681, Ni 0.8319_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 9 |  |
-| Phase transition | 1666 K | 1666 | congruent melting: L -> LaNi5; _L: Ni 0.833; LaNi5: Ni 0.833333_ | model | [1] Ye 2023; _cites ref. 31_ | Table 6, p. 8, row 11 |  |
-| Phase transition | 1666 K | 1666 | congruent melting: Liq -> Ni5La; _Liq: Ni 0.833333; Ni5La: Ni 0.833333_ | model | [2] Dischinger 2000 | Table 6, p. 8, row 4 |  |
-| Phase transition | 1687.15 K | 1687.15 | UNKNOWN; _alloy: La 0.0298, Ni 0.9702_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 2 |  |
-| Phase transition | 1713.15 K | 1713.15 | UNKNOWN; _alloy: La 0.0051, Ni 0.9949_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 1 |  |
+| Phase transition | 299 K | 299 | other: Peak A, 1 MPa, T_onset; _alloy: La 0.166667, Ni 0.833333_ | experimental | [3] An 2013 | Table 2, p. 4, row 1; `ORC-QC5HVWYOPB` |  |
+| Phase transition | 299 K | 299 | other: Peak A, 3 MPa, T_onset; _alloy: La 0.166667, Ni 0.833333_ | experimental | [3] An 2013 | Table 2, p. 4, row 3; `ORC-5R3SRHUA6U` |  |
+| Phase transition | 301 K | 301 | other: Peak A, 1 MPa, T_peak; _alloy: La 0.166667, Ni 0.833333_ | experimental | [3] An 2013 | Table 2, p. 4, row 2; `ORC-U6TWSZT5YE` |  |
+| Phase transition | 301 K | 301 | other: Peak A, 3 MPa, T_peak; _alloy: La 0.166667, Ni 0.833333_ | experimental | [3] An 2013 | Table 2, p. 4, row 4; `ORC-ST6RNNTFI3` |  |
+| Phase transition | 332 K | 332 | other: Peak C, 1 MPa, T_peak; _alloy: La 0.166667, Ni 0.833333_ | experimental | [3] An 2013 | Table 2, p. 4, row 10; `ORC-75B3ZEKDEA` |  |
+| Phase transition | 335 K | 335 | other: Peak C, 1 MPa, T_onset; _alloy: La 0.166667, Ni 0.833333_ | experimental | [3] An 2013 | Table 2, p. 4, row 9; `ORC-DCSNZUQPHV` |  |
+| Phase transition | 343 K | 343 | other: Peak B, 1 MPa, T_onset; _alloy: La 0.166667, Ni 0.833333_ | experimental | [3] An 2013 | Table 2, p. 4, row 5; `ORC-OGCC6PMHPR` |  |
+| Phase transition | 346 K | 346 | other: Peak B, 1 MPa, T_peak; _alloy: La 0.166667, Ni 0.833333_ | experimental | [3] An 2013 | Table 2, p. 4, row 6; `ORC-L7AJZBJ7X4` |  |
+| Phase transition | 375 K | 375 | other: Peak C, 3 MPa, T_onset; _alloy: La 0.166667, Ni 0.833333_ | experimental | [3] An 2013 | Table 2, p. 4, row 11; `ORC-I62K7X42ZP` |  |
+| Phase transition | 379 K | 379 | other: Peak B, 3 MPa, T_onset; _alloy: La 0.166667, Ni 0.833333_ | experimental | [3] An 2013 | Table 2, p. 4, row 7; `ORC-56DKBJ63BL` |  |
+| Phase transition | 379 K | 379 | other: Peak C, 3 MPa, T_peak; _alloy: La 0.166667, Ni 0.833333_ | experimental | [3] An 2013 | Table 2, p. 4, row 12; `ORC-SV52LNZF7Z` |  |
+| Phase transition | 382 K | 382 | other: Peak B, 3 MPa, T_peak; _alloy: La 0.166667, Ni 0.833333_ | experimental | [3] An 2013 | Table 2, p. 4, row 8; `ORC-NTSDQVE72H` |  |
+| Phase transition | 613.15 K | 613.15 | UNKNOWN; _alloy: La 0.8796, Ni 0.1204_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 94; `ORC-4WO7XQ4M2P` |  |
+| Phase transition | 623.15 K | 623.15 | UNKNOWN; _alloy: La 0.8056, Ni 0.1944_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 91; `ORC-6TY33VVEXR` |  |
+| Phase transition | 778.15 K | 778.15 | UNKNOWN; _alloy: La 0.7074, Ni 0.2926_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 88; `ORC-7TBJEUIPI4` |  |
+| Phase transition | 782.15 K | 782.15 | UNKNOWN; _alloy: La 0.9429, Ni 0.0571_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 97; `ORC-JZO22RYF7A` |  |
+| Phase transition | 797.15 K | 797.15 | UNKNOWN; _alloy: La 0.8796, Ni 0.1204_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 93; `ORC-33LYLNWVZI` |  |
+| Phase transition | 800.15 K | 800.15 | UNKNOWN; _alloy: La 0.595, Ni 0.405_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 85; `ORC-PAY227C4HD` |  |
+| Phase transition | 800.15 K | 800.15 | UNKNOWN; _alloy: La 0.5293, Ni 0.4707_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 83; `ORC-PHGMNJEAE4` |  |
+| Phase transition | 800.15 K | 800.15 | UNKNOWN; _alloy: La 0.6533, Ni 0.3467_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 86; `ORC-QZ77KSUF7C` |  |
+| Phase transition | 801 K | 801 | congruent melting: Liq -> Ni3La7; _Liq: Ni 0.3; Ni3La7: Ni 0.3_ | experimental | [2] Dischinger 2000; _cites Okamoto 1991_ [doi](https://doi.org/10.1007/bf02645085) | Table 6, p. 8, row 35; `ORC-UUWR6NH5KM` |  |
+| Phase transition | 803 K | 803 | liq.->La7Ni3; _L: Ni 0.3; La7Ni3: Ni 0.3_ | model | [5] Du 1998 | Table 2, p. 4, row 6; `ORC-AW4UHM3CNK` |  |
+| Phase transition | 805 K | 805 | congruent melting: Liq -> NiLa3; _Liq: Ni 0.25; NiLa3: Ni 0.25_ | experimental | [2] Dischinger 2000; _cites Okamoto 1991_ [doi](https://doi.org/10.1007/bf02645085) | Table 6, p. 8, row 41; `ORC-DOHPXIDMUC` |  |
+| Phase transition | 805 K | 805 | liq.->La3Ni; _L: Ni 0.25; La3Ni: Ni 0.25_ | experimental | [5] Du 1998; _cites Okamoto 1998_ | Table 2, p. 4, row 4; `ORC-33PNYFHP7D` |  |
+| Phase transition | 805 K | 805 | liq.->La3Ni; _L: Ni 0.25; La3Ni: Ni 0.25_ | model | [5] Du 1998 | Table 2, p. 4, row 3; `ORC-J5KJRX74BV` |  |
+| Phase transition | 814.15 K | 814.15 | UNKNOWN; _alloy: La 0.7509, Ni 0.2491_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 89; `ORC-NP5ATD4LG7` |  |
+| Phase transition | 830.15 K | 830.15 | UNKNOWN; _alloy: La 0.7074, Ni 0.2926_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 87; `ORC-ZDK4EUG45O` |  |
+| Phase transition | 837 K | 837 | congruent melting: Liq -> Ni3La7; _Liq: Ni 0.3; Ni3La7: Ni 0.3_ | model | [2] Dischinger 2000 | Table 6, p. 8, row 33; `ORC-BJQJFU5GXE` |  |
+| Phase transition | 843 K | 843 | congruent melting: Liq -> NiLa3; _Liq: Ni 0.25; NiLa3: Ni 0.25_ | experimental | [2] Dischinger 2000 | Table 6, p. 8, row 40; `ORC-EZM4NGZOR6` |  |
+| Phase transition | 846 K | 846 | congruent melting: Liq -> NiLa3; _Liq: Ni 0.25; NiLa3: Ni 0.25_ | model | [2] Dischinger 2000 | Table 6, p. 8, row 39; `ORC-T5DJX7WRGU` |  |
+| Phase transition | 848 K | 848 | congruent melting: Liq -> Ni3La7; _Liq: Ni 0.3; Ni3La7: Ni 0.3_ | experimental | [2] Dischinger 2000 | Table 6, p. 8, row 34; `ORC-DD3DNZLBII` |  |
+| Phase transition | 903.15 K | 903.15 | UNKNOWN; _alloy: La 0.8056, Ni 0.1944_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 90; `ORC-GZXKLB53ZE` |  |
+| Phase transition | 935.15 K | 935.15 | UNKNOWN; _alloy: La 0.595, Ni 0.405_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 84; `ORC-AISYFYU5ZO` |  |
+| Phase transition | 944.15 K | 944.15 | UNKNOWN; _alloy: La 0.5016, Ni 0.4984_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 81; `ORC-KP4JWPDAKF` |  |
+| Phase transition | 956.15 K | 956.15 | UNKNOWN; _alloy: La 0.3192, Ni 0.6808_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 63; `ORC-BSCSJU6XIX` |  |
+| Phase transition | 965 K | 965 | congruent melting: Liq -> NiLa; _Liq: Ni 0.5; NiLa: Ni 0.5_ | model | [2] Dischinger 2000 | Table 6, p. 8, row 27; `ORC-OKGZHR3MRT` |  |
+| Phase transition | 965.15 K | 965.15 | UNKNOWN; _alloy: La 0.4458, Ni 0.5542_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 76; `ORC-JOWGJT2J36` |  |
+| Phase transition | 968.15 K | 968.15 | UNKNOWN; _alloy: La 0.3925, Ni 0.6075_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 73; `ORC-ACHTK43BJ5` |  |
+| Phase transition | 971.15 K | 971.15 | UNKNOWN; _alloy: La 0.4184, Ni 0.5816_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 75; `ORC-CUGEBK2JIJ` |  |
+| Phase transition | 971.15 K | 971.15 | UNKNOWN; _alloy: La 0.4908, Ni 0.5092_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 79; `ORC-JBW3GC45IQ` |  |
+| Phase transition | 976.15 K | 976.15 | UNKNOWN; _alloy: La 0.4594, Ni 0.5406_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 77; `ORC-POCQIBMVXP` |  |
+| Phase transition | 980.15 K | 980.15 | UNKNOWN; _alloy: La 0.3578, Ni 0.6422_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 67; `ORC-QMO5VXUXAL` |  |
+| Phase transition | 985.15 K | 985.15 | UNKNOWN; _alloy: La 0.2669, Ni 0.7331_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 42; `ORC-KVRFEJN3KG` |  |
+| Phase transition | 988 K | 988 | congruent melting: Liq -> NiLa; _Liq: Ni 0.5; NiLa: Ni 0.5_ | experimental | [2] Dischinger 2000; _cites Okamoto 1991_ [doi](https://doi.org/10.1007/bf02645085) | Table 6, p. 8, row 29; `ORC-ABHDSR44M7` |  |
+| Phase transition | 988 K | 988 | liq.->LaNi; _L: Ni 0.5; LaNi: Ni 0.5_ | experimental | [5] Du 1998; _cites Okamoto 1998_ | Table 2, p. 4, row 10; `ORC-3P24LYXMBR` |  |
+| Phase transition | 988 K | 988 | liq.->LaNi; _L: Ni 0.5; LaNi: Ni 0.5_ | model | [5] Du 1998 | Table 2, p. 4, row 9; `ORC-U36EUB7F5W` |  |
+| Phase transition | 988.15 K | 988.15 | UNKNOWN; _alloy: La 0.3192, Ni 0.6808_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 62; `ORC-WPB2B44FP5` |  |
+| Phase transition | 991.15 K | 991.15 | UNKNOWN; _alloy: La 0.3699, Ni 0.6301_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 70; `ORC-BJODOQHYAP` |  |
+| Phase transition | 991.15 K | 991.15 | UNKNOWN; _alloy: La 0.3005, Ni 0.6995_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 58; `ORC-EY7AZ77WX5` |  |
+| Phase transition | 991.15 K | 991.15 | UNKNOWN; _alloy: La 0.4184, Ni 0.5816_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 74; `ORC-GMO5OEVGEP` |  |
+| Phase transition | 991.15 K | 991.15 | UNKNOWN; _alloy: La 0.5293, Ni 0.4707_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 82; `ORC-J4MNHRUCX6` |  |
+| Phase transition | 992 K | 992 | congruent melting: Liq -> NiLa; _Liq: Ni 0.5; NiLa: Ni 0.5_ | experimental | [2] Dischinger 2000 | Table 6, p. 8, row 28; `ORC-JLX2KAV6OQ` |  |
+| Phase transition | 992.15 K | 992.15 | UNKNOWN; _alloy: La 0.5016, Ni 0.4984_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 80; `ORC-J6XPYXHQ3A` |  |
+| Phase transition | 993.15 K | 993.15 | UNKNOWN; _alloy: La 0.3925, Ni 0.6075_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 72; `ORC-2G6FDTJ7MN` |  |
+| Phase transition | 1000.15 K | 1000.15 | UNKNOWN; _alloy: La 0.3578, Ni 0.6422_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 66; `ORC-CRVCKNME5T` |  |
+| Phase transition | 1004.15 K | 1004.15 | UNKNOWN; _alloy: La 0.2752, Ni 0.7248_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 47; `ORC-6E3HDX5MO2` |  |
+| Phase transition | 1006.15 K | 1006.15 | UNKNOWN; _alloy: La 0.2905, Ni 0.7095_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 52; `ORC-XN4JBUIQ6K` |  |
+| Phase transition | 1006.15 K | 1006.15 | UNKNOWN; _alloy: La 0.4908, Ni 0.5092_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 78; `ORC-ZIU7I3PRF6` |  |
+| Phase transition | 1014.15 K | 1014.15 | UNKNOWN; _alloy: La 0.3005, Ni 0.6995_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 57; `ORC-HDE5LTANQU` |  |
+| Phase transition | 1023.15 K | 1023.15 | UNKNOWN; _alloy: La 0.8796, Ni 0.1204_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 92; `ORC-YRJIOX5URQ` |  |
+| Phase transition | 1076.15 K | 1076.15 | UNKNOWN; _alloy: La 0.2556, Ni 0.7444_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 37; `ORC-A4LK5FPWSD` |  |
+| Phase transition | 1078.15 K | 1078.15 | UNKNOWN; _alloy: La 0.3192, Ni 0.6808_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 61; `ORC-ALGRCIFH34` |  |
+| Phase transition | 1079.15 K | 1079.15 | UNKNOWN; _alloy: La 0.3578, Ni 0.6422_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 65; `ORC-QAQWSTJ4TD` |  |
+| Phase transition | 1081.15 K | 1081.15 | UNKNOWN; _alloy: La 0.2669, Ni 0.7331_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 41; `ORC-T3FOMA7OWV` |  |
+| Phase transition | 1083.15 K | 1083.15 | UNKNOWN; _alloy: La 0.3925, Ni 0.6075_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 71; `ORC-A53SIPBDGU` |  |
+| Phase transition | 1083.15 K | 1083.15 | UNKNOWN; _alloy: La 0.2301, Ni 0.7699_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 26; `ORC-SO4CU6PYEE` |  |
+| Phase transition | 1086.15 K | 1086.15 | UNKNOWN; _alloy: La 0.2415, Ni 0.7585_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 33; `ORC-PLUC7UIW2Z` |  |
+| Phase transition | 1086.15 K | 1086.15 | UNKNOWN; _alloy: La 0.2331, Ni 0.7669_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 29; `ORC-XKFAAVVVP3` |  |
+| Phase transition | 1091.15 K | 1091.15 | UNKNOWN; _alloy: La 0.3699, Ni 0.6301_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 69; `ORC-NR7HB2S62S` |  |
+| Phase transition | 1094.15 K | 1094.15 | UNKNOWN; _alloy: La 0.2752, Ni 0.7248_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 46; `ORC-EDNZM5IZ2D` |  |
+| Phase transition | 1096.15 K | 1096.15 | UNKNOWN; _alloy: La 0.3005, Ni 0.6995_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 56; `ORC-4IQPQPWKH2` |  |
+| Phase transition | 1096.15 K | 1096.15 | UNKNOWN; _alloy: La 0.9429, Ni 0.0571_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 96; `ORC-SYAJAFUVIH` |  |
+| Phase transition | 1096.15 K | 1096.15 | UNKNOWN; _alloy: La 0.2905, Ni 0.7095_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 51; `ORC-TBWHHXCAST` |  |
+| Phase transition | 1133.15 K | 1133.15 | UNKNOWN; _alloy: La 0.9429, Ni 0.0571_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 95; `ORC-UI2RS3S4LL` |  |
+| Phase transition | 1231.15 K | 1231.15 | UNKNOWN; _alloy: La 0.3699, Ni 0.6301_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 68; `ORC-7HQNPPZ4I7` |  |
+| Phase transition | 1233.15 K | 1233.15 | UNKNOWN; _alloy: La 0.3578, Ni 0.6422_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 64; `ORC-XDCPDURYPZ` |  |
+| Phase transition | 1247.15 K | 1247.15 | UNKNOWN; _alloy: La 0.2136, Ni 0.7864_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 22; `ORC-HT3YFA4M7U` |  |
+| Phase transition | 1249 K | 1249 | other: α-Ni7La2 -> β-Ni7La2; _α-Ni7La2: Ni 0.777778; β-Ni7La2: Ni 0.777778_ | experimental | [2] Dischinger 2000; _cites Okamoto 1991_ [doi](https://doi.org/10.1007/bf02645085) | Table 6, p. 8, row 14; `ORC-FOOMICHURD` |  |
+| Phase transition | 1249 K | 1249 | αLa2Ni7->βLa2Ni7; _αLa2Ni7: Ni 0.777778; βLa2Ni7: Ni 0.777778_ | experimental | [5] Du 1998; _cites Okamoto 1998_ | Table 2, p. 4, row 20; `ORC-NSRRRIXJ36` |  |
+| Phase transition | 1249 K | 1249 | αLa2Ni7->βLa2Ni7; _αLa2Ni7: Ni 0.777778; βLa2Ni7: Ni 0.777778_ | model | [5] Du 1998 | Table 2, p. 4, row 19; `ORC-VVOMYAPOLT` |  |
+| Phase transition | 1249.15 K | 1249.15 | UNKNOWN; _alloy: La 0.3192, Ni 0.6808_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 60; `ORC-AUVNFLJNWU` |  |
+| Phase transition | 1249.15 K | 1249.15 | UNKNOWN; _alloy: La 0.2301, Ni 0.7699_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 25; `ORC-BRGOVX3QYU` |  |
+| Phase transition | 1249.15 K | 1249.15 | UNKNOWN; _alloy: La 0.2669, Ni 0.7331_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 40; `ORC-PQ63EAQMRP` |  |
+| Phase transition | 1251.15 K | 1251.15 | UNKNOWN; _alloy: La 0.2415, Ni 0.7585_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 32; `ORC-GBVWXHWT5J` |  |
+| Phase transition | 1251.15 K | 1251.15 | UNKNOWN; _alloy: La 0.2331, Ni 0.7669_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 28; `ORC-RQSO4FCCZO` |  |
+| Phase transition | 1252 K | 1252 | other: α-Ni7La2 -> β-Ni7La2; _α-Ni7La2: Ni 0.777778; β-Ni7La2: Ni 0.777778_ | model | [2] Dischinger 2000 | Table 6, p. 8, row 12; `ORC-PF7C27PRVI.089d82` |  |
+| Phase transition | 1252 K | 1252 | other: α-Ni7La2 -> β-Ni7La2; _α-Ni7La2: Ni 0.777778; β-Ni7La2: Ni 0.777778_ | experimental | [2] Dischinger 2000 | Table 6, p. 8, row 13; `ORC-PF7C27PRVI.cc87f2` |  |
+| Phase transition | 1256.15 K | 1256.15 | UNKNOWN; _alloy: La 0.3005, Ni 0.6995_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 55; `ORC-JKTGIUZRZP` |  |
+| Phase transition | 1256.15 K | 1256.15 | UNKNOWN; _alloy: La 0.2905, Ni 0.7095_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 50; `ORC-OFXQBDH4UY` |  |
+| Phase transition | 1256.15 K | 1256.15 | UNKNOWN; _alloy: La 0.2752, Ni 0.7248_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 45; `ORC-SCTMQ6HI6M` |  |
+| Phase transition | 1256.15 K | 1256.15 | UNKNOWN; _alloy: La 0.2556, Ni 0.7444_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 36; `ORC-YFS7DV4VHA` |  |
+| Phase transition | 1276 K | 1276 |  | model | [3] An 2013 | p. 8; `ORC-O3GNSF45QN` | “(1) The existence temperature of the La5Ni19 phase ranged from room temperature to 1276 K, at which the invariant reaction Lþ LaNi5-La5Ni19 occurred.” |
+| Phase transition | 1276 K | 1276 | LþLaNi5-La5Ni19 | experimental | [3] An 2013 | p. 3; `ORC-MSDYCNOLLQ.a8a97f` | “That is, the invariant reaction of LþLaNi5-La5Ni19 occurs at 1276 K, whereas the liquidus temperature at the composition of sample #4 is 1618 K.” |
+| Phase transition | 1287.15 K | 1287.15 | UNKNOWN; _alloy: La 0.3192, Ni 0.6808_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 59; `ORC-HYPOLROWUY` |  |
+| Phase transition | 1290.15 K | 1290.15 | UNKNOWN; _alloy: La 0.2669, Ni 0.7331_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 39; `ORC-MRFJVOZCXM` |  |
+| Phase transition | 1291.15 K | 1291.15 | UNKNOWN; _alloy: La 0.2905, Ni 0.7095_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 49; `ORC-26C6GFKZX6` |  |
+| Phase transition | 1291.15 K | 1291.15 | UNKNOWN; _alloy: La 0.2752, Ni 0.7248_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 44; `ORC-3IRRAXFQRD` |  |
+| Phase transition | 1291.15 K | 1291.15 | UNKNOWN; _alloy: La 0.2331, Ni 0.7669_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 27; `ORC-6Q32NMLZE5` |  |
+| Phase transition | 1291.15 K | 1291.15 | UNKNOWN; _alloy: La 0.2415, Ni 0.7585_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 31; `ORC-CFWCO5FD7T` |  |
+| Phase transition | 1291.15 K | 1291.15 | UNKNOWN; _alloy: La 0.3005, Ni 0.6995_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 54; `ORC-PNZRTEXGHU` |  |
+| Phase transition | 1295.15 K | 1295.15 | UNKNOWN; _alloy: La 0.2301, Ni 0.7699_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 24; `ORC-MPIM4R3FYP` |  |
+| Phase transition | 1295.15 K | 1295.15 | UNKNOWN; _alloy: La 0.2136, Ni 0.7864_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 21; `ORC-X6GDPUUUPC` |  |
+| Phase transition | 1296.15 K | 1296.15 | UNKNOWN; _alloy: La 0.2556, Ni 0.7444_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 35; `ORC-Z46XL75N3I` |  |
+| Phase transition | 1421.15 K | 1421.15 | UNKNOWN; _alloy: La 0.3005, Ni 0.6995_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 53; `ORC-OQERHA6GW4` |  |
+| Phase transition | 1496.15 K | 1496.15 | UNKNOWN; _alloy: La 0.2905, Ni 0.7095_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 48; `ORC-HSEFQEO4IS` |  |
+| Phase transition | 1538.15 K | 1538.15 | UNKNOWN; _alloy: La 0.0298, Ni 0.9702_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 3; `ORC-D7JIS57H7E` |  |
+| Phase transition | 1543.15 K | 1543.15 | UNKNOWN; _alloy: La 0.1707, Ni 0.8293_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 12; `ORC-3BUXKMS57M` |  |
+| Phase transition | 1546.15 K | 1546.15 | UNKNOWN; _alloy: La 0.1799, Ni 0.8201_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 14; `ORC-BSDYK3G5U2` |  |
+| Phase transition | 1546.15 K | 1546.15 | UNKNOWN; _alloy: La 0.1681, Ni 0.8319_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 10; `ORC-VVHYGWWS5B` |  |
+| Phase transition | 1549.15 K | 1549.15 | UNKNOWN; _alloy: La 0.1849, Ni 0.8151_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 16; `ORC-33XHXK7QZ3` |  |
+| Phase transition | 1549.15 K | 1549.15 | UNKNOWN; _alloy: La 0.149, Ni 0.851_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 8; `ORC-6ESPPDKBQ6` |  |
+| Phase transition | 1550.15 K | 1550.15 | UNKNOWN; _alloy: La 0.2136, Ni 0.7864_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 20; `ORC-LTPFO4YH2F` |  |
+| Phase transition | 1551.15 K | 1551.15 | UNKNOWN; _alloy: La 0.2752, Ni 0.7248_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 43; `ORC-3RHO6EJ4FM` |  |
+| Phase transition | 1551.15 K | 1551.15 | UNKNOWN; _alloy: La 0.1925, Ni 0.8075_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 18; `ORC-BUX3AFB6FI` |  |
+| Phase transition | 1553.15 K | 1553.15 | UNKNOWN; _alloy: La 0.2669, Ni 0.7331_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 38; `ORC-6C3P436KPD` |  |
+| Phase transition | 1553.15 K | 1553.15 | UNKNOWN; _alloy: La 0.1167, Ni 0.8833_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 6; `ORC-PWMNMOTEHA` |  |
+| Phase transition | 1556.15 K | 1556.15 | UNKNOWN; _alloy: La 0.2556, Ni 0.7444_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 34; `ORC-44AEF2PJKZ` |  |
+| Phase transition | 1566.15 K | 1566.15 | UNKNOWN; _alloy: La 0.0779, Ni 0.9221_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 4; `ORC-R55HSZJHON` |  |
+| Phase transition | 1596.15 K | 1596.15 | UNKNOWN; _alloy: La 0.2415, Ni 0.7585_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 30; `ORC-AWIDWT4CSJ` |  |
+| Phase transition | 1597.15 K | 1597.15 | UNKNOWN; _alloy: La 0.1167, Ni 0.8833_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 5; `ORC-WSFE3DQ4E4` |  |
+| Phase transition | 1618 K | 1618 | other | experimental | [3] An 2013 | p. 3; `ORC-MSDYCNOLLQ.b93df1` | “That is, the invariant reaction of LþLaNi5-La5Ni19 occurs at 1276 K, whereas the liquidus temperature at the composition of sample #4 is 1618 K.” |
+| Phase transition | 1620.15 K | 1620.15 | UNKNOWN; _alloy: La 0.149, Ni 0.851_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 7; `ORC-VTVJTCUXRP` |  |
+| Phase transition | 1621 K | 1621 | congruent melting: L -> LaNi5; _L: Ni 0.833; LaNi5: Ni 0.833333_ | model | [1] Ye 2023; _cites ref. 32_ | Table 6, p. 8, row 15; `ORC-7JYCF5SURG` |  |
+| Phase transition | 1622 K | 1622 | congruent melting: L -> LaNi5; _L: Ni 0.833; LaNi5: Ni 0.833333_ | model | [1] Ye 2023; _cites ref. 30_ | Table 6, p. 8, row 10; `ORC-ZUZFNGN5QI` |  |
+| Phase transition | 1622 K | 1622 | liq.->LaNi5; _L: Ni 0.8333; LaNi5: Ni 0.833333_ | model | [5] Du 1998 | Table 2, p. 4, row 23; `ORC-N55OJY4QVF` |  |
+| Phase transition | 1623 K | 1623 | congruent melting: L -> LaNi5; _L: Ni 0.833; LaNi5: Ni 0.833333_ | experimental | [1] Ye 2023; _cites ref. 53_ | Table 6, p. 8, row 9; `ORC-3PGEBRVLRK` |  |
+| Phase transition | 1623 K | 1623 | congruent melting: Liq -> Ni5La; _Liq: Ni 0.833333; Ni5La: Ni 0.833333_ | experimental | [2] Dischinger 2000; _cites Okamoto 1991_ [doi](https://doi.org/10.1007/bf02645085) | Table 6, p. 8, row 6; `ORC-GJILY3R566` |  |
+| Phase transition | 1623 K | 1623 | liq.->LaNi5; _L: Ni 0.833333; LaNi5: Ni 0.833333_ | experimental | [5] Du 1998; _cites Okamoto 1998_ | Table 2, p. 4, row 24; `ORC-JIX6P25YQY` |  |
+| Phase transition | 1623.15 K | 1623.15 | UNKNOWN; _alloy: La 0.2301, Ni 0.7699_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 23; `ORC-XFB6K2CHEC` |  |
+| Phase transition | 1627 K | 1627 | congruent melting: L -> LaNi5; _L: Ni 0.833; LaNi5: Ni 0.833333_ | model | [1] Ye 2023; _cites ref. 29_ | Table 6, p. 8, row 12; `ORC-LK225OTQSG` |  |
+| Phase transition | 1634 K | 1634 | congruent melting: L -> LaNi5; _L: Ni 0.833; LaNi5: Ni 0.833333_ | experimental | [1] Ye 2023; _cites ref. 28_ | Table 6, p. 8, row 14; `ORC-XAVDBY243Y` |  |
+| Phase transition | 1635.15 K | 1635.15 | UNKNOWN; _alloy: La 0.2136, Ni 0.7864_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 19; `ORC-JOAWURUG5T` |  |
+| Phase transition | 1635.9 K | 1635.9 | congruent melting: L -> LaNi5; _L: Ni 0.833; LaNi5: Ni 0.833333_ | model | [1] Ye 2023 | Table 6, p. 8, row 16; `ORC-EAYVUYBVYG` |  |
+| Phase transition | 1647.15 K | 1647.15 | UNKNOWN; _alloy: La 0.1707, Ni 0.8293_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 11; `ORC-PJAGZKLJAA` |  |
+| Phase transition | 1651.15 K | 1651.15 | UNKNOWN; _alloy: La 0.1799, Ni 0.8201_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 13; `ORC-5DTD7PGRQC` |  |
+| Phase transition | 1651.15 K | 1651.15 | UNKNOWN; _alloy: La 0.1925, Ni 0.8075_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 17; `ORC-H7XV6SUIIQ` |  |
+| Phase transition | 1656.15 K | 1656.15 | UNKNOWN; _alloy: La 0.1849, Ni 0.8151_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 15; `ORC-UKPYN6V2XU` |  |
+| Phase transition | 1663 K | 1663 | congruent melting: L -> LaNi5; _L: Ni 0.833; LaNi5: Ni 0.833333_ | experimental | [1] Ye 2023; _cites ref. 31_ | Table 6, p. 8, row 13; `ORC-7KBJ6SEM46` |  |
+| Phase transition | 1663 K | 1663 | congruent melting: Liq -> Ni5La; _Liq: Ni 0.833333; Ni5La: Ni 0.833333_ | experimental | [2] Dischinger 2000 | Table 6, p. 8, row 5; `ORC-62HP5CPDVB` |  |
+| Phase transition | 1665.15 K | 1665.15 | UNKNOWN; _alloy: La 0.1681, Ni 0.8319_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 9; `ORC-NI7FCUP2DL` |  |
+| Phase transition | 1666 K | 1666 | congruent melting: L -> LaNi5; _L: Ni 0.833; LaNi5: Ni 0.833333_ | model | [1] Ye 2023; _cites ref. 31_ | Table 6, p. 8, row 11; `ORC-4BLNR4EN4B` |  |
+| Phase transition | 1666 K | 1666 | congruent melting: Liq -> Ni5La; _Liq: Ni 0.833333; Ni5La: Ni 0.833333_ | model | [2] Dischinger 2000 | Table 6, p. 8, row 4; `ORC-PDGZW4LOAH` |  |
+| Phase transition | 1687.15 K | 1687.15 | UNKNOWN; _alloy: La 0.0298, Ni 0.9702_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 2; `ORC-C6W3IQPQGQ` |  |
+| Phase transition | 1713.15 K | 1713.15 | UNKNOWN; _alloy: La 0.0051, Ni 0.9949_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 1; `ORC-3TJWEYVXQN` |  |
 
 ### Mixing / partial (9)
 
@@ -473,15 +473,15 @@ Table: Mixing / partial, La–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Gibbs energy of mixing; _printed: ΔGexp_ | -19.6 kJ/mol (basis unstated) | 773 | Ni3La7; _alloy: Ni 0.3_ | experimental | [2] Dischinger 2000 | Table 4, p. 6, row 15 |  |
-| Gibbs energy of mixing; _printed: ΔGexp_ | -16.4 kJ/mol (basis unstated) | 773 | NiLa3; _alloy: Ni 0.25_ | experimental | [2] Dischinger 2000 | Table 4, p. 6, row 17 |  |
-| Gibbs energy of mixing; _printed: ΔGexp_ | -29.5 kJ/mol (basis unstated) | 973 | Ni16La7; _alloy: Ni 0.695652_ | experimental | [2] Dischinger 2000 | Table 4, p. 6, row 9 |  |
-| Gibbs energy of mixing; _printed: ΔGexp_ | -27.3 kJ/mol (basis unstated) | 973 | Ni17La4; _alloy: Ni 0.809524_ | experimental | [2] Dischinger 2000 | Table 4, p. 6, row 3 |  |
-| Gibbs energy of mixing; _printed: ΔGexp_ | -29.3 kJ/mol (basis unstated) | 973 | Ni3La; _alloy: Ni 0.75_ | experimental | [2] Dischinger 2000 | Table 4, p. 6, row 7 |  |
-| Gibbs energy of mixing; _printed: ΔGexp_ | -29 kJ/mol (basis unstated) | 973 | Ni3La2; _alloy: Ni 0.6_ | experimental | [2] Dischinger 2000 | Table 4, p. 6, row 11 |  |
-| Gibbs energy of mixing; _printed: ΔGexp_ | -24 kJ/mol (basis unstated) | 973 | Ni5La; _alloy: Ni 0.833333_ | experimental | [2] Dischinger 2000 | Table 4, p. 6, row 1 |  |
-| Gibbs energy of mixing; _printed: ΔGexp_ | -28.4 kJ/mol (basis unstated) | 973 | Ni7La2; _alloy: Ni 0.777778_ | experimental | [2] Dischinger 2000 | Table 4, p. 6, row 5 |  |
-| Gibbs energy of mixing; _printed: ΔGexp_ | -28 kJ/mol (basis unstated) | 973 | NiLa; _alloy: Ni 0.5_ | experimental | [2] Dischinger 2000 | Table 4, p. 6, row 13 |  |
+| Gibbs energy of mixing; _printed: ΔGexp_ | -19.6 kJ/mol (basis unstated) | 773 | Ni3La7; _alloy: Ni 0.3_ | experimental | [2] Dischinger 2000 | Table 4, p. 6, row 15; `ORC-FV3H34HFFS` |  |
+| Gibbs energy of mixing; _printed: ΔGexp_ | -16.4 kJ/mol (basis unstated) | 773 | NiLa3; _alloy: Ni 0.25_ | experimental | [2] Dischinger 2000 | Table 4, p. 6, row 17; `ORC-ZEOTRL7KOE` |  |
+| Gibbs energy of mixing; _printed: ΔGexp_ | -29.5 kJ/mol (basis unstated) | 973 | Ni16La7; _alloy: Ni 0.695652_ | experimental | [2] Dischinger 2000 | Table 4, p. 6, row 9; `ORC-PQXAD3RTTT` |  |
+| Gibbs energy of mixing; _printed: ΔGexp_ | -27.3 kJ/mol (basis unstated) | 973 | Ni17La4; _alloy: Ni 0.809524_ | experimental | [2] Dischinger 2000 | Table 4, p. 6, row 3; `ORC-I6LBSWNB22` |  |
+| Gibbs energy of mixing; _printed: ΔGexp_ | -29.3 kJ/mol (basis unstated) | 973 | Ni3La; _alloy: Ni 0.75_ | experimental | [2] Dischinger 2000 | Table 4, p. 6, row 7; `ORC-C3V6FXH4DA` |  |
+| Gibbs energy of mixing; _printed: ΔGexp_ | -29 kJ/mol (basis unstated) | 973 | Ni3La2; _alloy: Ni 0.6_ | experimental | [2] Dischinger 2000 | Table 4, p. 6, row 11; `ORC-JXMX4VAWMU` |  |
+| Gibbs energy of mixing; _printed: ΔGexp_ | -24 kJ/mol (basis unstated) | 973 | Ni5La; _alloy: Ni 0.833333_ | experimental | [2] Dischinger 2000 | Table 4, p. 6, row 1; `ORC-FUYV34WWO2` |  |
+| Gibbs energy of mixing; _printed: ΔGexp_ | -28.4 kJ/mol (basis unstated) | 973 | Ni7La2; _alloy: Ni 0.777778_ | experimental | [2] Dischinger 2000 | Table 4, p. 6, row 5; `ORC-4GE5JSC53C` |  |
+| Gibbs energy of mixing; _printed: ΔGexp_ | -28 kJ/mol (basis unstated) | 973 | NiLa; _alloy: Ni 0.5_ | experimental | [2] Dischinger 2000 | Table 4, p. 6, row 13; `ORC-DGFB43GNNE` |  |
 
 ### Activity / EMF / Gibbs energy (9)
 
@@ -489,15 +489,15 @@ Table: Activity / EMF / Gibbs energy, La–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Gibbs energy; _printed: ΔGcalc_ | -19.5 kJ/mol | 773 | Ni3La7; _alloy: Ni 0.3_ | unspecified | [2] Dischinger 2000 | Table 4, p. 6, row 16 |  |
-| Gibbs energy; _printed: ΔGcalc_ | -16.4 kJ/mol | 773 | NiLa3; _alloy: Ni 0.25_ | unspecified | [2] Dischinger 2000 | Table 4, p. 6, row 18 |  |
-| Gibbs energy; _printed: ΔGcalc_ | -29.3 kJ/mol | 973 | Ni16La7; _alloy: Ni 0.695652_ | unspecified | [2] Dischinger 2000 | Table 4, p. 6, row 10 |  |
-| Gibbs energy; _printed: ΔGcalc_ | -26.6 kJ/mol | 973 | Ni17La4; _alloy: Ni 0.809524_ | unspecified | [2] Dischinger 2000 | Table 4, p. 6, row 4 |  |
-| Gibbs energy; _printed: ΔGcalc_ | -29 kJ/mol | 973 | Ni3La; _alloy: Ni 0.75_ | unspecified | [2] Dischinger 2000 | Table 4, p. 6, row 8 |  |
-| Gibbs energy; _printed: ΔGcalc_ | -28.9 kJ/mol | 973 | Ni3La2; _alloy: Ni 0.6_ | unspecified | [2] Dischinger 2000 | Table 4, p. 6, row 12 |  |
-| Gibbs energy; _printed: ΔGcalc_ | -24.1 kJ/mol | 973 | Ni5La; _alloy: Ni 0.833333_ | unspecified | [2] Dischinger 2000 | Table 4, p. 6, row 2 |  |
-| Gibbs energy; _printed: ΔGcalc_ | -28.2 kJ/mol | 973 | Ni7La2; _alloy: Ni 0.777778_ | unspecified | [2] Dischinger 2000 | Table 4, p. 6, row 6 |  |
-| Gibbs energy; _printed: ΔGcalc_ | -28.1 kJ/mol | 973 | NiLa; _alloy: Ni 0.5_ | unspecified | [2] Dischinger 2000 | Table 4, p. 6, row 14 |  |
+| Gibbs energy; _printed: ΔGcalc_ | -19.5 kJ/mol | 773 | Ni3La7; _alloy: Ni 0.3_ | unspecified | [2] Dischinger 2000 | Table 4, p. 6, row 16; `ORC-SSLJEL2GYP` |  |
+| Gibbs energy; _printed: ΔGcalc_ | -16.4 kJ/mol | 773 | NiLa3; _alloy: Ni 0.25_ | unspecified | [2] Dischinger 2000 | Table 4, p. 6, row 18; `ORC-5OCURZDQ4G` |  |
+| Gibbs energy; _printed: ΔGcalc_ | -29.3 kJ/mol | 973 | Ni16La7; _alloy: Ni 0.695652_ | unspecified | [2] Dischinger 2000 | Table 4, p. 6, row 10; `ORC-WODFUV7KCN` |  |
+| Gibbs energy; _printed: ΔGcalc_ | -26.6 kJ/mol | 973 | Ni17La4; _alloy: Ni 0.809524_ | unspecified | [2] Dischinger 2000 | Table 4, p. 6, row 4; `ORC-GCPUTBE6EK` |  |
+| Gibbs energy; _printed: ΔGcalc_ | -29 kJ/mol | 973 | Ni3La; _alloy: Ni 0.75_ | unspecified | [2] Dischinger 2000 | Table 4, p. 6, row 8; `ORC-UFGIYS7N64` |  |
+| Gibbs energy; _printed: ΔGcalc_ | -28.9 kJ/mol | 973 | Ni3La2; _alloy: Ni 0.6_ | unspecified | [2] Dischinger 2000 | Table 4, p. 6, row 12; `ORC-N4JHMLMMPB` |  |
+| Gibbs energy; _printed: ΔGcalc_ | -24.1 kJ/mol | 973 | Ni5La; _alloy: Ni 0.833333_ | unspecified | [2] Dischinger 2000 | Table 4, p. 6, row 2; `ORC-TVMPV6F3MD` |  |
+| Gibbs energy; _printed: ΔGcalc_ | -28.2 kJ/mol | 973 | Ni7La2; _alloy: Ni 0.777778_ | unspecified | [2] Dischinger 2000 | Table 4, p. 6, row 6; `ORC-S7AMHVLGKK` |  |
+| Gibbs energy; _printed: ΔGcalc_ | -28.1 kJ/mol | 973 | NiLa; _alloy: Ni 0.5_ | unspecified | [2] Dischinger 2000 | Table 4, p. 6, row 14; `ORC-3GAME6FHAQ` |  |
 
 ### Crystal structure (46)
 
@@ -505,52 +505,52 @@ Table: Crystal structure, La–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 5.056 Å |  | β-La2Ni7; _alloy: La 0.222222, Ni 0.777778_ | unspecified | [6] An 2012 | Table 2, p. 5, row 14 |  |
-| Lattice a | 5.114 Å | 298.15 | La2Ni3; _alloy: La 0.4, Ni 0.6_ | unspecified | [3] An 2013 | Table 3, p. 5, row 8 |  |
-| Lattice a | 5.114 Å | 298.15 | La2Ni3; _alloy: La 0.4, Ni 0.6_ | unspecified | [6] An 2012 | Table 2, p. 5, row 9 |  |
-| Lattice a | 5.056 Å | 298.15 | La2Ni7; _alloy: La 0.222222, Ni 0.777778_ | unspecified | [3] An 2013 | Table 3, p. 5, row 13 |  |
-| Lattice a | 5.0548 not_printed ± 3.000e-4 | 298.15 | La2Ni7; _alloy: Ni 0.777778_ | unspecified | [3] An 2013 | Table 1, p. 3, row 2 |  |
-| Lattice a | 5.058 Å | 298.15 | La2Ni7; _alloy: La 0.222222, Ni 0.777778_ | unspecified | [3] An 2013 | Table 3, p. 5, row 12 |  |
-| Lattice a | 6.601 Å | 298.15 | La3Ni; _alloy: La 0.75, Ni 0.25_ | unspecified | [6] An 2012 | Table 2, p. 5, row 6 |  |
-| Lattice a | 6.601 Å | 298.15 | La3Ni; _alloy: La 0.75, Ni 0.25_ | unspecified | [3] An 2013 | Table 3, p. 5, row 5 |  |
-| Lattice a | 5.0518 not_printed ± 8.000e-4 | 298.15 | La5Ni19; _alloy: Ni 0.791667_ | unspecified | [3] An 2013 | Table 1, p. 3, row 1 |  |
-| Lattice a | 5.052 Å | 298.15 | La5Ni19; _alloy: La 0.208333, Ni 0.791667_ | unspecified | [3] An 2013 | Table 3, p. 5, row 14 |  |
-| Lattice a | 7.355 Å | 298.15 | La7Ni16; _alloy: La 0.304348, Ni 0.695652_ | unspecified | [6] An 2012 | Table 2, p. 5, row 11 |  |
-| Lattice a | 7.355 Å | 298.15 | La7Ni16; _alloy: La 0.304348, Ni 0.695652_ | unspecified | [3] An 2013 | Table 3, p. 5, row 10 |  |
-| Lattice a | 10.13 Å | 298.15 | La7Ni3; _alloy: La 0.7, Ni 0.3_ | unspecified | [3] An 2013 | Table 3, p. 5, row 6 |  |
-| Lattice a | 10.13 Å | 298.15 | La7Ni3; _alloy: La 0.7, Ni 0.3_ | unspecified | [6] An 2012 | Table 2, p. 5, row 7 |  |
-| Lattice a | 3.907 Å | 298.15 | LaNi; _alloy: La 0.5, Ni 0.5_ | unspecified | [3] An 2013 | Table 3, p. 5, row 7 |  |
-| Lattice a | 3.907 Å | 298.15 | LaNi; _alloy: La 0.5, Ni 0.5_ | unspecified | [6] An 2012 | Table 2, p. 5, row 8 |  |
-| Lattice a | 7.34 Å | 298.15 | LaNi2; _alloy: La 0.333333, Ni 0.666667_ | unspecified | [6] An 2012 | Table 2, p. 5, row 10 |  |
-| Lattice a | 7.34 Å | 298.15 | LaNi2; _alloy: La 0.333333, Ni 0.666667_ | unspecified | [3] An 2013 | Table 3, p. 5, row 9 |  |
-| Lattice a | 5.086 Å | 298.15 | LaNi3; _alloy: La 0.25, Ni 0.75_ | unspecified | [6] An 2012 | Table 2, p. 5, row 12 |  |
-| Lattice a | 5.086 Å | 298.15 | LaNi3; _alloy: La 0.25, Ni 0.75_ | unspecified | [3] An 2013 | Table 3, p. 5, row 11 |  |
-| Lattice a | 5.0195 not_printed ± 1.000e-4 | 298.15 | LaNi5; _alloy: Ni 0.833333_ | unspecified | [3] An 2013 | Table 1, p. 3, row 3 |  |
-| Lattice a | 5.02 Å | 298.15 | LaNi5; _alloy: La 0.166667, Ni 0.833333_ | unspecified | [3] An 2013 | Table 3, p. 5, row 15 |  |
-| Lattice a | 5.013 Å | 298.15 | LaNi5; _alloy: La 0.166667, Ni 0.833333_ | unspecified | [6] An 2012 | Table 2, p. 5, row 15 |  |
-| Lattice a | 5.058 Å | 298.15 | α-La2Ni7; _alloy: La 0.222222, Ni 0.777778_ | unspecified | [6] An 2012 | Table 2, p. 5, row 13 |  |
-| Lattice c | 36.981 Å |  | β-La2Ni7; _alloy: La 0.222222, Ni 0.777778_ | unspecified | [6] An 2012 | Table 2, p. 5, row 14 |  |
-| Lattice c | 7.908 Å | 298.15 | La2Ni3; _alloy: La 0.4, Ni 0.6_ | unspecified | [3] An 2013 | Table 3, p. 5, row 8 |  |
-| Lattice c | 7.908 Å | 298.15 | La2Ni3; _alloy: La 0.4, Ni 0.6_ | unspecified | [6] An 2012 | Table 2, p. 5, row 9 |  |
-| Lattice c | 36.981 Å | 298.15 | La2Ni7; _alloy: La 0.222222, Ni 0.777778_ | unspecified | [3] An 2013 | Table 3, p. 5, row 13 |  |
-| Lattice c | 24.513 not_printed ± 0.002 | 298.15 | La2Ni7; _alloy: Ni 0.777778_ | unspecified | [3] An 2013 | Table 1, p. 3, row 2 |  |
-| Lattice c | 24.71 Å | 298.15 | La2Ni7; _alloy: La 0.222222, Ni 0.777778_ | unspecified | [3] An 2013 | Table 3, p. 5, row 12 |  |
-| Lattice c | 5.111 Å | 298.15 | La3Ni; _alloy: La 0.75, Ni 0.25_ | unspecified | [6] An 2012 | Table 2, p. 5, row 6 |  |
-| Lattice c | 5.111 Å | 298.15 | La3Ni; _alloy: La 0.75, Ni 0.25_ | unspecified | [3] An 2013 | Table 3, p. 5, row 5 |  |
-| Lattice c | 32.652 not_printed ± 0.005 | 298.15 | La5Ni19; _alloy: Ni 0.791667_ | unspecified | [3] An 2013 | Table 1, p. 3, row 1 |  |
-| Lattice c | 32.653 Å | 298.15 | La5Ni19; _alloy: La 0.208333, Ni 0.791667_ | unspecified | [3] An 2013 | Table 3, p. 5, row 14 |  |
-| Lattice c | 14.511 Å | 298.15 | La7Ni16; _alloy: La 0.304348, Ni 0.695652_ | unspecified | [6] An 2012 | Table 2, p. 5, row 11 |  |
-| Lattice c | 14.511 Å | 298.15 | La7Ni16; _alloy: La 0.304348, Ni 0.695652_ | unspecified | [3] An 2013 | Table 3, p. 5, row 10 |  |
-| Lattice c | 6.462 Å | 298.15 | La7Ni3; _alloy: La 0.7, Ni 0.3_ | unspecified | [3] An 2013 | Table 3, p. 5, row 6 |  |
-| Lattice c | 6.462 Å | 298.15 | La7Ni3; _alloy: La 0.7, Ni 0.3_ | unspecified | [6] An 2012 | Table 2, p. 5, row 7 |  |
-| Lattice c | 4.396 Å | 298.15 | LaNi; _alloy: La 0.5, Ni 0.5_ | unspecified | [3] An 2013 | Table 3, p. 5, row 7 |  |
-| Lattice c | 4.396 Å | 298.15 | LaNi; _alloy: La 0.5, Ni 0.5_ | unspecified | [6] An 2012 | Table 2, p. 5, row 8 |  |
-| Lattice c | 25.011 Å | 298.15 | LaNi3; _alloy: La 0.25, Ni 0.75_ | unspecified | [6] An 2012 | Table 2, p. 5, row 12 |  |
-| Lattice c | 25.011 Å | 298.15 | LaNi3; _alloy: La 0.25, Ni 0.75_ | unspecified | [3] An 2013 | Table 3, p. 5, row 11 |  |
-| Lattice c | 3.9796 not_printed ± 1.000e-4 | 298.15 | LaNi5; _alloy: Ni 0.833333_ | unspecified | [3] An 2013 | Table 1, p. 3, row 3 |  |
-| Lattice c | 3.98 Å | 298.15 | LaNi5; _alloy: La 0.166667, Ni 0.833333_ | unspecified | [3] An 2013 | Table 3, p. 5, row 15 |  |
-| Lattice c | 3.987 Å | 298.15 | LaNi5; _alloy: La 0.166667, Ni 0.833333_ | unspecified | [6] An 2012 | Table 2, p. 5, row 15 |  |
-| Lattice c | 24.71 Å | 298.15 | α-La2Ni7; _alloy: La 0.222222, Ni 0.777778_ | unspecified | [6] An 2012 | Table 2, p. 5, row 13 |  |
+| Lattice a | 5.056 Å |  | β-La2Ni7; _alloy: La 0.222222, Ni 0.777778_ | unspecified | [6] An 2012 | Table 2, p. 5, row 14; `ORC-2KJXGXGCCX.4a2800` |  |
+| Lattice a | 5.114 Å | 298.15 | La2Ni3; _alloy: La 0.4, Ni 0.6_ | unspecified | [3] An 2013 | Table 3, p. 5, row 8; `ORC-KFUVNQLA6V.514542` |  |
+| Lattice a | 5.114 Å | 298.15 | La2Ni3; _alloy: La 0.4, Ni 0.6_ | unspecified | [6] An 2012 | Table 2, p. 5, row 9; `ORC-YCCOYRCYN3.0444b8` |  |
+| Lattice a | 5.056 Å | 298.15 | La2Ni7; _alloy: La 0.222222, Ni 0.777778_ | unspecified | [3] An 2013 | Table 3, p. 5, row 13; `ORC-EYC2OWQJQT.71eb85` |  |
+| Lattice a | 5.0548 not_printed ± 3.000e-4 | 298.15 | La2Ni7; _alloy: Ni 0.777778_ | unspecified | [3] An 2013 | Table 1, p. 3, row 2; `ORC-HWKR4EDI35.8fce52` |  |
+| Lattice a | 5.058 Å | 298.15 | La2Ni7; _alloy: La 0.222222, Ni 0.777778_ | unspecified | [3] An 2013 | Table 3, p. 5, row 12; `ORC-OOL232O6NJ.709906` |  |
+| Lattice a | 6.601 Å | 298.15 | La3Ni; _alloy: La 0.75, Ni 0.25_ | unspecified | [6] An 2012 | Table 2, p. 5, row 6; `ORC-FM76VVHMZP.edefca` |  |
+| Lattice a | 6.601 Å | 298.15 | La3Ni; _alloy: La 0.75, Ni 0.25_ | unspecified | [3] An 2013 | Table 3, p. 5, row 5; `ORC-XQKKWYON36.8d38c1` |  |
+| Lattice a | 5.0518 not_printed ± 8.000e-4 | 298.15 | La5Ni19; _alloy: Ni 0.791667_ | unspecified | [3] An 2013 | Table 1, p. 3, row 1; `ORC-SPBQ6WTULV.9a5b7b` |  |
+| Lattice a | 5.052 Å | 298.15 | La5Ni19; _alloy: La 0.208333, Ni 0.791667_ | unspecified | [3] An 2013 | Table 3, p. 5, row 14; `ORC-YQJPQFM2SF.12df2a` |  |
+| Lattice a | 7.355 Å | 298.15 | La7Ni16; _alloy: La 0.304348, Ni 0.695652_ | unspecified | [6] An 2012 | Table 2, p. 5, row 11; `ORC-D3MNMQIU7Q.fa87eb` |  |
+| Lattice a | 7.355 Å | 298.15 | La7Ni16; _alloy: La 0.304348, Ni 0.695652_ | unspecified | [3] An 2013 | Table 3, p. 5, row 10; `ORC-E34VF6NNWP.0f96d4` |  |
+| Lattice a | 10.13 Å | 298.15 | La7Ni3; _alloy: La 0.7, Ni 0.3_ | unspecified | [3] An 2013 | Table 3, p. 5, row 6; `ORC-I4GJLAXWBP.0022af` |  |
+| Lattice a | 10.13 Å | 298.15 | La7Ni3; _alloy: La 0.7, Ni 0.3_ | unspecified | [6] An 2012 | Table 2, p. 5, row 7; `ORC-ZKBMVCEQJU.f88bbc` |  |
+| Lattice a | 3.907 Å | 298.15 | LaNi; _alloy: La 0.5, Ni 0.5_ | unspecified | [3] An 2013 | Table 3, p. 5, row 7; `ORC-3OY6CUKWIP.3eb6eb` |  |
+| Lattice a | 3.907 Å | 298.15 | LaNi; _alloy: La 0.5, Ni 0.5_ | unspecified | [6] An 2012 | Table 2, p. 5, row 8; `ORC-DRS5KB54WH.6e7047` |  |
+| Lattice a | 7.34 Å | 298.15 | LaNi2; _alloy: La 0.333333, Ni 0.666667_ | unspecified | [6] An 2012 | Table 2, p. 5, row 10; `ORC-MWGYURDQDS` |  |
+| Lattice a | 7.34 Å | 298.15 | LaNi2; _alloy: La 0.333333, Ni 0.666667_ | unspecified | [3] An 2013 | Table 3, p. 5, row 9; `ORC-SZYWRW46PJ.1e0571` |  |
+| Lattice a | 5.086 Å | 298.15 | LaNi3; _alloy: La 0.25, Ni 0.75_ | unspecified | [6] An 2012 | Table 2, p. 5, row 12; `ORC-NPX5VZTDCC.78c353` |  |
+| Lattice a | 5.086 Å | 298.15 | LaNi3; _alloy: La 0.25, Ni 0.75_ | unspecified | [3] An 2013 | Table 3, p. 5, row 11; `ORC-TA7OLLJMIK.232788` |  |
+| Lattice a | 5.0195 not_printed ± 1.000e-4 | 298.15 | LaNi5; _alloy: Ni 0.833333_ | unspecified | [3] An 2013 | Table 1, p. 3, row 3; `ORC-AHFHY4QJ2S.6f4828` |  |
+| Lattice a | 5.02 Å | 298.15 | LaNi5; _alloy: La 0.166667, Ni 0.833333_ | unspecified | [3] An 2013 | Table 3, p. 5, row 15; `ORC-K7FO3EQNA7.221e6d` |  |
+| Lattice a | 5.013 Å | 298.15 | LaNi5; _alloy: La 0.166667, Ni 0.833333_ | unspecified | [6] An 2012 | Table 2, p. 5, row 15; `ORC-TLJMKBMGY2.cd769f` |  |
+| Lattice a | 5.058 Å | 298.15 | α-La2Ni7; _alloy: La 0.222222, Ni 0.777778_ | unspecified | [6] An 2012 | Table 2, p. 5, row 13; `ORC-I5U7F2NRYD.e362f4` |  |
+| Lattice c | 36.981 Å |  | β-La2Ni7; _alloy: La 0.222222, Ni 0.777778_ | unspecified | [6] An 2012 | Table 2, p. 5, row 14; `ORC-2KJXGXGCCX.0c82d5` |  |
+| Lattice c | 7.908 Å | 298.15 | La2Ni3; _alloy: La 0.4, Ni 0.6_ | unspecified | [3] An 2013 | Table 3, p. 5, row 8; `ORC-KFUVNQLA6V.957719` |  |
+| Lattice c | 7.908 Å | 298.15 | La2Ni3; _alloy: La 0.4, Ni 0.6_ | unspecified | [6] An 2012 | Table 2, p. 5, row 9; `ORC-YCCOYRCYN3.c5f74b` |  |
+| Lattice c | 36.981 Å | 298.15 | La2Ni7; _alloy: La 0.222222, Ni 0.777778_ | unspecified | [3] An 2013 | Table 3, p. 5, row 13; `ORC-EYC2OWQJQT.35977f` |  |
+| Lattice c | 24.513 not_printed ± 0.002 | 298.15 | La2Ni7; _alloy: Ni 0.777778_ | unspecified | [3] An 2013 | Table 1, p. 3, row 2; `ORC-HWKR4EDI35.f1a0f9` |  |
+| Lattice c | 24.71 Å | 298.15 | La2Ni7; _alloy: La 0.222222, Ni 0.777778_ | unspecified | [3] An 2013 | Table 3, p. 5, row 12; `ORC-OOL232O6NJ.1aea7c` |  |
+| Lattice c | 5.111 Å | 298.15 | La3Ni; _alloy: La 0.75, Ni 0.25_ | unspecified | [6] An 2012 | Table 2, p. 5, row 6; `ORC-FM76VVHMZP.e7e785` |  |
+| Lattice c | 5.111 Å | 298.15 | La3Ni; _alloy: La 0.75, Ni 0.25_ | unspecified | [3] An 2013 | Table 3, p. 5, row 5; `ORC-XQKKWYON36.820106` |  |
+| Lattice c | 32.652 not_printed ± 0.005 | 298.15 | La5Ni19; _alloy: Ni 0.791667_ | unspecified | [3] An 2013 | Table 1, p. 3, row 1; `ORC-SPBQ6WTULV.7d76c8` |  |
+| Lattice c | 32.653 Å | 298.15 | La5Ni19; _alloy: La 0.208333, Ni 0.791667_ | unspecified | [3] An 2013 | Table 3, p. 5, row 14; `ORC-YQJPQFM2SF.601073` |  |
+| Lattice c | 14.511 Å | 298.15 | La7Ni16; _alloy: La 0.304348, Ni 0.695652_ | unspecified | [6] An 2012 | Table 2, p. 5, row 11; `ORC-D3MNMQIU7Q.d795b1` |  |
+| Lattice c | 14.511 Å | 298.15 | La7Ni16; _alloy: La 0.304348, Ni 0.695652_ | unspecified | [3] An 2013 | Table 3, p. 5, row 10; `ORC-E34VF6NNWP.eddfd1` |  |
+| Lattice c | 6.462 Å | 298.15 | La7Ni3; _alloy: La 0.7, Ni 0.3_ | unspecified | [3] An 2013 | Table 3, p. 5, row 6; `ORC-I4GJLAXWBP.1d07b2` |  |
+| Lattice c | 6.462 Å | 298.15 | La7Ni3; _alloy: La 0.7, Ni 0.3_ | unspecified | [6] An 2012 | Table 2, p. 5, row 7; `ORC-ZKBMVCEQJU.00168e` |  |
+| Lattice c | 4.396 Å | 298.15 | LaNi; _alloy: La 0.5, Ni 0.5_ | unspecified | [3] An 2013 | Table 3, p. 5, row 7; `ORC-3OY6CUKWIP.dbb69d` |  |
+| Lattice c | 4.396 Å | 298.15 | LaNi; _alloy: La 0.5, Ni 0.5_ | unspecified | [6] An 2012 | Table 2, p. 5, row 8; `ORC-DRS5KB54WH.68b133` |  |
+| Lattice c | 25.011 Å | 298.15 | LaNi3; _alloy: La 0.25, Ni 0.75_ | unspecified | [6] An 2012 | Table 2, p. 5, row 12; `ORC-NPX5VZTDCC.b64323` |  |
+| Lattice c | 25.011 Å | 298.15 | LaNi3; _alloy: La 0.25, Ni 0.75_ | unspecified | [3] An 2013 | Table 3, p. 5, row 11; `ORC-TA7OLLJMIK.5b9f66` |  |
+| Lattice c | 3.9796 not_printed ± 1.000e-4 | 298.15 | LaNi5; _alloy: Ni 0.833333_ | unspecified | [3] An 2013 | Table 1, p. 3, row 3; `ORC-AHFHY4QJ2S.928c50` |  |
+| Lattice c | 3.98 Å | 298.15 | LaNi5; _alloy: La 0.166667, Ni 0.833333_ | unspecified | [3] An 2013 | Table 3, p. 5, row 15; `ORC-K7FO3EQNA7.c10dd9` |  |
+| Lattice c | 3.987 Å | 298.15 | LaNi5; _alloy: La 0.166667, Ni 0.833333_ | unspecified | [6] An 2012 | Table 2, p. 5, row 15; `ORC-TLJMKBMGY2.e56a5d` |  |
+| Lattice c | 24.71 Å | 298.15 | α-La2Ni7; _alloy: La 0.222222, Ni 0.777778_ | unspecified | [6] An 2012 | Table 2, p. 5, row 13; `ORC-I5U7F2NRYD.c0aa69` |  |
 
 ## Sources
 
@@ -620,4 +620,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

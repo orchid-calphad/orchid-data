@@ -14,16 +14,16 @@ Table: Enthalpy of formation of HgTe reported in the literature (10)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -36.5 kJ/mol (basis unstated) | HgTe | 298.15 | experimental |  | [Hg–Te](https://data.orchid-project.org/systems/HG-TE.html) | [1] Gierlotka 2010; _cites Nasar 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990316-c) | Table 4, p. 4, row 5 |  |
-| -33.9 kJ/mol (basis unstated) | HgTe | 298.15 | experimental |  | [Hg–Te](https://data.orchid-project.org/systems/HG-TE.html) | [1] Gierlotka 2010; _cites Ratajczak 1969_ | Table 4, p. 4, row 1 |  |
-| -31.8 kJ/mol (basis unstated) | HgTe | 298.15 | experimental |  | [Hg–Te](https://data.orchid-project.org/systems/HG-TE.html) | [1] Gierlotka 2010; _cites Mills 1974_ | Table 4, p. 4, row 2 |  |
-| -44.02 kJ/mol (basis unstated) | HgTe | 298.15 | model |  | [Hg–Te](https://data.orchid-project.org/systems/HG-TE.html) | [1] Gierlotka 2010; _cites Yang 1995_ [doi](https://doi.org/10.1016/0364-5916%2895%2900039-h) | Table 4, p. 4, row 7 |  |
-| -43.648 kJ/mol (basis unstated) | HgTe | 298.15 | model |  | [Hg–Te](https://data.orchid-project.org/systems/HG-TE.html) | [1] Gierlotka 2010 | Table 4, p. 4, row 8 |  |
-| -43.538 kJ/mol (basis unstated) | HgTe | 298.15 | model |  | [Hg–Te](https://data.orchid-project.org/systems/HG-TE.html) | [2] Jianrong 1995 | Table 4, p. 13, row 2 |  |
-| -44.002 kJ/mol (basis unstated) | HgTe | 298.15 | unspecified |  | [Hg–Te](https://data.orchid-project.org/systems/HG-TE.html) | [2] Jianrong 1995; _cites ref. 13_ | Table 4, p. 13, row 1 |  |
-| -43.802 kJ/mol (basis unstated) | HgTe | 298.15 | unspecified |  | [Hg–Te](https://data.orchid-project.org/systems/HG-TE.html) | [1] Gierlotka 2010; _cites Su 1981_ | Table 4, p. 4, row 4 |  |
-| -43.69 kJ/mol (basis unstated) | HgTe | 298.15 | unspecified |  | [Hg–Te](https://data.orchid-project.org/systems/HG-TE.html) | [1] Gierlotka 2010; _cites Brebrick 1991_ | Table 4, p. 4, row 6 |  |
-| -41.2 kJ/mol (basis unstated) | HgTe | 298.15 | unspecified |  | [Hg–Te](https://data.orchid-project.org/systems/HG-TE.html) | [1] Gierlotka 2010; _cites Sha 1989_ [doi](https://doi.org/10.1149/1.2096558) | Table 4, p. 4, row 3 |  |
+| -36.5 kJ/mol (basis unstated) | HgTe | 298.15 | experimental |  | [Hg–Te](https://data.orchid-project.org/systems/HG-TE.html) | [1] Gierlotka 2010; _cites Nasar 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990316-c) | Table 4, p. 4, row 5; `ORC-NFHRK2IB4Q` |  |
+| -33.9 kJ/mol (basis unstated) | HgTe | 298.15 | experimental |  | [Hg–Te](https://data.orchid-project.org/systems/HG-TE.html) | [1] Gierlotka 2010; _cites Ratajczak 1969_ | Table 4, p. 4, row 1; `ORC-EEZQZUHVX2` |  |
+| -31.8 kJ/mol (basis unstated) | HgTe | 298.15 | experimental |  | [Hg–Te](https://data.orchid-project.org/systems/HG-TE.html) | [1] Gierlotka 2010; _cites Mills 1974_ | Table 4, p. 4, row 2; `ORC-67ZTLGAVJG` |  |
+| -44.02 kJ/mol (basis unstated) | HgTe | 298.15 | model |  | [Hg–Te](https://data.orchid-project.org/systems/HG-TE.html) | [1] Gierlotka 2010; _cites Yang 1995_ [doi](https://doi.org/10.1016/0364-5916%2895%2900039-h) | Table 4, p. 4, row 7; `ORC-OEJNTMATEJ` |  |
+| -43.648 kJ/mol (basis unstated) | HgTe | 298.15 | model |  | [Hg–Te](https://data.orchid-project.org/systems/HG-TE.html) | [1] Gierlotka 2010 | Table 4, p. 4, row 8; `ORC-XKDATEYW7N` |  |
+| -43.538 kJ/mol (basis unstated) | HgTe | 298.15 | model |  | [Hg–Te](https://data.orchid-project.org/systems/HG-TE.html) | [2] Jianrong 1995 | Table 4, p. 13, row 2; `ORC-D3QUZ7OGYZ.41f6eb` |  |
+| -44.002 kJ/mol (basis unstated) | HgTe | 298.15 | unspecified |  | [Hg–Te](https://data.orchid-project.org/systems/HG-TE.html) | [2] Jianrong 1995; _cites ref. 13_ | Table 4, p. 13, row 1; `ORC-S6377M3I2P.a5a2d6` |  |
+| -43.802 kJ/mol (basis unstated) | HgTe | 298.15 | unspecified |  | [Hg–Te](https://data.orchid-project.org/systems/HG-TE.html) | [1] Gierlotka 2010; _cites Su 1981_ | Table 4, p. 4, row 4; `ORC-PYTM5LPW4L` |  |
+| -43.69 kJ/mol (basis unstated) | HgTe | 298.15 | unspecified |  | [Hg–Te](https://data.orchid-project.org/systems/HG-TE.html) | [1] Gierlotka 2010; _cites Brebrick 1991_ | Table 4, p. 4, row 6; `ORC-HJSAMN7EKC` |  |
+| -41.2 kJ/mol (basis unstated) | HgTe | 298.15 | unspecified |  | [Hg–Te](https://data.orchid-project.org/systems/HG-TE.html) | [1] Gierlotka 2010; _cites Sha 1989_ [doi](https://doi.org/10.1149/1.2096558) | Table 4, p. 4, row 3; `ORC-PX3Z37VCT4` |  |
 
 ### Uncertainty budget
 
@@ -96,4 +96,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

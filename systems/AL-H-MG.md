@@ -29,10 +29,10 @@ Table: Crystal structure, Al–H–Mg system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 5.2225 Å |  | Mg(AlH4)2; _alloy: H 0.666667, Mg 0.166667_ | model | [1] Palumbo 2007 | Table 2, p. 5, row 2 |  |
-| Lattice a | 5.2084 Å | 298.15 | Mg(AlH4)2; _alloy: H 0.666667, Mg 0.166667_ | experimental | [1] Palumbo 2007 | Table 2, p. 5, row 1 |  |
-| Lattice c | 5.7635 Å |  | Mg(AlH4)2; _alloy: H 0.666667, Mg 0.166667_ | model | [1] Palumbo 2007 | Table 2, p. 5, row 4 |  |
-| Lattice c | 5.8392 Å | 298.15 | Mg(AlH4)2; _alloy: H 0.666667, Mg 0.166667_ | experimental | [1] Palumbo 2007 | Table 2, p. 5, row 3 |  |
+| Lattice a | 5.2225 Å |  | Mg(AlH4)2; _alloy: H 0.666667, Mg 0.166667_ | model | [1] Palumbo 2007 | Table 2, p. 5, row 2; `ORC-UAOTN2QGQT` |  |
+| Lattice a | 5.2084 Å | 298.15 | Mg(AlH4)2; _alloy: H 0.666667, Mg 0.166667_ | experimental | [1] Palumbo 2007 | Table 2, p. 5, row 1; `ORC-P3XIW2ARJ4` |  |
+| Lattice c | 5.7635 Å |  | Mg(AlH4)2; _alloy: H 0.666667, Mg 0.166667_ | model | [1] Palumbo 2007 | Table 2, p. 5, row 4; `ORC-RA3FWRKMMR` |  |
+| Lattice c | 5.8392 Å | 298.15 | Mg(AlH4)2; _alloy: H 0.666667, Mg 0.166667_ | experimental | [1] Palumbo 2007 | Table 2, p. 5, row 3; `ORC-BL6OOEEFGT` |  |
 
 ## Sources
 
@@ -75,4 +75,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

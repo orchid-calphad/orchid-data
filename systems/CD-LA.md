@@ -31,16 +31,16 @@ Table: Phase transition, Cd–La system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 893 K | 893 | Cd11La | model | [1] Kurata 2001 | Table 4, p. 5, row 2 |  |
-| Phase transition | 898 K | 898 | Cd11La | experimental | [1] Kurata 2001; _cites Bruzzone 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990115-x) | Table 4, p. 5, row 1 |  |
-| Phase transition | 961 K | 961 | Cd17La2 | experimental | [1] Kurata 2001; _cites Bruzzone 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990115-x) | Table 4, p. 5, row 3 |  |
-| Phase transition | 962 K | 962 | Cd17La2 | model | [1] Kurata 2001 | Table 4, p. 5, row 4 |  |
-| Phase transition | 1145 K | 1145 | Cd58La13 | model | [1] Kurata 2001 | Table 4, p. 5, row 6 |  |
-| Phase transition | 1147 K | 1147 | Cd58La13 | experimental | [1] Kurata 2001; _cites Bruzzone 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990115-x) | Table 4, p. 5, row 5 |  |
-| Phase transition | 1219 K | 1219 | CdLa | experimental | [1] Kurata 2001; _cites Bruzzone 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990115-x) | Table 4, p. 5, row 9 |  |
-| Phase transition | 1223 K | 1223 | CdLa | model | [1] Kurata 2001 | Table 4, p. 5, row 10 |  |
-| Phase transition | 1226 K | 1226 | Cd2La | experimental | [1] Kurata 2001; _cites Bruzzone 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990115-x) | Table 4, p. 5, row 7 |  |
-| Phase transition | 1232 K | 1232 | Cd2La | model | [1] Kurata 2001 | Table 4, p. 5, row 8 |  |
+| Phase transition | 893 K | 893 | Cd11La | model | [1] Kurata 2001 | Table 4, p. 5, row 2; `ORC-Q2VI62MZFH` |  |
+| Phase transition | 898 K | 898 | Cd11La | experimental | [1] Kurata 2001; _cites Bruzzone 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990115-x) | Table 4, p. 5, row 1; `ORC-RY6OBYNBX4` |  |
+| Phase transition | 961 K | 961 | Cd17La2 | experimental | [1] Kurata 2001; _cites Bruzzone 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990115-x) | Table 4, p. 5, row 3; `ORC-RT7UDKQJZR` |  |
+| Phase transition | 962 K | 962 | Cd17La2 | model | [1] Kurata 2001 | Table 4, p. 5, row 4; `ORC-QJY2I5IHQX` |  |
+| Phase transition | 1145 K | 1145 | Cd58La13 | model | [1] Kurata 2001 | Table 4, p. 5, row 6; `ORC-MDYHHFQRJU` |  |
+| Phase transition | 1147 K | 1147 | Cd58La13 | experimental | [1] Kurata 2001; _cites Bruzzone 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990115-x) | Table 4, p. 5, row 5; `ORC-NCOLDK53HG` |  |
+| Phase transition | 1219 K | 1219 | CdLa | experimental | [1] Kurata 2001; _cites Bruzzone 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990115-x) | Table 4, p. 5, row 9; `ORC-7EZNHCIXMR` |  |
+| Phase transition | 1223 K | 1223 | CdLa | model | [1] Kurata 2001 | Table 4, p. 5, row 10; `ORC-PQKV4OKGT6` |  |
+| Phase transition | 1226 K | 1226 | Cd2La | experimental | [1] Kurata 2001; _cites Bruzzone 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990115-x) | Table 4, p. 5, row 7; `ORC-5YPZFMKAEO` |  |
+| Phase transition | 1232 K | 1232 | Cd2La | model | [1] Kurata 2001 | Table 4, p. 5, row 8; `ORC-4KSFCXKYYB` |  |
 
 ## Sources
 
@@ -94,4 +94,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

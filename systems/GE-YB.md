@@ -89,60 +89,60 @@ Table: Invariant reactions reported in the literature for the Ge–Yb system (54
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1913 | congruent melting: Liq -> Yb5Ge4 | L: Ge 0.5556; Yb5Ge4: Ge 0.5556 | experimental | [1] Dai-man 2018; _cites Pani 2003_ | Table 1, p. 3, row 13 |  |
-| 1913 | congruent melting: Liq -> Yb5Ge4 | L: Ge 0.5556; Yb5Ge4: Ge 0.5556 | model | [1] Dai-man 2018 | Table 1, p. 3, row 15 |  |
-| 1913 | congruent melting: Liq -> Yb5Ge4 | L: Ge 0.5556; Yb5Ge4: Ge 0.5556 | experimental | [1] Dai-man 2018; _cites Okamoto 2005_ | Table 1, p. 3, row 14 |  |
-| 1858.15 | peritectic: Yb5Ge3 -> L + Yb5Ge4 |  | experimental | [2] Achgar 2018; _cites Pani 2003_ | Table 5, p. 8, row 13 |  |
-| 1858 | peritectic: Liq+Yb5Ge4 -> Yb5Ge3 | L: Ge 0.374; Yb5Ge4: Ge 0.4444; Yb5Ge3: Ge 0.375 | experimental | [1] Dai-man 2018; _cites Pani 2003_ | Table 1, p. 3, row 16 |  |
-| 1858 | peritectic: Liq+Yb5Ge4 -> Yb5Ge3 | L: Ge 0.374; Yb5Ge4: Ge 0.4444; Yb5Ge3: Ge 0.375 | experimental | [1] Dai-man 2018; _cites Okamoto 2005_ | Table 1, p. 3, row 17 |  |
-| 1858 | peritectic |  | experimental | [1] Dai-man 2018; _cites Pani 2003_ | p. 3 | “The compounds Yb3Ge8, Yb3Ge5, Yb11Ge10, Yb5Ge3 and Yb2Ge are formed by the peritectic reactions at 1138, 1348, 1773, 1858 and 1478 K, respectively.” |
-| 1858 | peritectic: Liq+Yb5Ge4 -> Yb5Ge3 | L: Ge 0.374; Yb5Ge4: Ge 0.4444; Yb5Ge3: Ge 0.375 | model | [1] Dai-man 2018 | Table 1, p. 3, row 18 |  |
-| 1854.15 | peritectic: Yb5Ge3 -> L + Yb5Ge4 |  | model | [2] Achgar 2018 | Table 5, p. 8, row 15 |  |
-| 1845.15 | peritectic: Yb5Ge3 -> L + Yb5Ge4 |  | model | [2] Achgar 2018 | Table 5, p. 8, row 14 |  |
-| 1778.15 | peritectic: Yb11Ge10 -> L + Yb5Ge4 |  | model | [2] Achgar 2018 | Table 5, p. 8, row 21 |  |
-| 1775.15 | peritectic: Yb11Ge10 -> L + Yb5Ge4 |  | model | [2] Achgar 2018 | Table 5, p. 8, row 20 |  |
-| 1773.15 | peritectic: Yb11Ge10 -> L + Yb5Ge4 |  | experimental | [2] Achgar 2018; _cites Pani 2003_ | Table 5, p. 8, row 19 |  |
-| 1773 | peritectic: Liq+Yb5Ge4 -> Yb11Ge10 | L: Ge 0.53; Yb5Ge4: Ge 0.4444; Yb11Ge10: Ge 0.4762 | experimental | [1] Dai-man 2018; _cites Okamoto 2005_ | Table 1, p. 3, row 11 |  |
-| 1773 | peritectic: Liq+Yb5Ge4 -> Yb11Ge10 | L: Ge 0.5511; Yb5Ge4: Ge 0.4444; Yb11Ge10: Ge 0.4762 | model | [1] Dai-man 2018 | Table 1, p. 3, row 12 |  |
-| 1773 | peritectic: Liq+Yb5Ge4 -> Yb11Ge10 | L: Ge 0.53; Yb5Ge4: Ge 0.4444; Yb11Ge10: Ge 0.4762 | experimental | [1] Dai-man 2018; _cites Pani 2003_ | Table 1, p. 3, row 10 |  |
-| 1773 | peritectic |  | experimental | [1] Dai-man 2018; _cites Pani 2003_ | p. 3 | “The compounds Yb3Ge8, Yb3Ge5, Yb11Ge10, Yb5Ge3 and Yb2Ge are formed by the peritectic reactions at 1138, 1348, 1773, 1858 and 1478 K, respectively.” |
-| 1480.15 | peritectic: Yb2Ge -> L + Yb5Ge3 |  | model | [2] Achgar 2018 | Table 5, p. 8, row 11 |  |
-| 1478.15 | peritectic: Yb2Ge -> L + Yb5Ge3 |  | experimental | [2] Achgar 2018; _cites Pani 2003_ | Table 5, p. 8, row 10 |  |
-| 1478 | peritectic: Liq+Yb5Ge3 -> Yb2Ge | L: Ge 0.2; Yb5Ge3: Ge 0.375; Yb2Ge: Ge 0.3333 | experimental | [1] Dai-man 2018; _cites Pani 2003_ | Table 1, p. 3, row 19 |  |
-| 1478 | peritectic: Liq+Yb5Ge3 -> Yb2Ge | L: Ge 0.1659; Yb5Ge3: Ge 0.375; Yb2Ge: Ge 0.3333 | model | [1] Dai-man 2018 | Table 1, p. 3, row 21 |  |
-| 1478 | peritectic |  | experimental | [1] Dai-man 2018; _cites Pani 2003_ | p. 3 | “The compounds Yb3Ge8, Yb3Ge5, Yb11Ge10, Yb5Ge3 and Yb2Ge are formed by the peritectic reactions at 1138, 1348, 1773, 1858 and 1478 K, respectively.” |
-| 1478 | peritectic: Liq+Yb5Ge3 -> Yb2Ge | L: Ge 0.2; Yb5Ge3: Ge 0.375; Yb2Ge: Ge 0.3333 | experimental | [1] Dai-man 2018; _cites Okamoto 2005_ | Table 1, p. 3, row 20 |  |
-| 1476.15 | peritectic: Yb2Ge -> L + Yb5Ge3 |  | model | [2] Achgar 2018 | Table 5, p. 8, row 12 |  |
-| 1351.15 | peritectic: Yb3Ge5 -> L + Yb11Ge10 |  | model | [2] Achgar 2018 | Table 5, p. 8, row 23 |  |
-| 1348.15 | peritectic: Yb3Ge5 -> L + Yb11Ge10 |  | experimental | [2] Achgar 2018; _cites Pani 2003_ | Table 5, p. 8, row 22 |  |
-| 1348 | peritectic: Liq+Yb11Ge10 -> Yb3Ge5 | L: Ge 0.6717; Yb11Ge10: Ge 0.4762; Yb3Ge5: Ge 0.625 | model | [1] Dai-man 2018 | Table 1, p. 3, row 9 |  |
-| 1348 | peritectic: Liq+Yb11Ge10 -> Yb3Ge5 | L: Ge 0.63; Yb11Ge10: Ge 0.4762; Yb3Ge5: Ge 0.625 | experimental | [1] Dai-man 2018; _cites Pani 2003_ | Table 1, p. 3, row 7 |  |
-| 1348 | peritectic: Liq+Yb11Ge10 -> Yb3Ge5 | L: Ge 0.63; Yb11Ge10: Ge 0.4762; Yb3Ge5: Ge 0.625 | experimental | [1] Dai-man 2018; _cites Okamoto 2005_ | Table 1, p. 3, row 8 |  |
-| 1348 | peritectic |  | experimental | [1] Dai-man 2018; _cites Pani 2003_ | p. 3 | “The compounds Yb3Ge8, Yb3Ge5, Yb11Ge10, Yb5Ge3 and Yb2Ge are formed by the peritectic reactions at 1138, 1348, 1773, 1858 and 1478 K, respectively.” |
-| 1342.15 | peritectic: Yb3Ge5 -> L + Yb11Ge10 |  | model | [2] Achgar 2018 | Table 5, p. 8, row 24 |  |
-| 1139.15 | peritectic: Yb3Ge8 -> L + Yb3Ge5 |  | model | [2] Achgar 2018 | Table 5, p. 8, row 26 |  |
-| 1138.15 | peritectic: Yb3Ge8 -> L + Yb3Ge5 |  | experimental | [2] Achgar 2018; _cites Pani 2003_ | Table 5, p. 8, row 25 |  |
-| 1138 | peritectic: Liq+Yb3Ge5 -> Yb3Ge8 | L: Ge 0.73; Yb3Ge5: Ge 0.625; Yb3Ge8: Ge 0.7273 | experimental | [1] Dai-man 2018; _cites Okamoto 2005_ | Table 1, p. 3, row 5 |  |
-| 1138 | peritectic: Liq+Yb3Ge5 -> Yb3Ge8 | L: Ge 0.73; Yb3Ge5: Ge 0.625; Yb3Ge8: Ge 0.7273 | experimental | [1] Dai-man 2018; _cites Pani 2003_ | Table 1, p. 3, row 4 |  |
-| 1138 | peritectic |  | experimental | [1] Dai-man 2018; _cites Pani 2003_ | p. 3 | “The compounds Yb3Ge8, Yb3Ge5, Yb11Ge10, Yb5Ge3 and Yb2Ge are formed by the peritectic reactions at 1138, 1348, 1773, 1858 and 1478 K, respectively.” |
-| 1138 | peritectic: Liq+Yb3Ge5 -> Yb3Ge8 | L: Ge 0.7592; Yb3Ge5: Ge 0.625; Yb3Ge8: Ge 0.7273 | model | [1] Dai-man 2018 | Table 1, p. 3, row 6 |  |
-| 1131.15 | peritectic: Yb3Ge8 -> L + Yb3Ge5 |  | model | [2] Achgar 2018 | Table 5, p. 8, row 27 |  |
-| 1087.15 | eutectic: L -> γLa + Yb2Ge |  | model | [2] Achgar 2018 | Table 5, p. 8, row 8 |  |
-| 1086.15 | eutectic: L -> γLa + Yb2Ge |  | model | [2] Achgar 2018 | Table 5, p. 8, row 9 |  |
-| 1083.15 | eutectic: L -> γLa + Yb2Ge |  | experimental | [2] Achgar 2018; _cites Pani 2003_ | Table 5, p. 8, row 7 |  |
-| 1083.15 | eutectic |  | experimental | [2] Achgar 2018 | p. 3 | “Ytterbium results in eutectic reaction among liquid, Yb (bcc_A2), and Yb2Ge at 810 C and \\1 at.% Ge.” |
-| 1083 | eutectic: Liq -> Yb2Ge + Fcc_A1 | L: Ge 0.0024; Yb2Ge: Ge 0.3333; Fcc_A1: Ge 0 | experimental | [1] Dai-man 2018; _cites Pani 2003_ | Table 1, p. 3, row 22 |  |
-| 1083 | eutectic: Liq $ Yb2Ge CBcc_A2(Yb) |  | experimental | [1] Dai-man 2018 | p. 3 | “Two eutectic transformations are defined, Liq$Diamond_A4(Ge)C Yb3Ge8 at 1003 K and » 2.1 at.% Yb, and Liq $ Yb2Ge CBcc_A2(Yb) at 1083 K and more than 99.0 at.% Yb.” |
-| 1083 | eutectic: Liq -> Yb2Ge + Fcc_A1 | L: Ge 0.0024; Yb2Ge: Ge 0.3333; Fcc_A1: Ge 0 | experimental | [1] Dai-man 2018; _cites Okamoto 2005_ | Table 1, p. 3, row 23 |  |
-| 1083 | eutectic: Liq -> Yb2Ge + Fcc_A1 | L: Ge 0.0114; Yb2Ge: Ge 0.3333; Fcc_A1: Ge 0 | model | [1] Dai-man 2018 | Table 1, p. 3, row 24 |  |
-| 1014.15 | eutectic: L -> Yb3Ge8 + Ge |  | model | [2] Achgar 2018 | Table 5, p. 8, row 30 |  |
-| 1007.15 | eutectic: L -> Yb3Ge8 + Ge |  | model | [2] Achgar 2018 | Table 5, p. 8, row 29 |  |
-| 1003.15 | eutectic: L -> Yb3Ge8 + Ge |  | experimental | [2] Achgar 2018; _cites Pani 2003_ | Table 5, p. 8, row 28 |  |
-| 1003.15 | eutectic |  | experimental | [2] Achgar 2018; _cites Eremenko 1983_ | p. 3 | “In Gerich part, the addition of Ytterbium to Germanium results in a eutectic reaction among liquid, Yb3Ge8, and Ge (diamond_A4) at 730 C and about 80 at.% Ge, in accordance with Eremenko \[15\].” |
-| 1003 | eutectic: Liq -> (Ge)+Yb3Ge8 | L: Ge 0.8411; (Ge): Ge 1; Yb3Ge8: Ge 0.7273 | model | [1] Dai-man 2018 | Table 1, p. 3, row 3 |  |
-| 1003 | eutectic: Liq$Diamond_A4(Ge)C Yb3Ge8 |  | experimental | [1] Dai-man 2018 | p. 3 | “Two eutectic transformations are defined, Liq$Diamond_A4(Ge)C Yb3Ge8 at 1003 K and » 2.1 at.% Yb, and Liq $ Yb2Ge CBcc_A2(Yb) at 1083 K and more than 99.0 at.% Yb.” |
-| 1003 | eutectic: Liq -> (Ge)+Yb3Ge8 | L: Ge 0.81; (Ge): Ge 1; Yb3Ge8: Ge 0.7273 | experimental | [1] Dai-man 2018; _cites Okamoto 2005_ | Table 1, p. 3, row 2 |  |
-| 1003 | eutectic: Liq -> (Ge)+Yb3Ge8 | L: Ge 0.81; (Ge): Ge 1; Yb3Ge8: Ge 0.7273 | experimental | [1] Dai-man 2018; _cites Pani 2003_ | Table 1, p. 3, row 1 |  |
+| 1913 | congruent melting: Liq -> Yb5Ge4 | L: Ge 0.5556; Yb5Ge4: Ge 0.5556 | experimental | [1] Dai-man 2018; _cites Pani 2003_ | Table 1, p. 3, row 13; `ORC-MUZ2FKXXLB` |  |
+| 1913 | congruent melting: Liq -> Yb5Ge4 | L: Ge 0.5556; Yb5Ge4: Ge 0.5556 | model | [1] Dai-man 2018 | Table 1, p. 3, row 15; `ORC-NECBEYL2W3` |  |
+| 1913 | congruent melting: Liq -> Yb5Ge4 | L: Ge 0.5556; Yb5Ge4: Ge 0.5556 | experimental | [1] Dai-man 2018; _cites Okamoto 2005_ | Table 1, p. 3, row 14; `ORC-SSX3P5F2CH` |  |
+| 1858.15 | peritectic: Yb5Ge3 -> L + Yb5Ge4 |  | experimental | [2] Achgar 2018; _cites Pani 2003_ | Table 5, p. 8, row 13; `ORC-4OXRZENVA6` |  |
+| 1858 | peritectic: Liq+Yb5Ge4 -> Yb5Ge3 | L: Ge 0.374; Yb5Ge4: Ge 0.4444; Yb5Ge3: Ge 0.375 | experimental | [1] Dai-man 2018; _cites Pani 2003_ | Table 1, p. 3, row 16; `ORC-6U6CHXD4BU` |  |
+| 1858 | peritectic: Liq+Yb5Ge4 -> Yb5Ge3 | L: Ge 0.374; Yb5Ge4: Ge 0.4444; Yb5Ge3: Ge 0.375 | experimental | [1] Dai-man 2018; _cites Okamoto 2005_ | Table 1, p. 3, row 17; `ORC-GRXURM75QG` |  |
+| 1858 | peritectic |  | experimental | [1] Dai-man 2018; _cites Pani 2003_ | p. 3; `ORC-RRE5D3LRW3.412405` | “The compounds Yb3Ge8, Yb3Ge5, Yb11Ge10, Yb5Ge3 and Yb2Ge are formed by the peritectic reactions at 1138, 1348, 1773, 1858 and 1478 K, respectively.” |
+| 1858 | peritectic: Liq+Yb5Ge4 -> Yb5Ge3 | L: Ge 0.374; Yb5Ge4: Ge 0.4444; Yb5Ge3: Ge 0.375 | model | [1] Dai-man 2018 | Table 1, p. 3, row 18; `ORC-USXALC4TVN` |  |
+| 1854.15 | peritectic: Yb5Ge3 -> L + Yb5Ge4 |  | model | [2] Achgar 2018 | Table 5, p. 8, row 15; `ORC-BBCJ2ZBNLT` |  |
+| 1845.15 | peritectic: Yb5Ge3 -> L + Yb5Ge4 |  | model | [2] Achgar 2018 | Table 5, p. 8, row 14; `ORC-3IHFAGOZIS` |  |
+| 1778.15 | peritectic: Yb11Ge10 -> L + Yb5Ge4 |  | model | [2] Achgar 2018 | Table 5, p. 8, row 21; `ORC-FX2K5RCUBV` |  |
+| 1775.15 | peritectic: Yb11Ge10 -> L + Yb5Ge4 |  | model | [2] Achgar 2018 | Table 5, p. 8, row 20; `ORC-NKHYSSLDCV` |  |
+| 1773.15 | peritectic: Yb11Ge10 -> L + Yb5Ge4 |  | experimental | [2] Achgar 2018; _cites Pani 2003_ | Table 5, p. 8, row 19; `ORC-7SKIQK3FSX` |  |
+| 1773 | peritectic: Liq+Yb5Ge4 -> Yb11Ge10 | L: Ge 0.53; Yb5Ge4: Ge 0.4444; Yb11Ge10: Ge 0.4762 | experimental | [1] Dai-man 2018; _cites Okamoto 2005_ | Table 1, p. 3, row 11; `ORC-6A3SR3SG3W` |  |
+| 1773 | peritectic: Liq+Yb5Ge4 -> Yb11Ge10 | L: Ge 0.5511; Yb5Ge4: Ge 0.4444; Yb11Ge10: Ge 0.4762 | model | [1] Dai-man 2018 | Table 1, p. 3, row 12; `ORC-ANOX2OZGTN` |  |
+| 1773 | peritectic: Liq+Yb5Ge4 -> Yb11Ge10 | L: Ge 0.53; Yb5Ge4: Ge 0.4444; Yb11Ge10: Ge 0.4762 | experimental | [1] Dai-man 2018; _cites Pani 2003_ | Table 1, p. 3, row 10; `ORC-FM5ARABZ7K` |  |
+| 1773 | peritectic |  | experimental | [1] Dai-man 2018; _cites Pani 2003_ | p. 3; `ORC-RRE5D3LRW3.4ae046` | “The compounds Yb3Ge8, Yb3Ge5, Yb11Ge10, Yb5Ge3 and Yb2Ge are formed by the peritectic reactions at 1138, 1348, 1773, 1858 and 1478 K, respectively.” |
+| 1480.15 | peritectic: Yb2Ge -> L + Yb5Ge3 |  | model | [2] Achgar 2018 | Table 5, p. 8, row 11; `ORC-BTDZO6RDQ5` |  |
+| 1478.15 | peritectic: Yb2Ge -> L + Yb5Ge3 |  | experimental | [2] Achgar 2018; _cites Pani 2003_ | Table 5, p. 8, row 10; `ORC-OOQFXTJQZU` |  |
+| 1478 | peritectic: Liq+Yb5Ge3 -> Yb2Ge | L: Ge 0.2; Yb5Ge3: Ge 0.375; Yb2Ge: Ge 0.3333 | experimental | [1] Dai-man 2018; _cites Pani 2003_ | Table 1, p. 3, row 19; `ORC-EZNCG77NGM` |  |
+| 1478 | peritectic: Liq+Yb5Ge3 -> Yb2Ge | L: Ge 0.1659; Yb5Ge3: Ge 0.375; Yb2Ge: Ge 0.3333 | model | [1] Dai-man 2018 | Table 1, p. 3, row 21; `ORC-J6EWOTDPQD` |  |
+| 1478 | peritectic |  | experimental | [1] Dai-man 2018; _cites Pani 2003_ | p. 3; `ORC-RRE5D3LRW3.01fe29` | “The compounds Yb3Ge8, Yb3Ge5, Yb11Ge10, Yb5Ge3 and Yb2Ge are formed by the peritectic reactions at 1138, 1348, 1773, 1858 and 1478 K, respectively.” |
+| 1478 | peritectic: Liq+Yb5Ge3 -> Yb2Ge | L: Ge 0.2; Yb5Ge3: Ge 0.375; Yb2Ge: Ge 0.3333 | experimental | [1] Dai-man 2018; _cites Okamoto 2005_ | Table 1, p. 3, row 20; `ORC-X2T47UP6R6` |  |
+| 1476.15 | peritectic: Yb2Ge -> L + Yb5Ge3 |  | model | [2] Achgar 2018 | Table 5, p. 8, row 12; `ORC-YXA3CRYGX2` |  |
+| 1351.15 | peritectic: Yb3Ge5 -> L + Yb11Ge10 |  | model | [2] Achgar 2018 | Table 5, p. 8, row 23; `ORC-EQC32GRBZH` |  |
+| 1348.15 | peritectic: Yb3Ge5 -> L + Yb11Ge10 |  | experimental | [2] Achgar 2018; _cites Pani 2003_ | Table 5, p. 8, row 22; `ORC-JT2CNM5G3Z` |  |
+| 1348 | peritectic: Liq+Yb11Ge10 -> Yb3Ge5 | L: Ge 0.6717; Yb11Ge10: Ge 0.4762; Yb3Ge5: Ge 0.625 | model | [1] Dai-man 2018 | Table 1, p. 3, row 9; `ORC-4LL3PKKNBK` |  |
+| 1348 | peritectic: Liq+Yb11Ge10 -> Yb3Ge5 | L: Ge 0.63; Yb11Ge10: Ge 0.4762; Yb3Ge5: Ge 0.625 | experimental | [1] Dai-man 2018; _cites Pani 2003_ | Table 1, p. 3, row 7; `ORC-A4BEATAL5L` |  |
+| 1348 | peritectic: Liq+Yb11Ge10 -> Yb3Ge5 | L: Ge 0.63; Yb11Ge10: Ge 0.4762; Yb3Ge5: Ge 0.625 | experimental | [1] Dai-man 2018; _cites Okamoto 2005_ | Table 1, p. 3, row 8; `ORC-AIENF3U4P2` |  |
+| 1348 | peritectic |  | experimental | [1] Dai-man 2018; _cites Pani 2003_ | p. 3; `ORC-RRE5D3LRW3.1ac0fe` | “The compounds Yb3Ge8, Yb3Ge5, Yb11Ge10, Yb5Ge3 and Yb2Ge are formed by the peritectic reactions at 1138, 1348, 1773, 1858 and 1478 K, respectively.” |
+| 1342.15 | peritectic: Yb3Ge5 -> L + Yb11Ge10 |  | model | [2] Achgar 2018 | Table 5, p. 8, row 24; `ORC-77XUOKWWHX` |  |
+| 1139.15 | peritectic: Yb3Ge8 -> L + Yb3Ge5 |  | model | [2] Achgar 2018 | Table 5, p. 8, row 26; `ORC-NURYNXM4D3` |  |
+| 1138.15 | peritectic: Yb3Ge8 -> L + Yb3Ge5 |  | experimental | [2] Achgar 2018; _cites Pani 2003_ | Table 5, p. 8, row 25; `ORC-N2HVOUMP7I` |  |
+| 1138 | peritectic: Liq+Yb3Ge5 -> Yb3Ge8 | L: Ge 0.73; Yb3Ge5: Ge 0.625; Yb3Ge8: Ge 0.7273 | experimental | [1] Dai-man 2018; _cites Okamoto 2005_ | Table 1, p. 3, row 5; `ORC-43MQ53KFJJ` |  |
+| 1138 | peritectic: Liq+Yb3Ge5 -> Yb3Ge8 | L: Ge 0.73; Yb3Ge5: Ge 0.625; Yb3Ge8: Ge 0.7273 | experimental | [1] Dai-man 2018; _cites Pani 2003_ | Table 1, p. 3, row 4; `ORC-ORSWGTPSZZ` |  |
+| 1138 | peritectic |  | experimental | [1] Dai-man 2018; _cites Pani 2003_ | p. 3; `ORC-RRE5D3LRW3.e9ad84` | “The compounds Yb3Ge8, Yb3Ge5, Yb11Ge10, Yb5Ge3 and Yb2Ge are formed by the peritectic reactions at 1138, 1348, 1773, 1858 and 1478 K, respectively.” |
+| 1138 | peritectic: Liq+Yb3Ge5 -> Yb3Ge8 | L: Ge 0.7592; Yb3Ge5: Ge 0.625; Yb3Ge8: Ge 0.7273 | model | [1] Dai-man 2018 | Table 1, p. 3, row 6; `ORC-UQVSMBL5AR` |  |
+| 1131.15 | peritectic: Yb3Ge8 -> L + Yb3Ge5 |  | model | [2] Achgar 2018 | Table 5, p. 8, row 27; `ORC-5JTKNVPCJJ` |  |
+| 1087.15 | eutectic: L -> γLa + Yb2Ge |  | model | [2] Achgar 2018 | Table 5, p. 8, row 8; `ORC-PPDVNZJVWH` |  |
+| 1086.15 | eutectic: L -> γLa + Yb2Ge |  | model | [2] Achgar 2018 | Table 5, p. 8, row 9; `ORC-6Q5EJ57L2M` |  |
+| 1083.15 | eutectic: L -> γLa + Yb2Ge |  | experimental | [2] Achgar 2018; _cites Pani 2003_ | Table 5, p. 8, row 7; `ORC-6WPZUYIPT4` |  |
+| 1083.15 | eutectic |  | experimental | [2] Achgar 2018 | p. 3; `ORC-JMF67KSM4G` | “Ytterbium results in eutectic reaction among liquid, Yb (bcc_A2), and Yb2Ge at 810 C and \\1 at.% Ge.” |
+| 1083 | eutectic: Liq -> Yb2Ge + Fcc_A1 | L: Ge 0.0024; Yb2Ge: Ge 0.3333; Fcc_A1: Ge 0 | experimental | [1] Dai-man 2018; _cites Pani 2003_ | Table 1, p. 3, row 22; `ORC-4UZVLNPCNP` |  |
+| 1083 | eutectic: Liq $ Yb2Ge CBcc_A2(Yb) |  | experimental | [1] Dai-man 2018 | p. 3; `ORC-7MO7NP3TOT.1fbfd6` | “Two eutectic transformations are defined, Liq$Diamond_A4(Ge)C Yb3Ge8 at 1003 K and » 2.1 at.% Yb, and Liq $ Yb2Ge CBcc_A2(Yb) at 1083 K and more than 99.0 at.% Yb.” |
+| 1083 | eutectic: Liq -> Yb2Ge + Fcc_A1 | L: Ge 0.0024; Yb2Ge: Ge 0.3333; Fcc_A1: Ge 0 | experimental | [1] Dai-man 2018; _cites Okamoto 2005_ | Table 1, p. 3, row 23; `ORC-LFQFZQ5QBQ` |  |
+| 1083 | eutectic: Liq -> Yb2Ge + Fcc_A1 | L: Ge 0.0114; Yb2Ge: Ge 0.3333; Fcc_A1: Ge 0 | model | [1] Dai-man 2018 | Table 1, p. 3, row 24; `ORC-OV6MZCRBUN` |  |
+| 1014.15 | eutectic: L -> Yb3Ge8 + Ge |  | model | [2] Achgar 2018 | Table 5, p. 8, row 30; `ORC-MBW75ZEZ3S` |  |
+| 1007.15 | eutectic: L -> Yb3Ge8 + Ge |  | model | [2] Achgar 2018 | Table 5, p. 8, row 29; `ORC-ZFXN42BF5L` |  |
+| 1003.15 | eutectic: L -> Yb3Ge8 + Ge |  | experimental | [2] Achgar 2018; _cites Pani 2003_ | Table 5, p. 8, row 28; `ORC-FTOWUAQS2I` |  |
+| 1003.15 | eutectic |  | experimental | [2] Achgar 2018; _cites Eremenko 1983_ | p. 3; `ORC-TXP7BLLYXR` | “In Gerich part, the addition of Ytterbium to Germanium results in a eutectic reaction among liquid, Yb3Ge8, and Ge (diamond_A4) at 730 C and about 80 at.% Ge, in accordance with Eremenko \[15\].” |
+| 1003 | eutectic: Liq -> (Ge)+Yb3Ge8 | L: Ge 0.8411; (Ge): Ge 1; Yb3Ge8: Ge 0.7273 | model | [1] Dai-man 2018 | Table 1, p. 3, row 3; `ORC-4AHYPZ23Z4` |  |
+| 1003 | eutectic: Liq$Diamond_A4(Ge)C Yb3Ge8 |  | experimental | [1] Dai-man 2018 | p. 3; `ORC-7MO7NP3TOT.d7ef39` | “Two eutectic transformations are defined, Liq$Diamond_A4(Ge)C Yb3Ge8 at 1003 K and » 2.1 at.% Yb, and Liq $ Yb2Ge CBcc_A2(Yb) at 1083 K and more than 99.0 at.% Yb.” |
+| 1003 | eutectic: Liq -> (Ge)+Yb3Ge8 | L: Ge 0.81; (Ge): Ge 1; Yb3Ge8: Ge 0.7273 | experimental | [1] Dai-man 2018; _cites Okamoto 2005_ | Table 1, p. 3, row 2; `ORC-JWV3AJQDXF` |  |
+| 1003 | eutectic: Liq -> (Ge)+Yb3Ge8 | L: Ge 0.81; (Ge): Ge 1; Yb3Ge8: Ge 0.7273 | experimental | [1] Dai-man 2018; _cites Pani 2003_ | Table 1, p. 3, row 1; `ORC-XTIMVM73B3` |  |
 
 ## Formation enthalpies
 
@@ -152,48 +152,48 @@ Table: Enthalpies of formation, Ge–Yb system (42)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Yb11Ge10 |  | -77.85 kJ/mol-atom | 298.15 | model |  |  | [1] Dai-man 2018 | Table 2, p. 4, row 13 |  |
-| Yb11Ge10 |  | -70.319 kJ/mol-atom |  | model |  |  | [2] Achgar 2018 | Table 2, p. 5, row 12 |  |
-| Yb11Ge10 |  | -69.9 kJ/mol-atom ± 8.2 | 298.15 | experimental |  |  | [2] Achgar 2018; _cites Balducci 2007_ [doi](https://doi.org/10.1021/jp067889b) | Table 2, p. 5, row 11 |  |
-| Yb11Ge10 |  | -69.9 kJ/mol-atom ± 8.2 | 298.15 | experimental |  |  | [1] Dai-man 2018; _cites Balducci 2007_ | Table 2, p. 4, row 11 |  |
-| Yb11Ge10 |  | -69.8555 kJ/mol-atom |  | model |  |  | [2] Achgar 2018 | Table 2, p. 5, row 13 |  |
-| Yb11Ge10 |  | -63.4 kJ/mol-atom | 0 | DFT |  |  | [1] Dai-man 2018; _cites Saal 2013_ | Table 2, p. 4, row 12 |  |
-| Yb2Ge | [GeYb2](https://data.orchid-project.org/compounds/GeYb2.html) | -66.7 kJ/mol-atom | 298.15 | model |  | -65.114 (oqmd-16528) | [1] Dai-man 2018 | Table 2, p. 4, row 3 |  |
-| Yb2Ge | [GeYb2](https://data.orchid-project.org/compounds/GeYb2.html) | -66.303 kJ/mol-atom |  | model |  | -65.114 (oqmd-16528) | [2] Achgar 2018 | Table 2, p. 5, row 3 |  |
-| Yb2Ge | [GeYb2](https://data.orchid-project.org/compounds/GeYb2.html) | -66.2 kJ/mol-atom ± 8.3 | 298.15 | experimental |  | -65.114 (oqmd-16528) | [1] Dai-man 2018; _cites Balducci 2007_ | Table 2, p. 4, row 1 |  |
-| Yb2Ge | [GeYb2](https://data.orchid-project.org/compounds/GeYb2.html) | -66.2 kJ/mol-atom ± 8.3 | 298.15 | experimental |  | -65.114 (oqmd-16528) | [2] Achgar 2018; _cites Balducci 2007_ [doi](https://doi.org/10.1021/jp067889b) | Table 2, p. 5, row 1 |  |
-| Yb2Ge |  | -65.1 kJ/mol-atom | 0 | DFT |  |  | [1] Dai-man 2018; _cites Saal 2013_ | Table 2, p. 4, row 2 |  |
-| Yb2Ge | [GeYb2](https://data.orchid-project.org/compounds/GeYb2.html) | -63.856 kJ/mol-atom |  | model |  | -65.114 (oqmd-16528) | [2] Achgar 2018 | Table 2, p. 5, row 2 |  |
-| Yb3Ge5 | [Ge5Yb3](https://data.orchid-project.org/compounds/Ge5Yb3.html) | -63 kJ/mol-atom |  | model |  | -58.344 (oqmd-1823083) | [2] Achgar 2018; _cites De 1988_ | Table 2, p. 5, row 15 |  |
-| Yb3Ge5 | [Ge5Yb3](https://data.orchid-project.org/compounds/Ge5Yb3.html) | -63 kJ/mol-atom | 298.15 | model |  | -58.344 (oqmd-1823083) | [1] Dai-man 2018; _cites Grytsiv 2002_ | Table 2, p. 4, row 16 |  |
-| Yb3Ge5 | [Ge5Yb3](https://data.orchid-project.org/compounds/Ge5Yb3.html) | -60.952 kJ/mol-atom |  | model |  | -58.344 (oqmd-1823083) | [2] Achgar 2018 | Table 2, p. 5, row 17 |  |
-| Yb3Ge5 | [Ge5Yb3](https://data.orchid-project.org/compounds/Ge5Yb3.html) | -59.3 kJ/mol-atom | 298.15 | model |  | -58.344 (oqmd-1823083) | [1] Dai-man 2018 | Table 2, p. 4, row 18 |  |
-| Yb3Ge5 | [Ge5Yb3](https://data.orchid-project.org/compounds/Ge5Yb3.html) | -56.426 kJ/mol-atom |  | model |  | -58.344 (oqmd-1823083) | [2] Achgar 2018 | Table 2, p. 5, row 18 |  |
-| Yb3Ge5 |  | -56.1 kJ/mol-atom | 0 | DFT |  |  | [1] Dai-man 2018; _cites Saal 2013_ | Table 2, p. 4, row 17 |  |
-| Yb3Ge5 |  | -55.9 kJ/mol-atom ± 6.2 |  | DFT |  |  | [2] Achgar 2018; _cites Balducci 2007_ [doi](https://doi.org/10.1021/jp067889b) | Table 2, p. 5, row 16 |  |
-| Yb3Ge5 |  | -55.9 kJ/mol-atom ± 6.2 | 298.15 | DFT |  |  | [1] Dai-man 2018; _cites Balducci 2007_ | Table 2, p. 4, row 15 |  |
-| Yb3Ge5 | [Ge5Yb3](https://data.orchid-project.org/compounds/Ge5Yb3.html) | -49.8 kJ/mol-atom ± 13.2 | 298.15 | experimental |  | -58.344 (oqmd-1823083) | [2] Achgar 2018; _cites Balducci 2007_ [doi](https://doi.org/10.1021/jp067889b) | Table 2, p. 5, row 14 |  |
-| Yb3Ge5 | [Ge5Yb3](https://data.orchid-project.org/compounds/Ge5Yb3.html) | -49.8 kJ/mol-atom ± 13.2 | 298.15 | experimental |  | -58.344 (oqmd-1823083) | [1] Dai-man 2018; _cites Balducci 2007_ | Table 2, p. 4, row 14 |  |
-| Yb3Ge8 | [Ge8Yb3](https://data.orchid-project.org/compounds/Ge8Yb3.html) | -48.5 kJ/mol-atom | 298.15 | model |  | -41.374 (oqmd-16641) | [1] Dai-man 2018; _cites Pani 2003_ | Table 2, p. 4, row 19 |  |
-| Yb3Ge8 | [Ge8Yb3](https://data.orchid-project.org/compounds/Ge8Yb3.html) | -48.5 kJ/mol-atom |  | model |  | -41.374 (oqmd-16641) | [2] Achgar 2018; _cites De 1988_ | Table 2, p. 5, row 19 |  |
-| Yb3Ge8 | [Ge8Yb3](https://data.orchid-project.org/compounds/Ge8Yb3.html) | -47.941 kJ/mol-atom |  | model |  | -41.374 (oqmd-16641) | [2] Achgar 2018 | Table 2, p. 5, row 20 |  |
-| Yb3Ge8 | [Ge8Yb3](https://data.orchid-project.org/compounds/Ge8Yb3.html) | -45.05 kJ/mol-atom | 298.15 | model |  | -41.374 (oqmd-16641) | [1] Dai-man 2018 | Table 2, p. 4, row 21 |  |
-| Yb3Ge8 | [Ge8Yb3](https://data.orchid-project.org/compounds/Ge8Yb3.html) | -44.343 kJ/mol-atom |  | model |  | -41.374 (oqmd-16641) | [2] Achgar 2018 | Table 2, p. 5, row 21 |  |
-| Yb3Ge8 |  | -40.8 kJ/mol-atom | 0 | DFT |  |  | [1] Dai-man 2018; _cites Saal 2013_ | Table 2, p. 4, row 20 |  |
-| Yb5Ge3 | [Ge3Yb5](https://data.orchid-project.org/compounds/Ge3Yb5.html) | -72.5 kJ/mol-atom | 298.15 | model |  | -65.764 (oqmd-1437177) | [1] Dai-man 2018 | Table 2, p. 4, row 6 |  |
-| Yb5Ge3 | [Ge3Yb5](https://data.orchid-project.org/compounds/Ge3Yb5.html) | -69.7 kJ/mol-atom ± 8.2 | 298.15 | experimental |  | -65.764 (oqmd-1437177) | [2] Achgar 2018; _cites Balducci 2007_ [doi](https://doi.org/10.1021/jp067889b) | Table 2, p. 5, row 4 |  |
-| Yb5Ge3 | [Ge3Yb5](https://data.orchid-project.org/compounds/Ge3Yb5.html) | -69.2 kJ/mol-atom ± 8.2 | 298.15 | experimental |  | -65.764 (oqmd-1437177) | [1] Dai-man 2018; _cites Balducci 2007_ | Table 2, p. 4, row 4 |  |
-| Yb5Ge3 | [Ge3Yb5](https://data.orchid-project.org/compounds/Ge3Yb5.html) | -69.1 kJ/mol-atom |  | model |  | -65.764 (oqmd-1437177) | [2] Achgar 2018 | Table 2, p. 5, row 5 |  |
-| Yb5Ge3 | [Ge3Yb5](https://data.orchid-project.org/compounds/Ge3Yb5.html) | -68.649 kJ/mol-atom |  | model |  | -65.764 (oqmd-1437177) | [2] Achgar 2018 | Table 2, p. 5, row 6 |  |
-| Yb5Ge3 |  | -65 kJ/mol-atom | 0 | DFT |  |  | [1] Dai-man 2018; _cites Saal 2013_ | Table 2, p. 4, row 5 |  |
-| Yb5Ge4 | [Ge4Yb5](https://data.orchid-project.org/compounds/Ge4Yb5.html) | -81.82 kJ/mol-atom | 298.15 | model |  | -65.153 (oqmd-19745) | [1] Dai-man 2018 | Table 2, p. 4, row 10 |  |
-| Yb5Ge4 | [Ge4Yb5](https://data.orchid-project.org/compounds/Ge4Yb5.html) | -73.8 kJ/mol-atom ± 8.2 | 298.15 | experimental |  | -65.153 (oqmd-19745) | [1] Dai-man 2018; _cites Balducci 2007_ | Table 2, p. 4, row 7 |  |
-| Yb5Ge4 | [Ge4Yb5](https://data.orchid-project.org/compounds/Ge4Yb5.html) | -73.8 kJ/mol-atom ± 8.2 | 298.15 | experimental |  | -65.153 (oqmd-19745) | [2] Achgar 2018; _cites Balducci 2007_ [doi](https://doi.org/10.1021/jp067889b) | Table 2, p. 5, row 7 |  |
-| Yb5Ge4 | [Ge4Yb5](https://data.orchid-project.org/compounds/Ge4Yb5.html) | -72.846 kJ/mol-atom |  | model |  | -65.153 (oqmd-19745) | [2] Achgar 2018 | Table 2, p. 5, row 10 |  |
-| Yb5Ge4 | [Ge4Yb5](https://data.orchid-project.org/compounds/Ge4Yb5.html) | -71.836 kJ/mol-atom |  | model |  | -65.153 (oqmd-19745) | [2] Achgar 2018 | Table 2, p. 5, row 9 |  |
-| Yb5Ge4 |  | -64.9 kJ/mol-atom | 0 | DFT |  |  | [1] Dai-man 2018; _cites Saal 2013_ | Table 2, p. 4, row 9 |  |
-| Yb5Ge4 | [Ge4Yb5](https://data.orchid-project.org/compounds/Ge4Yb5.html) | -58.6 kJ/mol-atom |  | model |  | -65.153 (oqmd-19745) | [2] Achgar 2018; _cites De 1988_ | Table 2, p. 5, row 8 |  |
-| Yb5Ge4 | [Ge4Yb5](https://data.orchid-project.org/compounds/Ge4Yb5.html) | -58.6 kJ/mol-atom | 298.15 | model |  | -65.153 (oqmd-19745) | [1] Dai-man 2018; _cites Ahn 2005_ | Table 2, p. 4, row 8 |  |
+| Yb11Ge10 |  | -77.85 kJ/mol-atom | 298.15 | model |  |  | [1] Dai-man 2018 | Table 2, p. 4, row 13; `ORC-I6MA3INU2I` |  |
+| Yb11Ge10 |  | -70.319 kJ/mol-atom |  | model |  |  | [2] Achgar 2018 | Table 2, p. 5, row 12; `ORC-2UJZTYBXZ7.ae2ed7` |  |
+| Yb11Ge10 |  | -69.9 kJ/mol-atom ± 8.2 | 298.15 | experimental |  |  | [2] Achgar 2018; _cites Balducci 2007_ [doi](https://doi.org/10.1021/jp067889b) | Table 2, p. 5, row 11; `ORC-AOQLXHO2JQ.fa4a3c` |  |
+| Yb11Ge10 |  | -69.9 kJ/mol-atom ± 8.2 | 298.15 | experimental |  |  | [1] Dai-man 2018; _cites Balducci 2007_ | Table 2, p. 4, row 11; `ORC-K4I4THRPCM` |  |
+| Yb11Ge10 |  | -69.8555 kJ/mol-atom |  | model |  |  | [2] Achgar 2018 | Table 2, p. 5, row 13; `ORC-BVI2OW5RQF.4eaa45` |  |
+| Yb11Ge10 |  | -63.4 kJ/mol-atom | 0 | DFT |  |  | [1] Dai-man 2018; _cites Saal 2013_ | Table 2, p. 4, row 12; `ORC-YVQ53LDU5G` |  |
+| Yb2Ge | [GeYb2](https://data.orchid-project.org/compounds/GeYb2.html) | -66.7 kJ/mol-atom | 298.15 | model |  | -65.114 (oqmd-16528) | [1] Dai-man 2018 | Table 2, p. 4, row 3; `ORC-XAFNCCMFSP` |  |
+| Yb2Ge | [GeYb2](https://data.orchid-project.org/compounds/GeYb2.html) | -66.303 kJ/mol-atom |  | model |  | -65.114 (oqmd-16528) | [2] Achgar 2018 | Table 2, p. 5, row 3; `ORC-6ESSSYCKCJ.5a3eb8` |  |
+| Yb2Ge | [GeYb2](https://data.orchid-project.org/compounds/GeYb2.html) | -66.2 kJ/mol-atom ± 8.3 | 298.15 | experimental |  | -65.114 (oqmd-16528) | [1] Dai-man 2018; _cites Balducci 2007_ | Table 2, p. 4, row 1; `ORC-GV3KZ4CV2G` |  |
+| Yb2Ge | [GeYb2](https://data.orchid-project.org/compounds/GeYb2.html) | -66.2 kJ/mol-atom ± 8.3 | 298.15 | experimental |  | -65.114 (oqmd-16528) | [2] Achgar 2018; _cites Balducci 2007_ [doi](https://doi.org/10.1021/jp067889b) | Table 2, p. 5, row 1; `ORC-SGAPKOXRUO` |  |
+| Yb2Ge |  | -65.1 kJ/mol-atom | 0 | DFT |  |  | [1] Dai-man 2018; _cites Saal 2013_ | Table 2, p. 4, row 2; `ORC-QF55XZKEHS` |  |
+| Yb2Ge | [GeYb2](https://data.orchid-project.org/compounds/GeYb2.html) | -63.856 kJ/mol-atom |  | model |  | -65.114 (oqmd-16528) | [2] Achgar 2018 | Table 2, p. 5, row 2; `ORC-FABFMWAB75.6bfb4a` |  |
+| Yb3Ge5 | [Ge5Yb3](https://data.orchid-project.org/compounds/Ge5Yb3.html) | -63 kJ/mol-atom |  | model |  | -58.344 (oqmd-1823083) | [2] Achgar 2018; _cites De 1988_ | Table 2, p. 5, row 15; `ORC-3ZHRHMJZVW` |  |
+| Yb3Ge5 | [Ge5Yb3](https://data.orchid-project.org/compounds/Ge5Yb3.html) | -63 kJ/mol-atom | 298.15 | model |  | -58.344 (oqmd-1823083) | [1] Dai-man 2018; _cites Grytsiv 2002_ | Table 2, p. 4, row 16; `ORC-U5LO4Z2I6O` |  |
+| Yb3Ge5 | [Ge5Yb3](https://data.orchid-project.org/compounds/Ge5Yb3.html) | -60.952 kJ/mol-atom |  | model |  | -58.344 (oqmd-1823083) | [2] Achgar 2018 | Table 2, p. 5, row 17; `ORC-SZGKVYB6RI.267e11` |  |
+| Yb3Ge5 | [Ge5Yb3](https://data.orchid-project.org/compounds/Ge5Yb3.html) | -59.3 kJ/mol-atom | 298.15 | model |  | -58.344 (oqmd-1823083) | [1] Dai-man 2018 | Table 2, p. 4, row 18; `ORC-VISY2BQ3ZD` |  |
+| Yb3Ge5 | [Ge5Yb3](https://data.orchid-project.org/compounds/Ge5Yb3.html) | -56.426 kJ/mol-atom |  | model |  | -58.344 (oqmd-1823083) | [2] Achgar 2018 | Table 2, p. 5, row 18; `ORC-YWOCE4R4D2.7426f6` |  |
+| Yb3Ge5 |  | -56.1 kJ/mol-atom | 0 | DFT |  |  | [1] Dai-man 2018; _cites Saal 2013_ | Table 2, p. 4, row 17; `ORC-O7ITMLU2VE` |  |
+| Yb3Ge5 |  | -55.9 kJ/mol-atom ± 6.2 |  | DFT |  |  | [2] Achgar 2018; _cites Balducci 2007_ [doi](https://doi.org/10.1021/jp067889b) | Table 2, p. 5, row 16; `ORC-7PMCCOIOEW` |  |
+| Yb3Ge5 |  | -55.9 kJ/mol-atom ± 6.2 | 298.15 | DFT |  |  | [1] Dai-man 2018; _cites Balducci 2007_ | Table 2, p. 4, row 15; `ORC-GUHQFWSXLY` |  |
+| Yb3Ge5 | [Ge5Yb3](https://data.orchid-project.org/compounds/Ge5Yb3.html) | -49.8 kJ/mol-atom ± 13.2 | 298.15 | experimental |  | -58.344 (oqmd-1823083) | [2] Achgar 2018; _cites Balducci 2007_ [doi](https://doi.org/10.1021/jp067889b) | Table 2, p. 5, row 14; `ORC-I75IMBF5X7` |  |
+| Yb3Ge5 | [Ge5Yb3](https://data.orchid-project.org/compounds/Ge5Yb3.html) | -49.8 kJ/mol-atom ± 13.2 | 298.15 | experimental |  | -58.344 (oqmd-1823083) | [1] Dai-man 2018; _cites Balducci 2007_ | Table 2, p. 4, row 14; `ORC-VFRZDEMAC3` |  |
+| Yb3Ge8 | [Ge8Yb3](https://data.orchid-project.org/compounds/Ge8Yb3.html) | -48.5 kJ/mol-atom | 298.15 | model |  | -41.374 (oqmd-16641) | [1] Dai-man 2018; _cites Pani 2003_ | Table 2, p. 4, row 19; `ORC-ALWW335SN6` |  |
+| Yb3Ge8 | [Ge8Yb3](https://data.orchid-project.org/compounds/Ge8Yb3.html) | -48.5 kJ/mol-atom |  | model |  | -41.374 (oqmd-16641) | [2] Achgar 2018; _cites De 1988_ | Table 2, p. 5, row 19; `ORC-VJMJGM7DLP` |  |
+| Yb3Ge8 | [Ge8Yb3](https://data.orchid-project.org/compounds/Ge8Yb3.html) | -47.941 kJ/mol-atom |  | model |  | -41.374 (oqmd-16641) | [2] Achgar 2018 | Table 2, p. 5, row 20; `ORC-VVJUPUOTVW.2870f9` |  |
+| Yb3Ge8 | [Ge8Yb3](https://data.orchid-project.org/compounds/Ge8Yb3.html) | -45.05 kJ/mol-atom | 298.15 | model |  | -41.374 (oqmd-16641) | [1] Dai-man 2018 | Table 2, p. 4, row 21; `ORC-EAIXYJGORE` |  |
+| Yb3Ge8 | [Ge8Yb3](https://data.orchid-project.org/compounds/Ge8Yb3.html) | -44.343 kJ/mol-atom |  | model |  | -41.374 (oqmd-16641) | [2] Achgar 2018 | Table 2, p. 5, row 21; `ORC-EZDYQ453SJ.ee2a13` |  |
+| Yb3Ge8 |  | -40.8 kJ/mol-atom | 0 | DFT |  |  | [1] Dai-man 2018; _cites Saal 2013_ | Table 2, p. 4, row 20; `ORC-A43PZ3R4WW` |  |
+| Yb5Ge3 | [Ge3Yb5](https://data.orchid-project.org/compounds/Ge3Yb5.html) | -72.5 kJ/mol-atom | 298.15 | model |  | -65.764 (oqmd-1437177) | [1] Dai-man 2018 | Table 2, p. 4, row 6; `ORC-DIB3DVEGSW` |  |
+| Yb5Ge3 | [Ge3Yb5](https://data.orchid-project.org/compounds/Ge3Yb5.html) | -69.7 kJ/mol-atom ± 8.2 | 298.15 | experimental |  | -65.764 (oqmd-1437177) | [2] Achgar 2018; _cites Balducci 2007_ [doi](https://doi.org/10.1021/jp067889b) | Table 2, p. 5, row 4; `ORC-ZOZY6TBSOM` |  |
+| Yb5Ge3 | [Ge3Yb5](https://data.orchid-project.org/compounds/Ge3Yb5.html) | -69.2 kJ/mol-atom ± 8.2 | 298.15 | experimental |  | -65.764 (oqmd-1437177) | [1] Dai-man 2018; _cites Balducci 2007_ | Table 2, p. 4, row 4; `ORC-YRMCPUWPVB` |  |
+| Yb5Ge3 | [Ge3Yb5](https://data.orchid-project.org/compounds/Ge3Yb5.html) | -69.1 kJ/mol-atom |  | model |  | -65.764 (oqmd-1437177) | [2] Achgar 2018 | Table 2, p. 5, row 5; `ORC-SBQNRQQTKH.e7611b` |  |
+| Yb5Ge3 | [Ge3Yb5](https://data.orchid-project.org/compounds/Ge3Yb5.html) | -68.649 kJ/mol-atom |  | model |  | -65.764 (oqmd-1437177) | [2] Achgar 2018 | Table 2, p. 5, row 6; `ORC-JTDZZMMD7H.36bf55` |  |
+| Yb5Ge3 |  | -65 kJ/mol-atom | 0 | DFT |  |  | [1] Dai-man 2018; _cites Saal 2013_ | Table 2, p. 4, row 5; `ORC-JJJK3765H4` |  |
+| Yb5Ge4 | [Ge4Yb5](https://data.orchid-project.org/compounds/Ge4Yb5.html) | -81.82 kJ/mol-atom | 298.15 | model |  | -65.153 (oqmd-19745) | [1] Dai-man 2018 | Table 2, p. 4, row 10; `ORC-SK7IN7PMBZ` |  |
+| Yb5Ge4 | [Ge4Yb5](https://data.orchid-project.org/compounds/Ge4Yb5.html) | -73.8 kJ/mol-atom ± 8.2 | 298.15 | experimental |  | -65.153 (oqmd-19745) | [1] Dai-man 2018; _cites Balducci 2007_ | Table 2, p. 4, row 7; `ORC-M77IKRCWQJ` |  |
+| Yb5Ge4 | [Ge4Yb5](https://data.orchid-project.org/compounds/Ge4Yb5.html) | -73.8 kJ/mol-atom ± 8.2 | 298.15 | experimental |  | -65.153 (oqmd-19745) | [2] Achgar 2018; _cites Balducci 2007_ [doi](https://doi.org/10.1021/jp067889b) | Table 2, p. 5, row 7; `ORC-T4TQPD47SX.471b0d` |  |
+| Yb5Ge4 | [Ge4Yb5](https://data.orchid-project.org/compounds/Ge4Yb5.html) | -72.846 kJ/mol-atom |  | model |  | -65.153 (oqmd-19745) | [2] Achgar 2018 | Table 2, p. 5, row 10; `ORC-4VU4ZFVYJM.6953ee` |  |
+| Yb5Ge4 | [Ge4Yb5](https://data.orchid-project.org/compounds/Ge4Yb5.html) | -71.836 kJ/mol-atom |  | model |  | -65.153 (oqmd-19745) | [2] Achgar 2018 | Table 2, p. 5, row 9; `ORC-2WDZAOXITV.73aa75` |  |
+| Yb5Ge4 |  | -64.9 kJ/mol-atom | 0 | DFT |  |  | [1] Dai-man 2018; _cites Saal 2013_ | Table 2, p. 4, row 9; `ORC-LCAQMV4JMA` |  |
+| Yb5Ge4 | [Ge4Yb5](https://data.orchid-project.org/compounds/Ge4Yb5.html) | -58.6 kJ/mol-atom |  | model |  | -65.153 (oqmd-19745) | [2] Achgar 2018; _cites De 1988_ | Table 2, p. 5, row 8; `ORC-FYT7UYFY7E` |  |
+| Yb5Ge4 | [Ge4Yb5](https://data.orchid-project.org/compounds/Ge4Yb5.html) | -58.6 kJ/mol-atom | 298.15 | model |  | -65.153 (oqmd-19745) | [1] Dai-man 2018; _cites Ahn 2005_ | Table 2, p. 4, row 8; `ORC-IRDXU5Q4X4` |  |
 
 ## Other properties
 
@@ -203,16 +203,16 @@ Table: Phase transition, Ge–Yb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1093.15 K | 1093.15 | congruent melting: L -> γYb | model | [2] Achgar 2018 | Table 5, p. 8, row 3 |  |
-| Phase transition | 1093.15 K | 1093.15 | congruent melting: L -> γYb | model | [2] Achgar 2018 | Table 5, p. 8, row 2 |  |
-| Phase transition | 1093.15 K | 1093.15 | congruent melting: L -> γYb | experimental | [2] Achgar 2018; _cites Pani 2003_ | Table 5, p. 8, row 1 |  |
-| Phase transition | 1211.15 K | 1211.15 | congruent melting: L -> Ge | model | [2] Achgar 2018 | Table 5, p. 8, row 32 |  |
-| Phase transition | 1211.15 K | 1211.15 | congruent melting: L -> Ge | experimental | [2] Achgar 2018; _cites Pani 2003_ | Table 5, p. 8, row 31 |  |
-| Phase transition | 1211.15 K | 1211.15 | congruent melting: L -> Ge | model | [2] Achgar 2018 | Table 5, p. 8, row 33 |  |
-| Phase transition | 1913 K | 1913 | congruent melting | experimental | [1] Dai-man 2018; _cites Pani 2003_ | p. 3 | “In the work of Ref. \[17\], the Yb5Ge4 compound melts congruently at 1913 K.” |
-| Phase transition | 1913.15 K | 1913.15 | congruent melting: L -> Yb5Ge4 | experimental | [2] Achgar 2018; _cites Pani 2003_ | Table 5, p. 8, row 16 |  |
-| Phase transition | 1915.15 K | 1915.15 | congruent melting: L -> Yb5Ge4 | model | [2] Achgar 2018 | Table 5, p. 8, row 18 |  |
-| Phase transition | 1916.15 K | 1916.15 | congruent melting: L -> Yb5Ge4 | model | [2] Achgar 2018 | Table 5, p. 8, row 17 |  |
+| Phase transition | 1093.15 K | 1093.15 | congruent melting: L -> γYb | model | [2] Achgar 2018 | Table 5, p. 8, row 3; `ORC-BPJ44JQQXX` |  |
+| Phase transition | 1093.15 K | 1093.15 | congruent melting: L -> γYb | model | [2] Achgar 2018 | Table 5, p. 8, row 2; `ORC-MEM5A33VXL` |  |
+| Phase transition | 1093.15 K | 1093.15 | congruent melting: L -> γYb | experimental | [2] Achgar 2018; _cites Pani 2003_ | Table 5, p. 8, row 1; `ORC-NMQW5RSIYP` |  |
+| Phase transition | 1211.15 K | 1211.15 | congruent melting: L -> Ge | model | [2] Achgar 2018 | Table 5, p. 8, row 32; `ORC-BCSVWHFKVE` |  |
+| Phase transition | 1211.15 K | 1211.15 | congruent melting: L -> Ge | experimental | [2] Achgar 2018; _cites Pani 2003_ | Table 5, p. 8, row 31; `ORC-Z3DEGTHLTZ` |  |
+| Phase transition | 1211.15 K | 1211.15 | congruent melting: L -> Ge | model | [2] Achgar 2018 | Table 5, p. 8, row 33; `ORC-Z5COHKCSEK` |  |
+| Phase transition | 1913 K | 1913 | congruent melting | experimental | [1] Dai-man 2018; _cites Pani 2003_ | p. 3; `ORC-NFZYBOABVR` | “In the work of Ref. \[17\], the Yb5Ge4 compound melts congruently at 1913 K.” |
+| Phase transition | 1913.15 K | 1913.15 | congruent melting: L -> Yb5Ge4 | experimental | [2] Achgar 2018; _cites Pani 2003_ | Table 5, p. 8, row 16; `ORC-VLCKWOSSKH` |  |
+| Phase transition | 1915.15 K | 1915.15 | congruent melting: L -> Yb5Ge4 | model | [2] Achgar 2018 | Table 5, p. 8, row 18; `ORC-MVYM4G46QQ` |  |
+| Phase transition | 1916.15 K | 1916.15 | congruent melting: L -> Yb5Ge4 | model | [2] Achgar 2018 | Table 5, p. 8, row 17; `ORC-DOGSNT7O5P` |  |
 
 ### Formation (14)
 
@@ -220,20 +220,20 @@ Table: Formation, Ge–Yb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy of formation | -1.99 J/mol-atom/K |  | Yb11Ge10; _alloy: Ge 0.476, Yb 0.524_ | model | [2] Achgar 2018 | Table 2, p. 5, row 12 |  |
-| Entropy of formation | -3 J/mol-atom/K |  | Yb11Ge10; _alloy: Ge 0.476, Yb 0.524_ | model | [2] Achgar 2018 | Table 2, p. 5, row 13 |  |
-| Entropy of formation | -8 J/mol-atom/K |  | Yb2Ge; _alloy: Ge 0.333, Yb 0.667_ | model | [2] Achgar 2018 | Table 2, p. 5, row 3 |  |
-| Entropy of formation | -5.4 J/mol-atom/K |  | Yb2Ge; _alloy: Ge 0.333, Yb 0.667_ | model | [2] Achgar 2018 | Table 2, p. 5, row 2 |  |
-| Entropy of formation | -1.3 J/mol-atom/K |  | Yb3Ge5; _alloy: Ge 0.625, Yb 0.375_ | model | [2] Achgar 2018 | Table 2, p. 5, row 17 |  |
-| Entropy of formation | -0.13 J/mol-atom/K |  | Yb3Ge5; _alloy: Ge 0.625, Yb 0.375_ | model | [2] Achgar 2018 | Table 2, p. 5, row 18 |  |
-| Entropy of formation | -0.005 J/mol-atom/K |  | Yb3Ge8; _alloy: Ge 0.727, Yb 0.273_ | model | [2] Achgar 2018 | Table 2, p. 5, row 21 |  |
-| Entropy of formation | -0.84 J/mol-atom/K |  | Yb3Ge8; _alloy: Ge 0.727, Yb 0.273_ | model | [2] Achgar 2018 | Table 2, p. 5, row 20 |  |
-| Entropy of formation | -5.8 J/mol-atom/K |  | Yb5Ge3; _alloy: Ge 0.375, Yb 0.625_ | model | [2] Achgar 2018 | Table 2, p. 5, row 6 |  |
-| Entropy of formation | -4.8 J/mol-atom/K |  | Yb5Ge3; _alloy: Ge 0.375, Yb 0.625_ | model | [2] Achgar 2018 | Table 2, p. 5, row 5 |  |
-| Entropy of formation | -3 J/mol-atom/K |  | Yb5Ge4; _alloy: Ge 0.444, Yb 0.556_ | model | [2] Achgar 2018 | Table 2, p. 5, row 9 |  |
-| Entropy of formation | -4.7 J/mol-atom/K |  | Yb5Ge4; _alloy: Ge 0.444, Yb 0.556_ | model | [2] Achgar 2018 | Table 2, p. 5, row 10 |  |
-| Entropy of formation | -1 J/mol-atom/K ± 0.8 | 298.15 | Yb11Ge10; _alloy: Ge 0.476, Yb 0.524_ | experimental | [2] Achgar 2018; _cites Balducci 2007_ [doi](https://doi.org/10.1021/jp067889b) | Table 2, p. 5, row 11 |  |
-| Entropy of formation | -3.26 J/mol-atom/K ± 0.2 | 298.15 | Yb5Ge4; _alloy: Ge 0.444, Yb 0.556_ | experimental | [2] Achgar 2018; _cites Balducci 2007_ [doi](https://doi.org/10.1021/jp067889b) | Table 2, p. 5, row 7 |  |
+| Entropy of formation | -1.99 J/mol-atom/K |  | Yb11Ge10; _alloy: Ge 0.476, Yb 0.524_ | model | [2] Achgar 2018 | Table 2, p. 5, row 12; `ORC-2UJZTYBXZ7.7c79c1` |  |
+| Entropy of formation | -3 J/mol-atom/K |  | Yb11Ge10; _alloy: Ge 0.476, Yb 0.524_ | model | [2] Achgar 2018 | Table 2, p. 5, row 13; `ORC-BVI2OW5RQF.79b036` |  |
+| Entropy of formation | -8 J/mol-atom/K |  | Yb2Ge; _alloy: Ge 0.333, Yb 0.667_ | model | [2] Achgar 2018 | Table 2, p. 5, row 3; `ORC-6ESSSYCKCJ.849114` |  |
+| Entropy of formation | -5.4 J/mol-atom/K |  | Yb2Ge; _alloy: Ge 0.333, Yb 0.667_ | model | [2] Achgar 2018 | Table 2, p. 5, row 2; `ORC-FABFMWAB75.e794be` |  |
+| Entropy of formation | -1.3 J/mol-atom/K |  | Yb3Ge5; _alloy: Ge 0.625, Yb 0.375_ | model | [2] Achgar 2018 | Table 2, p. 5, row 17; `ORC-SZGKVYB6RI.2cb74f` |  |
+| Entropy of formation | -0.13 J/mol-atom/K |  | Yb3Ge5; _alloy: Ge 0.625, Yb 0.375_ | model | [2] Achgar 2018 | Table 2, p. 5, row 18; `ORC-YWOCE4R4D2.0792b2` |  |
+| Entropy of formation | -0.005 J/mol-atom/K |  | Yb3Ge8; _alloy: Ge 0.727, Yb 0.273_ | model | [2] Achgar 2018 | Table 2, p. 5, row 21; `ORC-EZDYQ453SJ.d3f8a8` |  |
+| Entropy of formation | -0.84 J/mol-atom/K |  | Yb3Ge8; _alloy: Ge 0.727, Yb 0.273_ | model | [2] Achgar 2018 | Table 2, p. 5, row 20; `ORC-VVJUPUOTVW.072e4e` |  |
+| Entropy of formation | -5.8 J/mol-atom/K |  | Yb5Ge3; _alloy: Ge 0.375, Yb 0.625_ | model | [2] Achgar 2018 | Table 2, p. 5, row 6; `ORC-JTDZZMMD7H.ce4aaf` |  |
+| Entropy of formation | -4.8 J/mol-atom/K |  | Yb5Ge3; _alloy: Ge 0.375, Yb 0.625_ | model | [2] Achgar 2018 | Table 2, p. 5, row 5; `ORC-SBQNRQQTKH.1787e2` |  |
+| Entropy of formation | -3 J/mol-atom/K |  | Yb5Ge4; _alloy: Ge 0.444, Yb 0.556_ | model | [2] Achgar 2018 | Table 2, p. 5, row 9; `ORC-2WDZAOXITV.256419` |  |
+| Entropy of formation | -4.7 J/mol-atom/K |  | Yb5Ge4; _alloy: Ge 0.444, Yb 0.556_ | model | [2] Achgar 2018 | Table 2, p. 5, row 10; `ORC-4VU4ZFVYJM.a3ed50` |  |
+| Entropy of formation | -1 J/mol-atom/K ± 0.8 | 298.15 | Yb11Ge10; _alloy: Ge 0.476, Yb 0.524_ | experimental | [2] Achgar 2018; _cites Balducci 2007_ [doi](https://doi.org/10.1021/jp067889b) | Table 2, p. 5, row 11; `ORC-AOQLXHO2JQ.992707` |  |
+| Entropy of formation | -3.26 J/mol-atom/K ± 0.2 | 298.15 | Yb5Ge4; _alloy: Ge 0.444, Yb 0.556_ | experimental | [2] Achgar 2018; _cites Balducci 2007_ [doi](https://doi.org/10.1021/jp067889b) | Table 2, p. 5, row 7; `ORC-T4TQPD47SX.920938` |  |
 
 ### Heat capacity / entropy / enthalpy (2)
 
@@ -241,8 +241,8 @@ Table: Heat capacity / entropy / enthalpy, Ge–Yb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: DfS298(Yb11Ge10(s))_ | -1 unspecified ± 0.8 | 298.15 |  | model | [2] Achgar 2018; _cites Balducci 2007_ [doi](https://doi.org/10.1021/jp067889b) | p. 3 | “The experimental data measured by Ahn et al. \[21\] concerning the heat capacity of Yb5Ge4 compound were used by Balducci et al. \[7\] to calculate the entropy of formation of Yb5Ge4 at 298 K, DfS298(Yb5Ge4(s)) = -3.26 ± 0.20 J K-1 mol-1 at.-1; then, the entropy of formation of Yb11Ge10 was derived: DfS298(Yb11Ge10(s)) = -1.0 ± 0.8 J K-1 mol-1 at.-1.” |
-| Entropy; _printed: DfS298(Yb5Ge4(s))_ | -3.26 unspecified ± 0.2 | 298.15 |  | model | [2] Achgar 2018; _cites Balducci 2007_ [doi](https://doi.org/10.1021/jp067889b) | p. 3 | “The experimental data measured by Ahn et al. \[21\] concerning the heat capacity of Yb5Ge4 compound were used by Balducci et al. \[7\] to calculate the entropy of formation of Yb5Ge4 at 298 K, DfS298(Yb5Ge4(s)) = -3.26 ± 0.20 J K-1 mol-1 at.-1; then, the entropy of formation of Yb11Ge10 was derived: DfS298(Yb11Ge10(s)) = -1.0 ± 0.8 J K-1 mol-1 at.-1.” |
+| Entropy; _printed: DfS298(Yb11Ge10(s))_ | -1 unspecified ± 0.8 | 298.15 |  | model | [2] Achgar 2018; _cites Balducci 2007_ [doi](https://doi.org/10.1021/jp067889b) | p. 3; `ORC-CBDFREE4IU.5c4767` | “The experimental data measured by Ahn et al. \[21\] concerning the heat capacity of Yb5Ge4 compound were used by Balducci et al. \[7\] to calculate the entropy of formation of Yb5Ge4 at 298 K, DfS298(Yb5Ge4(s)) = -3.26 ± 0.20 J K-1 mol-1 at.-1; then, the entropy of formation of Yb11Ge10 was derived: DfS298(Yb11Ge10(s)) = -1.0 ± 0.8 J K-1 mol-1 at.-1.” |
+| Entropy; _printed: DfS298(Yb5Ge4(s))_ | -3.26 unspecified ± 0.2 | 298.15 |  | model | [2] Achgar 2018; _cites Balducci 2007_ [doi](https://doi.org/10.1021/jp067889b) | p. 3; `ORC-CBDFREE4IU.e2cd6a` | “The experimental data measured by Ahn et al. \[21\] concerning the heat capacity of Yb5Ge4 compound were used by Balducci et al. \[7\] to calculate the entropy of formation of Yb5Ge4 at 298 K, DfS298(Yb5Ge4(s)) = -3.26 ± 0.20 J K-1 mol-1 at.-1; then, the entropy of formation of Yb11Ge10 was derived: DfS298(Yb11Ge10(s)) = -1.0 ± 0.8 J K-1 mol-1 at.-1.” |
 
 ## Sources
 
@@ -308,4 +308,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

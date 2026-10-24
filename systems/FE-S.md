@@ -81,8 +81,8 @@ Table: Phase transition, Fe–S system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1016 K | 1016 | pyrite | experimental | [1] Guillermet 1981 | p. 8 | “Values of the Gibbs energy of formation of FeS 2 were evaluated using reported composition values of pyrrhotite in equilibrium with pyrite 1:.4~-47and the incongruent melting point of pyrite at 1016 K. 4~” |
-| Phase transition | 1463 K | 1463 | congruent transformation | experimental | [1] Guillermet 1981; _cites Jensen 1942_ [doi](https://doi.org/10.2475/ajs.240.10.695) | p. 4 | “When the result was used to calculate the sulfur activity at the experimental point of congruent melting, x s = 0.52 at 1463 K (Ref. 18), a value of 0.49 was obtained whereas experiments in the liquid just above the melting point have suggested a value of about 0.6.13,19-21” |
+| Phase transition | 1016 K | 1016 | pyrite | experimental | [1] Guillermet 1981 | p. 8; `ORC-TPUTFKUF7E` | “Values of the Gibbs energy of formation of FeS 2 were evaluated using reported composition values of pyrrhotite in equilibrium with pyrite 1:.4~-47and the incongruent melting point of pyrite at 1016 K. 4~” |
+| Phase transition | 1463 K | 1463 | congruent transformation | experimental | [1] Guillermet 1981; _cites Jensen 1942_ [doi](https://doi.org/10.2475/ajs.240.10.695) | p. 4; `ORC-HLQVDCLG63` | “When the result was used to calculate the sulfur activity at the experimental point of congruent melting, x s = 0.52 at 1463 K (Ref. 18), a value of 0.49 was obtained whereas experiments in the liquid just above the melting point have suggested a value of about 0.6.13,19-21” |
 
 ## Sources
 
@@ -147,4 +147,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

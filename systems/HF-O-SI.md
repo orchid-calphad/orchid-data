@@ -28,7 +28,7 @@ Table: Invariant reactions reported in the literature for the Hf–O–Si system
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2023 | peritectic: Liquid +HfO2 (Monoclinic) → HfSiO4 |  | experimental | [1] Shin 2006 | p. 9 | “The enthalpy of formation of HfSiO4 is obtained from first-principles calculations and the entropy of formation is evaluated from its peritectic reaction, Liquid +HfO2 (Monoclinic) → HfSiO4 , at 2023 K as reported by” |
+| 2023 | peritectic: Liquid +HfO2 (Monoclinic) → HfSiO4 |  | experimental | [1] Shin 2006 | p. 9; `ORC-W7UVUBDE5A` | “The enthalpy of formation of HfSiO4 is obtained from first-principles calculations and the entropy of formation is evaluated from its peritectic reaction, Liquid +HfO2 (Monoclinic) → HfSiO4 , at 2023 K as reported by” |
 
 ## Other properties
 
@@ -38,12 +38,12 @@ Table: Crystal structure, Hf–O–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 6.616 Å | 0 | HfSiO4; _alloy: O 0.666667, Si 0.166667_ | DFT | [1] Shin 2006 | Table 1, p. 3, row 8 |  |
-| Lattice a | 3.198 Å | 0 | UNKNOWN; _alloy: O 0, Si 0_ | DFT | [1] Shin 2006 | Table 1, p. 3, row 1 |  |
-| Lattice b | 6.616 Å | 0 | HfSiO4; _alloy: O 0.666667, Si 0.166667_ | DFT | [1] Shin 2006 | Table 1, p. 3, row 8 |  |
-| Lattice b | 3.198 Å | 0 | UNKNOWN; _alloy: O 0, Si 0_ | DFT | [1] Shin 2006 | Table 1, p. 3, row 1 |  |
-| Lattice c | 6.004 Å | 0 | HfSiO4; _alloy: O 0.666667, Si 0.166667_ | DFT | [1] Shin 2006 | Table 1, p. 3, row 8 |  |
-| Lattice c | 5.053 Å | 0 | UNKNOWN; _alloy: O 0, Si 0_ | DFT | [1] Shin 2006 | Table 1, p. 3, row 1 |  |
+| Lattice a | 6.616 Å | 0 | HfSiO4; _alloy: O 0.666667, Si 0.166667_ | DFT | [1] Shin 2006 | Table 1, p. 3, row 8; `ORC-P4GZ6FIB26.ad9114` |  |
+| Lattice a | 3.198 Å | 0 | UNKNOWN; _alloy: O 0, Si 0_ | DFT | [1] Shin 2006 | Table 1, p. 3, row 1; `ORC-QFMHTQTNMY.cbd710` |  |
+| Lattice b | 6.616 Å | 0 | HfSiO4; _alloy: O 0.666667, Si 0.166667_ | DFT | [1] Shin 2006 | Table 1, p. 3, row 8; `ORC-P4GZ6FIB26.94d2d8` |  |
+| Lattice b | 3.198 Å | 0 | UNKNOWN; _alloy: O 0, Si 0_ | DFT | [1] Shin 2006 | Table 1, p. 3, row 1; `ORC-QFMHTQTNMY.70631f` |  |
+| Lattice c | 6.004 Å | 0 | HfSiO4; _alloy: O 0.666667, Si 0.166667_ | DFT | [1] Shin 2006 | Table 1, p. 3, row 8; `ORC-P4GZ6FIB26.10b7d4` |  |
+| Lattice c | 5.053 Å | 0 | UNKNOWN; _alloy: O 0, Si 0_ | DFT | [1] Shin 2006 | Table 1, p. 3, row 1; `ORC-QFMHTQTNMY.1e3b90` |  |
 
 ## Sources
 
@@ -86,4 +86,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

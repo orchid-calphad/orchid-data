@@ -14,17 +14,17 @@ Table: Enthalpy of formation of MoN reported in the literature (11)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -53.7423 kJ/mol-atom | MoN-delta | 0 | model |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [1] Daclan 2023; _cites JARVIS 2020_ | Table 2, p. 6, row 10 |  |
-| -53.742 kJ/mol-atom | MoN-delta | 0 | model |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [1] Daclan 2023; _cites JARVIS 2020_ | Table 2, p. 6, row 10 |  |
-| -51.8126 kJ/mol-atom | MoN-delta | 0 | model |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [1] Daclan 2023; _cites Materials 2019_ | Table 2, p. 6, row 8 |  |
-| -51.812 kJ/mol-atom | MoN-delta | 0 | model |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [1] Daclan 2023; _cites Materials 2019_ | Table 2, p. 6, row 8 |  |
-| -44.2868 kJ/mol-atom | MoN-delta | 0 | model |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [1] Daclan 2023; _cites The 2019_ | Table 2, p. 6, row 9 |  |
-| -44.286 kJ/mol-atom | MoN-delta | 0 | model |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [1] Daclan 2023; _cites The 2019_ | Table 2, p. 6, row 9 |  |
-| -39.2512 kJ/mol-atom | MoN-delta | 0 | model |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [1] Daclan 2023; _cites Klimashin 2016_ [doi](https://doi.org/10.1063/1.4966664) | Table 2, p. 6, row 7 |  |
-| -39.251 kJ/mol-atom | MoN-delta | 0 | model |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [1] Daclan 2023; _cites Klimashin 2016_ [doi](https://doi.org/10.1063/1.4966664) | Table 2, p. 6, row 7 |  |
-| -24.5 kJ/mol-atom | MoN | 298.15 | model |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [2] Frisk 1991 | Table I, p. 6, row 9 |  |
-| -37.7537 kJ/mol-atom | MoN-delta | 0 | unspecified |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [1] Daclan 2023 | Table 2, p. 6, row 6 |  |
-| -37.753 kJ/mol-atom | MoN-delta | 0 | unspecified |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [1] Daclan 2023 | Table 2, p. 6, row 6 |  |
+| -53.7423 kJ/mol-atom | MoN-delta | 0 | model |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [1] Daclan 2023; _cites JARVIS 2020_ | Table 2, p. 6, row 10; `ORC-X7WLHNSPJC.70cb3f` |  |
+| -53.742 kJ/mol-atom | MoN-delta | 0 | model |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [1] Daclan 2023; _cites JARVIS 2020_ | Table 2, p. 6, row 10; `ORC-X7WLHNSPJC.0cba83` |  |
+| -51.8126 kJ/mol-atom | MoN-delta | 0 | model |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [1] Daclan 2023; _cites Materials 2019_ | Table 2, p. 6, row 8; `ORC-7SZTQCGGDZ.80b22b` |  |
+| -51.812 kJ/mol-atom | MoN-delta | 0 | model |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [1] Daclan 2023; _cites Materials 2019_ | Table 2, p. 6, row 8; `ORC-7SZTQCGGDZ.a6ad4a` |  |
+| -44.2868 kJ/mol-atom | MoN-delta | 0 | model |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [1] Daclan 2023; _cites The 2019_ | Table 2, p. 6, row 9; `ORC-7WLDD4OSHZ.2852cb` |  |
+| -44.286 kJ/mol-atom | MoN-delta | 0 | model |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [1] Daclan 2023; _cites The 2019_ | Table 2, p. 6, row 9; `ORC-7WLDD4OSHZ.10c72a` |  |
+| -39.2512 kJ/mol-atom | MoN-delta | 0 | model |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [1] Daclan 2023; _cites Klimashin 2016_ [doi](https://doi.org/10.1063/1.4966664) | Table 2, p. 6, row 7; `ORC-5R77KSWT2C.7d83d8` |  |
+| -39.251 kJ/mol-atom | MoN-delta | 0 | model |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [1] Daclan 2023; _cites Klimashin 2016_ [doi](https://doi.org/10.1063/1.4966664) | Table 2, p. 6, row 7; `ORC-5R77KSWT2C.9b16d7` |  |
+| -24.5 kJ/mol-atom | MoN | 298.15 | model |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [2] Frisk 1991 | Table I, p. 6, row 9; `ORC-GPC3ZUWDUO` |  |
+| -37.7537 kJ/mol-atom | MoN-delta | 0 | unspecified |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [1] Daclan 2023 | Table 2, p. 6, row 6; `ORC-KL4UEBDQZA.c0656f` |  |
+| -37.753 kJ/mol-atom | MoN-delta | 0 | unspecified |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [1] Daclan 2023 | Table 2, p. 6, row 6; `ORC-KL4UEBDQZA.18934a` |  |
 
 ### Uncertainty budget
 
@@ -111,4 +111,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

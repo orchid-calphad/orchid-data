@@ -34,9 +34,9 @@ Table: Enthalpies of formation, Ga system (3)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| β (Ga:Va) |  | 7.25 kJ/mol-atom | 298.15 | model |  |  | [1] Chari 2010 | Table 2, p. 4, row 6 |  |
-| β (Ga:Va) |  | 7.7 kJ/mol-atom | 298.15 | DFT |  |  | [1] Chari 2010 | Table 2, p. 4, row 4 |  |
-| β (Ga:Va) |  | 8.6 kJ/mol-atom | 298.15 | DFT |  |  | [1] Chari 2010 | Table 2, p. 4, row 5 |  |
+| β (Ga:Va) |  | 7.25 kJ/mol-atom | 298.15 | model |  |  | [1] Chari 2010 | Table 2, p. 4, row 6; `ORC-RKKVB6OIJH` |  |
+| β (Ga:Va) |  | 7.7 kJ/mol-atom | 298.15 | DFT |  |  | [1] Chari 2010 | Table 2, p. 4, row 4; `ORC-US4PWIESSU` |  |
+| β (Ga:Va) |  | 8.6 kJ/mol-atom | 298.15 | DFT |  |  | [1] Chari 2010 | Table 2, p. 4, row 5; `ORC-6VWRWHKAZJ` |  |
 
 ## Other properties
 
@@ -46,8 +46,8 @@ Table: Phase transition, Ga system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 302.915 K | 302.915 |  | experimental | [2] He 2024; _cites Preston-Thomas 1990_ [doi](https://doi.org/10.1088/0026-1394/27/1/002) | p. 11 | “The melting temperature of Ga is 302.9146 K and is one of the fixed points in the 1990 International Temperature Scale (ITP-90)\[75\].” |
-| Phase transition | 303.15 K | 303.15 | α-Ga; _alloy: Ga 1_ | model | [3] Perron 2016; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 1, p. 3, row 5 |  |
+| Phase transition | 302.915 K | 302.915 |  | experimental | [2] He 2024; _cites Preston-Thomas 1990_ [doi](https://doi.org/10.1088/0026-1394/27/1/002) | p. 11; `ORC-GXDWJQX6A3` | “The melting temperature of Ga is 302.9146 K and is one of the fixed points in the 1990 International Temperature Scale (ITP-90)\[75\].” |
+| Phase transition | 303.15 K | 303.15 | α-Ga; _alloy: Ga 1_ | model | [3] Perron 2016; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 1, p. 3, row 5; `ORC-AUDBHDU6DW` |  |
 
 ### Heat capacity / entropy / enthalpy (14)
 
@@ -55,20 +55,20 @@ Table: Heat capacity / entropy / enthalpy, Ga system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: S_Ga^ortho(298)_ | 40.83 J/mol (basis unstated)/K | 298.15 | Orthorhombic Ga | experimental | [2] He 2024; _cites Hultgren 1973_ | Table 4, p. 12, row 3 |  |
-| Entropy; _printed: S_Ga^ortho(298)_ | 40.97 J/mol (basis unstated)/K | 298.15 | Orthorhombic Ga | experimental | [2] He 2024 | Table 4, p. 12, row 4 |  |
-| Entropy; _printed: S_Ga^ortho(298)_ | 40.83 J/mol (basis unstated)/K | 298.15 | UNKNOWN | experimental | [2] He 2024; _cites Hultgren 1973_ | Table 4, p. 12, row 3 |  |
-| Entropy; _printed: S_Ga^ortho(298)_ | 40.97 J/mol (basis unstated)/K | 298.15 | UNKNOWN | experimental | [2] He 2024 | Table 4, p. 12, row 4 |  |
-| Entropy; _printed: S_Ga^liquid(T_m) - S_Ga^ortho(T_m)_ | 18.23 J/mol (basis unstated)/K | 302.915 | Liquid Ga | experimental | [2] He 2024 | Table 4, p. 12, row 12 |  |
-| Entropy; _printed: S_Ga^liquid(T_m) - S_Ga^ortho(T_m)_ | 18.47 J/mol (basis unstated)/K | 302.915 | Liquid Ga | experimental | [2] He 2024; _cites Hultgren 1973_ | Table 4, p. 12, row 11 |  |
-| Heat capacity; _printed: C_P^liquid(T_m)_ | 28.24 J/mol (basis unstated)/K | 302.915 | Liquid Ga | experimental | [2] He 2024 | Table 4, p. 12, row 14 |  |
-| Heat capacity; _printed: C_P^liquid(T_m)_ | 28.24 J/mol (basis unstated)/K | 302.915 | Liquid Ga | experimental | [2] He 2024; _cites Hultgren 1973_ | Table 4, p. 12, row 13 |  |
-| Heat capacity; _printed: C_P^ortho(T_m)_ | 26.133 J/mol (basis unstated)/K | 302.915 | Orthorhombic Ga | experimental | [2] He 2024; _cites Hultgren 1973_ | Table 4, p. 12, row 5 |  |
-| Heat capacity; _printed: C_P^ortho(T_m)_ | 26.26 J/mol (basis unstated)/K | 302.915 | Orthorhombic Ga | experimental | [2] He 2024 | Table 4, p. 12, row 6 |  |
-| Heat capacity; _printed: C_P^ortho(T_m)_ | 26.133 J/mol (basis unstated)/K | 302.915 | UNKNOWN | experimental | [2] He 2024; _cites Hultgren 1973_ | Table 4, p. 12, row 5 |  |
-| Heat capacity; _printed: C_P^liquid(T_m)_ | 28.24 J/mol (basis unstated)/K | 302.915 | UNKNOWN | experimental | [2] He 2024 | Table 4, p. 12, row 14 |  |
-| Heat capacity; _printed: C_P^liquid(T_m)_ | 28.24 J/mol (basis unstated)/K | 302.915 | UNKNOWN | experimental | [2] He 2024; _cites Hultgren 1973_ | Table 4, p. 12, row 13 |  |
-| Heat capacity; _printed: C_P^ortho(T_m)_ | 26.26 J/mol (basis unstated)/K | 302.915 | UNKNOWN | experimental | [2] He 2024 | Table 4, p. 12, row 6 |  |
+| Entropy; _printed: S_Ga^ortho(298)_ | 40.83 J/mol (basis unstated)/K | 298.15 | Orthorhombic Ga | experimental | [2] He 2024; _cites Hultgren 1973_ | Table 4, p. 12, row 3; `ORC-LAMB5HTLG7.a4bb89` |  |
+| Entropy; _printed: S_Ga^ortho(298)_ | 40.97 J/mol (basis unstated)/K | 298.15 | Orthorhombic Ga | experimental | [2] He 2024 | Table 4, p. 12, row 4; `ORC-P2OVONLABI.5b2881` |  |
+| Entropy; _printed: S_Ga^ortho(298)_ | 40.83 J/mol (basis unstated)/K | 298.15 | UNKNOWN | experimental | [2] He 2024; _cites Hultgren 1973_ | Table 4, p. 12, row 3; `ORC-LAMB5HTLG7.4bb893` |  |
+| Entropy; _printed: S_Ga^ortho(298)_ | 40.97 J/mol (basis unstated)/K | 298.15 | UNKNOWN | experimental | [2] He 2024 | Table 4, p. 12, row 4; `ORC-P2OVONLABI.2823c7` |  |
+| Entropy; _printed: S_Ga^liquid(T_m) - S_Ga^ortho(T_m)_ | 18.23 J/mol (basis unstated)/K | 302.915 | Liquid Ga | experimental | [2] He 2024 | Table 4, p. 12, row 12; `ORC-KWQPEFDR7E` |  |
+| Entropy; _printed: S_Ga^liquid(T_m) - S_Ga^ortho(T_m)_ | 18.47 J/mol (basis unstated)/K | 302.915 | Liquid Ga | experimental | [2] He 2024; _cites Hultgren 1973_ | Table 4, p. 12, row 11; `ORC-W7IHWMFBOI` |  |
+| Heat capacity; _printed: C_P^liquid(T_m)_ | 28.24 J/mol (basis unstated)/K | 302.915 | Liquid Ga | experimental | [2] He 2024 | Table 4, p. 12, row 14; `ORC-HDW3MOFLAW.2e8cfa` |  |
+| Heat capacity; _printed: C_P^liquid(T_m)_ | 28.24 J/mol (basis unstated)/K | 302.915 | Liquid Ga | experimental | [2] He 2024; _cites Hultgren 1973_ | Table 4, p. 12, row 13; `ORC-RXEAUAYRQ7.10abdb` |  |
+| Heat capacity; _printed: C_P^ortho(T_m)_ | 26.133 J/mol (basis unstated)/K | 302.915 | Orthorhombic Ga | experimental | [2] He 2024; _cites Hultgren 1973_ | Table 4, p. 12, row 5; `ORC-AME2LSTFLB.ed5939` |  |
+| Heat capacity; _printed: C_P^ortho(T_m)_ | 26.26 J/mol (basis unstated)/K | 302.915 | Orthorhombic Ga | experimental | [2] He 2024 | Table 4, p. 12, row 6; `ORC-Y2UMMEMATZ.0d226e` |  |
+| Heat capacity; _printed: C_P^ortho(T_m)_ | 26.133 J/mol (basis unstated)/K | 302.915 | UNKNOWN | experimental | [2] He 2024; _cites Hultgren 1973_ | Table 4, p. 12, row 5; `ORC-AME2LSTFLB.f8dfa2` |  |
+| Heat capacity; _printed: C_P^liquid(T_m)_ | 28.24 J/mol (basis unstated)/K | 302.915 | UNKNOWN | experimental | [2] He 2024 | Table 4, p. 12, row 14; `ORC-HDW3MOFLAW.1473c4` |  |
+| Heat capacity; _printed: C_P^liquid(T_m)_ | 28.24 J/mol (basis unstated)/K | 302.915 | UNKNOWN | experimental | [2] He 2024; _cites Hultgren 1973_ | Table 4, p. 12, row 13; `ORC-RXEAUAYRQ7.8b8a62` |  |
+| Heat capacity; _printed: C_P^ortho(T_m)_ | 26.26 J/mol (basis unstated)/K | 302.915 | UNKNOWN | experimental | [2] He 2024 | Table 4, p. 12, row 6; `ORC-Y2UMMEMATZ.eb92ea` |  |
 
 ### Crystal structure (41)
 
@@ -76,47 +76,47 @@ Table: Crystal structure, Ga system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 4.585 Å | 0 | UNKNOWN; _alloy: Ga 1_ | DFT | [4] Li 2013 | Table 1, p. 2, row 2 |  |
-| Lattice a | 10.593 Å | 237.15 | (γGa); _(γGa): Ga 1_ | experimental | [5] Olesinski 1985; _cites Defrain 1977_ [doi](https://doi.org/10.1051/jcp/1977740851) | Table 4, p. 2, row 4 |  |
-| Lattice a | 2.7713 Å | 250.15 | (βGa); _(βGa): Ga 1_ | experimental | [5] Olesinski 1985; _cites Defrain 1977_ [doi](https://doi.org/10.1051/jcp/1977740851) | Table 4, p. 2, row 3 |  |
-| Lattice a | 2.7713 Å | 250.15 | γGa; _γGa: Ga 1_ | unspecified | [6] Anderson 1991 | Table 4, p. 7, row 2 |  |
-| Lattice a | 9.09 Å | 254.15 | (δGa); _(δGa): Ga 1_ | experimental | [5] Olesinski 1985; _cites Defrain 1977_ [doi](https://doi.org/10.1051/jcp/1977740851) | Table 4, p. 2, row 5 |  |
-| Lattice a | 4.5198 Å | 297.15 | Ga; _Ga: Ga 1_ | unspecified | [7] Dutkiewicz 1990; _cites Barrett 1965_ | Table 4, p. 4, row 1 |  |
-| Lattice a | 0.4519 not_printed ± 2.000e-4 | 298.15 | (Ga); _(Ga): Ga 1_ | experimental | [8] Luo 2014; _cites H 1991_ | Table 3, p. 3, row 1 |  |
-| Lattice a | 4.5192 Å | 298.15 | (αGa); _(αGa): Ga 1_ | unspecified | [9] Anderson 1992 | Table 4, p. 5, row 1 |  |
-| Lattice a | 4.5192 Å | 298.15 | (αGaI); _(αGaI): Ga 1_ | unspecified | [5] Olesinski 1985; _cites ref. 1_ | Table 4, p. 2, row 2 |  |
-| Lattice a | 4.5192 Å | 298.15 | Ga; _Ga: Ga 1_ | unspecified | [10] Ansara 1991 | Table 3, p. 3, row 1 |  |
-| Lattice a | 4.514 Å | 298.15 | UNKNOWN; _alloy: Ga 1_ | experimental | [4] Li 2013; _cites Bruzzone 1966_ | Table 1, p. 2, row 1 |  |
-| Lattice a | 4.5192 Å | 298.15 | αGa; _αGa: Ga 1_ | unspecified | [6] Anderson 1991 | Table 4, p. 7, row 1 |  |
-| Lattice a | 2.9 Å | 298.15 | βGa; _βGa: Ga 1_ | unspecified | [7] Dutkiewicz 1990; _cites Barrett 1965_ | Table 4, p. 4, row 2 |  |
-| Lattice a | 5.658 Å | 303 (\<) | Ga; _alloy: Ga 1_ | model | [11] Moussa 2018; _cites Massalski 1990_ | Table 1, p. 3, row 5 |  |
-| Lattice b | 7.771 Å | 0 | UNKNOWN; _alloy: Ga 1_ | DFT | [4] Li 2013 | Table 1, p. 2, row 2 |  |
-| Lattice b | 13.523 Å | 237.15 | (γGa); _(γGa): Ga 1_ | experimental | [5] Olesinski 1985; _cites Defrain 1977_ [doi](https://doi.org/10.1051/jcp/1977740851) | Table 4, p. 2, row 4 |  |
-| Lattice b | 8.0606 Å | 250.15 | (βGa); _(βGa): Ga 1_ | experimental | [5] Olesinski 1985; _cites Defrain 1977_ [doi](https://doi.org/10.1051/jcp/1977740851) | Table 4, p. 2, row 3 |  |
-| Lattice b | 8.0606 Å | 250.15 | γGa; _γGa: Ga 1_ | unspecified | [6] Anderson 1991 | Table 4, p. 7, row 2 |  |
-| Lattice b | 7.6602 Å | 297.15 | Ga; _Ga: Ga 1_ | unspecified | [7] Dutkiewicz 1990; _cites Barrett 1965_ | Table 4, p. 4, row 1 |  |
-| Lattice b | 0.7658 not_printed ± 3.000e-4 | 298.15 | (Ga); _(Ga): Ga 1_ | experimental | [8] Luo 2014; _cites H 1991_ | Table 3, p. 3, row 1 |  |
-| Lattice b | 7.6586 Å | 298.15 | (αGa); _(αGa): Ga 1_ | unspecified | [9] Anderson 1992 | Table 4, p. 5, row 1 |  |
-| Lattice b | 7.6586 Å | 298.15 | (αGaI); _(αGaI): Ga 1_ | unspecified | [5] Olesinski 1985; _cites ref. 1_ | Table 4, p. 2, row 2 |  |
-| Lattice b | 7.6586 Å | 298.15 | Ga; _Ga: Ga 1_ | unspecified | [10] Ansara 1991 | Table 3, p. 3, row 1 |  |
-| Lattice b | 7.644 Å | 298.15 | UNKNOWN; _alloy: Ga 1_ | experimental | [4] Li 2013; _cites Bruzzone 1966_ | Table 1, p. 2, row 1 |  |
-| Lattice b | 7.6586 Å | 298.15 | αGa; _αGa: Ga 1_ | unspecified | [6] Anderson 1991 | Table 4, p. 7, row 1 |  |
-| Lattice b | 8.13 Å | 298.15 | βGa; _βGa: Ga 1_ | unspecified | [7] Dutkiewicz 1990; _cites Barrett 1965_ | Table 4, p. 4, row 2 |  |
-| Lattice b | 5.658 Å | 303 (\<) | Ga; _alloy: Ga 1_ | model | [11] Moussa 2018; _cites Massalski 1990_ | Table 1, p. 3, row 5 |  |
-| Lattice c | 4.584 Å | 0 | UNKNOWN; _alloy: Ga 1_ | DFT | [4] Li 2013 | Table 1, p. 2, row 2 |  |
-| Lattice c | 5.203 Å | 237.15 | (γGa); _(γGa): Ga 1_ | experimental | [5] Olesinski 1985; _cites Defrain 1977_ [doi](https://doi.org/10.1051/jcp/1977740851) | Table 4, p. 2, row 4 |  |
-| Lattice c | 3.3314 Å | 250.15 | (βGa); _(βGa): Ga 1_ | experimental | [5] Olesinski 1985; _cites Defrain 1977_ [doi](https://doi.org/10.1051/jcp/1977740851) | Table 4, p. 2, row 3 |  |
-| Lattice c | 3.3314 Å | 250.15 | γGa; _γGa: Ga 1_ | unspecified | [6] Anderson 1991 | Table 4, p. 7, row 2 |  |
-| Lattice c | 17.02 Å | 254.15 | (δGa); _(δGa): Ga 1_ | experimental | [5] Olesinski 1985; _cites Defrain 1977_ [doi](https://doi.org/10.1051/jcp/1977740851) | Table 4, p. 2, row 5 |  |
-| Lattice c | 4.5198 Å | 297.15 | Ga; _Ga: Ga 1_ | unspecified | [7] Dutkiewicz 1990; _cites Barrett 1965_ | Table 4, p. 4, row 1 |  |
-| Lattice c | 0.4526 not_printed ± 2.000e-4 | 298.15 | (Ga); _(Ga): Ga 1_ | experimental | [8] Luo 2014; _cites H 1991_ | Table 3, p. 3, row 1 |  |
-| Lattice c | 4.5258 Å | 298.15 | (αGa); _(αGa): Ga 1_ | unspecified | [9] Anderson 1992 | Table 4, p. 5, row 1 |  |
-| Lattice c | 4.5258 Å | 298.15 | (αGaI); _(αGaI): Ga 1_ | unspecified | [5] Olesinski 1985; _cites ref. 1_ | Table 4, p. 2, row 2 |  |
-| Lattice c | 4.5258 Å | 298.15 | Ga; _Ga: Ga 1_ | unspecified | [10] Ansara 1991 | Table 3, p. 3, row 1 |  |
-| Lattice c | 4.526 Å | 298.15 | UNKNOWN; _alloy: Ga 1_ | experimental | [4] Li 2013; _cites Bruzzone 1966_ | Table 1, p. 2, row 1 |  |
-| Lattice c | 4.5258 Å | 298.15 | αGa; _αGa: Ga 1_ | unspecified | [6] Anderson 1991 | Table 4, p. 7, row 1 |  |
-| Lattice c | 3.17 Å | 298.15 | βGa; _βGa: Ga 1_ | unspecified | [7] Dutkiewicz 1990; _cites Barrett 1965_ | Table 4, p. 4, row 2 |  |
-| Lattice c | 5.658 Å | 303 (\<) | Ga; _alloy: Ga 1_ | model | [11] Moussa 2018; _cites Massalski 1990_ | Table 1, p. 3, row 5 |  |
+| Lattice a | 4.585 Å | 0 | UNKNOWN; _alloy: Ga 1_ | DFT | [4] Li 2013 | Table 1, p. 2, row 2; `ORC-PPKGWWQT55.845e44` |  |
+| Lattice a | 10.593 Å | 237.15 | (γGa); _(γGa): Ga 1_ | experimental | [5] Olesinski 1985; _cites Defrain 1977_ [doi](https://doi.org/10.1051/jcp/1977740851) | Table 4, p. 2, row 4; `ORC-EJRVBOB5JE.372695` |  |
+| Lattice a | 2.7713 Å | 250.15 | (βGa); _(βGa): Ga 1_ | experimental | [5] Olesinski 1985; _cites Defrain 1977_ [doi](https://doi.org/10.1051/jcp/1977740851) | Table 4, p. 2, row 3; `ORC-W6QLED5Y7O.4c1f74` |  |
+| Lattice a | 2.7713 Å | 250.15 | γGa; _γGa: Ga 1_ | unspecified | [6] Anderson 1991 | Table 4, p. 7, row 2; `ORC-WJD4WRJD2C.2a64fd` |  |
+| Lattice a | 9.09 Å | 254.15 | (δGa); _(δGa): Ga 1_ | experimental | [5] Olesinski 1985; _cites Defrain 1977_ [doi](https://doi.org/10.1051/jcp/1977740851) | Table 4, p. 2, row 5; `ORC-N3SRP54NAZ.4c7c62` |  |
+| Lattice a | 4.5198 Å | 297.15 | Ga; _Ga: Ga 1_ | unspecified | [7] Dutkiewicz 1990; _cites Barrett 1965_ | Table 4, p. 4, row 1; `ORC-WSD6P56GPT.c1db46` |  |
+| Lattice a | 0.4519 not_printed ± 2.000e-4 | 298.15 | (Ga); _(Ga): Ga 1_ | experimental | [8] Luo 2014; _cites H 1991_ | Table 3, p. 3, row 1; `ORC-KWMJOVOLGO.f4bc83` |  |
+| Lattice a | 4.5192 Å | 298.15 | (αGa); _(αGa): Ga 1_ | unspecified | [9] Anderson 1992 | Table 4, p. 5, row 1; `ORC-6VVJZT6ALF.d87cfc` |  |
+| Lattice a | 4.5192 Å | 298.15 | (αGaI); _(αGaI): Ga 1_ | unspecified | [5] Olesinski 1985; _cites ref. 1_ | Table 4, p. 2, row 2; `ORC-B6RMAJPBYZ.c6f8f0` |  |
+| Lattice a | 4.5192 Å | 298.15 | Ga; _Ga: Ga 1_ | unspecified | [10] Ansara 1991 | Table 3, p. 3, row 1; `ORC-6E4L6FWDEC.53a46a` |  |
+| Lattice a | 4.514 Å | 298.15 | UNKNOWN; _alloy: Ga 1_ | experimental | [4] Li 2013; _cites Bruzzone 1966_ | Table 1, p. 2, row 1; `ORC-TESAQJRUJQ.061d98` |  |
+| Lattice a | 4.5192 Å | 298.15 | αGa; _αGa: Ga 1_ | unspecified | [6] Anderson 1991 | Table 4, p. 7, row 1; `ORC-QHMTOZCY72.c2aa74` |  |
+| Lattice a | 2.9 Å | 298.15 | βGa; _βGa: Ga 1_ | unspecified | [7] Dutkiewicz 1990; _cites Barrett 1965_ | Table 4, p. 4, row 2; `ORC-HABQSW2RSB.41d1e1` |  |
+| Lattice a | 5.658 Å | 303 (\<) | Ga; _alloy: Ga 1_ | model | [11] Moussa 2018; _cites Massalski 1990_ | Table 1, p. 3, row 5; `ORC-E4D2BSSO4T.c81085` |  |
+| Lattice b | 7.771 Å | 0 | UNKNOWN; _alloy: Ga 1_ | DFT | [4] Li 2013 | Table 1, p. 2, row 2; `ORC-PPKGWWQT55.61f4d9` |  |
+| Lattice b | 13.523 Å | 237.15 | (γGa); _(γGa): Ga 1_ | experimental | [5] Olesinski 1985; _cites Defrain 1977_ [doi](https://doi.org/10.1051/jcp/1977740851) | Table 4, p. 2, row 4; `ORC-EJRVBOB5JE.2ac815` |  |
+| Lattice b | 8.0606 Å | 250.15 | (βGa); _(βGa): Ga 1_ | experimental | [5] Olesinski 1985; _cites Defrain 1977_ [doi](https://doi.org/10.1051/jcp/1977740851) | Table 4, p. 2, row 3; `ORC-W6QLED5Y7O.a7f656` |  |
+| Lattice b | 8.0606 Å | 250.15 | γGa; _γGa: Ga 1_ | unspecified | [6] Anderson 1991 | Table 4, p. 7, row 2; `ORC-WJD4WRJD2C.f4fb8b` |  |
+| Lattice b | 7.6602 Å | 297.15 | Ga; _Ga: Ga 1_ | unspecified | [7] Dutkiewicz 1990; _cites Barrett 1965_ | Table 4, p. 4, row 1; `ORC-WSD6P56GPT.41907a` |  |
+| Lattice b | 0.7658 not_printed ± 3.000e-4 | 298.15 | (Ga); _(Ga): Ga 1_ | experimental | [8] Luo 2014; _cites H 1991_ | Table 3, p. 3, row 1; `ORC-KWMJOVOLGO.3a7dc0` |  |
+| Lattice b | 7.6586 Å | 298.15 | (αGa); _(αGa): Ga 1_ | unspecified | [9] Anderson 1992 | Table 4, p. 5, row 1; `ORC-6VVJZT6ALF.c3405e` |  |
+| Lattice b | 7.6586 Å | 298.15 | (αGaI); _(αGaI): Ga 1_ | unspecified | [5] Olesinski 1985; _cites ref. 1_ | Table 4, p. 2, row 2; `ORC-B6RMAJPBYZ.68a108` |  |
+| Lattice b | 7.6586 Å | 298.15 | Ga; _Ga: Ga 1_ | unspecified | [10] Ansara 1991 | Table 3, p. 3, row 1; `ORC-6E4L6FWDEC.d86094` |  |
+| Lattice b | 7.644 Å | 298.15 | UNKNOWN; _alloy: Ga 1_ | experimental | [4] Li 2013; _cites Bruzzone 1966_ | Table 1, p. 2, row 1; `ORC-TESAQJRUJQ.a93322` |  |
+| Lattice b | 7.6586 Å | 298.15 | αGa; _αGa: Ga 1_ | unspecified | [6] Anderson 1991 | Table 4, p. 7, row 1; `ORC-QHMTOZCY72.f53b7a` |  |
+| Lattice b | 8.13 Å | 298.15 | βGa; _βGa: Ga 1_ | unspecified | [7] Dutkiewicz 1990; _cites Barrett 1965_ | Table 4, p. 4, row 2; `ORC-HABQSW2RSB.2a43e5` |  |
+| Lattice b | 5.658 Å | 303 (\<) | Ga; _alloy: Ga 1_ | model | [11] Moussa 2018; _cites Massalski 1990_ | Table 1, p. 3, row 5; `ORC-E4D2BSSO4T.09f0e2` |  |
+| Lattice c | 4.584 Å | 0 | UNKNOWN; _alloy: Ga 1_ | DFT | [4] Li 2013 | Table 1, p. 2, row 2; `ORC-PPKGWWQT55.c2e2e5` |  |
+| Lattice c | 5.203 Å | 237.15 | (γGa); _(γGa): Ga 1_ | experimental | [5] Olesinski 1985; _cites Defrain 1977_ [doi](https://doi.org/10.1051/jcp/1977740851) | Table 4, p. 2, row 4; `ORC-EJRVBOB5JE.40de23` |  |
+| Lattice c | 3.3314 Å | 250.15 | (βGa); _(βGa): Ga 1_ | experimental | [5] Olesinski 1985; _cites Defrain 1977_ [doi](https://doi.org/10.1051/jcp/1977740851) | Table 4, p. 2, row 3; `ORC-W6QLED5Y7O.c7f006` |  |
+| Lattice c | 3.3314 Å | 250.15 | γGa; _γGa: Ga 1_ | unspecified | [6] Anderson 1991 | Table 4, p. 7, row 2; `ORC-WJD4WRJD2C.3d81d5` |  |
+| Lattice c | 17.02 Å | 254.15 | (δGa); _(δGa): Ga 1_ | experimental | [5] Olesinski 1985; _cites Defrain 1977_ [doi](https://doi.org/10.1051/jcp/1977740851) | Table 4, p. 2, row 5; `ORC-N3SRP54NAZ.4e4609` |  |
+| Lattice c | 4.5198 Å | 297.15 | Ga; _Ga: Ga 1_ | unspecified | [7] Dutkiewicz 1990; _cites Barrett 1965_ | Table 4, p. 4, row 1; `ORC-WSD6P56GPT.668a96` |  |
+| Lattice c | 0.4526 not_printed ± 2.000e-4 | 298.15 | (Ga); _(Ga): Ga 1_ | experimental | [8] Luo 2014; _cites H 1991_ | Table 3, p. 3, row 1; `ORC-KWMJOVOLGO.839a73` |  |
+| Lattice c | 4.5258 Å | 298.15 | (αGa); _(αGa): Ga 1_ | unspecified | [9] Anderson 1992 | Table 4, p. 5, row 1; `ORC-6VVJZT6ALF.5fa745` |  |
+| Lattice c | 4.5258 Å | 298.15 | (αGaI); _(αGaI): Ga 1_ | unspecified | [5] Olesinski 1985; _cites ref. 1_ | Table 4, p. 2, row 2; `ORC-B6RMAJPBYZ.f296e2` |  |
+| Lattice c | 4.5258 Å | 298.15 | Ga; _Ga: Ga 1_ | unspecified | [10] Ansara 1991 | Table 3, p. 3, row 1; `ORC-6E4L6FWDEC.25912f` |  |
+| Lattice c | 4.526 Å | 298.15 | UNKNOWN; _alloy: Ga 1_ | experimental | [4] Li 2013; _cites Bruzzone 1966_ | Table 1, p. 2, row 1; `ORC-TESAQJRUJQ.4ff6d5` |  |
+| Lattice c | 4.5258 Å | 298.15 | αGa; _αGa: Ga 1_ | unspecified | [6] Anderson 1991 | Table 4, p. 7, row 1; `ORC-QHMTOZCY72.7711f2` |  |
+| Lattice c | 3.17 Å | 298.15 | βGa; _βGa: Ga 1_ | unspecified | [7] Dutkiewicz 1990; _cites Barrett 1965_ | Table 4, p. 4, row 2; `ORC-HABQSW2RSB.547a2e` |  |
+| Lattice c | 5.658 Å | 303 (\<) | Ga; _alloy: Ga 1_ | model | [11] Moussa 2018; _cites Massalski 1990_ | Table 1, p. 3, row 5; `ORC-E4D2BSSO4T.5e4691` |  |
 
 ## Sources
 
@@ -169,4 +169,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

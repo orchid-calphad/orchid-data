@@ -29,12 +29,12 @@ Table: Crystal structure, Cd–Sn–Yb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 5.4 Å | 0 | (Yb-β); _(Yb-β): Cd 0.015_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 2 |  |
-| Lattice a | 5.48 Å |  | (Yb-β); _(Yb-β): Cd 0.015_ | unspecified | [1] Kali-Ali 2017; _cites Kadomatsu 1987_ [doi](https://doi.org/10.1143/jpsj.56.2902) | Table 1, p. 3, row 1 |  |
-| Lattice b | 5.4 Å | 0 | (Yb-β); _(Yb-β): Cd 0.015_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 2 |  |
-| Lattice b | 5.48 Å |  | (Yb-β); _(Yb-β): Cd 0.015_ | unspecified | [1] Kali-Ali 2017; _cites Kadomatsu 1987_ [doi](https://doi.org/10.1143/jpsj.56.2902) | Table 1, p. 3, row 1 |  |
-| Lattice c | 5.4 Å | 0 | (Yb-β); _(Yb-β): Cd 0.015_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 2 |  |
-| Lattice c | 5.48 Å |  | (Yb-β); _(Yb-β): Cd 0.015_ | unspecified | [1] Kali-Ali 2017; _cites Kadomatsu 1987_ [doi](https://doi.org/10.1143/jpsj.56.2902) | Table 1, p. 3, row 1 |  |
+| Lattice a | 5.4 Å | 0 | (Yb-β); _(Yb-β): Cd 0.015_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 2; `ORC-FAJPEKL3E4.b1bb38` |  |
+| Lattice a | 5.48 Å |  | (Yb-β); _(Yb-β): Cd 0.015_ | unspecified | [1] Kali-Ali 2017; _cites Kadomatsu 1987_ [doi](https://doi.org/10.1143/jpsj.56.2902) | Table 1, p. 3, row 1; `ORC-JRIWY77XXN.077537` |  |
+| Lattice b | 5.4 Å | 0 | (Yb-β); _(Yb-β): Cd 0.015_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 2; `ORC-FAJPEKL3E4.e610dd` |  |
+| Lattice b | 5.48 Å |  | (Yb-β); _(Yb-β): Cd 0.015_ | unspecified | [1] Kali-Ali 2017; _cites Kadomatsu 1987_ [doi](https://doi.org/10.1143/jpsj.56.2902) | Table 1, p. 3, row 1; `ORC-JRIWY77XXN.4241d4` |  |
+| Lattice c | 5.4 Å | 0 | (Yb-β); _(Yb-β): Cd 0.015_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 2; `ORC-FAJPEKL3E4.a67e94` |  |
+| Lattice c | 5.48 Å |  | (Yb-β); _(Yb-β): Cd 0.015_ | unspecified | [1] Kali-Ali 2017; _cites Kadomatsu 1987_ [doi](https://doi.org/10.1143/jpsj.56.2902) | Table 1, p. 3, row 1; `ORC-JRIWY77XXN.e8fdb2` |  |
 
 ## Sources
 
@@ -77,4 +77,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

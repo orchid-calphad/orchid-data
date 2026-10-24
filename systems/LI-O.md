@@ -48,15 +48,15 @@ Table: Invariant reactions reported in the literature for the Li–O system (9)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2673 | L -> Gas | L: O 0.3333; Gas: O 0.3333 | model | [1] Chang 2011 | Table 3, p. 4, row 6 |  |
-| 2600 | L -> Gas | L: O 0.3333; Gas: O 0.3333 | experimental | [1] Chang 2011; _cites Brewer 1953_ [doi](https://doi.org/10.1021/cr60161a001) | Table 3, p. 4, row 5 |  |
-| 1711 | L -> Li2O | L: O 0.3333; Li2O: O 0.3333 | experimental | [1] Chang 2011; _cites Ortman 1983_ | Table 3, p. 4, row 3 |  |
-| 1711 | L -> Li2O | L: O 0.3333; Li2O: O 0.3333 | model | [1] Chang 2011 | Table 3, p. 4, row 4 |  |
-| 613.2 | Li2O2 -> Li2O + Gas |  | model | [1] Chang 2011 | Table 3, p. 4, row 8 |  |
-| 613 | Li2O2 -> Li2O + Gas |  | experimental | [1] Chang 2011; _cites Yu 2009_ | Table 3, p. 4, row 7 |  |
-| 453.6 | L -> (Li) + Li2O | L: O 2.000e-6 | experimental | [1] Chang 2011; _cites Sangster 1992_ [doi](https://doi.org/10.1007/bf02667558) | Table 3, p. 4, row 1 |  |
-| 453.6 | L -> (Li) + Li2O | L: O 2.000e-6 | model | [1] Chang 2011 | Table 3, p. 4, row 2 |  |
-| 453.6 | eutectic |  | experimental | [1] Chang 2011; _cites Sangster 1992_ [doi](https://doi.org/10.1007/bf02667558) | p. 1 | “Sangster and Pelton \[1\] reviewed the solubility data from Refs. \[2-5\] and reported an eutectic reaction involving (Li), Li2 O and liquid at 453.6 K with a eutectic composition of 2 × 10-4 at.% O.” |
+| 2673 | L -> Gas | L: O 0.3333; Gas: O 0.3333 | model | [1] Chang 2011 | Table 3, p. 4, row 6; `ORC-BFRLBIBKLZ` |  |
+| 2600 | L -> Gas | L: O 0.3333; Gas: O 0.3333 | experimental | [1] Chang 2011; _cites Brewer 1953_ [doi](https://doi.org/10.1021/cr60161a001) | Table 3, p. 4, row 5; `ORC-W47KAQOE7F` |  |
+| 1711 | L -> Li2O | L: O 0.3333; Li2O: O 0.3333 | experimental | [1] Chang 2011; _cites Ortman 1983_ | Table 3, p. 4, row 3; `ORC-CWOESMWYQQ` |  |
+| 1711 | L -> Li2O | L: O 0.3333; Li2O: O 0.3333 | model | [1] Chang 2011 | Table 3, p. 4, row 4; `ORC-EI535GZ5CJ` |  |
+| 613.2 | Li2O2 -> Li2O + Gas |  | model | [1] Chang 2011 | Table 3, p. 4, row 8; `ORC-WRNTAGZEIP` |  |
+| 613 | Li2O2 -> Li2O + Gas |  | experimental | [1] Chang 2011; _cites Yu 2009_ | Table 3, p. 4, row 7; `ORC-NMPF3MCGDJ` |  |
+| 453.6 | L -> (Li) + Li2O | L: O 2.000e-6 | experimental | [1] Chang 2011; _cites Sangster 1992_ [doi](https://doi.org/10.1007/bf02667558) | Table 3, p. 4, row 1; `ORC-GW22E5ZPEJ` |  |
+| 453.6 | L -> (Li) + Li2O | L: O 2.000e-6 | model | [1] Chang 2011 | Table 3, p. 4, row 2; `ORC-NRV74RECVF` |  |
+| 453.6 | eutectic |  | experimental | [1] Chang 2011; _cites Sangster 1992_ [doi](https://doi.org/10.1007/bf02667558) | p. 1; `ORC-TBZ6SQT3Y5` | “Sangster and Pelton \[1\] reviewed the solubility data from Refs. \[2-5\] and reported an eutectic reaction involving (Li), Li2 O and liquid at 453.6 K with a eutectic composition of 2 × 10-4 at.% O.” |
 
 ## Formation enthalpies
 
@@ -66,15 +66,15 @@ Table: Enthalpies of formation, Li–O system (9)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Li2O | [Li2O](https://data.orchid-project.org/compounds/Li2O.html) | -199.577 kJ/mol-atom ± 0.7 | 298.15 | model | -198.913 (mp-aaaaacxk) | -191.001 (oqmd-18939) | [1] Chang 2011; _cites This_ | Table 4, p. 5, row 4 |  |
-| Li2O | [Li2O](https://data.orchid-project.org/compounds/Li2O.html) | -199.301 kJ/mol-atom ± 0.092 | 298.15 | experimental | -198.913 (mp-aaaaacxk) | -191.001 (oqmd-18939) | [1] Chang 2011; _cites ref. 21_ | Table 4, p. 5, row 2 |  |
-| Li2O | [Li2O](https://data.orchid-project.org/compounds/Li2O.html) | -199.16 kJ/mol-atom ± 0.433333 | 298.15 | experimental | -198.913 (mp-aaaaacxk) | -191.001 (oqmd-18939) | [1] Chang 2011; _cites ref. 20_ | Table 4, p. 5, row 1 |  |
-| Li2O | [Li2O](https://data.orchid-project.org/compounds/Li2O.html) | -199 kJ/mol-atom | 298.15 | model | -198.913 (mp-aaaaacxk) | -191.001 (oqmd-18939) | [1] Chang 2011 | Table 4, p. 5, row 5 |  |
-| Li2O | [Li2O](https://data.orchid-project.org/compounds/Li2O.html) | -198.833 kJ/mol-atom ± 0.223333 | 298.15 | experimental | -198.913 (mp-aaaaacxk) | -191.001 (oqmd-18939) | [1] Chang 2011; _cites ref. 22_ | Table 4, p. 5, row 3 |  |
-| Li2O2 | [LiO](https://data.orchid-project.org/compounds/LiO.html) | -161.07 kJ/mol-atom | 298.15 | model | -159.217 (mp-aaaaabgj) | -156.379 (oqmd-4780) | [1] Chang 2011 | Table 4, p. 5, row 9 |  |
-| Li2O2 | [LiO](https://data.orchid-project.org/compounds/LiO.html) | -158.155 kJ/mol-atom ± 2.1 | 298.15 | model | -159.217 (mp-aaaaabgj) | -156.379 (oqmd-4780) | [1] Chang 2011; _cites This_ | Table 4, p. 5, row 8 |  |
-| Li2O2 | [LiO](https://data.orchid-project.org/compounds/LiO.html) | -158.155 kJ/mol-atom | 298.15 | experimental | -159.217 (mp-aaaaabgj) | -156.379 (oqmd-4780) | [1] Chang 2011; _cites ref. 28_ | Table 4, p. 5, row 7 |  |
-| Li2O2 | [LiO](https://data.orchid-project.org/compounds/LiO.html) | -151.475 kJ/mol-atom | 298.15 | experimental | -159.217 (mp-aaaaabgj) | -156.379 (oqmd-4780) | [1] Chang 2011; _cites ref. 15_ | Table 4, p. 5, row 6 |  |
+| Li2O | [Li2O](https://data.orchid-project.org/compounds/Li2O.html) | -199.577 kJ/mol-atom ± 0.7 | 298.15 | model | -198.913 (mp-aaaaacxk) | -191.001 (oqmd-18939) | [1] Chang 2011; _cites This_ | Table 4, p. 5, row 4; `ORC-AKI6NGQPUL` |  |
+| Li2O | [Li2O](https://data.orchid-project.org/compounds/Li2O.html) | -199.301 kJ/mol-atom ± 0.092 | 298.15 | experimental | -198.913 (mp-aaaaacxk) | -191.001 (oqmd-18939) | [1] Chang 2011; _cites ref. 21_ | Table 4, p. 5, row 2; `ORC-AZT4WLCRAM` |  |
+| Li2O | [Li2O](https://data.orchid-project.org/compounds/Li2O.html) | -199.16 kJ/mol-atom ± 0.433333 | 298.15 | experimental | -198.913 (mp-aaaaacxk) | -191.001 (oqmd-18939) | [1] Chang 2011; _cites ref. 20_ | Table 4, p. 5, row 1; `ORC-CLLKMPH32B` |  |
+| Li2O | [Li2O](https://data.orchid-project.org/compounds/Li2O.html) | -199 kJ/mol-atom | 298.15 | model | -198.913 (mp-aaaaacxk) | -191.001 (oqmd-18939) | [1] Chang 2011 | Table 4, p. 5, row 5; `ORC-6MGAPSXOS4` |  |
+| Li2O | [Li2O](https://data.orchid-project.org/compounds/Li2O.html) | -198.833 kJ/mol-atom ± 0.223333 | 298.15 | experimental | -198.913 (mp-aaaaacxk) | -191.001 (oqmd-18939) | [1] Chang 2011; _cites ref. 22_ | Table 4, p. 5, row 3; `ORC-ZL6CQL3CB7` |  |
+| Li2O2 | [LiO](https://data.orchid-project.org/compounds/LiO.html) | -161.07 kJ/mol-atom | 298.15 | model | -159.217 (mp-aaaaabgj) | -156.379 (oqmd-4780) | [1] Chang 2011 | Table 4, p. 5, row 9; `ORC-C5DY6KUUTC` |  |
+| Li2O2 | [LiO](https://data.orchid-project.org/compounds/LiO.html) | -158.155 kJ/mol-atom ± 2.1 | 298.15 | model | -159.217 (mp-aaaaabgj) | -156.379 (oqmd-4780) | [1] Chang 2011; _cites This_ | Table 4, p. 5, row 8; `ORC-2BKKRXR33O` |  |
+| Li2O2 | [LiO](https://data.orchid-project.org/compounds/LiO.html) | -158.155 kJ/mol-atom | 298.15 | experimental | -159.217 (mp-aaaaabgj) | -156.379 (oqmd-4780) | [1] Chang 2011; _cites ref. 28_ | Table 4, p. 5, row 7; `ORC-OCTG4OQW4X` |  |
+| Li2O2 | [LiO](https://data.orchid-project.org/compounds/LiO.html) | -151.475 kJ/mol-atom | 298.15 | experimental | -159.217 (mp-aaaaabgj) | -156.379 (oqmd-4780) | [1] Chang 2011; _cites ref. 15_ | Table 4, p. 5, row 6; `ORC-CBPWWARGVT` |  |
 
 ## Other properties
 
@@ -84,8 +84,8 @@ Table: Phase transition, Li–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1843 K | 1843 |  | experimental | [1] Chang 2011; _cites A 1953_ | p. 1 | “Van Arkel et al. \[7\] observed that Li2 O melts quite sharply at 1843 K.” |
-| Phase transition | 1973 K | 1973 |  | model | [1] Chang 2011; _cites Conclusions 2011_ | p. 1 | “Jaeger and van Klooster \[6\] assumed that the melting point is around 1973 K because they were unable to melt Li2 O despite heating it up to 1898 K.” |
+| Phase transition | 1843 K | 1843 |  | experimental | [1] Chang 2011; _cites A 1953_ | p. 1; `ORC-M6SFEPQERF` | “Van Arkel et al. \[7\] observed that Li2 O melts quite sharply at 1843 K.” |
+| Phase transition | 1973 K | 1973 |  | model | [1] Chang 2011; _cites Conclusions 2011_ | p. 1; `ORC-45JHKOPTDQ` | “Jaeger and van Klooster \[6\] assumed that the melting point is around 1973 K because they were unable to melt Li2 O despite heating it up to 1898 K.” |
 
 ### Heat capacity / entropy / enthalpy (4)
 
@@ -93,10 +93,10 @@ Table: Heat capacity / entropy / enthalpy, Li–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: S298.15_ | 12.63 J/mol-atom/K | 298.15 | Li2O; _alloy: O 0.333333_ | experimental | [1] Chang 2011; _cites This_ | Table 5, p. 5, row 1 |  |
-| Entropy; _printed: S298.15_ | 12.1667 J/mol-atom/K | 298.15 | Li2O; _alloy: O 0.333333_ | model | [1] Chang 2011 | Table 5, p. 5, row 2 |  |
-| Entropy; _printed: S298.15_ | 15.2075 J/mol-atom/K | 298.15 | Li2O2; _alloy: O 0.5_ | model | [1] Chang 2011 | Table 5, p. 5, row 4 |  |
-| Entropy; _printed: S298.15_ | 14.121 J/mol-atom/K ± 1.05 | 298.15 | Li2O2; _alloy: O 0.5_ | model | [1] Chang 2011; _cites This_ | Table 5, p. 5, row 3 |  |
+| Entropy; _printed: S298.15_ | 12.63 J/mol-atom/K | 298.15 | Li2O; _alloy: O 0.333333_ | experimental | [1] Chang 2011; _cites This_ | Table 5, p. 5, row 1; `ORC-EUYU6YYM6V` |  |
+| Entropy; _printed: S298.15_ | 12.1667 J/mol-atom/K | 298.15 | Li2O; _alloy: O 0.333333_ | model | [1] Chang 2011 | Table 5, p. 5, row 2; `ORC-OSPSXFTUKN` |  |
+| Entropy; _printed: S298.15_ | 15.2075 J/mol-atom/K | 298.15 | Li2O2; _alloy: O 0.5_ | model | [1] Chang 2011 | Table 5, p. 5, row 4; `ORC-GB33N5JOOR` |  |
+| Entropy; _printed: S298.15_ | 14.121 J/mol-atom/K ± 1.05 | 298.15 | Li2O2; _alloy: O 0.5_ | model | [1] Chang 2011; _cites This_ | Table 5, p. 5, row 3; `ORC-ILEK64SGTU` |  |
 
 ## Sources
 
@@ -161,4 +161,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -14,10 +14,10 @@ Table: Enthalpy of formation of Ru2Sn3 reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -21.6 kJ/mol (basis unstated) ± 3 | Ru0.4Sn0.6 | 298.15 | experimental | direct reaction calorimetry | [Ru–Sn](https://data.orchid-project.org/systems/RU-SN.html) | [1] Charles 1999; _cites Perring 1997_ | Table 1, p. 1, row 5 |  |
-| -21.1 kJ/mol (basis unstated) ± 2.5 | Ru0.4Sn0.6 | 298.15 | experimental | mass spectrometry | [Ru–Sn](https://data.orchid-project.org/systems/RU-SN.html) | [1] Charles 1999; _cites Ciccioli 1998_ [doi](https://doi.org/10.1002/bbpc.19981020936) | Table 1, p. 1, row 7 |  |
-| -24.3 kJ/mol (basis unstated) ± 1.6 | Ru0.4Sn0.6 |  | model |  | [Ru–Sn](https://data.orchid-project.org/systems/RU-SN.html) | [1] Charles 1999 | Table 1, p. 1, row 3 |  |
-| -24.3 kJ/mol (basis unstated) | Ru0.4Sn0.6 |  | unspecified |  | [Ru–Sn](https://data.orchid-project.org/systems/RU-SN.html) | [1] Charles 1999; _cites Perring 1997_ | Table 4, p. 4, row 3 |  |
+| -21.6 kJ/mol (basis unstated) ± 3 | Ru0.4Sn0.6 | 298.15 | experimental | direct reaction calorimetry | [Ru–Sn](https://data.orchid-project.org/systems/RU-SN.html) | [1] Charles 1999; _cites Perring 1997_ | Table 1, p. 1, row 5; `ORC-K47VZTXFQO` |  |
+| -21.1 kJ/mol (basis unstated) ± 2.5 | Ru0.4Sn0.6 | 298.15 | experimental | mass spectrometry | [Ru–Sn](https://data.orchid-project.org/systems/RU-SN.html) | [1] Charles 1999; _cites Ciccioli 1998_ [doi](https://doi.org/10.1002/bbpc.19981020936) | Table 1, p. 1, row 7; `ORC-WRCG5F65ZG` |  |
+| -24.3 kJ/mol (basis unstated) ± 1.6 | Ru0.4Sn0.6 |  | model |  | [Ru–Sn](https://data.orchid-project.org/systems/RU-SN.html) | [1] Charles 1999 | Table 1, p. 1, row 3; `ORC-UDAKF7I4HN.fb1dcd` |  |
+| -24.3 kJ/mol (basis unstated) | Ru0.4Sn0.6 |  | unspecified |  | [Ru–Sn](https://data.orchid-project.org/systems/RU-SN.html) | [1] Charles 1999; _cites Perring 1997_ | Table 4, p. 4, row 3; `ORC-W6NT6WY62S.6e0efd` |  |
 
 ### Uncertainty budget
 
@@ -83,4 +83,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

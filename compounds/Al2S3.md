@@ -14,14 +14,14 @@ Table: Enthalpy of formation of Al2S3 reported in the literature (8)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -144.6 kJ/mol-atom | αAl2S3 | 298.15 | experimental | Evaluation | [Al–S](https://data.orchid-project.org/systems/AL-S.html) | [1] Shi 2019; _cites Mills 1974_ | Table 3, p. 3, row 5 |  |
-| -130.2 kJ/mol-atom | αAl2S3 | 298.15 | experimental | Solution calorimetry | [Al–S](https://data.orchid-project.org/systems/AL-S.html) | [1] Shi 2019; _cites Ferrante 1981_ | Table 3, p. 3, row 2 |  |
-| -130.2 kJ/mol-atom | αAl2S3 | 298.15 | model | CALPHAD | [Al–S](https://data.orchid-project.org/systems/AL-S.html) | [1] Shi 2019 | Table 3, p. 3, row 6 |  |
-| -107.9 kJ/mol-atom | γAl2S3 | 298.15 | model | CALPHAD | [Al–S](https://data.orchid-project.org/systems/AL-S.html) | [1] Shi 2019 | Table 3, p. 3, row 9 |  |
-| -140.7 kJ/mol-atom | αAl2S3 | 0 | DFT | DFT | [Al–S](https://data.orchid-project.org/systems/AL-S.html) | [1] Shi 2019; _cites The 2019_ | Table 3, p. 3, row 4 |  |
-| -136.8 kJ/mol-atom | γAl2S3 | 0 | DFT | DFT | [Al–S](https://data.orchid-project.org/systems/AL-S.html) | [1] Shi 2019; _cites The 2019_ | Table 3, p. 3, row 8 |  |
-| -118.9 kJ/mol-atom | αAl2S3 | 0 | DFT | DFT | [Al–S](https://data.orchid-project.org/systems/AL-S.html) | [1] Shi 2019; _cites The 2019_ | Table 3, p. 3, row 3 |  |
-| -115.2 kJ/mol-atom | γAl2S3 | 0 | DFT | DFT | [Al–S](https://data.orchid-project.org/systems/AL-S.html) | [1] Shi 2019; _cites The 2019_ | Table 3, p. 3, row 7 |  |
+| -144.6 kJ/mol-atom | αAl2S3 | 298.15 | experimental | Evaluation | [Al–S](https://data.orchid-project.org/systems/AL-S.html) | [1] Shi 2019; _cites Mills 1974_ | Table 3, p. 3, row 5; `ORC-MXY27VG2FT.35e026` |  |
+| -130.2 kJ/mol-atom | αAl2S3 | 298.15 | experimental | Solution calorimetry | [Al–S](https://data.orchid-project.org/systems/AL-S.html) | [1] Shi 2019; _cites Ferrante 1981_ | Table 3, p. 3, row 2; `ORC-KSTU4ZV3C3.e1f504` |  |
+| -130.2 kJ/mol-atom | αAl2S3 | 298.15 | model | CALPHAD | [Al–S](https://data.orchid-project.org/systems/AL-S.html) | [1] Shi 2019 | Table 3, p. 3, row 6; `ORC-OC7R34WB7X.208a84` |  |
+| -107.9 kJ/mol-atom | γAl2S3 | 298.15 | model | CALPHAD | [Al–S](https://data.orchid-project.org/systems/AL-S.html) | [1] Shi 2019 | Table 3, p. 3, row 9; `ORC-UYRWMCR4NY.d5a44d` |  |
+| -140.7 kJ/mol-atom | αAl2S3 | 0 | DFT | DFT | [Al–S](https://data.orchid-project.org/systems/AL-S.html) | [1] Shi 2019; _cites The 2019_ | Table 3, p. 3, row 4; `ORC-S36YOYLXR7.6bf559` |  |
+| -136.8 kJ/mol-atom | γAl2S3 | 0 | DFT | DFT | [Al–S](https://data.orchid-project.org/systems/AL-S.html) | [1] Shi 2019; _cites The 2019_ | Table 3, p. 3, row 8; `ORC-6WFVIRWNBJ.e382ef` |  |
+| -118.9 kJ/mol-atom | αAl2S3 | 0 | DFT | DFT | [Al–S](https://data.orchid-project.org/systems/AL-S.html) | [1] Shi 2019; _cites The 2019_ | Table 3, p. 3, row 3; `ORC-GH4YEVZ3WU.284aaa` |  |
+| -115.2 kJ/mol-atom | γAl2S3 | 0 | DFT | DFT | [Al–S](https://data.orchid-project.org/systems/AL-S.html) | [1] Shi 2019; _cites The 2019_ | Table 3, p. 3, row 7; `ORC-DUVADSEON4.f24261` |  |
 
 ### Uncertainty budget
 
@@ -104,4 +104,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

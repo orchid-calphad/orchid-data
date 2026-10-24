@@ -51,15 +51,15 @@ Table: Invariant reactions reported in the literature for the Cr–Pd system (9)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1593 | eutectic: L ↔ (Cr) + Cr3Pd2 |  | experimental | [1] Ghosh 2000 | p. 1 | “Their thermal analysis data suggest two eutectics L ↔ (Cr) + Cr3Pd2 at 1593 K and 25 at.% Pd and L ↔ Cr3Pd2 + (Pd) at 1568 K and 44 at.% Pd.” |
-| 1586 | L \<-> (Cr) + (Pd) | L: Pd 0.44; (Cr): Pd 0.02; (Pd): Pd 0.495 | experimental | [1] Ghosh 2000; _cites Raub 1954_ | Table 1, p. 5, row 1 |  |
-| 1577 | L \<-> (Cr) + (Pd) | L: Pd 0.4034; (Cr): Pd 0.0132; (Pd): Pd 0.4956 | model | [1] Ghosh 2000 | Table 1, p. 5, row 2 |  |
-| 1568 | eutectic: L ↔ Cr3Pd2 + (Pd) |  | experimental | [1] Ghosh 2000 | p. 1 | “Their thermal analysis data suggest two eutectics L ↔ (Cr) + Cr3Pd2 at 1593 K and 25 at.% Pd and L ↔ Cr3Pd2 + (Pd) at 1568 K and 44 at.% Pd.” |
-| 843 | (Cr) + (Pd) \<-> CrPd | (Cr): Pd 0.004; (Pd): Pd 0.628; CrPd: Pd 0.5 | experimental | [1] Ghosh 2000; _cites Raub 1967_ | Table 1, p. 5, row 3 |  |
-| 843 | (Cr) + (Pd) \<-> CrPd | (Cr): Pd 0.0044; (Pd): Pd 0.6321; CrPd: Pd 0.5 | model | [1] Ghosh 2000 | Table 1, p. 5, row 4 |  |
-| 778 | CrPd + (Pd) \<-> Cr2Pd3 | CrPd: Pd 0.5; (Pd): Pd 0.6532; Cr2Pd3: Pd 0.6 | model | [1] Ghosh 2000 | Table 1, p. 5, row 6 |  |
-| 778 | peritectoid |  | experimental | [1] Ghosh 2000 | p. 3 | “Cr2Pd3 has a homogeneity range of 55 to 75 at.% Pd, and at the peritectoid temperature (778 K), its composition is 61 at.% Pd.” |
-| 778 | CrPd + (Pd) \<-> Cr2Pd3 | CrPd: Pd 0.52; (Pd): Pd 0.66; Cr2Pd3: Pd 0.61 | experimental | [1] Ghosh 2000; _cites Raub 1967_ | Table 1, p. 5, row 5 |  |
+| 1593 | eutectic: L ↔ (Cr) + Cr3Pd2 |  | experimental | [1] Ghosh 2000 | p. 1; `ORC-BW22RVJCMP.5b38ad` | “Their thermal analysis data suggest two eutectics L ↔ (Cr) + Cr3Pd2 at 1593 K and 25 at.% Pd and L ↔ Cr3Pd2 + (Pd) at 1568 K and 44 at.% Pd.” |
+| 1586 | L \<-> (Cr) + (Pd) | L: Pd 0.44; (Cr): Pd 0.02; (Pd): Pd 0.495 | experimental | [1] Ghosh 2000; _cites Raub 1954_ | Table 1, p. 5, row 1; `ORC-2IXWLE2PAR` |  |
+| 1577 | L \<-> (Cr) + (Pd) | L: Pd 0.4034; (Cr): Pd 0.0132; (Pd): Pd 0.4956 | model | [1] Ghosh 2000 | Table 1, p. 5, row 2; `ORC-EMT4VYGIFV` |  |
+| 1568 | eutectic: L ↔ Cr3Pd2 + (Pd) |  | experimental | [1] Ghosh 2000 | p. 1; `ORC-BW22RVJCMP.27fb93` | “Their thermal analysis data suggest two eutectics L ↔ (Cr) + Cr3Pd2 at 1593 K and 25 at.% Pd and L ↔ Cr3Pd2 + (Pd) at 1568 K and 44 at.% Pd.” |
+| 843 | (Cr) + (Pd) \<-> CrPd | (Cr): Pd 0.004; (Pd): Pd 0.628; CrPd: Pd 0.5 | experimental | [1] Ghosh 2000; _cites Raub 1967_ | Table 1, p. 5, row 3; `ORC-7YESCKYGRM` |  |
+| 843 | (Cr) + (Pd) \<-> CrPd | (Cr): Pd 0.0044; (Pd): Pd 0.6321; CrPd: Pd 0.5 | model | [1] Ghosh 2000 | Table 1, p. 5, row 4; `ORC-ZODNDQORZE` |  |
+| 778 | CrPd + (Pd) \<-> Cr2Pd3 | CrPd: Pd 0.5; (Pd): Pd 0.6532; Cr2Pd3: Pd 0.6 | model | [1] Ghosh 2000 | Table 1, p. 5, row 6; `ORC-E7CQMAMM65` |  |
+| 778 | peritectoid |  | experimental | [1] Ghosh 2000 | p. 3; `ORC-OFPDI47FEH` | “Cr2Pd3 has a homogeneity range of 55 to 75 at.% Pd, and at the peritectoid temperature (778 K), its composition is 61 at.% Pd.” |
+| 778 | CrPd + (Pd) \<-> Cr2Pd3 | CrPd: Pd 0.52; (Pd): Pd 0.66; Cr2Pd3: Pd 0.61 | experimental | [1] Ghosh 2000; _cites Raub 1967_ | Table 1, p. 5, row 5; `ORC-PTA6LLQCYW` |  |
 
 ## Other properties
 
@@ -69,7 +69,7 @@ Table: Phase transition, Cr–Pd system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 673 K | 673 | magnetic | experimental | [1] Ghosh 2000; _cites A Kussmann 1968_ | p. 3 | “The Curie temperatures of both CrPd and Cr2Pd3 have been reported to be about 673 K.\[17\]” |
+| Phase transition | 673 K | 673 | magnetic | experimental | [1] Ghosh 2000; _cites A Kussmann 1968_ | p. 3; `ORC-XAKQDHKKAY` | “The Curie temperatures of both CrPd and Cr2Pd3 have been reported to be about 673 K.\[17\]” |
 
 ## Sources
 
@@ -134,4 +134,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

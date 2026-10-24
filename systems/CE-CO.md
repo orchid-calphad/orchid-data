@@ -124,45 +124,45 @@ Table: Invariant reactions reported in the literature for the Ce–Co system (39
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1503 | Liq. + α-Co(fcc)->Co17Ce2 | Co17Ce2: Co 0.894737 | experimental | [1] Su 1998; _cites Buschow 1971_ | Table 3, p. 5, row 44 |  |
-| 1488 | Liq. + Co17Ce2->Co5Ce | Co17Ce2: Co 0.894737; Co5Ce: Co 0.833333 | experimental | [1] Su 1998; _cites Buschow 1971_ | Table 3, p. 5, row 37 |  |
-| 1484 | Liq. + α-Co(fcc)->Co17Ce2 | Liq.: Co 0.857; Co17Ce2: Co 0.894737 | model | [1] Su 1998 | Table 3, p. 5, row 42 |  |
-| 1483 | Liq. + α-Co(fcc)->Co17Ce2 | Liq.: Co 0.856; Co17Ce2: Co 0.894737 | model | [1] Su 1998 | Table 3, p. 5, row 43 |  |
-| 1482 | Liq. + α-Co(fcc)->Co17Ce2 | Co17Ce2: Co 0.894737 | experimental | [1] Su 1998; _cites Ray 1973_ | Table 3, p. 5, row 45 |  |
-| 1468 | Liq. + Co17Ce2->Co5Ce | Liq.: Co 0.83; Co17Ce2: Co 0.894737; Co5Ce: Co 0.833333 | model | [1] Su 1998 | Table 3, p. 5, row 36 |  |
-| 1467 | Liq. + Co17Ce2->Co5Ce | Liq.: Co 0.831; Co17Ce2: Co 0.894737; Co5Ce: Co 0.833333 | model | [1] Su 1998 | Table 3, p. 5, row 35 |  |
-| 1466 | Liq. + Co17Ce2->Co5Ce | Co17Ce2: Co 0.894737; Co5Ce: Co 0.833333 | experimental | [1] Su 1998; _cites Ray 1973_ | Table 3, p. 5, row 38 |  |
-| 1428 | Liq. + Co19Ce5->Co7Ce2 | Co19Ce5: Co 0.791667; Co7Ce2: Co 0.777778 | experimental | [1] Su 1998; _cites Buschow 1971_ | Table 3, p. 5, row 28 |  |
-| 1418 | Liq. + Co5Ce->Co19Ce5 | Liq.: Co 0.742; Co5Ce: Co 0.833333; Co19Ce5: Co 0.791667 | model | [1] Su 1998 | Table 3, p. 5, row 31 |  |
-| 1418 | Liq. + Co5Ce->Co19Ce5 | Co5Ce: Co 0.833333; Co19Ce5: Co 0.791667 | experimental | [1] Su 1998; _cites Wu 1991_ [doi](https://doi.org/10.1515/ijmr-1991-820806) | Table 3, p. 5, row 34 |  |
-| 1414 | Liq. + Co5Ce->Co19Ce5 | Liq.: Co 0.746; Co5Ce: Co 0.833333; Co19Ce5: Co 0.791667 | model | [1] Su 1998 | Table 3, p. 5, row 32 |  |
-| 1407 | Liq. + Co5Ce->Co19Ce5 | Co5Ce: Co 0.833333; Co19Ce5: Co 0.791667 | experimental | [1] Su 1998; _cites Ray 1973_ | Table 3, p. 5, row 33 |  |
-| 1403 | Liq. + Co19Ce5->Co7Ce2 | Co19Ce5: Co 0.791667; Co7Ce2: Co 0.777778 | experimental | [1] Su 1998; _cites Ray 1973_ | Table 3, p. 5, row 29 |  |
-| 1398 | Liq. + Co19Ce5->Co7Ce2 | Liq.: Co 0.712; Co19Ce5: Co 0.791667; Co7Ce2: Co 0.777778 | model | [1] Su 1998 | Table 3, p. 5, row 26 |  |
-| 1398 | Liq. + Co19Ce5->Co7Ce2 | Co19Ce5: Co 0.791667; Co7Ce2: Co 0.777778 | experimental | [1] Su 1998; _cites Wu 1991_ [doi](https://doi.org/10.1515/ijmr-1991-820806) | Table 3, p. 5, row 30 |  |
-| 1397 | Liq. + Co19Ce5->Co7Ce2 | Liq.: Co 0.717; Co19Ce5: Co 0.791667; Co7Ce2: Co 0.777778 | model | [1] Su 1998 | Table 3, p. 5, row 27 |  |
-| 1388 | Liq. + Co7Ce2->Co3Ce | Co7Ce2: Co 0.777778; Co3Ce: Co 0.75 | experimental | [1] Su 1998; _cites Buschow 1971_ | Table 3, p. 5, row 23 |  |
-| 1364 | Liq. + Co7Ce2->Co3Ce | Co7Ce2: Co 0.777778; Co3Ce: Co 0.75 | experimental | [1] Su 1998; _cites Ray 1973_ | Table 3, p. 5, row 24 |  |
-| 1354 | Liq. + Co7Ce2->Co3Ce | Co7Ce2: Co 0.777778; Co3Ce: Co 0.75 | experimental | [1] Su 1998; _cites Wu 1991_ [doi](https://doi.org/10.1515/ijmr-1991-820806) | Table 3, p. 5, row 25 |  |
-| 1354 | Liq. + Co7Ce2->Co3Ce | Liq.: Co 0.669; Co7Ce2: Co 0.777778; Co3Ce: Co 0.75 | model | [1] Su 1998 | Table 3, p. 5, row 22 |  |
-| 1354 | Liq. + Co7Ce2->Co3Ce | Liq.: Co 0.665; Co7Ce2: Co 0.777778; Co3Ce: Co 0.75 | model | [1] Su 1998 | Table 3, p. 5, row 21 |  |
-| 1323 | Liq. + Co3Ce->Co2Ce | Co3Ce: Co 0.75; Co2Ce: Co 0.666667 | experimental | [1] Su 1998; _cites Buschow 1971_ | Table 3, p. 5, row 18 |  |
-| 1309 | Liq. + Co3Ce->Co2Ce | Co3Ce: Co 0.75; Co2Ce: Co 0.666667 | experimental | [1] Su 1998; _cites Wu 1991_ [doi](https://doi.org/10.1515/ijmr-1991-820806) | Table 3, p. 5, row 20 |  |
-| 1309 | Liq. + Co3Ce->Co2Ce | Liq.: Co 0.63; Co3Ce: Co 0.75; Co2Ce: Co 0.666667 | model | [1] Su 1998 | Table 3, p. 5, row 17 |  |
-| 1309 | Liq. + Co3Ce->Co2Ce | Liq.: Co 0.628; Co3Ce: Co 0.75; Co2Ce: Co 0.666667 | model | [1] Su 1998 | Table 3, p. 5, row 16 |  |
-| 1293 | Liq. + Co3Ce->Co2Ce | Co3Ce: Co 0.75; Co2Ce: Co 0.666667 | experimental | [1] Su 1998; _cites Ray 1973_ | Table 3, p. 5, row 19 |  |
-| 1023 | Co5Ce->Co19Ce5 + Co17Ce2 | Co5Ce: Co 0.833333; Co19Ce5: Co 0.791667; Co17Ce2: Co 0.894737 | experimental | [1] Su 1998; _cites Wu 1991_ [doi](https://doi.org/10.1515/ijmr-1991-820806) | Table 3, p. 5, row 41 |  |
-| 1023 | Co5Ce->Co19Ce5 + Co17Ce2 | Co5Ce: Co 0.833333; Co19Ce5: Co 0.791667; Co17Ce2: Co 0.894737 | model | [1] Su 1998 | Table 3, p. 5, row 39 |  |
-| 716 | Liq.->Co11Ce24 + Co2Ce | Liq.: Co 0.34; Co11Ce24: Co 0.314286; Co2Ce: Co 0.666667 | experimental | [1] Su 1998; _cites Ray 1973_ | Table 3, p. 5, row 14 |  |
-| 713 | Liq.->Co11Ce24 + Co2Ce | Co11Ce24: Co 0.314286; Co2Ce: Co 0.666667 | experimental | [1] Su 1998; _cites Buschow 1971_ | Table 3, p. 5, row 13 |  |
-| 710 | Liq.->Co11Ce24 + Co2Ce | Liq.: Co 0.341; Co11Ce24: Co 0.314286; Co2Ce: Co 0.666667 | model | [1] Su 1998 | Table 3, p. 5, row 12 |  |
-| 708 | Liq.->Co11Ce24 + Co2Ce | Liq.: Co 0.34; Co11Ce24: Co 0.314286; Co2Ce: Co 0.666667 | experimental | [1] Su 1998; _cites Wu 1991_ [doi](https://doi.org/10.1515/ijmr-1991-820806) | Table 3, p. 5, row 15 |  |
-| 708 | Liq.->Co11Ce24 + Co2Ce | Liq.: Co 0.348; Co11Ce24: Co 0.314286; Co2Ce: Co 0.666667 | model | [1] Su 1998 | Table 3, p. 5, row 11 |  |
-| 697 | Liq.->α-Ce(fcc) + Co11Ce24 | Liq.: Co 0.241; Co11Ce24: Co 0.314286 | experimental | [1] Su 1998; _cites Ray 1973_ | Table 3, p. 5, row 4 |  |
-| 697 | Liq.->α-Ce(fcc) + Co11Ce24 | Co11Ce24: Co 0.314286 | experimental | [1] Su 1998; _cites Buschow 1971_ | Table 3, p. 5, row 3 |  |
-| 695 | Liq.->α-Ce(fcc) + Co11Ce24 | Liq.: Co 0.237; Co11Ce24: Co 0.314286 | model | [1] Su 1998 | Table 3, p. 5, row 2 |  |
-| 694 | Liq.->α-Ce(fcc) + Co11Ce24 | Liq.: Co 0.237; Co11Ce24: Co 0.314286 | model | [1] Su 1998 | Table 3, p. 5, row 1 |  |
-| 691 | Liq.->α-Ce(fcc) + Co11Ce24 | Liq.: Co 0.241; Co11Ce24: Co 0.314286 | experimental | [1] Su 1998; _cites Wu 1991_ [doi](https://doi.org/10.1515/ijmr-1991-820806) | Table 3, p. 5, row 5 |  |
+| 1503 | Liq. + α-Co(fcc)->Co17Ce2 | Co17Ce2: Co 0.894737 | experimental | [1] Su 1998; _cites Buschow 1971_ | Table 3, p. 5, row 44; `ORC-32II63CBK7` |  |
+| 1488 | Liq. + Co17Ce2->Co5Ce | Co17Ce2: Co 0.894737; Co5Ce: Co 0.833333 | experimental | [1] Su 1998; _cites Buschow 1971_ | Table 3, p. 5, row 37; `ORC-4FPQMLN4KR` |  |
+| 1484 | Liq. + α-Co(fcc)->Co17Ce2 | Liq.: Co 0.857; Co17Ce2: Co 0.894737 | model | [1] Su 1998 | Table 3, p. 5, row 42; `ORC-STVDTVQQ24` |  |
+| 1483 | Liq. + α-Co(fcc)->Co17Ce2 | Liq.: Co 0.856; Co17Ce2: Co 0.894737 | model | [1] Su 1998 | Table 3, p. 5, row 43; `ORC-6NEYYAMMLB` |  |
+| 1482 | Liq. + α-Co(fcc)->Co17Ce2 | Co17Ce2: Co 0.894737 | experimental | [1] Su 1998; _cites Ray 1973_ | Table 3, p. 5, row 45; `ORC-EV22XAIFAQ` |  |
+| 1468 | Liq. + Co17Ce2->Co5Ce | Liq.: Co 0.83; Co17Ce2: Co 0.894737; Co5Ce: Co 0.833333 | model | [1] Su 1998 | Table 3, p. 5, row 36; `ORC-MDSMWQ7DE2` |  |
+| 1467 | Liq. + Co17Ce2->Co5Ce | Liq.: Co 0.831; Co17Ce2: Co 0.894737; Co5Ce: Co 0.833333 | model | [1] Su 1998 | Table 3, p. 5, row 35; `ORC-WGXJGLPSCB` |  |
+| 1466 | Liq. + Co17Ce2->Co5Ce | Co17Ce2: Co 0.894737; Co5Ce: Co 0.833333 | experimental | [1] Su 1998; _cites Ray 1973_ | Table 3, p. 5, row 38; `ORC-V6MUQ3LBEK` |  |
+| 1428 | Liq. + Co19Ce5->Co7Ce2 | Co19Ce5: Co 0.791667; Co7Ce2: Co 0.777778 | experimental | [1] Su 1998; _cites Buschow 1971_ | Table 3, p. 5, row 28; `ORC-FSGTDWDU2E` |  |
+| 1418 | Liq. + Co5Ce->Co19Ce5 | Liq.: Co 0.742; Co5Ce: Co 0.833333; Co19Ce5: Co 0.791667 | model | [1] Su 1998 | Table 3, p. 5, row 31; `ORC-AGYGASITCN` |  |
+| 1418 | Liq. + Co5Ce->Co19Ce5 | Co5Ce: Co 0.833333; Co19Ce5: Co 0.791667 | experimental | [1] Su 1998; _cites Wu 1991_ [doi](https://doi.org/10.1515/ijmr-1991-820806) | Table 3, p. 5, row 34; `ORC-JUBDMRH5FI` |  |
+| 1414 | Liq. + Co5Ce->Co19Ce5 | Liq.: Co 0.746; Co5Ce: Co 0.833333; Co19Ce5: Co 0.791667 | model | [1] Su 1998 | Table 3, p. 5, row 32; `ORC-VRMTQCSEH2` |  |
+| 1407 | Liq. + Co5Ce->Co19Ce5 | Co5Ce: Co 0.833333; Co19Ce5: Co 0.791667 | experimental | [1] Su 1998; _cites Ray 1973_ | Table 3, p. 5, row 33; `ORC-5SR5J3DGIS` |  |
+| 1403 | Liq. + Co19Ce5->Co7Ce2 | Co19Ce5: Co 0.791667; Co7Ce2: Co 0.777778 | experimental | [1] Su 1998; _cites Ray 1973_ | Table 3, p. 5, row 29; `ORC-2C5CDTR23D` |  |
+| 1398 | Liq. + Co19Ce5->Co7Ce2 | Liq.: Co 0.712; Co19Ce5: Co 0.791667; Co7Ce2: Co 0.777778 | model | [1] Su 1998 | Table 3, p. 5, row 26; `ORC-2LOPPR7GL7` |  |
+| 1398 | Liq. + Co19Ce5->Co7Ce2 | Co19Ce5: Co 0.791667; Co7Ce2: Co 0.777778 | experimental | [1] Su 1998; _cites Wu 1991_ [doi](https://doi.org/10.1515/ijmr-1991-820806) | Table 3, p. 5, row 30; `ORC-RGHOIIVZQT` |  |
+| 1397 | Liq. + Co19Ce5->Co7Ce2 | Liq.: Co 0.717; Co19Ce5: Co 0.791667; Co7Ce2: Co 0.777778 | model | [1] Su 1998 | Table 3, p. 5, row 27; `ORC-C4ISA4AW7X` |  |
+| 1388 | Liq. + Co7Ce2->Co3Ce | Co7Ce2: Co 0.777778; Co3Ce: Co 0.75 | experimental | [1] Su 1998; _cites Buschow 1971_ | Table 3, p. 5, row 23; `ORC-2IC72NGQ3L` |  |
+| 1364 | Liq. + Co7Ce2->Co3Ce | Co7Ce2: Co 0.777778; Co3Ce: Co 0.75 | experimental | [1] Su 1998; _cites Ray 1973_ | Table 3, p. 5, row 24; `ORC-GSMBCZRJF6` |  |
+| 1354 | Liq. + Co7Ce2->Co3Ce | Co7Ce2: Co 0.777778; Co3Ce: Co 0.75 | experimental | [1] Su 1998; _cites Wu 1991_ [doi](https://doi.org/10.1515/ijmr-1991-820806) | Table 3, p. 5, row 25; `ORC-2YRG7DG2LY` |  |
+| 1354 | Liq. + Co7Ce2->Co3Ce | Liq.: Co 0.669; Co7Ce2: Co 0.777778; Co3Ce: Co 0.75 | model | [1] Su 1998 | Table 3, p. 5, row 22; `ORC-7TGRIKLFEO` |  |
+| 1354 | Liq. + Co7Ce2->Co3Ce | Liq.: Co 0.665; Co7Ce2: Co 0.777778; Co3Ce: Co 0.75 | model | [1] Su 1998 | Table 3, p. 5, row 21; `ORC-H4N2SXJTTB` |  |
+| 1323 | Liq. + Co3Ce->Co2Ce | Co3Ce: Co 0.75; Co2Ce: Co 0.666667 | experimental | [1] Su 1998; _cites Buschow 1971_ | Table 3, p. 5, row 18; `ORC-MADFAKH5V2` |  |
+| 1309 | Liq. + Co3Ce->Co2Ce | Co3Ce: Co 0.75; Co2Ce: Co 0.666667 | experimental | [1] Su 1998; _cites Wu 1991_ [doi](https://doi.org/10.1515/ijmr-1991-820806) | Table 3, p. 5, row 20; `ORC-5HORCBD7JK` |  |
+| 1309 | Liq. + Co3Ce->Co2Ce | Liq.: Co 0.63; Co3Ce: Co 0.75; Co2Ce: Co 0.666667 | model | [1] Su 1998 | Table 3, p. 5, row 17; `ORC-KII2766I4J` |  |
+| 1309 | Liq. + Co3Ce->Co2Ce | Liq.: Co 0.628; Co3Ce: Co 0.75; Co2Ce: Co 0.666667 | model | [1] Su 1998 | Table 3, p. 5, row 16; `ORC-QNOP3TASRN` |  |
+| 1293 | Liq. + Co3Ce->Co2Ce | Co3Ce: Co 0.75; Co2Ce: Co 0.666667 | experimental | [1] Su 1998; _cites Ray 1973_ | Table 3, p. 5, row 19; `ORC-MQC53JVULU` |  |
+| 1023 | Co5Ce->Co19Ce5 + Co17Ce2 | Co5Ce: Co 0.833333; Co19Ce5: Co 0.791667; Co17Ce2: Co 0.894737 | experimental | [1] Su 1998; _cites Wu 1991_ [doi](https://doi.org/10.1515/ijmr-1991-820806) | Table 3, p. 5, row 41; `ORC-H7CJNQHOWJ` |  |
+| 1023 | Co5Ce->Co19Ce5 + Co17Ce2 | Co5Ce: Co 0.833333; Co19Ce5: Co 0.791667; Co17Ce2: Co 0.894737 | model | [1] Su 1998 | Table 3, p. 5, row 39; `ORC-ZKSQR4WQWB.1c00be` |  |
+| 716 | Liq.->Co11Ce24 + Co2Ce | Liq.: Co 0.34; Co11Ce24: Co 0.314286; Co2Ce: Co 0.666667 | experimental | [1] Su 1998; _cites Ray 1973_ | Table 3, p. 5, row 14; `ORC-PXBUO3JTIU` |  |
+| 713 | Liq.->Co11Ce24 + Co2Ce | Co11Ce24: Co 0.314286; Co2Ce: Co 0.666667 | experimental | [1] Su 1998; _cites Buschow 1971_ | Table 3, p. 5, row 13; `ORC-NU4G5WGJXD` |  |
+| 710 | Liq.->Co11Ce24 + Co2Ce | Liq.: Co 0.341; Co11Ce24: Co 0.314286; Co2Ce: Co 0.666667 | model | [1] Su 1998 | Table 3, p. 5, row 12; `ORC-M4J3REQYAP` |  |
+| 708 | Liq.->Co11Ce24 + Co2Ce | Liq.: Co 0.34; Co11Ce24: Co 0.314286; Co2Ce: Co 0.666667 | experimental | [1] Su 1998; _cites Wu 1991_ [doi](https://doi.org/10.1515/ijmr-1991-820806) | Table 3, p. 5, row 15; `ORC-3AE5ZTK7FB` |  |
+| 708 | Liq.->Co11Ce24 + Co2Ce | Liq.: Co 0.348; Co11Ce24: Co 0.314286; Co2Ce: Co 0.666667 | model | [1] Su 1998 | Table 3, p. 5, row 11; `ORC-RXH7AS65PO` |  |
+| 697 | Liq.->α-Ce(fcc) + Co11Ce24 | Liq.: Co 0.241; Co11Ce24: Co 0.314286 | experimental | [1] Su 1998; _cites Ray 1973_ | Table 3, p. 5, row 4; `ORC-GITDX2QDMA` |  |
+| 697 | Liq.->α-Ce(fcc) + Co11Ce24 | Co11Ce24: Co 0.314286 | experimental | [1] Su 1998; _cites Buschow 1971_ | Table 3, p. 5, row 3; `ORC-ZA32PL22ZB` |  |
+| 695 | Liq.->α-Ce(fcc) + Co11Ce24 | Liq.: Co 0.237; Co11Ce24: Co 0.314286 | model | [1] Su 1998 | Table 3, p. 5, row 2; `ORC-IKXKO2SVX2` |  |
+| 694 | Liq.->α-Ce(fcc) + Co11Ce24 | Liq.: Co 0.237; Co11Ce24: Co 0.314286 | model | [1] Su 1998 | Table 3, p. 5, row 1; `ORC-HE6QQEHZXC` |  |
+| 691 | Liq.->α-Ce(fcc) + Co11Ce24 | Liq.: Co 0.241; Co11Ce24: Co 0.314286 | experimental | [1] Su 1998; _cites Wu 1991_ [doi](https://doi.org/10.1515/ijmr-1991-820806) | Table 3, p. 5, row 5; `ORC-PTRVBCEDMC` |  |
 
 ## Other properties
 
@@ -172,16 +172,16 @@ Table: Phase transition, Ce–Co system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 78 K | 78 | magnetic: Co3Ce; _alloy: Co 0.75_ | experimental | [1] Su 1998; _cites Buschow 1977_ [doi](https://doi.org/10.1088/0034-4885/40/10/002) | Table 1, p. 3, row 4 |  |
-| Phase transition | 123 K | 123 | magnetic: Co7Ce2; _alloy: Co 0.777778_ | model | [1] Su 1998 | Table 1, p. 3, row 5 |  |
-| Phase transition | 293 K | 293 | magnetic: Co19Ce5; _alloy: Co 0.791667_ | experimental | [1] Su 1998; _cites Buschow 1977_ [doi](https://doi.org/10.1088/0034-4885/40/10/002) | Table 1, p. 3, row 6 |  |
-| Phase transition | 712 K | 712 | Liq.->Co11Ce24; _Liq.: Co 0.314286; Co11Ce24: Co 0.314286_ | model | [1] Su 1998 | Table 3, p. 5, row 6 |  |
-| Phase transition | 713 K | 713 | Liq.->Co11Ce24; _Liq.: Co 0.314286; Co11Ce24: Co 0.314286_ | model | [1] Su 1998 | Table 3, p. 5, row 7 |  |
-| Phase transition | 713 K | 713 | Liq.->Co11Ce24; _Liq.: Co 0.314286; Co11Ce24: Co 0.314286_ | experimental | [1] Su 1998; _cites Wu 1991_ [doi](https://doi.org/10.1515/ijmr-1991-820806) | Table 3, p. 5, row 10 |  |
-| Phase transition | 718 K | 718 | Liq.->Co11Ce24; _Liq.: Co 0.314286; Co11Ce24: Co 0.314286_ | experimental | [1] Su 1998; _cites Ray 1973_ | Table 3, p. 5, row 9 |  |
-| Phase transition | 718 K | 718 | Liq.->Co11Ce24; _Liq.: Co 0.314286; Co11Ce24: Co 0.314286_ | experimental | [1] Su 1998; _cites Buschow 1971_ | Table 3, p. 5, row 8 |  |
-| Phase transition | 737 K | 737 | magnetic: Co5Ce; _alloy: Co 0.833333_ | experimental | [1] Su 1998; _cites Buschow 1977_ [doi](https://doi.org/10.1088/0034-4885/40/10/002) | Table 1, p. 3, row 7 |  |
-| Phase transition | 1078 K | 1078 | magnetic: Co17Ce2; _alloy: Co 0.894737_ | experimental | [1] Su 1998; _cites Buschow 1977_ [doi](https://doi.org/10.1088/0034-4885/40/10/002) | Table 1, p. 3, row 8 |  |
+| Phase transition | 78 K | 78 | magnetic: Co3Ce; _alloy: Co 0.75_ | experimental | [1] Su 1998; _cites Buschow 1977_ [doi](https://doi.org/10.1088/0034-4885/40/10/002) | Table 1, p. 3, row 4; `ORC-A2P6BFN6ZK` |  |
+| Phase transition | 123 K | 123 | magnetic: Co7Ce2; _alloy: Co 0.777778_ | model | [1] Su 1998 | Table 1, p. 3, row 5; `ORC-XM6B7SYFHX` |  |
+| Phase transition | 293 K | 293 | magnetic: Co19Ce5; _alloy: Co 0.791667_ | experimental | [1] Su 1998; _cites Buschow 1977_ [doi](https://doi.org/10.1088/0034-4885/40/10/002) | Table 1, p. 3, row 6; `ORC-QONFPCKHVV` |  |
+| Phase transition | 712 K | 712 | Liq.->Co11Ce24; _Liq.: Co 0.314286; Co11Ce24: Co 0.314286_ | model | [1] Su 1998 | Table 3, p. 5, row 6; `ORC-JA4UGXFPKO` |  |
+| Phase transition | 713 K | 713 | Liq.->Co11Ce24; _Liq.: Co 0.314286; Co11Ce24: Co 0.314286_ | model | [1] Su 1998 | Table 3, p. 5, row 7; `ORC-KGOCFBVIOG` |  |
+| Phase transition | 713 K | 713 | Liq.->Co11Ce24; _Liq.: Co 0.314286; Co11Ce24: Co 0.314286_ | experimental | [1] Su 1998; _cites Wu 1991_ [doi](https://doi.org/10.1515/ijmr-1991-820806) | Table 3, p. 5, row 10; `ORC-OLRAPS4ZG2` |  |
+| Phase transition | 718 K | 718 | Liq.->Co11Ce24; _Liq.: Co 0.314286; Co11Ce24: Co 0.314286_ | experimental | [1] Su 1998; _cites Ray 1973_ | Table 3, p. 5, row 9; `ORC-BP2OZ5X6HK` |  |
+| Phase transition | 718 K | 718 | Liq.->Co11Ce24; _Liq.: Co 0.314286; Co11Ce24: Co 0.314286_ | experimental | [1] Su 1998; _cites Buschow 1971_ | Table 3, p. 5, row 8; `ORC-DDIUE4O63E` |  |
+| Phase transition | 737 K | 737 | magnetic: Co5Ce; _alloy: Co 0.833333_ | experimental | [1] Su 1998; _cites Buschow 1977_ [doi](https://doi.org/10.1088/0034-4885/40/10/002) | Table 1, p. 3, row 7; `ORC-SCEWBUUZZU` |  |
+| Phase transition | 1078 K | 1078 | magnetic: Co17Ce2; _alloy: Co 0.894737_ | experimental | [1] Su 1998; _cites Buschow 1977_ [doi](https://doi.org/10.1088/0034-4885/40/10/002) | Table 1, p. 3, row 8; `ORC-YJKEOVUIPY` |  |
 
 ## Sources
 
@@ -246,4 +246,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

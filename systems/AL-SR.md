@@ -108,81 +108,81 @@ Table: Invariant reactions reported in the literature for the Al–Sr system (75
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1316.15 | congruent melting: Liquid = SrAl4 | L: Al 0.8, Sr 0.2 (basis unresolved); SrAl4: Al 0.8, Sr 0.2 (basis unresolved) | model | [1] Liang 2014; _cites Zhong 2004_ [doi](https://doi.org/10.1016/j.actamat.2004.02.022) | Table 5, p. 6, row 17 |  |
-| 1313.15 | congruent melting: Liquid = SrAl4 | L: Al 0.8, Sr 0.2; SrAl4: Al 0.8, Sr 0.2 | experimental | [1] Liang 2014; _cites Vakhobov 1979_ | Table 5, p. 6, row 13 |  |
-| 1313.15 | congruent melting: Liquid = SrAl4 | L: Al 0.8, Sr 0.2; SrAl4: Al 0.8, Sr 0.2 | experimental | [1] Liang 2014; _cites Conclusion_ | Table 5, p. 6, row 12 |  |
-| 1313.15 | congruent melting: SrAl4->L | SrAl4: Al 0.8, Sr 0.2; L: Al 0.8, Sr 0.2 | experimental | [2] Wang 2003 | Table 1, p. 2, row 2 |  |
-| 1313.15 | congruent melting: SrAl4->L | SrAl4: Al 0.8, Sr 0.2; L: Sr 0.25 | model | [2] Wang 2003; _cites Du 2002_ | Table 1, p. 2, row 6 |  |
-| 1313.15 | congruent melting: SrAl4->L | SrAl4: Al 0.8, Sr 0.2; L: Sr 0.25 | experimental | [2] Wang 2003; _cites Bruzzone 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990212-x) | Table 1, p. 2, row 3 |  |
-| 1311.15 | congruent melting: Liquid = SrAl4 | L: Al 0.8, Sr 0.2 (basis unresolved); SrAl4: Al 0.8, Sr 0.2 (basis unresolved) | model | [1] Liang 2014 | Table 5, p. 6, row 18 |  |
-| 1307.15 | congruent melting: Liquid = SrAl4 | L: Al 0.8, Sr 0.2 (basis unresolved); SrAl4: Al 0.8, Sr 0.2 (basis unresolved) | model | [1] Liang 2014; _cites Wang 2003_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900046-x) | Table 5, p. 6, row 15 |  |
-| 1307.15 | congruent melting: SrAl4->L | SrAl4: Al 0.8, Sr 0.2; L: Sr 0.25 | model | [2] Wang 2003 | Table 1, p. 2, row 7 |  |
-| 1298.15 | congruent melting: SrAl4->L | SrAl4: Al 0.8, Sr 0.2; L: Sr 0.25 | experimental | [2] Wang 2003; _cites Vakhobov 1979_ | Table 1, p. 2, row 4 |  |
-| 1298.15 | congruent melting: Liquid = SrAl4 | L: Al 0.8, Sr 0.2; SrAl4: Al 0.8, Sr 0.2 | experimental | [1] Liang 2014; _cites Closset 1986_ [doi](https://doi.org/10.1007/bf02665326) | Table 5, p. 6, row 14 |  |
-| 1295.15 | congruent melting: Liquid = SrAl4 | L: Al 0.8, Sr 0.2 (basis unresolved); SrAl4: Al 0.8, Sr 0.2 (basis unresolved) | model | [1] Liang 2014; _cites Zhong 2004_ [doi](https://doi.org/10.1016/j.actamat.2004.02.022) | Table 5, p. 6, row 16 |  |
-| 1273.15 | congruent melting: Liquid = SrAl4 | L: Al 0.8, Sr 0.2; SrAl4: Al 0.8, Sr 0.2 | experimental | [1] Liang 2014; _cites Vakhobov 1975_ | Table 5, p. 6, row 11 |  |
-| 1273.15 | congruent melting: SrAl4->L | SrAl4: Al 0.8, Sr 0.2; L: Sr 0.25 | experimental | [2] Wang 2003; _cites Burylev 1974_ | Table 1, p. 2, row 1 |  |
-| 1227.15 | eutectic: L⇔(Al)+SrAl4 | L: Sr 0.0085; SrAl4: Al 0.8, Sr 0.2 | experimental | [2] Wang 2003; _cites Sato 1985_ | Table 1, p. 2, row 34 |  |
-| 1213.15 | peritectic: SrAl4+L->SrAl2 | SrAl4: Al 0.8, Sr 0.2; SrAl2: Al 0.666667, Sr 0.333333 | experimental | [2] Wang 2003; _cites Vakhobov 1979_ | Table 1, p. 2, row 9 |  |
-| 1213.15 | peritectic: Liquid + SrAl4 = SrAl2 | SrAl4: Al 0.8, Sr 0.2; SrAl2: Al 0.666667, Sr 0.333333 | experimental | [1] Liang 2014; _cites Vakhobov 1979_ | Table 5, p. 6, row 20 |  |
-| 1213 | peritectic |  | experimental | [3] Zhong 2004; _cites Vakhobov 1979_ | p. 3 | “Particularly, their results agree well with the phase diagram drawn from the results of Bruzzone and Merlo \[7\]: the eutectic reaction on the Sr side was shown at about 77 at.% Sr and 833 K, the melting point of Al4 Sr coincides with the value of Bruzzone and Merlo \[7\]; and the peritectic reactions of formation of Al2 Sr and ÔAl2 Sr3 Õ were given as occurring at 1213 and 951 K, respectively.” |
-| 1209.15 | peritectic: SrAl4+L->SrAl2 | SrAl4: Al 0.8, Sr 0.2; SrAl2: Al 0.666667, Sr 0.333333 | experimental | [2] Wang 2003; _cites Bruzzone 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990212-x) | Table 1, p. 2, row 8 |  |
-| 1209.15 | peritectic: Liquid + SrAl4 = SrAl2 | SrAl4: Al 0.8, Sr 0.2; SrAl2: Al 0.666667, Sr 0.333333 | experimental | [1] Liang 2014; _cites Conclusion_ | Table 5, p. 6, row 19 |  |
-| 1209.15 | peritectic: SrAl4+L->SrAl2 | SrAl4: Al 0.8, Sr 0.2; L: Sr 0.34; SrAl2: Al 0.666667, Sr 0.333333 | model | [2] Wang 2003; _cites Du 2002_ | Table 1, p. 2, row 11 |  |
-| 1201.15 | peritectic: SrAl4+L->SrAl2 | SrAl4: Al 0.8, Sr 0.2; L: Sr 0.349; SrAl2: Al 0.666667, Sr 0.333333 | model | [2] Wang 2003 | Table 1, p. 2, row 12 |  |
-| 1201.15 | peritectic: Liquid + SrAl4 = SrAl2 | SrAl4: Al 0.8, Sr 0.2 (basis unresolved); SrAl2: Al 0.666667, Sr 0.333333 (basis unresolved) | model | [1] Liang 2014; _cites Wang 2003_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900046-x) | Table 5, p. 6, row 22 |  |
-| 1196.15 | peritectic: Liquid + SrAl4 = SrAl2 | SrAl4: Al 0.8, Sr 0.2 (basis unresolved); SrAl2: Al 0.666667, Sr 0.333333 (basis unresolved) | model | [1] Liang 2014 | Table 5, p. 6, row 25 |  |
-| 1195.15 | peritectic: Liquid + SrAl4 = SrAl2 | SrAl4: Al 0.8, Sr 0.2 (basis unresolved); SrAl2: Al 0.666667, Sr 0.333333 (basis unresolved) | model | [1] Liang 2014; _cites Zhong 2004_ [doi](https://doi.org/10.1016/j.actamat.2004.02.022) | Table 5, p. 6, row 23 |  |
-| 1194.15 | peritectic: Liquid + SrAl4 = SrAl2 | SrAl4: Al 0.8, Sr 0.2 (basis unresolved); SrAl2: Al 0.666667, Sr 0.333333 (basis unresolved) | model | [1] Liang 2014; _cites Zhong 2004_ [doi](https://doi.org/10.1016/j.actamat.2004.02.022) | Table 5, p. 6, row 24 |  |
-| 1193.15 | peritectic: L + SrAl4 = SrAl2 |  | experimental | [1] Liang 2014; _cites Closset 1986_ [doi](https://doi.org/10.1007/bf02665326) | p. 5 | “That agrees with the present assessment, the peritectic reaction L + SrAl4 = SrAl2 occurs at 923 °C, close to the experimentally observed 920 °C \[8\].” |
-| 1193.15 | peritectic: SrAl4+L->SrAl2 | SrAl4: Al 0.8, Sr 0.2; L: Sr 0.344; SrAl2: Al 0.666667, Sr 0.333333 | experimental | [2] Wang 2003; _cites Closset 1986_ [doi](https://doi.org/10.1007/bf02665326) | Table 1, p. 2, row 10 |  |
-| 1193.15 | peritectic: Liquid + SrAl4 = SrAl2 | SrAl4: Al 0.8, Sr 0.2; SrAl2: Al 0.666667, Sr 0.333333 | experimental | [1] Liang 2014; _cites Closset 1986_ [doi](https://doi.org/10.1007/bf02665326) | Table 5, p. 6, row 21 |  |
-| 1193 | peritectic |  | experimental | [3] Zhong 2004 | p. 3 | “The melting point of the Al4 Sr compound was given as 1298 K, the peritectic reactions of the Al2 Sr and ÔAlSrÕ (instead of the ÔAl2 Sr3 Õ in \[7\]) compounds at 1193 and 937 K, respectively.” |
-| 951.15 | peritectic: SrAl2+L->Sr8Al7 | SrAl2: Al 0.666667, Sr 0.333333; Sr8Al7: Al 0.466667, Sr 0.533333 | experimental | [2] Wang 2003; _cites Vakhobov 1979_ | Table 1, p. 2, row 21 |  |
-| 951.15 | peritectic: Liquid + SrAl2 = Sr8Al7 | SrAl2: Al 0.666667, Sr 0.333333; Sr8Al7: Al 0.466667, Sr 0.533333 | experimental | [1] Liang 2014; _cites Vakhobov 1979_ | Table 5, p. 6, row 27 |  |
-| 951 | peritectic |  | experimental | [3] Zhong 2004; _cites Vakhobov 1979_ | p. 3 | “Particularly, their results agree well with the phase diagram drawn from the results of Bruzzone and Merlo \[7\]: the eutectic reaction on the Sr side was shown at about 77 at.% Sr and 833 K, the melting point of Al4 Sr coincides with the value of Bruzzone and Merlo \[7\]; and the peritectic reactions of formation of Al2 Sr and ÔAl2 Sr3 Õ were given as occurring at 1213 and 951 K, respectively.” |
-| 941.15 | peritectic: Liquid + SrAl2 = Sr8Al7 | SrAl2: Al 0.666667, Sr 0.333333 (basis unresolved); Sr8Al7: Al 0.466667, Sr 0.533333 (basis unresolved) | model | [1] Liang 2014 | Table 5, p. 6, row 32 |  |
-| 941.15 | peritectic: Liquid + SrAl2 = Sr8Al7 | SrAl2: Al 0.666667, Sr 0.333333 (basis unresolved); Sr8Al7: Al 0.466667, Sr 0.533333 (basis unresolved) | model | [1] Liang 2014; _cites Zhong 2004_ [doi](https://doi.org/10.1016/j.actamat.2004.02.022) | Table 5, p. 6, row 30 |  |
-| 939.15 | peritectic: Liquid + SrAl2 = Sr8Al7 | SrAl2: Al 0.666667, Sr 0.333333; Sr8Al7: Al 0.466667, Sr 0.533333 | experimental | [1] Liang 2014; _cites Conclusion_ | Table 5, p. 6, row 26 |  |
-| 939.15 | peritectic: SrAl2+L->Sr8Al7 | SrAl2: Al 0.666667, Sr 0.333333; L: Sr 0.72; Sr8Al7: Al 0.466667, Sr 0.533333 | model | [2] Wang 2003; _cites Du 2002_ | Table 1, p. 2, row 23 |  |
-| 939.15 | peritectic: SrAl2+L->Sr8Al7 | SrAl2: Al 0.666667, Sr 0.333333; L: Sr 0.72; Sr8Al7: Al 0.466667, Sr 0.533333 | experimental | [2] Wang 2003; _cites Bruzzone 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990212-x) | Table 1, p. 2, row 20 |  |
-| 938.15 | peritectic: SrAl2+L->Sr8Al7 | SrAl2: Al 0.666667, Sr 0.333333; L: Sr 0.623; Sr8Al7: Al 0.466667, Sr 0.533333 | model | [2] Wang 2003 | Table 1, p. 2, row 24 |  |
-| 937.15 | peritectic: Liquid + SrAl2 = Sr8Al7 | SrAl2: Al 0.666667, Sr 0.333333 (basis unresolved); Sr8Al7: Al 0.466667, Sr 0.533333 (basis unresolved) | model | [1] Liang 2014; _cites Wang 2003_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900046-x) | Table 5, p. 6, row 29 |  |
-| 937.15 | peritectic: Liquid + SrAl2 = Sr8Al7 | SrAl2: Al 0.666667, Sr 0.333333; Sr8Al7: Al 0.466667, Sr 0.533333 | experimental | [1] Liang 2014; _cites Closset 1986_ [doi](https://doi.org/10.1007/bf02665326) | Table 5, p. 6, row 28 |  |
-| 937.15 | peritectic: SrAl2+L->Sr8Al7 | SrAl2: Al 0.666667, Sr 0.333333; L: Sr 0.584; Sr8Al7: Al 0.466667, Sr 0.533333 | experimental | [2] Wang 2003; _cites Closset 1986_ [doi](https://doi.org/10.1007/bf02665326) | Table 1, p. 2, row 22 |  |
-| 937 | peritectic |  | experimental | [3] Zhong 2004 | p. 3 | “The melting point of the Al4 Sr compound was given as 1298 K, the peritectic reactions of the Al2 Sr and ÔAlSrÕ (instead of the ÔAl2 Sr3 Õ in \[7\]) compounds at 1193 and 937 K, respectively.” |
-| 936.15 | peritectic: Liquid + SrAl2 = Sr8Al7 | SrAl2: Al 0.666667, Sr 0.333333 (basis unresolved); Sr8Al7: Al 0.466667, Sr 0.533333 (basis unresolved) | model | [1] Liang 2014; _cites Zhong 2004_ [doi](https://doi.org/10.1016/j.actamat.2004.02.022) | Table 5, p. 6, row 31 |  |
-| 928.75 | eutectic |  | experimental | [1] Liang 2014 | p. 3 | “Preference is given to the data at slow heating rate and the value of 655.6 °C is determined for the (Al)-SrAl4 eutectic temperature.” |
-| 928.75 | eutectic |  | experimental | [1] Liang 2014 | p. 1 | “The temperature of the (Al)-SrAl4 eutectic reaction is determined to be 655.6 °C by carefully calibrated and controlled differential scanning calorimetry (DSC) experiments.” |
-| 928.75 | eutectic: Liquid = (Al) + SrAl4 | SrAl4: Al 0.8, Sr 0.2 | experimental | [1] Liang 2014 | Table 5, p. 6, row 9 |  |
-| 928.75 | eutectic: L = (Al) + SrAl4 |  | experimental | [1] Liang 2014 | p. 7 | “The temperature of the L = (Al) + SrAl4 eutectic reaction was experimentally determined to be 655.6 °C by carefully controlled differential scanning calorimetry, revealing also the enthalpy data.” |
-| 928.55 | eutectic |  | model | [1] Liang 2014 | p. 5 | “The present work determines the highest eutectic temperature, 655.4 °C (assessed), combined with the lowest eutectic liquid composition value of 2.15 wt.% Sr compared to all the calculations in Table 5.” |
-| 928.55 | eutectic: Liquid = (Al) + SrAl4 | SrAl4: Al 0.8, Sr 0.2 (basis unresolved) | model | [1] Liang 2014 | Table 5, p. 6, row 10 |  |
-| 928.55 | eutectic |  | model | [1] Liang 2014 | p. 5 | “The calculated (Al)-SrAl4 eutectic temperature based on the present work is 655.4 °C, which is close to our DSC result and also agrees within less than 2 K with other more recent experimental work \[7,8\] determined by the cooling curves of the thermal analysis” |
-| 928.05 | eutectic: Liquid = (Al) + SrAl4 | SrAl4: Al 0.8, Sr 0.2 (basis unresolved) | model | [1] Liang 2014; _cites Zhong 2004_ [doi](https://doi.org/10.1016/j.actamat.2004.02.022) | Table 5, p. 6, row 8 |  |
-| 927.15 | eutectic: L->(Al)+SrAl4 | L: Sr 0.01; SrAl4: Al 0.8, Sr 0.2 | model | [2] Wang 2003; _cites Du 2002_ | Table 1, p. 2, row 18 |  |
-| 927.15 | eutectic: Liquid = (Al) + SrAl4 | SrAl4: Al 0.8, Sr 0.2 (basis unresolved) | experimental | [1] Liang 2014; _cites Sato 1985_ | Table 5, p. 6, row 4 |  |
-| 927.15 | eutectic: Liquid = (Al) + SrAl4 | SrAl4: Al 0.8, Sr 0.2 (basis unresolved) | experimental | [1] Liang 2014; _cites Closset 1986_ [doi](https://doi.org/10.1007/bf02665326) | Table 5, p. 6, row 5 |  |
-| 927 | eutectic |  | experimental | [3] Zhong 2004; _cites Sato 1985_ | p. 3 | “Sato et al. \[13\] studied the Al-rich part of the system up to 7.2 at.% Sr by thermal analysis, XRD, and optical microscopy and found the eutectic at 0.85 at.% Sr and 927 K.” |
-| 927 | eutectic |  | experimental | [3] Zhong 2004; _cites Closset 1986_ [doi](https://doi.org/10.1007/bf02665326) | p. 3 | “Closset et al. \[15\] confirmed the eutectic reaction on Alrich side (reported at 927 K and 2.4 wt% Sr (0.75 at.% Sr)).” |
-| 926.15 | eutectic: Liquid = (Al) + SrAl4 | SrAl4: Al 0.8, Sr 0.2 (basis unresolved) | experimental | [1] Liang 2014; _cites Hanna 1983_ | Table 5, p. 6, row 3 |  |
-| 926.15 | eutectic: L->(Al)+SrAl4 | L: Sr 0.013; SrAl4: Al 0.8, Sr 0.2 | experimental | [2] Wang 2003; _cites Hanna 1983_ | Table 1, p. 2, row 15 |  |
-| 926 | eutectic |  | experimental | [3] Zhong 2004; _cites Hanna 1982_ | p. 3 | “Hanna and Hellawell \[10\] studied the Al-rich part of the system up to 2 at.% Sr by thermal analysis. The temperature and composition of the eutectic point were found to be 926 K and 1.3 at.% Sr.” |
-| 925.15 | eutectic: L->(Al)+SrAl4 | L: Sr 0.0116; SrAl4: Al 0.8, Sr 0.2 | model | [2] Wang 2003 | Table 1, p. 2, row 19 |  |
-| 925.15 | eutectic: Liquid = (Al) + SrAl4 | SrAl4: Al 0.8, Sr 0.2 (basis unresolved) | model | [1] Liang 2014; _cites Wang 2003_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900046-x) | Table 5, p. 6, row 6 |  |
-| 925.05 | eutectic: Liquid = (Al) + SrAl4 | SrAl4: Al 0.8, Sr 0.2 (basis unresolved) | model | [1] Liang 2014; _cites Zhong 2004_ [doi](https://doi.org/10.1016/j.actamat.2004.02.022) | Table 5, p. 6, row 7 |  |
-| 908.15 | eutectic: L->(Al)+SrAl4 | L: Sr 0.032; SrAl4: Al 0.8, Sr 0.2 | experimental | [2] Wang 2003; _cites Vakhobov 1979_ | Table 1, p. 2, row 14 |  |
-| 908.15 | eutectic: Liquid = (Al) + SrAl4 | SrAl4: Al 0.8, Sr 0.2 (basis unresolved) | experimental | [1] Liang 2014; _cites Vakhobov 1979_ | Table 5, p. 6, row 2 |  |
-| 903.15 | eutectic: Liquid = (Al) + SrAl4 | SrAl4: Al 0.8, Sr 0.2 (basis unresolved) | experimental | [1] Liang 2014; _cites Vakhobov 1975_ | Table 5, p. 6, row 1 |  |
-| 903.15 | eutectic: L->(Al)+SrAl4 | L: Sr 0.032; SrAl4: Al 0.8, Sr 0.2 | experimental | [2] Wang 2003; _cites Burylev 1974_ | Table 1, p. 2, row 13 |  |
-| 863.15 | eutectic: L->Sr8Al7+(βSr) | L: Sr 0.8175; Sr8Al7: Al 0.466667, Sr 0.533333 | experimental | [2] Wang 2003; _cites Bruzzone 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990212-x) | Table 1, p. 2, row 26 |  |
-| 863.15 | eutectic: L->Sr8Al7+(βSr) | L: Sr 0.818; Sr8Al7: Al 0.466667, Sr 0.533333 | model | [2] Wang 2003; _cites Du 2002_ | Table 1, p. 2, row 29 |  |
-| 853.15 | eutectic: L->Sr8Al7+(βSr) | L: Sr 0.735; Sr8Al7: Al 0.466667, Sr 0.533333 | experimental | [2] Wang 2003; _cites Closset 1986_ [doi](https://doi.org/10.1007/bf02665326) | Table 1, p. 2, row 28 |  |
-| 853.15 | eutectic: L->Sr8Al7+(βSr) | L: Sr 0.77; Sr8Al7: Al 0.466667, Sr 0.533333 | experimental | [2] Wang 2003; _cites Vakhobov 1979_ | Table 1, p. 2, row 27 |  |
-| 853 | eutectic |  | experimental | [3] Zhong 2004 | p. 3 | “The eutectic reaction on the Sr side was shown at 853 K and 90 wt% Sr (73.5 at.% Sr).” |
-| 852.15 | eutectic: L->Sr8Al7+(βSr) | L: Sr 0.736; Sr8Al7: Al 0.466667, Sr 0.533333 | model | [2] Wang 2003 | Table 1, p. 2, row 30 |  |
-| 833.15 | eutectic: L->Sr8Al7+(βSr) | L: Sr 0.7; Sr8Al7: Al 0.466667, Sr 0.533333 | experimental | [2] Wang 2003; _cites Burylev 1974_ | Table 1, p. 2, row 25 |  |
-| 833 | eutectic |  | experimental | [3] Zhong 2004; _cites Vakhobov 1979_ | p. 3 | “Particularly, their results agree well with the phase diagram drawn from the results of Bruzzone and Merlo \[7\]: the eutectic reaction on the Sr side was shown at about 77 at.% Sr and 833 K, the melting point of Al4 Sr coincides with the value of Bruzzone and Merlo \[7\]; and the peritectic reactions of formation of Al2 Sr and ÔAl2 Sr3 Õ were given as occurring at 1213 and 951 K, respectively.” |
+| 1316.15 | congruent melting: Liquid = SrAl4 | L: Al 0.8, Sr 0.2 (basis unresolved); SrAl4: Al 0.8, Sr 0.2 (basis unresolved) | model | [1] Liang 2014; _cites Zhong 2004_ [doi](https://doi.org/10.1016/j.actamat.2004.02.022) | Table 5, p. 6, row 17; `ORC-ZYHCIGD63Q` |  |
+| 1313.15 | congruent melting: Liquid = SrAl4 | L: Al 0.8, Sr 0.2; SrAl4: Al 0.8, Sr 0.2 | experimental | [1] Liang 2014; _cites Vakhobov 1979_ | Table 5, p. 6, row 13; `ORC-FOBESNRPFN` |  |
+| 1313.15 | congruent melting: Liquid = SrAl4 | L: Al 0.8, Sr 0.2; SrAl4: Al 0.8, Sr 0.2 | experimental | [1] Liang 2014; _cites Conclusion_ | Table 5, p. 6, row 12; `ORC-IFG6BRMCEK` |  |
+| 1313.15 | congruent melting: SrAl4->L | SrAl4: Al 0.8, Sr 0.2; L: Al 0.8, Sr 0.2 | experimental | [2] Wang 2003 | Table 1, p. 2, row 2; `ORC-L7Z5GQ7JXI` |  |
+| 1313.15 | congruent melting: SrAl4->L | SrAl4: Al 0.8, Sr 0.2; L: Sr 0.25 | model | [2] Wang 2003; _cites Du 2002_ | Table 1, p. 2, row 6; `ORC-V72J5FHZF2` |  |
+| 1313.15 | congruent melting: SrAl4->L | SrAl4: Al 0.8, Sr 0.2; L: Sr 0.25 | experimental | [2] Wang 2003; _cites Bruzzone 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990212-x) | Table 1, p. 2, row 3; `ORC-YMWZ7BMUVL` |  |
+| 1311.15 | congruent melting: Liquid = SrAl4 | L: Al 0.8, Sr 0.2 (basis unresolved); SrAl4: Al 0.8, Sr 0.2 (basis unresolved) | model | [1] Liang 2014 | Table 5, p. 6, row 18; `ORC-RELXQBFEU6` |  |
+| 1307.15 | congruent melting: Liquid = SrAl4 | L: Al 0.8, Sr 0.2 (basis unresolved); SrAl4: Al 0.8, Sr 0.2 (basis unresolved) | model | [1] Liang 2014; _cites Wang 2003_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900046-x) | Table 5, p. 6, row 15; `ORC-2DVA7ERGX7` |  |
+| 1307.15 | congruent melting: SrAl4->L | SrAl4: Al 0.8, Sr 0.2; L: Sr 0.25 | model | [2] Wang 2003 | Table 1, p. 2, row 7; `ORC-HQ26OXOBDH` |  |
+| 1298.15 | congruent melting: SrAl4->L | SrAl4: Al 0.8, Sr 0.2; L: Sr 0.25 | experimental | [2] Wang 2003; _cites Vakhobov 1979_ | Table 1, p. 2, row 4; `ORC-BP543R6KRJ` |  |
+| 1298.15 | congruent melting: Liquid = SrAl4 | L: Al 0.8, Sr 0.2; SrAl4: Al 0.8, Sr 0.2 | experimental | [1] Liang 2014; _cites Closset 1986_ [doi](https://doi.org/10.1007/bf02665326) | Table 5, p. 6, row 14; `ORC-QSOV6IIIXX` |  |
+| 1295.15 | congruent melting: Liquid = SrAl4 | L: Al 0.8, Sr 0.2 (basis unresolved); SrAl4: Al 0.8, Sr 0.2 (basis unresolved) | model | [1] Liang 2014; _cites Zhong 2004_ [doi](https://doi.org/10.1016/j.actamat.2004.02.022) | Table 5, p. 6, row 16; `ORC-D4FJ7KDBOF` |  |
+| 1273.15 | congruent melting: Liquid = SrAl4 | L: Al 0.8, Sr 0.2; SrAl4: Al 0.8, Sr 0.2 | experimental | [1] Liang 2014; _cites Vakhobov 1975_ | Table 5, p. 6, row 11; `ORC-KRIEM6RPTI` |  |
+| 1273.15 | congruent melting: SrAl4->L | SrAl4: Al 0.8, Sr 0.2; L: Sr 0.25 | experimental | [2] Wang 2003; _cites Burylev 1974_ | Table 1, p. 2, row 1; `ORC-SE3LBXO7KG` |  |
+| 1227.15 | eutectic: L⇔(Al)+SrAl4 | L: Sr 0.0085; SrAl4: Al 0.8, Sr 0.2 | experimental | [2] Wang 2003; _cites Sato 1985_ | Table 1, p. 2, row 34; `ORC-DD5CM4AYEO` |  |
+| 1213.15 | peritectic: SrAl4+L->SrAl2 | SrAl4: Al 0.8, Sr 0.2; SrAl2: Al 0.666667, Sr 0.333333 | experimental | [2] Wang 2003; _cites Vakhobov 1979_ | Table 1, p. 2, row 9; `ORC-376HMUTDJN` |  |
+| 1213.15 | peritectic: Liquid + SrAl4 = SrAl2 | SrAl4: Al 0.8, Sr 0.2; SrAl2: Al 0.666667, Sr 0.333333 | experimental | [1] Liang 2014; _cites Vakhobov 1979_ | Table 5, p. 6, row 20; `ORC-4NCKGOZC4Z` |  |
+| 1213 | peritectic |  | experimental | [3] Zhong 2004; _cites Vakhobov 1979_ | p. 3; `ORC-2UBFKGTGHM.8e3cce` | “Particularly, their results agree well with the phase diagram drawn from the results of Bruzzone and Merlo \[7\]: the eutectic reaction on the Sr side was shown at about 77 at.% Sr and 833 K, the melting point of Al4 Sr coincides with the value of Bruzzone and Merlo \[7\]; and the peritectic reactions of formation of Al2 Sr and ÔAl2 Sr3 Õ were given as occurring at 1213 and 951 K, respectively.” |
+| 1209.15 | peritectic: SrAl4+L->SrAl2 | SrAl4: Al 0.8, Sr 0.2; SrAl2: Al 0.666667, Sr 0.333333 | experimental | [2] Wang 2003; _cites Bruzzone 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990212-x) | Table 1, p. 2, row 8; `ORC-4M55SDLT6P` |  |
+| 1209.15 | peritectic: Liquid + SrAl4 = SrAl2 | SrAl4: Al 0.8, Sr 0.2; SrAl2: Al 0.666667, Sr 0.333333 | experimental | [1] Liang 2014; _cites Conclusion_ | Table 5, p. 6, row 19; `ORC-M45R7JIMVU` |  |
+| 1209.15 | peritectic: SrAl4+L->SrAl2 | SrAl4: Al 0.8, Sr 0.2; L: Sr 0.34; SrAl2: Al 0.666667, Sr 0.333333 | model | [2] Wang 2003; _cites Du 2002_ | Table 1, p. 2, row 11; `ORC-YAJ2U6Z5CB` |  |
+| 1201.15 | peritectic: SrAl4+L->SrAl2 | SrAl4: Al 0.8, Sr 0.2; L: Sr 0.349; SrAl2: Al 0.666667, Sr 0.333333 | model | [2] Wang 2003 | Table 1, p. 2, row 12; `ORC-2YJ7MHLCLE` |  |
+| 1201.15 | peritectic: Liquid + SrAl4 = SrAl2 | SrAl4: Al 0.8, Sr 0.2 (basis unresolved); SrAl2: Al 0.666667, Sr 0.333333 (basis unresolved) | model | [1] Liang 2014; _cites Wang 2003_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900046-x) | Table 5, p. 6, row 22; `ORC-XRB4N7J2SI` |  |
+| 1196.15 | peritectic: Liquid + SrAl4 = SrAl2 | SrAl4: Al 0.8, Sr 0.2 (basis unresolved); SrAl2: Al 0.666667, Sr 0.333333 (basis unresolved) | model | [1] Liang 2014 | Table 5, p. 6, row 25; `ORC-57OD4V3FYL` |  |
+| 1195.15 | peritectic: Liquid + SrAl4 = SrAl2 | SrAl4: Al 0.8, Sr 0.2 (basis unresolved); SrAl2: Al 0.666667, Sr 0.333333 (basis unresolved) | model | [1] Liang 2014; _cites Zhong 2004_ [doi](https://doi.org/10.1016/j.actamat.2004.02.022) | Table 5, p. 6, row 23; `ORC-VKZ54WUNEV` |  |
+| 1194.15 | peritectic: Liquid + SrAl4 = SrAl2 | SrAl4: Al 0.8, Sr 0.2 (basis unresolved); SrAl2: Al 0.666667, Sr 0.333333 (basis unresolved) | model | [1] Liang 2014; _cites Zhong 2004_ [doi](https://doi.org/10.1016/j.actamat.2004.02.022) | Table 5, p. 6, row 24; `ORC-3CJCI4U6JD` |  |
+| 1193.15 | peritectic: L + SrAl4 = SrAl2 |  | experimental | [1] Liang 2014; _cites Closset 1986_ [doi](https://doi.org/10.1007/bf02665326) | p. 5; `ORC-3DSML3DTY3` | “That agrees with the present assessment, the peritectic reaction L + SrAl4 = SrAl2 occurs at 923 °C, close to the experimentally observed 920 °C \[8\].” |
+| 1193.15 | peritectic: SrAl4+L->SrAl2 | SrAl4: Al 0.8, Sr 0.2; L: Sr 0.344; SrAl2: Al 0.666667, Sr 0.333333 | experimental | [2] Wang 2003; _cites Closset 1986_ [doi](https://doi.org/10.1007/bf02665326) | Table 1, p. 2, row 10; `ORC-75JBATHUHG` |  |
+| 1193.15 | peritectic: Liquid + SrAl4 = SrAl2 | SrAl4: Al 0.8, Sr 0.2; SrAl2: Al 0.666667, Sr 0.333333 | experimental | [1] Liang 2014; _cites Closset 1986_ [doi](https://doi.org/10.1007/bf02665326) | Table 5, p. 6, row 21; `ORC-QOZH3E2JAE` |  |
+| 1193 | peritectic |  | experimental | [3] Zhong 2004 | p. 3; `ORC-GOVNTBMVDU.ad9360` | “The melting point of the Al4 Sr compound was given as 1298 K, the peritectic reactions of the Al2 Sr and ÔAlSrÕ (instead of the ÔAl2 Sr3 Õ in \[7\]) compounds at 1193 and 937 K, respectively.” |
+| 951.15 | peritectic: SrAl2+L->Sr8Al7 | SrAl2: Al 0.666667, Sr 0.333333; Sr8Al7: Al 0.466667, Sr 0.533333 | experimental | [2] Wang 2003; _cites Vakhobov 1979_ | Table 1, p. 2, row 21; `ORC-A2VYZWBUJO` |  |
+| 951.15 | peritectic: Liquid + SrAl2 = Sr8Al7 | SrAl2: Al 0.666667, Sr 0.333333; Sr8Al7: Al 0.466667, Sr 0.533333 | experimental | [1] Liang 2014; _cites Vakhobov 1979_ | Table 5, p. 6, row 27; `ORC-YH7FRULAZR` |  |
+| 951 | peritectic |  | experimental | [3] Zhong 2004; _cites Vakhobov 1979_ | p. 3; `ORC-2UBFKGTGHM.87c19e` | “Particularly, their results agree well with the phase diagram drawn from the results of Bruzzone and Merlo \[7\]: the eutectic reaction on the Sr side was shown at about 77 at.% Sr and 833 K, the melting point of Al4 Sr coincides with the value of Bruzzone and Merlo \[7\]; and the peritectic reactions of formation of Al2 Sr and ÔAl2 Sr3 Õ were given as occurring at 1213 and 951 K, respectively.” |
+| 941.15 | peritectic: Liquid + SrAl2 = Sr8Al7 | SrAl2: Al 0.666667, Sr 0.333333 (basis unresolved); Sr8Al7: Al 0.466667, Sr 0.533333 (basis unresolved) | model | [1] Liang 2014 | Table 5, p. 6, row 32; `ORC-C3VGO3QTCV` |  |
+| 941.15 | peritectic: Liquid + SrAl2 = Sr8Al7 | SrAl2: Al 0.666667, Sr 0.333333 (basis unresolved); Sr8Al7: Al 0.466667, Sr 0.533333 (basis unresolved) | model | [1] Liang 2014; _cites Zhong 2004_ [doi](https://doi.org/10.1016/j.actamat.2004.02.022) | Table 5, p. 6, row 30; `ORC-PVTCGRJYMQ` |  |
+| 939.15 | peritectic: Liquid + SrAl2 = Sr8Al7 | SrAl2: Al 0.666667, Sr 0.333333; Sr8Al7: Al 0.466667, Sr 0.533333 | experimental | [1] Liang 2014; _cites Conclusion_ | Table 5, p. 6, row 26; `ORC-7ZZZHLPNFW` |  |
+| 939.15 | peritectic: SrAl2+L->Sr8Al7 | SrAl2: Al 0.666667, Sr 0.333333; L: Sr 0.72; Sr8Al7: Al 0.466667, Sr 0.533333 | model | [2] Wang 2003; _cites Du 2002_ | Table 1, p. 2, row 23; `ORC-IG6L4KOA7R` |  |
+| 939.15 | peritectic: SrAl2+L->Sr8Al7 | SrAl2: Al 0.666667, Sr 0.333333; L: Sr 0.72; Sr8Al7: Al 0.466667, Sr 0.533333 | experimental | [2] Wang 2003; _cites Bruzzone 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990212-x) | Table 1, p. 2, row 20; `ORC-RWMYOZU7R6` |  |
+| 938.15 | peritectic: SrAl2+L->Sr8Al7 | SrAl2: Al 0.666667, Sr 0.333333; L: Sr 0.623; Sr8Al7: Al 0.466667, Sr 0.533333 | model | [2] Wang 2003 | Table 1, p. 2, row 24; `ORC-H6MVT65PSO` |  |
+| 937.15 | peritectic: Liquid + SrAl2 = Sr8Al7 | SrAl2: Al 0.666667, Sr 0.333333 (basis unresolved); Sr8Al7: Al 0.466667, Sr 0.533333 (basis unresolved) | model | [1] Liang 2014; _cites Wang 2003_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900046-x) | Table 5, p. 6, row 29; `ORC-JZ5D46XYDC` |  |
+| 937.15 | peritectic: Liquid + SrAl2 = Sr8Al7 | SrAl2: Al 0.666667, Sr 0.333333; Sr8Al7: Al 0.466667, Sr 0.533333 | experimental | [1] Liang 2014; _cites Closset 1986_ [doi](https://doi.org/10.1007/bf02665326) | Table 5, p. 6, row 28; `ORC-SOPKZTZXL3` |  |
+| 937.15 | peritectic: SrAl2+L->Sr8Al7 | SrAl2: Al 0.666667, Sr 0.333333; L: Sr 0.584; Sr8Al7: Al 0.466667, Sr 0.533333 | experimental | [2] Wang 2003; _cites Closset 1986_ [doi](https://doi.org/10.1007/bf02665326) | Table 1, p. 2, row 22; `ORC-T26ZHGQHRZ` |  |
+| 937 | peritectic |  | experimental | [3] Zhong 2004 | p. 3; `ORC-GOVNTBMVDU.55f9ee` | “The melting point of the Al4 Sr compound was given as 1298 K, the peritectic reactions of the Al2 Sr and ÔAlSrÕ (instead of the ÔAl2 Sr3 Õ in \[7\]) compounds at 1193 and 937 K, respectively.” |
+| 936.15 | peritectic: Liquid + SrAl2 = Sr8Al7 | SrAl2: Al 0.666667, Sr 0.333333 (basis unresolved); Sr8Al7: Al 0.466667, Sr 0.533333 (basis unresolved) | model | [1] Liang 2014; _cites Zhong 2004_ [doi](https://doi.org/10.1016/j.actamat.2004.02.022) | Table 5, p. 6, row 31; `ORC-JLBLGKTW6J` |  |
+| 928.75 | eutectic |  | experimental | [1] Liang 2014 | p. 3; `ORC-4HTGI45Z64` | “Preference is given to the data at slow heating rate and the value of 655.6 °C is determined for the (Al)-SrAl4 eutectic temperature.” |
+| 928.75 | eutectic |  | experimental | [1] Liang 2014 | p. 1; `ORC-I2G4GWTOB5` | “The temperature of the (Al)-SrAl4 eutectic reaction is determined to be 655.6 °C by carefully calibrated and controlled differential scanning calorimetry (DSC) experiments.” |
+| 928.75 | eutectic: Liquid = (Al) + SrAl4 | SrAl4: Al 0.8, Sr 0.2 | experimental | [1] Liang 2014 | Table 5, p. 6, row 9; `ORC-LL6X7FXMQN` |  |
+| 928.75 | eutectic: L = (Al) + SrAl4 |  | experimental | [1] Liang 2014 | p. 7; `ORC-LR475AZ3VQ` | “The temperature of the L = (Al) + SrAl4 eutectic reaction was experimentally determined to be 655.6 °C by carefully controlled differential scanning calorimetry, revealing also the enthalpy data.” |
+| 928.55 | eutectic |  | model | [1] Liang 2014 | p. 5; `ORC-2V3V5PHKXY` | “The present work determines the highest eutectic temperature, 655.4 °C (assessed), combined with the lowest eutectic liquid composition value of 2.15 wt.% Sr compared to all the calculations in Table 5.” |
+| 928.55 | eutectic: Liquid = (Al) + SrAl4 | SrAl4: Al 0.8, Sr 0.2 (basis unresolved) | model | [1] Liang 2014 | Table 5, p. 6, row 10; `ORC-6PZ33CORZT` |  |
+| 928.55 | eutectic |  | model | [1] Liang 2014 | p. 5; `ORC-ZAHXQQ437N` | “The calculated (Al)-SrAl4 eutectic temperature based on the present work is 655.4 °C, which is close to our DSC result and also agrees within less than 2 K with other more recent experimental work \[7,8\] determined by the cooling curves of the thermal analysis” |
+| 928.05 | eutectic: Liquid = (Al) + SrAl4 | SrAl4: Al 0.8, Sr 0.2 (basis unresolved) | model | [1] Liang 2014; _cites Zhong 2004_ [doi](https://doi.org/10.1016/j.actamat.2004.02.022) | Table 5, p. 6, row 8; `ORC-IG7TDBFJNE` |  |
+| 927.15 | eutectic: L->(Al)+SrAl4 | L: Sr 0.01; SrAl4: Al 0.8, Sr 0.2 | model | [2] Wang 2003; _cites Du 2002_ | Table 1, p. 2, row 18; `ORC-MOM26ONOAK` |  |
+| 927.15 | eutectic: Liquid = (Al) + SrAl4 | SrAl4: Al 0.8, Sr 0.2 (basis unresolved) | experimental | [1] Liang 2014; _cites Sato 1985_ | Table 5, p. 6, row 4; `ORC-STG37C24ZR` |  |
+| 927.15 | eutectic: Liquid = (Al) + SrAl4 | SrAl4: Al 0.8, Sr 0.2 (basis unresolved) | experimental | [1] Liang 2014; _cites Closset 1986_ [doi](https://doi.org/10.1007/bf02665326) | Table 5, p. 6, row 5; `ORC-XRTUZGDFBU` |  |
+| 927 | eutectic |  | experimental | [3] Zhong 2004; _cites Sato 1985_ | p. 3; `ORC-FZUNNXBS3K` | “Sato et al. \[13\] studied the Al-rich part of the system up to 7.2 at.% Sr by thermal analysis, XRD, and optical microscopy and found the eutectic at 0.85 at.% Sr and 927 K.” |
+| 927 | eutectic |  | experimental | [3] Zhong 2004; _cites Closset 1986_ [doi](https://doi.org/10.1007/bf02665326) | p. 3; `ORC-JZVDVDZGI7` | “Closset et al. \[15\] confirmed the eutectic reaction on Alrich side (reported at 927 K and 2.4 wt% Sr (0.75 at.% Sr)).” |
+| 926.15 | eutectic: Liquid = (Al) + SrAl4 | SrAl4: Al 0.8, Sr 0.2 (basis unresolved) | experimental | [1] Liang 2014; _cites Hanna 1983_ | Table 5, p. 6, row 3; `ORC-BLHDBR7U33` |  |
+| 926.15 | eutectic: L->(Al)+SrAl4 | L: Sr 0.013; SrAl4: Al 0.8, Sr 0.2 | experimental | [2] Wang 2003; _cites Hanna 1983_ | Table 1, p. 2, row 15; `ORC-LJU2VSIJE6` |  |
+| 926 | eutectic |  | experimental | [3] Zhong 2004; _cites Hanna 1982_ | p. 3; `ORC-ENB2JTNXE7` | “Hanna and Hellawell \[10\] studied the Al-rich part of the system up to 2 at.% Sr by thermal analysis. The temperature and composition of the eutectic point were found to be 926 K and 1.3 at.% Sr.” |
+| 925.15 | eutectic: L->(Al)+SrAl4 | L: Sr 0.0116; SrAl4: Al 0.8, Sr 0.2 | model | [2] Wang 2003 | Table 1, p. 2, row 19; `ORC-Z4PW27INDV` |  |
+| 925.15 | eutectic: Liquid = (Al) + SrAl4 | SrAl4: Al 0.8, Sr 0.2 (basis unresolved) | model | [1] Liang 2014; _cites Wang 2003_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900046-x) | Table 5, p. 6, row 6; `ORC-ZD7MEILJZA` |  |
+| 925.05 | eutectic: Liquid = (Al) + SrAl4 | SrAl4: Al 0.8, Sr 0.2 (basis unresolved) | model | [1] Liang 2014; _cites Zhong 2004_ [doi](https://doi.org/10.1016/j.actamat.2004.02.022) | Table 5, p. 6, row 7; `ORC-HGF3EWO752` |  |
+| 908.15 | eutectic: L->(Al)+SrAl4 | L: Sr 0.032; SrAl4: Al 0.8, Sr 0.2 | experimental | [2] Wang 2003; _cites Vakhobov 1979_ | Table 1, p. 2, row 14; `ORC-EWI7FZPOVE` |  |
+| 908.15 | eutectic: Liquid = (Al) + SrAl4 | SrAl4: Al 0.8, Sr 0.2 (basis unresolved) | experimental | [1] Liang 2014; _cites Vakhobov 1979_ | Table 5, p. 6, row 2; `ORC-YFSGXUBETT` |  |
+| 903.15 | eutectic: Liquid = (Al) + SrAl4 | SrAl4: Al 0.8, Sr 0.2 (basis unresolved) | experimental | [1] Liang 2014; _cites Vakhobov 1975_ | Table 5, p. 6, row 1; `ORC-2ECWAFLKRI` |  |
+| 903.15 | eutectic: L->(Al)+SrAl4 | L: Sr 0.032; SrAl4: Al 0.8, Sr 0.2 | experimental | [2] Wang 2003; _cites Burylev 1974_ | Table 1, p. 2, row 13; `ORC-IUTSPM6LLV` |  |
+| 863.15 | eutectic: L->Sr8Al7+(βSr) | L: Sr 0.8175; Sr8Al7: Al 0.466667, Sr 0.533333 | experimental | [2] Wang 2003; _cites Bruzzone 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990212-x) | Table 1, p. 2, row 26; `ORC-DXX6KRJSIN` |  |
+| 863.15 | eutectic: L->Sr8Al7+(βSr) | L: Sr 0.818; Sr8Al7: Al 0.466667, Sr 0.533333 | model | [2] Wang 2003; _cites Du 2002_ | Table 1, p. 2, row 29; `ORC-IDEHMBFOLB` |  |
+| 853.15 | eutectic: L->Sr8Al7+(βSr) | L: Sr 0.735; Sr8Al7: Al 0.466667, Sr 0.533333 | experimental | [2] Wang 2003; _cites Closset 1986_ [doi](https://doi.org/10.1007/bf02665326) | Table 1, p. 2, row 28; `ORC-PEYUEC76UZ` |  |
+| 853.15 | eutectic: L->Sr8Al7+(βSr) | L: Sr 0.77; Sr8Al7: Al 0.466667, Sr 0.533333 | experimental | [2] Wang 2003; _cites Vakhobov 1979_ | Table 1, p. 2, row 27; `ORC-XJHIQFPLSG` |  |
+| 853 | eutectic |  | experimental | [3] Zhong 2004 | p. 3; `ORC-UWLPIVRPM7` | “The eutectic reaction on the Sr side was shown at 853 K and 90 wt% Sr (73.5 at.% Sr).” |
+| 852.15 | eutectic: L->Sr8Al7+(βSr) | L: Sr 0.736; Sr8Al7: Al 0.466667, Sr 0.533333 | model | [2] Wang 2003 | Table 1, p. 2, row 30; `ORC-XC45CMBRQG` |  |
+| 833.15 | eutectic: L->Sr8Al7+(βSr) | L: Sr 0.7; Sr8Al7: Al 0.466667, Sr 0.533333 | experimental | [2] Wang 2003; _cites Burylev 1974_ | Table 1, p. 2, row 25; `ORC-5Y5JUNUS5M` |  |
+| 833 | eutectic |  | experimental | [3] Zhong 2004; _cites Vakhobov 1979_ | p. 3; `ORC-2UBFKGTGHM.e5dc55` | “Particularly, their results agree well with the phase diagram drawn from the results of Bruzzone and Merlo \[7\]: the eutectic reaction on the Sr side was shown at about 77 at.% Sr and 833 K, the melting point of Al4 Sr coincides with the value of Bruzzone and Merlo \[7\]; and the peritectic reactions of formation of Al2 Sr and ÔAl2 Sr3 Õ were given as occurring at 1213 and 951 K, respectively.” |
 
 ## Formation enthalpies
 
@@ -192,49 +192,49 @@ Table: Enthalpies of formation, Al–Sr system (43)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| "SQS-16" |  | -12.3 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 30 |  |
-| "SQS-16" |  | -11.6 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 3 |  |
-| Al10V-type |  | 8.4 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 24 |  |
-| Al13Ba7-type |  | -27.8 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 37 |  |
-| Al13Ba7-type |  | -27.3 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 38 |  |
-| Al14Ca13-type |  | -22.4 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 19 |  |
-| Al2Sr C14 |  | -28.2 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 7 |  |
-| Al2Sr C15 |  | -30.3 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 36 |  |
-| Al2Sr C15 |  | -27.2 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 17 |  |
-| Al2Sr C16 |  | 0.5 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 11 |  |
-| Al2Sr C32 |  | -23 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 9 |  |
-| Al2Sr C36 |  | -29.8 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 8 |  |
-| Al2Sr CaF2-type |  | 55.4 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 14 |  |
-| Al2Sr CaIn2-type |  | -26 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 10 |  |
-| Al2Sr CeCu2-type |  | -29.7 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 31 |  |
-| Al2Sr CeCu2-type |  | -29 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 34 |  |
-| Al2Sr CeCu2-type |  | -28.8 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 35 |  |
-| Al2Sr CeCu2-type |  | -27.9 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 33 |  |
-| Al2Sr CeCu2-type |  | -27.4 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 32 |  |
-| Al2Sr MoPt2-type |  | -8.2 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 13 |  |
-| Al3Sr L12 |  | -5.5 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 4 |  |
-| Al3Sr “SQS-16” |  | -12.3 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 30 |  |
-| Al3Sr “SQS-16” |  | -11.6 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 3 |  |
-| Al3Sr8 Ca8In3-type |  | -10.6 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 46 |  |
-| Al3Sr8 Ca8In3-type |  | -10.1 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 23 |  |
-| Al4Ba-type |  | -26.2 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 29 |  |
-| Al4Ba-type |  | -25.6 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 28 |  |
-| Al4Ba-type |  | -24.2 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 25 |  |
-| Al4Ba-type |  | -23.7 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 26 |  |
-| Al4Ba-type |  | -22.8 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 27 |  |
-| Al5Ba3-type |  | -27.5 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 41 |  |
-| Al5Ba3-type |  | -27.2 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 17 |  |
-| Al5Ba4-type |  | -26.7 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 42 |  |
-| Al7Sr8 |  | -21.9 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 44 |  |
-| Al7Sr8 |  | -21.4 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 45 |  |
-| Al7Sr8 |  | -18.9 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 43 |  |
-| Al9Sr5 |  | -29.4 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 39 |  |
-| Al9Sr5 |  | -27.7 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 40 |  |
-| AlSr B2 |  | -12.7 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 21 |  |
-| AlSr Bf |  | -17.3 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 20 |  |
-| Ni3Sn-type |  | -18.4 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 2 |  |
-| Si2Sr-type |  | -9 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 12 |  |
-| ‘‘SQS-16’’ |  | -11.6 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 3 |  |
+| "SQS-16" |  | -12.3 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 30; `ORC-6COIHL4TJJ.e33525` |  |
+| "SQS-16" |  | -11.6 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 3; `ORC-RCDACG7ZVZ.0f3b83` |  |
+| Al10V-type |  | 8.4 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 24; `ORC-KSB2SUN753.095656` |  |
+| Al13Ba7-type |  | -27.8 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 37; `ORC-V2X4HHW66P.2b4753` |  |
+| Al13Ba7-type |  | -27.3 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 38; `ORC-GZWB6RPPIB.9b0285` |  |
+| Al14Ca13-type |  | -22.4 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 19; `ORC-EOMV7HCPYP.5f6414` |  |
+| Al2Sr C14 |  | -28.2 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 7; `ORC-X7UDDPRXTK.90a116` |  |
+| Al2Sr C15 |  | -30.3 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 36; `ORC-6DZ4YRCL2I.d02e4f` |  |
+| Al2Sr C15 |  | -27.2 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 17; `ORC-O2IODHVZER.bb8855` |  |
+| Al2Sr C16 |  | 0.5 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 11; `ORC-IHQ3ILNKFZ.1a04f2` |  |
+| Al2Sr C32 |  | -23 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 9; `ORC-CECNGUBOXZ.0a7dfb` |  |
+| Al2Sr C36 |  | -29.8 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 8; `ORC-4S35WXHLET.5a7b4d` |  |
+| Al2Sr CaF2-type |  | 55.4 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 14; `ORC-SUJPEYUGWH.641812` |  |
+| Al2Sr CaIn2-type |  | -26 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 10; `ORC-O6GGHPQNEI.5f7123` |  |
+| Al2Sr CeCu2-type |  | -29.7 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 31; `ORC-HUIVJDU35E.28bb13` |  |
+| Al2Sr CeCu2-type |  | -29 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 34; `ORC-R7VVSCK6M5.da105b` |  |
+| Al2Sr CeCu2-type |  | -28.8 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 35; `ORC-FKLHNK44UV.0c8390` |  |
+| Al2Sr CeCu2-type |  | -27.9 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 33; `ORC-UGMDR7N475.30e293` |  |
+| Al2Sr CeCu2-type |  | -27.4 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 32; `ORC-5LR2J676UV.a8cc62` |  |
+| Al2Sr MoPt2-type |  | -8.2 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 13; `ORC-JFLCHIBCLM.f5a3db` |  |
+| Al3Sr L12 |  | -5.5 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 4; `ORC-SOET5LN2C7.54c9f9` |  |
+| Al3Sr “SQS-16” |  | -12.3 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 30; `ORC-6COIHL4TJJ.983189` |  |
+| Al3Sr “SQS-16” |  | -11.6 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 3; `ORC-RCDACG7ZVZ.342f18` |  |
+| Al3Sr8 Ca8In3-type |  | -10.6 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 46; `ORC-7VRYI6VETF.f046ca` |  |
+| Al3Sr8 Ca8In3-type |  | -10.1 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 23; `ORC-QOP6TQLYSY.c98d4a` |  |
+| Al4Ba-type |  | -26.2 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 29; `ORC-I2L2NQ7XFN.6c5bf2` |  |
+| Al4Ba-type |  | -25.6 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 28; `ORC-UJDW4F542Q.8b95a8` |  |
+| Al4Ba-type |  | -24.2 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 25; `ORC-4QLINLIEEG.9567af` |  |
+| Al4Ba-type |  | -23.7 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 26; `ORC-A4HAISTUSA.d1b8b2` |  |
+| Al4Ba-type |  | -22.8 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 27; `ORC-GVNQVZSEKK.446f78` |  |
+| Al5Ba3-type |  | -27.5 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 41; `ORC-424RFS6NQE.405446` |  |
+| Al5Ba3-type |  | -27.2 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 17; `ORC-O2IODHVZER.b8f612` |  |
+| Al5Ba4-type |  | -26.7 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 42; `ORC-QLTVXKJ2WC.ac71d5` |  |
+| Al7Sr8 |  | -21.9 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 44; `ORC-N57J72G3CN.e7469b` |  |
+| Al7Sr8 |  | -21.4 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 45; `ORC-QFTGMTKHEN.a1cfbb` |  |
+| Al7Sr8 |  | -18.9 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 43; `ORC-O2YD2RYYWK.052d79` |  |
+| Al9Sr5 |  | -29.4 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 39; `ORC-RKTP2OSUYU.a9b3dd` |  |
+| Al9Sr5 |  | -27.7 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 40; `ORC-D6CT4TEMOD.f4884b` |  |
+| AlSr B2 |  | -12.7 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 21; `ORC-BPWQH6BEGW.8cc7ee` |  |
+| AlSr Bf |  | -17.3 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 20; `ORC-2XA25I4GQQ.cb1ebf` |  |
+| Ni3Sn-type |  | -18.4 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 2; `ORC-RLKMHJCHUE.20dbdc` |  |
+| Si2Sr-type |  | -9 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 12; `ORC-F6FALIBT4P.bfdb34` |  |
+| ‘‘SQS-16’’ |  | -11.6 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 3; `ORC-RCDACG7ZVZ.7913a6` |  |
 
 ## Other properties
 
@@ -244,10 +244,10 @@ Table: Phase transition, Al–Sr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 928.75 K | 928.75 | eutectic: (Al)-SrAl4 eutectic; _alloy: Al 0, Sr 1_ | experimental | [1] Liang 2014 | Table 2, p. 4, row 6 |  |
-| Phase transition | 929.05 K | 929.05 | eutectic: (Al)-SrAl4 eutectic; _alloy: Al 0, Sr 1_ | experimental | [1] Liang 2014 | Table 2, p. 4, row 2 |  |
-| Phase transition | 933.25 K | 933.25 |  | experimental | [1] Liang 2014 | p. 3 | “also measured the melting point of pure Al (99.999%, same purity as used for the ingots) and the obtained value is 660.1 °C which is only 0.2 °K lower than the standard 660.3 °C.” |
-| Phase transition | 1298 K | 1298 | Al4Sr | experimental | [3] Zhong 2004 | p. 3 | “The melting point of the Al4 Sr compound was given as 1298 K, the peritectic reactions of the Al2 Sr and ÔAlSrÕ (instead of the ÔAl2 Sr3 Õ in \[7\]) compounds at 1193 and 937 K, respectively.” |
+| Phase transition | 928.75 K | 928.75 | eutectic: (Al)-SrAl4 eutectic; _alloy: Al 0, Sr 1_ | experimental | [1] Liang 2014 | Table 2, p. 4, row 6; `ORC-A5WPLXK25V` |  |
+| Phase transition | 929.05 K | 929.05 | eutectic: (Al)-SrAl4 eutectic; _alloy: Al 0, Sr 1_ | experimental | [1] Liang 2014 | Table 2, p. 4, row 2; `ORC-3IMKZVSEU4` |  |
+| Phase transition | 933.25 K | 933.25 |  | experimental | [1] Liang 2014 | p. 3; `ORC-BGSKORRRCB.fe8acb` | “also measured the melting point of pure Al (99.999%, same purity as used for the ingots) and the obtained value is 660.1 °C which is only 0.2 °K lower than the standard 660.3 °C.” |
+| Phase transition | 1298 K | 1298 | Al4Sr | experimental | [3] Zhong 2004 | p. 3; `ORC-GOVNTBMVDU.94f3db` | “The melting point of the Al4 Sr compound was given as 1298 K, the peritectic reactions of the Al2 Sr and ÔAlSrÕ (instead of the ÔAl2 Sr3 Õ in \[7\]) compounds at 1193 and 937 K, respectively.” |
 
 ### Activity / EMF / Gibbs energy (1)
 
@@ -255,7 +255,7 @@ Table: Activity / EMF / Gibbs energy, Al–Sr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Activity; _printed: a(Sr)_ | 0.002 unspecified | 1300 |  | experimental | [3] Zhong 2004; _cites Vakhobov 1974_ | p. 3 | “The values of the activities of Sr at 1300 K were given as 0.002 at 20 at.% Sr and 0.03 at 33.3 or 50 at.% Sr separately by Vakhobov et al. \[6\] and Burylev et al. \[5\].” |
+| Activity; _printed: a(Sr)_ | 0.002 unspecified | 1300 |  | experimental | [3] Zhong 2004; _cites Vakhobov 1974_ | p. 3; `ORC-RMUMS4PWNZ` | “The values of the activities of Sr at 1300 K were given as 0.002 at 20 at.% Sr and 0.03 at 33.3 or 50 at.% Sr separately by Vakhobov et al. \[6\] and Burylev et al. \[5\].” |
 
 ## Sources
 
@@ -322,4 +322,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

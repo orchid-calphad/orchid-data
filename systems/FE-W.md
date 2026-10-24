@@ -59,7 +59,7 @@ Table: Invariant reactions reported in the literature for the Fe–W system (1)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1463 | eutectoid: /~-phase -> Fe-rich bcc + FeW |  | experimental | [1] Gustafson 1987 | p. 1 | “In a complementary work Hofmann ~~employed DTA analysis on alloys containing the FeW phase and he found that it forms from the/z-phase and W-rich solid solution at 1488 K and that the /~-phase decomposes eutectoidally into an Fe-rich bcc phase and FeW at 1463 K.” |
+| 1463 | eutectoid: /~-phase -> Fe-rich bcc + FeW |  | experimental | [1] Gustafson 1987 | p. 1; `ORC-JR4WOMFVCM.4fcc73` | “In a complementary work Hofmann ~~employed DTA analysis on alloys containing the FeW phase and he found that it forms from the/z-phase and W-rich solid solution at 1488 K and that the /~-phase decomposes eutectoidally into an Fe-rich bcc phase and FeW at 1463 K.” |
 
 ## Other properties
 
@@ -69,11 +69,11 @@ Table: Phase transition, Fe–W system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1488 K | 1488 | other: /z-phase + W-rich solid solution -> FeW | experimental | [1] Gustafson 1987 | p. 1 | “In a complementary work Hofmann ~~employed DTA analysis on alloys containing the FeW phase and he found that it forms from the/z-phase and W-rich solid solution at 1488 K and that the /~-phase decomposes eutectoidally into an Fe-rich bcc phase and FeW at 1463 K.” |
-| Phase transition | 1525 K | 1525 | W2C/ bcc + WC | experimental | [1] Gustafson 1987 | p. 4 | “To start with, he gives a value of \<2673 K for the liq + M2C/bcc + WC equilibrium whereas the W2C/ bcc + WC equilibrium in the W-C system is at 1525 K.” |
-| Phase transition | 1893 K | 1893 | L + WC + bcc/M6C | experimental | [1] Gustafson 1987; _cites Lugscheider 1982_ | p. 4 | “They found the L + WC + bcc/M6C equilibrium at 1893 K.” |
-| Phase transition | 2350 K | 2350 |  | experimental | [1] Gustafson 1987 | p. 3 | “At about 2350 K an ordered hexagonal structure forms.” |
-| Phase transition | 2750 K | 2750 |  | experimental | [1] Gustafson 1987; _cites Holleck 1981_ | p. 3 | “It transforms at about 2750 K into an orthorhombic structure, with a lower maximum solubility of carbon.” |
+| Phase transition | 1488 K | 1488 | other: /z-phase + W-rich solid solution -> FeW | experimental | [1] Gustafson 1987 | p. 1; `ORC-JR4WOMFVCM.30e926` | “In a complementary work Hofmann ~~employed DTA analysis on alloys containing the FeW phase and he found that it forms from the/z-phase and W-rich solid solution at 1488 K and that the /~-phase decomposes eutectoidally into an Fe-rich bcc phase and FeW at 1463 K.” |
+| Phase transition | 1525 K | 1525 | W2C/ bcc + WC | experimental | [1] Gustafson 1987 | p. 4; `ORC-XYGNWDZWMH` | “To start with, he gives a value of \<2673 K for the liq + M2C/bcc + WC equilibrium whereas the W2C/ bcc + WC equilibrium in the W-C system is at 1525 K.” |
+| Phase transition | 1893 K | 1893 | L + WC + bcc/M6C | experimental | [1] Gustafson 1987; _cites Lugscheider 1982_ | p. 4; `ORC-J7RSFHDA52` | “They found the L + WC + bcc/M6C equilibrium at 1893 K.” |
+| Phase transition | 2350 K | 2350 |  | experimental | [1] Gustafson 1987 | p. 3; `ORC-4ZVONDQLM5` | “At about 2350 K an ordered hexagonal structure forms.” |
+| Phase transition | 2750 K | 2750 |  | experimental | [1] Gustafson 1987; _cites Holleck 1981_ | p. 3; `ORC-GA3NIDGEF4` | “It transforms at about 2750 K into an orthorhombic structure, with a lower maximum solubility of carbon.” |
 
 ### Crystal structure (2)
 
@@ -81,8 +81,8 @@ Table: Crystal structure, Fe–W system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 4.766 Å | 298.15 | μ; _alloy: Fe 0.538462, W 0.461538_ | unspecified | [2] Ostrowska 2020 | Table 3, p. 3, row 1 |  |
-| Lattice c | 25.8731 Å | 298.15 | μ; _alloy: Fe 0.538462, W 0.461538_ | unspecified | [2] Ostrowska 2020 | Table 3, p. 3, row 1 |  |
+| Lattice a | 4.766 Å | 298.15 | μ; _alloy: Fe 0.538462, W 0.461538_ | unspecified | [2] Ostrowska 2020 | Table 3, p. 3, row 1; `ORC-XIGI5PPGSY.411566` |  |
+| Lattice c | 25.8731 Å | 298.15 | μ; _alloy: Fe 0.538462, W 0.461538_ | unspecified | [2] Ostrowska 2020 | Table 3, p. 3, row 1; `ORC-XIGI5PPGSY.63ead6` |  |
 
 ## Sources
 
@@ -148,4 +148,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

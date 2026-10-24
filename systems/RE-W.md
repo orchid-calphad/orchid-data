@@ -51,14 +51,14 @@ Table: Invariant reactions reported in the literature for the Re–W system (8)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 3272 | liq + bcc = σ | liq: W 0.506; bcc: W 0.373; σ: W 0.446 | unspecified | [1] Liu 2000 | Table 9, p. 6, row 5 |  |
-| 3264 | liq + bcc = σ | liq: W 0.512; bcc: W 0.379; σ: W 0.436 | unspecified | [1] Liu 2000 | Table 9, p. 6, row 1 |  |
-| 3104 | liq = hcp + σ | liq: W 0.726; hcp: W 0.836; σ: W 0.67 | unspecified | [1] Liu 2000 | Table 9, p. 6, row 6 |  |
-| 3102 | liq = hcp + σ | liq: W 0.725; hcp: W 0.835; σ: W 0.671 | unspecified | [1] Liu 2000 | Table 9, p. 6, row 2 |  |
-| 2398 | hcp + σ = χ | hcp: W 0.874; σ: W 0.715; χ: W 0.74 | unspecified | [1] Liu 2000 | Table 9, p. 6, row 3 |  |
-| 2398 | hcp + σ = χ | hcp: W 0.874; σ: W 0.717; χ: W 0.74 | unspecified | [1] Liu 2000 | Table 9, p. 6, row 7 |  |
-| 852 | σ = bcc + χ | σ: W 0.416; bcc: W 0.277; χ: W 0.73 | unspecified | [1] Liu 2000 | Table 9, p. 6, row 8 |  |
-| 851 | σ = bcc + χ | σ: W 0.446; bcc: W 0.277; χ: W 0.73 | unspecified | [1] Liu 2000 | Table 9, p. 6, row 4 |  |
+| 3272 | liq + bcc = σ | liq: W 0.506; bcc: W 0.373; σ: W 0.446 | unspecified | [1] Liu 2000 | Table 9, p. 6, row 5; `ORC-TVELZVQ4IY` |  |
+| 3264 | liq + bcc = σ | liq: W 0.512; bcc: W 0.379; σ: W 0.436 | unspecified | [1] Liu 2000 | Table 9, p. 6, row 1; `ORC-HSEQOULXK6` |  |
+| 3104 | liq = hcp + σ | liq: W 0.726; hcp: W 0.836; σ: W 0.67 | unspecified | [1] Liu 2000 | Table 9, p. 6, row 6; `ORC-TPC665LKFZ` |  |
+| 3102 | liq = hcp + σ | liq: W 0.725; hcp: W 0.835; σ: W 0.671 | unspecified | [1] Liu 2000 | Table 9, p. 6, row 2; `ORC-UF5XKIC3QT` |  |
+| 2398 | hcp + σ = χ | hcp: W 0.874; σ: W 0.715; χ: W 0.74 | unspecified | [1] Liu 2000 | Table 9, p. 6, row 3; `ORC-MQ72L6G4KX.23a28c` |  |
+| 2398 | hcp + σ = χ | hcp: W 0.874; σ: W 0.717; χ: W 0.74 | unspecified | [1] Liu 2000 | Table 9, p. 6, row 7; `ORC-MQ72L6G4KX.7693af` |  |
+| 852 | σ = bcc + χ | σ: W 0.416; bcc: W 0.277; χ: W 0.73 | unspecified | [1] Liu 2000 | Table 9, p. 6, row 8; `ORC-K4WUYH4L2T` |  |
+| 851 | σ = bcc + χ | σ: W 0.446; bcc: W 0.277; χ: W 0.73 | unspecified | [1] Liu 2000 | Table 9, p. 6, row 4; `ORC-LV5Q3ZRT46` |  |
 
 ## Other properties
 
@@ -68,9 +68,9 @@ Table: Phase equilibrium, Re–W system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 1473 | χ + σ + χ (χ/hcp) + χ (χ/σ) range low + χ (χ/σ) range high + σ (σ/(χ or hcp)) range low + σ (σ/(χ or hcp)) range high + σ (σ/bcc) range low + σ (σ/bcc) range high; _χ: Re 0.7, W 0.3; σ: Re 0.404, W 0.596; χ (χ/hcp): Re 0.75, W 0.25; χ (χ/σ) range low: Re 0.75, W 0.25; χ (χ/σ) range high: Re 0.7, W 0.3; σ (σ/(χ or hcp)) range low: Re 0.66, W 0.34; σ (σ/(χ or hcp)) range high: Re 0.6, W 0.4; σ (σ/bcc) range low: Re 0.42, W 0.58; σ (σ/bcc) range high: Re 0.404, W 0.596_ | experimental | [1] Liu 2000; _cites Greenfield 1956_ | Table 3, p. 3, row 1 |  |
-| Phase composition |  | 1573 | hcp + χ + σ + bcc + hcp (hcp/χ) + χ (χ/hcp) + χ (χ/σ) + σ (σ/(χ or hcp)) + σ (σ/bcc) + bcc (bcc/σ); _hcp: Re 0.9, W 0.1; χ: Re 0.69, W 0.31; σ: Re 0.44, W 0.56; bcc: Re 0.27, W 0.73; hcp (hcp/χ): Re 0.9, W 0.1; χ (χ/hcp): Re 0.79, W 0.21; χ (χ/σ): Re 0.69, W 0.31; σ (σ/(χ or hcp)): Re 0.55, W 0.45; σ (σ/bcc): Re 0.44, W 0.56; bcc (bcc/σ): Re 0.27, W 0.73_ | experimental | [1] Liu 2000; _cites Tregubov 1973_ | Table 3, p. 3, row 3 |  |
-| Phase composition |  | 2773 | hcp + σ + bcc + hcp (hcp/χ) + σ (σ/(χ or hcp)) + σ (σ/bcc) + bcc (bcc/σ); _hcp: Re 0.86, W 0.14; σ: Re 0.46, W 0.54; bcc: Re 0.33, W 0.67; hcp (hcp/χ): Re 0.86, W 0.14; σ (σ/(χ or hcp)): Re 0.72, W 0.28; σ (σ/bcc): Re 0.46, W 0.54; bcc (bcc/σ): Re 0.33, W 0.67_ | experimental | [1] Liu 2000; _cites Tregubov 1967_ | Table 3, p. 3, row 2 |  |
+| Phase composition |  | 1473 | χ + σ + χ (χ/hcp) + χ (χ/σ) range low + χ (χ/σ) range high + σ (σ/(χ or hcp)) range low + σ (σ/(χ or hcp)) range high + σ (σ/bcc) range low + σ (σ/bcc) range high; _χ: Re 0.7, W 0.3; σ: Re 0.404, W 0.596; χ (χ/hcp): Re 0.75, W 0.25; χ (χ/σ) range low: Re 0.75, W 0.25; χ (χ/σ) range high: Re 0.7, W 0.3; σ (σ/(χ or hcp)) range low: Re 0.66, W 0.34; σ (σ/(χ or hcp)) range high: Re 0.6, W 0.4; σ (σ/bcc) range low: Re 0.42, W 0.58; σ (σ/bcc) range high: Re 0.404, W 0.596_ | experimental | [1] Liu 2000; _cites Greenfield 1956_ | Table 3, p. 3, row 1; `ORC-QSPXB3KPNZ` |  |
+| Phase composition |  | 1573 | hcp + χ + σ + bcc + hcp (hcp/χ) + χ (χ/hcp) + χ (χ/σ) + σ (σ/(χ or hcp)) + σ (σ/bcc) + bcc (bcc/σ); _hcp: Re 0.9, W 0.1; χ: Re 0.69, W 0.31; σ: Re 0.44, W 0.56; bcc: Re 0.27, W 0.73; hcp (hcp/χ): Re 0.9, W 0.1; χ (χ/hcp): Re 0.79, W 0.21; χ (χ/σ): Re 0.69, W 0.31; σ (σ/(χ or hcp)): Re 0.55, W 0.45; σ (σ/bcc): Re 0.44, W 0.56; bcc (bcc/σ): Re 0.27, W 0.73_ | experimental | [1] Liu 2000; _cites Tregubov 1973_ | Table 3, p. 3, row 3; `ORC-QCP22EZBER` |  |
+| Phase composition |  | 2773 | hcp + σ + bcc + hcp (hcp/χ) + σ (σ/(χ or hcp)) + σ (σ/bcc) + bcc (bcc/σ); _hcp: Re 0.86, W 0.14; σ: Re 0.46, W 0.54; bcc: Re 0.33, W 0.67; hcp (hcp/χ): Re 0.86, W 0.14; σ (σ/(χ or hcp)): Re 0.72, W 0.28; σ (σ/bcc): Re 0.46, W 0.54; bcc (bcc/σ): Re 0.33, W 0.67_ | experimental | [1] Liu 2000; _cites Tregubov 1967_ | Table 3, p. 3, row 2; `ORC-OFVY46PPQJ` |  |
 
 ## Sources
 
@@ -135,4 +135,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

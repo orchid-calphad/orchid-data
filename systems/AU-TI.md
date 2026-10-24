@@ -55,30 +55,30 @@ Table: Invariant reactions reported in the literature for the Au–Ti system (24
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1768 | L->TiAu | L: Au 0.5; TiAu: Au 0.5, Ti 0.5 | experimental | [1] Luo 2001; _cites ref. 56Pie_ | Table 4, p. 7, row 16 |  |
-| 1760 | L->TiAu | L: Au 0.497; TiAu: Au 0.5, Ti 0.5 | model | [1] Luo 2001 | Table 4, p. 7, row 15 |  |
-| 1728 | L->TiAu2 | L: Au 0.6667; TiAu2: Au 0.666667, Ti 0.333333 | experimental | [1] Luo 2001; _cites ref. 56Pie_ | Table 4, p. 7, row 18 |  |
-| 1717 | L->TiAu2 | L: Au 0.6667; TiAu2: Au 0.666667, Ti 0.333333 | model | [1] Luo 2001 | Table 4, p. 7, row 17 |  |
-| 1677 | L->TiAu+TiAu2 | L: Au 0.5921; TiAu: Au 0.5, Ti 0.5; TiAu2: Au 0.666667, Ti 0.333333 | model | [1] Luo 2001 | Table 4, p. 7, row 7 |  |
-| 1668 | L->Ti3Au | L: Au 0.25; Ti3Au: Au 0.25, Ti 0.75 | experimental | [1] Luo 2001; _cites ref. 56Pie_ | Table 4, p. 7, row 14 |  |
-| 1658.15 | eutectic: L->TiAu+TiAu2 | L: Ti 0.4; TiAu: Ti 0.48; TiAu2: Ti 0.333 | unspecified | [1] Luo 2001 | Table 1, p. 2, row 4 |  |
-| 1658 | L->TiAu+TiAu2 | L: Au 0.6; TiAu: Au 0.5, Ti 0.5; TiAu2: Au 0.666667, Ti 0.333333 | experimental | [1] Luo 2001; _cites ref. 56Pie_ | Table 4, p. 7, row 8 |  |
-| 1655 | L->Ti3Au | L: Au 0.25; Ti3Au: Au 0.25, Ti 0.75 | model | [1] Luo 2001 | Table 4, p. 7, row 13 |  |
-| 1640.15 | eutectic: L->(βTi)+Ti3Au | L: Ti 0.79; (βTi): Ti 0.85; Ti3Au: Ti 0.75 | unspecified | [1] Luo 2001 | Table 1, p. 2, row 1 |  |
-| 1640 | L->(βTi)+Ti3Au | L: Au 0.21; Ti3Au: Au 0.25, Ti 0.75 | experimental | [1] Luo 2001; _cites ref. 56Pie_ | Table 4, p. 7, row 2 |  |
-| 1637 | L->(βTi)+Ti3Au | L: Au 0.2047; Ti3Au: Au 0.25, Ti 0.75 | model | [1] Luo 2001 | Table 4, p. 7, row 1 |  |
-| 1597 | L->Ti3Au+TiAu | L: Au 0.3287; Ti3Au: Au 0.25, Ti 0.75; TiAu: Au 0.5, Ti 0.5 | model | [1] Luo 2001 | Table 4, p. 7, row 5 |  |
-| 1583.15 | eutectic: L->Ti3Au+TiAu | L: Ti 0.67; Ti3Au: Ti 0.75; TiAu: Ti 0.62 | unspecified | [1] Luo 2001 | Table 1, p. 2, row 3 |  |
-| 1583 | L->Ti3Au+TiAu | L: Au 0.33; Ti3Au: Au 0.25, Ti 0.75; TiAu: Au 0.5, Ti 0.5 | experimental | [1] Luo 2001; _cites ref. 56Pie_ | Table 4, p. 7, row 6 |  |
-| 1445.15 | peritectic: TiAu2+L->TiAu4 | TiAu2: Ti 0.333; L: Ti 0.141; TiAu4: Ti 0.2 | unspecified | [1] Luo 2001 | Table 1, p. 2, row 5 |  |
-| 1445 | TiAu2+L->TiAu4 | TiAu2: Au 0.666667, Ti 0.333333; L: Au 0.8; TiAu4: Au 0.8, Ti 0.2 | experimental | [1] Luo 2001; _cites ref. 56Pie_ | Table 4, p. 7, row 10 |  |
-| 1443 | TiAu2+L->TiAu4 | TiAu2: Au 0.666667, Ti 0.333333; L: Au 0.8073; TiAu4: Au 0.8, Ti 0.2 | model | [1] Luo 2001 | Table 4, p. 7, row 9 |  |
-| 1396.15 | peritectic: TiAu4+L->(Au) | TiAu4: Ti 0.18; L: Ti 0.11; (Au): Ti 0.13 | unspecified | [1] Luo 2001 | Table 1, p. 2, row 6 |  |
-| 1396 | TiAu4+L->(Au) | TiAu4: Au 0.8, Ti 0.2; L: Au 0.87 | experimental | [1] Luo 2001; _cites ref. 56Pie_ | Table 4, p. 7, row 12 |  |
-| 1395 | TiAu4+L->(Au) | TiAu4: Au 0.8, Ti 0.2; L: Au 0.873 | model | [1] Luo 2001 | Table 4, p. 7, row 11 |  |
-| 1105.15 | eutectoid: (βTi)->(αTi)+Ti3Au | (βTi): Ti 0.958; (αTi): Ti 0.983; Ti3Au: Ti 0.75 | unspecified | [1] Luo 2001; _cites ref. 78Pli_ | Table 1, p. 2, row 2 |  |
-| 1105 | (βTi)->(αTi)+Ti3Au | (βTi): Au 0.042; (αTi): Au 0.5, Ti 0.5; Ti3Au: Au 0.25, Ti 0.75 | experimental | [1] Luo 2001; _cites ref. 56Pie_ | Table 4, p. 7, row 4 |  |
-| 1105 | (βTi)->(αTi)+Ti3Au | (βTi): Au 0.0378; (αTi): Au 0.5, Ti 0.5; Ti3Au: Au 0.25, Ti 0.75 | model | [1] Luo 2001 | Table 4, p. 7, row 3 |  |
+| 1768 | L->TiAu | L: Au 0.5; TiAu: Au 0.5, Ti 0.5 | experimental | [1] Luo 2001; _cites ref. 56Pie_ | Table 4, p. 7, row 16; `ORC-V6BSUBQBF5` |  |
+| 1760 | L->TiAu | L: Au 0.497; TiAu: Au 0.5, Ti 0.5 | model | [1] Luo 2001 | Table 4, p. 7, row 15; `ORC-HGZQUYH7CI` |  |
+| 1728 | L->TiAu2 | L: Au 0.6667; TiAu2: Au 0.666667, Ti 0.333333 | experimental | [1] Luo 2001; _cites ref. 56Pie_ | Table 4, p. 7, row 18; `ORC-WKZHMSEBAD` |  |
+| 1717 | L->TiAu2 | L: Au 0.6667; TiAu2: Au 0.666667, Ti 0.333333 | model | [1] Luo 2001 | Table 4, p. 7, row 17; `ORC-R5WPNXWBZS` |  |
+| 1677 | L->TiAu+TiAu2 | L: Au 0.5921; TiAu: Au 0.5, Ti 0.5; TiAu2: Au 0.666667, Ti 0.333333 | model | [1] Luo 2001 | Table 4, p. 7, row 7; `ORC-6DVXGS5KKT` |  |
+| 1668 | L->Ti3Au | L: Au 0.25; Ti3Au: Au 0.25, Ti 0.75 | experimental | [1] Luo 2001; _cites ref. 56Pie_ | Table 4, p. 7, row 14; `ORC-4MS26CPXAA` |  |
+| 1658.15 | eutectic: L->TiAu+TiAu2 | L: Ti 0.4; TiAu: Ti 0.48; TiAu2: Ti 0.333 | unspecified | [1] Luo 2001 | Table 1, p. 2, row 4; `ORC-NBSPLJLS5U` |  |
+| 1658 | L->TiAu+TiAu2 | L: Au 0.6; TiAu: Au 0.5, Ti 0.5; TiAu2: Au 0.666667, Ti 0.333333 | experimental | [1] Luo 2001; _cites ref. 56Pie_ | Table 4, p. 7, row 8; `ORC-XFEJDSNXAY` |  |
+| 1655 | L->Ti3Au | L: Au 0.25; Ti3Au: Au 0.25, Ti 0.75 | model | [1] Luo 2001 | Table 4, p. 7, row 13; `ORC-6AVRDPNY47` |  |
+| 1640.15 | eutectic: L->(βTi)+Ti3Au | L: Ti 0.79; (βTi): Ti 0.85; Ti3Au: Ti 0.75 | unspecified | [1] Luo 2001 | Table 1, p. 2, row 1; `ORC-AEQ7XSWPQ3` |  |
+| 1640 | L->(βTi)+Ti3Au | L: Au 0.21; Ti3Au: Au 0.25, Ti 0.75 | experimental | [1] Luo 2001; _cites ref. 56Pie_ | Table 4, p. 7, row 2; `ORC-62CZBDBXU6` |  |
+| 1637 | L->(βTi)+Ti3Au | L: Au 0.2047; Ti3Au: Au 0.25, Ti 0.75 | model | [1] Luo 2001 | Table 4, p. 7, row 1; `ORC-IUZZWIQUCS` |  |
+| 1597 | L->Ti3Au+TiAu | L: Au 0.3287; Ti3Au: Au 0.25, Ti 0.75; TiAu: Au 0.5, Ti 0.5 | model | [1] Luo 2001 | Table 4, p. 7, row 5; `ORC-M4KQAKLJ3B` |  |
+| 1583.15 | eutectic: L->Ti3Au+TiAu | L: Ti 0.67; Ti3Au: Ti 0.75; TiAu: Ti 0.62 | unspecified | [1] Luo 2001 | Table 1, p. 2, row 3; `ORC-DBQ4ART4SR` |  |
+| 1583 | L->Ti3Au+TiAu | L: Au 0.33; Ti3Au: Au 0.25, Ti 0.75; TiAu: Au 0.5, Ti 0.5 | experimental | [1] Luo 2001; _cites ref. 56Pie_ | Table 4, p. 7, row 6; `ORC-WDP6R32ZLG` |  |
+| 1445.15 | peritectic: TiAu2+L->TiAu4 | TiAu2: Ti 0.333; L: Ti 0.141; TiAu4: Ti 0.2 | unspecified | [1] Luo 2001 | Table 1, p. 2, row 5; `ORC-65GL74N4AU` |  |
+| 1445 | TiAu2+L->TiAu4 | TiAu2: Au 0.666667, Ti 0.333333; L: Au 0.8; TiAu4: Au 0.8, Ti 0.2 | experimental | [1] Luo 2001; _cites ref. 56Pie_ | Table 4, p. 7, row 10; `ORC-ET7HS3G32D` |  |
+| 1443 | TiAu2+L->TiAu4 | TiAu2: Au 0.666667, Ti 0.333333; L: Au 0.8073; TiAu4: Au 0.8, Ti 0.2 | model | [1] Luo 2001 | Table 4, p. 7, row 9; `ORC-IQYSTEG4XP` |  |
+| 1396.15 | peritectic: TiAu4+L->(Au) | TiAu4: Ti 0.18; L: Ti 0.11; (Au): Ti 0.13 | unspecified | [1] Luo 2001 | Table 1, p. 2, row 6; `ORC-XHQC4UN6XZ` |  |
+| 1396 | TiAu4+L->(Au) | TiAu4: Au 0.8, Ti 0.2; L: Au 0.87 | experimental | [1] Luo 2001; _cites ref. 56Pie_ | Table 4, p. 7, row 12; `ORC-SLX2ZUGNJQ` |  |
+| 1395 | TiAu4+L->(Au) | TiAu4: Au 0.8, Ti 0.2; L: Au 0.873 | model | [1] Luo 2001 | Table 4, p. 7, row 11; `ORC-HDC6KMXEUA` |  |
+| 1105.15 | eutectoid: (βTi)->(αTi)+Ti3Au | (βTi): Ti 0.958; (αTi): Ti 0.983; Ti3Au: Ti 0.75 | unspecified | [1] Luo 2001; _cites ref. 78Pli_ | Table 1, p. 2, row 2; `ORC-2V6AVG5ZNN` |  |
+| 1105 | (βTi)->(αTi)+Ti3Au | (βTi): Au 0.042; (αTi): Au 0.5, Ti 0.5; Ti3Au: Au 0.25, Ti 0.75 | experimental | [1] Luo 2001; _cites ref. 56Pie_ | Table 4, p. 7, row 4; `ORC-63DRALURXX` |  |
+| 1105 | (βTi)->(αTi)+Ti3Au | (βTi): Au 0.0378; (αTi): Au 0.5, Ti 0.5; Ti3Au: Au 0.25, Ti 0.75 | model | [1] Luo 2001 | Table 4, p. 7, row 3; `ORC-B4AB5HYPPQ` |  |
 
 ## Other properties
 
@@ -88,9 +88,9 @@ Table: Phase transition, Au–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1668.15 K | 1668.15 | congruent melting: L->Ti3Au; _L: Ti 0.75; Ti3Au: Ti 0.75_ | unspecified | [1] Luo 2001 | Table 1, p. 2, row 7 |  |
-| Phase transition | 1728.15 K | 1728.15 | congruent melting: L->TiAu2; _L: Ti 0.333; TiAu2: Ti 0.333_ | unspecified | [1] Luo 2001 | Table 1, p. 2, row 9 |  |
-| Phase transition | 1768.15 K | 1768.15 | congruent melting: L->TiAu; _L: Ti 0.5; TiAu: Ti 0.5_ | unspecified | [1] Luo 2001 | Table 1, p. 2, row 8 |  |
+| Phase transition | 1668.15 K | 1668.15 | congruent melting: L->Ti3Au; _L: Ti 0.75; Ti3Au: Ti 0.75_ | unspecified | [1] Luo 2001 | Table 1, p. 2, row 7; `ORC-4YAL36ZX3V` |  |
+| Phase transition | 1728.15 K | 1728.15 | congruent melting: L->TiAu2; _L: Ti 0.333; TiAu2: Ti 0.333_ | unspecified | [1] Luo 2001 | Table 1, p. 2, row 9; `ORC-ILKWHZJUKE` |  |
+| Phase transition | 1768.15 K | 1768.15 | congruent melting: L->TiAu; _L: Ti 0.5; TiAu: Ti 0.5_ | unspecified | [1] Luo 2001 | Table 1, p. 2, row 8; `ORC-UTAQWC234D` |  |
 
 ## Sources
 
@@ -155,4 +155,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

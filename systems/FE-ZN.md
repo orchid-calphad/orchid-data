@@ -83,84 +83,84 @@ Table: Invariant reactions reported in the literature for the Fe–Zn system (78
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1055.15 | (αFe)+L -> Γ | (αFe): Zn 0.42; L: Zn 0.92; Γ: Zn 0.72 | experimental | [1] Tang 2011; _cites Gellings 1980_ [doi](https://doi.org/10.1515/ijmr-1980-710303) | Table 3, p. 7, row 3 |  |
-| 1055.15 | peritectic: (αFe) + L = Γ | (αFe): Zn 0.42; L: Zn 0.92; Γ: Zn 0.72 | model | [2] Xiong 2009; _cites Burton 1993_ | Table 5, p. 6, row 6 |  |
-| 1055.15 | L + α-Fe(b.c.c.) -> Γ | L: Zn 0.912; α-Fe(b.c.c.): Zn 0.415; Γ: Zn 0.732 | model | [3] Su 2001 | Table 2, p. 5, row 1 |  |
-| 1055.15 | peritectic: (αFe) + L = Γ | (αFe): Zn 0.418; L: Zn 0.918; Γ: Zn 0.721 | model | [2] Xiong 2009; _cites Conclusions_ | Table 5, p. 6, row 2 |  |
-| 1055.15 | L + α-Fe(b.c.c.) -> Γ | L: Zn 0.92; α-Fe(b.c.c.): Zn 0.42; Γ: Zn 0.72 | experimental | [3] Su 2001; _cites Burton 1993_ | Table 2, p. 5, row 2 |  |
-| 1055.15 | peritectic: (αFe) + L = Γ | (αFe): Zn 0.42; L: Zn 0.92; Γ: Zn 0.72 | model | [2] Xiong 2009; _cites Kubaschewski 1982_ | Table 5, p. 6, row 5 |  |
-| 1055.15 | peritectic |  | experimental | [3] Su 2001; _cites Truesdale 1936_ | p. 3 | “The G phase melts peritectically at 7828C \[31,36,37\] and has a relatively wide homogeneity range, which maximizes at the temperature when the peritectic reaction involving the d phase occurs \[29,36,14,37,27\].” |
-| 1055.15 | L + α-Fe(b.c.c.) -> Γ | Γ: Fe 0.3, Zn 0.7 | unspecified | [3] Su 2001; _cites Gellings 1980_ | Table 2, p. 5, row 3 |  |
-| 1055.15 | (αFe)+L -> Γ | (αFe): Zn 0.423; L: Zn 0.92; Γ: Zn 0.726 | model | [1] Tang 2011; _cites Xiong 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.01.002) | Table 3, p. 7, row 2 |  |
-| 1055.15 | peritectic: (αFe) + L = Γ | (αFe): Zn 0.423; L: Zn 0.92; Γ: Zn 0.726 | model | [2] Xiong 2009 | Table 5, p. 6, row 1 |  |
-| 1055.15 | L + α-Fe(b.c.c.) -> Γ | Γ: Fe 0.3, Zn 0.7 | experimental | [3] Su 2001; _cites Truesdale 1936_ | Table 2, p. 5, row 4 |  |
-| 1055.15 | peritectic: (αFe) + L = Γ | Γ: Fe 0.3, Zn 0.7 | experimental | [2] Xiong 2009; _cites Gellings 1980_ | Table 5, p. 6, row 4 |  |
-| 1055.15 | (αFe)+L -> Γ | (αFe): Zn 0.432; L: Zn 0.9249; Γ: Zn 0.7316 | model | [1] Tang 2011 | Table 3, p. 7, row 1 |  |
-| 1055.15 | peritectic: (αFe) + L = Γ | (αFe): Zn 0.415; L: Zn 0.912; Γ: Zn 0.732 | model | [2] Xiong 2009; _cites Su 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901273-7) | Table 5, p. 6, row 3 |  |
-| 1055 | peritectic: bcc-Fe + Liquid -> G1 |  | experimental | [4] Reumont 2000 | p. 1 | “As foreseeable from the large differences between melting points of the pure elements, the equilibrium diagram contains three invariant peritectics, one eutectic, and one peritectoid reaction forming G2: • bcc-Fe 1 Liquid → G1 at 1055 K (peritectic) • G1 1 Liquid → d1 at 945 K (peritectic) • d1 1 Liquid → z at 803 K (peritectic) • Liquid → z 1 hcp-Zn at 692 K (eutectic) • G1 1 d1 → G2 at 823 K (p…” |
-| 1038.15 | L + α-Fe(b.c.c.) -> Γ | Γ: Fe 0.3, Zn 0.7 | experimental | [3] Su 2001; _cites Hansen 1936_ | Table 2, p. 5, row 5 |  |
-| 945.15 | L + Γ -> δ | Γ: Fe 0.3, Zn 0.7; δ: Fe 0.090909, Zn 0.909091 | experimental | [3] Su 2001; _cites Truesdale 1936_ | Table 2, p. 5, row 10 |  |
-| 945.15 | peritectic: Γ + L = δ | Γ: Fe 0.3, Zn 0.7; δ: Fe 0.090909, Zn 0.909091 | experimental | [2] Xiong 2009; _cites Schramm 1936_ | Table 5, p. 6, row 10 |  |
-| 945.15 | L + Γ -> δ | Γ: Fe 0.3, Zn 0.7; δ: Fe 0.090909, Zn 0.909091 | unspecified | [3] Su 2001; _cites Gellings 1980_ | Table 2, p. 5, row 8 |  |
-| 945.15 | peritectic |  | experimental | [3] Su 2001; _cites Bastin 1977_ | p. 3 | “DTA measurements, X-ray diffraction, microscopic investigation and microhardness measurements all support the conclusion that there exists only one d phase forming peritectically at 6728C \[16,17,37\].” |
-| 945.15 | peritectic: Γ + L = δ | Γ: Zn 0.825; L: Zn 0.965; δ: Zn 0.865 | model | [2] Xiong 2009; _cites Burton 1993_ | Table 5, p. 6, row 13 |  |
-| 945.15 | L+Γ -> δ | L: Zn 0.965; Γ: Zn 0.825; δ: Zn 0.865 | experimental | [1] Tang 2011; _cites Gellings 1980_ [doi](https://doi.org/10.1515/ijmr-1980-710303) | Table 3, p. 7, row 6 |  |
-| 945.15 | peritectic: Γ + L = δ | Γ: Zn 0.825; L: Zn 0.964; δ: Zn 0.866 | model | [2] Xiong 2009; _cites Conclusions_ | Table 5, p. 6, row 8 |  |
-| 945.15 | L+Γ -> δ | L: Zn 0.9697; Γ: Zn 0.8022; δ: Zn 0.8636 | model | [1] Tang 2011 | Table 3, p. 7, row 4 |  |
-| 945.15 | peritectic: Γ + L = δ | Γ: Fe 0.3, Zn 0.7; δ: Fe 0.090909, Zn 0.909091 | experimental | [2] Xiong 2009; _cites Gellings 1980_ | Table 5, p. 6, row 11 |  |
-| 945.15 | L + Γ -> δ | L: Zn 0.964; Γ: Zn 0.807; δ: Zn 0.869 | model | [3] Su 2001 | Table 2, p. 5, row 6 |  |
-| 945.15 | peritectic: Γ + L = δ | Γ: Zn 0.807; L: Zn 0.964; δ: Zn 0.869 | model | [2] Xiong 2009; _cites Su 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901273-7) | Table 5, p. 6, row 9 |  |
-| 945.15 | L + Γ -> δ | Γ: Fe 0.3, Zn 0.7; δ: Fe 0.090909, Zn 0.909091 | experimental | [3] Su 2001; _cites Schramm 1936_ | Table 2, p. 5, row 9 |  |
-| 945.15 | L + Γ -> δ | L: Zn 0.965; Γ: Zn 0.813; δ: Zn 0.87 | experimental | [3] Su 2001; _cites Burton 1993_ | Table 2, p. 5, row 7 |  |
-| 945 | peritectic: G1 + Liquid -> d1 |  | experimental | [4] Reumont 2000 | p. 1 | “As foreseeable from the large differences between melting points of the pure elements, the equilibrium diagram contains three invariant peritectics, one eutectic, and one peritectoid reaction forming G2: • bcc-Fe 1 Liquid → G1 at 1055 K (peritectic) • G1 1 Liquid → d1 at 945 K (peritectic) • d1 1 Liquid → z at 803 K (peritectic) • Liquid → z 1 hcp-Zn at 692 K (eutectic) • G1 1 d1 → G2 at 823 K (p…” |
-| 941.15 | peritectic: Γ + L = δ | Γ: Zn 0.827; L: Zn 0.973; δ: Zn 0.856 | model | [2] Xiong 2009 | Table 5, p. 6, row 7 |  |
-| 941.15 | L+Γ -> δ | L: Zn 0.973; Γ: Zn 0.827; δ: Zn 0.856 | model | [1] Tang 2011; _cites Xiong 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.01.002) | Table 3, p. 7, row 5 |  |
-| 938.15 | peritectic: Γ + L = δ | Γ: Zn 0.825; L: Zn 0.975; δ: Zn 0.865 | model | [2] Xiong 2009; _cites Kubaschewski 1982_ | Table 5, p. 6, row 12 |  |
-| 920.15 | L + Γ -> δ | Γ: Fe 0.3, Zn 0.7; δ: Fe 0.090909, Zn 0.909091 | experimental | [3] Su 2001; _cites Hansen 1936_ | Table 2, p. 5, row 11 |  |
-| 823.85 | Γ+δ -> Γ1 | Γ: Zn 0.7597; δ: Zn 0.8654; Γ1: Zn 0.802 | model | [1] Tang 2011 | Table 3, p. 7, row 7 |  |
-| 823.15 | Γ+δ -> Γ1 | Γ: Zn 0.765; δ: Zn 0.865; Γ1: Zn 0.81 | experimental | [1] Tang 2011; _cites Gellings 1980_ [doi](https://doi.org/10.1515/ijmr-1980-710303) | Table 3, p. 7, row 9 |  |
-| 823.15 | peritectoid: Γ + δ = Γ1 | Γ: Zn 0.765; δ: Zn 0.865; Γ1: Zn 0.81 | model | [2] Xiong 2009; _cites Kubaschewski 1982_ | Table 5, p. 6, row 18 |  |
-| 823.15 | Γ + δ -> Γ1 | Γ: Zn 0.778; δ: Zn 0.801; Γ1: Zn 0.869 | model | [3] Su 2001 | Table 2, p. 5, row 21 |  |
-| 823.15 | peritectoid: Γ + δ = Γ1 | Γ: Zn 0.768; δ: Zn 0.856; Γ1: Zn 0.81 | model | [2] Xiong 2009 | Table 5, p. 6, row 14 |  |
-| 823.15 | peritectoid: Γ + δ = Γ1 | Γ: Fe 0.3, Zn 0.7; δ: Fe 0.090909, Zn 0.909091; Γ1: Fe 0.2, Zn 0.8 | experimental | [2] Xiong 2009; _cites Gellings 1980_ | Table 5, p. 6, row 17 |  |
-| 823.15 | Γ + δ -> Γ1 | Γ: Fe 0.3, Zn 0.7; δ: Fe 0.090909, Zn 0.909091; Γ1: Fe 0.2, Zn 0.8 | unspecified | [3] Su 2001; _cites Gellings 1980_ | Table 2, p. 5, row 23 |  |
-| 823.15 | Γ + δ -> Γ1 | Γ: Fe 0.3, Zn 0.7; δ: Fe 0.090909, Zn 0.909091; Γ1: Fe 0.2, Zn 0.8 | experimental | [3] Su 2001; _cites Burton 1993_ | Table 2, p. 5, row 22 |  |
-| 823.15 | peritectoid: Γ + δ = Γ1 | Γ: Zn 0.766; δ: Zn 0.865; Γ1: Zn 0.809 | model | [2] Xiong 2009; _cites Conclusions_ | Table 5, p. 6, row 15 |  |
-| 823.15 | peritectoid: Γ + δ = Γ1 | Γ: Zn 0.778; δ: Zn 0.869; Γ1: Zn 0.801 | model | [2] Xiong 2009; _cites Su 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901273-7) | Table 5, p. 6, row 16 |  |
-| 823.15 | Γ+δ -> Γ1 | Γ: Zn 0.768; δ: Zn 0.856; Γ1: Zn 0.81 | model | [1] Tang 2011; _cites Xiong 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.01.002) | Table 3, p. 7, row 8 |  |
-| 823.15 | peritectoid: Γ + δ = Γ1 | Γ: Zn 0.765; δ: Zn 0.865; Γ1: Zn 0.81 | model | [2] Xiong 2009; _cites Burton 1993_ | Table 5, p. 6, row 19 |  |
-| 823 | peritectoid: G1 + d1 -> G2 |  | experimental | [4] Reumont 2000 | p. 1 | “As foreseeable from the large differences between melting points of the pure elements, the equilibrium diagram contains three invariant peritectics, one eutectic, and one peritectoid reaction forming G2: • bcc-Fe 1 Liquid → G1 at 1055 K (peritectic) • G1 1 Liquid → d1 at 945 K (peritectic) • d1 1 Liquid → z at 803 K (peritectic) • Liquid → z 1 hcp-Zn at 692 K (eutectic) • G1 1 d1 → G2 at 823 K (p…” |
-| 803.85 | δ+L -> ζ | δ: Zn 0.913; L: Zn 0.9974; ζ: Zn 0.9294 | model | [1] Tang 2011 | Table 3, p. 7, row 10 |  |
-| 803.15 | δ+L -> ζ | δ: Zn 0.92; L: Zn 0.995; ζ: Zn 0.927 | experimental | [1] Tang 2011; _cites Gellings 1980_ [doi](https://doi.org/10.1515/ijmr-1980-710303) | Table 3, p. 7, row 12 |  |
-| 803.15 | L + δ -> ζ | δ: Fe 0.090909, Zn 0.909091; ζ: Fe 0.071429, Zn 0.928571 | experimental | [3] Su 2001; _cites Schramm 1936_ | Table 2, p. 5, row 15 |  |
-| 803.15 | peritectic: δ + L = ζ | δ: Fe 0.090909, Zn 0.909091; ζ: Fe 0.071429, Zn 0.928571 | experimental | [2] Xiong 2009; _cites Gellings 1980_ | Table 5, p. 6, row 24 |  |
-| 803.15 | peritectic: δ + L = ζ | δ: Zn 0.92; L: Zn 0.995; ζ: Zn 0.927 | model | [2] Xiong 2009; _cites Kubaschewski 1982_ | Table 5, p. 6, row 25 |  |
-| 803.15 | peritectic: δ + L = ζ | δ: Zn 0.914; L: Zn 0.996; ζ: Zn 0.928 | model | [2] Xiong 2009; _cites Conclusions_ | Table 5, p. 6, row 21 |  |
-| 803.15 | peritectic |  | model | [3] Su 2001 | p. 3 | “The z (FeZn 13 ) phase melts peritectically at 5308C.” |
-| 803.15 | L + δ -> ζ | δ: Fe 0.090909, Zn 0.909091; ζ: Fe 0.071429, Zn 0.928571 | unspecified | [3] Su 2001; _cites Gellings 1980_ | Table 2, p. 5, row 14 |  |
-| 803.15 | L + δ -> ζ | δ: Fe 0.090909, Zn 0.909091; ζ: Fe 0.071429, Zn 0.928571 | experimental | [3] Su 2001; _cites Burton 1993_ | Table 2, p. 5, row 13 |  |
-| 803.15 | peritectic: δ + L = ζ | δ: Zn 0.914; L: Zn 0.996; ζ: Zn 0.929 | model | [2] Xiong 2009; _cites Su 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901273-7) | Table 5, p. 6, row 22 |  |
-| 803.15 | L + δ -> ζ | L: Zn 0.997; δ: Zn 0.914; ζ: Fe 0.071429, Zn 0.928571 | model | [3] Su 2001 | Table 2, p. 5, row 12 |  |
-| 803.15 | peritectic: δ + L = ζ | δ: Fe 0.090909, Zn 0.909091; ζ: Fe 0.071429, Zn 0.928571 | experimental | [2] Xiong 2009; _cites Schramm 1936_ | Table 5, p. 6, row 23 |  |
-| 803 | peritectic: d1 + Liquid -> z |  | experimental | [4] Reumont 2000 | p. 1 | “As foreseeable from the large differences between melting points of the pure elements, the equilibrium diagram contains three invariant peritectics, one eutectic, and one peritectoid reaction forming G2: • bcc-Fe 1 Liquid → G1 at 1055 K (peritectic) • G1 1 Liquid → d1 at 945 K (peritectic) • d1 1 Liquid → z at 803 K (peritectic) • Liquid → z 1 hcp-Zn at 692 K (eutectic) • G1 1 d1 → G2 at 823 K (p…” |
-| 799.15 | δ+L -> ζ | δ: Zn 0.914; L: Zn 0.9985; ζ: Zn 0.93 | model | [1] Tang 2011; _cites Xiong 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.01.002) | Table 3, p. 7, row 11 |  |
-| 799.15 | peritectic: δ + L = ζ | δ: Zn 0.914; L: Zn 0.9985; ζ: Zn 0.93 | model | [2] Xiong 2009 | Table 5, p. 6, row 20 |  |
-| 692.68 | eutectic: L = ζ + (Zn) | L: Zn 0.99989; ζ: Zn 0.94; (Zn): Zn 1 | model | [2] Xiong 2009; _cites Kubaschewski 1982_ | Table 5, p. 6, row 32 |  |
-| 692.65 | eutectic: L = ζ + (Zn) | L: Zn 0.9995; ζ: Zn 0.944; (Zn): Zn 0.999899 | model | [2] Xiong 2009; _cites Conclusions_ | Table 5, p. 6, row 27 |  |
-| 692.65 | L+ζ -> (Zn) | L: Zn 0.99998; ζ: Zn 0.939; (Zn): Zn 0.999886 | model | [1] Tang 2011; _cites Xiong 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.01.002) | Table 3, p. 7, row 14 |  |
-| 692.65 | L+ζ -> (Zn) | L: Zn 0.99988; ζ: Zn 0.9388; (Zn): Zn 0.999886 | model | [1] Tang 2011 | Table 3, p. 7, row 13 |  |
-| 692.63 | eutectic: L = ζ + (Zn) | L: Zn 0.999981; ζ: Zn 0.939; (Zn): Zn 0.999886 | model | [2] Xiong 2009 | Table 5, p. 6, row 26 |  |
-| 692.61 | eutectic: L = ζ + (Zn) | L: Zn 0.999878; ζ: Zn 0.929; (Zn): Zn 1 | model | [2] Xiong 2009; _cites Su 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901273-7) | Table 5, p. 6, row 28 |  |
-| 692.6 | L -> ζ + Zn(h.c.p.) | L: Zn 0.9999; ζ: Fe 0.071429, Zn 0.928571 | model | [3] Su 2001 | Table 2, p. 5, row 16 |  |
-| 692.55 | eutectic: L = ζ + (Zn) | ζ: Fe 0.071429, Zn 0.928571 | experimental | [2] Xiong 2009; _cites Gellings 1980_ | Table 5, p. 6, row 31 |  |
-| 692.55 | L -> ζ + Zn(h.c.p.) | ζ: Fe 0.071429, Zn 0.928571 | unspecified | [3] Su 2001; _cites Gellings 1980_ | Table 2, p. 5, row 18 |  |
-| 692.55 | eutectic: L = ζ + (Zn) | ζ: Fe 0.071429, Zn 0.928571 | experimental | [2] Xiong 2009; _cites Schramm 1936_ | Table 5, p. 6, row 30 |  |
-| 692.55 | L -> ζ + Zn(h.c.p.) | ζ: Fe 0.071429, Zn 0.928571 | experimental | [3] Su 2001; _cites Schramm 1936_ | Table 2, p. 5, row 19 |  |
-| 692.55 | L -> ζ + Zn(h.c.p.) | L: Zn 0.9998; ζ: Fe 0.071429, Zn 0.928571 | experimental | [3] Su 2001; _cites Truesdale 1936_ | Table 2, p. 5, row 20 |  |
-| 692.55 | eutectic: L = ζ + (Zn) | L: Zn 0.99979; ζ: Fe 0.071429, Zn 0.928571; (Zn): Zn 0.99997 | experimental | [2] Xiong 2009; _cites Truesdale 1936_ | Table 5, p. 6, row 29 |  |
-| 692.55 | L -> ζ + Zn(h.c.p.) | ζ: Fe 0.071429, Zn 0.928571 | experimental | [3] Su 2001; _cites Burton 1993_ | Table 2, p. 5, row 17 |  |
-| 692.55 | L+ζ -> (Zn) | L: Zn 0.99989; ζ: Zn 0.94; (Zn): Zn 1 | experimental | [1] Tang 2011; _cites Gellings 1980_ [doi](https://doi.org/10.1515/ijmr-1980-710303) | Table 3, p. 7, row 15 |  |
-| 692 | eutectic: Liquid -> z + hcp-Zn |  | experimental | [4] Reumont 2000 | p. 1 | “As foreseeable from the large differences between melting points of the pure elements, the equilibrium diagram contains three invariant peritectics, one eutectic, and one peritectoid reaction forming G2: • bcc-Fe 1 Liquid → G1 at 1055 K (peritectic) • G1 1 Liquid → d1 at 945 K (peritectic) • d1 1 Liquid → z at 803 K (peritectic) • Liquid → z 1 hcp-Zn at 692 K (eutectic) • G1 1 d1 → G2 at 823 K (p…” |
+| 1055.15 | (αFe)+L -> Γ | (αFe): Zn 0.42; L: Zn 0.92; Γ: Zn 0.72 | experimental | [1] Tang 2011; _cites Gellings 1980_ [doi](https://doi.org/10.1515/ijmr-1980-710303) | Table 3, p. 7, row 3; `ORC-22UFYYPI27` |  |
+| 1055.15 | peritectic: (αFe) + L = Γ | (αFe): Zn 0.42; L: Zn 0.92; Γ: Zn 0.72 | model | [2] Xiong 2009; _cites Burton 1993_ | Table 5, p. 6, row 6; `ORC-4H3SMVUVPE` |  |
+| 1055.15 | L + α-Fe(b.c.c.) -> Γ | L: Zn 0.912; α-Fe(b.c.c.): Zn 0.415; Γ: Zn 0.732 | model | [3] Su 2001 | Table 2, p. 5, row 1; `ORC-4XVMDI3HSW` |  |
+| 1055.15 | peritectic: (αFe) + L = Γ | (αFe): Zn 0.418; L: Zn 0.918; Γ: Zn 0.721 | model | [2] Xiong 2009; _cites Conclusions_ | Table 5, p. 6, row 2; `ORC-57LIAQ557C` |  |
+| 1055.15 | L + α-Fe(b.c.c.) -> Γ | L: Zn 0.92; α-Fe(b.c.c.): Zn 0.42; Γ: Zn 0.72 | experimental | [3] Su 2001; _cites Burton 1993_ | Table 2, p. 5, row 2; `ORC-6UYE2NBN54` |  |
+| 1055.15 | peritectic: (αFe) + L = Γ | (αFe): Zn 0.42; L: Zn 0.92; Γ: Zn 0.72 | model | [2] Xiong 2009; _cites Kubaschewski 1982_ | Table 5, p. 6, row 5; `ORC-B4OFMOSCLB` |  |
+| 1055.15 | peritectic |  | experimental | [3] Su 2001; _cites Truesdale 1936_ | p. 3; `ORC-BRVXHX26G6` | “The G phase melts peritectically at 7828C \[31,36,37\] and has a relatively wide homogeneity range, which maximizes at the temperature when the peritectic reaction involving the d phase occurs \[29,36,14,37,27\].” |
+| 1055.15 | L + α-Fe(b.c.c.) -> Γ | Γ: Fe 0.3, Zn 0.7 | unspecified | [3] Su 2001; _cites Gellings 1980_ | Table 2, p. 5, row 3; `ORC-KLSD6GPSF2` |  |
+| 1055.15 | (αFe)+L -> Γ | (αFe): Zn 0.423; L: Zn 0.92; Γ: Zn 0.726 | model | [1] Tang 2011; _cites Xiong 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.01.002) | Table 3, p. 7, row 2; `ORC-LOR4B7S4CG` |  |
+| 1055.15 | peritectic: (αFe) + L = Γ | (αFe): Zn 0.423; L: Zn 0.92; Γ: Zn 0.726 | model | [2] Xiong 2009 | Table 5, p. 6, row 1; `ORC-NKRQV4PF5Y` |  |
+| 1055.15 | L + α-Fe(b.c.c.) -> Γ | Γ: Fe 0.3, Zn 0.7 | experimental | [3] Su 2001; _cites Truesdale 1936_ | Table 2, p. 5, row 4; `ORC-PBZC3QAGFB` |  |
+| 1055.15 | peritectic: (αFe) + L = Γ | Γ: Fe 0.3, Zn 0.7 | experimental | [2] Xiong 2009; _cites Gellings 1980_ | Table 5, p. 6, row 4; `ORC-PXM5U6QAPT` |  |
+| 1055.15 | (αFe)+L -> Γ | (αFe): Zn 0.432; L: Zn 0.9249; Γ: Zn 0.7316 | model | [1] Tang 2011 | Table 3, p. 7, row 1; `ORC-TNRRCYGA3E` |  |
+| 1055.15 | peritectic: (αFe) + L = Γ | (αFe): Zn 0.415; L: Zn 0.912; Γ: Zn 0.732 | model | [2] Xiong 2009; _cites Su 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901273-7) | Table 5, p. 6, row 3; `ORC-UHWKUCOGHR` |  |
+| 1055 | peritectic: bcc-Fe + Liquid -> G1 |  | experimental | [4] Reumont 2000 | p. 1; `ORC-FVNIBM3I4V.48851d` | “As foreseeable from the large differences between melting points of the pure elements, the equilibrium diagram contains three invariant peritectics, one eutectic, and one peritectoid reaction forming G2: • bcc-Fe 1 Liquid → G1 at 1055 K (peritectic) • G1 1 Liquid → d1 at 945 K (peritectic) • d1 1 Liquid → z at 803 K (peritectic) • Liquid → z 1 hcp-Zn at 692 K (eutectic) • G1 1 d1 → G2 at 823 K (p…” |
+| 1038.15 | L + α-Fe(b.c.c.) -> Γ | Γ: Fe 0.3, Zn 0.7 | experimental | [3] Su 2001; _cites Hansen 1936_ | Table 2, p. 5, row 5; `ORC-54JI6KXOIM` |  |
+| 945.15 | L + Γ -> δ | Γ: Fe 0.3, Zn 0.7; δ: Fe 0.090909, Zn 0.909091 | experimental | [3] Su 2001; _cites Truesdale 1936_ | Table 2, p. 5, row 10; `ORC-344UBE3TKM` |  |
+| 945.15 | peritectic: Γ + L = δ | Γ: Fe 0.3, Zn 0.7; δ: Fe 0.090909, Zn 0.909091 | experimental | [2] Xiong 2009; _cites Schramm 1936_ | Table 5, p. 6, row 10; `ORC-4LCN2I4WWE` |  |
+| 945.15 | L + Γ -> δ | Γ: Fe 0.3, Zn 0.7; δ: Fe 0.090909, Zn 0.909091 | unspecified | [3] Su 2001; _cites Gellings 1980_ | Table 2, p. 5, row 8; `ORC-52RUZBFJPJ` |  |
+| 945.15 | peritectic |  | experimental | [3] Su 2001; _cites Bastin 1977_ | p. 3; `ORC-AZNOJH7LAT` | “DTA measurements, X-ray diffraction, microscopic investigation and microhardness measurements all support the conclusion that there exists only one d phase forming peritectically at 6728C \[16,17,37\].” |
+| 945.15 | peritectic: Γ + L = δ | Γ: Zn 0.825; L: Zn 0.965; δ: Zn 0.865 | model | [2] Xiong 2009; _cites Burton 1993_ | Table 5, p. 6, row 13; `ORC-ENWGNLLJO4` |  |
+| 945.15 | L+Γ -> δ | L: Zn 0.965; Γ: Zn 0.825; δ: Zn 0.865 | experimental | [1] Tang 2011; _cites Gellings 1980_ [doi](https://doi.org/10.1515/ijmr-1980-710303) | Table 3, p. 7, row 6; `ORC-FRKUDYFKEV` |  |
+| 945.15 | peritectic: Γ + L = δ | Γ: Zn 0.825; L: Zn 0.964; δ: Zn 0.866 | model | [2] Xiong 2009; _cites Conclusions_ | Table 5, p. 6, row 8; `ORC-G4TF5WRI6H` |  |
+| 945.15 | L+Γ -> δ | L: Zn 0.9697; Γ: Zn 0.8022; δ: Zn 0.8636 | model | [1] Tang 2011 | Table 3, p. 7, row 4; `ORC-HXYHNMYUF4` |  |
+| 945.15 | peritectic: Γ + L = δ | Γ: Fe 0.3, Zn 0.7; δ: Fe 0.090909, Zn 0.909091 | experimental | [2] Xiong 2009; _cites Gellings 1980_ | Table 5, p. 6, row 11; `ORC-U2JCSVJ2ZF` |  |
+| 945.15 | L + Γ -> δ | L: Zn 0.964; Γ: Zn 0.807; δ: Zn 0.869 | model | [3] Su 2001 | Table 2, p. 5, row 6; `ORC-UF2UPPD3KK` |  |
+| 945.15 | peritectic: Γ + L = δ | Γ: Zn 0.807; L: Zn 0.964; δ: Zn 0.869 | model | [2] Xiong 2009; _cites Su 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901273-7) | Table 5, p. 6, row 9; `ORC-W3CZ7LBYB6` |  |
+| 945.15 | L + Γ -> δ | Γ: Fe 0.3, Zn 0.7; δ: Fe 0.090909, Zn 0.909091 | experimental | [3] Su 2001; _cites Schramm 1936_ | Table 2, p. 5, row 9; `ORC-YJ6XQPGNOM` |  |
+| 945.15 | L + Γ -> δ | L: Zn 0.965; Γ: Zn 0.813; δ: Zn 0.87 | experimental | [3] Su 2001; _cites Burton 1993_ | Table 2, p. 5, row 7; `ORC-YPFQHSS2ZO` |  |
+| 945 | peritectic: G1 + Liquid -> d1 |  | experimental | [4] Reumont 2000 | p. 1; `ORC-FVNIBM3I4V.81e844` | “As foreseeable from the large differences between melting points of the pure elements, the equilibrium diagram contains three invariant peritectics, one eutectic, and one peritectoid reaction forming G2: • bcc-Fe 1 Liquid → G1 at 1055 K (peritectic) • G1 1 Liquid → d1 at 945 K (peritectic) • d1 1 Liquid → z at 803 K (peritectic) • Liquid → z 1 hcp-Zn at 692 K (eutectic) • G1 1 d1 → G2 at 823 K (p…” |
+| 941.15 | peritectic: Γ + L = δ | Γ: Zn 0.827; L: Zn 0.973; δ: Zn 0.856 | model | [2] Xiong 2009 | Table 5, p. 6, row 7; `ORC-5HI663YDEV` |  |
+| 941.15 | L+Γ -> δ | L: Zn 0.973; Γ: Zn 0.827; δ: Zn 0.856 | model | [1] Tang 2011; _cites Xiong 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.01.002) | Table 3, p. 7, row 5; `ORC-XPQPAP2W2D` |  |
+| 938.15 | peritectic: Γ + L = δ | Γ: Zn 0.825; L: Zn 0.975; δ: Zn 0.865 | model | [2] Xiong 2009; _cites Kubaschewski 1982_ | Table 5, p. 6, row 12; `ORC-XW5JG5JGDN` |  |
+| 920.15 | L + Γ -> δ | Γ: Fe 0.3, Zn 0.7; δ: Fe 0.090909, Zn 0.909091 | experimental | [3] Su 2001; _cites Hansen 1936_ | Table 2, p. 5, row 11; `ORC-RCY2EWFWBZ` |  |
+| 823.85 | Γ+δ -> Γ1 | Γ: Zn 0.7597; δ: Zn 0.8654; Γ1: Zn 0.802 | model | [1] Tang 2011 | Table 3, p. 7, row 7; `ORC-4UWJ6T57YQ` |  |
+| 823.15 | Γ+δ -> Γ1 | Γ: Zn 0.765; δ: Zn 0.865; Γ1: Zn 0.81 | experimental | [1] Tang 2011; _cites Gellings 1980_ [doi](https://doi.org/10.1515/ijmr-1980-710303) | Table 3, p. 7, row 9; `ORC-5GMZNRQHMW` |  |
+| 823.15 | peritectoid: Γ + δ = Γ1 | Γ: Zn 0.765; δ: Zn 0.865; Γ1: Zn 0.81 | model | [2] Xiong 2009; _cites Kubaschewski 1982_ | Table 5, p. 6, row 18; `ORC-6W6YK5K54Z` |  |
+| 823.15 | Γ + δ -> Γ1 | Γ: Zn 0.778; δ: Zn 0.801; Γ1: Zn 0.869 | model | [3] Su 2001 | Table 2, p. 5, row 21; `ORC-7AUOQCTPBV` |  |
+| 823.15 | peritectoid: Γ + δ = Γ1 | Γ: Zn 0.768; δ: Zn 0.856; Γ1: Zn 0.81 | model | [2] Xiong 2009 | Table 5, p. 6, row 14; `ORC-BEDPMUYY6V` |  |
+| 823.15 | peritectoid: Γ + δ = Γ1 | Γ: Fe 0.3, Zn 0.7; δ: Fe 0.090909, Zn 0.909091; Γ1: Fe 0.2, Zn 0.8 | experimental | [2] Xiong 2009; _cites Gellings 1980_ | Table 5, p. 6, row 17; `ORC-HGHAYUAYMW` |  |
+| 823.15 | Γ + δ -> Γ1 | Γ: Fe 0.3, Zn 0.7; δ: Fe 0.090909, Zn 0.909091; Γ1: Fe 0.2, Zn 0.8 | unspecified | [3] Su 2001; _cites Gellings 1980_ | Table 2, p. 5, row 23; `ORC-HYGH763GP7` |  |
+| 823.15 | Γ + δ -> Γ1 | Γ: Fe 0.3, Zn 0.7; δ: Fe 0.090909, Zn 0.909091; Γ1: Fe 0.2, Zn 0.8 | experimental | [3] Su 2001; _cites Burton 1993_ | Table 2, p. 5, row 22; `ORC-NWZZGJUNGX` |  |
+| 823.15 | peritectoid: Γ + δ = Γ1 | Γ: Zn 0.766; δ: Zn 0.865; Γ1: Zn 0.809 | model | [2] Xiong 2009; _cites Conclusions_ | Table 5, p. 6, row 15; `ORC-OWWAPCMHTQ` |  |
+| 823.15 | peritectoid: Γ + δ = Γ1 | Γ: Zn 0.778; δ: Zn 0.869; Γ1: Zn 0.801 | model | [2] Xiong 2009; _cites Su 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901273-7) | Table 5, p. 6, row 16; `ORC-T6EO2N3UA4` |  |
+| 823.15 | Γ+δ -> Γ1 | Γ: Zn 0.768; δ: Zn 0.856; Γ1: Zn 0.81 | model | [1] Tang 2011; _cites Xiong 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.01.002) | Table 3, p. 7, row 8; `ORC-V5D7EXCXGL` |  |
+| 823.15 | peritectoid: Γ + δ = Γ1 | Γ: Zn 0.765; δ: Zn 0.865; Γ1: Zn 0.81 | model | [2] Xiong 2009; _cites Burton 1993_ | Table 5, p. 6, row 19; `ORC-XBVAMZIYCG` |  |
+| 823 | peritectoid: G1 + d1 -> G2 |  | experimental | [4] Reumont 2000 | p. 1; `ORC-FVNIBM3I4V.257618` | “As foreseeable from the large differences between melting points of the pure elements, the equilibrium diagram contains three invariant peritectics, one eutectic, and one peritectoid reaction forming G2: • bcc-Fe 1 Liquid → G1 at 1055 K (peritectic) • G1 1 Liquid → d1 at 945 K (peritectic) • d1 1 Liquid → z at 803 K (peritectic) • Liquid → z 1 hcp-Zn at 692 K (eutectic) • G1 1 d1 → G2 at 823 K (p…” |
+| 803.85 | δ+L -> ζ | δ: Zn 0.913; L: Zn 0.9974; ζ: Zn 0.9294 | model | [1] Tang 2011 | Table 3, p. 7, row 10; `ORC-U35JI6VHUR` |  |
+| 803.15 | δ+L -> ζ | δ: Zn 0.92; L: Zn 0.995; ζ: Zn 0.927 | experimental | [1] Tang 2011; _cites Gellings 1980_ [doi](https://doi.org/10.1515/ijmr-1980-710303) | Table 3, p. 7, row 12; `ORC-2NZQ4XQ43A` |  |
+| 803.15 | L + δ -> ζ | δ: Fe 0.090909, Zn 0.909091; ζ: Fe 0.071429, Zn 0.928571 | experimental | [3] Su 2001; _cites Schramm 1936_ | Table 2, p. 5, row 15; `ORC-3EDJD64YDY` |  |
+| 803.15 | peritectic: δ + L = ζ | δ: Fe 0.090909, Zn 0.909091; ζ: Fe 0.071429, Zn 0.928571 | experimental | [2] Xiong 2009; _cites Gellings 1980_ | Table 5, p. 6, row 24; `ORC-6U3WS3F3DX` |  |
+| 803.15 | peritectic: δ + L = ζ | δ: Zn 0.92; L: Zn 0.995; ζ: Zn 0.927 | model | [2] Xiong 2009; _cites Kubaschewski 1982_ | Table 5, p. 6, row 25; `ORC-7QC6ZNQ3K5` |  |
+| 803.15 | peritectic: δ + L = ζ | δ: Zn 0.914; L: Zn 0.996; ζ: Zn 0.928 | model | [2] Xiong 2009; _cites Conclusions_ | Table 5, p. 6, row 21; `ORC-EF2JZUGUHO` |  |
+| 803.15 | peritectic |  | model | [3] Su 2001 | p. 3; `ORC-LW7LEAU33G` | “The z (FeZn 13 ) phase melts peritectically at 5308C.” |
+| 803.15 | L + δ -> ζ | δ: Fe 0.090909, Zn 0.909091; ζ: Fe 0.071429, Zn 0.928571 | unspecified | [3] Su 2001; _cites Gellings 1980_ | Table 2, p. 5, row 14; `ORC-MV4FYUGRD2` |  |
+| 803.15 | L + δ -> ζ | δ: Fe 0.090909, Zn 0.909091; ζ: Fe 0.071429, Zn 0.928571 | experimental | [3] Su 2001; _cites Burton 1993_ | Table 2, p. 5, row 13; `ORC-OMXXHC5R2A` |  |
+| 803.15 | peritectic: δ + L = ζ | δ: Zn 0.914; L: Zn 0.996; ζ: Zn 0.929 | model | [2] Xiong 2009; _cites Su 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901273-7) | Table 5, p. 6, row 22; `ORC-RIMDGHQM5D` |  |
+| 803.15 | L + δ -> ζ | L: Zn 0.997; δ: Zn 0.914; ζ: Fe 0.071429, Zn 0.928571 | model | [3] Su 2001 | Table 2, p. 5, row 12; `ORC-W2YFN6RYDK` |  |
+| 803.15 | peritectic: δ + L = ζ | δ: Fe 0.090909, Zn 0.909091; ζ: Fe 0.071429, Zn 0.928571 | experimental | [2] Xiong 2009; _cites Schramm 1936_ | Table 5, p. 6, row 23; `ORC-WXQEBP7ADK` |  |
+| 803 | peritectic: d1 + Liquid -> z |  | experimental | [4] Reumont 2000 | p. 1; `ORC-FVNIBM3I4V.a4c97d` | “As foreseeable from the large differences between melting points of the pure elements, the equilibrium diagram contains three invariant peritectics, one eutectic, and one peritectoid reaction forming G2: • bcc-Fe 1 Liquid → G1 at 1055 K (peritectic) • G1 1 Liquid → d1 at 945 K (peritectic) • d1 1 Liquid → z at 803 K (peritectic) • Liquid → z 1 hcp-Zn at 692 K (eutectic) • G1 1 d1 → G2 at 823 K (p…” |
+| 799.15 | δ+L -> ζ | δ: Zn 0.914; L: Zn 0.9985; ζ: Zn 0.93 | model | [1] Tang 2011; _cites Xiong 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.01.002) | Table 3, p. 7, row 11; `ORC-GGED4GDZGI` |  |
+| 799.15 | peritectic: δ + L = ζ | δ: Zn 0.914; L: Zn 0.9985; ζ: Zn 0.93 | model | [2] Xiong 2009 | Table 5, p. 6, row 20; `ORC-UTGQKX5OKV` |  |
+| 692.68 | eutectic: L = ζ + (Zn) | L: Zn 0.99989; ζ: Zn 0.94; (Zn): Zn 1 | model | [2] Xiong 2009; _cites Kubaschewski 1982_ | Table 5, p. 6, row 32; `ORC-OGLIYFKYC7` |  |
+| 692.65 | eutectic: L = ζ + (Zn) | L: Zn 0.9995; ζ: Zn 0.944; (Zn): Zn 0.999899 | model | [2] Xiong 2009; _cites Conclusions_ | Table 5, p. 6, row 27; `ORC-BZRGDK2CXW` |  |
+| 692.65 | L+ζ -> (Zn) | L: Zn 0.99998; ζ: Zn 0.939; (Zn): Zn 0.999886 | model | [1] Tang 2011; _cites Xiong 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.01.002) | Table 3, p. 7, row 14; `ORC-MAZANCQVQ6` |  |
+| 692.65 | L+ζ -> (Zn) | L: Zn 0.99988; ζ: Zn 0.9388; (Zn): Zn 0.999886 | model | [1] Tang 2011 | Table 3, p. 7, row 13; `ORC-PAYVTX4YSI` |  |
+| 692.63 | eutectic: L = ζ + (Zn) | L: Zn 0.999981; ζ: Zn 0.939; (Zn): Zn 0.999886 | model | [2] Xiong 2009 | Table 5, p. 6, row 26; `ORC-V7CM4FSGHZ` |  |
+| 692.61 | eutectic: L = ζ + (Zn) | L: Zn 0.999878; ζ: Zn 0.929; (Zn): Zn 1 | model | [2] Xiong 2009; _cites Su 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901273-7) | Table 5, p. 6, row 28; `ORC-BONMLLF3HH` |  |
+| 692.6 | L -> ζ + Zn(h.c.p.) | L: Zn 0.9999; ζ: Fe 0.071429, Zn 0.928571 | model | [3] Su 2001 | Table 2, p. 5, row 16; `ORC-BMCX2NRRQH` |  |
+| 692.55 | eutectic: L = ζ + (Zn) | ζ: Fe 0.071429, Zn 0.928571 | experimental | [2] Xiong 2009; _cites Gellings 1980_ | Table 5, p. 6, row 31; `ORC-3K2JT5T4AT` |  |
+| 692.55 | L -> ζ + Zn(h.c.p.) | ζ: Fe 0.071429, Zn 0.928571 | unspecified | [3] Su 2001; _cites Gellings 1980_ | Table 2, p. 5, row 18; `ORC-BZ2KC2CDFG` |  |
+| 692.55 | eutectic: L = ζ + (Zn) | ζ: Fe 0.071429, Zn 0.928571 | experimental | [2] Xiong 2009; _cites Schramm 1936_ | Table 5, p. 6, row 30; `ORC-C3NGD3YJKQ` |  |
+| 692.55 | L -> ζ + Zn(h.c.p.) | ζ: Fe 0.071429, Zn 0.928571 | experimental | [3] Su 2001; _cites Schramm 1936_ | Table 2, p. 5, row 19; `ORC-DVHRJP4QF3` |  |
+| 692.55 | L -> ζ + Zn(h.c.p.) | L: Zn 0.9998; ζ: Fe 0.071429, Zn 0.928571 | experimental | [3] Su 2001; _cites Truesdale 1936_ | Table 2, p. 5, row 20; `ORC-ETA3HZ7AA5` |  |
+| 692.55 | eutectic: L = ζ + (Zn) | L: Zn 0.99979; ζ: Fe 0.071429, Zn 0.928571; (Zn): Zn 0.99997 | experimental | [2] Xiong 2009; _cites Truesdale 1936_ | Table 5, p. 6, row 29; `ORC-OLJHNUKTCO` |  |
+| 692.55 | L -> ζ + Zn(h.c.p.) | ζ: Fe 0.071429, Zn 0.928571 | experimental | [3] Su 2001; _cites Burton 1993_ | Table 2, p. 5, row 17; `ORC-W6CKSEE5BW` |  |
+| 692.55 | L+ζ -> (Zn) | L: Zn 0.99989; ζ: Zn 0.94; (Zn): Zn 1 | experimental | [1] Tang 2011; _cites Gellings 1980_ [doi](https://doi.org/10.1515/ijmr-1980-710303) | Table 3, p. 7, row 15; `ORC-WPLGLDFRM3` |  |
+| 692 | eutectic: Liquid -> z + hcp-Zn |  | experimental | [4] Reumont 2000 | p. 1; `ORC-FVNIBM3I4V.787133` | “As foreseeable from the large differences between melting points of the pure elements, the equilibrium diagram contains three invariant peritectics, one eutectic, and one peritectoid reaction forming G2: • bcc-Fe 1 Liquid → G1 at 1055 K (peritectic) • G1 1 Liquid → d1 at 945 K (peritectic) • d1 1 Liquid → z at 803 K (peritectic) • Liquid → z 1 hcp-Zn at 692 K (eutectic) • G1 1 d1 → G2 at 823 K (p…” |
 
 ## Formation enthalpies
 
@@ -170,18 +170,18 @@ Table: Enthalpies of formation, Fe–Zn system (12)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Γ1 |  | -11.258 kJ/mol (basis unstated) | 298.15 | model |  |  | [4] Reumont 2000 | Table 1, p. 5, row 2 |  |
-| Γ1 |  | -11.125 kJ/mol (basis unstated) | 773 | model |  |  | [4] Reumont 2000 | Table 1, p. 5, row 3 |  |
-| Γ1 |  | -10.884 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [4] Reumont 2000; _cites Reutner 1980_ [doi](https://doi.org/10.1002/srin.198004874) | Table 1, p. 5, row 1 |  |
-| Γ2 |  | -11.872 kJ/mol (basis unstated) | 298.15 | model |  |  | [4] Reumont 2000 | Table 1, p. 5, row 8 |  |
-| Γ2 |  | -11.765 kJ/mol (basis unstated) | 773 | model |  |  | [4] Reumont 2000 | Table 1, p. 5, row 9 |  |
-| Γ2 |  | -11.764 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [4] Reumont 2000; _cites Reutner 1980_ [doi](https://doi.org/10.1002/srin.198004874) | Table 1, p. 5, row 7 |  |
-| δ1 |  | -11.479 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [4] Reumont 2000; _cites Reutner 1980_ [doi](https://doi.org/10.1002/srin.198004874) | Table 1, p. 5, row 13 |  |
-| δ1 |  | -10.358 kJ/mol (basis unstated) | 773 | model |  |  | [4] Reumont 2000 | Table 1, p. 5, row 15 |  |
-| δ1 |  | -10.069 kJ/mol (basis unstated) | 298.15 | model |  |  | [4] Reumont 2000 | Table 1, p. 5, row 14 |  |
-| ζ |  | -11.672 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [4] Reumont 2000; _cites Reutner 1980_ [doi](https://doi.org/10.1002/srin.198004874) | Table 1, p. 5, row 19 |  |
-| ζ |  | -9.031 kJ/mol (basis unstated) | 773 | model |  |  | [4] Reumont 2000 | Table 1, p. 5, row 21 |  |
-| ζ |  | -9.008 kJ/mol (basis unstated) | 298.15 | model |  |  | [4] Reumont 2000 | Table 1, p. 5, row 20 |  |
+| Γ1 |  | -11.258 kJ/mol (basis unstated) | 298.15 | model |  |  | [4] Reumont 2000 | Table 1, p. 5, row 2; `ORC-WES64M5M4G` |  |
+| Γ1 |  | -11.125 kJ/mol (basis unstated) | 773 | model |  |  | [4] Reumont 2000 | Table 1, p. 5, row 3; `ORC-VE2BWNFY74` |  |
+| Γ1 |  | -10.884 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [4] Reumont 2000; _cites Reutner 1980_ [doi](https://doi.org/10.1002/srin.198004874) | Table 1, p. 5, row 1; `ORC-CRMYZIZ5JB` |  |
+| Γ2 |  | -11.872 kJ/mol (basis unstated) | 298.15 | model |  |  | [4] Reumont 2000 | Table 1, p. 5, row 8; `ORC-VIBOQTR3BR` |  |
+| Γ2 |  | -11.765 kJ/mol (basis unstated) | 773 | model |  |  | [4] Reumont 2000 | Table 1, p. 5, row 9; `ORC-LU6Y6VTEIR` |  |
+| Γ2 |  | -11.764 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [4] Reumont 2000; _cites Reutner 1980_ [doi](https://doi.org/10.1002/srin.198004874) | Table 1, p. 5, row 7; `ORC-LOO4LSLAEH` |  |
+| δ1 |  | -11.479 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [4] Reumont 2000; _cites Reutner 1980_ [doi](https://doi.org/10.1002/srin.198004874) | Table 1, p. 5, row 13; `ORC-DRYWQVUXFR` |  |
+| δ1 |  | -10.358 kJ/mol (basis unstated) | 773 | model |  |  | [4] Reumont 2000 | Table 1, p. 5, row 15; `ORC-FBWH3Z7CYZ` |  |
+| δ1 |  | -10.069 kJ/mol (basis unstated) | 298.15 | model |  |  | [4] Reumont 2000 | Table 1, p. 5, row 14; `ORC-QQR6M2A3LX` |  |
+| ζ |  | -11.672 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [4] Reumont 2000; _cites Reutner 1980_ [doi](https://doi.org/10.1002/srin.198004874) | Table 1, p. 5, row 19; `ORC-C2QHRH75GE` |  |
+| ζ |  | -9.031 kJ/mol (basis unstated) | 773 | model |  |  | [4] Reumont 2000 | Table 1, p. 5, row 21; `ORC-IRX4V2VHYQ` |  |
+| ζ |  | -9.008 kJ/mol (basis unstated) | 298.15 | model |  |  | [4] Reumont 2000 | Table 1, p. 5, row 20; `ORC-6H3DTKSVCF` |  |
 
 ## Other properties
 
@@ -191,9 +191,9 @@ Table: Phase transition, Fe–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 823.15 K | 823.15 | G 1 d → G1 | experimental | [3] Su 2001; _cites Gellings 1980_ | p. 3 | “They suggested that the G1 phase forms through the following peritectoid reaction at 5508C. G 1 d → G1” |
-| Phase transition | 1043 K | 1043 | magnetic | experimental | [5] Su 2005 | p. 2 | “where Tc,Fe is the ferromagnetic transition temperature of 1043 K for the pure ␣-Fe.” |
-| Phase transition | 1043 K | 1043 | magnetic | model | [3] Su 2001 | p. 2 | “where T c,Fe is the ferromagnetic transition temperature for pure a-iron and its value is 1043 K.” |
+| Phase transition | 823.15 K | 823.15 | G 1 d → G1 | experimental | [3] Su 2001; _cites Gellings 1980_ | p. 3; `ORC-HDSK3SNNQF` | “They suggested that the G1 phase forms through the following peritectoid reaction at 5508C. G 1 d → G1” |
+| Phase transition | 1043 K | 1043 | magnetic | experimental | [5] Su 2005 | p. 2; `ORC-AXFXOOSQPX` | “where Tc,Fe is the ferromagnetic transition temperature of 1043 K for the pure ␣-Fe.” |
+| Phase transition | 1043 K | 1043 | magnetic | model | [3] Su 2001 | p. 2; `ORC-QXAPFTVEXE` | “where T c,Fe is the ferromagnetic transition temperature for pure a-iron and its value is 1043 K.” |
 
 ### Formation (30)
 
@@ -201,36 +201,36 @@ Table: Formation, Fe–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy of formation; _printed: ΔfS(Γ1)_ | -9.41 J/mol (basis unstated)/K | 298.15 | Γ1; _alloy: Fe 0.31, Zn 0.69_ | model | [4] Reumont 2000 | Table 1, p. 5, row 5 |  |
-| Entropy of formation; _printed: ΔfS(Γ1)_ | -9.166 J/mol (basis unstated)/K | 298.15 | Γ1; _alloy: Fe 0.25, Zn 0.75_ | experimental | [4] Reumont 2000; _cites Reutner 1980_ [doi](https://doi.org/10.1002/srin.198004874) | Table 1, p. 5, row 4 |  |
-| Entropy of formation; _printed: ΔfS(Γ2)_ | -10.634 J/mol (basis unstated)/K | 298.15 | Γ2; _alloy: Fe 0.2, Zn 0.8_ | experimental | [4] Reumont 2000; _cites Reutner 1980_ [doi](https://doi.org/10.1002/srin.198004874) | Table 1, p. 5, row 10 |  |
-| Entropy of formation; _printed: ΔfS(Γ2)_ | -10.47 J/mol (basis unstated)/K | 298.15 | Γ2; _alloy: Fe 0.21, Zn 0.79_ | model | [4] Reumont 2000 | Table 1, p. 5, row 11 |  |
-| Entropy of formation; _printed: ΔfS(δ1)_ | -9.24 J/mol (basis unstated)/K | 298.15 | δ1; _alloy: Fe 0.12, Zn 0.88_ | model | [4] Reumont 2000 | Table 1, p. 5, row 17 |  |
-| Entropy of formation; _printed: ΔfS(δ1)_ | -11.08 J/mol (basis unstated)/K | 298.15 | δ1; _alloy: Fe 0.1, Zn 0.9_ | experimental | [4] Reumont 2000; _cites Reutner 1980_ [doi](https://doi.org/10.1002/srin.198004874) | Table 1, p. 5, row 16 |  |
-| Entropy of formation; _printed: ΔfS(ζ)_ | -9.19 J/mol (basis unstated)/K | 298.15 | ζ; _alloy: Fe 0.08, Zn 0.92_ | model | [4] Reumont 2000 | Table 1, p. 5, row 23 |  |
-| Entropy of formation; _printed: ΔfS(ζ)_ | -12.22 J/mol (basis unstated)/K | 298.15 | ζ; _alloy: Fe 0.07, Zn 0.93_ | experimental | [4] Reumont 2000; _cites Reutner 1980_ [doi](https://doi.org/10.1002/srin.198004874) | Table 1, p. 5, row 22 |  |
-| Entropy of formation; _printed: ΔfS(Γ1)_ | -9.3 J/mol (basis unstated)/K | 773 | Γ1; _alloy: Fe 0.3, Zn 0.7_ | model | [4] Reumont 2000 | Table 1, p. 5, row 6 |  |
-| Entropy of formation; _printed: ΔfS(Γ2)_ | -10.63 J/mol (basis unstated)/K | 773 | Γ2; _alloy: Fe 0.24, Zn 0.76_ | model | [4] Reumont 2000 | Table 1, p. 5, row 12 |  |
-| Entropy of formation; _printed: ΔfS(δ1)_ | -9.65 J/mol (basis unstated)/K | 773 | δ1; _alloy: Fe 0.125, Zn 0.875_ | model | [4] Reumont 2000 | Table 1, p. 5, row 18 |  |
-| Entropy of formation; _printed: ΔfS(ζ)_ | -9.33 J/mol (basis unstated)/K | 773 | ζ; _alloy: Fe 0.07, Zn 0.93_ | model | [4] Reumont 2000 | Table 1, p. 5, row 24 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -4.8 kJ/mol (basis unstated) | 617 | Γ1; _alloy: Fe 0.25, Zn 0.75_ | model | [4] Reumont 2000; _cites Petersen 1988_ [doi](https://doi.org/10.1016/0040-6031%2888%2987199-5) | Table 2, p. 6, row 3 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -5.2 kJ/mol (basis unstated) | 617 | Γ1; _alloy: Fe 0.25, Zn 0.75_ | unspecified | [4] Reumont 2000; _cites Dauphin 1987_ | Table 2, p. 6, row 2 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -5.9 kJ/mol (basis unstated) | 617 | Γ1; _alloy: Fe 0.25, Zn 0.75_ | unspecified | [4] Reumont 2000; _cites Costa 2000_ | Table 2, p. 6, row 4 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -5.2 kJ/mol (basis unstated) ± 2 | 617 | Γ1; _alloy: Fe 0.25, Zn 0.75_ | unspecified | [4] Reumont 2000; _cites Gellings 1980_ | Table 2, p. 6, row 1 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -4.9 kJ/mol (basis unstated) | 617 | Γ1; _alloy: Fe 0.25, Zn 0.75_ | model | [4] Reumont 2000 | Table 2, p. 6, row 5 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -5.5 kJ/mol (basis unstated) ± 2 | 617 | Γ2; _alloy: Fe 0.2, Zn 0.8_ | unspecified | [4] Reumont 2000; _cites Gellings 1980_ | Table 2, p. 6, row 6 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -4.8 kJ/mol (basis unstated) | 617 | Γ2; _alloy: Fe 0.2, Zn 0.8_ | model | [4] Reumont 2000 | Table 2, p. 6, row 8 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -5.2 kJ/mol (basis unstated) | 617 | Γ2; _alloy: Fe 0.2, Zn 0.8_ | unspecified | [4] Reumont 2000; _cites Dauphin 1987_ | Table 2, p. 6, row 7 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -5.2 kJ/mol (basis unstated) | 617 | δ1; _alloy: Fe 0.1, Zn 0.9_ | model | [4] Reumont 2000; _cites Petersen 1988_ [doi](https://doi.org/10.1016/0040-6031%2888%2987199-5) | Table 2, p. 6, row 11 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -4.6 kJ/mol (basis unstated) | 617 | δ1; _alloy: Fe 0.1, Zn 0.9_ | unspecified | [4] Reumont 2000; _cites Dauphin 1987_ | Table 2, p. 6, row 10 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -5.2 kJ/mol (basis unstated) ± 2 | 617 | δ1; _alloy: Fe 0.1, Zn 0.9_ | unspecified | [4] Reumont 2000; _cites Gellings 1980_ | Table 2, p. 6, row 9 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -5.7 kJ/mol (basis unstated) | 617 | δ1; _alloy: Fe 0.1, Zn 0.9_ | unspecified | [4] Reumont 2000; _cites Costa 2000_ | Table 2, p. 6, row 12 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -3.6 kJ/mol (basis unstated) | 617 | δ1; _alloy: Fe 0.1, Zn 0.9_ | model | [4] Reumont 2000 | Table 2, p. 6, row 13 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -3.9 kJ/mol (basis unstated) ± 2 | 617 | ζ; _alloy: Fe 0.07, Zn 0.93_ | unspecified | [4] Reumont 2000; _cites Gellings 1980_ | Table 2, p. 6, row 14 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -2.5 kJ/mol (basis unstated) | 617 | ζ; _alloy: Fe 0.07, Zn 0.93_ | model | [4] Reumont 2000 | Table 2, p. 6, row 18 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -2 kJ/mol (basis unstated) | 617 | ζ; _alloy: Fe 0.07, Zn 0.93_ | model | [4] Reumont 2000; _cites Petersen 1988_ [doi](https://doi.org/10.1016/0040-6031%2888%2987199-5) | Table 2, p. 6, row 16 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -4.1 kJ/mol (basis unstated) | 617 | ζ; _alloy: Fe 0.07, Zn 0.93_ | unspecified | [4] Reumont 2000; _cites Dauphin 1987_ | Table 2, p. 6, row 15 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -4.3 kJ/mol (basis unstated) | 617 | ζ; _alloy: Fe 0.07, Zn 0.93_ | unspecified | [4] Reumont 2000; _cites Costa 2000_ | Table 2, p. 6, row 17 |  |
+| Entropy of formation; _printed: ΔfS(Γ1)_ | -9.41 J/mol (basis unstated)/K | 298.15 | Γ1; _alloy: Fe 0.31, Zn 0.69_ | model | [4] Reumont 2000 | Table 1, p. 5, row 5; `ORC-GHQF6H6L3C` |  |
+| Entropy of formation; _printed: ΔfS(Γ1)_ | -9.166 J/mol (basis unstated)/K | 298.15 | Γ1; _alloy: Fe 0.25, Zn 0.75_ | experimental | [4] Reumont 2000; _cites Reutner 1980_ [doi](https://doi.org/10.1002/srin.198004874) | Table 1, p. 5, row 4; `ORC-NEWAWV5T3K` |  |
+| Entropy of formation; _printed: ΔfS(Γ2)_ | -10.634 J/mol (basis unstated)/K | 298.15 | Γ2; _alloy: Fe 0.2, Zn 0.8_ | experimental | [4] Reumont 2000; _cites Reutner 1980_ [doi](https://doi.org/10.1002/srin.198004874) | Table 1, p. 5, row 10; `ORC-EGARVS3KVJ` |  |
+| Entropy of formation; _printed: ΔfS(Γ2)_ | -10.47 J/mol (basis unstated)/K | 298.15 | Γ2; _alloy: Fe 0.21, Zn 0.79_ | model | [4] Reumont 2000 | Table 1, p. 5, row 11; `ORC-V2B6YS6QCW` |  |
+| Entropy of formation; _printed: ΔfS(δ1)_ | -9.24 J/mol (basis unstated)/K | 298.15 | δ1; _alloy: Fe 0.12, Zn 0.88_ | model | [4] Reumont 2000 | Table 1, p. 5, row 17; `ORC-EF3BMR2FRF` |  |
+| Entropy of formation; _printed: ΔfS(δ1)_ | -11.08 J/mol (basis unstated)/K | 298.15 | δ1; _alloy: Fe 0.1, Zn 0.9_ | experimental | [4] Reumont 2000; _cites Reutner 1980_ [doi](https://doi.org/10.1002/srin.198004874) | Table 1, p. 5, row 16; `ORC-R65VCQULH2` |  |
+| Entropy of formation; _printed: ΔfS(ζ)_ | -9.19 J/mol (basis unstated)/K | 298.15 | ζ; _alloy: Fe 0.08, Zn 0.92_ | model | [4] Reumont 2000 | Table 1, p. 5, row 23; `ORC-A53AX4SJPH` |  |
+| Entropy of formation; _printed: ΔfS(ζ)_ | -12.22 J/mol (basis unstated)/K | 298.15 | ζ; _alloy: Fe 0.07, Zn 0.93_ | experimental | [4] Reumont 2000; _cites Reutner 1980_ [doi](https://doi.org/10.1002/srin.198004874) | Table 1, p. 5, row 22; `ORC-XOQRZO5H2D` |  |
+| Entropy of formation; _printed: ΔfS(Γ1)_ | -9.3 J/mol (basis unstated)/K | 773 | Γ1; _alloy: Fe 0.3, Zn 0.7_ | model | [4] Reumont 2000 | Table 1, p. 5, row 6; `ORC-KPSHOXWE3N` |  |
+| Entropy of formation; _printed: ΔfS(Γ2)_ | -10.63 J/mol (basis unstated)/K | 773 | Γ2; _alloy: Fe 0.24, Zn 0.76_ | model | [4] Reumont 2000 | Table 1, p. 5, row 12; `ORC-2EQR7SJ6CL` |  |
+| Entropy of formation; _printed: ΔfS(δ1)_ | -9.65 J/mol (basis unstated)/K | 773 | δ1; _alloy: Fe 0.125, Zn 0.875_ | model | [4] Reumont 2000 | Table 1, p. 5, row 18; `ORC-AO5VLX3MK6` |  |
+| Entropy of formation; _printed: ΔfS(ζ)_ | -9.33 J/mol (basis unstated)/K | 773 | ζ; _alloy: Fe 0.07, Zn 0.93_ | model | [4] Reumont 2000 | Table 1, p. 5, row 24; `ORC-GFBN2QNRP6` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -4.8 kJ/mol (basis unstated) | 617 | Γ1; _alloy: Fe 0.25, Zn 0.75_ | model | [4] Reumont 2000; _cites Petersen 1988_ [doi](https://doi.org/10.1016/0040-6031%2888%2987199-5) | Table 2, p. 6, row 3; `ORC-6YFUHOTM24` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -5.2 kJ/mol (basis unstated) | 617 | Γ1; _alloy: Fe 0.25, Zn 0.75_ | unspecified | [4] Reumont 2000; _cites Dauphin 1987_ | Table 2, p. 6, row 2; `ORC-O6JSN6DZL3` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -5.9 kJ/mol (basis unstated) | 617 | Γ1; _alloy: Fe 0.25, Zn 0.75_ | unspecified | [4] Reumont 2000; _cites Costa 2000_ | Table 2, p. 6, row 4; `ORC-SLE4RWYA45` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -5.2 kJ/mol (basis unstated) ± 2 | 617 | Γ1; _alloy: Fe 0.25, Zn 0.75_ | unspecified | [4] Reumont 2000; _cites Gellings 1980_ | Table 2, p. 6, row 1; `ORC-VXXVMCK5OI` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -4.9 kJ/mol (basis unstated) | 617 | Γ1; _alloy: Fe 0.25, Zn 0.75_ | model | [4] Reumont 2000 | Table 2, p. 6, row 5; `ORC-YBZ6OFA53O` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -5.5 kJ/mol (basis unstated) ± 2 | 617 | Γ2; _alloy: Fe 0.2, Zn 0.8_ | unspecified | [4] Reumont 2000; _cites Gellings 1980_ | Table 2, p. 6, row 6; `ORC-666LL7JVBG` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -4.8 kJ/mol (basis unstated) | 617 | Γ2; _alloy: Fe 0.2, Zn 0.8_ | model | [4] Reumont 2000 | Table 2, p. 6, row 8; `ORC-MZ64VHMIHX` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -5.2 kJ/mol (basis unstated) | 617 | Γ2; _alloy: Fe 0.2, Zn 0.8_ | unspecified | [4] Reumont 2000; _cites Dauphin 1987_ | Table 2, p. 6, row 7; `ORC-YOLKZFIYFO` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -5.2 kJ/mol (basis unstated) | 617 | δ1; _alloy: Fe 0.1, Zn 0.9_ | model | [4] Reumont 2000; _cites Petersen 1988_ [doi](https://doi.org/10.1016/0040-6031%2888%2987199-5) | Table 2, p. 6, row 11; `ORC-32FRCMRARV` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -4.6 kJ/mol (basis unstated) | 617 | δ1; _alloy: Fe 0.1, Zn 0.9_ | unspecified | [4] Reumont 2000; _cites Dauphin 1987_ | Table 2, p. 6, row 10; `ORC-4O7MASE752` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -5.2 kJ/mol (basis unstated) ± 2 | 617 | δ1; _alloy: Fe 0.1, Zn 0.9_ | unspecified | [4] Reumont 2000; _cites Gellings 1980_ | Table 2, p. 6, row 9; `ORC-BEJYVE74AA` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -5.7 kJ/mol (basis unstated) | 617 | δ1; _alloy: Fe 0.1, Zn 0.9_ | unspecified | [4] Reumont 2000; _cites Costa 2000_ | Table 2, p. 6, row 12; `ORC-DOKN4IM6XW` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -3.6 kJ/mol (basis unstated) | 617 | δ1; _alloy: Fe 0.1, Zn 0.9_ | model | [4] Reumont 2000 | Table 2, p. 6, row 13; `ORC-XUHBVLB4EN` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -3.9 kJ/mol (basis unstated) ± 2 | 617 | ζ; _alloy: Fe 0.07, Zn 0.93_ | unspecified | [4] Reumont 2000; _cites Gellings 1980_ | Table 2, p. 6, row 14; `ORC-2JKOXDNTLT` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -2.5 kJ/mol (basis unstated) | 617 | ζ; _alloy: Fe 0.07, Zn 0.93_ | model | [4] Reumont 2000 | Table 2, p. 6, row 18; `ORC-5LHETXDLH3` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -2 kJ/mol (basis unstated) | 617 | ζ; _alloy: Fe 0.07, Zn 0.93_ | model | [4] Reumont 2000; _cites Petersen 1988_ [doi](https://doi.org/10.1016/0040-6031%2888%2987199-5) | Table 2, p. 6, row 16; `ORC-G7IYISUJVS` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -4.1 kJ/mol (basis unstated) | 617 | ζ; _alloy: Fe 0.07, Zn 0.93_ | unspecified | [4] Reumont 2000; _cites Dauphin 1987_ | Table 2, p. 6, row 15; `ORC-HEHK5XG4V7` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -4.3 kJ/mol (basis unstated) | 617 | ζ; _alloy: Fe 0.07, Zn 0.93_ | unspecified | [4] Reumont 2000; _cites Costa 2000_ | Table 2, p. 6, row 17; `ORC-XLKKSAI66P` |  |
 
 ### Activity / EMF / Gibbs energy (1)
 
@@ -238,7 +238,7 @@ Table: Activity / EMF / Gibbs energy, Fe–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Chemical potential; _printed: zinc chemical potential_ | -2 kJ | 1055 |  | experimental | [4] Reumont 2000; _cites Dauphin 1987_ | p. 5 | “The agreement with the graphical estimation of \[1987Dau\] is good except the peritectic invariant at 1055 K given as 22 kJ by these authors.” |
+| Chemical potential; _printed: zinc chemical potential_ | -2 kJ | 1055 |  | experimental | [4] Reumont 2000; _cites Dauphin 1987_ | p. 5; `ORC-35CHNQJ6VL` | “The agreement with the graphical estimation of \[1987Dau\] is good except the peritectic invariant at 1055 K given as 22 kJ by these authors.” |
 
 ### Crystal structure (14)
 
@@ -246,20 +246,20 @@ Table: Crystal structure, Fe–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 8.994 Å | 298.15 | Γ | experimental | [2] Xiong 2009; _cites Belin 2000_ [doi](https://doi.org/10.1006/jssc.2000.8626) | Table 2, p. 4, row 1 |  |
-| Lattice a | 17.963 Å | 298.15 | Γ1 | experimental | [2] Xiong 2009; _cites Koster 1981_ | Table 2, p. 4, row 2 |  |
-| Lattice a | 12.787 Å | 298.15 | δ | experimental | [2] Xiong 2009; _cites Belin 2000_ [doi](https://doi.org/10.1006/jssc.2000.8626) | Table 2, p. 4, row 3 |  |
-| Lattice a | 13.41 Å | 298.15 | ζ | experimental | [2] Xiong 2009; _cites Uwakweh 2000_ [doi](https://doi.org/10.1007/bf02830333) | Table 2, p. 4, row 4 |  |
-| Lattice b | 7.606 Å | 298.15 | ζ | experimental | [2] Xiong 2009; _cites Uwakweh 2000_ [doi](https://doi.org/10.1007/bf02830333) | Table 2, p. 4, row 4 |  |
-| Lattice c | 57.222 Å | 298.15 | δ | experimental | [2] Xiong 2009; _cites Belin 2000_ [doi](https://doi.org/10.1006/jssc.2000.8626) | Table 2, p. 4, row 3 |  |
-| Lattice c | 5.076 Å | 298.15 | ζ | experimental | [2] Xiong 2009; _cites Uwakweh 2000_ [doi](https://doi.org/10.1007/bf02830333) | Table 2, p. 4, row 4 |  |
-| lattice alpha | 90 ° | 298.15 | Γ | experimental | [2] Xiong 2009; _cites Belin 2000_ [doi](https://doi.org/10.1006/jssc.2000.8626) | Table 2, p. 4, row 1 |  |
-| lattice alpha | 90 ° | 298.15 | Γ1 | experimental | [2] Xiong 2009; _cites Koster 1981_ | Table 2, p. 4, row 2 |  |
-| lattice alpha | 120 ° | 298.15 | δ | experimental | [2] Xiong 2009; _cites Belin 2000_ [doi](https://doi.org/10.1006/jssc.2000.8626) | Table 2, p. 4, row 3 |  |
-| lattice alpha | 90 ° | 298.15 | ζ | experimental | [2] Xiong 2009; _cites Uwakweh 2000_ [doi](https://doi.org/10.1007/bf02830333) | Table 2, p. 4, row 4 |  |
-| lattice beta | 127.3 ° | 298.15 | ζ | experimental | [2] Xiong 2009; _cites Uwakweh 2000_ [doi](https://doi.org/10.1007/bf02830333) | Table 2, p. 4, row 4 |  |
-| lattice gamma | 90 ° | 298.15 | δ | experimental | [2] Xiong 2009; _cites Belin 2000_ [doi](https://doi.org/10.1006/jssc.2000.8626) | Table 2, p. 4, row 3 |  |
-| lattice gamma | 90 ° | 298.15 | ζ | experimental | [2] Xiong 2009; _cites Uwakweh 2000_ [doi](https://doi.org/10.1007/bf02830333) | Table 2, p. 4, row 4 |  |
+| Lattice a | 8.994 Å | 298.15 | Γ | experimental | [2] Xiong 2009; _cites Belin 2000_ [doi](https://doi.org/10.1006/jssc.2000.8626) | Table 2, p. 4, row 1; `ORC-VICQND23T2.35cb4d` |  |
+| Lattice a | 17.963 Å | 298.15 | Γ1 | experimental | [2] Xiong 2009; _cites Koster 1981_ | Table 2, p. 4, row 2; `ORC-LWU4BXSFTK.4d126e` |  |
+| Lattice a | 12.787 Å | 298.15 | δ | experimental | [2] Xiong 2009; _cites Belin 2000_ [doi](https://doi.org/10.1006/jssc.2000.8626) | Table 2, p. 4, row 3; `ORC-FFBODHUSRU.75b830` |  |
+| Lattice a | 13.41 Å | 298.15 | ζ | experimental | [2] Xiong 2009; _cites Uwakweh 2000_ [doi](https://doi.org/10.1007/bf02830333) | Table 2, p. 4, row 4; `ORC-KQBLLO2IAM.5475ef` |  |
+| Lattice b | 7.606 Å | 298.15 | ζ | experimental | [2] Xiong 2009; _cites Uwakweh 2000_ [doi](https://doi.org/10.1007/bf02830333) | Table 2, p. 4, row 4; `ORC-KQBLLO2IAM.08a103` |  |
+| Lattice c | 57.222 Å | 298.15 | δ | experimental | [2] Xiong 2009; _cites Belin 2000_ [doi](https://doi.org/10.1006/jssc.2000.8626) | Table 2, p. 4, row 3; `ORC-FFBODHUSRU.5716e2` |  |
+| Lattice c | 5.076 Å | 298.15 | ζ | experimental | [2] Xiong 2009; _cites Uwakweh 2000_ [doi](https://doi.org/10.1007/bf02830333) | Table 2, p. 4, row 4; `ORC-KQBLLO2IAM.0de6e9` |  |
+| lattice alpha | 90 ° | 298.15 | Γ | experimental | [2] Xiong 2009; _cites Belin 2000_ [doi](https://doi.org/10.1006/jssc.2000.8626) | Table 2, p. 4, row 1; `ORC-VICQND23T2.5e57cd` |  |
+| lattice alpha | 90 ° | 298.15 | Γ1 | experimental | [2] Xiong 2009; _cites Koster 1981_ | Table 2, p. 4, row 2; `ORC-LWU4BXSFTK.4a546f` |  |
+| lattice alpha | 120 ° | 298.15 | δ | experimental | [2] Xiong 2009; _cites Belin 2000_ [doi](https://doi.org/10.1006/jssc.2000.8626) | Table 2, p. 4, row 3; `ORC-FFBODHUSRU.1b90a2` |  |
+| lattice alpha | 90 ° | 298.15 | ζ | experimental | [2] Xiong 2009; _cites Uwakweh 2000_ [doi](https://doi.org/10.1007/bf02830333) | Table 2, p. 4, row 4; `ORC-KQBLLO2IAM.cc44b9` |  |
+| lattice beta | 127.3 ° | 298.15 | ζ | experimental | [2] Xiong 2009; _cites Uwakweh 2000_ [doi](https://doi.org/10.1007/bf02830333) | Table 2, p. 4, row 4; `ORC-KQBLLO2IAM.5d178f` |  |
+| lattice gamma | 90 ° | 298.15 | δ | experimental | [2] Xiong 2009; _cites Belin 2000_ [doi](https://doi.org/10.1006/jssc.2000.8626) | Table 2, p. 4, row 3; `ORC-FFBODHUSRU.e3ab98` |  |
+| lattice gamma | 90 ° | 298.15 | ζ | experimental | [2] Xiong 2009; _cites Uwakweh 2000_ [doi](https://doi.org/10.1007/bf02830333) | Table 2, p. 4, row 4; `ORC-KQBLLO2IAM.550a18` |  |
 
 ## Sources
 
@@ -328,4 +328,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

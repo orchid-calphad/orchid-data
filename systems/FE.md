@@ -34,13 +34,13 @@ Table: Invariant reactions reported in the literature for the Fe system (7)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1685.15 | polymorphic: δFe -> γFe | δFe: ; γFe:  | model | [1] Liu 2008 | Table 4, p. 5, row 4 |  |
-| 1685.15 | polymorphic: δFe -> γFe | δFe: ; γFe:  | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 4, p. 5, row 3 |  |
-| 1667.15 | polymorphic: δFe -> γFe | γFe:  | experimental | [2] Kardellass 2014; _cites Massalski 1991_ | Table 1, p. 3, row 2 |  |
-| 1185.15 | polymorphic: γFe -> αFe | γFe: ; αFe:  | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 4, p. 5, row 7 |  |
-| 1185.15 | polymorphic: γFe -> αFe | αFe:  | experimental | [2] Kardellass 2014; _cites Massalski 1991_ | Table 1, p. 3, row 3 |  |
-| 1185.15 | polymorphic: γFe -> αFe | γFe: ; αFe:  | model | [1] Liu 2008 | Table 4, p. 5, row 8 |  |
-| 1173 | eutectic: L ↔ hcp-Y + Fe2Y |  | experimental | [3] Ye 2023; _cites (exp_ | p. 5 | “Domagala et al. determined the eutectic reaction (L ↔ hcp-Y + Fe2Y at 1,173 K) by metallography and X-ray diffraction\[115\].” |
+| 1685.15 | polymorphic: δFe -> γFe | δFe: ; γFe:  | model | [1] Liu 2008 | Table 4, p. 5, row 4; `ORC-KWVTQEEVOH` |  |
+| 1685.15 | polymorphic: δFe -> γFe | δFe: ; γFe:  | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 4, p. 5, row 3; `ORC-UEFNTSF55E` |  |
+| 1667.15 | polymorphic: δFe -> γFe | γFe:  | experimental | [2] Kardellass 2014; _cites Massalski 1991_ | Table 1, p. 3, row 2; `ORC-SFOOZQUXFJ` |  |
+| 1185.15 | polymorphic: γFe -> αFe | γFe: ; αFe:  | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 4, p. 5, row 7; `ORC-5AKMTH6FCA` |  |
+| 1185.15 | polymorphic: γFe -> αFe | αFe:  | experimental | [2] Kardellass 2014; _cites Massalski 1991_ | Table 1, p. 3, row 3; `ORC-KO4LGCVLTI` |  |
+| 1185.15 | polymorphic: γFe -> αFe | γFe: ; αFe:  | model | [1] Liu 2008 | Table 4, p. 5, row 8; `ORC-UZ4CWGV3XB` |  |
+| 1173 | eutectic: L ↔ hcp-Y + Fe2Y |  | experimental | [3] Ye 2023; _cites (exp_ | p. 5; `ORC-JCKE3AFDTA` | “Domagala et al. determined the eutectic reaction (L ↔ hcp-Y + Fe2Y at 1,173 K) by metallography and X-ray diffraction\[115\].” |
 
 ## Formation enthalpies
 
@@ -50,16 +50,16 @@ Table: Enthalpies of formation, Fe system (10)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Fe |  | 0 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [4] Witusiewicz 2011 | Table 4, p. 10, row 2 |  |
-| Fe |  | 0 kJ/mol (basis unstated) |  | unspecified |  |  | [5] Ohtani 2004 | Table 2, p. 2, row 1 |  |
-| Fe A1 |  | 9.3 kJ/mol-atom | 0 | DFT |  |  | [6] Cacciamani 2010 | Table 3, p. 7, row 2 |  |
-| Fe A1 |  | 16.3 kJ/mol-atom | 0 | DFT |  |  | [6] Cacciamani 2010 | Table 3, p. 7, row 3 |  |
-| Fe A2 |  | 0 kJ/mol-atom | 0 | DFT |  |  | [6] Cacciamani 2010 | Table 3, p. 7, row 1 |  |
-| Fe3Ni L12 |  | 5.2 kJ/mol-atom | 0 | DFT |  |  | [6] Cacciamani 2010 | Table 3, p. 7, row 4 |  |
-| Laves C14 |  | 28.3674 kJ/mol (basis unstated) |  | unspecified |  |  | [7] Liang 2024 | Table 6, p. 10, row 4 |  |
-| Laves C14 |  | 28.3674 kJ/mol (basis unstated) | 0 | DFT |  |  | [7] Liang 2024 | Table 6, p. 10, row 3 |  |
-| σ |  | 17.3 kJ/mol-atom | 0 | DFT |  |  | [8] Jacob 2018; _cites Sluiter 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.09.002) | Table 2, p. 5, row 8 |  |
-| σ |  | 25.8 kJ/mol-atom | 0 | DFT |  |  | [8] Jacob 2018; _cites Pavlu 2010_ | Table 2, p. 5, row 9 |  |
+| Fe |  | 0 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [4] Witusiewicz 2011 | Table 4, p. 10, row 2; `ORC-QBOTFZWBG7.afbce8` |  |
+| Fe |  | 0 kJ/mol (basis unstated) |  | unspecified |  |  | [5] Ohtani 2004 | Table 2, p. 2, row 1; `ORC-XMBT23SIIA` |  |
+| Fe A1 |  | 9.3 kJ/mol-atom | 0 | DFT |  |  | [6] Cacciamani 2010 | Table 3, p. 7, row 2; `ORC-VSGLXAXM3J` |  |
+| Fe A1 |  | 16.3 kJ/mol-atom | 0 | DFT |  |  | [6] Cacciamani 2010 | Table 3, p. 7, row 3; `ORC-TAY7NPR32I` |  |
+| Fe A2 |  | 0 kJ/mol-atom | 0 | DFT |  |  | [6] Cacciamani 2010 | Table 3, p. 7, row 1; `ORC-TEB4Q3H7K5` |  |
+| Fe3Ni L12 |  | 5.2 kJ/mol-atom | 0 | DFT |  |  | [6] Cacciamani 2010 | Table 3, p. 7, row 4; `ORC-IDNJTWI7MU` |  |
+| Laves C14 |  | 28.3674 kJ/mol (basis unstated) |  | unspecified |  |  | [7] Liang 2024 | Table 6, p. 10, row 4; `ORC-CF7CK6NK4E` |  |
+| Laves C14 |  | 28.3674 kJ/mol (basis unstated) | 0 | DFT |  |  | [7] Liang 2024 | Table 6, p. 10, row 3; `ORC-TEAUP63CJH` |  |
+| σ |  | 17.3 kJ/mol-atom | 0 | DFT |  |  | [8] Jacob 2018; _cites Sluiter 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.09.002) | Table 2, p. 5, row 8; `ORC-UXZ4TCJPOA` |  |
+| σ |  | 25.8 kJ/mol-atom | 0 | DFT |  |  | [8] Jacob 2018; _cites Pavlu 2010_ | Table 2, p. 5, row 9; `ORC-SGJBA3K63H` |  |
 
 ## Other properties
 
@@ -69,24 +69,24 @@ Table: Phase transition, Fe system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1185.15 K | 1185.15 | polymorphic: gammaFe \<-> alphaFe; _gammaFe: ; alphaFe: _ | model | [9] Kardellass 2014 | Table 8, p. 10, row 12 |  |
-| Phase transition | 1185.15 K | 1185.15 | polymorphic: gammaFe \<-> alphaFe; _gammaFe: ; alphaFe: _ | experimental | [9] Kardellass 2014; _cites Okamoto 1993_ | Table 8, p. 10, row 11 |  |
-| Phase transition | 1185.15 K | 1185.15 | polymorphic: γFe ↔ αFe; _γFe: _ | unspecified | [10] Kardellass 2014; _cites Massalski 1991_ | Table 1, p. 2, row 3 |  |
-| Phase transition | 1185.15 K | 1185.15 | γFe -> αFe; _γFe: ; αFe: _ | experimental | [9] Kardellass 2014; _cites Okamoto 1993_ | Table 6, p. 7, row 8 |  |
-| Phase transition | 1185.15 K | 1185.15 | γFe -> αFe; _γFe: ; αFe: _ | model | [9] Kardellass 2014 | Table 6, p. 7, row 9 |  |
-| Phase transition | 1185.15 K | 1185.15 | γFe ↔ αFe | model | [10] Kardellass 2014 | Table 6, p. 4, row 9 |  |
-| Phase transition | 1185.15 K | 1185.15 | γFe ↔ αFe | experimental | [10] Kardellass 2014; _cites Kubaschewski 1982_ | Table 6, p. 4, row 8 |  |
-| Phase transition | 1667.15 K | 1667.15 | polymorphic: deltaFe \<-> gammaFe; _deltaFe: ; gammaFe: _ | experimental | [9] Kardellass 2014; _cites Okamoto 1993_ | Table 8, p. 10, row 3 |  |
-| Phase transition | 1667.15 K | 1667.15 | polymorphic: deltaFe \<-> gammaFe; _deltaFe: ; gammaFe: _ | model | [9] Kardellass 2014 | Table 8, p. 10, row 4 |  |
-| Phase transition | 1667.15 K | 1667.15 | polymorphic: δFe ↔ γFe; _δFe: _ | unspecified | [10] Kardellass 2014; _cites Massalski 1991_ | Table 1, p. 2, row 2 |  |
-| Phase transition | 2895 K | 2895 | One temperature range | model | [11] He 2024; _cites Chen 2001_ | Table 3, p. 11, row 5 |  |
-| Phase transition | 2959 K | 2959 | T_changeover= 1.3Tm = 2354 K | unspecified | [11] He 2024 | Table 3, p. 11, row 11 |  |
-| Phase transition | 3337 K | 3337 | T_changeover= 1.1Tm = 1922 K | unspecified | [11] He 2024 | Table 3, p. 11, row 9 |  |
-| Phase transition | 3631 K | 3631 | One temperature range | model | [11] He 2024; _cites Chen 2001_ | Table 3, p. 11, row 6 |  |
-| Phase transition | 3633 K | 3633 | T_changeover= Tm = 1811 K | unspecified | [11] He 2024 | Table 3, p. 11, row 7 |  |
-| Phase transition | 3898 K | 3898 | T_changeover= 1.3Tm = 2354 K | unspecified | [11] He 2024 | Table 3, p. 11, row 12 |  |
-| Phase transition | 4823 K | 4823 | T_changeover= 1.1Tm = 1922 K | unspecified | [11] He 2024 | Table 3, p. 11, row 10 |  |
-| Phase transition | 5429 K | 5429 | T_changeover= Tm = 1811 K | unspecified | [11] He 2024 | Table 3, p. 11, row 8 |  |
+| Phase transition | 1185.15 K | 1185.15 | polymorphic: gammaFe \<-> alphaFe; _gammaFe: ; alphaFe: _ | model | [9] Kardellass 2014 | Table 8, p. 10, row 12; `ORC-FSG6R7EK52.557515` |  |
+| Phase transition | 1185.15 K | 1185.15 | polymorphic: gammaFe \<-> alphaFe; _gammaFe: ; alphaFe: _ | experimental | [9] Kardellass 2014; _cites Okamoto 1993_ | Table 8, p. 10, row 11; `ORC-PI2FCSCQVK` |  |
+| Phase transition | 1185.15 K | 1185.15 | polymorphic: γFe ↔ αFe; _γFe: _ | unspecified | [10] Kardellass 2014; _cites Massalski 1991_ | Table 1, p. 2, row 3; `ORC-3ZSUTXRXUN` |  |
+| Phase transition | 1185.15 K | 1185.15 | γFe -> αFe; _γFe: ; αFe: _ | experimental | [9] Kardellass 2014; _cites Okamoto 1993_ | Table 6, p. 7, row 8; `ORC-BNCMXTTBA6` |  |
+| Phase transition | 1185.15 K | 1185.15 | γFe -> αFe; _γFe: ; αFe: _ | model | [9] Kardellass 2014 | Table 6, p. 7, row 9; `ORC-KYOMGNZKLV` |  |
+| Phase transition | 1185.15 K | 1185.15 | γFe ↔ αFe | model | [10] Kardellass 2014 | Table 6, p. 4, row 9; `ORC-OEABFIFSAA` |  |
+| Phase transition | 1185.15 K | 1185.15 | γFe ↔ αFe | experimental | [10] Kardellass 2014; _cites Kubaschewski 1982_ | Table 6, p. 4, row 8; `ORC-YOJDL7CZO2` |  |
+| Phase transition | 1667.15 K | 1667.15 | polymorphic: deltaFe \<-> gammaFe; _deltaFe: ; gammaFe: _ | experimental | [9] Kardellass 2014; _cites Okamoto 1993_ | Table 8, p. 10, row 3; `ORC-2OAMKQKLX3` |  |
+| Phase transition | 1667.15 K | 1667.15 | polymorphic: deltaFe \<-> gammaFe; _deltaFe: ; gammaFe: _ | model | [9] Kardellass 2014 | Table 8, p. 10, row 4; `ORC-KXERI234DU` |  |
+| Phase transition | 1667.15 K | 1667.15 | polymorphic: δFe ↔ γFe; _δFe: _ | unspecified | [10] Kardellass 2014; _cites Massalski 1991_ | Table 1, p. 2, row 2; `ORC-DHPPJFDM2L` |  |
+| Phase transition | 2895 K | 2895 | One temperature range | model | [11] He 2024; _cites Chen 2001_ | Table 3, p. 11, row 5; `ORC-RKJI2JNEY5` |  |
+| Phase transition | 2959 K | 2959 | T_changeover= 1.3Tm = 2354 K | unspecified | [11] He 2024 | Table 3, p. 11, row 11; `ORC-Y5NNBSJC5O` |  |
+| Phase transition | 3337 K | 3337 | T_changeover= 1.1Tm = 1922 K | unspecified | [11] He 2024 | Table 3, p. 11, row 9; `ORC-ZXLDJYYJZ5` |  |
+| Phase transition | 3631 K | 3631 | One temperature range | model | [11] He 2024; _cites Chen 2001_ | Table 3, p. 11, row 6; `ORC-FXHBI2IEF4` |  |
+| Phase transition | 3633 K | 3633 | T_changeover= Tm = 1811 K | unspecified | [11] He 2024 | Table 3, p. 11, row 7; `ORC-FIOVOKPI6N` |  |
+| Phase transition | 3898 K | 3898 | T_changeover= 1.3Tm = 2354 K | unspecified | [11] He 2024 | Table 3, p. 11, row 12; `ORC-27XNRLA25G` |  |
+| Phase transition | 4823 K | 4823 | T_changeover= 1.1Tm = 1922 K | unspecified | [11] He 2024 | Table 3, p. 11, row 10; `ORC-IVXDKDESSG` |  |
+| Phase transition | 5429 K | 5429 | T_changeover= Tm = 1811 K | unspecified | [11] He 2024 | Table 3, p. 11, row 8; `ORC-433GPYEFGK` |  |
 
 ### Mixing / partial (1)
 
@@ -94,7 +94,7 @@ Table: Mixing / partial, Fe system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: ΔH_ | 0 kJ/mol (basis unstated) | 1873 | liquid; _alloy: Fe 1_ | experimental | [12] Turchanin 2003 | Table 1, p. 3, row 14 |  |
+| Enthalpy of mixing; _printed: ΔH_ | 0 kJ/mol (basis unstated) | 1873 | liquid; _alloy: Fe 1_ | experimental | [12] Turchanin 2003 | Table 1, p. 3, row 14; `ORC-UAPYVGKOWO.f8ffe3` |  |
 
 ### Activity / EMF / Gibbs energy (2)
 
@@ -102,8 +102,8 @@ Table: Activity / EMF / Gibbs energy, Fe system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Gibbs energy; _printed: Gm(ω)-Gm(β)_ | 9962 J/mol | 0 | UNKNOWN; _alloy: Fe 1_ | model | [13] Yan 2016 | Table 4, p. 5, row 10 |  |
-| Gibbs energy; _printed: Gm(ω)-Gm(β)_ | 27904 J/mol | 0 | UNKNOWN; _alloy: Fe 1_ | DFT | [13] Yan 2016 | Table 4, p. 5, row 9 |  |
+| Gibbs energy; _printed: Gm(ω)-Gm(β)_ | 9962 J/mol | 0 | UNKNOWN; _alloy: Fe 1_ | model | [13] Yan 2016 | Table 4, p. 5, row 10; `ORC-EFKKAKGPQW` |  |
+| Gibbs energy; _printed: Gm(ω)-Gm(β)_ | 27904 J/mol | 0 | UNKNOWN; _alloy: Fe 1_ | DFT | [13] Yan 2016 | Table 4, p. 5, row 9; `ORC-T3UNHKLBFC` |  |
 
 ### Crystal structure (23)
 
@@ -111,29 +111,29 @@ Table: Crystal structure, Fe system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 2.827 Å |  | UNKNOWN; _alloy: Fe 1_ | DFT | [14] Ohno 2008 | Table 2, p. 3, row 40 |  |
-| Lattice a | 2.8368 Å |  | bcc; _alloy: Fe 1_ | DFT | [15] Xiong 2011 | Table 1, p. 5, row 1 |  |
-| Lattice a | 3.448 Å |  | fcc; _alloy: Fe 1_ | model | [16] Kim 2011 | Table 1, p. 2, row 4 |  |
-| Lattice a | 3.647 Å |  | fcc; _alloy: Fe 1_ | model | [16] Kim 2011 | Table 1, p. 2, row 6 |  |
-| Lattice a | 3.446 Å |  | fcc; _alloy: Fe 1_ | model | [16] Kim 2011 | Table 1, p. 2, row 5 |  |
-| Lattice a | 2.833 Å | 0 | αFe | DFT | [17] Fan 2021 | Table 1, p. 3, row 1 |  |
-| Lattice a | 2.802 Å |  | αFe | model | [17] Fan 2021; _cites Yu 2009_ | Table 1, p. 3, row 3 |  |
-| Lattice a | 2.8665 Å | 298.15 | (αFe); _alloy: Fe 1_ | model | [18] Qin 2014; _cites King 1981_ | Table 2, p. 3, row 9 |  |
-| Lattice a | 3.6467 Å | 298.15 | (γFe); _alloy: Fe 1_ | model | [18] Qin 2014; _cites King 1981_ | Table 2, p. 3, row 10 |  |
-| Lattice a | 2.9793 Å | 298.15 | (δFe); _alloy: Fe 1_ | model | [18] Qin 2014; _cites King 1981_ | Table 2, p. 3, row 11 |  |
-| Lattice a | 2.867 Å | 298.15 | UNKNOWN; _alloy: Fe 1_ | experimental | [14] Ohno 2008; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 2, p. 3, row 39 |  |
-| Lattice a | 2.8665 Å | 298.15 | αFe | unspecified | [19] Chatain 2003; _cites David_ | Table 2, p. 3, row 1 |  |
-| Lattice a | 2.842 Å | 298.15 | αFe | experimental | [17] Fan 2021; _cites Wilburn 1978_ | Table 1, p. 3, row 2 |  |
-| Lattice a | 3.6467 Å | 298.15 | γFe | unspecified | [19] Chatain 2003; _cites David_ | Table 2, p. 3, row 2 |  |
-| Lattice a | 3.66 Å | 298.15 | γFe | experimental | [17] Fan 2021; _cites Braun 1965_ [doi](https://doi.org/10.1002/pssb.19650120142) | Table 1, p. 3, row 4 |  |
-| Lattice a | 2.9315 Å | 298.15 | δFe | unspecified | [19] Chatain 2003; _cites David_ | Table 2, p. 3, row 3 |  |
-| Lattice a | 2.932 Å | 298.15 | δFe | experimental | [17] Fan 2021; _cites Basinski 1955_ [doi](https://doi.org/10.1098/rspa.1955.0102) | Table 1, p. 3, row 5 |  |
-| Lattice c | 4.947 Å | 298.15 | (αFe); _alloy: Fe 1_ | model | [18] Qin 2014; _cites King 1981_ | Table 2, p. 3, row 9 |  |
-| Lattice c | 5.6196 Å | 298.15 | (δFe); _alloy: Fe 1_ | model | [18] Qin 2014; _cites King 1981_ | Table 2, p. 3, row 11 |  |
-| lattice unspecified axis; _printed: a0_ | 3.7 Å | 0 | Fe A1; _alloy: Fe 1_ | DFT | [6] Cacciamani 2010 | Table 3, p. 7, row 3 |  |
-| lattice unspecified axis; _printed: a0_ | 3.5 Å | 0 | Fe A1; _alloy: Fe 1_ | DFT | [6] Cacciamani 2010 | Table 3, p. 7, row 2 |  |
-| lattice unspecified axis; _printed: a0_ | 2.826 Å | 0 | Fe A2; _alloy: Fe 1_ | DFT | [6] Cacciamani 2010 | Table 3, p. 7, row 1 |  |
-| lattice unspecified axis; _printed: a0_ | 3.56 Å | 0 | Fe3Ni L12; _alloy: Fe 1_ | DFT | [6] Cacciamani 2010 | Table 3, p. 7, row 4 |  |
+| Lattice a | 2.827 Å |  | UNKNOWN; _alloy: Fe 1_ | DFT | [14] Ohno 2008 | Table 2, p. 3, row 40; `ORC-KFZ6ZJTYN5` |  |
+| Lattice a | 2.8368 Å |  | bcc; _alloy: Fe 1_ | DFT | [15] Xiong 2011 | Table 1, p. 5, row 1; `ORC-ATSU46XDZK.342ce1` |  |
+| Lattice a | 3.448 Å |  | fcc; _alloy: Fe 1_ | model | [16] Kim 2011 | Table 1, p. 2, row 4; `ORC-HYGY2LT3JK` |  |
+| Lattice a | 3.647 Å |  | fcc; _alloy: Fe 1_ | model | [16] Kim 2011 | Table 1, p. 2, row 6; `ORC-OXF4LMWOQJ` |  |
+| Lattice a | 3.446 Å |  | fcc; _alloy: Fe 1_ | model | [16] Kim 2011 | Table 1, p. 2, row 5; `ORC-QZGSVGUAH2` |  |
+| Lattice a | 2.833 Å | 0 | αFe | DFT | [17] Fan 2021 | Table 1, p. 3, row 1; `ORC-775BLY4ACQ` |  |
+| Lattice a | 2.802 Å |  | αFe | model | [17] Fan 2021; _cites Yu 2009_ | Table 1, p. 3, row 3; `ORC-GHLVVOCORV` |  |
+| Lattice a | 2.8665 Å | 298.15 | (αFe); _alloy: Fe 1_ | model | [18] Qin 2014; _cites King 1981_ | Table 2, p. 3, row 9; `ORC-H4TYGHAYIY.e3886e` |  |
+| Lattice a | 3.6467 Å | 298.15 | (γFe); _alloy: Fe 1_ | model | [18] Qin 2014; _cites King 1981_ | Table 2, p. 3, row 10; `ORC-XRHL5RRSJZ` |  |
+| Lattice a | 2.9793 Å | 298.15 | (δFe); _alloy: Fe 1_ | model | [18] Qin 2014; _cites King 1981_ | Table 2, p. 3, row 11; `ORC-X7WH2WVX5M.de6ea8` |  |
+| Lattice a | 2.867 Å | 298.15 | UNKNOWN; _alloy: Fe 1_ | experimental | [14] Ohno 2008; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 2, p. 3, row 39; `ORC-NUKKUS42UO` |  |
+| Lattice a | 2.8665 Å | 298.15 | αFe | unspecified | [19] Chatain 2003; _cites David_ | Table 2, p. 3, row 1; `ORC-H6HZA2SSUW` |  |
+| Lattice a | 2.842 Å | 298.15 | αFe | experimental | [17] Fan 2021; _cites Wilburn 1978_ | Table 1, p. 3, row 2; `ORC-YOKXOGFGJ4` |  |
+| Lattice a | 3.6467 Å | 298.15 | γFe | unspecified | [19] Chatain 2003; _cites David_ | Table 2, p. 3, row 2; `ORC-HBAYZZTBUC` |  |
+| Lattice a | 3.66 Å | 298.15 | γFe | experimental | [17] Fan 2021; _cites Braun 1965_ [doi](https://doi.org/10.1002/pssb.19650120142) | Table 1, p. 3, row 4; `ORC-Z6Q7DXNWDK` |  |
+| Lattice a | 2.9315 Å | 298.15 | δFe | unspecified | [19] Chatain 2003; _cites David_ | Table 2, p. 3, row 3; `ORC-7LLDCBIBVC` |  |
+| Lattice a | 2.932 Å | 298.15 | δFe | experimental | [17] Fan 2021; _cites Basinski 1955_ [doi](https://doi.org/10.1098/rspa.1955.0102) | Table 1, p. 3, row 5; `ORC-AKUMFQ4VHA` |  |
+| Lattice c | 4.947 Å | 298.15 | (αFe); _alloy: Fe 1_ | model | [18] Qin 2014; _cites King 1981_ | Table 2, p. 3, row 9; `ORC-H4TYGHAYIY.90ba93` |  |
+| Lattice c | 5.6196 Å | 298.15 | (δFe); _alloy: Fe 1_ | model | [18] Qin 2014; _cites King 1981_ | Table 2, p. 3, row 11; `ORC-X7WH2WVX5M.dfc2d9` |  |
+| lattice unspecified axis; _printed: a0_ | 3.7 Å | 0 | Fe A1; _alloy: Fe 1_ | DFT | [6] Cacciamani 2010 | Table 3, p. 7, row 3; `ORC-3LAIPUIHBU` |  |
+| lattice unspecified axis; _printed: a0_ | 3.5 Å | 0 | Fe A1; _alloy: Fe 1_ | DFT | [6] Cacciamani 2010 | Table 3, p. 7, row 2; `ORC-3V56MDS4HX` |  |
+| lattice unspecified axis; _printed: a0_ | 2.826 Å | 0 | Fe A2; _alloy: Fe 1_ | DFT | [6] Cacciamani 2010 | Table 3, p. 7, row 1; `ORC-D2LUX2VYXK` |  |
+| lattice unspecified axis; _printed: a0_ | 3.56 Å | 0 | Fe3Ni L12; _alloy: Fe 1_ | DFT | [6] Cacciamani 2010 | Table 3, p. 7, row 4; `ORC-DIV3352BXK` |  |
 
 ## Sources
 
@@ -194,4 +194,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

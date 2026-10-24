@@ -27,29 +27,29 @@ Table: Invariant reactions reported in the literature for the Al–Li–Zn syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 853 | other: liq. + AlLi + τ1 |  | model | [1] Guo 2011 | Table 2, p. 10, row 1 |  |
-| 853 | other: liq. + AlLi + τ1 |  | experimental | [1] Guo 2011; _cites Badaeva 1943_ | Table 2, p. 10, row 2 |  |
-| 833 | quasi-peritectic: liq. + AlLi -> τ1 + fcc |  | model | [1] Guo 2011 | Table 2, p. 10, row 7 |  |
-| 763 | other: liq. + τ1 + τ3 |  | model | [1] Guo 2011 | Table 2, p. 10, row 3 |  |
-| 763 | other: liq. + τ1 + τ3 |  | experimental | [1] Guo 2011; _cites Badaeva 1943_ | Table 2, p. 10, row 4 |  |
-| 754 | other: liq. + τ1 + βLi2Zn3 |  | model | [1] Guo 2011 | Table 2, p. 10, row 5 |  |
-| 743 | quasi-peritectic: liq. + βLi2Zn3 -> τ1 + βLi2Zn5 |  | model | [1] Guo 2011 | Table 2, p. 10, row 9 |  |
-| 737 | quasi-peritectic: liq. + τ1 -> fcc + τ3 |  | model | [1] Guo 2011 | Table 2, p. 10, row 10 |  |
-| 735 | quasi-peritectic: liq. + τ1 -> τ3 + βLi2Zn5 |  | model | [1] Guo 2011 | Table 2, p. 10, row 12 |  |
-| 734 | quasi-peritectic: liq. + τ1 -> AlLi + βLi2Zn3 |  | model | [1] Guo 2011 | Table 2, p. 10, row 14 |  |
-| 729 | quasi-peritectic: liq. + βLi2Zn5 -> τ3 + βLiZn4 |  | model | [1] Guo 2011 | Table 2, p. 10, row 13 |  |
-| 725 | quasi-peritectic: liq. + AlLi -> τ1 + fcc |  | experimental | [1] Guo 2011; _cites Badaeva 1943_ | Table 2, p. 10, row 8 |  |
-| 696 | peritectic: liq. + AlLi + βLi2Zn3 -> τ2 |  | model | [1] Guo 2011 | Table 2, p. 10, row 20 |  |
-| 666 | other: liq. + hcp + τ3 |  | model | [1] Guo 2011 | Table 2, p. 10, row 6 |  |
-| 665 | eutectic: liq. -> τ3 + hcp + βLiZn4 |  | model | [1] Guo 2011 | Table 2, p. 10, row 15 |  |
-| 641 | eutectic: liq. -> hcp + fcc + τ3 |  | model | [1] Guo 2011 | Table 2, p. 10, row 16 |  |
-| 641 | quasi-peritectic: liq. + τ1 -> fcc + τ3 |  | experimental | [1] Guo 2011; _cites Badaeva 1943_ | Table 2, p. 10, row 11 |  |
-| 637 | eutectic: liq. -> hcp + fcc + τ3 |  | experimental | [1] Guo 2011; _cites Weisse 1942_ | Table 2, p. 10, row 17 |  |
-| 628 | eutectic: liq. -> hcp + fcc + τ3 |  | experimental | [1] Guo 2011; _cites Badaeva 1943_ | Table 2, p. 10, row 18 |  |
-| 594 | quasi-peritectic: liq. + Al2Li3 -> Al4Li9 + AlLi |  | model | [1] Guo 2011 | Table 2, p. 10, row 19 |  |
-| 459 | quasi-peritectic: liq. + AlLi -> bcc + Al4Li9 |  | model | [1] Guo 2011 | Table 2, p. 10, row 21 |  |
-| 442 | quasi-peritectic: liq. + Al4Li9 -> bcc + τ2 |  | model | [1] Guo 2011 | Table 2, p. 10, row 22 |  |
-| 435 | eutectic: liq. -> bcc + βLi2Zn3 + τ2 |  | model | [1] Guo 2011 | Table 2, p. 10, row 23 |  |
+| 853 | other: liq. + AlLi + τ1 |  | model | [1] Guo 2011 | Table 2, p. 10, row 1; `ORC-TW4GG76ZCC` |  |
+| 853 | other: liq. + AlLi + τ1 |  | experimental | [1] Guo 2011; _cites Badaeva 1943_ | Table 2, p. 10, row 2; `ORC-WQRTVNMKTB` |  |
+| 833 | quasi-peritectic: liq. + AlLi -> τ1 + fcc |  | model | [1] Guo 2011 | Table 2, p. 10, row 7; `ORC-HUJQPC4EDL` |  |
+| 763 | other: liq. + τ1 + τ3 |  | model | [1] Guo 2011 | Table 2, p. 10, row 3; `ORC-36ZOZ2FSKX` |  |
+| 763 | other: liq. + τ1 + τ3 |  | experimental | [1] Guo 2011; _cites Badaeva 1943_ | Table 2, p. 10, row 4; `ORC-U323BOTRV5` |  |
+| 754 | other: liq. + τ1 + βLi2Zn3 |  | model | [1] Guo 2011 | Table 2, p. 10, row 5; `ORC-HVSSY32NRO` |  |
+| 743 | quasi-peritectic: liq. + βLi2Zn3 -> τ1 + βLi2Zn5 |  | model | [1] Guo 2011 | Table 2, p. 10, row 9; `ORC-6LJUZS7CGJ` |  |
+| 737 | quasi-peritectic: liq. + τ1 -> fcc + τ3 |  | model | [1] Guo 2011 | Table 2, p. 10, row 10; `ORC-4DIX6WU2TL` |  |
+| 735 | quasi-peritectic: liq. + τ1 -> τ3 + βLi2Zn5 |  | model | [1] Guo 2011 | Table 2, p. 10, row 12; `ORC-FGEWUMWV4E` |  |
+| 734 | quasi-peritectic: liq. + τ1 -> AlLi + βLi2Zn3 |  | model | [1] Guo 2011 | Table 2, p. 10, row 14; `ORC-JVXOAJS6OP` |  |
+| 729 | quasi-peritectic: liq. + βLi2Zn5 -> τ3 + βLiZn4 |  | model | [1] Guo 2011 | Table 2, p. 10, row 13; `ORC-ENPCRTHZVR` |  |
+| 725 | quasi-peritectic: liq. + AlLi -> τ1 + fcc |  | experimental | [1] Guo 2011; _cites Badaeva 1943_ | Table 2, p. 10, row 8; `ORC-NNAMFL3VIH` |  |
+| 696 | peritectic: liq. + AlLi + βLi2Zn3 -> τ2 |  | model | [1] Guo 2011 | Table 2, p. 10, row 20; `ORC-C4FPQODSU5` |  |
+| 666 | other: liq. + hcp + τ3 |  | model | [1] Guo 2011 | Table 2, p. 10, row 6; `ORC-MLKNVS65G3` |  |
+| 665 | eutectic: liq. -> τ3 + hcp + βLiZn4 |  | model | [1] Guo 2011 | Table 2, p. 10, row 15; `ORC-FP6YJGCVUA` |  |
+| 641 | eutectic: liq. -> hcp + fcc + τ3 |  | model | [1] Guo 2011 | Table 2, p. 10, row 16; `ORC-IABFGXRRTJ` |  |
+| 641 | quasi-peritectic: liq. + τ1 -> fcc + τ3 |  | experimental | [1] Guo 2011; _cites Badaeva 1943_ | Table 2, p. 10, row 11; `ORC-NMV3G42GGJ` |  |
+| 637 | eutectic: liq. -> hcp + fcc + τ3 |  | experimental | [1] Guo 2011; _cites Weisse 1942_ | Table 2, p. 10, row 17; `ORC-5MHRBRITXI` |  |
+| 628 | eutectic: liq. -> hcp + fcc + τ3 |  | experimental | [1] Guo 2011; _cites Badaeva 1943_ | Table 2, p. 10, row 18; `ORC-CPO4N63COD` |  |
+| 594 | quasi-peritectic: liq. + Al2Li3 -> Al4Li9 + AlLi |  | model | [1] Guo 2011 | Table 2, p. 10, row 19; `ORC-MBMNDKLM5O` |  |
+| 459 | quasi-peritectic: liq. + AlLi -> bcc + Al4Li9 |  | model | [1] Guo 2011 | Table 2, p. 10, row 21; `ORC-XXQE6VOUIS` |  |
+| 442 | quasi-peritectic: liq. + Al4Li9 -> bcc + τ2 |  | model | [1] Guo 2011 | Table 2, p. 10, row 22; `ORC-CHTJX3VXYA` |  |
+| 435 | eutectic: liq. -> bcc + βLi2Zn3 + τ2 |  | model | [1] Guo 2011 | Table 2, p. 10, row 23; `ORC-N7UKPLEV4N` |  |
 
 ## Sources
 
@@ -92,4 +92,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

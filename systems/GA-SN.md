@@ -45,9 +45,9 @@ Table: Invariant reactions reported in the literature for the Ga–Sn system (3)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 293.81 | eutectic |  | model | [1] Anderson 1992 | p. 5 | “The values measured for the eutectic temperature are in close agreement, and the assessed value obtained from a thermodynamic calculation is 20.66 \*C.” |
-| 293.65 | eutectic: L -> (αGa) + (βSn) | L: Sn 0.077; (αGa): Sn 2.000e-4; (βSn): Sn 0.936 | unspecified | [1] Anderson 1992 | Table 1, p. 1, row 1 |  |
-| 293.6 | eutectic |  | experimental | [2] Ansara 1979; _cites MATHIEU 1966_ | p. 3 | “PUSCHIN (20) and PRBDEL (2l)have determined the gallium-tin phase diagram, shown in figure 3, by means of thermal analysis, X-ray and dilatometric measurements. The eutectic point is at 8.5 at % Sn and 293.6K.” |
+| 293.81 | eutectic |  | model | [1] Anderson 1992 | p. 5; `ORC-GD4OJM73KZ` | “The values measured for the eutectic temperature are in close agreement, and the assessed value obtained from a thermodynamic calculation is 20.66 \*C.” |
+| 293.65 | eutectic: L -> (αGa) + (βSn) | L: Sn 0.077; (αGa): Sn 2.000e-4; (βSn): Sn 0.936 | unspecified | [1] Anderson 1992 | Table 1, p. 1, row 1; `ORC-YD7LIP6NOS` |  |
+| 293.6 | eutectic |  | experimental | [2] Ansara 1979; _cites MATHIEU 1966_ | p. 3; `ORC-KWULBC7A44` | “PUSCHIN (20) and PRBDEL (2l)have determined the gallium-tin phase diagram, shown in figure 3, by means of thermal analysis, X-ray and dilatometric measurements. The eutectic point is at 8.5 at % Sn and 293.6K.” |
 
 ## Other properties
 
@@ -57,22 +57,22 @@ Table: Phase transition, Ga–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 293.15 K | 293.15 | eutectic | experimental | [1] Anderson 1992; _cites ref. 32Pus_ | Table 3, p. 5, row 1 |  |
-| Phase transition | 293.15 K | 293.15 | eutectic | experimental | [1] Anderson 1992; _cites Siede 1963_ | Table 3, p. 5, row 4 |  |
-| Phase transition | 293.35 K | 293.35 | eutectic | experimental | [1] Anderson 1992; _cites Trebukhov 1985_ | Table 3, p. 5, row 7 |  |
-| Phase transition | 293.55 K | 293.55 | eutectic | experimental | [1] Anderson 1992; _cites Delcroix 1963_ [doi](https://doi.org/10.1051/jphysrad:0196300240101700) | Table 3, p. 5, row 3 |  |
-| Phase transition | 293.65 K | 293.65 | eutectic | experimental | [1] Anderson 1992; _cites Ph 1962_ | Table 3, p. 5, row 2 |  |
-| Phase transition | 293.75 K | 293.75 | eutectic | experimental | [1] Anderson 1992; _cites ref. 74Shu1_ | Table 3, p. 5, row 6 |  |
-| Phase transition | 293.75 K | 293.75 | eutectic | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 3, p. 5, row 5 |  |
-| Phase transition | 293.81 K | 293.81 | eutectic | model | [1] Anderson 1992 | Table 3, p. 5, row 8 |  |
-| Phase transition | 302.924 K | 302.924 | congruent melting: L -> αGa; _αGa: Sn 0_ | unspecified | [1] Anderson 1992 | Table 1, p. 1, row 2 |  |
-| Phase transition | 454.15 K | 454.15 | other: \[64Pre\] liquidus | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 4, row 1 |  |
-| Phase transition | 463.15 K | 463.15 | other: \[64Pre\] liquidus | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 4, row 2 |  |
-| Phase transition | 486.15 K | 486.15 | other: \[64Pre\] liquidus | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 4, row 3 |  |
-| Phase transition | 493.15 K | 493.15 | other: \[64Pre\] liquidus | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 4, row 4 |  |
-| Phase transition | 499.15 K | 499.15 | other: \[64Pre\] liquidus | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 4, row 5 |  |
-| Phase transition | 503.15 K | 503.15 | other: \[64Pre\] liquidus | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 4, row 6 |  |
-| Phase transition | 505.118 K | 505.118 | congruent melting: L -> βSn; _βSn: Sn 1_ | unspecified | [1] Anderson 1992 | Table 1, p. 1, row 3 |  |
+| Phase transition | 293.15 K | 293.15 | eutectic | experimental | [1] Anderson 1992; _cites ref. 32Pus_ | Table 3, p. 5, row 1; `ORC-3EAIK4W3AC` |  |
+| Phase transition | 293.15 K | 293.15 | eutectic | experimental | [1] Anderson 1992; _cites Siede 1963_ | Table 3, p. 5, row 4; `ORC-VQQ7A4ZPPM` |  |
+| Phase transition | 293.35 K | 293.35 | eutectic | experimental | [1] Anderson 1992; _cites Trebukhov 1985_ | Table 3, p. 5, row 7; `ORC-U4FBJOELKC` |  |
+| Phase transition | 293.55 K | 293.55 | eutectic | experimental | [1] Anderson 1992; _cites Delcroix 1963_ [doi](https://doi.org/10.1051/jphysrad:0196300240101700) | Table 3, p. 5, row 3; `ORC-ZH5NZ3W6NL` |  |
+| Phase transition | 293.65 K | 293.65 | eutectic | experimental | [1] Anderson 1992; _cites Ph 1962_ | Table 3, p. 5, row 2; `ORC-LJBBEQIWRU` |  |
+| Phase transition | 293.75 K | 293.75 | eutectic | experimental | [1] Anderson 1992; _cites ref. 74Shu1_ | Table 3, p. 5, row 6; `ORC-MBWU2UJCZ6` |  |
+| Phase transition | 293.75 K | 293.75 | eutectic | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 3, p. 5, row 5; `ORC-SUZTW4LJ76` |  |
+| Phase transition | 293.81 K | 293.81 | eutectic | model | [1] Anderson 1992 | Table 3, p. 5, row 8; `ORC-NFIVBC6WQ7` |  |
+| Phase transition | 302.924 K | 302.924 | congruent melting: L -> αGa; _αGa: Sn 0_ | unspecified | [1] Anderson 1992 | Table 1, p. 1, row 2; `ORC-5S4AAK2PLP` |  |
+| Phase transition | 454.15 K | 454.15 | other: \[64Pre\] liquidus | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 4, row 1; `ORC-Z7VBLFUR4S` |  |
+| Phase transition | 463.15 K | 463.15 | other: \[64Pre\] liquidus | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 4, row 2; `ORC-YQKN7NV66O` |  |
+| Phase transition | 486.15 K | 486.15 | other: \[64Pre\] liquidus | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 4, row 3; `ORC-4LKCNEYRB4` |  |
+| Phase transition | 493.15 K | 493.15 | other: \[64Pre\] liquidus | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 4, row 4; `ORC-642TUZX6YK` |  |
+| Phase transition | 499.15 K | 499.15 | other: \[64Pre\] liquidus | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 4, row 5; `ORC-VMSLPHZPKL` |  |
+| Phase transition | 503.15 K | 503.15 | other: \[64Pre\] liquidus | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 4, row 6; `ORC-HGWZKOODJN` |  |
+| Phase transition | 505.118 K | 505.118 | congruent melting: L -> βSn; _βSn: Sn 1_ | unspecified | [1] Anderson 1992 | Table 1, p. 1, row 3; `ORC-VJNSV4RIGJ` |  |
 
 ### Phase equilibrium (124)
 
@@ -80,130 +80,130 @@ Table: Phase equilibrium, Ga–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 251.25 | other: Metastable L + (αGa); _L: Ga 0.99973, Sn 2.700e-4_ | experimental | [1] Anderson 1992; _cites Delcroix 1963_ [doi](https://doi.org/10.1051/jphysrad:0196300240101700) | Table 2, p. 3, row 31 |  |
-| Phase composition |  | 251.75 | other: Metastable L + (αGa); _L: Ga 0.99977, Sn 2.300e-4_ | experimental | [1] Anderson 1992; _cites Delcroix 1963_ [doi](https://doi.org/10.1051/jphysrad:0196300240101700) | Table 2, p. 3, row 30 |  |
-| Phase composition |  | 252.35 | other: Metastable L + (αGa); _L: Ga 0.99979, Sn 2.100e-4_ | experimental | [1] Anderson 1992; _cites Delcroix 1963_ [doi](https://doi.org/10.1051/jphysrad:0196300240101700) | Table 2, p. 3, row 29 |  |
-| Phase composition |  | 253.65 | other: Metastable L + (αGa); _L: Ga 0.99985, Sn 1.500e-4_ | experimental | [1] Anderson 1992; _cites Delcroix 1963_ [doi](https://doi.org/10.1051/jphysrad:0196300240101700) | Table 2, p. 3, row 28 |  |
-| Phase composition |  | 254.75 | other: Metastable L + (αGa); _L: Ga 0.99991, Sn 9.000e-5_ | experimental | [1] Anderson 1992; _cites Delcroix 1963_ [doi](https://doi.org/10.1051/jphysrad:0196300240101700) | Table 2, p. 3, row 27 |  |
-| Phase composition |  | 255.55 | other: Metastable L + (αGa); _L: Ga 0.99994, Sn 6.000e-5_ | experimental | [1] Anderson 1992; _cites Delcroix 1963_ [doi](https://doi.org/10.1051/jphysrad:0196300240101700) | Table 2, p. 3, row 26 |  |
-| Phase composition |  | 256.35 | other: Metastable L + (αGa); _L: Ga 0.99997, Sn 3.000e-5_ | experimental | [1] Anderson 1992; _cites Delcroix 1963_ [doi](https://doi.org/10.1051/jphysrad:0196300240101700) | Table 2, p. 3, row 25 |  |
-| Phase composition |  | 280.85 | other: Metastable L + (Sn); _L: Ga 0.9994, Sn 6.000e-4_ | experimental | [1] Anderson 1992; _cites Delcroix 1963_ [doi](https://doi.org/10.1051/jphysrad:0196300240101700) | Table 2, p. 3, row 19 |  |
-| Phase composition |  | 282.35 | other: Metastable L + (Sn); _L: Ga 0.9994, Sn 6.000e-4_ | experimental | [1] Anderson 1992; _cites Delcroix 1963_ [doi](https://doi.org/10.1051/jphysrad:0196300240101700) | Table 2, p. 3, row 20 |  |
-| Phase composition |  | 288.35 | other: L + (Sn); _L: Ga 0.99916, Sn 8.400e-4_ | experimental | [1] Anderson 1992; _cites ref. 32Kro_ | Table 2, p. 3, row 1 |  |
-| Phase composition |  | 289.65 | other: Metastable L + (Sn); _L: Ga 0.99933, Sn 6.700e-4_ | experimental | [1] Anderson 1992; _cites Delcroix 1963_ [doi](https://doi.org/10.1051/jphysrad:0196300240101700) | Table 2, p. 3, row 21 |  |
-| Phase composition |  | 290.65 | other: Metastable L + (Sn); _L: Ga 0.99933, Sn 6.700e-4_ | experimental | [1] Anderson 1992; _cites Delcroix 1963_ [doi](https://doi.org/10.1051/jphysrad:0196300240101700) | Table 2, p. 3, row 22 |  |
-| Phase composition |  | 290.85 | other: L + (Sn); _L: Ga 0.99858, Sn 0.00142_ | experimental | [1] Anderson 1992; _cites ref. 32Kro_ | Table 2, p. 3, row 2 |  |
-| Phase composition |  | 291.45 | other: Metastable L + (Sn); _L: Ga 0.99925, Sn 7.500e-4_ | experimental | [1] Anderson 1992; _cites Delcroix 1963_ [doi](https://doi.org/10.1051/jphysrad:0196300240101700) | Table 2, p. 3, row 23 |  |
-| Phase composition |  | 292.85 | other: Metastable L + (Sn); _L: Ga 0.99926, Sn 7.400e-4_ | experimental | [1] Anderson 1992; _cites Delcroix 1963_ [doi](https://doi.org/10.1051/jphysrad:0196300240101700) | Table 2, p. 3, row 24 |  |
-| Phase composition |  | 293.85 | other: L + (Sn); _L: Sn 1 (basis unresolved)_ | experimental | [1] Anderson 1992; _cites ref. 74Shu1_ | Table 2, p. 4, row 24 |  |
-| Phase composition |  | 293.85 | other: L + (Sn); _L: Sn 1_ | experimental | [1] Anderson 1992; _cites ref. 74Shu1_ | Table 2, p. 3, row 76 |  |
-| Phase composition |  | 294.75 | other: L + (αGa); _L: Ga 0.99926, Sn 7.400e-4_ | experimental | [1] Anderson 1992; _cites Delcroix 1963_ [doi](https://doi.org/10.1051/jphysrad:0196300240101700) | Table 2, p. 3, row 18 |  |
-| Phase composition |  | 295.35 | other: L + (αGa); _L: Ga 0.99926, Sn 7.400e-4_ | experimental | [1] Anderson 1992; _cites ref. 74Shu2_ | Table 2, p. 3, row 89 |  |
-| Phase composition |  | 295.35 | other: L + (αGa); _L: Sn 0 (basis unresolved)_ | experimental | [1] Anderson 1992; _cites ref. 74Shu2_ | Table 2, p. 4, row 37 |  |
-| Phase composition |  | 295.45 | other: L + (αGa); _L: Ga 0.99933, Sn 6.700e-4_ | experimental | [1] Anderson 1992; _cites Delcroix 1963_ [doi](https://doi.org/10.1051/jphysrad:0196300240101700) | Table 2, p. 3, row 17 |  |
-| Phase composition |  | 295.75 | other: L + (αGa); _L: Sn 0_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 68 |  |
-| Phase composition |  | 295.75 | other: L + (αGa); _L: Sn 0 (basis unresolved)_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 4, row 16 |  |
-| Phase composition |  | 295.95 | other: L + (αGa); _L: Sn 0 (basis unresolved)_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 4, row 17 |  |
-| Phase composition |  | 295.95 | other: L + (αGa); _L: Sn 0_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 69 |  |
-| Phase composition |  | 296.35 | other: L + (αGa); _L: Ga 0.99941, Sn 5.900e-4_ | experimental | [1] Anderson 1992; _cites Delcroix 1963_ [doi](https://doi.org/10.1051/jphysrad:0196300240101700) | Table 2, p. 3, row 16 |  |
-| Phase composition |  | 296.65 | other: L + (αGa); _L: Sn 0 (basis unresolved)_ | experimental | [1] Anderson 1992; _cites ref. 74Shu1_ | Table 2, p. 4, row 35 |  |
-| Phase composition |  | 296.65 | other: L + (αGa); _L: Sn 0_ | experimental | [1] Anderson 1992; _cites ref. 74Shu1_ | Table 2, p. 3, row 87 |  |
-| Phase composition |  | 296.75 | other: L + (αGa); _L: Sn 0 (basis unresolved)_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 4, row 15 |  |
-| Phase composition |  | 296.75 | other: L + (αGa); _L: Sn 0_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 67 |  |
-| Phase composition |  | 296.95 | other: L + (Sn); _L: Sn 1 (basis unresolved)_ | experimental | [1] Anderson 1992; _cites ref. 74Shu2_ | Table 2, p. 4, row 36 |  |
-| Phase composition |  | 296.95 | other: L + (Sn); _L: Sn 1_ | experimental | [1] Anderson 1992; _cites ref. 74Shu2_ | Table 2, p. 3, row 88 |  |
-| Phase composition |  | 297.35 | other: L + (αGa); _L: Sn 0_ | experimental | [1] Anderson 1992; _cites ref. 74Shu1_ | Table 2, p. 3, row 86 |  |
-| Phase composition |  | 297.35 | other: L + (αGa); _L: Sn 0 (basis unresolved)_ | experimental | [1] Anderson 1992; _cites ref. 74Shu1_ | Table 2, p. 4, row 34 |  |
-| Phase composition |  | 297.55 | other: L + (αGa); _L: Ga 0.99945, Sn 5.500e-4_ | experimental | [1] Anderson 1992; _cites Delcroix 1963_ [doi](https://doi.org/10.1051/jphysrad:0196300240101700) | Table 2, p. 3, row 15 |  |
-| Phase composition |  | 297.65 | other: L + (αGa); _L: Sn 0_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 66 |  |
-| Phase composition |  | 297.65 | other: L + (αGa); _L: Sn 0 (basis unresolved)_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 4, row 14 |  |
-| Phase composition |  | 298.45 | other: L + (αGa); _L: Sn 0_ | experimental | [1] Anderson 1992; _cites ref. 74Shu1_ | Table 2, p. 3, row 85 |  |
-| Phase composition |  | 298.45 | other: L + (αGa); _L: Sn 0 (basis unresolved)_ | experimental | [1] Anderson 1992; _cites ref. 74Shu1_ | Table 2, p. 4, row 33 |  |
-| Phase composition |  | 298.95 | other: L + (αGa); _L: Sn 0 (basis unresolved)_ | experimental | [1] Anderson 1992; _cites ref. 74Shu1_ | Table 2, p. 4, row 32 |  |
-| Phase composition |  | 298.95 | other: L + (αGa); _L: Sn 0_ | experimental | [1] Anderson 1992; _cites ref. 74Shu1_ | Table 2, p. 3, row 84 |  |
-| Phase composition |  | 299.15 | other: L + (Sn); _L: Ga 0.9912, Sn 0.0088_ | experimental | [1] Anderson 1992; _cites Delcroix 1963_ [doi](https://doi.org/10.1051/jphysrad:0196300240101700) | Table 2, p. 3, row 8 |  |
-| Phase composition |  | 299.45 | other: L + (αGa); _L: Sn 0 (basis unresolved)_ | experimental | [1] Anderson 1992; _cites ref. 74Shu1_ | Table 2, p. 4, row 31 |  |
-| Phase composition |  | 299.45 | other: L + (αGa); _L: Sn 0_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 64 |  |
-| Phase composition |  | 299.45 | other: L + (αGa); _L: Sn 0 (basis unresolved)_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 4, row 12 |  |
-| Phase composition |  | 299.45 | other: L + (αGa); _L: Sn 0_ | experimental | [1] Anderson 1992; _cites ref. 74Shu1_ | Table 2, p. 3, row 83 |  |
-| Phase composition |  | 299.55 | other: L + (Sn); _L: Sn 1 (basis unresolved)_ | experimental | [1] Anderson 1992; _cites ref. 74Shu1_ | Table 2, p. 4, row 25 |  |
-| Phase composition |  | 299.55 | other: L + (Sn); _L: Sn 1_ | experimental | [1] Anderson 1992; _cites ref. 74Shu1_ | Table 2, p. 3, row 77 |  |
-| Phase composition |  | 300.25 | other: L + (αGa); _L: Sn 0 (basis unresolved)_ | experimental | [1] Anderson 1992; _cites ref. 74Shu1_ | Table 2, p. 4, row 30 |  |
-| Phase composition |  | 300.25 | other: L + (αGa); _L: Sn 0_ | experimental | [1] Anderson 1992; _cites ref. 74Shu1_ | Table 2, p. 3, row 82 |  |
-| Phase composition |  | 300.55 | other: L + (αGa); _L: Ga 0.99977, Sn 2.300e-4_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 63 |  |
-| Phase composition |  | 300.55 | other: L + (αGa); _L: Ga 0.99977, Sn 2.300e-4_ | experimental | [1] Anderson 1992; _cites Delcroix 1963_ [doi](https://doi.org/10.1051/jphysrad:0196300240101700) | Table 2, p. 3, row 14 |  |
-| Phase composition |  | 300.55 | other: L + (αGa); _L: Sn 0 (basis unresolved)_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 4, row 11 |  |
-| Phase composition |  | 300.65 | other: L + (αGa); _L: Sn 0 (basis unresolved)_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 4, row 13 |  |
-| Phase composition |  | 300.65 | other: L + (αGa); _L: Sn 0_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 65 |  |
-| Phase composition |  | 300.75 | other: L + (Sn); _L: Sn 1_ | experimental | [1] Anderson 1992; _cites Trebukhov 1985_ | Table 2, p. 3, row 98 |  |
-| Phase composition |  | 300.75 | other: L + (Sn); _L: Sn 1 (basis unresolved)_ | experimental | [1] Anderson 1992; _cites Trebukhov 1985_ | Table 2, p. 4, row 46 |  |
-| Phase composition |  | 301.05 | other: L + (αGa); _L: Sn 0_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 61 |  |
-| Phase composition |  | 301.05 | other: L + (αGa); _L: Sn 0 (basis unresolved)_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 4, row 10 |  |
-| Phase composition |  | 301.25 | other: L + (αGa); _L: Sn 0_ | experimental | [1] Anderson 1992; _cites ref. 74Shu1_ | Table 2, p. 3, row 81 |  |
-| Phase composition |  | 301.25 | other: L + (αGa); _L: Ga 0.99985, Sn 1.500e-4_ | experimental | [1] Anderson 1992; _cites Delcroix 1963_ [doi](https://doi.org/10.1051/jphysrad:0196300240101700) | Table 2, p. 3, row 13 |  |
-| Phase composition |  | 301.25 | other: L + (αGa); _L: Sn 0 (basis unresolved)_ | experimental | [1] Anderson 1992; _cites ref. 74Shu1_ | Table 2, p. 4, row 29 |  |
-| Phase composition |  | 301.55 | other: L + (Sn); _L: Sn 1_ | experimental | [1] Anderson 1992; _cites ref. 74Shu1_ | Table 2, p. 3, row 78 |  |
-| Phase composition |  | 301.55 | other: L + (Sn); _L: Sn 1 (basis unresolved)_ | experimental | [1] Anderson 1992; _cites ref. 74Shu1_ | Table 2, p. 4, row 26 |  |
-| Phase composition |  | 302.05 | other: L + (αGa); _L: Sn 0 (basis unresolved)_ | experimental | [1] Anderson 1992; _cites ref. 74Shu1_ | Table 2, p. 4, row 28 |  |
-| Phase composition |  | 302.05 | other: L + (αGa); _L: Sn 0_ | experimental | [1] Anderson 1992; _cites ref. 74Shu1_ | Table 2, p. 3, row 80 |  |
-| Phase composition |  | 302.35 | other: L + (αGa); _L: Ga 0.99991, Sn 9.000e-5_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 59 |  |
-| Phase composition |  | 302.35 | other: L + (αGa); _L: Sn 0 (basis unresolved)_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 4, row 7 |  |
-| Phase composition |  | 302.65 | other: L + (αGa); _L: Sn 0 (basis unresolved)_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 4, row 8 |  |
-| Phase composition |  | 302.65 | other: L + (αGa); _L: Sn 0_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 60 |  |
-| Phase composition |  | 303.55 | other: L + (Sn); _L: Ga 0.99909, Sn 9.100e-4_ | experimental | [1] Anderson 1992; _cites Delcroix 1963_ [doi](https://doi.org/10.1051/jphysrad:0196300240101700) | Table 2, p. 3, row 9 |  |
-| Phase composition |  | 305.25 | other: L + (Sn); _L: Sn 1_ | experimental | [1] Anderson 1992; _cites ref. 74Shu1_ | Table 2, p. 3, row 79 |  |
-| Phase composition |  | 305.25 | other: L + (Sn); _L: Sn 1 (basis unresolved)_ | experimental | [1] Anderson 1992; _cites ref. 74Shu1_ | Table 2, p. 4, row 27 |  |
-| Phase composition |  | 305.35 | other: L + (Sn); _L: Ga 0.99787, Sn 0.00213_ | experimental | [1] Anderson 1992; _cites ref. 32Kro_ | Table 2, p. 3, row 3 |  |
-| Phase composition |  | 306.15 | other: L + (Sn); _L: Ga 0.99875, Sn 0.00125_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 32 |  |
-| Phase composition |  | 314.85 | other: L + (Sn); _L: Ga 0.99885, Sn 0.00115_ | experimental | [1] Anderson 1992; _cites Delcroix 1963_ [doi](https://doi.org/10.1051/jphysrad:0196300240101700) | Table 2, p. 3, row 10 |  |
-| Phase composition |  | 316.15 | other: L + (Sn); _L: Ga 0.99862, Sn 0.00138_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 33 |  |
-| Phase composition |  | 321.15 | other: L + (Sn); _L: Ga 0.99851, Sn 0.00149_ | experimental | [1] Anderson 1992; _cites ref. 32Pus_ | Table 2, p. 3, row 7 |  |
-| Phase composition |  | 322.05 | other: L + (Sn); _L: Ga 0.9987, Sn 0.0013_ | experimental | [1] Anderson 1992; _cites Delcroix 1963_ [doi](https://doi.org/10.1051/jphysrad:0196300240101700) | Table 2, p. 3, row 11 |  |
-| Phase composition |  | 325.15 | other: L + (Sn); _L: Ga 0.99835, Sn 0.00165_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 34 |  |
-| Phase composition |  | 331.15 | other: L + (Sn); _L: Ga 0.9982, Sn 0.0018_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 35 |  |
-| Phase composition |  | 332.95 | other: L + (Sn); _L: Ga 0.99843, Sn 0.00157_ | experimental | [1] Anderson 1992; _cites Delcroix 1963_ [doi](https://doi.org/10.1051/jphysrad:0196300240101700) | Table 2, p. 3, row 12 |  |
-| Phase composition |  | 336.15 | other: L + (Sn); _L: Ga 0.998, Sn 0.002_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 36 |  |
-| Phase composition |  | 338.25 | other: L + (Sn); _L: Sn 1 (basis unresolved)_ | experimental | [1] Anderson 1992; _cites Trebukhov 1985_ | Table 2, p. 4, row 45 |  |
-| Phase composition |  | 338.25 | other: L + (Sn); _L: Ga 0.998, Sn 0.002_ | experimental | [1] Anderson 1992; _cites Trebukhov 1985_ | Table 2, p. 3, row 97 |  |
-| Phase composition |  | 345.15 | other: L + (Sn); _L: Ga 0.99762, Sn 0.00238_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 37 |  |
-| Phase composition |  | 352.15 | other: L + (Sn); _L: Ga 0.9974, Sn 0.0026_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 38 |  |
-| Phase composition |  | 357.15 | other: L + (Sn); _L: Ga 0.99715, Sn 0.00285_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 39 |  |
-| Phase composition |  | 365.15 | other: L + (Sn); _L: Ga 0.99698, Sn 0.00302_ | experimental | [1] Anderson 1992; _cites ref. 32Pus_ | Table 2, p. 3, row 6 |  |
-| Phase composition |  | 366.15 | other: L + (Sn); _L: Ga 0.9969, Sn 0.0031_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 40 |  |
-| Phase composition |  | 366.25 | other: L + (Sn); _L: Sn 1_ | experimental | [1] Anderson 1992; _cites Trebukhov 1985_ | Table 2, p. 3, row 96 |  |
-| Phase composition |  | 366.25 | other: L + (Sn); _L: Sn 1 (basis unresolved)_ | experimental | [1] Anderson 1992; _cites Trebukhov 1985_ | Table 2, p. 4, row 44 |  |
-| Phase composition |  | 373.15 | other: L + (Sn); _L: Ga 0.99667, Sn 0.00333_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 41 |  |
-| Phase composition |  | 376.15 | other: L + (Sn); _L: Ga 0.99645, Sn 0.00355_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 42 |  |
-| Phase composition |  | 383.15 | other: L + (Sn); _L: Ga 0.99625, Sn 0.00375_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 43 |  |
-| Phase composition |  | 386.25 | other: L + (Sn); _L: Sn 1 (basis unresolved)_ | experimental | [1] Anderson 1992; _cites Trebukhov 1985_ | Table 2, p. 4, row 43 |  |
-| Phase composition |  | 386.25 | other: L + (Sn); _L: Sn 1_ | experimental | [1] Anderson 1992; _cites Trebukhov 1985_ | Table 2, p. 3, row 95 |  |
-| Phase composition |  | 389.15 | other: L + (Sn); _L: Ga 0.9958, Sn 0.0042_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 44 |  |
-| Phase composition |  | 396.15 | other: L + (Sn); _L: Ga 0.99545, Sn 0.00455_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 45 |  |
-| Phase composition |  | 403.25 | other: L + (Sn); _L: Ga 0.995, Sn 0.005_ | experimental | [1] Anderson 1992; _cites Trebukhov 1985_ | Table 2, p. 3, row 94 |  |
-| Phase composition |  | 403.25 | other: L + (Sn); _L: Sn 1 (basis unresolved)_ | experimental | [1] Anderson 1992; _cites Trebukhov 1985_ | Table 2, p. 4, row 42 |  |
-| Phase composition |  | 405.15 | other: L + (Sn); _L: Ga 0.99495, Sn 0.00505_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 46 |  |
-| Phase composition |  | 413.15 | other: L + (Sn); _L: Ga 0.9945, Sn 0.0055_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 47 |  |
-| Phase composition |  | 414.15 | other: L + (Sn); _L: Ga 0.995, Sn 0.005_ | experimental | [1] Anderson 1992; _cites ref. 32Pus_ | Table 2, p. 3, row 5 |  |
-| Phase composition |  | 421.15 | other: L + (Sn); _L: Ga 0.99412, Sn 0.00588_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 48 |  |
-| Phase composition |  | 421.25 | other: L + (Sn); _L: Sn 1_ | experimental | [1] Anderson 1992; _cites Trebukhov 1985_ | Table 2, p. 3, row 93 |  |
-| Phase composition |  | 421.25 | other: L + (Sn); _L: Sn 1 (basis unresolved)_ | experimental | [1] Anderson 1992; _cites Trebukhov 1985_ | Table 2, p. 4, row 41 |  |
-| Phase composition |  | 425.15 | other: L + (Sn); _L: Ga 0.9938, Sn 0.0062_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 49 |  |
-| Phase composition |  | 427.15 | other: L + (Sn); _L: Ga 0.99355, Sn 0.00645_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 50 |  |
-| Phase composition |  | 432.15 | other: L + (Sn); _L: Ga 0.9935, Sn 0.0065_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 51 |  |
-| Phase composition |  | 440.15 | other: L + (Sn); _L: Ga 0.99295, Sn 0.00705_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 52 |  |
-| Phase composition |  | 441.25 | other: L + (Sn); _L: Sn 1 (basis unresolved)_ | experimental | [1] Anderson 1992; _cites Trebukhov 1985_ | Table 2, p. 4, row 40 |  |
-| Phase composition |  | 441.25 | other: L + (Sn); _L: Sn 1_ | experimental | [1] Anderson 1992; _cites Trebukhov 1985_ | Table 2, p. 3, row 92 |  |
-| Phase composition |  | 454.15 | other: L + (Sn); _L: Sn 1_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 53 |  |
-| Phase composition |  | 459.25 | other: L + (Sn); _L: Sn 1 (basis unresolved)_ | experimental | [1] Anderson 1992; _cites Trebukhov 1985_ | Table 2, p. 4, row 39 |  |
-| Phase composition |  | 459.25 | other: L + (Sn); _L: Sn 1_ | experimental | [1] Anderson 1992; _cites Trebukhov 1985_ | Table 2, p. 3, row 91 |  |
-| Phase composition |  | 463.15 | other: L + (Sn); _L: Sn 1_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 54 |  |
-| Phase composition |  | 474.15 | other: L + (Sn); _L: Ga 0.99165, Sn 0.00835_ | experimental | [1] Anderson 1992; _cites ref. 32Pus_ | Table 2, p. 3, row 4 |  |
-| Phase composition |  | 483.25 | other: L + (Sn); _L: Sn 1_ | experimental | [1] Anderson 1992; _cites Trebukhov 1985_ | Table 2, p. 3, row 90 |  |
-| Phase composition |  | 483.25 | other: L + (Sn); _L: Sn 1 (basis unresolved)_ | experimental | [1] Anderson 1992; _cites Trebukhov 1985_ | Table 2, p. 4, row 38 |  |
-| Phase composition |  | 486.15 | other: L + (Sn); _L: Sn 1_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 55 |  |
-| Phase composition |  | 493.15 | other: L + (Sn); _L: Sn 1_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 56 |  |
-| Phase composition |  | 499.15 | other: L + (Sn); _L: Sn 1_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 57 |  |
-| Phase composition |  | 503.15 | other: L + (Sn); _L: Sn 1_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 58 |  |
+| Phase composition |  | 251.25 | other: Metastable L + (αGa); _L: Ga 0.99973, Sn 2.700e-4_ | experimental | [1] Anderson 1992; _cites Delcroix 1963_ [doi](https://doi.org/10.1051/jphysrad:0196300240101700) | Table 2, p. 3, row 31; `ORC-F6SDANDJJY` |  |
+| Phase composition |  | 251.75 | other: Metastable L + (αGa); _L: Ga 0.99977, Sn 2.300e-4_ | experimental | [1] Anderson 1992; _cites Delcroix 1963_ [doi](https://doi.org/10.1051/jphysrad:0196300240101700) | Table 2, p. 3, row 30; `ORC-UJRYVPUOMY` |  |
+| Phase composition |  | 252.35 | other: Metastable L + (αGa); _L: Ga 0.99979, Sn 2.100e-4_ | experimental | [1] Anderson 1992; _cites Delcroix 1963_ [doi](https://doi.org/10.1051/jphysrad:0196300240101700) | Table 2, p. 3, row 29; `ORC-IW5KWFEW7O` |  |
+| Phase composition |  | 253.65 | other: Metastable L + (αGa); _L: Ga 0.99985, Sn 1.500e-4_ | experimental | [1] Anderson 1992; _cites Delcroix 1963_ [doi](https://doi.org/10.1051/jphysrad:0196300240101700) | Table 2, p. 3, row 28; `ORC-EBNBHQXQE3` |  |
+| Phase composition |  | 254.75 | other: Metastable L + (αGa); _L: Ga 0.99991, Sn 9.000e-5_ | experimental | [1] Anderson 1992; _cites Delcroix 1963_ [doi](https://doi.org/10.1051/jphysrad:0196300240101700) | Table 2, p. 3, row 27; `ORC-6K3QBVA4HW` |  |
+| Phase composition |  | 255.55 | other: Metastable L + (αGa); _L: Ga 0.99994, Sn 6.000e-5_ | experimental | [1] Anderson 1992; _cites Delcroix 1963_ [doi](https://doi.org/10.1051/jphysrad:0196300240101700) | Table 2, p. 3, row 26; `ORC-XKMT5GPSE7` |  |
+| Phase composition |  | 256.35 | other: Metastable L + (αGa); _L: Ga 0.99997, Sn 3.000e-5_ | experimental | [1] Anderson 1992; _cites Delcroix 1963_ [doi](https://doi.org/10.1051/jphysrad:0196300240101700) | Table 2, p. 3, row 25; `ORC-MVGWPTTQLX` |  |
+| Phase composition |  | 280.85 | other: Metastable L + (Sn); _L: Ga 0.9994, Sn 6.000e-4_ | experimental | [1] Anderson 1992; _cites Delcroix 1963_ [doi](https://doi.org/10.1051/jphysrad:0196300240101700) | Table 2, p. 3, row 19; `ORC-NM3HGTM2DA` |  |
+| Phase composition |  | 282.35 | other: Metastable L + (Sn); _L: Ga 0.9994, Sn 6.000e-4_ | experimental | [1] Anderson 1992; _cites Delcroix 1963_ [doi](https://doi.org/10.1051/jphysrad:0196300240101700) | Table 2, p. 3, row 20; `ORC-VLK3JFKMMT` |  |
+| Phase composition |  | 288.35 | other: L + (Sn); _L: Ga 0.99916, Sn 8.400e-4_ | experimental | [1] Anderson 1992; _cites ref. 32Kro_ | Table 2, p. 3, row 1; `ORC-MMVG4ZVOLT` |  |
+| Phase composition |  | 289.65 | other: Metastable L + (Sn); _L: Ga 0.99933, Sn 6.700e-4_ | experimental | [1] Anderson 1992; _cites Delcroix 1963_ [doi](https://doi.org/10.1051/jphysrad:0196300240101700) | Table 2, p. 3, row 21; `ORC-QMU2IVHBUZ` |  |
+| Phase composition |  | 290.65 | other: Metastable L + (Sn); _L: Ga 0.99933, Sn 6.700e-4_ | experimental | [1] Anderson 1992; _cites Delcroix 1963_ [doi](https://doi.org/10.1051/jphysrad:0196300240101700) | Table 2, p. 3, row 22; `ORC-ZA2QGJGERR` |  |
+| Phase composition |  | 290.85 | other: L + (Sn); _L: Ga 0.99858, Sn 0.00142_ | experimental | [1] Anderson 1992; _cites ref. 32Kro_ | Table 2, p. 3, row 2; `ORC-K3ACVZTWNS` |  |
+| Phase composition |  | 291.45 | other: Metastable L + (Sn); _L: Ga 0.99925, Sn 7.500e-4_ | experimental | [1] Anderson 1992; _cites Delcroix 1963_ [doi](https://doi.org/10.1051/jphysrad:0196300240101700) | Table 2, p. 3, row 23; `ORC-QDYBIJZXAK` |  |
+| Phase composition |  | 292.85 | other: Metastable L + (Sn); _L: Ga 0.99926, Sn 7.400e-4_ | experimental | [1] Anderson 1992; _cites Delcroix 1963_ [doi](https://doi.org/10.1051/jphysrad:0196300240101700) | Table 2, p. 3, row 24; `ORC-436YUDCPRH` |  |
+| Phase composition |  | 293.85 | other: L + (Sn); _L: Sn 1 (basis unresolved)_ | experimental | [1] Anderson 1992; _cites ref. 74Shu1_ | Table 2, p. 4, row 24; `ORC-743E3OAFBG` |  |
+| Phase composition |  | 293.85 | other: L + (Sn); _L: Sn 1_ | experimental | [1] Anderson 1992; _cites ref. 74Shu1_ | Table 2, p. 3, row 76; `ORC-VKUGLBC6K4` |  |
+| Phase composition |  | 294.75 | other: L + (αGa); _L: Ga 0.99926, Sn 7.400e-4_ | experimental | [1] Anderson 1992; _cites Delcroix 1963_ [doi](https://doi.org/10.1051/jphysrad:0196300240101700) | Table 2, p. 3, row 18; `ORC-ALM74L4WHY` |  |
+| Phase composition |  | 295.35 | other: L + (αGa); _L: Ga 0.99926, Sn 7.400e-4_ | experimental | [1] Anderson 1992; _cites ref. 74Shu2_ | Table 2, p. 3, row 89; `ORC-MNMXAPSTTX` |  |
+| Phase composition |  | 295.35 | other: L + (αGa); _L: Sn 0 (basis unresolved)_ | experimental | [1] Anderson 1992; _cites ref. 74Shu2_ | Table 2, p. 4, row 37; `ORC-ZQLH32MYFY` |  |
+| Phase composition |  | 295.45 | other: L + (αGa); _L: Ga 0.99933, Sn 6.700e-4_ | experimental | [1] Anderson 1992; _cites Delcroix 1963_ [doi](https://doi.org/10.1051/jphysrad:0196300240101700) | Table 2, p. 3, row 17; `ORC-NT3XKKECVV` |  |
+| Phase composition |  | 295.75 | other: L + (αGa); _L: Sn 0_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 68; `ORC-6YBPMQS6FA` |  |
+| Phase composition |  | 295.75 | other: L + (αGa); _L: Sn 0 (basis unresolved)_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 4, row 16; `ORC-APPRJUSJAT` |  |
+| Phase composition |  | 295.95 | other: L + (αGa); _L: Sn 0 (basis unresolved)_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 4, row 17; `ORC-I3UFKF6MWZ` |  |
+| Phase composition |  | 295.95 | other: L + (αGa); _L: Sn 0_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 69; `ORC-SQZ66NQ6QN` |  |
+| Phase composition |  | 296.35 | other: L + (αGa); _L: Ga 0.99941, Sn 5.900e-4_ | experimental | [1] Anderson 1992; _cites Delcroix 1963_ [doi](https://doi.org/10.1051/jphysrad:0196300240101700) | Table 2, p. 3, row 16; `ORC-T7FD3BPHFK` |  |
+| Phase composition |  | 296.65 | other: L + (αGa); _L: Sn 0 (basis unresolved)_ | experimental | [1] Anderson 1992; _cites ref. 74Shu1_ | Table 2, p. 4, row 35; `ORC-HLSKFP6KZO` |  |
+| Phase composition |  | 296.65 | other: L + (αGa); _L: Sn 0_ | experimental | [1] Anderson 1992; _cites ref. 74Shu1_ | Table 2, p. 3, row 87; `ORC-YY4Z4P5M2E` |  |
+| Phase composition |  | 296.75 | other: L + (αGa); _L: Sn 0 (basis unresolved)_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 4, row 15; `ORC-HWVEPQWWVR` |  |
+| Phase composition |  | 296.75 | other: L + (αGa); _L: Sn 0_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 67; `ORC-L53QBXRVNF` |  |
+| Phase composition |  | 296.95 | other: L + (Sn); _L: Sn 1 (basis unresolved)_ | experimental | [1] Anderson 1992; _cites ref. 74Shu2_ | Table 2, p. 4, row 36; `ORC-HZVXBB5HAS` |  |
+| Phase composition |  | 296.95 | other: L + (Sn); _L: Sn 1_ | experimental | [1] Anderson 1992; _cites ref. 74Shu2_ | Table 2, p. 3, row 88; `ORC-KUB5NTD3IF` |  |
+| Phase composition |  | 297.35 | other: L + (αGa); _L: Sn 0_ | experimental | [1] Anderson 1992; _cites ref. 74Shu1_ | Table 2, p. 3, row 86; `ORC-OKJSRXP3NI` |  |
+| Phase composition |  | 297.35 | other: L + (αGa); _L: Sn 0 (basis unresolved)_ | experimental | [1] Anderson 1992; _cites ref. 74Shu1_ | Table 2, p. 4, row 34; `ORC-VFZ2O653B5` |  |
+| Phase composition |  | 297.55 | other: L + (αGa); _L: Ga 0.99945, Sn 5.500e-4_ | experimental | [1] Anderson 1992; _cites Delcroix 1963_ [doi](https://doi.org/10.1051/jphysrad:0196300240101700) | Table 2, p. 3, row 15; `ORC-H77SMIVUEG` |  |
+| Phase composition |  | 297.65 | other: L + (αGa); _L: Sn 0_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 66; `ORC-7AXSL3CMXE` |  |
+| Phase composition |  | 297.65 | other: L + (αGa); _L: Sn 0 (basis unresolved)_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 4, row 14; `ORC-JSPQE7HEU2` |  |
+| Phase composition |  | 298.45 | other: L + (αGa); _L: Sn 0_ | experimental | [1] Anderson 1992; _cites ref. 74Shu1_ | Table 2, p. 3, row 85; `ORC-FAWO7ETIOQ` |  |
+| Phase composition |  | 298.45 | other: L + (αGa); _L: Sn 0 (basis unresolved)_ | experimental | [1] Anderson 1992; _cites ref. 74Shu1_ | Table 2, p. 4, row 33; `ORC-XITMGX65TR` |  |
+| Phase composition |  | 298.95 | other: L + (αGa); _L: Sn 0 (basis unresolved)_ | experimental | [1] Anderson 1992; _cites ref. 74Shu1_ | Table 2, p. 4, row 32; `ORC-4UDFXMFVYE` |  |
+| Phase composition |  | 298.95 | other: L + (αGa); _L: Sn 0_ | experimental | [1] Anderson 1992; _cites ref. 74Shu1_ | Table 2, p. 3, row 84; `ORC-HLZASKOPBJ` |  |
+| Phase composition |  | 299.15 | other: L + (Sn); _L: Ga 0.9912, Sn 0.0088_ | experimental | [1] Anderson 1992; _cites Delcroix 1963_ [doi](https://doi.org/10.1051/jphysrad:0196300240101700) | Table 2, p. 3, row 8; `ORC-M6REN6U3U5` |  |
+| Phase composition |  | 299.45 | other: L + (αGa); _L: Sn 0 (basis unresolved)_ | experimental | [1] Anderson 1992; _cites ref. 74Shu1_ | Table 2, p. 4, row 31; `ORC-43JF37AKPB` |  |
+| Phase composition |  | 299.45 | other: L + (αGa); _L: Sn 0_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 64; `ORC-FSQQF2YFCS` |  |
+| Phase composition |  | 299.45 | other: L + (αGa); _L: Sn 0 (basis unresolved)_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 4, row 12; `ORC-RLDOFC3IQZ` |  |
+| Phase composition |  | 299.45 | other: L + (αGa); _L: Sn 0_ | experimental | [1] Anderson 1992; _cites ref. 74Shu1_ | Table 2, p. 3, row 83; `ORC-SILGW3M2XO` |  |
+| Phase composition |  | 299.55 | other: L + (Sn); _L: Sn 1 (basis unresolved)_ | experimental | [1] Anderson 1992; _cites ref. 74Shu1_ | Table 2, p. 4, row 25; `ORC-CRB5AC5RSF` |  |
+| Phase composition |  | 299.55 | other: L + (Sn); _L: Sn 1_ | experimental | [1] Anderson 1992; _cites ref. 74Shu1_ | Table 2, p. 3, row 77; `ORC-R2Y7DY5IHI` |  |
+| Phase composition |  | 300.25 | other: L + (αGa); _L: Sn 0 (basis unresolved)_ | experimental | [1] Anderson 1992; _cites ref. 74Shu1_ | Table 2, p. 4, row 30; `ORC-4R3NYNGSDZ` |  |
+| Phase composition |  | 300.25 | other: L + (αGa); _L: Sn 0_ | experimental | [1] Anderson 1992; _cites ref. 74Shu1_ | Table 2, p. 3, row 82; `ORC-QNXLJAZ6KD` |  |
+| Phase composition |  | 300.55 | other: L + (αGa); _L: Ga 0.99977, Sn 2.300e-4_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 63; `ORC-INPCU42EI5` |  |
+| Phase composition |  | 300.55 | other: L + (αGa); _L: Ga 0.99977, Sn 2.300e-4_ | experimental | [1] Anderson 1992; _cites Delcroix 1963_ [doi](https://doi.org/10.1051/jphysrad:0196300240101700) | Table 2, p. 3, row 14; `ORC-LSZNX2X23T` |  |
+| Phase composition |  | 300.55 | other: L + (αGa); _L: Sn 0 (basis unresolved)_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 4, row 11; `ORC-WA4J65A6RZ` |  |
+| Phase composition |  | 300.65 | other: L + (αGa); _L: Sn 0 (basis unresolved)_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 4, row 13; `ORC-JLHH7ZFP4A` |  |
+| Phase composition |  | 300.65 | other: L + (αGa); _L: Sn 0_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 65; `ORC-Y2DFDGXPKA` |  |
+| Phase composition |  | 300.75 | other: L + (Sn); _L: Sn 1_ | experimental | [1] Anderson 1992; _cites Trebukhov 1985_ | Table 2, p. 3, row 98; `ORC-DITQPASBTD` |  |
+| Phase composition |  | 300.75 | other: L + (Sn); _L: Sn 1 (basis unresolved)_ | experimental | [1] Anderson 1992; _cites Trebukhov 1985_ | Table 2, p. 4, row 46; `ORC-ZWPXKGNTJF` |  |
+| Phase composition |  | 301.05 | other: L + (αGa); _L: Sn 0_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 61; `ORC-66TWZZPIZQ` |  |
+| Phase composition |  | 301.05 | other: L + (αGa); _L: Sn 0 (basis unresolved)_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 4, row 10; `ORC-AU2SFF6RNP` |  |
+| Phase composition |  | 301.25 | other: L + (αGa); _L: Sn 0_ | experimental | [1] Anderson 1992; _cites ref. 74Shu1_ | Table 2, p. 3, row 81; `ORC-2HTD7W3DHH` |  |
+| Phase composition |  | 301.25 | other: L + (αGa); _L: Ga 0.99985, Sn 1.500e-4_ | experimental | [1] Anderson 1992; _cites Delcroix 1963_ [doi](https://doi.org/10.1051/jphysrad:0196300240101700) | Table 2, p. 3, row 13; `ORC-HCE5L56NI4` |  |
+| Phase composition |  | 301.25 | other: L + (αGa); _L: Sn 0 (basis unresolved)_ | experimental | [1] Anderson 1992; _cites ref. 74Shu1_ | Table 2, p. 4, row 29; `ORC-LQCZ63OTMQ` |  |
+| Phase composition |  | 301.55 | other: L + (Sn); _L: Sn 1_ | experimental | [1] Anderson 1992; _cites ref. 74Shu1_ | Table 2, p. 3, row 78; `ORC-D3W7P5NVT6` |  |
+| Phase composition |  | 301.55 | other: L + (Sn); _L: Sn 1 (basis unresolved)_ | experimental | [1] Anderson 1992; _cites ref. 74Shu1_ | Table 2, p. 4, row 26; `ORC-ZMYZGPRELV` |  |
+| Phase composition |  | 302.05 | other: L + (αGa); _L: Sn 0 (basis unresolved)_ | experimental | [1] Anderson 1992; _cites ref. 74Shu1_ | Table 2, p. 4, row 28; `ORC-7AQVDWS3HK` |  |
+| Phase composition |  | 302.05 | other: L + (αGa); _L: Sn 0_ | experimental | [1] Anderson 1992; _cites ref. 74Shu1_ | Table 2, p. 3, row 80; `ORC-I77YF5ORCK` |  |
+| Phase composition |  | 302.35 | other: L + (αGa); _L: Ga 0.99991, Sn 9.000e-5_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 59; `ORC-7L2CIUHUND` |  |
+| Phase composition |  | 302.35 | other: L + (αGa); _L: Sn 0 (basis unresolved)_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 4, row 7; `ORC-TYGITQR25G` |  |
+| Phase composition |  | 302.65 | other: L + (αGa); _L: Sn 0 (basis unresolved)_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 4, row 8; `ORC-7GUU6NPSHX` |  |
+| Phase composition |  | 302.65 | other: L + (αGa); _L: Sn 0_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 60; `ORC-H5ZPXD3S2T` |  |
+| Phase composition |  | 303.55 | other: L + (Sn); _L: Ga 0.99909, Sn 9.100e-4_ | experimental | [1] Anderson 1992; _cites Delcroix 1963_ [doi](https://doi.org/10.1051/jphysrad:0196300240101700) | Table 2, p. 3, row 9; `ORC-DVIGAP27NR` |  |
+| Phase composition |  | 305.25 | other: L + (Sn); _L: Sn 1_ | experimental | [1] Anderson 1992; _cites ref. 74Shu1_ | Table 2, p. 3, row 79; `ORC-JFVWOWNHTZ` |  |
+| Phase composition |  | 305.25 | other: L + (Sn); _L: Sn 1 (basis unresolved)_ | experimental | [1] Anderson 1992; _cites ref. 74Shu1_ | Table 2, p. 4, row 27; `ORC-TM4K2L2RHI` |  |
+| Phase composition |  | 305.35 | other: L + (Sn); _L: Ga 0.99787, Sn 0.00213_ | experimental | [1] Anderson 1992; _cites ref. 32Kro_ | Table 2, p. 3, row 3; `ORC-YIYUHVFITA` |  |
+| Phase composition |  | 306.15 | other: L + (Sn); _L: Ga 0.99875, Sn 0.00125_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 32; `ORC-4HIESEWN52` |  |
+| Phase composition |  | 314.85 | other: L + (Sn); _L: Ga 0.99885, Sn 0.00115_ | experimental | [1] Anderson 1992; _cites Delcroix 1963_ [doi](https://doi.org/10.1051/jphysrad:0196300240101700) | Table 2, p. 3, row 10; `ORC-JUB4DAYBVP` |  |
+| Phase composition |  | 316.15 | other: L + (Sn); _L: Ga 0.99862, Sn 0.00138_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 33; `ORC-HEHHQESRBX` |  |
+| Phase composition |  | 321.15 | other: L + (Sn); _L: Ga 0.99851, Sn 0.00149_ | experimental | [1] Anderson 1992; _cites ref. 32Pus_ | Table 2, p. 3, row 7; `ORC-EHLBEHY2MT` |  |
+| Phase composition |  | 322.05 | other: L + (Sn); _L: Ga 0.9987, Sn 0.0013_ | experimental | [1] Anderson 1992; _cites Delcroix 1963_ [doi](https://doi.org/10.1051/jphysrad:0196300240101700) | Table 2, p. 3, row 11; `ORC-24WMJEMBUK` |  |
+| Phase composition |  | 325.15 | other: L + (Sn); _L: Ga 0.99835, Sn 0.00165_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 34; `ORC-W3VXLRYB3X` |  |
+| Phase composition |  | 331.15 | other: L + (Sn); _L: Ga 0.9982, Sn 0.0018_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 35; `ORC-WKY46WGG4Y` |  |
+| Phase composition |  | 332.95 | other: L + (Sn); _L: Ga 0.99843, Sn 0.00157_ | experimental | [1] Anderson 1992; _cites Delcroix 1963_ [doi](https://doi.org/10.1051/jphysrad:0196300240101700) | Table 2, p. 3, row 12; `ORC-4BENLYP5OE` |  |
+| Phase composition |  | 336.15 | other: L + (Sn); _L: Ga 0.998, Sn 0.002_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 36; `ORC-YBS33TZKBV` |  |
+| Phase composition |  | 338.25 | other: L + (Sn); _L: Sn 1 (basis unresolved)_ | experimental | [1] Anderson 1992; _cites Trebukhov 1985_ | Table 2, p. 4, row 45; `ORC-7HKJ2C4IA6` |  |
+| Phase composition |  | 338.25 | other: L + (Sn); _L: Ga 0.998, Sn 0.002_ | experimental | [1] Anderson 1992; _cites Trebukhov 1985_ | Table 2, p. 3, row 97; `ORC-MYGGF2TXJS` |  |
+| Phase composition |  | 345.15 | other: L + (Sn); _L: Ga 0.99762, Sn 0.00238_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 37; `ORC-PBUTP6RQIJ` |  |
+| Phase composition |  | 352.15 | other: L + (Sn); _L: Ga 0.9974, Sn 0.0026_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 38; `ORC-AW5O6AGCCC` |  |
+| Phase composition |  | 357.15 | other: L + (Sn); _L: Ga 0.99715, Sn 0.00285_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 39; `ORC-CF6JVV7ZU2` |  |
+| Phase composition |  | 365.15 | other: L + (Sn); _L: Ga 0.99698, Sn 0.00302_ | experimental | [1] Anderson 1992; _cites ref. 32Pus_ | Table 2, p. 3, row 6; `ORC-N33JBKQYAC` |  |
+| Phase composition |  | 366.15 | other: L + (Sn); _L: Ga 0.9969, Sn 0.0031_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 40; `ORC-QRWMGPOQIN` |  |
+| Phase composition |  | 366.25 | other: L + (Sn); _L: Sn 1_ | experimental | [1] Anderson 1992; _cites Trebukhov 1985_ | Table 2, p. 3, row 96; `ORC-6UHGMBURXU` |  |
+| Phase composition |  | 366.25 | other: L + (Sn); _L: Sn 1 (basis unresolved)_ | experimental | [1] Anderson 1992; _cites Trebukhov 1985_ | Table 2, p. 4, row 44; `ORC-OWCESNQSPV` |  |
+| Phase composition |  | 373.15 | other: L + (Sn); _L: Ga 0.99667, Sn 0.00333_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 41; `ORC-DV4WY57VX7` |  |
+| Phase composition |  | 376.15 | other: L + (Sn); _L: Ga 0.99645, Sn 0.00355_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 42; `ORC-CDLBEDMBKG` |  |
+| Phase composition |  | 383.15 | other: L + (Sn); _L: Ga 0.99625, Sn 0.00375_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 43; `ORC-GRWUEX3CAF` |  |
+| Phase composition |  | 386.25 | other: L + (Sn); _L: Sn 1 (basis unresolved)_ | experimental | [1] Anderson 1992; _cites Trebukhov 1985_ | Table 2, p. 4, row 43; `ORC-2I4Q4MIZZB` |  |
+| Phase composition |  | 386.25 | other: L + (Sn); _L: Sn 1_ | experimental | [1] Anderson 1992; _cites Trebukhov 1985_ | Table 2, p. 3, row 95; `ORC-UN77ERUO3L` |  |
+| Phase composition |  | 389.15 | other: L + (Sn); _L: Ga 0.9958, Sn 0.0042_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 44; `ORC-RQML452MCS` |  |
+| Phase composition |  | 396.15 | other: L + (Sn); _L: Ga 0.99545, Sn 0.00455_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 45; `ORC-BBYKZ2NPEL` |  |
+| Phase composition |  | 403.25 | other: L + (Sn); _L: Ga 0.995, Sn 0.005_ | experimental | [1] Anderson 1992; _cites Trebukhov 1985_ | Table 2, p. 3, row 94; `ORC-H7O7LU2SSN` |  |
+| Phase composition |  | 403.25 | other: L + (Sn); _L: Sn 1 (basis unresolved)_ | experimental | [1] Anderson 1992; _cites Trebukhov 1985_ | Table 2, p. 4, row 42; `ORC-VE5O34AUSW` |  |
+| Phase composition |  | 405.15 | other: L + (Sn); _L: Ga 0.99495, Sn 0.00505_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 46; `ORC-YCEDM3PFST` |  |
+| Phase composition |  | 413.15 | other: L + (Sn); _L: Ga 0.9945, Sn 0.0055_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 47; `ORC-ZHQPMCXUW7` |  |
+| Phase composition |  | 414.15 | other: L + (Sn); _L: Ga 0.995, Sn 0.005_ | experimental | [1] Anderson 1992; _cites ref. 32Pus_ | Table 2, p. 3, row 5; `ORC-G3IQNTGPH7` |  |
+| Phase composition |  | 421.15 | other: L + (Sn); _L: Ga 0.99412, Sn 0.00588_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 48; `ORC-5EJOE4C4XM` |  |
+| Phase composition |  | 421.25 | other: L + (Sn); _L: Sn 1_ | experimental | [1] Anderson 1992; _cites Trebukhov 1985_ | Table 2, p. 3, row 93; `ORC-UKJTJBUYSU` |  |
+| Phase composition |  | 421.25 | other: L + (Sn); _L: Sn 1 (basis unresolved)_ | experimental | [1] Anderson 1992; _cites Trebukhov 1985_ | Table 2, p. 4, row 41; `ORC-XKMYOM46QT` |  |
+| Phase composition |  | 425.15 | other: L + (Sn); _L: Ga 0.9938, Sn 0.0062_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 49; `ORC-FUUP45RGEX` |  |
+| Phase composition |  | 427.15 | other: L + (Sn); _L: Ga 0.99355, Sn 0.00645_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 50; `ORC-25KYKAVDAG` |  |
+| Phase composition |  | 432.15 | other: L + (Sn); _L: Ga 0.9935, Sn 0.0065_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 51; `ORC-G5ENXQHC33` |  |
+| Phase composition |  | 440.15 | other: L + (Sn); _L: Ga 0.99295, Sn 0.00705_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 52; `ORC-LSJR4OYW4R` |  |
+| Phase composition |  | 441.25 | other: L + (Sn); _L: Sn 1 (basis unresolved)_ | experimental | [1] Anderson 1992; _cites Trebukhov 1985_ | Table 2, p. 4, row 40; `ORC-JMC4TTBL63` |  |
+| Phase composition |  | 441.25 | other: L + (Sn); _L: Sn 1_ | experimental | [1] Anderson 1992; _cites Trebukhov 1985_ | Table 2, p. 3, row 92; `ORC-K46IZWJGV3` |  |
+| Phase composition |  | 454.15 | other: L + (Sn); _L: Sn 1_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 53; `ORC-W5SUQOHWMN` |  |
+| Phase composition |  | 459.25 | other: L + (Sn); _L: Sn 1 (basis unresolved)_ | experimental | [1] Anderson 1992; _cites Trebukhov 1985_ | Table 2, p. 4, row 39; `ORC-3NTGBUXSJY` |  |
+| Phase composition |  | 459.25 | other: L + (Sn); _L: Sn 1_ | experimental | [1] Anderson 1992; _cites Trebukhov 1985_ | Table 2, p. 3, row 91; `ORC-4XNDYINBXE` |  |
+| Phase composition |  | 463.15 | other: L + (Sn); _L: Sn 1_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 54; `ORC-LIVKRZCLVW` |  |
+| Phase composition |  | 474.15 | other: L + (Sn); _L: Ga 0.99165, Sn 0.00835_ | experimental | [1] Anderson 1992; _cites ref. 32Pus_ | Table 2, p. 3, row 4; `ORC-ONO6ACULJU` |  |
+| Phase composition |  | 483.25 | other: L + (Sn); _L: Sn 1_ | experimental | [1] Anderson 1992; _cites Trebukhov 1985_ | Table 2, p. 3, row 90; `ORC-2TLM7VXWIZ` |  |
+| Phase composition |  | 483.25 | other: L + (Sn); _L: Sn 1 (basis unresolved)_ | experimental | [1] Anderson 1992; _cites Trebukhov 1985_ | Table 2, p. 4, row 38; `ORC-6Y477ICHIK` |  |
+| Phase composition |  | 486.15 | other: L + (Sn); _L: Sn 1_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 55; `ORC-6VWD3TMSUC` |  |
+| Phase composition |  | 493.15 | other: L + (Sn); _L: Sn 1_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 56; `ORC-X6M2A66ZGK` |  |
+| Phase composition |  | 499.15 | other: L + (Sn); _L: Sn 1_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 57; `ORC-BSAYTE35YJ` |  |
+| Phase composition |  | 503.15 | other: L + (Sn); _L: Sn 1_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 58; `ORC-NANKLSOI3Q` |  |
 
 ### Mixing / partial (18)
 
@@ -211,24 +211,24 @@ Table: Mixing / partial, Ga–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Partial enthalpy; _printed: Partial molar heat of solution_ | 2.03 kJ/mol (basis unstated) ± 0.125 | 513.15 | UNKNOWN | experimental | [1] Anderson 1992; _cites Cohen 1961_ | Table 5, p. 6, row 1 |  |
-| Partial enthalpy; _printed: Partial molar heat of solution_ | 2.03 kJ/mol (basis unstated) ± 0.125 | 513.15 | liquid Sn (infinite dilution); _alloy: Sn 1_ | experimental | [1] Anderson 1992; _cites Cohen 1961_ | Table 5, p. 6, row 1 |  |
-| Partial enthalpy; _printed: Partial molar heat of solution_ | 2.97 kJ/mol (basis unstated) ± 0.125 | 573.15 | UNKNOWN | experimental | [1] Anderson 1992; _cites Cohen 1961_ | Table 5, p. 6, row 2 |  |
-| Partial enthalpy; _printed: Partial molar heat of solution_ | 2.97 kJ/mol (basis unstated) ± 0.125 | 573.15 | liquid Sn (infinite dilution); _alloy: Sn 1_ | experimental | [1] Anderson 1992; _cites Cohen 1961_ | Table 5, p. 6, row 2 |  |
-| Partial enthalpy; _printed: Partial molar heat of solution_ | 2.815 kJ/mol (basis unstated) ± 0.08 | 598.15 | UNKNOWN | experimental | [1] Anderson 1992; _cites Boom 1974_ [doi](https://doi.org/10.1016/0036-9748%2874%2990345-7) | Table 5, p. 6, row 8 |  |
-| Partial enthalpy; _printed: Partial molar heat of solution_ | 2.815 kJ/mol (basis unstated) ± 0.08 | 598.15 | liquid Sn (infinite dilution); _alloy: Sn 1_ | experimental | [1] Anderson 1992; _cites Boom 1974_ [doi](https://doi.org/10.1016/0036-9748%2874%2990345-7) | Table 5, p. 6, row 8 |  |
-| Partial enthalpy; _printed: Partial molar heat of solution_ | 2.93 kJ/mol (basis unstated) ± 0.21 | 623.15 | UNKNOWN | experimental | [1] Anderson 1992; _cites Cohen 1961_ | Table 5, p. 6, row 3 |  |
-| Partial enthalpy; _printed: Partial molar heat of solution_ | 3.22 kJ/mol (basis unstated) ± 0.125 | 623.15 | UNKNOWN | experimental | [1] Anderson 1992; _cites Kleppa 1962_ [doi](https://doi.org/10.1016/0001-6160%2862%2990171-2) | Table 5, p. 6, row 4 |  |
-| Partial enthalpy; _printed: Partial molar heat of solution_ | 3.13 kJ/mol (basis unstated) | 623.15 | UNKNOWN | experimental | [1] Anderson 1992; _cites Kleppa 1962_ [doi](https://doi.org/10.1016/0001-6160%2862%2990171-2) | Table 5, p. 6, row 5 |  |
-| Partial enthalpy; _printed: Partial molar heat of solution_ | 2.93 kJ/mol (basis unstated) ± 0.21 | 623.15 | liquid Sn (infinite dilution); _alloy: Sn 1_ | experimental | [1] Anderson 1992; _cites Cohen 1961_ | Table 5, p. 6, row 3 |  |
-| Partial enthalpy; _printed: Partial molar heat of solution_ | 3.22 kJ/mol (basis unstated) ± 0.125 | 623.15 | liquid Sn (infinite dilution); _alloy: Sn 1_ | experimental | [1] Anderson 1992; _cites Kleppa 1962_ [doi](https://doi.org/10.1016/0001-6160%2862%2990171-2) | Table 5, p. 6, row 4 |  |
-| Partial enthalpy; _printed: Partial molar heat of solution_ | 3.13 kJ/mol (basis unstated) | 623.15 | liquid Sn (infinite dilution); _alloy: Sn 1_ | experimental | [1] Anderson 1992; _cites Kleppa 1962_ [doi](https://doi.org/10.1016/0001-6160%2862%2990171-2) | Table 5, p. 6, row 5 |  |
-| Partial enthalpy; _printed: Partial molar heat of solution_ | 3.01 kJ/mol (basis unstated) ± 0.375 | 700.15 | UNKNOWN | experimental | [1] Anderson 1992; _cites Vecher 1977_ | Table 5, p. 6, row 7 |  |
-| Partial enthalpy; _printed: Partial molar heat of solution_ | 3.01 kJ/mol (basis unstated) ± 0.375 | 700.15 | liquid Sn (infinite dilution); _alloy: Sn 1_ | experimental | [1] Anderson 1992; _cites Vecher 1977_ | Table 5, p. 6, row 7 |  |
-| Partial enthalpy; _printed: Partial molar heat of solution_ | 3.148 kJ/mol (basis unstated) | 743.15 | UNKNOWN | unspecified | [1] Anderson 1992 | Table 5, p. 6, row 9 |  |
-| Partial enthalpy; _printed: Partial molar heat of solution_ | 3.148 kJ/mol (basis unstated) | 743.15 | liquid Sn (infinite dilution); _alloy: Sn 1_ | unspecified | [1] Anderson 1992 | Table 5, p. 6, row 9 |  |
-| Partial enthalpy; _printed: Partial molar heat of solution_ | 3.2 kJ/mol (basis unstated) ± 0.17 | 750.15 | UNKNOWN | experimental | [1] Anderson 1992; _cites Pool 1964_ | Table 5, p. 6, row 6 |  |
-| Partial enthalpy; _printed: Partial molar heat of solution_ | 3.2 kJ/mol (basis unstated) ± 0.17 | 750.15 | liquid Sn (infinite dilution); _alloy: Sn 1_ | experimental | [1] Anderson 1992; _cites Pool 1964_ | Table 5, p. 6, row 6 |  |
+| Partial enthalpy; _printed: Partial molar heat of solution_ | 2.03 kJ/mol (basis unstated) ± 0.125 | 513.15 | UNKNOWN | experimental | [1] Anderson 1992; _cites Cohen 1961_ | Table 5, p. 6, row 1; `ORC-7OUJQD3HNE.c72870` |  |
+| Partial enthalpy; _printed: Partial molar heat of solution_ | 2.03 kJ/mol (basis unstated) ± 0.125 | 513.15 | liquid Sn (infinite dilution); _alloy: Sn 1_ | experimental | [1] Anderson 1992; _cites Cohen 1961_ | Table 5, p. 6, row 1; `ORC-7OUJQD3HNE.f8058a` |  |
+| Partial enthalpy; _printed: Partial molar heat of solution_ | 2.97 kJ/mol (basis unstated) ± 0.125 | 573.15 | UNKNOWN | experimental | [1] Anderson 1992; _cites Cohen 1961_ | Table 5, p. 6, row 2; `ORC-KY3OMHICDW.57fbb7` |  |
+| Partial enthalpy; _printed: Partial molar heat of solution_ | 2.97 kJ/mol (basis unstated) ± 0.125 | 573.15 | liquid Sn (infinite dilution); _alloy: Sn 1_ | experimental | [1] Anderson 1992; _cites Cohen 1961_ | Table 5, p. 6, row 2; `ORC-KY3OMHICDW.b97f1f` |  |
+| Partial enthalpy; _printed: Partial molar heat of solution_ | 2.815 kJ/mol (basis unstated) ± 0.08 | 598.15 | UNKNOWN | experimental | [1] Anderson 1992; _cites Boom 1974_ [doi](https://doi.org/10.1016/0036-9748%2874%2990345-7) | Table 5, p. 6, row 8; `ORC-22QFF5AOGW.b2b28f` |  |
+| Partial enthalpy; _printed: Partial molar heat of solution_ | 2.815 kJ/mol (basis unstated) ± 0.08 | 598.15 | liquid Sn (infinite dilution); _alloy: Sn 1_ | experimental | [1] Anderson 1992; _cites Boom 1974_ [doi](https://doi.org/10.1016/0036-9748%2874%2990345-7) | Table 5, p. 6, row 8; `ORC-22QFF5AOGW.094984` |  |
+| Partial enthalpy; _printed: Partial molar heat of solution_ | 2.93 kJ/mol (basis unstated) ± 0.21 | 623.15 | UNKNOWN | experimental | [1] Anderson 1992; _cites Cohen 1961_ | Table 5, p. 6, row 3; `ORC-5HQZNZJUCR.bd43a4` |  |
+| Partial enthalpy; _printed: Partial molar heat of solution_ | 3.22 kJ/mol (basis unstated) ± 0.125 | 623.15 | UNKNOWN | experimental | [1] Anderson 1992; _cites Kleppa 1962_ [doi](https://doi.org/10.1016/0001-6160%2862%2990171-2) | Table 5, p. 6, row 4; `ORC-5NM32MZETK.6282e4` |  |
+| Partial enthalpy; _printed: Partial molar heat of solution_ | 3.13 kJ/mol (basis unstated) | 623.15 | UNKNOWN | experimental | [1] Anderson 1992; _cites Kleppa 1962_ [doi](https://doi.org/10.1016/0001-6160%2862%2990171-2) | Table 5, p. 6, row 5; `ORC-FPKTV2BDWO.6fc332` |  |
+| Partial enthalpy; _printed: Partial molar heat of solution_ | 2.93 kJ/mol (basis unstated) ± 0.21 | 623.15 | liquid Sn (infinite dilution); _alloy: Sn 1_ | experimental | [1] Anderson 1992; _cites Cohen 1961_ | Table 5, p. 6, row 3; `ORC-5HQZNZJUCR.c09e11` |  |
+| Partial enthalpy; _printed: Partial molar heat of solution_ | 3.22 kJ/mol (basis unstated) ± 0.125 | 623.15 | liquid Sn (infinite dilution); _alloy: Sn 1_ | experimental | [1] Anderson 1992; _cites Kleppa 1962_ [doi](https://doi.org/10.1016/0001-6160%2862%2990171-2) | Table 5, p. 6, row 4; `ORC-5NM32MZETK.419462` |  |
+| Partial enthalpy; _printed: Partial molar heat of solution_ | 3.13 kJ/mol (basis unstated) | 623.15 | liquid Sn (infinite dilution); _alloy: Sn 1_ | experimental | [1] Anderson 1992; _cites Kleppa 1962_ [doi](https://doi.org/10.1016/0001-6160%2862%2990171-2) | Table 5, p. 6, row 5; `ORC-FPKTV2BDWO.a3b8d8` |  |
+| Partial enthalpy; _printed: Partial molar heat of solution_ | 3.01 kJ/mol (basis unstated) ± 0.375 | 700.15 | UNKNOWN | experimental | [1] Anderson 1992; _cites Vecher 1977_ | Table 5, p. 6, row 7; `ORC-IWBKYBOYJE.2c1b83` |  |
+| Partial enthalpy; _printed: Partial molar heat of solution_ | 3.01 kJ/mol (basis unstated) ± 0.375 | 700.15 | liquid Sn (infinite dilution); _alloy: Sn 1_ | experimental | [1] Anderson 1992; _cites Vecher 1977_ | Table 5, p. 6, row 7; `ORC-IWBKYBOYJE.451804` |  |
+| Partial enthalpy; _printed: Partial molar heat of solution_ | 3.148 kJ/mol (basis unstated) | 743.15 | UNKNOWN | unspecified | [1] Anderson 1992 | Table 5, p. 6, row 9; `ORC-6FS2QX6U5T.54c89e` |  |
+| Partial enthalpy; _printed: Partial molar heat of solution_ | 3.148 kJ/mol (basis unstated) | 743.15 | liquid Sn (infinite dilution); _alloy: Sn 1_ | unspecified | [1] Anderson 1992 | Table 5, p. 6, row 9; `ORC-6FS2QX6U5T.2ac465` |  |
+| Partial enthalpy; _printed: Partial molar heat of solution_ | 3.2 kJ/mol (basis unstated) ± 0.17 | 750.15 | UNKNOWN | experimental | [1] Anderson 1992; _cites Pool 1964_ | Table 5, p. 6, row 6; `ORC-U4QECKRKRN.76a210` |  |
+| Partial enthalpy; _printed: Partial molar heat of solution_ | 3.2 kJ/mol (basis unstated) ± 0.17 | 750.15 | liquid Sn (infinite dilution); _alloy: Sn 1_ | experimental | [1] Anderson 1992; _cites Pool 1964_ | Table 5, p. 6, row 6; `ORC-U4QECKRKRN.dfcea5` |  |
 
 ### Crystal structure (3)
 
@@ -236,9 +236,9 @@ Table: Crystal structure, Ga–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 2.7713 Å | 296.15 | (γGa); _(γGa): Ga 0.9998, Sn 2.000e-4_ | unspecified | [1] Anderson 1992; _cites ref. 77Def_ | Table 4, p. 5, row 2 |  |
-| Lattice b | 8.0606 Å | 296.15 | (γGa); _(γGa): Ga 0.9998, Sn 2.000e-4_ | unspecified | [1] Anderson 1992; _cites ref. 77Def_ | Table 4, p. 5, row 2 |  |
-| Lattice c | 3.3314 Å | 296.15 | (γGa); _(γGa): Ga 0.9998, Sn 2.000e-4_ | unspecified | [1] Anderson 1992; _cites ref. 77Def_ | Table 4, p. 5, row 2 |  |
+| Lattice a | 2.7713 Å | 296.15 | (γGa); _(γGa): Ga 0.9998, Sn 2.000e-4_ | unspecified | [1] Anderson 1992; _cites ref. 77Def_ | Table 4, p. 5, row 2; `ORC-YZ73VJXLEF.3b206c` |  |
+| Lattice b | 8.0606 Å | 296.15 | (γGa); _(γGa): Ga 0.9998, Sn 2.000e-4_ | unspecified | [1] Anderson 1992; _cites ref. 77Def_ | Table 4, p. 5, row 2; `ORC-YZ73VJXLEF.c63806` |  |
+| Lattice c | 3.3314 Å | 296.15 | (γGa); _(γGa): Ga 0.9998, Sn 2.000e-4_ | unspecified | [1] Anderson 1992; _cites ref. 77Def_ | Table 4, p. 5, row 2; `ORC-YZ73VJXLEF.d4a478` |  |
 
 ## Sources
 
@@ -304,4 +304,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

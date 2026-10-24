@@ -75,18 +75,18 @@ Table: Invariant reactions reported in the literature for the Cr–Ga system (12
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1902.15 | L + Cr -> β-Cr3Ga | L: Ga 0.324; β-Cr3Ga: Ga 0.25 | model | [1] Belgacem-Bouzida 2005 | Table 5, p. 5, row 2 |  |
-| 1893.15 | L + Cr -> β-Cr3Ga | L: Ga 0.33; β-Cr3Ga: Ga 0.25 | experimental | [1] Belgacem-Bouzida 2005; _cites Bornand 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990149-x) | Table 5, p. 5, row 1 |  |
-| 1374.15 | L + Cr -> α-Cr3Ga | L: Ga 0.656; α-Cr3Ga: Ga 0.25 | model | [1] Belgacem-Bouzida 2005 | Table 5, p. 5, row 4 |  |
-| 1373.15 | L + Cr -> α-Cr3Ga | L: Ga 0.635; α-Cr3Ga: Ga 0.25 | experimental | [1] Belgacem-Bouzida 2005; _cites Bornand 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990149-x) | Table 5, p. 5, row 3 |  |
-| 1156.15 | L + α-Cr3Ga -> CrGa | L: Ga 0.807; α-Cr3Ga: Ga 0.25; CrGa: Ga 0.5 | model | [1] Belgacem-Bouzida 2005 | Table 5, p. 5, row 6 |  |
-| 1153.15 | L + α-Cr3Ga -> CrGa | L: Ga 0.83; α-Cr3Ga: Ga 0.25; CrGa: Ga 0.5 | experimental | [1] Belgacem-Bouzida 2005; _cites Bornand 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990149-x) | Table 5, p. 5, row 5 |  |
-| 1048.15 | L + α-CrGa -> Cr5Ga | L: Ga 0.923; α-CrGa: Ga 0.5; Cr5Ga: Ga 0.166667 | model | [1] Belgacem-Bouzida 2005 | Table 5, p. 5, row 8 |  |
-| 1048.15 | L + α-CrGa -> Cr5Ga | L: Ga 0.925; α-CrGa: Ga 0.5; Cr5Ga: Ga 0.166667 | experimental | [1] Belgacem-Bouzida 2005; _cites Bornand 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990149-x) | Table 5, p. 5, row 7 |  |
-| 1033.15 | α-Cr3Ga + CrGa -> Cr5Ga6 | α-Cr3Ga: Ga 0.25; CrGa: Ga 0.5; Cr5Ga6: Ga 0.545455 | experimental | [1] Belgacem-Bouzida 2005; _cites Bornand 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990149-x) | Table 5, p. 5, row 9 |  |
-| 1009.15 | α-Cr3Ga + CrGa -> Cr5Ga6 | α-Cr3Ga: Ga 0.25; CrGa: Ga 0.5; Cr5Ga6: Ga 0.545455 | model | [1] Belgacem-Bouzida 2005 | Table 5, p. 5, row 10 |  |
-| 973.15 | L + Cr5Ga6 -> CrGa4 | L: Ga 0.974; Cr5Ga6: Ga 0.545455; CrGa4: Ga 0.8 | model | [1] Belgacem-Bouzida 2005 | Table 5, p. 5, row 12 |  |
-| 973.15 | L + Cr5Ga6 -> CrGa4 | L: Ga 0.975; Cr5Ga6: Ga 0.545455; CrGa4: Ga 0.8 | experimental | [1] Belgacem-Bouzida 2005; _cites Bornand 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990149-x) | Table 5, p. 5, row 11 |  |
+| 1902.15 | L + Cr -> β-Cr3Ga | L: Ga 0.324; β-Cr3Ga: Ga 0.25 | model | [1] Belgacem-Bouzida 2005 | Table 5, p. 5, row 2; `ORC-43C2OQ2SLU` |  |
+| 1893.15 | L + Cr -> β-Cr3Ga | L: Ga 0.33; β-Cr3Ga: Ga 0.25 | experimental | [1] Belgacem-Bouzida 2005; _cites Bornand 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990149-x) | Table 5, p. 5, row 1; `ORC-QYG6XU5M4U` |  |
+| 1374.15 | L + Cr -> α-Cr3Ga | L: Ga 0.656; α-Cr3Ga: Ga 0.25 | model | [1] Belgacem-Bouzida 2005 | Table 5, p. 5, row 4; `ORC-YZXZE33EWP` |  |
+| 1373.15 | L + Cr -> α-Cr3Ga | L: Ga 0.635; α-Cr3Ga: Ga 0.25 | experimental | [1] Belgacem-Bouzida 2005; _cites Bornand 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990149-x) | Table 5, p. 5, row 3; `ORC-QVTMDID3HS` |  |
+| 1156.15 | L + α-Cr3Ga -> CrGa | L: Ga 0.807; α-Cr3Ga: Ga 0.25; CrGa: Ga 0.5 | model | [1] Belgacem-Bouzida 2005 | Table 5, p. 5, row 6; `ORC-D6BELBTZ3W` |  |
+| 1153.15 | L + α-Cr3Ga -> CrGa | L: Ga 0.83; α-Cr3Ga: Ga 0.25; CrGa: Ga 0.5 | experimental | [1] Belgacem-Bouzida 2005; _cites Bornand 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990149-x) | Table 5, p. 5, row 5; `ORC-WC4H56O6ID` |  |
+| 1048.15 | L + α-CrGa -> Cr5Ga | L: Ga 0.923; α-CrGa: Ga 0.5; Cr5Ga: Ga 0.166667 | model | [1] Belgacem-Bouzida 2005 | Table 5, p. 5, row 8; `ORC-76G7QWVCHF` |  |
+| 1048.15 | L + α-CrGa -> Cr5Ga | L: Ga 0.925; α-CrGa: Ga 0.5; Cr5Ga: Ga 0.166667 | experimental | [1] Belgacem-Bouzida 2005; _cites Bornand 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990149-x) | Table 5, p. 5, row 7; `ORC-O23MVPMAAV` |  |
+| 1033.15 | α-Cr3Ga + CrGa -> Cr5Ga6 | α-Cr3Ga: Ga 0.25; CrGa: Ga 0.5; Cr5Ga6: Ga 0.545455 | experimental | [1] Belgacem-Bouzida 2005; _cites Bornand 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990149-x) | Table 5, p. 5, row 9; `ORC-2GQFYYFYSK` |  |
+| 1009.15 | α-Cr3Ga + CrGa -> Cr5Ga6 | α-Cr3Ga: Ga 0.25; CrGa: Ga 0.5; Cr5Ga6: Ga 0.545455 | model | [1] Belgacem-Bouzida 2005 | Table 5, p. 5, row 10; `ORC-BBZT2HAEPM` |  |
+| 973.15 | L + Cr5Ga6 -> CrGa4 | L: Ga 0.974; Cr5Ga6: Ga 0.545455; CrGa4: Ga 0.8 | model | [1] Belgacem-Bouzida 2005 | Table 5, p. 5, row 12; `ORC-AUYUO7Q7KS` |  |
+| 973.15 | L + Cr5Ga6 -> CrGa4 | L: Ga 0.975; Cr5Ga6: Ga 0.545455; CrGa4: Ga 0.8 | experimental | [1] Belgacem-Bouzida 2005; _cites Bornand 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990149-x) | Table 5, p. 5, row 11; `ORC-ZB4LHQ2ANK` |  |
 
 ## Formation enthalpies
 
@@ -96,43 +96,43 @@ Table: Enthalpies of formation, Cr–Ga system (37)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | -14.5 kJ/mol-atom ± 1000 | 918.15 | experimental |  |  | [1] Belgacem-Bouzida 2005 | p. 3 | “We retained the value: -14500 ± 1000 J/mol at 645 ◦ C referred to solid chromium and gallium.” |
-| — |  | -7.25 kJ/mol-atom ± 400 | 1423.15 | experimental |  |  | [1] Belgacem-Bouzida 2005 | p. 3 | “F H( 41 ␤-Cr3 Ga) = -7250 ± 400 J/mol at 1150 ◦ C referred to solid chromium and gallium.” |
-| — |  | -3.3 kJ/mol-atom | 850.15 | experimental |  |  | [1] Belgacem-Bouzida 2005 | p. 5 | “mined the enthalpy of formation of this compound at 577 ◦ C by EMF measurement of solid electrolyte pile and give f H( 41 ␣Cr3 Ga) = -3300 J/mol referred to solid chromium and gallium.” |
-| Cr3Ga | [Cr3Ga](https://data.orchid-project.org/compounds/Cr3Ga.html) | -12 kJ/mol-atom | 298.15 | model | -4.035 (mp-aaaaabvj) | -5.328 (oqmd-29544) | [2] Gröbner 1999; _cites F 1988_ | Table 1, p. 2, row 44 |  |
-| Cr3Ga | [Cr3Ga](https://data.orchid-project.org/compounds/Cr3Ga.html) | -9.75 kJ/mol-atom | 298.15 | model | -4.035 (mp-aaaaabvj) | -5.328 (oqmd-29544) | [2] Gröbner 1999 | Table 1, p. 2, row 43 |  |
-| Cr3Ga | [Cr3Ga](https://data.orchid-project.org/compounds/Cr3Ga.html) | -3.3 kJ/mol-atom | 850 | experimental | -4.035 (mp-aaaaabvj) | -5.328 (oqmd-29544) | [2] Gröbner 1999; _cites Gonchuruk 1981_ | Table 1, p. 2, row 42 |  |
-| Cr3Ga (α) |  | -12 kJ/mol (basis unstated) |  | model |  |  | [1] Belgacem-Bouzida 2005; _cites Djaballah 1999_ | Table 4, p. 4, row 3 |  |
-| Cr3Ga (α) |  | -9.75 kJ/mol (basis unstated) |  | model |  |  | [1] Belgacem-Bouzida 2005; _cites Grobner 1999_ [doi](https://doi.org/10.1361/105497199770340608) | Table 4, p. 4, row 2 |  |
-| Cr3Ga (α) |  | -8.24 kJ/mol (basis unstated) |  | model |  |  | [1] Belgacem-Bouzida 2005 | Table 4, p. 4, row 5 |  |
-| Cr3Ga (α) |  | -8.1 kJ/mol (basis unstated) ± 0.3 | 298.15 | experimental |  |  | [1] Belgacem-Bouzida 2005 | Table 4, p. 4, row 4 |  |
-| Cr3Ga (α) |  | -3.3 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Belgacem-Bouzida 2005; _cites Goncharuk 1981_ | Table 4, p. 4, row 1 |  |
-| Cr3Ga (β) |  | -7.25 kJ/mol (basis unstated) ± 0.7 | 298.15 | experimental |  |  | [1] Belgacem-Bouzida 2005 | Table 4, p. 4, row 6 |  |
-| Cr3Ga (β) |  | -6.98 kJ/mol (basis unstated) |  | model |  |  | [1] Belgacem-Bouzida 2005 | Table 4, p. 4, row 7 |  |
-| Cr5Ga6 |  | -15.15 kJ/mol-atom | 298.15 | model |  |  | [2] Gröbner 1999 | Table 1, p. 2, row 48 |  |
-| Cr5Ga6 |  | -15.15 kJ/mol (basis unstated) |  | model |  |  | [1] Belgacem-Bouzida 2005; _cites Grobner 1999_ [doi](https://doi.org/10.1361/105497199770340608) | Table 4, p. 4, row 11 |  |
-| Cr5Ga6 |  | -15 kJ/mol (basis unstated) |  | model |  |  | [1] Belgacem-Bouzida 2005; _cites Djaballah 1999_ | Table 4, p. 4, row 12 |  |
-| Cr5Ga6 |  | -15 kJ/mol-atom | 298.15 | model |  |  | [2] Gröbner 1999; _cites F 1988_ | Table 1, p. 2, row 49 |  |
-| Cr5Ga6 |  | -12.31 kJ/mol (basis unstated) |  | model |  |  | [1] Belgacem-Bouzida 2005 | Table 4, p. 4, row 13 |  |
-| Cr5Ga6 |  | -4.7 kJ/mol-atom | 850 | experimental |  |  | [2] Gröbner 1999; _cites Gonchuruk 1981_ | Table 1, p. 2, row 47 |  |
-| Cr5Ga6 |  | -4.7 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Belgacem-Bouzida 2005; _cites Goncharuk 1981_ | Table 4, p. 4, row 10 |  |
-| CrGa | [CrGa](https://data.orchid-project.org/compounds/CrGa.html) | -16 kJ/mol-atom | 298.15 | model | -1.491 (mp-aaacphey) | -0.148 (oqmd-2052343) | [2] Gröbner 1999; _cites F 1988_ | Table 1, p. 2, row 45 |  |
-| CrGa |  | -7.29 kJ/mol (basis unstated) |  | model |  |  | [1] Belgacem-Bouzida 2005; _cites Grobner 1999_ [doi](https://doi.org/10.1361/105497199770340608) | Table 4, p. 4, row 8 |  |
-| CrGa | [CrGa](https://data.orchid-project.org/compounds/CrGa.html) | -7.29 kJ/mol-atom | 298.15 | model | -1.491 (mp-aaacphey) | -0.148 (oqmd-2052343) | [2] Gröbner 1999 | Table 1, p. 2, row 46 |  |
-| CrGa |  | -6.06 kJ/mol (basis unstated) |  | model |  |  | [1] Belgacem-Bouzida 2005 | Table 4, p. 4, row 9 |  |
-| CrGa4 |  | -14.5 kJ/mol (basis unstated) ± 1 | 298.15 | experimental |  |  | [1] Belgacem-Bouzida 2005 | Table 4, p. 4, row 17 |  |
-| CrGa4 |  | -13.3 kJ/mol (basis unstated) |  | model |  |  | [1] Belgacem-Bouzida 2005 | Table 4, p. 4, row 18 |  |
-| CrGa4 |  | -8.7 kJ/mol (basis unstated) |  | model |  |  | [1] Belgacem-Bouzida 2005; _cites Grobner 1999_ [doi](https://doi.org/10.1361/105497199770340608) | Table 4, p. 4, row 15 |  |
-| CrGa4 | [CrGa4](https://data.orchid-project.org/compounds/CrGa4.html) | -8.7 kJ/mol-atom | 298.15 | model | -15.083 (mp-aaacixqu) | -14.848 (oqmd-29545) | [2] Gröbner 1999 | Table 1, p. 2, row 51 |  |
-| CrGa4 | [CrGa4](https://data.orchid-project.org/compounds/CrGa4.html) | -8 kJ/mol-atom | 298.15 | model | -15.083 (mp-aaacixqu) | -14.848 (oqmd-29545) | [2] Gröbner 1999; _cites F 1988_ | Table 1, p. 2, row 52 |  |
-| CrGa4 |  | -8 kJ/mol (basis unstated) |  | model |  |  | [1] Belgacem-Bouzida 2005; _cites Djaballah 1999_ | Table 4, p. 4, row 16 |  |
-| CrGa4 |  | -7.6 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Belgacem-Bouzida 2005; _cites Goncharuk 1981_ | Table 4, p. 4, row 14 |  |
-| CrGa4 | [CrGa4](https://data.orchid-project.org/compounds/CrGa4.html) | -7.6 kJ/mol-atom | 850 | experimental | -15.083 (mp-aaacixqu) | -14.848 (oqmd-29545) | [2] Gröbner 1999; _cites Gonchuruk 1981_ | Table 1, p. 2, row 50 |  |
-| α-Cr3Ga |  | -8.56 kJ/mol (basis unstated) | 1323.15 | experimental |  |  | [1] Belgacem-Bouzida 2005 | Table 1, p. 3, row 2 |  |
-| α-Cr3Ga |  | -8.1 kJ/mol (basis unstated) | 1323.15 | experimental |  |  | [1] Belgacem-Bouzida 2005 | Table 1, p. 3, row 2 |  |
-| α-Cr3Ga |  | -7.97 kJ/mol (basis unstated) | 1323.15 | experimental |  |  | [1] Belgacem-Bouzida 2005 | Table 1, p. 3, row 4 |  |
-| α-Cr3Ga |  | -7.76 kJ/mol (basis unstated) | 1323.15 | experimental |  |  | [1] Belgacem-Bouzida 2005 | Table 1, p. 3, row 3 |  |
-| β-Cr3Ga |  | -7.25 kJ/mol (basis unstated) | 1423.15 | experimental |  |  | [1] Belgacem-Bouzida 2005 | Table 2, p. 3, row 1 |  |
+| — |  | -14.5 kJ/mol-atom ± 1000 | 918.15 | experimental |  |  | [1] Belgacem-Bouzida 2005 | p. 3; `ORC-UAPT6UQB4G` | “We retained the value: -14500 ± 1000 J/mol at 645 ◦ C referred to solid chromium and gallium.” |
+| — |  | -7.25 kJ/mol-atom ± 400 | 1423.15 | experimental |  |  | [1] Belgacem-Bouzida 2005 | p. 3; `ORC-5OGOAMSUVX` | “F H( 41 ␤-Cr3 Ga) = -7250 ± 400 J/mol at 1150 ◦ C referred to solid chromium and gallium.” |
+| — |  | -3.3 kJ/mol-atom | 850.15 | experimental |  |  | [1] Belgacem-Bouzida 2005 | p. 5; `ORC-3ZDEPBZOUS` | “mined the enthalpy of formation of this compound at 577 ◦ C by EMF measurement of solid electrolyte pile and give f H( 41 ␣Cr3 Ga) = -3300 J/mol referred to solid chromium and gallium.” |
+| Cr3Ga | [Cr3Ga](https://data.orchid-project.org/compounds/Cr3Ga.html) | -12 kJ/mol-atom | 298.15 | model | -4.035 (mp-aaaaabvj) | -5.328 (oqmd-29544) | [2] Gröbner 1999; _cites F 1988_ | Table 1, p. 2, row 44; `ORC-HPVWA4L4FN` |  |
+| Cr3Ga | [Cr3Ga](https://data.orchid-project.org/compounds/Cr3Ga.html) | -9.75 kJ/mol-atom | 298.15 | model | -4.035 (mp-aaaaabvj) | -5.328 (oqmd-29544) | [2] Gröbner 1999 | Table 1, p. 2, row 43; `ORC-O4PI5Z75L3` |  |
+| Cr3Ga | [Cr3Ga](https://data.orchid-project.org/compounds/Cr3Ga.html) | -3.3 kJ/mol-atom | 850 | experimental | -4.035 (mp-aaaaabvj) | -5.328 (oqmd-29544) | [2] Gröbner 1999; _cites Gonchuruk 1981_ | Table 1, p. 2, row 42; `ORC-53IIUR4NZJ` |  |
+| Cr3Ga (α) |  | -12 kJ/mol (basis unstated) |  | model |  |  | [1] Belgacem-Bouzida 2005; _cites Djaballah 1999_ | Table 4, p. 4, row 3; `ORC-B7HQFH6PTM.f0b169` |  |
+| Cr3Ga (α) |  | -9.75 kJ/mol (basis unstated) |  | model |  |  | [1] Belgacem-Bouzida 2005; _cites Grobner 1999_ [doi](https://doi.org/10.1361/105497199770340608) | Table 4, p. 4, row 2; `ORC-M5YUOI26LF.36378e` |  |
+| Cr3Ga (α) |  | -8.24 kJ/mol (basis unstated) |  | model |  |  | [1] Belgacem-Bouzida 2005 | Table 4, p. 4, row 5; `ORC-IMJ2YHKYO4.557482` |  |
+| Cr3Ga (α) |  | -8.1 kJ/mol (basis unstated) ± 0.3 | 298.15 | experimental |  |  | [1] Belgacem-Bouzida 2005 | Table 4, p. 4, row 4; `ORC-YGA7IGDSYT.4883a2` |  |
+| Cr3Ga (α) |  | -3.3 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Belgacem-Bouzida 2005; _cites Goncharuk 1981_ | Table 4, p. 4, row 1; `ORC-QKSWTRNKAC.21cf2d` |  |
+| Cr3Ga (β) |  | -7.25 kJ/mol (basis unstated) ± 0.7 | 298.15 | experimental |  |  | [1] Belgacem-Bouzida 2005 | Table 4, p. 4, row 6; `ORC-DMAPRTZ5PN.8e7adf` |  |
+| Cr3Ga (β) |  | -6.98 kJ/mol (basis unstated) |  | model |  |  | [1] Belgacem-Bouzida 2005 | Table 4, p. 4, row 7; `ORC-VXXPI7UC5G.564607` |  |
+| Cr5Ga6 |  | -15.15 kJ/mol-atom | 298.15 | model |  |  | [2] Gröbner 1999 | Table 1, p. 2, row 48; `ORC-WVUHLIPTRD` |  |
+| Cr5Ga6 |  | -15.15 kJ/mol (basis unstated) |  | model |  |  | [1] Belgacem-Bouzida 2005; _cites Grobner 1999_ [doi](https://doi.org/10.1361/105497199770340608) | Table 4, p. 4, row 11; `ORC-Y6TCZY3IMC.285f2c` |  |
+| Cr5Ga6 |  | -15 kJ/mol (basis unstated) |  | model |  |  | [1] Belgacem-Bouzida 2005; _cites Djaballah 1999_ | Table 4, p. 4, row 12; `ORC-CI6UGP7Q7R.0aa357` |  |
+| Cr5Ga6 |  | -15 kJ/mol-atom | 298.15 | model |  |  | [2] Gröbner 1999; _cites F 1988_ | Table 1, p. 2, row 49; `ORC-VY6XNWUGCN` |  |
+| Cr5Ga6 |  | -12.31 kJ/mol (basis unstated) |  | model |  |  | [1] Belgacem-Bouzida 2005 | Table 4, p. 4, row 13; `ORC-BOASBF7OYK.46886a` |  |
+| Cr5Ga6 |  | -4.7 kJ/mol-atom | 850 | experimental |  |  | [2] Gröbner 1999; _cites Gonchuruk 1981_ | Table 1, p. 2, row 47; `ORC-KLXBROIIET` |  |
+| Cr5Ga6 |  | -4.7 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Belgacem-Bouzida 2005; _cites Goncharuk 1981_ | Table 4, p. 4, row 10; `ORC-ZXJAILDJIL.35d9e5` |  |
+| CrGa | [CrGa](https://data.orchid-project.org/compounds/CrGa.html) | -16 kJ/mol-atom | 298.15 | model | -1.491 (mp-aaacphey) | -0.148 (oqmd-2052343) | [2] Gröbner 1999; _cites F 1988_ | Table 1, p. 2, row 45; `ORC-OWKDAI3R4Q` |  |
+| CrGa |  | -7.29 kJ/mol (basis unstated) |  | model |  |  | [1] Belgacem-Bouzida 2005; _cites Grobner 1999_ [doi](https://doi.org/10.1361/105497199770340608) | Table 4, p. 4, row 8; `ORC-7BVXWGCWBF.6f6073` |  |
+| CrGa | [CrGa](https://data.orchid-project.org/compounds/CrGa.html) | -7.29 kJ/mol-atom | 298.15 | model | -1.491 (mp-aaacphey) | -0.148 (oqmd-2052343) | [2] Gröbner 1999 | Table 1, p. 2, row 46; `ORC-TCYNIHPGS5` |  |
+| CrGa |  | -6.06 kJ/mol (basis unstated) |  | model |  |  | [1] Belgacem-Bouzida 2005 | Table 4, p. 4, row 9; `ORC-LJL6NCPKWK.a492bd` |  |
+| CrGa4 |  | -14.5 kJ/mol (basis unstated) ± 1 | 298.15 | experimental |  |  | [1] Belgacem-Bouzida 2005 | Table 4, p. 4, row 17; `ORC-2LSCEO6CFI.699584` |  |
+| CrGa4 |  | -13.3 kJ/mol (basis unstated) |  | model |  |  | [1] Belgacem-Bouzida 2005 | Table 4, p. 4, row 18; `ORC-6RRP3SQF6Z.94431a` |  |
+| CrGa4 |  | -8.7 kJ/mol (basis unstated) |  | model |  |  | [1] Belgacem-Bouzida 2005; _cites Grobner 1999_ [doi](https://doi.org/10.1361/105497199770340608) | Table 4, p. 4, row 15; `ORC-BMIDUT3K6Z.241ef3` |  |
+| CrGa4 | [CrGa4](https://data.orchid-project.org/compounds/CrGa4.html) | -8.7 kJ/mol-atom | 298.15 | model | -15.083 (mp-aaacixqu) | -14.848 (oqmd-29545) | [2] Gröbner 1999 | Table 1, p. 2, row 51; `ORC-XSJOSAEFRS` |  |
+| CrGa4 | [CrGa4](https://data.orchid-project.org/compounds/CrGa4.html) | -8 kJ/mol-atom | 298.15 | model | -15.083 (mp-aaacixqu) | -14.848 (oqmd-29545) | [2] Gröbner 1999; _cites F 1988_ | Table 1, p. 2, row 52; `ORC-E75E4K7GGZ` |  |
+| CrGa4 |  | -8 kJ/mol (basis unstated) |  | model |  |  | [1] Belgacem-Bouzida 2005; _cites Djaballah 1999_ | Table 4, p. 4, row 16; `ORC-KBFYK3W67R.ab47df` |  |
+| CrGa4 |  | -7.6 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Belgacem-Bouzida 2005; _cites Goncharuk 1981_ | Table 4, p. 4, row 14; `ORC-JDWJ6L5EI5.84864f` |  |
+| CrGa4 | [CrGa4](https://data.orchid-project.org/compounds/CrGa4.html) | -7.6 kJ/mol-atom | 850 | experimental | -15.083 (mp-aaacixqu) | -14.848 (oqmd-29545) | [2] Gröbner 1999; _cites Gonchuruk 1981_ | Table 1, p. 2, row 50; `ORC-L22J4J3CQP` |  |
+| α-Cr3Ga |  | -8.56 kJ/mol (basis unstated) | 1323.15 | experimental |  |  | [1] Belgacem-Bouzida 2005 | Table 1, p. 3, row 2; `ORC-CG5RML5MZE.101824` |  |
+| α-Cr3Ga |  | -8.1 kJ/mol (basis unstated) | 1323.15 | experimental |  |  | [1] Belgacem-Bouzida 2005 | Table 1, p. 3, row 2; `ORC-CG5RML5MZE.f69791` |  |
+| α-Cr3Ga |  | -7.97 kJ/mol (basis unstated) | 1323.15 | experimental |  |  | [1] Belgacem-Bouzida 2005 | Table 1, p. 3, row 4; `ORC-BCXMPWE2FO` |  |
+| α-Cr3Ga |  | -7.76 kJ/mol (basis unstated) | 1323.15 | experimental |  |  | [1] Belgacem-Bouzida 2005 | Table 1, p. 3, row 3; `ORC-A4UOZ35KKG` |  |
+| β-Cr3Ga |  | -7.25 kJ/mol (basis unstated) | 1423.15 | experimental |  |  | [1] Belgacem-Bouzida 2005 | Table 2, p. 3, row 1; `ORC-23WTCH5NJA` |  |
 
 ## Other properties
 
@@ -142,18 +142,18 @@ Table: Formation, Cr–Ga system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy of formation; _printed: ΔfS_ | 5.444 J/mol (basis unstated)/K |  | Cr3Ga (α); _alloy: Ga 0.25_ | model | [1] Belgacem-Bouzida 2005 | Table 4, p. 4, row 5 |  |
-| Entropy of formation; _printed: ΔfS_ | 1.884 J/mol (basis unstated)/K |  | Cr3Ga (α); _alloy: Ga 0.25_ | model | [1] Belgacem-Bouzida 2005; _cites Grobner 1999_ [doi](https://doi.org/10.1361/105497199770340608) | Table 4, p. 4, row 2 |  |
-| Entropy of formation; _printed: ΔfS_ | 6.362 J/mol (basis unstated)/K |  | Cr3Ga (β); _alloy: Ga 0.25_ | model | [1] Belgacem-Bouzida 2005 | Table 4, p. 4, row 7 |  |
-| Entropy of formation; _printed: ΔfS_ | 2.37 J/mol (basis unstated)/K |  | Cr5Ga6; _alloy: Ga 0.545455_ | model | [1] Belgacem-Bouzida 2005 | Table 4, p. 4, row 13 |  |
-| Entropy of formation; _printed: ΔfS_ | 0.792 J/mol (basis unstated)/K |  | Cr5Ga6; _alloy: Ga 0.545455_ | model | [1] Belgacem-Bouzida 2005; _cites Grobner 1999_ [doi](https://doi.org/10.1361/105497199770340608) | Table 4, p. 4, row 11 |  |
-| Entropy of formation; _printed: ΔfS_ | 6.146 J/mol (basis unstated)/K |  | CrGa; _alloy: Ga 0.5_ | model | [1] Belgacem-Bouzida 2005; _cites Grobner 1999_ [doi](https://doi.org/10.1361/105497199770340608) | Table 4, p. 4, row 8 |  |
-| Entropy of formation; _printed: ΔfS_ | 8.378 J/mol (basis unstated)/K |  | CrGa; _alloy: Ga 0.5_ | model | [1] Belgacem-Bouzida 2005 | Table 4, p. 4, row 9 |  |
-| Entropy of formation; _printed: ΔfS_ | 0.435 J/mol (basis unstated)/K |  | CrGa4; _alloy: Ga 0.8_ | model | [1] Belgacem-Bouzida 2005 | Table 4, p. 4, row 18 |  |
-| Entropy of formation; _printed: ΔfS_ | 6.3 J/mol (basis unstated)/K |  | CrGa4; _alloy: Ga 0.8_ | model | [1] Belgacem-Bouzida 2005; _cites Grobner 1999_ [doi](https://doi.org/10.1361/105497199770340608) | Table 4, p. 4, row 15 |  |
-| Entropy of formation; _printed: ΔfS_ | 2.7 J/mol (basis unstated)/K | 298.15 | Cr3Ga (α); _alloy: Ga 0.25_ | experimental | [1] Belgacem-Bouzida 2005; _cites Goncharuk 1981_ | Table 4, p. 4, row 1 |  |
-| Entropy of formation; _printed: ΔfS_ | 4.8 J/mol (basis unstated)/K | 298.15 | Cr5Ga6; _alloy: Ga 0.545455_ | experimental | [1] Belgacem-Bouzida 2005; _cites Goncharuk 1981_ | Table 4, p. 4, row 10 |  |
-| Entropy of formation; _printed: ΔfS_ | 2.9 J/mol (basis unstated)/K | 298.15 | CrGa4; _alloy: Ga 0.8_ | experimental | [1] Belgacem-Bouzida 2005; _cites Goncharuk 1981_ | Table 4, p. 4, row 14 |  |
+| Entropy of formation; _printed: ΔfS_ | 5.444 J/mol (basis unstated)/K |  | Cr3Ga (α); _alloy: Ga 0.25_ | model | [1] Belgacem-Bouzida 2005 | Table 4, p. 4, row 5; `ORC-IMJ2YHKYO4.a3d6b3` |  |
+| Entropy of formation; _printed: ΔfS_ | 1.884 J/mol (basis unstated)/K |  | Cr3Ga (α); _alloy: Ga 0.25_ | model | [1] Belgacem-Bouzida 2005; _cites Grobner 1999_ [doi](https://doi.org/10.1361/105497199770340608) | Table 4, p. 4, row 2; `ORC-M5YUOI26LF.9a402c` |  |
+| Entropy of formation; _printed: ΔfS_ | 6.362 J/mol (basis unstated)/K |  | Cr3Ga (β); _alloy: Ga 0.25_ | model | [1] Belgacem-Bouzida 2005 | Table 4, p. 4, row 7; `ORC-VXXPI7UC5G.1c11de` |  |
+| Entropy of formation; _printed: ΔfS_ | 2.37 J/mol (basis unstated)/K |  | Cr5Ga6; _alloy: Ga 0.545455_ | model | [1] Belgacem-Bouzida 2005 | Table 4, p. 4, row 13; `ORC-BOASBF7OYK.6590e8` |  |
+| Entropy of formation; _printed: ΔfS_ | 0.792 J/mol (basis unstated)/K |  | Cr5Ga6; _alloy: Ga 0.545455_ | model | [1] Belgacem-Bouzida 2005; _cites Grobner 1999_ [doi](https://doi.org/10.1361/105497199770340608) | Table 4, p. 4, row 11; `ORC-Y6TCZY3IMC.4dd12a` |  |
+| Entropy of formation; _printed: ΔfS_ | 6.146 J/mol (basis unstated)/K |  | CrGa; _alloy: Ga 0.5_ | model | [1] Belgacem-Bouzida 2005; _cites Grobner 1999_ [doi](https://doi.org/10.1361/105497199770340608) | Table 4, p. 4, row 8; `ORC-7BVXWGCWBF.514e22` |  |
+| Entropy of formation; _printed: ΔfS_ | 8.378 J/mol (basis unstated)/K |  | CrGa; _alloy: Ga 0.5_ | model | [1] Belgacem-Bouzida 2005 | Table 4, p. 4, row 9; `ORC-LJL6NCPKWK.1cf8f7` |  |
+| Entropy of formation; _printed: ΔfS_ | 0.435 J/mol (basis unstated)/K |  | CrGa4; _alloy: Ga 0.8_ | model | [1] Belgacem-Bouzida 2005 | Table 4, p. 4, row 18; `ORC-6RRP3SQF6Z.9c9238` |  |
+| Entropy of formation; _printed: ΔfS_ | 6.3 J/mol (basis unstated)/K |  | CrGa4; _alloy: Ga 0.8_ | model | [1] Belgacem-Bouzida 2005; _cites Grobner 1999_ [doi](https://doi.org/10.1361/105497199770340608) | Table 4, p. 4, row 15; `ORC-BMIDUT3K6Z.8fa4d7` |  |
+| Entropy of formation; _printed: ΔfS_ | 2.7 J/mol (basis unstated)/K | 298.15 | Cr3Ga (α); _alloy: Ga 0.25_ | experimental | [1] Belgacem-Bouzida 2005; _cites Goncharuk 1981_ | Table 4, p. 4, row 1; `ORC-QKSWTRNKAC.12a0a7` |  |
+| Entropy of formation; _printed: ΔfS_ | 4.8 J/mol (basis unstated)/K | 298.15 | Cr5Ga6; _alloy: Ga 0.545455_ | experimental | [1] Belgacem-Bouzida 2005; _cites Goncharuk 1981_ | Table 4, p. 4, row 10; `ORC-ZXJAILDJIL.21e882` |  |
+| Entropy of formation; _printed: ΔfS_ | 2.9 J/mol (basis unstated)/K | 298.15 | CrGa4; _alloy: Ga 0.8_ | experimental | [1] Belgacem-Bouzida 2005; _cites Goncharuk 1981_ | Table 4, p. 4, row 14; `ORC-JDWJ6L5EI5.0e8cb1` |  |
 
 ### Heat capacity / entropy / enthalpy (3)
 
@@ -161,9 +161,9 @@ Table: Heat capacity / entropy / enthalpy, Cr–Ga system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Heat content; _printed: Enthalpy of heating_ | 31390 J/mol | 810.65 | Cr3Ga; _alloy: Ga 0.25_ | experimental | [1] Belgacem-Bouzida 2005 | Table 1, p. 3, row 5 |  |
-| Heat content; _printed: Enthalpy of heating_ | 34900 J/mol | 860.65 | Cr3Ga; _alloy: Ga 0.25_ | experimental | [1] Belgacem-Bouzida 2005 | Table 2, p. 3, row 4 |  |
-| Heat content; _printed: Enthalpy of heating_ | 31390 J/mol | 1323.15 | Cr3Ga; _alloy: Ga 0.25_ | experimental | [1] Belgacem-Bouzida 2005 | Table 1, p. 3, row 1 |  |
+| Heat content; _printed: Enthalpy of heating_ | 31390 J/mol | 810.65 | Cr3Ga; _alloy: Ga 0.25_ | experimental | [1] Belgacem-Bouzida 2005 | Table 1, p. 3, row 5; `ORC-V35LLF2C3L` |  |
+| Heat content; _printed: Enthalpy of heating_ | 34900 J/mol | 860.65 | Cr3Ga; _alloy: Ga 0.25_ | experimental | [1] Belgacem-Bouzida 2005 | Table 2, p. 3, row 4; `ORC-Q2Y4GNQN2Z` |  |
+| Heat content; _printed: Enthalpy of heating_ | 31390 J/mol | 1323.15 | Cr3Ga; _alloy: Ga 0.25_ | experimental | [1] Belgacem-Bouzida 2005 | Table 1, p. 3, row 1; `ORC-IQR7EIJLTI` |  |
 
 ## Sources
 
@@ -229,4 +229,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -14,11 +14,11 @@ Table: Enthalpy of formation of Si2Zr reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -56.2933 kJ/mol-atom | Si2Zr | 298.15 | model |  | [Si–Zr](https://data.orchid-project.org/systems/SI-ZR.html) | [1] Gueneau 1994 | Table II, p. 4, row 5 |  |
-| -53.086 kJ/mol-atom ± 12.54 | Si2Zr | 298.15 | model |  | [Si–Zr](https://data.orchid-project.org/systems/SI-ZR.html) | [1] Gueneau 1994; _cites ref. 73Hul_ | Table II, p. 4, row 3 |  |
-| -51.308 kJ/mol-atom ± 0.973333 | Si2Zr | 298.15 | model |  | [Si–Zr](https://data.orchid-project.org/systems/SI-ZR.html) | [1] Gueneau 1994; _cites ref. 78Mas_ | Table II, p. 4, row 4 |  |
-| -50.2993 kJ/mol-atom | Si2Zr | 298.15 | model |  | [Si–Zr](https://data.orchid-project.org/systems/SI-ZR.html) | [1] Gueneau 1994; _cites ref. 73Bol_ | Table II, p. 4, row 2 |  |
-| -49.8813 kJ/mol-atom | Si2Zr | 298.15 | model |  | [Si–Zr](https://data.orchid-project.org/systems/SI-ZR.html) | [1] Gueneau 1994; _cites ref. 55Rob_ | Table II, p. 4, row 1 |  |
+| -56.2933 kJ/mol-atom | Si2Zr | 298.15 | model |  | [Si–Zr](https://data.orchid-project.org/systems/SI-ZR.html) | [1] Gueneau 1994 | Table II, p. 4, row 5; `ORC-4SZCPQN4JC` |  |
+| -53.086 kJ/mol-atom ± 12.54 | Si2Zr | 298.15 | model |  | [Si–Zr](https://data.orchid-project.org/systems/SI-ZR.html) | [1] Gueneau 1994; _cites ref. 73Hul_ | Table II, p. 4, row 3; `ORC-Q6H6ZGY4Z7` |  |
+| -51.308 kJ/mol-atom ± 0.973333 | Si2Zr | 298.15 | model |  | [Si–Zr](https://data.orchid-project.org/systems/SI-ZR.html) | [1] Gueneau 1994; _cites ref. 78Mas_ | Table II, p. 4, row 4; `ORC-KBZYVZIGJ5` |  |
+| -50.2993 kJ/mol-atom | Si2Zr | 298.15 | model |  | [Si–Zr](https://data.orchid-project.org/systems/SI-ZR.html) | [1] Gueneau 1994; _cites ref. 73Bol_ | Table II, p. 4, row 2; `ORC-DYBQKKPZFN` |  |
+| -49.8813 kJ/mol-atom | Si2Zr | 298.15 | model |  | [Si–Zr](https://data.orchid-project.org/systems/SI-ZR.html) | [1] Gueneau 1994; _cites ref. 55Rob_ | Table II, p. 4, row 1; `ORC-EMLXCFAGAA` |  |
 
 ### Uncertainty budget
 
@@ -98,4 +98,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -80,31 +80,31 @@ Table: Invariant reactions reported in the literature for the Ga–Pt system (25
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1634 | eutectic: L -> fcc + GaPt3 | GaPt3: Pt 0.75 | experimental | [1] Li 2006; _cites Gruex 1976_ | Table 1, p. 2, row 26 |  |
-| 1632 | eutectic: L -> fcc + GaPt3 | GaPt3: Pt 0.75 | model | [1] Li 2006 | Table 1, p. 2, row 27 |  |
-| 1422 | peritectic: L + GaPt3 -> GaPt2 | GaPt3: Pt 0.75; GaPt2: Pt 0.666667 | experimental | [1] Li 2006; _cites Gruex 1976_ | Table 1, p. 2, row 24 |  |
-| 1421 | peritectic: L + GaPt3 -> GaPt2 | GaPt3: Pt 0.75; GaPt2: Pt 0.666667 | model | [1] Li 2006 | Table 1, p. 2, row 25 |  |
-| 1415 | peritectic: L + GaPt2 -> Ga3Pt5 | GaPt2: Pt 0.666667; Ga3Pt5: Pt 0.625 | experimental | [1] Li 2006; _cites Gruex 1976_ | Table 1, p. 2, row 21 |  |
-| 1403 | eutectic: L -> GaPt2 + Ga5Pt3 | GaPt2: Pt 0.666667; Ga5Pt3: Pt 0.375 | model | [1] Li 2006 | Table 1, p. 2, row 23 |  |
-| 1307 | eutectic: L -> GaPt + Ga3Pt5 | GaPt: Pt 0.5; Ga3Pt5: Pt 0.625 | model | [1] Li 2006 | Table 1, p. 2, row 20 |  |
-| 1290 | eutectic: L -> GaPt + Ga3Pt5 | GaPt: Pt 0.5; Ga3Pt5: Pt 0.625 | experimental | [1] Li 2006; _cites Gruex 1976_ | Table 1, p. 2, row 19 |  |
-| 1210 | peritectic: L + GaPt -> Ga3Pt2 | GaPt: Pt 0.5; Ga3Pt2: Pt 0.4 | experimental | [1] Li 2006; _cites Gruex 1976_ | Table 1, p. 2, row 16 |  |
-| 1210 | peritectic: L + GaPt -> Ga3Pt2 | GaPt: Pt 0.5; Ga3Pt2: Pt 0.4 | model | [1] Li 2006 | Table 1, p. 2, row 18 |  |
-| 1195 | peritectic: L + Ga3Pt2 -> Ga2Pt | Ga3Pt2: Pt 0.4; Ga2Pt: Pt 0.333333 | experimental | [1] Li 2006; _cites Gruex 1976_ | Table 1, p. 2, row 12 |  |
-| 1188 | eutectic: L -> Ga3Pt2 + Ga2Pt | Ga3Pt2: Pt 0.4; Ga2Pt: Pt 0.333333 | model | [1] Li 2006 | Table 1, p. 2, row 15 |  |
-| 1153 | peritectic: L + GaPt -> Ga3Pt2 | GaPt: Pt 0.5; Ga3Pt2: Pt 0.4 | experimental | [1] Li 2006; _cites Jain 1968_ | Table 1, p. 2, row 17 |  |
-| 1095 | peritectic: L + Ga2Pt -> Ga7Pt3 | Ga2Pt: Pt 0.333333; Ga7Pt3: Pt 0.3 | experimental | [1] Li 2006; _cites Gruex 1976_ | Table 1, p. 2, row 6 |  |
-| 1095 | peritectic: L + Ga2Pt -> Ga7Pt3 | Ga2Pt: Pt 0.333333; Ga7Pt3: Pt 0.3 | model | [1] Li 2006 | Table 1, p. 2, row 8 |  |
-| 1043 | peritectic: L + Ga3Pt2 -> Ga2Pt | Ga3Pt2: Pt 0.4; Ga2Pt: Pt 0.333333 | experimental | [1] Li 2006; _cites Jain 1968_ | Table 1, p. 2, row 13 |  |
-| 863 | peritectic: L + Ga2Pt -> Ga7Pt3 | Ga2Pt: Pt 0.333333; Ga7Pt3: Pt 0.3 | experimental | [1] Li 2006; _cites Jain 1968_ | Table 1, p. 2, row 7 |  |
-| 563 | peritectic: L + Ga7Pt3 -> Ga6Pt | Ga7Pt3: Pt 0.3; Ga6Pt: Pt 0.142857 | experimental | [1] Li 2006; _cites Jain 1968_ | Table 1, p. 2, row 4 |  |
-| 563 | peritectic: L + Ga7Pt3 -> Ga6Pt | Ga7Pt3: Pt 0.3; Ga6Pt: Pt 0.142857 | model | [1] Li 2006 | Table 1, p. 2, row 5 |  |
-| 563 | peritectic: L + Ga7Pt3 -> Ga6Pt | Ga7Pt3: Pt 0.3; Ga6Pt: Pt 0.142857 | experimental | [1] Li 2006; _cites Gruex 1976_ | Table 1, p. 2, row 3 |  |
-| 427 | other: Ga2Pt -> Ga7Pt3 + Ga3Pt2 | Ga2Pt: Pt 0.333333; Ga7Pt3: Pt 0.3; Ga3Pt2: Pt 0.4 | model | [1] Li 2006 | Table 1, p. 2, row 11 |  |
-| 426 | other: Ga2Pt -> Ga7Pt3 + Ga3Pt2 | Ga2Pt: Pt 0.333333; Ga7Pt3: Pt 0.3; Ga3Pt2: Pt 0.4 | experimental | [1] Li 2006; _cites Gruex 1976_ | Table 1, p. 2, row 9 |  |
-| 423 | other: Ga2Pt -> Ga7Pt3 + Ga3Pt2 | Ga2Pt: Pt 0.333333; Ga7Pt3: Pt 0.3; Ga3Pt2: Pt 0.4 | experimental | [1] Li 2006; _cites Jain 1968_ | Table 1, p. 2, row 10 |  |
-| 303 | eutectic: L -> Ga + Ga6Pt | Ga: Pt 0; Ga6Pt: Pt 0.142857 | model | [1] Li 2006 | Table 1, p. 2, row 2 |  |
-| 301 | eutectic: L -> Ga + Ga6Pt | Ga: Pt 0; Ga6Pt: Pt 0.142857 | experimental | [1] Li 2006; _cites Gruex 1976_ | Table 1, p. 2, row 1 |  |
+| 1634 | eutectic: L -> fcc + GaPt3 | GaPt3: Pt 0.75 | experimental | [1] Li 2006; _cites Gruex 1976_ | Table 1, p. 2, row 26; `ORC-ZUVPOTQJPU` |  |
+| 1632 | eutectic: L -> fcc + GaPt3 | GaPt3: Pt 0.75 | model | [1] Li 2006 | Table 1, p. 2, row 27; `ORC-XNC4PXI272` |  |
+| 1422 | peritectic: L + GaPt3 -> GaPt2 | GaPt3: Pt 0.75; GaPt2: Pt 0.666667 | experimental | [1] Li 2006; _cites Gruex 1976_ | Table 1, p. 2, row 24; `ORC-OEQTJWYBRE` |  |
+| 1421 | peritectic: L + GaPt3 -> GaPt2 | GaPt3: Pt 0.75; GaPt2: Pt 0.666667 | model | [1] Li 2006 | Table 1, p. 2, row 25; `ORC-XUFZK5J7GK` |  |
+| 1415 | peritectic: L + GaPt2 -> Ga3Pt5 | GaPt2: Pt 0.666667; Ga3Pt5: Pt 0.625 | experimental | [1] Li 2006; _cites Gruex 1976_ | Table 1, p. 2, row 21; `ORC-YMLWMZLPJA` |  |
+| 1403 | eutectic: L -> GaPt2 + Ga5Pt3 | GaPt2: Pt 0.666667; Ga5Pt3: Pt 0.375 | model | [1] Li 2006 | Table 1, p. 2, row 23; `ORC-NOASUSP7I6` |  |
+| 1307 | eutectic: L -> GaPt + Ga3Pt5 | GaPt: Pt 0.5; Ga3Pt5: Pt 0.625 | model | [1] Li 2006 | Table 1, p. 2, row 20; `ORC-FKOQ5RFBHD` |  |
+| 1290 | eutectic: L -> GaPt + Ga3Pt5 | GaPt: Pt 0.5; Ga3Pt5: Pt 0.625 | experimental | [1] Li 2006; _cites Gruex 1976_ | Table 1, p. 2, row 19; `ORC-5HHGXQKSPS` |  |
+| 1210 | peritectic: L + GaPt -> Ga3Pt2 | GaPt: Pt 0.5; Ga3Pt2: Pt 0.4 | experimental | [1] Li 2006; _cites Gruex 1976_ | Table 1, p. 2, row 16; `ORC-PAWZV5GGVJ` |  |
+| 1210 | peritectic: L + GaPt -> Ga3Pt2 | GaPt: Pt 0.5; Ga3Pt2: Pt 0.4 | model | [1] Li 2006 | Table 1, p. 2, row 18; `ORC-RH6YWDEE4P` |  |
+| 1195 | peritectic: L + Ga3Pt2 -> Ga2Pt | Ga3Pt2: Pt 0.4; Ga2Pt: Pt 0.333333 | experimental | [1] Li 2006; _cites Gruex 1976_ | Table 1, p. 2, row 12; `ORC-CHKA7ZFDLU` |  |
+| 1188 | eutectic: L -> Ga3Pt2 + Ga2Pt | Ga3Pt2: Pt 0.4; Ga2Pt: Pt 0.333333 | model | [1] Li 2006 | Table 1, p. 2, row 15; `ORC-JDUWHPCQD4` |  |
+| 1153 | peritectic: L + GaPt -> Ga3Pt2 | GaPt: Pt 0.5; Ga3Pt2: Pt 0.4 | experimental | [1] Li 2006; _cites Jain 1968_ | Table 1, p. 2, row 17; `ORC-QWZVN43MSG` |  |
+| 1095 | peritectic: L + Ga2Pt -> Ga7Pt3 | Ga2Pt: Pt 0.333333; Ga7Pt3: Pt 0.3 | experimental | [1] Li 2006; _cites Gruex 1976_ | Table 1, p. 2, row 6; `ORC-4ZO4E24ZE6` |  |
+| 1095 | peritectic: L + Ga2Pt -> Ga7Pt3 | Ga2Pt: Pt 0.333333; Ga7Pt3: Pt 0.3 | model | [1] Li 2006 | Table 1, p. 2, row 8; `ORC-SATVMUDVF3` |  |
+| 1043 | peritectic: L + Ga3Pt2 -> Ga2Pt | Ga3Pt2: Pt 0.4; Ga2Pt: Pt 0.333333 | experimental | [1] Li 2006; _cites Jain 1968_ | Table 1, p. 2, row 13; `ORC-WYNNSEGFJK` |  |
+| 863 | peritectic: L + Ga2Pt -> Ga7Pt3 | Ga2Pt: Pt 0.333333; Ga7Pt3: Pt 0.3 | experimental | [1] Li 2006; _cites Jain 1968_ | Table 1, p. 2, row 7; `ORC-B7CNXC3K35` |  |
+| 563 | peritectic: L + Ga7Pt3 -> Ga6Pt | Ga7Pt3: Pt 0.3; Ga6Pt: Pt 0.142857 | experimental | [1] Li 2006; _cites Jain 1968_ | Table 1, p. 2, row 4; `ORC-C3Q2F3ILYA` |  |
+| 563 | peritectic: L + Ga7Pt3 -> Ga6Pt | Ga7Pt3: Pt 0.3; Ga6Pt: Pt 0.142857 | model | [1] Li 2006 | Table 1, p. 2, row 5; `ORC-LKZQNJH47H` |  |
+| 563 | peritectic: L + Ga7Pt3 -> Ga6Pt | Ga7Pt3: Pt 0.3; Ga6Pt: Pt 0.142857 | experimental | [1] Li 2006; _cites Gruex 1976_ | Table 1, p. 2, row 3; `ORC-SLI7JFWF7X` |  |
+| 427 | other: Ga2Pt -> Ga7Pt3 + Ga3Pt2 | Ga2Pt: Pt 0.333333; Ga7Pt3: Pt 0.3; Ga3Pt2: Pt 0.4 | model | [1] Li 2006 | Table 1, p. 2, row 11; `ORC-4X5MJAIPW5` |  |
+| 426 | other: Ga2Pt -> Ga7Pt3 + Ga3Pt2 | Ga2Pt: Pt 0.333333; Ga7Pt3: Pt 0.3; Ga3Pt2: Pt 0.4 | experimental | [1] Li 2006; _cites Gruex 1976_ | Table 1, p. 2, row 9; `ORC-A6EWRBSNQK` |  |
+| 423 | other: Ga2Pt -> Ga7Pt3 + Ga3Pt2 | Ga2Pt: Pt 0.333333; Ga7Pt3: Pt 0.3; Ga3Pt2: Pt 0.4 | experimental | [1] Li 2006; _cites Jain 1968_ | Table 1, p. 2, row 10; `ORC-SVAVR5SB7K` |  |
+| 303 | eutectic: L -> Ga + Ga6Pt | Ga: Pt 0; Ga6Pt: Pt 0.142857 | model | [1] Li 2006 | Table 1, p. 2, row 2; `ORC-BY75QFATS2` |  |
+| 301 | eutectic: L -> Ga + Ga6Pt | Ga: Pt 0; Ga6Pt: Pt 0.142857 | experimental | [1] Li 2006; _cites Gruex 1976_ | Table 1, p. 2, row 1; `ORC-D6CPNIJINQ` |  |
 
 ## Formation enthalpies
 
@@ -114,22 +114,22 @@ Table: Enthalpies of formation, Ga–Pt system (16)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Ga2Pt | [Ga2Pt](https://data.orchid-project.org/compounds/Ga2Pt.html) | -60.45 kJ/mol-atom | 298.15 | model | -56.063 (mp-aaaabgrv) | -56.439 (oqmd-17288) | [2] Wang 2009 | Table 1, p. 3, row 22 |  |
-| Ga2Pt |  | -59.79 kJ/mol-atom | 0 | DFT |  |  | [2] Wang 2009 | Table 1, p. 3, row 21 |  |
-| Ga3Pt2 | [Ga3Pt2](https://data.orchid-project.org/compounds/Ga3Pt2.html) | -65.09 kJ/mol-atom | 298.15 | model | -57.587 (mp-aaaabfrc) | -57.975 (oqmd-17289) | [2] Wang 2009 | Table 1, p. 3, row 24 |  |
-| Ga3Pt2 |  | -60.91 kJ/mol-atom | 0 | DFT |  |  | [2] Wang 2009 | Table 1, p. 3, row 23 |  |
-| Ga3Pt5 | [Ga3Pt5](https://data.orchid-project.org/compounds/Ga3Pt5.html) | -61.68 kJ/mol-atom | 298.15 | model | -53.529 (mp-aaaabtjj) | -53.883 (oqmd-17290) | [2] Wang 2009 | Table 1, p. 3, row 29 |  |
-| Ga3Pt5 |  | -56.16 kJ/mol-atom | 0 | DFT |  |  | [2] Wang 2009 | Table 1, p. 3, row 28 |  |
-| Ga7Pt3 | [Ga7Pt3](https://data.orchid-project.org/compounds/Ga7Pt3.html) | -59.23 kJ/mol-atom | 298.15 | model | -51.918 (mp-aaacpqea) | -51.998 (oqmd-22205) | [2] Wang 2009 | Table 1, p. 3, row 20 |  |
-| Ga7Pt3 |  | -54.57 kJ/mol-atom | 0 | DFT |  |  | [2] Wang 2009 | Table 1, p. 3, row 19 |  |
-| GaPt | [GaPt](https://data.orchid-project.org/compounds/GaPt.html) | -68.12 kJ/mol-atom | 298.15 | model | -60.784 (mp-aaacgjch) | -63.427 (oqmd-1374058) | [2] Wang 2009 | Table 1, p. 3, row 27 |  |
-| GaPt |  | -64.27 kJ/mol-atom | 0 | DFT |  |  | [2] Wang 2009 | Table 1, p. 3, row 26 |  |
-| GaPt | [GaPt](https://data.orchid-project.org/compounds/GaPt.html) | -59.6 kJ/mol-atom | 298.15 | experimental | -60.784 (mp-aaacgjch) | -63.427 (oqmd-1374058) | [2] Wang 2009; _cites Meschel 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901113-0) | Table 1, p. 3, row 25 |  |
-| GaPt2 | [GaPt2](https://data.orchid-project.org/compounds/GaPt2.html) | -58.1 kJ/mol-atom | 298.15 | model | -51.431 (mp-aaaaadhn) | -52.458 (oqmd-17285) | [2] Wang 2009 | Table 1, p. 3, row 31 |  |
-| GaPt2 |  | -54.07 kJ/mol-atom | 0 | DFT |  |  | [2] Wang 2009 | Table 1, p. 3, row 30 |  |
-| GaPt3 | [GaPt3](https://data.orchid-project.org/compounds/GaPt3.html) | -46.9 kJ/mol-atom | 298.15 | model | -42.855 (mp-aaabxcbt) | -43.749 (oqmd-17287) | [2] Wang 2009 | Table 1, p. 3, row 34 |  |
-| GaPt3 |  | -45.64 kJ/mol-atom | 0 | DFT |  |  | [2] Wang 2009 | Table 1, p. 3, row 33 |  |
-| GaPt3 | [GaPt3](https://data.orchid-project.org/compounds/GaPt3.html) | -43.5 kJ/mol-atom | 298.15 | experimental | -42.855 (mp-aaabxcbt) | -43.749 (oqmd-17287) | [2] Wang 2009; _cites Meschel 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901113-0) | Table 1, p. 3, row 32 |  |
+| Ga2Pt | [Ga2Pt](https://data.orchid-project.org/compounds/Ga2Pt.html) | -60.45 kJ/mol-atom | 298.15 | model | -56.063 (mp-aaaabgrv) | -56.439 (oqmd-17288) | [2] Wang 2009 | Table 1, p. 3, row 22; `ORC-EOY5OMMJYA` |  |
+| Ga2Pt |  | -59.79 kJ/mol-atom | 0 | DFT |  |  | [2] Wang 2009 | Table 1, p. 3, row 21; `ORC-RGZSYV2NTQ` |  |
+| Ga3Pt2 | [Ga3Pt2](https://data.orchid-project.org/compounds/Ga3Pt2.html) | -65.09 kJ/mol-atom | 298.15 | model | -57.587 (mp-aaaabfrc) | -57.975 (oqmd-17289) | [2] Wang 2009 | Table 1, p. 3, row 24; `ORC-TROLM6R44X` |  |
+| Ga3Pt2 |  | -60.91 kJ/mol-atom | 0 | DFT |  |  | [2] Wang 2009 | Table 1, p. 3, row 23; `ORC-4CUJV5AA2Y` |  |
+| Ga3Pt5 | [Ga3Pt5](https://data.orchid-project.org/compounds/Ga3Pt5.html) | -61.68 kJ/mol-atom | 298.15 | model | -53.529 (mp-aaaabtjj) | -53.883 (oqmd-17290) | [2] Wang 2009 | Table 1, p. 3, row 29; `ORC-CQ5GV45HOP` |  |
+| Ga3Pt5 |  | -56.16 kJ/mol-atom | 0 | DFT |  |  | [2] Wang 2009 | Table 1, p. 3, row 28; `ORC-JMZT6F2YOL` |  |
+| Ga7Pt3 | [Ga7Pt3](https://data.orchid-project.org/compounds/Ga7Pt3.html) | -59.23 kJ/mol-atom | 298.15 | model | -51.918 (mp-aaacpqea) | -51.998 (oqmd-22205) | [2] Wang 2009 | Table 1, p. 3, row 20; `ORC-TIB63ONXPV` |  |
+| Ga7Pt3 |  | -54.57 kJ/mol-atom | 0 | DFT |  |  | [2] Wang 2009 | Table 1, p. 3, row 19; `ORC-W7PSEMSMDO` |  |
+| GaPt | [GaPt](https://data.orchid-project.org/compounds/GaPt.html) | -68.12 kJ/mol-atom | 298.15 | model | -60.784 (mp-aaacgjch) | -63.427 (oqmd-1374058) | [2] Wang 2009 | Table 1, p. 3, row 27; `ORC-OJLDYBKZJA` |  |
+| GaPt |  | -64.27 kJ/mol-atom | 0 | DFT |  |  | [2] Wang 2009 | Table 1, p. 3, row 26; `ORC-TY63REOOVY` |  |
+| GaPt | [GaPt](https://data.orchid-project.org/compounds/GaPt.html) | -59.6 kJ/mol-atom | 298.15 | experimental | -60.784 (mp-aaacgjch) | -63.427 (oqmd-1374058) | [2] Wang 2009; _cites Meschel 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901113-0) | Table 1, p. 3, row 25; `ORC-TNJCATRVSR` |  |
+| GaPt2 | [GaPt2](https://data.orchid-project.org/compounds/GaPt2.html) | -58.1 kJ/mol-atom | 298.15 | model | -51.431 (mp-aaaaadhn) | -52.458 (oqmd-17285) | [2] Wang 2009 | Table 1, p. 3, row 31; `ORC-FSBF7Z4IUE` |  |
+| GaPt2 |  | -54.07 kJ/mol-atom | 0 | DFT |  |  | [2] Wang 2009 | Table 1, p. 3, row 30; `ORC-4LCIFYE6HT` |  |
+| GaPt3 | [GaPt3](https://data.orchid-project.org/compounds/GaPt3.html) | -46.9 kJ/mol-atom | 298.15 | model | -42.855 (mp-aaabxcbt) | -43.749 (oqmd-17287) | [2] Wang 2009 | Table 1, p. 3, row 34; `ORC-L3NDJANSEH` |  |
+| GaPt3 |  | -45.64 kJ/mol-atom | 0 | DFT |  |  | [2] Wang 2009 | Table 1, p. 3, row 33; `ORC-4OX745LQPS` |  |
+| GaPt3 | [GaPt3](https://data.orchid-project.org/compounds/GaPt3.html) | -43.5 kJ/mol-atom | 298.15 | experimental | -42.855 (mp-aaabxcbt) | -43.749 (oqmd-17287) | [2] Wang 2009; _cites Meschel 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901113-0) | Table 1, p. 3, row 32; `ORC-AVPMMCNHP4` |  |
 
 ## Other properties
 
@@ -139,10 +139,10 @@ Table: Phase transition, Ga–Pt system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1195 K | 1195 | congruent melting: L -> Ga2Pt; _L: Pt 0.333333; Ga2Pt: Pt 0.333333_ | model | [1] Li 2006 | Table 1, p. 2, row 14 |  |
-| Phase transition | 1405 K | 1405 | congruent melting: L -> Ga3Pt5; _L: Pt 0.625; Ga3Pt5: Pt 0.625_ | model | [1] Li 2006 | Table 1, p. 2, row 22 |  |
-| Phase transition | 1647 K | 1647 | congruent melting: L -> GaPt3; _L: Pt 0.75; GaPt3: Pt 0.75_ | experimental | [1] Li 2006; _cites Gruex 1976_ | Table 1, p. 2, row 28 |  |
-| Phase transition | 1649 K | 1649 | congruent melting: L -> GaPt3; _L: Pt 0.75; GaPt3: Pt 0.75_ | model | [1] Li 2006 | Table 1, p. 2, row 29 |  |
+| Phase transition | 1195 K | 1195 | congruent melting: L -> Ga2Pt; _L: Pt 0.333333; Ga2Pt: Pt 0.333333_ | model | [1] Li 2006 | Table 1, p. 2, row 14; `ORC-MXAKRXVNKC` |  |
+| Phase transition | 1405 K | 1405 | congruent melting: L -> Ga3Pt5; _L: Pt 0.625; Ga3Pt5: Pt 0.625_ | model | [1] Li 2006 | Table 1, p. 2, row 22; `ORC-UNLJHL34TD` |  |
+| Phase transition | 1647 K | 1647 | congruent melting: L -> GaPt3; _L: Pt 0.75; GaPt3: Pt 0.75_ | experimental | [1] Li 2006; _cites Gruex 1976_ | Table 1, p. 2, row 28; `ORC-MJ7OY2JUDA` |  |
+| Phase transition | 1649 K | 1649 | congruent melting: L -> GaPt3; _L: Pt 0.75; GaPt3: Pt 0.75_ | model | [1] Li 2006 | Table 1, p. 2, row 29; `ORC-VVMGCDJY57` |  |
 
 ## Sources
 
@@ -208,4 +208,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -14,10 +14,10 @@ Table: Enthalpy of formation of NiTi3 reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -13.68 kJ/mol-atom | NiTi3(D03) | 298.15 | model | CALPHAD | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Hu 2014 | Table 1, p. 5, row 17 |  |
-| -12.11 kJ/mol-atom | NiTi3(D03) | 0 | DFT | First-principles | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Hu 2014 | Table 1, p. 5, row 16 |  |
-| -8.04 kJ/mol-atom | Ti3Ni(L12) | 0 | DFT | Ab initio | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [2] Tokunaga 2004 | Table 2, p. 3, row 7 |  |
-| -5.69 kJ/mol-atom | Ti3Ni(D024) | 0 | DFT | Ab initio | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [2] Tokunaga 2004 | Table 2, p. 3, row 13 |  |
+| -13.68 kJ/mol-atom | NiTi3(D03) | 298.15 | model | CALPHAD | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Hu 2014 | Table 1, p. 5, row 17; `ORC-WKLF5QN66S` |  |
+| -12.11 kJ/mol-atom | NiTi3(D03) | 0 | DFT | First-principles | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Hu 2014 | Table 1, p. 5, row 16; `ORC-ROPQKQG3WK` |  |
+| -8.04 kJ/mol-atom | Ti3Ni(L12) | 0 | DFT | Ab initio | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [2] Tokunaga 2004 | Table 2, p. 3, row 7; `ORC-GHVW4IOUCB.9f2031` |  |
+| -5.69 kJ/mol-atom | Ti3Ni(D024) | 0 | DFT | Ab initio | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [2] Tokunaga 2004 | Table 2, p. 3, row 13; `ORC-U5LPOUSGI5.436bc2` |  |
 
 ### Uncertainty budget
 
@@ -97,4 +97,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

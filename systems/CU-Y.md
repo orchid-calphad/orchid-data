@@ -63,42 +63,42 @@ Table: Invariant reactions reported in the literature for the Cu–Y system (36)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1224 | congruent melting: Liquid \<=> Cu4Y | Liquid: Y 0.2; Cu4Y: Y 0.2 | unspecified | [1] Hämäläinen 1998 | Table I, p. 200, row 9 |  |
-| 1220 | congruent melting: Liquid \<=> CuY | Liquid: Y 0.5; CuY: Y 0.5 | unspecified | [1] Hämäläinen 1998 | Table I, p. 200, row 11 |  |
-| 1203 | L + YCu4 -> YCu6 | YCu4: Y 0.2; YCu6: Y 0.142857 | experimental | [2] Fries 1994; _cites ref. 61Dom_ | Table 2, p. 4, row 34 |  |
-| 1198 | peritectic: Liquid \<=> Cu4Y + Cu7Y2 | Liquid: Y 0.262; Cu4Y: Y 0.2; Cu7Y2: Y 0.222 | unspecified | [1] Hämäläinen 1998 | Table I, p. 200, row 4 |  |
-| 1198 | L + YCu4 -> Y2Cu7 | YCu4: Y 0.2; Y2Cu7: Y 0.222222 | experimental | [2] Fries 1994 | Table 2, p. 4, row 26 |  |
-| 1198 | L + YCu4 -> Y2Cu7 | YCu4: Y 0.2; Y2Cu7: Y 0.222222 | model | [2] Fries 1994 | Table 2, p. 4, row 27 |  |
-| 1193 | L + YCu4 -> Y2Cu7 | YCu4: Y 0.2; Y2Cu7: Y 0.222222 | experimental | [2] Fries 1994; _cites ref. 66Bea_ | Table 2, p. 4, row 25 |  |
-| 1184 | L + YCu4 -> YCu6 | YCu4: Y 0.2; YCu6: Y 0.142857 | model | [2] Fries 1994 | Table 2, p. 4, row 36 |  |
-| 1184 | L + YCu4 -> YCu6 | YCu4: Y 0.2; YCu6: Y 0.142857 | experimental | [2] Fries 1994 | Table 2, p. 4, row 35 |  |
-| 1184 | peritectic: Liquid + Cu4Y \<=> Cu6Y | Liquid: Y 0.133; Cu4Y: Y 0.2; Cu6Y: Y 0.147 | unspecified | [1] Hämäläinen 1998 | Table I, p. 200, row 5 |  |
-| 1183 | L + YCu4 -> YCu6 | YCu4: Y 0.2; YCu6: Y 0.142857 | experimental | [2] Fries 1994; _cites ref. 66Bea_ | Table 2, p. 4, row 33 |  |
-| 1163 | L -> (Cu) + YCu6 | YCu6: Y 0.142857 | experimental | [2] Fries 1994; _cites ref. 61Dom_ | Table 2, p. 4, row 39 |  |
-| 1155 | L -> (Cu) + YCu6 | YCu6: Y 0.142857 | experimental | [2] Fries 1994; _cites ref. 89Qi_ | Table 2, p. 4, row 41 |  |
-| 1153 | eutectic: Liquid \<=> fcc-A1 + Cu6Y | Liquid: Y 0.094; fcc-A1: Y 0; Cu6Y: Y 0.129 | unspecified | [1] Hämäläinen 1998 | Table I, p. 200, row 6 |  |
-| 1153 | L -> (Cu) + YCu6 | YCu6: Y 0.142857 | model | [2] Fries 1994 | Table 2, p. 4, row 43 |  |
-| 1153 | L -> (Cu) + YCu6 | YCu6: Y 0.142857 | experimental | [2] Fries 1994 | Table 2, p. 4, row 42 |  |
-| 1149 | congruent melting: Liquid \<=> Cu2Y-H | Liquid: Y 0.333; Cu2Y-H: Y 0.333 | unspecified | [1] Hämäläinen 1998 | Table I, p. 200, row 10 |  |
-| 1149 | L -> Y2Cu7 + YCu2 | Y2Cu7: Y 0.222222; YCu2: Y 0.333333 | model | [2] Fries 1994 | Table 2, p. 4, row 24 |  |
-| 1148.6 | eutectic: Liquid \<=> Cu2Y-H + Cu7Y2 | Liquid: Y 0.299; Cu2Y-H: Y 0.333; Cu7Y2: Y 0.222 | unspecified | [1] Hämäläinen 1998 | Table I, p. 200, row 3 |  |
-| 1139 | L -> (Cu) + YCu6 | YCu6: Y 0.142857 | experimental | [2] Fries 1994; _cites ref. 61Hae_ | Table 2, p. 4, row 38 |  |
-| 1135 | L -> Y2Cu7 + YCu2 | Y2Cu7: Y 0.222222; YCu2: Y 0.333333 | experimental | [2] Fries 1994; _cites ref. 61Hae_ | Table 2, p. 4, row 21 |  |
-| 1133 | L -> (Cu) + YCu6 | YCu6: Y 0.142857 | experimental | [2] Fries 1994; _cites ref. 75Fed_ | Table 2, p. 4, row 40 |  |
-| 1128 | polymorphic: Cu2Y-R \<=> Cu2Y-H | Cu2Y-R: Y 0.333; Cu2Y-H: Y 0.333 | unspecified | [1] Hämäläinen 1998 | Table I, p. 200, row 8 |  |
-| 1127 | L -> Y2Cu7 + YCu2 | Y2Cu7: Y 0.222222; YCu2: Y 0.333333 | experimental | [2] Fries 1994; _cites ref. 89Qi_ | Table 2, p. 4, row 23 |  |
-| 1123 | L -> (Cu) + YCu6 | YCu6: Y 0.142857 | experimental | [2] Fries 1994; _cites ref. 57Daa_ | Table 2, p. 4, row 37 |  |
-| 1116 | L -> YCu2(r) + YCu | YCu2(r): Y 0.333333; YCu: Y 0.5 | experimental | [2] Fries 1994 | Table 2, p. 4, row 12 |  |
-| 1113 | L -> YCu2(r) + YCu | YCu2(r): Y 0.333333; YCu: Y 0.5 | model | [2] Fries 1994 | Table 2, p. 4, row 13 |  |
-| 1113 | eutectic: Liquid \<=> Cu2Y-R + CuY | Liquid: Y 0.396; Cu2Y-R: Y 0.333; CuY: Y 0.5 | unspecified | [1] Hämäläinen 1998 | Table I, p. 200, row 2 |  |
-| 1113 | L -> Y2Cu7 + YCu2 | Y2Cu7: Y 0.222222; YCu2: Y 0.333333 | experimental | [2] Fries 1994; _cites ref. 61Dom_ | Table 2, p. 4, row 22 |  |
-| 1110 | L -> YCu2(r) + YCu | YCu2(r): Y 0.333333; YCu: Y 0.5 | experimental | [2] Fries 1994; _cites ref. 89Qi_ | Table 2, p. 4, row 11 |  |
-| 1109 | L -> YCu2(r) + YCu | YCu2(r): Y 0.333333; YCu: Y 0.5 | experimental | [2] Fries 1994; _cites ref. 61Hae_ | Table 2, p. 4, row 9 |  |
-| 1070 | L -> Y + YCu | YCu: Y 0.5 | model | [2] Fries 1994 | Table 2, p. 4, row 4 |  |
-| 1070 | L -> Y + YCu | YCu: Y 0.5 | experimental | [2] Fries 1994; _cites ref. 89Qi_ | Table 2, p. 4, row 3 |  |
-| 1070 | eutectic: Liquid \<=> CuY + hcp-A3 | Liquid: Y 0.646; CuY: Y 0.646; hcp-A3: Y 1 | unspecified | [1] Hämäläinen 1998 | Table I, p. 200, row 1 |  |
-| 1055 | L -> Y + YCu | YCu: Y 0.5 | experimental | [2] Fries 1994; _cites ref. 61Hae_ | Table 2, p. 4, row 1 |  |
-| 1033 | L -> Y + YCu | YCu: Y 0.5 | experimental | [2] Fries 1994; _cites ref. 61Dom_ | Table 2, p. 4, row 2 |  |
+| 1224 | congruent melting: Liquid \<=> Cu4Y | Liquid: Y 0.2; Cu4Y: Y 0.2 | unspecified | [1] Hämäläinen 1998 | Table I, p. 200, row 9; `ORC-UXGHNCS2P5` |  |
+| 1220 | congruent melting: Liquid \<=> CuY | Liquid: Y 0.5; CuY: Y 0.5 | unspecified | [1] Hämäläinen 1998 | Table I, p. 200, row 11; `ORC-6SO2SSVO7P` |  |
+| 1203 | L + YCu4 -> YCu6 | YCu4: Y 0.2; YCu6: Y 0.142857 | experimental | [2] Fries 1994; _cites ref. 61Dom_ | Table 2, p. 4, row 34; `ORC-ZEQ6W6JZJS` |  |
+| 1198 | peritectic: Liquid \<=> Cu4Y + Cu7Y2 | Liquid: Y 0.262; Cu4Y: Y 0.2; Cu7Y2: Y 0.222 | unspecified | [1] Hämäläinen 1998 | Table I, p. 200, row 4; `ORC-D3EZAHMC3G` |  |
+| 1198 | L + YCu4 -> Y2Cu7 | YCu4: Y 0.2; Y2Cu7: Y 0.222222 | experimental | [2] Fries 1994 | Table 2, p. 4, row 26; `ORC-ZFJN6PKEW4.9b350d` |  |
+| 1198 | L + YCu4 -> Y2Cu7 | YCu4: Y 0.2; Y2Cu7: Y 0.222222 | model | [2] Fries 1994 | Table 2, p. 4, row 27; `ORC-ZFJN6PKEW4.be24f9` |  |
+| 1193 | L + YCu4 -> Y2Cu7 | YCu4: Y 0.2; Y2Cu7: Y 0.222222 | experimental | [2] Fries 1994; _cites ref. 66Bea_ | Table 2, p. 4, row 25; `ORC-CBSPUZ3WC7` |  |
+| 1184 | L + YCu4 -> YCu6 | YCu4: Y 0.2; YCu6: Y 0.142857 | model | [2] Fries 1994 | Table 2, p. 4, row 36; `ORC-TOP7TDJGWD.06338f` |  |
+| 1184 | L + YCu4 -> YCu6 | YCu4: Y 0.2; YCu6: Y 0.142857 | experimental | [2] Fries 1994 | Table 2, p. 4, row 35; `ORC-TOP7TDJGWD.67a742` |  |
+| 1184 | peritectic: Liquid + Cu4Y \<=> Cu6Y | Liquid: Y 0.133; Cu4Y: Y 0.2; Cu6Y: Y 0.147 | unspecified | [1] Hämäläinen 1998 | Table I, p. 200, row 5; `ORC-XAE3MSASS7` |  |
+| 1183 | L + YCu4 -> YCu6 | YCu4: Y 0.2; YCu6: Y 0.142857 | experimental | [2] Fries 1994; _cites ref. 66Bea_ | Table 2, p. 4, row 33; `ORC-5CNUVJSAJG` |  |
+| 1163 | L -> (Cu) + YCu6 | YCu6: Y 0.142857 | experimental | [2] Fries 1994; _cites ref. 61Dom_ | Table 2, p. 4, row 39; `ORC-TEPFLTWOEQ` |  |
+| 1155 | L -> (Cu) + YCu6 | YCu6: Y 0.142857 | experimental | [2] Fries 1994; _cites ref. 89Qi_ | Table 2, p. 4, row 41; `ORC-YLKHOZR6S4` |  |
+| 1153 | eutectic: Liquid \<=> fcc-A1 + Cu6Y | Liquid: Y 0.094; fcc-A1: Y 0; Cu6Y: Y 0.129 | unspecified | [1] Hämäläinen 1998 | Table I, p. 200, row 6; `ORC-746GLM62QZ` |  |
+| 1153 | L -> (Cu) + YCu6 | YCu6: Y 0.142857 | model | [2] Fries 1994 | Table 2, p. 4, row 43; `ORC-HR75LZ7C6O.a6e29c` |  |
+| 1153 | L -> (Cu) + YCu6 | YCu6: Y 0.142857 | experimental | [2] Fries 1994 | Table 2, p. 4, row 42; `ORC-HR75LZ7C6O.b3837f` |  |
+| 1149 | congruent melting: Liquid \<=> Cu2Y-H | Liquid: Y 0.333; Cu2Y-H: Y 0.333 | unspecified | [1] Hämäläinen 1998 | Table I, p. 200, row 10; `ORC-NTG4M4PP6R` |  |
+| 1149 | L -> Y2Cu7 + YCu2 | Y2Cu7: Y 0.222222; YCu2: Y 0.333333 | model | [2] Fries 1994 | Table 2, p. 4, row 24; `ORC-YXQFYN4L4F` |  |
+| 1148.6 | eutectic: Liquid \<=> Cu2Y-H + Cu7Y2 | Liquid: Y 0.299; Cu2Y-H: Y 0.333; Cu7Y2: Y 0.222 | unspecified | [1] Hämäläinen 1998 | Table I, p. 200, row 3; `ORC-JQ4R2Q27JW` |  |
+| 1139 | L -> (Cu) + YCu6 | YCu6: Y 0.142857 | experimental | [2] Fries 1994; _cites ref. 61Hae_ | Table 2, p. 4, row 38; `ORC-AUIVRGFLMJ` |  |
+| 1135 | L -> Y2Cu7 + YCu2 | Y2Cu7: Y 0.222222; YCu2: Y 0.333333 | experimental | [2] Fries 1994; _cites ref. 61Hae_ | Table 2, p. 4, row 21; `ORC-QS4AD2HJK3` |  |
+| 1133 | L -> (Cu) + YCu6 | YCu6: Y 0.142857 | experimental | [2] Fries 1994; _cites ref. 75Fed_ | Table 2, p. 4, row 40; `ORC-OBXXXJJHUL` |  |
+| 1128 | polymorphic: Cu2Y-R \<=> Cu2Y-H | Cu2Y-R: Y 0.333; Cu2Y-H: Y 0.333 | unspecified | [1] Hämäläinen 1998 | Table I, p. 200, row 8; `ORC-TBVVAEDU4S` |  |
+| 1127 | L -> Y2Cu7 + YCu2 | Y2Cu7: Y 0.222222; YCu2: Y 0.333333 | experimental | [2] Fries 1994; _cites ref. 89Qi_ | Table 2, p. 4, row 23; `ORC-M5MK2BAVLS` |  |
+| 1123 | L -> (Cu) + YCu6 | YCu6: Y 0.142857 | experimental | [2] Fries 1994; _cites ref. 57Daa_ | Table 2, p. 4, row 37; `ORC-KC22ZHZFXJ` |  |
+| 1116 | L -> YCu2(r) + YCu | YCu2(r): Y 0.333333; YCu: Y 0.5 | experimental | [2] Fries 1994 | Table 2, p. 4, row 12; `ORC-JVUREU4YHZ` |  |
+| 1113 | L -> YCu2(r) + YCu | YCu2(r): Y 0.333333; YCu: Y 0.5 | model | [2] Fries 1994 | Table 2, p. 4, row 13; `ORC-CTXSXQTFGK` |  |
+| 1113 | eutectic: Liquid \<=> Cu2Y-R + CuY | Liquid: Y 0.396; Cu2Y-R: Y 0.333; CuY: Y 0.5 | unspecified | [1] Hämäläinen 1998 | Table I, p. 200, row 2; `ORC-ETWJG2L4G6` |  |
+| 1113 | L -> Y2Cu7 + YCu2 | Y2Cu7: Y 0.222222; YCu2: Y 0.333333 | experimental | [2] Fries 1994; _cites ref. 61Dom_ | Table 2, p. 4, row 22; `ORC-QYLFLGCKBP` |  |
+| 1110 | L -> YCu2(r) + YCu | YCu2(r): Y 0.333333; YCu: Y 0.5 | experimental | [2] Fries 1994; _cites ref. 89Qi_ | Table 2, p. 4, row 11; `ORC-O2J4FS5UJL` |  |
+| 1109 | L -> YCu2(r) + YCu | YCu2(r): Y 0.333333; YCu: Y 0.5 | experimental | [2] Fries 1994; _cites ref. 61Hae_ | Table 2, p. 4, row 9; `ORC-EU37VTC5KP` |  |
+| 1070 | L -> Y + YCu | YCu: Y 0.5 | model | [2] Fries 1994 | Table 2, p. 4, row 4; `ORC-HNGN6Y34OP` |  |
+| 1070 | L -> Y + YCu | YCu: Y 0.5 | experimental | [2] Fries 1994; _cites ref. 89Qi_ | Table 2, p. 4, row 3; `ORC-KMJD5YMLCH` |  |
+| 1070 | eutectic: Liquid \<=> CuY + hcp-A3 | Liquid: Y 0.646; CuY: Y 0.646; hcp-A3: Y 1 | unspecified | [1] Hämäläinen 1998 | Table I, p. 200, row 1; `ORC-M4EQZMRYMO` |  |
+| 1055 | L -> Y + YCu | YCu: Y 0.5 | experimental | [2] Fries 1994; _cites ref. 61Hae_ | Table 2, p. 4, row 1; `ORC-W47INOP2JH` |  |
+| 1033 | L -> Y + YCu | YCu: Y 0.5 | experimental | [2] Fries 1994; _cites ref. 61Dom_ | Table 2, p. 4, row 2; `ORC-HPGS5UBICX` |  |
 
 ## Other properties
 
@@ -108,23 +108,23 @@ Table: Phase transition, Cu–Y system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1128 K | 1128 | YCu2(r) -> YCu2(h); _YCu2(r): Y 0.333333; YCu2(h): Y 0.333333_ | experimental | [2] Fries 1994 | Table 2, p. 4, row 14 |  |
-| Phase transition | 1128 K | 1128 | YCu2(r) -> YCu2(h); _YCu2(r): Y 0.333333; YCu2(h): Y 0.333333_ | model | [2] Fries 1994 | Table 2, p. 4, row 15 |  |
-| Phase transition | 1166 K | 1166 | other | experimental | [2] Fries 1994 | p. 3 | “Note that the "liquidus" temperatures (second peak on heating) for all three samples are almost the same, 1166 K upon cooling, indicating a very flat liquidus at YCu2.” |
-| Phase transition | 1168 K | 1168 | L -> YCu2(h); _L: Y 0.333333; YCu2(h): Y 0.333333_ | experimental | [2] Fries 1994; _cites ref. 61Hae_ | Table 2, p. 4, row 16 |  |
-| Phase transition | 1170 K | 1170 | L -> YCu2(h); _L: Y 0.333333; YCu2(h): Y 0.333333_ | experimental | [2] Fries 1994; _cites ref. 89Qi_ | Table 2, p. 4, row 18 |  |
-| Phase transition | 1170 K | 1170 | L -> YCu2(h); _L: Y 0.333333; YCu2(h): Y 0.333333_ | experimental | [2] Fries 1994 | Table 2, p. 4, row 19 |  |
-| Phase transition | 1170 K | 1170 | L -> YCu2(h); _L: Y 0.333333; YCu2(h): Y 0.333333_ | model | [2] Fries 1994 | Table 2, p. 4, row 20 |  |
-| Phase transition | 1208 K | 1208 | L -> YCu; _L: Y 0.5; YCu: Y 0.5_ | experimental | [2] Fries 1994; _cites ref. 61Dom_ | Table 2, p. 4, row 6 |  |
-| Phase transition | 1208 K | 1208 | L -> YCu2(h); _L: Y 0.333333; YCu2(h): Y 0.333333_ | experimental | [2] Fries 1994; _cites ref. 61Dom_ | Table 2, p. 4, row 17 |  |
-| Phase transition | 1220 K | 1220 | L -> YCu; _L: Y 0.5; YCu: Y 0.5_ | experimental | [2] Fries 1994; _cites ref. 89Qi_ | Table 2, p. 4, row 7 |  |
-| Phase transition | 1220 K | 1220 | L -> YCu; _L: Y 0.5; YCu: Y 0.5_ | model | [2] Fries 1994 | Table 2, p. 4, row 8 |  |
-| Phase transition | 1225 K | 1225 | L -> YCu; _L: Y 0.5; YCu: Y 0.5_ | experimental | [2] Fries 1994; _cites ref. 61Hae_ | Table 2, p. 4, row 5 |  |
-| Phase transition | 1240 K | 1240 | L -> YCu4; _L: Y 0.2; YCu4: Y 0.2_ | experimental | [2] Fries 1994; _cites ref. 89Qi_ | Table 2, p. 4, row 30 |  |
-| Phase transition | 1244 K | 1244 | L -> YCu4; _L: Y 0.2; YCu4: Y 0.2_ | experimental | [2] Fries 1994 | Table 2, p. 4, row 31 |  |
-| Phase transition | 1244 K | 1244 | L -> YCu4; _L: Y 0.2; YCu4: Y 0.2_ | model | [2] Fries 1994 | Table 2, p. 4, row 32 |  |
-| Phase transition | 1248 K | 1248 | L -> YCu4; _L: Y 0.2; YCu4: Y 0.2_ | experimental | [2] Fries 1994; _cites ref. 66Bea_ | Table 2, p. 4, row 29 |  |
-| Phase transition | 1258 K | 1258 | L -> YCu4; _L: Y 0.2; YCu4: Y 0.2_ | experimental | [2] Fries 1994; _cites ref. 61Dom_ | Table 2, p. 4, row 28 |  |
+| Phase transition | 1128 K | 1128 | YCu2(r) -> YCu2(h); _YCu2(r): Y 0.333333; YCu2(h): Y 0.333333_ | experimental | [2] Fries 1994 | Table 2, p. 4, row 14; `ORC-NV6KDRHPNP.2fc85f` |  |
+| Phase transition | 1128 K | 1128 | YCu2(r) -> YCu2(h); _YCu2(r): Y 0.333333; YCu2(h): Y 0.333333_ | model | [2] Fries 1994 | Table 2, p. 4, row 15; `ORC-NV6KDRHPNP.ff1e4d` |  |
+| Phase transition | 1166 K | 1166 | other | experimental | [2] Fries 1994 | p. 3; `ORC-YCECZUQBCR` | “Note that the "liquidus" temperatures (second peak on heating) for all three samples are almost the same, 1166 K upon cooling, indicating a very flat liquidus at YCu2.” |
+| Phase transition | 1168 K | 1168 | L -> YCu2(h); _L: Y 0.333333; YCu2(h): Y 0.333333_ | experimental | [2] Fries 1994; _cites ref. 61Hae_ | Table 2, p. 4, row 16; `ORC-DMJFCS3IK3` |  |
+| Phase transition | 1170 K | 1170 | L -> YCu2(h); _L: Y 0.333333; YCu2(h): Y 0.333333_ | experimental | [2] Fries 1994; _cites ref. 89Qi_ | Table 2, p. 4, row 18; `ORC-ZQUSFQL43X` |  |
+| Phase transition | 1170 K | 1170 | L -> YCu2(h); _L: Y 0.333333; YCu2(h): Y 0.333333_ | experimental | [2] Fries 1994 | Table 2, p. 4, row 19; `ORC-ZRY5SJITEI.4dfca2` |  |
+| Phase transition | 1170 K | 1170 | L -> YCu2(h); _L: Y 0.333333; YCu2(h): Y 0.333333_ | model | [2] Fries 1994 | Table 2, p. 4, row 20; `ORC-ZRY5SJITEI.98ebcc` |  |
+| Phase transition | 1208 K | 1208 | L -> YCu; _L: Y 0.5; YCu: Y 0.5_ | experimental | [2] Fries 1994; _cites ref. 61Dom_ | Table 2, p. 4, row 6; `ORC-QDXUE6C2G3.b4ca6b` |  |
+| Phase transition | 1208 K | 1208 | L -> YCu2(h); _L: Y 0.333333; YCu2(h): Y 0.333333_ | experimental | [2] Fries 1994; _cites ref. 61Dom_ | Table 2, p. 4, row 17; `ORC-QDXUE6C2G3.00ef0a` |  |
+| Phase transition | 1220 K | 1220 | L -> YCu; _L: Y 0.5; YCu: Y 0.5_ | experimental | [2] Fries 1994; _cites ref. 89Qi_ | Table 2, p. 4, row 7; `ORC-N4NNJBNZDO` |  |
+| Phase transition | 1220 K | 1220 | L -> YCu; _L: Y 0.5; YCu: Y 0.5_ | model | [2] Fries 1994 | Table 2, p. 4, row 8; `ORC-PUUOS3TVVM` |  |
+| Phase transition | 1225 K | 1225 | L -> YCu; _L: Y 0.5; YCu: Y 0.5_ | experimental | [2] Fries 1994; _cites ref. 61Hae_ | Table 2, p. 4, row 5; `ORC-5MTHD25AVV` |  |
+| Phase transition | 1240 K | 1240 | L -> YCu4; _L: Y 0.2; YCu4: Y 0.2_ | experimental | [2] Fries 1994; _cites ref. 89Qi_ | Table 2, p. 4, row 30; `ORC-GQFSGXFVQD` |  |
+| Phase transition | 1244 K | 1244 | L -> YCu4; _L: Y 0.2; YCu4: Y 0.2_ | experimental | [2] Fries 1994 | Table 2, p. 4, row 31; `ORC-QZZX3W7EWY.741bbf` |  |
+| Phase transition | 1244 K | 1244 | L -> YCu4; _L: Y 0.2; YCu4: Y 0.2_ | model | [2] Fries 1994 | Table 2, p. 4, row 32; `ORC-QZZX3W7EWY.eba5ba` |  |
+| Phase transition | 1248 K | 1248 | L -> YCu4; _L: Y 0.2; YCu4: Y 0.2_ | experimental | [2] Fries 1994; _cites ref. 66Bea_ | Table 2, p. 4, row 29; `ORC-OICA3VTX22` |  |
+| Phase transition | 1258 K | 1258 | L -> YCu4; _L: Y 0.2; YCu4: Y 0.2_ | experimental | [2] Fries 1994; _cites ref. 61Dom_ | Table 2, p. 4, row 28; `ORC-SAUXEVCZKV` |  |
 
 ### Crystal structure (18)
 
@@ -132,24 +132,24 @@ Table: Crystal structure, Cu–Y system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 4.985 Å ± 0.003 | 973.15 | YCu6; _alloy: Cu 0.8427, Y 0.1573_ | experimental | [2] Fries 1994 | Table I, p. 4, row 5 |  |
-| Lattice a | 4.949 Å ± 0.004 | 973.15 | YCu6; _alloy: Cu 0.881, Y 0.119_ | experimental | [2] Fries 1994 | Table I, p. 4, row 6 |  |
-| Lattice a | 4.982 Å ± 0.014 | 973.15 | YCu6; _alloy: Cu 0.8322, Y 0.1678_ | experimental | [2] Fries 1994 | Table I, p. 4, row 4 |  |
-| Lattice a | 4.94 Å ± 0.002 | 1123.15 | YCu6; _alloy: Cu 0.8965, Y 0.1035_ | experimental | [2] Fries 1994 | Table I, p. 4, row 3 |  |
-| Lattice a | 4.985 Å ± 0.003 | 1123.15 | YCu6; _alloy: Cu 0.8341, Y 0.1659_ | experimental | [2] Fries 1994 | Table I, p. 4, row 1 |  |
-| Lattice a | 4.96 Å ± 0.001 | 1123.15 | YCu6; _alloy: Cu 0.8619, Y 0.1381_ | experimental | [2] Fries 1994 | Table I, p. 4, row 2 |  |
-| Lattice c | 4.124 Å ± 0.004 | 973.15 | YCu6; _alloy: Cu 0.8427, Y 0.1573_ | experimental | [2] Fries 1994 | Table I, p. 4, row 5 |  |
-| Lattice c | 4.15 Å ± 0.005 | 973.15 | YCu6; _alloy: Cu 0.881, Y 0.119_ | experimental | [2] Fries 1994 | Table I, p. 4, row 6 |  |
-| Lattice c | 4.122 Å ± 0.021 | 973.15 | YCu6; _alloy: Cu 0.8322, Y 0.1678_ | experimental | [2] Fries 1994 | Table I, p. 4, row 4 |  |
-| Lattice c | 4.152 Å ± 0.002 | 1123.15 | YCu6; _alloy: Cu 0.8965, Y 0.1035_ | experimental | [2] Fries 1994 | Table I, p. 4, row 3 |  |
-| Lattice c | 4.122 Å ± 0.004 | 1123.15 | YCu6; _alloy: Cu 0.8341, Y 0.1659_ | experimental | [2] Fries 1994 | Table I, p. 4, row 1 |  |
-| Lattice c | 4.142 Å ± 0.001 | 1123.15 | YCu6; _alloy: Cu 0.8619, Y 0.1381_ | experimental | [2] Fries 1994 | Table I, p. 4, row 2 |  |
-| lattice c a | 0.827 not_printed | 973.15 | YCu6; _alloy: Cu 0.8427, Y 0.1573_ | experimental | [2] Fries 1994 | Table I, p. 4, row 5 |  |
-| lattice c a | 0.839 not_printed | 973.15 | YCu6; _alloy: Cu 0.881, Y 0.119_ | experimental | [2] Fries 1994 | Table I, p. 4, row 6 |  |
-| lattice c a | 0.827 not_printed | 973.15 | YCu6; _alloy: Cu 0.8322, Y 0.1678_ | experimental | [2] Fries 1994 | Table I, p. 4, row 4 |  |
-| lattice c a | 0.84 not_printed | 1123.15 | YCu6; _alloy: Cu 0.8965, Y 0.1035_ | experimental | [2] Fries 1994 | Table I, p. 4, row 3 |  |
-| lattice c a | 0.827 not_printed | 1123.15 | YCu6; _alloy: Cu 0.8341, Y 0.1659_ | experimental | [2] Fries 1994 | Table I, p. 4, row 1 |  |
-| lattice c a | 0.835 not_printed | 1123.15 | YCu6; _alloy: Cu 0.8619, Y 0.1381_ | experimental | [2] Fries 1994 | Table I, p. 4, row 2 |  |
+| Lattice a | 4.985 Å ± 0.003 | 973.15 | YCu6; _alloy: Cu 0.8427, Y 0.1573_ | experimental | [2] Fries 1994 | Table I, p. 4, row 5; `ORC-5CS6I2MJ23.008633` |  |
+| Lattice a | 4.949 Å ± 0.004 | 973.15 | YCu6; _alloy: Cu 0.881, Y 0.119_ | experimental | [2] Fries 1994 | Table I, p. 4, row 6; `ORC-AFDVV27YAI.d96b74` |  |
+| Lattice a | 4.982 Å ± 0.014 | 973.15 | YCu6; _alloy: Cu 0.8322, Y 0.1678_ | experimental | [2] Fries 1994 | Table I, p. 4, row 4; `ORC-L37PPARX7S.3a9c28` |  |
+| Lattice a | 4.94 Å ± 0.002 | 1123.15 | YCu6; _alloy: Cu 0.8965, Y 0.1035_ | experimental | [2] Fries 1994 | Table I, p. 4, row 3; `ORC-FEDMT4CQQ4.9c0e30` |  |
+| Lattice a | 4.985 Å ± 0.003 | 1123.15 | YCu6; _alloy: Cu 0.8341, Y 0.1659_ | experimental | [2] Fries 1994 | Table I, p. 4, row 1; `ORC-OUL3ZKH5XB.59b096` |  |
+| Lattice a | 4.96 Å ± 0.001 | 1123.15 | YCu6; _alloy: Cu 0.8619, Y 0.1381_ | experimental | [2] Fries 1994 | Table I, p. 4, row 2; `ORC-QSKSVBTFHH.31561b` |  |
+| Lattice c | 4.124 Å ± 0.004 | 973.15 | YCu6; _alloy: Cu 0.8427, Y 0.1573_ | experimental | [2] Fries 1994 | Table I, p. 4, row 5; `ORC-5CS6I2MJ23.00d967` |  |
+| Lattice c | 4.15 Å ± 0.005 | 973.15 | YCu6; _alloy: Cu 0.881, Y 0.119_ | experimental | [2] Fries 1994 | Table I, p. 4, row 6; `ORC-AFDVV27YAI.c036f9` |  |
+| Lattice c | 4.122 Å ± 0.021 | 973.15 | YCu6; _alloy: Cu 0.8322, Y 0.1678_ | experimental | [2] Fries 1994 | Table I, p. 4, row 4; `ORC-L37PPARX7S.d1ae69` |  |
+| Lattice c | 4.152 Å ± 0.002 | 1123.15 | YCu6; _alloy: Cu 0.8965, Y 0.1035_ | experimental | [2] Fries 1994 | Table I, p. 4, row 3; `ORC-FEDMT4CQQ4.e2b7e6` |  |
+| Lattice c | 4.122 Å ± 0.004 | 1123.15 | YCu6; _alloy: Cu 0.8341, Y 0.1659_ | experimental | [2] Fries 1994 | Table I, p. 4, row 1; `ORC-OUL3ZKH5XB.d22a31` |  |
+| Lattice c | 4.142 Å ± 0.001 | 1123.15 | YCu6; _alloy: Cu 0.8619, Y 0.1381_ | experimental | [2] Fries 1994 | Table I, p. 4, row 2; `ORC-QSKSVBTFHH.677f24` |  |
+| lattice c a | 0.827 not_printed | 973.15 | YCu6; _alloy: Cu 0.8427, Y 0.1573_ | experimental | [2] Fries 1994 | Table I, p. 4, row 5; `ORC-5CS6I2MJ23.11dad4` |  |
+| lattice c a | 0.839 not_printed | 973.15 | YCu6; _alloy: Cu 0.881, Y 0.119_ | experimental | [2] Fries 1994 | Table I, p. 4, row 6; `ORC-AFDVV27YAI.c90f7b` |  |
+| lattice c a | 0.827 not_printed | 973.15 | YCu6; _alloy: Cu 0.8322, Y 0.1678_ | experimental | [2] Fries 1994 | Table I, p. 4, row 4; `ORC-L37PPARX7S.979ff4` |  |
+| lattice c a | 0.84 not_printed | 1123.15 | YCu6; _alloy: Cu 0.8965, Y 0.1035_ | experimental | [2] Fries 1994 | Table I, p. 4, row 3; `ORC-FEDMT4CQQ4.1ee5fc` |  |
+| lattice c a | 0.827 not_printed | 1123.15 | YCu6; _alloy: Cu 0.8341, Y 0.1659_ | experimental | [2] Fries 1994 | Table I, p. 4, row 1; `ORC-OUL3ZKH5XB.e17572` |  |
+| lattice c a | 0.835 not_printed | 1123.15 | YCu6; _alloy: Cu 0.8619, Y 0.1381_ | experimental | [2] Fries 1994 | Table I, p. 4, row 2; `ORC-QSKSVBTFHH.c51984` |  |
 
 ## Sources
 
@@ -215,4 +215,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

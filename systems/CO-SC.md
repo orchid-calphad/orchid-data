@@ -57,24 +57,24 @@ Table: Invariant reactions reported in the literature for the Co–Sc system (18
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1814.15 | congruent melting: L ↔ βSc | βSc: Sc 1 | model | [1] Liu 2008 | Table 2, p. 4, row 2 |  |
-| 1814.15 | congruent melting: L ↔ βSc | βSc: Sc 1 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 2, p. 4, row 1 |  |
-| 1793.15 | congruent melting: L ↔ Co2Sc |  | model | [1] Liu 2008 | Table 2, p. 4, row 16 |  |
-| 1793.15 | congruent melting: L ↔ Co2Sc |  | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 2, p. 4, row 15 |  |
-| 1768.15 | congruent melting: L ↔ αCo | αCo: Sc 0 | model | [1] Liu 2008 | Table 2, p. 4, row 20 |  |
-| 1768.15 | congruent melting: L ↔ αCo | αCo: Sc 0 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 2, p. 4, row 19 |  |
-| 1413.15 | eutectic: L ↔ Co2Sc + αCo | L: Sc 0.137; Co2Sc: Sc 0.31; αCo: Sc 0.006 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 2, p. 4, row 17 |  |
-| 1413.15 | eutectic: L ↔ Co2Sc + αCo | L: Sc 0.142; Co2Sc: Sc 0.31; αCo: Sc 0.013 | model | [1] Liu 2008 | Table 2, p. 4, row 18 |  |
-| 1323.15 | peritectic: L + Co2Sc ↔ CoSc | L: Sc 0.542; Co2Sc: Sc 0.364; CoSc: Sc 0.48 | model | [1] Liu 2008 | Table 2, p. 4, row 14 |  |
-| 1323.15 | peritectic: L + Co2Sc ↔ CoSc | Co2Sc: Sc 0.36; CoSc: Sc 0.48 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 2, p. 4, row 13 |  |
-| 1143.15 | peritectic: L + αSc ↔ CoSc3 | L: Sc 0.768; αSc: Sc 0.999; CoSc3: Sc 0.773 | model | [1] Liu 2008 | Table 2, p. 4, row 6 |  |
-| 1143.15 | peritectic: L + αSc ↔ CoSc3 | αSc: Sc 0.997; CoSc3: Sc 0.773 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 2, p. 4, row 5 |  |
-| 1113.15 | congruent melting: L ↔ CoSc2 | L: Sc 0.667; CoSc2: Sc 0.667 | model | [1] Liu 2008 | Table 2, p. 4, row 10 |  |
-| 1113.15 | congruent melting: L ↔ CoSc2 | L: Sc 0.667; CoSc2: Sc 0.667 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 2, p. 4, row 9 |  |
-| 1093.15 | eutectic: L ↔ CoSc + CoSc2 | L: Sc 0.63; CoSc: Sc 0.48; CoSc2: Sc 0.667 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 2, p. 4, row 11 |  |
-| 1092.15 | eutectic: L ↔ CoSc + CoSc2 | L: Sc 0.639; CoSc: Sc 0.48; CoSc2: Sc 0.667 | model | [1] Liu 2008 | Table 2, p. 4, row 12 |  |
-| 1046.15 | eutectic: L ↔ CoSc2 + CoSc3 | L: Sc 0.715; CoSc2: Sc 0.667; CoSc3: Sc 0.773 | model | [1] Liu 2008 | Table 2, p. 4, row 8 |  |
-| 1043.15 | eutectic: L ↔ CoSc2 + CoSc3 | L: Sc 0.715; CoSc2: Sc 0.667; CoSc3: Sc 0.773 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 2, p. 4, row 7 |  |
+| 1814.15 | congruent melting: L ↔ βSc | βSc: Sc 1 | model | [1] Liu 2008 | Table 2, p. 4, row 2; `ORC-EGI3XO6N5U` |  |
+| 1814.15 | congruent melting: L ↔ βSc | βSc: Sc 1 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 2, p. 4, row 1; `ORC-TBKXW7CRS4` |  |
+| 1793.15 | congruent melting: L ↔ Co2Sc |  | model | [1] Liu 2008 | Table 2, p. 4, row 16; `ORC-Q26QSWCYRY` |  |
+| 1793.15 | congruent melting: L ↔ Co2Sc |  | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 2, p. 4, row 15; `ORC-QPK25YS6IT` |  |
+| 1768.15 | congruent melting: L ↔ αCo | αCo: Sc 0 | model | [1] Liu 2008 | Table 2, p. 4, row 20; `ORC-2RKG4XNNAH` |  |
+| 1768.15 | congruent melting: L ↔ αCo | αCo: Sc 0 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 2, p. 4, row 19; `ORC-4XMTTVNNZZ` |  |
+| 1413.15 | eutectic: L ↔ Co2Sc + αCo | L: Sc 0.137; Co2Sc: Sc 0.31; αCo: Sc 0.006 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 2, p. 4, row 17; `ORC-CGGLQC2CFR` |  |
+| 1413.15 | eutectic: L ↔ Co2Sc + αCo | L: Sc 0.142; Co2Sc: Sc 0.31; αCo: Sc 0.013 | model | [1] Liu 2008 | Table 2, p. 4, row 18; `ORC-X7ABAGYPB5` |  |
+| 1323.15 | peritectic: L + Co2Sc ↔ CoSc | L: Sc 0.542; Co2Sc: Sc 0.364; CoSc: Sc 0.48 | model | [1] Liu 2008 | Table 2, p. 4, row 14; `ORC-56VM25WWV7` |  |
+| 1323.15 | peritectic: L + Co2Sc ↔ CoSc | Co2Sc: Sc 0.36; CoSc: Sc 0.48 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 2, p. 4, row 13; `ORC-M2SEJLJJUM` |  |
+| 1143.15 | peritectic: L + αSc ↔ CoSc3 | L: Sc 0.768; αSc: Sc 0.999; CoSc3: Sc 0.773 | model | [1] Liu 2008 | Table 2, p. 4, row 6; `ORC-6BGBEEDYZN` |  |
+| 1143.15 | peritectic: L + αSc ↔ CoSc3 | αSc: Sc 0.997; CoSc3: Sc 0.773 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 2, p. 4, row 5; `ORC-L3VEL2EQ6Z` |  |
+| 1113.15 | congruent melting: L ↔ CoSc2 | L: Sc 0.667; CoSc2: Sc 0.667 | model | [1] Liu 2008 | Table 2, p. 4, row 10; `ORC-JD74QM64F5` |  |
+| 1113.15 | congruent melting: L ↔ CoSc2 | L: Sc 0.667; CoSc2: Sc 0.667 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 2, p. 4, row 9; `ORC-Q5HRVC4ASY` |  |
+| 1093.15 | eutectic: L ↔ CoSc + CoSc2 | L: Sc 0.63; CoSc: Sc 0.48; CoSc2: Sc 0.667 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 2, p. 4, row 11; `ORC-MBUPYMOSVD` |  |
+| 1092.15 | eutectic: L ↔ CoSc + CoSc2 | L: Sc 0.639; CoSc: Sc 0.48; CoSc2: Sc 0.667 | model | [1] Liu 2008 | Table 2, p. 4, row 12; `ORC-WAUKB7LC2N` |  |
+| 1046.15 | eutectic: L ↔ CoSc2 + CoSc3 | L: Sc 0.715; CoSc2: Sc 0.667; CoSc3: Sc 0.773 | model | [1] Liu 2008 | Table 2, p. 4, row 8; `ORC-QGPICLFKUF` |  |
+| 1043.15 | eutectic: L ↔ CoSc2 + CoSc3 | L: Sc 0.715; CoSc2: Sc 0.667; CoSc3: Sc 0.773 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 2, p. 4, row 7; `ORC-A2SG3ZSCOE` |  |
 
 ## Sources
 
@@ -139,4 +139,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

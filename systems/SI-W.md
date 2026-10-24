@@ -72,48 +72,48 @@ Table: Invariant reactions reported in the literature for the Si–W system (42)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2643 | (L)+bcc->Si3W5 | L: W 0.58; bcc: W 0.92; Si3W5: W 0.625 | experimental | [1] Vahlas 1989; _cites ref. 58_ | Table 8, p. 15, row 28 |  |
-| 2594 | L \<-> W5Si3 | W5Si3: Si 0.375 | model | [2] Guo 2009 | Table 5, p. 5, row 4 |  |
-| 2593 | L \<-> W5Si3 | W5Si3: Si 0.375 | experimental | [2] Guo 2009; _cites Maksimov 1969_ | Table 5, p. 5, row 5 |  |
-| 2523 | (L)->Si3W5+bcc | L: W 0.8; Si3W5: W 0.625; bcc: W 0.95 | experimental | [1] Vahlas 1989; _cites ref. 18_ | Table 8, p. 15, row 30 |  |
-| 2483 | (L)->Si3W5+bcc | L: W 0.79; Si3W5: W 0.625; bcc: W 0.94 | experimental | [1] Vahlas 1989; _cites ref. 48_ | Table 8, p. 15, row 31 |  |
-| 2460 | L \<-> (W) + W5Si3 | L: Si 0.281; (W): Si 0.055; W5Si3: Si 0.375 | model | [2] Guo 2009 | Table 5, p. 5, row 1 |  |
-| 2453 | eutectic |  | experimental | [2] Guo 2009; _cites Maksimov 1969_ | p. 2 | “In the present optimization, three eutectic reactions at 1663, 2283, and 2453 K\[28\] are considered.” |
-| 2453 | L->Bcc+W5Si3 | W5Si3: W 0.625 | experimental | [3] Li 2013; _cites Maksimov 1969_ | Table 2, p. 3, row 3 |  |
-| 2453 | (L)->Si3W5+bcc | L: W 0.68; Si3W5: W 0.625; bcc: W 0.95 | experimental | [1] Vahlas 1989; _cites ref. 49_ | Table 8, p. 15, row 32 |  |
-| 2453 | L \<-> (W) + W5Si3 | L: Si 0.315; (W): Si 0.055; W5Si3: Si 0.375 | experimental | [2] Guo 2009; _cites Maksimov 1969_ | Table 5, p. 5, row 2 |  |
-| 2433 | L \<-> WSi2 | WSi2: Si 0.667 | model | [2] Guo 2009 | Table 5, p. 5, row 10 |  |
-| 2433 | L \<-> WSi2 | WSi2: Si 0.667 | experimental | [2] Guo 2009; _cites Maksimov 1969_ | Table 5, p. 5, row 11 |  |
-| 2368 | L \<-> W5Si3 | W5Si3: Si 0.375 | experimental | [2] Guo 2009; _cites Yu 1973_ | Table 5, p. 5, row 6 |  |
-| 2362 | (L)->Si3W5+bcc | L: W 0.671; Si3W5: W 0.625; bcc: W 0.97 | model | [1] Vahlas 1989 | Table 8, p. 15, row 29 |  |
-| 2358 | (L)->Si3W5+bcc | L: W 0.68; Si3W5: W 0.625; bcc: W 0.96 | experimental | [1] Vahlas 1989; _cites ref. 51_ | Table 8, p. 15, row 33 |  |
-| 2358 | L->Bcc+W5Si3 | W5Si3: W 0.625 | experimental | [3] Li 2013; _cites Kocherzhinskii 1973_ | Table 2, p. 3, row 8 |  |
-| 2358 | L \<-> (W) + W5Si3 | L: Si 0.32; (W): Si 0.05; W5Si3: Si 0.375 | experimental | [2] Guo 2009; _cites Yu 1973_ | Table 5, p. 5, row 3 |  |
-| 2343 | (L)->Si2W+Si3W5 | L: W 0.43; Si2W: W 0.333333; Si3W5: W 0.625 | experimental | [1] Vahlas 1989; _cites ref. 47_ | Table 8, p. 15, row 18 |  |
-| 2333 | (L)->Si2W+Si3W5 | L: W 0.41; Si2W: W 0.333333; Si3W5: W 0.625 | experimental | [1] Vahlas 1989; _cites ref. 18_ | Table 8, p. 15, row 19 |  |
-| 2293 | L \<-> WSi2 | WSi2: Si 0.667 | experimental | [2] Guo 2009; _cites Yu 1973_ | Table 5, p. 5, row 12 |  |
-| 2284 | L \<-> W5Si3 + WSi2 | L: Si 0.532; W5Si3: Si 0.375; WSi2: Si 0.667 | model | [2] Guo 2009 | Table 5, p. 5, row 7 |  |
-| 2283 | eutectic |  | experimental | [2] Guo 2009; _cites Maksimov 1969_ | p. 2 | “In the present optimization, three eutectic reactions at 1663, 2283, and 2453 K\[28\] are considered.” |
-| 2283 | L \<-> W5Si3 + WSi2 | L: Si 0.593; W5Si3: Si 0.4; WSi2: Si 0.667 | experimental | [2] Guo 2009; _cites Maksimov 1969_ | Table 5, p. 5, row 8 |  |
-| 2283 | (L)->Si2W+Si3W5 | L: W 0.405; Si2W: W 0.333333; Si3W5: W 0.625 | experimental | [1] Vahlas 1989; _cites ref. 53_ | Table 8, p. 15, row 22 |  |
-| 2283 | (L)->Si2W+Si3W5 | L: W 0.405; Si2W: W 0.333333; Si3W5: W 0.625 | experimental | [1] Vahlas 1989; _cites ref. 48_ | Table 8, p. 15, row 20 |  |
-| 2283 | L->W5Si3+WSi2 | W5Si3: W 0.625; WSi2: W 0.333333 | experimental | [3] Li 2013; _cites Maksimov 1969_ | Table 2, p. 3, row 4 |  |
-| 2213 | L->W5Si3+WSi2 | W5Si3: W 0.625; WSi2: W 0.333333 | experimental | [3] Li 2013; _cites Kocherzhinskii 1973_ | Table 2, p. 3, row 9 |  |
-| 2213 | (L)->Si2W+Si3W5 | L: W 0.475; Si2W: W 0.333333; Si3W5: W 0.625 | model | [1] Vahlas 1989 | Table 8, p. 15, row 17 |  |
-| 2213 | L \<-> W5Si3 + WSi2 | L: Si 0.53; W5Si3: Si 0.375; WSi2: Si 0.667 | experimental | [2] Guo 2009; _cites Yu 1973_ | Table 5, p. 5, row 9 |  |
-| 2213 | (L)->Si2W+Si3W5 | L: W 0.47; Si2W: W 0.333333; Si3W5: W 0.625 | experimental | [1] Vahlas 1989; _cites ref. 51_ | Table 8, p. 15, row 21 |  |
-| 1673 | (L)->Si(dia)+Si2W | L: W 0.008; Si(dia): W 0; Si2W: W 0.333333 | experimental | [1] Vahlas 1989; _cites ref. 18_ | Table 8, p. 15, row 7 |  |
-| 1673 | (L)->Si(dia)+Si2W | L: W 0.026; Si(dia): W 0; Si2W: W 0.333333 | experimental | [1] Vahlas 1989; _cites ref. 51_ | Table 8, p. 15, row 9 |  |
-| 1673 | L \<-> Si + WSi2 | L: Si 0.974; Si: Si 1; WSi2: Si 0.667 | experimental | [2] Guo 2009; _cites Yu 1973_ | Table 5, p. 5, row 15 |  |
-| 1673 | L->WSi2+Si | WSi2: W 0.333333; Si: W 0 | experimental | [3] Li 2013; _cites Kocherzhinskii 1973_ | Table 2, p. 3, row 10 |  |
-| 1666 | L \<-> Si + WSi2 | L: Si 0.956; Si: Si 1; WSi2: Si 0.667 | model | [2] Guo 2009 | Table 5, p. 5, row 13 |  |
-| 1663 | eutectic |  | experimental | [2] Guo 2009; _cites Maksimov 1969_ | p. 2 | “In the present optimization, three eutectic reactions at 1663, 2283, and 2453 K\[28\] are considered.” |
-| 1663 | L \<-> Si + WSi2 | L: Si 0.992; Si: Si 1; WSi2: Si 0.667 | experimental | [2] Guo 2009; _cites Maksimov 1969_ | Table 5, p. 5, row 14 |  |
-| 1663 | (L)->Si(dia)+Si2W | L: W 0.017; Si(dia): W 0; Si2W: W 0.333333 | experimental | [1] Vahlas 1989; _cites ref. 49_ | Table 8, p. 15, row 8 |  |
-| 1663 | L->WSi2+Si | WSi2: W 0.333333; Si: W 0 | experimental | [3] Li 2013; _cites Maksimov 1969_ | Table 2, p. 3, row 5 |  |
-| 1663 | (L)->Si(dia)+Si2W | L: W 0.001; Si(dia): W 0; Si2W: W 0.333333 | experimental | [1] Vahlas 1989; _cites ref. 48_ | Table 8, p. 15, row 6 |  |
-| 1661 | (L)->Si(dia)+Si2W | L: W 0.014; Si(dia): W 0; Si2W: W 0.333333 | experimental | [1] Vahlas 1989; _cites ref. 53_ | Table 8, p. 15, row 10 |  |
-| 1661 | (L)->Si(dia)+Si2W | L: W 0.043; Si(dia): W 0; Si2W: W 0.333333 | model | [1] Vahlas 1989 | Table 8, p. 15, row 5 |  |
+| 2643 | (L)+bcc->Si3W5 | L: W 0.58; bcc: W 0.92; Si3W5: W 0.625 | experimental | [1] Vahlas 1989; _cites ref. 58_ | Table 8, p. 15, row 28; `ORC-WTUIK2ISZF` |  |
+| 2594 | L \<-> W5Si3 | W5Si3: Si 0.375 | model | [2] Guo 2009 | Table 5, p. 5, row 4; `ORC-LKS25V4SYK` |  |
+| 2593 | L \<-> W5Si3 | W5Si3: Si 0.375 | experimental | [2] Guo 2009; _cites Maksimov 1969_ | Table 5, p. 5, row 5; `ORC-5VBEUTRS6I` |  |
+| 2523 | (L)->Si3W5+bcc | L: W 0.8; Si3W5: W 0.625; bcc: W 0.95 | experimental | [1] Vahlas 1989; _cites ref. 18_ | Table 8, p. 15, row 30; `ORC-T7UIWBEU5L` |  |
+| 2483 | (L)->Si3W5+bcc | L: W 0.79; Si3W5: W 0.625; bcc: W 0.94 | experimental | [1] Vahlas 1989; _cites ref. 48_ | Table 8, p. 15, row 31; `ORC-5CYIDM2H76` |  |
+| 2460 | L \<-> (W) + W5Si3 | L: Si 0.281; (W): Si 0.055; W5Si3: Si 0.375 | model | [2] Guo 2009 | Table 5, p. 5, row 1; `ORC-WUONSA3UZT` |  |
+| 2453 | eutectic |  | experimental | [2] Guo 2009; _cites Maksimov 1969_ | p. 2; `ORC-7BUQT2GDOV.8b3619` | “In the present optimization, three eutectic reactions at 1663, 2283, and 2453 K\[28\] are considered.” |
+| 2453 | L->Bcc+W5Si3 | W5Si3: W 0.625 | experimental | [3] Li 2013; _cites Maksimov 1969_ | Table 2, p. 3, row 3; `ORC-PHMG5PGDGH` |  |
+| 2453 | (L)->Si3W5+bcc | L: W 0.68; Si3W5: W 0.625; bcc: W 0.95 | experimental | [1] Vahlas 1989; _cites ref. 49_ | Table 8, p. 15, row 32; `ORC-QHRVKWDRJH` |  |
+| 2453 | L \<-> (W) + W5Si3 | L: Si 0.315; (W): Si 0.055; W5Si3: Si 0.375 | experimental | [2] Guo 2009; _cites Maksimov 1969_ | Table 5, p. 5, row 2; `ORC-VEFHUPGMAO` |  |
+| 2433 | L \<-> WSi2 | WSi2: Si 0.667 | model | [2] Guo 2009 | Table 5, p. 5, row 10; `ORC-5N37P76XUH` |  |
+| 2433 | L \<-> WSi2 | WSi2: Si 0.667 | experimental | [2] Guo 2009; _cites Maksimov 1969_ | Table 5, p. 5, row 11; `ORC-FK5GOJ75CQ` |  |
+| 2368 | L \<-> W5Si3 | W5Si3: Si 0.375 | experimental | [2] Guo 2009; _cites Yu 1973_ | Table 5, p. 5, row 6; `ORC-XTWQQBJTCE` |  |
+| 2362 | (L)->Si3W5+bcc | L: W 0.671; Si3W5: W 0.625; bcc: W 0.97 | model | [1] Vahlas 1989 | Table 8, p. 15, row 29; `ORC-XLUIXYA7PN` |  |
+| 2358 | (L)->Si3W5+bcc | L: W 0.68; Si3W5: W 0.625; bcc: W 0.96 | experimental | [1] Vahlas 1989; _cites ref. 51_ | Table 8, p. 15, row 33; `ORC-EDVY4FU2WX` |  |
+| 2358 | L->Bcc+W5Si3 | W5Si3: W 0.625 | experimental | [3] Li 2013; _cites Kocherzhinskii 1973_ | Table 2, p. 3, row 8; `ORC-FWCCH36WMR` |  |
+| 2358 | L \<-> (W) + W5Si3 | L: Si 0.32; (W): Si 0.05; W5Si3: Si 0.375 | experimental | [2] Guo 2009; _cites Yu 1973_ | Table 5, p. 5, row 3; `ORC-KUV64MFJS6` |  |
+| 2343 | (L)->Si2W+Si3W5 | L: W 0.43; Si2W: W 0.333333; Si3W5: W 0.625 | experimental | [1] Vahlas 1989; _cites ref. 47_ | Table 8, p. 15, row 18; `ORC-FCWLWND2FM` |  |
+| 2333 | (L)->Si2W+Si3W5 | L: W 0.41; Si2W: W 0.333333; Si3W5: W 0.625 | experimental | [1] Vahlas 1989; _cites ref. 18_ | Table 8, p. 15, row 19; `ORC-57536FDB6E` |  |
+| 2293 | L \<-> WSi2 | WSi2: Si 0.667 | experimental | [2] Guo 2009; _cites Yu 1973_ | Table 5, p. 5, row 12; `ORC-LFZIXYNS5W` |  |
+| 2284 | L \<-> W5Si3 + WSi2 | L: Si 0.532; W5Si3: Si 0.375; WSi2: Si 0.667 | model | [2] Guo 2009 | Table 5, p. 5, row 7; `ORC-RJXGXRQ7JT` |  |
+| 2283 | eutectic |  | experimental | [2] Guo 2009; _cites Maksimov 1969_ | p. 2; `ORC-7BUQT2GDOV.f8ca0a` | “In the present optimization, three eutectic reactions at 1663, 2283, and 2453 K\[28\] are considered.” |
+| 2283 | L \<-> W5Si3 + WSi2 | L: Si 0.593; W5Si3: Si 0.4; WSi2: Si 0.667 | experimental | [2] Guo 2009; _cites Maksimov 1969_ | Table 5, p. 5, row 8; `ORC-FEOYO4AC3M` |  |
+| 2283 | (L)->Si2W+Si3W5 | L: W 0.405; Si2W: W 0.333333; Si3W5: W 0.625 | experimental | [1] Vahlas 1989; _cites ref. 53_ | Table 8, p. 15, row 22; `ORC-HIFFCAG5IB` |  |
+| 2283 | (L)->Si2W+Si3W5 | L: W 0.405; Si2W: W 0.333333; Si3W5: W 0.625 | experimental | [1] Vahlas 1989; _cites ref. 48_ | Table 8, p. 15, row 20; `ORC-MS42VHMAUR` |  |
+| 2283 | L->W5Si3+WSi2 | W5Si3: W 0.625; WSi2: W 0.333333 | experimental | [3] Li 2013; _cites Maksimov 1969_ | Table 2, p. 3, row 4; `ORC-Z5EJSNGCVD` |  |
+| 2213 | L->W5Si3+WSi2 | W5Si3: W 0.625; WSi2: W 0.333333 | experimental | [3] Li 2013; _cites Kocherzhinskii 1973_ | Table 2, p. 3, row 9; `ORC-3KFXDRGPKM` |  |
+| 2213 | (L)->Si2W+Si3W5 | L: W 0.475; Si2W: W 0.333333; Si3W5: W 0.625 | model | [1] Vahlas 1989 | Table 8, p. 15, row 17; `ORC-N5LDRLYGZM` |  |
+| 2213 | L \<-> W5Si3 + WSi2 | L: Si 0.53; W5Si3: Si 0.375; WSi2: Si 0.667 | experimental | [2] Guo 2009; _cites Yu 1973_ | Table 5, p. 5, row 9; `ORC-YPO63WEOLK` |  |
+| 2213 | (L)->Si2W+Si3W5 | L: W 0.47; Si2W: W 0.333333; Si3W5: W 0.625 | experimental | [1] Vahlas 1989; _cites ref. 51_ | Table 8, p. 15, row 21; `ORC-ZUAZEXO4A2` |  |
+| 1673 | (L)->Si(dia)+Si2W | L: W 0.008; Si(dia): W 0; Si2W: W 0.333333 | experimental | [1] Vahlas 1989; _cites ref. 18_ | Table 8, p. 15, row 7; `ORC-N7IUUDCNMC` |  |
+| 1673 | (L)->Si(dia)+Si2W | L: W 0.026; Si(dia): W 0; Si2W: W 0.333333 | experimental | [1] Vahlas 1989; _cites ref. 51_ | Table 8, p. 15, row 9; `ORC-VBBL5VH35Z` |  |
+| 1673 | L \<-> Si + WSi2 | L: Si 0.974; Si: Si 1; WSi2: Si 0.667 | experimental | [2] Guo 2009; _cites Yu 1973_ | Table 5, p. 5, row 15; `ORC-YHCUJRPXPC` |  |
+| 1673 | L->WSi2+Si | WSi2: W 0.333333; Si: W 0 | experimental | [3] Li 2013; _cites Kocherzhinskii 1973_ | Table 2, p. 3, row 10; `ORC-YQPBNHLDXC` |  |
+| 1666 | L \<-> Si + WSi2 | L: Si 0.956; Si: Si 1; WSi2: Si 0.667 | model | [2] Guo 2009 | Table 5, p. 5, row 13; `ORC-L2CCTBJNPH` |  |
+| 1663 | eutectic |  | experimental | [2] Guo 2009; _cites Maksimov 1969_ | p. 2; `ORC-7BUQT2GDOV.08b6ca` | “In the present optimization, three eutectic reactions at 1663, 2283, and 2453 K\[28\] are considered.” |
+| 1663 | L \<-> Si + WSi2 | L: Si 0.992; Si: Si 1; WSi2: Si 0.667 | experimental | [2] Guo 2009; _cites Maksimov 1969_ | Table 5, p. 5, row 14; `ORC-BIW7AQZSBH` |  |
+| 1663 | (L)->Si(dia)+Si2W | L: W 0.017; Si(dia): W 0; Si2W: W 0.333333 | experimental | [1] Vahlas 1989; _cites ref. 49_ | Table 8, p. 15, row 8; `ORC-MLQLLFQ4WM` |  |
+| 1663 | L->WSi2+Si | WSi2: W 0.333333; Si: W 0 | experimental | [3] Li 2013; _cites Maksimov 1969_ | Table 2, p. 3, row 5; `ORC-TQVNTKWFVR` |  |
+| 1663 | (L)->Si(dia)+Si2W | L: W 0.001; Si(dia): W 0; Si2W: W 0.333333 | experimental | [1] Vahlas 1989; _cites ref. 48_ | Table 8, p. 15, row 6; `ORC-ZJDIXK3HCQ` |  |
+| 1661 | (L)->Si(dia)+Si2W | L: W 0.014; Si(dia): W 0; Si2W: W 0.333333 | experimental | [1] Vahlas 1989; _cites ref. 53_ | Table 8, p. 15, row 10; `ORC-6DVDW2EERG` |  |
+| 1661 | (L)->Si(dia)+Si2W | L: W 0.043; Si(dia): W 0; Si2W: W 0.333333 | model | [1] Vahlas 1989 | Table 8, p. 15, row 5; `ORC-MJE4QYEPWR` |  |
 
 ## Formation enthalpies
 
@@ -123,17 +123,17 @@ Table: Enthalpies of formation, Si–W system (11)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| W5Si3 |  | -145 kJ/mol (basis unstated) |  | model |  |  | [3] Li 2013; _cites Vahlas 1989_ [doi](https://doi.org/10.1016/0364-5916%2889%2990007-2) | Table 3, p. 3, row 6 |  |
-| W5Si3 |  | -138 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Li 2013; _cites Kematick 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990543-v) | Table 3, p. 3, row 4 |  |
-| W5Si3 |  | -136 kJ/mol (basis unstated) |  | model |  |  | [3] Li 2013 | Table 3, p. 3, row 7 |  |
-| W5Si3 |  | -135 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Li 2013; _cites Chart 1975_ [doi](https://doi.org/10.1179/030634575790445215) | Table 3, p. 3, row 3 |  |
-| W5Si3 |  | -133 kJ/mol (basis unstated) ± 25 | 298.15 | experimental |  |  | [3] Li 2013; _cites Fujiwara 2005_ [doi](https://doi.org/10.1016/j.jallcom.2004.08.100) | Table 3, p. 3, row 5 |  |
-| WSi2 |  | -93.7 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Li 2013; _cites Robinson 1955_ | Table 3, p. 3, row 2 |  |
-| WSi2 |  | -93 kJ/mol (basis unstated) |  | model |  |  | [3] Li 2013; _cites Vahlas 1989_ [doi](https://doi.org/10.1016/0364-5916%2889%2990007-2) | Table 3, p. 3, row 6 |  |
-| WSi2 |  | -92.7 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Li 2013; _cites Chart 1975_ [doi](https://doi.org/10.1179/030634575790445215) | Table 3, p. 3, row 3 |  |
-| WSi2 |  | -82 kJ/mol (basis unstated) ± 6 | 298.15 | experimental |  |  | [3] Li 2013; _cites Fujiwara 2005_ [doi](https://doi.org/10.1016/j.jallcom.2004.08.100) | Table 3, p. 3, row 5 |  |
-| WSi2 |  | -81 kJ/mol (basis unstated) |  | model |  |  | [3] Li 2013 | Table 3, p. 3, row 7 |  |
-| WSi2 |  | -79.6 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Li 2013; _cites Kematick 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990543-v) | Table 3, p. 3, row 4 |  |
+| W5Si3 |  | -145 kJ/mol (basis unstated) |  | model |  |  | [3] Li 2013; _cites Vahlas 1989_ [doi](https://doi.org/10.1016/0364-5916%2889%2990007-2) | Table 3, p. 3, row 6; `ORC-X5ICZCNSTZ.aa694d` |  |
+| W5Si3 |  | -138 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Li 2013; _cites Kematick 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990543-v) | Table 3, p. 3, row 4; `ORC-DQ5XVEOSHV.1deca5` |  |
+| W5Si3 |  | -136 kJ/mol (basis unstated) |  | model |  |  | [3] Li 2013 | Table 3, p. 3, row 7; `ORC-W6VSKXK5WJ.727901` |  |
+| W5Si3 |  | -135 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Li 2013; _cites Chart 1975_ [doi](https://doi.org/10.1179/030634575790445215) | Table 3, p. 3, row 3; `ORC-CTLRIFXFZB.b797e3` |  |
+| W5Si3 |  | -133 kJ/mol (basis unstated) ± 25 | 298.15 | experimental |  |  | [3] Li 2013; _cites Fujiwara 2005_ [doi](https://doi.org/10.1016/j.jallcom.2004.08.100) | Table 3, p. 3, row 5; `ORC-YDVLH77WJQ.daa7cc` |  |
+| WSi2 |  | -93.7 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Li 2013; _cites Robinson 1955_ | Table 3, p. 3, row 2; `ORC-HPIJVRKFS2` |  |
+| WSi2 |  | -93 kJ/mol (basis unstated) |  | model |  |  | [3] Li 2013; _cites Vahlas 1989_ [doi](https://doi.org/10.1016/0364-5916%2889%2990007-2) | Table 3, p. 3, row 6; `ORC-X5ICZCNSTZ.9abe38` |  |
+| WSi2 |  | -92.7 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Li 2013; _cites Chart 1975_ [doi](https://doi.org/10.1179/030634575790445215) | Table 3, p. 3, row 3; `ORC-CTLRIFXFZB.0d3825` |  |
+| WSi2 |  | -82 kJ/mol (basis unstated) ± 6 | 298.15 | experimental |  |  | [3] Li 2013; _cites Fujiwara 2005_ [doi](https://doi.org/10.1016/j.jallcom.2004.08.100) | Table 3, p. 3, row 5; `ORC-YDVLH77WJQ.89aa6c` |  |
+| WSi2 |  | -81 kJ/mol (basis unstated) |  | model |  |  | [3] Li 2013 | Table 3, p. 3, row 7; `ORC-W6VSKXK5WJ.988230` |  |
+| WSi2 |  | -79.6 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Li 2013; _cites Kematick 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990543-v) | Table 3, p. 3, row 4; `ORC-DQ5XVEOSHV.2a1836` |  |
 
 ## Other properties
 
@@ -143,30 +143,30 @@ Table: Phase transition, Si–W system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1685 K | 1685 | Si(dia)->Si(L); _Si(dia): W 0_ | experimental | [1] Vahlas 1989; _cites ref. 1_ | Table 8, p. 15, row 3 |  |
-| Phase transition | 1687 K | 1687 | Si(dia)->Si(L); _Si(dia): W 0_ | model | [1] Vahlas 1989 | Table 8, p. 15, row 1 |  |
-| Phase transition | 1687 K | 1687 | Si(dia)->Si(L); _Si(dia): W 0_ | experimental | [1] Vahlas 1989; _cites ref. 3_ | Table 8, p. 15, row 2 |  |
-| Phase transition | 1693 K | 1693 | Si(dia)->Si(L); _Si(dia): W 0_ | experimental | [1] Vahlas 1989; _cites ref. 51_ | Table 8, p. 15, row 4 |  |
-| Phase transition | 2275 K | 2275 | Si2W->L; _Si2W: W 0.333_ | model | [1] Vahlas 1989 | Table 8, p. 15, row 11 |  |
-| Phase transition | 2293 K | 2293 | Si2W; _Si2W: W 0.333333; L: W 0.333333_ | experimental | [3] Li 2013; _cites Kocherzhinskii 1973_ | Table 2, p. 3, row 11 |  |
-| Phase transition | 2293 K | 2293 | Si2W->L; _Si2W: W 0.333333_ | experimental | [1] Vahlas 1989; _cites ref. 51_ | Table 8, p. 15, row 15 |  |
-| Phase transition | 2368 K | 2368 | Si3W5; _Si3W5: W 0.625; L: W 0.625_ | experimental | [3] Li 2013; _cites Kocherzhinskii 1973_ | Table 2, p. 3, row 12 |  |
-| Phase transition | 2368 K | 2368 | Si3W5->(L); _Si3W5: W 0.625_ | experimental | [1] Vahlas 1989; _cites ref. 51_ | Table 8, p. 15, row 27 |  |
-| Phase transition | 2381 K | 2381 | Si3W5->(L); _Si3W5: W 0.625_ | model | [1] Vahlas 1989 | Table 8, p. 15, row 23 |  |
-| Phase transition | 2433 K | 2433 | Si2W; _Si2W: W 0.333333; L: W 0.333333_ | experimental | [3] Li 2013; _cites Maksimov 1969_ | Table 2, p. 3, row 6 |  |
-| Phase transition | 2433 K | 2433 | Si2W->L; _Si2W: W 0.333333_ | experimental | [1] Vahlas 1989; _cites ref. 49_ | Table 8, p. 15, row 14 |  |
-| Phase transition | 2433 K | 2433 | Si2W->L; _Si2W: W 0.333333_ | experimental | [1] Vahlas 1989; _cites ref. 53_ | Table 8, p. 15, row 16 |  |
-| Phase transition | 2436 K | 2436 | Si2W->L; _Si2W: W 0.333333_ | experimental | [1] Vahlas 1989; _cites ref. 48_ | Table 8, p. 15, row 13 |  |
-| Phase transition | 2438 K | 2438 | Si2W; _Si2W: W 0.333333; L: W 0.333333_ | experimental | [3] Li 2013; _cites Kieffer 1952_ | Table 2, p. 3, row 1 |  |
-| Phase transition | 2438 K | 2438 | Si2W->L; _Si2W: W 0.333_ | experimental | [1] Vahlas 1989; _cites ref. 18_ | Table 8, p. 15, row 12 |  |
-| Phase transition | 2583 K | 2583 | Si3W5->(L); _Si3W5: W 0.625_ | experimental | [1] Vahlas 1989; _cites ref. 18_ | Table 8, p. 15, row 26 |  |
-| Phase transition | 2593 K | 2593 | Si3W5; _Si3W5: W 0.625; L: W 0.625_ | experimental | [3] Li 2013; _cites Kieffer 1952_ | Table 2, p. 3, row 2 |  |
-| Phase transition | 2593 K | 2593 | Si3W5; _Si3W5: W 0.625; L: W 0.625_ | experimental | [3] Li 2013; _cites Maksimov 1969_ | Table 2, p. 3, row 7 |  |
-| Phase transition | 2593 K | 2593 | Si3W5->(L); _Si3W5: W 0.625_ | experimental | [1] Vahlas 1989; _cites ref. 47_ | Table 8, p. 15, row 24 |  |
-| Phase transition | 2641 K | 2641 | Si3W5->(L); _Si3W5: W 0.625_ | experimental | [1] Vahlas 1989; _cites ref. 48_ | Table 8, p. 15, row 25 |  |
-| Phase transition | 3680 K | 3680 | W(bcc)->(L); _W(bcc): W 1_ | experimental | [1] Vahlas 1989; _cites ref. 58_ | Table 8, p. 15, row 36 |  |
-| Phase transition | 3695 K | 3695 | W(bcc)->(L); _W(bcc): W 1_ | experimental | [1] Vahlas 1989; _cites ref. 10_ | Table 8, p. 15, row 35 |  |
-| Phase transition | 3695 K | 3695 | W(bcc)->(L); _W(bcc): W 1_ | model | [1] Vahlas 1989 | Table 8, p. 15, row 34 |  |
+| Phase transition | 1685 K | 1685 | Si(dia)->Si(L); _Si(dia): W 0_ | experimental | [1] Vahlas 1989; _cites ref. 1_ | Table 8, p. 15, row 3; `ORC-IE37F544HS` |  |
+| Phase transition | 1687 K | 1687 | Si(dia)->Si(L); _Si(dia): W 0_ | model | [1] Vahlas 1989 | Table 8, p. 15, row 1; `ORC-6HY6WAPUHB` |  |
+| Phase transition | 1687 K | 1687 | Si(dia)->Si(L); _Si(dia): W 0_ | experimental | [1] Vahlas 1989; _cites ref. 3_ | Table 8, p. 15, row 2; `ORC-R3PW4I2GTD` |  |
+| Phase transition | 1693 K | 1693 | Si(dia)->Si(L); _Si(dia): W 0_ | experimental | [1] Vahlas 1989; _cites ref. 51_ | Table 8, p. 15, row 4; `ORC-VGJ7ARQWM3` |  |
+| Phase transition | 2275 K | 2275 | Si2W->L; _Si2W: W 0.333_ | model | [1] Vahlas 1989 | Table 8, p. 15, row 11; `ORC-7LEFZUN3DL` |  |
+| Phase transition | 2293 K | 2293 | Si2W; _Si2W: W 0.333333; L: W 0.333333_ | experimental | [3] Li 2013; _cites Kocherzhinskii 1973_ | Table 2, p. 3, row 11; `ORC-7WD4C56XZ4` |  |
+| Phase transition | 2293 K | 2293 | Si2W->L; _Si2W: W 0.333333_ | experimental | [1] Vahlas 1989; _cites ref. 51_ | Table 8, p. 15, row 15; `ORC-DEL3TDJIJU` |  |
+| Phase transition | 2368 K | 2368 | Si3W5; _Si3W5: W 0.625; L: W 0.625_ | experimental | [3] Li 2013; _cites Kocherzhinskii 1973_ | Table 2, p. 3, row 12; `ORC-BREUCRACB6` |  |
+| Phase transition | 2368 K | 2368 | Si3W5->(L); _Si3W5: W 0.625_ | experimental | [1] Vahlas 1989; _cites ref. 51_ | Table 8, p. 15, row 27; `ORC-S2IJJ2ARFY` |  |
+| Phase transition | 2381 K | 2381 | Si3W5->(L); _Si3W5: W 0.625_ | model | [1] Vahlas 1989 | Table 8, p. 15, row 23; `ORC-4SAK5Y555I` |  |
+| Phase transition | 2433 K | 2433 | Si2W; _Si2W: W 0.333333; L: W 0.333333_ | experimental | [3] Li 2013; _cites Maksimov 1969_ | Table 2, p. 3, row 6; `ORC-MNONYTAUEP` |  |
+| Phase transition | 2433 K | 2433 | Si2W->L; _Si2W: W 0.333333_ | experimental | [1] Vahlas 1989; _cites ref. 49_ | Table 8, p. 15, row 14; `ORC-ETT3WAZCFK` |  |
+| Phase transition | 2433 K | 2433 | Si2W->L; _Si2W: W 0.333333_ | experimental | [1] Vahlas 1989; _cites ref. 53_ | Table 8, p. 15, row 16; `ORC-SY2LZRBH3Q` |  |
+| Phase transition | 2436 K | 2436 | Si2W->L; _Si2W: W 0.333333_ | experimental | [1] Vahlas 1989; _cites ref. 48_ | Table 8, p. 15, row 13; `ORC-5XMZGMXNSN` |  |
+| Phase transition | 2438 K | 2438 | Si2W; _Si2W: W 0.333333; L: W 0.333333_ | experimental | [3] Li 2013; _cites Kieffer 1952_ | Table 2, p. 3, row 1; `ORC-BD5OOXPGP3` |  |
+| Phase transition | 2438 K | 2438 | Si2W->L; _Si2W: W 0.333_ | experimental | [1] Vahlas 1989; _cites ref. 18_ | Table 8, p. 15, row 12; `ORC-I2LWE5QGP2` |  |
+| Phase transition | 2583 K | 2583 | Si3W5->(L); _Si3W5: W 0.625_ | experimental | [1] Vahlas 1989; _cites ref. 18_ | Table 8, p. 15, row 26; `ORC-LDVSYHOXRB` |  |
+| Phase transition | 2593 K | 2593 | Si3W5; _Si3W5: W 0.625; L: W 0.625_ | experimental | [3] Li 2013; _cites Kieffer 1952_ | Table 2, p. 3, row 2; `ORC-U3SV5XRCFC` |  |
+| Phase transition | 2593 K | 2593 | Si3W5; _Si3W5: W 0.625; L: W 0.625_ | experimental | [3] Li 2013; _cites Maksimov 1969_ | Table 2, p. 3, row 7; `ORC-ZOYC7UTJ6D` |  |
+| Phase transition | 2593 K | 2593 | Si3W5->(L); _Si3W5: W 0.625_ | experimental | [1] Vahlas 1989; _cites ref. 47_ | Table 8, p. 15, row 24; `ORC-J4JR53BF5R` |  |
+| Phase transition | 2641 K | 2641 | Si3W5->(L); _Si3W5: W 0.625_ | experimental | [1] Vahlas 1989; _cites ref. 48_ | Table 8, p. 15, row 25; `ORC-UALZKXAFCJ` |  |
+| Phase transition | 3680 K | 3680 | W(bcc)->(L); _W(bcc): W 1_ | experimental | [1] Vahlas 1989; _cites ref. 58_ | Table 8, p. 15, row 36; `ORC-7QXXFGFVRK` |  |
+| Phase transition | 3695 K | 3695 | W(bcc)->(L); _W(bcc): W 1_ | experimental | [1] Vahlas 1989; _cites ref. 10_ | Table 8, p. 15, row 35; `ORC-BCK6SE7HY5` |  |
+| Phase transition | 3695 K | 3695 | W(bcc)->(L); _W(bcc): W 1_ | model | [1] Vahlas 1989 | Table 8, p. 15, row 34; `ORC-U5FAAX2YMT` |  |
 
 ### Crystal structure (4)
 
@@ -174,10 +174,10 @@ Table: Crystal structure, Si–W system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 9.59 Å | 298.15 | W5Si3; _alloy: Si 0.375, W 0.625_ | model | [3] Li 2013; _cites Daams 1991_ | Table 1, p. 2, row 8 |  |
-| Lattice a | 3.22 Å | 298.15 | WSi2; _alloy: Si 0.666667, W 0.333333_ | model | [3] Li 2013; _cites Daams 1991_ | Table 1, p. 2, row 9 |  |
-| Lattice c | 4.92 Å | 298.15 | W5Si3; _alloy: Si 0.375, W 0.625_ | model | [3] Li 2013; _cites Daams 1991_ | Table 1, p. 2, row 8 |  |
-| Lattice c | 7.83 Å | 298.15 | WSi2; _alloy: Si 0.666667, W 0.333333_ | model | [3] Li 2013; _cites Daams 1991_ | Table 1, p. 2, row 9 |  |
+| Lattice a | 9.59 Å | 298.15 | W5Si3; _alloy: Si 0.375, W 0.625_ | model | [3] Li 2013; _cites Daams 1991_ | Table 1, p. 2, row 8; `ORC-UZMRHXNLVA.9539ed` |  |
+| Lattice a | 3.22 Å | 298.15 | WSi2; _alloy: Si 0.666667, W 0.333333_ | model | [3] Li 2013; _cites Daams 1991_ | Table 1, p. 2, row 9; `ORC-JKAGBUY5KR.4f73d7` |  |
+| Lattice c | 4.92 Å | 298.15 | W5Si3; _alloy: Si 0.375, W 0.625_ | model | [3] Li 2013; _cites Daams 1991_ | Table 1, p. 2, row 8; `ORC-UZMRHXNLVA.17ff73` |  |
+| Lattice c | 7.83 Å | 298.15 | WSi2; _alloy: Si 0.666667, W 0.333333_ | model | [3] Li 2013; _cites Daams 1991_ | Table 1, p. 2, row 9; `ORC-JKAGBUY5KR.390bc1` |  |
 
 ## Sources
 
@@ -244,4 +244,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

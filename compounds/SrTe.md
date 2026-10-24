@@ -14,11 +14,11 @@ Table: Enthalpy of formation of SrTe reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -168 kJ/mol-atom | SrTe | 298.15 | model | CALPHAD | [Sr–Te](https://data.orchid-project.org/systems/SR-TE.html) | [1] Yu 2022 | Table 2, p. 5, row 23 |  |
-| -187.88 kJ/mol-atom | SrTe | 0 | DFT | First-principles | [Sr–Te](https://data.orchid-project.org/systems/SR-TE.html) | [1] Yu 2022; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table 2, p. 5, row 22 |  |
-| -174 kJ/mol-atom | SrTe | 0 | DFT | First-principles | [Sr–Te](https://data.orchid-project.org/systems/SR-TE.html) | [1] Yu 2022; _cites Labidi 2008_ | Table 2, p. 5, row 20 |  |
-| -167.98 kJ/mol-atom | SrTe | 0 | DFT | First-principles | [Sr–Te](https://data.orchid-project.org/systems/SR-TE.html) | [1] Yu 2022 | Table 2, p. 5, row 19 |  |
-| -167.97 kJ/mol-atom | SrTe | 0 | DFT | First-principles | [Sr–Te](https://data.orchid-project.org/systems/SR-TE.html) | [1] Yu 2022; _cites Saal 2013_ [doi](https://doi.org/10.1007/s11837-013-0755-4) | Table 2, p. 5, row 21 |  |
+| -168 kJ/mol-atom | SrTe | 298.15 | model | CALPHAD | [Sr–Te](https://data.orchid-project.org/systems/SR-TE.html) | [1] Yu 2022 | Table 2, p. 5, row 23; `ORC-RB7CJ7X7UV` |  |
+| -187.88 kJ/mol-atom | SrTe | 0 | DFT | First-principles | [Sr–Te](https://data.orchid-project.org/systems/SR-TE.html) | [1] Yu 2022; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table 2, p. 5, row 22; `ORC-WCUTKKVVE2` |  |
+| -174 kJ/mol-atom | SrTe | 0 | DFT | First-principles | [Sr–Te](https://data.orchid-project.org/systems/SR-TE.html) | [1] Yu 2022; _cites Labidi 2008_ | Table 2, p. 5, row 20; `ORC-AMQQ2ERCC5` |  |
+| -167.98 kJ/mol-atom | SrTe | 0 | DFT | First-principles | [Sr–Te](https://data.orchid-project.org/systems/SR-TE.html) | [1] Yu 2022 | Table 2, p. 5, row 19; `ORC-ZGM6VXBR7V` |  |
+| -167.97 kJ/mol-atom | SrTe | 0 | DFT | First-principles | [Sr–Te](https://data.orchid-project.org/systems/SR-TE.html) | [1] Yu 2022; _cites Saal 2013_ [doi](https://doi.org/10.1007/s11837-013-0755-4) | Table 2, p. 5, row 21; `ORC-W6B74HU54M` |  |
 
 ### Uncertainty budget
 
@@ -98,4 +98,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

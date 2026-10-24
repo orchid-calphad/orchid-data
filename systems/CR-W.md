@@ -40,7 +40,7 @@ Table: Invariant reactions reported in the literature for the Cr–W system (1)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1673 | peritectic |  | experimental | [1] Gustafson 1988; _cites ref. 8_ | p. 1 | “Laugee et al. also performed DTA on cooling of an alloy with the overall composition 14 at% Wand 28 at% Ni. By combination with SEM analysis they were able to show that sigma phase forms peritectically from the liquid at a temperature close to 1673 K However, they were not able to include the sigma phase in their thermodynamic analysis, since no reliable data were available on its region of stabi…” |
+| 1673 | peritectic |  | experimental | [1] Gustafson 1988; _cites ref. 8_ | p. 1; `ORC-LNXZW4VRDX` | “Laugee et al. also performed DTA on cooling of an alloy with the overall composition 14 at% Wand 28 at% Ni. By combination with SEM analysis they were able to show that sigma phase forms peritectically from the liquid at a temperature close to 1673 K However, they were not able to include the sigma phase in their thermodynamic analysis, since no reliable data were available on its region of stabi…” |
 
 ## Other properties
 
@@ -50,9 +50,9 @@ Table: Phase transition, Cr–W system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1204 K | 1204 | sigma + fcc + bcc2 | model | [1] Gustafson 1988 | p. 5 | “The sigma phase decomposes into fcc,bccl and bcc2 at 1204 K according to the present description, a value that compares very well with the value 1238 K expected by Kikuchi et al. (12,lB).” |
-| Phase transition | 1238 K | 1238 | sigma + fcc + bcc2 | experimental | [1] Gustafson 1988; _cites ref. 12_ | p. 5 | “The sigma phase decomposes into fcc,bccl and bcc2 at 1204 K according to the present description, a value that compares very well with the value 1238 K expected by Kikuchi et al. (12,lB).” |
-| Phase transition | 2047 K | 2047 | other | model | [1] Gustafson 1988 | p. 5 | “In the calculated diagram the liquid/bccl+bcc2 line starts at about 2047 K. This critical point represents the maximum temperature for the bccVbcc2 miscibility gap in the ternary system.” |
+| Phase transition | 1204 K | 1204 | sigma + fcc + bcc2 | model | [1] Gustafson 1988 | p. 5; `ORC-KH3UW65WDD.4857dd` | “The sigma phase decomposes into fcc,bccl and bcc2 at 1204 K according to the present description, a value that compares very well with the value 1238 K expected by Kikuchi et al. (12,lB).” |
+| Phase transition | 1238 K | 1238 | sigma + fcc + bcc2 | experimental | [1] Gustafson 1988; _cites ref. 12_ | p. 5; `ORC-KH3UW65WDD.f1fb03` | “The sigma phase decomposes into fcc,bccl and bcc2 at 1204 K according to the present description, a value that compares very well with the value 1238 K expected by Kikuchi et al. (12,lB).” |
+| Phase transition | 2047 K | 2047 | other | model | [1] Gustafson 1988 | p. 5; `ORC-JBCLGY2H7R` | “In the calculated diagram the liquid/bccl+bcc2 line starts at about 2047 K. This critical point represents the maximum temperature for the bccVbcc2 miscibility gap in the ternary system.” |
 
 ## Sources
 
@@ -117,4 +117,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

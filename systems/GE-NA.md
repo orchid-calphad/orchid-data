@@ -53,9 +53,9 @@ Table: Invariant reactions reported in the literature for the Ge–Na system (3)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1203.15 | eutectic: L → (Ge)+ GeNa |  | experimental | [1] Wang 2012; _cites Drits 1982_ | p. 1 | “Three eutectic reactions L → (Ge)+ GeNa, L → GeNa + GeNa3 and L → GeNa3 +(Na) were determined to be at 930 °C (∼2.5 at.% Na), 765 °C (∼75 at.% Na) and about 97.8 °C, respectively \[12\].” |
-| 1038.15 | eutectic: L → GeNa + GeNa3 |  | experimental | [1] Wang 2012; _cites Drits 1982_ | p. 1 | “Three eutectic reactions L → (Ge)+ GeNa, L → GeNa + GeNa3 and L → GeNa3 +(Na) were determined to be at 930 °C (∼2.5 at.% Na), 765 °C (∼75 at.% Na) and about 97.8 °C, respectively \[12\].” |
-| 370.95 | eutectic: L → GeNa3 +(Na) |  | experimental | [1] Wang 2012; _cites Drits 1982_ | p. 1 | “Three eutectic reactions L → (Ge)+ GeNa, L → GeNa + GeNa3 and L → GeNa3 +(Na) were determined to be at 930 °C (∼2.5 at.% Na), 765 °C (∼75 at.% Na) and about 97.8 °C, respectively \[12\].” |
+| 1203.15 | eutectic: L → (Ge)+ GeNa |  | experimental | [1] Wang 2012; _cites Drits 1982_ | p. 1; `ORC-4IVQRCDQIT.4593f8` | “Three eutectic reactions L → (Ge)+ GeNa, L → GeNa + GeNa3 and L → GeNa3 +(Na) were determined to be at 930 °C (∼2.5 at.% Na), 765 °C (∼75 at.% Na) and about 97.8 °C, respectively \[12\].” |
+| 1038.15 | eutectic: L → GeNa + GeNa3 |  | experimental | [1] Wang 2012; _cites Drits 1982_ | p. 1; `ORC-4IVQRCDQIT.a63bb4` | “Three eutectic reactions L → (Ge)+ GeNa, L → GeNa + GeNa3 and L → GeNa3 +(Na) were determined to be at 930 °C (∼2.5 at.% Na), 765 °C (∼75 at.% Na) and about 97.8 °C, respectively \[12\].” |
+| 370.95 | eutectic: L → GeNa3 +(Na) |  | experimental | [1] Wang 2012; _cites Drits 1982_ | p. 1; `ORC-4IVQRCDQIT.b2b888` | “Three eutectic reactions L → (Ge)+ GeNa, L → GeNa + GeNa3 and L → GeNa3 +(Na) were determined to be at 930 °C (∼2.5 at.% Na), 765 °C (∼75 at.% Na) and about 97.8 °C, respectively \[12\].” |
 
 ## Other properties
 
@@ -65,8 +65,8 @@ Table: Phase transition, Ge–Na system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1093.15 K | 1093.15 | congruent transformation | experimental | [1] Wang 2012; _cites Drits 1982_ | p. 1 | “Two compounds GeNa and GeNa3 were found, which melt congruently at 1169 and 820 °C, respectively \[12\].” |
-| Phase transition | 1442.15 K | 1442.15 | congruent transformation | experimental | [1] Wang 2012; _cites Drits 1982_ | p. 1 | “Two compounds GeNa and GeNa3 were found, which melt congruently at 1169 and 820 °C, respectively \[12\].” |
+| Phase transition | 1093.15 K | 1093.15 | congruent transformation | experimental | [1] Wang 2012; _cites Drits 1982_ | p. 1; `ORC-KY4VIOXWI3.7e0d5d` | “Two compounds GeNa and GeNa3 were found, which melt congruently at 1169 and 820 °C, respectively \[12\].” |
+| Phase transition | 1442.15 K | 1442.15 | congruent transformation | experimental | [1] Wang 2012; _cites Drits 1982_ | p. 1; `ORC-KY4VIOXWI3.ca7c83` | “Two compounds GeNa and GeNa3 were found, which melt congruently at 1169 and 820 °C, respectively \[12\].” |
 
 ### Crystal structure (8)
 
@@ -74,14 +74,14 @@ Table: Crystal structure, Ge–Na system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 12.43 Å |  | GeNa; _alloy: Na 0.5_ | unspecified | [1] Wang 2012 | Table 1, p. 3, row 7 |  |
-| Lattice a | 6.4 Å | 298.15 | Ge4Na; _alloy: Na 0.2_ | unspecified | [1] Wang 2012; _cites Potemkin 1989_ | Table 1, p. 3, row 5 |  |
-| Lattice a | 12.33 Å | 298.15 | GeNa; _alloy: Na 0.5_ | experimental | [1] Wang 2012; _cites von J 1964_ | Table 1, p. 3, row 6 |  |
-| Lattice b | 6.67 Å |  | GeNa; _alloy: Na 0.5_ | unspecified | [1] Wang 2012 | Table 1, p. 3, row 7 |  |
-| Lattice b | 6.7 Å | 298.15 | GeNa; _alloy: Na 0.5_ | experimental | [1] Wang 2012; _cites von J 1964_ | Table 1, p. 3, row 6 |  |
-| Lattice c | 11.59 Å |  | GeNa; _alloy: Na 0.5_ | unspecified | [1] Wang 2012 | Table 1, p. 3, row 7 |  |
-| Lattice c | 11.42 Å | 298.15 | GeNa; _alloy: Na 0.5_ | experimental | [1] Wang 2012; _cites von J 1964_ | Table 1, p. 3, row 6 |  |
-| lattice beta | 119.9 ° | 298.15 | GeNa; _alloy: Na 0.5_ | experimental | [1] Wang 2012; _cites von J 1964_ | Table 1, p. 3, row 6 |  |
+| Lattice a | 12.43 Å |  | GeNa; _alloy: Na 0.5_ | unspecified | [1] Wang 2012 | Table 1, p. 3, row 7; `ORC-37QOCKWAEW.bb299c` |  |
+| Lattice a | 6.4 Å | 298.15 | Ge4Na; _alloy: Na 0.2_ | unspecified | [1] Wang 2012; _cites Potemkin 1989_ | Table 1, p. 3, row 5; `ORC-UWXK4OIU23` |  |
+| Lattice a | 12.33 Å | 298.15 | GeNa; _alloy: Na 0.5_ | experimental | [1] Wang 2012; _cites von J 1964_ | Table 1, p. 3, row 6; `ORC-OWIIH7WXNM.24dfc3` |  |
+| Lattice b | 6.67 Å |  | GeNa; _alloy: Na 0.5_ | unspecified | [1] Wang 2012 | Table 1, p. 3, row 7; `ORC-37QOCKWAEW.5830ba` |  |
+| Lattice b | 6.7 Å | 298.15 | GeNa; _alloy: Na 0.5_ | experimental | [1] Wang 2012; _cites von J 1964_ | Table 1, p. 3, row 6; `ORC-OWIIH7WXNM.66a3f4` |  |
+| Lattice c | 11.59 Å |  | GeNa; _alloy: Na 0.5_ | unspecified | [1] Wang 2012 | Table 1, p. 3, row 7; `ORC-37QOCKWAEW.f21196` |  |
+| Lattice c | 11.42 Å | 298.15 | GeNa; _alloy: Na 0.5_ | experimental | [1] Wang 2012; _cites von J 1964_ | Table 1, p. 3, row 6; `ORC-OWIIH7WXNM.8b04ef` |  |
+| lattice beta | 119.9 ° | 298.15 | GeNa; _alloy: Na 0.5_ | experimental | [1] Wang 2012; _cites von J 1964_ | Table 1, p. 3, row 6; `ORC-OWIIH7WXNM.138b1d` |  |
 
 ## Sources
 
@@ -146,4 +146,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

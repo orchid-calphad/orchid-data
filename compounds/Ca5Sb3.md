@@ -14,11 +14,11 @@ Table: Enthalpy of formation of Ca5Sb3 reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -112 unspecified ± 5 | Ca5Sb3 | 1100.15 | experimental | direct reaction calorimetry | [Ca–Sb](https://data.orchid-project.org/systems/CA-SB.html) | [1] Qin 2015; _cites Bouhajib 1990_ | p. 3 | “Bouhajib \[23,24\] reported the enthalpies of formation of Ca5Sb3 and Ca11Sb10 at 827 °C to be -112 75 and -96 75 kJ/ mole-atoms, respectively.” |
-| -96 per mol-atom ± 5 | Ca5Sb3 | 1100 | experimental |  | [Ca–Sb](https://data.orchid-project.org/systems/CA-SB.html) | [1] Qin 2015; _cites Bouhajib 1990_ | Table 3, p. 3, row 10 |  |
-| -86 kJ/mol-atom ± 6 | Ca5Sb3 | 1078 | experimental |  | [Ca–Sb](https://data.orchid-project.org/systems/CA-SB.html) | [1] Qin 2015; _cites Bouhajib 1999_ [doi](https://doi.org/10.1515/htmp.1999.18.3.151) | Table 3, p. 3, row 9 |  |
-| -84.44 kJ/mol-atom | Ca5Sb3 | 298.15 | model |  | [Ca–Sb](https://data.orchid-project.org/systems/CA-SB.html) | [1] Qin 2015 | Table 3, p. 3, row 12 |  |
-| -96.14 kJ/mol-atom | Ca5Sb3 | 0 | DFT |  | [Ca–Sb](https://data.orchid-project.org/systems/CA-SB.html) | [1] Qin 2015 | Table 3, p. 3, row 11 |  |
+| -112 unspecified ± 5 | Ca5Sb3 | 1100.15 | experimental | direct reaction calorimetry | [Ca–Sb](https://data.orchid-project.org/systems/CA-SB.html) | [1] Qin 2015; _cites Bouhajib 1990_ | p. 3; `ORC-ZGAQKA2TAI.4a8e93` | “Bouhajib \[23,24\] reported the enthalpies of formation of Ca5Sb3 and Ca11Sb10 at 827 °C to be -112 75 and -96 75 kJ/ mole-atoms, respectively.” |
+| -96 per mol-atom ± 5 | Ca5Sb3 | 1100 | experimental |  | [Ca–Sb](https://data.orchid-project.org/systems/CA-SB.html) | [1] Qin 2015; _cites Bouhajib 1990_ | Table 3, p. 3, row 10; `ORC-JQ3IPKN4RW` |  |
+| -86 kJ/mol-atom ± 6 | Ca5Sb3 | 1078 | experimental |  | [Ca–Sb](https://data.orchid-project.org/systems/CA-SB.html) | [1] Qin 2015; _cites Bouhajib 1999_ [doi](https://doi.org/10.1515/htmp.1999.18.3.151) | Table 3, p. 3, row 9; `ORC-JMPRIJBETK.134036` |  |
+| -84.44 kJ/mol-atom | Ca5Sb3 | 298.15 | model |  | [Ca–Sb](https://data.orchid-project.org/systems/CA-SB.html) | [1] Qin 2015 | Table 3, p. 3, row 12; `ORC-3WIAQZRI4Z` |  |
+| -96.14 kJ/mol-atom | Ca5Sb3 | 0 | DFT |  | [Ca–Sb](https://data.orchid-project.org/systems/CA-SB.html) | [1] Qin 2015 | Table 3, p. 3, row 11; `ORC-D5OBI4CF5M` |  |
 
 ### Uncertainty budget
 
@@ -98,4 +98,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

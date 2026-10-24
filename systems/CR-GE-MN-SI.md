@@ -26,27 +26,27 @@ Table: Invariant reactions reported in the literature for the Cr–Ge–Mn–Si 
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1817 | Liquid + A15 + D8m + D88 |  | model | [1] Berche 2015 | Table 4, p. 6, row 21 |  |
-| 1510 | Liquid + A15 + B20 + D8m |  | model | [1] Berche 2015 | Table 4, p. 6, row 15 |  |
-| 1499 | Liquid + A15 + Bcc_A2 + σ |  | model | [1] Berche 2015 | Table 4, p. 6, row 14 |  |
-| 1453 | Liquid + Mn11Ge8 + B20 + D8m |  | model | [1] Berche 2015 | Table 4, p. 6, row 13 |  |
-| 1386 | Liquid + Cub_A13 + Bcc_A2 + σ |  | model | [1] Berche 2015 | Table 4, p. 6, row 12 |  |
-| 1385 | Liquid + Cub_A13 + Bcc_A2 + Fcc_A1 |  | model | [1] Berche 2015 | Table 4, p. 6, row 11 |  |
-| 1378 | Liquid + Cub_A13 + σ + Fcc_A1 |  | model | [1] Berche 2015 | Table 4, p. 6, row 10 |  |
-| 1347 | Liquid + A15 + B20 + σ |  | model | [1] Berche 2015 | Table 4, p. 6, row 9 |  |
-| 1281 | Liquid + B20 + D8m + Mn11Ge8 |  | model | [1] Berche 2015 | Table 4, p. 6, row 20 |  |
-| 1228 | Liquid + Diamond + CrSi2 + B20 |  | model | [1] Berche 2015 | Table 4, p. 6, row 19 |  |
-| 1216 | Liquid + B20 + D8m + Mn11Si19 |  | model | [1] Berche 2015 | Table 4, p. 6, row 18 |  |
-| 1210 | Liquid + B20 + Mn2Ge + D88 |  | model | [1] Berche 2015 | Table 4, p. 6, row 8 |  |
-| 1180 | Liquid + Diamond + D8m + B20 |  | model | [1] Berche 2015 | Table 4, p. 6, row 16 |  |
-| 1179 | Liquid + Diamond + D8m + Mn11Si19 |  | model | [1] Berche 2015 | Table 4, p. 6, row 17 |  |
-| 1166 | Liquid + diamond + B20 + Mn11Si19 |  | model | [1] Berche 2015 | Table 4, p. 6, row 7 |  |
-| 1153.5 | Liquid + B20 + Mn2Ge + Mn5Ge2 |  | model | [1] Berche 2015 | Table 4, p. 6, row 6 |  |
-| 1151 | Liquid + σ + B20 + Mn5Ge2 |  | model | [1] Berche 2015 | Table 4, p. 6, row 5 |  |
-| 1146 | Liquid + Mn3Ge + σ + Fcc_A1 |  | model | [1] Berche 2015 | Table 4, p. 6, row 4 |  |
-| 1143.5 | Liquid + Mn3Ge + σ + Mn5Ge2 |  | model | [1] Berche 2015 | Table 4, p. 6, row 3 |  |
-| 1072 | Liquid + B20 + Mn11Ge8 + D88 |  | model | [1] Berche 2015 | Table 4, p. 6, row 2 |  |
-| 998 | Liquid + Diamond + B20 + Mn11Ge8 |  | model | [1] Berche 2015 | Table 4, p. 6, row 1 |  |
+| 1817 | Liquid + A15 + D8m + D88 |  | model | [1] Berche 2015 | Table 4, p. 6, row 21; `ORC-T2PHQQFPYK` |  |
+| 1510 | Liquid + A15 + B20 + D8m |  | model | [1] Berche 2015 | Table 4, p. 6, row 15; `ORC-Q6SLQ3PCC4` |  |
+| 1499 | Liquid + A15 + Bcc_A2 + σ |  | model | [1] Berche 2015 | Table 4, p. 6, row 14; `ORC-HLQ7FB4F7G` |  |
+| 1453 | Liquid + Mn11Ge8 + B20 + D8m |  | model | [1] Berche 2015 | Table 4, p. 6, row 13; `ORC-N23U67JS74` |  |
+| 1386 | Liquid + Cub_A13 + Bcc_A2 + σ |  | model | [1] Berche 2015 | Table 4, p. 6, row 12; `ORC-ODRJTTDMYE` |  |
+| 1385 | Liquid + Cub_A13 + Bcc_A2 + Fcc_A1 |  | model | [1] Berche 2015 | Table 4, p. 6, row 11; `ORC-RY2IQJG6SZ` |  |
+| 1378 | Liquid + Cub_A13 + σ + Fcc_A1 |  | model | [1] Berche 2015 | Table 4, p. 6, row 10; `ORC-CT4XT4KIFC` |  |
+| 1347 | Liquid + A15 + B20 + σ |  | model | [1] Berche 2015 | Table 4, p. 6, row 9; `ORC-DTI6YF4WAI` |  |
+| 1281 | Liquid + B20 + D8m + Mn11Ge8 |  | model | [1] Berche 2015 | Table 4, p. 6, row 20; `ORC-ESATGJIKBR` |  |
+| 1228 | Liquid + Diamond + CrSi2 + B20 |  | model | [1] Berche 2015 | Table 4, p. 6, row 19; `ORC-SUHF6KNJJG` |  |
+| 1216 | Liquid + B20 + D8m + Mn11Si19 |  | model | [1] Berche 2015 | Table 4, p. 6, row 18; `ORC-TXNI7WKF2P` |  |
+| 1210 | Liquid + B20 + Mn2Ge + D88 |  | model | [1] Berche 2015 | Table 4, p. 6, row 8; `ORC-OKTDJ4IURU` |  |
+| 1180 | Liquid + Diamond + D8m + B20 |  | model | [1] Berche 2015 | Table 4, p. 6, row 16; `ORC-3SA6K4RHPM` |  |
+| 1179 | Liquid + Diamond + D8m + Mn11Si19 |  | model | [1] Berche 2015 | Table 4, p. 6, row 17; `ORC-QV4ZZY6KGJ` |  |
+| 1166 | Liquid + diamond + B20 + Mn11Si19 |  | model | [1] Berche 2015 | Table 4, p. 6, row 7; `ORC-QHPDMIE3IN` |  |
+| 1153.5 | Liquid + B20 + Mn2Ge + Mn5Ge2 |  | model | [1] Berche 2015 | Table 4, p. 6, row 6; `ORC-WFCQP2BQV7` |  |
+| 1151 | Liquid + σ + B20 + Mn5Ge2 |  | model | [1] Berche 2015 | Table 4, p. 6, row 5; `ORC-X7AQPYC777` |  |
+| 1146 | Liquid + Mn3Ge + σ + Fcc_A1 |  | model | [1] Berche 2015 | Table 4, p. 6, row 4; `ORC-RCUWKIQMW3` |  |
+| 1143.5 | Liquid + Mn3Ge + σ + Mn5Ge2 |  | model | [1] Berche 2015 | Table 4, p. 6, row 3; `ORC-FYE6ASFWFJ` |  |
+| 1072 | Liquid + B20 + Mn11Ge8 + D88 |  | model | [1] Berche 2015 | Table 4, p. 6, row 2; `ORC-QEZZVGBHPO` |  |
+| 998 | Liquid + Diamond + B20 + Mn11Ge8 |  | model | [1] Berche 2015 | Table 4, p. 6, row 1; `ORC-5CXXGF3FTN` |  |
 
 ## Sources
 
@@ -89,4 +89,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

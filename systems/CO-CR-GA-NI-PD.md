@@ -29,13 +29,13 @@ Table: Mixing / partial, Co–Cr–Ga–Ni–Pd system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: ΔmixH (liquid)_ | 6.9 kJ/mol (basis unstated) |  | liquid | model | [1] Gröbner 1999 | Table 2, p. 2, row 7 |  |
-| Enthalpy of mixing; _printed: ΔmixH (liquid)_ | -60 kJ/mol (basis unstated) |  | liquid | model | [1] Gröbner 1999 | Table 2, p. 2, row 6 |  |
-| Enthalpy of mixing; _printed: ΔmixH (liquid)_ | -16 kJ/mol (basis unstated) |  | liquid | experimental | [1] Gröbner 1999; _cites Haddad 1999_ | Table 2, p. 2, row 3 |  |
-| Enthalpy of mixing; _printed: ΔmixH (liquid)_ | -34 kJ/mol (basis unstated) |  | liquid | experimental | [1] Gröbner 1999; _cites El 1989_ | Table 2, p. 2, row 1 |  |
-| Enthalpy of mixing; _printed: ΔmixH (liquid)_ | -70 kJ/mol (basis unstated) |  | liquid | experimental | [1] Gröbner 1999; _cites El 1992_ [doi](https://doi.org/10.1007/bf02654034) | Table 2, p. 2, row 5 |  |
-| Enthalpy of mixing; _printed: ΔmixH (liquid)_ | -11 kJ/mol (basis unstated) |  | liquid | model | [1] Gröbner 1999 | Table 2, p. 2, row 4 |  |
-| Enthalpy of mixing; _printed: ΔmixH (liquid)_ | -31 kJ/mol (basis unstated) |  | liquid | model | [1] Gröbner 1999 | Table 2, p. 2, row 2 |  |
+| Enthalpy of mixing; _printed: ΔmixH (liquid)_ | 6.9 kJ/mol (basis unstated) |  | liquid | model | [1] Gröbner 1999 | Table 2, p. 2, row 7; `ORC-6DB4SCT5OB` |  |
+| Enthalpy of mixing; _printed: ΔmixH (liquid)_ | -60 kJ/mol (basis unstated) |  | liquid | model | [1] Gröbner 1999 | Table 2, p. 2, row 6; `ORC-AAYBBAEU7P` |  |
+| Enthalpy of mixing; _printed: ΔmixH (liquid)_ | -16 kJ/mol (basis unstated) |  | liquid | experimental | [1] Gröbner 1999; _cites Haddad 1999_ | Table 2, p. 2, row 3; `ORC-F6KV2AH3XH` |  |
+| Enthalpy of mixing; _printed: ΔmixH (liquid)_ | -34 kJ/mol (basis unstated) |  | liquid | experimental | [1] Gröbner 1999; _cites El 1989_ | Table 2, p. 2, row 1; `ORC-HEOFRJETBX` |  |
+| Enthalpy of mixing; _printed: ΔmixH (liquid)_ | -70 kJ/mol (basis unstated) |  | liquid | experimental | [1] Gröbner 1999; _cites El 1992_ [doi](https://doi.org/10.1007/bf02654034) | Table 2, p. 2, row 5; `ORC-QKWYJDBNBH` |  |
+| Enthalpy of mixing; _printed: ΔmixH (liquid)_ | -11 kJ/mol (basis unstated) |  | liquid | model | [1] Gröbner 1999 | Table 2, p. 2, row 4; `ORC-S2GE6VMOSI` |  |
+| Enthalpy of mixing; _printed: ΔmixH (liquid)_ | -31 kJ/mol (basis unstated) |  | liquid | model | [1] Gröbner 1999 | Table 2, p. 2, row 2; `ORC-UNZJ5OQTM5` |  |
 
 ## Sources
 
@@ -78,4 +78,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

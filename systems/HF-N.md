@@ -52,8 +52,8 @@ Table: Invariant reactions reported in the literature for the Hf–N system (2)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 3184.15 | peritectic |  | experimental | [1] Pang 2018; _cites Booker 1969_ | p. 1 | “The Hcp solid solution with about 28 at. % N peritectically melts to form liquid plus Fcc phases at 2911 oC \[22\].” |
-| 2463.15 | eutectic |  | experimental | [1] Pang 2018; _cites Booker 1969_ | p. 2 | “The temperature of the eutectic reaction among liquid, Hcp and Bcc phases is 2190 oC \[22\].” |
+| 3184.15 | peritectic |  | experimental | [1] Pang 2018; _cites Booker 1969_ | p. 1; `ORC-DU3TI3EZ4M` | “The Hcp solid solution with about 28 at. % N peritectically melts to form liquid plus Fcc phases at 2911 oC \[22\].” |
+| 2463.15 | eutectic |  | experimental | [1] Pang 2018; _cites Booker 1969_ | p. 2; `ORC-4J5NE3VCTO` | “The temperature of the eutectic reaction among liquid, Hcp and Bcc phases is 2190 oC \[22\].” |
 
 ## Formation enthalpies
 
@@ -63,8 +63,8 @@ Table: Enthalpies of formation, Hf–N system (2)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | -187.23 unspecified | 298.15 | model |  |  | [1] Pang 2018; _cites Mulokozi 1981_ | p. 3 | “The enthalpy of formation for HfN1.0 at 298 K calculated by Mulokozi \[39\] was -187.23 kJ/mol-atoms.” |
-| — |  | 184.6 unspecified ± 0.7 | 298.15 | experimental |  |  | [1] Pang 2018; _cites Humphrey 1953_ | p. 3 | “Humphrey \[38\] determined the heat of formation for hafnium mononitride at 298 K to be 184.6±0.7 kJ/mol-atoms by combustion calorimetry.” |
+| — |  | -187.23 unspecified | 298.15 | model |  |  | [1] Pang 2018; _cites Mulokozi 1981_ | p. 3; `ORC-AL6GLWJ52P` | “The enthalpy of formation for HfN1.0 at 298 K calculated by Mulokozi \[39\] was -187.23 kJ/mol-atoms.” |
+| — |  | 184.6 unspecified ± 0.7 | 298.15 | experimental |  |  | [1] Pang 2018; _cites Humphrey 1953_ | p. 3; `ORC-XWFT5K56VA` | “Humphrey \[38\] determined the heat of formation for hafnium mononitride at 298 K to be 184.6±0.7 kJ/mol-atoms by combustion calorimetry.” |
 
 ## Other properties
 
@@ -74,9 +74,9 @@ Table: Phase transition, Hf–N system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 3273.15 K | 3273.15 |  | experimental | [1] Pang 2018; _cites Nowotny 1960_ | p. 2 | “The melting point of Fcc phase is 3000 oC according to Nowotny et al. \[24\].” |
-| Phase transition | 3639 K | 3639 |  | model | [1] Pang 2018 | p. 5 | “The calculated melting point of Fcc phase at 1 bar N2 pressure is 3639 K, which is 21 K lower than the experimental value reported by Booker and Brukl \[22\].” |
-| Phase transition | 3660.15 K | 3660.15 | congruent transformation | experimental | [1] Pang 2018; _cites Booker 1969_ | p. 2 | “However, Booker and Brukl \[22\] reported that the congruent melting point of Fcc phase is 3387 oC at 49 at. % N under 2 bar pressure of Ar.” |
+| Phase transition | 3273.15 K | 3273.15 |  | experimental | [1] Pang 2018; _cites Nowotny 1960_ | p. 2; `ORC-D2XF7O3TPL` | “The melting point of Fcc phase is 3000 oC according to Nowotny et al. \[24\].” |
+| Phase transition | 3639 K | 3639 |  | model | [1] Pang 2018 | p. 5; `ORC-OEZC4FDVP4` | “The calculated melting point of Fcc phase at 1 bar N2 pressure is 3639 K, which is 21 K lower than the experimental value reported by Booker and Brukl \[22\].” |
+| Phase transition | 3660.15 K | 3660.15 | congruent transformation | experimental | [1] Pang 2018; _cites Booker 1969_ | p. 2; `ORC-TUEQBPZ7NJ` | “However, Booker and Brukl \[22\] reported that the congruent melting point of Fcc phase is 3387 oC at 49 at. % N under 2 bar pressure of Ar.” |
 
 ## Sources
 
@@ -141,4 +141,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

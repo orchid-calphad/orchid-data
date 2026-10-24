@@ -30,12 +30,12 @@ Table: Phase equilibrium, O–Rh–Ru system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase assemblage |  | 1373 | (Rh0.01,Ru0.99)O2 + (Rh0.7Ru0.3)-FCC + (Rh0.6Ru0.4)-HCP; _alloy: Rh 0.7, Ru 0.3_ | experimental | [1] Gossé 2018 | Table 7, p. 10, row 5 |  |
-| Phase assemblage |  | 1373 | (Rh0.02,Ru0.98)O2 + (Rh0.7Ru0.3)-FCC + (Rh0.6Ru0.4)-HCP; _alloy: Rh 0.7, Ru 0.3_ | experimental | [1] Gossé 2018 | Table 7, p. 10, row 1 |  |
-| Phase assemblage |  | 1373 | (Ru0.55Rh0.45)-HCP + (Rh0.01Ru0.99)O2 (+1 at.% Rh); _alloy: Rh 0.45, Ru 0.55_ | experimental | [1] Gossé 2018 | Table 7, p. 10, row 6 |  |
-| Phase assemblage |  | 1373 | (Ru0.59Rh0.41)O2 + Rh2O3; _alloy: Rh 0.4, Ru 0_ | experimental | [1] Gossé 2018 | Table 7, p. 10, row 4 |  |
-| Phase assemblage |  | 1373 | (Ru0.75Rh0.25)O2 + Rh-FCC; _alloy: Rh 1, Ru 0_ | experimental | [1] Gossé 2018 | Table 7, p. 10, row 3 |  |
-| Phase assemblage |  | 1373 | Rh2O3 + (Ru0.59Rh0.41)O2 + Rh-FCC; _alloy: Rh 0.4, Ru 0_ | experimental | [1] Gossé 2018 | Table 7, p. 10, row 2 |  |
+| Phase assemblage |  | 1373 | (Rh0.01,Ru0.99)O2 + (Rh0.7Ru0.3)-FCC + (Rh0.6Ru0.4)-HCP; _alloy: Rh 0.7, Ru 0.3_ | experimental | [1] Gossé 2018 | Table 7, p. 10, row 5; `ORC-LQIGPFOHCX` |  |
+| Phase assemblage |  | 1373 | (Rh0.02,Ru0.98)O2 + (Rh0.7Ru0.3)-FCC + (Rh0.6Ru0.4)-HCP; _alloy: Rh 0.7, Ru 0.3_ | experimental | [1] Gossé 2018 | Table 7, p. 10, row 1; `ORC-QIGTZMSY4H` |  |
+| Phase assemblage |  | 1373 | (Ru0.55Rh0.45)-HCP + (Rh0.01Ru0.99)O2 (+1 at.% Rh); _alloy: Rh 0.45, Ru 0.55_ | experimental | [1] Gossé 2018 | Table 7, p. 10, row 6; `ORC-FSLU6M5EAH` |  |
+| Phase assemblage |  | 1373 | (Ru0.59Rh0.41)O2 + Rh2O3; _alloy: Rh 0.4, Ru 0_ | experimental | [1] Gossé 2018 | Table 7, p. 10, row 4; `ORC-HAL6V3KHRW` |  |
+| Phase assemblage |  | 1373 | (Ru0.75Rh0.25)O2 + Rh-FCC; _alloy: Rh 1, Ru 0_ | experimental | [1] Gossé 2018 | Table 7, p. 10, row 3; `ORC-TW4ODI5W5L` |  |
+| Phase assemblage |  | 1373 | Rh2O3 + (Ru0.59Rh0.41)O2 + Rh-FCC; _alloy: Rh 0.4, Ru 0_ | experimental | [1] Gossé 2018 | Table 7, p. 10, row 2; `ORC-AV2ZVB6LT6` |  |
 
 ### Crystal structure (8)
 
@@ -43,14 +43,14 @@ Table: Crystal structure, O–Rh–Ru system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 4.4968 not_printed ± 2.000e-4 |  | UNKNOWN | DFT | [1] Gossé 2018; _cites Muller 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990070-2) | Table 3, p. 5, row 1 |  |
-| Lattice a | 5.208 Å |  | UNKNOWN | DFT | [1] Gossé 2018; _cites Muller 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990070-2) | Table 3, p. 5, row 1 |  |
-| Lattice a | 5.293 Å |  | UNKNOWN | DFT | [1] Gossé 2018; _cites Muller 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990070-2) | Table 3, p. 5, row 1 |  |
-| Lattice a | 4.489 Å |  | UNKNOWN | DFT | [1] Gossé 2018; _cites Muller 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990070-2) | Table 3, p. 5, row 1 |  |
-| Lattice c | 12.984 Å |  | UNKNOWN | DFT | [1] Gossé 2018; _cites Muller 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990070-2) | Table 3, p. 5, row 2 |  |
-| Lattice c | 14.155 Å |  | UNKNOWN | DFT | [1] Gossé 2018; _cites Muller 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990070-2) | Table 3, p. 5, row 2 |  |
-| Lattice c | 3.1049 not_printed ± 1.000e-4 |  | UNKNOWN | DFT | [1] Gossé 2018; _cites Muller 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990070-2) | Table 3, p. 5, row 2 |  |
-| Lattice c | 3.09 Å |  | UNKNOWN | DFT | [1] Gossé 2018; _cites Muller 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990070-2) | Table 3, p. 5, row 2 |  |
+| Lattice a | 4.4968 not_printed ± 2.000e-4 |  | UNKNOWN | DFT | [1] Gossé 2018; _cites Muller 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990070-2) | Table 3, p. 5, row 1; `ORC-X2MSVNS4SO.a81fe4` |  |
+| Lattice a | 5.208 Å |  | UNKNOWN | DFT | [1] Gossé 2018; _cites Muller 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990070-2) | Table 3, p. 5, row 1; `ORC-X2MSVNS4SO.d627ca` |  |
+| Lattice a | 5.293 Å |  | UNKNOWN | DFT | [1] Gossé 2018; _cites Muller 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990070-2) | Table 3, p. 5, row 1; `ORC-X2MSVNS4SO.d7ae7d` |  |
+| Lattice a | 4.489 Å |  | UNKNOWN | DFT | [1] Gossé 2018; _cites Muller 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990070-2) | Table 3, p. 5, row 1; `ORC-X2MSVNS4SO.f82231` |  |
+| Lattice c | 12.984 Å |  | UNKNOWN | DFT | [1] Gossé 2018; _cites Muller 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990070-2) | Table 3, p. 5, row 2; `ORC-DSID7RTDRL.05d7ba` |  |
+| Lattice c | 14.155 Å |  | UNKNOWN | DFT | [1] Gossé 2018; _cites Muller 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990070-2) | Table 3, p. 5, row 2; `ORC-DSID7RTDRL.3d55fd` |  |
+| Lattice c | 3.1049 not_printed ± 1.000e-4 |  | UNKNOWN | DFT | [1] Gossé 2018; _cites Muller 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990070-2) | Table 3, p. 5, row 2; `ORC-DSID7RTDRL.8f465f` |  |
+| Lattice c | 3.09 Å |  | UNKNOWN | DFT | [1] Gossé 2018; _cites Muller 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990070-2) | Table 3, p. 5, row 2; `ORC-DSID7RTDRL.b6a5a1` |  |
 
 ## Sources
 
@@ -93,4 +93,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

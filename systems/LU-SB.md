@@ -60,25 +60,25 @@ Table: Invariant reactions reported in the literature for the Lu–Sb system (19
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2453.25 | congruent melting: L ↔ βLuSb | L: Sb 0.5; βLuSb: Sb 0.5 | model | [1] Wang 2011 | Table 5, p. 4, row 10 |  |
-| 2453.15 | congruent melting: L ↔ βLuSb | L: Sb 0.5; βLuSb: Sb 0.5 | experimental | [1] Wang 2011; _cites Abdusalyamova 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990004-4) | Table 5, p. 4, row 9 |  |
-| 2143.15 | polymorphic: αLuSb ↔ βLuSb | αLuSb: Sb 0.5; βLuSb: Sb 0.5 | experimental | [1] Wang 2011; _cites Abdusalyamova 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990004-4) | Table 5, p. 4, row 7 |  |
-| 2142.85 | polymorphic: αLuSb ↔ βLuSb | αLuSb: Sb 0.5; βLuSb: Sb 0.5 | model | [1] Wang 2011 | Table 5, p. 4, row 8 |  |
-| 1843.45 | peritectic: L + αLuSb ↔ Lu5Sb3 | L: Sb 0.246; αLuSb: Sb 0.5; Lu5Sb3: Sb 0.375 | model | [1] Wang 2011 | Table 5, p. 4, row 6 |  |
-| 1843.15 | peritectic |  | experimental | [1] Wang 2011 | p. 2 | “reported four stoichiometric compounds: Lu3 Sb (peritectic formation at 1290 °C), Lu5 Sb3 (peritectic formation at 1570 °C), LuSb (melting point, 2180 °C), and LuSb2 (peritectic formation at 930 °C).” |
-| 1843.15 | peritectic: L + αLuSb ↔ Lu5Sb3 | αLuSb: Sb 0.5; Lu5Sb3: Sb 0.375 | experimental | [1] Wang 2011; _cites Abdusalyamova 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990004-4) | Table 5, p. 4, row 5 |  |
-| 1563.15 | peritectic |  | experimental | [1] Wang 2011 | p. 2 | “reported four stoichiometric compounds: Lu3 Sb (peritectic formation at 1290 °C), Lu5 Sb3 (peritectic formation at 1570 °C), LuSb (melting point, 2180 °C), and LuSb2 (peritectic formation at 930 °C).” |
-| 1563.15 | peritectic: L + Lu5Sb3 ↔ Lu3Sb | L: Sb 0.166; Lu5Sb3: Sb 0.375; Lu3Sb: Sb 0.25 | model | [1] Wang 2011 | Table 5, p. 4, row 4 |  |
-| 1563.15 | peritectic: L + Lu5Sb3 ↔ Lu3Sb | Lu5Sb3: Sb 0.375; Lu3Sb: Sb 0.25 | experimental | [1] Wang 2011; _cites Abdusalyamova 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990004-4) | Table 5, p. 4, row 3 |  |
-| 1473.15 | eutectic: L (∼15.5 at.% Sb) ↔(Lu) + Lu3 Sb |  | experimental | [1] Wang 2011; _cites Abdusalyamova 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990004-4) | p. 2 | “Abdusalyamova et al. \[10\] also determined two eutectic reactions: L (∼15.5 at.% Sb) ↔(Lu) + Lu3 Sb at 1200 °C, and L (∼99 at.% Sb) ↔LuSb2 + (Sb) at 625 °C.” |
-| 1473.15 | eutectic: L ↔ (Lu) + Lu3Sb | L: Sb 0.155; Lu3Sb: Sb 0.25 | experimental | [1] Wang 2011; _cites Abdusalyamova 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990004-4) | Table 5, p. 4, row 1 |  |
-| 1471.55 | eutectic: L ↔ (Lu) + Lu3Sb | L: Sb 0.132; (Lu): Sb 0.019; Lu3Sb: Sb 0.25 | model | [1] Wang 2011 | Table 5, p. 4, row 2 |  |
-| 1203.25 | peritectic: L + αLuSb ↔ LuSb2 | L: Sb 0.935; αLuSb: Sb 0.5; LuSb2: Sb 0.667 | model | [1] Wang 2011 | Table 5, p. 4, row 12 |  |
-| 1203.15 | peritectic |  | experimental | [1] Wang 2011 | p. 2 | “reported four stoichiometric compounds: Lu3 Sb (peritectic formation at 1290 °C), Lu5 Sb3 (peritectic formation at 1570 °C), LuSb (melting point, 2180 °C), and LuSb2 (peritectic formation at 930 °C).” |
-| 1203.15 | peritectic: L + αLuSb ↔ LuSb2 | αLuSb: Sb 0.5; LuSb2: Sb 0.667 | experimental | [1] Wang 2011; _cites Abdusalyamova 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990004-4) | Table 5, p. 4, row 11 |  |
-| 900.65 | eutectic: L ↔ LuSb2 + (Sb) | L: Sb 0.992; LuSb2: Sb 0.667; (Sb): Sb 1 | model | [1] Wang 2011 | Table 5, p. 4, row 14 |  |
-| 898.15 | eutectic: L (∼99 at.% Sb) ↔LuSb2 + (Sb) |  | experimental | [1] Wang 2011; _cites Abdusalyamova 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990004-4) | p. 2 | “Abdusalyamova et al. \[10\] also determined two eutectic reactions: L (∼15.5 at.% Sb) ↔(Lu) + Lu3 Sb at 1200 °C, and L (∼99 at.% Sb) ↔LuSb2 + (Sb) at 625 °C.” |
-| 898.15 | eutectic: L ↔ LuSb2 + (Sb) | L: Sb 0.99; LuSb2: Sb 0.667; (Sb): Sb 1 | experimental | [1] Wang 2011; _cites Abdusalyamova 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990004-4) | Table 5, p. 4, row 13 |  |
+| 2453.25 | congruent melting: L ↔ βLuSb | L: Sb 0.5; βLuSb: Sb 0.5 | model | [1] Wang 2011 | Table 5, p. 4, row 10; `ORC-YFSQ2QYVRC` |  |
+| 2453.15 | congruent melting: L ↔ βLuSb | L: Sb 0.5; βLuSb: Sb 0.5 | experimental | [1] Wang 2011; _cites Abdusalyamova 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990004-4) | Table 5, p. 4, row 9; `ORC-IMHFE7T2MN` |  |
+| 2143.15 | polymorphic: αLuSb ↔ βLuSb | αLuSb: Sb 0.5; βLuSb: Sb 0.5 | experimental | [1] Wang 2011; _cites Abdusalyamova 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990004-4) | Table 5, p. 4, row 7; `ORC-INPXMODQVD` |  |
+| 2142.85 | polymorphic: αLuSb ↔ βLuSb | αLuSb: Sb 0.5; βLuSb: Sb 0.5 | model | [1] Wang 2011 | Table 5, p. 4, row 8; `ORC-ALYXDA6MGN` |  |
+| 1843.45 | peritectic: L + αLuSb ↔ Lu5Sb3 | L: Sb 0.246; αLuSb: Sb 0.5; Lu5Sb3: Sb 0.375 | model | [1] Wang 2011 | Table 5, p. 4, row 6; `ORC-UPGJFEYLO2` |  |
+| 1843.15 | peritectic |  | experimental | [1] Wang 2011 | p. 2; `ORC-2HDOBFPDLR.2b2269` | “reported four stoichiometric compounds: Lu3 Sb (peritectic formation at 1290 °C), Lu5 Sb3 (peritectic formation at 1570 °C), LuSb (melting point, 2180 °C), and LuSb2 (peritectic formation at 930 °C).” |
+| 1843.15 | peritectic: L + αLuSb ↔ Lu5Sb3 | αLuSb: Sb 0.5; Lu5Sb3: Sb 0.375 | experimental | [1] Wang 2011; _cites Abdusalyamova 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990004-4) | Table 5, p. 4, row 5; `ORC-MIJ3TKMUCN` |  |
+| 1563.15 | peritectic |  | experimental | [1] Wang 2011 | p. 2; `ORC-2HDOBFPDLR.9f9dec` | “reported four stoichiometric compounds: Lu3 Sb (peritectic formation at 1290 °C), Lu5 Sb3 (peritectic formation at 1570 °C), LuSb (melting point, 2180 °C), and LuSb2 (peritectic formation at 930 °C).” |
+| 1563.15 | peritectic: L + Lu5Sb3 ↔ Lu3Sb | L: Sb 0.166; Lu5Sb3: Sb 0.375; Lu3Sb: Sb 0.25 | model | [1] Wang 2011 | Table 5, p. 4, row 4; `ORC-BHROOXTZWS` |  |
+| 1563.15 | peritectic: L + Lu5Sb3 ↔ Lu3Sb | Lu5Sb3: Sb 0.375; Lu3Sb: Sb 0.25 | experimental | [1] Wang 2011; _cites Abdusalyamova 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990004-4) | Table 5, p. 4, row 3; `ORC-FMVSLUCD4I` |  |
+| 1473.15 | eutectic: L (∼15.5 at.% Sb) ↔(Lu) + Lu3 Sb |  | experimental | [1] Wang 2011; _cites Abdusalyamova 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990004-4) | p. 2; `ORC-HLQMJKFIUT.909e63` | “Abdusalyamova et al. \[10\] also determined two eutectic reactions: L (∼15.5 at.% Sb) ↔(Lu) + Lu3 Sb at 1200 °C, and L (∼99 at.% Sb) ↔LuSb2 + (Sb) at 625 °C.” |
+| 1473.15 | eutectic: L ↔ (Lu) + Lu3Sb | L: Sb 0.155; Lu3Sb: Sb 0.25 | experimental | [1] Wang 2011; _cites Abdusalyamova 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990004-4) | Table 5, p. 4, row 1; `ORC-ZG6Y6QEF3J` |  |
+| 1471.55 | eutectic: L ↔ (Lu) + Lu3Sb | L: Sb 0.132; (Lu): Sb 0.019; Lu3Sb: Sb 0.25 | model | [1] Wang 2011 | Table 5, p. 4, row 2; `ORC-UVZLS57WYN` |  |
+| 1203.25 | peritectic: L + αLuSb ↔ LuSb2 | L: Sb 0.935; αLuSb: Sb 0.5; LuSb2: Sb 0.667 | model | [1] Wang 2011 | Table 5, p. 4, row 12; `ORC-K4WDVSZ6HU` |  |
+| 1203.15 | peritectic |  | experimental | [1] Wang 2011 | p. 2; `ORC-2HDOBFPDLR.7ad67d` | “reported four stoichiometric compounds: Lu3 Sb (peritectic formation at 1290 °C), Lu5 Sb3 (peritectic formation at 1570 °C), LuSb (melting point, 2180 °C), and LuSb2 (peritectic formation at 930 °C).” |
+| 1203.15 | peritectic: L + αLuSb ↔ LuSb2 | αLuSb: Sb 0.5; LuSb2: Sb 0.667 | experimental | [1] Wang 2011; _cites Abdusalyamova 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990004-4) | Table 5, p. 4, row 11; `ORC-G2V6ASIPVY` |  |
+| 900.65 | eutectic: L ↔ LuSb2 + (Sb) | L: Sb 0.992; LuSb2: Sb 0.667; (Sb): Sb 1 | model | [1] Wang 2011 | Table 5, p. 4, row 14; `ORC-CGYOKE75IV` |  |
+| 898.15 | eutectic: L (∼99 at.% Sb) ↔LuSb2 + (Sb) |  | experimental | [1] Wang 2011; _cites Abdusalyamova 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990004-4) | p. 2; `ORC-HLQMJKFIUT.45c795` | “Abdusalyamova et al. \[10\] also determined two eutectic reactions: L (∼15.5 at.% Sb) ↔(Lu) + Lu3 Sb at 1200 °C, and L (∼99 at.% Sb) ↔LuSb2 + (Sb) at 625 °C.” |
+| 898.15 | eutectic: L ↔ LuSb2 + (Sb) | L: Sb 0.99; LuSb2: Sb 0.667; (Sb): Sb 1 | experimental | [1] Wang 2011; _cites Abdusalyamova 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990004-4) | Table 5, p. 4, row 13; `ORC-I7Q67PZAHL` |  |
 
 ## Formation enthalpies
 
@@ -88,17 +88,17 @@ Table: Enthalpies of formation, Lu–Sb system (11)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Lu3Sb | [Lu3Sb](https://data.orchid-project.org/compounds/Lu3Sb.html) | -57.5 kJ/mol-atom |  | model |  | -41.323 (oqmd-298779) | [1] Wang 2011 | Table 7, p. 5, row 2 |  |
-| Lu3Sb | [Lu3Sb](https://data.orchid-project.org/compounds/Lu3Sb.html) | -57 kJ/mol-atom |  | model |  | -41.323 (oqmd-298779) | [1] Wang 2011; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 7, p. 5, row 1 |  |
-| Lu5Sb3 | [Lu5Sb3](https://data.orchid-project.org/compounds/Lu5Sb3.html) | -86.56 kJ/mol-atom |  | model | -86.011 (mp-aaabexip) | -79.175 (oqmd-23698) | [1] Wang 2011 | Table 7, p. 5, row 4 |  |
-| Lu5Sb3 | [Lu5Sb3](https://data.orchid-project.org/compounds/Lu5Sb3.html) | -79 kJ/mol-atom |  | model | -86.011 (mp-aaabexip) | -79.175 (oqmd-23698) | [1] Wang 2011; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 7, p. 5, row 3 |  |
-| LuSb2 | [LuSb2](https://data.orchid-project.org/compounds/LuSb2.html) | -79.7 kJ/mol-atom |  | model | -30.456 (mp-aaacfkly) | -54.016 (oqmd-1795083) | [1] Wang 2011 | Table 7, p. 5, row 11 |  |
-| LuSb2 | [LuSb2](https://data.orchid-project.org/compounds/LuSb2.html) | -79.3 kJ/mol-atom | 298.15 | experimental | -30.456 (mp-aaacfkly) | -54.016 (oqmd-1795083) | [1] Wang 2011; _cites Ya 1979_ | Table 7, p. 5, row 10 |  |
-| LuSb2 | [LuSb2](https://data.orchid-project.org/compounds/LuSb2.html) | -70 kJ/mol-atom |  | model | -30.456 (mp-aaacfkly) | -54.016 (oqmd-1795083) | [1] Wang 2011; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 7, p. 5, row 9 |  |
-| αLuSb | [LuSb](https://data.orchid-project.org/compounds/LuSb.html) | -119 kJ/mol-atom | 298.15 | experimental | -107.128 (mp-aaaaaatw) | -98.483 (oqmd-646195) | [1] Wang 2011; _cites Ya 1979_ | Table 7, p. 5, row 7 |  |
-| αLuSb | [LuSb](https://data.orchid-project.org/compounds/LuSb.html) | -115.746 kJ/mol-atom |  | model | -107.128 (mp-aaaaaatw) | -98.483 (oqmd-646195) | [1] Wang 2011 | Table 7, p. 5, row 8 |  |
-| αLuSb | [LuSb](https://data.orchid-project.org/compounds/LuSb.html) | -94 kJ/mol-atom | 298.15 | experimental | -107.128 (mp-aaaaaatw) | -98.483 (oqmd-646195) | [1] Wang 2011; _cites Chua 1974_ [doi](https://doi.org/10.1016/0040-6031%2874%2985109-9) | Table 7, p. 5, row 6 |  |
-| αLuSb | [LuSb](https://data.orchid-project.org/compounds/LuSb.html) | -87 kJ/mol-atom |  | model | -107.128 (mp-aaaaaatw) | -98.483 (oqmd-646195) | [1] Wang 2011; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 7, p. 5, row 5 |  |
+| Lu3Sb | [Lu3Sb](https://data.orchid-project.org/compounds/Lu3Sb.html) | -57.5 kJ/mol-atom |  | model |  | -41.323 (oqmd-298779) | [1] Wang 2011 | Table 7, p. 5, row 2; `ORC-O3RYEJE2JM` |  |
+| Lu3Sb | [Lu3Sb](https://data.orchid-project.org/compounds/Lu3Sb.html) | -57 kJ/mol-atom |  | model |  | -41.323 (oqmd-298779) | [1] Wang 2011; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 7, p. 5, row 1; `ORC-4JIMA7TMFJ` |  |
+| Lu5Sb3 | [Lu5Sb3](https://data.orchid-project.org/compounds/Lu5Sb3.html) | -86.56 kJ/mol-atom |  | model | -86.011 (mp-aaabexip) | -79.175 (oqmd-23698) | [1] Wang 2011 | Table 7, p. 5, row 4; `ORC-A3VW5DQ2SY` |  |
+| Lu5Sb3 | [Lu5Sb3](https://data.orchid-project.org/compounds/Lu5Sb3.html) | -79 kJ/mol-atom |  | model | -86.011 (mp-aaabexip) | -79.175 (oqmd-23698) | [1] Wang 2011; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 7, p. 5, row 3; `ORC-S4GDPYXBCS` |  |
+| LuSb2 | [LuSb2](https://data.orchid-project.org/compounds/LuSb2.html) | -79.7 kJ/mol-atom |  | model | -30.456 (mp-aaacfkly) | -54.016 (oqmd-1795083) | [1] Wang 2011 | Table 7, p. 5, row 11; `ORC-CYZ3ZBBUQX` |  |
+| LuSb2 | [LuSb2](https://data.orchid-project.org/compounds/LuSb2.html) | -79.3 kJ/mol-atom | 298.15 | experimental | -30.456 (mp-aaacfkly) | -54.016 (oqmd-1795083) | [1] Wang 2011; _cites Ya 1979_ | Table 7, p. 5, row 10; `ORC-3O46CY5PRC` |  |
+| LuSb2 | [LuSb2](https://data.orchid-project.org/compounds/LuSb2.html) | -70 kJ/mol-atom |  | model | -30.456 (mp-aaacfkly) | -54.016 (oqmd-1795083) | [1] Wang 2011; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 7, p. 5, row 9; `ORC-XLO543C43I` |  |
+| αLuSb | [LuSb](https://data.orchid-project.org/compounds/LuSb.html) | -119 kJ/mol-atom | 298.15 | experimental | -107.128 (mp-aaaaaatw) | -98.483 (oqmd-646195) | [1] Wang 2011; _cites Ya 1979_ | Table 7, p. 5, row 7; `ORC-4GTNC47HUA` |  |
+| αLuSb | [LuSb](https://data.orchid-project.org/compounds/LuSb.html) | -115.746 kJ/mol-atom |  | model | -107.128 (mp-aaaaaatw) | -98.483 (oqmd-646195) | [1] Wang 2011 | Table 7, p. 5, row 8; `ORC-WLXBK2VER5` |  |
+| αLuSb | [LuSb](https://data.orchid-project.org/compounds/LuSb.html) | -94 kJ/mol-atom | 298.15 | experimental | -107.128 (mp-aaaaaatw) | -98.483 (oqmd-646195) | [1] Wang 2011; _cites Chua 1974_ [doi](https://doi.org/10.1016/0040-6031%2874%2985109-9) | Table 7, p. 5, row 6; `ORC-SEBABBZLH7` |  |
+| αLuSb | [LuSb](https://data.orchid-project.org/compounds/LuSb.html) | -87 kJ/mol-atom |  | model | -107.128 (mp-aaaaaatw) | -98.483 (oqmd-646195) | [1] Wang 2011; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 7, p. 5, row 5; `ORC-K6G24NWHYC` |  |
 
 ## Other properties
 
@@ -108,8 +108,8 @@ Table: Phase transition, Lu–Sb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 2143.15 K | 2143.15 | polymorphic: α LuSb ↔ β LuSb | experimental | [1] Wang 2011; _cites Abdusalyamova 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990004-4) | p. 2 | “A reversible polymorphic transition (α LuSb ↔ β LuSb at 1870 °C) was observed by Abdusalyamova et al. \[10\].” |
-| Phase transition | 2453.15 K | 2453.15 |  | experimental | [1] Wang 2011 | p. 2 | “reported four stoichiometric compounds: Lu3 Sb (peritectic formation at 1290 °C), Lu5 Sb3 (peritectic formation at 1570 °C), LuSb (melting point, 2180 °C), and LuSb2 (peritectic formation at 930 °C).” |
+| Phase transition | 2143.15 K | 2143.15 | polymorphic: α LuSb ↔ β LuSb | experimental | [1] Wang 2011; _cites Abdusalyamova 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990004-4) | p. 2; `ORC-V6IF3OET6Y` | “A reversible polymorphic transition (α LuSb ↔ β LuSb at 1870 °C) was observed by Abdusalyamova et al. \[10\].” |
+| Phase transition | 2453.15 K | 2453.15 |  | experimental | [1] Wang 2011 | p. 2; `ORC-2HDOBFPDLR.055a72` | “reported four stoichiometric compounds: Lu3 Sb (peritectic formation at 1290 °C), Lu5 Sb3 (peritectic formation at 1570 °C), LuSb (melting point, 2180 °C), and LuSb2 (peritectic formation at 930 °C).” |
 
 ### Formation (6)
 
@@ -117,12 +117,12 @@ Table: Formation, Lu–Sb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy of formation; _printed: standard entropy of formation_ | -2.355 J/mol-atom/K |  | Lu3Sb; _alloy: Sb 0.25_ | model | [1] Wang 2011 | Table 8, p. 5, row 1 |  |
-| Entropy of formation; _printed: standard entropy of formation_ | -4.89 J/mol-atom/K |  | Lu5Sb3; _alloy: Sb 0.375_ | model | [1] Wang 2011 | Table 8, p. 5, row 2 |  |
-| Entropy of formation; _printed: standard entropy of formation_ | -6.293 J/mol-atom/K |  | LuSb2; _alloy: Sb 0.666667_ | model | [1] Wang 2011 | Table 8, p. 5, row 6 |  |
-| Entropy of formation; _printed: standard entropy of formation_ | -9.414 J/mol-atom/K |  | αLuSb; _alloy: Sb 0.5_ | model | [1] Wang 2011 | Table 8, p. 5, row 4 |  |
-| Entropy of formation; _printed: standard entropy of formation_ | -6.4 J/mol-atom/K | 298.15 | LuSb2; _alloy: Sb 0.666667_ | experimental | [1] Wang 2011; _cites Ya 1979_ | Table 8, p. 5, row 5 |  |
-| Entropy of formation; _printed: standard entropy of formation_ | -9.6 J/mol-atom/K | 298.15 | αLuSb; _alloy: Sb 0.5_ | experimental | [1] Wang 2011; _cites Ya 1979_ | Table 8, p. 5, row 3 |  |
+| Entropy of formation; _printed: standard entropy of formation_ | -2.355 J/mol-atom/K |  | Lu3Sb; _alloy: Sb 0.25_ | model | [1] Wang 2011 | Table 8, p. 5, row 1; `ORC-PGVWVDWQ63` |  |
+| Entropy of formation; _printed: standard entropy of formation_ | -4.89 J/mol-atom/K |  | Lu5Sb3; _alloy: Sb 0.375_ | model | [1] Wang 2011 | Table 8, p. 5, row 2; `ORC-GD44TJ2QLU` |  |
+| Entropy of formation; _printed: standard entropy of formation_ | -6.293 J/mol-atom/K |  | LuSb2; _alloy: Sb 0.666667_ | model | [1] Wang 2011 | Table 8, p. 5, row 6; `ORC-ZVWS3IDFZD` |  |
+| Entropy of formation; _printed: standard entropy of formation_ | -9.414 J/mol-atom/K |  | αLuSb; _alloy: Sb 0.5_ | model | [1] Wang 2011 | Table 8, p. 5, row 4; `ORC-2TFFAOE2PI` |  |
+| Entropy of formation; _printed: standard entropy of formation_ | -6.4 J/mol-atom/K | 298.15 | LuSb2; _alloy: Sb 0.666667_ | experimental | [1] Wang 2011; _cites Ya 1979_ | Table 8, p. 5, row 5; `ORC-CAMJK3IQ2Y` |  |
+| Entropy of formation; _printed: standard entropy of formation_ | -9.6 J/mol-atom/K | 298.15 | αLuSb; _alloy: Sb 0.5_ | experimental | [1] Wang 2011; _cites Ya 1979_ | Table 8, p. 5, row 3; `ORC-FA64VEPAP4` |  |
 
 ## Sources
 
@@ -187,4 +187,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

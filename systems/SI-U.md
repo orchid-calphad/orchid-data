@@ -109,9 +109,9 @@ Table: Invariant reactions reported in the literature for the Si–U system (3)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1813 | eutectic: liquid = USi + U3Si2 |  | experimental | [1] Berche 2009; _cites Vaugoyeau 1971_ [doi](https://doi.org/10.1016/0022-3115%2871%2990153-x) | p. 3 | “According to Vaugoyeau et al. \[6\], the composition of the liquid during the eutectic transition 'liquid = USi + U3Si2' (on cooling) is of 46 at.% Si at 1813 K.” |
-| 1267 | eutectic |  | experimental | [1] Berche 2009 | p. 3 | “The eutectic temperature of transition 'liquid = U3Si2 + bcc-U' was measured at 1267 ± 3 K in this alloy.” |
-| 1261 | eutectic |  | experimental | [1] Berche 2009 | p. 3 | “The temperature of the eutectic transition 'liquid = U3Si2 + bcc-U' was measured at 1261 ± 3 K.” |
+| 1813 | eutectic: liquid = USi + U3Si2 |  | experimental | [1] Berche 2009; _cites Vaugoyeau 1971_ [doi](https://doi.org/10.1016/0022-3115%2871%2990153-x) | p. 3; `ORC-BAM3Z6PBXB` | “According to Vaugoyeau et al. \[6\], the composition of the liquid during the eutectic transition 'liquid = USi + U3Si2' (on cooling) is of 46 at.% Si at 1813 K.” |
+| 1267 | eutectic |  | experimental | [1] Berche 2009 | p. 3; `ORC-RKYYPJEDSG` | “The eutectic temperature of transition 'liquid = U3Si2 + bcc-U' was measured at 1267 ± 3 K in this alloy.” |
+| 1261 | eutectic |  | experimental | [1] Berche 2009 | p. 3; `ORC-CTWPXSURR2` | “The temperature of the eutectic transition 'liquid = U3Si2 + bcc-U' was measured at 1261 ± 3 K.” |
 
 ## Formation enthalpies
 
@@ -121,30 +121,30 @@ Table: Enthalpies of formation, Si–U system (24)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| U3Si | [SiU3](https://data.orchid-project.org/compounds/SiU3.html) | -26.02 kJ/mol-atom ± 4.8 | 298.15 | experimental | -21.811 (mp-aaaaabku) | -23.444 (oqmd-1995) | [1] Berche 2009; _cites OHare 1975_ | Table 2, p. 2, row 22 |  |
-| U3Si | [SiU3](https://data.orchid-project.org/compounds/SiU3.html) | -24.93 kJ/mol-atom | 298.15 | model | -21.811 (mp-aaaaabku) | -23.444 (oqmd-1995) | [1] Berche 2009 | Table 2, p. 2, row 24 |  |
-| U3Si | [SiU3](https://data.orchid-project.org/compounds/SiU3.html) | -22.99 kJ/mol-atom | 298.15 | model | -21.811 (mp-aaaaabku) | -23.444 (oqmd-1995) | [1] Berche 2009; _cites Rand 2009_ | Table 2, p. 2, row 23 |  |
-| U3Si2 | [Si2U3](https://data.orchid-project.org/compounds/Si2U3.html) | -35.95 kJ/mol-atom ± 3.34 | 298.15 | experimental | -10.03 (mp-aaaabfpa) | -14.346 (oqmd-6055) | [1] Berche 2009; _cites Alcock 1962_ | Table 2, p. 2, row 19 |  |
-| U3Si2 | [Si2U3](https://data.orchid-project.org/compounds/Si2U3.html) | -34.32 kJ/mol-atom | 298.15 | model | -10.03 (mp-aaaabfpa) | -14.346 (oqmd-6055) | [1] Berche 2009 | Table 2, p. 2, row 21 |  |
-| U3Si2 | [Si2U3](https://data.orchid-project.org/compounds/Si2U3.html) | -34.11 kJ/mol-atom | 298.15 | model | -10.03 (mp-aaaabfpa) | -14.346 (oqmd-6055) | [1] Berche 2009; _cites Rand 2009_ | Table 2, p. 2, row 20 |  |
-| U3Si2 | [Si2U3](https://data.orchid-project.org/compounds/Si2U3.html) | -33.86 kJ/mol-atom ± 0.42 | 298.15 | experimental | -10.03 (mp-aaaabfpa) | -14.346 (oqmd-6055) | [1] Berche 2009; _cites Gross 1962_ | Table 2, p. 2, row 18 |  |
-| U3Si5 |  | -44.26 kJ/mol-atom | 298.15 | model |  |  | [1] Berche 2009; _cites Rand 2009_ | Table 2, p. 2, row 11 |  |
-| U3Si5 |  | -42.9 kJ/mol-atom | 298.15 | model |  |  | [1] Berche 2009 | Table 2, p. 2, row 12 |  |
-| USi | [SiU](https://data.orchid-project.org/compounds/SiU.html) | -43.47 kJ/mol-atom ± 1.67 | 298.15 | experimental | -16.795 (mp-aaaabdeh) | -19.948 (oqmd-6064) | [1] Berche 2009; _cites Gross 1962_ | Table 2, p. 2, row 14 |  |
-| USi | [SiU](https://data.orchid-project.org/compounds/SiU.html) | -42.22 kJ/mol-atom | 298.15 | model | -16.795 (mp-aaaabdeh) | -19.948 (oqmd-6064) | [1] Berche 2009; _cites Rand 2009_ | Table 2, p. 2, row 16 |  |
-| USi | [SiU](https://data.orchid-project.org/compounds/SiU.html) | -41.8 kJ/mol-atom ± 4.18 | 298.15 | experimental | -16.795 (mp-aaaabdeh) | -19.948 (oqmd-6064) | [1] Berche 2009; _cites Alcock 1962_ | Table 2, p. 2, row 15 |  |
-| USi | [SiU](https://data.orchid-project.org/compounds/SiU.html) | -41.18 kJ/mol-atom | 298.15 | model | -16.795 (mp-aaaabdeh) | -19.948 (oqmd-6064) | [1] Berche 2009 | Table 2, p. 2, row 17 |  |
-| USi | [SiU](https://data.orchid-project.org/compounds/SiU.html) | -40.13 kJ/mol-atom ± 0.84 | 298.15 | experimental | -16.795 (mp-aaaabdeh) | -19.948 (oqmd-6064) | [1] Berche 2009; _cites Gross 1962_ | Table 2, p. 2, row 13 |  |
-| USi2 | [Si2U](https://data.orchid-project.org/compounds/Si2U.html) | -43.89 kJ/mol-atom ± 4.18 | 298.15 | experimental | -27.301 (mp-aaaaabls) | -31.404 (oqmd-670765) | [1] Berche 2009; _cites Alcock 1962_ | Table 2, p. 2, row 8 |  |
-| USi2 | [Si2U](https://data.orchid-project.org/compounds/Si2U.html) | -43.47 kJ/mol-atom ± 0.42 | 298.15 | experimental | -27.301 (mp-aaaaabls) | -31.404 (oqmd-670765) | [1] Berche 2009; _cites Gross 1962_ | Table 2, p. 2, row 6 |  |
-| USi2 | [Si2U](https://data.orchid-project.org/compounds/Si2U.html) | -43.33 kJ/mol-atom | 298.15 | model | -27.301 (mp-aaaaabls) | -31.404 (oqmd-670765) | [1] Berche 2009 | Table 2, p. 2, row 10 |  |
-| USi2 | [Si2U](https://data.orchid-project.org/compounds/Si2U.html) | -43.19 kJ/mol-atom | 298.15 | model | -27.301 (mp-aaaaabls) | -31.404 (oqmd-670765) | [1] Berche 2009; _cites Rand 2009_ | Table 2, p. 2, row 9 |  |
-| USi2 | [Si2U](https://data.orchid-project.org/compounds/Si2U.html) | -42.64 kJ/mol-atom ± 1.25 | 298.15 | experimental | -27.301 (mp-aaaaabls) | -31.404 (oqmd-670765) | [1] Berche 2009; _cites Gross 1962_ | Table 2, p. 2, row 7 |  |
-| USi3 | [Si3U](https://data.orchid-project.org/compounds/Si3U.html) | -35.53 kJ/mol-atom ± 4.18 | 298.15 | experimental | -31.163 (mp-aaaaaeds) | -36.154 (oqmd-18109) | [1] Berche 2009; _cites Alcock 1962_ | Table 2, p. 2, row 3 |  |
-| USi3 | [Si3U](https://data.orchid-project.org/compounds/Si3U.html) | -33.02 kJ/mol-atom ± 0.13 | 298.15 | experimental | -31.163 (mp-aaaaaeds) | -36.154 (oqmd-18109) | [1] Berche 2009; _cites Gross 1962_ | Table 2, p. 2, row 1 |  |
-| USi3 | [Si3U](https://data.orchid-project.org/compounds/Si3U.html) | -32.9 kJ/mol-atom | 298.15 | model | -31.163 (mp-aaaaaeds) | -36.154 (oqmd-18109) | [1] Berche 2009 | Table 2, p. 2, row 5 |  |
-| USi3 | [Si3U](https://data.orchid-project.org/compounds/Si3U.html) | -32.6 kJ/mol-atom | 298.15 | model | -31.163 (mp-aaaaaeds) | -36.154 (oqmd-18109) | [1] Berche 2009; _cites Rand 2009_ | Table 2, p. 2, row 4 |  |
-| USi3 | [Si3U](https://data.orchid-project.org/compounds/Si3U.html) | -32.19 kJ/mol-atom ± 0.84 | 298.15 | experimental | -31.163 (mp-aaaaaeds) | -36.154 (oqmd-18109) | [1] Berche 2009; _cites Gross 1962_ | Table 2, p. 2, row 2 |  |
+| U3Si | [SiU3](https://data.orchid-project.org/compounds/SiU3.html) | -26.02 kJ/mol-atom ± 4.8 | 298.15 | experimental | -21.811 (mp-aaaaabku) | -23.444 (oqmd-1995) | [1] Berche 2009; _cites OHare 1975_ | Table 2, p. 2, row 22; `ORC-FSYVSAZKHR` |  |
+| U3Si | [SiU3](https://data.orchid-project.org/compounds/SiU3.html) | -24.93 kJ/mol-atom | 298.15 | model | -21.811 (mp-aaaaabku) | -23.444 (oqmd-1995) | [1] Berche 2009 | Table 2, p. 2, row 24; `ORC-IDDZOAXL6R` |  |
+| U3Si | [SiU3](https://data.orchid-project.org/compounds/SiU3.html) | -22.99 kJ/mol-atom | 298.15 | model | -21.811 (mp-aaaaabku) | -23.444 (oqmd-1995) | [1] Berche 2009; _cites Rand 2009_ | Table 2, p. 2, row 23; `ORC-AJNPGYYVDF` |  |
+| U3Si2 | [Si2U3](https://data.orchid-project.org/compounds/Si2U3.html) | -35.95 kJ/mol-atom ± 3.34 | 298.15 | experimental | -10.03 (mp-aaaabfpa) | -14.346 (oqmd-6055) | [1] Berche 2009; _cites Alcock 1962_ | Table 2, p. 2, row 19; `ORC-HMINOWDPIL` |  |
+| U3Si2 | [Si2U3](https://data.orchid-project.org/compounds/Si2U3.html) | -34.32 kJ/mol-atom | 298.15 | model | -10.03 (mp-aaaabfpa) | -14.346 (oqmd-6055) | [1] Berche 2009 | Table 2, p. 2, row 21; `ORC-NODDOBQXQW` |  |
+| U3Si2 | [Si2U3](https://data.orchid-project.org/compounds/Si2U3.html) | -34.11 kJ/mol-atom | 298.15 | model | -10.03 (mp-aaaabfpa) | -14.346 (oqmd-6055) | [1] Berche 2009; _cites Rand 2009_ | Table 2, p. 2, row 20; `ORC-A2FTFREIFF` |  |
+| U3Si2 | [Si2U3](https://data.orchid-project.org/compounds/Si2U3.html) | -33.86 kJ/mol-atom ± 0.42 | 298.15 | experimental | -10.03 (mp-aaaabfpa) | -14.346 (oqmd-6055) | [1] Berche 2009; _cites Gross 1962_ | Table 2, p. 2, row 18; `ORC-MQSX52RHW3` |  |
+| U3Si5 |  | -44.26 kJ/mol-atom | 298.15 | model |  |  | [1] Berche 2009; _cites Rand 2009_ | Table 2, p. 2, row 11; `ORC-5RQXPXXVVH` |  |
+| U3Si5 |  | -42.9 kJ/mol-atom | 298.15 | model |  |  | [1] Berche 2009 | Table 2, p. 2, row 12; `ORC-XRXEWUYYRK` |  |
+| USi | [SiU](https://data.orchid-project.org/compounds/SiU.html) | -43.47 kJ/mol-atom ± 1.67 | 298.15 | experimental | -16.795 (mp-aaaabdeh) | -19.948 (oqmd-6064) | [1] Berche 2009; _cites Gross 1962_ | Table 2, p. 2, row 14; `ORC-CCGYQZRSVK` |  |
+| USi | [SiU](https://data.orchid-project.org/compounds/SiU.html) | -42.22 kJ/mol-atom | 298.15 | model | -16.795 (mp-aaaabdeh) | -19.948 (oqmd-6064) | [1] Berche 2009; _cites Rand 2009_ | Table 2, p. 2, row 16; `ORC-OZ4OM5KD7K` |  |
+| USi | [SiU](https://data.orchid-project.org/compounds/SiU.html) | -41.8 kJ/mol-atom ± 4.18 | 298.15 | experimental | -16.795 (mp-aaaabdeh) | -19.948 (oqmd-6064) | [1] Berche 2009; _cites Alcock 1962_ | Table 2, p. 2, row 15; `ORC-AVCIAILA5H` |  |
+| USi | [SiU](https://data.orchid-project.org/compounds/SiU.html) | -41.18 kJ/mol-atom | 298.15 | model | -16.795 (mp-aaaabdeh) | -19.948 (oqmd-6064) | [1] Berche 2009 | Table 2, p. 2, row 17; `ORC-Z7UJ3P2YL7` |  |
+| USi | [SiU](https://data.orchid-project.org/compounds/SiU.html) | -40.13 kJ/mol-atom ± 0.84 | 298.15 | experimental | -16.795 (mp-aaaabdeh) | -19.948 (oqmd-6064) | [1] Berche 2009; _cites Gross 1962_ | Table 2, p. 2, row 13; `ORC-MGA3VU6PIM` |  |
+| USi2 | [Si2U](https://data.orchid-project.org/compounds/Si2U.html) | -43.89 kJ/mol-atom ± 4.18 | 298.15 | experimental | -27.301 (mp-aaaaabls) | -31.404 (oqmd-670765) | [1] Berche 2009; _cites Alcock 1962_ | Table 2, p. 2, row 8; `ORC-ZBLVBWLP4M` |  |
+| USi2 | [Si2U](https://data.orchid-project.org/compounds/Si2U.html) | -43.47 kJ/mol-atom ± 0.42 | 298.15 | experimental | -27.301 (mp-aaaaabls) | -31.404 (oqmd-670765) | [1] Berche 2009; _cites Gross 1962_ | Table 2, p. 2, row 6; `ORC-Q6OGIGUYRX` |  |
+| USi2 | [Si2U](https://data.orchid-project.org/compounds/Si2U.html) | -43.33 kJ/mol-atom | 298.15 | model | -27.301 (mp-aaaaabls) | -31.404 (oqmd-670765) | [1] Berche 2009 | Table 2, p. 2, row 10; `ORC-MOW2QYXAY7` |  |
+| USi2 | [Si2U](https://data.orchid-project.org/compounds/Si2U.html) | -43.19 kJ/mol-atom | 298.15 | model | -27.301 (mp-aaaaabls) | -31.404 (oqmd-670765) | [1] Berche 2009; _cites Rand 2009_ | Table 2, p. 2, row 9; `ORC-M32IV77OLV` |  |
+| USi2 | [Si2U](https://data.orchid-project.org/compounds/Si2U.html) | -42.64 kJ/mol-atom ± 1.25 | 298.15 | experimental | -27.301 (mp-aaaaabls) | -31.404 (oqmd-670765) | [1] Berche 2009; _cites Gross 1962_ | Table 2, p. 2, row 7; `ORC-PN7BWE5QAM` |  |
+| USi3 | [Si3U](https://data.orchid-project.org/compounds/Si3U.html) | -35.53 kJ/mol-atom ± 4.18 | 298.15 | experimental | -31.163 (mp-aaaaaeds) | -36.154 (oqmd-18109) | [1] Berche 2009; _cites Alcock 1962_ | Table 2, p. 2, row 3; `ORC-CZVWY6OEUB` |  |
+| USi3 | [Si3U](https://data.orchid-project.org/compounds/Si3U.html) | -33.02 kJ/mol-atom ± 0.13 | 298.15 | experimental | -31.163 (mp-aaaaaeds) | -36.154 (oqmd-18109) | [1] Berche 2009; _cites Gross 1962_ | Table 2, p. 2, row 1; `ORC-Y2JG5BF3Z7` |  |
+| USi3 | [Si3U](https://data.orchid-project.org/compounds/Si3U.html) | -32.9 kJ/mol-atom | 298.15 | model | -31.163 (mp-aaaaaeds) | -36.154 (oqmd-18109) | [1] Berche 2009 | Table 2, p. 2, row 5; `ORC-5ZZZ7YNFL3` |  |
+| USi3 | [Si3U](https://data.orchid-project.org/compounds/Si3U.html) | -32.6 kJ/mol-atom | 298.15 | model | -31.163 (mp-aaaaaeds) | -36.154 (oqmd-18109) | [1] Berche 2009; _cites Rand 2009_ | Table 2, p. 2, row 4; `ORC-FXUAQQHPCZ` |  |
+| USi3 | [Si3U](https://data.orchid-project.org/compounds/Si3U.html) | -32.19 kJ/mol-atom ± 0.84 | 298.15 | experimental | -31.163 (mp-aaaaaeds) | -36.154 (oqmd-18109) | [1] Berche 2009; _cites Gross 1962_ | Table 2, p. 2, row 2; `ORC-XQ6ZJCHXQW` |  |
 
 ## Other properties
 
@@ -154,20 +154,20 @@ Table: Phase transition, Si–U system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1250 K | 1250 | eutectic: 4 at.% Si; _alloy: Si 0.0397, U 0.9603_ | model | [1] Berche 2009 | Table 1, p. 2, row 5 |  |
-| Phase transition | 1250 K | 1250 | eutectic: 9 at.% Si; _alloy: Si 0.0869, U 0.9131_ | model | [1] Berche 2009 | Table 1, p. 2, row 11 |  |
-| Phase transition | 1258 K | 1258 | eutectic: 4 at.% Si; _alloy: Si 0.0397, U 0.9603_ | experimental | [1] Berche 2009; _cites Katz 1951_ | Table 1, p. 2, row 3 |  |
-| Phase transition | 1258 K | 1258 | eutectic: 9 at.% Si; _alloy: Si 0.0869, U 0.9131_ | experimental | [1] Berche 2009; _cites Katz 1951_ | Table 1, p. 2, row 9 |  |
-| Phase transition | 1261 K | 1261 | eutectic: 9 at.% Si; _alloy: Si 0.0869, U 0.9131_ | experimental | [1] Berche 2009 | Table 1, p. 2, row 10 |  |
-| Phase transition | 1267 K | 1267 | eutectic: 4 at.% Si; _alloy: Si 0.0397, U 0.9603_ | experimental | [1] Berche 2009 | Table 1, p. 2, row 4 |  |
-| Phase transition | 1340 K | 1340 | other | experimental | [1] Berche 2009 | p. 3 | “The liquidus transition was measured at 1340 ± 5 K.” |
-| Phase transition | 1405 K | 1405 | congruent transformation: 0 at.% Si; _alloy: U 0_ | experimental | [1] Berche 2009 | Table 1, p. 2, row 2 |  |
-| Phase transition | 1408 K | 1408 | congruent transformation: 0 at.% Si; _alloy: U 0_ | experimental | [1] Berche 2009 | Table 1, p. 2, row 1 |  |
-| Phase transition | 1783 K | 1783 | peritectic: 75 at.% Si; _alloy: Si 0.7468, U 0.2532_ | experimental | [1] Berche 2009; _cites Katz 1951_ | Table 1, p. 2, row 17 |  |
-| Phase transition | 1813 K | 1813 | eutectic: 46 at.% Si; _alloy: Si 0.4632, U 0.5368_ | experimental | [1] Berche 2009; _cites Vaugoyeau 1971_ [doi](https://doi.org/10.1016/0022-3115%2871%2990153-x) | Table 1, p. 2, row 12 |  |
-| Phase transition | 1820 K | 1820 | eutectic: 46 at.% Si; _alloy: Si 0.4632, U 0.5368_ | experimental | [1] Berche 2009 | Table 1, p. 2, row 13 |  |
-| Phase transition | 1840 K | 1840 | eutectic: 46 at.% Si; _alloy: Si 0.4632, U 0.5368_ | model | [1] Berche 2009 | Table 1, p. 2, row 14 |  |
-| Phase transition | 1867 K | 1867 | other | experimental | [1] Berche 2009 | p. 4 | “Although, DTA analysis performed on heating at different rates revealed the presence of a liquidus transition at 1867 ± 15 K (Fig. 5).” |
+| Phase transition | 1250 K | 1250 | eutectic: 4 at.% Si; _alloy: Si 0.0397, U 0.9603_ | model | [1] Berche 2009 | Table 1, p. 2, row 5; `ORC-K7GSF7QAFE` |  |
+| Phase transition | 1250 K | 1250 | eutectic: 9 at.% Si; _alloy: Si 0.0869, U 0.9131_ | model | [1] Berche 2009 | Table 1, p. 2, row 11; `ORC-BUJOQF7WGB` |  |
+| Phase transition | 1258 K | 1258 | eutectic: 4 at.% Si; _alloy: Si 0.0397, U 0.9603_ | experimental | [1] Berche 2009; _cites Katz 1951_ | Table 1, p. 2, row 3; `ORC-G3HOINFFWG` |  |
+| Phase transition | 1258 K | 1258 | eutectic: 9 at.% Si; _alloy: Si 0.0869, U 0.9131_ | experimental | [1] Berche 2009; _cites Katz 1951_ | Table 1, p. 2, row 9; `ORC-BB5GWOSFYW` |  |
+| Phase transition | 1261 K | 1261 | eutectic: 9 at.% Si; _alloy: Si 0.0869, U 0.9131_ | experimental | [1] Berche 2009 | Table 1, p. 2, row 10; `ORC-JKQ2ANSPRO` |  |
+| Phase transition | 1267 K | 1267 | eutectic: 4 at.% Si; _alloy: Si 0.0397, U 0.9603_ | experimental | [1] Berche 2009 | Table 1, p. 2, row 4; `ORC-2QAVKHIVDY` |  |
+| Phase transition | 1340 K | 1340 | other | experimental | [1] Berche 2009 | p. 3; `ORC-LTOQV5RXEV` | “The liquidus transition was measured at 1340 ± 5 K.” |
+| Phase transition | 1405 K | 1405 | congruent transformation: 0 at.% Si; _alloy: U 0_ | experimental | [1] Berche 2009 | Table 1, p. 2, row 2; `ORC-ZTVRVXW27U` |  |
+| Phase transition | 1408 K | 1408 | congruent transformation: 0 at.% Si; _alloy: U 0_ | experimental | [1] Berche 2009 | Table 1, p. 2, row 1; `ORC-62PX3GHE6X` |  |
+| Phase transition | 1783 K | 1783 | peritectic: 75 at.% Si; _alloy: Si 0.7468, U 0.2532_ | experimental | [1] Berche 2009; _cites Katz 1951_ | Table 1, p. 2, row 17; `ORC-3DIECBBUKQ` |  |
+| Phase transition | 1813 K | 1813 | eutectic: 46 at.% Si; _alloy: Si 0.4632, U 0.5368_ | experimental | [1] Berche 2009; _cites Vaugoyeau 1971_ [doi](https://doi.org/10.1016/0022-3115%2871%2990153-x) | Table 1, p. 2, row 12; `ORC-LFR5HGFJKR` |  |
+| Phase transition | 1820 K | 1820 | eutectic: 46 at.% Si; _alloy: Si 0.4632, U 0.5368_ | experimental | [1] Berche 2009 | Table 1, p. 2, row 13; `ORC-YXSHYFV7KT` |  |
+| Phase transition | 1840 K | 1840 | eutectic: 46 at.% Si; _alloy: Si 0.4632, U 0.5368_ | model | [1] Berche 2009 | Table 1, p. 2, row 14; `ORC-6KUQ6GARJG` |  |
+| Phase transition | 1867 K | 1867 | other | experimental | [1] Berche 2009 | p. 4; `ORC-VO26ZDQGOG` | “Although, DTA analysis performed on heating at different rates revealed the presence of a liquidus transition at 1867 ± 15 K (Fig. 5).” |
 
 ### Phase equilibrium (5)
 
@@ -175,11 +175,11 @@ Table: Phase equilibrium, Si–U system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 1340 | other: 4 at.% Si; _liquid: Si 0.0397, U 0.9603_ | experimental | [1] Berche 2009 | Table 1, p. 2, row 7 |  |
-| Phase composition |  | 1360 | other: 4 at.% Si; _liquid: Si 0.0397, U 0.9603_ | model | [1] Berche 2009 | Table 1, p. 2, row 8 |  |
-| Phase composition |  | 1363 | other: 4 at.% Si; _liquid: Si 0.0397, U 0.9603_ | experimental | [1] Berche 2009; _cites Massalski 1990_ | Table 1, p. 2, row 6 |  |
-| Phase composition |  | 1860 | other: 46 at.% Si; _liquid: Si 0.4632, U 0.5368_ | model | [1] Berche 2009 | Table 1, p. 2, row 16 |  |
-| Phase composition |  | 1867 | other: 46 at.% Si; _liquid: Si 0.4632, U 0.5368_ | experimental | [1] Berche 2009 | Table 1, p. 2, row 15 |  |
+| Phase composition |  | 1340 | other: 4 at.% Si; _liquid: Si 0.0397, U 0.9603_ | experimental | [1] Berche 2009 | Table 1, p. 2, row 7; `ORC-3HKQWZ5GXH` |  |
+| Phase composition |  | 1360 | other: 4 at.% Si; _liquid: Si 0.0397, U 0.9603_ | model | [1] Berche 2009 | Table 1, p. 2, row 8; `ORC-JHQUOBQVDD` |  |
+| Phase composition |  | 1363 | other: 4 at.% Si; _liquid: Si 0.0397, U 0.9603_ | experimental | [1] Berche 2009; _cites Massalski 1990_ | Table 1, p. 2, row 6; `ORC-FEYS54FAXM` |  |
+| Phase composition |  | 1860 | other: 46 at.% Si; _liquid: Si 0.4632, U 0.5368_ | model | [1] Berche 2009 | Table 1, p. 2, row 16; `ORC-ICMBIMIUJB` |  |
+| Phase composition |  | 1867 | other: 46 at.% Si; _liquid: Si 0.4632, U 0.5368_ | experimental | [1] Berche 2009 | Table 1, p. 2, row 15; `ORC-H3MKEG2OCH` |  |
 
 ## Sources
 
@@ -244,4 +244,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

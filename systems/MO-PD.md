@@ -50,15 +50,15 @@ Table: Invariant reactions reported in the literature for the Mo–Pd system (9)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2018 | L + (Mo) -> ε | L: Pd 0.53; ε: Pd 0.52 | experimental | [1] Ghosh 2000; _cites Kleykamp 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990424-8) | Table 2, p. 6, row 2 |  |
-| 2013 | L + (Mo) -> ε | L: Pd 0.5748; (Mo): Pd 0.07; ε: Pd 0.5186 | experimental | [1] Ghosh 2000; _cites Haworth 1958_ | Table 2, p. 6, row 1 |  |
-| 2002 | L + (Mo) -> ε | L: Pd 0.5058; (Mo): Pd 0.0482; ε: Pd 0.5011 | model | [1] Ghosh 2000 | Table 2, p. 6, row 3 |  |
-| 1984 | L -> ε + (Pd) | L: Pd 0.5482; ε: Pd 0.5383; (Pd): Pd 0.5594 | model | [1] Ghosh 2000 | Table 2, p. 6, row 5 |  |
-| 1973 | L -> ε + (Pd) | L: Pd 0.54; ε: Pd 0.52; (Pd): Pd 0.57 | experimental | [1] Ghosh 2000; _cites Anderson 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990009-8) | Table 2, p. 6, row 4 |  |
-| 1698 | ε -> (Mo) + (Pd) | ε: Pd 0.55; (Mo): Pd 0.02; (Pd): Pd 0.58 | experimental | [1] Ghosh 2000; _cites Kleykamp 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990424-8) | Table 2, p. 6, row 6 |  |
-| 1654 | ε -> (Mo) + (Pd) | ε: Pd 0.5274; (Mo): Pd 0.0404; (Pd): Pd 0.583 | model | [1] Ghosh 2000 | Table 2, p. 6, row 9 |  |
-| 1653 | ε -> (Mo) + (Pd) | ε: Pd 0.524; (Mo): Pd 0.025; (Pd): Pd 0.6 | experimental | [1] Ghosh 2000; _cites Anderson 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990009-8) | Table 2, p. 6, row 7 |  |
-| 1643 | ε -> (Mo) + (Pd) | ε: Pd 0.5344; (Mo): Pd 0.1367; (Pd): Pd 0.7 | experimental | [1] Ghosh 2000; _cites Savitskii 1964_ | Table 2, p. 6, row 8 |  |
+| 2018 | L + (Mo) -> ε | L: Pd 0.53; ε: Pd 0.52 | experimental | [1] Ghosh 2000; _cites Kleykamp 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990424-8) | Table 2, p. 6, row 2; `ORC-JKI762QB5U` |  |
+| 2013 | L + (Mo) -> ε | L: Pd 0.5748; (Mo): Pd 0.07; ε: Pd 0.5186 | experimental | [1] Ghosh 2000; _cites Haworth 1958_ | Table 2, p. 6, row 1; `ORC-DFZMBAXEL5` |  |
+| 2002 | L + (Mo) -> ε | L: Pd 0.5058; (Mo): Pd 0.0482; ε: Pd 0.5011 | model | [1] Ghosh 2000 | Table 2, p. 6, row 3; `ORC-2OAWK2SOSC` |  |
+| 1984 | L -> ε + (Pd) | L: Pd 0.5482; ε: Pd 0.5383; (Pd): Pd 0.5594 | model | [1] Ghosh 2000 | Table 2, p. 6, row 5; `ORC-P2QRLRS2YX` |  |
+| 1973 | L -> ε + (Pd) | L: Pd 0.54; ε: Pd 0.52; (Pd): Pd 0.57 | experimental | [1] Ghosh 2000; _cites Anderson 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990009-8) | Table 2, p. 6, row 4; `ORC-6OZVB3XFHD` |  |
+| 1698 | ε -> (Mo) + (Pd) | ε: Pd 0.55; (Mo): Pd 0.02; (Pd): Pd 0.58 | experimental | [1] Ghosh 2000; _cites Kleykamp 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990424-8) | Table 2, p. 6, row 6; `ORC-MWEL72HK75` |  |
+| 1654 | ε -> (Mo) + (Pd) | ε: Pd 0.5274; (Mo): Pd 0.0404; (Pd): Pd 0.583 | model | [1] Ghosh 2000 | Table 2, p. 6, row 9; `ORC-ZO7DVU4PC2` |  |
+| 1653 | ε -> (Mo) + (Pd) | ε: Pd 0.524; (Mo): Pd 0.025; (Pd): Pd 0.6 | experimental | [1] Ghosh 2000; _cites Anderson 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990009-8) | Table 2, p. 6, row 7; `ORC-KEWMU54TQE` |  |
+| 1643 | ε -> (Mo) + (Pd) | ε: Pd 0.5344; (Mo): Pd 0.1367; (Pd): Pd 0.7 | experimental | [1] Ghosh 2000; _cites Savitskii 1964_ | Table 2, p. 6, row 8; `ORC-435YRFR4UJ` |  |
 
 ## Other properties
 
@@ -68,10 +68,10 @@ Table: Phase transition, Mo–Pd system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1273 K | 1273 | other | experimental | [1] Ghosh 2000; _cites Maldonado 1964_ | p. 4 | “In the lower temperature region, Maldonado and Schubert\[30\] reported that the disordered fcc phase undergoes an order-disorder transformation at around 1273 K to form MoPd2 phase.” |
-| Phase transition | 1743 K | 1743 | other: ε ↔ (Mo) + (Pd) | experimental | [1] Ghosh 2000 | p. 2 | “They proposed that the ε phase forms by the peritectic reaction L + (Mo) ↔ ε at 1988 K and decomposes into (Mo) and (Pd) at 1743 K.” |
-| Phase transition | 2032 K | 2032 | L -> (Pd); _L: Pd 0.6353; (Pd): Pd 0.6353_ | model | [1] Ghosh 2000 | Table 2, p. 6, row 11 |  |
-| Phase transition | 2033 K | 2033 | L -> (Pd); _L: Pd 0.61; (Pd): Pd 0.61_ | experimental | [1] Ghosh 2000; _cites Anderson 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990009-8) | Table 2, p. 6, row 10 |  |
+| Phase transition | 1273 K | 1273 | other | experimental | [1] Ghosh 2000; _cites Maldonado 1964_ | p. 4; `ORC-U6HAYOT3G3` | “In the lower temperature region, Maldonado and Schubert\[30\] reported that the disordered fcc phase undergoes an order-disorder transformation at around 1273 K to form MoPd2 phase.” |
+| Phase transition | 1743 K | 1743 | other: ε ↔ (Mo) + (Pd) | experimental | [1] Ghosh 2000 | p. 2; `ORC-EFGTS3VHB4` | “They proposed that the ε phase forms by the peritectic reaction L + (Mo) ↔ ε at 1988 K and decomposes into (Mo) and (Pd) at 1743 K.” |
+| Phase transition | 2032 K | 2032 | L -> (Pd); _L: Pd 0.6353; (Pd): Pd 0.6353_ | model | [1] Ghosh 2000 | Table 2, p. 6, row 11; `ORC-JADJJS23SF` |  |
+| Phase transition | 2033 K | 2033 | L -> (Pd); _L: Pd 0.61; (Pd): Pd 0.61_ | experimental | [1] Ghosh 2000; _cites Anderson 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990009-8) | Table 2, p. 6, row 10; `ORC-NY6QJQMKU2` |  |
 
 ### Phase equilibrium (3)
 
@@ -79,9 +79,9 @@ Table: Phase equilibrium, Mo–Pd system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase assemblage |  | 1143 | (Mo) + (Pd); _alloy: Pd 0.53_ | experimental | [1] Ghosh 2000; _cites Kleykamp 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990424-8) | p. 4 | “For example, Kleykamp\[22\] annealed a Mo-53at.%Pd alloy at 1143 K for 42 days and a Mo-60 at.% Pd alloy at 1173 K for 38 days and found only (Mo) and (Pd) phases.” |
-| Phase assemblage |  | 1173 | (Mo) + (Pd); _alloy: Pd 0.47_ | experimental | [1] Ghosh 2000; _cites Gurler 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990350-d) | p. 4 | “Gürler and Pratt\[26\] annealed a Mo-47 at.% Pd alloy, after rapid solidification, at 1173 K for 188 h, and found only (Mo) and (Pd) phases.” |
-| Phase assemblage |  | 1173 | (Mo) + (Pd); _alloy: Pd 0.6_ | experimental | [1] Ghosh 2000; _cites Kleykamp 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990424-8) | p. 4 | “For example, Kleykamp\[22\] annealed a Mo-53at.%Pd alloy at 1143 K for 42 days and a Mo-60 at.% Pd alloy at 1173 K for 38 days and found only (Mo) and (Pd) phases.” |
+| Phase assemblage |  | 1143 | (Mo) + (Pd); _alloy: Pd 0.53_ | experimental | [1] Ghosh 2000; _cites Kleykamp 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990424-8) | p. 4; `ORC-MWQE5LBOPA.a63d3d` | “For example, Kleykamp\[22\] annealed a Mo-53at.%Pd alloy at 1143 K for 42 days and a Mo-60 at.% Pd alloy at 1173 K for 38 days and found only (Mo) and (Pd) phases.” |
+| Phase assemblage |  | 1173 | (Mo) + (Pd); _alloy: Pd 0.47_ | experimental | [1] Ghosh 2000; _cites Gurler 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990350-d) | p. 4; `ORC-G6OBIJILG7` | “Gürler and Pratt\[26\] annealed a Mo-47 at.% Pd alloy, after rapid solidification, at 1173 K for 188 h, and found only (Mo) and (Pd) phases.” |
+| Phase assemblage |  | 1173 | (Mo) + (Pd); _alloy: Pd 0.6_ | experimental | [1] Ghosh 2000; _cites Kleykamp 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990424-8) | p. 4; `ORC-MWQE5LBOPA.2bf426` | “For example, Kleykamp\[22\] annealed a Mo-53at.%Pd alloy at 1143 K for 42 days and a Mo-60 at.% Pd alloy at 1173 K for 38 days and found only (Mo) and (Pd) phases.” |
 
 ### Activity / EMF / Gibbs energy (33)
 
@@ -89,39 +89,39 @@ Table: Activity / EMF / Gibbs energy, Mo–Pd system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Gibbs energy; _printed: ΔG_ | -5631 J/mol | 1200 | fcc; _alloy: Mo 0.1, Pd 0.9_ | model | [1] Ghosh 2000 | Table 3, p. 7, row 12 |  |
-| Gibbs energy; _printed: ΔG_ | -8981 J/mol | 1200 | fcc; _alloy: Mo 0.3, Pd 0.7_ | experimental | [1] Ghosh 2000; _cites Gurler 1993_ | Table 3, p. 7, row 23 |  |
-| Gibbs energy; _printed: ΔG_ | -7764 J/mol | 1200 | fcc; _alloy: Mo 0.15, Pd 0.85_ | experimental | [1] Ghosh 2000; _cites Gurler 1993_ | Table 3, p. 7, row 14 |  |
-| Gibbs energy; _printed: ΔG_ | -1954 J/mol | 1200 | fcc; _alloy: Mo 0.025, Pd 0.975_ | model | [1] Ghosh 2000 | Table 3, p. 7, row 3 |  |
-| Gibbs energy; _printed: ΔG_ | -10400 J/mol | 1200 | fcc; _alloy: Mo 0.25, Pd 0.75_ | experimental | [1] Ghosh 2000; _cites Kleykamp 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990424-8) | Table 3, p. 7, row 19 |  |
-| Gibbs energy; _printed: ΔG_ | -6142 J/mol | 1200 | fcc; _alloy: Mo 0.1, Pd 0.9_ | experimental | [1] Ghosh 2000; _cites Gurler 1993_ | Table 3, p. 7, row 11 |  |
-| Gibbs energy; _printed: ΔG_ | -8253 J/mol | 1200 | fcc; _alloy: Mo 0.25, Pd 0.75_ | model | [1] Ghosh 2000 | Table 3, p. 7, row 21 |  |
-| Gibbs energy; _printed: ΔG_ | -7934 J/mol | 1200 | fcc; _alloy: Mo 0.2, Pd 0.8_ | model | [1] Ghosh 2000 | Table 3, p. 7, row 18 |  |
-| Gibbs energy; _printed: ΔG_ | -3436 J/mol | 1200 | fcc; _alloy: Mo 0.05, Pd 0.95_ | model | [1] Ghosh 2000 | Table 3, p. 7, row 6 |  |
-| Gibbs energy; _printed: ΔG_ | -8113 J/mol | 1200 | fcc; _alloy: Mo 0.3, Pd 0.7_ | model | [1] Ghosh 2000 | Table 3, p. 7, row 24 |  |
-| Gibbs energy; _printed: ΔG_ | -7200 J/mol | 1200 | fcc; _alloy: Mo 0.1, Pd 0.9_ | experimental | [1] Ghosh 2000; _cites Kleykamp 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990424-8) | Table 3, p. 7, row 10 |  |
-| Gibbs energy; _printed: ΔG_ | -7089 J/mol | 1200 | fcc; _alloy: Mo 0.15, Pd 0.85_ | model | [1] Ghosh 2000 | Table 3, p. 7, row 15 |  |
-| Gibbs energy; _printed: ΔG_ | -8719 J/mol | 1200 | fcc; _alloy: Mo 0.2, Pd 0.8_ | experimental | [1] Ghosh 2000; _cites Gurler 1993_ | Table 3, p. 7, row 17 |  |
-| Gibbs energy; _printed: ΔG_ | -10600 J/mol | 1200 | fcc; _alloy: Mo 0.3, Pd 0.7_ | experimental | [1] Ghosh 2000; _cites Kleykamp 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990424-8) | Table 3, p. 7, row 22 |  |
-| Gibbs energy; _printed: ΔG_ | -9800 J/mol | 1200 | fcc; _alloy: Mo 0.2, Pd 0.8_ | experimental | [1] Ghosh 2000; _cites Kleykamp 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990424-8) | Table 3, p. 7, row 16 |  |
-| Gibbs energy; _printed: ΔG_ | -5042 J/mol | 1200 | fcc; _alloy: Mo 0.075, Pd 0.925_ | experimental | [1] Ghosh 2000; _cites Gurler 1993_ | Table 3, p. 7, row 8 |  |
-| Gibbs energy; _printed: ΔG_ | -2107 J/mol | 1200 | fcc; _alloy: Mo 0.025, Pd 0.975_ | experimental | [1] Ghosh 2000; _cites Gurler 1993_ | Table 3, p. 7, row 2 |  |
-| Gibbs energy; _printed: ΔG_ | -6300 J/mol | 1200 | fcc; _alloy: Mo 0.075, Pd 0.925_ | experimental | [1] Ghosh 2000; _cites Kleykamp 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990424-8) | Table 3, p. 7, row 7 |  |
-| Gibbs energy; _printed: ΔG_ | -8800 J/mol | 1200 | fcc; _alloy: Mo 0.15, Pd 0.85_ | experimental | [1] Ghosh 2000; _cites Kleykamp 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990424-8) | Table 3, p. 7, row 13 |  |
-| Gibbs energy; _printed: ΔG_ | -3000 J/mol | 1200 | fcc; _alloy: Mo 0.025, Pd 0.975_ | experimental | [1] Ghosh 2000; _cites Kleykamp 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990424-8) | Table 3, p. 7, row 1 |  |
-| Gibbs energy; _printed: ΔG_ | -3714 J/mol | 1200 | fcc; _alloy: Mo 0.05, Pd 0.95_ | experimental | [1] Ghosh 2000; _cites Gurler 1993_ | Table 3, p. 7, row 5 |  |
-| Gibbs energy; _printed: ΔG_ | -4634 J/mol | 1200 | fcc; _alloy: Mo 0.075, Pd 0.925_ | model | [1] Ghosh 2000 | Table 3, p. 7, row 9 |  |
-| Gibbs energy; _printed: ΔG_ | -9100 J/mol | 1200 | fcc; _alloy: Mo 0.25, Pd 0.75_ | experimental | [1] Ghosh 2000; _cites Gurler 1993_ | Table 3, p. 7, row 20 |  |
-| Gibbs energy; _printed: ΔG_ | -5000 J/mol | 1200 | fcc; _alloy: Mo 0.05, Pd 0.95_ | experimental | [1] Ghosh 2000; _cites Kleykamp 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990424-8) | Table 3, p. 7, row 4 |  |
-| Gibbs energy; _printed: ΔG_ | -7648 J/mol | 1273 | fcc; _alloy: Mo 0.13, Pd 0.87_ | experimental | [1] Ghosh 2000; _cites Gurler 1993_ | Table 3, p. 7, row 26 |  |
-| Gibbs energy; _printed: ΔG_ | -9551 J/mol | 1273 | fcc; _alloy: Mo 0.215, Pd 0.785_ | experimental | [1] Ghosh 2000; _cites Gurler 1993_ | Table 3, p. 7, row 29 |  |
-| Gibbs energy; _printed: ΔG_ | -7055 J/mol | 1273 | fcc; _alloy: Mo 0.13, Pd 0.87_ | model | [1] Ghosh 2000 | Table 3, p. 7, row 27 |  |
-| Gibbs energy; _printed: ΔG_ | -9623 J/mol | 1273 | fcc; _alloy: Mo 0.215, Pd 0.785_ | experimental | [1] Ghosh 2000; _cites Yamawaki 1980_ | Table 3, p. 7, row 28 |  |
-| Gibbs energy; _printed: ΔG_ | -7950 J/mol | 1273 | fcc; _alloy: Mo 0.33, Pd 0.67_ | experimental | [1] Ghosh 2000; _cites Yamawaki 1980_ | Table 3, p. 7, row 31 |  |
-| Gibbs energy; _printed: ΔG_ | -9581 J/mol | 1273 | fcc; _alloy: Mo 0.33, Pd 0.67_ | experimental | [1] Ghosh 2000; _cites Gurler 1993_ | Table 3, p. 7, row 32 |  |
-| Gibbs energy; _printed: ΔG_ | -7531 J/mol | 1273 | fcc; _alloy: Mo 0.13, Pd 0.87_ | experimental | [1] Ghosh 2000; _cites Yamawaki 1980_ | Table 3, p. 7, row 25 |  |
-| Gibbs energy; _printed: ΔG_ | -8749 J/mol | 1273 | fcc; _alloy: Mo 0.215, Pd 0.785_ | model | [1] Ghosh 2000 | Table 3, p. 7, row 30 |  |
-| Gibbs energy; _printed: ΔG_ | -8677 J/mol | 1273 | fcc; _alloy: Mo 0.33, Pd 0.67_ | model | [1] Ghosh 2000 | Table 3, p. 7, row 33 |  |
+| Gibbs energy; _printed: ΔG_ | -5631 J/mol | 1200 | fcc; _alloy: Mo 0.1, Pd 0.9_ | model | [1] Ghosh 2000 | Table 3, p. 7, row 12; `ORC-3K5B2BCPOC` |  |
+| Gibbs energy; _printed: ΔG_ | -8981 J/mol | 1200 | fcc; _alloy: Mo 0.3, Pd 0.7_ | experimental | [1] Ghosh 2000; _cites Gurler 1993_ | Table 3, p. 7, row 23; `ORC-5WK3J2VAYE` |  |
+| Gibbs energy; _printed: ΔG_ | -7764 J/mol | 1200 | fcc; _alloy: Mo 0.15, Pd 0.85_ | experimental | [1] Ghosh 2000; _cites Gurler 1993_ | Table 3, p. 7, row 14; `ORC-5YE52JDZ6X` |  |
+| Gibbs energy; _printed: ΔG_ | -1954 J/mol | 1200 | fcc; _alloy: Mo 0.025, Pd 0.975_ | model | [1] Ghosh 2000 | Table 3, p. 7, row 3; `ORC-6HKIZCI6FO` |  |
+| Gibbs energy; _printed: ΔG_ | -10400 J/mol | 1200 | fcc; _alloy: Mo 0.25, Pd 0.75_ | experimental | [1] Ghosh 2000; _cites Kleykamp 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990424-8) | Table 3, p. 7, row 19; `ORC-AWZ26Y64NF` |  |
+| Gibbs energy; _printed: ΔG_ | -6142 J/mol | 1200 | fcc; _alloy: Mo 0.1, Pd 0.9_ | experimental | [1] Ghosh 2000; _cites Gurler 1993_ | Table 3, p. 7, row 11; `ORC-BILUWVVXWD` |  |
+| Gibbs energy; _printed: ΔG_ | -8253 J/mol | 1200 | fcc; _alloy: Mo 0.25, Pd 0.75_ | model | [1] Ghosh 2000 | Table 3, p. 7, row 21; `ORC-CRBRICYILQ` |  |
+| Gibbs energy; _printed: ΔG_ | -7934 J/mol | 1200 | fcc; _alloy: Mo 0.2, Pd 0.8_ | model | [1] Ghosh 2000 | Table 3, p. 7, row 18; `ORC-DGMACXB5LJ` |  |
+| Gibbs energy; _printed: ΔG_ | -3436 J/mol | 1200 | fcc; _alloy: Mo 0.05, Pd 0.95_ | model | [1] Ghosh 2000 | Table 3, p. 7, row 6; `ORC-HD4RLFZED5` |  |
+| Gibbs energy; _printed: ΔG_ | -8113 J/mol | 1200 | fcc; _alloy: Mo 0.3, Pd 0.7_ | model | [1] Ghosh 2000 | Table 3, p. 7, row 24; `ORC-HMM5CFEXNL` |  |
+| Gibbs energy; _printed: ΔG_ | -7200 J/mol | 1200 | fcc; _alloy: Mo 0.1, Pd 0.9_ | experimental | [1] Ghosh 2000; _cites Kleykamp 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990424-8) | Table 3, p. 7, row 10; `ORC-I3WNJL3RAS` |  |
+| Gibbs energy; _printed: ΔG_ | -7089 J/mol | 1200 | fcc; _alloy: Mo 0.15, Pd 0.85_ | model | [1] Ghosh 2000 | Table 3, p. 7, row 15; `ORC-I5SHW7LR7S` |  |
+| Gibbs energy; _printed: ΔG_ | -8719 J/mol | 1200 | fcc; _alloy: Mo 0.2, Pd 0.8_ | experimental | [1] Ghosh 2000; _cites Gurler 1993_ | Table 3, p. 7, row 17; `ORC-LHKMANWIJT` |  |
+| Gibbs energy; _printed: ΔG_ | -10600 J/mol | 1200 | fcc; _alloy: Mo 0.3, Pd 0.7_ | experimental | [1] Ghosh 2000; _cites Kleykamp 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990424-8) | Table 3, p. 7, row 22; `ORC-OXT5TH457I` |  |
+| Gibbs energy; _printed: ΔG_ | -9800 J/mol | 1200 | fcc; _alloy: Mo 0.2, Pd 0.8_ | experimental | [1] Ghosh 2000; _cites Kleykamp 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990424-8) | Table 3, p. 7, row 16; `ORC-PAK3N7U4CX` |  |
+| Gibbs energy; _printed: ΔG_ | -5042 J/mol | 1200 | fcc; _alloy: Mo 0.075, Pd 0.925_ | experimental | [1] Ghosh 2000; _cites Gurler 1993_ | Table 3, p. 7, row 8; `ORC-PNMHYEKHSC` |  |
+| Gibbs energy; _printed: ΔG_ | -2107 J/mol | 1200 | fcc; _alloy: Mo 0.025, Pd 0.975_ | experimental | [1] Ghosh 2000; _cites Gurler 1993_ | Table 3, p. 7, row 2; `ORC-UJE2DSD6UA` |  |
+| Gibbs energy; _printed: ΔG_ | -6300 J/mol | 1200 | fcc; _alloy: Mo 0.075, Pd 0.925_ | experimental | [1] Ghosh 2000; _cites Kleykamp 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990424-8) | Table 3, p. 7, row 7; `ORC-UOC72FMFSL` |  |
+| Gibbs energy; _printed: ΔG_ | -8800 J/mol | 1200 | fcc; _alloy: Mo 0.15, Pd 0.85_ | experimental | [1] Ghosh 2000; _cites Kleykamp 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990424-8) | Table 3, p. 7, row 13; `ORC-UUKH66PWDV` |  |
+| Gibbs energy; _printed: ΔG_ | -3000 J/mol | 1200 | fcc; _alloy: Mo 0.025, Pd 0.975_ | experimental | [1] Ghosh 2000; _cites Kleykamp 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990424-8) | Table 3, p. 7, row 1; `ORC-UW235PNO6H` |  |
+| Gibbs energy; _printed: ΔG_ | -3714 J/mol | 1200 | fcc; _alloy: Mo 0.05, Pd 0.95_ | experimental | [1] Ghosh 2000; _cites Gurler 1993_ | Table 3, p. 7, row 5; `ORC-XOETU5KJTS` |  |
+| Gibbs energy; _printed: ΔG_ | -4634 J/mol | 1200 | fcc; _alloy: Mo 0.075, Pd 0.925_ | model | [1] Ghosh 2000 | Table 3, p. 7, row 9; `ORC-YPPYYYCQV6` |  |
+| Gibbs energy; _printed: ΔG_ | -9100 J/mol | 1200 | fcc; _alloy: Mo 0.25, Pd 0.75_ | experimental | [1] Ghosh 2000; _cites Gurler 1993_ | Table 3, p. 7, row 20; `ORC-ZEFMOZ2AVF` |  |
+| Gibbs energy; _printed: ΔG_ | -5000 J/mol | 1200 | fcc; _alloy: Mo 0.05, Pd 0.95_ | experimental | [1] Ghosh 2000; _cites Kleykamp 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990424-8) | Table 3, p. 7, row 4; `ORC-ZJKIYVK5VJ` |  |
+| Gibbs energy; _printed: ΔG_ | -7648 J/mol | 1273 | fcc; _alloy: Mo 0.13, Pd 0.87_ | experimental | [1] Ghosh 2000; _cites Gurler 1993_ | Table 3, p. 7, row 26; `ORC-4TUHWTFHOX` |  |
+| Gibbs energy; _printed: ΔG_ | -9551 J/mol | 1273 | fcc; _alloy: Mo 0.215, Pd 0.785_ | experimental | [1] Ghosh 2000; _cites Gurler 1993_ | Table 3, p. 7, row 29; `ORC-7BWV4JGVZE` |  |
+| Gibbs energy; _printed: ΔG_ | -7055 J/mol | 1273 | fcc; _alloy: Mo 0.13, Pd 0.87_ | model | [1] Ghosh 2000 | Table 3, p. 7, row 27; `ORC-EAV235OISM` |  |
+| Gibbs energy; _printed: ΔG_ | -9623 J/mol | 1273 | fcc; _alloy: Mo 0.215, Pd 0.785_ | experimental | [1] Ghosh 2000; _cites Yamawaki 1980_ | Table 3, p. 7, row 28; `ORC-H3UPDC6IB7` |  |
+| Gibbs energy; _printed: ΔG_ | -7950 J/mol | 1273 | fcc; _alloy: Mo 0.33, Pd 0.67_ | experimental | [1] Ghosh 2000; _cites Yamawaki 1980_ | Table 3, p. 7, row 31; `ORC-ID77BSX4HC` |  |
+| Gibbs energy; _printed: ΔG_ | -9581 J/mol | 1273 | fcc; _alloy: Mo 0.33, Pd 0.67_ | experimental | [1] Ghosh 2000; _cites Gurler 1993_ | Table 3, p. 7, row 32; `ORC-LWWQBFOQXH` |  |
+| Gibbs energy; _printed: ΔG_ | -7531 J/mol | 1273 | fcc; _alloy: Mo 0.13, Pd 0.87_ | experimental | [1] Ghosh 2000; _cites Yamawaki 1980_ | Table 3, p. 7, row 25; `ORC-NFH52GQKLT` |  |
+| Gibbs energy; _printed: ΔG_ | -8749 J/mol | 1273 | fcc; _alloy: Mo 0.215, Pd 0.785_ | model | [1] Ghosh 2000 | Table 3, p. 7, row 30; `ORC-TLQFDROSKQ` |  |
+| Gibbs energy; _printed: ΔG_ | -8677 J/mol | 1273 | fcc; _alloy: Mo 0.33, Pd 0.67_ | model | [1] Ghosh 2000 | Table 3, p. 7, row 33; `ORC-ZJNVIZRMLP` |  |
 
 ## Sources
 
@@ -186,4 +186,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

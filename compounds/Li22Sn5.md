@@ -14,12 +14,12 @@ Table: Enthalpy of formation of Li22Sn5 reported in the literature (6)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -40.7 unknown | Li22Sn5 | 688 | experimental |  | [Li–Sn](https://data.orchid-project.org/systems/LI-SN.html) | [1] Yin 2005; _cites Wen 1981_ [doi](https://doi.org/10.1149/1.2127590) | Table 3, p. 3, row 2 |  |
-| -39.3 unknown | Li22Sn5 | 298.15 | experimental |  | [Li–Sn](https://data.orchid-project.org/systems/LI-SN.html) | [1] Yin 2005; _cites Kubaschewski 1938_ | Table 3, p. 3, row 6 |  |
-| -31.1 unknown | Li22Sn5 | 688 | experimental |  | [Li–Sn](https://data.orchid-project.org/systems/LI-SN.html) | [1] Yin 2005; _cites Wen 1981_ [doi](https://doi.org/10.1149/1.2127590) | Table 3, p. 3, row 4 |  |
-| -47.1 unknown | Li22Sn5 | 688 | model |  | [Li–Sn](https://data.orchid-project.org/systems/LI-SN.html) | [1] Yin 2005 | Table 3, p. 3, row 1 |  |
-| -43.3 unknown | Li22Sn5 | 298.15 | model |  | [Li–Sn](https://data.orchid-project.org/systems/LI-SN.html) | [1] Yin 2005 | Table 3, p. 3, row 5 |  |
-| -33 unknown | Li22Sn5 | 688 | model |  | [Li–Sn](https://data.orchid-project.org/systems/LI-SN.html) | [1] Yin 2005 | Table 3, p. 3, row 3 |  |
+| -40.7 unknown | Li22Sn5 | 688 | experimental |  | [Li–Sn](https://data.orchid-project.org/systems/LI-SN.html) | [1] Yin 2005; _cites Wen 1981_ [doi](https://doi.org/10.1149/1.2127590) | Table 3, p. 3, row 2; `ORC-DHTZQRLRDT` |  |
+| -39.3 unknown | Li22Sn5 | 298.15 | experimental |  | [Li–Sn](https://data.orchid-project.org/systems/LI-SN.html) | [1] Yin 2005; _cites Kubaschewski 1938_ | Table 3, p. 3, row 6; `ORC-3IT2X5DLN3` |  |
+| -31.1 unknown | Li22Sn5 | 688 | experimental |  | [Li–Sn](https://data.orchid-project.org/systems/LI-SN.html) | [1] Yin 2005; _cites Wen 1981_ [doi](https://doi.org/10.1149/1.2127590) | Table 3, p. 3, row 4; `ORC-Y2BW3T3ISI` |  |
+| -47.1 unknown | Li22Sn5 | 688 | model |  | [Li–Sn](https://data.orchid-project.org/systems/LI-SN.html) | [1] Yin 2005 | Table 3, p. 3, row 1; `ORC-PMIAXIHL5M` |  |
+| -43.3 unknown | Li22Sn5 | 298.15 | model |  | [Li–Sn](https://data.orchid-project.org/systems/LI-SN.html) | [1] Yin 2005 | Table 3, p. 3, row 5; `ORC-3OX2TNSINV` |  |
+| -33 unknown | Li22Sn5 | 688 | model |  | [Li–Sn](https://data.orchid-project.org/systems/LI-SN.html) | [1] Yin 2005 | Table 3, p. 3, row 3; `ORC-DLLK2Y6GYP` |  |
 
 ### Uncertainty budget
 
@@ -87,4 +87,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

@@ -52,10 +52,10 @@ Table: Enthalpies of formation, Be–V system (4)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Be12V |  | -16 kJ/mol-atom |  | DFT |  |  | [1] Nishimura 2006 | Table 2, p. 3, row 5 |  |
-| Be12V | [Be12V](https://data.orchid-project.org/compounds/Be12V.html) | -15.9 kJ/mol-atom |  | model | -9.888 (mp-aaabgnik) | -0.679 (oqmd-19349) | [1] Nishimura 2006 | Table 2, p. 3, row 6 |  |
-| Be2V | [Be2V](https://data.orchid-project.org/compounds/Be2V.html) | -30.3 kJ/mol-atom |  | model | -21.051 (mp-aaaaaqrx) | -19.893 (oqmd-10909) | [1] Nishimura 2006 | Table 2, p. 3, row 4 |  |
-| Be2V |  | -24.9 kJ/mol-atom |  | DFT |  |  | [1] Nishimura 2006 | Table 2, p. 3, row 3 |  |
+| Be12V |  | -16 kJ/mol-atom |  | DFT |  |  | [1] Nishimura 2006 | Table 2, p. 3, row 5; `ORC-PGJRBM3ILK` |  |
+| Be12V | [Be12V](https://data.orchid-project.org/compounds/Be12V.html) | -15.9 kJ/mol-atom |  | model | -9.888 (mp-aaabgnik) | -0.679 (oqmd-19349) | [1] Nishimura 2006 | Table 2, p. 3, row 6; `ORC-YTWVYR7KAW` |  |
+| Be2V | [Be2V](https://data.orchid-project.org/compounds/Be2V.html) | -30.3 kJ/mol-atom |  | model | -21.051 (mp-aaaaaqrx) | -19.893 (oqmd-10909) | [1] Nishimura 2006 | Table 2, p. 3, row 4; `ORC-SIEGQ5RQ65` |  |
+| Be2V |  | -24.9 kJ/mol-atom |  | DFT |  |  | [1] Nishimura 2006 | Table 2, p. 3, row 3; `ORC-LWJP3JDPP5` |  |
 
 ## Sources
 
@@ -120,4 +120,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

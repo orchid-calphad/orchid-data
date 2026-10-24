@@ -29,11 +29,11 @@ Table: Invariant reactions reported in the literature for the Al–Cr–Ni syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1622 | liq. + γ' -> γ + β | liq.: Cr 0.045, Ni 0.719; γ': Cr 0.029, Ni 0.737; γ: Cr 0.042, Ni 0.754; β: Cr 0.024, Ni 0.692 | model | [1] Dupin 2001 | Table 2, p. 10, row 1 |  |
-| 1593 | liq -> γ + β + α |  | experimental | [1] Dupin 2001; _cites ref. 52Tay_ | Table 2, p. 10, row 4 |  |
-| 1573 | liq -> γ + β + α |  | experimental | [1] Dupin 2001; _cites ref. 55Kor_ | Table 2, p. 10, row 5 |  |
-| 1556 | liq -> γ + β + α | γ: Cr 0.362, Ni 0.509; β: Cr 0.145, Ni 0.552; α: Cr 0.799, Ni 0.169; liq.: Cr 0.325, Ni 0.501 | model | [1] Dupin 2001 | Table 2, p. 10, row 3 |  |
-| 1269 | γ + β -> γ' + α | γ: Cr 0.281, Ni 0.602; β: Cr 0.096, Ni 0.598; γ': Cr 0.108, Ni 0.68; α: Cr 0.963, Ni 0.035 | model | [1] Dupin 2001 | Table 2, p. 10, row 6 |  |
+| 1622 | liq. + γ' -> γ + β | liq.: Cr 0.045, Ni 0.719; γ': Cr 0.029, Ni 0.737; γ: Cr 0.042, Ni 0.754; β: Cr 0.024, Ni 0.692 | model | [1] Dupin 2001 | Table 2, p. 10, row 1; `ORC-MXDCAKD6NK` |  |
+| 1593 | liq -> γ + β + α |  | experimental | [1] Dupin 2001; _cites ref. 52Tay_ | Table 2, p. 10, row 4; `ORC-3QRNJ56WZ2` |  |
+| 1573 | liq -> γ + β + α |  | experimental | [1] Dupin 2001; _cites ref. 55Kor_ | Table 2, p. 10, row 5; `ORC-NREC5MC6VM` |  |
+| 1556 | liq -> γ + β + α | γ: Cr 0.362, Ni 0.509; β: Cr 0.145, Ni 0.552; α: Cr 0.799, Ni 0.169; liq.: Cr 0.325, Ni 0.501 | model | [1] Dupin 2001 | Table 2, p. 10, row 3; `ORC-HAYUX6TBY3` |  |
+| 1269 | γ + β -> γ' + α | γ: Cr 0.281, Ni 0.602; β: Cr 0.096, Ni 0.598; γ': Cr 0.108, Ni 0.68; α: Cr 0.963, Ni 0.035 | model | [1] Dupin 2001 | Table 2, p. 10, row 6; `ORC-OMRPOBPL7Z` |  |
 
 ## Formation enthalpies
 
@@ -43,18 +43,18 @@ Table: Enthalpies of formation, Al–Cr–Ni system (12)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| UNKNOWN |  | -36.7 kJ/mol (basis unstated) ± 1.4 | 298.15 | experimental |  |  | [1] Dupin 2001; _cites ref. 90Kek_ | Table 4, p. 17, row 4 |  |
-| UNKNOWN |  | -35.2 kJ/mol (basis unstated) ± 1.4 | 298.15 | experimental |  |  | [1] Dupin 2001; _cites ref. 90Kek_ | Table 4, p. 17, row 8 |  |
-| UNKNOWN |  | -34.9 kJ/mol (basis unstated) ± 1.3 | 298.15 | experimental |  |  | [1] Dupin 2001; _cites ref. 90Kek_ | Table 4, p. 17, row 12 |  |
-| γ' |  | -36.7 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Dupin 2001 | Table 4, p. 17, row 1 |  |
-| γ' |  | -34.7 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Dupin 2001 | Table 4, p. 17, row 5 |  |
-| γ' |  | -32.4 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Dupin 2001 | Table 4, p. 17, row 9 |  |
-| γ' + γ |  | -36.7 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Dupin 2001 | Table 4, p. 17, row 2 |  |
-| γ' + γ |  | -35 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Dupin 2001 | Table 4, p. 17, row 6 |  |
-| γ' + γ |  | -32.8 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Dupin 2001 | Table 4, p. 17, row 10 |  |
-| γ' + γ + α |  | -36.7 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Dupin 2001 | Table 4, p. 17, row 3 |  |
-| γ' + γ + α |  | -35.6 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Dupin 2001 | Table 4, p. 17, row 7 |  |
-| γ' + γ + α |  | -34 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Dupin 2001 | Table 4, p. 17, row 11 |  |
+| UNKNOWN |  | -36.7 kJ/mol (basis unstated) ± 1.4 | 298.15 | experimental |  |  | [1] Dupin 2001; _cites ref. 90Kek_ | Table 4, p. 17, row 4; `ORC-2T7E56GX7I` |  |
+| UNKNOWN |  | -35.2 kJ/mol (basis unstated) ± 1.4 | 298.15 | experimental |  |  | [1] Dupin 2001; _cites ref. 90Kek_ | Table 4, p. 17, row 8; `ORC-V5DC265FRR` |  |
+| UNKNOWN |  | -34.9 kJ/mol (basis unstated) ± 1.3 | 298.15 | experimental |  |  | [1] Dupin 2001; _cites ref. 90Kek_ | Table 4, p. 17, row 12; `ORC-OQJ42SZMEJ` |  |
+| γ' |  | -36.7 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Dupin 2001 | Table 4, p. 17, row 1; `ORC-F2EFBMHPVX.9f141e` |  |
+| γ' |  | -34.7 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Dupin 2001 | Table 4, p. 17, row 5; `ORC-26FQMKOPPW.c16168` |  |
+| γ' |  | -32.4 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Dupin 2001 | Table 4, p. 17, row 9; `ORC-CELWG3WBAM.3ce1ff` |  |
+| γ' + γ |  | -36.7 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Dupin 2001 | Table 4, p. 17, row 2; `ORC-ZGXB3J2NFA.ae40d0` |  |
+| γ' + γ |  | -35 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Dupin 2001 | Table 4, p. 17, row 6; `ORC-4G2W7G3T4U.d5f2ee` |  |
+| γ' + γ |  | -32.8 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Dupin 2001 | Table 4, p. 17, row 10; `ORC-XKDTU6TUQM.cc29af` |  |
+| γ' + γ + α |  | -36.7 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Dupin 2001 | Table 4, p. 17, row 3; `ORC-GTPCYHFBYT.ee2d87` |  |
+| γ' + γ + α |  | -35.6 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Dupin 2001 | Table 4, p. 17, row 7; `ORC-IKQ4CM6YNS.886d19` |  |
+| γ' + γ + α |  | -34 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Dupin 2001 | Table 4, p. 17, row 11; `ORC-NJ3EK2GTRP.df8252` |  |
 
 ## Other properties
 
@@ -64,18 +64,18 @@ Table: Activity / EMF / Gibbs energy, Al–Cr–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Gibbs energy; _printed: ΔG^φ_ | -9.2 kJ | 1423 | α | experimental | [1] Dupin 2001; _cites ref. 85Ofo_ | Table 3, p. 17, row 12 |  |
-| Gibbs energy; _printed: ΔG^φ_ | -2.9 kJ | 1423 | α | model | [1] Dupin 2001 | Table 3, p. 17, row 11 |  |
-| Gibbs energy; _printed: ΔG^φ_ | -34.7 kJ | 1423 | β | experimental | [1] Dupin 2001; _cites ref. 85Ofo_ | Table 3, p. 17, row 6 |  |
-| Gibbs energy; _printed: ΔG^φ_ | -38.3 kJ | 1423 | β | model | [1] Dupin 2001 | Table 3, p. 17, row 9 |  |
-| Gibbs energy; _printed: ΔG^φ_ | -37.8 kJ | 1423 | β | model | [1] Dupin 2001 | Table 3, p. 17, row 5 |  |
-| Gibbs energy; _printed: ΔG^φ_ | -37.9 kJ | 1423 | β | experimental | [1] Dupin 2001; _cites ref. 85Ofo_ | Table 3, p. 17, row 10 |  |
-| Gibbs energy; _printed: ΔG^φ_ | -20.7 kJ | 1423 | γ | model | [1] Dupin 2001 | Table 3, p. 17, row 7 |  |
-| Gibbs energy; _printed: ΔG^φ_ | -25.3 kJ | 1423 | γ | model | [1] Dupin 2001 | Table 3, p. 17, row 1 |  |
-| Gibbs energy; _printed: ΔG^φ_ | -24.9 kJ | 1423 | γ | experimental | [1] Dupin 2001; _cites ref. 85Ofo_ | Table 3, p. 17, row 2 |  |
-| Gibbs energy; _printed: ΔG^φ_ | -23.6 kJ | 1423 | γ | experimental | [1] Dupin 2001; _cites ref. 85Ofo_ | Table 3, p. 17, row 8 |  |
-| Gibbs energy; _printed: ΔG^φ_ | -30.3 kJ | 1423 | γ' | experimental | [1] Dupin 2001; _cites ref. 85Ofo_ | Table 3, p. 17, row 4 |  |
-| Gibbs energy; _printed: ΔG^φ_ | -31.1 kJ | 1423 | γ' | model | [1] Dupin 2001 | Table 3, p. 17, row 3 |  |
+| Gibbs energy; _printed: ΔG^φ_ | -9.2 kJ | 1423 | α | experimental | [1] Dupin 2001; _cites ref. 85Ofo_ | Table 3, p. 17, row 12; `ORC-6MO2U67NH2` |  |
+| Gibbs energy; _printed: ΔG^φ_ | -2.9 kJ | 1423 | α | model | [1] Dupin 2001 | Table 3, p. 17, row 11; `ORC-KLRPPTDMXG` |  |
+| Gibbs energy; _printed: ΔG^φ_ | -34.7 kJ | 1423 | β | experimental | [1] Dupin 2001; _cites ref. 85Ofo_ | Table 3, p. 17, row 6; `ORC-6JDMUTKQ5E` |  |
+| Gibbs energy; _printed: ΔG^φ_ | -38.3 kJ | 1423 | β | model | [1] Dupin 2001 | Table 3, p. 17, row 9; `ORC-DKPE2JPCY3` |  |
+| Gibbs energy; _printed: ΔG^φ_ | -37.8 kJ | 1423 | β | model | [1] Dupin 2001 | Table 3, p. 17, row 5; `ORC-DLAARA3TX6` |  |
+| Gibbs energy; _printed: ΔG^φ_ | -37.9 kJ | 1423 | β | experimental | [1] Dupin 2001; _cites ref. 85Ofo_ | Table 3, p. 17, row 10; `ORC-VXEMNHFSVC` |  |
+| Gibbs energy; _printed: ΔG^φ_ | -20.7 kJ | 1423 | γ | model | [1] Dupin 2001 | Table 3, p. 17, row 7; `ORC-2WCYVJFQWZ` |  |
+| Gibbs energy; _printed: ΔG^φ_ | -25.3 kJ | 1423 | γ | model | [1] Dupin 2001 | Table 3, p. 17, row 1; `ORC-BY56XTJWWA` |  |
+| Gibbs energy; _printed: ΔG^φ_ | -24.9 kJ | 1423 | γ | experimental | [1] Dupin 2001; _cites ref. 85Ofo_ | Table 3, p. 17, row 2; `ORC-GLPAC3TG3F` |  |
+| Gibbs energy; _printed: ΔG^φ_ | -23.6 kJ | 1423 | γ | experimental | [1] Dupin 2001; _cites ref. 85Ofo_ | Table 3, p. 17, row 8; `ORC-PWPILIANWO` |  |
+| Gibbs energy; _printed: ΔG^φ_ | -30.3 kJ | 1423 | γ' | experimental | [1] Dupin 2001; _cites ref. 85Ofo_ | Table 3, p. 17, row 4; `ORC-62QEBJE37C` |  |
+| Gibbs energy; _printed: ΔG^φ_ | -31.1 kJ | 1423 | γ' | model | [1] Dupin 2001 | Table 3, p. 17, row 3; `ORC-SACEICABJO` |  |
 
 ## Sources
 
@@ -118,4 +118,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

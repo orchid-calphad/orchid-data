@@ -27,14 +27,14 @@ Table: Invariant reactions reported in the literature for the Cr–Hf–Ni syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1590 | eutectic |  | model | [1] Kaufman 1975 | p. 12 | “Experimental studies of the Hf-Cr-Ni system disclosed a quasibinary eutectic between Hf2Ni7 and a fcc nickel-chromium alloy at 1540K in good agreement with the predicted temperature of 1590K shown in Table X.” |
-| 1590 | eutectic: L/Hf2Ni7 + fcc | L: Cr 0.35, Hf 0.03, Ni 0.62 | model | [1] Kaufman 1975 | Table X, p. 13, row 1 |  |
-| 1540 | eutectic |  | experimental | [1] Kaufman 1975; _cites ref. 22_ | p. 12 | “Experimental studies of the Hf-Cr-Ni system disclosed a quasibinary eutectic between Hf2Ni7 and a fcc nickel-chromium alloy at 1540K in good agreement with the predicted temperature of 1590K shown in Table X. The observed concentration of the eutectic was observed to be 66Ni-25Cr-9Hf which differs only slightly from the predicted concentration.” |
-| 1490 | eutectic: L/Hf2Ni7 + Hf(Cr,Ni)2 | L: Cr 0.25, Hf 0.16, Ni 0.59 | model | [1] Kaufman 1975 | Table X, p. 13, row 2 |  |
-| 1460 | eutectic: L/Hf(Cr,Ni)2 + Ni5Hf2 | L: Cr 0.08, Hf 0.29, Ni 0.63 | model | [1] Kaufman 1975 | Table X, p. 13, row 3 |  |
-| 1460 | eutectic: L/fcc + Hf(Cr,Ni)2 + Hf2Ni7 | L: Cr 0.43, Hf 0.05, Ni 0.52 | model | [1] Kaufman 1975 | Table X, p. 13, row 4 |  |
-| 1450 | eutectic: L/Hf(Cr,Ni)2 + Hf2Ni5 + Hf2Ni7 | L: Cr 0.1, Hf 0.27, Ni 0.63 | model | [1] Kaufman 1975 | Table X, p. 13, row 6 |  |
-| 1450 | eutectic: L/Hf(Cr,Ni)2 + Hf2Ni5 + Hf7Ni10 | L: Cr 0.06, Hf 0.32, Ni 0.62 | model | [1] Kaufman 1975 | Table X, p. 13, row 5 |  |
+| 1590 | eutectic |  | model | [1] Kaufman 1975 | p. 12; `ORC-KGYUXKJIZG.aae955` | “Experimental studies of the Hf-Cr-Ni system disclosed a quasibinary eutectic between Hf2Ni7 and a fcc nickel-chromium alloy at 1540K in good agreement with the predicted temperature of 1590K shown in Table X.” |
+| 1590 | eutectic: L/Hf2Ni7 + fcc | L: Cr 0.35, Hf 0.03, Ni 0.62 | model | [1] Kaufman 1975 | Table X, p. 13, row 1; `ORC-SRZBCA56WR` |  |
+| 1540 | eutectic |  | experimental | [1] Kaufman 1975; _cites ref. 22_ | p. 12; `ORC-KGYUXKJIZG.67534a` | “Experimental studies of the Hf-Cr-Ni system disclosed a quasibinary eutectic between Hf2Ni7 and a fcc nickel-chromium alloy at 1540K in good agreement with the predicted temperature of 1590K shown in Table X. The observed concentration of the eutectic was observed to be 66Ni-25Cr-9Hf which differs only slightly from the predicted concentration.” |
+| 1490 | eutectic: L/Hf2Ni7 + Hf(Cr,Ni)2 | L: Cr 0.25, Hf 0.16, Ni 0.59 | model | [1] Kaufman 1975 | Table X, p. 13, row 2; `ORC-KZUTT7BU5O` |  |
+| 1460 | eutectic: L/Hf(Cr,Ni)2 + Ni5Hf2 | L: Cr 0.08, Hf 0.29, Ni 0.63 | model | [1] Kaufman 1975 | Table X, p. 13, row 3; `ORC-25BHLLFCCK` |  |
+| 1460 | eutectic: L/fcc + Hf(Cr,Ni)2 + Hf2Ni7 | L: Cr 0.43, Hf 0.05, Ni 0.52 | model | [1] Kaufman 1975 | Table X, p. 13, row 4; `ORC-UVDQWIJ2WF` |  |
+| 1450 | eutectic: L/Hf(Cr,Ni)2 + Hf2Ni5 + Hf2Ni7 | L: Cr 0.1, Hf 0.27, Ni 0.63 | model | [1] Kaufman 1975 | Table X, p. 13, row 6; `ORC-HI5VDDKEZ6` |  |
+| 1450 | eutectic: L/Hf(Cr,Ni)2 + Hf2Ni5 + Hf7Ni10 | L: Cr 0.06, Hf 0.32, Ni 0.62 | model | [1] Kaufman 1975 | Table X, p. 13, row 5; `ORC-OCKOQDDAZV` |  |
 
 ## Sources
 
@@ -77,4 +77,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

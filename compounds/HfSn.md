@@ -14,15 +14,15 @@ Table: Enthalpy of formation of HfSn reported in the literature (9)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -28.18 kJ/mol (basis unstated) | 40-HfSn | 0 | DFT | DFT | [Hf–Sn](https://data.orchid-project.org/systems/HF-SN.html) | [1] Berche 2016 | Table 2, p. 4, row 16 |  |
-| -28 kJ/mol (basis unstated) | B20-HfSn | 0 | DFT | DFT | [Hf–Sn](https://data.orchid-project.org/systems/HF-SN.html) | [1] Berche 2016 | Table 2, p. 4, row 17 |  |
-| -26.64 kJ/mol (basis unstated) | Bh-HfSn | 0 | DFT | DFT | [Hf–Sn](https://data.orchid-project.org/systems/HF-SN.html) | [1] Berche 2016 | Table 2, p. 4, row 19 |  |
-| -25.51 kJ/mol (basis unstated) | B11-HfSn | 0 | DFT | DFT | [Hf–Sn](https://data.orchid-project.org/systems/HF-SN.html) | [1] Berche 2016 | Table 2, p. 4, row 18 |  |
-| -22.76 kJ/mol (basis unstated) | L10-HfSn | 0 | DFT | DFT | [Hf–Sn](https://data.orchid-project.org/systems/HF-SN.html) | [1] Berche 2016 | Table 2, p. 4, row 20 |  |
-| -21.96 kJ/mol (basis unstated) | B27-HfSn | 0 | DFT | DFT | [Hf–Sn](https://data.orchid-project.org/systems/HF-SN.html) | [1] Berche 2016 | Table 2, p. 4, row 21 |  |
-| -20.38 kJ/mol (basis unstated) | B33-HfSn | 0 | DFT | DFT | [Hf–Sn](https://data.orchid-project.org/systems/HF-SN.html) | [1] Berche 2016 | Table 2, p. 4, row 22 |  |
-| -20.07 kJ/mol (basis unstated) | Bx-HfSn | 0 | DFT | DFT | [Hf–Sn](https://data.orchid-project.org/systems/HF-SN.html) | [1] Berche 2016 | Table 2, p. 4, row 23 |  |
-| 1.62 kJ/mol (basis unstated) | B35-HfSn | 0 | DFT | DFT | [Hf–Sn](https://data.orchid-project.org/systems/HF-SN.html) | [1] Berche 2016 | Table 2, p. 4, row 24 |  |
+| -28.18 kJ/mol (basis unstated) | 40-HfSn | 0 | DFT | DFT | [Hf–Sn](https://data.orchid-project.org/systems/HF-SN.html) | [1] Berche 2016 | Table 2, p. 4, row 16; `ORC-FKEGO7DKLX.6c408a` |  |
+| -28 kJ/mol (basis unstated) | B20-HfSn | 0 | DFT | DFT | [Hf–Sn](https://data.orchid-project.org/systems/HF-SN.html) | [1] Berche 2016 | Table 2, p. 4, row 17; `ORC-4RVXMDB5ME.491357` |  |
+| -26.64 kJ/mol (basis unstated) | Bh-HfSn | 0 | DFT | DFT | [Hf–Sn](https://data.orchid-project.org/systems/HF-SN.html) | [1] Berche 2016 | Table 2, p. 4, row 19; `ORC-PCVMNCQBC7.d665b4` |  |
+| -25.51 kJ/mol (basis unstated) | B11-HfSn | 0 | DFT | DFT | [Hf–Sn](https://data.orchid-project.org/systems/HF-SN.html) | [1] Berche 2016 | Table 2, p. 4, row 18; `ORC-VKNT6H6Q7M.01074a` |  |
+| -22.76 kJ/mol (basis unstated) | L10-HfSn | 0 | DFT | DFT | [Hf–Sn](https://data.orchid-project.org/systems/HF-SN.html) | [1] Berche 2016 | Table 2, p. 4, row 20; `ORC-OIOD5DM4V3.a071b6` |  |
+| -21.96 kJ/mol (basis unstated) | B27-HfSn | 0 | DFT | DFT | [Hf–Sn](https://data.orchid-project.org/systems/HF-SN.html) | [1] Berche 2016 | Table 2, p. 4, row 21; `ORC-TBEHUAZGE2.96fbaa` |  |
+| -20.38 kJ/mol (basis unstated) | B33-HfSn | 0 | DFT | DFT | [Hf–Sn](https://data.orchid-project.org/systems/HF-SN.html) | [1] Berche 2016 | Table 2, p. 4, row 22; `ORC-F7FLM2AC4Y.25fd4a` |  |
+| -20.07 kJ/mol (basis unstated) | Bx-HfSn | 0 | DFT | DFT | [Hf–Sn](https://data.orchid-project.org/systems/HF-SN.html) | [1] Berche 2016 | Table 2, p. 4, row 23; `ORC-JN4L7YGGMI.f48fc1` |  |
+| 1.62 kJ/mol (basis unstated) | B35-HfSn | 0 | DFT | DFT | [Hf–Sn](https://data.orchid-project.org/systems/HF-SN.html) | [1] Berche 2016 | Table 2, p. 4, row 24; `ORC-IE5F2SYQF3.0bc804` |  |
 
 ### Uncertainty budget
 
@@ -93,4 +93,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

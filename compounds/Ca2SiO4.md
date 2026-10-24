@@ -14,14 +14,14 @@ Table: Enthalpy of formation of Ca2SiO4 reported in the literature (8)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -2548 kJ/mol (basis unstated) | α-Ca2SiO4 | 298.15 | model |  | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023; _cites Haas 1981_ [doi](https://doi.org/10.1063/1.555645) | Table 7, p. 8, row 12 |  |
-| -2316 kJ/mol (basis unstated) | γ-Ca2SiO4 | 298.15 | model |  | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023 | Table 7, p. 8, row 17 |  |
-| -2316 kJ/mol (basis unstated) | γ-Ca2SiO4 | 298.15 | model |  | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023; _cites Haas 1981_ [doi](https://doi.org/10.1063/1.555645) | Table 7, p. 8, row 18 |  |
-| -2307 kJ/mol (basis unstated) | β-Ca2SiO4 | 298.15 | model |  | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023 | Table 7, p. 8, row 15 |  |
-| -2306 kJ/mol (basis unstated) | β-Ca2SiO4 | 298.15 | model |  | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023; _cites Haas 1981_ [doi](https://doi.org/10.1063/1.555645) | Table 7, p. 8, row 16 |  |
-| -2304 kJ/mol (basis unstated) | α′-Ca2SiO4 | 298.15 | model |  | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023 | Table 7, p. 8, row 13 |  |
-| -2293 kJ/mol (basis unstated) | α-Ca2SiO4 | 298.15 | model |  | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023 | Table 7, p. 8, row 11 |  |
-| -2198 kJ/mol (basis unstated) | α′-Ca2SiO4 | 298.15 | model |  | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023; _cites Haas 1981_ [doi](https://doi.org/10.1063/1.555645) | Table 7, p. 8, row 14 |  |
+| -2548 kJ/mol (basis unstated) | α-Ca2SiO4 | 298.15 | model |  | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023; _cites Haas 1981_ [doi](https://doi.org/10.1063/1.555645) | Table 7, p. 8, row 12; `ORC-QQR4UGT3GS.ad28d4` |  |
+| -2316 kJ/mol (basis unstated) | γ-Ca2SiO4 | 298.15 | model |  | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023 | Table 7, p. 8, row 17; `ORC-N4E76HFI6M.5129ec` |  |
+| -2316 kJ/mol (basis unstated) | γ-Ca2SiO4 | 298.15 | model |  | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023; _cites Haas 1981_ [doi](https://doi.org/10.1063/1.555645) | Table 7, p. 8, row 18; `ORC-RFZ5DTDIVY.160aa4` |  |
+| -2307 kJ/mol (basis unstated) | β-Ca2SiO4 | 298.15 | model |  | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023 | Table 7, p. 8, row 15; `ORC-ETBEBYX5XW.89fdb7` |  |
+| -2306 kJ/mol (basis unstated) | β-Ca2SiO4 | 298.15 | model |  | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023; _cites Haas 1981_ [doi](https://doi.org/10.1063/1.555645) | Table 7, p. 8, row 16; `ORC-3QNEW2TV5R.e38ae3` |  |
+| -2304 kJ/mol (basis unstated) | α′-Ca2SiO4 | 298.15 | model |  | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023 | Table 7, p. 8, row 13; `ORC-DOD36BIQRQ.dd12cd` |  |
+| -2293 kJ/mol (basis unstated) | α-Ca2SiO4 | 298.15 | model |  | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023 | Table 7, p. 8, row 11; `ORC-AMXBRCNROZ.9789a9` |  |
+| -2198 kJ/mol (basis unstated) | α′-Ca2SiO4 | 298.15 | model |  | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023; _cites Haas 1981_ [doi](https://doi.org/10.1063/1.555645) | Table 7, p. 8, row 14; `ORC-PBAHCHHFYE.0275fc` |  |
 
 ### Uncertainty budget
 
@@ -91,4 +91,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

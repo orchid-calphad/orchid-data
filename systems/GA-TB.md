@@ -62,24 +62,24 @@ Table: Invariant reactions reported in the literature for the Ga–Tb system (18
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1657 | congruent melting: L -> Ga2Tb | L: Ga 0.666667, Tb 0.333333; Ga2Tb: Ga 0.666667, Tb 0.333333 | model | [1] Jun 2008 | Table 4, p. 4, row 12 |  |
-| 1653 | congruent melting: L -> Ga2Tb | L: Ga 0.666667, Tb 0.333333; Ga2Tb: Ga 0.666667, Tb 0.333333 | experimental | [1] Jun 2008; _cites Yatsenko 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990170-x) | Table 4, p. 4, row 11 |  |
-| 1489 | peritectic: L + Ga2Tb -> GaTb | L: Ga 0.486; Ga2Tb: Ga 0.666667, Tb 0.333333; GaTb: Ga 0.5, Tb 0.5 | model | [1] Jun 2008 | Table 4, p. 4, row 6 |  |
-| 1483 | peritectic: L + Ga2Tb -> GaTb | L: Ga 0.486; Ga2Tb: Ga 0.666667, Tb 0.333333; GaTb: Ga 0.5, Tb 0.5 | experimental | [1] Jun 2008; _cites Yatsenko 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990170-x) | Table 4, p. 4, row 5 |  |
-| 1483 | peritectic |  | experimental | [1] Jun 2008 | p. 2 | “Among these compounds, Ga2 Tb melts congruently at 1653 K, Ga3 Tb5 and GaTb formed in peritectic reactions at 1403 and 1483 K, respectively.” |
-| 1403 | peritectic: L + GaTb -> Ga3Tb5 | L: Ga 0.374; GaTb: Ga 0.5, Tb 0.5; Ga3Tb5: Ga 0.375, Tb 0.625 | experimental | [1] Jun 2008; _cites Yatsenko 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990170-x) | Table 4, p. 4, row 3 |  |
-| 1403 | peritectic |  | experimental | [1] Jun 2008 | p. 2 | “Among these compounds, Ga2 Tb melts congruently at 1653 K, Ga3 Tb5 and GaTb formed in peritectic reactions at 1403 and 1483 K, respectively.” |
-| 1398 | peritectic: L + GaTb -> Ga3Tb5 | L: Ga 0.374; GaTb: Ga 0.5, Tb 0.5; Ga3Tb5: Ga 0.375, Tb 0.625 | model | [1] Jun 2008 | Table 4, p. 4, row 4 |  |
-| 1283 | peritectic: L + Ga2Tb -> Ga3Tb | L: Ga 0.92; Ga2Tb: Ga 0.666667, Tb 0.333333; Ga3Tb: Ga 0.75, Tb 0.25 | model | [1] Jun 2008 | Table 4, p. 4, row 8 |  |
-| 1283 | peritectic: L + Ga2Tb -> Ga3Tb | L: Ga 0.92; Ga2Tb: Ga 0.666667, Tb 0.333333; Ga3Tb: Ga 0.75, Tb 0.25 | experimental | [1] Jun 2008; _cites Cirafici 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990179-x) | Table 4, p. 4, row 7 |  |
-| 1283 | peritectic |  | experimental | [1] Jun 2008; _cites Cirafici 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990179-x) | p. 2 | “Cirafici et al. \[25\] determined the Ga3 Tb by using X-ray powder and single-crystal methods, the compound Ga3 Tb melts peritectically at about 1283 K and crystallizes in two structure types.” |
-| 1153 | eutectic: L -> hcp (Tb) + Ga3Tb5 | L: Ga 0.2; Ga3Tb5: Ga 0.375, Tb 0.625 | experimental | [1] Jun 2008; _cites Yatsenko 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990170-x) | Table 4, p. 4, row 1 |  |
-| 1150 | eutectic: L -> hcp (Tb) + Ga3Tb5 | L: Ga 0.185; Ga3Tb5: Ga 0.375, Tb 0.625 | model | [1] Jun 2008 | Table 4, p. 4, row 2 |  |
-| 670 | peritectic: L + Ga3Tb -> Ga6Tb | L: Ga 0.998; Ga3Tb: Ga 0.75, Tb 0.25; Ga6Tb: Ga 0.857143, Tb 0.142857 | experimental | [1] Jun 2008; _cites Pelleg 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990266-6) | Table 4, p. 4, row 9 |  |
-| 670 | peritectic |  | experimental | [1] Jun 2008; _cites Pelleg 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990266-6) | p. 2 | “Later, Pelleg \[24\] investigated the phase Ga6 Tb by XRD and DTA method and found that Ga6 Tb formed through a peritectic reaction at 670 K.” |
-| 670 | peritectic: L + Ga3Tb -> Ga6Tb | L: Ga 0.998; Ga3Tb: Ga 0.75, Tb 0.25; Ga6Tb: Ga 0.857143, Tb 0.142857 | model | [1] Jun 2008 | Table 4, p. 4, row 10 |  |
-| 303 | eutectic: L -> orth (Ga) + Ga6Tb | L: Ga 0.01; Ga6Tb: Ga 0.857143, Tb 0.142857 | model | [1] Jun 2008 | Table 4, p. 4, row 14 |  |
-| 303 | L -> orth (Ga) + Ga6Tb | Ga6Tb: Ga 0.857143, Tb 0.142857 | experimental | [1] Jun 2008; _cites Yatsenko 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990170-x) | Table 4, p. 4, row 13 |  |
+| 1657 | congruent melting: L -> Ga2Tb | L: Ga 0.666667, Tb 0.333333; Ga2Tb: Ga 0.666667, Tb 0.333333 | model | [1] Jun 2008 | Table 4, p. 4, row 12; `ORC-M7ONAGJ35Y` |  |
+| 1653 | congruent melting: L -> Ga2Tb | L: Ga 0.666667, Tb 0.333333; Ga2Tb: Ga 0.666667, Tb 0.333333 | experimental | [1] Jun 2008; _cites Yatsenko 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990170-x) | Table 4, p. 4, row 11; `ORC-7V5BNX2HNM` |  |
+| 1489 | peritectic: L + Ga2Tb -> GaTb | L: Ga 0.486; Ga2Tb: Ga 0.666667, Tb 0.333333; GaTb: Ga 0.5, Tb 0.5 | model | [1] Jun 2008 | Table 4, p. 4, row 6; `ORC-MSDHPDLX7O` |  |
+| 1483 | peritectic: L + Ga2Tb -> GaTb | L: Ga 0.486; Ga2Tb: Ga 0.666667, Tb 0.333333; GaTb: Ga 0.5, Tb 0.5 | experimental | [1] Jun 2008; _cites Yatsenko 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990170-x) | Table 4, p. 4, row 5; `ORC-FYYG6JFKN5` |  |
+| 1483 | peritectic |  | experimental | [1] Jun 2008 | p. 2; `ORC-NFVWKDLRCO.d9d984` | “Among these compounds, Ga2 Tb melts congruently at 1653 K, Ga3 Tb5 and GaTb formed in peritectic reactions at 1403 and 1483 K, respectively.” |
+| 1403 | peritectic: L + GaTb -> Ga3Tb5 | L: Ga 0.374; GaTb: Ga 0.5, Tb 0.5; Ga3Tb5: Ga 0.375, Tb 0.625 | experimental | [1] Jun 2008; _cites Yatsenko 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990170-x) | Table 4, p. 4, row 3; `ORC-4RPJZDE7XU` |  |
+| 1403 | peritectic |  | experimental | [1] Jun 2008 | p. 2; `ORC-NFVWKDLRCO.acbfac` | “Among these compounds, Ga2 Tb melts congruently at 1653 K, Ga3 Tb5 and GaTb formed in peritectic reactions at 1403 and 1483 K, respectively.” |
+| 1398 | peritectic: L + GaTb -> Ga3Tb5 | L: Ga 0.374; GaTb: Ga 0.5, Tb 0.5; Ga3Tb5: Ga 0.375, Tb 0.625 | model | [1] Jun 2008 | Table 4, p. 4, row 4; `ORC-Q5KGZCVUZG` |  |
+| 1283 | peritectic: L + Ga2Tb -> Ga3Tb | L: Ga 0.92; Ga2Tb: Ga 0.666667, Tb 0.333333; Ga3Tb: Ga 0.75, Tb 0.25 | model | [1] Jun 2008 | Table 4, p. 4, row 8; `ORC-FNKZ2KHILJ` |  |
+| 1283 | peritectic: L + Ga2Tb -> Ga3Tb | L: Ga 0.92; Ga2Tb: Ga 0.666667, Tb 0.333333; Ga3Tb: Ga 0.75, Tb 0.25 | experimental | [1] Jun 2008; _cites Cirafici 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990179-x) | Table 4, p. 4, row 7; `ORC-NZEZZF3JOA` |  |
+| 1283 | peritectic |  | experimental | [1] Jun 2008; _cites Cirafici 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990179-x) | p. 2; `ORC-TW7PTUWGAV` | “Cirafici et al. \[25\] determined the Ga3 Tb by using X-ray powder and single-crystal methods, the compound Ga3 Tb melts peritectically at about 1283 K and crystallizes in two structure types.” |
+| 1153 | eutectic: L -> hcp (Tb) + Ga3Tb5 | L: Ga 0.2; Ga3Tb5: Ga 0.375, Tb 0.625 | experimental | [1] Jun 2008; _cites Yatsenko 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990170-x) | Table 4, p. 4, row 1; `ORC-HKX4M5JPO7` |  |
+| 1150 | eutectic: L -> hcp (Tb) + Ga3Tb5 | L: Ga 0.185; Ga3Tb5: Ga 0.375, Tb 0.625 | model | [1] Jun 2008 | Table 4, p. 4, row 2; `ORC-GU6JWSQK5W` |  |
+| 670 | peritectic: L + Ga3Tb -> Ga6Tb | L: Ga 0.998; Ga3Tb: Ga 0.75, Tb 0.25; Ga6Tb: Ga 0.857143, Tb 0.142857 | experimental | [1] Jun 2008; _cites Pelleg 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990266-6) | Table 4, p. 4, row 9; `ORC-TOKOXWQL6N` |  |
+| 670 | peritectic |  | experimental | [1] Jun 2008; _cites Pelleg 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990266-6) | p. 2; `ORC-XN4GQFLSXK` | “Later, Pelleg \[24\] investigated the phase Ga6 Tb by XRD and DTA method and found that Ga6 Tb formed through a peritectic reaction at 670 K.” |
+| 670 | peritectic: L + Ga3Tb -> Ga6Tb | L: Ga 0.998; Ga3Tb: Ga 0.75, Tb 0.25; Ga6Tb: Ga 0.857143, Tb 0.142857 | model | [1] Jun 2008 | Table 4, p. 4, row 10; `ORC-XUBICGSVRG` |  |
+| 303 | eutectic: L -> orth (Ga) + Ga6Tb | L: Ga 0.01; Ga6Tb: Ga 0.857143, Tb 0.142857 | model | [1] Jun 2008 | Table 4, p. 4, row 14; `ORC-7KGZL42FQY` |  |
+| 303 | L -> orth (Ga) + Ga6Tb | Ga6Tb: Ga 0.857143, Tb 0.142857 | experimental | [1] Jun 2008; _cites Yatsenko 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990170-x) | Table 4, p. 4, row 13; `ORC-GUVA3NONAN` |  |
 
 ## Other properties
 
@@ -89,8 +89,8 @@ Table: Phase transition, Ga–Tb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1653 K | 1653 | congruent transformation | experimental | [1] Jun 2008 | p. 2 | “Among these compounds, Ga2 Tb melts congruently at 1653 K, Ga3 Tb5 and GaTb formed in peritectic reactions at 1403 and 1483 K, respectively.” |
-| Phase transition | 1657 K | 1657 | congruent transformation | model | [1] Jun 2008 | p. 4 | “The calculated congruent-melting point of the Ga2 Tb phase is 1657 K and the temperature of Ga3 Tb5 , GaTb, Ga3 Tb and Ga6 Tb peritectic reactions obtained in this work agree well with those given by Yatsenko \[21\], Pelleg \[24\] and Cirafici \[25\].” |
+| Phase transition | 1653 K | 1653 | congruent transformation | experimental | [1] Jun 2008 | p. 2; `ORC-NFVWKDLRCO.89e6da` | “Among these compounds, Ga2 Tb melts congruently at 1653 K, Ga3 Tb5 and GaTb formed in peritectic reactions at 1403 and 1483 K, respectively.” |
+| Phase transition | 1657 K | 1657 | congruent transformation | model | [1] Jun 2008 | p. 4; `ORC-SHKNBGKANQ` | “The calculated congruent-melting point of the Ga2 Tb phase is 1657 K and the temperature of Ga3 Tb5 , GaTb, Ga3 Tb and Ga6 Tb peritectic reactions obtained in this work agree well with those given by Yatsenko \[21\], Pelleg \[24\] and Cirafici \[25\].” |
 
 ## Sources
 
@@ -155,4 +155,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

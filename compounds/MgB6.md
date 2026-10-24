@@ -14,11 +14,11 @@ Table: Enthalpy of formation of MgB6 reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -15.5 per mol-atom ± 2.1 | MgB6 | 298.15 | experimental | Vap. p. | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 15 |  |
-| -13.4 per mol-atom | MgB6 | 298.15 | experimental | calorimetry | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 17 |  |
-| -13.4 per mol-atom ± 0.6 | MgB6 | 298.15 | experimental | calorimetry | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 16 |  |
-| -0.01339 kJ/mol-atom ± 6.000e-4 | MgB6 | 298.15 | experimental | calorimetry | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [2] Liu 2001; _cites Jansson 1984_ | Table 2, p. 2, row 6 |  |
-| -0.01339 kJ/mol-atom ± 3.000e-4 | MgB6 | 298.15 | experimental | calorimetry | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [2] Liu 2001; _cites Sundman 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990021-5) | Table 2, p. 2, row 9 |  |
+| -15.5 per mol-atom ± 2.1 | MgB6 | 298.15 | experimental | Vap. p. | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 15; `ORC-G5XQAHUA2A.963f3e` |  |
+| -13.4 per mol-atom | MgB6 | 298.15 | experimental | calorimetry | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 17; `ORC-KRQXJTFGPA.b008fc` |  |
+| -13.4 per mol-atom ± 0.6 | MgB6 | 298.15 | experimental | calorimetry | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 16; `ORC-NNE6I23M5C.9c392a` |  |
+| -0.01339 kJ/mol-atom ± 6.000e-4 | MgB6 | 298.15 | experimental | calorimetry | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [2] Liu 2001; _cites Jansson 1984_ | Table 2, p. 2, row 6; `ORC-3LPA54QJQD` |  |
+| -0.01339 kJ/mol-atom ± 3.000e-4 | MgB6 | 298.15 | experimental | calorimetry | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [2] Liu 2001; _cites Sundman 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990021-5) | Table 2, p. 2, row 9; `ORC-KIP2CJSBMK` |  |
 
 ### Uncertainty budget
 
@@ -98,4 +98,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

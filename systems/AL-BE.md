@@ -48,8 +48,8 @@ Table: Invariant reactions reported in the literature for the Al–Be system (2)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 920.15 | eutectic |  | experimental | [1] Pan 2004; _cites Haas 1930_ | p. 3 | “By means of thermal analysis and optical microscopy, Kroll \[13\] as well as Haas and Uno \[14\] reported the eutectic point to be at 640 ◦ C and 4.1 at.% Be, and at 647 ◦ C and 4.1 at.% Be, respectively.” |
-| 913.15 | eutectic |  | experimental | [1] Pan 2004; _cites Kroll 1926_ | p. 3 | “By means of thermal analysis and optical microscopy, Kroll \[13\] as well as Haas and Uno \[14\] reported the eutectic point to be at 640 ◦ C and 4.1 at.% Be, and at 647 ◦ C and 4.1 at.% Be, respectively.” |
+| 920.15 | eutectic |  | experimental | [1] Pan 2004; _cites Haas 1930_ | p. 3; `ORC-VGM3TE2VZK.59f9d6` | “By means of thermal analysis and optical microscopy, Kroll \[13\] as well as Haas and Uno \[14\] reported the eutectic point to be at 640 ◦ C and 4.1 at.% Be, and at 647 ◦ C and 4.1 at.% Be, respectively.” |
+| 913.15 | eutectic |  | experimental | [1] Pan 2004; _cites Kroll 1926_ | p. 3; `ORC-VGM3TE2VZK.7d36ec` | “By means of thermal analysis and optical microscopy, Kroll \[13\] as well as Haas and Uno \[14\] reported the eutectic point to be at 640 ◦ C and 4.1 at.% Be, and at 647 ◦ C and 4.1 at.% Be, respectively.” |
 
 ## Other properties
 
@@ -59,9 +59,9 @@ Table: Activity / EMF / Gibbs energy, Al–Be system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Activity coefficient; _printed: activity coefficient_ | 4.64 unspecified | 1600 |  | experimental | [1] Pan 2004; _cites Bienvenu 1967_ | p. 6 | “In accordance with the parameters obtained in the present work, the calculated activity coefficient for Al in a dilute solution of liquid Be at 1600 K is 5.2, which agrees with the measured value of 4.64 \[32\].” |
-| Activity coefficient; _printed: activity coefficient_ | 5.2 unspecified | 1600 |  | model | [1] Pan 2004 | p. 6 | “In accordance with the parameters obtained in the present work, the calculated activity coefficient for Al in a dilute solution of liquid Be at 1600 K is 5.2, which agrees with the measured value of 4.64 \[32\].” |
-| Activity coefficient; _printed: activity coefficient_ | 4.64 unspecified | 1600 |  | experimental | [1] Pan 2004; _cites Bienvenu 1967_ | p. 3 | “Using the distribution method, Bienvenu et al. \[32\] reported the activity coefficient for Al in a dilute solution of liquid Be as 4.64 at 1600 K.” |
+| Activity coefficient; _printed: activity coefficient_ | 4.64 unspecified | 1600 |  | experimental | [1] Pan 2004; _cites Bienvenu 1967_ | p. 6; `ORC-KUIXL72UYP.0cc620` | “In accordance with the parameters obtained in the present work, the calculated activity coefficient for Al in a dilute solution of liquid Be at 1600 K is 5.2, which agrees with the measured value of 4.64 \[32\].” |
+| Activity coefficient; _printed: activity coefficient_ | 5.2 unspecified | 1600 |  | model | [1] Pan 2004 | p. 6; `ORC-KUIXL72UYP.358b91` | “In accordance with the parameters obtained in the present work, the calculated activity coefficient for Al in a dilute solution of liquid Be at 1600 K is 5.2, which agrees with the measured value of 4.64 \[32\].” |
+| Activity coefficient; _printed: activity coefficient_ | 4.64 unspecified | 1600 |  | experimental | [1] Pan 2004; _cites Bienvenu 1967_ | p. 3; `ORC-LFW4GN5WCE` | “Using the distribution method, Bienvenu et al. \[32\] reported the activity coefficient for Al in a dilute solution of liquid Be as 4.64 at 1600 K.” |
 
 ## Sources
 
@@ -126,4 +126,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

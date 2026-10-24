@@ -14,19 +14,19 @@ Table: Enthalpy of formation of MgNi2 reported in the literature (13)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -77.87 kJ/mol (basis unstated) | MgNi2 | 298.15 | experimental |  | [Mg–Ni](https://data.orchid-project.org/systems/MG-NI.html) | [1] Jacobs 1998; _cites ref. 9_ | Table 4, p. 7, row 2 |  |
-| -59.91 kJ/mol (basis unstated) | MgNi2 | 298.15 | experimental |  | [Mg–Ni](https://data.orchid-project.org/systems/MG-NI.html) | [1] Jacobs 1998; _cites ref. 12_ | Table 4, p. 7, row 6 |  |
-| -55.68 kJ/mol (basis unstated) ± 6.28 | MgNi2 | 298.15 | experimental |  | [Mg–Ni](https://data.orchid-project.org/systems/MG-NI.html) | [1] Jacobs 1998; _cites ref. 10_ | Table 4, p. 7, row 3 |  |
-| -55.27 kJ/mol (basis unstated) ± 2.1 | MgNi2 | 298.15 | experimental |  | [Mg–Ni](https://data.orchid-project.org/systems/MG-NI.html) | [1] Jacobs 1998; _cites ref. 11_ | Table 4, p. 7, row 5 |  |
-| -53.22 kJ/mol (basis unstated) ± 10 | MgNi2 | 298.15 | experimental |  | [Mg–Ni](https://data.orchid-project.org/systems/MG-NI.html) | [1] Jacobs 1998; _cites ref. 16_ | Table 4, p. 7, row 7 |  |
-| -25.92 kJ/mol-atom | MgNi2 | 298.15 | experimental | Vap. press. | [Mg–Ni](https://data.orchid-project.org/systems/MG-NI.html) | [2] Islam 2005; _cites Schmahl 1958_ | Table 4, p. 7, row 4 |  |
-| -21.47 kJ/mol-atom | MgNi2 | 298.15 | experimental | emf | [Mg–Ni](https://data.orchid-project.org/systems/MG-NI.html) | [2] Islam 2005; _cites Lukashenko 1966_ | Table 4, p. 7, row 3 |  |
-| -21.073 kJ/mol-atom | MgNi2 | 298.15 | experimental | Soln. calo. | [Mg–Ni](https://data.orchid-project.org/systems/MG-NI.html) | [2] Islam 2005; _cites Feufel 1995_ [doi](https://doi.org/10.1016/0925-8388%2895%2901526-4) | Table 4, p. 7, row 7 |  |
-| -20.62 kJ/mol-atom | MgNi2 | 298.15 | experimental | Vap. press. | [Mg–Ni](https://data.orchid-project.org/systems/MG-NI.html) | [2] Islam 2005; _cites Smith 1960_ [doi](https://doi.org/10.1016/0001-6160%2860%2990188-7) | Table 4, p. 7, row 6 |  |
-| -19.23 kJ/mol-atom | MgNi2 | 298.15 | experimental | Soln. calo. | [Mg–Ni](https://data.orchid-project.org/systems/MG-NI.html) | [2] Islam 2005; _cites King 1964_ [doi](https://doi.org/10.1016/0001-6160%2864%2990056-2) | Table 4, p. 7, row 5 |  |
-| -55.65 kJ/mol (basis unstated) ± 4.61 | MgNi2 |  | model |  | [Mg–Ni](https://data.orchid-project.org/systems/MG-NI.html) | [1] Jacobs 1998 | Table 4, p. 7, row 4 |  |
-| -48.086 kJ/mol (basis unstated) | MgNi2 |  | model |  | [Mg–Ni](https://data.orchid-project.org/systems/MG-NI.html) | [1] Jacobs 1998 | Table 4, p. 7, row 1 |  |
-| -21.55 kJ/mol-atom | MgNi2 |  | model | Cal. | [Mg–Ni](https://data.orchid-project.org/systems/MG-NI.html) | [2] Islam 2005 | Table 4, p. 7, row 2 |  |
+| -77.87 kJ/mol (basis unstated) | MgNi2 | 298.15 | experimental |  | [Mg–Ni](https://data.orchid-project.org/systems/MG-NI.html) | [1] Jacobs 1998; _cites ref. 9_ | Table 4, p. 7, row 2; `ORC-RYAQ4LKL7J.2be89c` |  |
+| -59.91 kJ/mol (basis unstated) | MgNi2 | 298.15 | experimental |  | [Mg–Ni](https://data.orchid-project.org/systems/MG-NI.html) | [1] Jacobs 1998; _cites ref. 12_ | Table 4, p. 7, row 6; `ORC-4RGH55XUQP.21ebbb` |  |
+| -55.68 kJ/mol (basis unstated) ± 6.28 | MgNi2 | 298.15 | experimental |  | [Mg–Ni](https://data.orchid-project.org/systems/MG-NI.html) | [1] Jacobs 1998; _cites ref. 10_ | Table 4, p. 7, row 3; `ORC-WRHWA6GMI3.9bfa2d` |  |
+| -55.27 kJ/mol (basis unstated) ± 2.1 | MgNi2 | 298.15 | experimental |  | [Mg–Ni](https://data.orchid-project.org/systems/MG-NI.html) | [1] Jacobs 1998; _cites ref. 11_ | Table 4, p. 7, row 5; `ORC-PMMJZUFYMJ.6995a1` |  |
+| -53.22 kJ/mol (basis unstated) ± 10 | MgNi2 | 298.15 | experimental |  | [Mg–Ni](https://data.orchid-project.org/systems/MG-NI.html) | [1] Jacobs 1998; _cites ref. 16_ | Table 4, p. 7, row 7; `ORC-3IFUULPCB5.824c81` |  |
+| -25.92 kJ/mol-atom | MgNi2 | 298.15 | experimental | Vap. press. | [Mg–Ni](https://data.orchid-project.org/systems/MG-NI.html) | [2] Islam 2005; _cites Schmahl 1958_ | Table 4, p. 7, row 4; `ORC-KARWEPEIDM.17caf0` |  |
+| -21.47 kJ/mol-atom | MgNi2 | 298.15 | experimental | emf | [Mg–Ni](https://data.orchid-project.org/systems/MG-NI.html) | [2] Islam 2005; _cites Lukashenko 1966_ | Table 4, p. 7, row 3; `ORC-4ID3VNUSY5.355647` |  |
+| -21.073 kJ/mol-atom | MgNi2 | 298.15 | experimental | Soln. calo. | [Mg–Ni](https://data.orchid-project.org/systems/MG-NI.html) | [2] Islam 2005; _cites Feufel 1995_ [doi](https://doi.org/10.1016/0925-8388%2895%2901526-4) | Table 4, p. 7, row 7; `ORC-QVTPLSNWR4.43109e` |  |
+| -20.62 kJ/mol-atom | MgNi2 | 298.15 | experimental | Vap. press. | [Mg–Ni](https://data.orchid-project.org/systems/MG-NI.html) | [2] Islam 2005; _cites Smith 1960_ [doi](https://doi.org/10.1016/0001-6160%2860%2990188-7) | Table 4, p. 7, row 6; `ORC-ZUOAQ2M7RC.4ad923` |  |
+| -19.23 kJ/mol-atom | MgNi2 | 298.15 | experimental | Soln. calo. | [Mg–Ni](https://data.orchid-project.org/systems/MG-NI.html) | [2] Islam 2005; _cites King 1964_ [doi](https://doi.org/10.1016/0001-6160%2864%2990056-2) | Table 4, p. 7, row 5; `ORC-5PCDUQPPMY.171a4e` |  |
+| -55.65 kJ/mol (basis unstated) ± 4.61 | MgNi2 |  | model |  | [Mg–Ni](https://data.orchid-project.org/systems/MG-NI.html) | [1] Jacobs 1998 | Table 4, p. 7, row 4; `ORC-QRH66KL2K7.750685` |  |
+| -48.086 kJ/mol (basis unstated) | MgNi2 |  | model |  | [Mg–Ni](https://data.orchid-project.org/systems/MG-NI.html) | [1] Jacobs 1998 | Table 4, p. 7, row 1; `ORC-GPOK2SAIGV.177028` |  |
+| -21.55 kJ/mol-atom | MgNi2 |  | model | Cal. | [Mg–Ni](https://data.orchid-project.org/systems/MG-NI.html) | [2] Islam 2005 | Table 4, p. 7, row 2; `ORC-WEVCNGEEW4.265df8` |  |
 
 ### Uncertainty budget
 
@@ -115,4 +115,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

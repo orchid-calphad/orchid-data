@@ -56,33 +56,33 @@ Table: Invariant reactions reported in the literature for the Eu–Ni system (27
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1993.15 | monotectic: Top of the monotectic domain | L: Eu 0.745; Liq: Eu 0.745 | model | [1] Kardellass 2016 | Table 8, p. 13, row 24 |  |
-| 1983.15 | monotectic: Top of the monotectic domain | L: Eu 0.74; Liq: Eu 0.74 | model | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 8, p. 13, row 23 |  |
-| 1713.15 | congruent melting: Liq -> Ni5Eu | Ni5Eu: Eu 0.166667, Ni 0.833333 | experimental | [1] Kardellass 2016; _cites Savitskii 1967_ [doi](https://doi.org/10.1007/bf00819832) | Table 8, p. 13, row 8 |  |
-| 1670.15 | congruent melting: Liq -> Ni5Eu | L: Eu 0.166; Ni5Eu: Eu 0.166667, Ni 0.833333; Liq: Eu 0.166 | model | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 8, p. 13, row 9 |  |
-| 1666.15 | congruent melting: Liq -> Ni5Eu | Ni5Eu: Eu 0.166667, Ni 0.833333 | model | [1] Kardellass 2016 | Table 8, p. 13, row 10 |  |
-| 1593.95 | eutectic: Liq -> fcc_A1 + Ni5Eu | L: Eu 0.0827; Ni5Eu: Eu 0.166667, Ni 0.833333; Liq: Eu 0.0827 | model | [1] Kardellass 2016 | Table 8, p. 13, row 4 |  |
-| 1589.45 | peritectic: Liq + Ni5Eu -> Ni17Eu2 | L: Eu 0.0827; Ni5Eu: Eu 0.166667, Ni 0.833333; Ni17Eu2: Eu 0.105263, Ni 0.894737; Liq: Eu 0.0827 | model | [1] Kardellass 2016 | Table 8, p. 13, row 7 |  |
-| 1543.15 | peritectic: Liq + Ni5Eu -> Ni17Eu2 | L: Eu 0.078; Ni5Eu: Eu 0.166667, Ni 0.833333; Ni17Eu2: Eu 0.105263, Ni 0.894737; Liq: Eu 0.078 | experimental | [1] Kardellass 2016; _cites Savitskii 1967_ [doi](https://doi.org/10.1007/bf00819832) | Table 8, p. 13, row 5 |  |
-| 1543.15 | eutectic: Liq -> fcc_A1 + Ni5Eu | L: Eu 0.078; Ni5Eu: Eu 0.166667, Ni 0.833333; Liq: Eu 0.078 | model | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 8, p. 13, row 3 |  |
-| 1510.15 | peritectic: Liq + Ni5Eu -> Ni17Eu2 | L: Eu 0.0788; Ni5Eu: Eu 0.166667, Ni 0.833333; Ni17Eu2: Eu 0.105263, Ni 0.894737; Liq: Eu 0.0788 | model | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 8, p. 13, row 6 |  |
-| 1473.15 | eutectic: Liq -> fcc_A1 + Ni5Eu | L: Eu 0.05; Ni5Eu: Eu 0.166667, Ni 0.833333; Liq: Eu 0.05 | experimental | [1] Kardellass 2016; _cites Savitskii 1967_ [doi](https://doi.org/10.1007/bf00819832) | Table 8, p. 13, row 1 |  |
-| 1473.15 | eutectic: Liq -> fcc_A1 + Ni5Eu | L: Eu 0.073; Ni5Eu: Eu 0.166667, Ni 0.833333; Liq: Eu 0.073 | model | [1] Kardellass 2016; _cites Tung 1989_ [doi](https://doi.org/10.1007/bf02881420) | Table 8, p. 13, row 2 |  |
-| 1391.75 | congruent melting: Liq -> NiEu | L: Eu 0.5; NiEu: Eu 0.5, Ni 0.5; Liq: Eu 0.5 | model | [1] Kardellass 2016 | Table 8, p. 13, row 16 |  |
-| 1371.15 | eutectic: Liq1# -> Liq2# + NiEu | Liq1#: Eu 0.6; Liq2#: Eu 0.851; NiEu: Eu 0.5, Ni 0.5 | model | [1] Kardellass 2016 | Table 8, p. 13, row 22 |  |
-| 1365.55 | eutectic: Liq1# -> Liq2# + NiEu | Liq1#: Eu 0.505; Liq2#: Eu 0.948; NiEu: Eu 0.5, Ni 0.5 | model | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 8, p. 13, row 21 |  |
-| 1365.55 | peritectic: Liq + Ni5Eu -> Ni2Eu | L: Eu 0.347; Ni5Eu: Eu 0.166667, Ni 0.833333; Ni2Eu: Eu 0.333333, Ni 0.666667; Liq: Eu 0.347 | model | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 8, p. 13, row 12 |  |
-| 1365.55 | congruent melting: Liq -> NiEu | L: Eu 0.5; NiEu: Eu 0.5, Ni 0.5; Liq: Eu 0.5 | model | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 8, p. 13, row 15 |  |
-| 1365.55 | congruent melting: Liq -> NiEu | L: Eu 0.5; NiEu: Eu 0.5, Ni 0.5; Liq: Eu 0.5 | experimental | [1] Kardellass 2016; _cites Savitskii 1967_ [doi](https://doi.org/10.1007/bf00819832) | Table 8, p. 13, row 14 |  |
-| 1358.15 | peritectic: Liq + Ni5Eu -> Ni2Eu | L: Eu 0.341; Ni5Eu: Eu 0.166667, Ni 0.833333; Ni2Eu: Eu 0.333333, Ni 0.666667; Liq: Eu 0.341 | model | [1] Kardellass 2016 | Table 8, p. 13, row 13 |  |
-| 1342.65 | peritectic: Liq + Ni5Eu -> Ni2Eu | L: Eu 0.366; Ni5Eu: Eu 0.166667, Ni 0.833333; Ni2Eu: Eu 0.333333, Ni 0.666667; Liq: Eu 0.366 | experimental | [1] Kardellass 2016; _cites Savitskii 1967_ [doi](https://doi.org/10.1007/bf00819832) | Table 8, p. 13, row 11 |  |
-| 1335.05 | eutectic: Ni2Eu + NiEu -> Liq | Ni2Eu: Eu 0.333333, Ni 0.666667; NiEu: Eu 0.5, Ni 0.5; L: Eu 0.41; Liq: Eu 0.41 | model | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 8, p. 13, row 18 |  |
-| 1330.15 | eutectic: Ni2Eu + NiEu -> Liq | Ni2Eu: Eu 0.333333, Ni 0.666667; NiEu: Eu 0.5, Ni 0.5; L: Eu 0.396; Liq: Eu 0.396 | model | [1] Kardellass 2016 | Table 8, p. 13, row 19 |  |
-| 1312.15 | eutectic: Liq1# -> Liq2# + NiEu | Liq1#: Eu 0.581; Liq2#: Eu 0.934; NiEu: Eu 0.5, Ni 0.5 | experimental | [1] Kardellass 2016; _cites Savitskii 1967_ [doi](https://doi.org/10.1007/bf00819832) | Table 8, p. 13, row 20 |  |
-| 1281.15 | eutectic: Ni2Eu + NiEu -> Liq | Ni2Eu: Eu 0.333333, Ni 0.666667; NiEu: Eu 0.5, Ni 0.5; L: Eu 0.415; Liq: Eu 0.415 | experimental | [1] Kardellass 2016; _cites Savitskii 1967_ [doi](https://doi.org/10.1007/bf00819832) | Table 8, p. 13, row 17 |  |
-| 1083.15 | eutectic: Liq -> NiEu + fcc_A1 | L: Eu 0.997; NiEu: Eu 0.5, Ni 0.5; Liq: Eu 0.997 | experimental | [1] Kardellass 2016; _cites Savitskii 1967_ [doi](https://doi.org/10.1007/bf00819832) | Table 8, p. 13, row 25 |  |
-| 1083.15 | eutectic: Liq -> NiEu + fcc_A1 | L: Eu 0.997; NiEu: Eu 0.5, Ni 0.5; Liq: Eu 0.997 | model | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 8, p. 13, row 26 |  |
-| 1023.15 | eutectic: Liq -> NiEu + fcc_A1 | L: Eu 0.954; NiEu: Eu 0.5, Ni 0.5; Liq: Eu 0.954 | model | [1] Kardellass 2016 | Table 8, p. 13, row 27 |  |
+| 1993.15 | monotectic: Top of the monotectic domain | L: Eu 0.745; Liq: Eu 0.745 | model | [1] Kardellass 2016 | Table 8, p. 13, row 24; `ORC-RZOKIGX3YF` |  |
+| 1983.15 | monotectic: Top of the monotectic domain | L: Eu 0.74; Liq: Eu 0.74 | model | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 8, p. 13, row 23; `ORC-IZOHSXKVNO` |  |
+| 1713.15 | congruent melting: Liq -> Ni5Eu | Ni5Eu: Eu 0.166667, Ni 0.833333 | experimental | [1] Kardellass 2016; _cites Savitskii 1967_ [doi](https://doi.org/10.1007/bf00819832) | Table 8, p. 13, row 8; `ORC-ZCG34AZUYB` |  |
+| 1670.15 | congruent melting: Liq -> Ni5Eu | L: Eu 0.166; Ni5Eu: Eu 0.166667, Ni 0.833333; Liq: Eu 0.166 | model | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 8, p. 13, row 9; `ORC-FZOF2BRP7P` |  |
+| 1666.15 | congruent melting: Liq -> Ni5Eu | Ni5Eu: Eu 0.166667, Ni 0.833333 | model | [1] Kardellass 2016 | Table 8, p. 13, row 10; `ORC-AAT3JUB2C4` |  |
+| 1593.95 | eutectic: Liq -> fcc_A1 + Ni5Eu | L: Eu 0.0827; Ni5Eu: Eu 0.166667, Ni 0.833333; Liq: Eu 0.0827 | model | [1] Kardellass 2016 | Table 8, p. 13, row 4; `ORC-4ECPHMTY4D` |  |
+| 1589.45 | peritectic: Liq + Ni5Eu -> Ni17Eu2 | L: Eu 0.0827; Ni5Eu: Eu 0.166667, Ni 0.833333; Ni17Eu2: Eu 0.105263, Ni 0.894737; Liq: Eu 0.0827 | model | [1] Kardellass 2016 | Table 8, p. 13, row 7; `ORC-YPA6MZYSNT` |  |
+| 1543.15 | peritectic: Liq + Ni5Eu -> Ni17Eu2 | L: Eu 0.078; Ni5Eu: Eu 0.166667, Ni 0.833333; Ni17Eu2: Eu 0.105263, Ni 0.894737; Liq: Eu 0.078 | experimental | [1] Kardellass 2016; _cites Savitskii 1967_ [doi](https://doi.org/10.1007/bf00819832) | Table 8, p. 13, row 5; `ORC-UJY5YKOBEV` |  |
+| 1543.15 | eutectic: Liq -> fcc_A1 + Ni5Eu | L: Eu 0.078; Ni5Eu: Eu 0.166667, Ni 0.833333; Liq: Eu 0.078 | model | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 8, p. 13, row 3; `ORC-X6DTTIFSCR` |  |
+| 1510.15 | peritectic: Liq + Ni5Eu -> Ni17Eu2 | L: Eu 0.0788; Ni5Eu: Eu 0.166667, Ni 0.833333; Ni17Eu2: Eu 0.105263, Ni 0.894737; Liq: Eu 0.0788 | model | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 8, p. 13, row 6; `ORC-72NTS5V2OI` |  |
+| 1473.15 | eutectic: Liq -> fcc_A1 + Ni5Eu | L: Eu 0.05; Ni5Eu: Eu 0.166667, Ni 0.833333; Liq: Eu 0.05 | experimental | [1] Kardellass 2016; _cites Savitskii 1967_ [doi](https://doi.org/10.1007/bf00819832) | Table 8, p. 13, row 1; `ORC-3NJTUBL65X` |  |
+| 1473.15 | eutectic: Liq -> fcc_A1 + Ni5Eu | L: Eu 0.073; Ni5Eu: Eu 0.166667, Ni 0.833333; Liq: Eu 0.073 | model | [1] Kardellass 2016; _cites Tung 1989_ [doi](https://doi.org/10.1007/bf02881420) | Table 8, p. 13, row 2; `ORC-HUCPU26WI6` |  |
+| 1391.75 | congruent melting: Liq -> NiEu | L: Eu 0.5; NiEu: Eu 0.5, Ni 0.5; Liq: Eu 0.5 | model | [1] Kardellass 2016 | Table 8, p. 13, row 16; `ORC-3GVCZ3M2JR` |  |
+| 1371.15 | eutectic: Liq1# -> Liq2# + NiEu | Liq1#: Eu 0.6; Liq2#: Eu 0.851; NiEu: Eu 0.5, Ni 0.5 | model | [1] Kardellass 2016 | Table 8, p. 13, row 22; `ORC-H5DEKRXERA` |  |
+| 1365.55 | eutectic: Liq1# -> Liq2# + NiEu | Liq1#: Eu 0.505; Liq2#: Eu 0.948; NiEu: Eu 0.5, Ni 0.5 | model | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 8, p. 13, row 21; `ORC-4HYNNUPRZJ` |  |
+| 1365.55 | peritectic: Liq + Ni5Eu -> Ni2Eu | L: Eu 0.347; Ni5Eu: Eu 0.166667, Ni 0.833333; Ni2Eu: Eu 0.333333, Ni 0.666667; Liq: Eu 0.347 | model | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 8, p. 13, row 12; `ORC-JZA77ZU3Z4` |  |
+| 1365.55 | congruent melting: Liq -> NiEu | L: Eu 0.5; NiEu: Eu 0.5, Ni 0.5; Liq: Eu 0.5 | model | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 8, p. 13, row 15; `ORC-QYFVFVVZYX` |  |
+| 1365.55 | congruent melting: Liq -> NiEu | L: Eu 0.5; NiEu: Eu 0.5, Ni 0.5; Liq: Eu 0.5 | experimental | [1] Kardellass 2016; _cites Savitskii 1967_ [doi](https://doi.org/10.1007/bf00819832) | Table 8, p. 13, row 14; `ORC-XLIZ42L2TG` |  |
+| 1358.15 | peritectic: Liq + Ni5Eu -> Ni2Eu | L: Eu 0.341; Ni5Eu: Eu 0.166667, Ni 0.833333; Ni2Eu: Eu 0.333333, Ni 0.666667; Liq: Eu 0.341 | model | [1] Kardellass 2016 | Table 8, p. 13, row 13; `ORC-3WDZJW3X5L` |  |
+| 1342.65 | peritectic: Liq + Ni5Eu -> Ni2Eu | L: Eu 0.366; Ni5Eu: Eu 0.166667, Ni 0.833333; Ni2Eu: Eu 0.333333, Ni 0.666667; Liq: Eu 0.366 | experimental | [1] Kardellass 2016; _cites Savitskii 1967_ [doi](https://doi.org/10.1007/bf00819832) | Table 8, p. 13, row 11; `ORC-GIODDFBPVN` |  |
+| 1335.05 | eutectic: Ni2Eu + NiEu -> Liq | Ni2Eu: Eu 0.333333, Ni 0.666667; NiEu: Eu 0.5, Ni 0.5; L: Eu 0.41; Liq: Eu 0.41 | model | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 8, p. 13, row 18; `ORC-KF2J6DSERT` |  |
+| 1330.15 | eutectic: Ni2Eu + NiEu -> Liq | Ni2Eu: Eu 0.333333, Ni 0.666667; NiEu: Eu 0.5, Ni 0.5; L: Eu 0.396; Liq: Eu 0.396 | model | [1] Kardellass 2016 | Table 8, p. 13, row 19; `ORC-47RTFF2UR2` |  |
+| 1312.15 | eutectic: Liq1# -> Liq2# + NiEu | Liq1#: Eu 0.581; Liq2#: Eu 0.934; NiEu: Eu 0.5, Ni 0.5 | experimental | [1] Kardellass 2016; _cites Savitskii 1967_ [doi](https://doi.org/10.1007/bf00819832) | Table 8, p. 13, row 20; `ORC-XVYXJOCQDZ` |  |
+| 1281.15 | eutectic: Ni2Eu + NiEu -> Liq | Ni2Eu: Eu 0.333333, Ni 0.666667; NiEu: Eu 0.5, Ni 0.5; L: Eu 0.415; Liq: Eu 0.415 | experimental | [1] Kardellass 2016; _cites Savitskii 1967_ [doi](https://doi.org/10.1007/bf00819832) | Table 8, p. 13, row 17; `ORC-XIXH2ZBXEW` |  |
+| 1083.15 | eutectic: Liq -> NiEu + fcc_A1 | L: Eu 0.997; NiEu: Eu 0.5, Ni 0.5; Liq: Eu 0.997 | experimental | [1] Kardellass 2016; _cites Savitskii 1967_ [doi](https://doi.org/10.1007/bf00819832) | Table 8, p. 13, row 25; `ORC-QQZYKSBMIO` |  |
+| 1083.15 | eutectic: Liq -> NiEu + fcc_A1 | L: Eu 0.997; NiEu: Eu 0.5, Ni 0.5; Liq: Eu 0.997 | model | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 8, p. 13, row 26; `ORC-S4GLOYVWBD` |  |
+| 1023.15 | eutectic: Liq -> NiEu + fcc_A1 | L: Eu 0.954; NiEu: Eu 0.5, Ni 0.5; Liq: Eu 0.954 | model | [1] Kardellass 2016 | Table 8, p. 13, row 27; `ORC-CLW4Y5L2AF` |  |
 
 ## Formation enthalpies
 
@@ -92,20 +92,20 @@ Table: Enthalpies of formation, Eu–Ni system (14)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Ni17Eu2 |  | -48 kJ/mol (basis unstated) ± 4 | 298.15 | experimental |  |  | [1] Kardellass 2016; _cites Cignini 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900155-9) | Table 7, p. 13, row 3 |  |
-| Ni17Eu2 |  | -9.9 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 7, p. 13, row 2 |  |
-| Ni17Eu2 | [Eu2Ni17](https://data.orchid-project.org/compounds/Eu2Ni17.html) | -9 kJ/mol-atom | 298.15 | model | -6.408 (mp-aaacqixi) | -12.136 (oqmd-30108) | [1] Kardellass 2016 | Table 4, p. 7, row 3 |  |
-| Ni17Eu2 |  | -9 kJ/mol (basis unstated) |  | model |  |  | [1] Kardellass 2016 | Table 7, p. 13, row 1 |  |
-| Ni2Eu |  | -16.36 kJ/mol (basis unstated) |  | model |  |  | [1] Kardellass 2016 | Table 7, p. 13, row 6 |  |
-| Ni2Eu | [EuNi2](https://data.orchid-project.org/compounds/EuNi2.html) | -16.36 kJ/mol-atom | 298.15 | model |  | -37.69 (oqmd-1591127) | [1] Kardellass 2016 | Table 4, p. 7, row 10 |  |
-| Ni2Eu |  | -16.22 kJ/mol (basis unstated) |  | model |  |  | [1] Kardellass 2016 | Table 7, p. 13, row 8 |  |
-| Ni2Eu |  | -15.6 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 7, p. 13, row 7 |  |
-| Ni5Eu |  | -15.6 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 7, p. 13, row 5 |  |
-| Ni5Eu | [EuNi5](https://data.orchid-project.org/compounds/EuNi5.html) | -14.47 kJ/mol-atom | 298.15 | model | -12.017 (mp-aaaabhad) | -21.135 (oqmd-30109) | [1] Kardellass 2016 | Table 4, p. 7, row 6 |  |
-| Ni5Eu |  | -14.47 kJ/mol (basis unstated) |  | model |  |  | [1] Kardellass 2016 | Table 7, p. 13, row 4 |  |
-| NiEu |  | -16.22 kJ/mol (basis unstated) |  | model |  |  | [1] Kardellass 2016 | Table 7, p. 13, row 8 |  |
-| NiEu | [EuNi](https://data.orchid-project.org/compounds/EuNi.html) | -16.22 kJ/mol-atom | 298.15 | model |  | -30.347 (oqmd-1366256) | [1] Kardellass 2016 | Table 4, p. 7, row 14 |  |
-| NiEu |  | -13 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 7, p. 13, row 9 |  |
+| Ni17Eu2 |  | -48 kJ/mol (basis unstated) ± 4 | 298.15 | experimental |  |  | [1] Kardellass 2016; _cites Cignini 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900155-9) | Table 7, p. 13, row 3; `ORC-MQJOYXSXAF.a82c93` |  |
+| Ni17Eu2 |  | -9.9 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 7, p. 13, row 2; `ORC-OFQIU3EJTQ.af7938` |  |
+| Ni17Eu2 | [Eu2Ni17](https://data.orchid-project.org/compounds/Eu2Ni17.html) | -9 kJ/mol-atom | 298.15 | model | -6.408 (mp-aaacqixi) | -12.136 (oqmd-30108) | [1] Kardellass 2016 | Table 4, p. 7, row 3; `ORC-EVU6QOBHFX.35987c` |  |
+| Ni17Eu2 |  | -9 kJ/mol (basis unstated) |  | model |  |  | [1] Kardellass 2016 | Table 7, p. 13, row 1; `ORC-UXZ7KE63PM.75b93e` |  |
+| Ni2Eu |  | -16.36 kJ/mol (basis unstated) |  | model |  |  | [1] Kardellass 2016 | Table 7, p. 13, row 6; `ORC-A6KOMUBVA5.1ef03e` |  |
+| Ni2Eu | [EuNi2](https://data.orchid-project.org/compounds/EuNi2.html) | -16.36 kJ/mol-atom | 298.15 | model |  | -37.69 (oqmd-1591127) | [1] Kardellass 2016 | Table 4, p. 7, row 10; `ORC-K4PJKKIDRN.1a10a1` |  |
+| Ni2Eu |  | -16.22 kJ/mol (basis unstated) |  | model |  |  | [1] Kardellass 2016 | Table 7, p. 13, row 8; `ORC-4F2EYUKZH7.66f9d0` |  |
+| Ni2Eu |  | -15.6 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 7, p. 13, row 7; `ORC-OFI7V7CDNZ.5d72fe` |  |
+| Ni5Eu |  | -15.6 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 7, p. 13, row 5; `ORC-ALJUMA5B62.aa752a` |  |
+| Ni5Eu | [EuNi5](https://data.orchid-project.org/compounds/EuNi5.html) | -14.47 kJ/mol-atom | 298.15 | model | -12.017 (mp-aaaabhad) | -21.135 (oqmd-30109) | [1] Kardellass 2016 | Table 4, p. 7, row 6; `ORC-7VZKE7XNKM.5d2b1f` |  |
+| Ni5Eu |  | -14.47 kJ/mol (basis unstated) |  | model |  |  | [1] Kardellass 2016 | Table 7, p. 13, row 4; `ORC-AYACNSRBQF.74c238` |  |
+| NiEu |  | -16.22 kJ/mol (basis unstated) |  | model |  |  | [1] Kardellass 2016 | Table 7, p. 13, row 8; `ORC-4F2EYUKZH7.7b0842` |  |
+| NiEu | [EuNi](https://data.orchid-project.org/compounds/EuNi.html) | -16.22 kJ/mol-atom | 298.15 | model |  | -30.347 (oqmd-1366256) | [1] Kardellass 2016 | Table 4, p. 7, row 14; `ORC-MGFXQXSL57.d2f173` |  |
+| NiEu |  | -13 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 7, p. 13, row 9; `ORC-5MJRSHIRLY.2364d5` |  |
 
 ## Other properties
 
@@ -115,11 +115,11 @@ Table: Formation, Eu–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy of formation; _printed: Entropies of formation_ | 2 J/mol (basis unstated)/K ± 0.2 | 298.15 | Ni17Eu2; _alloy: Ni 0.894737_ | experimental | [1] Kardellass 2016; _cites Cignini 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900155-9) | Table 7, p. 13, row 3 |  |
-| Entropy of formation; _printed: Entropies of formation_ | -0.1 J/mol (basis unstated)/K | 298.15 | Ni17Eu2; _alloy: Ni 0.894737_ | experimental | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 7, p. 13, row 2 |  |
-| Entropy of formation; _printed: Entropies of formation_ | -0.2 J/mol (basis unstated)/K | 298.15 | Ni2Eu; _alloy: Ni 0.666667_ | experimental | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 7, p. 13, row 7 |  |
-| Entropy of formation; _printed: Entropies of formation_ | -0.1 J/mol (basis unstated)/K | 298.15 | Ni5Eu; _alloy: Ni 0.833333_ | experimental | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 7, p. 13, row 5 |  |
-| Entropy of formation; _printed: Entropies of formation_ | -2 J/mol (basis unstated)/K | 298.15 | NiEu; _alloy: Ni 0.5_ | experimental | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 7, p. 13, row 9 |  |
+| Entropy of formation; _printed: Entropies of formation_ | 2 J/mol (basis unstated)/K ± 0.2 | 298.15 | Ni17Eu2; _alloy: Ni 0.894737_ | experimental | [1] Kardellass 2016; _cites Cignini 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900155-9) | Table 7, p. 13, row 3; `ORC-MQJOYXSXAF.b54a5c` |  |
+| Entropy of formation; _printed: Entropies of formation_ | -0.1 J/mol (basis unstated)/K | 298.15 | Ni17Eu2; _alloy: Ni 0.894737_ | experimental | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 7, p. 13, row 2; `ORC-OFQIU3EJTQ.b9704b` |  |
+| Entropy of formation; _printed: Entropies of formation_ | -0.2 J/mol (basis unstated)/K | 298.15 | Ni2Eu; _alloy: Ni 0.666667_ | experimental | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 7, p. 13, row 7; `ORC-OFI7V7CDNZ.1b3a5c` |  |
+| Entropy of formation; _printed: Entropies of formation_ | -0.1 J/mol (basis unstated)/K | 298.15 | Ni5Eu; _alloy: Ni 0.833333_ | experimental | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 7, p. 13, row 5; `ORC-ALJUMA5B62.57896c` |  |
+| Entropy of formation; _printed: Entropies of formation_ | -2 J/mol (basis unstated)/K | 298.15 | NiEu; _alloy: Ni 0.5_ | experimental | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 7, p. 13, row 9; `ORC-5MJRSHIRLY.6ed7d7` |  |
 
 ### Heat capacity / entropy / enthalpy (9)
 
@@ -127,15 +127,15 @@ Table: Heat capacity / entropy / enthalpy, Eu–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: Entropies of formation_ | 37.79 J/mol (basis unstated)/K |  | Ni17Eu2; _alloy: Ni 0.894737_ | model | [1] Kardellass 2016 | Table 7, p. 13, row 1 |  |
-| Entropy; _printed: Entropies of formation_ | 57.74 J/mol (basis unstated)/K |  | Ni2Eu; _alloy: Ni 0.5_ | model | [1] Kardellass 2016 | Table 7, p. 13, row 8 |  |
-| Entropy; _printed: Entropies of formation_ | 49.55 J/mol (basis unstated)/K |  | Ni2Eu; _alloy: Ni 0.666667_ | model | [1] Kardellass 2016 | Table 7, p. 13, row 6 |  |
-| Entropy; _printed: Entropies of formation_ | 41.19 J/mol (basis unstated)/K |  | Ni5Eu; _alloy: Ni 0.833333_ | model | [1] Kardellass 2016 | Table 7, p. 13, row 4 |  |
-| Entropy; _printed: Entropies of formation_ | 57.74 J/mol (basis unstated)/K |  | NiEu; _alloy: Ni 0.5_ | model | [1] Kardellass 2016 | Table 7, p. 13, row 8 |  |
-| Entropy; _printed: Entropies of formation_ | 37.78 J/mol-atom/K | 298.15 | Ni17Eu2; _alloy: Ni 0.894737_ | model | [1] Kardellass 2016 | Table 4, p. 7, row 3 |  |
-| Entropy; _printed: Entropies of formation_ | 49.55 J/mol-atom/K | 298.15 | Ni2Eu; _alloy: Ni 0.666667_ | model | [1] Kardellass 2016 | Table 4, p. 7, row 10 |  |
-| Entropy; _printed: Entropies of formation_ | 41.19 J/mol-atom/K | 298.15 | Ni5Eu; _alloy: Ni 0.833333_ | model | [1] Kardellass 2016 | Table 4, p. 7, row 6 |  |
-| Entropy; _printed: Entropies of formation_ | 57.74 J/mol-atom/K | 298.15 | NiEu; _alloy: Ni 0.5_ | model | [1] Kardellass 2016 | Table 4, p. 7, row 14 |  |
+| Entropy; _printed: Entropies of formation_ | 37.79 J/mol (basis unstated)/K |  | Ni17Eu2; _alloy: Ni 0.894737_ | model | [1] Kardellass 2016 | Table 7, p. 13, row 1; `ORC-UXZ7KE63PM.045e19` |  |
+| Entropy; _printed: Entropies of formation_ | 57.74 J/mol (basis unstated)/K |  | Ni2Eu; _alloy: Ni 0.5_ | model | [1] Kardellass 2016 | Table 7, p. 13, row 8; `ORC-4F2EYUKZH7.91623b` |  |
+| Entropy; _printed: Entropies of formation_ | 49.55 J/mol (basis unstated)/K |  | Ni2Eu; _alloy: Ni 0.666667_ | model | [1] Kardellass 2016 | Table 7, p. 13, row 6; `ORC-A6KOMUBVA5.327710` |  |
+| Entropy; _printed: Entropies of formation_ | 41.19 J/mol (basis unstated)/K |  | Ni5Eu; _alloy: Ni 0.833333_ | model | [1] Kardellass 2016 | Table 7, p. 13, row 4; `ORC-AYACNSRBQF.6b17b6` |  |
+| Entropy; _printed: Entropies of formation_ | 57.74 J/mol (basis unstated)/K |  | NiEu; _alloy: Ni 0.5_ | model | [1] Kardellass 2016 | Table 7, p. 13, row 8; `ORC-4F2EYUKZH7.9ea394` |  |
+| Entropy; _printed: Entropies of formation_ | 37.78 J/mol-atom/K | 298.15 | Ni17Eu2; _alloy: Ni 0.894737_ | model | [1] Kardellass 2016 | Table 4, p. 7, row 3; `ORC-EVU6QOBHFX.0bc32a` |  |
+| Entropy; _printed: Entropies of formation_ | 49.55 J/mol-atom/K | 298.15 | Ni2Eu; _alloy: Ni 0.666667_ | model | [1] Kardellass 2016 | Table 4, p. 7, row 10; `ORC-K4PJKKIDRN.8f1322` |  |
+| Entropy; _printed: Entropies of formation_ | 41.19 J/mol-atom/K | 298.15 | Ni5Eu; _alloy: Ni 0.833333_ | model | [1] Kardellass 2016 | Table 4, p. 7, row 6; `ORC-7VZKE7XNKM.6fbc38` |  |
+| Entropy; _printed: Entropies of formation_ | 57.74 J/mol-atom/K | 298.15 | NiEu; _alloy: Ni 0.5_ | model | [1] Kardellass 2016 | Table 4, p. 7, row 14; `ORC-MGFXQXSL57.c2a181` |  |
 
 ## Sources
 
@@ -200,4 +200,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

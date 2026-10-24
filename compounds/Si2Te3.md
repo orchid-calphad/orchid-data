@@ -14,11 +14,11 @@ Table: Enthalpy of formation of Si2Te3 reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -18.4 kJ/mol-atom ± 2.6 | α-Si2Te3 | 298.15 | experimental | 2nd Law | [Si–Te](https://data.orchid-project.org/systems/SI-TE.html) | [1] Feutelais 1999; _cites EXSTEEN 1967_ | Table 2, p. 9, row 3 |  |
-| -17.8 kJ/mol-atom ± 3.8 | α-Si2Te3 | 298.15 | experimental | 3rd Law | [Si–Te](https://data.orchid-project.org/systems/SI-TE.html) | [1] Feutelais 1999; _cites EXSTEEN 1967_ | Table 2, p. 9, row 4 |  |
-| -14.4 kJ/mol-atom ± 1 | α-Si2Te3 | 298.15 | experimental | 3rd Law | [Si–Te](https://data.orchid-project.org/systems/SI-TE.html) | [1] Feutelais 1999; _cites ref. 13_ | Table 2, p. 9, row 6 |  |
-| -14.2 kJ/mol-atom ± 1.2 | α-Si2Te3 | 298.15 | experimental | calorimetry | [Si–Te](https://data.orchid-project.org/systems/SI-TE.html) | [1] Feutelais 1999; _cites OHARE 1993_ | Table 2, p. 9, row 7 |  |
-| -13.8 kJ/mol-atom ± 1.4 | α-Si2Te3 | 298.15 | experimental | 2nd Law | [Si–Te](https://data.orchid-project.org/systems/SI-TE.html) | [1] Feutelais 1999; _cites ref. 13_ | Table 2, p. 9, row 5 |  |
+| -18.4 kJ/mol-atom ± 2.6 | α-Si2Te3 | 298.15 | experimental | 2nd Law | [Si–Te](https://data.orchid-project.org/systems/SI-TE.html) | [1] Feutelais 1999; _cites EXSTEEN 1967_ | Table 2, p. 9, row 3; `ORC-4WEMGUOLGR` |  |
+| -17.8 kJ/mol-atom ± 3.8 | α-Si2Te3 | 298.15 | experimental | 3rd Law | [Si–Te](https://data.orchid-project.org/systems/SI-TE.html) | [1] Feutelais 1999; _cites EXSTEEN 1967_ | Table 2, p. 9, row 4; `ORC-CWG2DBYN6M` |  |
+| -14.4 kJ/mol-atom ± 1 | α-Si2Te3 | 298.15 | experimental | 3rd Law | [Si–Te](https://data.orchid-project.org/systems/SI-TE.html) | [1] Feutelais 1999; _cites ref. 13_ | Table 2, p. 9, row 6; `ORC-T5IN5YOYEN` |  |
+| -14.2 kJ/mol-atom ± 1.2 | α-Si2Te3 | 298.15 | experimental | calorimetry | [Si–Te](https://data.orchid-project.org/systems/SI-TE.html) | [1] Feutelais 1999; _cites OHARE 1993_ | Table 2, p. 9, row 7; `ORC-FGHEJFMUYN` |  |
+| -13.8 kJ/mol-atom ± 1.4 | α-Si2Te3 | 298.15 | experimental | 2nd Law | [Si–Te](https://data.orchid-project.org/systems/SI-TE.html) | [1] Feutelais 1999; _cites ref. 13_ | Table 2, p. 9, row 5; `ORC-Q77N3JJJ37` |  |
 
 ### Uncertainty budget
 
@@ -85,4 +85,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

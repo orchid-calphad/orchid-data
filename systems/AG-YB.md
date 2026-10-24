@@ -66,22 +66,22 @@ Table: Invariant reactions reported in the literature for the Ag–Yb system (16
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1000 | peritectic: L + Ag7Yb2 -> Ag9Yb2 | L: Yb 0.17; Ag7Yb2: Yb 0.222222; Ag9Yb2: Yb 0.181818 | experimental | [1] Zhang 2008; _cites Palenzona 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990049-4) | Table 2, p. 3, row 5 |  |
-| 997 | peritectic: L + Ag7Yb2 -> Ag9Yb2 | L: Yb 0.172; Ag7Yb2: Yb 0.222222; Ag9Yb2: Yb 0.181818 | model | [1] Zhang 2008 | Table 2, p. 3, row 4 |  |
-| 977 | eutectic: L -> fcc + Ag9Yb2 | L: Yb 0.135; Ag9Yb2: Yb 0.181818 | model | [1] Zhang 2008 | Table 2, p. 3, row 1 |  |
-| 968 | eutectic: L -> fcc + Ag9Yb2 | L: Yb 0.13; Ag9Yb2: Yb 0.181818 | experimental | [1] Zhang 2008; _cites Gschneidner 1970_ [doi](https://doi.org/10.1007/bf02642796) | Table 2, p. 3, row 2 |  |
-| 958.15 | eutectic |  | experimental | [1] Zhang 2008 | p. 1 | “The temperature of eutectic between Ag and Ag5 Yb was 685 ◦ C.” |
-| 958 | eutectic: L -> fcc + Ag9Yb2 | L: Yb 0.13; Ag9Yb2: Yb 0.181818 | experimental | [1] Zhang 2008; _cites Palenzona 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990049-4) | Table 2, p. 3, row 3 |  |
-| 919 | eutectic: L -> Ag7Yb2 + Ag2Yb | L: Yb 0.325; Ag7Yb2: Yb 0.222222; Ag2Yb: Yb 0.333333 | experimental | [1] Zhang 2008; _cites Palenzona 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990049-4) | Table 2, p. 3, row 9 |  |
-| 916 | eutectic: L -> Ag7Yb2 + Ag2Yb | L: Yb 0.331; Ag7Yb2: Yb 0.222222; Ag2Yb: Yb 0.333333 | model | [1] Zhang 2008 | Table 2, p. 3, row 8 |  |
-| 905 | peritectic: L + AgYb_H -> Ag2Yb3 | L: Yb 0.605; AgYb_H: Yb 0.5; Ag2Yb3: Yb 0.6 | experimental | [1] Zhang 2008; _cites Palenzona 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990049-4) | Table 2, p. 3, row 17 |  |
-| 897 | peritectic: L + AgYb_H -> Ag2Yb3 | L: Yb 0.601; AgYb_H: Yb 0.5; Ag2Yb3: Yb 0.6 | model | [1] Zhang 2008 | Table 2, p. 3, row 16 |  |
-| 877 | eutectic: L -> Ag2Yb + AgYb_H | L: Yb 0.395; Ag2Yb: Yb 0.333333; AgYb_H: Yb 0.5 | model | [1] Zhang 2008 | Table 2, p. 3, row 10 |  |
-| 865 | eutectic: L -> Ag2Yb + AgYb_H | L: Yb 0.395; Ag2Yb: Yb 0.333333; AgYb_H: Yb 0.5 | experimental | [1] Zhang 2008; _cites Palenzona 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990049-4) | Table 2, p. 3, row 11 |  |
-| 834 | peritectic: L + Ag2Yb3 -> Ag3Yb5 | L: Yb 0.706; Ag2Yb3: Yb 0.6; Ag3Yb5: Yb 0.625 | model | [1] Zhang 2008 | Table 2, p. 3, row 18 |  |
-| 825 | peritectic: L + Ag2Yb3 -> Ag3Yb5 | L: Yb 0.695; Ag2Yb3: Yb 0.6; Ag3Yb5: Yb 0.625 | experimental | [1] Zhang 2008; _cites Palenzona 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990049-4) | Table 2, p. 3, row 19 |  |
-| 719 | eutectic: L -> Ag3Yb5 + fcc | L: Yb 0.79; Ag3Yb5: Yb 0.625 | experimental | [1] Zhang 2008; _cites Palenzona 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990049-4) | Table 2, p. 3, row 21 |  |
-| 716 | eutectic: L -> Ag3Yb5 + fcc | L: Yb 0.799; Ag3Yb5: Yb 0.625 | model | [1] Zhang 2008 | Table 2, p. 3, row 20 |  |
+| 1000 | peritectic: L + Ag7Yb2 -> Ag9Yb2 | L: Yb 0.17; Ag7Yb2: Yb 0.222222; Ag9Yb2: Yb 0.181818 | experimental | [1] Zhang 2008; _cites Palenzona 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990049-4) | Table 2, p. 3, row 5; `ORC-EHK2ZMHI5T` |  |
+| 997 | peritectic: L + Ag7Yb2 -> Ag9Yb2 | L: Yb 0.172; Ag7Yb2: Yb 0.222222; Ag9Yb2: Yb 0.181818 | model | [1] Zhang 2008 | Table 2, p. 3, row 4; `ORC-DQDFH6Z2UR` |  |
+| 977 | eutectic: L -> fcc + Ag9Yb2 | L: Yb 0.135; Ag9Yb2: Yb 0.181818 | model | [1] Zhang 2008 | Table 2, p. 3, row 1; `ORC-MCQDC237Y7` |  |
+| 968 | eutectic: L -> fcc + Ag9Yb2 | L: Yb 0.13; Ag9Yb2: Yb 0.181818 | experimental | [1] Zhang 2008; _cites Gschneidner 1970_ [doi](https://doi.org/10.1007/bf02642796) | Table 2, p. 3, row 2; `ORC-V6I3H7HLKG` |  |
+| 958.15 | eutectic |  | experimental | [1] Zhang 2008 | p. 1; `ORC-LZ24WTIBD4` | “The temperature of eutectic between Ag and Ag5 Yb was 685 ◦ C.” |
+| 958 | eutectic: L -> fcc + Ag9Yb2 | L: Yb 0.13; Ag9Yb2: Yb 0.181818 | experimental | [1] Zhang 2008; _cites Palenzona 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990049-4) | Table 2, p. 3, row 3; `ORC-WORVIKIHQA` |  |
+| 919 | eutectic: L -> Ag7Yb2 + Ag2Yb | L: Yb 0.325; Ag7Yb2: Yb 0.222222; Ag2Yb: Yb 0.333333 | experimental | [1] Zhang 2008; _cites Palenzona 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990049-4) | Table 2, p. 3, row 9; `ORC-SEUZMW6CNL` |  |
+| 916 | eutectic: L -> Ag7Yb2 + Ag2Yb | L: Yb 0.331; Ag7Yb2: Yb 0.222222; Ag2Yb: Yb 0.333333 | model | [1] Zhang 2008 | Table 2, p. 3, row 8; `ORC-ZG5MW5M3JH` |  |
+| 905 | peritectic: L + AgYb_H -> Ag2Yb3 | L: Yb 0.605; AgYb_H: Yb 0.5; Ag2Yb3: Yb 0.6 | experimental | [1] Zhang 2008; _cites Palenzona 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990049-4) | Table 2, p. 3, row 17; `ORC-VCM64B6Q3L` |  |
+| 897 | peritectic: L + AgYb_H -> Ag2Yb3 | L: Yb 0.601; AgYb_H: Yb 0.5; Ag2Yb3: Yb 0.6 | model | [1] Zhang 2008 | Table 2, p. 3, row 16; `ORC-B5GW6HK4C5` |  |
+| 877 | eutectic: L -> Ag2Yb + AgYb_H | L: Yb 0.395; Ag2Yb: Yb 0.333333; AgYb_H: Yb 0.5 | model | [1] Zhang 2008 | Table 2, p. 3, row 10; `ORC-UUJLWJYYLF` |  |
+| 865 | eutectic: L -> Ag2Yb + AgYb_H | L: Yb 0.395; Ag2Yb: Yb 0.333333; AgYb_H: Yb 0.5 | experimental | [1] Zhang 2008; _cites Palenzona 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990049-4) | Table 2, p. 3, row 11; `ORC-F5DG7XJDSA` |  |
+| 834 | peritectic: L + Ag2Yb3 -> Ag3Yb5 | L: Yb 0.706; Ag2Yb3: Yb 0.6; Ag3Yb5: Yb 0.625 | model | [1] Zhang 2008 | Table 2, p. 3, row 18; `ORC-GPV3CAQOQD` |  |
+| 825 | peritectic: L + Ag2Yb3 -> Ag3Yb5 | L: Yb 0.695; Ag2Yb3: Yb 0.6; Ag3Yb5: Yb 0.625 | experimental | [1] Zhang 2008; _cites Palenzona 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990049-4) | Table 2, p. 3, row 19; `ORC-RFBBSDDP6S` |  |
+| 719 | eutectic: L -> Ag3Yb5 + fcc | L: Yb 0.79; Ag3Yb5: Yb 0.625 | experimental | [1] Zhang 2008; _cites Palenzona 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990049-4) | Table 2, p. 3, row 21; `ORC-7JRYK5QZU3` |  |
+| 716 | eutectic: L -> Ag3Yb5 + fcc | L: Yb 0.799; Ag3Yb5: Yb 0.625 | model | [1] Zhang 2008 | Table 2, p. 3, row 20; `ORC-WLSOXGSDYG` |  |
 
 ## Other properties
 
@@ -91,13 +91,13 @@ Table: Phase transition, Ag–Yb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 729 K | 729 | polymorphic: AgYb_H -> AgYb_L; _AgYb_H: Yb 0.5; AgYb_L: Yb 0.5_ | experimental | [1] Zhang 2008; _cites Palenzona 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990049-4) | Table 2, p. 3, row 15 |  |
-| Phase transition | 729 K | 729 | polymorphic: AgYb_H -> AgYb_L; _AgYb_H: Yb 0.5; AgYb_L: Yb 0.5_ | model | [1] Zhang 2008 | Table 2, p. 3, row 14 |  |
-| Phase transition | 729.15 K | 729.15 | AgYb | experimental | [1] Zhang 2008 | p. 1 | “The AgYb compound transform from orthorhombic ␤-type Fe structure at room temperature to cubic CsCl-type structure at 456 ◦ C.” |
-| Phase transition | 994 K | 994 | congruent melting: L -> AgYb_H; _L: Yb 0.5; AgYb_H: Yb 0.5_ | model | [1] Zhang 2008 | Table 2, p. 3, row 12 |  |
-| Phase transition | 997 K | 997 | congruent melting: L -> AgYb_H; _L: Yb 0.5; AgYb_H: Yb 0.5_ | experimental | [1] Zhang 2008; _cites Palenzona 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990049-4) | Table 2, p. 3, row 13 |  |
-| Phase transition | 1022 K | 1022 | congruent melting: L -> Ag7Yb2; _L: Yb 0.222222; Ag7Yb2: Yb 0.222222_ | model | [1] Zhang 2008 | Table 2, p. 3, row 6 |  |
-| Phase transition | 1022 K | 1022 | congruent melting: L -> Ag7Yb2; _L: Yb 0.222222; Ag7Yb2: Yb 0.222222_ | experimental | [1] Zhang 2008; _cites Palenzona 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990049-4) | Table 2, p. 3, row 7 |  |
+| Phase transition | 729 K | 729 | polymorphic: AgYb_H -> AgYb_L; _AgYb_H: Yb 0.5; AgYb_L: Yb 0.5_ | experimental | [1] Zhang 2008; _cites Palenzona 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990049-4) | Table 2, p. 3, row 15; `ORC-4PWP377JVR` |  |
+| Phase transition | 729 K | 729 | polymorphic: AgYb_H -> AgYb_L; _AgYb_H: Yb 0.5; AgYb_L: Yb 0.5_ | model | [1] Zhang 2008 | Table 2, p. 3, row 14; `ORC-T7WNZOIDLU` |  |
+| Phase transition | 729.15 K | 729.15 | AgYb | experimental | [1] Zhang 2008 | p. 1; `ORC-PK6I54V242` | “The AgYb compound transform from orthorhombic ␤-type Fe structure at room temperature to cubic CsCl-type structure at 456 ◦ C.” |
+| Phase transition | 994 K | 994 | congruent melting: L -> AgYb_H; _L: Yb 0.5; AgYb_H: Yb 0.5_ | model | [1] Zhang 2008 | Table 2, p. 3, row 12; `ORC-S7PDWHP6UU` |  |
+| Phase transition | 997 K | 997 | congruent melting: L -> AgYb_H; _L: Yb 0.5; AgYb_H: Yb 0.5_ | experimental | [1] Zhang 2008; _cites Palenzona 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990049-4) | Table 2, p. 3, row 13; `ORC-PRGHU4WZ5E` |  |
+| Phase transition | 1022 K | 1022 | congruent melting: L -> Ag7Yb2; _L: Yb 0.222222; Ag7Yb2: Yb 0.222222_ | model | [1] Zhang 2008 | Table 2, p. 3, row 6; `ORC-JBN2UWAQHV` |  |
+| Phase transition | 1022 K | 1022 | congruent melting: L -> Ag7Yb2; _L: Yb 0.222222; Ag7Yb2: Yb 0.222222_ | experimental | [1] Zhang 2008; _cites Palenzona 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990049-4) | Table 2, p. 3, row 7; `ORC-QN3WPGOBYY` |  |
 
 ## Sources
 
@@ -162,4 +162,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

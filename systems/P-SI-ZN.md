@@ -33,10 +33,10 @@ Table: Enthalpies of formation, P–Si–Zn system (4)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| ZnSiP2 |  | -171.658 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Liu 2016; _cites Buehler 1971_ [doi](https://doi.org/10.1016/0022-0248%2871%2990260-0) | Table 4, p. 6, row 12 |  |
-| ZnSiP2 |  | -153.168 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Liu 2016 | Table 4, p. 6, row 10 |  |
-| ZnSiP2 |  | -108.618 kJ/mol (basis unstated) | 298.15 | DFT |  |  | [1] Liu 2016; _cites Arab 2012_ [doi](https://doi.org/10.1016/j.commatsci.2012.08.012) | Table 4, p. 6, row 13 |  |
-| ZnSiP2 |  | -75.165 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Liu 2016; _cites Korb 1976_ [doi](https://doi.org/10.1002/zaac.19764250313) | Table 4, p. 6, row 11 |  |
+| ZnSiP2 |  | -171.658 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Liu 2016; _cites Buehler 1971_ [doi](https://doi.org/10.1016/0022-0248%2871%2990260-0) | Table 4, p. 6, row 12; `ORC-INE6V6ZXBO.87bbb0` |  |
+| ZnSiP2 |  | -153.168 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Liu 2016 | Table 4, p. 6, row 10; `ORC-RDFZDMBUCK.c3af76` |  |
+| ZnSiP2 |  | -108.618 kJ/mol (basis unstated) | 298.15 | DFT |  |  | [1] Liu 2016; _cites Arab 2012_ [doi](https://doi.org/10.1016/j.commatsci.2012.08.012) | Table 4, p. 6, row 13; `ORC-YXKDAN7MUV` |  |
+| ZnSiP2 |  | -75.165 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Liu 2016; _cites Korb 1976_ [doi](https://doi.org/10.1002/zaac.19764250313) | Table 4, p. 6, row 11; `ORC-JPGXMPMPY2` |  |
 
 ## Other properties
 
@@ -46,11 +46,11 @@ Table: Phase equilibrium, P–Si–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  |  | Zn3P2 + ZnP2 + ZnSiP2; _Zn3P2: P 0.409, Si 0.034, Zn 0.557; ZnP2: P 0.664, Si 0.004, Zn 0.332; ZnSiP2: P 0.513, Si 0.243, Zn 0.244_ | experimental | [1] Liu 2016 | Table 2, p. 5, row 4 |  |
-| Phase composition |  |  | Zn3P2 + ZnP2 + ZnSiP2; _Zn3P2: P 0.442, Si 0.001, Zn 0.557; ZnP2: P 0.681, Si 0.003, Zn 0.315; ZnSiP2: P 0.517, Si 0.242, Zn 0.241_ | experimental | [1] Liu 2016 | Table 2, p. 5, row 5 |  |
-| Phase composition |  |  | η-Zn + (Si) + ZnSiP2; _η-Zn: P 0.009, Si 0.003, Zn 0.988; (Si): P 0.044, Si 0.929, Zn 0.027; ZnSiP2: P 0.528, Si 0.249, Zn 0.223_ | experimental | [1] Liu 2016 | Table 2, p. 5, row 1 |  |
-| Phase composition |  |  | η-Zn + Zn3P2 + ZnSiP2; _η-Zn: P 0.002, Si 0.001, Zn 0.997; Zn3P2: P 0.435, Si 0.002, Zn 0.563; ZnSiP2: P 0.511, Si 0.241, Zn 0.248_ | experimental | [1] Liu 2016 | Table 2, p. 5, row 3 |  |
-| Phase composition |  |  | η-Zn + Zn3P2 + ZnSiP2; _η-Zn: P 0.013, Si 0.002, Zn 0.985; Zn3P2: P 0.432, Si 0.002, Zn 0.566; ZnSiP2: P 0.521, Si 0.244, Zn 0.235_ | experimental | [1] Liu 2016 | Table 2, p. 5, row 2 |  |
+| Phase composition |  |  | Zn3P2 + ZnP2 + ZnSiP2; _Zn3P2: P 0.409, Si 0.034, Zn 0.557; ZnP2: P 0.664, Si 0.004, Zn 0.332; ZnSiP2: P 0.513, Si 0.243, Zn 0.244_ | experimental | [1] Liu 2016 | Table 2, p. 5, row 4; `ORC-TBTZFNKYIR` |  |
+| Phase composition |  |  | Zn3P2 + ZnP2 + ZnSiP2; _Zn3P2: P 0.442, Si 0.001, Zn 0.557; ZnP2: P 0.681, Si 0.003, Zn 0.315; ZnSiP2: P 0.517, Si 0.242, Zn 0.241_ | experimental | [1] Liu 2016 | Table 2, p. 5, row 5; `ORC-UYRZKGQZDQ` |  |
+| Phase composition |  |  | η-Zn + (Si) + ZnSiP2; _η-Zn: P 0.009, Si 0.003, Zn 0.988; (Si): P 0.044, Si 0.929, Zn 0.027; ZnSiP2: P 0.528, Si 0.249, Zn 0.223_ | experimental | [1] Liu 2016 | Table 2, p. 5, row 1; `ORC-OLVBGW5IHV` |  |
+| Phase composition |  |  | η-Zn + Zn3P2 + ZnSiP2; _η-Zn: P 0.002, Si 0.001, Zn 0.997; Zn3P2: P 0.435, Si 0.002, Zn 0.563; ZnSiP2: P 0.511, Si 0.241, Zn 0.248_ | experimental | [1] Liu 2016 | Table 2, p. 5, row 3; `ORC-TFXRDETADR` |  |
+| Phase composition |  |  | η-Zn + Zn3P2 + ZnSiP2; _η-Zn: P 0.013, Si 0.002, Zn 0.985; Zn3P2: P 0.432, Si 0.002, Zn 0.566; ZnSiP2: P 0.521, Si 0.244, Zn 0.235_ | experimental | [1] Liu 2016 | Table 2, p. 5, row 2; `ORC-WO4R7PNGOX` |  |
 
 ### Formation (3)
 
@@ -58,9 +58,9 @@ Table: Formation, P–Si–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Gibbs energy of formation; _printed: ΔfG298_ | -129.89 kJ/mol (basis unstated) | 298.15 | ZnSiP2; _alloy: Si 0.25, Zn 0.25_ | experimental | [1] Liu 2016; _cites Buehler 1971_ [doi](https://doi.org/10.1016/0022-0248%2871%2990260-0) | Table 4, p. 6, row 12 |  |
-| Gibbs energy of formation; _printed: ΔfG298_ | -176.593 kJ/mol (basis unstated) | 298.15 | ZnSiP2; _alloy: Si 0.25, Zn 0.25_ | model | [1] Liu 2016 | Table 4, p. 6, row 10 |  |
-| Gibbs energy of formation; _printed: ΔfG298_ | -168.87 kJ/mol (basis unstated) | 298.15 | ZnSiP2; _alloy: Si 0.25, Zn 0.25_ | DFT | [1] Liu 2016; _cites Kumar 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.08.025) | Table 4, p. 6, row 14 |  |
+| Gibbs energy of formation; _printed: ΔfG298_ | -129.89 kJ/mol (basis unstated) | 298.15 | ZnSiP2; _alloy: Si 0.25, Zn 0.25_ | experimental | [1] Liu 2016; _cites Buehler 1971_ [doi](https://doi.org/10.1016/0022-0248%2871%2990260-0) | Table 4, p. 6, row 12; `ORC-INE6V6ZXBO.f05284` |  |
+| Gibbs energy of formation; _printed: ΔfG298_ | -176.593 kJ/mol (basis unstated) | 298.15 | ZnSiP2; _alloy: Si 0.25, Zn 0.25_ | model | [1] Liu 2016 | Table 4, p. 6, row 10; `ORC-RDFZDMBUCK.d34e7e` |  |
+| Gibbs energy of formation; _printed: ΔfG298_ | -168.87 kJ/mol (basis unstated) | 298.15 | ZnSiP2; _alloy: Si 0.25, Zn 0.25_ | DFT | [1] Liu 2016; _cites Kumar 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.08.025) | Table 4, p. 6, row 14; `ORC-WN2Y223KNV` |  |
 
 ### Crystal structure (2)
 
@@ -68,8 +68,8 @@ Table: Crystal structure, P–Si–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 5.4 Å | 298.15 | ZnSiP2; _alloy: Si 0.25, Zn 0.25_ | unspecified | [1] Liu 2016; _cites Madelung 2000_ | Table 1, p. 3, row 7 |  |
-| Lattice c | 10.438 Å | 298.15 | ZnSiP2; _alloy: Si 0.25, Zn 0.25_ | unspecified | [1] Liu 2016; _cites Madelung 2000_ | Table 1, p. 3, row 7 |  |
+| Lattice a | 5.4 Å | 298.15 | ZnSiP2; _alloy: Si 0.25, Zn 0.25_ | unspecified | [1] Liu 2016; _cites Madelung 2000_ | Table 1, p. 3, row 7; `ORC-OYOZRPPMIP.3f4901` |  |
+| Lattice c | 10.438 Å | 298.15 | ZnSiP2; _alloy: Si 0.25, Zn 0.25_ | unspecified | [1] Liu 2016; _cites Madelung 2000_ | Table 1, p. 3, row 7; `ORC-OYOZRPPMIP.0cc024` |  |
 
 ## Sources
 
@@ -112,4 +112,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

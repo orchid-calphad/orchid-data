@@ -14,11 +14,11 @@ Table: Enthalpy of formation of PbO reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -109.031 kJ/mol-atom | PbO-M | 298.15 | experimental |  | [O–Pb](https://data.orchid-project.org/systems/O-PB.html) | [1] Risold 1998; _cites Espada 1970_ [doi](https://doi.org/10.1016/0021-9614%2870%2990039-x) | Table 1, p. 1, row 6 |  |
-| -109.528 kJ/mol-atom | PbO-L | 298.15 | model |  | [O–Pb](https://data.orchid-project.org/systems/O-PB.html) | [1] Risold 1998 | Table 1, p. 1, row 2 |  |
-| -108.721 kJ/mol-atom | PbO-M | 298.15 | model |  | [O–Pb](https://data.orchid-project.org/systems/O-PB.html) | [1] Risold 1998 | Table 1, p. 1, row 8 |  |
-| -109.704 kJ/mol-atom | PbO-L | 298.15 | unspecified |  | [O–Pb](https://data.orchid-project.org/systems/O-PB.html) | [1] Risold 1998; _cites Chase 1985_ | Table 1, p. 1, row 1 |  |
-| -109.031 kJ/mol-atom | PbO-M | 298.15 | unspecified |  | [O–Pb](https://data.orchid-project.org/systems/O-PB.html) | [1] Risold 1998; _cites Chase 1985_ | Table 1, p. 1, row 7 |  |
+| -109.031 kJ/mol-atom | PbO-M | 298.15 | experimental |  | [O–Pb](https://data.orchid-project.org/systems/O-PB.html) | [1] Risold 1998; _cites Espada 1970_ [doi](https://doi.org/10.1016/0021-9614%2870%2990039-x) | Table 1, p. 1, row 6; `ORC-DV5UE3EBHF.3a34d8` |  |
+| -109.528 kJ/mol-atom | PbO-L | 298.15 | model |  | [O–Pb](https://data.orchid-project.org/systems/O-PB.html) | [1] Risold 1998 | Table 1, p. 1, row 2; `ORC-2NEHG54LHP.72b531` |  |
+| -108.721 kJ/mol-atom | PbO-M | 298.15 | model |  | [O–Pb](https://data.orchid-project.org/systems/O-PB.html) | [1] Risold 1998 | Table 1, p. 1, row 8; `ORC-XYFQXGYQGO.9e2ed3` |  |
+| -109.704 kJ/mol-atom | PbO-L | 298.15 | unspecified |  | [O–Pb](https://data.orchid-project.org/systems/O-PB.html) | [1] Risold 1998; _cites Chase 1985_ | Table 1, p. 1, row 1; `ORC-WJSD3QZ4PX.45c8da` |  |
+| -109.031 kJ/mol-atom | PbO-M | 298.15 | unspecified |  | [O–Pb](https://data.orchid-project.org/systems/O-PB.html) | [1] Risold 1998; _cites Chase 1985_ | Table 1, p. 1, row 7; `ORC-YPJWHM6ZHU.3e52c7` |  |
 
 ### Uncertainty budget
 
@@ -98,4 +98,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

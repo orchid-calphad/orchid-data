@@ -14,9 +14,9 @@ Table: Enthalpy of formation of Al31Zr reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -128.8 unknown | Al31Zr |  | model |  | [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html) | [1] Khvan 2018; _cites Fischer 2015_ [doi](https://doi.org/10.1007/s11669-015-0398-y) | Table 1, p. 4, row 23 |  |
-| -100.6 eV/kJ mol−1 | Al31Zr | 0 | DFT | ab-initio | [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html) | [1] Khvan 2018 | Table 1, p. 4, row 22 |  |
-| -1.043 eV/f.u. | Al31Zr | 0 | DFT | ab-initio | [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html) | [1] Khvan 2018 | Table 1, p. 4, row 22 |  |
+| -128.8 unknown | Al31Zr |  | model |  | [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html) | [1] Khvan 2018; _cites Fischer 2015_ [doi](https://doi.org/10.1007/s11669-015-0398-y) | Table 1, p. 4, row 23; `ORC-3344Q3URRQ` |  |
+| -100.6 eV/kJ mol−1 | Al31Zr | 0 | DFT | ab-initio | [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html) | [1] Khvan 2018 | Table 1, p. 4, row 22; `ORC-6SGC7SNA4H.fc3421` |  |
+| -1.043 eV/f.u. | Al31Zr | 0 | DFT | ab-initio | [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html) | [1] Khvan 2018 | Table 1, p. 4, row 22; `ORC-6SGC7SNA4H.226e3c` |  |
 
 ### Uncertainty budget
 
@@ -81,4 +81,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

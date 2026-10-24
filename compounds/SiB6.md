@@ -14,9 +14,9 @@ Table: Enthalpy of formation of SiB6 reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -148 kJ/mol (basis unstated) ± 7.5 | SiB6 | 1757 | experimental |  | [B–Si](https://data.orchid-project.org/systems/B-SI.html) | [1] Chen 2009; _cites Zaitsev 2002_ [doi](https://doi.org/10.1023/a:1015457114818) | Table 1, p. 2, row 4 |  |
-| -121 kJ/mol (basis unstated) ± 48 | SiB6 | 1800 | experimental |  | [B–Si](https://data.orchid-project.org/systems/B-SI.html) | [1] Chen 2009; _cites Armas 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990225-3) | Table 1, p. 2, row 5 |  |
-| -122.2 kJ/mol (basis unstated) | SiB6 | 298.15 | unspecified |  | [B–Si](https://data.orchid-project.org/systems/B-SI.html) | [1] Chen 2009; _cites Gordienko 1995_ | Table 1, p. 2, row 3 |  |
+| -148 kJ/mol (basis unstated) ± 7.5 | SiB6 | 1757 | experimental |  | [B–Si](https://data.orchid-project.org/systems/B-SI.html) | [1] Chen 2009; _cites Zaitsev 2002_ [doi](https://doi.org/10.1023/a:1015457114818) | Table 1, p. 2, row 4; `ORC-TIZ3H6HPVX.392eb4` |  |
+| -121 kJ/mol (basis unstated) ± 48 | SiB6 | 1800 | experimental |  | [B–Si](https://data.orchid-project.org/systems/B-SI.html) | [1] Chen 2009; _cites Armas 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990225-3) | Table 1, p. 2, row 5; `ORC-GXTA62YBE2.1191c4` |  |
+| -122.2 kJ/mol (basis unstated) | SiB6 | 298.15 | unspecified |  | [B–Si](https://data.orchid-project.org/systems/B-SI.html) | [1] Chen 2009; _cites Gordienko 1995_ | Table 1, p. 2, row 3; `ORC-NR7ACO4YLJ.c58a63` |  |
 
 ### Uncertainty budget
 
@@ -81,4 +81,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

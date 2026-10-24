@@ -29,18 +29,18 @@ Table: Invariant reactions reported in the literature for the Ag–Cr–Zr syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1812.15 | quasi-peritectic: L + βZrCr2 -> αZrCr2 + (Cr) |  | model | [1] Shi 2021 | Table 5, p. 9, row 1 |  |
-| 1619.15 | other: L -> L2 + αZrCr2 + (Cr) |  | model | [1] Shi 2021 | Table 5, p. 9, row 2 |  |
-| 1400.15 | eutectic: L -> αZrCr2 + AgZr2 + (Zr) |  | experimental | [1] Shi 2021 | Table 5, p. 9, row 8 |  |
-| 1399.15 | other: L -> L2 + αZrCr2 + AgZr |  | model | [1] Shi 2021 | Table 5, p. 9, row 3 |  |
-| 1398.15 | eutectic: L -> AgZr + AgZr2 + αZrCr2 |  | model | [1] Shi 2021 | Table 5, p. 9, row 5 |  |
-| 1398.15 | eutectic: L -> AgZr + AgZr2 + αZrCr2 |  | experimental | [1] Shi 2021 | Table 5, p. 9, row 6 |  |
-| 1381.15 | eutectic: L -> αZrCr2 + AgZr2 + (Zr) |  | model | [1] Shi 2021 | Table 5, p. 9, row 7 |  |
-| 1371.15 | other: L -> L2 + αZrCr2 + AgZr |  | experimental | [1] Shi 2021 | Table 5, p. 9, row 4 |  |
-| 1234.15 | quasi-peritectic: L + (Cr) -> αZrCr2 + (Ag) |  | model | [1] Shi 2021 | Table 5, p. 9, row 9 |  |
-| 1230.15 | quasi-peritectic: L + (Cr) -> αZrCr2 + (Ag) |  | experimental | [1] Shi 2021 | Table 5, p. 9, row 10 |  |
-| 1229.15 | quasi-peritectic: L + αZrCr2 -> AgZr + (Ag) |  | experimental | [1] Shi 2021 | Table 5, p. 9, row 12 |  |
-| 1227.15 | quasi-peritectic: L + αZrCr2 -> AgZr + (Ag) |  | model | [1] Shi 2021 | Table 5, p. 9, row 11 |  |
+| 1812.15 | quasi-peritectic: L + βZrCr2 -> αZrCr2 + (Cr) |  | model | [1] Shi 2021 | Table 5, p. 9, row 1; `ORC-PG7442S3HU` |  |
+| 1619.15 | other: L -> L2 + αZrCr2 + (Cr) |  | model | [1] Shi 2021 | Table 5, p. 9, row 2; `ORC-Y26CLA4XFL` |  |
+| 1400.15 | eutectic: L -> αZrCr2 + AgZr2 + (Zr) |  | experimental | [1] Shi 2021 | Table 5, p. 9, row 8; `ORC-IALAOWFWPV` |  |
+| 1399.15 | other: L -> L2 + αZrCr2 + AgZr |  | model | [1] Shi 2021 | Table 5, p. 9, row 3; `ORC-K5QCVSEMSC` |  |
+| 1398.15 | eutectic: L -> AgZr + AgZr2 + αZrCr2 |  | model | [1] Shi 2021 | Table 5, p. 9, row 5; `ORC-DZZVE2JT2H` |  |
+| 1398.15 | eutectic: L -> AgZr + AgZr2 + αZrCr2 |  | experimental | [1] Shi 2021 | Table 5, p. 9, row 6; `ORC-NEUAQ5KU2D` |  |
+| 1381.15 | eutectic: L -> αZrCr2 + AgZr2 + (Zr) |  | model | [1] Shi 2021 | Table 5, p. 9, row 7; `ORC-GHCTXOTG2D` |  |
+| 1371.15 | other: L -> L2 + αZrCr2 + AgZr |  | experimental | [1] Shi 2021 | Table 5, p. 9, row 4; `ORC-V3JSI64IAK` |  |
+| 1234.15 | quasi-peritectic: L + (Cr) -> αZrCr2 + (Ag) |  | model | [1] Shi 2021 | Table 5, p. 9, row 9; `ORC-YK2R7DVGXS` |  |
+| 1230.15 | quasi-peritectic: L + (Cr) -> αZrCr2 + (Ag) |  | experimental | [1] Shi 2021 | Table 5, p. 9, row 10; `ORC-IIHO5LPHZB` |  |
+| 1229.15 | quasi-peritectic: L + αZrCr2 -> AgZr + (Ag) |  | experimental | [1] Shi 2021 | Table 5, p. 9, row 12; `ORC-JGCHMN44EN` |  |
+| 1227.15 | quasi-peritectic: L + αZrCr2 -> AgZr + (Ag) |  | model | [1] Shi 2021 | Table 5, p. 9, row 11; `ORC-6JSPQLKQFV` |  |
 
 ## Other properties
 
@@ -50,71 +50,71 @@ Table: Phase transition, Ag–Cr–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1212.25 K | 1212.25 | B11 | experimental | [1] Shi 2021 | Table 3, p. 4, row 46 |  |
-| Phase transition | 1227.45 K | 1227.45 | B11 | model | [1] Shi 2021 | Table 3, p. 4, row 47 |  |
-| Phase transition | 1227.45 K | 1227.45 | B12 | model | [1] Shi 2021 | Table 3, p. 4, row 50 |  |
-| Phase transition | 1227.45 K | 1227.45 | B13 | model | [1] Shi 2021 | Table 3, p. 4, row 56 |  |
-| Phase transition | 1227.45 K | 1227.45 | B6 | model | [1] Shi 2021 | Table 3, p. 4, row 22 |  |
-| Phase transition | 1227.45 K | 1227.45 | B7 | model | [1] Shi 2021 | Table 3, p. 4, row 28 |  |
-| Phase transition | 1227.45 K | 1227.45 | B8 | model | [1] Shi 2021 | Table 3, p. 4, row 34 |  |
-| Phase transition | 1228.35 K | 1228.35 | other: B11 | model | [1] Shi 2021 | Table 3, p. 4, row 45 |  |
-| Phase transition | 1229.45 K | 1229.45 | B7 | experimental | [1] Shi 2021 | Table 3, p. 4, row 26 |  |
-| Phase transition | 1229.45 K | 1229.45 | B8 | experimental | [1] Shi 2021 | Table 3, p. 4, row 32 |  |
-| Phase transition | 1229.85 K | 1229.85 | B6 | experimental | [1] Shi 2021 | Table 3, p. 4, row 20 |  |
-| Phase transition | 1230.15 K | 1230.15 | B13 | experimental | [1] Shi 2021 | Table 3, p. 4, row 54 |  |
-| Phase transition | 1230.35 K | 1230.35 | B9 | experimental | [1] Shi 2021 | Table 3, p. 4, row 37 |  |
-| Phase transition | 1230.45 K | 1230.45 | B10 | experimental | [1] Shi 2021 | Table 3, p. 4, row 41 |  |
-| Phase transition | 1232.35 K | 1232.35 | B12 | experimental | [1] Shi 2021 | Table 3, p. 4, row 49 |  |
-| Phase transition | 1234.05 K | 1234.05 | B10 | model | [1] Shi 2021 | Table 3, p. 4, row 42 |  |
-| Phase transition | 1234.05 K | 1234.05 | B9 | model | [1] Shi 2021 | Table 3, p. 4, row 38 |  |
-| Phase transition | 1237.15 K | 1237.15 | other: B11 | experimental | [1] Shi 2021 | Table 3, p. 4, row 44 |  |
-| Phase transition | 1370.35 K | 1370.35 | B4 | experimental | [1] Shi 2021 | Table 3, p. 4, row 12 |  |
-| Phase transition | 1371.15 K | 1371.15 | B8 | experimental | [1] Shi 2021 | Table 3, p. 4, row 33 |  |
-| Phase transition | 1371.55 K | 1371.55 | B6 | experimental | [1] Shi 2021 | Table 3, p. 4, row 21 |  |
-| Phase transition | 1372.85 K | 1372.85 | B5 | experimental | [1] Shi 2021 | Table 3, p. 4, row 16 |  |
-| Phase transition | 1373.95 K | 1373.95 | B7 | experimental | [1] Shi 2021 | Table 3, p. 4, row 27 |  |
-| Phase transition | 1379.85 K | 1379.85 | B14 | model | [1] Shi 2021 | Table 3, p. 4, row 61 |  |
-| Phase transition | 1379.85 K | 1379.85 | B15 | model | [1] Shi 2021 | Table 3, p. 4, row 65 |  |
-| Phase transition | 1381.35 K | 1381.35 | B4 | model | [1] Shi 2021 | Table 3, p. 4, row 13 |  |
-| Phase transition | 1381.35 K | 1381.35 | B5 | model | [1] Shi 2021 | Table 3, p. 4, row 17 |  |
-| Phase transition | 1385.85 K | 1385.85 | other: B5 | model | [1] Shi 2021 | Table 3, p. 4, row 15 |  |
-| Phase transition | 1386.45 K | 1386.45 | B13 | experimental | [1] Shi 2021 | Table 3, p. 4, row 55 |  |
-| Phase transition | 1389.35 K | 1389.35 | other: B8 | experimental | [1] Shi 2021 | Table 3, p. 4, row 30 |  |
-| Phase transition | 1397.25 K | 1397.25 | other: B15 | model | [1] Shi 2021 | Table 3, p. 4, row 63 |  |
-| Phase transition | 1397.35 K | 1397.35 | other: B6 | experimental | [1] Shi 2021 | Table 3, p. 4, row 18 |  |
-| Phase transition | 1397.45 K | 1397.45 | other: B7 | experimental | [1] Shi 2021 | Table 3, p. 4, row 24 |  |
-| Phase transition | 1398.15 K | 1398.15 | other: B5 | experimental | [1] Shi 2021 | Table 3, p. 4, row 14 |  |
-| Phase transition | 1398.35 K | 1398.35 | B1 | model | [1] Shi 2021 | Table 3, p. 4, row 3 |  |
-| Phase transition | 1398.35 K | 1398.35 | B2 | model | [1] Shi 2021 | Table 3, p. 4, row 6 |  |
-| Phase transition | 1398.35 K | 1398.35 | B3 | model | [1] Shi 2021 | Table 3, p. 4, row 9 |  |
-| Phase transition | 1398.45 K | 1398.45 | B3 | experimental | [1] Shi 2021 | Table 3, p. 4, row 8 |  |
-| Phase transition | 1398.65 K | 1398.65 | B12 | model | [1] Shi 2021 | Table 3, p. 4, row 51 |  |
-| Phase transition | 1398.65 K | 1398.65 | B13 | model | [1] Shi 2021 | Table 3, p. 4, row 57 |  |
-| Phase transition | 1398.65 K | 1398.65 | B6 | model | [1] Shi 2021 | Table 3, p. 4, row 23 |  |
-| Phase transition | 1398.65 K | 1398.65 | B7 | model | [1] Shi 2021 | Table 3, p. 4, row 29 |  |
-| Phase transition | 1398.65 K | 1398.65 | B8 | model | [1] Shi 2021 | Table 3, p. 4, row 35 |  |
-| Phase transition | 1398.65 K | 1398.65 | other: B8 | model | [1] Shi 2021 | Table 3, p. 4, row 31 |  |
-| Phase transition | 1399.25 K | 1399.25 | B1 | experimental | [1] Shi 2021 | Table 3, p. 4, row 2 |  |
-| Phase transition | 1400.45 K | 1400.45 | B15 | experimental | [1] Shi 2021 | Table 3, p. 4, row 64 |  |
-| Phase transition | 1400.65 K | 1400.65 | B14 | experimental | [1] Shi 2021 | Table 3, p. 4, row 60 |  |
-| Phase transition | 1401.45 K | 1401.45 | B2 | experimental | [1] Shi 2021 | Table 3, p. 4, row 5 |  |
-| Phase transition | 1406.25 K | 1406.25 | other: B14 | model | [1] Shi 2021 | Table 3, p. 4, row 59 |  |
-| Phase transition | 1408.05 K | 1408.05 | other: B4 | model | [1] Shi 2021 | Table 3, p. 4, row 11 |  |
-| Phase transition | 1409.65 K | 1409.65 | other: B7 | model | [1] Shi 2021 | Table 3, p. 4, row 25 |  |
-| Phase transition | 1412.05 K | 1412.05 | other: B6 | model | [1] Shi 2021 | Table 3, p. 4, row 19 |  |
-| Phase transition | 1414.75 K | 1414.75 | other: B14 | experimental | [1] Shi 2021 | Table 3, p. 4, row 58 |  |
-| Phase transition | 1414.75 K | 1414.75 | other: B15 | experimental | [1] Shi 2021 | Table 3, p. 4, row 62 |  |
-| Phase transition | 1415.45 K | 1415.45 | other: B3 | model | [1] Shi 2021 | Table 3, p. 4, row 7 |  |
-| Phase transition | 1418.15 K | 1418.15 | other: B13 | experimental | [1] Shi 2021 | Table 3, p. 4, row 52 |  |
-| Phase transition | 1423.85 K | 1423.85 | other: B2 | model | [1] Shi 2021 | Table 3, p. 4, row 4 |  |
-| Phase transition | 1425.75 K | 1425.75 | other: B1 | model | [1] Shi 2021 | Table 3, p. 4, row 1 |  |
-| Phase transition | 1426.35 K | 1426.35 | other: B13 | model | [1] Shi 2021 | Table 3, p. 4, row 53 |  |
-| Phase transition | 1436.55 K | 1436.55 | other: B4 | experimental | [1] Shi 2021 | Table 3, p. 4, row 10 |  |
-| Phase transition | 1619.25 K | 1619.25 | B10 | model | [1] Shi 2021 | Table 3, p. 4, row 43 |  |
-| Phase transition | 1619.25 K | 1619.25 | B9 | model | [1] Shi 2021 | Table 3, p. 4, row 39 |  |
-| Phase transition | 1625.05 K | 1625.05 | other: B10 | model | [1] Shi 2021 | Table 3, p. 4, row 40 |  |
-| Phase transition | 1673.65 K | 1673.65 | other: B12 | model | [1] Shi 2021 | Table 3, p. 4, row 48 |  |
-| Phase transition | 1692.85 K | 1692.85 | other: B9 | model | [1] Shi 2021 | Table 3, p. 4, row 36 |  |
+| Phase transition | 1212.25 K | 1212.25 | B11 | experimental | [1] Shi 2021 | Table 3, p. 4, row 46; `ORC-WQY5IPX6WJ` |  |
+| Phase transition | 1227.45 K | 1227.45 | B11 | model | [1] Shi 2021 | Table 3, p. 4, row 47; `ORC-FYCRI6HDFD` |  |
+| Phase transition | 1227.45 K | 1227.45 | B12 | model | [1] Shi 2021 | Table 3, p. 4, row 50; `ORC-4ZB24Q4UU3` |  |
+| Phase transition | 1227.45 K | 1227.45 | B13 | model | [1] Shi 2021 | Table 3, p. 4, row 56; `ORC-52ADT4C3FU` |  |
+| Phase transition | 1227.45 K | 1227.45 | B6 | model | [1] Shi 2021 | Table 3, p. 4, row 22; `ORC-UEWG7AWMML` |  |
+| Phase transition | 1227.45 K | 1227.45 | B7 | model | [1] Shi 2021 | Table 3, p. 4, row 28; `ORC-GO3QTJK4SE` |  |
+| Phase transition | 1227.45 K | 1227.45 | B8 | model | [1] Shi 2021 | Table 3, p. 4, row 34; `ORC-2MPD7YI7X7` |  |
+| Phase transition | 1228.35 K | 1228.35 | other: B11 | model | [1] Shi 2021 | Table 3, p. 4, row 45; `ORC-DVMIUM44UV` |  |
+| Phase transition | 1229.45 K | 1229.45 | B7 | experimental | [1] Shi 2021 | Table 3, p. 4, row 26; `ORC-UU6GSZCLJ2` |  |
+| Phase transition | 1229.45 K | 1229.45 | B8 | experimental | [1] Shi 2021 | Table 3, p. 4, row 32; `ORC-ZMZ3FZWJK3` |  |
+| Phase transition | 1229.85 K | 1229.85 | B6 | experimental | [1] Shi 2021 | Table 3, p. 4, row 20; `ORC-BPBC6AWI4Q` |  |
+| Phase transition | 1230.15 K | 1230.15 | B13 | experimental | [1] Shi 2021 | Table 3, p. 4, row 54; `ORC-J722Z74RCC` |  |
+| Phase transition | 1230.35 K | 1230.35 | B9 | experimental | [1] Shi 2021 | Table 3, p. 4, row 37; `ORC-A27RPJ7SHG` |  |
+| Phase transition | 1230.45 K | 1230.45 | B10 | experimental | [1] Shi 2021 | Table 3, p. 4, row 41; `ORC-JH53DL3QJO` |  |
+| Phase transition | 1232.35 K | 1232.35 | B12 | experimental | [1] Shi 2021 | Table 3, p. 4, row 49; `ORC-G5XNYBH7OH` |  |
+| Phase transition | 1234.05 K | 1234.05 | B10 | model | [1] Shi 2021 | Table 3, p. 4, row 42; `ORC-MKVXFLCZEE` |  |
+| Phase transition | 1234.05 K | 1234.05 | B9 | model | [1] Shi 2021 | Table 3, p. 4, row 38; `ORC-XMWSV2LLO5` |  |
+| Phase transition | 1237.15 K | 1237.15 | other: B11 | experimental | [1] Shi 2021 | Table 3, p. 4, row 44; `ORC-WUWKSMVB7G` |  |
+| Phase transition | 1370.35 K | 1370.35 | B4 | experimental | [1] Shi 2021 | Table 3, p. 4, row 12; `ORC-J6UCH6WVFC` |  |
+| Phase transition | 1371.15 K | 1371.15 | B8 | experimental | [1] Shi 2021 | Table 3, p. 4, row 33; `ORC-L4VH3I3NCW` |  |
+| Phase transition | 1371.55 K | 1371.55 | B6 | experimental | [1] Shi 2021 | Table 3, p. 4, row 21; `ORC-CRM2HHOMYS` |  |
+| Phase transition | 1372.85 K | 1372.85 | B5 | experimental | [1] Shi 2021 | Table 3, p. 4, row 16; `ORC-PELH736JVF` |  |
+| Phase transition | 1373.95 K | 1373.95 | B7 | experimental | [1] Shi 2021 | Table 3, p. 4, row 27; `ORC-6QBW2GOPHM` |  |
+| Phase transition | 1379.85 K | 1379.85 | B14 | model | [1] Shi 2021 | Table 3, p. 4, row 61; `ORC-PTO6QTWQ3F` |  |
+| Phase transition | 1379.85 K | 1379.85 | B15 | model | [1] Shi 2021 | Table 3, p. 4, row 65; `ORC-YCSXVKTYYC` |  |
+| Phase transition | 1381.35 K | 1381.35 | B4 | model | [1] Shi 2021 | Table 3, p. 4, row 13; `ORC-SSUK7Y6KAZ` |  |
+| Phase transition | 1381.35 K | 1381.35 | B5 | model | [1] Shi 2021 | Table 3, p. 4, row 17; `ORC-GTRQEG4ULM` |  |
+| Phase transition | 1385.85 K | 1385.85 | other: B5 | model | [1] Shi 2021 | Table 3, p. 4, row 15; `ORC-5F2JATZLNW` |  |
+| Phase transition | 1386.45 K | 1386.45 | B13 | experimental | [1] Shi 2021 | Table 3, p. 4, row 55; `ORC-EGTHRPSP26` |  |
+| Phase transition | 1389.35 K | 1389.35 | other: B8 | experimental | [1] Shi 2021 | Table 3, p. 4, row 30; `ORC-HB4CIVXCBA` |  |
+| Phase transition | 1397.25 K | 1397.25 | other: B15 | model | [1] Shi 2021 | Table 3, p. 4, row 63; `ORC-CCCSY7NRV6` |  |
+| Phase transition | 1397.35 K | 1397.35 | other: B6 | experimental | [1] Shi 2021 | Table 3, p. 4, row 18; `ORC-ZDYBTLT65I` |  |
+| Phase transition | 1397.45 K | 1397.45 | other: B7 | experimental | [1] Shi 2021 | Table 3, p. 4, row 24; `ORC-6GKMBQYEUT` |  |
+| Phase transition | 1398.15 K | 1398.15 | other: B5 | experimental | [1] Shi 2021 | Table 3, p. 4, row 14; `ORC-HXQNUU5P2B` |  |
+| Phase transition | 1398.35 K | 1398.35 | B1 | model | [1] Shi 2021 | Table 3, p. 4, row 3; `ORC-HPMWL3PY3B` |  |
+| Phase transition | 1398.35 K | 1398.35 | B2 | model | [1] Shi 2021 | Table 3, p. 4, row 6; `ORC-LGCS6RUGHN` |  |
+| Phase transition | 1398.35 K | 1398.35 | B3 | model | [1] Shi 2021 | Table 3, p. 4, row 9; `ORC-GKMV5TK7KS` |  |
+| Phase transition | 1398.45 K | 1398.45 | B3 | experimental | [1] Shi 2021 | Table 3, p. 4, row 8; `ORC-FI4UKXQJ4Z` |  |
+| Phase transition | 1398.65 K | 1398.65 | B12 | model | [1] Shi 2021 | Table 3, p. 4, row 51; `ORC-N67HH2CT7D` |  |
+| Phase transition | 1398.65 K | 1398.65 | B13 | model | [1] Shi 2021 | Table 3, p. 4, row 57; `ORC-TM4NVYOUGP` |  |
+| Phase transition | 1398.65 K | 1398.65 | B6 | model | [1] Shi 2021 | Table 3, p. 4, row 23; `ORC-PEHOWUOQDE` |  |
+| Phase transition | 1398.65 K | 1398.65 | B7 | model | [1] Shi 2021 | Table 3, p. 4, row 29; `ORC-ROJQ57IFZW` |  |
+| Phase transition | 1398.65 K | 1398.65 | B8 | model | [1] Shi 2021 | Table 3, p. 4, row 35; `ORC-LOZDZ73SAC` |  |
+| Phase transition | 1398.65 K | 1398.65 | other: B8 | model | [1] Shi 2021 | Table 3, p. 4, row 31; `ORC-2P4CXDOPAH` |  |
+| Phase transition | 1399.25 K | 1399.25 | B1 | experimental | [1] Shi 2021 | Table 3, p. 4, row 2; `ORC-P6JTKJ3QJQ` |  |
+| Phase transition | 1400.45 K | 1400.45 | B15 | experimental | [1] Shi 2021 | Table 3, p. 4, row 64; `ORC-ZCESXNZK4K` |  |
+| Phase transition | 1400.65 K | 1400.65 | B14 | experimental | [1] Shi 2021 | Table 3, p. 4, row 60; `ORC-XTHP6BF633` |  |
+| Phase transition | 1401.45 K | 1401.45 | B2 | experimental | [1] Shi 2021 | Table 3, p. 4, row 5; `ORC-TOABYH5OXN` |  |
+| Phase transition | 1406.25 K | 1406.25 | other: B14 | model | [1] Shi 2021 | Table 3, p. 4, row 59; `ORC-FJKKU4MEDT` |  |
+| Phase transition | 1408.05 K | 1408.05 | other: B4 | model | [1] Shi 2021 | Table 3, p. 4, row 11; `ORC-XIVDOVQZ3E` |  |
+| Phase transition | 1409.65 K | 1409.65 | other: B7 | model | [1] Shi 2021 | Table 3, p. 4, row 25; `ORC-SZFYMAANCJ` |  |
+| Phase transition | 1412.05 K | 1412.05 | other: B6 | model | [1] Shi 2021 | Table 3, p. 4, row 19; `ORC-A2KB5RLUZF` |  |
+| Phase transition | 1414.75 K | 1414.75 | other: B14 | experimental | [1] Shi 2021 | Table 3, p. 4, row 58; `ORC-F7UKXNP6N4` |  |
+| Phase transition | 1414.75 K | 1414.75 | other: B15 | experimental | [1] Shi 2021 | Table 3, p. 4, row 62; `ORC-463JT5L7T7` |  |
+| Phase transition | 1415.45 K | 1415.45 | other: B3 | model | [1] Shi 2021 | Table 3, p. 4, row 7; `ORC-YRCI7OASSK` |  |
+| Phase transition | 1418.15 K | 1418.15 | other: B13 | experimental | [1] Shi 2021 | Table 3, p. 4, row 52; `ORC-U3QQGG7BV5` |  |
+| Phase transition | 1423.85 K | 1423.85 | other: B2 | model | [1] Shi 2021 | Table 3, p. 4, row 4; `ORC-WM5M6U54EU` |  |
+| Phase transition | 1425.75 K | 1425.75 | other: B1 | model | [1] Shi 2021 | Table 3, p. 4, row 1; `ORC-65Z4JWA5U7` |  |
+| Phase transition | 1426.35 K | 1426.35 | other: B13 | model | [1] Shi 2021 | Table 3, p. 4, row 53; `ORC-ZRRM2Y3JML` |  |
+| Phase transition | 1436.55 K | 1436.55 | other: B4 | experimental | [1] Shi 2021 | Table 3, p. 4, row 10; `ORC-TWI2XOTGCA` |  |
+| Phase transition | 1619.25 K | 1619.25 | B10 | model | [1] Shi 2021 | Table 3, p. 4, row 43; `ORC-N5UUXAFOGV` |  |
+| Phase transition | 1619.25 K | 1619.25 | B9 | model | [1] Shi 2021 | Table 3, p. 4, row 39; `ORC-K2KZIOFEFU` |  |
+| Phase transition | 1625.05 K | 1625.05 | other: B10 | model | [1] Shi 2021 | Table 3, p. 4, row 40; `ORC-VCFJ4T5FFN` |  |
+| Phase transition | 1673.65 K | 1673.65 | other: B12 | model | [1] Shi 2021 | Table 3, p. 4, row 48; `ORC-G4MKNQDUJC` |  |
+| Phase transition | 1692.85 K | 1692.85 | other: B9 | model | [1] Shi 2021 | Table 3, p. 4, row 36; `ORC-NUFGKK6B5D` |  |
 
 ### Phase equilibrium (16)
 
@@ -122,22 +122,22 @@ Table: Phase equilibrium, Ag–Cr–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  |  | (Cr); _(Cr): Ag 0.005, Cr 0.977, Zr 0.018_ | experimental | [1] Shi 2021 | Table 2, p. 4, row 3 |  |
-| Phase composition |  |  | (Cr); _(Cr): Ag 0.011, Cr 0.946, Zr 0.043_ | experimental | [1] Shi 2021 | Table 2, p. 4, row 4 |  |
-| Phase composition |  |  | (Cr) (L1) + αZrCr₂ (L2); _(Cr) (L1): Ag 0.033, Cr 0.912, Zr 0.055; αZrCr₂ (L2): Ag 0.021, Cr 0.661, Zr 0.318_ | experimental | [1] Shi 2021 | Table 2, p. 4, row 1 |  |
-| Phase composition |  |  | (Cr)(L1) + αZrCr₂ (L2); _(Cr)(L1): Ag 0.084, Cr 0.888, Zr 0.028; αZrCr₂ (L2): Ag 0.007, Cr 0.662, Zr 0.331_ | experimental | [1] Shi 2021 | Table 2, p. 4, row 2 |  |
-| Phase composition |  |  | AgZr; _AgZr: Ag 0.497, Cr 0.001, Zr 0.502_ | experimental | [1] Shi 2021 | Table 2, p. 4, row 11 |  |
-| Phase composition |  |  | AgZr; _AgZr: Ag 0.494, Cr 0.01, Zr 0.496_ | experimental | [1] Shi 2021 | Table 2, p. 4, row 12 |  |
-| Phase composition |  |  | AgZr; _AgZr: Ag 0.505, Cr 0.001, Zr 0.494_ | experimental | [1] Shi 2021 | Table 2, p. 4, row 9 |  |
-| Phase composition |  |  | AgZr; _AgZr: Ag 0.502, Cr 0.003, Zr 0.495_ | experimental | [1] Shi 2021 | Table 2, p. 4, row 10 |  |
-| Phase composition |  |  | AgZr₂ + AgZr2; _AgZr₂: Ag 0.338, Cr 0.004, Zr 0.658; AgZr2: Ag 0.338, Cr 0.004, Zr 0.658_ | experimental | [1] Shi 2021 | Table 2, p. 4, row 15 |  |
-| Phase composition |  |  | AgZr₂ + AgZr2; _AgZr₂: Ag 0.328, Cr 0.662, Zr 0.01; AgZr2: Ag 0.328, Cr 0.662, Zr 0.01_ | experimental | [1] Shi 2021 | Table 2, p. 4, row 16 |  |
-| Phase composition |  |  | αZrCr₂ + αZrCr2; _αZrCr₂: Ag 0.043, Cr 0.635, Zr 0.322; αZrCr2: Ag 0.043, Cr 0.635, Zr 0.322_ | experimental | [1] Shi 2021 | Table 2, p. 4, row 8 |  |
-| Phase composition |  |  | αZrCr₂ + αZrCr2; _αZrCr₂: Ag 0.005, Cr 0.664, Zr 0.331; αZrCr2: Ag 0.005, Cr 0.664, Zr 0.331_ | experimental | [1] Shi 2021 | Table 2, p. 4, row 13 |  |
-| Phase composition |  |  | αZrCr₂ + αZrCr2; _αZrCr₂: Ag 0.02, Cr 0.654, Zr 0.326; αZrCr2: Ag 0.02, Cr 0.654, Zr 0.326_ | experimental | [1] Shi 2021 | Table 2, p. 4, row 7 |  |
-| Phase composition |  |  | αZrCr₂ + αZrCr2; _αZrCr₂: Ag 0.037, Cr 0.587, Zr 0.376; αZrCr2: Ag 0.037, Cr 0.587, Zr 0.376_ | experimental | [1] Shi 2021 | Table 2, p. 4, row 14 |  |
-| Phase composition |  |  | βZrCr₂ + βZrCr2; _βZrCr₂: Ag 0.005, Cr 0.69, Zr 0.305; βZrCr2: Ag 0.005, Cr 0.69, Zr 0.305_ | experimental | [1] Shi 2021 | Table 2, p. 4, row 5 |  |
-| Phase composition |  |  | βZrCr₂ + βZrCr2; _βZrCr₂: Ag 0.02, Cr 0.65, Zr 0.33; βZrCr2: Ag 0.02, Cr 0.65, Zr 0.33_ | experimental | [1] Shi 2021 | Table 2, p. 4, row 6 |  |
+| Phase composition |  |  | (Cr); _(Cr): Ag 0.005, Cr 0.977, Zr 0.018_ | experimental | [1] Shi 2021 | Table 2, p. 4, row 3; `ORC-D57VXTB6AR` |  |
+| Phase composition |  |  | (Cr); _(Cr): Ag 0.011, Cr 0.946, Zr 0.043_ | experimental | [1] Shi 2021 | Table 2, p. 4, row 4; `ORC-UBOGPMJFFB` |  |
+| Phase composition |  |  | (Cr) (L1) + αZrCr₂ (L2); _(Cr) (L1): Ag 0.033, Cr 0.912, Zr 0.055; αZrCr₂ (L2): Ag 0.021, Cr 0.661, Zr 0.318_ | experimental | [1] Shi 2021 | Table 2, p. 4, row 1; `ORC-W7XGIXKUHK` |  |
+| Phase composition |  |  | (Cr)(L1) + αZrCr₂ (L2); _(Cr)(L1): Ag 0.084, Cr 0.888, Zr 0.028; αZrCr₂ (L2): Ag 0.007, Cr 0.662, Zr 0.331_ | experimental | [1] Shi 2021 | Table 2, p. 4, row 2; `ORC-7MDVV4PTMU` |  |
+| Phase composition |  |  | AgZr; _AgZr: Ag 0.497, Cr 0.001, Zr 0.502_ | experimental | [1] Shi 2021 | Table 2, p. 4, row 11; `ORC-4HF2XNAO2V` |  |
+| Phase composition |  |  | AgZr; _AgZr: Ag 0.494, Cr 0.01, Zr 0.496_ | experimental | [1] Shi 2021 | Table 2, p. 4, row 12; `ORC-5DDP7A3VPF` |  |
+| Phase composition |  |  | AgZr; _AgZr: Ag 0.505, Cr 0.001, Zr 0.494_ | experimental | [1] Shi 2021 | Table 2, p. 4, row 9; `ORC-A4UV2OU7WX` |  |
+| Phase composition |  |  | AgZr; _AgZr: Ag 0.502, Cr 0.003, Zr 0.495_ | experimental | [1] Shi 2021 | Table 2, p. 4, row 10; `ORC-PDHZUHZUDI` |  |
+| Phase composition |  |  | AgZr₂ + AgZr2; _AgZr₂: Ag 0.338, Cr 0.004, Zr 0.658; AgZr2: Ag 0.338, Cr 0.004, Zr 0.658_ | experimental | [1] Shi 2021 | Table 2, p. 4, row 15; `ORC-IHNCYAYLQ5` |  |
+| Phase composition |  |  | AgZr₂ + AgZr2; _AgZr₂: Ag 0.328, Cr 0.662, Zr 0.01; AgZr2: Ag 0.328, Cr 0.662, Zr 0.01_ | experimental | [1] Shi 2021 | Table 2, p. 4, row 16; `ORC-VME434ZU45` |  |
+| Phase composition |  |  | αZrCr₂ + αZrCr2; _αZrCr₂: Ag 0.043, Cr 0.635, Zr 0.322; αZrCr2: Ag 0.043, Cr 0.635, Zr 0.322_ | experimental | [1] Shi 2021 | Table 2, p. 4, row 8; `ORC-5KRJPAKFFZ` |  |
+| Phase composition |  |  | αZrCr₂ + αZrCr2; _αZrCr₂: Ag 0.005, Cr 0.664, Zr 0.331; αZrCr2: Ag 0.005, Cr 0.664, Zr 0.331_ | experimental | [1] Shi 2021 | Table 2, p. 4, row 13; `ORC-CMNXSVMVZF` |  |
+| Phase composition |  |  | αZrCr₂ + αZrCr2; _αZrCr₂: Ag 0.02, Cr 0.654, Zr 0.326; αZrCr2: Ag 0.02, Cr 0.654, Zr 0.326_ | experimental | [1] Shi 2021 | Table 2, p. 4, row 7; `ORC-NRAGYIR7BO` |  |
+| Phase composition |  |  | αZrCr₂ + αZrCr2; _αZrCr₂: Ag 0.037, Cr 0.587, Zr 0.376; αZrCr2: Ag 0.037, Cr 0.587, Zr 0.376_ | experimental | [1] Shi 2021 | Table 2, p. 4, row 14; `ORC-TQ5P2LWQVK` |  |
+| Phase composition |  |  | βZrCr₂ + βZrCr2; _βZrCr₂: Ag 0.005, Cr 0.69, Zr 0.305; βZrCr2: Ag 0.005, Cr 0.69, Zr 0.305_ | experimental | [1] Shi 2021 | Table 2, p. 4, row 5; `ORC-4Y24Q2DM6R` |  |
+| Phase composition |  |  | βZrCr₂ + βZrCr2; _βZrCr₂: Ag 0.02, Cr 0.65, Zr 0.33; βZrCr2: Ag 0.02, Cr 0.65, Zr 0.33_ | experimental | [1] Shi 2021 | Table 2, p. 4, row 6; `ORC-WJRCCG2XSA` |  |
 
 ## Sources
 
@@ -180,4 +180,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

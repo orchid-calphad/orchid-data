@@ -14,14 +14,14 @@ Table: Enthalpy of formation of CsO2 reported in the literature (8)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -78.3 kJ/mol-atom | CsO2 | 298.15 | experimental |  | [Cs–O](https://data.orchid-project.org/systems/CS-O.html) | [1] Guéneau 2015; _cites Knights 1979_ [doi](https://doi.org/10.1016/0022-3115%2879%2990163-6) | Table 5, p. 7, row 34 |  |
-| -95.4 kJ/mol-atom | CsO2 | 298.15 | model |  | [Cs–O](https://data.orchid-project.org/systems/CS-O.html) | [1] Guéneau 2015; _cites SGTE_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 5, p. 7, row 32 |  |
-| -80.4667 kJ/mol-atom | CsO2 | 298.15 | model | CALPHAD | [Cs–O](https://data.orchid-project.org/systems/CS-O.html) | [1] Guéneau 2015 | Table 5, p. 7, row 35 |  |
-| -129.533 kJ/mol-atom | CsO2 | 0 | DFT | DFT | [Cs–O](https://data.orchid-project.org/systems/CS-O.html) | [1] Guéneau 2015; _cites Jain 2010_ [doi](https://doi.org/10.1016/j.ces.2010.01.024) | Table 5, p. 7, row 29 |  |
-| -117.067 kJ/mol-atom | CsO2 | 0 | DFT | DFT | [Cs–O](https://data.orchid-project.org/systems/CS-O.html) | [1] Guéneau 2015; _cites Brillant 2009_ | Table 5, p. 7, row 30 |  |
-| -84.2667 kJ/mol-atom | CsO2 | 298.15 | DFT | DFT | [Cs–O](https://data.orchid-project.org/systems/CS-O.html) | [1] Guéneau 2015 | Table 5, p. 7, row 28 |  |
-| -95.4 kJ/mol-atom | CsO2 | 298.15 | unspecified |  | [Cs–O](https://data.orchid-project.org/systems/CS-O.html) | [1] Guéneau 2015; _cites Lamoreaux 1984_ [doi](https://doi.org/10.1063/1.555706) | Table 5, p. 7, row 33 |  |
-| -77.7 kJ/mol-atom | CsO2 | 298.15 | unspecified |  | [Cs–O](https://data.orchid-project.org/systems/CS-O.html) | [1] Guéneau 2015; _cites Cordfunke 1990_ | Table 5, p. 7, row 31 |  |
+| -78.3 kJ/mol-atom | CsO2 | 298.15 | experimental |  | [Cs–O](https://data.orchid-project.org/systems/CS-O.html) | [1] Guéneau 2015; _cites Knights 1979_ [doi](https://doi.org/10.1016/0022-3115%2879%2990163-6) | Table 5, p. 7, row 34; `ORC-636TFSTTTX.9fd6f2` |  |
+| -95.4 kJ/mol-atom | CsO2 | 298.15 | model |  | [Cs–O](https://data.orchid-project.org/systems/CS-O.html) | [1] Guéneau 2015; _cites SGTE_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 5, p. 7, row 32; `ORC-I3KHTYFGXV.668aa4` |  |
+| -80.4667 kJ/mol-atom | CsO2 | 298.15 | model | CALPHAD | [Cs–O](https://data.orchid-project.org/systems/CS-O.html) | [1] Guéneau 2015 | Table 5, p. 7, row 35; `ORC-7E7CJ5YOFI.290ec1` |  |
+| -129.533 kJ/mol-atom | CsO2 | 0 | DFT | DFT | [Cs–O](https://data.orchid-project.org/systems/CS-O.html) | [1] Guéneau 2015; _cites Jain 2010_ [doi](https://doi.org/10.1016/j.ces.2010.01.024) | Table 5, p. 7, row 29; `ORC-63T6UUMOMP.41ed7e` |  |
+| -117.067 kJ/mol-atom | CsO2 | 0 | DFT | DFT | [Cs–O](https://data.orchid-project.org/systems/CS-O.html) | [1] Guéneau 2015; _cites Brillant 2009_ | Table 5, p. 7, row 30; `ORC-HSFBTMJG4X.cbe28d` |  |
+| -84.2667 kJ/mol-atom | CsO2 | 298.15 | DFT | DFT | [Cs–O](https://data.orchid-project.org/systems/CS-O.html) | [1] Guéneau 2015 | Table 5, p. 7, row 28; `ORC-SVOB5GY4NR.a00d38` |  |
+| -95.4 kJ/mol-atom | CsO2 | 298.15 | unspecified |  | [Cs–O](https://data.orchid-project.org/systems/CS-O.html) | [1] Guéneau 2015; _cites Lamoreaux 1984_ [doi](https://doi.org/10.1063/1.555706) | Table 5, p. 7, row 33; `ORC-SZXWPYYEN4.46a7ac` |  |
+| -77.7 kJ/mol-atom | CsO2 | 298.15 | unspecified |  | [Cs–O](https://data.orchid-project.org/systems/CS-O.html) | [1] Guéneau 2015; _cites Cordfunke 1990_ | Table 5, p. 7, row 31; `ORC-YWJF45XPKP.be9b5b` |  |
 
 ### Uncertainty budget
 
@@ -104,4 +104,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

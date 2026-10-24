@@ -51,8 +51,8 @@ Table: Invariant reactions reported in the literature for the Cd–Mn system (2)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 593.6 | eutectic |  | model | [1] Qin 2014 | p. 6 | “The presently calculated temperature of the eutectic reaction L1⁄4 (Cd) þ (αMn) is 593.6 K which fits well with the experimental value of” |
-| 593.25 | eutectic |  | experimental | [1] Qin 2014; _cites Chasanov 1962_ | p. 3 | “Chasanov et al. \[39\] also determined one eutectic arrest at 593.25 K by thermal analysis and found no intermetallic phases.” |
+| 593.6 | eutectic |  | model | [1] Qin 2014 | p. 6; `ORC-NQD4J6I7U5` | “The presently calculated temperature of the eutectic reaction L1⁄4 (Cd) þ (αMn) is 593.6 K which fits well with the experimental value of” |
+| 593.25 | eutectic |  | experimental | [1] Qin 2014; _cites Chasanov 1962_ | p. 3; `ORC-OOZK4ZTDZT` | “Chasanov et al. \[39\] also determined one eutectic arrest at 593.25 K by thermal analysis and found no intermetallic phases.” |
 
 ## Sources
 
@@ -117,4 +117,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

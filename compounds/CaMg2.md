@@ -14,19 +14,19 @@ Table: Enthalpy of formation of CaMg2 reported in the literature (13)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -14.59 kJ/mol-atom | Mg2Ca-C14 | 255.5 | experimental |  | [Ca–Mg](https://data.orchid-project.org/systems/CA-MG.html) | [1] Zhong 2006; _cites Chiotti 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990053-0) | Table 2, p. 4, row 13 |  |
-| -13.5 kJ/mol-atom | Mg2Ca | 298.15 | experimental | experimental | [Ca–Mg](https://data.orchid-project.org/systems/CA-MG.html) | [2] Kozlov 2008; _cites King 1964_ [doi](https://doi.org/10.1016/0001-6160%2864%2990056-2) | Table 2, p. 5, row 4 |  |
-| -13.38 kJ/mol-atom | Mg2Ca-C14 | 298.15 | experimental |  | [Ca–Mg](https://data.orchid-project.org/systems/CA-MG.html) | [1] Zhong 2006; _cites King 1964_ [doi](https://doi.org/10.1016/0001-6160%2864%2990056-2) | Table 2, p. 4, row 9 |  |
-| -13.04 kJ/mol-atom | Mg2Ca-C14 | 298.15 | experimental |  | [Ca–Mg](https://data.orchid-project.org/systems/CA-MG.html) | [1] Zhong 2006; _cites Gartner 1965_ | Table 2, p. 4, row 10 |  |
-| -13 kJ/mol-atom | Mg2Ca | 298.15 | experimental | experimental | [Ca–Mg](https://data.orchid-project.org/systems/CA-MG.html) | [2] Kozlov 2008; _cites Davison 1968_ | Table 2, p. 5, row 6 |  |
-| -12.7 kJ/mol-atom | Mg2Ca | 298.15 | experimental | experimental | [Ca–Mg](https://data.orchid-project.org/systems/CA-MG.html) | [2] Kozlov 2008; _cites Gartner 1965_ | Table 2, p. 5, row 5 |  |
-| -11.29 kJ/mol-atom | Mg2Ca-C14 | 359 | experimental |  | [Ca–Mg](https://data.orchid-project.org/systems/CA-MG.html) | [1] Zhong 2006; _cites Smith 1961_ | Table 2, p. 4, row 12 |  |
-| -12.85 kJ/mol-atom | Mg2Ca | 298.15 | model | Calphad | [Ca–Mg](https://data.orchid-project.org/systems/CA-MG.html) | [2] Kozlov 2008; _cites Agarwal 1995_ | Table 2, p. 5, row 2 |  |
-| -12.78 kJ/mol-atom | Mg2Ca | 298.15 | model | Calphad | [Ca–Mg](https://data.orchid-project.org/systems/CA-MG.html) | [2] Kozlov 2008 | Table 2, p. 5, row 3 |  |
-| -12.37 kJ/mol-atom | Mg2Ca | 298.15 | DFT | first-principles | [Ca–Mg](https://data.orchid-project.org/systems/CA-MG.html) | [2] Kozlov 2008 | Table 2, p. 5, row 1 |  |
-| -20.97 kJ/mol-atom | Mg2Ca-C14 | 0 | unspecified |  | [Ca–Mg](https://data.orchid-project.org/systems/CA-MG.html) | [1] Zhong 2006; _cites Pyagai 1990_ | Table 2, p. 4, row 8 |  |
-| -13.04 kJ/mol-atom | Mg2Ca-C14 | 0 | unspecified |  | [Ca–Mg](https://data.orchid-project.org/systems/CA-MG.html) | [1] Zhong 2006; _cites Davison 1968_ | Table 2, p. 4, row 11 |  |
-| -11.7161 kJ/mol-atom | Mg2Ca-C14 | 0 | unspecified |  | [Ca–Mg](https://data.orchid-project.org/systems/CA-MG.html) | [1] Zhong 2006 | Table 2, p. 4, row 6 |  |
+| -14.59 kJ/mol-atom | Mg2Ca-C14 | 255.5 | experimental |  | [Ca–Mg](https://data.orchid-project.org/systems/CA-MG.html) | [1] Zhong 2006; _cites Chiotti 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990053-0) | Table 2, p. 4, row 13; `ORC-RZCL7BY52Z.730e2e` |  |
+| -13.5 kJ/mol-atom | Mg2Ca | 298.15 | experimental | experimental | [Ca–Mg](https://data.orchid-project.org/systems/CA-MG.html) | [2] Kozlov 2008; _cites King 1964_ [doi](https://doi.org/10.1016/0001-6160%2864%2990056-2) | Table 2, p. 5, row 4; `ORC-UWGNHDPS6J` |  |
+| -13.38 kJ/mol-atom | Mg2Ca-C14 | 298.15 | experimental |  | [Ca–Mg](https://data.orchid-project.org/systems/CA-MG.html) | [1] Zhong 2006; _cites King 1964_ [doi](https://doi.org/10.1016/0001-6160%2864%2990056-2) | Table 2, p. 4, row 9; `ORC-NICUD3CMK2.13630a` |  |
+| -13.04 kJ/mol-atom | Mg2Ca-C14 | 298.15 | experimental |  | [Ca–Mg](https://data.orchid-project.org/systems/CA-MG.html) | [1] Zhong 2006; _cites Gartner 1965_ | Table 2, p. 4, row 10; `ORC-IKPTGBFS7P.6f9e12` |  |
+| -13 kJ/mol-atom | Mg2Ca | 298.15 | experimental | experimental | [Ca–Mg](https://data.orchid-project.org/systems/CA-MG.html) | [2] Kozlov 2008; _cites Davison 1968_ | Table 2, p. 5, row 6; `ORC-JZ4L4Q7U2N` |  |
+| -12.7 kJ/mol-atom | Mg2Ca | 298.15 | experimental | experimental | [Ca–Mg](https://data.orchid-project.org/systems/CA-MG.html) | [2] Kozlov 2008; _cites Gartner 1965_ | Table 2, p. 5, row 5; `ORC-7O4OZG2DBF` |  |
+| -11.29 kJ/mol-atom | Mg2Ca-C14 | 359 | experimental |  | [Ca–Mg](https://data.orchid-project.org/systems/CA-MG.html) | [1] Zhong 2006; _cites Smith 1961_ | Table 2, p. 4, row 12; `ORC-MFXA4ERQYD.227b60` |  |
+| -12.85 kJ/mol-atom | Mg2Ca | 298.15 | model | Calphad | [Ca–Mg](https://data.orchid-project.org/systems/CA-MG.html) | [2] Kozlov 2008; _cites Agarwal 1995_ | Table 2, p. 5, row 2; `ORC-XFTNAJZ22Q` |  |
+| -12.78 kJ/mol-atom | Mg2Ca | 298.15 | model | Calphad | [Ca–Mg](https://data.orchid-project.org/systems/CA-MG.html) | [2] Kozlov 2008 | Table 2, p. 5, row 3; `ORC-S4AJ47FAEA` |  |
+| -12.37 kJ/mol-atom | Mg2Ca | 298.15 | DFT | first-principles | [Ca–Mg](https://data.orchid-project.org/systems/CA-MG.html) | [2] Kozlov 2008 | Table 2, p. 5, row 1; `ORC-VKZEPFIM3R` |  |
+| -20.97 kJ/mol-atom | Mg2Ca-C14 | 0 | unspecified |  | [Ca–Mg](https://data.orchid-project.org/systems/CA-MG.html) | [1] Zhong 2006; _cites Pyagai 1990_ | Table 2, p. 4, row 8; `ORC-PZ7TZP7URJ.a0a8e2` |  |
+| -13.04 kJ/mol-atom | Mg2Ca-C14 | 0 | unspecified |  | [Ca–Mg](https://data.orchid-project.org/systems/CA-MG.html) | [1] Zhong 2006; _cites Davison 1968_ | Table 2, p. 4, row 11; `ORC-RGWLMRTDMG.5e2caf` |  |
+| -11.7161 kJ/mol-atom | Mg2Ca-C14 | 0 | unspecified |  | [Ca–Mg](https://data.orchid-project.org/systems/CA-MG.html) | [1] Zhong 2006 | Table 2, p. 4, row 6; `ORC-QFNUO7XCBY.c38408` |  |
 
 ### Uncertainty budget
 
@@ -115,4 +115,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

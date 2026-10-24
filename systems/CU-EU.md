@@ -61,16 +61,16 @@ Table: Invariant reactions reported in the literature for the Cu–Eu system (10
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1115 | eutectic: L -> FCC(Cu) + Cu5Eu | L: Eu 0.13; Cu5Eu: Eu 0.166667 | experimental | [1] Zhang 2007; _cites Costa 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990378-9) | Table 3, p. 3, row 2 |  |
-| 1109 | eutectic: L -> FCC(Cu) + Cu5Eu | L: Eu 0.1176; Cu5Eu: Eu 0.166667 | model | [1] Zhang 2007 | Table 3, p. 3, row 1 |  |
-| 870 | peritectic: L + Cu5Eu -> Cu2Eu | L: Eu 0.41; Cu5Eu: Eu 0.166667; Cu2Eu: Eu 0.333333 | experimental | [1] Zhang 2007; _cites Costa 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990378-9) | Table 3, p. 3, row 6 |  |
-| 869 | peritectic: L + Cu5Eu -> Cu2Eu | L: Eu 0.4081; Cu5Eu: Eu 0.166667; Cu2Eu: Eu 0.333333 | model | [1] Zhang 2007 | Table 3, p. 3, row 5 |  |
-| 810 | peritectic: L + Cu2Eu -> CuEu | L: Eu 0.51; Cu2Eu: Eu 0.333333; CuEu: Eu 0.5 | experimental | [1] Zhang 2007; _cites Costa 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990378-9) | Table 3, p. 3, row 8 |  |
-| 802 | peritectic: L + Cu2Eu -> CuEu | L: Eu 0.511; Cu2Eu: Eu 0.333333; CuEu: Eu 0.5 | model | [1] Zhang 2007 | Table 3, p. 3, row 7 |  |
-| 720 | peritectic: L + CuEu -> CuEu2 | L: Eu 0.7351; CuEu: Eu 0.5; CuEu2: Eu 0.666667 | model | [1] Zhang 2007 | Table 3, p. 3, row 9 |  |
-| 717 | eutectic: L -> BCC(Eu) + CuEu2 | L: Eu 0.7403; CuEu2: Eu 0.666667 | model | [1] Zhang 2007 | Table 3, p. 3, row 11 |  |
-| 715 | peritectic: L + CuEu -> CuEu2 | L: Eu 0.733; CuEu: Eu 0.5; CuEu2: Eu 0.666667 | experimental | [1] Zhang 2007; _cites Costa 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990378-9) | Table 3, p. 3, row 10 |  |
-| 710 | eutectic: L -> BCC(Eu) + CuEu2 | L: Eu 0.74; CuEu2: Eu 0.666667 | experimental | [1] Zhang 2007; _cites Costa 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990378-9) | Table 3, p. 3, row 12 |  |
+| 1115 | eutectic: L -> FCC(Cu) + Cu5Eu | L: Eu 0.13; Cu5Eu: Eu 0.166667 | experimental | [1] Zhang 2007; _cites Costa 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990378-9) | Table 3, p. 3, row 2; `ORC-Q74EZFZIG2` |  |
+| 1109 | eutectic: L -> FCC(Cu) + Cu5Eu | L: Eu 0.1176; Cu5Eu: Eu 0.166667 | model | [1] Zhang 2007 | Table 3, p. 3, row 1; `ORC-ZTE7BX6DVM` |  |
+| 870 | peritectic: L + Cu5Eu -> Cu2Eu | L: Eu 0.41; Cu5Eu: Eu 0.166667; Cu2Eu: Eu 0.333333 | experimental | [1] Zhang 2007; _cites Costa 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990378-9) | Table 3, p. 3, row 6; `ORC-THLLW5P6TA` |  |
+| 869 | peritectic: L + Cu5Eu -> Cu2Eu | L: Eu 0.4081; Cu5Eu: Eu 0.166667; Cu2Eu: Eu 0.333333 | model | [1] Zhang 2007 | Table 3, p. 3, row 5; `ORC-OOBLQXTENB` |  |
+| 810 | peritectic: L + Cu2Eu -> CuEu | L: Eu 0.51; Cu2Eu: Eu 0.333333; CuEu: Eu 0.5 | experimental | [1] Zhang 2007; _cites Costa 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990378-9) | Table 3, p. 3, row 8; `ORC-G4RQYKT4CB` |  |
+| 802 | peritectic: L + Cu2Eu -> CuEu | L: Eu 0.511; Cu2Eu: Eu 0.333333; CuEu: Eu 0.5 | model | [1] Zhang 2007 | Table 3, p. 3, row 7; `ORC-BAICGKZWGU` |  |
+| 720 | peritectic: L + CuEu -> CuEu2 | L: Eu 0.7351; CuEu: Eu 0.5; CuEu2: Eu 0.666667 | model | [1] Zhang 2007 | Table 3, p. 3, row 9; `ORC-UHX5Y6VWCI` |  |
+| 717 | eutectic: L -> BCC(Eu) + CuEu2 | L: Eu 0.7403; CuEu2: Eu 0.666667 | model | [1] Zhang 2007 | Table 3, p. 3, row 11; `ORC-YQOYS5JDQF` |  |
+| 715 | peritectic: L + CuEu -> CuEu2 | L: Eu 0.733; CuEu: Eu 0.5; CuEu2: Eu 0.666667 | experimental | [1] Zhang 2007; _cites Costa 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990378-9) | Table 3, p. 3, row 10; `ORC-6J36MHNH75` |  |
+| 710 | eutectic: L -> BCC(Eu) + CuEu2 | L: Eu 0.74; CuEu2: Eu 0.666667 | experimental | [1] Zhang 2007; _cites Costa 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990378-9) | Table 3, p. 3, row 12; `ORC-U6TLLOWCBI` |  |
 
 ## Other properties
 
@@ -80,8 +80,8 @@ Table: Phase transition, Cu–Eu system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1120 K | 1120 | congruent melting: L -> Cu5Eu; _L: Eu 0.1667; Cu5Eu: Eu 0.166667_ | experimental | [1] Zhang 2007; _cites Costa 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990378-9) | Table 3, p. 3, row 4 |  |
-| Phase transition | 1122 K | 1122 | congruent melting: L -> Cu5Eu; _L: Eu 0.1667; Cu5Eu: Eu 0.166667_ | model | [1] Zhang 2007 | Table 3, p. 3, row 3 |  |
+| Phase transition | 1120 K | 1120 | congruent melting: L -> Cu5Eu; _L: Eu 0.1667; Cu5Eu: Eu 0.166667_ | experimental | [1] Zhang 2007; _cites Costa 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990378-9) | Table 3, p. 3, row 4; `ORC-RB3WSEHJB5` |  |
+| Phase transition | 1122 K | 1122 | congruent melting: L -> Cu5Eu; _L: Eu 0.1667; Cu5Eu: Eu 0.166667_ | model | [1] Zhang 2007 | Table 3, p. 3, row 3; `ORC-GSYR5CECNN` |  |
 
 ## Sources
 
@@ -146,4 +146,4 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 ---
 
-Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).
